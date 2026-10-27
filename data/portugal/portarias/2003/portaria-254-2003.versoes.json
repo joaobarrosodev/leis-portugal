@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:215483:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2003-910323079",
+ "dre_path": "/dr/detalhe/portaria/254-2003-215483",
+ "source_lastmod": "2025-03-10",
+ "versions": [
+  {
+   "date": "2003-03-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "910149652"
+   ]
+  }
+ ],
+ "fragments": {
+  "910149652": {
+   "fragment_id": "910323080",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 254/2003\n\nde 19 de Março\n\nO Decreto-Lei n.º 65/92, de 23 de Abril, teve em vista estabelecer um novo quadro regulador para as farinhas, sêmolas, pão e produtos afins, de modo a, por um lado, salvaguardar a capacidade concorrencial das indústrias alimentares nacionais face ao mercado único europeu e, por outro, atingir-se um elevado nível de protecção do consumidor.\n\nCom o presente diploma fixam-se, de acordo com o procedimento previsto no referido decreto-lei, as normas técnicas relativas à definição, caracterização, composição, acondicionamento, rotulagem, métodos de análise, tolerâncias analíticas e comercialização das farinhas destinadas à panificação e a outros fins e das sêmolas destinadas ao fabrico de massas alimentícias e a usos culinários.\n\nCumpriu-se o procedimento de informação no domínio das normas e regras técnicas previsto na Directiva n.º 98/34/CE, do Parlamento Europeu e do Conselho, de 22 de Junho, transposta para a ordem jurídica interna pelo Decreto-Lei n.º 58/2000, de 18 de Abril.\n\nAssim:\n\nManda o Governo, pelos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas, da Saúde e das Cidades, Ordenamento do Território e Ambiente, nos termos do disposto no artigo 1.º do Decreto-Lei n.º 65/92, de 23 de Abril, o seguinte:"
+  }
+ }
+}

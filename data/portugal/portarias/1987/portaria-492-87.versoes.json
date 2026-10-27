@@ -1,0 +1,887 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:419179:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1987-910886340",
+ "dre_path": "/dr/detalhe/portaria/492-1987-419179",
+ "source_lastmod": "2025-03-13",
+ "versions": [
+  {
+   "date": "1987-06-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "910930124",
+    "910930076",
+    "910930077",
+    "910930078",
+    "910930079",
+    "910930080",
+    "910930081",
+    "910930082",
+    "910930083"
+   ]
+  },
+  {
+   "date": "2015-04-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67085604:por",
+     "title": "Portaria n.º 116/2015",
+     "published": "2015-04-27",
+     "dre_path": "/dr/detalhe/portaria/116-2015-67085604"
+    }
+   ],
+   "changes": [
+    "Altera III",
+    "Altera VII"
+   ],
+   "fragments": [
+    "910930075",
+    "910930076",
+    "910930084",
+    "910930085",
+    "910930122",
+    "910930087",
+    "910930088",
+    "910930077",
+    "910930089",
+    "910930078",
+    "910930123",
+    "910930091",
+    "910930092",
+    "910930079",
+    "910930093",
+    "910930094",
+    "910930080",
+    "910930095",
+    "910930096",
+    "910930097",
+    "910930081",
+    "910930098",
+    "910930099",
+    "910930100",
+    "910930082",
+    "910930101",
+    "910930102",
+    "910930103",
+    "910930104",
+    "910930105",
+    "910930106",
+    "910930083",
+    "910930107",
+    "910930108",
+    "910930109",
+    "910930110",
+    "910930111",
+    "910930112",
+    "910930113",
+    "910930114",
+    "910930115"
+   ]
+  },
+  {
+   "date": "2025-03-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:910702652:por",
+     "title": "Portaria n.º 108/2025/1",
+     "published": "2025-03-13",
+     "dre_path": "/dr/detalhe/portaria/108-2025-910702652"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "910930124",
+    "910930125",
+    "910930126",
+    "910930127",
+    "910930128",
+    "910930129",
+    "910930130",
+    "910930131",
+    "910930132",
+    "910930133",
+    "910930134",
+    "910930135",
+    "910930136",
+    "910930137",
+    "910930138",
+    "910930139",
+    "910930140",
+    "910930141",
+    "910930142",
+    "910930143",
+    "910930144",
+    "910930145",
+    "910930146",
+    "910930147",
+    "910930148",
+    "910930149",
+    "910930150",
+    "910930151",
+    "910930152",
+    "910930153",
+    "910930154",
+    "910930155",
+    "910930156",
+    "910930157",
+    "910930158",
+    "910930159",
+    "910930160",
+    "910930161",
+    "910930162",
+    "910930163",
+    "910930164"
+   ]
+  }
+ ],
+ "fragments": {
+  "910930124": {
+   "fragment_id": "910886341",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-03-14",
+   "changed_by": [],
+   "markdown": "Portaria n.º 492/87\n\nde 12 de Junho\n\nO Decreto-Lei n.º 165/85, de 16 de Maio, instituiu o novo regime de formação profissional em cooperação entre o Instituto do Emprego e Formação Profissional e as diversas entidades do sector público, privado ou cooperativo que pretendam desenvolver acções de formação profissional.\n\nUma das formas de promoção da formação profissional em cooperação consiste na celebração de protocolos através dos quais são criados centros de formação profissional com a finalidade de responder às necessidades permanentes de formação num ou vários sectores da economia.\n\nConsiderando o disposto no artigo 32.º, n.º 1, do Decreto-Lei n.º 165/85, de 16 de Maio, procedeu-se à adaptação do respectivo protocolo ao regime jurídico instituído por aquele diploma legal.\n\nPor força das referidas disposições legais, torna-se agora necessário dotar o Centro de personalidade jurídica, mediante a respectiva homologação.\n\nNestes termos, ao abrigo do disposto nos n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança Social, o seguinte:\n\n1.º É homologado o protocolo que criou o Centro de Formação Profissional para o Sector da Construção Civil e Obras Públicas do Sul (CENFIC), outorgado entre o Instituto do Emprego e Formação Profissional e a Associação Nacional dos Empreiteiros de Obras Públicas (ANEOP), a Associação dos Industriais da Construção de Edifícios (AICE) e a Associação de Empresas de Construção e Obras Públicas do Sul (AECOPS).\n\n2.º O texto do protocolo, devidamente adaptado ao regime do Decreto-Lei n.º 165/85, por força do disposto no seu artigo 32.º, é publicado em anexo a esta portaria.\n\nMinistério do Trabalho e Segurança Social.\n\nAssinada em 20 de Maio de 1987.\n\nO Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.\n\nAdaptação do protocolo do Centro de Formação Profissional para o Sector da Construção Civil e Obras Públicas do Sul\n\nO Instituto do Emprego e Formação Profissional (IEFP) e a Associação Nacional dos Empreiteiros de Obras Públicas (ANEOP), a Associação dos Industriais da Construção de Edifícios (AICE) e a Associação de Empresas de Construção e Obras Públicas do Sul (AECOPS) adaptam o protocolo que criou o Centro de Formação Profissional de harmonia com as cláusulas seguintes:"
+  },
+  "910930076": {
+   "fragment_id": "910886342",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "910930077": {
+   "fragment_id": "910886343",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "910930078": {
+   "fragment_id": "910886344",
+   "type": 8,
+   "heading": "Secção I — Do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do conselho de administração"
+  },
+  "910930079": {
+   "fragment_id": "910886345",
+   "type": 8,
+   "heading": "Secção II — Do director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do director"
+  },
+  "910930080": {
+   "fragment_id": "910886346",
+   "type": 8,
+   "heading": "Secção III — Do conselho técnico-pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do conselho técnico-pedagógico"
+  },
+  "910930081": {
+   "fragment_id": "910886347",
+   "type": 8,
+   "heading": "Secção IV — Da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Da comissão de fiscalização"
+  },
+  "910930082": {
+   "fragment_id": "910886348",
+   "type": 1,
+   "heading": "Capítulo III — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições financeiras"
+  },
+  "910930083": {
+   "fragment_id": "910886349",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições diversas"
+  },
+  "910930075": {
+   "fragment_id": "910886341",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 492/87\n\nde 12 de Junho\n\nO Decreto-Lei n.º 165/85, de 16 de Maio, instituiu o novo regime de formação profissional em cooperação entre o Instituto do Emprego e Formação Profissional e as diversas entidades do sector público, privado ou cooperativo que pretendam desenvolver acções de formação profissional.\n\nUma das formas de promoção da formação profissional em cooperação consiste na celebração de protocolos através dos quais são criados centros de formação profissional com a finalidade de responder às necessidades permanentes de formação num ou vários sectores da economia.\n\nConsiderando o disposto no artigo 32.º, n.º 1, do Decreto-Lei n.º 165/85, de 16 de Maio, procedeu-se à adaptação do respectivo protocolo ao regime jurídico instituído por aquele diploma legal.\n\nPor força das referidas disposições legais, torna-se agora necessário dotar o Centro de personalidade jurídica, mediante a respectiva homologação.\n\nNestes termos, ao abrigo do disposto nos n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança Social, o seguinte:\n\n1.º É homologado o protocolo que criou o Centro de Formação Profissional para o Sector da Construção Civil e Obras Públicas do Sul (CENFIC), outorgado entre o Instituto do Emprego e Formação Profissional e a Associação Nacional dos Empreiteiros de Obras Públicas (ANEOP), a Associação dos Industriais da Construção de Edifícios (AICE) e a Associação de Empresas de Construção e Obras Públicas do Sul (AECOPS).\n\n2.º O texto do protocolo, devidamente adaptado ao regime do Decreto-Lei n.º 165/85, por força do disposto no seu artigo 32.º, é publicado em anexo a esta portaria.\n\nMinistério do Trabalho e Segurança Social.\n\nAssinada em 20 de Maio de 1987.\n\nO Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.\n\nAdaptação do protocolo do Centro de Formação Profissional para o Sector da Construção Civil e Obras Públicas do Sul\n\nO Instituto do Emprego e Formação Profissional (IEFP) e a Associação Nacional dos Empreiteiros de Obras Públicas (ANEOP), a Associação dos Industriais da Construção de Edifícios (AICE) e a Associação de Empresas de Construção e Obras Públicas do Sul (AECOPS) adaptam o protocolo que criou o Centro de Formação Profissional de harmonia com as cláusulas seguintes:"
+  },
+  "910930084": {
+   "fragment_id": "910886351",
+   "type": 11,
+   "heading": "I — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### I — Denominação\n\nO centro protocolar mantém a designação de Centro de Formação Profissional da Indústria da Construção Civil e Obras Públicas do Sul (CENFIC)."
+  },
+  "910930085": {
+   "fragment_id": "910886352",
+   "type": 11,
+   "heading": "II — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### II — Natureza e atribuições\n\n1 - O Centro de Formação Profissional da Indústria da Construção Civil e Obras Públicas do Sul (CENFIC), doravante designado por «Centro», é um organismo dotado de personalidade jurídica de direito público, sem fins lucrativos, com autonomia administrativa e financeira e património próprio.\n\n2 - São atribuições do Centro promover actividades de formação profissional para valorização dos recursos humanos no sector."
+  },
+  "910930122": {
+   "fragment_id": "910886353",
+   "type": 11,
+   "heading": "III — Destinatários",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 116/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/116-2015-67085604), em vigor a partir de 2015-04-28"
+   ],
+   "markdown": "###### III — Destinatários\n\nA frequência do Centro é facultada, por ordem de prioridades:\n\na) Aos empresários e trabalhadores das empresas associadas da Associação dos Industriais da Construção de Edifícios (AICE) e da Associação de Empresas de Construção e Obras Públicas e Serviços (AECOPS);\n\nb) Aos candidatos às profissões que se enquadrem no âmbito do sector de actividade dos segundos outorgantes;\n\nc) Aos empresários e trabalhadores do sector da construção civil, ainda que não membros das associações outorgantes;\n\nd) Aos dirigentes e trabalhadores das entidades outorgantes ou indicados pelo IEFP.\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 116/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/116-2015-67085604), em vigor a partir de 2015-04-28"
+  },
+  "910930087": {
+   "fragment_id": "910886354",
+   "type": 11,
+   "heading": "IV — Âmbito e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### IV — Âmbito e duração\n\nO Centro exerce a sua competência no território continental e durará por tempo indeterminado."
+  },
+  "910930088": {
+   "fragment_id": "910886355",
+   "type": 11,
+   "heading": "V — Sede e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### V — Sede e delegações\n\nO Centro tem a sua sede em Lisboa e pode criar as delegações que se mostrarem comprovadamente necessárias."
+  },
+  "910930089": {
+   "fragment_id": "910886356",
+   "type": 11,
+   "heading": "VI — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### VI — Órgãos\n\nA estrutura orgânica do Centro compreende os seguintes órgãos:\n\na) O conselho de administração (CA);\n\nb) O director;\n\nc) O conselho técnico-pedagógico (CTP);\n\nd) A comissão de fiscalização (CF)."
+  },
+  "910930123": {
+   "fragment_id": "910886357",
+   "type": 11,
+   "heading": "VII — Composição",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 116/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/116-2015-67085604), em vigor a partir de 2015-04-28"
+   ],
+   "markdown": "###### VII — Composição\n\n1 - O CA é constituído por quatro elementos, sendo dois em representação do IEFP, I. P. e os restantes em representação dos segundos outorgantes.\n\n2 - O presidente do CA do Centro é, necessariamente, um dos representantes do primeiro outorgante e, nas suas faltas ou impedimentos, será substituído pelo seu outro representante.\n\n3 - O mandato dos membros do CA tem a duração de três anos, renováveis.\n\n4 - Os membros do CA são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes.\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 116/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/116-2015-67085604), em vigor a partir de 2015-04-28"
+  },
+  "910930091": {
+   "fragment_id": "910886358",
+   "type": 11,
+   "heading": "VIII — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### VIII — Competência\n\nCompete ao CA exercer os poderes de administração, praticando todos os actos tendentes à realização das atribuições do Centro, cabendo-lhe, nomeadamente:\n\na) Admitir, promover ou despedir o pessoal necessário ao funcionamento do organismo, sob proposta do director;\n\nb) Analisar e aprovar o plano de actividades, o orçamento ordinário e o relatório e contas do exercício;\n\nc) Aprovar e fazer cumprir os regulamentos internos;\n\nd) Delegar no director as competências que entender necessárias para o bom funcionamento do Centro e fiscalizar o exercício dessas competências;\n\ne) Definir as linhas de orientação que deverão pautar as acções do Centro;\n\nf) Responder pela gestão financeira das verbas concedidas para a instalação e equipamento, bem como para o funcionamento do Centro."
+  },
+  "910930092": {
+   "fragment_id": "910886359",
+   "type": 11,
+   "heading": "IX — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### IX — Funcionamento\n\n1 - O CA reúne ordinariamente uma vez por mês extraordinariamente sempre que o presidente o convocar, por iniciativa própria ou a pedido de qualquer dos seus membros ou do director do Centro.\n\n2 - As reuniões do CA serão dirigidas pelo presidente ou, na falta ou impedimento pelo deste, pelo respectivo substituto, que serão sempre representantes do IEFP.\n\n3 - O IEFP terá no CA o centro protocolar um número de votos correspondente a 50% do total.\n\n4 - O CA só reúne validamente desde que estejam presentes, pelo menos, um representante do primeiro outorgante e um representante dos restantes.\n\n5 - As deliberações do CA são tomadas por maioria de votos. Nas deliberações referentes à aprovação do programa de actividades e do orçamento o presidente goza de voto de qualidade.\n\n6 - O CA, ou qualquer dos seus membros, pode solicitar a assistência e exame às actividades do Centro que entender necessárias, nomeadamente o IEFP.\n\n7 - De cada reunião será lavrada acta, a submeter à aprovação e assinatura do CA na reunião seguinte."
+  },
+  "910930093": {
+   "fragment_id": "910886360",
+   "type": 11,
+   "heading": "X — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### X — Designação\n\nSob proposta conjunta dos outorgantes, ouvido o CA do Centro, o director será nomeado e exonerado por despacho do Ministro do Trabalho e Segurança Social ou de quem tiver competência por ele delegada."
+  },
+  "910930094": {
+   "fragment_id": "910886361",
+   "type": 11,
+   "heading": "XI — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XI — Competência\n\n1 - O director é o superior hierárquico de todo o pessoal do Centro e é o responsável pela execução das deliberações do CA, a cujas reuniões deve assistir, embora sem direito a voto, quando para tal for convocado. A convocação será feita pelo presidente, por sua iniciativa ou a pedido de algum dos membros do CA.\n\n2 - O director terá a seu cargo a gestão corrente do Centro, cabendo-lhe, designadamente:\n\na) Organizar os serviços;\n\nb) Elaborar e submeter à apreciação do CA, até ao dia 15 de Maio do ano anterior, o plano de actividades e o orçamento;\n\nc) Despachar e assinar o expediente corrente;\n\nd) Propor ao CA a admissão, promoção e exoneração do pessoal;\n\ne) Exercer a acção disciplinar sobre o pessoal do Centro e seus utentes;\n\nf) Elaborar e submeter à apreciação do CA, até ao dia 1 de Março, o relatório e contas do exercício anterior;\n\ng) Manter o CA regularmente informado sobre o ritmo de execução do plano de actividades e da situação financeira do Centro, bem como dos eventuais desvios às previsões e objectivos daquele plano;\n\nh) Propor ao CA todas as iniciativas que entenda úteis para o bom funcionamento e desenvolvimento do Centro, ainda que não constem do plano actividades;\n\ni) Responder e responsabilizar-se perante o CA pela correcta utilização das verbas postas à disposição do Centro;\n\nj) Presidir às reuniões do CTP.\n\n3 - O pessoal a admitir pelo Centro nos termos da alínea d) do número anterior será preferencialmente seleccionado através da rede dos centros de emprego do primeiro outorgante."
+  },
+  "910930095": {
+   "fragment_id": "910886362",
+   "type": 11,
+   "heading": "XII — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XII — Composição\n\n1 - O CTP é constituído pelo director e por um representante de cada outorgante.\n\n2 - Os membros do CTP, cujo mandato é de três anos, renováveis, são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social ou de quem tiver competência por ele delegada, mediante proposta dos outorgantes que representam."
+  },
+  "910930096": {
+   "fragment_id": "910886363",
+   "type": 11,
+   "heading": "XIII — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XIII — Competência\n\nO CTP é um órgão consultivo, ao qual compete pronunciar-se sobre os planos e programas dos cursos a ministrar, bem como proceder à elaboração de estudos, pareceres e relatórios sobre as actividades do Centro, podendo fazê-lo por sua própria iniciativa ou a pedido do CA."
+  },
+  "910930097": {
+   "fragment_id": "910886370",
+   "type": 11,
+   "heading": "XIV — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XIV — Funcionamento\n\n1 - O CTP reunirá trimestralmente e por iniciativa do seu presidente ou a pedido de qualquer dos seus membros.\n\n2 - Das reuniões do conselho será lavrada acta.\n\n3 - Os membros do CTP poderão fazer-se acompanhar por qualquer técnico nacional ou estrangeiro, quando tal se justifique em função da complexidade ou especificidade das matérias a tratar."
+  },
+  "910930098": {
+   "fragment_id": "910886371",
+   "type": 11,
+   "heading": "XV — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XV — Composição\n\n1 - A CF é constituída por um representante de cada um dos outorgantes.\n\n2 - A presidência da CF cabe ao representante do IEFP.\n\n3 - O mandato dos membros da CF tem a duração de três anos, renováveis.\n\n4 - Os membros da CF são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta do outorgante que representam."
+  },
+  "910930099": {
+   "fragment_id": "910886372",
+   "type": 11,
+   "heading": "XVI — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XVI — Competência\n\nCompete à CF:\n\na) Apreciar e dar parecer sobre os orçamentos e contas do Centro;\n\nb) Apreciar os relatórios de actividades e dar parecer sobre o mérito da gestão financeira desenvolvida;\n\nc) Examinar a contabilidade do Centro;\n\nd) Pronunciar-se sobre qualquer assunto de interesse que seja submetido à sua apreciação pelo CA."
+  },
+  "910930100": {
+   "fragment_id": "910886373",
+   "type": 11,
+   "heading": "XVII — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XVII — Funcionamento\n\n1 - A CF reunirá ordinariamente de três em três meses e extraordinariamente sempre que o presidente a convocar, por sua iniciativa ou a pedido de qualquer dos seus membros.\n\n2 - A CF só poderá deliberar quando se encontre presente a maioria seus membros, cabendo ao presidente voto de qualidade.\n\n3 - De todas as reuniões será lavrada acta.\n\n4 - A CF poderá fazer-se assistir, se o entender conveniente, por auditores internos ou externos.\n\n5 - No exercício da sua actividade poderá a CF solicitar todos os elementos de informação que entenda necessários.\n\n6 - A convite do CA poderão os membros da CF assistir, individual ou conjuntamente, às reuniões daquele conselho, embora sem direito a voto."
+  },
+  "910930101": {
+   "fragment_id": "910886374",
+   "type": 11,
+   "heading": "XVIII — Princípios de gestão económico-financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XVIII — Princípios de gestão económico-financeira\n\n1 - O Centro adoptará uma organização financeira e contabilística do tipo empresarial, tomando como referencial o Plano Oficial de Contabilidade e aplicando a legislação referente às empresas públicas para amortizações, reintegrações e reavaliações do activo.\n\n2 - O Centro implementará um sistema de contabilidade analítica que permita o apuramento do custo da formação por especialidade e ou por formando.\n\n3 - O Instituto, por um lado, e os restantes outorgantes do protocolo, por outro, pagarão a comparticipação financeira que lhes competir para a cobertura das actividades do Centro, de acordo com as necessidades deste, devidamente comprovadas.\n\n4 - Para efeitos do disposto no número anterior o Centro elaborará mensalmente o orçamento de tesouraria, subdividido em despesas de funcionamento e capital, que enviará ao Instituto e aos restantes outorgantes."
+  },
+  "910930102": {
+   "fragment_id": "910930675",
+   "type": 11,
+   "heading": "XIX — Instrumentos de gestão previsional e de controle de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XIX — Instrumentos de gestão previsional e de controle de gestão\n\nA gestão do Centro será disciplinada pelos seguintes instrumentos:\n\na) Planos de actividades e financeiros plurianuais;\n\nb) Plano de actividades e orçamentos anuais, individualizando, pelo menos, as de despesas de funcionamento e as de despesas de capital, financeiro e cambial, e suas actualizações;\n\nc) Relatórios trimestrais de controle orçamental abrangendo os aspectos financeiros e técnicos."
+  },
+  "910930103": {
+   "fragment_id": "910930676",
+   "type": 11,
+   "heading": "XX — Planos de actividades e financeiros plurianuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XX — Planos de actividades e financeiros plurianuais\n\n1 - Os planos de actividades plurianuais estabelecerão a estratégia a seguir pelo Centro, sendo reformulados sempre que as circunstâncias o justifiquem.\n\n2 - Os planos financeiros plurianuais incluirão o programa de investimento e respectiva(s) fonte(s) de financiamento."
+  },
+  "910930104": {
+   "fragment_id": "910930677",
+   "type": 11,
+   "heading": "XXI — Plano de actividades e orçamentos anuais e relatórios de controle orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XXI — Plano de actividades e orçamentos anuais e relatórios de controle orçamental\n\n1 - O Centro preparará, por cada ano económico, o plano de actividades e os orçamentos anuais, os quais deverão ser completados com os desdobramentos necessários para permitir a descentralização de responsabilidade e adequado controle, bem como a apreciação de indicadores respeitantes aos resultados atingidos pelas acções de formação implementadas.\n\n2 - As propostas de planos de actividades e os orçamentos anuais deverão ser enviados aos outorgantes até 31 de Maio do ano anterior, devendo os mesmos dar a sua aprovação de princípio no prazo de 90 dias.\n\n3 - O plano de actividades e orçamento acompanhados do parecer da CF serão aprovados em definitivo no prazo de 30 dias após a aprovação do plano e orçamento do IEFP.\n\n4 - Os relatórios de controle orçamental devem ser apresentados ao CA do Centro no prazo de quinze dias após o término do período a que se referem e remetidos aos outorgantes nos quinze dias subsequentes."
+  },
+  "910930105": {
+   "fragment_id": "910930678",
+   "type": 11,
+   "heading": "XXII — Documentos de prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XXII — Documentos de prestação de contas\n\n1 - Anualmente, com referência a 31 de Dezembro, serão elaborados os documentos de prestação de contas, que compreenderão:\n\na) Relatório do CA sobre as actividades e situação do Centro;\n\nb) Balanço analítico;\n\nc) Demonstração de resultados;\n\nd) Parecer da CF.\n\n2 - Os documentos referidos no número anterior serão completados com outros elementos de interesse para apreciação da situação do Centro, nomeadamente:\n\na) Anexo ao balanço e à demonstração de resultados;\n\nb) Mapa de origem e aplicação de fundos;\n\nc) Mapas sintéticos relativos ao grau de execução do programa anual de actividades e do orçamento anual;\n\nd) Outros indicadores significativos das actividades do Centro directamente relacionados com os programas de formação realizados durante o exercício.\n\n3 - Os elementos de prestação de contas deverão ser enviados, para parecer, à CF até fins de Fevereiro do ano seguinte e enviados pelo CA do Centro à comissão executiva do IEFP até 31 de Março.\n\n4 - Os saldos apurados no fim do exercício transitarão para o ano seguinte."
+  },
+  "910930106": {
+   "fragment_id": "910930679",
+   "type": 11,
+   "heading": "XXIII — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XXIII — Receitas e despesas\n\n1 - As despesas com instalações e equipamento do Centro poderão ser suportadas até 100% pelo IEFP.\n\n2 - A cobertura das despesas de funcionamento do Centro, a suportar pelo IEFP, não poderá exceder 95%, competindo aos demais elementos outorgantes assumir a restante comparticipação.\n\n3 - Para as acções de formação profissional a desenvolver no Centro e que o IEFP considere elegíveis para a apresentação ao Fundo Social Europeu ou de interesse nacional a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas por aquele Fundo Comunitário, deduzidas eventuais receitas das acções.\n\n4 - As importâncias pagas pelas entidades referidas na cláusula III a título de inscrição nos cursos integram a comparticipação dos segundos outorgantes.\n\n5 - As receitas provenientes da venda de produtos ou da prestação de serviços constituem receitas do Centro, que serão deduzidas na devida proporção da compartição dos outorgantes, referida no n.º 2."
+  },
+  "910930107": {
+   "fragment_id": "910930680",
+   "type": 11,
+   "heading": "XXIV — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XXIV — Representação\n\nO Centro obrigar-se-á pelas assinaturas de dois membros do CA, devendo uma delas ser obrigatoriamente a do presidente efectivo ou substituto e a outra de um dos representantes dos outros outorgantes."
+  },
+  "910930108": {
+   "fragment_id": "910930681",
+   "type": 11,
+   "heading": "XXV — Resolução unilateral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XXV — Resolução unilateral\n\nA resolução unilateral do protocolo por qualquer das entidades outorgantes não confere direito a qualquer indemnização, sem prejuízo do dever de ressarcir eventuais danos quando a resolução seja injustificada."
+  },
+  "910930109": {
+   "fragment_id": "910930682",
+   "type": 11,
+   "heading": "XXVI — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XXVI — Incumprimento\n\nO incumprimento não justificado, por qualquer dos outorgantes, das obrigações assumidas no âmbito do presente protocolo pode determinar a sua exclusão por deliberação do CA do IEFP, sujeita a homologação do Ministro do Trabalho e Segurança Social."
+  },
+  "910930110": {
+   "fragment_id": "910930683",
+   "type": 11,
+   "heading": "XXVII — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XXVII — Extinção\n\n1 - Em caso de manifesta impossibilidade da realização dos fins essenciais do Centro, o Ministro do Trabalho e Segurança Social poderá determinar a cessação da sua actividade e consequente extinção, mediante proposta de qualquer outorgante, aprovada pelo CA do IEFP.\n\n2 - Em caso de extinção, o património do Centro será rateado pelos outorgantes em partes proporcionais às respectivas comparticipações financeiras."
+  },
+  "910930111": {
+   "fragment_id": "910930684",
+   "type": 11,
+   "heading": "XXVIII — Alterações ao protocolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XXVIII — Alterações ao protocolo\n\nO CA do IEFP poderá propor aos outorgantes as necessárias alterações e aditamentos a este protocolo, devendo, em caso de acordo, celebrar-se o respectivo adicional, a homologar e publicar nos mesmos termos deste protocolo."
+  },
+  "910930112": {
+   "fragment_id": "910930685",
+   "type": 11,
+   "heading": "XXIX — Adesão ao protocolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XXIX — Adesão ao protocolo\n\nMediante proposta fundamentada do CA do Centro poderão os outorgantes autorizar futuras adesões de outras entidades a este protocolo."
+  },
+  "910930113": {
+   "fragment_id": "910930686",
+   "type": 11,
+   "heading": "XXX — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XXX — Legislação aplicável\n\nEm tudo o omisso neste protocolo aplicar-se-á o disposto no Decreto-Lei n.º 165/85, de 16 de Maio."
+  },
+  "910930114": {
+   "fragment_id": "910930687",
+   "type": 11,
+   "heading": "XXXI — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### XXXI — Entrada em vigor\n\nO presente protocolo entra em vigor depois de assinado pelas entidades outorgantes e homologado pelo Ministro do Trabalho e Segurança Social."
+  },
+  "910930115": {
+   "fragment_id": "910930688",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lisboa, 6 de Março de 1987. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral. - Pelo Instituto do Emprego e Formação Profissional, (Assinatura ilegível.) - Pela Associação Nacional dos Empreiteiros de Obras Públicas, (Assinatura ilegível.) - Pela Associação de Empresas de Construção Civil e Obras Públicas do Sul, (Assinatura ilegível.)"
+  },
+  "910930125": {
+   "fragment_id": "910886342",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930126": {
+   "fragment_id": "910886351",
+   "type": 11,
+   "heading": "I — Denominação",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### I — Denominação\n\nO centro protocolar mantém a designação de Centro de Formação Profissional da Indústria da Construção Civil e Obras Públicas do Sul (CENFIC).\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930127": {
+   "fragment_id": "910886352",
+   "type": 11,
+   "heading": "II — Natureza e atribuições",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### II — Natureza e atribuições\n\n1 - O Centro de Formação Profissional da Indústria da Construção Civil e Obras Públicas do Sul (CENFIC), doravante designado por «Centro», é um organismo dotado de personalidade jurídica de direito público, sem fins lucrativos, com autonomia administrativa e financeira e património próprio.\n\n2 - São atribuições do Centro promover actividades de formação profissional para valorização dos recursos humanos no sector.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930128": {
+   "fragment_id": "910886353",
+   "type": 11,
+   "heading": "III — Destinatários",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14",
+    "Alterado pelo/a Anexo do/a [Portaria n.º 116/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/116-2015-67085604), em vigor a partir de 2015-04-28"
+   ],
+   "markdown": "###### III — Destinatários\n\nA frequência do Centro é facultada, por ordem de prioridades:\n\na) Aos empresários e trabalhadores das empresas associadas da Associação dos Industriais da Construção de Edifícios (AICE) e da Associação de Empresas de Construção e Obras Públicas e Serviços (AECOPS);\n\nb) Aos candidatos às profissões que se enquadrem no âmbito do sector de actividade dos segundos outorgantes;\n\nc) Aos empresários e trabalhadores do sector da construção civil, ainda que não membros das associações outorgantes;\n\nd) Aos dirigentes e trabalhadores das entidades outorgantes ou indicados pelo IEFP.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 116/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/116-2015-67085604), em vigor a partir de 2015-04-28"
+  },
+  "910930129": {
+   "fragment_id": "910886354",
+   "type": 11,
+   "heading": "IV — Âmbito e duração",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### IV — Âmbito e duração\n\nO Centro exerce a sua competência no território continental e durará por tempo indeterminado.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930130": {
+   "fragment_id": "910886355",
+   "type": 11,
+   "heading": "V — Sede e delegações",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### V — Sede e delegações\n\nO Centro tem a sua sede em Lisboa e pode criar as delegações que se mostrarem comprovadamente necessárias.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930131": {
+   "fragment_id": "910886343",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "### Capítulo II — Estrutura orgânica\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930132": {
+   "fragment_id": "910886356",
+   "type": 11,
+   "heading": "VI — Órgãos",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### VI — Órgãos\n\nA estrutura orgânica do Centro compreende os seguintes órgãos:\n\na) O conselho de administração (CA);\n\nb) O director;\n\nc) O conselho técnico-pedagógico (CTP);\n\nd) A comissão de fiscalização (CF).\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930133": {
+   "fragment_id": "910886344",
+   "type": 8,
+   "heading": "Secção I — Do conselho de administração",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "#### Secção I — Do conselho de administração\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930134": {
+   "fragment_id": "910886357",
+   "type": 11,
+   "heading": "VII — Composição",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14",
+    "Alterado pelo/a Anexo do/a [Portaria n.º 116/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/116-2015-67085604), em vigor a partir de 2015-04-28"
+   ],
+   "markdown": "###### VII — Composição\n\n1 - O CA é constituído por quatro elementos, sendo dois em representação do IEFP, I. P. e os restantes em representação dos segundos outorgantes.\n\n2 - O presidente do CA do Centro é, necessariamente, um dos representantes do primeiro outorgante e, nas suas faltas ou impedimentos, será substituído pelo seu outro representante.\n\n3 - O mandato dos membros do CA tem a duração de três anos, renováveis.\n\n4 - Os membros do CA são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 116/2015 - Diário da República n.º 81/2015, Série I de 2015-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/116-2015-67085604), em vigor a partir de 2015-04-28"
+  },
+  "910930135": {
+   "fragment_id": "910886358",
+   "type": 11,
+   "heading": "VIII — Competência",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### VIII — Competência\n\nCompete ao CA exercer os poderes de administração, praticando todos os actos tendentes à realização das atribuições do Centro, cabendo-lhe, nomeadamente:\n\na) Admitir, promover ou despedir o pessoal necessário ao funcionamento do organismo, sob proposta do director;\n\nb) Analisar e aprovar o plano de actividades, o orçamento ordinário e o relatório e contas do exercício;\n\nc) Aprovar e fazer cumprir os regulamentos internos;\n\nd) Delegar no director as competências que entender necessárias para o bom funcionamento do Centro e fiscalizar o exercício dessas competências;\n\ne) Definir as linhas de orientação que deverão pautar as acções do Centro;\n\nf) Responder pela gestão financeira das verbas concedidas para a instalação e equipamento, bem como para o funcionamento do Centro.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930136": {
+   "fragment_id": "910886359",
+   "type": 11,
+   "heading": "IX — Funcionamento",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### IX — Funcionamento\n\n1 - O CA reúne ordinariamente uma vez por mês extraordinariamente sempre que o presidente o convocar, por iniciativa própria ou a pedido de qualquer dos seus membros ou do director do Centro.\n\n2 - As reuniões do CA serão dirigidas pelo presidente ou, na falta ou impedimento pelo deste, pelo respectivo substituto, que serão sempre representantes do IEFP.\n\n3 - O IEFP terá no CA o centro protocolar um número de votos correspondente a 50% do total.\n\n4 - O CA só reúne validamente desde que estejam presentes, pelo menos, um representante do primeiro outorgante e um representante dos restantes.\n\n5 - As deliberações do CA são tomadas por maioria de votos. Nas deliberações referentes à aprovação do programa de actividades e do orçamento o presidente goza de voto de qualidade.\n\n6 - O CA, ou qualquer dos seus membros, pode solicitar a assistência e exame às actividades do Centro que entender necessárias, nomeadamente o IEFP.\n\n7 - De cada reunião será lavrada acta, a submeter à aprovação e assinatura do CA na reunião seguinte.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930137": {
+   "fragment_id": "910886345",
+   "type": 8,
+   "heading": "Secção II — Do director",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "#### Secção II — Do director\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930138": {
+   "fragment_id": "910886360",
+   "type": 11,
+   "heading": "X — Designação",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### X — Designação\n\nSob proposta conjunta dos outorgantes, ouvido o CA do Centro, o director será nomeado e exonerado por despacho do Ministro do Trabalho e Segurança Social ou de quem tiver competência por ele delegada.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930139": {
+   "fragment_id": "910886361",
+   "type": 11,
+   "heading": "XI — Competência",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XI — Competência\n\n1 - O director é o superior hierárquico de todo o pessoal do Centro e é o responsável pela execução das deliberações do CA, a cujas reuniões deve assistir, embora sem direito a voto, quando para tal for convocado. A convocação será feita pelo presidente, por sua iniciativa ou a pedido de algum dos membros do CA.\n\n2 - O director terá a seu cargo a gestão corrente do Centro, cabendo-lhe, designadamente:\n\na) Organizar os serviços;\n\nb) Elaborar e submeter à apreciação do CA, até ao dia 15 de Maio do ano anterior, o plano de actividades e o orçamento;\n\nc) Despachar e assinar o expediente corrente;\n\nd) Propor ao CA a admissão, promoção e exoneração do pessoal;\n\ne) Exercer a acção disciplinar sobre o pessoal do Centro e seus utentes;\n\nf) Elaborar e submeter à apreciação do CA, até ao dia 1 de Março, o relatório e contas do exercício anterior;\n\ng) Manter o CA regularmente informado sobre o ritmo de execução do plano de actividades e da situação financeira do Centro, bem como dos eventuais desvios às previsões e objectivos daquele plano;\n\nh) Propor ao CA todas as iniciativas que entenda úteis para o bom funcionamento e desenvolvimento do Centro, ainda que não constem do plano actividades;\n\ni) Responder e responsabilizar-se perante o CA pela correcta utilização das verbas postas à disposição do Centro;\n\nj) Presidir às reuniões do CTP.\n\n3 - O pessoal a admitir pelo Centro nos termos da alínea d) do número anterior será preferencialmente seleccionado através da rede dos centros de emprego do primeiro outorgante.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930140": {
+   "fragment_id": "910886346",
+   "type": 8,
+   "heading": "Secção III — Do conselho técnico-pedagógico",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "#### Secção III — Do conselho técnico-pedagógico\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930141": {
+   "fragment_id": "910886362",
+   "type": 11,
+   "heading": "XII — Composição",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XII — Composição\n\n1 - O CTP é constituído pelo director e por um representante de cada outorgante.\n\n2 - Os membros do CTP, cujo mandato é de três anos, renováveis, são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social ou de quem tiver competência por ele delegada, mediante proposta dos outorgantes que representam.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930142": {
+   "fragment_id": "910886363",
+   "type": 11,
+   "heading": "XIII — Competência",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XIII — Competência\n\nO CTP é um órgão consultivo, ao qual compete pronunciar-se sobre os planos e programas dos cursos a ministrar, bem como proceder à elaboração de estudos, pareceres e relatórios sobre as actividades do Centro, podendo fazê-lo por sua própria iniciativa ou a pedido do CA.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930143": {
+   "fragment_id": "910886370",
+   "type": 11,
+   "heading": "XIV — Funcionamento",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XIV — Funcionamento\n\n1 - O CTP reunirá trimestralmente e por iniciativa do seu presidente ou a pedido de qualquer dos seus membros.\n\n2 - Das reuniões do conselho será lavrada acta.\n\n3 - Os membros do CTP poderão fazer-se acompanhar por qualquer técnico nacional ou estrangeiro, quando tal se justifique em função da complexidade ou especificidade das matérias a tratar.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930144": {
+   "fragment_id": "910886347",
+   "type": 8,
+   "heading": "Secção IV — Da comissão de fiscalização",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "#### Secção IV — Da comissão de fiscalização\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930145": {
+   "fragment_id": "910886371",
+   "type": 11,
+   "heading": "XV — Composição",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XV — Composição\n\n1 - A CF é constituída por um representante de cada um dos outorgantes.\n\n2 - A presidência da CF cabe ao representante do IEFP.\n\n3 - O mandato dos membros da CF tem a duração de três anos, renováveis.\n\n4 - Os membros da CF são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta do outorgante que representam.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930146": {
+   "fragment_id": "910886372",
+   "type": 11,
+   "heading": "XVI — Competência",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XVI — Competência\n\nCompete à CF:\n\na) Apreciar e dar parecer sobre os orçamentos e contas do Centro;\n\nb) Apreciar os relatórios de actividades e dar parecer sobre o mérito da gestão financeira desenvolvida;\n\nc) Examinar a contabilidade do Centro;\n\nd) Pronunciar-se sobre qualquer assunto de interesse que seja submetido à sua apreciação pelo CA.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930147": {
+   "fragment_id": "910886373",
+   "type": 11,
+   "heading": "XVII — Funcionamento",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XVII — Funcionamento\n\n1 - A CF reunirá ordinariamente de três em três meses e extraordinariamente sempre que o presidente a convocar, por sua iniciativa ou a pedido de qualquer dos seus membros.\n\n2 - A CF só poderá deliberar quando se encontre presente a maioria seus membros, cabendo ao presidente voto de qualidade.\n\n3 - De todas as reuniões será lavrada acta.\n\n4 - A CF poderá fazer-se assistir, se o entender conveniente, por auditores internos ou externos.\n\n5 - No exercício da sua actividade poderá a CF solicitar todos os elementos de informação que entenda necessários.\n\n6 - A convite do CA poderão os membros da CF assistir, individual ou conjuntamente, às reuniões daquele conselho, embora sem direito a voto.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930148": {
+   "fragment_id": "910886348",
+   "type": 1,
+   "heading": "Capítulo III — Disposições financeiras",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "### Capítulo III — Disposições financeiras\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930149": {
+   "fragment_id": "910886374",
+   "type": 11,
+   "heading": "XVIII — Princípios de gestão económico-financeira",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XVIII — Princípios de gestão económico-financeira\n\n1 - O Centro adoptará uma organização financeira e contabilística do tipo empresarial, tomando como referencial o Plano Oficial de Contabilidade e aplicando a legislação referente às empresas públicas para amortizações, reintegrações e reavaliações do activo.\n\n2 - O Centro implementará um sistema de contabilidade analítica que permita o apuramento do custo da formação por especialidade e ou por formando.\n\n3 - O Instituto, por um lado, e os restantes outorgantes do protocolo, por outro, pagarão a comparticipação financeira que lhes competir para a cobertura das actividades do Centro, de acordo com as necessidades deste, devidamente comprovadas.\n\n4 - Para efeitos do disposto no número anterior o Centro elaborará mensalmente o orçamento de tesouraria, subdividido em despesas de funcionamento e capital, que enviará ao Instituto e aos restantes outorgantes.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930150": {
+   "fragment_id": "910930675",
+   "type": 11,
+   "heading": "XIX — Instrumentos de gestão previsional e de controle de gestão",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XIX — Instrumentos de gestão previsional e de controle de gestão\n\nA gestão do Centro será disciplinada pelos seguintes instrumentos:\n\na) Planos de actividades e financeiros plurianuais;\n\nb) Plano de actividades e orçamentos anuais, individualizando, pelo menos, as de despesas de funcionamento e as de despesas de capital, financeiro e cambial, e suas actualizações;\n\nc) Relatórios trimestrais de controle orçamental abrangendo os aspectos financeiros e técnicos.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930151": {
+   "fragment_id": "910930676",
+   "type": 11,
+   "heading": "XX — Planos de actividades e financeiros plurianuais",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XX — Planos de actividades e financeiros plurianuais\n\n1 - Os planos de actividades plurianuais estabelecerão a estratégia a seguir pelo Centro, sendo reformulados sempre que as circunstâncias o justifiquem.\n\n2 - Os planos financeiros plurianuais incluirão o programa de investimento e respectiva(s) fonte(s) de financiamento.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930152": {
+   "fragment_id": "910930677",
+   "type": 11,
+   "heading": "XXI — Plano de actividades e orçamentos anuais e relatórios de controle orçamental",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XXI — Plano de actividades e orçamentos anuais e relatórios de controle orçamental\n\n1 - O Centro preparará, por cada ano económico, o plano de actividades e os orçamentos anuais, os quais deverão ser completados com os desdobramentos necessários para permitir a descentralização de responsabilidade e adequado controle, bem como a apreciação de indicadores respeitantes aos resultados atingidos pelas acções de formação implementadas.\n\n2 - As propostas de planos de actividades e os orçamentos anuais deverão ser enviados aos outorgantes até 31 de Maio do ano anterior, devendo os mesmos dar a sua aprovação de princípio no prazo de 90 dias.\n\n3 - O plano de actividades e orçamento acompanhados do parecer da CF serão aprovados em definitivo no prazo de 30 dias após a aprovação do plano e orçamento do IEFP.\n\n4 - Os relatórios de controle orçamental devem ser apresentados ao CA do Centro no prazo de quinze dias após o término do período a que se referem e remetidos aos outorgantes nos quinze dias subsequentes.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930153": {
+   "fragment_id": "910930678",
+   "type": 11,
+   "heading": "XXII — Documentos de prestação de contas",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XXII — Documentos de prestação de contas\n\n1 - Anualmente, com referência a 31 de Dezembro, serão elaborados os documentos de prestação de contas, que compreenderão:\n\na) Relatório do CA sobre as actividades e situação do Centro;\n\nb) Balanço analítico;\n\nc) Demonstração de resultados;\n\nd) Parecer da CF.\n\n2 - Os documentos referidos no número anterior serão completados com outros elementos de interesse para apreciação da situação do Centro, nomeadamente:\n\na) Anexo ao balanço e à demonstração de resultados;\n\nb) Mapa de origem e aplicação de fundos;\n\nc) Mapas sintéticos relativos ao grau de execução do programa anual de actividades e do orçamento anual;\n\nd) Outros indicadores significativos das actividades do Centro directamente relacionados com os programas de formação realizados durante o exercício.\n\n3 - Os elementos de prestação de contas deverão ser enviados, para parecer, à CF até fins de Fevereiro do ano seguinte e enviados pelo CA do Centro à comissão executiva do IEFP até 31 de Março.\n\n4 - Os saldos apurados no fim do exercício transitarão para o ano seguinte.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930154": {
+   "fragment_id": "910930679",
+   "type": 11,
+   "heading": "XXIII — Receitas e despesas",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XXIII — Receitas e despesas\n\n1 - As despesas com instalações e equipamento do Centro poderão ser suportadas até 100% pelo IEFP.\n\n2 - A cobertura das despesas de funcionamento do Centro, a suportar pelo IEFP, não poderá exceder 95%, competindo aos demais elementos outorgantes assumir a restante comparticipação.\n\n3 - Para as acções de formação profissional a desenvolver no Centro e que o IEFP considere elegíveis para a apresentação ao Fundo Social Europeu ou de interesse nacional a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas por aquele Fundo Comunitário, deduzidas eventuais receitas das acções.\n\n4 - As importâncias pagas pelas entidades referidas na cláusula III a título de inscrição nos cursos integram a comparticipação dos segundos outorgantes.\n\n5 - As receitas provenientes da venda de produtos ou da prestação de serviços constituem receitas do Centro, que serão deduzidas na devida proporção da compartição dos outorgantes, referida no n.º 2.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930155": {
+   "fragment_id": "910886349",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições diversas",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "### Capítulo IV — Disposições diversas\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930156": {
+   "fragment_id": "910930680",
+   "type": 11,
+   "heading": "XXIV — Representação",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XXIV — Representação\n\nO Centro obrigar-se-á pelas assinaturas de dois membros do CA, devendo uma delas ser obrigatoriamente a do presidente efectivo ou substituto e a outra de um dos representantes dos outros outorgantes.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930157": {
+   "fragment_id": "910930681",
+   "type": 11,
+   "heading": "XXV — Resolução unilateral",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XXV — Resolução unilateral\n\nA resolução unilateral do protocolo por qualquer das entidades outorgantes não confere direito a qualquer indemnização, sem prejuízo do dever de ressarcir eventuais danos quando a resolução seja injustificada.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930158": {
+   "fragment_id": "910930682",
+   "type": 11,
+   "heading": "XXVI — Incumprimento",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XXVI — Incumprimento\n\nO incumprimento não justificado, por qualquer dos outorgantes, das obrigações assumidas no âmbito do presente protocolo pode determinar a sua exclusão por deliberação do CA do IEFP, sujeita a homologação do Ministro do Trabalho e Segurança Social.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930159": {
+   "fragment_id": "910930683",
+   "type": 11,
+   "heading": "XXVII — Extinção",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XXVII — Extinção\n\n1 - Em caso de manifesta impossibilidade da realização dos fins essenciais do Centro, o Ministro do Trabalho e Segurança Social poderá determinar a cessação da sua actividade e consequente extinção, mediante proposta de qualquer outorgante, aprovada pelo CA do IEFP.\n\n2 - Em caso de extinção, o património do Centro será rateado pelos outorgantes em partes proporcionais às respectivas comparticipações financeiras.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930160": {
+   "fragment_id": "910930684",
+   "type": 11,
+   "heading": "XXVIII — Alterações ao protocolo",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XXVIII — Alterações ao protocolo\n\nO CA do IEFP poderá propor aos outorgantes as necessárias alterações e aditamentos a este protocolo, devendo, em caso de acordo, celebrar-se o respectivo adicional, a homologar e publicar nos mesmos termos deste protocolo.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930161": {
+   "fragment_id": "910930685",
+   "type": 11,
+   "heading": "XXIX — Adesão ao protocolo",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XXIX — Adesão ao protocolo\n\nMediante proposta fundamentada do CA do Centro poderão os outorgantes autorizar futuras adesões de outras entidades a este protocolo.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930162": {
+   "fragment_id": "910930686",
+   "type": 11,
+   "heading": "XXX — Legislação aplicável",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XXX — Legislação aplicável\n\nEm tudo o omisso neste protocolo aplicar-se-á o disposto no Decreto-Lei n.º 165/85, de 16 de Maio.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930163": {
+   "fragment_id": "910930687",
+   "type": 11,
+   "heading": "XXXI — Entrada em vigor",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### XXXI — Entrada em vigor\n\nO presente protocolo entra em vigor depois de assinado pelas entidades outorgantes e homologado pelo Ministro do Trabalho e Segurança Social.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910930164": {
+   "fragment_id": "910930688",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "Lisboa, 6 de Março de 1987. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral. - Pelo Instituto do Emprego e Formação Profissional, (Assinatura ilegível.) - Pela Associação Nacional dos Empreiteiros de Obras Públicas, (Assinatura ilegível.) - Pela Associação de Empresas de Construção Civil e Obras Públicas do Sul, (Assinatura ilegível.)\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  }
+ }
+}

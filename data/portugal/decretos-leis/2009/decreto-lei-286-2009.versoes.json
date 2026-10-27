@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:491227:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-75338460",
+ "dre_path": "/dr/detalhe/decreto-lei/286-2009-491227",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-10-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75300164",
+    "75300165",
+    "75300166",
+    "75300167",
+    "75300168",
+    "75300169",
+    "75300170",
+    "75300171",
+    "75300172",
+    "75300173",
+    "75300174"
+   ]
+  },
+  {
+   "date": "2012-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174797:por",
+     "title": "Lei n.º 48/2012",
+     "published": "2012-08-29",
+     "dre_path": "/dr/detalhe/lei/48-2012-174797"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "75300164",
+    "75300165",
+    "75300166",
+    "75300167",
+    "75337795",
+    "75300169",
+    "75337796",
+    "75337797",
+    "75337798",
+    "75300173",
+    "75300174",
+    "75337775"
+   ]
+  }
+ ],
+ "fragments": {
+  "75300164": {
+   "fragment_id": "75338461",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 286/2009\n\nde 8 de Outubro\n\nO Decreto-Lei n.º 241/2007, de 21 de Junho, que define o regime jurídico dos bombeiros portugueses, estabelece, no seu artigo 7.º, que «os bombeiros têm direito a assistência e patrocínio judiciário nos processos judiciais em que sejam demandados ou demandantes por factos ocorridos no âmbito do exercício de funções».\n\nMais estipula a citada disposição legal que esse direito deverá ser regulado em diploma próprio.\n\nÉ, pois, na prossecução desse desiderato que o Governo regula, através do presente decreto-lei, o direito à assistência e patrocínio judiciário atribuído por lei aos bombeiros portugueses.\n\nEste diploma vem permitir o alargamento do apoio judiciário aos bombeiros, independentemente da sua condição financeira, desde que por factos ocorridos no exercício das suas funções, agilizando a atribuição deste direito, não obstante a possibilidade, que se mantém, de acesso ao regime geral do apoio judiciário.\n\nForam ouvidos o Conselho Superior da Magistratura, o Conselho Superior dos Tribunais Administrativos e Fiscais, o Conselho Superior do Ministério Público, a Procuradoria-Geral da República e a Ordem dos Advogados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "75300165": {
+   "fragment_id": "75338462",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei regula a assistência e o patrocínio judiciário aos bombeiros, nos processos judiciais em que sejam demandados ou demandantes, por factos ocorridos no âmbito do exercício de funções, nos termos do artigo 7.º do Decreto-Lei n.º 241/2007, de 21 de Junho."
+  },
+  "75300166": {
+   "fragment_id": "75338463",
+   "type": 11,
+   "heading": "Artigo 2.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Finalidade\n\nA assistência e o patrocínio judiciário aos bombeiros destinam-se a assegurar, aos bombeiros que integram o quadro de comando e o quadro activo, a defesa dos seus direitos no exercício das suas funções, independentemente de se encontrarem, ou não, em situação de insuficiência económica."
+  },
+  "75300167": {
+   "fragment_id": "75338464",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - A protecção jurídica regulada no presente decreto-lei abrange os bombeiros, tal como definidos nos termos da alínea a) do artigo 2.º do Decreto-Lei n.º 241/2007, de 21 de Junho, que integrem o quadro de comando e o quadro activo, nos processos judiciais em que sejam demandados ou demandantes, por factos ocorridos no âmbito do exercício das suas funções.\n\n2 - Enquadram-se no âmbito do exercício das funções dos bombeiros todos os factos que resultem da sua actividade operacional."
+  },
+  "75300168": {
+   "fragment_id": "75338465",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento\n\n1 - O requerimento de concessão de protecção jurídica é apresentado junto dos serviços do Ministério Público do tribunal da comarca com competência para a respectiva acção.\n\n2 - O requerimento de protecção jurídica deve conter os seguintes elementos:\n\na) Nome completo, morada, localidade, código postal, número mecanográfico do bombeiro, número de identificação civil, número de identificação fiscal e número de identificação da segurança social;\n\nb) Corpo dos bombeiros a que pertence e respectiva morada;\n\nc) Modalidade de protecção jurídica requerida, ou seja, consulta jurídica ou apoio judiciário na modalidade de dispensa de taxa de justiça e demais encargos com o processo;\n\nd) Declaração do comandante do respectivo corpo de bombeiros, nos termos previstos no artigo 5.º;\n\ne) Declaração da Autoridade Nacional de Protecção Civil (ANPC), nos termos previstos no artigo 5.º;\n\nf) Declaração que ateste, sob compromisso de honra, que o requerente comunicará, junto do tribunal onde corre o respectivo processo, qualquer alteração ao conteúdo do requerimento referido nos números anteriores.\n\n3 - Caso esteja em falta algum dos elementos ou documentos a que se referem os números anteriores, o requerente será notificado para o acrescentar ou apresentar, no prazo de oito dias após ser notificado para o efeito, findo o qual se considera haver desistência do pedido.\n\n4 - O pagamento das despesas inerentes à modalidade de protecção jurídica concedida é suportado pela ANPC.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 560/2011 - Diário da República n.º 242/2011, Série I de 2011-12-20](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/560-2011-145023) Declara, com força obrigatória geral, a inconstitucionalidade das normas constantes dos nºs 1 e 3 do presente artigo."
+  },
+  "75300169": {
+   "fragment_id": "75338466",
+   "type": 11,
+   "heading": "Artigo 5.º — Declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Declarações\n\n1 - O bombeiro que pretenda beneficiar do regime de protecção jurídica deve obter uma declaração do comandante do respectivo corpo de bombeiros e uma declaração da ANPC.\n\n2 - A declaração do comandante do respectivo corpo de bombeiros deve certificar que os factos pelos quais o bombeiro pretende beneficiar do regime de protecção jurídica ocorreram no âmbito do exercício da sua actividade operacional, no desempenho das suas funções, não havendo indícios de desrespeito dos deveres a que está obrigado.\n\n3 - A declaração da ANPC deve certificar que os factos pelos quais o bombeiro pretende beneficiar do regime de protecção jurídica ocorreram no âmbito do exercício das suas funções, não havendo indícios de desrespeito dos deveres a que está obrigado.\n\n4 - Nas declarações referidas nos números anteriores devem igualmente constar a identificação do bombeiro e uma descrição resumida das circunstâncias em que ocorreram os factos pelos quais o bombeiro pretende beneficiar do regime de protecção jurídica."
+  },
+  "75300170": {
+   "fragment_id": "75338467",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência para a decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência para a decisão\n\nA decisão sobre a concessão da protecção jurídica compete ao representante do Ministério Publico do tribunal da comarca com competência para a respectiva acção."
+  },
+  "75300171": {
+   "fragment_id": "75338468",
+   "type": 11,
+   "heading": "Artigo 7.º — Nomeação de patrono",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Nomeação de patrono\n\n1 - A nomeação de patrono, sendo concedida, é da competência da Ordem dos Advogados, após solicitação do Ministério Público.\n\n2 - A Ordem dos Advogados procede à escolha e nomeação de advogado, de acordo com os respectivos estatutos, regras processuais e regulamentos internos.\n\n3 - A nomeação pode ser realizada de forma totalmente automática, através de sistema electrónico gerido por aquela entidade.\n\n4 - Na observância dos estatutos, regras processuais e regulamentos internos da Câmara dos Solicitadores, a nomeação pode igualmente recair sobre solicitador, em moldes a convencionar entre a respectiva Câmara e a Ordem dos Advogados.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 560/2011 - Diário da República n.º 242/2011, Série I de 2011-12-20](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/560-2011-145023) Declara, com força obrigatória geral, a inconstitucionalidade das normas constantes do nº 1 do presente artigo."
+  },
+  "75300172": {
+   "fragment_id": "75338469",
+   "type": 11,
+   "heading": "Artigo 8.º — Cancelamento da protecção jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cancelamento da protecção jurídica\n\n1 - A protecção jurídica é retirada:\n\na) Se os documentos que serviram de base à concessão forem declarados falsos por decisão transitada em julgado;\n\nb) Quando se determine, por decisão transitada em julgado, que os factos que originaram à demanda não ocorreram no exercício de funções;\n\nc) Quando se determine, por decisão transitada em julgado, a existência de desrespeito dos deveres a que o bombeiro se encontrava obrigado, no que se refere aos factos pelos quais lhe foi concedido o regime de protecção jurídica.\n\n2 - A protecção jurídica pode ser retirada oficiosamente ou a requerimento do Ministério Público, da Ordem dos Advogados, da parte contrária ou do patrono nomeado.\n\n3 - Sendo retirada a protecção jurídica concedida, a decisão é comunicada ao tribunal competente e à Ordem dos Advogados ou à Câmara dos Solicitadores, conforme os casos.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 560/2011 - Diário da República n.º 242/2011, Série I de 2011-12-20](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/560-2011-145023) Declara, com força obrigatória geral, a inconstitucionalidade das normas constantes do nº 2 do presente artigo."
+  },
+  "75300173": {
+   "fragment_id": "75338470",
+   "type": 11,
+   "heading": "Artigo 9.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aplicação subsidiária\n\nEm tudo o que não for regulado no presente decreto-lei aplica-se subsidiariamente o regime do acesso ao direito e aos tribunais, previsto na Lei n.º 34/2004, de 29 de Julho."
+  },
+  "75300174": {
+   "fragment_id": "75338471",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "75337795": {
+   "fragment_id": "75338465",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/lei/48-2012-174797), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 4.º — Procedimento\n\n1 - O requerimento de concessão de proteção jurídica é apresentado junto dos serviços do Ministério Público do tribunal da comarca com competência para a respetiva ação.\n\n2 - O requerimento de protecção jurídica deve conter os seguintes elementos:\n\na) Nome completo, morada, localidade, código postal, número mecanográfico do bombeiro, número de identificação civil, número de identificação fiscal e número de identificação da segurança social;\n\nb) Corpo dos bombeiros a que pertence e respectiva morada;\n\nc) Modalidade de proteção jurídica requerida, ou seja, consulta jurídica, apoio judiciário e dispensa de taxa de justiça e demais encargos com o processo;\n\nd) Declaração do comandante do respectivo corpo de bombeiros, nos termos previstos no artigo 5.º;\n\ne) Declaração da Autoridade Nacional de Protecção Civil (ANPC), nos termos previstos no artigo 5.º;\n\nf) Declaração que ateste, sob compromisso de honra, que o requerente comunicará, junto do tribunal onde corre o respectivo processo, qualquer alteração ao conteúdo do requerimento referido nos números anteriores.\n\n3 - Caso esteja em falta algum dos elementos ou documentos a que se referem os números anteriores, o requerente será notificado para o acrescentar ou apresentar, no prazo de oito dias após ser notificado para o efeito, findo o qual se considera haver desistência do pedido.\n\n4 - O pagamento das despesas inerentes à modalidade de protecção jurídica concedida é suportado pela ANPC.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 560/2011 - Diário da República n.º 242/2011, Série I de 2011-12-20](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/560-2011-145023) Declara, com força obrigatória geral, a inconstitucionalidade das normas constantes dos nºs 1 e 3 do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/lei/48-2012-174797), em vigor a partir de 2012-08-30"
+  },
+  "75337796": {
+   "fragment_id": "75338467",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência para a decisão",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/lei/48-2012-174797), em vigor a partir de 2012-08-30",
+    "Declarada Inconstitucionalidade pelo/a [Acórdão do Tribunal Constitucional n.º 560/2011 - Diário da República n.º 242/2011, Série I de 2011-12-20](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/560-2011-145023)"
+   ],
+   "markdown": "###### Artigo 6.º — Competência para a decisão\n\nA decisão sobre a concessão da proteção jurídica compete ao representante do Ministério Público do tribunal da comarca com competência para a respetiva ação\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/lei/48-2012-174797), em vigor a partir de 2012-08-30\n\n> Declarada Inconstitucionalidade pelo/a [Acórdão do Tribunal Constitucional n.º 560/2011 - Diário da República n.º 242/2011, Série I de 2011-12-20](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/560-2011-145023)"
+  },
+  "75337797": {
+   "fragment_id": "75338468",
+   "type": 11,
+   "heading": "Artigo 7.º — Nomeação de patrono",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/lei/48-2012-174797), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 7.º — Nomeação de patrono\n\n1 - A nomeação de patrono, sendo concedida, é da competência da Ordem dos Advogados, após solicitação do Ministério Público.\n\n2 - A Ordem dos Advogados procede à escolha e nomeação de advogado, de acordo com os respectivos estatutos, regras processuais e regulamentos internos.\n\n3 - A nomeação pode ser realizada de forma totalmente automática, através de sistema electrónico gerido por aquela entidade.\n\n4 - Na observância dos estatutos, regras processuais e regulamentos internos da Câmara dos Solicitadores, a nomeação pode igualmente recair sobre solicitador, em moldes a convencionar entre a respectiva Câmara e a Ordem dos Advogados.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 560/2011 - Diário da República n.º 242/2011, Série I de 2011-12-20](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/560-2011-145023) Declara, com força obrigatória geral, a inconstitucionalidade das normas constantes do nº 1 do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/lei/48-2012-174797), em vigor a partir de 2012-08-30"
+  },
+  "75337798": {
+   "fragment_id": "75338469",
+   "type": 11,
+   "heading": "Artigo 8.º — Cancelamento da protecção jurídica",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/lei/48-2012-174797), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 8.º — Cancelamento da protecção jurídica\n\n1 - A protecção jurídica é retirada:\n\na) Se os documentos que serviram de base à concessão forem declarados falsos por decisão transitada em julgado;\n\nb) Quando se determine, por decisão transitada em julgado, que os factos que originaram a demanda não ocorreram no exercício de funções;\n\nc) Quando se determine, por decisão transitada em julgado, a existência de desrespeito dos deveres a que o bombeiro se encontrava obrigado, no que se refere aos factos pelos quais lhe foi concedido o regime de protecção jurídica.\n\n2 - A proteção jurídica pode ser retirada oficiosamente ou a requerimento do Ministério Público, da Ordem dos Advogados, da parte contrária ou do patrono nomeado.\n\n3 - Sendo retirada a protecção jurídica concedida, a decisão é comunicada ao tribunal competente e à Ordem dos Advogados ou à Câmara dos Solicitadores, conforme os casos.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 560/2011 - Diário da República n.º 242/2011, Série I de 2011-12-20](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/560-2011-145023) Declara, com força obrigatória geral, a inconstitucionalidade das normas constantes do nº 2 do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/lei/48-2012-174797), em vigor a partir de 2012-08-30"
+  },
+  "75337775": {
+   "fragment_id": "75338472",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Setembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa.\n\nPromulgado em 28 de Setembro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 29 de Setembro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

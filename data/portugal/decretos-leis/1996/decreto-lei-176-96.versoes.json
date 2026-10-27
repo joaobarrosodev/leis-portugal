@@ -1,0 +1,842 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:215895:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-70300359",
+ "dre_path": "/dr/detalhe/decreto-lei/176-1996-215895",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1996-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70325175",
+    "70325176",
+    "70325177",
+    "70325178",
+    "70325179",
+    "70325180",
+    "70325181",
+    "70325182",
+    "70325183",
+    "70325184",
+    "70325185",
+    "70325186",
+    "70325187",
+    "70325188",
+    "70325189",
+    "70325190",
+    "70325191",
+    "70325192",
+    "70325193",
+    "70325194",
+    "70325195",
+    "70325196",
+    "70325197",
+    "70325198",
+    "70325199",
+    "70325200",
+    "70325201"
+   ]
+  },
+  {
+   "date": "2000-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:580794:por",
+     "title": "Decreto-Lei n.º 216/2000",
+     "published": "2000-09-02",
+     "dre_path": "/dr/detalhe/decreto-lei/216-2000-580794"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º"
+   ],
+   "fragments": [
+    "70325175",
+    "70325176",
+    "70325233",
+    "70325178",
+    "70325235",
+    "70325180",
+    "70325236",
+    "70325237",
+    "70325183",
+    "70325184",
+    "70325238",
+    "70325239",
+    "70325187",
+    "70325188",
+    "70329525",
+    "70329526",
+    "70325191",
+    "70325192",
+    "70325193",
+    "70329527",
+    "70329528",
+    "70325196",
+    "70329529",
+    "70325198",
+    "70325199",
+    "134763902",
+    "134763903",
+    "70325202"
+   ]
+  },
+  {
+   "date": "2015-10-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70309897:por",
+     "title": "Decreto-Lei n.º 196/2015",
+     "published": "2015-09-16",
+     "dre_path": "/dr/detalhe/decreto-lei/196-2015-70309897"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 18.º-A",
+    "Adita Anexo 18.º-B",
+    "Adita Artigo 18.º-C",
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "70325175",
+    "70325176",
+    "70337387",
+    "70325178",
+    "70337388",
+    "70337389",
+    "70329570",
+    "70337390",
+    "70329572",
+    "70329573",
+    "70329574",
+    "70337391",
+    "70337392",
+    "70337377",
+    "70325188",
+    "70337393",
+    "70337394",
+    "70337395",
+    "70337396",
+    "70325193",
+    "70329527",
+    "70337397",
+    "70337398",
+    "70337378",
+    "70337381",
+    "70337384",
+    "70337399",
+    "70337400",
+    "70325199",
+    "134763902",
+    "134763903",
+    "70325202"
+   ]
+  },
+  {
+   "date": "2022-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:173956472:por",
+     "title": "Decreto-Lei n.º 94/2021",
+     "published": "2021-11-09",
+     "dre_path": "/dr/detalhe/decreto-lei/94-2021-173956472"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 4.º-A",
+    "Altera Artigo 14.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "70325175",
+    "70325176",
+    "173993118",
+    "70325178",
+    "70337388",
+    "173993119",
+    "173993120",
+    "70337390",
+    "70329572",
+    "70329573",
+    "70329574",
+    "70337391",
+    "70337392",
+    "70337377",
+    "70325188",
+    "70337393",
+    "70337394",
+    "173993121",
+    "70337396",
+    "70325193",
+    "70329527",
+    "70337397",
+    "173993122",
+    "70337378",
+    "70337381",
+    "70337384",
+    "70337399",
+    "70337400",
+    "70325199",
+    "134763902",
+    "134763903",
+    "70325202"
+   ]
+  }
+ ],
+ "fragments": {
+  "70325175": {
+   "fragment_id": "70300360",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 176/96\n\nde 21 de Setembro\n\nO livro tem sido o instrumento privilegiado de natureza cultural e educativa propiciador da formação das pessoas. Esta função eminente permitiu sempre que ao livro não se aplicassem, de um modo redutor e simplista, as regras normais vigentes e adequadas ao comum produto económico. A nossa civilização tem considerado como prioridade cultural a possibilidade de o livro ser objecto de fruição pelos indivíduos, de um modo geral, o que, entre outras coisas, implica a necessidade de colocar o referido bem à livre e fácil disposição do público, em qualquer parte do território nacional. A manutenção deste objectivo determina a existência de uma rede, densa e diversificada, de livrarias, consideradas os espaços aptos a satisfazer as reais necessidades culturais da população portuguesa neste domínio. Nos últimos anos, em consequência de vicissitudes várias da economia e da organização do mercado do livro, muitas livrarias encerraram a sua actividade, num movimento que se tem verificado também nalguns países europeus. Esta situação, negativa e preocupante, impõe a criação de medidas disciplinadoras e de incentivo, de modo a corrigir-se as detectadas disfuncionalidades do mercado do livro e a garantir aos seus agentes condições de actuação mais equitativas e proveitosas para o interesse geral.\n\nNeste sentido, na esteira da melhor experiência europeia, designadamente de países como a Espanha, a França, a Alemanha, a Áustria, a Irlanda e a Dinamarca, e acolhendo a recomendação adoptada pelo Parlamento Europeu, em Janeiro de 1994, constante do programa comunitário Gutemberg, Portugal, mediante o presente diploma, instaura o sistema do preço fixo do livro. Trata-se de uma das medidas fundamentais de correcção das anomalias verificadas no mercado do livro, susceptível de, a prazo, criar condições para a revitalização do sector, um dos aspectos marcantes da prossecução de uma política cultural visando o desenvolvimento nos domínios do livro e da leitura.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "70325176": {
+   "fragment_id": "70300361",
+   "type": 1,
+   "heading": "Capítulo I — Preço fixo do livro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Preço fixo do livro"
+  },
+  "70325177": {
+   "fragment_id": "70300362",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara os efeitos do disposto no presente diploma, entende-se por:\n\na) Livro: toda a obra impressa em vários exemplares, destinada a ser comercializada, contendo letras, textos e ou ilustrações visíveis, constituída por páginas, formando um volume unitário, autónomo e devidamente encapada, destinada a ser efectivamente posta à disposição do público e comercializada e que se não confunda com uma revista;\n\nb) Livro reeditado: é o livro publicado contendo alterações em relação à sua edição original;\n\nc) Livro reimpresso: é o livro publicado sem qualquer alteração de conteúdo em relação à sua edição original ou reedições;\n\nd) Editor: a pessoa que produz e confecciona ou manda confeccionar um livro, destinado à sua comercialização;\n\ne) Importador: aquele que, com sede social ou domicílio em território português, importa a qualquer título livro de editor estrangeiro destinado à comercialização;\n\nf) Retalhista: todo aquele que, exclusivamente ou não, pratique actos de comércio de venda ao público;\n\ng) Manual escolar: o instrumento de trabalho individual, constituído por um livro em um ou mais volumes, que contribua para a aquisição de conhecimentos e para o desenvolvimento da capacidade e das atitudes definidas pelos objectivos dos programas curriculares em vigor para cada disciplina, contendo a informação básica necessária às exigências das rubricas programáticas. Supletivamente, o manual poderá conter elementos para o desenvolvimento de actividades de aplicação e avaliação da aprendizagem efectuada;\n\nh) Livro auxiliar: o instrumento de trabalho individual ou colectivo, constituído por um livro em um ou mais volumes, que, propondo um conjunto de informação, vise a aplicação e a avaliação da aprendizagem efectuada, destinado exclusivamente a um determinado ano de escolaridade."
+  },
+  "70325178": {
+   "fragment_id": "70300363",
+   "type": 11,
+   "heading": "Artigo 2.º — Fixação do preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fixação do preço\n\n1 - Toda a pessoa que editar, reeditar, reimprimir, importar ou reimportar livros com destino ao mercado é obrigada a fixar para os mesmos um preço de venda ao público.\n\n2 - A fixação do preço é estabelecida para a unidade constituída pelo livro e para quaisquer elementos a ele agregados como oferta editorial.\n\n3 - Na fixação do preço do livro vendido conjuntamente com outro produto ou serviço que esteja a ser objecto de comercialização em separado deverá o conjunto repercutir a soma do preço fixado para o livro e o preço de venda ao público do outro produto ou serviço."
+  },
+  "70325179": {
+   "fragment_id": "70300364",
+   "type": 11,
+   "heading": "Artigo 3.º — Indicação do preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Indicação do preço\n\n1 - O preço do livro deve ser indicado pelo retalhista de forma legível e visível, de modo a permitir uma fácil informação do consumidor.\n\n2 - Na venda por correspondência ou por assinatura, o editor ou importador deverá indicar o preço na publicidade, nos impressos promocionais, nas cintas, nos invólucros ou na contracapa dos livros."
+  },
+  "70325180": {
+   "fragment_id": "70300365",
+   "type": 11,
+   "heading": "Artigo 4.º — Venda ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Venda ao público\n\n1 - O preço de venda ao público do livro, praticado pelos retalhistas, deve situar-se entre 90% e 100% do preço fixado pelo editor ou importador.\n\n2 - Os retalhistas podem estabelecer preços de venda inferiores ao referido no n.º 1 sobre livros que tenham sido editados pela primeira vez ou importados há mais de 18 meses.\n\n3 - O retalhista pode fazer acrescentar ao preço efectivo do livro os custos ou remunerações que correspondam a serviços suplementares prestados e que hajam sido acordados com o consumidor."
+  },
+  "70325181": {
+   "fragment_id": "70300366",
+   "type": 11,
+   "heading": "Artigo 5.º — Verificação dos prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Verificação dos prazos\n\nA verificação dos prazos previstos no presente diploma, com referência às datas de edição, reedição, reimpressão, importação ou reimportação de livros, far-se-á de acordo com as seguintes regras:\n\na) Nos casos de edição, reedição e reimpressão de livros, através do mês e ano obrigatoriamente incluídos na ficha técnica do livro;\n\nb) Nos casos de importação ou reimportação, através da data mencionada na factura do exportador do livro."
+  },
+  "70325182": {
+   "fragment_id": "70300367",
+   "type": 11,
+   "heading": "Artigo 6.º — Venda por correspondência ou assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Venda por correspondência ou assinatura\n\nQuem publicar um livro com vista a ser difundido por correspondência ou assinatura, ou qualquer outro circuito que não o da venda a retalho, menos de nove meses após a primeira edição desse livro, deverá fixar um preço de venda ao público não inferior ao definido nos termos do n.º 1 do artigo 5.º"
+  },
+  "70325183": {
+   "fragment_id": "70300368",
+   "type": 11,
+   "heading": "Artigo 7.º — Colecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Colecções\n\n1 - As colecções de livros devidamente identificados poderão ser vendidas por um preço fixado pelo editor inferior ao que resultaria da soma dos preços de cada um dos títulos que integram as referidas colecções.\n\n2 - Não é obrigatório indicar a redução do preço sobre os livros que componham as colecções referidas no número anterior, devendo contudo o editor fazer menção do preço nos catálogos, preçários e nos locais de venda."
+  },
+  "70325184": {
+   "fragment_id": "70300369",
+   "type": 11,
+   "heading": "Artigo 8.º — Importação de livros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Importação de livros\n\n1 - Para os livros em língua portuguesa importados, o preço fixado pelo importador não pode ser inferior ao preço de venda fixado pelo editor para a venda ao público em Portugal dessas obras ou, na sua ausência, do preço que resultar, em escudos, do que for fixado ou aconselhado para edição em língua original desses mesmos livros no seu país de origem, sem prejuízo do disposto no n.º 3 do presente artigo.\n\n2 - O preço fixado para um livro editado em Portugal que tenha sido exportado e reimportado não pode ser inferior ao preço de venda ao público anteriormente fixado pelo editor.\n\n3 - As disposições sobre o preço fixo não são aplicáveis aos livros provenientes de um estado membro da União Europeia, salvo se as circunstâncias de importação, designadamente a ausência de comercialização efectiva nesse Estado ou outras, indiciem que a operação teve por objectivo violar o disposto no presente diploma."
+  },
+  "70325185": {
+   "fragment_id": "70300370",
+   "type": 11,
+   "heading": "Artigo 9.º — Modificações do preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Modificações do preço\n\n1 - As modificações do preço devem ser comunicadas pelo editor, distribuidor ou importador à sua rede de vendas antes da entrada em vigor do novo preço, no prazo não inferior a 30 dias.\n\n2 - O retalhista é obrigado a indicar nos livros os novos preços resultantes de alterações que lhe forem comunicadas pelo editor ou importador."
+  },
+  "70325186": {
+   "fragment_id": "70300371",
+   "type": 11,
+   "heading": "Artigo 10.º — Catálogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Catálogos\n\n1 - Anualmente, até ao dia 30 de Abril, todo o editor ou importador com exclusividade deve publicar e distribuir pela sua rede de vendas um catálogo ou lista de preços donde constem os livros do seu fundo editorial.\n\n2 - Em todo os casos em que o preço de venda ao público constante do catálogo não inclua IVA, deve ser expressamente indicado que aos preços fixados no catálogo deve ser acrescida a taxa de IVA em vigor.\n\n3 - O catálogo ou lista de preços referido no número anterior deve, sempre que for solicitado, ser posto à disposição para consulta do consumidor."
+  },
+  "70325187": {
+   "fragment_id": "70300372",
+   "type": 11,
+   "heading": "Artigo 11.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Publicidade\n\nÉ proibida toda a publicidade anunciando preços de venda de livros ao público que contrarie o disposto no presente diploma."
+  },
+  "70325188": {
+   "fragment_id": "70300373",
+   "type": 1,
+   "heading": "Capítulo II — Excepções e isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Excepções e isenções"
+  },
+  "70325189": {
+   "fragment_id": "70300374",
+   "type": 11,
+   "heading": "Artigo 12.º — Aquisições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aquisições especiais\n\nAs aquisições feitas por bibliotecas públicas e escolares, instituições de solidariedade social, e em todas as acções de promoção do livro e do autor portugueses, no âmbito da cooperação externa do Estado, poderão beneficiar de um preço compreendido entre 80% e 100% do preço fixado pelo editor ou importador."
+  },
+  "70325190": {
+   "fragment_id": "70325275",
+   "type": 11,
+   "heading": "Artigo 13.º — Edições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Edições especiais\n\n1 - Os exemplares de edições especiais destinados a associações, instituições ou outras entidades individualizadas deverão ostentar de forma visível a especificação dessa natureza.\n\n2 - No caso de virem a ser comercializadas, deverá ser observado o disposto no artigo 5.º"
+  },
+  "70325191": {
+   "fragment_id": "70325276",
+   "type": 11,
+   "heading": "Artigo 14.º — Ocasiões especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ocasiões especiais\n\n1 - Exceptuam-se da aplicação do preço fixo as vendas de livros feitas por qualquer entidade no decurso de iniciativas de incentivo à leitura e à promoção do livro, em feiras do livro, congressos ou exposições do livro ou em dias especiais dedicados a assuntos de natureza cultural, desde que tais iniciativas decorram em períodos de tempo previamente determinados, não superiores a 25 dias por ano por iniciativa, as quais poderão beneficiar de um preço de venda ao público compreendido entre 80% e 100% do preço fixado pelo editor ou importador.\n\n2 - Para os efeitos do disposto no número anterior, considera-se que somente é permitida a cada entidade actuante no mercado do livro a realização de iniciativas que perfaçam, em cada um dos estabelecimentos ou sucursais, o prazo estipulado, excepto se estas forem da responsabilidade dos organismos representativos dos editores e livreiros."
+  },
+  "70325192": {
+   "fragment_id": "70325277",
+   "type": 11,
+   "heading": "Artigo 15.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Isenções\n\n1 - Ficam isentos da obrigação de venda a preço fixo:\n\na) Os manuais escolares e livros auxiliares dos ensinos básico e secundário;\n\nb) Os livros usados e de bibliófilo;\n\nc) Os livros esgotados;\n\nd) Os livros descatalogados;\n\ne) As subscrições em fase de pré-publicação.\n\n2 - Considera-se como descatalogado pelo editor ou importador o livro que não conste no último catálogo por um ou outro publicado ou quando tal facto seja comunicado por escrito à rede retalhista, desde que tenham decorrido 18 meses sobre a data de edição ou de importação."
+  },
+  "70325193": {
+   "fragment_id": "70325278",
+   "type": 1,
+   "heading": "Capítulo III — Fiscalização e contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fiscalização e contra-ordenação"
+  },
+  "70325194": {
+   "fragment_id": "70325279",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\nA fiscalização do cumprimento das disposições do presente diploma compete à Inspecção-Geral das Actividades Económicas."
+  },
+  "70325195": {
+   "fragment_id": "70325280",
+   "type": 11,
+   "heading": "Artigo 17.º — Grupo técnico de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Grupo técnico de acompanhamento\n\n1 - Independentemente do disposto no artigo anterior, será criado um grupo técnico composto por representantes das associações de editores, livreiros, importadores, distribuidores, consumidores e do Ministério da Cultura, que procederá ao acompanhamento e avaliação da execução do presente diploma.\n\n2 - O Ministro da Cultura fixará, por despacho, a composição do grupo técnico referido no número anterior, ouvidas as associações interessadas."
+  },
+  "70325196": {
+   "fragment_id": "70325281",
+   "type": 11,
+   "heading": "Artigo 18.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contra-ordenações\n\n1 - A inobservância do disposto nos artigos precedentes constitui contra-ordenação, a qual será punida nos termos seguintes:\n\na) Pelo não cumprimento do disposto no n.º 1 do artigo 4.º, nos n.os 1 e 2 do artigo 8.º e no artigo 11.º, com coima de 100000$00 a 400000$00 ou 1000000$00, consoante se trate de pessoas singulares ou pessoas colectivas, respectivamente;\n\nb) Em caso da prática de uma contra-ordenação referida na alínea anterior se repetir no prazo de dois anos após a aplicação da correspondente coima ou, em caso de recurso, após decisão judicial condenatória transitada em julgado, com coima de 400000$00 a 750000$00, no caso de pessoas singulares, e de 1000000$00 a 9000000$00, no caso de pessoas colectivas;\n\nc) Pela deficiente indicação do preço fixo de venda ao público em cada livro, com coima de 100$00 a 500$00 por cada unidade, até ao limite legal;\n\nd) Pelo não cumprimento do disposto nos n.os 1, 2 e 3 do artigo 10.º, com coima de 100000$00 a 300000$00.\n\n2 - Constituirá igualmente contra-ordenação, a qual será punida com coima de 100$00 a 1000$00 por cada livro, a fixação antes de nove meses após a primeira edição, nas vendas por assinatura ou correspondência, de um preço de venda ao público inferior ao praticado naqueles, até ao limite legal.\n\n3 - A reimportação de livros com o objectivo de violar o preço fixo constante do presente diploma é punida com coima de 1000$00 a 2000$00 por cada uma das unidades reimportadas, até ao limite legal.\n\n4 - As infracções ao disposto no n.º 2 do artigo 7.º e nos n.os 1 e 2 do artigo 9.º são punidas com coima de 100$00 a 500$00 por cada unidade, até ao limite legal."
+  },
+  "70325197": {
+   "fragment_id": "70325282",
+   "type": 11,
+   "heading": "Artigo 19.º — Aplicação de coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Aplicação de coimas\n\nO processamento das contra-ordenações e a aplicação das coimas são da competência da Inspecção-Geral das Actividades Económicas."
+  },
+  "70325198": {
+   "fragment_id": "70325283",
+   "type": 11,
+   "heading": "Artigo 20.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Receitas\n\nO produto da aplicação das coimas previstas no presente diploma constitui receita do Fundo de Fomento Cultural e destina-se a contribuir para financiar programas de incentivo à leitura e de promoção do livro."
+  },
+  "70325199": {
+   "fragment_id": "70325284",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "70325200": {
+   "fragment_id": "70325285",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor 60 dias após a data da sua publicação.\n\n2 - Para os efeitos da aplicação do presente diploma, considera-se que a vigência obrigatória do preço fixo de venda ao público pelo prazo de 18 meses, nos termos do artigo 4.º, se aplica à primeira publicação de qualquer livro ocorrida após a entrada em vigor do presente diploma, quer essa publicação constitua uma primeira edição, uma reedição ou uma reimpressão."
+  },
+  "70325201": {
+   "fragment_id": "70325286",
+   "type": 11,
+   "heading": "Artigo 22.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Revisão\n\n1 - O presente diploma será revisto no prazo de dois anos contados da data do seu início de vigência.\n\n2 - Enquanto se não verificar o disposto no número anterior, mantém-se em vigor o presente diploma."
+  },
+  "70325233": {
+   "fragment_id": "70300362",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara os efeitos do disposto no presente diploma, entende-se por:\n\na) Livro: toda a obra impressa em vários exemplares, destinada a ser comercializada, contendo letras, textos e ou ilustrações visíveis, constituída por páginas, formando um volume unitário, autónomo e devidamente encapada, destinada a ser efectivamente posta à disposição do público e comercializada e que se não confunda com uma revista;\n\nb) Livro reeditado: é o livro publicado contendo alterações em relação à sua edição original;\n\nc) Livro reimpresso: é o livro publicado sem qualquer alteração de conteúdo em relação à sua edição original ou reedições;\n\nd) Editor: a pessoa que produz e confecciona ou manda confeccionar um livro, destinado à sua comercialização;\n\ne) Importador: aquele que, com sede social ou domicílio em território português, importa a qualquer título livro de editor estrangeiro destinado à comercialização;\n\nf) Retalhista: todo aquele que, exclusivamente ou não, incluindo o editor, pratique actos de comércio de venda de livros ao público;\n\ng) Manual escolar: o instrumento de trabalho individual, constituído por um livro em um ou mais volumes, que contribua para a aquisição de conhecimentos e para o desenvolvimento da capacidade e das atitudes definidas pelos objectivos dos programas curriculares em vigor para cada disciplina, contendo a informação básica necessária às exigências das rubricas programáticas. Supletivamente, o manual poderá conter elementos para o desenvolvimento de actividades de aplicação e avaliação da aprendizagem efectuada;\n\nh) Livro auxiliar: o instrumento de trabalho individual ou colectivo, constituído por um livro em um ou mais volumes, que, propondo um conjunto de informação, vise a aplicação e a avaliação da aprendizagem efectuada, destinado exclusivamente a um determinado ano de escolaridade.\n\ni) Rede de venda: conjunto de retalhistas com quem o editor ou distribuidor tem relações comerciais directas de forma regular;\n\nj) Distribuidor: todo aquele que presta a um ou mais editores serviços de venda aos retalhistas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70325235": {
+   "fragment_id": "70300364",
+   "type": 11,
+   "heading": "Artigo 3.º — Indicação do preço",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 3.º — Indicação do preço\n\n1 - O preço de venda ao público do livro deve ser indicado pelo retalhista de forma legível e visível, de modo a permitir uma fácil informação do consumidor.\n\n2 - Na venda por correspondência ou por assinatura, o editor ou importador deverá indicar o preço ou na publicidade ou nos impressos promocionais, nas cintas. nos invólucros ou na contracapa dos livros.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70325236": {
+   "fragment_id": "70300366",
+   "type": 11,
+   "heading": "Artigo 5.º — Verificação dos prazos",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 5.º — Verificação dos prazos\n\nA verificação dos prazos previstos no presente diploma, com referência às datas de edição, reedição, reimpressão, importação ou reimportação de livros, far-se-á de acordo com as seguintes regras:\n\na) Nos casos de edição, reedição e reimpressão de livros, através do mês e ano obrigatoriamente incluídos na ficha técnica do livro;\n\nb) Nos casos de importação ou reimportação, através da data mencionada na factura do exportador do livro ou noutro documento idóneo usado no comércio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70325237": {
+   "fragment_id": "70300367",
+   "type": 11,
+   "heading": "Artigo 6.º — Venda por correspondência ou assinatura",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 6.º — Venda por correspondência ou assinatura\n\nQuem publicar um livro com vista a ser difundido por correspondência ou assinatura, ou qualquer outro circuito que não o da venda a retalho, menos de nove meses após a primeira edição desse livro, deverá fixar um preço de venda ao público não inferior ao definido nos termos do n.º 1 do artigo 4.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70325238": {
+   "fragment_id": "70300370",
+   "type": 11,
+   "heading": "Artigo 9.º — Modificações do preço",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 9.º — Modificações do preço\n\n1 - As modificações do preço de venda dos livros devem ser comunicadas pelo editor, distribuidor ou importador à sua rede de vendas antes da entrada em vigor do novo preço, no prazo não inferior a 15 dias.\n\n2 - O retalhista é obrigado a indicar nos livros os novos preços resultantes de alterações que lhe forem comunicadas pelo editor, importador ou distribuidor, no prazo não superior a 15 dias, após a referida comunicação, sem prejuízo da legislação aplicável em matéria de direito da concorrência e da actividade de comércio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70325239": {
+   "fragment_id": "70300371",
+   "type": 11,
+   "heading": "Artigo 10.º — Informação de preços",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 10.º — Informação de preços\n\n1 - Anualmente, até ao dia 30 de Abril, todo o editor ou importador com exclusividade deve distribuir pela sua rede de vendas um catálogo ou lista de preços donde constem os livros do seu fundo editorial.\n\n2 - Em todo os casos em que o preço de venda ao público constante do catálogo não inclua IVA, deve ser expressamente indicado que aos preços fixados no catálogo deve ser acrescida a taxa de IVA em vigor.\n\n3 - O catálogo ou lista de preços ou ainda as facturas, guias de remessa ou documento usado no comércio, qualquer que seja o suporte, devem, sempre que for solicitado, ser postos à disposição para consulta do consumidor.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70329525": {
+   "fragment_id": "70300374",
+   "type": 11,
+   "heading": "Artigo 12.º — Aquisições especiais",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 12.º — Aquisições especiais\n\nAs aquisições feitas por bibliotecas públicas e escolares, instituições de utilidade pública, e em todas as acções de promoção do livro e do autor portugueses no âmbito da cooperação externa do Estado, poderão beneficiar de um preço compreendido entre 80% e 100% do preço fixado pelo editor ou importador.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70329526": {
+   "fragment_id": "70325275",
+   "type": 11,
+   "heading": "Artigo 13.º — Edições especiais",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 13.º — Edições especiais\n\n1 - Os exemplares de edições especiais destinados a associações, instituições ou outras entidades individualizadas deverão ostentar de forma visível a especificação dessa natureza.\n\n2 - No caso de as edições previstas no número anterior virem a ser comercializadas, deverá ser observado o disposto nos artigos 4.º e 5.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70329527": {
+   "fragment_id": "70325279",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\nA fiscalização do cumprimento das disposições do presente diploma compete à Inspecção-Geral das Actividades Culturais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70329528": {
+   "fragment_id": "70325280",
+   "type": 11,
+   "heading": "Artigo 17.º — Avaliação",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 17.º — Avaliação\n\nO Instituto Português do Livro e das Bibliotecas deverá proceder ao acompanhamento regular da aplicação do presente diploma, em ordem a permitir avaliar os seus efeitos, culturais e económicos, no sector editorial e livreiro e a suscitar a produção de propostas de medidas, quando necessário, tendentes a corrigir e a melhorar o comércio do livro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70329529": {
+   "fragment_id": "70325282",
+   "type": 11,
+   "heading": "Artigo 19.º — Aplicação de coimas",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 19.º — Aplicação de coimas\n\nO processamento das contra-ordenações e a aplicação das coimas são da competência da Inspecção-Geral das Actividades Culturais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "134763902": {
+   "fragment_id": "70325285",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor 60 dias após a data da sua publicação.\n\n2 - Para os efeitos da aplicação do presente diploma, considera-se que a vigência obrigatória do preço fixo de venda ao público pelo prazo de 18 meses, nos termos do artigo 4.º, se aplica à primeira publicação de qualquer livro ocorrida após a entrada em vigor do presente diploma, quer essa publicação constitua uma primeira edição, uma reedição ou uma reimpressão.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "134763903": {
+   "fragment_id": "70325286",
+   "type": 11,
+   "heading": "Artigo 22.º — Revisão",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 22.º — Revisão\n\n1 - O presente diploma será revisto no prazo de dois anos contados da data do seu início de vigência.\n\n2 - Enquanto se não verificar o disposto no número anterior, mantém-se em vigor o presente diploma.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70325202": {
+   "fragment_id": "70325287",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1996. - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - José Rodrigues Pereira Penedos - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho.\n\nPromulgado em 6 de Setembro de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 11 de Setembro de 1996.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "70337387": {
+   "fragment_id": "70300362",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do disposto no presente diploma, entende-se por:\n\na) «Coleção», o conjunto de livros previamente organizado pelo editor que, para além de ter uma coerência própria entre si, possui uniformidade de apresentação e formato, podendo ou não ser dos mesmos autores e assunto e ter uma numeração sequencial;\n\nb) Distribuidor: todo aquele que presta a um ou mais editores serviços de venda aos retalhistas;\n\nc) Editor: a pessoa que produz e confecciona ou manda confeccionar um livro, destinado à sua comercialização;\n\nd) «Feira do livro» e «festa do livro», as iniciativas de relevância cultural promovidas por organismos representativos dos editores e livreiros ou por instituições públicas em espaços especial e expressamente organizados e destinados para esse efeito, onde o tema central seja o livro;\n\ne) Importador: aquele que, com sede social ou domicílio em território português, importa a qualquer título livro de editor estrangeiro destinado à comercialização;\n\nf) «Livro», toda a obra literária, científica e artística que constitui uma publicação unitária em um ou mais volumes, destinada a ser posta à disposição do público, qualquer que seja o formato de publicação, nomeadamente, impresso, áudio e eletrónico, independentemente da possibilidade de apropriação do seu conteúdo por qualquer dos modos atualmente conhecidos ou que de futuro o venham a ser;\n\ng) Livro auxiliar: o instrumento de trabalho individual ou colectivo, constituído por um livro em um ou mais volumes, que, propondo um conjunto de informação, vise a aplicação e a avaliação da aprendizagem efectuada, destinado exclusivamente a um determinado ano de escolaridade.\n\nh) «Livro de bibliófilo», o livro de edição limitada, cujos exemplares são numerados, de elevada qualidade material e formal, desde que tenham decorrido 18 meses sobre a data de edição ou importação;\n\ni) «Livro esgotado e descatalogado», o livro que não se encontra disponível na rede de venda e não consta do último catálogo divulgado pelo editor ou importador exclusivo à rede de vendas ou cuja descatalogação foi comunicada por escrito à referida rede, desde que tenham decorrido 18 meses sobre a data de edição ou importação;\n\nj) «Livro reeditado», o livro publicado contendo alterações em relação à sua edição original e que obrigue ao seu depósito legal, nos termos do Decreto-Lei n.º 74/82, de 3 de março;\n\nk) «Livro republicado», o livro publicado novamente sem que a alteração de forma ou de conteúdo relativamente à sua edição original ou reedição obrigue a novo International Standard Book Number (ISBN);\n\nl) «Livro usado», todo o livro já manuseado, desde que tenham decorrido 18 meses sobre a data de edição ou importação;\n\nm) «Manual escolar», o instrumento de trabalho individual, constituído por um livro em um ou mais volumes, que contribua para a aquisição de conhecimentos e para o desenvolvimento da capacidade e das atitudes definidas pelos objetivos dos programas curriculares em vigor para cada disciplina, contendo a informação básica necessária às exigências das rubricas programáticas. Supletivamente, o manual pode conter elementos para o desenvolvimento de atividades de aplicação e avaliação da aprendizagem efetuada;\n\nn) «Mercado do livro», a iniciativa de natureza comercial primariamente orientada e destinada à venda de livros em condições promocionais de preço para o consumidor, promovidas por entidades comerciais;\n\no) Rede de venda: conjunto de retalhistas com quem o editor ou distribuidor tem relações comerciais directas de forma regular;\n\np) «Retalhista», a pessoa singular ou pessoa coletiva, seja a sua natureza jurídica pública ou privada, que pratique com regularidade atos de comércio de venda ao público, independentemente de essa ser ou não a sua atividade principal ou exclusiva, de estar ou não sedeada em território nacional, de a venda ser feita dentro ou fora do estabelecimento físico, em sítio eletrónico ou através de outra modalidade de venda à distância, ou por qualquer forma de comércio a retalho não sedentário ou ocasional;\n\nq) «Subscrições em fase de pré-publicação», as subscrições de coleções que ainda não foram publicadas até ao momento da sua colocação na rede de venda.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70337388": {
+   "fragment_id": "70300364",
+   "type": 11,
+   "heading": "Artigo 3.º — Indicação do preço",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 3.º — Indicação do preço\n\n1 - O preço fixado pelo editor ou importador deve ser indicado pelo retalhista de forma legível e visível, de modo a permitir uma fácil informação do consumidor.\n\n2 - Na venda por correspondência ou por assinatura, o editor ou importador deve indicar o preço ou na publicidade ou nos impressos promocionais, nas cintas, nos invólucros ou na contracapa dos livros.\n\n> Republicado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70337389": {
+   "fragment_id": "70300365",
+   "type": 11,
+   "heading": "Artigo 4.º — Venda ao público",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 4.º — Venda ao público\n\n1 - O preço de venda ao público do livro, praticado pelos retalhistas, deve situar-se entre 90 % e 100 % do preço fixado pelo editor ou importador.\n\n2 - Os retalhistas podem estabelecer preços de venda inferiores ao referido no número anterior sobre livros que tenham sido editados pela primeira vez ou importados há mais de 18 meses.\n\n3 - O retalhista pode fazer acrescentar ao preço efetivo do livro os custos ou as remunerações que correspondam a serviços suplementares prestados e que tenham sido acordados com o consumidor, nomeadamente o custo da entrega em local convencionado.\n\n> Republicado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "70329570": {
+   "fragment_id": "70331736",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Práticas proibidas",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 4.º-A — Práticas proibidas\n\n1 - Para efeitos do disposto no artigo anterior, é proibida a comercialização de livros, independentemente do formato, nas seguintes condições promocionais:\n\na) Desconto imediato superior a 10 % do preço fixado pelo editor ou importador;\n\nb) Promoção multiproduto com oferta ao consumidor de vantagem decorrente da compra simultânea de dois ou mais livros, ao abrigo da qual, independentemente do número de livros integrado na promoção ou do número mínimo de livros que o consumidor é convidado a adquirir, é possível a sua aquisição por preço inferior a 90 % do fixado pelo editor ou importador, nomeadamente, nas seguintes situações:\n\ni) Livro comercializado em conjuntos promocionais com um ou mais livros não editados ou importados há mais de 18 meses com um preço de comercialização global e único inferior a 90 % da soma dos preços fixados pelo editor ou importador para cada um dos livros do conjunto;\n\nii) «Pague um e leve dois» ou «pague dois e leve três» ou quaisquer outras combinações das quais resulte uma oferta igual ou superior às referidas, sempre que exista a possibilidade da oferta recair sobre livros não editados ou importados há mais de 18 meses;\n\niii) Desconto em todos os livros adquiridos de valor determinado ou determinável, designadamente de valor equivalente ao preço fixado pelo editor ou importador para o livro de mais baixo preço, sempre que exista a possibilidade de aquisição de livro não editado ou importado há mais de 18 meses por preço inferior a 90 % do preço fixado pelo editor ou importador;\n\niv) Descontos progressivos em função da quantidade de livros adquiridos, sempre que exista a possibilidade de aquisição de livro não editado ou importado há mais de 18 meses por preço inferior a 90 % do preço fixado pelo editor ou importador.\n\nc) A comercialização do livro com a respetiva aquisição, conferindo um crédito, vantagem ou compensação de valor superior a 10 % do preço fixado pelo editor ou importador, para utilização em aquisição posterior de outros bens, de natureza equivalente ou de qualquer outra natureza, independentemente das regras de que dependa a sua conversão em moeda, exigibilidade e liquidação ou a que fique sujeita a sua utilização e qualquer que seja o meio de pagamento que o materialize, nomeadamente:\n\ni) Quando o crédito, vantagem ou compensação é atribuído em cartão ou instrumento de fidelização;\n\nii) Quando o crédito, vantagem ou compensação é atribuído através da emissão de um ou mais vales para utilização em compras posteriores.\n\n2 - É ainda vedada a oferta de bens de outra natureza, prémios ou outras vantagens não pecuniárias, na compra de livro editado ou importado há menos de 18 meses, salvo nas seguintes situações:\n\na) A oferta estiver agregada ao livro como oferta editorial, nos termos do n.º 2 do artigo 2.º, estando já refletida no preço fixado pelo editor ou importador;\n\nb) Constituir um brinde ou material de promoção da obra, do autor, do editor ou do retalhista, cujo valor comercial não represente mais do que 10 % do preço fixado pelo editor ou importador.\n\n3 - Para efeitos do disposto na alínea c) do n.º 1, os retalhistas que recorram a sistemas ou instrumentos de fidelização com concessão de vantagens expressas em unidades ou elementos não pecuniários, mas que, observadas determinadas condições, se convertem em moeda, designadamente bónus, pontos, selos, carimbos, devem prever, de forma clara e inequívoca, as regras de que depende a conversão em moeda daquelas vantagens, em regulamento disponível para consulta no estabelecimento comercial ou no respetivo sítio eletrónico.\n\n4 - Sem prejuízo das regras vigentes em matéria de práticas individuais restritivas do comércio, nomeadamente no âmbito da venda com prejuízo, não são proibidas, para efeitos do disposto no presente diploma, as seguintes condições promocionais:\n\na) Oferta de um livro editado ou importado há mais de 18 meses, na compra de livro editado ou importado há menos de 18 meses e cumular essa oferta com um desconto no livro comprado, imediato ou diferido, igual ou inferior a 10 % do preço fixado pelo editor ou importador;\n\nb) Oferta do serviço de transporte na venda à distância ou na venda em estabelecimento comercial, com entrega em local convencionado, de livro editado ou importado há menos de 18 meses e cumulação dessa oferta com um desconto imediato ou diferido igual ou inferior a 10 % do preço fixado pelo editor ou importador.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "70337390": {
+   "fragment_id": "70300366",
+   "type": 11,
+   "heading": "Artigo 5.º — Verificação dos prazos",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 5.º — Verificação dos prazos\n\n1 - A verificação dos prazos previstos no presente diploma, com referência às datas de edição, reedição, reimpressão, importação ou reimportação de livros, far-se-á de acordo com as seguintes regras:\n\na) Nos casos de edição, reedição e reimpressão de livros, através do mês e ano obrigatoriamente incluídos na ficha técnica do livro;\n\nb) Nos casos de importação ou reimportação, através da data mencionada na fatura do exportador do livro ou noutro documento idóneo usado no comércio.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, o editor deve indicar na ficha técnica do livro o mês e ano da primeira edição e, cumulativamente e sempre que aplicável, o mês e ano da reedição ou da republicação.\n\n> Republicado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70329572": {
+   "fragment_id": "70300367",
+   "type": 11,
+   "heading": "Artigo 6.º — Venda por correspondência ou assinatura",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 6.º — Venda por correspondência ou assinatura\n\nQuem publicar um livro com vista a ser difundido por correspondência ou assinatura, ou qualquer outro circuito que não o da venda a retalho, menos de nove meses após a primeira edição desse livro, deverá fixar um preço de venda ao público não inferior ao definido nos termos do n.º 1 do artigo 4.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70329573": {
+   "fragment_id": "70300368",
+   "type": 11,
+   "heading": "Artigo 7.º — Colecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Colecções\n\n1 - As colecções de livros devidamente identificados poderão ser vendidas por um preço fixado pelo editor inferior ao que resultaria da soma dos preços de cada um dos títulos que integram as referidas colecções.\n\n2 - Não é obrigatório indicar a redução do preço sobre os livros que componham as colecções referidas no número anterior, devendo contudo o editor fazer menção do preço nos catálogos, preçários e nos locais de venda."
+  },
+  "70329574": {
+   "fragment_id": "70300369",
+   "type": 11,
+   "heading": "Artigo 8.º — Importação de livros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Importação de livros\n\n1 - Para os livros em língua portuguesa importados, o preço fixado pelo importador não pode ser inferior ao preço de venda fixado pelo editor para a venda ao público em Portugal dessas obras ou, na sua ausência, do preço que resultar, em escudos, do que for fixado ou aconselhado para edição em língua original desses mesmos livros no seu país de origem, sem prejuízo do disposto no n.º 3 do presente artigo.\n\n2 - O preço fixado para um livro editado em Portugal que tenha sido exportado e reimportado não pode ser inferior ao preço de venda ao público anteriormente fixado pelo editor.\n\n3 - As disposições sobre o preço fixo não são aplicáveis aos livros provenientes de um estado membro da União Europeia, salvo se as circunstâncias de importação, designadamente a ausência de comercialização efectiva nesse Estado ou outras, indiciem que a operação teve por objectivo violar o disposto no presente diploma."
+  },
+  "70337391": {
+   "fragment_id": "70300370",
+   "type": 11,
+   "heading": "Artigo 9.º — Modificações do preço",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 9.º — Modificações do preço\n\n1 - As modificações do preço fixado nos termos do artigo 2.º e a data a partir da qual devem ser consideradas para venda ao público são válidas para todos os retalhistas, desde que comunicadas pelo editor, distribuidor ou importador, ou seu representante, à sua rede de vendas, considerando os endereços postal ou eletrónico habitualmente utilizados nos contactos comerciais, com uma antecedência não inferior a 15 dias, sob pena de não produzirem quaisquer efeitos.\n\n2 - O retalhista fica obrigado a praticar o novo preço a partir da data de produção de efeitos que lhe foi comunicada.\n\n> Republicado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70337392": {
+   "fragment_id": "70300371",
+   "type": 11,
+   "heading": "Artigo 10.º — Informação de preços",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 10.º — Informação de preços\n\n1 - Semestralmente, até ao quinto dia útil dos meses de janeiro e julho, sempre que no semestre anterior tenham sido publicadas novidades, reeditadas obras ou alterados preços, todo o editor ou importador com exclusividade, por si ou através de representante, deve distribuir pela sua rede de vendas, considerando os endereços postal ou eletrónico habitualmente usados nos contactos comerciais, em formato físico ou eletrónico, um catálogo ou uma lista completa e consolidada de preços dos seus livros efetivamente disponíveis para venda, sem o imposto sobre o valor acrescentado (IVA), sejam novidades ou fundo de catálogo, contendo o título do livro, o autor, o ISBN, o mês e ano da primeira edição ou, sempre que aplicável, o mês e ano da reedição, e o preço fixado pelo editor, sem o IVA, atualizados até ao último dia do mês anterior.\n\n2 - Sem prejuízo da obrigação de comunicação específica das modificações de preço, nos termos do artigo anterior, e sempre que aplicável, o editor ou importador com exclusividade, por si ou através de representante, deve distribuir mensalmente, até ao quinto dia útil, pela sua rede de vendas, considerando os endereços postal ou eletrónico habitualmente usados nos contratos comerciais, em formato físico ou eletrónico, uma lista de preços, sem o IVA, com as novidades publicadas e os títulos que foram objeto de modificações de preço no mês imediatamente anterior, contendo o título do livro, o autor, o ISBN, o mês e ano da primeira edição ou, sempre que aplicável, o mês e ano da reedição, e o preço fixado pelo editor, sem o IVA.\n\n3 - A informação a ser disponibilizada nos termos dos números anteriores deve ser efetuada com conhecimento à Inspeção-Geral das Atividades Culturais (IGAC), através de meio eletrónico ou outro legalmente admissível.\n\n4 - Os retalhistas devem disponibilizar às entidades de fiscalização, no próprio local de venda e sempre que solicitada, a informação referida nos n.os 1 e 2.\n\n5 - O disposto no presente artigo não se aplica às edições de autor, cuja edição e distribuição sejam asseguradas diretamente pelo próprio autor.\n\n> Republicado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70337377": {
+   "fragment_id": "70300372",
+   "type": 11,
+   "heading": "Artigo 11.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Publicidade\n\nÉ proibida toda a publicidade anunciando preços de venda de livros ao público que contrarie o disposto no presente diploma."
+  },
+  "70337393": {
+   "fragment_id": "70300374",
+   "type": 11,
+   "heading": "Artigo 12.º — Aquisições especiais",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 12.º — Aquisições especiais\n\nO disposto no presente diploma não se aplica às aquisições de livros efetuadas por entidades públicas à rede livreira e destinadas exclusivamente a ações no âmbito da cooperação externa e das bibliotecas públicas, escolares e universitárias, as quais podem beneficiar de um regime de preço mais favorável.\n\n> Republicado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70337394": {
+   "fragment_id": "70325275",
+   "type": 11,
+   "heading": "Artigo 13.º — Edições especiais",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 13.º — Edições especiais\n\n1 - Os exemplares de edições especiais destinados a associações, instituições ou outras entidades individualizadas devem ostentar de forma visível a especificação dessa natureza.\n\n2 - No caso de as edições referidas no número anterior virem a ser comercializadas, deve ser observado o disposto nos artigos 4.º, 4.º-A e 5.º, relevando, para efeitos de verificação dos prazos previstos no artigo 5.º, a data aposta na fatura com que iniciou a respetiva comercialização.\n\n> Republicado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70337395": {
+   "fragment_id": "70325276",
+   "type": 11,
+   "heading": "Artigo 14.º — Ocasiões especiais",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 14.º — Ocasiões especiais\n\n1 - É permitida a comercialização de livros editados ou importados há menos de 18 meses, com um preço de venda ao público compreendido entre 80 % e 100 % do preço fixado pelo editor ou importador exclusivo, no decurso de feiras do livro ou de festas do livro e de mercados do livro, desde que tais iniciativas decorram em períodos de tempo previamente determinados e respeitem as regras definidas no número seguinte.\n\n2 - Para efeitos do disposto no número anterior, deve observar-se o seguinte:\n\na) A duração acumulada de todas as iniciativas realizadas em cada ano por uma mesma entidade não pode ultrapassar o prazo máximo de 25 dias;\n\nb) A menção expressa nos materiais publicitários que anunciem as condições promocionais aplicáveis de «iniciativa promocional nos termos do regime jurídico do preço fixo do livro».\n\n3 - Nas situações em que a entidade promotora do mercado do livro seja um retalhista com mais de um estabelecimento comercial ou sucursal, a observância do prazo de 25 dias para o conjunto das iniciativas deve ser considerada por cada estabelecimento ou sucursal.\n\n4 - O preço de venda ao público de livros editados ou importados há menos de 18 meses deve, porém, situar-se entre 90 % e 100 % do preço fixado pelo editor ou importador, se forem comercializados por uma entidade de comércio a retalho não sedentário ou ocasional, nomeadamente:\n\na) Em unidades móveis ou amovíveis localizadas em feiras ou em espaços públicos autorizados para o exercício da venda ambulante;\n\nb) Em unidades móveis ou amovíveis localizadas em espaços públicos ou privados de acesso público;\n\nc) Em instalações fixas nas quais não seja exercida uma atividade permanente.\n\n5 - As feiras do livro promovidas por organismos representativos dos editores e livreiros podem, no seu conjunto, ultrapassar a duração acumulada de 25 dias.\n\n6 - As datas e os períodos das iniciativas previstas no presente artigo devem ser comunicados à IGAC através de meio eletrónico ou outro legalmente admissível, com uma antecedência mínima de 48 horas em relação ao seu início.\n\n7 - A IGAC mantém atualizada e disponível para consulta por qualquer interessado a lista das iniciativas realizadas nos termos do presente artigo.\n\n> Republicado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "70337396": {
+   "fragment_id": "70325277",
+   "type": 11,
+   "heading": "Artigo 15.º — Isenções",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 15.º — Isenções\n\n1 - Ficam isentos da obrigação de venda a preço fixo:\n\na) Os manuais escolares e livros auxiliares dos ensinos básico e secundário;\n\nb) Os livros usados e de bibliófilo;\n\nc) Os livros esgotados e descatalogados;\n\nd) [Revogada].\n\ne) As subscrições em fase de pré-publicação.\n\n2 - O retalhista que venda ao público livros isentos da obrigação de venda a preço fixo, deve observar as condições de que depende aquela isenção, nomeadamente as que resultam das definições contidas nas alíneas g), h), i), l), m) e q) do artigo 1.º\n\n> Republicado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "70337397": {
+   "fragment_id": "70325280",
+   "type": 11,
+   "heading": "Artigo 17.º — Avaliação",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 17.º — Avaliação\n\nA Direção-Geral do Livro, dos Arquivos e das Bibliotecas deve proceder ao acompanhamento regular da aplicação do disposto no presente diploma, em ordem a permitir avaliar os seus efeitos, culturais e económicos, no setor editorial e livreiro e a suscitar a produção de propostas de medidas, quando necessário, tendentes a corrigir e a melhorar o comércio do livro.\n\n> Republicado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70337398": {
+   "fragment_id": "70325281",
+   "type": 11,
+   "heading": "Artigo 18.º — Contra-ordenações",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 18.º — Contra-ordenações\n\n1 - Constitui contraordenação punível com coima entre 250 (euro) e 3 740 (euro), no caso das pessoas singulares, e de 350 (euro) e 12 500 (euro), no caso das pessoas coletivas, a violação do disposto no artigo 2.º, no artigo 4.º, no artigo 4.º-A, no n.º 2 do artigo 5.º, nos n.os 1 e 2 do artigo 8.º, no artigo 11.º, no n.º 2 do artigo 13.º, nos n.os 1 a 4 e 6 do artigo 14.º e no n.º 2 do artigo 15.º\n\n2 - Constitui contraordenação punível com coima entre 125 (euro) e 3 740 (euro), no caso das pessoas singulares, e entre 250 (euro) e 10 000 (euro), no caso das pessoas coletivas, a violação do disposto nos n.os 1 a 3 do artigo 10.º\n\n3 - Constitui contraordenação punível com coima entre 3,74 (euro) e 10 (euro) por cada livro, no caso das pessoas singulares, e entre 2 (euro) e 15 (euro), no caso das pessoas coletivas, até ao limite legal aplicável, a violação do disposto no artigo 3.º, no artigo 6.º, no n.º 2 do artigo 7.º, no artigo 9.º, e no n.º 1 do artigo 13.º\n\n4 - A negligência é punível, sendo os montantes mínimos e máximos das coimas aplicáveis nos termos dos n.os 1 a 3 reduzidos para metade.\n\n5 - Sem prejuízo do disposto nos números anteriores, sempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade que aplica a coima, simultaneamente com esta, determinar a aplicação das sanções acessórias previstas no regime geral do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro.\n\n6 - Atenta a gravidade da contraordenação, pode a mesma ser objeto de publicidade.\n\n> Republicado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "70337378": {
+   "fragment_id": "70331737",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Sanção aplicável",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 18.º-A — Sanção aplicável\n\n1 - A determinação da medida da coima faz-se em função da gravidade da contraordenação, da culpa do agente, da sua situação económica e dos benefícios obtidos com a prática do facto.\n\n2 - Na determinação da sanção aplicável são ainda tomadas em conta a conduta anterior e posterior do agente e as exigências de prevenção.\n\n3 - Para efeitos do disposto nos números anteriores, são ainda atendíveis, a coação, a falsificação, as falsas declarações, a simulação ou outro meio fraudulento utilizado pelo agente, bem como a existência de atos de ocultação ou dissimulação tendentes a dificultar a descoberta da infração.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "70337381": {
+   "fragment_id": "70331738",
+   "type": 14,
+   "heading": "Anexo 18.º-B — Medidas cautelares",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "## Anexo 18.º-B — Medidas cautelares\n\n1 - A entidade fiscalizadora pode determinar, com caráter de urgência e sem dependência de audiência de interessados, a suspensão da execução de qualquer das práticas proibidas pelo artigo 4.º-A ou de práticas violadoras do disposto no artigo 14.º, que sejam suscetíveis de causar prejuízo grave, de difícil ou impossível reparação a outras empresas, sempre que constate que existem indícios fortes da sua verificação.\n\n2 - Aplicada medida cautelar provisória nos termos do número anterior, a entidade fiscalizadora promove, no prazo máximo de cinco dias, a notificação do interessado para pronúncia, decidindo sobre a conversão da medida em definitiva, no prazo máximo de 10 dias, após o exercício do direito de audição.\n\n3 - Na ausência de promoção de audição ou de decisão nos prazos referidos no número anterior, a medida cautelar provisória e a sanção pecuniária compulsória a que se refere o artigo 18.º-C caducam automaticamente.\n\n4 - A medida cautelar definitiva e a sanção pecuniária compulsória a que se refere o artigo 18.º-C caducam automaticamente, caso o despacho instrutório em processo contraordenacional não seja notificado ao arguido no prazo de 30 dias após a determinação de suspensão de execução prevista no n.º 1.\n\n5 - A medida cautelar e a sanção pecuniária compulsória referidas no número anterior vigoram até a decisão em processo contraordenacional se tornar definitiva, transitar em julgado ou caducar por condenação em processo criminal pelo mesmo facto, sem prejuízo da alteração, substituição ou revogação da medida cautelar, nos termos gerais ou por aplicação de medida de coação de efeito equivalente.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "70337384": {
+   "fragment_id": "70331739",
+   "type": 11,
+   "heading": "Artigo 18.º-C — Sanções pecuniárias compulsórias",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 18.º-C — Sanções pecuniárias compulsórias\n\n1 - A entidade fiscalizadora pode aplicar uma sanção pecuniária compulsória, no caso de o agente não cumprir a decisão que impõe a adoção de medidas cautelares.\n\n2 - A sanção pecuniária compulsória referida no número anterior consiste no pagamento de uma quantia pecuniária por cada dia de incumprimento que se verifique para além do prazo fixado para o cumprimento da obrigação.\n\n3 - A sanção pecuniária compulsória é fixada atendendo ao volume de negócios do infrator realizado no ano civil anterior e ao impacto negativo causado no mercado e na concorrência pelo incumprimento, podendo o seu montante diário oscilar entre 200 (euro) e 12 500 (euro).\n\n4 - Os montantes fixados podem ser variáveis para cada dia de incumprimento no sentido crescente, não podendo ultrapassar, cumulativamente:\n\na) Um período máximo de 30 dias;\n\nb) O montante máximo acumulado de 3 750 (euro), para as pessoas singulares, e de 40 000 (euro), para as pessoas coletivas.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "70337399": {
+   "fragment_id": "70325282",
+   "type": 11,
+   "heading": "Artigo 19.º — Aplicação de coimas",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 19.º — Aplicação de coimas\n\nA instrução dos processos instaurados pela prática das contraordenações previstas no presente diploma compete à IGAC e a aplicação das coimas ao inspetor-geral das atividades culturais.\n\n> Republicado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "70337400": {
+   "fragment_id": "70325283",
+   "type": 11,
+   "heading": "Artigo 20.º — Receitas",
+   "in_force_from": "2015-10-16",
+   "changed_by": [
+    "Republicado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 20.º — Receitas\n\nO produto da aplicação das coimas e das sanções pecuniárias compulsórias previstas no presente diploma constitui receita do Fundo de Fomento Cultural e destina-se a contribuir para financiar programas de incentivo à leitura e de promoção ao livro.\n\n> Republicado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "173993118": {
+   "fragment_id": "70300362",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": "2022-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2021 - Diário da República n.º 217/2021, Série I de 2021-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2021-173956472), em vigor a partir de 2022-02-07",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do disposto no presente diploma, entende-se por:\n\na) «Coleção», o conjunto de livros previamente organizado pelo editor que, para além de ter uma coerência própria entre si, possui uniformidade de apresentação e formato, podendo ou não ser dos mesmos autores e assunto e ter uma numeração sequencial;\n\nb) Distribuidor: todo aquele que presta a um ou mais editores serviços de venda aos retalhistas;\n\nc) Editor: a pessoa que produz e confecciona ou manda confeccionar um livro, destinado à sua comercialização;\n\nd) «Feira do livro» e «festa do livro», as iniciativas de relevância cultural promovidas por organismos representativos dos editores e livreiros ou por instituições públicas em espaços especial e expressamente organizados e destinados para esse efeito, onde o tema central seja o livro;\n\ne) Importador: aquele que, com sede social ou domicílio em território português, importa a qualquer título livro de editor estrangeiro destinado à comercialização;\n\nf) «Livro», toda a obra literária, científica e artística que constitui uma publicação unitária em um ou mais volumes, destinada a ser posta à disposição do público, qualquer que seja o formato de publicação, nomeadamente, impresso, áudio e eletrónico, independentemente da possibilidade de apropriação do seu conteúdo por qualquer dos modos atualmente conhecidos ou que de futuro o venham a ser;\n\ng) Livro auxiliar: o instrumento de trabalho individual ou colectivo, constituído por um livro em um ou mais volumes, que, propondo um conjunto de informação, vise a aplicação e a avaliação da aprendizagem efectuada, destinado exclusivamente a um determinado ano de escolaridade.\n\nh) 'Livro de bibliófilo', o livro de edição limitada, cujos exemplares são numerados, de elevada qualidade material e formal, desde que tenham decorrido 24 meses sobre a data de edição ou importação;\n\ni) 'Livro esgotado e descatalogado', o livro que não se encontra disponível na rede de venda e não consta do último catálogo divulgado pelo editor ou importador exclusivo à rede de vendas ou cuja descatalogação foi comunicada por escrito à referida rede, desde que tenham decorrido 24 meses sobre a data de edição ou importação;\n\nj) «Livro reeditado», o livro publicado contendo alterações em relação à sua edição original e que obrigue ao seu depósito legal, nos termos do Decreto-Lei n.º 74/82, de 3 de março;\n\nk) «Livro republicado», o livro publicado novamente sem que a alteração de forma ou de conteúdo relativamente à sua edição original ou reedição obrigue a novo International Standard Book Number (ISBN);\n\nl) 'Livro usado', todo o livro já manuseado, desde que tenham decorridos 24 meses sobre a data de edição ou importação;\n\nm) «Manual escolar», o instrumento de trabalho individual, constituído por um livro em um ou mais volumes, que contribua para a aquisição de conhecimentos e para o desenvolvimento da capacidade e das atitudes definidas pelos objetivos dos programas curriculares em vigor para cada disciplina, contendo a informação básica necessária às exigências das rubricas programáticas. Supletivamente, o manual pode conter elementos para o desenvolvimento de atividades de aplicação e avaliação da aprendizagem efetuada;\n\nn) «Mercado do livro», a iniciativa de natureza comercial primariamente orientada e destinada à venda de livros em condições promocionais de preço para o consumidor, promovidas por entidades comerciais;\n\no) Rede de venda: conjunto de retalhistas com quem o editor ou distribuidor tem relações comerciais directas de forma regular;\n\np) «Retalhista», a pessoa singular ou pessoa coletiva, seja a sua natureza jurídica pública ou privada, que pratique com regularidade atos de comércio de venda ao público, independentemente de essa ser ou não a sua atividade principal ou exclusiva, de estar ou não sedeada em território nacional, de a venda ser feita dentro ou fora do estabelecimento físico, em sítio eletrónico ou através de outra modalidade de venda à distância, ou por qualquer forma de comércio a retalho não sedentário ou ocasional;\n\nq) «Subscrições em fase de pré-publicação», as subscrições de coleções que ainda não foram publicadas até ao momento da sua colocação na rede de venda.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2021 - Diário da República n.º 217/2021, Série I de 2021-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2021-173956472), em vigor a partir de 2022-02-07\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794), em vigor a partir de 2000-09-07"
+  },
+  "173993119": {
+   "fragment_id": "70300365",
+   "type": 11,
+   "heading": "Artigo 4.º — Venda ao público",
+   "in_force_from": "2022-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2021 - Diário da República n.º 217/2021, Série I de 2021-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2021-173956472), em vigor a partir de 2022-02-07",
+    "Republicado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 4.º — Venda ao público\n\n1 - O preço de venda ao público do livro, praticado pelos retalhistas, deve situar-se entre 90 % e 100 % do preço fixado pelo editor ou importador.\n\n2 - Os retalhistas podem estabelecer preços de venda inferiores ao referido no número anterior sobre livros que tenham sido editados pela primeira vez ou importados há mais de 24 meses.\n\n3 - O retalhista pode fazer acrescentar ao preço efetivo do livro os custos ou as remunerações que correspondam a serviços suplementares prestados e que tenham sido acordados com o consumidor, nomeadamente o custo da entrega em local convencionado.\n\n4 - Para efeitos do n.º 2, quando o editor atue também na qualidade de retalhista e uma vez decorrido o prazo de 24 meses desde que o livro tenha sido editado pela primeira vez ou importado, o editor pode praticar os mesmos preços dos retalhistas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2021 - Diário da República n.º 217/2021, Série I de 2021-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2021-173956472), em vigor a partir de 2022-02-07\n\n> Republicado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "173993120": {
+   "fragment_id": "70331736",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Práticas proibidas",
+   "in_force_from": "2022-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2021 - Diário da República n.º 217/2021, Série I de 2021-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2021-173956472), em vigor a partir de 2022-02-07",
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 4.º-A — Práticas proibidas\n\n1 - Para efeitos do disposto no artigo anterior, é proibida a comercialização de livros, independentemente do formato, nas seguintes condições promocionais:\n\na) Desconto imediato superior a 10 % do preço fixado pelo editor ou importador;\n\nb) Promoção multiproduto com oferta ao consumidor de vantagem decorrente da compra simultânea de dois ou mais livros, ao abrigo da qual, independentemente do número de livros integrado na promoção ou do número mínimo de livros que o consumidor é convidado a adquirir, é possível a sua aquisição por preço inferior a 90 % do fixado pelo editor ou importador, nomeadamente, nas seguintes situações:\n\ni) Livro comercializado em conjuntos promocionais com um ou mais livros não editados ou importados há mais de 24 meses com um preço de comercialização global e único inferior a 90 % da soma dos preços fixados pelo editor ou importador para cada um dos livros do conjunto;\n\nii) 'Pague um e leve dois' ou 'pague dois e leve três' ou quaisquer outras combinações das quais resulte uma oferta igual ou superior às referidas, sempre que exista a possibilidade de a oferta recair sobre livros não editados ou importados há mais de 24 meses;\n\niii) Desconto em todos os livros adquiridos de valor determinado ou determinável, designadamente de valor equivalente ao preço fixado pelo editor ou importador para o livro de mais baixo preço, sempre que exista a possibilidade de aquisição de livro não editado ou importado há mais de 24 meses por preço inferior a 90 % do preço fixado pelo editor ou importador;\n\niv) Descontos progressivos em função da quantidade de livros adquiridos, sempre que exista a possibilidade de aquisição de livro não editado ou importado há mais de 24 meses por preço inferior a 90 % do preço fixado pelo editor ou importador;\n\nc) A comercialização do livro com a respetiva aquisição, conferindo um crédito, vantagem ou compensação de valor superior a 10 % do preço fixado pelo editor ou importador, para utilização em aquisição posterior de outros bens, de natureza equivalente ou de qualquer outra natureza, independentemente das regras de que dependa a sua conversão em moeda, exigibilidade e liquidação ou a que fique sujeita a sua utilização e qualquer que seja o meio de pagamento que o materialize, nomeadamente:\n\ni) Quando o crédito, vantagem ou compensação é atribuído em cartão ou instrumento de fidelização;\n\nii) Quando o crédito, vantagem ou compensação é atribuído através da emissão de um ou mais vales para utilização em compras posteriores.\n\n2 - É ainda vedada a oferta de bens de outra natureza, prémios ou outras vantagens não pecuniárias, na compra de livro editado ou importado há menos de 24 meses, salvo nas seguintes situações:\n\na) A oferta estiver agregada ao livro como oferta editorial, nos termos do n.º 2 do artigo 2.º, estando já refletida no preço fixado pelo editor ou importador;\n\nb) Constituir um brinde ou material de promoção da obra, do autor, do editor ou do retalhista, cujo valor comercial não represente mais do que 10 % do preço fixado pelo editor ou importador.\n\n3 - Para efeitos do disposto na alínea c) do n.º 1, os retalhistas que recorram a sistemas ou instrumentos de fidelização com concessão de vantagens expressas em unidades ou elementos não pecuniários, mas que, observadas determinadas condições, se convertem em moeda, designadamente bónus, pontos, selos, carimbos, devem prever, de forma clara e inequívoca, as regras de que depende a conversão em moeda daquelas vantagens, em regulamento disponível para consulta no estabelecimento comercial ou no respetivo sítio eletrónico.\n\n4 - Sem prejuízo das regras vigentes em matéria de práticas individuais restritivas do comércio, nomeadamente no âmbito da venda com prejuízo, não são proibidas, para efeitos do disposto no presente diploma, as seguintes condições promocionais:\n\na) Oferta de um livro editado ou importado há mais de 24 meses, na compra de livro editado ou importado há menos de 24 meses e cumular essa oferta com um desconto no livro comprado, imediato ou diferido, igual ou inferior a 10 % do preço fixado pelo editor ou importador;\n\nb) Oferta do serviço de transporte na venda à distância ou na venda em estabelecimento comercial, com entrega em local convencionado, de livro editado ou importado há menos de 24 meses e cumulação dessa oferta com um desconto imediato ou diferido igual ou inferior a 10 % do preço fixado pelo editor ou importador.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2021 - Diário da República n.º 217/2021, Série I de 2021-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2021-173956472), em vigor a partir de 2022-02-07\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "173993121": {
+   "fragment_id": "70325276",
+   "type": 11,
+   "heading": "Artigo 14.º — Ocasiões especiais",
+   "in_force_from": "2022-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2021 - Diário da República n.º 217/2021, Série I de 2021-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2021-173956472), em vigor a partir de 2022-02-07",
+    "Republicado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 14.º — Ocasiões especiais\n\n1 - É permitida a comercialização de livros editados ou importados há menos de 24 meses, com um preço de venda ao público compreendido entre 80 % e 100 % do preço fixado pelo editor ou importador exclusivo, no decurso de feiras do livro ou de festas do livro e de mercados do livro, desde que tais iniciativas decorram em períodos de tempo previamente determinados e respeitem as regras definidas no número seguinte.\n\n2 - Para efeitos do disposto no número anterior, deve observar-se o seguinte:\n\na) A duração acumulada de todas as iniciativas realizadas em cada ano por uma mesma entidade não pode ultrapassar o prazo máximo de 25 dias;\n\nb) A menção expressa nos materiais publicitários que anunciem as condições promocionais aplicáveis de «iniciativa promocional nos termos do regime jurídico do preço fixo do livro».\n\n3 - Nas situações em que a entidade promotora do mercado do livro seja um retalhista com mais de um estabelecimento comercial ou sucursal, a observância do prazo de 25 dias para o conjunto das iniciativas deve ser considerada por cada estabelecimento ou sucursal.\n\n4 - O preço de venda ao público de livros editados ou importados há menos de 24 meses deve, porém, situar-se entre 90 % e 100 % do preço fixado pelo editor ou importador, se forem comercializados por uma entidade de comércio a retalho não sedentário ou ocasional, nomeadamente:\n\na) Em unidades móveis ou amovíveis localizadas em feiras ou em espaços públicos autorizados para o exercício da venda ambulante;\n\nb) Em unidades móveis ou amovíveis localizadas em espaços públicos ou privados de acesso público;\n\nc) Em instalações fixas nas quais não seja exercida uma atividade permanente.\n\n5 - As feiras do livro promovidas por organismos representativos dos editores e livreiros podem, no seu conjunto, ultrapassar a duração acumulada de 25 dias.\n\n6 - As datas e os períodos das iniciativas previstas no presente artigo devem ser comunicados à IGAC através de meio eletrónico ou outro legalmente admissível, com uma antecedência mínima de 48 horas em relação ao seu início.\n\n7 - A IGAC mantém atualizada e disponível para consulta por qualquer interessado a lista das iniciativas realizadas nos termos do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2021 - Diário da República n.º 217/2021, Série I de 2021-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2021-173956472), em vigor a partir de 2022-02-07\n\n> Republicado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  },
+  "173993122": {
+   "fragment_id": "70325281",
+   "type": 11,
+   "heading": "Artigo 18.º — Contra-ordenações",
+   "in_force_from": "2022-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2021 - Diário da República n.º 217/2021, Série I de 2021-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2021-173956472), em vigor a partir de 2022-02-07",
+    "Republicado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+   ],
+   "markdown": "###### Artigo 18.º — Contra-ordenações\n\n1 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), aprovado pelo Decreto-Lei n.º 9/2021, de 29 de janeiro, a violação do disposto nos artigos 2.º, 4.º e 4.º-A, no n.º 2 do artigo 5.º, nos n.os 1 e 2 do artigo 8.º, no artigo 11.º, no n.º 2 do artigo 13.º, nos n.os 1 a 4 e 6 do artigo 14.º e no n.º 2 do artigo 15.º\n\n2 - Constitui contraordenação económica leve, punível nos termos do RJCE, a violação do disposto nos n.os 1 a 3 do artigo 10.º\n\n3 - Constitui contraordenação económica leve, punível nos termos do RJCE até ao limite legal aplicável, a violação do disposto nos artigos 3.º e 6.º, no n.º 2 do artigo 7.º, no artigo 9.º e no n.º 1 do artigo 13.º\n\n4 - A negligência é punível nos termos do RJCE.\n\n5 - Sem prejuízo do disposto nos números anteriores, sempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade que aplica a coima determinar a aplicação das sanções acessórias previstas no RJCE.\n\n6 - Atenta a gravidade da contraordenação, pode a mesma ser objeto de publicidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2021 - Diário da República n.º 217/2021, Série I de 2021-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2021-173956472), em vigor a partir de 2022-02-07\n\n> Republicado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2015-70309897), em vigor a partir de 2015-10-16"
+  }
+ }
+}

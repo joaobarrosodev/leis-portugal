@@ -1,0 +1,316 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:446374:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2003-215487029",
+ "dre_path": "/dr/detalhe/lei/101-2003-446374",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-11-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215461831",
+    "215461832",
+    "215461833",
+    "215461834",
+    "215461835",
+    "215461836",
+    "215461837",
+    "215461838",
+    "215461839",
+    "215461840",
+    "215461841",
+    "215461842",
+    "215461843",
+    "215461844",
+    "215461845",
+    "215461846",
+    "215461847",
+    "215461848",
+    "215461849",
+    "215461850",
+    "215461851",
+    "215461852",
+    "215461853",
+    "215461854",
+    "215461855",
+    "215461856",
+    "215461857",
+    "215461858",
+    "215461859",
+    "215461860",
+    "215461861",
+    "215461862",
+    "215461863"
+   ]
+  }
+ ],
+ "fragments": {
+  "215461831": {
+   "fragment_id": "215487030",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 101/2003\n\nde 15 de Novembro\n\nAprova o Estatuto dos Juízes Militares e dos Assessores Militares do Ministério Público\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "215461832": {
+   "fragment_id": "215487031",
+   "type": 1,
+   "heading": "Capítulo I — Disposição preambular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição preambular"
+  },
+  "215461833": {
+   "fragment_id": "215487032",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei regula o Estatuto dos Juízes Militares e dos Assessores Militares do Ministério Público."
+  },
+  "215461834": {
+   "fragment_id": "215487033",
+   "type": 1,
+   "heading": "Capítulo II — Estatuto dos juízes militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estatuto dos juízes militares"
+  },
+  "215461835": {
+   "fragment_id": "215487034",
+   "type": 11,
+   "heading": "Artigo 2.º — Estatuto dos juízes militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estatuto dos juízes militares\n\nEnquanto durar o exercício de funções judiciais, os juízes militares estão sujeitos ao presente Estatuto e, complementarmente, ao Estatuto dos Militares das Forças Armadas ou ao Estatuto do Militar da Guarda Nacional Republicana, consoante os casos."
+  },
+  "215461836": {
+   "fragment_id": "215487035",
+   "type": 11,
+   "heading": "Artigo 3.º — Independência e inamovibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Independência e inamovibilidade\n\nOs juízes militares são inamovíveis e independentes, não podendo as suas funções cessar antes do termo da comissão de serviço, sem prejuízo do disposto no artigo seguinte."
+  },
+  "215461837": {
+   "fragment_id": "215487036",
+   "type": 11,
+   "heading": "Artigo 4.º — Cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cessação de funções\n\n1 - As funções dos juízes militares cessam antes do termo da comissão de serviço quando se verifique uma das seguintes causas:\n\na) Morte ou impossibilidade física permanente;\n\nb) Renúncia;\n\nc) Exoneração.\n\n2 - A renúncia, que não carece de aceitação, só produz efeitos após a sua comunicação ao presidente do Conselho Superior da Magistratura.\n\n3 - Compete ao Conselho Superior da Magistratura, ouvido o Chefe do Estado-Maior do ramo respectivo ou o comandante-geral da Guarda Nacional Republicana (GNR), consoante os casos, verificar a impossibilidade física permanente, a qual deve ser previamente comprovada por uma junta médica militar.\n\n4 - A cessação de funções é objecto de declaração publicada na 2.ª série do Diário da República."
+  },
+  "215461838": {
+   "fragment_id": "215487037",
+   "type": 11,
+   "heading": "Artigo 5.º — Irresponsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Irresponsabilidade\n\n1 - Os juízes militares só podem ser responsabilizados civil, criminal ou disciplinarmente pelas suas decisões, nos casos especialmente previstos na lei.\n\n2 - A responsabilidade por crimes comuns ou estritamente militares efectiva-se em termos semelhantes aos dos demais juízes do tribunal em que os juízes militares exerçam funções.\n\n3 - Fora dos casos em que o ilícito praticado constitua crime, a responsabilidade civil apenas pode ser efectuada mediante acção de regresso do Estado contra o juiz militar em causa."
+  },
+  "215461839": {
+   "fragment_id": "215487038",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime disciplinar\n\nOs juízes militares estão sujeitos, por factos praticados no exercício das suas funções, ao regime disciplinar previsto no Estatuto dos Magistrados Judiciais, com a ressalva das disposições relativas à avaliação do mérito."
+  },
+  "215461840": {
+   "fragment_id": "215487039",
+   "type": 11,
+   "heading": "Artigo 7.º — Acção disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acção disciplinar\n\nCompete exclusivamente ao Conselho Superior da Magistratura o exercício da acção disciplinar sobre os juízes militares."
+  },
+  "215461841": {
+   "fragment_id": "215487040",
+   "type": 11,
+   "heading": "Artigo 8.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Incompatibilidades\n\nOs juízes militares não podem desempenhar qualquer outra função, pública ou privada, salvas as funções docentes ou de investigação científica de natureza jurídica ou militar, não remuneradas."
+  },
+  "215461842": {
+   "fragment_id": "215487041",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estatuto remuneratório\n\n1 - Aos juízes militares são mantidos o vencimento ou a remuneração de reserva, conforme os casos, acrescidos dos suplementos a que tenham direito, sendo-lhes ainda abonado um terço da remuneração dos demais juízes do tribunal em que estejam colocados.\n\n2 - O montante que venha a resultar da aplicação da regra referida no número anterior não pode ser superior à remuneração auferida pelos magistrados dos tribunais em que os juízes militares estejam colocados.\n\n3 - O suplemento de exercício de funções judiciais a que se refere o presente artigo é devido exclusivamente pelo período de exercício das mesmas e não influencia a formação da remuneração de reserva ou da pensão de reforma."
+  },
+  "215461843": {
+   "fragment_id": "215487042",
+   "type": 11,
+   "heading": "Artigo 10.º — Honras e precedências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Honras e precedências\n\nOs juízes militares gozam, salvo em cerimónias militares, das honras, garantias e precedências protocolares dos juízes dos tribunais em que forem colocados ou a que estiverem equiparados."
+  },
+  "215461844": {
+   "fragment_id": "215487043",
+   "type": 11,
+   "heading": "Artigo 11.º — Trajo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Trajo profissional\n\nO trajo profissional dos juízes militares é definido por portaria conjunta dos Ministros da Defesa Nacional, da Administração Interna e da Justiça."
+  },
+  "215461845": {
+   "fragment_id": "215487044",
+   "type": 1,
+   "heading": "Capítulo III — Movimento de juízes militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Movimento de juízes militares"
+  },
+  "215461846": {
+   "fragment_id": "215487045",
+   "type": 11,
+   "heading": "Artigo 12.º — Distribuição de juízes militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Distribuição de juízes militares\n\n1 - Os juízes militares integram o quadro dos tribunais competentes para o julgamento de crimes estritamente militares, nos termos da Lei de Organização e Funcionamento dos Tribunais Judiciais e do Código de Justiça Militar.\n\n2 - O quadro de cada um dos tribunais referidos no número anterior prevê, conforme os casos, vagas correspondentes às seguintes categorias:\n\na) A de juiz militar do Supremo Tribunal de Justiça, reservada aos vice-almirantes e tenentes-generais dos três ramos das Forças Armadas ou da GNR;\n\nb) A de juiz militar da Relação, reservada aos contra-almirantes e majores-generais dos três ramos das Forças Armadas ou da GNR;\n\nc) A de juiz militar de 1.ª instância, reservada aos capitães-de-mar-e-guerra e coronéis dos três ramos das Forças Armadas ou da GNR."
+  },
+  "215461847": {
+   "fragment_id": "215487046",
+   "type": 11,
+   "heading": "Artigo 13.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Nomeação\n\n1 - A colocação de juízes militares nos quadros efectua-se por nomeação.\n\n2 - Os juízes militares a que se referem as alíneas a) e b) do n.º 2 do artigo 12.º são nomeados, por escolha, de entre os oficiais na reserva; a nomeação pode recair em oficial na situação de activo, desde que o mesmo transite para a reserva até à tomada de posse.\n\n3 - Os juízes militares de 1.ª instância podem ser nomeados, por escolha, de entre oficiais nas situações de activo ou reserva.\n\n4 - As nomeações a que se referem os números anteriores devem recair, de preferência, em oficiais possuidores da licenciatura em Direito.\n\n5 - Não podem ser nomeados juízes militares os oficiais que:\n\na) Tenham sido definitivamente condenados em pena criminal privativa da liberdade pela prática de crimes dolosos;\n\nb) Se encontrem definitivamente pronunciados por crimes comuns ou estritamente militares, até ao trânsito em julgado da decisão final."
+  },
+  "215461848": {
+   "fragment_id": "215487047",
+   "type": 11,
+   "heading": "Artigo 14.º — Movimento de juízes militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Movimento de juízes militares\n\n1 - Os juízes militares são nomeados pelo Conselho Superior da Magistratura, sob proposta do Conselho de Chefes de Estado-Maior ou do Conselho Geral da GNR, conforme os casos.\n\n2 - Em caso de exoneração ou vagatura de algum lugar previsto no artigo 12.º, o Conselho de Chefes de Estado-Maior ou o Conselho Geral da GNR, conforme os casos, submetem ao Conselho Superior da Magistratura uma lista de três nomes que preencham as condições legais para a nomeação e que fundamentadamente considerem os mais adequados para o desempenho do cargo a prover.\n\n3 - O Conselho Superior da Magistratura pode proceder à nomeação de entre os nomes propostos ou solicitar a indicação de mais um nome ou a apresentação de nova lista, seguindo-se depois os mesmos trâmites."
+  },
+  "215461849": {
+   "fragment_id": "215487048",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime\n\n1 - A comissão de serviço dos juízes militares tem a duração de três anos e pode ser renovada uma vez, por igual período.\n\n2 - A transição de juízes militares para as situações de reserva ou reforma é sustada durante a comissão de serviço e, bem assim, em caso de recondução, salvo declaração expressa em contrário do juiz militar em causa."
+  },
+  "215461850": {
+   "fragment_id": "215487049",
+   "type": 11,
+   "heading": "Artigo 16.º — Posse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Posse\n\n1 - Os juízes militares do Supremo Tribunal de Justiça tomam posse perante o Presidente deste Tribunal.\n\n2 - Os juízes militares da Relação e os juízes militares de 1.ª instância tomam posse perante os presidentes dos Tribunais da Relação de Lisboa e do Porto, conforme os casos.\n\n3 - A posse deve ter lugar nos 10 dias subsequentes à publicação do acto que determinou a colocação."
+  },
+  "215461851": {
+   "fragment_id": "215487050",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime da exoneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime da exoneração\n\nA exoneração dos juízes militares compete ao Conselho Superior da Magistratura, ouvido o Conselho de Chefes de Estado-Maior ou o Conselho Superior da GNR, consoante os casos."
+  },
+  "215461852": {
+   "fragment_id": "215487051",
+   "type": 11,
+   "heading": "Artigo 18.º — Causas de exoneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Causas de exoneração\n\nSão exonerados os juízes militares que:\n\na) Declarem, expressamente, desejar transitar para a situação de reforma, nos termos do n.º 2 do artigo 15.º;\n\nb) Sejam definitivamente condenados por pena criminal privativa da liberdade;\n\nc) Aceitem lugar incompatível com o exercício das suas funções."
+  },
+  "215461853": {
+   "fragment_id": "215487052",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Suspensão de funções\n\nOs juízes militares suspendem as respectivas funções nos mesmos termos dos magistrados judiciais."
+  },
+  "215461854": {
+   "fragment_id": "215487053",
+   "type": 1,
+   "heading": "Capítulo IV — Assessoria Militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Assessoria Militar"
+  },
+  "215461855": {
+   "fragment_id": "215487054",
+   "type": 8,
+   "heading": "Secção I — Estrutura e funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Estrutura e funções"
+  },
+  "215461856": {
+   "fragment_id": "215487055",
+   "type": 11,
+   "heading": "Artigo 20.º — Assessoria Militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Assessoria Militar\n\n1 - A assessoria ao Ministério Público nos processos por crimes estritamente militares é assegurada pela Assessoria Militar, composta por oficiais das Forças Armadas e da GNR.\n\n2 - Integram a Assessoria Militar os Núcleos de Assessoria Militar dos Departamentos de Investigação e Acção Penal (DIAP) de Lisboa e Porto."
+  },
+  "215461857": {
+   "fragment_id": "215487056",
+   "type": 11,
+   "heading": "Artigo 21.º — Núcleos de assessoria militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Núcleos de assessoria militar\n\n1 - Nos DIAP de Lisboa e Porto funcionam núcleos de assessoria militar, compostos por oficiais das Forças Armadas e da GNR, de categoria não inferior a primeiro-tenente ou capitão e em número não inferior a quatro por núcleo.\n\n2 - Os núcleos de assessoria militar asseguram as funções a que se referem o artigo seguinte e o artigo 23.º no âmbito das respectivas procuradorias-gerais distritais e dos DIAP.\n\n3 - O Núcleo de Assessoria Militar do DIAP de Lisboa assegura igualmente o apoio ao Departamento Central de Investigação e Acção Penal.\n\n4 - O Procurador-Geral da República pode fixar um número de assessores militares em cada um dos núcleos superior ao previsto no n.º 1, de acordo com as necessidades de serviço."
+  },
+  "215461858": {
+   "fragment_id": "215487057",
+   "type": 8,
+   "heading": "Secção II — Funções e regime de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Funções e regime de intervenção"
+  },
+  "215461859": {
+   "fragment_id": "215487058",
+   "type": 11,
+   "heading": "Artigo 22.º — Funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Funções\n\nCabe aos assessores militares coadjuvar o Ministério Público:\n\na) No exercício da acção penal relativamente a crimes estritamente militares;\n\nb) Na promoção e realização de acções de prevenção relativas aos crimes referidos na alínea anterior;\n\nc) Na direcção da investigação dos crimes referidos nas alíneas anteriores;\n\nd) Na fiscalização da actividade processual da Polícia Judiciária Militar;\n\ne) Na promoção da execução de penas e medidas de segurança aplicadas a militares na efectividade de serviço."
+  },
+  "215461860": {
+   "fragment_id": "215487059",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime de intervenção\n\n1 - Para efeito do disposto no artigo anterior e sem prejuízo do demais apoio técnico que o magistrado responsável pelo processo lhes requeira, os assessores militares emitem sempre parecer prévio, não vinculativo, relativamente aos seguintes actos:\n\na) Requerimento de aplicação de medidas de coacção a militares na efectividade de serviço, bem como a sua revogação, alteração ou extinção;\n\nb) Audição do Ministério Público para os efeitos previstos na alínea anterior, sempre que a aplicação, revogação, alteração ou extinção sejam decretadas oficiosamente ou a requerimento do arguido;\n\nc) Dedução da acusação ou arquivamento de inquérito.\n\n2 - O parecer a que se refere o número anterior é emitido por escrito, no prazo fixado pelo magistrado responsável; este pode, no entanto, por urgente conveniência de serviço, determinar que o parecer seja emitido oralmente, sendo reduzido a escrito logo que possível.\n\n3 - Os assessores militares emitem parecer segundo o critério de intervenção previsto no n.º 2 do artigo 114.º do Código de Justiça Militar, sem prejuízo de o magistrado responsável poder colher ainda os pareceres de outros assessores militares, se entender conveniente."
+  },
+  "215461861": {
+   "fragment_id": "215487060",
+   "type": 8,
+   "heading": "Secção III — Nomeação e estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Nomeação e estatuto"
+  },
+  "215461862": {
+   "fragment_id": "215487061",
+   "type": 11,
+   "heading": "Artigo 24.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Nomeação\n\n1 - Os assessores militares são nomeados pelo Procurador-Geral da República, sob proposta dos Chefes de Estado-Maior respectivos ou do comandante-geral da GNR, consoante os casos.\n\n2 - É correspondentemente aplicável o procedimento de nomeação dos juízes militares, com as necessárias adaptações."
+  },
+  "215461863": {
+   "fragment_id": "215487062",
+   "type": 11,
+   "heading": "Artigo 25.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Estatuto\n\n1 - Os assessores militares do Ministério Público desempenham as respectivas funções em regime de comissão normal e vencem de acordo com o posto respectivo.\n\n2 - O exercício de funções na Assessoria Militar do Ministério Público só decorre em regime de exclusividade se o Procurador-Geral assim o determinar, genérica ou casuisticamente.\n\n3 - Os assessores militares estão sujeitos ao dever de reserva que impende sobre os magistrados do Ministério Público, além dos deveres inerentes ao estatuto da condição militar.\n\n4 - São ainda aplicáveis aos assessores militares os impedimentos previstos no artigo 117.º do Código de Justiça Militar."
+  }
+ }
+}

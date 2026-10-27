@@ -1,0 +1,188 @@
+---
+schema_version: '1.0'
+id: pt:dre:193627:por
+title: Decreto-Lei n.º 44877
+short_title: null
+summary: Aprova, para ratificação, o Protocolo relativo à importação de produtos agrícolas portugueses na Suíça, assinado
+  em Berna em 22 de Fevereiro de 1962
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Económicos e Consulares
+proposing_entity: null
+official_number: '44877'
+official_date: null
+publication_date: '1963-02-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 34/1963, Série I de 1963-02-09
+  number: '34'
+  series: I
+  supplement: null
+  pages: 127 - 128
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/02/03400/01270128.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '193627'
+  dre_path: /dr/detalhe/decreto-lei/44877-1963-193627
+  internal: pt:dre:193627:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44877-1963-193627
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44877-1963-193627
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:44:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ae2ee60d5d7ab807fdd43f7cea2a82f4e4a32e27f7510b6101ff764f83da4a21
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:44:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Berna
+- Convenção
+- Importação
+- Portugal
+- Produto Agrícola
+- Suíça
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:44:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44877
+
+Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo único. É aprovado, para ratificação, o Protocolo relativo à importação de produtos agrícolas portugueses na Suíça, assinado em Berna em 22 de Fevereiro de 1962, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 9 de Fevereiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto -Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
+
+Para ser presente à Assembleia Nacional.
+
+Protocole concernant l'importation de produits agricoles portugais en Suisse, conclu à Berne le 22 février 1962. Date de l'entrée en vigueur: 1er avril 1962.
+
+Vu la participation de la Suisse et du Portugal à l'Association Européenne de Libre-Échange, le Gouvernement suisse, désireux de développer l'importation de produits agricoles portugais, en facilitera l'entrée selon les dispositions ci-dessous:
+
+1. Régime d'importation des vins en bouteilles
+
+L'importation de vins portugais en bouteilles de la position 2205.30 restera libéralisée pendant toute la durée du présent arrangement.
+
+2. Régime d'importation des vins en fûts
+
+Le contingent annuel pour l'importation de vins rouges des positions 2205.10 et 20 sera portée à 100000 hl.
+
+a) Pour tenir compte de la situation du marché des vins indigènes suisses, cette augmentation sera effectuée par tranches annuelles, d'au moins 5000 hl par an;
+
+b) La moitié de l'augmentation annuelle sera réservée aux vins de «grands crus classés» et aux «vins de qualité».
+
+3. Régime fiscal privilégié pour le Porto et le Madère
+
+Le traitement privilégié par la Convention de commerce entre la Suisse et le Portugal du 20 décembre 1905 (ver nota 1) et l'échange de lettres du 10 mai 1958 pour l'importation de Porto et de Madère, restera maintenu pendant toute la durée du présent arrangement pour autant que les taxes intérieures frappant les produits indigènes de nature similaire ne seront pas relevées.
+
+4. Réduction tarifaire automatique pour certains produits agricoles et de la pêche
+
+Le régime de réduction tarifaire automatique selon l'article 3 de la Convention instituant l'Association Européenne de Libre-Échange sera appliqué aux taux de droit de douane des produits agricoles et de la pêche des positions tarifaires suivants:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/03400/01270128.pdf)
+
+(nota 1) RS 14, 590.
+
+Au moment de l'entrée en vigueur du présent Protocole, la réduction sera donc de 40 pour cent.
+
+5. Entrée en vigueur et durée de validité
+
+Le présent protocole entrera en vigueur le 1er avril 1962. Il restera valable aussi longtemps que les échanges commerciaux entre la Suisse et le Portugal seront régis par les dispositions de la Convention instituant l'Association Européenne de Libre-Échange, conclue le 4 janvier 1960.
+
+Fait à Berne, en double exemplaire, en langue française, le 22 février 1962.
+
+Pour le Gouvernement suisse:
+
+E. Stopper.
+
+Pour le Gouvernement portugais:
+
+R. T. Guerra.
+
+Protocolo relativo à importação de produtos agrícolas portugueses na Suíça, concluído em Berna em 22 de Fevereiro de 1962. Data da entrada em vigor: 1 de Abril de 1962.
+
+Tendo presente a participação da Suíça e de Portugal na Associação Europeia de Comércio Livre, o Governo Suíço, desejoso de desenvolver a importação de produtos agrícolas portugueses, facilitará a sua entrada de harmonia com as disposições abaixo indicadas:
+
+1. Regime de importação de vinhos engarrafados
+
+A importação de vinhos portugueses engarrafados da posição 2205.30 permanecerá liberalizada enquanto durar o presente acordo.
+
+2. Regime de importação de vinhos em casco
+
+O contingente anual para a importação de vinhos tintos das posições 2205.10 e 20 será elevado a 100000 hl.
+
+a) Para tomar em consideração a situação do mercado de vinhos de produção nacional suíça, o referido aumento será efectuado por escalões anuais de 5000 hl, pelo menos.
+
+b) Metade do aumento anual será reservado aos vinhos de «grands crus classés» e aos «vins de qualité».
+
+3. Regime fiscal privilegiado para o Porto e Madeira
+
+O tratamento privilegiado, estabelecido pela Convenção de Comércio entre a Suíça e Portugal, de 20 de Dezembro de 1905 (ver nota 1), e pela troca de notas de 10 de Maio de 1958, para importação do Porto e de Madeira, manter-se-á enquanto durar o presente acordo, contanto que as taxas internas que incidem sobre os produtos de produção nacional suíça de natureza similar não sejam aumentadas.
+
+4. Redução pautal automática para certos produtos agrícolas e da pesca
+
+O regime de redução pautal automática, estabelecido pelo artigo 3 da Convenção, que criou a Associação Europeia de Comércio Livre, será aplicado às pautas aduaneiras dos produtos agrícolas e da pesca das seguintes posições pautais:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/02/03400/01270128.pdf)
+
+(nota 1) RS 14, 590.
+
+No momento da entrada em vigor do presente Protocolo, a redução será, pois, de 40 por cento.
+
+5. Entrada em vigor e prazo de validade
+
+O presente Protocolo entrou em vigor em 1 de Abril de 1962. Permanecerá válido enquanto as transacções comerciais entre a Suíça e Portugal forem regidas pelas disposições da Convenção que criou a Associação Europeia de Comércio Livre, celebrada em 4 de Janeiro de 1960.
+
+Feito em Berna, em duplicado, em francês, aos 22 de Fevereiro de 1962.
+
+Pelo Governo Suíço:
+
+E. Stopper.
+
+Pelo Governo Português:
+
+R. T. Guerra.

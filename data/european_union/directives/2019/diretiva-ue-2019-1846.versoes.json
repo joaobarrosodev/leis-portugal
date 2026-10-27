@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32019L1846:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L1846-20191105",
+ "dre_path": null,
+ "source_lastmod": "2019-11-05",
+ "versions": [
+  {
+   "date": "2019-11-05",
+   "future": false,
+   "celex": "02019L1846-20191105",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "78492dc4ced89e6a",
+    "1f4b20144909faf0",
+    "2e955c4b214c4a23",
+    "9109a091b79074a2",
+    "2f5f74d06075f822",
+    "78b8cfe70afacb81"
+   ]
+  }
+ ],
+ "fragments": {
+  "78492dc4ced89e6a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de agosto de 2019\n\nque altera, para efeitos de adaptação ao progresso científico e técnico, o anexo III da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho no respeitante a uma isenção aplicável ao chumbo em soldas utilizadas em determinados motores de combustão\n\n**(Texto relevante para efeitos do EEE)**"
+  },
+  "1f4b20144909faf0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo III da Diretiva 2011/65/UE é alterado em conformidade com o anexo da presente diretiva."
+  },
+  "2e955c4b214c4a23": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem adotar e publicar, até 30 de abril de 2020, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.\n\nOs Estados-Membros devem aplicar as referidas disposições a partir de 1 de maio de 2020.\n\nAs disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros estabelecem o modo como deve ser feita a referência.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "9109a091b79074a2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "2f5f74d06075f822": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs destinatários da presente diretiva são os Estados-Membros."
+  },
+  "78b8cfe70afacb81": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nNo anexo III da Diretiva 2011/65/UE, é aditado o seguinte ponto 44:\n\n| «44 | Chumbo em soldas de sensores, atuadores e unidades de controlo de motores de combustão abrangidos pelo âmbito de aplicação do Regulamento (UE) 2016/1628 do Parlamento Europeu e do Conselho [(^*1^)](http://publications.europa.eu/resource/cellar/23de027b-4e9f-11ea-aece-01aa75ed71a1.0013.03/DOC_1#E0001), instalados em equipamentos utilizados em posições fixas durante o funcionamento, destinados a profissionais, mas também utilizados por utilizadores não profissionais | Aplica-se à categoria 11 e caduca em 21 de julho de 2024 |\n| --- | --- | --- |\n| (^*1^)Regulamento (UE) 2016/1628 do Parlamento Europeu e do Conselho, de 14 de setembro de 2016, relativo aos requisitos respeitantes aos limites de emissão de gases e partículas poluentes e à homologação de motores de combustão interna para máquinas móveis não rodoviárias, que altera os Regulamentos (UE) n.º 1024/2012 e (UE) n.º 167/2013 e que altera e revoga a Diretiva 97/68/CE (JO L 252 de 16.9.2016, p. 53).» |  |  |"
+  }
+ }
+}

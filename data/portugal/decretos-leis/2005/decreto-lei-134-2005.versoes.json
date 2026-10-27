@@ -1,0 +1,346 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:243692:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-75104235",
+ "dre_path": "/dr/detalhe/decreto-lei/134-2005-243692",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-08-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75104166",
+    "75104167",
+    "75104168",
+    "75104169",
+    "75104170",
+    "75104171",
+    "75104172",
+    "75104173",
+    "75104174",
+    "75104275",
+    "75104276",
+    "75104277",
+    "75104278",
+    "75104279",
+    "75104280"
+   ]
+  },
+  {
+   "date": "2007-06-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:639284:por",
+     "title": "Decreto-Lei n.º 238/2007",
+     "published": "2007-06-19",
+     "dre_path": "/dr/detalhe/decreto-lei/238-2007-639284"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "75104166",
+    "867157596",
+    "75104168",
+    "75104169",
+    "867157597",
+    "75104171",
+    "75104172",
+    "75104173",
+    "75104174",
+    "75104275",
+    "75104276",
+    "75104277",
+    "75104278",
+    "75104279",
+    "75104280",
+    "75104281"
+   ]
+  },
+  {
+   "date": "2014-08-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56346571:por",
+     "title": "Lei n.º 51/2014",
+     "published": "2014-08-25",
+     "dre_path": "/dr/detalhe/lei/51-2014-56346571"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "75104166",
+    "867157596",
+    "75104168",
+    "75104169",
+    "867157597",
+    "75104171",
+    "867157606",
+    "867157607",
+    "867157608",
+    "867157609",
+    "867157610",
+    "867157611",
+    "867157612",
+    "867157613",
+    "867157614",
+    "867157615",
+    "867157616"
+   ]
+  }
+ ],
+ "fragments": {
+  "75104166": {
+   "fragment_id": "75104236",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 134/2005\n\nde 16 de Agosto\n\nO Governo considera que alguns medicamentos para uso humano, concretamente os que não necessitam de receita médica, vulgarmente designados por MNSRM, podem ser comercializados fora das farmácias, dados os benefícios proporcionados aos consumidores por esse alargamento, quer em termos de acessibilidade facultada pelo aumento do número de pontos de venda quer em termos de preço.\n\nActualmente os MNSRM têm um regime de fixação de preço de venda ao armazenista (PVA) livre, estando apenas regulamentadas as margens máximas de comercialização, sendo o seu nível de preços superior ao de outros países europeus.\n\nPretende-se, com a presente medida, induzir a redução dos preços dos MNSRM, liberalizando a sua fixação e promovendo uma concorrência efectiva entre os vários canais de distribuição e comercialização, bem como o alargamento do mercado de emprego para os jovens farmacêuticos e técnicos de farmácia, criando novas oportunidades de trabalho.\n\nAcresce que a venda de tais medicamentos deve continuar a ser efectuada por pessoal qualificado, isto é, por farmacêuticos ou técnicos de farmácia ou sob a sua responsabilidade, o que implica a necessidade de alterar os preceitos legais do regime da actividade farmacêutica e do estatuto profissional dos farmacêuticos, diplomas que actualmente reservam justamente para os farmacêuticos o fornecimento de medicamentos ao público e que só admitem o exercício dessa actividade profissional nas farmácias.\n\nContudo, devem ser respeitadas as regras e procedimentos em vigor que suportam o sistema de regulação dos medicamentos de forma a garantir a qualidade e a segurança da sua utilização. Para tanto, os medicamentos passíveis de comercialização fora das farmácias devem continuar, desde a sua entrada no mercado, a reger-se pela legislação atinente e os novos locais de venda devem ser objecto de registo prévio junto do Instituto Nacional da Farmácia e do Medicamento, adiante abreviadamente designado por INFARMED, ficando sujeitos à respectiva fiscalização.\n\nPor último, saliente-se que esta medida acompanha a tendência internacional de alargar os pontos de venda deste tipo de medicamentos, tendo já sido adoptada em 11 países europeus.\n\nForam ouvidos a Ordem dos Médicos, a Ordem dos Farmacêuticos, a Ordem dos Médicos Dentistas, a Ordem dos Enfermeiros, a Associação Nacional das Farmácias, a Associação Portuguesa da Indústria Farmacêutica, a Associação de Farmácias de Portugal, a Associação Portuguesa de Empresas de Distribuição, as associações de grossistas, importadores e armazenistas de produtos químicos e farmacêuticos, a Federação de Cooperativas de Distribuição, a Associação de Consumidores de Portugal, o Instituto do Consumidor, a Autoridade da Concorrência e os sindicatos do sector.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 38/2005, de 21 de Junho, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 238/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2007-639284) Os medicamentos reclassificados, que sejam colocados nos distribuidores por grosso até cinco dias após a comunicação do INFARMED ao titular da AIM da autorização das respectivas alterações, são escoados normalmente sem necessidade da alteração do acondicionamento secundário e do folheto informativo."
+  },
+  "75104167": {
+   "fragment_id": "75104237",
+   "type": 11,
+   "heading": "Artigo 1.º — Venda de medicamentos fora das farmácias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Venda de medicamentos fora das farmácias\n\n1 - Os medicamentos não sujeitos a receita médica para uso humano, adiante designados por MNSRM, podem ser vendidos ao público fora das farmácias em locais que cumpram os requisitos legais e regulamentares.\n\n2 - Exceptuam-se do disposto no número anterior os MNSRM que beneficiam de comparticipação do Estado no seu preço, os quais continuam a ser vendidos exclusivamente nas farmácias.\n\n3 - São MNSRM e medicamentos comparticipados os que como tal estejam legalmente qualificados.\n\n4 - Os MNSRM fornecidos fora das farmácias estão sujeitos ao mesmo regime de garantia e fiscalização de qualidade e segurança dos medicamentos que são fornecidos em farmácia."
+  },
+  "75104168": {
+   "fragment_id": "75104238",
+   "type": 11,
+   "heading": "Artigo 2.º — Supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Supervisão\n\n1 - A venda de medicamentos fora das farmácias só pode ser feita por farmacêutico ou por técnico de farmácia ou sob a sua supervisão.\n\n2 - No exercício da supervisão a que se refere o número anterior, o farmacêutico ou o técnico de farmácia asseguram o cumprimento adequado das regras aplicáveis à venda de MNSRM fora das farmácias, pelo qual são responsáveis.\n\n3 - A mesma pessoa pode ser responsável por mais de um local de venda mas não pode acumular esta actividade com as funções de director técnico de uma farmácia, de uma empresa ou armazém de distribuição grossista ou de uma empresa de fabrico de medicamentos."
+  },
+  "75104169": {
+   "fragment_id": "75104239",
+   "type": 11,
+   "heading": "Artigo 3.º — Venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Venda\n\n1 - A venda de MNSRM fora das farmácias não dispensa o cumprimento das obrigações legais relativas ao Sistema Nacional da Farmacovigilância e ao princípio do uso racional do medicamento.\n\n2 - É proibida a venda de MNSRM fora das farmácias a menores de 16 anos."
+  },
+  "75104170": {
+   "fragment_id": "75104240",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de preços\n\nOs medicamentos cuja comercialização pode ser efectuada fora de farmácias passam a ter um regime de preços livre, salvaguardadas as regras da concorrência."
+  },
+  "75104171": {
+   "fragment_id": "75104241",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo\n\nOs locais destinados à venda de MNSRM estão sujeitos a registo prévio no INFARMED e ao cumprimento dos requisitos estabelecidos no presente diploma e na respectiva regulamentação."
+  },
+  "75104172": {
+   "fragment_id": "75104242",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\n1 - Os locais de venda de MNSRM ficam sujeitos à fiscalização das entidades competentes, designadamente o INFARMED, nos mesmos termos que as farmácias no que respeita ao cumprimento do disposto no presente diploma, nos respectivos regulamentos e demais legislação aplicável.\n\n2 - O INFARMED pode proceder à apreensão de medicamentos e ao encerramento dos locais de venda nos mesmos termos que os previstos na lei em relação às farmácias, com as devidas adaptações, designadamente em caso de:\n\na) Falta dos requisitos de funcionamento;\n\nb) Posse de medicamentos insusceptíveis de venda fora das farmácias;\n\nc) Posse de medicamentos cujo prazo de validade tenha caducado ou em mau estado de conservação;\n\nd) Deficientes condições de higiene e de acondicionamento dos medicamentos;\n\ne) Incumprimento do regime jurídico dos medicamentos para uso humano, designadamente o disposto nos Decretos-Leis n.os 72/91, de 8 de Fevereiro, e 242/2002, de 5 de Novembro.\n\n3 - Os proprietários, administradores, directores e representantes dos locais de venda previstos no presente diploma estão sujeitos aos mesmos deveres e obrigações dos proprietários, administradores, directores e representantes das farmácias relativamente a matéria de fiscalização da actividade de venda de medicamentos, designadamente aos deveres de facultar às entidades fiscalizadoras competentes a entrada nos estabelecimentos e locais de venda, de apresentar toda a documentação, elementos contabilísticos, registos, arquivos e demais elementos que lhe sejam exigidos e de prestar todas as informações e elementos solicitados."
+  },
+  "75104173": {
+   "fragment_id": "75104243",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - São contra-ordenações graves, puníveis com coima de (euro) 1000 a (euro) 3740, ou até (euro) 44000, consoante o agente seja pessoa singular ou colectiva, as seguintes infracções:\n\na) A venda de medicamentos em locais de venda não registados;\n\nb) O funcionamento dos locais de venda de MNSRM sem farmacêutico ou técnico de farmácia responsável;\n\nc) A venda de medicamentos cujo fornecimento ao público esteja reservado às farmácias;\n\nd) A venda de medicamento cujo prazo de validade tenha caducado.\n\n2 - A violação do disposto no artigo 2.º bem como as situações previstas nas alíneas a) a e) do n.º 2 do artigo 6.º são punidas com coima de (euro) 1000 a (euro) 3740 ou até (euro) 44000 conforme se trate de pessoa singular ou colectiva, respectivamente, salvo se sanção mais grave couber ao caso.\n\n3 - No caso das infracções previstas nos números anteriores ou em caso de reincidência, pode ser aplicada também a suspensão de actividade de comercialização de medicamentos pelo período de um a seis meses quando a gravidade da infracção ou da reincidência o justifique.\n\n4 - No caso das infracções previstas no n.º 1, pode ainda ser aplicada a sanção acessória da perda dos medicamentos.\n\n5 - O regime de contra-ordenações e coimas, incluindo a competência para a sua aplicação e o destino das coimas, é o mesmo que o das farmácias na parte aplicável.\n\n6 - O disposto no presente artigo não prejudica a responsabilidade disciplinar pelas infracções ao estatuto profissional e deveres deontológicos dos farmacêuticos e dos técnicos de farmácia, nos termos das leis e regulamentos aplicáveis."
+  },
+  "75104174": {
+   "fragment_id": "75104244",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regulamentação\n\n1 - O presente diploma é regulamentado mediante portaria conjunta dos Ministros da Economia e da Inovação e da Saúde.\n\n2 - A referida portaria especifica, designadamente:\n\na) Os requisitos dos locais de venda de MNSRM;\n\nb) O registo prévio no INFARMED dos locais de venda, seus titulares e responsável técnico;\n\nc) As condições de venda dos medicamentos;\n\nd) As taxas a suportar pelos agentes económicos como contrapartida dos custos dos actos previstos neste diploma e respectiva regulamentação, que constituem receita própria do INFARMED;\n\ne) As regras de escoamento das embalagens de medicamentos existentes no mercado."
+  },
+  "75104275": {
+   "fragment_id": "75104245",
+   "type": 11,
+   "heading": "Artigo 9.º — Âmbito territorial de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Âmbito territorial de aplicação\n\nO presente diploma aplica-se a todo o território nacional, sem prejuízo da sua regulamentação específica nas Regiões Autónomas dos Açores e da Madeira."
+  },
+  "75104276": {
+   "fragment_id": "75104246",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Decreto-Lei n.º 288/2001, de 10 de Novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração ao Decreto-Lei n.º 288/2001, de 10 de Novembro\n\nÉ alterado o artigo 77.º do Estatuto da Ordem dos Farmacêuticos, aprovado pelo Decreto-Lei n.º 288/2001, de 10 de Novembro, o qual passa a ter a seguinte redacção:\n\n«Artigo 77.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Preparação, controlo, selecção, aquisição, armazenamento e dispensa de medicamentos de uso humano e veterinário e de dispositivos médicos em farmácias abertas ao público, serviços farmacêuticos hospitalares e serviços farmacêuticos privativos de quaisquer outras entidades públicas e privadas, sem prejuízo do regime de distribuição ao público de medicamentos não sujeitos a receita médica fora das farmácias, nos termos da legislação respectiva;\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nk) ...\n\nl) ...\n\nm) ...»"
+  },
+  "75104277": {
+   "fragment_id": "75104247",
+   "type": 11,
+   "heading": "Artigo 11.º — Alteração ao Decreto-Lei n.º 209/94, de 6 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração ao Decreto-Lei n.º 209/94, de 6 de Agosto\n\nÉ alterado o artigo 9.º do Decreto-Lei n.º 209/94, de 6 de Agosto, o qual passa a ter a seguinte redacção:\n\n«Artigo 9.º\n\n[...]\n\n1 - ...\n\n2 - Os medicamentos não sujeitos a receita médica quando comparticipados ficam sujeitos ao regime de preços estabelecido para os medicamentos sujeitos a receita médica.»"
+  },
+  "75104278": {
+   "fragment_id": "75104248",
+   "type": 11,
+   "heading": "Artigo 12.º — Alteração ao Decreto-Lei n.º 135/95, de 9 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração ao Decreto-Lei n.º 135/95, de 9 de Junho\n\nÉ alterado o artigo 12.º do Decreto-Lei n.º 135/95, de 9 de Junho, o qual passa a ter a seguinte redacção:\n\n«Artigo 12.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Distribuir os medicamentos exclusivamente a farmácias, a locais de venda devidamente registados no Instituto Nacional da Farmácia e do Medicamento ou a outros estabelecimentos de distribuição por grosso de medicamentos de uso humano;\n\nf) ...\n\ng) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...»"
+  },
+  "75104279": {
+   "fragment_id": "75104249",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogada a legislação sobre a comercialização de medicamentos, designadamente o Decreto-Lei n.º 48547, de 27 de Agosto de 1968, na parte incompatível com o regime estabelecido no presente diploma, e a Portaria n.º 713/2000, de 5 de Dezembro."
+  },
+  "75104280": {
+   "fragment_id": "75104250",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "867157596": {
+   "fragment_id": "75104237",
+   "type": 11,
+   "heading": "Artigo 1.º — Venda de medicamentos fora das farmácias",
+   "in_force_from": "2007-06-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 238/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2007-639284), em vigor a partir de 2007-06-24"
+   ],
+   "markdown": "###### Artigo 1.º — Venda de medicamentos fora das farmácias\n\n1 - Os medicamentos não sujeitos a receita médica para uso humano, adiante designados por MNSRM, podem ser vendidos ao público fora das farmácias em locais que cumpram os requisitos legais e regulamentares.\n\n2 - Os MNSRM cujo preço é comparticipado pelo Estado podem ser vendidos nos termos do número anterior, não havendo, neste caso, lugar àquela comparticipação.\n\n3 - São MNSRM e medicamentos comparticipados os que como tal estejam legalmente qualificados.\n\n4 - Os MNSRM fornecidos fora das farmácias estão sujeitos ao mesmo regime de garantia e fiscalização de qualidade e segurança dos medicamentos que são fornecidos em farmácia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 238/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2007-639284), em vigor a partir de 2007-06-24"
+  },
+  "867157597": {
+   "fragment_id": "75104240",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime de preços",
+   "in_force_from": "2007-06-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 238/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2007-639284), em vigor a partir de 2007-06-24"
+   ],
+   "markdown": "###### Artigo 4.º — Regime de preços\n\n1 - Os medicamentos cuja comercialização pode ser efectuada fora de farmácias passam a ter um regime de preços livre, salvaguardadas as regras da concorrência.\n\n2 - Exceptuam-se do disposto no número anterior os medicamentos a que se refere o n.º 2 do artigo 1.º, aos quais é aplicado o regime de preços máximos previsto no Decreto-Lei n.º 65/2007, de 14 de Março, independentemente do local de venda ao público.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 238/2007 - Diário da República n.º 116/2007, Série I de 2007-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2007-639284), em vigor a partir de 2007-06-24"
+  },
+  "75104281": {
+   "fragment_id": "75104251",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Francisco Ventura Ramos.\n\nPromulgado em 2 de Agosto de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Agosto de 2005.\n\nPelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna."
+  },
+  "867157606": {
+   "fragment_id": "75104242",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": "2014-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 51/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), em vigor a partir de 2014-08-26"
+   ],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\n1 - Os locais de venda de MNSRM ficam sujeitos à fiscalização das entidades competentes, designadamente o INFARMED, nos mesmos termos que as farmácias no que respeita ao cumprimento do disposto no presente diploma, nos respectivos regulamentos e demais legislação aplicável.\n\n2 - Sem prejuízo das demais sanções previstas no artigo 7.º, quando a gravidade da infração o justifique ou esteja em causa a proteção da saúde pública, o INFARMED pode proceder à apreensão de medicamentos e ao encerramento, preventivo ou definitivo, do local de venda de MNSRM, designadamente em caso de:\n\na) Falta de registo prévio do local de venda de MNSRM, do seu titular ou do responsável técnico, bem como a não permanente atualização de qualquer desses registos;\n\nb) Falta de qualquer dos seguintes requisitos de funcionamento do local de venda de MNSRM:\n\ni) Instalações com áreas destinadas à venda ao público e à armazenagem, sendo que esta deve dispor de condições, designadamente de temperatura e humidade, que garantam a qualidade e a estabilidade dos MNSRM, de dimensões que permitam o adequado manuseamento e acondicionamento dos MNSRM e de acesso restrito;\n\nii) Condições de transporte entre as áreas de armazenagem e de venda, ou entre o local de venda e o domicílio do utente, que não coloquem em causa a qualidade e a estabilidade dos MNSRM;\n\niii) Responsável técnico, bem como de pessoal com formação adequada às funções, os quais, em qualquer caso, devem estar devidamente registados no INFARMED;\n\niv) Placa indicativa e identificadora do local de venda e do número de registo no INFARMED, bem como de placa com o nome e habilitação profissional do responsável técnico;\n\nv) Condições de limpeza e higiene do estabelecimento.\n\nc) Posse de medicamentos insuscetíveis de venda fora das farmácias;\n\nd) Posse de medicamentos cujo prazo de validade tenha caducado ou que estejam em mau estado de conservação;\n\ne) Deficientes condições de higiene e de acondicionamento dos medicamentos;\n\nf) Incumprimento do regime jurídico dos medicamentos para uso humano, designadamente o disposto no Decreto-Lei n.º 176/2006, de 30 de agosto;\n\ng) Aquisição, a qualquer título, de medicamentos junto de estabelecimentos ou entidades que não se encontrem devidamente licenciados ou autorizados para a atividade de fabrico, importação ou distribuição por grosso de medicamentos;\n\nh) Posse, a qualquer título, de medicamentos obtidos junto de estabelecimentos ou entidades que não se encontrem devidamente licenciados ou autorizados para a atividade de fabrico, importação ou distribuição por grosso de medicamentos.\n\n3 - Os proprietários, administradores, directores e representantes dos locais de venda previstos no presente diploma estão sujeitos aos mesmos deveres e obrigações dos proprietários, administradores, directores e representantes das farmácias relativamente a matéria de fiscalização da actividade de venda de medicamentos, designadamente aos deveres de facultar às entidades fiscalizadoras competentes a entrada nos estabelecimentos e locais de venda, de apresentar toda a documentação, elementos contabilísticos, registos, arquivos e demais elementos que lhe sejam exigidos e de prestar todas as informações e elementos solicitados.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 51/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), em vigor a partir de 2014-08-26"
+  },
+  "867157607": {
+   "fragment_id": "75104243",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": "2014-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 51/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), em vigor a partir de 2014-08-26"
+   ],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - É punível com coima entre (euro) 2 000 e 30 % do volume de negócios do responsável ou (euro) 100 000, consoante o que for inferior, a pessoa singular ou coletiva que se dedique ao exercício da atividade de venda de MNSRM, seja a título de proprietária do estabelecimento onde se insere o local de venda, seja a título de cessão de exploração do mesmo ou a qualquer outro, quando se verifique:\n\na) A falta de registo prévio do local de venda de MNSRM, do seu titular ou do responsável técnico, bem como a não permanente atualização de qualquer desses registos;\n\nb) A falta de qualquer dos seguintes requisitos de funcionamento do local de venda de MNSRM:\n\ni) Instalações com áreas destinadas à venda ao público e à armazenagem nas condições estabelecidas em qualquer das subalíneas da alínea b) do n.º 2 do artigo anterior;\n\nii) Condições de transporte entre as áreas de armazenagem e de venda, ou entre o local de venda e o domicílio do utente, que não coloquem em causa a qualidade e a estabilidade dos MNSRM;\n\niii) Responsável técnico e pessoal com formação adequada às funções, bem como o respetivo registo no INFARMED;\n\niv) Placa indicativa e identificadora do local de venda e do número de registo no INFARMED, bem como placa com o nome e habilitação profissional do responsável técnico;\n\nv) Condições de limpeza e higiene do estabelecimento.\n\nc) A venda de medicamento cujo fornecimento ao público esteja reservado às farmácias;\n\nd) A venda de medicamento cujo prazo de validade tenha caducado ou esteja em mau estado de conservação;\n\ne) As deficientes condições de higiene ou de acondicionamento dos medicamentos;\n\nf) A aquisição, a qualquer título, de medicamentos junto de estabelecimentos ou entidades que não se encontrem devidamente licenciados ou autorizados para a atividade de fabrico, importação ou distribuição por grosso de medicamentos;\n\ng) O incumprimento dos deveres de colaboração previstos no n.º 3 do artigo anterior.\n\n2 - É punível com coima entre (euro) 2 000 e 10 % do volume de negócios do responsável ou (euro) 75 000, consoante o que for inferior, a pessoa singular ou coletiva que se dedique ao exercício da atividade de venda de MNSRM, seja a título de proprietária do estabelecimento onde se insere o local de venda, seja a título de cessão de exploração do mesmo ou a qualquer outro, quando se verifique:\n\na) A posse de medicamentos cujo prazo de validade tenha caducado ou que estejam em mau estado de conservação;\n\nb) A posse de medicamentos insuscetíveis de venda fora das farmácias;\n\nc) A posse de medicamentos obtidos junto de estabelecimentos ou entidades que não se encontrem devidamente licenciados ou autorizados para a atividade de fabrico, importação ou distribuição por grosso de medicamentos;\n\nd) O incumprimento do regime jurídico dos medicamentos para uso humano, designadamente o disposto no Decreto-Lei n.º 176/2006, de 30 de agosto;\n\ne) A adoção de práticas violadoras do princípio do uso racional do medicamento;\n\nf) A falta de meios de transmissão eletrónica de dados que permitam a receção expedita de alertas de segurança e de qualidade enviados pelo INFARMED;\n\ng) Dispor de um responsável técnico que acumule a responsabilidade por mais de cinco locais de venda de MNSRM ou, mesmo que esse limite não se mostre ultrapassado, que acumule a responsabilidade de pelo menos dois locais de venda de MNSRM afastados mais de 50 quilómetros entre si;\n\nh) Não comunicar ao INFARMED, nos termos e com a periodicidade a definir por este, as quantidades de MNSRM vendidos.\n\n3 - É punível com coima, entre (euro) 2 000 e 5 % do volume de negócios do responsável ou (euro) 40 000, consoante o que for inferior, a pessoa singular ou coletiva que se dedique ao exercício da atividade de venda de MNSRM, seja a título de proprietária do estabelecimento onde se insere o local de venda, seja a título de cessão de exploração do mesmo ou a qualquer outro, quando se verifique:\n\na) A não disponibilização no local de venda de MNSRM, para efeitos de fiscalização, dos documentos comprovativos dos factos constantes do registo inicial ou das suas alterações;\n\nb) Que o pessoal que contacta com o público não se encontra devidamente identificado;\n\nc) A existência de MNSRM acessíveis ao público ou a sua entrega sem intermediação por pessoal especificamente afeto à atividade de venda de MNSRM.\n\n4 - A negligência e a tentativa são puníveis em todos os casos previstos nos números anteriores.\n\n5 - No caso de infração prevista nos n.os 1 a 3 ou em caso de reincidência, pode ser aplicada também a suspensão de atividade de comercialização de medicamentos pelo período de um a seis meses quando a gravidade da infração ou da reincidência o justifique.\n\n6 - No caso de infração prevista nos n.os 1 a 3, pode ainda ser aplicada a sanção acessória da perda dos medicamentos.\n\n7 - O regime de contraordenações e coimas, incluindo a competência para a sua aplicação e o destino das coimas, é o mesmo que o das farmácias de oficina na parte aplicável não especificamente prejudicada pelo que se dispõe no presente decreto-lei.\n\n8 - O disposto no presente artigo não prejudica a responsabilidade disciplinar pelas infracções ao estatuto profissional e deveres deontológicos dos farmacêuticos e dos técnicos de farmácia, nos termos das leis e regulamentos aplicáveis.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 51/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), em vigor a partir de 2014-08-26"
+  },
+  "867157608": {
+   "fragment_id": "865926871",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Volume de negócios",
+   "in_force_from": "2014-08-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Lei n.º 51/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), em vigor a partir de 2014-08-26"
+   ],
+   "markdown": "###### Artigo 7.º-A — Volume de negócios\n\n1 - Para efeitos do disposto nos n.os 1 a 3 do artigo anterior, considera-se volume de negócios a soma dos valores de vendas e de prestações de serviços efetuadas pelo agente no exercício anterior ao da prática da contraordenação, declarados para efeitos de imposto sobre o rendimento das pessoas singulares ou de imposto sobre o rendimento das pessoas coletivas, consoante se trate de pessoa singular ou coletiva.\n\n2 - No caso de pessoa coletiva isenta de imposto sobre o rendimento das pessoas coletivas, considera-se volume de negócios a soma dos valores de vendas e de prestações de serviços efetuadas pelo agente no exercício anterior ao da prática da contraordenação, refletido nas respetivas contas.\n\n3 - Sem prejuízo do disposto no número anterior, caso, até ao termo do prazo para o exercício do direito de audição e defesa, ainda não exista a declaração para efeitos de um dos impostos previstos no n.º 1, é considerado o volume de negócios do segundo exercício anterior ao da prática da contraordenação.\n\n4 - Caso o volume de negócios a considerar nos termos dos números anteriores respeite a um período inferior ao do ano económico do infrator ou a infração seja praticada no primeiro exercício de atividade, são apenas considerados os limites máximos e mínimos da coima, previstos nos n.os 1 a 3 do artigo anterior.\n\n> Aditado pelo/a Artigo 5.º do/a [Lei n.º 51/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), em vigor a partir de 2014-08-26"
+  },
+  "867157609": {
+   "fragment_id": "75104244",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regulamentação\n\n1 - O presente diploma é regulamentado mediante portaria conjunta dos Ministros da Economia e da Inovação e da Saúde.\n\n2 - A referida portaria especifica, designadamente:\n\na) Os requisitos dos locais de venda de MNSRM;\n\nb) O registo prévio no INFARMED dos locais de venda, seus titulares e responsável técnico;\n\nc) As condições de venda dos medicamentos;\n\nd) As taxas a suportar pelos agentes económicos como contrapartida dos custos dos actos previstos neste diploma e respectiva regulamentação, que constituem receita própria do INFARMED;\n\ne) As regras de escoamento das embalagens de medicamentos existentes no mercado."
+  },
+  "867157610": {
+   "fragment_id": "75104245",
+   "type": 11,
+   "heading": "Artigo 9.º — Âmbito territorial de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Âmbito territorial de aplicação\n\nO presente diploma aplica-se a todo o território nacional, sem prejuízo da sua regulamentação específica nas Regiões Autónomas dos Açores e da Madeira."
+  },
+  "867157611": {
+   "fragment_id": "75104246",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Decreto-Lei n.º 288/2001, de 10 de Novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração ao Decreto-Lei n.º 288/2001, de 10 de Novembro\n\nÉ alterado o artigo 77.º do Estatuto da Ordem dos Farmacêuticos, aprovado pelo Decreto-Lei n.º 288/2001, de 10 de Novembro, o qual passa a ter a seguinte redacção:\n\n«Artigo 77.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Preparação, controlo, selecção, aquisição, armazenamento e dispensa de medicamentos de uso humano e veterinário e de dispositivos médicos em farmácias abertas ao público, serviços farmacêuticos hospitalares e serviços farmacêuticos privativos de quaisquer outras entidades públicas e privadas, sem prejuízo do regime de distribuição ao público de medicamentos não sujeitos a receita médica fora das farmácias, nos termos da legislação respectiva;\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nk) ...\n\nl) ...\n\nm) ...»"
+  },
+  "867157612": {
+   "fragment_id": "75104247",
+   "type": 11,
+   "heading": "Artigo 11.º — Alteração ao Decreto-Lei n.º 209/94, de 6 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração ao Decreto-Lei n.º 209/94, de 6 de Agosto\n\nÉ alterado o artigo 9.º do Decreto-Lei n.º 209/94, de 6 de Agosto, o qual passa a ter a seguinte redacção:\n\n«Artigo 9.º\n\n[...]\n\n1 - ...\n\n2 - Os medicamentos não sujeitos a receita médica quando comparticipados ficam sujeitos ao regime de preços estabelecido para os medicamentos sujeitos a receita médica.»"
+  },
+  "867157613": {
+   "fragment_id": "75104248",
+   "type": 11,
+   "heading": "Artigo 12.º — Alteração ao Decreto-Lei n.º 135/95, de 9 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração ao Decreto-Lei n.º 135/95, de 9 de Junho\n\nÉ alterado o artigo 12.º do Decreto-Lei n.º 135/95, de 9 de Junho, o qual passa a ter a seguinte redacção:\n\n«Artigo 12.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Distribuir os medicamentos exclusivamente a farmácias, a locais de venda devidamente registados no Instituto Nacional da Farmácia e do Medicamento ou a outros estabelecimentos de distribuição por grosso de medicamentos de uso humano;\n\nf) ...\n\ng) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...»"
+  },
+  "867157614": {
+   "fragment_id": "75104249",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogada a legislação sobre a comercialização de medicamentos, designadamente o Decreto-Lei n.º 48547, de 27 de Agosto de 1968, na parte incompatível com o regime estabelecido no presente diploma, e a Portaria n.º 713/2000, de 5 de Dezembro."
+  },
+  "867157615": {
+   "fragment_id": "75104250",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "867157616": {
+   "fragment_id": "75104251",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Francisco Ventura Ramos.\n\nPromulgado em 2 de Agosto de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Agosto de 2005.\n\nPelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna."
+  }
+ }
+}

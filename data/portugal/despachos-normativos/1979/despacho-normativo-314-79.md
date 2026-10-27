@@ -1,0 +1,381 @@
+---
+schema_version: '1.0'
+id: pt:dre:364882:por
+title: Despacho Normativo n.º 314/79
+short_title: null
+summary: Estabelece normas para a integração no novo quadro da Direcção-Geral da Aviação Civil dos funcionários que, a qualquer
+  título, prestavam serviço na Direcção-Geral da Aeronáutica Civil
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Gabinete do Ministro
+proposing_entity: null
+official_number: 314/79
+official_date: null
+publication_date: '1979-10-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 235/1979, Série I de 1979-10-11
+  number: '235'
+  series: I
+  supplement: null
+  pages: 2620 - 2622
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/10/23500/26202622.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '364882'
+  dre_path: /dr/detalhe/despacho-normativo/314-1979-364882
+  internal: pt:dre:364882:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/314-1979-364882
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/314-1979-364882
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:55:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 70e7d8030fc56c0ba0750470c4a5f6c1684fbe5db1834e9a2869bab180ee0633
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:55:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral da Aeronáutica Civil
+- Direcção Geral da Aviação Civil
+- Formas de Provimento
+- Integração de Trabalhadores
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:381286:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:55:15Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 314/79
+
+O [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), de 25 de Julho, que criou a Direcção-Geral da Aviação Civil, estabelece no artigo 49.º os princípios a que deve obedecer o primeiro provimento nos quadros daquela Direcção-Geral.
+
+Torna-se, no entanto, indispensável estabelecer critérios objectivos e complementares daquela disposição legal que permitam integrar no novo quadro os funcionários que, a qualquer título, prestavam serviço na Direcção-Geral da Aeronáutica Civil.
+
+Assim, determina-se o seguinte:
+
+I - Normas gerais
+
+De acordo com os n.os 3 a 6 do artigo 49.º do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), a integração nas diferentes categorias do quadro far-se-á de acordo com:
+
+a) As habilitações legais e o tempo de serviço; ou
+
+b) Por simples equivalência de funções;
+
+nas condições a seguir indicadas:
+
+Carreiras de pessoal técnico superior de aeronáutica
+
+A) Ingressarão na categoria de perito aeronáutico (letra D):
+
+1) Os licenciados com dez anos de antiguidade em funções de idêntico conteúdo e qualificação aeronáutica adequada;
+
+2) Os pilotos aviadores com quinze anos de antiguidade na carreira.
+
+B) Ingressarão na categoria de técnico principal (letra E):
+
+1) Os licenciados com seis anos de antiguidade em funções de idêntico conteúdo e qualificação aeronáutica adequada;
+
+2) Os inspectores de transporte aéreo e do serviço de socorros de aeródromos não titulares de licenciatura;
+
+3) Os pilotos aviadores com onze anos de antiguidade na carreira.
+
+C) Ingressarão na categoria de técnicos de 1.ª classe (letra F):
+
+1) Os licenciados com três anos de antiguidade em funções de idêntico conteúdo e qualificação aeronáutica adequada;
+
+2) Os pilotos aviadores com oito anos de antiguidade na carreira ou menos, mas com categoria remunerada pelas letras F ou H.
+
+D) Ingressarão na categoria de técnico de 2.ª classe (letra H):
+
+Os licenciados com qualificação aeronáutica adequada e sem o tempo mínimo necessário para o acesso a categoria superior.
+
+Outras carreiras de pessoal técnico superior
+
+A) Ingressará na categoria de técnico assessor (letra D):
+
+O pessoal licenciado sem qualificação aeronáutica e com o tempo mínimo necessário para a normal progressão na carreira.
+
+B) Ingressarão na categoria de técnico principal (letra E):
+
+1) Os licenciados com o tempo mínimo necessário para a normal progressão na carreira;
+
+2) Os subdirectores de aeroporto.
+
+C) Ingressarão na categoria de técnico de 1.ª classe (letra F):
+
+1) Os licenciados com o tempo mínimo necessário para a normal progressão na carreira;
+
+2) O pessoal técnico superior não licenciado com mais de seis anos na carreira e sem qualificação aeronáutica.
+
+D) Ingressarão na categoria de técnico de 2.ª classe:
+
+Os licenciados sem qualificação aeronáutica e sem o tempo mínimo necessário para o acesso a categoria superior.
+
+E) Ingressarão na categoria de médico especialista (letra E):
+
+Os médicos com categoria remunerada pelas letras E ou F exercendo funções a tempo inteiro.
+
+Carreiras de pessoal técnico de aeronáutica
+
+A) Ingressarão na categoria de técnico assistente-chefe (letra E):
+
+Os controladores de tráfego aéreo com categoria remunerada pela letra E.
+
+B) Ingressarão na categoria de técnico assistente principal:
+
+a) Letra F:
+
+Os técnicos aeronáuticos com categoria remunerada pela letra I e os operadores de estação aeronáutica com categoria remunerada pela letra G e em exercício de funções de técnico de voo;
+
+b) Letra G:
+
+O pessoal que detenha uma das seguintes categorias:
+
+Técnico de manutenção de material de voo de 1.ª classe;
+
+Técnico de transporte aéreo de 1.ª classe;
+
+Operador de estação aeronáutica com categoria remunerada pela letra G;
+
+Tradutor-correspondente-intérprete com qualificação aeronáutica adequada;
+
+Chefe de secretaria técnica;
+
+Chefe de secção de publicações;
+
+c) Letra H:
+
+Os técnicos de manutenção de voo de 2.ª classe;
+
+d) Letra I:
+
+Os técnicos de transporte aéreo de 2.ª classe.
+
+C) Ingressarão na categoria de técnico assistente graduado:
+
+a) Letra I:
+
+O pessoal que detenha uma das seguintes categorias:
+
+Mecânico de avião de 1.ª classe;
+
+Electricista de avião de 1.ª classe;
+
+Chefe de oficina de planadores;
+
+Técnico verificador de aviões;
+
+b) Letra K:
+
+Os montadores de planadores de 1.ª classe.
+
+D) Ingressarão na categoria de técnico assistente (letra M):
+
+Os ajudantes de mecânico de avião com categoria remunerada pela letra O.
+
+Carreiras de pessoal técnico-profissional e administrativo
+
+A) Ingressarão na categoria de chefe de repartição (letra E):
+
+Os chefes de secção e os chefes de secretaria com os conhecimentos e a experiência necessários para o exercício das funções e com o tempo de serviço mínimo para a normal progressão na carreira.
+
+B) Ingressarão na categoria de chefe de secção (letra I):
+
+Os primeiros-oficiais habilitados com o curso geral dos liceus ou equivalente e com o tempo de serviço mínimo para a normal progressão na carreira.
+
+C) Ingressará na categoria de tesoureiro (letra J):
+
+O primeiro-oficial que desempenhava essas funções na Direcção-Geral da Aeronáutica Civil à data da sua extinção.
+
+D) Ingressarão na categoria de primeiro-oficial (letra L):
+
+Os segundos-oficiais e os segundos-oficiais interinos exercendo funções em serviços administrativos com o curso geral dos liceus ou habilitação equivalente e com o tempo de serviço mínimo para a normal progressão na carreira.
+
+E) Ingressarão na categoria de segundo-oficial (letra N):
+
+1) Os terceiros-oficiais e os terceiros-oficiais interinos exercendo funções em serviços administrativos com o curso geral dos liceus ou habilitação equivalente e com o tempo de serviço mínimo para a normal progressão na carreira;
+
+2) Os segundos-oficiais e os segundos-oficiais interinos exercendo funções em serviços administrativos e sem habilitação correspondente ao curso geral dos liceus;
+
+3) O segundo-oficial em comissão de serviço no Fundo Especial de Transportes Terrestres.
+
+F) Ingressarão na categoria de terceiro-oficial (letra Q):
+
+1) Os terceiros-oficiais e os terceiros-oficiais interinos exercendo funções nos serviços administrativos e sem habilitação correspondente ao curso geral dos liceus;
+
+2) Os escriturários-dactilógrafos com, pelo menos, três anos de serviço na categoria e tendo frequentado com aproveitamento o curso para promoção a terceiro-oficial.
+
+G) Ingressará na categoria de enfermeiro de 1.ª classe:
+
+O enfermeiro de 1.ª classe que desempenhava essas funções na Direcção-Geral da Aeronáutica Civil à data da sua extinção.
+
+H) Ingressarão na categoria de desenhador principal (letra J):
+
+Os desenhadores-chefes com categoria remunerada pela letra L.
+
+I) Ingressarão na categoria de desenhador de 1.ª classe (letra L):
+
+Os desenhadores com categoria remunerada pela letra O.
+
+J) Ingressarão na categoria de tradutor-correspondente-intérprete (letra J):
+
+Os tradutores-correspondentes com o curso geral dos liceus ou habilitação equivalente e com o mínimo de três anos na categoria.
+
+K) Ingressarão na categoria de técnico auxiliar principal (letra J):
+
+1) Os segundos-oficiais técnicos, os segundos-oficiais exercendo funções em serviços técnicos e os técnicos auxiliares de 2.ª classe com o curso geral dos liceus ou habilitação equivalente e com o tempo de serviço mínimo para a normal progressão na carreira;
+
+2) Os planificadores com categoria remunerada pela letra L, os técnicos auxiliares de cardiologia de 1.ª classe e os técnicos auxiliares de medicina aeronáutica de 1.ª classe.
+
+L) Ingressarão na categoria de técnico auxiliar de 1.ª classe (letra L):
+
+1) Os terceiros-oficiais técnicos, os terceiros-oficiais exercendo funções em serviços técnicos e os torneiros-fresadores com o curso geral dos liceus ou habilitação equivalente e com o tempo de serviço mínimo para a normal progressão na carreira;
+
+2) O pessoal que detenha uma das seguintes categorias e não tenha habilitação correspondente ao curso geral dos liceus:
+
+Segundo-oficial técnico;
+
+Segundo-oficial exercendo funções em serviços técnicos;
+
+Ajudante de tesoureiro;
+
+Encarregado de depósito;
+
+Técnico auxiliar de medicina aeronáutica de 2.ª classe.
+
+M) Ingressarão na categoria de técnico auxiliar de 2.ª classe (letra M):
+
+1) Os escriturários-dactilógrafos e os ajudantes de depósito exercendo funções de técnico auxiliar;
+
+2) O pessoal que detenha uma das seguintes categorias e não tenha habilitação correspondente ao curso geral dos liceus:
+
+Terceiro-oficial técnico;
+
+Terceiro-oficial exercendo funções em serviços técnicos;
+
+Arquivista.
+
+N) Ingressarão na categoria de escriturário-dactilógrafo (letra S):
+
+1) O pessoal que, a qualquer título, vem prestando serviço de dactilografia na DGAC;
+
+2) O servente no desempenho das funções de escriturário-dactilógrafo.
+
+Carreiras de pessoal operário e auxiliar
+
+A) Ingressarão na categoria de mecânico de 2.ª classe (letra Q):
+
+1) Os artífices com categoria remunerada pela letra S;
+
+2) Os motoristas considerados aptos para o desempenho da função.
+
+B) Ingressarão na categoria de impressor de offset de 1.ª classe (letra N):
+
+Os auxiliares técnicos e os operadores de laboratório.
+
+C) Ingressarão na categoria de operador de reprografia de 2.ª classe (letra Q):
+
+O servente e o motorista no desempenho dessas funções.
+
+D) Ingressarão na categoria de encarregado de armazém (letra N):
+
+O fiel dos serviços de aeronáutica e o escriturário-dactilógrafo no exercício de funções semelhantes.
+
+E) Ingressará na categoria de encarregado de transportes (letra N):
+
+O motorista com mais tempo de serviço na categoria.
+
+F) Ingressarão na categoria de auxiliar de laboratório principal (letra N):
+
+Os auxiliares de análises clínicas.
+
+G) Ingressarão na categoria de motorista de pesados (letra Q):
+
+Os motoristas habilitados com a carta de pesados não abrangidos por outro critério.
+
+H) Ingressarão na categoria de motorista de ligeiros (letra S):
+
+1) Os motoristas não habilitados com a carta de pesados;
+
+2) Os contínuos habilitados com a carta de ligeiros e considerados aptos para o desempenho da função.
+
+I) Ingressará na categoria de fiel (letra R):
+
+O contínuo no desempenho de funções de auxiliar de tesouraria.
+
+J) Ingressará na categoria de telefonista de tipo internacional (letra R):
+
+A telefonista que detinha essa categoria na Direcção-Geral da Aeronáutica Civil à data da sua extinção.
+
+K) Ingressarão na categoria de telefonista (letra s):
+
+As telefonistas.
+
+L) Ingressarão na categoria de contínuo (letra T):
+
+1) Os contínuos, porteiros e serventes em exercício de funções habilitados com a escolaridade obrigatória e não abrangidos por outro critério;
+
+2) O pessoal que, a qualquer título, vem exercendo funções equivalentes na DGAC.
+
+II - Integração de pessoal oriundo do quadro geral de adidos
+
+O pessoal oriundo do quadro geral de adidos, cujas designações e categorias não são da responsabilidade da DGAC e nem sempre reflectem um correcto paralelismo com as designações ou categorias de vencimento do restante pessoal, será objecto de tratamento caso a caso, mediante avaliação curricular, aplicando-se os critérios gerais em conformidade.
+
+III - Contagem do tempo de serviço
+
+Os tempos mínimos de serviço indicados nas presentes normas de primeiro provimento deverão completar-se até 31 de Dezembro de 1979.
+
+IV - Dispensa do tempo mínimo de serviço para a normal progressão na carreira
+
+Excepcionalmente, os tempos mínimos de serviço previstos para a normal progressão nas carreiras poderão ser dispensados, nos termos do n.º 5 do artigo 49.º do Decreto-Lei 242/79, de 25 de Julho.
+
+V - Âmbito de aplicação
+
+As normas constantes do presente despacho aplicam-se tão-só ao primeiro provimento dos lugares do quadro da DGAC, observando-se em futuros provimentos as normas constantes do capítulo III do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), bem como, para as carreiras aeronáuticas, o que estiver ou vier a ser estabelecido nos respectivos estatutos profissionais.
+
+Ministério dos Transportes e Comunicações, 12 de Setembro de 1979. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva.

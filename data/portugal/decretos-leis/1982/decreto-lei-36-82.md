@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:600531:por
+title: Decreto-Lei n.º 36/82
+short_title: null
+summary: Dá nova redacção aos artigos 12.º, 15.º, 21.º e 47.º do Código do Imposto de Mais-Valias, aprovado pelo Decreto-Lei
+  n.º 46373, de 9 de Junho de 1965, e elimina o artigo 22.º do mesmo Código
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento
+proposing_entity: null
+official_number: 36/82
+official_date: null
+publication_date: '1982-02-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/1982, Série I de 1982-02-05
+  number: '30'
+  series: I
+  supplement: null
+  pages: 285 - 285
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/02/03000/02850285.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '600531'
+  dre_path: /dr/detalhe/decreto-lei/36-1982-600531
+  internal: pt:dre:600531:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1982-600531
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1982-600531
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:45:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 86fd55d8520c81fc96efffef5b32cdbdc636bd2b0cc9e20cbc0bd25eb4576e29
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código do Imposto de Mais-valias
+- Imposto de Mais-Valias
+- Mais-Valias
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:226586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577913:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:45:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 36/82
+
+de 5 de Fevereiro
+
+As alterações introduzidas pela [Portaria n.º 737/81](https://diariodarepublica.pt/dr/detalhe/portaria/737-1981-577913) no regime de reintegrações e amortizações dos bens do activo imobilizado das empresas têm implicações no domínio da determinação da matéria colectável do imposto de mais-valias. Além disso, parece conveniente tornar mais claras as regras relativas a essa determinação.
+
+Por outro lado, em face da nova redacção dada ao artigo 60.º do Código da Contribuição Industrial pelo [Decreto-Lei n.º 577/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-1980-226586), de 31 de Dezembro, os contribuintes do grupo C ficaram obrigados a apresentar anualmente, no mês de Janeiro, a declaração modelo n.º 5 referida nesse preceito, o que impõe que as disposições do Código do Imposto de Mais-Valias sejam adaptadas em conformidade.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 12.º, 15.º, 21.º e 47.º do Código do Imposto de Mais-Valias, aprovado pelo [Decreto-Lei n.º 46373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46373-1965-294899), de 9 de Junho de 1965, passam a ter a seguinte redacção:
+
+Art. 12.º A correcção a efectuar no valor de aquisição dos elementos, bens ou valores referidos no n.º 2.º do artigo 1.º processa-se de acordo com as seguintes regras:
+
+a) Ao valor de aquisição são deduzidas as importâncias que deviam ter sido destinadas a reintegrá-lo ou amortizá-lo nos termos da [Portaria n.º 737/81](https://diariodarepublica.pt/dr/detalhe/portaria/737-1981-577913), de 29 de Agosto, de modo a determinar-se o valor líquido que, feitas as competentes reintegrações ou amortizações, deveria figurar no último balanço, ou, no caso de se ter praticado mensualização de reintegrações e amortizações nos termos do n.º 6.º da citada portaria, o valor líquido que figuraria no balancete «Razão» com data do último dia do mês anterior ao da transmissão onerosa;
+
+b) O valor líquido referido na alínea anterior é actualizado mediante a aplicação do coeficiente de desvalorização da moeda mencionado no artigo 15.º deste Código.
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+Art. 15.º Ocorrendo desvalorização da moeda, os valores de aquisição mencionados nas alíneas a) e c) do artigo 2.º, assim como o valor líquido referido na alínea a) do artigo 12.º, serão sempre corrigidos pelos coeficientes que, para o efeito, sejam publicados em portaria do Ministro de Estado e das Finanças e do Plano.
+
+Art. 21.º Os contribuintes tributados em contribuição industrial apresentarão na repartição de finanças competente para a liquidação dessa contribuição, com a declaração referida nos artigos 45.º, 47.º, 55.º, 58.º, 60.º, e 62.º do Código da Contribuição Industrial, uma declaração modelo n.º 2, na qual mencionarão as importâncias das mais-valias realizadas e das menos-valias sofridas no ano a que respeita a declaração, em elementos do activo imobilizado ou em bens ou valores mantidos como reserva ou para fruição.
+
+§ único. Não tendo havido transmissão onerosa de elementos do activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, será feita menção nesse sentido na declaração apresentada para efeitos da contribuição industrial.
+
+Art. 47.º A falta das declarações exigidas no corpo do artigo 21.º será punida com multa de 200$00 a 40000$00 e a falta da declaração a que se refere o artigo 22.º-A com a multa de 400$00 a 100000$00.
+
+§ único. Sendo a falta cometida por contribuinte isento de contribuição industrial, a multa será de 1000$00 a 100000$00, salvo tratando-se de entidade que, se não beneficiasse da isenção, seria tributada pelo grupo C.
+
+Art. 2.º É eliminado o artigo 22.º do Código do Imposto de Mais-Valias.
+
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação, mas a alteração estabelecida na parte final da alínea a) do artigo 12.º do Código do Imposto de Mais-Valias aplica-se à determinação da matéria colectável efectuada posteriormente à entrada em vigor da [Portaria n.º 737/81](https://diariodarepublica.pt/dr/detalhe/portaria/737-1981-577913), de 29 de Agosto, e respeitante a ganhos realizados na transmissão de bens entrados em funcionamento na empresa transmitente nos anos de 1981 e seguintes.
+
+Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 25 de Janeiro de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

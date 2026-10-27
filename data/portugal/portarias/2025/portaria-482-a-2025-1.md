@@ -1,0 +1,689 @@
+---
+schema_version: '1.0'
+id: pt:dre:993315590:por
+title: Portaria n.º 482-A/2025/1
+short_title: null
+summary: Sexta alteração da Portaria n.º 54-D/2023, décima alteração da Portaria n.º 54-E/2023, quarta alteração da Portaria
+  n.º 54-I/2023 e quinta alteração da Portaria n.º 54-Q/2023, de 27 de fevereiro, no âmbito do Plano Estratégico da Política
+  Agrícola Comum para Portugal (PEPAC Portugal), no continente.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura e Mar
+proposing_entity: null
+official_number: 482-A/2025/1
+official_date: null
+publication_date: '2025-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31
+  number: '251'
+  series: I
+  supplement: null
+  pages: 81 - 92
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/12/25101/0008100092.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/482-a/2025/12/31/p/dre/pt/html
+  oj: null
+  dre: '993315590'
+  dre_path: /dr/detalhe/portaria/482-a-2025-993315590
+  internal: pt:dre:993315590:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590
+  metadata_url: https://data.dre.pt/eli/port/482-a/2025/12/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 797ed2d7b5199e4bab12d85a30bc31d2ec525bef240c4b1f6e96cb1ec11243e7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agricultura
+- Ajuda Comunitária
+- Algodão
+- Financiamento
+- Fruticultura
+- Fundos CE
+- IFAP
+- Pagamento
+- Pecuária
+- Plano Estratégico da Política Agrícola Comum para Portugal
+- Política Agrícola Comum
+- Regime de Apoio
+- Regulamentação de Atos Legislativos
+- Regulamento CE
+- Vinha
+relationships:
+- type: amended_by
+  target: pt:dre:1062753817:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amends
+  target: pt:numero:portaria:54-D/2023
+  label: Altera, com efeitos a partir de 1 de janeiro de 2026, os artigos 27.º, 29.º (este com efeitos a 1 de janeiro de 2025)
+    e 31.º, e adita, com efeitos a partir de 1 de janeiro de 2026, o anexo iv à Portaria n.º 54-D/2023, de 27 de fevereiro,
+    Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
+- type: amends
+  target: pt:numero:portaria:54-E/2023
+  label: Altera, com efeitos a partir de 1 de janeiro de 2026, os artigos 25.º, 33.º, 55.º (este com efeitos a 1 de janeiro
+    de 2025) e 57.º (o n.º 4 deste com efeitos a 1 de janeiro de 2025) e o anexo xiv, e adita, com efeitos a partir de 1 de
+    janeiro de 2026, o artigo 56.º-A e o anexo xvi à Portaria n.º 54-E/2023, de 27 de fevereiro, Diário da República n.º 41/2023,
+    1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
+- type: amends
+  target: pt:numero:portaria:54-I/2023
+  label: Altera, com efeitos a partir de 1 de janeiro de 2026, os artigos 3.º, 29.º, 35.º e 37.º (este com efeitos a 1 de
+    janeiro de 2025) e o anexo vii, e adita, com efeitos a partir de 1 de janeiro de 2026, os artigos 18.º-A e 38.º-A e o
+    anexo x à Portaria n.º 54-I/2023, de 27 de fevereiro, Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
+- type: amends
+  target: pt:numero:portaria:54-Q/2023
+  label: Altera, com efeitos a partir de 1 de janeiro de 2026, o artigo 3.º da Portaria n.º 54-Q/2023, de 27 de fevereiro,
+    Diário da República n.º 41/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-02-27'
+- type: cites
+  target: celex:32021R2115
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2115/oj
+- type: cites
+  target: celex:32021R2116
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2116/oj
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
+- type: cites
+  target: pt:dre:207942898:por
+  label: null
+  source: http://data.dre.pt/eli/port/54-d/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:207942899:por
+  label: null
+  source: http://data.dre.pt/eli/port/54-e/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:207942903:por
+  label: null
+  source: http://data.dre.pt/eli/port/54-i/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:207942906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207942910:por
+  label: null
+  source: http://data.dre.pt/eli/port/54-p/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:207942911:por
+  label: null
+  source: http://data.dre.pt/eli/port/54-q/2023/02/27/p/dre
+- type: cites
+  target: pt:dre:213761245:por
+  label: null
+  source: http://data.dre.pt/eli/port/147-a/2023/05/30/p/dre
+- type: cites
+  target: pt:dre:222939646:por
+  label: null
+  source: http://data.dre.pt/eli/port/314/2023/10/19/p/dre
+- type: cites
+  target: pt:dre:259405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854130987:por
+  label: null
+  source: http://data.dre.pt/eli/port/80-c/2024/03/04/p/dre
+- type: cites
+  target: pt:dre:901536096:por
+  label: null
+  source: http://data.dre.pt/eli/port/364/2024/12/
+- type: corrected_by
+  target: pt:dre:1062753817:por
+  label: Retificados os anexos i e iii pelo(a) Declaração de Retificação n.º 9/2026/1 - Diário da República n.º 41/2026, Série
+    I de 2026-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/9-2026-1062753817
+  date: '2026-02-27'
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:05:04Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 482-A/2025/1
+
+de 31 de dezembro
+
+A [Portaria n.º 54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), de 27 de fevereiro, veio estabelecer as normas nacionais de aplicação das intervenções de pagamentos diretos dissociados previstas nos artigos 21.º, 28.º e 29.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.
+
+A [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro, veio estabelecer o regime de aplicação dos apoios a conceder no Domínio «Sustentabilidade - Ecorregime» do Eixo «A - Rendimento e sustentabilidade» do PEPAC Portugal, no continente.
+
+A [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro, veio estabelecer o regime de aplicação das normas nacionais de apoio associado ao rendimento e do pagamento específico para o algodão, previstas nos artigos 32.º a 36.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação do domínio «A.1 - Rendimento e resiliência» do eixo «A - Rendimento e Sustentabilidade» do PEPAC Portugal, no continente.
+
+A [Portaria n.º 54-Q/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-q-2023-207942911), de 27 de fevereiro, veio estabelecer a nomenclatura das ocupações culturais, os elementos lineares e de paisagem a integrar na área útil da subparcela agrícola, as regras de elegibilidade da superfície agrícola, os requisitos legais de gestão e as normas mínimas para as boas condições agrícolas e ambientais das terras, nos termos e para os efeitos do disposto no n.º 1 do artigo 12.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação do PEPAC Portugal, no continente.
+
+Na [Portaria n.º 54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), de 27 de fevereiro, tendo em conta a cessação dos direitos a pagamento do «Apoio ao Rendimento Base» no dia 31 de dezembro de 2025, procede-se à divulgação dos montantes unitários indicativos médios, bem como mínimos e máximos para as intervenções de pagamentos diretos dissociados programados para o ano de 2026.
+
+Na [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro, no regime ecológico «Maneio da pastagem permanente» a epizootia é equiparada à situação de seca extrema ou severa, que quando reconhecida pelas autoridades nacionais competentes permite derrogação no nível de encabeçamento mínimo.
+
+Quanto ao regime ecológico «Promoção de fertilização orgânica», importa promover uma maior adesão dos agricultores a este regime ecológico prevendo-se assim um aumento do montante indicativo de apoio.
+
+No âmbito do regime ecológico «Práticas promotoras da biodiversidade», para o cálculo do equivalente de superfície de interesse ecológico ou ambiental (ESIAE) do elemento «Valas de drenagem/rega sem revestimento» deve ser considerado apenas o fator de ponderação, sem tomar em consideração o fator de conversão, uma vez que este elemento é contabilizado através da sua área.
+
+Na [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro, é introduzida na intervenção «Pagamento ao arroz» a prática da regeneração produtiva de arrozais, que visa promover a sustentabilidade ambiental e económica, a melhoria da produtividade e qualidade do solo, assim como promover a biodiversidade, deixando em pousio os canteiros de arroz, desde que se efetue a prática da falsa sementeira. No âmbito da intervenção do «Pagamento às sementes certificadas» procura-se incentivar através de uma majoração do apoio a produção de semente certificada produzida em modo de produção biológico.
+
+Relativamente às intervenções de pagamento ao milho grão e ao milho silagem, face à atual conjuntura importa ajustar os valores unitários indicativos, bem como alargar a elegibilidade do pagamento ao milho silagem aos produtores que comercializem através de organizações de produtores de carne.
+
+Na [Portaria n.º 54-Q/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-q-2023-207942911), de 27 de fevereiro, torna-se necessário clarificar um dos conceitos nos elementos lineares e de paisagem.
+
+Verificou-se, ainda, necessário proceder à alteração das disposições referentes às reduções e exclusões do apoio no âmbito das referidas portarias, assegurando uma maior proporcionalidade das sanções, sem prejuízo do seu efeito dissuasor, com efeitos a 1 de janeiro de 2025, o que exige a manutenção à referência a «direitos ao pagamento». É ainda de salientar que referências a «direitos ao pagamento», em outras disposições para além das atrás referidas, apesar de não terem aplicação nos anos 2026 e seguintes, permanecem no diploma por terem aplicação para efeitos dos anos de 2023 a 2025.
+
+Ainda no que respeita às Portarias n.os[54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), [54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899) e [54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), num contexto de uma gestão administrativa das dotações financeiras das intervenções são agora divulgados, no que aos montantes unitários médios, mínimos e máximos, ao nível de cada intervenção ou grupo de pagamento, com o objetivo do cumprimento do quadro de desempenho.
+
+Nestes termos, cumpre adaptar em conformidade as normas nacionais de aplicação das intervenções mencionadas anteriormente.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura e Mar, ao abrigo da alínea b) do n.º 3 do artigo 3.º do [Decreto-Lei n.º 12/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2023-207760041), de 24 de fevereiro, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à:
+
+a) Sexta alteração da [Portaria n.º 54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), de 27 de fevereiro, na sua redação atual, que estabelece as normas nacionais de aplicação das intervenções de pagamentos diretos dissociados previstas nos artigos 21.º, 28.º e 29.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC), no continente;
+
+b) Décima alteração da [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro, que estabelece o regime de aplicação dos apoios a conceder no domínio «Sustentabilidade - Ecorregime» do Eixo «A - Rendimento e sustentabilidade» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente;
+
+c) Quarta alteração da [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro, alterada pelas Portarias n.os [147-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245), de 30 de maio, [314/2023](https://diariodarepublica.pt/dr/detalhe/portaria/314-2023-222939646), de 19 de outubro, e [80-C/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), de 4 de março, que estabelece as normas nacionais de aplicação das intervenções de apoio associado ao rendimento e do pagamento específico para o algodão previstas nos artigos 32.º a 36.º do [Regulamento (UE) 2021/2115](https://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no que se refere à aplicação do domínio «A.1 - Rendimento e resiliência» do eixo «A - Rendimento e Sustentabilidade» do PEPAC Portugal, no continente;
+
+d) Quinta alteração da [Portaria n.º 54-Q/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-q-2023-207942911), de 27 de fevereiro, na sua redação atual, que estabelece a nomenclatura das ocupações culturais, os elementos lineares e de paisagem a integrar na área útil da subparcela agrícola, as regras de elegibilidade da superfície agrícola, os requisitos legais de gestão e as normas mínimas para as boas condições agrícolas e ambientais das terras.
+
+###### Artigo 2.º — Alteração à [Portaria n.º 54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), de 27 de fevereiro
+
+Os artigos 27.º, 29.º e 31.º da [Portaria n.º 54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), de 27 de fevereiro, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 27.º
+
+[...]
+
+1 - Sem prejuízo do previsto no capítulo ii da [Portaria n.º 54-P/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-p-2023-207942910), de 27 de fevereiro, alterada pela [Portaria n.º 364/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/364-2024-901536096), de 30 de dezembro, as intervenções de apoios dissociados são concedidas sob a forma de pagamentos anuais no âmbito do sistema integrado de gestão e de controlo, nos termos do [Regulamento (UE) 2021/2116](https://data.europa.eu/eli/reg/2021/2116/oj?locale=pt) do Parlamento Europeu e do Conselho (Pagamentos SIGC), efetuados pelo IFAP, I. P.
+
+2 - Os pagamentos relativos ao Apoio ao Rendimento Base são efetuados num montante indicativo previsto no anexo iv da presente portaria, da qual faz parte integrante, por hectare elegível.
+
+3 - Para o ano de 2026, os montantes unitários indicativos médios, mínimos e máximos das intervenções de apoios dissociados encontram-se previstos no anexo iv à presente portaria, da qual faz parte integrante.
+
+Artigo 29.º
+
+[...]
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+a) [...]
+
+i) Se houver diferença entre o número declarado de direitos ao pagamento e a superfície declarada, esta deve ser ajustada ao valor mais baixo, resultando na superfície candidata;
+
+ii) Se a superfície candidata exceder a superfície determinada, a ajuda é calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % da superfície determinada ou a dois hectares mas igual ou inferior a 50 % da superfície determinada;
+
+iii) Se a diferença entre a superfície candidata e a superfície determinada for superior a 50 %, não é concedido apoio;
+
+iv) Se a diferença entre a superfície candidata e a superfície determinada for igual ou inferior a 0,1 hectares, considera-se a superfície determinada igual à candidata, desde que a diferença não represente mais do que 20 % da superfície candidata;
+
+b) [...]
+
+i) Se houver diferença entre a superfície declarada e o limite máximo de hectares elegíveis ao pagamento do apoio redistributivo complementar, esta deve ser ajustada ao valor mais baixo, resultando na superfície candidata;
+
+ii) Se a superfície candidata exceder a superfície determinada, a ajuda é calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % da superfície determinada ou a dois hectares, mas igual ou inferior a 50 % da superfície determinada;
+
+iii) (Revogada.)
+
+iv) Se a diferença entre a superfície candidata e a superfície determinada for igual ou inferior a 0,1 hectares, considera-se a superfície determinada igual à candidata, desde que a diferença não represente mais do que 20 % da superfície candidata;
+
+c) [...]
+
+i) Se houver diferença entre o número declarado de direitos ao pagamento e a superfície declarada, esta deve ser ajustada ao valor mais baixo, resultando na superfície candidata;
+
+ii) Se a diferença entre a superfície candidata e a superfície determinada for superior a 0,1 hectares, não é concedido o apoio;
+
+iii) (Revogada.)
+
+iv) Se a diferença entre a superfície candidata e a superfície determinada for igual ou inferior a 0,1 hectares, considera-se a superfície determinada igual à candidata, desde que a diferença não represente mais do que 20 % da superfície candidata.
+
+3 - Caso se verifique que a superfície determinada de um grupo de culturas é maior do que a superfície candidata, a superfície a utilizar no cálculo da ajuda ou do apoio será a superfície candidata.
+
+4 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro, na sua redação atual.
+
+Artigo 31.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+a) [...]
+
+b) [...]
+
+c) (Revogada.)»
+
+###### Artigo 3.º — Alteração à [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro
+
+Os artigos 25.º, 33.º, 55.º e 57.º da [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 25.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - Quando se verifiquem situações de epizootia ou de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o nível de encabeçamento mínimo referido no número anterior é estabelecido em 0,100 CN por hectare de superfície forrageira.
+
+4 - [...]
+
+5 - [...]
+
+Artigo 33.º
+
+[...]
+
+1 - O montante do apoio a conceder na presente secção é indicativo, no valor de 112,50 euros por hectare de culturas temporárias, culturas permanentes ou prados e pastagens permanentes sem predominância de vegetação arbustiva com valorização agrícola de efluentes pecuários, ou através da incorporação de biorresíduos de origem agrícola.
+
+2 - [...]
+
+3 - [...]
+
+Artigo 55.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - Quando o número de animais declarado por espécie, ao qual seja aplicável uma taxa de ajuda ou apoio diferente, exceder o número de animais determinado:
+
+a) [...]
+
+b) [...]
+
+c) Não é concedido apoio se a diferença entre o número de animais determinado e o número de animais declarado for superior a 30 %.
+
+4 - (Revogado.)
+
+5 - Para efeitos do n.º 1, e sem prejuízo das regras estabelecidas no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., é determinada como base de cálculo para a aplicação de penalizações resultantes dos controlos no local a diferença entre a superfície candidata e a superfície determinada, nos seguintes termos:
+
+a) Se a superfície candidata exceder a superfície determinada, a ajuda é calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % da área determinada ou a dois hectares, mas igual ou inferior a 50 % da superfície determinada;
+
+b) Se a diferença entre a superfície candidata e a superfície determinada for superior a 50 % não é concedido o apoio;
+
+c) Se a diferença entre a superfície candidata e a superfície determinada for igual ou inferior a 0,1 hectare, considera-se a superfície determinada igual à candidata, desde que a diferença não represente mais do que 20 % da superfície candidata.
+
+6 - [...]
+
+7 - [...]
+
+8 - Caso se verifique que a superfície determinada de um grupo de culturas é maior do que a superfície candidata, a superfície a utilizar no cálculo da ajuda ou do apoio será a superfície candidata.
+
+9 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro, na sua redação atual.
+
+Artigo 57.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - Para efeitos dos anos de 2023 a 2025 o compromisso de partilha de dados, previsto na alínea d) do n.º 1 do artigo 25.º e na alínea f) do n.º 1 do artigo 31.º, é cumprido através da detenção dos dados em formato eletrónico.
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - [...]
+
+9 - [...]
+
+10 - [...]
+
+11 - [...]
+
+12 - [...]
+
+13 - [...]
+
+14 - [...]
+
+15 - [...]»
+
+###### Artigo 4.º — Alterações à [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro
+
+Os artigos 3.º, 29.º, 35.º e 37.º da [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) ‘Falsa sementeira’, a preparação do canteiro tal como seria efetuada para proceder à sementeira normal, incluindo as operações usuais de mobilização e rega, mas sem a realizar, induzindo a germinação de infestantes, com posterior eliminação dos mesmos exclusivamente através de ação mecânica.
+
+Artigo 29.º
+
+[...]
+
+a) [...]
+
+b) [...]
+
+c) Efetue entregas de leite ou produtos lácteos, durante o período de retenção, a uma OP, na qualidade de membro ou de produtor associado de pessoa coletiva membro da OP ou através de contrato celebrado com a OP nos termos do [Decreto-Lei n.º 42/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2013-259405), de 22 de março;
+
+d) Comercialize a sua produção de carne através de uma OP reconhecida do setor da carne.
+
+Artigo 35.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - No caso do pagamento à multiplicação de sementes certificadas, o valor unitário indicativo é majorado em 20 %, face ao previsto no anexo vii da presente portaria, da qual faz parte integrante, se a semente certificada for produzida em modo de produção biológico, certificado por organismo de certificação e controlo.
+
+Artigo 37.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+a) [...]
+
+b) [...]
+
+c) Não é concedido apoio se a diferença entre o número de animais determinado e o número de animais declarado for superior a 30 %.
+
+5 - (Revogado.)
+
+6 - Para efeitos do n.º 1, e sem prejuízo das regras estabelecidas no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., é determinada como base de cálculo para a aplicação de penalizações resultantes dos controlos no local a diferença entre a superfície candidata e a superfície determinada, nos seguintes termos:
+
+a) Se a superfície candidata exceder a superfície determinada, a ajuda é calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % da superfície determinada ou a dois hectares, mas igual ou inferior a 50 % da superfície determinada;
+
+b) Se a diferença entre a superfície candidata e a superfície determinada for superior a 50 % não é concedido o apoio;
+
+c) Se a diferença entre a superfície candidata e a superfície determinada for igual ou inferior a 0,1 hectare, considera-se a superfície determinada igual à candidata, desde que a diferença não represente mais do que 20 % da superfície candidata.
+
+7 - Caso se verifique que a superfície determinada elegível à intervenção é maior do que a superfície candidata, a superfície a utilizar no cálculo da ajuda ou do apoio será a superfície candidata.
+
+8 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da [Portaria n.º 54-L/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906), de 27 de fevereiro.»
+
+###### Artigo 5.º — Alteração à [Portaria n.º 54-Q/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-q-2023-207942911), de 27 de fevereiro
+
+O artigo 3.º da [Portaria n.º 54-Q/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-q-2023-207942911), de 27 de fevereiro, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - Para efeitos da alínea b) do n.º 1, são incluídas em ‘Árvores em linha’ as vinhas em sistema de enforcado.»
+
+###### Artigo 6.º — Aditamento à [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro
+
+É aditado à [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro, o artigo 56.º-A com a seguinte redação:
+
+«Artigo 56.º-A
+
+Gestão financeira
+
+Para efeitos de aplicação das disposições de gestão financeira definidas no capítulo ii da [Portaria n.º 54-P/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-p-2023-207942910) são definidos ao nível de intervenção ou grupo de pagamento no anexo x os montantes unitários indicativos médio, mínimo e máximo.»
+
+###### Artigo 7.º — Aditamento à [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro
+
+São aditados à [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro, os artigos 18.º-A e 38.º-A com a seguinte redação:
+
+«Artigo 18.º-A
+
+Regeneração produtiva dos arrozais
+
+1 - Os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, podem ainda candidatar subparcelas em pousio, sujeitas à prática da sementeira falsa de arroz, desde que nos dois anos anteriores ao ano de candidatura tenham sido totalmente semeadas ou plantadas com arroz.
+
+2 - Para efeitos do número anterior, a área de subparcelas de pousio, candidata no PU do ano em causa, não pode ser superior a 33 % do total da superfície elegível ao pagamento ao arroz.
+
+Artigo 38.º-A
+
+Gestão financeira
+
+Para efeitos de aplicação das disposições de gestão financeira definidas no capítulo ii da [Portaria n.º 54-P/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-p-2023-207942910) são definidos ao nível de intervenção ou grupo de pagamento no anexo x os montantes unitários indicativos médio, mínimo e máximo.»
+
+###### Artigo 8.º — Alteração ao anexo da [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro
+
+É alterado o anexo xiv à [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro, de acordo com o anexo i da presente portaria, que dela faz parte integrante.
+
+###### Artigo 9.º — Alteração ao anexo da [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro
+
+É alterado o anexo vii à [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro, de acordo com o anexo ii da presente portaria, que dela faz parte integrante.
+
+###### Artigo 10.º — Aditamento à [Portaria n.º 54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), de 27 de fevereiro
+
+É aditado o anexo iv à [Portaria n.º 54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), de 27 de fevereiro, de acordo com o anexo iii da presente portaria, da qual faz parte integrante.
+
+###### Artigo 11.º — Aditamento à [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro
+
+É aditado o anexo xvi à [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro, de acordo com o anexo iv da presente portaria, da qual faz parte integrante.
+
+###### Artigo 12.º — Aditamento à [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro
+
+É aditado o anexo x à [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro, de acordo com o anexo v da presente portaria, da qual faz parte integrante.
+
+###### Artigo 13.º — Entrada em vigor e produção de efeitos
+
+1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2026, sem prejuízo do número seguinte.
+
+2 - A presente portaria produz efeitos a 1 de janeiro de 2025 relativamente às disposições seguintes:
+
+a) Artigo 29.º da [Portaria n.º 54-D/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-d-2023-207942898), de 27 de fevereiro;
+
+b) Artigo 55.º e n.º 4 do artigo 57.º da [Portaria n.º 54-E/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-e-2023-207942899), de 27 de fevereiro;
+
+c) Artigo 37.º da [Portaria n.º 54-I/2023](https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903), de 27 de fevereiro.
+
+O Ministro da Agricultura e Mar, José Manuel Fernandes, em 28 de dezembro de 2025.
+
+## ANEXO I — (a que se refere o artigo 8.º)
+
+«ANEXO XIV
+
+[...]
+
+| [...] | [...] | [...] |
+| --- | --- | --- |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+
+[...]»
+
+## ANEXO II — (a que se refere o artigo 9.º)
+
+«ANEXO VII
+
+[...]
+
+[...]
+
+| [...] | [...] |  |
+| --- | --- | --- |
+| [...] | [...] |  |
+| Pagamento ao arroz - regeneração produtiva dos arrozais | 387 |  |
+| Pagamento ao tomate para indústria | [...] |  |
+| Pagamento às proteaginosas | [...] |  |
+| Pagamento aos cereais praganosos | [...] |  |
+| Pagamento ao milho grão | 275 |  |
+| Pagamento ao milho silagem | 165 |  |
+| Pagamento à multiplicação de sementes certificadas | [...] | » |
+
+## ANEXO III — (a que se refere o artigo 10.º)
+
+«ANEXO IV
+
+Montantes unitários indicativos, médios, mínimo e máximo
+
+(a que se refere o artigo 35.º)
+
+| Apoio ao rendimento base, por hectare elegível: |  |  |
+| --- | --- | --- |
+| Montante médio indicativo (€)107,96 | Montante mínimo indicativo (€)80,97 | Montante máximo indicativo (€)134,95 |
+| Pagamento aos pequenos agricultores: |  |  |
+| Montante médio indicativo (€)770,00 | Montante mínimo indicativo (€)577,50 | Montante máximo indicativo (€)962,50 |
+| Apoio redistributivo ao rendimento, por hectare elegível: |  |  |
+| Montante médio indicativo (€)120,00 | Montante mínimo indicativo (€)90,00 | Montante máximo indicativo (€)150,00» |
+
+## ANEXO IV — (a que se refere o artigo 11.º)
+
+«ANEXO XVI
+
+Montantes unitários indicativos, médios, mínimo e máximo
+
+(a que se refere o artigo 56.º-A)
+
+| Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,2 CN/ha a 0,75 CN/ha: |  |  |
+| --- | --- | --- |
+| Montante médio indicativo (€)60,00 | Montante mínimo indicativo (€)25,00 | Montante máximo indicativo (€)94,88 |
+| Gestão do solo - Maneio da pastagem permanente - Nível encabeçamento 0,75 CN/ha a 1,5 CN/ha: |  |  |
+| Montante médio indicativo (€)36,00 | Montante mínimo indicativo (€)15,00 | Montante máximo indicativo (€)56,93 |
+| Gestão do solo - Promoção da fertilização orgânica: |  |  |
+| Montante médio indicativo (€)112,50 | Montante mínimo indicativo (€)112,50 | Montante máximo indicativo (€)200,00 |
+| Melhorar a eficiência alimentar animal para redução das emissões de GEE: |  |  |
+| Montante médio indicativo (€)22,00 | Montante mínimo indicativo (€)5,00 | Montante máximo indicativo (€)29,00 |
+| Bem-estar animal e Uso Racional de Antimicrobianos - Bem-estar animal: |  |  |
+| Montante médio indicativo (€)24,00 | Montante mínimo indicativo (€)20,00 | Montante máximo indicativo (€)25,00 |
+| Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 1.º escalão: |  |  |
+| Montante médio indicativo (€)24,00 | Montante mínimo indicativo (€)22,00 | Montante máximo indicativo (€)25,00 |
+| Bem-estar animal e Uso Racional de Antimicrobianos - Uso racional de antimicrobianos 2.º escalão: |  |  |
+| Montante médio indicativo (€)29,00 | Montante mínimo indicativo (€)27,00 | Montante máximo indicativo (€)30,00 |
+| Práticas promotoras da biodiversidade: |  |  |
+| Montante médio indicativo (€)44,80 | Montante mínimo indicativo (€)31,36 | Montante máximo indicativo (€)58,24» |
+
+## ANEXO V — (a que se refere o artigo 12.º)
+
+«ANEXO X
+
+Montantes unitários indicativos, médios, mínimo e máximo
+
+(a que se refere o artigo 38.º-A)
+
+| Pagamento vaca em aleitamento: |  |  |
+| --- | --- | --- |
+| Montante médio indicativo (€)103,00 | Montante mínimo indicativo (€)77,25 | Montante máximo indicativo (€)128,75 |
+| Pagamento aos pequenos ruminantes: |  |  |
+| Montante médio indicativo (€)21,00 | Montante mínimo indicativo (€)15,75 | Montante máximo indicativo (€)26,25 |
+| Pagamento leite de vaca: |  |  |
+| Montante médio indicativo (€)113,00 | Montante mínimo indicativo (€)84,75 | Montante máximo indicativo (€)141,25 |
+| Pagamento ao arroz: |  |  |
+| Montante médio indicativo (€)387,00 | Montante mínimo indicativo (€)290,25 | Montante máximo indicativo (€)483,75 |
+| Pagamento ao tomate para indústria: |  |  |
+| Montante médio indicativo (€)360,00 | Montante mínimo indicativo (€)270,00 | Montante máximo indicativo (€)450,00 |
+| Pagamento às proteaginosas: |  |  |
+| Montante médio indicativo (€)65,00 | Montante mínimo indicativo (€)48,75 | Montante máximo indicativo (€)81,25 |
+| Pagamento aos cereais praganosos: |  |  |
+| Montante médio indicativo (€)104,00 | Montante mínimo indicativo (€)78,00 | Montante máximo indicativo (€)130,00 |
+| Pagamento ao milho grão: |  |  |
+| Montante médio indicativo (€)275,00 | Montante mínimo indicativo (€)206,25 | Montante máximo indicativo (€)343,75 |
+| Pagamento ao milho silagem: |  |  |
+| Montante médio indicativo (€)165,00 | Montante mínimo indicativo (€)123,75 | Montante máximo indicativo (€)206,25 |
+| Pagamento à multiplicação de sementes certificadas: |  |  |
+| Montante médio indicativo (€)125,00 | Montante mínimo indicativo (€)93,75 | Montante máximo indicativo (€)181,25» |
+
+119936201
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:17px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { border-collapse:collapse; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { text-align:justify; text-align-last:right; } .Tbl16 { border-collapse:collapse; border-width:1px; } .Tbl17 { min-height:18px; } .Tbl18 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl19 { min-height:32px; } .Tbl20 { min-height:31px; } .Tbl21 { min-height:33px; }

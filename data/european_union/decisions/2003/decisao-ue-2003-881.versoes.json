@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003D0881:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003D0881-20100409",
+ "dre_path": null,
+ "source_lastmod": "2010-04-09",
+ "versions": [
+  {
+   "date": "2003-12-17",
+   "future": false,
+   "celex": "32003D0881",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0a5b28ebdf941f8c",
+    "014f61ecb172ef60",
+    "a9a86d0e300c6a08",
+    "742496f7039b6eaf",
+    "9a0e21638eaaf521",
+    "e5dc3f583fb58a36",
+    "5cacc081b29ef11d",
+    "58089b3cacba5596"
+   ]
+  },
+  {
+   "date": "2010-04-09",
+   "future": false,
+   "celex": "02003D0881-20100409",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime ANEXO I — >PIC FILE= \"L_2003328PT.002802.TIF\">",
+    "Suprime ANEXO II — >PIC FILE= \"L_2003328PT.003002.TIF\">"
+   ],
+   "fragments": [
+    "b576b471d178570e"
+   ]
+  }
+ ],
+ "fragments": {
+  "0a5b28ebdf941f8c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**2003/881/CE: Decisão da Comissão, de 11 de Dezembro de 2003, relativa às condições de polícia sanitária e de certificação para a importação de abelhas (Apis mellifera & Bombus spp.) provenientes de determinados países terceiros e que revoga a Decisão 2000/462/CE (Texto relevante para efeitos do EEE) [notificada com o número C(2003) 4623]** *Jornal Oficial nº L 328 de 17/12/2003 p. 0026 - 0031*\n\nDecisão da Comissão\n\nde 11 de Dezembro de 2003\n\nrelativa às condições de polícia sanitária e de certificação para a importação de abelhas (Apis mellifera & Bombus spp.) provenientes de determinados países terceiros e que revoga a Decisão 2000/462/CE\n\n[notificada com o número C(2003) 4623]\n\n(Texto relevante para efeitos do EEE)\n\n(2003/881/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/65/CEE do Conselho, de 13 de Julho de 1992, que define as condições de polícia sanitária que regem o comércio e as importações na Comunidade de animais, sémens, óvulos e embriões não sujeitos, no que se refere às condições de polícia sanitária, às regulamentações comunitárias específicas referidas na secção I do anexo A da Directiva 90/425/CEE(1), e, nomeadamente, o n.o 2, alínea b), do seu artigo 17.o, o n.o 1, primeiro travessão, do seu artigo 18.o e a alínea b) do seu artigo 19.o,\n\nConsiderando o seguinte:\n\n(1) A Decisão 2000/462/CE da Comissão, de 12 de Julho de 2000, relativa à certificação sanitária para a importação de abelhas/colónias de abelhas e de rainhas e respectivas amas provenientes de países terceiros(2), estabelece as condições aplicáveis à certificação sanitária dessas importações de países terceiros, tal como exigido pela Directiva 92/65/CEE.\n\n(2) O pequeno besouro das colmeias (Aethina tumida) é uma praga exótica que afecta as abelhas produtoras de mel que se propagou de diversos países de África a outros países terceiros, criando assim graves problemas à indústria apícola. De momento, não está disponível qualquer tratamento eficaz e seguro contra esta praga. Se surgisse na Comunidade, o pequeno besouro das colmeias poderia representar um risco para a sustentabilidade da indústria apícola e, consequentemente, da agricultura e do ambiente devido à resultante interrupção da polinização.\n\n(3) O pequeno besouro das colmeias não consta ainda da lista de doenças do Gabinete Internacional das Epizootias (OIE). Por este motivo, desconhece-se a amplitude da infestação em países terceiros.\n\n(4) Os acarídeos Tropilaelaps (Tropilaelaps spp.) são uma praga exótica que afecta as abelhas produtoras de mel e que se está a propagar em diversos países terceiros, dando assim origem a graves problemas para a indústria apícola. Caso surgisse na Comunidade, poderia ter também consequências igualmente graves para a sustentabilidade da indústria apícola.\n\n(5) Nos termos do Regulamento (CE) n.o 1398/2003, a presença do pequeno besouro das colmeias e dos acarídeo Tropilaelaps na Comunidade está sujeita a notificação obrigatória mediante a sua inclusão na Directiva 92/65/CEE. Não houve, até à data, notificações da presença de qualquer deles na Comunidade.\n\n(6) Para além de tornar notificável a presença destas pragas na Comunidade, é também necessário estabelecer requisitos adicionais aplicáveis à importação de abelhas de determinados países terceiros, por forma a limitar o risco de introdução do pequeno besouro das colmeias ou de acarídeos Tropilaelaps na Comunidade, no interesse da protecção do estatuto comunitário em matéria de sanidade apícola.\n\n(7) A verificação da infestação com o pequeno besouro das colmeias ou com acarídeos Tropilaelaps só pode ser facilmente executada no caso de se utilizar uma gaiola individual para cada abelha rainha acompanhada por um número reduzido de amas, devendo pois as importações de abelhas ser limitadas a remessas deste tipo.\n\n(8) Não existem, porém, dados que demonstrem que os acarídeos Tropilaelaps possam infestar colónias de espécimes do género Bombus spp. Além disso, só em condições experimentais é que se verificou a infestação de colónias de espécimes do género Bombus spp. pelo pequeno besouro das colmeias, não existindo provas documentadas de que o pequeno besouro das colmeias possa infestar colónias de espécimes do género Bombus spp. no ambiente natural. Acresce que as pequenas colónias de espécimes do género Bombus spp. criados em condições controladas do ponto de vista ambiental podem ser comercializadas, nomeadamente, na indústria hortícola, podendo também manter-se a necessidade de importar espécimes deste género retirados do seu meio natural para efeitos de reprodução. Atendendo ao enumerado supra, devia ser igualmente autorizada a importação de pequenas remessas de espécimes do género Bombus spp. criados exclusivamente em condições controladas do ponto de vista ambiental em estabelecimentos reconhecidos e relativamente aos quais se possa assegurar que estão indemnes do pequeno besouro das colmeias.\n\n(9) Por questões de clareza da legislação comunitária e para assegurar uma maior harmonização das condições de polícia sanitária na Comunidade após a importação, a Decisão 2000/462/CE da Comissão devia ser revogada e substituída pelo disposto na presente decisão, restringindo a autorização de importação a abelhas rainhas (Apis mellifera) e a rainhas do género Bombus spp. com um pequeno número de amas ou a pequenas colónias de espécimes do género Bombus spp. criados em condições controladas do ponto de vista ambiental em estabelecimentos reconhecidos.\n\n(10) A Directiva 96/93/CE do Conselho, de 17 de Dezembro de 1996, relativa à certificação dos animais e dos produtos animais(3), define regras de certificação que são necessárias para uma certificação válida e para impedir a fraude; é conveniente assegurar que as regras e princípios aplicados por funcionários certificadores de países terceiros ofereçam garantias pelo menos equivalentes às estabelecidas naquela directiva, pelo que só os países incluídos na lista constante da parte I do anexo da Decisão 79/542/CEE do Conselho(4) deviam ser autorizados a importar abelhas para a Comunidade.\n\n(11) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "014f61ecb172ef60": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-Membros autorizarão a importação de abelhas (Apis mellifera & Bombus spp.), prevista na Directiva 92/65/CEE, desde que sejam respeitados os seguintes requisitos:\n\n- essas abelhas sejam provenientes de países terceiros, ou partes deles, incluídos na parte I do anexo da Decisão 79/542/CEE do Conselho,\n\n- essas abelhas sejam acompanhadas de um certificado sanitário conforme ao modelo previsto no anexo I e respeitem as garantias estabelecidas nesse modelo,\n\n- as remessas se limitem a um máximo de 20 amas por abelha rainha numa gaiola individual para cada abelha rainha.\n\n2. No ponto de destino designado, onde as colmeias serão colocadas sob controlo oficial, as rainhas serão transferidas para gaiolas novas antes de serem introduzidas nas colónias locais.\n\n3. As gaiolas, as amas e outros materiais que tenham acompanhado as rainhas desde o país terceiro de origem devem ser enviados para um laboratório para pesquisa da presença do pequeno besouro das colmeias, seus ovos ou larvas, bem como de sinais dos acarídeos Tropilaelaps. Após o exame laboratorial, todos os materiais devem ser destruídos."
+  },
+  "a9a86d0e300c6a08": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEm derrogação ao n.o 1, segundo e terceiro travessões, do artigo 1.o, os Estados-Membros devem também autorizar as importações de remessas de espécimes do género Bombus spp. que se limitem a uma única colónia constituída, no máximo, por 200 espécimes adultos do género Bombus spp. por contentor, acompanhados de um certificado sanitário conforme ao modelo previsto no anexo II e que respeitem as garantias estabelecidas nesse modelo. Neste caso, e em derrogação aos n.os 2 e 3 do artigo 1.o, bastará destruir o contentor e todo o material que acompanha os bombos provenientes do país terceiro de origem, durante ou imediatamente após o termo do tempo de vida da colónia."
+  },
+  "742496f7039b6eaf": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ revogada a Decisão 2000/462/CE."
+  },
+  "9a0e21638eaaf521": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente decisão é aplicável a partir de 20 de Dezembro de 2003."
+  },
+  "e5dc3f583fb58a36": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 11 de Dezembro de 2003.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 268 de 14.9.1992, p. 54. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1398/2003 da Comissão (JO L 98 de 6.8.2003, p. 3).\n\n(2) JO L 183 de 12.7.2000, p. 18.\n\n(3) JO L 13 de 16.1.1997, p. 28.\n\n(4) JO L 146 de 14.6.1979, p. 15."
+  },
+  "5cacc081b29ef11d": {
+   "fragment_id": "ANEXO I — >PIC FILE= \"L_2003328PT.002802.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO I — >PIC FILE= \"L_2003328PT.002802.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >PIC FILE= \"L_2003328PT.002802.TIF\">\n\n>PIC FILE= \"L_2003328PT.002901.TIF\">"
+  },
+  "58089b3cacba5596": {
+   "fragment_id": "ANEXO II — >PIC FILE= \"L_2003328PT.003002.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO II — >PIC FILE= \"L_2003328PT.003002.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >PIC FILE= \"L_2003328PT.003002.TIF\">\n\n>PIC FILE= \"L_2003328PT.003101.TIF\">"
+  },
+  "b576b471d178570e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2003D0881 — PT — 09.04.2010 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32003D0881) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32003D0881) [de 11 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32003D0881) [relativa às condições de polícia sanitária e de certificação para a importação de abelhas (*Apis mellifera*&*Bombus* spp.) provenientes de determinados países terceiros e que revoga a Decisão 2000/462/CE](http://publications.europa.eu/resource/celex/32003D0881) [[notificada com o número C(2003) 4623]](http://publications.europa.eu/resource/celex/32003D0881) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32003D0881) [(2003/881/CE)](http://publications.europa.eu/resource/celex/32003D0881) (JO L 328, 17.12.2003, p.26)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 206/2010 da Comissão de 12 de Março de 2010](http://publications.europa.eu/resource/celex/32010R0206) — L 73 — 1 — 20.3.2010"
+  }
+ }
+}

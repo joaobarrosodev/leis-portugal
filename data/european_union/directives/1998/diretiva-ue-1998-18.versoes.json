@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0018:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0018-20090715",
+ "dre_path": null,
+ "source_lastmod": "2009-07-15",
+ "versions": [
+  {
+   "date": "1998-05-15",
+   "future": false,
+   "celex": "31998L0018",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2009-07-15",
+   "future": false,
+   "celex": "01998L0018-20090715",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "ecf91fcae0f5f22b"
+   ]
+  }
+ ],
+ "fragments": {
+  "ecf91fcae0f5f22b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1998L0018 — PT — 15.07.2009 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31998L0018) [DIRECTIVA 98/18/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31998L0018) [de 17 de Março de 1998](http://publications.europa.eu/resource/celex/31998L0018) [relativa às regras e normas de segurança para os navios de passageiros](http://publications.europa.eu/resource/celex/31998L0018) (JO L 144, 15.5.1998, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/45/CE do Parlamento Europeu e do Conselho de 6 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0045) — L 163 — 1 — 25.6.2009"
+  }
+ }
+}

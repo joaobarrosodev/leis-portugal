@@ -1,0 +1,348 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:620759:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-1057358447",
+ "dre_path": "/dr/detalhe/decreto-lei/205-1989-620759",
+ "source_lastmod": "2026-04-27",
+ "versions": [
+  {
+   "date": "1990-05-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571244:por",
+     "title": "Decreto-Lei n.º 145/90",
+     "published": "1990-05-07",
+     "dre_path": "/dr/detalhe/decreto-lei/145-1990-571244"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "1057580975",
+    "1093632575",
+    "1093632775",
+    "1093632975",
+    "1093633175",
+    "1057581975",
+    "1057582175",
+    "1093633675",
+    "1093633875",
+    "1093633975",
+    "1093634075",
+    "1093634175",
+    "1093634275",
+    "1093634375"
+   ]
+  },
+  {
+   "date": "2002-07-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:142700:por",
+     "title": "Decreto-Lei n.º 158/2002",
+     "published": "2002-07-02",
+     "dre_path": "/dr/detalhe/decreto-lei/158-2002-142700"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1095287475",
+    "1095287675",
+    "1095287775",
+    "1095287875",
+    "1095287975",
+    "1095288075",
+    "1095288175",
+    "1095288375",
+    "1095288475",
+    "1095288575",
+    "1095288675",
+    "1095296775",
+    "1095296875",
+    "1095296975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1057580975": {
+   "fragment_id": "1057580875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A constituição de planos individuais de reforma permite incentivar a poupança de longo prazo completando os esquemas de segurança social proporcionados pelo Estado e os que têm natureza privada, como os derivados de fundos de pensões.\n\nTrata-se, aliás, de uma orientação estratégica nas políticas macroeconómicas e da Segurança Social que consiste em criar todo um conjunto de esquemas diversificados complementares do sistema geral de segurança social.\n\nA relevância da poupança na economia portuguesa justifica que, em determinadas condições, os planos individuais de poupança-reforma beneficiem de um regime fiscal que, por um lado, facilite a capitalização na fase de poupança e, por outro, não seja penalizante aquando dos reembolsos para os fins sociais que se pretende alcançar. Todavia, não assentam em isenção fiscal mas apenas no diferimento da tributação. Isto é, e dentro de limites determinados, as contribuições para o fundo não estão sujeitas a IRS, mas os reembolsos, que incluem o capital e rendimentos acumulados, estão sujeitos a imposto, em condições aliás favoráveis, segundo o regime previsto para as pensões e com uma regra especial para atenuar o efeito da progressividade no caso de resgate, parcial ou total, de uma só vez.\n\nDado o importante papel que se reconhece aos «planos poupança-reforma» (PPR) como fomentadores da poupança e como esquemas complementares de reforma com vista a uma maior justiça social, para além da necessidade de se evitarem situações de dupla tributação para os participantes, ficam isentos do IRC os rendimentos dos fundos de poupança-reforma (FPR). De igual modo, são considerados como custos ou perdas de exercício, nos termos do regime previsto no n.º 2 do artigo 38.º do Código do IRC, os gastos suportados pelas pessoas colectivas com a subscrição de certificados FPR em nome e a favor dos seus empregados.\n\nO referido regime fiscal é o constante do estatuto dos benefícios fiscais.\n\nA gestão destes planos, pela sua configuração e natureza, é atribuída a entidades especializadas, como são as sociedades gestoras de fundos de investimento e de fundos de pensões e as companhias de seguro do ramo vida. Pretende-se, também, incentivar a concorrência nesta matéria, a fim de serem oferecidas alternativas diferentes aos cidadãos sem pôr em risco a segurança das aplicações, razão pela qual tais planos deverão ser constituídos por um mínimo de 50% em títulos da dívida pública.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela alínea g) do artigo 4.º da Lei n.º 8/89, de 22 de Abril, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1093632575": {
+   "fragment_id": "1057581075",
+   "type": 11,
+   "heading": "Artigo 1 — Noção",
+   "in_force_from": "1990-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 1 — Noção\n\n1 - Os «planos poupança-reforma» (PPR) são constituídos por certificados nominativos de um fundo de poupança-reforma (FPR), que terá a forma de fundo de investimento, de fundo de pensões ou outros equiparados.\n\n2 - Os certificados de FPR podem ser subscritos por pessoas singulares ou por pessoas colectivas a favor e em nome dos seus trabalhadores.\n\n3 - Os certificados de FPR podem representar diversas unidades de participação do FPR, inteiras ou fraccionadas, as quais podem ser ou não desmaterializadas.\n\n4 - São enquadráveis no regime dos PPR os seguros individuais de poupança-reforma e outros congéneres, desde que, cumulativamente:\n\na) Cumpram os requisitos estabelecidos no presente diploma;\n\nb) As respectivas provisões matemáticas sejam representadas ou caucionadas, conforme os casos, com observância do disposto no artigo 3.º;\n\nc) Não admitam a concessão de empréstimos ou adiantamentos sobre a respectiva apólice;\n\nd) Aditem à respectiva denominação a sigla PPR.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1093632775": {
+   "fragment_id": "1057581275",
+   "type": 11,
+   "heading": "Artigo 2 — Gestão dos FPR",
+   "in_force_from": "1990-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 2 — Gestão dos FPR\n\n1 - São competentes para gerir os FPR constituídos sob a forma de fundo de investimento mobiliário as sociedades gestoras de fundos de investimento mobiliário autorizadas nos termos do Decreto-Lei n.º 229-C/88, de 4 de Julho.\n\n2 - São competentes para gerir os FPR constituídos sob a forma de fundo de pensões as sociedades gestoras de fundos de pensões autorizadas nos termos do Decreto-Lei n.º 396/86, de 25 de Novembro, bem como as companhias de seguros que explorem legalmente em Portugual o ramo «Vida».\n\n3 - Cada entidade gestora poderá gerir um ou mais FPR.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1093632975": {
+   "fragment_id": "1057581475",
+   "type": 11,
+   "heading": "Artigo 3 — Composição do fundo",
+   "in_force_from": "1990-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 3 — Composição do fundo\n\n1 - O património do fundo pode ser constituído por activos legalmente definidos para a composição do património dos fundos de investimento mobiliário, dos fundos de pensões e das provisões matemáticas dos seguros do ramo «Vida», consoante os casos, sem prejuízo do disposto no número seguinte.\n\n2 - Os activos representativos dos FPR obedecem, no tocante à sua composição relativa, às seguintes regras:\n\na) Um mínimo de 2% deve ser constituído por numerário, depósitos bancários, bilhetes do Tesouro, certificados de dívida CLIPs e ou aplicações nos mercados interbancários;\n\nb) Um mínimo de 50% é representando por títulos da dívida pública emitidos por prazo superior a um ano;\n\nc) Um máximo de 20% pode ser constituído por documentos representativos de empréstimos hipotecários, não podendo, porém, o empréstimo concedido a cada mutuário representar mais de 5%;\n\nd) Um máximo de 25% pode ser constituído por acções de sociedades anónimas cotadas em bolsas de valores, incluindo naquela percentagem a possibilidade de aplicação até 10% em títulos estrangeiros cotados em bolsas de valores dos Estados membros das Comunidades Europeias;\n\ne) Um máximo de 5% pode ser representado por acções de sociedades anónimas portuguesas não cotadas em bolsas de valores.\n\n3 - São mantidas as percentagens máximas legalmente fixadas para os fundos de investimento, para os fundos de pensões e para a representação das provisões matemáticas dos seguros do ramo «Vida», conforme os casos, quanto ao limite de títulos emitidos por uma só empresa.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1093633175": {
+   "fragment_id": "1057581675",
+   "type": 11,
+   "heading": "Artigo 4 — Reembolso dos certificados",
+   "in_force_from": "1990-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 4 — Reembolso dos certificados\n\n1 - Os participantes só podem exigir o reembolso do valor capitalizado dos certificados nos seguintes casos:\n\na) Reforma por velhice, desde que sejam decorridos cinco anos após o início da subscrição;\n\nb) Desemprego de longa duração;\n\nc) Incapacidade permanente para o trabalho qualquer que seja a sua causa;\n\nd) Doença grave;\n\ne) A partir dos 60 anos de idade, desde que a subscrição se tenha iniciado há pelo menos cinco anos.\n\n2 - No caso de morte do participante o reembolso poderá ser exigido pelos herdeiros.\n\n3 - O regime relativo à descrição objectiva dos casos previstos no n.º 1, bem como à sua confirmação, constará de regulamento a aprovar por portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1057581975": {
+   "fragment_id": "1057581875",
+   "type": 11,
+   "heading": "Artigo 5.º — Cálculo da unidade de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cálculo da unidade de participação\n\nO valor da unidade de participação é calculado pelo menos uma vez por mês, em dias a fixar no regulamento de gestão."
+  },
+  "1057582175": {
+   "fragment_id": "1057582075",
+   "type": 11,
+   "heading": "Artigo 6.º — Resultados do fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Resultados do fundo\n\nOs resultados obtidos pelo FPR são objecto de capitalização."
+  },
+  "1093633675": {
+   "fragment_id": "1093633575",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Transferência de entidade gestora",
+   "in_force_from": "1990-05-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 6.º-A — Transferência de entidade gestora\n\n1 - O valor capitalizado de certificados dos FPR constituídos sob a forma de fundo de investimento ou de fundo de pensões pode, a pedido expresso do participante, ser transferido para outra entidade gestora da mesma natureza, de acordo com a tramitação a definir pelo Banco de Portugal ou pelo Instituto de Seguros de Portugal, consoante os casos.\n\n2 - A entidade gestora dos FPR não pode dissolver-se sem primeiro ter garantido a continuidade da gestão do mesmo fundo por outra entidade habilitada, não podendo lavrar-se a respectiva escritura enquanto não se demonstrar a transferência da gestão.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1093633875": {
+   "fragment_id": "1057582275",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma de reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Forma de reembolso\n\n1 - Nos casos previstos no n.º 1 do artigo 4.º os participantes, ou os seus herdeiros, poderão optar por:\n\na) Reembolso da totalidade ou de parte dos certificados de forma periódica ou não;\n\nb) Pensão vitalícia mensal;\n\nc) Qualquer composição das duas modalidades anteriores.\n\n2 - As modalidades previstas nas alíneas b) e c) do número anterior deverão ser aprovadas pelo Instituto de Seguros de Portugal."
+  },
+  "1093633975": {
+   "fragment_id": "1057582475",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime fiscal",
+   "in_force_from": "1990-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 8.º — Regime fiscal\n\n1 - Os rendimentos dos FPR ficam isentos de IRC.\n\n2 - A disciplina do n.º 2 do artigo 38.º do Código do IRC é também aplicável quando os beneficiários forem fundos de poupança-reforma.\n\n3 - Para efeitos de IRS é dedutível ao rendimento colectável, e até à concorrência deste, o valor aplicado no respectivo ano em PPR, com o limite máximo do menor dos valores seguintes: 20% do rendimento total bruto englobado e 500 contos.\n\n4 - O reembolso dos certificados de FPR estão sujeitos a IRS nos seguintes termos:\n\na) De acordo com as regras aplicáveis aos rendimentos da categoria H do Código do IRS, quando a sua percepção ocorra sob a forma de rendas;\n\nb) Pela taxa correspondente a um quinto do seu valor, em caso de resgate pela totalidade;\n\nc) De acordo com as regras estabelecidas nas alíneas anteriores quanto à respectiva parte dos rendimentos, nos casos em que se verifiquem, simultaneamente, as modalidades nelas referidas.\n\n5 - São isentas do imposto sobre sucessões e doações as transmissões, por morte, dos valores acumulados afectos a um PRP, a favor do cônjuge sobrevivo, de filhos ou de adoptados, no caso de adopção plena.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1093634075": {
+   "fragment_id": "1057582675",
+   "type": 11,
+   "heading": "Artigo 9.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fiscalização\n\nOs FPR e as respectivas entidades gestoras ficarão sujeitos à fiscalização do Banco de Portugal ou do Instituto de Seguros de Portugal, consoante a sua natureza."
+  },
+  "1093634175": {
+   "fragment_id": "1057582875",
+   "type": 11,
+   "heading": "Artigo 10.º — Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contas\n\n1 - A entidade gestora deverá publicar, com periodicidade mensal, no boletim de uma das bolsas de valores, a composição discriminada dos valores que integram o património do fundo e o número de unidades de participação em circulação.\n\n2 - A contabilidade dos fundos é organizada de harmonia com as normas e instruções emitidas pelo Banco de Portugal e pelo Instituto de Seguros de Portugal."
+  },
+  "1093634275": {
+   "fragment_id": "1057583075",
+   "type": 11,
+   "heading": "Artigo 11.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Legislação aplicável\n\nAplica-se aos PPR e FPR a legislação dos fundos de investimento, fundos de pensões ou actividade seguradora, conforme os casos, com as especificidades referidas neste diploma."
+  },
+  "1093634375": {
+   "fragment_id": "1057583275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.\n\nPromulgado em 16 de Junho de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Junho de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1095287475": {
+   "fragment_id": "1057580875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+   ],
+   "markdown": "A constituição de planos individuais de reforma permite incentivar a poupança de longo prazo completando os esquemas de segurança social proporcionados pelo Estado e os que têm natureza privada, como os derivados de fundos de pensões.\n\nTrata-se, aliás, de uma orientação estratégica nas políticas macroeconómicas e da Segurança Social que consiste em criar todo um conjunto de esquemas diversificados complementares do sistema geral de segurança social.\n\nA relevância da poupança na economia portuguesa justifica que, em determinadas condições, os planos individuais de poupança-reforma beneficiem de um regime fiscal que, por um lado, facilite a capitalização na fase de poupança e, por outro, não seja penalizante aquando dos reembolsos para os fins sociais que se pretende alcançar. Todavia, não assentam em isenção fiscal mas apenas no diferimento da tributação. Isto é, e dentro de limites determinados, as contribuições para o fundo não estão sujeitas a IRS, mas os reembolsos, que incluem o capital e rendimentos acumulados, estão sujeitos a imposto, em condições aliás favoráveis, segundo o regime previsto para as pensões e com uma regra especial para atenuar o efeito da progressividade no caso de resgate, parcial ou total, de uma só vez.\n\nDado o importante papel que se reconhece aos «planos poupança-reforma» (PPR) como fomentadores da poupança e como esquemas complementares de reforma com vista a uma maior justiça social, para além da necessidade de se evitarem situações de dupla tributação para os participantes, ficam isentos do IRC os rendimentos dos fundos de poupança-reforma (FPR). De igual modo, são considerados como custos ou perdas de exercício, nos termos do regime previsto no n.º 2 do artigo 38.º do Código do IRC, os gastos suportados pelas pessoas colectivas com a subscrição de certificados FPR em nome e a favor dos seus empregados.\n\nO referido regime fiscal é o constante do estatuto dos benefícios fiscais.\n\nA gestão destes planos, pela sua configuração e natureza, é atribuída a entidades especializadas, como são as sociedades gestoras de fundos de investimento e de fundos de pensões e as companhias de seguro do ramo vida. Pretende-se, também, incentivar a concorrência nesta matéria, a fim de serem oferecidas alternativas diferentes aos cidadãos sem pôr em risco a segurança das aplicações, razão pela qual tais planos deverão ser constituídos por um mínimo de 50% em títulos da dívida pública.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela alínea g) do artigo 4.º da Lei n.º 8/89, de 22 de Abril, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+  },
+  "1095287675": {
+   "fragment_id": "1057581075",
+   "type": 11,
+   "heading": "Artigo 1 — Noção",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 1 — Noção\n\n1 - Os «planos poupança-reforma» (PPR) são constituídos por certificados nominativos de um fundo de poupança-reforma (FPR), que terá a forma de fundo de investimento, de fundo de pensões ou outros equiparados.\n\n2 - Os certificados de FPR podem ser subscritos por pessoas singulares ou por pessoas colectivas a favor e em nome dos seus trabalhadores.\n\n3 - Os certificados de FPR podem representar diversas unidades de participação do FPR, inteiras ou fraccionadas, as quais podem ser ou não desmaterializadas.\n\n4 - São enquadráveis no regime dos PPR os seguros individuais de poupança-reforma e outros congéneres, desde que, cumulativamente:\n\na) Cumpram os requisitos estabelecidos no presente diploma;\n\nb) As respectivas provisões matemáticas sejam representadas ou caucionadas, conforme os casos, com observância do disposto no artigo 3.º;\n\nc) Não admitam a concessão de empréstimos ou adiantamentos sobre a respectiva apólice;\n\nd) Aditem à respectiva denominação a sigla PPR.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1095287775": {
+   "fragment_id": "1057581275",
+   "type": 11,
+   "heading": "Artigo 2 — Gestão dos FPR",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 2 — Gestão dos FPR\n\n1 - São competentes para gerir os FPR constituídos sob a forma de fundo de investimento mobiliário as sociedades gestoras de fundos de investimento mobiliário autorizadas nos termos do Decreto-Lei n.º 229-C/88, de 4 de Julho.\n\n2 - São competentes para gerir os FPR constituídos sob a forma de fundo de pensões as sociedades gestoras de fundos de pensões autorizadas nos termos do Decreto-Lei n.º 396/86, de 25 de Novembro, bem como as companhias de seguros que explorem legalmente em Portugual o ramo «Vida».\n\n3 - Cada entidade gestora poderá gerir um ou mais FPR.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1095287875": {
+   "fragment_id": "1057581475",
+   "type": 11,
+   "heading": "Artigo 3 — Composição do fundo",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 3 — Composição do fundo\n\n1 - O património do fundo pode ser constituído por activos legalmente definidos para a composição do património dos fundos de investimento mobiliário, dos fundos de pensões e das provisões matemáticas dos seguros do ramo «Vida», consoante os casos, sem prejuízo do disposto no número seguinte.\n\n2 - Os activos representativos dos FPR obedecem, no tocante à sua composição relativa, às seguintes regras:\n\na) Um mínimo de 2% deve ser constituído por numerário, depósitos bancários, bilhetes do Tesouro, certificados de dívida CLIPs e ou aplicações nos mercados interbancários;\n\nb) Um mínimo de 50% é representando por títulos da dívida pública emitidos por prazo superior a um ano;\n\nc) Um máximo de 20% pode ser constituído por documentos representativos de empréstimos hipotecários, não podendo, porém, o empréstimo concedido a cada mutuário representar mais de 5%;\n\nd) Um máximo de 25% pode ser constituído por acções de sociedades anónimas cotadas em bolsas de valores, incluindo naquela percentagem a possibilidade de aplicação até 10% em títulos estrangeiros cotados em bolsas de valores dos Estados membros das Comunidades Europeias;\n\ne) Um máximo de 5% pode ser representado por acções de sociedades anónimas portuguesas não cotadas em bolsas de valores.\n\n3 - São mantidas as percentagens máximas legalmente fixadas para os fundos de investimento, para os fundos de pensões e para a representação das provisões matemáticas dos seguros do ramo «Vida», conforme os casos, quanto ao limite de títulos emitidos por uma só empresa.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1095287975": {
+   "fragment_id": "1057581675",
+   "type": 11,
+   "heading": "Artigo 4 — Reembolso dos certificados",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 4 — Reembolso dos certificados\n\n1 - Os participantes só podem exigir o reembolso do valor capitalizado dos certificados nos seguintes casos:\n\na) Reforma por velhice, desde que sejam decorridos cinco anos após o início da subscrição;\n\nb) Desemprego de longa duração;\n\nc) Incapacidade permanente para o trabalho qualquer que seja a sua causa;\n\nd) Doença grave;\n\ne) A partir dos 60 anos de idade, desde que a subscrição se tenha iniciado há pelo menos cinco anos.\n\n2 - No caso de morte do participante o reembolso poderá ser exigido pelos herdeiros.\n\n3 - O regime relativo à descrição objectiva dos casos previstos no n.º 1, bem como à sua confirmação, constará de regulamento a aprovar por portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1095288075": {
+   "fragment_id": "1057581875",
+   "type": 11,
+   "heading": "Artigo 5.º — Cálculo da unidade de participação",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+   ],
+   "markdown": "###### Artigo 5.º — Cálculo da unidade de participação\n\nO valor da unidade de participação é calculado pelo menos uma vez por mês, em dias a fixar no regulamento de gestão.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+  },
+  "1095288175": {
+   "fragment_id": "1057582075",
+   "type": 11,
+   "heading": "Artigo 6.º — Resultados do fundo",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+   ],
+   "markdown": "###### Artigo 6.º — Resultados do fundo\n\nOs resultados obtidos pelo FPR são objecto de capitalização.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+  },
+  "1095288375": {
+   "fragment_id": "1093633575",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Transferência de entidade gestora",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 6.º-A — Transferência de entidade gestora\n\n1 - O valor capitalizado de certificados dos FPR constituídos sob a forma de fundo de investimento ou de fundo de pensões pode, a pedido expresso do participante, ser transferido para outra entidade gestora da mesma natureza, de acordo com a tramitação a definir pelo Banco de Portugal ou pelo Instituto de Seguros de Portugal, consoante os casos.\n\n2 - A entidade gestora dos FPR não pode dissolver-se sem primeiro ter garantido a continuidade da gestão do mesmo fundo por outra entidade habilitada, não podendo lavrar-se a respectiva escritura enquanto não se demonstrar a transferência da gestão.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1095288475": {
+   "fragment_id": "1057582275",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma de reembolso",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+   ],
+   "markdown": "###### Artigo 7.º — Forma de reembolso\n\n1 - Nos casos previstos no n.º 1 do artigo 4.º os participantes, ou os seus herdeiros, poderão optar por:\n\na) Reembolso da totalidade ou de parte dos certificados de forma periódica ou não;\n\nb) Pensão vitalícia mensal;\n\nc) Qualquer composição das duas modalidades anteriores.\n\n2 - As modalidades previstas nas alíneas b) e c) do número anterior deverão ser aprovadas pelo Instituto de Seguros de Portugal.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+  },
+  "1095288575": {
+   "fragment_id": "1057582475",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime fiscal",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+   ],
+   "markdown": "###### Artigo 8.º — Regime fiscal\n\n1 - Os rendimentos dos FPR ficam isentos de IRC.\n\n2 - A disciplina do n.º 2 do artigo 38.º do Código do IRC é também aplicável quando os beneficiários forem fundos de poupança-reforma.\n\n3 - Para efeitos de IRS é dedutível ao rendimento colectável, e até à concorrência deste, o valor aplicado no respectivo ano em PPR, com o limite máximo do menor dos valores seguintes: 20% do rendimento total bruto englobado e 500 contos.\n\n4 - O reembolso dos certificados de FPR estão sujeitos a IRS nos seguintes termos:\n\na) De acordo com as regras aplicáveis aos rendimentos da categoria H do Código do IRS, quando a sua percepção ocorra sob a forma de rendas;\n\nb) Pela taxa correspondente a um quinto do seu valor, em caso de resgate pela totalidade;\n\nc) De acordo com as regras estabelecidas nas alíneas anteriores quanto à respectiva parte dos rendimentos, nos casos em que se verifiquem, simultaneamente, as modalidades nelas referidas.\n\n5 - São isentas do imposto sobre sucessões e doações as transmissões, por morte, dos valores acumulados afectos a um PRP, a favor do cônjuge sobrevivo, de filhos ou de adoptados, no caso de adopção plena.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145/90 - Diário da República n.º 104/1990, Série I de 1990-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244), em vigor a partir de 1990-05-12."
+  },
+  "1095288675": {
+   "fragment_id": "1057582675",
+   "type": 11,
+   "heading": "Artigo 9.º — Fiscalização",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+   ],
+   "markdown": "###### Artigo 9.º — Fiscalização\n\nOs FPR e as respectivas entidades gestoras ficarão sujeitos à fiscalização do Banco de Portugal ou do Instituto de Seguros de Portugal, consoante a sua natureza.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+  },
+  "1095296775": {
+   "fragment_id": "1057582875",
+   "type": 11,
+   "heading": "Artigo 10.º — Contas",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+   ],
+   "markdown": "###### Artigo 10.º — Contas\n\n1 - A entidade gestora deverá publicar, com periodicidade mensal, no boletim de uma das bolsas de valores, a composição discriminada dos valores que integram o património do fundo e o número de unidades de participação em circulação.\n\n2 - A contabilidade dos fundos é organizada de harmonia com as normas e instruções emitidas pelo Banco de Portugal e pelo Instituto de Seguros de Portugal.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+  },
+  "1095296875": {
+   "fragment_id": "1057583075",
+   "type": 11,
+   "heading": "Artigo 11.º — Legislação aplicável",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+   ],
+   "markdown": "###### Artigo 11.º — Legislação aplicável\n\nAplica-se aos PPR e FPR a legislação dos fundos de investimento, fundos de pensões ou actividade seguradora, conforme os casos, com as especificidades referidas neste diploma.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+  },
+  "1095296975": {
+   "fragment_id": "1057583275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2002-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.\n\nPromulgado em 16 de Junho de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Junho de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 158/2002 - Diário da República n.º 150/2002, Série I-A de 2002-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2002-142700), em vigor a partir de 2002-07-03."
+  }
+ }
+}

@@ -1,0 +1,224 @@
+---
+schema_version: '1.0'
+id: pt:dre:477158:por
+title: Portaria n.º 9/2012
+short_title: null
+summary: Regulamenta os termos e a tramitação do parecer prévio vinculativo dos membros do Governo responsáveis pelas áreas
+  das finanças e da Administração Pública e revoga a Portaria n.º 4-A/2011, de 3 de janeiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 9/2012
+official_date: null
+publication_date: '2012-01-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 7/2012, Série I de 2012-01-10
+  number: '7'
+  series: I
+  supplement: null
+  pages: 52 - 54
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/01/00700/0005200054.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/9/2012/01/10/p/dre/pt/html
+  oj: null
+  dre: '477158'
+  dre_path: /dr/detalhe/portaria/9-2012-477158
+  internal: pt:dre:477158:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-2012-477158
+  metadata_url: https://data.dre.pt/eli/port/9/2012/01/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-2012-477158
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:54:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bf8551200e64196c639f7b4de2757435f172b1243c0b15ea505c5af9cb80abc4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Consultoria
+- Contratação Pública
+- Contrato Administrativo
+- Contrato de Prestação de Serviços
+- Despesas Públicas
+- Documento Eletrónico
+- Fiscalização
+- Inspeção Geral de Finanças
+- Ministro de Estado e das Finanças
+- Parecer
+relationships:
+- type: amended_by
+  target: pt:dre:256469:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:304719:por
+  label: null
+  source: http://data.dre.pt/eli/lei/60-a/2011/11/30/p/dre
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: http://data.dre.pt/eli/lei/34/2010/09/02/p/dre
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: pt:dre:406891:por
+  label: null
+  source: http://data.dre.pt/eli/port/4-a/2011/01/03/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
+- type: cites
+  target: pt:dre:671587:por
+  label: null
+  source: http://data.dre.pt/eli/lei/48/2011/08/26/p/dre
+- type: repealed_by
+  target: pt:dre:256469:por
+  label: "Revogada, a partir de 18.01.2013, pela PORT.16/2013.17.01.2013.MF, DR.IS [12] de 17.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/16-2013-256469
+  date: '2013-01-17'
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:54:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 9/2012
+
+de 10 de janeiro
+
+A [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, estipula no artigo 26.º, para o ano de 2012, a exigência de parecer prévio vinculativo dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública necessário à celebração ou renovação de contratos de aquisição de serviços celebrados por órgãos e serviços da Administração Pública abrangidos pelo âmbito de aplicação da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, e pela [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, mantendo-se, nos termos do n.º 1 do artigo 26.º e do artigo 20.º da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, a aplicação da redução remuneratória prevista no artigo 19.º da [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, alterada pelas Leis n.os [48/2011](https://diariodarepublica.pt/dr/detalhe/lei/48-2011-671587), de 26 de agosto, e [60-A/2011](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), de 30 de novembro. Estas exigências têm aplicação aos contratos de tarefa e de avença, nos termos já previstos no artigo 35.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), bem como à contratação de aquisições de outros serviços, designadamente de consultadoria técnica. Cumpre salientar que o tipo de contrato administrativo em que se consubstancia a aquisição de serviços não se confunde com empreitadas de obras públicas, aquisições de bens, concessões, locação de bens ou parcerias público-privadas.
+
+Considerando a previsão no n.º 4 do artigo 26.º da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, bem como nos n.os 4 e 5 do artigo 35.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, de uma portaria regulamentadora dos termos e tramitação do parecer prévio dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública necessário às aquisições de serviços em questão, o Governo adota, para 2012, pela presente portaria, as normas de regulamentação para a administração central do Estado, prosseguindo a estratégia de controlo acrescido nas contratações públicas de aquisições de serviços, alcançando-se, por essa via, o objetivo global de redução da despesa, acautelando-se, de igual modo, a adequada agilização procedimental deste tipo de parecer vinculativo.
+
+Assim:
+
+Ao abrigo do disposto no n.º 4 do artigo 26.º da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e nos n.os 4 e 5 do artigo 35.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, e pela [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, manda o Governo, pelo Ministro de Estado e das Finanças, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria regulamenta os termos e a tramitação do parecer prévio vinculativo dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, previsto no n.º 4 do artigo 26.º da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e nos n.os 4 e 5 do artigo 35.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, e [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+Os termos e tramitação previstos na presente portaria aplicam-se a todos os contratos de aquisição de serviços, nomeadamente nas modalidades de tarefa e de avença e, ou, cujo objeto seja a consultadoria técnica, designadamente jurídica, arquitetónica, informática ou de engenharia, celebrados por órgãos e serviços abrangidos pelo âmbito de aplicação da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, e [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro.
+
+###### Artigo 3.º — Pedido de parecer
+
+1 - Antes da decisão de contratar, o dirigente máximo do órgão ou serviço solicita aos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública a emissão de parecer.
+
+2 - O pedido de parecer é instruído com os seguintes elementos:
+
+a) Descrição do contrato e seu objeto, demonstrando não se tratar de trabalho subordinado, bem como a inconveniência do recurso a modalidade de relação jurídica de emprego público constituída ou a constituir e a inexistência de pessoal em situação de mobilidade especial apto para o desempenho das funções subjacentes à contratação em causa;
+
+b) Declaração de confirmação de cabimento orçamental emitida pela delegação da Direção-Geral do Orçamento, ou pelo Instituto de Gestão Financeira da Segurança Social, I. P., quando se trate de organismo que integre o perímetro da segurança social aquando do respetivo pedido de autorização;
+
+c) Indicação e fundamentação da escolha do procedimento de formação do contrato;
+
+d) Informação sobre a contraparte, designadamente no que respeita à relação ou à participação de ex-colaboradores do órgão ou serviço, bem como do respetivo cônjuge, algum parente ou afim em linha reta ou até ao 2.º grau da linha colateral, ou de qualquer pessoa com quem viva em economia comum;
+
+e) Demonstração do cumprimento e aplicação da redução remuneratória prevista no artigo 19.º da [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, alterada pelas Leis n.os [48/2011](https://diariodarepublica.pt/dr/detalhe/lei/48-2011-671587), de 26 de agosto, e [60-A/2011](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2011-304719), de 30 de novembro, atento o disposto no n.º 1 do artigo 20.º e nos n.os 1, 2, 3 e 7 do artigo 26.º, ambos da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, juntando, para o efeito, os elementos e cálculos relevantes, face ao contrato em renovação ou anteriormente celebrado sempre que a prestação de serviços tenha idêntico objetou e, ou, contraparte.
+
+3 - A obrigação de demonstração de inexistência de pessoal em situação de mobilidade especial prevista na parte final da alínea a) do número anterior entra em vigor nos termos e condições previstos na Portaria a que se refere o n.º 2 do artigo 33.º-A da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de dezembro, na redação introduzida pela [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro.
+
+4 - O pedido de parecer para autorização excecional de celebração de um número máximo de contratos a que se refere o n.º 9 do artigo 26.º da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, além dos elementos referidos no número anterior, é ainda instruído com fundamentação e demonstração bastante de que o mesmo é essencial à prossecução das atribuições do órgão ou serviço, do não aumento de encargos, da não prorrogação ou renovação automática e proposta de cumprimento de obrigações de comunicação e registo.
+
+###### Artigo 4.º — Parecer genérico e obrigação de comunicação
+
+1 - É concedido parecer genérico favorável à celebração de contratos de aquisição de serviços nas situações previstas no artigo anterior, desde que não seja ultrapassado o montante anual de 5 000 (euro) (sem IVA) a contratar com a mesma contraparte e o trabalho a executar se enquadre numa das seguintes situações:
+
+a) Ações de formação que não ultrapassem cento e trinta e duas horas;
+
+b) Aquisição de serviços cuja execução se conclua no prazo de vinte dias a contar da notificação da adjudicação.
+
+2 - É concedido parecer genérico favorável à celebração ou renovação de contratos de prestação de serviços de manutenção ou assistência a máquinas, equipamentos ou instalações, pelo prazo máximo de um ano e desde que não seja ultrapassado o montante anual de 5 000 (euro) (sem IVA) a contratar com a mesma contraparte.
+
+3 - Os órgãos e serviços que contratem ao abrigo dos números anteriores devem comunicar ao membro do Governo responsável pelas áreas das finanças e da Administração Pública, até ao final do mês seguinte àquele em que foram adjudicados, os contratos celebrados, juntando os elementos previstos no n.º 2 do artigo anterior.
+
+4 - O disposto no presente artigo pode ser, com as adaptações necessárias, aplicado a outras aquisições de serviços através de despacho dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.
+
+###### Artigo 5.º — Apresentação de pedido e comunicação
+
+1 - A apresentação do pedido de parecer ou de comunicação, bem como as notificações ou envios que se lhes seguirem, são exclusivamente feitas por via eletrónica, através do endereço contratacaoservicos@mf.gov.pt.
+
+2 - Os pedidos são apresentados exclusivamente com recurso ao preenchimento e envio dos formulários disponíveis para download no sítio www.dgaep.gov.pt com as instruções necessárias.
+
+###### Artigo 6.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto na presente portaria compete à Inspeção-Geral de Finanças.
+
+2 - Para efeitos de efetivação da responsabilidade civil, financeira e disciplinar e sem prejuízo do disposto no n.º 10 do artigo 26.º da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e no artigo 36.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, os órgãos ou serviços devem manter organizados os processos de celebração dos contratos de aquisição de serviços de que sejam parte por forma a poder avaliar-se o cumprimentos e observância do regime legal de aquisição de serviços e o pleno enquadramento dos contratos nos pressupostos que levam à emissão de parecer ou obrigação de comunicação a que se refere a presente portaria.
+
+###### Artigo 7.º — Norma revogatória
+
+É revogada a [Portaria n.º 4-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/4-a-2011-406891), de 3 de janeiro.
+
+###### Artigo 8.º — Aplicação no tempo
+
+A presente portaria aplica-se aos pareceres solicitados a partir de 1 de janeiro de 2012, bem como a todos os contratos de aquisição de serviços que, por via de celebração ou renovação, produzam efeitos a partir de 1 de janeiro de 2012, devendo os órgãos ou serviços, com pedido de parecer pendente de apreciação ou já emitido, condicionado à junção de declaração de confirmação de cabimento orçamental definitiva para 2012, juntar, até ao final do mês de janeiro de 2012, através do endereço eletrónico contratacaoservicos@mf.gov.pt, o elemento previsto na alínea b) do n.º 2 do artigo 3.º, sob pena de devolução do processo para esse efeito e, ou, aplicação do disposto no n.º 10 do artigo 26.º da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro.
+
+###### Artigo 9.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 29 de dezembro de 2011.

@@ -1,0 +1,124 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:303672:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-162110612",
+ "dre_path": "/dr/detalhe/decreto-lei/339-1991-303672",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "162159984",
+    "162159978"
+   ]
+  },
+  {
+   "date": "1993-11-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:664316:por",
+     "title": "Decreto-Lei n.º 372/93",
+     "published": "1993-10-29",
+     "dre_path": "/dr/detalhe/decreto-lei/372-1993-664316"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "162159977",
+    "162159983",
+    "162159979"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "162159984",
+    "162159985",
+    "162159986"
+   ]
+  }
+ ],
+ "fragments": {
+  "162159984": {
+   "fragment_id": "162110613",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 339/91\n\nde 10 de Setembro\n\nO quadro legal actual do transporte aéreo regular internacional ainda impede os transportadores privados nacionais de operar em rotas já acessíveis a estrangeiros, em resultado da liberalização recente ocorrida na CEE.\n\nPretende-se, assim, permitir o acesso às empresas privadas a todo o transporte aéreo regular internacional, com as únicas limitações resultantes da política aérea comunitária e dos acordos bilaterais a que Portugal está vinculado.\n\nIgualmente se reveste de inegável interesse a abertura a entidades privadas da exploração de aeroportos, por forma a permitir a dinamização deste sector, quando tal se justifique.\n\nNo que concerne ao serviço público de transporte ferroviário, atentas as suas especiais características e importância para o desenvolvimento do País, entende-se ser de manter limitado ao Estado o acesso a essa actividade, possibilitando-se, no entanto, a concessão a entidades privadas, quando tal surja como a forma mais adequada de garantir, em níveis de qualidade e eficiência, o serviço público a prestar.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 28/91, de 17 de Julho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo único. O artigo 4.º da Lei n.º 46/77, de 8 de Julho, com a redacção dada pelo Decreto-Lei n.º 449/88, de 10 de Dezembro, passa a ter a seguinte redacção:"
+  },
+  "162159978": {
+   "fragment_id": "162110614",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - É vedado a empresas privadas e a outras entidades da mesma natureza o acesso às seguintes actividades económicas:\n\na) Captação, tratamento e distribuição de água para consumo público, através de redes fixas;\n\nb) Saneamento básico;\n\nc) Comunicações por via postal;\n\nd) Telecomunicações, com excepção dos serviços complementares da rede básica e dos serviços de valor acrescentado;\n\ne) Transportes ferroviários explorados em regime de serviço público, salvo quando concessionadas;\n\nf) Exploração de portos marítimos.\n\n2 - As actividades de telecomunicações referidas na alínea d) do n.º 1 e que se mantêm vedadas a empresas privadas e a outras entidades da mesma natureza podem ser exercidas por empresas que resultem da associação de entidades do sector público, em posição obrigatoriamente maioritária no capital social da nova sociedade, com outras entidades."
+  },
+  "162159977": {
+   "fragment_id": "162110613",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 339/91\n\nde 10 de Setembro\n\nO quadro legal actual do transporte aéreo regular internacional ainda impede os transportadores privados nacionais de operar em rotas já acessíveis a estrangeiros, em resultado da liberalização recente ocorrida na CEE.\n\nPretende-se, assim, permitir o acesso às empresas privadas a todo o transporte aéreo regular internacional, com as únicas limitações resultantes da política aérea comunitária e dos acordos bilaterais a que Portugal está vinculado.\n\nIgualmente se reveste de inegável interesse a abertura a entidades privadas da exploração de aeroportos, por forma a permitir a dinamização deste sector, quando tal se justifique.\n\nNo que concerne ao serviço público de transporte ferroviário, atentas as suas especiais características e importância para o desenvolvimento do País, entende-se ser de manter limitado ao Estado o acesso a essa actividade, possibilitando-se, no entanto, a concessão a entidades privadas, quando tal surja como a forma mais adequada de garantir, em níveis de qualidade e eficiência, o serviço público a prestar.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 28/91, de 17 de Julho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo único. O artigo 4.º da Lei n.º 46/77, de 8 de Julho, com a redacção dada pelo Decreto-Lei n.º 449/88, de 10 de Dezembro, passa a ter a seguinte redacção:"
+  },
+  "162159983": {
+   "fragment_id": "162110614",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1993-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 372/93 - Diário da República n.º 254/1993, Série I-A de 1993-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1993-664316), em vigor a partir de 1993-11-02"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1 - É vedado a empresas privadas e a outras entidades da mesma natureza o acesso às seguintes actividades económicas:\n\na) Captação, tratamento e distribuição de água para consumo público, recolha, tratamento e rejeição de efluentes, em ambos os casos através de redes fixas, e recolha e tratamento de resíduos sólidos, no caso de sistemas multimunicipais;\n\nb) Captação, tratamento e distribuição de água para consumo público, recolha, tratamento e rejeição de efluentes, em ambos os casos através de redes fixas, e recolha e tratamento de resíduos sólidos, no caso de sistemas municipais, salvo quando concessionadas;\n\nc) Comunicações por via postal;\n\nd) Telecomunicações, com excepção dos serviços complementares da rede básica e dos serviços de valor acrescentado;\n\ne) Transportes ferroviários explorados em regime de serviço público, salvo quando concessionadas;\n\nf) Exploração de portos marítimos.\n\n2 - Para o efeito do disposto nas alíneas a) e b) do número anterior, consideram-se, respectivamente, sistemas multimunicipais os que sirvam pelo menos dois municípios e exijam um investimento predominante a efectuar pelo Estado em função de razões de interesse nacional, e sistemas municipais todos os demais, bem como os sistemas geridos através de associações de municípios.\n\n3 - As actividades referidas na alínea a) do n.º 1 e que se mantêm vedadas a empresas privadas e a outras entidades da mesma natureza podem ser exercidas, em regime de concessão, a outorgar pelo Estado, por empresas que resultem da associação de entidades do sector público, designadamente autarquias locais, em posição obrigatoriamente maioritária no capital social da nova sociedade, com outras entidades privadas.\n\n4 - As actividades de telecomunicações referidas na alínea d) do n.º 1 e que se mantêm vedadas a empresas privadas e a outras entidades da mesma natureza podem ser exercidas por empresas que resultem da associação de entidades do sector público, em posição obrigatoriamente maioritária no capital social da nova sociedade, com outras entidades.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 372/93 - Diário da República n.º 254/1993, Série I-A de 1993-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1993-664316), em vigor a partir de 1993-11-02"
+  },
+  "162159979": {
+   "fragment_id": "162110615",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Julho de 1991. - Aníbal António Cavaco Silva - José Oliveira Costa - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 22 de Agosto de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Agosto de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "162159985": {
+   "fragment_id": "162110614",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 372/93 - Diário da República n.º 254/1993, Série I-A de 1993-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1993-664316), em vigor a partir de 1993-11-02"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1 - É vedado a empresas privadas e a outras entidades da mesma natureza o acesso às seguintes actividades económicas:\n\na) Captação, tratamento e distribuição de água para consumo público, recolha, tratamento e rejeição de efluentes, em ambos os casos através de redes fixas, e recolha e tratamento de resíduos sólidos, no caso de sistemas multimunicipais;\n\nb) Captação, tratamento e distribuição de água para consumo público, recolha, tratamento e rejeição de efluentes, em ambos os casos através de redes fixas, e recolha e tratamento de resíduos sólidos, no caso de sistemas municipais, salvo quando concessionadas;\n\nc) Comunicações por via postal;\n\nd) Telecomunicações, com excepção dos serviços complementares da rede básica e dos serviços de valor acrescentado;\n\ne) Transportes ferroviários explorados em regime de serviço público, salvo quando concessionadas;\n\nf) Exploração de portos marítimos.\n\n2 - Para o efeito do disposto nas alíneas a) e b) do número anterior, consideram-se, respectivamente, sistemas multimunicipais os que sirvam pelo menos dois municípios e exijam um investimento predominante a efectuar pelo Estado em função de razões de interesse nacional, e sistemas municipais todos os demais, bem como os sistemas geridos através de associações de municípios.\n\n3 - As actividades referidas na alínea a) do n.º 1 e que se mantêm vedadas a empresas privadas e a outras entidades da mesma natureza podem ser exercidas, em regime de concessão, a outorgar pelo Estado, por empresas que resultem da associação de entidades do sector público, designadamente autarquias locais, em posição obrigatoriamente maioritária no capital social da nova sociedade, com outras entidades privadas.\n\n4 - As actividades de telecomunicações referidas na alínea d) do n.º 1 e que se mantêm vedadas a empresas privadas e a outras entidades da mesma natureza podem ser exercidas por empresas que resultem da associação de entidades do sector público, em posição obrigatoriamente maioritária no capital social da nova sociedade, com outras entidades.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 372/93 - Diário da República n.º 254/1993, Série I-A de 1993-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1993-664316), em vigor a partir de 1993-11-02"
+  },
+  "162159986": {
+   "fragment_id": "162110615",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Julho de 1991. - Aníbal António Cavaco Silva - José Oliveira Costa - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 22 de Agosto de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Agosto de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

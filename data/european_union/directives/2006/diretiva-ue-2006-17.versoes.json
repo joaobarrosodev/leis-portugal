@@ -1,0 +1,464 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006L0017:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0017-20121217",
+ "dre_path": null,
+ "source_lastmod": "2012-12-17",
+ "versions": [
+  {
+   "date": "2006-02-09",
+   "future": false,
+   "celex": "32006L0017",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b8acfb34b2055d12",
+    "3d7abcf3afcc8523",
+    "eeef15db229e4d46",
+    "62fbbef1f26c7a23",
+    "26a00930332b5fc6",
+    "47227e6143ac4a5e",
+    "e711a8773720127f",
+    "7cced545f1b84114",
+    "5d8900304da0e73c",
+    "dded3e05db5339ed",
+    "bc6633f9302f9380"
+   ]
+  },
+  {
+   "date": "2012-12-17",
+   "future": false,
+   "celex": "02006L0017-20121217",
+   "acts": [
+    {
+     "id": "eu:celex:32012L0039:por",
+     "title": "DIRETIVA 2012/39/UE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de novembro de 2012",
+     "published": null,
+     "celex": "32012L0039"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 9.º — Destinatários",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita CRITÉRIOS DE SELECÇÃO DE DADORES DE TECIDOS E/OU CÉLULAS (EXCEPTO DADORES DE CÉLULAS REPRODUTIVAS) REFERIDOS NA ALÍNEA a) DO ARTIGO 3.º",
+    "Adita 1. Dadores mortos",
+    "Adita 1.1. Critérios gerais de exclusão",
+    "Adita 1.2. Critérios suplementares de exclusão de crianças dadoras mortas",
+    "Adita 2. Dadores vivos",
+    "Adita 2.1. Dador vivo para fins autólogos",
+    "Adita 2.2. Dador vivo para fins alogénicos",
+    "Adita ANEXO II",
+    "Adita ANÁLISES LABORATORIAIS EXIGIDAS A DADORES (EXCEPTO DADORES DE CÉLULAS REPRODUTIVAS) REFERIDAS NO N.º 1 DO ARTIGO 4.º",
+    "Adita 1. Análises biológicas exigidas aos dadores",
+    "Adita 2. Requisitos gerais a observar na determinação dos marcadores biológicos",
+    "Adita ANEXO III",
+    "Adita CRITÉRIOS DE SELECÇÃO E ANÁLISES LABORATORIAIS EXIGIDAS A DADORES DE CÉLULAS REPRODUTIVAS, REFERIDOS NA ALÍNEA b) DO ARTIGO 3.º E NO N.º 2 DO ARTIGO 4.º",
+    "Adita 1. Dádivas entre parceiros para utilização directa",
+    "Adita 2. Dádivas entre parceiros para utilização não directa",
+    "Adita 3. Dádivas não provenientes de parceiros",
+    "Adita 4. Requisitos gerais a observar na determinação dos marcadores biológicos",
+    "Adita ANEXO IV",
+    "Adita PROCEDIMENTOS DE DÁDIVA E COLHEITA DE CÉLULAS E/OU TECIDOS E RECEPÇÃO NO SERVIÇO MANIPULADOR DE TECIDOS, REFERIDOS NO ARTIGO 5.º",
+    "Adita 1. Procedimentos de dádiva e colheita",
+    "Adita 1.1. Consentimento e identificação do dador",
+    "Adita 1.2. Avaliação do dador (este ponto não se aplica a dádivas entre parceiros de células reprodutivas nem a dadores para fins autólogos)",
+    "Adita 1.3. Procedimentos de recolha de tecidos e células",
+    "Adita 1.4. Documentação relativa ao dador",
+    "Adita 1.5. Embalagem",
+    "Adita 1.6. Rotulagem dos tecidos/células colhidos",
+    "Adita 1.7. Rotulagem do contentor de transporte",
+    "Adita 2. Recepção dos tecidos/células no serviço manipulador de tecidos"
+   ],
+   "fragments": [
+    "6256690604ae83e9",
+    "3d7abcf3afcc8523",
+    "eeef15db229e4d46",
+    "62fbbef1f26c7a23",
+    "26a00930332b5fc6",
+    "47227e6143ac4a5e",
+    "e711a8773720127f",
+    "7cced545f1b84114",
+    "5d8900304da0e73c",
+    "043e50cff742bce8",
+    "d664376e2a8dcecd",
+    "6eaa4720653da2b0",
+    "f595fc1b9f25f657",
+    "fd6548434bb28b5d",
+    "67e54f32ccd1727e",
+    "d931ca4af04aafe2",
+    "c182bfaad4dc890e",
+    "09c819bcfa9196a3",
+    "852174729551523b",
+    "8693f2c1bb5075eb",
+    "3772dc9cc44367c4",
+    "19a988ad027778d8",
+    "720af75c92791b10",
+    "341fd7fb6aae7130",
+    "1d56144f68e68666",
+    "411606dc17274318",
+    "190632c558686918",
+    "832bc0882e78ff90",
+    "e03a0eb4d5b2eef3",
+    "5f3050d9a87839e5",
+    "87904f4dc1b3c6f7",
+    "3f6bbd845b51855b",
+    "70a39132a51db455",
+    "6cb51b274f171a37",
+    "ab362c57cbec4d4d",
+    "318b9ddd341b9e4f",
+    "e0d3ee54a84fde6f",
+    "8c4b7fcb2e7eb63d",
+    "610d197497556dd5",
+    "286e92cbafb743e7"
+   ]
+  }
+ ],
+ "fragments": {
+  "b8acfb34b2055d12": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Fevereiro de 2006\n\nque aplica a Directiva 2004/23/CE do Parlamento Europeu e do Conselho no que respeita a determinados requisitos técnicos aplicáveis à dádiva, colheita e análise de tecidos e células de origem humana\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 4, alínea a), do artigo 152.º,\n\nTendo em conta a Directiva 2004/23/CE do Parlamento Europeu e do Conselho, de 31 de Março de 2004, relativa ao estabelecimento de normas de qualidade e segurança em relação à dádiva, colheita, análise, processamento, preservação, armazenamento e distribuição de tecidos e células de origem humana [([^1])](http://publications.europa.eu/resource/cellar/6078f8c9-bd97-4fd0-86c8-5fe7621822ab.0016.03/DOC_1#ntr1-L_2006038PT.01004001-E0001), nomeadamente as alíneas b), d), e), f) e i) do artigo 28.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2004/23/CE estabelece normas de qualidade e segurança em relação à dádiva, colheita e análise de todos os tecidos e células de origem humana destinados a aplicações em seres humanos e de produtos manufacturados derivados de tecidos e células de origem humana destinados a aplicações em seres humanos, por forma a assegurar um elevado nível de protecção da saúde.\n\n(2) A fim de evitar a transmissão de doenças através de tecidos e células de origem humana para aplicação no corpo humano e de assegurar um nível equivalente de qualidade e segurança, a Directiva 2004/23/CE exige o estabelecimento de requisitos técnicos específicos para cada uma das fases do processo de aplicação de tecidos e células de origem humana.\n\n(3) A utilização de tecidos e células para aplicação no corpo humano acarreta um risco de transmissão de doenças e outras consequências potencialmente adversas para os receptores. Esse risco pode ser reduzido mediante a selecção cuidadosa dos dadores, a análise de cada dádiva e a aplicação de procedimentos destinados à colheita de tecidos e células que estejam conformes com normas e processos estabelecidos e actualizados de acordo com os melhores pareceres científicos disponíveis. Por consequência, todos os tecidos e células, incluindo os utilizados como matéria-prima no fabrico de medicamentos, a utilizar na Comunidade, devem cumprir os requisitos de qualidade e segurança estabelecidos na presente directiva.\n\n(4) As células reprodutivas, devido ao carácter específico da sua aplicação, têm características específicas de qualidade e segurança que são tidas em conta na presente directiva.\n\n(5) Quando se tratar de dádivas de células reprodutivas entre parceiros que mantêm uma relação física íntima, justifica-se que sejam pedidas análises biológicas menos rigorosas, dado que, neste caso, se considera que o risco para o receptor é inferior ao do caso de dádivas de terceiros. A fim de reduzir ao mínimo o risco de contaminação cruzada, só serão necessárias análises biológicas do dador quando as células doadas forem processadas, colocadas em cultura ou armazenadas.\n\n(6) A presente directiva baseia-se na experiência internacional adquirida através de uma ampla consulta, no Guia da Segurança e da Garantia de Qualidade de Órgãos, Tecidos e Células do Conselho da Europa, na Convenção Europeia dos Direitos do Homem, na Convenção para a Protecção dos Direitos do Homem e da Dignidade do Ser Humano face às Aplicações da Biologia e da Medicina: Convenção sobre os Direitos do Homem e a Biomedicina (Oviedo, 4.IV.1997) e seus protocolos adicionais do Conselho da Europa, bem como em recomendações da Organização Mundial de Saúde. Em especial, no que respeita a outras análises biológicas adicionais a efectuar em dadores provenientes de zonas com elevada incidência de doenças específicas ou cujos parceiros sexuais ou progenitores provenham de zonas com características semelhantes, os Estados-Membros tomarão como referência os dados científicos internacionais existentes. A presente directiva está em conformidade com os princípios fundamentais estabelecidos na Carta Europeia dos Direitos Fundamentais.\n\n(7) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité instituído pela Directiva 2004/23/CE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3d7abcf3afcc8523": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara os efeitos da presente directiva, são aplicáveis as seguintes definições:\n\na) «Células reprodutivas», todos os tecidos e células destinados a serem utilizados para efeitos de reprodução assistida;\n\nb) «Dádiva entre parceiros», a dádiva de células reprodutivas entre um homem e uma mulher que declarem manter uma relação física íntima;\n\nc) «Utilização directa», qualquer procedimento mediante o qual as células sejam doadas e utilizadas sem serem armazenadas num banco;\n\nd) «Sistema de qualidade», a estrutura organizacional, a definição de responsabilidades, procedimentos, processos e recursos destinados à aplicação da gestão da qualidade, incluindo todas as actividades que contribuem, directa ou indirectamente, para a qualidade;\n\ne) «Procedimentos Operativos Normalizados» (PON), instruções escritas que descrevem as etapas de um processo específico, incluindo os materiais e os métodos a utilizar e o produto final esperado;\n\nf) «Validação» (ou «aprovação» no caso de equipamento ou ambientes), o estabelecimento de dados documentados que proporcionem um elevado grau de segurança de que um processo, PON, uma peça de equipamento ou um ambiente específicos produzem, de forma consistente, um produto que cumpre especificações e atributos de qualidade previamente determinados; valida-se um processo a fim de avaliar o desempenho de um sistema no que respeita à sua eficácia com base no uso pretendido;\n\ng) «Rastreabilidade», a capacidade de localizar e identificar o tecido/célula durante qualquer etapa, desde a sua colheita, passando pelo processamento, a análise e o armazenamento, até à distribuição ao receptor ou à eliminação, o que implica igualmente a capacidade de identificar o dador e o serviço manipulador de tecidos ou as instalações de fabrico que recebem, processam ou armazenam o tecido/célula e a capacidade de identificar os receptores nas instalações médicas que aplicam o tecido/células aos receptores; a rastreabilidade abrange igualmente a capacidade de localizar e identificar todos os dados relevantes de produtos e materiais que entrem em contacto com esses tecidos/células;\n\nh) «Organismo de colheita», um estabelecimento de cuidados de saúde ou uma unidade de um hospital ou qualquer outro organismo que desempenhe actividades de colheita de tecidos e células de origem humana e que não se encontre acreditado, designado, autorizado ou licenciado como serviço manipulador de tecidos."
+  },
+  "eeef15db229e4d46": {
+   "fragment_id": "Artigo 2.º — Requisitos em matéria de colheita de tecidos e células de origem humana",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Requisitos em matéria de colheita de tecidos e células de origem humana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisitos em matéria de colheita de tecidos e células de origem humana\n\n1. Com excepção da dádiva de células reprodutivas entre parceiros para utilização directa, os Estados-Membros devem garantir que a colheita de tecidos e células de origem humana é acreditada, designada, autorizada ou licenciada apenas quando forem respeitados os requisitos previstos nos n.^os^ 2 a 12.\n\n2. A colheita de tecidos e células de origem humana deve ser efectuada por pessoas que tenham concluído com êxito um programa de formação especificado por uma equipa clínica especializada nos tecidos e células a colher ou por um serviço manipulador de tecidos autorizado a proceder a colheitas.\n\n3. O serviço manipulador de tecidos ou o organismo de colheita devem dispor de acordos escritos com o pessoal ou equipas clínicas responsáveis pela selecção de dadores, a menos que façam parte do pessoal desse organismo ou serviço, especificando os procedimentos a seguir a fim de assegurar o cumprimento dos critérios de selecção de dadores estabelecidos no anexo I.\n\n4. O serviço manipulador de tecidos ou o organismo de colheita devem dispor de acordos escritos com o pessoal ou equipas clínicas responsáveis pela colheita de tecidos/células, a menos que façam parte do pessoal desse serviço ou organismo, especificando os tipos de tecidos e/ou células e/ou as amostras a colher para análise e os protocolos a respeitar.\n\n5. Devem existir Procedimentos Operativos Normalizados (PON) para verificação dos seguintes elementos:\n\na) Identidade do dador;\n\nb) Pormenores sobre o consentimento ou autorização do dador ou da sua família;\n\nc) Avaliação dos critérios de selecção de dadores, tal como pormenorizados no artigo 3.º;\n\nd) Avaliação das análises laboratoriais exigidas aos dadores, tal como pormenorizadas no artigo 4.º\n\nDevem existir igualmente PON que descrevam os procedimentos de colheita, embalagem, rotulagem e transporte dos tecidos e células até ao ponto de chegada no centro de tecidos ou, no caso de distribuição directa de tecidos e células, até à equipa clínica responsável pela sua aplicação ou, no caso de amostras de tecidos/células, até ao laboratório para análise, em conformidade com o artigo 5.º da presente directiva.\n\n6. A colheita deve realizar-se em instalações adequadas, respeitando procedimentos que reduzam ao mínimo as contaminações, nomeadamente a bacteriana, dos tecidos e células colhidos, em conformidade com o artigo 5.º\n\n7. Os materiais e o equipamento para a colheita devem ser geridos em conformidade com as normas e as especificações estabelecidas no ponto 1.3 do anexo IV e tendo em devida conta a regulamentação, as normas e as directrizes nacionais e internacionais pertinentes, que abranjam a esterilização de medicamentos e dispositivos médicos. Devem utilizar-se instrumentos e dispositivos de colheita estéreis aprovados para a colheita de tecidos e células.\n\n8. A colheita de tecidos e células em dadores vivos deve efectuar-se num ambiente que garanta a sua saúde, segurança e privacidade.\n\n9. Se for o caso, deve ser disponibilizado o pessoal e o equipamento necessários para a reconstituição do corpo de dadores mortos. Essa reconstituição deve ser concluída de forma fiel.\n\n10. Os procedimentos de colheita de tecidos e células devem ser efectuados em conformidade com os requisitos especificados no artigo 5.º\n\n11. Deve ser atribuído um código de identificação único ao dador e aos tecidos e células doados, durante a colheita ou no serviço manipulador de tecidos, que assegure a identificação correcta do dador e a rastreabilidade de todo o material doado. Os dados codificados devem ser introduzidos num registo mantido para o efeito.\n\n12. A documentação relativa ao dador deve ser conservada em conformidade com o estabelecido no ponto 1.4 do anexo IV."
+  },
+  "62fbbef1f26c7a23": {
+   "fragment_id": "Artigo 3.º — Critérios de selecção de dadores de tecidos e células",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Critérios de selecção de dadores de tecidos e células",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Critérios de selecção de dadores de tecidos e células\n\nAs autoridades competentes devem garantir que os dadores cumpram os critérios de selecção estabelecidos:\n\na) No anexo I, no caso de dadores de tecidos e células, com excepção de dadores de células reprodutivas;\n\nb) No anexo III, no caso de dadores de células reprodutivas."
+  },
+  "26a00930332b5fc6": {
+   "fragment_id": "Artigo 4.º — Análises laboratoriais exigidas aos dadores",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Análises laboratoriais exigidas aos dadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Análises laboratoriais exigidas aos dadores\n\n1. As autoridades competentes devem certificar-se de que:\n\na) Os dadores de tecidos e células, com excepção dos dadores de células reprodutivas, sejam submetidos às análises biológicas estabelecidas no ponto 1 do anexo II;\n\nb) As análises referidas na alínea a) sejam efectuadas em conformidade com os requisitos gerais estabelecidos no ponto 2 do anexo II.\n\n2. As autoridades competentes devem certificar-se de que:\n\na) Os dadores de células reprodutivas sejam submetidos às análises biológicas estabelecidas nos pontos 1, 2 e 3 do anexo III;\n\nb) As análises referidas na alínea a) sejam efectuadas em conformidade com os requisitos gerais estabelecidos no ponto 4 do anexo III."
+  },
+  "47227e6143ac4a5e": {
+   "fragment_id": "Artigo 5.º — Procedimentos de dádiva e colheita de tecidos e/ou células e recepção no serviço manipulador de tecidos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimentos de dádiva e colheita de tecidos e/ou células e recepção no serviço manipulador de tecidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimentos de dádiva e colheita de tecidos e/ou células e recepção no serviço manipulador de tecidos\n\nAs autoridades competentes devem garantir que os procedimentos de dádiva e colheita de tecidos e/ou células e a sua recepção no serviço manipulador de tecidos cumpram os requisitos estabelecidos no anexo IV."
+  },
+  "e711a8773720127f": {
+   "fragment_id": "Artigo 6.º — Requisitos para a distribuição directa ao receptor de tecidos e células específicos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Requisitos para a distribuição directa ao receptor de tecidos e células específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos para a distribuição directa ao receptor de tecidos e células específicos\n\nAs autoridades competentes podem autorizar a distribuição directa de tecidos e células específicos do local onde se procede à colheita até ao estabelecimento de cuidados de saúde para transplantação imediata."
+  },
+  "7cced545f1b84114": {
+   "fragment_id": "Artigo 7.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transposição\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar em 1 de Novembro de 2006. Os Estados-Membros comunicarão imediatamente à Comissão o texto dessas disposições bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "5d8900304da0e73c": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "dded3e05db5339ed": {
+   "fragment_id": "Artigo 9.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 8 de Fevereiro de 2006.\n\n***Pela Comissão***\n\n**Markos KYPRIANOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "bc6633f9302f9380": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/6078f8c9-bd97-4fd0-86c8-5fe7621822ab.0016.03/DOC_1#ntc1-L_2006038PT.01004001-E0001) [JO L 102 de 7.4.2004, p. 48](http://publications.europa.eu/resource/oj/JOL_2004_102_R_TOC)."
+  },
+  "6256690604ae83e9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Fevereiro de 2006\n\nque aplica a Directiva 2004/23/CE do Parlamento Europeu e do Conselho no que respeita a determinados requisitos técnicos aplicáveis à dádiva, colheita e análise de tecidos e células de origem humana\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 4, alínea a), do artigo 152.º,\n\nTendo em conta a Directiva 2004/23/CE do Parlamento Europeu e do Conselho, de 31 de Março de 2004, relativa ao estabelecimento de normas de qualidade e segurança em relação à dádiva, colheita, análise, processamento, preservação, armazenamento e distribuição de tecidos e células de origem humana ([^1^](http://publications.europa.eu/resource/cellar/922e1619-116f-4ea9-9e22-4cf23d187952.0017.03/DOC_1#E0001)), nomeadamente as alíneas b), d), e), f) e i) do artigo 28.º,\n\n(1) A Directiva 2004/23/CE estabelece normas de qualidade e segurança em relação à dádiva, colheita e análise de todos os tecidos e células de origem humana destinados a aplicações em seres humanos e de produtos manufacturados derivados de tecidos e células de origem humana destinados a aplicações em seres humanos, por forma a assegurar um elevado nível de protecção da saúde.\n\n(2) A fim de evitar a transmissão de doenças através de tecidos e células de origem humana para aplicação no corpo humano e de assegurar um nível equivalente de qualidade e segurança, a Directiva 2004/23/CE exige o estabelecimento de requisitos técnicos específicos para cada uma das fases do processo de aplicação de tecidos e células de origem humana.\n\n(3) A utilização de tecidos e células para aplicação no corpo humano acarreta um risco de transmissão de doenças e outras consequências potencialmente adversas para os receptores. Esse risco pode ser reduzido mediante a selecção cuidadosa dos dadores, a análise de cada dádiva e a aplicação de procedimentos destinados à colheita de tecidos e células que estejam conformes com normas e processos estabelecidos e actualizados de acordo com os melhores pareceres científicos disponíveis. Por consequência, todos os tecidos e células, incluindo os utilizados como matéria-prima no fabrico de medicamentos, a utilizar na Comunidade, devem cumprir os requisitos de qualidade e segurança estabelecidos na presente directiva.\n\n(4) As células reprodutivas, devido ao carácter específico da sua aplicação, têm características específicas de qualidade e segurança que são tidas em conta na presente directiva.\n\n(5) Quando se tratar de dádivas de células reprodutivas entre parceiros que mantêm uma relação física íntima, justifica-se que sejam pedidas análises biológicas menos rigorosas, dado que, neste caso, se considera que o risco para o receptor é inferior ao do caso de dádivas de terceiros. A fim de reduzir ao mínimo o risco de contaminação cruzada, só serão necessárias análises biológicas do dador quando as células doadas forem processadas, colocadas em cultura ou armazenadas.\n\n(6) A presente directiva baseia-se na experiência internacional adquirida através de uma ampla consulta, no Guia da Segurança e da Garantia de Qualidade de Órgãos, Tecidos e Células do Conselho da Europa, na Convenção Europeia dos Direitos do Homem, na Convenção para a Protecção dos Direitos do Homem e da Dignidade do Ser Humano face às Aplicações da Biologia e da Medicina: Convenção sobre os Direitos do Homem e a Biomedicina (Oviedo, 4.IV.1997) e seus protocolos adicionais do Conselho da Europa, bem como em recomendações da Organização Mundial de Saúde. Em especial, no que respeita a outras análises biológicas adicionais a efectuar em dadores provenientes de zonas com elevada incidência de doenças específicas ou cujos parceiros sexuais ou progenitores provenham de zonas com características semelhantes, os Estados-Membros tomarão como referência os dados científicos internacionais existentes. A presente directiva está em conformidade com os princípios fundamentais estabelecidos na Carta Europeia dos Direitos Fundamentais.\n\n(7) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité instituído pela Directiva 2004/23/CE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "043e50cff742bce8": {
+   "fragment_id": "Artigo 9.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "6eaa4720653da2b0": {
+   "fragment_id": "CRITÉRIOS DE SELECÇÃO DE DADORES DE TECIDOS E/OU CÉLULAS (EXCEPTO DADORES DE CÉLULAS REPRODUTIVAS) REFERIDOS NA ALÍNEA a) DO ARTIGO 3.º",
+   "type": "divisao",
+   "heading": "CRITÉRIOS DE SELECÇÃO DE DADORES DE TECIDOS E/OU CÉLULAS (EXCEPTO DADORES DE CÉLULAS REPRODUTIVAS) REFERIDOS NA ALÍNEA a) DO ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS DE SELECÇÃO DE DADORES DE TECIDOS E/OU CÉLULAS (EXCEPTO DADORES DE CÉLULAS REPRODUTIVAS) REFERIDOS NA ALÍNEA a) DO ARTIGO 3.º\n\nOs critérios de selecção de dadores baseiam-se numa análise dos riscos relacionados com a aplicação dos tecidos/células específicos. Devem ser identificados indicadores destes riscos por exame físico, uma análise dos antecedentes médicos e comportamentais, análises biológicas, exame *post mortem* (no caso de dadores mortos) e outras indagações adequadas. A menos que se justifique com base numa avaliação de riscos documentada, aprovada pela pessoa responsável, definida no artigo 17.º da Directiva 2004/23/CE, não devem ser aceites dádivas de dadores aos quais se apliquem os critérios seguintes:"
+  },
+  "f595fc1b9f25f657": {
+   "fragment_id": "1. Dadores mortos",
+   "type": "divisao",
+   "heading": "1. Dadores mortos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Dadores mortos"
+  },
+  "fd6548434bb28b5d": {
+   "fragment_id": "1.1. Critérios gerais de exclusão",
+   "type": "divisao",
+   "heading": "1.1. Critérios gerais de exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.1. Critérios gerais de exclusão\n\n1.1.1. Causa de morte indeterminada, a menos que a autópsia revele informações sobre a causa de morte após a colheita e que não se aplique nenhum dos critérios gerais de exclusão previstos na presente secção.\n\n1.1.2. Antecedentes de doença de etiologia desconhecida.\n\n1.1.3. Existência ou antecedentes de doença maligna, excepto carcinoma basocelular primário, carcinoma do colo do útero *in situ* e alguns tumores primários do sistema nervoso central, que devem ser avaliados de acordo com dados científicos. Para a dádiva de córnea, podem ser tomados em consideração e avaliados dadores com doenças malignas, excepto retinoblastoma, neoplasias hematológicas e tumores malignos no segmento anterior do olho.\n\n1.1.4. Risco de transmissão de doenças causadas por priões. Este risco aplica-se, por exemplo, a:\n\na) Pessoas diagnosticadas com a doença de Creutzfeldt-Jakob, ou com a variante desta doença ou com antecedentes familiares de doença de Creutzfeldt-Jakob não iatrogénica;\n\nb) Pessoas com antecedentes de demência progressiva rápida ou com doenças neurodegenerativas, incluindo as de origem desconhecida;\n\nc) Pessoas tratadas com hormonas derivadas da hipófise humana (por exemplo, hormonas do crescimento) e receptores de transplantes da córnea, esclerótica e dura-máter, bem como pessoas que tenham sido submetidas a intervenção neurocirúrgica não documentada (na qual possa ter sido usada dura-máter).\n\n1.1.5. Infecção sistémica não controlada no momento da dádiva, incluindo infecções bacterianas, infecções virais, fúngicas ou parasitas sistémicas, ou infecção local significativa nos tecidos e células a doar. No tocante às dádivas de olhos, podem ser tomados em consideração e avaliados dadores com septicemia bacteriana, mas apenas quando as córneas forem armazenadas mediante cultura de órgãos, de modo a detectar qualquer contaminação bacteriana do tecido.\n\n1.1.6. Antecedentes, dados clínicos ou resultados laboratoriais que demonstrem a existência de risco de transmissão de VIH, hepatite B aguda ou crónica (excepto no caso de pessoas com um estatuto de imunidade comprovado), hepatite C e HTLV I/II ou presença de factores de risco destas infecções.\n\n1.1.7. Antecedentes de doença crónica, sistémica e auto-imune, capaz de prejudicar a qualidade do tecido a extrair.\n\n1.1.8. Indicações de que os resultados das análises das amostras de sangue do dador não serão válidos, devido:\n\na) À ocorrência de hemodiluição, em conformidade com as especificações constantes do ponto 2 do anexo II, quando não estiver disponível uma amostra pré-transfusão; ou\n\nb) Ao tratamento com agentes imunossupressores.\n\n1.1.9. Dados de outros factores de risco de doenças transmissíveis, com base numa avaliação dos riscos que tenha em conta os antecedentes do dador em matéria de viagens e exposição, bem como a prevalência de doenças infecciosas locais.\n\n1.1.10. Presença, no corpo do dador, de sinais físicos que sugiram risco de doenças transmissíveis, conforme descrito no ponto 1.2.3 do anexo IV.\n\n1.1.11. Ingestão de substâncias ou exposição a substâncias (por exemplo, cianeto, chumbo, mercúrio, ouro) que possam ser transmitidas aos receptores em doses susceptíveis de pôr em risco a sua saúde.\n\n1.1.12. Antecedentes recentes de vacinação com vírus vivos atenuados, quando se considere existir risco de transmissão.\n\n1.1.13. Transplantação com xenotransplantes."
+  },
+  "67e54f32ccd1727e": {
+   "fragment_id": "1.2. Critérios suplementares de exclusão de crianças dadoras mortas",
+   "type": "divisao",
+   "heading": "1.2. Critérios suplementares de exclusão de crianças dadoras mortas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2. Critérios suplementares de exclusão de crianças dadoras mortas\n\n1.2.1. Devem ser excluídas de dadoras, até que o risco de transmissão de infecção possa ser definitivamente afastado, todas as crianças cujas mães estejam infectadas pelo VIH ou satisfaçam qualquer um dos critérios de exclusão descritos no ponto 1.1.\n\na) Não podem ser consideradas dadoras, independentemente dos resultados das análises, as crianças com menos de 18 meses de idade cujas mães estejam infectadas ou apresentem factores de risco de infecção por VIH, hepatite B, hepatite C ou HTLV e que tenham sido amamentadas pelas respectivas mães nos 12 meses anteriores;\n\nb) Podem ser aceites como dadoras as crianças cujas mães estejam infectadas ou apresentem factores de risco de infecção, por VIH, hepatite B, hepatite C ou HTLV e que não tenham sido amamentadas pelas respectivas mães nos 12 meses anteriores e cujas análises, exames físicos e análise de registos clínicos não demonstrem infecção por VIH, hepatite B, hepatite C ou HTLV."
+  },
+  "d931ca4af04aafe2": {
+   "fragment_id": "2. Dadores vivos",
+   "type": "divisao",
+   "heading": "2. Dadores vivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Dadores vivos"
+  },
+  "c182bfaad4dc890e": {
+   "fragment_id": "2.1. Dador vivo para fins autólogos",
+   "type": "divisao",
+   "heading": "2.1. Dador vivo para fins autólogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Dador vivo para fins autólogos\n\n2.1.1. Se as células ou tecidos removidos se destinarem a ser armazenados ou colocados em cultura, deve aplicar-se o mesmo conjunto mínimo de análises biológicas que se aplica aos dadores vivos para fins alogénicos. O facto de os resultados das análises serem positivos não é impeditivo de que os tecidos ou células ou qualquer outro produto deles derivado sejam armazenados, processados e reimplantados, desde que existam instalações de armazenamento isoladas e adequadas que garantam a inexistência de risco de contaminação cruzada para outros transplantes e/ou de contaminação com agentes adventícios e/ou trocas de produtos."
+  },
+  "09c819bcfa9196a3": {
+   "fragment_id": "2.2. Dador vivo para fins alogénicos",
+   "type": "divisao",
+   "heading": "2.2. Dador vivo para fins alogénicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Dador vivo para fins alogénicos\n\n2.2.1. Os dadores vivos para fins alogénicos devem ser seleccionados com base nos seus antecedentes sanitários e médicos, fornecidos num questionário e mediante entrevista realizada ao dador por um profissional de cuidados de saúde qualificado e formado, em conformidade com o ponto 2.2.2. Esta avaliação deve incluir factores relevantes que podem ajudar a identificar e a excluir pessoas cujas dádivas poderiam apresentar um risco para a saúde de terceiros, como a possibilidade de transmissão de doenças, ou para a sua própria saúde. Qualquer que seja a dádiva, o processo de colheita não deve interferir nem comprometer a saúde do dador nem os cuidados a prestar-lhe. No caso de dádivas do cordão umbilical ou da membrana amniótica, o anteriormente referido aplica-se tanto à mãe como ao bebé.\n\n2.2.2. Os critérios de selecção de dadores vivos para fins alogénicos devem ser estabelecidos e documentados pelo serviço manipulador de tecidos (e pelo clínico responsável pelos transplantes, no caso de distribuição directa ao receptor), com base no tecido ou células específicos a doar, juntamente com o estado físico do dador, os antecedentes médicos e comportamentais, os resultados de investigações clínicas e de análises laboratoriais que determinem o estado de saúde do dador.\n\n2.2.3. Os critérios de exclusão a aplicar devem ser os mesmos que os utilizados no caso de dadores mortos, com excepção do disposto em 1.1.1. Em função do tecido ou célula a doar, podem ser necessários outros critérios de exclusão específicos, como, por exemplo:\n\na) Gravidez (excepto para dadores de células do sangue do cordão umbilical, da membrana amniótica e de irmãos dadores de células progenitoras hematopoéticas);\n\nb) Amamentação;\n\nc) No caso de células progenitoras hematopoéticas, as potencialidades de transmissão de afecções herdadas."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "8693f2c1bb5075eb": {
+   "fragment_id": "ANÁLISES LABORATORIAIS EXIGIDAS A DADORES (EXCEPTO DADORES DE CÉLULAS REPRODUTIVAS) REFERIDAS NO N.º 1 DO ARTIGO 4.º",
+   "type": "divisao",
+   "heading": "ANÁLISES LABORATORIAIS EXIGIDAS A DADORES (EXCEPTO DADORES DE CÉLULAS REPRODUTIVAS) REFERIDAS NO N.º 1 DO ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ANÁLISES LABORATORIAIS EXIGIDAS A DADORES (EXCEPTO DADORES DE CÉLULAS REPRODUTIVAS) REFERIDAS NO N.º 1 DO ARTIGO 4.º"
+  },
+  "3772dc9cc44367c4": {
+   "fragment_id": "1. Análises biológicas exigidas aos dadores",
+   "type": "divisao",
+   "heading": "1. Análises biológicas exigidas aos dadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Análises biológicas exigidas aos dadores\n\n1.1. Constitui um requisito mínimo submeter todos os dadores às análises biológicas a seguir indicadas:\n\nVIH 1 e 2 Anti-VIH-1,2\n\nHepatite B HBsAg Anti-HBc\n\nHepatite C Anti-HCV-Ab\n\nSífilis Ver 1.4 (*infra*)\n\n1.2. Proceder-se-á à realização de análises de anticorpos de HTLV I em dadores que vivam ou sejam provenientes de zonas com elevada prevalência ou com parceiros sexuais provenientes dessas zonas ou no caso de os pais do dador serem provenientes dessas zonas.\n\n1.3. Quando a análise anti-HBc for positiva e a HbsAg for negativa, dever-se-ão prosseguir as investigações, mediante avaliação dos riscos, a fim de se determinar a elegibilidade para utilização clínica.\n\n1.4. Deve aplicar-se um algoritmo de análise validado, a fim de excluir a presença de infecção activa com *Treponema Pallidum*. Uma análise não reactiva, específica ou não, pode permitir a aprovação de tecidos e células. Quando se realizar uma análise não específica, um resultado reactivo não impede a colheita ou a aprovação, caso uma análise específica para confirmação de Treponema seja não reactiva. Se uma amostra do dador for reactiva a uma análise específica para detecção de Treponema, será necessária uma avaliação exaustiva dos riscos, a fim de determinar a elegibilidade para utilização clínica.\n\n1.5. Em determinadas circunstâncias, podem ser necessárias análises adicionais, em função dos antecedentes do dador e das características do tecido ou células doados (p. ex.: RhD, HLA, malária, CMV, toxoplasma, EBV, *Trypanosoma Cruzi*).\n\n1.6. Em relação aos dadores para fins autólogos, é aplicável o ponto 2.1.1 do anexo I."
+  },
+  "19a988ad027778d8": {
+   "fragment_id": "2. Requisitos gerais a observar na determinação dos marcadores biológicos",
+   "type": "divisao",
+   "heading": "2. Requisitos gerais a observar na determinação dos marcadores biológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Requisitos gerais a observar na determinação dos marcadores biológicos\n\n2.1. As análises devem ser efectuadas por um laboratório aprovado, autorizado como centro de análise pela autoridade competente do Estado-Membro, recorrendo, se necessário, a kits de ensaio com a marca CE. O tipo de análise utilizado deve ser validado para o efeito, em conformidade com os actuais conhecimentos científicos.\n\n2.2. As análises biológicas serão efectuadas ao soro ou plasma do dador; não devem ser realizadas a outros fluidos ou secreções, como o humor aquoso ou vítreo, a menos que tal se justifique do ponto de vista clínico, devendo utilizar-se uma análise validada para esse fluido.\n\n2.3. Caso os dadores potenciais tenham perdido sangue e recebido recentemente sangue, componentes sanguíneos, colóides ou cristalóides provenientes de dádivas, a análise do sangue pode não ser válida devido à hemodiluição da amostra. Deve aplicar-se um algoritmo a fim de avaliar o grau de hemodiluição nas circunstâncias seguintes:\n\na) Amostragem de sangue *ante mortem*: se se procedeu a infusão de sangue, componentes sanguíneos e/ou colóides nas 48 horas que antecederam a amostragem do sangue ou se se procedeu a infusão de cristalóides na hora que precedeu a referida amostragem;\n\nb) Amostragem de sangue *post mortem*: se se procedeu a infusão de sangue, componentes sanguíneos e/ou colóides nas 48 horas que antecederam a morte ou se se procedeu a infusão de cristalóides na hora que precedeu a morte.\n\n2.4. No caso de um dador morto, as amostras de sangue devem ser obtidas imediatamente antes da morte ou, se não for possível, a colheita de amostras deve realizar-se o mais rapidamente possível após a morte e nunca depois de decorridas 24 horas.\n\na) No caso de dadores vivos (excepto, por razões de ordem prática, os dadores de células estaminais de medula óssea e de células estaminais do sangue periférico para fins alogénicos), as amostras de sangue devem ser obtidas no momento da dádiva, ou, se não for possível, no período de 7 dias posterior à dádiva (a chamada «amostra de dádiva»);\n\nb) Se os tecidos e células de dadores vivos para fins alogénicos puderem ser armazenados durante períodos longos, é necessário fazer uma repetição da amostra e das análises após um intervalo de 180 dias. Nestas circunstâncias de repetição de análises, a amostra de dádiva pode ser colhida num período compreendido entre 30 dias antes da dádiva e 7 dias após a dádiva;\n\nc) Se os tecidos e células de dadores vivos para fins alogénicos não puderem ser armazenados durante períodos longos e, consequentemente, não for possível fazer uma repetição da amostra, é aplicável o disposto na alínea a) do presente ponto.\n\n2.6. Se, num dador vivo (excepto nos dadores de células estaminais de medula óssea e de células estaminais do sangue periférico), a «amostra de dádiva», tal como definida na alínea a) do ponto 2.5, for ainda analisada para determinação de VIH, HBV e HCV, pela técnica de amplificação do ácido nucleico (TAA), não é necessário analisar uma repetição da amostra de sangue. Também não é necessário realizar novas análises quando a transformação incluir uma fase de inactivação que tenha sido validada para os vírus em causa.\n\n2.7. No caso de colheita de medula óssea e de células do sangue periférico, as amostras de sangue devem ser colhidas para análise no prazo de 30 dias anterior à dádiva.\n\n2.8. No caso de dadores neonatais, as análises biológicas ao dador podem ser efectuadas na mãe do dador, a fim de evitar procedimentos medicamente desnecessários para o bebé."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "341fd7fb6aae7130": {
+   "fragment_id": "CRITÉRIOS DE SELECÇÃO E ANÁLISES LABORATORIAIS EXIGIDAS A DADORES DE CÉLULAS REPRODUTIVAS, REFERIDOS NA ALÍNEA b) DO ARTIGO 3.º E NO N.º 2 DO ARTIGO 4.º",
+   "type": "divisao",
+   "heading": "CRITÉRIOS DE SELECÇÃO E ANÁLISES LABORATORIAIS EXIGIDAS A DADORES DE CÉLULAS REPRODUTIVAS, REFERIDOS NA ALÍNEA b) DO ARTIGO 3.º E NO N.º 2 DO ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS DE SELECÇÃO E ANÁLISES LABORATORIAIS EXIGIDAS A DADORES DE CÉLULAS REPRODUTIVAS, REFERIDOS NA ALÍNEA b) DO ARTIGO 3.º E NO N.º 2 DO ARTIGO 4.º"
+  },
+  "1d56144f68e68666": {
+   "fragment_id": "1. Dádivas entre parceiros para utilização directa",
+   "type": "divisao",
+   "heading": "1. Dádivas entre parceiros para utilização directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Dádivas entre parceiros para utilização directa\n\nNão é necessário aplicar os critérios de selecção de dadores e as análises laboratoriais no caso de dádivas de células reprodutivas entre parceiros para utilização directa."
+  },
+  "411606dc17274318": {
+   "fragment_id": "2. Dádivas entre parceiros para utilização não directa",
+   "type": "divisao",
+   "heading": "2. Dádivas entre parceiros para utilização não directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Dádivas entre parceiros para utilização não directa\n\nAs células reprodutivas que são transformadas e/ou armazenadas e as células reprodutivas que derem origem à criopreservação de embriões devem respeitar os seguintes critérios:\n\n2.1. O clínico responsável pelo dador deve determinar e documentar, com base nos antecedentes médicos e nas indicações terapêuticas do paciente, a justificação para a dádiva e a segurança desta para o receptor e para as crianças que puderem vir a nascer.\n\n2.2. Devem efectuar-se as análises biológicas a seguir indicadas, a fim de avaliar o risco de contaminação cruzada:\n\nVIH 1 e 2 Anti-VIH-1,2\n\nHepatite B HBsAg Anti-HBc\n\nHepatite C Anti-HCV-Ab\n\n2.3. Caso não estejam disponíveis ou sejam positivos os resultados das análises de VIH 1 e 2, hepatite B ou hepatite C, ou caso se saiba que o dador constitui fonte de risco de infecção, deve ser concebido um sistema de armazenamento separado.\n\n2.4. Proceder-se-á à realização de análises de anticorpos de HTLV I em dadores que vivam ou sejam provenientes de zonas com elevada prevalência ou com parceiros sexuais provenientes dessas zonas ou no caso de os pais do dador serem provenientes dessas zonas.\n\n2.5. Em determinadas circunstâncias, podem ser necessárias análises adicionais, em função dos antecedentes do dador em termos de viagens e exposição e das características do tecido ou células doadas (por exemplo, RhD, malária, CMV, T. Cruzi).\n\n2.6. O facto de os resultados serem positivos não é necessariamente impeditivo de dádiva entre parceiros, de acordo com as disposições de direito interno."
+  },
+  "190632c558686918": {
+   "fragment_id": "3. Dádivas não provenientes de parceiros",
+   "type": "divisao",
+   "heading": "3. Dádivas não provenientes de parceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Dádivas não provenientes de parceiros\n\nA utilização de células reprodutivas não provenientes de dádivas entre parceiros devem respeitar os seguintes critérios:\n\n3.1. Os dadores devem ser seleccionados com base na idade, saúde e antecedentes médicos, fornecidos num questionário e mediante entrevista pessoal realizada por um profissional de cuidados de saúde qualificado e formado. Esta avaliação deve incluir factores relevantes que podem ajudar a identificar e a excluir pessoas cujas dádivas poderiam apresentar um risco para a saúde de terceiros, como a possibilidade de transmissão de doenças, (por exemplo, as infecções sexualmente transmitidas), ou para a sua própria saúde (por exemplo, superovulação, sedação ou os riscos associados ao procedimento de colheita de óvulos ou às consequências psicológicas de se ser dador).\n\n3.2. Os dadores devem ter negatividade para o VIH 1 e 2, a HCV, HBV e sífilis numa amostra de soro ou plasma, analisada em conformidade com o ponto 1.1 do anexo II, e os dadores de esperma devem ainda ter negatividade para a *Chlamydia* numa amostra de urina analisada pela técnica de amplificação do ácido nucleico (TAA).\n\n3.3. Proceder-se-á à realização de análises de anticorpos de HTLV I em dadores que vivam ou sejam provenientes de zonas com elevada prevalência ou com parceiros sexuais provenientes dessas zonas ou no caso de os pais do dador serem provenientes dessas zonas.\n\n3.4. Em determinadas circunstâncias, podem ser necessárias análises adicionais, em função dos antecedentes do dador e das características do tecido ou células doadas (por exemplo, RhD, malária, CMV, T. Cruzi).\n\n3.5. Em relação aos dadores para fins autólogos, é aplicável o ponto 2.1.1 do anexo I.\n\n3.6. Deve proceder-se ao rastreio genético para determinação de genes recessivos autossómicos, que, de acordo com dados científicos internacionais, são prevalecentes nos antecedentes da etnia do dador e a uma avaliação do risco de transmissão de doenças hereditárias, que se sabe estarem presentes na família, após a obtenção do consentimento. Devem ser prestadas informações completas, em conformidade com os requisitos em vigor nos Estados-Membros. As informações completas sobre os riscos associados e sobre as medidas tomadas para a sua atenuação devem ser comunicadas e claramente explicadas ao receptor."
+  },
+  "832bc0882e78ff90": {
+   "fragment_id": "4. Requisitos gerais a observar na determinação dos marcadores biológicos",
+   "type": "divisao",
+   "heading": "4. Requisitos gerais a observar na determinação dos marcadores biológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Requisitos gerais a observar na determinação dos marcadores biológicos\n\n4.1. As análises devem ser efectuadas em conformidade com os pontos 2.1 e 2.2 do anexo II.\n\n4.2. Para dádivas entre não parceiros, devem ser obtidas amostras de sangue no momento de cada dádiva.\n\n4.3. As dádivas de esperma não provenientes de parceiros devem ficar em quarentena, no mínimo, durante 180 dias, devendo então ser repetidas as análises. Se, num dador, a amostra de dádiva de sangue for analisada também para determinação de VIH, HBV e HCV, pela técnica de amplificação do ácido nucleico (TAA), não é necessário testar uma nova amostra de sangue. Também não é necessário realizar novas análises quando a transformação incluir uma fase de inactivação que tenha sido validada para os vírus em causa."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "5f3050d9a87839e5": {
+   "fragment_id": "PROCEDIMENTOS DE DÁDIVA E COLHEITA DE CÉLULAS E/OU TECIDOS E RECEPÇÃO NO SERVIÇO MANIPULADOR DE TECIDOS, REFERIDOS NO ARTIGO 5.º",
+   "type": "divisao",
+   "heading": "PROCEDIMENTOS DE DÁDIVA E COLHEITA DE CÉLULAS E/OU TECIDOS E RECEPÇÃO NO SERVIÇO MANIPULADOR DE TECIDOS, REFERIDOS NO ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTOS DE DÁDIVA E COLHEITA DE CÉLULAS E/OU TECIDOS E RECEPÇÃO NO SERVIÇO MANIPULADOR DE TECIDOS, REFERIDOS NO ARTIGO 5.º"
+  },
+  "87904f4dc1b3c6f7": {
+   "fragment_id": "1. Procedimentos de dádiva e colheita",
+   "type": "divisao",
+   "heading": "1. Procedimentos de dádiva e colheita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Procedimentos de dádiva e colheita"
+  },
+  "3f6bbd845b51855b": {
+   "fragment_id": "1.1. Consentimento e identificação do dador",
+   "type": "divisao",
+   "heading": "1.1. Consentimento e identificação do dador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.1. Consentimento e identificação do dador\n\n1.1.1. Antes de se prosseguir com a colheita de tecidos e células, uma pessoa autorizada deve confirmar e registar:\n\na) Que o consentimento para a colheita foi obtido em conformidade com o artigo 13.º da Directiva 2004/23/CE; e\n\nb) De que forma e por quem foi o dador considerado fiável.\n\n1.1.2. No caso de dadores vivos, o profissional de saúde responsável pela obtenção dos antecedentes de saúde deve assegurar que o dador:\n\na) Compreendeu a informação prestada;\n\nb) Teve oportunidade de fazer perguntas e que para estas obteve respostas satisfatórias;\n\nc) Confirmou que, tanto quanto lhe é dado saber, todas as informações que prestou são verdadeiras."
+  },
+  "70a39132a51db455": {
+   "fragment_id": "1.2. Avaliação do dador (este ponto não se aplica a dádivas entre parceiros de células reprodutivas nem a dadores para fins autólogos)",
+   "type": "divisao",
+   "heading": "1.2. Avaliação do dador (este ponto não se aplica a dádivas entre parceiros de células reprodutivas nem a dadores para fins autólogos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2. Avaliação do dador (este ponto não se aplica a dádivas entre parceiros de células reprodutivas nem a dadores para fins autólogos)\n\n1.2.1. Uma pessoa autorizada deve recolher e registar as informações médicas e comportamentais relevantes do dador, de acordo com os requisitos descritos em 1.4.\n\n1.2.2. A fim de obter as informações adequadas, devem utilizar-se diferentes fontes relevantes, incluindo, pelo menos, uma entrevista com o dador, no caso de dadores vivos, e, quando adequado, o seguinte:\n\na) Os registos médicos do dador;\n\nb) Uma entrevista com uma pessoa que conhecia bem o dador, no caso de dadores mortos;\n\nc) Uma entrevista com o médico assistente;\n\nd) Uma entrevista com o médico de clínica geral;\n\ne) O relatório de autópsia.\n\n1.2.3. No caso de um dador morto e, quando tal se justifique, no caso de um dador vivo, deve também fazer-se um exame físico do corpo, a fim de detectar quaisquer sinais que possam bastar para excluir o dador, ou devam ser avaliados no contexto dos antecedentes médicos e pessoais do dador.\n\n1.2.4. Todos os registos do dador devem ser analisados e avaliados para determinar da sua adequação e assinados por um profissional de saúde qualificado."
+  },
+  "6cb51b274f171a37": {
+   "fragment_id": "1.3. Procedimentos de recolha de tecidos e células",
+   "type": "divisao",
+   "heading": "1.3. Procedimentos de recolha de tecidos e células",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.3. Procedimentos de recolha de tecidos e células\n\n1.3.1. Os procedimentos de colheita devem ser adequados ao tipo de dador e ao tipo de dádiva de tecidos/células. Devem existir procedimentos que protejam a segurança do dador vivo.\n\n1.3.2. Os procedimentos de colheita devem conservar as propriedades dos tecidos/células necessárias para a sua finalidade clínica e simultaneamente reduzir ao mínimo a contaminação microbiológica no decurso deste processo, em especial quando os tecidos e células não puderem subsequentemente ser esterilizados.\n\n1.3.3. No caso de dádivas provenientes de mortos, a zona de acesso deve ser restrita. Deve usar-se uma zona de trabalho estéril, mediante a utilização de cortinas estéreis. O pessoal que procede à colheita deve estar vestido de forma adequada para o tipo de colheita. Habitualmente, o pessoal deve lavar e esfregar adequadamente as mãos e os braços, usar vestuário e luvas estéreis, viseiras faciais e máscaras de protecção.\n\n1.3.4. No caso de um dador morto, o local de colheita deve ser registado e o período que mediou a morte da colheita deve ser especificado, a fim de garantir a conservação das propriedades biológicas e/ou físicas necessárias dos tecidos/células.\n\n1.3.5. Uma vez colhidos os tecidos e as células do corpo de um dador morto, o corpo deve ser reconstituído por forma a que a sua aparência seja tanto quanto possível semelhante à sua forma anatómica original.\n\n1.3.6. Devem ser registados e examinados todos os incidentes adversos que ocorram durante a colheita e que prejudiquem ou tenham prejudicado um dador vivo, bem como os resultados de investigações destinadas a determinar as causas.\n\n1.3.7. Devem existir políticas e procedimentos que reduzam ao mínimo o risco de contaminação de tecidos e células por pessoal susceptível de estar infectado com doenças transmissíveis.\n\n1.3.8. Devem utilizar-se, na colheita de tecidos e células, instrumentos e dispositivos estéreis. Os instrumentos ou os dispositivos devem ser de boa qualidade, validados ou especificamente certificados e sujeitos a manutenção regular para efeitos de colheita de tecidos e células.\n\n1.3.9. Quando tiverem de utilizar-se instrumentos reutilizáveis, deve existir um procedimento de limpeza e esterilização validado para a remoção de agentes infecciosos.\n\n1.3.10. Sempre que possível, devem utilizar-se apenas dispositivos médicos com marca CE e todo o pessoal envolvido deve ter recebido formação adequada sobre a utilização desses dispositivos."
+  },
+  "ab362c57cbec4d4d": {
+   "fragment_id": "1.4. Documentação relativa ao dador",
+   "type": "divisao",
+   "heading": "1.4. Documentação relativa ao dador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.4. Documentação relativa ao dador\n\n1.4.1. Para cada dador deve existir um registo que contenha os seguintes elementos:\n\na) Identificação do dador (nome próprio, apelido e data de nascimento — no caso de a dádiva envolver mãe e filho, o nome e a data de nascimento da mãe e o nome, se conhecido, e a data de nascimento do filho);\n\nb) Idade, sexo, antecedentes médicos e comportamentais (a informação recolhida deve ser suficiente para permitir a aplicação dos critérios de exclusão, se necessário);\n\nc) Resultados do exame do corpo, se aplicável;\n\nd) Fórmula de hemodiluição, se aplicável;\n\ne) Formulário de consentimento/autorização, se aplicável;\n\nf) Dados clínicos, resultados das análises laboratoriais e resultados de outras análises realizadas;\n\ng) Caso se realize uma autópsia, os seus resultados devem ser incluídos no registo (em relação a tecidos e células que não possam ser armazenados durante períodos prolongados, deve ser gravado um relatório oral preliminar da autópsia);\n\nh) No caso de dadores de células progenitoras hematopoéticas, a adequação do dador para o receptor escolhido deve ser documentada. No caso de dádivas sem relação de parentesco, quando a organização responsável pela colheita tiver acesso limitado aos dados do receptor, devem ser facultados ao organismo que procede à transplantação os dados do dador que são relevantes para confirmar a adequação.\n\n1.4.2. O organismo que procede à colheita deve criar um relatório de colheita, que é transmitido ao serviço manipulador de tecidos. Este relatório deve conter, pelo menos, os seguintes elementos:\n\na) Identificação, nome e endereço do serviço manipulador de tecidos que vai receber as células/tecidos;\n\nb) Identificação do dador (incluindo a forma como foi identificado e por quem);\n\nc) Descrição e identificação dos tecidos e células colhidos (incluindo amostras para análise);\n\nd) Identificação da pessoa responsável por esta sessão de colheita, incluindo assinatura;\n\ne) Data, hora (quando pertinente, início e fim), local da colheita e procedimento (PON) utilizado, incluindo eventuais incidentes ocorridos; quando necessário, condições ambientais da instalação de colheita (descrição da área física em que se procedeu à colheita);\n\nf) Em relação a dadores mortos, as condições em que o cadáver é mantido: refrigerado (ou não), hora do início e do termo da refrigeração;\n\ng) Identificação/números de lote de reagentes e soluções de transporte utilizadas.\n\na) Nome e endereço do serviço manipulador de tecidos que vai receber as células/tecidos;\n\nb) Identificação do dador.\n\n1.4.3. Todos os registos devem ser claros e legíveis, protegidos contra alterações proibidas e conservados e prontamente acessíveis nestas condições durante todo o seu período de conservação especificado, em conformidade com a legislação relativa à protecção de dados.\n\n1.4.4. Os registos do dador necessários para garantir uma total rastreabilidade devem ser conservados durante, no mínimo, 30 anos após a utilização clínica, ou data de expiração, num arquivo adequado, aceitável para a autoridade competente."
+  },
+  "318b9ddd341b9e4f": {
+   "fragment_id": "1.5. Embalagem",
+   "type": "divisao",
+   "heading": "1.5. Embalagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.5. Embalagem\n\n1.5.1. Após a colheita, todos os tecidos e células colhidos devem ser embalados de forma a reduzir ao mínimo o risco de contaminação e armazenados a temperaturas que preservem as características necessárias e a função biológica das células/tecidos. A embalagem deve também impedir a contaminação dos responsáveis pelo acondicionamento e transporte de tecidos e células.\n\n1.5.2. Os tecidos/células embalados devem ser enviados num contentor adequado para o transporte de materiais biológicos e que mantenha a segurança e a qualidade dos tecidos ou células nele contidos.\n\n1.5.3. Todas as amostras de tecido ou sangue para análise que os acompanhem devem estar rotuladas com exactidão a fim de assegurar a identificação do dador, devendo incluir o registo da hora e do local em que a amostra foi colhida."
+  },
+  "e0d3ee54a84fde6f": {
+   "fragment_id": "1.6. Rotulagem dos tecidos/células colhidos",
+   "type": "divisao",
+   "heading": "1.6. Rotulagem dos tecidos/células colhidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.6. Rotulagem dos tecidos/células colhidos\n\nNo momento da colheita, cada embalagem que contenha tecidos e células deve ser rotulada. O contentor primário de tecidos/células deve indicar a identificação ou o código da dádiva e o tipo de tecidos e células. Quando a dimensão da embalagem o permitir, devem ser fornecidas também as seguintes informações:\n\na) Data (e, se possível, hora) da dádiva;\n\nb) Advertências de perigo;\n\nc) Natureza de eventuais aditivos (se utilizados);\n\nd) No caso de dádivas para fins autólogos, o rótulo deve indicar «Apenas para utilização autóloga»;\n\ne) Em caso de dádivas directas, o rótulo deve identificar o receptor a que se destinam.\n\nCaso não seja possível incluir no rótulo da embalagem primária as informações mencionadas nas alíneas a) a e), elas deverão ser fornecidas numa folha separada que acompanhará a embalagem primária."
+  },
+  "8c4b7fcb2e7eb63d": {
+   "fragment_id": "1.7. Rotulagem do contentor de transporte",
+   "type": "divisao",
+   "heading": "1.7. Rotulagem do contentor de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.7. Rotulagem do contentor de transporte\n\nSe os tecidos/células forem transportados por um intermediário, os contentores de transporte devem mencionar nos respectivos rótulos, pelo menos, os seguintes elementos:\n\na) TECIDOS E CÉLULAS e MANUSEAR COM CUIDADO;\n\nb) Identificação do estabelecimento a partir do qual a embalagem é transportada (endereço e número de telefone) e o nome da pessoa a contactar em caso de problemas;\n\nc) Identificação do serviço manipulador de tecidos de destino (endereço e número de telefone) e pessoa a contactar para a recepção do contentor;\n\nd) Data e hora do início do transporte;\n\ne) Especificações relativas às condições de transporte que sejam importantes para a qualidade e a segurança dos tecidos e células;\n\nf) No caso de todos os produtos celulares, deve ser incluída a seguinte menção: NÃO IRRADIAR; e\n\ng) Quando se souber que um produto é positivo a um marcador de uma doença infecciosa relevante, deve ser incluída a menção: PERIGO BIOLÓGICO;\n\nh) No caso de dadores para fins autólogos, deve ser incluída a seguinte menção: «APENAS PARA FINS AUTÓLOGOS»;\n\ni) Especificações relativas às condições de armazenamento (por exemplo, NÃO CONGELAR)."
+  },
+  "610d197497556dd5": {
+   "fragment_id": "2. Recepção dos tecidos/células no serviço manipulador de tecidos",
+   "type": "divisao",
+   "heading": "2. Recepção dos tecidos/células no serviço manipulador de tecidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Recepção dos tecidos/células no serviço manipulador de tecidos\n\n2.1. Quando os tecidos/células chegam ao serviço manipulador de tecidos, deve proceder-se à verificação documentada de que a remessa, incluindo as condições de transporte, a embalagem, a rotulagem e a documentação e amostras associadas respeitam os requisitos do presente anexo e as especificações do serviço receptor.\n\n2.2. Cada serviço deve garantir que os tecidos e as células recebidos sejam colocados em quarentena até tanto eles como a respectiva documentação terem sido inspeccionados ou verificados em conformidade com os requisitos. A análise das informações pertinentes respeitantes ao dador/colheita e, por conseguinte, a aceitação da dádiva deve ser efectuada por pessoas especificadas/autorizadas.\n\n2.3. Cada serviço manipulador de tecidos deve dispor de uma política e de especificações documentadas, que servirão de termo de comparação aquando da verificação de cada remessa de tecidos e células, incluindo amostras. Delas deverão constar requisitos técnicos e outros critérios que o serviço manipulador de tecidos considerar essenciais para a manutenção de uma qualidade aceitável. O serviço manipulador de tecidos deve dispor de procedimentos documentados para a gestão e a segregação de remessas não conformes ou relativamente às quais não se disponha de resultados de análises completos, a fim de assegurar a inexistência do risco de contaminar outros tecidos e células que estão a ser transformados, preservados ou armazenados.\n\n2.4. Os dados que devem ser registados no serviço manipulador de tecidos (excepto no caso de dadores de células reprodutivas destinadas a dádivas entre parceiros) incluem os seguintes elementos:\n\na) Consentimento/autorização; incluindo as possíveis utilizações dos tecidos e células (por exemplo, fins terapêuticos ou de investigação, ou ambos) e todas as instruções específicas para eliminação, caso o tecido ou as células não sejam utilizados para os fins relativamente aos quais se obteve o consentimento;\n\nb) Todos os registos exigidos em relação à colheita e aos antecedentes do dador, conforme descrito no ponto dedicado à documentação relativa ao dador;\n\nc) Resultados do exame físico, das análises laboratoriais ou outras (por exemplo, o relatório de autópsia, caso tenha sido utilizado em conformidade com o ponto 1.2.2);\n\nd) No caso de dadores para fins alogénicos, análise correctamente documentada da avaliação completa do dador, em função dos critérios de selecção, por uma pessoa autorizada e formada;\n\ne) No caso de culturas de células destinadas a utilização para fins autólogos, documentação da eventualidade de o receptor ser alérgico a medicamentos (por exemplo, a antibióticos).\n\n2.5. No caso de células reprodutivas destinadas a dádivas entre parceiros, os dados que devem ser registados no serviço manipulador de tecidos incluem os seguintes elementos:\n\na) Consentimento; incluindo as possíveis utilizações dos tecidos e células (por exemplo, apenas para fins reprodutivos e/ou para fins terapêuticos ou de investigação) e todas as instruções específicas para eliminação, caso o tecido ou as células não sejam utilizados para os fins relativamente aos quais se obteve o consentimento;\n\nb) Identificação e características do dador: tipo de dador, idade, sexo, presença de factores de risco e, no caso de dadores mortos, a causa da morte;\n\nc) Identificação do parceiro;\n\nd) Local da colheita;\n\ne) Tecidos e células obtidos e características relevantes.\n\n---"
+  },
+  "286e92cbafb743e7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/922e1619-116f-4ea9-9e22-4cf23d187952.0017.03/DOC_1#src.E0001)) JO L 102 de 7.4.2004, p. 48."
+  }
+ }
+}

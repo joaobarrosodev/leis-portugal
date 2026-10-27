@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:913636017:por
+title: Resolução do Conselho de Ministros n.º 73/2025
+short_title: null
+summary: Autoriza a realização da despesa inerente ao acordo de cooperação com a Santa Casa da Misericórdia de Lisboa para
+  prestação de cuidados de saúde especializados pelo Centro de Medicina de Reabilitação de Alcoitão.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 73/2025
+official_date: null
+publication_date: '2025-04-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 66/2025, Série I de 2025-04-03
+  number: '66'
+  series: I
+  supplement: null
+  pages: 23 - 24
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/04/06600/0002300024.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/73/2025/04/03/p/dre/pt/html
+  oj: null
+  dre: '913636017'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/73-2025-913636017
+  internal: pt:dre:913636017:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/73-2025-913636017
+  metadata_url: https://data.dre.pt/eli/resolconsmin/73/2025/04/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/73-2025-913636017
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3da4bfa32d69bde76b2193ae97c58ae38e7dec5dc6adeae51451180016211c6b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:38:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Central do Sistema de Saúde
+- Autorização de Despesas
+- Conselho de Ministros
+- Cuidados Médicos
+- Delegação de Competências
+- Despesas Públicas
+- Governo XXIV
+- Lisboa
+- Ministro da Saúde
+- Santa Casa da Misericórdia
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:38:41Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 73/2025
+
+As estruturas existentes de medicina física e reabilitação, na Região de Saúde de Lisboa e Vale do Tejo (RSLVT), têm sido insuficientes para responder à continuidade da prestação de cuidados de saúde aos utentes que obtiveram altas hospitalares, em situações graves mas com potencial de recuperação e de reabilitação, quer seja em regime de internamento ou em ambulatório, razão pela qual têm vindo a ser celebrados acordos de cooperação para a prestação de cuidados de saúde pelo Centro de Medicina de Reabilitação de Alcoitão (CMRA), na estrita medida das necessidades identificadas.
+
+O CMRA, instituição de saúde integrada na Santa Casa da Misericórdia de Lisboa (SCML), está vocacionado para a reabilitação pós-aguda de pessoas portadoras de incapacidades de predomínio motor, de qualquer idade, apresentando um histórico de capacidade instalada no que diz respeito à prestação de cuidados de saúde nessa área, da medicina física e de reabilitação, que o torna um parceiro relevante na resposta às necessidades não supridas pelo SNS naquela área, tendo em conta a inexistência na RSLVT de qualquer outra estrutura de reabilitação com as características de centro especializado.
+
+A contratualização da prestação de cuidados de saúde com o CMRA, que se mantém formalmente integrado na Rede de Referenciação Hospitalar de Medicina Física e de Reabilitação, contribui deste modo para um aumento significativo de ganhos em saúde na área da medicina física e de reabilitação, justificando-se, assim, a celebração de novo acordo de cooperação com a SCML para a prestação de cuidados de saúde especializados pelo CMRA no montante máximo de € 36 721 656, a repartir pelos anos económicos de 2025, 2026 e 2027.
+
+Torna-se, assim, necessário autorizar a realização da despesa inerente ao acordo de cooperação a celebrar entre a Administração Central do Sistema de Saúde, I. P., e a SCML, para a prestação de cuidados de saúde pelo CMRA, bem como a repartição dos encargos pelos anos económicos de vigência desse acordo.
+
+A aprovação da presente medida é inadiável e indispensável, porquanto estão em causa doentes com necessidades diferenciadas e específicas a quem cumpre assegurar a prestação de cuidados de saúde agudas e urgentes, nomeadamente nas áreas da saúde mental e reabilitação clínica. Por outro lado, urge garantir a eficiência dos compromissos plurianuais assumidos, através da manutenção da oferta assistencial de cuidados abrangida, a qual representa uma assinalável poupança para o Serviço Nacional de Saúde.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, dos artigos 44.º e 46.º do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a Administração Central do Sistema de Saúde, I. P., a realizar despesa e proceder à repartição dos encargos decorrentes da celebração de acordo de cooperação com a Santa Casa da Misericórdia de Lisboa, para prestação de cuidados de saúde especializados de medicina física e de reabilitação pelo Centro de Medicina Física e de Reabilitação de Alcoitão, no montante máximo de € 36 721 656, isento do imposto sobre o valor acrescentado.
+
+2 - Determinar que os encargos financeiros resultantes da prestação de serviços referidos no número anterior não podem exceder, em cada ano económico, os seguintes montantes:
+
+a) 2025 - € 12 240 552;
+
+b) 2026 - € 12 240 552;
+
+c) 2027 - € 12 240 552.
+
+3 - Estabelecer que os encargos financeiros objeto da presente resolução são satisfeitos por verbas adequadas inscritas e a inscrever na fonte de financiamento 311 - Receitas gerais não afetas a projetos cofinanciados da Administração Central do Sistema de Saúde, I. P.
+
+4 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da saúde a competência para a prática dos atos subsequentes a realizar no âmbito previsto na presente resolução.
+
+5 - Convalidar os atos praticados com efeitos à data da sua prática, e em conformidade com a presente resolução.
+
+6 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 27 de março de 2025. - Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
+
+118890208

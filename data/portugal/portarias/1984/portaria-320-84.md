@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:384445:por
+title: Portaria n.º 320/84
+short_title: null
+summary: Altera o artigo 52.º-H do Regulamento para o Serviço de Encomendas Postais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Equipamento Social - Secretaria de Estado das Comunicações
+proposing_entity: null
+official_number: 320/84
+official_date: null
+publication_date: '1984-05-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/1984, Série I de 1984-05-26
+  number: '122'
+  series: I
+  supplement: null
+  pages: 1706 - 1706
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/05/12200/17061706.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '384445'
+  dre_path: /dr/detalhe/portaria/320-1984-384445
+  internal: pt:dre:384445:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/320-1984-384445
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/320-1984-384445
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:01:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 12b7fb439be7ee4b00e9b98d354ae21d371836c923d856232600794f2f8ddcdf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:01:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CTT
+- Regulamento
+- Regulamento para o Serviço de Encomendas Postais
+- Serviço Postal
+relationships:
+- type: amended_by
+  target: pt:dre:374779:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464240:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374779:por
+  label: Revogada pelo(a) Decreto-Lei n.º 176/88 - Diário da República n.º 115/1988, Série I de 1988-05-18, nos termos da
+    al. o) do n.º 1 do seu art. 4.º, que a manteve, contudo, transitoriamente em vigor nos termos do disposto no n.º 2 do
+    mesmo artigo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1988-374779
+  date: '1988-05-18'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:01:55Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 320/84
+
+de 26 de Maio
+
+A importância máxima da indemnização pela perda de uma correspondência registada sem declaração de valor do serviço nacional está presentemente fixada em 450$00 e em vigor desde 1978.
+
+Esta quantia é igualmente atribuída nos casos de perda, espoliação ou avaria de encomenda postal, sem declaração de valor, do serviço nacional; de perda de objecto (correspondência ou encomenda postal, sem valor declarado) ou de título, sujeitos a cobrança, do serviço nacional, não chegando a efectuar-se a cobrança.
+
+Entende-se chegada a altura, não só de rever o montante destas indemnizações como de estabelecer normas que mantenham actualizado, em permanência, aquele valor.
+
+Reconhece-se ainda que são menos favoráveis para os utentes as disposições regulamentares internas em confronto com as que vigoram no serviço internacional.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações, ao abrigo do disposto no n.º 5 do artigo 6.º do anexo I ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, acrescentado pelo artigo único do [Decreto-Lei n.º 5/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1973-288622), de 5 de Janeiro, e nos n.os 3, 4 e 5 do artigo 53.º do mesmo diploma, o seguinte:
+
+1.º O artigo 52.º-H do Regulamento para o Serviço de Encomendas Postais, aprovado pelo Decreto de 22 de Agosto de 1911, na redacção que lhe deu o [Decreto n.º 35137](https://diariodarepublica.pt/dr/detalhe/decreto/35137-1945-464240), de 16 de Novembro de 1945, passa a ter a seguinte redacção:
+
+Art. 52.º-H A empresa pública Correios e Telecomunicações de Portugal, E. P., paga aos remetentes das encomendas postais uma indemnização correspondente, em princípio, à importância real da perda, da espoliação ou da avaria. Contudo, esta indemnização não pode em caso algum ultrapassar:
+
+a) Para as encomendas com valor declarado, a importância do valor declarado;
+
+b) Para as encomendas simplesmente registadas, a importância correspondente ao produto da taxa de registo de uma correspondência, em vigor na data da aceitação, pelo factor 20, 30 ou 40, respectivamente, para uma encomenda até 5 kg, de mais de 5 kg até 10 kg e de mais de 10 kg.
+
+§ 1.º Quando a indemnização for devida pela perda, a espoliação total ou a avaria total, o remetente tem, além disso, direito à restituição das taxas cobradas, com excepção da taxa de seguro do valor declarado.
+
+§ 2.º Os prejuízos indirectos e os lucros cessantes não são tomados em consideração.
+
+2.º A importância máxima da indemnização pela perda de uma correspondência registada, sem declaração de valor, do serviço nacional, é fixada na quantia equivalente a 20 vezes a taxa de registo paga. Esta importância pode ser elevada ao quíntuplo por cada saco especial de impressos para o mesmo destinatário e para o mesmo destino expedido sob registo.
+
+3.º A espoliação total ou a avaria total das correspondências registadas é equiparada à perda, se se reconhecer que a embalagem era suficiente para proteger eficazmente o conteúdo contra os riscos acidentais da espoliação ou da avaria, se essas irregularidades forem verificadas antes da recepção da correspondência pelo destinatário, ou pelo remetente, no caso de devolução.
+
+4.º A indemnização a pagar pela perda, espoliação ou avaria de um objecto sujeito a cobrança (correspondência ou encomenda) do serviço nacional, não se chegando a efectuar a cobrança, é a que estiver estabelecida nos casos de perda, espoliação ou avaria de uma correspondência ou encomenda simplesmente registada ou com valor declarado, conforme o caso.
+
+5.º A indemnização a pagar pela perda de uma remessa de títulos à cobrança do serviço nacional, não se chegando a efectuar a cobrança, é a prevista para uma correspondência simplesmente registada.
+
+6.º Esta portaria entra em vigor em 1 de Julho de 1984.
+
+Secretaria de Estado das Comunicações.
+
+Assinada em 15 de Maio de 1984.
+
+O Secretário de Estado das Comunicações, Raul Manuel Gouveia Bordalo Junqueiro.

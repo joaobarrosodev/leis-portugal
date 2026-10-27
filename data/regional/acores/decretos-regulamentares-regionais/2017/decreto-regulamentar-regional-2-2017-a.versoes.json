@@ -1,0 +1,302 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107114310:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2017-107556794",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/2-2017-107114310",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-06-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206166308",
+    "107562376",
+    "107562377",
+    "107562378",
+    "107562379",
+    "107562380",
+    "107562381",
+    "107562382",
+    "107562383",
+    "107562384",
+    "107562385",
+    "107562386",
+    "107562387",
+    "107562388",
+    "107562389",
+    "107562390",
+    "107562391",
+    "107562392",
+    "107562393",
+    "107562394",
+    "107562395",
+    "107562396",
+    "107562398"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:107549825:por",
+     "title": "Declaração de Retificação n.º 1/2017/A",
+     "published": "2017-06-23",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/1-2017-107549825",
+     "date": "2017-06-02"
+    }
+   ]
+  },
+  {
+   "date": "2022-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:206158536:por",
+     "title": "Decreto Regulamentar Regional n.º 1/2023/A",
+     "published": "2023-01-16",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/1-2023-206158536"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "107562375",
+    "107562376",
+    "107562377",
+    "107562378",
+    "107562379",
+    "107562380",
+    "107562381",
+    "107562382",
+    "107562383",
+    "107562384",
+    "107562385",
+    "107562386",
+    "107562387",
+    "107562388",
+    "107562389",
+    "107562390",
+    "107562391",
+    "107562400",
+    "107562393",
+    "107562394",
+    "107562395",
+    "107562396",
+    "107562397",
+    "107562398"
+   ]
+  }
+ ],
+ "fragments": {
+  "206166308": {
+   "fragment_id": "107556795",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-12-31",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 2/2017/A\n\nCria a Central de Serviços Partilhados da Ilha de Santa Maria\n\nO Programa do XII Governo Regional dos Açores reforça o desígnio de racionalização e eficiência da Administração Regional, através da conceção de um novo modelo de funcionamento dos serviços da Administração Pública Regional Autónoma que se adeque às especificidades e realidades da própria Administração e das ilhas onde os serviços estão sediados.\n\nUma das medidas identificadas é a «implementação de centrais de serviços partilhados tendo em conta as especificidades de cada ilha».\n\nEm consonância com este enquadramento programático, o presente diploma constitui-se como um veículo na operacionalização de um novo modelo de organização e gestão dos serviços já que, atendendo a uma realidade geográfica específica, concentra competências transversais aos vários serviços aí existentes numa só estrutura funcional, abrindo espaço para que estes se concentrem verdadeiramente na sua missão.\n\nNeste sentido, procede-se à criação de uma central de serviços partilhados na ilha de Santa Maria de forma a permitir uma gestão centralizada e integrada relativa:\n\nAos recursos humanos do Quadro Regional da Ilha de Santa Maria e ainda todos os trabalhadores, independentemente da modalidade de relação jurídica de emprego público estabelecida, bem como os trabalhadores em outras modalidades de emprego;\n\nÀ organização e uniformização das compras públicas e à aquisição e manutenção de bens e serviços comuns aos serviços dotados de autonomia administrativa, localizados na ilha de Santa Maria.\n\nA criação desta nova entidade possibilita o apetrechamento da administração pública regional, aí sediada, de recursos humanos com competências técnicas até agora difíceis de justificar e colmatar, dada a reduzida dimensão dos vários serviços existentes, e permite aproximar os processos de decisão, em matéria de gestão de recursos humanos e materiais, à realidade de ilha, isto sem prejuízo da necessária articulação que deve existir entre a central e os responsáveis dos diversos serviços existentes naquela ilha, no respeito pelas competências que legalmente lhes estão atribuídas.\n\nDeste modo, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa e da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:"
+  },
+  "107562376": {
+   "fragment_id": "107556796",
+   "type": 1,
+   "heading": "Capítulo I — Objeto, âmbito e natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto, âmbito e natureza"
+  },
+  "107562377": {
+   "fragment_id": "107556797",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma cria a Central de Serviços Partilhados da Ilha de Santa Maria, doravante Central de Serviços."
+  },
+  "107562378": {
+   "fragment_id": "107556798",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA Central de Serviços gere de forma centralizada e integrada:\n\na) Os recursos humanos do Quadro Regional de Ilha da Ilha de Santa Maria e ainda todos os trabalhadores, independentemente da modalidade de relação jurídica de emprego público estabelecida, bem como os trabalhadores em outras modalidades de emprego;\n\nb) A aquisição e manutenção de bens e serviços comuns a todos os serviços públicos regionais dotados de autonomia administrativa, localizados na ilha de Santa Maria, integrando, igualmente, a gestão operacional e administrativa de todo o parque automóvel e maquinaria pesada."
+  },
+  "107562379": {
+   "fragment_id": "107556799",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza\n\n1 - A Central de Serviços possui autonomia administrativa, nos termos da lei.\n\n2 - A Central de Serviços depende do membro do Governo Regional com competências em matéria de administração pública.\n\n3 - O apoio técnico e a avaliação do funcionamento da Central de Serviços, nos diferentes domínios de gestão, compete à direção regional com competências em matéria de administração pública.\n\n4 - Para efeitos de avaliação do desempenho, os trabalhadores a desempenhar funções inerentes à Central de Serviços são considerados na Unidade de Medida a Contabilizar - Serviços diretamente dependentes do membro do Governo Regional com competências em matéria de administração pública.\n\n5 - Os restantes trabalhadores a desempenhar funções nos diversos serviços abrangidos pelo presente diploma são considerados na Unidade de Medida a Contabilizar dos respetivos serviços ou tutelas."
+  },
+  "107562380": {
+   "fragment_id": "107556800",
+   "type": 1,
+   "heading": "Capítulo II — Coordenação e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Coordenação e competências"
+  },
+  "107562381": {
+   "fragment_id": "107556801",
+   "type": 11,
+   "heading": "Artigo 4.º — Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Coordenação\n\nA Central de Serviços é dirigida por um coordenador equiparado, para todos os efeitos legais, a diretor de serviços, cargo de direção intermédia de 1.º grau."
+  },
+  "107562382": {
+   "fragment_id": "107556802",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência do Coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do Coordenador\n\n1 - Compete ao Coordenador:\n\na) Definir as diretrizes orientadoras da gestão e funcionamento da Central de Serviços e assegurar o seu cumprimento;\n\nb) Elaborar o plano anual de atividades e o orçamento;\n\nc) Elaborar o plano plurianual e respetivo orçamento previsional;\n\nd) Aprovar o regulamento interno da Central de Serviços;\n\ne) Avaliar sistematicamente o desempenho global da Central de Serviços;\n\nf) Submeter à aprovação do membro do Governo Regional com competências em matéria de administração pública os projetos de regulamentação necessários à atividade da Central de Serviços que não possam por si ser aprovados;\n\ng) Elaborar as propostas de tipologias de serviços a prestar pela Central de Serviços e submetê-las à aprovação do membro do Governo Regional com competências em matéria de administração pública;\n\nh) Celebrar protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades, que visem atingir os seus objetivos, mediante aprovação prévia do membro do Governo Regional com competências em matéria de administração pública.\n\n2 - Compete, em especial, ao Coordenador:\n\na) Assegurar a articulação entre a Central de Serviços e os serviços da administração pública regional abrangidos pelo presente diploma;\n\nb) Promover a articulação com a direção regional com competências em matéria de organização e administração pública, para que seja garantido o exercício das competências a que se refere o artigo 3.º"
+  },
+  "107562383": {
+   "fragment_id": "107556803",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências na gestão de recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências na gestão de recursos humanos\n\nNa área de gestão dos recursos humanos são exercidas as seguintes competências:\n\na) Dirigir e coordenar os recursos humanos da Central de Serviços, assim como afetar trabalhadores integrados em carreiras comuns aos diversos serviços da administração pública regional aí sediados, em articulação com os respetivos dirigentes;\n\nb) Assegurar a gestão integrada do pessoal a que se refere a alínea a) do artigo 2.º;\n\nc) Organizar o projeto de orçamento de pessoal, de acordo com as propostas dos respetivos serviços e controlar a sua execução;\n\nd) Elaborar o plano de gestão previsional dos recursos humanos;\n\ne) Elaborar as propostas de alteração orçamental e de transferências de verbas dentro do orçamento da Central de Serviços;\n\nf) Assegurar o processamento das despesas resultantes da execução orçamental;\n\ng) Transmitir aos serviços sediados na ilha de Santa Maria a política definida para a administração regional em matéria de pessoal;\n\nh) Organizar e manter atualizado o cadastro do pessoal a que se refere a alínea a) do artigo 2.º;\n\ni) Aceder via browser e proceder mensalmente ao carregamento na plataforma informática SIGRHARA das remunerações, abonos, horas extraordinárias, subsídios, ajudas de custos e quaisquer outros encargos relativos a pessoal, dos serviços da ilha de Santa Maria;\n\nj) Efetuar a validação e autorizar os respetivos documentos de despesa, enviando-os para as entidades competentes;\n\nk) Assegurar os procedimentos administrativos relacionados com as deslocações em serviço;\n\nl) Executar as demais ações relativas à administração e gestão de pessoal;\n\nm) Propor, coordenar e apoiar medidas consideradas necessárias em matéria de formação ao pessoal do Quadro Regional de Ilha em articulação com os serviços da ilha de Santa Maria;\n\nn) Estudar medidas que visem o aperfeiçoamento da gestão de recursos humanos na ilha de Santa Maria;\n\no) Elaborar os pareceres e informações que lhe forem solicitados sobre os assuntos referentes ao pessoal;\n\np) Assegurar a receção e expedição da correspondência e documentação, referente ao funcionamento do serviço."
+  },
+  "107562384": {
+   "fragment_id": "107556804",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências na aquisição e manutenção de bens e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências na aquisição e manutenção de bens e serviços\n\nNa área de aquisição e manutenção de bens e serviços, são exercidas as seguintes competências:\n\na) Dirigir e coordenar a aquisição e manutenção de bens e serviços da ilha de Santa Maria;\n\nb) Organizar o projeto de orçamento, atendendo às necessidades dos serviços a que se refere a alínea b) do artigo 2.º, e controlar a sua execução;\n\nc) Elaborar as propostas de alteração orçamental e de transferências de verbas dentro do orçamento da Central de Serviços;\n\nd) Assegurar o processamento das despesas resultantes da execução orçamental;\n\ne) Processar e validar as despesas com aquisição de bens e serviços;\n\nf) Controlar as contas correntes relativas a fornecedores e quaisquer outras entidades;\n\ng) Coordenar, gerir e efetuar de forma centralizada os procedimentos necessários à contratação pública da aquisição de bens e serviços em articulação com os serviços a que se refere a alínea b) do artigo 2.º;\n\nh) Executar as operações administrativas relacionadas com a aquisição de bens e serviços e com a alienação de quaisquer bens;\n\ni) Assegurar as operações contabilísticas, relativas à aquisição e manutenção de bens e serviços dos serviços a que se refere a alínea b) do artigo 2.º;\n\nj) Assegurar a gestão de stocks de bens comuns;\n\nk) Administrar e assegurar a gestão do parque automóvel e maquinaria pesada e a coordenação dos meios afetos;\n\nl) Assegurar e orientar a reparação e manutenção dos veículos, quer o assegurado internamente quer os adjudicados a empresas;\n\nm) Proceder à análise regular dos equipamentos, dos serviços da administração pública regional, e propor medidas que se julguem adequadas tendo em vista a otimização dos recursos existentes;\n\nn) Organizar e manter atualizado o cadastro dos bens móveis e imóveis;\n\no) Promover, acompanhar e verificar as atividades de segurança, limpeza, manutenção e reparação das instalações e equipamentos;\n\np) Assegurar a instrução dos processos de arrendamento;\n\nq) Verificar a legalidade das despesas e autorizar o seu pagamento;\n\nr) Assegurar a receção e expedição da correspondência e documentação, referente ao funcionamento do serviço;\n\ns) Executar as demais tarefas que lhe sejam superiormente determinadas."
+  },
+  "107562385": {
+   "fragment_id": "107556805",
+   "type": 1,
+   "heading": "Capítulo III — Despesas e gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Despesas e gestão orçamental"
+  },
+  "107562386": {
+   "fragment_id": "107556806",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas\n\nConstituem despesas, e desde que orçamentalmente dotadas, da Central de Serviços os encargos com o seu funcionamento e com a prossecução das suas atribuições e competências."
+  },
+  "107562387": {
+   "fragment_id": "107556807",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gestão orçamental\n\nA gestão orçamental da Central de Serviços está sujeita a regras definidas nos termos da legislação em vigor."
+  },
+  "107562388": {
+   "fragment_id": "107556808",
+   "type": 1,
+   "heading": "Capítulo IV — Competências dos serviços da administração pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Competências dos serviços da administração pública regional"
+  },
+  "107562389": {
+   "fragment_id": "107556809",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências dos serviços\n\n1 - Compete aos serviços da administração pública regional da ilha de Santa Maria:\n\na) Colaborar com a Central de Serviços;\n\nb) Autorizar e efetuar a validação das faltas dos recursos humanos que lhes estão afetos acedendo, via browser, ao SIGRHARA;\n\nc) Comunicar à Central de Serviços, com a devida antecedência, a necessidade de utilização de viatura;\n\nd) Zelar por todo o equipamento que lhe for afeto, e proporcionar boas condições de utilização;\n\ne) Articular com a Central de Serviços a planificação das necessidades de recursos humanos, nos moldes e periodicidade que vierem a ser definidos por esta;\n\nf) Enviar informação de compras à Central de Serviços, nos moldes e na periodicidade que vierem a ser definidos por aquele serviço.\n\n2 - É da inteira responsabilidade dos serviços a autorização e validação, prevista na alínea b) do número anterior."
+  },
+  "107562390": {
+   "fragment_id": "107556810",
+   "type": 11,
+   "heading": "Artigo 11.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Quadro de pessoal\n\n1 - O pessoal afeto à Central de Serviços consta do Quadro Regional da Ilha de Santa Maria.\n\n2 - O lugar de coordenador é o constante do anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "107562391": {
+   "fragment_id": "107556811",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "107562392": {
+   "fragment_id": "107556812",
+   "type": 11,
+   "heading": "Artigo 12.º — Transferência de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Transferência de competências\n\nTransitam para a Central de Serviços mediante despacho do membro do Governo Regional com competências em matéria de finanças e administração pública:\n\na) As competências a que se refere o artigo 6.º, que estão a ser exercidas pelos serviços localizados na ilha Graciosa;\n\nb) As competências a que se refere o artigo 7.º, que estão a ser exercidas pelos serviços a que se refere a alínea b) do artigo 2.º;\n\nc) De entre as competências previstas nas alíneas anteriores, as exercidas centralmente pelos organismos tutelares ou outros."
+  },
+  "107562393": {
+   "fragment_id": "107556813",
+   "type": 11,
+   "heading": "Artigo 13.º — Reestruturação, reorganização e integração de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reestruturação, reorganização e integração de serviços\n\nA criação da Central de Serviços não prejudica a eventual reestruturação, reorganização e integração de serviços da administração pública regional, sediados na ilha de Santa Maria, a efetivar mediante diploma próprio."
+  },
+  "107562394": {
+   "fragment_id": "107556814",
+   "type": 11,
+   "heading": "Artigo 14.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transição de pessoal\n\n1 - O pessoal integrado em carreiras comuns transita para a Central de Serviços através de lista nominativa, considerando-se aqueles trabalhadores afetos aos serviços da administração regional da ilha de Santa Maria, nos quais vêm desempenhando funções.\n\n2 - Para o desenvolvimento da sua atividade, a Central de Serviços afetará os recursos humanos julgados como necessários, de entre os constantes da lista a que se refere o n.º 1."
+  },
+  "107562395": {
+   "fragment_id": "107556815",
+   "type": 11,
+   "heading": "Artigo 15.º — Ciclo de despesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Ciclo de despesa\n\nCabe à direção regional com competência em matéria de organização e administração pública assegurar todos os processos de despesa e respetivos pagamentos efetuados e a efetuar pela Central de Serviços desde a data da sua criação e enquanto esta não tiver dirigente provido e não for dotada de orçamento."
+  },
+  "107562396": {
+   "fragment_id": "107556816",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107562398": {
+   "fragment_id": "107556818",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal a que se refere o n.º 2 do artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro de pessoal a que se refere o n.º 2 do artigo 11.º\n\n(ver documento original)"
+  },
+  "107562375": {
+   "fragment_id": "107556795",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 2/2017/A\n\nCria a Central de Serviços Partilhados da Ilha de Santa Maria\n\nO Programa do XII Governo Regional dos Açores reforça o desígnio de racionalização e eficiência da Administração Regional, através da conceção de um novo modelo de funcionamento dos serviços da Administração Pública Regional Autónoma que se adeque às especificidades e realidades da própria Administração e das ilhas onde os serviços estão sediados.\n\nUma das medidas identificadas é a «implementação de centrais de serviços partilhados tendo em conta as especificidades de cada ilha».\n\nEm consonância com este enquadramento programático, o presente diploma constitui-se como um veículo na operacionalização de um novo modelo de organização e gestão dos serviços já que, atendendo a uma realidade geográfica específica, concentra competências transversais aos vários serviços aí existentes numa só estrutura funcional, abrindo espaço para que estes se concentrem verdadeiramente na sua missão.\n\nNeste sentido, procede-se à criação de uma central de serviços partilhados na ilha de Santa Maria de forma a permitir uma gestão centralizada e integrada relativa:\n\nAos recursos humanos do Quadro Regional da Ilha de Santa Maria e ainda todos os trabalhadores, independentemente da modalidade de relação jurídica de emprego público estabelecida, bem como os trabalhadores em outras modalidades de emprego;\n\nÀ organização e uniformização das compras públicas e à aquisição e manutenção de bens e serviços comuns aos serviços dotados de autonomia administrativa, localizados na ilha de Santa Maria.\n\nA criação desta nova entidade possibilita o apetrechamento da administração pública regional, aí sediada, de recursos humanos com competências técnicas até agora difíceis de justificar e colmatar, dada a reduzida dimensão dos vários serviços existentes, e permite aproximar os processos de decisão, em matéria de gestão de recursos humanos e materiais, à realidade de ilha, isto sem prejuízo da necessária articulação que deve existir entre a central e os responsáveis dos diversos serviços existentes naquela ilha, no respeito pelas competências que legalmente lhes estão atribuídas.\n\nDeste modo, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa e da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:"
+  },
+  "107562400": {
+   "fragment_id": "107556812",
+   "type": 11,
+   "heading": "Artigo 12.º — Transferência de competências",
+   "in_force_from": "2017-06-02",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 1/2017/A - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2017-107549825), em vigor a partir de 2017-06-02"
+   ],
+   "markdown": "###### Artigo 12.º — Transferência de competências\n\nTransitam para a Central de Serviços mediante despacho do membro do Governo Regional com competências em matéria de finanças e administração pública:\n\nAs competências a que se refere o artigo 6.º, que estão a ser exercidas pelos serviços localizados na Ilha de Santa Maria;\n\nb) As competências a que se refere o artigo 7.º, que estão a ser exercidas pelos serviços a que se refere a alínea b) do artigo 2.º;\n\nc) De entre as competências previstas nas alíneas anteriores, as exercidas centralmente pelos organismos tutelares ou outros.\n\n> Retificado pelo/a [Declaração de Retificação n.º 1/2017/A - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2017-107549825), em vigor a partir de 2017-06-02"
+  },
+  "107562397": {
+   "fragment_id": "107556817",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 6 de abril de 2017.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 23 de maio de 2017.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  }
+ }
+}

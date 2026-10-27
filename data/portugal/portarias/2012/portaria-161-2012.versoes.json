@@ -1,0 +1,428 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:552007:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-887177977",
+ "dre_path": "/dr/detalhe/portaria/161-2012-552007",
+ "source_lastmod": "2024-09-06",
+ "versions": [
+  {
+   "date": "2012-05-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887178075",
+    "887178076",
+    "887178077",
+    "887178078",
+    "887178079",
+    "887178080",
+    "887178081",
+    "887178082",
+    "887178083"
+   ]
+  },
+  {
+   "date": "2013-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:497379:por",
+     "title": "Portaria n.º 211/2013",
+     "published": "2013-06-27",
+     "dre_path": "/dr/detalhe/portaria/211-2013-497379"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "887178075",
+    "887178076",
+    "887178077",
+    "887178078",
+    "887178079",
+    "887178085",
+    "887178086",
+    "887178097",
+    "887178098",
+    "887178090",
+    "887178091",
+    "887178080",
+    "887178081",
+    "887178082",
+    "887178083",
+    "887178099"
+   ]
+  },
+  {
+   "date": "2023-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222645049:por",
+     "title": "Decreto-Lei n.º 89/2023",
+     "published": "2023-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2023-222645049"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "887178075",
+    "887178076",
+    "887178077",
+    "887178078",
+    "887178079",
+    "887178085",
+    "887178086",
+    "887178103",
+    "887178098",
+    "887178104",
+    "887178091",
+    "887178080",
+    "887178081",
+    "887178082",
+    "887178083",
+    "887178105"
+   ]
+  },
+  {
+   "date": "2024-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:887091776:por",
+     "title": "Decreto-Lei n.º 54/2024",
+     "published": "2024-09-06",
+     "dre_path": "/dr/detalhe/decreto-lei/54-2024-887091776"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "887178075",
+    "887178106",
+    "887178107",
+    "887178108",
+    "887178109",
+    "887178085",
+    "887178086",
+    "887178110",
+    "887178111",
+    "887178112",
+    "887178113",
+    "887178114",
+    "887178115",
+    "887178116",
+    "887178117",
+    "887178105"
+   ]
+  }
+ ],
+ "fragments": {
+  "887178075": {
+   "fragment_id": "887177978",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 161/2012\n\nde 22 de maio\n\nO Decreto-Lei n.º 22/2012, de 30 de janeiro, definiu a missão e as atribuições das Administrações Regionais de Saúde, I. P. Importa agora, no desenvolvimento daquele diploma, determinar a organização interna da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., abreviadamente designada por ARLVT, I. P., mediante a aprovação dos respetivos Estatutos.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Saúde, o seguinte:"
+  },
+  "887178076": {
+   "fragment_id": "887177979",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados, em anexo à presente portaria, e da qual fazem parte integrante, os estatutos da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., abreviadamente designada por ARLVT, I. P."
+  },
+  "887178077": {
+   "fragment_id": "887177980",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma transitória\n\n1 - A organização interna da ARSLVT, I. P., integra, transitoriamente:\n\na) As unidades de intervenção local do extinto Instituto da Droga e da Toxicodependência, I. P., nos termos do artigo 14.º do Decreto-Lei n.º 22/2012, de 30 de janeiro;\n\nb) Uma equipa multidisciplinar para a área da coordenação da intervenção nos comportamentos aditivos e nas dependências, em articulação com as orientações nacionais emanadas pelo Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD), que terá a duração de doze meses, contados a partir da entrada em vigor do presente diploma.\n\n2 - O chefe da equipa multidisciplinar a que se refere a alínea b) do número anterior é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 1.º grau."
+  },
+  "887178078": {
+   "fragment_id": "887177981",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 651/2007, de 30 de maio."
+  },
+  "887178079": {
+   "fragment_id": "887177982",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no quinto dia útil seguinte ao da sua publicação."
+  },
+  "887178080": {
+   "fragment_id": "887177983",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento de Gestão e Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Departamento de Gestão e Administração Geral\n\n1 - Ao Departamento de Gestão e Administração Geral, abreviadamente designado por DGAG, compete:\n\na) Elaborar o orçamento de investimento da região e acompanhar a sua execução;\n\nb) Elaborar o orçamento de funcionamento da ARLVT, I. P., e acompanhar e controlar a execução orçamental;\n\nc) Promover a constituição de fundos de maneio, bem como assegurar o controlo da sua gestão;\n\nd) Assegurar a conferência dos elementos relativos à faturação de terceiros, nomeadamente das prestações indiretas, farmácias, convenções e transportes;\n\ne) Arrecadar as receitas, efetuar o pagamento das despesas e controlar a tesouraria;\n\nf) Preparar os processos de atribuição de apoios financeiros;\n\ng) Analisar a viabilidade económica e o impacto financeiro de acordos com entidades privadas, com ou sem fins lucrativos, que se revelem necessários a nível regional;\n\nh) Acompanhar a execução orçamental e a situação económico-financeira das unidades prestadoras de cuidados de saúde integradas no SNS, a nível regional;\n\ni) Instruir os processos na área de convenções internacionais e na área da deslocação para assistência médica no estrangeiro;\n\nj) Desenvolver todas as ações de gestão económico-financeira, efetuar estudos e elaborar os relatórios económico-financeiros que se mostrem necessários, que lhe forem solicitados ou determinados pelo conselho diretivo;\n\nk) Gerir os bens patrimoniais afetos à ARLVT, I. P., organizar e manter atualizado o cadastro e inventário destes bens e providenciar pela sua manutenção e segurança;\n\nl) Assegurar a gestão de stocks e o aprovisionamento de bens e serviços necessários e adequados ao funcionamento da ARLVT, I. P.;\n\nm) Organizar e gerir os arquivos documentais da ARLVT, I. P.;\n\nn) Assegurar a receção, registo, distribuição e expedição de toda a correspondência, bem como o registo da informação interna.\n\n2 - Compete ainda ao DGAG, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução."
+  },
+  "887178081": {
+   "fragment_id": "887177984",
+   "type": 11,
+   "heading": "Artigo 6.º — Departamento de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Departamento de Recursos Humanos\n\n1 - Ao Departamento de Recursos Humanos, abreviadamente designado por DRH, compete:\n\na) Assegurar o planeamento, a gestão e a administração dos recursos humanos a nível regional;\n\nb) Assegurar a coordenação do sistema de avaliação de desempenho a nível regional;\n\nc) Promover a qualificação e valorização profissional dos recursos humanos da área da saúde da região, identificando necessidades, propondo planos de formação profissional e organizando ações de formação;\n\nd) Emitir parecer sobre os projetos de mapas de pessoal das instituições do SNS da região;\n\ne) Promover, nos serviços públicos prestadores de cuidados de saúde, a aplicação de instrumentos de avaliação da prestação da atividade profissional, propondo medidas para a adequação de distribuição de recursos humanos;\n\nf) Assegurar, ao nível regional, uma base de dados de recursos humanos atualizada e desenvolver estudos de gestão previsional de recursos humanos do SNS;\n\ng) Propor os mapas de vagas para os internatos médicos, bem como para as restantes profissões de saúde de acordo com a previsão de necessidades em recursos humanos para a região;\n\nh) Elaborar, propor e acompanhar as candidaturas, no âmbito dos programas cofinanciados para a área da formação profissional;\n\ni) Assegurar os procedimentos relativos à gestão e administração de pessoal da ARLVT, I. P.\n\n2 - Compete ainda ao DRH, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução."
+  },
+  "887178082": {
+   "fragment_id": "887177985",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento de Instalações e Equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Departamento de Instalações e Equipamentos\n\n1 - Ao Departamento de Instalações e Equipamentos, abreviadamente designado por DIE, compete:\n\na) Promover a aplicação das normas, especificações e requisitos técnicos aplicáveis a instalações e equipamentos de unidades de saúde integradas ou financiadas pelo SNS;\n\nb) Elaborar programas funcionais e projetos-tipo para estabelecimentos de saúde e adequá-los a situações concretas;\n\nc) Assegurar a atualização de uma base de dados relativa às instalações e equipamentos dos serviços e instituições prestadores de cuidados de saúde da região, monitorizando o respetivo estado de conservação e, quando necessário, apresentar propostas para a sua reparação;\n\nd) Emitir parecer sobre a aquisição e a expropriação de terrenos e edifícios para a instalação de serviços de saúde, bem como sobre projetos das instituições prestadoras de cuidados de saúde no âmbito da região;\n\ne) Proceder à elaboração de cadernos de encargos para a adjudicação de empreitadas e fornecimento de bens e serviços, no âmbito das instalações e equipamentos;\n\nf) Acompanhar e fiscalizar a execução de empreitadas e fornecimentos cuja responsabilidade lhe seja atribuída;\n\ng) Assegurar a instrução dos processos de licenciamento das unidades privadas prestadoras de cuidados de saúde e da área dos comportamentos aditivos e das dependências, nos sectores social e privado, definindo os respetivos requisitos técnicos a cumprir, e acompanhar o seu funcionamento, articulando com outros departamentos, designadamente o DSP, bem como com a Administração Central do Sistema de Saúde, I. P., sem prejuízo da competência sancionatória da Entidade Reguladora da Saúde;\n\nh) Propor a emissão das licenças de funcionamento das unidades mencionadas na alínea anterior;\n\ni) Elaborar e acompanhar a carta de instalações e equipamentos de saúde da ARLVT, I. P.;\n\nj) Assegurar a implementação dos sistemas de informação e comunicações de utilização comum;\n\nk) Gerir e assegurar a manutenção de sistemas e das infraestruturas tecnológicas, em articulação com as entidades competentes;\n\nl) Assegurar o apoio técnico aos utilizadores no âmbito dos sistemas e infraestruturas tecnológicas.\n\n2 - Compete ainda ao DIE, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução."
+  },
+  "887178083": {
+   "fragment_id": "887177986",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete Jurídico e do Cidadão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinete Jurídico e do Cidadão\n\nAo Gabinete Jurídico e do Cidadão, abreviadamente designado por GJC, compete:\n\na) Emitir pareceres e prestar informações sobre as questões de natureza jurídica, suscitadas no âmbito da atividade da ARLVT, I. P., bem como acompanhar a instrução dos respetivos processos administrativos;\n\nb) Participar na análise e preparar projetos de diplomas legais relacionados com a atividade da ARLVT, I. P., procedendo aos necessários estudos jurídicos, bem como na elaboração de minutas de contratos, protocolos, regulamentos, circulares ou outros documentos de natureza normativa que lhe sejam solicitados pelo conselho diretivo;\n\nc) Emitir parecer sobre reclamações ou recursos administrativos que sejam dirigidos aos órgãos da ARLVT, I. P., bem como sobre exposições ou petições respeitantes a atos ou procedimentos dos mesmos órgãos;\n\nd) Assegurar a instrução de processos de averiguações, de inquérito ou disciplinares;\n\ne) Assegurar, por si ou em articulação com mandatário judicial quando a sua constituição seja obrigatória, o patrocínio judicial nas ações propostas pela ARLVT, I. P. ou em que esta seja demandada;\n\nf) Assegurar o apoio à instrução dos processos de contraordenação nos termos previstos na lei;\n\ng) Prestar apoio técnico às diferentes unidades orgânicas da ARLVT, I. P.;\n\nh) Assegurar, em cooperação com o Observatório Regional de Saúde, a gestão das reclamações/sugestões apresentadas pelos utentes do SNS, diretamente dirigidas ou encaminhadas para a ARLVT, I. P.;\n\ni) Assegurar as funções inerentes à existência de um Observatório Regional de Apoio ao Sistema Sim-Cidadão, com acompanhamento e monitorização das exposições e reclamações dos utentes do SNS no âmbito da ARLVT, I. P., apresentando propostas corretivas;\n\nj) Produzir indicadores que permitam avaliar a qualidade dos serviços prestados ao utente final pelos serviços de saúde, designadamente o grau de satisfação e a participação dos cidadãos;\n\nk) Promover ações de formação, em articulação com o DRH, destinadas a responsáveis e profissionais dos gabinetes do utente e do cidadão dos serviços das unidades de saúde do SNS da área de influência da ARLVT, I. P."
+  },
+  "887178085": {
+   "fragment_id": "887177989",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais Sarmento, Secretário de Estado do Orçamento, em substituição, em 2 de maio de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 20 de abril de 2012."
+  },
+  "887178086": {
+   "fragment_id": "887177990",
+   "type": 14,
+   "heading": "Anexo — Estatutos da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatutos da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P."
+  },
+  "887178097": {
+   "fragment_id": "887177992",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2013-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 — A organização interna da ARLVT, I. P., é constituída por serviços centrais, e ainda por serviços desconcentrados designados por agrupamentos de centros de saúde do Serviço Nacional de Saúde (ACES), nos termos do Decreto -Lei n.º 28/2008, de 22 de fevereiro, alterado pelos Decretos -Leis n.os 81/2009, de 2 de abril, 102/2009,\n\nde 11 de maio, e 248/2009, de 22 de setembro.\n\n2 — São serviços centrais da ARLVT, I. P.:\n\na) Departamento de Saúde Pública;\n\nb) Departamento de Planeamento e Contratualização;\n\nc) Departamento de Gestão e Administração Geral;\n\nd) Departamento de Recursos Humanos;\n\ne) Departamento de Instalações e Equipamentos;\n\nf) Gabinete Jurídico e do Cidadão;\n\ng) Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências.\n\n3 — Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até quatro unidades orgânicas flexíveis, integradas ou não nos departamentos a que se refere o número anterior, sendo as respetivas competências definidas naquele despacho, o qual é objeto de publicação no Diário da República.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+  },
+  "887178098": {
+   "fragment_id": "887177993",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes intermédios",
+   "in_force_from": "2013-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes intermédios\n\n1 — Os departamentos são dirigidos por diretores, cargo de direção intermédia de 1.º grau.\n\n2- O Gabinete Jurídico e do Cidadão, a Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências e as unidades orgânicas flexíveis são dirigidos por coordenadores, cargo de direção intermédia de 2º grau.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+  },
+  "887178090": {
+   "fragment_id": "887177994",
+   "type": 11,
+   "heading": "Artigo 3.º — Departamento de Saúde Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Departamento de Saúde Pública\n\n1 — Ao Departamento de Saúde Pública, abreviadamente designado por DSP, compete:\n\na) Caracterizar e monitorizar o estado de saúde da população e identificar as suas necessidades em saúde;\n\nb) Avaliar o impacto na saúde da população da prestação dos cuidados, de forma a garantir a adequação às necessidades e a sua efetividade;\n\nc) Elaborar a proposta de Plano Regional de Saúde da população e acompanhar a sua execução, apresentando o\n\nrespetivo relatório de atividades;\n\nd) Participar em estudos com o objetivo de propor ajustamentos nas redes de referenciação e de emitir pareceres técnicos sobre a criação, modificação, fusão ou extinção de instituições e serviços de saúde;\n\ne) Monitorizar a execução de programas e projetos específicos de vigilância de saúde, designadamente os\n\nconstantes do Plano Nacional de Saúde;\n\nf) Apoiar o desempenho das funções de autoridade de saúde, bem como divulgar orientações relativas às suas\n\ncompetências;\n\ng) Promover a investigação em saúde;\n\nh) Assegurar a gestão dos laboratórios de saúde pública;\n\ni) Elaborar, propor e acompanhar a aprovação dos turnos de serviço das farmácias;\n\nj) Realizar a vigilância epidemiológica dos fenómenos de saúde e dos seus determinantes;\n\nk) Participar na instrução dos processos de licenciamento das unidades privadas prestadoras de cuidados de saúde e da área dos comportamentos aditivos e das dependências, nos sectores social e privado, verificando a observância dos respetivos requisitos técnico -terapêuticos e de outros definidos pela Direção -Geral da Saúde ou pelo Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências, e acompanhar o seu funcionamento, no cumprimento da legislação aplicável.\n\n2 — Compete ainda ao DSP, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e\n\nde outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n3 — O DSP integra o Observatório Regional de Saúde."
+  },
+  "887178091": {
+   "fragment_id": "887177995",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Planeamento e Contratualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Departamento de Planeamento e Contratualização\n\n1 — Ao Departamento de Planeamento e Contratualização, abreviadamente designado por DPC, compete participar na definição dos critérios para a contratualização dos serviços de saúde e ainda:\n\na) Propor a afetação de recursos financeiros às instituições ou serviços integrados ou financiados pelo SNS ou entidades de natureza privada com ou sem fins lucrativos, que prestem cuidados de saúde, que atuem no âmbito das áreas dos cuidados continuados integrados e dos programas de intervenção local nos comportamentos aditivos e nas dependências;\n\nb) Preparar e acompanhar o processo de contratualização e revisão de contratos no âmbito das parcerias público -privadas, e propor a afetação dos respetivos recursos financeiros;\n\nc) Preparar e acompanhar a celebração e a execução dos contratos, protocolos e convenções de âmbito regional, bem como efetuar a respetiva avaliação no âmbito da prestação de cuidados de saúde, dos cuidados continuados integrados e dos programas de intervenção local nos comportamentos aditivos e nas dependências;\n\nd) Assegurar a avaliação de desempenho das instituições e serviços prestadores de cuidados de saúde, de acordo com as políticas definidas e com as orientações e normativos emitidos pelos serviços e organismos centrais competentes nos diversos domínios de intervenção;\n\ne) Propor a realização de auditorias administrativas e clínicas;\n\nf) Elaborar os planos de atividades anuais e plurianuais, tendo em consideração o Plano Regional de Saúde elaborado pelo DSP e os objetivos definidos pelo conselho diretivo, e avaliar a sua execução;\n\ng) Elaborar o relatório de atividades, em articulação com os restantes departamentos;\n\nh) Propor os ajustamentos julgados necessários nas redes de referenciação ao nível regional;\n\ni) Emitir parecer técnico sobre a criação, modificação, fusão ou extinção de instituições e serviços de saúde;\n\nj) Analisar e emitir parecer sobre os planos diretores de unidades de saúde;\n\nk) Desenvolver instrumentos de apoio à gestão que permitam a promoção do uso racional de recursos materiais e financeiros, nomeadamente nas áreas do medicamento, dos dispositivos médicos e dos exames complementares de diagnóstico, bem como avaliar o cumprimento das orientações e políticas nacionais nestes domínios;\n\nl) Proceder à recolha, tratamento e análise dos dados estatísticos e propor as necessárias medidas corretivas\n\nrelativas à atividade dos serviços de saúde da região;\n\nm) Apoiar a implementação de novos modelos de gestão em saúde;\n\nn) Emitir pareceres, propor e acompanhar as candidaturas, no âmbito dos programas cofinanciados;\n\no) Planear os recursos materiais, nomeadamente a execução dos necessários projetos de investimento das\n\ninstituições e serviços do Serviço Nacional de Saúde, abreviadamente designado por SNS;\n\np) Garantir um sistema de informação atualizado da execução física e material de investimentos públicos.\n\n2 — Compete ainda ao DPC, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução."
+  },
+  "887178099": {
+   "fragment_id": "887178003",
+   "type": 11,
+   "heading": "Artigo 9.º — Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências",
+   "in_force_from": "2013-06-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 9.º — Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências\n\n1 - À Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências, abreviadamente designada por DICAD, compete:\n\na) Assegurar a execução dos programas de intervenção local com vista à redução do consumo de substâncias psicoativas, à prevenção dos comportamentos aditivos e à diminuição das dependências;\n\nb) Colaborar, ao nível da sua área de intervenção geográfica, na definição da estratégia nacional e das políticas com vista à redução do consumo de substâncias psicoativas, à prevenção dos comportamentos aditivos e à diminuição das dependências e na sua avaliação;\n\nc) Planear, coordenar, executar e promover, ao nível da sua área de intervenção geográfica, a avaliação dos programas de prevenção, de tratamento, de redução de riscos, de minimização de danos e de reinserção social;\n\nd) Prestar apoio técnico à execução dos programas e projetos de intervenção local;\n\ne) Assegurar a implementação de procedimentos e meios de recolha de dados, proceder à sua consolidação e enviar ao Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências, abreviadamente designado por SICAD, os dados e informações necessárias para prossecução das suas atribuições, e desenvolver estudos sobre as intervenções realizadas na região e elaborar os relatórios de atividades;\n\nf) Emitir pareceres sobre propostas de implementação de projetos regionais apresentados por entidades públicas ou privadas que se candidatem a apoios no âmbito da sua área de intervenção;\n\ng) Promover a realização de diagnósticos das necessidades de intervenção de âmbito regional e local, definir as prioridades e o tipo de intervenção a efetuar e os recursos a afetar, nomeadamente a projetos e programas cofinanciados, contribuindo para um planeamento nacional sustentado;\n\nh) Avaliar e supervisionar o funcionamento das unidades de intervenção local, prestadoras de cuidados de saúde nesta área, assegurar o planeamento e gestão dos recursos necessários à respetiva atividade e propor a criação de novas unidades ou o seu encerramento;\n\ni) Planear a articulação interinstitucional e incentivar a participação das instituições da comunidade, públicas ou privadas, no desenvolvimento de ações de prevenção, de tratamento, de redução de riscos e minimização de danos e de reinserção social, no âmbito dos programas nacionais promovidos pelo SICAD;\n\nj) Promover, desenvolver e aplicar metodologias de avaliação das diversas ações desenvolvidas ou apoiadas, atualizar diagnósticos, elaborar relatórios e analisar as respetivas conclusões;\n\nk) Colaborar com o SICAD na definição dos requisitos para licenciamento de unidades de prestação de cuidados, nos setores social e privado e monitorizar o seu cumprimento;\n\nl) Assegurar, ao nível da região, a articulação com o SICAD para o desenvolvimento de programas e projetos;\n\n2 - Compete ainda à DICAD, no âmbito de intervenção regional, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+  },
+  "887178103": {
+   "fragment_id": "887177992",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 — A organização interna da ARLVT, I. P., é constituída por serviços centrais, e ainda por serviços desconcentrados designados por agrupamentos de centros de saúde do Serviço Nacional de Saúde (ACES), nos termos do Decreto -Lei n.º 28/2008, de 22 de fevereiro, alterado pelos Decretos -Leis n.os 81/2009, de 2 de abril, 102/2009,\n\nde 11 de maio, e 248/2009, de 22 de setembro.\n\n2 — São serviços centrais da ARLVT, I. P.:\n\na) Departamento de Saúde Pública;\n\nb) Departamento de Planeamento e Contratualização;\n\nc) Departamento de Gestão e Administração Geral;\n\nd) Departamento de Recursos Humanos;\n\ne) Departamento de Instalações e Equipamentos;\n\nf) Gabinete Jurídico e do Cidadão;\n\ng) [Revogada.]\n\n3 — Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até quatro unidades orgânicas flexíveis, integradas ou não nos departamentos a que se refere o número anterior, sendo as respetivas competências definidas naquele despacho, o qual é objeto de publicação no Diário da República.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+  },
+  "887178104": {
+   "fragment_id": "887177994",
+   "type": 11,
+   "heading": "Artigo 3.º — Departamento de Saúde Pública",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Departamento de Saúde Pública\n\n1 — Ao Departamento de Saúde Pública, abreviadamente designado por DSP, compete:\n\na) Caracterizar e monitorizar o estado de saúde da população e identificar as suas necessidades em saúde;\n\nb) Avaliar o impacto na saúde da população da prestação dos cuidados, de forma a garantir a adequação às necessidades e a sua efetividade;\n\nc) Elaborar a proposta de Plano Regional de Saúde da população e acompanhar a sua execução, apresentando o\n\nrespetivo relatório de atividades;\n\nd) Participar em estudos com o objetivo de propor ajustamentos nas redes de referenciação e de emitir pareceres técnicos sobre a criação, modificação, fusão ou extinção de instituições e serviços de saúde;\n\ne) Monitorizar a execução de programas e projetos específicos de vigilância de saúde, designadamente os\n\nconstantes do Plano Nacional de Saúde;\n\nf) Apoiar o desempenho das funções de autoridade de saúde, bem como divulgar orientações relativas às suas\n\ncompetências;\n\ng) Promover a investigação em saúde;\n\nh) Assegurar a gestão dos laboratórios de saúde pública;\n\ni) Elaborar, propor e acompanhar a aprovação dos turnos de serviço das farmácias;\n\nj) Realizar a vigilância epidemiológica dos fenómenos de saúde e dos seus determinantes;\n\nk) [Revogada.]\n\n2 — Compete ainda ao DSP, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e\n\nde outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n3 — O DSP integra o Observatório Regional de Saúde.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+  },
+  "887178105": {
+   "fragment_id": "887178003",
+   "type": 11,
+   "heading": "Artigo 9.º — Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 9.º — Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências\n\n1 - À Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências, abreviadamente designada por DICAD, compete:\n\na) Assegurar a execução dos programas de intervenção local com vista à redução do consumo de substâncias psicoativas, à prevenção dos comportamentos aditivos e à diminuição das dependências;\n\nb) Colaborar, ao nível da sua área de intervenção geográfica, na definição da estratégia nacional e das políticas com vista à redução do consumo de substâncias psicoativas, à prevenção dos comportamentos aditivos e à diminuição das dependências e na sua avaliação;\n\nc) Planear, coordenar, executar e promover, ao nível da sua área de intervenção geográfica, a avaliação dos programas de prevenção, de tratamento, de redução de riscos, de minimização de danos e de reinserção social;\n\nd) Prestar apoio técnico à execução dos programas e projetos de intervenção local;\n\ne) Assegurar a implementação de procedimentos e meios de recolha de dados, proceder à sua consolidação e enviar ao Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências, abreviadamente designado por SICAD, os dados e informações necessárias para prossecução das suas atribuições, e desenvolver estudos sobre as intervenções realizadas na região e elaborar os relatórios de atividades;\n\nf) Emitir pareceres sobre propostas de implementação de projetos regionais apresentados por entidades públicas ou privadas que se candidatem a apoios no âmbito da sua área de intervenção;\n\ng) Promover a realização de diagnósticos das necessidades de intervenção de âmbito regional e local, definir as prioridades e o tipo de intervenção a efetuar e os recursos a afetar, nomeadamente a projetos e programas cofinanciados, contribuindo para um planeamento nacional sustentado;\n\nh) Avaliar e supervisionar o funcionamento das unidades de intervenção local, prestadoras de cuidados de saúde nesta área, assegurar o planeamento e gestão dos recursos necessários à respetiva atividade e propor a criação de novas unidades ou o seu encerramento;\n\ni) Planear a articulação interinstitucional e incentivar a participação das instituições da comunidade, públicas ou privadas, no desenvolvimento de ações de prevenção, de tratamento, de redução de riscos e minimização de danos e de reinserção social, no âmbito dos programas nacionais promovidos pelo SICAD;\n\nj) Promover, desenvolver e aplicar metodologias de avaliação das diversas ações desenvolvidas ou apoiadas, atualizar diagnósticos, elaborar relatórios e analisar as respetivas conclusões;\n\nk) Colaborar com o SICAD na definição dos requisitos para licenciamento de unidades de prestação de cuidados, nos setores social e privado e monitorizar o seu cumprimento;\n\nl) Assegurar, ao nível da região, a articulação com o SICAD para o desenvolvimento de programas e projetos;\n\n2 - Compete ainda à DICAD, no âmbito de intervenção regional, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+  },
+  "887178106": {
+   "fragment_id": "887177979",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados, em anexo à presente portaria, e da qual fazem parte integrante, os estatutos da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., abreviadamente designada por ARLVT, I. P.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887178107": {
+   "fragment_id": "887177980",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma transitória",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Norma transitória\n\n1 - A organização interna da ARSLVT, I. P., integra, transitoriamente:\n\na) As unidades de intervenção local do extinto Instituto da Droga e da Toxicodependência, I. P., nos termos do artigo 14.º do Decreto-Lei n.º 22/2012, de 30 de janeiro;\n\nb) Uma equipa multidisciplinar para a área da coordenação da intervenção nos comportamentos aditivos e nas dependências, em articulação com as orientações nacionais emanadas pelo Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD), que terá a duração de doze meses, contados a partir da entrada em vigor do presente diploma.\n\n2 - O chefe da equipa multidisciplinar a que se refere a alínea b) do número anterior é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 1.º grau.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887178108": {
+   "fragment_id": "887177981",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 651/2007, de 30 de maio.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887178109": {
+   "fragment_id": "887177982",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no quinto dia útil seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887178110": {
+   "fragment_id": "887177992",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 — A organização interna da ARLVT, I. P., é constituída por serviços centrais, e ainda por serviços desconcentrados designados por agrupamentos de centros de saúde do Serviço Nacional de Saúde (ACES), nos termos do Decreto -Lei n.º 28/2008, de 22 de fevereiro, alterado pelos Decretos -Leis n.os 81/2009, de 2 de abril, 102/2009,\n\nde 11 de maio, e 248/2009, de 22 de setembro.\n\n2 — São serviços centrais da ARLVT, I. P.:\n\na) Departamento de Saúde Pública;\n\nb) Departamento de Planeamento e Contratualização;\n\nc) Departamento de Gestão e Administração Geral;\n\nd) Departamento de Recursos Humanos;\n\ne) Departamento de Instalações e Equipamentos;\n\nf) Gabinete Jurídico e do Cidadão;\n\ng) [Revogada.]\n\n3 — Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até quatro unidades orgânicas flexíveis, integradas ou não nos departamentos a que se refere o número anterior, sendo as respetivas competências definidas naquele despacho, o qual é objeto de publicação no Diário da República.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+  },
+  "887178111": {
+   "fragment_id": "887177993",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes intermédios",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+   ],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes intermédios\n\n1 — Os departamentos são dirigidos por diretores, cargo de direção intermédia de 1.º grau.\n\n2- O Gabinete Jurídico e do Cidadão, a Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências e as unidades orgânicas flexíveis são dirigidos por coordenadores, cargo de direção intermédia de 2º grau.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 211/2013 - Diário da República n.º 122/2013, Série I de 2013-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/211-2013-497379), em vigor a partir de 2013-06-28"
+  },
+  "887178112": {
+   "fragment_id": "887177994",
+   "type": 11,
+   "heading": "Artigo 3.º — Departamento de Saúde Pública",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Departamento de Saúde Pública\n\n1 — Ao Departamento de Saúde Pública, abreviadamente designado por DSP, compete:\n\na) Caracterizar e monitorizar o estado de saúde da população e identificar as suas necessidades em saúde;\n\nb) Avaliar o impacto na saúde da população da prestação dos cuidados, de forma a garantir a adequação às necessidades e a sua efetividade;\n\nc) Elaborar a proposta de Plano Regional de Saúde da população e acompanhar a sua execução, apresentando o\n\nrespetivo relatório de atividades;\n\nd) Participar em estudos com o objetivo de propor ajustamentos nas redes de referenciação e de emitir pareceres técnicos sobre a criação, modificação, fusão ou extinção de instituições e serviços de saúde;\n\ne) Monitorizar a execução de programas e projetos específicos de vigilância de saúde, designadamente os\n\nconstantes do Plano Nacional de Saúde;\n\nf) Apoiar o desempenho das funções de autoridade de saúde, bem como divulgar orientações relativas às suas\n\ncompetências;\n\ng) Promover a investigação em saúde;\n\nh) Assegurar a gestão dos laboratórios de saúde pública;\n\ni) Elaborar, propor e acompanhar a aprovação dos turnos de serviço das farmácias;\n\nj) Realizar a vigilância epidemiológica dos fenómenos de saúde e dos seus determinantes;\n\nk) [Revogada.]\n\n2 — Compete ainda ao DSP, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e\n\nde outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n3 — O DSP integra o Observatório Regional de Saúde.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+  },
+  "887178113": {
+   "fragment_id": "887177995",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Planeamento e Contratualização",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Departamento de Planeamento e Contratualização\n\n1 — Ao Departamento de Planeamento e Contratualização, abreviadamente designado por DPC, compete participar na definição dos critérios para a contratualização dos serviços de saúde e ainda:\n\na) Propor a afetação de recursos financeiros às instituições ou serviços integrados ou financiados pelo SNS ou entidades de natureza privada com ou sem fins lucrativos, que prestem cuidados de saúde, que atuem no âmbito das áreas dos cuidados continuados integrados e dos programas de intervenção local nos comportamentos aditivos e nas dependências;\n\nb) Preparar e acompanhar o processo de contratualização e revisão de contratos no âmbito das parcerias público -privadas, e propor a afetação dos respetivos recursos financeiros;\n\nc) Preparar e acompanhar a celebração e a execução dos contratos, protocolos e convenções de âmbito regional, bem como efetuar a respetiva avaliação no âmbito da prestação de cuidados de saúde, dos cuidados continuados integrados e dos programas de intervenção local nos comportamentos aditivos e nas dependências;\n\nd) Assegurar a avaliação de desempenho das instituições e serviços prestadores de cuidados de saúde, de acordo com as políticas definidas e com as orientações e normativos emitidos pelos serviços e organismos centrais competentes nos diversos domínios de intervenção;\n\ne) Propor a realização de auditorias administrativas e clínicas;\n\nf) Elaborar os planos de atividades anuais e plurianuais, tendo em consideração o Plano Regional de Saúde elaborado pelo DSP e os objetivos definidos pelo conselho diretivo, e avaliar a sua execução;\n\ng) Elaborar o relatório de atividades, em articulação com os restantes departamentos;\n\nh) Propor os ajustamentos julgados necessários nas redes de referenciação ao nível regional;\n\ni) Emitir parecer técnico sobre a criação, modificação, fusão ou extinção de instituições e serviços de saúde;\n\nj) Analisar e emitir parecer sobre os planos diretores de unidades de saúde;\n\nk) Desenvolver instrumentos de apoio à gestão que permitam a promoção do uso racional de recursos materiais e financeiros, nomeadamente nas áreas do medicamento, dos dispositivos médicos e dos exames complementares de diagnóstico, bem como avaliar o cumprimento das orientações e políticas nacionais nestes domínios;\n\nl) Proceder à recolha, tratamento e análise dos dados estatísticos e propor as necessárias medidas corretivas\n\nrelativas à atividade dos serviços de saúde da região;\n\nm) Apoiar a implementação de novos modelos de gestão em saúde;\n\nn) Emitir pareceres, propor e acompanhar as candidaturas, no âmbito dos programas cofinanciados;\n\no) Planear os recursos materiais, nomeadamente a execução dos necessários projetos de investimento das\n\ninstituições e serviços do Serviço Nacional de Saúde, abreviadamente designado por SNS;\n\np) Garantir um sistema de informação atualizado da execução física e material de investimentos públicos.\n\n2 — Compete ainda ao DPC, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887178114": {
+   "fragment_id": "887177983",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento de Gestão e Administração Geral",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Departamento de Gestão e Administração Geral\n\n1 - Ao Departamento de Gestão e Administração Geral, abreviadamente designado por DGAG, compete:\n\na) Elaborar o orçamento de investimento da região e acompanhar a sua execução;\n\nb) Elaborar o orçamento de funcionamento da ARLVT, I. P., e acompanhar e controlar a execução orçamental;\n\nc) Promover a constituição de fundos de maneio, bem como assegurar o controlo da sua gestão;\n\nd) Assegurar a conferência dos elementos relativos à faturação de terceiros, nomeadamente das prestações indiretas, farmácias, convenções e transportes;\n\ne) Arrecadar as receitas, efetuar o pagamento das despesas e controlar a tesouraria;\n\nf) Preparar os processos de atribuição de apoios financeiros;\n\ng) Analisar a viabilidade económica e o impacto financeiro de acordos com entidades privadas, com ou sem fins lucrativos, que se revelem necessários a nível regional;\n\nh) Acompanhar a execução orçamental e a situação económico-financeira das unidades prestadoras de cuidados de saúde integradas no SNS, a nível regional;\n\ni) Instruir os processos na área de convenções internacionais e na área da deslocação para assistência médica no estrangeiro;\n\nj) Desenvolver todas as ações de gestão económico-financeira, efetuar estudos e elaborar os relatórios económico-financeiros que se mostrem necessários, que lhe forem solicitados ou determinados pelo conselho diretivo;\n\nk) Gerir os bens patrimoniais afetos à ARLVT, I. P., organizar e manter atualizado o cadastro e inventário destes bens e providenciar pela sua manutenção e segurança;\n\nl) Assegurar a gestão de stocks e o aprovisionamento de bens e serviços necessários e adequados ao funcionamento da ARLVT, I. P.;\n\nm) Organizar e gerir os arquivos documentais da ARLVT, I. P.;\n\nn) Assegurar a receção, registo, distribuição e expedição de toda a correspondência, bem como o registo da informação interna.\n\n2 - Compete ainda ao DGAG, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887178115": {
+   "fragment_id": "887177984",
+   "type": 11,
+   "heading": "Artigo 6.º — Departamento de Recursos Humanos",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Departamento de Recursos Humanos\n\n1 - Ao Departamento de Recursos Humanos, abreviadamente designado por DRH, compete:\n\na) Assegurar o planeamento, a gestão e a administração dos recursos humanos a nível regional;\n\nb) Assegurar a coordenação do sistema de avaliação de desempenho a nível regional;\n\nc) Promover a qualificação e valorização profissional dos recursos humanos da área da saúde da região, identificando necessidades, propondo planos de formação profissional e organizando ações de formação;\n\nd) Emitir parecer sobre os projetos de mapas de pessoal das instituições do SNS da região;\n\ne) Promover, nos serviços públicos prestadores de cuidados de saúde, a aplicação de instrumentos de avaliação da prestação da atividade profissional, propondo medidas para a adequação de distribuição de recursos humanos;\n\nf) Assegurar, ao nível regional, uma base de dados de recursos humanos atualizada e desenvolver estudos de gestão previsional de recursos humanos do SNS;\n\ng) Propor os mapas de vagas para os internatos médicos, bem como para as restantes profissões de saúde de acordo com a previsão de necessidades em recursos humanos para a região;\n\nh) Elaborar, propor e acompanhar as candidaturas, no âmbito dos programas cofinanciados para a área da formação profissional;\n\ni) Assegurar os procedimentos relativos à gestão e administração de pessoal da ARLVT, I. P.\n\n2 - Compete ainda ao DRH, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887178116": {
+   "fragment_id": "887177985",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento de Instalações e Equipamentos",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Departamento de Instalações e Equipamentos\n\n1 - Ao Departamento de Instalações e Equipamentos, abreviadamente designado por DIE, compete:\n\na) Promover a aplicação das normas, especificações e requisitos técnicos aplicáveis a instalações e equipamentos de unidades de saúde integradas ou financiadas pelo SNS;\n\nb) Elaborar programas funcionais e projetos-tipo para estabelecimentos de saúde e adequá-los a situações concretas;\n\nc) Assegurar a atualização de uma base de dados relativa às instalações e equipamentos dos serviços e instituições prestadores de cuidados de saúde da região, monitorizando o respetivo estado de conservação e, quando necessário, apresentar propostas para a sua reparação;\n\nd) Emitir parecer sobre a aquisição e a expropriação de terrenos e edifícios para a instalação de serviços de saúde, bem como sobre projetos das instituições prestadoras de cuidados de saúde no âmbito da região;\n\ne) Proceder à elaboração de cadernos de encargos para a adjudicação de empreitadas e fornecimento de bens e serviços, no âmbito das instalações e equipamentos;\n\nf) Acompanhar e fiscalizar a execução de empreitadas e fornecimentos cuja responsabilidade lhe seja atribuída;\n\ng) Assegurar a instrução dos processos de licenciamento das unidades privadas prestadoras de cuidados de saúde e da área dos comportamentos aditivos e das dependências, nos sectores social e privado, definindo os respetivos requisitos técnicos a cumprir, e acompanhar o seu funcionamento, articulando com outros departamentos, designadamente o DSP, bem como com a Administração Central do Sistema de Saúde, I. P., sem prejuízo da competência sancionatória da Entidade Reguladora da Saúde;\n\nh) Propor a emissão das licenças de funcionamento das unidades mencionadas na alínea anterior;\n\ni) Elaborar e acompanhar a carta de instalações e equipamentos de saúde da ARLVT, I. P.;\n\nj) Assegurar a implementação dos sistemas de informação e comunicações de utilização comum;\n\nk) Gerir e assegurar a manutenção de sistemas e das infraestruturas tecnológicas, em articulação com as entidades competentes;\n\nl) Assegurar o apoio técnico aos utilizadores no âmbito dos sistemas e infraestruturas tecnológicas.\n\n2 - Compete ainda ao DIE, no âmbito de intervenção, proceder à difusão das normas e orientações técnicas e de outros instrumentos de apoio técnico à atividade dos estabelecimentos de saúde, apoiar a sua implementação e monitorizar a sua execução.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887178117": {
+   "fragment_id": "887177986",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete Jurídico e do Cidadão",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Gabinete Jurídico e do Cidadão\n\nAo Gabinete Jurídico e do Cidadão, abreviadamente designado por GJC, compete:\n\na) Emitir pareceres e prestar informações sobre as questões de natureza jurídica, suscitadas no âmbito da atividade da ARLVT, I. P., bem como acompanhar a instrução dos respetivos processos administrativos;\n\nb) Participar na análise e preparar projetos de diplomas legais relacionados com a atividade da ARLVT, I. P., procedendo aos necessários estudos jurídicos, bem como na elaboração de minutas de contratos, protocolos, regulamentos, circulares ou outros documentos de natureza normativa que lhe sejam solicitados pelo conselho diretivo;\n\nc) Emitir parecer sobre reclamações ou recursos administrativos que sejam dirigidos aos órgãos da ARLVT, I. P., bem como sobre exposições ou petições respeitantes a atos ou procedimentos dos mesmos órgãos;\n\nd) Assegurar a instrução de processos de averiguações, de inquérito ou disciplinares;\n\ne) Assegurar, por si ou em articulação com mandatário judicial quando a sua constituição seja obrigatória, o patrocínio judicial nas ações propostas pela ARLVT, I. P. ou em que esta seja demandada;\n\nf) Assegurar o apoio à instrução dos processos de contraordenação nos termos previstos na lei;\n\ng) Prestar apoio técnico às diferentes unidades orgânicas da ARLVT, I. P.;\n\nh) Assegurar, em cooperação com o Observatório Regional de Saúde, a gestão das reclamações/sugestões apresentadas pelos utentes do SNS, diretamente dirigidas ou encaminhadas para a ARLVT, I. P.;\n\ni) Assegurar as funções inerentes à existência de um Observatório Regional de Apoio ao Sistema Sim-Cidadão, com acompanhamento e monitorização das exposições e reclamações dos utentes do SNS no âmbito da ARLVT, I. P., apresentando propostas corretivas;\n\nj) Produzir indicadores que permitam avaliar a qualidade dos serviços prestados ao utente final pelos serviços de saúde, designadamente o grau de satisfação e a participação dos cidadãos;\n\nk) Promover ações de formação, em articulação com o DRH, destinadas a responsáveis e profissionais dos gabinetes do utente e do cidadão dos serviços das unidades de saúde do SNS da área de influência da ARLVT, I. P.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  }
+ }
+}

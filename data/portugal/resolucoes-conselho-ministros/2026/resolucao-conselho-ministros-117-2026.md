@@ -1,0 +1,183 @@
+---
+schema_version: '1.0'
+id: pt:dre:1131112574:por
+title: Resolução do Conselho de Ministros n.º 117/2026
+short_title: null
+summary: Designa um vogal do conselho de administração da Comissão do Mercado de Valores Mobiliários.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 117/2026
+official_date: null
+publication_date: '2026-06-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 112/2026, Série I de 2026-06-12
+  number: '112'
+  series: I
+  supplement: null
+  pages: 5 - 7
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/06/11200/0000500007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/117/2026/06/12/p/dre/pt/html
+  oj: null
+  dre: '1131112574'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/117-2026-1131112574
+  internal: pt:dre:1131112574:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/117-2026-1131112574
+  metadata_url: https://data.dre.pt/eli/resolconsmin/117/2026/06/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/117-2026-1131112574
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:43:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d1fa1acdae0f9e8703c51897b976149cedbc8bd0870daa2cef15e3d51cf34054
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:43:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CMVM
+- Conselho de Administração
+- Nomeação
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:106955049:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2017/05/02/p/dre
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:176907512:por
+  label: null
+  source: http://data.dre.pt/eli/lei/99-a/2021/12/31/p/dre
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: http://data.dre.pt/eli/lei/67/2013/08/28/p/dre
+- type: cites
+  target: pt:dre:66108236:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/5/2015/01/08/p/dre
+- type: cites
+  target: pt:dre:70237676:por
+  label: null
+  source: http://data.dre.pt/eli/lei/148/2015/09/09/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:43:31Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 117/2026
+
+Os estatutos da Comissão do Mercado de Valores Mobiliários (CMVM), aprovados em anexo ao [Decreto-Lei n.º 5/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2015-66108236), de 8 de janeiro, alterados pelas Leis n.º [148/2015](https://diariodarepublica.pt/dr/detalhe/lei/148-2015-70237676), de 9 de setembro, e n.º [99-A/2021](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512), de 31 de dezembro, estabelecem, no seu artigo 10.º, que o conselho de administração é composto por um presidente, por um vice-presidente e por três vogais, escolhidos de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, competindo a sua indicação ao membro do Governo responsável pela área das finanças.
+
+A designação efetua-se por resolução do Conselho de Ministros, após audição e parecer da comissão competente da Assembleia da República, precedida de parecer da Comissão de Recrutamento e Seleção para a Administração Pública (CReSAP), relativo à adequação do perfil às funções a desempenhar, nos termos dos n.os3 a 8 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.os[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, doravante designada por LQER.
+
+De acordo com o disposto no artigo 11.º dos respetivos estatutos, o mandato dos membros do conselho de administração da CMVM tem a duração de seis anos, não sendo renovável.
+
+Por seu turno, o n.º 8 do artigo 17.º da LQER estabelece que o provimento dos vogais do conselho de administração deve assegurar a representação mínima de 33 % de cada género no exercício daquele cargo.
+
+Dada a vacatura de um cargo de vogal do conselho de administração, por virtude do termo do mandato do anterior titular, pelo decurso do respetivo prazo, torna-se necessário proceder à designação de novo titular daquele cargo.
+
+Nos termos e para os efeitos do disposto nos n.os3 e 4 do artigo 17.º da LQER, a personalidade indigitada para o referido cargo foi objeto de avaliação e parecer favorável da CReSAP, através da Deliberação n.º 60/2026, bem como da subsequente audição na Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, a qual aprovou, em 27 de maio de 2026, o respetivo parecer fundamentado.
+
+Assim:
+
+Nos termos dos artigos 10.º e 11.º dos estatutos da CMVM, aprovados em anexo ao [Decreto-Lei n.º 5/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2015-66108236), de 8 de janeiro, alterados pelas Leis n.º [148/2015](https://diariodarepublica.pt/dr/detalhe/lei/148-2015-70237676), de 9 de setembro, e n.º [99-A/2021](https://diariodarepublica.pt/dr/detalhe/lei/99-a-2021-176907512), de 31 de dezembro, dos n.os3 a 8 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo à [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, alterada pelas Leis n.os[12/2017](https://diariodarepublica.pt/dr/detalhe/lei/12-2017-106955049), de 2 de maio, [71/2018](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), de 31 de dezembro, e [75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, sob proposta do Ministro de Estado e das Finanças, para o cargo de vogal do conselho de administração da Comissão do Mercado de Valores Mobiliários (CMVM), em comissão de serviço, o Doutor José Carlos Fernandes de Azevedo Pereira, cuja idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções são evidenciadas na respetiva nota curricular e nas conclusões do parecer fundamentado da Comissão de Orçamento, Finanças e Administração Pública, da Assembleia da República, que constam, respetivamente, dos anexos i e ii à presente resolução e da qual fazem parte integrante.
+
+2 - Determinar que o mandato do designado tem a duração de seis anos, com início em 15 de junho de 2026.
+
+3 - Estabelecer que a presente resolução produz efeitos a 15 de junho de 2026.
+
+Presidência do Conselho de Ministros, 3 de junho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+## ANEXO I — (a que se refere o n.º 1)
+
+Nota curricular
+
+José Carlos Fernandes de Azevedo Pereira.
+
+Nascido a 23 de setembro de 1969, casado, dois filhos.
+
+Doutorado em Economia, mestre em Economia Internacional e licenciado em Economia, no Instituto Superior de Economia e Gestão (ISEG), Universidade de Lisboa.
+
+Diretor-geral do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais (GPEARI) do Ministério das Finanças, desde 18 de dezembro de 2017, onde também exerceu os cargos e funções de subdiretor-geral, diretor do Departamento de Análise Económica e Finanças Públicas, chefe da Divisão de Modelização e Previsão e técnico superior.
+
+Em termos de experiência profissional destaca-se a coordenação da preparação dos relatórios dos orçamentos do Estado e a participação na elaboração do Programa Orçamental Estrutural Nacional de Médio Prazo; do Programa Nacional de Reformas, as Grandes Opções do Plano e a Conta Geral do Estado; do cenário macroeconómico do Orçamento do Estado, do Programa de Estabilidade; da estimação e quantificação das medidas de reforma, bem como a coordenação das reuniões das avaliações pós-programa de ajustamento estrutural com as instituições internacionais Comissão Europeia, Banco Central Europeu, Fundo Monetário Internacional e Mecanismo Europeu de Estabilidade.
+
+Exerceu funções de cocoordenador do conselho para a produtividade e de representante nos diferentes grupos de trabalho do Comité de Política Económica da Comissão Europeia, designadamente do LIME (Lisbon Methodology Working Group), das previsões macroeconómicas, do produto potencial, do Subcomité de Estatísticas e acompanhamento do grupo do envelhecimento/sustentabilidade das finanças públicas.
+
+Representante nos Grupos de Trabalho da OCDE (Organização para a Cooperação e Desenvolvimento Económico), designadamente no Comité de Macro-Economic and Structural Policy Analysis (WP1), do Short-Term Economic Prospects e no Comité do Senior Budget Officials (SBO).
+
+Representante no Conselho Económico e Social, no Conselho Superior de Estatística, na Unidade de Implementação da Lei de Enquadramento Orçamental (UNILEO), no Grupo de Estatísticas das Administrações Públicas (GEAP), no Conselho de Acompanhamento das Políticas Financeiras (CAPF) das Regiões Autónomas e no Conselho de Coordenação Financeira (CCF) das Autarquias Locais.
+
+Representante na REPLAN (Rede de Serviços de Planeamento e Prospetiva da Administração Pública), coordenada pelo PLANAPP - Centro de Planeamento e de Avaliação de Políticas Públicas.
+
+Coordenador, pela parte portuguesa, da Comissão do Acordo de Cooperação Económica entre Portugal e São Tomé e Príncipe e da Comissão do Acordo de Cooperação Cambial Portugal - Cabo Verde.
+
+Administrador, por Portugal, no Council of Europe Development Bank (CEB), governador suplente por Portugal no Banco Europeu para a Reconstrução e Desenvolvimento (BERD) e administrador suplente por Portugal no European Stability Mechanism (ESM).
+
+Publicações: «A Brief Var analysis of a CAPB Shock», fevereiro de 2019; «Productivity-Wage Nexus: Distributional approach on firms in Portugal», fevereiro de 2019; «Determinantes do Crescimento da Receita Fiscal», F. S. e Pereira, J. A., fevereiro de 2018; «Productivity and resource allocation of Portuguese firms», Simões, M., e Pereira, J. A., agosto de 2019; «Calculador do IVA teórico», outubro de 2002; «Cálculo do Deflator do Consumo Público», outubro de 2001.
+
+## ANEXO II — (a que se refere o n.º 1)
+
+Conclusões do parecer fundamentado da Comissão de Orçamento, Finanças e Administração Pública
+
+«Parte IV - Conclusões
+
+A Assembleia da República, através da Comissão de Orçamento, Finanças e Administração Pública, procedeu à audição do Doutor José Carlos Fernandes de Azevedo Pereira, indigitado para o cargo de Vogal do Conselho de Administração da Comissão do Mercado de Valores Mobiliários (CMVM), nos termos e para os efeitos dos n.os3 a 5 do artigo 17.º da lei-quadro das entidades reguladoras, aprovada em anexo a [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto.
+
+O perfil da personalidade indigitada deve adequar-se às funções a desempenhar, devendo ser-lhe reconhecidas idoneidade, competência técnica, experiência profissional e formação adequadas ao respetivo exercício.
+
+Das respostas dadas às questões formuladas, bem como da análise e escrutínio da respetiva nota curricular, a Comissão de Orçamento, Finanças e Administração Pública considera que o Doutor José Carlos Fernandes de Azevedo Pereira reúne os requisitos necessários para o desempenho da função.
+
+Do presente relatório será dado conhecimento ao Governo, através do Ministro dos Assuntos Parlamentares, nos termos da [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto.»
+
+119948767

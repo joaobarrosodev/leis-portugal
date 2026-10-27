@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:265329:por
+title: Decreto n.º 37545
+short_title: null
+summary: Promulga o Estatuto do Ensino Particular
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação Nacional
+proposing_entity: null
+official_number: '37545'
+official_date: null
+publication_date: '1949-09-08'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 197/1949, Série I de 1949-09-08
+  number: '197'
+  series: I
+  supplement: null
+  pages: 654 - 662
+  pdf_url: https://files.diariodarepublica.pt/1s/1949/09/19700/06540662.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '265329'
+  dre_path: /dr/detalhe/decreto/37545-1949-265329
+  internal: pt:dre:265329:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/37545-1949-265329
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/37545-1949-265329
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:20:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Diploma
+- Ensino Particular
+- Estabelecimento de Ensino
+- Estatuto
+- Estudante
+- Habilitações Literárias
+- Inspecção do Ensino Particular
+- Matrícula
+- Pessoal Docente
+relationships:
+- type: amended_by
+  target: pt:dre:265328:por
+  label: "Considerado revogado, com a publicação do presente diploma, o Estatuto do Ensino Particular, aprovado pelo Decreto-Lei\
+    \ n.º 23447, de 5 Janeiro de 1934, DG.IS [4], pelo DEC LEI.37544.08.09.1949.MEN, DG.IS [197] de 08.09.1949\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37544-1949-265328
+  date: '1949-09-08'
+- type: amended_by
+  target: pt:dre:430644:por
+  label: "Alterado o nº1 do art. 9º do Estatuto pelo DEC LEI.602/76.23.07.1976.MEIC, DR.IS [171] de 23.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/602-1976-430644
+  date: '1976-07-23'
+- type: amended_by
+  target: pt:dre:141800:por
+  label: "Repristinados a parte final do nº 1 do art. 23º, quanto ao ensino de alunos maiores de 18 anos, o nº 2 do mesmo\
+    \ art. e os arts. 24º, 25º, 26º e 27º todos do Estatuto do Ensino Particular (revogados pelo Dec lei 503/76 de 23-Jul)\
+    \ pelo DEC LEI.60/77.22.02.1977.MEIC, DR.IS [44] de 22.02.1977, em tudo o que não contrarie o disposto neste último diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1977-141800
+  date: '1977-02-22'
+- type: repealed_by
+  target: pt:dre:430645:por
+  label: "Revogada a parte final do art. 23º, quanto ao ensino de alunos maiores de 18 anos, o nº 2 do mesmo art. e os arts.\
+    \ 24º, 25º 26º e 27º do Estatuto do Ensino Particular pelo DEC LEI.603/76.23.07.1976.MEIC, DR.IS [171] de 23.07.1976\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/603-1976-430645
+  date: '1976-07-23'
+- type: repealed_by
+  target: pt:dre:382863:por
+  label: "Revogado o n.º 14 do art. 25.º do presente diploma, pelo DR.7/79.28.03.1979.PCM, DR.IS [73] de 28.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-1979-382863
+  date: '1979-03-28'
+- type: repealed_by
+  target: pt:dre:458182:por
+  label: "Revogado pelo DEC LEI.553/80.21.11.1980.MECI, DR.IS [270] de 21.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/553-1980-458182
+  date: '1980-11-21'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:20:23Z'
+  warnings:
+  - Sem texto eletrónico no DRE; o registo liga apenas ao PDF oficial.
+  errors: []
+---
+
+# Decreto n.º 37545
+
+> O texto deste diploma não está disponível em formato eletrónico. [Ver documento original](https://files.diariodarepublica.pt/1s/1949/09/19700/06540662.pdf)

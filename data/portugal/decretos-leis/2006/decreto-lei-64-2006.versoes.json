@@ -1,0 +1,450 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667773:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-64297652",
+ "dre_path": "/dr/detalhe/decreto-lei/64-2006-667773",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-03-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "63823366",
+    "63823367",
+    "63823368",
+    "63823369",
+    "63823370",
+    "63823371",
+    "63823372",
+    "63823373",
+    "63823374",
+    "65824775",
+    "65824776",
+    "65824777",
+    "65824778",
+    "65824779",
+    "65824780",
+    "65824781",
+    "65824782",
+    "65824783",
+    "65824784",
+    "65824785",
+    "65824786",
+    "65824787",
+    "65824788",
+    "65824789",
+    "65824790",
+    "65824791",
+    "65824792",
+    "65824793",
+    "65824794"
+   ]
+  },
+  {
+   "date": "2014-07-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:55021010:por",
+     "title": "Decreto-Lei n.º 113/2014",
+     "published": "2014-07-16",
+     "dre_path": "/dr/detalhe/decreto-lei/113-2014-55021010"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "63823366",
+    "63823367",
+    "63823368",
+    "63823369",
+    "63823370",
+    "63823371",
+    "63823372",
+    "63823373",
+    "63823374",
+    "65824775",
+    "65824776",
+    "65824777",
+    "65824778",
+    "65824779",
+    "65824780",
+    "65824781",
+    "75326350",
+    "75326351",
+    "75326352",
+    "75326353",
+    "65824785",
+    "65824786",
+    "65824787",
+    "65824788",
+    "75326354",
+    "65824790",
+    "65824791",
+    "65824792",
+    "65824793",
+    "65824794",
+    "65824795"
+   ]
+  },
+  {
+   "date": "2016-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75319452:por",
+     "title": "Decreto-Lei n.º 63/2016",
+     "published": "2016-09-13",
+     "dre_path": "/dr/detalhe/decreto-lei/63-2016-75319452"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "63823366",
+    "63823367",
+    "63823368",
+    "63823369",
+    "63823370",
+    "75326355",
+    "63823372",
+    "63823373",
+    "63823374",
+    "65824775",
+    "65824776",
+    "65824777",
+    "65824778",
+    "65824779",
+    "65824780",
+    "65824781",
+    "75326350",
+    "75326351",
+    "75326356",
+    "75326353",
+    "65824785",
+    "65824786",
+    "65824787",
+    "65824788",
+    "75326354",
+    "65824790",
+    "65824791",
+    "65824792",
+    "65824793",
+    "65824794",
+    "65824795"
+   ]
+  }
+ ],
+ "fragments": {
+  "63823366": {
+   "fragment_id": "64297653",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 64/2006\n\nde 21 de Março\n\nO Programa do XVII Governo Constitucional consagra como um dos objectivos a prosseguir para a política do ensino superior a promoção de igualdade de oportunidades no acesso a este grau de ensino, atraindo novos públicos, numa lógica de aprendizagem ao longo de toda a vida.\n\nA prossecução de tal objectivo passa pela aprovação de regras que facilitem e flexibilizem o ingresso e o acesso ao ensino superior, nomeadamente a estudantes que reúnam condições habilitacionais específicas, alargando a respectiva área de recrutamento.\n\nNeste contexto, a Lei de Bases do Sistema Educativo consagrou o direito ao acesso ao ensino superior a indivíduos que, não estando habilitados com um curso secundário ou equivalente, façam prova, especialmente adequada, de capacidade para a sua frequência.\n\nA Lei n.º 49/2005, de 30 de Agosto, veio estabelecer a flexibilização do sistema, ao atribuir a cada uma das instituições a responsabilidade pela selecção dos alunos adultos, privilegiando como critério a experiência profissional dos candidatos.\n\nA publicação da referida lei pôs termo a um regime que se revelou extraordinariamente restritivo no acesso ao ensino superior de estudantes adultos.\n\nUrge, agora, regular a Lei de Bases do Sistema Educativo em tal matéria, de forma a adequá-la a este novo modelo, alargando a área de recrutamento de eventuais candidatos e possibilitando o ingresso a um maior número de pessoas.\n\nForam ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado.\n\nAssim:\n\nNo desenvolvimento da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada, pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\nCondições especiais de acesso e ingresso no ensino superior"
+  },
+  "63823367": {
+   "fragment_id": "64297654",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e âmbito"
+  },
+  "63823368": {
+   "fragment_id": "64297655",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei regulamenta as provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, previstas no n.º 5 do artigo 12.º da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, adiante designadas por «provas»."
+  },
+  "63823369": {
+   "fragment_id": "64297656",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO disposto no presente decreto-lei aplica-se a todos os estabelecimentos de ensino superior, com excepção dos estabelecimentos de ensino superior público militar e policial."
+  },
+  "63823370": {
+   "fragment_id": "64297657",
+   "type": 1,
+   "heading": "Capítulo II — Objecto e estrutura das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Objecto e estrutura das provas"
+  },
+  "63823371": {
+   "fragment_id": "64297658",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto das provas\n\nAs provas visam avaliar a capacidade para a frequência de um curso de licenciatura num estabelecimento de ensino superior."
+  },
+  "63823372": {
+   "fragment_id": "64297659",
+   "type": 11,
+   "heading": "Artigo 4.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Forma\n\nA avaliação da capacidade para a frequência reveste as formas que sejam consideradas mais adequadas para cada curso e para cada perfil de candidato, em cada estabelecimento de ensino superior."
+  },
+  "63823373": {
+   "fragment_id": "64297660",
+   "type": 11,
+   "heading": "Artigo 5.º — Componentes obrigatórias da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Componentes obrigatórias da avaliação\n\n1 - A avaliação da capacidade para a frequência integra, obrigatoriamente:\n\na) A apreciação do currículo escolar e profissional do candidato;\n\nb) A avaliação das motivações do candidato, que pode ser feita, designadamente, através da realização de uma entrevista;\n\nc) A realização de provas teóricas e ou práticas de avaliação dos conhecimentos e competências considerados indispensáveis ao ingresso e progressão no curso, as quais podem ser organizadas em função dos diferentes perfis dos candidatos e dos cursos a que se candidatam.\n\n2 - As provas devem incidir, exclusivamente, sobre as áreas de conhecimento directamente relevantes para o ingresso e progressão no curso."
+  },
+  "63823374": {
+   "fragment_id": "64297661",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência\n\nO órgão legal e estatutariamente competente de cada estabelecimento de ensino superior fixa a forma que deve revestir a avaliação da capacidade para a frequência de cada um dos seus cursos de licenciatura."
+  },
+  "65824775": {
+   "fragment_id": "64297662",
+   "type": 11,
+   "heading": "Artigo 7.º — Periodicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Periodicidade\n\nAs provas são realizadas anualmente."
+  },
+  "65824776": {
+   "fragment_id": "64297663",
+   "type": 1,
+   "heading": "Capítulo III — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Inscrição"
+  },
+  "65824777": {
+   "fragment_id": "64297664",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições para requerer a inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições para requerer a inscrição\n\nPodem inscrever-se para a realização das provas os candidatos que completem 23 anos até ao dia 31 de Dezembro do ano que antecede a realização das provas."
+  },
+  "65824778": {
+   "fragment_id": "64297665",
+   "type": 11,
+   "heading": "Artigo 9.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Inscrição\n\nA inscrição para a realização das provas é apresentada no estabelecimento de ensino superior onde o candidato pretende ingressar."
+  },
+  "65824779": {
+   "fragment_id": "64297666",
+   "type": 1,
+   "heading": "Capítulo IV — Organização e realização das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Organização e realização das provas"
+  },
+  "65824780": {
+   "fragment_id": "64297667",
+   "type": 11,
+   "heading": "Artigo 10.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Júri\n\nA organização e realização das provas é da competência de júris nomeados pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior a que se destinam."
+  },
+  "65824781": {
+   "fragment_id": "64297668",
+   "type": 11,
+   "heading": "Artigo 11.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Classificação\n\nAos candidatos aprovados é atribuída, pelo júri, uma classificação final expressa no intervalo 10-20 da escala numérica inteira de 0 a 20."
+  },
+  "65824782": {
+   "fragment_id": "64297669",
+   "type": 11,
+   "heading": "Artigo 12.º — Efeitos e validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Efeitos e validade\n\n1 - A aprovação nas provas para o acesso ao ensino superior produz efeitos para a candidatura ao ingresso no par estabelecimento/curso para que tenham sido realizadas.\n\n2 - O regulamento a que se refere o artigo 14.º pode prever que as provas sejam utilizadas para a candidatura à matrícula e inscrição em mais que um curso do mesmo estabelecimento de ensino superior.\n\n3 - O disposto no presente artigo não prejudica a possibilidade de um estabelecimento de ensino superior admitir à candidatura à matrícula e inscrição num dos seus cursos estudantes aprovados em provas de ingresso em cursos de outros estabelecimentos de ensino superior.\n\n4 - As provas têm, exclusivamente, o efeito referido nos números anteriores, não lhes sendo concedida qualquer equivalência a habilitações escolares."
+  },
+  "65824783": {
+   "fragment_id": "64297670",
+   "type": 11,
+   "heading": "Artigo 13.º — Creditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Creditação\n\nOs estabelecimentos de ensino superior devem reconhecer, através da atribuição de créditos nos seus ciclos de estudos, a experiência profissional e a formação dos que nele sejam admitidos através das provas."
+  },
+  "65824784": {
+   "fragment_id": "64297671",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regulamento\n\n1 - O órgão legal e estatutariamente competente de cada estabelecimento de ensino superior aprova o regulamento das provas.\n\n2 - Do regulamento devem constar, designadamente, as seguintes matérias:\n\na) Prazos e regras de inscrição para a realização das provas;\n\nb) Componentes que as integram;\n\nc) Composição e forma de nomeação do júri;\n\nd) Regras de realização de cada uma das componentes que integram as provas;\n\ne) Critérios de classificação e de atribuição da classificação final;\n\nf) Efeitos e validade a que se refere o artigo 12.º\n\n3 - Os regulamentos são publicados no Diário da República, 2.ª série."
+  },
+  "65824785": {
+   "fragment_id": "64297672",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "65824786": {
+   "fragment_id": "64297673",
+   "type": 11,
+   "heading": "Artigo 15.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Informação\n\n1 - Os estabelecimentos de ensino superior promovem a divulgação da informação acerca dos prazos e regras de realização das provas, designadamente através dos seus sítios na Internet.\n\n2 - A informação a que se refere o número anterior é igualmente comunicada por cada estabelecimento de ensino superior à Direcção-Geral do Ensino Superior, tendo em vista a divulgação através do seu sítio na Internet."
+  },
+  "65824787": {
+   "fragment_id": "64297674",
+   "type": 11,
+   "heading": "Artigo 16.º — Informação estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Informação estatística\n\nOs estabelecimentos de ensino superior comunicam, anualmente, ao Observatório da Ciência e do Ensino Superior e à Direcção-Geral do Ensino Superior, nos termos e prazos por estes fixados, informação estatística acerca das inscrições e resultados das provas."
+  },
+  "65824788": {
+   "fragment_id": "65824875",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração ao Decreto-Lei n.º 393-B/99, de 2 de Outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração ao Decreto-Lei n.º 393-B/99, de 2 de Outubro\n\nTodas as referências feitas pelo Decreto-Lei n.º 393-B/99, de 2 de Outubro, ao «exame extraordinário de avaliação de capacidade para acesso ao ensino superior» passam a ser feitas às «provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos»."
+  },
+  "65824789": {
+   "fragment_id": "65824876",
+   "type": 11,
+   "heading": "Artigo 18.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Vagas\n\n1 - O número total de vagas aberto anualmente em cada estabelecimento de ensino superior para a candidatura à matricula e inscrição dos que tenham sido aprovados não pode ser inferior a 5% do número de vagas fixado para o conjunto dos cursos desse estabelecimento de ensino para o regime geral de acesso ao abrigo dos artigos 4.º e 5.º do Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de Março, 26/2003, de 7 de Fevereiro, 76/2004, de 27 de Março, e 158/2004, de 30 de Junho.\n\n2 - A distribuição das vagas pelos cursos ministrados em cada estabelecimento de ensino superior é feita pelo seu órgão legal e estatutariamente competente.\n\n3 - As vagas a que se refere o número anterior são consideradas para o cálculo do limite de 20% a que estão sujeitas as vagas de cada par estabelecimento/curso para o conjunto dos concursos especiais e dos regimes de reingresso, mudança de curso e transferência nos termos do n.º 2 do artigo 5.º do Decreto-Lei n.º 393-B/99, de 2 de Outubro,\n\n4 - Esgotado o limite a que se refere o número anterior, as vagas do concurso geral que não forem preenchidas podem sê-lo até ao limite fixado, com a seguinte precedência:\n\na) Alunos provenientes de cursos de especialização tecnológica;\n\nb) Alunos que tenham sido aprovados nas provas reguladas pelo presente decreto-lei.\n\n5 - Esgotado o limite a que se refere o n.º 3, a instituição de ensino superior pode requerer, excepcional e fundamentadamente, o aumento do limite das respectivas vagas nos termos da legislação em vigor."
+  },
+  "65824790": {
+   "fragment_id": "65824877",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nEstudantes aprovados no exame extraordinário de avaliação de capacidade para o acesso ao ensino superior\n\nOs estudantes aprovados no exame extraordinário de avaliação de capacidade para o acesso ao ensino superior conservam o direito a apresentar candidatura ao concurso especial a que se refere a alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 393-B/99, de 2 de Outubro, até ao fim do prazo de validade fixado pelo n.º 1 do artigo 22.º do Regulamento do Exame Extraordinário de Avaliação de Capacidade para Acesso ao Ensino Superior, aprovado pela Portaria n.º 106/2002, de 1 de Fevereiro, rectificada pela Declaração de Rectificação n.º 8-N/2002, de 28 de Fevereiro, e alterada pela Portaria n.º 1/2005, de 3 de Janeiro."
+  },
+  "65824791": {
+   "fragment_id": "65824878",
+   "type": 11,
+   "heading": "Artigo 20.º — Cursos de bacharelato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Cursos de bacharelato\n\nPodem ser realizadas provas especiais para acesso a cursos de bacharelato até à cessação do seu funcionamento."
+  },
+  "65824792": {
+   "fragment_id": "65824879",
+   "type": 11,
+   "heading": "Artigo 21.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Aplicação\n\nO disposto no presente decreto-lei aplica-se a partir do ano lectivo de 2006-2007, inclusive."
+  },
+  "65824793": {
+   "fragment_id": "65824880",
+   "type": 11,
+   "heading": "Artigo 22.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disposição revogatória\n\nSem prejuízo do disposto no artigo 19.º, são revogados:\n\na) O Decreto-Lei n.º 198/79, de 29 de Junho;\n\nb) O Regulamento do Exame Extraordinário de Avaliação de Capacidade para Acesso ao Ensino Superior, aprovado pela Portaria n.º 106/2002, de 1 de Fevereiro, rectificada pela Declaração de Rectificação n.º 8-N/2002, de 28 de Fevereiro, e alterada pela Portaria n.º 1/2005, de 3 de Janeiro."
+  },
+  "65824794": {
+   "fragment_id": "65824881",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "75326350": {
+   "fragment_id": "75326439",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Processo individual do estudante",
+   "in_force_from": "2014-07-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 113/2014 - Diário da República n.º 135/2014, Série I de 2014-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2014-55021010), em vigor a partir de 2014-07-17"
+   ],
+   "markdown": "###### Artigo 11.º-A — Processo individual do estudante\n\nIntegram obrigatoriamente o processo individual do estudante todos os documentos relacionados com a realização das provas, incluindo as provas escritas efetuadas.\n\n> Aditado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 113/2014 - Diário da República n.º 135/2014, Série I de 2014-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2014-55021010), em vigor a partir de 2014-07-17"
+  },
+  "75326351": {
+   "fragment_id": "64297669",
+   "type": 11,
+   "heading": "Artigo 12.º — Efeitos e validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Efeitos e validade\n\n1 - A aprovação nas provas para o acesso ao ensino superior produz efeitos para a candidatura ao ingresso no par estabelecimento/curso para que tenham sido realizadas.\n\n2 - O regulamento a que se refere o artigo 14.º pode prever que as provas sejam utilizadas para a candidatura à matrícula e inscrição em mais que um curso do mesmo estabelecimento de ensino superior.\n\n3 - O disposto no presente artigo não prejudica a possibilidade de um estabelecimento de ensino superior admitir à candidatura à matrícula e inscrição num dos seus cursos estudantes aprovados em provas de ingresso em cursos de outros estabelecimentos de ensino superior.\n\n4 - As provas têm, exclusivamente, o efeito referido nos números anteriores, não lhes sendo concedida qualquer equivalência a habilitações escolares."
+  },
+  "75326352": {
+   "fragment_id": "64297670",
+   "type": 11,
+   "heading": "Artigo 13.º — Creditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Creditação\n\nOs estabelecimentos de ensino superior devem reconhecer, através da atribuição de créditos nos seus ciclos de estudos, a experiência profissional e a formação dos que nele sejam admitidos através das provas."
+  },
+  "75326353": {
+   "fragment_id": "64297671",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regulamento\n\n1 - O órgão legal e estatutariamente competente de cada estabelecimento de ensino superior aprova o regulamento das provas.\n\n2 - Do regulamento devem constar, designadamente, as seguintes matérias:\n\na) Prazos e regras de inscrição para a realização das provas;\n\nb) Componentes que as integram;\n\nc) Composição e forma de nomeação do júri;\n\nd) Regras de realização de cada uma das componentes que integram as provas;\n\ne) Critérios de classificação e de atribuição da classificação final;\n\nf) Efeitos e validade a que se refere o artigo 12.º\n\n3 - Os regulamentos são publicados no Diário da República, 2.ª série."
+  },
+  "75326354": {
+   "fragment_id": "65824876",
+   "type": 11,
+   "heading": "Artigo 18.º — Vagas",
+   "in_force_from": "2014-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 113/2014 - Diário da República n.º 135/2014, Série I de 2014-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2014-55021010), em vigor a partir de 2014-07-17"
+   ],
+   "markdown": "###### Artigo 18.º — Vagas\n\n1 - O número total de vagas aberto anualmente em cada estabelecimento de ensino superior para a candidatura à matricula e inscrição dos que tenham sido aprovados não pode ser inferior a 5% do número de vagas fixado para o conjunto dos cursos desse estabelecimento de ensino para o regime geral de acesso ao abrigo dos artigos 4.º e 5.º do Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de Março, 26/2003, de 7 de Fevereiro, 76/2004, de 27 de Março, e 158/2004, de 30 de Junho.\n\n2 - A distribuição das vagas pelos cursos ministrados em cada estabelecimento de ensino superior é feita pelo seu órgão legal e estatutariamente competente.\n\n3 - As vagas a que se refere o número anterior são consideradas para o cálculo do limite de 20% a que estão sujeitas as vagas de cada par estabelecimento/curso para o conjunto dos concursos especiais e dos regimes de reingresso, mudança de curso e transferência nos termos do n.º 2 do artigo 5.º do Decreto-Lei n.º 393-B/99, de 2 de Outubro,\n\n4 - Esgotado o limite a que se refere o número anterior, as vagas do concurso geral que não forem preenchidas podem sê-lo até ao limite fixado, com a seguinte precedência:\n\na) Alunos provenientes de cursos de especialização tecnológica;\n\nb) Alunos que tenham sido aprovados nas provas reguladas pelo presente decreto-lei.\n\n5 - Esgotado o limite a que se refere o n.º 3, a instituição de ensino superior pode requerer, excepcional e fundamentadamente, o aumento do limite das respectivas vagas nos termos da legislação em vigor.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 113/2014 - Diário da República n.º 135/2014, Série I de 2014-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2014-55021010), em vigor a partir de 2014-07-17"
+  },
+  "65824795": {
+   "fragment_id": "65824882",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.\n\nPromulgado em 1 de Março de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Março de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "75326355": {
+   "fragment_id": "64297658",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto das provas",
+   "in_force_from": "2016-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   ],
+   "markdown": "###### Artigo 3.º — Objecto das provas\n\nAs provas visam avaliar a capacidade para a frequência de um curso técnico superior profissional, de um ciclo de estudos de licenciatura ou de um ciclo de estudos integrado de mestrado..\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+  },
+  "75326356": {
+   "fragment_id": "64297670",
+   "type": 11,
+   "heading": "Artigo 13.º — Creditação",
+   "in_force_from": "2016-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+   ],
+   "markdown": "###### Artigo 13.º — Creditação\n\nAs instituições de ensino superior podem, nos termos fixados pelo Decreto-Lei n.º 74/2006, de 24 de março, alterado e republicado pelo Decreto-Lei n.º 63/2016, de 13 de setembro, reconhecer, através da atribuição de créditos nos seus ciclos de estudos, a experiência profissional e a formação dos que nele sejam admitidos através das provas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2016-75319452), em vigor a partir de 2016-09-14"
+  }
+ }
+}

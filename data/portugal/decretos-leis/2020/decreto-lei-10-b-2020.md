@@ -1,0 +1,196 @@
+---
+schema_version: '1.0'
+id: pt:dre:130473160:por
+title: Decreto-Lei n.º 10-B/2020
+short_title: null
+summary: Atualiza a base remuneratória e o valor das remunerações base mensais da Administração Pública
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Modernização do Estado e da Administração Pública
+official_number: 10-B/2020
+official_date: null
+publication_date: '2020-03-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 57/2020, 1º Suplemento, Série I de 2020-03-20
+  number: '57'
+  series: I
+  supplement: null
+  pages: 11-(2) a 11-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05701/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/10-b/2020/03/20/p/dre/pt/html
+  oj: null
+  dre: '130473160'
+  dre_path: /dr/detalhe/decreto-lei/10-b-2020-130473160
+  internal: pt:dre:130473160:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-b-2020-130473160
+  metadata_url: https://data.dre.pt/eli/dec-lei/10-b/2020/03/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-b-2020-130473160
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:39:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0a498ab217a89991b749576d700b335608ee6cb2397e4e716063bf4389c74eed
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Função Pública
+- Funcionário Público
+- Remuneração
+- Tabela Salarial
+relationships:
+- type: amended_by
+  target: pt:dre:155938993:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:119901746:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29/2019/02/20/p/dre
+- type: cites
+  target: pt:dre:243732:por
+  label: null
+  source: http://data.dre.pt/eli/port/1553-c/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
+- type: repealed_by
+  target: pt:dre:155938993:por
+  label: Revogada, com efeitos a 01.01.2021, nos termos do art. 6.º, o presente decreto lei, pelo(a) Decreto-Lei n.º 10/2021
+    - Diário da República n.º 21/2021, Série I de 2021-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2021-155938993
+  date: '2021-02-01'
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:39:12Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 10-B/2020
+
+de 20 de março
+
+O Programa do XXII Governo Constitucional assumiu o compromisso de prosseguir uma política de aumento da massa salarial da Administração Pública, tendo por referência o valor anual de 3 %. O referido acréscimo resultará, numa primeira fase, sobretudo do impacto das medidas relativas ao descongelamento das carreiras, que se sentirá de forma significativa até 2020, do aumento do emprego público promovido nos últimos anos e do efeito extraordinário da reposição do tempo em algumas carreiras, que se concluirá em 2021.
+
+Contudo, foi igualmente referido pelo Governo, no seu Programa, que este aumento da massa salarial comportaria uma margem para aumento de salários, podendo os mesmos ser mais expressivos a partir de 2021.
+
+Relembre-se, nesse sentido, que na anterior legislatura se procedeu, através da aprovação do [Decreto-Lei n.º 29/2019](https://diariodarepublica.pt/web/guest/pesquisa/-/search/119901746/details/normal?l=1), de 20 de fevereiro, à atualização da base remuneratória para a Administração Pública, que abrangeu os trabalhadores da Administração Pública que auferiam uma remuneração base de valor inferior a (euro) 635,07, o que significou uma elevação da remuneração mais baixa, que, em 2018, se situava em (euro) 580.
+
+Por sua vez, o presente ano corresponde à retoma do normal desenvolvimento das carreiras, de acordo com o compromisso de valorização dos trabalhadores assumido por este Governo. Recorde-se que, em dezembro de 2019, cerca de 500 mil trabalhadores em funções públicas beneficiaram de um impulso salarial decorrente da última fase do processo de descongelamento.
+
+Deste modo, em linha com o referido no Programa do XXII Governo Constitucional, os trabalhadores da Administração Pública que aufiram a base remuneratória da Administração Pública ou cujo valor da remuneração base mensal se situe até ao valor do montante pecuniário do nível 5 da tabela remuneratória única (TRU) terão, em 2020, uma atualização salarial de (euro) 10, sendo a remuneração dos trabalhadores que não se encontrem nesta condição atualizada, em função da inflação estimada de 2019, em 0,3 %. Estas atualizações são retroativas a 1 de janeiro.
+
+Assim, e com vista a contribuir para reforçar um caminho da coesão social e do combate à desigualdade e à exclusão social, proporcionando melhores e mais dignas condições de trabalho e de vida aos trabalhadores da Administração Pública que auferem remunerações mais baixas, procede-se, por um lado, ao aumento da base remuneratória da Administração Pública e, por outro, à atualização, em função da inflação verificada, do valor do montante pecuniário do nível 5 da TRU. Por seu turno, a atualização em 0,3 % da remuneração base mensal dos trabalhadores da Administração Pública representa uma retoma de valorização geral que, note-se, não acontecia desde 2009.
+
+Deste modo, o Governo continua a aprofundar o caminho da valorização dos trabalhadores, da qual a componente salarial é um dos fatores, o que se revela fundamental para alcançar tanto o objetivo de uma gestão cada vez melhor dos serviços públicos, com profissionais mais motivados, como o desígnio de progresso social, alicerçado em salários dignos.
+
+Foram observados os procedimentos previstos na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/25676932/details/normal?l=1), de 20 de junho, na sua redação atual, em matéria de negociação coletiva.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece a atualização da base remuneratória da Administração Pública e do valor das remunerações base mensais nela existentes.
+
+###### Artigo 2.º — Valor da base remuneratória na Administração Pública
+
+O valor da remuneração base praticada na Administração Pública é de (euro) 645,07.
+
+###### Artigo 3.º — Atualização dos montantes pecuniários dos níveis remuneratórios
+
+1 - O valor do montante pecuniário do nível 5 da tabela remuneratória única (TRU), aprovada pela [Portaria n.º 1553-C/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243732/details/normal?l=1), de 31 de dezembro, é atualizado para (euro) 693,13.
+
+2 - O valor dos montantes pecuniários dos níveis remuneratórios acima do nível 5 da TRU é atualizado em 0,3 %.
+
+###### Artigo 4.º — Atualização das remunerações base na Administração Pública
+
+1 - A remuneração base mensal dos trabalhadores que auferem uma remuneração entre (euro) 635,07 e (euro) 683,13 é atualizada em (euro) 10.
+
+2 - A remuneração base mensal dos trabalhadores que auferem uma remuneração entre (euro) 683,14 e (euro) 691,06 é atualizada para (euro) 693,13.
+
+3 - As remunerações base mensais superiores a (euro) 691,06 existentes na Administração Pública são atualizadas em 0,3 %.
+
+###### Artigo 5.º — Remuneração dos trabalhadores da Administração Pública
+
+1 - Sem prejuízo do disposto no artigo anterior, sempre que das tabelas remuneratórias aplicáveis à carreira, à categoria ou ao contrato decorra uma remuneração base inferior à remuneração base a que se refere o artigo 2.º, é este o montante que o trabalhador tem direito a auferir, sendo colocado na posição remuneratória correspondente.
+
+2 - Para efeitos do presente decreto-lei, a referência a «remuneração base» corresponde ao período normal de trabalho e em regime de tempo integral.
+
+3 - Com a aplicação do disposto no presente decreto-lei, o trabalhador mantém os pontos e correspondentes menções qualitativas de avaliação do desempenho para efeitos de futura alteração de posicionamento remuneratório.
+
+4 - O disposto no presente decreto-lei é aplicável aos trabalhadores da Administração Pública com contrato de trabalho celebrado ao abrigo do Código do Trabalho que exercem funções nas entidades a que se referem as alíneas a) e c) do n.º 1 do artigo 2.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/25676932/details/normal?l=1), de 20 de junho, na sua redação atual.
+
+5 - O disposto no presente decreto-lei é ainda aplicável, com as devidas adaptações, aos trabalhadores que exercem funções nas empresas públicas do setor público empresarial, na aceção do artigo 5.º do regime jurídico do setor público empresarial, aprovado pelo [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/500215/details/normal?l=1), de 3 de outubro, na sua redação atual, que não sejam abrangidos por instrumentos de regulamentação coletiva de trabalho em vigor.
+
+###### Artigo 6.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 29/2019](https://diariodarepublica.pt/web/guest/pesquisa/-/search/119901746/details/normal?l=1), de 20 de fevereiro.
+
+###### Artigo 7.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos desde 1 de janeiro de 2020.
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 5 de março de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Alexandra Ludomila Ribeiro Fernandes Leitão.
+
+Promulgado em 19 de março de 2020.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 20 de março de 2020.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113135846

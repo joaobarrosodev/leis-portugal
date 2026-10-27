@@ -1,0 +1,402 @@
+---
+schema_version: '1.0'
+id: pt:dre:260421:por
+title: Portaria n.º 154/2013
+short_title: null
+summary: Aprova a Lista de novas substâncias psicoativas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 154/2013
+official_date: null
+publication_date: '2013-04-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 75/2013, Série I de 2013-04-17
+  number: '75'
+  series: I
+  supplement: null
+  pages: 2254 - 2257
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/04/07500/0225402257.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-09-08'
+version_history:
+  file: portaria-154-2013.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2013-04-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-09-08'
+    amending: pt:dre:200734331:por
+    amending_title: Portaria n.º 232/2022
+    changes:
+    - Altera Anexo
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/154/2013/p/cons/20220907/pt/html
+  oj: null
+  dre: '260421'
+  dre_path: /dr/detalhe/portaria/154-2013-260421
+  internal: pt:dre:260421:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/154-2013-260421
+  metadata_url: https://data.dre.pt/eli/port/154/2013/p/cons/20220907/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-200731820
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-200731820
+  retrieved_at: '2026-10-22T12:52:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 23bee75845663bfca1c0c42a2bb5378357cba22b3e60784370fc18af03329247
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:52:27Z'
+  notes: 2 versão(ões); histórico completo em portaria-154-2013.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Combate à Droga
+- Saúde Pública
+- Lista
+- Droga
+- Substância Estupefaciente ou Psicotrópica
+relationships:
+- type: amended_by
+  target: pt:dre:200734331:por
+  label: Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/232-2022-200734331
+  date: '2022-09-07'
+- type: cites
+  target: pt:dre:260418:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/54/2013/04/17/p/dre
+article_structure:
+  article_count: 2
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:52:27Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 154/2013
+
+Portaria n.º 154/2013
+
+de 17 de abril
+
+O Decreto-Lei n.º 54/2013, de 17 de abril, que define o regime jurídico da prevenção e proteção contra a publicidade e o comércio das novas substâncias psicoativas, proíbe a produção, importação, exportação, publicidade, distribuição, venda, detenção, ou disponibilização de novas substâncias psicoativas.
+
+O referido decreto-lei considera novas substâncias psicoativas as substâncias não especificamente enquadradas e controladas ao abrigo de legislação própria que, em estado puro ou numa preparação, podem constituir uma ameaça para a saúde pública comparável à das substâncias previstas naquela legislação, com perigo para a vida ou para a saúde e integridade física, devido aos efeitos no sistema nervoso central, podendo induzir alterações significativas a nível da função motora, bem como das funções mentais, designadamente do raciocínio, juízo crítico e comportamento, muitas vezes com estados de delírio, alucinações ou extrema euforia, podendo causar dependência e, em certos casos, produzir danos duradouros ou mesmo permanentes sobre a saúde dos consumidores.
+
+Nos termos do disposto no artigo 3º daquele decreto-lei, as novas substâncias psicoativas constam de lista a aprovar por portaria do membro do Governo responsável pela área da saúde.
+
+Atendendo ao exposto, importa aprovar a lista de novas substâncias psicoativas.
+
+Assim:
+
+Ao abrigo do disposto no artigo 3º do Decreto-Lei n.º 54/2013, de 17 de abril, manda o Governo, pelo Ministro da Saúde, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É aprovada a lista de novas substâncias psicoativas a que se refere o artigo 3º do Decreto-Lei n.º 54/2013, de 17 de abril, constante do anexo à presente portaria e da qual faz parte integrante.
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 11 de abril de 2013.
+
+## Anexo — Lista de novas substâncias psicoativas
+
+FENILETILAMINAS E DERIVADOS
+
+1) 1-Fenil1-propanamina (1-fenilpropilamina)
+
+2) 1-PEA (1-feniletilamina) 2- ou 3-fluoroanfetamina 2,4-DMA (2,4-dimetoxi-alfa-metilbenzenoetanamina; ou 2,5-DMA (2,5-dimetoxi-alfa-metilbenzenoetanamina)
+
+3) 2-Aminoindano (2,3-di-hidro 1H-Inden2-amina; ou 1-aminoindan (2,3-di-hidro 1H-Inden1-amina)
+
+4) 2C-B-Fly (8-bromo2,3,6,7-benzodi-hidrodifuranetilamina; ou 2-(8-bromo2,3,6,7-tetra-hidrofuro [2,3 -f][1]benzofuran-4 -il)etanamina
+
+5) 2C-P (2,5-dimetoxi4-(n)-propilfenetilamina; ou 2-(2,5-dimetoxi4-propilfenil)etanamina)
+
+6) 2-DPMP (2-difenilmetilpiperidina)
+
+7) 2-PEA (2-fenetilamina)
+
+8) 5-IAI (5-iodo2-aminoindano)
+
+9) Benzilpiperidina (4-(fenilmetil)piperidina)
+
+10) Camfetamina (N-metil3-fenilbiciclo[2.2.1]heptan-2-amina)
+
+11) Desoxi-D2PM (2-(difenilmetil)pirrolidina)
+
+12) DPIA (Di-(beta)-fenilisopropil)amina)
+
+13) M-ALFA (1-metilamino1-(3,4-metilenodioxi-fenil)propano)
+
+14) MDAI (6,7-di-hidro5H-ciclopenta[f][1,3]benzo-dioxol-6-amina)
+
+15) N,N-dimetilfenetilamina
+
+16) N-benzil1-fenetilamina
+
+17) N-Etil2C-B (N-etil4-bromo2,5-dimetoxibenzenoetanamina)
+
+18) NMPEA (N-metilfeniletilamina)
+
+19) (beta)-Me-PEA (beta-metil-fenetilamina)
+
+Triptaminas e Derivados
+
+20) 4-AcO-DIPT (4-acetoxi-N,N-diisopropiltriptamina)
+
+21) 4-AcO-DMT (4-acetoxi-N,N-dimetiltriptamina)
+
+22) 4-AcO-MET (4-acetoxi-N-metil-N-etiltriptamina)
+
+23) 4-HO-DET (4-hidroxi-N,N-dietiltriptamina)
+
+24) 4-HO-DIPT (4-hidroxi-N,N-diisopropiltriptamina)
+
+25) 4-HO-MET (4-hidroxi-N-metil-N-etiltriptamina)
+
+26) 5-MeO-AMT (5-metoxi(alfa)-metiltriptamina)
+
+27) 5-MeO-Dalt (N,N-dialil5-metoxitriptamina)
+
+28) 5-MeO-DET (5-metoxi-N,N-dietiltriptamina)
+
+29) 5-MeO-DPT (5-metoxi-N,N-dipropiltriptamina)
+
+30) DIPT (diisopropiltriptamina)
+
+31) Harmina (7-Metoxi1-metil9H-pirido[3,4-b]indol)
+
+32) MIPT (N-Metil-N-isopropiltriptamina)
+
+Piperazinas e Derivados
+
+33) 2C-B-BZP (1-(4-bromo2,5-dimetoxibenzil)piperazina)
+
+34) DBZP (1,4-dibenzilpiperazina)
+
+35) Gelbes (cloridrato de 1-(3-clorofenil)-4-(3-cloropropil)piperazina)
+
+36) mCPP (1-(3-clorofenil)piperazina); ou CPP (clor-fenil-piperazina)
+
+37) MeOPP (1-(4-metoxifenil)-piperazina)
+
+38) pCPP (1-(4-clorofenil)piperazina)
+
+39) pFPP (p-fluorofenilpiperazina)
+
+40) TFMPP (1-[3-(trifluorometil)fenil]piperazina)
+
+Derivados da Catinona
+
+41) 2-Metilmetcatinona
+
+42) 2-(metilamino)-1-(2-metilfenil)-1-propanona
+
+43) 3,4-Dimetilmetcatinona ou 3,4-DMMC (1-(3,4-dimetilfenil)-2-(metilamino)propan-1-ona)
+
+44) 3-FMC ou 3-Fluorometcatinona (1-(3-Fluorofenil)-2-(metilamino)propan-1-ona)
+
+45) 4-EMC (4-etilmetcatinona) (RS)-2-metilamino1-(4-etilfenil)propan-1-ona)
+
+46) 4-MBC (4-metil-N-benzilcatinona)
+
+47) bk-PMMA ou metedrona (4-metoximetcatinona)
+
+48) BMDB (2-Benzilamino1-(3,4-metilenodioxifenil) butan-1-ona)
+
+49) BMDP (2-Benzilamino1-(3,4-metilenodioxifenil)propan-1-ona)
+
+50) Brefedrona (RS)-1-(4-bromofenil)-2-metilaminopropan1-ona)
+
+51) Dibutilona/bk-MMBDB (2-Dimetilamino1-(3,4-metilenodioxifenil)butan-1-ona)
+
+52) Flefedrona (p-fluorometcatinona)
+
+53) MDPBP (3',4'-metilenodioxi(alfa)-pirrolidinobutirofenona)
+
+54) MDPPP (3',4'-metilenodioxi(alfa)-pirrolidinopropiofenona)
+
+55) MPPP (4'-metil-alfa-pirrolidinopropiofenona)
+
+56) Nafirona (1-naftalen2-il2-pirrolidin1-il-pentan1-ona)
+
+57) Pentilona (2-metilamino1-(3,4-metilenodioxifenil) pentan-1-ona)
+
+58) PPP (alfa)-pirrolidinopropiofenona)
+
+59) (alfa)-PBP (1-fenil2-pirrolidinobutanona)
+
+Canabinóides Sintéticos
+
+60) 1-(2-metileno-N-metilpiperidil)-3-(2-metoxifenilacetil)indol
+
+61) 3-(4-Hidroximetilbenzoil)-1-pentilindol (4-hidroximetilfenil)(1-pentil1H-indol3-il)metanona)
+
+62) AM-1220 ({1-[(1-metilpiperidin2-il)metil]-1H-indol3-il}(naftil)-metanona)
+
+63) AM-1220 derivado azepano (1-(1-metilazepan3-il)-1H-indol3-il](naftil)metanona)
+
+66) AM-2232 (5-[3-(1-naftoíl)-1H-indol1-il] pentanonitrilo)
+
+67) AM-2233 (1-[(N-metilpiperidin2-il)metil]-3-(2-iodobenzoil)indol)
+
+68) AM-694 (1-[(5-fluoropentil)-1H-indol3-il]-(2-iodofenil)metanona)
+
+69) AM-694 derivado clorado (1-[(5)-cloropentil)-1H-indol3-il]-(2-iodofenil)metanona)
+
+70) CP 47,497 (5-(1,1-dimetil-heptil)-2-[(1R,3S)-3-hidroxiciclo-hexil]-fenol)
+
+71) CP 47,497-C6 homólogo (5-(1,1-dimetil-hexil)-2-[(1R,3S)-3-hidroxiciclo-hexil]-fenol)
+
+72) CP 47,497-C8 homólogo (5-(1,1-dimetiloctil)-2-[(1R,3S)-3-hidroxiciclo-hexil]-fenol)
+
+73) CP 47,497-C9 homólogo (5-(1,1-dimetilnonil)-2-[(1R,3S)-3-hidroxiciclo-hexil]-fenol)
+
+74) CP47,497 (C8 + C2) (derivado dimetilado ou etilado do homólogo C8 de CP47, 497)
+
+75) CRA-13 (naftalen-1-il(4-pentiloxinaftalen1-il) metanona)
+
+76) HU-210 (1,1-dimetil-heptil11-hidroxitetra-hidrocanabinol)
+
+77) JWH-007 (1-pentil2-metil3-(1-naftoil)indol)
+
+78) JWH-015 (1-propil2-metil3-(1-naftoil)indol)
+
+79) JWH-018 derivado adamantoílo (1-pentil3-(1-adamantoíl)indol)
+
+80) JWH-019 (1-hexil3-(1-naftoil)indol)
+
+81) JWH-022 (naftalen-1-il(2-(pent-4-enil)-1H-indol3-il)metanona)
+
+82) JWH-073 (1-butil3-(1-naftoíl)indol)
+
+83) JWH-073 derivado metílico (1-butil3-(1-(4-metil) naftoil)indol)
+
+84) JWH-081 (1-pentil3-(4-metoxi1-naftoil)indol)
+
+85) JWH-122 (1-pentil3-(4-metil1-naftoíl)indol)
+
+86) JWH-182 (1-pentil3-(4-propil1-naftoil)indol)
+
+87) JWH-200 (1-[2-(4-morfolino)etil]-3-(1-naftoíl) indol)
+
+88) JWH-203 (2-(2-clorofenil)-1-(1-pentilindol3-il) etanona)
+
+89) JWH-210 (1-pentil3-(4-etil1-naftoil)indol)
+
+90) JWH-250 (1-pentil3-(2-metoxifenilacetil)indol)
+
+91) JWH-251 (2-(2-metilfenil)-1-(1-pentil1H-indol3-il)metanona)
+
+92) JWH-307 (5-(2-fluorofenil)-1-pentilpirrol3-il)-naftalen1-il-metanona)
+
+93) JWH-387 (1-pentil3-(4-bromo1-naftoil)indol)
+
+94) JWH-398 (1-pentil3-(4-cloro1-naftoíl)indol)
+
+95) JWH-412 (1-pentil3-(4-fluoro1-naftoil)indol)
+
+96) MAM-2201 (1-(5-fluoropentil)-1H-indol3-il)(4-metil1-naftalenil)-metanona)
+
+97) Org 27759 [2-(4-dimetilamino-fenil)-etil]amida do ácido (3-etil5-fluoro1H-indol2-carboxílico
+
+98) Org 29647 (1-benzil-pirrolidin3-il)-amida do ácido (5-cloro3-etil1H-indol2-carboxílico, sal do ácido 2-enodióico)
+
+99) Org 27569 [2-(4-piperidin1-il-fenil)-etil]amida do ácido (5-cloro3-etil1H-indol2-carboxílico
+
+100) Pravadolina/WIN 48,098 (4-metoxifenil)-[2-metil1-(2-morfolin4-il-etil)indol-3-il]metanona)
+
+101) RCS-4 (4-metoxifenil)(1-pentil1H-indol3-il) metanona)
+
+102) RCS-4 orto (2-metoxifenil)(1-pentil1H-indol3-il) metanona)
+
+103) RCS-4 (C4) (4-metoxifenil(1-butil1H-indol3-il) metanona)
+
+Derivados/Análogos da Cocaína
+
+104) 3-(p-Fluorobenzoiloxi)tropano 3(beta)-(p-fluorobenzíloxi)tropano, éster (8-metil8-a zabiciclo[3.2.1]oct-3-il do ácido 4-fluorobenzóico)
+
+105) 4-fluorotropacocaína (4-fluorobenzoato de 3-pseudotropilo ou pFBT)
+
+106) Dimetocaína (4-aminobenzoato de (3-dietilamino2,2-dimetilpropilo)
+
+107) pFBT (3-pseudotropil4-fluorobenzoato)
+
+Plantas e Respetivos Constituintes Ativos
+
+108) Mitragyna speciosa (Kratom e respetivos constituintes psicoativos mitraginina e 7(alfa)-hidroxi7H-mitraginina)
+
+109) Noz de areca, fruto da palmeira areca (Areca catechu) (Arecolina ou éster metílico do ácido N-metil1,2,5,6-tetra-hidropiridina3-carboxílico)
+
+110) Piper methysticum
+
+111) Kava (Cavalactonas)
+
+112) Salvia Divinorum (e respetivos constituintes psicoativos salvinorina A e salvinorina B)
+
+113) Amanita muscaria e os seus compostos ativos muscimol (3-hydroxy5-aminomethyl1-isoxazole) e ácido iboténico (C5H6N2O4, designação IUPAC: S)-2-amino2-(3-hydroxyisoxazol5-yl) acetic acid)
+
+Outros
+
+114) 3-amino1-fenil-butano
+
+115) 3-Metoxi-PCE (3-metoxieticiclidina)
+
+116) 4-MeO-PCP (1-[1-(4-metoxifenil)ciclo-hexil]-piperidina)
+
+117) D2PM (S)-(-)-(alfa),(alfa)-difenil2-pirrolidinilmetanol)
+
+118) DMAA (4-metil-hexan2-amina)
+
+119) LSA (8(beta)-9,10-didesidro6-metil-ergolina8-carboxamida)
+
+120) Metiltienilpropamina/MPA (N-metil1-(tiofen-2-il) propan-2-amina)
+
+121) Nimetazepam (2-metil9-nitro6-fenil2,5-diazabici-clo[5.4.0]undeca-5,8,10,12-tetraen3-ona)
+
+122) ODT (o-desmetiltramadol)
+
+123) Cetamina (RS)-2-(2-Clorofenil)-2-(metilamino)ciclohexanona)
+
+124) Óxido nitroso (N(índice 2)O)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2022 - Diário da República n.º 173/2022, Série I de 2022-09-07](https://diariodarepublica.pt/dr/detalhe/portaria/232-2022-200734331), em vigor a partir de 2022-09-08

@@ -1,0 +1,396 @@
+---
+schema_version: '1.0'
+id: pt:dre:247025:por
+title: Decreto-Lei n.º 45/2008
+short_title: null
+summary: Assegura a execução e garante o cumprimento, na ordem jurídica interna, das obrigações decorrentes para o Estado
+  Português do Regulamento (CE) n.º 1013/2006, do Parlamento Europeu e do Conselho, de 14 de Junho, relativo à transferência
+  de resíduos, e revoga o Decreto-Lei n.º 296/95, de 17 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 45/2008
+official_date: null
+publication_date: '2008-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2008, Série I de 2008-03-11
+  number: '50'
+  series: I
+  supplement: null
+  pages: 1539 - 1543
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/03/05000/0153901543.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/45/2008/03/11/p/dre/pt/html
+  oj: null
+  dre: '247025'
+  dre_path: /dr/detalhe/decreto-lei/45-2008-247025
+  internal: pt:dre:247025:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2008-247025
+  metadata_url: https://data.dre.pt/eli/dec-lei/45/2008/03/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2008-247025
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7728092874ee2e377f4764d8f613fe98ba13fa8e56e0cefb564d9f1eff87429b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Agência Portuguesa do Ambiente
+- Aproximação das Legislações
+- Contra-ordenação
+- Definição de Competências
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Fiscalização
+- Garantia
+- Gestão de Resíduos
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Instituto Portuário e dos Transportes Marítimos
+- Madeira.região Autónoma
+- Proteção do Ambiente
+- Regulamento CE
+- Resíduo Hospitalar
+- Substância Perigosa
+- Taxa
+- Transporte de Resíduos
+- Transporte Marítimo
+relationships:
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:258678:por
+  label: "Dada nova redação aos arts. 3º (cujo nº 1, com a redação ora introduzida produz efeitos nos termos do disposto no\
+    \ art. 3º do Dec Lei 23/2013) e 12º pelo DEC LEI.23/2013.15.02.2013.MAMAOT, DR.IS [33] de 15.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2013-258678
+  date: '2013-02-15'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Atualizadas as taxas previstas no art. 12.º (na redação do Dec Lei 23/2013 de 15-fev) do presente diploma, pelo(a)
+    Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31 nos termos do seu art. 245.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Atualizadas as taxas previstas no art. 12.º do presente diploma pelo(a) Lei n.º 2/2020 - Diário da República n.º
+    64/2020, Série I de 2020-03-31 nos termos do seu art. 299.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Atualizadas, as taxas previstas no art. 12.º do presente diploma, pelo(a) Lei n.º 75-B/2020 - Diário da República
+    n.º 253/2020, 1º Suplemento, Série I de 2020-12-31, nos termos do seu art. 319.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-b-2020-152639825
+  date: '2020-12-31'
+- type: cites
+  target: celex:31993R0259
+  label: null
+  source: http://data.europa.eu/eli/reg/1993/259/oj
+- type: cites
+  target: celex:32006R1013
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1013/oj
+- type: repealed_by
+  target: pt:dre:150908012:por
+  label: Revogado, a partir de 15.12.2020 e com efeitos a 01.07.2021, pelo(a) Decreto-Lei n.º 102-D/2020 - Diário da República
+    n.º 239/2020, 1º Suplemento, Série I de 2020-12-10, nos termos dos seus arts. 17.º e 19.º, e determinado, nos termos do
+    disposto no seu art. 16.º, que as remissões legais e regulamentares que lhe sejam feitas se considerem feitas para aquele
+    diploma e para a legislação e regulamentação complementar nele prevista.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-d-2020-150908012
+  date: '2020-12-10'
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:05:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45/2008
+
+de 11 de Março
+
+O Decreto-Lei n.º 296/95, de 17 de Novembro, assegurou a exequibilidade, na ordem jurídica nacional, das obrigações decorrentes para o Estado Português do Regulamento (CEE) n.º [259/93](https://data.europa.eu/eli/reg/1993/259/oj?locale=pt), do Conselho, de 1 de Fevereiro, relativo à fiscalização e controlo das transferências de resíduos à entrada, no interior e à saída da Comunidade.
+
+O Regulamento (CE) n.º [1013/2006](https://data.europa.eu/eli/reg/2006/1013/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de Junho, veio revogar o citado Regulamento (CEE) n.º [259/93](https://data.europa.eu/eli/reg/1993/259/oj?locale=pt), tornando-se assim necessário definir - não obstante a obrigatoriedade e aplicabilidade directa em todos os Estados membros do novo Regulamento - o regime jurídico que o regulamente na ordem jurídica interna, fixando, designadamente, qual a autoridade nacional competente pela sua aplicação, quais os procedimentos necessários para o cumprimento do mesmo e ainda o estabelecimento das infracções e respectivas sanções no caso da violação das respectivas normas. Neste aspecto particular, chama-se a atenção para o facto de o presente decreto-lei ser subsidiário do regime quadro das contra-ordenações ambientais constante da Lei n.º 50/2006, de 29 de Agosto.
+
+O presente decreto-lei procede, ainda, à actualização de algumas soluções consagradas no Decreto-Lei n.º 296/95, de 17 de Novembro, que ora se revoga, cumprindo assinalar, ao nível da simplificação procedimental e alívio da carga burocrática, a eliminação da obrigatoriedade de subscrição de seguro de responsabilidade civil por danos causados ao ambiente ou à saúde pública, dado que a mesma não decorre especificamente do transporte transfronteiriço mas sim das obrigações inerentes à actividade de transporte de mercadorias, para a qual já existe regulamentação específica que cobre tal matéria.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei assegura a execução e garante o cumprimento, na ordem jurídica interna, das obrigações decorrentes para o Estado Português do Regulamento (CE) n.º [1013/2006](https://data.europa.eu/eli/reg/2006/1013/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de Junho, relativo à transferência de resíduos, abreviadamente designado Regulamento.
+
+###### Artigo 2.º — Autoridade competente
+
+1 - A Agência Portuguesa do Ambiente (APA) é a autoridade competente no âmbito do presente decreto-lei, nos termos e para os efeitos do disposto no artigo 53.º do Regulamento.
+
+2 - Os correspondentes referidos no artigo 54.º do Regulamento são designados pela APA.
+
+###### Artigo 3.º — Instrução do procedimento para as transferências de resíduos
+
+1 - Sem prejuízo do disposto no Regulamento, para efeitos de instrução do procedimento de notificação de transferência de resíduos, o notificador apresenta à APA, devidamente preenchidos, os formulários modelos n.os 1916 e 1916-A, adquiridos na Imprensa Nacional-Casa da Moeda, S. A.
+
+2 - Para efeitos do correcto preenchimento dos formulários referidos no número anterior, o notificador deve indicar, nos campos 1 e 3, respectivamente, o seu número de registo no Sistema Integrado de Registo Electrónico de Resíduos (SIRER), nos termos do disposto no Decreto-Lei n.º 178/2006, de 5 de Setembro.
+
+3 - Para efeitos das transferências abrangidas pelos n.os 2 e 4 do artigo 3.º do Regulamento, sujeitas aos requisitos processuais do artigo 18.º do mesmo, os resíduos são acompanhados do formulário modelo n.º 1918, devidamente preenchido, adquirido na Imprensa Nacional-Casa da Moeda, S. A.
+
+4 - No caso das transferências abrangidas pelo n.º 2 do artigo 3.º do Regulamento deve ser enviada à APA, até cinco dias antes do início da transferência, cópia do formulário modelo referido no número anterior, bem como cópia do contrato referido no n.º 2 do artigo 18.º do Regulamento.
+
+###### Artigo 4.º — Transferências de resíduos hospitalares
+
+1 - Sem prejuízo do disposto no Regulamento, as transferências de resíduos hospitalares para o território nacional que resultem especificamente de actividades médicas e que, de acordo com o Regulamento, estejam sujeitas a procedimento prévio de notificação e consentimento escrito, carecem de parecer a emitir pela Direcção-Geral da Saúde no prazo de 15 dias úteis a contar da data de recepção do respectivo pedido.
+
+2 - O parecer referido no número anterior é solicitado pela APA no prazo máximo de cinco dias úteis após a apresentação da notificação.
+
+3 - Na ausência de emissão de parecer no prazo referido no n.º 1 considera-se o mesmo como favorável.
+
+###### Artigo 5.º — Transferências de resíduos por via marítima
+
+Sem prejuízo do disposto no Regulamento, as transferências de resíduos que se efectuem por via marítima estão sujeitas ao cumprimento dos seguintes requisitos:
+
+a) Menção no diário náutico do navio de transporte de resíduos, das datas das entradas e das saídas em águas nacionais dos Estados membros ou de terceiros Estados e da data da entrega aos respectivos destinatários;
+
+b) Registo no plano de carga do navio da localização, tipo, embalagem e quantidade de resíduos transportados;
+
+c) Manutenção a bordo do navio de amostras dos resíduos transportados, durante um período mínimo de três meses, devidamente identificadas, lacradas e autenticadas pelo carregador e notificador, no caso de transporte a granel de resíduos;
+
+d) Recolha de amostras, nos termos definidos na alínea anterior, quando ocorram avarias na carga envolvendo derrames de resíduos embalados, com registo escrito da respectiva ocorrência.
+
+###### Artigo 6.º — Transferência de resíduos a partir de portos portugueses
+
+1 - É proibida a transferência de resíduos a partir de portos portugueses para eliminação no mar territorial ou na zona económica exclusiva de Portugal.
+
+2 - A APA só autoriza a transferência de resíduos para eliminação no alto mar, a partir de portos portugueses, se previamente tiver licenciado esta operação de eliminação de resíduos.
+
+3 - Para os efeitos previstos no número anterior, a APA solicita parecer não vinculativo à Autoridade Marítima Nacional, a emitir no prazo de 10 dias, findo o qual considera-se haver concordância desta entidade.
+
+###### Artigo 7.º — Garantia financeira
+
+1 - As transferências de resíduos abrangidas pelo Regulamento estão sujeitas à constituição de uma garantia financeira ou equivalente que cubra os custos de transporte, de valorização ou eliminação, incluindo eventuais operações intermédias, e de armazenagem durante 90 dias.
+
+2 - A garantia financeira é constituída pelo notificador e apresentada à APA, podendo revestir a forma de caução, garantia bancária ou de certificado emitido por fundo de indemnização ou apólice de seguro, desde que satisfaça todas as finalidades referidas no número anterior.
+
+3 - O montante da garantia financeira é calculado por aplicação da fórmula prevista no anexo ao presente decreto-lei, do qual faz parte integrante.
+
+4 - A garantia financeira é constituída de acordo com o modelo aprovado e divulgado no sítio na Internet da APA.
+
+5 - No acto de apresentação da garantia financeira à APA, o notificador anexa nota explicativa do cálculo em que a mesma se baseia.
+
+6 - A garantia financeira considera-se suficiente e legalmente constituída se não for recusada pela APA com fundamento em insuficiência.
+
+7 - A garantia financeira produz efeitos a partir da notificação ou, mediante autorização expressa da APA, em momento posterior, o mais tardar aquando do início da transferência notificada.
+
+8 - A garantia financeira fica afecta exclusivamente à cobertura dos custos mencionados no n.º 1, é autónoma, incondicional, irrevogável, interpelável à primeira solicitação e liquidável no prazo de cinco dias, na sequência de interpelação da APA, sendo devolvida nos termos do artigo 6.º do Regulamento.
+
+9 - No caso de importação ou trânsito proveniente de outro Estado membro, o notificador fica dispensado de constituir a garantia a que se referem os números anteriores, se provar, mediante apresentação de declaração da autoridade competente desse Estado, que já constituiu garantia adequada para o mesmo efeito.
+
+###### Artigo 8.º — Inspecção e fiscalização
+
+1 - A inspecção e fiscalização do cumprimento do presente decreto-lei compete, respectivamente, à Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT), à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC), ao Instituto Portuário e dos Transportes Marítimos, I. P., às autoridades policiais e ainda, na área da sua jurisdição, à autoridade marítima.
+
+2 - Para efeitos do cumprimento do n.º 6 do artigo 50.º do Regulamento, os pontos centrais para os controlos físicos deverão ser indicados pelas entidades referidas no número anterior, de acordo com a rede nacional de controlo, coordenada pela IGAOT, que indicará o ponto nacional de contacto criado no âmbito da Rede IMPEL/TFS (European Union Network for the Implementation and Enforcement of Environmental Law/Transfrontier Shipments of Waste).
+
+3 - As entidades referidas no n.º 1, bem como a APA, têm o dever de:
+
+a) Cooperar, de forma a tornar eficaz a garantia do cumprimento do presente decreto-lei;
+
+b) Partilhar informações e experiências com entidades análogas de outros países, funcionando o ponto nacional referido no número anterior como elo de contacto com os restantes pontos nacionais dos países e regiões que integram a Rede IMPEL/TFS.
+
+###### Artigo 9.º — Contra-ordenações
+
+1 - Constitui contra-ordenação ambiental muito grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:
+
+a) Transferência de resíduos destinados a operações de eliminação ou de valorização identificadas na alínea b) do n.º 1 do artigo 3.º do Regulamento, sem notificação prévia à autoridade competente de expedição, nos termos do artigo 4.º do Regulamento;
+
+b) Transferência de resíduos destinados a operações de eliminação ou de valorização identificadas na alínea b) do n.º 1 do artigo 3.º do Regulamento, em violação da decisão das autoridades competentes de destino, de expedição e de trânsito, adoptada nos termos do artigo 9.º do Regulamento;
+
+c) Transferência de resíduos destinados a operações de eliminação ou de valorização identificadas na alínea b) do n.º 1 do artigo 3.º do Regulamento, em violação das condições impostas pelas autoridades competentes de destino, de expedição e de trânsito, nos termos do artigo 10.º do Regulamento;
+
+d) Transferência de resíduos destinados a operações de eliminação em violação da decisão de objecção à transferência, apresentada pela autoridade competente de destino ou de expedição, nos termos do artigo 11.º do Regulamento;
+
+e) Transferência de resíduos destinados a operações de valorização identificadas na alínea b) do n.º 1 do artigo 3.º do Regulamento, em violação da decisão de objecção à transferência apresentada pela autoridade competente de destino ou de expedição, nos termos do artigo 12.º do Regulamento;
+
+f) Transferência de resíduos destinados a operações de eliminação ou de valorização identificadas na alínea b) do n.º 1 do artigo 3.º do Regulamento, sem notificação geral à autoridade competente de expedição, nos termos do n.º 1 do artigo 13.º do Regulamento, quando o notificador optar por esta modalidade de notificação;
+
+g) Não cumprimento da obrigação de retoma pelo notificador de facto, em caso de transferência ilegal nos termos da alínea a) do n.º 2 do artigo 24.º do Regulamento;
+
+h) Não cumprimento da obrigação de retoma pelo notificador de direito, em caso de transferência ilegal nos termos da alínea b) do n.º 2 do artigo 24.º do Regulamento;
+
+i) Violação da proibição de transferência de resíduos para eliminação no mar territorial ou na zona económica exclusiva de Portugal, nos termos do n.º 1 do artigo 6.º do presente decreto-lei;
+
+j) Transferência de resíduos para eliminação no alto mar a partir de portos portugueses sem a obtenção da autorização prevista no n.º 2 do artigo 6.º do presente decreto-lei.
+
+2 - Constitui contra-ordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:
+
+a) Não cumprimento, pela instalação que efectue uma operação intermédia de valorização ou eliminação de resíduos, da obrigação de efectuar nova notificação, nos termos da alínea f) do artigo 15.º do Regulamento;
+
+b) Falta de emissão, pela instalação de valorização não intermédia ou de eliminação, do certificado de conclusão da operação, nos termos da alínea e) do artigo 16.º do Regulamento;
+
+c) Não cumprimento, pelo notificador, da obrigação de efectuar nova notificação quando exigível pelas autoridades competentes envolvidas nos termos do artigo 17.º do Regulamento;
+
+d) Transferência de resíduos referidos nos n.os 2 e 4 do artigo 3.º do Regulamento sem os documentos de acompanhamento exigidos no artigo 18.º do Regulamento;
+
+e) Violação da proibição de mistura de resíduos durante a transferência prevista no artigo 19.º do Regulamento;
+
+f) Não cumprimento pelo notificador da obrigação de retoma de resíduos quando a transferência de resíduos não possa ser concluída como previsto, nos termos do artigo 22.º do Regulamento;
+
+g) Não cumprimento, pelo notificador identificado de acordo com a hierarquia estabelecida no n.º 15 do artigo 2.º do Regulamento, da obrigação de efectuar nova notificação nos termos dos n.os 4 e 5 do artigo 22.º do Regulamento;
+
+h) Falta de apresentação, pelo notificador inicial, de um pedido devidamente fundamentado e de novo documento de acompanhamento, quando exigível nos termos dos n.os 6 e 7 do artigo 22.º do Regulamento;
+
+i) Não cumprimento da obrigação de retoma no prazo de 30 dias ou no prazo acordado pelas autoridades competentes envolvidas, nos termos do § 2.º do n.º 2 do artigo 24.º do Regulamento;
+
+j) Não cumprimento pelo notificador de facto ou de direito da obrigação de efectuar nova notificação ou de apresentação de pedido devidamente fundamentado quando exigível nos termos do § 3.º do n.º 2 do artigo 24.º do Regulamento;
+
+l) Não cumprimento das obrigações previstas no artigo 24.º do Regulamento pela pessoa responsável pela transferência de resíduos;
+
+m) Violação da proibição de exportação de resíduos destinados a eliminação prevista no n.º 1 do artigo 34.º do Regulamento;
+
+n) Violação da proibição de exportação de resíduos destinados a valorização prevista no n.º 1 do artigo 36.º do Regulamento;
+
+o) Violação da proibição de exportação de resíduos prevista no artigo 39.º ou no n.º 1 do artigo 40.º, todos do Regulamento;
+
+p) Violação da proibição de importação de resíduos destinados a eliminação nos termos do n.º 1 do artigo 41.º do Regulamento;
+
+q) Violação da proibição de importação de resíduos destinados a valorização nos termos do n.º 1 do artigo 43.º do Regulamento;
+
+r) Não cumprimento, pelo produtor ou pelo notificador ou por outras empresas envolvidas numa transferência e ou na valorização ou eliminação de resíduos, das obrigações de protecção do ambiente estabelecidas no artigo 49.º do Regulamento;
+
+s) Não cumprimento das obrigações relativas à transferência de resíduos por via marítima, previstas no artigo 5.º do presente decreto-lei.
+
+3 - Constitui contra-ordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:
+
+a) Não cumprimento, por parte do notificador, da obrigação de informação às autoridades competentes de destino, de expedição e de trânsito da alteração de itinerário, nos termos do § 1.º do n.º 3 do artigo 13.º do Regulamento;
+
+b) Não cumprimento, pela instalação que efectue uma operação intermédia de valorização ou eliminação de resíduos, da obrigação de fornecer ao notificador e às autoridades competentes envolvidas confirmação escrita da recepção dos resíduos, nos termos da alínea c) do artigo 15.º do Regulamento;
+
+c) Não cumprimento, pela instalação que efectue uma operação intermédia de valorização ou eliminação de resíduos, da obrigação de indicação da confirmação referida na alínea c) do artigo 15.º do Regulamento no documento de acompanhamento;
+
+d) Não cumprimento, pela instalação que efectue uma operação intermédia de valorização ou eliminação de resíduos, da obrigação de envio de cópia do documento de acompanhamento ao notificador e às autoridades competentes envolvidas, nos termos da alínea d) do artigo 15.º do Regulamento;
+
+e) Não obtenção, pela instalação que efectue uma operação intermédia de valorização ou de eliminação de resíduos, de certificado emitido pela instalação que efectue uma operação subsequente, nos termos da alínea e) do artigo 15.º do Regulamento;
+
+f) Não cumprimento, pela instalação que efectue uma operação intermédia de valorização ou eliminação de resíduos, da obrigação de envio de cópia dos certificados ao notificador e às autoridades competentes envolvidas, nos termos do § 2.º da alínea e) do artigo 15.º do Regulamento;
+
+g) Não cumprimento, pelo notificador, das obrigações relativas aos documentos de acompanhamento devidas após a autorização de uma transferência, nos termos das alíneas a) e b) do artigo 16.º do Regulamento;
+
+h) Não cumprimento, pelo transportador, da obrigação de fazer acompanhar cada transporte de resíduos dos documentos referidos na alínea c) do artigo 16.º do Regulamento;
+
+i) Não cumprimento, pela instalação de destino de resíduos, da confirmação por escrito da recepção de resíduos, nos termos da alínea d) do artigo 16.º do Regulamento;
+
+j) Transferência de resíduos referidos nos n.os 2 e 4 do artigo 3.º do Regulamento sem cumprimento dos requisitos de informação referidos no artigo 18.º do Regulamento;
+
+l) Não cumprimento, pelo notificador, pelo destinatário e pela instalação que recebe os resíduos, da obrigação de conservação de documentos e informações, nos termos do artigo 20.º do Regulamento;
+
+m) Não cumprimento, pelo notificador de facto ou de direito, da obrigação de preenchimento de novo documento de acompanhamento, nos termos do n.º 4 do artigo 24.º do Regulamento;
+
+n) Não cumprimento, pelo notificador, da obrigação de apresentação às autoridades competentes envolvidas de traduções autenticadas nos termos do n.º 2 do artigo 27.º do Regulamento;
+
+o) Não cumprimento, pelo transportador, da obrigação de entrega de cópia do documento de acompanhamento, nos termos da alínea c) do n.º 3 do artigo 35.º, da alínea b) do n.º 3 do artigo 38.º ou da alínea c) do n.º 3 do artigo 42.º, todos do Regulamento.
+
+4 - A tentativa e a negligência são puníveis.
+
+5 - São co-responsáveis pelas infracções cometidas ao presente decreto-lei e ao Regulamento os notificadores, os transportadores e os destinatários dos resíduos, na medida da respectiva intervenção.
+
+6 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática de infracções muito graves previstas no n.º 1, bem como de infracções graves previstas no n.º 2, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
+
+###### Artigo 10.º — Sanções acessórias e apreensão cautelar
+
+1 - Relativamente às infracções muito graves e graves previstas no artigo anterior, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação de sanções acessórias nos termos previstos nos artigos 29.º a 39.º da Lei n.º 50/2006, de 29 de Agosto.
+
+2 - A autoridade administrativa pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto.
+
+###### Artigo 11.º — Instrução de processos e aplicação de sanções
+
+Compete à IGAOT a instrução dos processos de contra-ordenação instaurados no âmbito do presente decreto-lei, bem como a aplicação das correspondentes coimas e sanções acessórias.
+
+###### Artigo 12.º — Taxas
+
+1 - A apreciação dos procedimentos de notificação de transferência de resíduos está sujeita ao pagamento de taxas, a cobrar pela APA ao notificador, cujos montantes são fixados por portaria do membro do Governo responsável pela área do ambiente.
+
+2 - O produto das taxas referidas no número anterior constitui receita própria e exclusiva da APA.
+
+###### Artigo 13.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 296/95, de 17 de Novembro.
+
+###### Artigo 14.º — Aplicação às Regiões Autónomas
+
+As disposições do presente decreto-lei aplicam-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir em decreto legislativo regional adequado.
+
+Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Paulo Jorge Oliveira Ribeiro de Campos - Francisco Ventura Ramos.
+
+Promulgado em 14 de Fevereiro de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 3 de Março de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## ANEXO — Fórmula de cálculo do montante da garantia financeira prevista no artigo 7.º
+
+O montante da garantia financeira ou equivalente, prevista no artigo 7.º, é calculado com base na aplicação da seguinte fórmula:
+
+GF = (T + E + A) x Q x Ns x 1,4
+
+em que:
+
+GF = garantia financeira ou equivalente;
+
+T = custo do transporte, por tonelada de resíduos;
+
+E = custo de eliminação final/valorização, incluindo eventuais operações intermédias, por tonelada de resíduos;
+
+A = custo da armazenagem, durante 90 dias, por tonelada de resíduos;
+
+Q = quantidade média, em toneladas, por transferência;
+
+Ns = número máximo de transferências que se prevê venham a ser efectuadas em simultâneo desde o local de expedição até ao local de destino.

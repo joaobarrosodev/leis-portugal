@@ -1,0 +1,1582 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176800365:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-176886539",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176885316",
+    "176885317",
+    "176885318",
+    "176885319",
+    "176885320",
+    "176885321",
+    "176885322",
+    "176885323",
+    "176885324",
+    "176885325",
+    "176885326",
+    "176885327",
+    "176885328",
+    "176885329",
+    "176885330",
+    "176885331",
+    "176885332",
+    "176885333",
+    "176885334",
+    "176885335",
+    "176885336",
+    "176885337",
+    "176885338",
+    "176885339",
+    "176885340",
+    "176885341",
+    "176885342",
+    "176885343",
+    "176885344",
+    "176885345",
+    "176885346",
+    "176885347",
+    "176885348",
+    "176885349",
+    "176885350",
+    "176885351",
+    "176885352",
+    "176885353",
+    "176885354",
+    "176885355",
+    "176885356",
+    "176885357",
+    "176885358",
+    "176885359",
+    "176885360",
+    "176885361",
+    "176885362",
+    "176885363",
+    "176885364",
+    "176885365",
+    "176885366",
+    "176885367",
+    "176885368",
+    "176885369",
+    "176885370",
+    "176885371",
+    "176885372",
+    "176885373",
+    "176885374",
+    "176886775",
+    "176886776",
+    "176886777",
+    "176886778",
+    "176886779",
+    "176886780",
+    "176886781",
+    "176886782",
+    "176886783",
+    "176886784",
+    "176886785",
+    "176886786",
+    "176886787",
+    "176886788",
+    "176886789",
+    "176886790",
+    "176886791",
+    "176886792",
+    "176886793",
+    "176886794",
+    "176886795",
+    "176886796",
+    "176886797",
+    "176886798",
+    "176886799",
+    "176886800",
+    "176886801",
+    "176886802",
+    "176886803",
+    "176886804",
+    "176886805",
+    "176886806",
+    "176886807",
+    "176886808",
+    "176886809",
+    "176886810",
+    "176886811",
+    "176886812",
+    "176886813",
+    "176886814",
+    "176886815",
+    "176886816",
+    "176886817",
+    "176886818",
+    "176886819",
+    "176886820",
+    "176886821",
+    "176886822",
+    "176886823",
+    "176886824",
+    "176886825",
+    "176886826",
+    "176886827",
+    "176886828",
+    "176886829",
+    "176886830",
+    "176886831",
+    "176886832",
+    "176886833",
+    "176886834"
+   ]
+  },
+  {
+   "date": "2022-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:186721644:por",
+     "title": "Decreto Legislativo Regional n.º 14/2022/M",
+     "published": "2022-07-27",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/14-2022-186721644"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º-A",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "176885316",
+    "176885317",
+    "176885318",
+    "176885319",
+    "176885320",
+    "176885321",
+    "176885322",
+    "176885323",
+    "176885324",
+    "176885325",
+    "176885326",
+    "176885327",
+    "176885328",
+    "176885329",
+    "176885330",
+    "176885331",
+    "176885332",
+    "176885333",
+    "176885334",
+    "176885335",
+    "176885336",
+    "176885337",
+    "186759781",
+    "186759782",
+    "186759783",
+    "186759785",
+    "186759786",
+    "176885342",
+    "176885343",
+    "186759784",
+    "176885345",
+    "176885346",
+    "176885347",
+    "176885348",
+    "176885349",
+    "176885350",
+    "176885351",
+    "176885352",
+    "176885353",
+    "176885354",
+    "176885355",
+    "176885356",
+    "176885357",
+    "176885358",
+    "176885359",
+    "176885360",
+    "176885361",
+    "176885362",
+    "176885363",
+    "176885364",
+    "176885365",
+    "176885366",
+    "176885367",
+    "176885368",
+    "176885369",
+    "176885370",
+    "176885371",
+    "176885372",
+    "176885373",
+    "176885374",
+    "176886775",
+    "176886776",
+    "176886777",
+    "176886778",
+    "176886779",
+    "176886780",
+    "176886781",
+    "176886782",
+    "176886783",
+    "176886784",
+    "176886785",
+    "176886786",
+    "176886787",
+    "176886788",
+    "176886789",
+    "176886790",
+    "176886791",
+    "176886792",
+    "176886793",
+    "176886794",
+    "176886795",
+    "176886796",
+    "176886797",
+    "176886798",
+    "176886799",
+    "176886800",
+    "176886801",
+    "176886802",
+    "176886803",
+    "176886804",
+    "176886805",
+    "176886806",
+    "176886807",
+    "176886808",
+    "176886809",
+    "176886810",
+    "176886811",
+    "176886812",
+    "176886813",
+    "176886814",
+    "176886815",
+    "176886816",
+    "176886817",
+    "176886818",
+    "176886819",
+    "176886820",
+    "176886821",
+    "176886822",
+    "176886823",
+    "176886824",
+    "176886825",
+    "176886826",
+    "176886827",
+    "176886828",
+    "176886829",
+    "176886830",
+    "176886831",
+    "176886832",
+    "176886833",
+    "176886834",
+    "176886835"
+   ]
+  },
+  {
+   "date": "2022-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205450899:por",
+     "title": "Decreto Legislativo Regional n.º 26/2022/M",
+     "published": "2022-12-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2022-205450899"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º-A"
+   ],
+   "fragments": [
+    "176885316",
+    "176885317",
+    "176885318",
+    "176885319",
+    "176885320",
+    "176885321",
+    "176885322",
+    "176885323",
+    "176885324",
+    "176885325",
+    "176885326",
+    "176885327",
+    "176885328",
+    "176885329",
+    "176885330",
+    "176885331",
+    "176885332",
+    "176885333",
+    "176885334",
+    "176885335",
+    "176885336",
+    "176885337",
+    "186759781",
+    "186759782",
+    "186759783",
+    "1004362942",
+    "186759786",
+    "176885342",
+    "176885343",
+    "186759784",
+    "176885345",
+    "176885346",
+    "176885347",
+    "176885348",
+    "176885349",
+    "176885350",
+    "176885351",
+    "176885352",
+    "176885353",
+    "176885354",
+    "176885355",
+    "176885356",
+    "176885357",
+    "176885358",
+    "176885359",
+    "176885360",
+    "176885361",
+    "176885362",
+    "176885363",
+    "176885364",
+    "176885365",
+    "176885366",
+    "176885367",
+    "176885368",
+    "176885369",
+    "176885370",
+    "176885371",
+    "176885372",
+    "176885373",
+    "176885374",
+    "176886775",
+    "176886776",
+    "176886777",
+    "176886778",
+    "176886779",
+    "176886780",
+    "176886781",
+    "176886782",
+    "176886783",
+    "176886784",
+    "176886785",
+    "176886786",
+    "176886787",
+    "176886788",
+    "176886789",
+    "176886790",
+    "176886791",
+    "176886792",
+    "176886793",
+    "176886794",
+    "176886795",
+    "176886796",
+    "176886797",
+    "176886798",
+    "176886799",
+    "176886800",
+    "176886801",
+    "176886802",
+    "176886803",
+    "176886804",
+    "176886805",
+    "176886806",
+    "176886807",
+    "176886808",
+    "176886809",
+    "176886810",
+    "176886811",
+    "176886812",
+    "176886813",
+    "176886814",
+    "176886815",
+    "176886816",
+    "176886817",
+    "176886818",
+    "176886819",
+    "176886820",
+    "176886821",
+    "176886822",
+    "176886823",
+    "176886824",
+    "176886825",
+    "176886826",
+    "176886827",
+    "176886828",
+    "176886829",
+    "176886830",
+    "176886831",
+    "176886832",
+    "176886833",
+    "176886834",
+    "176886835",
+    "1004362910",
+    "1004362911",
+    "1004362913",
+    "1004362914",
+    "1004362915",
+    "1004362916",
+    "1004362917",
+    "1004362918",
+    "1004362919",
+    "1004362921",
+    "1004362922",
+    "1004362938",
+    "1004362939",
+    "1004362940",
+    "1004362941"
+   ]
+  }
+ ],
+ "fragments": {
+  "176885316": {
+   "fragment_id": "176886540",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 28-A/2021/M\n\nSumário: Aprova o Orçamento da Região Autónoma da Madeira para 2022.\n\nOrçamento da Região Autónoma da Madeira para 2022\n\nO Orçamento da Região Autónoma da Madeira para 2022 cumpre com os diversos princípios e regras orçamentais estabelecidas na Lei de Enquadramento Orçamental, nomeadamente as regras da anualidade, do equilíbrio, do orçamento bruto, da especificação, da unidade e da universalidade.\n\nEste Orçamento continua a ser marcado pelo clima de alguma incerteza, em resultado da pandemia, reforçando os sinais de apoio à economia, às famílias, à proteção do emprego sem, contudo, menosprezar algumas medidas de suporte ao relançamento da atividade económica, assumindo-se como um instrumento para a concretização da política de sustentabilidade económica, financeira e social da Região Autónoma da Madeira, em linha com o Programa do XIII Governo Regional.\n\nAs previsões da receita e da despesa orçamental para o ano de 2022 tiveram em consideração os compromissos financeiros obrigatórios, decorrentes do funcionamento e do plano de investimentos constante do Plano e Programa de Investimentos e Despesas de Desenvolvimento da Região Autónoma da Madeira (PIDDAR), o apoio às iniciativas empresariais que mereçam enquadramento nos programas comunitários em vigor, quer sejam públicos ou privados, e bem assim o enquadramento macroeconómico vigente.\n\nNo que diz respeito às medidas relacionadas com a fiscalidade, designadamente as alterações propostas ao artigo 68.º do Código do Imposto Sobre o Rendimento das Pessoas Singulares e ao artigo 87.º do Código do Imposto Sobre o Rendimento das Pessoas Coletivas, dá-se continuidade à política de desagravamento fiscal dos impostos diretos sobre o rendimento, designadamente em sede de impostos sobre o rendimento das pessoas singulares (IRS), considerando que, no rendimento das pessoas coletivas (IRC), já se esgota o diferencial legalmente possível face às taxas homólogas em vigor no território continental.\n\nEste Orçamento da Região Autónoma da Madeira concilia ainda a necessidade da adoção de medidas de natureza orçamental que visam manter uma resposta à situação pandémica, através da adoção de medidas excecionais e temporárias para prevenção, contenção, mitigação e tratamento da infeção pelo coronavírus SARS-CoV-2 com vista à manutenção de um clima social e económico que permita à Região continuar o seu processo de desenvolvimento, com respeito pela coesão económica, territorial e social.\n\nForam ouvidos os parceiros sociais envolvidos em matéria de legislação laboral.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea p) do n.º 1 do artigo 227.º da Constituição Portuguesa e na alínea c) do n.º 1 do artigo 36.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "176885317": {
+   "fragment_id": "176886541",
+   "type": 1,
+   "heading": "Capítulo I — Aprovação do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Aprovação do Orçamento"
+  },
+  "176885318": {
+   "fragment_id": "176886542",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação do Orçamento\n\nÉ aprovado, pelo presente diploma, o Orçamento da Região Autónoma da Madeira para 2022, constante dos mapas seguintes:\n\na) Mapas I a VIII do orçamento da administração pública regional, incluindo os orçamentos dos serviços e fundos autónomos;\n\nb) Mapa IX, com o Programa de Investimentos e Despesas de Desenvolvimento da Administração Regional (PIDDAR);\n\nc) Mapa X, com as despesas correspondentes a programas;\n\nd) Mapa XI, com as transferências no âmbito das finanças locais;\n\ne) Mapa XIV das responsabilidades contratuais plurianuais dos serviços integrados e dos serviços e fundos autónomos, agrupadas por secretarias;\n\nf) Mapa XXI, com as receitas tributárias cessantes dos serviços integrados."
+  },
+  "176885319": {
+   "fragment_id": "176886543",
+   "type": 11,
+   "heading": "Artigo 2.º — Aplicação dos normativos às entidades integradas no setor público administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aplicação dos normativos às entidades integradas no setor público administrativo\n\n1 - Todas as entidades da administração pública regional, previstas no âmbito do artigo 2.º da Lei de Enquadramento Orçamental, aprovada em anexo à Lei n.º 151/2015, de 11 de setembro, na sua atual redação, independentemente da sua natureza e estatuto jurídico, ficam sujeitas ao cumprimento dos normativos previstos no presente decreto legislativo regional e no decreto regulamentar regional de execução orçamental.\n\n2 - O disposto neste diploma prevalece sobre todas as disposições contrárias, ficando ainda sem efeito todas as obrigações em curso que, de algum modo, impeçam o cumprimento dos objetivos de estabilidade e disciplina orçamental e dos compromissos assumidos pela Região Autónoma da Madeira.\n\n3 - Fica vedada a celebração de qualquer negócio jurídico, a assunção de obrigações que impliquem novos compromissos financeiros e a tomada de qualquer decisão que envolva o aumento de despesa, desde que tal contrarie ou torne inexequível o cumprimento dos compromissos mencionados no número anterior.\n\n4 - Todas as entidades referidas no n.º 1 do presente artigo estão abrangidas pelas regras aplicáveis à assunção de compromissos e aos pagamentos em atraso constantes na Lei n.º 8/2012, de 21 de fevereiro, na sua atual redação."
+  },
+  "176885320": {
+   "fragment_id": "176886544",
+   "type": 11,
+   "heading": "Artigo 3.º — Orçamento Participativo da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Orçamento Participativo da Região Autónoma da Madeira\n\n1 - A implementação das propostas vencedoras das edições do Orçamento Participativo da Região Autónoma da Madeira (OPRAM) fica a cargo dos departamentos do Governo Regional com a tutela sobre as áreas temáticas a que estão afetas as propostas vencedoras, competindo-lhes realizar toda a tramitação administrativa, financeira e de contratação pública necessárias à efetiva concretização de cada projeto vencedor.\n\n2 - Os contratos-programa celebrados com vista à concretização de propostas vencedoras das edições do OPRAM que não tenham sido totalmente executados devido à pandemia da doença COVID-19 são automaticamente prorrogados até 31 de dezembro de 2022.\n\n3 - Compete à Secretaria Regional das Finanças coordenar a execução e conclusão da iniciativa do OPRAM, nos termos a regulamentar por portaria do referido membro do Governo Regional."
+  },
+  "176885321": {
+   "fragment_id": "176886545",
+   "type": 1,
+   "heading": "Capítulo II — Disposições fundamentais de disciplina orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições fundamentais de disciplina orçamental"
+  },
+  "176885322": {
+   "fragment_id": "176886546",
+   "type": 11,
+   "heading": "Artigo 4.º — Transferências do Orçamento do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transferências do Orçamento do Estado\n\n1 - Fica o Governo Regional autorizado, através do departamento do Governo Regional com a tutela das finanças, a transferir para as autarquias locais e Associação de Municípios da Região Autónoma da Madeira os apoios financeiros inscritos no Orçamento do Estado a favor destas, líquidos das retenções que venham a ser efetuadas nos termos da lei.\n\n2 - O mapa xi contém transitoriamente as verbas a distribuir pelas autarquias locais da Região Autónoma da Madeira, conforme se encontram discriminadas nos mapas xii e xiii da proposta de Lei n.º 116/XIV/3.ª, para o Orçamento do Estado para 2022, rejeitada na votação na generalidade pela Assembleia da República, até a entrada em vigor da Lei do Orçamento do Estado para 2022, que procederá à revisão destas verbas, exceto no que diz respeito às transferências da participação variável no IRS, que são transferidas diretamente pela administração central para os municípios."
+  },
+  "176885323": {
+   "fragment_id": "176886547",
+   "type": 11,
+   "heading": "Artigo 5.º — Cooperação técnica e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cooperação técnica e financeira\n\nNos termos do disposto no Decreto Legislativo Regional n.º 6/2005/M, de 1 de junho, retificado pela Declaração de Retificação n.º 59/2005, de 20 de julho, na redação republicada pelo Decreto Legislativo Regional n.º 31/2016/M, de 19 de julho, fica o Governo Regional autorizado a celebrar, através dos membros do Governo Regional das respetivas áreas de competência, em casos excecionais e devidamente justificados, contratos-programa de natureza setorial ou plurissetorial com uma ou várias autarquias locais."
+  },
+  "176885324": {
+   "fragment_id": "176886548",
+   "type": 11,
+   "heading": "Artigo 6.º — Dívidas das autarquias locais relativas ao setor das águas, saneamento e resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dívidas das autarquias locais relativas ao setor das águas, saneamento e resíduos\n\nO disposto na Lei do Orçamento do Estado relativo a acordos de regularização de dívidas das autarquias locais no âmbito do setor da água e do saneamento de águas residuais aplica-se às autarquias locais da Região Autónoma da Madeira."
+  },
+  "176885325": {
+   "fragment_id": "176886549",
+   "type": 1,
+   "heading": "Capítulo III — Operações passivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Operações passivas"
+  },
+  "176885326": {
+   "fragment_id": "176886550",
+   "type": 11,
+   "heading": "Artigo 7.º — Financiamento do Orçamento da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Financiamento do Orçamento da Região Autónoma da Madeira\n\n1 - Para fazer face às necessidades de financiamento das entidades abrangidas pelo n.º 2 do artigo 2.º da Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro, decorrentes do Orçamento da Região Autónoma da Madeira, fica o Governo Regional autorizado a aumentar o endividamento líquido regional até ao montante resultante da lei que aprova o Orçamento do Estado.\n\n2 - Para efeitos do número anterior, o montante dos empréstimos contraídos e a dívida emitida que se destine especificamente à cobertura de necessidades excecionais de financiamento, decorrentes, direta ou indiretamente, da pandemia da doença COVID-19, deverão ter em conta o saldo por aplicar do produto do empréstimo, contraído em 2020, para igual finalidade.\n\n3 - Sem prejuízo do disposto no n.º 1, a Região Autónoma da Madeira, para financiamento do novo Hospital Central para a Madeira, pode acordar contratualmente novos empréstimos, que não impliquem um aumento de endividamento líquido superior a (euro) 158 700 000.\n\n4 - Acresce ao valor previsto nos números anteriores os montantes dos saldos previstos e não utilizados até ao final do ano económico de 2021."
+  },
+  "176885327": {
+   "fragment_id": "176886551",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições gerais do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições gerais do financiamento\n\nNos termos dos artigos 37.º e 38.º da Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro, e tendo como âmbito de aplicação as entidades abrangidas pelo n.º 2 do artigo 2.º dessa mesma lei, fica o Governo Regional autorizado a contrair empréstimos amortizáveis e a realizar outras operações de endividamento idênticas e nos mesmos termos das autorizadas para o Estado, com o prazo máximo de 50 anos, internos ou denominados em moeda estrangeira, nos mercados interno e externo, até ao montante resultante da adição dos seguintes valores:\n\na) Montante do acréscimo do endividamento líquido resultante do artigo 7.º do presente diploma;\n\nb) Montante decorrente da regularização de dívidas vencidas e de responsabilidades, incluindo a substituição de dívida;\n\nc) Montante das amortizações da dívida pública regional realizadas durante o ano, nas respetivas datas de vencimento ou antecipadas, por razões de gestão da dívida pública regional;\n\nd) Montante de outras quaisquer operações que envolvam a redução da dívida pública regional, determinado pelo custo de aquisição em mercado da dívida objeto de redução."
+  },
+  "176885328": {
+   "fragment_id": "176886552",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão e emissão de dívida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gestão e emissão de dívida\n\n1 - Fica o Governo Regional autorizado, através do membro do Governo Regional responsável pela área das finanças, a realizar as seguintes operações de gestão da dívida pública regional das entidades abrangidas pelo n.º 2 do artigo 2.º da Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro:\n\na) Renegociação das condições dos empréstimos e derivados;\n\nb) Realização de operações financeiras sobre contratos de derivados que venham a ser tidas como adequadas;\n\nc) Pagamento previsto ou antecipado, total ou parcial, de empréstimos já contratados, incluindo o regular pagamento dos juros previstos contratualmente;\n\nd) Reforço das dotações orçamentais para amortização de capital e regularização de demais encargos associados;\n\ne) Substituição entre a emissão das várias modalidades de empréstimos;\n\nf) Substituição de empréstimos existentes, nos termos e condições do contrato ou por acordo com os respetivos titulares, quando as condições dos mercados financeiros assim o aconselharem.\n\n2 - A contabilização dos fluxos financeiros decorrentes de gestão da dívida pública regional e das operações de derivados é efetuada pelo seu valor bruto, sendo as despesas deduzidas das receitas obtidas com as mesmas operações e o respetivo saldo inscrito na rubrica da despesa."
+  },
+  "176885329": {
+   "fragment_id": "176886553",
+   "type": 11,
+   "heading": "Artigo 10.º — Endividamento de entidades incluídas no universo das administrações públicas e das empresas do setor empresarial da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Endividamento de entidades incluídas no universo das administrações públicas e das empresas do setor empresarial da Região Autónoma da Madeira\n\n1 - As entidades integradas no universo das administrações públicas, em contas nacionais, só podem aceder a financiamento ou concretizar operações de derivados mediante prévia autorização do membro do Governo Regional responsável pela área das finanças.\n\n2 - As entidades do setor empresarial da Região Autónoma da Madeira que não integrem o universo das administrações públicas em contas nacionais e que, numa base anual, apresentem capital próprio negativo só podem aceder a financiamento junto de instituições de crédito mediante prévia autorização do membro do Governo Regional responsável pela área das finanças.\n\n3 - A contratação de financiamentos de prazo superior a um ano por parte de entidades públicas que não integrem o universo das administrações públicas em contas nacionais, bem como a concretização de operações de derivados, está sujeita a parecer prévio favorável do membro do Governo Regional responsável pela área das finanças.\n\n4 - O disposto neste artigo prevalece sobre todas as disposições legais gerais ou especiais que disponham em sentido contrário e a sua violação implica a ineficácia dos respetivos atos e responsabilidade nos termos legais."
+  },
+  "176885330": {
+   "fragment_id": "176886554",
+   "type": 1,
+   "heading": "Capítulo IV — Operações ativas, regularização de responsabilidades e prestação de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Operações ativas, regularização de responsabilidades e prestação de garantias"
+  },
+  "176885331": {
+   "fragment_id": "176886555",
+   "type": 11,
+   "heading": "Artigo 11.º — Operações ativas do Tesouro Público Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Operações ativas do Tesouro Público Regional\n\n1 - Fica o Governo Regional autorizado, através dos membros do Governo Regional responsáveis pela área das finanças e da tutela da entidade, a realizar operações ativas até ao montante de 200 milhões de euros, incluindo eventuais capitalizações de juros, não contando para este limite os montantes referentes a aplicações de tesouraria e a reestruturações ou consolidações de créditos.\n\n2 - Fica ainda o Governo Regional autorizado, através do membro do Governo Regional responsável pela área das finanças, a renegociar as condições contratuais de empréstimos anteriores ou a remir os créditos deles resultantes."
+  },
+  "176885332": {
+   "fragment_id": "176886556",
+   "type": 11,
+   "heading": "Artigo 12.º — Mobilização de ativos e recuperação de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Mobilização de ativos e recuperação de créditos\n\nFica o Governo Regional autorizado, através dos membros do Governo Regional responsáveis pela área das finanças e da tutela da entidade, a proceder às seguintes operações:\n\na) Redefinição das condições de pagamento de dívidas relacionadas com contratos celebrados, nos casos em que os devedores se proponham a pagar a pronto ou em prestações;\n\nb) Nos casos devidamente fundamentados, aceitar a remissão do valor dos créditos concedidos, quando a sua irrecuperabilidade decorra da inexistência de bens penhoráveis do devedor ou, em geral, aceitar a redução do valor dos créditos no decurso de procedimento extrajudicial de conciliação;\n\nc) Aceitação, como dação em cumprimento, de bens imóveis, bens móveis, valores mobiliários e outros ativos financeiros;\n\nd) Redução do capital social de sociedades anónimas de capitais exclusivamente públicos ou simplesmente participadas, no âmbito de processos de saneamento económico-financeiro ou de fusão;\n\ne) Anulação de créditos detidos pela Região Autónoma da Madeira quando, em casos devidamente fundamentados, se verifique que não se justifica a respetiva recuperação."
+  },
+  "176885333": {
+   "fragment_id": "176886557",
+   "type": 11,
+   "heading": "Artigo 13.º — Aquisição de ativos e assunção e regularização de passivos e responsabilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aquisição de ativos e assunção e regularização de passivos e responsabilidades\n\n1 - Fica o Governo Regional autorizado, através do membro do Governo Regional responsável pela área das finanças, a assumir passivos e responsabilidades de entidades públicas e a celebrar acordos para a sua regularização, podendo pagar diretamente aos credores, mediante a conversão em capital dessas entidades.\n\n2 - O Governo Regional fica autorizado, através do membro do Governo Regional responsável pela área das finanças em conjunto com o membro do Governo Regional responsável pela assunção da despesa ou com a tutela da entidade, a assumir passivos e responsabilidades, e a proceder à celebração de acordos de pagamento com credores das entidades que integrem o universo das administrações públicas em contas nacionais, incluindo a assunção liberatória e transmissão de dívidas, salvaguardando os devidos efeitos ao nível da execução orçamental, decorrentes da alteração da sua exigibilidade.\n\n3 - Fica igualmente o Governo Regional autorizado, através do membro do Governo Regional responsável pela área das finanças em conjunto com o membro do Governo Regional responsável pela área da educação, a proceder à celebração de acordos de pagamento com entidades desportivas ou outras entidades que cooperam com o sistema desportivo regional, destinados à regularização de encargos de anos anteriores advenientes, nomeadamente, da aplicação de regulamentos ou de contratos-programa de desenvolvimento desportivo celebrados, desde que os encargos correspondentes tenham sido devidamente contabilizados para efeitos de contas nacionais, ficando, neste caso, dispensada a aplicação do disposto no artigo 57.º do Decreto Legislativo Regional n.º 4/2007/M, de 11 de janeiro, com as alterações introduzidas pelos Decretos Legislativos Regionais n.os 29/2008/M, de 12 de agosto, e 14/2014/M, de 21 de novembro, bem como a aprovação através de resolução do Conselho do Governo Regional.\n\n4 - Os encargos a que se refere o número anterior caducam em 31 de dezembro de 2022, caso não estejam regularizados até essa data por motivos não imputáveis aos serviços da administração pública regional."
+  },
+  "176885334": {
+   "fragment_id": "176886558",
+   "type": 11,
+   "heading": "Artigo 14.º — Alienação de participações sociais da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alienação de participações sociais da Região\n\n1 - Fica o Governo Regional autorizado a alienar as participações sociais que a Região Autónoma da Madeira detém em entidades participadas.\n\n2 - As alienações referidas no número anterior apenas poderão ser realizadas a título oneroso."
+  },
+  "176885335": {
+   "fragment_id": "176886559",
+   "type": 11,
+   "heading": "Artigo 15.º — Avales da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Avales da Região\n\n1 - O limite máximo para a concessão de avales da Região Autónoma da Madeira, em termos de fluxos líquidos anuais, é de 10 milhões de euros, aferido com referência a 31 de dezembro de 2022.\n\n2 - O Governo Regional remete, trimestralmente, à Assembleia Legislativa da Região Autónoma da Madeira a listagem das novas garantias atribuídas, a qual deve incluir a caraterização física e financeira dos respetivos projetos."
+  },
+  "176885336": {
+   "fragment_id": "176886560",
+   "type": 11,
+   "heading": "Artigo 16.º — Emissão de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Emissão de garantias\n\n1 - A emissão de garantias a favor de terceiros, pelas entidades públicas que integram o universo das administrações públicas em contas nacionais, depende de autorização prévia do membro do Governo Regional responsável pela área das finanças.\n\n2 - O incumprimento do disposto no número anterior constitui fundamento para a retenção de transferências e para a revogação do regime de autonomia financeira."
+  },
+  "176885337": {
+   "fragment_id": "176886561",
+   "type": 1,
+   "heading": "Capítulo V — Adaptação do sistema fiscal nacional às especificidades regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Adaptação do sistema fiscal nacional às especificidades regionais"
+  },
+  "176885338": {
+   "fragment_id": "176886562",
+   "type": 11,
+   "heading": "Artigo 17.º — Imposto sobre o rendimento das pessoas singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Imposto sobre o rendimento das pessoas singulares\n\nO artigo 2.º do Decreto Legislativo Regional n.º 3/2001/M, de 22 de fevereiro, com a redação consolidada e republicada pelo Decreto Legislativo Regional n.º 33/2016/M, de 20 de julho, alterado pelos Decretos Legislativos Regionais n.os 42-A/2016/M, de 30 de dezembro, 2/2018/M, de 9 de janeiro, 26/2018/M, de 31 de dezembro, 12/2020/M, de 10 de agosto, e 18/2020/M, de 31 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - A tabela de taxas do imposto aplicável aos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, em substituição da tabela de taxas gerais previstas no artigo 68.º do CIRS, é a seguinte:\n\n(ver documento original)\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]»"
+  },
+  "176885339": {
+   "fragment_id": "176886563",
+   "type": 11,
+   "heading": "Artigo 18.º — Imposto sobre o rendimento das pessoas coletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Imposto sobre o rendimento das pessoas coletivas\n\nMantêm-se em vigor as taxas do imposto sobre o rendimento das pessoas coletivas, para vigorar na Região Autónoma da Madeira, estabelecidas no artigo 2.º do Decreto Legislativo Regional n.º 2/2001/M, de 20 de fevereiro, com as alterações introduzidas pelos Decretos Legislativos Regionais n.os 29-A/2001/M, de 20 de dezembro, 30-A/2003/M, de 31 de dezembro, 21-A/2005/M, de 30 de dezembro, 3/2007/M, de 9 de janeiro, 2-A/2008/M, de 16 de janeiro, 45/2008/M, de 31 de dezembro, 34/2009/M, de 31 de dezembro, 20/2011/M, de 26 de dezembro, 31-A/2013/M, de 31 de dezembro, 18/2014/M, de 31 de dezembro, 2/2018/M, de 9 de janeiro, 26/2018/M, de 31 de dezembro, 12/2020/M, de 10 de agosto, e 18/2020/M, de 31 de dezembro, até à publicação da Lei do Orçamento do Estado para o ano de 2022, e sua adaptação às especificidades regionais através de diploma próprio a aprovar para o efeito."
+  },
+  "176885340": {
+   "fragment_id": "176886564",
+   "type": 11,
+   "heading": "Artigo 19.º — Derrama regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Derrama regional\n\nMantém-se em vigor para a Região Autónoma da Madeira o regime da derrama regional, aprovada pelos artigos 3.º a 6.º do Decreto Legislativo Regional n.º 14/2010/M, de 5 de agosto, na redação republicada pelo Decreto Legislativo Regional n.º 5-A/2014/M, de 23 de julho, alterada pelos Decretos Legislativos Regionais n.os 2/2018/M, de 9 de janeiro, 26/2018/M, de 31 de dezembro, e 18/2020/M, de 31 de dezembro, até à publicação da Lei do Orçamento do Estado para o ano de 2022, e sua adaptação às especificidades regionais através de diploma próprio a aprovar para o efeito."
+  },
+  "176885341": {
+   "fragment_id": "176886565",
+   "type": 11,
+   "heading": "Artigo 20.º — Revisão do Código Fiscal de Investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Revisão do Código Fiscal de Investimento\n\n1 - Em 2022, o Governo Regional desenvolve os procedimentos necessários à revisão do Código Fiscal de Investimento da Região Autónoma da Madeira, tornando-o fiscalmente mais competitivo e adequado à realidade regional.\n\n2 - Para efeitos do disposto no n.º 1, devem ser estudadas as possibilidades de discriminação positiva de determinadas circunscrições geográficas da Região, nomeadamente o Porto Santo e os concelhos da costa norte da ilha da Madeira, atentas as suas condições específicas.\n\n3 - A revisão do Código Fiscal de Investimento da Região Autónoma da Madeira deve ainda acompanhar as profundas alterações que foram introduzidas ao Código Fiscal do Investimento nacional e as melhores práticas legislativas na área dos benefícios fiscais."
+  },
+  "176885342": {
+   "fragment_id": "176886566",
+   "type": 1,
+   "heading": "Capítulo VI — Execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Execução orçamental"
+  },
+  "176885343": {
+   "fragment_id": "176886567",
+   "type": 11,
+   "heading": "Artigo 21.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Execução\n\n1 - O Governo Regional toma as medidas necessárias para uma rigorosa e conscienciosa contenção das despesas públicas e controlo da sua eficiência, de forma a alcançar a melhor aplicação dos recursos públicos na Região Autónoma da Madeira.\n\n2 - Para efeitos de acompanhamento da execução orçamental e das contas públicas, o Governo Regional procede à divulgação de informação sobre a execução orçamental, sobre os valores da dívida financeira e não financeira e sobre as contas trimestrais do Setor Empresarial da Região Autónoma da Madeira, nos termos a definir no decreto regulamentar regional de execução orçamental."
+  },
+  "176885344": {
+   "fragment_id": "176886568",
+   "type": 11,
+   "heading": "Artigo 22.º — Alterações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alterações orçamentais\n\n1 - O Governo Regional fica autorizado a:\n\na) Proceder às alterações orçamentais que forem necessárias à boa execução do Orçamento, fazendo cumprir a legislação em vigor nesta matéria, designadamente o Decreto Regulamentar Regional n.º 1/2017/M, de 23 de fevereiro;\n\nb) Efetuar as alterações orçamentais indispensáveis à maximização da utilização dos recursos financeiros disponíveis, independentemente dos programas, da natureza das classificações funcionais e orgânicas previstas no Orçamento da Região Autónoma da Madeira para 2022.\n\n2 - O disposto na alínea b) do número anterior é aplicável em casos decorrentes:\n\na) Da mobilidade ou afetação de trabalhadores entre serviços da administração direta, entre serviços da administração indireta, ou entre serviços da administração direta e indireta da Região Autónoma da Madeira, e ou das entidades integradas no universo das administrações públicas em contas nacionais;\n\nb) De alterações orgânicas do Governo Regional, da estrutura dos serviços da responsabilidade dos membros do Governo Regional e das correspondentes reestruturações no setor público empresarial;\n\nc) De ajustamentos em dotações orçamentais afetas à execução de projetos cofinanciados por fundos comunitários e pelo fundo de coesão nacional para as regiões ultraperiféricas, a que se refere o artigo 49.º da Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro;\n\nd) De alterações orçamentais que se revelem necessárias à execução dos instrumentos financeiros enquadrados no Next Generation EU, nomeadamente a Assistência à Recuperação para a Coesão e os Territórios da Europa (REACT-EU) e o Plano de Recuperação e Resiliência (PRR);\n\ne) De ajustamentos orçamentais, na medida do estritamente necessário e por motivos de urgência imperiosa, resultantes de calamidades naturais ou de outros acontecimentos extraordinários, nomeadamente decorrentes das necessidades de execução dos projetos de reconstrução, na sequência da intempérie de 20 de fevereiro de 2010 e dos incêndios de agosto de 2016, de outras despesas a realizar no âmbito da situação epidémica de COVID-19 e bem assim de situações previstas no artigo 37.º deste diploma;\n\nf) Da cobertura orçamental de despesas e encargos com pessoal;\n\ng) De ajustamentos relativos a dotações afetas a encargos de instalações, comunicações, rendas e bolsas de estudo;\n\nh) Da regularização de dívidas vencidas;\n\ni) De ajustamentos relativos a dotações afetas à Formação Bruta de Capital Fixo;\n\nj) De ajustamentos orçamentais relativos a despesas com ativos financeiros, passivos financeiros e encargos da dívida;\n\nk) Do acréscimo das necessidades relativas à aquisição de produtos químicos e farmacêuticos, produtos vendidos nas farmácias, material de consumo clínico e de serviços de saúde;\n\nl) Do acréscimo de necessidades das atividades de proteção civil e socorro;\n\nm) Do acréscimo de responsabilidades decorrentes de concessões;\n\nn) Da alteração de responsabilidade da execução da despesa relativa a ajustamentos em dotações orçamentais, cuja fonte de financiamento decorra das verbas afetas aos jogos sociais;\n\no) De ajustamentos orçamentais relativos a despesas afetas à gestão do espaço florestal e conservação da natureza.\n\n3 - Nos casos de mobilidade ou afetação de trabalhadores entre serviços da administração direta, entre serviços da administração indireta ou entre serviços da administração direta e indireta da Região Autónoma da Madeira, com exceção do Instituto de Segurança Social da Madeira, IP-RAM, previstos na alínea a) do n.º 2 deste artigo, a alteração orçamental é assegurada através da transferência da verba referente ao encargo com a respetiva remuneração, do orçamento do serviço de origem para o orçamento do serviço de destino.\n\n4 - O Governo Regional, através do membro do Governo Regional responsável pela área das finanças em conjunto com o membro do Governo Regional responsável pelo orçamento objeto de alteração, fica ainda autorizado a:\n\na) Proceder à inscrição ou reforço de dotações orçamentais afetas a projetos decorrentes da intempérie de 20 de fevereiro de 2010, dos incêndios de agosto de 2016 e da COVID-19, de projetos financiados pelo fundo de coesão para as regiões ultraperiféricas a que se refere o artigo 49.º da Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro, de projetos financiados pela Assistência à Recuperação para a Coesão e os Territórios da Europa (REACT-EU) e o Plano de Recuperação e Resiliência (PRR) e ao pagamento de dívidas vencidas de anos anteriores na sequência do aumento da previsão de receitas, decorrente da obtenção de fundos adicionais, de saldos não utilizados de anos anteriores e de saldos bancários não consignados a outras despesas, que não aquelas objeto de inscrição ou de reforço;\n\nb) Proceder à inscrição ou reforço de dotações orçamentais, na receita e na despesa, decorrentes de alterações à legislação em vigor, designadamente na lei do Orçamento do Estado, com impacto no Orçamento da Região Autónoma da Madeira e não contempladas no presente diploma."
+  },
+  "176885345": {
+   "fragment_id": "176886569",
+   "type": 11,
+   "heading": "Artigo 23.º — Cativações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cativações orçamentais\n\n1 - As dotações orçamentais dos serviços da administração direta, dos orçamentos privativos dos serviços e fundos autónomos e das empresas públicas integradas no universo das administrações públicas em contas nacionais, afetas ao funcionamento dos serviços e dos investimentos do Plano, ficam cativas nos seguintes termos:\n\na) Em 45 % do valor, as dotações orçamentais afetas à realização de horas extraordinárias «01.02.02. Horas extraordinárias»;\n\nb) Em 25 % do valor, as dotações orçamentais afetas à atribuição de outros abonos em numerário ou espécie «01.02.14. Outros abonos», com exceção do Subsídio de Insularidade;\n\nc) Em 25 % do valor, as dotações de todas as rubricas afetas à aquisição de bens e serviços «02.01.00. Aquisição de bens» e «02.02.00. Aquisição de serviços»;\n\nd) Em 25 % do valor, as dotações orçamentais afetas à classificação económica «04. Transferência Correntes», com exceção das destinadas a despesas com pessoal dos serviços e fundos autónomos, assim como as transferências para os serviços e fundos autónomos na área da saúde;\n\ne) Em 35 % do valor, as dotações orçamentais afetas à classificação económica «05. Subsídios», com exceção dos subsídios a conceder resultantes de responsabilidades decorrentes de concessões;\n\nf) Em 25 % do valor, as dotações orçamentais afetas à classificação económica «07. Aquisição de Bens de Capital»;\n\ng) Em 25 % do valor, as dotações orçamentais afetas à classificação económica «08. Transferências de Capital», à exceção das dotações afetas a projetos cofinanciados;\n\nh) Em 50 % do valor, as dotações orçamentais afetas a projetos cofinanciados sem candidatura aprovada.\n\n2 - O disposto no número anterior não é aplicável às dotações orçamentais afetas a:\n\na) Regularização de dívidas de anos anteriores;\n\nb) Contratos-programa que tenham por finalidade o pagamento de dívida financeira de entidades públicas, integradas no universo das administrações públicas em contas nacionais;\n\nc) Locação de edifícios, água, eletricidade, comunicações, seguros e bolsas de estudo;\n\nd) Aquisição de produtos químicos e farmacêuticos «02.01.09», produtos vendidos nas farmácias «02.01.10», material de consumo clínico «02.01.11», serviços de saúde «02.02.22» e outros serviços de saúde «02.02.23»;\n\ne) Despesas com fontes de financiamento associadas à Lei de Meios, ao fundo de coesão para as regiões ultraperiféricas, a que se refere o artigo 49.º da Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro;\n\nf) Encargos plurianuais em execução no ano económico de 2022;\n\ng) Dotações com compensação em receita e despesas financiadas com receitas próprias, inscritas nos orçamentos dos serviços e fundos autónomos e das entidades públicas integradas no universo das administrações públicas em contas nacionais;\n\nh) Contratos-programa e protocolos que resultem de linhas de crédito formalizadas pela Região;\n\ni) Projetos relativos à realização de eventos de animação turística referentes a Natal, Fim do Ano, Carnaval, Festa da Flor, Festa do Vinho, Madeira Nature Festival, Festival do Colombo e Festival do Atlântico, predefinidos em calendário;\n\nj) Contratos-programa a celebrar com a Associação de Promoção da Região Autónoma da Madeira;\n\nk) Despesa associada à implementação dos projetos vencedores do OPRAM;\n\nl) Transferências para o Instituto de Financiamento da Agricultura e Pescas, I. P., no âmbito do reforço orçamental do subprograma POSEI-Madeira, como auxílio estatal, nos termos do procedimento estabelecido no artigo 23.º, n.º 2, do Regulamento (UE) n.º 228/2013 do Parlamento Europeu e do Conselho;\n\nm) Projetos de investimento associados à execução de medidas do Plano de Recuperação e Resiliência e da Assistência à Recuperação para a Coesão e os Territórios da Europa (REACT-EU).\n\n3 - O disposto na alínea c) do n.º 1 não é aplicável ao Serviço de Saúde da Região Autónoma da Madeira, EPERAM.\n\n4 - As dotações afetas a projetos e atividades cofinanciadas por fundos europeus com fonte de financiamento comunitário, incluindo a respetiva contrapartida nacional, são descongeladas automaticamente, a partir do momento em que os projetos subjacentes às mesmas têm candidatura aprovada.\n\n5 - Para além das cativações orçamentais previstas no n.º 1, o Conselho do Governo Regional pode congelar, a título extraordinário, outras rubricas da despesa, face às necessidades de contenção das mesmas e de acordo com os objetivos da execução orçamental.\n\n6 - A extinção das cativações orçamentais referidas nos números anteriores, no que for aplicável à Assembleia Legislativa da Madeira, incumbe ao respetivo órgão nos termos das suas competências próprias de gestão orçamental.\n\n7 - O membro do Governo Regional responsável pela área das finanças pode autorizar o congelamento de quaisquer outras rubricas, em substituição das referidas no n.º 1, desde que o montante global do congelamento seja idêntico.\n\n8 - Em casos excecionais e devidamente fundamentados pelo serviço requerente, o membro do Governo Regional responsável pela área das finanças pode autorizar o descongelamento das rubricas da despesa sem a correspondente compensação."
+  },
+  "176885346": {
+   "fragment_id": "176886570",
+   "type": 11,
+   "heading": "Artigo 24.º — Saldos de gerência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Saldos de gerência\n\n1 - Os saldos de gerência de receitas próprias na posse dos serviços e fundos autónomos devem ser entregues, até 10 de abril de 2023, nos cofres da Tesouraria do Governo Regional da Madeira e constituem receita da Região, ainda que em prejuízo dos respetivos diplomas orgânicos.\n\n2 - Em situações devidamente justificadas, pode o membro do Governo Regional responsável pela área das finanças autorizar a dispensa da entrega dos respetivos saldos de gerência, devendo, para tal, o pedido de dispensa ser efetuado até ao dia 28 de fevereiro de 2023, nos termos a definir no decreto regulamentar regional de execução orçamental.\n\n3 - Verificadas as condições previstas no número anterior, pode ainda o membro do Governo Regional responsável pela área das finanças, mediante pedido fundamentado pelo serviço requerente, afetar as receitas provenientes de saldos de gerência de serviços e fundos autónomos, legalmente consignadas a fins específicos, a outros fins de interesse público.\n\n4 - Os saldos de gerência das entidades integradas no universo das administrações públicas em contas nacionais devem ser, prioritariamente, afetos ao pagamento das dívidas de anos anteriores, não lhes sendo aplicável o disposto nos números anteriores.\n\n5 - O previsto no número anterior prevalece sobre todas as disposições legais, gerais ou especiais que disponham em sentido contrário."
+  },
+  "176885347": {
+   "fragment_id": "176886571",
+   "type": 11,
+   "heading": "Artigo 25.º — Contas de ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contas de ordem\n\nOs serviços e fundos autónomos, incluindo as empresas públicas integradas no universo das administrações públicas em contas nacionais, ficam dispensados da manifestação de receitas próprias através do mecanismo de contas de ordem na Tesouraria do Governo Regional, desde que cumpridos os requisitos necessários para o efeito."
+  },
+  "176885348": {
+   "fragment_id": "176886572",
+   "type": 11,
+   "heading": "Artigo 26.º — Reporte de informação por parte das entidades públicas que integram o universo das administrações públicas em contas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reporte de informação por parte das entidades públicas que integram o universo das administrações públicas em contas nacionais\n\n1 - Os serviços e fundos autónomos e as demais entidades públicas que integram o universo das administrações públicas em contas nacionais devem remeter à Direção Regional do Orçamento e Tesouro, nos moldes e nos prazos definidos por esta, os dados referentes à execução orçamental e a informação sobre fundos disponíveis, compromissos, passivos, contas a pagar e pagamentos em atraso.\n\n2 - Devem igualmente ser remetidos ao Instituto de Desenvolvimento Regional, IP-RAM, todos os elementos necessários à avaliação da execução material e física do PIDDAR, nos moldes e nos prazos definidos por aquele instituto.\n\n3 - O relatório da execução orçamental, as demonstrações financeiras previsionais para o ano em curso e seguinte, assim como o balancete analítico trimestral, devem ser entregues nas condições e prazos a fixar no decreto regulamentar regional de execução orçamental."
+  },
+  "176885349": {
+   "fragment_id": "176886573",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições relativas a assunção de despesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições relativas a assunção de despesa"
+  },
+  "176885350": {
+   "fragment_id": "176886574",
+   "type": 11,
+   "heading": "Artigo 27.º — Competência para autorização de despesas no âmbito de procedimentos de contratação pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competência para autorização de despesas no âmbito de procedimentos de contratação pública\n\n1 - São competentes para autorizar despesas, no âmbito de procedimentos de contratação pública, as seguintes entidades:\n\na) Até (euro) 100 000, os diretores regionais e os órgãos máximos dos serviços com autonomia administrativa;\n\nb) Até (euro) 200 000, os órgãos de administração dos serviços e fundos autónomos;\n\nc) Até (euro) 3 750 000, os secretários regionais;\n\nd) Até (euro) 7 500 000, o Presidente do Governo Regional;\n\ne) Sem limite, o Conselho do Governo Regional.\n\n2 - O disposto no número anterior não é aplicável às empresas públicas integradas nas administrações públicas em contas nacionais.\n\n3 - Para procedimentos de contratação pública relativos a despesas associadas ao Plano de Recuperação e Resiliência (PRR) podem ser fixados limites distintos dos constantes no presente artigo."
+  },
+  "176885351": {
+   "fragment_id": "176886675",
+   "type": 11,
+   "heading": "Artigo 28.º — Competência para autorização de despesas devidamente discriminadas incluídas em planos de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Competência para autorização de despesas devidamente discriminadas incluídas em planos de atividade\n\n1 - As despesas devidamente discriminadas, incluídas em planos de atividade que sejam objeto de aprovação tutelar, podem ser autorizadas:\n\na) Até (euro) 150 000, pelos diretores regionais ou equiparados e pelos órgãos máximos dos serviços com autonomia administrativa;\n\nb) Até (euro) 300 000, pelos órgãos de administração dos serviços e fundos autónomos.\n\n2 - A competência fixada nos termos do n.º 1 mantém-se para as despesas provenientes de alterações, variantes, revisões de preços e contratos adicionais, desde que o respetivo custo total não exceda 10 % do limite da competência inicial.\n\n3 - Quando for excedido o limite percentual estabelecido no número anterior, a autorização do acréscimo da despesa compete à entidade que, nos termos do n.º 1, detém a competência para autorizar a realização do montante total da despesa."
+  },
+  "176885352": {
+   "fragment_id": "176886676",
+   "type": 11,
+   "heading": "Artigo 29.º — Competência para autorizar a assunção de encargos plurianuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competência para autorizar a assunção de encargos plurianuais\n\n1 - A assunção de compromissos plurianuais, independentemente da sua forma jurídica, incluindo novos projetos de investimento ou a sua reprogramação, contratos de locação, acordos de cooperação técnica e financeira e parcerias público-privadas, fica sujeita à autorização prévia do membro do Governo Regional responsável pela área das finanças.\n\n2 - De acordo com a autorização prevista no número anterior, as despesas relativas à execução de planos ou programas plurianuais legalmente aprovados podem ser autorizadas:\n\na) Até (euro) 500 000, pelos diretores regionais ou equiparados e pelos órgãos máximos dos serviços com autonomia administrativa;\n\nb) Até (euro) 1 000 000, pelos órgãos de administração dos serviços e fundos autónomos;\n\nc) Sem limite, pelo Presidente do Governo Regional e pelos secretários regionais.\n\n3 - A autorização prévia relativa à assunção de compromissos plurianuais pelo Instituto de Segurança Social da Madeira, IP-RAM, é da competência do membro do Governo Regional responsável pela área das finanças, mediante parecer favorável do membro do Governo Regional da respetiva tutela.\n\n4 - A competência para assunção de compromissos plurianuais por parte das entidades da administração pública regional, previstas no âmbito do artigo 2.º da Lei de Enquadramento Orçamental, aprovada em anexo à Lei n.º 151/2015, de 11 de setembro, na sua atual redação, independentemente da sua natureza e estatuto jurídico, que não tenham pagamentos em atraso, é do respetivo órgão de direção, quando os referidos compromissos apenas envolvam receita própria ou receitas provenientes de cofinanciamento europeu.\n\n5 - Os encargos plurianuais associados à execução de medidas do Plano de Recuperação e Resiliência não estão sujeitos ao disposto no n.º 1."
+  },
+  "176885353": {
+   "fragment_id": "176886677",
+   "type": 11,
+   "heading": "Artigo 30.º — Competência para aquisição, alienação, arrendamento, locação ou oneração de imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competência para aquisição, alienação, arrendamento, locação ou oneração de imóveis\n\n1 - A autorização de despesas relativas à aquisição, arrendamento ou locação de imóveis e respetivas renovações, para a instalação de serviços do Governo Regional, incluindo os serviços e fundos autónomos e as demais entidades públicas que integram o universo das administrações públicas em contas nacionais, bem como a autorização para a alienação, arrendamento, concessão, cedência ou oneração, por qualquer forma, de imóveis da Região Autónoma da Madeira, é da exclusiva competência do Conselho do Governo Regional e está sujeita a parecer prévio do organismo que tutele o setor do património, nos termos da lei, sem prejuízo das situações previstas nos números seguintes.\n\n2 - A competência para autorizar as cedências temporárias das casas de abrigo da Região Autónoma da Madeira é cometida ao Instituto das Florestas e Conservação da Natureza, IP-RAM.\n\n3 - A competência para autorizar a alienação, o arrendamento ou a oneração de imóveis com fins habitacionais e não habitacionais para comércio, pela IHM - Investimentos Habitacionais da Madeira, EPERAM, é cometida ao órgão de administração daquela entidade pública, mediante autorização prévia do membro do Governo Regional com a tutela do setor.\n\n4 - A competência para autorizar o arrendamento de imóveis com fins não habitacionais e com vista à sua utilização para a prossecução de ações de âmbito não comercial, pela IHM - Investimentos Habitacionais da Madeira, EPERAM, é cometida ao órgão de administração daquela entidade pública, mediante autorização prévia do Conselho do Governo Regional.\n\n5 - No caso previsto no número anterior, poderá ser dispensado o pagamento de rendas a instituições particulares de solidariedade social, mediante autorização prévia do membro do Governo Regional com a tutela das finanças.\n\n6 - A competência para autorizar a concessão de imóveis localizados em domínio público marítimo, não integrados em área sob jurisdição portuária, é cometida, nos termos do Decreto-Lei n.º 226-A/2007, de 31 de maio, na sua atual redação, ao membro do Governo Regional com a tutela do litoral.\n\n7 - O parecer prévio previsto no n.º 1 não é aplicável nos casos em que os procedimentos identificados naquele normativo sejam promovidos pelo próprio organismo e tenham sido objeto de autorização pelo dirigente máximo."
+  },
+  "176885354": {
+   "fragment_id": "176886678",
+   "type": 11,
+   "heading": "Artigo 31.º — Competência para autorização de despesas sem concurso ou contrato escrito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Competência para autorização de despesas sem concurso ou contrato escrito\n\n1 - Nos casos previstos na lei, e sem prejuízo do disposto no número seguinte, a dispensa de celebração de contrato escrito é da competência do respetivo membro do Governo Regional.\n\n2 - Nos casos em que a despesa deva ser autorizada pelo Presidente do Governo Regional ou pelo Conselho do Governo, a dispensa de celebração de contrato escrito é da competência dessas entidades, sob proposta do respetivo membro do Governo Regional."
+  },
+  "176885355": {
+   "fragment_id": "176886679",
+   "type": 11,
+   "heading": "Artigo 32.º — Requisito prévio para a autorização de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Requisito prévio para a autorização de despesas\n\n1 - A assunção de compromissos por parte das entidades públicas, incluindo as integradas no universo das administrações públicas em contas nacionais, independentemente da sua forma jurídica, de valor superior a (euro) 300 000, é sempre precedida de autorização prévia do membro do Governo Regional responsável pela área das finanças, sem prejuízo do disposto no número seguinte.\n\n2 - O Serviço de Saúde da Região Autónoma da Madeira, EPERAM, pode assumir compromissos com dispensa da autorização prévia a que se refere o número anterior, até ao valor de (euro) 500 000.\n\n3 - O disposto no n.º 1 não se aplica ao Instituto de Segurança Social da Madeira, IP-RAM, e aos projetos associados ao Plano de Recuperação e Resiliência."
+  },
+  "176885356": {
+   "fragment_id": "176886680",
+   "type": 11,
+   "heading": "Artigo 33.º — Violação das regras relativas a compromissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Violação das regras relativas a compromissos\n\n1 - Os agentes económicos que procedam ao fornecimento de bens ou serviços, sem que o documento de compromisso, nota de encomenda ou documento análogo, tenha o número de compromisso, bem como a clara identificação da entidade emitente, não podem reclamar junto das entidades integradas no universo das administrações públicas em contas nacionais o respetivo pagamento.\n\n2 - Os dirigentes ou equiparados que assumam compromissos, emitam notas de encomenda ou documentos análogos, que não exibam o número de compromisso ou incumpram com o disposto no artigo 32.º e no presente artigo, ou na Lei dos Compromissos e Pagamentos em Atraso, incorrem em responsabilidade nos termos da lei."
+  },
+  "176885357": {
+   "fragment_id": "176886681",
+   "type": 1,
+   "heading": "Capítulo VIII — Concessão de subsídios e outras formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Concessão de subsídios e outras formas de apoio"
+  },
+  "176885358": {
+   "fragment_id": "176886682",
+   "type": 11,
+   "heading": "Artigo 34.º — Concessão de subsídios e outras formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Concessão de subsídios e outras formas de apoio\n\n1 - Nos limites necessários ao cumprimento dos compromissos e objetivos orçamentais assumidos pela Região Autónoma da Madeira, fica o Governo Regional autorizado a conceder subsídios e outras formas de apoio a entidades públicas e privadas, no âmbito das ações e projetos de desenvolvimento que visem a melhoria da qualidade de vida das populações, bem como tenham enquadramento no plano de desenvolvimento económico e social da Região Autónoma da Madeira, designadamente para:\n\na) Aquisição, construção ou reabilitação de habitação social;\n\nb) Reabilitação e requalificação dos bairros sociais;\n\nc) Apoio à habitação para jovens e para desempregados;\n\nd) Apoio à aquisição, construção e recuperação de habitações pertencentes a famílias carenciadas;\n\ne) Projetos e iniciativas de inclusão social e de apoio no âmbito da saúde;\n\nf) Projetos de comunidade descentralizados orientados, especificamente, para o apoio da população idosa, na promoção do envelhecimento ativo;\n\ng) Aquisição, construção ou reabilitação de equipamentos e serviços de apoio social destinados ao acompanhamento diurno e noturno da população idosa da Região, minimizando as situações de isolamento e solidão social;\n\nh) Projetos de recuperação/reabilitação de imóveis destinados à prossecução de atividades na área da inclusão social;\n\ni) Apoio à formação de profissionais de saúde;\n\nj) Projetos de regeneração urbana.\n\n2 - Fica o Governo Regional autorizado a conceder subsídios e outras formas de apoio a ações e projetos de caráter social e económico, ambiental, cultural, desportivo e religioso que visem, nomeadamente, a salvaguarda das tradições, usos e costumes, o património regional e ou a promoção da Região Autónoma da Madeira.\n\n3 - Fica o Governo Regional autorizado a conceder apoio a entidades operadoras de radiodifusão sonora que promovam a divulgação de projetos de caráter informativo, social, económico, cultural e desportivo da Região Autónoma da Madeira.\n\n4 - Fica o Governo Regional autorizado a conceder subsídios e outras formas de apoio a entidades públicas, no âmbito da subsidiação do preço dos serviços prestados pelo sistema multimunicipal de águas e de resíduos da Região Autónoma da Madeira, nomeadamente do preço da água de rega e dos serviços de águas e resíduos em baixa e em alta, tendo em conta o enquadramento social e ambiental da atividade na Região Autónoma da Madeira.\n\n5 - O Governo Regional pode ainda criar linhas de crédito bonificadas, nomeadamente nas áreas da educação, da formação profissional, da agricultura e desenvolvimento rural, da pesca, cujas condições são aprovadas por resolução do Conselho do Governo Regional.\n\n6 - No âmbito do disposto no n.º 2, os apoios a conceder podem assumir a forma de compensação pelos financiamentos utilizados pelas entidades beneficiárias, na prossecução dos objetivos inerentes.\n\n7 - Em casos excecionais, devidamente fundamentados, podem ser comparticipadas despesas de funcionamento assumidas antes da vigência do respetivo contrato-programa, incluindo eventos que tenham sido realizados dentro do mesmo ano económico e a consolidação do passivo de entidades integradas no universo das administrações públicas em contas nacionais, cujas despesas tenham sido devidamente contabilizadas para efeitos de contas nacionais.\n\n8 - A concessão destes auxílios fundamenta-se em motivo de interesse público e faz-se com respeito pelos princípios da publicidade, da transparência, da concorrência e da imparcialidade.\n\n9 - Com exceção das linhas de crédito bonificado, a que se refere o n.º 5, os subsídios e outras formas de apoio concedidos são formalizados através de contrato-programa com o beneficiário, onde são definidos os objetivos, as formas de auxílio, as obrigações das partes e as penalizações em caso de incumprimento, podendo não ser efetuada a transferência dos montantes em causa caso subsista qualquer tipo de incumprimento à Região Autónoma da Madeira por parte da entidade beneficiária, ficando, nestes casos, o departamento do Governo Regional com a tutela das finanças autorizado a proceder, sem qualquer formalidade adicional, à retenção dos subsídios e outras formas de apoio atribuídos, até ao montante do incumprimento.\n\n10 - A concessão dos auxílios previstos neste artigo é sempre precedida de uma quantificação da respetiva despesa, devendo ser autorizada através de resolução do Conselho do Governo Regional, após parecer favorável do departamento do Governo Regional com a tutela das finanças, sem prejuízo do disposto nos n.os 11 e 12.\n\n11 - O parecer prévio favorável do departamento do Governo Regional com a tutela das finanças é dispensado nos seguintes casos:\n\na) Quando os valores a atribuir não ultrapassem os montantes anteriormente concedidos, para a mesma finalidade e para a mesma entidade que tenha beneficiado desse apoio;\n\nb) Quando os valores se destinem à concessão de auxílios a atribuir no âmbito do Plano Regional de Apoio ao Desporto (PRAD) e os mesmos não ultrapassem os montantes definidos e aprovados na portaria que regulamenta e define os valores máximos a atribuir a cada capítulo de apoio ao desporto.\n\n12 - Nas situações de dispensa do parecer previstas no número anterior, a proposta de concessão de auxílio é obrigatoriamente comunicada ao departamento do Governo Regional com a tutela das finanças, antes da sua autorização por resolução do Conselho do Governo Regional.\n\n13 - É nula a concessão de auxílios prevista no presente artigo com omissão de quaisquer formalidades exigíveis.\n\n14 - Todos os subsídios e formas de apoio concedidos são objeto de publicação no Jornal Oficial da Região Autónoma da Madeira.\n\n15 - Os demais procedimentos inerentes aos apoios previstos nesta norma são definidos no decreto regulamentar regional de execução orçamental."
+  },
+  "176885359": {
+   "fragment_id": "176886683",
+   "type": 11,
+   "heading": "Artigo 35.º — Programa «Histórico-Cultural»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Programa «Histórico-Cultural»\n\nNo ano de 2022, o Governo Regional iniciará, em cooperação financeira com a RTP-Madeira, a criação de uma série histórico-cultural da Região, enquadrando-se, esta iniciativa, no alcance científico, formativo e educativo do programa ao nível regional, marcado pela qualidade técnica e rigor no tratamento da informação, disponível a todas as comunidades madeirenses."
+  },
+  "176885360": {
+   "fragment_id": "176886684",
+   "type": 11,
+   "heading": "Artigo 36.º — Subsídios e outras formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Subsídios e outras formas de apoio\n\n1 - Estão abrangidos pelo disposto no artigo 34.º os subsídios e outras formas de apoio concedidos pelos serviços da administração direta regional, assim como os referentes a todas as entidades públicas que, nos termos da lei, gozem de autonomia administrativa e financeira.\n\n2 - Os apoios financeiros concedidos ao abrigo de legislação específica respeitam o previsto no respetivo regime legal e nos n.os 7 a 12 do artigo 34.º\n\n3 - Os apoios financeiros concedidos ao abrigo da legislação referente à cooperação entre o Instituto de Segurança Social da Madeira, IP-RAM, e as instituições particulares de solidariedade social e outras instituições particulares sem fins lucrativos que prosseguem atividades sociais na Região Autónoma da Madeira, designadamente o Decreto Legislativo Regional n.º 11/2015/M, de 18 de dezembro, na sua atual redação, e que sejam suportados pelo orçamento daquele Instituto, estão dispensados da emissão de parecer do departamento do Governo Regional com a tutela das finanças.\n\n4 - Sem prejuízo do disposto no artigo 42.º do presente diploma, excecionam-se do n.º 2 os apoios financeiros concedidos ao abrigo de legislação específica na qual se encontre fixada a respetiva quantificação ou que não estejam sujeitos à celebração de contrato-programa, designadamente no que respeita aos apoios concedidos no âmbito da habitação, do emprego, da agricultura e desenvolvimento rural, de fundos comunitários, e dos fatores de produção do bordado da Madeira e dos viticultores."
+  },
+  "176885361": {
+   "fragment_id": "176886685",
+   "type": 11,
+   "heading": "Artigo 37.º — Apoio humanitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Apoio humanitário\n\n1 - O Governo Regional, na medida do estritamente necessário e por motivos de urgência imperiosa, resultantes de calamidades naturais ou de outros acontecimentos extraordinários, pode atribuir auxílios públicos de natureza humanitária, destinados a prestar apoio a ações de reconstrução e recuperação de infraestruturas, atividades económicas e sociais, bem como às respetivas populações afetadas, incluindo as comunidades emigrantes madeirenses, cuja atribuição segue o disposto nos n.os 9 a 12 do artigo 34.º\n\n2 - Para efeitos do número anterior, o Governo Regional fica autorizado a dotar o orçamento das verbas necessárias à execução destes apoios e, se necessário, proceder às alterações orçamentais que forem indispensáveis, conforme previsto na alínea e) do n.º 2 do artigo 22.º"
+  },
+  "176885362": {
+   "fragment_id": "176886686",
+   "type": 11,
+   "heading": "Artigo 38.º — Transferências e apoios para entidades de direito privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Transferências e apoios para entidades de direito privado\n\n1 - Os montantes das transferências e apoios para entidades de direito privado em 2022 não podem ultrapassar os valores anteriormente concedidos para a mesma finalidade, excluindo os apoios no âmbito:\n\na) Da saúde;\n\nb) Da ação social;\n\nc) Da educação;\n\nd) Da proteção civil;\n\ne) Da promoção turística;\n\nf) Dos apoios previstos no n.º 4 do artigo 34.º;\n\ng) Dos apoios que resultem da aplicação de regulamentos;\n\nh) Dos apoios destinados a suportar encargos decorrentes de empréstimos detidos por empresas do setor empresarial da Região Autónoma da Madeira e por entidades públicas que integrem o universo das administrações públicas em contas nacionais.\n\n2 - A verificação da variação dos apoios incide sobre o valor atribuído no último ano em que as entidades beneficiaram de apoios, sendo que a verificação desta condição pode ser feita, de acordo com a mesma regra, por setor ou finalidade, desde que os apoios sejam concedidos na sua globalidade e no mesmo momento.\n\n3 - Em 2022 a atribuição de subsídios e outras formas de apoio, decorrentes de regulamentos, fica limitada às dotações orçamentais incluídas no orçamento, para essa finalidade.\n\n4 - A atribuição de novos apoios rege-se pelos princípios da economicidade, eficiência e eficácia das despesas.\n\n5 - O disposto nos números anteriores prevalece sobre todas as disposições legais, gerais ou especiais em contrário, não prejudicando, contudo, a regularização de dívidas vencidas, desde que as mesmas tenham sido devidamente contabilizadas para efeitos de contas nacionais."
+  },
+  "176885363": {
+   "fragment_id": "176886687",
+   "type": 11,
+   "heading": "Artigo 39.º — Subsídios e outras formas de apoio no âmbito da COVID-19",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Subsídios e outras formas de apoio no âmbito da COVID-19\n\n1 - O Governo Regional fica autorizado, através do respetivo membro do Governo responsável pela área das finanças, mediante proposta da área setorial:\n\na) A atribuir apoio a entidades públicas da administração indireta e do setor empresarial da Região, para financiamento do défice de exploração, constituído ou agravado pelo impacto negativo na liquidez em virtude da quebra de receitas ou do aumento das suas despesas, resultantes de forma direta, necessária e involuntária dos efeitos decorrentes da pandemia da doença COVID-19, ou ainda em resultado do disposto na alínea d) do artigo 41.º;\n\nb) A atribuir apoio a entidades públicas e privadas no âmbito das ações e projetos de desenvolvimento devidamente inscritos no orçamento do departamento do Governo Regional responsável pelo apoio, em medidas afetas à prevenção, contenção, mitigação e tratamento da COVID-19.\n\n2 - Os apoios a atribuir neste âmbito devem explicitar concretamente a ação ou medida prática de prevenção, contenção, mitigação e tratamento, para a qual a despesa em causa pretende contribuir e a norma legal ou determinação governamental que lhe subjaz.\n\n3 - Caso os subsídios e apoios referidos no presente artigo se concretizem mediante contrato programa, deve ser respeitado o disposto nos n.os 7 a 14 do artigo 34.º"
+  },
+  "176885364": {
+   "fragment_id": "176886688",
+   "type": 11,
+   "heading": "Artigo 40.º — Apoios financeiros na área do emprego no âmbito da COVID-19",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Apoios financeiros na área do emprego no âmbito da COVID-19\n\nO Governo Regional fica autorizado a conceder apoios financeiros, na área do emprego, a pessoas singulares e coletivas, destinados a garantir, designadamente, a manutenção de postos de trabalho e a compensação da perda de rendimentos, decorrentes da pandemia da COVID-19, mediante a aprovação de portarias conjuntas dos membros do Governo Regional com a tutela das finanças e do emprego."
+  },
+  "176885365": {
+   "fragment_id": "176886689",
+   "type": 11,
+   "heading": "Artigo 41.º — Isenções e suspensões no âmbito da COVID-19",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Isenções e suspensões no âmbito da COVID-19\n\nO Governo Regional fica autorizado, mediante parecer prévio favorável do membro do Governo com a tutela da área das finanças e resolução do Conselho do Governo Regional:\n\na) A isentar as rendas habitacionais ou não habitacionais, prestações de empréstimos, canons superficiários habitacionais ou não habitacionais, ou outros montantes, devidos à IHM - Investimentos Habitacionais da Madeira, EPERAM, aplicando-se as regras da proporcionalidade, nas dívidas com vencimento não mensal;\n\nb) A suspender a cobrança dos planos de pagamento ou acordos de regularização de dívida de rendas ou outras prestações, designadamente das mencionadas na alínea anterior;\n\nc) A suspender a cobrança dos pagamentos relativos aos planos prestacionais de amortização de dívida, decorrentes das medidas ativas de emprego;\n\nd) A emitir orientações de gestão às entidades do setor público empresarial da Região Autónoma da Madeira para que estas atribuam aos seus clientes medidas de apoio que mitiguem os efeitos da pandemia da COVID-19, designadamente moratórias ou diferimento de pagamentos, isenções totais ou parciais de pagamentos, rendas ou outros consumos, incluindo os resultantes da prestação de serviços essenciais, com a suspensão de plano de pagamentos ou acordos de regularização de dívidas;\n\ne) A isentar do pagamento das respetivas rendas os operadores grossistas que dispõem de protocolo de atribuição do direito de exploração de um ou mais de um posto fixo de vendas no Centro de Abastecimento de Produtos Agrícolas do Funchal (CAPA), ou de outro título que confere aquele direito;\n\nf) A isentar os agricultores do pagamento das taxas relativas à prestação de serviços da Direção Regional de Agricultura e Desenvolvimento Rural, da Secretaria Regional de Agricultura e Desenvolvimento Rural."
+  },
+  "176885366": {
+   "fragment_id": "176886690",
+   "type": 11,
+   "heading": "Artigo 42.º — Fiscalização de subsídios e outros apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Fiscalização de subsídios e outros apoios\n\n1 - Sem prejuízo das competências atribuídas a outras entidades, a fiscalização do cumprimento do disposto nos artigos 34.º a 41.º do presente diploma compete à Inspeção Regional de Finanças.\n\n2 - Para efeitos do disposto no número anterior, as entidades beneficiárias dos subsídios e outros apoios ficam obrigadas, por si ou através dos seus representantes legais ou institucionais, a permitir o acesso aos locais onde se encontram os elementos e documentação necessários, nomeadamente os documentos de despesa.\n\n3 - As entidades beneficiárias dos subsídios e outros apoios ficam ainda obrigadas a remeter à entidade concedente todos os elementos de prestação de contas das verbas por si recebidas, por forma a que aquelas entidades possam exercer eficazmente as suas competências de verificação e controlo dos subsídios e apoios concedidos."
+  },
+  "176885367": {
+   "fragment_id": "176886691",
+   "type": 11,
+   "heading": "Artigo 43.º — Contratos-programa na área da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Contratos-programa na área da saúde\n\n1 - Fica o Governo Regional autorizado, através dos respetivos membros do Governo responsáveis pelas áreas da saúde e dos assuntos sociais, a celebrar contratos-programa no âmbito do funcionamento ou implementação da Rede Regional de Cuidados Continuados Integrados, após parecer prévio favorável do departamento do Governo Regional com a tutela das finanças.\n\n2 - Os contratos programa previstos no número anterior podem envolver encargos plurianuais com o limite de três anos, devem ser publicados no Jornal Oficial da Região Autónoma da Madeira e tornam-se eficazes com a sua assinatura."
+  },
+  "176885368": {
+   "fragment_id": "176886692",
+   "type": 11,
+   "heading": "Artigo 44.º — Indemnizações compensatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Indemnizações compensatórias\n\nFica o Governo Regional autorizado, mediante resolução do Conselho do Governo Regional, a conceder indemnizações compensatórias às empresas que prestem serviço público, após parecer prévio favorável do departamento do Governo Regional com a tutela das finanças, aplicando progressivamente o critério do utilizador pagador."
+  },
+  "176885369": {
+   "fragment_id": "176886693",
+   "type": 11,
+   "heading": "Artigo 45.º — Atribuição de incentivos aos conservadores dos registos da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Atribuição de incentivos aos conservadores dos registos da Região Autónoma da Madeira\n\n1 - Os conservadores de registos que tenham tomado posse, tenham sido contratados ou o venham a ser pelos serviços externos da Direção Regional da Administração da Justiça após a vigência do Decreto-Lei n.º 247/2003, de 8 de outubro, e enquanto se mantiverem ao serviço na Região Autónoma da Madeira, têm direito a um incentivo mensal de insularidade idêntico, quantitativa e qualitativamente, ao subsídio mensal de insularidade a que se refere o artigo 6.º do Decreto-Lei n.º 145/2019, de 23 de setembro.\n\n2 - Enquanto o montante do subsídio mensal de insularidade não for fixado nos termos previstos no n.º 2 do artigo 6.º do Decreto-Lei n.º 145/2019, de 23 de setembro, os conservadores referidos no n.º 1 têm direito a incentivos de compensação e de fixação, exatamente idênticos, quantitativa e qualitativamente, aos subsídios de compensação e fixação abonados aos conservadores a que se refere o artigo 10.º do Decreto-Lei n.º 247/2003, de 8 de outubro.\n\n3 - O incentivo de insularidade ou os incentivos de compensação e fixação não são devidos aos conservadores que ingressarem na carreira em quadros da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 3.º do Decreto-Lei n.º 247/2003, de 8 de outubro, nem aos que já beneficiam diretamente dos subsídios nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 145/2019, de 23 de setembro, ou nos termos do artigo 10.º do Decreto-Lei n.º 247/2003, de 8 de outubro."
+  },
+  "176885370": {
+   "fragment_id": "176886694",
+   "type": 1,
+   "heading": "Capítulo IX — Autonomia administrativa e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Autonomia administrativa e financeira"
+  },
+  "176885371": {
+   "fragment_id": "176886695",
+   "type": 11,
+   "heading": "Artigo 46.º — Cessação da autonomia financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Cessação da autonomia financeira\n\nDurante o ano de 2022, ficam suspensos os fundos escolares previstos nos artigos 31.º a 34.º do Decreto Legislativo Regional n.º 4/2000/M, de 31 de janeiro, alterado e republicado pelo Decreto Legislativo Regional n.º 21/2006/M, de 21 de junho, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região Autónoma da Madeira."
+  },
+  "176885372": {
+   "fragment_id": "176886696",
+   "type": 1,
+   "heading": "Capítulo X — Disposições relativas à administração pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Disposições relativas à administração pública regional"
+  },
+  "176885373": {
+   "fragment_id": "176886697",
+   "type": 8,
+   "heading": "Secção I — Disposições relativas a trabalhadores do setor público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições relativas a trabalhadores do setor público"
+  },
+  "176885374": {
+   "fragment_id": "176886698",
+   "type": 11,
+   "heading": "Artigo 47.º — Determinação do posicionamento remuneratório em procedimento concursal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Determinação do posicionamento remuneratório em procedimento concursal\n\nEm 2022, a negociação prevista no artigo 38.º da Lei Geral do Trabalho em Funções Públicas (LTFP), nos casos em que vá para além da primeira posição remuneratória da carreira ou da posição definida em regime próprio, depende de despacho prévio favorável dos membros do Governo Regional responsáveis pela área em que se integra o órgão, serviço ou entidade em causa e pela área das finanças e administração pública."
+  },
+  "176886775": {
+   "fragment_id": "176886699",
+   "type": 11,
+   "heading": "Artigo 48.º — Relevância de pontos para efeitos de alteração de posicionamento remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Relevância de pontos para efeitos de alteração de posicionamento remuneratório\n\nNas alterações obrigatórias do posicionamento remuneratório, a efetuar em 2022, quando o trabalhador tenha acumulado mais do que os pontos legalmente exigidos para aquele efeito, os pontos em excesso relevam para efeitos de futura alteração do seu posicionamento remuneratório."
+  },
+  "176886776": {
+   "fragment_id": "176886700",
+   "type": 11,
+   "heading": "Artigo 49.º — Regime excecional de gozo de férias vencidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Regime excecional de gozo de férias vencidas\n\n1 - As férias vencidas em 2019 e não gozadas em 2020 podem, excecionalmente, ser acumuladas com as vencidas em 2021 e 2022, prescrevendo apenas se não forem gozadas até final deste último ano.\n\n2 - As férias vencidas em 2020 e 2021 podem igualmente ser gozadas até final do ano de 2022, salvaguardando-se o gozo mínimo de 10 dias úteis consecutivos, previsto no n.º 8 do artigo 241.º do Código do Trabalho.\n\n3 - As acumulações de férias resultantes dos números anteriores são decididas por acordo entre o dirigente máximo do serviço e o trabalhador."
+  },
+  "176886777": {
+   "fragment_id": "176886701",
+   "type": 11,
+   "heading": "Artigo 50.º — Prorrogação da mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Prorrogação da mobilidade\n\n1 - As situações de mobilidade e de cedência de interesse público existentes à data de entrada em vigor do presente diploma, cujo limite de duração máxima ocorra durante o ano de 2022, podem ser excecionalmente prorrogadas até 31 de dezembro de 2022, independentemente de quaisquer formalidades, exceto a sua comunicação ao membro do Governo Regional responsável pela área das finanças e da administração pública.\n\n2 - A prorrogação excecional prevista no número anterior é ainda aplicável às situações de mobilidade ou cedência, cujo termo ocorre a 31 de dezembro de 2021.\n\n3 - Para efeitos do disposto no presente artigo, considera-se que a mobilidade e a cedência de interesse público só não serão prorrogadas se existir manifestação expressa que contrarie essa prorrogação automática, quer dos organismos envolvidos quer do trabalhador, nos casos em que o seu acordo foi necessário para a respetiva constituição.\n\n4 - Sem prejuízo do disposto no número anterior, os órgãos e serviços que beneficiem do disposto nos números anteriores devem, em momento anterior ao processo de preparação da proposta de orçamento de 2023, definir as intenções de cessação de mobilidade ou de cedências de interesse público e comunicar as mesmas aos respetivos serviços de origem."
+  },
+  "176886778": {
+   "fragment_id": "176886702",
+   "type": 11,
+   "heading": "Artigo 51.º — Mobilidade intercarreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Mobilidade intercarreiras\n\n1 - Durante o ano de 2022, o posicionamento remuneratório a que se refere o artigo 153.º da Lei Geral do Trabalho em Funções Públicas (LTFP), adaptada à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto, na sua atual redação, é determinado em função da remuneração base efetivamente auferida pelo trabalhador à data da constituição da mobilidade.\n\n2 - Nas situações de mobilidades intercarreiras para carreiras especiais ainda não revistas, releva, para efeitos do posicionamento remuneratório previsto no artigo 153.º da Lei Geral do Trabalho em Funções Públicas (LTFP), a posição e índice fixado para o estagiário da respetiva carreira.\n\n3 - Nos casos previstos no número anterior, o período de exercício efetivo prestado em mobilidade releva para efeitos de contagem do tempo de período experimental ou estágio exigido para o ingresso na nova carreira."
+  },
+  "176886779": {
+   "fragment_id": "176886703",
+   "type": 11,
+   "heading": "Artigo 52.º — Medidas de equilíbrio orçamental na administração pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Medidas de equilíbrio orçamental na administração pública regional\n\n1 - No âmbito das medidas de equilíbrio orçamental, durante o ano de 2022, estão sujeitos a parecer prévio do membro do Governo Regional responsável pela área das finanças e da administração pública os seguintes atos ou procedimentos:\n\na) A nomeação, a qualquer título, para cargos de direção superior de 2.º grau e para cargos de direção intermédia de 1.º e de 2.º graus, previstos nos diplomas que aprovam as orgânicas ou organização interna dos respetivos serviços que ainda não foram objeto de reestruturação, nos termos do n.º 2 do artigo 14.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, retificado pela Declaração de Retificação n.º 59/2019, de 5 de dezembro;\n\nb) A aprovação ou alteração de diplomas orgânicos, designadamente despachos que aprovam unidades orgânicas flexíveis;\n\nc) A constituição de equipas multidisciplinares a que se refere o n.º 2 do artigo 22.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, retificado pela Declaração de Retificação n.º 1/2008, de 4 de janeiro, na sua atual redação;\n\nd) A criação de estruturas de missão, nos termos do artigo 28.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, retificado pela Declaração de Retificação n.º 1/2008, de 4 de janeiro, quando gerem um aumento de despesa pública;\n\ne) A constituição de situações de cedência de interesse público para exercer funções nos órgãos e serviços da administração regional e empresas públicas de capital exclusiva ou maioritariamente público integradas no universo das administrações públicas em contas nacionais, desde que determine um aumento de efetivos na entidade pública cessionária, com exceção das celebradas para o exercício de funções de gestor público ou de cargos dirigentes;\n\nf) A mobilidade de trabalhadores em funções públicas para serviços ou entidades externas à administração pública regional, cujos encargos sejam suportados pelo serviço de origem;\n\ng) A constituição de mobilidades intercarreiras;\n\nh) O regresso de trabalhadores em situação de licença sem remuneração, que não confira direito a ocupação de posto de trabalho.\n\n2 - São ainda comunicados ao membro do Governo Regional responsável pela área das finanças e da administração pública os seguintes atos:\n\na) O recrutamento de trabalhadores, na sequência de procedimentos concursais exclusivamente destinados a trabalhadores com relação jurídica de emprego público por tempo indeterminado previamente constituída, que tenha gerado um aumento do número de efetivos da administração pública regional;\n\nb) A mobilidade de trabalhadores, para exercer funções nos órgãos e serviços da administração regional, desde que tenha gerado um aumento de efetivos na administração pública regional e desde que não esteja já abrangida pela autorização prévia prevista na alínea g) do número anterior;\n\nc) A mobilidade ou requisição de docentes, para o exercício de funções que não compreendem a atividade letiva;\n\nd) A constituição de cedências de interesse público para exercer funções nas empresas públicas do setor empresarial regional, não integradas no universo das administrações públicas em contas nacionais, com exceção das celebradas para o exercício de funções de gestor público ou de cargos dirigentes.\n\n3 - Durante o ano de 2022, na constituição de mobilidade ou afetação de trabalhadores entre serviços da administração direta, entre serviços da administração indireta ou entre serviços da administração direta e indireta da Região Autónoma da Madeira, é obrigatória a transferência da verba a que se refere o n.º 3 do artigo 22.º\n\n4 - Durante o ano de 2022, e até à aprovação do regime dos gabinetes dos membros do Governo Regional, a remuneração dos técnicos especialistas é estabelecida mediante Resolução do Conselho de Governo, com observância do limite máximo remuneratório fixado no Decreto-Lei n.º 11/2012, de 20 de janeiro, na sua atual redação.\n\n5 - Durante o ano de 2022, o montante das ajudas de custo a que se refere o artigo 3.º do Decreto Legislativo Regional n.º 8/2014/M, de 29 de julho, alterado pelo Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro, é o que consta na alínea a) do n.º 2 da Portaria n.º 1553-D/2008, de 31 de dezembro, alterada pela Portaria n.º 1458/2009, de 31 de dezembro, sem prejuízo da redução estabelecida no artigo 4.º do Decreto-Lei n.º 137/2010, de 28 de dezembro, na redação conferida pela Lei n.º 66-B/2012, de 31 de dezembro.\n\n6 - O incumprimento do disposto nos n.os 1 a 2 do presente artigo determina a nulidade dos atos praticados sem observância dos mesmos."
+  },
+  "176886780": {
+   "fragment_id": "176886704",
+   "type": 11,
+   "heading": "Artigo 53.º — Suplementos remuneratórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Suplementos remuneratórios\n\n1 - Mantêm-se em vigor todos os suplementos remuneratórios existentes na administração pública regional, designadamente:\n\na) O suplemento de produtividade atribuído aos trabalhadores da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, ao abrigo dos artigos 34.º e 35.º do Decreto Legislativo Regional n.º 28/2006/M, de 19 de julho, na sua atual redação;\n\nb) O suplemento de integração na Região Autónoma da Madeira, atribuído aos trabalhadores da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, ao abrigo do artigo 44.º do Decreto Regulamentar Regional n.º 29-A/2005/M, de 31 de agosto, em vigor ao abrigo do artigo 20.º do Decreto Regulamentar Regional n.º 14/2015/M, de 19 de agosto;\n\nc) O suplemento de residência atribuído nos termos previstos na alínea a) do artigo 18.º do Decreto-Lei n.º 48.405, de 29 de maio de 1968, aos trabalhadores da Autoridade Tributária que exerçam funções, em regime de mobilidade, na Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, ao abrigo do artigo 56.º do Decreto Legislativo Regional n.º 28/2006/M, de 19 de julho, na sua atual redação;\n\nd) O subsídio de frio previsto na Resolução do Conselho do Governo Regional n.º 448/86, de 8 de abril, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 13, de 8 de abril, alterada pela Resolução do Conselho do Governo Regional n.º 258/91, de 21 de março;\n\ne) O suplemento previsto no n.º 8 da Resolução do Conselho do Governo Regional n.º 776/2020, de 21 de outubro;\n\nf) O suplemento remuneratório criado pelo artigo 12.º do Decreto Legislativo Regional n.º 12/2020/M, de 10 de agosto;\n\ng) O suplemento remuneratório criado pelo artigo 57.º do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro.\n\n2 - Durante o ano de 2022, e até à aprovação do regime dos gabinetes dos membros do Governo Regional, o cálculo da remuneração dos motoristas dos gabinetes dos membros do Governo Regional é efetuado de acordo com as disposições constantes do Decreto-Lei n.º 11/2012, de 20 de janeiro.\n\n3 - Durante o ano de 2022, num quadro de incentivos à implementação de medidas e práticas à inovação e modernização da administração pública regional, mantém-se o suplemento de isenção de horário de trabalho a atribuir aos trabalhadores afetos a medidas ou designados para o Gabinete para a Modernização Administrativa, criado pelo n.º 3 do artigo 44.º do Decreto Legislativo Regional n.º 2/2018/M, de 9 de janeiro, e regulado pela Portaria da Vice-Presidência do Governo Regional n.º 285/2020, de 29 de junho."
+  },
+  "176886781": {
+   "fragment_id": "176886705",
+   "type": 11,
+   "heading": "Artigo 54.º — Norma interpretativa da compensação por caducidade dos contratos a termo celebrados com docentes pela Secretaria Regional de Educação, Ciência e Tecnologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Norma interpretativa da compensação por caducidade dos contratos a termo celebrados com docentes pela Secretaria Regional de Educação, Ciência e Tecnologia\n\n1 - Aos docentes contratados pela Secretaria Regional de Educação, Ciência e Tecnologia, a termo resolutivo, não é devida a compensação por caducidade a que se referem o n.º 3 do artigo 293.º e o n.º 4 do artigo 294.º da Lei Geral do Trabalho em Funções Públicas (LTFP), se ocorrer a celebração de novo contrato até 31 de dezembro do ano letivo seguinte.\n\n2 - Para os efeitos previstos no número anterior, o pagamento da compensação por caducidade devida nos termos do n.º 3 do artigo 293.º e do n.º 4 do artigo 294.º da LTFP só se efetua a partir do dia 1 de janeiro do ano letivo seguinte."
+  },
+  "176886782": {
+   "fragment_id": "176886706",
+   "type": 11,
+   "heading": "Artigo 55.º — Medida transitória de incentivo a especialidades médicas carenciadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Medida transitória de incentivo a especialidades médicas carenciadas\n\n1 - Até 31 de dezembro de 2022, em casos excecionais e devidamente fundamentados, é atribuído um acréscimo remuneratório, pela realização de produção médica, para além do respetivo horário normal de trabalho, aos médicos integrados nas carreiras médicas, em especialidades carenciadas e em efetivo exercício de funções no Serviço de Saúde da Região Autónoma da Madeira, EPERAM, mediante vínculo de emprego público ou privado, independentemente do seu regime de trabalho.\n\n2 - O incentivo referido no número anterior é fixado por referência a um montante por hora, por ato ou por turno.\n\n3 - A identificação das especialidades carenciadas, bem como o montante a que se refere o número anterior e os termos e as condições de atribuição deste incentivo, são definidos por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças, da administração pública e da saúde, no prazo máximo de 30 dias a contar da publicação do presente diploma.\n\n4 - A prestação de trabalho médico tem de garantir o descanso semanal obrigatório.\n\n5 - O presente acréscimo remuneratório é abonado para a compensação da produção realizada no âmbito da presente norma, não o podendo ser a título de trabalho suplementar.\n\n6 - O incentivo previsto no presente artigo não é cumulável com outros incentivos que visem suprir áreas médicas carenciadas.\n\n7 - Para efeitos do n.º 1, considera-se horário de trabalho normal o fixado por lei para o respetivo regime, que inclui as horas afetas por lei a atividades urgentes e emergentes.\n\n8 - O regime estabelecido no presente artigo prevalece sobre quaisquer outras normas especiais ou excecionais em contrário, e sobre instrumentos de regulamentação coletiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado por estes."
+  },
+  "176886783": {
+   "fragment_id": "176886707",
+   "type": 11,
+   "heading": "Artigo 56.º — Regime de trabalho de dedicação plena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Regime de trabalho de dedicação plena\n\nÉ aplicável na Região Autónoma da Madeira, com as adaptações a serem efetuadas por despacho conjunto pelos membros do Governo Regional responsáveis pelas áreas da saúde e das finanças, o regime de trabalho de dedicação plena que seja implementado nos estabelecimentos e serviços do Serviço Nacional de Saúde (SNS)."
+  },
+  "176886784": {
+   "fragment_id": "176886708",
+   "type": 8,
+   "heading": "Secção II — Medidas de incentivo à modernização administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Medidas de incentivo à modernização administrativa"
+  },
+  "176886785": {
+   "fragment_id": "176886709",
+   "type": 11,
+   "heading": "Artigo 57.º — Incentivo pecuniário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Incentivo pecuniário\n\n1 - Fica o Governo Regional autorizado, através de portaria do membro do Governo Regional que tutela a modernização da administração pública e as finanças, a estabelecer incentivos e outros mecanismos de estímulo de práticas inovadoras de gestão pública, de modernização e simplificação administrativa, visando, designadamente, a melhoria da eficiência, da qualidade na gestão, da redução de custos de contexto e da redundância de informação de suporte aos processos de decisão, da eficácia e qualidade dos serviços públicos e da boa resposta aos desafios da transição digital.\n\n2 - Os incentivos e outros mecanismos de estímulo referidos no número anterior podem materializar-se, nos termos a regulamentar no decreto regulamentar regional de execução orçamental, através de majorações das dotações orçamentais dos organismos da administração pública regional relativas à:\n\na) Atribuição de prémios de desempenho;\n\nb) Alterações de posição remuneratória por opção gestionária.\n\n3 - Os incentivos podem ser igualmente de natureza não pecuniária, designadamente por atribuição de dias de férias adicionais ou crédito de horas para autoformação, nos termos a regulamentar no decreto regulamentar regional de execução orçamental."
+  },
+  "176886786": {
+   "fragment_id": "176886710",
+   "type": 11,
+   "heading": "Artigo 58.º — Prémio de boas práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Prémio de boas práticas\n\n1 - É mantido o prémio de boas práticas na administração pública, ficando o Governo Regional responsável pela sua regulamentação, através de portaria do membro do Governo Regional com a tutela da administração pública.\n\n2 - Podem candidatar-se ao prémio de boas práticas todos os organismos da administração pública regional direta, indireta, as entidades públicas empresariais, as empresas públicas de capital exclusiva ou maioritariamente público ou outras pessoas coletivas de direito público.\n\n3 - Podem ainda candidatar-se ao prémio de boas práticas unidades de missão ou outros grupos de trabalho que integrem trabalhadores vinculados a alguma das entidades referidas no número anterior.\n\n4 - O prémio de boas práticas poderá ser único ou ter vários vencedores, consoante decisão do júri, podendo ser atribuídas menções de mérito, até ao número máximo de três, e menções honrosas, até ao número máximo de cinco.\n\n5 - A atribuição de menções de mérito ou menções honrosas poderá dar origem à atribuição dos incentivos previstos no artigo anterior ou outros que sejam determinados no diploma de regulamentação do prémio."
+  },
+  "176886787": {
+   "fragment_id": "176886711",
+   "type": 11,
+   "heading": "Artigo 59.º — Objetivos comuns de gestão dos serviços públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Objetivos comuns de gestão dos serviços públicos\n\n1 - Os serviços da administração pública regional autónoma inscrevem no respetivo Quadro de Avaliação e Responsabilização (QUAR) para 2022:\n\na) Objetivos de boa gestão dos trabalhadores, designadamente os que reflitam a sua participação na apresentação de contributos com vista à modernização e simplificação administrativa, que visem a conciliação da vida profissional com a vida pessoal e familiar, que reflitam a motivação e desenvolvimento de novas competências pessoais e ainda a conciliação da vida profissional com a melhoria das suas competências de educação e formação profissional;\n\nb) Objetivos relativos à transição digital e ao incremento da prestação de serviços por via eletrónica, designadamente através ou em articulação com o portal SIMplifica;\n\nc) Objetivos relativos ao reforço da formação profissional dos trabalhadores em matéria de literacia digital, uso de ferramentas eletrónicas e reforço das suas competências digitais;\n\nd) As medidas que contribuam para a concretização de medidas do Orçamento Participativo da Região Autónoma da Madeira (OPRAM), cuja responsabilidade de implementação lhes esteja atribuída;\n\ne) A avaliação pelos cidadãos, em particular nos serviços que tenham atendimento público ou prestem serviço direto a cidadãos e empresas.\n\n2 - Os objetivos referidos no número anterior são considerados dos mais relevantes para efeitos do disposto no artigo 17.º do Decreto Legislativo Regional n.º 27/2009/M, de 21 de agosto, na redação que lhe foi conferida pelo Decreto Legislativo Regional n.º 12/2015/M, de 21 de dezembro, que aprovou o Sistema Integrado de Gestão e Avaliação do Desempenho na Administração Regional da Madeira, devendo o respetivo serviço garantir que o conjunto dos mesmos tem um peso relativo no QUAR não inferior a 40 %.\n\n3 - Para favorecer a conciliação da vida profissional com a vida pessoal e familiar, prevenir o absentismo e mitigar os efeitos da pandemia COVID-19, os dirigentes dos serviços públicos devem utilizar todos os instrumentos legais que permitam abordar as necessidades diferenciadas manifestadas pelos seus trabalhadores, nomeadamente os regimes de prestação de trabalho e modalidades de horário."
+  },
+  "176886788": {
+   "fragment_id": "176886712",
+   "type": 11,
+   "heading": "Artigo 60.º — Majorações em sede de SIADAP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Majorações em sede de SIADAP\n\nA atribuição de menções de mérito ou honrosas, o cumprimento dos objetivos inscritos no QUAR ou o reconhecimento da prática das ações mencionadas no n.º 1 do artigo 57.º originam a adição de 10 pontos percentuais às quotas previstas no n.º 1 do artigo 71.º do Decreto Legislativo Regional n.º 27/2009/M, de 21 de agosto, alterado pelos Decretos Legislativos Regionais n.os 12/2015/M, de 21 de dezembro, e 18/2020/M, de 31 de dezembro, que aprovou o Sistema Integrado de Gestão e Avaliação do Desempenho na Administração Regional da Madeira."
+  },
+  "176886789": {
+   "fragment_id": "176886713",
+   "type": 11,
+   "heading": "Artigo 61.º — Loja online do Portal SIMplifica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Loja online do Portal SIMplifica\n\nAs vendas realizadas através da loja online do portal SIMplifica, independentemente da proveniência dos bens adquiridos, são faturadas ao cliente através do departamento do Governo Regional que tutela a área da modernização administrativa, nos termos a regulamentar no decreto regulamentar regional de execução orçamental."
+  },
+  "176886790": {
+   "fragment_id": "176886714",
+   "type": 8,
+   "heading": "Secção III — Disposições relativas a aquisição de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições relativas a aquisição de serviços"
+  },
+  "176886791": {
+   "fragment_id": "176886715",
+   "type": 11,
+   "heading": "Artigo 62.º — Encargos com contratos de aquisição de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Encargos com contratos de aquisição de serviços\n\n1 - Os encargos globais com contratos de aquisição de serviços, com exceção dos contratos cofinanciados, não podem ultrapassar os encargos globais pagos em 2021.\n\n2 - Os valores pagos por contratos de aquisição de serviços que, em 2022, venham a renovar-se ou a celebrar-se com idêntico objeto e/ou contraparte de contrato vigente em 2021 não podem ultrapassar:\n\na) Os valores pagos em 2021, considerando o valor total agregado dos contratos, sempre que a mesma contraparte preste mais do que um serviço ao mesmo adquirente;\n\nb) O preço unitário, caso o mesmo seja aritmeticamente determinável ou tenha servido de base ao cálculo dos valores pagos em 2021.\n\n3 - Em situações excecionais, prévia e devidamente fundamentadas pelo dirigente máximo do serviço com competência para contratar, e após aprovação do membro do Governo Regional responsável em razão da matéria, o membro do Governo Regional responsável pela área das finanças pode autorizar a dispensa do disposto nos números anteriores.\n\n4 - A celebração de um novo contrato de aquisição de serviços com diferente objeto e contraparte de contrato vigente em 2021 carece de aprovação prévia do membro do Governo Regional responsável em razão da matéria, devendo o pedido ser acompanhado de indicação, por parte do dirigente máximo do serviço com competência para contratar, da compensação a efetuar para efeitos do cumprimento do disposto no n.º 1.\n\n5 - Nos casos referidos no número anterior, quando não se mostre assegurado o disposto no n.º 1, o membro do Governo Regional responsável em razão da matéria deve:\n\na) Proferir despacho desfavorável; ou\n\nb) Remeter ao membro do Governo Regional responsável pela área das finanças, para efeitos da dispensa prevista no n.º 3 do presente artigo, indicando o valor em causa e juntando a justificação para a sua autorização.\n\n6 - As aquisições de serviço efetuadas são obrigatoriamente comunicadas, nos primeiros 10 dias úteis do primeiro mês seguinte a que respeitam, ao membro do Governo Regional responsável pela área das finanças, em termos a fixar por portaria do mesmo membro do Governo.\n\n7 - O disposto nos números anteriores aplica-se a contratos a celebrar ou a renovar por:\n\na) Órgãos, serviços e entidades previstos no artigo 1.º da Lei Geral do Trabalho em Funções Públicas (LTFP), incluindo institutos públicos de regime especial;\n\nb) Outras pessoas coletivas públicas, ainda que dotadas de autonomia administrativa ou de independência estatutária, designadamente decorrentes da sua integração nas áreas da regulação, supervisão ou controlo;\n\nc) Empresas do setor empresarial regional que estejam integradas no universo das administrações públicas em contas nacionais;\n\nd) Gabinetes dos membros do Governo Regional e do Presidente e Vice-Presidentes da Assembleia Legislativa da Região Autónoma da Madeira;\n\ne) Fundações públicas de direito público e de direito privado, bem como outras entidades públicas não abrangidas pelas alíneas anteriores.\n\n8 - Não estão sujeitos ao disposto nos n.os 1 a 6:\n\na) A celebração ou a renovação de contratos de aquisição de serviços essenciais, previstos no n.º 2 do artigo 1.º da Lei n.º 23/96, de 26 de julho, na sua atual redação;\n\nb) A celebração ou renovação de contratos de aquisição de serviços decorrentes de:\n\ni) Inspeções técnicas de veículos e outras inspeções periódicas legalmente obrigatórias;\n\nii) Prémios de seguro obrigatórios;\n\niii) Publicações legalmente obrigatórias;\n\niv) Serviços decorrentes de acidentes escolares e acidentes de trabalho;\n\nc) A celebração ou a renovação de contratos de aquisição de serviços ou de outros contratos mistos, cujo tipo contratual preponderante não seja o da aquisição de serviços ou em que o serviço assuma um caráter acessório da disponibilização de um bem;\n\nd) A celebração de contratos de aquisição de serviços por órgãos ou serviços adjudicantes ao abrigo de acordo-quadro;\n\ne) A celebração ou a renovação de contratos de aquisição de serviços entre si, por órgãos ou serviços abrangidos pelo âmbito de aplicação do número anterior ou entre estes e os demais, abrangidos atualmente pelo n.º 5 do artigo 64.º da Lei n.º 2/2020, de 31 de março, que aprova o Orçamento do Estado para 2020;\n\nf) A celebração ou a renovação de contratos de aquisição de serviços, no âmbito da atividade formativa desenvolvida pelo Instituto para a Qualificação, IP-RAM, e pelo Serviço Regional de Proteção Civil, IP-RAM, e pelo Instituto de Administração da Saúde, IP-RAM, que tenham por objeto serviços de formação profissional, certificação profissional e de reconhecimento, validação e certificação de competências;\n\ng) A celebração ou a renovação de contratos de aquisição de serviços, no âmbito da atividade formativa desenvolvida pela Direção Regional da Administração Pública e da Modernização Administrativa, que tenham por objeto serviços de formação profissional, certificação profissional e de reconhecimento, validação e certificação de competências, no âmbito de projetos financiados pelo Fundo Social Europeu ou pelo Plano de Recuperação e Resiliência;\n\nh) A celebração ou renovação de contratos de aquisição de serviços de natureza jurídica, no âmbito de patrocínio judiciário;\n\ni) A celebração ou a renovação de contratos de aquisição de serviços que se destinem à prevenção, contenção, mitigação e tratamento da COVID-19;\n\nj) A celebração ou a renovação de contratos de aquisição de serviços com os peritos avaliadores da Autoridade Tributária.\n\n9 - Não estão sujeitos ao disposto nos n.os 2, 4 e 5 do presente artigo:\n\na) A celebração ou renovação de contratos de aquisições de serviços que respeitem diretamente ao processo de planeamento, gestão, avaliação, certificação, auditoria e controlo de fundos europeus estruturais e de investimento, no âmbito da assistência técnica dos programas operacionais a desenvolver pelas autoridades de gestão e ainda pelos organismos intermédios dos programas operacionais, e pelos organismos cuja atividade regular seja financiada por fundos estruturais, independentemente da qualidade que assumem, que sejam objeto de cofinanciamento no âmbito do Portugal 2020;\n\nb) A celebração ou a renovação de contratos de aquisição de bens e ou serviços, que se revelem necessários para garantir a concretização dos eventos referidos na alínea i) do n.º 2 do artigo 23.º, ou outros eventos, feiras ou demais atividades, constantes da programação anual oficial levadas a cabo por organismos públicos na área do turismo, cultura, etnografia, agroalimentar, do artesanato, do bordado e da tapeçaria.\n\n10 - Nas entidades do setor empresarial regional que estejam integradas no universo das administrações públicas em contas nacionais, as autorizações a que aludem os n.os 3 a 5 são emitidas pelo órgão executivo.\n\n11 - A aplicação à Assembleia Legislativa da Região Autónoma da Madeira dos princípios consignados nos números anteriores processa-se por despacho do Presidente da Assembleia Legislativa da Região Autónoma da Madeira, precedido de parecer do conselho de administração.\n\n12 - A decisão de contratar a aquisição de serviços cujo objeto sejam estudos, pareceres, projetos de serviços de consultoria ou outros trabalhos especializados, incluindo a renovação de eventuais contratos em vigor, ao setor privado, apenas pode ser tomada pelo dirigente máximo do serviço com competência para contratar, em situações excecionais devidamente fundamentadas.\n\n13 - Os atos praticados em violação do disposto no presente artigo são nulos."
+  },
+  "176886792": {
+   "fragment_id": "176886716",
+   "type": 11,
+   "heading": "Artigo 63.º — Contratos de prestação de serviços celebrados com pessoas singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Contratos de prestação de serviços celebrados com pessoas singulares\n\n1 - A celebração ou a renovação de contratos de aquisição de serviços celebrados com pessoas singulares, designadamente, na modalidade de tarefa ou de avença, por órgãos e serviços abrangidos pelo âmbito de aplicação da Lei Geral do Trabalho em Funções Públicas (LTFP), independentemente da natureza da contraparte, carece de parecer prévio vinculativo do membro do Governo Regional responsável pela área das finanças e da administração pública, nos termos e segundo tramitação a regular por portaria do referido membro do Governo Regional.\n\n2 - O parecer previsto no número anterior depende:\n\na) Da verificação do caráter não subordinado da prestação, para a qual se revele inconveniente o recurso a qualquer modalidade de vínculo de emprego público;\n\nb) Da verificação da inexistência de pessoal em situação legalmente determinada de mobilidade, apto para o desempenho das funções subjacentes à contratação em causa.\n\n3 - Sempre que os contratos a que se refere o presente artigo estejam sujeitos a autorização para assunção de encargos plurianuais, o respetivo processo de autorização deve ser solicitado em simultâneo com o pedido de parecer a que se refere o n.º 1.\n\n4 - O disposto no presente artigo não prejudica a possibilidade de ser obtida autorização prévia para um número máximo de contratos de tarefa e de avença, nos termos do n.º 3 do artigo 32.º da LTFP.\n\n5 - Não estão sujeitos ao disposto no presente artigo os contratos de aquisições de serviços emergentes de acidentes escolares e de acidentes de trabalho, os contratos que se destinem à prevenção, contenção, mitigação e tratamento da COVID-19 e, desde que de valor igual ou inferior ao limiar do ajuste direto simplificado, os contratos de aquisição de bens e serviços mencionados nas alíneas f), g) e h) do n.º 8 e b) do n.º 9 do artigo anterior.\n\n6 - Os contratos referidos no número anterior e os abrangidos pelo n.º 1 do artigo 3.º da Portaria da Vice-Presidência do Governo Regional n.º 319/2018, de 24 de agosto, estão igualmente dispensados do requisito de publicação prévia na Bolsa de Emprego Público da Região Autónoma da Madeira (BEP-RAM).\n\n7 - Os atos praticados em violação do disposto no presente artigo são nulos."
+  },
+  "176886793": {
+   "fragment_id": "176886717",
+   "type": 8,
+   "heading": "Secção IV — Disposições relativas ao Setor Empresarial da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Disposições relativas ao Setor Empresarial da Região Autónoma da Madeira"
+  },
+  "176886794": {
+   "fragment_id": "176886718",
+   "type": 11,
+   "heading": "Artigo 64.º — Setor empresarial e entidades públicas da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Setor empresarial e entidades públicas da Região Autónoma da Madeira\n\n1 - As entidades públicas empresariais e as empresas públicas de capital exclusiva ou maioritariamente público integradas no universo das administrações públicas em contas nacionais podem contratar trabalhadores na modalidade de contrato por tempo indeterminado, contrato a termo ou comissão de serviço, quando se destine, respetivamente, a substituir a saída definitiva, a ausência de trabalhadores ou a cessação de comissão de serviço ocorridas no ano em curso ou no último trimestre do ano de 2021.\n\n2 - Nas situações referidas no número anterior o trabalhador contratado deve ser colocado na posição remuneratória correspondente à base da respetiva carreira ou categoria.\n\n3 - A contratação de trabalhadores pelas entidades referidas no n.º 1 que não se enquadre no regime aí referido, em qualquer das modalidades, depende de autorização dos membros do Governo Regional responsáveis pelo respetivo setor de atividade e pela área das finanças.\n\n4 - Para efeitos da emissão da autorização a que se refere o número anterior, a empresa ou entidade integrada no universo das administrações públicas em contas nacionais deve juntar elementos comprovativos da verificação dos seguintes requisitos:\n\na) Relevante interesse público na contratação e sua imprescindibilidade para assegurar o cumprimento das obrigações de prestação de serviço público legalmente estabelecidas;\n\nb) Demonstração em como os encargos com os recrutamentos em causa estão previstos no orçamento da empresa a que respeitam;\n\nc) Cumprimento pontual e integral dos deveres de informação a que a respetiva empresa está sujeita, designadamente os previstos no artigo 67.º e na Lei n.º 104/2019, de 6 de setembro.\n\n5 - A contratação de trabalhadores prevista no n.º 1 é comunicada aos membros do Governo Regional responsáveis pelo respetivo setor de atividade e pela área das finanças e da administração pública, trimestralmente.\n\n6 - Durante o ano de 2022, dependem de parecer prévio do membro do Governo Regional responsável pela área das finanças e da administração pública:\n\na) A alteração dos estatutos das entidades públicas empresariais e das empresas públicas de capital exclusiva ou maioritariamente público;\n\nb) A atribuição de novos suplementos remuneratórios;\n\nc) A aprovação de regulamentos internos relativos a organização interna, das entidades e empresas mencionadas no n.º 1, nomeadamente relativos a carreiras.\n\n7 - Todas as entidades públicas empresariais e empresas públicas prestam informação ao departamento do Governo Regional com a tutela das finanças, nos termos do artigo 67.º, sobre o fluxo de novas contratações e outras entradas, o fluxo de saída por reforma e outras saídas, e ainda salários médios, bem como toda a informação que venha a ser necessária para o cumprimento das obrigações assumidas pela Região Autónoma da Madeira.\n\n8 - Sem prejuízo do disposto nos n.os 9 a 11, aos gestores públicos e aos trabalhadores das empresas públicas de capital exclusiva ou maioritariamente público e das entidades públicas são aplicáveis as medidas que vierem a ser determinadas para os gestores públicos e trabalhadores do setor empresarial do Estado, na lei do Orçamento do Estado.\n\n9 - As remunerações dos gestores públicos das empresas públicas de capital exclusiva ou maioritariamente público e das entidades públicas são fixadas por resolução do Conselho do Governo Regional, nos termos do n.º 3 do artigo 23.º do Decreto Legislativo Regional n.º 12/2010/M, de 5 de agosto, na redação republicada pelo Decreto Legislativo Regional n.º 31/2013/M, de 26 de dezembro, com as alterações efetuadas pelos Decretos Legislativos Regionais n.os 6/2015/M, de 13 de agosto e 15/2021/M, de 30 de junho.\n\n10 - À celebração e renovação de contratos de aquisição de serviços durante o ano de 2022, por entidades públicas empresariais e empresas públicas de capital exclusiva ou maioritariamente público, integradas no universo das administrações públicas em contas nacionais, é aplicável, com as necessárias adaptações, o disposto no artigo 62.º\n\n11 - O disposto nos números anteriores é igualmente aplicável a outras entidades públicas, integradas no universo das administrações públicas em contas nacionais.\n\n12 - O disposto no presente artigo prevalece sobre quaisquer normas legais ou convencionais, especiais ou excecionais, em contrário e, consoante as situações, sobre instrumentos de regulamentação coletiva de trabalho e de contratos de trabalho, não podendo ser modificado ou afastado pelos mesmos."
+  },
+  "176886795": {
+   "fragment_id": "176886719",
+   "type": 11,
+   "heading": "Artigo 65.º — Reestruturação e extinção de empresas públicas e de entidades públicas integradas nas administrações públicas em contas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Reestruturação e extinção de empresas públicas e de entidades públicas integradas nas administrações públicas em contas nacionais\n\n1 - No âmbito de processo de reestruturação e de extinção das empresas públicas e de entidades integradas no universo das administrações públicas em contas nacionais, com objetivos de racionalização de recursos humanos e financeiros, os trabalhadores das respetivas entidades que já integravam o universo da administração pública regional, com referência a 31 de dezembro de 2011, podem, excecionalmente, ser integrados nos serviços da administração regional, através de despacho conjunto do membro do Governo Regional responsável pela área das finanças e da administração pública e dos membros do Governo Regional da tutela do organismo cedente e cessionário.\n\n2 - A integração referida no número anterior depende da aceitação expressa do trabalhador.\n\n3 - O trabalhador integrado, nos termos do n.º 1, é posicionado no nível da tabela remuneratória única equivalente à respetiva remuneração base ou, na falta de equivalência, no nível virtual criado para o efeito, ou ainda, quando a sua remuneração de origem for inferior à que resultaria da aplicação das regras mínimas de posicionamento remuneratório resultante de procedimento concursal, na posição remuneratória aplicável por força dessas regras na carreira em que for integrado, conforme seja determinado no despacho referido no n.º 1.\n\n4 - O despacho referido no n.º 1 deve conter todos os fundamentos que determinaram a integração, sendo obrigatória a sua publicitação no Jornal Oficial da Região Autónoma da Madeira.\n\n5 - O tempo de serviço prestado pelo trabalhador na empresa pública ou entidade integrada no universo das administrações públicas em contas nacionais objeto de reestruturação ou extinção releva para efeitos de alteração obrigatória de posicionamento remuneratório, até ao limite máximo de duas posições remuneratórias, sendo-lhe atribuído um ponto por cada ano completo de antiguidade.\n\n6 - Após a emissão do despacho mencionado no n.º 4, é celebrado um contrato de trabalho em funções públicas por tempo indeterminado com o trabalhador, com as especificidades previstas no n.º 3.\n\n7 - As regras previstas no presente artigo relativas à integração de trabalhadores são ainda aplicáveis, com as necessárias adaptações, à integração dos trabalhadores da Pousada dos Vinháticos na Secretaria Regional de Turismo e Cultura."
+  },
+  "176886796": {
+   "fragment_id": "176886720",
+   "type": 11,
+   "heading": "Artigo 66.º — Contratações pela ARDITI no âmbito de projetos de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Contratações pela ARDITI no âmbito de projetos de investigação\n\n1 - A Agência Regional para o Desenvolvimento da Investigação Tecnologia e Inovação - ARDITI fica dispensada da autorização prévia dos membros do Governo Regional da tutela, das finanças e da administração pública para proceder à contratação de trabalhadores, desde que cumpridos de forma cumulativa os seguintes requisitos:\n\na) Se trate de contratações não permanentes, a termo certo ou incerto;\n\nb) Que tais contratações visem permitir, de forma exclusiva e dedicada, a execução de projetos, programas e prestações de serviços no âmbito da missão e atribuições da ARDITI;\n\nc) Que os encargos associados a tais contrações onerem exclusivamente:\n\ni) Receitas transferidas da Fundação para a Ciência e a Tecnologia, I. P.;\n\nii) Receitas provenientes dos projetos, programas e prestações de serviços referidos na alínea b);\n\niii) Receitas de programas e projetos financiados integralmente por fundos europeus ou internacionais.\n\n2 - Às restantes contratações aplicar-se-á o disposto nos artigos 62.º a 64.º do presente diploma."
+  },
+  "176886797": {
+   "fragment_id": "176886721",
+   "type": 8,
+   "heading": "Secção V — Outras disposições relativas à administração pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Outras disposições relativas à administração pública regional"
+  },
+  "176886798": {
+   "fragment_id": "176886722",
+   "type": 11,
+   "heading": "Artigo 67.º — Informação relativa a pessoal das entidades públicas regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Informação relativa a pessoal das entidades públicas regionais\n\n1 - As entidades públicas que integram o universo das administrações públicas em contas nacionais devem informar o departamento do Governo Regional com a tutela das finanças do recrutamento, mobilidade e cessação de funções de trabalhadores e da despesa com pessoal.\n\n2 - A informação referida no número anterior é prestada através do carregamento de dados no Sistema de Informação e Base de Dados dos Trabalhadores das Entidades Públicas Regionais, abreviadamente designado por SITEPR, gerido pelo departamento do Governo Regional com a tutela das finanças.\n\n3 - O carregamento de dados no SITEPR é efetuado trimestralmente, nos termos que vierem a ser estabelecidos no diploma que proceder à regulamentação daquele Sistema de Informação.\n\n4 - O incumprimento do dever de informação referido nos números anteriores determina:\n\na) O congelamento de 10 % das dotações orçamentais, ou a retenção de 10 % das transferências do Orçamento da Região Autónoma da Madeira para a entidade pública incumpridora, consoante a situação aplicável, no mês ou meses seguintes ao incumprimento;\n\nb) A não tramitação de quaisquer processos relativos a recursos humanos ou a aquisição de bens e serviços, que sejam dirigidos ao departamento do Governo Regional com a tutela das finanças.\n\n5 - Através da prestação da informação a que se referem os números anteriores, o departamento do Governo Regional com a tutela das finanças, na qualidade de entidade gestora do sistema, dá cumprimento aos deveres de informação da Região Autónoma da Madeira, estabelecidos na Lei n.º 104/2019, de 6 de setembro.\n\n6 - A responsabilidade pelo incumprimento dos deveres de informação referidos no número anterior é imputada ao órgão, serviço ou entidade que a ele der lugar.\n\n7 - O disposto no presente artigo aplica-se às empresas públicas."
+  },
+  "176886799": {
+   "fragment_id": "176886723",
+   "type": 11,
+   "heading": "Artigo 68.º — Unidades de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Unidades de Gestão\n\n1 - As Unidades de Gestão, constituídas em todos os departamentos do Governo Regional, têm por missão o tratamento integral e centralizado de todas as matérias contabilísticas, orçamentais, financeiras e patrimoniais dos serviços simples, integrados, serviços e fundos autónomos e entidades que integram o universo das administrações públicas em contas nacionais, bem como a articulação direta entre os diversos departamentos e o departamento do Governo Regional com a tutela das finanças, no âmbito do controlo orçamental e financeiro.\n\n2 - São atribuições das Unidades de Gestão:\n\na) Garantir o tratamento integral e centralizado de todas as matérias contabilísticas, orçamentais, financeiras e patrimoniais dos serviços simples, integrados, institutos, serviços e fundos autónomos, e outras entidades que integram o universo das administrações públicas em contas nacionais;\n\nb) Proceder ao reporte orçamental e financeiro, ao departamento do Governo Regional com a tutela das finanças, de acordo com os procedimentos que forem definidos no decreto regulamentar regional de execução orçamental;\n\nc) Controlar a execução e a regularidade da execução orçamental dos serviços tutelados pelos respetivos departamentos do Governo Regional;\n\nd) Controlar o cumprimento da aplicação da Lei dos Compromissos e Pagamentos em Atraso aprovada pela Lei n.º 8/2012, de 21 de fevereiro, na sua atual redação, nos serviços tutelados;\n\ne) Propor medidas de fiscalização com vista a um efetivo controlo das despesas públicas e dos recursos orçamentais disponíveis;\n\nf) Superintender na gestão orçamental de todos os serviços tutelados, de acordo com as normas vigentes e legislação aplicável;\n\ng) Promover a aplicação do Sistema de Normalização Contabilística da Administração Pública (SNC-AP), nos serviços tutelados;\n\nh) Controlar a afetação e a utilização dos fundos disponíveis atribuídos;\n\ni) Desenvolver procedimentos de controlo interno.\n\n3 - As unidades de gestão são responsáveis pelo cumprimento dos prazos de reporte e pela prévia validação das informações de reporte orçamental e financeiro, referentes aos serviços da administração direta, institutos, serviços e fundos autónomos e empresas públicas reclassificadas, prestadas ao departamento do Governo Regional com a tutela das finanças.\n\n4 - Para efeitos dos números anteriores, os serviços simples, integrados, institutos, serviços e fundos autónomos e as entidades que integram o universo das administrações públicas em contas nacionais são responsáveis pelo conteúdo da informação reportada às Unidades de Gestão.\n\n5 - Sem prejuízo das competências das Unidades de Gestão previstas no presente artigo, e das orientações de supervisão das respetivas tutelas, são atribuídas à Secretaria Regional das Finanças responsabilidades de coordenação geral de todas as Unidades de Gestão dos diversos departamentos do Governo Regional, podendo determinar quaisquer medidas de natureza financeira que se revelem necessárias à maximização e bom aproveitamento dos recursos financeiros disponíveis, independentemente dos programas, da natureza das classificações funcionais e orgânicas previstas no presente diploma."
+  },
+  "176886800": {
+   "fragment_id": "176886724",
+   "type": 11,
+   "heading": "Artigo 69.º — Subsídio de insularidade dos trabalhadores em funções públicas da Região Autónoma da Madeira a exercer funções na ilha da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Subsídio de insularidade dos trabalhadores em funções públicas da Região Autónoma da Madeira a exercer funções na ilha da Madeira\n\n1 - Nos termos e ao abrigo do artigo 59.º do Decreto Legislativo Regional n.º 42-A/2016/M, de 30 de dezembro, em 2022 o subsídio de insularidade é fixado, com referência à remuneração que releva para a sua atribuição, nos seguintes termos:\n\na) 2 % para os trabalhadores com remuneração igual ou inferior a (euro) 750;\n\nb) 1,5 % para os trabalhadores com remuneração superior a (euro) 750 e igual ou inferior a (euro) 920;\n\nc) 1 % para os trabalhadores com remuneração superior a (euro) 920 e igual ou inferior a (euro) 1400;\n\nd) 0,75 % para os trabalhadores com remuneração superior a (euro) 1400 e igual ou inferior a (euro) 1900;\n\ne) 0,5 % para os trabalhadores com remuneração superior a (euro) 1900 e igual ou inferior a (euro) 2800;\n\nf) 0,25 % para os trabalhadores com remuneração superior a (euro) 2800.\n\n2 - Para as situações referidas nas alíneas a) a c) do número anterior, é assegurado um valor mínimo de (euro) 140.\n\n3 - O disposto no artigo 59.º do Decreto Legislativo Regional n.º 42-A/2016/M, de 30 de dezembro, é aplicável aos trabalhadores que se encontrem a exercer funções correspondentes às carreiras gerais e especiais da administração regional, em regime de cedência de interesse público.\n\n4 - O subsídio é calculado, nos termos do referido artigo 59.º, em função do tempo prestado no ano anterior."
+  },
+  "176886801": {
+   "fragment_id": "176886725",
+   "type": 1,
+   "heading": "Capítulo XI — Outras disposições e alterações a diplomas legislativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Outras disposições e alterações a diplomas legislativos"
+  },
+  "176886802": {
+   "fragment_id": "176886726",
+   "type": 11,
+   "heading": "Artigo 70.º — Distribuição das verbas dos jogos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Distribuição das verbas dos jogos sociais\n\nNos termos do artigo 5.º do Decreto Legislativo Regional n.º 12/2018/M, de 6 de agosto, que procede à definição da forma de distribuição das verbas dos jogos sociais, as verbas referentes ao valor dos resultados líquidos e exploração dos jogos sociais, atribuídas ao Governo Regional da Madeira em 2022, são afetas às áreas previstas naquele normativo de acordo com os mapas anexos a que se refere o artigo 1.º"
+  },
+  "176886803": {
+   "fragment_id": "176886727",
+   "type": 11,
+   "heading": "Artigo 71.º — Incentivo à mobilidade elétrica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Incentivo à mobilidade elétrica\n\n1 - Mantém-se em execução o Programa de Incentivo à Mobilidade Elétrica na Região Autónoma da Madeira (PRIME-RAM), criado pelo artigo 63.º do Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro.\n\n2 - O PRIME-RAM tem por objetivo criar uma solução de mobilidade sustentável a partir do desenvolvimento de um ecossistema elétrico, através da atribuição de incentivos à utilização de veículos elétricos em detrimento dos restantes, movidos a energias não renováveis.\n\n3 - Os incentivos do PRIME-RAM são aplicáveis em todo o território da Região Autónoma da Madeira, sendo que as condições e termos da sua atribuição são definidos por portaria dos membros do Governo Regional responsáveis pelas áreas das finanças e dos transportes."
+  },
+  "176886804": {
+   "fragment_id": "176886728",
+   "type": 11,
+   "heading": "Artigo 72.º — Complemento regional para idosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Complemento regional para idosos\n\nÉ criada uma prestação social de combate à pobreza dos idosos, denominada complemento regional para idosos, competindo aos membros do Governo Regional com a tutela das finanças e da segurança social aprovar a regulamentação necessária à sua execução."
+  },
+  "176886805": {
+   "fragment_id": "176886729",
+   "type": 11,
+   "heading": "Artigo 73.º — Acréscimos remuneratórios do Serviço de Apoio Domiciliário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Acréscimos remuneratórios do Serviço de Apoio Domiciliário\n\nMantém-se em vigor o acréscimo remuneratório previsto no artigo 76.º do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro, que aprova o Orçamento da Região Autónoma da Madeira para 2021."
+  },
+  "176886806": {
+   "fragment_id": "176886730",
+   "type": 11,
+   "heading": "Artigo 74.º — Alteração ao Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Alteração ao Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto\n\nÉ alterado o artigo 21.º-A do Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto, na redação conferida pelo Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro, nos termos seguintes:\n\n«Artigo 21.º-A\n\n[...]\n\n1 - [...]\n\n2 - A consolidação referida no número anterior será concretizada por despacho conjunto do membro do Governo Regional que tutela a área das finanças e da administração pública e do que tutela o organismo cessionário, determinando, igualmente, a conversão automática do vínculo de origem do trabalhador para vínculo laboral aplicável no organismo cessionário e, ainda, o reconhecimento da sua antiguidade no organismo cedente, mediante a atribuição de 1 ponto por cada ano completo de serviço, sem prejuízo do disposto no número seguinte.\n\n3 - O reconhecimento da antiguidade do trabalhador no organismo cedente abrange apenas o período que não tenha sido objeto de avaliação do desempenho nos moldes definidos no sistema integrado de gestão e avaliação do desempenho aplicável na RAM, ou em sistema equivalente, que lhe permitisse evolução na carreira.\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)»"
+  },
+  "176886807": {
+   "fragment_id": "176886731",
+   "type": 11,
+   "heading": "Artigo 75.º — Tarifa social reduzida no gás engarrafado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Tarifa social reduzida no gás engarrafado\n\nMantém-se em execução o programa GÁS-SOLIDÁRIO.RAM, criado pelo artigo 78.º do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro."
+  },
+  "176886808": {
+   "fragment_id": "176886732",
+   "type": 11,
+   "heading": "Artigo 76.º — Eficiência energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Eficiência energética\n\n1 - Com vista à redução das emissões de carbono e à dinamização do setor da economia associado aos serviços de energias renováveis e tecnologias eficientes com baixo teor de carbono, mantém-se o Programa de Incentivo à Produção e Armazenamento de Energia a partir de Fontes Renováveis (PRIPAER-RAM), criado pelo artigo 79.º do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro.\n\n2 - O Governo Regional fica ainda autorizado, através dos organismos com a tutela da energia e das finanças, a definir e a regulamentar um apoio específico ao investimento em sistemas e equipamentos que contribuam para a eficiência energética e para a diminuição das emissões de CO2, no setor dos consumidores empresariais e industriais."
+  },
+  "176886809": {
+   "fragment_id": "176886733",
+   "type": 11,
+   "heading": "Artigo 77.º — Incentivo ao abate de viaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Incentivo ao abate de viaturas\n\nCom vista à promoção de soluções de transporte energética e ambientalmente mais eficientes, o Governo Regional fica autorizado, através do organismo com a tutela da energia e das finanças, a regulamentar um apoio financeiro aos proprietários de veículos que os pretendam substituir através de aquisição de veículos mais eficientes em termos energéticos e ambientais."
+  },
+  "176886810": {
+   "fragment_id": "176886734",
+   "type": 11,
+   "heading": "Artigo 78.º — TiiM - Transportes Integrados e Intermodais da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — TiiM - Transportes Integrados e Intermodais da Madeira\n\n1 - A TiiM - Transportes Integrados e Intermodais da Madeira é a entidade encarregue do desenvolvimento, disponibilização, operação e gestão de forma integrada de todos os serviços públicos de transporte rodoviário de passageiros da Região.\n\n2 - Com vista à sua operacionalização, fica o Governo Regional autorizado à realização de despesa diretamente relacionada com a sua criação, gestão e fiscalização, bem como a participar no capital da entidade que vier a ser criada."
+  },
+  "176886811": {
+   "fragment_id": "176886735",
+   "type": 11,
+   "heading": "Artigo 79.º — Adaptação à Região Autónoma da Madeira da Lei n.º 173/99, de 21 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Adaptação à Região Autónoma da Madeira da Lei n.º 173/99, de 21 de setembro\n\n1 - Para além da exceção prevista no n.º 2 do artigo 6.º da Lei n.º 173/99, de 21 de setembro, na sua redação atual, mediante licença do Instituto das Florestas e Conservação da Natureza, IP-RAM (IFCN, IP-RAM) é, excecionalmente, autorizada a prática dos atos e atividades previstos no artigo 20.º do Decreto-Lei n.º 140/99, de 24 de abril, na sua redação atual, apenas em função das finalidades ali descritas.\n\n2 - A prática dos atos e atividades referidos no número anterior será coordenada pelo IFCN, IP-RAM e será efetuada por elementos do Corpo de Polícia Florestal (CPF) e por titulares de carta de caçador definida nos termos do artigo 63.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação.\n\n3 - Compete ao IFCN, IP-RAM, a coordenação desta intervenção excecional, bem como a sua monitorização e apresentação dos relatórios a enviar à Comissão Europeia."
+  },
+  "176886812": {
+   "fragment_id": "176886736",
+   "type": 11,
+   "heading": "Artigo 80.º — Cobrança de taxas pela utilização das infraestruturas portuárias na Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Cobrança de taxas pela utilização das infraestruturas portuárias na Região\n\n1 - Pela emissão ou renovação da licença de operação portuária e pela utilização das infraestruturas portuárias são devidas taxas, as quais serão fixadas, anualmente, por portaria conjunta dos secretários regionais com a tutela das finanças e da administração portuária na Região.\n\n2 - A portaria referida no número anterior definirá, também, os termos e as condições do regime de licenciamento pela utilização das infraestruturas portuárias."
+  },
+  "176886813": {
+   "fragment_id": "176886737",
+   "type": 11,
+   "heading": "Artigo 81.º — Decreto Legislativo Regional n.º 3/2017/M, de 17 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Decreto Legislativo Regional n.º 3/2017/M, de 17 de janeiro\n\nÉ revogado o Decreto Legislativo Regional n.º 3/2017/M, de 17 de janeiro, e repristinado o Decreto Legislativo Regional n.º 2/2008/M, de 14 de janeiro."
+  },
+  "176886814": {
+   "fragment_id": "176886738",
+   "type": 11,
+   "heading": "Artigo 82.º — Alteração ao Decreto Legislativo Regional n.º 10/2009/M, de 30 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Alteração ao Decreto Legislativo Regional n.º 10/2009/M, de 30 de março\n\nÉ alterado o artigo 28.º do Decreto Legislativo Regional n.º 10/2009/M, de 30 de março, alterado e republicado pelo Decreto Legislativo Regional n.º 40/2012/M, 27 de dezembro, o qual passará a ter a seguinte redação:\n\n«Artigo 28.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - Nenhum condutor se pode escusar a levar o veículo à pesagem nas balanças ao serviço das entidades fiscalizadoras, que se encontrem num raio de 1 km do local onde se verifique a intervenção das mesmas, sendo punível tal conduta com a coima referida no n.º 2 deste artigo, sem prejuízo da responsabilidade criminal a que houver lugar.»"
+  },
+  "176886815": {
+   "fragment_id": "176886739",
+   "type": 1,
+   "heading": "Capítulo XII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Disposições finais e transitórias"
+  },
+  "176886816": {
+   "fragment_id": "176886740",
+   "type": 11,
+   "heading": "Artigo 83.º — Quadro plurianual de programação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Quadro plurianual de programação orçamental\n\nNos termos do n.º 3 do artigo 20.º da Lei Orgânica n.º 2/2013, de 2 de setembro, na sua redação atual, é atualizado o Quadro Plurianual de Programação Orçamental, passando o anexo a que se refere o artigo 2.º do Decreto Legislativo Regional n.º 26/2021/M, de 31 de agosto, a ter a redação constante do anexo ao presente decreto legislativo regional."
+  },
+  "176886817": {
+   "fragment_id": "176886741",
+   "type": 11,
+   "heading": "Artigo 84.º — Estratégia e Plano de Ação de Combate ao Desperdício Alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Estratégia e Plano de Ação de Combate ao Desperdício Alimentar\n\nNo ano de 2022, o Governo Regional dará continuidade, na Região Autónoma da Madeira, à Estratégia e ao Plano de Ação de Combate ao Desperdício Alimentar."
+  },
+  "176886818": {
+   "fragment_id": "176886742",
+   "type": 11,
+   "heading": "Artigo 85.º — Novo Hospital Central para a Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Novo Hospital Central para a Madeira\n\n1 - Durante o ano de 2022, fica o Governo Regional autorizado a fazer todas as diligências junto do Governo da República que permitam garantir e canalizar para a Região Autónoma da Madeira todos os apoios necessários à conceção e construção do Novo Hospital Central para a Madeira.\n\n2 - Durante o ano de 2022, fica o Governo Regional autorizado a disponibilizar os meios financeiros indispensáveis à concretização das despesas relativas ao projeto do Novo Hospital Central para a Madeira, previstas realizar até ao final do ano, de acordo com a programação financeira aprovada, no quadro dos projetos plurianuais."
+  },
+  "176886819": {
+   "fragment_id": "176886743",
+   "type": 11,
+   "heading": "Artigo 86.º — Eficiências energéticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Eficiências energéticas\n\n1 - Aos serviços e organismos da Administração Pública Regional que durante o ano de 2022 apresentem maiores reduções de consumo energético podem ser atribuídos incentivos orçamentais no ano de 2023.\n\n2 - Durante o ano de 2022, é criado na Região Autónoma da Madeira um programa de prémio de inovação para a eficiência energética na Administração Pública."
+  },
+  "176886820": {
+   "fragment_id": "176886744",
+   "type": 11,
+   "heading": "Artigo 87.º — Acompanhamento, fiscalização e controlo da receita dos arrendamentos e concessões da administração pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Acompanhamento, fiscalização e controlo da receita dos arrendamentos e concessões da administração pública regional\n\n1 - Sem prejuízo das competências atribuídas a outras entidades, a fiscalização, controlo, acompanhamento e cobrança de rendas provenientes dos contratos de arrendamento e concessão celebrados pela administração pública regional é da competência das entidades públicas outorgantes nos respetivos contratos, ou quem lhes suceda.\n\n2 - Quando se verifique que existem situações de incumprimento do pagamento com prazo superior a 90 dias, sem que seja celebrado acordo voluntário de regularização, as entidades públicas outorgantes nos respetivos contratos desencadeiam o procedimento extrajudicial ou judicial com vista à cobrança dos valores em dívida.\n\n3 - Sem prejuízo do disposto no n.º 1, as entidades públicas outorgantes nos respetivos contratos informam, trimestralmente, o departamento do Governo Regional que tutele o setor do património, da celebração de novos contratos, eventuais renovações, dos valores em dívida, caso existam, e das ações interpostas para cobrança desses valores."
+  },
+  "176886821": {
+   "fragment_id": "176886745",
+   "type": 11,
+   "heading": "Artigo 88.º — Programa de redução da quantidade de açúcar, sal e ácidos gordos trans",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Programa de redução da quantidade de açúcar, sal e ácidos gordos trans\n\nEm 2022, o Governo Regional compromete-se com a prossecução dos objetivos plasmados na Estratégia Regional de Promoção da Alimentação Saudável e Segura, adotando as medidas necessárias para o efeito, nomeadamente a intenção de adequar gradualmente, quando justificável, o teor de açúcar, sal e ácidos gordos trans constantes dos alimentos embalados, refeições pré-confecionadas e/ou refeições fornecidas em refeitórios públicos e privados."
+  },
+  "176886822": {
+   "fragment_id": "176886746",
+   "type": 11,
+   "heading": "Artigo 89.º — Consignação da receita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Consignação da receita\n\n1 - Nos termos do artigo 5.º da Lei n.º 8/90, de 20 de fevereiro, e desde que daí não resulte acréscimo líquido de despesa, fica o Governo Regional autorizado a consignar receitas a determinadas despesas, por despacho conjunto do membro do Governo Regional responsável pela área das finanças e do membro do Governo Regional com a tutela do setor.\n\n2 - Pode ainda o Governo Regional autorizar a consignação de receita própria das escolas, a que se refere o artigo 46.º, nos termos a fixar no decreto regulamentar regional de execução orçamental.\n\n3 - As entidades públicas que, fazendo parte do setor público empresarial da Região Autónoma da Madeira, integrem o universo das administrações públicas em contas nacionais e que recebam verbas do Orçamento da Região Autónoma da Madeira a título de regularização de dívidas de anos anteriores canalizam essas verbas, prioritariamente, para o pagamento do serviço da dívida de empréstimos avalizados pela Região Autónoma da Madeira e para a regularização de encargos transitados de anos anteriores.\n\n4 - A Região Autónoma da Madeira poderá canalizar as verbas devidas às entidades públicas que, fazendo parte do setor público empresarial da Região Autónoma da Madeira, integram o universo das administrações públicas em contas nacionais, referentes à regularização de dívidas de anos anteriores, diretamente para o pagamento do serviço da dívida de empréstimos avalizados pela Região Autónoma da Madeira."
+  },
+  "176886823": {
+   "fragment_id": "176886747",
+   "type": 11,
+   "heading": "Artigo 90.º — Saldos de tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Saldos de tesouraria\n\nExcecionalmente, por motivos de interesse público, e desde que daí não resulte qualquer atraso na entrega de recursos financeiros a terceiros, pode o Governo Regional utilizar os saldos bancários e de tesouraria que estejam à sua disposição, incluindo os consignados, sendo que neste caso o valor utilizado deverá ser reposto até ao final do ano económico de 2022."
+  },
+  "176886824": {
+   "fragment_id": "176886748",
+   "type": 11,
+   "heading": "Artigo 91.º — Sistema de Normalização Contabilística da Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Sistema de Normalização Contabilística da Administração Pública\n\n1 - É obrigatória a utilização do Sistema de Normalização Contabilística para as Administrações Públicas (SNC-AP), em todos os serviços pertencentes ao universo da administração pública regional em contas nacionais, incluindo as empresas públicas reclassificadas.\n\n2 - Em 2022, todas as entidades integradas no universo das administrações públicas em contas nacionais devem utilizar sistemas informáticos de contabilidade devidamente certificados e que correspondam às necessidades de integração na plataforma do Sistema Central de Contabilidade e Contas Públicas (S3CP) de informação contabilística deste subsetor.\n\n3 - Em 2022, ficam todos os serviços pertencentes ao universo da administração pública regional em contas nacionais, incluindo as empresas públicas reclassificadas, obrigados à submissão no S3CP das suas demonstrações financeiras, nos termos e nos prazos previstos na Norma Técnica n.º 1/2017, da UNILEO.\n\n4 - O incumprimento do dever de informação referido no número anterior determina o congelamento de 10 % das dotações orçamentais, ou a retenção de 10 % das transferências do Orçamento da Região Autónoma da Madeira para a entidade pública incumpridora, consoante a situação aplicável, no mês ou meses seguintes ao incumprimento."
+  },
+  "176886825": {
+   "fragment_id": "176886749",
+   "type": 11,
+   "heading": "Artigo 92.º — Fundos Comunitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Fundos Comunitários\n\nOs juros gerados pelas verbas oriundas de fundos comunitários, depositados em contas tituladas pelo Instituto de Desenvolvimento Regional, IP-RAM, resultantes de programas operacionais e programas de iniciativa comunitária encerrados, em que este instituto seja Autoridade de Gestão, Autoridade de Pagamento ou Organismo Intermédio, podem ser utilizados em substituição de um determinado fundo comunitário ou como contrapartida regional de projetos cofinanciados por fundos comunitários, incluindo projetos de assistência técnica."
+  },
+  "176886826": {
+   "fragment_id": "176886750",
+   "type": 11,
+   "heading": "Artigo 93.º — Despesas transitadas e integradas noutros serviços da administração regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Despesas transitadas e integradas noutros serviços da administração regional\n\n1 - As despesas relativas a serviços da administração direta e indireta da administração pública regional, incluindo serviços e fundos autónomos, que durante o ano de 2022 forem objeto de reestruturação, reorganização ou de extinção por fusão noutro serviço, transitam para o serviço integrador sem dependência de quaisquer formalidades, sendo liquidadas e pagas por conta das dotações orçamentais do novo serviço, sem prejuízo do disposto nos números seguintes.\n\n2 - Com a entrada em vigor do presente diploma, as despesas relativas a serviços que, no âmbito da orgânica do respetivo departamento do Governo Regional, sejam criados por decreto legislativo regional, que resultem da extinção por fusão de serviços que já não têm dotação orçamental, são liquidadas e pagas por conta das dotações orçamentais do serviço a criar, independentemente da data em que ocorrer a respetiva criação.\n\n3 - Enquanto não for aprovado o Orçamento da Região Autónoma da Madeira para 2023, os encargos com os serviços, incluindo serviços e fundos autónomos que venham a ser criados em 2022 e que não estejam previstos nos mapas anexos ao presente diploma, serão suportados em conta das dotações inscritas nos correspondentes serviços que forem extintos ou integrados noutros serviços."
+  },
+  "176886827": {
+   "fragment_id": "176886751",
+   "type": 11,
+   "heading": "Artigo 94.º — Plano de Contingência do Aeroporto Internacional da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Plano de Contingência do Aeroporto Internacional da Madeira\n\nDurante o ano de 2022, o Governo Regional dará continuidade às comunicações e negociações necessárias junto da União Europeia, do Governo da República e da ANA - Aeroportos de Portugal, S. A., por forma a acautelar o pleno funcionamento do Plano de Contingência do Aeroporto Internacional da Madeira, ativado, implementado e organizado pela ANA - Aeroportos de Portugal, permitindo atenuar os constrangimentos criados no turismo e, por consequência, em todo o setor económico da Região."
+  },
+  "176886828": {
+   "fragment_id": "176886752",
+   "type": 11,
+   "heading": "Artigo 95.º — Defesa do produtor e pescador regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Defesa do produtor e pescador regional\n\n1 - No âmbito da necessidade de promover um esforço institucional público de discriminação positiva, não só através de políticas sociais redistributivas, mas, sobretudo, da sua inclusão ativa em intervenções promovidas por políticas públicas de desenvolvimento, de forma a contribuir para que os diversos territórios rurais possam ser exemplos positivos da sua indispensável valorização, numa ótica de sustentabilidade e do reforço da coesão social e territorial, e no seguimento da aprovação do Decreto-Lei n.º 64/2018, de 7 de agosto, que consagra um estatuto da agricultura familiar, o Governo Regional, durante o ano de 2022, dá continuidade ao regime específico de contratação pública para fornecimento de proximidade de bens agroalimentares a todas as instituições públicas tuteladas pela administração pública regional, conforme estabelecido pela alínea f) do n.º 1 do artigo 6.º do Decreto-Lei n.º 64/2018, de 7 de agosto, de modo a priorizar a utilização de produtos regionais, transformados ou não.\n\n2 - Às entidades públicas, bem como às entidades que, no âmbito de contratação pública, prestem serviços a, entre outras, escolas, hospitais, instituições particulares de solidariedade social e Forças Armadas, desde que sediadas na Região Autónoma da Madeira, é permitido que acedam, nos termos do n.º 3 do artigo 3.º do Decreto-Lei n.º 81/2005, de 20 de abril, à primeira venda do pescado, sendo-lhes, ainda, permitido emitir ordens de compra antecipadas à entidade que explora a lota, a qual adjudicará a venda pelo respetivo valor, sempre que o pescado em causa não tenha sido objeto de licitação ou outra ordem de valor superior."
+  },
+  "176886829": {
+   "fragment_id": "176886753",
+   "type": 11,
+   "heading": "Artigo 96.º — Seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Seguros\n\nFica o Governo Regional autorizado a contratar seguros de responsabilidade civil extracontratual."
+  },
+  "176886830": {
+   "fragment_id": "176886754",
+   "type": 11,
+   "heading": "Artigo 97.º — Cobranças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Cobranças\n\nAs receitas depositadas nos cofres da Região Autónoma da Madeira até 31 de janeiro de 2023, que digam respeito a cobranças efetuadas em 2022, podem excecionalmente ser consideradas com referência a 31 de dezembro de 2022."
+  },
+  "176886831": {
+   "fragment_id": "176886755",
+   "type": 11,
+   "heading": "Artigo 98.º — Retenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Retenções\n\n1 - Os serviços do Governo Regional, incluindo os serviços e fundos autónomos, ficam autorizados a proceder a retenções de verbas a entidades que tenham débitos por satisfazer, incluindo dívidas por contribuições e impostos, nos termos a definir no decreto regulamentar regional de execução orçamental.\n\n2 - Nos termos do disposto no artigo 39.º da Lei n.º 73/2013, de 3 de setembro, retificada pela Declaração de Retificação n.º 46-B/2013, de 1 de novembro, na sua atual redação, fica ainda o Governo Regional autorizado, através do departamento do Governo Regional com a tutela das finanças, a proceder à retenção das transferências para as autarquias locais da Região Autónoma da Madeira para a regularização de dívidas às empresas participadas pela Região, bem como para cumprimento de contratos-programa, protocolos, acordos de cooperação e de colaboração, contratos de financiamento e concessão excecional de auxílios e de outros instrumentos alternativos celebrados no âmbito da cooperação técnica e financeira.\n\n3 - Quando não seja tempestivamente prestada ao departamento do Governo Regional com a tutela das finanças, por motivo imputável às respetivas entidades, a informação tipificada na Lei de Enquadramento Orçamental, no regime geral das pessoas coletivas com estatuto de utilidade pública, aplicável com as necessárias adaptações à Região Autónoma da Madeira e no artigo 15.º do Decreto Legislativo Regional n.º 24/2002/M, de 23 de dezembro, com a redação conferida pelo Decreto Legislativo Regional n.º 8/2011/M, de 1 de abril, bem como a que venha a ser anualmente definida no decreto regulamentar regional de execução orçamental ou noutra disposição legal aplicável, podem ser retidas as transferências orçamentais, as requisições de fundos e os subsídios e outras formas de apoio, consoante o caso, nos termos a fixar no decreto regulamentar regional de execução orçamental, até que a situação seja devidamente sanada."
+  },
+  "176886832": {
+   "fragment_id": "176886756",
+   "type": 11,
+   "heading": "Artigo 99.º — Execução do Estatuto Político-Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Execução do Estatuto Político-Administrativo\n\n1 - Em acatamento e execução do Estatuto Político-Administrativo da Região Autónoma da Madeira, o orçamento regional assegura, em cada exercício, a dotação necessária ao cumprimento do disposto nos artigos 24.º e 25.º da Lei n.º 4/85, de 9 de abril, com a redação que lhe foi dada pela Lei n.º 26/95, de 18 de agosto, ex vi do n.º 8 do artigo 24.º, do n.º 3 do artigo 65.º e do n.º 20 do artigo 75.º da Lei n.º 13/91, de 5 de junho, com a redação que lhe foi dada pela Lei n.º 130/99, de 21 de agosto.\n\n2 - O processamento e pagamento de todas as subvenções que integram o regime previsto no n.º 19 do artigo 75.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, bem como a regularização de quaisquer situações pendentes, desde que inscritas no Orçamento da Região Autónoma da Madeira, são efetuados nos termos a regulamentar pelos órgãos de governo próprio onde os seus beneficiários terminaram o exercício dos respetivos mandatos."
+  },
+  "176886833": {
+   "fragment_id": "176886757",
+   "type": 11,
+   "heading": "Artigo 100.º — Alteração e prorrogação de efeitos do Decreto Legislativo Regional n.º 30/2013/M, de 10 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Alteração e prorrogação de efeitos do Decreto Legislativo Regional n.º 30/2013/M, de 10 de dezembro\n\n1 - É prorrogado, até 31 de dezembro de 2022, o regime excecional a que se refere o n.º 4 do artigo 2.º do Decreto Legislativo Regional n.º 30/2013/M, de 10 de dezembro.\n\n2 - O prazo estabelecido nos n.os 1, 4 e 5 do artigo 3.º do Decreto Legislativo Regional n.º 30/2013/M, de 10 de dezembro, passa a ser de dois anos.\n\n3 - A alteração referida no número anterior só é aplicável aos pedidos formulados a partir de 1 de janeiro de 2022."
+  },
+  "176886834": {
+   "fragment_id": "176886758",
+   "type": 11,
+   "heading": "Artigo 101.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos desde 1 de janeiro de 2022."
+  },
+  "186759781": {
+   "fragment_id": "176886562",
+   "type": 11,
+   "heading": "Artigo 17.º — Imposto sobre o rendimento das pessoas singulares",
+   "in_force_from": "2022-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+   ],
+   "markdown": "###### Artigo 17.º — Imposto sobre o rendimento das pessoas singulares\n\nO artigo 2.º do Decreto Legislativo Regional n.º 3/2001/M, de 22 de fevereiro, com a redação consolidada e republicada pelo Decreto Legislativo Regional n.º 33/2016/M, de 20 de julho, alterado pelos Decretos Legislativos Regionais n.os 42-A/2016/M, de 30 de dezembro, 2/2018/M, de 9 de janeiro, 26/2018/M, de 31 de dezembro, 12/2020/M, de 10 de agosto, 18/2020/M, de 31 de dezembro, e 28-A/2021/M, de 30 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - A tabela de taxas do imposto aplicável aos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, em substituição da tabela de taxas gerais previstas no artigo 68.º do CIRS, é a seguinte:\n\n(ver documento original)\n\n2 - O quantitativo do rendimento coletável, quando superior a (euro) 7116, é dividido em duas partes: uma igual ao limite do maior dos escalões que nele couber, à qual se aplica a taxa da coluna (B) correspondente a esse escalão; outra igual ao excedente, a que se aplica a taxa da coluna (A) respeitante ao escalão imediatamente superior.\n\n3 - [...]\n\n4 - [...]»\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+  },
+  "186759782": {
+   "fragment_id": "176886563",
+   "type": 11,
+   "heading": "Artigo 18.º — Imposto sobre o rendimento das pessoas coletivas",
+   "in_force_from": "2022-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+   ],
+   "markdown": "###### Artigo 18.º — Imposto sobre o rendimento das pessoas coletivas\n\nMantêm-se em vigor as taxas do Imposto sobre o Rendimento das Pessoas Coletivas, para vigorar na Região Autónoma da Madeira, estabelecidas no artigo 2.º do Decreto Legislativo Regional n.º 2/2001/M, de 20 de fevereiro, com as alterações introduzidas pelos Decretos Legislativos Regionais n.os 29-A/2001/M, de 20 de dezembro, 30-A/2003/M, de 31 de dezembro, 21-A/2005/M, de 30 de dezembro, 3/2007/M, de 9 de janeiro, 2-A/2008/M, de 16 de janeiro, 45/2008/M, de 31 de dezembro, 34/2009/M, de 31 de dezembro, 20/2011/M, de 26 de dezembro, 31-A/2013/M, de 31 de dezembro, 18/2014/M, de 31 de dezembro, 2/2018/M, de 9 de janeiro, 26/2018/M, de 31 de dezembro, 12/2020/M, de 10 de agosto, e 18/2020/M, de 31 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+  },
+  "186759783": {
+   "fragment_id": "176886564",
+   "type": 11,
+   "heading": "Artigo 19.º — Derrama regional",
+   "in_force_from": "2022-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+   ],
+   "markdown": "###### Artigo 19.º — Derrama regional\n\nMantém-se em vigor para a Região Autónoma da Madeira o regime da derrama regional, aprovada pelos artigos 3.º a 6.º do Decreto Legislativo Regional n.º 14/2010/M, de 5 de agosto, na redação republicada pelo Decreto Legislativo Regional n.º 5-A/2014/M, de 23 de julho, alterada pelos Decretos Legislativos Regionais n.os 2/2018/M, de 9 de janeiro, 26/2018/M, de 31 de dezembro, e 18/2020/M, de 31 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+  },
+  "186759785": {
+   "fragment_id": "186720387",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Taxa de IRC aplicável à Região Autónoma da Madeira no âmbito do n.º 5 do artigo 41.º-B do Estatuto dos Benefícios Fiscais",
+   "in_force_from": "2022-07-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+   ],
+   "markdown": "###### Artigo 19.º-A — Taxa de IRC aplicável à Região Autónoma da Madeira no âmbito do n.º 5 do artigo 41.º-B do Estatuto dos Benefícios Fiscais\n\nÀs empresas que exerçam diretamente e a título principal uma atividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços, que sejam qualificadas como micro, pequenas ou médias empresas, nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, nas áreas territoriais beneficiárias da Região Autónoma da Madeira, a determinar no âmbito do n.º 7 do artigo 41.º-B do Estatuto dos Benefícios Fiscais (EBF), é aplicável a taxa de IRC de 8,75 % aos primeiros 25 000 (euro) de matéria coletável.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+  },
+  "186759786": {
+   "fragment_id": "176886565",
+   "type": 11,
+   "heading": "Artigo 20.º — Revisão do Código Fiscal de Investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Revisão do Código Fiscal de Investimento\n\n1 - Em 2022, o Governo Regional desenvolve os procedimentos necessários à revisão do Código Fiscal de Investimento da Região Autónoma da Madeira, tornando-o fiscalmente mais competitivo e adequado à realidade regional.\n\n2 - Para efeitos do disposto no n.º 1, devem ser estudadas as possibilidades de discriminação positiva de determinadas circunscrições geográficas da Região, nomeadamente o Porto Santo e os concelhos da costa norte da ilha da Madeira, atentas as suas condições específicas.\n\n3 - A revisão do Código Fiscal de Investimento da Região Autónoma da Madeira deve ainda acompanhar as profundas alterações que foram introduzidas ao Código Fiscal do Investimento nacional e as melhores práticas legislativas na área dos benefícios fiscais."
+  },
+  "186759784": {
+   "fragment_id": "176886568",
+   "type": 11,
+   "heading": "Artigo 22.º — Alterações orçamentais",
+   "in_force_from": "2022-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+   ],
+   "markdown": "###### Artigo 22.º — Alterações orçamentais\n\n1 - O Governo Regional fica autorizado a:\n\na) Proceder às alterações orçamentais que forem necessárias à boa execução do Orçamento, fazendo cumprir a legislação em vigor nesta matéria, designadamente o Decreto Regulamentar Regional n.º 1/2017/M, de 23 de fevereiro;\n\nb) Efetuar as alterações orçamentais indispensáveis à maximização da utilização dos recursos financeiros disponíveis, independentemente dos programas, da natureza das classificações funcionais e orgânicas previstas no Orçamento da Região Autónoma da Madeira para 2022.\n\n2 - O disposto na alínea b) do número anterior é aplicável em casos decorrentes:\n\na) Da mobilidade ou afetação de trabalhadores entre serviços da administração direta, entre serviços da administração indireta, ou entre serviços da administração direta e indireta da Região Autónoma da Madeira, e ou das entidades integradas no universo das administrações públicas em contas nacionais;\n\nb) De alterações orgânicas do Governo Regional, da estrutura dos serviços da responsabilidade dos membros do Governo Regional e das correspondentes reestruturações no setor público empresarial;\n\nc) De ajustamentos em dotações orçamentais afetas à execução de projetos cofinanciados por fundos comunitários e pelo fundo de coesão nacional para as regiões ultraperiféricas, a que se refere o artigo 49.º da Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro;\n\nd) De alterações orçamentais que se revelem necessárias à execução dos instrumentos financeiros enquadrados no Next Generation EU, nomeadamente a Assistência à Recuperação para a Coesão e os Territórios da Europa (REACT-EU) e o Plano de Recuperação e Resiliência (PRR);\n\ne) De ajustamentos orçamentais, na medida do estritamente necessário e por motivos de urgência imperiosa, resultantes de calamidades naturais ou de outros acontecimentos extraordinários, nomeadamente decorrentes das necessidades de execução dos projetos de reconstrução, na sequência da intempérie de 20 de fevereiro de 2010 e dos incêndios de agosto de 2016, de outras despesas a realizar no âmbito da situação epidémica de COVID-19 e bem assim de situações previstas no artigo 37.º deste diploma;\n\nf) Da cobertura orçamental de despesas e encargos com pessoal;\n\ng) De ajustamentos relativos a dotações afetas a encargos de instalações, comunicações, rendas e bolsas de estudo;\n\nh) Da regularização de dívidas vencidas;\n\ni) De ajustamentos relativos a dotações afetas à Formação Bruta de Capital Fixo;\n\nj) De ajustamentos orçamentais relativos a despesas com ativos financeiros, passivos financeiros e encargos da dívida;\n\nk) Do acréscimo das necessidades relativas à aquisição de produtos químicos e farmacêuticos, produtos vendidos nas farmácias, material de consumo clínico e de serviços de saúde;\n\nl) Do acréscimo de necessidades das atividades de proteção civil e socorro;\n\nm) Do acréscimo de responsabilidades decorrentes de concessões;\n\nn) Da alteração de responsabilidade da execução da despesa relativa a ajustamentos em dotações orçamentais, cuja fonte de financiamento decorra das verbas afetas aos jogos sociais;\n\no) De ajustamentos orçamentais relativos a despesas afetas à gestão do espaço florestal e conservação da natureza.\n\np) De ajustamentos orçamentais afetos a encargos decorrentes do conflito Rússia-Ucrânia e do choque geopolítico.\n\n3 - Nos casos de mobilidade ou afetação de trabalhadores entre serviços da administração direta, entre serviços da administração indireta ou entre serviços da administração direta e indireta da Região Autónoma da Madeira, com exceção do Instituto de Segurança Social da Madeira, IP-RAM, previstos na alínea a) do n.º 2 deste artigo, a alteração orçamental é assegurada através da transferência da verba referente ao encargo com a respetiva remuneração, do orçamento do serviço de origem para o orçamento do serviço de destino.\n\n4 - O Governo Regional, através do membro do Governo Regional responsável pela área das finanças em conjunto com o membro do Governo Regional responsável pelo orçamento objeto de alteração, fica ainda autorizado a:\n\na) Proceder à inscrição ou reforço de dotações orçamentais afetas a projetos decorrentes da intempérie de 20 de fevereiro de 2010, dos incêndios de agosto de 2016 e da COVID-19, de projetos financiados pelo fundo de coesão para as regiões ultraperiféricas a que se refere o artigo 49.º da Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro, de projetos financiados pela Assistência à Recuperação para a Coesão e os Territórios da Europa (REACT-EU) e o Plano de Recuperação e Resiliência (PRR) e ao pagamento de dívidas vencidas de anos anteriores na sequência do aumento da previsão de receitas, decorrente da obtenção de fundos adicionais, de saldos não utilizados de anos anteriores e de saldos bancários não consignados a outras despesas, que não aquelas objeto de inscrição ou de reforço;\n\nb) Proceder à inscrição ou reforço de dotações orçamentais, na receita e na despesa, decorrentes de alterações à legislação em vigor, designadamente na lei do Orçamento do Estado, com impacto no Orçamento da Região Autónoma da Madeira e não contempladas no presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+  },
+  "176886835": {
+   "fragment_id": "176886759",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de dezembro de 2021.\n\nO Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.\n\nAssinado em 27 de dezembro de 2021.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "1004362942": {
+   "fragment_id": "186720387",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Taxa de IRC aplicável à Região Autónoma da Madeira no âmbito do n.º 5 do artigo 41.º-B do Estatuto dos Benefícios Fiscais",
+   "in_force_from": "2022-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30, produz efeitos a partir de 2023-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+   ],
+   "markdown": "###### Artigo 19.º-A — Taxa de IRC aplicável à Região Autónoma da Madeira no âmbito do n.º 5 do artigo 41.º-B do Estatuto dos Benefícios Fiscais\n\nÀs empresas que exerçam diretamente e a título principal uma atividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços, que sejam qualificadas como micro, pequenas ou médias empresas ou empresas de pequena-média capitalização (Small Mid Cap), nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 novembro, nas áreas territoriais beneficiárias da Região Autónoma da Madeira, a determinar no âmbito do n.º 10 do artigo 41.º-B do Estatuto dos Benefícios Fiscais (EBF), é aplicável a taxa de IRC de 8,75 % aos primeiros 50 000 (euros) de matéria coletável.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30, produz efeitos a partir de 2023-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2022/M - Diário da República n.º 144/2022, Série I de 2022-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2022-186721644), em vigor a partir de 2022-07-28"
+  },
+  "1004362910": {
+   "fragment_id": "1005484273",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "1004362911": {
+   "fragment_id": "1005484274",
+   "type": 4,
+   "heading": "Quadro Plurianual de Programação Orçamental 2022-2025",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Quadro Plurianual de Programação Orçamental 2022-2025\n\n(a que se refere o artigo 83.º)\n\n(ver documento original)"
+  },
+  "1004362913": {
+   "fragment_id": "1005778875",
+   "type": 4,
+   "heading": "MAPA I — RECEITAS DA REGIÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA I — RECEITAS DA REGIÃO\n\n[(art.°1.° a)]\n\n(ver documento original)"
+  },
+  "1004362914": {
+   "fragment_id": "1005778876",
+   "type": 4,
+   "heading": "MAPA II — DESPESAS POR DEPARTAMENTOS REGIONAIS E CAPÍTULOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA II — DESPESAS POR DEPARTAMENTOS REGIONAIS E CAPÍTULOS\n\n[art.°1.° a)]\n\n(ver documento original)"
+  },
+  "1004362915": {
+   "fragment_id": "1005778877",
+   "type": 4,
+   "heading": "MAPA III — DESPESAS POR CLASSIFICAÇÃO FUNCIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA III — DESPESAS POR CLASSIFICAÇÃO FUNCIONAL\n\n[art.°1.° a)]\n\n(ver documento original)"
+  },
+  "1004362916": {
+   "fragment_id": "1005778878",
+   "type": 4,
+   "heading": "MAPA IV — DESPESAS POR GRANDES AGRUPAMENTOS ECONÓMICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA IV — DESPESAS POR GRANDES AGRUPAMENTOS ECONÓMICOS\n\n[art.°1.° a)]\n\n(ver documento original)"
+  },
+  "1004362917": {
+   "fragment_id": "1005778879",
+   "type": 4,
+   "heading": "MAPA V — RECEITA GLOBAL DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS (em euros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA V — RECEITA GLOBAL DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS (em euros)\n\n[art.°1.° a)]\n\n(ver documento original)"
+  },
+  "1004362918": {
+   "fragment_id": "1005778880",
+   "type": 4,
+   "heading": "MAPA VI — DESPESA GLOBAL DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS (em euros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA VI — DESPESA GLOBAL DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS (em euros)\n\n[art.°1.° a)]\n\n(ver documento original)"
+  },
+  "1004362919": {
+   "fragment_id": "1005778881",
+   "type": 4,
+   "heading": "MAPA VII — DESPESAS DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS POR CLASSIFICAÇÃO FUNCIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA VII — DESPESAS DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS POR CLASSIFICAÇÃO FUNCIONAL\n\n[art.°1.° a)]\n\n(ver documento original)"
+  },
+  "1004362921": {
+   "fragment_id": "1005778882",
+   "type": 4,
+   "heading": "MAPA VIII — DESPESAS DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS POR GRANDES AGRUPAMENTOS ECONÓMICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA VIII — DESPESAS DOS SERVIÇOS, INSTITUTOS E FUNDOS AUTÓNOMOS POR GRANDES AGRUPAMENTOS ECONÓMICOS\n\n[art.°1.° a)]\n\n(ver documento original)"
+  },
+  "1004362922": {
+   "fragment_id": "1005778883",
+   "type": 4,
+   "heading": "MAPA IX — PROGRAMAÇÃO PLURIANUAL DO INVESTIMENTO POR PROGRAMAS E MEDIDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA IX — PROGRAMAÇÃO PLURIANUAL DO INVESTIMENTO POR PROGRAMAS E MEDIDAS\n\nUnidade: Euros\n\n(ver documento orIginal)"
+  },
+  "1004362938": {
+   "fragment_id": "1005778885",
+   "type": 4,
+   "heading": "MAPA X — DESPESAS CORRESPONDENTES A PROGRAMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA X — DESPESAS CORRESPONDENTES A PROGRAMAS\n\nANO ECONÓMICO DE 2022\n\n(ver documento original)"
+  },
+  "1004362939": {
+   "fragment_id": "1005778886",
+   "type": 4,
+   "heading": "MAPA XI — FINANÇAS LOCAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA XI — FINANÇAS LOCAIS\n\n[art.°1.° d)]\n\n(ver documento original)"
+  },
+  "1004362940": {
+   "fragment_id": "1005778887",
+   "type": 4,
+   "heading": "MAPA XIV — RESPONSABILIDADES CONTRATUAIS PLURIANUAIS DOS SERVIÇOS INTEGRADOS E DOS SERVIÇOS E FUNDOS AUTÓNOMOS, AGRUPADAS POR DEPARTAMENTO (EM EURO)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA XIV — RESPONSABILIDADES CONTRATUAIS PLURIANUAIS DOS SERVIÇOS INTEGRADOS E DOS SERVIÇOS E FUNDOS AUTÓNOMOS, AGRUPADAS POR DEPARTAMENTO (EM EURO)\n\n(ver documento original)"
+  },
+  "1004362941": {
+   "fragment_id": "1005778888",
+   "type": 4,
+   "heading": "MAPA XXI — RECEITAS TRIBUTÁRIAS CESSANTES DOS SERVIÇOS INTEGRADOS - REGIÃO AUTÓNOMA DA MADEIRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA XXI — RECEITAS TRIBUTÁRIAS CESSANTES DOS SERVIÇOS INTEGRADOS - REGIÃO AUTÓNOMA DA MADEIRA\n\n[art.°1.° f)]\n\n(ver documento original)\n\n114850981"
+  }
+ }
+}

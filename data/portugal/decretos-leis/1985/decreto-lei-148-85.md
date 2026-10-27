@@ -1,0 +1,222 @@
+---
+schema_version: '1.0'
+id: pt:dre:152367:por
+title: Decreto-Lei n.º 148/85
+short_title: null
+summary: Cria a Comissão Permanente de Abastecimento de Leite e Lacticínios (COPAL), fixa a sua competência e revoga os capítulos
+  II e III do Decreto-Lei n.º 47710, de 18 de Maio de 1967
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 148/85
+official_date: null
+publication_date: '1985-05-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 105/1985, Série I de 1985-05-08
+  number: '105'
+  series: I
+  supplement: null
+  pages: 1240 - 1242
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10500/12401242.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '152367'
+  dre_path: /dr/detalhe/decreto-lei/148-1985-152367
+  internal: pt:dre:152367:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1985-152367
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1985-152367
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:03:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9a1d1f83cbab122ee0f32d584843077ef9f534c202035fe4be182fa0d5416aa8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Permanente de Abastecimento de Leite e Lacticínios
+- Criação de Serviços
+- Definição de Competências
+- Junta Nacional dos Produtos Pecuários
+- Lacticínios
+- Leite
+- Produção Leiteira
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:180587:por
+  label: "Alterada a composição da Comissão Permanente do Abastecimento do Leite e Lacticínios, criada e fixada pelo art.\
+    \ 1º deste diploma, pelo DEC LEI.328/85.08.08.1985.MA, DR.IS [181] de 08.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1985-180587
+  date: '1985-08-08'
+- type: amended_by
+  target: pt:dre:376841:por
+  label: Determinada a assunção pelo INGA das atribuições e competências conferidas ao extinto organismo de coordenação económica,
+    Junta Nacional dos Produtos Pecuários, relativamente à Comissão Permanente do Abastecimento do Leite e Lacticínios, a
+    que se refere o presente diploma, pelo DEC LEI.282/88.12.08.1988.MAPA, DR.IS [186] de 12.08.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1988-376841
+  date: '1988-08-12'
+- type: amended_by
+  target: pt:dre:334646:por
+  label: Determinada a transferência para a DGMAIAA de todas as atribuições e competências conferidas ao extinto organismo
+    de coordenação económica, Junta Nacional dos Produtos Pecuários, relativamente à Comissão Permanente do Abastecimento
+    do Leite e Lacticínios, a que se refere o presente diploma, pelo DEC LEI.56/90.13.02.1990.MAPA, DR.IS [37] de 13.02.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
+- type: cites
+  target: pt:dre:313181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382612:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:03:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 148/85
+
+de 8 de Maio
+
+Considerando a necessidade de implementar uma estrutura envolvendo as várias entidades com responsabilidade no sector do leite e lacticínios que possibilite uma resposta imediata junto do Governo a todos os problemas que se colocam nessa área;
+
+Considerando que se tem verificado uma certa falta de harmonização entre os vários interesses dos diferentes intervenientes neste sector;
+
+Considerando a necessidade de medidas urgentes de reestruturação e reorganização do sector, que a futura adesão à CEE ainda mais vem realçar e que não deverão ser mais adiadas de modo que esta se possa efectuar de modo progressivo e harmonioso;
+
+Considerando ainda que a Comissão de Abastecimento de Leite, criada pelo [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181), de 18 de Maio de 1967, foi desactivada sem que as suas funções tivesse sido retomadas por qualquer outra entidade de um modo contínuo e sistematizado;
+
+Considerando que parte significativa dos estudos e despachos regulamentares previstos no [Decreto-Lei n.º 138/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1979-382612) não foram implementados, pois nunca chegou a ser criado um serviço especializado para vigilância do cumprimento do referido decreto-lei, previsto no seu artigo 26.º e que deveria dinamizar esse processo;
+
+Considerando, finalmente, que, face ao papel preponderante que a Administração tem vindo a desempenhar no desenvolvimento do sector, se julga necessário que esta tenha de assumir inicialmente ainda um papel dinamizador, mas que futuramente deverá ser substituído por associações interprofissionais que zelem pelos interesses dos vários grupos envolvidos:
+
+Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º É criada a Comissão Permanente de Abastecimento de Leite e Lacticínios (COPAL), que será constituída por representantes das seguintes entidades:
+
+1 representante do Fundo de Abastecimento;
+
+1 representante da Junta Nacional dos Produtos Pecuários (JNPP) ou do organismo que a venha a substituir;
+
+1 representante da Direcção-Geral de Agricultura (DGA);
+
+1 representante do Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares (IAPA);
+
+2 representantes das direcções regionais de agricultura;
+
+1 representante da Federação Nacional das Uniões das Cooperativas de Leite (FENALAC);
+
+1 representante das cooperativas de produtores de leite independentes não representados pela FENALAC;
+
+2 representantes da Associação Nacional dos Industriais de Lacticínios.
+
+Art. 2.º A Comissão será presidida por uma personalidade nomeada por despacho do Ministro da Agricultura.
+
+Art. 3.º A Comissão funcionará nas instalações da Junta Nacional dos Produtos Pecuários, que assegurará todo o apoio administrativo necessário.
+
+Art. 4.º À Comissão compete:
+
+a) Manter actualizada a análise da conjuntura do sector, de modo a poder informar sucessivamente as instâncias superiores;
+
+b) Alertar as instâncias competentes para os casos de que tenha conhecimento de não cumprimento da legislação relativa a leite e lacticínios, especialmente no que respeita à recolha e concentração de leite;
+
+c) Propor medidas de ordem legislativa que venham a mostrar-se necessárias para um adequado funcionamento do sector;
+
+d) Propor acções que se mostrem convenientes para a melhoria da qualidade do leite e dos lacticínios;
+
+e) Propor soluções que assegurem o mais racional funcionamento dos sistemas de recolha e concentração e de distribuição de leite ao consumo;
+
+f) Propor acções que visem a melhor utilização de matéria-prima e o mais racional aproveitamento das estruturas de transformação existentes;
+
+g) Apreciar a situação de oferta e de procura do leite, tendo em vista, sempre que necessário, a definição de critérios de distribuição do leite recolhido e a fixação de contingentes. Se não existir consenso no seio da Comissão relativamente à contingentação prevista na presente alínea, será a mesma estabelecida por despacho do Secretário de Estado do Comércio e Indústria Agrícolas;
+
+h) Dar parecer sobre quaisquer outros assuntos relativos ao sector do leite e lacticínios que sejam submetidos à sua apreciação.
+
+Art. 5.º A Comissão ouvirá, sempre que for caso disso, a Comissão de Coordenação Permanente para o Sector do Leite, constituída por representantes do Governo da República e do Governo Regional dos Açores.
+
+Art. 6.º - 1 - A Comissão, consoante a natureza do assunto a tratar, poderá pedir a colaboração de outros serviços e, sempre que se trate de problemas específicos de uma região ou de uma actividade, chamar a participar nos trabalhos representantes qualificados dessa região ou dessa actividade, incluindo associações profissionais.
+
+2 - A Comissão poderá solicitar aos serviços oficiais competentes os estudos que se julguem necessários para o desempenho das suas funções.
+
+Art. 7.º A Comissão reunirá em sessão plenária obrigatoriamente uma vez por mês e extraordinariamente sempre que o presidente a convocar, por sua iniciativa ou a pedido de algum dos seus membros.
+
+Art. 8.º A Comissão poderá reunir em sessões restritas sempre que a natureza dos assuntos a tratar o justifique, devendo, neste caso, as deliberações tomadas serem levadas ao conhecimento, e à aprovação, se for caso disso, de todos os membros na reunião plenária seguinte.
+
+Art. 9.º - 1 - Os pareceres da Comissão serão obtidos por consenso.
+
+2 - Nos casos em que não se verifique este consenso, constará da acta da reunião o parecer de cada um dos seus membros.
+
+Art. 10.º - 1 - A representação a que se refere o artigo 1.º é nominativa, devendo as entidades citadas indicar o seu representante e um substituto para os casos do seu impedimento.
+
+2 - Os membros da Comissão serão nomeados por um período renovável de 2 anos.
+
+3 - O mandato dos membros da Comissão será revogado quando os respectivos organismos ou associações pedirem a sua substituição.
+
+4 - Expirado o prazo do mandato, os membros da Comissão permanecerão em funções até à sua substituição ou à renovação do mandato.
+
+5 - Sempre que se verifique a substituição de um membro, o seu substituto completa o mandato anterior.
+
+Art. 11.º São revogados os capítulos II e III do [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181), de 18 de Maio de 1967.
+
+Visto e aprovado em Conselho de Ministros de 21 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Álvaro Roque de Pinho Bissaia Barreto.
+
+Promulgado em 22 de Abril de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 24 de Abril de 1985.
+
+O Primeiro-Ministro, Mário Soares.

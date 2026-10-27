@@ -1,0 +1,857 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007R0219:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0219-20211130",
+ "dre_path": null,
+ "source_lastmod": "2021-11-30",
+ "versions": [
+  {
+   "date": "2008-01-08",
+   "future": false,
+   "celex": "32007R0219",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9d8213692cc841a9",
+    "7520aab9c643e402",
+    "0596934d3bae86a3",
+    "559395381ae91d79",
+    "5c9bd5d71e93acdc",
+    "ccfa1706690e9a8d",
+    "5f6b5ad611530a73",
+    "b33da41482b4a86e",
+    "bd119fec551dddf2",
+    "87cae444da5ad859"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "celex": "02007R0219-20090101",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1361:por",
+     "title": "REGULAMENTO (CE) N. o 1361/2008 DO CONSELHO de 16 de Dezembro de 2008",
+     "published": null,
+     "celex": "32008R1361"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Constituição de uma empresa comum",
+    "Altera Artigo 4.º — Fontes de financiamento",
+    "Altera Artigo 5.º — Comité",
+    "Altera Artigo 8.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 2.º — Estatuto jurídico",
+    "Adita Artigo 2.º-A — Pessoal",
+    "Adita Artigo 2.º-B — Privilégios e imunidades",
+    "Adita Artigo 2.º-C — Responsabilidade",
+    "Adita Artigo 2.º-D — Competência do Tribunal de Justiça e lei aplicável",
+    "Adita Artigo 4.º-A — Regulamentação financeira",
+    "Adita Artigo 4.º-B — Quitação",
+    "Adita ANEXO",
+    "Adita ESTATUTOS DA EMPRESA COMUM",
+    "Adita Artigo 1.º — Membros",
+    "Adita Artigo 2.º — Órgãos da Empresa Comum",
+    "Adita Artigo 3.º — Composição e presidência do Conselho de Administração",
+    "Adita Artigo 4.º — Votação no Conselho de Administração",
+    "Adita Artigo 5.º — Atribuições do Conselho de Administração",
+    "Adita Artigo 6.º — Prevenção de situações de conflito de interesses",
+    "Adita Artigo 7.º — Director executivo",
+    "Adita Artigo 7.º-A — Função de auditoria interna",
+    "Adita Artigo 8.º — Destacamento de pessoal para a empresa comum",
+    "Adita Artigo 9.º — Acordos",
+    "Adita Artigo 10.º — Contratos externos",
+    "Adita Artigo 11.º — Grupos de trabalho",
+    "Adita Artigo 12.º — Disposições financeiras",
+    "Adita Artigo 13.º — Receitas",
+    "Adita Artigo 15.º — Execução e controlo orçamental",
+    "Adita Artigo 16.º — Plano de actividades e relatórios",
+    "Adita Artigo 17.º — Protecção dos interesses financeiros da Comunidade",
+    "Adita Artigo 18.º — Direitos de propriedade",
+    "Adita Artigo 19.º — Transparência",
+    "Adita Artigo 20.º — Medidas antifraude",
+    "Adita Artigo 21.º — Seguros",
+    "Adita Artigo 22.º — Confidencialidade",
+    "Adita Artigo 23.º — Transferência de activos pela Empresa Comum",
+    "Adita Artigo 24.º — Alteração dos Estatutos",
+    "Adita Artigo 25.º — Dissolução da Empresa Comum",
+    "Adita Artigo 26.º — Legislação aplicável",
+    "Suprime Artigo 2.º — Estatuto legal"
+   ],
+   "fragments": [
+    "1b3135a857a3c4b3",
+    "ca30e7dd49f2f5d9",
+    "8c044119698145bd",
+    "e626a65032f2ea08",
+    "a606fd40701d408e",
+    "1b8105eda4ee7556",
+    "e067387e9bb19e9d",
+    "559395381ae91d79",
+    "4e5cb81e11973668",
+    "acb9cb300ace2fe9",
+    "49a6e268b4bae54c",
+    "ba1475b16fde8a0c",
+    "5f6b5ad611530a73",
+    "b33da41482b4a86e",
+    "0c4af1b5cbbc19ea",
+    "10220b9774fa9034",
+    "db253c5a98dabbee",
+    "01d359aeb283950a",
+    "6fc4565fa379d8ec",
+    "75b92ef685a1a9bb",
+    "81242ca80679d0e0",
+    "b0d7e23b178855d4",
+    "5d749559a619c139",
+    "87480536706c70be",
+    "f8d1ece93e875be8",
+    "e80bf9e549955399",
+    "03af66a589789d30",
+    "3800927d8fef1481",
+    "be7df1ff893dcefd",
+    "121b2bc31656d184",
+    "dcdbbce3625b74b6",
+    "40533e8eb2e3c424",
+    "20ecd4f8f1660b7b",
+    "58210ae60ce5bcd0",
+    "63a28740c0712244",
+    "239864586382feec",
+    "070d2c1c5a53126f",
+    "10dbb7173dc53406",
+    "9ac17d1f15e92062",
+    "fb83955c2f579110",
+    "958c121fa8bc4632",
+    "8c7a41b5c3e60d8c",
+    "aecb3dd62dd47e16",
+    "12013dd01f058e71"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02007R0219-20140101",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0721:por",
+     "title": "REGULAMENTO (UE) N. o 721/2014 DO CONSELHO de 16 de junho de 2014",
+     "published": null,
+     "celex": "32014R0721"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Constituição de uma empresa comum",
+    "Altera Artigo 2.º-A — Pessoal",
+    "Altera Artigo 4.º — Fontes de financiamento",
+    "Altera Artigo 4.º-A — Regulamentação financeira",
+    "Altera Artigo 5.º — Comité",
+    "Altera Artigo 5.º — Atribuições do Conselho de Administração",
+    "Altera Artigo 6.º — Prevenção de situações de conflito de interesses",
+    "Altera Artigo 7.º — Director executivo",
+    "Altera Artigo 9.º — Acordos",
+    "Altera Artigo 12.º — Disposições financeiras",
+    "Altera Artigo 13.º — Receitas",
+    "Altera Artigo 16.º — Plano de actividades e relatórios",
+    "Altera Artigo 19.º — Transparência",
+    "Altera Artigo 20.º — Medidas antifraude",
+    "Altera Artigo 22.º — Confidencialidade",
+    "Altera Notas",
+    "Adita Artigo 6.º — Procedimento de Comité",
+    "Adita Artigo 7.º — Avaliação intercalar e relatório",
+    "Adita Artigo 10.º — Contratos e subvenções",
+    "Adita Artigo 17.º — Proteção dos interesses financeiros da União",
+    "Suprime Artigo 6.º — Comitologia",
+    "Suprime Artigo 7.º — Avaliação",
+    "Suprime Artigo 10.º — Contratos externos",
+    "Suprime Artigo 17.º — Protecção dos interesses financeiros da Comunidade",
+    "Suprime Artigo 24.º — Alteração dos Estatutos"
+   ],
+   "fragments": [
+    "8d3fbdca9cfac6ba",
+    "c70776664fffaf5d",
+    "8c044119698145bd",
+    "7cdb73c829ff41c5",
+    "a606fd40701d408e",
+    "1b8105eda4ee7556",
+    "e067387e9bb19e9d",
+    "559395381ae91d79",
+    "d248fc028e2e95e5",
+    "fe6488e2c41e9c58",
+    "49a6e268b4bae54c",
+    "c4af97234dbb0dba",
+    "edc4b6f14bcc392d",
+    "fba1d027c9c2b663",
+    "0c4af1b5cbbc19ea",
+    "10220b9774fa9034",
+    "db253c5a98dabbee",
+    "01d359aeb283950a",
+    "6fc4565fa379d8ec",
+    "75b92ef685a1a9bb",
+    "81242ca80679d0e0",
+    "c207765b15fc2715",
+    "3023ceceacc48655",
+    "e2d35ba99de572ea",
+    "f8d1ece93e875be8",
+    "e80bf9e549955399",
+    "bc496f11362195b8",
+    "06e975ab45deb81a",
+    "be7df1ff893dcefd",
+    "5450e24d7058e056",
+    "4d2aae4b5857b0fb",
+    "40533e8eb2e3c424",
+    "81592ef12598d0cf",
+    "c074e66c6c297cc5",
+    "63a28740c0712244",
+    "a3b8c6b38729ad1c",
+    "997f7d3414949ee6",
+    "10dbb7173dc53406",
+    "be93eac0a73257d0",
+    "fb83955c2f579110",
+    "8c7a41b5c3e60d8c",
+    "aecb3dd62dd47e16",
+    "0777d01aebde086c"
+   ]
+  },
+  {
+   "date": "2021-11-30",
+   "future": false,
+   "celex": "02007R0219-20211130",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Constituição de uma empresa comum",
+    "Suprime Artigo 2.º — Estatuto jurídico",
+    "Suprime Artigo 2.º-A — Pessoal",
+    "Suprime Artigo 2.º-B — Privilégios e imunidades",
+    "Suprime Artigo 2.º-C — Responsabilidade",
+    "Suprime Artigo 2.º-D — Competência do Tribunal de Justiça e lei aplicável",
+    "Suprime Artigo 3.º — Estatutos da Empresa Comum",
+    "Suprime Artigo 4.º — Fontes de financiamento",
+    "Suprime Artigo 4.º-A — Regulamentação financeira",
+    "Suprime Artigo 4.º-B — Quitação",
+    "Suprime Artigo 5.º — Comité",
+    "Suprime Artigo 6.º — Procedimento de Comité",
+    "Suprime Artigo 7.º — Avaliação intercalar e relatório",
+    "Suprime Artigo 8.º — Entrada em vigor",
+    "Suprime ANEXO",
+    "Suprime ESTATUTOS DA EMPRESA COMUM",
+    "Suprime Artigo 1.º — Membros",
+    "Suprime Artigo 2.º — Órgãos da Empresa Comum",
+    "Suprime Artigo 3.º — Composição e presidência do Conselho de Administração",
+    "Suprime Artigo 4.º — Votação no Conselho de Administração",
+    "Suprime Artigo 5.º — Atribuições do Conselho de Administração",
+    "Suprime Artigo 6.º — Prevenção de situações de conflito de interesses",
+    "Suprime Artigo 7.º — Director executivo",
+    "Suprime Artigo 7.º-A — Função de auditoria interna",
+    "Suprime Artigo 8.º — Destacamento de pessoal para a empresa comum",
+    "Suprime Artigo 9.º — Acordos",
+    "Suprime Artigo 10.º — Contratos e subvenções",
+    "Suprime Artigo 11.º — Grupos de trabalho",
+    "Suprime Artigo 12.º — Disposições financeiras",
+    "Suprime Artigo 13.º — Receitas",
+    "Suprime Artigo 15.º — Execução e controlo orçamental",
+    "Suprime Artigo 16.º — Plano de actividades e relatórios",
+    "Suprime Artigo 17.º — Proteção dos interesses financeiros da União",
+    "Suprime Artigo 18.º — Direitos de propriedade",
+    "Suprime Artigo 19.º — Transparência",
+    "Suprime Artigo 20.º — Medidas antifraude",
+    "Suprime Artigo 21.º — Seguros",
+    "Suprime Artigo 22.º — Confidencialidade",
+    "Suprime Artigo 23.º — Transferência de activos pela Empresa Comum",
+    "Suprime Artigo 25.º — Dissolução da Empresa Comum",
+    "Suprime Artigo 26.º — Legislação aplicável",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "22c48c10baf4995c"
+   ]
+  }
+ ],
+ "fragments": {
+  "9d8213692cc841a9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Fevereiro de 2007\n\nrelativo à constituição de uma empresa comum para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 171.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nTendo em conta o parecer do Comité Económico e Social Europeu,\n\nConsiderando o seguinte:\n\n(1) Para a realização do Céu Único Europeu, o Parlamento Europeu e o Conselho aprovaram, em 10 de Março de 2004, o Regulamento (CE) n.º 549/2004, que estabelece o quadro para a realização do Céu Único Europeu («regulamento-quadro») [([^1])](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntr1-L_2007064PT.01000101-E0001), o Regulamento (CE) n.º 550/2004 relativo à prestação de serviços de navegação aérea no Céu Único Europeu («regulamento relativo à prestação de serviços») [([^2])](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntr2-L_2007064PT.01000101-E0002), o Regulamento (CE) n.º 551/2004 relativo à organização e utilização do espaço aéreo no Céu Único Europeu («regulamento relativo ao espaço aéreo») [([^3])](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntr3-L_2007064PT.01000101-E0003) e o Regulamento (CE) n.º 552/2004 relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») [([^4])](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntr4-L_2007064PT.01000101-E0004).\n\n(2) O projecto de modernização da gestão do tráfego aéreo na Europa («Projecto SESAR»), constitui a componente tecnológica do Céu Único Europeu. O objectivo consiste em dotar a Comunidade, até 2020, de uma infra-estrutura de controlo do tráfego aéreo altamente eficaz, que permita desenvolver transportes aéreos seguros e respeitadores do ambiente, tirando pleno proveito dos progressos tecnológicos alcançados com programas como o GALILEO.\n\n(3) Na sequência da adesão da Comunidade Europeia ao Eurocontrol, a Comissão e o Eurocontrol assinaram um acordo-quadro de cooperação para a realização do Céu Único Europeu e para a realização de actividades de investigação e desenvolvimento no sector do controlo do tráfego aéreo.\n\n(4) De acordo com as orientações aprovadas pelo Conselho «Competitividade» de 7 de Junho de 2005 relativas à preparação do futuro Programa Espacial Europeu, a União Europeia deverá garantir a disponibilidade e a continuidade de serviços operacionais de apoio a essas políticas, bem como contribuir para o desenvolvimento, a implantação e o funcionamento de uma infra-estrutura espacial europeia, com especial destaque para as aplicações espaciais que visem contribuir para a realização das suas políticas.\n\n(5) O Projecto SESAR visa integrar e coordenar actividades de investigação e desenvolvimento anteriormente realizadas de forma dispersa e dessincronizada na Comunidade, incluindo as regiões mais afastadas e periféricas, previstas no n.º 2 do artigo 299.º do Tratado.\n\n(6) Evitando a duplicação de actividades de investigação e desenvolvimento, o Projecto SESAR não conduzirá ao aumento do montante global das contribuições dos utilizadores do espaço aéreo para os esforços de investigação e desenvolvimento.\n\n(7) O Projecto SESAR é composto por três fases: uma fase de definição, uma fase de desenvolvimento e uma fase de implementação.\n\n(8) A fase de definição do Projecto SESAR destina-se a estabelecer as várias etapas tecnológicas a vencer, as prioridades em termos de programas de modernização e os planos de implementação operacional. É co-financiada pela Comunidade e pela Organização Europeia para a Segurança da Navegação Aérea (Eurocontrol).\n\n(9) A fase de definição teve início em Outubro de 2005 e está a ser levada a efeito por um consórcio de empresas seleccionado por concurso público, sob a responsabilidade do Eurocontrol. Ficará concluída em 2008 e conduzirá ao Plano Director Europeu de Gestão do Tráfego Aéreo. Este plano definirá o programa de actividades para a aplicação dos conceitos a concretizar, incluindo as diferentes estratégias de implementação.\n\n(10) A fase de definição transformar-se-á na fase de desenvolvimento (2008-2013), em que serão desenvolvidos novos equipamentos, sistemas ou normas, que assegurarão a convergência para um sistema de gestão do tráfego aéreo globalmente interoperável na Europa.\n\n(11) A fase de desenvolvimento levará à fase de implementação (2014-2020), que consistirá numa produção e aplicação em larga escala da nova infra-estrutura do sistema de gestão do tráfego aéreo. A infra-estrutura será composta de componentes integralmente harmonizados e interoperáveis, que garantam um elevado desempenho das actividades de transportes aéreos na Europa.\n\n(12) Dado o número de intervenientes no processo e os meios financeiros e conhecimentos técnicos necessários, é vital, para a racionalização das actividades, criar uma entidade com personalidade jurídica, que possa assegurar a gestão dos fundos afectados ao Projecto SESAR na sua fase de desenvolvimento.\n\n(13) É, pois, necessário criar uma empresa comum ao abrigo do artigo 171.º do Tratado, que permita realizar progressos consideráveis em matéria de desenvolvimento de tecnologias relacionadas com os sistemas de controlo aéreo durante a fase de desenvolvimento e preparar a fase de implementação.\n\n(14) A principal actividade da Empresa Comum consiste na gestão das actividades de investigação, desenvolvimento e validação do Projecto SESAR, mediante a combinação de fundos públicos e privados fornecidos pelos seus membros e a utilização de recursos técnicos externos, aproveitando nomeadamente a experiência e o conhecimento especializado do Eurocontrol.\n\n(15) As actividades levadas a efeito pela Empresa Comum ao abrigo do Projecto SESAR são essencialmente de investigação e desenvolvimento. Assim sendo, o financiamento comunitário deverá ser pago em especial pelos seus programas-quadro de investigação e desenvolvimento. O financiamento suplementar poderá ser pago pelo programa relativo à rede transeuropeia de transportes, nos termos da alínea g) do artigo 4.º da Decisão n.º 1692/96/CE do Parlamento Europeu e do Conselho, de 23 de Julho de 1996, sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes [([^5])](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntr5-L_2007064PT.01000101-E0005), que prevê a possibilidade de financiar acções no domínio da investigação e desenvolvimento.\n\n(16) Nesta fase do projecto, o financiamento comunitário destinado à Empresa Comum deverá ser limitado à fase de desenvolvimento, bem como ao período abrangido pelas actuais perspectivas financeiras para 2007-2013. Todavia, isso não prejudica a possibilidade de o Conselho rever o âmbito, a gestão, o financiamento e a duração da Empresa Comum, em função dos progressos realizados na fase de desenvolvimento.\n\n(17) A participação substancial do sector da indústria é um elemento essencial do Projecto SESAR. Sendo assim, é fundamental que o orçamento público na fase de desenvolvimento do Projecto SESAR seja completado com contribuições provenientes da indústria.\n\n(18) A Empresa Comum deverá ser criada antes da conclusão da fase de definição do projecto, de modo a poder acompanhar os trabalhos desta fase e preparar a fase de desenvolvimento, com vista a assegurar a rápida execução do Plano Director Europeu de Gestão do Tráfego Aéreo.\n\n(19) O Conselho deverá decidir sobre a aprovação do Plano Director Europeu de Gestão do Tráfego Aéreo, incluindo a sua transferência para a Empresa Comum, a fim de modernizar a gestão do tráfego aéreo na Europa, e deverá igualmente, neste contexto, rever o financiamento do Projecto SESAR, em especial os compromissos de contribuições do sector industrial para a Empresa Comum.\n\n(20) A fim de facilitar a comunicação com os membros fundadores, a sede da Empresa Comum deverá ser estabelecida em Bruxelas.\n\n(21) A Empresa Comum é uma entidade sem fins lucrativos, que consagrará todos os recursos à gestão de um programa público de investigação de interesse europeu. Os seus dois membros fundadores são organismos internacionais agindo em nome dos respectivos Estados-Membros. Assim sendo, deverá ser concedida pelo Estado de acolhimento a esta entidade a mais ampla isenção fiscal, na medida do possível.\n\n(22) A Comissão deverá ser assistida pelo Comité do Céu Único instituído pelo artigo 5.º do Regulamento (CE) n.º 549/2004. As medidas necessárias para a execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^6])](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntr6-L_2007064PT.01000101-E0006).\n\n(23) A Comissão deverá informar regularmente o Parlamento Europeu e o Conselho sobre os progressos da Empresa Comum. Esta informação deverá ser feita mediante avaliações periódicas efectuadas pela Comissão e com base nos relatórios anuais de actividades da Empresa Comum.\n\n(24) As modalidades de organização e de funcionamento da Empresa Comum deverão ser instituídas pelos respectivos Estatutos, conforme definido no anexo.\n\n(25) Atendendo a que as taxas de rota são integralmente suportadas pelos utilizadores do espaço aéreo, estes contribuem financeiramente para o esforço de investigação e desenvolvimento no sector da gestão do tráfego aéreo. Nestas circunstâncias, deverá ser-lhes atribuída uma representação adequada na Empresa Comum.\n\n(26) O financiamento público nas fases de definição e desenvolvimento do Projecto SESAR é substancial e os investimentos num sistema de gestão de tráfego aéreo de nova geração deverão, em grande medida, ser feitos pelos Estados-Membros, incluindo pelas instâncias por eles designadas. Deste modo, deverão ser concedidos aos Estados-Membros (da União Europeia e/ou do Eurocontrol) direitos de acesso gratuitos aos conhecimentos resultantes do projecto, para fins não comerciais, bem como a autorização de utilizarem esses conhecimentos para os seus próprios objectivos, incluindo em concursos públicos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "7520aab9c643e402": {
+   "fragment_id": "Artigo 1.º — Constituição de uma empresa comum",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Constituição de uma empresa comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Constituição de uma empresa comum\n\n1. A fim de gerir as actividades da fase de desenvolvimento do projecto de modernização da gestão do tráfego aéreo na Europa e de reforçar a segurança («Projecto SESAR»), é constituída uma empresa comum denominada «Empresa Comum SESAR» («Empresa Comum»).\n\n2. A Empresa Comum deixará de existir oito anos após a aprovação do Plano Director Europeu de Gestão do Tráfego Aéreo («Plano Director ATM») pelo Conselho, resultante da fase de definição do Projecto SESAR. O Conselho decidirá sobre essa aprovação mediante proposta da Comissão.\n\n3. O Plano Director ATM será comunicado ao Parlamento Europeu.\n\n4. O âmbito, a gestão, o financiamento e a duração da Empresa Comum serão, quando necessário, revistos pelo Conselho, com base numa proposta da Comissão, em função da evolução do projecto e do Plano Director ATM, tendo em conta a avaliação a que se refere o artigo 7.º\n\n5. O objectivo da Empresa Comum consiste em assegurar a modernização do sistema de gestão do tráfego aéreo europeu, coordenando e congregando todos os esforços pertinentes realizados na Comunidade no domínio da investigação e desenvolvimento. A Empresa Comum é responsável pela execução do Plano Director ATM, nomeadamente pela execução das actividades seguintes:\n\n— organizar e coordenar a fase de desenvolvimento do Projecto SESAR, de acordo com o Plano Director ATM, resultante da fase de definição do projecto gerida pelo Eurocontrol, mediante a combinação e gestão, no âmbito de uma estrutura única, de fundos públicos e privados,\n\n— assegurar o necessário financiamento para a fase de desenvolvimento do Projecto SESAR de acordo com o Plano Director ATM,\n\n— assegurar a participação dos intervenientes do sector da gestão do tráfego aéreo na Europa, em especial os prestadores de serviços de navegação aérea, os utilizadores do espaço aéreo, as associações profissionais do pessoal, os aeroportos, e a indústria transformadora, bem como as relevantes instituições científicas ou comunidade científica,\n\n— organizar o trabalho técnico de investigação e desenvolvimento, de validação e de estudo a realizar sob a sua autoridade, evitando ao mesmo tempo a fragmentação destas actividades,\n\n— assegurar a supervisão das actividades relacionadas com o desenvolvimento de produtos comuns devidamente identificados no Plano Director ATM e, se necessário, lançar concursos específicos.\n\n6. A Empresa Comum entrará em funcionamento o mais tardar quando o Plano Director ATM tiver sido transferido para ela.\n\n7. A Empresa Comum terá a sede em Bruxelas."
+  },
+  "0596934d3bae86a3": {
+   "fragment_id": "Artigo 2.º — Estatuto legal",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Estatuto legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estatuto legal\n\n1. A Empresa Comum goza de personalidade jurídica. Em todos os Estados-Membros goza da máxima capacidade jurídica reconhecida às pessoas colectivas pelo direito nacional. Pode, designadamente, adquirir ou alienar bens móveis e imóveis e tem capacidade judiciária.\n\n2. Os Estados-Membros tomam todas as medidas necessárias para conceder à Empresa Comum a mais ampla isenção fiscal possível, no que se refere ao IVA, bem como a outros impostos e taxas."
+  },
+  "559395381ae91d79": {
+   "fragment_id": "Artigo 3.º — Estatutos da Empresa Comum",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Estatutos da Empresa Comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estatutos da Empresa Comum\n\nSão aprovados os Estatutos da Empresa Comum, tal como constam do anexo, e que constituem parte integrante do presente regulamento."
+  },
+  "5c9bd5d71e93acdc": {
+   "fragment_id": "Artigo 4.º — Fontes de financiamento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fontes de financiamento\n\n1. O financiamento da Empresa Comum provém das contribuições dos seus membros, incluindo de empresas privadas, nos termos dos artigos 1.º e 11.º dos Estatutos.\n\n2. A contribuição da Comunidade provém do orçamento do programa-quadro de investigação e desenvolvimento tecnológico. Pode provir igualmente do orçamento do programa-quadro das redes transeuropeias.\n\n3. Todas as contribuições financeiras comunitárias para a Empresa Comum cessam no termo das perspectivas financeiras para 2007-2013, salvo decisão em contrário do Conselho, mediante proposta da Comissão."
+  },
+  "ccfa1706690e9a8d": {
+   "fragment_id": "Artigo 5.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comité\n\n1. O Comité do Céu Único, instituído pelo artigo 5.º do Regulamento (CE) n.º 549/2004 («Comité»), é regularmente informado dos trabalhos da Empresa Comum. Para o efeito, a Comissão inclui o Projecto SESAR como ponto da ordem do dia das reuniões do Comité.\n\n2. A Comissão adopta a posição da Comunidade no Conselho de Administração.\n\n3. Todavia, a posição da Comunidade no Conselho de Administração sobre as decisões relativas à nomeação do director executivo, às questões financeiras estratégicas ou às decisões tomadas nos termos do artigo 23.º dos Estatutos é adoptada nos termos do n.º 2 do artigo 6.º do presente regulamento.\n\n4. A posição da Comunidade no Conselho de Administração sobre as decisões relativas à adesão de novos membros, à alteração dos Estatutos e a alterações significativas ao Plano Director ATM é adoptada nos termos do n.º 3 do artigo 6.º"
+  },
+  "5f6b5ad611530a73": {
+   "fragment_id": "Artigo 6.º — Comitologia",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Comitologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comitologia\n\n1. A Comissão é assistida pelo Comité a que se refere o artigo 5.º\n\n2. Sempre que seja feita referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que seja feita referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de um mês.\n\n4. A Comissão pode consultar o Comité sobre qualquer outra questão relacionada com a aplicação do presente regulamento.\n\n5. O Comité aprova o seu regulamento interno."
+  },
+  "b33da41482b4a86e": {
+   "fragment_id": "Artigo 7.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Avaliação\n\nDe três em três anos, a contar da data de início das actividades da Empresa Comum, e pelo menos um ano antes da cessação desta, a Comissão procede a avaliações da aplicação do presente regulamento, dos resultados obtidos pela Empresa Comum e dos seus métodos de trabalho, bem como da situação financeira geral da Empresa Comum. A Comissão apresenta os resultados destas avaliações ao Parlamento Europeu e ao Conselho."
+  },
+  "bd119fec551dddf2": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 27 de Fevereiro de 2007.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**P. STEINBRÜCK**\n\n---"
+  },
+  "87cae444da5ad859": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntc1-L_2007064PT.01000101-E0001) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntc2-L_2007064PT.01000101-E0002) [JO L 96 de 31.3.2004, p. 10](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntc3-L_2007064PT.01000101-E0003) [JO L 96 de 31.3.2004, p. 20](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntc4-L_2007064PT.01000101-E0004) [JO L 96 de 31.3.2004, p. 26](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntc5-L_2007064PT.01000101-E0005) [JO L 228 de 9.9.1996, p. 1](http://publications.europa.eu/resource/oj/JOL_1996_228_R_TOC). Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 do Conselho ([JO L 363 de 20.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_363_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/196e797f-f315-47af-b404-1ebb789643ab.0017.02/DOC_1#ntc6-L_2007064PT.01000101-E0006) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC). Decisão com a última redacção que lhe foi dada pela Decisão 2006/512/CE ([JO L 200 de 22.7.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_200_R_TOC))."
+  },
+  "1b3135a857a3c4b3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Fevereiro de 2007\n\nrelativo à constituição de uma empresa comum para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 171.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nTendo em conta o parecer do Comité Económico e Social Europeu,\n\n(1) Para a realização do Céu Único Europeu, o Parlamento Europeu e o Conselho aprovaram, em 10 de Março de 2004, o Regulamento (CE) n.º 549/2004, que estabelece o quadro para a realização do Céu Único Europeu («regulamento-quadro») ([^1^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0001)), o Regulamento (CE) n.º 550/2004 relativo à prestação de serviços de navegação aérea no Céu Único Europeu («regulamento relativo à prestação de serviços») ([^2^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0002)), o Regulamento (CE) n.º 551/2004 relativo à organização e utilização do espaço aéreo no Céu Único Europeu («regulamento relativo ao espaço aéreo») ([^3^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0003)) e o Regulamento (CE) n.º 552/2004 relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») ([^4^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0004)).\n\n(2) O projecto de modernização da gestão do tráfego aéreo na Europa («Projecto SESAR»), constitui a componente tecnológica do Céu Único Europeu. O objectivo consiste em dotar a Comunidade, até 2020, de uma infra-estrutura de controlo do tráfego aéreo altamente eficaz, que permita desenvolver transportes aéreos seguros e respeitadores do ambiente, tirando pleno proveito dos progressos tecnológicos alcançados com programas como o GALILEO.\n\n(3) Na sequência da adesão da Comunidade Europeia ao Eurocontrol, a Comissão e o Eurocontrol assinaram um acordo-quadro de cooperação para a realização do Céu Único Europeu e para a realização de actividades de investigação e desenvolvimento no sector do controlo do tráfego aéreo.\n\n(4) De acordo com as orientações aprovadas pelo Conselho «Competitividade» de 7 de Junho de 2005 relativas à preparação do futuro Programa Espacial Europeu, a União Europeia deverá garantir a disponibilidade e a continuidade de serviços operacionais de apoio a essas políticas, bem como contribuir para o desenvolvimento, a implantação e o funcionamento de uma infra-estrutura espacial europeia, com especial destaque para as aplicações espaciais que visem contribuir para a realização das suas políticas.\n\n(5) O Projecto SESAR visa integrar e coordenar actividades de investigação e desenvolvimento anteriormente realizadas de forma dispersa e dessincronizada na Comunidade, incluindo as regiões mais afastadas e periféricas, previstas no n.º 2 do artigo 299.º do Tratado.\n\n(6) Evitando a duplicação de actividades de investigação e desenvolvimento, o Projecto SESAR não conduzirá ao aumento do montante global das contribuições dos utilizadores do espaço aéreo para os esforços de investigação e desenvolvimento.\n\n(7) O Projecto SESAR é composto por três fases: uma fase de definição, uma fase de desenvolvimento e uma fase de implementação.\n\n(8) A fase de definição do Projecto SESAR destina-se a estabelecer as várias etapas tecnológicas a vencer, as prioridades em termos de programas de modernização e os planos de implementação operacional. É co-financiada pela Comunidade e pela Organização Europeia para a Segurança da Navegação Aérea (Eurocontrol).\n\n(9) A fase de definição teve início em Outubro de 2005 e está a ser levada a efeito por um consórcio de empresas seleccionado por concurso público, sob a responsabilidade do Eurocontrol. Ficará concluída em 2008 e conduzirá ao Plano Director Europeu de Gestão do Tráfego Aéreo. Este plano definirá o programa de actividades para a aplicação dos conceitos a concretizar, incluindo as diferentes estratégias de implementação.\n\n(10) A fase de definição transformar-se-á na fase de desenvolvimento (2008-2013), em que serão desenvolvidos novos equipamentos, sistemas ou normas, que assegurarão a convergência para um sistema de gestão do tráfego aéreo globalmente interoperável na Europa.\n\n(11) A fase de desenvolvimento levará à fase de implementação (2014-2020), que consistirá numa produção e aplicação em larga escala da nova infra-estrutura do sistema de gestão do tráfego aéreo. A infra-estrutura será composta de componentes integralmente harmonizados e interoperáveis, que garantam um elevado desempenho das actividades de transportes aéreos na Europa.\n\n(12) Dado o número de intervenientes no processo e os meios financeiros e conhecimentos técnicos necessários, é vital, para a racionalização das actividades, criar uma entidade com personalidade jurídica, que possa assegurar a gestão dos fundos afectados ao Projecto SESAR na sua fase de desenvolvimento.\n\n(13) É, pois, necessário criar uma empresa comum ao abrigo do artigo 171.º do Tratado, que permita realizar progressos consideráveis em matéria de desenvolvimento de tecnologias relacionadas com os sistemas de controlo aéreo durante a fase de desenvolvimento e preparar a fase de implementação.\n\n(14) A principal actividade da Empresa Comum consiste na gestão das actividades de investigação, desenvolvimento e validação do Projecto SESAR, mediante a combinação de fundos públicos e privados fornecidos pelos seus membros e a utilização de recursos técnicos externos, aproveitando nomeadamente a experiência e o conhecimento especializado do Eurocontrol.\n\n(15) As actividades levadas a efeito pela Empresa Comum ao abrigo do Projecto SESAR são essencialmente de investigação e desenvolvimento. Assim sendo, o financiamento comunitário deverá ser pago em especial pelos seus programas-quadro de investigação e desenvolvimento. O financiamento suplementar poderá ser pago pelo programa relativo à rede transeuropeia de transportes, nos termos da alínea g) do artigo 4.º da Decisão n.º 1692/96/CE do Parlamento Europeu e do Conselho, de 23 de Julho de 1996, sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes ([^5^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0005)), que prevê a possibilidade de financiar acções no domínio da investigação e desenvolvimento.\n\n(16) Nesta fase do projecto, o financiamento comunitário destinado à Empresa Comum deverá ser limitado à fase de desenvolvimento, bem como ao período abrangido pelas actuais perspectivas financeiras para 2007-2013. Todavia, isso não prejudica a possibilidade de o Conselho rever o âmbito, a gestão, o financiamento e a duração da Empresa Comum, em função dos progressos realizados na fase de desenvolvimento.\n\n(17) A participação substancial do sector da indústria é um elemento essencial do Projecto SESAR. Sendo assim, é fundamental que o orçamento público na fase de desenvolvimento do Projecto SESAR seja completado com contribuições provenientes da indústria.\n\n(18) A Empresa Comum deverá ser criada antes da conclusão da fase de definição do projecto, de modo a poder acompanhar os trabalhos desta fase e preparar a fase de desenvolvimento, com vista a assegurar a rápida execução do Plano Director Europeu de Gestão do Tráfego Aéreo.\n\n(19) O Conselho deverá decidir sobre a aprovação do Plano Director Europeu de Gestão do Tráfego Aéreo, incluindo a sua transferência para a Empresa Comum, a fim de modernizar a gestão do tráfego aéreo na Europa, e deverá igualmente, neste contexto, rever o financiamento do Projecto SESAR, em especial os compromissos de contribuições do sector industrial para a Empresa Comum.\n\n(20) A fim de facilitar a comunicação com os membros fundadores, a sede da Empresa Comum deverá ser estabelecida em Bruxelas.\n\n(21) A Empresa Comum é uma entidade sem fins lucrativos, que consagrará todos os recursos à gestão de um programa público de investigação de interesse europeu. Os seus dois membros fundadores são organismos internacionais agindo em nome dos respectivos Estados-Membros. Assim sendo, deverá ser concedida pelo Estado de acolhimento a esta entidade a mais ampla isenção fiscal, na medida do possível.\n\n(22) A Comissão deverá ser assistida pelo Comité do Céu Único instituído pelo artigo 5.º do Regulamento (CE) n.º 549/2004. As medidas necessárias para a execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0006)).\n\n(23) A Comissão deverá informar regularmente o Parlamento Europeu e o Conselho sobre os progressos da Empresa Comum. Esta informação deverá ser feita mediante avaliações periódicas efectuadas pela Comissão e com base nos relatórios anuais de actividades da Empresa Comum.\n\n(24) As modalidades de organização e de funcionamento da Empresa Comum deverão ser instituídas pelos respectivos Estatutos, conforme definido no anexo.\n\n(25) Atendendo a que as taxas de rota são integralmente suportadas pelos utilizadores do espaço aéreo, estes contribuem financeiramente para o esforço de investigação e desenvolvimento no sector da gestão do tráfego aéreo. Nestas circunstâncias, deverá ser-lhes atribuída uma representação adequada na Empresa Comum.\n\n(26) O financiamento público nas fases de definição e desenvolvimento do Projecto SESAR é substancial e os investimentos num sistema de gestão de tráfego aéreo de nova geração deverão, em grande medida, ser feitos pelos Estados-Membros, incluindo pelas instâncias por eles designadas. Deste modo, deverão ser concedidos aos Estados-Membros (da União Europeia e/ou do Eurocontrol) direitos de acesso gratuitos aos conhecimentos resultantes do projecto, para fins não comerciais, bem como a autorização de utilizarem esses conhecimentos para os seus próprios objectivos, incluindo em concursos públicos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ca30e7dd49f2f5d9": {
+   "fragment_id": "Artigo 1.º — Constituição de uma empresa comum",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Constituição de uma empresa comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Constituição de uma empresa comum\n\n1. A fim de gerir as actividades da fase de desenvolvimento do projecto de modernização da gestão do tráfego aéreo na Europa e de reforçar a segurança («Projecto SESAR»), é constituída uma empresa comum denominada «Empresa Comum SESAR» («Empresa Comum»).\n\n2. A empresa comum deixa de existir em 31 de Dezembro de 2016 ou oito anos após a aprovação do Plano Director Europeu de Gestão do Tráfego Aéreo («Plano Director ATM») pelo Conselho resultante da fase de definição do projecto SESAR, consoante o que ocorrer primeiro. O Conselho toma a decisão sobre essa aprovação mediante proposta da Comissão.\n\n3. O Plano Director ATM será comunicado ao Parlamento Europeu.\n\n4. O âmbito, a gestão, o financiamento e a duração da Empresa Comum serão, quando necessário, revistos pelo Conselho, com base numa proposta da Comissão, em função da evolução do projecto e do Plano Director ATM, tendo em conta a avaliação a que se refere o artigo 7.º\n\n5. O objectivo da Empresa Comum consiste em assegurar a modernização do sistema de gestão do tráfego aéreo europeu, coordenando e congregando todos os esforços pertinentes realizados na Comunidade no domínio da investigação e desenvolvimento. A Empresa Comum é responsável pela execução do Plano Director ATM, nomeadamente pela execução das actividades seguintes:\n\n— organizar e coordenar a fase de desenvolvimento do Projecto SESAR, de acordo com o Plano Director ATM, resultante da fase de definição do projecto gerida pelo Eurocontrol, mediante a combinação e gestão, no âmbito de uma estrutura única, de fundos públicos e privados,\n\n— assegurar o necessário financiamento para a fase de desenvolvimento do Projecto SESAR de acordo com o Plano Director ATM,\n\n— assegurar a participação dos intervenientes do sector da gestão do tráfego aéreo na Europa, em especial os prestadores de serviços de navegação aérea, os utilizadores do espaço aéreo, as associações profissionais do pessoal, os aeroportos, e a indústria transformadora, bem como as relevantes instituições científicas ou comunidade científica,\n\n— organizar o trabalho técnico de investigação e desenvolvimento, de validação e de estudo a realizar sob a sua autoridade, evitando ao mesmo tempo a fragmentação destas actividades,\n\n— assegurar a supervisão das actividades relacionadas com o desenvolvimento de produtos comuns devidamente identificados no Plano Director ATM e, se necessário, lançar concursos específicos.\n\n6. A Empresa Comum entrará em funcionamento o mais tardar quando o Plano Director ATM tiver sido transferido para ela.\n\n7. A Empresa Comum terá a sede em Bruxelas."
+  },
+  "8c044119698145bd": {
+   "fragment_id": "Artigo 2.º — Estatuto jurídico",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Estatuto jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estatuto jurídico\n\nA empresa comum é um organismo da Comunidade dotado de personalidade jurídica. Em cada Estado-Membro, goza da mais ampla capacidade jurídica reconhecida às pessoas colectivas pela lei desse Estado. Pode, nomeadamente, adquirir ou alienar bens móveis e imóveis e estar em juízo."
+  },
+  "e626a65032f2ea08": {
+   "fragment_id": "Artigo 2.º-A — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A — Pessoal\n\n1. O Estatuto dos Funcionários das Comunidades Europeias, o Regime aplicável aos outros agentes das Comunidades Europeias e a regulamentação de execução dessas disposições, aprovada de comum acordo pelas instituições das Comunidades Europeias, aplicam-se ao pessoal da empresa comum e ao seu director executivo.\n\n2. Sem prejuízo do n.º 2 do artigo 7.º dos seus Estatutos, a empresa comum exerce, no que respeita ao seu pessoal, os poderes conferidos pelo Estatuto dos Funcionários das Comunidades Europeias à autoridade competente para proceder a nomeações e pelo Regime aplicável aos outros agentes das Comunidades Europeias à entidade competente para celebrar contratos de trabalho.\n\n3. O Conselho de Administração aprova, em concertação com a Comissão, as medidas de execução necessárias a que se refere o n.º 1 do artigo 110.º do Estatuto dos Funcionários das Comunidades Europeias e o Regime aplicável aos outros agentes das Comunidades Europeias.\n\n4. Os efectivos são determinados no quadro de pessoal da empresa comum que constará do orçamento anual.\n\n5. O pessoal da empresa comum é constituído por agentes temporários e agentes contratuais com contratos a termo certo que só podem ser renovados uma vez e por um período fixo. O período total de vigência do contrato não excede oito anos e em caso algum pode ser superior ao período de existência da empresa comum.\n\n6. As despesas de pessoal são suportadas pela empresa comum."
+  },
+  "a606fd40701d408e": {
+   "fragment_id": "Artigo 2.º-B — Privilégios e imunidades",
+   "type": "artigo",
+   "heading": "Artigo 2.º-B — Privilégios e imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-B — Privilégios e imunidades\n\n1. O Protocolo relativo aos Privilégios e Imunidades das Comunidades Europeias é aplicável à empresa comum e, na medida em que estejam sujeitos às regras a que se refere o n.º 1 do artigo 2.º-A, ao seu pessoal e ao seu director executivo. No que diz respeito aos impostos e direitos aduaneiros, o Protocolo é aplicável à empresa com efeitos desde 15 de Outubro de 2008.\n\n2. Deve ser celebrado um acordo administrativo entre a empresa comum e a Bélgica no que diz respeito aos privilégios e imunidades e a outros apoios a conceder pela Bélgica à empresa comum."
+  },
+  "1b8105eda4ee7556": {
+   "fragment_id": "Artigo 2.º-C — Responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 2.º-C — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-C — Responsabilidade\n\n1. A responsabilidade contratual da empresa comum rege-se pelas disposições contratuais pertinentes e pela lei aplicável ao acordo ou ao contrato em causa.\n\n2. Em matéria de responsabilidade extracontratual, a empresa comum deve reparar, de acordo com os princípios gerais comuns ao direito dos Estados-Membros, os danos causados pelo seu pessoal no desempenho das suas funções.\n\n3. Os pagamentos da empresa comum no âmbito da responsabilidade referida nos n.^os^ 1 e 2, bem como os custos e despesas conexos incorridos, são considerados como despesas da empresa comum e cobertos pelos recursos da mesma.\n\n4. O cumprimento das obrigações da empresa comum é da sua exclusiva responsabilidade."
+  },
+  "e067387e9bb19e9d": {
+   "fragment_id": "Artigo 2.º-D — Competência do Tribunal de Justiça e lei aplicável",
+   "type": "artigo",
+   "heading": "Artigo 2.º-D — Competência do Tribunal de Justiça e lei aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-D — Competência do Tribunal de Justiça e lei aplicável\n\n1. O Tribunal de Justiça é competente para dirimir:\n\na) Qualquer litígio entre os membros respeitante à matéria que é objecto do presente regulamento e/ou aos Estatutos a que se refere o artigo 3.º;\n\nb) Com fundamento em cláusula compromissória constante dos acordos e contratos celebrados pela empresa comum;\n\nc) Acções intentadas contra a empresa comum, incluindo as decisões dos seus órgãos, nas condições previstas nos artigos 230.º e 232.º do Tratado;\n\nd) Litígios respeitantes à reparação de danos causados pelo pessoal da empresa comum no desempenho das suas funções.\n\n2. Para todas as matérias não abrangidas pelo presente regulamento ou por outros actos de direito comunitário, é aplicável a lei do Estado onde se encontra sediada a empresa comum."
+  },
+  "4e5cb81e11973668": {
+   "fragment_id": "Artigo 4.º — Fontes de financiamento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fontes de financiamento\n\n1. O financiamento da Empresa Comum provém das contribuições dos seus membros, incluindo de empresas privadas, nos termos dos artigos 1.º e 11.º dos Estatutos.\n\n2. A contribuição máxima da Comunidade é de 700 milhões de EUR, dos quais 350 milhões provêm da dotação orçamental atribuída à área temática «Transportes (incluindo aeronáutica)» do programa específico Cooperação do Sétimo Programa-Quadro de investigação e desenvolvimento tecnológico, e 350 milhões provêm do orçamento do programa-quadro para as redes transeuropeias para o período 2007-2013. A contribuição comunitária é paga de acordo com a alínea b) do n.º 2 do artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^7^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0007)) (a seguir designado «Regulamento Financeiro»).\n\nOs mecanismos aplicáveis à contribuição financeira comunitária são estabelecidos num acordo geral e em acordos de execução financeira anuais a celebrar entre a Comissão, em nome da Comunidade, e a empresa comum.\n\nO acordo geral deve prever o direito da Comissão de se opor à utilização da contribuição comunitária para fins que considere contrários aos princípios dos programas comunitários a que se refere o primeiro parágrafo ou ao seu Regulamento Financeiro ou prejudiciais aos interesses da Comunidade. Em caso de oposição da Comissão, a contribuição comunitária não pode ser utilizada pela empresa comum para esses fins.\n\n3. Todas as contribuições financeiras comunitárias para a Empresa Comum cessam no termo das perspectivas financeiras para 2007-2013, salvo decisão em contrário do Conselho, mediante proposta da Comissão."
+  },
+  "acb9cb300ace2fe9": {
+   "fragment_id": "Artigo 4.º-A — Regulamentação financeira",
+   "type": "artigo",
+   "heading": "Artigo 4.º-A — Regulamentação financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-A — Regulamentação financeira\n\n1. A empresa comum aprova a regulamentação financeira específica nos termos do n.º 1 do artigo 185.º do Regulamento Financeiro. Essa regulamentação pode divergir das regras estabelecidas pelo Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 23 de Dezembro de 2002, que institui o Regulamento Financeiro-Quadro dos organismos referidos no artigo 185.º do Regulamento Financeiro ([^8^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0008)), se as exigências específicas de funcionamento da empresa comum o impuserem e sob reserva do consentimento prévio da Comissão.\n\n2. A empresa comum tem uma estrutura própria de auditoria interna."
+  },
+  "49a6e268b4bae54c": {
+   "fragment_id": "Artigo 4.º-B — Quitação",
+   "type": "artigo",
+   "heading": "Artigo 4.º-B — Quitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-B — Quitação\n\nA quitação para a execução do orçamento do ano *n* da empresa comum é dada pelo Parlamento Europeu, por recomendação do Conselho, antes de 15 de Maio do ano n *+ 2*. Na regulamentação financeira da empresa comum, o Conselho de Administração estabelece o procedimento a seguir nas decisões de quitação, tendo em conta as características particulares decorrentes da natureza da empresa comum enquanto parceria público-privada e, em particular, da contribuição do sector privado para o orçamento."
+  },
+  "ba1475b16fde8a0c": {
+   "fragment_id": "Artigo 5.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comité\n\n1. O Comité do Céu Único, instituído pelo artigo 5.º do Regulamento (CE) n.º 549/2004 («Comité»), é regularmente informado dos trabalhos da Empresa Comum. Para o efeito, a Comissão inclui o Projecto SESAR como ponto da ordem do dia das reuniões do Comité.\n\n2. A Comissão adopta a posição da Comunidade no Conselho de Administração.\n\n3. Todavia, a posição da Comunidade no Conselho de Administração sobre as decisões relativas à nomeação do director executivo, às questões financeiras estratégicas ou às decisões tomadas nos termos do artigo 23.º dos Estatutos é adoptada nos termos do n.º 2 do artigo 6.º do presente regulamento.\n\n4. A posição da Comunidade no Conselho de Administração no que respeita às decisões relativas à adesão de novos membros e a alterações significativas ao Plano Director ATM é aprovada nos termos do n.º 3 do artigo 6.º"
+  },
+  "0c4af1b5cbbc19ea": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "db253c5a98dabbee": {
+   "fragment_id": "ESTATUTOS DA EMPRESA COMUM",
+   "type": "divisao",
+   "heading": "ESTATUTOS DA EMPRESA COMUM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTATUTOS DA EMPRESA COMUM"
+  },
+  "01d359aeb283950a": {
+   "fragment_id": "Artigo 1.º — Membros",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Membros\n\n1. São membros fundadores da Empresa Comum:\n\n— a Comunidade Europeia, representada pela Comissão Europeia («Comissão»),\n\n— a Organização Europeia para a Segurança da Navegação Aérea («Eurocontrol»), representada pela sua Agência.\n\n2. Podem ser membros da Empresa Comum:\n\n— o Banco Europeu de Investimento,\n\n— qualquer outra empresa pública ou privada ou instância, nomeadamente de países terceiros que tenham celebrado pelo menos um acordo no domínio do transporte aéreo com a Comunidade Europeia.\n\n3. Qualquer pedido de adesão nos termos do presente número será dirigido ao director executivo, que o transmitirá ao Conselho de Administração. O Conselho de Administração decide se deve autorizar negociações. Se a autorização for dada, o director executivo negoceia as condições de adesão e submete-as ao Conselho de Administração. Estas condições compreendem, nomeadamente, disposições relativas às contribuições financeiras e à representação no Conselho de Administração. O projecto de acordo é apresentado ao Conselho de Administração para aprovação nos termos da alínea d) do n.º 1 do artigo 5.º\n\n4. Ao decidir se deve autorizar negociações de adesão com uma empresa pública ou privada, o Conselho de Administração tem nomeadamente em conta os critérios seguintes:\n\n— os conhecimentos e a experiência comprovados em gestão de tráfego aéreo e/ou no fabrico de equipamento e/ou em serviços para utilização neste domínio,\n\n— a contribuição que se pode esperar da empresa ou instância para a execução do Plano Director ATM,\n\n— a solidez financeira da empresa ou instância,\n\n— potenciais conflitos de interesses.\n\n5. A qualidade de membro da Empresa Comum não pode ser cedida a terceiros sem acordo prévio e unânime do Conselho de Administração."
+  },
+  "6fc4565fa379d8ec": {
+   "fragment_id": "Artigo 2.º — Órgãos da Empresa Comum",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Órgãos da Empresa Comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Órgãos da Empresa Comum\n\nOs órgãos da Empresa Comum são o Conselho de Administração e o director executivo."
+  },
+  "75b92ef685a1a9bb": {
+   "fragment_id": "Artigo 3.º — Composição e presidência do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Composição e presidência do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição e presidência do Conselho de Administração\n\n1. O Conselho de Administração é composto por:\n\na) Um representante de cada membro da Empresa Comum;\n\nb) Um representante do sector militar;\n\nc) Um representante dos utilizadores civis do espaço aéreo, designado pela sua organização representativa a nível europeu;\n\nd) Um representante dos fornecedores de serviços de navegação aérea, designado pela sua organização representativa a nível europeu;\n\ne) Um representante dos fornecedores de equipamentos, designado pela sua organização representativa a nível europeu;\n\nf) Um representante dos aeroportos, designado pela sua organização representativa a nível europeu;\n\ng) Um representante dos organismos de representação do pessoal do sector da gestão do tráfego aéreo, designado pela sua organização representativa a nível europeu;\n\nh) Um representante das instituições científicas ou da comunidade científica relevantes, designado pela sua organização representativa a nível europeu.\n\n2. O Conselho de Administração é presidido pelo representante da Comunidade."
+  },
+  "81242ca80679d0e0": {
+   "fragment_id": "Artigo 4.º — Votação no Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Votação no Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Votação no Conselho de Administração\n\n1. Os representantes referidos nas alíneas a) e c) do n.º 1 do artigo 3.º têm direito de voto.\n\n2. Os membros da Empresa Comum têm um número de votos proporcional à sua contribuição para os fundos da Empresa Comum. Todavia, sem prejuízo do primeiro período do presente número, a Comunidade e o Eurocontrol têm, cada um, pelo menos 25 % do número total de votos e o representante dos utilizadores do espaço aéreo referido na alínea c) do n.º 1 do artigo 3.º tem pelo menos 10 % do número total de votos.\n\n3. Salvo disposição em contrário nos presentes Estatutos, as decisões do Conselho de Administração são aprovadas por maioria simples dos votos expressos.\n\n4. Em caso de igualdade de votos, o representante da Comunidade tem voto qualificado.\n\n5. As decisões relativas à adesão de novos membros (na acepção do n.º 2 do artigo 1.º), à nomeação do director executivo, a propostas de alterações aos presentes Estatutos, a propostas apresentadas à Comissão sobre a duração da Empresa Comum, à dissolução da Empresa Comum ou as decisões aprovadas nos termos do artigo 23.º requerem o voto favorável do representante da Comunidade no Conselho de Administração.\n\n6. As decisões relativas à aprovação do Plano Director ATM e respectivas alterações requerem os votos favoráveis dos membros fundadores. Sem prejuízo do n.º 1, essas decisões não são aprovadas quando os representantes referidos nas alíneas c), d), f) e g) do n.º 1 do artigo 3.º se manifestarem unanimemente contra."
+  },
+  "b0d7e23b178855d4": {
+   "fragment_id": "Artigo 5.º — Atribuições do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Atribuições do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições do Conselho de Administração\n\n1. O Conselho de Administração tem por atribuições, nomeadamente:\n\na) Aprovar o Plano Director ATM aprovado pelo Conselho tal como referido no n.º 2 do artigo 1.º do presente regulamento e aprovar quaisquer propostas de alteração deste;\n\nb) Estabelecer orientações e tomar as decisões necessárias à implementação da fase de desenvolvimento do Projecto SESAR e exercer um controlo global sobre a sua execução;\n\nc) Aprovar o plano de actividades da Empresa Comum e os planos de actividades anuais referidos no n.º 1 do artigo 16.º, bem como o orçamento anual, incluindo o quadro de pessoal;\n\nd) Autorizar negociações e decidir sobre a adesão de novos membros e sobre os respectivos acordos, nos termos do n.º 3 do artigo 1.º;\n\ne) Supervisionar a execução de acordos entre membros e a Empresa Comum;\n\nf) Nomear e demitir o director executivo e aprovar o organigrama;[**►M1**](http://publications.europa.eu/resource/celex/32008R1361) e acompanhar o desempenho do director executivo;**◄**\n\ng) Deliberar sobre os montantes e as modalidades de pagamento das contribuições financeiras dos membros e sobre os procedimentos para a avaliação das contribuições em espécie;\n\nh) Adoptar os [**►M1**](http://publications.europa.eu/resource/celex/32008R1361) regulamentação financeira**◄** da Empresa Comum;\n\ni) Aprovar as contas e o balanço anuais;\n\nj) Aprovar o relatório anual sobre a evolução da fase de desenvolvimento do projecto SESAR e a sua situação financeira a que se refere o n.º 2 do artigo 16.º;\n\nk) Deliberar sobre propostas apresentadas à Comissão relativas à duração e dissolução da Empresa Comum;\n\nl) Estabelecer as modalidades de concessão de direitos de acesso a activos que sejam propriedade da Empresa Comum, bem como as modalidades da respectiva transferência;\n\nm) Fixar as regras e procedimentos de adjudicação dos contratos necessários à execução do Plano Director ATM, incluindo os procedimentos específicos relativos a situações de conflito de interesses;\n\nn) Deliberar sobre propostas apresentadas à Comissão para alteração dos Estatutos, nos termos do artigo 24.º;\n\no) Exercer todos os restantes poderes e assumir todas as restantes funções, incluindo, se for caso disso, a criação dos órgãos subsidiários necessários à fase de desenvolvimento do Projecto SESAR;\n\np) Aprovar as disposições para aplicação do artigo 8.º\n\n2. O Conselho de Administração aprova o seu regulamento interno, que deve assegurar que os seus trabalhos decorram de maneira funcional e eficiente, nomeadamente no caso de expansão significativa dos membros. Estas regras devem incluir as seguintes disposições:\n\na) O Conselho de Administração reunirá pelo menos quatro vezes por ano. As reuniões extraordinárias terão lugar a pedido de um terço dos membros do Conselho de Administração, representativos de, pelo menos, 30 % dos direitos de voto, ou a pedido da Comunidade ou do director executivo;\n\nb) As reuniões terão em princípio lugar na sede da Empresa Comum;\n\nc) Salvo decisão em contrário em casos especiais, o director executivo participa nas reuniões;\n\nd) Procedimentos específicos para determinar e prevenir situações de conflito de interesses."
+  },
+  "5d749559a619c139": {
+   "fragment_id": "Artigo 6.º — Prevenção de situações de conflito de interesses",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Prevenção de situações de conflito de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prevenção de situações de conflito de interesses\n\n1. Os membros da Empresa Comum ou do Conselho de Administração e o pessoal da Empresa Comum não estão autorizados a participar na preparação, na avaliação ou no processo de adjudicação de contratos públicos se tiverem acordos de parceria com organismos que sejam potenciais candidatos aos concursos públicos ou se representarem esses organismos.\n\n2. Os membros da Empresa Comum e os membros do Conselho de Administração devem comunicar quaisquer interesses, pessoais ou colectivos, directos ou indirectos, que tenham no resultado das deliberações do Conselho de Administração relativamente a qualquer questão constante da ordem do dia. Este requisito é igualmente aplicável aos membros do pessoal em relação às tarefas que lhes competem.\n\n3. Com base na comunicação a que se refere o n.º 2, o Conselho de Administração pode decidir excluir membros, participantes ou membros do pessoal de decisões ou tarefas em que é susceptível de existir uma situação de conflito de interesses. Essas pessoas não terão direito a aceder a informações relacionadas com os domínios que sejam considerados de potencial conflito de interesses."
+  },
+  "87480536706c70be": {
+   "fragment_id": "Artigo 7.º — Director executivo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Director executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Director executivo\n\n1. O director executivo é responsável pela gestão corrente da Empresa Comum, sendo igualmente o seu representante legal. [▼M1](http://publications.europa.eu/resource/celex/32008R1361) O director executivo exerce, em relação ao pessoal, os poderes previstos no n.º 2 do artigo 2.º-A do Regulamento (CE) n.º 219/2007.\n\n2. O director executivo é nomeado pelo Conselho de Administração com base numa lista de, pelo menos, três candidatos proposta pela Comissão na sequência de um convite a manifestações de interesse publicado no *Jornal Oficial da União Europeia* e noutros meios de comunicação escrita ou na internet. O director executivo é nomeado por um período de três anos. Após uma avaliação pelo Conselho de Administração do desempenho do director executivo durante esse período, o seu mandato pode ser prolongado uma vez por um período não superior a quatro anos. Em qualquer caso, o mandato não pode exceder a duração da empresa comum definida no n.º 2 do artigo 1.º do Regulamento (CE) n.º 219/2007.\n\n3. O director executivo desempenha as suas funções com total independência, no âmbito dos poderes que lhe são atribuídos.\n\n4. O director executivo preside à execução do Projecto SESAR no quadro das orientações definidas pelo Conselho de Administração, perante o qual é responsável. Fornece ao Conselho de Administração todas as informações necessárias ao desempenho das suas funções.\n\n5. O director executivo deve, nomeadamente:\n\na) Contratar, dirigir e supervisionar o pessoal da empresa comum, incluindo o pessoal a que se refere o artigo 8.º;\n\nb) Organizar, dirigir e supervisionar as actividades da Empresa Comum;\n\nc) Submeter ao Conselho de Administração as suas propostas de organigrama;\n\nd) Elaborar e actualizar regularmente o plano de actividades global e anual da Empresa Comum, incluindo uma estimativa dos custos do programa, e submetê-los ao Conselho de Administração;\n\ne) Elaborar, nos termos do [**►M1**](http://publications.europa.eu/resource/celex/32008R1361) regulamentação financeira**◄**, o projecto de orçamento anual, incluindo o quadro de efectivos, e submetê-lo ao Conselho de Administração;\n\nf) Velar pelo cumprimento das obrigações assumidas pela Empresa Comum no que se refere aos contratos e convenções celebrados;\n\ng) Assegurar que as actividades da Empresa Comum são realizadas com total independência e sem conflito de interesses;\n\nh) Elaborar o relatório anual sobre a evolução do Projecto SESAR e a sua situação financeira, bem como qualquer outro relatório que seja solicitado pelo Conselho de Administração, e submetê-los a este último;\n\ni) Apresentar as contas e o balanço anuais ao Conselho de Administração;\n\nj) Submeter ao Conselho de Administração qualquer proposta que implique alterações na concepção do Projecto SESAR."
+  },
+  "f8d1ece93e875be8": {
+   "fragment_id": "Artigo 7.º-A — Função de auditoria interna",
+   "type": "artigo",
+   "heading": "Artigo 7.º-A — Função de auditoria interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-A — Função de auditoria interna\n\nAs funções confiadas ao auditor interno da Comissão pelo n.º 3 do artigo 185.º do Regulamento Financeiro são desempenhadas sob a responsabilidade do Conselho de Administração, que toma as disposições adequadas tendo em conta a dimensão e o âmbito da empresa comum."
+  },
+  "e80bf9e549955399": {
+   "fragment_id": "Artigo 8.º — Destacamento de pessoal para a empresa comum",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Destacamento de pessoal para a empresa comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Destacamento de pessoal para a empresa comum\n\nQualquer membro da empresa comum pode propor ao director executivo o destacamento de elementos do seu pessoal para a empresa comum, em conformidade com as condições previstas no acordo pertinente referido no n.º 3 do artigo 1.º dos presentes Estatutos. O pessoal destacado junto da empresa comum deve desempenhar as suas funções com total independência sob a supervisão do director executivo."
+  },
+  "03af66a589789d30": {
+   "fragment_id": "Artigo 9.º — Acordos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acordos\n\n1. Para executar as actividades definidas no n.º 5 do artigo 1.º do presente regulamento, a Empresa Comum pode celebrar acordos específicos com os seus membros.\n\n2. O papel e contribuição do Eurocontrol serão definidos num acordo com a Empresa Comum. Esse acordo deve:\n\na) Estabelecer acordos específicos de transferência e de utilização dos resultados da fase de definição para a Empresa Comum;\n\nb) Descrever as tarefas e atribuições do Eurocontrol na execução do Plano Director ATM sob a autoridade da Empresa Comum, nomeadamente:\n\ni) a organização das actividades de investigação, desenvolvimento e validação, de acordo com o plano de actividades da Empresa Comum,\n\nii) a coordenação dos desenvolvimentos comuns do futuro sistema sob a responsabilidade do Eurocontrol,\n\niii) a apresentação de propostas, após consulta aos intervenientes a que se refere o n.º 5 do artigo 1.º do presente regulamento, de eventuais alterações ao Plano Director ATM,\n\niv) a actualização dos indicadores de convergência (plano europeu de convergência e implementação, plano local de convergência e implementação),\n\nv) as relações com a Organização da Aviação Civil Internacional.\n\n3. Todos os acordos com membros devem conter disposições adequadas para prevenir eventuais conflitos de interesses relativamente aos membros no desempenho das suas tarefas ao abrigo dos referidos acordos.\n\n4. Os representantes dos membros da Empresa Comum não participam nas deliberações da Empresa Comum relativas a negociações sobre a celebração dos seus próprios acordos referidos no n.º 1 nem estão autorizados a aceder aos documentos relativos a essas deliberações."
+  },
+  "3800927d8fef1481": {
+   "fragment_id": "Artigo 10.º — Contratos externos",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Contratos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contratos externos\n\n1. Sem prejuízo do artigo 9.º, a Empresa Comum pode celebrar contratos de prestação de serviços e de fornecimento com empresas ou consórcios de empresas, nomeadamente para a realização das tarefas previstas no n.º 5 do artigo 1.º do presente regulamento.\n\n2. A Empresa Comum deve garantir que os contratos referidos no n.º 1 prevejam o direito de a Comissão efectuar controlos em nome da Empresa Comum para proteger os interesses financeiros da Comunidade.\n\n3. Os contratos referidos no n.º 1 devem conter todas as disposições adequadas em matéria de direitos de propriedade intelectual, conforme referido no artigo 18.º, bem como cláusulas adequadas em matéria de sanções. Para evitar conflitos de interesses, os membros implicados na definição de actividades sujeitas a concurso público, incluindo o pessoal destacado nos termos do n.º 4 do artigo 8.º, não podem participar na realização desses trabalhos."
+  },
+  "be7df1ff893dcefd": {
+   "fragment_id": "Artigo 11.º — Grupos de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Grupos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Grupos de trabalho\n\n1. Para realizar as actividades previstas no n.º 5 do artigo 1.º do presente regulamento, a Empresa Comum pode criar um número limitado de grupos de trabalho incumbidos de desenvolver actividades que não estejam já a ser desenvolvidas noutros contextos. Esses grupos apoiam-se nos conhecimentos técnicos de profissionais e realizam essas tarefas com transparência.\n\n2. Os peritos que participam nos grupos de trabalho não devem pertencer ao quadro de pessoal da Empresa Comum.\n\n3. Os grupos de trabalho são presididos por um representante da Empresa Comum."
+  },
+  "121b2bc31656d184": {
+   "fragment_id": "Artigo 12.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições financeiras\n\n1. As receitas da Empresa Comum provêm das fontes referidas no artigo 4.º do regulamento.\n\n2. Para o arranque das actividades da Empresa Comum, os membros fundadores contribuem com um montante inicial mínimo de 10 milhões de EUR, a pagar no prazo de um ano a contar da data de constituição da Empresa Comum.\n\n3. Os membros a que se refere o segundo travessão do n.º 2 do artigo 1.º comprometem-se a pagar, no prazo de um ano a contar da aprovação do seu pedido de adesão à Empresa Comum, uma contribuição inicial mínima de 10 milhões de EUR. No caso dos membros que aderem à Empresa Comum no prazo de doze meses a contar da constituição, este montante é reduzido para 5 milhões de EUR.\n\nNo caso das empresas que aderem a título individual ou colectivo, que possam ser qualificadas como pequenas ou médias na acepção da Recomendação da Comissão, de 6 de Maio de 2003, relativa à definição de pequenas e médias empresas ([^9^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0009)), este montante é reduzido para 250 000 EUR, independentemente do momento da sua adesão. Aos novos membros poderá ser oferecida a opção de pagarem a contribuição inicial em várias prestações, por um período a aprovar e a definir nos respectivos acordos a que se refere o n.º 3 do artigo 1.º\n\n4. O Conselho de Administração decide dos montantes a libertar por cada membro, na proporção das contribuições que este se comprometeu a pagar, e estabelece o prazo de pagamento dessas contribuições.\n\n5. São possíveis contribuições em espécie, salvo no que respeita às contribuições referidas no n.º 2. Estas serão objecto de uma avaliação do seu valor e utilidade para a realização das tarefas da Empresa Comum e serão especificadas no acordo a que se refere o n.º 3 do artigo 1.º\n\n6. Qualquer membro da Empresa Comum que não respeite os seus compromissos relativamente às participações em espécie ou não liberte o montante de que é devedor nos prazos previstos, perde o direito de voto no Conselho de Administração, por um período de seis meses a contar do termo do referido prazo. Se, findo o período de seis meses, essas obrigações ainda não tiverem sido cumpridas, perde a qualidade de membro."
+  },
+  "dcdbbce3625b74b6": {
+   "fragment_id": "Artigo 13.º — Receitas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Receitas\n\n1. As receitas da Empresa Comum destinam-se à realização das actividades referidas no n.º 5 do artigo 1.º do presente regulamento. Sem prejuízo do disposto no artigo 25.º, não será efectuado qualquer pagamento a favor dos membros da Empresa Comum resultante da redistribuição de eventuais excedentes de receitas em relação às despesas.\n\n2. Sem prejuízo das disposições regulamentares aplicáveis à contribuição comunitária, os eventuais juros produzidos pelas contribuições pagas pelos seus membros são considerados receitas da Empresa Comum."
+  },
+  "40533e8eb2e3c424": {
+   "fragment_id": "Artigo 15.º — Execução e controlo orçamental",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Execução e controlo orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Execução e controlo orçamental\n\n1. O exercício financeiro corresponde ao ano civil.\n\n2. Todos os anos, o director executivo transmite aos membros as estimativas de custos do projecto SESAR, conforme aprovadas pelo Conselho de Administração. O Conselho de Administração define, na regulamentação financeira da empresa comum, o procedimento a seguir para a transmissão das estimativas de custos.\n\n3. Os membros comunicam imediatamente ao director executivo as suas observações sobre as estimativas de custos do Projecto SESAR, nomeadamente de receitas e despesas previstas para o ano seguinte.\n\n4. Com base nas estimativas de custos aprovadas e tendo em conta as observações dos membros, o director executivo elabora o projecto de orçamento para o ano seguinte e submete-o ao Conselho de Administração para aprovação. O Conselho de Administração define, na regulamentação financeira da empresa comum, o procedimento a seguir para a apresentação do projecto de orçamento.\n\n5. Nos dois meses seguintes ao final de cada exercício financeiro, o director executivo apresenta as contas e o balanço anuais do ano precedente ao Tribunal de Contas das Comunidades Europeias. A fiscalização efectuada pelo Tribunal de Contas far-se-á no local, com base em documentos.\n\n6. O director executivo apresenta ao Conselho de Administração, para aprovação por maioria de 75 % dos votos expressos, as contas e o balanço anuais, acompanhados do relatório do Tribunal de Contas. O director executivo tem o direito e, a pedido do Conselho de Administração, a obrigação de comentar o relatório.\n\n7. O Tribunal de Contas transmite o seu relatório aos membros da Empresa Comum."
+  },
+  "20ecd4f8f1660b7b": {
+   "fragment_id": "Artigo 16.º — Plano de actividades e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Plano de actividades e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Plano de actividades e relatórios\n\n1. A Empresa Comum elabora o seu plano de actividades, com base nos princípios de boa gestão e responsabilidade, estabelecendo objectivos e marcos claros. O plano de actividades consiste:\n\na) Num plano de actividades global, dividido em períodos de trinta e seis meses;\n\nb) Em planos de actividades anuais estabelecidos anualmente, descrevendo as actividades, o calendário e os custos da Empresa Comum durante esse período.\n\n2. O relatório anual descreve a evolução do Projecto SESAR, nomeadamente no que respeita ao calendário, custos e resultados."
+  },
+  "58210ae60ce5bcd0": {
+   "fragment_id": "Artigo 17.º — Protecção dos interesses financeiros da Comunidade",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Protecção dos interesses financeiros da Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Protecção dos interesses financeiros da Comunidade\n\n1. A Comissão tem o direito de verificar que estão protegidos os interesses financeiros da Comunidade, através de uma fiscalização eficaz. Caso detecte irregularidades, a Comissão reserva-se o direito de reduzir ou suspender qualquer pagamento futuro à Empresa Comum.\n\n2. O montante reduzido ou suspenso nos termos do n.º 1 será equivalente ao montante das irregularidades efectivamente apuradas pela Comissão.\n\n3. Todas as decisões tomadas e os contratos celebrados pela empresa comum devem prever expressamente que o OLAF e o Tribunal de Contas podem proceder a inspecções no local aos documentos de todos os contratantes e subcontratantes que tenham beneficiado de fundos comunitários, inclusivamente nas instalações dos beneficiários finais."
+  },
+  "63a28740c0712244": {
+   "fragment_id": "Artigo 18.º — Direitos de propriedade",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Direitos de propriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direitos de propriedade\n\nA Empresa Comum detém a totalidade dos activos por si criados ou para si transferidos para a fase de desenvolvimento do Projecto SESAR, nos termos dos acordos de adesão celebrados pela Empresa Comum. A Empresa Comum pode conceder direitos de acesso aos conhecimentos resultantes do projecto, em especial aos seus membros e aos Estados-Membros da União Europeia e/ou do Eurocontrol, para os fins próprios destes e não comerciais."
+  },
+  "239864586382feec": {
+   "fragment_id": "Artigo 19.º — Transparência",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transparência\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^10^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0011)), é aplicável aos documentos na posse da empresa comum.\n\n2. A empresa comum aprova as regras práticas de execução do Regulamento (CE) n.º 1049/2001 até 1 de Julho de 2009.\n\n3. As decisões aprovadas pela empresa comum nos termos do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado."
+  },
+  "070d2c1c5a53126f": {
+   "fragment_id": "Artigo 20.º — Medidas antifraude",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Medidas antifraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Medidas antifraude\n\n1. Para efeitos de luta contra a fraude, a corrupção e outros actos ilícitos, é aplicável o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pela Organização Europeia de Luta Antifraude (OLAF) ([^11^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0012)).\n\n2. A Empresa Comum subscreve o Acordo Interinstitucional de 25 de Maio de 1999 entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias relativo aos inquéritos internos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^12^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0013)) e aprova imediatamente as disposições adequadas aplicáveis a todo o pessoal da Empresa Comum.\n\n3. O Tribunal de Contas e o OLAF podem, se necessário, efectuar controlos no local, junto dos beneficiários das dotações da Empresa Comum e dos agentes responsáveis pela atribuição dessas dotações."
+  },
+  "10dbb7173dc53406": {
+   "fragment_id": "Artigo 21.º — Seguros",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Seguros\n\nO director executivo propõe ao Conselho de Administração que subscreva os seguros necessários e a empresa comum subscreve os seguros que o Conselho de Administração indicar."
+  },
+  "9ac17d1f15e92062": {
+   "fragment_id": "Artigo 22.º — Confidencialidade",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Confidencialidade\n\nA Empresa Comum assegura a protecção das informações sensíveis cuja divulgação não autorizada possa prejudicar os interesses das partes contratantes. Aplica os princípios e normas mínimas de segurança definidos e aplicados pela Decisão 2001/264/CE do Conselho, de 19 de Março de 2001, que aprova as regras de segurança do Conselho ([^13^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#E0014))."
+  },
+  "fb83955c2f579110": {
+   "fragment_id": "Artigo 23.º — Transferência de activos pela Empresa Comum",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Transferência de activos pela Empresa Comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transferência de activos pela Empresa Comum\n\nNo termo do período referido no artigo 1.º do presente regulamento, a transferência pela Empresa Comum de parte ou da totalidade dos activos de sua propriedade para outro organismo deve ser aprovada pelo Conselho de Administração."
+  },
+  "958c121fa8bc4632": {
+   "fragment_id": "Artigo 24.º — Alteração dos Estatutos",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Alteração dos Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Alteração dos Estatutos\n\n1. Os membros da Empresa Comum podem submeter ao Conselho de Administração propostas de alteração dos presentes Estatutos.\n\n2. Se o Conselho de Administração concordar com as propostas referidas no n.º 1 por uma maioria de 75 % dos votos e de acordo com o n.º 5 do artigo 4.º dos presentes Estatutos, as propostas são submetidas enquanto projectos de alteração à apreciação da Comissão, que as deve aprovar, se adequado, nos termos do n.º 3 do artigo 6.º do Regulamento (CE) n.º 219/2007.\n\n3. Todavia, qualquer alteração que afecte os elementos essenciais dos presentes Estatutos, nomeadamente alterações aos seus artigos 1.º, 3.º, 4.º, 5.º, 7.º, 12.º, 17.º, 18.º, 19.º, 20.º, 22.º, 24.º e 25.º, deve ser aprovada nos termos do artigo 172.º do Tratado."
+  },
+  "8c7a41b5c3e60d8c": {
+   "fragment_id": "Artigo 25.º — Dissolução da Empresa Comum",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Dissolução da Empresa Comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Dissolução da Empresa Comum\n\nPara efeitos do processo de dissolução da Empresa Comum, o Conselho de Administração nomeia um ou mais liquidatários, que darão cumprimento às decisões por ele tomadas."
+  },
+  "aecb3dd62dd47e16": {
+   "fragment_id": "Artigo 26.º — Legislação aplicável",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Legislação aplicável\n\nNo caso das matérias não reguladas pelos presentes Estatutos, é aplicável a lei do Estado onde se situa a sede da Empresa Comum.\n\n---"
+  },
+  "12013dd01f058e71": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0003)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0004)) JO L 96 de 31.3.2004, p. 26.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0005)) JO L 228 de 9.9.1996, p. 1. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 do Conselho (JO L 363 de 20.12.2006, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23. Decisão com a última redacção que lhe foi dada pela Decisão 2006/512/CE (JO L 200 de 22.7.2006, p. 11).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0007)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0008)) JO L 357 de 31.12.2002, p. 72.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0009)) JO L 124 de 20.5.2003, p. 36.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0011)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0012)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0013)) JO L 136 de 31.5.1999, p. 15.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/19fda29a-85f7-4b20-bf97-c61484b65cdd.0018.03/DOC_1#src.E0014)) JO L 101 de 11.4.2001, p. 1. Decisão com a última redacção que lhe foi dada pela Decisão 2005/952/CE (JO L 346 de 29.12.2005, p. 18)."
+  },
+  "8d3fbdca9cfac6ba": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Fevereiro de 2007\n\nrelativo à constituição de uma empresa comum para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 171.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nTendo em conta o parecer do Comité Económico e Social Europeu,\n\n(1) Para a realização do Céu Único Europeu, o Parlamento Europeu e o Conselho aprovaram, em 10 de Março de 2004, o Regulamento (CE) n.º 549/2004, que estabelece o quadro para a realização do Céu Único Europeu («regulamento-quadro») ([^1^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0001)), o Regulamento (CE) n.º 550/2004 relativo à prestação de serviços de navegação aérea no Céu Único Europeu («regulamento relativo à prestação de serviços») ([^2^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0002)), o Regulamento (CE) n.º 551/2004 relativo à organização e utilização do espaço aéreo no Céu Único Europeu («regulamento relativo ao espaço aéreo») ([^3^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0003)) e o Regulamento (CE) n.º 552/2004 relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») ([^4^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0004)).\n\n(2) O projecto de modernização da gestão do tráfego aéreo na Europa («Projecto SESAR»), constitui a componente tecnológica do Céu Único Europeu. O objectivo consiste em dotar a Comunidade, até 2020, de uma infra-estrutura de controlo do tráfego aéreo altamente eficaz, que permita desenvolver transportes aéreos seguros e respeitadores do ambiente, tirando pleno proveito dos progressos tecnológicos alcançados com programas como o GALILEO.\n\n(3) Na sequência da adesão da Comunidade Europeia ao Eurocontrol, a Comissão e o Eurocontrol assinaram um acordo-quadro de cooperação para a realização do Céu Único Europeu e para a realização de actividades de investigação e desenvolvimento no sector do controlo do tráfego aéreo.\n\n(4) De acordo com as orientações aprovadas pelo Conselho «Competitividade» de 7 de Junho de 2005 relativas à preparação do futuro Programa Espacial Europeu, a União Europeia deverá garantir a disponibilidade e a continuidade de serviços operacionais de apoio a essas políticas, bem como contribuir para o desenvolvimento, a implantação e o funcionamento de uma infra-estrutura espacial europeia, com especial destaque para as aplicações espaciais que visem contribuir para a realização das suas políticas.\n\n(5) O Projecto SESAR visa integrar e coordenar actividades de investigação e desenvolvimento anteriormente realizadas de forma dispersa e dessincronizada na Comunidade, incluindo as regiões mais afastadas e periféricas, previstas no n.º 2 do artigo 299.º do Tratado.\n\n(6) Evitando a duplicação de actividades de investigação e desenvolvimento, o Projecto SESAR não conduzirá ao aumento do montante global das contribuições dos utilizadores do espaço aéreo para os esforços de investigação e desenvolvimento.\n\n(7) O Projecto SESAR é composto por três fases: uma fase de definição, uma fase de desenvolvimento e uma fase de implementação.\n\n(8) A fase de definição do Projecto SESAR destina-se a estabelecer as várias etapas tecnológicas a vencer, as prioridades em termos de programas de modernização e os planos de implementação operacional. É co-financiada pela Comunidade e pela Organização Europeia para a Segurança da Navegação Aérea (Eurocontrol).\n\n(9) A fase de definição teve início em Outubro de 2005 e está a ser levada a efeito por um consórcio de empresas seleccionado por concurso público, sob a responsabilidade do Eurocontrol. Ficará concluída em 2008 e conduzirá ao Plano Director Europeu de Gestão do Tráfego Aéreo. Este plano definirá o programa de actividades para a aplicação dos conceitos a concretizar, incluindo as diferentes estratégias de implementação.\n\n(10) A fase de definição transformar-se-á na fase de desenvolvimento (2008-2013), em que serão desenvolvidos novos equipamentos, sistemas ou normas, que assegurarão a convergência para um sistema de gestão do tráfego aéreo globalmente interoperável na Europa.\n\n(11) A fase de desenvolvimento levará à fase de implementação (2014-2020), que consistirá numa produção e aplicação em larga escala da nova infra-estrutura do sistema de gestão do tráfego aéreo. A infra-estrutura será composta de componentes integralmente harmonizados e interoperáveis, que garantam um elevado desempenho das actividades de transportes aéreos na Europa.\n\n(12) Dado o número de intervenientes no processo e os meios financeiros e conhecimentos técnicos necessários, é vital, para a racionalização das actividades, criar uma entidade com personalidade jurídica, que possa assegurar a gestão dos fundos afectados ao Projecto SESAR na sua fase de desenvolvimento.\n\n(13) É, pois, necessário criar uma empresa comum ao abrigo do artigo 171.º do Tratado, que permita realizar progressos consideráveis em matéria de desenvolvimento de tecnologias relacionadas com os sistemas de controlo aéreo durante a fase de desenvolvimento e preparar a fase de implementação.\n\n(14) A principal actividade da Empresa Comum consiste na gestão das actividades de investigação, desenvolvimento e validação do Projecto SESAR, mediante a combinação de fundos públicos e privados fornecidos pelos seus membros e a utilização de recursos técnicos externos, aproveitando nomeadamente a experiência e o conhecimento especializado do Eurocontrol.\n\n(15) As actividades levadas a efeito pela Empresa Comum ao abrigo do Projecto SESAR são essencialmente de investigação e desenvolvimento. Assim sendo, o financiamento comunitário deverá ser pago em especial pelos seus programas-quadro de investigação e desenvolvimento. O financiamento suplementar poderá ser pago pelo programa relativo à rede transeuropeia de transportes, nos termos da alínea g) do artigo 4.º da Decisão n.º 1692/96/CE do Parlamento Europeu e do Conselho, de 23 de Julho de 1996, sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes ([^5^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0005)), que prevê a possibilidade de financiar acções no domínio da investigação e desenvolvimento.\n\n(16) Nesta fase do projecto, o financiamento comunitário destinado à Empresa Comum deverá ser limitado à fase de desenvolvimento, bem como ao período abrangido pelas actuais perspectivas financeiras para 2007-2013. Todavia, isso não prejudica a possibilidade de o Conselho rever o âmbito, a gestão, o financiamento e a duração da Empresa Comum, em função dos progressos realizados na fase de desenvolvimento.\n\n(17) A participação substancial do sector da indústria é um elemento essencial do Projecto SESAR. Sendo assim, é fundamental que o orçamento público na fase de desenvolvimento do Projecto SESAR seja completado com contribuições provenientes da indústria.\n\n(18) A Empresa Comum deverá ser criada antes da conclusão da fase de definição do projecto, de modo a poder acompanhar os trabalhos desta fase e preparar a fase de desenvolvimento, com vista a assegurar a rápida execução do Plano Director Europeu de Gestão do Tráfego Aéreo.\n\n(19) O Conselho deverá decidir sobre a aprovação do Plano Director Europeu de Gestão do Tráfego Aéreo, incluindo a sua transferência para a Empresa Comum, a fim de modernizar a gestão do tráfego aéreo na Europa, e deverá igualmente, neste contexto, rever o financiamento do Projecto SESAR, em especial os compromissos de contribuições do sector industrial para a Empresa Comum.\n\n(20) A fim de facilitar a comunicação com os membros fundadores, a sede da Empresa Comum deverá ser estabelecida em Bruxelas.\n\n(21) A Empresa Comum é uma entidade sem fins lucrativos, que consagrará todos os recursos à gestão de um programa público de investigação de interesse europeu. Os seus dois membros fundadores são organismos internacionais agindo em nome dos respectivos Estados-Membros. Assim sendo, deverá ser concedida pelo Estado de acolhimento a esta entidade a mais ampla isenção fiscal, na medida do possível.\n\n(22) A Comissão deverá ser assistida pelo Comité do Céu Único instituído pelo artigo 5.º do Regulamento (CE) n.º 549/2004. As medidas necessárias para a execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0006)).\n\n(23) A Comissão deverá informar regularmente o Parlamento Europeu e o Conselho sobre os progressos da Empresa Comum. Esta informação deverá ser feita mediante avaliações periódicas efectuadas pela Comissão e com base nos relatórios anuais de actividades da Empresa Comum.\n\n(24) As modalidades de organização e de funcionamento da Empresa Comum deverão ser instituídas pelos respectivos Estatutos, conforme definido no anexo.\n\n(25) Atendendo a que as taxas de rota são integralmente suportadas pelos utilizadores do espaço aéreo, estes contribuem financeiramente para o esforço de investigação e desenvolvimento no sector da gestão do tráfego aéreo. Nestas circunstâncias, deverá ser-lhes atribuída uma representação adequada na Empresa Comum.\n\n(26) O financiamento público nas fases de definição e desenvolvimento do Projecto SESAR é substancial e os investimentos num sistema de gestão de tráfego aéreo de nova geração deverão, em grande medida, ser feitos pelos Estados-Membros, incluindo pelas instâncias por eles designadas. Deste modo, deverão ser concedidos aos Estados-Membros (da União Europeia e/ou do Eurocontrol) direitos de acesso gratuitos aos conhecimentos resultantes do projecto, para fins não comerciais, bem como a autorização de utilizarem esses conhecimentos para os seus próprios objectivos, incluindo em concursos públicos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c70776664fffaf5d": {
+   "fragment_id": "Artigo 1.º — Constituição de uma empresa comum",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Constituição de uma empresa comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Constituição de uma empresa comum\n\n1. A fim de gerir as actividades da fase de desenvolvimento do projecto de modernização da gestão do tráfego aéreo na Europa e de reforçar a segurança («Projecto SESAR»), é constituída uma empresa comum denominada «Empresa Comum SESAR» («Empresa Comum»).\n\n2. A Empresa Comum extingue-se em 31 de dezembro de 2024. A fim de ter em conta a duração do Horizonte 2020 — Programa-Quadro de Investigação e Inovação (2014-2020), criado pelo Regulamento (UE) n.º 1291/2013 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0007)) («Programa-Quadro Horizonte 2020»), os convites à apresentação de propostas no âmbito da Empresa Comum são lançados o mais tardar até 31 de dezembro de 2020. Em casos devidamente justificados, os convites à apresentação de propostas podem ser lançados até 31 de dezembro de 2021.\n\n4. O âmbito, a gestão, o financiamento e a duração da Empresa Comum serão, quando necessário, revistos pelo Conselho, com base numa proposta da Comissão, em função da evolução do projecto e do Plano Director ATM, tendo em conta a avaliação a que se refere o artigo 7.º\n\n5. O objectivo da Empresa Comum consiste em assegurar a modernização do sistema de gestão do tráfego aéreo europeu, coordenando e congregando todos os esforços pertinentes realizados na Comunidade no domínio da investigação e desenvolvimento. A Empresa Comum é responsável pela execução do Plano Director ATM, nomeadamente pela execução das actividades seguintes:\n\n— organizar e coordenar a fase de desenvolvimento do Projecto SESAR, de acordo com o Plano Director ATM, resultante da fase de definição do projecto gerida pelo Eurocontrol, mediante a combinação e gestão, no âmbito de uma estrutura única, de fundos públicos e privados,\n\n— assegurar o necessário financiamento para a fase de desenvolvimento do Projecto SESAR de acordo com o Plano Director ATM,\n\n— assegurar a participação dos intervenientes do sector da gestão do tráfego aéreo na Europa, em especial os prestadores de serviços de navegação aérea, os utilizadores do espaço aéreo, as associações profissionais do pessoal, os aeroportos, e a indústria transformadora, bem como as relevantes instituições científicas ou comunidade científica,\n\n— organizar o trabalho técnico de investigação e desenvolvimento, de validação e de estudo a realizar sob a sua autoridade, evitando ao mesmo tempo a fragmentação destas actividades,\n\n— assegurar a supervisão das atividades relacionadas com o desenvolvimento de produtos comuns devidamente identificados no Plano Diretor ATM, através de subvenções aos membros e das medidas mais adequadas, nomeadamente contratos públicos ou a concessão de subvenções na sequência de convites à apresentação de propostas, com vista a alcançar os objetivos do programa, nos termos do Regulamento (UE) n.º 1291/2013.\n\n6. A Empresa Comum entrará em funcionamento o mais tardar quando o Plano Director ATM tiver sido transferido para ela.\n\n7. A Empresa Comum terá a sede em Bruxelas."
+  },
+  "7cdb73c829ff41c5": {
+   "fragment_id": "Artigo 2.º-A — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A — Pessoal\n\n1. O Estatuto dos Funcionários das Comunidades Europeias, o Regime aplicável aos outros agentes das Comunidades Europeias e a regulamentação de execução dessas disposições, aprovada de comum acordo pelas instituições das Comunidades Europeias, aplicam-se ao pessoal da empresa comum e ao seu director executivo.\n\n2. Sem prejuízo do n.º 2 do artigo 7.º dos seus Estatutos, a empresa comum exerce, no que respeita ao seu pessoal, os poderes conferidos pelo Estatuto dos Funcionários das Comunidades Europeias à autoridade competente para proceder a nomeações e pelo Regime aplicável aos outros agentes das Comunidades Europeias à entidade competente para celebrar contratos de trabalho.\n\n3. O Conselho de Administração aprova, em concertação com a Comissão, as medidas de execução necessárias a que se refere o n.º 1 do artigo 110.º do Estatuto dos Funcionários das Comunidades Europeias e o Regime aplicável aos outros agentes das Comunidades Europeias.\n\n4. Os efectivos são determinados no quadro de pessoal da empresa comum que constará do orçamento anual.\n\n5. O pessoal da Empresa Comum é constituído por agentes temporários e agentes contratuais. O período total de vigência do contrato não pode, em caso algum, ser superior ao período de existência da Empresa Comum.\n\n6. As despesas de pessoal são suportadas pela empresa comum."
+  },
+  "d248fc028e2e95e5": {
+   "fragment_id": "Artigo 4.º — Fontes de financiamento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fontes de financiamento\n\n1. O financiamento da Empresa Comum provém das contribuições dos seus membros, incluindo de empresas privadas, nos termos dos artigos 1.º e 11.º dos Estatutos.\n\n2. A contribuição da União a título do quadro financeiro plurianual para 2014-2020, incluindo as contribuições da EFTA, provenientes das dotações orçamentais atribuídas ao Programa-Quadro Horizonte 2020 é de 585 000 000 EUR.\n\nAs modalidades da contribuição da União são estabelecidas num acordo geral e em acordos de execução financeira anuais a celebrar entre a Comissão, em nome da União, e a Empresa Comum. As modalidades incluem a apresentação dos dados necessários para assegurar que a Comissão possa cumprir as suas obrigações de difusão e comunicação de informações, inclusive no portal único para participantes, e através de outros meios eletrónicos de difusão geridos pela Comissão no âmbito do Programa-Quadro Horizonte 2020, bem como disposições relativas à publicação dos convites à apresentação de propostas da Empresa Comum, inclusive no portal único para participantes, e através de outros meios eletrónicos de difusão geridos pela Comissão no âmbito do Programa-Quadro Horizonte 2020.\n\nO acordo geral deve prever o direito da Comissão de se opor à utilização da contribuição comunitária para fins que considere contrários aos princípios dos programas comunitários a que se refere o primeiro parágrafo ou ao seu Regulamento Financeiro ou prejudiciais aos interesses da Comunidade. Em caso de oposição da Comissão, a contribuição comunitária não pode ser utilizada pela empresa comum para esses fins.\n\n3. Todas as contribuições financeiras da União para a Empresa Comum cessam no termo do quadro financeiro para 2014-2020, salvo decisão em contrário do Conselho, mediante proposta da Comissão."
+  },
+  "fe6488e2c41e9c58": {
+   "fragment_id": "Artigo 4.º-A — Regulamentação financeira",
+   "type": "artigo",
+   "heading": "Artigo 4.º-A — Regulamentação financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-A — Regulamentação financeira\n\n1. A regulamentação financeira aplicável à Empresa Comum é adotada pelo Conselho de Administração após consulta à Comissão. Só se afasta do disposto no Regulamento Financeiro-Quadro se as exigências específicas de funcionamento da Empresa Comum o impuserem e com o acordo prévio da Comissão."
+  },
+  "c4af97234dbb0dba": {
+   "fragment_id": "Artigo 5.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comité\n\n1. O Comité do Céu Único, instituído pelo artigo 5.º do Regulamento (CE) n.º 549/2004 («Comité»), é regularmente informado dos trabalhos da Empresa Comum. Para o efeito, a Comissão inclui o Projecto SESAR como ponto da ordem do dia das reuniões do Comité.\n\n2. A Comissão adota a posição da União no Conselho de Administração.\n\n4. Sem prejuízo do n.º 2 do presente artigo, a posição da União no Conselho de Administração no que respeita às decisões relativas a alterações significativas do Plano Diretor ATM é adotada pela Comissão através de atos de execução adotados pelo procedimento de exame a que se refere o artigo 6.º, n.º 2."
+  },
+  "edc4b6f14bcc392d": {
+   "fragment_id": "Artigo 6.º — Procedimento de Comité",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Procedimento de Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de Comité\n\n1. A Comissão é assistida pelo Comité do Céu Único, criado pelo Regulamento (CE) n.º 549/2004. Esse comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso que se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011. Na falta de parecer do comité, a Comissão não pode adotar o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011."
+  },
+  "fba1d027c9c2b663": {
+   "fragment_id": "Artigo 7.º — Avaliação intercalar e relatório",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Avaliação intercalar e relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Avaliação intercalar e relatório\n\nAté 30 de junho de 2017, a Comissão faz, com a assistência de peritos independentes, uma avaliações intercalar da aplicação do presente regulamento e dos resultados obtidos pela Empresa Comum, prestando particular atenção ao impacto e à efetividade desses resultados concretos alcançados durante o período em apreço, de acordo com o Plano Diretor ATM. Essa avaliação incide também sobre os métodos de trabalho e a situação financeira geral da Empresa Comum. A Comissão faz relatório dessa avaliação, o qual inclui as conclusões da mesma e as observações, da Comissão. A Comissão envia esse relatório ao Parlamento Europeu e ao Conselho até 31 de dezembro de 2017. Os resultados da avaliação intercalar da Empresa Comum são tidos em conta na avaliação aprofundada e na avaliação intercalar referidas no artigo 32.º do Regulamento (UE) n.º 1291/2013."
+  },
+  "c207765b15fc2715": {
+   "fragment_id": "Artigo 5.º — Atribuições do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Atribuições do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições do Conselho de Administração\n\n1. O Conselho de Administração tem por atribuições, nomeadamente:\n\na) Aprovar o Plano Director ATM aprovado pelo Conselho tal como referido no n.º 2 do artigo 1.º do presente regulamento e aprovar quaisquer propostas de alteração deste;\n\nb) Estabelecer orientações e tomar as decisões necessárias à implementação da fase de desenvolvimento do Projecto SESAR e exercer um controlo global sobre a sua execução;\n\nc) Aprovar o plano de actividades da Empresa Comum e os planos de actividades anuais referidos no n.º 1 do artigo 16.º, bem como o orçamento anual, incluindo o quadro de pessoal;\n\nd) Autorizar negociações e decidir sobre a adesão de novos membros e sobre os respectivos acordos, nos termos do n.º 3 do artigo 1.º;\n\ne) Supervisionar a execução de acordos entre membros e a Empresa Comum;\n\nf) Nomear e demitir o director executivo e aprovar o organigrama; [**►M1**](http://publications.europa.eu/resource/celex/32008R1361) e acompanhar o desempenho do director executivo;**◄**\n\ng) Deliberar sobre os montantes e as modalidades de pagamento das contribuições financeiras dos membros e sobre os procedimentos para a avaliação das contribuições em espécie;\n\nh) Adoptar os [**►M1**](http://publications.europa.eu/resource/celex/32008R1361) regulamentação financeira**◄** da Empresa Comum;\n\ni) Aprovar as contas e o balanço anuais;\n\nj) Aprovar o relatório anual sobre a evolução da fase de desenvolvimento do projecto SESAR e a sua situação financeira a que se refere o n.º 2 do artigo 16.º;\n\nk) Deliberar sobre propostas apresentadas à Comissão relativas à duração e dissolução da Empresa Comum;\n\nl) Estabelecer as modalidades de concessão de direitos de acesso a activos que sejam propriedade da Empresa Comum, bem como as modalidades da respectiva transferência;\n\nm) Estabelecer as regras e os procedimentos de adjudicação de contratos ou de concessão de subvenções e quaisquer outros acordos necessários à execução do Plano Diretor ATM, incluindo os procedimentos específicos destinados a evitar conflitos de interesses;\n\nn) Deliberar sobre propostas de alteração dos Estatutos apresentadas à Comissão;\n\no) Exercer todos os restantes poderes e assumir todas as restantes funções, incluindo, se for caso disso, a criação dos órgãos subsidiários necessários à fase de desenvolvimento do Projecto SESAR;\n\np) Aprovar as disposições para aplicação do artigo 8.º\n\n2. O Conselho de Administração aprova o seu regulamento interno, que deve assegurar que os seus trabalhos decorram de maneira funcional e eficiente, nomeadamente no caso de expansão significativa dos membros. Estas regras devem incluir as seguintes disposições:\n\na) O Conselho de Administração reúne-se pelo menos três vezes por ano. As reuniões extraordinárias são convocadas a pedido de um terço dos seus membros, representativos de, pelo menos, 30 % dos direitos de voto, a pedido da Comissão ou do diretor executivo;\n\nb) As reuniões terão em princípio lugar na sede da Empresa Comum;\n\nc) Salvo decisão em contrário em casos especiais, o director executivo participa nas reuniões;\n\nd) Procedimentos específicos para determinar e prevenir situações de conflito de interesses."
+  },
+  "3023ceceacc48655": {
+   "fragment_id": "Artigo 6.º — Prevenção de situações de conflito de interesses",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Prevenção de situações de conflito de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prevenção de situações de conflito de interesses\n\n1. Os membros da Empresa Comum ou do Conselho de Administração e o pessoal da Empresa Comum não estão autorizados a participar na preparação, na avaliação ou no processo de concessão de apoio financeiro da Empresa Comum, nomeadamente na sequência de concursos ou convites à apresentação de propostas, se forem proprietários, representarem ou tiverem celebrado acordos com organismos que sejam potenciais candidatos ou proponentes.\n\n2. Os membros da Empresa Comum e os membros do Conselho de Administração devem comunicar quaisquer interesses, pessoais ou colectivos, directos ou indirectos, que tenham no resultado das deliberações do Conselho de Administração relativamente a qualquer questão constante da ordem do dia. Este requisito é igualmente aplicável aos membros do pessoal em relação às tarefas que lhes competem.\n\n3. Com base na comunicação a que se refere o n.º 2, o Conselho de Administração pode decidir excluir membros, participantes ou membros do pessoal de decisões ou tarefas em que é susceptível de existir uma situação de conflito de interesses. Essas pessoas não terão direito a aceder a informações relacionadas com os domínios que sejam considerados de potencial conflito de interesses."
+  },
+  "e2d35ba99de572ea": {
+   "fragment_id": "Artigo 7.º — Director executivo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Director executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Director executivo\n\n1. O director executivo é responsável pela gestão corrente da Empresa Comum, sendo igualmente o seu representante legal. [**►M1**](http://publications.europa.eu/resource/celex/32008R1361) O director executivo exerce, em relação ao pessoal, os poderes previstos no n.º 2 do artigo 2.º-A do Regulamento (CE) n.º 219/2007.**◄**\n\n2. O diretor executivo é contratado como agente temporário da Empresa Comum, nos termos do artigo 2.º, alínea a), do Regime aplicável aos outros agentes. O diretor executivo é nomeado pelo Conselho de Administração de entre uma lista de candidatos proposta pela Comissão, na sequência de um processo de seleção aberto e transparente.\n\nPara fins de celebração do contrato de diretor executivo, a Empresa Comum é representada pelo presidente do Conselho de Administração.\n\nO mandato do diretor executivo tem uma duração de cinco anos. No final desse prazo, a Comissão procede a uma avaliação que tenha em conta a avaliação do desempenho do diretor executivo e as atividades e os desafios futuros da Empresa Comum.\n\nO Conselho de Administração, deliberando sob proposta da Comissão, que tenha em conta a avaliação referida no presente número, terceiro parágrafo, pode prorrogar, uma vez, o mandato do diretor executivo, por um período não superior a cinco anos.\n\nUm diretor executivo cujo mandato tenha sido prorrogado não pode, no termo do período global, participar noutro processo de seleção para o mesmo posto.\n\nO diretor executivo só pode ser destituído das suas funções por decisão do Conselho de Administração, deliberando sob proposta da Comissão.\n\n3. O director executivo desempenha as suas funções com total independência, no âmbito dos poderes que lhe são atribuídos.\n\n4. O director executivo preside à execução do Projecto SESAR no quadro das orientações definidas pelo Conselho de Administração, perante o qual é responsável. Fornece ao Conselho de Administração todas as informações necessárias ao desempenho das suas funções.\n\n5. O director executivo deve, nomeadamente:\n\na) Contratar, dirigir e supervisionar o pessoal da empresa comum, incluindo o pessoal a que se refere o artigo 8.º;\n\nb) Organizar, dirigir e supervisionar as actividades da Empresa Comum;\n\nc) Submeter ao Conselho de Administração as suas propostas de organigrama;\n\nd) Elaborar e actualizar regularmente o plano de actividades global e anual da Empresa Comum, incluindo uma estimativa dos custos do programa, e submetê-los ao Conselho de Administração;\n\ne) Elaborar, nos termos do [**►M1**](http://publications.europa.eu/resource/celex/32008R1361) regulamentação financeira**◄**, o projecto de orçamento anual, incluindo o quadro de efectivos, e submetê-lo ao Conselho de Administração;\n\nf) Velar pelo cumprimento das obrigações assumidas pela Empresa Comum no que se refere aos contratos e convenções celebrados;\n\ng) Assegurar que as actividades da Empresa Comum são realizadas com total independência e sem conflito de interesses;\n\nh) Elaborar o relatório anual sobre a evolução do Projecto SESAR e a sua situação financeira, bem como qualquer outro relatório que seja solicitado pelo Conselho de Administração, e submetê-los a este último;\n\ni) Apresentar as contas e o balanço anuais ao Conselho de Administração;\n\nj) Submeter ao Conselho de Administração qualquer proposta que implique alterações na concepção do Projecto SESAR."
+  },
+  "bc496f11362195b8": {
+   "fragment_id": "Artigo 9.º — Acordos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acordos\n\n1. Para executar as atividades definidas no artigo 1.º, n.º 5, do presente regulamento, a Empresa Comum pode celebrar acordos específicos com os seus membros e conceder-lhes subvenções nos termos da regulamentação financeira aplicável.\n\n2. O papel e contribuição do Eurocontrol serão definidos num acordo com a Empresa Comum. Esse acordo deve:\n\na) Estabelecer acordos específicos de transferência e de utilização dos resultados da fase de definição para a Empresa Comum;\n\nb) Descrever as tarefas e atribuições do Eurocontrol na execução do Plano Director ATM sob a autoridade da Empresa Comum, nomeadamente:\n\ni) a organização das actividades de investigação, desenvolvimento e validação, de acordo com o plano de actividades da Empresa Comum,\n\nii) a coordenação dos desenvolvimentos comuns do futuro sistema sob a responsabilidade do Eurocontrol,\n\niii) a apresentação de propostas, após consulta aos intervenientes a que se refere o n.º 5 do artigo 1.º do presente regulamento, de eventuais alterações ao Plano Director ATM,\n\niv) a actualização dos indicadores de convergência (plano europeu de convergência e implementação, plano local de convergência e implementação),\n\nv) as relações com a Organização da Aviação Civil Internacional.\n\n3. Todos os acordos com membros devem conter disposições adequadas para prevenir eventuais conflitos de interesses relativamente aos membros no desempenho das suas tarefas ao abrigo dos referidos acordos.\n\n4. Os representantes dos membros da Empresa Comum não participam nas deliberações da Empresa Comum relativas a negociações sobre a celebração dos seus próprios acordos referidos no n.º 1 nem estão autorizados a aceder aos documentos relativos a essas deliberações."
+  },
+  "06e975ab45deb81a": {
+   "fragment_id": "Artigo 10.º — Contratos e subvenções",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Contratos e subvenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contratos e subvenções\n\n1. Não obstante o artigo 9.º, a Empresa Comum pode celebrar contratos de prestação de serviços e de fornecimento ou convenções de subvenção com empresas ou consórcios de empresas, nomeadamente para a realização das atividades previstas no artigo 1.º, n.º 5, do presente regulamento.\n\n2. A Empresa Comum garante que os contratos e as convenções de subvenção a que se refere o n.º 1 prevejam o direito de a Comissão efetuar controlos a fim de garantir a proteção dos interesses financeiros da União.\n\n3. Os contratos e as convenções de subvenção a que se refere o n.º 1 devem conter todas as disposições adequadas em matéria de direitos de propriedade intelectual, a que se refere o artigo 18.º. Para evitar conflitos de interesses, os membros implicados na definição de atividades sujeitas a um processo de concurso ou de concessão de subvenções, incluindo o respetivo pessoal destacado nos termos do artigo 8.º, não podem participar na realização de tais atividades."
+  },
+  "5450e24d7058e056": {
+   "fragment_id": "Artigo 12.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições financeiras\n\n1. As receitas da Empresa Comum provêm das fontes referidas no artigo 4.º do regulamento.\n\n2. Para o arranque das actividades da Empresa Comum, os membros fundadores contribuem com um montante inicial mínimo de 10 milhões de EUR, a pagar no prazo de um ano a contar da data de constituição da Empresa Comum.\n\n3. Os membros a que se refere o artigo 1.º, n.º 2, segundo travessão, comprometem-se a pagar, no prazo de um ano a contar da aceitação do seu pedido de adesão à Empresa Comum, uma contribuição inicial mínima de 10 milhões de EUR. Este montante é reduzido para 5 milhões de EUR para os membros que aderem à Empresa Comum no prazo de 24 meses a contar da sua constituição ou a seguir a um convite à apresentação de candidaturas a novos membros.\n\nNo caso das empresas que aderem a título individual ou colectivo, que possam ser qualificadas como pequenas ou médias na acepção da Recomendação da Comissão, de 6 de Maio de 2003, relativa à definição de pequenas e médias empresas ([^8^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0008)), este montante é reduzido para 250 000 EUR, independentemente do momento da sua adesão. Aos novos membros poderá ser oferecida a opção de pagarem a contribuição inicial em várias prestações, por um período a aprovar e a definir nos respectivos acordos a que se refere o n.º 3 do artigo 1.º\n\n4. O Conselho de Administração decide dos montantes a libertar por cada membro, na proporção das contribuições que este se comprometeu a pagar, e estabelece o prazo de pagamento dessas contribuições.\n\n5. São possíveis contribuições em espécie, salvo no que respeita às contribuições referidas no n.º 2. Estas serão objecto de uma avaliação do seu valor e utilidade para a realização das tarefas da Empresa Comum e serão especificadas no acordo a que se refere o n.º 3 do artigo 1.º\n\n6. Qualquer membro da Empresa Comum que não respeite os seus compromissos relativamente às participações em espécie ou não liberte o montante de que é devedor nos prazos previstos, perde o direito de voto no Conselho de Administração, por um período de seis meses a contar do termo do referido prazo. Se, findo o período de seis meses, essas obrigações ainda não tiverem sido cumpridas, perde a qualidade de membro."
+  },
+  "4d2aae4b5857b0fb": {
+   "fragment_id": "Artigo 13.º — Receitas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Receitas\n\n1. As receitas da Empresa Comum destinam-se à realização das actividades referidas no n.º 5 do artigo 1.º do presente regulamento. Sem prejuízo do disposto no artigo 25.º, não será efectuado qualquer pagamento a favor dos membros da Empresa Comum resultante da redistribuição de eventuais excedentes de receitas em relação às despesas.\n\n2. Os juros produzidos pelas contribuições pagas pelos seus membros são considerados receitas da Empresa Comum."
+  },
+  "81592ef12598d0cf": {
+   "fragment_id": "Artigo 16.º — Plano de actividades e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Plano de actividades e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Plano de actividades e relatórios\n\na) Num plano de actividades global, dividido em períodos de trinta e seis meses;\n\nb) Em planos de actividades anuais estabelecidos anualmente, descrevendo as actividades, o calendário e os custos da Empresa Comum durante esse período.\n\n2. O relatório anual descreve a evolução do Projecto SESAR, nomeadamente no que respeita ao calendário, custos e resultados."
+  },
+  "c074e66c6c297cc5": {
+   "fragment_id": "Artigo 17.º — Proteção dos interesses financeiros da União",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Proteção dos interesses financeiros da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Proteção dos interesses financeiros da União\n\n1. A Empresa Comum toma as medidas adequadas para garantir que, quando forem executadas ações financiadas a título do presente regulamento, os interesses financeiros da União sejam protegidos mediante a aplicação de medidas preventivas contra a fraude, a corrupção e outras atividades ilícitas, uma fiscalização efetiva e, caso sejam detetadas irregularidades, a recuperação dos montantes indevidamente pagos e, quando se justificarem, a imposição de sanções eficazes, proporcionadas e dissuasivas.\n\n2. A Comissão, ou os seus representantes, e o Tribunal de Contas dispõem de competências para realizarem auditorias com base em documentação e no local, no que respeita a todos os beneficiários de subvenções, contratantes e subcontratantes que tenham recebido financiamento da União.\n\n3. O Organismo Europeu de Luta Antifraude («OLAF») é autorizado a efetuar verificações e inspeções no local aos operadores económicos direta ou indiretamente implicados em tais financiamentos, de acordo com os procedimentos previstos no Regulamento (Euratom, CE) n.º 2185/96 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0010)), tendo em vista determinar a existência de fraude, corrupção ou qualquer outra atividade ilícita que afete os interesses financeiros da União relacionados com uma convenção de subvenção ou uma decisão ou um contrato de financiamento pela União.\n\n4. Sem prejuízo dos n.^os^ 1, 2 e 3, os acordos de cooperação com organizações internacionais, as convenções de subvenção, as decisões e os contratos resultantes da aplicação do presente regulamento autorizam expressamente a Comissão, o Tribunal de Contas e o OLAF a realizarem tais auditorias, inspeções e verificações no local."
+  },
+  "a3b8c6b38729ad1c": {
+   "fragment_id": "Artigo 19.º — Transparência",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transparência\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^10^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0011)), é aplicável aos documentos na posse da empresa comum.\n\n2. A empresa comum aprova as regras práticas de execução do Regulamento (CE) n.º 1049/2001 até 1 de Julho de 2009.\n\n3. As decisões aprovadas pela empresa comum nos termos do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado."
+  },
+  "997f7d3414949ee6": {
+   "fragment_id": "Artigo 20.º — Medidas antifraude",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Medidas antifraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Medidas antifraude\n\n1. Para efeitos de luta contra a fraude, a corrupção e outros actos ilícitos, é aplicável o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pela Organização Europeia de Luta Antifraude (OLAF) ([^11^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0012)).\n\n2. A Empresa Comum subscreve o Acordo Interinstitucional de 25 de Maio de 1999 entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias relativo aos inquéritos internos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^12^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0013)) e aprova imediatamente as disposições adequadas aplicáveis a todo o pessoal da Empresa Comum.\n\n3. O Tribunal de Contas e o OLAF podem, se necessário, efectuar controlos no local, junto dos beneficiários das dotações da Empresa Comum e dos agentes responsáveis pela atribuição dessas dotações."
+  },
+  "be93eac0a73257d0": {
+   "fragment_id": "Artigo 22.º — Confidencialidade",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Confidencialidade\n\nA Empresa Comum assegura a protecção das informações sensíveis cuja divulgação não autorizada possa prejudicar os interesses das partes contratantes. Aplica os princípios e normas mínimas de segurança definidos e aplicados pela Decisão 2001/264/CE do Conselho, de 19 de Março de 2001, que aprova as regras de segurança do Conselho ([^13^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#E0014))."
+  },
+  "0777d01aebde086c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0003)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0004)) JO L 96 de 31.3.2004, p. 26.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0005)) JO L 228 de 9.9.1996, p. 1. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 do Conselho (JO L 363 de 20.12.2006, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23. Decisão com a última redacção que lhe foi dada pela Decisão 2006/512/CE (JO L 200 de 22.7.2006, p. 11).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0007)) Regulamento (UE) n.º 1291/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, que cria o Horizonte 2020 — Programa-Quadro de Investigação e Inovação (2014-2020), e que revoga a Decisão n.º 1982/2006/CE (JO L 347 de 20.12.2013, p. 104).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0008)) JO L 124 de 20.5.2003, p. 36.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0010)) Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades (JO L 292 de 15.11.1996, p.2).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0011)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0012)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0013)) JO L 136 de 31.5.1999, p. 15.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/7f3484fe-dc3e-4555-baba-31f7d55dfb47.0015.02/DOC_1#src.E0014)) JO L 101 de 11.4.2001, p. 1. Decisão com a última redacção que lhe foi dada pela Decisão 2005/952/CE (JO L 346 de 29.12.2005, p. 18)."
+  },
+  "22c48c10baf4995c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02007R0219 — PT — 30.11.2021 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32007R0219) [REGULAMENTO (CE) N.º 219/2007 DO CONSELHO](http://publications.europa.eu/resource/celex/32007R0219) [de 27 de Fevereiro de 2007](http://publications.europa.eu/resource/celex/32007R0219) [relativo à constituição de uma empresa comum para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR)](http://publications.europa.eu/resource/celex/32007R0219) (JO L 064, 2.3.2007, p.1)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2021/2085 do Conselho de 19 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R2085) — L 427 — 17 — 30.11.2021"
+  }
+ }
+}

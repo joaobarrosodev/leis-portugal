@@ -1,0 +1,1041 @@
+---
+schema_version: '1.0'
+id: pt:dre:1312023:por
+title: Declaração de Rectificação n.º 2314/2009
+short_title: null
+summary: Rectificação da declaração de rectificação n.º 2054/2009, de 24 de Agosto - Procedimento concursal de contratação
+  em regime de contrato de trabalho em funções públicas por tempo indeterminado de 57 postos de trabalho
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional - Instituto Financeiro para o Desenvolvimento
+  Regional, I. P.
+proposing_entity: null
+official_number: 2314/2009
+official_date: null
+publication_date: '2009-09-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 181/2009, Série II de 2009-09-17
+  number: '181'
+  series: II
+  supplement: null
+  pages: 37974 - 37979
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/09/181000000/3797437979.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1312023'
+  dre_path: /dr/detalhe/declaracao-rectificacao/2314-2009-1312023
+  internal: pt:dre:1312023:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2314-2009-1312023
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2314-2009-1312023
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:06:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: df1b08ab17a58c19022c493b518db6f4619cd6395871bbd4b7f4953c8c7c3a01
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:06:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:1116545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1142925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2209190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3119835:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:06:19Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 2314/2009
+
+Rectificação da [Declaração de Rectificação n.º 2054/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2054-2009-3119835) de 24/08, do [Anúncio n.º 6333/2009](https://diariodarepublica.pt/dr/detalhe/anuncio/6333-2009-2209190) de 13/08/2009. - Procedimento concursal de contratação em regime de contrato de trabalho em funções públicas por tempo indeterminado de 57 postos de trabalho.
+
+1 - Através da [Declaração de Rectificação n.º 2054/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2054-2009-3119835) de 24/08, pretendia-se, entre outras situações, corrigir no [Anúncio n.º 6333/2009](https://diariodarepublica.pt/dr/detalhe/anuncio/6333-2009-2209190) um erro ortográfico praticado em diversas fórmulas da avaliação curricular e da entrevista profissional de selecção, que resultava da existência de um parêntese indevido no final de cada fórmula, o qual, todavia, não tinha qualquer efeito matemático; contudo, por lapso, reproduziu-se com inexactidão um conjunto de fórmulas a alterar que, na verdade, não constavam do Anúncio, pelo que se deverá sanar este erro procedendo a nova rectificação.
+
+2 - Nestes termos, de acordo com o disposto no n.º 2 do artigo 9.º do Regulamento de Publicação de Actos no Diário da República, aprovado pelo [Despacho Normativo n.º 35-A/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-a-2008-1116545), de 29 de Julho, na redacção dada pelo [Despacho Normativo n.º 13/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2009-1142925), de 1 de Abril, declara-se que a Declaração de Rectificação supra mencionada, publicada no Diário da República, 2.ª série, n.º 163 de 24 de Agosto de 2009, saiu com as seguintes inexactidões, que agora se rectificam:
+
+No Anexo, ref. A6) área de apoio à gestão institucional - ref.ª A.6.3) Recursos Humanos
+
+Onde se lê:
+
+«EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1 x P + 0,5 x D + 1,5 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12»
+
+Deve ler-se:
+
+«EPS=(1,5 x PO + 1,0 x OR + 1,5 x ARP + 1,0 x AM + 1 x OQ + 1 x P + 0,5 x D + 1,0 x GC + 1 x C + 1,5 x RI + 0,5 x MP + 0,5 x EF)/12».
+
+No Anexo, ref. A8) Área de sistemas de informação - Ref.ª A.8.1) Sistemas de Informação - Tecnologia I
+
+Onde se lê:
+
+«EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1 x P + 0,5 x D + 1,5 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12»
+
+Deve ler-se:
+
+«EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 1 x AM + 1 x OQ + 0,5 x P + 1 x D + 1 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12».
+
+No Anexo, ref. A8) Área de sistemas de informação - Ref.ª A.8.2) Sistemas de Informação - Acompanhamento das áreas funcionais
+
+Onde se lê:
+
+«AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4»
+
+Deve ler-se:
+
+«AC = (0,5 x HA + 0,5 x FP + 2,75 x EP + 0,25 x AD)/4».
+
+No Anexo, ref. A8) Área de sistemas de informação - Ref.ª A.8.2) Sistemas de Informação - Acompanhamento das áreas funcionais
+
+Onde se lê:
+
+«EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1 x P + 0,5 x D + 1,5 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12»
+
+Deve ler-se:
+
+«EPS=(1,5 x PO + 1 x OR + 1,5 x ARP + 1 x AM + 1 x OQ + 1 x P + 0,5 x D + 1 x GC + 1 x C + 1,5 x RI + 0,5 x MP + 0,5 x EF)/12».
+
+No Anexo, ref. A8) Área de sistemas de informação - Ref.ª A.8.3) Sistemas de Informação - Tecnologia II
+
+Onde se lê:
+
+«EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1 x P + 0,5 x D + 1,5 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12»
+
+Deve ler-se:
+
+«EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1,5 x OQ + 1 x P + 1 x D + 1 x GC + 0,5 x C + 0,5 x RI + 0,5 x MP + 1 x EF)/12».
+
+No Anexo, ref. A9) Área de documentação técnica
+
+Onde se lê:
+
+«EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1 x P + 0,5 x D + 1,5 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12»
+
+Deve ler-se:
+
+«EPS=(1 x PO + 1 x OR + 1,5 x ARP + 1 x AM + 1 x OQ + 1 x P + 1 x D + 1 x GC + 1 x C + 1 x RI + 0,5 x MP + 1 x EF)/12».
+
+No Anexo, ref. A10) Secretariado de Alta Direcção
+
+Onde se lê:
+
+«AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4»
+
+Deve ler-se:
+
+«AC = (0,5 x HA + 0,5 x FP + 2,75 x EP + 0,25 x AD)/4».
+
+No Anexo, ref. A10) Secretariado de Alta Direcção
+
+Onde se lê:
+
+«EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1 x P + 0,5 x D + 1,5 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12»
+
+Deve ler-se:
+
+«EPS=(1,5 x PO + 1 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1 x P + 1 x D + 0,5 x GC + 1 x C + 1,5 x RI + 0,5 x MP + 1 x EF)/12».
+
+No Anexo, ref. A11) área de secretariado
+
+Onde se lê:
+
+«EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1 x P + 0,5 x D + 1,5 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12»
+
+Deve ler-se:
+
+«EPS=(1,5 x PO + 0,5 x OR + 1,5 x ARP + 1 x AM + 1 x OQ + 1 x P + 1 x D + 0,5 x GC + 1,5 x C + 1,5 x RI + 0,5 x MP + 0,5 x EF)/12».
+
+No Anexo, ref. A12) Motorista
+
+Onde se lê:
+
+«EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1 x P + 0,5 x D + 1,5 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12»
+
+Deve ler-se:
+
+«EPS=(1 x PO + 1 x OR + 1 x ARP + 1 x AM + 0,5 x OQ + 1,5 x P + 1,5 x D + 0,5 x GC + 1,5 x C + 1,5 x RI + 0,5 x MP + 0,5 x EF)/12».
+
+3 - Ao abrigo do disposto na segunda parte do n.º 3 do artigo 9.º do Regulamento de Publicação de Actos no Diário da República, aprovado pelo [Despacho Normativo n.º 35-A/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-a-2008-1116545), de 29 de Julho, na redacção dada pelo [Despacho Normativo n.º 13/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2009-1142925), de 1 de Abril, com vista a assegurar uma informação objectiva e inequívoca das fórmulas matemáticas que irão ser utilizadas na avaliação dos candidatos, republica-se em anexo à presente Declaração de Rectificação, da qual faz parte integrante, o Anexo do [Anúncio n.º 6333/2009](https://diariodarepublica.pt/dr/detalhe/anuncio/6333-2009-2209190) de 13/8/2009, na versão corrigida.
+
+10 de Setembro de 2009. - O Vice-Presidente do Conselho Directivo, Eliseu Fernandes.
+
+## ANEXO
+
+(Republicação do Anexo do [Anúncio n.º 6333/2009](https://diariodarepublica.pt/dr/detalhe/anuncio/6333-2009-2209190), publicado no Diário da República, 2.ª série, n.º 156 de 13 de Agosto, na versão corrigida, a que se refere o n.º 3 da presente Declaração de Rectificação)
+
+Caracterização dos postos de trabalho
+
+Ref. A1) Área de Auditoria e Controlo
+
+Carreira técnica superior - 13 Postos de Trabalho
+
+Actividades:
+
+Realização de auditorias, desenvolvidas no âmbito da aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, com destaque para a vertente da conciliação físico-financeira e das verificações aos procedimentos de contratação pública;
+
+Execução de tarefas ao nível de: auditorias internas de controlo e monitorização do cumprimento dos normativos regulamentares e legais vigentes; monitorização do grau de execução das ferramentas de gestão; apoio ao planeamento de gestão organizacional; elaboração de planos de auditoria, controlo e monitorização.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em Gestão, Direito, Economia, Contabilidade, Auditoria ou Engenharia.
+
+Experiência Profissional: Experiência mínima de 3 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas.
+
+Técnicos:
+
+Conhecimentos da organização e funcionamento da Administração Pública, Direito Administrativo, Código do Procedimento Administrativo, Direito Comunitário, Código da Contratação Pública, e de contabilidade pública, nomeadamente POCP e POCAL;
+
+Normas de auditoria;
+
+Controlo e monitorização da aplicação dos Fundos Comunitários no âmbito dos quadros comunitários de apoio e do QREN;
+
+Sólidos conhecimentos de informática na óptica do utilizador, em ferramentas/software em ambiente Microsoft Office;
+
+Bom domínio da língua inglesa e ou francesa.
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1,5 x P + 0,5 x D + 1 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Quirino Manuel Dias do Nascimento Mealha
+
+1.º Vogal: Joana do Ó dos Santos Coradinho
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Ana Paula Figueiredo Duarte
+
+2.º Vogal suplente: Sílvia Maria da Silva Estevão
+
+Ref. A2) Área de Comunicação
+
+Carreira técnica superior - 1 Posto de Trabalho
+
+Actividades:
+
+Execução de tarefas ao nível da actualização de conteúdos do site institucional; elaboração e revisão de textos (redacção e conteúdos), desenvolvimento de planos de comunicação.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em Comunicação Social, variante de Relações Públicas, Publicidade e Marketing
+
+Experiência Profissional: Experiência mínima de 5 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas.
+
+Técnicos:
+
+Conhecimentos sobre a elaboração de textos profissionais;
+
+Princípios de escrita eficaz, privilegiando o incremento da legibilidade dos documentos;
+
+Estratégias de comunicação em ambientes de Administração Pública;
+
+Conhecimentos de ferramentas informáticas (na óptica do utilizador) directamente relacionadas com a função, bem como no âmbito de edição de texto e de páginas Dreamweaver
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1 x PO + 1,5 x OR + 1 x ARP + 1,5 x AM + 1 x OQ + 1 x P + 1 x D + 0,5 x GC + 1 x C + 1 x RI + 0,5 x MP + 1 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Paulo Jorge dos Santos Emerenciano
+
+1.º Vogal: Maria Albina de Sousa Martinho
+
+2.º Vogal: Cidália Maria de Jesus Marcelino Pereira
+
+1.º Vogal suplente: Maria Rita Bustorff Brito Vinhas
+
+2.º Vogal suplente: Vítor Manuel Rolo dos Santos
+
+Ref. A3) Área de Apoio Jurídico-Contencioso
+
+Carreira técnica superior - 3 Postos de Trabalho
+
+Actividades:
+
+Prestar apoio jurídico em matérias relacionadas com os fundos estruturais e de coesão - FEDER e Fundo de Coesão;
+
+Preparação de projectos de diplomas legais relacionados com as actividades e competências institucionais do organismo;
+
+Acompanhamento de processos em Tribunal, assegurando o seu patrocínio judicial;
+
+Acompanhamento de pré-contencioso e contencioso relacionado com a recuperação de ajudas públicas.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em Direito
+
+Experiência Profissional: Experiência mínima de 3 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas.
+
+Técnicos:
+
+Conhecimentos de legislação laboral (direito privado e direito da Administração Pública);
+
+Organização e funcionamento da Administração Pública, Direito Administrativo, Código do Procedimento Administrativo, Direito Comunitário e do Código dos Contratos Públicos;
+
+Sólidos conhecimentos de informática na óptica do utilizador, em ferramentas/software em ambiente Microsoft Office.
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS= (1,5 x PO + 1 x OR + 1,5 x ARP + 1 x AM + 1 x OQ + 1 x P + 0,5 x D + 1,5 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Sandra Maria Ferreira Rodrigues
+
+1.º Vogal: Quirino Manuel Dias do Nascimento Mealha
+
+2.º Vogal: Cidália Maria de Jesus Marcelino Pereira
+
+1.º Vogal suplente: Joana do Ó dos Santos Coradinho
+
+2.º Vogal suplente: João Manuel Sanches Morgado Bule
+
+Ref. A4) Área de Coordenação Financeira
+
+Carreira técnica superior - 4 Postos de Trabalho
+
+Actividades:
+
+Concepção e elaboração de instrumentos para o acompanhamento e monitorização operacional física e financeira no âmbito das intervenções do FEDER e Fundo de Coesão, incluindo a recolha, validação e tratamento de informação;
+
+Pesquisa, produção e análise de informação sobre a aplicação dos fundos estruturais e de coesão em Portugal, incluindo o recurso à utilização de bases de dados com informação histórica;
+
+Elaboração de relatórios técnicos periódicos e outros documentos de análise.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em Economia, Gestão, Direito ou História.
+
+Experiência Profissional: Experiência mínima de 3 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas.
+
+Técnicos:
+
+Conhecimentos de utilização do Sistema de Informação da Comissão Europeia SFC, incluindo o registo de informação e a produção de apuramentos;
+
+Experiência em análise de informação e elaboração de relatórios;
+
+Sólidos conhecimentos de informática na óptica do utilizador, em ferramentas/software em ambiente Microsoft Office
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1 x P + 0,5 x D + 1,5 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Fernando Augusto Correia
+
+1.º Vogal: Margarida Maria Coelho Cabral Joanaz de Melo
+
+2.º Vogal: Cidália Maria de Jesus Marcelino Pereira
+
+1.º Vogal suplente: Carla Cristina Mendes Leal
+
+2.º Vogal suplente: Fernando José Pereira Ramalhinho
+
+Ref. A5) Área de Certificação
+
+Carreira técnica superior - 6 Postos de Trabalho
+
+Actividades:
+
+Apresentação de pedidos de pagamento no âmbito do FEDER, Fundo de Coesão e Mecanismo Financeiro do Espaço Económico Europeu (MFEEE);
+
+Formulação de previsões relativas aos fluxos financeiros, internos e externos, bem como análise e acompanhamento dos elementos respeitantes a esses fluxos;
+
+Verificação da conformidade ou controlo das despesas no âmbito do processo da certificação.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em Economia, Gestão, Ciências Sociais e Antropologia
+
+Experiência Profissional: Experiência mínima de 5 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas.
+
+Técnicos:
+
+Conhecimentos de legislação comunitária e nacional relativa aos fundos estruturais e de coesão, em especial do FEDER e Fundo de Coesão;
+
+Regras relativas à contratação pública e auxílios estatais;
+
+Regras de ambiente;
+
+Sistemas de gestão e de controlo dos Programas Operacionais, Iniciativas Comunitárias e Sectores do Fundo de Coesão (período de programação 2000-2006) e dos Programas Operacionais do QREN e de Cooperação Territorial;
+
+Utilização do Sistema de Informação da Comissão Europeia SFC, incluindo o registo de informação e a produção de apuramentos;
+
+Sólidos conhecimentos de informática na óptica do utilizador, em ferramentas/software em ambiente Microsoft Office;
+
+Bom domínio da língua inglesa e ou francesa
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1,5 x P + 0,5 x D + 1 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Maria Teresa Pereira de Oliveira
+
+1.º Vogal: Sílvia Maria da Silva Estevão
+
+2.º Vogal: Cidália Maria de Jesus Marcelino Pereira
+
+1.º Vogal suplente: Vítor Manuel Rolo dos Santos
+
+2.º Vogal suplente: Inês Maria da Silveira de Carvalho Passão
+
+Ref. A6) Área de Apoio à Gestão Institucional
+
+Carreira técnica superior - 7 Postos de Trabalho com as seguintes sub-divisões:
+
+Ref. A.6.1) Contabilidade e Património
+
+4 Postos de Trabalho
+
+Actividades:
+
+Orçamentação e execução da despesa;
+
+Contabilidade digráfica e analítica,
+
+Organização dos processos de contratação pública;
+
+Gestão do património e economato;
+
+Preparação da candidatura de projectos de assistência técnica a co-financiamento por fundos comunitários e implementação dos mesmos.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em áreas de contabilidade ou de gestão
+
+Experiência Profissional: Experiência mínima de 5 anos:
+
+Na aplicação de Fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas; ou
+
+Em contabilidade pública, designadamente POCP, orçamentação e contabilidade analítica.
+
+Técnicos:
+
+Conhecimentos de contabilidade pública, designadamente POCP, e orçamentação;
+
+Contratação pública;
+
+Gestão do património;
+
+Conhecimentos de sistemas de gestão documental, preferencialmente Outsystems;
+
+Sólidos conhecimentos de informática na óptica do utilizador, em ferramentas/software em ambiente Microsoft Office
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 1 x AM + 1,5 x OQ + 1 x P + 0,5 x D + 1 x GC + 0,5 x C + 0,5 x RI + 0,5 x MP + 1 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Maria da Assunção Crespo Abranches de Soveral
+
+1.º Vogal: Maria Helena Costa Luiz Conde Barroso Geraldes
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Elvira Lino Teles Branco dos Santos
+
+2.º Vogal suplente: Fernando José Pereira Ramalhinho
+
+Ref. A.6.2) Gestão Financeira
+
+2 Postos de Trabalho
+
+Actividades:
+
+Análise de pedidos de pagamento de fundos comunitários e organização dos respectivos processos;
+
+Emissão de certidões dos pagamentos efectuados;
+
+Preparação dos elementos de gestão financeira dos fundos comunitários, nomeadamente através da produção de orçamentos previsionais de tesouraria;
+
+Acompanhamento e monitorização diária dos movimentos bancários em todas as contas tituladas pelo organismo e referentes a fundos comunitários.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em Economia, Gestão ou Engenharia
+
+Experiência Profissional: Experiência mínima de 3 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas
+
+Técnicos:
+
+Bons conhecimentos de gestão financeira;
+
+Conhecimento de sistemas de gestão documental, preferencialmente Outsystems;
+
+Sólidos conhecimentos de informática na óptica do utilizador, em ferramentas/software em ambiente Microsoft Office
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1,5 x OQ + 1 x P + 0,5 x D + 1 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Maria da Assunção Crespo Abranches de Soveral
+
+1.º Vogal: Maria Helena Costa Luiz Conde Barroso Geraldes
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Elvira Lino Teles Branco dos Santos
+
+2.º Vogal suplente: Fernando José Pereira Ramalhinho
+
+Ref. A.6.3) Recursos Humanos
+
+1 Posto de Trabalho
+
+Actividades:
+
+Apoio ao planeamento de gestão organizacional no âmbito da preparação de indicadores das ferramentas de gestão e da gestão de recursos humanos;
+
+Gestão das tarefas inerentes à obtenção de co-financiamento no âmbito das actividades de Recursos Humanos;
+
+Gestão da formação: gestão de orçamento, elaboração do plano de formação, acompanhamento, execução e preparação de formação à medida;
+
+Execução de processos de recrutamento e selecção: organização, gestão e acompanhamento.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em Ciências Sociais ou em Gestão de Recursos Humanos
+
+Experiência Profissional: Experiência mínima de 3 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas.
+
+Técnicos:
+
+Conhecimentos de sistemas informáticos de gestão de recursos humanos e de gestão de assiduidade, preferencialmente, RH+ e Millenium;
+
+Processamento de vencimentos, gestão de assiduidade e pagamento de benefícios de sistemas de apoio na doença;
+
+Legislação actualmente vigente no âmbito das relações jurídicas de emprego público;
+
+Conhecimento de sistemas de gestão documental, preferencialmente Outsystems;
+
+Sólidos conhecimentos de informática na óptica do utilizador, em ferramentas/software em ambiente Microsoft Office.
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 1 x OR + 1,5 x ARP + 1 x AM + 1 x OQ + 1 x P + 0,5 x D + 1 x GC + 1 x C + 1,5 x RI + 0,5 x MP + 0,5 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Maria da Assunção Crespo Abranches de Soveral
+
+1.º Vogal: Maria Helena Costa Luiz Conde Barroso Geraldes
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Elvira Lino Teles Branco dos Santos
+
+2.º Vogal suplente: Fernando José Pereira Ramalhinho
+
+Ref. A7) Área de Coordenação da Gestão Operacional
+
+Carreira técnica superior - 7 Postos de Trabalho
+
+Actividades:
+
+Acompanhamento de Programas Operacionais, em especial financiados pelo FEDER e ou Fundo de Coesão;
+
+Acompanhamento de projectos e verificação das despesas com financiamento comunitário - FEDER e Fundo de Coesão;
+
+Estabelecimento de mecanismos de articulação e coordenação com entidades que participam na gestão dos Fundos estruturais e de coesão;
+
+Desenvolvimento de actividades de interlocução com entidades comunitárias no âmbito da gestão dos Fundos.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em Economia, Gestão, Relações Públicas e Publicidade, Engenharia ou Planeamento.
+
+Experiência Profissional: Experiência mínima de 5 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas.
+
+Técnicos:
+
+Conhecimento de legislação comunitária e nacional relativa aos fundos estruturais e de coesão, em especial do FEDER e Fundo de Coesão;
+
+Regras relativas à contratação pública e auxílios estatais;
+
+Regras de ambiente;
+
+Sistemas de gestão e de controlo dos Programas Operacionais;
+
+Gestão financeira de projectos;
+
+Sólidos conhecimentos de informática na óptica do utilizador, em ferramentas/software em ambiente Microsoft Office;
+
+Bom domínio da língua inglesa e ou francesa.
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 1 x AM + 0,5 x OQ + 1 x P + 1 x D + 1 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Maria Francisca Cabral Cordovil
+
+1.º Vogal: Pedro Vasco Grilo da Costa Leite
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Maria Teresa Pereira de Oliveira
+
+2.º Vogal suplente: Sofia Alexandra Figueiredo Moura Pinha
+
+Ref. A8) Área de Sistemas de Informação
+
+Carreira técnica superior - 9 Postos de Trabalho com as seguintes sub-divisões:
+
+Ref. A.8.1) Sistemas de Informação - Tecnologia I
+
+3 Postos de Trabalho
+
+Actividades:
+
+Concepção e acompanhamento na implementação e manutenção dos Sistemas de Informação no âmbito do Fundo de Coesão, dos quadros comunitários de apoio e do QREN;
+
+Manutenção de aplicações de gestão interna e de aplicações de suporte à gestão no âmbito do Fundo de Coesão, dos quadros comunitários de apoio e do QREN;
+
+Participação na gestão da infra-estrutura física e tecnológica (rede e comunicações) e de segurança;
+
+Suporte técnico a utilizadores dos sistemas de informação, na óptica da gestão aplicacional.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura na área da Engenharia Informática e Sistemas de Informação.
+
+Experiência Profissional: Experiência mínima de 5 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas.
+
+Técnicos:
+
+Conhecimentos de bases de dados relacionais em ambiente Microsoft;
+
+Conhecimentos de ferramentas de administração de dados;
+
+Instalação e parametrização de módulos aplicacionais;
+
+Administração de infra-estruturas baseadas em sistemas operativos Microsoft, nomeadamente XP e 2003 Server;
+
+Levantamento de requisitos de SI no âmbito de projectos de gestão dos quadros comunitários de apoio e do QREN
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 1 x AM + 1 x OQ + 0,5 x P + 1 x D + 1 x GC + 1 x C + 1 x RI + 0,5 x MP + 0,5 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Carlos Manuel Plácido Rodrigues
+
+1.º Vogal: Gonçalo Manuel Bragança Rubio Barreira Vieira
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Sílvia Maria da Silva Estevão
+
+2.º Vogal suplente: Carla Maria dos Santos Gomes da Silva
+
+Ref. A.8.2) Sistemas de informação - Acompanhamento das áreas funcionais
+
+4 Postos de Trabalho
+
+Actividades:
+
+Participação na concepção e acompanhamento na implementação e manutenção dos Sistemas de Informação no âmbito dos quadros comunitários de apoio e do QREN, designadamente na interlocução entre as áreas de negócio e as equipas de desenvolvimento e de manutenção;
+
+Suporte técnico a utilizadores dos sistemas de informação, na óptica dos processos de negócio;
+
+Formação de utilizadores dos sistemas de informação.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura ou possibilidade de substituição da licenciatura por formação e ou experiência profissionais anteriores relevantes.
+
+Experiência Profissional: Experiência mínima de 5 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas.
+
+Técnicos:
+
+Utilização e ou suporte a sistemas de informação no âmbito dos quadros comunitários de apoio e do QREN;
+
+Processos de negócio, na óptica dos sistemas de informação, no âmbito dos quadros comunitários de apoio e do QREN;
+
+Ferramentas de pesquisa de dados;
+
+Levantamento de requisitos de SI no âmbito de projectos de gestão dos quadros comunitários de apoio e do QREN;
+
+Participação em gestão de projectos com recurso a ferramentas informáticas.
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (0,5 x HA + 0,5 x FP + 2,75 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 1 x OR + 1,5 x ARP + 1 x AM + 1 x OQ + 1 x P + 0,5 x D + 1 x GC + 1 x C + 1,5 x RI + 0,5 x MP + 0,5 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Carlos Manuel Plácido Rodrigues
+
+1.º Vogal: Gonçalo Manuel Bragança Rubio Barreira Vieira
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Sílvia Maria da Silva Estevão
+
+2.º Vogal suplente: Carla Maria dos Santos Gomes da Silva
+
+Ref. A.8.3) Sistemas de Informação - Tecnologia II
+
+2 Postos de Trabalho
+
+Actividades:
+
+Concepção e acompanhamento na implementação e manutenção dos Sistemas de Informação;
+
+Manutenção de aplicações de gestão interna e de aplicações de suporte à gestão;
+
+Participação na gestão da infra-estrutura física e tecnológica (rede e comunicações);
+
+Suporte técnico a utilizadores internos e externos dos sistemas de informação, na óptica da gestão aplicacional.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em Engenharia Informática ou Informática
+
+Experiência Profissional: Experiência mínima de 5 anos no âmbito das actividades descritas.
+
+Técnicos:
+
+Experiência em administração de base de dados:
+
+Oracle (9i, 10g,...)
+
+SQL Server 2005
+
+Sólida experiência em suporte a ambiente Microsoft, nomeadamente:
+
+Administração de sistemas operativos Microsoft (WindowsXP, Vista e Windows Server 2003/2008)
+
+Base de dados: SQL Server
+
+Experiência de desenvolvimento em .NET (preferencialmente em C#), usando ferramentas Visual Studio, Source-Safe e Reporting Services
+
+Experiência em administração de redes e segurança.
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 1,5 x OR + 1,5 x ARP + 0,5 x AM + 1,5 x OQ + 1 x P + 1 x D + 1 x GC + 0,5 x C + 0,5 x RI + 0,5 x MP + 1 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Carlos Manuel Plácido Rodrigues
+
+1.º Vogal: Gonçalo Manuel Bragança Rubio Barreira Vieira
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Sílvia Maria da Silva Estevão
+
+2.º Vogal suplente: Carla Maria dos Santos Gomes da Silva
+
+Ref. A9) Área de Documentação Técnica
+
+Carreira técnica superior - 1 Posto de Trabalho
+
+Actividades:
+
+Gestão da informação, criando e explorando os instrumentos de acesso, distribuição e partilha dos recursos informativos;
+
+Classificação, indexação e catalogação dos documentos, com recurso a sistemas de tratamento automático;
+
+Definição de procedimentos de recuperação e exploração de informação, apoiando e orientando a utilização dos serviços;
+
+Promoção de acções de difusão, com vista à melhoria da acessibilidade das fontes de informação.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em Ciências da Informação e da Documentação; em Ciências Documentais e Editoriais; ou em Ciências de Informação, Arquivística e Biblioteconómica.
+
+Experiência Profissional: Experiência mínima de 3 anos na execução de tarefas, no âmbito das actividades descritas, em Centro de Documentação Técnica
+
+Técnicos:
+
+Conhecimentos de elaboração de textos profissionais e princípios de escrita eficaz, tendo em vista o aumento da legibilidade dos documentos;
+
+Estratégias de informação em ambientes de Administração Pública;
+
+Tratamento físico dos documentos (classificação, indexação e catalogação);
+
+Técnicas de bibliotecas, arquivo e documentação e ou certificação enquanto Técnico de BAD;
+
+Base de dados DocBase ou similar;
+
+Sólidos conhecimentos de informática na óptica do utilizador, em FileMaker e em ferramentas/software em ambiente Microsoft Office;
+
+Bom domínio da língua inglesa e ou francesa
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1 x PO + 1 x OR + 1,5 x ARP + 1 x AM + 1 x OQ + 1 x P + 1 x D + 1 x GC + 1 x C + 1 x RI + 0,5 x MP + 1 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Maria Eugénia Pinto Revez da Silva Neves
+
+1.º Vogal: Maria Albina de Sousa Martinho
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Fernando Jorge do Nascimento Pires Nogueira
+
+2.º Vogal suplente: Maria Rita Bustorff Brito Vinhas
+
+Ref. A10) Secretariado de Alta Direcção
+
+Carreira técnica superior - 1 Posto de Trabalho
+
+Actividades:
+
+Desenvolvimento de tarefas técnico-administrativas, mais concretamente:
+
+Gestão de Agenda: Marcação de compromissos profissionais; reservas de viagens, alojamentos, tratamento de aspectos logísticos; conciliação articulada das diversas obrigações em agenda;
+
+Organização de eventos, seminários, conferências e reuniões, de âmbito nacional e internacional;
+
+Organização de despacho: gestão de prioridades.
+
+Critérios preferenciais:
+
+Habilitacionais: Licenciatura em secretariado ou assessoria de direcção ou possibilidade de substituição da licenciatura por formação e ou experiência profissionais anteriores relevantes.
+
+Experiência Profissional: Experiência mínima de 10 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas.
+
+Técnicos:
+
+Conhecimentos ao nível da comunicação e relacionamento interpessoal;
+
+Organização de reuniões e de eventos;
+
+Gestão de arquivo;
+
+Sólidos conhecimentos de informática na óptica do utilizador, em ferramentas/software em ambiente Microsoft Office;
+
+Bom domínio da língua inglesa e ou francesa.
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; responsabilidade e compromisso com o serviço; espírito de equipa; assertividade; capacidade de gerir prioridades e de optimizar o tempo; dinamismo e empenho; capacidade de autonomia e de iniciativa.
+
+Fórmula:
+
+AC = (0,5 x HA + 0,5 x FP + 2,75 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 1 x OR + 1,5 x ARP + 0,5 x AM + 1 x OQ + 1 x P + 1 x D + 0,5 x GC + 1 x C + 1,5 x RI + 0,5 x MP + 1 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Elvira Lino Teles Branco dos Santos
+
+1.º Vogal: João Manuel Sanches Morgado Bule
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Cidália Maria de Jesus Marcelino Pereira
+
+2.º Vogal suplente: Joana do Ó dos Santos Coradinho
+
+Ref. A11) Área de Secretariado
+
+Carreira de assistente técnico - 4 Postos de Trabalho
+
+Actividades:
+
+Apoio técnico-administrativo à coordenação, gestão e monitorização de fundos estruturais e de coesão - FEDER e Fundo de Coesão, mais concretamente:
+
+Atendimento ao público (interno e externo);
+
+Gestão/organização de arquivos;
+
+Controlo de stock's de publicações;
+
+Preparação de documentos;
+
+Organização de reuniões e de escritório.
+
+Critérios preferenciais:
+
+Habilitacionais: Habilitações académicas ao nível do ensino secundário.
+
+Experiência Profissional: Experiência mínima de 5 anos na aplicação de fundos estruturais e de coesão - FEDER e Fundo de Coesão, no âmbito das actividades descritas
+
+Técnicos:
+
+Experiência em sistemas de Gestão Documental, preferencialmente Outsystems;
+
+Sólidos conhecimentos de informática na óptica do utilizador, em ferramentas/software em ambiente Microsoft Office
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1,5 x PO + 0,5 x OR + 1,5 x ARP + 1 x AM + 1 x OQ + 1 x P + 1 x D + 0,5 x GC + 1,5 x C + 1,5 x RI + 0,5 x MP + 0,5 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Elvira Lino Teles Branco dos Santos
+
+1.º Vogal: Maria Irene de Almeida Elvas Duarte
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Jorge Manuel Dias da Silva
+
+2.º Vogal suplente: Lúcia Cristina Sousa Rodrigues
+
+Ref. A12) Motorista
+
+Carreira de assistente operacional - 1 Posto de Trabalho
+
+Actividades:
+
+Condução e manutenção de veículos oficiais;
+
+Acompanhamento de missões estrangeiras.
+
+Critérios preferenciais:
+
+Habilitacionais: Habilitações académicas ao nível do ensino básico e carta de condução de ligeiros
+
+Experiência Profissional: Experiência mínima de 3 anos, no âmbito das actividades descritas.
+
+Técnicos:
+
+Conhecimentos de inglês e francês, ao nível de conversação;
+
+Práticas de apoio à representação institucional.
+
+Comportamentais: Capacidade de adaptação e melhoria contínua; Responsabilidade e compromisso com o serviço; Espírito de equipa.
+
+Fórmula:
+
+AC = (2 x HA + 0,5 x FP + 1,25 x EP + 0,25 x AD)/4
+
+EPS=(1 x PO + 1 x OR + 1 x ARP + 1 x AM + 0,5 x OQ + 1,5 x P + 1,5 x D + 0,5 x GC + 1,5 x C + 1,5 x RI + 0,5 x MP + 0,5 x EF)/12
+
+Composição do júri de selecção:
+
+Presidente: Elvira Lino Teles Branco dos Santos
+
+1.º Vogal: Maria Irene de Almeida Elvas Duarte
+
+2.º Vogal: Mariana Fogaça do Canto e Castro
+
+1.º Vogal suplente: Jorge Manuel Dias da Silva
+
+2.º Vogal suplente: Lúcia Cristina Sousa Rodrigues
+
+202295202

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:166153636:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/acordao-tribunal-constitucional/2021-166483648",
+ "dre_path": "/dr/detalhe/acordao-tribunal-constitucional/318-2021-166153636",
+ "source_lastmod": "2025-05-26",
+ "versions": [
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "166483739"
+   ]
+  }
+ ],
+ "fragments": {
+  "166483739": {
+   "fragment_id": "166483649",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Acórdão do Tribunal Constitucional n.º 318/2021\n\nSumário: Declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 112.º, n.º 1, alínea b), subalínea iii), do Código do Trabalho, na redação introduzida pela Lei n.º 93/2019, de 4 de setembro, na parte que se refere aos trabalhadores que «estejam à procura do primeiro emprego», quando aplicável a trabalhadores que anteriormente tenham sido contratados, com termo, por um período igual ou superior a 90 dias, por outro(s) empregador(es); não declara a inconstitucionalidade da norma contida no artigo 112.º, n.º 1, alínea b), subalínea iii), do Código do Trabalho, na redação do diploma referido na antecedente alínea, na parte remanescente; não declara a inconstitucionalidade da norma contida no artigo 142.º, n.os 1 e 2, do Código do Trabalho, na redação introduzida pela Lei n.º 93/2019, de 4 de setembro, e não declara a inconstitucionalidade da norma contida no artigo 502.º, n.º 1, alínea b), subalínea ii), do Código do Trabalho, na redação introduzida pela Lei n.º 93/2019, de 4 de setembro.\n\nProcesso n.º 897/19\n\nAcordam, em Plenário, no Tribunal Constitucional"
+  }
+ }
+}

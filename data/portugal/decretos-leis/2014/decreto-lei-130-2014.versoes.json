@@ -1,0 +1,378 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:56384882:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-66459965",
+ "dre_path": "/dr/detalhe/decreto-lei/130-2014-56384882",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-08-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1055956410",
+    "66462775",
+    "66462776",
+    "66462777",
+    "66462778",
+    "66462779",
+    "66462780",
+    "66462781",
+    "66462782",
+    "66462783",
+    "66462784",
+    "66462785",
+    "66462786",
+    "66462787",
+    "66462788",
+    "66462789",
+    "66462790",
+    "66462791",
+    "66462792"
+   ]
+  },
+  {
+   "date": "2016-07-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74811910:por",
+     "title": "Decreto-Lei n.º 33/2016",
+     "published": "2016-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2016-74811910"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "66459774",
+    "66462775",
+    "116230230",
+    "66462777",
+    "66462778",
+    "66462779",
+    "66462780",
+    "66462781",
+    "66462782",
+    "66462783",
+    "66462784",
+    "66462785",
+    "66462786",
+    "66462787",
+    "66462788",
+    "66462789",
+    "66462790",
+    "66462791",
+    "66462793",
+    "66462792"
+   ]
+  },
+  {
+   "date": "2018-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116165764:por",
+     "title": "Decreto-Lei n.º 69/2018",
+     "published": "2018-08-27",
+     "dre_path": "/dr/detalhe/decreto-lei/69-2018-116165764"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "66459774",
+    "66462775",
+    "116230231",
+    "116230232",
+    "116230233",
+    "66462779",
+    "66462780",
+    "116230234",
+    "66462782",
+    "66462783",
+    "116230235",
+    "116230236",
+    "116230237",
+    "66462787",
+    "66462788",
+    "66462789",
+    "66462790",
+    "66462791",
+    "66462793",
+    "116230238"
+   ]
+  }
+ ],
+ "fragments": {
+  "1055956410": {
+   "fragment_id": "66459966",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 130/2014\n\nde 29 de agosto\n\nO Decreto-Lei n.º 119/2013, de 21 de agosto, que alterou a Lei Orgânica do XIX Governo Constitucional, aprovada pelo Decreto-Lei n.º 86-A/2011, de 12 de julho, criou o Ministério do Ambiente, Ordenamento do Território e Energia (MAOTE), para o qual transitaram as atribuições e os serviços e organismos do extinto Ministério da Economia e do Emprego nas áreas da energia e geologia, e as atribuições e os serviços e organismos do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território nas áreas do ambiente e ordenamento do território. Assim, o referido Decreto-Lei n.º 119/2013, de 21 de agosto, determinou a transição da Direção-Geral de Energia e Geologia (DGEG) para o MAOTE.\n\nPor outro lado, o Decreto-Lei n.º 165/2013, de 16 de dezembro, procedeu à reestruturação e redenominação da Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos, E.P.E., que passou a designar-se ENMC - Entidade Nacional para o Mercado de Combustíveis, E.P.E. (ENMC, E.P.E.), e determinou a transferência, para esta entidade, de algumas competências exercidas pela DGEG em matéria de petróleo bruto, produtos de petróleo, gás de petróleo liquefeito canalizado e biocombustíveis, bem como no âmbito da prospeção, pesquisa, desenvolvimento e exploração de recursos petrolíferos.\n\nO Decreto-Lei n.º 11/2014, de 22 de janeiro, que aprovou a Lei Orgânica do Ministério da Economia, determinou a extinção das direções regionais da economia e a reestruturação da Direção-Geral das Atividades Económicas, transitando para a DGEG as respetivas atribuições nos domínios da energia e da geologia.\n\nAcresce que, no âmbito da reorganização alargada das entidades públicas que atuam no setor da energia e da geologia, o presente decreto-lei procede à transferência das atribuições do Laboratório Nacional de Energia e Geologia, I.P., para a DGEG, nos domínios da bioenergia, com exceção dos biocombustíveis, da eficiência energética e das redes de energia, visando a racionalização de recursos e a melhoria da eficiência e da eficácia na prestação do serviço público.\n\nNestes termos, o presente decreto-lei aprova a orgânica da DGEG, e procede à alteração do Decreto-Lei n.º 165/2013, de 16 de dezembro, introduzindo reajustamentos na definição das atribuições da DGEG e da ENMC, E.P.E., para uma melhor delimitação da área de intervenção destas entidades.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "66462775": {
+   "fragment_id": "66459967",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direção-Geral de Energia e Geologia, abreviadamente designada por DGEG, é um serviço central da administração direta do Estado dotado de autonomia administrativa."
+  },
+  "66462776": {
+   "fragment_id": "66459968",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGEG tem por missão contribuir para a conceção, promoção e avaliação das políticas relativas à energia e aos recursos geológicos, numa ótica de desenvolvimento sustentável e de garantia da segurança do abastecimento.\n\n2 - A DGEG prossegue as seguintes atribuições:\n\na) Contribuir para a definição, realização e avaliação da execução das políticas energética e dos recursos geológicos, visando a sua valorização e utilização apropriada e acompanhando o funcionamento dos respetivos mercados, empresas e produtos;\n\nb) Promover e participar na elaboração do enquadramento legislativo e regulamentar adequado ao desenvolvimento dos sistemas, processos e equipamentos ligados à produção, transporte, distribuição, armazenamento, comercialização e utilização da energia, em particular visando a segurança do abastecimento, a diversificação das fontes energéticas, a eficiência energética e a preservação do ambiente, através, designadamente, do acompanhamento da execução do Plano Nacional de Ação para a Eficiência Energética (PNAEE) e do Plano Nacional de Ação para as Energias Renováveis, e da sustentabilidade económico-financeira do Sistema Elétrico Nacional e do Sistema Nacional de Gás Natural;\n\nc) Promover e participar na elaboração do enquadramento legislativo e regulamentar adequado ao desenvolvimento das políticas de divulgação, prospeção, aproveitamento, proteção e valorização dos recursos geológicos, incluindo recursos petrolíferos, hidrogeológicos e geotérmicos, e respetivo contexto socioeconómico;\n\nd) Assegurar o registo dos comercializadores de eletricidade, de gás natural e dos comercializadores de eletricidade para a mobilidade elétrica e o licenciamento da operação de pontos de carregamento;\n\ne) Exercer competências em matéria de atribuição de direitos e de licenciamento no sector de atividade de revelação e aproveitamento de recursos geológicos, designadamente relativos à prospeção, pesquisa e exploração de depósitos minerais, de massas minerais, de recursos hidrogeológicos, de recursos geotérmicos e ao armazenamento geológico de dióxido de carbono, sem prejuízo das competências próprias de outras entidades em matéria de ordenamento e gestão do espaço marítimo nacional, bem como em matéria de licenciamento e fiscalização de instalações de resíduos da indústria de extração de depósitos minerais e de massas minerais;\n\nf) Garantir a produção e reporte de informação estatística nas áreas da energia, incluindo petróleo bruto e produtos de petróleo e respetivas reservas de segurança, e dos recursos geológicos, no quadro dos sistemas estatísticos nacional, comunitário e internacional, bem como a respetiva difusão;\n\ng) Proceder a ações de fiscalização nos domínios da energia, incluindo instalações e atividades respeitantes ao petróleo bruto e produtos de petróleo, e dos recursos geológicos, sem prejuízo das competências da Autoridade de Segurança Alimentar e Económica (ASAE) nos termos da legislação específica aplicável a estes sectores;\n\nh) Acompanhar a avaliação e implementação de novas tecnologias energéticas e de recursos geológicos, em articulação com as demais entidades competentes;\n\ni) Promover o conhecimento, a salvaguarda e a valorização dos recursos geológicos;\n\nj) Colaborar na promoção, divulgação e internacionalização dos recursos geológicos, designadamente em ações de cooperação com as entidades públicas e privadas, nacionais e estrangeiras, competentes no sector, sem prejuízo das competências do Ministério dos Negócios Estrangeiros (MNE);\n\nk) Apoiar a participação do MAOTE nos domínios europeu e internacional, designadamente através da representação do MAOTE junto das instâncias internacionais, da preparação e do apoio à intervenção técnica nacional na adoção de instrumentos normativos comunitários e internacionais, na área da energia e dos recursos geológicos, sem prejuízo das competências do MNE;\n\nl) Assegurar o planeamento do aprovisionamento, produção e utilização dos recursos energéticos, designadamente em situação de crise e de guerra, e apoiar o Governo na tomada de decisões em matéria de planeamento civil de emergência, no quadro definido pelo Decreto-Lei n.º 73/2012, de 26 de março;\n\nm) Assegurar, em articulação com as entidades competentes, designadamente do MNE, do Ministério da Defesa Nacional e do Ministério da Administração Interna, a participação e representação técnica em matéria de planeamento de emergência nas instâncias internacionais, nomeadamente no quadro dos órgãos da União Europeia, da Organização do Tratado Atlântico Norte, da Organização das Nações Unidas e da Organização para a Cooperação e Desenvolvimento Económico;\n\nn) Promover a orientação, o controlo e o acompanhamento de instrumentos financeiros afetos a finalidades na área da energia e geologia;\n\no) Realizar estudos e desenvolver metodologias e modelos na área de análise dos sistemas de energia e redes, designadamente de cenarização, planeamento e operação de redes de transporte e distribuição de energia e de aproveitamento dos recursos energéticos;\n\np) Exercer as funções de autoridade nacional responsável pela facilitação e coordenação do procedimento de concessão de licenças para projetos de interesse comum, no âmbito do Regulamento (UE) n.º 347/2013, do Parlamento Europeu e do Conselho, de 17 de abril de 2013;\n\nq) Exercer as competências de entidade coordenadora nos termos da legislação aplicável ao exercício da atividade industrial no domínio da instalação e exploração de estabelecimentos industriais dos setores da energia e dos recursos geológicos;\n\nr) Acompanhar as medidas da União Europeia com implicações concomitantes para as empresas e para a energia ou para os recursos geológicos, designadamente nas áreas da eficiência de recursos, resíduos, emissões industriais, segurança industrial e responsabilidade social das empresas, sem prejuízo das competências atribuídas à Direção-Geral das Atividades Económicas (DGAE);\n\ns) Acompanhar a evolução do mercado interno de energia, do Mercado Ibérico de Eletricidade, do Mercado Ibérico do Gás Natural e de outros mercados regionais de energia, na ótica da eficiência, da competitividade e da segurança de abastecimento;\n\nt) Promover a utilização de fontes de energia renováveis e a eficiência energética, através da implementação de programas a tal dirigidos e da promoção de iniciativas e ações específicas junto dos agentes económicos e consumidores;\n\nu) Pronunciar-se sobre propostas de regulamentos da competência da Entidade Reguladora dos Serviços Energéticos, nos termos da lei;\n\nv) Coordenar os procedimentos para aprovação do plano de desenvolvimento e investimento da Rede Nacional de Transporte de Eletricidade, do plano de desenvolvimento e investimento da Rede Nacional de Distribuição de Eletricidade, do plano de desenvolvimento e investimento da Rede Nacional de Transporte, Infraestruturas de Armazenamento e Terminais de Gás Natural Liquefeito e do plano de desenvolvimento e investimento da Rede Nacional de Distribuição de Gás Natural e monitorizar a respetiva aplicação;\n\nw) Elaborar os relatórios de monitorização da segurança do abastecimento no âmbito do Sistema Elétrico Nacional (SEN), do Sistema Nacional de Gás Natural (SNGN) e do Sistema Petrolífero Nacional (SPN);\n\nx) Proceder ao licenciamento das grandes instalações de produtos petrolíferos, incluindo as que sejam definidas de interesse estratégico, bem como dos postos de abastecimento de combustíveis e restantes instalações de armazenamento de produtos de petróleo, seus derivados e de biocombustíveis e ainda das instalações de armazenamento e distribuição de Gás de Petróleo Liquefeito (GPL) canalizado, com exceção das instalações sujeitas a licenciamento municipal;\n\ny) Proceder ao licenciamento das infraestruturas da Rede Nacional de Transporte, Infraestruturas de Armazenamento e Terminais de Gás Natural Liquefeito e da Rede Nacional de Distribuição de Gás Natural e atribuir licenças para utilização privativa de gás natural e para a exploração de postos de enchimento de gás natural;\n\nz) Proceder ao licenciamento das instalações que integram a Rede Elétrica de Serviço Público, incluindo a aprovação dos projetos-tipo das obras de construção civil associadas, das instalações elétricas de serviço particular, das centrais de produção de energia elétrica em regime ordinário e em regime especial e de produção em cogeração, bem como das instalações de armazenamento de energia para transformação em eletricidade e das instalações de produção descentralizada de eletricidade, incluindo a produção distribuída e a destinada a consumo próprio;\n\naa) Acompanhar e fiscalizar a execução e o cumprimento das obrigações das concessionárias e das licenciadas no âmbito dos contratos de concessão e licenças dos serviços públicos de receção, armazenamento e regaseificação de Gás Natural Liquefeito, de armazenamento subterrâneo de gás natural, de transporte e de distribuição de gás natural, bem como no âmbito dos contratos de concessão dos serviços públicos de transporte e de distribuição de eletricidade, promovendo as ações que permitam assegurar o acesso às redes, a garantia de serviço público, a qualidade de serviço e a segurança de abastecimento;\n\nbb) Instruir os procedimentos de comunicação prévia, autorização e licenciamento relativos ao acesso à capacidade de receção das redes e à atividade de produção de eletricidade, incluindo a produção de eletricidade no espaço marítimo nacional, nos termos dos regimes jurídicos aplicáveis;\n\ncc) Monitorizar o cumprimento das obrigações nacionais e internacionais relativas à constituição e manutenção de reservas de gás natural;\n\ndd) Coordenar o sistema de controlo da qualidade dos combustíveis rodoviários;\n\nee) Assegurar a execução do Programa de Eficiência Energética na Administração Pública - ECO.AP, promover e realizar estudos de eficiência energética no setor dos edifícios, serviços e indústria, e exercer competências no âmbito da conceção ecológica dos produtos (ecodesign) e da etiquetagem e rotulagem energética de materiais e equipamentos, nomeadamente eletrodomésticos e pneus;\n\nff) Efetuar as comunicações à Comissão Europeia respeitantes às quantidades de biocombustíveis introduzidas no consumo no setor dos transportes terrestres para efeitos das obrigações decorrentes da Diretiva n.º 2009/28/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, supervisionar os procedimentos efetuados pela entidade coordenadora da verificação do cumprimento dos critérios de sustentabilidade, proceder ao reconhecimento dos pequenos produtores dedicados (PPD) e gerir o sistema de leilões de títulos de biocombustíveis correspondentes aos biocombustíveis introduzidos no consumo pelos PPD;\n\ngg) Realizar estudos e projetos de investigação, no domínio da bioenergia, incluindo biomassa, biogás, biometano e biolíquidos, designadamente, das várias componentes do recurso, potencial endógeno e na área da sustentabilidade da produção de energia;\n\nhh) Instruir os processos de ocupação, constituição de servidões administrativas e de expropriação de terrenos necessários ao exercício das atividades do SEN, do SNGN e do SPN e do aproveitamento de recursos geológicos, bem como os relativos ao abate ou desafetação de bens afetos às concessões de serviço público no setor energético e expropriação de estabelecimentos mineralúrgicos, anexos mineiros ou de pedreiras, apoiar e acompanhar a elaboração dos respetivos instrumentos de gestão territorial, nos termos da legislação aplicável."
+  },
+  "66462777": {
+   "fragment_id": "66459969",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nA DGEG é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "66462778": {
+   "fragment_id": "66459970",
+   "type": 11,
+   "heading": "Artigo 4.º — Diretor-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Diretor-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor-geral:\n\na) Presidir à Comissão Executiva do PNAEE;\n\nb) Assegurar a gestão executiva do Fundo de Apoio à Inovação.\n\n2 - O subdiretor-geral exerce as competências que lhe sejam delegadas ou subdelegadas pelo diretor-geral, competindo-lhe substituí-lo nas suas faltas e impedimentos."
+  },
+  "66462779": {
+   "fragment_id": "66459971",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho científico\n\n1 - O conselho científico é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação e nas tomadas de decisão do diretor-geral no que se refere à atividade científica da DGEG.\n\n2 - O conselho científico é constituído por todos os que, a qualquer título, incluindo o de bolseiro, quer sejam cidadãos nacionais ou estrangeiros, exerçam atividade na DGEG, desde que estejam habilitados com o grau de doutor ou equivalente, tenham obtido aprovação nas provas a que se refere o n.º 2 do artigo 17.º do Decreto-Lei n.º 219/92, de 15 de outubro, alterado pelo Decreto-Lei n.º 124/99, de 20 de abril, ou, ainda, os que, não possuindo qualquer dessas qualificações, integrem a carreira de investigação científica em categoria igual ou superior à de investigador auxiliar, ou a carreira docente universitária em categoria igual ou superior à de professor auxiliar.\n\n3 - A qualidade de membro do conselho científico adquire-se, nos termos do disposto no número anterior, na data da constituição do vínculo à DGEG, qualquer que seja a sua natureza, e perde-se automaticamente com a cessação desse vínculo.\n\n4 - Compete ao conselho científico:\n\na) Aprovar o seu regulamento interno;\n\nb) Emitir parecer sobre o orçamento, o plano e o relatório anual de atividades da DGEG no que se refere à sua atividade científica;\n\nc) Emitir parecer sobre os assuntos que lhe sejam submetidos pelo diretor-geral;\n\nd) Servir de instância de recurso dos incidentes relativos ao impedimento, à escusa ou suspeição dos membros dos júris de concursos para recrutamento do pessoal de investigação;\n\ne) Exercer as competências atribuídas por lei ao conselho científico, nomeadamente as previstas no regime jurídico das instituições de investigação.\n\n5 - As normas de funcionamento do conselho científico constam do regulamento interno.\n\n6 - A participação no conselho científico não é remunerada."
+  },
+  "66462780": {
+   "fragment_id": "66459972",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipo de organização interna\n\nA organização interna da DGEG obedece ao modelo de estrutura hierarquizada."
+  },
+  "66462781": {
+   "fragment_id": "66459973",
+   "type": 11,
+   "heading": "Artigo 7.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Receitas\n\n1 - A DGEG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A DGEG dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) O produto de venda de publicações e de trabalhos editados pela DGEG;\n\nc) Os prémios e outras compensações devidos pela outorga de contratos de prospeção, pesquisa e exploração de recursos geológicos, incluindo de recursos petrolíferos, na percentagem que vier a ser definida por despacho do membro do Governo responsável pelas áreas da energia e dos recursos geológicos;\n\nd) Os encargos de exploração a suportar pelos concessionários de recursos geológicos, durante a execução dos respetivos contratos, na percentagem que vier a ser definida por despacho do membro do Governo responsável pelas áreas da energia e dos recursos geológicos;\n\ne) O produto das taxas, coimas e outros valores de natureza pecuniária que por lei lhe sejam consignados;\n\nf) Os subsídios, subvenções, comparticipações, doações e legados concedidos por entidades públicas e privadas;\n\ng) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As quantias cobradas pela DGEG são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da energia e dos recursos geológicos, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento."
+  },
+  "66462782": {
+   "fragment_id": "66459974",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas\n\nConstituem despesas da DGEG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "66462783": {
+   "fragment_id": "66462875",
+   "type": 11,
+   "heading": "Artigo 9.º — Mapa de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Mapa de cargos de direção\n\nOs lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, que dele faz parte integrante."
+  },
+  "66462784": {
+   "fragment_id": "66462876",
+   "type": 11,
+   "heading": "Artigo 10.º — Trabalhadores com funções de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Trabalhadores com funções de fiscalização\n\n1 - Os trabalhadores que se encontrem no exercício de funções de fiscalização ou em ações de vistoria devem ser portadores de cartão de identificação especial, cujo modelo é aprovado pelo membro do Governo responsável pelas áreas da energia e dos recursos geológicos.\n\n2 - Os trabalhadores na situação prevista no número anterior são considerados agentes de autoridade, gozando dos seguintes direitos e prerrogativas:\n\na) Acesso e livre-trânsito nas instalações e equipamentos que produzam, distribuam, utilizem ou armazenem produtos energéticos e em todas as áreas de prospeção, pesquisa e exploração de depósitos minerais, massas minerais, recursos hidrogeológicos, recursos geotérmicos e armazenamento geológico de dióxido de carbono;\n\nb) Examinar livros, documentos e arquivos relativos às matérias inspecionadas;\n\nc) Proceder à selagem de quaisquer instalações ou equipamentos, quando isso se mostre necessário face às infrações detetadas;\n\nd) Levantar autos de notícia por infração ao cumprimento de normas e regulamentos cuja fiscalização seja da competência da DGEG;\n\ne) Solicitar o apoio das autoridades administrativas e policiais para cumprimento das respetivas funções."
+  },
+  "66462785": {
+   "fragment_id": "66462877",
+   "type": 11,
+   "heading": "Artigo 11.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sucessão\n\n1 - A DGEG sucede nas atribuições das DRE nos domínios da energia e da geologia.\n\n2 - A DGEG sucede nas atribuições da DGAE nos domínios da energia e da geologia.\n\n3 - A DGEG sucede, ainda, nas atribuições do LNEG, I.P., nos domínios da bioenergia com exceção dos biocombustíveis, da eficiência energética e das redes de energia."
+  },
+  "66462786": {
+   "fragment_id": "66462878",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de seleção do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critérios de seleção do pessoal\n\nSão fixados os seguintes critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições da DGEG:\n\na) Desempenho de funções nos domínios da energia e da geologia nas DRE e na DGAE;\n\nb) Desempenho de funções no domínio da bioenergia com exceção dos biocombustíveis, da eficiência energética e das redes de energia no LNEG, I.P."
+  },
+  "66462787": {
+   "fragment_id": "66462879",
+   "type": 11,
+   "heading": "Artigo 13.º — Alteração ao Decreto-Lei n.º 165/2013, de 16 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração ao Decreto-Lei n.º 165/2013, de 16 de dezembro\n\nOs artigos 3.º e 25.º do Decreto-Lei n.º 165/2013, de 16 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - A ENMC - Entidade Nacional para o Mercado de Combustíveis, E.P.E. (ENMC, E.P.E.), na qualidade de entidade central de armazenagem nacional, mantém as atribuições em matéria de constituição, gestão e manutenção das reservas estratégicas de petróleo bruto e de produtos de petróleo e passa a exercer:\n\na) As seguintes competências da DGEG em matéria de petróleo bruto e produtos de petróleo:\n\ni) Monitorização do funcionamento dos mercados de petróleo bruto e de produtos de petróleo;\n\nii) Registo dos comercializadores de produtos de petróleo;\n\niii) Monitorização das atividades de refinação, armazenamento, transporte, distribuição e comercialização de produtos de petróleo;\n\niv) Monitorização das atividades de armazenamento, distribuição e comercialização de GPL canalizado;\n\nv) Regulação do acesso de terceiros a instalações de armazenamento, transporte e distribuição de produtos de petróleo e de GPL canalizado;\n\nvi) Controlo da qualidade dos carburantes fornecidos para consumo e promoção da segurança técnica;\n\nvii) Tratamento de reclamações referentes às várias atividades da cadeia de valor do mercado de produtos de petróleo e da cadeia de valor do mercado do GPL canalizado;\n\nviii) Análise e avaliação das causas dos acidentes provocados pelo uso de carburantes;\n\nix) Constituição de um acervo documental atualizado que possibilite o conhecimento das características e perspetivas de desenvolvimento do Sistema Petrolífero Nacional;\n\nb) As competências da DGEG na área da prospeção, pesquisa, desenvolvimento e exploração de recursos petrolíferos, sem prejuízo da articulação com a DGEG no que respeita à elaboração de legislação, de regulamentos e de informação estatística;\n\nc) As competências da DGEG em matéria de biocombustíveis previstas no Decreto-Lei n.º 117/2010, de 25 de outubro, alterado pelos Decretos-Leis n.os 6/2012, de 17 de janeiro, e 224/2012, de 16 de outubro, com exceção das previstas nos artigos 19.º, 22.º e 23.º;\n\nd) As atribuições do LNEG, I.P., relativas à investigação no domínio dos biocombustíveis e as competências no âmbito da coordenação do processo de verificação do cumprimento dos critérios de sustentabilidade dos biocombustíveis, previstas no artigo 20.º do Decreto-Lei n.º 117/2010, de 25 de outubro, alterado pelos Decretos-Leis n.os 6/2012, de 17 de janeiro, e 224/2012, de 16 de outubro, e na Portaria n.º 8/2012, de 4 de janeiro;\n\ne) As seguintes competências da DGEG em matéria de reservas de segurança de petróleo bruto e produtos de petróleo:\n\ni) Receção das informações prestadas pelos operadores obrigados à constituição de reservas de segurança;\n\nii) Fiscalização do cumprimento das obrigações de constituição de reservas de segurança e aplicação de sanções;\n\niii) Manutenção de um registo atualizado das reservas de segurança, com a informação necessária ao respetivo controlo.\n\n4 - [...].\n\n5 - [...].\n\nArtigo 25.º\n\n[...]\n\n1 - Compete à ENMC, E.P.E., manter um registo permanentemente atualizado das reservas de segurança, contendo a informação necessária ao respetivo controlo, designadamente a localização precisa da refinaria ou instalação de armazenamento em que se encontram as reservas, as respetivas quantidades, o respetivo titular e a composição das reservas, adotando, para o efeito, as categorias definidas na secção 3.1 do anexo C do Regulamento (CE) n.º 1099/2008, do Parlamento e do Conselho, de 22 outubro de 2008, relativo às estatísticas da energia, e dele dar conhecimento à DGEG para efeitos do disposto no número seguinte.\n\n2 - Compete à DGEG:\n\na) [...];\n\nb) [...];\n\nc) [...].\n\n3 - [...].»"
+  },
+  "66462788": {
+   "fragment_id": "66462880",
+   "type": 11,
+   "heading": "Artigo 14.º — Alteração dos Estatutos da Entidade Nacional para o Mercado de Combustíveis, E.P.E., aprovados pelo Decreto-Lei n.º 339-D/2001, de 28 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alteração dos Estatutos da Entidade Nacional para o Mercado de Combustíveis, E.P.E., aprovados pelo Decreto-Lei n.º 339-D/2001, de 28 de dezembro\n\nOs artigos 15.º-C e 19.º-B dos Estatutos da Entidade Nacional para o Mercado de Combustíveis, E.P.E., aprovados pelo Decreto-Lei n.º 339-D/2001, de 28 de dezembro, alterado pelos Decretos-Leis n.os 242/2008, de 18 de dezembro, e 165/2013, de 16 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 15.º-C\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...]\n\nc) [...]\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) Monitorizar as reservas, solicitando aos operadores obrigados o cumprimento das obrigações de informação previstas na lei e mantendo um registo atualizado das reservas de segurança.\n\nArtigo 19.º-B\n\n[...]\n\n[...]:\n\na) [...]:\n\ni) [...];\n\nii) [...];\n\niii) [...];\n\niv) [...];\n\nv) [...];\n\nvi) [...];\n\nvii) [...];\n\nviii) [...];\n\nix) [...];\n\nx) [...];\n\nxi) [...];\n\nxii) Executar programas de controlo de qualidade dos carburantes fornecidos para consumo;\n\nxiii) [...];\n\nxiv) [...];\n\nxv) [...];\n\nxvi) [...];\n\nxvii) [...];\n\nb) [...]:\n\ni) [...];\n\nii) [...];\n\niii) [...];\n\niv) [...];\n\nv) [...];\n\nvi) Monitorizar o cumprimento das metas de incorporação de biocombustíveis em gasóleo e gasolina rodoviários e informar a DGEG para efeitos do disposto no artigo 23.º do Decreto-Lei n.º 117/2010, de 25 de outubro, alterado pelos Decretos-Leis n.os 6/2012, de 17 de janeiro, e 224/2012, de 16 de outubro;\n\nvii) Fiscalizar o controlo do cumprimento das obrigações previstas no artigo 6.º do Decreto-Lei n.º 62/2006, de 21 de março, alterado pelos Decretos-Leis n.os 89/2008, de 30 de maio, 206/2008, de 23 de outubro, 49/2009, de 26 de fevereiro, 117/2010, de 25 de outubro, e no Decreto-Lei n.º 117/2010, de 25 de outubro, alterado pelos Decretos-Leis n.os 6/2012, de 17 de janeiro, e 224/2012, de 16 de outubro, com exceção das obrigações previstas nos artigos 19.º, 22.º e 23.º;\n\nviii) [...];\n\nix) Realizar estudos e projetos de investigação no domínio dos biocombustíveis;\n\nc) [...];\n\nd) [...].»"
+  },
+  "66462789": {
+   "fragment_id": "66462881",
+   "type": 11,
+   "heading": "Artigo 15.º — Aditamento ao Decreto-Lei n.º 165/2013, de 16 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aditamento ao Decreto-Lei n.º 165/2013, de 16 de dezembro\n\nSão aditados ao Decreto-Lei n.º 165/2013, de 16 de dezembro, os artigos 27.º-A e 27.º-B, com a seguinte redação:\n\n«Artigo 27.º-A\n\nSucessão\n\n1 - A ENMC, E.P.E., sucede nas atribuições da DGEG nos domínios do petróleo bruto e produtos de petróleo, dos biocombustíveis e da pesquisa e exploração de produtos petrolíferos, nos termos previstos nas alíneas a), b), c) e e) do n.º 3 do artigo 3.º\n\n2 - A ENMC, E.P.E., sucede nas atribuições do LNEG, I.P., no domínio dos biocombustíveis e da coordenação do processo de verificação do cumprimento dos critérios de sustentabilidade dos biocombustíveis, nos termos previstos na alínea d) do n.º 3 do artigo 3.º\n\nArtigo 27.º-B\n\nCritérios de seleção do pessoal\n\nSão fixados os seguintes critérios gerais e abstratos de seleção do pessoal necessário ao exercício das atribuições e competências transferidas para a ENMC, E.P.E.:\n\na) Desempenho de funções nos domínios do petróleo bruto e produtos de petróleo, dos biocombustíveis e da pesquisa e exploração de produtos petrolíferos, nos termos previstos nas alíneas a), b), c) e e) do n.º 3 do artigo 3.º, na DGEG;\n\nb) Desempenho de funções no domínio dos biocombustíveis e da coordenação do processo de verificação do cumprimento dos critérios de sustentabilidade dos biocombustíveis, nos termos previstos na alínea d) do n.º 3 do artigo 3.º, no LNEG, I.P.»"
+  },
+  "66462790": {
+   "fragment_id": "66462882",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 151/2012, de 12 de abril;\n\nb) O Decreto Regulamentar n.º 58/2007, de 27 de abril, alterado pelo Decreto Regulamentar n.º 5/2009, de 3 de março."
+  },
+  "66462791": {
+   "fragment_id": "66462883",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "66462792": {
+   "fragment_id": "66462884",
+   "type": 14,
+   "heading": "Anexo — Mapa de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa de pessoal dirigente\n\n(a que se refere o artigo 9.º)\n\n(ver documento original)"
+  },
+  "66459774": {
+   "fragment_id": "66459966",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 130/2014\n\nde 29 de agosto\n\nO Decreto-Lei n.º 119/2013, de 21 de agosto, que alterou a Lei Orgânica do XIX Governo Constitucional, aprovada pelo Decreto-Lei n.º 86-A/2011, de 12 de julho, criou o Ministério do Ambiente, Ordenamento do Território e Energia (MAOTE), para o qual transitaram as atribuições e os serviços e organismos do extinto Ministério da Economia e do Emprego nas áreas da energia e geologia, e as atribuições e os serviços e organismos do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território nas áreas do ambiente e ordenamento do território. Assim, o referido Decreto-Lei n.º 119/2013, de 21 de agosto, determinou a transição da Direção-Geral de Energia e Geologia (DGEG) para o MAOTE.\n\nPor outro lado, o Decreto-Lei n.º 165/2013, de 16 de dezembro, procedeu à reestruturação e redenominação da Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos, E.P.E., que passou a designar-se ENMC - Entidade Nacional para o Mercado de Combustíveis, E.P.E. (ENMC, E.P.E.), e determinou a transferência, para esta entidade, de algumas competências exercidas pela DGEG em matéria de petróleo bruto, produtos de petróleo, gás de petróleo liquefeito canalizado e biocombustíveis, bem como no âmbito da prospeção, pesquisa, desenvolvimento e exploração de recursos petrolíferos.\n\nO Decreto-Lei n.º 11/2014, de 22 de janeiro, que aprovou a Lei Orgânica do Ministério da Economia, determinou a extinção das direções regionais da economia e a reestruturação da Direção-Geral das Atividades Económicas, transitando para a DGEG as respetivas atribuições nos domínios da energia e da geologia.\n\nAcresce que, no âmbito da reorganização alargada das entidades públicas que atuam no setor da energia e da geologia, o presente decreto-lei procede à transferência das atribuições do Laboratório Nacional de Energia e Geologia, I.P., para a DGEG, nos domínios da bioenergia, com exceção dos biocombustíveis, da eficiência energética e das redes de energia, visando a racionalização de recursos e a melhoria da eficiência e da eficácia na prestação do serviço público.\n\nNestes termos, o presente decreto-lei aprova a orgânica da DGEG, e procede à alteração do Decreto-Lei n.º 165/2013, de 16 de dezembro, introduzindo reajustamentos na definição das atribuições da DGEG e da ENMC, E.P.E., para uma melhor delimitação da área de intervenção destas entidades.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "116230230": {
+   "fragment_id": "66459968",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2016-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2016 - Diário da República n.º 122/2016, Série I de 2016-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2016-74811910), em vigor a partir de 2016-07-03, produz efeitos a partir de 2015-11-26"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGEG tem por missão contribuir para a conceção, promoção e avaliação das políticas relativas à energia e aos recursos geológicos, numa ótica de desenvolvimento sustentável e de garantia da segurança do abastecimento.\n\n2 - A DGEG prossegue as seguintes atribuições:\n\na) Exercer as funções de autoridade nacional nos domínios da energia e dos recursos geológicos, contribuindo para a definição, implementação e avaliação das políticas relativas à energia e aos recursos geológicos, visando a sua valorização e utilização apropriada e acompanhando o funcionamento dos respetivos mercados, empresas e produtos;\n\nb) Promover e participar na elaboração do enquadramento legislativo e regulamentar adequado ao desenvolvimento dos sistemas, processos e equipamentos ligados à produção, transporte, distribuição, armazenamento, comercialização e utilização da energia, incluindo no espaço marítimo nacional, visando a segurança do abastecimento, a diversificação das fontes energéticas, a eficiência energética e a preservação do ambiente, através, designadamente, do acompanhamento da execução do Plano Nacional de Ação para a Eficiência Energética (PNAEE) e do Plano Nacional de Ação para as Energias Renováveis, e da sustentabilidade económico-financeira do Sistema Elétrico Nacional e do Sistema Nacional de Gás Natural, sem prejuízo da necessária articulação e das atribuições das entidades públicas competentes quanto ao espaço marítimo nacional;\n\nc) Promover e participar na elaboração do enquadramento legislativo e regulamentar adequado ao desenvolvimento das políticas de divulgação, prospeção, aproveitamento, proteção e valorização dos recursos geológicos, incluindo recursos petrolíferos, hidrogeológicos e geotérmicos, e respetivo contexto socioeconómico;\n\nd) Assegurar o registo dos comercializadores de eletricidade, de gás natural e dos comercializadores de eletricidade para a mobilidade elétrica e o licenciamento da operação de pontos de carregamento;\n\ne) Exercer competências em matéria de atribuição de direitos e de licenciamento no sector de atividade de revelação e aproveitamento de recursos geológicos, designadamente relativos à prospeção, pesquisa e exploração de depósitos minerais, de massas minerais, de recursos hidrogeológicos, de recursos geotérmicos e ao armazenamento geológico de dióxido de carbono, sem prejuízo das competências próprias de outras entidades em matéria de ordenamento e gestão do espaço marítimo nacional, bem como em matéria de licenciamento e fiscalização de instalações de resíduos da indústria de extração de depósitos minerais e de massas minerais;\n\nf) Garantir a produção e reporte de informação estatística nas áreas da energia, incluindo petróleo bruto e produtos de petróleo e respetivas reservas de segurança, e dos recursos geológicos, no quadro dos sistemas estatísticos nacional, comunitário e internacional, bem como a respetiva difusão;\n\ng) Proceder a ações de fiscalização nos domínios da energia, incluindo instalações e atividades respeitantes ao petróleo bruto e produtos de petróleo, e dos recursos geológicos, sem prejuízo das competências da Autoridade de Segurança Alimentar e Económica (ASAE) nos termos da legislação específica aplicável a estes sectores;\n\nh) Acompanhar a avaliação e implementação de novas tecnologias energéticas e de recursos geológicos, em articulação com as demais entidades competentes;\n\ni) Promover o conhecimento, a salvaguarda e a valorização dos recursos geológicos;\n\nj) Colaborar na promoção, divulgação e internacionalização dos recursos geológicos, designadamente em ações de cooperação com as entidades públicas e privadas, nacionais e estrangeiras, competentes no sector, sem prejuízo das competências do Ministério dos Negócios Estrangeiros (MNE);\n\nk) Apoiar a participação no âmbito da área de competência do Ministro da Economia nos domínios europeu e internacional, designadamente através da respetiva representação junto das instâncias internacionais, da preparação e do apoio à intervenção técnica nacional na adoção de instrumentos normativos de Direito Europeu e internacionais, na área da energia e dos recursos geológicos, sem prejuízo das competências do membro do Governo responsável pela área dos negócios estrangeiros;\n\nl) Assegurar o planeamento do aprovisionamento, produção e utilização dos recursos energéticos, designadamente em situação de crise e de guerra, e apoiar o Governo na tomada de decisões em matéria de planeamento civil de emergência, no quadro definido pelo Decreto-Lei n.º 73/2012, de 26 de março;\n\nm) Assegurar, em articulação com as entidades competentes, designadamente do MNE, do Ministério da Defesa Nacional e do Ministério da Administração Interna, a participação e representação técnica em matéria de planeamento de emergência nas instâncias internacionais, nomeadamente no quadro dos órgãos da União Europeia, da Organização do Tratado Atlântico Norte, da Organização das Nações Unidas e da Organização para a Cooperação e Desenvolvimento Económico;\n\nn) Promover a orientação, o controlo e o acompanhamento de instrumentos financeiros afetos a finalidades na área da energia e geologia;\n\no) Realizar estudos e desenvolver metodologias e modelos na área de análise dos sistemas de energia e redes, designadamente de cenarização, planeamento e operação de redes de transporte e distribuição de energia e de aproveitamento dos recursos energéticos;\n\np) Exercer as funções de autoridade nacional responsável pela facilitação e coordenação do procedimento de concessão de licenças para projetos de interesse comum, no âmbito do Regulamento (UE) n.º 347/2013, do Parlamento Europeu e do Conselho, de 17 de abril de 2013;\n\nq) Exercer as competências de entidade coordenadora nos termos da legislação aplicável ao exercício da atividade industrial no domínio da instalação e exploração de estabelecimentos industriais dos setores da energia e dos recursos geológicos;\n\nr) Acompanhar as medidas da União Europeia com implicações concomitantes para as empresas e para a energia ou para os recursos geológicos, designadamente nas áreas da eficiência de recursos, resíduos, emissões industriais, segurança industrial e responsabilidade social das empresas, sem prejuízo das competências atribuídas à Direção-Geral das Atividades Económicas (DGAE);\n\ns) Acompanhar a evolução do mercado interno de energia, do Mercado Ibérico de Eletricidade, do Mercado Ibérico do Gás Natural e de outros mercados regionais de energia, na ótica da eficiência, da competitividade e da segurança de abastecimento;\n\nt) Promover a utilização de fontes de energia renováveis e a eficiência energética, através da implementação de programas a tal dirigidos e da promoção de iniciativas e ações específicas junto dos agentes económicos e consumidores;\n\nu) Pronunciar-se sobre propostas de regulamentos da competência da Entidade Reguladora dos Serviços Energéticos, nos termos da lei;\n\nv) Coordenar os procedimentos para aprovação do plano de desenvolvimento e investimento da Rede Nacional de Transporte de Eletricidade, do plano de desenvolvimento e investimento da Rede Nacional de Distribuição de Eletricidade, do plano de desenvolvimento e investimento da Rede Nacional de Transporte, Infraestruturas de Armazenamento e Terminais de Gás Natural Liquefeito e do plano de desenvolvimento e investimento da Rede Nacional de Distribuição de Gás Natural e monitorizar a respetiva aplicação;\n\nw) Elaborar os relatórios de monitorização da segurança do abastecimento no âmbito do Sistema Elétrico Nacional (SEN), do Sistema Nacional de Gás Natural (SNGN) e do Sistema Petrolífero Nacional (SPN);\n\nx) Proceder ao licenciamento das grandes instalações de produtos petrolíferos, incluindo as que sejam definidas de interesse estratégico, bem como dos postos de abastecimento de combustíveis e restantes instalações de armazenamento de produtos de petróleo, seus derivados e de biocombustíveis e ainda das instalações de armazenamento e distribuição de Gás de Petróleo Liquefeito (GPL) canalizado, com exceção das instalações sujeitas a licenciamento municipal;\n\ny) Proceder ao licenciamento das infraestruturas da Rede Nacional de Transporte, Infraestruturas de Armazenamento e Terminais de Gás Natural Liquefeito e da Rede Nacional de Distribuição de Gás Natural e atribuir licenças para utilização privativa de gás natural e para a exploração de postos de enchimento de gás natural;\n\nz) Proceder ao licenciamento das instalações que integram a Rede Elétrica de Serviço Público, incluindo a aprovação dos projetos-tipo das obras de construção civil associadas, das instalações elétricas de serviço particular, das centrais de produção de energia elétrica em regime ordinário e em regime especial e de produção em cogeração, bem como das instalações de armazenamento de energia para transformação em eletricidade e das instalações de produção descentralizada de eletricidade, incluindo a produção distribuída e a destinada a consumo próprio;\n\naa) Acompanhar e fiscalizar a execução e o cumprimento das obrigações das concessionárias e das licenciadas no âmbito dos contratos de concessão e licenças dos serviços públicos de receção, armazenamento e regaseificação de Gás Natural Liquefeito, de armazenamento subterrâneo de gás natural, de transporte e de distribuição de gás natural, bem como no âmbito dos contratos de concessão dos serviços públicos de transporte e de distribuição de eletricidade, promovendo as ações que permitam assegurar o acesso às redes, a garantia de serviço público, a qualidade de serviço e a segurança de abastecimento;\n\nbb) Instruir os procedimentos de comunicação prévia, autorização e licenciamento relativos ao acesso à capacidade de receção das redes e à atividade de produção de eletricidade, incluindo a produção de eletricidade no espaço marítimo nacional, nos termos dos regimes jurídicos aplicáveis;\n\ncc) Monitorizar o cumprimento das obrigações nacionais e internacionais relativas à constituição e manutenção de reservas de gás natural;\n\ndd) Coordenar o sistema de controlo da qualidade dos combustíveis rodoviários;\n\nee) Assegurar a execução do Programa de Eficiência Energética na Administração Pública - ECO.AP, promover e realizar estudos de eficiência energética no setor dos edifícios, serviços e indústria, e exercer competências no âmbito da conceção ecológica dos produtos (ecodesign) e da etiquetagem e rotulagem energética de materiais e equipamentos, nomeadamente eletrodomésticos e pneus;\n\nff) Efetuar as comunicações à Comissão Europeia respeitantes às quantidades de biocombustíveis introduzidas no consumo no setor dos transportes terrestres para efeitos das obrigações decorrentes da Diretiva n.º 2009/28/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, supervisionar os procedimentos efetuados pela entidade coordenadora da verificação do cumprimento dos critérios de sustentabilidade, proceder ao reconhecimento dos pequenos produtores dedicados (PPD) e gerir o sistema de leilões de títulos de biocombustíveis correspondentes aos biocombustíveis introduzidos no consumo pelos PPD;\n\ngg) Realizar estudos e projetos de investigação, no domínio da bioenergia, incluindo biomassa, biogás, biometano e biolíquidos, designadamente, das várias componentes do recurso, potencial endógeno e na área da sustentabilidade da produção de energia;\n\nhh) Instruir os processos de ocupação, constituição de servidões administrativas e de expropriação de terrenos necessários ao exercício das atividades do SEN, do SNGN e do SPN e do aproveitamento de recursos geológicos, bem como os relativos ao abate ou desafetação de bens afetos às concessões de serviço público no setor energético e expropriação de estabelecimentos mineralúrgicos, anexos mineiros ou de pedreiras, apoiar e acompanhar a elaboração dos respetivos instrumentos de gestão territorial, nos termos da legislação aplicável.\n\nii) Emitir pareceres no domínio da energia e dos recursos geológicos.\n\n3 - Na prossecução das suas atribuições, a DGEG pode ser autorizada pelo membro do Governo responsável pelas áreas da energia e dos recursos geológicos, a participar em associações ou outras entidades nacionais e internacionais, conceder apoios financeiros ou celebrar protocolos de cooperação com entidades nacionais sem fins lucrativos que desenvolvam atividades de interesse público e comum de caráter técnico ou científico e prestem apoio ou promovam a inovação tecnológica no âmbito da utilização de energias renováveis, da eficiência energética, da competitividade ou do aproveitamento sustentável dos recursos energéticos e geológicos, ou assegurem a representação setorial em organizações internacionais de que tenham sido incumbidas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2016 - Diário da República n.º 122/2016, Série I de 2016-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2016-74811910), em vigor a partir de 2016-07-03, produz efeitos a partir de 2015-11-26"
+  },
+  "66462793": {
+   "fragment_id": "66462885",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de julho de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva.\n\nPromulgado em 24 de agosto de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de agosto de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "116230231": {
+   "fragment_id": "66459968",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2016 - Diário da República n.º 122/2016, Série I de 2016-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2016-74811910), em vigor a partir de 2016-07-03, produz efeitos a partir de 2015-11-26"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGEG tem por missão contribuir para a conceção, promoção e avaliação das políticas relativas à energia, aos recursos geológicos e mineiros, numa ótica de desenvolvimento sustentável e de garantia da segurança do abastecimento.\n\n2 - A DGEG prossegue as seguintes atribuições:\n\na) Exercer as funções de autoridade nacional nos domínios da energia, dos recursos geológicos e mineiros, contribuindo para a definição, implementação e avaliação das políticas relativas à energia e aos recursos geológicos e mineiros, visando a sua valorização e utilização apropriada e acompanhando o funcionamento dos respetivos mercados, empresas e produtos;\n\nb) Promover e participar na elaboração do enquadramento legislativo e regulamentar adequado ao desenvolvimento dos sistemas, processos e equipamentos ligados à produção, transporte, distribuição, armazenamento, comercialização e utilização da energia, incluindo no espaço marítimo nacional, visando a segurança do abastecimento, a diversificação das fontes energéticas, a eficiência energética e a preservação do ambiente, através, designadamente, do acompanhamento da execução do Plano Nacional de Ação para a Eficiência Energética (PNAEE) e do Plano Nacional de Ação para as Energias Renováveis, e da sustentabilidade económico-financeira do Sistema Elétrico Nacional e do Sistema Nacional de Gás Natural, sem prejuízo da necessária articulação e das atribuições das entidades públicas competentes quanto ao espaço marítimo nacional;\n\nc) Promover e participar na elaboração do enquadramento legislativo e regulamentar adequado ao desenvolvimento das políticas de divulgação, prospeção, aproveitamento, proteção e valorização dos recursos geológicos, incluindo recursos petrolíferos, hidrogeológicos e geotérmicos, e respetivo contexto socioeconómico;\n\nd) Assegurar o registo dos comercializadores de eletricidade, de gás natural e dos comercializadores de eletricidade para a mobilidade elétrica e o licenciamento da operação de pontos de carregamento;\n\ne) Exercer competências em matéria de atribuição de direitos e de licenciamento no sector de atividade de revelação e aproveitamento de recursos geológicos, designadamente relativos à prospeção, pesquisa e exploração de depósitos minerais, de massas minerais, de recursos hidrogeológicos, de recursos geotérmicos e ao armazenamento geológico de dióxido de carbono, sem prejuízo das competências próprias de outras entidades em matéria de ordenamento e gestão do espaço marítimo nacional, bem como em matéria de licenciamento e fiscalização de instalações de resíduos da indústria de extração de depósitos minerais e de massas minerais;\n\nf) Garantir a produção e reporte de informação estatística nas áreas da energia, incluindo petróleo bruto e produtos de petróleo e respetivas reservas de segurança, e dos recursos geológicos, no quadro dos sistemas estatísticos nacional, comunitário e internacional, bem como a respetiva difusão;\n\ng) (Revogada.)\n\nh) Acompanhar a avaliação e implementação de novas tecnologias energéticas e de recursos geológicos, em articulação com as demais entidades competentes;\n\ni) Promover o conhecimento, a salvaguarda e a valorização dos recursos geológicos;\n\nj) Colaborar na promoção, divulgação e internacionalização dos recursos geológicos, designadamente em ações de cooperação com as entidades públicas e privadas, nacionais e estrangeiras, competentes no sector, sem prejuízo das competências do Ministério dos Negócios Estrangeiros (MNE);\n\nk) Apoiar a participação no âmbito da área de competência do Ministro da Economia nos domínios europeu e internacional, designadamente através da respetiva representação junto das instâncias internacionais, da preparação e do apoio à intervenção técnica nacional na adoção de instrumentos normativos de Direito Europeu e internacionais, na área da energia e dos recursos geológicos, sem prejuízo das competências do membro do Governo responsável pela área dos negócios estrangeiros;\n\nl) Assegurar o planeamento do aprovisionamento, produção e utilização dos recursos energéticos, designadamente em situação de crise e de guerra, e apoiar o Governo na tomada de decisões em matéria de planeamento civil de emergência, no quadro definido pelo Decreto-Lei n.º 73/2012, de 26 de março;\n\nm) Assegurar, em articulação com as entidades competentes, designadamente do MNE, do Ministério da Defesa Nacional e do Ministério da Administração Interna, a participação e representação técnica em matéria de planeamento de emergência nas instâncias internacionais, nomeadamente no quadro dos órgãos da União Europeia, da Organização do Tratado Atlântico Norte, da Organização das Nações Unidas e da Organização para a Cooperação e Desenvolvimento Económico;\n\nn) Promover a orientação, o controlo e o acompanhamento de instrumentos financeiros afetos a finalidades na área da energia e geologia;\n\no) Realizar estudos e desenvolver metodologias e modelos na área de análise dos sistemas de energia e redes, designadamente de cenarização, planeamento e operação de redes de transporte e distribuição de energia e de aproveitamento dos recursos energéticos;\n\np) Exercer as funções de autoridade nacional responsável pela facilitação e coordenação do procedimento de concessão de licenças para projetos de interesse comum, no âmbito do Regulamento (UE) n.º 347/2013, do Parlamento Europeu e do Conselho, de 17 de abril de 2013;\n\nq) Exercer as competências de entidade coordenadora nos termos da legislação aplicável ao exercício da atividade industrial no domínio da instalação e exploração de estabelecimentos industriais dos setores da energia e dos recursos geológicos;\n\nr) Acompanhar as medidas da União Europeia com implicações concomitantes para as empresas e para a energia ou para os recursos geológicos, designadamente nas áreas da eficiência de recursos, resíduos, emissões industriais, segurança industrial e responsabilidade social das empresas, sem prejuízo das competências atribuídas à Direção-Geral das Atividades Económicas (DGAE);\n\ns) Acompanhar a evolução do mercado interno de energia, do Mercado Ibérico de Eletricidade, do Mercado Ibérico do Gás Natural e de outros mercados regionais de energia, na ótica da eficiência, da competitividade e da segurança de abastecimento;\n\nt) Promover a utilização de fontes de energia renováveis e a eficiência energética, através da implementação de programas a tal dirigidos e da promoção de iniciativas e ações específicas junto dos agentes económicos e consumidores;\n\nu) Pronunciar-se sobre propostas de regulamentos da competência da Entidade Reguladora dos Serviços Energéticos, nos termos da lei;\n\nv) Coordenar os procedimentos para aprovação do plano de desenvolvimento e investimento da Rede Nacional de Transporte de Eletricidade, do plano de desenvolvimento e investimento da Rede Nacional de Distribuição de Eletricidade, do plano de desenvolvimento e investimento da Rede Nacional de Transporte, Infraestruturas de Armazenamento e Terminais de Gás Natural Liquefeito e do plano de desenvolvimento e investimento da Rede Nacional de Distribuição de Gás Natural e monitorizar a respetiva aplicação;\n\nw) Elaborar os relatórios de monitorização da segurança do abastecimento no âmbito do Sistema Elétrico Nacional (SEN), do Sistema Nacional de Gás Natural (SNGN) e do Sistema Petrolífero Nacional (SPN);\n\nx) Proceder ao licenciamento das grandes instalações de produtos petrolíferos, incluindo as que sejam definidas de interesse estratégico, bem como dos postos de abastecimento de combustíveis e restantes instalações de armazenamento de produtos de petróleo, seus derivados e de biocombustíveis e ainda das instalações de armazenamento e distribuição de Gás de Petróleo Liquefeito (GPL) canalizado, com exceção das instalações sujeitas a licenciamento municipal;\n\ny) Proceder ao licenciamento das infraestruturas da Rede Nacional de Transporte, Infraestruturas de Armazenamento e Terminais de Gás Natural Liquefeito e da Rede Nacional de Distribuição de Gás Natural e atribuir licenças para utilização privativa de gás natural e para a exploração de postos de enchimento de gás natural;\n\nz) Proceder ao licenciamento das instalações que integram a Rede Elétrica de Serviço Público, incluindo a aprovação dos projetos-tipo das obras de construção civil associadas, das instalações elétricas de serviço particular, das centrais de produção de energia elétrica em regime ordinário e em regime especial e de produção em cogeração, bem como das instalações de armazenamento de energia para transformação em eletricidade e das instalações de produção descentralizada de eletricidade, incluindo a produção distribuída e a destinada a consumo próprio;\n\naa) Acompanhar e fiscalizar a execução e o cumprimento das obrigações das concessionárias e das licenciadas no âmbito dos contratos de concessão e licenças dos serviços públicos de receção, armazenamento e regaseificação de Gás Natural Liquefeito, de armazenamento subterrâneo de gás natural, de transporte e de distribuição de gás natural, bem como no âmbito dos contratos de concessão dos serviços públicos de transporte e de distribuição de eletricidade, promovendo as ações que permitam assegurar o acesso às redes, a garantia de serviço público, a qualidade de serviço e a segurança de abastecimento;\n\nbb) Instruir os procedimentos de comunicação prévia, autorização e licenciamento relativos ao acesso à capacidade de receção das redes e à atividade de produção de eletricidade, incluindo a produção de eletricidade no espaço marítimo nacional, nos termos dos regimes jurídicos aplicáveis;\n\ncc) Monitorizar o cumprimento das obrigações nacionais e internacionais relativas à constituição e manutenção de reservas de gás natural e produtos petrolíferos;\n\ndd) Coordenar o sistema de controlo da qualidade dos combustíveis rodoviários;\n\nee) Assegurar a execução do Programa de Eficiência Energética na Administração Pública - ECO.AP, promover e realizar estudos de eficiência energética no setor dos edifícios, serviços e indústria, e exercer competências no âmbito da conceção ecológica dos produtos (ecodesign) e da etiquetagem e rotulagem energética de materiais e equipamentos, nomeadamente eletrodomésticos e pneus;\n\nff) Efetuar as comunicações à Comissão Europeia respeitantes às quantidades de biocombustíveis introduzidas no consumo no setor dos transportes terrestres para efeitos das obrigações decorrentes da Diretiva n.º 2009/28/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, supervisionar os procedimentos efetuados pela entidade coordenadora da verificação do cumprimento dos critérios de sustentabilidade, proceder ao reconhecimento dos pequenos produtores dedicados (PPD) e gerir o sistema de leilões de títulos de biocombustíveis correspondentes aos biocombustíveis introduzidos no consumo pelos PPD;\n\ngg) Realizar estudos e projetos de investigação, no domínio da bioenergia, incluindo biomassa, biogás, biometano e biolíquidos, designadamente, das várias componentes do recurso, potencial endógeno e na área da sustentabilidade da produção de energia;\n\nhh) Instruir os processos de ocupação, constituição de servidões administrativas e de expropriação de terrenos necessários ao exercício das atividades do SEN, do SNGN e do SPN e do aproveitamento de recursos geológicos, bem como os relativos ao abate ou desafetação de bens afetos às concessões de serviço público no setor energético e expropriação de estabelecimentos mineralúrgicos, anexos mineiros ou de pedreiras, apoiar e acompanhar a elaboração dos respetivos instrumentos de gestão territorial, nos termos da legislação aplicável.\n\nii) Emitir pareceres no domínio da energia, dos recursos geológicos e mineiros;\n\njj) Assegurar os procedimentos para a formação de contratos de atribuição de concessões de prospeção, pesquisa, desenvolvimento e produção de hidrocarbonetos, emitir licenças de avaliação prévia, aprovar planos e projetos, acompanhar e fiscalizar a execução e o cumprimento das obrigações das concessionárias e das licenciadas e o exercício das atividades, nos termos da lei;\n\nkk) Exercer em conjunto com a Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, as competências de autoridade competente, nos termos do Decreto-Lei n.º 13/2016, de 9 de março, na sua redação atual;\n\nll) Proceder ao licenciamento das instalações de abastecimento de combustíveis situadas em portos e aeroportos.\n\n3 - Na prossecução das suas atribuições, a DGEG pode ser autorizada pelo membro do Governo responsável pelas áreas da energia e dos recursos geológicos a participar em associações ou outras entidades nacionais e internacionais, conceder apoios financeiros ou celebrar protocolos de cooperação com empresas públicas e entidades nacionais sem fins lucrativos que desenvolvam atividades de interesse público e comum de caráter técnico ou científico e prestem apoio ou promovam a inovação tecnológica no âmbito da utilização de energias renováveis, da eficiência energética, da competitividade ou do aproveitamento sustentável dos recursos energéticos e geológicos, ou assegurem a representação setorial em organizações internacionais de que tenham sido incumbidas.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2016 - Diário da República n.º 122/2016, Série I de 2016-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2016-74811910), em vigor a partir de 2016-07-03, produz efeitos a partir de 2015-11-26"
+  },
+  "116230232": {
+   "fragment_id": "66459969",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nA DGEG é dirigida por um diretor-geral, coadjuvado por dois subdiretores-gerais, cargos de direção superior de 1.º e 2.º grau, respetivamente.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+  },
+  "116230233": {
+   "fragment_id": "66459970",
+   "type": 11,
+   "heading": "Artigo 4.º — Diretor-geral",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Diretor-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor-geral:\n\na) Presidir à Comissão Executiva do PNAEE;\n\nb) Assegurar a gestão executiva do Fundo de Apoio à Inovação.\n\n2 - Os subdiretores-gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo diretor-geral, competindo-lhes substituí-lo nas suas faltas e impedimentos.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+  },
+  "116230234": {
+   "fragment_id": "66459973",
+   "type": 11,
+   "heading": "Artigo 7.º — Receitas",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 7.º — Receitas\n\n1 - A DGEG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A DGEG dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) O produto de venda de publicações e de trabalhos editados pela DGEG;\n\nc) Os prémios e outras compensações devidos pela outorga de contratos de prospeção, pesquisa e exploração de recursos geológicos, incluindo de recursos petrolíferos, na percentagem que vier a ser definida por despacho do membro do Governo responsável pelas áreas da energia e dos recursos geológicos, sendo que 90 % da receita resultante dos referidos contratos relativos ao espaço marítimo nacional reverte para o Fundo Azul criado pelo Decreto-Lei n.º 16/2016, de 9 de março;\n\nd) Os encargos de exploração a suportar pelos concessionários de recursos geológicos, durante a execução dos respetivos contratos, na percentagem que vier a ser definida por despacho do membro do Governo responsável pelas áreas da energia e dos recursos geológicos;\n\ne) O produto das taxas, coimas e outros valores de natureza pecuniária que por lei lhe sejam consignados;\n\nf) Os subsídios, subvenções, comparticipações, doações e legados concedidos por entidades públicas e privadas;\n\ng) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As quantias cobradas pela DGEG são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da energia e dos recursos geológicos, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+  },
+  "116230235": {
+   "fragment_id": "66462876",
+   "type": 11,
+   "heading": "Artigo 10.º — Trabalhadores com funções de fiscalização",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 10.º — Trabalhadores com funções de fiscalização\n\n1 - Os trabalhadores que se encontrem no exercício de funções de fiscalização ou em ações de vistoria devem ser portadores de cartão de identificação especial, cujo modelo é aprovado pelo membro do Governo responsável pelas áreas da energia e dos recursos geológicos.\n\n2 - Os trabalhadores na situação prevista no número anterior são considerados agentes de autoridade, gozando dos seguintes direitos e prerrogativas:\n\na) Acesso e livre-trânsito em todas as áreas de prospeção, pesquisa e exploração de depósitos minerais, massas minerais, recursos hidrogeológicos, recursos geotérmicos e armazenamento geológico de dióxido de carbono;\n\nb) Examinar livros, documentos e arquivos relativos às matérias inspecionadas;\n\nc) Proceder à selagem de quaisquer instalações ou equipamentos, quando isso se mostre necessário face às infrações detetadas;\n\nd) Levantar autos de notícia por infração ao cumprimento de normas e regulamentos cuja fiscalização seja da competência da DGEG;\n\ne) Solicitar o apoio das autoridades administrativas e policiais para cumprimento das respetivas funções.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+  },
+  "116230236": {
+   "fragment_id": "66462877",
+   "type": 11,
+   "heading": "Artigo 11.º — Sucessão",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 11.º — Sucessão\n\n1 - A DGEG sucede nas atribuições das DRE nos domínios da energia e da geologia.\n\n2 - A DGEG sucede nas atribuições da DGAE nos domínios da energia e da geologia.\n\n3 - A DGEG sucede, ainda, nas atribuições do LNEG, I.P., nos domínios da bioenergia com exceção dos biocombustíveis, da eficiência energética e das redes de energia.\n\n4 - A DGEG sucede nas atribuições e competências da ENMC, E. P. E., no domínio da prospeção, pesquisa, desenvolvimento e produção de hidrocarbonetos.\n\n5 - As referências legais feitas à ENMC, E. P. E., consideram-se feitas à DGEG, no âmbito das atribuições integradas nesta.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+  },
+  "116230237": {
+   "fragment_id": "66462878",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de seleção do pessoal",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 12.º — Critérios de seleção do pessoal\n\nSão fixados os seguintes critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições da DGEG:\n\na) Desempenho de funções nos domínios da energia e da geologia nas DRE e na DGAE;\n\nb) Desempenho de funções no domínio da bioenergia com exceção dos biocombustíveis, da eficiência energética e das redes de energia no LNEG, I.P.\n\nc) Desempenho de funções nos domínios dos hidrocarbonetos e de licenciamento na área dos biocombustíveis.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+  },
+  "116230238": {
+   "fragment_id": "66462884",
+   "type": 14,
+   "heading": "Anexo — Mapa de pessoal dirigente",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "## Anexo — Mapa de pessoal dirigente\n\n(a que se refere o artigo 9.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2018-116165764), em vigor a partir de 2018-09-01"
+  }
+ }
+}

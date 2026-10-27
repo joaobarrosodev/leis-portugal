@@ -1,0 +1,249 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:175991:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-167808470",
+ "dre_path": "/dr/detalhe/portaria/277-2012-175991",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-09-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "167812557",
+    "167812558",
+    "167812559",
+    "167812560",
+    "167812561",
+    "167812562",
+    "167812563",
+    "167812564",
+    "167812565"
+   ]
+  },
+  {
+   "date": "2013-01-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:588815:por",
+     "title": "Portaria n.º 14/2013",
+     "published": "2013-01-11",
+     "dre_path": "/dr/detalhe/portaria/14-2013-588815"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "167812557",
+    "167812558",
+    "168000141",
+    "167812560",
+    "167812561",
+    "167812562",
+    "167812563",
+    "167812564",
+    "167812565",
+    "167812566"
+   ]
+  },
+  {
+   "date": "2026-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1112989387:por",
+     "title": "Portaria n.º 209/2026/1",
+     "published": "2026-05-07",
+     "dre_path": "/dr/detalhe/portaria/209-2026-1112989387"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "167812557",
+    "1115196375",
+    "1115196575",
+    "1115196775",
+    "1115196975",
+    "1115197175",
+    "1115197375",
+    "1115197575",
+    "167812565",
+    "167812566"
+   ]
+  }
+ ],
+ "fragments": {
+  "167812557": {
+   "fragment_id": "167808471",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 277/2012\n\nde 12 de setembro\n\nO Decreto-Lei n.º 53/2007, de 8 de março, que regula o horário de funcionamento das farmácias de oficina, foi alterado pelo Decreto-Lei n.º 7/2011, de 10 de janeiro, com vista a rever os limites ao horário de funcionamento das farmácias de oficina, bem como pelo Decreto-Lei n.º 172/2012, de 1 de agosto, que eliminou os turnos de reforço, alterou os prazos para comunicação das alterações aos períodos de funcionamento e modificou a capitação para a exigência das farmácias de turno permanente, com o objetivo de equilibrar as obrigações públicas de serviço com as necessidades de acesso da população a medicamentos.\n\nAs modificações ora introduzidas pelo Decreto-Lei n.º 172/2012, de 1 de agosto, implicam, por isso, a revisão da regulamentação em vigor, no sentido de a conformar com o mesmo diploma.\n\nPor outro lado, a alínea c) do n.º 2 do artigo 57.º-A do Decreto-Lei n.º 307/2007, de 31 de agosto, na redação dada pelo Decreto-Lei n.º 171/2012, de 1 de agosto, veio permitir que algumas farmácias tivessem um período de funcionamento mínimo de 40 horas, pelo que igualmente importa definir o horário padrão para essas farmácias.\n\nAssim:\n\nNos termos dos artigos 4.º, 6.º, 11.º, 12.º, 14.º e 15.º do Decreto-Lei n.º 53/2007, de 8 de março, que regula o horário de funcionamento das farmácias de oficina, alterado pelo Decreto-Lei n.º 7/2011, de 10 de janeiro, e pelo Decreto-Lei n.º 172/2012, de 1 de agosto, e da alínea c) do n.º 2 do artigo 57.º-A do Decreto-Lei n.º 307/2007, de 31 de agosto, na redação dada pelo Decreto-Lei n.º 171/2012, de 1 de agosto, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "167812558": {
+   "fragment_id": "167808472",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria define o horário padrão de funcionamento das farmácias de oficina, regula o procedimento de aprovação e a duração, execução, divulgação e fiscalização das escalas de turnos, bem como o valor máximo a cobrar pelas farmácias de turno pela dispensa de medicamentos não prescritos em receita médica do próprio dia ou do dia anterior, nos termos do Decreto-Lei n.º 53/2007, de 8 de março, na redação dada pelo Decreto-Lei n.º 7/2011, de 10 de janeiro, e pelo Decreto-Lei n.º 172/2012, de 1 de agosto."
+  },
+  "167812559": {
+   "fragment_id": "167808473",
+   "type": 11,
+   "heading": "Artigo 2.º — Períodos de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Períodos de funcionamento\n\n1 - Salvo disposição especial, o período de funcionamento semanal das farmácias de oficina tem o limite mínimo de 44 horas, sem prejuízo do disposto nos n.os 3 e 4.\n\n2 - O período de funcionamento diário das farmácias de oficina deve ser fixado em termos que garantam a abertura ao público nos períodos seguintes:\n\na) De segunda-feira a sexta-feira, das 10 às 13 horas e das 15 às 19 horas;\n\nb) Ao sábado, das 10 às 13 horas.\n\n3 - O período de funcionamento semanal das farmácias de oficina em turno de regime de disponibilidade tem o limite mínimo de 40 horas, distribuído pelos períodos diurnos de todos os dias da semana, exceto o domingo.\n\n4 - O período de funcionamento semanal das farmácias de oficina previstas na alínea c) do n.º 2 do artigo 57.º-A do Decreto-Lei n.º 307/2007, de 31 de agosto, na redação dada pelo Decreto-Lei n.º 171/2012, de 1 de agosto, é de 40 horas, devendo ser fixado em termos que garantam a abertura ao público nos períodos seguintes:\n\na) De segunda-feira a sexta-feira, das 10 às 12 horas e 30 minutos e das 15 às 18 horas e 30 minutos;\n\nb) Ao sábado, das 10 às 12 horas e 30 minutos."
+  },
+  "167812560": {
+   "fragment_id": "167808474",
+   "type": 11,
+   "heading": "Artigo 3.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aprovação\n\n1 - As associações representativas das farmácias propõem à administração regional de saúde territorialmente competente (ARS), até ao dia 30 de setembro, as escalas de turnos de serviço permanente e de regime de disponibilidade, adiante designadas por escalas de turnos, para o ano seguinte.\n\n2 - A ARS solicita, à câmara municipal territorialmente competente (CM), parecer sobre a proposta referida no número anterior, que deve ser emitido até ao dia 30 de outubro.\n\n3 - Após a receção do parecer da CM ou caso o mesmo não seja emitido durante o prazo legal, a ARS aprova, até ao dia 30 de novembro, as escalas de turnos para o ano seguinte, nos termos do artigo 14.º do Decreto-Lei n.º 53/2007, de 8 de março, na redação dada pelo Decreto-Lei n.º 7/2011, de 10 de janeiro.\n\n4 - A ARS envia ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED), à CM, às associações representativas das farmácias e às farmácias do município, até ao dia 30 de novembro, as escalas de turnos aprovadas para o ano seguinte.\n\n5 - As comunicações entre as entidades previstas no presente artigo devem ser feitas, sempre que possível, através de formato eletrónico."
+  },
+  "167812561": {
+   "fragment_id": "167813875",
+   "type": 11,
+   "heading": "Artigo 4.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Duração\n\n1 - As escalas de turnos vigoram durante o ano civil a que respeitam, exceto nos casos previstos no número seguinte.\n\n2 - As escalas de turnos podem ser revistas semestralmente, desde que ocorra um facto novo que fundadamente justifique essa revisão, por alterar os pressupostos que fundamentaram a elaboração dessas escalas, designadamente a abertura de nova farmácia de dispensa de medicamentos ao público num hospital do Serviço Nacional de Saúde ou o alargamento do período de funcionamento diário e semanal de farmácia de oficina em termos que interfiram com a escala em vigor.\n\n3 - Nos casos previstos no número anterior observa-se, com as devidas adaptações, o preceituado no artigo 3.º"
+  },
+  "167812562": {
+   "fragment_id": "167813876",
+   "type": 11,
+   "heading": "Artigo 5.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Execução\n\n1 - As farmácias devem cumprir as escalas de turnos aprovadas pela ARS.\n\n2 - As farmácias de turno de serviço permanente podem, a partir da hora de encerramento normal, impedir o acesso do público ao interior da farmácia, desde que disponham de um postigo de atendimento que permita a dispensa de medicamentos ao público.\n\n3 - As farmácias que cumpram escalas de turnos devem dispor de condições adequadas ao funcionamento por turnos.\n\n4 - As farmácias de turno de serviço permanente ou de regime de disponibilidade podem cobrar, para além do preço de venda ao público dos medicamentos, um acréscimo no pagamento no valor máximo de (euro) 2,50 por utente, salvo se se tratar da dispensa de medicamentos prescritos em receita médica do próprio dia ou do dia anterior."
+  },
+  "167812563": {
+   "fragment_id": "167813877",
+   "type": 11,
+   "heading": "Artigo 6.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Divulgação\n\n1 - As escalas de turnos das farmácias do município aprovadas pela respetiva ARS são afixadas, em cada farmácia, de forma visível.\n\n2 - O INFARMED e cada ARS divulgam, nos seus sítios na Internet, as escalas de turnos das farmácias."
+  },
+  "167812564": {
+   "fragment_id": "167813878",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fiscalização\n\n1 - A fiscalização do cumprimento das escalas de turnos compete à ARS territorialmente competente.\n\n2 - No final de cada ano, cada ARS deve informar o INFARMED, a respetiva CM e as associações representativas das farmácias sobre a execução e a fiscalização das escalas de turnos aprovadas."
+  },
+  "167812565": {
+   "fragment_id": "167813879",
+   "type": 11,
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revogação\n\nÉ revogada a Portaria n.º 31-A/2011, de 11 de janeiro."
+  },
+  "168000141": {
+   "fragment_id": "167808473",
+   "type": 11,
+   "heading": "Artigo 2.º — Períodos de funcionamento",
+   "in_force_from": "2013-01-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 14/2013 - Diário da República n.º 8/2013, Série I de 2013-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/14-2013-588815), em vigor a partir de 2013-01-12"
+   ],
+   "markdown": "###### Artigo 2.º — Períodos de funcionamento\n\n1 - Salvo disposição especial, o período de funcionamento semanal das farmácias de oficina tem o limite mínimo de 44 horas, sem prejuízo do disposto nos n.os 3 e 4.\n\n2 - O período de funcionamento diário das farmácias de oficina deve ser fixado em termos que garantam a abertura ao público nos períodos seguintes:\n\na) De segunda-feira a sexta-feira, das 10 às 13 horas e das 15 às 19 horas;\n\nb) [Revogada].\n\n3 - O período de funcionamento semanal das farmácias de oficina em turno de regime de disponibilidade tem o limite mínimo de 40 horas, distribuído pelos períodos diurnos de todos os dias da semana, exceto o domingo.\n\n4 - O período de funcionamento semanal das farmácias de oficina previstas na alínea c) do n.º 2 do artigo 57.º-A do Decreto-Lei n.º 307/2007, de 31 de agosto, na redação dada pelo Decreto-Lei n.º 171/2012, de 1 de agosto, é de 40 horas, devendo ser fixado em termos que garantam a abertura ao público nos períodos seguintes:\n\na) De segunda-feira a sexta-feira, das 10 às 12 horas e 30 minutos e das 15 às 18 horas e 30 minutos;\n\nb) [Revogada].\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 14/2013 - Diário da República n.º 8/2013, Série I de 2013-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/14-2013-588815), em vigor a partir de 2013-01-12"
+  },
+  "167812566": {
+   "fragment_id": "167813880",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 4 de setembro de 2012."
+  },
+  "1115196375": {
+   "fragment_id": "167808472",
+   "type": 11,
+   "heading": "Artigo 1 — Objeto",
+   "in_force_from": "2026-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+   ],
+   "markdown": "###### Artigo 1 — Objeto\n\nA presente portaria define o horário padrão de funcionamento das farmácias de oficina, regula o procedimento de elaboração, duração, execução, divulgação e fiscalização das escalas de assistência farmacêutica, bem como o valor máximo a cobrar pelas farmácias em assistência farmacêutica pela dispensa de medicamentos e outros produtos não prescritos em receita médica do próprio dia ou do dia anterior, nos termos do Decreto-Lei n.º 53/2007, de 8 de março, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+  },
+  "1115196575": {
+   "fragment_id": "167808473",
+   "type": 11,
+   "heading": "Artigo 2 — Períodos de funcionamento",
+   "in_force_from": "2026-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 14/2013 - Diário da República n.º 8/2013, Série I de 2013-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/14-2013-588815), em vigor a partir de 2013-01-12"
+   ],
+   "markdown": "###### Artigo 2 — Períodos de funcionamento\n\n1 - Salvo disposição especial, o período de funcionamento semanal das farmácias de oficina tem o limite mínimo de 44 horas, sem prejuízo do disposto nos n.os 3 e 4.\n\n2 - O período de funcionamento diário das farmácias de oficina deve ser fixado em termos que garantam a abertura ao público nos períodos seguintes:\n\na) De segunda-feira a sexta-feira, das 10 às 13 horas e das 15 às 19 horas;\n\nb) [Revogada].\n\n3 - O período de funcionamento semanal das farmácias de oficina em assistência farmacêutica nos termos do disposto nas alíneas a) e b) do n.º 1 do artigo 11.º do Decreto-Lei n.º 53/2007, 8 de março, na sua redação atual, tem o limite mínimo de 40 horas, distribuído pelos períodos diurnos de todos os dias da semana, exceto ao domingo.\n\n4 - O período de funcionamento semanal das farmácias de oficina previstas na alínea c) do n.º 2 do artigo 57.º-A do Decreto-Lei n.º 307/2007, de 31 de agosto, na redação dada pelo Decreto-Lei n.º 171/2012, de 1 de agosto, é de 40 horas, devendo ser fixado em termos que garantam a abertura ao público nos períodos seguintes:\n\na) De segunda-feira a sexta-feira, das 10 às 12 horas e 30 minutos e das 15 às 18 horas e 30 minutos;\n\nb) [Revogada].\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 14/2013 - Diário da República n.º 8/2013, Série I de 2013-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/14-2013-588815), em vigor a partir de 2013-01-12"
+  },
+  "1115196775": {
+   "fragment_id": "167808474",
+   "type": 11,
+   "heading": "Artigo 3 — Elaboração das escalas de assistência farmacêutica",
+   "in_force_from": "2026-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+   ],
+   "markdown": "###### Artigo 3 — Elaboração das escalas de assistência farmacêutica\n\n1 - As associações representativas das farmácias elaboram, de acordo com os critérios mínimos previstos no artigo 11.º do Decreto-Lei n.º 53/2007, 8 de março, na sua redação atual, até ao dia 30 de setembro, as escalas de assistência farmacêutica para o ano seguinte, e solicitam parecer sobre as mesmas à Unidade Local de Saúde (ULS) territorialmente competente, o qual deve ser emitido até ao dia 30 de outubro.\n\n2 - Para efeitos do disposto no número anterior, a ULS, após a receção das escalas de assistência farmacêutica, deve obter a pronúncia dos municípios territorialmente competentes, a qual pode ser prestada diretamente pelos municípios ou, em alternativa, através das respetivas Comunidades Intermunicipais, caso estas estejam mandatadas pelos municípios para o efeito, devendo a pronúncia ser emitida no prazo máximo de 15 dias a contar da data da receção do pedido da ULS.\n\n3 - Sem prejuízo do disposto nos n.os 3 e 4 do artigo 14.º Decreto-Lei n.º 53/2007, 8 de março, na sua atual redação, as escalas de assistência farmacêutica consideram-se válidas após a receção do parecer favorável emitido pela ULS territorialmente competente, bem como quando o mesmo não seja emitido até ao dia 30 de outubro.\n\n4 - As associações representativas das farmácias enviam ao INFARMED, ULS, câmaras municipais e farmácias, até ao dia 10 de dezembro, as escalas de assistência farmacêutica para o ano seguinte, a que se refere o número anterior.\n\n5 - As comunicações referidas no número anterior devem ser feitas através de formato eletrónico.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+  },
+  "1115196975": {
+   "fragment_id": "167813875",
+   "type": 11,
+   "heading": "Artigo 4 — Duração e revisão",
+   "in_force_from": "2026-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+   ],
+   "markdown": "###### Artigo 4 — Duração e revisão\n\n1 - As escalas de assistência farmacêutica vigoram durante o ano civil a que respeitam, sem prejuízo do disposto nos números seguintes.\n\n2 - As escalas de assistência farmacêutica podem ser revistas, desde que ocorra um facto novo que justifique essa revisão, por alterar substancialmente os pressupostos que fundamentaram a elaboração dessas escalas, decorrentes da abertura, transferência ou encerramento de uma farmácia ou da alteração do período de funcionamento diário e semanal, em termos que interfiram com a escala em vigor.\n\n3 - As escalas de assistência farmacêutica podem ainda ser revistas nas situações previstas no n.º 3 do artigo 11.º do Decreto-Lei n.º 53/2007, 8 de março, na sua redação atual.\n\n4 - Nos casos previstos nos n.os 2 e 3, observa-se o seguinte procedimento:\n\na) As associações representativas das farmácias, solicitam à ULS territorialmente competente parecer sobre a proposta de revisão das referidas escalas, o qual deve ser emitido no prazo de 20 dias a contar da data da entrada do pedido nos respetivos serviços;\n\nb) Para efeitos do disposto no número anterior, a ULS, após a receção da proposta de revisão, deve ouvir os municípios territorialmente competentes, podendo a pronúncia ser prestada diretamente pelos municípios ou, em alternativa, através das respetivas Comunidades Intermunicipais, caso estas estejam mandatadas pelos municípios para o efeito, devendo a mesma ser emitida no prazo máximo de 15 dias a contar da data da receção do pedido da ULS;\n\nc) Sem prejuízo do disposto nos n.os 3 e 4 do artigo 14.º do Decreto-Lei n.º 53/2007, 8 de março, na sua atual redação, após a receção do parecer da ULS territorialmente competente, ou caso o mesmo não seja emitido dentro do prazo previsto na alínea a), a proposta de revisão das escalas de assistência farmacêutica considera-se válida, devendo as associações representativas das farmácias comunicar as escalas revistas ao INFARMED, I. P., às ULS, às câmaras municipais territorialmente competentes e às farmácias, no prazo máximo de 10 dias.\n\n5 - As escalas elaboradas nos termos do número anterior vigoram até ao final do ano civil a que dizem respeito, salvo se for elaborada nova proposta de revisão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+  },
+  "1115197175": {
+   "fragment_id": "167813876",
+   "type": 11,
+   "heading": "Artigo 5 — Execução",
+   "in_force_from": "2026-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+   ],
+   "markdown": "###### Artigo 5 — Execução\n\n1 - As farmácias devem cumprir as escalas de assistência farmacêutica elaboradas em conformidade com o disposto no artigo 14.º do Decreto-Lei n.º 53/2007, de 8 de março, na sua redação atual.\n\n2 - As farmácias em assistência farmacêutica podem, a partir da hora de encerramento normal, impedir o acesso do público ao interior da farmácia, desde que disponham de um postigo de atendimento que permita a dispensa ao público.\n\n3 - As farmácias que cumpram escalas de assistência farmacêutica devem dispor de condições adequadas à prestação desse serviço.\n\n4 - As farmácias em assistência farmacêutica podem cobrar, para além do preço de venda ao público dos medicamentos e outros produtos dispensados, um acréscimo no pagamento no valor máximo de 2,50 € por utente, salvo se se tratar da dispensa de medicamentos e outros produtos prescritos em receita médica do próprio dia ou do dia anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+  },
+  "1115197375": {
+   "fragment_id": "167813877",
+   "type": 11,
+   "heading": "Artigo 6 — Divulgação",
+   "in_force_from": "2026-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+   ],
+   "markdown": "###### Artigo 6 — Divulgação\n\nAs farmácias devem ter afixado, em local visível, a indicação da linha de assistência farmacêutica, bem como as escalas de assistência farmacêutica.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+  },
+  "1115197575": {
+   "fragment_id": "167813878",
+   "type": 11,
+   "heading": "Artigo 7 — Fiscalização",
+   "in_force_from": "2026-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+   ],
+   "markdown": "###### Artigo 7 — Fiscalização\n\nSem prejuízo das competências do INFARMED de fiscalização do regime que regula o horário de funcionamento das farmácias, compete especialmente ao INFARMED a fiscalização do cumprimento das escalas de assistência farmacêutica e da sua elaboração.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 209/2026/1 - Diário da República n.º 88/2026, Série I de 2026-05-07](https://diariodarepublica.pt/dr/detalhe/portaria/209-2026-1112989387), em vigor a partir de 2026-06-08."
+  }
+ }
+}

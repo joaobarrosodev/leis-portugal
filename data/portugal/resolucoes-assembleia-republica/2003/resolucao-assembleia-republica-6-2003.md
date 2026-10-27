@@ -1,0 +1,242 @@
+---
+schema_version: '1.0'
+id: pt:dre:166031:por
+title: Resolução da Assembleia da República n.º 6/2003
+short_title: null
+summary: Grupos parlamentares de amizade
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 6/2003
+official_date: null
+publication_date: '2003-01-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/2003, Série I-A de 2003-01-24
+  number: '20'
+  series: I
+  supplement: null
+  pages: 439 - 440
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/01/020a00/04390440.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/6/2003/01/24/p/dre/pt/html
+  oj: null
+  dre: '166031'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/6-2003-166031
+  internal: pt:dre:166031:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/6-2003-166031
+  metadata_url: https://data.dre.pt/eli/resolassrep/6/2003/01/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/6-2003-166031
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:13:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3e6c6b5c0f3ad79441442a1085c5fd6f2bc1a2bedb7a9cb746af2ad3327896cd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:13:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia da República
+- Cooperação Internacional
+- Grupo Parlamentar
+relationships:
+- type: amended_by
+  target: pt:dre:216846231:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:612627:por
+  label: "Alterados os arts. 7º, 9º e 10º e revogado o nº2 do art. 5º do presente diploma, pela RES.26/2010.30.03.2010.AR,\
+    \ DR.IS [62] de 30.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/26-2010-612627
+  date: '2010-03-30'
+- type: repealed_by
+  target: pt:dre:216846231:por
+  label: Revogada pelo(a) Regimento da Assembleia da República n.º 1/2023 - Diário da República n.º 154/2023, Série I de 2023-08-09,
+    nos termos do art. 9.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/regimento-assembleia-republica/1-2023-216846231
+  date: '2023-08-09'
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:13:02Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 6/2003
+
+Grupos parlamentares de amizade
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Noção
+
+Os grupos parlamentares de amizade, adiante designados por GPA, são organismos da Assembleia da República, vocacionados para o diálogo e a cooperação com os parlamentos dos países amigos de Portugal.
+
+###### Artigo 2.º — Âmbito
+
+1 - Cada GPA visa, em regra, o relacionamento com as entidades homólogas de um só país.
+
+2 - Quando especiais razões de afinidade o justifiquem, o mesmo GPA pode abranger mais de um país.
+
+3 - Não podem existir GPA relativos a países com os quais Portugal não mantenha relações diplomáticas ou que não tenham parlamentos plurais livremente eleitos.
+
+###### Artigo 3.º — Designação
+
+Cada GPA será designado pelo nome do país ou grupo de países cujo relacionamento tiver em vista.
+
+###### Artigo 4.º — Objecto
+
+Os GPA promovem as acções necessárias à intensificação das relações com o Parlamento e os parlamentares de outros Estados, designadamente:
+
+a) Intercâmbio geral de conhecimentos e experiências;
+
+b) Estudo das relações bilaterais e do seu enquadramento nas alianças e instituições em que ambos os Estados participam;
+
+c) Divulgação e promoção dos interesses e objectivos comuns, nos domínios político, económico, social e cultural;
+
+d) Troca de informações e consultas mútuas tendo em vista a eventual articulação de posições em organismos internacionais de natureza interparlamentar, sem prejuízo da plena autonomia de cada grupo nacional;
+
+e) Reflexão conjunta sobre problemas envolvendo os dois Estados e os seus nacionais e busca de soluções que relevem da competência legislativa de cada um;
+
+f) Valorização do papel, histórico e actual, das comunidades de emigrantes respectivos, porventura existentes.
+
+###### Artigo 5.º — Poderes
+
+1 - Os GPA podem, designadamente:
+
+a) Realizar reuniões com os grupos seus homólogos, numa base de intercâmbio e reciprocidade;
+
+b) Relacionar-se com outras entidades que visem a aproximação entre os Estados e entre os povos a que digam respeito, apoiando iniciativas e realizando acções conjuntas ou outras formas de cooperação;
+
+c) Convidar a participar nas suas reuniões, ou nas actividades que promovam ou apoiem, membros do corpo diplomático, representantes de organizações internacionais, peritos e outras entidades cuja contribuição considerem relevante para a prossecução dos seus fins próprios.
+
+2 - As reuniões dos GPA, autorizadas pelo Presidente da Assembleia da República, devem ter agenda própria, previamente comunicada ao Presidente da Assembleia da República, que delas dará conhecimento à Conferência dos Representantes dos Grupos Parlamentares e à Comissão de Assuntos Europeus e Política Externa.
+
+###### Artigo 6.º — Composição
+
+1 - Os GPA são compostos por deputados, em número variável, não inferior a 7 nem superior a 12.
+
+2 - Os GPA devem ser sempre pluripartidários, reflectindo a composição da Assembleia da República.
+
+3 - Nenhum deputado pode pertencer a mais de três GPA.
+
+###### Artigo 7.º — Formação
+
+1 - No início de cada legislatura, o Presidente da Assembleia da República, ouvida a Conferência de Representantes dos Grupos Parlamentares, define o elenco dos GPA, cuja formação é considerada prioritária.
+
+2 - Os grupos parlamentares seleccionam de entre os seus membros, em função dos respectivos interesses e aptidões, os deputados interessados em integrar cada GPA e comunicam os nomes respectivos ao Presidente da Assembleia da República, que por despacho o declara formado, indicando a respectiva composição.
+
+3 - Poderão formar-se outros GPA, por iniciativa dos deputados, mediante requerimento dirigido ao Presidente da Assembleia da República, no respeito pelo disposto nos artigos anteriores.
+
+4 - Previamente à sua decisão, o Presidente ouvirá sempre a Comissão de Assuntos Europeus e Política Externa.
+
+5 - Os despachos do Presidente da Assembleia da República mencionados nos números anteriores são publicados no Diário da Assembleia da República, 2.ª série-A.
+
+###### Artigo 8.º — Órgãos
+
+1 - Cada GPA elege um presidente, um vice-presidente e um secretário.
+
+2 - Os GPA funcionam nos mesmos termos das comissões permanentes, previstas no Regimento da Assembleia da República.
+
+###### Artigo 9.º — Programa de actividades
+
+1 - Cada GPA elabora um programa de actividades anual, com indicação dos custos previstos, que submete à aprovação do Presidente da Assembleia da República.
+
+2 - O Presidente da Assembleia da República pode solicitar parecer sobre o programa de actividades à Comissão de Assuntos Europeus e Política Externa e sobre o mesmo ouvirá também a Conferência dos Representantes dos Grupos Parlamentares.
+
+3 - Quanto aos aspectos financeiros envolvidos, o Presidente da Assembleia da República ouvirá as entidades competentes, nos termos da Lei Orgânica da Assembleia da República.
+
+###### Artigo 10.º — Relatório
+
+1 - Cada GPA elabora um relatório anual das suas actividades, que submete à apreciação do Presidente da Assembleia da República.
+
+2 - O Presidente da Assembleia da República pode solicitar parecer sobre o relatório de actividades à Comissão de Assuntos Europeus e Política Externa.
+
+###### Artigo 11.º — Publicações
+
+O programa de actividades e o relatório de cada GPA são publicados no Diário da Assembleia da República, 2.ª série-C.
+
+###### Artigo 12.º — Apoio
+
+1 - Os GPA são apoiados por secretários administrativos e têm a colaboração de funcionários do quadro, nos termos a determinar pelo Presidente da Assembleia da República.
+
+2 - Os GPA utilizam as instalações da Assembleia da República, bem como os seus serviços postais, telefónicos e informáticos, dentro de limites anualmente fixados, nos termos da Lei Orgânica da Assembleia da República.
+
+###### Artigo 13.º — Financiamento
+
+1 - Os GPA são financiados exclusivamente pela Assembleia da República.
+
+2 - As despesas com a deslocação de delegações dos GPA e com o acolhimento de grupos homólogos em visita a Portugal são comparticipadas pelo orçamento da Assembleia da República.
+
+3 - Os membros das delegações dos GPA recebem as ajudas de custo e despesas de representação correspondentes às delegações parlamentares.
+
+4 - Para efeitos de seguro e justificação de faltas, consideram-se de interesse parlamentar as deslocações realizadas no âmbito dos GPA.
+
+###### Artigo 14.º — Reciprocidade
+
+1 - No prazo de seis meses após a sua constituição, os GPA devem comunicar ao Presidente da Assembleia da República a constituição do respectivo grupo homólogo.
+
+2 - O prazo mencionado no número anterior poderá, havendo motivo suficiente, ser prorrogado por igual período, por despacho do Presidente da Assembleia da República.
+
+3 - Não se constituindo o grupo homólogo no prazo devido, o Presidente da Assembleia da República, por despacho a publicar no Diário da Assembleia da República, 2.ª série-A, declara extinto o GPA respectivo.
+
+4 - Os GPA que forem extintos não podem ser reactivados no decurso da mesma legislatura.
+
+###### Artigo 15.º — Colaboração
+
+1 - Os membros das delegações parlamentares em organismos interparlamentares darão toda a colaboração aos presidentes dos GPA, no sentido de se promover a constituição dos grupos homólogos.
+
+2 - Do mesmo modo deverão proceder os deputados que participarem em visitas oficiais ao estrangeiro, integrando a comitiva do Presidente da República ou do Presidente da Assembleia da República.
+
+###### Artigo 16.º — Coordenação
+
+O Presidente da Assembleia da República coordena a actividade dos GPA, reunindo com regularidade com os respectivos presidentes para formular sugestões ou recomendações.
+
+###### Artigo 17.º — Delegação
+
+Os poderes do Presidente da Assembleia da República mencionados no presente diploma podem ser delegados nos Vice-Presidentes ou em algum deles.
+
+###### Artigo 18.º — Norma revogatória
+
+Fica revogada a Deliberação n.º 4/PL/90, de 8 de Março, publicada no Diário da Assembleia da República, 2.ª série-A, n.º 50, de 20 de Junho de 1990.
+
+Aprovada em 19 de Dezembro de 2002.
+
+O Presidente da Assembleia da República, João Bosco Mota Amaral.

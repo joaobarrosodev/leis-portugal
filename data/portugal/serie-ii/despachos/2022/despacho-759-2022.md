@@ -1,0 +1,317 @@
+---
+schema_version: '1.0'
+id: pt:dre:177796643:por
+title: Despacho n.º 759/2022
+short_title: null
+summary: Delegação de competências no Chefe do Estado-Maior da Armada e Autoridade Marítima Nacional, Almirante Henrique Eduardo
+  Passaláqua de Gouveia e Melo
+jurisdiction: portugal
+territory: null
+document_type: despacho
+document_type_label: Despacho
+issuing_authority:
+- Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 759/2022
+official_date: null
+publication_date: '2022-01-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/2022, Série II de 2022-01-19
+  number: '13'
+  series: II
+  supplement: null
+  pages: 30 - 32
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/01/013000000/0003000032.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '177796643'
+  dre_path: /dr/detalhe/despacho/759-2022-177796643
+  internal: pt:dre:177796643:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho/759-2022-177796643
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho/759-2022-177796643
+  consolidated_url: null
+  retrieved_at: '2026-10-26T11:04:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3c210dfb473ccce0b37dfae9084ce1a977af043ed172082a1d4185d64d577e00
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-26T11:04:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade Marítima Nacional
+- Chefe do Estado Maior da Armada
+- Delegação de Competências
+- Governo XXII
+- Ministro da Defesa Nacional
+relationships:
+- type: cites
+  target: pt:dre:105711787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107071469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117133431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117133432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117656632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125096769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141214439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143618772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144246133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144452188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145583197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147933315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148303910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151173022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161663921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167357807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168461969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170503727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170503728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175016689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175016690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176231722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73658964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73658965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73864799:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T11:04:30Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho n.º 759/2022
+
+1 - Nos termos do disposto nos artigos 44.º a 50.º do Código do Procedimento Administrativo (CPA), aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, delego no Chefe do Estado-Maior da Armada e, por inerência, Autoridade Marítima Nacional (AMN), Almirante Henrique Eduardo Passaláqua de Gouveia e Melo, a competência para, no âmbito do respetivo ramo e dos órgãos da AMN:
+
+a) Autorizar os processamentos relativos a deslocações em missão oficial ao estrangeiro, após prévia concordância do Ministro da Defesa Nacional;
+
+b) Licenciar obras em áreas na sua direta dependência, sujeitas a servidão militar, nos termos do disposto na alínea t) do n.º 3 do artigo 14.º da Lei de Defesa Nacional, aprovada pela Lei Orgânica n.º 1-B/2009, de 7 de julho, na sua redação atual.
+
+2 - Delego ainda no Chefe do Estado-Maior da Armada, Almirante Henrique Eduardo Passaláqua de Gouveia e Melo, e, por inerência, Autoridade Marítima Nacional, a competência para autorizar despesas:
+
+a) Com locação e aquisição de bens e serviços, até (euro) 1 250 000,00, de acordo com o previsto na alínea c) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual;
+
+b) Com empreitadas de obras públicas, até (euro) 1 250 000,00, de acordo com o previsto nos artigos 343.º e seguintes do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e na alínea c) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual;
+
+c) Relativas à execução de planos ou programas plurianuais legalmente aprovados, até (euro) 1 250 000,00, de acordo com o previsto na alínea c) do n.º 3 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual;
+
+d) Com indemnizações a terceiros, resultantes de decisão judicial ou de acordo com o indemnizado, decorrentes de acidentes em serviço ocorridos no âmbito da Marinha.
+
+3 - Delego ainda no Chefe do Estado-Maior da Armada, Almirante Henrique Eduardo Passaláqua de Gouveia e Melo, a competência para:
+
+a) Autorizar as visitas ou arribadas, a portos nacionais, de navios de propulsão nuclear, nos termos do disposto no n.º 1 do artigo 16.º do [Decreto-Lei n.º 2/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2017-105711787), de 6 de janeiro;
+
+b) Autorizar a realização de exercícios de instrução e preparação das forças constantes dos planos gerais da Marinha devidamente orçamentados, nos termos do disposto na alínea s) do n.º 3 do artigo 14.º da Lei de Defesa Nacional, aprovada pela Lei Orgânica n.º 1-B/2009, de 7 de julho, na sua redação atual;
+
+c) Autorizar, ao abrigo do disposto na alínea j) do artigo 2.º da Lei Orgânica do Ministério da Defesa Nacional (LOMDN), aprovada pelo [Decreto-Lei n.º 183/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2014-65983260), de 29 de dezembro, na sua redação atual, a atribuição de subsídios a entidades particulares que na realização das respetivas atividades procedam à divulgação e promoção da missão da Marinha, dos valores da instituição e da doutrina naval, estabelecendo, por cada ano económico, o montante máximo de (euro) 6 000,00 por entidade e de (euro) 30 000,00 no conjunto das entidades a serem objeto de atribuição de subsídios por contrapartida de adequada dotação inscrita no orçamento da Marinha;
+
+d) Decidir, no âmbito do respetivo ramo, da tramitação subsequente ou arquivamento dos processos de qualificação como Deficiente das Forças Armadas (DFA) que não reúnam as condições de prova para poder prosseguir e, ainda, de não qualificação como DFA dos processos em que se verifique que as entidades médicas competentes não estabeleceram nexo de causalidade entre o acidente ou doença diagnosticada e o cumprimento do serviço militar, nos termos do disposto no [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de janeiro, na sua redação atual;
+
+e) Autorizar o uso de condecorações estrangeiras a militares da Marinha, nos termos do artigo 64.º do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro.
+
+4 - Delego, com a faculdade de subdelegação, no Chefe do Estado-Maior da Armada, Almirante Henrique Eduardo Passaláqua de Gouveia e Melo, a competência para a prática:
+
+a) Dos atos previstos no n.º 3 do [Despacho n.º 2665/2016](https://diariodarepublica.pt/dr/detalhe/despacho/2665-2016-73658964), de 3 de fevereiro de 2016, publicado no Diário da República, 2.ª série, n.º 36, de 22 de fevereiro de 2016 (edificação das capacidades na área das comunicações das fragatas da classe Bartolomeu Dias);
+
+b) Dos atos previstos na alínea b) do n.º 3 do [Despacho n.º 2666/2016](https://diariodarepublica.pt/dr/detalhe/despacho/2666-2016-73658965), de 3 de fevereiro de 2016, publicado no Diário da República, 2.ª série, n.º 36, de 22 de fevereiro de 2016 (Evolved SeaSparrow Missile Block 2);
+
+c) Dos atos previstos nas alíneas f) a i) do n.º 4 do [Despacho n.º 3705/2016](https://diariodarepublica.pt/dr/detalhe/despacho/3705-2016-73864799), de 18 de fevereiro de 2016, publicado no Diário da República, 2.ª série, n.º 51, de 14 de março de 2016 (modernização dos helicópteros Lynx Mk95);
+
+d) Dos atos previstos no n.º 4 do [Despacho n.º 11125/2018](https://diariodarepublica.pt/dr/detalhe/despacho/11125-2018-117133431), de 20 de novembro de 2018, publicado no Diário da República, 2.ª série, n.º 229, de 28 novembro de 2018 [(RI01+D01) do NRP Arpão - TKMS];
+
+e) Dos atos previstos no n.º 6 do [Despacho n.º 11126/2018](https://diariodarepublica.pt/dr/detalhe/despacho/11126-2018-117133432), de 20 de novembro de 2018, publicado no Diário da República, 2.ª série, n.º 229, de 28 novembro de 2018 [(RI01+D01) do NRP Arpão - AA, S. A.];
+
+f) Dos atos previstos no n.º 3 do [Despacho n.º 4484/2017](https://diariodarepublica.pt/dr/detalhe/despacho/4484-2017-107071469), de 12 de abril de 2017, publicado no Diário da República, 2.ª série, n.º 101, de 25 de maio de 2017 [Working Arrangement No. Mou 70000 210_005 For Integrated Communications Control System Modernization Under The Pa M&M (Wa Iccs)];
+
+g) Dos atos previstos nos n.os 2 e 3 do [Despacho n.º 9012/2019](https://diariodarepublica.pt/dr/detalhe/despacho/9012-2019-125096769), de 25 de setembro de 2019, publicado no Diário da República, 2.ª série, n.º 194, de 9 de outubro de 2019 (aquisição de duas embarcações salva-vidas à Arsenal do Alfeite, S. A.);
+
+h) Dos atos previstos nos n.os 1 e 2 do [Despacho n.º 363/2019](https://diariodarepublica.pt/dr/detalhe/despacho/363-2019-117656632), de 14 de dezembro de 2018, publicado no Diário da República, 2.ª série, n.º 6, de 9 de janeiro de 2019 (adesão ao MoU Turbinas RoIIs-Royce Spey SM1A);
+
+i) Dos atos previstos no n.º 2 do [Despacho n.º 9398/2020](https://diariodarepublica.pt/dr/detalhe/despacho/9398-2020-144246133), de 14 de setembro de 2020, publicado no Diário da República, 2.ª série, n.º 192, de 1 de outubro de 2020 (trabalhos complementares no âmbito da RI01 + D01 NRP Arpão - AA, S. A.);
+
+j) Dos atos previstos no n.º 4 do [Despacho n.º 12122/2020](https://diariodarepublica.pt/dr/detalhe/despacho/12122-2020-151173022), de 26 de novembro de 2020, publicado no Diário da República, 2.ª série, n.º 242, de 15 de dezembro de 2020 (trabalhos complementares no âmbito da RI01 + D01 NRP Arpão - Tkms);
+
+k) Dos atos previstos no n.º 3, nas alíneas a) e b) do n.º 4 e no n.º 5, todos do [Despacho n.º 10948/2020](https://diariodarepublica.pt/dr/detalhe/despacho/10948-2020-147933315), de 23 de outubro de 2020, publicado no Diário da República, 2.ª série, n.º 218, de 9 de novembro de 2020 (Working Arrangement for M Frigates Upkeep Project Under the Program Arrangement Modification & Modernization - Amendment 1);
+
+l) Dos atos previstos no n.º 3 do [Despacho n.º 11130/2020](https://diariodarepublica.pt/dr/detalhe/despacho/11130-2020-148303910), de 23 de outubro de 2020, publicado no Diário da República, 2.ª série, n.º 221, de 12 de novembro de 2020 (aquisição de até 16 mísseis ESSM Block 2);
+
+m) Dos atos previstos no n.º 4 do [Despacho n.º 9988/2020](https://diariodarepublica.pt/dr/detalhe/despacho/9988-2020-145583197), de 7 de outubro de 2020, publicado no Diário da República, 2.ª série, n.º 202, de 16 de outubro de 2020 (aquisição da estação de manutenção de nível intermédio para mísseis - JEC HARPOON);
+
+n) Dos atos previstos no n.º 1 do [Despacho n.º 9470/2020](https://diariodarepublica.pt/dr/detalhe/despacho/9470-2020-144452188), de 15 de setembro de 2020, publicado no Diário da República, 2.ª série, n.º 193, de 2 de outubro de 2020 [Memorandum of Understanding (MoU) for the Cooperative in-Service Support of the Evolved Seasparrow Missile (ESSM) Block 2];
+
+o) Dos atos previstos no n.º 3 do [Despacho n.º 12413/2021](https://diariodarepublica.pt/dr/detalhe/despacho/12413-2021-176231722), de 3 de dezembro de 2021, publicado no Diário da República, 2.ª série, n.º 245, de 21 de dezembro de 2021 (modernização de baterias de combate para torpedos Blackshark e contramedidas CIRCE);
+
+p) Dos atos previstos no n.º 3 do [Despacho n.º 6978/2021](https://diariodarepublica.pt/dr/detalhe/despacho/6978-2021-167357807), de 8 de julho de 2021, publicado no Diário da República, 2.ª série, n.º 136, de 15 de julho de 2021 (PR NRP Figueira da Foz);
+
+q) Dos atos previstos no n.º 2 do [Despacho n.º 3905/2021](https://diariodarepublica.pt/dr/detalhe/despacho/3905-2021-161663921), de 8 de abril de 2021, publicado no Diário da República, 2.ª série, n.º 75, de 19 de abril de 2021 [simulador NATO Lynx Full Mission Flight Trainer (FMFT)];
+
+r) Dos atos previstos no n.º 3 do [Despacho n.º 8289/2020](https://diariodarepublica.pt/dr/detalhe/despacho/8289-2020-141214439), de 4 de agosto de 2020, publicado no Diário da República, 2.ª série, n.º 167, de 27 de agosto de 2020, (aquisição de sistemas eletro-óticos Medusa MK4/B FCS e sistemas de artilharia 30 mm ATK RC MARLIN-WS);
+
+s) Dos atos previstos no [Despacho n.º 11745/2021](https://diariodarepublica.pt/dr/detalhe/despacho/11745-2021-175016689), de 21 de novembro de 2021, publicado no Diário da República, 2.ª série, n.º 231, de 29 de novembro de 2021 (aquisição de gás natural para 2022 - ESPAP - PA04_2021_AQGN20);
+
+t) Dos atos previstos no [Despacho n.º 11746/2021](https://diariodarepublica.pt/dr/detalhe/despacho/11746-2021-175016690), de 21 de novembro de 2021, publicado no Diário da República, 2.ª série, n.º 231, de 29 de novembro de 2021 (aquisição de eletricidade para 2022 - ESPAP - PA02_2021_ AQ-ELE);
+
+u) Dos atos previstos no [Despacho n.º 7452/2021](https://diariodarepublica.pt/dr/detalhe/despacho/7452-2021-168461969), de 19 de julho de 2021, publicado no Diário da República, 2.ª série, n.º 145, de 28 de julho de 2021 (fornecimento contínuo de géneros alimentares para 2022);
+
+v) Dos atos previstos no [Despacho n.º 8656/2021](https://diariodarepublica.pt/dr/detalhe/despacho/8656-2021-170503728), de 25 de agosto de 2021, publicado no Diário da República, 2.ª série, n.º 170, de 1 de setembro de 2021 (aquisição e fornecimento de fardamento para 2022);
+
+w) Dos atos previstos no [Despacho n.º 9082/2020](https://diariodarepublica.pt/dr/detalhe/despacho/9082-2020-143618772), de 1 de setembro de 2020, publicado no Diário da República, 2.ª série, n.º 187, de 24 de setembro de 2020 (aquisição de combustíveis operacionais plurianuais 2021/2023);
+
+x) Dos atos previstos na alínea g) do n.º 1 do [Despacho n.º 8655/2021](https://diariodarepublica.pt/dr/detalhe/despacho/8655-2021-170503727), de 25 de agosto de 2021, publicado no Diário da República, 2.ª série, n.º 170, de 1 de setembro de 2021 (aquisição de licenciamento Microsoft para a manutenção da infraestrutura tecnológica da Marinha).
+
+5 - Delego ainda na Autoridade Marítima Nacional, Almirante Henrique Eduardo Passaláqua de Gouveia e Melo, a competência para:
+
+a) Conceder, nos termos do n.º 3 do artigo 1.º da [Portaria n.º 310/95](https://diariodarepublica.pt/dr/detalhe/portaria/310-1995-229355), de 13 de abril, na sua redação atual, a medalha de coragem, abnegação e humanidade, o diploma de louvor e a medalha de filantropia e dedicação;
+
+b) Nomear, após a prévia concordância do Chefe do Estado-Maior da Armada, os membros da Comissão do Domínio Público Marítimo a que se referem as alíneas b), c), f) e t) do n.º 4 do Regulamento Interno da Comissão do Domínio Público Marítimo, aprovado pela [Portaria n.º 752/87](https://diariodarepublica.pt/dr/detalhe/portaria/752-1987-494853), de 2 de setembro, na sua redação atual, em conformidade com o disposto no n.º 3 do artigo 6.º do [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), de 2 de março, na sua redação atual.
+
+6 - Autorizo a subdelegação das competências referidas nos n.os 1, 2, na alínea b) do n.º 3 e no n.º 4 no Vice-Chefe do Estado-Maior da Armada e nos Oficiais Generais que, na direta dependência do Chefe do Estado-Maior da Armada e Autoridade Marítima Nacional, desempenhem funções de comando, direção ou chefia.
+
+7 - O presente despacho produz os seus efeitos a partir da data da sua assinatura, ficando por este meio ratificados todos os atos praticados pelo Chefe do Estado-Maior da Armada, Almirante Henrique Eduardo Passaláqua de Gouveia e Melo, e, por inerência, Autoridade Marítima Nacional que se incluam no âmbito desta delegação de competências e que tenham sido praticados desde o dia 27 de dezembro de 2021.
+
+11 de janeiro de 2022. - O Ministro da Defesa Nacional, João Titterington Gomes Cravinho.
+
+314890371

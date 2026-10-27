@@ -1,0 +1,231 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1171008708:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2026-1171173575",
+ "dre_path": "/dr/detalhe/portaria/431-2026-1171008708",
+ "source_lastmod": "2026-09-24",
+ "versions": [
+  {
+   "date": "2026-09-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1172868787:por",
+     "title": "Portaria n.º 436/2026/1",
+     "published": "2026-09-23",
+     "dre_path": "/dr/detalhe/portaria/436-2026-1172868787"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "1171173775",
+    "1171173975",
+    "1172998175",
+    "1171174375",
+    "1171174575",
+    "1171174775",
+    "1172998375",
+    "1171175175",
+    "1171175375",
+    "1171175575",
+    "1171175775",
+    "1171175975",
+    "1171176175",
+    "1171176375",
+    "1171176575",
+    "1171176775",
+    "1171176975",
+    "1171177175",
+    "1171177375",
+    "1171177575",
+    "1171177775",
+    "1171177975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1171173775": {
+   "fragment_id": "1171173675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": ""
+  },
+  "1171173975": {
+   "fragment_id": "1171173875",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nA presente portaria estabelece as regras aplicáveis à concessão de um apoio excecional ao rendimento dos viticultores da Região Demarcada do Douro (RDD) que, em resultado das atuais condições de mercado, não disponham de possibilidade de escoamento da sua produção na campanha vitivinícola de 2026-2027."
+  },
+  "1172998175": {
+   "fragment_id": "1171174075",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2026-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 436/2026/1 - Diário da República n.º 185/2026, Série I de 2026-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/436-2026-1172868787), em vigor a partir de 2026-09-24, com efeitos a partir de 2026-09-16."
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente portaria, entende-se por:\n\na) «Coeficiente de não colheita» o valor resultante da divisão da produção não colhida pelo maior valor entre a produtividade média de referência e a produtividade média das últimas cinco campanhas vitivinícolas da RDD;\n\nb) «Produção não colhida», a diferença entre a produtividade média de referência, apurada pelo Instituto dos Vinhos do Douro e do Porto, I. P. (IVDP, I. P.), e a quantidade reportada na declaração de colheita e produção (DCP) da campanha 2026-2027, referente às parcelas situadas na RDD, expressa em quilogramas por hectare;\n\nc) «Produtividade média de referência» a média da produção declarada pelo viticultor nas cinco campanhas vitivinícolas anteriores ou, sendo inferior o histórico disponível, nas campanhas com produção declarada, expressa em quilogramas por hectare.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 436/2026/1 - Diário da República n.º 185/2026, Série I de 2026-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/436-2026-1172868787), em vigor a partir de 2026-09-24, com efeitos a partir de 2026-09-16."
+  },
+  "1171174375": {
+   "fragment_id": "1171174275",
+   "type": 11,
+   "heading": "Artigo 3.º — Dotação orçamental global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dotação orçamental global\n\nA dotação orçamental afeta ao apoio previsto na presente portaria é de 12 000 000,00 €."
+  },
+  "1171174575": {
+   "fragment_id": "1171174475",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar do apoio previsto na presente portaria as pessoas singulares ou coletivas que sejam viticultores na RDD, incluindo os associados das adegas cooperativas, na aceção da alínea a) do artigo 2.º da Portaria n.º 30/2011, de 11 de janeiro, na sua redação atual."
+  },
+  "1171174775": {
+   "fragment_id": "1171174675",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de elegibilidade\n\n1 - Podem beneficiar do apoio os candidatos que cumpram, cumulativamente, as seguintes condições:\n\na) Estejam legalmente constituídos, no caso de pessoas coletivas;\n\nb) Cumpram as condições legais necessárias ao exercício da atividade no setor vitivinícola, nomeadamente estar inscritos no IVDP, I. P.;\n\nc) Apresentem, quando aplicável, a declaração inicial ou confirmação anual do Regime Jurídico do Registo Central do Beneficiário Efetivo (RCBE);\n\nd) Tenham a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;\n\ne) Sejam detentores de uma exploração vitivinícola situada na RDD e inscrita no IVDP, I. P.;\n\nf) Disponham de produção não colhida nas parcelas identificadas na candidatura, verificada pelo IVDP, I. P.\n\n2 - As condições previstas nas alíneas a), b) e e) do número anterior são aferidas à data de apresentação da candidatura, a condição prevista na alínea c), no momento da decisão, a condição prevista na alínea f), no momento da realização do controlo no local, e a condição prevista na alínea d), no momento do pagamento, competindo a verificação ao IVDP, I. P.\n\n3 - Os modelos dos documentos a apresentar são disponibilizados pelo IVDP, I. P., no seu sítio da Internet, em https://www.ivdp.pt."
+  },
+  "1172998375": {
+   "fragment_id": "1171174875",
+   "type": 11,
+   "heading": "Artigo 6.º — Abertura do período de apresentação de candidaturas",
+   "in_force_from": "2026-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 436/2026/1 - Diário da República n.º 185/2026, Série I de 2026-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/436-2026-1172868787), em vigor a partir de 2026-09-24, com efeitos a partir de 2026-09-16."
+   ],
+   "markdown": "###### Artigo 6.º — Abertura do período de apresentação de candidaturas\n\n1 - O período de apresentação de candidaturas é aberto por aviso do IVDP, I. P., divulgado no respetivo sítio da Internet, em https://www.ivdp.pt.\n\n2 - O aviso referido no número anterior fixa a data de início e a data do termo do período de apresentação de candidaturas e identifica os documentos que instruem a candidatura.\n\n3 - O período de apresentação de candidaturas é único e improrrogável para todos os viticultores da RDD.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 436/2026/1 - Diário da República n.º 185/2026, Série I de 2026-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/436-2026-1172868787), em vigor a partir de 2026-09-24, com efeitos a partir de 2026-09-16."
+  },
+  "1171175175": {
+   "fragment_id": "1171175075",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação de candidaturas\n\n1 - A apresentação de candidaturas efetua-se através da submissão de formulário eletrónico disponível no sítio da Internet do IVDP, I. P., em https://www.ivdp.pt, na área reservada de cada viticultor, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n2 - O prazo para apresentação de candidaturas é de 15 dias, contados da data de início fixada no aviso previsto no artigo anterior.\n\n3 - Na candidatura, o viticultor declara a intenção de não proceder à colheita da totalidade ou de parte da sua produção, identificando as parcelas abrangidas.\n\n4 - A candidatura é instruída com os documentos referidos no sítio da Internet do IVDP, I. P., em https://www.ivdp.pt.\n\n5 - Podem ser solicitados aos candidatos, quando se justifique, documentos, esclarecimentos ou informações complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura."
+  },
+  "1171175375": {
+   "fragment_id": "1171175275",
+   "type": 11,
+   "heading": "Artigo 8.º — Forma, determinação e limite do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma, determinação e limite do apoio\n\n1 - O apoio assume a forma de subvenção não reembolsável, resultante da aplicação do valor unitário de 1125,00 € por hectare de área de vinha em exploração multiplicada pelo coeficiente de não colheita.\n\n2 - Para os viticultores que tenham iniciado a atividade em 2026 e para aqueles que, em qualquer das cinco campanhas anteriores, tenham excedido o rendimento máximo por hectare fixado para a RDD, a produtividade média de referência é substituída pela produtividade média das últimas cinco campanhas vitivinícolas da RDD."
+  },
+  "1171175575": {
+   "fragment_id": "1171175475",
+   "type": 11,
+   "heading": "Artigo 9.º — Rateio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rateio\n\n1 - Quando o valor global dos apoios a conceder, apurado nos termos dos artigos 8.º e 16.º, exceda a dotação orçamental prevista no artigo 3.º, procede-se à redução proporcional do montante individual.\n\n2 - A redução do montante individual por aplicação dos limites previstos no artigo 16.º precede a aplicação do rateio previsto no número anterior."
+  },
+  "1171175775": {
+   "fragment_id": "1171175675",
+   "type": 11,
+   "heading": "Artigo 10.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Decisão\n\n1 - O IVDP, I. P., decide as candidaturas no prazo de oito dias a contar do termo do prazo de apresentação de candidaturas.\n\n2 - A decisão confirma as parcelas abrangidas e identifica a quantidade apoiada e o montante do apoio, determinados nos termos do artigo 8.º com base nos elementos disponíveis no IVDP, I. P., bem como o rateio, quando aplicável.\n\n3 - O montante fixado na decisão é confirmado ou reduzido em função do resultado do controlo no local previsto no artigo 13.º\n\n4 - A decisão é comunicada na área reservada de cada viticultor.\n\n5 - Atenta a natureza urgente da decisão das candidaturas, é dispensada a audiência de interessados, nos termos da alínea a) do n.º 1 do artigo 124.º do Código do Procedimento Administrativo."
+  },
+  "1171175975": {
+   "fragment_id": "1171175875",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\nConstituem obrigações dos beneficiários:\n\na) Manter as uvas não colhidas nas videiras das parcelas identificadas na candidatura até à realização do controlo no local previsto no artigo 13.º;\n\nb) Não colher, transformar, comercializar ou por qualquer forma dar destino às uvas não colhidas, desde a data de apresentação da candidatura e até à realização do pagamento previsto no artigo 12.º;\n\nc) Permitir o acesso aos locais e aos documentos necessários ao acompanhamento e controlo do apoio;\n\nd) Conservar os documentos necessários ao acompanhamento e controlo, em suporte digital ou em papel, durante o prazo de dois anos a contar da data do pagamento."
+  },
+  "1171176175": {
+   "fragment_id": "1171176075",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento\n\nO pagamento do apoio é efetuado pelo IVDP, I. P., ao viticultor após a realização do controlo no local, de uma só vez, através de transferência bancária para o international bank account number (IBAN) registado junto do IVDP, I. P., que utiliza, para o efeito, a conta específica para os pagamentos de vindima «Conta Produtor - IVDP, I. P.»."
+  },
+  "1171176375": {
+   "fragment_id": "1171176275",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acompanhamento e controlo\n\n1 - As candidaturas e os apoios concedidos estão sujeitos a controlos administrativos e no local realizados pelo IVDP, I. P., destinando-se o controlo no local a verificar a existência e a quantificação da produção não colhida nas parcelas identificadas na candidatura, e sendo realizado antes do pagamento.\n\n2 - No apuramento da produção não colhida, o IVDP, I. P., tem ainda em conta o cadastro de parcelas e o recenseamento de viticultores da RDD, a autorização de produção, as DCP e o registo de entregas, podendo recorrer a meios de teledeteção e a registo fotográfico georreferenciado."
+  },
+  "1171176575": {
+   "fragment_id": "1171176475",
+   "type": 11,
+   "heading": "Artigo 14.º — Efeitos sobre o histórico de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Efeitos sobre o histórico de produção\n\nA quantidade de uvas não colhida ao abrigo da presente portaria é considerada, para efeitos do apuramento da produtividade média de referência do viticultor em campanhas vitivinícolas futuras, como produção da campanha de 2026-2027."
+  },
+  "1171176775": {
+   "fragment_id": "1171176675",
+   "type": 11,
+   "heading": "Artigo 15.º — Restituição de apoios indevidamente recebidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Restituição de apoios indevidamente recebidos\n\n1 - O incumprimento das obrigações previstas no artigo 11.º determina a restituição integral do apoio.\n\n2 - Em caso de pagamento indevido, o IVDP, I. P., promove a respetiva recuperação, mediante notificação para reembolso voluntário, ou coercivamente, mediante execução fiscal, caso o beneficiário não devolva as ajudas indevidamente recebidas no prazo constante daquela notificação.\n\n3 - Sobre os valores a reembolsar nos termos do número anterior incidem juros legais, calculados pela aplicação da taxa de juro legal ao montante indevido, desde o termo do prazo fixado na notificação para reembolso voluntário das ajudas indevidamente recebidas até ao efetivo e integral reembolso das mesmas."
+  },
+  "1171176975": {
+   "fragment_id": "1171176875",
+   "type": 11,
+   "heading": "Artigo 16.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sanções\n\nO incumprimento da obrigação prevista na alínea b) do artigo 11.º determina a exclusão do beneficiário de apoios concedidos pelo IVDP, I. P., nas duas campanhas vitivinícolas seguintes, sem prejuízo da responsabilidade contraordenacional que ao caso couber nos termos da legislação vitivinícola aplicável."
+  },
+  "1171177175": {
+   "fragment_id": "1171177075",
+   "type": 11,
+   "heading": "Artigo 17.º — De minimis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — De minimis\n\n1 - Os apoios previstos na presente portaria são concedidos nas condições estabelecidas no Regulamento (UE) n.º 1408/2013 da Comissão, de 18 de dezembro de 2013, na sua redação atual, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis no setor agrícola.\n\n2 - O montante total dos auxílios de minimis concedidos a uma empresa única não pode exceder 50 000,00 € durante um período de três anos."
+  },
+  "1171177375": {
+   "fragment_id": "1171177275",
+   "type": 11,
+   "heading": "Artigo 18.º — Proteção de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Proteção de dados pessoais\n\nO tratamento de dados pessoais efetuado no âmbito da presente portaria observa o disposto no Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e na Lei n.º 58/2019, de 8 de agosto, sendo o IVDP, I. P., responsável pelo tratamento."
+  },
+  "1171177575": {
+   "fragment_id": "1171177475",
+   "type": 11,
+   "heading": "Artigo 19.º — Normas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Normas de execução\n\nAs normas e procedimentos de natureza operacional necessários à execução da presente portaria, designadamente quanto à instrução e tramitação das candidaturas, aos elementos comprovativos e às especificações técnicas dos controlos, são definidos por circular do IVDP, I. P., a divulgar no respetivo sítio da Internet, sem prejuízo de os critérios de elegibilidade e a determinação do montante do apoio se regerem exclusivamente pelo disposto na presente portaria."
+  },
+  "1171177775": {
+   "fragment_id": "1171177675",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "1171177975": {
+   "fragment_id": "1171177875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura e Mar, José Manuel Fernandes, em 11 de setembro de 2026."
+  }
+ }
+}

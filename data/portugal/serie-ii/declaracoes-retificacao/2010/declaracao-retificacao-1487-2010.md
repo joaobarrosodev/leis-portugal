@@ -1,0 +1,660 @@
+---
+schema_version: '1.0'
+id: pt:dre:3521341:por
+title: Declaração de Rectificação n.º 1487/2010
+short_title: null
+summary: Rectifica o aviso n.º 5463/2010, de 8 de Março, publicado no Diário da República, 2.ª série, n.º 52, de 16 de Março
+  de 2010
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Lagos
+proposing_entity: null
+official_number: 1487/2010
+official_date: null
+publication_date: '2010-07-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/2010, Série II de 2010-07-26
+  number: '143'
+  series: II
+  supplement: null
+  pages: 40058 - 40061
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/07/143000000/4005840061.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3521341'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1487-2010-3521341
+  internal: pt:dre:3521341:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1487-2010-3521341
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1487-2010-3521341
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:17:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: cbd4874506a91b01b628a6c42f95def082d8792503f8783b7f40e070ea227236
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:17:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:164198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658629:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:17:59Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 1487/2010
+
+Para os devidos efeitos se rectifica o aviso n.º 5463/2010, de 8 de Março, publicado no Diário da República, 2.ª série, n.º 52, de 16 de Março de 2010.
+
+Assim:
+
+Onde se lê «Referência 10/2010 - 1 Técnico Superior - Artes Plásticas» deve ler-se «Referência n.º 10/2010 - um técnico superior - Artes Decorativas»;
+
+Onde se lê:
+
+«Referência 9/2010 - Curso superior que não confira licenciatura na área de Produção Agrária, ao abrigo do n.º 2 do artigo 115.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro;
+
+Referência 10/2010 - Curso superior que não confira licenciatura na área de Artes Decorativas, ao abrigo do n.º 2 do artigo 115.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro;»
+
+deve ler-se:
+
+«Referência n.º 9/2010 - licenciatura em Engenharia de Produção Agrária;
+
+Referência n.º 10/2010 - licenciatura em Artes Decorativas;»
+
+Onde se lê «Referências n.os 11, 12, 13, 14, 15, 16, 17, 21, 22, 23, 25, 26, 27, 29/2010 - 12.º ano de escolaridade;» deve ler-se «Referências n.os 11, 12, 13, 14, 15, 16, 17, 18, 21, 22, 23, 25, 26, 27, 29/2010 - 12.º ano de escolaridade;»;
+
+Onde se lê «Referência 30/2010 - 12.º ano de escolaridade ou trabalhadores ao abrigo do n.º 1 do artigo 115.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro;» deve ler-se «Referência n.º 30/2010 - 12.º ano de escolaridade;»;
+
+Onde se lê «Referência 40/2010 - Escolaridade obrigatória ou trabalhadores ao abrigo do n.º 1 do artigo 115.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro.» deve ler-se «Referência n.º 40/2010 - escolaridade obrigatória.»;
+
+Onde se lê:
+
+«Referência 23, 36/2010 - Membros efectivos: Vice-Presidente, Dr.ª Maria Joaquina Baptista Quintans de Matos, que presidirá, Chefe de Divisão de Gestão Urbana, Técnica Superior, Dr.ª Helena Maria Martins Gertrudes dos Santos, que substituirá o presidente nas suas faltas e impedimentos e Coordenador da Divisão de Recursos Humanos, Técnico Superior, Dr. José Joaquim Marreiros Bandarra.
+
+Membros suplentes: técnica superior em regime de contrato de trabalho em funções públicas por tempo determinado, Dr.ª Oliveira Leitão Marreiros e Técnica Superior, Dr.ª Nídia Cristina Tomé dos Santos.»
+
+deve ler-se:
+
+«Referência n.º 23, 36/2010 - membros efectivos: vice-presidente, Dr.ª Maria Joaquina Baptista Quintans de Matos, que presidirá, chefe de divisão de Gestão Urbana, técnica superior Dr.ª Helena Maria Martins Gertrudes dos Santos, que substituirá o presidente nas suas faltas e impedimentos, e coordenador da Divisão de Recursos Humanos, técnico superior Dr. José Joaquim Marreiros Bandarra.
+
+Membros suplentes: técnica superior em regime de contrato de trabalho em funções públicas por tempo determinado Dr.ª Susana Oliveira Leitão Marreiros e técnica superior Dr.ª Nídia Cristina Tomé dos Santos.»;
+
+Onde se lê:
+
+«Referência 6/2010, com duração de 2 horas:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15/11, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31/01);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+Desenvolvimento de um tema sobre água para consumo humano»
+
+deve ler-se:
+
+«Referência n.º 6/2010, com duração de duas horas:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+Desenvolvimento de um tema sobre água para consumo humano (recomendação ERSAR n.º 08/2005)»;
+
+Onde se lê:
+
+«Referência 8/2010, com duração de 2 horas:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15/11, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31/01);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+[Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de Setembro;
+
+Lei n.º 2110/1961, de dezanove de Agosto.
+
+Regulamento Municipal de Resíduos Sólidos de Lagos, disponível no Balcão Virtual (www.cm-lagos.com), separador Regulamentos.»
+
+deve ler-se:
+
+«Referência n.º 8/2010, com duração de duas horas:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+[Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de Setembro;
+
+Lei n.º 2110/1961, de 19 de Agosto;
+
+Regulamento Municipal de Resíduos Sólidos de Lagos, disponível no balcão virtual (www.cm-lagos.com), separador regulamentos;
+
+[Decreto-Lei n.º 9/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), de 17 de Janeiro.»
+
+Onde se lê:
+
+«Referência 10/2010, com duração de 2 horas:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15/11, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31/01);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).»
+
+deve ler-se:
+
+«Referência n.º 10/2010, com duração de duas horas:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+[Portaria n.º 1204-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1204-a-2008-658629), de 17 de Outubro (Regulamento de Apoio Directo às Artes).»;
+
+Onde se lê:
+
+«Referências n.os 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 29, 30, 34 e 35 e 36/2010 com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15/11, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31/01);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).»
+
+deve ler-se:
+
+«Referência n.º 11, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+[Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, alterado pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro.
+
+Referência n.º 12, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15/11, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+[Portaria n.º 412/2001](https://diariodarepublica.pt/dr/detalhe/portaria/412-2001-164198), de 17 de Abril, rectificada pela Portaria n.º 1253/2009, de 14 de Agosto;
+
+[Decreto-Lei n.º 16/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1993-584777), de 23 de Janeiro.
+
+Referências n.os 13, 14, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+[Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro (Nova Lei das Finanças Locais);
+
+Plano oficial de contabilidade da administração local ([Decreto-Lei n.º 54-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-1999-514178), de 22 de Fevereiro).
+
+Referência n.º 15, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+[Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro (Nova Lei das Finanças Locais);
+
+Plano oficial de contabilidade da administração local ([Decreto-Lei n.º 54-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-1999-514178), de 22 de Fevereiro);
+
+[Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, que aprova o Código dos Contratos Públicos, alterado pelo [Decreto-Lei n.º 278/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2009-491176), de 2 de Outubro, e [Lei n.º 3/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-2010-614148), de 3 de Abril.
+
+Referência n.º 16, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+[Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, que aprova o Código dos Contratos Públicos, alterado pelo [Decreto-Lei n.º 278/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2009-491176), de 2 de Outubro, e [Lei n.º 3/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-2010-614148), de 3 de Abril.
+
+Referência n.º 17/2010, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+[Decreto-Lei n.º 147/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1997-358959), de 11 de Junho;
+
+[Lei n.º 5/97](https://diariodarepublica.pt/dr/detalhe/lei/5-1997-561219), de 10 de Fevereiro;
+
+Despacho conjunto n.º 300/97, de 9 de Setembro.
+
+Referência n.º 18, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+Regulamento de cedência do Auditório do Centro Cultural de Lagos;
+
+Plano de Emergência do Centro Cultural de Lagos.
+
+Referências n.os 19 e 20, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+[Lei n.º 47/2004](https://diariodarepublica.pt/dr/detalhe/lei/47-2004-480516) de 19 de Agosto (Lei-Quadro dos Museus Portugueses).
+
+Referência n.º 21, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+Regime Jurídico dos Loteamentos de Gestão Territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, alterado pelos Decretos-Leis n.os [316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, e [46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de Fevereiro.
+
+Referência n.º 22, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+[Decreto-Lei n.º 166/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1993-274240), de 7 de Maio, que estabelece o regime de renda apoiada.
+
+Referência n.º 24, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+Elaboração de medição de projecto de pequena dimensão.
+
+Referências n.os 25, 26, 27, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro).
+
+Conhecimentos específicos:
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Referências n.os 29, 34 e 35, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Referência n.º 30, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Código do Procedimento Administrativo ([Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).
+
+Conhecimentos específicos:
+
+Regulamento das licenças para ocupação da via pública;
+
+Regulamento da venda ambulante na área do município de Lagos;
+
+Regulamento da actividade publicitária;
+
+Regulamento sobre o licenciamento de actividades diversas;
+
+Regulamento dos períodos de funcionamento dos estabelecimentos de venda ao público e da prestação de serviços do município de Lagos.
+
+Referência n.º 36, com duração de 90 minutos:
+
+Conhecimentos gerais:
+
+Regime de Contrato de Trabalho em Funções Públicas - Férias e Faltas ([Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro);
+
+Estatuto Disciplinar dos Trabalhadores que exercem Funções Públicas ([Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro);
+
+Quadro de competências e regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias ([Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro);
+
+Medidas de Modernização Administrativa ([Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de Abril, alterado pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de Março).»
+
+7 de Julho de 2010. - O Presidente da Câmara, Júlio José Monteiro Barroso.
+
+303484567

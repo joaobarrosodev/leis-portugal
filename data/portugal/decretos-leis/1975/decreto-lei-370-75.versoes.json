@@ -1,0 +1,231 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:336554:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1975-178046969",
+ "dre_path": "/dr/detalhe/decreto-lei/370-1975-336554",
+ "source_lastmod": "2025-06-18",
+ "versions": [
+  {
+   "date": "1975-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "922108018",
+    "178047814",
+    "178047815",
+    "178047816",
+    "178047817",
+    "178047818",
+    "178047819"
+   ]
+  },
+  {
+   "date": "1975-07-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632942:por",
+     "title": "Rectificação",
+     "published": "1975-07-21",
+     "dre_path": "/dr/detalhe/rectificacao/1975-632942"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 5.º"
+   ],
+   "fragments": [
+    "178047813",
+    "178047814",
+    "178047815",
+    "178047816",
+    "178047817",
+    "921936197",
+    "178047819",
+    "178047820"
+   ]
+  },
+  {
+   "date": "2019-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122434535:por",
+     "title": "Lei n.º 36/2019",
+     "published": "2019-05-29",
+     "dre_path": "/dr/detalhe/lei/36-2019-122434535"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "922108018",
+    "922108019",
+    "922108020",
+    "922108021",
+    "922108022",
+    "922108023",
+    "922108024",
+    "922108025"
+   ]
+  }
+ ],
+ "fragments": {
+  "922108018": {
+   "fragment_id": "178046970",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-06-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 370/75\n\nde 16 de Julho\n\nO funcionamento da Assembleia Constituinte implica a constituição de um secretariado que fique encarregado de prestar àquele órgão o apoio administrativo e técnico considerados indispensáveis.\n\nConsidera-se, no entanto, que, cabendo à Assembleia Constituinte a definição dos órgãos do Estado, esse secretariado deverá ter funções limitadas no tempo, cessando as suas funções após a Constituinte ter terminado a sua função e estabelecendo-se para o futuro e com outras características um órgão de apoio administrativo e técnico adequado às tarefas que a Constituinte fixar ao Parlamento.\n\nNestes termos, considerou-se que o Secretariado da Assembleia Constituinte deverá ser exclusivamente constituído por funcionários públicos, transferidos dos respectivos serviços por simples despacho, e cuja comissão de serviço cessará, automaticamente, com a extinção do Secretariado, ainda que o termo de funções possa ser antecipado.\n\nAdmite-se, no entanto, embora a título excepcional, o recrutamento de pessoal eventual não ligado à função pública.\n\nFinalmente, considerando-se a natureza dos trabalhos da Constituinte, admite-se que, no todo ou em parte, o Secretariado possa estar sujeito a horários de trabalho flexíveis e sem correspondência com o horário de trabalho da generalidade da função pública, ainda que com obrigatoriedade de prestação de igual total de horas de trabalho semanais. Esta possibilidade determina, igualmente, que não haja lugar a pagamento de horas extraordinárias.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "178047814": {
+   "fragment_id": "178046971",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado o Secretariado da Assembleia Constituinte, que tem por objectivo prestar à mesma o apoio técnico, administrativo e qualquer outro julgado indispensável."
+  },
+  "178047815": {
+   "fragment_id": "178046972",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPodem ainda ser requisitados aos vários departamentos do Estado quaisquer funcionários, a fim de prestarem serviço no Secretariado, por simples despacho do Primeiro-Ministro ou do Ministro em quem este delegar, com audiência prévia do Ministro do departamento a que pertencer o funcionário a requisitar."
+  },
+  "178047816": {
+   "fragment_id": "178046973",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs funções atribuídas a cada um dos funcionários serão publicadas no Diário do Governo e fixadas por despacho do Primeiro-Ministro, sob proposta da Comissão Instaladora da Assembleia Constituinte."
+  },
+  "178047817": {
+   "fragment_id": "178046974",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para serviços relacionados com a execução do Diário e enquanto não for possível efectuá-los por recurso a funcionários, poderá ser recrutado pessoal eventual que possua preparação adequada ao exercício das funções requeridas.\n\nO recrutamento efectivar-se-á sem qualquer outra formalidade que não seja a autorização do Primeiro-Ministro ou do Ministro em quem este delegue.\n\n2. Ao pessoal eventual nas condições do n.º 1 será atribuída remuneração horária equivalente à de técnicos auxiliares de relações públicas e informação (letra L)."
+  },
+  "178047818": {
+   "fragment_id": "178051075",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPor despacho do Primeiro-Ministro ou do Ministro em quem este delegar, poderão ser estabelecidos horários especiais para alguns ou a totalidade dos serviços que componham o Secretariado.\n\nTodos os funcionários prestarão horas de trabalho semanal, não havendo lugar a qualquer remuneração por horas extraordinárias."
+  },
+  "178047819": {
+   "fragment_id": "178051076",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nEste diploma entra imediatamente em vigor."
+  },
+  "178047813": {
+   "fragment_id": "178046970",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 370/75\n\nde 16 de Julho\n\nO funcionamento da Assembleia Constituinte implica a constituição de um secretariado que fique encarregado de prestar àquele órgão o apoio administrativo e técnico considerados indispensáveis.\n\nConsidera-se, no entanto, que, cabendo à Assembleia Constituinte a definição dos órgãos do Estado, esse secretariado deverá ter funções limitadas no tempo, cessando as suas funções após a Constituinte ter terminado a sua função e estabelecendo-se para o futuro e com outras características um órgão de apoio administrativo e técnico adequado às tarefas que a Constituinte fixar ao Parlamento.\n\nNestes termos, considerou-se que o Secretariado da Assembleia Constituinte deverá ser exclusivamente constituído por funcionários públicos, transferidos dos respectivos serviços por simples despacho, e cuja comissão de serviço cessará, automaticamente, com a extinção do Secretariado, ainda que o termo de funções possa ser antecipado.\n\nAdmite-se, no entanto, embora a título excepcional, o recrutamento de pessoal eventual não ligado à função pública.\n\nFinalmente, considerando-se a natureza dos trabalhos da Constituinte, admite-se que, no todo ou em parte, o Secretariado possa estar sujeito a horários de trabalho flexíveis e sem correspondência com o horário de trabalho da generalidade da função pública, ainda que com obrigatoriedade de prestação de igual total de horas de trabalho semanais. Esta possibilidade determina, igualmente, que não haja lugar a pagamento de horas extraordinárias.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "921936197": {
+   "fragment_id": "178051075",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1975-07-21",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 166/1975, 1º Suplemento, Série I de 1975-07-21](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-632942), em vigor a partir de 1975-07-21"
+   ],
+   "markdown": "###### Artigo 5.º\n\nPor despacho do Primeiro-Ministro ou do Ministro em quem este delegar, poderão ser estabelecidos horários especiais para alguns ou a totalidade dos serviços que componham o Secretariado.\n\nTodos os funcionários prestarão 36 horas de trabalho semanal, não havendo lugar a qualquer remuneração por horas extraordinárias.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 166/1975, 1º Suplemento, Série I de 1975-07-21](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-632942), em vigor a partir de 1975-07-21"
+  },
+  "178047820": {
+   "fragment_id": "178051077",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso.\n\nPromulgado em 9 de Julho de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "922108019": {
+   "fragment_id": "178046971",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ criado o Secretariado da Assembleia Constituinte, que tem por objectivo prestar à mesma o apoio técnico, administrativo e qualquer outro julgado indispensável.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108020": {
+   "fragment_id": "178046972",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 2.º\n\nPodem ainda ser requisitados aos vários departamentos do Estado quaisquer funcionários, a fim de prestarem serviço no Secretariado, por simples despacho do Primeiro-Ministro ou do Ministro em quem este delegar, com audiência prévia do Ministro do departamento a que pertencer o funcionário a requisitar.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108021": {
+   "fragment_id": "178046973",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs funções atribuídas a cada um dos funcionários serão publicadas no Diário do Governo e fixadas por despacho do Primeiro-Ministro, sob proposta da Comissão Instaladora da Assembleia Constituinte.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108022": {
+   "fragment_id": "178046974",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 505/75 - Diário do Governo n.º 216/1975, Série I de 1975-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/505-1975-307271), produz efeitos a partir de 1975-06-02"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. Para serviços relacionados com a execução do Diário e enquanto não for possível efectuá-los por recurso a funcionários, poderá ser recrutado pessoal eventual que possua preparação adequada ao exercício das funções requeridas.\n\nO recrutamento efectivar-se-á sem qualquer outra formalidade que não seja a autorização do Primeiro-Ministro ou do Ministro em quem este delegue.\n\n2. Ao pessoal eventual referido no número anterior será atribuída uma remuneração horária de, no máximo, 80$00/hora para os dactilógrafos e 100$00/hora para os operadores-leitores e outros tarefeiros que desempenhem funções especializadas, a qual, contudo, não pode, em caso algum, no seu cômputo mensal, exceder o vencimento estabelecido para a letra L do quadro do funcionalismo público.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 505/75 - Diário do Governo n.º 216/1975, Série I de 1975-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/505-1975-307271), produz efeitos a partir de 1975-06-02"
+  },
+  "922108023": {
+   "fragment_id": "178051075",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 505/75 - Diário do Governo n.º 216/1975, Série I de 1975-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/505-1975-307271), produz efeitos a partir de 1975-06-02",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 166/1975, 1º Suplemento, Série I de 1975-07-21](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-632942), em vigor a partir de 1975-07-21"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1. Por despacho do Primeiro-Ministro ou do Ministro em quem este delegar poderão ser estabelecidos horários especiais para alguns ou para a totalidade dos serviços que componham o secretariado.\n\n2. Todos os funcionários prestarão trinta e seis horas de trabalho semanal, não havendo lugar a qualquer remuneração por horas extraordinárias, salvo enquanto não estiver completo o quadro provisório a propor pela Comissão Nacional Instaladora.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 505/75 - Diário do Governo n.º 216/1975, Série I de 1975-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/505-1975-307271), produz efeitos a partir de 1975-06-02\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 166/1975, 1º Suplemento, Série I de 1975-07-21](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-632942), em vigor a partir de 1975-07-21"
+  },
+  "922108024": {
+   "fragment_id": "178051076",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 6.º\n\nEste diploma entra imediatamente em vigor.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108025": {
+   "fragment_id": "178051077",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso.\n\nPromulgado em 9 de Julho de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  }
+ }
+}

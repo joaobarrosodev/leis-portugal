@@ -1,0 +1,409 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:209849:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-214846056",
+ "dre_path": "/dr/detalhe/portaria/68-c-2008-209849",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-01-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "214849624",
+    "214849597",
+    "214849598",
+    "214849599",
+    "214849601",
+    "214849602",
+    "214849603",
+    "214849604",
+    "214849605",
+    "214849606",
+    "214849607",
+    "214849608",
+    "214849609",
+    "214849610",
+    "214849611",
+    "214849612",
+    "214849613",
+    "214849614",
+    "214849615",
+    "214849616",
+    "214849617",
+    "214849618",
+    "214849619",
+    "214849620",
+    "214849621",
+    "214849622",
+    "214849623"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:246822:por",
+     "title": "Declaração de Rectificação n.º 18/2008",
+     "published": "2008-03-20",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/18-2008-246822",
+     "date": "2008-01-23"
+    }
+   ]
+  },
+  {
+   "date": "2009-07-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:492449:por",
+     "title": "Portaria n.º 732/2009",
+     "published": "2009-07-08",
+     "dre_path": "/dr/detalhe/portaria/732-2009-492449"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "214849624",
+    "214849597",
+    "214849630",
+    "214849599",
+    "214849600",
+    "214849601",
+    "214849602",
+    "214849603",
+    "214849604",
+    "214849631",
+    "214849606",
+    "214849607",
+    "214849608",
+    "214849609",
+    "214849610",
+    "214849611",
+    "214849612",
+    "214849613",
+    "214849614",
+    "214849615",
+    "214849616",
+    "214849617",
+    "214849618",
+    "214849619",
+    "214849620",
+    "214849621",
+    "214849622",
+    "214849623"
+   ]
+  },
+  {
+   "date": "2013-05-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:260394:por",
+     "title": "Lei n.º 29/2013",
+     "published": "2013-04-19",
+     "dre_path": "/dr/detalhe/lei/29-2013-260394"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "214849624",
+    "214849597",
+    "214849630",
+    "214849599",
+    "214849600",
+    "214849601",
+    "214849602",
+    "214849603",
+    "214849604",
+    "214849631",
+    "214849632",
+    "214957266",
+    "214849607",
+    "214849608",
+    "214849609",
+    "214849610",
+    "214849611",
+    "214849612",
+    "214849613",
+    "214849614",
+    "214849615",
+    "214849616",
+    "214849617",
+    "214849618",
+    "214849619",
+    "214849620",
+    "214849621",
+    "214849622",
+    "214849623"
+   ]
+  }
+ ],
+ "fragments": {
+  "214849624": {
+   "fragment_id": "214846057",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2008-01-23",
+   "changed_by": [],
+   "markdown": "Portaria n.º 68-C/2008\n\nde 22 de Janeiro\n\nO XVII Governo Constitucional tem vindo a conferir um forte impulso ao desenvolvimento e utilização de estruturas de resolução alternativa de litígios, no quadro do cumprimento do Programa do Governo.\n\nAssim, foi aprovado o quadro legislativo relativo à mediação penal, que agora se regulamenta, foi criado um sistema de mediação laboral mediante um acordo celebrado entre o Ministério da Justiça e todos os parceiros sociais, têm vindo a ser criados novos julgados de paz, nos termos de um plano científico para o desenvolvimento da respectiva rede e procedeu-se à reformulação e alargamento do Sistema de Mediação Familiar. Igualmente, foram introduzidos mecanismos de incentivos à utilização destas estruturas de resolução alternativa de litígios. Por um lado, adoptaram-se incentivos à sua utilização em matéria de custas judiciais. Por outro lado, tem vindo a permitir-se que, aquando da constituição de sociedades através dos procedimentos «Empresa na hora» e «Empresa online» e aquando da celebração de negócios de transmissão e oneração de imóveis seguindo o procedimento «Casa pronta», os intervenientes possam optar por aderir à jurisdição de centros de arbitragem apoiados pelo Ministério da Justiça para dirimir litígios futuros que venham a ocorrer devido a esses negócios.\n\nNo desenvolvimento desta política, a Lei n.º 21/2007, de 12 de Junho, procedeu à criação de um regime de mediação penal, em execução do artigo 10.º da Decisão Quadro n.º <a href=\"eurlex.asp?ano=2001&id=32001F0220\" title=\"Link para Decisão da Comunidade Europeia\">2001/220/JAI</a>, do Conselho, de 15 de Março, relativa ao estatuto da vítima em processo penal.\n\nA mediação penal é um processo informal e flexível em que um terceiro imparcial e especificamente formado para o efeito - o mediador - auxilia as partes na tentativa de obter um acordo que permita pôr termo ao litígio e restaurar a paz social.\n\nNos termos da referida lei, a mediação penal pode ter lugar em processo por crime cujo procedimento dependa de queixa, quando se trate de crime contra as pessoas ou contra o património, ou quando dependa de acusação particular, desde que o tipo legal de crime preveja pena de prisão superior a 5 anos ou sanção diferente da pena de prisão.\n\nEstão excluídos da mediação penal os crimes contra a liberdade ou autodeterminação sexual, de peculato, corrupção ou tráfico de influências e os casos em que o ofendido seja menor de 16 anos ou em que seja aplicável forma de processo especial sumária ou sumaríssima.\n\nA mediação penal é efectuada por mediadores especialmente formados em mediação penal, com um curso reconhecido pelo Ministério da Justiça, sendo estes mediadores seleccionados e organizados em listas no quadro dos serviços de mediação dos julgados de paz.\n\nFinalmente, o artigo 14.º do mesmo diploma determina que a mediação penal funciona a título experimental.\n\nImporta, pois, regulamentar os termos da prestação deste serviço de mediação penal, bem como determinar as comarcas onde o Sistema funciona a título experimental.\n\nAssim:\n\nAo abrigo do artigo 14.º da Lei n.º 21/2007, de 12 de Junho, manda o Governo, pelo Ministro da Justiça, o seguinte:"
+  },
+  "214849597": {
+   "fragment_id": "214846058",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado o Regulamento do Sistema de Mediação Penal, publicado em anexo ao presente diploma e que dele faz parte integrante."
+  },
+  "214849598": {
+   "fragment_id": "214846059",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\nO Sistema de Mediação Penal funciona, a título experimental, nas comarcas do Porto, Aveiro, Oliveira do Bairro e Seixal."
+  },
+  "214849599": {
+   "fragment_id": "214846060",
+   "type": 11,
+   "heading": "Artigo 3.º — A presente portaria entra em vigor no dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — A presente portaria entra em vigor no dia\n\nseguinte ao da sua publicação."
+  },
+  "214849601": {
+   "fragment_id": "214846062",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "214849602": {
+   "fragment_id": "214846063",
+   "type": 1,
+   "heading": "Capítulo I — Objecto, organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto, organização e funcionamento"
+  },
+  "214849603": {
+   "fragment_id": "214846064",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma aprova o Regulamento que disciplina a organização e o funcionamento do Sistema de Mediação Penal (SMP), bem como as regras por que deve pautar-se a actividade dos mediadores penais."
+  },
+  "214849604": {
+   "fragment_id": "214846065",
+   "type": 11,
+   "heading": "Artigo 2.º — Organização do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Organização do serviço\n\n1 - O SMP é assegurado por mediadores penais, seleccionados e inscritos em listas, organizadas no quadro dos serviços de mediação dos julgados de paz, aprovadas e actualizadas anualmente por despacho do director do Gabinete para a Resolução Alternativa de Litígios (GRAL), do Ministério da Justiça.\n\n2 - A gestão do SMP assenta num sistema informático gerido pelo GRAL e partilhado pelos serviços do Ministério Público, o qual permite a recolha e tratamento da informação necessária para o desenvolvimento dos processos de mediação, com respeito pelo princípio da confidencialidade.\n\n3 - O acesso à aplicação informática é restrito a cada um dos utilizadores, incluindo o mediador penal designado, com graus de permissão diferenciados.\n\n4 - As comunicações realizadas entre os serviços do Ministério Público, o GRAL e os mediadores penais são realizadas, preferencialmente, por via electrónica."
+  },
+  "214849605": {
+   "fragment_id": "214846066",
+   "type": 11,
+   "heading": "Artigo 3.º — Listas de mediadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Listas de mediadores\n\n1 - Compete ao GRAL proceder à selecção dos mediadores para integrarem as listas de mediadores penais.\n\n2 - As listas de mediadores penais encontram-se organizadas por ordem alfabética e por comarca.\n\n3 - Compete ao GRAL assegurar a manutenção e actualização das listas de mediadores penais, bem como a sua disponibilização aos serviços do Ministério Público.\n\n4 - Os procedimentos a observar para a selecção e inscrição nas listas referidas nos números anteriores são definidos no Regulamento do Procedimento de Selecção de Mediadores Penais.\n\n5 - Os mediadores habilitados e inscritos nas listas do SMP são contratados em regime de prestação de serviços, por períodos anuais, susceptíveis de renovação."
+  },
+  "214849606": {
+   "fragment_id": "214846067",
+   "type": 11,
+   "heading": "Artigo 4.º — Supervisão e coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Supervisão e coordenação\n\n1 - Compete ao GRAL organizar, acompanhar e supervisionar a prestação de serviço dos mediadores penais.\n\n2 - Em cada área geográfica a articulação entre os mediadores penais e o GRAL é coordenada por um mediador penal designado pelo director do GRAL.\n\n3 - Compete ao mediador-coordenador:\n\na) Ser o interlocutor dos mediadores penais junto do GRAL;\n\nb) Solicitar e prestar informação ao GRAL em assuntos relacionados com o funcionamento dos serviços de mediação penal;\n\nc) Solicitar e prestar informação à Comissão de Fiscalização dos Mediadores de Conflitos em assuntos relacionados com o funcionamento dos serviços de mediação penal;\n\nd) Organizar, com periodicidade trimestral, reuniões entre todos os mediadores inscritos nas listas da área geográfica da sua comarca, com o objectivo de promover a troca de experiências e o aperfeiçoamento das técnicas de mediação penal."
+  },
+  "214849607": {
+   "fragment_id": "214846068",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento de mediação"
+  },
+  "214849608": {
+   "fragment_id": "214846069",
+   "type": 11,
+   "heading": "Artigo 6.º — Início do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Início do procedimento\n\n1 - Verificados os requisitos de que depende a remessa do processo para mediação, o Ministério Público designa um mediador penal através do sistema informático referido na alínea c) do n.º 2 do artigo 11.º da Lei n.º 21/2007, de 12 de Junho.\n\n2 - O sistema informático referido no número anterior deve assegurar, sem prejuízo da situação referida no n.º 4 do artigo 3.º da Lei n.º 21/2007, de 12 de Junho, a designação sequencial dos mediadores penais.\n\n3 - No caso de o mediador penal se encontrar indisponível para assegurar a mediação do processo, disso dá conhecimento ao Ministério Público e ao GRAL através do sistema informático referido no n.º 1, sendo, em seguida, designado novo mediador.\n\n4 - Verificando-se a aceitação por parte do mediador, o Ministério Público remete-lhe, através do sistema informático referido no n.º 1, a informação que considere essencial sobre o arguido e o ofendido e uma descrição sumária do objecto do processo e simultaneamente notifica o arguido e o ofendido de que o processo foi remetido para mediação.\n\n5 - O mediador penal contacta o arguido e o ofendido para obter o seu consentimento livre e esclarecido quanto à participação na mediação, informando-os dos seus direitos e deveres e da natureza, finalidade e regras aplicáveis ao processo de mediação e verifica se aqueles reúnem condições para participar no processo de mediação.\n\n6 - Caso não obtenha consentimento ou verifique que o arguido ou o ofendido não reúnem as condições necessárias para a participação na mediação, o mediador penal informa disso o Ministério Público e o GRAL através do sistema informático referido no n.º 1, prosseguindo o processo penal os seus termos.\n\n7 - Caso se verifique qualquer tipo de impedimento por parte do mediador penal, em qualquer fase do procedimento de mediação, que obste à sua realização ou continuidade, deve o mediador penal recusar ou interromper o procedimento de mediação, disso dando conhecimento ao Ministério Público e ao GRAL através do sistema informático referido no n.º 1.\n\n8 - Verificando-se alguma das situações referidas no n.º 4 do artigo 3.º da Lei n.º 21/2007, de 12 de Junho, pode o mediador penal transferir o processo para outro mediador penal que considere mais indicado, dando disso conhecimento, fundamentado, ao Ministério Público e ao GRAL através do sistema informático referido no n.º 1.\n\n9 - Obtido o consentimento do arguido e do ofendido, é por estes assinado o termo de consentimento que contém as regras a que obedece o processo de mediação."
+  },
+  "214849609": {
+   "fragment_id": "214846070",
+   "type": 11,
+   "heading": "Artigo 7.º — Comparência das partes e representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comparência das partes e representação\n\n1 - O arguido e o ofendido devem comparecer pessoalmente às sessões de mediação, podendo fazer-se acompanhar de advogado ou advogado estagiário.\n\n2 - Nos casos em que o ofendido não possua o discernimento para entender o alcance e o significado do exercício do direito de queixa ou tenha falecido sem ter renunciado à queixa, o processo de mediação pode ter lugar com a intervenção do queixoso em lugar do ofendido, devendo, neste caso, as referências efectuadas no presente Regulamento ao ofendido terem-se por efectuadas ao queixoso.\n\n3 - As pessoas colectivas devem fazer-se representar por mandatário com poderes especiais para desistir, confessar ou transigir.\n\n4 - Em caso de impossibilidade de comparência, os sujeitos processuais participantes devem, em tempo útil, informar de tal facto o mediador a fim de ser marcada nova data para a sessão de mediação.\n\n5 - Em caso de não cumprimento da nova data ou não justificada a falta, o mediador penal, através do sistema informático referido no n.º 1 do artigo 6.º, informa o Ministério Público com vista à extinção do procedimento de mediação e ao prosseguimento do processo penal.\n\n6 - Em caso de impossibilidade de comparência do mediador penal, deve este, em tempo útil, avisar os sujeitos processuais e proceder à marcação de nova data para a sessão de mediação.\n\n7 - Em caso de impossibilidade de cumprir o aviso prévio, nos termos do número anterior, o mediador penal deve justificar a sua falta junto do GRAL, através do sistema informático referido no n.º 1 do artigo 6.º, no prazo de cinco dias."
+  },
+  "214849610": {
+   "fragment_id": "214846071",
+   "type": 11,
+   "heading": "Artigo 8.º — Local das sessões de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Local das sessões de mediação\n\n1 - As sessões de mediação são realizadas nas salas dos serviços de mediação dos julgados de paz de cada uma das comarcas designadas, mediante marcação prévia do mediador penal designado para o processo, nos termos do presente Regulamento.\n\n2 - Caso se revele necessário, o GRAL pode indicar um outro local para a realização de sessões de mediação, favorecendo a sua proximidade às comarcas designadas.\n\n3 - O GRAL dispõe de uma lista de locais disponíveis para a realização de sessões de mediação, organizada geograficamente."
+  },
+  "214849611": {
+   "fragment_id": "214846072",
+   "type": 11,
+   "heading": "Artigo 9.º — Prazo do procedimento de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Prazo do procedimento de mediação\n\n1 - Sem prejuízo do disposto nos números seguintes, o procedimento de mediação deve ser concluído no prazo máximo de três meses contados desde a data de remessa do processo para mediação.\n\n2 - O mediador penal, desde que verifique uma forte possibilidade de se alcançar um acordo e desde que os sujeitos processuais participantes manifestem a sua concordância, pode solicitar ao Ministério Público a prorrogação do prazo previsto no número anterior, até ao limite máximo de dois meses."
+  },
+  "214849612": {
+   "fragment_id": "214846073",
+   "type": 11,
+   "heading": "Artigo 10.º — Termo do procedimento de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Termo do procedimento de mediação\n\n1 - O procedimento de mediação termina sempre que:\n\na) Decorridos os prazos fixados no artigo anterior, não tenha sido obtido acordo entre o arguido e o ofendido;\n\nb) O arguido ou o ofendido comunique ao mediador penal a revogação do consentimento para a participação na mediação;\n\nc) O mediador verifique a impossibilidade de obtenção de um acordo;\n\nd) Seja assinado o acordo resultante da mediação.\n\n2 - O mediador penal comunica o resultado da mediação ao GRAL, através do sistema informático referido no n.º 1 do artigo 6.º, no prazo máximo de cinco dias após a assinatura do acordo ou após a constatação da impossibilidade do mesmo."
+  },
+  "214849613": {
+   "fragment_id": "214846074",
+   "type": 11,
+   "heading": "Artigo 11.º — Acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acordo\n\n1 - Resultando da mediação um acordo, este é reduzido a escrito e assinado pelos sujeitos processuais participantes e pelo mediador.\n\n2 - Os termos do acordo devem incluir uma cláusula, aprovada por despacho do director do GRAL, relativa às consequências jurídicas da sua assinatura, designadamente de que esta equivale a desistência de queixa por parte do ofendido e à não oposição por parte do arguido e de que o ofendido pode, caso o acordo não seja cumprido no prazo fixado, renovar a queixa no prazo de um mês sendo reaberto o inquérito.\n\n3 - O termo do acordo é redigido em número de exemplares igual ao número de sujeitos processuais participantes, ficando um exemplar para cada um dos sujeitos.\n\n4 - O termo de acordo é transmitido pelo mediador penal ao Ministério Público, através do sistema informático referido no n.º 1 do artigo 6.º\n\n5 - O termo do acordo considera-se obtido na data de homologação da desistência de queixa."
+  },
+  "214849614": {
+   "fragment_id": "214849975",
+   "type": 11,
+   "heading": "Artigo 12.º — Inquérito de satisfação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Inquérito de satisfação\n\nApós o termo do procedimento de mediação e independentemente do respectivo resultado, os utilizadores do SMP são convidados ao preenchimento de inquérito de satisfação conforme modelo aprovado por despacho do director do GRAL."
+  },
+  "214849615": {
+   "fragment_id": "214849976",
+   "type": 11,
+   "heading": "Artigo 13.º — Custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Custas\n\nO processo de mediação não se encontra sujeito ao pagamento de custas."
+  },
+  "214849616": {
+   "fragment_id": "214849977",
+   "type": 1,
+   "heading": "Capítulo III — Actividade dos mediadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Actividade dos mediadores"
+  },
+  "214849617": {
+   "fragment_id": "214849978",
+   "type": 11,
+   "heading": "Artigo 14.º — Direitos e deveres dos mediadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direitos e deveres dos mediadores\n\n1 - O mediador penal não pode sugerir ou impor aos mediados os termos do acordo, devendo auxiliá-los a comunicar entre si, a reflectir sobre as questões em conflito, bem como a equacionar opções que proporcionem um acordo justo, equitativo e duradouro que traduza o livre exercício da sua vontade e responsabilidade.\n\n2 - No desempenho das suas funções, o mediador penal deve observar os deveres de imparcialidade, independência, confidencialidade e diligência.\n\n3 - O mediador penal tem o dever de guardar segredo profissional em relação ao teor das sessões de mediação.\n\n4 - Salvo em caso de falta deliberada, o mediador penal não pode ser responsabilizado, por qualquer das partes, por actos ou omissões relacionados com a mediação realizada desde que os mesmos estejam conformes com a lei, as normas éticas, as regras acordadas com as partes e o estipulado no presente Regulamento."
+  },
+  "214849618": {
+   "fragment_id": "214849979",
+   "type": 11,
+   "heading": "Artigo 15.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Impedimentos\n\n1 - Não é permitido ao mediador penal intervir, por qualquer forma, nomeadamente como testemunha, em quaisquer procedimentos subsequentes à mediação, como o processo judicial ou o acompanhamento psicoterapêutico, quer se tenha aí obtido ou não um acordo e ainda que tais procedimentos estejam apenas indirectamente relacionados com a mediação realizada.\n\n2 - O mediador penal que tenha sido condenado por sentença transitada em julgado pela prática de crime doloso é oficiosamente excluído das listas do SMP em que se encontre inscrito.\n\n3 - O mediador penal que, por razões legais, éticas ou deontológicas, não tenha ou deixe de ter assegurado a sua independência, imparcialidade e isenção deve recusar ou interromper o procedimento de mediação e informar disso o Ministério Público e o GRAL, através do sistema informático referido no n.º 1 do artigo 6.º, para efeitos de designação de novo mediador.\n\n4 - O mediador que por qualquer motivo verifique a sua indisponibilidade para aceitar os processos de mediação que lhe são atribuídos deve solicitar ao GRAL que retire o seu nome das listas referidas no artigo 3.º do presente Regulamento.\n\n5 - O GRAL pode excluir das listas referidas no n.º 3 do presente Regulamento os mediadores que reiteradamente se revelem indisponíveis para aceitar processos de mediação."
+  },
+  "214849619": {
+   "fragment_id": "214849980",
+   "type": 11,
+   "heading": "Artigo 16.º — Informações obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Informações obrigatórias\n\nO mediador penal deve esclarecer os sujeitos processuais quanto à sua participação no processo de mediação, informando-os, nomeadamente, sobre:\n\na) Os direitos e deveres dos mediados e do mediador;\n\nb) A natureza, as características e os objectivos da mediação, assim como a metodologia de trabalho adoptada;\n\nc) O facto de a adesão ao SMP envolver a aceitação dos termos do presente Regulamento;\n\nd) A suspensão dos prazos processuais enquanto durar o procedimento de mediação;\n\ne) A assinatura do acordo significar a desistência de queixa por parte do ofendido e a não oposição por parte do arguido;\n\nf) A possibilidade de o ofendido poder renovar a queixa no prazo de um mês, sendo reaberto o inquérito, caso o acordo estabelecido não seja cumprido no prazo fixado;\n\ng) O resultado do procedimento de mediação não excluir a responsabilidade em que os sujeitos processuais podem incorrer por outros factos ou a outro título, designadamente responsabilidade criminal ou contra-ordenacional."
+  },
+  "214849620": {
+   "fragment_id": "214849981",
+   "type": 11,
+   "heading": "Artigo 17.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Remuneração\n\nA remuneração pela prestação de serviços do mediador penal é fixada por despacho do Ministro da Justiça."
+  },
+  "214849621": {
+   "fragment_id": "214849982",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização\n\nO cumprimento do presente Regulamento bem como a actividade dos mediadores penais são acompanhados e fiscalizados pela comissão a que se refere o n.º 6 do artigo 33.º da Lei n.º 78/2001, de 13 de Julho."
+  },
+  "214849622": {
+   "fragment_id": "214849983",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "214849623": {
+   "fragment_id": "214849984",
+   "type": 11,
+   "heading": "Artigo 19.º — Monitorização e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Monitorização e avaliação\n\nCompete ao GRAL assegurar o acompanhamento e a monitorização do SMP com vista à avaliação do período experimental."
+  },
+  "214849630": {
+   "fragment_id": "214846059",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": "2009-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 732/2009 - Diário da República n.º 130/2009, Série I de 2009-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/732-2009-492449), em vigor a partir de 2009-07-09"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\nO Sistema de Mediação Penal funciona a título experimental nas comarcas do Alentejo Litoral, Baixo Vouga, Barreiro, Braga, Cascais, Coimbra, Grande Lisboa Noroeste, Loures, Moita, Montijo, Porto, Santa Maria da Feira, Seixal, Setúbal e Vila Nova de Gaia.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 732/2009 - Diário da República n.º 130/2009, Série I de 2009-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/732-2009-492449), em vigor a partir de 2009-07-09"
+  },
+  "214849600": {
+   "fragment_id": "214846061",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 18 de Janeiro de 2008.\n\nANEXO\n\nREGULAMENTO DO SISTEMA DE MEDIAÇÃO PENAL"
+  },
+  "214849631": {
+   "fragment_id": "214846066",
+   "type": 11,
+   "heading": "Artigo 3.º — Listas de mediadores",
+   "in_force_from": "2009-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 732/2009 - Diário da República n.º 130/2009, Série I de 2009-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/732-2009-492449), em vigor a partir de 2009-07-09"
+   ],
+   "markdown": "###### Artigo 3.º — Listas de mediadores\n\n1 - Compete ao GRAL proceder à selecção dos mediadores para integrarem as listas de mediadores penais.\n\n2 - As listas de mediadores penais são organizadas nos termos de despacho do director do Gabinete para a Resolução Alternativa de Litígios.\n\n3 - Compete ao GRAL assegurar a manutenção e actualização das listas de mediadores penais, bem como a sua disponibilização aos serviços do Ministério Público.\n\n4 - Os procedimentos a observar para a selecção e inscrição nas listas referidas nos números anteriores são definidos no Regulamento do Procedimento de Selecção de Mediadores Penais.\n\n5 - Os mediadores habilitados e inscritos nas listas do SMP são contratados em regime de prestação de serviços, por períodos anuais, susceptíveis de renovação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 732/2009 - Diário da República n.º 130/2009, Série I de 2009-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/732-2009-492449), em vigor a partir de 2009-07-09"
+  },
+  "214849632": {
+   "fragment_id": "214846067",
+   "type": 11,
+   "heading": "Artigo 4.º — Supervisão e coordenação",
+   "in_force_from": "2013-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 49.º do/a [Lei n.º 29/2013 - Diário da República n.º 77/2013, Série I de 2013-04-19](https://diariodarepublica.pt/dr/detalhe/lei/29-2013-260394), em vigor a partir de 2013-05-19"
+   ],
+   "markdown": "###### Artigo 4.º — Supervisão e coordenação\n\n1 - Compete ao GRAL organizar, acompanhar e supervisionar a prestação de serviço dos mediadores penais.\n\n2 - Em cada área geográfica a articulação entre os mediadores penais e o GRAL é coordenada por um mediador penal designado pelo director do GRAL.\n\n3 - Compete ao mediador-coordenador:\n\na) Ser o interlocutor dos mediadores penais junto do GRAL;\n\nb) Solicitar e prestar informação ao GRAL em assuntos relacionados com o funcionamento dos serviços de mediação penal;\n\nc) Revogada;\n\nd) Organizar, com periodicidade trimestral, reuniões entre todos os mediadores inscritos nas listas da área geográfica da sua comarca, com o objectivo de promover a troca de experiências e o aperfeiçoamento das técnicas de mediação penal.\n\n> Alterado pelo/a Artigo 49.º do/a [Lei n.º 29/2013 - Diário da República n.º 77/2013, Série I de 2013-04-19](https://diariodarepublica.pt/dr/detalhe/lei/29-2013-260394), em vigor a partir de 2013-05-19"
+  },
+  "214957266": {
+   "fragment_id": "215014819",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio à gestão do SMP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apoio à gestão do SMP\n\nA gestão do SMP é assegurada por técnicos do GRAL, sem prejuízo das competências atribuídas aos serviços do Ministério Público."
+  }
+ }
+}

@@ -1,0 +1,364 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0491:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0491-20130102",
+ "dre_path": null,
+ "source_lastmod": "2013-01-02",
+ "versions": [
+  {
+   "date": "1989-08-15",
+   "future": false,
+   "celex": "31989L0491",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1e3fd5943090bcdf",
+    "f8fa505b0fe49099",
+    "90fe2fad43345c30",
+    "4833362bd32b7975",
+    "d3e6ae52dfc96b9d",
+    "b665e9635dbb8dbe",
+    "a3900b8f2c66b60a",
+    "14cc38144e650f89",
+    "581bcc788b216502",
+    "514319c68b035694"
+   ]
+  },
+  {
+   "date": "2013-01-02",
+   "future": false,
+   "celex": "01989L0491-20130102",
+   "acts": [
+    {
+     "id": "eu:celex:32007R0715:por",
+     "title": "REGULAMENTO (CE) N. o 715/2007 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Junho de 2007",
+     "published": null,
+     "celex": "32007R0715"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita ANEXO I",
+    "Adita ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/157/CEE",
+    "Adita «6. EXTENSÃO DA RECEPÇÃO CEE",
+    "Adita 6.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo",
+    "Adita 6.2. Modelos de veículos modificados devido a qualquer outra razão",
+    "Adita ANEXO III",
+    "Adita ALTERAÇÕES DO ANEXO I DA DIRECTIVA 72/245/CEE",
+    "Adita « 8. EXTENSÃO DA RECEPÇÃO CEE",
+    "Adita 8.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo",
+    "Adita 8.2. Modelos de veículos modificados devido a qualquer outra razão",
+    "Adita ANEXO IV",
+    "Adita ALTERAÇÕES DO ANEXO V DA DIRECTIVA 72/306/CEE",
+    "Adita ANEXO VI",
+    "Adita ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE",
+    "Adita «8. EXTENSÃO DA RECEPÇÃO CEE",
+    "Adita «9. TOLERÂNCIAS NA MEDIÇÃO DA POTÊNCIA ÚTIL",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime ANEXO I — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/157/CEE",
+    "Suprime ANEXO II — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/220/CEE",
+    "Suprime ANEXO III — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 72/245/CEE",
+    "Suprime ANEXO IV — ALTERAÇÕES DO ANEXO V DA DIRECTIVA 72/306/CEE",
+    "Suprime ANEXO V — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1268/CEE",
+    "Suprime ANEXO VI — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE"
+   ],
+   "fragments": [
+    "21557e756df9585d",
+    "7005e2a8ed6224d2",
+    "9327e15ff1aa6485",
+    "709a68cd4a76729a",
+    "d664376e2a8dcecd",
+    "a6c50f940fe84b9d",
+    "98e039c7a76b536e",
+    "1e568b701e1713dd",
+    "2e1bc2eeba45d503",
+    "720af75c92791b10",
+    "f91433b37f0583e8",
+    "4c8f50e4d09b5ed1",
+    "6a7b6463163dc4c7",
+    "cdd1ab02b89ece23",
+    "e03a0eb4d5b2eef3",
+    "48f1e7eeb1ccd4c2",
+    "90c7d2baf4d44ee2",
+    "d13215fed66fefeb",
+    "63ff1885175ad8ab",
+    "0d4625ba477f3c11",
+    "a17babdd6d679118",
+    "dccf67349ac3b051",
+    "826768fcfad8c494"
+   ]
+  }
+ ],
+ "fragments": {
+  "1e3fd5943090bcdf": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/491/CEE da Comissão, de 17 de Julho de 1989, que adapta ao progresso técnico as Directivas 70/157/CEE, 70/220/CEE, 72/245/CEE, 72/306/CEE, 80/1268/CEE e 80/1269/CEE do Conselho no domínio dos veículos a motor** *Jornal Oficial nº L 238 de 15/08/1989 p. 0043 - 0049 Edição especial finlandesa: Capítulo 15 Fascículo 9 p. 0090 Edição especial sueca: Capítulo 15 Fascículo 9 p. 0090*\n\n*****\n\nDIRECTIVA DA COMISSÃO\n\nde 17 de Julho de 1989\n\nque adapta ao progresso técnico as Directivas 70/157/CEE, 70/220/CEE, 72/245/CEE, 72/306/CEE, 80/1268/CEE e 80/1269/CEE do Conselho no domínio dos veículos a motor\n\n(89/491/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 70/157/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos estados-membros respeitantes ao nível sonoro admissível e ao dispositivo de escape dos veículos a motor (1), com a última redacção que lhe foi dada pela Directiva 87/354/CEE (2), e, nomeadamente, o seu artigo 3º,\n\nTendo em conta a Directiva 70/220/CEE do Conselho, de 20 de Março de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes às medidas a tomar contra a poluição do ar por emissões provenientes dos veículos a motor (3), com a última redacção que lhe foi dada pela Directiva 88/436/CEE (4), e, nomeadamente, o seu artigo 5º,\n\nTendo em conta a Directiva 72/245/CEE do Conselho, de 20 de Junho de 1972, relativa à aproximação das legislações dos Estados-membros respeitantes à supressão das interferências radioeléctricas produzidas pelos motores de ignição comandada que equipam os veículos a motor (5), e, nomeadamente, o seu artigo 4º,\n\nTendo em conta a Directiva 72/306/CEE do Conselho, de 2 de Agosto de 1972, relativa à aproximação das legislações dos Estados-membros respeitantes às medidas a tomar contra a emissão de poluentes provenientes dos motores diesel destinados à propulsão dos veículos (6), e, nomeadamente, o seu artigo 4º,\n\nTendo em conta a Directiva 80/1268/CEE do Conselho, de 16 de Dezembro de 1980, relativa à aproximação das legislações dos Estados-membros respeitantes ao consumo de combustível dos veículos a motor (7), e, nomeadamente, o seu artigo 3º,\n\nTendo em conta a Directiva 80/1269/CEE do Conselho, de 16 de Dezembro de 1980, relativa à aproximação das legislações dos Estados-membros respeitantes à potência dos motores dos veículos a motor (8), com a última redacção que lhe foi dada pela Directiva 88/195/CEE (9), e, nomeadamente, o seu artigo 3º,\n\nConsiderando que a Directiva 88/76/CEE do Conselho (10), que altera a Directiva 70/220/CEE, introduz requisitos relativos à utilização de gasolina sem chumbo; que a adaptação dos motores existentes a essa gasolina exige, na maioria dos casos, modificações técnicas que são relevantes para o cumprimento das directivas acima mencionadas; que parece ser adequado facilitar o tratamento administrativo das alterações resultantes da recepção dos veículos em questão no interesse de uma utilização rapidamente crescente de gasolina sem chumbo; que parece ser também necessário tornar mais precisas as especificações da Directiva 88/76/CEE que impedem que os veículos equipados com dispositivos de controlo de emissões, que poderiam ser afectados de modo adverso pela gasolina com chumbo, sejam reabastecidos com tal gasolina; que parece ser igualmente adequado introduzir o novo combustível de referência para os motores diesel, especificado na presente directiva, na Directiva 72/306/CEE respeitante às emissões de fumos de tais motores; que é conveniente harmonizar, na mesma ocasião, as disposições técnicas da Directiva 80/1269/CEE\n\nrelativa à potência dos motores com as da regulamentação correspondente da comissão económica para a Europa das Nações Unidas;\n\nConsiderando que é desejável introduzir tão rapidamente quanto possível as alterações contidas na presente directiva nas legislações nacionais, dado que tais alterações são especialmente necessárias durante o período de transição em que coexistirão veículos concebidos para a utilização de gasolina com chumbo e veículos que exigem gasolina sem chumbo;\n\nConsiderando que as disposições da presente directiva estão em conformidade com o parecer do Comité para a Adaptação ao Progresso Técnico das directivas relativas a veículos a motor,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f8fa505b0fe49099": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nAs directivas a seguir mencionadas são alteradas em conformidade com os anexos da presente directiva:\n\n- A Directiva 70/157/CEE é alterada em conformidade com o anexo I,\n\n- A Directiva 70/220/CEE é alterada em conformidade com o anexo II,\n\n- A Directiva 72/245/CEE é alterada em conformidade com o anexo III,\n\n- A Directiva 72/306/CEE é alterada em conformidade com o anexo IV,\n\n- A Directiva 80/1268/CEE é alterada em conformidade com o anexo V,\n\n- A Directiva 80/1269/CEE é alterada em conformidade com o anexo VI."
+  },
+  "90fe2fad43345c30": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar em 1 de Janeiro de 1990. Desse facto informarão imediatamente a Comissão."
+  },
+  "4833362bd32b7975": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 17 de Julho de 1989.\n\nPela Comissão\n\nMartin BANGEMANN\n\nVice-Presidente\n\n(1) JO nº L 42 de 23. 2. 1970, p. 16.\n\n(2) JO nº L 192 de 11. 7. 1987, p. 43.\n\n(3) JO nº L 76 de 6. 4. 1970, p. 1.\n\n(4) JO nº L 214 de 6. 8. 1988, p. 1.\n\n(5) JO nº L 152 de 6. 7. 1972, p. 15.\n\n(6) JO nº L 190 de 20. 8. 1972, p. 1.\n\n(7) JO nº L 375 de 31. 12. 1980, p. 36.\n\n(8) JO nº L 375 de 31. 12. 1980, p. 46.\n\n(9) JO nº L 92 de 9. 4. 1988, p. 50.\n\n(10) JO nº L 36 de 9. 2. 1988, p. 1."
+  },
+  "d3e6ae52dfc96b9d": {
+   "fragment_id": "ANEXO I — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/157/CEE",
+   "type": "divisao",
+   "heading": "ANEXO I — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/157/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/157/CEE\n\nÉ aditado um novo ponto com a seguinte redacção:\n\n1.2 // « 6. // EXTENSÃO DA RECEPÇÃO CEE // 6.1. // Modelos de veículos modificados para funcionarem com gasolina sem chumbo // 6.1.1. // A recepção de um modelo de veículo modificado e/ou regulado apenas com o fim de o tornar capaz de funcionar com gasolina sem chumbo, conforme especificado na Directiva 85/210/CEE, será objecto de extensão quando o fabricante certificar, sujeito à aprovação da autoridade que concede a recepção, que o nível sonoro do modelo modificado não excede os valores limite especificados no ponto 5.2.2.1. // 6.2. // Modelos de veículos modificados devido a qualquer outra razão // 6.2.1. // A recepção de um modelo de veículo pode ser objecto de extensão a modelos de veículos diferentes no que diz respeito às características indicadas no anexo III se a autoridade que concede a recepção considerar que as modificações feitas não são susceptíveis de terem qualquer efeito adverso adverso substancial sobre o nível sonoro de veículo. »."
+  },
+  "b665e9635dbb8dbe": {
+   "fragment_id": "ANEXO II — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/220/CEE",
+   "type": "divisao",
+   "heading": "ANEXO II — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/220/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/220/CEE\n\n1. Ao início do ponto 2.2 aditar uma nova frase com a seguinte redacção:\n\n1.2 // « 2.2. // Por ''massa de referência\", a massa do veículo em ordem de marcha menos a massa uniforme do condutor de 75 kg, aumentada de uma massa uniforme de 100 kg. ».\n\n2. O ponto 3.2.4. passa a ter a seguinte redacção:\n\n1.2 // « 3.2.4. // No caso de veículos equipados com motores de ignição comandada, uma declaração relativa ao facto de ser aplicado ou o ponto 5.1.2.1. (orifício restringido) ou o ponto 5.1.2.2 (marcação), e, neste último caso, uma descrição da marcação. ».\n\n3. Após o ponto 5.1.2, aditar novos pontos com a seguinte redacção:\n\n1.2 // « 5.1.2.1. // Sob reserva do disposto no ponto 5.1.2.2, o orifício de entrada do reservatório de combustível deve ser concebido de modo tal que impeça o abastecimento do reservatório a partir de uma pistola de abastecimento de gasolina que tenha um diâmetro externo igual ou superior a 23,6 mm. // 5.1.2.2. // O ponto 5.1.2.1 não se aplica a um veículo em relação ao qual são satisfeitas ambas as condições a seguir, isto é: // 5.1.2.2.1. // Que o veículo seja concebido e fabricado de modo tal que nenhum dispositivo previsto para controlar a emissão de poluentes gasosos possa ser afectado de modo adverso por gasolina com chumbo // // e // 5.1.2.2.2. // Que esteja marcado de modo visível, legível e indelével com o símbolo relativo à gasolina sem chumbo (4.26) especificado na norma ISO 2575/1982 (1), colocado numa posição imediatamente visível para uma pessoa que abasteça o reservatório de combustível. São admitidas marcações adicionais. »\n\n(1) Reproduzida como figura 22 do anexo II a Directiva 78/316/CEE"
+  },
+  "a3900b8f2c66b60a": {
+   "fragment_id": "ANEXO III — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 72/245/CEE",
+   "type": "divisao",
+   "heading": "ANEXO III — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 72/245/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 72/245/CEE\n\nÉ aditado um novo ponto com a seguinte redacção:\n\n1.2 // « 8. // EXTENSÃO DA RECEPÇÃO CEE // 8.1. // Modelos de veículos modificados para funcionarem com gasolina sem chumbo // 8.1.1. // A recepção de um modelo de veículo modificado e /ou regulado apenas com o fim de o tornar capaz de funcionar com gasolina sem chumbo, conforme especificado na Directiva 85/210/CEE, será objecto de extensão quando o fabricante certificar, sujeito à aprovação da autoridade que concede a recepção, que a supressão das interferências radioeléctricas para os veículos modificados se mantenha dentro dos limites necessários para a conformidade de produção, conforme especificado no ponto 9 do presente anexo. // 8.2. // Modelos de veículos modificados devido a qualquer outra razão // 8.2.1. // A recepção de um modelo de veículo pode ser objecto de extensão a modelos de veículos diferentes no que diz respeito às características indicadas no ponto 2.2 do presente anexo se a autoridade que concede a recepção considerar que as modificações feitas não são susceptíveis de terem qualquer efeito adverso sobre a supressão de interferências radioeléctricas do veículo. »."
+  },
+  "14cc38144e650f89": {
+   "fragment_id": "ANEXO IV — ALTERAÇÕES DO ANEXO V DA DIRECTIVA 72/306/CEE",
+   "type": "divisao",
+   "heading": "ANEXO IV — ALTERAÇÕES DO ANEXO V DA DIRECTIVA 72/306/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — ALTERAÇÕES DO ANEXO V DA DIRECTIVA 72/306/CEE\n\nO anexo V é substituído pelo seguinte:\n\n« CARACTERÍSTICAS TÉCNICAS DO COMBUSTÍVEL DE REFERÊNCIA PRESCRITO PARA ENSAIOS DE RECEPÇÃO E PARA VERIFICAR A CONFORMIDADE DA PRODUÇÃO\n\nCombustível de referência CEC RF-03-A-84 (1) (3) (7)\n\n1.2.3 // // // // // Limites e unidades // Método ASTM // // // // Indice de cetano (4) // min. 49 máx. 53 // D 613 // Densidade a 15 °C (Kg/1) // min. 0,835 máx. 0,845 // D 1298 // Destilação (2): - ponto de 50 % vol - ponto de 90 % vol - ponto final de ebulição // min. 245 °C min. 320 °C máx. 340 °C máx. 370 °C // D 86 // Ponto de inflamação // min. 55 °C // D 93 // Ponto de colmatação de filtro frio // min. - máx. - 5 °C // EN 116 (CEN) // Viscosidade 40 °C // min. 2,5 mm2/S máx. 3,5 mm2/S // D 445 // Teor de enxofre // min. (a comunicar) // D 1266/D 2622 D 2785 // // máx. 0,3 % em massa // // Ensaio de corrosão em cobre // máx. 1 // D 130 // Resíduo carbonoso Conradson no resíduo de destilação (10 %) // máx 0,2 % em massa // D 189 // Teor de cinzas // máx. 0,01 % en massa // D 482 // Teor de água // máx. 0,05 % em massa // D 95/D 1744 // Número de neutralização (ácido forte) // máx. 0,2 mg KOH/g // // Estabilidade de oxidação (6) // máx. 2,5 mg/100 ml // D 2274 // Aditivos (5) // // // Proporção carbono/hidrogénio // a comunicar // // // //\n\n(1) Serão adoptados métodos ISO equivalentes quando forem publicados para todas as propriedades acima.\n\n(2) Os números apresentados mostram as quantidades totais evaporados (% recuperada + % perdas).\n\n(3) Os valores apresentados na especificação são \"valores verdadeiros\". Ao estabelecer os seus valores limite, aplicaram-se os termos do documento ASTM D 3244 « Definição de uma base para as disputas sobre qualidade dos produtos petrolíferos » e, ao fixar um valor máximo, tomou-se em consideração uma diferença mínima de 2R acima do zero; ao fixar um valor máximo e mínimo, a diferença mínima é de 4R (R = reprodutibilidade).\n\nApesar desta medida, necessária por razões estatísticas, o fabricante de um combustível deve, todavia, visar um valor nulo quando o valor máximo estipulado for 2R, e o valor médio, em caso de apresentação de limites máximos e mínimo. Se for necessário clarificar a questão de saber se um combustível satisfaz ou não as prescrições da especificação devem-se aplicar os termos do documento ASTM D 3244.\n\n(4) O intervalo indicado para o cetano não está em conformidade com o requisito de um mínimo de 4R. No entanto, em caso de disputa entre o fornecedor e o utilizador de combustível, poderão aplicar-se os termos da norma ASTM D 3244, desde que seja feito um número suficiente de medições repetidas, a fim de obter a precisão necessária, sendo tais medições preferíveis a uma determinação única.\n\n(5) Este combustível pode ser baseado em destilados directos e por cracking: a dessulfurização é admitida. Não deve conter nenhuns aditivos metálicos nem melhoramentos de índice de cetano.\n\n(6) Embora a estabilidade na oxidação seja controlada, é provável que o prazo de validade do produto seja limitado. Recomenda-se que seja pedido conselho ao fornecedor sobre as condições de armazenamento e de prazo de validade. (7) Se for necessário calcular a eficiência térmica de um motor ou veículo, o valor calórico do combustível pode ser calculado a partir de:\n\nEnergia específica (valor calcórico) (líquido) em MJ/kg =\n\n(46 423 - 8 792d2 + 3 170d) [1 - (x+y+s)] + 9,420s - 2,499x,\n\n1.2.3 // em que: // d // = densidade a 15 °C, // // x // = proporção, em massa, de água (% dividida por 100), // // y // = proporção, em massa, de cinzas (% dividida por 100), // // s // = proporção, em massa, de enxofre (% dividida por 100). »"
+  },
+  "581bcc788b216502": {
+   "fragment_id": "ANEXO V — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1268/CEE",
+   "type": "divisao",
+   "heading": "ANEXO V — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1268/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1268/CEE\n\n1. O ponto 3.1.1 é alterado do seguinte modo:\n\nSuprimir « com a última redacção que lhe foi dada pela Directiva 78/665/CEE »\n\n2. É aditado um novo ponto com a seguinte redacção:\n\n1.2 // « 7. // EXTENSÃO DA RECEPÇÃO CEE // 7.1. // Modelos de veículos modificados para funcionarem com gasolina sem chumbo // 7.1.1. // Sujeito à aprovação da autoridade que concede a recepção, a recepção de um modelo de veículo modificado e/ou regulado apenas com o fim de o tornar capaz de funcionar com gasolina sem chumbo, conforme especificado na Directiva 85/210/CEE, será objecto de extensão ao abrigo das seguintes condições alternativas: // 7.1.1.1. // O fabricante certificará que o consumo de combustível para cada uma das condições de teste não excede em mais de 5 % o valor obtido com o veículo recepciondo original, não modificado. Neste caso, a extensão deve confirmar os valores da recepção original // // ou // 7.1.1.2. // O fabricante declarará um valor de consumo de combustível revisto para qualquer uma das três condições de teste que exceder em mais de 5 % o valor obtido com o veículo recepcionado original, não modificado. Neste caso, a extensão deve especificar os valores declarados de novo como aplicáveis ao modelo de veículo modificado. // 7.2. // Modelos de veículos modificados devido a qualquer outra razão // 7.2.1. // A recepção de um modelo de veículo pode ser objecto de extensão a modelos de veículos diferentes no que diz respeito às características indicadas no anexo II se a autoridade que concede a recepção considerar que as modificações feitas não são susceptíveis de terem qualquer efeito adverso sobre o consumo de combustível do veículo. »."
+  },
+  "514319c68b035694": {
+   "fragment_id": "ANEXO VI — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE",
+   "type": "divisao",
+   "heading": "ANEXO VI — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE\n\nO ponto 8 passa a ter a seguinte redacção:\n\n1.2 // « 8. // EXTENSÃO DA RECEPÇÃO CEE // 8.1. // Modelos de veículos modificados para funcionarem com gasolina sem chumbo // 8.1.1. // Sujeito à aprovação da autoridade que concede a recepção, a recepção de um modelo de veículo modificado e/ou regulado apenas com o fim de o tornar capaz de funcionar com gasolina sem chumbo, conforme especificado na Directiva 85/210/CEE, será objecto de extensão ao abrigo das seguintes condições alternativas: // 8.1.1.1. // O fabricante certificará que a potência do motor do veículo modificado se mantém dentro dos limites para a conformidade de produção, conforme especificado no ponto 9.2, conforme obtidos com o veículo recepcionado original, não modificado. Neste caso, a extensão deve confirmar a potência da recepção original // // ou // 8.1.1.2. // O fabricante declarará o valor revisto da potência do motor que for inferior à obtida com o veículo recepcionado original, não modificado. Neste caso, a extensão deve especificar os valores declarados de novo como aplicáveis ao modelo do veículo modificado. // 8.2. // Modelos de veículos modificados devido a qualquer outra razão // // Qualquer outra modificação do motor no que diz respeito às características indicadas no apêndice 1 ou apêndice 2 do presente anexo devem ser comunicadas à autoridade competente. Esta pode então: // 8.2.1. // Considerar que as modificações introduzidas não são susceptíveis de terem qualquer efeito substancial sobre a potência do motor // // ou // 8.2.2. // Exigir uma nova determinação da potência do motor através da execução dos ensaios que forem achados necessários. ».\n\nO ponto 9 passa a ter a seguinte redacção:\n\n1.2 // 9. // TOLERÂNCIAS NA MEDIÇÃO DA POTÊNCIA ÚTIL // 9.1. // A potência útil indicada pelo fabricante para o tipo de motor será considerada, caso não difira em mais de ±2 % quanto ao valor máximo e em mais de ±4 % quanto aos outros pontos de medição, com uma tolerância de 1,5 % para o regime do motor, dos valores medidos pelo serviço técnico no motor apresentado para ensaio. // 9.2. // Por ocasião dos ensaios de controlo da conformidade da produção, a potência deve ser medida em 2 regimes S1 e S2 correspondentes respectivamente aos pontos de medição da potência máxima e do binário máximo considerados para a homologação do motor. Nestes dois regimes com uma tolerância de ±5 %, a potência útil medida pelo menos num ponto das gamas S1 ±5 % e S2 ±5 % não deve diferir ±5 % do valor de homologação."
+  },
+  "21557e756df9585d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Julho de 1989\n\nque adapta ao progresso técnico as Directivas 70/157/CEE, 70/220/CEE, 72/245/CEE, 72/306/CEE, 80/1268/CEE e 80/1269/CEE do Conselho no domínio dos veículos a motor\n\n(89/491/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 70/157/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos estados-membros respeitantes ao nível sonoro admissível e ao dispositivo de escape dos veículos a motor ([^1^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 87/354/CEE ([^2^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0002)), e, nomeadamente, o seu artigo 3.º,\n\nTendo em conta a Directiva 70/220/CEE do Conselho, de 20 de Março de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes às medidas a tomar contra a poluição do ar por emissões provenientes dos veículos a motor ([^3^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0003)), com a última redacção que lhe foi dada pela Directiva 88/436/CEE ([^4^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0004)), e, nomeadamente, o seu artigo 5.º,\n\nTendo em conta a Directiva 72/245/CEE do Conselho, de 20 de Junho de 1972, relativa à aproximação das legislações dos Estados-membros respeitantes à supressão das interferências radioeléctricas produzidas pelos motores de ignição comandada que equipam os veículos a motor ([^5^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0005)), e, nomeadamente, o seu artigo 4.º,\n\nTendo em conta a Directiva 72/306/CEE do Conselho, de 2 de Agosto de 1972, relativa à aproximação das legislações dos Estados-membros respeitantes às medidas a tomar contra a emissão de poluentes provenientes dos motores *diesel* destinados à propulsão dos veículos ([^6^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0006)), e, nomeadamente, o seu artigo 4.º,\n\nTendo em conta a Directiva 80/1268/CEE do Conselho, de 16 de Dezembro de 1980, relativa à aproximação das legislações dos Estados-membros respeitantes ao consumo de combustível dos veículos a motor ([^7^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0007)), e, nomeadamente, o seu artigo 3.º,\n\nTendo em conta a Directiva 80/1269/CEE do Conselho, de 16 de Dezembro de 1980, relativa à aproximação das legislações dos Estados-membros respeitantes à potência dos motores dos veículos a motor ([^8^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0008)), com a última redacção que lhe foi dada pela Directiva 88/195/CEE ([^9^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0009)), e, nomeadamente, o seu artigo 3.º,\n\nConsiderando que a Directiva 88/76/CEE do Conselho ([^10^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0010)), que altera a Directiva 70/220/CEE, introduz requisitos relativos à utilização de gasolina sem chumbo; que a adaptação dos motores existentes a essa gasolina exige, na maioria dos casos, modificações técnicas que são relevantes para o cumprimento das directivas acima mencionadas; que parece ser adequado facilitar o tratamento administrativo das alterações resultantes da recepção dos veículos em questão no interesse de uma utilização rapidamente crescente de gasolina sem chumbo; que parece ser também necessário tornar mais precisas as especificações da Directiva 88/76/CEE que impedem que os veículos equipados com dispositivos de controlo de emissões, que poderiam ser afectados de modo adverso pela gasolina com chumbo, sejam reabastecidos com tal gasolina; que parece ser igualmente adequado introduzir o novo combustível de referência para os motores *diesel,* especificado na presente directiva, na Directiva 72/306/CEE respeitante às emissões de fumos de tais motores; que é conveniente harmonizar, na mesma ocasião, as disposições técnicas da Directiva 80/1269/CEE relativa à potência dos motores com as da regulamentação correspondente da comissão económica para a Europa das Nações Unidas;\n\nConsiderando que é desejável introduzir tão rapidamente quanto possível as alterações contidas na presente directiva nas legislações nacionais, dado que tais alterações são especialmente necessárias durante o período de transição em que coexistirão veículos concebidos para a utilização de gasolina com chumbo e veículos que exigem gasolina sem chumbo;\n\nConsiderando que as disposições da presente directiva estão em conformidade com o parecer do Comité para a Adaptação ao Progresso Técnico das directivas relativas a veículos a motor,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "7005e2a8ed6224d2": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs directivas a seguir mencionadas são alteradas em conformidade com os anexos da presente directiva:\n\n— A Directiva 70/157/CEE é alterada em conformidade com o anexo I,\n\n— A Directiva 70/220/CEE é alterada em conformidade com o anexo II,\n\n— A Directiva 72/245/CEE é alterada em conformidade com o anexo III,\n\n— A Directiva 72/306/CEE é alterada em conformidade com o anexo IV,\n\n— A Directiva 80/1268/CEE é alterada em conformidade com o anexo V,\n\n— A Directiva 80/1269/CEE é alterada em conformidade com o anexo VI."
+  },
+  "9327e15ff1aa6485": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar em 1 de Janeiro de 1990. Desse facto informarão imediatamente a Comissão."
+  },
+  "709a68cd4a76729a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "a6c50f940fe84b9d": {
+   "fragment_id": "ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/157/CEE",
+   "type": "divisao",
+   "heading": "ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/157/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÕES DO ANEXO I DA DIRECTIVA 70/157/CEE\n\nÉ aditado um novo pontocom a seguinte redacção:"
+  },
+  "98e039c7a76b536e": {
+   "fragment_id": "«6. EXTENSÃO DA RECEPÇÃO CEE",
+   "type": "divisao",
+   "heading": "«6. EXTENSÃO DA RECEPÇÃO CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### «6. EXTENSÃO DA RECEPÇÃO CEE"
+  },
+  "1e568b701e1713dd": {
+   "fragment_id": "6.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo",
+   "type": "divisao",
+   "heading": "6.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo\n\n6.1.1. A recepção de um modelo de veículo modificado e/ou regulado apenas com o fim de o tornar capaz de funcionar com gasolina sem chumbo, conforme especificado na Directiva 85/210/CEE, será objecto de extensão quando o fabricante certificar, sujeito à aprovação da autoridade que concede a recepção, que o nível sonoro do modelo modificado não excede os valores limite especificados no ponto 5.2.2.1."
+  },
+  "2e1bc2eeba45d503": {
+   "fragment_id": "6.2. Modelos de veículos modificados devido a qualquer outra razão",
+   "type": "divisao",
+   "heading": "6.2. Modelos de veículos modificados devido a qualquer outra razão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.2. Modelos de veículos modificados devido a qualquer outra razão\n\n6.2.1. A recepção de um modelo de veículo pode ser objecto de extensão a modelos de veículos diferentes no que diz respeito às características indicadas no anexo III se a autoridade que concede a recepção considerar que as modificações feitas não são susceptíveis de terem qualquer efeito adverso adverso substancial sobre o nível sonoro de veículo.»."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "f91433b37f0583e8": {
+   "fragment_id": "ALTERAÇÕES DO ANEXO I DA DIRECTIVA 72/245/CEE",
+   "type": "divisao",
+   "heading": "ALTERAÇÕES DO ANEXO I DA DIRECTIVA 72/245/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÕES DO ANEXO I DA DIRECTIVA 72/245/CEE\n\nÉ aditado um novo pontocom a seguinte redacção:"
+  },
+  "4c8f50e4d09b5ed1": {
+   "fragment_id": "« 8. EXTENSÃO DA RECEPÇÃO CEE",
+   "type": "divisao",
+   "heading": "« 8. EXTENSÃO DA RECEPÇÃO CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### « 8. EXTENSÃO DA RECEPÇÃO CEE"
+  },
+  "6a7b6463163dc4c7": {
+   "fragment_id": "8.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo",
+   "type": "divisao",
+   "heading": "8.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo\n\n8.1.1. A recepção de um modelo de veículo modificado e/ou regulado apenas com o fim de o tornar capaz de funcionar com gasolina sem chumbo, conforme especificado na Directiva 85/210/CEE, será objecto de extensão quando o fabricante certificar, sujeito à aprovação da autoridade que concede a recepção, que a supressão das interferências radioeléctricas para os veículos modificados se mantenha dentro dos limites necessários para a conformidade de produção, conforme especificado no ponto 9 do presente anexo."
+  },
+  "cdd1ab02b89ece23": {
+   "fragment_id": "8.2. Modelos de veículos modificados devido a qualquer outra razão",
+   "type": "divisao",
+   "heading": "8.2. Modelos de veículos modificados devido a qualquer outra razão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.2. Modelos de veículos modificados devido a qualquer outra razão\n\n8.2.1. A recepção de um modelo de veículo pode ser objecto de extensão a modelos de veículos diferentes no que diz respeito às características indicadas no ponto 2.2 do presente anexo se a autoridade que concede a recepção considerar que as modificações feitas não são susceptíveis de terem qualquer efeito adverso sobre a supressão de interferências radioeléctricas do veículo.»."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "48f1e7eeb1ccd4c2": {
+   "fragment_id": "ALTERAÇÕES DO ANEXO V DA DIRECTIVA 72/306/CEE",
+   "type": "divisao",
+   "heading": "ALTERAÇÕES DO ANEXO V DA DIRECTIVA 72/306/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÕES DO ANEXO V DA DIRECTIVA 72/306/CEE\n\nO anexo V é substituído pelo seguinte:\n\n|  | Limites e unidades | Método ASTM |\n| --- | --- | --- |\n| Indice de cetano [(^4^)](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0015) | min. 49 | D 613 |\n| máx. 53 |  |  |\n| Densidade a 15 °C (Kg/l) | min. 0,835 | D 1298 |\n| máx. 0,845 |  |  |\n| Destilação [(^2^)](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0013): — ponto de 50 % vol | min. 245 °C | D 86 |\n| — ponto de 90 % vol | min. 320 °C |  |\n| máx. 340 °C |  |  |\n| — ponto final de ebulição | máx. 370 °C |  |\n| Ponto de inflamação | min. 55 °C | D 93 |\n| Ponto de colmatação de filtro frio | min. – | EN 116 (CEN) |\n| máx. – 5 °C |  |  |\n| Viscosidade 40 °C | min. 2,5 mm^2^/S | D 445 |\n| máx. 3,5 mm^2^/S |  |  |\n| Teor de enxofre | min. (a comunicar) | D 1266/D 2622 D 2785 |\n| máx. 0,3 % em massa |  |  |\n| Ensaio de corrosão em cobre | máx. 1 | D 130 |\n| Resíduo carbonoso *Conradson* no resíduo de destilação (10 %) | máx 0,2 % em massa | D 189 |\n| Teor de cinzas | máx. 0,01 % en massa | D 482 |\n| Teor de água | máx. 0,05 % em massa | D 95/D 1744 |\n| Número de neutralização (ácido forte) | máx. 0,2 mg KOH/g |  |\n| Estabilidade de oxidação [(^6^)](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0017) | máx. 2,5 mg/100 ml | D 2274 |\n| Aditivos [(^5^)](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#E0016) |  |  |\n| Proporção carbono/hidrogénio | a comunicar |  |\n| (^1^)Serão adoptados métodos ISO equivalentes quando forem publicados para todas as propriedades acima. (^2^)Os números apresentados mostram as quantidades totais evaporados (% recuperada + % perdas). (^3^)Os valores apresentados na especificação são “valores verdadeiros”. Ao estabelecer os seus valores limite, aplicaram-se os termos do documento ASTM D 3244 “Definição de uma base para as disputas sobre qualidade dos produtos petrolíferos” e, ao fixar um valor máximo, tomou-se em consideração uma diferença mínima de 2R acima do zero; ao fixar um valor máximo e mínimo, a diferença mínima é de 4R (R = reprodutibilidade). (^4^)O intervalo indicado para o cetano não está em conformidade com o requisito de um mínimo de 4R. No entanto, em caso de disputa entre o fornecedor e o utilizador de combustível, poderão aplicar-se os termos da norma ASTM D 3244, desde que seja feito um número suficiente de medições repetidas, a fim de obter a precisão necessária, sendo tais medições preferíveis a uma determinação única. (^5^)Este combustível pode ser baseado em destilados directos e por *cracking*: a dessulfurização é admitida. Não deve conter nenhuns aditivos metálicos nem melhoramentos de índice de cetano. (^6^)Embora a estabilidade na oxidação seja controlada, é provável que o prazo de validade do produto seja limitado. Recomenda-se que seja pedido conselho ao fornecedor sobre as condições de armazenamento e de prazo de validade. (^7^)Se for necessário calcular a eficiência térmica de um motor ou veículo, o valor calórico do combustível pode ser calculado a partir de:d = densidade a 15 °C, x = proporção, em massa, de água (% dividida por 100), y = proporção, em massa, de cinzas (% dividida por 100), s = proporção, em massa, de enxofre (% dividida por 100).» |  |  |"
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "d13215fed66fefeb": {
+   "fragment_id": "ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE",
+   "type": "divisao",
+   "heading": "ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÕES DO ANEXO I DA DIRECTIVA 80/1269/CEE\n\nO ponto 8 passa a ter a seguinte redacção:"
+  },
+  "63ff1885175ad8ab": {
+   "fragment_id": "«8. EXTENSÃO DA RECEPÇÃO CEE",
+   "type": "divisao",
+   "heading": "«8. EXTENSÃO DA RECEPÇÃO CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### «8. EXTENSÃO DA RECEPÇÃO CEE"
+  },
+  "0d4625ba477f3c11": {
+   "fragment_id": "8.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo",
+   "type": "divisao",
+   "heading": "8.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.1. Modelos de veículos modificados para funcionarem com gasolina sem chumbo\n\n8.1.1. Sujeito à aprovação da autoridade que concede a recepção, a recepção de um modelo de veículo modificado e/ou regulado apenas com o fim de o tornar capaz de funcionar com gasolina sem chumbo, conforme especificado na Directiva 85/210/CEE, será objecto de extensão ao abrigo das seguintes condições alternativas: 8.1.1.1. O fabricante certificará que a potência do motor do veículo modificado se mantém dentro dos limites para a conformidade de produção, conforme especificado no ponto 9.2, conforme obtidos com o veículo recepcionado original, não modificado. Neste caso, a extensão deve confirmar a potência da recepção original ou 8.1.1.2. O fabricante declarará o valor revisto da potência do motor que for inferior à obtida com o veículo recepcionado original, não modificado. Neste caso, a extensão deve especificar os valores declarados de novo como aplicáveis ao modelo do veículo modificado.\n\n8.1.1.1. O fabricante certificará que a potência do motor do veículo modificado se mantém dentro dos limites para a conformidade de produção, conforme especificado no ponto 9.2, conforme obtidos com o veículo recepcionado original, não modificado. Neste caso, a extensão deve confirmar a potência da recepção original ou\n\n8.1.1.2. O fabricante declarará o valor revisto da potência do motor que for inferior à obtida com o veículo recepcionado original, não modificado. Neste caso, a extensão deve especificar os valores declarados de novo como aplicáveis ao modelo do veículo modificado."
+  },
+  "a17babdd6d679118": {
+   "fragment_id": "8.2. Modelos de veículos modificados devido a qualquer outra razão",
+   "type": "divisao",
+   "heading": "8.2. Modelos de veículos modificados devido a qualquer outra razão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.2. Modelos de veículos modificados devido a qualquer outra razão\n\nQualquer outra modificação do motor no que diz respeito às características indicadas no apêndice 1 ou apêndice 2 do presente anexo devem ser comunicadas à autoridade competente. Esta pode então:\n\n8.2.1. Considerar que as modificações introduzidas não são susceptíveis de terem qualquer efeito substancial sobre a potência do motor ou\n\n8.2.2. Exigir uma nova determinação da potência do motor através da execução dos ensaios que forem achados necessários.».\n\nO ponto 9 passa a ter a seguinte redacção:"
+  },
+  "dccf67349ac3b051": {
+   "fragment_id": "«9. TOLERÂNCIAS NA MEDIÇÃO DA POTÊNCIA ÚTIL",
+   "type": "divisao",
+   "heading": "«9. TOLERÂNCIAS NA MEDIÇÃO DA POTÊNCIA ÚTIL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### «9. TOLERÂNCIAS NA MEDIÇÃO DA POTÊNCIA ÚTIL\n\n9.1. A potência útil indicada pelo fabricante para o tipo de motor será considerada, caso não difira em mais de ± 2 % quanto ao valor máximo e em mais de ± 4 % quanto aos outros pontos de medição, com uma tolerância de 1,5 % para o regime do motor, dos valores medidos pelo serviço técnico no motor apresentado para ensaio.\n\n9.2. Por ocasião dos ensaios de controlo da conformidade da produção, a potência deve ser medida em 2 regimes S1 e S2 correspondentes respectivamente aos pontos de medição da potência máxima e do binário máximo considerados para a homologação do motor. Nestes dois regimes com uma tolerância de ± 5 %, a potência útil medida pelo menos num ponto das gamas S1 ± 5 % e S2 ± 5 % não deve diferir ± 5 % do valor de homologação.»\n\n---"
+  },
+  "826768fcfad8c494": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#src.E0001)) JO n.º L 42 de 23. 2. 1970, p. 16.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#src.E0002)) JO n.º L 192 de 11. 7. 1987, p. 43.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#src.E0003)) JO n.º L 76 de 6. 4. 1970, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#src.E0004)) JO n.º L 214 de 6. 8. 1988, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#src.E0005)) JO n.º L 152 de 6. 7. 1972, p. 15.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#src.E0006)) JO n.º L 190 de 20. 8. 1972, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#src.E0007)) JO n.º L 375 de 31. 12. 1980, p. 36.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#src.E0008)) JO n.º L 375 de 31. 12. 1980, p. 46.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#src.E0009)) JO n.º L 92 de 9. 4. 1988, p. 50.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/c967530b-7150-4684-911b-f413fe3cb674.0019.03/DOC_1#src.E0010)) JO n.º L 36 de 9. 2. 1988, p. 1."
+  }
+ }
+}

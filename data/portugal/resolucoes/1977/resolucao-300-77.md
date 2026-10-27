@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:281222:por
+title: Resolução n.º 300/77
+short_title: null
+summary: Nomeia vários elementos para membros do conselho de gerência da Empresa Nacional de Urânio
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 300/77
+official_date: null
+publication_date: '1977-12-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 278/1977, Série I de 1977-12-02
+  number: '278'
+  series: I
+  supplement: null
+  pages: 2853 - 2853
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/12/27800/28532853.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '281222'
+  dre_path: /dr/detalhe/resolucao/300-1977-281222
+  internal: pt:dre:281222:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/300-1977-281222
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/300-1977-281222
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:08:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 668f6255efc63421755b582d916b3b0d96d9898da4a9dded07aca5540a354626
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:08:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Administração
+- Empresa Nacional de Urânio
+- Nomeação
+relationships:
+- type: amended_by
+  target: pt:dre:570494:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:570494:por
+  label: "Renovado o mandato dos elementos do Conselho de Gerência da Empresa Nacional de Urânio, E.P., nomeados pelo presente\
+    \ diploma e ratificados os actos de gestão praticados por aquele Conselho de Gerência, no período de 02.12.1980 a 05.01.1981,\
+    \ pela RES.2/81.05.01.1981.PCM, DR.IS [3] de 05.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/2-1981-570494
+  date: '1981-01-05'
+- type: cites
+  target: pt:dre:141635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:08:17Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 300/77
+
+O Conselho de Ministros, reunido em 9 de Novembro de 1977, resolveu:
+
+Nomear, nos termos do n.º 2 do artigo 13.º do Estatuto da Empresa Nacional de Urânio, anexo ao Decreto n.º 67/77, de 6 de Maio, membros do conselho de gerência desta empresa pública os seguintes elementos:
+
+Engenheiro António de Almeida Albuquerque e Castro;
+
+Engenheiro Joaquim Cordeiro Santo;
+
+Licenciado José Fogaça Moniz Bettencourt;
+
+o primeiro dos quais exercerá as funções de presidente do referido conselho.
+
+Os engenheiros António de Almeida Albuquerque e Castro e Joaquim Cordeiro Santo exercerão as suas funções em comissão de serviço, nos termos do artigo 32.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e artigo 53.º do [Decreto-Lei n.º 67/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1977-141635), de 6 de Maio.
+
+Presidência do Conselho de Ministros, 9 de Novembro de 1977. - O Primeiro-Ministro, Mário Soares.

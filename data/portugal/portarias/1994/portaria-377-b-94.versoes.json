@@ -1,0 +1,212 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:516933:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-946777631",
+ "dre_path": "/dr/detalhe/portaria/377-b-1994-516933",
+ "source_lastmod": "2025-11-18",
+ "versions": [
+  {
+   "date": "1994-06-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "947235119",
+    "946847195",
+    "946847196",
+    "946847197"
+   ]
+  },
+  {
+   "date": "1994-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:576682:por",
+     "title": "Declaração de Rectificação n.º 95/94",
+     "published": "1994-06-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/95-1994-576682"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º",
+    "Retifica Artigo 3.º"
+   ],
+   "fragments": [
+    "946847193",
+    "946847200",
+    "946847196",
+    "946847201",
+    "946847194"
+   ]
+  },
+  {
+   "date": "1996-07-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:413212:por",
+     "title": "Portaria n.º 268/96",
+     "published": "1996-07-19",
+     "dre_path": "/dr/detalhe/portaria/268-1996-413212"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "946847193",
+    "947235079",
+    "946847196",
+    "946847201",
+    "946847194"
+   ]
+  },
+  {
+   "date": "2001-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:606948:por",
+     "title": "Portaria n.º 1272/2001",
+     "published": "2001-11-09",
+     "dre_path": "/dr/detalhe/portaria/1272-2001-606948"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "947235119",
+    "947235120",
+    "947235121",
+    "947235122",
+    "947235123"
+   ]
+  }
+ ],
+ "fragments": {
+  "947235119": {
+   "fragment_id": "946777632",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2001-11-14",
+   "changed_by": [],
+   "markdown": "Portaria n.º 377-B/94\n\nde 15 de Junho\n\nO regime de tributação dos rendimentos de valores mobiliários representativos de dívida pública detidos por não residentes, regulamentado pelo Decreto-Lei n.º 88/94, de 2 de Abril, não é aplicável às entidades que forem residentes em países, territórios ou regiões cujo regime de tributação se mostre claramente mais favorável do que o correspondente à tributação daqueles em território português.\n\nAssim:\n\nManda o Governo, pelo Ministro das Finanças, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, o seguinte:"
+  },
+  "946847195": {
+   "fragment_id": "946777634",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs países, territórios e regiões a que se refere o n.º 1 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, são os que a seguir se identificam:\n\n1) Principado de Andorra;\n\n2) Antilhas Holandesas;\n\n3) Aruba;\n\n4) Emirato do Estado do Barein;\n\n5) Sultanato de Brunei;\n\n6) República de Chipre;\n\n7) Emiratos Árabes Unidos;\n\n8) Gibraltar;\n\n9) Hong-Kong;\n\n10) Anguilla;\n\n11) Antigua y Barbuda;\n\n12) Bahamas;\n\n13) Barbados;\n\n14) Bermuda(s);\n\n15) Ilhas Caimanes;\n\n16) Ilhas Cook;\n\n17) República Dominicana;\n\n18) Granada;\n\n19) Fiji;\n\n20) Ilhas de Guernesey e de Jersey (Ilhas do Canal);\n\n21) Jamaica;\n\n22) República de Malta;\n\n23) Ilhas Malvinas;\n\n24) Ilha de Man;\n\n25) Ilhas Marianas;\n\n26) Maurício;\n\n27) Montserrat;\n\n28) República de Naurú;\n\n29) Ilhas Salomão;\n\n30) São Vicente e Granadinas;\n\n31) Santa Luzia;\n\n32) República de Trindade e Tobago;\n\n33) Ilhas Turks e Caicos;\n\n34) República de Vanuatu;\n\n35) Ilhas Virgens Britânicas;\n\n36) Ilhas Virgens dos Estados Unidos da América;\n\n37) Reino Hachemita da Jordânia;\n\n38) República do Líbano;\n\n39) República da Libéria;\n\n40) Principado do Liechtenstein;\n\n41) Grão Ducado do Luxemburgo, apenas no que respeita às sociedades holding;\n\n42) Macau;\n\n43) Principado do Mónaco;\n\n44) Sultanato de Omã;\n\n45) República do Panamá;\n\n46) República de São Marino;\n\n47) República das Seychelles;\n\n48) República de Singapura;\n\n49) Costa Rica;\n\n50) Porto Rico;\n\n51) Uruguai;\n\n52) Suíça;\n\n53) Bolívia."
+  },
+  "946847196": {
+   "fragment_id": "946777635",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA restrição decorrente do disposto no número anterior não é aplicável quando as entidades residentes nos países, territórios ou regiões nele referidos forem bancos centrais ou agências de natureza governamental."
+  },
+  "946847197": {
+   "fragment_id": "946777636",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEsta portaria produz efeitos desde 23 de Julho de 1994."
+  },
+  "946847193": {
+   "fragment_id": "946777632",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 377-B/94\n\nde 15 de Junho\n\nO regime de tributação dos rendimentos de valores mobiliários representativos de dívida pública detidos por não residentes, regulamentado pelo Decreto-Lei n.º 88/94, de 2 de Abril, não é aplicável às entidades que forem residentes em países, territórios ou regiões cujo regime de tributação se mostre claramente mais favorável do que o correspondente à tributação daqueles em território português.\n\nAssim:\n\nManda o Governo, pelo Ministro das Finanças, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, o seguinte:"
+  },
+  "946847200": {
+   "fragment_id": "946777634",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1994-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 95/94 - Diário da República n.º 149/1994, 4º Suplemento, Série I-B de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/95-1994-576682), em vigor a partir de 1994-06-30"
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs países, territórios e regiões a que se refere o n.º 1 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, são os que a seguir se identificam:\n\n1) Principado de Andorra;\n\n2) Antilhas Holandesas;\n\n3) Aruba;\n\n4) Emirato do Estado do Barein;\n\n5) Sultanato de Brunei;\n\n6) República de Chipre;\n\n7) Emiratos Árabes Unidos;\n\n8) Gibraltar;\n\n9) Hong-Kong;\n\n10) Anguilla;\n\n11) Antigua y Barbuda;\n\n12) Bahamas;\n\n13) Barbados;\n\n14) Bermuda(s);\n\n15) Ilhas Caimanes;\n\n16) Ilhas Cook;\n\n17) República Dominicana;\n\n18) Granada;\n\n19) Fiji;\n\n20) Ilhas de Guernesey e de Jersey (Ilhas do Canal);\n\n21) Jamaica;\n\n22) República de Malta;\n\n23) Ilhas Malvinas;\n\n24) Ilha de Man;\n\n25) Ilhas Marianas;\n\n26) Maurício;\n\n27) Montserrat;\n\n28) República de Naurú;\n\n29) Ilhas Salomão;\n\n30) São Vicente e Granadinas;\n\n31) Santa Luzia;\n\n32) República de Trindade e Tobago;\n\n33) Ilhas Turks e Caicos;\n\n34) República de Vanuatu;\n\n35) Ilhas Virgens Britânicas;\n\n36) Ilhas Virgens dos Estados Unidos da América;\n\n37) Reino Hachemita da Jordânia;\n\n38) República do Líbano;\n\n39) República da Libéria;\n\n40) Principado do Liechtenstein;\n\n41) Grão Ducado do Luxemburgo, apenas no que respeita às sociedades holding;\n\n42) Macau;\n\n43) Principado do Mónaco;\n\n44) Sultanato de Omã;\n\n45) República do Panamá;\n\n46) República de São Marino;\n\n47) República das Seychelles;\n\n48) República de Singapura;\n\n49) Costa Rica;\n\n50) Porto Rico;\n\n51) Uruguai;\n\n52) Bolívia.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 95/94 - Diário da República n.º 149/1994, 4º Suplemento, Série I-B de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/95-1994-576682), em vigor a partir de 1994-06-30"
+  },
+  "946847201": {
+   "fragment_id": "946777636",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1994-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 95/94 - Diário da República n.º 149/1994, 4º Suplemento, Série I-B de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/95-1994-576682), em vigor a partir de 1994-06-30"
+   ],
+   "markdown": "###### Artigo 3.º\n\nEsta portaria produz efeitos desde 23 de Junho de 1994.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 95/94 - Diário da República n.º 149/1994, 4º Suplemento, Série I-B de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/95-1994-576682), em vigor a partir de 1994-06-30"
+  },
+  "946847194": {
+   "fragment_id": "946777633",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério das Finanças.\n\nAssinada em 14 de Junho de 1994.\n\nO Ministro das Finanças, Eduardo de Almeida Catroga."
+  },
+  "947235079": {
+   "fragment_id": "946777634",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1996-07-24",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 268/96 - Diário da República n.º 166/1996, Série I-B de 1996-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/268-1996-413212), em vigor a partir de 1996-07-24",
+    "Retificado pelo/a [Declaração de Rectificação n.º 95/94 - Diário da República n.º 149/1994, 4º Suplemento, Série I-B de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/95-1994-576682), em vigor a partir de 1994-06-30"
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs países, territórios e regiões a que se refere o n.º 1 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, são os que a seguir se identificam:\n\n1) Principado de Andorra;\n\n2) Antilhas Holandesas;\n\n3) Aruba;\n\n4) Emirato do Estado do Barein;\n\n5) Sultanato de Brunei;\n\n6) República de Chipre;\n\n7) Emiratos Árabes Unidos;\n\n8) Gibraltar;\n\n9) Hong-Kong;\n\n10) Anguilla;\n\n11) Antigua y Barbuda;\n\n12) Bahamas;\n\n13) Barbados;\n\n14) Bermuda(s);\n\n15) Ilhas Caimanes;\n\n16) Ilhas Cook;\n\n18) Granada;\n\n19) Fiji;\n\n20) Ilhas de Guernesey e de Jersey (Ilhas do Canal);\n\n21) Jamaica;\n\n22) República de Malta;\n\n23) Ilhas Malvinas;\n\n24) Ilha de Man;\n\n25) Ilhas Marianas;\n\n26) Maurício;\n\n27) Montserrat;\n\n28) República de Naurú;\n\n29) Ilhas Salomão;\n\n30) São Vicente e Granadinas;\n\n31) Santa Luzia;\n\n32) República de Trindade e Tobago;\n\n33) Ilhas Turks e Caicos;\n\n34) República de Vanuatu;\n\n35) Ilhas Virgens Britânicas;\n\n36) Ilhas Virgens dos Estados Unidos da América;\n\n37) Reino Hachemita da Jordânia;\n\n38) República do Líbano;\n\n39) República da Libéria;\n\n40) Principado do Liechtenstein;\n\n41) Grão Ducado do Luxemburgo, apenas no que respeita às sociedades holding;\n\n42) Macau;\n\n43) Principado do Mónaco;\n\n44) Sultanato de Omã;\n\n45) República do Panamá;\n\n46) República de São Marino;\n\n47) República das Seychelles;\n\n48) República de Singapura;\n\n49) Costa Rica;\n\n50) Porto Rico;\n\n51) Uruguai;\n\n52) Bolívia;\n\n53) República de Domínica.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 268/96 - Diário da República n.º 166/1996, Série I-B de 1996-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/268-1996-413212), em vigor a partir de 1996-07-24\n\n> Retificado pelo/a [Declaração de Rectificação n.º 95/94 - Diário da República n.º 149/1994, 4º Suplemento, Série I-B de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/95-1994-576682), em vigor a partir de 1994-06-30"
+  },
+  "947235120": {
+   "fragment_id": "946777634",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2001-11-14",
+   "changed_by": [
+    "Revogado pelo/a 3.º do/a [Portaria n.º 1272/2001 - Diário da República n.º 260/2001, Série I-B de 2001-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/1272-2001-606948), em vigor a partir de 2001-11-14",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 268/96 - Diário da República n.º 166/1996, Série I-B de 1996-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/268-1996-413212), em vigor a partir de 1996-07-24",
+    "Retificado pelo/a [Declaração de Rectificação n.º 95/94 - Diário da República n.º 149/1994, 4º Suplemento, Série I-B de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/95-1994-576682), em vigor a partir de 1994-06-30"
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs países, territórios e regiões a que se refere o n.º 1 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, são os que a seguir se identificam:\n\n1) Principado de Andorra;\n\n2) Antilhas Holandesas;\n\n3) Aruba;\n\n4) Emirato do Estado do Barein;\n\n5) Sultanato de Brunei;\n\n6) República de Chipre;\n\n7) Emiratos Árabes Unidos;\n\n8) Gibraltar;\n\n9) Hong-Kong;\n\n10) Anguilla;\n\n11) Antigua y Barbuda;\n\n12) Bahamas;\n\n13) Barbados;\n\n14) Bermuda(s);\n\n15) Ilhas Caimanes;\n\n16) Ilhas Cook;\n\n18) Granada;\n\n19) Fiji;\n\n20) Ilhas de Guernesey e de Jersey (Ilhas do Canal);\n\n21) Jamaica;\n\n22) República de Malta;\n\n23) Ilhas Malvinas;\n\n24) Ilha de Man;\n\n25) Ilhas Marianas;\n\n26) Maurício;\n\n27) Montserrat;\n\n28) República de Naurú;\n\n29) Ilhas Salomão;\n\n30) São Vicente e Granadinas;\n\n31) Santa Luzia;\n\n32) República de Trindade e Tobago;\n\n33) Ilhas Turks e Caicos;\n\n34) República de Vanuatu;\n\n35) Ilhas Virgens Britânicas;\n\n36) Ilhas Virgens dos Estados Unidos da América;\n\n37) Reino Hachemita da Jordânia;\n\n38) República do Líbano;\n\n39) República da Libéria;\n\n40) Principado do Liechtenstein;\n\n41) Grão Ducado do Luxemburgo, apenas no que respeita às sociedades holding;\n\n42) Macau;\n\n43) Principado do Mónaco;\n\n44) Sultanato de Omã;\n\n45) República do Panamá;\n\n46) República de São Marino;\n\n47) República das Seychelles;\n\n48) República de Singapura;\n\n49) Costa Rica;\n\n50) Porto Rico;\n\n51) Uruguai;\n\n52) Bolívia;\n\n53) República de Domínica.\n\n> Revogado pelo/a 3.º do/a [Portaria n.º 1272/2001 - Diário da República n.º 260/2001, Série I-B de 2001-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/1272-2001-606948), em vigor a partir de 2001-11-14\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 268/96 - Diário da República n.º 166/1996, Série I-B de 1996-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/268-1996-413212), em vigor a partir de 1996-07-24\n\n> Retificado pelo/a [Declaração de Rectificação n.º 95/94 - Diário da República n.º 149/1994, 4º Suplemento, Série I-B de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/95-1994-576682), em vigor a partir de 1994-06-30"
+  },
+  "947235121": {
+   "fragment_id": "946777635",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2001-11-14",
+   "changed_by": [
+    "Revogado pelo/a 3.º do/a [Portaria n.º 1272/2001 - Diário da República n.º 260/2001, Série I-B de 2001-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/1272-2001-606948), em vigor a partir de 2001-11-14"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA restrição decorrente do disposto no número anterior não é aplicável quando as entidades residentes nos países, territórios ou regiões nele referidos forem bancos centrais ou agências de natureza governamental.\n\n> Revogado pelo/a 3.º do/a [Portaria n.º 1272/2001 - Diário da República n.º 260/2001, Série I-B de 2001-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/1272-2001-606948), em vigor a partir de 2001-11-14"
+  },
+  "947235122": {
+   "fragment_id": "946777636",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2001-11-14",
+   "changed_by": [
+    "Revogado pelo/a 3.º do/a [Portaria n.º 1272/2001 - Diário da República n.º 260/2001, Série I-B de 2001-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/1272-2001-606948), em vigor a partir de 2001-11-14",
+    "Retificado pelo/a [Declaração de Rectificação n.º 95/94 - Diário da República n.º 149/1994, 4º Suplemento, Série I-B de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/95-1994-576682), em vigor a partir de 1994-06-30"
+   ],
+   "markdown": "###### Artigo 3.º\n\nEsta portaria produz efeitos desde 23 de Junho de 1994.\n\n> Revogado pelo/a 3.º do/a [Portaria n.º 1272/2001 - Diário da República n.º 260/2001, Série I-B de 2001-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/1272-2001-606948), em vigor a partir de 2001-11-14\n\n> Retificado pelo/a [Declaração de Rectificação n.º 95/94 - Diário da República n.º 149/1994, 4º Suplemento, Série I-B de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/95-1994-576682), em vigor a partir de 1994-06-30"
+  },
+  "947235123": {
+   "fragment_id": "946777633",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2001-11-14",
+   "changed_by": [
+    "Revogado pelo/a 3.º do/a [Portaria n.º 1272/2001 - Diário da República n.º 260/2001, Série I-B de 2001-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/1272-2001-606948), em vigor a partir de 2001-11-14"
+   ],
+   "markdown": "Ministério das Finanças.\n\nAssinada em 14 de Junho de 1994.\n\nO Ministro das Finanças, Eduardo de Almeida Catroga.\n\n> Revogado pelo/a 3.º do/a [Portaria n.º 1272/2001 - Diário da República n.º 260/2001, Série I-B de 2001-11-09](https://diariodarepublica.pt/dr/detalhe/portaria/1272-2001-606948), em vigor a partir de 2001-11-14"
+  }
+ }
+}

@@ -1,0 +1,448 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:284924:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-215874659",
+ "dre_path": "/dr/detalhe/portaria/1102-g-2000-284924",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-11-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215918962",
+    "215799654",
+    "215799655",
+    "215799656",
+    "215799657",
+    "215799658",
+    "215799659",
+    "215799660",
+    "215799661",
+    "215799662",
+    "215799663",
+    "215799664",
+    "215799665"
+   ]
+  },
+  {
+   "date": "2002-04-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:301007:por",
+     "title": "Portaria n.º 346/2002",
+     "published": "2002-04-02",
+     "dre_path": "/dr/detalhe/portaria/346-2002-301007"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "215799653",
+    "215799654",
+    "215799655",
+    "215799656",
+    "215799657",
+    "215799658",
+    "215799659",
+    "215918948",
+    "215799661",
+    "215918950",
+    "215799663",
+    "215918951",
+    "215799665",
+    "215799666"
+   ]
+  },
+  {
+   "date": "2007-04-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520228:por",
+     "title": "Portaria n.º 397/2007",
+     "published": "2007-04-04",
+     "dre_path": "/dr/detalhe/portaria/397-2007-520228"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "215799653",
+    "215799654",
+    "215799655",
+    "215799656",
+    "215799657",
+    "215799658",
+    "215799659",
+    "215918959",
+    "215799661",
+    "215918950",
+    "215918960",
+    "215918961",
+    "215799665",
+    "215799666"
+   ]
+  },
+  {
+   "date": "2023-07-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215874585:por",
+     "title": "Portaria n.º 218/2023",
+     "published": "2023-07-19",
+     "dre_path": "/dr/detalhe/portaria/218-2023-215874585"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "215918962",
+    "215918963",
+    "215918964",
+    "215918965",
+    "215918966",
+    "215918967",
+    "215918968",
+    "215918969",
+    "215918970",
+    "215918971",
+    "215918972",
+    "215918973",
+    "215918974",
+    "215919175"
+   ]
+  }
+ ],
+ "fragments": {
+  "215918962": {
+   "fragment_id": "215874660",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-24",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1102-G/2000\n\nde 22 de Novembro\n\nO Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que define as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, determina no seu artigo 3.º quais os métodos de pesca admitidos em águas oceânicas e em águas interiores marítimas, remetendo para portaria do membro do Governo responsável pelo sector das pescas o estabelecimento das disposições reguladoras das características das artes e condições de exercício da pesca por qualquer daqueles métodos.\n\nCom a presente portaria regulamenta-se o método de pesca denominado «pesca por arte de cerco», dando cumprimento ao citado normativo.\n\nAssim, ao abrigo do disposto no artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o Regulamento da Pesca por Arte de Cerco, que faz parte integrante da presente portaria.\n\n2.º São revogados o n.º 1.º da Portaria n.º 57/89, de 28 de Janeiro, e as Portarias n.os 785/91, de 8 de Agosto, e 739/92, de 22 de Julho.\n\n3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nREGULAMENTO DA PESCA POR ARTE DE CERCO"
+  },
+  "215799654": {
+   "fragment_id": "215874661",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime do exercício da pesca por arte de cerco."
+  },
+  "215799655": {
+   "fragment_id": "215874662",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição da arte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição da arte\n\nPor pesca por arte de cerco entende-se qualquer método de pesca que utiliza parede de rede sempre longa e alta, que é largada de modo a cercar completamente as presas e a reduzir a capacidade de fuga."
+  },
+  "215799656": {
+   "fragment_id": "215874663",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipos\n\nA pesca com arte de cerco pode ser exercida com artes que se integrem nos seguintes grupos:\n\na) Cerco tipo americano;\n\nb) Lâmpara tipo sul-africana;\n\nc) Lâmpara tipo mediterrânica."
+  },
+  "215799657": {
+   "fragment_id": "215874664",
+   "type": 11,
+   "heading": "Artigo 4.º — Cerco tipo americano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cerco tipo americano\n\nCaracteriza-se por ter argolas e retenida, a panagem geral ter idêntica malhagem e a tralha dos chumbos ser maior que a tralha de flutuação."
+  },
+  "215799658": {
+   "fragment_id": "215874665",
+   "type": 11,
+   "heading": "Artigo 5.º — Lâmpara tipo sul-africana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Lâmpara tipo sul-africana\n\nCaracteriza-se por possuir argolas e retenida, ter a tralha de chumbos mais curta que o cabo de flutuação e malhagem progressiva do centro para os extremos."
+  },
+  "215799659": {
+   "fragment_id": "215874666",
+   "type": 11,
+   "heading": "Artigo 6.º — Lâmpara tipo mediterrânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Lâmpara tipo mediterrânica\n\nCaracteriza-se por ter uma tralha de chumbos mais curta que o cabo de flutuação, por não ter retenida e possuir malhagem progressiva."
+  },
+  "215799660": {
+   "fragment_id": "215874667",
+   "type": 11,
+   "heading": "Artigo 7.º — Espécies permitidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Espécies permitidas\n\n1 - A pesca com redes de cerco é dirigida à captura dos seguintes pequenos pelágicos: sardinha (Sardina pilchardus), cavala (Scomber japonicus), sarda (Scomber scombrus), boga (Boops boops), biqueirão (Engraulis encrasicholus) e carapau (Trachurus spp.).\n\n2 - É permitida uma captura acessória de espécies distintas das referidas no n.º 1 até ao limite de 20%, em peso vivo, calculado em função do total da captura das espécies alvo, por viagem."
+  },
+  "215799661": {
+   "fragment_id": "215874668",
+   "type": 11,
+   "heading": "Artigo 8.º — Malhagens das redes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Malhagens das redes\n\nÉ proibido utilizar redes de cerco com malhagem inferior a 16 mm."
+  },
+  "215799662": {
+   "fragment_id": "215874669",
+   "type": 11,
+   "heading": "Artigo 9.º — Dimensões das redes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dimensões das redes\n\n1 - O comprimento máximo medido na cortiçada e a altura máxima da rede de cerco são determinados em função do comprimento de fora a fora (cff) de cada embarcação, tendo em atenção a segurança e estabilidade da mesma, conforme a seguir se estabelece:\n\n(ver quadro no documento original)\n\n2 - As embarcações cuja dimensão das redes, por força do disposto no n.º 1, seja inferior em relação à autorizada à data da publicação do presente diploma, poderão requerer à Direcção-Geral das Pescas e Aquicultura (DGPA) autorização para manter a dimensão das artes utilizadas, desde que tal não afecte a segurança e estabilidade das embarcações."
+  },
+  "215799663": {
+   "fragment_id": "215874670",
+   "type": 11,
+   "heading": "Artigo 10.º — Área de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Área de actuação\n\n1 - É proibida a utilização de redes de cerco dentro de um quarto de milha de distância à linha da costa, bem como, em profundidades inferiores a 20 m entre um quarto e 1 milha de distância à linha da costa.\n\n2 - O referido no número anterior não se aplica à pesca do candil, na área de jurisdição da Capitania da Nazaré.\n\n3 - Nas áreas de jurisdição das capitanias da Região Autónoma da Madeira (RAM) só é permitido utilizar redes de cerco para fora da batimétrica dos 50 m."
+  },
+  "215799664": {
+   "fragment_id": "215874671",
+   "type": 11,
+   "heading": "Artigo 11.º — Utilização de fontes luminosas para efeitos de chamariz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Utilização de fontes luminosas para efeitos de chamariz\n\n1 - Entende-se por fonte luminosa, para efeitos de chamariz, uma estrutura dispondo de um ou mais focos de luz preparados especificamente para atrair o peixe, independentemente de estar a bordo da embarcação principal, da embarcação auxiliar ou de um simples suporte flutuante, não sendo consideradas, para este efeito, as luzes normais de posição e de sinalização das embarcações envolvidas.\n\n2 - Cada embarcação de pesca só pode utilizar até duas fontes luminosas para efeitos de chamariz, só podendo essas fontes luminosas estar activas na presença da própria embarcação.\n\n3 - As embarcações só poderão largar a arte ou acender a fonte luminosa a uma distância superior a um quarto de milha de outra embarcação que a tenha já acendido ou que esteja em faina de pesca.\n\n4 - A utilização de fontes luminosas para efeitos de chamariz só é permitida para além de 2 milhas de distância à linha de costa.\n\n5 - O disposto nos n.os 3 e 4 não se aplica à pesca do candil na área de jurisdição da Capitania da Nazaré.\n\n6 - Nas áreas de jurisdição das capitanias da RAM a utilização de fontes luminosas para efeitos de chamariz só é permitida para além da batimétrica dos 50 m."
+  },
+  "215799665": {
+   "fragment_id": "215874672",
+   "type": 11,
+   "heading": "Artigo 12.º — Captura de isco vivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Captura de isco vivo\n\n1 - É permitido o uso de redes de cercar para bordo com malhagem igual ou superior a 8 mm, comprimento até 400 m, medidos na cortiçada e altura máxima de 70 m, para a pesca de pequenos pelágicos destinados exclusivamente à utilização como isco vivo.\n\n2 - Para efeitos do disposto no número anterior, não se aplica o n.º 1 do artigo 10.º\n\n3 - A captura de isco vivo, nos termos do presente artigo, só pode ser efectuada mediante licenciamento específico para o efeito.\n\n4 - O disposto nos n.os 3 e 4 do artigo 11.º não se aplica à captura de isco vivo."
+  },
+  "215799653": {
+   "fragment_id": "215874660",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1102-G/2000\n\nde 22 de Novembro\n\nO Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que define as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, determina no seu artigo 3.º quais os métodos de pesca admitidos em águas oceânicas e em águas interiores marítimas, remetendo para portaria do membro do Governo responsável pelo sector das pescas o estabelecimento das disposições reguladoras das características das artes e condições de exercício da pesca por qualquer daqueles métodos.\n\nCom a presente portaria regulamenta-se o método de pesca denominado «pesca por arte de cerco», dando cumprimento ao citado normativo.\n\nAssim, ao abrigo do disposto no artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o Regulamento da Pesca por Arte de Cerco, que faz parte integrante da presente portaria.\n\n2.º São revogados o n.º 1.º da Portaria n.º 57/89, de 28 de Janeiro, e as Portarias n.os 785/91, de 8 de Agosto, e 739/92, de 22 de Julho.\n\n3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nREGULAMENTO DA PESCA POR ARTE DE CERCO"
+  },
+  "215918948": {
+   "fragment_id": "215874667",
+   "type": 11,
+   "heading": "Artigo 7.º — Espécies permitidas",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-N/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-n-2000-515209), produz efeitos a partir de 2000-11-27"
+   ],
+   "markdown": "###### Artigo 7.º — Espécies permitidas\n\n1 - A pesca com redes de cerco é dirigida à captura dos seguintes pequenos pelágicos: sardinha (Sardina pilchardus), cavala (Scomber japonicus), sarda (Scomber scombrus), boga (Boops boops), biqueirão (Engraulis encrasicholus) e carapaus (Trachurus spp.).\n\n2 - É permitida uma captura acessória de espécies distintas das referidas no n.º 1 até ao limite de 20%, em peso vivo, calculado em função do total da captura das espécies alvo, por viagem.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-N/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-n-2000-515209), produz efeitos a partir de 2000-11-27"
+  },
+  "215918950": {
+   "fragment_id": "215874669",
+   "type": 11,
+   "heading": "Artigo 9.º — Dimensões das redes",
+   "in_force_from": "2002-04-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 346/2002 - Diário da República n.º 77/2002, Série I-B de 2002-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/346-2002-301007), em vigor a partir de 2002-04-07"
+   ],
+   "markdown": "###### Artigo 9.º — Dimensões das redes\n\n1 - O comprimento máximo medido na cortiçada e a altura máxima da rede de cerco são determinados em função do comprimento de fora a fora (cff) de cada embarcação, tendo em atenção a segurança e estabilidade da mesma, conforme a seguir se estabelece:\n\n(ver quadro no documento original)\n\n2 - As embarcações cuja dimensão das redes, por força do disposto no n.º 1, seja inferior em relação à autorizada à data da publicação do presente diploma, poderão requerer à Direcção-Geral das Pescas e Aquicultura (DGPA) autorização para manter a dimensão das artes utilizadas, desde que tal não afecte a segurança e estabilidade das embarcações.\n\n3 - Para as embarcações incluídas no n.º 6 do artigo 11.º as dimensões máximas das redes são as seguintes:\n\n(ver tabela no documento original)\n\n> Alterado pelo/a [Portaria n.º 346/2002 - Diário da República n.º 77/2002, Série I-B de 2002-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/346-2002-301007), em vigor a partir de 2002-04-07"
+  },
+  "215918951": {
+   "fragment_id": "215874671",
+   "type": 11,
+   "heading": "Artigo 11.º — Utilização de fontes luminosas para efeitos de chamariz",
+   "in_force_from": "2002-04-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 346/2002 - Diário da República n.º 77/2002, Série I-B de 2002-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/346-2002-301007), em vigor a partir de 2002-04-07"
+   ],
+   "markdown": "###### Artigo 11.º — Utilização de fontes luminosas para efeitos de chamariz\n\n1 - Entende-se por fonte luminosa, para efeitos de chamariz, uma estrutura dispondo de um ou mais focos de luz preparados especificamente para atrair o peixe, independentemente de estar a bordo da embarcação principal, da embarcação auxiliar ou de um simples suporte flutuante, não sendo consideradas, para este efeito, as luzes normais de posição e de sinalização das embarcações envolvidas.\n\n2 - Cada embarcação de pesca só pode utilizar até duas fontes luminosas para efeitos de chamariz, só podendo essas fontes luminosas estar activas na presença da própria embarcação.\n\n3 - As embarcações só poderão largar a arte ou acender a fonte luminosa a uma distância superior a um quarto de milha de outra embarcação que a tenha já acendido ou que esteja em faina de pesca.\n\n4 - A utilização de fontes luminosas para efeitos de chamariz só é permitida para além de 2 milhas de distância à linha de costa.\n\n5 - O disposto nos n.os 3 e 4 não se aplica à pesca do candil na área de jurisdição da Capitania da Nazaré.\n\n6 - Na pesca de cercar para bordo por embarcações de pesca local que utilizam uma arte de comprimento máximo de 140 m e altura máxima de 25 m na área de jurisdição da Capitania de Lagos, a utilização de fontes luminosas para efeitos de chamariz é permitida para além da uma milha de distância à linha de costa.\n\n7 - Nas áreas de jurisdição das capitanias da RAM a utilização de fontes luminosas para efeitos de chamariz só é permitida para além da batimétrica dos 50 m.\n\n> Alterado pelo/a [Portaria n.º 346/2002 - Diário da República n.º 77/2002, Série I-B de 2002-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/346-2002-301007), em vigor a partir de 2002-04-07"
+  },
+  "215799666": {
+   "fragment_id": "215874673",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 22 de Novembro de 2000."
+  },
+  "215918959": {
+   "fragment_id": "215874667",
+   "type": 11,
+   "heading": "Artigo 7.º — Espécies permitidas",
+   "in_force_from": "2007-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09",
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-N/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-n-2000-515209), produz efeitos a partir de 2000-11-27"
+   ],
+   "markdown": "###### Artigo 7.º — Espécies permitidas\n\n1 - A pesca com redes de cerco é dirigida à captura dos seguintes pequenos pelágicos: sardinha (Sardina pilchardus), cavala (Scomber japonicus), sarda (Scomber scombrus), boga (Boops boops), biqueirão (Engraulis encrasicholus) e carapaus (Trachurus spp.) e à captura das seguintes espécies: serras (Scomberomorus spp.), sarrajão (Sarda sarda), cangulos (Balistes spp.), agulha (Belone belone), tainhas (Mugil spp., Liza spp., Chelon spp.) e anchova (Pomatomus Saltatrix).\n\n2 - É permitida uma captura acessória de espécies distintas das referidas no n.º 1 até ao limite de 20%, em peso vivo, calculado em função do total da captura das espécies alvo, por viagem.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-N/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-n-2000-515209), produz efeitos a partir de 2000-11-27"
+  },
+  "215918960": {
+   "fragment_id": "215874670",
+   "type": 11,
+   "heading": "Artigo 10.º — Área de actuação",
+   "in_force_from": "2007-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09"
+   ],
+   "markdown": "###### Artigo 10.º — Área de actuação\n\n1 - É proibida a utilização de redes de cerco dentro de um quarto de milha de distância à linha da costa, bem como, em profundidades inferiores a 20 m entre um quarto e 1 milha de distância à linha da costa.\n\n2 - O referido no número anterior não se aplica à pesca de cercar para bordo, por embarcações de pesca local que utilizem fontes luminosas como chamariz (candil), na área de jurisdição da Capitania da Nazaré.\n\n3 - Nas áreas de jurisdição das capitanias da Região Autónoma da Madeira (RAM) só é permitido utilizar redes de cerco para fora da batimétrica dos 50 m.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09"
+  },
+  "215918961": {
+   "fragment_id": "215874671",
+   "type": 11,
+   "heading": "Artigo 11.º — Utilização de fontes luminosas para efeitos de chamariz",
+   "in_force_from": "2007-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-L/2002 - Diário da República n.º 100/2002, 2º Suplemento, Série I-B de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-2002-414661), produz efeitos a partir de 2002-04-07",
+    "Alterado pelo/a [Portaria n.º 346/2002 - Diário da República n.º 77/2002, Série I-B de 2002-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/346-2002-301007), em vigor a partir de 2002-04-07"
+   ],
+   "markdown": "###### Artigo 11.º — Utilização de fontes luminosas para efeitos de chamariz\n\n1 - Entende-se por fonte luminosa, para efeitos de chamariz, uma estrutura dispondo de um ou mais focos de luz preparados especificamente para atrair o peixe, independentemente de estar a bordo da embarcação principal, da embarcação auxiliar ou de um simples suporte flutuante, não sendo consideradas, para este efeito, as luzes normais de posição e de sinalização das embarcações envolvidas.\n\n2 - Sem prejuízo do disposto no n.º 6, cada embarcação de pesca só pode utilizar até duas fontes luminosas para efeitos de chamariz, só podendo essas fontes luminosas estar activas na presença da própria embarcação.\n\n3 - As embarcações só poderão largar a arte ou acender a fonte luminosa a uma distância superior a um quarto de milha de outra embarcação que a tenha já acendido ou que esteja em faina de pesca.\n\n4 - A utilização de fontes luminosas para efeitos de chamariz só é permitida para além de 2 milhas de distância à linha de costa.\n\n5 - O disposto nos n.os 3 e 4 não se aplica à pesca com as embarcações referidas no n.º 2 do artigo 10.º na área de jurisdição da Capitania da Nazaré.\n\n6 - Às embarcações de pesca com comprimento fora a fora inferior ou igual a 14 m que utilizem artes de cercar para bordo com as dimensões previstas no n.º 3 do artigo 9.º é autorizada a pesca com a utilização de três fontes luminosas para efeito de chamariz, para além de um quarto de milha de distância à costa, entre 1 de Abril e 31 de Agosto de cada ano, nas áreas de jurisdição das Capitanias de Setúbal, Sines, Lagos, Portimão, Faro, Olhão, Tavira e Vila Real de Santo António.\n\n7 - Na pesca de cercar para bordo por embarcações de pesca local que utilizam uma arte de comprimento máximo de 140 m e altura máxima de 25 m na área de jurisdição da Capitania de Lagos, a utilização de fontes luminosas para efeitos de chamariz é permitida para além de um quarto de milha de distância à linha de costa.\n\n8 - Nas áreas de jurisdição das capitanias da RAM a utilização de fontes luminosas para efeitos de chamariz só é permitida para além da batimétrica dos 50 m.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-L/2002 - Diário da República n.º 100/2002, 2º Suplemento, Série I-B de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-2002-414661), produz efeitos a partir de 2002-04-07\n\n> Alterado pelo/a [Portaria n.º 346/2002 - Diário da República n.º 77/2002, Série I-B de 2002-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/346-2002-301007), em vigor a partir de 2002-04-07"
+  },
+  "215918963": {
+   "fragment_id": "215874661",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime do exercício da pesca por arte de cerco.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+  },
+  "215918964": {
+   "fragment_id": "215874662",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição da arte",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 2.º — Definição da arte\n\nPor pesca por arte de cerco entende-se qualquer método de pesca que utiliza parede de rede sempre longa e alta, que é largada de modo a cercar completamente as presas e a reduzir a capacidade de fuga.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+  },
+  "215918965": {
+   "fragment_id": "215874663",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipos",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 3.º — Tipos\n\nA pesca com arte de cerco pode ser exercida com artes que se integrem nos seguintes grupos:\n\na) Cerco tipo americano;\n\nb) Lâmpara tipo sul-africana;\n\nc) Lâmpara tipo mediterrânica.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+  },
+  "215918966": {
+   "fragment_id": "215874664",
+   "type": 11,
+   "heading": "Artigo 4.º — Cerco tipo americano",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 4.º — Cerco tipo americano\n\nCaracteriza-se por ter argolas e retenida, a panagem geral ter idêntica malhagem e a tralha dos chumbos ser maior que a tralha de flutuação.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+  },
+  "215918967": {
+   "fragment_id": "215874665",
+   "type": 11,
+   "heading": "Artigo 5.º — Lâmpara tipo sul-africana",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 5.º — Lâmpara tipo sul-africana\n\nCaracteriza-se por possuir argolas e retenida, ter a tralha de chumbos mais curta que o cabo de flutuação e malhagem progressiva do centro para os extremos.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+  },
+  "215918968": {
+   "fragment_id": "215874666",
+   "type": 11,
+   "heading": "Artigo 6.º — Lâmpara tipo mediterrânica",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 6.º — Lâmpara tipo mediterrânica\n\nCaracteriza-se por ter uma tralha de chumbos mais curta que o cabo de flutuação, por não ter retenida e possuir malhagem progressiva.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+  },
+  "215918969": {
+   "fragment_id": "215874667",
+   "type": 11,
+   "heading": "Artigo 7.º — Espécies permitidas",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09",
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-N/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-n-2000-515209), produz efeitos a partir de 2000-11-27"
+   ],
+   "markdown": "###### Artigo 7.º — Espécies permitidas\n\n1 - A pesca com redes de cerco é dirigida à captura dos seguintes pequenos pelágicos: sardinha (Sardina pilchardus), cavala (Scomber japonicus), sarda (Scomber scombrus), boga (Boops boops), biqueirão (Engraulis encrasicholus) e carapaus (Trachurus spp.) e à captura das seguintes espécies: serras (Scomberomorus spp.), sarrajão (Sarda sarda), cangulos (Balistes spp.), agulha (Belone belone), tainhas (Mugil spp., Liza spp., Chelon spp.) e anchova (Pomatomus Saltatrix).\n\n2 - É permitida uma captura acessória de espécies distintas das referidas no n.º 1 até ao limite de 20%, em peso vivo, calculado em função do total da captura das espécies alvo, por viagem.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-N/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-n-2000-515209), produz efeitos a partir de 2000-11-27"
+  },
+  "215918970": {
+   "fragment_id": "215874668",
+   "type": 11,
+   "heading": "Artigo 8.º — Malhagens das redes",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 8.º — Malhagens das redes\n\nÉ proibido utilizar redes de cerco com malhagem inferior a 16 mm.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+  },
+  "215918971": {
+   "fragment_id": "215874669",
+   "type": 11,
+   "heading": "Artigo 9.º — Dimensões das redes",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24",
+    "Alterado pelo/a [Portaria n.º 346/2002 - Diário da República n.º 77/2002, Série I-B de 2002-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/346-2002-301007), em vigor a partir de 2002-04-07"
+   ],
+   "markdown": "###### Artigo 9.º — Dimensões das redes\n\n1 - O comprimento máximo medido na cortiçada e a altura máxima da rede de cerco são determinados em função do comprimento de fora a fora (cff) de cada embarcação, tendo em atenção a segurança e estabilidade da mesma, conforme a seguir se estabelece:\n\n(ver quadro no documento original)\n\n2 - As embarcações cuja dimensão das redes, por força do disposto no n.º 1, seja inferior em relação à autorizada à data da publicação do presente diploma, poderão requerer à Direcção-Geral das Pescas e Aquicultura (DGPA) autorização para manter a dimensão das artes utilizadas, desde que tal não afecte a segurança e estabilidade das embarcações.\n\n3 - Para as embarcações incluídas no n.º 6 do artigo 11.º as dimensões máximas das redes são as seguintes:\n\n(ver tabela no documento original)\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24\n\n> Alterado pelo/a [Portaria n.º 346/2002 - Diário da República n.º 77/2002, Série I-B de 2002-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/346-2002-301007), em vigor a partir de 2002-04-07"
+  },
+  "215918972": {
+   "fragment_id": "215874670",
+   "type": 11,
+   "heading": "Artigo 10.º — Área de actuação",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09"
+   ],
+   "markdown": "###### Artigo 10.º — Área de actuação\n\n1 - É proibida a utilização de redes de cerco dentro de um quarto de milha de distância à linha da costa, bem como, em profundidades inferiores a 20 m entre um quarto e 1 milha de distância à linha da costa.\n\n2 - O referido no número anterior não se aplica à pesca de cercar para bordo, por embarcações de pesca local que utilizem fontes luminosas como chamariz (candil), na área de jurisdição da Capitania da Nazaré.\n\n3 - Nas áreas de jurisdição das capitanias da Região Autónoma da Madeira (RAM) só é permitido utilizar redes de cerco para fora da batimétrica dos 50 m.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09"
+  },
+  "215918973": {
+   "fragment_id": "215874671",
+   "type": 11,
+   "heading": "Artigo 11.º — Utilização de fontes luminosas para efeitos de chamariz",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-L/2002 - Diário da República n.º 100/2002, 2º Suplemento, Série I-B de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-2002-414661), produz efeitos a partir de 2002-04-07",
+    "Alterado pelo/a [Portaria n.º 346/2002 - Diário da República n.º 77/2002, Série I-B de 2002-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/346-2002-301007), em vigor a partir de 2002-04-07"
+   ],
+   "markdown": "###### Artigo 11.º — Utilização de fontes luminosas para efeitos de chamariz\n\n1 - Entende-se por fonte luminosa, para efeitos de chamariz, uma estrutura dispondo de um ou mais focos de luz preparados especificamente para atrair o peixe, independentemente de estar a bordo da embarcação principal, da embarcação auxiliar ou de um simples suporte flutuante, não sendo consideradas, para este efeito, as luzes normais de posição e de sinalização das embarcações envolvidas.\n\n2 - Sem prejuízo do disposto no n.º 6, cada embarcação de pesca só pode utilizar até duas fontes luminosas para efeitos de chamariz, só podendo essas fontes luminosas estar activas na presença da própria embarcação.\n\n3 - As embarcações só poderão largar a arte ou acender a fonte luminosa a uma distância superior a um quarto de milha de outra embarcação que a tenha já acendido ou que esteja em faina de pesca.\n\n4 - A utilização de fontes luminosas para efeitos de chamariz só é permitida para além de 2 milhas de distância à linha de costa.\n\n5 - O disposto nos n.os 3 e 4 não se aplica à pesca com as embarcações referidas no n.º 2 do artigo 10.º na área de jurisdição da Capitania da Nazaré.\n\n6 - Às embarcações de pesca com comprimento fora a fora inferior ou igual a 14 m que utilizem artes de cercar para bordo com as dimensões previstas no n.º 3 do artigo 9.º é autorizada a pesca com a utilização de três fontes luminosas para efeito de chamariz, para além de um quarto de milha de distância à costa, entre 1 de Abril e 31 de Agosto de cada ano, nas áreas de jurisdição das Capitanias de Setúbal, Sines, Lagos, Portimão, Faro, Olhão, Tavira e Vila Real de Santo António.\n\n7 - Na pesca de cercar para bordo por embarcações de pesca local que utilizam uma arte de comprimento máximo de 140 m e altura máxima de 25 m na área de jurisdição da Capitania de Lagos, a utilização de fontes luminosas para efeitos de chamariz é permitida para além de um quarto de milha de distância à linha de costa.\n\n8 - Nas áreas de jurisdição das capitanias da RAM a utilização de fontes luminosas para efeitos de chamariz só é permitida para além da batimétrica dos 50 m.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 397/2007 - Diário da República n.º 67/2007, Série I de 2007-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/397-2007-520228), em vigor a partir de 2007-04-09\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-L/2002 - Diário da República n.º 100/2002, 2º Suplemento, Série I-B de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-l-2002-414661), produz efeitos a partir de 2002-04-07\n\n> Alterado pelo/a [Portaria n.º 346/2002 - Diário da República n.º 77/2002, Série I-B de 2002-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/346-2002-301007), em vigor a partir de 2002-04-07"
+  },
+  "215918974": {
+   "fragment_id": "215874672",
+   "type": 11,
+   "heading": "Artigo 12.º — Captura de isco vivo",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "###### Artigo 12.º — Captura de isco vivo\n\n1 - É permitido o uso de redes de cercar para bordo com malhagem igual ou superior a 8 mm, comprimento até 400 m, medidos na cortiçada e altura máxima de 70 m, para a pesca de pequenos pelágicos destinados exclusivamente à utilização como isco vivo.\n\n2 - Para efeitos do disposto no número anterior, não se aplica o n.º 1 do artigo 10.º\n\n3 - A captura de isco vivo, nos termos do presente artigo, só pode ser efectuada mediante licenciamento específico para o efeito.\n\n4 - O disposto nos n.os 3 e 4 do artigo 11.º não se aplica à captura de isco vivo.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+  },
+  "215919175": {
+   "fragment_id": "215874673",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+   ],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 22 de Novembro de 2000.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 218/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/218-2023-215874585), em vigor a partir de 2023-07-24"
+  }
+ }
+}

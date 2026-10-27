@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026D1224:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1224-20260609",
+ "dre_path": null,
+ "source_lastmod": "2026-06-09",
+ "versions": [
+  {
+   "date": "2026-06-09",
+   "future": false,
+   "celex": "02026D1224-20260609",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3cdcf2fa3011eb46",
+    "84bcda4b02317e66",
+    "91d5bde56fbad1b4",
+    "77bb16f1ab0dc305",
+    "ff40edb1b35d0f23",
+    "a4e9f779e4513647",
+    "79fc58de3947643c",
+    "5f410ffd0916428a",
+    "7e682b5fc89fbf7f"
+   ]
+  }
+ ],
+ "fragments": {
+  "3cdcf2fa3011eb46": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de [**►C1**](http://publications.europa.eu/resource/celex/32026D1224R%2801%29) 8 de junho de 2026 **◄**\n\nrelativa a uma medida de assistência no âmbito do Mecanismo Europeu de Apoio à Paz para apoiar as Forças Armadas Egípcias"
+  },
+  "84bcda4b02317e66": {
+   "fragment_id": "Artigo 1.º — Criação, objetivos, âmbito de aplicação e duração",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Criação, objetivos, âmbito de aplicação e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação, objetivos, âmbito de aplicação e duração\n\n1. É criada uma medida de assistência em benefício do Egito («beneficiário»), a financiar ao abrigo do Mecanismo Europeu de Apoio à Paz (MEAP) («medida de assistência»).\n\n2.\n\nOs objetivos da medida de assistência são os seguintes:\n\na) Reforçar a cooperação entre a União e o Egito em matéria de segurança e defesa;\n\nb) Contribuir para o reforço das capacidades militares e de defesa globais das Forças Armadas Egípcias;\n\nc) Aumentar a segurança e a estabilidade nacionais do Egito, bem como reforçar a proteção da população civil.\n\n3.\n\nPara alcançar os objetivos estabelecidos no n.º 2, a medida de assistência financia os seguintes tipos de equipamentos, não concebidos para aplicação de força letal:\n\na) Equipamento de proteção e deteção para a Marinha Egípcia;\n\nb) Equipamento logístico e de comunicação para a Força Aérea Egípcia.\n\nA medida de assistência financia igualmente fornecimentos e serviços conexos, incluindo formação técnica, sempre que necessário.\n\n4. A duração da medida de assistência é de 36 meses a contar da data de adoção da presente decisão."
+  },
+  "91d5bde56fbad1b4": {
+   "fragment_id": "Artigo 2.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Disposições financeiras\n\n1. O montante de referência financeira destinado a cobrir as despesas relacionadas com a medida de assistência é de 20 000 000 EUR.\n\n2. Todas as despesas são geridas em conformidade com a Decisão (PESC) 2021/509 e de acordo com as regras de execução das receitas e despesas financiadas ao abrigo do MEAP."
+  },
+  "77bb16f1ab0dc305": {
+   "fragment_id": "Artigo 3.º — Acordos com o beneficiário",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Acordos com o beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acordos com o beneficiário\n\n1. O alto representante da União para os Negócios Estrangeiros e a Política de Segurança («alto representante») celebra com o beneficiário os acordos necessários para assegurar que este cumpre os requisitos e condições estabelecidos pela presente decisão, como condição para a prestação de apoio no âmbito da medida de assistência.\n\n2.\n\nOs acordos a que se refere o n.º 1 devem incluir disposições que obriguem o beneficiário a assegurar:\n\na) O cumprimento, por parte das unidades das Forças Armadas Egípcias apoiadas no âmbito da medida de assistência, do direito internacional aplicável, em especial o direito internacional em matéria de direitos humanos e o direito internacional humanitário;\n\nb) A utilização correta e eficiente de quaisquer ativos fornecidos no âmbito da medida de assistência para os fins a que se destinam;\n\nc) A manutenção suficiente de quaisquer ativos fornecidos no âmbito da medida de assistência, por forma a garantir a sua funcionalidade e disponibilidade operacional ao longo do seu ciclo de vida;\n\nd) Que os ativos fornecidos ao abrigo da medida de assistência não são perdidos nem cedidos a outras pessoas ou entidades para além das identificadas nesses acordos.\n\n3. Os acordos a que se refere o n.º 1 devem incluir disposições relativas à suspensão e cessação do apoio prestado no âmbito da medida de assistência no caso de se verificar que o beneficiário não cumpriu as obrigações estabelecidas no n.º 2."
+  },
+  "ff40edb1b35d0f23": {
+   "fragment_id": "Artigo 4.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Execução\n\n1. O alto representante é responsável por assegurar a execução da presente decisão em conformidade com a Decisão (PESC) 2021/509 e de acordo com as regras de execução das receitas e despesas financiadas ao abrigo do MEAP e com o quadro metodológico integrado para avaliar e determinar as medidas e os controlos necessários para as medidas de assistência no âmbito do MEAP.\n\n2. A execução das atividades a que se refere o artigo 1.º, n.º 3, da presente decisão é assegurada pelo Défense Conseil International."
+  },
+  "a4e9f779e4513647": {
+   "fragment_id": "Artigo 5.º — Acompanhamento, controlo e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Acompanhamento, controlo e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acompanhamento, controlo e avaliação\n\n1. O alto representante acompanha o cumprimento, por parte do beneficiário, das obrigações estabelecidas no artigo 3.º. Esse acompanhamento deve servir para sensibilizar para o contexto e os riscos de incumprimento das obrigações estabelecidas no artigo 3.º e contribuir para a prevenção de tais incumprimentos, incluindo violações do direito internacional em matéria de direitos humanos e do direito internacional humanitário, por parte das unidades das Forças Armadas Egípcias que beneficiam de apoio no âmbito da medida de assistência.\n\n2.\n\nO controlo pós-expedição dos equipamentos e dos fornecimentos é organizado do seguinte modo:\n\na) Verificação da entrega, através da qual os certificados de entrega MEAP devem ser assinados pelas forças do utilizador final aquando da transferência de propriedade;\n\nb) Comunicação de informações, através da qual o beneficiário presta anualmente informações sobre as atividades realizadas com o equipamento, produtos e serviços fornecidos no âmbito da medida de assistência e sobre o inventário dos bens designados, até que essa comunicação deixe de ser considerada necessária pelo Comité Político e de Segurança (CPS);\n\nc) Visitas ao local, no âmbito das quais o beneficiário deve conceder ao alto representante e aos auditores do MEAP, a pedido destes, acesso para a realização de inspeções no local e auditorias do MEAP.\n\n3. Após a conclusão da medida de assistência, o alto representante efetua uma avaliação final para apreciar se a medida de assistência contribuiu para alcançar os objetivos previstos no artigo 1.º, n.º 2."
+  },
+  "79fc58de3947643c": {
+   "fragment_id": "Artigo 6.º — Apresentação de relatórios",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Apresentação de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apresentação de relatórios\n\nDurante o período de execução, o alto representante apresenta ao CPS relatórios semestrais sobre a execução da medida de assistência, nos termos do artigo 63.º da Decisão (PESC) 2021/509. O administrador das medidas de assistência informa periodicamente o Comité do Mecanismo criado pela Decisão (PESC) 2021/509 sobre a execução das receitas e despesas nos termos do artigo 38.º dessa decisão, nomeadamente prestando informações sobre os fornecedores e subcontratantes envolvidos."
+  },
+  "5f410ffd0916428a": {
+   "fragment_id": "Artigo 7.º — Suspensão e cessação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Suspensão e cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Suspensão e cessação\n\n1. O CPS pode decidir suspender total ou parcialmente a execução da medida de assistência nos termos do artigo 64.º da Decisão (PESC) 2021/509.\n\n2. O CPS pode recomendar que o Conselho ponha fim à medida de assistência."
+  },
+  "7e682b5fc89fbf7f": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente decisão entra em vigor na data da sua adoção."
+  }
+ }
+}

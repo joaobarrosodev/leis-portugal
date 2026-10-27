@@ -1,0 +1,735 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108028570:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2017-108021252",
+ "dre_path": "/dr/detalhe/lei/88-2017-108028570",
+ "source_lastmod": "2024-07-31",
+ "versions": [
+  {
+   "date": "2017-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108033404",
+    "108033405",
+    "108033406",
+    "108033407",
+    "108033408",
+    "108033409",
+    "108033410",
+    "108033411",
+    "108033412",
+    "108033413",
+    "108033414",
+    "108033415",
+    "108033416",
+    "108033417",
+    "108033418",
+    "108033419",
+    "108033420",
+    "108033421",
+    "108033422",
+    "108033423",
+    "108033424",
+    "108033425",
+    "108033426",
+    "108033427",
+    "108033428",
+    "108033429",
+    "108033430",
+    "108033431",
+    "108033432",
+    "108033433",
+    "108033434",
+    "108033435",
+    "108033436",
+    "108033437",
+    "108033438",
+    "108033439",
+    "108033440",
+    "108033441",
+    "108033442",
+    "108033443",
+    "108033444",
+    "108033445",
+    "108033446",
+    "108033447",
+    "108033448",
+    "108033449",
+    "108033450",
+    "108033451",
+    "108033452",
+    "108033453",
+    "108033454",
+    "108033455",
+    "108033456",
+    "108033457",
+    "108033458",
+    "108033459",
+    "108033460",
+    "108033461",
+    "108033462",
+    "108033463",
+    "108033464",
+    "108033465",
+    "108033466",
+    "108033467",
+    "108033469",
+    "108033470",
+    "108033471",
+    "108033472"
+   ]
+  },
+  {
+   "date": "2023-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:217571942:por",
+     "title": "Lei n.º 42/2023",
+     "published": "2023-08-10",
+     "dre_path": "/dr/detalhe/lei/42-2023-217571942"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "108033404",
+    "108033405",
+    "108033406",
+    "108033407",
+    "108033408",
+    "108033409",
+    "108033410",
+    "108033411",
+    "108033412",
+    "872271175",
+    "108033414",
+    "108033415",
+    "108033416",
+    "108033417",
+    "108033418",
+    "108033419",
+    "108033420",
+    "108033421",
+    "108033422",
+    "108033423",
+    "108033424",
+    "108033425",
+    "108033426",
+    "108033427",
+    "108033428",
+    "108033429",
+    "108033430",
+    "108033431",
+    "108033432",
+    "108033433",
+    "108033434",
+    "108033435",
+    "108033436",
+    "108033437",
+    "108033438",
+    "108033439",
+    "108033440",
+    "108033441",
+    "108033442",
+    "108033443",
+    "108033444",
+    "108033445",
+    "108033446",
+    "108033447",
+    "108033448",
+    "108033449",
+    "108033450",
+    "108033451",
+    "108033452",
+    "108033453",
+    "108033454",
+    "108033455",
+    "108033456",
+    "108033457",
+    "108033458",
+    "108033459",
+    "108033460",
+    "108033461",
+    "108033462",
+    "108033463",
+    "108033464",
+    "108033465",
+    "108033466",
+    "108033467",
+    "108033468",
+    "108033469",
+    "108033470",
+    "108033471",
+    "108033472"
+   ]
+  }
+ ],
+ "fragments": {
+  "108033404": {
+   "fragment_id": "108021253",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 88/2017\n\nde 21 de agosto\n\nAprova o regime jurídico da emissão, transmissão, reconhecimento e execução de decisões europeias de investigação em matéria penal, transpõe a Diretiva 2014/41/UE, do Parlamento Europeu e do Conselho, de 3 de abril de 2014, e revoga a Lei n.º 25/2009, de 5 de junho.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "108033405": {
+   "fragment_id": "108021254",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "108033406": {
+   "fragment_id": "108021255",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece o regime jurídico da emissão, transmissão e do reconhecimento e execução de decisões europeias de investigação, transpondo para a ordem jurídica interna a Diretiva 2014/41/UE do Parlamento Europeu e do Conselho, de 3 de abril de 2014, relativa à decisão europeia de investigação (DEI) em matéria penal."
+  },
+  "108033407": {
+   "fragment_id": "108021256",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - A DEI é uma decisão emitida ou validada por uma autoridade judiciária de um Estado membro da União Europeia para que sejam executadas noutro Estado membro uma ou várias medidas de investigação específicas, tendo em vista a obtenção de elementos de prova em conformidade com a presente lei.\n\n2 - A DEI é executada com base no princípio do reconhecimento mútuo, nos termos da presente lei e em conformidade com a Diretiva 2014/41/UE do Parlamento Europeu e do Conselho, de 3 de abril de 2014."
+  },
+  "108033408": {
+   "fragment_id": "108021257",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Estado de emissão», o Estado membro no qual a DEI tenha sido emitida;\n\nb) «Estado de execução», o Estado membro que executa a DEI, no qual a medida de investigação deva ser executada;\n\nc) «Autoridade de emissão»:\n\ni) O juiz, o tribunal, o juiz de instrução e o Ministério Público, cada um relativamente aos atos processuais da sua competência; ou\n\nii) Qualquer outra autoridade competente definida pelo Estado de emissão e que, no caso, atue enquanto autoridade de investigação nos processos referidos no artigo 5.º, com competência para ordenar a obtenção de elementos de prova no processo de acordo com a respetiva lei nacional, desde que a DEI seja validada por um juiz, por um tribunal, por um juiz de instrução ou por um magistrado do Ministério Público no Estado de emissão, após verificação da sua conformidade com as condições de emissão. Se a DEI tiver sido validada por uma autoridade judiciária, esta é equiparada a autoridade de emissão para efeitos de transmissão;\n\nd) «Autoridade de execução», uma autoridade com competência para reconhecer a DEI e garantir a sua execução;\n\ne) «Medida de investigação», a diligência ou ato necessário à realização das finalidades do inquérito ou da instrução, destinados à obtenção de meios de prova, e os atos de produção de prova em julgamento ou em fase posterior do processo, bem como os necessários à instrução dos processos de contraordenação pelas autoridades administrativas, nos termos previstos na lei processual penal e demais legislação aplicável."
+  },
+  "108033409": {
+   "fragment_id": "108021258",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito de aplicação\n\n1 - A DEI abrange qualquer medida de investigação, com exceção da criação de equipas de investigação conjuntas e da obtenção de elementos de prova por essas equipas.\n\n2 - A DEI abrange também as medidas de investigação destinadas à realização dos objetivos de uma equipa de investigação conjunta, a executar num Estado membro que nela não participa, por decisão da autoridade judiciária competente de um dos Estados membros que dela fazem parte.\n\n3 - A DEI aplica-se à obtenção de novos elementos de prova e à transmissão de elementos de prova na posse das autoridades competentes do Estado de execução, em todas as fases do processo."
+  },
+  "108033410": {
+   "fragment_id": "108021259",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipos de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipos de processos\n\nA DEI pode ser emitida:\n\na) Em processos penais instaurados por uma autoridade judiciária, ou que possam ser instaurados perante uma tal autoridade, relativamente a uma infração penal, ao abrigo do direito interno do Estado de emissão;\n\nb) Em processos instaurados pelas autoridades judiciárias referentes a factos ilícitos puníveis ao abrigo do direito interno do Estado de emissão, desde que as respetivas decisões admitam recurso para um órgão jurisdicional competente, nomeadamente em matéria penal;\n\nc) Em processos instaurados por entidades administrativas relativamente a factos ilícitos puníveis ao abrigo do direito interno do Estado de emissão, designadamente por infrações que constituam ilícito de mera ordenação social, cujas decisões admitam recurso para um órgão jurisdicional competente, nomeadamente em matéria penal;\n\nd) Em conexão com os processos referidos nas alíneas anteriores, relativos a crimes ou outros atos ilícitos pelos quais uma pessoa coletiva possa ser responsabilizada ou punida no Estado de emissão."
+  },
+  "108033411": {
+   "fragment_id": "108021260",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma e conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Forma e conteúdo\n\n1 - A DEI é emitida através do preenchimento do formulário constante do anexo I à presente lei, da qual faz parte integrante, devendo conter, em particular, as seguintes informações:\n\na) Os dados relativos à autoridade de emissão e, se for o caso, à autoridade de validação;\n\nb) A identificação do seu objeto e a sua justificação;\n\nc) As informações necessárias que estejam disponíveis acerca da pessoa ou pessoas, singulares ou coletivas, a que se aplica a medida de investigação;\n\nd) Uma descrição da infração que é objeto da investigação ou do processo e as disposições de direito penal do Estado de emissão aplicáveis;\n\ne) Uma descrição da medida ou medidas de investigação solicitadas e das provas a obter.\n\n2 - A DEI é assinada pela autoridade de emissão, que certifica a exatidão e correção das informações dela constantes.\n\n3 - A DEI deve ser traduzida pela autoridade competente do Estado de emissão, para a língua oficial do Estado de execução ou para uma das línguas oficiais dos Estados membros da União Europeia que este tiver declarado aceitar."
+  },
+  "108033412": {
+   "fragment_id": "108021261",
+   "type": 11,
+   "heading": "Artigo 7.º — Consultas e comunicações entre as autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Consultas e comunicações entre as autoridades competentes\n\n1 - Sempre que for considerado apropriado, as autoridades nacionais competentes para a emissão e para a execução podem consultar-se mutuamente, a fim de facilitar a correta e eficiente aplicação da presente lei.\n\n2 - Todas as comunicações oficiais são efetuadas diretamente entre as autoridades nacionais competentes para a emissão e para a execução, por qualquer meio que permita a obtenção de um registo escrito e a verificação da sua autenticidade."
+  },
+  "108033413": {
+   "fragment_id": "108021262",
+   "type": 11,
+   "heading": "Artigo 8.º — Proteção de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Proteção de dados pessoais\n\n1 - Na aplicação da presente lei os dados pessoais são protegidos e tratados em conformidade com a Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para efeitos de prevenção, investigação, deteção ou repressão de infrações penais ou execução de sanções penais e à livre circulação desses dados, e que revoga a Decisão-Quadro 2008/977/JAI do Conselho, de 27 de novembro de 2008, e de acordo com os princípios consagrados na Convenção do Conselho da Europa para a Proteção das Pessoas relativamente ao Tratamento Automatizado de Dados de Caráter Pessoal, de 28 de janeiro de 1981, e no seu Protocolo Adicional.\n\n2 - O acesso a esses dados é restrito, apenas tendo acesso aos mesmos aqueles que forem devidamente autorizados, sem prejuízo dos direitos do titular dos dados.\n\n3 - Ao tratamento, segurança, conservação, acesso e proteção dos dados pessoais tratados no âmbito da presente lei é aplicável a Lei n.º 34/2009, de 14 de julho, alterada pela Lei n.º 30/2017, de 30 de maio, bem como a Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto."
+  },
+  "108033414": {
+   "fragment_id": "108021263",
+   "type": 11,
+   "heading": "Artigo 9.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Encargos\n\n1 - Sem prejuízo das normas específicas previstas no capítulo IV, o Estado Português suporta todas as despesas ocorridas com a execução de uma DEI em território nacional.\n\n2 - Quando as despesas sejam consideradas excecionalmente elevadas, a autoridade nacional de execução acorda com a autoridade de emissão a partilha dos encargos ou a alteração da DEI, informando discriminadamente sobre aquelas.\n\n3 - O Estado Português não suporta as despesas decorrentes da execução noutro Estado membro de uma DEI emitida pelas autoridades portuguesas, sem prejuízo do disposto no número seguinte.\n\n4 - Quando consultada pela autoridade de execução quanto à partilha de despesas excecionalmente elevadas, a autoridade portuguesa de emissão decide sobre a parte das despesas a suportar ou, na falta de acordo, sobre a retirada total ou parcial da DEI."
+  },
+  "108033415": {
+   "fragment_id": "108021264",
+   "type": 11,
+   "heading": "Artigo 10.º — Autoridade central",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autoridade central\n\n1 - A Procuradoria-Geral da República é designada como autoridade central para coadjuvar as autoridades judiciárias competentes para emissão e execução da DEI, designadamente nas comunicações com as autoridades dos outros Estados membros, e demais finalidades previstas na presente lei.\n\n2 - São comunicadas à autoridade central as DEI emitidas e recebidas pelas autoridades nacionais competentes."
+  },
+  "108033416": {
+   "fragment_id": "108021265",
+   "type": 1,
+   "heading": "Capítulo II — Procedimentos e garantias de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimentos e garantias de emissão"
+  },
+  "108033417": {
+   "fragment_id": "108021266",
+   "type": 11,
+   "heading": "Artigo 11.º — Objeto e condições de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Objeto e condições de emissão\n\n1 - A DEI só pode ser emitida ou validada se estiverem reunidas as seguintes condições:\n\na) Se for necessária, adequada e proporcional, para efeitos dos processos a que se refere o artigo 5.º; tendo em conta os direitos do suspeito ou do arguido; e\n\nb) Se a medida ou medidas de investigação solicitadas na DEI pudessem ter sido ordenadas, nas mesmas condições, no âmbito de processos nacionais semelhantes.\n\n2 - As condições referidas no número anterior são avaliadas, caso a caso, pela autoridade nacional de emissão.\n\n3 - A DEI indica, se for caso disso, as formalidades e procedimentos particularmente exigidos na obtenção ou produção do meio de prova, de acordo e com referência às disposições legais aplicáveis, solicitando o seu cumprimento à autoridade de execução, de modo a garantir a validade e eficácia da prova.\n\n4 - A autoridade de emissão pode decidir retirar a DEI se, na sequência de contactos estabelecidos pela autoridade de execução, esta considerar que não se encontram preenchidas as condições estabelecidas no n.º 1."
+  },
+  "108033418": {
+   "fragment_id": "108021267",
+   "type": 11,
+   "heading": "Artigo 12.º — Autoridades nacionais de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Autoridades nacionais de emissão\n\n1 - É competente para emitir uma DEI a autoridade judiciária nacional com competência para a direção do processo na fase em que ele se encontra.\n\n2 - O disposto no n.º 1 não prejudica as competências do juiz de instrução para autorizar ou ordenar a prática de atos na fase de inquérito, nos termos da lei.\n\n3 - A DEI também pode ser emitida pelo membro nacional da EUROJUST, nos termos e nas circunstâncias previstas nos n.os 3 e 4 do artigo 8.º da Lei n.º 36/2003, de 22 de agosto, alterada pela Lei n.º 20/2014, de 15 de abril.\n\n4 - A DEI é emitida por iniciativa da autoridade judiciária ou a pedido dos sujeitos processuais, nos termos em que estes podem requerer a obtenção ou produção de meios de prova, de acordo com a lei processual penal.\n\n5 - Nos processos de contraordenação, a DEI é emitida pela entidade administrativa competente para o processamento da contraordenação, de acordo com o regime que lhe for aplicável, mediante validação pelo Ministério Público.\n\n6 - No caso previsto no artigo anterior, a validação é efetuada, no prazo máximo de 10 dias contados a partir da data da receção da DEI, pelo Ministério Público no tribunal competente para conhecer do recurso de impugnação da decisão da entidade administrativa que aplica a sanção."
+  },
+  "108033419": {
+   "fragment_id": "108021268",
+   "type": 11,
+   "heading": "Artigo 13.º — Procedimentos de transmissão e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Procedimentos de transmissão e comunicação\n\n1 - A DEI é transmitida diretamente pela autoridade de emissão à autoridade de execução, por qualquer meio que permita conservar um registo escrito e em condições que permitam determinar a sua autenticidade.\n\n2 - A DEI pode ser transmitida através do sistema de telecomunicações da Rede Judiciária Europeia, a que se refere a Decisão 2008/976/JAI do Conselho, de 16 de dezembro de 2008.\n\n3 - As comunicações subsequentes relativas à DEI são efetuadas diretamente entre a autoridade de emissão e a autoridade de execução.\n\n4 - As dificuldades respeitantes à transmissão ou à autenticidade de documentos necessários à execução são tratadas por contacto direto entre as autoridades judiciárias.\n\n5 - Pode ser solicitada a assistência da autoridade central, do membro nacional da EUROJUST ou dos pontos de contacto da Rede Judiciária Europeia, designadamente para identificação da autoridade competente para a execução.\n\n6 - Sem prejuízo do apoio da EUROJUST que se mostrar necessário à coordenação da execução, a autoridade nacional de emissão informa o membro nacional daquela nos casos em que forem transmitidas decisões europeias de investigação no âmbito do mesmo processo a, pelo menos, dois Estados membros, em conformidade com o disposto no artigo 9.º-A da Lei n.º 36/2003, de 22 de agosto, alterada pela Lei n.º 20/2014, de 15 de abril."
+  },
+  "108033420": {
+   "fragment_id": "108021269",
+   "type": 11,
+   "heading": "Artigo 14.º — Emissão complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Emissão complementar\n\n1 - Sendo uma DEI emitida em complemento de outra, é assinalado esse facto na secção D do formulário constante do anexo I à presente lei.\n\n2 - Se coadjuvar a execução, nos termos do artigo seguinte, a autoridade de emissão pode, enquanto se encontrar no Estado de execução, emitir e entregar diretamente uma DEI complementar à autoridade de execução, sem prejuízo da competência que os Estados envolvidos tenham atribuído à respetiva autoridade central.\n\n3 - A DEI complementar é certificada nos termos do n.º 2 do artigo 6.º e, se aplicável, validada."
+  },
+  "108033421": {
+   "fragment_id": "108021270",
+   "type": 11,
+   "heading": "Artigo 15.º — Coadjuvação na execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Coadjuvação na execução\n\n1 - A autoridade de emissão pode solicitar à autoridade de execução que autoridades e agentes do Estado de emissão com competência em matéria de investigação coadjuvem as autoridades de execução.\n\n2 - As autoridades e agentes presentes no Estado de execução ficam sujeitos à lei desse Estado durante a execução da DEI, sem poderes de execução, salvo se a lei desse Estado o permitir, nos termos em que for acordado entre a autoridade nacional de emissão e a autoridade de execução."
+  },
+  "108033422": {
+   "fragment_id": "108021271",
+   "type": 11,
+   "heading": "Artigo 16.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Confidencialidade\n\nA autoridade de emissão não divulga quaisquer elementos de prova ou informações fornecidos pela autoridade de execução sujeitos ao dever de segredo ou de sigilo, exceto na medida em que a divulgação seja autorizada pela lei nacional e não contrarie a indicação da autoridade de execução."
+  },
+  "108033423": {
+   "fragment_id": "108021272",
+   "type": 11,
+   "heading": "Artigo 17.º — Levantamento do segredo, de privilégio ou da imunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Levantamento do segredo, de privilégio ou da imunidade\n\nCaso a autoridade de execução informe que o reconhecimento ou a execução podem ser recusados com o fundamento na existência de segredo, privilégio ou imunidade cujo levantamento seja da competência de uma autoridade de Estado terceiro, ou de uma organização internacional, a autoridade de emissão diligencia no sentido da sua obtenção, suspendendo-se a DEI."
+  },
+  "108033424": {
+   "fragment_id": "108021273",
+   "type": 1,
+   "heading": "Capítulo III — Procedimentos e garantias de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimentos e garantias de execução"
+  },
+  "108033425": {
+   "fragment_id": "108021274",
+   "type": 11,
+   "heading": "Artigo 18.º — Reconhecimento e execução pelas autoridades nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reconhecimento e execução pelas autoridades nacionais\n\n1 - A autoridade de execução reconhece sem formalidades adicionais, nos termos da presente lei, a DEI emitida e transmitida pela autoridade competente de outro Estado membro, e garante a sua execução, com base no princípio do reconhecimento mútuo, nas condições que seriam aplicáveis se a medida de investigação em causa tivesse sido ordenada por uma autoridade nacional, sem prejuízo do disposto nos artigos 22.º e 24.º\n\n2 - A autoridade de execução respeita as formalidades e os procedimentos expressamente indicados pela autoridade de emissão, salvo disposição em contrário da presente lei e desde que se respeitem os pressupostos e requisitos do direito nacional em matéria de prova no âmbito de processos nacionais semelhantes.\n\n3 - A autoridade de execução pode consultar a autoridade de emissão, pelos meios que considerar adequados, para facilitar a aplicação do presente artigo.\n\n4 - Se necessário, a autoridade nacional de execução solicita o apoio do membro nacional da EUROJUST no âmbito das competências deste órgão, especialmente quando a DEI requerer execução coordenada com a autoridade de emissão ou com medidas de investigação noutros Estados membros ou em Estados que tenham celebrado acordos de cooperação com a EUROJUST, nos termos do disposto na Lei n.º 36/2003, de 22 de agosto, alterada pela Lei n.º 20/2014, de 15 de abril.\n\n5 - A DEI transmitida às autoridades nacionais é traduzida para a língua oficial do Estado de execução ou para outra língua oficial dos Estados membros da União Europeia que Portugal tiver declarado aceitar, em conformidade com o n.º 3 do artigo 6.º"
+  },
+  "108033426": {
+   "fragment_id": "108031875",
+   "type": 11,
+   "heading": "Artigo 19.º — Autoridades nacionais de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Autoridades nacionais de execução\n\n1 - É competente para reconhecer e garantir a execução de uma DEI a autoridade judiciária nacional com competência para ordenar a medida de investigação em território nacional, de acordo com o disposto na lei processual penal, nas leis de organização do sistema judiciário e no Estatuto do Ministério Público.\n\n2 - Sem prejuízo do especialmente previsto na presente lei, é competente para reconhecer e garantir a execução de uma DEI a autoridade judiciária da comarca em cuja área reside ou se encontra a pessoa singular ou tem sede a pessoa coletiva em causa, quando as medidas se destinarem à audição de pessoa singular ou representante legal de pessoa coletiva, ou a autoridade judiciária da comarca em cuja área deva ser executada a medida de investigação.\n\n3 - Compete ao juízo local criminal a prática de atos de produção de prova em julgamento.\n\n4 - Quando a execução das medidas deva ter lugar na área de competência territorial de diferentes juízos locais criminais da mesma comarca, fixa-se a competência no juízo local criminal competente que primeiro receber a decisão devidamente transmitida, sendo correspondentemente aplicável o disposto no n.º 7.\n\n5 - Se a DEI disser respeito a várias pessoas e estas residam ou tenham sede na área de diferentes comarcas, bem como nas situações em que as medidas de investigação devam ser executadas em mais de uma comarca, é territorialmente competente, consoante a fase do processo no Estado de emissão ou a medida de investigação a executar:\n\na) O Departamento Central de Investigação e Ação Penal, relativamente a atos das fases preliminares do processo que devam ser praticados na área de competência territorial de mais de um tribunal da Relação ou sem localização territorial definida, e nos casos em que lhe é atribuída competência para ordenar ou promover a medida de investigação em processos nacionais;\n\nb) O Departamento de Investigação e Ação Penal distrital da área de competência do tribunal da Relação respetivo, relativamente a atos das fases preliminares do processo que devam ser praticados na área de jurisdição desse tribunal;\n\nc) O juízo local criminal da sede do tribunal da Relação de Lisboa, relativamente a atos de produção de prova em julgamento que devam ser praticados na área de competência territorial de mais de um tribunal da Relação;\n\nd) O juízo local criminal da sede do tribunal da Relação respetiva relativamente a atos de produção de prova em julgamento que devam ser praticados na área de competência territorial desse tribunal da Relação.\n\n6 - Se a DEI se destinar à transmissão de elementos de prova na posse das autoridades nacionais, é competente para o reconhecimento e para garantir a execução a autoridade judiciária que dirigir o processo na fase em que se encontra.\n\n7 - Nos casos previstos nas alíneas c) e d) do n.º 5 são emitidas cartas precatórias dirigidas aos juízos locais criminais territorialmente competentes para a prática de atos que devam ter lugar fora da comarca onde estão sedeados aqueles tribunais, salvo se se tratar de atos processuais que não possam ou não devam ser separados.\n\n8 - Sem prejuízo do disposto no n.º 1, no caso previsto na alínea b) do artigo 5.º, é competente para o reconhecimento o Ministério Público no tribunal referido no n.º 6 do artigo 12.º, de acordo com o regime aplicável, cabendo à autoridade administrativa com competência para o processamento da contraordenação a execução da medida.\n\n9 - Quando não tiver competência para a reconhecer e tomar as medidas necessárias à execução, a autoridade nacional que recebe a DEI transmite-a à autoridade judiciária competente, informando desse facto a autoridade de emissão.\n\n10 - Quando se verifiquem as circunstâncias previstas nos n.os 3 e 4 do artigo 8.º da Lei n.º 36/2003, de 22 de agosto, alterada pela Lei n.º 20/2014, de 15 de abril, o membro nacional da EUROJUST pode executar uma DEI que lhe tenha sido transmitida por uma autoridade competente do Estado de emissão."
+  },
+  "108033427": {
+   "fragment_id": "108031876",
+   "type": 11,
+   "heading": "Artigo 20.º — Procedimentos de reconhecimento e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Procedimentos de reconhecimento e execução\n\n1 - Recebida a DEI, a autoridade nacional competente para a execução verifica se esta respeita os limites e âmbito de aplicação, tal como previstos no n.º 2 do artigo 2.º e nos artigos 4.º e 5.º e se esta se encontra emitida nos termos do artigo 6.º, respeitando os requisitos de forma e conteúdo, e se das informações dela constantes se evidencia algum dos motivos de recurso a medida de tipo diferente da indicada, de não reconhecimento ou não execução, ou de adiamento, nos termos dos artigos 21.º, 22.º e 24.º, de que desde logo possa conhecer.\n\n2 - Se a DEI não respeitar o disposto no artigo 6.º, por o formulário constante do anexo I à presente lei se mostrar preenchido de forma incompleta ou manifestamente incorreta ou por não se encontrar traduzida nos termos do n.º 5 do artigo 18.º, a autoridade nacional de execução informa a autoridade de emissão, nos termos da alínea a) do n.º 3 do artigo 25.º, solicitando que este seja devidamente completado ou corrigido ou traduzido.\n\n3 - A falta de tradução e o não suprimento dos vícios referidos no número anterior impede a autoridade nacional de execução de tomar decisão sobre o reconhecimento, sendo a DEI devolvida à autoridade de emissão.\n\n4 - Verificada a regularidade formal e substancial da DEI, a autoridade nacional de execução profere decisão de reconhecimento e ordena, pratica ou assegura os atos necessários à execução.\n\n5 - Concluída a execução, ou esgotadas as diligências que o caso impuser, não havendo motivo de não execução, a autoridade nacional de execução encerra o procedimento de execução e reconhecimento da DEI, transmitindo os elementos obtidos à autoridade de emissão."
+  },
+  "108033428": {
+   "fragment_id": "108031877",
+   "type": 11,
+   "heading": "Artigo 21.º — Medida alternativa de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Medida alternativa de investigação\n\n1 - Se a medida não existir na lei do Estado de execução ou não for admissível num processo nacional semelhante, a autoridade de execução recorre, sempre que possível, a uma medida de investigação diferente da indicada na DEI.\n\n2 - Excetuam-se do disposto no número anterior as seguintes medidas de investigação, sem prejuízo dos motivos de não execução previstos no artigo seguinte que lhes sejam aplicáveis:\n\na) Obtenção de informações ou de elementos de prova que já estejam na posse da autoridade de execução e, de acordo com o direito do Estado de execução, fossem suscetíveis de ter sido obtidos no âmbito de processos penais ou para efeitos da DEI;\n\nb) Obtenção de informações contidas nas bases de dados detidas pelas entidades policiais ou pelas autoridades judiciárias e às quais a autoridade de execução pode ter acesso direto no âmbito de processos penais;\n\nc) Audição de testemunhas, peritos, vítimas, suspeitos ou arguidos, ou terceiros, no Estado de execução;\n\nd) Medidas de investigação não intrusivas previstas na lei do Estado de execução;\n\ne) Identificação de pessoas que tenham uma assinatura de um número de telefone ou um endereço IP específicos.\n\n3 - A autoridade de execução pode ainda recorrer a uma medida de investigação diferente da indicada na DEI nos casos em que essa medida conduza ao mesmo resultado que a medida de investigação indicada pela autoridade de emissão, mas utilize meios menos intrusivos, tendo em conta o disposto na alínea a) n.º 1 do artigo 11.º\n\n4 - A autoridade de execução informa a autoridade de emissão antes de recorrer a uma medida de investigação diferente da indicada na DEI, nos termos dos números anteriores, para que esta a possa retirar ou complementar.\n\n5 - Se, de acordo com o disposto no n.º 1, a medida de investigação indicada na DEI não existir na lei do Estado de execução ou não for admissível num processo nacional semelhante, e na falta de outra medida de investigação que permita obter o mesmo resultado que a medida de investigação solicitada, a autoridade de execução notifica a autoridade de emissão de que não foi possível a assistência solicitada.\n\n6 - A autoridade nacional de execução pode solicitar o apoio do membro nacional de Portugal na EUROJUST sempre que entenda que a substituição da medida exige coordenação com a autoridade de emissão."
+  },
+  "108033429": {
+   "fragment_id": "108031878",
+   "type": 11,
+   "heading": "Artigo 22.º — Motivos de não reconhecimento ou de não execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Motivos de não reconhecimento ou de não execução\n\n1 - O reconhecimento ou a execução de uma DEI podem ser recusados se:\n\na) A conduta para a qual tiver sido emitida a DEI não constituir um ilícito de natureza penal ou de outra natureza sancionatória à luz da lei do Estado de execução, a menos que se relacione com uma infração incluída nas categorias de infrações constantes do anexo IV à presente lei, da qual faz parte integrante, e desde que seja punível no Estado de emissão com pena ou medida de segurança privativas de liberdade de duração máxima não inferior a três anos, conforme indicação da autoridade de emissão na DEI;\n\nb) A execução for impossível por existir segredo, imunidade ou privilégio ao abrigo do direito interno do Estado de execução ou por existirem regras sobre a determinação e limitação da responsabilidade penal no que se refere à liberdade de imprensa e de expressão noutros meios de comunicação social;\n\nc) A execução for suscetível de prejudicar interesses nacionais essenciais de segurança, comprometer a fonte de informação ou implicar o uso de informações classificadas relativas a atividade específicas de informação;\n\nd) A DEI tiver sido emitida no âmbito dos processos referidos nas alíneas b) e c) do artigo 5.º e a medida de investigação indicada não for admitida em processos nacionais semelhantes;\n\ne) A execução for contrária ao princípio ne bis in idem;\n\nf) A decisão disser respeito a uma infração penal alegadamente cometida fora do território do Estado de emissão e total ou parcialmente no território do Estado de execução e a conduta que tiver conduzido à emissão da DEI não constituir infração no Estado de execução;\n\ng) Houver motivos substanciais para crer que a execução da medida indicada é incompatível com as obrigações do Estado de execução nos termos do artigo 6.º do Tratado da União Europeia e da Carta dos Direitos Fundamentais da União Europeia;\n\nh) A medida de investigação em causa só for admissível pela lei do Estado de execução quando estejam em causa crimes punidos com penas que atinjam determinados limites ou determinadas categorias de infrações que não incluam a infração a que a DEI diz respeito.\n\n2 - As alíneas a) e h) do número anterior não se aplicam às medidas de investigação enunciadas no n.º 2 do artigo 21.º\n\n3 - Se estiverem em causa infrações em matéria fiscal, aduaneira ou cambial, não pode ser recusado o reconhecimento ou a execução com o fundamento de que a lei do Estado de execução não impõe o mesmo tipo de imposto ou direito, ou não contém o mesmo tipo de regulamentação em matéria fiscal, aduaneira ou cambial que a lei do Estado de emissão.\n\n4 - Nos casos a que se referem as alíneas b), c), e), f) e g) do n.º 1, antes de decidir não reconhecer ou não executar, total ou parcialmente, a DEI, a autoridade de execução deve consultar a autoridade de emissão, por qualquer meio adequado e, se necessário, deve solicitar-lhe que faculte sem demora as informações suplementares que o caso impuser.\n\n5 - No caso referido na alínea b) do n.º 1, quando o levantamento do privilégio, da imunidade ou da prerrogativa for da competência de uma autoridade do Estado de execução, a autoridade de execução apresenta-lhe o respetivo pedido."
+  },
+  "108033430": {
+   "fragment_id": "108031879",
+   "type": 11,
+   "heading": "Artigo 23.º — Transferência de elementos de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transferência de elementos de prova\n\n1 - Após a execução da DEI, a autoridade de execução transfere para as autoridades competentes do Estado de emissão os elementos de prova obtidos ou já na posse das autoridades do Estado de execução.\n\n2 - Sempre que solicitado na DEI, se possível de acordo com a lei do Estado de execução, os elementos de prova são imediatamente transferidos para as autoridades competentes do Estado de emissão que assistam na execução da DEI, nos termos do artigo 27.º\n\n3 - A transferência dos elementos de prova pode ser suspensa até ser proferida decisão sobre o recurso que tenha sido interposto nos termos do n.º 4 do artigo 45.º, a menos que a autoridade de emissão indique na DEI que a transferência imediata é essencial para o desenvolvimento da investigação ou para a preservação de direitos individuais.\n\n4 - A transferência é suspensa se for suscetível de causar danos graves e irreversíveis à pessoa em causa.\n\n5 - Ao transferir os elementos de prova obtidos, a autoridade de execução indica se pretende que estes sejam devolvidos logo que deixem de ser necessários no Estado de emissão.\n\n6 - Podem ser transferidos temporariamente para o Estado da emissão os objetos, documentos ou dados pertinentes para outros processos nacionais, na condição de serem devolvidos assim que deixarem de ser necessários no Estado de emissão, ou em qualquer outra altura ou ocasião acordada entre as autoridades competentes."
+  },
+  "108033431": {
+   "fragment_id": "108031880",
+   "type": 11,
+   "heading": "Artigo 24.º — Motivos de adiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Motivos de adiamento\n\n1 - O reconhecimento ou a execução de uma DEI podem ser adiados:\n\na) Durante um prazo razoável sempre que a execução possa prejudicar uma investigação ou ação penal em curso, por um período que o Estado de execução considere razoável;\n\nb) Sempre que os objetos, documentos ou dados em causa estejam a ser utilizados noutro processo, até deixarem de ser necessários para esse efeito.\n\n2 - Cessando o motivo de adiamento, a autoridade de execução toma imediatamente as medidas necessárias à execução e informa a autoridade de emissão, por qualquer meio que permita conservar um registo escrito."
+  },
+  "108033432": {
+   "fragment_id": "108031881",
+   "type": 11,
+   "heading": "Artigo 25.º — Dever de informar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Dever de informar\n\n1 - A autoridade de execução acusa a receção da DEI sem demora, e em qualquer caso no prazo de uma semana a contar da data da receção, preenchendo e enviando o formulário constante do anexo II à presente lei, da qual faz parte integrante.\n\n2 - Uma autoridade que receba uma DEI para a qual não é competente transmite-a à autoridade de execução competente, dando disso conhecimento à autoridade de emissão, através do formulário referido no número anterior, e cumprindo sempre o dever de informação a que se refere o n.º 1.\n\n3 - Sem prejuízo do disposto nos n.os 4 e n.º 5 do artigo 21.º, a autoridade de execução informa imediatamente, por qualquer meio, a autoridade de emissão, sempre que:\n\na) Seja impossível tomar uma decisão sobre o reconhecimento ou a execução, em virtude de o preenchimento do formulário constante do anexo I à presente lei estar incompleto ou manifestamente incorreto ou não se encontrar traduzido nos termos do n.º 5 do artigo 18.º;\n\nb) Durante a execução, considerar adequado, sem averiguações suplementares, proceder a investigações que não puderam ser especificadas ou previstas quando foi emitida a DEI, de modo a permitir à autoridade de emissão adotar novas medidas no caso em apreço; ou\n\nc) Seja entendido que não podem ser cumpridas as formalidades e procedimentos expressamente indicados pela autoridade de emissão.\n\n4 - A pedido da autoridade de emissão a informação a que se refere o número anterior é confirmada sem demora, por qualquer meio que permita conservar um registo escrito.\n\n5 - Sem prejuízo do disposto nos n.os 4 e 5 do artigo 21.º, a autoridade de execução informa, sem demora, a autoridade de emissão, por qualquer meio que permita conservar um registo escrito:\n\na) De qualquer decisão de não reconhecimento ou não execução ou de qualquer decisão de recurso a um tipo diferente de medida de investigação tomada de acordo com o disposto nos artigos 22.º e 21.º;\n\nb) De qualquer decisão de adiamento da execução ou do reconhecimento, tomada de acordo com o disposto no artigo 24.º, bem como dos motivos do adiamento e, se possível, da duração previsível deste."
+  },
+  "108033433": {
+   "fragment_id": "108031882",
+   "type": 11,
+   "heading": "Artigo 26.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Prazos\n\n1 - A decisão sobre o reconhecimento a que se refere o artigo 18.º é proferida com a mesma celeridade e prioridade dos processos nacionais semelhantes e, em todo o caso, não ultrapassando o prazo máximo de 30 dias a contar da receção da DEI pela autoridade de execução.\n\n2 - Sem prejuízo do disposto do número seguinte, inexistindo motivo de adiamento ou estando os elementos de prova na posse das autoridades nacionais, a DEI é executada no prazo de 90 dias a contar da data da decisão referida no número anterior.\n\n3 - A autoridade de execução leva em conta, na medida em que for possível, a declaração da autoridade de emissão de que é necessário o cumprimento da DEI num prazo mais curto, devido aos prazos processuais, à gravidade da infração ou a outras circunstâncias que imponham particular urgência, ou de que a medida deve ser executada numa determinada data.\n\n4 - Quando não for possível o cumprimento do prazo previsto no n.º 1, ou respeitar a data a que se refere o número anterior, a autoridade de execução informa a autoridade de emissão, por qualquer meio, indicando os motivos do atraso e o prazo considerado necessário para a decisão.\n\n5 - No caso previsto no número anterior, o prazo referido no n.º 1 é prorrogado, no máximo, por um período de 30 dias.\n\n6 - Quando não for possível cumprir o prazo estabelecido no n.º 2, a autoridade nacional de execução informa a autoridade de emissão, sem demora e por qualquer meio, indicando os motivos do atraso, e consulta-a sobre o calendário adequado para executar a medida de investigação."
+  },
+  "108033434": {
+   "fragment_id": "108031883",
+   "type": 11,
+   "heading": "Artigo 27.º — Coadjuvação na execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Coadjuvação na execução\n\n1 - A autoridade de execução satisfaz o pedido de coadjuvação a que se refere o artigo 15.º desde que não seja contrário aos princípios fundamentais do seu direito nacional, nem prejudique os interesses nacionais essenciais de segurança.\n\n2 - É obrigatória a presença e direção das autoridades nacionais nos atos e diligências em que participem os agentes do Estado de emissão em território português.\n\n3 - A autoridade de execução pode consultar a autoridade de emissão, pelos meios que considerar adequados, para facilitar a aplicação do presente artigo."
+  },
+  "108033435": {
+   "fragment_id": "108031884",
+   "type": 11,
+   "heading": "Artigo 28.º — Responsabilidade penal dos agentes do Estado de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Responsabilidade penal dos agentes do Estado de emissão\n\nPara efeitos de aplicação da presente lei, os agentes do Estado de emissão são equiparados a agentes do Estado de execução no que respeita às infrações que cometam ou de que sejam vítimas, enquanto estiverem presentes no território do Estado de execução."
+  },
+  "108033436": {
+   "fragment_id": "108031885",
+   "type": 11,
+   "heading": "Artigo 29.º — Responsabilidade civil dos agentes do Estado de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Responsabilidade civil dos agentes do Estado de emissão\n\n1 - Quando os agentes de um Estado de emissão estiverem presentes no território de outro Estado membro para efeitos de aplicação da presente lei, aquele Estado é responsável por quaisquer danos por eles causados no decurso das suas operações, de acordo com a lei do Estado membro em cujo território estejam a atuar.\n\n2 - O Estado membro em cujo território sejam causados os danos a que se refere o número anterior assegura a sua reparação em condições idênticas às aplicáveis aos danos causados pelos seus próprios agentes.\n\n3 - O Estado membro cujos agentes tenham causado danos a qualquer pessoa no território de outro Estado membro reembolsa integralmente os montantes pagos por este às vítimas ou aos seus sucessores.\n\n4 - Sem prejuízo do exercício dos seus direitos em relação a terceiros e do disposto no número anterior, o Estado Português renuncia, nos casos a que se refere o n.º 1, a solicitar ao Estado estrangeiro a reparação dos danos por si sofridos no âmbito da aplicação da presente lei."
+  },
+  "108033437": {
+   "fragment_id": "108031886",
+   "type": 11,
+   "heading": "Artigo 30.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Confidencialidade\n\n1 - A autoridade nacional de execução garante, nos termos da lei, a confidencialidade dos factos e do conteúdo da DEI, exceto no que for necessário para executar a medida de investigação.\n\n2 - A autoridade nacional de execução informa, sem demora, a autoridade de emissão, caso não seja possível assegurar a confidencialidade dos factos e do conteúdo da DEI, nos termos do número anterior."
+  },
+  "108033438": {
+   "fragment_id": "108031887",
+   "type": 11,
+   "heading": "Artigo 31.º — Legislação nacional aplicável à execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Legislação nacional aplicável à execução\n\nA DEI é executada nos termos da presente lei, de acordo com o n.º 2 do artigo 2.º, sendo subsidiariamente aplicável, na sua falta ou insuficiência, o disposto no Código de Processo Penal e na legislação complementar relativa a medidas de investigação específicas, bem como o disposto na legislação aplicável às contraordenações a que a DEI diz respeito."
+  },
+  "108033439": {
+   "fragment_id": "108031888",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições específicas relativas a determinadas medidas de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições específicas relativas a determinadas medidas de investigação"
+  },
+  "108033440": {
+   "fragment_id": "108031889",
+   "type": 8,
+   "heading": "Secção I — Transferência temporária de pessoas detidas para efeitos de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Transferência temporária de pessoas detidas para efeitos de investigação"
+  },
+  "108033441": {
+   "fragment_id": "108031890",
+   "type": 11,
+   "heading": "Artigo 32.º — Transferência temporária de pessoas detidas para o Estado de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Transferência temporária de pessoas detidas para o Estado de emissão\n\n1 - Pode ser emitida uma DEI para a transferência temporária de uma pessoa detida no Estado de execução, tendo em vista a execução de uma medida de investigação em que seja necessária a sua presença no território do Estado de emissão, desde que seja garantida a devolução da pessoa às autoridades do Estado de execução, no prazo estabelecido pela autoridade de execução, após consultas, se necessário, entre esta e as autoridades de emissão.\n\n2 - Para além de poder ser recusada com fundamento nos motivos de não reconhecimento ou não execução previstos no artigo 22.º, a transferência temporária também é recusada se:\n\na) A pessoa detida não der o seu consentimento;\n\nb) A transferência for suscetível de prolongar a detenção para além dos limites legalmente previstos.\n\n3 - Sem prejuízo do disposto na alínea a) do número anterior, caso o Estado de execução o considere necessário para os efeitos aí previstos, atendendo à idade da pessoa ou ao seu estado físico ou mental, é dada ao seu representante legal a possibilidade de se pronunciar sobre a transferência temporária.\n\n4 - A pessoa transferida temporariamente para outro Estado membro continua detida no território do Estado de emissão e, se for caso disso, no território do Estado membro de trânsito pelos atos praticados ou condenações que determinaram a privação da liberdade no Estado de execução, a não ser que as autoridades deste Estado solicitem a sua libertação.\n\n5 - O tempo de privação da liberdade no território dos Estados de emissão e de trânsito não suspende o decurso do prazo de prisão preventiva e é considerado no cumprimento da pena ou da medida de segurança aplicadas no Estado de execução, mantendo-se a pessoa, consoante o caso, numa destas situações quando Portugal for o Estado de execução.\n\n6 - Para efeitos do disposto nos números anteriores, sendo Portugal o Estado de execução, é competente para o reconhecimento e para garantir a execução e para ordenar a libertação o juiz de instrução ou o juiz que aplicou a medida de coação de prisão preventiva ou o tribunal à ordem do qual a pessoa está privada da liberdade.\n\n7 - As disposições práticas relativas à transferência temporária, incluindo as condições concretas de alojamento no Estado de emissão, bem como as datas da transferência e da devolução são acordadas entre as autoridades competentes do Estado de emissão e do Estado de execução, assegurando-se que serão tidos em conta o estado de saúde física ou mental da pessoa e o nível de segurança exigido no Estado de emissão.\n\n8 - As despesas decorrentes da aplicação do presente artigo são suportadas nos termos do disposto no artigo 9.º, com exceção das despesas decorrentes da transferência para o Estado de emissão e do seu retorno, que são suportadas por esse Estado.\n\n9 - A transferência efetua-se pelos serviços do Ministério da Justiça, de acordo com a autoridade do Estado de emissão para onde a mesma deve ser transferida, relativamente ao meio de transporte, data, local e hora de entrega.\n\n10 - No âmbito da execução de uma DEI, o trânsito da pessoa privada da liberdade pelo território ou pelo espaço aéreo nacional é autorizado pelo Ministro da Justiça, conquanto se lhe não oponham razões de ordem pública ou de segurança do Estado, aplicando-se, com as necessárias adaptações, o disposto no artigo 43.º da Lei n.º 144/99, de 31 de agosto."
+  },
+  "108033442": {
+   "fragment_id": "108031891",
+   "type": 11,
+   "heading": "Artigo 33.º — Transferência temporária de pessoas detidas para o Estado de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Transferência temporária de pessoas detidas para o Estado de execução\n\n1 - Pode ser emitida uma DEI para a transferência temporária de uma pessoa detida no Estado de emissão, tendo em vista a concretização de uma medida de investigação para recolha de prova, em que seja necessária a sua presença no território nacional.\n\n2 - É correspondentemente aplicável o disposto na alínea a) do n.º 2 e nos n.os 3, 4, 7, 8 e 10 do artigo anterior.\n\n3 - As despesas decorrentes da aplicação do presente artigo são suportadas nos termos do disposto no artigo 9.º, com exceção das despesas decorrentes da transferência para o Estado de execução e do seu retorno que são suportadas pelo Estado de emissão."
+  },
+  "108033443": {
+   "fragment_id": "108031892",
+   "type": 11,
+   "heading": "Artigo 34.º — Imunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Imunidade\n\n1 - A pessoa transferida nos termos dos artigos 32.º e 33.º não pode ser perseguida, julgada, detida ou sujeita a qualquer outra restrição da sua liberdade por factos praticados ou condenações proferidas antes da sua transferência e não especificados na emissão da DEI.\n\n2 - A imunidade prevista no número anterior cessa quando, durante um período de 15 dias consecutivos a contar da data em que a sua presença deixou de ser requerida pelas autoridades de emissão, a pessoa teve oportunidade de abandonar voluntariamente o território do Estado para que foi transferida temporariamente e, apesar disso, aí permaneceu ou, tendo saído, aí regressou."
+  },
+  "108033444": {
+   "fragment_id": "108031893",
+   "type": 8,
+   "heading": "Secção II — Audição por videoconferência e por conferência telefónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Audição por videoconferência e por conferência telefónica"
+  },
+  "108033445": {
+   "fragment_id": "108031894",
+   "type": 11,
+   "heading": "Artigo 35.º — Audição por videoconferência ou por outros meios de transmissão audiovisual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Audição por videoconferência ou por outros meios de transmissão audiovisual\n\n1 - Caso uma pessoa se encontre no território do Estado de execução e deva ser ouvida como testemunha ou perito pelas autoridades competentes do Estado de emissão, pode ser emitida uma DEI para a sua audição por videoconferência ou por outros meios de transmissão audiovisual.\n\n2 - Pode também ser executada uma DEI para a audição de um suspeito ou arguido por videoconferência ou outros meios de transmissão audiovisual.\n\n3 - Para além de poder ser recusada com fundamento nos motivos de não reconhecimento ou de não execução previstos no artigo 22.º, a execução pelos meios previstos no presente artigo também pode ser recusada se:\n\na) O suspeito ou arguido não der o seu consentimento, relativamente a ato em que tenha de intervir;\n\nb) A execução de tal medida de investigação num caso concreto for contrária aos princípios fundamentais da lei do Estado de execução.\n\n4 - A autoridade de emissão e a autoridade de execução acordam as disposições práticas da audição, devendo a autoridade nacional de execução comprometer-se:\n\na) A notificar a testemunha ou o perito em causa, indicando a data e o local da audição;\n\nb) A convocar o suspeito ou arguido para comparecer na audição, na forma estabelecida pela lei do Estado de execução, e a informá-lo dos seus direitos ao abrigo da lei do Estado de emissão, em tempo útil que lhe permita exercer efetivamente os seus direitos de defesa;\n\nc) A assegurar que seja identificada a pessoa a ouvir.\n\n5 - Se, no caso concreto, a autoridade de execução não dispuser dos meios técnicos necessários à realização da audição, estes podem ser-lhe facultados pelo Estado de emissão, mediante acordo.\n\n6 - As audições de testemunhas e de peritos realizadas em território nacional regem-se pelas disposições que seriam aplicáveis caso a audição se realizasse no âmbito de um processo nacional no que se refere à recusa em prestar depoimento ou declarações e à sua falsidade."
+  },
+  "108033446": {
+   "fragment_id": "108031895",
+   "type": 11,
+   "heading": "Artigo 36.º — Regras e procedimentos da audição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Regras e procedimentos da audição\n\n1 - À audição por videoconferência ou outros meios de transmissão audiovisual aplicam-se as seguintes regras:\n\na) Durante a audição está presente a autoridade competente do Estado de execução, se necessário assistida por um intérprete, a qual é responsável por assegurar a identificação da pessoa a ouvir e o respeito pelos princípios fundamentais do Estado de execução;\n\nb) Se necessário, são acordadas entre as autoridades competentes do Estado de emissão e do Estado de execução as medidas de proteção da pessoa a ouvir;\n\nc) A audição é conduzida diretamente pela autoridade competente do Estado de emissão ou sob a sua direção, em conformidade com a lei desse Estado;\n\nd) O Estado de execução assegura que a pessoa a ouvir seja assistida por um intérprete, se necessário, caso o Estado de emissão ou a pessoa a ouvir o requeira;\n\ne) Os suspeitos ou arguidos são informados, antes da audição, dos direitos processuais que lhes assistem, incluindo o direito de se recusarem a prestar declarações, ao abrigo da lei do Estado de execução ou do Estado de emissão;\n\nf) As testemunhas podem invocar o direito de se recusarem a depor e os peritos o direito a recusar a prestação de esclarecimentos que eventualmente lhes seja conferido pela lei do Estado de execução ou do Estado de emissão, e são informados deste seu direito antes da audição.\n\n2 - No caso previsto na alínea a) do número anterior, se considerar que os princípios fundamentais da lei do Estado de execução são violados durante a audição, a autoridade nacional toma imediatamente as medidas necessárias para assegurar que a audição prossiga de acordo com estes princípios.\n\n3 - Sem prejuízo das medidas eventualmente acordadas para a proteção das pessoas, no final da audição, a autoridade de execução lavra um auto do qual constem a data e o local da audição, a identidade da pessoa ouvida, a identidade e funções de todas as outras pessoas que participaram na audição, quaisquer juramentos prestados e as condições técnicas em que decorreu a audição.\n\n4 - O auto é transmitido pela autoridade de execução à autoridade de emissão."
+  },
+  "108033447": {
+   "fragment_id": "108031896",
+   "type": 11,
+   "heading": "Artigo 37.º — Audição por conferência telefónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Audição por conferência telefónica\n\n1 - Caso uma pessoa se encontre no território do Estado de execução e deva ser ouvida, na qualidade de testemunha ou de perito, pelas autoridades competentes, de outro Estado membro, pode ser executada uma DEI para audição dessa pessoa por conferência telefónica.\n\n2 - A DEI é emitida se a comparência física da pessoa a ouvir não for adequada ou possível, após ponderação, pela autoridade de emissão, de outros meios adequados à audição.\n\n3 - Salvo acordo em contrário, aplica-se, com as necessárias adaptações, o disposto nos artigos 35.º e 36.º, na parte respeitante à audição de testemunhas e de peritos."
+  },
+  "108033448": {
+   "fragment_id": "108031897",
+   "type": 8,
+   "heading": "Secção III — Informações sobre contas e operações bancárias e financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Informações sobre contas e operações bancárias e financeiras"
+  },
+  "108033449": {
+   "fragment_id": "108031898",
+   "type": 11,
+   "heading": "Artigo 38.º — Informações sobre contas bancárias e outras contas financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Informações sobre contas bancárias e outras contas financeiras\n\n1 - Pode ser emitida uma DEI para verificar se uma pessoa singular ou coletiva sujeita a um processo penal possui ou controla uma ou mais contas de qualquer tipo em bancos, situados no território do Estado de execução, e, em caso afirmativo, para obter todos os dados das contas identificadas.\n\n2 - As informações a que se refere o número anterior incluem também, se solicitado na DEI, as contas para as quais tem procuração a pessoa sujeita ao processo penal em causa.\n\n3 - A obrigação de prestação de informação estabelecida no presente artigo só é exigível na medida em que as informações se encontrem na posse do banco em que se encontra domiciliada a conta.\n\n4 - A autoridade de emissão indica na DEI os motivos por que considera que as informações solicitadas podem ser fundamentais para a finalidade do processo penal em que é emitida e especifica os motivos que a levam a presumir que as contas em causa pertencem a bancos situados no Estado de execução, indicando, na medida em que disponha de indícios, os bancos que poderão estar envolvidos. A autoridade de emissão inclui na DEI quaisquer informações disponíveis que possam facilitar a sua execução.\n\n5 - Pode também ser emitida uma DEI para determinar se uma pessoa singular ou coletiva sujeita a um processo penal possui ou controla uma ou mais contas em instituições financeiras não bancárias situadas no território do Estado de execução, aplicando-se com as necessárias adaptações o disposto nos n.os 2, 3 e 4.\n\n6 - No caso previsto no número anterior, para além de poder ser recusada com fundamento nos motivos de não reconhecimento ou não execução referidos no artigo 22.º, a execução da DEI pode ainda ser recusada se a execução da medida de investigação não for admitida num processo nacional semelhante.\n\n7 - Os membros dos órgãos sociais das instituições bancárias e das instituições financeiras não bancárias, os seus empregados e as pessoas que a elas prestem serviço ficam vinculadas pelo dever de segredo quanto às medidas de investigação de que tomem conhecimento, não podendo, nomeadamente, divulgá-los às pessoas cujas contas são controladas ou sobre as quais foram pedidas informações ou documentos.\n\n8 - Às obrigações de informação previstas no presente artigo aplica-se o disposto no capítulo V da Lei n.º 5/2002, 11 de janeiro, alterada pela Lei n.º 19/2008, de 21 de abril, pelos Decretos-Leis n.os 317/2009, de 30 de outubro, e 242/2012, de 7 de novembro, e pelas Leis n.os 60/2013, de 23 de agosto, e 55/2015, de 23 de junho, e 30/2017, de 30 de maio."
+  },
+  "108033450": {
+   "fragment_id": "108031899",
+   "type": 11,
+   "heading": "Artigo 39.º — Informações sobre operações bancárias e outras operações financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Informações sobre operações bancárias e outras operações financeiras\n\n1 - Pode ser emitida uma DEI para obtenção de dados relativos a determinadas contas bancárias e às operações bancárias realizadas durante um determinado período através de uma ou várias contas especificadas, incluindo os dados relativos às contas debitadas ou creditadas.\n\n2 - A obrigação estabelecida no presente artigo só é aplicável na medida em que as informações se encontrem na posse do banco em que se encontre domiciliada a conta.\n\n3 - A autoridade de emissão indica na DEI os motivos pelos quais considera que as informações solicitadas são relevantes para o processo penal em causa.\n\n4 - Pode também ser emitida uma DEI para obtenção das informações referidas no n.º 1, relativas a operações financeiras efetuadas por instituições financeiras não bancárias, aplicando-se, com as devidas adaptações, o disposto nos n.os 2 e 3.\n\n5 - No caso previsto no número anterior, para além de poder ser recusada com fundamento nos motivos de não reconhecimento ou não execução referidos no artigo 22.º, a execução da DEI pode ainda ser recusada se a execução da medida de investigação não for admitida num processo nacional semelhante."
+  },
+  "108033451": {
+   "fragment_id": "108031900",
+   "type": 8,
+   "heading": "Secção IV — Medidas para recolha de prova em tempo real",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Medidas para recolha de prova em tempo real"
+  },
+  "108033452": {
+   "fragment_id": "108031901",
+   "type": 11,
+   "heading": "Artigo 40.º — Recolha de elementos de prova em tempo real",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Recolha de elementos de prova em tempo real\n\n1 - Pode ser emitida uma DEI com vista à execução de uma medida de investigação que exija a recolha de elementos de prova em tempo real, de forma ininterrupta e durante um determinado período de tempo, nomeadamente as medidas de investigação que requerem:\n\na) Vigilância de operações bancárias ou de outras operações financeiras efetuadas através de uma ou várias contas nela especificadas;\n\nb) Entregas vigiadas ou controladas no território do Estado de execução.\n\n2 - Nestes casos, para além de poder ser recusada com fundamento nos motivos de não reconhecimento ou não execução referidos no artigo 22.º, a DEI pode ser recusada se a medida de investigação em causa não for admitida num processo nacional semelhante.\n\n3 - A autoridade de emissão indica na DEI os motivos pelos quais considera que as medidas de investigação solicitadas são relevantes para o processo penal em causa.\n\n4 - O Estado de emissão e o Estado de execução acordam as disposições práticas relativas à medida de investigação referida na alínea b) do n.º 1.\n\n5 - A direção e controlo das operações relativas à execução da DEI cabem às autoridades competentes do Estado de execução.\n\n6 - É competente para o reconhecimento da DEI o magistrado do Departamento de Investigação e Ação Penal de Lisboa."
+  },
+  "108033453": {
+   "fragment_id": "108031902",
+   "type": 8,
+   "heading": "Secção V — Investigações encobertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Investigações encobertas"
+  },
+  "108033454": {
+   "fragment_id": "108031903",
+   "type": 11,
+   "heading": "Artigo 41.º — Ações encobertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Ações encobertas\n\n1 - Pode ser emitida uma DEI para solicitar ao Estado de execução que preste assistência ao Estado de emissão na realização de investigações criminais por agentes encobertos ou que atuem sob falsa identidade.\n\n2 - A autoridade de emissão indica na DEI os motivos pelos quais considera que a investigação encoberta é relevante para a finalidade do processo penal em causa.\n\n3 - Para além dos motivos de não reconhecimento ou não execução referidos no artigo 22.º, a execução da DEI pode ainda ser recusada se:\n\na) A execução da medida de investigação não for admitida num processo nacional semelhante; ou\n\nb) Não for possível chegar a acordo sobre as condições de realização da medida de investigação.\n\n4 - As ações encobertas em território nacional são realizadas de acordo com o disposto na Lei n.º 101/2001, de 25 de agosto, alterada pelas Leis n.os 60/2013, de 23 de agosto, e 61/2015, de 24 de junho, e no artigo 19.º da Lei n.º 109/2009, de 15 de setembro, cabendo às autoridades portuguesas competentes a direção e controlo das operações de investigação.\n\n5 - À competência para o reconhecimento e para garantir a execução da DEI é aplicável o n.º 3 do artigo 3.º da Lei n.º 101/2001, de 25 de agosto, alterada pelas Leis n.os 60/2013, de 23 de agosto, e 61/2015, de 24 de junho.\n\n6 - A duração da ação encoberta, as condições em que decorre e o estatuto jurídico dos agentes nela envolvidos, são acordados entre o Estado de emissão e o Estado de execução, levando-se em conta o disposto na Lei n.º 101/2001, de 25 de agosto, alterada pelas Leis n.os 60/2013, de 23 de agosto, e 61/2015, de 24 de junho, e no número seguinte.\n\n7 - Os agentes de investigação do Estado de emissão que participem em ações encobertas em território nacional nos termos do presente artigo têm, durante o período de permanência, estatuto idêntico ao dos agentes de investigação criminal portugueses, nos termos da legislação aplicável a estes."
+  },
+  "108033455": {
+   "fragment_id": "108031904",
+   "type": 1,
+   "heading": "Capítulo V — Interceção de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Interceção de telecomunicações"
+  },
+  "108033456": {
+   "fragment_id": "108031905",
+   "type": 11,
+   "heading": "Artigo 42.º — Interceção de telecomunicações com assistência técnica de outro Estado membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Interceção de telecomunicações com assistência técnica de outro Estado membro\n\n1 - Pode ser emitida uma DEI para a interceção de telecomunicações em caso de necessidade de assistência técnica noutro Estado.\n\n2 - Quando haja mais de um Estado membro em condições de prestar toda a assistência técnica necessária para a interceção de telecomunicações, a DEI deve ser transmitida a apenas a um deles, sendo sempre dada prioridade ao Estado membro onde está ou estará o sujeito que é alvo da interceção.\n\n3 - A DEI a que se refere o n.º 1 contém ainda os seguintes elementos:\n\na) Informações destinadas a identificar a pessoa visada pela interceção;\n\nb) A duração pretendida da interceção;\n\nc) A indicação de dados técnicos suficientes, em especial a identificação do alvo, para assegurar que possa ser executada.\n\n4 - A autoridade de emissão indica na DEI os motivos pelos quais considera que a medida de investigação indicada é relevante para o processo penal em causa.\n\n5 - Para além de poder ser recusada com fundamento nos motivos de não reconhecimento ou não execução referidos no artigo 22.º, a execução da DEI pode ainda ser recusada se a execução da medida de investigação não for admitida num processo nacional semelhante.\n\n6 - A DEI referida no n.º 1 pode ser executada mediante:\n\na) A transmissão imediata das telecomunicações ao Estado de emissão; ou\n\nb) A interceção, registo e posterior transmissão do resultado da interceção das telecomunicações ao Estado de emissão.\n\n7 - A autoridade de emissão e a autoridade de execução consultam-se mutuamente para alcançar um acordo sobre se a interceção é efetuada em conformidade com a alínea a) ou a alínea b) do número anterior.\n\n8 - Ao emitir a DEI referida no n.º 1 ou durante a interceção, a autoridade de emissão pode também, se tiver motivo para tal, requerer a transcrição, descodificação ou decifragem do registo, sob reserva do acordo da autoridade de execução.\n\n9 - À execução em território nacional da DEI a que se refere o presente artigo aplica-se o disposto nos artigos 187.º a 190.º do Código de Processo Penal em tudo o que não contrarie o disposto na presente lei.\n\n10 - É aplicável o disposto na Lei n.º 109/2009, de 15 de setembro, relativamente a uma DEI para obtenção de dados informáticos.\n\n11 - As despesas decorrentes da aplicação do presente artigo são suportadas nos termos do artigo 9.º, com exceção das despesas decorrentes da transcrição, descodificação e decifragem das comunicações intercetadas, que são suportadas pelo Estado de emissão."
+  },
+  "108033457": {
+   "fragment_id": "108031906",
+   "type": 11,
+   "heading": "Artigo 43.º — Notificação do Estado membro onde se encontra o sujeito alvo da interceção de telecomunicações e cuja assistência técnica não é necessária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Notificação do Estado membro onde se encontra o sujeito alvo da interceção de telecomunicações e cuja assistência técnica não é necessária\n\n1 - Caso seja autorizada a interceção de telecomunicações pela autoridade competente de um Estado membro («Estado intercetante»), para efeitos da execução de uma medida de investigação em execução de uma DEI, e o endereço de comunicação do sujeito alvo da interceção estiver a ser utilizado no território de outro Estado membro («Estado notificado»), cuja assistência técnica não seja necessária para efetuar a interceção, a autoridade nacional competente do Estado intercetante informa dessa interceção a autoridade competente do Estado notificado:\n\na) Antes da interceção, se for do conhecimento da autoridade competente que o sujeito alvo da interceção está ou estará, quando da interceção, no território do Estado notificado;\n\nb) Durante a interceção ou depois de esta ter sido feita, logo que tenha conhecimento de que o sujeito alvo da interceção está ou esteve, durante a interceção, no território do Estado notificado.\n\n2 - A notificação referida no número anterior é efetuada através do formulário que consta do anexo III à presente lei e da qual faz parte integrante.\n\n3 - Caso a interceção não seja admitida num processo nacional semelhante, a autoridade competente do Estado notificado informa o Estado intercetante, no prazo mais breve possível, com o limite máximo de 96 horas após receção da notificação referida no n.º 1, de que:\n\na) A interceção não pode ser feita ou vai ser terminada; e\n\nb) Sendo caso disso, não podem ser utilizados dados já intercetados enquanto o sujeito que é alvo da interceção se encontrava no seu território ou só podem ser utilizados sob certas condições, que especificará. Neste caso, a autoridade competente do Estado notificado informa a autoridade competente do Estado intercetante das razões que justificam tais condições.\n\n4 - À notificação a que se refere o n.º 2 é aplicável, com as devidas adaptações, o disposto no n.º 3 do artigo 6.º\n\n5 - É competente para receber a notificação a que se refere o n.º 2 o Departamento Central de Cooperação Internacional da Polícia Judiciária.\n\n6 - A notificação referida no número anterior é transmitida no mais breve lapso de tempo possível, mas nunca superior a 48 horas, ao Departamento de Investigação e Ação Penal de Lisboa para que este a apresente ao juiz de instrução criminal de Lisboa, para efeitos do disposto no n.º 3."
+  },
+  "108033458": {
+   "fragment_id": "108031907",
+   "type": 1,
+   "heading": "Capítulo VI — Medidas provisórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Medidas provisórias"
+  },
+  "108033459": {
+   "fragment_id": "108031908",
+   "type": 11,
+   "heading": "Artigo 44.º — Medidas provisórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Medidas provisórias\n\n1 - Pode ser emitida uma DEI para tomar qualquer medida destinada a impedir provisoriamente a destruição, transformação, deslocação, transferência ou alienação de um elemento que possa servir de prova.\n\n2 - A autoridade de emissão indica na DEI se os elementos de prova devem ser transferidos para o Estado de emissão ou devem permanecer em território do Estado de execução.\n\n3 - Quando, de acordo com o número anterior, for indicado que os elementos de prova devem permanecer em território do Estado de execução, a autoridade de emissão menciona a data em que cessa a medida provisória referida no n.º 1 ou a data prevista em que será apresentado o pedido de transferência das provas para o Estado de emissão.\n\n4 - A autoridade de execução decide e comunica a sua decisão sobre a medida provisória o mais rapidamente possível e, sempre que tal for praticável, no prazo de 24 horas a contar da receção da DEI.\n\n5 - A autoridade de execução reconhece e executa a DEI e transfere os elementos de prova de acordo com os procedimentos estabelecidos na presente lei.\n\n6 - Depois de consultar a autoridade de emissão, a autoridade de execução pode, em conformidade com as leis e práticas nacionais, estabelecer condições adequadas às circunstâncias do caso, a fim de limitar a duração do período em que é mantida a medida provisória referida no n.º 1.\n\n7 - Se, de acordo com as condições referidas no n.º 5, a autoridade de execução previr fazer cessar a medida provisória, informa desse facto a autoridade de emissão, dando-lhe a possibilidade de apresentar as suas observações.\n\n8 - A autoridade de emissão pode, a todo o tempo, decidir fazer cessar a apreensão, disso notificando a autoridade de execução.\n\n9 - Os procedimentos de execução da DEI em território nacional regem-se pelo disposto na lei processual penal em matéria de apreensões de objetos e outros elementos suscetíveis de servir de prova.\n\n10 - A autoridade nacional de execução notifica de imediato a autoridade de emissão sempre que se verifique impossibilidade prática de executar a decisão de apreensão por os objetos ou outros elementos de prova terem desaparecido, terem sido destruídos ou não poderem ser encontrados no local indicado na DEI ou por esta indicação não ter sido suficientemente precisa mesmo após consulta ao Estado de emissão.\n\n11 - Antes de proceder à notificação a que refere o número anterior, a autoridade nacional de execução procede às diligências necessárias destinadas a localizar os bens ou elementos de prova que não puderam ser encontrados."
+  },
+  "108033460": {
+   "fragment_id": "108031909",
+   "type": 1,
+   "heading": "Capítulo VII — Modos de impugnação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Modos de impugnação"
+  },
+  "108033461": {
+   "fragment_id": "108031910",
+   "type": 11,
+   "heading": "Artigo 45.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Recursos\n\n1 - São asseguradas vias de recurso equivalentes às existentes em processos nacionais semelhantes.\n\n2 - Os fundamentos materiais subjacentes à emissão de uma DEI só podem ser impugnados no Estado de emissão.\n\n3 - Sendo Portugal o Estado de emissão, o recurso da decisão judicial que ordena a medida de investigação e, consequentemente, a emissão da DEI, rege-se, quanto à admissibilidade e regime, pelo disposto no Código de Processo Penal.\n\n4 - Sendo Portugal o Estado de execução é admissível recurso perante os tribunais portugueses de decisões judiciais relativas às formalidades e procedimentos de execução da medida de investigação, nos termos previstos no Código de Processo Penal quanto à admissibilidade e regime.\n\n5 - A informação sobre a possibilidade de, nos termos do direito interno, ser interposto recurso é prestada à pessoa ou pessoas visadas pela medida de investigação, se tal não comprometer a necessidade de garantir a confidencialidade da investigação.\n\n6 - A autoridade de emissão e a autoridade de execução informam-se mutuamente acerca dos recursos interpostos na sequência da emissão, reconhecimento e execução de uma DEI.\n\n7 - Se a impugnação do reconhecimento ou execução de uma DEI for procedente, essa decisão será tida em conta pela autoridade de emissão, de acordo com a lei nacional."
+  },
+  "108033462": {
+   "fragment_id": "108031911",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "108033463": {
+   "fragment_id": "108031912",
+   "type": 11,
+   "heading": "Artigo 46.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Disposições transitórias\n\n1 - Os pedidos de auxílio judiciário mútuo de outros Estados membros recebidos antes da entrada em vigor da presente lei, não vinculados à Diretiva 2014/41/UE do Parlamento Europeu e do Conselho, de 3 de abril de 2014, relativa à DEI em matéria penal, continuam a reger-se pelos instrumentos em vigor relativos ao auxílio judiciário mútuo em matéria penal.\n\n2 - Ao reconhecimento e execução de decisões de apreensão de elementos de prova emitidas por outros Estados membros e recebidas antes da entrada em vigor da presente lei aplica-se o disposto na Lei n.º 25/2009, de 5 de junho.\n\n3 - O n.º 1 do artigo 14.º, aplica-se, com as necessárias adaptações, a uma DEI emitida na sequência de uma decisão tomada antes da entrada em vigor da presente lei, ao abrigo da Decisão-Quadro 2003/577/JAI, do Conselho, de 22 de julho de 2003, para os efeitos previstos no n.º 1 do artigo 44.º\n\n4 - A partir da entrada em vigor da presente lei, os pedidos de auxílio judiciário mútuo em matéria penal são dirigidos aos Estados membros vinculados à Diretiva 2014/41/UE do Parlamento Europeu e do Conselho de 3 de abril de 2014 relativa à DEI em matéria penal de acordo com a presente lei, mesmo no caso de estes não a terem transposto.\n\n5 - Os pedidos de auxílio recebidos dos Estados membros a que se refere o número anterior, a partir da mesma data, são executados em conformidade com o previsto no presente diploma."
+  },
+  "108033464": {
+   "fragment_id": "108031913",
+   "type": 11,
+   "heading": "Artigo 47.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Direito subsidiário\n\nAos procedimentos a que se refere a presente lei aplica-se subsidiariamente o Código de Processo Penal e o disposto noutras normas processuais da legislação nacional aplicáveis."
+  },
+  "108033465": {
+   "fragment_id": "108031914",
+   "type": 11,
+   "heading": "Artigo 48.º — Relação com outros instrumentos jurídicos, acordos ou convénios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Relação com outros instrumentos jurídicos, acordos ou convénios\n\nA presente lei substitui, a partir da sua entrada em vigor, nas relações entre Portugal e os outros Estados membros vinculados à Diretiva 2014/41/UE do Parlamento Europeu e do Conselho, de 3 de abril de 2014, relativa à DEI em matéria penal, as disposições correspondentes das seguintes convenções:\n\na) Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal, do Conselho da Europa, de 20 de abril de 1959, e os seus dois Protocolos Adicionais, bem como os acordos bilaterais celebrados nos termos do artigo 26.º dessa Convenção;\n\nb) Convenção de Aplicação do Acordo de Schengen, de 19 de junho de 1990;\n\nc) Convenção relativa ao Auxílio Judiciário Mútuo em Matéria Penal entre os Estados Membros da União Europeia, de 29 de maio de 2000, e o respetivo Protocolo."
+  },
+  "108033466": {
+   "fragment_id": "108031915",
+   "type": 11,
+   "heading": "Artigo 49.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Revogação\n\nÉ revogada a Lei n.º 25/2009, de 5 de junho, que estabelece o regime jurídico da emissão e da execução de decisões de apreensão de bens ou elementos de prova na União Europeia, em cumprimento da Decisão Quadro n.º 2003/577/JAI do Conselho, de 22 de julho, no que respeita à execução das decisões de apreensão de elementos de prova."
+  },
+  "108033467": {
+   "fragment_id": "108031916",
+   "type": 11,
+   "heading": "Artigo 50.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "108033469": {
+   "fragment_id": "108031918",
+   "type": 14,
+   "heading": "Anexo I — Decisão Europeia de Investigação (DEI)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Decisão Europeia de Investigação (DEI)\n\n[a que se referem o n.º 1 do artigo 6.º, o n.º 1 do artigo 14.º, o n.º 2 do artigo 20.º e a alínea a) do n.º 3 do artigo 25.º]\n\nA presente Decisão Europeia de Investigação (DEI) foi emitida por uma autoridade competente. A autoridade de emissão certifica que a presente DEI é necessária e proporcional para efeitos do procedimento nela especificado, tendo em conta os direitos do suspeito ou arguido, e que as medidas de investigação requeridas poderiam ter sido ordenadas nas mesmas condições num processo nacional semelhante. Solicita-se a execução da medida ou medidas de investigação abaixo especificada(s), tendo devidamente em conta a confidencialidade da investigação, e a transferência dos elementos de prova obtidos com a execução da DEI.\n\n(ver documento original)"
+  },
+  "108033470": {
+   "fragment_id": "108031919",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 25.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 25.º)\n\nConfirmação da receção de uma Decisão Europeia de Investigação\n\nO presente formulário deve ser preenchido pela autoridade do Estado de execução que recebeu a Decisão Europeia de Investigação (DEI) a seguir indicada.\n\n(ver documento original)"
+  },
+  "108033471": {
+   "fragment_id": "108031920",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 2 do artigo 43.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 2 do artigo 43.º)\n\nNotificação\n\nO presente formulário destina-se a notificar um Estado membro da interceção de telecomunicações que será, esteja a ser ou tenha sido praticada no seu território sem a sua assistência técnica. Serve a presente para informar ... (Estado membro notificado) da interceção.\n\n(ver documento original)"
+  },
+  "108033472": {
+   "fragment_id": "108031921",
+   "type": 14,
+   "heading": "Anexo IV — [a que se refere a alínea a) do n.º 1 do artigo 22.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — [a que se refere a alínea a) do n.º 1 do artigo 22.º]\n\nCategorias de infrações a que se refere o artigo 22.º\n\nParticipação numa organização criminosa;\n\nTerrorismo;\n\nTráfico de seres humanos;\n\nExploração sexual de crianças e pornografia infantil;\n\nTráfico de estupefacientes e substâncias psicotrópicas;\n\nTráfico de armas, munições e explosivos;\n\nCorrupção;\n\nFraude, incluindo a fraude lesiva dos interesses financeiros da União Europeia na aceção da Convenção de 26 de julho de 1995 relativa à proteção dos interesses financeiros das Comunidades Europeias;\n\nBranqueamento dos produtos do crime;\n\nFalsificação de moeda, incluindo a contrafação do euro;\n\nCibercriminalidade;\n\nCrimes contra o ambiente, incluindo o tráfico de espécies animais e de espécies e variedades vegetais ameaçadas;\n\nAuxílio à entrada e à permanência irregulares;\n\nHomicídio voluntário, ofensas corporais graves;\n\nTráfico de órgãos e tecidos humanos;\n\nRapto, sequestro e tomada de reféns;\n\nRacismo e xenofobia;\n\nRoubo organizado ou à mão armada;\n\nTráfico de bens culturais, incluindo antiguidades e obras de arte;\n\nBurla;\n\nExtorsão de proteção e extorsão;\n\nContrafação e piratagem de produtos;\n\nFalsificação de documentos administrativos e respetivo tráfico;\n\nFalsificação de meios de pagamento;\n\nTráfico de substâncias hormonais e de outros estimuladores de crescimento;\n\nTráfico de materiais nucleares e radioativos;\n\nTráfico de veículos roubados;\n\nViolação;\n\nFogo posto;\n\nCrimes abrangidos pela jurisdição do Tribunal Penal Internacional;\n\nDesvio de avião ou navio;\n\nSabotagem."
+  },
+  "872271175": {
+   "fragment_id": "108021262",
+   "type": 11,
+   "heading": "Artigo 8.º — Proteção de dados pessoais",
+   "in_force_from": "2023-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 42/2023 - Diário da República n.º 155/2023, Série I de 2023-08-10](https://diariodarepublica.pt/dr/detalhe/lei/42-2023-217571942), em vigor a partir de 2023-08-11"
+   ],
+   "markdown": "###### Artigo 8.º — Proteção de dados pessoais\n\n1 - Na aplicação da presente lei os dados pessoais são protegidos e tratados em conformidade com a Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para efeitos de prevenção, investigação, deteção ou repressão de infrações penais ou execução de sanções penais e à livre circulação desses dados, e que revoga a Decisão-Quadro 2008/977/JAI do Conselho, de 27 de novembro de 2008, e de acordo com os princípios consagrados na Convenção do Conselho da Europa para a Proteção das Pessoas relativamente ao Tratamento Automatizado de Dados de Caráter Pessoal, de 28 de janeiro de 1981, e no seu Protocolo Adicional.\n\n2 - (Revogado.)\n\n3 - Ao tratamento de dados pessoais realizados no âmbito da presente lei é aplicável a Lei n.º 59/2019, de 8 de agosto, que aprova as regras relativas ao tratamento de dados pessoais para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, e a Lei n.º 34/2009, de 14 de julho, que estabelece o regime jurídico aplicável ao tratamento de dados referentes ao sistema judicial.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 42/2023 - Diário da República n.º 155/2023, Série I de 2023-08-10](https://diariodarepublica.pt/dr/detalhe/lei/42-2023-217571942), em vigor a partir de 2023-08-11"
+  },
+  "108033468": {
+   "fragment_id": "108031917",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de junho de 2017.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 3 de agosto de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 7 de agosto de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

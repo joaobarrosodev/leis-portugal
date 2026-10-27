@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:620342:por
+title: Portaria n.º 445/89
+short_title: null
+summary: Estabelece a aproximação aos limites comunitários dos teores de anidrido sulfuroso total nos vinhos para a campanha
+  vitivinícola de 1989-1990. Revoga a Portaria n.º 564/88, de 18 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 445/89
+official_date: null
+publication_date: '1989-06-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 136/1989, Série I de 1989-06-16
+  number: '136'
+  series: I
+  supplement: null
+  pages: 2349 - 2350
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/06/13600/23492350.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '620342'
+  dre_path: /dr/detalhe/portaria/445-1989-620342
+  internal: pt:dre:620342:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-1989-620342
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-1989-620342
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:53:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5a11dd45a5c7e106cc85d8d3f1fe6d946cbca7c8eb3517e732bd1b48c7abb25f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:53:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- TEOR de Anidrido Sulfuroso
+- Vinho
+relationships:
+- type: amended_by
+  target: pt:dre:557832:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:156977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380159:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:557832:por
+  label: "Revogada pela PORT.822/90.12.09.1990.MAPA, DR.IS [211] de 12.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/822-1990-557832
+  date: '1990-09-12'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:53:12Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 445/89
+
+de 16 de Junho
+
+Atendendo a que na campanha de 1991-1992 será obrigatória a prática integral da prescrição comunitária respectiva, fixa-se neste diploma nova aproximação aos limites comunitários estabelecidos para o anidrido sulfuroso total nos vinhos de mesa e vinhos de qualidade produzidos em regiões determinadas (VQPRD) a partir de 1 de Setembro de 1989:
+
+Assim, ao abrigo do artigo 22.º do [Decreto-Lei n.º 35846](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35846-1946-156977), de 2 de Setembro de 1946, na redacção dada pelo [Decreto-Lei n.º 284/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1975-335886), de 7 de Junho:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+
+1.º - a) A partir da próxima campanha vitivinícola, com início em 1 de Setembro de 1989, os teores de anidrido sulfuroso total nos vinhos são os seguintes:
+
+Vinhos brancos e rosados - valores não superiores a 230 mg/l;
+
+Vinhos tintos e palhetes - valores não superiores a 170 mg/l.
+
+b) Em derrogação da alínea a), os limites máximos do teor de anidrido sulfuroso total nos vinhos com teor de açúcares residuais expresso em açúcar invertido igual ou superior a 5 g/l são os seguintes:
+
+Vinhos de mesa - 280 mg/l;
+
+Vinho verde equiparado a vinhos de qualidade produzidos em regiões determinadas - 300 mg/l;
+
+Outros vinhos equiparados a vinhos de qualidade produzidos em regiões determinadas - 340 mg/l.
+
+2.º Para os vinhos com teor em anidrido sulfuroso total permitido inferior a 280 mg/l poderá ser autorizado um aumento de um máximo de 40 mg/l se no decorrer da campanha vierem a verificar-se condições climáticas cuja adversidade o justifique, através de despacho do Ministro da Agricultura, Pescas e Alimentação, sob proposta do Instituto da Vinha e do Vinho.
+
+3.º Relativamente aos vinhos das colheitas anteriores que não satisfaçam os limites de anidrido sulfuroso total fixados pela presente portaria, os limites aplicáveis são os vigentes na data da respectiva colheita.
+
+4.º É revogada a [Portaria n.º 564/88](https://diariodarepublica.pt/dr/detalhe/portaria/564-1988-380159), de 18 de Agosto.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+Assinada em 1 de Junho de 1989.
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Luís Gonzaga de Sousa Morais Cardoso, Secretário de Estado da Alimentação.

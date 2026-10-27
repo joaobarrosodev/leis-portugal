@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:291905:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/1999-939363242",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/83-1999-291905",
+ "source_lastmod": "2025-10-13",
+ "versions": [
+  {
+   "date": "1999-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "939453823"
+   ]
+  }
+ ],
+ "fragments": {
+  "939453823": {
+   "fragment_id": "939363243",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 83/99\n\nSobre a taxa Tobin\n\nA Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, encarregar as Comissões de Economia, Finanças e Plano e de Assuntos Europeus de organizar um debate sobre os instrumentos de regulação dos mercados financeiros no contexto da globalização, incluindo a taxa Tobin, e sobre as modalidades da sua implementação, nomeadamente no quadro das instituições da Bretton Woods e das negociações da Organização Mundial do Comércio - OMC, tendo em conta as possibilidades conferidas à União Europeia pelo euro.\n\nAs Comissões promoverão a participação dos principais actores económicos e sociais e outras entidades interessadas."
+  }
+ }
+}

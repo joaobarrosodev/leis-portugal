@@ -1,0 +1,552 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:453797:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1983-920347230",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/70-1983-453797",
+ "source_lastmod": "2025-06-02",
+ "versions": [
+  {
+   "date": "1983-07-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920406232",
+    "920347429",
+    "920347430",
+    "920347431",
+    "920347432",
+    "920348177",
+    "920347433",
+    "920347434",
+    "920347435",
+    "920347436",
+    "920347437",
+    "920347438",
+    "920347439",
+    "920347440",
+    "920347441",
+    "920347442",
+    "920347443",
+    "920347444",
+    "920347445",
+    "920347446",
+    "920347447",
+    "920347448",
+    "920347449",
+    "920347450",
+    "920347451",
+    "920347452",
+    "920347453",
+    "920347454",
+    "920347455",
+    "920347456",
+    "920347457",
+    "920347458",
+    "920347459",
+    "920347460",
+    "920347461",
+    "920347462",
+    "920347463",
+    "920347464",
+    "920347465",
+    "920347466",
+    "920347467",
+    "920347468",
+    "920347469",
+    "920347470",
+    "920347471",
+    "920347472",
+    "920347473",
+    "920347474"
+   ]
+  },
+  {
+   "date": "1988-06-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:371790:por",
+     "title": "Decreto Regulamentar n.º 25/88",
+     "published": "1988-06-17",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/25-1988-371790"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 33.º"
+   ],
+   "fragments": [
+    "920347428",
+    "920347429",
+    "920347430",
+    "920347431",
+    "920347432",
+    "920348177",
+    "920347433",
+    "920347434",
+    "920347435",
+    "920347436",
+    "920347437",
+    "920347438",
+    "920347439",
+    "920347440",
+    "920347441",
+    "920347442",
+    "920347443",
+    "920347444",
+    "920347445",
+    "920347446",
+    "920347447",
+    "920347448",
+    "920347449",
+    "920347450",
+    "920347451",
+    "920347452",
+    "920347453",
+    "920347454",
+    "920347455",
+    "920347456",
+    "920347457",
+    "920347458",
+    "920347459",
+    "920347460",
+    "920347461",
+    "920347462",
+    "920347463",
+    "920347464",
+    "920347465",
+    "920347466",
+    "920347467",
+    "920347468",
+    "920348182",
+    "920347470",
+    "920347471",
+    "920347472",
+    "920347473",
+    "920347474",
+    "920348175",
+    "920348178"
+   ]
+  }
+ ],
+ "fragments": {
+  "920406232": {
+   "fragment_id": "920347231",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 70/83\n\nde 20 de Julho\n\nCom a publicação do Decreto-Lei n.º 188/81, de 2 de Julho, foram estabelecidos os princípios gerais que regem o enquadramento do sector das comunicações, particularmente daquelas de uso público.\n\nAquele diploma surge na sequência natural do reconhecimento de que as comunicações são actualmente um dos mais importantes e decisivos factores de desenvolvimento da sociedade, quer como agente estimulante, quer como meio ao dispor de todos os sectores que constituem o tecido sócio-económico do País.\n\nAssume particular relevo a criação, pelo referido decreto-lei, do Instituto das Comunicações de Portugal, através do qual se pretende dotar o Governo de um instrumento capaz de o apoiar no exercício da tutela do sector, designadamente nas suas funções normativa e fiscalizadora.\n\nO Instituto das Comunicações de Portugal constituirá ainda um instrumento técnico indispensável para a intervenção no sector, cuja importância será tanto maior quanto se trata de uma das áreas onde o desenvolvimento tecnológico à escala mundial é mais acentuado e onde se verifica, portanto, uma verdadeira explosão nos meios, nos sistemas, nos serviços e nas estruturas do sector. O acompanhamento, a análise e o estudo das implicações desta explosão tecnológica, bem como a definição das opções que ao País se põem neste campo, são tarefas importantes que ao Instituto das Comunicações de Portugal cabem, no quadro das suas competências de apoio à tutela.\n\nDas atribuições cometidas ao Instituto das Comunicações de Portugal, algumas, nomeadamente as que se relacionam com a gestão do espectro radioeléctrico e com a representação do sector junto de organismos internacionais e com entidades e organismos nacionais e estrangeiros, têm sido desempenhadas pela empresa pública Correios e Telecomunicações de Portugal, confundindo-se, assim, numa entidade a dupla função de regulamentador e fiscalizador e de operador de comunicações de uso público.\n\nAtravés do presente diploma, que aprova os Estatutos do Instituto das Comunicações do Portugal, completa-se o quadro normativo do sector, na sequência do Decreto-Lei n.º 188/81, de 2 de Julho.\n\nNestes termos:\n\nOuvidos os Governos das Regiões Autónomas dos Açores e da Madeira;\n\nEm conformidade com o disposto nos artigos 7.º, n.º 2, e 20.º, n.º 1, do Decreto-Lei n.º 188/81, de 2 de Julho:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "920347429": {
+   "fragment_id": "920347232",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e atribuições"
+  },
+  "920347430": {
+   "fragment_id": "920347233",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, criado pelo Decreto-Lei n.º 188/81, de 2 de Julho, é um instituto público dotado de personalidade jurídica, com autonomia administrativa e financeira, e exerce a sua acção na dependência do Ministro da Habitação, Obras Públicas e Transportes.\n\n2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico."
+  },
+  "920347431": {
+   "fragment_id": "920347234",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nConstituem atribuições do ICP:\n\na) Assessorar o Governo no exercício da tutela dos operadores de comunicações de uso público, podendo exercê-la mediante delegação;\n\nb) Propor políticas de organização e planeamento global do sector das comunicações de uso público;\n\nc) Elaborar projectos de legislação e regulamentação do sector;\n\nd) Dar parecer sobre medidas de legislação e regulamentação propostas pelos organismos operadores de comunicações de uso público;\n\ne) Propor a política de desenvolvimento e investigação tecnológica e científica relacionada com as comunicações de uso público;\n\nf) Homologar materiais e equipamentos e proceder, em colaboração com outros organismos, à normalização e especificação técnica de materiais e equipamentos usados nas comunicações de uso público;\n\ng) Fiscalizar a qualidade e o custo dos serviços prestados pelos operadores de comunicações de uso público, nomeadamente dando parecer sobre taxas e tarifas a praticar pelos operadores do sector;\n\nh) Fiscalizar o cumprimento, por parte dos operadores de comunicações de uso público, das disposições legais e regulamentares aplicáveis, nomeadamente as respeitantes a instalações e equipamentos dominiais afectos aos operadores e à utilização de radiocomunicação, e aplicar sanções, quando for caso disso;\n\ni) Representar o interesse público, no que respeita à actividade do sector, junto de outras entidades nacionais ou estrangeiras e de organismos internacionais relacionados com as comunicações de uso público, sem prejuízo das competências próprias e da colaboração dos operadores;\n\nj) Representar o Ministro da Habitação, Obras Públicas e Transportes no Conselho Nacional de Telecomunicações;\n\nl) Atribuir e consignar frequências para fins de radiocomunicações;\n\nm) Proceder ao licenciamento de todos os meios de radiocomunicações para uso pelos operadores de comunicações civis;\n\nn) Propor as taxas relativas ao licenciamento de meios de radiocomunicação;\n\no) Outras que lhe sejam atribuídas por despacho do Ministro da Habitação, Obras Públicas e Transportes, de modo a poder exercer, face às exigências decorrentes do progresso tecnológico as suas funções de apoio ao Governo na tutela e coordenação do sector das comunicações de uso público."
+  },
+  "920347432": {
+   "fragment_id": "920347235",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos a serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos a serviços"
+  },
+  "920348177": {
+   "fragment_id": "920348079",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\n1 - São órgãos do ICP o conselho directivo, o conselho administrativo e o conselho consultivo.\n\n2 - São serviços centrais do ICP:\n\na) Com funções técnicas e administrativas:\n\nDirecção dos Serviços de Administração;\n\nDirecção dos Serviços de Estudo e Planeamento;\n\nDepartamento de Informática;\n\nb) Com funções operacionais:\n\nDirecção dos Serviços de Gestão das Radiocomunicações;\n\nDepartamento de Ensaios e Tecnologia.\n\n3 - São serviços externos do ICP:\n\na) O Centro de Fiscalização Radioeléctrica do Norte, com sede no Porto;\n\nb) O Centro de Fiscalização Radioeléctrica do Sul, com sede em Lisboa;\n\nc) O Centro de Fiscalização Radioeléctrica da Região Autónoma da Madeira, com sede ao Funchal;\n\nd) O Centro de Fiscalização Radioeléctrica da Região Autónoma dos Açores, com sede em Ponta Delgada."
+  },
+  "920347433": {
+   "fragment_id": "920347236",
+   "type": 8,
+   "heading": "Secção I — Órgãos do ICP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos do ICP"
+  },
+  "920347434": {
+   "fragment_id": "920347237",
+   "type": 11,
+   "heading": "Artigo 4.º — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conselho directivo\n\n1 - Conselho directivo é o órgão que assegura a gestão do lCP, exercendo as competências fixadas por lei ou superiormente delegadas.\n\n2 - O conselho directivo é composto por 1 presidente e 2 vogais."
+  },
+  "920347435": {
+   "fragment_id": "920347238",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências do conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências do conselho directivo\n\nCompete ao conselho directivo:\n\na) Definir os objectivos gerais para que se deve orientar o ICP, para a plena e eficaz realização das atribuições que lhe competem;\n\nb) Propor ao Ministro da Habitação, Obras Públicas e Transportes todas as políticas, legislação, regulamentos, tarifas e outras medidas relacionadas com o sector das comunicações de uso público, conforme às atribuições do ICP;\n\nc) Submeter à aprovação do Ministro da Habitação, Obras Públicas e Transportes o plano anual de actividades e o orçamento do ICP, bem como os planos plurianuais de actividades e financeiros;\n\nd) Submeter à aprovação do Ministro da Habitação, Obras Públicas e Transportes o relatório anual de actividades e as contas de gerência nos termos legais;\n\ne) Aprovar os regulamentos internos necessários à organização e funcionamento do ICP;\n\nf) Autorizar a realização das despesas orçamentais necessárias ao funcionamento do ICP, nos termos da lei geral;\n\ng) Delegar, subdelegar e constituir mandatários;\n\nh) Contratar a prestação de serviços de técnicos, empresas ou organismos nacionais ou estrangeiros para a elaboração de estudos, pareceres ou projectos ou para execução de outras funções específicas, nos termos da lei;\n\ni) Praticar todos os demais actos necessários ao cumprimento das atribuições do ICP."
+  },
+  "920347436": {
+   "fragment_id": "920347239",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências específicas dos membros do conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências específicas dos membros do conselho directivo\n\n1 - Compete, em especial, ao presidente do conselho directivo:\n\na) Dirigir superiormente todos os serviços do ICP e assegurar as medidas necessárias ao seu funcionamento;\n\nb) Convocar e presidir às reuniões do conselho directivo;\n\nc) Submeter ao conselho directivo todos os assuntos que entender convenientes;\n\nd) Representar o ICP em juízo e fora dele;\n\ne) Representar o conselho directivo nas reuniões do conselho consultivo ou nomear o vogal que o represente em caso de impedimento;\n\nf) Solicitar ao presidente do conselho consultivo a reunião daquele órgão.\n\n2 - Compete aos vogais do conselho directivo, em especial:\n\na) Coadjuvar o presidente;\n\nb) Assegurar a coordenação das áreas de actividade que lhes forem confiadas;\n\nc) Representar o presidente do conselho directivo, por delegação deste, em qualquer das suas competências específicas.\n\n3 - O presidente do conselho directivo poderá delegar ou subdelegar parte da sua competência nos restantes elementos do conselho."
+  },
+  "920347437": {
+   "fragment_id": "920347240",
+   "type": 11,
+   "heading": "Artigo 7.º — Funcionamento do conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento do conselho directivo\n\n1 - O conselho directivo reúne, ordinariamente, uma vez por semana, e, extraordinariamente, sempre que o seu presidente, por iniciativa própria ou a pedido da maioria dos seus membros, o convoque.\n\n2 - As deliberações são tomadas por maioria dos membros do conselho, cabendo ao presidente o direito a veto.\n\n3 - A declaração de veto a que se refere o número anterior implica a suspensão de deliberação, que será imediatamente sujeita a decisão do Ministro da Habitação, Obras Públicas e Transportes.\n\n4 - De todas as reuniões serão lavradas actas, subscritas por todos os presentes.\n\n5 - Os membros do conselho directivo são solidariamente responsáveis pelas deliberações tomadas, salvo se houverem feito exercer a sua discordância em acta de reunião em que tenham estado presentes ou na primeira reunião em que participem após a deliberação em discordância"
+  },
+  "920347438": {
+   "fragment_id": "920347241",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho administrativo\n\nO conselho administrativo é constituído pelos seguintes membros:\n\na) Pelo presidente do conselho directivo, que presidirá;\n\nb) Pelos vogais do conselho directivo;\n\nc) Pelo director dos Serviços de Administração;\n\nd) Um representante do Tribunal de Contas."
+  },
+  "920347439": {
+   "fragment_id": "920347242",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência do conselho administrativo\n\nAo conselho administrativo compete:\n\na) Promover a elaboração dos projectos de orçamento e dos subsequentes pedidos de alteração;\n\nb) Promover e fiscalizar a arrecadação das receitas próprias e a realização das despesas;\n\nc) Aprovar as contas anuais de gerência e submetê-las ao julgamento do Tribunal de Contas;\n\nd) Pronunciar-se sobre quaisquer outros assuntos que lhe sejam submetidos pelo presidente do conselho directivo."
+  },
+  "920347440": {
+   "fragment_id": "920347243",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funcionamento do conselho administrativo\n\n1 - O conselho administrativo reúne, ordinariamente, uma vez por mês, e, extraordinariamente, quando o presidente o convocar.\n\n2 - As restantes regras de funcionamento do conselho administrativo serão estabelecidas em regulamento interno."
+  },
+  "920347441": {
+   "fragment_id": "920347244",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselho consultivo\n\n1 - Constituem o conselho consultivo do ICP:\n\na) Um representante do Ministro da Habitação, Obras Públicas e Transportes, que presidirá;\n\nb) Um representante do Ministério das Finanças e do Plano;\n\nc) Um representante do Ministério da Defesa Nacional;\n\nd) Um representante do Ministério da Administração Interna;\n\ne) Um representante do Ministério da Indústria, Energia e Exportação;\n\nf) Um representante do Ministério da Educação;\n\ng) Um representante do Ministério da Qualidade de Vida;\n\nh) Um representante da Secretaria de Estado da Comunicação Social;\n\ni) Um representante do Governo de cada região autónoma;\n\nj) Um representante de cada operador de comunicações de uso público;\n\nl) O presidente do conselho directivo do ICP.\n\n2 - O presidente do conselho consultivo poderá convidar a participar nas reuniões do conselho, sem direito a voto, os restantes membros do conselho directivo, bem como quaisquer outras entidades, a título individual ou a título de representação, designadamente pessoas de reconhecida competência na matéria a tratar, sempre que a sua natureza o aconselhe.\n\n3 - As despesas de viagem e ajudas de custo devidas pela deslocação dos membros do conselho consultivo, quando residam fora da localidade da reunião, serão suportadas pelo orçamento do ICP."
+  },
+  "920347442": {
+   "fragment_id": "920347245",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências do conselho consultivo\n\nCompete ao conselho consultivo pronunciar-se sobre:\n\na) Plano anual de actividade e orçamento do ICP:\n\nb) O relatório anual de actividades e as contas de gerência;\n\nc) As linhas gerais de actuação do ICP;\n\nd) A repartição das participações, que aos operadores de comunicações de uso público competem, como receitas do ICP;\n\ne) O estabelecimento dos tarífários a praticar pelos operadores de comunicações de uso público;\n\nf) As medidas que visem o desenvolvimento ou aperfeiçoamento das comunicações, designadamente pelo melhor aproveitamento dos recursos existentes e pelo aumento da qualidade e cobertura para os seus utentes;\n\ng) Qualquer assunto que o conselho directivo submeta à sua apreciação."
+  },
+  "920347443": {
+   "fragment_id": "920347246",
+   "type": 11,
+   "heading": "Artigo 13.º — Funcionamento do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Funcionamento do conselho consultivo\n\n1 - O conselho consultivo reúne, ordinariamente, por convocação do presidente, 2 vezes por ano, especialmente para efeitos do disposto nas alíneas a) e b) do artigo 12.º e, extraordinariamente, por iniciativa do presidente ou a pedido de, pelo menos, um terço dos seus membros ou do presidente do conselho directivo.\n\n2 - As reuniões serão convocadas pelo presidente com a antecedência mínima de 10 dias, constando da convocatória data, hora, local e agenda provisória da reunião.\n\n3 - Da reunião do conselho consultivo será lavrada acta, subscrita por todos os presentes."
+  },
+  "920347444": {
+   "fragment_id": "920347247",
+   "type": 8,
+   "heading": "Secção II — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços"
+  },
+  "920347445": {
+   "fragment_id": "920347248",
+   "type": 11,
+   "heading": "Artigo 14.º — Direcção dos Serviços de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção dos Serviços de Administração\n\n1 - A Direcção dos Serviços de Administração compreende:\n\na) A Repartição Financeira e do Património;\n\nb) A Repartição do Pessoal e Apoio Administrativo;\n\nc) Serviço de Relações Públicas.\n\n2 - À Direcção dos Serviços de Administração incumbe efectuar a coordenação das actividades relacionadas com a gestão financeira, económica e administrativa do ICP."
+  },
+  "920347446": {
+   "fragment_id": "920347249",
+   "type": 11,
+   "heading": "Artigo 15.º — Repartição Financeira e do Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Repartição Financeira e do Património\n\n1 - A Repartição Financeira e do Património compreende:\n\na) A Secção de Finanças e Controle Orçamental:\n\nb) A Secção de Gestão Patrimonial.\n\n2 - À Secção de Finanças e Controle Orçamental incumbe:\n\na) Preparar anualmente o orçamento do ICP;\n\nb) Efectuar o controle orçamental e manter o conselho directivo informado sobre a evolução financeira;\n\nc) Organizar a contabilidade e elaborar a conta de gerência e o relatório financeiro;\n\nd) Arrecadar as receitas do ICP e proceder à liquidação das despesas;\n\ne) Organizar os processos de aquisição de bens e promover as respectivas compras.\n\n3 - À Secção de Gestão Patrimonial incumbe:\n\na) Elaborar e manter actualizados inventários sobre os meios patrimoniais do ICP;\n\nb) Organizar e manter actualizado o inventário e organizar uma correcta gestão de stocks de materiais e componentes necessários ao bom funcionamento dos serviços;\n\nc) Promover a conservação das instalações do ICP e garantir a manutenção e conservação do mobiliário, equipamento e outro material necessário ao bom funcionamento dos serviços;\n\nd) Efectuar os aprovisionamentos com o fim de assegurar os consumos correntes e outros;\n\ne) Executar os demais serviços que, no âmbito da competência da Direcção dos Serviços, lhe forem distribuídos.\n\n4 - A Repartição Financeira e do Património dispõe de um tesoureiro, ao qual incumbe:\n\na) Assegurar os serviços normais de tesouraria;\n\nb) Executar o expediente relativo à efectuação dos pagamentos e dos recebimentos;\n\nc) Submeter à verificação diária os valores guardados em cofre."
+  },
+  "920347447": {
+   "fragment_id": "920347250",
+   "type": 11,
+   "heading": "Artigo 16.º — Repartição de Pessoal e Apoio Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Repartição de Pessoal e Apoio Administrativo\n\n1 - A Repartição de Pessoal e Apoio Administrativo compreende:\n\na) A Secção de Pessoal;\n\nb) A Secção de Expediente, Apoio Administrativo e Arquivo.\n\n2 - À Secção de Pessoal incumbe:\n\na) Organizar os processos relativos ao recrutamento, requisição, provimento, promoção, colocação, exoneração e rescisão de contrato de pessoal;\n\nb) Organizar e manter permanentemente actualizado o cadastro de pessoal e o respeitante ao regime de faltas e licenças de pessoal;\n\nc) Efectuar o processamento, das remunerações ao pessoal, incluindo o expediente sobre assistência e previdência;\n\nd) Promover e coordenar as acções de formação, reciclagem e treino adequadas às necessidades do ICP;\n\ne) Facilitar ao pessoal o acesso ao conhecimento dos assuntos que directamente lhe digam respeito;\n\nf) Proceder à condução dos assuntos que digam respeito aos serviços de carácter social;\n\ng) Coordenar os critérios de avaliação de mérito do pessoal;\n\nh) Executar os demais serviços que no âmbito da Direcção dos Serviços lhe forem distribuídos.\n\n3 - À Secção de Expediente, Apoio Administrativo e Arquivo incumbe:\n\na) Dar cobertura ao expediente geral, com apoio num serviço central de dactilografia e reprografia;\n\nb) Organizar e manter actualizado um arquivo geral, promover a fixação de prazos para a permanência dos documentos em arquivo e recorrer à microfilmagem, quando indispensável;\n\nc) Zelar pela conservação e higiene das instalações, superintendendo no serviço de limpeza;\n\nd) Assegurar o funcionamento dos sistemas de comunicação e do parque automóvel do ICP;\n\ne) Superintender no pessoal auxiliar;\n\nf) Executar os demais serviços que, no âmbito da competência da Direcção dos Serviços, lhe forem distribuídos."
+  },
+  "920347448": {
+   "fragment_id": "920347251",
+   "type": 11,
+   "heading": "Artigo 17.º — Serviço de Relações Públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Serviço de Relações Públicas\n\n1 - Ao Serviço de Relações Públicas incumbe:\n\na) Atender os pedidos de informação e reclamações por parte do público e promover o seu encaminhamento para os serviços, quando necessário;\n\nb) Promover ou colaborar com os outros serviços e operadores em esquemas de informação pública;\n\nc) Proceder à análise de informação pública veiculada através dos órgãos de comunicação social com interesse para o ICP e assegurar a sua distribuição pelos serviços respectivos;\n\nd) Proceder ao tratamento e análise de toda a informação pública prestada ou recebida em ordem à melhoria permanente da qualidade dos serviços prestados;\n\ne) Assegurar as relações públicas do ICP.\n\n2 - O Serviço de Relações Públicas será coordenado pelo funcionário de categoria mais elevada designado para o efeito."
+  },
+  "920347449": {
+   "fragment_id": "920347252",
+   "type": 11,
+   "heading": "Artigo 18.º — Direcção de Serviços de Estudos e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direcção de Serviços de Estudos e Planeamento\n\nÀ Direcção de Serviços de Estudos e Planeamento compete:\n\na) Apoiar o conselho directivo na formulação das propostas de políticas de desenvolvimento e investigação, de coordenação, de organização e de planeamento global do sector da comunicação de uso público;\n\nb) Elaborar estudos relacionados com legislação e regulamentação do sector;\n\nc) Preparar planos e estudos para uma adequada representação do interesse público junto de outras entidades nacionais ou estrangeiras e organismos internacionais."
+  },
+  "920347450": {
+   "fragment_id": "920347253",
+   "type": 11,
+   "heading": "Artigo 19.º — Departamento de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Departamento de Informática\n\nAo Departamento de Informática incumbe assegurar todas as funções referentes a estudo, projecto, implantação, operação e manutenção, quer em hardware quer em software, dos meios informáticos que sejam propriedade do ICP, assim como os relacionados com a aquisição de serviços de informática a organizações exteriores."
+  },
+  "920347451": {
+   "fragment_id": "920347254",
+   "type": 11,
+   "heading": "Artigo 20.º — Direcção dos Serviços de Gestão das Radiocomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direcção dos Serviços de Gestão das Radiocomunicações\n\nÀ Direcção dos Serviços de Gestão das Radiocomunicações compete:\n\na) Gerir o espectro radioeléctrico, de modo a garantir a sua utilização equitativa e eficaz e conforme com a legislação aplicável e os acordos internacionais;\n\nb) Representar internacionalmente o interesse nacional nesta área;\n\nc) Assegurar as funções relacionadas com o licenciamento das estações de radiocomunicações e o estabelecimento de servidões radioeléctricas;\n\nd) Coordenar os estudos e acções, tendo em vista a fiscalização das estações radioeléctricas e das interferências, quer de operadores nacionais quer de internacionais."
+  },
+  "920347452": {
+   "fragment_id": "920347255",
+   "type": 11,
+   "heading": "Artigo 21.º — Departamento de Ensaios e Tecnologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Departamento de Ensaios e Tecnologia\n\nAo Departamento de Ensaios e Tecnologia compete:\n\na) Proceder à conservação e manutenção do parque de equipamentos e das estruturas do ICP e apoiar as delegações nessa função, bem como gerir o parque de equipamentos existente;\n\nb) Promover estudos ou ensaios, isoladamente ou em colaboração com outras entidades, para efeitos de aprovação, normalização, elaboração de especificações ou homologação de equipamentos das comunicações;\n\nc) Projectar, construir e instalar equipamentos necessários às actividades do ICP e assegurar a calibração do equipamento de ensaio e medida."
+  },
+  "920347453": {
+   "fragment_id": "920347256",
+   "type": 8,
+   "heading": "Secção III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III"
+  },
+  "920347454": {
+   "fragment_id": "920347257",
+   "type": 11,
+   "heading": "Artigo 22.º — Centros de fiscalização radioeléctrica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Centros de fiscalização radioeléctrica\n\n1 - Aos centros de fiscalização radioeléctrica incumbe, nas respectivas zonas de influência geográfica, a execução das actividades de fiscalização, ensaios e cobrança de taxas que lhes sejam cometidas, designadamente:\n\na) Cobrança de taxas e multas;\n\nb) Fiscalização das condições técnicas de funcionamento das estações radioeléctricas e das interferências de emissão e industriais;\n\nc) Realização de exames de operador amador;\n\nd) Realização de ensaios de propagação radioeléctrica.\n\n2 - Os centros de fiscalização radioeléctrica serão dirigidos por um chefe de divisão.\n\n3 - Em portaria do Ministro da Habitação, Obras Públicas e Transportes fixar-se-á a área de jurisdição de cada centro de fiscalização radioeléctrica."
+  },
+  "920347455": {
+   "fragment_id": "920347258",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento"
+  },
+  "920347456": {
+   "fragment_id": "920347259",
+   "type": 11,
+   "heading": "Artigo 23.º — Prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Prestação de serviços\n\nO ICP poderá prestar serviços a entidades públicas e privadas, mediante acordo prévio, constituindo os pagamentos por tais serviços receitas do ICP."
+  },
+  "920347457": {
+   "fragment_id": "920347260",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Gestão financeira e patrimonial"
+  },
+  "920347458": {
+   "fragment_id": "920347261",
+   "type": 11,
+   "heading": "Artigo 24.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Receitas\n\n1 - Constituem receitas do ICP:\n\na) As taxas, multas e outras receitas cobradas no âmbito da gestão do espectro radioeléctrico ou outras que, nos termos legais ou regulamentares, lhe sejam devidas;\n\nb) As participações fixadas aos operadores de comunicação de uso público;\n\nc) As dotações que lhe sejam atribuídas no Orçamento do Estado;\n\nd) Quaisquer outras receitas, rendimentos ou valores que provenham da sua actividade ou que por lei ou contrato lhe venham a pertencer ou a ser atribuídos.\n\n2 - As participações dos operadores de comunicações de uso público serão fixadas anualmente, mediante despacho conjunto dos Ministros da Habitação, Obras Públicas e Transportes e das Finanças e do Plano, sob proposta do conselho directivo do ICP, ouvido o conselho consultivo."
+  },
+  "920347459": {
+   "fragment_id": "920347262",
+   "type": 11,
+   "heading": "Artigo 25.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Despesas\n\nConstituem despesas do ICP:\n\na) Os encargos com o funcionamento e com o cumprimento das atribuições que lhe estão confiadas;\n\nb) Os custos de aquisição, manutenção e conservação de bens, equipamentos ou serviços que tenha de utilizar."
+  },
+  "920347460": {
+   "fragment_id": "920347263",
+   "type": 11,
+   "heading": "Artigo 26.º — Cobrança de receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cobrança de receitas\n\n1 - O ICP arrecada e cobra as suas receitas.\n\n2 - As receitas resultantes das participações dos operadores serão pagas em regime de prestações trimestrais, pagas adiantadamente no início de cada período.\n\n3 - As receitas do ICP serão depositadas em conta própria na Caixa Geral de Depósitos, Crédito e Previdência."
+  },
+  "920347461": {
+   "fragment_id": "920347264",
+   "type": 11,
+   "heading": "Artigo 27.º — Efectivação de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Efectivação de despesas\n\n1 - As despesas previstas no orçamento do ICP realizar-se-ão nos termos da lei geral.\n\n2 - O pagamento das despesas far-se-á por cheques nominativos, assinados pelo presidente do conselho directivo, ou, na ausência do presidente, pelos 2 vogais do conselho directivo."
+  },
+  "920347462": {
+   "fragment_id": "920347265",
+   "type": 11,
+   "heading": "Artigo 28.º — Isenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Isenção\n\nO ICP poderá estar isento, nos termos da lei, de todas as taxas, custos, emolumentos e selos, nos processos, actas notariais de registo ou outros em que intervenha, em termos e condições idênticos aos do Estado."
+  },
+  "920347463": {
+   "fragment_id": "920347266",
+   "type": 11,
+   "heading": "Artigo 29.º — Conta de gerência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Conta de gerência\n\nAnualmente será apresentada ao Tribunal de Contas a conta de gerência, nos termos da lei geral."
+  },
+  "920347464": {
+   "fragment_id": "920347267",
+   "type": 1,
+   "heading": "Capítulo V — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Pessoal"
+  },
+  "920347465": {
+   "fragment_id": "920347268",
+   "type": 11,
+   "heading": "Artigo 30.º — Quadro do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Quadro do pessoal\n\n1 - O quadro do pessoal dirigente, de chefia, técnico superior, técnico, técnico-profissional, administrativo, operário e auxiliar do ICP será fixado em decreto regulamentar, a publicar no prazo de 6 meses contados a partir da data da entrada em vigor do presente diploma, do qual constarão, nomeadamente, as normas respeitantes a recrutamento, provimento e acesso relativos às respectivas carreiras.\n\n2 - São desde já criados os lugares de pessoal dirigente e de chefia, constantes do mapa anexo a este diploma.\n\n3 - O presidente e os vogais do conselho directivo do ICP são equiparados, respectivamente, a director-geral e a subdirectores-gerais, sendo a sua nomeação feita nos termos da lei.\n\n4 - Os departamentos a que se referem os artigos 19.º e 21.º são chefiados por directores de serviço.\n\n5 - O pessoal requisitado ao serviço do ICP poderá optar pelo vencimento que auferia nos seus serviços de origem, nos termos dos Decretos-Leis n.os 485/76, de 21 de Junho, e 260/76, de 5 de Abril."
+  },
+  "920347466": {
+   "fragment_id": "920347269",
+   "type": 11,
+   "heading": "Artigo 31.º — Pessoal requisitado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Pessoal requisitado\n\nO ICP poderá requisitar, nos termos da lei geral, pessoal pertencente aos quadros de empresas públicas ou privadas ou vinculado à função pública para prestar serviço no Instituto."
+  },
+  "920347467": {
+   "fragment_id": "920347270",
+   "type": 11,
+   "heading": "Artigo 32.º — Pessoal contratado e em regime de tarefa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Pessoal contratado e em regime de tarefa\n\n1 - Para satisfazer necessidades não permanentes, o ICP poderá contratar pessoal fora dos quadros, nos termos da lei geral.\n\n2 - O ICP poderá igualmente contratar, em regime de tarefa, pessoal tecnicamente especializado, nos termos da lei geral."
+  },
+  "920347468": {
+   "fragment_id": "920347271",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "920347469": {
+   "fragment_id": "920347272",
+   "type": 11,
+   "heading": "Artigo 33.º — Implementação do ICP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Implementação do ICP\n\n1 - O ICP deverá ficar implementado no prazo de 6 meses, a contar da data da publicação do presente diploma.\n\n2 - Os serviços da empresa pública Correios e Telecomunicações de Portugal que se ocupam da gestão do espectro radioeléctrico transitam para o ICP.\n\n3 - O âmbito da integração dos serviços a que se refere o número anterior será definido em despacho do Ministro da Habitação, Obras Públicas e Transportes."
+  },
+  "920347470": {
+   "fragment_id": "920347273",
+   "type": 11,
+   "heading": "Artigo 34.º — Prémios de produtividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Prémios de produtividade\n\n1 - Aos funcionários do ICP poderão ser atribuídos prémios de produtividade em função do trabalho desenvolvido.\n\n2 - Os prémios de produtividade terão natureza individual, devendo a sua atribuição ser precedida, caso a caso, de avaliação, segundo critérios de optimização de resultados, de redução de custos e de prazos de trabalho executado.\n\n3 - Os quantitativos máximos a atribuir e o critério de avaliação a que se fez referência no número anterior serão fixados por decreto regulamentar, nos termos do n.º 2 do artigo 8.º do Decreto-Lei n.º 15-B/82, de 20 de Janeiro."
+  },
+  "920347471": {
+   "fragment_id": "920347274",
+   "type": 11,
+   "heading": "Artigo 35.º — Transferência de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Transferência de bens\n\n1 - Os bens dominiais dos CTT afectos aos serviços de gestão do espectro radioeléctrico ficarão afectos ao ICP.\n\n2 - Os CTT serão indemnizados pela cedência dos bens por si adquiridos transferidos para o património do Estado e entregues à gestão do ICP, nos termos a fixar em despacho conjunto dos Ministros das Finanças e do Plano e da Habitação, Obras Públicas e Transportes."
+  },
+  "920347472": {
+   "fragment_id": "920348075",
+   "type": 11,
+   "heading": "Artigo 36.º — Fixação das participações dos operadores de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Fixação das participações dos operadores de serviço público\n\nPara o presente ano económico, as participações dos operadores de comunicações de uso público, a que se refere o artigo 24.º, serão fixados nos termos do n.º 2 daquele artigo."
+  },
+  "920347473": {
+   "fragment_id": "920348076",
+   "type": 11,
+   "heading": "Artigo 37.º — Recrutamento de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Recrutamento de pessoal\n\n1 - Até ao preenchimento dos lugares do quadro do pessoal a definir no decreto regulamentar a que se refere o artigo 30.º do presente diploma, o pessoal necessário ao funcionamento do ICP e pertencente aos quadros de empresas públicas ou vinculado à função pública poderá prestar serviço em regime, de requisição ou destacamento, nos termos da lei geral.\n\n2 - O pessoal não vinculado à função pública ou não pertencente aos quadros de empresas públicas poderá ser recrutado mediante requisição, nos termos da lei geral.\n\n3 - A requisição do pessoal que não exerça funções para as quais seja exigida especialização em telecomunicações terá apenas a duração de 1 ano, não podendo este período ser renovado."
+  },
+  "920347474": {
+   "fragment_id": "920348077",
+   "type": 11,
+   "heading": "Artigo 38.º — Transferência de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Transferência de competências\n\nManter-se-ão nos termos em que têm vindo a ser exercidas por outras entidades as competências atribuídas ao ICP até que, por despacho do Ministro da Habitação, Obras Públicas e Transportes, seja transferida para o referido Instituto a sua execução.\n\nFrancisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Carlos Pinto Soromenho Viana Baptista - António Jorge de Figueiredo Lopes."
+  },
+  "920347428": {
+   "fragment_id": "920347231",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 70/83\n\nde 20 de Julho\n\nCom a publicação do Decreto-Lei n.º 188/81, de 2 de Julho, foram estabelecidos os princípios gerais que regem o enquadramento do sector das comunicações, particularmente daquelas de uso público.\n\nAquele diploma surge na sequência natural do reconhecimento de que as comunicações são actualmente um dos mais importantes e decisivos factores de desenvolvimento da sociedade, quer como agente estimulante, quer como meio ao dispor de todos os sectores que constituem o tecido sócio-económico do País.\n\nAssume particular relevo a criação, pelo referido decreto-lei, do Instituto das Comunicações de Portugal, através do qual se pretende dotar o Governo de um instrumento capaz de o apoiar no exercício da tutela do sector, designadamente nas suas funções normativa e fiscalizadora.\n\nO Instituto das Comunicações de Portugal constituirá ainda um instrumento técnico indispensável para a intervenção no sector, cuja importância será tanto maior quanto se trata de uma das áreas onde o desenvolvimento tecnológico à escala mundial é mais acentuado e onde se verifica, portanto, uma verdadeira explosão nos meios, nos sistemas, nos serviços e nas estruturas do sector. O acompanhamento, a análise e o estudo das implicações desta explosão tecnológica, bem como a definição das opções que ao País se põem neste campo, são tarefas importantes que ao Instituto das Comunicações de Portugal cabem, no quadro das suas competências de apoio à tutela.\n\nDas atribuições cometidas ao Instituto das Comunicações de Portugal, algumas, nomeadamente as que se relacionam com a gestão do espectro radioeléctrico e com a representação do sector junto de organismos internacionais e com entidades e organismos nacionais e estrangeiros, têm sido desempenhadas pela empresa pública Correios e Telecomunicações de Portugal, confundindo-se, assim, numa entidade a dupla função de regulamentador e fiscalizador e de operador de comunicações de uso público.\n\nAtravés do presente diploma, que aprova os Estatutos do Instituto das Comunicações do Portugal, completa-se o quadro normativo do sector, na sequência do Decreto-Lei n.º 188/81, de 2 de Julho.\n\nNestes termos:\n\nOuvidos os Governos das Regiões Autónomas dos Açores e da Madeira;\n\nEm conformidade com o disposto nos artigos 7.º, n.º 2, e 20.º, n.º 1, do Decreto-Lei n.º 188/81, de 2 de Julho:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "920348182": {
+   "fragment_id": "920347272",
+   "type": 11,
+   "heading": "Artigo 33.º — Implementação do ICP",
+   "in_force_from": "1988-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto Regulamentar n.º 25/88 - Diário da República n.º 138/1988, Série I de 1988-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1988-371790), em vigor a partir de 1988-06-22"
+   ],
+   "markdown": "###### Artigo 33.º — Implementação do ICP\n\n1 - É criada a comissão instaladora do ICP (CI/ICP) para, no prazo de seis meses a contar da sua posse:\n\na) Estudar e propor eventuais alterações aos Estatutos do ICP, designadamente no sentido de estabelecer para o pessoal o regime do contrato individual de trabalho, mantendo a prevista auto-suficiência financeira do organismo;\n\nb) Propor as medidas necessárias para que o ICP possa iniciar a sua actividade no 2.º semestre de 1988;\n\nc) Propor um plano de actividades com indicação dos recursos necessários ao seu cumprimento.\n\n2 - A CI/ICP será constituída por quatro membros designados por despacho do Ministro das Obras Públicas, Transportes e Comunicações, que exercerão as suas funções em regime de requisição.\n\n3 - Todo o apoio, designadamente logístico, necessário ao trabalho do CI/ICP será assegurado pelos Correios e Telecomunicações de Portugal (CTT), E. P.\n\n> Alterado pelo/a Artigo único do/a [Decreto Regulamentar n.º 25/88 - Diário da República n.º 138/1988, Série I de 1988-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1988-371790), em vigor a partir de 1988-06-22"
+  },
+  "920348175": {
+   "fragment_id": "920348078",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Promulgado em 4 de Junho de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 7 de Junho de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "920348178": {
+   "fragment_id": "920348080",
+   "type": 14,
+   "heading": "Anexo a que se refere o artigo 30.º — Quadro do pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo a que se refere o artigo 30.º — Quadro do pessoal dirigente\n\n(ver documento original)"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:288418:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1992-945966779",
+ "dre_path": "/dr/detalhe/portaria/721-1992-288418",
+ "source_lastmod": "2025-11-13",
+ "versions": [
+  {
+   "date": "1992-07-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "945944318",
+    "945944320",
+    "945944321"
+   ]
+  }
+ ],
+ "fragments": {
+  "945944318": {
+   "fragment_id": "945966780",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 721/92\n\nde 13 de Julho\n\nPara o exercício das funções que lhe foram legalmente cometidas pelo Decreto-Lei n.º 99/88, de 23 de Março, o Conselho de Mercados de Obras Públicas e Particulares (CMOPP) integra diversas comissões, cuja composição foi fixada através das Portarias n.os 326/88 e 327/88, ambas de 24 de Maio.\n\nAlterada a designação e os estatutos da Associação Profissional dos Engenheiros Técnicos Portugueses para a Associação Portuguesa dos Engenheiros Técnicos, associação de natureza sócio-profissional resultante da fusão das associações profissionais dos engenheiros técnicos portugueses, zonas norte e sul, e posteriormente pela integração da ASSETCA - Associação Portuguesa dos Engenheiros Técnicos de Ciências Agrárias, justifica-se que se altere a designação, em sede da Comissão de Alvarás de Empresas de Obras Públicas e Particulares (CAEOPP) e do plenário do CMOPP.\n\nAssim:\n\nManda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, nos termos do n.º 2 do artigo 8.º do Decreto-Lei n.º 99/88, de 23 de Março, o seguinte:"
+  },
+  "945944320": {
+   "fragment_id": "945966782",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nA alínea n) do n.º 1.º da Portaria n.º 326/88, de 24 de Maio, passa a ter a seguinte redacção:\n\nn) Associação Portuguesa de Engenheiros Técnicos."
+  },
+  "945944321": {
+   "fragment_id": "945966783",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA alínea d) da Portaria n.º 327/88, de 24 de Maio, passa a ter a seguinte redacção:\n\nd) Como representantes de associações profissionais do sector:\n\nOrdem dos Engenheiros;\n\nAssociação dos Arquitectos Portugueses;\n\nAssociação Portuguesa de Engenheiros Técnicos;\n\nAssociação dos Agentes Técnicos de Arquitectura e Engenharia;\n\nAssociação Portuguesa de Projectistas e Consultores."
+  }
+ }
+}

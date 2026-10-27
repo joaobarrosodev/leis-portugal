@@ -1,0 +1,346 @@
+---
+schema_version: '1.0'
+id: pt:dre:459643:por
+title: Portaria n.º 1045/80
+short_title: null
+summary: Estabelece os mecanismos de contrôle de qualidade das cisternas rodoviárias utilizadas em transporte de mercadorias
+  perigosas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Indústria e Energia e dos Transportes e Comunicações
+proposing_entity: null
+official_number: 1045/80
+official_date: null
+publication_date: '1980-12-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 284/1980, Série I de 1980-12-10
+  number: '284'
+  series: I
+  supplement: null
+  pages: 4103 - 4118
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '459643'
+  dre_path: /dr/detalhe/portaria/1045-1980-459643
+  internal: pt:dre:459643:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1045-1980-459643
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1045-1980-459643
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:08:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5c2dbd0209498b740f71a8a84ec75d0726d5816d181e0a5b8a17a898fcb94ce8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Certificado de Qualidade
+- Controlo de Qualidade
+- Licenciamento
+- Multa
+- Transporte de Mercadorias Perigosas
+- Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:625412:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:563627:por
+  label: "Alterado o apêndice I pelo DN.269/81.19.08.1981.MTC, DR.IS [224] de 29.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/269-1981-563627
+  date: '1981-08-19'
+- type: amended_by
+  target: pt:dre:565041:por
+  label: "Alterado o n.º 5.º pela PORT.783/81.10.09.1981.MIE, DR.IS [208] de 10.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/783-1981-565041
+  date: '1981-09-10'
+- type: amended_by
+  target: pt:dre:600958:por
+  label: "Acrescentados números de identificação de matéria e de identificação de perigo, ao apêndice I, pelo DN.8/82.01.02.1982.MHOPT,\
+    \ DR.IS [26] de 01.02.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-1982-600958
+  date: '1982-01-08'
+- type: amended_by
+  target: pt:dre:392444:por
+  label: "Alterado o montante das multas previsto no nº 19º, pelo DEC LEI.186/82.1982.05.15.MHOPT DR.IS [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1982-392444
+  date: '1982-05-15'
+- type: amended_by
+  target: pt:dre:308524:por
+  label: "Aditados os nºs 5º-A, 15º-A, 19º-A, 21º-A e 23º-A e alterados os nºs 1º, 9º, 11º, 19º, bem como a especificação\
+    \ das mercadorias constantes do apêndice I e a al. 4 do apêndice III todos do presente diploma, pela PORT.88/83.1983.01.28.MIEE\
+    \ DR.IS [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/88-1983-308524
+  date: '1983-01-28'
+- type: cites
+  target: pt:dre:382787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:390377:por
+  label: Rectificada pela DECL.DD6240.05.01.1981.PCM, DR.IS [12] de 15.01.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-390377
+  date: '1981-01-05'
+- type: repealed_by
+  target: pt:dre:625412:por
+  label: Revogada pelo(a) Decreto-Lei n.º 210-C/84 - Diário da República n.º 149/1984, 3º Suplemento, Série I de 1984-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-c-1984-625412
+  date: '1984-06-29'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:08:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1045/80
+
+de 10 de Dezembro
+
+São inteiramente insuficientes as disposições que actualmente regulam o acesso ao mercado dos veículos utilizados no transporte de mercadorias perigosas em cisternas, designadamente por não fazerem depender a aprovação dos veículos do preenchimento de requisitos técnicos de segurança específicos do tipo de transporte e da natureza das mercadorias a transportar.
+
+Com efeito, no que se refere ao transporte público em veículos-cisternas, o despacho de 16 de Setembro de 1974 do Secretário de Estado dos Transportes e Comunicações só acautelou indirectamente as condições de segurança desses transportes pela imposição de determinadas dimensões empresariais e através de uma disposição indicativa quanto às características técnicas dos veículos.
+
+No que se refere ao transporte de mercadorias perigosas em veículos particulares de carga, o [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, e o [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964, condicionaram o respectivo licenciamento à observância de cláusulas especiais, a estabelecer em subsequente regulamentação, que, contudo, não foi até agora publicada.
+
+Assim, impõe-se que seja definido o mecanismo de aprovação dos veículos afectos ao transporte de mercadorias perigosas em cisternas, sem prejuízo dos trabalhos em curso para a elaboração de regulamentos que disciplinem a globalidade das operações de transporte das referidas mercadorias, regulamentos esses inspirados nas disposições do Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Estrada (ADR), aprovado para adesão pelo [Decreto-Lei n.º 45935](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45935-1964-560836), de 19 de Setembro de 1964.
+
+O preenchimento dos adequados requisitos de segurança dará origem à emissão de um certificado de aprovação, à semelhança do que se encontra previsto para transporte internacional no marginal 10182 do ADR, cuja aplicação interna foi regulada a título provisório pelo despacho de 25 de Outubro de 1976 do Secretário de Estado dos Transportes e Comunicações.
+
+À luz da experiência verificada, aproveita-se agora para instituir um só mecanismo de aprovação, quer os veículos se destinem ao transporte interno ou internacional, ainda que para os primeiros as actuais carências de meios da Administração portuguesa exijam a adopção de prazos de validade para os certificados de aprovação mais dilatados que os estabelecidos no ADR.
+
+Foi entretanto publicado o Regulamento sobre Transporte de Produtos Explosivos por Estrada, aprovado pelo [Decreto-Lei n.º 143/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1979-382787), de 23 de Maio, o qual prevê também, no n.º 2 do artigo 33.º, a existência de certificados de aprovação para os veículos-cisternas e contentores-cisternas que transportem as matérias incluídas no seu âmbito de aplicação e ainda que a emissão desses certificados competirá «à entidade que vier a ser designada por portaria».
+
+Aliás, e com excepção das matérias abrangidas pelo referido Regulamento, a própria enumeração das mercadorias perigosas susceptíveis de serem transportadas em cisternas carecia de ser fixada, o que se faz através da presente portaria, em concordância com a enumeração de matérias constante do ADR.
+
+Em estreita ligação com a especificação das mercadorias perigosas transportadas e igualmente de acordo com as normas internacionais, é criado um sistema de sinalização susceptível de identificar inequivocamente as mercadorias objecto de transporte em cisternas, informação essa que assume uma utilidade muito especial na prevenção de sinistros e para as equipas de socorros em caso de acidentes.
+
+Por último, tornava-se necessário reforçar e alargar as garantias de idoneidade profissional dos transportadores e demais empresas que realizem este tipo de transportes, dada a relevância dos interesses públicos que estão em jogo, motivo pelo qual se estabelece a obrigatoriedade da indicação de um responsável técnico pela segurança dos transportes.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros dos Transportes e Comunicações e da Indústria e Energia, o seguinte:
+
+1.º O transporte rodoviário em cisternas de quaisquer mercadorias perigosas enumeradas no apêndice I só poderá ser efectuado por transportadores públicos ou por empresas que se dediquem à produção, transformação ou distribuição dessas mercadorias, desde que utilizem veículos cujo título de licenciamento seja acompanhado do certificado de aprovação previsto neste diploma.
+
+2.º Entende-se por cisternas, para os efeitos da presente portaria, as cisternas com capacidade superior a 1000 l, sejam elas desmontáveis ou fixas por construção a um veículo - que toma, neste último caso, a designação de veículo-cisterna -, os contentores-cisternas com capacidade superior a 450 l e as baterias de recipientes compostas por elementos com capacidade individual ou média superior a 150 l ligados entre si por um tubo colector.
+
+3.º A requerimento dos proprietários, a Direcção-Geral de Viação emitirá, após inspecção, um certificado de aprovação conforme com os modelos do apêndice II atestando que o veículo satisfaz as condições gerais de segurança estabelecidas no Código da Estrada e que reúne as condições especiais de segurança decorrentes do tipo de transporte a que se destina.
+
+4.º O certificado a que se refere o número anterior não será emitido sem que a cisterna ou cisternas a utilizar pelo veículo sejam aprovadas pela Direcção-Geral da Qualidade ou outras entidades previstas para o efeito nos termos da regulamentação aplicável em legislação específica.
+
+5.º A verificação das condições especiais de segurança dos veículos e das cisternas poderá ser assegurada por entidades de comprovada competência técnica, expressamente reconhecidas para esse efeito pela Direcção-Geral de Viação e pela Direcção-Geral da Qualidade.
+
+6.º A Direcção-Geral de Viação poderá, sempre que o entender, inspeccionar os veículos a que se refere este diploma, a fim de verificar as suas condições de segurança.
+
+7.º O prazo de validade dos certificados de aprovação será fixado pela Direcção-Geral de Viação, tendo em atenção, designadamente, a antiguidade e o estado geral do veículo, mas não será superior a três anos, a contar da data da inspecção que precedeu a emissão do certificado e sem prejuízo dos prazos inferiores impostos no ADR para os certificados nele previstos.
+
+8.º A Direcção-Geral de Viação informará as entidades referidas no n.º 4.º e a Direcção-Geral de Transportes Terrestres dos certificados de aprovação emitidos, sua renovação ou cancelamento.
+
+9.º Os transportadores públicos e demais empresas referidas no n.º 1.º ficam obrigados a indicar à Direcção-Geral de Transportes Terrestres, como responsável técnico pela segurança dos transportes, um licenciado ou bacharel em Engenharia Química, Engenharia Mecânica, Engenharia de Minas, Engenharia Metalúrgica, Engenharia Metalo-Mecânica, Tecnologia de Materiais, Ciências Físico-Químicas ou Química.
+
+10.º A prova da qualificação académica do responsável técnico deverá ser feita através de certificado de habilitações ou de declaração de uma associação de classe em que esteja inscrito, que acompanhará um termo de responsabilidade assinado pelo referido responsável, segundo modelo a fixar por despacho do director-geral de Transportes Terrestres.
+
+11.º As empresas que pretendam realizar transportes particulares de mercadorias perigosas em cisternas deverão fazer prova perante a Direcção-Geral de Transportes Terrestres de que se dedicam à produção, transformação ou distribuição dessas mercadorias pela forma que for definida por despacho do director-geral de Transportes Terrestres.
+
+12.º Os veículos a que respeitam os certificados de aprovação emitidos só podem ser utilizados no transporte de mercadorias perigosas em cisternas se o respectivo certificado contiver o visto da Direcção-Geral de Transportes Terrestres correspondente à verificação dos condicionamentos referidos nos n.os 9.º e 11.º
+
+13.º As obrigações do responsável técnico indicado pela empresa mantêm-se até declaração em contrário do próprio à Direcção-Geral de Transportes Terrestres, salvo em caso de morte ou impedimento, em que competirá à empresa a respectiva comunicação.
+
+14.º Uma vez cessadas as funções do responsável técnico, deverá a empresa indicar, no prazo máximo de trinta dias, um novo responsável. Se for ultrapassado esse prazo, a Direcção-Geral de Transportes Terrestres promoverá o cancelamento do visto referido no n.º 12.º em todos os certificados de aprovação de que a empresa seja titular.
+
+15.º As licenças para transporte de aluguer em veículos-cisternas de mercadorias perigosas serão concedidas pela Direcção-Geral de Transportes Terrestres às entidades e nas condições a definir por despacho normativo do Ministro dos Transportes e Comunicações.
+
+16.º Os veículos utilizados no transporte de mercadorias perigosas em cisternas, quando circulem em carga ou, após descarga, sem que as cisternas tenham sido convenientemente limpas ou inertizadas, serão identificados com painéis cor de laranja, de acordo com as disposições do apêndice III.
+
+17.º Nos veículos que circulem nas condições referidas no número anterior serão ainda apostas etiquetas de perigo, segundo as disposições e de acordo com os modelos do apêndice IV.
+
+18.º Quando os veículos circulem em vazio, com as cisternas limpas ou inertizadas, os painéis e as etiquetas de perigo serão obrigatoriamente retirados ou ocultados.
+
+19.º A circulação de veículos transportando mercadorias perigosas em cisternas sem que possuam o certificado de aprovação correspondente às mercadorias transportadas será punida com a sanção prevista na alínea d) do n.º 4 do artigo 42.º do Código da Estrada e a multa de 2000$00 a 10000$00.
+
+20.º A realização de transportes em contravenção ao disposto no n.º 12.º será punida com a multa de 10000$00 e a apreensão do título de licenciamento do respectivo veículo.
+
+21.º A contravenção ao disposto nos n.os 16.º, 17.º e 18.º será punida com a multa de 2000$00 a 10000$00.
+
+22.º Os veículos já em circulação à data da entrada em vigor deste diploma, relativamente aos quais se pretenda manter a sua afectação ao transporte de mercadorias perigosas em cisternas, deverão ser submetidos à aprovação referida no n.º 3.º num período de dezoito meses a contar daquela data, segundo prazos escalonados a estabelecer por despacho do director-geral de Viação.
+
+23.º As empresas que à data da entrada em vigor deste diploma já realizem transportes de mercadorias perigosas em cisternas deverão dar cumprimento ao disposto nos n.os 9.º e 11.º num período de seis meses a contar daquela data.
+
+24.º É revogado o despacho de 25 de Outubro de 1976 do Secretário de Estado dos Transportes e Comunicações, publicado no Diário da República, 1.ª série, de 23 de Novembro do mesmo ano, sem prejuízo da validade dos certificados de aprovação emitidos ao abrigo das suas disposições.
+
+25.º Os apêndices I e II e os apêndices III e IV da presente portaria poderão ser alterados, respectivamente, por despacho normativo e por portaria do Ministro dos Transportes e Comunicações.
+
+Ministérios da Indústria e Energia e dos Transportes e Comunicações, 10 de Outubro de 1980. - Pelo Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta, Secretário de Estado da Indústria Transformadora. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.
+
+APÊNDICE I
+
+Enumeração das mercadorias perigosas susceptíveis de serem transportadas em cisternas
+
+Consideram-se mercadoras perigosas as matérias enumeradas no quadro abaixo, e que se agrupam nas seguintes classes:
+
+2 - Gases comprimidos, liquefeitos ou dissolvidos sob pressão.
+
+3 - Matérias líquidas inflamáveis.
+
+4.1 - Matérias sólidas inflamáveis.
+
+4.2 - Matérias sujeitas a inflamação espontânea.
+
+4.3 - Matérias que em contacto com a água libertam gases inflamáveis.
+
+5.1 - Matérias comburentes.
+
+5.2 - Peróxidos orgânicos.
+
+6.1 - Matérias tóxicas.
+
+8 - Matérias corrosivas.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
+
+APÊNDICE II
+
+1 - Modelo de certificado de aprovação a utilizar para veículos destinados a transporte interno e internacional
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
+
+2 - Modelo de certificado de aprovação a utilizar para veículos destinados exclusivamente a transporte interno
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
+
+APÊNDICE III
+
+Identificação das mercadorias transportadas e dos perigos que apresentam
+
+1) Os veículos que transportem, em cisternas, mercadorias perigosas enumeradas no apêndice I devem ostentar dois painéis rectangulares cor-de-laranja retrorreflectores, conforme modelo junto:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
+
+2) Os painéis devem ser colocados de forma bem visível, um à frente e outro à retaguarda do veículo, perpendicularmente ao seu eixo longitudinal e do lado esquerdo do pára-choques.
+
+3) Tratando-se de um conjunto articulado tractor/semi-reboque, um dos painéis será colocado à frente do tractor e outro atrás do semi-reboque.
+
+Proceder-se-á de igual modo se se tratar de um conjunto articulado constituído por um veículo com cisterna a que vai atrelado um reboque com cisterna, desde que as cisternas transportem a mesma matéria perigosa.
+
+Haverá lugar a sinalização individual do veículo tractor e do reboque no caso em que as respectivas cisternas transportem matérias perigosas diferentes.
+
+4) Em transportes internos, quando o mesmo veículo transporta matérias perigosas distintas em cisternas diferentes ou em compartimentos diferentes de uma mesma cisterna, devem figurar nos painéis os números de identificação correspondentes à matéria mais perigosa.
+
+Em transportes internacionais, os painéis colocados à frente e atrás do veículo não terão qualquer número, devendo ser colocados nas paredes laterais de cada cisterna ou compartimento de cisterna, paralelamente ao eixo longitudinal e de forma bem visível, painéis com números de identificação apropriados.
+
+5) Os algarismos que constituem os números de identificação devem ser indeléveis, e ficar legíveis após um incêndio com uma duração de quinze minutos.
+
+6) Na parte inferior de cada painel deve figurar o número de identificação da matéria transportada, o qual é atribuído pelo Comité de Peritos do Transporte de Mercadorias Perigosas das Nações Unidas - sendo por isso conhecido como «número ONU» -, e é o número constante da coluna (3) do quadro do apêndice I.
+
+7) Na parte superior de cada painel figurará o número de identificação do perigo constante da coluna (4) do quadro do apêndice I, sendo constituído por dois ou três algarismos, em que o primeiro indica o perigo principal e o segundo e o terceiro indicam os perigos subsidiários:
+
+Primeiro algarismo:
+
+2 - Gás.
+
+3 - Líquido inflamável.
+
+4 - Sólido inflamável.
+
+5 - Comburente ou peróxido orgânico.
+
+6 - Tóxico.
+
+8 - Corrosivo.
+
+Segundo e terceiro algarismos:
+
+0 - Sem significado.
+
+1 - Explosão.
+
+2 - Emanação de gás.
+
+3 - Inflamabilidade.
+
+4 - Estado fundido a temperatura elevada.
+
+5 - Propriedades comburentes.
+
+6 - Propriedades tóxicas.
+
+8 - Propriedades corrosivas.
+
+9 - Reacção violenta resultante de decomposição espontânea ou de polimerização.
+
+Sendo iguais os dois primeiros algarismos do número de identificação do perigo, tal significa uma intensificação do perigo principal, com a particularidade de que a combinação n.º 22 indica um gás refrigerado e a combinação n.º 44 indica um sólido inflamável no estado fundido a temperatura elevada. O número de identificação 333 indica tratar-se de um líquido espontaneamente inflamável.
+
+A combinação n.º 42 indica um sólido que pode emitir gases em contacto com a água.
+
+A letra X a anteceder o número de identificação do perigo indica a proibição absoluta de contacto de água com a matéria transportada.
+
+8) A cor-de-laranja do fundo dos painéis, nas condições normais de utilização, deverá ter coordenadas tricromáticas localizadas na região do diagrama colorimétrico que se delimita juntando entre si os pontos de coordenadas seguintes:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
+
+Factor de luminosidade da cor retrorreflectora - 0,12;
+
+Centro de referência E, luz-padrão C, incidência normal 45º/0º;
+
+Coeficiente de intensidade luminosa sob um ângulo de iluminação de 5º e de divergência de 0,2º : 20 candelas, mínimo, por lux e por metro quadrado.
+
+APÊNDICE IV
+
+Etiquetas de perigo
+
+Nas paredes laterais e à retaguarda das cisternas que transportem mercadorias perigosas serão apostas as etiquetas de perigo referidas na coluna (5) do quadro do apêndice I, de acordo com os modelos que seguem, sendo facultativas as inscrições que constam da metade inferior das etiquetas:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)

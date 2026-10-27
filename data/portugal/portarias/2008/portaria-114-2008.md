@@ -1,0 +1,527 @@
+---
+schema_version: '1.0'
+id: pt:dre:248237:por
+title: Portaria n.º 114/2008
+short_title: null
+summary: Regula vários aspectos da tramitação electrónica dos processos judiciais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 114/2008
+official_date: null
+publication_date: '2008-02-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 26/2008, Série I de 2008-02-06
+  number: '26'
+  series: I
+  supplement: null
+  pages: 928 - 933
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/02/02600/0092800933.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/114/2008/02/06/p/dre/pt/html
+  oj: null
+  dre: '248237'
+  dre_path: /dr/detalhe/portaria/114-2008-248237
+  internal: pt:dre:248237:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/114-2008-248237
+  metadata_url: https://data.dre.pt/eli/port/114/2008/02/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/114-2008-248237
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:28:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 384aa903d895fd3a4f896ea9bacf5dc4b73a35527df2e0346ae4b791cd518e37
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Judicial
+- Assinatura Digital
+- Certidão
+- Certificação Electrónica
+- Código do Processo Civil
+- Custas Judiciais
+- Documentação
+- Documento Eletrónico
+- Formulário Eletrónico
+- Gestão Processual
+- Informática
+- Instituto das Tecnologias de Informação na Justiça
+- Internet
+- Juiz
+- Justiça
+- Magistrado do Ministério Público
+- Ministério Público
+- Notificação
+- Oficial de Justiça
+- Página na Internet
+- Processo Judicial
+- Processo Penal
+- Regime Jurídico
+- Secretaria Judicial
+- Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
+- Sistema de Informação
+- Solicitador
+- Tribunal
+- Tribunal Administrativo
+- Tribunal Fiscal
+relationships:
+- type: amended_by
+  target: pt:dre:499513:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:449919:por
+  label: "Alterados os art.s 1º, 2.º, 7º, 11º, 17º, 23º e 28º, aditado um art. 14º-A e revogados o nº 2 do art. 7º e o nº\
+    \ 4 do art. 28º pela PORT.457/2008.20.06.2008.MJ, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/457-2008-449919
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:444233:por
+  label: "Alterados os arts. 1.º(na redacção da Port 457/2008 de 20-Jun), 3.º, 4.º e 5.º, aditados os arts 14.º-B, 14.º-C,\
+    \ 21.º-A, 21.º-B e 21.º-C, introduzido um novo capítulo v, denominado «Notificações», que abrange os artigos 21.º-A a\
+    \ 21.º-C, renumerados os capítulos seguintes, revogado o art. 9.º, todos do presente diploma, republicado com a redacção\
+    \ actual pela PORT.1538/2008.30.12.2008.MJ, DR.IS [251] de 30.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1538-2008-444233
+  date: '2008-12-30'
+- type: amended_by
+  target: pt:dre:333331:por
+  label: "Dada nova redacção ao art. 6º da Port 1538/2008 de 30-Dez (que alterou e republicou o presente diploma) pela PORT.458-B/2009.04.05.2009.MJ,\
+    \ DR.IS [85-Supl] de 04.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-b-2009-333331
+  date: '2009-05-04'
+- type: amended_by
+  target: pt:dre:488507:por
+  label: "Alterada a redacção do art. 6.º da Port 1538/2008, de 30-Dez, que alterou e republicou o presente diploma, pela\
+    \ PORT.975/2009.01.09.2009.MJ, DR.IS [169] de 01.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/975-2009-488507
+  date: '2009-09-01'
+- type: amended_by
+  target: pt:dre:452529:por
+  label: "Dada nova redacção ao art. 6º da Port 1538/2008 de 30-Dez, que alterou e republicou o presente diploma, pela PORT.65-A/2010.29.01.2010.MJ,\
+    \ DR.IS [20-Supl] de 29.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-a-2010-452529
+  date: '2010-01-29'
+- type: amended_by
+  target: pt:dre:679777:por
+  label: "Alterados, a partir de 12.04.2010, os arts. 1º (com a redacção constante das Port 457/2008 de 20-Jun e 1538/2008\
+    \ de 30-Dez), 2º (com a redacção constante da Port 457/2008 de 20-Jun), 3º (com a redacção constante da Port 1538/2008\
+    \ de 30-Dez), 15º e 19º, aditados, a partir da mesma data, os arts. 25º-A, 25º-B, 25º-C e 25º-D, compreendidos num novo\
+    \ cap. IX, denominado “Disposições específicas aplicáveis aos processos de competência dos tribunais ou juízos de execução\
+    \ das penas”, e renumerados os caps. seguintes em conformidade, tudo pela PORT.195-A/2010.08.04.2010.MJ, DR.IS [68-Supl]\
+    \ de 08.04.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/195-a-2010-679777
+  date: '2010-04-08'
+- type: amended_by
+  target: pt:dre:334586:por
+  label: "Alterados os arts. 2.º (na redacção das Ports 457/2008 de 20-Jun e 195-A/2010 de 08-Abr) 4.º (na redacção da Port\
+    \ 1538/2008 de 30-Dez) e 23.º (na redacção da Port 457/2008 de 20-Jun), todos do presente diploma, pela PORT.471/2010.08.07.2010.MJ,\
+    \ DR.IS [131] de 08.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/471-2010-334586
+  date: '2010-07-08'
+- type: cites
+  target: pt:dre:273203:por
+  label: null
+  source: http://data.dre.pt/eli/port/642/2004/06/16/p/dre
+- type: cites
+  target: pt:dre:346122:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/108/2006/06/08/p/dre
+- type: cites
+  target: pt:dre:424313:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/325/2003/12/29/p/dre
+- type: cites
+  target: pt:dre:511829:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2003/09/10/p/dre
+- type: cites
+  target: pt:dre:551199:por
+  label: null
+  source: http://data.dre.pt/eli/port/1417/2003/12/30/p/dre
+- type: repealed_by
+  target: pt:dre:499513:por
+  label: "Revogada, a partir de 01.09.2013, pela PORT.280/2013.26.08.2013.MJ, DR.IS [163] de 26.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/280-2013-499513
+  date: '2013-08-26'
+article_structure:
+  article_count: 30
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:28:09Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 114/2008
+
+de 6 de Fevereiro
+
+O projecto «Desmaterialização, eliminação e simplificação de actos e processos na justiça» visa, entre outros aspectos, facilitar o acesso à justiça e simplificar os processos de trabalho nos tribunais através da utilização intensiva das novas tecnologias.
+
+Em concreto, pretende-se que as partes e os seus mandatários possam praticar actos judiciais e relacionar-se com o tribunal por meios electrónicos, designadamente através do acesso, consulta e tramitação do processo através da Internet. Visa-se, igualmente, que o trabalho nos tribunais seja mais simples com o auxílio das novas tecnologias, evitando desperdícios de tempo e de esforço em tarefas inúteis e repetitivas, designadamente através da prática de actos pelos magistrados e secretarias através de aplicações informáticas.
+
+Igualmente, a utilização intensiva das novas tecnologias nos processos de trabalho dos tribunais permite a criação de novos instrumentos de gestão mais completos e eficazes para quem tenha responsabilidades no sector da justiça e na organização do trabalho nos tribunais.
+
+O projecto de desmaterialização dos processos judiciais não se concretiza num único momento. Resulta antes de um processo evolutivo e de um conjunto concertado de acções diversas, realizadas ao longo do tempo, que envolvem esforços de construção e disponibilização de novas aplicações informáticas, de novos instrumentos de trabalho, de formação inicial e permanente a diversas categorias de profissionais do sector da justiça, de renovação de equipamentos e da aprovação de instrumentos normativos.
+
+A presente portaria vem, pois, concretizar algumas medidas relevantes para o desenvolvimento do projecto de desmaterialização dos processos judiciais no domínio das acções declarativas e executivas cíveis e providências cautelares.
+
+Assim, em primeiro lugar, regula-se a forma de apresentar a juízo, por transmissão electrónica de dados, os actos processuais e documentos pelas partes através do sistema informático CITIUS.
+
+A apresentação de peças processuais, requerimentos e documentos por via electrónica dispensa as partes de os remeter ao tribunal em suporte de papel, o que significa um importante avanço na redução da «burocracia» na ligação entre mandatário e tribunal, garantindo-se, sempre, a possibilidade de o juiz solicitar a exibição dos originais dos documentos enviados.
+
+À utilização desta funcionalidade está associado um relevante incentivo em matéria de custas judiciais previsto na legislação respectiva.
+
+Em segundo lugar, passa a prever-se que a distribuição de processos seja efectuada duas vezes ao dia, de forma electrónica e automática e sem intervenção humana. Deixa assim de haver um hiato temporal e uma intervenção humana entre a entrada e a distribuição da peça processual e dos documentos entrados no tribunal.
+
+Em terceiro lugar, determina-se que os actos processuais dos magistrados judiciais sejam necessariamente praticados por via informática através do sistema CITIUS, valendo, para todos os efeitos legais, a versão electrónica do documento assinada digitalmente, dispensando-se, assim, a assinatura autógrafa pelo magistrado no suporte de papel dos actos processuais.
+
+Esta medida é especialmente importante para automatizar o circuito do processo entre os vários intervenientes e para incentivar a utilização de um novo e importante instrumento de gestão, tanto pelo magistrado como pelas entidades com responsabilidades na gestão do sistema da justiça.
+
+Em quarto lugar, estabelece-se que as peças, autos ou termos do processo que não sejam relevantes para a decisão material da causa e que sejam realizados ou enviados através do sistema informático CITIUS não devem ser impressos e juntos ao processo em suporte físico. Desta forma, a versão do processo em suporte físico é substancialmente reduzida, dela se expurgando os actos irrelevantes para a decisão da causa e assim se contribuindo para a circulação de menos papel no tribunal.
+
+Prevê-se que a actividade meramente burocrática e o dispêndio de tempo de produção, impressão, assinatura e junção ao processo em papel de muitos actos pela secretaria possam assim ser reduzidos, pois esses actos passam a estar, exclusivamente, na aplicação informática.
+
+Note-se, contudo, que não estão em causa peças essenciais ao processo como peças processuais ou sentenças. Essas, porque são relevantes para a decisão material da causa, estarão no processo em suporte físico. Além disto, a possibilidade de consulta ou obtenção de informação acerca de actos do processo não fica afectada, uma vez que está sempre garantida através da Internet ou de informações que a secretaria está obrigada a prestar.
+
+A adopção e a introdução destas novidades asseguram maior segurança e transparência. Com efeito, a utilização de novas tecnologias e, em particular, de aplicações informáticas, de certificados digitais e respectiva assinatura electrónica de documentos e a disponibilização do acesso à informação do processo às partes e aos mandatários através da Internet conferem um maior nível de segurança ao processo e aos respectivos actos praticados, bem como níveis de transparência acrescidos.
+
+A introdução destas novas regras foi rodeada de especiais cautelas, designadamente tendo em conta a mudança que significam em procedimentos enraizados no quotidiano dos intervenientes processuais. Assim, a aplicação das regras previstas na presente portaria não é, nalguns casos, imediata, antes se prevendo que só produzam efeitos após um certo lapso temporal. É o que ocorre com a disponibilização nacional do formulário electrónico para a apresentação de peças processuais e documentos e a consequente substituição do envio por correio electrónico, com a introdução da distribuição electrónica diária e automática e com a obrigação de prática de actos por magistrados judiciais com assinaturas electrónicas, através das respectivas aplicações informáticas. Pretende-se, desta forma, dar algum tempo aos utilizadores para que se habituem às novas ferramentas electrónicas disponibilizadas.
+
+Por último, adoptam-se regras transitórias quanto à prática de actos processuais e consulta dos processos pelos magistrados do Ministério Público até que seja disponibilizada a aplicação informática CITIUS - Ministério Público que, numa próxima fase deste projecto de desmaterialização dos processos judiciais, permitirá a prática de actos por via electrónica a estes magistrados, sempre com assinaturas electrónicas.
+
+Foram promovidas as diligências necessárias à audição do Conselho Superior da Magistratura, Conselho Superior dos Tribunais Administrativos e Fiscais, Ordem dos Advogados e Conselho dos Oficiais de Justiça.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 138.º-A do Código de Processo Civil, no artigo 3.º do [Decreto-Lei n.º 108/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2006-346122), de 8 de Junho, e no artigo 4.º do [Decreto-Lei n.º 325/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-2003-424313), de 29 de Dezembro, manda o Governo, pelo Ministro da Justiça, o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+A presente portaria regula os seguintes aspectos da tramitação electrónica dos processos judiciais:
+
+a) Apresentação de peças processuais e documentos por transmissão electrónica de dados, nos termos dos n.os 1, 3 e 4 do artigo 150.º do Código de Processo Civil;
+
+b) Comprovação do prévio pagamento da taxa de justiça ou da concessão do benefício do apoio judiciário, de acordo com o n.º 3 do artigo 150.º-A e o n.º 4 do artigo 467.º do Código de Processo Civil;
+
+c) Designação de solicitador de execução que efectua a citação, de acordo com a alínea g) do n.º 1 e os n.os 7 e 8 do artigo 467.º do Código de Processo Civil;
+
+d) Distribuição por meios electrónicos, prevista nos artigos 209.º-A, 211.º, 213.º, 214.º e 219.º do Código de Processo Civil;
+
+e) Prática de actos processuais por meios electrónicos por magistrados e funcionários judiciais;
+
+f) Consulta dos processos, nos termos dos n.os 1 e 3 do artigo 167.º do Código de Processo Civil.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O disposto na presente portaria aplica-se à tramitação electrónica:
+
+a) Das acções declarativas cíveis, providências cautelares e notificações judiciais avulsas, com excepção dos pedidos de indemnização civil ou dos processos de execução de natureza cível deduzidos no âmbito de um processo penal;
+
+b) Das acções executivas cíveis, com excepção da apresentação do requerimento executivo, que se efectua nos termos previstos no Código de Processo Civil.
+
+### CAPÍTULO II — Apresentação de peças processuais e documentos
+
+###### Artigo 3.º — Apresentação de peças processuais e documentos por via electrónica
+
+1 - A apresentação de peças processuais e documentos por transmissão electrónica de dados dispensa a remessa dos respectivos originais, duplicados e cópias, nos termos da lei.
+
+2 - O disposto no número anterior não prejudica o dever de exibição das peças processuais em suporte de papel e dos originais dos documentos juntos pelas partes por transmissão electrónica de dados, sempre que o juiz determine, designadamente, quando:
+
+a) Duvidar da autenticidade ou genuinidade das peças ou dos documentos;
+
+b) For necessário realizar perícia à letra ou assinatura dos documentos.
+
+###### Artigo 4.º — Sistema informático CITIUS e registo de utilizadores
+
+1 - A apresentação de peças processuais e documentos por transmissão electrónica de dados é efectuada através do sistema informático CITIUS, no endereço electrónico http://citius.tribunaisnet.mj.pt, de acordo com os procedimentos e instruções daí constantes.
+
+2 - O acesso ao sistema informático referido no número anterior por advogados, advogados estagiários e solicitadores requer o seu registo junto da entidade responsável pela gestão dos acessos ao sistema informático.
+
+3 - Após o registo previsto no número anterior, são entregues os elementos secretos, pessoais e intransmissíveis que permitem o acesso à área reservada do sistema informático CITIUS.
+
+###### Artigo 5.º — Formulários e ficheiros anexos
+
+1 - A apresentação de peças processuais é efectuada através do preenchimento de formulários disponibilizados no endereço electrónico referido no artigo anterior, aos quais se anexam:
+
+a) Ficheiros com a restante informação legalmente exigida, conteúdo material da peça processual e demais informação que o mandatário considere relevante e que não se enquadre em nenhum campo dos formulários; e
+
+b) Os documentos que devem acompanhar a peça processual.
+
+2 - Os formulários e os ficheiros anexos referidos na alínea a) do número anterior fazem parte, para todos os efeitos, da peça processual.
+
+3 - As peças processuais e os documentos entregues nos termos definidos no presente artigo devem ser assinados digitalmente através de certificado de assinatura electrónica que garanta de forma permanente a qualidade profissional do signatário.
+
+4 - A assinatura referida no número anterior é efectuada no sistema electrónico CITIUS no momento da apresentação da peça processual.
+
+5 - Podem ser entregues em suporte físico os documentos:
+
+a) Cujo suporte físico não seja em papel ou cujo papel tenha uma espessura superior a 127 g/m2 ou inferior a 50 g/m2;
+
+b) Em formatos superiores a A4.
+
+6 - A entrega dos documentos referidos no número anterior deve ser efectuada no prazo de cinco dias após o envio dos formulários e ficheiros através do sistema informático CITIUS.
+
+###### Artigo 6.º — Preenchimento dos formulários
+
+1 - Quando existam campos no formulário para a inserção de informação específica, essa informação deve ser indicada no campo respectivo, não podendo ser apresentada unicamente nos ficheiros anexos.
+
+2 - Em caso de desconformidade entre o conteúdo dos formulários e o conteúdo dos ficheiros anexos, prevalece a informação constante dos formulários.
+
+###### Artigo 7.º — Formato dos ficheiros e documentos anexos
+
+1 - Os ficheiros referidos na alínea a) do n.º 1 do artigo 5.º devem ter o formato portable document format (pdf).
+
+2 - Os documentos referidos na alínea b) do n.º 1 do artigo 5.º devem ser digitalizados em ficheiros de formato portable document format (pdf).
+
+###### Artigo 8.º — Pagamento de taxa de justiça e benefício do apoio judiciário
+
+1 - O prévio pagamento da taxa de justiça é comprovado através da apresentação, por transmissão electrónica de dados, do documento comprovativo do prévio pagamento, nos termos definidos na alínea b) do n.º 1 do artigo 5.º
+
+2 - O pedido ou a concessão do benefício do apoio judiciário são comprovados através da apresentação, por transmissão electrónica de dados, dos correspondentes documentos comprovativos, nos termos definidos para os restantes documentos na alínea b) do n.º 1 do artigo 5.º
+
+3 - Quando a apresentação prevista nos números anteriores não for possível, em virtude do disposto no n.º 2 do artigo 10.º, o envio dos documentos comprovativos deve ser efectuado nos termos previstos nos n.os 3 e 4 do artigo 10.º, sob pena de desentranhamento da petição apresentada ou da aplicação das cominações previstas nos artigos 486.º-A, 512.º-B e 685.º-D, todos do Código de Processo Civil.
+
+###### Artigo 9.º — Notificação entre mandatários
+
+1 - A declaração feita pelo mandatário, nos formulários, da data em que procedeu ou vai proceder à notificação da contraparte dispensa o envio de documento comprovativo, sem prejuízo de o juiz poder determinar a sua apresentação, caso a data declarada seja contestada ou exista outro motivo que o justifique.
+
+2 - Nos casos em que o mandatário declare que vai proceder à notificação da contraparte, essa notificação deve ser feita no prazo máximo de um dia útil.
+
+###### Artigo 10.º — Dimensão da peça processual
+
+1 - A peça processual, ou o conjunto da peça processual e dos documentos, não pode exceder a dimensão de 3 Mb.
+
+2 - Nos casos em que o limite previsto no número anterior seja excedido em virtude da dimensão da peça processual, a sua apresentação, bem como dos documentos que a acompanhem, deve ser efectuada através dos restantes meios previstos no Código de Processo Civil.
+
+3 - Nos casos em que o limite previsto no n.º 1 seja excedido em virtude da dimensão total dos documentos, a peça processual pode ser entregue através do sistema informático CITIUS, devendo os documentos ser apresentados através dos restantes meios previstos no Código de Processo Civil.
+
+4 - Na situação prevista no número anterior, a apresentação dos documentos deve ser efectuada no prazo de cinco dias após a entrega da peça processual, juntamente com o respectivo comprovativo de entrega disponibilizado pelo CITIUS.
+
+5 - Nas situações previstas nos n.os 2 e 3, não devem ser apresentados os duplicados ou cópias da peça processual ou dos documentos.
+
+###### Artigo 11.º — Designação de solicitador de execução para citação
+
+1 - Quando, nos formulários, o autor designe solicitador de execução para efectuar a citação, este é notificado por via electrónica, nos termos do [Decreto-Lei n.º 202/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2003-511829), de 10 de Setembro.
+
+2 - Na situação prevista no número anterior, não deve ser junta ao processo a reprodução em papel do conteúdo da comunicação prevista no n.º 3 do artigo 3.º do referido diploma, bastando a sua incorporação no sistema informático.
+
+###### Artigo 12.º — Apresentação de peças processuais por mais de um mandatário
+
+1 - Nos casos em que a peça processual deva ser assinada por mais do que um mandatário, deve seguir-se o seguinte procedimento:
+
+a) Um dos mandatários procede à entrega da peça processual, assinando-a digitalmente através do CITIUS (http://citius.tribunaisnet.mj.pt) e indicando, no formulário, os mandatários que igualmente a devem assinar;
+
+b) No prazo máximo de dois dias após a distribuição do processo, no caso de requerimento, petição inicial ou petição inicial conjunta, ou após a recepção da peça processual enviada, nos demais casos, os mandatários indicados no formulário enviam, através do CITIUS, uma declaração electrónica de adesão à peça, assinada digitalmente.
+
+2 - A apresentação de peça processual por mais de um mandatário através do CITIUS está dependente do registo prévio de todos os mandatários que apresentam a peça, nos termos do n.º 2 do artigo 4.º
+
+3 - Nos casos de não adesão por parte dos mandatários indicados no formulário no prazo fixado na alínea b) do número anterior, considera-se que a peça processual não foi apresentada e anula-se a respectiva distribuição nos casos de requerimento, petição inicial ou petição inicial conjunta.
+
+###### Artigo 13.º — Requisitos da transmissão electrónica de dados
+
+O sistema informático CITIUS assegura:
+
+a) A certificação da data e hora de expedição;
+
+b) A disponibilização ao remetente de cópia da peça processual e dos documentos enviados com a aposição da data e hora de entrega certificada;
+
+c) A disponibilização ao remetente de mensagem nos casos em que não seja possível a recepção, informando da impossibilidade de entrega da peça processual e dos documentos no sistema informático.
+
+###### Artigo 14.º — Ficheiro informático a solicitação do juiz
+
+Nas situações previstas no n.º 6 do artigo 152.º do Código de Processo Civil, o envio do ficheiro informático deve ser efectuado através do sistema informático CITIUS.
+
+### CAPÍTULO III — Distribuição
+
+###### Artigo 15.º — Distribuição por meios electrónicos
+
+1 - A distribuição de todos os actos processuais é efectuada diariamente e de forma automática através do sistema informático.
+
+2 - O sistema informático assegura a distribuição automática duas vezes por dia, às 9 e às 13 horas.
+
+###### Artigo 16.º — Publicação
+
+A publicação dos resultados da distribuição diária por meio de pauta é efectuada no endereço electrónico http://www.tribunaisnet.mj.pt às 16 horas.
+
+### CAPÍTULO IV — Actos processuais de magistrados e funcionários judiciais
+
+###### Artigo 17.º — Actos processuais de magistrados judiciais em suporte informático
+
+1 - Os actos processuais dos magistrados judiciais são sempre praticados em suporte informático através do sistema informático CITIUS - Magistrados Judiciais, com aposição de assinatura electrónica qualificada ou avançada.
+
+2 - A assinatura efectuada nos termos do número anterior substitui e dispensa para todos os efeitos a assinatura autógrafa em suporte de papel dos actos processuais.
+
+###### Artigo 18.º — Requisito adicional de segurança
+
+Para os efeitos previstos no artigo anterior, apenas podem ser utilizados os seguintes meios de assinatura electrónica:
+
+a) Certificados de assinatura electrónica qualificada emitidos no âmbito do Sistema de Certificação Electrónica do Estado;
+
+b) Certificados de assinatura electrónica avançada especialmente emitidos para o efeito pelo Instituto das Tecnologias de Informação na Justiça, I. P.
+
+###### Artigo 19.º — Actos dos funcionários
+
+1 - Os actos dos funcionários que se limitem a proceder a uma comunicação interna ou a remeter o processo para o juiz, Ministério Público ou outra secretaria ou secção do mesmo tribunal são sempre praticados através do sistema informático.
+
+2 - Os actos referidos no n.º 1 não carecem de qualquer tipo de assinatura para serem válidos nem devem ser impressos, valendo apenas, para todos os efeitos legais, a sua versão electrónica.
+
+###### Artigo 20.º — Consulta de informação por via electrónica
+
+1 - Quando, no âmbito do processo, seja necessário consultar informação disponível electronicamente da titularidade de serviços da Administração Pública, essa consulta deve ser efectuada directamente pelo tribunal por meios electrónicos sempre que as condições técnicas o permitam.
+
+2 - A informação consultada nos termos do número anterior tem valor idêntico a uma certidão emitida pelo serviço competente, nos termos da lei.
+
+###### Artigo 21.º — Assinatura dos autos e termos pelas partes, seus representantes ou testemunhas
+
+Quando não for possível apor a assinatura electrónica aos autos e termos que, de acordo com os n.os 1 e 2 do artigo 164.º do Código de Processo Civil, devem ser assinados pelas partes, seus representantes ou testemunhas, estes são impressos e é-lhes aposta assinatura autógrafa, devendo a secretaria arquivar e conservar os originais no processo correspondente.
+
+### CAPÍTULO V — Consulta electrónica de processos
+
+###### Artigo 22.º — Consulta de processos por advogados e solicitadores
+
+1 - A consulta de processos por parte de advogados e solicitadores é efectuada:
+
+a) Relativamente às peças e documentos existentes em suporte electrónico, através do sistema informático CITIUS, com base no número identificador de processo; ou
+
+b) Junto da secretaria.
+
+2 - O acesso ao CITIUS para efeitos de consulta de processos requer o prévio registo dos advogados e solicitadores, nos termos do n.º 2 do artigo 4.º
+
+3 - À consulta electrónica de processos aplicam-se as restrições de acesso e consulta inerentes ao segredo de justiça.
+
+### CAPÍTULO VI — Organização do processo
+
+###### Artigo 23.º — Peças processuais e documentos em suporte físico
+
+1 - Quando sejam produzidos, enviados ou recebidos através do sistema informático CITIUS, as peças, autos e termos do processo que não sejam relevantes para a decisão material da causa não podem constar do processo em suporte físico, estando disponíveis para consulta nos termos do artigo anterior.
+
+2 - Para efeitos do número anterior, consideram-se como não sendo relevantes para a decisão material da causa, designadamente:
+
+a) Requerimentos para alteração da marcação de audiência de julgamento;
+
+b) Despachos de expediente, que visem actos de mera gestão processual, tais como:
+
+i) Despachos que ordenem a citação ou notificação das partes;
+
+ii) Despachos de marcação de audiência julgamento;
+
+iii) Despachos de remessa de um processo ao Ministério Público;
+
+iv) Despachos de realização de diligências entre serviços, nomeadamente órgãos de polícia criminal, conservatórias de registos, Instituto Nacional de Medicina Legal, Direcção-Geral da Reinserção Social e Direcção-Geral da Segurança Social;
+
+v) Aceitação da designação do solicitador de execução para efectuar a citação;
+
+vi) Comunicações internas;
+
+vii) Certidões negativas resultantes da consulta à bases de dados de serviços da Administração Pública através de meios electrónicos.
+
+### CAPÍTULO VII — Comunicações entre tribunais
+
+###### Artigo 24.º — Certidões
+
+1 - A passagem de certidões de termos e actos prevista no n.º 1 do artigo 174.º do Código de Processo Civil, quando tenha por fim a junção das mesmas a processo judicial pendente, é efectuada electronicamente, devendo a secretaria enviar a certidão para o tribunal onde corre o referido processo.
+
+2 - O envio da certidão é efectuado, sempre que possível, através do sistema informático, com a indicação do processo a que se destina e de quem requereu a certidão.
+
+###### Artigo 25.º — Comunicação de actos entre serviços judiciais
+
+1 - A transmissão de quaisquer mensagens entre serviços judiciais e a expedição ou devolução de cartas precatórias deve ser efectuada, sempre que possível, através do sistema informático, sem prejuízo do disposto no n.º 5 do artigo 176.º do Código de Processo Civil quanto aos actos urgentes.
+
+2 - Nos casos previstos no artigo 179.º do Código de Processo Civil, não sendo possível o exame do autógrafo, planta, desenho ou gráfico em virtude do seu envio digital ou através de reprodução fotográfica digital, este é remetido com a carta por via postal registada.
+
+### CAPÍTULO VIII — Alteração à [Portaria n.º 1417/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1417-2003-551199), de 30 de Dezembro, que regula o funcionamento do SITAF
+
+###### Artigo 26.º — Alteração à [Portaria n.º 1417/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1417-2003-551199), de 30 de Dezembro
+
+O n.º 2.º da [Portaria n.º 1417/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1417-2003-551199), de 30 de Dezembro, passa a ter a seguinte redacção:
+
+«2.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - As peças processuais apresentadas por via electrónica devem ser enviadas em ficheiro de formato rich text format (rtf) ou portable document format (pdf).
+
+4 - Os documentos apresentados por via electrónica devem ser digitalizados e enviados como um só ficheiro de formato tagged image file format (tif) ou portable document format (pdf).
+
+5 - A apresentação conjunta de peças processuais e documentos por via electrónica implica a sua digitalização e envio num único ficheiro de formato tagged image file format (tif) ou portable document format (pdf).»
+
+### CAPÍTULO IX — Disposições finais e transitórias
+
+###### Artigo 27.º — Norma revogatória
+
+No que diz respeito às acções previstas no artigo 2.º são revogadas:
+
+a) A [Portaria n.º 642/2004](https://diariodarepublica.pt/dr/detalhe/portaria/642-2004-273203), de 16 de Junho;
+
+b) A Portaria n.º 593/2007, de 14 de Maio.
+
+###### Artigo 28.º — Aplicação no tempo e no espaço
+
+1 - O disposto no capítulo ii da presente portaria aplica-se:
+
+a) Às acções previstas no artigo 2.º tramitadas no Tribunal da Comarca de Sintra e no Tribunal de Família e Menores de Sintra, a partir do dia 6 de Fevereiro de 2008;
+
+b) Às acções previstas no artigo 2.º tramitadas nos restantes tribunais, a partir do dia 7 de Abril de 2008.
+
+3 - O disposto nos capítulos iii e v da presente portaria aplica-se a partir do dia 7 de Abril de 2008.
+
+4 - O disposto no artigo 17.º e no Capítulo VI da presente portaria aplica-se a partir do dia 30 de Junho de 2008.
+
+###### Artigo 29.º — Regime transitório
+
+1 - Até à entrada em vigor da alínea a) do artigo 27.º, a parte que proceda à apresentação de acto processual por correio electrónico, nos termos previstos na [Portaria n.º 642/2004](https://diariodarepublica.pt/dr/detalhe/portaria/642-2004-273203), de 16 de Junho, deve remeter ao tribunal, pelas formas previstas nas alíneas a) e b) do n.º 2 do artigo 150.º do Código de Processo Civil, e no prazo de 10 dias, todos os documentos que devam acompanhar a peça processual.
+
+2 - Até à disponibilização da aplicação CITIUS - Ministério Público para a prática de actos processuais e consulta de processos, os magistrados do Ministério Público acedem ao processo através da sua versão em suporte físico, podendo, no que respeita à parte do processo que não esteja disponível nesse suporte, obter a correspondente informação junto da secretaria.
+
+3 - Enquanto não se aplicar o disposto no capítulo iii, a distribuição de processos é efectuada diariamente através do sistema informático às 10 horas e 30 minutos e às 15 horas e 30 minutos.
+
+###### Artigo 30.º — Início de vigência
+
+1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+2 - O disposto na alínea a) do artigo 27.º entra em vigor no dia 30 de Junho de 2008.
+
+Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 1 de Fevereiro de 2008.

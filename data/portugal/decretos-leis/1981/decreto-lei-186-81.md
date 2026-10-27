@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:578682:por
+title: Decreto-Lei n.º 186/81
+short_title: null
+summary: Estabelece disposições quanto à transferência do património do Fundo de Fomento da Habitação na Madeira e integração
+  do respectivo pessoal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Habitação e Obras Públicas
+proposing_entity: null
+official_number: 186/81
+official_date: null
+publication_date: '1981-07-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/1981, Série I de 1981-07-01
+  number: '148'
+  series: I
+  supplement: null
+  pages: 1558 - 1558
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/07/14800/15581558.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '578682'
+  dre_path: /dr/detalhe/decreto-lei/186-1981-578682
+  internal: pt:dre:578682:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1981-578682
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1981-578682
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:37:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6522f8ec854b1cc38418e350901263870c0a37b2542efd84d911a9f3903f7c74
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fundo de Fomento da Habitação
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:370784:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:37:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 186/81
+
+de 1 de Julho
+
+Pelo [Decreto-Lei n.º 365/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1979-370784), de 4 de Setembro, foram transferidas para a Região Autónoma da Madeira as atribuições e competências que, no âmbito do território desta Região, o Governo da República até agora vinha exercendo através do Ministério da Habitação e Obras Públicas.
+
+O atraso na aprovação da Lei de Delimitação das Actuações em Matéria de Investimento entre a administração central, regional e local impediu, no entanto, a transferência quase simultânea do património de que o FFH é titular na Região.
+
+Por força da não publicação do novo diploma orgânico do FFH, os funcionários que exerciam funções na sua delegação do Funchal viram-se, na prática, impossibilitados de optar entre o quadro do FFH e o da SRES, para além de ficarem sujeitos a um tratamento desfavorável em relação aos de outros organismos da administração central colocados na Região.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os funcionários mencionados no n.º 1 do artigo 6.º do [Decreto-Lei n.º 365/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1979-370784), de 4 de Setembro, que venham a ser integrados nos quadros de pessoal dos serviços dependentes da Secretaria Regional do Equipamento Social do Governo Regional da Madeira poderão, a todo o tempo, candidatar-se a concursos de habilitação ou de provimento do quadro do organismo a que se encontravam vinculados, com a categoria e classe a que pertenciam no momento da integração.
+
+Art. 2.º - 1 - O património do Fundo de Fomento da Habitação na Madeira transita para a Região Autónoma da Madeira, mediante relações de cadastro, com dispensa de trato sucessivo.
+
+2 - Sempre que se verifique a inexistência de relações de cadastro referidas no número anterior, a transferência de propriedade dos bens referidos no mesmo número será efectuada mediante simples auto de cessão, com dispensa de trato sucessivo.
+
+Visto e aprovado em Conselho de Ministros de 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 17 de Junho de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

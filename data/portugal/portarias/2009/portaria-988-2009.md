@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:489217:por
+title: Portaria n.º 988/2009
+short_title: null
+summary: Aprova o novo modelo da declaração periódica de IVA a que se refere a alínea c) do n.º 1 do artigo 29.º do Código
+  do IVA e respectivas instruções de preenchimento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 988/2009
+official_date: null
+publication_date: '2009-09-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 173/2009, Série I de 2009-09-07
+  number: '173'
+  series: I
+  supplement: null
+  pages: 6031 - 6037
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17300/0603106037.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/988/2009/09/07/p/dre/pt/html
+  oj: null
+  dre: '489217'
+  dre_path: /dr/detalhe/portaria/988-2009-489217
+  internal: pt:dre:489217:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/988-2009-489217
+  metadata_url: https://data.dre.pt/eli/port/988/2009/09/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/988-2009-489217
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:43:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 297c21b80fe16f09b6856dda11cfc4f7f10a996158bedf16ed8f0aabebd81e8d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código do IVA
+- Documento Eletrónico
+- Formulário Eletrónico
+- Impresso
+- Transacção Intracomunitária
+relationships:
+- type: amended_by
+  target: pt:dre:107725089:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:580994:por
+  label: null
+  source: http://data.dre.pt/eli/port/375/2003/05/10/p/dre
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107725089:por
+  label: Revogada a partir de 01.09.2017 pelo(a) Portaria n.º 221/2017 - Diário da República n.º 140/2017, Série I de 2017-07-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/221-2017-107725089
+  date: '2017-07-21'
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:43:27Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 988/2009
+
+de 7 de Setembro
+
+De harmonia com a [Portaria n.º 375/2003](https://diariodarepublica.pt/dr/detalhe/portaria/375-2003-580994), de 10 de Maio, os sujeitos passivos do IVA estão obrigados ao envio, por transmissão electrónica de dados, da declaração periódica a que se refere a alínea c) do n.º 1 do artigo 29.º do Código do IVA.
+
+A introdução, no artigo 2.º do Código do IVA, da regra de inversão do sujeito passivo, bem como as novas regras de localização das prestações de serviços que devem vigorar a partir de 1 de Janeiro de 2010 e que obrigam à desagregação do anexo recapitulativo a que se refere o artigo 30.º do Regime do IVA nas Transacções Intracomunitárias, com a consequente necessidade de adequar a declaração à realidade tributária actual torna imperiosa a reformulação do modelo da declaração periódica.
+
+Aproveita-se o momento para proceder a algumas adaptações no sentido de conferir uma melhor funcionalidade à declaração.
+
+Assim:
+
+Manda o Governo, pelo Ministro de Estado e das Finanças, nos termos do artigo 8.º do [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, o seguinte:
+
+###### Artigo único
+
+É aprovado o novo modelo da declaração periódica de IVA a que se refere a alínea c) do n.º 1 do artigo 29.º do Código do IVA, bem como as respectivas instruções de preenchimento, que se publicam em anexo.
+
+Pelo Ministro de Estado e das Finanças, Carlos Manuel Baptista Lobo, Secretário de Estado dos Assuntos Fiscais, em 14 de Agosto de 2009.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17300/0603106037.pdf)

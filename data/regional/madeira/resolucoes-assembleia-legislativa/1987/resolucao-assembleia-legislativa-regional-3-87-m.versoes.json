@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:662883:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-regional/1987-926498280",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-regional/3-1987-662883",
+ "source_lastmod": "2025-07-28",
+ "versions": [
+  {
+   "date": "1987-02-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "926499479"
+   ]
+  },
+  {
+   "date": "1987-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:305825:por",
+     "title": "Declaração",
+     "published": "1987-04-30",
+     "dre_path": "/dr/detalhe/declaracao/1987-305825"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "926499479",
+    "926499476"
+   ]
+  }
+ ],
+ "fragments": {
+  "926499479": {
+   "fragment_id": "926498281",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1987-04-30",
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia Regional n.º 3/87/M\n\nA Assembleia Regional da Madeira, reunida em Plenário em 8 de Janeiro de 1987, resolveu autorizar o Governo Regional da Madeira a contrair um empréstimo externo, junto do Banco Europeu de Investimentos, até 20 milhões de ecus para financiamento dos programas de investimento constantes do Plano de Investimentos para 1987 e do plano de médio prazo para 1987-1990."
+  },
+  "926499476": {
+   "fragment_id": "926498282",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada pela Assembleia Regional da Madeira em 8 de Janeiro de 1987.\n\nO Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça."
+  }
+ }
+}

@@ -1,0 +1,471 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:469066:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2005-34506375",
+ "dre_path": "/dr/detalhe/lei/60-2005-469066",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45204675",
+    "45204775",
+    "45204875",
+    "45204975",
+    "45205075",
+    "45205175",
+    "45205275",
+    "45205375",
+    "45205475",
+    "45205575",
+    "45205675",
+    "45205775",
+    "45205875"
+   ]
+  },
+  {
+   "date": "2007-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:641154:por",
+     "title": "Lei n.º 52/2007",
+     "published": "2007-08-31",
+     "dre_path": "/dr/detalhe/lei/52-2007-641154"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "45204675",
+    "45204775",
+    "45204875",
+    "45204975",
+    "45205075",
+    "123960765",
+    "45205275",
+    "45205375",
+    "45205475",
+    "45205575",
+    "45205675",
+    "45206075",
+    "45205775",
+    "45205875"
+   ]
+  },
+  {
+   "date": "2008-02-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247991:por",
+     "title": "Lei n.º 11/2008",
+     "published": "2008-02-20",
+     "dre_path": "/dr/detalhe/lei/11-2008-247991"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "45204675",
+    "45204775",
+    "45204875",
+    "123960766",
+    "45205075",
+    "123960765",
+    "45205275",
+    "45205375",
+    "45205475",
+    "45205575",
+    "45205675",
+    "45206075",
+    "45205775",
+    "123960767"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "45204675",
+    "45204775",
+    "45204875",
+    "123960766",
+    "45205075",
+    "123960768",
+    "45205275",
+    "45205375",
+    "45205475",
+    "45205575",
+    "45205675",
+    "45206075",
+    "45205775",
+    "123960767"
+   ]
+  },
+  {
+   "date": "2014-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:572144:por",
+     "title": "Lei n.º 11/2014",
+     "published": "2014-03-06",
+     "dre_path": "/dr/detalhe/lei/11-2014-572144"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "45204675",
+    "45204775",
+    "45204875",
+    "123960766",
+    "123960770",
+    "123960771",
+    "123960772",
+    "123960773",
+    "123960774",
+    "123967875",
+    "123967876",
+    "123967877",
+    "123967878",
+    "123967879",
+    "123967880"
+   ]
+  },
+  {
+   "date": "2019-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123930786:por",
+     "title": "Decreto-Lei n.º 108/2019",
+     "published": "2019-08-13",
+     "dre_path": "/dr/detalhe/decreto-lei/108-2019-123930786"
+    },
+    {
+     "id": "pt:dre:572144:por",
+     "title": "Lei n.º 11/2014",
+     "published": "2014-03-06",
+     "dre_path": "/dr/detalhe/lei/11-2014-572144"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Revoga Artigo 3.º-A",
+    "Adita Artigo 3.º-A"
+   ],
+   "fragments": [
+    "45204675",
+    "45204775",
+    "45204875",
+    "123960766",
+    "123927909",
+    "123960771",
+    "123927908",
+    "123960773",
+    "123960774",
+    "123967875",
+    "123967876",
+    "123967877",
+    "123967878",
+    "123967879",
+    "123967880"
+   ]
+  }
+ ],
+ "fragments": {
+  "45204675": {
+   "fragment_id": "35126175",
+   "type": 15,
+   "heading": "Diploma — Estabelece mecanismos de convergência do regime de protecção social da função pública com o regime geral da segurança social no que respeita às condições de aposentação e cálculo das pensões.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "45204775": {
+   "fragment_id": "35360175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece mecanismos de convergência do regime de protecção social da função pública com o regime geral da segurança social no que respeita às condições de aposentação e cálculo das pensões."
+  },
+  "45204875": {
+   "fragment_id": "35360275",
+   "type": 11,
+   "heading": "Artigo 2.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Inscrição\n\n1 - A Caixa Geral de Aposentações deixa, a partir de 1 de Janeiro de 2006, de proceder à inscrição de subscritores.\n\n2 - O pessoal que inicie funções a partir de 1 de Janeiro de 2006 ao qual, nos termos da legislação vigente, fosse aplicável o regime de protecção social da função pública em matéria de aposentação, em razão da natureza da instituição a que venha a estar vinculado, do tipo de relação jurídica de emprego de que venha a ser titular ou de norma especial que lhe conferisse esse direito, é obrigatoriamente inscrito no regime geral da segurança social."
+  },
+  "45204975": {
+   "fragment_id": "35360375",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de aposentação ordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de aposentação ordinária\n\n1 - A idade de aposentação estabelecida no n.º 1 do artigo 37.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, é progressivamente aumentada até atingir 65 anos em 2015, nos termos do anexo I.\n\n2 - O tempo de serviço estabelecido no n.º 1 do artigo 37.º do Estatuto da Aposentação, de 36 anos, mantém-se em vigor até 31 de Dezembro de 2014.\n\n3 - A partir de 1 de Janeiro de 2015, podem aposentar-se os subscritores que contem, pelo menos, 65 anos de idade e o prazo de garantia em vigor no regime geral da segurança social."
+  },
+  "45205075": {
+   "fragment_id": "35360475",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de aposentação antecipada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de aposentação antecipada\n\n1 - O tempo de serviço estabelecido nos n.os 1 e 4 do artigo 37.º-A do Estatuto da Aposentação é progressivamente aumentado até atingir 40 anos em 2013, nos termos do anexo II.\n\n2 - Os subscritores da Caixa Geral de Aposentações que venham a aposentar-se ao abrigo do disposto no artigo 37.º-A do Estatuto da Aposentação, com as alterações do número anterior, até 31 de Dezembro de 2014 beneficiam, na determinação das penalizações a aplicar à pensão, em alternativa ao regime previsto naquela disposição, de uma redução de seis meses na idade de aposentação estabelecida no anexo I por cada ano completo que o tempo de serviço exceda o estabelecido no anexo II."
+  },
+  "45205175": {
+   "fragment_id": "35360575",
+   "type": 11,
+   "heading": "Artigo 5.º — Cálculo da pensão de aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cálculo da pensão de aposentação\n\n1 - A pensão de aposentação dos subscritores da Caixa Geral de Aposentações inscritos até 31 de Agosto de 1993, com a denominação de P, resulta da soma das seguintes parcelas:\n\na) A primeira parcela, designada por P1, correspondente ao tempo de serviço prestado até 31 de Dezembro de 2005, é calculada com base na seguinte fórmula:\n\nR x T1/C\n\nem que:\n\nR é a remuneração mensal relevante nos termos do Estatuto da Aposentação, deduzida da percentagem da quota para efeitos de aposentação e de pensão de sobrevivência;\n\nT1 é a expressão em anos do número de meses de serviço prestado até 31 de Dezembro de 2005, com o limite máximo de C; e\n\nC é o número constante do anexo II;\n\nb) A segunda, com a designação de P2, relativa ao tempo de serviço posterior, é calculada de acordo com os artigos 6.º a 11.º do Decreto-Lei n.º 35/2002, de 19 de Fevereiro, sem limites mínimo ou máximo, com base na seguinte fórmula:\n\nRR x T2 x N\n\nem que:\n\nRR é a remuneração de referência, apurada, nos termos dos artigos 4.º e 5.º do Decreto-Lei n.º 35/2002, de 19 de Fevereiro, a partir das remunerações anuais mais elevadas registadas após 1 de Janeiro de 2006 correspondentes ao tempo de serviço necessário para, somado ao registado até 31 de Dezembro de 2005, perfazer o limite do anexo II;\n\nT2 é a taxa anual de formação da pensão, de 2% até 31 de Dezembro de 2015 e, a partir de 1 de Janeiro de 2016, entre 2% e 2,3%, em função do valor da remuneração de referência;\n\nN é o número de anos civis com densidade contributiva igual ou superior a 120 dias com registo de remunerações completados a partir de 1 de Janeiro de 2006, para, somados aos anos registados até 31 de Dezembro de 2005, perfazerem o limite do anexo II.\n\n2 - A pensão de aposentação dos subscritores inscritos a partir de 1 de Setembro de 1993 continua a ser calculada nos termos das normas legais aplicáveis ao cálculo das pensões dos beneficiários do regime geral da segurança social, em conformidade com o disposto no Decreto-Lei n.º 286/93, de 20 de Agosto."
+  },
+  "45205275": {
+   "fragment_id": "35360675",
+   "type": 11,
+   "heading": "Artigo 6.º — Cálculo da pensão de sobrevivência a partir de 1 de Janeiro de 2006",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cálculo da pensão de sobrevivência a partir de 1 de Janeiro de 2006\n\n1 - A pensão de sobrevivência atribuída por óbito, ocorrido após 31 de Dezembro de 2005, de subscritor ou de pensionista aposentado a partir de 1 de Janeiro de 2006 nos termos do n.º 1 do artigo anterior corresponde à soma de 50% de P1 com o valor que resultar da aplicação a P2 das regras do regime geral da segurança social.\n\n2 - A pensão de sobrevivência atribuída por óbito dos subscritores inscritos a partir de 1 de Setembro de 1993 é calculada nos termos das normas legais aplicáveis ao cálculo das pensões dos beneficiários do regime geral da segurança social.\n\n3 - A titularidade e as condições de atribuição das pensões referidas nos números anteriores regem-se pelas regras definidas no regime geral da segurança social."
+  },
+  "45205375": {
+   "fragment_id": "35360775",
+   "type": 11,
+   "heading": "Artigo 7.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Salvaguarda de direitos\n\n1 - Os subscritores da Caixa Geral de Aposentações que até 31 de Dezembro de 2005 contem, pelo menos, 36 anos de serviço e 60 de idade podem aposentar-se de acordo com o regime legal que lhes seria aplicável naquela data, independentemente do momento em que se apresentem a requerer a aposentação.\n\n2 - Os subscritores da Caixa Geral de Aposentações que até 31 de Dezembro de 2005 contem, pelo menos, 36 anos de serviço podem aposentar-se antecipadamente ao abrigo do artigo 37.º-A do Estatuto da Aposentação, de acordo com o regime legal que lhes seria aplicável naquela data, independentemente do momento em que se apresentem a requerer a aposentação, considerando-se nesse caso, para efeito do cálculo das penalizações a aplicar à pensão, o limite de idade do anexo I.\n\n3 - Os subscritores abrangidos pelo disposto no número anterior que venham a aposentar-se antecipadamente até 31 de Dezembro de 2014 beneficiam, em alternativa ao regime previsto na disposição legal nele mencionada, da modalidade de redução referida no n.º 2 do artigo 4.º, quando esta seja mais favorável, do que serão informados fundamentadamente pela Caixa Geral de Aposentações.\n\n4 - A aplicação da modalidade de redução referida no n.º 2 do artigo 4.º implica que:\n\na) A pensão seja calculada de acordo com o n.º 1 do artigo 5.º; e que\n\nb) Nas penalizações a aplicar se tenham em consideração os limites de idade e de tempo de serviço dos anexos I e II.\n\n5 - Da aplicação do disposto nos n.os 3 e 4 não pode resultar a aposentação, com pensão completa, em idade inferior àquela em que o subscritor se aposentaria, com pensão completa, se lhe tivesse sido aplicado o regime em vigor em 31 de Dezembro de 2005."
+  },
+  "45205475": {
+   "fragment_id": "35360875",
+   "type": 11,
+   "heading": "Artigo 8.º — Aposentação compulsiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aposentação compulsiva\n\nÉ alterado o artigo 56.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, que passa a ter a seguinte redacção:\n\n«Artigo 56.º\n\nRedução da pensão\n\nNo caso de aposentação compulsiva, a pensão é calculada nos termos gerais e reduzida em 4,5% do seu valor por cada ano de antecipação em relação à idade legalmente exigida para a aposentação, com o limite de 25%.»"
+  },
+  "45205575": {
+   "fragment_id": "35360975",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nSão revogados o artigo 1.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, e todas as normas especiais que confiram direito de inscrição na Caixa Geral de Aposentações."
+  },
+  "45205675": {
+   "fragment_id": "35361075",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor em 1 de Janeiro de 2006."
+  },
+  "45205775": {
+   "fragment_id": "35361175",
+   "type": 14,
+   "heading": "Anexo I — [referido no n.º 1 do artigo 3.º, no n.º 2 do artigo 4.º e na alínea b) dos n.os 2 e 4 do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [referido no n.º 1 do artigo 3.º, no n.º 2 do artigo 4.º e na alínea b) dos n.os 2 e 4 do artigo 7.º]\n\nA partir de 1 de Janeiro de 2006 - 60 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 61 anos.\n\nA partir de 1 de Janeiro de 2008 - 61 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 62 anos.\n\nA partir de 1 de Janeiro de 2010 - 62 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 63 anos.\n\nA partir de 1 de Janeiro de 2012 - 63 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 64 anos.\n\nA partir de 1 de Janeiro de 2014 - 64 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 65 anos."
+  },
+  "45205875": {
+   "fragment_id": "35361275",
+   "type": 14,
+   "heading": "Anexo II — [referido nos n.os 1 e 2 do artigo 4.º, nas alíneas a) e b) do n.º 1 do artigo 5.º e na alínea b) do n.º 4 do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — [referido nos n.os 1 e 2 do artigo 4.º, nas alíneas a) e b) do n.º 1 do artigo 5.º e na alínea b) do n.º 4 do artigo 7.º]\n\nA partir de 1 de Janeiro de 2006 - 36 anos e 6 meses (36,5).\n\nA partir de 1 de Janeiro de 2007 - 37 anos (37).\n\nA partir de 1 de Janeiro de 2008 - 37 anos e 6 meses (37,5).\n\nA partir de 1 de Janeiro de 2009 - 38 anos (38).\n\nA partir de 1 de Janeiro de 2010 - 38 anos e 6 meses (38,5).\n\nA partir de 1 de Janeiro de 2011 - 39 anos (39).\n\nA partir de 1 de Janeiro de 2012 - 39 anos e 6 meses (39,5).\n\nA partir de 1 de Janeiro de 2013 - 40 anos (40)."
+  },
+  "123960765": {
+   "fragment_id": "35360575",
+   "type": 11,
+   "heading": "Artigo 5.º — Cálculo da pensão de aposentação",
+   "in_force_from": "2007-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 52/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2007-641154), em vigor a partir de 2007-09-05, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Cálculo da pensão de aposentação\n\n1 - A pensão de aposentação dos subscritores da Caixa Geral de Aposentações inscritos até 31 de Agosto de 1993, com a denominação 'P', resulta da multiplicação do factor de sustentabilidade correspondente ao ano da aposentação pela soma das seguintes parcelas:\n\na) A primeira parcela, designada 'P1', correspondente ao tempo de serviço prestado até 31 de Dezembro de 2005 e é calculada com base na seguinte fórmula:\n\nR x T1/C\n\nem que:\n\nR é a remuneração mensal relevante nos termos do Estatuto da Aposentação, deduzida da percentagem da quota para efeitos de aposentação e de pensão de sobrevivência, com um limite máximo correspondente a 12 vezes o indexante dos apoios sociais (IAS);\n\nT1 é a expressão em anos do número de meses de serviço prestado até 31 de Dezembro de 2005, com o limite máximo de C; e\n\nC é o número constante do anexo ii;\n\nb) A segunda, com a designação 'P2', relativa ao tempo de serviço posterior a 31 de Dezembro de 2005, é fixada de acordo com os artigos 29.º a 32.º do Decreto-Lei n.º 187/2007, de 10 de Maio, sem limites mínimo ou máximo, com base na seguinte fórmula:\n\nRR x T2 x N\n\nem que:\n\nRR é a remuneração de referência, apurada a partir das remunerações anuais mais elevadas registadas a partir de 1 de Janeiro de 2006 correspondentes ao tempo de serviço necessário para, somado ao registado até 31 de Dezembro de 2005, perfazer o limite do anexo II;\n\nT2 é a taxa anual de formação da pensão determinada de acordo com os artigos 29.º a 31.º do Decreto-Lei n.º 187/2007, de 10 de Maio;\n\nN é o número de anos civis com densidade contributiva igual ou superior a 120 dias com registo de remunerações completados a partir de 1 de Janeiro de 2006, para, somados aos anos registados até 31 de Dezembro de 2005, perfazerem o limite do anexo ii.\n\n2 - O factor de sustentabilidade correspondente ao ano da aposentação é fixado, com base nos dados publicados anualmente pelo Instituto Nacional de Estatística, nos seguintes termos:\n\nEMV2006/EMVano i-1\n\nem que:\n\nEMV2006 é a esperança média de vida aos 65 anos verificada em 2006;\n\nEMVano i-1 é a esperança média de vida aos 65 anos verificada no ano anterior ao da aposentação.\n\n3 - Para efeito do disposto nos números anteriores, considera-se como ano da aposentação aquele em que se verifique o facto ou acto determinante referido no artigo 43.º do Estatuto da Aposentação.\n\n4 - A pensão de aposentação dos subscritores inscritos a partir de 1 de Setembro de 1993 continua a ser calculada nos termos das normas legais aplicáveis ao cálculo das pensões dos beneficiários do regime geral da segurança social, em conformidade com o disposto no Decreto-Lei n.º 286/93, de 20 de Agosto.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 52/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2007-641154), em vigor a partir de 2007-09-05, produz efeitos a partir de 2008-01-01"
+  },
+  "45206075": {
+   "fragment_id": "35361375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 29 de Novembro de 2005.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 21 de Dezembro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 22 de Dezembro de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "123960766": {
+   "fragment_id": "35360375",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de aposentação ordinária",
+   "in_force_from": "2008-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Condições de aposentação ordinária\n\n1 - A idade de aposentação estabelecida no n.º 1 do artigo 37.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, é progressivamente aumentada até atingir 65 anos em 2015, nos termos do anexo I.\n\n2 - O tempo de serviço estabelecido no n.º 1 do artigo 37.º do Estatuto da Aposentação, de 36 anos, é progressivamente reduzido até atingir 17 anos em 2014, nos termos do anexo ii.\n\n3 - Podem aposentar-se os subscritores que contem, pelo menos, 65 anos de idade e o prazo de garantia em vigor no regime geral da segurança social.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+  },
+  "123960767": {
+   "fragment_id": "35361275",
+   "type": 14,
+   "heading": "Anexo II — (referido no n.º 2 do artigo 3.º)",
+   "in_force_from": "2008-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "## Anexo II — (referido no n.º 2 do artigo 3.º)\n\nA partir de 1 de Janeiro de 2008 - 33 anos.\n\nA partir de 1 de Janeiro de 2009 - 30 anos.\n\nA partir de 1 de Janeiro de 2010 - 25 anos.\n\nA partir de 1 de Janeiro de 2011 - 23 anos.\n\nA partir de 1 de Janeiro de 2012 - 21 anos.\n\nA partir de 1 de Janeiro de 2013 - 19 anos.\n\nA partir de 1 de Janeiro de 2014 - 17 anos.»\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+  },
+  "123960768": {
+   "fragment_id": "35360575",
+   "type": 11,
+   "heading": "Artigo 5.º — Cálculo da pensão de aposentação",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 80.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 52/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2007-641154), em vigor a partir de 2007-09-05, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Cálculo da pensão de aposentação\n\n1 - A pensão de aposentação dos subscritores da Caixa Geral de Aposentações inscritos até 31 de Agosto de 1993, com a denominação 'P', resulta da multiplicação do factor de sustentabilidade correspondente ao ano da aposentação pela soma das seguintes parcelas:\n\na) A primeira parcela, designada 'P1', correspondente ao tempo de serviço prestado até 31 de dezembro de 2005, é calculada com base na seguinte fórmula:\n\nR x T1/40\n\nem que:\n\nR é a remuneração mensal relevante nos termos do Estatuto da Aposentação, deduzida da percentagem da quota para efeitos de aposentação e de pensão de sobrevivência, com um limite máximo correspondente a 12 vezes o valor do indexante dos apoios sociais (IAS), percebida até 31 de dezembro de 2005; e\n\nT1 é a expressão em anos do número de meses de serviço prestado até 31 de dezembro de 2005, com o limite máximo de 40;\n\nb) A segunda, com a designação 'P2', relativa ao tempo de serviço posterior a 31 de dezembro de 2005, é fixada de acordo com os artigos 29.º a 32.º do Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 85-A/2012, de 5 de abril, sem limites mínimo ou máximo, com base na seguinte fórmula:\n\nRR x T2 x N\n\nem que:\n\nRR é a remuneração de referência, apurada a partir das remunerações anuais mais elevadas registadas a partir de 1 de janeiro de 2006 correspondentes ao tempo de serviço necessário para, somado ao registado até 31 de dezembro de 2005, perfazer o limite máximo de 40 anos;\n\nT2 é a taxa anual de formação da pensão determinada de acordo com os artigos 29.º a 31.º do Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 85-A/2012, de 5 de abril;\n\nN é o número de anos civis com densidade contributiva igual ou superior a 120 dias com registo de remunerações completados a partir de 1 de janeiro de 2006, para, somados aos anos registados até 31 de dezembro de 2005, perfazerem o limite máximo de 40 anos.\n\n2 - O fator de sustentabilidade correspondente ao ano da aposentação é fixado, com base nos dados publicados anualmente pelo Instituto Nacional de Estatística, I. P., nos seguintes termos:\n\nEMV (índice 2006)/EMV (índice ano i - 1)\n\nem que:\n\nEMV (índice 2006) é a esperança média de vida aos 65 anos verificada em 2006;\n\nEMV (índice ano i - 1) é a esperança média de vida aos 65 anos verificada no ano anterior ao da aposentação.\n\n3 - A pensão de aposentação dos subscritores inscritos a partir de 1 de setembro de 1993 continua a ser calculada nos termos das normas legais aplicáveis ao cálculo das pensões dos beneficiários do regime geral da segurança social, em conformidade com o disposto no Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 85-A/2012, de 5 de abril.\n\n4 - Os valores das remunerações a considerar no cálculo da primeira parcela das pensões referidas no n.º 1 são atualizados por aplicação àquelas remunerações anuais de um coeficiente correspondente à percentagem de atualização acumulada do índice 100 da escala salarial das carreiras de regime geral da função pública entre o ano a que respeitam as remunerações e o ano da aposentação.\n\n5 - Para efeito do disposto nos números anteriores, considera-se como ano da aposentação aquele em que se verifique o facto ou ato determinante referido no artigo 43.º do Estatuto da Aposentação.»\n\n2 - O disposto no número anterior aplica-se apenas aos pedidos de aposentação entrados após a data da entrada em vigor da presente lei.\n\n> Alterado pelo/a Artigo 80.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 52/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2007-641154), em vigor a partir de 2007-09-05, produz efeitos a partir de 2008-01-01"
+  },
+  "123960770": {
+   "fragment_id": "123960800",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Condições de aposentação ordinária",
+   "in_force_from": "2019-08-18",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Condições de aposentação ordinária\n\nPodem aposentar-se os subscritores que contem o prazo de garantia e a idade normal de acesso à pensão de velhice que sucessivamente estiverem estabelecidos no sistema previdencial do regime geral de segurança social.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01"
+  },
+  "123960771": {
+   "fragment_id": "35360475",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de aposentação antecipada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de aposentação antecipada\n\n1 - O tempo de serviço estabelecido nos n.os 1 e 4 do artigo 37.º-A do Estatuto da Aposentação é progressivamente aumentado até atingir 40 anos em 2013, nos termos do anexo II.\n\n2 - Os subscritores da Caixa Geral de Aposentações que venham a aposentar-se ao abrigo do disposto no artigo 37.º-A do Estatuto da Aposentação, com as alterações do número anterior, até 31 de Dezembro de 2014 beneficiam, na determinação das penalizações a aplicar à pensão, em alternativa ao regime previsto naquela disposição, de uma redução de seis meses na idade de aposentação estabelecida no anexo I por cada ano completo que o tempo de serviço exceda o estabelecido no anexo II."
+  },
+  "123960772": {
+   "fragment_id": "35360575",
+   "type": 11,
+   "heading": "Artigo 5.º — Cálculo da pensão de aposentação",
+   "in_force_from": "2014-03-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07",
+    "Alterado pelo/a Artigo 80.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 52/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2007-641154), em vigor a partir de 2007-09-05, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Cálculo da pensão de aposentação\n\n1 - A pensão de aposentação dos subscritores da Caixa Geral de Aposentações inscritos até 31 de Agosto de 1993, com a denominação 'P', resulta da multiplicação do factor de sustentabilidade correspondente ao ano da aposentação pela soma das seguintes parcelas:\n\na) A primeira parcela, designada 'P1', correspondente ao tempo de serviço prestado até 31 de dezembro de 2005, é calculada com base na seguinte fórmula:\n\nR x T1/40\n\nem que:\n\nR é 80 % da remuneração mensal relevante nos termos do Estatuto da Aposentação, com um limite máximo correspondente a 12 vezes o valor do indexante dos apoios sociais (IAS), percebida até 31 de dezembro de 2005; e\n\nT1 é a expressão em anos do número de meses de serviço prestado até 31 de dezembro de 2005, com o limite máximo de 40 anos;\n\nb) A segunda, com a designação 'P2', relativa ao tempo de serviço posterior a 31 de dezembro de 2005, é fixada de acordo com os artigos 29.º a 32.º do Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 85-A/2012, de 5 de abril, sem limites mínimo ou máximo, com base na seguinte fórmula:\n\nRR x T2 x N\n\nem que:\n\nRR é a remuneração de referência, apurada a partir das remunerações anuais mais elevadas registadas a partir de 1 de janeiro de 2006 correspondentes ao tempo de serviço necessário para, somado ao registado até 31 de dezembro de 2005, perfazer o limite máximo de 40 anos;\n\nT2 é a taxa anual de formação da pensão determinada de acordo com os artigos 29.º a 31.º do Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 85-A/2012, de 5 de abril;\n\nN é o número de anos civis com densidade contributiva igual ou superior a 120 dias com registo de remunerações completados a partir de 1 de janeiro de 2006, para, somados aos anos registados até 31 de dezembro de 2005, perfazerem o limite máximo de 40 anos.\n\n2 - A Caixa Geral de Aposentações aplica o fator de sustentabilidade correspondente ao ano da aposentação de acordo com o regime que sucessivamente vigorar para o fator de sustentabilidade das pensões de velhice do sistema previdencial do regime geral de segurança social.\n\nEMV (índice 2006)/EMV (índice ano i - 1)\n\nem que:\n\nEMV (índice 2006) é a esperança média de vida aos 65 anos verificada em 2006;\n\nEMV (índice ano i - 1) é a esperança média de vida aos 65 anos verificada no ano anterior ao da aposentação.\n\n3 - A pensão de aposentação dos subscritores inscritos a partir de 1 de setembro de 1993 continua a ser calculada nos termos das normas legais aplicáveis ao cálculo das pensões dos beneficiários do regime geral da segurança social, em conformidade com o disposto no Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 85-A/2012, de 5 de abril.\n\n4 - Os valores das remunerações a considerar no cálculo da primeira parcela das pensões referidas no n.º 1 são atualizados por aplicação àquelas remunerações anuais de um coeficiente correspondente ao índice geral de preços no consumidor sem habitação verificado entre o ano a que respeitam as remunerações e o ano da aposentação.\n\n5 - Para efeito do disposto nos números anteriores, considera-se como ano da aposentação aquele em que se verifique o facto ou ato determinante referido no artigo 43.º do Estatuto da Aposentação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07\n\n> Alterado pelo/a Artigo 80.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 52/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2007-641154), em vigor a partir de 2007-09-05, produz efeitos a partir de 2008-01-01"
+  },
+  "123960773": {
+   "fragment_id": "35360675",
+   "type": 11,
+   "heading": "Artigo 6.º — Cálculo da pensão de sobrevivência a partir de 1 de Janeiro de 2006",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cálculo da pensão de sobrevivência a partir de 1 de Janeiro de 2006\n\n1 - A pensão de sobrevivência atribuída por óbito, ocorrido após 31 de Dezembro de 2005, de subscritor ou de pensionista aposentado a partir de 1 de Janeiro de 2006 nos termos do n.º 1 do artigo anterior corresponde à soma de 50% de P1 com o valor que resultar da aplicação a P2 das regras do regime geral da segurança social.\n\n2 - A pensão de sobrevivência atribuída por óbito dos subscritores inscritos a partir de 1 de Setembro de 1993 é calculada nos termos das normas legais aplicáveis ao cálculo das pensões dos beneficiários do regime geral da segurança social.\n\n3 - A titularidade e as condições de atribuição das pensões referidas nos números anteriores regem-se pelas regras definidas no regime geral da segurança social."
+  },
+  "123960774": {
+   "fragment_id": "35360775",
+   "type": 11,
+   "heading": "Artigo 7.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Salvaguarda de direitos\n\n1 - Os subscritores da Caixa Geral de Aposentações que até 31 de Dezembro de 2005 contem, pelo menos, 36 anos de serviço e 60 de idade podem aposentar-se de acordo com o regime legal que lhes seria aplicável naquela data, independentemente do momento em que se apresentem a requerer a aposentação.\n\n2 - Os subscritores da Caixa Geral de Aposentações que até 31 de Dezembro de 2005 contem, pelo menos, 36 anos de serviço podem aposentar-se antecipadamente ao abrigo do artigo 37.º-A do Estatuto da Aposentação, de acordo com o regime legal que lhes seria aplicável naquela data, independentemente do momento em que se apresentem a requerer a aposentação, considerando-se nesse caso, para efeito do cálculo das penalizações a aplicar à pensão, o limite de idade do anexo I.\n\n3 - Os subscritores abrangidos pelo disposto no número anterior que venham a aposentar-se antecipadamente até 31 de Dezembro de 2014 beneficiam, em alternativa ao regime previsto na disposição legal nele mencionada, da modalidade de redução referida no n.º 2 do artigo 4.º, quando esta seja mais favorável, do que serão informados fundamentadamente pela Caixa Geral de Aposentações.\n\n4 - A aplicação da modalidade de redução referida no n.º 2 do artigo 4.º implica que:\n\na) A pensão seja calculada de acordo com o n.º 1 do artigo 5.º; e que\n\nb) Nas penalizações a aplicar se tenham em consideração os limites de idade e de tempo de serviço dos anexos I e II.\n\n5 - Da aplicação do disposto nos n.os 3 e 4 não pode resultar a aposentação, com pensão completa, em idade inferior àquela em que o subscritor se aposentaria, com pensão completa, se lhe tivesse sido aplicado o regime em vigor em 31 de Dezembro de 2005."
+  },
+  "123967875": {
+   "fragment_id": "35360875",
+   "type": 11,
+   "heading": "Artigo 8.º — Aposentação compulsiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aposentação compulsiva\n\nÉ alterado o artigo 56.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, que passa a ter a seguinte redacção:\n\n«Artigo 56.º\n\nRedução da pensão\n\nNo caso de aposentação compulsiva, a pensão é calculada nos termos gerais e reduzida em 4,5% do seu valor por cada ano de antecipação em relação à idade legalmente exigida para a aposentação, com o limite de 25%.»"
+  },
+  "123967876": {
+   "fragment_id": "35360975",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nSão revogados o artigo 1.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, e todas as normas especiais que confiram direito de inscrição na Caixa Geral de Aposentações."
+  },
+  "123967877": {
+   "fragment_id": "35361075",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor em 1 de Janeiro de 2006."
+  },
+  "123967878": {
+   "fragment_id": "35361375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 29 de Novembro de 2005.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 21 de Dezembro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 22 de Dezembro de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "123967879": {
+   "fragment_id": "35361175",
+   "type": 14,
+   "heading": "Anexo I — [referido no n.º 1 do artigo 3.º, no n.º 2 do artigo 4.º e na alínea b) dos n.os 2 e 4 do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [referido no n.º 1 do artigo 3.º, no n.º 2 do artigo 4.º e na alínea b) dos n.os 2 e 4 do artigo 7.º]\n\nA partir de 1 de Janeiro de 2006 - 60 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 61 anos.\n\nA partir de 1 de Janeiro de 2008 - 61 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 62 anos.\n\nA partir de 1 de Janeiro de 2010 - 62 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 63 anos.\n\nA partir de 1 de Janeiro de 2012 - 63 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 64 anos.\n\nA partir de 1 de Janeiro de 2014 - 64 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 65 anos."
+  },
+  "123967880": {
+   "fragment_id": "35361275",
+   "type": 14,
+   "heading": "Anexo II — (referido no n.º 2 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "## Anexo II — (referido no n.º 2 do artigo 3.º)\n\nA partir de 1 de Janeiro de 2008 - 33 anos.\n\nA partir de 1 de Janeiro de 2009 - 30 anos.\n\nA partir de 1 de Janeiro de 2010 - 25 anos.\n\nA partir de 1 de Janeiro de 2011 - 23 anos.\n\nA partir de 1 de Janeiro de 2012 - 21 anos.\n\nA partir de 1 de Janeiro de 2013 - 19 anos.\n\nA partir de 1 de Janeiro de 2014 - 17 anos.»\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 11/2008 - Diário da República n.º 36/2008, Série I de 2008-02-20](https://diariodarepublica.pt/dr/detalhe/lei/11-2008-247991), em vigor a partir de 2008-02-21, produz efeitos a partir de 2008-01-01"
+  },
+  "123927909": {
+   "fragment_id": "123960800",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Condições de aposentação ordinária",
+   "in_force_from": "2019-08-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Condições de aposentação ordinária\n\nPodem aposentar-se os subscritores que contem o prazo de garantia e a idade normal de acesso à pensão de velhice que sucessivamente estiverem estabelecidos no sistema previdencial do regime geral de segurança social.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01"
+  },
+  "123927908": {
+   "fragment_id": "35360575",
+   "type": 11,
+   "heading": "Artigo 5.º — Cálculo da pensão de aposentação",
+   "in_force_from": "2019-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07",
+    "Alterado pelo/a Artigo 80.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 52/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2007-641154), em vigor a partir de 2007-09-05, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Cálculo da pensão de aposentação\n\n1 - A pensão de aposentação dos subscritores da Caixa Geral de Aposentações inscritos até 31 de Agosto de 1993, com a denominação 'P', resulta da multiplicação do factor de sustentabilidade correspondente ao ano da aposentação pela soma das seguintes parcelas:\n\na) A primeira parcela, designada 'P1', correspondente ao tempo de serviço prestado até 31 de dezembro de 2005, é calculada com base na seguinte fórmula:\n\nR x T1/40\n\nem que:\n\nR é 80 % da remuneração mensal relevante nos termos do Estatuto da Aposentação, com um limite máximo correspondente a 12 vezes o valor do indexante dos apoios sociais (IAS), percebida até 31 de dezembro de 2005; e\n\nT1 é a expressão em anos do número de meses de serviço prestado até 31 de dezembro de 2005, com o limite máximo de 40 anos;\n\nb) A segunda, com a designação 'P2', relativa ao tempo de serviço posterior a 31 de dezembro de 2005, é fixada de acordo com os artigos 29.º a 32.º do Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 85-A/2012, de 5 de abril, sem limites mínimo ou máximo, com base na seguinte fórmula:\n\nRR x T2 x N\n\nem que:\n\nRR é a remuneração de referência, apurada a partir das remunerações anuais mais elevadas registadas a partir de 1 de janeiro de 2006 correspondentes ao tempo de serviço necessário para, somado ao registado até 31 de dezembro de 2005, perfazer o limite máximo de 40 anos;\n\nT2 é a taxa anual de formação da pensão determinada de acordo com os artigos 29.º a 31.º do Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 85-A/2012, de 5 de abril;\n\nN é o número de anos civis com densidade contributiva igual ou superior a 120 dias com registo de remunerações completados a partir de 1 de janeiro de 2006, para, somados aos anos registados até 31 de dezembro de 2005, perfazerem o limite máximo de 40 anos.\n\n2 - A Caixa Geral de Aposentações aplica o fator de sustentabilidade correspondente ao ano da aposentação de acordo com o regime que sucessivamente vigorar para o fator de sustentabilidade das pensões de velhice do sistema previdencial do regime geral de segurança social.\n\nEMV (índice 2006)/EMV (índice ano i - 1)\n\nem que:\n\nEMV (índice 2006) é a esperança média de vida aos 65 anos verificada em 2006;\n\nEMV (índice ano i - 1) é a esperança média de vida aos 65 anos verificada no ano anterior ao da aposentação.\n\n3 - O fator de sustentabilidade não é aplicável às pensões de aposentação e reforma atribuídas por limite de idade ou com fundamento em incapacidade absoluta e permanente para o exercício de funções, independentemente da data da inscrição do subscritor na Caixa Geral de Aposentações.\n\n4 - A pensão de aposentação dos subscritores inscritos a partir de 1 de setembro de 1993 continua a ser calculada nos termos das normas legais aplicáveis ao cálculo das pensões dos beneficiários do regime geral da segurança social, em conformidade com o disposto no Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 85-A/2012, de 5 de abril.\n\n5 - Os valores das remunerações a considerar no cálculo da primeira parcela das pensões referidas no n.º 1 são atualizados por aplicação àquelas remunerações anuais de um coeficiente correspondente ao índice geral de preços no consumidor sem habitação verificado entre o ano a que respeitam as remunerações e o ano da aposentação.\n\n6 - Para efeito do disposto nos números anteriores, considera-se como ano da aposentação aquele em que se verifique o facto ou ato determinante referido no artigo 43.º do Estatuto da Aposentação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2014 - Diário da República n.º 46/2014, Série I de 2014-03-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2014-572144), em vigor a partir de 2014-03-07\n\n> Alterado pelo/a Artigo 80.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 52/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/52-2007-641154), em vigor a partir de 2007-09-05, produz efeitos a partir de 2008-01-01"
+  }
+ }
+}

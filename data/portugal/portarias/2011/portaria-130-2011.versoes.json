@@ -1,0 +1,331 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:277582:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-107951667",
+ "dre_path": "/dr/detalhe/portaria/130-2011-277582",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-04-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107956392",
+    "107956393",
+    "107956394",
+    "107956395",
+    "107956396",
+    "107956397",
+    "107956398",
+    "107956400",
+    "107956401",
+    "107956402",
+    "107956403",
+    "107956404"
+   ]
+  },
+  {
+   "date": "2015-05-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67175408:por",
+     "title": "Portaria n.º 126/2015",
+     "published": "2015-05-08",
+     "dre_path": "/dr/detalhe/portaria/126-2015-67175408"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV",
+    "Altera Anexo V"
+   ],
+   "fragments": [
+    "107956392",
+    "107956427",
+    "107956394",
+    "107956395",
+    "107956396",
+    "107956397",
+    "107956398",
+    "107956399",
+    "107956428",
+    "107956429",
+    "107956430",
+    "107956431",
+    "107956432"
+   ]
+  },
+  {
+   "date": "2017-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107963498:por",
+     "title": "Portaria n.º 249/2017",
+     "published": "2017-08-07",
+     "dre_path": "/dr/detalhe/portaria/249-2017-107963498"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV",
+    "Altera Anexo V"
+   ],
+   "fragments": [
+    "107956392",
+    "107956433",
+    "107956394",
+    "107956395",
+    "107956396",
+    "107956397",
+    "107956398",
+    "107956399",
+    "107956434",
+    "107956435",
+    "107956436",
+    "107956437",
+    "107956438"
+   ]
+  }
+ ],
+ "fragments": {
+  "107956392": {
+   "fragment_id": "107951668",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 130/2011\n\nde 1 de Abril\n\nO Decreto-Lei n.º 382/99, de 22 de Setembro, estabelece as normas e os critérios para a delimitação de perímetros de protecção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de protecção visam prevenir, reduzir e controlar a poluição das águas subterrâneas (por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens), potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a protecção dos sistemas de abastecimento de água.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respectivos perímetros de protecção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de Setembro, bem como ao disposto no artigo 37.º da Lei da Água (Lei n.º 58/2005, de 29 de Dezembro) e na Portaria n.º 702/2009, de 6 de Julho.\n\nNa sequência de uma proposta da Águas de Santarém - E. M., S. A., a Administração da Região Hidrográfica (ARH) do Tejo, I. P., ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de Setembro, elaborou uma proposta de delimitação e respectivos condicionamentos dos perímetros de protecção para as captações nos pólos de captação de Santarém, Póvoa da Isenta, Almoster, Moçaria, Abitureiras, Tremez, Romeira, Gançaria, Abrã, Amiais de Baixo, Arneiro das Milhariças, Pernes, Vaqueiros, Casével, Pombalinho e Alcanhões, no concelho de Santarém.\n\nCompete, agora, ao Governo aprovar as referidas zonas de protecção.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 226-A/2007, de 31 de Maio, manda o Governo, pela Ministra do Ambiente e do Ordenamento do Território, o seguinte:"
+  },
+  "107956393": {
+   "fragment_id": "107951669",
+   "type": 11,
+   "heading": "Artigo 1.º — Delimitação de perímetros de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Delimitação de perímetros de protecção\n\n1 - É aprovada a delimitação dos perímetros de protecção das captações designadas por:\n\na) AC1, AC2, AC3, PS20, PS17, PS9, PS1 e PS19 do pólo de captação de Santarém;\n\nb) PS24, PS18 e PS15 do pólo de captação de Póvoa da Isenta;\n\nc) JK1, JK5, JK8 e PS1 do pólo de captação de Almoster;\n\nd) PS6 e PS1 do pólo de captação de Moçaria;\n\ne) PS10 e PS13 do pólo de captação de Abitureiras;\n\nf) FR1 e AC2 do pólo de captação de Tremez;\n\ng) AC1 do pólo de captação de Romeira;\n\nh) PS23 e PS25 do pólo de captação de Gançaria;\n\ni) JK10A do pólo de captação de Abrã;\n\nj) AC2 e AC1 do pólo de captação de Amiais de Baixo;\n\nl) PS26, AC1 e AC2 do pólo de captação de Arneiro das Milhariças;\n\nm) PS16, PS4 e AC2 do pólo de captação de Pernes;\n\nn) PS14 e PS8 do pólo de captação de Vaqueiros;\n\no) RA2 e JK7 do pólo de captação de Casével;\n\np) RA1 do pólo de captação de Pombalinho;\n\nq) PS22 e RA3 do pólo de captação de Alcanhões;\n\nlocalizadas no concelho de Santarém, nos termos dos artigos seguintes.\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo i à presente portaria, que dela faz parte integrante."
+  },
+  "107956394": {
+   "fragment_id": "107951670",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de protecção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de protecção imediata\n\n1 - A zona de protecção imediata respeitante aos perímetros de protecção mencionados no artigo anterior corresponde à área da superfície do terreno envolvente à captação delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo ii à presente portaria, que dela faz parte integrante.\n\n2 - É interdita qualquer instalação ou actividade na zona de protecção imediata a que se refere o número anterior, com excepção das que têm por objectivo a conservação, manutenção e melhor exploração da captação, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de Setembro."
+  },
+  "107956395": {
+   "fragment_id": "107951671",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de protecção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zona de protecção intermédia\n\n1 - A zona de protecção intermédia respeitante aos perímetros de protecção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo iii à presente portaria, que dela faz parte integrante.\n\n2 - Na zona de protecção intermédia a que se refere o número anterior são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de Setembro, as seguintes actividades e instalações:\n\na) Infra-estruturas aeronáuticas;\n\nb) Oficinas e estações de serviço de automóveis;\n\nc) Depósitos de materiais radioactivos, de hidrocarbonetos e de resíduos perigosos;\n\nd) Postos de abastecimento e áreas de serviço de combustíveis;\n\ne) Transporte de hidrocarbonetos, de materiais radioactivos ou de outras substâncias perigosas;\n\nf) Canalizações de produtos tóxicos;\n\ng) Lixeiras e aterros sanitários, incluindo quaisquer tipo de aterros para resíduos perigosos, não perigosos ou inertes;\n\nh) A instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo;\n\ni) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias susceptíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desactivadas;\n\nj) Unidades industriais susceptíveis de produzir substâncias poluentes que, de forma directa ou indirecta, possam vir a alterar a qualidade da água subterrânea;\n\nl) Cemitérios;\n\nm) Pedreiras e explorações mineiras, bem como quaisquer indústrias extractivas;\n\nn) Depósitos de sucata.\n\n3 - Na zona de protecção intermédia a que se refere o n.º 1, são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de Setembro, ficando sujeitas a parecer prévio vinculativo da ARH do Tejo, I. P., as seguintes actividades e instalações:\n\na) A pastorícia, a qual pode ser desenvolvida desde que não cause problemas de poluição da água subterrânea, nomeadamente através do pastoreio intensivo;\n\nb) Os usos agrícolas e pecuários, os quais apenas são permitidos desde que não causem problemas de poluição da água subterrânea, nomeadamente através da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis, ou através da rejeição de efluentes no solo, incluindo o armazenamento de estrumes ou produtos potencialmente contaminantes, em locais que não estejam devidamente impermeabilizados e sem sistema de recolha de efluentes;\n\nc) A construção de edificações, as quais podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de fossa do tipo estanque;\n\nd) As estradas e caminhos de ferro, os quais podem ser permitidos desde que sejam tomadas as medidas necessárias para evitar a contaminação dos solos e da água subterrânea;\n\ne) Os espaços destinados a práticas desportivas e a instalação de parques de campismo, os quais podem ser permitidos desde que as instalações e ou actividades não promovam a contaminação da água subterrânea e seja assegurada a ligação das infra-estruturas de saneamento à rede municipal;\n\nf) A instalação de colectores de águas residuais e estações de tratamento de águas residuais, os quais podem ser permitidos desde que respeitem critérios rigorosos de estanquicidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\ng) As fossas de esgoto, as quais podem ser permitidas desde que respeitem rigorosos critérios de estanquicidade, devendo as fossas existentes ser substituídas e ou reconvertidas em sistemas estanques e, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, devem ser desactivadas todas as fossas com a efectivação da ligação predial ao sistema de saneamento."
+  },
+  "107956396": {
+   "fragment_id": "107951672",
+   "type": 11,
+   "heading": "Artigo 4.º — Zona de protecção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zona de protecção alargada\n\n1 - A zona de protecção alargada respeitante aos perímetros de protecção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo iv à presente portaria, que dela faz parte integrante.\n\n2 - Na zona de protecção alargada referida no número anterior são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de Setembro, as seguintes actividades e instalações:\n\na) Transporte de hidrocarbonetos, de materiais radioactivos ou de outras substâncias perigosas;\n\nb) Depósitos de materiais radioactivos, de hidrocarbonetos e de resíduos perigosos;\n\nc) Canalizações de produtos tóxicos;\n\nd) Refinarias e indústrias químicas;\n\ne) Lixeiras e aterros sanitários, incluindo quaisquer tipo de aterros para resíduos perigosos, não perigosos ou inertes;\n\nf) A instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo;\n\ng) Instalação de cemitérios;\n\nh) Instalação de oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis;\n\ni) Instalação de infra-estruturas aeronáuticas;\n\nj) Depósitos de sucata.\n\n3 - Na zona de protecção alargada referida no n.º 1 são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de Setembro, ficando sujeitas a parecer prévio vinculativo da ARH do Tejo, I. P., as seguintes actividades e instalações:\n\na) Utilização de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;\n\nb) A instalação de colectores de águas residuais e estações de tratamento de águas residuais, os quais podem ser permitidos desde que respeitem critérios rigorosos de estanquicidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\nc) As fossas de esgoto, as quais podem ser permitidas desde que respeitem rigorosos critérios de estanquicidade, devendo as fossas existentes ser substituídas e ou reconvertidas em sistemas estanques e, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, devem ser desactivadas todas as fossas com a efectivação da ligação predial ao sistema de saneamento;\n\nd) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias susceptíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desactivadas;\n\ne) Os cemitérios existentes à data da presente portaria, devendo estar sujeitos a medidas de monitorização da qualidade da água;\n\nf) As pedreiras e explorações mineiras, bem como quaisquer indústrias extractivas, as quais podem ser permitidas desde que não provoquem a deterioração da qualidade da água e ou diminuição das disponibilidades hídricas que comprometam o normal funcionamento dos sistemas de abastecimento;\n\ng) As oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis e infra-estruturas aeronáuticas são permitidos desde que seja garantida a impermeabilização do solo sob as zonas afectas à manutenção, reparação e circulação de automóveis e aeronaves, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer caso, ser garantida a recolha e ou tratamento de efluentes.\n\n4 - Na zona de protecção alargada referida no n.º 1 deve ser feita, pela entidade responsável pelas captações, a monitorização da qualidade da água nos cemitérios existentes à data de entrada em vigor da presente portaria, devendo os resultados dessa monitorização ser comunicados à ARH do Tejo, I. P."
+  },
+  "107956397": {
+   "fragment_id": "107951673",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação das zonas de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação das zonas de protecção\n\nAs zonas de protecção intermédia e alargada, respeitantes aos perímetros de protecção mencionados no artigo 1.º, encontram-se representadas no anexo v da presente portaria, que dela faz parte integrante."
+  },
+  "107956398": {
+   "fragment_id": "107951674",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107956400": {
+   "fragment_id": "107967976",
+   "type": 14,
+   "heading": "Anexo I — Coordenadas das captações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Coordenadas das captações\n\n(ver documento original)"
+  },
+  "107956401": {
+   "fragment_id": "107967977",
+   "type": 14,
+   "heading": "Anexo II — Zona de protecção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Zona de protecção imediata\n\nPólo de captação de Santarém\n\nCaptação AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nCaptação AC3\n\n(ver documento original)\n\nCaptação PS20\n\n(ver documento original)\n\nCaptação PS17\n\n(ver documento original)\n\nCaptação PS9\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nCaptação PS19\n\n(ver documento original)\n\nPólo de captação de Póvoa da Isenta\n\nCaptação PS24\n\n(ver documento original)\n\nCaptações PS18 e PS15\n\n(ver documento original)\n\nPólo de captação de Almoster\n\nCaptações JK1 e JK5\n\n(ver documento original)\n\nCaptação JK8\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nPólo de captação de Moçaria\n\nCaptação PS6\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nPólo de captação de Abitureiras\n\nCaptações PS10 e PS13\n\n(ver documento original)\n\nPólo de captação de Tremez\n\nCaptações FR1 e AC2\n\n(ver documento original)\n\nPólo de captação de Romeira\n\nCaptação AC1\n\n(ver documento original)\n\nPólo de captação de Gançaria\n\nCaptação PS23\n\n(ver documento original)\n\nCaptação PS25\n\n(ver documento original)\n\nPólo de captação de Abrã\n\nCaptação JK10A\n\n(ver documento original)\n\nPólo de captação de Amiais de Baixo\n\nCaptação AC2\n\n(ver documento original)\n\nCaptação AC1\n\n(ver documento original)\n\nPólo de captação de Arneiro das Milhariças\n\nCaptações PS26 e AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nPólo de captação de Pernes\n\nCaptações PS16, PS4 e AC2\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\nCaptação PS14\n\n(ver documento original)\n\nCaptação PS8\n\n(ver documento original)\n\nPólo de captação de Casével\n\nCaptação RA2\n\n(ver documento original)\n\nCaptação JK7\n\n(ver documento original)\n\nPólo de captação de Pombalinho\n\nCaptação RA1\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\nCaptação PS22\n\n(ver documento original)\n\nCaptação RA3\n\n(ver documento original)"
+  },
+  "107956402": {
+   "fragment_id": "107967978",
+   "type": 14,
+   "heading": "Anexo III — Zona de protecção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Zona de protecção intermédia\n\nPólo de captação de Santarém\n\nCaptação AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nCaptação AC3\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia das captações PS20, PS17, PS9 e PS19 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Póvoa da Isenta\n\nCaptações PS18 e PS15\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação PS24 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Almoster\n\nCaptações JK1 e JK5\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia das captações JK8 e PS1 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Moçaria\n\nCaptação PS6\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação PS1 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Abitureiras\n\nAs zonas de protecção imediata e intermédia das captações PS10 e PS13 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Tremez\n\nCaptações FR1 e AC2\n\n(ver documento original)\n\nPólo de captação de Romeira\n\nCaptação AC1\n\n(ver documento original)\n\nPólo de captação de Gançaria\n\nAs zonas de protecção imediata e intermédia das captações PS23 e PS25 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Abrã\n\nAs zonas de protecção imediata e intermédia da captação JK10A são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Amiais de Baixo\n\nCaptação AC2\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação AC1 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Arneiro das Milhariças\n\nCaptações PS26 e AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nPólo de captação de Pernes\n\nCaptações PS16, PS4 e AC2\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\nCaptação PS8\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação PS14 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Casével\n\nCaptação RA2\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação JK7 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Pombalinho\n\nCaptação RA1\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\nCaptação PS22\n\n(ver documento original)\n\nCaptação RA3\n\n(ver documento original)"
+  },
+  "107956403": {
+   "fragment_id": "107967979",
+   "type": 14,
+   "heading": "Anexo IV — Zona de protecção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Zona de protecção alargada\n\nPólo de captação de Santarém\n\nCaptações AC1, AC2, AC3, PS20, PS17, PS9 e PS1\n\n(ver documento original)\n\nCaptação PS19\n\n(ver documento original)\n\nPólo de captação de Póvoa da Isenta\n\nCaptação PS24\n\n(ver documento original)\n\nCaptações PS18 e PS15\n\n(ver documento original)\n\nPólo de captação de Almoster\n\nCaptações JK1 e JK5\n\n(ver documento original)\n\nCaptação JK8\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nPólo de captação de Moçaria\n\nCaptações PS6 e PS1\n\n(ver documento original)\n\nPólo de captação de Abitureiras\n\nCaptações PS10 e PS13\n\n(ver documento original)\n\nPólo de captação de Tremez\n\nCaptações FR1 e AC2\n\n(ver documento original)\n\nPólo de captação de Romeira\n\nCaptação AC1\n\n(ver documento original)\n\nPólo de captação de Gançaria\n\nCaptação PS23\n\n(ver documento original)\n\nCaptação PS25\n\n(ver documento original)\n\nPólo de captação de Abrã\n\nCaptação JK10A\n\n(ver documento original)\n\nPólo de captação de Amiais de Baixo\n\nCaptações AC2 e AC1\n\n(ver documento original)\n\nPólo de captação de Arneiro das Milhariças\n\nCaptações PS26, AC1 e AC2\n\n(ver documento original)\n\nPólo de captação de Pernes\n\nCaptações PS16, PS4 e AC2\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\nCaptação PS14\n\n(ver documento original)\n\nCaptação PS8\n\n(ver documento original)\n\nPólo de captação de Casével\n\nCaptação RA2\n\n(ver documento original)\n\nCaptação JK7\n\n(ver documento original)\n\nPólo de captação de Pombalinho\n\nCaptação RA1\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\nCaptações PS22 e RA3\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central)."
+  },
+  "107956404": {
+   "fragment_id": "107967980",
+   "type": 14,
+   "heading": "Anexo V — Planta de localização das zonas de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Planta de localização das zonas de protecção\n\nExtracto da Carta Militar de Portugal\n\nSérie M888 - 1/25 000 (IGeoE)\n\nPólo de captação de Santarém\n\n(ver documento original)\n\nPólo de captação de Póvoa da Isenta\n\n(ver documento original)\n\nPólo de captação de Almoster\n\n(ver documento original)\n\nPólo de captação de Moçaria\n\n(ver documento original)\n\nPólo de captação de Abitureiras\n\n(ver documento original)\n\nPólo de captação de Tremez\n\n(ver documento original)\n\nPólo de captação de Romeira\n\n(ver documento original)\n\nPólo de captação de Gançaria\n\n(ver documento original)\n\nPólo de captação de Abrã\n\n(ver documento original)\n\nPólo de captação de Amiais de Baixo\n\n(ver documento original)\n\nPólo de captação de Arneiro das Milhariças\n\n(ver documento original)\n\nPólo de captação de Pernes\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\n(ver documento original)\n\nPólo de captação de Casével\n\n(ver documento original)\n\nPólo de captação de Pombalinho\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\n(ver documento original)"
+  },
+  "107956427": {
+   "fragment_id": "107951669",
+   "type": 11,
+   "heading": "Artigo 1.º — Delimitação de perímetros de protecção",
+   "in_force_from": "2015-05-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "###### Artigo 1.º — Delimitação de perímetros de protecção\n\n1 - É aprovada a delimitação dos perímetros de protecção das captações designadas por:\n\na) AC1, AC2, AC3, PS20, PS17, PS9, PS1 e PS19 do pólo de captação de Santarém;\n\nb) PS24, PS18 e PS15 do pólo de captação de Póvoa da Isenta;\n\nc) JK1, JK5, JK8 e PS1 do pólo de captação de Almoster;\n\nd) PS6 e PS1 do pólo de captação de Moçaria;\n\ne) PS10 e PS13 do pólo de captação de Abitureiras;\n\nf) FR1 e AC2 do pólo de captação de Tremez;\n\ng) AC1 e SC1 do polo de captação de Romeira;\n\nh) PS23 e RA5 do polo de captação de Gançaria;\n\ni) JK10A do pólo de captação de Abrã;\n\nj) AC1 e RA4 do polo de captação de Amiais de Baixo;\n\nl) PS26, AC1 e AC2 do pólo de captação de Arneiro das Milhariças;\n\nm) PS16, PS4 e AC2 do pólo de captação de Pernes;\n\nn) PS14 e PS8 do pólo de captação de Vaqueiros;\n\no) RA2 e JK7 do pólo de captação de Casével;\n\np) RA1 do pólo de captação de Pombalinho;\n\nq) PS22 e RA3 do pólo de captação de Alcanhões;\n\nlocalizadas no concelho de Santarém, nos termos dos artigos seguintes.\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo i à presente portaria, que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  },
+  "107956399": {
+   "fragment_id": "107967975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 11 de Março de 2011."
+  },
+  "107956428": {
+   "fragment_id": "107967976",
+   "type": 14,
+   "heading": "Anexo I — Coordenadas das captações",
+   "in_force_from": "2015-05-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "## Anexo I — Coordenadas das captações\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  },
+  "107956429": {
+   "fragment_id": "107967977",
+   "type": 14,
+   "heading": "Anexo II — Zona de protecção imediata",
+   "in_force_from": "2015-05-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "## Anexo II — Zona de protecção imediata\n\nPólo de captação de Santarém\n\nCaptação AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nCaptação AC3\n\n(ver documento original)\n\nCaptação PS20\n\n(ver documento original)\n\nCaptação PS17\n\n(ver documento original)\n\nCaptação PS9\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nCaptação PS19\n\n(ver documento original)\n\nPólo de captação de Póvoa da Isenta\n\nCaptação PS24\n\n(ver documento original)\n\nCaptações PS18 e PS15\n\n(ver documento original)\n\nPólo de captação de Almoster\n\nCaptações JK1 e JK5\n\n(ver documento original)\n\nCaptação JK8\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nPólo de captação de Moçaria\n\nCaptação PS6\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nPólo de captação de Abitureiras\n\nCaptações PS10 e PS13\n\n(ver documento original)\n\nPólo de captação de Tremez\n\nCaptações FR1 e AC2\n\n(ver documento original)\n\nPolo de captação de Romeira\n\nCaptações AC1 e SC1\n\n(ver documento original)\n\nPolo de captação de Gançaria\n\nCaptação RA5\n\n(ver documento original)\n\nPólo de captação de Abrã\n\nCaptação JK10A\n\n(ver documento original)\n\nPolo de captação de Amiais de Baixo\n\nCaptação AC1\n\n(ver documento original)\n\nCaptação RA4\n\n(ver documento original)\n\nPólo de captação de Arneiro das Milhariças\n\nCaptações PS26 e AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nPólo de captação de Pernes\n\nCaptações PS16, PS4 e AC2\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\nCaptação PS14\n\n(ver documento original)\n\nCaptação PS8\n\n(ver documento original)\n\nPólo de captação de Casével\n\nCaptação RA2\n\n(ver documento original)\n\nCaptação JK7\n\n(ver documento original)\n\nPólo de captação de Pombalinho\n\nCaptação RA1\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\nCaptação PS22\n\n(ver documento original)\n\nCaptação RA3\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  },
+  "107956430": {
+   "fragment_id": "107967978",
+   "type": 14,
+   "heading": "Anexo III — Zona de protecção intermédia",
+   "in_force_from": "2015-05-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "## Anexo III — Zona de protecção intermédia\n\nPólo de captação de Santarém\n\nCaptação AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nCaptação AC3\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia das captações PS20, PS17, PS9 e PS19 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Póvoa da Isenta\n\nCaptações PS18 e PS15\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação PS24 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Almoster\n\nCaptações JK1 e JK5\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia das captações JK8 e PS1 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Moçaria\n\nCaptação PS6\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação PS1 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Abitureiras\n\nAs zonas de protecção imediata e intermédia das captações PS10 e PS13 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Tremez\n\nCaptações FR1 e AC2\n\n(ver documento original)\n\nPolo de captação de Romeira\n\nCaptações AC1 e SC1\n\n(ver documento original)\n\nPolo de captação de Gançaria\n\nCaptação RA5\n\n(ver documento original)\n\nPólo de captação de Abrã\n\nAs zonas de protecção imediata e intermédia da captação JK10A são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPolo de captação de Amiais de Baixo\n\nCaptação RA4\n\n(ver documento original)\n\nAs zonas de proteção imediata e intermédia da captação AC1 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no Anexo II da presente portaria.\n\nPólo de captação de Arneiro das Milhariças\n\nCaptações PS26 e AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nPólo de captação de Pernes\n\nCaptações PS16, PS4 e AC2\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\nCaptação PS8\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação PS14 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Casével\n\nCaptação RA2\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação JK7 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Pombalinho\n\nCaptação RA1\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\nCaptação PS22\n\n(ver documento original)\n\nCaptação RA3\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  },
+  "107956431": {
+   "fragment_id": "107967979",
+   "type": 14,
+   "heading": "Anexo IV — Zona de protecção alargada",
+   "in_force_from": "2015-05-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "## Anexo IV — Zona de protecção alargada\n\nPólo de captação de Santarém\n\nCaptações AC1, AC2, AC3, PS20, PS17, PS9 e PS1\n\n(ver documento original)\n\nCaptação PS19\n\n(ver documento original)\n\nPólo de captação de Póvoa da Isenta\n\nCaptação PS24\n\n(ver documento original)\n\nCaptações PS18 e PS15\n\n(ver documento original)\n\nPólo de captação de Almoster\n\nCaptações JK1 e JK5\n\n(ver documento original)\n\nCaptação JK8\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nPólo de captação de Moçaria\n\nCaptações PS6 e PS1\n\n(ver documento original)\n\nPólo de captação de Abitureiras\n\nCaptações PS10 e PS13\n\n(ver documento original)\n\nPólo de captação de Tremez\n\nCaptações FR1 e AC2\n\n(ver documento original)\n\nPolo de captação de Romeira\n\nCaptações AC1 e SC1\n\n(ver documento original)\n\nPolo de captação de Gançaria\n\nCaptação RA5\n\n(ver documento original)\n\nPólo de captação de Abrã\n\nCaptação JK10A\n\n(ver documento original)\n\nPolo de captação de Amiais de Baixo\n\nCaptações AC1 e RA4\n\n(ver documento original)\n\nNota: As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).\n\nPólo de captação de Arneiro das Milhariças\n\nCaptações PS26, AC1 e AC2\n\n(ver documento original)\n\nPólo de captação de Pernes\n\nCaptações PS16, PS4 e AC2\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\nCaptação PS14\n\n(ver documento original)\n\nCaptação PS8\n\n(ver documento original)\n\nPólo de captação de Casével\n\nCaptação RA2\n\n(ver documento original)\n\nCaptação JK7\n\n(ver documento original)\n\nPólo de captação de Pombalinho\n\nCaptação RA1\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\nCaptações PS22 e RA3\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  },
+  "107956432": {
+   "fragment_id": "107967980",
+   "type": 14,
+   "heading": "Anexo V — Planta de localização das zonas de protecção",
+   "in_force_from": "2015-05-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "## Anexo V — Planta de localização das zonas de protecção\n\nExtracto da Carta Militar de Portugal\n\nSérie M888 - 1/25 000 (IGeoE)\n\nPólo de captação de Santarém\n\n(ver documento original)\n\nPólo de captação de Póvoa da Isenta\n\n(ver documento original)\n\nPólo de captação de Almoster\n\n(ver documento original)\n\nPólo de captação de Moçaria\n\n(ver documento original)\n\nPólo de captação de Abitureiras\n\n(ver documento original)\n\nPólo de captação de Tremez\n\n(ver documento original)\n\nPolo de captação de Romeira\n\n(ver documento original)\n\nPolo de captação de Gançaria\n\n(ver documento original)\n\nPólo de captação de Abrã\n\n(ver documento original)\n\nPolo de captação de Amiais de Baixo\n\n(ver documento original)\n\nPólo de captação de Arneiro das Milhariças\n\n(ver documento original)\n\nPólo de captação de Pernes\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\n(ver documento original)\n\nPólo de captação de Casével\n\n(ver documento original)\n\nPólo de captação de Pombalinho\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  },
+  "107956433": {
+   "fragment_id": "107951669",
+   "type": 11,
+   "heading": "Artigo 1.º — Delimitação de perímetros de protecção",
+   "in_force_from": "2017-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "###### Artigo 1.º — Delimitação de perímetros de protecção\n\n1 - É aprovada a delimitação dos perímetros de protecção das captações designadas por:\n\na) AC1, AC2, AC3, PS20, PS17, PS9, PS1 e PS19 do pólo de captação de Santarém;\n\nb) PS24, PS18 e PS15 do pólo de captação de Póvoa da Isenta;\n\nc) JK1, JK5, JK8 e PS1 do pólo de captação de Almoster;\n\nd) PS6 e PS1 do pólo de captação de Moçaria;\n\ne) PS10 e PS13 do pólo de captação de Abitureiras;\n\nf) FR1 e AC2 do pólo de captação de Tremez;\n\ng) AC1 e SC1 do polo de captação de Romeira;\n\nh) PS23 e RA5 do polo de captação de Gançaria;\n\ni) JK10A do pólo de captação de Abrã;\n\nj) AC1 e RA4 do polo de captação de Amiais de Baixo;\n\nl) PS26, AC1 e AC2 do pólo de captação de Arneiro das Milhariças;\n\nm) PS16, PS4 e RA6 do polo de captação de Pernes;\n\nn) PS14 e PS8 do pólo de captação de Vaqueiros;\n\no) RA2, JK7 e RA7 do polo de captação de Casével;\n\np) RA1 do pólo de captação de Pombalinho;\n\nq) PS22 e RA3 do pólo de captação de Alcanhões;\n\nlocalizadas no concelho de Santarém, nos termos dos artigos seguintes.\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo I à presente portaria, da qual faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  },
+  "107956434": {
+   "fragment_id": "107967976",
+   "type": 14,
+   "heading": "Anexo I — Coordenadas das captações",
+   "in_force_from": "2017-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "## Anexo I — Coordenadas das captações\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  },
+  "107956435": {
+   "fragment_id": "107967977",
+   "type": 14,
+   "heading": "Anexo II — Zona de protecção imediata",
+   "in_force_from": "2017-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "## Anexo II — Zona de protecção imediata\n\nPólo de captação de Santarém\n\nCaptação AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nCaptação AC3\n\n(ver documento original)\n\nCaptação PS20\n\n(ver documento original)\n\nCaptação PS17\n\n(ver documento original)\n\nCaptação PS9\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nCaptação PS19\n\n(ver documento original)\n\nPólo de captação de Póvoa da Isenta\n\nCaptação PS24\n\n(ver documento original)\n\nCaptações PS18 e PS15\n\n(ver documento original)\n\nPólo de captação de Almoster\n\nCaptações JK1 e JK5\n\n(ver documento original)\n\nCaptação JK8\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nPólo de captação de Moçaria\n\nCaptação PS6\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nPólo de captação de Abitureiras\n\nCaptações PS10 e PS13\n\n(ver documento original)\n\nPólo de captação de Tremez\n\nCaptações FR1 e AC2\n\n(ver documento original)\n\nPolo de captação de Romeira\n\nCaptações AC1 e SC1\n\n(ver documento original)\n\nPolo de captação de Gançaria\n\nCaptação RA5\n\n(ver documento original)\n\nPólo de captação de Abrã\n\nCaptação JK10A\n\n(ver documento original)\n\nPolo de captação de Amiais de Baixo\n\nCaptação AC1\n\n(ver documento original)\n\nCaptação RA4\n\n(ver documento original)\n\nPólo de captação de Arneiro das Milhariças\n\nCaptações PS26 e AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nPolo de captação de Pernes\n\nPS16, PS4 e RA6\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\nCaptação PS14\n\n(ver documento original)\n\nCaptação PS8\n\n(ver documento original)\n\nPolo de captação de Casével\n\nJK7\n\n(ver documento original)\n\nRA7\n\n(ver documento original)\n\nPólo de captação de Pombalinho\n\nCaptação RA1\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\nCaptação PS22\n\n(ver documento original)\n\nCaptação RA3\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  },
+  "107956436": {
+   "fragment_id": "107967978",
+   "type": 14,
+   "heading": "Anexo III — Zona de protecção intermédia",
+   "in_force_from": "2017-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "## Anexo III — Zona de protecção intermédia\n\nPólo de captação de Santarém\n\nCaptação AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nCaptação AC3\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia das captações PS20, PS17, PS9 e PS19 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Póvoa da Isenta\n\nCaptações PS18 e PS15\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação PS24 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Almoster\n\nCaptações JK1 e JK5\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia das captações JK8 e PS1 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Moçaria\n\nCaptação PS6\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação PS1 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Abitureiras\n\nAs zonas de protecção imediata e intermédia das captações PS10 e PS13 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Tremez\n\nCaptações FR1 e AC2\n\n(ver documento original)\n\nPolo de captação de Romeira\n\nCaptações AC1 e SC1\n\n(ver documento original)\n\nPolo de captação de Gançaria\n\nCaptação RA5\n\n(ver documento original)\n\nPólo de captação de Abrã\n\nAs zonas de protecção imediata e intermédia da captação JK10A são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPolo de captação de Amiais de Baixo\n\nCaptação RA4\n\n(ver documento original)\n\nAs zonas de proteção imediata e intermédia da captação AC1 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no Anexo II da presente portaria.\n\nPólo de captação de Arneiro das Milhariças\n\nCaptações PS26 e AC1\n\n(ver documento original)\n\nCaptação AC2\n\n(ver documento original)\n\nPolo de captação de Pernes\n\nPS16, PS4 e RA6\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\nCaptação PS8\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação PS14 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPolo de captação de Casével\n\nJK7 e RA7\n\n(ver documento original)\n\nAs zonas de protecção imediata e intermédia da captação JK7 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.\n\nPólo de captação de Pombalinho\n\nCaptação RA1\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\nCaptação PS22\n\n(ver documento original)\n\nCaptação RA3\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  },
+  "107956437": {
+   "fragment_id": "107967979",
+   "type": 14,
+   "heading": "Anexo IV — Zona de protecção alargada",
+   "in_force_from": "2017-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "## Anexo IV — Zona de protecção alargada\n\nPólo de captação de Santarém\n\nCaptações AC1, AC2, AC3, PS20, PS17, PS9 e PS1\n\n(ver documento original)\n\nCaptação PS19\n\n(ver documento original)\n\nPólo de captação de Póvoa da Isenta\n\nCaptação PS24\n\n(ver documento original)\n\nCaptações PS18 e PS15\n\n(ver documento original)\n\nPólo de captação de Almoster\n\nCaptações JK1 e JK5\n\n(ver documento original)\n\nCaptação JK8\n\n(ver documento original)\n\nCaptação PS1\n\n(ver documento original)\n\nPólo de captação de Moçaria\n\nCaptações PS6 e PS1\n\n(ver documento original)\n\nPólo de captação de Abitureiras\n\nCaptações PS10 e PS13\n\n(ver documento original)\n\nPólo de captação de Tremez\n\nCaptações FR1 e AC2\n\n(ver documento original)\n\nPolo de captação de Romeira\n\nCaptações AC1 e SC1\n\n(ver documento original)\n\nPolo de captação de Gançaria\n\nCaptação RA5\n\n(ver documento original)\n\nPólo de captação de Abrã\n\nCaptação JK10A\n\n(ver documento original)\n\nPolo de captação de Amiais de Baixo\n\nCaptações AC1 e RA4\n\n(ver documento original)\n\nNota: As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).\n\nPólo de captação de Arneiro das Milhariças\n\nCaptações PS26, AC1 e AC2\n\n(ver documento original)\n\nPolo de captação de Pernes\n\nPS16, PS4 e RA6\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\nCaptação PS14\n\n(ver documento original)\n\nCaptação PS8\n\n(ver documento original)\n\nPolo de captação de Casével\n\nJK7 e RA7\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).\n\nPólo de captação de Pombalinho\n\nCaptação RA1\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\nCaptações PS22 e RA3\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  },
+  "107956438": {
+   "fragment_id": "107967980",
+   "type": 14,
+   "heading": "Anexo V — Planta de localização das zonas de protecção",
+   "in_force_from": "2017-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+   ],
+   "markdown": "## Anexo V — Planta de localização das zonas de protecção\n\nExtracto da Carta Militar de Portugal\n\nSérie M888 - 1/25 000 (IGeoE)\n\nPólo de captação de Santarém\n\n(ver documento original)\n\nPólo de captação de Póvoa da Isenta\n\n(ver documento original)\n\nPólo de captação de Almoster\n\n(ver documento original)\n\nPólo de captação de Moçaria\n\n(ver documento original)\n\nPólo de captação de Abitureiras\n\n(ver documento original)\n\nPólo de captação de Tremez\n\n(ver documento original)\n\nPolo de captação de Romeira\n\n(ver documento original)\n\nPolo de captação de Gançaria\n\n(ver documento original)\n\nPólo de captação de Abrã\n\n(ver documento original)\n\nPolo de captação de Amiais de Baixo\n\n(ver documento original)\n\nPólo de captação de Arneiro das Milhariças\n\n(ver documento original)\n\nPolo de captação de Pernes\n\nPS16, PS4 e RA6\n\n(ver documento original)\n\nPólo de captação de Vaqueiros\n\n(ver documento original)\n\nPolo de captação de Casével\n\nJK7 e RA7\n\n(ver documento original)\n\nPólo de captação de Pombalinho\n\n(ver documento original)\n\nPólo de captação de Alcanhões\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/249-2017-107963498), em vigor a partir de 2017-08-08\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 126/2015 - Diário da República n.º 89/2015, Série I de 2015-05-08](https://diariodarepublica.pt/dr/detalhe/portaria/126-2015-67175408), em vigor a partir de 2015-05-09"
+  }
+ }
+}

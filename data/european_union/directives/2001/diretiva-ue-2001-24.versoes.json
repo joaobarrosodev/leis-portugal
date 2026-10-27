@@ -1,0 +1,492 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0024:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0024-20140702",
+ "dre_path": null,
+ "source_lastmod": "2014-07-02",
+ "versions": [
+  {
+   "date": "2014-07-02",
+   "future": false,
+   "celex": "02001L0024-20140702",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dffcc7e96052bbec",
+    "ffc348f463b781ad",
+    "5ab355e9e3267ddf",
+    "38a796d40b1ed85d",
+    "b278d287104fc3f6",
+    "4c8bdeab3d91ec7d",
+    "bc3f4e5b9583f8b8",
+    "35bfd6367ce0d4c6",
+    "d91ef9300db7c5eb",
+    "1b3f8f117a4aeeb0",
+    "4d1c7fd6c9cdf887",
+    "641e2561e1eb2f68",
+    "f069b7f95ad0137d",
+    "d70066590358fac9",
+    "aebd514bc5c6b98f",
+    "6bcab33d25656132",
+    "6ce539c988f6fe4e",
+    "9db704600627e53c",
+    "ae9e81e69c2174a4",
+    "35bfd6367ce0d4c6",
+    "d91ef9300db7c5eb",
+    "27ad12c04fb0f1e3",
+    "bf983493d42d5bc5",
+    "75f3e1a23810baff",
+    "3f6feec0125c2016",
+    "28299d687c5a0b15",
+    "89cc0240e6efbd43",
+    "a8b4b939aceb3c8b",
+    "56393de2e175642c",
+    "dcc513a10b67dbca",
+    "63c73dda85d3a54c",
+    "aebd514bc5c6b98f",
+    "6bcab33d25656132",
+    "e227c8d6b4d000d3",
+    "662cf62f00c33127",
+    "94b1b662f7acca91",
+    "15dff08d245b8344",
+    "474abdf395840a4a",
+    "584b83b6502a3c10",
+    "493a4ed8c279400b",
+    "d0feed26d035d315",
+    "c2a042c630a09c9c",
+    "057dd42d1577beb7",
+    "8658f26ae3a0b958",
+    "92ce0bf4858b4af6",
+    "1ab2a0a9b7565a69",
+    "5fd65460a832f26e",
+    "f75b27a722241863",
+    "521848e0bc3ad3e9",
+    "20403ce8cabae1ce",
+    "4f8efffddfe96470",
+    "dde9cf53e9ae6c9a",
+    "0a634d47aa76f076",
+    "0ae115e96790ba9c",
+    "e6c8191c5399b090",
+    "71a1e56fa1a7e290"
+   ]
+  }
+ ],
+ "fragments": {
+  "dffcc7e96052bbec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Abril de 2001\n\nrelativa ao saneamento e à liquidação das instituições de crédito\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente o n.º 2 do seu artigo 47.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Instituto Monetário Europeu ([^3^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#E0004)),\n\n(1) De acordo com os objectivos do Tratado, dever-se-á promover o desenvolvimento harmonioso e equilibrado das actividades económicas no conjunto da Comunidade, suprimindo todos os obstáculos à liberdade de estabelecimento e à liberdade de prestação de serviços no interior da Comunidade.\n\n(2) Paralelamente à supressão desses obstáculos, deve ser dada atenção especial à situação que pode surgir em caso de dificuldades numa instituição de crédito, nomeadamente quando a referida instituição tenha sucursais noutros Estados-Membros.\n\n(3) A presente directiva insere-se num contexto legislativo comunitário criado pela Directiva 2000/12/CE, do Parlamento Europeu e do Conselho, de 20 de Março de 2000 relativa ao acesso à actividade das instituições de crédito e ao seu exercício ([^5^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#E0005)), de onde resulta que, durante o seu período de actividade, a instituição de crédito e as suas sucursais formam uma única entidade, sujeita à supervisão das autoridades competentes do Estado-Membro que concedeu a autorização válida para o conjunto da Comunidade.\n\n(4) Será particularmente inoportuno renunciar a essa unidade que a instituição forma com as suas sucursais quando for necessário adoptar medidas de saneamento ou instaurar um processo de liquidação.\n\n(5) A aprovação da Directiva 94/19/CE do Parlamento Europeu e do Conselho, de 30 de Maio de 1994, relativa aos sistemas de garantia de depósitos ([^6^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#E0006)), que introduziu o princípio da adesão obrigatória das instituições de crédito a um sistema de garantia do Estado-Membro de origem, vem reforçar a necessidade do reconhecimento mútuo das medidas de saneamento e dos processos de liquidação.\n\n(6) Convém confiar às autoridades administrativas ou judiciais do Estado-Membro de origem a competência exclusiva para decidir e aplicar as medidas de saneamento previstas na legislação e nos usos em vigor nesse Estado-Membro; dada a dificuldade em harmonizar as legislações e usos dos Estados-Membros, torna-se necessário recorrer ao reconhecimento mútuo, pelos Estados-Membros, das medidas adoptadas por cada um deles para restabelecer a viabilidade das instituições por eles autorizadas.\n\n(7) É imprescindível garantir que as medidas de saneamento das instituições de crédito adoptadas pelas autoridades administrativas ou judiciais do Estado-Membro de origem, bem como as medidas adoptadas pelas pessoas ou órgãos designados por essas autoridades para gerir essas medidas de saneamento, incluindo as medidas que impliquem a possibilidade de uma suspensão de pagamentos, de uma suspensão de medidas de execução ou de redução de créditos, bem como qualquer outra medida susceptível de afectar os direitos pré-existentes de terceiros, produzam os seus efeitos em todos os Estados-Membros.\n\n(8) Determinadas medidas, nomeadamente as que afectam o funcionamento da estrutura interna das instituições de crédito ou os direitos dos dirigentes ou dos accionistas, não necessitam de ser abrangidas pela presente directiva para produzirem todos os seus efeitos nos Estados-Membros, na medida em que, segundo as regras de Direito Internacional Privado, a lei aplicável é a do Estado de origem.\n\n(9) Determinadas medidas, nomeadamente as relacionadas com a preservação das condições de autorização, já beneficiam do reconhecimento mútuo, ao abrigo da Directiva 2000/12/CE, na medida em que não prejudiquem os direitos de terceiros existentes no momento da sua adopção.\n\n(10) Neste contexto, as pessoas que participam no funcionamento da estrutura interna das instituições de crédito e os dirigentes e accionistas dessas instituições, considerados nessas qualidades, não devem ser tidos como terceiros para efeitos da presente directiva.\n\n(11) Nos Estados-Membros onde existam sucursais, é necessária uma publicidade que informe terceiros da aplicação de medidas de saneamento, quando essas medidas forem susceptíveis de dificultar o exercício de alguns dos seus direitos.\n\n(12) O princípio da igualdade de tratamento entre os credores, quanto às suas possibilidades de recurso, obriga a que as autoridades administrativas ou judiciais do Estado-Membro de origem adoptem as medidas necessárias para que os credores do Estado-Membro de acolhimento possam exercer os seus direitos de recurso no prazo previsto para esse efeito.\n\n(13) Dever-se-á prever uma certa coordenação do papel das autoridades administrativas ou judiciais no que se refere às medidas de saneamento e aos processos de liquidação das sucursais das instituições de crédito com sede estatutária fora da Comunidade situadas em diferentes Estados-Membros.\n\n(14) Na falta ou em caso de malogro das medidas de saneamento, as instituições de crédito em situação de crise devem ser liquidadas. Nesse caso, dever-se-ão prever determinadas disposições que visem o reconhecimento mútuo dos processos de liquidação e dos seus efeitos na Comunidade.\n\n(15) O importante papel desempenhado pelas autoridades competentes do Estado-Membro de origem, antes da abertura do processo de liquidação, pode-se prolongar durante a liquidação, a fim de permitir que o processo de liquidação decorra correctamente.\n\n(16) A igualdade dos credores exige que a instituição de crédito seja liquidada de acordo com os princípios da unidade e universalidade, que requerem a competência exclusiva das autoridades administrativas e judiciais do Estado-Membro de origem e o reconhecimento das suas decisões que devem poder produzir em todos os outros Estados-Membros, sem qualquer formalidade, os efeitos que a lei lhes atribui no Estado-Membro de origem, salvo disposição em contrário da presente directiva.\n\n(17) A excepção relativa aos efeitos das medidas de saneamento e dos processos de liquidação sobre determinados contratos e direitos limita-se a esses efeitos e não abrange as restantes questões relativas às medidas de saneamento e aos processos de liquidação, como a produção, a verificação, a admissão e a graduação dos créditos relativos a esses contratos e a esses direitos e as regras de distribuição do produto da venda dos bens, que são regulados pela legislação do Estado-Membro de origem.\n\n(18) A liquidação voluntária é possível se a instituição de crédito estiver solvente. No entanto, se for caso disso, as autoridades administrativas ou judiciais do Estado-Membro de origem podem determinar a adopção de medidas de saneamento ou iniciar um processo de liquidação, mesmo depois da abertura de uma liquidação voluntária.\n\n(19) A revogação da autorização bancária deve ser uma das consequências necessárias da abertura do processo de liquidação de uma instituição de crédito. Todavia, essa revogação não deve impedir a prossecução de certas actividades da instituição, na medida em que sejam necessárias ou adequadas para efeitos da liquidação. A prossecução da actividade pode, contudo, ser condicionada pelo Estado-Membro de origem ao acordo e ao controlo das suas autoridades competentes.\n\n(20) A informação individual dos credores conhecidos é tão essencial como a publicidade para lhes permitir, se necessário, reclamar os seus créditos ou apresentar as observações relativas aos mesmos nos prazos prescritos. Por esse facto, não deve existir nenhuma discriminação em prejuízo dos credores domiciliados num Estado-Membro diverso do Estado-Membro de origem, baseada no seu local de residência ou na natureza dos seus créditos. A informação dos credores deve prosseguir regularmente e de forma apropriada durante o processo de liquidação.\n\n(21) Exclusivamente para efeitos de aplicação da presente directiva às medidas de saneamento e aos processos de liquidação de sucursais, situadas na Comunidade, de instituições de crédito com sede social num país terceiro, a definição de «Estado-Membro de origem», «autoridades competentes» e «autoridades administrativas ou judiciais» são as do Estado-Membro em que se situa a sucursal.\n\n(22) Sempre que uma instituição de crédito com sede social fora da Comunidade possua sucursais em vários Estados-Membros, cada sucursal beneficiará, para efeitos da presente directiva, de um tratamento individual, devendo, nesse caso, as autoridades administrativas ou judiciais e as autoridades competentes, bem como os administradores e liquidatários, esforçar-se por coordenar as suas acções.\n\n(23) Se é importante reconhecer o princípio segundo o qual a lei do Estado-Membro de origem determina todos os efeitos das medidas de saneamento ou dos processos de liquidação, sejam eles processuais ou materiais, deve-se, no entanto, tomar em consideração que esses efeitos podem entrar em conflito com as regras normalmente aplicáveis no âmbito da actividade económica e financeira da instituição de crédito e das suas sucursais nos outros Estados-Membros. O reenvio para a lei de outro Estado-Membro constitui, em certos casos, uma atenuação indispensável do princípio da aplicabilidade da lei do Estado de origem.\n\n(24) Essa atenuação é particularmente necessária a fim de proteger os trabalhadores vinculados à instituição por um contrato de trabalho, garantir a segurança das transacções relativas a certos bens e preservar a integridade dos mercados regulamentados que funcionam segundo o direito de um Estado-Membro e nos quais são negociados instrumentos financeiros.\n\n(25) As transacções efectuadas no âmbito de sistemas de pagamento e sistemas de liquidação encontram-se abrangidas pela Directiva 98/26/CE do Parlamento Europeu e do Conselho, de 19 de Maio de 1998, relativa ao carácter definitivo da liquidação nos sistemas de pagamentos e de liquidação de valores mobiliários ([^7^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#E0007)).\n\n(26) A aprovação da presente directiva não põe em causa as disposições da Directiva 98/26/CE, segundo a qual um processo de insolvência não deve ter quaisquer efeitos sobre a oponibilidade das ordens validamente introduzidas num sistema, nem sobre as garantias dadas a um sistema.\n\n(27) Em relação a certas medidas de saneamento ou processos de liquidação, está prevista a nomeação de uma pessoa incumbida de gerir essas medidas ou esses processos. O reconhecimento da sua nomeação e dos seus poderes em todos os outros Estados-Membros é um elemento essencial para a aplicação das decisões adoptadas no Estado-Membro de origem. Importa, contudo, precisar os limites que circunscrevem o exercício dos poderes dessa pessoa quando actua fora do Estado-Membro de origem.\n\n(28) Importa proteger os credores que tenham contratado com a instituição de crédito, antes da adopção de uma medida de saneamento ou da abertura de um processo de liquidação, contra as disposições relativas à nulidade, anulação ou inoponibilidade previstas na lei do Estado-Membro de origem, quando o beneficiário da transacção fizer prova de que, na lei aplicável a essa transacção, não existe nenhum meio que, no caso vertente, permita impugnar o acto em causa.\n\n(29) Importa salvaguardar a confiança dos terceiros adquirentes no conteúdo dos registos ou das contas em relação a certos activos inscritos nesses registos ou contas e, por extensão, dos adquirentes de bens imóveis, mesmo depois da abertura do processo de liquidação ou da adopção de uma medida de saneamento. O único meio de preservar essa confiança consiste em submeter a validade da aquisição à lei do lugar em que se situa o imóvel ou à do Estado sob cuja autoridade são mantidos o registo ou a conta.\n\n(30) Os efeitos das medidas de saneamento e dos processos de liquidação sobre acções pendentes são, por excepção à aplicação da *lex concursus*, regulados pela lei do Estado-Membro da instância. Segundo a norma geral estabelecida na presente directiva, os efeitos dessas medidas e processos sobre cada execução decorrente das referidas acções são regulados pela legislação do Estado-Membro de origem.\n\n(31) Importa prever que as autoridades administrativas ou judiciais do Estado-Membro de origem informem, sem demora, as autoridades competentes do Estado-Membro de acolhimento da adopção de qualquer medida de saneamento ou da abertura de um processo de liquidação, se possível antes da adopção da medida ou da abertura do processo ou, não sendo possível, imediatamente depois.\n\n(32) Considerando que o segredo profissional, na acepção do artigo 30.º da Directiva 2000/12/CE, é, em todos os processos de informação ou de consulta, um elemento essencial que deve, por isso, ser respeitado por todas as autoridades administrativas que participem nesses processos, permanecendo, nesse ponto, as autoridades judiciais, sujeitas às disposições nacionais que lhes são aplicáveis,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "5ab355e9e3267ddf": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "38a796d40b1ed85d": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva é aplicável às instituições de crédito e às suas sucursais criadas num Estado-Membro que não o da sede estatutária, tal como definidas nos primeiro e terceiro pontos do artigo 1.º da Directiva 2000/12/CE, sem prejuízo das condições e isenções previstas no n.º 3 do artigo 2.º da referida directiva.\n\n2. As disposições da presente directiva que tenham por objecto as sucursais de uma instituição de crédito com sede estatutária fora da Comunidade só são aplicáveis se essa instituição de crédito possuir sucursais em, pelo menos, dois Estados-Membros da Comunidade.\n\n3. A presente diretiva é também aplicável às empresas de investimento na aceção do artigo 4.º, n.º 1, ponto 2, do Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#E0008)) e às suas sucursais situadas em Estados-Membros diferentes do da sua sede.\n\n4. Em caso de aplicação dos instrumentos de resolução e de exercício dos poderes de resolução previstos na Diretiva 2014/59/UE do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#E0009)), a presente diretiva é também aplicável às instituições financeiras, às empresas e às empresas-mãe abrangidas pela Diretiva 2014/59/UE.\n\n5. Os artigos 4.º e 7.º da presente diretiva não são aplicáveis caso se aplique o artigo 83.º da Diretiva 2014/59/UE.\n\n6. O artigo 33.º da presente diretiva não é aplicável caso se aplique o artigo 84.º da Diretiva 2014/59/UE."
+  },
+  "b278d287104fc3f6": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente diretiva, entende-se por:\n\n— «Estado-Membro de origem», o Estado-Membro de origem na aceção do artigo 4.º, n.º 1, ponto 43, do Regulamento (UE) n.º 575/2013;\n\n— «Estado-Membro de acolhimento», o Estado-Membro de acolhimento na aceção do artigo 4.º, n.º 1, ponto 44, do Regulamento (UE) n.º 575/2013;\n\n— «Sucursal», uma sucursal na aceção do artigo 4.º, n.º 1, ponto 17, do Regulamento (UE) n.º 575/2013;\n\n— «Autoridade competente», uma autoridade competente na aceção do artigo 4.º, n.º 1, ponto 40, do Regulamento (UE) n.º 575/2013, ou uma autoridade de resolução na aceção do artigo 2.º, n.º 1, ponto 18, da Diretiva 2014/59/UE no que diz respeito a medidas de saneamento tomadas nos termos da referida diretiva;\n\n— «Administrador», uma pessoa ou um órgão nomeado pelas autoridades administrativas ou judiciais que tenha por função gerir medidas de saneamento;\n\n— «Autoridades administrativas ou judiciais», as autoridades administrativas ou judiciais dos Estados-Membros competentes em matéria de medidas de saneamento ou de processos de liquidação;\n\n— «Medidas de saneamento», medidas destinadas a preservar ou restabelecer a situação financeira de uma instituição de crédito ou de uma empresa de investimento na aceção do artigo 4.º, n.º 1, ponto 2, do Regulamento (UE) n.º 575/2013, suscetíveis de afetar direitos preexistentes de terceiros, incluindo medidas que impliquem a possibilidade de suspensão de pagamentos, suspensão de medidas de execução ou redução dos créditos; estas medidas incluem a aplicação dos instrumentos de resolução e o exercício dos poderes de resolução previstos na Diretiva 2014/59/UE;\n\n— «Liquidatário», uma pessoa ou um órgão nomeado pelas autoridades administrativas ou judiciais que tenha por função gerir processos de liquidação;\n\n— «Processo de liquidação», um processo coletivo aberto e controlado pelas autoridades administrativas ou judiciais de um Estado-Membro com o objetivo de proceder à liquidação dos bens, sob fiscalização dessas autoridades, inclusive quando esse processo é concluído por uma concordata ou por outra medida análoga;\n\n— «Mercado regulamentado», um mercado regulamentado na aceção do artigo 4.º, n.º 1, ponto 21, da Diretiva 2014/65/UE do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#E0010));\n\n— «Instrumento», um instrumento na aceção do artigo 4.º, n.º 1, ponto 50, alínea b), do Regulamento (UE) n.º 575/2013."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "bc3f4e5b9583f8b8": {
+   "fragment_id": "MEDIDAS DE SANEAMENTO",
+   "type": "divisao",
+   "heading": "MEDIDAS DE SANEAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS DE SANEAMENTO"
+  },
+  "35bfd6367ce0d4c6": {
+   "fragment_id": "A.",
+   "type": "divisao",
+   "heading": "A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## A."
+  },
+  "d91ef9300db7c5eb": {
+   "fragment_id": "Instituições de crédito com sede estatutária na Comunidade",
+   "type": "divisao",
+   "heading": "Instituições de crédito com sede estatutária na Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Instituições de crédito com sede estatutária na Comunidade"
+  },
+  "1b3f8f117a4aeeb0": {
+   "fragment_id": "Artigo 3.º — Adopção de medidas de saneamento — lei aplicável",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Adopção de medidas de saneamento — lei aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Adopção de medidas de saneamento — lei aplicável\n\n1. Só as autoridades administrativas ou judiciais do Estado-Membro de origem têm competência para determinar a aplicação, numa instituição de crédito, inclusivamente em relação às sucursais estabelecidas noutros Estados-Membros, de uma ou mais medidas de saneamento.\n\n2. Salvo disposição em contrário da presente directiva, as medidas de saneamento são aplicadas de acordo com as leis, regulamentos e procedimentos aplicáveis no Estado-Membro de origem.\n\nAs referidas medidas produzem todos os seus efeitos de acordo com a legislação desse Estado-Membro, em toda a Comunidade, sem nenhuma outra formalidade, inclusivamente em relação a terceiros nos outros Estados-Membros, mesmo que as normas do Estado-Membro de acolhimento que lhes sejam aplicáveis não prevejam tais medidas ou sujeitem a sua aplicação a condições que não se encontrem preenchidas.\n\nAs medidas de saneamento produzirão os seus efeitos em toda a Comunidade logo que produzam os seus efeitos no Estado-Membro em que foram tomadas."
+  },
+  "4d1c7fd6c9cdf887": {
+   "fragment_id": "Artigo 4.º — Informações a prestar às autoridades competentes do Estado-Membro de acolhimento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Informações a prestar às autoridades competentes do Estado-Membro de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informações a prestar às autoridades competentes do Estado-Membro de acolhimento\n\nAs autoridades administrativas ou judiciais do Estado-Membro de origem devem informar sem demora, por todos os meios adequados, as autoridades competentes do Estado-Membro de acolhimento da sua decisão de aprovar quaisquer medidas de saneamento e dos efeitos concretos que essa medida poderá acarretar, se possível antes de serem aprovadas ou, não sendo possível, imediatamente depois. A comunicação é efectuada pelas autoridades competentes do Estado-Membro de origem."
+  },
+  "641e2561e1eb2f68": {
+   "fragment_id": "Artigo 5.º — Informações a prestar às autoridades competentes do Estado-Membro de origem",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Informações a prestar às autoridades competentes do Estado-Membro de origem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Informações a prestar às autoridades competentes do Estado-Membro de origem\n\nSe as autoridades administrativas ou judiciais do Estado-Membro de acolhimento considerarem necessária a aplicação, no seu território, de uma ou mais medidas de saneamento, devem informar desse facto as autoridades competentes do Estado-Membro de origem. A comunicação é efectuada pelas autoridades competentes do Estado-Membro de acolhimento."
+  },
+  "f069b7f95ad0137d": {
+   "fragment_id": "Artigo 6.º — Publicação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Publicação\n\n1. Se a aplicação das medidas de saneamento determinadas nos termos dos n.^os^ 1 e 2 do artigo 3.º for susceptível de afectar os direitos de terceiros num Estado-Membro de acolhimento e se, no Estado-Membro de origem, for possível interpor recurso da decisão de aplicação de tais medidas, as autoridades administrativas ou judiciais do Estado-Membro de origem, o administrador ou qualquer pessoa habilitada para o efeito no Estado-Membro de origem devem publicar um extracto da sua decisão no *Jornal Oficial das Comunidades Europeias* e em dois jornais de circulação nacional de cada um dos Estados-Membros de acolhimento, por forma, nomeadamente, a permitir o exercício atempado dos direitos de recurso.\n\n2. O extracto da decisão referido no n.º 1 será enviado, o mais rapidamente possível e pelas vias mais adequadas, ao Serviço das Publicações Oficiais das Comunidades Europeias e a dois jornais de circulação nacional de cada Estado-Membro de acolhimento.\n\n3. O Serviço das Publicações Oficiais das Comunidades Europeias publicará o extracto o mais tardar doze dias após o seu envio.\n\n4. O extracto da decisão a publicar deve mencionar, na ou nas línguas oficiais dos Estados-Membros em causa, designadamente, o objecto e o fundamento jurídico da decisão tomada, os prazos de recurso, em particular e de forma facilmente compreensível o termo desses prazos e, de forma precisa, o endereço das autoridades ou do órgão jurisdicional competentes para conhecer do recurso.\n\n5. As medidas de saneamento são aplicáveis independentemente das medidas previstas nos n.^os^ 1 a 3 e produzem todos os seus efeitos em relação aos credores, salvo disposição em contrário das autoridades administrativas ou judiciais do Estado-Membro de origem ou da legislação desse Estado relativa a essas medidas."
+  },
+  "d70066590358fac9": {
+   "fragment_id": "Artigo 7.º — Dever de informar os credores conhecidos e direito de reclamar créditos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Dever de informar os credores conhecidos e direito de reclamar créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dever de informar os credores conhecidos e direito de reclamar créditos\n\n1. Quando a legislação do Estado-Membro de origem exigir a reclamação de um crédito para efeitos do seu reconhecimento, ou previr uma notificação obrigatória da medida aos credores que tenham o seu domicílio, a sua residência habitual ou a sua sede estatutária nesse Estado, as autoridades administrativas ou judiciais do Estado-Membro de origem ou o administrador informarão também os credores conhecidos que tenham o seu domicílio, a sua residência habitual ou a sua sede estatutária nos outros Estados-Membros, de acordo com as regras previstas no artigo 14.º e no n.º 1 do artigo 17.º da presente directiva.\n\n2. Quando a legislação do Estado-Membro de origem conferir aos credores que tenham o seu domicílio, a sua residência habitual ou a sua sede estatutária nesse Estado o direito de reclamarem os seus créditos ou apresentarem observações relativas aos seus créditos, os credores que tenham o seu domicílio, a sua residência habitual ou a sua sede estatutária nos outros Estados-Membros também beneficiam desse direito, de acordo com as regras previstas no artigo 16.º e no n.º 2 do artigo 17.º da presente directiva."
+  },
+  "aebd514bc5c6b98f": {
+   "fragment_id": "B.",
+   "type": "divisao",
+   "heading": "B.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## B."
+  },
+  "6bcab33d25656132": {
+   "fragment_id": "Instituições de crédito com sede estatutária fora da Comunidade",
+   "type": "divisao",
+   "heading": "Instituições de crédito com sede estatutária fora da Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Instituições de crédito com sede estatutária fora da Comunidade"
+  },
+  "6ce539c988f6fe4e": {
+   "fragment_id": "Artigo 8.º — Sucursais de instituições de crédito de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Sucursais de instituições de crédito de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sucursais de instituições de crédito de países terceiros\n\n1. As autoridades administrativas ou judiciais do Estado-Membro de acolhimento de uma sucursal de uma instituição de crédito com sede estatutária fora da Comunidade devem informar sem demora, por todos os meios adequados, as autoridades competentes dos outros Estados-Membros de acolhimento onde a instituição tenha criado sucursais constantes da lista referida no artigo 11.º da Directiva 2000/12/CE, lista essa que é publicada anualmente no *Jornal Oficial das Comunidades Europeias*, da sua decisão de aprovar quaisquer medidas de saneamento e dos efeitos concretos que essas medidas poderão acarretar, se possível antes de serem aprovadas ou, não sendo possível, imediatamente depois. A comunicação é efectuada pelas autoridades competentes do Estado-Membro de acolhimento cujas autoridades administrativas ou judiciais tenham decidido a aplicação da medida.\n\n2. As autoridades administrativas ou judiciais referidas no n.º 1 esforçar-se-ão por coordenar as suas acções."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "ae9e81e69c2174a4": {
+   "fragment_id": "PROCESSO DE LIQUIDAÇÃO",
+   "type": "divisao",
+   "heading": "PROCESSO DE LIQUIDAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCESSO DE LIQUIDAÇÃO"
+  },
+  "27ad12c04fb0f1e3": {
+   "fragment_id": "Artigo 9.º — Abertura de um processo de liquidação — Informações a prestar às outras autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Abertura de um processo de liquidação — Informações a prestar às outras autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Abertura de um processo de liquidação — Informações a prestar às outras autoridades competentes\n\n1. Só as autoridades administrativas ou judiciais do Estado-Membro de origem responsáveis pela liquidação têm competência para decidir da abertura de um processo de liquidação de uma instituição de crédito, inclusivamente em relação às sucursais estabelecidas noutros Estados-Membros.\n\nUma decisão de abertura de um processo de liquidação proferida pelas autoridades administrativas ou judiciais do Estado-Membro de origem será reconhecida, sem qualquer outra formalidade, no território de todos os outros Estados-Membros, neles produzindo efeitos logo que a decisão produza os seus efeitos no Estado-Membro de abertura do processo.\n\n2. As autoridades administrativas ou judiciais do Estado-Membro de origem devem informar sem demora, por todos os meios adequados, as autoridades competentes do Estado-Membro de acolhimento da sua decisão de abrir um processo de liquidação e dos efeitos concretos que esse processo poderá acarretar, se possível antes da abertura ou, não sendo possível, imediatamente depois. A comunicação é efectuada pelas autoridades competentes do Estado de origem."
+  },
+  "bf983493d42d5bc5": {
+   "fragment_id": "Artigo 10.º — Legislação aplicável",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Legislação aplicável\n\n1. Salvo disposição em contrário da presente directiva, a instituição de crédito será liquidada de acordo com as leis, regulamentos e procedimentos aplicáveis no Estado-Membro de origem.\n\n2. São determinados pela lei do Estado-Membro de origem, designadamente:\n\na) Os bens que fazem parte da massa falida e o destino a dar aos bens adquiridos pela instituição de crédito após a abertura do processo de liquidação;\n\nb) Os poderes respectivos da instituição de crédito e do liquidatário;\n\nc) As condições de oponibilidade de uma compensação;\n\nd) Os efeitos do processo de liquidação sobre os contratos em vigor nos quais a instituição de crédito seja parte;\n\ne) Os efeitos do processo de liquidação sobre as acções intentadas por credores individuais, com excepção dos processos pendentes previstos no artigo 32.º;\n\nf) Os créditos a reclamar no passivo da instituição de crédito e o destino a dar aos créditos nascidos após a abertura do processo de liquidação;\n\ng) As regras relativas à reclamação, verificação e aprovação dos créditos;\n\nh) As regras de distribuição do produto da liquidação dos bens, a graduação dos créditos e os direitos dos credores que tenham sido parcialmente satisfeitos após a abertura do processo de liquidação em virtude de um direito real ou por efeito de uma compensação;\n\ni) As condições e os efeitos do encerramento do processo de liquidação, nomeadamente por concordata;\n\nj) Os direitos dos credores após o encerramento do processo de liquidação;\n\nk) A imputação das custas e despesas do processo de liquidação;\n\nl) As regras referentes à nulidade, à anulação ou à inoponibilidade dos actos prejudiciais ao conjunto dos credores."
+  },
+  "75f3e1a23810baff": {
+   "fragment_id": "Artigo 11.º — Consulta das autoridades competentes antes da liquidação voluntária",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Consulta das autoridades competentes antes da liquidação voluntária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Consulta das autoridades competentes antes da liquidação voluntária\n\n1. As autoridades competentes do Estado-Membro de origem serão consultadas, pela forma mais adequada, antes de os órgãos estatuários de uma instituição de crédito tomarem qualquer decisão de liquidação voluntária.\n\n2. A liquidação voluntária de uma instituição de crédito não obsta à adopção de uma medida de saneamento ou à abertura de um processo de liquidação."
+  },
+  "3f6feec0125c2016": {
+   "fragment_id": "Artigo 12.º — Revogação da autorização de uma instituição de crédito",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Revogação da autorização de uma instituição de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação da autorização de uma instituição de crédito\n\n1. Se, na falta ou após o malogro de medidas de saneamento, for determinada a abertura de um processo de liquidação relativamente a uma instituição de crédito, a autorização dessa instituição será revogada, observando-se, nomeadamente, o procedimento previsto no n.º 9 do artigo 22.º da Directiva 2000/12/CE.\n\n2. A revogação da autorização referida no n.º 1 não impede que a ou as pessoas incumbidas da liquidação prossigam algumas das actividades da instituição de crédito na medida em que tal seja necessário ou adequado para efeitos da liquidação.\n\nO Estado-Membro de origem pode determinar que essas actividades sejam exercidas com o acordo e sob o controlo das autoridades competentes desse Estado-Membro."
+  },
+  "28299d687c5a0b15": {
+   "fragment_id": "Artigo 13.º — Publicação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Publicação\n\nOs liquidatários ou quaisquer autoridades administrativas ou judiciais asseguram a publicidade da decisão de abertura da liquidação através da publicação, no *Jornal Oficial das Comunidades Europeias* e em pelo menos dois jornais de circulação nacional de cada Estado-Membro de acolhimento, de um extracto da decisão que a pronuncia."
+  },
+  "89cc0240e6efbd43": {
+   "fragment_id": "Artigo 14.º — Informação dos credores conhecidos",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Informação dos credores conhecidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação dos credores conhecidos\n\n1. Quando for aberto um processo de liquidação, as autoridades administrativas ou judiciais do Estado-Membro de origem ou o liquidatário devem informar rápida e individualmente os credores conhecidos que tenham o seu domicílio, a sua residência habitual ou a sua sede estatutária nos outros Estados-Membros, salvo nos casos em que a legislação do Estado de origem não exija a reclamação do crédito para o seu reconhecimento.\n\n2. Essa informação, prestada mediante o envio de uma nota, incidirá nomeadamente sobre os prazos a observar, as sanções previstas relativamente a esses prazos, o órgão ou a autoridade habilitados a receber a reclamação dos créditos ou as observações relativas aos créditos e as outras medidas que tenham sido determinadas. Essa nota indicará igualmente se os credores cujos créditos gozem de um privilégio ou de uma garantia real devem reclamar esses créditos."
+  },
+  "a8b4b939aceb3c8b": {
+   "fragment_id": "Artigo 15.º — Cumprimento das obrigações",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Cumprimento das obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Cumprimento das obrigações\n\nQuem tenha cumprido uma obrigação em benefício de uma instituição de crédito que não seja uma pessoa colectiva e seja objecto de um processo de liquidação aberto noutro Estado-Membro, e o devesse ter feito em benefício do liquidatário desse processo, ficará liberado quando não tenha tido conhecimento da abertura do processo. Quem tenha cumprido a referida obrigação antes da execução das medidas de publicidade referidas no artigo 13.º presume-se, até prova em contrário, não ter tido conhecimento da abertura do processo de liquidação; quem a tenha cumprido após a execução das medidas de publicidade previstas no artigo 13.º presume-se, até prova em contrário, ter tido conhecimento da abertura do processo."
+  },
+  "56393de2e175642c": {
+   "fragment_id": "Artigo 16.º — Direito de reclamação de créditos",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Direito de reclamação de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direito de reclamação de créditos\n\n1. Os credores que tenham o seu domicílio, a sua residência habitual ou a sua sede estatutária num Estado-Membro que não o Estado-Membro de origem, incluindo as autoridades públicas dos Estados-Membros, têm o direito de proceder à reclamação dos seus créditos ou de apresentar por escrito observações relativas a esses créditos.\n\n2. Os créditos de todos os credores que tenham domicílio, residência habitual ou sede estatutária num Estado-Membro que não o Estado-Membro de origem beneficiam do mesmo tratamento e são graduados da mesma forma que os créditos de natureza equivalente susceptíveis de ser reclamados por credores que tenham a sua residência habitual, o seu domicílio ou a sua sede estatutária no Estado-Membro de origem.\n\n3. Excepto nos casos em que a legislação do Estado-Membro de origem preveja a apresentação de observações relativas aos créditos, os credores devem enviar cópia dos documentos comprovativos, quando existam, e indicar a natureza dos créditos, a data da sua constituição e o seu montante; devem igualmente informar se reivindicam, em relação a esses créditos, um privilégio, uma garantia real ou uma reserva de propriedade, e quais os bens sobre os quais incide essa garantia."
+  },
+  "dcc513a10b67dbca": {
+   "fragment_id": "Artigo 17.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Línguas\n\n1. A informação prevista nos artigos 13.º e 14.º será prestada na língua ou numa das línguas oficiais do Estado-Membro de origem. Utilizar-se-á para esse efeito, um formulário em que figurará, em todas as línguas oficiais da UE, o título «Aviso de Reclamação de Créditos. Prazos Legais a Observar», ou, quando a legislação do Estado-Membro de origem preveja a apresentação das observações relativas aos créditos, «Aviso de Apresentação das Observações relativas a Créditos. Prazos Legais a Observar».\n\n2. Todos os credores que tenham o seu domicílio, a sua residência habitual ou a sua sede estatutária num Estado-Membro que não o Estado-Membro de origem podem reclamar os respectivos créditos, ou apresentar as observações relativas aos seus créditos, na língua ou numa das línguas oficiais desse outro Estado-Membro. Nesse caso, a reclamação dos créditos, ou a apresentação das observações sobre os seus créditos intitular-se-á Reclamação de Créditos ou Apresentação das Observações relativas aos Créditos na língua ou numa das línguas oficiais do Estado-Membro de origem. Além disso, pode-lhes ser exigida uma tradução, nessa mesma língua, da reclamação dos créditos ou da apresentação das observações relativas aos créditos."
+  },
+  "63c73dda85d3a54c": {
+   "fragment_id": "Artigo 18.º — Informação regular dos credores",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Informação regular dos credores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Informação regular dos credores\n\nOs liquidatários devem informar regularmente os credores, de forma adequada, em especial sobre o andamento da liquidação."
+  },
+  "e227c8d6b4d000d3": {
+   "fragment_id": "Artigo 19.º — Sucursais de instituições de crédito de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Sucursais de instituições de crédito de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Sucursais de instituições de crédito de países terceiros\n\n1. As autoridades administrativas ou judiciais do Estado-Membro de acolhimento de uma sucursal de uma instituição de crédito com sede estatuária fora da Comunidade devem informar sem demora, por todos os meios adequados, as autoridades competentes dos outros Estados-Membros de acolhimento onde a instituição tenha criado sucursais constantes da lista referida no artigo 11.º da Directiva 2000/12/CE, lista essa que é publicada anualmente no *Jornal Oficial das Comunidades Europeias*, da sua decisão de abrir um processo de liquidação e dos efeitos concretos que esse processo poderá acarretar, se possível antes de este ter início ou, não sendo possível, imediatamente depois. A comunicação é efectuada pelas autoridades competentes do Estado-Membro de acolhimento referido em primeiro lugar.\n\n2. As autoridades administrativas ou judiciais que determinem a abertura de um processo de liquidação de uma sucursal de uma instituição de crédito com sede estatutária fora da Comunidade informarão as autoridades competentes dos outros Estados-Membros de acolhimento da abertura do processo de liquidação e da revogação da autorização.\n\nA comunicação será efectuada pelas autoridades competentes do Estado-Membro de acolhimento que tiver determinado a abertura do processo.\n\n3. As autoridades administrativas ou judiciais referidas no n.º 1 esforçar-se-ão por coordenar as suas acções.\n\nOs eventuais liquidatários esforçar-se-ão igualmente por coordenar as suas acções."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "94b1b662f7acca91": {
+   "fragment_id": "DISPOSIÇÕES COMUNS ÀS MEDIDAS DE SANEAMENTO E AOS PROCESSOS DE LIQUIDAÇÃO",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES COMUNS ÀS MEDIDAS DE SANEAMENTO E AOS PROCESSOS DE LIQUIDAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES COMUNS ÀS MEDIDAS DE SANEAMENTO E AOS PROCESSOS DE LIQUIDAÇÃO"
+  },
+  "15dff08d245b8344": {
+   "fragment_id": "Artigo 20.º — Efeitos sobre certos contratos e direitos",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Efeitos sobre certos contratos e direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Efeitos sobre certos contratos e direitos\n\nOs efeitos de uma medida de saneamento ou da abertura de um processo de liquidação sobre:\n\na) Os contratos e relações de trabalho regulam-se exclusivamente pela lei do Estado-Membro aplicável ao contrato de trabalho;\n\nb) Os contratos que conferem direitos de gozo sobre um bem imóvel ou o direito à sua aquisição regulam-se exclusivamente pela lei do Estado-Membro em cujo território está situado esse imóvel. Essa lei determina se um bem é móvel ou imóvel;\n\nc) Os direitos relativos a um bem imóvel, a um navio ou a uma aeronave, sujeitos a inscrição num registo público, regulam-se exclusivamente pela lei do Estado-Membro sob cuja autoridade é mantido esse registo."
+  },
+  "474abdf395840a4a": {
+   "fragment_id": "Artigo 21.º — Direitos reais de terceiros",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Direitos reais de terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direitos reais de terceiros\n\n1. A aplicação de medidas de saneamento ou a abertura de processos de liquidação não afectam os direitos reais de credores ou de terceiros sobre bens corpóreos ou incorpóreos, móveis ou imóveis — tanto bens específicos, como conjuntos de bens não específicos cuja composição esteja sujeita a alterações —, pertencentes a instituições de crédito e que, no momento da aplicação dessas medidas ou da abertura desses processos, se encontrem no território de outro Estado-Membro.\n\n2. Os direitos referidos no n.º 1 são, nomeadamente:\n\na) O direito de realizar ou de fazer realizar os activos e de obter satisfação do crédito através do produto ou dos rendimentos desses activos, nomeadamente em virtude de cauções ou hipotecas;\n\nb) O direito exclusivo de cobrança de dívidas, nomeadamente por caução ou cessão da dívida a título de garantia;\n\nc) O direito de reivindicar o bem e/ou exigir a sua restituição da parte de quem os possua ou utilize contra a vontade de quem a ele tem direito;\n\nd) O direito real sobre os rendimentos de um bem.\n\n3. O direito, inscrito em registo público e oponível a terceiros, que permita obter um direito real na acepção do n.º 1, é considerado um direito real.\n\n4. O n.º 1 não obsta às acções de nulidade, anulação ou inoponibilidade previstas no n.º 2, alínea l), do artigo 10.º"
+  },
+  "584b83b6502a3c10": {
+   "fragment_id": "Artigo 22.º — Reserva de propriedade",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Reserva de propriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reserva de propriedade\n\n1. A aplicação de medidas de saneamento ou a abertura de processos de liquidação em relação a instituições de crédito que adquiram activos não afectam os direitos do vendedor com fundamento na reserva de propriedade se, no momento da aplicação dessas medidas ou da abertura desses processos os activos se encontrarem no território de um Estado-Membro distinto do da aplicação dessas medidas ou da abertura desses processos.\n\n2. A aplicação de medidas de saneamento ou a abertura de processos de liquidação em relação a instituições de crédito que vendam um activo após a sua entrega não constituem fundamento para a rescisão da venda nem impedem a aquisição da propriedade daquele activo pelo comprador, se, no momento da aplicação dessas medidas ou da abertura desses processos, esse activo se situar no território de um Estado-Membro distinto do da aplicação dessas medidas ou da abertura desses processos.\n\n3. O n.^os^ 1 e 2 não obstam às acções de nulidade, anulação ou inoponibilidade previstas no n.º 2, alínea l), do artigo 10.º"
+  },
+  "493a4ed8c279400b": {
+   "fragment_id": "Artigo 23.º — Compensação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Compensação\n\n1. A adopção de medidas de saneamento ou a abertura de processos de liquidação não afectam o direito dos credores à compensação dos seus créditos contra os da instituição de crédito desde que essa compensação seja autorizada pela lei aplicável aos créditos da instituição de crédito.\n\n2. O n.º 1 não obsta às acções de nulidade, anulação ou inoponibilidade previstas no n.º 2, alínea l), do artigo 10.º"
+  },
+  "d0feed26d035d315": {
+   "fragment_id": "Artigo 24.º — Lex rei sitae",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Lex rei sitae",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Lex rei sitae\n\nO exercício dos direitos de propriedade sobre instrumentos ou de outros direitos sobre esses instrumentos, cuja existência ou transferência implique a inscrição num registo, numa conta ou num sistema de depósito centralizado pertencente ou situado num Estado-Membro, regula-se pela lei do Estado-Membro a que pertence ou em que se situa o registo, a conta ou o sistema de depósito centralizado em que esses direitos estão inscritos."
+  },
+  "c2a042c630a09c9c": {
+   "fragment_id": "Artigo 25.º — Convenções de compensação e de novação (netting agreements)",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Convenções de compensação e de novação (netting agreements)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Convenções de compensação e de novação (netting agreements)\n\nSem prejuízo dos artigos 68.º e 71.º da Diretiva 2014/59/UE, as convenções de compensação e de novação (*netting agreements*) regulam-se exclusivamente pela lei aplicável ao contrato que os regula."
+  },
+  "057dd42d1577beb7": {
+   "fragment_id": "Artigo 26.º — Acordos de recompra (repurchase agreements)",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Acordos de recompra (repurchase agreements)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Acordos de recompra (repurchase agreements)\n\nSem prejuízo dos artigos 68.º e 71.º da Diretiva 2014/59/UE e do artigo 24.º da presente diretiva, os acordos de recompra (*repurchase agreements*) regulam-se exclusivamente pela lei aplicável ao contrato que os regula."
+  },
+  "8658f26ae3a0b958": {
+   "fragment_id": "Artigo 27.º — Mercados regulamentados",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Mercados regulamentados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Mercados regulamentados\n\nSem prejuízo do disposto no artigo 24.º, as transacções efectuadas no quadro de um mercado regulamentado regulam-se exclusivamente pela lei aplicável ao contrato que as regula."
+  },
+  "92ce0bf4858b4af6": {
+   "fragment_id": "Artigo 28.º — Prova da nomeação do liquidatário",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Prova da nomeação do liquidatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Prova da nomeação do liquidatário\n\n1. A prova da nomeação do administrador ou do liquidatário é efectuada mediante a apresentação de uma cópia autenticada da decisão da sua nomeação, ou de qualquer outro certificado emitido pelas autoridades administrativas ou judiciais do Estado-Membro de origem.\n\nPode ser exigida uma tradução na língua oficial ou numa das línguas oficiais do Estado-Membro em cujo território o administrador ou o liquidatário pretende agir. Não será exigida qualquer legalização ou outra formalidade análoga.\n\n2. Os administradores e os liquidatários estão habilitados a exercer no território de todos os Estados-Membros todos os poderes que estão habilitados a exercer no território do Estado-Membro de origem. Podem, além disso, designar pessoas encarregadas de os coadjuvar ou, se for caso disso, de os representar no decurso da execução da medida de saneamento ou do processo de liquidação, nomeadamente nos Estados-Membros de acolhimento e, em especial, a fim de facilitar a superação das eventuais dificuldades dos credores do Estado-Membro de acolhimento.\n\n3. No exercício dos seus poderes, o administrador ou o liquidatário observará a lei dos Estados-Membros em cujo território pretende agir, em particular no que respeita às regras de liquidação dos bens e à informação dos trabalhadores assalariados. Esses poderes não poderão incluir o uso da força, nem o direito de dirimir litígios ou diferendos."
+  },
+  "1ab2a0a9b7565a69": {
+   "fragment_id": "Artigo 29.º — Inscrição em registo público",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Inscrição em registo público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Inscrição em registo público\n\n1. O administrador, o liquidatário ou as autoridades administrativas ou judiciais do Estado-Membro de origem podem solicitar que uma medida de saneamento ou a decisão de abertura de um processo de liquidação seja inscrita no registo predial, no registo comercial ou em qualquer outro registo público existente nos outros Estados-Membros.\n\nNo entanto, qualquer Estado-Membro pode prever a inscrição obrigatória. Nesse caso, as pessoas ou autoridades referidas no primeiro parágrafo devem tomar as medidas necessárias para assegurar essa inscrição.\n\n2. Os encargos decorrentes da inscrição são considerados como custas e despesas do processo."
+  },
+  "5fd65460a832f26e": {
+   "fragment_id": "Artigo 30.º — Actos prejudiciais",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Actos prejudiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Actos prejudiciais\n\n1. O artigo 10.º não é aplicável em relação às regras relativas à nulidade, à anulação ou à inoponibilidade dos actos jurídicos prejudiciais ao conjunto dos credores quando o beneficiário desses actos apresente prova de que:\n\n— o acto prejudicial ao conjunto dos credores se regula pela lei de um Estado-Membro que não o Estado-Membro de origem e de que,\n\n— no caso em apreço, essa mesma lei não permite a impugnação do acto por nenhum meio.\n\n2. Quando uma medida de saneamento, decretada por uma autoridade judicial, previr regras relativas à nulidade, à anulação ou à inoponibilidade dos actos prejudiciais ao conjunto dos credores, praticados antes da adopção da medida, o n.º 2 do artigo 4.º não é aplicável nos casos previstos no n.º 1 do presente artigo."
+  },
+  "f75b27a722241863": {
+   "fragment_id": "Artigo 31.º — Protecção de terceiros",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Protecção de terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Protecção de terceiros\n\nQuando, por acto celebrado após a adopção de uma medida de saneamento ou a abertura de um processo de liquidação, a instituição de crédito dispuser, a título oneroso:\n\n— de um bem imóvel,\n\n— de um navio ou de uma aeronave sujeitos a inscrição num registo público, ou\n\n— de instrumentos ou de direitos sobre esses instrumentos cuja existência ou transferência pressuponha a sua inscrição num registo, numa conta ou num sistema de depósitos centralizado pertencentes ou situados num Estado-Membro,\n\na validade desse acto regula-se pela lei do Estado-Membro em cujo território está situado esse bem imóvel, ou sob cuja autoridade são mantidos esse registo, essa conta ou esse sistema de depósitos."
+  },
+  "521848e0bc3ad3e9": {
+   "fragment_id": "Artigo 32.º — Processos pendentes",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Processos pendentes\n\nOs efeitos de medidas de saneamento ou de um processo de liquidação sobre um processo pendente relativo a um bem ou direito de que a instituição de crédito tenha sido privada regulam-se exclusivamente pela lei do Estado-Membro em que se encontra pendente o processo."
+  },
+  "20403ce8cabae1ce": {
+   "fragment_id": "Artigo 33.º — Sigilo profissional",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Sigilo profissional\n\nTodas as pessoas incumbidas de receber ou prestar informações no âmbito dos processos de informação ou de consulta previstos nos artigos 4.º, 5.º, 8.º, 9.º, 11.º e 19.º estão vinculadas ao sigilo profissional, de acordo com as regras e condições previstas no artigo 30.º da Directiva 2000/12/CE, com excepção das autoridades judiciárias, às quais se aplicarão as disposições nacionais em vigor."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "0a634d47aa76f076": {
+   "fragment_id": "Artigo 34.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Execução\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva em 5 de Maio de 2004 e informar imediatamente a Comissão desse facto.\n\nAs disposições nacionais adoptadas em aplicação da presente directiva são aplicáveis apenas às medidas de saneamento adoptadas ou aos processos de liquidação abertos após a data referida no primeiro parágrafo. As medidas adoptadas e os processos abertos antes dessa data continuam a regular-se pela lei que lhes era aplicável à data de adopção ou da abertura.\n\n2. Quando os Estados-Membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros.\n\n3. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "0ae115e96790ba9c": {
+   "fragment_id": "Artigo 35.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "e6c8191c5399b090": {
+   "fragment_id": "Artigo 36.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\n---"
+  },
+  "71a1e56fa1a7e290": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#src.E0001)) JO C 356 de 31.12.1985, p. 55 e\n\n> JO C 36 de 8.2.1988, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#src.E0002)) JO C 263 de 20.10.1986, p. 13.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#src.E0003)) JO C 332 de 30.10.1998, p. 13.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 13 de Março de 1987 (JO C 99 de 13.4.1987, p. 211), confirmado em 2 de Dezembro de 1993 (JO C 342 de 20.12.1993, p. 30), posição comum do Conselho de 17 de Julho de 2000 (JO C 300 de 20.10.2000, p. 13) e decisão do Parlamento Europeu de 16 de Janeiro de 2001 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 12 de Março de 2001.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#src.E0005)) JO L 126 de 26.5.2000, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2000/28/CE (JO L 275 de 27.10.2000, p. 37).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#src.E0006)) JO L 135 de 31.5.1994, p. 5.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#src.E0007)) JO L 166 de 11.6.1998, p. 45.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#src.E0008)) Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativo aos requisitos prudenciais para as instituições de crédito e para as empresas de investimento e que altera o Regulamento (UE) n.º 648/2012 (JO L 176 de 27.6.2013, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#src.E0009)) Diretiva 2014/59/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014, que estabelece um enquadramento para a recuperação e resolução de instituições de crédito e empresas de investimento e que altera a Diretiva 82/891/CEE do Conselho e as Diretivas 2001/24/CE, 2002/47/CE, 2004/25/CE, 2005/56/CE, 2007/36/CE, 2011/35/UE, 2012/30/UE e 2013/36/UE, e os Regulamentos (UE) n.º 1093/2010 e (UE) n.º 648/2012 do Parlamento Europeu e do Conselho (JO L 173, de 12.6.2014, p. 190).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/14ade3ab-c8d6-4969-9971-d81af5dfa08b.0015.02/DOC_1#src.E0010)) Diretiva 2014/65/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativa aos mercados de instrumentos financeiros e que altera a Diretiva 2002/92/CE e a Diretiva 2011/61/UE (JO L 173, de 12.6.2014, p. 349)."
+  }
+ }
+}

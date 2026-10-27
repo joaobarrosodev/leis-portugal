@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005L0081:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0081-20061220",
+ "dre_path": null,
+ "source_lastmod": "2006-12-20",
+ "versions": [
+  {
+   "date": "2005-11-29",
+   "future": false,
+   "celex": "32005L0081",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "64f128e957ed37d6",
+    "e078770b3539b038",
+    "d561e25f18cf228f",
+    "121bc7f29193c6b3",
+    "b1d8c14153f2e49b",
+    "7e00224745141e09"
+   ]
+  }
+ ],
+ "fragments": {
+  "64f128e957ed37d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Novembro de 2005\n\nque altera a Directiva 80/723/CEE relativa à transparência das relações financeiras entre os Estados-Membros e as empresas públicas, bem como à transparência financeira relativamente a certas empresas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 3 do seu artigo 86.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 80/723/CEE da Comissão [([^1])](http://publications.europa.eu/resource/cellar/a1079092-dd14-4e41-96d0-bfa8c978000d.0016.03/DOC_1#ntr1-L_2005312PT.01004701-E0001) exige que os Estados-Membros garantam a transparência das relações financeiras entre os poderes públicos e as empresas públicas, bem como relativamente a certas empresas. São obrigadas a elaborar contas distintas as empresas que beneficiam de direitos especiais ou exclusivos concedidos por um Estado-Membro, nos termos do n.º 1 do artigo 86.º do Tratado, ou que tenham sido encarregadas da gestão de um serviço de interesse económico geral, nos termos do n.º 2 do mesmo artigo, e recebam do Estado auxílios em relação a esse serviço, qualquer que seja a forma que os mesmos assumam, e que prossigam outras actividades.\n\n(2) Os Estados Membros podem conceder compensações a empresas encarregadas da gestão de serviços de interesse económico geral, a fim de cobrir os custos específicos desses serviços. No entanto, essas compensações não podem ultrapassar o necessário para a gestão dos serviços em causa e não devem ser utilizadas para financiar actividades fora do âmbito dos serviços de interesse económico geral.\n\n(3) De acordo com a Directiva 80/723/CEE, só devem ser elaboradas contas distintas quando as empresas encarregadas da gestão de serviços de interesse económico geral tiverem recebido auxílios estatais. No seu acórdão proferido no processo Altmark Trans GmbH [([^2])](http://publications.europa.eu/resource/cellar/a1079092-dd14-4e41-96d0-bfa8c978000d.0016.03/DOC_1#ntr2-L_2005312PT.01004701-E0002), o Tribunal de Justiça das Comunidades Europeias salientou que a compensação relativa ao serviço público não constitui, sob certas condições, um auxílio estatal, na acepção do n.º 1 do artigo 87.º do Tratado.\n\n(4) No entanto, independentemente da qualificação jurídica da compensação de serviços públicos à luz do n.º 1 do artigo 87.º do Tratado, as empresas que recebem as compensações e que prosseguem também actividades fora do âmbito dos serviços de interesse económico geral devem ficar obrigadas a elaborar contas distintas. Só através da elaboração de contas separadas será possível identificar os custos imputáveis aos serviços de interesse económico geral e calcular o montante correcto das compensações.\n\n(5) Por conseguinte, a Directiva 80/723/CEE deve ser alterada em conformidade,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e078770b3539b038": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA alínea d) do n.º 1 do artigo 2.º da Directiva 80/723/CEE passa a ter a seguinte redacção:\n\n«d) “empresa obrigada a elaborar contas distintas”, qualquer empresa que beneficie de um direito especial ou exclusivo concedido por um Estado-Membro, ao abrigo do n.º 1 do artigo 86.º do Tratado, ou que tenha sido encarregada da gestão de um serviço de interesse económico geral, ao abrigo do n.º 2 do artigo 86.º do Tratado, e que receba uma compensação em relação a esse serviço público, qualquer que seja a forma que a mesma assuma, e que prossiga outras actividades;»."
+  },
+  "d561e25f18cf228f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 19 de Dezembro de 2006. Os Estados-Membros comunicarão imediatamente à Comissão o texto das referidas disposições, bem como um quadro de equivalência entre essas disposições e a presente directiva.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "b1d8c14153f2e49b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 28 de Novembro de 2005.\n\n***Pela Comissão***\n\n**Neelie KROES**\n\n***Membro da Comissão***\n\n---"
+  },
+  "7e00224745141e09": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/a1079092-dd14-4e41-96d0-bfa8c978000d.0016.03/DOC_1#ntc1-L_2005312PT.01004701-E0001) [JO L 195 de 29.7.1980, p. 35](http://publications.europa.eu/resource/oj/JOL_1980_195_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2000/52/CE ([JO L 193 de 29.7.2000, p. 75](http://publications.europa.eu/resource/oj/JOL_2000_193_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/a1079092-dd14-4e41-96d0-bfa8c978000d.0016.03/DOC_1#ntc2-L_2005312PT.01004701-E0002) Acórdão no Processo C-280/00, Altmark Trans GmbH e Regierungspräsidium Magdeburg/Nahverkehrsgesellschaft Altmark GmbH (Col. 2003, p. I-7747)."
+  }
+ }
+}

@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:69727432:por
+title: Despacho Normativo n.º 13/2015
+short_title: null
+summary: Determina a obrigatoriedade de comunicação das entregas mensais da quantidade de leite cru de vaca, por parte dos
+  primeiros compradores de leite
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura e do Mar - Gabinete do Secretário de Estado da Agricultura
+proposing_entity: null
+official_number: 13/2015
+official_date: null
+publication_date: '2015-07-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 130/2015, Série II de 2015-07-07
+  number: '130'
+  series: II
+  supplement: null
+  pages: 18115 - 18115
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/07/130000000/1811518115.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '69727432'
+  dre_path: /dr/detalhe/despacho-normativo/13-2015-69727432
+  internal: pt:dre:69727432:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2015-69727432
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2015-69727432
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bad2de3f782a9c3500399a05762f8d55a91a487995ebe9415b1730249cd6f0cf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- IFAP
+- Leite
+- Produtor
+- Registo Obrigatório
+relationships:
+- type: amended_by
+  target: pt:dre:70215251:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31992R3950
+  label: null
+  source: null
+- type: cites
+  target: celex:32001R1392
+  label: null
+  source: null
+- type: cites
+  target: celex:32007R1234
+  label: null
+  source: null
+- type: cites
+  target: celex:32010R0479
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R1308
+  label: null
+  source: null
+- type: cites
+  target: celex:32014R1097
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70215251:por
+  label: Revogado, a partir de 13.09.2015, pelo(a) Decreto-Lei n.º 189/2015 - Diário da República n.º 175/2015, Série I de
+    2015-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2015-70215251
+  date: '2015-09-08'
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:07:55Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho normativo n.º 13/2015
+
+O [Decreto-Lei n.º 240/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2002-424732), de 5 novembro, estabeleceu as normas reguladoras do regime de imposição suplementar incidente sobre as quantidades de leite de vaca ou equivalente leite de vaca entregue a um comprador ou vendidas diretamente para consumo, mais conhecido pelo regime de gestão das quotas leiteiras, previsto no Regulamento (CEE) n.º 3950/92, do Conselho, de 28 de dezembro, e no Regulamento (CE) n.º 1392/2001, da Comissão, de 9 de julho.
+
+O regime de gestão das quotas leiteiras foi sendo, sucessivamente, prorrogado, tendo a última prorrogação ocorrido através do n.º 1 do artigo 66.º do Regulamento (CE) n.º 1234/2007, do Conselho, de 22 de outubro de 2007, que terminou a 31 de março de 2015, com a entrada em vigor do Regulamento (UE) n.º 1308/2013, do Parlamento e do Conselho, de 17 de dezembro, que estabeleceu uma nova organização comum dos mercados dos produtos agrícolas.
+
+Tendo em vista o acompanhamento da evolução do mercado num contexto de profunda mudança do setor, o Regulamento (UE) n.º 1308/2013, complementado pelo Regulamento de Execução (UE) n.º 1097/2014, da Comissão, de 17 de novembro, que altera o Regulamento (UE) n.º 479/2010, estabelecem prazos mais exigentes no que respeita às comunicações da quantidade de leite cru entregue, consagrando a obrigação, para os primeiros compradores de leite cru, de declararem, a partir de 1 de abril de 2015, à autoridade nacional competente, a quantidade total de leite cru que lhes foi entregue em cada mês e, para os Estados-Membros, de notificarem a Comissão dessa quantidade, a partir de 1 de maio de 2015 e até ao dia 25 de cada mês.
+
+Atendendo a que as normas constantes do [Decreto-Lei n.º 240/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2002-424732), de 5 de novembro, se revelam incompatíveis com os citados regulamentos comunitários, importa, desde já, estabelecer nova regulamentação nacional nesta matéria, de forma a assegurar o cumprimento dos prazos acima referidos.
+
+Estabelece-se, ainda, a obrigatoriedade de registo do primeiro comprador, junto do Instituto de Financiamento da Agricultura e Pescas, I.P.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 17.º do [Decreto-Lei n.º 86-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2011-622306), de 12 de julho, retificado pela Declaração de Retificação n.º 29/2011, de 2 de setembro, e alterado pelos Decretos-Lei n.os [246/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2012-192036), de 13 de novembro, [29/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), de 21 de fevereiro, [60/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), de 9 de maio, [119/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), de 21 de agosto, e [20/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735), de 10 de fevereiro, e do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, do Regulamento (UE) n.º 479/2010, da Comissão, de 1 de junho, na redação dada pelo Regulamento de Execução (UE) n.º 1097/2014, da Comissão, de 17 de outubro, e no uso das competências delegadas pelo Despacho 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro, determino o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente despacho normativo estabelece as normas de execução do disposto no artigo 151.º do Regulamento (UE) nº 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, que determina a obrigatoriedade de comunicação das entregas mensais da quantidade de leite cru de vaca, adiante designado leite, por parte dos primeiros compradores de leite.
+
+###### Artigo 2.º — Definição de primeiro comprador
+
+1 - Para efeitos do disposto no presente despacho normativo, considera-se «primeiro comprador» a pessoa singular ou coletiva que adquire aos produtores leite cru de vaca, adiante designado leite, para tratamento ou transformação ou para os ceder a terceiros para tratamento ou transformação.
+
+2 - Para efeitos do disposto no número anterior, o primeiro comprador pode estabelecer acordos com entidades que efetuem a comunicação em seu nome.
+
+###### Artigo 3.º — Registo de primeiro comprador
+
+1 - É obrigatório o registo do primeiro comprador de leite junto do Instituto de Financiamento da Agricultura e Pescas, I.P. (IFAP, I.P.).
+
+2 - A atribuição de registo de primeiro comprador é solicitada ao IFAP, I.P., previamente ao início da atividade, em formulário próprio, disponibilizado no portal do referido organismo, em www.ifap.pt, devendo, para o efeito, o requerente estar inscrito no sistema de informação do IFAP, I.P.
+
+3 - A atribuição de registo de primeiro comprador só produz efeitos após a data de comunicação de deferimento por parte do IFAP, I.P.
+
+4 - O registo é cancelado caso o primeiro comprador o solicite ou não apresente qualquer declaração de recolha de leite por um período superior a 6 meses.
+
+5 - Os primeiros compradores que se encontrem aprovados ao abrigo do regime de imposição suplementar consideram-se registados para efeitos do presente despacho.
+
+###### Artigo 4.º — Obrigações do primeiro comprador
+
+Constituem obrigações do primeiro comprador:
+
+a) Iniciar a recolha de leite no prazo máximo de seis meses após o deferimento do respetivo registo;
+
+b) Não interromper a recolha de leite por um período superior a 6 meses;
+
+c) Comunicar ao IFAP, I.P, até ao dia 15 de cada mês, o cômputo de leite recolhido no mês anterior, discriminado por produtor e expresso em quilogramas, bem como o respetivo teor efetivo de matéria gorda, em formato a definir por aquele organismo e a divulgar no respetivo portal, em www.ifap.pt.
+
+###### Artigo 5.º — Competências
+
+1 - Compete ao Instituto de Financiamento da Agricultura e Pescas, I.P. (IFAP, I.P.) a aplicação no território nacional das disposições previstas no presente despacho normativo.
+
+2 - O IFAP, I.P. procede publicação mensal dos dados recolhidos ao abrigo do presente diploma.
+
+###### Artigo 6.º — Entrada em vigor e produção de efeitos
+
+O presente despacho entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 01 de abril de 2015.
+
+30 de junho de 2015. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+
+208760031

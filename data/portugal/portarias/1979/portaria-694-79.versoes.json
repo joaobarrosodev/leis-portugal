@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:365942:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1979-919969786",
+ "dre_path": "/dr/detalhe/portaria/694-1979-365942",
+ "source_lastmod": "2025-05-29",
+ "versions": [
+  {
+   "date": "1979-12-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919828745",
+    "919828746",
+    "919828747",
+    "919828748",
+    "919828749"
+   ]
+  },
+  {
+   "date": "1982-02-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:600479:por",
+     "title": "Portaria n.º 181/82",
+     "published": "1982-02-09",
+     "dre_path": "/dr/detalhe/portaria/181-1982-600479"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "919828745",
+    "919828746",
+    "919828747",
+    "919828753",
+    "919828749",
+    "919828750"
+   ]
+  }
+ ],
+ "fragments": {
+  "919828745": {
+   "fragment_id": "919969787",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 694/79\n\nde 19 de Dezembro\n\nA criação de uma zona económica exclusiva, com uma largura de 200 milhas em torno das nossas costas e abrangendo uma área oceânica cerca de dezoito vezes maior que a do território emerso, conferiu ao Estado Português o direito e o dever, perante a comunidade internacional, de investigar, explorar, conservar e gerir os vastos recursos que nela existam, tanto vivos como minerais ou energéticos, e de optimizar os usos do oceano, o que poderá constituir um importante contributo para o desenvolvimento do País.\n\nTorna-se para isso essencial intensificar a investigação científica e tecnológica marinha, integrando-a num processo de investigação oceanológica, ou seja, na transferência dos conhecimentos de base adquiridos e das prospecções de recursos marinhos realizadas para actividades de produção dando prioridade aos projectos temáticos que mais rápida e rentavelmente contribuam para os objectivos sociais e económicos nacionais.\n\nA crescente importância dos oceanos nas sociedades modernas teve algum reflexo em Portugal, mas não se traduziu em planos coerentes; pelo contrário, as nossas investigações oceanológicas dispersam-se por numerosos organismos, numa duplicação ou má definição de funções, isolamento de técnicos afins, subutilização de equipamentos e laboratórios, deficiente fluxo de informações e falta de contrôle e coordenação.\n\nEsta fragmentação torna-se particularmente nociva perante o carácter global dos fenómenos oceânicos, cujo estudo implica um tratamento multidisciplinar e uma intensa cooperação regional e internacional.\n\nReconhece-se por isso a conveniência de assegurar a harmonia, eficiência e complementaridade das investigações oceanológicas com vista a obter o maior rendimento dos meios disponíveis, para o que se cria uma comissão especializada de oceanologia.\n\nAssim, ao abrigo do artigo 3.º do Decreto-Lei n.º 47791, na redacção que lhe foi dada pelo Decreto-Lei n.º 601/70, de 5 de Dezembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Cultura e da Ciência:"
+  },
+  "919828746": {
+   "fragment_id": "919969788",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada, na Junta Nacional de Investigação Científica e Tecnológica, a Comissão Permanente de Oceanologia, doravante designada por CPO, organismo consultivo coordenador e avaliador das actividades nacionais de investigação científica e tecnológica no domínio da oceanologia."
+  },
+  "919828747": {
+   "fragment_id": "919969789",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCompete à CPO:\n\na) Contribuir activamente para a definição de uma política oceanológica, no âmbito da política científica nacional;\n\nb) Propor planos, programas e projectos anuais ou plurianuais de investigação científica e tecnológica na área da oceanologia, bem como dar parecer sobre todos os que sejam da iniciativa dos organismos que dela se ocupam, tendo em vista a sua harmonização, acompanhar a sua evolução e analisar os seus resultados, e, quando para tal for solicitada, sobre projectos de acordos ou convénios de cooperação internacional, bilateral ou multilateral;\n\nc) Promover a realização de conferências, seminários e outras actividades de natureza semelhante e aconselhar o Governo na formação e composição de representações portuguesas em tais realizações, quer nacionais, quer estrangeiras, bem como em organismos internacionais que se ocupem da oceanologia;\n\nd) Apoiar os diversos Ministérios e os organismos interessados na formação e especialização de pessoal nos vários ramos da oceanologia, bem como providenciar pela recolha de informações sobre actividades oceanológicas, nacionais ou internacionais."
+  },
+  "919828748": {
+   "fragment_id": "919969790",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O presidente da CPO será nomeado pelo Secretário de Estado da Ciência, sob proposta do presidente da Junta Nacional de Investigação Científica e Tecnológica, de entre individualidades com elevado prestígio na área da oceanologia.\n\n2 - Em representação do responsável pelo respectivo departamento, poderão ser nomeados para o CPO:\n\na) Um representante de cada um dos Ministérios da Agricultura e Pescas, da Educação, das Finanças, da Coordenação Económica e do Plano, da Habitação e Obras Públicas, da Indústria e dos Transportes e Comunicações, nomeado pelo respectivo Ministro;\n\nb) Um representante da Marinha, nomeado pelo Chefe do Estado-Maior da Armada;\n\nc) Um representante da Força Aérea, nomeado pelo Chefe do Estado-Maior desse ramo das forças armadas;\n\nd) Um representante do Governo Regional da Madeira e um representante do Governo Regional dos Açores.\n\n3 - Farão ainda parte da CPO seis personalidades de reconhecido mérito na área da oceanologia, nomeadas pelo Secretário de Estado da Ciência, sob proposta do presidente da Junta Nacional de Investigação Científica e Tecnológica, ouvidos os restantes membros da CPO.\n\n4 - O presidente, ouvidos os restantes membros da CPO, proporá ao presidente da Junta Nacional de Investigação Científica e Tecnológica a nomeação de um vice-presidente, que o substituirá nas suas faltas e impedimentos.\n\n5 - Os membros da CPO são nomeados por dois anos, prorrogáveis por sucessivos períodos anuais.\n\n6 - Nas faltas e impedimentos dos membros da CPO referidos nas alíneas a) a d) do n.º 2 poderão ser designados, nos termos aí previstos, membros substitutos."
+  },
+  "919828749": {
+   "fragment_id": "919969791",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Junta Nacional de Investigação Científica e Tecnológica agregará à CPO o pessoal julgado necessário para o funcionamento dos respectivos serviços."
+  },
+  "919828753": {
+   "fragment_id": "919969790",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1982-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 181/82 - Diário da República n.º 33/1982, Série I de 1982-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/181-1982-600479), em vigor a partir de 1982-02-14"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - O presidente da CPO será nomeado pelo Secretário de Estado da Ciência, sob proposta do presidente da Junta Nacional de Investigação Científica e Tecnológica, de entre individualidades com elevado prestígio na área da oceanologia.\n\n2 - Em representação do responsável pelo respectivo departamento, poderão ser nomeados para o CPO:\n\na) Um representante de cada um dos ministérios ou secretarias de Estado que tenham actividades relacionadas com a oceanologia, nomeadamente ambiente marinho, aquacultura, defesa nacional, direito do mar, educação, energia dos oceanos, engenharia oceânica, finanças, indústria, obras públicas, oceanografia, ordenamento do litoral, pescas, plano, portos, recursos oceânicos, relações internacionais e transportes marítimos;\n\nb) Um representante da Marinha, nomeado pelo Chefe do Estado-Maior da Armada;\n\nc) Um representante da Força Aérea, nomeado pelo Chefe do Estado-Maior desse ramo das forças armadas;\n\nd) Um representante do Governo Regional da Madeira e um representante do Governo Regional dos Açores.\n\n3 - Farão ainda parte da CPO seis personalidades de reconhecido mérito na área da oceanologia, nomeadas pelo Secretário de Estado da Ciência, sob proposta do presidente da Junta Nacional de Investigação Científica e Tecnológica, ouvidos os restantes membros da CPO.\n\n4 - O presidente, ouvidos os restantes membros da CPO, proporá ao presidente da Junta Nacional de Investigação Científica e Tecnológica a nomeação de um vice-presidente, que o substituirá nas suas faltas e impedimentos.\n\n5 - Os membros da CPO são nomeados por dois anos, prorrogáveis por sucessivos períodos anuais.\n\n6 - Nas faltas e impedimentos dos membros da CPO referidos nas alíneas a) a d) do n.º 2 poderão ser designados, nos termos aí previstos, membros substitutos.\n\n> Alterado pelo/a [Portaria n.º 181/82 - Diário da República n.º 33/1982, Série I de 1982-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/181-1982-600479), em vigor a partir de 1982-02-14"
+  },
+  "919828750": {
+   "fragment_id": "919969792",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Cultura e da Ciência, 12 de Dezembro de 1979. - O Ministro da Cultura e da Ciência, Adérito de Oliveira Sedas Nunes."
+  }
+ }
+}

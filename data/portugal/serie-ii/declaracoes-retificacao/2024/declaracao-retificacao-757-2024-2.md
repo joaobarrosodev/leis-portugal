@@ -1,0 +1,259 @@
+---
+schema_version: '1.0'
+id: pt:dre:887814425:por
+title: Declaração de Retificação n.º 757/2024/2
+short_title: null
+summary: Retifica o Despacho n.º 1932/2024, publicado no  Diário da República, 2.ª série, n.º 36, de 20 de fevereiro de 2024.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Universidade de Lisboa - Instituto de Ciências Sociais
+proposing_entity: null
+official_number: 757/2024/2
+official_date: null
+publication_date: '2024-09-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/2024, Série II de 2024-09-16
+  number: '179'
+  series: II
+  supplement: null
+  pages: 190 - 194
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/09/179000000/0019000194.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '887814425'
+  dre_path: /dr/detalhe/declaracao-retificacao/757-2024-887814425
+  internal: pt:dre:887814425:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/757-2024-887814425
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/757-2024-887814425
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:54:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1a0b54dbe175e9b4da1a86335c07aa710e4e36b928829d96ee35105afc762ce9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:54:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:116068879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:54:45Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 757/2024/2
+
+Retificação da Tabela de Emolumentos do Instituto de Ciências Sociais da Universidade de Lisboa
+
+Por se ter verificado a existência de uma inexatidão no Despacho n.º 1932/2024, publicado no Diário da República, 2.ª série, n.º 36, de 20 de fevereiro de 2024, relativo à tabela de emolumentos do Instituto de Ciências Sociais da Universidade de Lisboa, retifica-se que onde se lê:
+
+"Parte B - Aplicável aos cursos geridos no ICS-ULisboa e às atividades realizadas pelos seus serviços:
+
+| Atos | Valor (euros) |
+| --- | --- |
+| […] | […] |
+| 3 - Inscrição: |  |
+| 3.1 - Inscrição dentro do prazo previsto | Gratuita |
+| 3.2 - Pedido de alteração de UC optativa por decisão do estudante | 10 |
+| 4 - Inscrição em Época Especial de Avaliação: |  |
+| 4.1 - Inscrição em Época Especial de Avaliação | 15 |
+| 4.2 - Melhoria, por unidade curricular | 15 |
+| 4.3 - Inscrição fora de prazo em Época Especial de Avaliação | 30 |
+| 5 - Creditação de conhecimentos e competências académicas, profissionais ou adquiridas: |  |
+| 5.1 - Até 6 ECTS realizados fora da ULisboa |  |
+| 5.2 - Até 6 ECTS realizados na ULisboa |  |
+| 5.3 - Por cada crédito requerido para além dos 6 |  |
+| 6 - Admissão a Provas Académicas: |  |
+| 6.1 - Doutoramento | 350 |
+| 6.2 - Doutoramento ao abrigo do artigo 33.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na redação dada pelo [Decreto-Lei n.º 65/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), de 16 de agosto | 2500 |
+| 6.3 - Habilitação para o exercício de atividades de coordenação Científica | 600 |
+| 6.4 - Mestrado | 163 |
+| 7 - Diplomas de Conclusão: |  |
+| 7.1 - Curso de Doutoramento (componente curricular) | 50 |
+| 7.2 - Curso de Mestrado (componente curricular) | 50 |
+| 7.3 - Curso de Especialização | 50 |
+| 7.4 - Pós-Doutoramento | 100 |
+| 8 - Certidões: |  |
+| 8.1 - De conclusão de grau (mestrado e doutoramento) | 30 |
+| 8.2 - De conclusão de curso não conferente de grau | 40 |
+| 8.3 - De conclusão de escola, curso livre ou seminário | 10 |
+| 8.4 - De provas de aptidão pedagógica e capacidade científica, de obtenção do título de agregado e das respetivas equivalências legais | 20 |
+| 8.5 - De aptidão, de matrícula, de inscrições, de frequência ou de exame e de conduta académica | 10 |
+| 8.6 - De narrativa ou de teor | 10 |
+| 8.7 - De carga horária e conteúdos programáticos, por unidade curricular, trabalho ou estágio | 7,50 (com limite de 150,0) |
+| 8.8 - De reconhecimento de mestrados e doutoramentos | 40 |
+| 8.9 - Certidão por fotocópia (certificação conforme o original): |  |
+| 8.9.1 - Uma só folha | 5 |
+| 8.9.2 - Por cada folha que exceda a 1.ª | 1 |
+| 9 - Unidades Curriculares Isoladas: |  |
+| 9.1 - Frequência (por ECTS) - estudantes externos | 45 |
+| 9.1 - Frequência (por ECTS) - comunidade ICS | 40 |
+| 10 - Visitantes: |  |
+| 10.1 - Taxa de registo de curta duração (até 6 meses) | 80 |
+| 10.2 - Taxa de registo de longa duração (até 12 meses) | 150 |
+| 11 - Pós-Doutoramento: |  |
+| 11.1 - Taxa de registo - até 6 meses | 600 |
+| 11.2 - Taxa de registo - entre 6 e 12 meses | 100 |
+| 12 - Outros Atos: |  |
+| 12.1 - Prática de atos fora de prazo (por cada dia útil) | 3 (com limite de 150,0) |
+| 12.2 - Averbamentos | 3 |
+| 12.3 - Fotocópia de documento (por página) | 2 |
+| 12.4 - Autenticação de documentos (Internos e Externos): |  |
+| 12.4.1 - Pela 1.ª Folha | 7 |
+| 12.4.2 - Por cada folha que exceda a 1.ª | 1 |
+| 13 - Processos de Reconhecimento de Graus: |  |
+| 13.1 - Provas de avaliação do reconhecimento Específico - Mestrado | 550 |
+| 13.2 - Provas de avaliação do reconhecimento Específico - Doutoramento | 600 |
+| 14 - Envio de certificados via postal: |  |
+| 14.1 - Para Portugal | 8 |
+| 14.2 - Para restantes países europeus | 13 |
+| 14.3 - Para restantes países não europeus | 18 |
+
+Notas
+
+A - Taxa de Urgência: Os atos requeridos poderão ser executados, em princípio, no prazo máximo de dois dias úteis, mediante o pagamento de um emolumento de valor igual ao do ato requerido e verificadas as condições para a sua emissão.
+
+B - Isenções: Sem prejuízo de outros eventuais casos protegidos pela lei, ficam isentos de pagamento de emolumentos os seguintes atos:
+
+i) A emissão de certificados de aptidão, de matrícula, de inscrições, de frequência ou de exame e de conduta académica destinados exclusivamente para fins de IRS, ADSE, Segurança Social, prestações familiares, militares, passes sociais e bolsas de estudo;
+
+ii) A creditação de unidades curriculares realizadas ao abrigo de programas de mobilidade patrocinados pela ULisboa (ex: ERASMUS+).
+
+C - O custo dos documentos emitidos em língua inglesa será igual à taxa normal de emissão acrescida de 50 %.
+
+D - Reembolsos: A taxa de candidatura, matrícula e/ou inscrição é reembolsada apenas no caso de não funcionamento do curso."
+
+deve ler-se:
+
+"Parte B - Aplicável aos cursos geridos no ICS-ULisboa e às atividades realizadas pelos seus serviços:
+
+| Atos | Valor (euros) |
+| --- | --- |
+| […] | […] |
+| 3 - Alteração de Inscrição: |  |
+| 3.1 - Pedido de UC optativa por decisão do estudante | 10 |
+| 4 - Inscrição em Época Especial de Avaliação |  |
+| 4.1 - Inscrição em Época Especial de Avaliação | 15 |
+| 4.2 - Melhoria, por unidade curricular | 15 |
+| 4.3 - Inscrição fora de prazo em Época Especial de Avaliação | 30 |
+| 5 - Creditação de conhecimentos e competências académicas, profissionais ou adquiridas: |  |
+| 5.1 - Até 6 ECTS realizados fora da ULisboa | 40 |
+| 5.2 - Até 6 ECTS realizados na ULisboa | 30 |
+| 5.3 - Por cada crédito requerido para além dos 6 | 5 (com limite de 250,0) |
+| 6 - Admissão a Provas Académicas: |  |
+| 6.1 - Doutoramento | 350 |
+| 6.2 - Doutoramento ao abrigo do artigo 33.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na redação dada pelo [Decreto-Lei n.º 65/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), de 16 de agosto | 2500 |
+| 6.3 - Habilitação para o exercício de atividades de coordenação Científica | 600 |
+| 6.4 - Mestrado | 163 |
+| 7 - Diplomas de Conclusão: |  |
+| 7.1 - Curso de Doutoramento (componente curricular) | 50 |
+| 7.2 - Curso de Mestrado (componente curricular) | 50 |
+| 7.3 - Curso de Especialização | 50 |
+| 7.4 - Pós-Doutoramento | 100 |
+| 8 - Certidões: |  |
+| 8.1 - De conclusão de grau (mestrado e doutoramento) | 30 |
+| 8.2 - De conclusão de curso não conferente de grau | 40 |
+| 8.3 - De conclusão de escola, curso livre ou seminário | 10 |
+| 8.4 - De provas de aptidão pedagógica e capacidade científica, de obtenção do título de habilitado para o exercício de funções de coordenação científica e das respetivas equivalências legais | 20 |
+| 8.5 - De aptidão, de matrícula, de inscrições, de frequência ou de exame e de conduta académica | 10 |
+| 8.6 - De narrativa ou de teor | 10 |
+| 8.7 - De carga horária e conteúdos programáticos, por unidade curricular, trabalho ou estágio | 7,50 (com limite de 150,0) |
+| 8.8 - De reconhecimento específico de mestrados e doutoramentos | 40 |
+| 8.9 - Certidão por fotocópia (certificação conforme o original): |  |
+| 8.9.1 - Uma só folha | 5 |
+| 8.9.2 - Por cada folha que exceda a 1.ª | 1 |
+| 9 - Unidades Curriculares Isoladas: |  |
+| 9.1 - Frequência (por ECTS) - estudantes externos | 45 |
+| 9.2 - Frequência (por ECTS) - comunidade ICS | 40 |
+| 10 - Visitantes: |  |
+| 10.1 - Taxa de registo de curta duração (até 6 meses) | 80 |
+| 10.2 - Taxa de registo de longa duração (até 12 meses) | 150 |
+| 11 - Pós-Doutoramento: |  |
+| 11.1 - Taxa de registo - 12 meses | 1000 |
+| 11.2 - Taxa de registo - período adicional de 6 meses | 600 |
+| 12 - Outros Atos: |  |
+| 12.1 - Prática de atos fora de prazo (por cada dia útil) | 3 (com limite de 150,0) |
+| 12.2 - Averbamentos | 3 |
+| 12.3 - Fotocópia de documento (por página) | 2 |
+| 12.4 - Autenticação de documentos (Internos e Externos): |  |
+| 12.4.1 - Pela 1.ª Folha | 7 |
+| 12.4.2 - Por cada folha que exceda a 1.ª | 1 |
+| 13 - Pedidos de Reconhecimento de Grau de Mestre e Doutor |  |
+| 13.1 - Reconhecimento Específico | 550 |
+| 14 - Envio de certificados via postal: |  |
+| 14.1 - Para Portugal | 8 |
+| 14.2 - Para restantes países europeus | 13 |
+| 14.3 - Para restantes países não europeus | 18 |
+
+* No caso de serem realizadas provas de avaliação, nos termos do n.º 3, do artigo 20.º, do [Decreto-Lei n.º 66/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), acresce o respetivo emolumento definido na tabela de emolumentos da Escola responsável pelo reconhecimento das habilitações.
+
+Notas
+
+A - Taxa de Urgência: Os atos requeridos poderão ser executados, em princípio, no prazo máximo de dois dias úteis, mediante o pagamento de um emolumento de valor igual ao do ato requerido e verificadas as condições para a sua emissão.
+
+B - Isenções: Sem prejuízo de outros eventuais casos protegidos pela lei, ficam isentos de pagamento de emolumentos os seguintes atos:
+
+i) A emissão de certificados de aptidão, de matrícula, de inscrições, de frequência ou de exame e de conduta académica destinados exclusivamente para fins de IRS, ADSE, Segurança Social, prestações familiares, militares, passes sociais e bolsas de estudo;
+
+ii) A creditação de unidades curriculares realizadas ao abrigo de programas de mobilidade patrocinados pela ULisboa (ex: ERASMUS+).
+
+iii) A creditação de unidades curriculares realizadas no ICS-ULisboa.
+
+C - O custo dos documentos emitidos em língua inglesa será igual à taxa normal acrescida de 50 %.
+
+D - Reembolsos: A taxa de candidatura, matrícula e/ou inscrição é reembolsada apenas no caso de não funcionamento do curso."
+
+27 de março de 2024. - A Diretora, Marina Castelo Branco da Costa Lobo.
+
+317791151

@@ -1,0 +1,775 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:542780:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1999-939477485",
+ "dre_path": "/dr/detalhe/despacho-normativo/18-1999-542780",
+ "source_lastmod": "2025-10-13",
+ "versions": [
+  {
+   "date": "1999-04-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "939453840",
+    "939453841",
+    "939453842",
+    "939453843",
+    "939453844",
+    "939453845",
+    "939453846",
+    "939453847",
+    "939453848",
+    "939453849",
+    "939453850",
+    "939453851",
+    "939453852",
+    "939453853",
+    "939453854",
+    "939453855",
+    "939453856",
+    "939453857",
+    "939453858",
+    "939453859",
+    "939453860",
+    "939453861",
+    "939453862",
+    "939453863",
+    "939453864",
+    "939453865",
+    "939453866",
+    "939453867",
+    "939453868",
+    "939453869",
+    "939453870",
+    "939453871",
+    "939453872",
+    "939453873",
+    "939453874",
+    "939527075",
+    "939527076",
+    "939527077",
+    "939527078",
+    "939527079",
+    "939527080",
+    "939527081",
+    "939527082",
+    "939527083",
+    "939527084",
+    "939527085",
+    "939527086",
+    "939527087",
+    "939527088",
+    "939527089",
+    "939527090",
+    "939527091",
+    "939527092",
+    "939527093",
+    "939527094",
+    "939527095",
+    "939527096",
+    "939527097",
+    "939527098",
+    "939527099",
+    "939527100",
+    "939527101",
+    "939527102",
+    "939527103",
+    "939527104",
+    "939527105",
+    "939527106",
+    "939527107",
+    "939527108",
+    "939527109",
+    "939527110",
+    "939527111",
+    "939527112",
+    "939527113",
+    "939527114",
+    "939527115",
+    "939527116",
+    "939527117",
+    "939527118",
+    "939527119",
+    "939527120",
+    "939527121",
+    "939527122",
+    "939527123"
+   ]
+  }
+ ],
+ "fragments": {
+  "939453840": {
+   "fragment_id": "939477486",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 18/99\n\nNa sequência da sujeição a homologação dos Estatutos da Escola Superior de Enfermagem de Francisco Gentil;\n\nOuvida a comissão instituída pelo despacho n.º 31/ME/89, de 8 de Março, publicado no Diário da República, 2.ª série, de 28 de Março de 1989, conjugado com o despacho n.º 216/ME/90, de 26 de Dezembro, publicado no Diário da República, 2.ª série, de 10 de Janeiro de 1991;\n\nAo abrigo do disposto no artigo 5.º da Lei do Estatuto e Autonomia dos Estabelecimentos de Ensino Superior Politécnico (Lei n.º 54/90, de 5 de Setembro), conjugado com o disposto na alínea a) do artigo 3.º do Decreto-Lei n.º 205/95, de 8 de Agosto:\n\nSão homologados os Estatutos da Escola Superior de Enfermagem de Francisco Gentil, publicados em anexo ao presente despacho."
+  },
+  "939453841": {
+   "fragment_id": "939477487",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "939453842": {
+   "fragment_id": "939477488",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e fins\n\n1 - A Escola Superior de Enfermagem de Francisco Gentil, adiante designada por ESEnfFG, é uma instituição criada pelo Decreto-Lei n.º 30447, de 17 de Maio de 1940, e convertida em escola superior, não integrada, de ensino superior politécnico, pela Portaria n.º 821/89, de 15 de Setembro.\n\n2 - A ESEnfFG é uma instituição de formação científica, humana, cultural e técnica, vocacionada para o desenvolvimento da enfermagem, designadamente o ensino, a investigação, a prestação de serviços à comunidade e a colaboração com entidades nacionais, internacionais e estrangeiras em actividades de interesse comum.\n\n3 - A ESEnfFG é, nos termos da lei e dos presentes Estatutos, uma pessoa colectiva de direito público, dotada de autonomia científica, pedagógica, administrativa e financeira.\n\n4 - A ESEnfFG pode participar na constituição de outras pessoas colectivas, de direito público ou privado, de natureza institucional ou associativa.\n\n5 - No domínio da educação em enfermagem a ESEnfFG prossegue os seguintes fins:\n\na) A formação de enfermeiros com elevado nível de qualificação nos aspectos humano, científico, cultural, pedagógico, técnico e profissional;\n\nb) O desenvolvimento da investigação;\n\nc) A intervenção sócio-educativa;\n\nd) A prestação de serviços à comunidade;\n\ne) O desenvolvimento de projectos de formação e reconversão de agentes da área da saúde;\n\nf) A colaboração na formação de profissionais de diferentes áreas;\n\ng) O intercâmbio cultural, científico e técnico com instituições congéneres nacionais, internacionais e estrangeiras."
+  },
+  "939453843": {
+   "fragment_id": "939477489",
+   "type": 11,
+   "heading": "Artigo 2.º — Democraticidade e participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Democraticidade e participação\n\nA ESEnfFG, na concepção e prática dos mecanismos da sua administração e gestão, orienta-se por princípios de democraticidade e participação, tendo em vista:\n\na) Favorecer a livre expressão da pluralidade cultural e ideológica;\n\nb) Garantir a liberdade de criação científica e técnica;\n\nc) Assegurar as condições necessárias para uma atitude permanente de formação e inovação científica, pedagógica e técnica;\n\nd) Estimular o envolvimento de todos os seus membros nas actividades da ESEnfFG;\n\ne) Promover uma estreita ligação com instituições e organizações da comunidade na realização das suas actividades."
+  },
+  "939453844": {
+   "fragment_id": "939477490",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nSão, nomeadamente, atribuições da ESEnfFG:\n\na) Organizar e realizar cursos no âmbito da enfermagem conducentes à obtenção de graus e diplomas, de acordo com a legislação em vigor;\n\nb) Organizar e realizar cursos de actualização e de reconversão profissional, creditáveis com certificados ou diplomas adequados;\n\nc) Assegurar a articulação entre a formação inicial e a formação contínua dos enfermeiros, nos termos previstos na Lei de Bases do Sistema Educativo e no Estatuto da Carreira de Enfermagem;\n\nd) Organizar e cooperar em actividades de inovação e extensão educativa, cultural e técnica;\n\ne) Desenvolver a investigação através do apoio, orientação, realização e avaliação de trabalhos de investigação."
+  },
+  "939453845": {
+   "fragment_id": "939477491",
+   "type": 11,
+   "heading": "Artigo 4.º — Cooperação com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cooperação com outras entidades\n\nPara efeitos do artigo anterior a ESEnfFG poderá:\n\na) Cooperar com entidades públicas ou privadas, nacionais, internacionais ou estrangeiras, com vista à melhoria do nível científico da enfermagem;\n\nb) Estabelecer acordos, convénios e protocolos de cooperação com instituições congéneres e, bem assim, com estabelecimentos de saúde e de ensino superior ou com outros organismos públicos ou privados nacionais, internacionais ou estrangeiros;\n\nc) Colaborar com associações sem fins lucrativos, desde que as suas actividades sejam compatíveis com as finalidades e interesses da ESEnfFG."
+  },
+  "939453846": {
+   "fragment_id": "939477492",
+   "type": 11,
+   "heading": "Artigo 5.º — Graus e diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Graus e diplomas\n\n1 - A ESEnfFG confere, de acordo com a legislação em vigor:\n\na) Graus e diplomas correspondentes aos cursos que ministra;\n\nb) Títulos honoríficos.\n\n2 - A ESEnfFG concede certificados e diplomas referentes a outros cursos e iniciativas, no âmbito das suas actividades.\n\n3 - A ESEnfFG concede equivalências e reconhecimento de graus e diplomas correspondentes aos cursos que ministra."
+  },
+  "939453847": {
+   "fragment_id": "939477493",
+   "type": 11,
+   "heading": "Artigo 6.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tutela\n\nA ESEnfFG encontra-se sob a tutela conjunta dos Ministérios da Educação e da Saúde, exercida nas condições definidas no artigo 3.º do Decreto-Lei n.º 205/95, de 8 de Agosto."
+  },
+  "939453848": {
+   "fragment_id": "939477494",
+   "type": 11,
+   "heading": "Artigo 7.º — Símbolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Símbolos\n\n1 - A ESEnfFG possui selo branco, timbre e outros símbolos, que figuram em anexo aos presentes Estatutos.\n\n2 - As cores simbólicas da ESEnfFG são o amarelo e o branco.\n\n3 - A ESEnfFG adopta como dia da Escola o dia 17 de Maio."
+  },
+  "939453849": {
+   "fragment_id": "939477495",
+   "type": 11,
+   "heading": "Artigo 8.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sede\n\nA ESEnfFG tem a sua sede em Lisboa."
+  },
+  "939453850": {
+   "fragment_id": "939477496",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura interna"
+  },
+  "939453851": {
+   "fragment_id": "939477497",
+   "type": 11,
+   "heading": "Artigo 9.º — Componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Componentes\n\nA ESEnfFG integra os seguintes componentes:\n\na) Órgãos de gestão;\n\nb) Departamentos;\n\nc) Unidades de apoio."
+  },
+  "939453852": {
+   "fragment_id": "939477498",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos de gestão"
+  },
+  "939453853": {
+   "fragment_id": "939477499",
+   "type": 8,
+   "heading": "Secção I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I"
+  },
+  "939453854": {
+   "fragment_id": "939477500",
+   "type": 11,
+   "heading": "Artigo 10.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Constituição\n\nOs órgãos de gestão da ESEnfFG são os seguintes:\n\na) A assembleia de escola;\n\nb) O conselho directivo;\n\nc) O conselho científico;\n\nd) O conselho pedagógico;\n\ne) O conselho consultivo;\n\nf) O conselho administrativo."
+  },
+  "939453855": {
+   "fragment_id": "939477501",
+   "type": 11,
+   "heading": "Artigo 11.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regulamentação\n\n1 - Compete aos órgãos de gestão da ESEnfFG elaborar e aprovar os seus próprios regulamentos internos, com respeito pelos presentes Estatutos e demais legislação aplicável.\n\n2 - Os regulamentos previstos no número anterior deverão ser aprovados por maioria absoluta dos seus membros."
+  },
+  "939453856": {
+   "fragment_id": "939477502",
+   "type": 8,
+   "heading": "Secção II — Assembleia de escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assembleia de escola"
+  },
+  "939453857": {
+   "fragment_id": "939477503",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - A assembleia de escola é composta por membros por inerência e por membros eleitos.\n\n2 - São membros por inerência:\n\na) O presidente do conselho directivo, que preside;\n\nb) O presidente do conselho científico;\n\nc) O presidente do conselho pedagógico;\n\nd) O presidente do conselho consultivo;\n\ne) O secretário.\n\n3 - São membros eleitos:\n\na) Cinco representantes dos docentes;\n\nb) Cinco representantes dos discentes;\n\nc) Três representantes do pessoal não docente."
+  },
+  "939453858": {
+   "fragment_id": "939477504",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências\n\n1 - São competências da assembleia de escola:\n\na) Eleger os vogais da mesa da assembleia de escola;\n\nb) Submeter à tutela, de acordo com os resultados eleitorais, a homologação da eleição do presidente do conselho directivo;\n\nc) Fiscalizar, genericamente, os actos do conselho directivo, com salvaguarda do exercício efectivo da competência própria deste órgão;\n\nd) Apreciar e aprovar as linhas gerais de desenvolvimento da ESEnfFG, bem como os planos de desenvolvimento plurianuais;\n\ne) Apreciar e aprovar os planos de actividades que lhe forem presentes pelo conselho directivo;\n\nf) Apreciar e aprovar os relatórios anuais de execução;\n\ng) Propor à tutela a criação, alteração ou extinção de unidades orgânicas da Escola, sob proposta fundamentada do conselho directivo;\n\nh) Propor à tutela a criação, alteração ou extinção de cursos;\n\ni) Pronunciar-se sobre a política de contratação de pessoal não docente;\n\nj) Dar parecer sobre as individualidades a integrar o conselho consultivo;\n\nl) Pronunciar-se sobre outros assuntos relacionados com o funcionamento da Escola, que lhe forem presentes pelo conselho directivo;\n\nm) Iniciar, se necessário, quatro anos após a data da publicação dos Estatutos ou da respectiva revisão, o processo de revisão dos Estatutos;\n\nn) Iniciar, a qualquer tempo, por proposta de dois terços dos membros da assembleia de escola, o processo com vista à revisão dos Estatutos.\n\n2 - Para efeitos do disposto na alínea c) do n.º 1, a assembleia de escola tem direito a obter informação sobre todos os assuntos relativos à gestão da ESEnfFG, da competência do conselho directivo, desde que fundamentadamente seja requerida por escrito e desde que o acesso à referida informação não viole o direito à privacidade individual nem fira a deontologia profissional.\n\n3 - A reprovação dos planos de actividades e relatórios referidos nas alíneas e) e f) do n.º 1 obrigam à apresentação de novos planos no prazo máximo de 22 dias úteis."
+  },
+  "939453859": {
+   "fragment_id": "939477505",
+   "type": 11,
+   "heading": "Artigo 14.º — Eleição e duração de mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Eleição e duração de mandato\n\n1 - A eleição dos membros da assembleia de escola é feita por corpos e por listas comportando um número de elementos suplentes igual a 50% do número de efectivos. No apuramento dos resultados será aplicado o método de Hondt.\n\n2 - Na eleição dos representantes do corpo docente são eleitores e elegíveis todos os docentes que exerçam funções na Escola.\n\n3 - A duração do mandato dos membros da assembleia de escola é de três anos para os representantes do pessoal docente e não docente e de um ano para os representantes dos estudantes.\n\n4 - Perdem o mandato os membros que derem mais de três faltas consecutivas ou cinco interpoladas às reuniões, excepto se a assembleia entender as faltas justificadas.\n\n5 - As vagas resultantes da cessação antecipada de mandatos serão preenchidas pelos elementos que figurem seguidamente na lista e pela ordem indicada, procedendo-se, na falta destes e de suplentes, a uma nova eleição pelo respectivo corpo, se as vagas criadas na sua representação perfizerem mais de metade.\n\n6 - Os membros eleitos para a assembleia de escola podem pedir a suspensão temporária do mandato, sendo substituídos pelo elemento seguinte da lista."
+  },
+  "939453860": {
+   "fragment_id": "939477506",
+   "type": 11,
+   "heading": "Artigo 15.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funcionamento\n\nA assembleia de escola rege-se por regulamento próprio, sem prejuízo dos seguintes princípios:\n\na) A assembleia de escola é dirigida por uma mesa constituída pelo presidente da assembleia de escola e por três vogais, um de cada corpo representado;\n\nb) A eleição dos vogais é feita na primeira reunião de cada mandato por todos os membros da assembleia de escola;\n\nc) A assembleia de escola funciona em plenário, sendo as deliberações tomadas por maioria absoluta da totalidade dos seus membros, salvo quando se dispuser de modo diferente;\n\nd) A assembleia tem reuniões ordinárias e extraordinárias, reunindo ordinariamente duas vezes em cada ano;\n\ne) São funções do presidente da assembleia de escola, para além de outras indicadas no Código do Procedimento Administrativo e em legislação especial:\n\ne1) Convocar e dirigir as reuniões e assegurar o cumprimento das leis e a regularidade das deliberações;\n\ne2) Estabelecer ligação com os demais órgãos da Escola;\n\ne3) Comunicar à entidade competente a constituição do conselho directivo e eventual proposta da sua destituição;\n\ne4) Fazer substituir os membros que renunciem ou percam o mandato;\n\nf) Quando o presidente da assembleia de escola se encontrar impossibilitado temporariamente de exercer as suas funções será substituído pelo vogal docente;\n\ng) As deliberações da assembleia de escola relativas ao referido nas alíneas a) e m) do n.º 1 do artigo 13.º dos presentes Estatutos exigem a aprovação por um mínimo de dois terços dos membros efectivos da assembleia;\n\nh) Não comparecendo o número de membros exigido, será convocada nova reunião, com o intervalo de, pelo menos, vinte e quatro horas, podendo a assembleia deliberar desde que esteja presente um terço dos membros, salvo o estipulado nas alíneas a) e m) do n.º 1 do artigo 13.º;\n\ni) Se em duas votações consecutivas se verificar empate, o assunto em apreço considera-se rejeitado."
+  },
+  "939453861": {
+   "fragment_id": "939477507",
+   "type": 8,
+   "heading": "Secção III — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho directivo"
+  },
+  "939453862": {
+   "fragment_id": "939477508",
+   "type": 11,
+   "heading": "Artigo 16.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição\n\nO conselho directivo é composto por:\n\na) Um presidente;\n\nb) Dois vice-presidentes;\n\nc) Um representante do pessoal não docente;\n\nd) Um representante dos estudantes."
+  },
+  "939453863": {
+   "fragment_id": "939477509",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências\n\n1 - Ao conselho directivo compete dirigir, orientar e coordenar as actividades e serviços da ESEnfFG, de modo a imprimir-lhes unidade, continuidade e eficiência, assegurando a gestão do pessoal e a gestão administrativa e financeira.\n\n2 - Ao conselho directivo compete, designadamente:\n\na) Aprovar o seu regulamento interno;\n\nb) Preparar e propor à assembleia de escola o plano de desenvolvimento plurianual da ESEnfFG, com base nos planos apresentados pelas componentes da estrutura interna e consolidados, para o efeito, de forma crítica;\n\nc) Preparar e propor à assembleia de escola o plano de actividades, consolidado de forma crítica, bem como o respectivo projecto de orçamento em articulação com o conselho administrativo;\n\nd) Promover o desenvolvimento das actividades científicas e pedagógicas da ESEnfFG;\n\ne) Assegurar a realização dos programas de actividades da ESEnfFG e do respectivo orçamento e fazer o relatório para ser presente à assembleia de escola;\n\nf) Aprovar normas regulamentadoras com vista ao bom funcionamento da ESEnfFG;\n\ng) Propor à assembleia de escola a criação, alteração e extinção de unidades orgânicas;\n\nh) Nomear os coordenadores dos departamentos;\n\ni) Recrutar e contratar, sob parecer do conselho científico, pessoal docente;\n\nj) Recrutar e contratar, ouvido o secretário, pessoal não docente;\n\nl) Elaborar e aprovar o calendário escolar, ouvidos o conselho científico e o conselho pedagógico;\n\nm) Assegurar a realização dos actos eleitorais, nos termos estabelecidos nos presentes Estatutos;\n\nn) Elaborar relatórios globais de execução dos programas da ESEnfFG e fazer observar, por parte dos departamentos e unidades de apoio, a elaboração de relatórios de execução parcelares;\n\no) Deliberar sobre qualquer outro assunto que não seja da expressa competência de qualquer outro órgão;\n\np) Sem prejuízo do que vier a ser legalmente consagrado em matéria de regime disciplinar aplicável aos estudantes, ao abrigo do artigo 47.º da Lei n.º 54/90, de 5 de Setembro, é da competência do conselho directivo o exercício da acção disciplinar aos estudantes.\n\n3 - Ao presidente do conselho directivo são atribuídas, com as necessárias adaptações, as competências de presidente de instituto politécnico, de acordo com o n.º 2 do artigo 41.º da Lei n.º 54/90, competindo-lhe entre outras:\n\na) As funções de abrir e encerrar as reuniões dos conselhos a que preside, dirigir os trabalhos e assegurar o cumprimento das leis e a regularidade das deliberações, bem como convocar as reuniões ordinárias e extraordinárias, e ainda fixar o dia e hora das reuniões ordinárias;\n\nb) Representar a ESEnfFG em juízo e fora dele;\n\nc) Zelar pela observância das normas legais e regulamentares aplicáveis;\n\nd) Presidir à assembleia de escola, ao conselho consultivo e ao conselho administrativo;\n\ne) Submeter aos membros do Governo que exercem poderes de tutela as questões que careçam da sua intervenção;\n\nf) Assegurar o despacho diário do expediente de gestão corrente e a resolução dos assuntos de urgência, submetendo estes, posteriormente, à ratificação do conselho directivo;\n\ng) Exercer todas as competências que, cabendo no âmbito das atribuições da Escola, não sejam, pela lei ou pelos presentes Estatutos, cometidas a outros órgãos;\n\nh) Convocar, sem direito a voto, os presidentes dos conselhos científico e pedagógico para além de outras pessoas que o conselho directivo entenda conveniente;\n\ni) Outorgar protocolos com entidades ou instituições exteriores à Escola, nacionais, internacionais ou estrangeiras, e zelar pelo seu cumprimento;\n\nj) Constituir os júris relativos a concursos de pessoal não docente.\n\n4 - O presidente pode delegar nos vice-presidentes parte das suas competências, sendo substituído por um destes nas suas ausências e impedimentos.\n\n5 - O presidente é coadjuvado, em matéria predominantemente administrativa ou financeira, por um secretário, nos termos da legislação em vigor."
+  },
+  "939453864": {
+   "fragment_id": "939477510",
+   "type": 11,
+   "heading": "Artigo 18.º — Eleição e duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Eleição e duração do mandato\n\n1 - Os membros do conselho directivo são eleitos por listas e por corpos, mediante a apresentação de programa de candidatura.\n\n2 - São elegíveis para o conselho directivo todos os professores e restante pessoal da ESEnfFG, assim como todos os estudantes.\n\n3 - O presidente do conselho directivo é um professor da Escola.\n\n4 - Os candidatos deverão apresentar, ao conselho directivo, a declaração de candidatura, no prazo de 10 dias úteis após o início do processo eleitoral, subscrita por, pelo menos, 10% dos membros do respectivo corpo, bem como as bases programáticas da respectiva candidatura.\n\n5 - Na apresentação das listas de docentes deverá indicar-se o nome do candidato que assumirá o cargo de presidente do conselho directivo.\n\n6 - As listas poderão prever um número de suplentes igual ao dos efectivos para substituição, a título definitivo, dos membros que deixem de fazer parte do conselho.\n\n7 - O disposto no número anterior não se aplica ao cargo de presidente.\n\n8 - Se no prazo referido no n.º 4 não surgirem candidaturas, iniciar-se-á um novo período, igualmente de 10 dias úteis, em que serão admitidas candidaturas subscritas por metade dos elementos indicados para cada corpo.\n\n9 - Será eleita a lista que à primeira volta obtenha a maioria absoluta dos votos dos respectivos corpos cujos membros estejam em efectividade de funções; caso isso não se verifique, haverá uma segunda volta entre as duas listas mais votadas, considerando-se eleita a que obtiver maioria absoluta dos votos expressos dos membros dos respectivos corpos.\n\n10 - Caso não haja candidaturas, a votação pode recair sobre qualquer docente da ESEnfFG, salvaguardando o disposto no n.º 3 deste artigo, estudante ou pessoal não docente que não tenha previamente afirmado a sua indisponibilidade, sendo eleitos os mais votados em cada corpo pelos seus pares.\n\n11 - O mandato do conselho directivo é de três anos para todos os membros do conselho, à excepção do mandato dos estudantes, que é de um ano, cessando funções com a tomada de posse dos novos membros eleitos.\n\n12 - Em caso de eleição intercalar, o novo conselho directivo eleito apenas completará o mandato do anterior.\n\n13 - O mandato do presidente do conselho directivo é de três anos, podendo ser renovado até ao máximo de dois mandatos consecutivos.\n\n14 - A eleição do presidente do conselho directivo está sujeita à homologação da tutela.\n\n15 - Os vice-presidentes do conselho directivo são nomeados pelo presidente."
+  },
+  "939453865": {
+   "fragment_id": "939477511",
+   "type": 11,
+   "heading": "Artigo 19.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Funcionamento\n\nO conselho directivo rege-se por regulamento próprio, sem prejuízo dos seguintes princípios:\n\na) O conselho directivo terá reuniões periódicas mensais, excepto no período de férias, e extraordinárias sempre que tal for julgado necessário pelo presidente ou pela maioria dos seus membros;\n\nb) O conselho directivo só poderá reunir se tiver presente a maioria dos seus membros."
+  },
+  "939453866": {
+   "fragment_id": "939477512",
+   "type": 8,
+   "heading": "Secção IV — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho científico"
+  },
+  "939453867": {
+   "fragment_id": "939477513",
+   "type": 11,
+   "heading": "Artigo 20.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Composição\n\n1 - Integram o conselho científico:\n\na) O presidente do conselho directivo;\n\nb) Os professores em serviço na ESEnfFG.\n\n2 - Sob proposta do presidente do conselho directivo, aprovada pelo conselho científico, podem ainda ser convidados para integrar o conselho, por cooptação:\n\na) Professores de outros estabelecimentos de ensino superior;\n\nb) Investigadores;\n\nc) Outras individualidades de reconhecida competência em áreas do domínio das actividades da ESEnfFG.\n\n3 - Podem ser convidados a participar no conselho científico, sem direito a voto nos assuntos que lhes disserem directamente respeito, designadamente no que se refere ao Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, outros docentes cujas funções na ESEnfFG o justifiquem."
+  },
+  "939453868": {
+   "fragment_id": "939477514",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências\n\n1 - São competências do conselho científico as que lhe são cometidas pelo Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico.\n\n2 - Compete ao conselho científico, ouvido o conselho consultivo:\n\na) Elaborar propostas de planos de estudos para cada curso e de fixação do número máximo de matrículas anuais;\n\nb) Definir as linhas orientadoras das políticas a prosseguir pela ESEnfFG nos domínios do ensino, da investigação, da extensão cultural e da prestação de serviços à comunidade.\n\n3 - Compete ainda ao conselho científico:\n\na) Aprovar o seu regulamento interno;\n\nb) Propor ao conselho directivo, ouvido o conselho pedagógico, a criação e a extinção de departamentos, sendo necessária para o efeito uma maioria qualificada de dois terços;\n\nc) Aprovar os regulamentos dos departamentos;\n\nd) Propor ao conselho directivo a nomeação dos coordenadores de departamentos;\n\ne) Aprovar a distribuição anual do serviço docente;\n\nf) Aprovar, ouvido o conselho pedagógico, as regras de funcionamento dos cursos, nomeadamente no que se refere aos regimes de frequência, avaliação, transição de ano, precedências, prescrições e transferências;\n\ng) Decidir sobre equivalências e reconhecimentos de graus, diplomas, cursos e componentes de cursos;\n\nh) Dar parecer ao conselho directivo sobre o calendário escolar;\n\ni) Dar parecer ao conselho directivo sobre a aquisição de equipamento de carácter científico e pedagógico;\n\nj) Aprovar os planos de acção dos departamentos;\n\nl) Proceder à apreciação periódica dos departamentos e sua articulação com a filosofia e objectivos da ESEnfFG;\n\nm) Deliberar sobre pedidos de dispensa de serviço dos docentes;\n\nn) Dar parecer ao conselho directivo sobre pedidos de equiparação a bolseiro dos docentes;\n\no) Dar parecer ao conselho directivo sobre pedidos de docentes para a prestação de serviço noutras instituições de ensino superior;\n\np) Dar parecer ao conselho directivo sobre pedidos de transferência de docentes de outras instituições de ensino superior;\n\nq) Apresentar propostas e dar parecer ao conselho directivo sobre o estabelecimento de intercâmbios e protocolos com entidades e instituições nacionais, internacionais e estrangeiras;\n\nr) Dar parecer ao conselho pedagógico sobre a aquisição de equipamento didáctico e bibliográfico e seu uso;\n\ns) Dar parecer sobre as individualidades a integrar o conselho consultivo;\n\nt) Elaborar o seu plano de actividades e o relatório."
+  },
+  "939453869": {
+   "fragment_id": "939477515",
+   "type": 11,
+   "heading": "Artigo 22.º — Eleição e duração do mandato do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Eleição e duração do mandato do presidente\n\n1 - O presidente do conselho científico é eleito, de entre os seus membros, por maioria de votos e por escrutínio secreto.\n\n2 - O mandato do presidente é de dois anos, renovável até ao máximo de dois mandatos consecutivos."
+  },
+  "939453870": {
+   "fragment_id": "939477516",
+   "type": 11,
+   "heading": "Artigo 23.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Funcionamento\n\nO conselho científico rege-se por regulamento próprio, sem prejuízo dos seguintes princípios:\n\na) O conselho científico funciona em plenário e em comissões;\n\nb) O conselho científico reúne em plenário no mínimo uma vez por mês, excepto no período de férias."
+  },
+  "939453871": {
+   "fragment_id": "939477517",
+   "type": 8,
+   "heading": "Secção V — Conselho pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Conselho pedagógico"
+  },
+  "939453872": {
+   "fragment_id": "939477518",
+   "type": 11,
+   "heading": "Artigo 24.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Composição\n\nO conselho pedagógico é composto por:\n\na) Dois professores;\n\nb) Dois assistentes;\n\nc) Dois estudantes, salvaguardando a representação de um estudante de cada curso da ESEnfFG."
+  },
+  "939453873": {
+   "fragment_id": "939477519",
+   "type": 11,
+   "heading": "Artigo 25.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competências\n\nCompete ao conselho pedagógico:\n\na) Eleger o seu presidente;\n\nb) Aprovar o seu regulamento interno;\n\nc) Fazer propostas e dar parecer sobre orientação pedagógica e métodos de ensino, quando solicitado por outros órgãos;\n\nd) Promover a realização de novas experiências pedagógicas e propor acções tendentes à melhoria do ensino;\n\ne) Promover acções de formação pedagógica;\n\nf) Organizar, em colaboração com os restantes órgãos de gestão e departamentos, conferências, seminários e outras actividades de interesse pedagógico;\n\ng) Coordenar a avaliação do desempenho pedagógico dos docentes;\n\nh) Dar parecer, a solicitação do conselho científico, sobre o funcionamento dos cursos, designadamente no que se refere a regulamentos de frequência, avaliação, transição de ano, precedências, prescrições e transferências;\n\ni) Propor ao conselho directivo a aquisição de material didáctico e bibliográfico;\n\nj) Fazer propostas ao conselho directivo relativas ao funcionamento do centro de documentação;\n\nl) Dar parecer ao conselho directivo sobre o calendário escolar, horários e mapas de provas de avaliação;\n\nm) Elaborar o seu plano de actividades e o relatório."
+  },
+  "939453874": {
+   "fragment_id": "939477520",
+   "type": 11,
+   "heading": "Artigo 26.º — Eleição e duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Eleição e duração do mandato\n\n1 - A eleição dos professores, assistentes e estudantes é feita e por listas e por corpos, sendo o apuramento dos resultados realizado pelo método de Hondt.\n\n2 - As listas referentes aos professores e assistentes deverão conter um número de suplentes correspondente a pelo menos 50% do número de efectivos.\n\n3 - As listas referentes aos estudantes deverão conter, para fins de substituição a título definitivo, um número de suplentes igual ao número dos efectivos. Os membros que deixem de fazer parte do conselho deverão ser substituídos de forma a manter a representatividade referida na alínea c) do n.º 1 do artigo 24.º dos presentes Estatutos.\n\n4 - A duração do mandato dos membros do conselho é de três anos para os docentes e de um ano para os estudantes.\n\n5 - O presidente do conselho pedagógico é eleito por todos os seus membros, de entre os professores que dele façam parte, nos termos definidos no seu regulamento interno."
+  },
+  "939527075": {
+   "fragment_id": "939477521",
+   "type": 11,
+   "heading": "Artigo 27.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Funcionamento\n\nO conselho pedagógico rege-se por regulamento próprio, sem prejuízo dos seguintes princípios:\n\na) O conselho pedagógico funciona em plenário;\n\nb) O conselho pedagógico reúne, no mínimo, uma vez por trimestre."
+  },
+  "939527076": {
+   "fragment_id": "939477522",
+   "type": 8,
+   "heading": "Secção VI — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Conselho consultivo"
+  },
+  "939527077": {
+   "fragment_id": "939477523",
+   "type": 11,
+   "heading": "Artigo 28.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Composição\n\n1 - O conselho consultivo integra, por inerência de funções:\n\na) O presidente do conselho directivo, que preside;\n\nb) O presidente da assembleia de escola;\n\nc) O presidente do conselho científico;\n\nd) O presidente do conselho pedagógico;\n\ne) O secretário;\n\nf) O presidente da associação de estudantes;\n\ng) Os coordenadores dos departamentos.\n\n2 - Fazem ainda parte do conselho consultivo outras individualidades de reconhecida competência, representantes de organizações profissionais, entidades empregadoras e outras ou organismos públicos e privados, com actividade relevante em áreas do domínio da ESEnfFG, designadas pelo presidente do conselho directivo, ouvidos os conselhos científico e a assembleia de escola, em número nunca superior ao conjunto dos restantes membros do conselho."
+  },
+  "939527078": {
+   "fragment_id": "939477524",
+   "type": 11,
+   "heading": "Artigo 29.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências\n\n1 - Compete ao conselho consultivo fomentar a cooperação permanente entre a ESEnfFG e a comunidade, designadamente com as instituições de saúde, as autarquias, as organizações profissionais, empresariais, culturais e outras, nomeadamente de âmbito regional, relacionadas com as suas actividades.\n\n2 - O conselho consultivo deve formular pareceres e sugestões, elaborar estudos e apresentar as propostas adequadas a esse fim.\n\n3 - O conselho consultivo pode ainda pronunciar-se sobre todas as questões de interesse para a ESEnfFG que lhe sejam submetidas à apreciação pelo conselho directivo.\n\n4 - O conselho consultivo deve obrigatoriamente dar parecer sobre:\n\na) As linhas orientadoras das políticas a prosseguir pela ESEnfFG nos domínios do ensino, da investigação, da extensão cultural e da prestação de serviços à comunidade;\n\nb) Os planos de actividades da ESEnfFG;\n\nc) A pertinência e validade dos cursos existentes;\n\nd) Os projectos de criação de novos cursos;\n\ne) A fixação do número máximo de matrículas de cada curso;\n\nf) A organização dos planos de estudo, quando para tal for solicitado pelo presidente do conselho directivo;\n\ng) A realização de cursos de aperfeiçoamento, actualização, reciclagem e reconversão profissional e de actividades de extensão educativa."
+  },
+  "939527079": {
+   "fragment_id": "939477525",
+   "type": 11,
+   "heading": "Artigo 30.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Duração do mandato\n\nA duração do mandato do conselho consultivo coincide com a do conselho directivo."
+  },
+  "939527080": {
+   "fragment_id": "939477526",
+   "type": 11,
+   "heading": "Artigo 31.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Funcionamento\n\n1 - O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, por convocação do seu presidente ou a requerimento de, pelo menos, metade dos seus membros, nos termos do Código do Procedimento Administrativo.\n\n2 - O conselho consultivo funciona em plenário e, se a especificidade dos assuntos em apreciação o justificar, em secções de acordo com o seu regulamento."
+  },
+  "939527081": {
+   "fragment_id": "939477527",
+   "type": 8,
+   "heading": "Secção VII — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Conselho administrativo"
+  },
+  "939527082": {
+   "fragment_id": "939477528",
+   "type": 11,
+   "heading": "Artigo 32.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Composição\n\nO conselho administrativo é composto por:\n\na) O presidente do conselho directivo, que preside;\n\nb) Um dos vice-presidentes do conselho directivo, designado pelo seu presidente;\n\nc) O secretário."
+  },
+  "939527083": {
+   "fragment_id": "939477529",
+   "type": 11,
+   "heading": "Artigo 33.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Competências\n\nO conselho administrativo dispõe da competência fixada na legislação em vigor para os órgãos dirigentes dos organismos públicos dotados de autonomia administrativa e financeira, incumbindo-lhe, nomeadamente:\n\na) Promover a elaboração dos planos financeiros anuais e plurianuais, de acordo com os planos de actividades a que se refere a alínea a) do n.º 2 do artigo 24.º da Lei n.º 54/90;\n\nb) Promover a elaboração dos projectos de orçamento, bem como a sua afectação, logo que aprovada, às unidades orgânicas e aos serviços da ESEnfFG;\n\nc) Requisitar à entidade competente as importâncias das dotações inscritas no Orçamento do Estado a favor da ESEnfFG;\n\nd) Promover a arrecadação das receitas próprias da ESEnfFG;\n\ne) Deliberar sobre as aquisições de bens e serviços indispensáveis ao funcionamento da ESEnfFG e promover essas aquisições;\n\nf) Verificar a legalidade das despesas e autorizar a sua realização e pagamento;\n\ng) Superintender na organização anual da conta de gerência e submetê-la a julgamento do Tribunal de Contas no prazo legalmente estabelecido;\n\nh) Autorizar os actos de administração relativos ao património da ESEnfFG;\n\ni) Promover a organização e a permanente actualização do inventário e do cadastro dos bens e imóveis da ESEnfFG;\n\nj) Pronunciar-se sobre qualquer assunto, no âmbito da sua competência, que lhe seja apresentado pelo presidente do conselho directivo;\n\nl) Proceder à verificação regular dos fundos em cofre e em depósito;\n\nm) Elaborar orçamentos privativos, tendo em conta receitas próprias provenientes do exercício das suas actividades e afectá-las à satisfação das suas despesas;\n\nn) Elaborar o seu próprio regulamento."
+  },
+  "939527084": {
+   "fragment_id": "939477530",
+   "type": 11,
+   "heading": "Artigo 34.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Duração do mandato\n\nA duração do mandato do conselho administrativo coincide com a do conselho directivo."
+  },
+  "939527085": {
+   "fragment_id": "939477531",
+   "type": 11,
+   "heading": "Artigo 35.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Funcionamento\n\nO conselho administrativo rege-se por regulamento próprio, sem prejuízo dos seguintes princípios:\n\na) O conselho administrativo reúne ordinariamente, em sessão diária, apenas com dois elementos, para efeitos de autorização em matéria de aquisições de bens e serviços indispensáveis ao funcionamento da ESEnfFG, até ao limite máximo aplicável ao ajuste directo sem consulta, previsto em legislação especial por cada autorização ou, independentemente do valor, nos casos em que as aquisições resultem de execução de contratos outorgados ou de obrigações legais;\n\nb) Além dos casos previstos no número anterior, o conselho administrativo reúne, ordinariamente, uma vez por mês e, extraordinariamente, a pedido de qualquer dos seus membros;\n\nc) As deliberações do conselho administrativo são tomadas por unanimidade na sessão diária ou por maioria nos outros casos, sendo os seus membros solidariamente responsáveis por elas, salvo se não estiverem presentes ou fizerem exarar em acta a sua discordância;\n\nd) As requisições de fundos e as autorizações de pagamento serão assinadas por dois dos membros do conselho;\n\ne) As actas do conselho administrativo farão menção expressa dos levantamentos de fundos, das despesas e dos pagamentos autorizados."
+  },
+  "939527086": {
+   "fragment_id": "939477532",
+   "type": 1,
+   "heading": "Capítulo IV — Departamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Departamentos"
+  },
+  "939527087": {
+   "fragment_id": "939477533",
+   "type": 11,
+   "heading": "Artigo 36.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Natureza\n\n1 - Os departamentos são unidades estruturais de carácter científico e pedagógico que se destinam a assegurar a formação inicial, contínua e especializada, a investigação, a prestação de serviços à comunidade e a colaboração com entidades nacionais, internacionais e estrangeiras.\n\n2 - Os departamentos são criados, alterados ou extintos pela tutela, sob proposta fundamentada da assembleia de escola, obtido parecer do conselho científico.\n\n3 - Sem prejuízo do disposto no número anterior, os departamentos da ESEnfFG são os seguintes:\n\na) Departamento de Fundamentos de Enfermagem;\n\nb) Departamento de Saúde Materna, Infantil e Adolescência;\n\nc) Departamento de Saúde do Adulto e Idoso;\n\nd) Departamento de Saúde Comunitária;\n\ne) Departamento de Saúde Mental."
+  },
+  "939527088": {
+   "fragment_id": "939477534",
+   "type": 11,
+   "heading": "Artigo 37.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Composição\n\nOs departamentos agrupam docentes de uma ou mais áreas científicas."
+  },
+  "939527089": {
+   "fragment_id": "939477535",
+   "type": 11,
+   "heading": "Artigo 38.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competências\n\nAo departamento compete:\n\na) Elaborar o seu regulamento;\n\nb) Propor a política geral do departamento em matéria científica e pedagógica;\n\nc) Elaborar o plano de actividades e o relatório do departamento;\n\nd) Avaliar as actividades do departamento;\n\ne) Apresentar propostas de criação, restruturação e extinção de cursos e de outras actividades de formação, de investigação e de intervenção sócio-educativa;\n\nf) Propor aos órgãos competentes as acções necessárias ao desenvolvimento e avaliação das actividades sob a sua responsabilidade;\n\ng) Propor, ao conselho científico, critérios de distribuição de serviço docente e de organização do calendário escolar no seu domínio de acção;\n\nh) Assegurar o ensino das disciplinas compreendidas na(s) sua(s) área(s) científica(s) e nomear os seus responsáveis;\n\ni) Identificar as necessidades de pessoal docente no seu âmbito de acção;\n\nj) Dar parecer sobre pedidos de equiparação a bolseiro e de dispensa de serviço dos docentes que prestam serviço no departamento;\n\nl) Propor aos órgãos competentes orientações sobre política de aquisição de material científico e pedagógico;\n\nm) Apresentar aos órgãos competentes propostas de convénios, acordos e contratos de investigação e de prestação de serviços;\n\nn) Dar parecer e decidir sobre todos os assuntos que lhe sejam submetidos."
+  },
+  "939527090": {
+   "fragment_id": "939477536",
+   "type": 11,
+   "heading": "Artigo 39.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Funcionamento\n\nOs departamentos regem-se por regulamento próprio, a aprovar pelo conselho científico, sem prejuízo dos seguintes princípios:\n\na) Cada departamento é coordenado por um professor;\n\nb) O coordenador é nomeado pelo conselho directivo, sob proposta do conselho científico."
+  },
+  "939527091": {
+   "fragment_id": "939477537",
+   "type": 1,
+   "heading": "Capítulo V — Unidades de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Unidades de apoio"
+  },
+  "939527092": {
+   "fragment_id": "939477538",
+   "type": 8,
+   "heading": "Secção I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I"
+  },
+  "939527093": {
+   "fragment_id": "939477539",
+   "type": 11,
+   "heading": "Artigo 40.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Constituição\n\nAs unidades de apoio da ESEnfFG são, sem prejuízo de outras que possam vir a ser criadas, as seguintes:\n\na) Os centros de recursos;\n\nb) Os Serviços Administrativos e Gerais;\n\nc) A Assessoria Jurídica;\n\nd) O Secretariado."
+  },
+  "939527094": {
+   "fragment_id": "939477540",
+   "type": 8,
+   "heading": "Secção II — Centros de recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Centros de recursos"
+  },
+  "939527095": {
+   "fragment_id": "939477541",
+   "type": 11,
+   "heading": "Artigo 41.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Natureza\n\n1 - Os centros de recursos são unidades estruturais de apoio às actividades desenvolvidas pela ESEnfFG, nos domínios de actuação que lhes são próprios.\n\n2 - Os centros são criados pelo conselho directivo, sob proposta do conselho científico.\n\n3 - Os centros da ESEnfFG, sem prejuízo de outros que possam vir a ser criados, são:\n\na) O Centro de Documentação;\n\nb) O Centro de Informática e Comunicação Multimédia;\n\nc) O Centro de Relações Internacionais;\n\nd) O Centro de Investigação."
+  },
+  "939527096": {
+   "fragment_id": "939477542",
+   "type": 11,
+   "heading": "Artigo 42.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Composição\n\nOs centros de recursos podem integrar docentes, técnicos especializados com formação nos domínios de actuação que lhes são próprios e outros elementos designados pelo conselho directivo."
+  },
+  "939527097": {
+   "fragment_id": "939477543",
+   "type": 11,
+   "heading": "Artigo 43.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Competências\n\nCompete a cada centro de recursos:\n\na) Garantir a prestação de serviços nos domínios de actuação que lhes são próprios;\n\nb) Assegurar a utilização dos respectivos recursos, de acordo com princípios técnicos, científicos e pedagógicos;\n\nc) Promover, nos respectivos domínios de actuação, o ensino, a formação, a investigação e a produção de materiais;\n\nd) Propor a aquisição de materiais e equipamentos que viabilizem o desenvolvimento e a execução das actividades da ESEnfFG, no respectivo domínio de actuação;\n\ne) Assegurar a gestão dos recursos humanos e materiais postos à sua disposição;\n\nf) Zelar pela conservação e manutenção das respectivas instalações e bens;\n\ng) Propor a celebração de protocolos e contratos com outras entidades públicas ou privadas, nacionais, internacionais ou estrangeiras, no seu domínio de actuação."
+  },
+  "939527098": {
+   "fragment_id": "939477544",
+   "type": 11,
+   "heading": "Artigo 44.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Funcionamento\n\n1 - Cada centro é coordenado por um professor ou por um técnico superior com formação adequada.\n\n2 - O coordenador é designado pelo conselho directivo, sob proposta do conselho científico.\n\n3 - Compete aos centros elaborarem os seus regulamentos internos, a homologar pelo conselho directivo.\n\n4 - A gestão dos centros de recursos deverá ser integrada, promovendo a articulação dos centros entre si e destes com as outras componentes da estrutura interna da ESEnfFG."
+  },
+  "939527099": {
+   "fragment_id": "939477545",
+   "type": 8,
+   "heading": "Secção III — Serviços Administrativos e Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Serviços Administrativos e Gerais"
+  },
+  "939527100": {
+   "fragment_id": "939477546",
+   "type": 11,
+   "heading": "Artigo 45.º — Secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Secretário\n\n1 - A ESEnfFG tem um secretário, nomeado nos termos e condições previstos legalmente, o qual depende directamente do presidente do conselho directivo.\n\n2 - O secretário exerce as suas competências, nos termos da legislação em vigor, sem prejuízo de outras que lhe possam vir a ser delegadas ou subdelegadas."
+  },
+  "939527101": {
+   "fragment_id": "939477547",
+   "type": 11,
+   "heading": "Artigo 46.º — Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Composição e funcionamento\n\n1 - Os Serviços Administrativos da ESEnfFG exercem a sua acção nos domínios da gestão financeira, recursos humanos, expediente, arquivo, tesouraria e serviços académicos.\n\n2 - Os Serviços Administrativos, referidos no n.º 1 deste artigo, sem prejuízo de outros a considerar, são os seguintes:\n\na) A Secção Académica;\n\nb) A Secção de Contabilidade, Aprovisionamento e Património;\n\nc) A Secção de Pessoal e Expediente Geral;\n\nd) A Tesouraria.\n\n3 - Os Serviços Gerais da ESEnfFG exercem a sua acção nos domínios da manutenção, segurança, reprografia e central telefónica.\n\n4 - O funcionamento dos Serviços Administrativos e Gerais bem como as suas competências constarão de um regulamento a aprovar pelo conselho directivo, sob proposta do secretário."
+  },
+  "939527102": {
+   "fragment_id": "939477548",
+   "type": 8,
+   "heading": "Secção IV — Assessoria Jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Assessoria Jurídica"
+  },
+  "939527103": {
+   "fragment_id": "939477549",
+   "type": 11,
+   "heading": "Artigo 47.º — Natureza e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Natureza e funcionamento\n\n1 - A assessoria jurídica é exercida por um técnico superior com formação adequada e presta apoio especializado à ESEnfFG.\n\n2 - A Assessoria Jurídica depende directamente do conselho directivo."
+  },
+  "939527104": {
+   "fragment_id": "939477550",
+   "type": 8,
+   "heading": "Secção V — Secretariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Secretariado"
+  },
+  "939527105": {
+   "fragment_id": "939477551",
+   "type": 11,
+   "heading": "Artigo 48.º — Natureza e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Natureza e funcionamento\n\n1 - O secretariado é exercido por pessoal técnico profissional com formação adequada e presta apoio aos órgãos de gestão e aos departamentos da ESEnfFG.\n\n2 - O Secretariado depende directamente do conselho directivo."
+  },
+  "939527106": {
+   "fragment_id": "939477552",
+   "type": 1,
+   "heading": "Capítulo VI — Processos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Processos eleitorais"
+  },
+  "939527107": {
+   "fragment_id": "939477553",
+   "type": 11,
+   "heading": "Artigo 49.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Âmbito de aplicação\n\nA eleição para os órgãos de gestão da ESEnfFG rege-se pelo disposto nos presentes Estatutos."
+  },
+  "939527108": {
+   "fragment_id": "939477554",
+   "type": 11,
+   "heading": "Artigo 50.º — Cadernos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Cadernos eleitorais\n\n1 - O conselho directivo elabora e publica, até quatro dias úteis após a marcação da data de quaisquer eleições, os cadernos eleitorais de cada corpo, a utilizar nessas eleições.\n\n2 - Será aberto um prazo de reclamações de, pelo menos, três dias úteis.\n\n3 - O conselho directivo julgará as reclamações e mandará corrigir em conformidade, no prazo máximo de três dias úteis.\n\n4 - Uma vez efectuadas essas correcções, os cadernos eleitorais serão considerados definitivos."
+  },
+  "939527109": {
+   "fragment_id": "939477555",
+   "type": 11,
+   "heading": "Artigo 51.º — Marcação de eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Marcação de eleições\n\n1 - Compete ao conselho directivo a marcação das eleições para a assembleia de escola, conselho directivo e conselho pedagógico da ESEnfFG.\n\n2 - As eleições deverão ocorrer entre o 30.º e o 45.º dias úteis após o início do ano lectivo.\n\n3 - O anúncio da data de qualquer eleição será publicitado com uma antecedência mínima de 30 dias úteis, devendo simultaneamente ser divulgadas as datas de apresentação, de reclamações e de divulgação pública de candidaturas, nunca podendo esta divulgação prolongar-se para além da antevéspera do acto eleitoral."
+  },
+  "939527110": {
+   "fragment_id": "939477556",
+   "type": 11,
+   "heading": "Artigo 52.º — Listas concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Listas concorrentes\n\n1 - As listas concorrentes a cada acto eleitoral deverão ser apresentadas ao presidente do conselho directivo até 10 dias úteis antes da data fixada para a sua realização.\n\n2 - As listas devem integrar candidatos efectivos e suplentes em número não inferior a 50% dos efectivos, de modo a poderem ser asseguradas eventuais substituições, à excepção das listas para o conselho directivo.\n\n3 - As listas devem ser subscritas por 10% do número de elementos do respectivo corpo eleitoral, devendo o conselho directivo fazer publicar, conjuntamente com os cadernos eleitorais, o número efectivo de subscritores exigidos por corpo para cada acto eleitoral.\n\n4 - As listas indicarão um membro do respectivo corpo como seu mandatário junto da comissão eleitoral.\n\n5 - O conselho directivo verificará, até ao dia limite para apresentação das candidaturas, a sua regularidade, comunicando ao respectivo mandatário a aceitação ou a existência de irregularidade, a qual terá de ser suprida no prazo de dois dias úteis, sob pena de rejeição."
+  },
+  "939527111": {
+   "fragment_id": "939477557",
+   "type": 11,
+   "heading": "Artigo 53.º — Comissão eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Comissão eleitoral\n\n1 - A comissão eleitoral será constituída por um presidente e ainda por um elemento de cada corpo representado no respectivo órgão, que garantam uma posição de imparcialidade no desenvolvimento do processo eleitoral.\n\n2 - Os membros a que se refere o número anterior serão nomeados pelo conselho directivo.\n\n3 - O presidente da comissão eleitoral não poderá ser candidato ou subscritor de qualquer das candidaturas.\n\n4 - A comissão eleitoral iniciará funções no dia seguinte à entrega de candidaturas.\n\n5 - Compete à comissão eleitoral:\n\na) Verificar e deliberar sobre a legalidade das candidaturas;\n\nb) Presidir ao acto eleitoral;\n\nc) Zelar pela verificação dos princípios da liberdade de divulgação e da igualdade de oportunidades e tratamento das candidaturas;\n\nd) Nomear o presidente e vogais da mesa de voto e distribuir os delegados das candidaturas concorrentes.\n\n6 - Ao presidente da comissão eleitoral compete dirigir as respectivas reuniões, usando o direito de voto apenas em caso de empate, bem como informar o conselho directivo de qualquer facto que comprometa o andamento da campanha eleitoral, a realização das eleições ou a igualdade de tratamento entre as candidaturas concorrentes."
+  },
+  "939527112": {
+   "fragment_id": "939477558",
+   "type": 11,
+   "heading": "Artigo 54.º — Campanha eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Campanha eleitoral\n\n1 - A campanha eleitoral terá início no 7.º dia útil anterior ao acto eleitoral e terminará vinte e quatro horas antes do começo deste acto.\n\n2 - O desenrolar da campanha eleitoral pautar-se-á pela observância dos princípios da liberdade de propaganda e da igualdade de oportunidades e tratamento das candidaturas em presença."
+  },
+  "939527113": {
+   "fragment_id": "939477559",
+   "type": 11,
+   "heading": "Artigo 55.º — Acto eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Acto eleitoral\n\nO voto é pessoal e secreto, não sendo admitido voto por procuração ou correspondência."
+  },
+  "939527114": {
+   "fragment_id": "939477560",
+   "type": 11,
+   "heading": "Artigo 56.º — Competência da mesa de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Competência da mesa de voto\n\nCompete à mesa de voto:\n\na) Orientar o funcionamento do acto eleitoral, decidindo das questões suscitadas no seu decurso;\n\nb) Proceder, após o encerramento das urnas, à contagem dos votos, à conversão destes em mandatos para os lugares dos órgãos de gestão, de acordo com as regras definidas nos presentes Estatutos para cada órgão de gestão, e à celebração de uma acta, a enviar imediatamente ao conselho directivo, na qual constarão os protestos formulados contra as decisões que proferiu e os resultados do escrutínio."
+  },
+  "939527115": {
+   "fragment_id": "939477561",
+   "type": 11,
+   "heading": "Artigo 57.º — Apuramento final e homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Apuramento final e homologação\n\n1 - Compete ao conselho directivo proceder ao apuramento final dos resultados e mandar afixá-los no prazo de vinte e quatro horas após o encerramento das urnas, depois de decidir sobre protestos lavrados em acta.\n\n2 - Nas vinte e quatro horas seguintes ao apuramento dos resultados, o conselho directivo elaborará um relatório no qual constam os resultados das eleições, os nomes dos candidatos eleitos, as deliberações proferidas e quaisquer outros factos ou ocorrências relevantes, considerando-se homologados os resultados da eleição, excepto no que se refere à eleição do presidente do conselho directivo, a qual carece de homologação da tutela."
+  },
+  "939527116": {
+   "fragment_id": "939477562",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "939527117": {
+   "fragment_id": "939477563",
+   "type": 11,
+   "heading": "Artigo 58.º — Mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Mandatos\n\n1 - Os mandatos para os diferentes órgãos de gestão poderão ser renovados até ao máximo de dois mandatos consecutivos.\n\n2 - Os mandatos por inerência caducam quando cessem as funções que os originaram.\n\n3 - O mandato inicia-se no 1.º dia útil do ano civil seguinte ao da eleição e cessa com a tomada de posse dos novos membros eleitos.\n\n4 - O mandato pode, no entanto, cessar antecipadamente por renúncia ou ocorrência de causa determinante da sua perda.\n\n5 - Os membros dos órgãos eleitos gozam do direito a renúncia ao respectivo mandato, sob condição de:\n\na) Se forem membros de órgão de gestão, comunicarem a renúncia, por escrito, ao presidente do órgão respectivo;\n\nb) Se forem titulares de cargos de órgãos singulares eleitos, comunicarem a renúncia, por escrito, ao plenário do órgão que os elegeu.\n\n6 - Para o caso da renúncia prevista na alínea a) do número anterior, o mandato será conferido ao candidato imediatamente a seguir na lista apresentada, podendo, caso seja necessário, recorrer-se aos respectivos suplentes.\n\n7 - A convocação do substituto previsto no número anterior compete ao presidente do órgão em causa e deverá ter lugar no período que medeia entre a renúncia e a realização de nova reunião.\n\n8 - No caso da renúncia prevista na alínea b) do n.º 5, será marcado novo período eleitoral nos moldes previstos nestes Estatutos e num prazo máximo de cinco dias úteis a partir da data da apresentação da renúncia.\n\n9 - Perdem o mandato todos os que no decurso do mesmo:\n\na) Forem atingidos por incapacidade de carácter permanente;\n\nb) Forem alvo de condenação proferida em processo disciplinar com pena superior à repreensão;\n\nc) Percam a qualidade por que foram eleitos;\n\nd) Ultrapassem o limite de faltas estipulado no regulamento do respectivo órgão de gestão.\n\n10 - As vagas criadas nos órgãos de gestão da ESEnfFG, em resultado da cessação antecipada de mandatos, serão preenchidas pelas formas previstas nestes Estatutos.\n\n11 - Os membros investidos nos termos do número anterior apenas completarão o mandato dos cessantes."
+  },
+  "939527118": {
+   "fragment_id": "939477564",
+   "type": 11,
+   "heading": "Artigo 59.º — Normas gerais de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Normas gerais de funcionamento\n\n1 - Nenhum órgão pode deliberar sem a presença da maioria do número legal dos respectivos membros, excepto nos casos expressamente previstos nestes Estatutos.\n\n2 - As deliberações são tomadas por maioria dos votos expressos, salvo se for aplicável norma destes Estatutos que estabeleça procedimento diferente.\n\n3 - Do cômputo dos votos expressos excluem-se sempre os votos brancos e os votos nulos.\n\n4 - Todas as votações que se refiram a pessoas estão sujeitas a escrutínio secreto.\n\n5 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções, salvo se não estiverem presentes ou se fizerem exarar em acta a sua oposição às deliberações tomadas na respectiva reunião.\n\n6 - A comparência às reuniões dos diversos órgãos de gestão da ESEnfFG precede todas as demais actividades pedagógicas e administrativas com excepção de exames, concursos e participação em júris.\n\n7 - As reuniões devem realizar-se dentro das horas normais de expediente."
+  },
+  "939527119": {
+   "fragment_id": "939477565",
+   "type": 11,
+   "heading": "Artigo 60.º — Revisão dos Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Revisão dos Estatutos\n\n1 - Os presentes Estatutos podem ser revistos:\n\na) Quatro anos após a data de publicação ou da sua revisão;\n\nb) Por vontade expressa de dois terços dos membros efectivos da assembleia de escola.\n\n2 - A aprovação das propostas de revisão dos Estatutos compete a uma assembleia, expressamente convocada com esse fim, pelo presidente da assembleia de escola.\n\n3 - A composição da assembleia de revisão dos Estatutos é a seguinte:\n\na) O presidente do conselho directivo;\n\nb) Três professores;\n\nc) Dois assistentes;\n\nd) Três estudantes;\n\ne) Um representante do pessoal não docente.\n\n4 - Os membros referidos nas alíneas b) e e) são eleitos pelos seus pares, cabendo a estes propor os elementos de cada lista sempre em número duplo ao número de candidatos a eleger.\n\n5 - A aprovação da revisão dos Estatutos carece da maioria absoluta de votos dos membros da assembleia.\n\n6 - As alterações aos Estatutos estão sujeitas à homologação da tutela, nos termos da lei."
+  },
+  "939527120": {
+   "fragment_id": "939477566",
+   "type": 11,
+   "heading": "Artigo 61.º — Primeiros órgãos de gestão da Escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Primeiros órgãos de gestão da Escola\n\nNo prazo máximo de 60 dias, excluindo períodos de férias, a direcção elabora o regulamento eleitoral de acordo com os presentes Estatutos e promove a realização de eleições para a constituição da assembleia de escola, conselho directivo e conselho pedagógico."
+  },
+  "939527121": {
+   "fragment_id": "939477567",
+   "type": 11,
+   "heading": "Artigo 62.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Legislação subsidiária\n\nEm todo o omisso rege o Código do Procedimento Administrativo e demais legislação em vigor."
+  },
+  "939527122": {
+   "fragment_id": "939477568",
+   "type": 11,
+   "heading": "Artigo 63.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Entrada em vigor\n\nOs presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República."
+  },
+  "939527123": {
+   "fragment_id": "939477569",
+   "type": 14,
+   "heading": "Anexo — Símbolos da Escola Superior de Enfermagem de Francisco Gentil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Símbolos da Escola Superior de Enfermagem de Francisco Gentil\n\nSímbolo de estudante do curso de Enfermagem\n\n(ver símbolo no documento original)\n\nSímbolo do graduado - bacharel\n\n(ver símbolo no documento original)\n\nSímbolo do diplomado dos cursos de estudos superiores especializados - licenciado\n\n(ver símbolo no documento original)\n\nTimbre\n\n(ver timbre no documento original)\n\nSelo branco\n\n(ver selo no documento original)\n\nSelo a óleo\n\n(ver selo no documento original)"
+  }
+ }
+}

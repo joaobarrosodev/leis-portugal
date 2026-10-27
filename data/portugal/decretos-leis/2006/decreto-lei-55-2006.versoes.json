@@ -1,0 +1,275 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667345:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-122866590",
+ "dre_path": "/dr/detalhe/decreto-lei/55-2006-667345",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-03-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122866689",
+    "122866690",
+    "122866691",
+    "122866692",
+    "122866693",
+    "122866694",
+    "122866695"
+   ]
+  },
+  {
+   "date": "2017-01-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105711789:por",
+     "title": "Decreto-Lei n.º 4/2017",
+     "published": "2017-01-06",
+     "dre_path": "/dr/detalhe/decreto-lei/4-2017-105711789"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "122866689",
+    "122866690",
+    "122866691",
+    "122866692",
+    "122866693",
+    "122867482",
+    "122866695",
+    "122866696"
+   ]
+  },
+  {
+   "date": "2019-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122857880:por",
+     "title": "Decreto-Lei n.º 87/2019",
+     "published": "2019-07-02",
+     "dre_path": "/dr/detalhe/decreto-lei/87-2019-122857880"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "122866689",
+    "122866690",
+    "122866691",
+    "122866692",
+    "122866693",
+    "122867523",
+    "122866695",
+    "122866696"
+   ]
+  },
+  {
+   "date": "2019-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124879306:por",
+     "title": "Decreto-Lei n.º 143/2019",
+     "published": "2019-09-20",
+     "dre_path": "/dr/detalhe/decreto-lei/143-2019-124879306"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "122866689",
+    "122866690",
+    "122866691",
+    "122866692",
+    "122866693",
+    "124899293",
+    "122866695",
+    "122866696"
+   ]
+  },
+  {
+   "date": "2020-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129208004:por",
+     "title": "Decreto-Lei n.º 5/2020",
+     "published": "2020-02-14",
+     "dre_path": "/dr/detalhe/decreto-lei/5-2020-129208004"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "122866689",
+    "122866690",
+    "122866691",
+    "122866692",
+    "122866693",
+    "129112461",
+    "122866695",
+    "122866696"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211499214:por",
+     "title": "Lei n.º 15/2023",
+     "published": "2023-04-06",
+     "dre_path": "/dr/detalhe/lei/15-2023-211499214"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "122866689",
+    "122866690",
+    "122866691",
+    "122866692",
+    "122866693",
+    "211556106",
+    "122866695",
+    "122866696"
+   ]
+  }
+ ],
+ "fragments": {
+  "122866689": {
+   "fragment_id": "122866591",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 55/2006\n\nde 15 de Março\n\nA Lei n.º 17/2000, de 20 de Agosto, que aprovou as bases da segurança social, previa que «os regimes de protecção social da função pública deverão ser regulamentados por forma a convergir com os regimes do sistema de segurança social quanto ao âmbito material, regras de formação de direitos e atribuição de prestações». Este princípio foi reiterado pela Lei n.º 32/2002, de 20 de Dezembro, no seu artigo 124.º\n\nNesta senda, o Conselho de Ministros aprovou, em 2 de Junho de 2005, as suas Resoluções n.os 102/2005 e 110/2005, publicadas no Diário da República, 1.ª série-B, de 24 e de 30 de Junho de 2005, respectivamente. Com estas resoluções deixou-se bem claro que o Governo aprovaria um conjunto de medidas de carácter estruturante, que implicam alterações legislativas com vista ao reforço da equidade, da convergência e da eficácia e sustentabilidade dos regimes de protecção social.\n\nNo cumprimento do compromisso assumido no seu Programa, o XVII Governo Constitucional apresentou à Assembleia da República, como passo inicial, uma proposta de lei, entretanto publicada como Lei n.º 60/2005, de 29 de Dezembro, que estabelece mecanismos de convergência do regime de protecção social da função pública com o regime geral da segurança social, no que respeita às condições de aposentação e cálculo das pensões e ainda à pensão de sobrevivência.\n\nConforme o disposto no n.º 1 do artigo 2.º da Lei n.º 60/2005, de 29 de Dezembro, a partir do dia 1 de Janeiro de 2006 a Caixa Geral de Aposentações (CGA) encontra-se inibida de proceder à inscrição de novos subscritores, passando a constituir um regime fechado.\n\nSimultaneamente, no n.º 2 do mesmo artigo 2.º, estatui-se que «o pessoal a que, nos termos da legislação vigente, fosse aplicável o regime de protecção social da função pública em matéria de aposentação, em razão da natureza da instituição a que venha a estar vinculado, do tipo de relação jurídica de emprego de que venha a ser titular ou de norma especial que lhe conferisse esse direito, que inicie funções a partir de 1 de Janeiro de 2006, é obrigatoriamente inscrito no regime geral de segurança social.».\n\nAssim, no cumprimento do legalmente estatuído e dentro dos limites impostos pelo texto da lei, cumpre agora, de forma transitória, tornar exequíveis os princípios gerais nela consagrados, designadamente quanto à inscrição no regime geral de segurança social para as eventualidades, até à data, a cargo da CGA.\n\nNaturalmente, esta regulamentação concretiza a aplicação da legislação em vigor no regime geral da segurança social às especificidades resultantes do disposto na Lei n.º 60/2005, de 29 de Dezembro, que vem sendo referida, enquanto não for aprovada a legislação prevista que permita a inscrição daquele pessoal para a totalidade das eventualidades. Com o presente diploma pretende-se, sobretudo, clarificar a adequação do disposto nos Decretos-Leis n.os 199/99 e 200/99, ambos de 8 de Junho, procedendo-se, desde já, ao devido enquadramento do pessoal que inicie funções a partir de 1 de Janeiro de 2006.\n\nPese embora a Lei n.º 60/2005, de 29 de Dezembro, ter sido objecto de negociação colectiva com as associações sindicais representativas dos trabalhadores da Administração Pública, com respeito pelas condições estabelecidas na Lei n.º 23/98, de 26 de Maio, e sendo certo que com o presente diploma apenas se procede ao desenvolvimento daqueles princípios, atenta a importância da matéria a regulamentar, não quis o Governo deixar de voltar a ouvir as referidas associações sindicais.\n\nSurge assim este diploma em execução dos princípios constantes da Lei n.º 60/2005, de 29 de Dezembro, ajustando-o, designadamente, ao regime jurídico constante dos Decretos-Leis n.os 199/99 e 200/99, ambos de 8 de Junho.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122866690": {
+   "fragment_id": "122866592",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito pessoal\n\n1 - O presente decreto-lei define as regras de execução da Lei n.º 60/2005, de 29 de Dezembro.\n\n2 - São obrigatoriamente abrangidos pelo regime geral de segurança social dos trabalhadores por conta de outrem, adiante designado por regime geral, os funcionários, agentes e demais pessoal previsto no n.º 2 do artigo 2.º da Lei n.º 60/2005, de 29 de Dezembro, que inicie funções a partir de 1 de Janeiro de 2006."
+  },
+  "122866691": {
+   "fragment_id": "122866593",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito material\n\nA protecção social garantida abrange a cobertura das eventualidades de invalidez, velhice e morte, sem prejuízo da aplicação de normas mais favoráveis previstas em legislação especial, bem como de encargos familiares."
+  },
+  "122866692": {
+   "fragment_id": "122866594",
+   "type": 11,
+   "heading": "Artigo 3.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Inscrição\n\nSão obrigatoriamente inscritos no regime geral, na qualidade de beneficiários, o pessoal referido no n.º 2 do artigo 1.º e, na qualidade de contribuintes, as respectivas entidades empregadoras e os serviços e organismos processadores das remunerações."
+  },
+  "122866693": {
+   "fragment_id": "122866595",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigação contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigação contributiva\n\n1 - A obrigação contributiva efectiva-se através do pagamento de contribuições resultantes da incidência da taxa contributiva sobre as remunerações fixada no número seguinte.\n\n2 - A taxa contributiva é fixada, nos termos dos Decretos-Leis n.os 199/99 e 200/99, de 8 de Junho, em 23,08%, sendo de 12,08% para as entidades empregadoras e os serviços e organismos processadores das respectivas remunerações e de 11% para o pessoal referido no n.º 2 do artigo 1.º\n\n3 - A obrigação contributiva abrange o tempo de bonificação acrescido ao tempo de serviço efectivamente prestado, sempre que aquela situação se encontre fixada em legislação especial."
+  },
+  "122866694": {
+   "fragment_id": "122866596",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Financiamento\n\n1 - Sempre que, por força da aplicação de legislação especial, o funcionário, agente ou outro pessoal beneficie de regime mais favorável por referência ao regime geral de aposentação, o acréscimo de encargos daí resultante é suportado por verbas inscritas nos orçamentos dos serviços e organismos a que os funcionários, agentes ou outro pessoal estão vinculados ou das correspondentes entidades empregadoras.\n\n2 - Para o cumprimento do disposto no número anterior são transferidas, anualmente, dos orçamentos referidos no número anterior para o orçamento da segurança social as correspondentes verbas."
+  },
+  "122866695": {
+   "fragment_id": "122866597",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a partir de 1 de Janeiro de 2006."
+  },
+  "122867482": {
+   "fragment_id": "122866596",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamento",
+   "in_force_from": "2017-01-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 4/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), em vigor a partir de 2017-01-07"
+   ],
+   "markdown": "###### Artigo 5.º — Financiamento\n\n1 - Sempre que, por força da aplicação de legislação especial, o funcionário, agente ou outro pessoal beneficie de regime mais favorável por referência ao regime geral de aposentação, o acréscimo de encargos daí resultante é suportado por verbas inscritas nos orçamentos dos serviços e organismos a que os funcionários, agentes ou outro pessoal estão vinculados ou das correspondentes entidades empregadoras.\n\n2 - Para o cumprimento do disposto no número anterior são transferidas, anualmente, dos orçamentos referidos no número anterior para o orçamento da segurança social as correspondentes verbas.\n\n3 - No caso da legislação especial aplicável aos militares das Forças Armadas, da Guarda Nacional Republicana, do pessoal militarizado da Marinha, da Polícia Marítima e do Exército, do pessoal com funções policiais da Polícia de Segurança Pública, do pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, do pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária e do pessoal do corpo da Guarda Prisional, o acréscimo de encargos resultante do seu regime por referência ao regime geral de segurança social é integralmente suportado por verbas do Orçamento do Estado.\n\n4 - Para cumprimento do disposto no número anterior são transferidas, anualmente, do Orçamento do Estado para o Orçamento da Segurança Social as correspondentes verbas.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 4/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), em vigor a partir de 2017-01-07"
+  },
+  "122866696": {
+   "fragment_id": "122866598",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.\n\nPromulgado em 5 de Março de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Março de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "122867523": {
+   "fragment_id": "122866596",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamento",
+   "in_force_from": "2019-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 87/2019 - Diário da República n.º 124/2019, Série I de 2019-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2019-122857880), em vigor a partir de 2019-08-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 4/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), em vigor a partir de 2017-01-07"
+   ],
+   "markdown": "###### Artigo 5.º — Financiamento\n\n1 - Sempre que, por força da aplicação de legislação especial, o funcionário, agente ou outro pessoal beneficie de regime mais favorável por referência ao regime geral de aposentação, o acréscimo de encargos daí resultante é suportado por verbas inscritas nos orçamentos dos serviços e organismos a que os funcionários, agentes ou outro pessoal estão vinculados ou das correspondentes entidades empregadoras.\n\n2 - Para o cumprimento do disposto no número anterior são transferidas, anualmente, dos orçamentos referidos no número anterior para o orçamento da segurança social as correspondentes verbas.\n\n3 - No caso da legislação especial aplicável aos militares das Forças Armadas, da Guarda Nacional Republicana, do pessoal militarizado da Marinha, da Polícia Marítima e do Exército, do pessoal com funções policiais da Polícia de Segurança Pública, do pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, do pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária, do pessoal do corpo da Guarda Prisional, e do pessoal das carreiras de bombeiro sapador e de bombeiro municipal, o acréscimo de encargos resultante do seu regime por referência ao regime geral de segurança social é integralmente suportado por verbas do Orçamento do Estado.\n\n4 - Para cumprimento do disposto no número anterior são transferidas, anualmente, do Orçamento do Estado para o Orçamento da Segurança Social as correspondentes verbas.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 87/2019 - Diário da República n.º 124/2019, Série I de 2019-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2019-122857880), em vigor a partir de 2019-08-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 4/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), em vigor a partir de 2017-01-07"
+  },
+  "124899293": {
+   "fragment_id": "122866596",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamento",
+   "in_force_from": "2019-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 143/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2019-124879306), em vigor a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 87/2019 - Diário da República n.º 124/2019, Série I de 2019-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2019-122857880), em vigor a partir de 2019-08-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 4/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), em vigor a partir de 2017-01-07"
+   ],
+   "markdown": "###### Artigo 5.º — Financiamento\n\n1 - Sempre que, por força da aplicação de legislação especial, o funcionário, agente ou outro pessoal beneficie de regime mais favorável por referência ao regime geral de aposentação, o acréscimo de encargos daí resultante é suportado por verbas inscritas nos orçamentos dos serviços e organismos a que os funcionários, agentes ou outro pessoal estão vinculados ou das correspondentes entidades empregadoras.\n\n2 - Para o cumprimento do disposto no número anterior são transferidas, anualmente, dos orçamentos referidos no número anterior para o orçamento da segurança social as correspondentes verbas.\n\n3 - No caso da legislação especial aplicável aos militares das Forças Armadas, da Guarda Nacional Republicana, do pessoal militarizado da Marinha, da Polícia Marítima e do Exército, do pessoal com funções policiais da Polícia de Segurança Pública, do pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, do pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária, do pessoal do corpo da Guarda Prisional, e do pessoal das carreiras de bombeiro sapador e de bombeiro municipal, o acréscimo de encargos resultante do seu regime por referência ao regime geral de segurança social é integralmente suportado por verbas do Orçamento do Estado.\n\n4 - No caso da legislação especial aplicável aos magistrados judiciais e aos magistrados do Ministério Público, o acréscimo de encargos resultante do seu regime por referência ao regime geral de segurança social é integralmente suportado por verbas do Orçamento do Estado.\n\n5 - Para cumprimento do disposto nos n.os 3 e 4 são transferidas, anualmente, do Orçamento do Estado para o Orçamento da Segurança Social as correspondentes verbas.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 143/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2019-124879306), em vigor a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 87/2019 - Diário da República n.º 124/2019, Série I de 2019-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2019-122857880), em vigor a partir de 2019-08-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 4/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), em vigor a partir de 2017-01-07"
+  },
+  "129112461": {
+   "fragment_id": "122866596",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamento",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 5/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2020-129208004), em vigor a partir de 2020-02-15",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 143/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2019-124879306), em vigor a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 87/2019 - Diário da República n.º 124/2019, Série I de 2019-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2019-122857880), em vigor a partir de 2019-08-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 4/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), em vigor a partir de 2017-01-07"
+   ],
+   "markdown": "###### Artigo 5.º — Financiamento\n\n1 - Sempre que, por força da aplicação de legislação especial, o funcionário, agente ou outro pessoal beneficie de regime mais favorável por referência ao regime geral de aposentação, o acréscimo de encargos daí resultante é suportado por verbas inscritas nos orçamentos dos serviços e organismos a que os funcionários, agentes ou outro pessoal estão vinculados ou das correspondentes entidades empregadoras.\n\n2 - Para o cumprimento do disposto no número anterior são transferidas, anualmente, dos orçamentos referidos no número anterior para o orçamento da segurança social as correspondentes verbas.\n\n3 - No caso da legislação especial aplicável aos militares das Forças Armadas, da Guarda Nacional Republicana, do pessoal militarizado da Marinha, da Polícia Marítima e do Exército, do pessoal com funções policiais da Polícia de Segurança Pública, do pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, do pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária, do pessoal do corpo da Guarda Prisional, do pessoal das carreiras de bombeiro sapador e de bombeiro municipal, e do pessoal dos corpos especiais do Sistema de Informações da República Portuguesa, o acréscimo de encargos resultante do seu regime por referência ao regime geral de segurança social é integralmente suportado por verbas do Orçamento do Estado.\n\n4 - No caso da legislação especial aplicável aos magistrados judiciais e aos magistrados do Ministério Público, o acréscimo de encargos resultante do seu regime por referência ao regime geral de segurança social é integralmente suportado por verbas do Orçamento do Estado.\n\n5 - Para cumprimento do disposto nos n.os 3 e 4 são transferidas, anualmente, do Orçamento do Estado para o Orçamento da Segurança Social as correspondentes verbas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 5/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2020-129208004), em vigor a partir de 2020-02-15\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 143/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2019-124879306), em vigor a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 87/2019 - Diário da República n.º 124/2019, Série I de 2019-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2019-122857880), em vigor a partir de 2019-08-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 4/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), em vigor a partir de 2017-01-07"
+  },
+  "211556106": {
+   "fragment_id": "122866596",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamento",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2023 - Diário da República n.º 69/2023, Série I de 2023-04-06](https://diariodarepublica.pt/dr/detalhe/lei/15-2023-211499214), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 5/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2020-129208004), em vigor a partir de 2020-02-15",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 143/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2019-124879306), em vigor a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 87/2019 - Diário da República n.º 124/2019, Série I de 2019-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2019-122857880), em vigor a partir de 2019-08-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 4/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), em vigor a partir de 2017-01-07"
+   ],
+   "markdown": "###### Artigo 5.º — Financiamento\n\n1 - Sempre que, por força da aplicação de legislação especial, o funcionário, agente ou outro pessoal beneficie de regime mais favorável por referência ao regime geral de aposentação, o acréscimo de encargos daí resultante é suportado por verbas inscritas nos orçamentos dos serviços e organismos a que os funcionários, agentes ou outro pessoal estão vinculados ou das correspondentes entidades empregadoras.\n\n2 - Para o cumprimento do disposto no número anterior são transferidas, anualmente, dos orçamentos referidos no número anterior para o orçamento da segurança social as correspondentes verbas.\n\n3 - No caso da legislação especial aplicável aos militares das Forças Armadas, da Guarda Nacional Republicana, do pessoal militarizado da Marinha, da Polícia Marítima e do Exército, do pessoal com funções policiais da Polícia de Segurança Pública, do pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, do pessoal da carreira de investigação criminal, da carreira de segurança e pessoal das demais carreiras de apoio à investigação criminal responsável por funções de inspeção judiciária e recolha de prova da Polícia Judiciária, do pessoal do corpo da Guarda Prisional, do pessoal das carreiras de bombeiro sapador e de bombeiro municipal, do pessoal dos corpos especiais do Sistema de Informações da República Portuguesa e do pessoal das carreiras de guarda-florestal das Regiões Autónomas dos Açores e da Madeira, o acréscimo de encargos resultante do seu regime por referência ao regime geral de segurança social é integralmente suportado por verbas do Orçamento do Estado.\n\n4 - No caso da legislação especial aplicável aos magistrados judiciais e aos magistrados do Ministério Público, o acréscimo de encargos resultante do seu regime por referência ao regime geral de segurança social é integralmente suportado por verbas do Orçamento do Estado.\n\n5 - Para cumprimento do disposto nos n.os 3 e 4 são transferidas, anualmente, do Orçamento do Estado para o Orçamento da Segurança Social as correspondentes verbas.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 15/2023 - Diário da República n.º 69/2023, Série I de 2023-04-06](https://diariodarepublica.pt/dr/detalhe/lei/15-2023-211499214), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 5/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2020-129208004), em vigor a partir de 2020-02-15\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 143/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2019-124879306), em vigor a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 87/2019 - Diário da República n.º 124/2019, Série I de 2019-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2019-122857880), em vigor a partir de 2019-08-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 4/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2017-105711789), em vigor a partir de 2017-01-07"
+  }
+ }
+}

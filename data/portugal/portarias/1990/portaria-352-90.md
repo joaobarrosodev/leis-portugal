@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:571262:por
+title: Portaria n.º 352/90
+short_title: null
+summary: Alarga a área de recrutamento para provimento do cargo de director do Departamento dos Serviços Técnicos do quadro
+  de pessoal próprio da Câmara Municipal de Cascais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 352/90
+official_date: null
+publication_date: '1990-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/1990, Série I de 1990-05-09
+  number: '106'
+  series: I
+  supplement: null
+  pages: 2154 - 2154
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/05/10600/21542154.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '571262'
+  dre_path: /dr/detalhe/portaria/352-1990-571262
+  internal: pt:dre:571262:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-1990-571262
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-1990-571262
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:18:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dfa0add884b58dc61ccb7d43410c9b46667fa78e9f80d29dfc46e264d4f8f7d1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:18:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Câmara Municipal
+- Cascais
+- Pessoal Dirigente
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:177394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654566:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:18:56Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 352/90
+
+de 9 de Maio
+
+Considerando que a Assembleia Municipal de Cascais aprovou o organograma dos serviços do Município, de acordo com o disposto no [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, alterado pela [Lei n.º 44/85](https://diariodarepublica.pt/dr/detalhe/lei/44-1985-177394), de 13 de Setembro;
+
+Considerando que no quadro de pessoal da Câmara Municipal de Cascais se encontra vago o lugar de director do Departamento dos Serviços Técnicos, que se torna imperioso prover desde já;
+
+Considerando que as atribuições cometidas aos serviços, bem como o perfil do cargo a prover, aconselham a que se deva relevar a experiência adquirida ao serviço da actividade privada;
+
+Considerando que o n.º 7 do artigo 7.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, na redacção que lhe foi dada pela [Lei n.º 44/85](https://diariodarepublica.pt/dr/detalhe/lei/44-1985-177394), de 13 de Setembro, prevê que, excepcionalmente e por razões devidamente fundamentadas, em função do perfil do cargo a prover, possa ser dispensada, mediante diploma adequado, sob proposta da Câmara aprovada pela Assembleia Municipal, a vinculação à função pública;
+
+Considerando que a Assembleia Municipal de Cascais deliberou aprovar a proposta da Câmara no sentido de o cargo de director do Departamento dos Serviços Técnicos poder ser provido por técnico não vinculado à função pública;
+
+Considerando o disposto nos n.os 3 e 7 do artigo 7.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, na redacção dada pela [Lei n.º 44/85](https://diariodarepublica.pt/dr/detalhe/lei/44-1985-177394), de 13 de Setembro:
+
+Manda o Governo, pelo Ministro do Planeamento e da Administração do Território, o seguinte:
+
+1.º É alargada a área de recrutamento para provimento do cargo de director do Departamento dos Serviços Técnicos do quadro de pessoal próprio da Câmara Municipal de Cascais a técnicos licenciados de reconhecida competência e portadores de experiência comprovada no exercício da actividade privada, dispensando-se, para o efeito, o vínculo à função pública.
+
+2.º A deliberação de nomeação deve ser acompanhada, para publicação, do currículo do nomeado.
+
+Ministério do Planeamento e da Administração do Território.
+
+Assinada em 26 de Abril de 1990.
+
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.

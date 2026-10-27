@@ -1,0 +1,208 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:520399:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-871617828",
+ "dre_path": "/dr/detalhe/portaria/373-2007-520399",
+ "source_lastmod": "2024-07-11",
+ "versions": [
+  {
+   "date": "2007-03-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "871581564",
+    "871581552",
+    "871581553",
+    "871581554",
+    "871581555",
+    "871581557"
+   ]
+  },
+  {
+   "date": "2011-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:673576:por",
+     "title": "Portaria n.º 221/2011",
+     "published": "2011-06-01",
+     "dre_path": "/dr/detalhe/portaria/221-2011-673576"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "871581551",
+    "871581552",
+    "871581553",
+    "871581554",
+    "871581555",
+    "871581556",
+    "871581563"
+   ]
+  },
+  {
+   "date": "2012-08-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179038:por",
+     "title": "Portaria n.º 227/2012",
+     "published": "2012-08-03",
+     "dre_path": "/dr/detalhe/portaria/227-2012-179038"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "871581564",
+    "871581565",
+    "871581566",
+    "871581567",
+    "871581568",
+    "871581569",
+    "871581570"
+   ]
+  }
+ ],
+ "fragments": {
+  "871581564": {
+   "fragment_id": "871617829",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2012-08-04",
+   "changed_by": [],
+   "markdown": "Portaria n.º 373/2007\n\nde 30 de Março\n\nO Decreto Regulamentar n.º 34/2007, de 29 de Março, definiu a missão, atribuições e tipo de organização interna das direcções regionais de cultura.\n\nImporta agora, no desenvolvimento daquele decreto regulamentar, determinar a estrutura nuclear dos serviços e as competências das respectivas unidades orgânicas.\n\nAssim:\n\nAo abrigo do n.º 4 do artigo 21.º da Lei n.º 4/2004, de 15 de Janeiro:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e da Cultura, o seguinte:\n\n> Nota: [Artigo 8.º, Portaria n.º 223/2012 - Diário da República n.º 142/2012, Série I de 2012-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/223-2012-179365) revoga a presente portaria, no que se refere à Direção Regional de Cultura de Lisboa e Vale do Tejo."
+  },
+  "871581552": {
+   "fragment_id": "871617830",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear das direcções regionais de cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear das direcções regionais de cultura\n\n1 - As Direcções Regionais de Cultura do Norte, de Lisboa e Vale do Tejo, do Alentejo e do Algarve estruturam-se, respectivamente, numa única unidade orgânica nuclear, designada por Direcção de Serviços dos Bens Culturais.\n\n2 - A Direcção Regional de Cultura do Centro, para além da unidade orgânica nuclear referida no número anterior, dispõe de uma delegação sita em Castelo Branco, dirigida por um director de serviços.\n\n3 - O âmbito geográfico de intervenção da Delegação de Castelo Branco da Direcção Regional de Cultura do Centro consta do anexo à presente portaria, que dela faz parte integrante.\n\n4 - Por razões de interesse público, designadamente operacionalidade e eficiência, podem, por despacho do membro do Governo responsável pela área da cultura, ser instalados serviços das direcções regionais de cultura fora da respectiva sede."
+  },
+  "871581553": {
+   "fragment_id": "871617831",
+   "type": 11,
+   "heading": "Artigo 2.º — Direcção de Serviços dos Bens Culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direcção de Serviços dos Bens Culturais\n\n1 - À Direcção de Serviços dos Bens Culturais, abreviadamente designada por DSBC, compete, em estreita articulação com o Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P., abreviadamente designado por IGESPAR, I. P.:\n\na) Propor a classificação de bens culturais imóveis e a definição ou redefinição de zonas especiais de protecção;\n\nb) Propor a desclassificação de bens imóveis classificados;\n\nc) Colaborar na actualização do inventário e do cadastro dos bens imóveis classificados ou em vias de classificação;\n\nd) Colaborar na elaboração e acompanhamento de planos de salvaguarda e valorização;\n\ne) Instruir os processos e emitir parecer sobre propostas, estudos e projectos para trabalhos de construção, demolição, conservação, remodelação, restauro, reutilização, criação ou transformação de zonas verdes, incluindo os que se reportem a quaisquer movimentos de terras ou dragagens, no tocante aos bens imóveis classificados e em vias de classificação, às respectivas áreas de protecção e imóveis nelas situados, de acordo com as orientações vinculativas definidas pelo IGESPAR, I. P.;\n\nf) Emitir parecer relativamente aos bens imóveis classificados, às respectivas zonas de protecção e imóveis nelas situados e aos bens imóveis em vias de classificação, sobre o exercício do direito de preferência por parte do Estado;\n\ng) Informar sobre o manifesto interesse cultural de intervenções em bens culturais imóveis classificados ou em vias de classificação ou situados em zonas de protecção;\n\nh) Colaborar no levantamento sistemático do estado de conservação dos imóveis classificados ou em vias de classificação;\n\ni) Executar projectos e obras de acordo com as orientações definidas pelo IGESPAR, I. P., acompanhando e fiscalizando a sua execução física e financeira;\n\nj) Prestar apoio técnico e metodológico às acções de defesa e conservação do património arquitectónico e arqueológico promovidas por outras entidades;\n\nl) Propor medidas de salvaguarda do património considerado em risco de deterioração imediata;\n\nm) Prestar apoio técnico a particulares e a instituições detentoras de bens imóveis classificados na preparação e execução de obras;\n\nn) Promover formas de cooperação com as entidades envolvidas nos projectos;\n\no) Assegurar a salvaguarda e valorização do património arqueológico;\n\np) Coordenar a actividade desenvolvida pelas equipas técnicas de arqueologia, de acordo com as orientações e directivas emanadas pelo IGESPAR, I. P.;\n\nq) Estudar e propor providências destinadas à prospecção, salvaguarda e valorização arqueológica de imóveis, monumentos, conjuntos e sítios;\n\nr) Executar actividades de prospecção, inventário, registo e fiscalização decorrentes das obrigações cometidas ao IGESPAR, I. P., no âmbito do património arqueológico;\n\ns) Monitorizar o estado de conservação dos monumentos e sítios arqueológicos e propor as iniciativas pertinentes para a sua defesa e investigação quando alvo de acto ou ameaça de destruição;\n\nt) Organizar e garantir a manutenção dos depósitos de espólios arqueológicos à sua responsabilidade.\n\n2 - À DSBC compete, em estreita articulação com o Instituto dos Museus e da Conservação, I. P., abreviadamente designado por IMC, I. P.:\n\na) Prestar apoio técnico a museus integrados na Rede Portuguesa de Museus (RPM) e a outros localizados na sua área de actuação geográfica;\n\nb) Desenvolver programas de incentivo ao estabelecimento de parcerias entre museus localizados na sua área de actuação geográfica;\n\nc) Efectuar visitas técnicas a museus da RPM e apoiar localmente a verificação do cumprimento de requisitos da credenciação, sob orientação técnica do IMC, I. P.;\n\nd) Dar apoio técnico a colecções visitáveis no âmbito da Lei Quadro dos Museus Portugueses, sob orientação técnica do IMC, I. P.;\n\ne) Submeter à aprovação do IMC, I. P., a apreciação técnica de candidaturas à credenciação de museus;\n\nf) Apoiar a inventariação de manifestações culturais tradicionais no âmbito do património imaterial, nomeadamente através do seu registo;\n\ng) Assegurar a salvaguarda, conservação e restauro dos bens culturais móveis e integrados, classificados ou em vias de classificação, de acordo com as orientações e directivas emanadas pelo IMC, I. P.;\n\nh) Emitir parecer sobre planos, projectos, trabalhos e intervenções de conservação e restauro de bens culturais promovidos por entidades públicas ou privadas;\n\ni) Colaborar na realização de projectos e acções de sensibilização pública no domínio da preservação e conservação do património cultural móvel e integrado."
+  },
+  "871581554": {
+   "fragment_id": "871617832",
+   "type": 11,
+   "heading": "Artigo 3.º — Delegação de Castelo Branco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Delegação de Castelo Branco\n\nSem prejuízo das competências que lhe forem delegadas pelo director regional de Cultura do Centro, a Delegação de Castelo Branco prossegue, na respectiva área geográfica, as competências da DSBC, referidas no artigo anterior, relativas a projectos e obras em património arquitectónico e arqueológico classificado ou em vias de classificação."
+  },
+  "871581555": {
+   "fragment_id": "871617833",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nEm 29 de Março de 2007."
+  },
+  "871581557": {
+   "fragment_id": "871617835",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 1.º)\n\n(ver documento original)"
+  },
+  "871581551": {
+   "fragment_id": "871617829",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 373/2007\n\nde 30 de Março\n\nO Decreto Regulamentar n.º 34/2007, de 29 de Março, definiu a missão, atribuições e tipo de organização interna das direcções regionais de cultura.\n\nImporta agora, no desenvolvimento daquele decreto regulamentar, determinar a estrutura nuclear dos serviços e as competências das respectivas unidades orgânicas.\n\nAssim:\n\nAo abrigo do n.º 4 do artigo 21.º da Lei n.º 4/2004, de 15 de Janeiro:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e da Cultura, o seguinte:"
+  },
+  "871581556": {
+   "fragment_id": "871617834",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário de Estado Adjunto e do Orçamento. - Pela Ministra da Cultura, Mário Vieira de Carvalho, Secretário de Estado da Cultura."
+  },
+  "871581563": {
+   "fragment_id": "871617835",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 1.º)",
+   "in_force_from": "2011-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 221/2011 - Diário da República n.º 106/2011, Série I de 2011-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/221-2011-673576), em vigor a partir de 2011-06-02"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 1.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 221/2011 - Diário da República n.º 106/2011, Série I de 2011-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/221-2011-673576), em vigor a partir de 2011-06-02"
+  },
+  "871581565": {
+   "fragment_id": "871617830",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear das direcções regionais de cultura",
+   "in_force_from": "2012-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear das direcções regionais de cultura\n\n1 - As Direcções Regionais de Cultura do Norte, de Lisboa e Vale do Tejo, do Alentejo e do Algarve estruturam-se, respectivamente, numa única unidade orgânica nuclear, designada por Direcção de Serviços dos Bens Culturais.\n\n2 - A Direcção Regional de Cultura do Centro, para além da unidade orgânica nuclear referida no número anterior, dispõe de uma delegação sita em Castelo Branco, dirigida por um director de serviços.\n\n3 - O âmbito geográfico de intervenção da Delegação de Castelo Branco da Direcção Regional de Cultura do Centro consta do anexo à presente portaria, que dela faz parte integrante.\n\n4 - Por razões de interesse público, designadamente operacionalidade e eficiência, podem, por despacho do membro do Governo responsável pela área da cultura, ser instalados serviços das direcções regionais de cultura fora da respectiva sede.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04"
+  },
+  "871581566": {
+   "fragment_id": "871617831",
+   "type": 11,
+   "heading": "Artigo 2.º — Direcção de Serviços dos Bens Culturais",
+   "in_force_from": "2012-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04"
+   ],
+   "markdown": "###### Artigo 2.º — Direcção de Serviços dos Bens Culturais\n\n1 - À Direcção de Serviços dos Bens Culturais, abreviadamente designada por DSBC, compete, em estreita articulação com o Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P., abreviadamente designado por IGESPAR, I. P.:\n\na) Propor a classificação de bens culturais imóveis e a definição ou redefinição de zonas especiais de protecção;\n\nb) Propor a desclassificação de bens imóveis classificados;\n\nc) Colaborar na actualização do inventário e do cadastro dos bens imóveis classificados ou em vias de classificação;\n\nd) Colaborar na elaboração e acompanhamento de planos de salvaguarda e valorização;\n\ne) Instruir os processos e emitir parecer sobre propostas, estudos e projectos para trabalhos de construção, demolição, conservação, remodelação, restauro, reutilização, criação ou transformação de zonas verdes, incluindo os que se reportem a quaisquer movimentos de terras ou dragagens, no tocante aos bens imóveis classificados e em vias de classificação, às respectivas áreas de protecção e imóveis nelas situados, de acordo com as orientações vinculativas definidas pelo IGESPAR, I. P.;\n\nf) Emitir parecer relativamente aos bens imóveis classificados, às respectivas zonas de protecção e imóveis nelas situados e aos bens imóveis em vias de classificação, sobre o exercício do direito de preferência por parte do Estado;\n\ng) Informar sobre o manifesto interesse cultural de intervenções em bens culturais imóveis classificados ou em vias de classificação ou situados em zonas de protecção;\n\nh) Colaborar no levantamento sistemático do estado de conservação dos imóveis classificados ou em vias de classificação;\n\ni) Executar projectos e obras de acordo com as orientações definidas pelo IGESPAR, I. P., acompanhando e fiscalizando a sua execução física e financeira;\n\nj) Prestar apoio técnico e metodológico às acções de defesa e conservação do património arquitectónico e arqueológico promovidas por outras entidades;\n\nl) Propor medidas de salvaguarda do património considerado em risco de deterioração imediata;\n\nm) Prestar apoio técnico a particulares e a instituições detentoras de bens imóveis classificados na preparação e execução de obras;\n\nn) Promover formas de cooperação com as entidades envolvidas nos projectos;\n\no) Assegurar a salvaguarda e valorização do património arqueológico;\n\np) Coordenar a actividade desenvolvida pelas equipas técnicas de arqueologia, de acordo com as orientações e directivas emanadas pelo IGESPAR, I. P.;\n\nq) Estudar e propor providências destinadas à prospecção, salvaguarda e valorização arqueológica de imóveis, monumentos, conjuntos e sítios;\n\nr) Executar actividades de prospecção, inventário, registo e fiscalização decorrentes das obrigações cometidas ao IGESPAR, I. P., no âmbito do património arqueológico;\n\ns) Monitorizar o estado de conservação dos monumentos e sítios arqueológicos e propor as iniciativas pertinentes para a sua defesa e investigação quando alvo de acto ou ameaça de destruição;\n\nt) Organizar e garantir a manutenção dos depósitos de espólios arqueológicos à sua responsabilidade.\n\n2 - À DSBC compete, em estreita articulação com o Instituto dos Museus e da Conservação, I. P., abreviadamente designado por IMC, I. P.:\n\na) Prestar apoio técnico a museus integrados na Rede Portuguesa de Museus (RPM) e a outros localizados na sua área de actuação geográfica;\n\nb) Desenvolver programas de incentivo ao estabelecimento de parcerias entre museus localizados na sua área de actuação geográfica;\n\nc) Efectuar visitas técnicas a museus da RPM e apoiar localmente a verificação do cumprimento de requisitos da credenciação, sob orientação técnica do IMC, I. P.;\n\nd) Dar apoio técnico a colecções visitáveis no âmbito da Lei Quadro dos Museus Portugueses, sob orientação técnica do IMC, I. P.;\n\ne) Submeter à aprovação do IMC, I. P., a apreciação técnica de candidaturas à credenciação de museus;\n\nf) Apoiar a inventariação de manifestações culturais tradicionais no âmbito do património imaterial, nomeadamente através do seu registo;\n\ng) Assegurar a salvaguarda, conservação e restauro dos bens culturais móveis e integrados, classificados ou em vias de classificação, de acordo com as orientações e directivas emanadas pelo IMC, I. P.;\n\nh) Emitir parecer sobre planos, projectos, trabalhos e intervenções de conservação e restauro de bens culturais promovidos por entidades públicas ou privadas;\n\ni) Colaborar na realização de projectos e acções de sensibilização pública no domínio da preservação e conservação do património cultural móvel e integrado.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04"
+  },
+  "871581567": {
+   "fragment_id": "871617832",
+   "type": 11,
+   "heading": "Artigo 3.º — Delegação de Castelo Branco",
+   "in_force_from": "2012-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04"
+   ],
+   "markdown": "###### Artigo 3.º — Delegação de Castelo Branco\n\nSem prejuízo das competências que lhe forem delegadas pelo director regional de Cultura do Centro, a Delegação de Castelo Branco prossegue, na respectiva área geográfica, as competências da DSBC, referidas no artigo anterior, relativas a projectos e obras em património arquitectónico e arqueológico classificado ou em vias de classificação.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04"
+  },
+  "871581568": {
+   "fragment_id": "871617833",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2012-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nEm 29 de Março de 2007.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04"
+  },
+  "871581569": {
+   "fragment_id": "871617834",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2012-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04"
+   ],
+   "markdown": "Pelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário de Estado Adjunto e do Orçamento. - Pela Ministra da Cultura, Mário Vieira de Carvalho, Secretário de Estado da Cultura.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04"
+  },
+  "871581570": {
+   "fragment_id": "871617835",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 1.º)",
+   "in_force_from": "2012-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 221/2011 - Diário da República n.º 106/2011, Série I de 2011-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/221-2011-673576), em vigor a partir de 2011-06-02"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 1.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 227/2012 - Diário da República n.º 150/2012, Série I de 2012-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/227-2012-179038), em vigor a partir de 2012-08-04\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 221/2011 - Diário da República n.º 106/2011, Série I de 2011-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/221-2011-673576), em vigor a partir de 2011-06-02"
+  }
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991D0516:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991D0516-20040325",
+ "dre_path": null,
+ "source_lastmod": "2004-03-25",
+ "versions": [
+  {
+   "date": "1991-10-09",
+   "future": false,
+   "celex": "31991D0516",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9470b11887e07090",
+    "caaab061e3de9104",
+    "196c83d1c453f27d",
+    "13d8efbad343b407",
+    "fe8fac774bf7d482",
+    "58c054be5cb84da9"
+   ]
+  },
+  {
+   "date": "2004-03-25",
+   "future": false,
+   "celex": "01991D0516-20040325",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1°",
+    "Suprime Artigo 2°",
+    "Suprime Artigo 3°",
+    "Suprime Artigo 4°",
+    "Suprime ANEXO — LISTA DE PRODUTOS PROIBIDOS"
+   ],
+   "fragments": [
+    "5a772d3134a01121"
+   ]
+  }
+ ],
+ "fragments": {
+  "9470b11887e07090": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**91/516/CEE: Decisão da Comissão, de 9 de Setembro de 1991, que estabelece uma lista de produtos cuja utilização em alimentos compostos para animais é proibida** *Jornal Oficial nº L 281 de 09/10/1991 p. 0023 - 0024 Edição especial finlandesa: Capítulo 3 Fascículo 39 p. 0106 Edição especial sueca: Capítulo 3 Fascículo 39 p. 0106*\n\nDECISÃO DA COMISSÃO de 9 de Setembro de 1991 que estabelece uma lista de produtos cuja utilização em alimentos compostos para animais é proibida (91/516/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 79/373/CEE do Conselho, de 2 de Abril de 1979, relativa à comercialização de alimentos compostos para animais (1), com a última redacção que lhe foi dada pela Directiva 90/654/CEE (2), e, nomeadamente, a alínea c) do seu artigo 10o,\n\nConsiderando que a Directiva 79/373/CEE se aplica sem prejuízo, nomeadamente, da Directiva 82/471/CEE do Conselho, de 30 de Junho de 1982, relativa a certos produtos utilizados na alimentação dos animais (3), com a última redacção que lhe foi dada pela Directiva 90/654/CEE; que esta última directiva prevê que os produtos que satisfaçam as exigências estipuladas podem ser comercializados como alimentos para animais ou ser incorporados nestes alimentos;\n\nConsiderando que a Directiva 74/63/CEE do Conselho, de 17 de Dezembro de 1973, relativa à fixação de teores máximos em substâncias e produtos indesejáveis nos alimentos para animais (4), com a última redacção que lhe foi dada pela Directiva 91/126/CEE (5), apenas diz respeito às substâncias e produtos cuja presença é impossível excluir totalmente dos alimentos para animais e dos seus componentes; que esta directiva se aplica sem prejuízo de outras disposições comunitárias relativas a alimentos para animais;\n\nConsiderando que os Estados-membros podiam, até à data, exigir que os alimentos compostos comercializados no seu território não contivessem certos produtos;\n\nConsiderando que é conveniente eliminar as barreiras levantadas por tais restrições ao comércio intracomunitário através da adopção, a nível comunitário, de uma lista de produtos cuja utilização deve ser proibida;\n\nConsiderando que a utilização em alimentos para animais de produtos proteicos obtidos a partir de leveduras do tipo Candida cultivadas en n-alcanos já foi proibida pela Decisão 85/382/CEE da Comissão (6);\n\nConsiderando que a legislação veterinária regulamenta a erradicação de certas doenças animais; que a Directiva 90/667/CEE do Conselho (7) adoptou normas sanitárias para a eliminação e transformação de resíduos animais, a sua colocação no mercado e a protecção contra a presença de agentes patogénicos nos alimentos para animais de origem animal; que os Estados-membros ainda estão autorizados a tomar provisoriamente certas medidas de erradicação a nível nacional;\n\nConsiderando que a Directiva 79/373/CEE prevê que seja estabelecida, à luz da evolução dos conhecimentos científicos e técnicos, uma lista de produtos cuja utilização é proibida por razões de protecção da saúde humana e animal;\n\nConsiderando que esta lista, que reflecte a situação existente aquando do seu estabelecimento, pode sofrer alterações e aditamentos posteriores;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente dos Alimentos para Animais,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "caaab061e3de9104": {
+   "fragment_id": "Artigo 1°",
+   "type": "artigo",
+   "heading": "Artigo 1°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°\n\nÉ proibida a utilização em alimentos compostos para animais dos produtos constantes da lista do anexo à presente decisão."
+  },
+  "196c83d1c453f27d": {
+   "fragment_id": "Artigo 2°",
+   "type": "artigo",
+   "heading": "Artigo 2°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°\n\nA presente decisão é aplicável sem prejuízo das disposições relativas a microrganismos em alimentos para animais, das medidas nacionais referidas no n° 2 do artigo 1° da Directiva 90/667/CEE e dos artigos 16° e 20° da mesma directiva."
+  },
+  "13d8efbad343b407": {
+   "fragment_id": "Artigo 3°",
+   "type": "artigo",
+   "heading": "Artigo 3°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°\n\nA presente decisão é aplicável a partir de 22 de Janeiro de 1992."
+  },
+  "fe8fac774bf7d482": {
+   "fragment_id": "Artigo 4°",
+   "type": "artigo",
+   "heading": "Artigo 4°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4°\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 9 de Setembro de 1991.\n\nPela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão\n\n(1) JO n° L 86 de 6. 4. 1979, p. 30.\n\n(2) JO n° L 353 de 17. 12. 1990, p. 48.\n\n(3) JO n° L 213 de 21. 7. 1982, p. 8.\n\n(4) JO n° L 38 de 11. 2. 1974, p. 31.\n\n(5) JO n° L 60 de 7. 3. 1991, p. 16.\n\n(6) JO n° L 217 de 10. 7. 1985, p. 27.\n\n(7) JO n° L 363 de 27. 12. 1990, p. 51."
+  },
+  "58c054be5cb84da9": {
+   "fragment_id": "ANEXO — LISTA DE PRODUTOS PROIBIDOS",
+   "type": "divisao",
+   "heading": "ANEXO — LISTA DE PRODUTOS PROIBIDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — LISTA DE PRODUTOS PROIBIDOS\n\n1. Fezes, urina e o conteúdo isolado do aparelho digestivo obtido aquando do esvaziamento ou separação deste, independentemente do tratamento a que foram submetidos ou da mistura realizada.\n\n2. Curtumes e desperdícios dos curtumes.\n\n3. Sementes, plantas e outros materiais de propagação vegetativa tratados, após colheita, com produtos fitofarmacêuticos e respectivos produtos derivados.\n\n4. Madeira, serradura e outros materiais derivados da madeira tratados com produtos de conservação.\n\n5. Lamas provenientes de estações de tratamento de águas residuais."
+  },
+  "5a772d3134a01121": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991D0516 — PT — 25.03.2004 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991D0516) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/31991D0516) [de 9 de Setembro de 1991](http://publications.europa.eu/resource/celex/31991D0516) [que estabelece uma lista de produtos cuja utilização em alimentos compostos para animais é proibida](http://publications.europa.eu/resource/celex/31991D0516) [(91/516/CEE)](http://publications.europa.eu/resource/celex/31991D0516) (JO L 281, 9.10.1991, p.23)\n\n**revogado por:**\n\n- [Decisão da Comissão de 1 de Março de 2004](http://publications.europa.eu/resource/celex/32004D0217) — L 67 — 31 — 5.3.2004"
+  }
+ }
+}

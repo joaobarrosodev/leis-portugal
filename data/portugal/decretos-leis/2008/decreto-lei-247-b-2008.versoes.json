@@ -1,0 +1,865 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:487360:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34512875",
+ "dre_path": "/dr/detalhe/decreto-lei/247-b-2008-487360",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "46128475",
+    "46128575",
+    "46128675",
+    "46128775",
+    "46128875",
+    "46128975",
+    "46129075",
+    "46129175",
+    "46129275",
+    "46129375",
+    "46129475",
+    "46129575",
+    "46129675",
+    "46129775",
+    "46129875",
+    "46129975",
+    "46130075",
+    "46130175",
+    "46130275",
+    "46130375",
+    "46130475",
+    "46130575",
+    "46130675",
+    "46130775",
+    "46130875",
+    "46130975",
+    "46131075",
+    "46131175",
+    "46131275",
+    "46131375",
+    "46131475",
+    "46131575",
+    "46131675",
+    "46131775",
+    "46131875",
+    "46131975",
+    "46132075",
+    "46132175",
+    "46132275",
+    "46132375",
+    "46132475",
+    "46132575",
+    "46132675",
+    "46132775",
+    "46132875",
+    "46132975",
+    "46133075",
+    "46133175",
+    "46133275",
+    "46133375",
+    "46133475",
+    "46133575",
+    "46133675",
+    "46133775",
+    "46133875",
+    "46133975",
+    "46134075",
+    "46134175",
+    "46134275",
+    "46134375"
+   ]
+  },
+  {
+   "date": "2015-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70300348:por",
+     "title": "Decreto-Lei n.º 201/2015",
+     "published": "2015-09-17",
+     "dre_path": "/dr/detalhe/decreto-lei/201-2015-70300348"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "46128475",
+    "46128575",
+    "46128675",
+    "46128775",
+    "46128875",
+    "46128975",
+    "46129075",
+    "46129175",
+    "46129275",
+    "46129375",
+    "46129475",
+    "46129575",
+    "46129675",
+    "46129775",
+    "46129875",
+    "46129975",
+    "46130075",
+    "46130175",
+    "107519562",
+    "46130375",
+    "46130475",
+    "46130575",
+    "46130675",
+    "46130775",
+    "46130875",
+    "46130975",
+    "46131075",
+    "46131175",
+    "46131275",
+    "46131375",
+    "46131475",
+    "46131575",
+    "46131675",
+    "46131775",
+    "46131875",
+    "46131975",
+    "46132075",
+    "46132175",
+    "46132275",
+    "46132375",
+    "46132475",
+    "46132575",
+    "46132675",
+    "46132775",
+    "46132875",
+    "46132975",
+    "46133075",
+    "46133175",
+    "46133275",
+    "46133375",
+    "46133475",
+    "46133575",
+    "46133675",
+    "46133775",
+    "46133875",
+    "46133975",
+    "46134075",
+    "46134175",
+    "46134275",
+    "46134375",
+    "46134475"
+   ]
+  },
+  {
+   "date": "2017-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107522250:por",
+     "title": "Decreto-Lei n.º 68/2017",
+     "published": "2017-06-16",
+     "dre_path": "/dr/detalhe/decreto-lei/68-2017-107522250"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "46128475",
+    "46128575",
+    "46128675",
+    "46128775",
+    "46128875",
+    "46128975",
+    "46129075",
+    "46129175",
+    "46129275",
+    "46129375",
+    "46129475",
+    "46129575",
+    "46129675",
+    "46129775",
+    "46129875",
+    "46129975",
+    "46130075",
+    "46130175",
+    "107519562",
+    "46130375",
+    "46130475",
+    "46130575",
+    "46130675",
+    "46130775",
+    "107519563",
+    "46130975",
+    "46131075",
+    "107519564",
+    "46131275",
+    "107519565",
+    "107519566",
+    "46131575",
+    "46131675",
+    "46131775",
+    "46131875",
+    "46131975",
+    "46132075",
+    "46132175",
+    "46132275",
+    "46132375",
+    "46132475",
+    "46132575",
+    "46132675",
+    "46132775",
+    "46132875",
+    "46132975",
+    "46133075",
+    "46133175",
+    "46133275",
+    "46133375",
+    "46133475",
+    "46133575",
+    "46133675",
+    "46133775",
+    "46133875",
+    "46133975",
+    "46134075",
+    "46134175",
+    "46134275",
+    "46134375",
+    "46134475"
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:907097147:por",
+     "title": "Decreto-Lei n.º 9/2025",
+     "published": "2025-02-12",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2025-907097147"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "46128475",
+    "46128575",
+    "46128675",
+    "46128775",
+    "46128875",
+    "46128975",
+    "46129075",
+    "46129175",
+    "46129275",
+    "46129375",
+    "46129475",
+    "46129575",
+    "46129675",
+    "46129775",
+    "46129875",
+    "46129975",
+    "46130075",
+    "46130175",
+    "107519562",
+    "46130375",
+    "46130475",
+    "46130575",
+    "46130675",
+    "46130775",
+    "107519563",
+    "46130975",
+    "46131075",
+    "907093636",
+    "46131275",
+    "107519565",
+    "107519566",
+    "46131575",
+    "46131675",
+    "46131775",
+    "46131875",
+    "46131975",
+    "46132075",
+    "46132175",
+    "46132275",
+    "46132375",
+    "46132475",
+    "46132575",
+    "46132675",
+    "46132775",
+    "46132875",
+    "46132975",
+    "46133075",
+    "46133175",
+    "46133275",
+    "46133375",
+    "46133475",
+    "46133575",
+    "46133675",
+    "46133775",
+    "46133875",
+    "46133975",
+    "46134075",
+    "46134175",
+    "46134275",
+    "46134375",
+    "46134475"
+   ]
+  }
+ ],
+ "fragments": {
+  "46128475": {
+   "fragment_id": "35132675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O presente decreto-lei visa contribuir para a concretização do Programa do XVII Governo Constitucional na área da justiça, colocando este sector ao serviço dos cidadãos e das empresas, do desenvolvimento económico e da promoção do investimento em Portugal.\n\nCom efeito, o Programa do XVII Governo Constitucional dispõe que «os cidadãos e as empresas não podem ser onerados com imposições burocráticas que nada acrescentem à qualidade do serviço», determinando ainda que «no interesse conjunto dos cidadãos e das empresas, serão simplificados os controlos de natureza administrativa, eliminando-se actos e práticas registrais e notariais que não importem um valor acrescentado e dificultem a vida do cidadão e da empresa».\n\nEm vista da prossecução deste objectivo, o presente decreto-lei procede, por um lado, à criação e regulação de dois novos serviços que passam a estar à disposição das empresas em Portugal - o cartão da empresa e o Sistema de Informação da Classificação Portuguesa de Actividades Económicas (SICAE) - e, por outro, a adopção de novas medidas de simplificação no âmbito do Regime do Registo Nacional de Pessoas Colectivas (RNPC), do Código do Registo Comercial, dos procedimentos simplificados de sucessão hereditária e divórcio com partilha, regulados no Código do Registo Civil, do regime especial de constituição imediata de sociedades («empresa na hora»), previsto no Decreto-Lei n.º 111/2005, de 8 de Julho, do regime especial de constituição online de sociedades comerciais e civis sob forma comercial («empresa on-line»), previsto no Decreto-Lei n.º 125/2006, de 29 de Junho, do regime especial de constituição imediata de associações («associação na hora»), previsto na Lei n.º 40/2007, de 24 de Agosto, e do regime especial de criação imediata de representações permanentes em Portugal de entidades estrangeiras («sucursal na hora»), previsto no Decreto-Lei n.º 73/2008, de 16 de Abril.\n\nAssim, em primeiro lugar, é criado o cartão da empresa, que passa a conter, num único documento físico, os três números relevantes para a identificação das pessoas colectivas perante quaisquer autoridades e entidades públicas ou privadas: (i) o número de identificação de pessoa colectiva (NIPC), atribuído pelo Registo Nacional de Pessoas Colectivas (RNPC) na sequência de emissão de certificado de admissibilidade de firma ou denominação ou de inscrição no ficheiro central de pessoas colectivas; (ii) o número de identificação fiscal das pessoas colectivas e entidades equiparadas que, na generalidade dos casos, corresponde ao NIPC indicado pelo RNPC, e (iii) o número de identificação da segurança social (NISS) de pessoa colectiva.\n\nCom o cartão da empresa os investidores deixam de estar onerados com a obtenção de dois cartões - o cartão de identificação da pessoa colectiva e o cartão de identificação fiscal, que deixam de ser emitidos -, passando a ter, num cartão único, toda a informação relevante.\n\nAlém da emissão do cartão da empresa em suporte físico, prevê-se igualmente a disponibilização, em suporte desmaterializado e de forma gratuita, do correspondente cartão electrónico da empresa, acessível mediante a inserção de um código de acesso automaticamente atribuído.\n\nEm segundo lugar, o presente decreto-lei procede à criação do SICAE, um subconjunto do ficheiro central de pessoas colectivas (FCPC), que integra a informação sobre o código da Classificação Portuguesa das Actividades Económicas (CAE) das pessoas colectivas e entidades equiparadas.\n\nCoordenado, gerido e mantido por três organismos públicos com competências no âmbito do processo de atribuição e alteração do código CAE - o Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), o Instituto Nacional de Estatística (INE) e a Direcção-Geral dos Impostos (DGCI) -, o SICAE visa contribuir para uma informação permanentemente actualizada e harmonizada do código CAE das empresas, que permita ultrapassar as situações de desconformidade nos códigos CAE atribuídos às empresas por diferentes serviços do Estado, que actualmente se verifica.\n\nNeste sentido, estabelece-se que o código CAE relevante é, para todos os efeitos legais, o constante do SICAE, ao mesmo tempo que se prevê o acesso público, em suporte electrónico e permanentemente actualizado, à informação constante do SICAE.\n\nCom o SICAE, as empresas passam a beneficiar de um canal único electrónico de comunicação com as diversas entidades públicas relativamente às alterações de CAE que pretendam efectuar, através da Internet, deixando de ter de se relacionar com diversas entidades para o fazer. O SICAE permite ainda a consulta a todo o tempo e de forma permanentemente actualizada, igualmente através da Internet, do código CAE de qualquer entidade.\n\nEm terceiro lugar, procede-se ainda à simplificação do Regime do Registo Nacional de Pessoas Colectivas criando condições para que os serviços associados à inscrição no ficheiro central de pessoas colectivas e à obtenção de certificados de admissibilidade de firma sejam prestados de forma mais rápida e mais eficiente.\n\nO certificado de admissibilidade de firma passa a ser disponibilizado exclusivamente por via electrónica e passa a poder ser obtido também em sítio da Internet. Criam-se condições para que possa ser possível escolher livremente uma firma no âmbito dos processos de constituição da empresa na hora e da empresa on-line e de denominações no processo de constituição da associação na hora. Desta forma, estes serviços tornam-se mais completos e permitem aos cidadãos e às empresas escolher a firma ou a denominação que pretendam para a sua empresa ou associação no momento em que a constituem, sem necessidade de efectuar uma deslocação prévia.\n\nEm quarto lugar, o regime especial de constituição imediata de sociedades («empresa na hora») é alterado para permitir a constituição de «empresas na hora» em algumas situações em que ainda não era possível utilizar este serviço: quando a constituição dependesse de uma autorização especial e quando o capital fosse realizado com recurso a entradas em espécie.\n\nFinalmente, em quinto lugar, são ainda alterados os procedimentos simplificados de sucessão hereditária e de divórcio com partilha que são tramitados no «Balcão das Heranças» e no balcão «Divórcio com Partilha» de forma a poderem corresponder às necessidades dos cidadãos que procuraram estes serviços.\n\nForam ouvidas a Ordem dos Advogados, a Ordem dos Notários e a Comissão Nacional de Protecção de Dados.\n\nFoi promovida a audição da Câmara dos Solicitadores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "46128575": {
+   "fragment_id": "35455675",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "46128675": {
+   "fragment_id": "36782175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei cria e regula:\n\na) O cartão da empresa e o cartão de pessoa colectiva;\n\nb) O Sistema de Informação da Classificação Portuguesa das Actividades Económicas, adiante designado por SICAE.\n\n2 - O presente decreto-lei adopta ainda medidas de simplificação no âmbito dos seguintes regimes e serviços:\n\na) Regime do Registo Nacional de Pessoas Colectivas;\n\nb) Código do Registo Comercial;\n\nc) Procedimentos simplificados de sucessão hereditária e divórcio com partilha, regulados no Código do Registo Civil;\n\nd) Regime especial de constituição imediata de sociedades («empresa na hora»), previsto no Decreto-Lei n.º 111/2005, de 8 de Julho;\n\ne) Regime especial de constituição online de sociedades comerciais e civis sob forma comercial («empresa on-line»), previsto no Decreto-Lei n.º 125/2006, de 29 de Junho;\n\nf) Regime especial de constituição imediata de associações («associação na hora»), previsto na Lei n.º 40/2007, de 24 de Agosto;\n\ng) Regime especial de criação imediata de representações permanentes em Portugal de entidades estrangeiras («sucursal na hora»), previsto no Decreto-Lei n.º 73/2008, de 16 de Abril."
+  },
+  "46128775": {
+   "fragment_id": "35455775",
+   "type": 1,
+   "heading": "Capítulo II — Cartão da empresa e cartão de pessoa colectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Cartão da empresa e cartão de pessoa colectiva"
+  },
+  "46128875": {
+   "fragment_id": "36782275",
+   "type": 8,
+   "heading": "Secção I — Descrição do cartão da empresa e do cartão de pessoa colectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Descrição do cartão da empresa e do cartão de pessoa colectiva"
+  },
+  "46128975": {
+   "fragment_id": "38451675",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\n1 - O cartão da empresa e o cartão de pessoa colectiva são documentos de identificação múltipla que contêm os dados das pessoas colectivas e entidades equiparadas relevantes para a sua identificação perante quaisquer autoridades e entidades públicas ou privadas.\n\n2 - Os cartões referidos no número anterior incluem, designadamente, o número de identificação de pessoa colectiva (NIPC)/número de identificação fiscal das pessoas colectivas e entidades equiparadas e o número de identificação da segurança social (NISS) de pessoa colectiva."
+  },
+  "46129075": {
+   "fragment_id": "38451775",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito pessoal\n\n1 - Podem solicitar a emissão do cartão da empresa as seguintes pessoas colectivas e entidades equiparadas:\n\na) Sociedades comerciais e civis sob forma comercial, cooperativas, empresas públicas, agrupamentos complementares de empresas e agrupamentos europeus de interesse económico;\n\nb) Estabelecimentos individuais de responsabilidade limitada e comerciantes individuais;\n\nc) Representações de pessoas colectivas com sede no estrangeiro que habitualmente exerçam actividade em Portugal e estejam sujeitas a registo comercial;\n\nd) Instrumentos de gestão fiduciária e sucursais financeiras exteriores registados na Zona Franca da Madeira;\n\ne) Quaisquer outras pessoas colectivas sujeitas a registo comercial;\n\nf) Empresários individuais inscritos no ficheiro central de pessoas colectivas (FCPC).\n\n2 - Podem solicitar a emissão do cartão de pessoa colectiva todas as entidades não referidas no número anterior que estejam inscritas no FCPC, bem como as associações ou fundações sujeitas a registo comercial devido ao seu reconhecimento como pessoas colectivas de utilidade pública."
+  },
+  "46129175": {
+   "fragment_id": "38451875",
+   "type": 11,
+   "heading": "Artigo 4.º — Modelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Modelo\n\nOs modelos do cartão da empresa e do cartão de pessoa colectiva são aprovados por portaria do membro do Governo responsável pela área da justiça, que define, designadamente, os elementos visíveis de identificação da pessoa colectiva constantes dos cartões."
+  },
+  "46129275": {
+   "fragment_id": "38451975",
+   "type": 11,
+   "heading": "Artigo 5.º — Elementos de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Elementos de identificação\n\n1 - O cartão da empresa e o cartão de pessoa colectiva pressupõem a atribuição, pelas entidades competentes nos termos da lei, do NIPC/número de identificação fiscal das pessoas colectivas e entidades equiparadas e do NISS de pessoa colectiva.\n\n2 - Nos casos previstos nas alíneas b) e f) do n.º 1 do artigo 3.º o NIPC não é válido para efeitos de identificação fiscal e não é atribuído NISS de pessoa colectiva.\n\n3 - A informação referente aos elementos de identificação constantes do cartão da empresa e do cartão de pessoa colectiva é obtida a partir das bases de dados do Ministério das Finanças e da Administração Pública, do Ministério da Justiça e do Ministério do Trabalho e da Solidariedade Social."
+  },
+  "46129375": {
+   "fragment_id": "38452075",
+   "type": 11,
+   "heading": "Artigo 6.º — Número de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Número de emissão\n\n1 - A cada cartão da empresa e a cada cartão de pessoa colectiva é atribuído um número de emissão, único e sequencial.\n\n2 - O número de emissão constitui um elemento de segurança que apenas pode ser utilizado para fiscalizar e impedir o uso de cartões cancelados."
+  },
+  "46129475": {
+   "fragment_id": "36782375",
+   "type": 8,
+   "heading": "Secção II — Competência e procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Competência e procedimento"
+  },
+  "46129575": {
+   "fragment_id": "38452175",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)\n\nCompete ao IRN, I. P.:\n\na) Conduzir as operações relativas à emissão e cancelamento do cartão da empresa e do cartão de pessoa colectiva;\n\nb) Definir os procedimentos de controlo e de segurança."
+  },
+  "46129675": {
+   "fragment_id": "38452275",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pedido de emissão\n\nOs pedidos de emissão do cartão da empresa e do cartão de pessoa colectiva podem ser efectuados:\n\na) Electronicamente, através do sítio na Internet com o endereço www.empresaonline.pt, mantido pelo IRN, I. P., ou de outro sítio designado em portaria do membro do Governo responsável pela área da justiça; ou\n\nb) Presencialmente, nos serviços de registo com competência para a prática de actos de registo comercial ou noutros que venham a ser fixados por despacho do presidente do IRN, I. P."
+  },
+  "46129775": {
+   "fragment_id": "38452375",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamento\n\n1 - Nos casos em que o pedido de emissão do cartão da empresa ou do cartão de pessoa colectiva seja efectuado electronicamente, o pedido só é considerado validamente submetido após o pagamento, por via electrónica, dos encargos devidos.\n\n2 - Para efeitos do disposto no número anterior, é gerada automaticamente uma referência para pagamento dos encargos devidos.\n\n3 - Nos casos em que o pedido de emissão do cartão seja efectuado presencialmente, o pagamento dos encargos devidos deve ser efectuado directamente ao serviço receptor, sob pena de recusa de aceitação do pedido."
+  },
+  "46129875": {
+   "fragment_id": "38452475",
+   "type": 11,
+   "heading": "Artigo 10.º — Recusa ou suspensão da emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Recusa ou suspensão da emissão\n\n1 - Nos casos em que a pessoa colectiva ou entidade equiparada deva apresentar a declaração de início de actividade para efeitos fiscais, o cartão da empresa ou o cartão de pessoa colectiva não podem ser emitidos enquanto a declaração não for entregue.\n\n2 - Nos casos em que a pessoa colectiva ou entidade equiparada esteja sujeita a inscrição na segurança social, o cartão da empresa ou o cartão de pessoa colectiva não podem ainda ser emitidos enquanto o NISS não for atribuído.\n\n3 - Sempre que a emissão do cartão esteja suspensa por mais de um ano devido à não apresentação da declaração de início de actividade para efeitos fiscais ou da não promoção da inscrição na segurança social, o pedido é cancelado, não havendo lugar à restituição das quantias já pagas.\n\n4 - A emissão do cartão da empresa ou do cartão de pessoa colectiva pode ser recusada ou suspensa em caso de existência de nulidades no processo legal de constituição da pessoa colectiva ou da entidade equiparada."
+  },
+  "46129975": {
+   "fragment_id": "38452575",
+   "type": 11,
+   "heading": "Artigo 11.º — Local da entrega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Local da entrega\n\n1 - Nos casos em que o pedido de emissão do cartão da empresa ou cartão de pessoa colectiva tenha sido efectuado electronicamente, o cartão é remetido para a morada da sede da pessoa colectiva ou entidade equiparada ou para o domicílio do comerciante ou empresário individual.\n\n2 - Nos casos em que o pedido de emissão do cartão da empresa ou cartão de pessoa colectiva tenha sido efectuado presencialmente, o cartão é remetido:\n\na) Para a morada indicada pelo requerente, quando este seja pessoa com legitimidade para representar a pessoa colectiva ou entidade equiparada ou advogado, notário ou solicitador;\n\nb) Para a morada da sede da pessoa colectiva ou entidade equiparada ou para o domicílio do comerciante ou empresário individual, nos restantes casos."
+  },
+  "46130075": {
+   "fragment_id": "38452675",
+   "type": 11,
+   "heading": "Artigo 12.º — Cancelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cancelamento\n\n1 - O cartão da empresa ou o cartão de pessoa colectiva são oficiosamente cancelados nas seguintes situações:\n\na) Extinção da pessoa colectiva ou entidade equiparada;\n\nb) Transferência de sede da pessoa colectiva ou entidade equiparada para o estrangeiro;\n\nc) Cessação de actividade do comerciante ou empresário individual.\n\n2 - Nos casos de perda, destruição, furto ou roubo, o cartão pode ser cancelado, a pedido de pessoa com legitimidade para representar a pessoa colectiva ou entidade equiparada."
+  },
+  "46130175": {
+   "fragment_id": "38452775",
+   "type": 11,
+   "heading": "Artigo 13.º — Validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Validade\n\nA validade do cartão da empresa ou do cartão de pessoa colectiva depende da validade dos elementos de identificação da pessoa colectiva ou entidade equiparada, previstos no artigo 4.º"
+  },
+  "46130275": {
+   "fragment_id": "38452875",
+   "type": 11,
+   "heading": "Artigo 14.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Taxas\n\nPela emissão do cartão da empresa ou do cartão de pessoa colectiva são devidas taxas de montante fixado por portaria dos membros do Governo responsáveis pela área das finanças e da justiça, que constituem receita do IRN, I. P."
+  },
+  "46130375": {
+   "fragment_id": "36782475",
+   "type": 8,
+   "heading": "Secção III — Cartão electrónico da empresa ou da pessoa colectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Cartão electrónico da empresa ou da pessoa colectiva"
+  },
+  "46130475": {
+   "fragment_id": "38452975",
+   "type": 11,
+   "heading": "Artigo 15.º — Cartão electrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Cartão electrónico\n\n1 - O cartão electrónico da empresa ou da pessoa colectiva é disponibilizado automaticamente no momento da inscrição da pessoa colectiva ou entidade equiparada no FCPC, mediante a atribuição de um código de acesso, tendo o mesmo valor e efeitos do que o cartão da empresa ou de pessoa colectiva.\n\n2 - O cartão electrónico contém, em suporte electrónico e permanentemente actualizado, os elementos definidos na portaria referida no artigo 4.º\n\n3 - A disponibilização do cartão electrónico é gratuita."
+  },
+  "46130575": {
+   "fragment_id": "38453075",
+   "type": 11,
+   "heading": "Artigo 16.º — Cancelamento do cartão electrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cancelamento do cartão electrónico\n\nNos casos previstos no n.º 1 do artigo 12.º, o cancelamento do cartão da empresa ou do cartão de pessoa colectiva determina o cancelamento do respectivo cartão electrónico."
+  },
+  "46130675": {
+   "fragment_id": "35455875",
+   "type": 1,
+   "heading": "Capítulo III — SICAE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — SICAE"
+  },
+  "46130775": {
+   "fragment_id": "36782575",
+   "type": 8,
+   "heading": "Secção I — Definição, conteúdo e eficácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Definição, conteúdo e eficácia"
+  },
+  "46130875": {
+   "fragment_id": "38453175",
+   "type": 11,
+   "heading": "Artigo 17.º — Definição e conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Definição e conteúdo\n\n1 - O SICAE constitui um subconjunto do FCPC que integra, em suporte electrónico e permanentemente actualizado, a informação sobre o código CAE das pessoas colectivas e entidades equiparadas previstas no artigo 3.º, com excepção dos comerciantes e dos empresários individuais inscritos no FCPC.\n\n2 - Para efeitos do disposto no número anterior, o SICAE integra, designadamente, a seguinte informação:\n\na) Nome, firma ou denominação;\n\nb) NIPC;\n\nc) CAE principal;\n\nd) Até três CAE secundárias."
+  },
+  "46130975": {
+   "fragment_id": "38453275",
+   "type": 11,
+   "heading": "Artigo 18.º — Eficácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Eficácia\n\nO código CAE das pessoas colectivas e entidades equiparadas previstas no n.º 1 do artigo anterior é, para todos os efeitos legais, o constante do SICAE."
+  },
+  "46131075": {
+   "fragment_id": "36782675",
+   "type": 8,
+   "heading": "Secção II — Competência e procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Competência e procedimento"
+  },
+  "46131175": {
+   "fragment_id": "38453375",
+   "type": 11,
+   "heading": "Artigo 19.º — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entidades competentes\n\nSem prejuízo das competências legalmente atribuídas ao Conselho Superior de Estatística no âmbito da CAE - Rev. 3, a coordenação, gestão e manutenção do SICAE compete às seguintes entidades:\n\na) Instituto Nacional de Estatística (INE);\n\nb) IRN, I. P.;\n\nc) Direcção-Geral dos Impostos (DGCI)."
+  },
+  "46131275": {
+   "fragment_id": "38453475",
+   "type": 11,
+   "heading": "Artigo 20.º — Atribuição inicial do CAE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Atribuição inicial do CAE\n\nO código CAE é atribuído inicialmente pelo IRN, I. P., no momento da emissão do certificado de admissibilidade de firma para efeitos de constituição da pessoa colectiva ou entidade equiparada ou no momento da inscrição da mesma no FCPC."
+  },
+  "46131375": {
+   "fragment_id": "38453575",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração oficiosa do código CAE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração oficiosa do código CAE\n\n1 - O código CAE é alterado oficiosamente:\n\na) Pelo INE, na sequência de inquéritos ou outras operações estatísticas promovidos nos termos da lei;\n\nb) Pela DGCI, na sequência de acções de inspecção tributária promovidas nos termos da lei;\n\nc) Pelo IRN, I. P., na sequência da inscrição de alteração do objecto social da pessoa colectiva ou entidade equiparada no FCPC.\n\n2 - A alteração do código CAE efectuada nos termos do número anterior é notificada electronicamente, através do SICAE, à pessoa colectiva ou entidade equiparada."
+  },
+  "46131475": {
+   "fragment_id": "38453675",
+   "type": 11,
+   "heading": "Artigo 22.º — Pedido de alteração do código CAE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pedido de alteração do código CAE\n\n1 - A pessoa colectiva ou entidade equiparada pode solicitar a alteração do respectivo código CAE, principal ou secundário.\n\n2 - O pedido de alteração do código CAE é efectuado:\n\na) Electronicamente, através do sítio na Internet com o endereço www.e-financas.gov.pt; ou\n\nb) Presencialmente, junto dos serviços de finanças.\n\n3 - A alteração do código CAE solicitada nos termos do número anterior é automaticamente efectuada, sem prejuízo das validações asseguradas por via electrónica."
+  },
+  "46131575": {
+   "fragment_id": "38453775",
+   "type": 11,
+   "heading": "Artigo 23.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Protocolos\n\n1 - São celebrados protocolos entre as entidades referidas no artigo 19.º, com vista à definição dos procedimentos técnicos e administrativos de comunicação de dados.\n\n2 - As entidades referidas no artigo 19.º podem ainda celebrar protocolos com outros organismos da Administração Pública, nomeadamente no que respeita à disponibilização, em formatos especiais, de informação relevante constante do SICAE."
+  },
+  "46131675": {
+   "fragment_id": "36782775",
+   "type": 8,
+   "heading": "Secção III — Acesso à informação constante do SICAE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Acesso à informação constante do SICAE"
+  },
+  "46131775": {
+   "fragment_id": "38453875",
+   "type": 11,
+   "heading": "Artigo 24.º — Informação de acesso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Informação de acesso público\n\nA informação constante do SICAE é de acesso público e gratuito, através do sítio na Internet com o endereço www.empresaonline.pt, mantido pelo IRN, I. P., ou através de outro sítio designado em portaria do membro do Governo responsável pela área da justiça."
+  },
+  "46131875": {
+   "fragment_id": "38453975",
+   "type": 11,
+   "heading": "Artigo 25.º — Pesquisa no SICAE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Pesquisa no SICAE\n\nO SICAE deve estar organizado de forma a permitir a pesquisa, designadamente, pelos seguintes elementos:\n\na) Firma;\n\nb) NIPC;\n\nc) Código CAE."
+  },
+  "46131975": {
+   "fragment_id": "35455975",
+   "type": 1,
+   "heading": "Capítulo IV — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Alterações legislativas"
+  },
+  "46132075": {
+   "fragment_id": "36782875",
+   "type": 11,
+   "heading": "Artigo 26.º — Alteração ao Regime do Registo Nacional de Pessoas Colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Alteração ao Regime do Registo Nacional de Pessoas Colectivas\n\nOs artigos 4.º, 6.º, 7.º, 9.º, 10.º, 11.º, 14.º, 15.º, 21.º, 22.º, 23.º a 28.º, 30.º, 31.º a 33.º, 38.º a 40.º, 45.º a 47.º, 49.º a 56.º, 58.º, 60.º, 61.º, 63.º, 65.º a 67.º, 69.º, 70.º, 72.º, 77.º, 78.º, 79.º, 80.º, 80.º-A, 87.º, 88.º e 91.º do Regime do Registo Nacional de Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 129/98, de 13 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os 12/2001, de 25 de Janeiro, 323/2001, de 17 de Dezembro, 2/2005, de 4 de Janeiro, 111/2005, de 8 de Julho, 76-A/2006, de 29 de Março, 125/2006, de 29 de Junho, e 8/2007, de 17 de Janeiro, passam a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\n1 - O FCPC integra informação relativa a:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) Comerciantes individuais;\n\nh) Empresários individuais que exerçam actividade económica legalmente não qualificada como profissão liberal e usem firma diferente do seu nome completo ou abreviado;\n\ni) Instrumentos de gestão fiduciária e sucursais financeiras exteriores registados na Zona Franca da Madeira.\n\n2 - O FCPC pode ainda, enquanto for necessário para efeitos fiscais, incluir informação respeitante a quaisquer sujeitos passivos da relação jurídica tributária não abrangidos pelo número fiscal de pessoa singular.\n\n3 - (Revogado.)\n\nArtigo 6.º\n\n[...]\n\nEstão sujeitos a inscrição no FCPC os seguintes actos e factos relativos a pessoas colectivas:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) A alteração do código de actividade económica (CAE);\n\nf) [Anterior alínea e).]\n\ng) [Anterior alínea f).]\n\nh) [Anterior alínea g).]\n\nArtigo 7.º\n\n[...]\n\nEstão sujeitos a inscrição no FCPC os seguintes actos e factos relativos a representações de pessoas colectivas internacionais ou de direito estrangeiro que exerçam actividade em Portugal:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) A alteração do código de actividade económica (CAE);\n\ne) [Anterior alínea d).]\n\nArtigo 9.º\n\n[...]\n\nEstão sujeitos a inscrição no FCPC os seguintes actos e factos relativos a estabelecimentos individuais de responsabilidade limitada:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) A alteração do código de actividade económica (CAE);\n\nf) [Anterior alínea e).]\n\nArtigo 10.º\n\n[...]\n\n1 - Estão sujeitos a inscrição no FCPC os seguintes actos e factos, bem como as suas alterações, relativos às entidades referidas nas alíneas c) e d) do n.º 1 do artigo 4.º e a comerciantes individuais:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) A alteração do código de actividade económica (CAE);\n\ne) [Anterior alínea d).]\n\n2 - (Revogado.)\n\nArtigo 11.º\n\n[...]\n\n1 - As entidades sujeitas a registo comercial obrigatório e as que o tenham requerido, bem como os actos e factos que a umas e outras respeitem, são oficiosamente inscritos no FCPC, através de comunicação automática electrónica do sistema integrado do registo comercial (SIRCOM).\n\n2 - As demais entidades devem promover a inscrição no FCPC no prazo de validade do certificado de admissibilidade, quando exista, ou no prazo de um mês a contar da verificação dos seguintes factos:\n\na) ...\n\nb) ...\n\nc) ...\n\n3 - A inscrição pode ser requerida por um dos constituintes ou, sendo o caso, pelas entidades já constituídas, através das seguintes formas:\n\na) Presencialmente, por forma verbal, pelo próprio ou por pessoa com legitimidade para o efeito ou advogado, notário ou solicitador, ou por escrito em formulário próprio;\n\nb) Através de sítio na Internet, se essa funcionalidade estiver disponibilizada;\n\nc) Pelo correio em formulário próprio.\n\n4 - Quando intervenham na formalização dos actos constitutivos das pessoas colectivas referidas no n.º 2 ou em alterações estatutárias posteriores, os notários devem promover a inscrição no FCPC ou advertir para a necessidade de esta ser efectuada no prazo legal.\n\nArtigo 14.º\n\n[...]\n\n1 - O NIPC só pode ser atribuído pelo RNPC ou pelos serviços de registo designados nos termos do disposto no n.º 1 do artigo 78.º, sendo vedada a atribuição por qualquer outra entidade de número susceptível de confusão com o NIPC.\n\n2 - ...\n\nArtigo 15.º\n\n[...]\n\n1 - Com a emissão do certificado de admissibilidade é atribuído um NIPC provisório para efeitos de constituição de pessoa colectiva, de estabelecimento individual de responsabilidade limitada, de organismos da Administração Pública que incorporem na sua denominação siglas, expressões de fantasia ou composições e para os empresários individuais referidos na alínea h) do n.º 1 do artigo 4.º\n\n2 - Para a apresentação de pedidos no registo comercial é igualmente atribuído pelos serviços de registo um NIPC provisório às seguintes entidades:\n\na) Representações permanentes de pessoas colectivas registadas no estrangeiro;\n\nb) Comerciantes individuais que usem firma exclusivamente composta pelo seu nome completo ou abreviado;\n\nc) Instrumentos de gestão fiduciária e sucursais financeiras exteriores da Zona Franca da Madeira que tenham efectuado o pedido de registo.\n\n3 - O NIPC provisório tem o mesmo prazo de validade do certificado que lhe deu origem ou, nos casos previstos no número anterior, o prazo de validade do registo que lhe está associado.\n\nArtigo 21.º\n\nFunções e actualização dos dados\n\n1 - (Anterior corpo do artigo.)\n\n2 - Relativamente às entidades sujeitas a registo comercial, a base de dados do FCPC é automaticamente actualizada através do SIRCOM.\n\nArtigo 22.º\n\n[...]\n\n1 - ...\n\n2 - A consulta online e a cedência de cópias totais ou parciais podem ser autorizadas:\n\na) Aos serviços e entidades referidos no artigo 21.º;\n\nb) Às entidades legal ou estatutariamente competentes para intervir na constituição de pessoas colectivas;\n\nc) Aos magistrados judiciais e do Ministério Público, juízes de paz, bem como aos agentes de execução e aos administradores da insolvência, no âmbito da prossecução das suas atribuições;\n\nd) Às entidades que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou de instrução ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências, bem como às entidades com competência legal para garantir a segurança interna, no âmbito da prossecução dos seus fins.\n\n3 - O acesso aos dados nos termos do número anterior está sujeito à celebração de protocolo com o IRN, I. P., que define os seus limites face às atribuições legais e estatutárias das entidades interessadas e ao envio de cópia deste, por via electrónica, à Comissão Nacional de Protecção de Dados.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\nArtigo 23.º\n\n[...]\n\n1 - ...\n\n2 - A reprodução exacta dos registos a que se refere o número anterior, com a indicação do significado de quaisquer códigos ou abreviaturas deles constantes, é fornecida, a requerimento dos respectivos titulares:\n\na) ...\n\nb) Mediante o pagamento dos encargos devidos correspondentes às informações dadas por escrito, nos outros casos.\n\nArtigo 24.º\n\n[...]\n\nPara além dos casos previstos no artigo 22.º, a informação pode ser divulgada para fins de investigação ou de estatística, desde que não possam ser identificáveis as pessoas a que respeita, mediante autorização do director do RNPC.\n\nArtigo 25.º\n\n[...]\n\nOs dados comunicados nos termos do artigo 22.º não podem ser transmitidos a terceiros, salvo mediante autorização escrita do director do RNPC onde se refira a finalidade prosseguida com a transmissão e com respeito pelas condições definidas no presente diploma.\n\nArtigo 26.º\n\n[...]\n\nQualquer interessado tem o direito de exigir a correcção de eventuais inexactidões e omissões, bem como a supressão de dados indevidamente registados, nos termos previstos na alínea d) do n.º 1 do artigo 11.º da Lei n.º 67/98, de 26 de Outubro.\n\nArtigo 27.º\n\n[...]\n\nOs dados pessoais podem ser conservados no FCPC:\n\na) Até um ano após a inscrição da cessação da actividade de empresário individual;\n\nb) Até um ano após a caducidade do certificado de admissibilidade ou, no caso de recurso hierárquico ou impugnação judicial, até um ano após o trânsito em julgado da decisão final.\n\nArtigo 28.º\n\n[...]\n\n1 - Os pedidos de certificado de admissibilidade e de inscrição no FCPC são conservados em suporte informático.\n\n2 - Se os pedidos referidos no número anterior forem efectuados em suporte físico, estes e a respectiva documentação anexa, caso exista, devem ser informatizados e conservados dessa forma, sendo imediatamente devolvidos aos interessados, desde que as condições técnicas permitam a informatização.\n\n3 - (Anterior n.º 2.)\n\nArtigo 30.º\n\n[...]\n\n1 - O presidente do IRN, I. P., é a entidade responsável pela base de dados, nos termos e para os efeitos definidos na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de Outubro.\n\n2 - Cabe ao director do RNPC o dever de assegurar o direito de informação e de acesso aos dados pelos respectivos titulares e a correcção de inexactidões, bem como o de velar pela legalidade da consulta ou comunicação da informação.\n\nArtigo 31.º\n\nDever de sigilo\n\nOs responsáveis pelo tratamento de dados pessoais, bem como as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais registados na base de dados do FCPC, ficam obrigados a sigilo profissional, mesmo após o termo das suas funções.\n\nArtigo 32.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Para efeitos do disposto neste artigo não deve ser efectuado o controlo da legalidade do objecto social, devendo somente ser assegurado o cumprimento do disposto nos números anteriores.\n\n4 - ...\n\n5 - ...\n\nArtigo 33.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Nos juízos a que se refere o n.º 2 deve ainda ser considerada a existência de marcas e logótipos já concedidos que sejam de tal forma semelhantes que possam induzir em erro sobre a titularidade desses sinais distintivos.\n\n6 - Para que possam prevalecer do disposto no número anterior, os titulares das marcas ou logótipos devem ter efectuado anteriormente prova do seu direito junto do RNPC.\n\n7 - (Revogado.)\n\nArtigo 38.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Os comerciantes individuais que não usem como firma apenas o seu nome completo ou abreviado têm direito ao uso exclusivo da sua firma desde a data do registo definitivo e no âmbito do concelho onde se encontra o seu estabelecimento principal.\n\n5 - (Revogado.)\n\nArtigo 39.º\n\n[...]\n\n1 - Os demais empresários individuais que exerçam habitualmente, por conta própria e com fim lucrativo, actividade económica legalmente não qualificada como comercial ou como profissão liberal podem adoptar uma firma sob a qual são designados no exercício dessa actividade e com ela podem assinar os respectivos documentos.\n\n2 - À firma dos empresários individuais aplicam-se, com as necessárias adaptações, as regras constantes do artigo anterior.\n\nArtigo 40.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Ao uso exclusivo da firma do estabelecimento individual de responsabilidade limitada é aplicável o disposto no n.º 4 do artigo 38.º\n\nArtigo 45.º\n\n[...]\n\n1 - A admissibilidade das firmas e denominações é comprovada através da disponibilização do respectivo certificado requerido pelos interessados.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\nArtigo 46.º\n\n[...]\n\n1 - O pedido de certificado de admissibilidade de firma ou denominação deve ser requerido por um dos constituintes ou, sendo o caso, pelas entidades já constituídas, através das seguintes formas:\n\na) Presencialmente, por forma verbal, pelo próprio ou por pessoa com legitimidade para o efeito, ou advogado, notário ou solicitador ou por escrito em formulário próprio;\n\nb) Através de sítio na Internet;\n\nc) Pelo correio em formulário próprio.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\nArtigo 47.º\n\n[...]\n\nQualquer interessado pode solicitar informações sobre a viabilidade de firma ou denominação que pretenda usar.\n\nArtigo 49.º\n\n[...]\n\n1 - Os requerentes podem juntar ao pedido de certificado os documentos que considerem pertinentes para a apreciação do pedido.\n\n2 - Deve ser oficiosamente solicitada aos requerentes, quando não a tenham feito, a junção, no prazo de cinco dias úteis, dos documentos e das informações necessárias à verificação da ocorrência dos requisitos estabelecidos na lei.\n\n3 - A falta de apresentação dos documentos e das informações no prazo fixado implica o arquivamento do pedido, sem direito à restituição do correspondente emolumento.\n\nArtigo 50.º\n\n[...]\n\n1 - O pedido de certificado de admissibilidade de firma ou denominação apresentado em primeiro lugar prevalece sobre os que se lhe seguirem.\n\n2 - O número de referência, a data e a hora de recepção em UTC (universal time coordinated) do pedido devem constar dos pedidos de certificado apresentados.\n\n3 - A ordem da prioridade do pedido é definida pela data e hora do registo do pedido no sistema informático.\n\n4 - Os pedidos apresentados através de sítio na Internet referido na alínea b) do n.º 1 do artigo 46.º são registados pela ordem da respectiva recepção.\n\n5 - Os pedidos apresentados pelo correio são registados logo após a abertura da correspondência.\n\nArtigo 51.º\n\nDisponibilização do certificado\n\n1 - O certificado de admissibilidade de firma ou denominação é disponibilizado exclusivamente de forma electrónica.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\nArtigo 52.º\n\n[...]\n\n1 - O requerente do certificado de admissibilidade de firma ou denominação pode desistir do pedido de certificado e pode pedir a sua invalidação, desde que o certificado não tenha sido utilizado.\n\n2 - Os pedidos referidos no número anterior podem ser apresentados por qualquer uma das vias previstas no n.º 1 do artigo 46.º\n\nArtigo 53.º\n\n[...]\n\n1 - O certificado de admissibilidade de firma ou denominação é válido pelo período de três meses, a contar da data da sua emissão, para a firma, sede, objecto, requerente e condições de validade nele indicadas.\n\n2 - (Revogado.)\n\n3 - O certificado condicionado à participação de pessoa singular ou colectiva ou de titular de direito de propriedade industrial já registado só é válido quando utilizado por pessoa legitimada para o efeito.\n\n4 - (Revogado.)\n\nArtigo 54.º\n\nEfeitos do certificado na celebração de actos\n\n1 - Os actos de constituição de pessoas colectivas ou de estabelecimentos individuais de responsabilidade limitada devem fazer referência à emissão do certificado de admissibilidade da firma ou denominação adoptada, através da indicação do respectivo número e data de emissão.\n\n2 - O acto de alteração do contrato de sociedade ou estatutos que determine a modificação da firma ou denominação, a modificação do objecto, a alteração da sede para concelho diferente ou a transferência para Portugal da sede de sociedade estrangeira não pode ser efectuado sem que seja feita referência ao certificado comprovativo da admissibilidade da nova firma ou denominação ou da sua manutenção em relação ao novo objecto e sede, nos termos do número anterior.\n\n3 - ...\n\n4 - Nos actos a que se referem os números anteriores, o objecto social não pode ser ampliado a actividades não contidas no objecto declarado no certificado de admissibilidade.\n\n5 - O disposto nos números anteriores não prejudica a especificação ou restrição das actividades contidas no objecto declarado, desde que estas não estejam reflectidas na denominação, nem as alterações de redacção ou correcção de erros materiais que não envolvam a sua ampliação.\n\n6 - ...\n\nArtigo 55.º\n\nNulidade do acto\n\n1 - É nulo o acto efectuado:\n\na) Com inobservância do disposto nos n.os 1 e 3 do artigo 53.º; ou\n\nb) Sem a emissão do certificado de admissibilidade de firma ou denominação, quando este deva ser exigido.\n\n2 - A nulidade prevista na alínea b) do número anterior é sanável mediante a apresentação do certificado de admissibilidade de firma ou denominação em falta no prazo de três meses a contar da data do acto.\n\nArtigo 56.º\n\nObrigatoriedade de verificação da emissão de certificado\n\n1 - Está sujeita à verificação da disponibilização de certificado de admissibilidade da respectiva firma ou denominação o registo comercial ou a inscrição no FCPC, consoante os casos:\n\na) Do início de actividade de comerciante individual que adopte firma diferente do seu nome completo ou abreviado, bem como da alteração desta firma ou da mudança de estabelecimento principal para outro concelho;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) Da criação pelo Estado e outros entes públicos de pessoas colectivas e de organismos da Administração Pública que incorporem na sua denominação siglas, expressões de fantasia ou composições.\n\n2 - O disposto no número anterior não é aplicável:\n\na) À alteração da denominação decorrente de transformação que se restrinja à alteração do elemento que identifica o tipo de pessoa colectiva;\n\nb) À fusão por incorporação que não implique alteração de denominação, sede ou objecto.\n\n3 - O certificado a que se refere o n.º 1 deve estar dentro do seu prazo de validade à data de apresentação do pedido de registo comercial ou de inscrição no FCPC.\n\nArtigo 58.º\n\n[...]\n\nO registo comercial ou a inscrição no FCPC, consoante os casos, é recusado quando:\n\na) O acto for nulo;\n\nb) ...\n\nc) No acto destinado à constituição ou modificação da pessoa colectiva tiverem sido desrespeitados os elementos ou as condições de validade constantes do certificado de admissibilidade.\n\nArtigo 60.º\n\nPerda do direito ao uso de firmas e denominações por violação dos princípios da verdade e novidade\n\n1 - O RNPC deve declarar a perda do direito ao uso de firmas ou denominações quando se verificar terem sido violados os princípios consagrados nos artigos 32.º e 33.º\n\n2 - Na sequência da declaração de perda do direito ao uso de firma ou denominação, deve:\n\na) Realizar-se o respectivo acto de registo comercial, tratando-se de entidade a ele sujeita;\n\nb) Comunicar-se o facto a outros serviços onde a entidade esteja registada para que a perda do direito ao uso da firma ou denominação seja inscrita.\n\nArtigo 61.º\n\nPerda do direito ao uso de firmas e denominações por falta de inscrição ou não exercício de actividade\n\n1 - O RNPC ou qualquer um dos serviços de registo designados nos termos do n.º 1 do artigo 78.º podem, oficiosamente ou a requerimento de qualquer interessado, declarar a perda do direito ao uso de firma ou denominação de terceiro, mediante prova da verificação das seguintes situações:\n\na) Falta de inscrição da entidade no FCPC decorrido um ano desde o prazo em que a mesma deveria ter sido realizada;\n\nb) ...\n\n2 - No caso previsto na alínea a) do número anterior, pode ser declarada a perda do direito ao uso da firma ou denominação, desde que os interessados tenham sido notificados para a sede declarada a fim de regularizarem a situação e o não fizerem no prazo de um mês, a contar da notificação.\n\n3 - À declaração de perda do direito ao uso de firma ou denominação prevista no número anterior é aplicável o disposto no n.º 2 do artigo 60.º\n\nArtigo 63.º\n\n[...]\n\n1 - Podem ser impugnados mediante a interposição de recurso hierárquico para o presidente do IRN, I. P., ou mediante impugnação judicial para o tribunal do domicílio ou sede do recorrente:\n\na) Os despachos que admitam ou recusem firmas ou denominações;\n\nb) Os despachos que declarem a perda do direito ao uso de firma ou denominação ou que indefiram o respectivo pedido;\n\nc) A imposição de condições à validade do certificado de admissibilidade de firma ou denominação;\n\nd) Os despachos que recusem a aceitação do pedido, exijam o cumprimento de certas formalidades ou o preenchimento de certos requisitos;\n\ne) Os despachos que recusem a invalidação de certificado de admissibilidade de firma ou denominação;\n\nf) Os despachos que recusem ou admitam a inscrição definitiva de pessoas colectivas ou outras entidades no FCPC.\n\n2 - (Revogado.)\n\nArtigo 65.º\n\nTramitação do recurso hierárquico\n\n1 - O recurso hierárquico é apresentado no RNPC.\n\n2 - Recebido o recurso, o director do RNPC deve, no prazo de 10 dias, proferir despacho fundamentado a reparar ou a sustentar a decisão, que é imediatamente notificado ao recorrente.\n\n3 - No caso de manter a decisão, o director do RNPC deve, no prazo de cinco dias, remeter ao IRN, I. P., todo o processo, instruído com o despacho recorrido, o despacho de sustentação e demais documentos.\n\n4 - O recurso é decidido no prazo máximo de 30 dias a contar da sua recepção no IRN, I. P.\n\n5 - No caso de a decisão afectar direitos de terceiros, estes devem ser ouvidos, concedendo-lhes o prazo de 30 dias para a sua resposta, e, caso sejam trazidos novos factos ao procedimento, é garantido, por igual prazo, o direito de resposta do recorrente, suspendendo-se o prazo para a decisão do recurso.\n\n6 - Para proferir as decisões previstas nos n.os 2 e 4 podem ser solicitados ao recorrente documentos ou informações adicionais, suspendendo-se o respectivo prazo.\n\n7 - A decisão final é notificada ao recorrente e aos terceiros referidos no n.º 5.\n\n8 - No caso de a decisão ter sido proferida por uma conservatória designada nos termos do n.º 1 do artigo 78.º, o disposto nos números anteriores sobre a tramitação do recurso hierárquico é igualmente aplicável, com as necessárias adaptações.\n\nArtigo 66.º\n\nDireito subsidiário\n\nAo recurso hierárquico é aplicável, subsidiariamente, o disposto no Código do Procedimento Administrativo.\n\nArtigo 67.º\n\nLegitimidade para a impugnação judicial\n\n1 - São partes legítimas para impugnar judicialmente os requerentes e ainda as pessoas ou entidades que se considerem directamente prejudicadas pelos actos previstos no n.º 1 do artigo 63.º\n\n2 - As pessoas não requerentes referidas no número anterior podem impugnar judicialmente os despachos finais que defiram firma ou denominação ou declarem a perda do direito ao seu uso e os que determinem o cancelamento do registo.\n\nArtigo 69.º\n\nPrazo da impugnação judicial\n\n1 - O prazo para a interposição da impugnação judicial é de 30 dias após a notificação ou, nos casos em que o acto recorrido não tenha dado lugar a notificação, após o seu conhecimento pelo impugnante ou, se for o caso, da publicação da constituição ou alteração da pessoa colectiva.\n\n2 - No caso de se tratar de impugnação judicial subsequente a recurso hierárquico, o prazo é de 30 dias a contar da data da notificação ao impugnante da decisão do recurso hierárquico\n\nArtigo 70.º\n\nTramitação da impugnação judicial\n\n1 - A impugnação judicial dos despachos previstos no n.º 1 do artigo 63.º ou do despacho do presidente do IRN, I. P., é apresentada no RNPC.\n\n2 - A impugnação deve ser interposta mediante requerimento em que são expostos os seus fundamentos, acompanhado por todos os meios de prova e, se for o caso, requerendo as diligências que considere necessárias à prova da sua pretensão.\n\n3 - A impugnação deve ser interposta também contra os interessados a quem tenha sido favorável o despacho impugnado.\n\n4 - Recebida a impugnação, caso não tenha havido recurso hierárquico, o director do RNPC deve, no prazo de 10 dias, proferir despacho fundamentado a reparar ou a sustentar a decisão que é imediatamente notificado ao recorrente.\n\n5 - No caso de manter a decisão ou de a decisão ter sido mantida na sequência de recurso hierárquico, o director do RNPC deve, no prazo de cinco dias, remeter ao tribunal competente todo o processo, instruído com o despacho recorrido, o despacho de sustentação e demais documentos, bem como o recurso hierárquico, se tiver sido interposto.\n\n6 - Após a distribuição, se não houver motivo para rejeição liminar, são notificados, para contestar, caso ainda não se tenham pronunciado, os terceiros interessados.\n\n7 - A tramitação da impugnação judicial, incluindo a remessa dos elementos referidos no número anterior ao tribunal competente, é efectuada, sempre que possível, por meios electrónicos.\n\n8 - No caso de a decisão ter sido proferida por uma conservatória designada nos termos do n.º 1 do artigo 78.º, o disposto nos números anteriores sobre a tramitação do recurso judicial é igualmente aplicável com as necessárias adaptações.\n\nArtigo 72.º\n\n[...]\n\n1 - ...\n\n2 - Têm legitimidade para interpor recurso o autor, o réu, o presidente do IRN, I. P., o Ministério Público e os terceiros lesados.\n\n3 - ...\n\nArtigo 77.º\n\n[...]\n\n1 - A aplicação das coimas previstas no presente diploma compete ao RNPC.\n\n2 - O produto das coimas reverte para o IRN, I. P.\n\nArtigo 78.º\n\n[...]\n\n1 - Compete ao RNPC e aos serviços de registo designados em despacho do presidente do IRN, I. P.:\n\na) Velar pela exactidão e actualidade da informação contida no FCPC, promovendo as correcções necessárias;\n\nb) Promover a inscrição no FCPC dos actos de constituição, modificação e dissolução das pessoas colectivas e entidades equiparadas;\n\nc) Emitir certificados de admissibilidade de firmas e denominações assegurando o cumprimento dos princípios da novidade e da verdade;\n\nd) Declarar a perda do direito ao uso de firma ou denominação nos termos do artigo 61.º\n\n2 - Compete em especial ao RNPC:\n\na) Estudar, planear e coordenar as tarefas necessárias à identificação das pessoas colectivas e entidades equiparadas;\n\nb) Organizar, manter e explorar o FCPC, sem prejuízo do disposto no n.º 1 do artigo 30.º;\n\nc) Promover as acções necessárias à coordenação no sector público das bases de dados de pessoas colectivas e entidades equiparadas;\n\nd) Coordenar, em conjunto com o IRN, I. P., a prestação dos serviços online e de balcão único disponibilizados nos serviços de registo;\n\ne) Praticar actos de registo que venham a ser fixados por despacho do presidente do IRN, I. P.;\n\nf) Assegurar a participação portuguesa em reuniões internacionais sobre matérias da sua competência.\n\nArtigo 79.º\n\n[...]\n\n1 - ...\n\n2 - A direcção do RNPC é assegurada, por períodos trienais, pelo conservador para o efeito designado por despacho do presidente do IRN, I. P.\n\n3 - ...\n\nArtigo 80.º\n\n[...]\n\nSão competências específicas dos conservadores e dos conservadores auxiliares apreciar e decidir os pedidos de emissão de certificados de admissibilidade de firmas e denominações, os pedidos de inscrição, os pedidos de declaração de perda do direito ao uso de firma ou denominação, nos termos do artigo 61.º, e, bem assim, praticar quaisquer outros actos relacionados com a organização e funcionamento do FCPC e com o cumprimento das competências do RNPC delegadas pelo director.\n\nArtigo 80.º-A\n\n[...]\n\nSão competências próprias dos oficiais de registo:\n\na) ...\n\nb) (Revogada.)\n\nc) ...\n\nd) ...\n\ne) (Revogada.)\n\nf) Promover a inscrição e a identificação de pessoas colectivas e entidades equiparadas;\n\ng) Apreciar os pedidos de declaração de perda do direito ao uso de firma ou denominação, nos termos do artigo 61.º\n\nh) [Anterior alínea g).]\n\nArtigo 87.º\n\n[...]\n\n1 - O período de atendimento do público é fixado de acordo com a legislação aplicável aos órgãos e serviços da Administração Pública.\n\n2 - (Revogado.)\n\n3 - ...\n\n4 - ...\n\nArtigo 88.º\n\n[...]\n\nO RNPC pode prestar serviços, no âmbito da sua competência, a entidades públicas ou privadas nos termos que forem autorizados por despacho do presidente do IRN, I. P.\n\nArtigo 91.º\n\n[...]\n\nOs formulários próprios referidos no presente diploma constituem exclusivo do IRN, I. P., e são aprovados por despacho do seu presidente.»"
+  },
+  "46132175": {
+   "fragment_id": "36782975",
+   "type": 11,
+   "heading": "Artigo 27.º — Aditamento ao Regime do Registo Nacional de Pessoas Colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Aditamento ao Regime do Registo Nacional de Pessoas Colectivas\n\nSão aditados ao Regime do Registo Nacional de Pessoas Colectivas os artigos 11.º-B, 21.º-A, 46.º-A, 50.º-A e 50.º-B e 92.º, com a seguinte redacção:\n\n«Artigo 11.º-B\n\nNão aceitação do pedido de inscrição\n\n1 - O pedido de inscrição não é aceite nos casos seguintes:\n\na) O requerimento do pedido não respeite o modelo aprovado, não contenha os elementos de preenchimento obrigatório ou não se encontre devidamente instruído;\n\nb) O pedido seja ininteligível;\n\nc) Não tenham sido pagas as quantias que se mostrem devidas;\n\nd) Não haja lugar a inscrição.\n\n2 - Em caso de não aceitação do pedido, se o interessado declarar que pretende impugnar o acto, o funcionário deve proferir a sua decisão por escrito.\n\nArtigo 21.º-A\n\nDados pessoais recolhidos\n\n1 - São recolhidos para tratamento automatizado os seguintes dados pessoais referentes aos requerentes dos certificados de admissibilidade de firma ou denominação e aos sujeitos dos actos ou factos a inscrever na base de dados do FCPC:\n\na) Nome;\n\nb) Residência habitual ou domicílio profissional;\n\nc) Número do documento de identificação;\n\nd) Número de identificação fiscal;\n\ne) Número de identificação bancária, se disponibilizado;\n\nf) Meios de contacto telefónicos e informáticos.\n\n2 - Os dados pessoais constantes da base de dados do FCPC são recolhidos dos requerimentos ou documentos apresentados pelos interessados ou das comunicações efectuadas pelas conservatórias do registo comercial através do SIRCOM e servem para tornar mais célere a comunicação com os interessados e efectuar os reembolsos a que estes tenham direito.\n\nArtigo 46.º-A\n\nNão aceitação do pedido de certificado\n\n1 - O pedido de certificado não é aceite nos casos seguintes:\n\na) O requerimento do pedido não respeite o modelo aprovado ou não contenha os elementos de preenchimento obrigatório;\n\nb) O pedido seja ininteligível;\n\nc) Não tenham sido pagas as quantias que se mostrem devidas;\n\nd) Não haja lugar a emissão de certificado de admissibilidade.\n\n2 - Em caso de não aceitação do pedido, se o interessado declarar que pretende impugnar o acto, o funcionário deve proferir a sua decisão por escrito.\n\nArtigo 50.º-A\n\nAprovação automática de firmas e denominações\n\nNo caso de pedidos de firmas para efeitos de constituição de sociedades por quotas, unipessoal por quotas ou anónima em que as firmas correspondam ao nome dos sócios pessoas singulares, podem ser utilizados meios electrónicos e automáticos para a sua aprovação.\n\nArtigo 50.º-B\n\nNotificação do indeferimento de pedido de certificado\n\n1 - Os indeferimentos dos pedidos de certificados de admissibilidade apresentados electronicamente são exclusivamente notificados através de mensagem de correio electrónico enviada para endereço electrónico válido fornecido pelo requerente, devendo ainda os interessados, sempre que possível, ser avisados por short message service (sms) ou outro meio considerado adequado.\n\n2 - Os indeferimentos dos pedidos de certificados de admissibilidade apresentados por outras vias podem ser notificados nos termos previstos no número anterior caso os interessados forneçam um endereço electrónico válido.\n\nArtigo 92.º\n\nDireito subsidiário\n\nAs disposições do Código do Registo Comercial são subsidiariamente aplicáveis, com as necessárias adaptações, a tudo o que não estiver disposto no presente diploma.»"
+  },
+  "46132275": {
+   "fragment_id": "36783075",
+   "type": 11,
+   "heading": "Artigo 28.º — Alteração à organização sistemática do Regime do Registo Nacional de Pessoas Colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Alteração à organização sistemática do Regime do Registo Nacional de Pessoas Colectivas\n\n1 - O capítulo iii do título ii do Regime do Registo Nacional de Pessoas Colectivas passa a ter como epígrafe «Base de dados do ficheiro central de pessoas colectivas».\n\n2 - O título iv do Regime do Registo Nacional de Pessoas Colectivas passa a ter como epígrafe «Impugnação de decisões».\n\n3 - O capítulo i e o capítulo ii do título iv do Regime do Registo Nacional de Pessoas Colectivas, que têm como epígrafes, respectivamente, «Recurso hierárquico» e «Recurso contencioso», são eliminados."
+  },
+  "46132375": {
+   "fragment_id": "36783175",
+   "type": 11,
+   "heading": "Artigo 29.º — Alteração ao Código das Sociedades Comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Alteração ao Código das Sociedades Comerciais\n\nO artigo 7.º do Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de Setembro, e alterado pelos Decretos-Leis n.os 184/87, de 21 de Abril, 280/87, de 8 de Julho, 229-B/88, de 4 de Julho, 418/89, de 30 de Novembro, 142-A/91, de 10 de Abril, 238/91, de 2 de Julho, 225/92, de 21 de Outubro, 20/93, de 26 de Janeiro, 261/95, de 3 de Outubro, 328/95, de 9 de Dezembro, 257/96, de 31 de Dezembro, 343/98, de 6 de Novembro, 486/99, de 13 de Novembro, 36/2000, de 14 de Março, 237/2001, de 30 de Agosto, 162/2002, de 11 de Julho, 107/2003, de 4 de Junho, 88/2004, de 20 de Abril, 19/2005, de 18 de Janeiro, 35/2005, de 17 de Fevereiro, 111/2005, de 8 de Julho, 52/2006, de 15 de Março, 76-A/2006, de 29 de Março, 8/2007, de 17 de Janeiro, e 357-A/2007, de 31 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 7.º\n\n[...]\n\n1 - O contrato de sociedade deve ser reduzido a escrito e as assinaturas dos seus subscritores devem ser reconhecidas presencialmente, salvo se forma mais solene for exigida para a transmissão dos bens com que os sócios entram para a sociedade, devendo, neste caso, o contrato revestir essa forma, sem prejuízo do disposto em lei especial.\n\n2 - ...\n\n3 - ...\n\n4 - ...»"
+  },
+  "46132475": {
+   "fragment_id": "36783275",
+   "type": 11,
+   "heading": "Artigo 30.º — Alteração ao Código do Registo Comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Alteração ao Código do Registo Comercial\n\nOs artigos 32.º, 45.º, 48.º, 52.º, 53.º-A e 114.º do Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de Dezembro, com as alterações introduzidas pelos Decretos-Leis n.os 7/88, de 15 de Janeiro, 349/89, de 13 de Outubro, 238/91, de 2 de Julho, 31/93, de 12 de Fevereiro, 267/93, de 31 de Julho, 216/94, de 20 de Agosto, 328/95, de 9 de Dezembro, 257/96, de 31 de Dezembro, 368/98, de 23 de Novembro, 172/99, de 20 de Maio, 198/99, de 8 de Junho, 375-A/99, de 20 de Setembro, 410/99, de 15 de Outubro, 533/99, de 11 de Dezembro, 273/2001, de 13 de Outubro, 323/2001, de 17 de Dezembro, 107/2003, de 4 de Junho, 53/2004, de 18 de Março, 70/2004, de 25 de Março, 2/2005, de 4 de Janeiro, 35/2005, de 17 de Fevereiro, 111/2005, de 8 de Julho, 52/2006, de 15 de Março, 76-A/2006, de 29 de Março, 8/2007, de 17 de Janeiro, e 116/2008, de 4 de Julho, passam a ter a seguinte redacção:\n\n«Artigo 32.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - Sem prejuízo da competência para certificação de fotocópias atribuída por lei a outras entidades, para efeitos de registo comercial online de actos sobre sociedades comerciais ou civis sob forma comercial os respectivos gerentes, administradores e secretários podem, quando os promovam, certificar a conformidade dos documentos electrónicos por si entregues, através do sítio na Internet, com os documentos originais, em suporte de papel.\n\nArtigo 45.º\n\n[...]\n\n1 - A apresentação de documentos para registo pode ser feita pessoalmente, pelo correio ou ainda por via electrónica, nos termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.\n\n2 - ...\n\n3 - (Revogado.)\n\n4 - Os documentos apresentados pelo correio são anotados com a observação de «correspondência» no dia da recepção e imediatamente após a última apresentação pessoal.\n\n5 - ...\n\n6 - ...\n\nArtigo 48.º\n\n[...]\n\n1 - O registo por transcrição deve ser recusado nos seguintes casos:\n\na) (Revogada pelo Decreto-Lei n.º 76-A/2006, de 29 de Março.)\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) (Revogada pelo Decreto-Lei n.º 76-A/2006, de 29 de Março.)\n\ng) (Revogada.)\n\n2 - ...\n\nArtigo 52.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - A falta de apresentação do título que constitua motivo de recusa, nos termos da alínea b) do n.º 1 do artigo 48.º pode ser suprida, com observância dos números anteriores, desde que o facto sujeito a registo seja anterior à data da apresentação.\n\nArtigo 53.º-A\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Sem prejuízo dos regimes especiais de depósito da prestação de contas, o registo por depósito consiste no mero arquivamento dos documentos que titulam factos sujeitos a registo.\n\n4 - (Revogado.)\n\n5 - ...\n\nArtigo 114.º\n\nPagamento dos emolumentos e taxas\n\n1 - Sempre que os emolumentos devam entrar em regra de custas, as quantias são descontadas na receita do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P. (IGFIJ, I. P.), cobrada pelos serviços do registo.\n\n2 - O montante que vier a ser obtido por via das custas judiciais constitui receita do IGFIJ, I. P., na parte que lhe couber.\n\n3 - Não obsta ao disposto no número anterior a eventual incobrabilidade da conta de custas ou o benefício de apoio judiciário do requerente.\n\n4 - (Anterior n.º 2.)»"
+  },
+  "46132575": {
+   "fragment_id": "36783375",
+   "type": 11,
+   "heading": "Artigo 31.º — Alteração ao Código do Registo Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Alteração ao Código do Registo Civil\n\nOs artigos 69.º, 95.º, 163.º, 210.º-A, 210.º-C, 210.º-G, 210.º-H, 215.º, 272.º-A e 272.º-C do Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de Junho, com as alterações introduzidas pelos Decretos-Leis n.os 224-A/96, de 26 de Novembro, 36/97, de 31 de Janeiro, 120/98, de 8 de Maio, 375-A/99, de 20 de Setembro, 228/2001, de 20 de Agosto, 273/2001, de 13 de Outubro, 323/2001, de 17 de Dezembro, 113/2002, de 20 de Abril, 194/2003, de 23 de Agosto, e 53/2004, de 18 de Março, pela Lei n.º 29/2007, de 2 de Agosto, pelo Decreto-Lei n.º 324/2007, de 28 de Setembro, e pela Lei n.º 61/2008, de 31 de Outubro, passam a ter a seguinte redacção:\n\n«Artigo 69.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Os factos referidos na alínea f) do n.º 1 são averbados aos assentos de nascimento dos filhos.\n\nArtigo 95.º\n\n[...]\n\n1 - ...\n\n2 - O disposto no número anterior é também aplicável à declaração de rectificação lavrada nos termos da segunda parte do n.º 5 do artigo 92.º\n\n3 - ...\n\nArtigo 163.º\n\n[...]\n\n1 - ...\n\n2 - O certificado é passado pelo conservador mediante a organização prévia do processo de casamento e dele devem constar todos os elementos de identificação do interessado, bem como do outro nubente, e o prazo para a celebração.\n\n3 - ...\n\n4 - ...\n\nArtigo 210.º-A\n\n[...]\n\n1 - ...\n\n2 - Os procedimentos simplificados de sucessão hereditária são os seguintes:\n\na) ...\n\nb) Procedimentos de habilitação de herdeiros com ou sem registos;\n\nc)...\n\n3 - ...\n\n4 - ...\n\n5 - Os procedimentos simplificados de sucessão hereditária podem incluir a celebração de um contrato de mútuo e de outros contratos de crédito e de financiamento celebrados por instituições de crédito, e respectivas garantias, bem como outros negócios jurídicos, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.\n\n6 - (Anterior n.º 5.)\n\nArtigo 210.º-C\n\n[...]\n\n1 - Os procedimentos simplificados de sucessão hereditária iniciam-se até ao final do terceiro mês seguinte ao da morte do autor da sucessão, sem prejuízo do disposto no número seguinte.\n\n2 - Caso os procedimentos se iniciem após o prazo previsto no número anterior, o serviço de registo deve informar desse facto os competentes serviços de finanças para que estes procedam à cobrança das coimas que se mostrem devidas.\n\n3 - (Anterior n.º 2.)\n\nArtigo 210.º-G\n\nProcedimento de habilitação de herdeiros com ou sem registos\n\n1 - Os procedimentos de habilitação de herdeiros com ou sem registos só são realizados quando os interessados não pretendam proceder imediatamente à partilha, nos termos do artigo anterior.\n\n2 - No âmbito dos procedimentos de habilitação de herdeiros com ou sem registos, o serviço de registo procede aos actos referidos no n.º 1 do artigo anterior, com as necessárias adaptações.\n\n3 - Os interessados podem recorrer aos procedimentos de habilitação de herdeiros com ou sem registos ainda que já tenham procedido à participação referida na alínea c) do n.º 1 do artigo anterior.\n\n4 - No caso do procedimento de habilitação de herdeiros sem registos, os interessados podem optar por não proceder à participação referida na alínea c) do n.º 1 do artigo anterior.\n\n5 - (Revogado.)\n\nArtigo 210.º-H\n\nProcedimento de partilha e registos\n\n1 - O procedimento de partilha e registos só é realizado quando, em momento anterior, tiver ocorrido a habilitação de herdeiros.\n\n2 - No âmbito do procedimento de partilha e registos, o serviço de registo procede aos actos referidos no n.º 1 do artigo 210.º-F, com as necessárias adaptações, com excepção dos previstos nas alíneas b) e c), caso a participação prevista nesta última alínea já tenha sido efectuada.\n\n3 - Caso a participação prevista na alínea c) do n.º 1 do artigo 210.º-F ainda não tenha sido efectuada, a mesma deve ser realizada no âmbito do procedimento.\n\nArtigo 215.º\n\n[...]\n\n1 - As certidões podem ser requisitadas verbalmente ou pelo correio em qualquer conservatória do registo civil ou através de transmissão electrónica de dados.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\nArtigo 272.º-A\n\n[...]\n\n1 - Os cônjuges podem proceder à partilha dos seus bens comuns no âmbito do processo de separação de pessoas e bens ou de divórcio por mútuo consentimento, ou posteriormente, ou ainda na sequência de qualquer processo de divórcio.\n\n2 - Os interessados devem instruir o seu pedido com o acordo de partilha ou pedido de elaboração do mesmo.\n\n3 - São pressupostos da partilha do património conjugal quanto aos bens imóveis, móveis ou participações sociais sujeitas a registo:\n\na) A inexistência de dúvidas quanto à identidade dos bens a partilhar;\n\nb) A comprovação da titularidade dos bens.\n\n4 - O acordo de partilha, se necessário devidamente completado pelos serviços de registo, tem os mesmos efeitos previstos na lei para outras formas de partilha.\n\n5 - No caso de partilha de bens comuns no âmbito do processo de separação de pessoas e bens ou de divórcio por mútuo consentimento, o acordo de partilha é homologado pela decisão que decreta o divórcio.\n\n6 - (Anterior n.º 4.)\n\n7 - A partilha pode incluir a celebração de um contrato de mútuo e de outros contratos de crédito e de financiamento celebrados por instituições de crédito, e respectivas garantias, bem como outros negócios jurídicos, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.\n\n8 - (Anterior n.º 5.)\n\nArtigo 272.º-C\n\n[...]\n\nÀ partilha do património conjugal são aplicáveis, com as necessárias adaptações, o n.º 4 do artigo 210.º-A e os artigos 210.º-E, 210.º-I, 210.º-J, 210.º-L, 210.º-N e 210.º-M.»"
+  },
+  "46132675": {
+   "fragment_id": "36783475",
+   "type": 11,
+   "heading": "Artigo 32.º — Alteração ao Decreto-Lei n.º 322-A/2001, de 14 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Alteração ao Decreto-Lei n.º 322-A/2001, de 14 de Dezembro\n\nO artigo 8.º do Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 315/2002, de 27 de Dezembro, pela Lei n.º 32-B/2002, de 30 de Dezembro, pelos Decretos-Leis n.os 194/2003, de 23 de Agosto, 53/2004, de 18 de Março, 199/2004, de 18 de Agosto, 111/2005, de 8 de Julho, 178-A/2005, de 28 de Outubro, 76-A/2006, de 29 de Março, 85/2006, de 23 de Maio, 125/2006, de 29 de Junho, 237-A/2006, de 14 de Dezembro, 8/2007, de 17 de Janeiro, e 263-A/2007, de 23 de Julho, pela Lei n.º 40/2007, de 24 de Agosto, e pelos Decretos-Leis n.os 324/2007, de 28 de Setembro, 20/2008, de 31 de Janeiro, 73/2008, de 16 de Abril, e 116/2008, de 4 de Julho, passa a ter a seguinte redacção:\n\n«Artigo 8.º\n\n[...]\n\n1 - São gratuitas as certidões, fotocópias, informações e outros documentos de carácter probatório, bem como o acesso e consultas a base de dados, desde que solicitadas pela Direcção-Geral de Contribuições e Impostos, pelos Julgados de Paz, bem como por autoridades judiciais e entidades que prossigam fins de investigação criminal.\n\n2 - ...\n\n3 - ...\n\n4 - ...»"
+  },
+  "46132775": {
+   "fragment_id": "36783575",
+   "type": 11,
+   "heading": "Artigo 33.º — Alteração ao Regulamento Emolumentar dos Registos e do Notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Alteração ao Regulamento Emolumentar dos Registos e do Notariado\n\nOs artigos 15.º, 16.º-A, 18.º, 22.º, 23.º, 27.º e 28.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 315/2002, de 27 de Dezembro, pela Lei n.º 32-B/2002, de 30 de Dezembro, pelos Decretos-Leis n.os 194/2003, de 23 de Agosto, 53/2004, de 18 de Março, 199/2004, de 18 de Agosto, 111/2005, de 8 de Julho, 178 -A/2005, de 28 de Outubro, 76-A/2006, de 29 de Março, 85/2006, de 23 de Maio, 125/2006, de 29 de Junho, 237-A/2006, de 14 de Dezembro, 8/2007, de 17 de Janeiro, e 263-A/2007, de 23 de Julho, pela Lei n.º 40/2007, de 24 de Agosto, e pelos Decretos-Leis n.os 324/2007, de 28 de Setembro, 20/2008, de 31 de Janeiro, 73/2008, de 16 de Abril, e 116/2008, de 4 de Julho, passam a ter a seguinte redacção:\n\n«Artigo 15.º\n\n[...]\n\n1 - ...\n\n2 - São ainda gratuitos os seguintes actos:\n\na) ...\n\nb) Rectificação dos actos de registo de alteração de firma ou denominação efectuados na sequência da emissão de novo certificado de admissibilidade de firma ou denominação determinado por aprovação indevida dos serviços ou assim considerada por decisão judicial;\n\nc) [Anterior alínea b).]\n\nd) [Anterior alínea c).]\n\ne) [Anterior alínea d).]\n\nf) [Anterior alínea e).]\n\ng) [Anterior alínea f).]\n\nh) [Anterior alínea g).]\n\nArtigo 16.º-A\n\n[...]\n\nSão gratuitos os seguintes actos:\n\na) ...\n\nb) ...\n\nc) Emissão de novo certificado de admissibilidade de firma ou denominação determinada por aprovação indevida dos serviços ou assim considerada por decisão judicial;\n\nd) Alteração do código de actividade económica (CAE);\n\ne) [Anterior alínea c).]\n\nf) [Anterior alínea d).]\n\nArtigo 18.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - Processos especiais e procedimentos perante o conservador:\n\n6.1 - ...\n\n6.2 - Processos de divórcio e de separação de pessoas e bens integrando a partilha e o registo do património conjugal, independentemente do número de bens imóveis ou móveis ou participações sociais sujeitos a registo, não havendo cobrança de emolumentos pessoais nos processos a que respeita este número - (euro) 475.\n\n6.2.1 - Partilha e o registo do património conjugal - (euro) 250.\n\n6.2.2 - Pela desistência do procedimento de partilha - (euro) 50.\n\n6.3 - ...\n\n6.4 - ...\n\n6.5 - ...\n\n6.6 - ...\n\n6.7 - ...\n\n6.8 - ...\n\n6.9 - ...\n\n6.10 - Procedimento simplificado de sucessão hereditária:\n\n6.10.1 - ...\n\n6.10.2 - Habilitação de herdeiros e registo dos bens integrados em herança indivisa ou de transmissão de bens - (euro) 250.\n\n6.10.3 - Habilitação de herdeiros e partilha e registo dos bens partilhados - (euro) 300.\n\n6.10.4 - Pela partilha e registo dos bens partilhados - (euro) 250.\n\n6.10.5 - Os emolumentos previstos nos n.os 6.10.2 a 6.10.4 incluem todos os registos a que haja lugar dos bens imóveis ou móveis ou participações sociais sujeitos a registo, independentemente do seu número.\n\n6.10.6 - (Anterior n.º 6.10.4.)\n\n6.10.7 - (Anterior n.º 6.10.5.)\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\nArtigo 22.º\n\n[...]\n\n1 - Os emolumentos previstos neste artigo são devidos pelo pedido de registo e têm um valor único, incluindo os montantes relativos aos actos subsequentes de inscrição no ficheiro central de pessoas colectivas e de publicação obrigatória, bem como os montantes a pagar a título de emolumentos pessoais, quando estes sejam devidos.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - A desistência do pedido de registo não dá lugar à restituição dos emolumentos cobrados.\n\n12 - A recusa do pedido de registo não dá lugar à restituição dos emolumentos cobrados.\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - ...\n\n17 - ...\n\n18 - ...\n\n19 - ...\n\n20 - ...\n\n21 - ...\n\n22 - ...\n\n23 - ...\n\n24 - ...\n\n25 - ...\n\nArtigo 23.º\n\n[...]\n\n1 - ...\n\n2 - Certificados de admissibilidade de firma ou denominação:\n\n2.1 - Pelo pedido de emissão do certificado - (euro) 56.\n\n2.2 - Pela urgência na emissão do certificado são acrescidos em 50 % os respectivos emolumentos.\n\n2.3 - Invalidação da emissão do certificado - (euro) 8.\n\n2.4 - A desistência do pedido de emissão do certificado não dá lugar à restituição dos emolumentos cobrados.\n\n2.5 - O indeferimento do pedido de emissão do certificado não dá lugar à restituição dos emolumentos cobrados.\n\n2.6 - No caso previsto no número anterior o emolumento pago pode ser transferido, uma única vez, para o novo pedido do mesmo requerente a apresentar no prazo máximo de 10 dias úteis.\n\n3 - ...\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - ...\n\n7 - Certidões e cópias de registo informático e de documentos:\n\n7.1 - Requisição e emissão de certidão ou cópia de registo informático e de documentos - (euro) 10.\n\n7.2 - Emissão de certidão ou cópia de registo informático e de documentos quando requeridas por pessoas colectivas religiosas - (euro) 5.\n\n7.3 - (Revogado.)\n\n7.4 - (Revogado.)\n\n7.5 - ...\n\n8 - ...\n\nArtigo 27.º\n\n[...]\n\n1 - ...\n\n2 - (Revogado.)\n\n3 - Regimes especiais de constituição imediata de sociedades e associações e de constituição online de sociedades:\n\n3.1 - ...\n\n3.2 - ...\n\n3.3 - Os emolumentos previstos nos n.os 3.1 e 3.2 têm um valor único, incluem a aprovação de firma ou denominação no posto de atendimento e, no caso do n.º 3.1, incluem o custo da publicação obrigatória e todos os actos de registo comercial, predial e de veículos a que deva haver lugar.\n\n3.4 - ...\n\n3.5 - ...\n\n3.6 - ...\n\n3.7 - Os emolumentos previstos nos n.os 3.5 e 3.6 têm um valor único e incluem a verificação da admissibilidade e aprovação de firma e ainda o custo da publicação obrigatória do registo.\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\nArtigo 28.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - ...\n\n17 - ...\n\n18 - ...\n\n19 - ...\n\n20 - ...\n\n21 - ...\n\n22 - ...\n\n23 - ...\n\n24 - ...\n\n25 - Os emolumentos devidos por actos de registo previstos nos artigos 22.º e 25.º, quando promovidos por via electrónica, são reduzidos em 50 %, quanto a todas as verbas que os compõem.\n\n26 - Os emolumentos devidos por actos de registo predial previstos nos n.os 2.1, 2.3 e 2.5 do artigo 21.º, quando promovidos por via electrónica, são reduzidos em 20 % quando não sejam requeridos, nem devam ser efectuados como provisórios, nos termos das alíneas g), h), i) e j) do n.º 1 do artigo 92.º do Código do Registo Predial.\n\n27 - Os emolumentos devidos por actos de registo predial previstos nos n.os 2.9, 2.12 e 3 do artigo 21.º, quando promovidos por via electrónica, são reduzidos em 20 %.\n\n28 - (Anterior n.º 26.)\n\n29 - (Anterior n.º 27.)\n\n30 - (Anterior n.º 28.)\n\n31 - (Anterior n.º 29.)»"
+  },
+  "46132875": {
+   "fragment_id": "36783675",
+   "type": 11,
+   "heading": "Artigo 34.º — Alteração ao Decreto-Lei n.º 111/2005, de 8 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Alteração ao Decreto-Lei n.º 111/2005, de 8 de Julho\n\nOs artigos 2.º, 3.º, 4.º, 7.º a 15.º e 27.º do Decreto-Lei n.º 111/2005, de 8 de Julho, com a redacção dada pelos Decretos-Leis n.os 76-A/2006, de 29 de Março, 125/2006, de 29 de Junho, e 318/2007, de 26 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\nO regime previsto no presente diploma não é aplicável:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) ...\n\nArtigo 3.º\n\nPressupostos de aplicação\n\n1 - São pressupostos de aplicação do regime previsto no presente diploma:\n\na) A opção por pacto ou acto constitutivo de modelo aprovado pelo presidente do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.);\n\nb) Se o capital da sociedade for total ou parcialmente realizado mediante entradas em bens diferentes de dinheiro sujeitos a registo, os bens estiverem registados definitivamente em nome do sócio que os dá como entrada.\n\n2 - No caso previsto na alínea b) do número anterior, os serviços de registo devem verificar oficiosamente a titularidade dos bens, através do acesso directo às bases de dados respectivas.\n\n3 - É ainda pressuposto da aplicação do regime previsto no presente diploma a escolha da firma da sociedade através de uma das seguintes formas:\n\na) Aprovação no posto de atendimento;\n\nb) Escolha de firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado;\n\nc) Apresentação de certificado de admissibilidade de firma.\n\n4 - A competência dos serviços de registo para a aprovação de firma referida na alínea a) do número anterior é atribuída por despacho do presidente do IRN, I. P.\n\nArtigo 4.º\n\n[...]\n\n1 - O regime a que se refere o artigo 1.º é da competência das conservatórias do registo comercial, ou de quaisquer outros serviços desconcentrados do IRN, I. P., independentemente da localização da sede da sociedade a constituir.\n\n2 - ...\n\n3 - A competência prevista nos números anteriores abrange a tramitação integral do procedimento, incluindo a prática de todos os actos de registo comercial, predial ou de veículos efectuados em consequência do procedimento.\n\n4 - ...\n\nArtigo 7.º\n\n[...]\n\n1 - Para o efeito da constituição da sociedade, os interessados devem apresentar os documentos comprovativos da sua identidade, capacidade e poderes de representação para o acto, bem como autorizações especiais que sejam necessárias.\n\n2 - ...\n\n3 - Sendo o capital total ou parcialmente realizado mediante entradas em bens diferentes de dinheiro, deve ser apresentado o relatório elaborado por um revisor oficial de contas sem interesses na sociedade, nos termos do artigo 28.º do Código das Sociedades Comerciais.\n\n4 - No caso de o capital social ser realizado mediante a entrada de imóveis, deve ser preferencialmente comprovada por acesso à base de dados, ou mediante a apresentação dos respectivos documentos pelos interessados:\n\na) A situação matricial do prédio;\n\nb) A existência ou dispensa de licença de utilização ou de licença de construção, quando exigível;\n\nc) A existência de ficha técnica do prédio, quando exigível;\n\nd) A inexistência de manifestação da intenção de exercer o direito de preferência legal por parte do Estado, Regiões Autónomas, municípios, outras pessoas colectivas públicas ou empresas públicas.\n\n5 - A mera referência à existência de licença de utilização ou o facto de que resulte a respectiva dispensa efectuada em caderneta predial, em base de dados de serviço da Administração Pública ou em documento autêntico, constitui prova bastante para os efeitos do disposto na alínea b) do número anterior.\n\n6 - (Anterior n.º 3.)\n\n7 - (Anterior n.º 4.)\n\n8 - (Anterior n.º 5.)\n\nArtigo 8.º\n\n[...]\n\n1 - Efectuada a verificação inicial da identidade, da capacidade e dos poderes de representação dos interessados para o acto, bem como a regularidade dos documentos apresentados, o serviço competente procede aos seguintes actos, pela ordem indicada:\n\na) ...\n\nb) Promoção da liquidação do IMT, nos termos declarados pelo contribuinte, e de outros impostos que se mostrem devidos, tendo em conta os negócios jurídicos a celebrar, assegurando o seu pagamento prévio à celebração do negócio jurídico;\n\nc) Aprovação de firma nos termos da alínea a) do n.º 3 do artigo 3.º ou afectação, por via informática e a favor da sociedade a constituir, da firma escolhida ou da firma e marca escolhidas e do número de identificação de pessoa colectiva (NIPC) associado à firma nos casos previstos na alínea b) do n.º 3 do artigo 3.º;\n\nd) [Anterior alínea c).]\n\ne) [Anterior alínea d).]\n\nf) Anotação de apresentação dos pedidos verbais de registo nos respectivos diários;\n\ng) Registo de constituição de sociedade e de outros factos sujeitos a registo comercial, predial e de veículos a serem efectuados em consequência do procedimento;\n\nh) Comunicação automática e electrónica da constituição da sociedade ao ficheiro central de pessoas colectivas e, se for o caso, codificação da actividade económica (CAE);\n\ni) Disponibilização imediata do cartão electrónico da empresa mediante a atribuição de código de acesso, bem como comunicação aos interessados do número de identificação da sociedade na segurança social;\n\nj) [Anterior alínea i).]\n\n2 - A atribuição de firma referida na primeira parte da alínea c) do número anterior ocorre com a aprovação da primeira das firmas requeridas que for viável.\n\n3 - A realização dos actos previstos no n.º 1 é da competência do conservador e dos oficiais de registo, com excepção dos actos que envolvam entradas em imóveis que são da competência do conservador, sem prejuízo da possibilidade de delegação em oficial de registo.\n\nArtigo 9.º\n\n[...]\n\n1 - O conservador deve recusar a realização do acto previsto na alínea d) do n.º 1 do artigo anterior sempre que verifique a existência de omissões, vícios ou deficiências que afectem a formação e exteriorização da vontade dos intervenientes no acto ou nos documentos que devam instruir e que obstem à realização, com carácter definitivo, do registo da constituição de sociedade ou de qualquer outro registo incluído no procedimento, bem como quando, em face das disposições legais aplicáveis, o acto não seja viável.\n\n2 - O conservador deve ainda recusar a realização do acto previsto na alínea d) do n.º 1 do artigo anterior quando o acto seja anulável ou ineficaz.\n\n3 - ...\n\n4 - ...\n\nArtigo 10.º\n\n[...]\n\n1 - Nos casos previstos na alínea b) do n.º 3 do artigo 3.º, o serviço competente deve completar a composição da firma com os aditamentos legalmente impostos assim como com qualquer expressão alusiva ao objecto social que os interessados optem por inserir entre a expressão de fantasia escolhida e os referidos aditamentos.\n\n2 - ...\n\nArtigo 11.º\n\n[...]\n\nA não conclusão do procedimento no prazo previsto no artigo 5.º por facto imputável aos interessados determina a caducidade do direito ao uso da firma, ou da firma e marca escolhidas afectas à sociedade a constituir, nos termos da alínea c) do n.º 1 do artigo 8.º\n\nArtigo 12.º\n\nDocumentos a disponibilizar à sociedade\n\n1 - Concluído o procedimento de constituição da sociedade, o serviço competente entrega de imediato aos representantes da sociedade, a título gratuito:\n\na) Uma certidão do pacto ou acto constitutivo do registo deste último;\n\nb) Sendo caso disso, disponibilização online das certidões de registo a que haja lugar através da atribuição do código de acesso e promoção da emissão do certificado de matrícula;\n\nc) [Anterior alínea b).]\n\nd) [Anterior alínea c).]\n\n2 - Nos casos previstos na alínea d) do número anterior, é dispensado o documento escrito e assinado pelas partes, previsto no n.º 6 do artigo 31.º do Código da Propriedade Industrial, e não há lugar à emissão do título de concessão previsto no artigo 27.º do mesmo diploma.\n\n3 - O serviço procede ainda ao envio posterior do cartão da empresa a título gratuito.\n\nArtigo 13.º\n\n[...]\n\n1 - ...\n\n2 - No mesmo prazo, o serviço que conduziu o procedimento deve remeter a pasta da sociedade à conservatória do registo comercial da área da respectiva sede.\n\n3 - ...\n\nArtigo 14.º\n\n[...]\n\n1 - Pelo procedimento de constituição de sociedade regulado no presente diploma são devidos encargos relativos:\n\na)...\n\nb)...\n\nc)...\n\nd) Ao Imposto Municipal sobre Transmissões Onerosas de Imóveis, nos termos declarados pelo contribuinte, e outros impostos que se mostrem devidos, tendo em conta os negócios jurídicos a celebrar, devendo ser assegurado o seu pagamento prévio à celebração do negócio jurídico, sem prejuízo do disposto na alínea b);\n\ne) [Anterior alínea d).]\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArtigo 15.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - As marcas constantes da bolsa referida no número anterior são registadas a favor do Estado, representado pelo RNPC, para os produtos e serviços definidos por despacho conjunto do presidente do IRN, I. P., e do presidente do conselho de administração do INPI.\n\n4 - Até à sua afectação nos termos da segunda parte da alínea c) do n.º 1 do artigo 8.º, as firmas constantes das bolsas referidas nos n.os 1 e 2 gozam de protecção em todo o território nacional.\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\nArtigo 27.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Decorrido o período experimental previsto no n.º 1, a extensão do regime a outros serviços depende:\n\na) ...\n\nb) De despacho do presidente do IRN, I. P., quanto a serviços dependentes do IRN, I. P., não integrados nos CFE.»"
+  },
+  "46132975": {
+   "fragment_id": "36783775",
+   "type": 11,
+   "heading": "Artigo 35.º — Aditamento ao Decreto-Lei n.º 111/2005, de 8 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Aditamento ao Decreto-Lei n.º 111/2005, de 8 de Julho\n\nÉ aditado o artigo 4.º-A ao Decreto-Lei n.º 111/2005, de 8 de Julho, com a redacção dada pelos Decretos-Leis n.os 76-A/2006, de 29 de Março, 125/2006, de 29 de Junho, e 318/2007, de 26 de Setembro, com a seguinte redacção:\n\n«Artigo 4.º-A\n\nMarcação prévia no caso de entradas em espécie\n\nOs procedimentos de constituição imediata de sociedades em que o capital seja total ou parcialmente realizado mediante entradas em bens diferentes de dinheiro sujeitos a registo, podem ser realizados mediante agendamento da data da realização do negócio jurídico, nos termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.»"
+  },
+  "46133075": {
+   "fragment_id": "36783875",
+   "type": 11,
+   "heading": "Artigo 36.º — Alteração ao Decreto-Lei n.º 125/2006, de 29 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Alteração ao Decreto-Lei n.º 125/2006, de 29 de Junho\n\nOs artigos 6.º e 12.º do Decreto-Lei n.º 125/2006, de 29 de Junho, com a redacção dada pelo Decreto-Lei n.º 318/2007, de 26 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 6.º\n\n[...]\n\n1 - Os interessados na constituição da sociedade formulam o seu pedido online praticando, entre outros que se mostrem necessários, os seguintes actos:\n\na) Opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado, pela aprovação electrónica e automática da firma nos termos do artigo 50.º-A do regime do RNPC ou pela verificação da admissibilidade e aprovação de firma;\n\nb) Não se optando por nenhuma das possibilidades previstas na alínea anterior, indicação de firma constante de certificado de admissibilidade de firma previamente obtido;\n\nc) ...\n\nd) ...\n\ne)...\n\nf)...\n\n2 - ...\n\n3 - Se se tiver requerido a verificação e aprovação de firma nos termos da parte final da alínea a) do n.º 1, o pedido deve ser apreciado no prazo máximo de um dia útil, sendo aprovada a primeira das firmas requeridas que for viável.\n\n4 - ...\n\n5 - Uma vez iniciado o procedimento ou aprovada a firma nos termos da parte final da alínea a) do n.º 1, o pedido online deve ser submetido pelos interessados no prazo máximo de vinte e quatro horas.\n\n6 - ...\n\nArtigo 12.º\n\n[...]\n\n1 - ...\n\n2 - O serviço competente deve proceder aos seguintes actos:\n\na) ...\n\nb) Comunicação automática e electrónica da constituição da sociedade ao ficheiro central de pessoas colectivas e, se for o caso, codificação da actividade económica (CAE).\n\n3 - O serviço competente deve ainda proceder aos seguintes actos:\n\na) Comunicação do código de acesso do cartão electrónico da empresa e do número de identificação da sociedade na segurança social e envio posterior do cartão da empresa a título gratuito;\n\nb) ...\n\nc) Disponibilização gratuita de código de acesso à certidão permanente da sociedade pelo período de um ano;\n\nd)...\n\ne) ...\n\nf)...\n\ng)...\n\nh) Envio da pasta da sociedade à conservatória do registo comercial da área da respectiva sede.\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...»"
+  },
+  "46133175": {
+   "fragment_id": "36783975",
+   "type": 11,
+   "heading": "Artigo 37.º — Alteração à Lei n.º 40/2007, de 24 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Alteração à Lei n.º 40/2007, de 24 de Agosto\n\nOs artigos 2.º, 7.º, 9.º, 10.º e 11.º da Lei n.º 40/2007, de 24 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\nPressuposto de aplicação e escolha de denominação\n\n1 - É pressuposto da aplicação do regime previsto na presente lei a opção por estatutos de modelo aprovado por deliberação do presidente do Instituto dos Registos e do Notariado, I. P., desde que o mesmo se adeqúe ao fim da associação que se pretende constituir.\n\n2 - A escolha da denominação da associação pode fazer-se através da opção por:\n\na) Uma denominação aprovada no posto de atendimento;\n\nb) Uma denominação constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado;\n\nc) Apresentação de certificado de admissibilidade de denominação.\n\n3 - A competência dos serviços de registo para a aprovação da denominação referida na alínea a) do número anterior é atribuída por despacho do presidente do Instituto dos Registos e do Notariado, I. P.\n\nArtigo 7.º\n\n[...]\n\n1 - ...\n\na)...\n\nb) Aprovação de denominação nos termos da alínea a) do n.º 2 do artigo 2.º ou afectação, por via informática e a favor da associação a constituir, da denominação escolhida ou da denominação e marca escolhidas e do número de identificação de pessoa colectiva (NIPC) associado à denominação, nos casos previstos na alínea b) do n.º 2 do artigo 2.º\n\nc)...\n\nd)...\n\ne) Comunicação automática e electrónica da constituição da associação ao ficheiro central de pessoas colectivas e, se for o caso, codificação da actividade económica (CAE);\n\nf) Disponibilização imediata do cartão electrónico de pessoa colectiva mediante a atribuição de código de acesso e comunicação aos interessados do número de identificação da associação na segurança social;\n\ng)...\n\nh)...\n\ni)...\n\n2 - A atribuição de denominação referida na primeira parte da alínea b) do número anterior ocorre com a aprovação da primeira das denominações requeridas que for viável.\n\n3 - (Anterior n.º 2.)\n\nArtigo 9.º\n\n[...]\n\n1 - Nos casos previstos na alínea b) do n.º 2 do artigo 2.º, o serviço competente deve completar a composição da denominação com a menção do elemento indicativo da natureza associativa da entidade, assim como com a menção de qualquer expressão alusiva aos fins estatutários que os interessados optem por inserir naquela.\n\n2 - ...\n\n3 - (Revogado.)\n\nArtigo 10.º\n\n[...]\n\nA não conclusão do procedimento no prazo previsto no artigo 4.º por facto imputável aos interessados determina a caducidade do direito ao uso da denominação aprovada ou escolhida ou da denominação e marca escolhidas afectas à associação a constituir, nos termos da alínea b) do n.º 1 do artigo 7.º, não conferindo o direito à restituição dos encargos cobrados.\n\nArtigo 11.º\n\n[...]\n\n1 - ...\n\n2 - O serviço procede ainda ao envio posterior do cartão de pessoa colectiva a título gratuito.»"
+  },
+  "46133275": {
+   "fragment_id": "36784075",
+   "type": 11,
+   "heading": "Artigo 38.º — Alteração ao Decreto-Lei n.º 73/2008, de 16 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Alteração ao Decreto-Lei n.º 73/2008, de 16 de Abril\n\nOs artigos 5.º e 7.º do Decreto-Lei n.º 73/2008, de 16 de Abril, passam a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - Efectuada a verificação inicial da identidade e da legitimidade dos interessados para o acto, bem como a regularidade dos documentos apresentados, o serviço competente procede aos seguintes actos pela ordem indicada:\n\na) ...\n\nb) ...\n\nc)...\n\nd) Comunicação automática e electrónica da criação da representação permanente ao ficheiro central de pessoas colectivas e codificação da actividade económica (CAE);\n\ne)...\n\nf)...\n\n2 - ...\n\n3 - ...\n\nArtigo 7.º\n\nDocumentos a disponibilizar e a entregar aos interessados\n\n1 - Concluído o procedimento de criação da representação permanente, os interessados são advertidos de que devem entregar a declaração de início de actividade no serviço competente, no prazo legalmente fixado para o efeito, e é-lhes disponibilizado e entregue, de imediato, a título gratuito:\n\na) Cartão electrónico da empresa mediante a atribuição de código de acesso;\n\nb) ...\n\nc)...\n\n2 - ...\n\n3 - O serviço procede ainda ao envio posterior do cartão da empresa a título gratuito.»"
+  },
+  "46133375": {
+   "fragment_id": "35456075",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "46133475": {
+   "fragment_id": "36784175",
+   "type": 11,
+   "heading": "Artigo 39.º — Cartões de identificação de pessoa colectiva e de identificação fiscal de pessoa colectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Cartões de identificação de pessoa colectiva e de identificação fiscal de pessoa colectiva\n\n1 - Os cartões de identificação de pessoa colectiva e de identificação fiscal de pessoa colectiva deixam de ser emitidos a partir da data de entrada em vigor do presente decreto-lei.\n\n2 - Os cartões de identificação de pessoa colectiva e de identificação fiscal que já tenham sido emitidos antes da entrada em vigor do presente decreto-lei mantêm a sua validade"
+  },
+  "46133575": {
+   "fragment_id": "36784275",
+   "type": 11,
+   "heading": "Artigo 40.º — Cartão electrónico das empresas e das pessoas colectivas existentes antes da entrada em vigor do presente decreto-lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Cartão electrónico das empresas e das pessoas colectivas existentes antes da entrada em vigor do presente decreto-lei\n\nO acesso ao cartão electrónico das empresas e das pessoas colectivas existentes antes da entrada em vigor do presente decreto-lei só pode ser efectuado com a emissão de cartão da empresa ou de cartão de pessoa colectiva, realizada a pedido dos interessados."
+  },
+  "46133675": {
+   "fragment_id": "36784375",
+   "type": 11,
+   "heading": "Artigo 41.º — Protocolo de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Protocolo de financiamento\n\nA repartição das receitas obtidas através do cartão da empresa, do cartão de pessoa colectiva e do SICAE é realizada através de protocolo celebrado entre o IRN, I. P., e a Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros."
+  },
+  "46133775": {
+   "fragment_id": "36784475",
+   "type": 11,
+   "heading": "Artigo 42.º — Princípio da novidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Princípio da novidade\n\n1 - Nos juízos a que se refere o n.º 2 do artigo 33.º do Regime do RNPC, aprovado pelo Decreto-Lei n.º 129/98, de 13 de Maio, deve ser ainda considerada a existência de nomes de estabelecimentos, insígnias ou marcas de tal forma coincidentes ou semelhantes que possam induzir em erro sobre a titularidade desses sinais distintivos, desde que essa titularidade tenha sido comprovada junto do RNPC antes da entrada em vigor do presente decreto-lei.\n\n2 - São eliminados da base de dados do RNPC os nomes de estabelecimento, insígnia de estabelecimento e marcas que por força das disposições do Código da Propriedade Industrial já tenham cessado a sua vigência."
+  },
+  "46133875": {
+   "fragment_id": "36784575",
+   "type": 11,
+   "heading": "Artigo 43.º — Conservação de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Conservação de documentos\n\nOs pedidos de certificado de admissibilidade de firma ou denominação e de inscrição apresentados até à entrada em vigor do presente decreto-lei devem ser digitalizados e conservados em suporte informático, devendo ser posteriormente destruídos."
+  },
+  "46133975": {
+   "fragment_id": "36784675",
+   "type": 11,
+   "heading": "Artigo 44.º — Invalidação de certificados emitidos em suporte físico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Invalidação de certificados emitidos em suporte físico\n\nA invalidação de certificado de admissibilidade de firma ou denominação emitido em suporte físico antes da entrada em vigor do presente decreto-lei deve ser pedida pelo requerente do certificado, mediante a entrega do respectivo original."
+  },
+  "46134075": {
+   "fragment_id": "36784775",
+   "type": 11,
+   "heading": "Artigo 45.º — Procedimento especial de constituição imediata de sociedades com recurso a entradas em espécie",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Procedimento especial de constituição imediata de sociedades com recurso a entradas em espécie\n\nA competência dos serviços de registo para o procedimento especial de constituição imediata de sociedades com recurso a entradas em espécie, previsto no Decreto-Lei n.º 111/2005, de 8 de Julho, na redacção dada pelo presente decreto-lei, é atribuída por despacho do presidente do IRN, I. P."
+  },
+  "46134175": {
+   "fragment_id": "36784875",
+   "type": 11,
+   "heading": "Artigo 46.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 267/93, de 31 de Julho;\n\nb) O Decreto-Lei n.º 12/2001, de 25 de Janeiro;\n\nc) O n.º 3 do artigo 4.º, o n.º 2 do artigo 10.º, os artigos 16.º a 20.º, os n.os 4 a 7 do artigo 22.º, o n.º 7 do artigo 33.º, o n.º 5 do artigo 38.º, o artigo 41.º, os n.os 2 e 3 do artigo 45.º, os n.os 2 a 5 do artigo 46.º, o artigo 48.º, os n.os 2 e 3 do artigo 51.º, os n.os 2 e 4 do artigo 53.º, os artigos 57.º e 59.º, o n.º 2 do artigo 63.º, os artigos 64.º, 68.º, 71.º, 73.º, as alíneas b) e e) do artigo 80.º-A, o n.º 2 do artigo 87.º e o artigo 90.º do Regime do Registo Nacional de Pessoas Colectivas;\n\nd) O n.º 3 do artigo 45.º, a alínea g) do n.º 1 do artigo 48.º e o n.º 4 do artigo 53.º-A do Código do Registo Comercial;\n\ne) O n.º 2 do artigo 70.º, o n.º 5 do artigo 210.º-G e a alínea c) do n.º 1 do artigo 270.º do Código do Registo Civil;\n\nf) Os n.os 4, 5, 7.3 e 7.4 do artigo 23.º e o n.º 2 do artigo 27.º do Regulamento Emolumentar e dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro;\n\ng) As alíneas a) e b) do artigo 2.º e o artigo 15.º-A do Decreto-Lei n.º 111/2005, de 8 de Julho;\n\nh) O artigo 14.º-A do Decreto-Lei n.º 125/2006, de 29 de Junho;\n\ni) O n.º 3 do artigo 9.º da Lei n.º 40/2007, de 24 de Agosto;\n\nj) O n.º 2 do artigo 24.º do Decreto-Lei n.º 324/2007, de 24 de Setembro."
+  },
+  "46134275": {
+   "fragment_id": "36784975",
+   "type": 11,
+   "heading": "Artigo 47.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Disposições transitórias\n\n1 - Os pedidos de emissão de cartão de identificação de pessoa colectiva e de cartão de identificação fiscal de pessoa colectiva que estejam pendentes na data de entrada em vigor do presente decreto-lei são convertidos em pedidos de emissão de cartão da empresa ou de pessoa colectiva, com devolução aos requerentes dos montantes cobrados em excesso através das conservatórias do registo comercial, constituindo encargo do IRN, I. P.\n\n2 - Os certificados de admissibilidade de firma ou denominação emitidos até à entrada em vigor do presente decreto-lei são válidos pelo prazo neles indicado.\n\n3 - Até ao dia 1 de Janeiro de 2009, a disponibilização online das certidões de registo referidas na alínea b) do n.º 1 do artigo 12.º do Decreto-Lei n.º 111/2005, de 8 de Julho, na redacção dada pelo presente decreto-lei, é realizada mediante a entrega de certidões em suporte de papel.\n\n4 - A apresentação de certificado de admissibilidade emitido pelo RNPC antes da entrada em vigor do presente decreto-lei, no âmbito do regime especial de constituição online de sociedades, previsto no Decreto-Lei n.º 125/2006, de 29 de Junho, implica a sua inutilização pelos interessados mediante a inscrição do seu nome, da sua assinatura, da data e, se se tratar de advogado ou solicitador, da aposição do respectivo carimbo profissional no espaço reservado para o efeito para os oficiais públicos."
+  },
+  "46134375": {
+   "fragment_id": "36785075",
+   "type": 11,
+   "heading": "Artigo 48.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Entrada em vigor\n\n1 - O disposto no presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O disposto no capítulo iii entra em vigor no dia 6 de Abril de 2009."
+  },
+  "107519562": {
+   "fragment_id": "38452875",
+   "type": 11,
+   "heading": "Artigo 14.º — Taxas",
+   "in_force_from": "2015-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2015-70300348), em vigor a partir de 2015-10-01"
+   ],
+   "markdown": "###### Artigo 14.º — Taxas\n\nPela emissão do cartão da empresa ou do cartão de pessoa coletiva são devidas taxas de montante fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\n> Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2015-70300348), em vigor a partir de 2015-10-01"
+  },
+  "46134475": {
+   "fragment_id": "35456175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Idália Maria Marques Salvador Serrão de Menezes Moniz.\n\nPromulgado em 5 de Dezembro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 10 de Dezembro de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "107519563": {
+   "fragment_id": "38453175",
+   "type": 11,
+   "heading": "Artigo 17.º — Definição e conteúdo",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 17.º — Definição e conteúdo\n\n1 - O SICAE constitui um subconjunto do FCPC que integra, em suporte electrónico e permanentemente actualizado, a informação sobre o código CAE das pessoas colectivas e entidades equiparadas previstas no artigo 3.º, com excepção dos comerciantes e dos empresários individuais inscritos no FCPC.\n\n2 - Para efeitos do disposto no número anterior, o SICAE integra, designadamente, a seguinte informação:\n\na) Nome, firma ou denominação;\n\nb) NIPC;\n\nc) CAE principal;\n\nd) CAE secundárias.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-07-01"
+  },
+  "107519564": {
+   "fragment_id": "38453375",
+   "type": 11,
+   "heading": "Artigo 19.º — Entidades competentes",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 19.º — Entidades competentes\n\nSem prejuízo das competências legalmente atribuídas ao Conselho Superior de Estatística no âmbito da CAE - Rev. 3, a coordenação, gestão e manutenção do SICAE compete às seguintes entidades:\n\na) Instituto Nacional de Estatística (INE);\n\nb) IRN, I. P.;\n\nc) Autoridade Tributária e Aduaneira (AT).\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-07-01"
+  },
+  "107519565": {
+   "fragment_id": "38453575",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração oficiosa do código CAE",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 21.º — Alteração oficiosa do código CAE\n\n1 - O código CAE é alterado oficiosamente:\n\na) Pelo INE, na sequência de inquéritos ou outras operações estatísticas promovidos nos termos da lei;\n\nb) Pela DGCI, na sequência de acções de inspecção tributária promovidas nos termos da lei;\n\nc) Pelo IRN, I. P., na sequência da inscrição de alteração do objecto social da pessoa colectiva ou entidade equiparada no FCPC.\n\n2 - A pessoa coletiva ou entidade equiparada considera-se notificada da alteração do código CAE efetuada nos termos do número anterior, através da divulgação promovida no sítio na Internet com o endereço www.sicae.pt.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-07-01"
+  },
+  "107519566": {
+   "fragment_id": "38453675",
+   "type": 11,
+   "heading": "Artigo 22.º — Pedido de alteração do código CAE",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 22.º — Pedido de alteração do código CAE\n\n1 - A pessoa colectiva ou entidade equiparada pode solicitar a alteração do respectivo código CAE, principal ou secundário.\n\n2 - O pedido de alteração do código CAE é efectuado:\n\na) Electronicamente, através do sítio na Internet com o endereço www.e-financas.gov.pt; ou\n\nb) Presencialmente, junto dos serviços de finanças.\n\n3 - A alteração do código CAE solicitada nos termos do número anterior é automaticamente efectuada, sem prejuízo das validações asseguradas por via electrónica.\n\n4 - A alteração automática referida no número anterior terá uma validação manual posterior, para as situações que apresentem mais de 10 CAE secundárias.\n\n5 - A pessoa coletiva ou entidade equiparada responde pela alteração indevida no SICAE do seu código CAE, principal ou secundário.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-07-01"
+  },
+  "907093636": {
+   "fragment_id": "38453375",
+   "type": 11,
+   "heading": "Artigo 19.º — Entidades competentes",
+   "in_force_from": "2025-02-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 9/2025 - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2025-907097147), em vigor a partir de 2025-02-17, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 19.º — Entidades competentes\n\nSem prejuízo das competências legalmente atribuídas ao Conselho Superior de Estatística, a coordenação, gestão e manutenção do SICAE compete às seguintes entidades:\n\na) Instituto Nacional de Estatística (INE);\n\nb) IRN, I. P.;\n\nc) Autoridade Tributária e Aduaneira (AT).\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 9/2025 - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2025-907097147), em vigor a partir de 2025-02-17, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-07-01"
+  }
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:226188:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-156697051",
+ "dre_path": "/dr/detalhe/decreto-lei/102-2005-226188",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-06-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156697134",
+    "156697135",
+    "156697136",
+    "156697137",
+    "156697138",
+    "156697139",
+    "156697140",
+    "156697141",
+    "156697142"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "156697134",
+    "156697135",
+    "156697136",
+    "156697171",
+    "156697172",
+    "156697139",
+    "156697173",
+    "156697174",
+    "156697142",
+    "156697143"
+   ]
+  }
+ ],
+ "fragments": {
+  "156697134": {
+   "fragment_id": "156697052",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 102/2005\n\nde 23 de Junho\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2003&id=303R1829\" title=\"Link para Regulamento da Comunidade Europeia\">1829/2003</a>, do Parlamento Europeu e do Conselho, de 22 de Setembro, relativo a géneros alimentícios e alimentos geneticamente modificados para animais (OGM), tem por objectivo garantir um elevado nível de protecção da vida e da saúde humanas, da saúde e do bem-estar dos animais, do ambiente e dos interesses dos consumidores, assegurando simultaneamente o funcionamento eficaz do mercado interno.\n\nNele se estabelecem os procedimentos comunitários para a autorização e supervisão dos géneros alimentícios e alimentos geneticamente modificados para animais, fixando igualmente as disposições sobre a respectiva rotulagem, determinando que os Estados membros tomem as medidas necessárias para garantir a sua aplicação.\n\nAssim, não obstante a obrigatoriedade da aplicabilidade directa do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2003&id=303R1829\" title=\"Link para Regulamento da Comunidade Europeia\">1829/2003</a> em todos os Estados membros, torna-se necessário tipificar as infracções e respectivas sanções, que devem ser efectivas, proporcionadas e dissuasivas, em caso de violação do referido regulamento comunitário.\n\nCumprindo a exigência do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2003&id=303R1829\" title=\"Link para Regulamento da Comunidade Europeia\">1829/2003</a>, do Parlamento Europeu e do Conselho, de 22 de Setembro, este diploma designa as autoridades nacionais às quais deverão ser dirigidos os pedidos de autorização de colocação no mercado de organismos geneticamente modificados (OGM) destinados à alimentação humana e à alimentação animal, de géneros alimentícios e de alimentos para animais que contenham ou sejam constituídos por OGM, assim como de géneros alimentícios e de alimentos para animais produzidos a partir de ou que contenham ingredientes produzidos a partir de OGM.\n\nEste diploma atribui ainda poderes à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar e à Direcção-Geral de Veterinária para, de acordo com as suas atribuições, fiscalizarem o cumprimento do regulamento comunitário e prevê os factos ilícitos e censuráveis que podem constituir contra-ordenações, sem prejuízo das competências de avaliação e comunicação dos riscos legalmente atribuídas à entidade nacional competente no domínio da segurança alimentar.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156697135": {
+   "fragment_id": "156697053",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma visa assegurar a execução e garantir o cumprimento, no ordenamento jurídico nacional, das obrigações decorrentes para o Estado Português do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2003&id=303R1829\" title=\"Link para Regulamento da Comunidade Europeia\">1829/2003</a>, do Parlamento Europeu e do Conselho, de 22 de Setembro (regulamento), relativo a géneros alimentícios e alimentos geneticamente modificados para animais (OGM)."
+  },
+  "156697136": {
+   "fragment_id": "156697054",
+   "type": 11,
+   "heading": "Artigo 2.º — Pedido de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pedido de autorização\n\n1 - O pedido de autorização de colocação no mercado a que se refere o artigo 5.º do regulamento deve ser apresentado na Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA).\n\n2 - O pedido de autorização de colocação no mercado, utilização ou transformação a que se refere o artigo 17.º do regulamento deve ser apresentado na Direcção-Geral de Veterinária (DGV).\n\n3 - Sempre que um produto seja susceptível de ser utilizado simultaneamente como género alimentício e como alimento para animais, deve ser entregue um único pedido ao abrigo dos artigos 5.º e 17.º do citado regulamento.\n\n4 - O pedido de autorização de colocação no mercado relativo a produto previsto no número anterior pode ser apresentado numa das autoridades referidas nos n.os 1 e 2, que deverá comunicar tal apresentação à outra autoridade no prazo máximo de cinco dias."
+  },
+  "156697137": {
+   "fragment_id": "156697055",
+   "type": 11,
+   "heading": "Artigo 3.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fiscalização\n\nSem prejuízo da competência atribuída por lei a outras entidades, a fiscalização do cumprimento do regulamento compete:\n\na) À DGFCQA, no que respeita aos OGM destinados à alimentação humana, aos géneros alimentícios que contenham ou sejam constituídos por OGM e aos géneros alimentícios produzidos a partir de ou que contenham ingredientes produzidos a partir de OGM;\n\nb) A DGV, no que respeita aos OGM destinados à alimentação animal, aos alimentos para animais que contenham ou sejam constituídos por OGM e aos alimentos para animais produzidos a partir de OGM."
+  },
+  "156697138": {
+   "fragment_id": "156697056",
+   "type": 11,
+   "heading": "Artigo 4.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima, nos montantes mínimo de (euro) 1250 ou (euro) 2500 e máximo de (euro) 3740 ou (euro) 44890, consoante o agente seja pessoa singular ou colectiva:\n\na) A colocação no mercado, utilização ou transformação de um OGM destinado à alimentação humana ou de um género alimentício a que se refere o n.º 1 do artigo 3.º do regulamento que, tendo sido autorizado, não cumpre as condições relevantes estabelecidas nessa autorização;\n\nb) A colocação no mercado, utilização ou transformação de um OGM destinado à alimentação animal ou de um dos alimentos para animais a que se refere o n.º 1 do artigo 15.º do regulamento que, tendo sido autorizado, não cumpre as condições relevantes estabelecidas nessa autorização;\n\nc) O não cumprimento das condições exigidas no n.º 6 dos artigos 8.º e 20.º do regulamento;\n\nd) O não cumprimento das condições exigidas no n.º 1 dos artigos 9.º e 21.º do regulamento;\n\ne) O não cumprimento das condições exigidas no n.º 3 dos artigos 9.º e 21.º do regulamento;\n\nf) A falta, inexactidão ou deficiência dos requisitos de rotulagem exigidos pelos artigos 13.º e 25.º do regulamento.\n\n2 - A tentativa e a negligência são puníveis."
+  },
+  "156697139": {
+   "fragment_id": "156697057",
+   "type": 11,
+   "heading": "Artigo 5.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e da culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização de homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ne) Suspensão de autorização, licenças e alvarás.\n\n2 - As sanções acessórias referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória."
+  },
+  "156697140": {
+   "fragment_id": "156697058",
+   "type": 11,
+   "heading": "Artigo 6.º — Instrução e aplicação de coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Instrução e aplicação de coimas\n\n1 - A instrução dos processos de contra-ordenação compete à direcção regional de agricultura da área da prática da infracção.\n\n2 - A aplicação das coimas e sanções acessórias compete:\n\na) Ao director-geral de Fiscalização e Controlo da Qualidade Alimentar, nas contra-ordenações relativas aos géneros alimentícios previstas nas alíneas a), c), d), e) e f) do n.º 1 do artigo 4.º;\n\nb) Ao director-geral de Veterinária, nas contra-ordenações relativas aos alimentos para animais previstas nas alíneas b), c), d), e) e f) do n.º 1 do artigo 4.º"
+  },
+  "156697141": {
+   "fragment_id": "156697059",
+   "type": 11,
+   "heading": "Artigo 7.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Afectação do produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instrui o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para o Estado."
+  },
+  "156697142": {
+   "fragment_id": "156697060",
+   "type": 11,
+   "heading": "Artigo 8.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regiões Autónomas\n\n1 - As disposições do presente diploma aplicam-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma.\n\n2 - O produto das coimas resultantes das contra-ordenações previstas no artigo 4.º constitui receita própria das Regiões Autónomas quando aplicadas no seu território."
+  },
+  "156697171": {
+   "fragment_id": "156697055",
+   "type": 11,
+   "heading": "Artigo 3.º — Fiscalização",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 58.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 3.º — Fiscalização\n\nSem prejuízo da competência atribuída por lei a outras entidades, a fiscalização do cumprimento do regulamento compete:\n\na) À Autoridade de Segurança Alimentar e Económica (ASAE), no que respeita aos OGM destinados à alimentação humana, aos géneros alimentícios que contenham ou sejam constituídos por OGM e aos géneros alimentícios produzidos a partir de ou que contenham ingredientes produzidos a partir de OGM;\n\nb) A DGV, no que respeita aos OGM destinados à alimentação animal, aos alimentos para animais que contenham ou sejam constituídos por OGM e aos alimentos para animais produzidos a partir de OGM.\n\n> Alterado pelo/a Artigo 58.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156697172": {
+   "fragment_id": "156697056",
+   "type": 11,
+   "heading": "Artigo 4.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 58.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 4.º — Contra-ordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A colocação no mercado, utilização ou transformação de um OGM destinado à alimentação humana ou de um género alimentício a que se refere o n.º 1 do artigo 3.º do regulamento que, tendo sido autorizado, não cumpre as condições relevantes estabelecidas nessa autorização;\n\nb) A colocação no mercado, utilização ou transformação de um OGM destinado à alimentação animal ou de um dos alimentos para animais a que se refere o n.º 1 do artigo 15.º do regulamento que, tendo sido autorizado, não cumpre as condições relevantes estabelecidas nessa autorização;\n\nc) O não cumprimento das condições exigidas no n.º 6 dos artigos 8.º e 20.º do regulamento;\n\nd) O não cumprimento das condições exigidas no n.º 1 dos artigos 9.º e 21.º do regulamento;\n\ne) O não cumprimento das condições exigidas no n.º 3 dos artigos 9.º e 21.º do regulamento;\n\nf) A falta, inexactidão ou deficiência dos requisitos de rotulagem exigidos pelos artigos 13.º e 25.º do regulamento.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 58.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156697173": {
+   "fragment_id": "156697058",
+   "type": 11,
+   "heading": "Artigo 6.º — Instrução e aplicação de coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 58.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Instrução e aplicação de coimas\n\n1 - A instrução dos processos compete às entidades identificadas no artigo 3.º, no respetivo âmbito de competência.\n\n2 - A aplicação das coimas e sanções acessórias compete:\n\na) Ao inspetor-geral da ASAE, nas contraordenações relativas aos géneros alimentícios previstas nas alíneas a), c), d), e) e f) do n.º 1 do artigo 4.º;\n\nb) Ao director-geral de Veterinária, nas contra-ordenações relativas aos alimentos para animais previstas nas alíneas b), c), d), e) e f) do n.º 1 do artigo 4.º\n\n> Alterado pelo/a Artigo 58.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156697174": {
+   "fragment_id": "156697059",
+   "type": 11,
+   "heading": "Artigo 7.º — Afectação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 58.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 7.º — Afectação do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 58.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156697143": {
+   "fragment_id": "156697061",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.\n\nPromulgado em 6 de Junho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Junho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

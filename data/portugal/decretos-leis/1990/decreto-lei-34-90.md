@@ -1,0 +1,263 @@
+---
+schema_version: '1.0'
+id: pt:dre:335235:por
+title: Decreto-Lei n.º 34/90
+short_title: null
+summary: Aplica o novo sistema retributivo da função pública ao pessoal da carreira de enfermagem e define os regimes de duração
+  de trabalho do mesmo pessoal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 34/90
+official_date: null
+publication_date: '1990-01-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/1990, Série I de 1990-01-24
+  number: '20'
+  series: I
+  supplement: null
+  pages: 338 - 341
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/01/02000/03380341.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '335235'
+  dre_path: /dr/detalhe/decreto-lei/34-1990-335235
+  internal: pt:dre:335235:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1990-335235
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1990-335235
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:03:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 582857e9856333552b370aba6cea0614896c2d59c94cc07fa083cc27bcdd68c2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Duração do Trabalho
+- Pessoal de Enfermagem
+- Regime de Pessoal
+- Remuneração
+- Sistema Retributivo
+relationships:
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:554800:por
+  label: "Determinado que a enfermeira do quadro de pessoal da Direcção-Geral da Aviação Civil transite para a nova estrutura\
+    \ remuneratória do pessoal da carreira de enfermagem, grau 1, escalão 4, índice 115, de acordo com o anexo II do presente\
+    \ diploma, pela PORT.888/90.22.09.1990.PCM, DR.IS [220] de 22.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/888-1990-554800
+  date: '1990-09-22'
+- type: amended_by
+  target: pt:dre:146916:por
+  label: "Alterados os art.s 2º e 10º e substituídos os anexos II e III mencionados no art. 9º, pelo DEC LEI.38/91.18.01.1991.MS,\
+    \ DR.IS-A [15-Supl] de 18.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1991-146916
+  date: '1991-01-18'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:numero:decreto-lei:38/91
+  label: REVOGADO, COM EXCEPÇÃO DO ART 10, PELO DEC LEI 437/91 DE 18-NOV DR.IS-A [257] NA REDACÇÃO DADA PELO DEC LEI 38/91
+    DE 18-JAN
+  source: null
+  date: '1991-11-08'
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:03:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 34/90
+
+de 24 de Janeiro
+
+O [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, que definiu os princípios gerais em matéria de emprego, remunerações e gestão de pessoal na função pública, circunscreveu-se à reforma do sistema retributivo, no sentido de lhe devolver coerência e de o dotar de equidade, quer no plano interno, quer no âmbito mais geral do mercado de trabalho.
+
+Torna-se assim necessário proceder à aplicação dos referidos princípios gerais às diversas carreiras, o que com o presente diploma se alcança em relação à carreira de enfermagem, integrada em corpo especial pelo [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807).
+
+Sem proceder a uma reclassificação no âmbito da carreira, o diploma reflecte, contudo, a valorização da formação dos profissionais de enfermagem cuja formação base de bacharelato e licenciatura os coloca ao nível do pessoal técnico e técnico superior; por isso, para além de definir uma escala salarial ao nível dos grupos antes referidos, o diploma prevê ainda uma solução específica para o ingresso e acesso na carreira dos enfermeiros habilitados com licenciatura.
+
+Nos termos da legislação em vigor sobre negociação colectiva na função pública, o presente diploma foi objecto de negociação com organizações sindicais, nele se reflectindo um acordo alcançado em 14 de Novembro.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pelo [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, conjugado com o artigo 28.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma estabelece regras sobre a duração de trabalho e estatuto remuneratório do pessoal da carreira de enfermagem e aprova a respectiva escala salarial constante do anexo I, que dele faz parte integrante.
+
+2 - Ao pessoal referido no número anterior é aplicável o disposto no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, com as especialidades constantes dos artigos seguintes.
+
+###### Artigo 2.º — Âmbito
+
+1 - O presente diploma aplica-se aos enfermeiros providos em lugares de quadros ou mapas dos estabelecimentos e serviços dependentes do Ministério da Saúde.
+
+2 - O disposto no presente diploma é ainda aplicável aos enfermeiros dos organismos e serviços dependentes de outros ministérios e das regiões autónomas, devendo, contudo, a transição para a nova estrutura salarial ser aprovada por portaria conjunta do Primeiro-Ministro e dos membros do Governo da tutela.
+
+3 - À transição do pessoal para a nova estrutura remuneratória ao abrigo das portarias referidas no número anterior aplica-se o princípio da absorção das remunerações acessórias na remuneração base.
+
+###### Artigo 3.º — Remuneração base
+
+1 - A remuneração base mensal correspondente ao índice 100 consta de portaria do Primeiro-Ministro e do Ministro das Finanças.
+
+2 - A remuneração base mensal do cargo de enfermeiro-director corresponde aos índices 255 ou 290.
+
+###### Artigo 4.º — Duração de trabalho
+
+1 - O regime normal de trabalho da carreira de enfermagem implica a prestação de 35 horas de trabalho semanal, correspondendo-lhe a remuneração base mensal referida no artigo anterior.
+
+2 - Nos casos em que o funcionamento dos serviços o justifique, os enfermeiros podem, mediante prévia autorização ministerial, adoptar uma duração semanal de trabalho superior a 35 horas.
+
+3 - Em condições excepcionalmente autorizadas caso a caso por despacho ministerial, os enfermeiros podem ainda praticar o regime de tempo parcial, com a duração de 20 ou 24 horas de trabalho semanal.
+
+4 - Sem prejuízo do disposto na lei geral, o trabalho prestado em regime de tempo parcial conta-se proporcionalmente ao número de horas de trabalho por semana, para todos os efeitos.
+
+5 - Os termos e condições de prestação de trabalho na modalidade prevista no n.º 2 são estabelecidos em decreto regulamentar.
+
+###### Artigo 5.º — Ingresso e acesso na carreira de enfermeiros licenciados
+
+1 - Sem prejuízo da vigência do escalão 0 até 31 de Dezembro de 1990, o ingresso na carreira dos enfermeiros habilitados com o curso de estudos superiores especializados em enfermagem, ou equivalente, faz-se no escalão 2 da categoria de enfermeiro especialista.
+
+2 - A promoção à categoria de enfermeiro especialista dos enfermeiros já integrados na carreira que estejam habilitados com o curso de estudos superiores especializados em enfermagem, ou equivalente, faz-se no escalão 2 da categoria, se outro não lhe competir, nos termos da alínea b) do n.º 1 do artigo seguinte.
+
+###### Artigo 6.º — Escalão de promoção
+
+1 - A promoção a categoria superior faz-se, em regra, da seguinte forma:
+
+a) Para o escalão 1 da categoria para a qual se faz a promoção;
+
+b) Para os escalões a que na estrutura remuneratória da categoria para a qual se faz a promoção corresponda o índice superior mais aproximado, se o interessado vier já auferindo remuneração igual ou superior à do escalão 1, ou para o escalão seguinte sempre que a remuneração que caberia em caso de progressão na categoria fosse superior.
+
+2 - No caso do acesso de enfermeiro especialista (grau 3) a enfermeiro-chefe (grau 3) ou a enfermeiro-assistente (grau 3), a promoção faz-se para o escalão a que corresponda o índice remuneratório imediatamente superior, relevando no novo escalão o tempo de serviço prestado naquele que dá origem à promoção.
+
+###### Artigo 7.º — Mobilidade
+
+1 - A transferência de área de actuação para categoria diferente da detida dentro do mesmo grau faz-se para o escalão a que corresponde o mesmo índice remuneratório.
+
+2 - O tempo de serviço prestado no escalão em que o funcionário estava integrado releva no escalão em que o funcionário é integrado em resultado da transferência de área de actuação.
+
+3 - Pode ser autorizada a requisição de enfermeiros, dentro do mesmo grau, para categoria diferente da que detêm desde que possuam os requisitos habilitacionais referidos nos artigos 10.º e 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, e mantenham o mesmo índice remuneratório.
+
+###### Artigo 8.º — Enfermeiro-director
+
+O cargo de enfermeiro-director é remunerado pelo índice a que corresponda a remuneração imediatamente superior à que é devida ao respectivo titular pela sua categoria de origem.
+
+###### Artigo 9.º — Transição
+
+1 - O pessoal integrado na carreira de enfermagem transita para a nova estrutura remuneratória na mesma categoria e de acordo com o anexo II do presente diploma, que dele faz parte integrante.
+
+2 - O pessoal integrado na carreira de enfermagem em categoria pertencente às áreas de administração e de docência que tenha sido autorizado a praticar o regime especial de prestação de trabalho previsto no artigo 17.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, transita para a nova estrutura remuneratória na mesma categoria e de acordo com o anexo III do presente diploma, que dele faz parte integrante.
+
+3 - Sem prejuízo da aplicação do disposto no n.º 1 em relação ao período compreendido entre 1 de Outubro e 14 de Novembro de 1989, o pessoal integrado na carreira de enfermagem em categoria pertencente às áreas de administração e de docência que, até 15 de Novembro de 1989, tenha requerido o regime especial de prestação de trabalho a que se refere o artigo 17.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, e esteja à data de entrada em vigor do presente diploma a aguardar resposta ao requerido transita para a nova estrutura remuneratória na mesma categoria e de acordo com o anexo III do presente diploma, com efeitos reportados a 15 de Novembro.
+
+4 - Os enfermeiros-directores transitam para a nova estrutura remuneratória para o índice a que corresponda a remuneração imediatamente superior àquela que lhes for devida pela sua categoria de origem.
+
+###### Artigo 10.º — Salvaguarda de tempo de serviço
+
+1 - O tempo de serviço prestado no âmbito de uma mesma categoria remunerada pela mesma letra de vencimento releva no escalão para que se opera a transição.
+
+2 - Sem prejuízo da vigência do condicionamento das progressões, o tempo de serviço referido no número anterior releva ainda para efeitos de progressão ao escalão seguinte.
+
+3 - O tempo de serviço que acresça ao necessário para a progressão referida no número anterior releva até ao limite de um ano para efeitos de progressão ao escalão imediatamente subsequente.
+
+###### Artigo 11.º — Abono transitório
+
+Até à entrada em vigor do decreto regulamentar a que se refere o n.º 5 do artigo 4.º do presente diploma, o abono suplementar devido pela prestação de trabalho em regime de tempo completo prolongado previsto no n.º 10 do artigo 13.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, continua a ser percebido a título de remuneração base, sendo o seu valor igual ao do montante que o funcionário tinha direito a receber em 30 de Setembro de 1989.
+
+###### Artigo 12.º — Extinção de índices
+
+Os índices 150, 155 e 160 previstos para a transição de enfermeiros-monitores no anexo III do presente diploma vigoram apenas para os funcionários que, em consequência da transição, neles sejam posicionados, considerando-se extintos logo que os funcionários por eles remunerados na transição mudem de categoria.
+
+###### Artigo 13.º — Produção de efeitos
+
+1 - Sem prejuízo do disposto na parte final do n.º 3 do artigo 9.º, o presente diploma produz efeitos a partir de 1 de Outubro de 1989 no que respeita à matéria com incidência remuneratória.
+
+2 - A portaria a que se refere o n.º 2 do artigo 2.º produz efeitos a partir de 1 de Outubro de 1989.
+
+3 - As remunerações fixadas para o primeiro ano de aplicação ao abrigo da portaria a que se refere o artigo 3.º vigoram de 1 de Outubro de 1989 a 31 de Dezembro de 1990.
+
+###### Artigo 14.º — Norma revogatória
+
+São revogados os artigos 17.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, e 2.º do [Decreto-Lei n.º 134/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1987-662139), de 17 de Março.
+
+Visto e aprovado em Conselho de Ministros de 23 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Bizarro Beleza de Mendonça Tavares.
+
+Promulgado em 11 de Janeiro de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 14 de Janeiro de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Do ANEXO I ao ANEXO III
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/02000/03380341.pdf)

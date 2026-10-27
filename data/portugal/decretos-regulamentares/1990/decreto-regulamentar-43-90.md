@@ -1,0 +1,243 @@
+---
+schema_version: '1.0'
+id: pt:dre:563608:por
+title: Decreto Regulamentar n.º 43/90
+short_title: null
+summary: Reestrutura serviços integrados no Ministério da Agricultura, Pescas e Alimentação e racionaliza os respectivos efectivos
+  humanos e materiais
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 43/90
+official_date: null
+publication_date: '1990-12-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 291/1990, Série I de 1990-12-19
+  number: '291'
+  series: I
+  supplement: null
+  pages: 5158 - 5167
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29100/51585167.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '563608'
+  dre_path: /dr/detalhe/decreto-regulamentar/43-1990-563608
+  internal: pt:dre:563608:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1990-563608
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1990-563608
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:18:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ee87702f4884139763967f759969bf3de002314ce95490e34e3ac1812bbfbcea
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral de Planeamento e Agricultura
+- Direcção Regional de Agricultura da Beira Interior
+- Direcção Regional de Agricultura da Beira Litoral
+- Direcção Regional de Agricultura de entre Douro e Minho
+- Direcção Regional de Agricultura de Trás-os-montes
+- Direcção Regional de Agricultura do Alentejo
+- Direcção Regional de Agricultura do Ribatejo e Oeste
+- Extinção de Lugares
+- Integração de Trabalhadores
+- Ministério da Agricultura Pescas e Alimentação
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
+- Transmissão da Propriedade
+relationships:
+- type: amended_by
+  target: pt:dre:275642:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:688404:por
+  label: "Alterado o quadro de pessoal da Direcção Regional de Trás-os-Montes, aprovado pelo DR 63/86 de 12-Nov, com a redacção\
+    \ constante do presente diploma, pela PORT.387/93.08.04.1993.MF, DR.IS-B [83] de 08.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/387-1993-688404
+  date: '1993-04-08'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:444260:por
+  label: "Retificados os arts. 1.º e 8º bem como os mapas nºs 3, 4 e 5 e republicado o mapa nº 2, pela DECL-RECT.27/91.31.01.1991.SG-PCM,\
+    \ DR.IS-B [26-Supl] de 31.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/27-1991-444260
+  date: '1991-01-31'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:18:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 43/90
+
+de 19 de Dezembro
+
+Considerando que se impõe efectuar ajustamentos nos diplomas orgânicos de alguns organismos do Ministério da Agricultura, Pescas e Alimentação, designadamente no que respeita a infra-estruturas de formação técnico-profissional agrária, à adequação dos quadros de pessoal às delimitações das regiões e zonas agrárias fixadas pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, e ao determinado pelo artigo 23.º do [Decreto Regulamentar n.º 63/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1986-220759), de 12 de Novembro;
+
+Considerando que as referidas infra-estruturas de formação técnica agrária respeitam à Quinta da Sarrazola, localizada no Município de Sintra, afecta à Direcção Regional de Agricultura do Ribatejo e Oeste, que foi objecto de legado instituído a favor do Estado pelo Dr. António Brandão de Vasconcelos e esposa, a fim de nela ser instalada uma escola de gestão agrícola, cujos fins serão mais eficaz e economicamente prosseguidos afectando-a à Direcção-Geral de Planeamento e Agricultura, transferindo-se, em contrapartida, o actual Centro Nacional de Formação e Treinamento de Pessoal em Extensão Rural deste organismo para a Direcção Regional de Agricultura do Ribatejo e Oeste;
+
+Considerando que, para maior eficácia dos serviços, é necessário dotar os núcleos administrativos das zonas agrárias da Direcção Regional de Agricultura de Trás-os-Montes e da Zona Agrária de Leiria, recentemente integrada na Direcção Regional de Agricultura da Beira Litoral, com chefes de secção e ajustar as dotações das categorias de algumas carreiras em que a progressão dos funcionários se encontra impedida;
+
+Considerando a necessidade de seproceder a alguns ajustamentos nos quadros de pessoal, visando a mobilidade de acesso em carreiras que se encontram fortemente congestionadas e a transição de desenhadores e de técnicos auxiliares, nível 3, para as carreiras de desenhador de construção civil e de operador de meios áudio-visuais, nível 4, respectivamente, de acordo com as funções que efectivamente desempenham, e de se estabelecer a correspondente tabela, perante o disposto no artigo 37.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho;
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 12.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro, e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º - 1 - A Quinta da Sarrazola, sita no Município de Sintra, e os bens móveis que integram o legado instituído a favor do Estado pelo Dr. António Brandão de Vasconcelos e esposa, actualmente dependente da Direcção Regional de Agricultura do Ribatejo e Oeste, são afectos à Direcção-Geral de Planeamento e Agricultura, mediante auto a lavrar na Direcção-Geral do Património do Estado.
+
+2 - Na Quinta referida no número anterior será instalado um centro de formação técnico-profissional agrária, destinado à formação de dirigentes e técnicos de associações e cooperativas agrícolas, no âmbito do legado instituído e da política agrícola comum.
+
+Art. 2.º O Centro Nacional de Formação e Treinamento de Pessoal em Extensão Rural, sito no Couto, Município das Caldas da Rainha, dependente da Direcção-Geral de Planeamento e Agricultura, é afecto à Direcção Regional de Agricultura do Ribatejo e Oeste.
+
+Art. 3.º As instalações, bens móveis e utensílios, material de transporte e demais equipamentos afectos às infra-estruturas referidas nos artigos anteriores são transferidos para os organismos para que transitam respectivamente, mediante relações de cadastro devidamente discriminadas e assinadas.
+
+Art. 4.º O artigo 17.º do [Decreto Regulamentar n.º 63/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1986-220759), de 12 de Novembro, passa a ter a seguinte redacção:
+
+Art. 17.º - 1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, orientados por chefes de secção, directamente dependentes do respectivo chefe de zona, competindo-lhes assegurar a execução das tarefas de natureza administrativa, designadamente no âmbito da administração do pessoal, financeira, patrimonial e geral necessárias ao desenvolvimento das actividades das zonas agrárias.
+
+2 - ...
+
+Art. 5.º O artigo 16.º do [Decreto Regulamentar n.º 38/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1987-419781), de 27 de Junho, passa a ter a seguinte redacção:
+
+Art. 16.º - 1 - ...
+
+2 - Atendendo à dispersão geográfica e complexidade das actividades desenvolvidas, os núcleos administrativos assumir-se-ão como secções administrativas nas Zonas Agrárias de Aveiro, Leiria, Viseu e da Bairrada, funcionando esta junto da Estação Vitivinícola da Beira Litoral.
+
+Art. 6.º O pessoal afecto às instalações referidas nos artigos 1.º e 2.º deste diploma, às zonas agrárias transferidas por força das delimitações territoriais estabelecidas pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, bem como o referido no n.º 1 do artigo 23.º do [Decreto Regulamentar n.º 63/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1986-220759), de 12 de Novembro, transita, mediante lista nominativa aprovada por despacho do Ministro da Agricultura, Pescas e Alimentação, para os respectivos organismos, sendo os lugares abatidos nos quadros de pessoal dos serviços cedentes.
+
+Art. 7.º - 1 - Os quadros de pessoal da Secretaria-Geral, da Direcção-Geral de Planeamento e Agricultura, da Direcção Regional de Agricultura de Entre Douro e Minho, da Direcção Regional de Agricultura de Trás-os-Montes, da Direcção Regional de Agricultura da Beira Litoral, da Direcção Regional de Agricultura da Beira Interior, da Direcção Regional de Agricultura do Ribatejo e Oeste e da Direcção Regional de Agricultura do Alentejo são alterados de acordo com os mapas que constituem o anexo I ao presente diploma, e que dele faz parte integrante, nas carreiras e categorias neles constantes.
+
+2 - Os lugares abatidos no quadro de pessoal da Direcção-Geral da Pecuária são os mencionados no anexo II ao presente diploma e que dele faz parte integrante.
+
+Art. 8.º - 1 - Os actuais desenhadores que exercem funções no âmbito da área funcional da construção civil na Secretaria-Geral, na Direcção Regional de Agricultura de Entre Douro e Minho e na Direcção Regional de Agricultura da Beira Interior transitam para a carreira de desenhador de construção civil, nível 4, de acordo com o mapa anexo III, independentemente da posse de habilitações legalmente exigidas, extinguindo-se as carreiras de desenhador do grupo de pessoal técnico-profissional, nível 3, em que se encontravam integrados, salvo na Direcção Regional de Agricultura de Entre Douro e Minho, em que apenas são abatidos dois lugares nesta carreira.
+
+2 - Os actuais técnicos auxiliares do quadro de pessoal da Direcção Regional de Agricultura de Entre Douro e Minho que exercem funções no âmbito da feitura e reprodução de imagens, operando com equipamentos adequados e assegurando a rotina dos mesmos, transitam para a carreira de operador de meios áudio-visuais, nível 4, de acordo com o mapa anexo IV, independentemente da posse de habilitações legalmente exigidas.
+
+3 - A caracterização do conteúdo funcional da carreira de desenhador de construção civil é a constante do anexo IV ao presente diploma, de que faz parte integrante.
+
+Art. 9.º - 1 - As despesas decorrentes do funcionamento das instalações transferidas nos termos dos artigos 1.º e 2.º passam a ser suportadas, a partir da vigência deste diploma, pelos organismos utilizadores.
+
+2 - No orçamento do Ministério da Agricultura, Pescas e Alimentação para o corrente ano serão introduzidas as alterações necessárias à execução do presente diploma.
+
+Presidência do Conselho de Ministros, 10 de Setembro de 1990.
+
+Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
+
+Promulgado em 26 de Novembro de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 28 de Novembro de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## ANEXO I — (a que se refere o n.º 1 do artigo 7.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29100/51585167.pdf)
+
+## ANEXO II — Lugares abatidos na Direcção-Geral da Pecuária nos termos do n.º 2 do artigo 7.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29100/51585167.pdf)
+
+## ANEXO III — (a que se refere o n.º 1 do artigo 8.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29100/51585167.pdf)
+
+## ANEXO IV — (a que se refere o n.º 2 do artigo 8.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29100/51585167.pdf)
+
+## ANEXO V — Conteúdo funcional a que se refere o n.º 3 do artigo 8.º
+
+O desenhador de construção civil desenvolve funções de natureza executiva de aplicação técnica, efectuando desenhos de planos gerais ou de detalhe para a realização de obras de construção civil.
+
+Executa, predominantemente, as seguintes tarefas:
+
+Examina esboços, esquemas e especificações técnicas elaborados por engenheiros, arquitectos e outros técnicos;
+
+Calcula dimensões, superfícies, volumes e outros factores, a fim de completar os elementos recebidos;
+
+Relaciona as dimensões dos diferentes elementos da obra a efectuar e consulta, se necessário, o autor do projecto, tendo em vista a introdução de alterações ou ajustamentos convenientes;
+
+Desenha plantas, alçados, cortes, pormenores e perspectivas, cotando-os em precisão, tendo em atenção os elementos a empregar, normas e regulamentos e utilizando simbologia adequada;
+
+Efectua alterações, reduções e ampliações de desenhos, a partir de indicações recebidas;
+
+Colabora em estudos de anteprojecto e projecto, desenvolvendo ou pormenorizando desenhos, maquetas ou painéis, a partir de elementos sumários ou de desenhos de concepção;
+
+Pode colaborar em trabalhos de campo, na implementação de elementos da obra e, eventualmente, acompanhar a sua execução;
+
+Referencia e actualiza os trabalhos efectuados, arquiva-os e zela pela sua conservação;
+
+Pode ainda realizar outras tarefas simples de artes gráficas.

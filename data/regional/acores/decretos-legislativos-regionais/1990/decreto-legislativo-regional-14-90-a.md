@@ -1,0 +1,153 @@
+---
+schema_version: '1.0'
+id: pt:dre:573556:por
+title: Decreto Legislativo Regional n.º 14/90/A
+short_title: null
+summary: Dá nova redacção ao artigo 4.º do Decreto Legislativo Regional n.º 17/86/A, de 16 de Agosto, constante do artigo
+  2.º, que aplica à Região Autónoma dos Açores o Decreto-Lei n.º 491/85, de 26 de Novembro, com as adaptações de vários artigos
+  (estabelece disposições relativas às contra-ordenações ao âmbito do direito laboral e da disciplina sobre higiene, segurança,
+  medicina do trabalho, acidentes de trabalho e doenças profissionais)
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 14/90/A
+official_date: null
+publication_date: '1990-08-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 181/1990, Série I de 1990-08-07
+  number: '181'
+  series: I
+  supplement: null
+  pages: 3236 - 3237
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18100/32363237.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '573556'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/14-1990-573556
+  internal: pt:dre:573556:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-573556
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-573556
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:18:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0a15641baec5b760c29679622827333ee49b30667daa79bc545f5eb8cf91cf32
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acidente de Trabalho
+- Açores
+- Contra-ordenação Laboral
+- Contrato de Trabalho
+- Direito do Trabalho
+- Doença Profissional
+- Higiene do Trabalho
+- Medicina do Trabalho
+- Multa
+- Segurança no Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:186119:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619319:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:186119:por
+  label: "Revogado pelo DLR.4/2003/A.2003.02.10.ALR-RAA DR.IS-A [49] DE 27/FEV/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-2003-186119
+  date: '2003-02-10'
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:18:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 14/90/A
+
+Contra-ordenações no âmbito do direito laboral
+
+O [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, estabeleceu as disposições relativas às contra-ordenações no âmbito do direito laboral.
+
+Através do [Decreto Legislativo Regional n.º 17/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1986-218884), de 16 de Agosto, foi aquele diploma aplicado e adaptado à Região.
+
+Recentemente, o [Decreto-Lei n.º 255/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1989-619319), de 10 de Agosto, alterou o [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, em matéria de destino das coimas, fundamentando-se tal alteração no facto de a percentagem sobre o produto das coimas efectivamente arrecadadas, com destino à Inspecção-Geral do Trabalho, apenas cobrir um reduzido montante dos custos de funcionamento e despesas processuais.
+
+Na Região verifica-se igualmente que o montante transferido para o orçamento e consignado ao suporte dos custos de funcionamento e despesas processuais cobre uma reduzida parte dos mesmos, pelo que se torna conveniente adaptar a alteração do artigo 4.º do [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro.
+
+Assim:
+
+A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+Artigo único. O artigo 4.º do [Decreto Legislativo Regional n.º 17/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1986-218884), de 16 de Agosto, constante do artigo 2.º, passa a ter a seguinte redacção:
+
+###### Artigo 4.º — Destino das coimas
+
+1 - O produto das coimas aplicadas em matéria de higiene, segurança e medicina do trabalho e de protecção contra acidentes de trabalho e doenças profissionais reverterá para o Fundo de Garantia e Actualização de Pensões.
+
+2 - O produto das demais coimas reverterá para o Gabinete de Gestão Financeira do Emprego.
+
+3 - O Fundo de Garantia e Actualização de Pensões transferirá anualmente para o orçamente da Região 50% da receita efectivamente arrecadada, nos termos do n.º 1, consignada ao suporte dos custos de funcionamento e despesas processuais.
+
+4 - O Gabinete de Gestão Financeira do Emprego transferirá trimestralmente para o orçamento da Região 50% da receita efectivamente arrecadada, nos termos do n.º 2, consignada ao suporte dos custos de funcionamento e despesas processuais.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 31 de Maio de 1990.
+
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
+
+Assinado em Angra do Heroísmo em 16 de Julho de 1990.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

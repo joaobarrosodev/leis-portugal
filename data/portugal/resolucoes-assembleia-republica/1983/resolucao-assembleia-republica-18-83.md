@@ -1,0 +1,571 @@
+---
+schema_version: '1.0'
+id: pt:dre:630642:por
+title: Resolução da Assembleia da República n.º 18/83
+short_title: null
+summary: Aprova o orçamento para 1984
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 18/83
+official_date: null
+publication_date: '1983-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 301/1983, 2º Suplemento, Série I de 1983-12-31
+  number: '301'
+  series: I
+  supplement: null
+  pages: 4172-(43) a 4172-(57)
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/12/30102/00430057.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '630642'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/18-1983-630642
+  internal: pt:dre:630642:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/18-1983-630642
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/18-1983-630642
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 166df3841401d477fd5255ea07dd030eba75c90b2549fe28f088efea9428394b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:50:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia da República
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:178294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676444:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:50:35Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 18/83
+
+A Assembleia da República resolveu, nos termos do n.º 4 do artigo 169.º da Constituição e do artigo 12.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio, aprovar o seu orçamento para o ano de 1984, a anexar ao Orçamento do Estado.
+
+Aprovada em 14 de Dezembro de 1983.
+
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.
+
+Orçamento da Assembleia da República para o ano de 1984
+
+Resumo
+
+Receita
+
+Ordinária: ... (Contos)
+
+Corrente ... 1180000
+
+De capital ... 101380
+
+Total ... 1281380
+
+Despesa
+
+Ordinária: ... (Contos)
+
+Corrente ... 1180000
+
+De capital ... 101380
+
+Total ... 1281380
+
+Desenvolvimento do orçamento da receita para 1984
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/30102/00430057.pdf)
+
+Justificações das referências n.os 1 e 2 - Verba inscrita no Orçamento Geral do Estado de 1984 para suporte das despesas com o funcionamento da Assembleia da República e órgãos dela dependentes - [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (LOAR); [Lei n.º 69/79](https://diariodarepublica.pt/dr/detalhe/lei/69-1979-364884), de 11 de Outubro (Conselho de Imprensa); [Lei n.º 3/79](https://diariodarepublica.pt/dr/detalhe/lei/3-1979-476695), de 10 de Janeiro (CNAEBA); [Lei n.º 71/78](https://diariodarepublica.pt/dr/detalhe/lei/71-1978-325307), de 27 de Dezembro (CNE); Lei do Conselho da Comunicação Social; [Lei Constitucional n.º 1/82](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), de 30 de Setembro, e [Resolução n.º 202/82](https://diariodarepublica.pt/dr/detalhe/resolucao/202-1982-377142), de 26 de Outubro (SCE/PIDE/DGS e LP), e [Lei n.º 81/77](https://diariodarepublica.pt/dr/detalhe/lei/81-1977-281427), de 22 de Novembro.
+
+Desenvolvimento do orçamento da despesa para 1984
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/30102/00430057.pdf)
+
+Recapitulação
+
+Despesas correntes ... 1180000
+
+Despesas de capital ... 101380
+
+Total ... 1281380
+
+Justificação da referência n.º 1 - Honorários ao Presidente da Assembleia da República - [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572) (Estatuto dos Deputados), artigos 8.º, n.º 1:
+
+Os deputados têm direito a receber um subsídio mensal equivalente ao vencimento da letra A do funcionalismo público, bem como dois subsídios extraordinários, cada um deles de valor igual ao do subsídio mensal, em Junho e Dezembro.
+
+e 14.º, n.º 1:
+
+O Presidente da Assembleia da República tem direito a um subsídio complementar dos subsídios referidos no n.º 1 do artigo 8.º, por forma que o quantitativo total seja igual ao vencimento do Primeiro-Ministro.
+
+e despacho de 10 de Fevereiro de 1983 do Secretário de Estado do Orçamento:
+
+Concorda com a alteração aos vencimentos dos membros do Governo - Primeiro-Ministro, 96900$00.
+
+Justificação da referência n.os 2 - N.º 2 do artigo 14.º da [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572), de 10 de Setembro (Estatuto dos Deputados):
+
+O Presidente da Assembleia da República, independentemente dos subsídios previstos no número anterior, tem direito a despesas de representação num quantitativo igual ao estabelecido ao Primeiro-Ministro.
+
+e artigo 1.º do [Decreto-Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1981-389862), de 27 de Janeiro:
+
+Fixa as despesas de representação do Presidente da Assembleia da República em 34000$00, montante igual ao do Primeiro-Ministro.
+
+Justificação da referência n.os 3 - N.º 1 do artigo 8.º da [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572), de 10 de Setembro (Estatuto dos Deputados) (transacção constante do n.º 1), conjugado com o [Decreto-Lei n.º 106-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-1983-178294) (tabela de vencimentos da função pública):
+
+Fixa a tabela de vencimentos dos funcionários e agentes da administração central, regional e local para 1983.
+
+Justificação da referência n.º 4 - N.º 4 do artigo 14.º da [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572), de 10 de Setembro (Estatuto dos Deputados):
+
+Os Vice-Presidentes da Assembleia e os Secretários da Mesa perceberão um abono mensal correspondente a um quinto do respectivo subsídio, tendo os primeiros direito a viatura oficial sempre que em representação da Assembleia da República.
+
+Justificação da referência n.º 5 - N.º 3 dos artigos 3.º e 4.º do [Decreto Regulamentar n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1980-463999), de 3 de Setembro (regime de protecção social aos deputados da Assembleia da República), e n.º 2 do artigo 15.º da [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572), de 10 de Setembro (Estatuto dos Deputados):
+
+No caso de os deputados optarem pelo regime de previdência da sua actividade profissional, cabe à Assembleia da República a satisfação dos encargos que corresponderiam à entidade patronal.
+
+Justificação da referência n.º 6 - Despesas diversas do Gabinete do Presidente da Assembleia da República (ofertas a entidades oficiais e particulares).
+
+Justificação da referência n.º 7 - Artigos 8.º, n.º 1 (já transcrito na referência n.º 1), e 11.º da [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572) (Estatuto dos Deputados):
+
+1 - Os deputados que sejam funcionários do Estado ou de outras pessoas colectivas públicas podem optar pelos respectivos vencimentos e subsídios.
+
+2 - No caso de opção os deputados não têm direito a senhas de comida e a ajudas de custo.
+
+conjugado com o [Decreto-Lei n.º 106-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-1983-178294) (tabela de vencimentos da função pública).
+
+Justificação da referência n.º 8 - Artigo 9.º da [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572), de 10 de Setembro (Estatuto dos Deputados), senhas de presença às comissões especializadas da Assembleia da República:
+
+Os deputados membros das comissões ou que nelas ocasionalmente substituam outros deputados têm direito a uma senha de presença por dia de reunião a que compareçam correspondente a 1/50 do subsídio mensal, excepto nos dias em que haja reunião plenária.
+
+Justificação da referência n.º 9 - Despacho de 30 de Julho de 1979 do Presidente da Assembleia da República (despesas de representação em deslocações ao Estrangeiro).
+
+Justificações das referências n.os 10 e 11 - [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572), de 10 de Setembro, artigos 10.º:
+
+Atribui aos Srs. Deputados por cada dia de presença em reuniões plenárias ou de comissões uma ajuda de custo igual à fixada para a letra A do funcionalismo, conjugada com o concelho em que residam.
+
+e 12.º n.os 1 e 4:
+
+1 - No exercício das suas funções, os deputados têm direito à utilização dos transportes colectivos, públicos e privados, em todo o País, incluindo uma vez por ano à Madeira e Açores.
+
+4 - Os deputados têm direito ao reembolso das despesas quando se façam transportar em automóvel particular.
+
+conjugado com as Portarias n.os [1341/82](https://diariodarepublica.pt/dr/detalhe/portaria/1341-1982-626670) e [575/83](https://diariodarepublica.pt/dr/detalhe/portaria/575-1983-451225) e [Resolução n.º 127/82](https://diariodarepublica.pt/dr/detalhe/resolucao/127-1982-396904) (estabelece o montante das ajudas de custo no País e estrangeiro).
+
+Justificação da referência n.º 12 - N.º 3 dos artigos 3.º e 4.º do [Decreto Regulamentar n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1980-463999) e n.º 2 do artigo 15.º da [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572), de 10 de Setembro (já transcritos na referência n.º 5).
+
+Justificação da referência n.º 13 - Artigo 13.º da [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572), de 10 de Setembro (utilização gratuita dos serviços postais, telegráficos e telefónicos pelos senhores deputados):
+
+Os deputados têm direito a utilizar gratuitamente os serviços postais, telegráficos e telefónicos da Assembleia.
+
+Justificação da referência n.º 14 - Artigo 10.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República) (pessoal atribuído ao Gabinete do Presidente da Assembleia da República).
+
+Justificação da referência n.º 15 - [Decreto-Lei n.º 496/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1980-462422), de 20 de Outubro (alarga o regime dos subsídios de férias e de Natal ao pessoal dos gabinetes).
+
+Justificação da referência n.º 16 - Artigo 23.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República) (permite a requisição de funcionários adidos ou dos quadros de departamentos do Estado, incluindo os seus serviços personalizados, para prestarem serviço na Assembleia da República).
+
+Justificação da referência n.º 17 - Artigo 5.º da [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777) (alterações à Lei Orgânica da Assembleia da República):
+
+Para a realização de tarefas que não possam ser asseguradas pelo pessoal permanente é permitido contratar pessoal além do quadro, por despacho do Presidente da Assembleia da República, mediante proposta do Secretário-Geral e parecer favorável do Conselho Administrativo.
+
+Justificação da referência n.º 18 - Código do Imposto Profissional e artigo 2.º da [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777) (alterações à Lei Orgânica da Assembleia da República):
+
+O pessoal a que se referem os artigos 10.º e 15.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio, não abrangido por qualquer regime de previdência social beneficiará, a partir da data da nomeação, do regime de previdência aplicável ao funcionalismo público enquanto se mantiver em exercício de funções, mediante a respectiva inscrição na Caixa Geral de Aposentações.
+
+Justificação da referência n.º 19 - Aplicação ao pessoal do Gabinete do Presidente da Assembleia da República das disposições contidas no artigo 21.º da Lei Orgânica da Assembleia da República (regime especial de trabalho e direito a uma remuneração suplementar).
+
+Justificação da referência n.º 20 - Artigo 15.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República) (pessoal de apoio aos grupos parlamentares).
+
+Justificação da referência n.º 21 - [Decreto-Lei n.º 496/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1980-462422), de 20 de Outubro (alarga o regime dos subsídios de férias e de Natal ao pessoal dos gabinetes).
+
+Justificação da referência n.º 22 - Código do Imposto Profissional e artigo 2.º da [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777) (alterações à Lei Orgânica da Assembleia da República) transcrito na referência n.º 18).
+
+Justificação da referência n.º 23 - Aplicação ao pessoal dos Gabinetes dos Grupos Parlamentares das disposições contidas no artigo 21.º da Lei Orgânica da Assembleia de República (transcrito na referência n.º 19).
+
+Justificação da referência n.º 24 - Artigo 16.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República) (subvenção aos partidos políticos representados na Assembleia da República).
+
+Justificações das referências n.os 25 e 26 - Contribuição anual para os organismos referidos na designação orçamental.
+
+Justificação da referência n.º 27 - Encargos com delegações ou missões estrangeiras que visitam Portugal a convite da Assembleia da República.
+
+Justificação da referência n.º 28 - Gratificação nos termos do [Decreto-Lei n.º 305/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1982-397286), de 2 de Agosto.
+
+Justificação da referência n.º 29 - Publicação do Diário da Assembleia da República e de separatas diversas (artigo 123.º do Regimento da Assembleia da República).
+
+Justificação da referência n.º 30 - Aquisição de maquinaria e equipamento para os Gabinetes do Presidente da Assembleia da República e Grupos Parlamentares.
+
+Justificação da referência n.º 31 - Artigo 17.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República) (quadro permanente de funcionários da Assembleia da República).
+
+Justificação da referência n.º 32 - Artigo 5.º da [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777) (alterações à Lei Orgânica da Assembleia da República) (para a realização de tarefas que não possam ser asseguradas pelo pessoal permanente é permitido contratar pessoal além do quadro, por despacho do Presidente da Assembleia da República, mediante proposta do Secretário-Geral e parecer favorável do Conselho Administrativo).
+
+Justificações das referências n.os 33 e 34 - Artigo 23.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República) (podem ser requisitados ou destacados nominalmente, com o acordo prévio do interessado, pelo Secretário-Geral ou a seu pedido, com parecer favorável do Conselho Administrativo, funcionários do quadro geral de adidos ou dos quadros de departamentos do Estado, incluindo os seus serviços personalizados para prestarem serviço na Assembleia da República).
+
+Justificação da referência n.º 35 - N.os 3 e 4 do artigo 24.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República) (inclui o pagamento dos vencimentos às telefonistas dos CTT em serviço na central telefónica de São Bento):
+
+3 - As comissões especializadas da Assembleia da República poderão igualmente propor a admissão de pessoal em regime de tarefa. bem como o convite a entidades nacionais ou estrangeiras para realizar estudos, inquéritos ou trabalhos de carácter eventual.
+
+4 - A duração, termos e remuneração dos serviços prestados em regime de tarefa, bem como dos estudos, inquéritos e trabalhos de carácter eventual previstos nos números anteriores, serão estabelecidos por despacho do Presidente da Assembleia da República, com parecer favorável do Conselho Administrativo.
+
+Justificação da referência n.º 36 - [Decreto-Lei n.º 496/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1980-462422), de 20 de Outubro (regula de forma sistemática a atribuição de subsídios de férias e Natal à função pública).
+
+Justificação da referência n.º 37 - [Decreto-Lei n.º 48059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48059-1967-400846), de 23 de Novembro de 1947, e [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio (atribui e fixa as diuturnidades à função pública).
+
+Justificação da referência n.º 38 - n.º 3 do artigo 21.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República) (o pessoal auxiliar ao serviço da Assembleia da República terá direito ao regime de horas extraordinárias estabelecido pelo [Decreto-Lei n.º 793/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1974-235938), de 31 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 305/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1975-337054), de 21 de Junho).
+
+Justificação da referência n.º 39 - [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, conjugado com o n.º 1 do artigo 8.º do [Decreto-Lei n.º 106-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-1983-178294), de 18 de Fevereiro (atribuição, fixação e actualização do subsídio de refeição à função pública).
+
+Justificação da referência n.º 40 - N.º 2 do artigo 21.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220) de 25 de Maio (Lei Orgânica da Assembleia da República) (regime especial de prestação de trabalhos do pessoal ao serviço da Assembleia da República - prestação de serviço por turnos e remuneração suplementar durante o funcionamento da Assembleia da República).
+
+Justificação da referência n.º 41 - [Decreto n.º 16997](https://diariodarepublica.pt/dr/detalhe/decreto/16997-1929-295471), de 20 de Junho de 1929, e despacho de S. Ex.ª o Presidente da Assembleia da República (instalação e utilização de telefones de residências dos funcionários que estejam encarregados ou chefiem serviços de carácter permanente).
+
+Justificação da referência n.º 42 - [Decreto-Lei n.º 197/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1977-252069), de 17 de Maio (atribuição de abono de família a descendentes dos trabalhadores da função pública).
+
+Justificação da referência n.º 43 - Artigo 14.º do [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964 (pagamento comparticipação beneficiários ADSE - consultas e meios auxiliares de diagnóstico e terapêutica, internamentos, intervenções cirúrgicas, etc.).
+
+Justificação da referência n.º 44 - N.º 1 do artigo 17.º do [Decreto-Lei n.º 219/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1983-451826), de 26 de Maio:
+
+As entidades referidas na alínea a) do n.º 1 do artigo 5.º do presente diploma deverão contratar no prazo de 90 dias, a contar da data da publicação do presente diploma, os médicos necessários para a inspecção domiciliária da doença dos seus funcionários.
+
+Justificação da referência n.º 45 - [Decreto-Lei n.º 170/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1980-474564), de 29 de Maio (abono complementar a crianças e jovens deficientes, subsídio mensal vitalício e subsídio de nascimento, aleitação, por frequência de estabelecimentos de educação especial, de casamento e de funeral).
+
+Justificação da referência n.º 46 - Artigo 3.º do [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964, e acordo celebrado em 20 de Janeiro de 1978 (inscrição de servidores como beneficiários da ADSE).
+
+Justificação da referência n.º 47 - [Decreto-Lei n.º 308/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1972-676444), de 17 de Agosto, conjugado com o despacho conjunto de 22 de Novembro de 1982, publicado no Diário da República, 2.ª série, de 27 de Novembro de 1982 (criação dos Serviços Sociais da Presidência do Conselho de Ministros, nos quais a Assembleia da República se encontra integrada, e comparticipação mensal para os encargos daqueles Serviços).
+
+Justificação da referência n.º 48 - N.º 5 do artigo 21.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República) (fixação pelo Conselho Administrativo de um subsídio de alimentação aos funcionários e agentes, aquando do funcionamento do Plenário da Assembleia da República).
+
+Justificação da referência n.º 49 - Decretos-Leis n.os 45150, de 22 de Julho de 1983, e 45678, de 25 de Abril de 1964 (atribuição aos guardas dos monumentos nacionais do direito a fardamento nos mesmos termos do outro pessoal menor dos ministérios e concessão de fardamentos ou outros artigos de vestuário, resguardo ou calçado ao pessoal menor).
+
+Justificação da referência n.º 50 - N.º 5 do artigo 21.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República) (fixação pelo Conselho Administrativo da Assembleia da República de um subsídio de transporte aos funcionários e agentes, aquando do funcionamento do Plenário da Assembleia da República).
+
+Justificação da referência n.º 51 - [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951 (satisfação de encargos advindos da ocorrência de acidentes em serviço).
+
+Justificação da referência n.º 52 - Aquisição de artigos de adorno, obras de arte, exposição e bens com valor histórico.
+
+Justificação da referência n.º 53 - Aquisição de artigos referidos na designação orçamental destinados às viaturas, aquecimento, etc.
+
+Justificação da referência n.º 54 - Higiene e limpeza (toalhas, panos de pó, esfregões, etc.).
+
+Justificação da referência n.º 55 - Expediente de secretaria.
+
+Justificação da referência n.º 56 - Higiene e limpeza (detergentes, sabão, cera, etc.).
+
+Justificação da referência n.º 57 - Obtenção de água, luz, aquecimento e força motriz (inclui limpeza das instalações dos serviços).
+
+Justificação da referência n.º 58 - Rendas de casa e aluguer de equipamento, nomeadamente máquinas fotocopiadoras.
+
+Justificação da referência n.º 59 - Telefones, correios, telégrafos, telexes, etc.
+
+Justificação da referência n.º 60 - Rubrica residual que abrange as aquisições não enquadráveis nas anteriores (inclui o pagamento de remunerações a indivíduos recrutados acidentalmente para trabalho sazonal).
+
+Justificação da referência n.º 61 - Seguro de viaturas pertencentes ao parque automóvel da Assembleia da República.
+
+Justificação da referência n.º 62 - N.º 1 do artigo 24.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República):
+
+Sob proposta dos presidentes das comissões especializadas da Assembleia da República e parecer favorável do conselho administrativo, poderão ser realizados estudos ou tarefas.
+
+Justificação da referência n.º 63 - Comparticipação, com a festa-convívio dos trabalhadores da Assembleia da República a realizar na época do Natal.
+
+Justificação da referência n.º 64 - Obras a realizar no Palácio de São Bento.
+
+Justificação da referência n.º 65 - Maquinaria e equipamento para os serviços e apetrechamento da secção de reprografia e microfilmagem (n.º 2 do artigo 5.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio - Lei Orgânica da Assembleia da República).
+
+Justificação da referência n.º 66 - [Lei n.º 69/79](https://diariodarepublica.pt/dr/detalhe/lei/69-1979-364884), de Outubro (Serviço de Apoio ao Conselho de Imprensa e respectivo quadro de pessoal).
+
+Justificação da referência n.º 67 - [Decreto-Lei n.º 496/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1980-462422), de 20 de Outubro (regula de forma sistemática a atribuição de subsídios de férias e de Natal à função pública).
+
+Justificação da referência n.º 68 - [Decreto-Lei n.º 48059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48059-1967-400846), de 23 de Novembro de 1947, e [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio (atribui e fixa as diuturnidades à função pública).
+
+Justificação da referência n.º 69 - O pessoal auxiliar terá direito ao regime de horas extraordinárias estabelecido pelo [Decreto-Lei n.º 793/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1974-235938), de 31 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 305/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1975-337054), de 21 de Junho.
+
+Justificação da referência n.º 70 - [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, conjugado com o n.º 1 do artigo 8.º do [Decreto-Lei n.º 106-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-1983-178294), de 18 de Fevereiro (atribuição, fixação do subsídio de refeição à função pública).
+
+Justificação da referência n.º 71 - N.º 1 do artigo 16.º da [Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/lei/31-1978-295162), de 20 de Junho (os membros do Conselho de Imprensa terão direito a senhas de presença no valor de um décimo do salário mínimo nacional por cada reunião a que compareçam).
+
+Justificação da referência n.º 72 - [Decreto n.º 16997](https://diariodarepublica.pt/dr/detalhe/decreto/16997-1929-295471), de Junho de 1929, e despacho do presidente da Assembleia da República (pagamento da instalação e utilização de telefones de residências dos funcionários que estejam encarregados ou chefiem serviços de carácter permanente).
+
+Justificação da referência n.º 73 - Ajudas de custo e transportes aos membros do Conselho de Imprensa.
+
+Justificação da referência n.º 74 - Higiene e limpeza (toalhas, panos de pó, esfregões, etc.).
+
+Justificação da referência n.º 75 - Expediente de secretaria.
+
+Justificação da referência n.º 76 - Higiene e limpeza (detergentes, sabão, cera, etc.).
+
+Justificação da referência n.º 77 - Obtenção de água, luz, aquecimento e força motriz (inclui limpeza das instalações dos serviços).
+
+Justificação da referência n.º 78 - Rendas de casa e aluguer de equipamento, nomeadamente máquinas fotocopiadoras.
+
+Justificação da referência n.º 79 - Telefones, correios, telégrafos, telexes, etc.
+
+Justificação da referência n.º 80 - Rubrica residual que abrange as aquisições não enquadráveis nas anteriores (inclui o pagamento de remunerações a indivíduos recrutados acidentalmente para trabalho sazonal).
+
+Justificação da referência n.º 81 - Seguro de viaturas pertencentes ao parque automóvel da Assembleia da República.
+
+Justificação da referência n.º 82 - Maquinaria e equipamento para a apetrechamento dos serviços.
+
+Justificação da referência n.º 83 - Artigo 7.º da [Lei n.º 3/79](https://diariodarepublica.pt/dr/detalhe/lei/3-1979-476695), de 10 e Janeiro:
+
+Os encargos com o financiamento do Conselho Nacional de Alfabetização e Educação de Base de Adultos são cobertos pela dotação orçamental atribuído à Assembleia da República, à qual o Conselho pode requisitar as instalações e o apoio técnico e administrativo de que necessite para o exercício das suas funções.
+
+Justificação da referência n.º 84 - [Decreto-Lei n.º 496/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1980-462422), de 20 de Outubro (regula de forma sistemática a atribuição de subsídios de férias e de Natal à função pública).
+
+Justificação da referência n.º 85 - [Decreto-Lei n.º 48059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48059-1967-400846), de 23 de Novembro de 1947, e [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio (atribui e fixa as diuturnidades à função pública).
+
+Justificação da referência n.º 86 - N.º 3 do artigo 21.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República):
+
+O pessoal auxiliar ao serviço da Assembleia da República terá direito ao regime de horas extraordinárias estabelecido pelo [Decreto-Lei n.º 793/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1974-235938), de 31 de Dezembro com as alterações introduzidas pelo [Decreto-Lei n.º 305/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1975-337054), de 21 de Junho.
+
+Justificação da referência n.º 87 - [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, conjugado com o n.º 1 do artigo 8.º do [Decreto-Lei n.º 106-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-1983-178294), de 18 de Fevereiro (atribuição, fixação e actualização do subsídio de refeição à função pública).
+
+Justificação das referências n.os 88 e 89 - Artigo 7.º da [Lei n.º 3/79](https://diariodarepublica.pt/dr/detalhe/lei/3-1979-476695), de 10 de Janeiro, conjugado com o parecer da Auditoria Jurídica da PCM, homologado por despacho de 21 de Fevereiro de 1982 do Presidente da Assembleia da República. Justificação da referência n.º 90 - Higiene e limpeza (toalhas. panos de pó, esfregões. etc.).
+
+Justificação da referência n.º 91 - Expediente de secretaria.
+
+Justificação da referência n.º 92 - Higiene e limpeza (detergentes, sabão, cera, etc.).
+
+Justificação da referência n.º 93 - Obtenção de água, luz, aquecimento e força motriz (inclui limpeza das instalações dos serviços).
+
+Justificação da referência n.º 94 - Rendas de casa e aluguer de equipamento, nomeadamente máquinas fotocopiadoras.
+
+Justificação da referência n.º 95 - Telefones, correios, telégrafos, telexes, etc.
+
+Justificação da referência n.º 96 - Rubrica residual que abrange as aquisições não enquadráveis nas anteriores (inclui o pagamento de remunerações a indivíduos recrutados acidentalmente para trabalho sazonal).
+
+Justificação da referência n.º 97 - Maquinaria e equipamento para apetrechamento dos serviços.
+
+Justificação da referência n.º 98 - Artigo 9.º da [Lei n.º 71/78](https://diariodarepublica.pt/dr/detalhe/lei/71-1978-325307), de 27 de Dezembro (apoio técnico e administrativo à CNE)
+
+Justificação da referência n.º 99 - [Decreto-Lei n.º 496/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1980-462422), de 20 de Outubro (regula de forma sistemática a atribuição de subsídios de férias e de Natal à função pública).
+
+Justificação da referência n.º 100 - Decretos-Leis n.os 48059, de 23 de Novembro de 1947, e 330/76, de 7 de Maio (atribui e fixa as diuturnidades à função pública)
+
+Justificação da referência n.º 101 - O pessoal auxiliar terá direito ao regime de horas extraordinárias estabelecido pelo [Decreto-Lei n.º 793/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1974-235938), de 31 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 305/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1975-337054), de 21 de Junho.
+
+Justificação da referência n.º 102 - [Decreto-Lei n.º 305/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1977-245086), de 29 de Julho, conjugado com o n.º 1 do artigo 8.º do [Decreto-Lei n.º 106-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-1983-178294), de 18 de Fevereiro (atribuição, fixação e actualização do subsídio de refeição à função pública).
+
+Justificação da referência n.º 103 - n.º 5 do artigo 4.º da [Lei n.º 71/78](https://diariodarepublica.pt/dr/detalhe/lei/71-1978-325307), de 27 de Dezembro:
+
+Os membros da Comissão Nacional de Eleições têm direito a uma senha de presença por cada dia de reunião correspondente a 1/75 do subsídio mensal de deputado.
+
+Justificação da referência n.º 104 - N.º 5 do artigo 21.º da [Lei n.º 32/77](https://diariodarepublica.pt/dr/detalhe/lei/32-1977-632220), de 25 de Maio (Lei Orgânica da Assembleia da República) (fixação pelo conselho administrativo da Assembleia da República de um subsídio de transporte aos funcionários e agentes, aquando do funcionamento do Plenário da Assembleia da República).
+
+Justificação da referência n.º 105 - Higiene e limpeza (toalhas, panos de pó, esfregões, etc.).
+
+Justificação da referência n.º 106 - Expediente de secretaria.
+
+Justificação da referência n.º 107 - Higiene e limpeza (detergentes, sabão, cera, etc.).
+
+Justificação da referência n.º 108 - Obtenção de água, luz, aquecimento e força motriz (inclui limpeza das instalações dos serviços).
+
+Justificação da referência n.º 109 - Rendas de casa e aluguer de equipamento, nomeadamente máquinas fotocopiadoras.
+
+Justificação da referência n.º 110 - Telefones, correios, telégrafos, telexes, etc.
+
+Justificação da referência n.º 111 - Rubrica residual que abrange as aquisições não enquadráveis nas anteriores (inclui o pagamento de remunerações a indivíduos recrutados acidentalmente para trabalho sazonal).
+
+Justificação da referência n.º 112 - Maquinaria e equipamento para apetrechamento dos serviços.
+
+Justificação da referência n.º 113 - Artigo 37.º, N.º 2, da Lei do Conselho da Comunicação Social:
+
+O Conselho pode requisitar à Assembleia da República o pessoal técnico e administrativo de que necessite para o exercício das suas funções.
+
+Justificação das referências n.os 114 a 118 - n.º 1 do artigo 24.º da Lei do Conselho da Comunicação Social:
+
+Aos membros do Conselho da Comunicação Social é atribuída uma remuneração correspondente à letra A da função pública, bem como os direitos e regalias inerentes à condição de trabalhador da Administração Pública.
+
+Justificação da referência n.º 119 - N.º 4 do artigo 26.º da Lei do Conselho da Comunicação Social:
+
+[...] Têm direito a uma senha de presença correspondente a 2% da remuneração base, por cada reunião em que participem.
+
+Justificação da referência n.º 120 - Veja justificação da referência n.º 41.
+
+Justificação das referências n.os 121, 121/A, 121/B e 122 - Veja justificação da referência n.º 114.
+
+Justificação da referência n.º 123 - N.º 5 do artigo 26.º da Lei do Conselho da Comunicação Social:
+
+Os membros do Conselho da Comunicação Social têm direito a ajudas de custo e ao reembolso de despesas de transporte, a abonar, nos termos e quantitativos fixados para a letra A do funcionalismo público, por cada reunião a que assistam.
+
+Justificação da referência n.º 124 - Higiene e limpeza (toalhas, panos de pó, esfregões, etc.).
+
+Justificação da referência n.º 125 - Expediente de secretaria.
+
+Justificação da referência n.º 126 - Higiene e limpeza (detergentes, sabão, cera, etc.).
+
+Justificação da referência n.º 127 - Água, luz, aquecimento e limpeza das instalações.
+
+Justificação da referência n.º 128 - Rendas de casa e aluguer de equipamento, nomeadamente máquinas fotocopiadoras.
+
+Justificação da referência n.º 129 - Telefones, correios, telégrafos, telexes, etc.
+
+Justificação da referência n.º 130 - Rubrica residual que abrange as aquisições não enquadráveis nas anteriores (inclui o pagamento de remunerações a indivíduos recrutados acidentalmente para trabalho sazonal).
+
+Justificação da referência n.º 131 - Maquinaria e equipamento para apetrechamento dos serviços.
+
+Justificação das referências n.os 132 a 152 - Encargos com o funcionamento dos SCE/PIDE/DGS e LP previstos no respectivo orçamento, elaborado por aqueles serviços, tendo em atenção a [Lei Constitucional n.º 1/82](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), de 30 de Setembro, e a Resolução da Assembleia da República n.º 202, de 12 de Novembro de 1982 (transfere para a dependência da Assembleia da República os SCE/PIDE/DGS e LP).
+
+Justificação das referências n.os 153 e 154 - N.º 2 do artigo 41.º da [Lei n.º 81/77](https://diariodarepublica.pt/dr/detalhe/lei/81-1977-281427), de 22 de Novembro:
+
+A dotação orçamental do Serviço do Provedor de Justiça constará de verba inscrita no orçamento da Assembleia da República.
+
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.

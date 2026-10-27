@@ -1,0 +1,228 @@
+---
+schema_version: '1.0'
+id: pt:dre:272987:por
+title: Portaria n.º 23449
+short_title: null
+summary: Aprova o Regulamento do Fundo de Fomento e de Propaganda do Café - Revoga o § único do n.º 3.º da Portaria n.º 18729
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Economia
+proposing_entity: null
+official_number: '23449'
+official_date: null
+publication_date: '1968-06-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 150/1968, Série I de 1968-06-26
+  number: '150'
+  series: I
+  supplement: null
+  pages: 926 - 928
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/06/15000/09260928.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '272987'
+  dre_path: /dr/detalhe/portaria/23449-1968-272987
+  internal: pt:dre:272987:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/23449-1968-272987
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23449-1968-272987
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:47:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 77ab7642db54a64e1e2ff517df5ce1f32e70d98ae75f38071af17f7a49ce4958
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Interministerial do Café
+- Conselho Administrativo
+- Fundo de Fomento e de Propaganda do Café
+- Gestão Financeira
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:298026:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:298026:por
+  label: "Extintas as taxas que constituíam receita do Fundo de Fomento e de Propaganda do Café, referidas no art. 5º do presente\
+    \ diploma, pelo DEC LEI.163/78.06.07.1978.MFP, DR.IS [153] de 06.07.1978\078\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1978-298026
+  date: '1978-07-06'
+- type: cites
+  target: pt:dre:173969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480503:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:47:13Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 23449
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 17.º do [Decreto n.º 48366](https://diariodarepublica.pt/dr/detalhe/decreto/48366-1968-274847), de 2 de Maio de 1968, o seguinte:
+
+Regulamento do Fundo de Fomento e de Propaganda do Café
+
+1.º O Fundo de Fomento e de Propaganda do Café, instituído pelo artigo 24.º do [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, é o órgão de apoio financeiro da Comissão Interministerial do Café e dos seus serviços de apoio, competindo-lhe, designadamente, para o desempenho das suas atribuições:
+
+1. Custear:
+
+a) Os encargos com a Comissão Interministerial do Café e seus serviços de apoio;
+
+b) A criação e funcionamento de escritórios comerciais em centros internacionais de comércio de café;
+
+c) As contribuições para os organismos internacionais afectos à economia do café ou de algum modo com ela relacionada, de que Portugal seja membro;
+
+d) As participações em congressos, conferências, reuniões e missões de carácter técnico e económico relacionados com o café;
+
+e) A propaganda interna e externa dos cafés portugueses;
+
+f) Os estudos de carácter económico, técnico ou de publicidade sobre o café, chá, cacau e outros que, por determinação expressa do Ministro do Ultramar, foram efectuados pela Direcção-Geral de Economia ou por ela contratados.
+
+2. Subsidiar:
+
+a) A investigação científica e tecnológica, o fomento cafeícola nas províncias produtoras e a assistência técnica à produção;
+
+b) A Revista do Café Português e outras publicações de carácter técnico que tratem do produto.
+
+2.º O Fundo de Fomento e de Propaganda do Café depende directamente do Ministro do Ultramar e goza de autonomia administrativa e financeira, dentro dos limites definidos na lei.
+
+3.º O Fundo será gerido pelo conselho administrativo referido no § 1.º do artigo 4.º do [Decreto n.º 48366](https://diariodarepublica.pt/dr/detalhe/decreto/48366-1968-274847), de 2 de Maio de 1968, devendo o seu presidente submeter a despacho do Ministro do Ultramar todos os assuntos que dependam de autorização superior.
+
+§ 1.º Aos membros do conselho administrativo, com excepção do vogal representante da Direcção-Geral de Fazenda, poderão ser atribuídas senhas de presença, a fixar por despacho do Ministro do Ultramar.
+
+§ 2.º O vogal representante da Direcção-Geral de Fazenda perceberá a gratificação que for fixada nos termos do § 4.º do artigo 4.º do [Decreto n.º 48366](https://diariodarepublica.pt/dr/detalhe/decreto/48366-1968-274847), de 2 de Maio de 1968.
+
+4.º O presidente do conselho administrativo será o representante do Fundo, intervindo, nessa qualidade, em todos os actos e contratos quando necessários à consecução dos seus objectivos.
+
+5.º Constituem receitas do Fundo:
+
+a) Taxas cobradas na metrópole sobre importação de café estrangeiro, estabelecidas pela [Portaria n.º 9742](https://diariodarepublica.pt/dr/detalhe/portaria/9742-1941-416221), de 22 de Fevereiro de 1941, e § 1.º do artigo 24.º do [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961;
+
+b) As sobretaxas cobradas pelas alfândegas em Angola sobre o café exportado para qualquer destino, nos termos dos n.os 3.º e 4.º da [Portaria n.º 16396](https://diariodarepublica.pt/dr/detalhe/portaria/16396-1957-281239), de 2 de Setembro de 1957, n.º 1.º da [Portaria n.º 16651](https://diariodarepublica.pt/dr/detalhe/portaria/16651-1958-305001), de 31 de Março de 1958, e artigo 2.º do [Decreto n.º 47196](https://diariodarepublica.pt/dr/detalhe/decreto/47196-1966-480503), de 14 de Setembro de 1966;
+
+c) Quaisquer outros recursos financeiros que lhe pertençam ou lhe venham a ser expressamente consignados por lei.
+
+§ 1.º O produto das receitas será depositado, nas províncias ultramarinas, nos bancos emissores e, na metrópole, no Banco de Angola, em conta aberta à ordem do conselho administrativo do Fundo.
+
+§ 2.º Compete aos serviços e organismos que cobrem ou arrecadem as receitas efectuar o seu depósito, dentro dos prazos legais, nas contas referidas no parágrafo antecedente.
+
+6.º O conselho administrativo movimenta os dinheiros do Fundo por meio de cheques, assinados pelo seu presidente e pelo vogal representante da Direcção-Geral de Fazenda.
+
+§ único. O conselho poderá manter em cofre um fundo permanente para satisfação de despesas correntes, de quantitativo a fixar por despacho do Ministro do Ultramar, o qual ficará a cargo do chefe dos serviços de apoio.
+
+7.º O serviço de contabilidade e expediente do Fundo será desempenhado pelos serviços de apoio à Comissão Interministerial do Café.
+
+§ único. Sem prejuízo do disposto no corpo deste número, poderá o conselho administrativo propor ao Ministro do Ultramar, nos termos do § 2.º do artigo 12.º do [Decreto n.º 48366](https://diariodarepublica.pt/dr/detalhe/decreto/48366-1968-274847), de 2 de Maio de 1968, a admissão de pessoal, em regime de assalariamento ou de tarefa, para auxiliar o exercício daquelas atribuições.
+
+8.º Sob proposta do presidente da Comissão Interministerial do Café poderá o pessoal dos serviços de apoio efectuar, em regime de tarefa, estudos ou trabalhos de que ela careça. As remunerações por estes estudos e trabalhos, pagas de uma só vez, mensalmente ou conforme for determinado, serão fixadas pelo Ministro e são acumuláveis com quaisquer outros vencimentos ou gratificações.
+
+9.º O serviço de contabilidade é referido sòmente a anos económicos, que coincidem com os anos civis, e, nesta conformidade, todas as operações de receita e despesa pertencerão ao ano económico em que se realizarem.
+
+§ único. A conta respeitante a cada ano económico será encerrada em 14 de Fevereiro, escriturando-se, em referência a 31 de Dezembro, todas as receitas e despesas respeitantes ao ano económico findo nessa data, cobradas e pagas no referido ano.
+
+10.º Nas propostas para a realização de despesas deverão sempre os serviços de apoio à Comissão Interministerial do Café certificar, em presença da escrita do livro de disposição de verbas, que o montante da despesa tem cabimento na verba própria, sem o que não poderão ser presentes a decisão do Ministro do Ultramar ou do conselho administrativo, conforme os casos.
+
+11.º Na realização de despesas de conta do Fundo na província de Angola observar-se-ão, além das normas legais que regem a matéria, as seguintes regras:
+
+1.ª Serão efectuadas por intermédio do Instituto do Café de Angola, depois de obtida a competente autorização do Ministro do Ultramar ou do conselho administrativo, conforme estejam ou não dentro da competência deste;
+
+2.ª Os documentos concernentes às despesas realizadas deverão ser remetidos mensalmente aos serviços de apoio à Comissão Interministerial do Café, acompanhados da respectiva conta corrente;
+
+3.ª Verificada a legalidade dos documentos, serão estes definitivamente liquidados e reembolsado o Instituto das importâncias despendidas.
+
+§ único. A conta corrente e respectivos documentos referentes às despesas realizadas no mês de Dezembro deverão ser enviadas, por via aérea, ao seu destino até 15 do mês imediato, impreterìvelmente, de forma a poderem ser contabilizados até 14 de Fevereiro.
+
+12. Na realização de despesas com o funcionamento dos escritórios comerciais observar-se-á, na parte pertinente, o disposto nas regras antecedentes, sendo o director do escritório responsável, perante o conselho administrativo do Fundo, pela gestão das verbas postas à sua disposição.
+
+§ único. O director do escritório, como gestor de verbas orçamentais, deverá ter sempre em dias, sob sua responsabilidade, a escrita de um livro donde conste, com o desenvolvimento necessário, o estado de cada uma das verbas a seu cargo.
+
+13.º O produto dos saldos das gerências anteriores será, em regra, aplicado em despesas de fomento económico ou na intensificação de planos de propaganda.
+
+14.º Nas faltas, impedimentos ou ausências dos membros do conselho administrativo, as substituições dão-se pela forma seguinte:
+
+a) O presidente da Comissão Interministerial do Café, pelo chefe dos serviços de apoio;
+
+b) Os restantes membros do conselho, pelos funcionários que forem designados por despacho do Ministro do Ultramar, sob proposta do presidente da Comissão Interministerial do Café, ouvido, quanto ao vogal representante da Direcção-Geral de Fazenda, o respectivo director-geral.
+
+15.º A Direcção-Geral de Fazenda tomará as providências necessárias para que, no mais curto prazo, os saldos da conta do Fundo de Fomento e de Propaganda do Café, apurados em 30 de Junho de 1968, sejam postos à disposição do conselho administrativo do Fundo.
+
+16.º Os serviços prestados, os direitos adquiridos e as obrigações contraídas por conta do Fundo até 30 de Junho de 1968 constituem encargo do orçamento do Fundo de Fomento e de Propaganda do Café.
+
+17.º O pessoal contratado e assalariado que presta actualmente serviço no Fundo de Fomento e de Propaganda do Café perceberá as suas remunerações, até ao provimento dos lugares criados pelo [Decreto n.º 48366](https://diariodarepublica.pt/dr/detalhe/decreto/48366-1968-274847), de 2 de Maio de 1968, por conta de verba global a inscrever no orçamento do Fundo.
+
+18.º O primeiro orçamento do Fundo de Fomento e de Propaganda do Café será submetido a aprovação ministerial dentro do prazo de 30 dias.
+
+19.º Fica revogado o § único do n.º 3.º da [Portaria n.º 18729](https://diariodarepublica.pt/dr/detalhe/portaria/18729-1961-180466), de 15 de Setembro de 1961.
+
+20.º Esta portaria entra em vigor em 1 de Julho de 1968.
+
+Ministério do Ultramar, 26 de Junho de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.

@@ -1,0 +1,850 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:250392:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1977-178582837",
+ "dre_path": "/dr/detalhe/decreto-lei/259-1977-250392",
+ "source_lastmod": "2025-06-20",
+ "versions": [
+  {
+   "date": "1977-06-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "922108040",
+    "178583509",
+    "178583510",
+    "178583511",
+    "178583512",
+    "178583513",
+    "178583514",
+    "178583515",
+    "178583516",
+    "178583517",
+    "178583518",
+    "178583519",
+    "178583520",
+    "178583521",
+    "178583522",
+    "178583523",
+    "178583524",
+    "178583525",
+    "178583526",
+    "178583527",
+    "178583528",
+    "178583529",
+    "178583530",
+    "178583531",
+    "178583532",
+    "178583533",
+    "178583534",
+    "178583535",
+    "178583536",
+    "178583537",
+    "178583538",
+    "178583539",
+    "178583540"
+   ]
+  },
+  {
+   "date": "1977-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:251274:por",
+     "title": "Rectificação",
+     "published": "1977-07-30",
+     "dre_path": "/dr/detalhe/rectificacao/1977-251274"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 7.º",
+    "Retifica Artigo 10.º"
+   ],
+   "fragments": [
+    "178583508",
+    "178583509",
+    "178583510",
+    "178583511",
+    "178583512",
+    "178583513",
+    "178583514",
+    "178583515",
+    "178583516",
+    "178583517",
+    "922110695",
+    "178583519",
+    "178583520",
+    "178583521",
+    "178583522",
+    "922110696",
+    "178583524",
+    "178583525",
+    "178583526",
+    "178583527",
+    "178583528",
+    "178583529",
+    "178583530",
+    "178583531",
+    "178583532",
+    "178583533",
+    "178583534",
+    "178583535",
+    "178583536",
+    "178583537",
+    "178583538",
+    "178583539",
+    "178583540",
+    "178583541"
+   ]
+  },
+  {
+   "date": "1978-09-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:329998:por",
+     "title": "Decreto-Lei n.º 271/78",
+     "published": "1978-09-05",
+     "dre_path": "/dr/detalhe/decreto-lei/271-1978-329998"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "178583508",
+    "178583509",
+    "178583510",
+    "178583511",
+    "178583512",
+    "178583513",
+    "178583514",
+    "178583515",
+    "178583516",
+    "178583517",
+    "922141986",
+    "178583519",
+    "178583520",
+    "178583521",
+    "178583522",
+    "922110696",
+    "178583524",
+    "178583525",
+    "178583526",
+    "178583527",
+    "178583528",
+    "178583529",
+    "178583530",
+    "178583531",
+    "178583532",
+    "178583533",
+    "178583534",
+    "178583535",
+    "178583536",
+    "178583537",
+    "178583538",
+    "178583539",
+    "178583540",
+    "178583541"
+   ]
+  },
+  {
+   "date": "2019-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122434535:por",
+     "title": "Lei n.º 36/2019",
+     "published": "2019-05-29",
+     "dre_path": "/dr/detalhe/lei/36-2019-122434535"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "922108040",
+    "922108041",
+    "922108042",
+    "922108043",
+    "922108044",
+    "922108045",
+    "922108046",
+    "922108047",
+    "922108048",
+    "922108049",
+    "922108050",
+    "922108051",
+    "922108052",
+    "922108053",
+    "922108054",
+    "922108055",
+    "922108056",
+    "922108057",
+    "922108058",
+    "922108059",
+    "922108060",
+    "922108061",
+    "922108062",
+    "922108063",
+    "922108064",
+    "922108065",
+    "922108066",
+    "922108067",
+    "922108068",
+    "922108069",
+    "922108070",
+    "922108071",
+    "922108072",
+    "922108073"
+   ]
+  }
+ ],
+ "fragments": {
+  "922108040": {
+   "fragment_id": "178582838",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-06-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 259/77\n\nde 21 de Junho\n\nConsiderando de grande alcance nacional a execução de uma política coerente de integração dos cidadãos desalojados das ex-colónias;\n\nConsiderando o direito constitucional à segurança social e à protecção da saúde e a consequente necessidade do estabelecimento de sistemas que protejam os cidadãos em todas as situações de falta ou diminuição dos meios de subsistência;\n\nConsiderando que deverão ser utilizados critérios de maior flexibilidade na atribuição de determinadas prestações, a fim de poderem ser atendidas situações especiais de desalojados carecidos, com dispensa de prova de passado contributivo e presunção de desemprego involuntário;\n\nConsiderando que o recenseamento de desalojados, efectuado ao abrigo do Decreto-Lei n.º 826-A/76, de 17 de Novembro, vai permitir, através do tratamento automático da informação recebida, o conhecimento dos desalojados em situação de carência:\n\nImpõe-se proceder desde já à integração nas estruturas dos serviços de emprego, previdência e saúde de diversas modalidades de assistência e apoio que têm estado a cargo do Instituto de Apoio ao Retorno de Nacionais (IARN) prestadas directamente ou através de acordo de cooperação, ao abrigo da resolução do Conselho de Ministros de 5 de Maio de 1976.\n\nPara a inserção dos desalojados nos esquemas de subsídio de desemprego, assistência médica e medicamentosa, pensões de invalidez, de velhice e sobrevivência, abono de família e prestações complementares, torna-se, porém, necessário o estabelecimento de regimes especiais no que respeita designadamente às condições de atribuição e às fontes de financiamento.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "178583509": {
+   "fragment_id": "178582839",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "178583510": {
+   "fragment_id": "178582840",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito quanto às prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito quanto às prestações)\n\nO presente diploma institui o regime de protecção social para os desalojados, compreendendo as seguintes prestações:\n\na) Subsídio de desemprego;\n\nb) Assistência médica e medicamentosa;\n\nc) Abono de família e prestações complementares;\n\nd) Pensões de invalidez, velhice e sobrevivência."
+  },
+  "178583511": {
+   "fragment_id": "178582841",
+   "type": 11,
+   "heading": "Artigo 2.º — (Âmbito quanto às pessoas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Âmbito quanto às pessoas)\n\n1. O regime de protecção social estabelecido por este diploma aplica-se apenas aos desalojados e respectivos familiares em situação de carência, enquanto esta se mantiver.\n\n2. Considera-se em situação de carência o desalojado que não aufira rendimentos de qualquer proveniência iguais ou superiores a 60% do salário mínimo nacional, ou aquele cujo agregado familiar não atinja de rendimento per capita este valor.\n\n3. Para efeitos do número anterior, o agregado familiar é constituído:\n\na) Pelo desalojado e pelo cônjuge;\n\nb) Pelos descendentes em linha recta e equiparados, menores de 18 anos ou incapazes;\n\nc) Pelos ascendentes e afins em linha recta e equiparados, sem direito a pensão, que vivam com o desalojado em economia conjunta e na sua dependência económica.\n\n4. Estão excluídos do âmbito deste regime os trabalhadores dos serviços públicos ou administrativos, já aposentados ou que pertençam ao quadro geral de adidos."
+  },
+  "178583512": {
+   "fragment_id": "178582842",
+   "type": 11,
+   "heading": "Artigo 3.º — (Âmbito quanto às instituições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Âmbito quanto às instituições)\n\nA execução do presente diploma compete:\n\na) À Direcção de Serviços de Emprego e respectivos centros de emprego;\n\nb) Às caixas distritais de previdência e abono de família;\n\nc) À Caixa Nacional de Pensões;\n\nd) Aos serviços médico-sociais."
+  },
+  "178583513": {
+   "fragment_id": "178582843",
+   "type": 1,
+   "heading": "Capítulo II — Prestações sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Prestações sociais"
+  },
+  "178583514": {
+   "fragment_id": "178582844",
+   "type": 8,
+   "heading": "Secção I — Subsídio de desemprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Subsídio de desemprego"
+  },
+  "178583515": {
+   "fragment_id": "178582845",
+   "type": 11,
+   "heading": "Artigo 4.º — (Condições de atribuição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Condições de atribuição)\n\n1. A atribuição de subsídio de desemprego ao desalojado depende de ter sido trabalhador por conta de outrem ou por conta própria.\n\n2. Os meios de prova da condição referida no número anterior, a estabelecer nas normas regulamentares, devem ter em conta a situação específica da população desalojada."
+  },
+  "178583516": {
+   "fragment_id": "178582846",
+   "type": 11,
+   "heading": "Artigo 5.º — (Requisitos da atribuição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Requisitos da atribuição)\n\n1. A inscrição dos desalojados que satisfaçam as condições referidas no artigo anterior é feita nos centros de emprego através dos elementos enviados pelo Comissariado para os Desalojados à Direcção de Serviços de Emprego.\n\n2. Para beneficiar do subsídio de desemprego devem os desalojados apresentar pessoalmente requerimento no centro de emprego da área da sua residência e terem disponibilidade e capacidade para o trabalho comprovadas pelo referido centro.\n\n3. A incapacidade temporária para o trabalho por motivo de doença não impede a concessão do subsídio de desemprego."
+  },
+  "178583517": {
+   "fragment_id": "178582847",
+   "type": 11,
+   "heading": "Artigo 6.º — (Início do subsídio)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Início do subsídio)\n\n1. O subsídio de desemprego é devido a partir da data da apresentação do respectivo requerimento.\n\n2. Os desalojados que requeiram o subsídio de desemprego até 31 de Outubro de 1977 terão direito, verificadas as demais condições, à referida prestação a partir de 1 de Julho de 1977.\n\n3. Consideram-se equivalentes à entrada de contribuições para a Previdência os períodos de concessão de subsídio de desemprego."
+  },
+  "178583518": {
+   "fragment_id": "178582848",
+   "type": 11,
+   "heading": "Artigo 7.º — (Extinção do subsídio)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Extinção do subsídio)\n\nPara além do estabelecido nas regras gerais, o subsídio de desemprego extingue-se:\n\na) Pela recusa injustificada de ingressar em curso de formação profissional;\n\nb) Para obtenção de financiamento para projectos de actividade económica, abrangidos pelo sistema de crédito do Comissariado para os Desalojados."
+  },
+  "178583519": {
+   "fragment_id": "178582849",
+   "type": 8,
+   "heading": "Secção II — Assistência médica e medicamentosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assistência médica e medicamentosa"
+  },
+  "178583520": {
+   "fragment_id": "178582850",
+   "type": 11,
+   "heading": "Artigo 8.º — (Assistência médica e medicamentosa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Assistência médica e medicamentosa)\n\nOs desalojados e respectivos familiares têm direito à assistência médica e medicamentosa nos termos estabelecidos para o regime geral da Previdência."
+  },
+  "178583521": {
+   "fragment_id": "178582851",
+   "type": 8,
+   "heading": "Secção III — Abono de família e prestações complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Abono de família e prestações complementares"
+  },
+  "178583522": {
+   "fragment_id": "178582852",
+   "type": 11,
+   "heading": "Artigo 9.º — (Titularidade do direito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Titularidade do direito)\n\n1. Os desalojados que recebam subsídio de desemprego ou pensão de invalidez e velhice e os seus descendentes ou equiparados têm direito, nos termos das disposições em vigor, ao abono de família e prestações complementares.\n\n2. Os desalojados não integrados em agregado familiar próprio têm igualmente direito ao abono de família, subsídio mensal vitalício e subsídio de funeral, desde que satisfaçam os demais requisitos previstos no regime geral da Previdência."
+  },
+  "178583523": {
+   "fragment_id": "178582853",
+   "type": 11,
+   "heading": "Artigo 10.º — (Pagamento das prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Pagamento das prestações)\n\nAs prestações pecuniárias conseguidas ao abrigo do n.º 2 do artigo anterior são entregues à pessoa ou entidade que prove ter o desalojado a cargo ou ao próprio, quando viva em economia independente."
+  },
+  "178583524": {
+   "fragment_id": "178582854",
+   "type": 8,
+   "heading": "Secção IV — Pensão de invalidez, velhice e sobrevivência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Pensão de invalidez, velhice e sobrevivência"
+  },
+  "178583525": {
+   "fragment_id": "178582855",
+   "type": 11,
+   "heading": "Artigo 11.º — (Invalidez)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Invalidez)\n\n1. Têm direito à pensão de invalidez os desalojados nas condições do artigo 4.º que, antes de atingirem a idade estabelecida para a pensão de velhice, sofram de incapacidade total e permanente para o trabalho declarada por junta médica de verificação de invalidez.\n\n2. É atribuída uma prestação de invalidez, até à realização da junta médica referida no número anterior, ao desalojado que não tenha direito ao subsídio de desemprego por razões de incapacidade total e permanente para o trabalho devidamente comprovada.\n\n3. Da deliberação da junta médica de verificação de invalidez cabe sempre recurso.\n\n4. Sempre que se verifique junta médica de recurso na sequência de situações abrangidas pelo n.º 2, deverá da mesma fazer parte o médico do trabalho cujo parecer foi determinante para a declaração de incapacidade."
+  },
+  "178583526": {
+   "fragment_id": "178582856",
+   "type": 11,
+   "heading": "Artigo 12.º — (Velhice)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Velhice)\n\n1. Têm direito à pensão de velhice os desalojados com idade igual ou superior a 60 anos.\n\n2. A pensão de velhice é devida a partir da data do respectivo requerimento.\n\n3. Os desalojados que, à data da entrada em vigor deste diploma, tenham atingido a idade estabelecida no n.º 1 e cuja identificação conste dos elementos enviados à Caixa Nacional de Pensões pelo Comissariado para os Desalojados terão direito à pensão desde 1 de Julho de 1977."
+  },
+  "178583527": {
+   "fragment_id": "178582857",
+   "type": 11,
+   "heading": "Artigo 13.º — (Sobrevivência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Sobrevivência)\n\nTêm direito à pensão de sobrevivência por morte do desalojado o cônjuge e os descendentes ou equiparados em situação de carência que se encontrem nas condições previs as no regime geral da Previdência para a atribuição desta prestação."
+  },
+  "178583528": {
+   "fragment_id": "178582858",
+   "type": 11,
+   "heading": "Artigo 14.º — (Montante das pensões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Montante das pensões)\n\n1. O montante das pensões de invalidez e velhice é igual ao da pensão mínima do regime geral da Previdência.\n\n2. O montante das pensões extraordinárias de sobrevivência resulta da aplicação das percentagens estabelecidas pelo regulamento especial do regime de pensões de sobrevivência da Caixa Nacional de Pensões aos valores de invalidez e velhice."
+  },
+  "178583529": {
+   "fragment_id": "178582859",
+   "type": 1,
+   "heading": "Capítulo III — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime financeiro"
+  },
+  "178583530": {
+   "fragment_id": "178582860",
+   "type": 11,
+   "heading": "Artigo 15.º — (Encargos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Encargos)\n\nOs encargos resultantes do regime de protecção social previsto neste diploma serão cobertos da forma seguinte:\n\n1. Pelo Gabinete de Gestão do Fundo de Desemprego (GGFD), no que respeita ao sistema especial de protecção no desemprego, através de verbas orçamentadas ao abrigo da alínea c) do n.º 2 do artigo 7.º do Decreto-Lei n.º 759/74, de 30 de Dezembro;\n\n2. Pelas dotações descritas nos orçamentos das competentes instituições de previdência, em relação às demais prestações enunciadas no presente diploma."
+  },
+  "178583531": {
+   "fragment_id": "178582861",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "178583532": {
+   "fragment_id": "178582862",
+   "type": 11,
+   "heading": "Artigo 16.º — (Cessação do direito às prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Cessação do direito às prestações)\n\n1. Para além do estabelecido neste diploma e na lei geral, o direito às prestações cessa:\n\na) No mês seguinte àquele em que o desalojado inicia a actividade profissional;\n\nb) Desde que o desalojado resida fora do território nacional há mais de três meses.\n\n2. Mantém-se o direito às pensões de invalidez e sobrevivência nos casos em que o desalojado, tendo iniciado actividade profissional, se incapacitar ou falecer antes de decorrido o prazo de garantia legalmente estabelecido para a atribuição daquelas prestações."
+  },
+  "178583533": {
+   "fragment_id": "178582863",
+   "type": 11,
+   "heading": "Artigo 17.º — (Actualização das situações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Actualização das situações)\n\nSem prejuízo da normal competência dos serviços de emprego e das instituições de previdência, compete ao Comissariado para os Desalojados, nomeadamente através das suas comissões concelhias, comunicar as alterações de que tiver conhecimento relativas à situação dos titulares do presente regime."
+  },
+  "178583534": {
+   "fragment_id": "178582864",
+   "type": 11,
+   "heading": "Artigo 18.º — (Forma de integração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Forma de integração)\n\nA integração da população desalojada nas estruturas da segurança social efectuar-se-á gradualmente a partir dos elementos apurados no recenseamento, tendo em vista o correcto processamento das prestações e a celeridade do seu pagamento."
+  },
+  "178583535": {
+   "fragment_id": "178582865",
+   "type": 11,
+   "heading": "Artigo 19.º — (Legislação supletiva)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Legislação supletiva)\n\nEm tudo que não contrarie o carácter do presente diploma serão aplicáveis o regime do Decreto-Lei n.º 183/77, de 5 de Maio, e as disposições do regime geral da Previdência e abono de família."
+  },
+  "178583536": {
+   "fragment_id": "178582866",
+   "type": 11,
+   "heading": "Artigo 20.º — (Legislação revogada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Legislação revogada)\n\nFica expressamente revogado o Decreto-Lei n.º 496-A/76, bem como o Acordo de Cooperação Médico-Social, homologado por despacho conjunto dos Secretários de Estado da Segurança Social e dos Retornados de 16 de Julho de 1976."
+  },
+  "178583537": {
+   "fragment_id": "178582867",
+   "type": 11,
+   "heading": "Artigo 21.º — (Normas regulamentares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Normas regulamentares)\n\nPor despacho dos Secretários de Estado da População e Emprego e da Segurança Social serão aprovadas, até à entrada em vigor do presente diploma, as normas regulamentares necessárias à sua correcta execução."
+  },
+  "178583538": {
+   "fragment_id": "178582868",
+   "type": 11,
+   "heading": "Artigo 22.º — (Interpretação e integração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Interpretação e integração)\n\nAs dúvidas e as omissões suscitadas na aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários de Estado da População e Emprego e da Segurança Social, ouvido o Comissariado para os Desalojados."
+  },
+  "178583539": {
+   "fragment_id": "178582869",
+   "type": 11,
+   "heading": "Artigo 23.º — (Revisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Revisão)\n\nO presente diploma será revisto três anos após a sua entrada em vigor."
+  },
+  "178583540": {
+   "fragment_id": "178582870",
+   "type": 11,
+   "heading": "Artigo 24.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Entrada em vigor)\n\nO regime de protecção social instituído neste diploma produz efeitos a partir de 1 de Julho de 1977."
+  },
+  "178583508": {
+   "fragment_id": "178582838",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 259/77\n\nde 21 de Junho\n\nConsiderando de grande alcance nacional a execução de uma política coerente de integração dos cidadãos desalojados das ex-colónias;\n\nConsiderando o direito constitucional à segurança social e à protecção da saúde e a consequente necessidade do estabelecimento de sistemas que protejam os cidadãos em todas as situações de falta ou diminuição dos meios de subsistência;\n\nConsiderando que deverão ser utilizados critérios de maior flexibilidade na atribuição de determinadas prestações, a fim de poderem ser atendidas situações especiais de desalojados carecidos, com dispensa de prova de passado contributivo e presunção de desemprego involuntário;\n\nConsiderando que o recenseamento de desalojados, efectuado ao abrigo do Decreto-Lei n.º 826-A/76, de 17 de Novembro, vai permitir, através do tratamento automático da informação recebida, o conhecimento dos desalojados em situação de carência:\n\nImpõe-se proceder desde já à integração nas estruturas dos serviços de emprego, previdência e saúde de diversas modalidades de assistência e apoio que têm estado a cargo do Instituto de Apoio ao Retorno de Nacionais (IARN) prestadas directamente ou através de acordo de cooperação, ao abrigo da resolução do Conselho de Ministros de 5 de Maio de 1976.\n\nPara a inserção dos desalojados nos esquemas de subsídio de desemprego, assistência médica e medicamentosa, pensões de invalidez, de velhice e sobrevivência, abono de família e prestações complementares, torna-se, porém, necessário o estabelecimento de regimes especiais no que respeita designadamente às condições de atribuição e às fontes de financiamento.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "922110695": {
+   "fragment_id": "178582848",
+   "type": 11,
+   "heading": "Artigo 7.º — (Extinção do subsídio)",
+   "in_force_from": "1977-07-30",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário da República n.º 175/1977, Série I de 1977-07-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-251274), em vigor a partir de 1977-07-30"
+   ],
+   "markdown": "###### Artigo 7.º — (Extinção do subsídio)\n\nPara além do estabelecido nas regras gerais, o subsídio de desemprego extingue-se:\n\na) Pela recusa injustificada de ingressar em curso de formação profissional;\n\nb) Pela obtenção de financiamento para projectos de actividade económica, abrangidos pelo sistema de crédito do Comissariado para os Desalojados.\n\n> Retificado pelo/a [Rectificação - Diário da República n.º 175/1977, Série I de 1977-07-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-251274), em vigor a partir de 1977-07-30"
+  },
+  "922110696": {
+   "fragment_id": "178582853",
+   "type": 11,
+   "heading": "Artigo 10.º — (Pagamento das prestações)",
+   "in_force_from": "1977-07-30",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário da República n.º 175/1977, Série I de 1977-07-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-251274), em vigor a partir de 1977-07-30"
+   ],
+   "markdown": "###### Artigo 10.º — (Pagamento das prestações)\n\nAs prestações pecuniárias concedidas ao abrigo do n.º 2 do artigo anterior são entregues à pessoa ou entidade que prove ter o desalojado a cargo ou ao próprio, quando viva em economia independente.\n\n> Retificado pelo/a [Rectificação - Diário da República n.º 175/1977, Série I de 1977-07-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-251274), em vigor a partir de 1977-07-30"
+  },
+  "178583541": {
+   "fragment_id": "178582871",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Mário Soares - Joaquim Jorge de Pinho Campinos.\n\nPromulgado em 6 de Junho de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "922141986": {
+   "fragment_id": "178582848",
+   "type": 11,
+   "heading": "Artigo 7.º — (Extinção do subsídio)",
+   "in_force_from": "1978-09-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 271/78 - Diário da República n.º 204/1978, Série I de 1978-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1978-329998), em vigor a partir de 1978-09-10",
+    "Retificado pelo/a [Rectificação - Diário da República n.º 175/1977, Série I de 1977-07-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-251274), em vigor a partir de 1977-07-30"
+   ],
+   "markdown": "###### Artigo 7.º — (Extinção do subsídio)\n\n1 - O subsídio de desemprego extingue-se, para além do estabelecido nas regras gerais:\n\na) Pela recusa injustificada de ingressar em curso de formação profissional;\n\nb) Pela obtenção de financiamento para projectos de actividade económica, abrangidos pelo sistema de crédito do Comissariado para os Desalojados.\n\n2 - O subsídio de desemprego não se extingue por decurso do prazo da lei geral, desde que este seja prorrogado em termos a definir por despacho conjunto dos Secretários de Estado da População e Emprego e da Segurança Social, ouvido o Alto-Comissário para os Desalojados.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 271/78 - Diário da República n.º 204/1978, Série I de 1978-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1978-329998), em vigor a partir de 1978-09-10\n\n> Retificado pelo/a [Rectificação - Diário da República n.º 175/1977, Série I de 1977-07-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-251274), em vigor a partir de 1977-07-30"
+  },
+  "922108041": {
+   "fragment_id": "178582839",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108042": {
+   "fragment_id": "178582840",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito quanto às prestações)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 1.º — (Âmbito quanto às prestações)\n\nO presente diploma institui o regime de protecção social para os desalojados, compreendendo as seguintes prestações:\n\na) Subsídio de desemprego;\n\nb) Assistência médica e medicamentosa;\n\nc) Abono de família e prestações complementares;\n\nd) Pensões de invalidez, velhice e sobrevivência.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108043": {
+   "fragment_id": "178582841",
+   "type": 11,
+   "heading": "Artigo 2.º — (Âmbito quanto às pessoas)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 2.º — (Âmbito quanto às pessoas)\n\n1. O regime de protecção social estabelecido por este diploma aplica-se apenas aos desalojados e respectivos familiares em situação de carência, enquanto esta se mantiver.\n\n2. Considera-se em situação de carência o desalojado que não aufira rendimentos de qualquer proveniência iguais ou superiores a 60% do salário mínimo nacional, ou aquele cujo agregado familiar não atinja de rendimento per capita este valor.\n\n3. Para efeitos do número anterior, o agregado familiar é constituído:\n\na) Pelo desalojado e pelo cônjuge;\n\nb) Pelos descendentes em linha recta e equiparados, menores de 18 anos ou incapazes;\n\nc) Pelos ascendentes e afins em linha recta e equiparados, sem direito a pensão, que vivam com o desalojado em economia conjunta e na sua dependência económica.\n\n4. Estão excluídos do âmbito deste regime os trabalhadores dos serviços públicos ou administrativos, já aposentados ou que pertençam ao quadro geral de adidos.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108044": {
+   "fragment_id": "178582842",
+   "type": 11,
+   "heading": "Artigo 3.º — (Âmbito quanto às instituições)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 3.º — (Âmbito quanto às instituições)\n\nA execução do presente diploma compete:\n\na) À Direcção de Serviços de Emprego e respectivos centros de emprego;\n\nb) Às caixas distritais de previdência e abono de família;\n\nc) À Caixa Nacional de Pensões;\n\nd) Aos serviços médico-sociais.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108045": {
+   "fragment_id": "178582843",
+   "type": 1,
+   "heading": "Capítulo II — Prestações sociais",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "### Capítulo II — Prestações sociais\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108046": {
+   "fragment_id": "178582844",
+   "type": 8,
+   "heading": "Secção I — Subsídio de desemprego",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "#### Secção I — Subsídio de desemprego\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108047": {
+   "fragment_id": "178582845",
+   "type": 11,
+   "heading": "Artigo 4.º — (Condições de atribuição)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 4.º — (Condições de atribuição)\n\n1. A atribuição de subsídio de desemprego ao desalojado depende de ter sido trabalhador por conta de outrem ou por conta própria.\n\n2. Os meios de prova da condição referida no número anterior, a estabelecer nas normas regulamentares, devem ter em conta a situação específica da população desalojada.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108048": {
+   "fragment_id": "178582846",
+   "type": 11,
+   "heading": "Artigo 5.º — (Requisitos da atribuição)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 5.º — (Requisitos da atribuição)\n\n1. A inscrição dos desalojados que satisfaçam as condições referidas no artigo anterior é feita nos centros de emprego através dos elementos enviados pelo Comissariado para os Desalojados à Direcção de Serviços de Emprego.\n\n2. Para beneficiar do subsídio de desemprego devem os desalojados apresentar pessoalmente requerimento no centro de emprego da área da sua residência e terem disponibilidade e capacidade para o trabalho comprovadas pelo referido centro.\n\n3. A incapacidade temporária para o trabalho por motivo de doença não impede a concessão do subsídio de desemprego.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108049": {
+   "fragment_id": "178582847",
+   "type": 11,
+   "heading": "Artigo 6.º — (Início do subsídio)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 6.º — (Início do subsídio)\n\n1. O subsídio de desemprego é devido a partir da data da apresentação do respectivo requerimento.\n\n2. Os desalojados que requeiram o subsídio de desemprego até 31 de Outubro de 1977 terão direito, verificadas as demais condições, à referida prestação a partir de 1 de Julho de 1977.\n\n3. Consideram-se equivalentes à entrada de contribuições para a Previdência os períodos de concessão de subsídio de desemprego.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108050": {
+   "fragment_id": "178582848",
+   "type": 11,
+   "heading": "Artigo 7.º — (Extinção do subsídio)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 271/78 - Diário da República n.º 204/1978, Série I de 1978-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1978-329998), em vigor a partir de 1978-09-10",
+    "Retificado pelo/a [Rectificação - Diário da República n.º 175/1977, Série I de 1977-07-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-251274), em vigor a partir de 1977-07-30"
+   ],
+   "markdown": "###### Artigo 7.º — (Extinção do subsídio)\n\n1 - O subsídio de desemprego extingue-se, para além do estabelecido nas regras gerais:\n\na) Pela recusa injustificada de ingressar em curso de formação profissional;\n\nb) Pela obtenção de financiamento para projectos de actividade económica, abrangidos pelo sistema de crédito do Comissariado para os Desalojados.\n\n2 - O subsídio de desemprego não se extingue por decurso do prazo da lei geral, desde que este seja prorrogado em termos a definir por despacho conjunto dos Secretários de Estado da População e Emprego e da Segurança Social, ouvido o Alto-Comissário para os Desalojados.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 271/78 - Diário da República n.º 204/1978, Série I de 1978-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1978-329998), em vigor a partir de 1978-09-10\n\n> Retificado pelo/a [Rectificação - Diário da República n.º 175/1977, Série I de 1977-07-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-251274), em vigor a partir de 1977-07-30"
+  },
+  "922108051": {
+   "fragment_id": "178582849",
+   "type": 8,
+   "heading": "Secção II — Assistência médica e medicamentosa",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "#### Secção II — Assistência médica e medicamentosa\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108052": {
+   "fragment_id": "178582850",
+   "type": 11,
+   "heading": "Artigo 8.º — (Assistência médica e medicamentosa)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 8.º — (Assistência médica e medicamentosa)\n\nOs desalojados e respectivos familiares têm direito à assistência médica e medicamentosa nos termos estabelecidos para o regime geral da Previdência.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108053": {
+   "fragment_id": "178582851",
+   "type": 8,
+   "heading": "Secção III — Abono de família e prestações complementares",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "#### Secção III — Abono de família e prestações complementares\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108054": {
+   "fragment_id": "178582852",
+   "type": 11,
+   "heading": "Artigo 9.º — (Titularidade do direito)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 9.º — (Titularidade do direito)\n\n1. Os desalojados que recebam subsídio de desemprego ou pensão de invalidez e velhice e os seus descendentes ou equiparados têm direito, nos termos das disposições em vigor, ao abono de família e prestações complementares.\n\n2. Os desalojados não integrados em agregado familiar próprio têm igualmente direito ao abono de família, subsídio mensal vitalício e subsídio de funeral, desde que satisfaçam os demais requisitos previstos no regime geral da Previdência.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108055": {
+   "fragment_id": "178582853",
+   "type": 11,
+   "heading": "Artigo 10.º — (Pagamento das prestações)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Retificado pelo/a [Rectificação - Diário da República n.º 175/1977, Série I de 1977-07-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-251274), em vigor a partir de 1977-07-30"
+   ],
+   "markdown": "###### Artigo 10.º — (Pagamento das prestações)\n\nAs prestações pecuniárias concedidas ao abrigo do n.º 2 do artigo anterior são entregues à pessoa ou entidade que prove ter o desalojado a cargo ou ao próprio, quando viva em economia independente.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Retificado pelo/a [Rectificação - Diário da República n.º 175/1977, Série I de 1977-07-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-251274), em vigor a partir de 1977-07-30"
+  },
+  "922108056": {
+   "fragment_id": "178582854",
+   "type": 8,
+   "heading": "Secção IV — Pensão de invalidez, velhice e sobrevivência",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "#### Secção IV — Pensão de invalidez, velhice e sobrevivência\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108057": {
+   "fragment_id": "178582855",
+   "type": 11,
+   "heading": "Artigo 11.º — (Invalidez)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 11.º — (Invalidez)\n\n1. Têm direito à pensão de invalidez os desalojados nas condições do artigo 4.º que, antes de atingirem a idade estabelecida para a pensão de velhice, sofram de incapacidade total e permanente para o trabalho declarada por junta médica de verificação de invalidez.\n\n2. É atribuída uma prestação de invalidez, até à realização da junta médica referida no número anterior, ao desalojado que não tenha direito ao subsídio de desemprego por razões de incapacidade total e permanente para o trabalho devidamente comprovada.\n\n3. Da deliberação da junta médica de verificação de invalidez cabe sempre recurso.\n\n4. Sempre que se verifique junta médica de recurso na sequência de situações abrangidas pelo n.º 2, deverá da mesma fazer parte o médico do trabalho cujo parecer foi determinante para a declaração de incapacidade.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108058": {
+   "fragment_id": "178582856",
+   "type": 11,
+   "heading": "Artigo 12.º — (Velhice)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 12.º — (Velhice)\n\n1. Têm direito à pensão de velhice os desalojados com idade igual ou superior a 60 anos.\n\n2. A pensão de velhice é devida a partir da data do respectivo requerimento.\n\n3. Os desalojados que, à data da entrada em vigor deste diploma, tenham atingido a idade estabelecida no n.º 1 e cuja identificação conste dos elementos enviados à Caixa Nacional de Pensões pelo Comissariado para os Desalojados terão direito à pensão desde 1 de Julho de 1977.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108059": {
+   "fragment_id": "178582857",
+   "type": 11,
+   "heading": "Artigo 13.º — (Sobrevivência)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 13.º — (Sobrevivência)\n\nTêm direito à pensão de sobrevivência por morte do desalojado o cônjuge e os descendentes ou equiparados em situação de carência que se encontrem nas condições previs as no regime geral da Previdência para a atribuição desta prestação.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108060": {
+   "fragment_id": "178582858",
+   "type": 11,
+   "heading": "Artigo 14.º — (Montante das pensões)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 14.º — (Montante das pensões)\n\n1. O montante das pensões de invalidez e velhice é igual ao da pensão mínima do regime geral da Previdência.\n\n2. O montante das pensões extraordinárias de sobrevivência resulta da aplicação das percentagens estabelecidas pelo regulamento especial do regime de pensões de sobrevivência da Caixa Nacional de Pensões aos valores de invalidez e velhice.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108061": {
+   "fragment_id": "178582859",
+   "type": 1,
+   "heading": "Capítulo III — Regime financeiro",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "### Capítulo III — Regime financeiro\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108062": {
+   "fragment_id": "178582860",
+   "type": 11,
+   "heading": "Artigo 15.º — (Encargos)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 15.º — (Encargos)\n\nOs encargos resultantes do regime de protecção social previsto neste diploma serão cobertos da forma seguinte:\n\n1. Pelo Gabinete de Gestão do Fundo de Desemprego (GGFD), no que respeita ao sistema especial de protecção no desemprego, através de verbas orçamentadas ao abrigo da alínea c) do n.º 2 do artigo 7.º do Decreto-Lei n.º 759/74, de 30 de Dezembro;\n\n2. Pelas dotações descritas nos orçamentos das competentes instituições de previdência, em relação às demais prestações enunciadas no presente diploma.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108063": {
+   "fragment_id": "178582861",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108064": {
+   "fragment_id": "178582862",
+   "type": 11,
+   "heading": "Artigo 16.º — (Cessação do direito às prestações)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 16.º — (Cessação do direito às prestações)\n\n1. Para além do estabelecido neste diploma e na lei geral, o direito às prestações cessa:\n\na) No mês seguinte àquele em que o desalojado inicia a actividade profissional;\n\nb) Desde que o desalojado resida fora do território nacional há mais de três meses.\n\n2. Mantém-se o direito às pensões de invalidez e sobrevivência nos casos em que o desalojado, tendo iniciado actividade profissional, se incapacitar ou falecer antes de decorrido o prazo de garantia legalmente estabelecido para a atribuição daquelas prestações.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108065": {
+   "fragment_id": "178582863",
+   "type": 11,
+   "heading": "Artigo 17.º — (Actualização das situações)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 17.º — (Actualização das situações)\n\nSem prejuízo da normal competência dos serviços de emprego e das instituições de previdência, compete ao Comissariado para os Desalojados, nomeadamente através das suas comissões concelhias, comunicar as alterações de que tiver conhecimento relativas à situação dos titulares do presente regime.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108066": {
+   "fragment_id": "178582864",
+   "type": 11,
+   "heading": "Artigo 18.º — (Forma de integração)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 18.º — (Forma de integração)\n\nA integração da população desalojada nas estruturas da segurança social efectuar-se-á gradualmente a partir dos elementos apurados no recenseamento, tendo em vista o correcto processamento das prestações e a celeridade do seu pagamento.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108067": {
+   "fragment_id": "178582865",
+   "type": 11,
+   "heading": "Artigo 19.º — (Legislação supletiva)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 19.º — (Legislação supletiva)\n\nEm tudo que não contrarie o carácter do presente diploma serão aplicáveis o regime do Decreto-Lei n.º 183/77, de 5 de Maio, e as disposições do regime geral da Previdência e abono de família.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108068": {
+   "fragment_id": "178582866",
+   "type": 11,
+   "heading": "Artigo 20.º — (Legislação revogada)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 20.º — (Legislação revogada)\n\nFica expressamente revogado o Decreto-Lei n.º 496-A/76, bem como o Acordo de Cooperação Médico-Social, homologado por despacho conjunto dos Secretários de Estado da Segurança Social e dos Retornados de 16 de Julho de 1976.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108069": {
+   "fragment_id": "178582867",
+   "type": 11,
+   "heading": "Artigo 21.º — (Normas regulamentares)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 21.º — (Normas regulamentares)\n\nPor despacho dos Secretários de Estado da População e Emprego e da Segurança Social serão aprovadas, até à entrada em vigor do presente diploma, as normas regulamentares necessárias à sua correcta execução.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108070": {
+   "fragment_id": "178582868",
+   "type": 11,
+   "heading": "Artigo 22.º — (Interpretação e integração)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 22.º — (Interpretação e integração)\n\nAs dúvidas e as omissões suscitadas na aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários de Estado da População e Emprego e da Segurança Social, ouvido o Comissariado para os Desalojados.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108071": {
+   "fragment_id": "178582869",
+   "type": 11,
+   "heading": "Artigo 23.º — (Revisão)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 23.º — (Revisão)\n\nO presente diploma será revisto três anos após a sua entrada em vigor.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108072": {
+   "fragment_id": "178582870",
+   "type": 11,
+   "heading": "Artigo 24.º — (Entrada em vigor)",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 24.º — (Entrada em vigor)\n\nO regime de protecção social instituído neste diploma produz efeitos a partir de 1 de Julho de 1977.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922108073": {
+   "fragment_id": "178582871",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Mário Soares - Joaquim Jorge de Pinho Campinos.\n\nPromulgado em 6 de Junho de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  }
+ }
+}

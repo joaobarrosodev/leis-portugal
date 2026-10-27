@@ -1,0 +1,692 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005R2111:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R2111-20230411",
+ "dre_path": null,
+ "source_lastmod": "2023-04-11",
+ "versions": [
+  {
+   "date": "2005-12-27",
+   "future": false,
+   "celex": "32005R2111",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "982b5b45dfea8405",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "60f3af82dfb3d7ff",
+    "84effb1a867cace5",
+    "f0f8c960bfdbce9b",
+    "1aebe49c0d51d20f",
+    "f554ef20ef9b7ac0",
+    "cfda27f0cc6f3ffe",
+    "87612ff990f2843d",
+    "3817036709229ed8",
+    "3ffb31bb78851a50",
+    "1f222957cfd0b3ed",
+    "3d39ad061789854d",
+    "1e7a0903d2eed348",
+    "ed48a35ed3e01543",
+    "4a4f21c69fdeeefe",
+    "a289ebb4e576227f",
+    "ed6a0da75b99a673",
+    "b43a7a411a795bb6",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "3f4e9e3cd098896d",
+    "44e82fee8392f218",
+    "79bd4b30852dc577",
+    "cfc8f94d7bf884b3",
+    "6d4da34ca792323f"
+   ]
+  },
+  {
+   "date": "2009-08-07",
+   "future": false,
+   "celex": "02005R2111-20090807",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0596:por",
+     "title": "REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009",
+     "published": null,
+     "celex": "32009R0596"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto",
+    "Altera Artigo 3.º — Estabelecimento da lista comunitária",
+    "Altera Artigo 8.º — Medidas de execução",
+    "Altera Artigo 10.º — Âmbito de aplicação",
+    "Altera Artigo 12.º — Direito ao reembolso do preço dos bilhetes ou a reencaminhamento",
+    "Altera Artigo 17.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 15.º",
+    "Adita ANEXO",
+    "Adita Critérios comuns para apreciação de uma proibição de operação por motivos de segurança ao nível comunitário",
+    "Suprime Artigo 15.º — Procedimento de comité"
+   ],
+   "fragments": [
+    "ef3fbacdf130b661",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "8962150b72a6effe",
+    "84effb1a867cace5",
+    "f0f8c960bfdbce9b",
+    "1aebe49c0d51d20f",
+    "ec3f3e85e039a00a",
+    "cfda27f0cc6f3ffe",
+    "87612ff990f2843d",
+    "3817036709229ed8",
+    "3ffb31bb78851a50",
+    "30d8b4d3db50d29c",
+    "3d39ad061789854d",
+    "1e7a0903d2eed348",
+    "ed48a35ed3e01543",
+    "c509509d54a56152",
+    "a289ebb4e576227f",
+    "de0ab172b7522245",
+    "b43a7a411a795bb6",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "3f4e9e3cd098896d",
+    "f790ac9b5fc0569b",
+    "79bd4b30852dc577",
+    "3755da7774b9c694",
+    "10220b9774fa9034",
+    "c950e9abc3bacd82",
+    "ccb004dbd70e43cc"
+   ]
+  },
+  {
+   "date": "2018-09-11",
+   "future": false,
+   "celex": "02005R2111-20180911",
+   "acts": [
+    {
+     "id": "eu:celex:32018R1139:por",
+     "title": "REGULAMENTO (UE) 2018/1139 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2018",
+     "published": null,
+     "celex": "32018R1139"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 15.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "51964c2265298da7",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "8962150b72a6effe",
+    "84effb1a867cace5",
+    "f0f8c960bfdbce9b",
+    "1aebe49c0d51d20f",
+    "ec3f3e85e039a00a",
+    "cfda27f0cc6f3ffe",
+    "87612ff990f2843d",
+    "3817036709229ed8",
+    "3ffb31bb78851a50",
+    "30d8b4d3db50d29c",
+    "3d39ad061789854d",
+    "1e7a0903d2eed348",
+    "ed48a35ed3e01543",
+    "c509509d54a56152",
+    "a289ebb4e576227f",
+    "de0ab172b7522245",
+    "b43a7a411a795bb6",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "3f4e9e3cd098896d",
+    "c174430fe7a3c58b",
+    "79bd4b30852dc577",
+    "3755da7774b9c694",
+    "10220b9774fa9034",
+    "7d363c796dfe4212"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02005R2111-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Estabelecimento da lista comunitária",
+    "Altera Artigo 15.º",
+    "Adita Artigo 8.º — Regras pormenorizadas",
+    "Adita Artigo 14.º-A — Exercício da delegação",
+    "Adita Artigo 14.º-B — Procedimento de urgência",
+    "Adita Notas",
+    "Suprime Artigo 8.º — Medidas de execução"
+   ],
+   "fragments": [
+    "51964c2265298da7",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "8962150b72a6effe",
+    "84effb1a867cace5",
+    "f0f8c960bfdbce9b",
+    "1aebe49c0d51d20f",
+    "842d6d3c3a38a209",
+    "cfda27f0cc6f3ffe",
+    "87612ff990f2843d",
+    "3817036709229ed8",
+    "3ffb31bb78851a50",
+    "2716a88e8fb7b9e4",
+    "3d39ad061789854d",
+    "1e7a0903d2eed348",
+    "ed48a35ed3e01543",
+    "c509509d54a56152",
+    "a289ebb4e576227f",
+    "de0ab172b7522245",
+    "b43a7a411a795bb6",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "3f4e9e3cd098896d",
+    "99502d5daa5c48ca",
+    "3e855f070737ce9d",
+    "539f387e238dd78b",
+    "79bd4b30852dc577",
+    "3755da7774b9c694",
+    "10220b9774fa9034",
+    "c950e9abc3bacd82",
+    "e7e20aaa7054bf9a"
+   ]
+  },
+  {
+   "date": "2023-04-11",
+   "future": false,
+   "celex": "02005R2111-20230411",
+   "acts": [
+    {
+     "id": "eu:celex:32023R0661:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2023/661 DA COMISSÃO de 2 de dezembro de 2022",
+     "published": null,
+     "celex": "32023R0661"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º-A — Exercício da delegação",
+    "Altera Notas",
+    "Adita Critérios comuns a considerar para a imposição de uma proibição de operação a nível da União",
+    "Suprime Critérios comuns para apreciação de uma proibição de operação por motivos de segurança ao nível comunitário"
+   ],
+   "fragments": [
+    "51964c2265298da7",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "d957942d72a87c19",
+    "84effb1a867cace5",
+    "f0f8c960bfdbce9b",
+    "1aebe49c0d51d20f",
+    "842d6d3c3a38a209",
+    "1d9d483b50bea2af",
+    "87612ff990f2843d",
+    "3817036709229ed8",
+    "3ffb31bb78851a50",
+    "2716a88e8fb7b9e4",
+    "3d39ad061789854d",
+    "1e7a0903d2eed348",
+    "ed48a35ed3e01543",
+    "01dd4e828cf37bcb",
+    "a289ebb4e576227f",
+    "0a2262791a2d2da3",
+    "b43a7a411a795bb6",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "3f4e9e3cd098896d",
+    "411fbf501473d6cc",
+    "3e855f070737ce9d",
+    "539f387e238dd78b",
+    "79bd4b30852dc577",
+    "3755da7774b9c694",
+    "10220b9774fa9034",
+    "a925d4a315375fa3",
+    "5ccacf4bda733c66"
+   ]
+  }
+ ],
+ "fragments": {
+  "982b5b45dfea8405": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Dezembro de 2005\n\nrelativo ao estabelecimento de uma lista comunitária das transportadoras aéreas que são objecto de uma proibição de operação na Comunidade e à informação dos passageiros do transporte aéreo sobre a identidade da transportadora aérea operadora, e que revoga o artigo 9.º da Directiva 2004/36/CE\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntr1-L_2005344PT.01001501-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntr2-L_2005344PT.01001501-E0002),\n\nConsiderando o seguinte:\n\n(1) A acção da Comunidade no domínio do transporte aéreo deverá ter, prioritariamente, o objectivo de garantir um elevado nível de protecção dos passageiros contra os riscos para a segurança. Além disso, deverão ser tidas plenamente em conta as exigências de protecção dos consumidores em geral.\n\n(2) A fim de garantir o máximo de transparência, deverá ser levada ao conhecimento dos passageiros uma lista comunitária das transportadoras aéreas que não satisfazem os requisitos de segurança relevantes. Essa lista comunitária deverá basear-se em critérios comuns elaborados ao nível comunitário.\n\n(3) As transportadoras aéreas incluídas na lista comunitária deverão ser objecto de uma proibição de operação. As proibições de operação que figurem na lista comunitária deverão aplicar-se em todo o território dos Estados-Membros em que se apliquem as disposições do Tratado.\n\n(4) As transportadoras aéreas que não beneficiam de direitos de tráfego num ou mais Estados-Membros podem, no entanto, voar de e para o território da Comunidade quando as suas aeronaves, com ou sem tripulação, forem fretadas por companhias que beneficiam de tais direitos. Há que estabelecer disposições nos termos das quais uma proibição de operação que figure na lista comunitária seja igualmente aplicável a tais transportadoras aéreas, uma vez que, caso contrário, estas últimas poderiam operar na Comunidade apesar de não respeitarem as normas de segurança relevantes.\n\n(5) Uma transportadora aérea que seja objecto de uma proibição de operação poderá ser autorizada a exercer direitos de tráfego se utilizar aeronaves fretadas com tripulação de uma transportadora aérea que não seja objecto de proibição de operação, desde que sejam respeitadas as normas de segurança relevantes.\n\n(6) O procedimento de actualização da lista comunitária deverá permitir uma rápida tomada de decisões, a fim de fornecer aos passageiros do transporte aéreo informações de segurança adequadas e actualizadas e de garantir que as transportadoras aéreas que tenham procedido à reparação das deficiências de segurança sejam retiradas da lista tão rapidamente quanto possível. Simultaneamente, os procedimentos deverão respeitar os direitos de defesa da transportadora aérea e não deverão prejudicar os acordos e convenções internacionais em que os Estados-Membros ou a Comunidade são partes, em particular a Convenção de Chicago de 1944 relativa à Aviação Civil Internacional. As medidas de execução relativas às questões processuais, a adoptar pela Comissão, deverão, nomeadamente, satisfazer estes requisitos.\n\n(7) Quando uma proibição de operação tiver sido imposta a uma transportadora aérea, deverão ser tomadas medidas adequadas para auxiliar a transportadora aérea em questão a reparar as deficiências que deram origem à proibição em causa.\n\n(8) Em casos excepcionais, os Estados-Membros deverão poder tomar medidas unilaterais. Em caso de urgência, e quando se vejam confrontados com um problema de segurança imprevisto, os Estados-Membros deverão ter a possibilidade de impor imediatamente uma proibição de operação nos respectivos territórios. Além disso, se a Comissão tiver decidido não incluir uma transportadora aérea na lista comunitária, os Estados-Membros também deverão poder impor ou manter uma proibição de operação devido a um problema de segurança que não exista noutros Estados-Membros. Os Estados-Membros deverão recorrer de forma restritiva a estas possibilidades, tendo em conta o interesse comunitário e tendo em vista apresentar uma abordagem comum em matéria de segurança aérea. Tal deverá ser feito sem prejuízo do artigo 8.º do Regulamento (CEE) n.º 3922/91 do Conselho, de 16 de Dezembro de 1991, relativo à harmonização de normas técnicas e dos procedimentos administrativos no sector da aviação civil [([^3])](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntr3-L_2005344PT.01001501-E0003), e do artigo 10.º do Regulamento (CE) n.º 1592/2002 do Parlamento Europeu e do Conselho, de 15 de Julho de 2002, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação [([^4])](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntr4-L_2005344PT.01001501-E0004).\n\n(9) As informações relativas à segurança das transportadoras aéreas deverão ser publicadas de forma eficaz, por exemplo, através do recurso à internet.\n\n(10) Para que o quadro da concorrência no transporte aéreo seja o mais benéfico possível para as companhias e para os passageiros, é importante que os consumidores disponham das informações necessárias para poderem tomar as suas decisões com conhecimento de causa.\n\n(11) A identidade da transportadora ou transportadoras aéreas que operam efectivamente o voo é uma informação essencial. No entanto, os consumidores que celebrem um contrato de transporte, o qual pode incluir um voo de ida e volta, nem sempre são informados da identidade da transportadora ou transportadoras aéreas que operarão efectivamente o voo ou voos em questão.\n\n(12) A Directiva 90/314/CEE do Conselho, de 13 de Junho de 1990, relativa às viagens organizadas, férias organizadas e circuitos organizados [([^5])](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntr5-L_2005344PT.01001501-E0005), exige que sejam disponibilizadas determinadas informações aos consumidores, mas essas informações não incluem a identidade da transportadora aérea operadora.\n\n(13) O Regulamento (CEE) n.º 2299/89 do Conselho, de 24 de Julho de 1989, relativo a um código de conduta para os sistemas informatizados de reserva (SIR) [([^6])](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntr6-L_2005344PT.01001501-E0006), confere aos consumidores que compram um bilhete de avião através de um desses sistemas o direito de serem informados da identidade da transportadora aérea operadora. No entanto, mesmo no transporte aéreo regular, existem práticas no sector, como o contrato de locação com tripulação ou a partilha de códigos quando o bilhete é reservado sem recurso a um SIR, em virtude das quais a transportadora aérea que vende o voo em seu nome não é a que o opera efectivamente e os passageiros não beneficiam do direito de serem informados da identidade da transportadora aérea que presta efectivamente o serviço.\n\n(14) Estas práticas aumentam a flexibilidade e permitem prestar melhores serviços aos passageiros. Além disso, algumas mudanças de última hora, em particular por motivos de ordem técnica, são inevitáveis e contribuem para a segurança do transporte aéreo. No entanto, esta flexibilidade deverá ser compensada pela verificação de que as companhias que operam efectivamente o voo satisfazem os requisitos de segurança e por transparência para os consumidores, a fim de garantir o seu direito de tomarem decisões com conhecimento de causa. Deverá procurar-se um justo equilíbrio entre a viabilidade comercial das transportadoras aéreas e o acesso dos passageiros à informação.\n\n(15) As transportadoras aéreas deverão prosseguir uma política de transparência face aos passageiros no que diz respeito às informações ligadas à segurança. Publicar essas informações contribuirá para a consciencialização dos passageiros quanto ao nível de fiabilidade das transportadoras aéreas em termos de segurança.\n\n(16) As transportadoras aéreas são responsáveis por comunicar todas as deficiências de segurança às autoridades nacionais de segurança aérea, e por lhes dar solução sem demora. A tripulação e o pessoal de terra devem tomar as medidas adequadas quando constatem deficiências de segurança. Se a tripulação e o pessoal de terra fossem penalizados ao fazê-lo isso seria contrário aos interesses da segurança aérea, como se conclui do n.º 4 do artigo 8.º da Directiva 2003/42/CE do Parlamento Europeu e do Conselho, de 13 de Junho de 2003, relativa à comunicação de ocorrências na aviação civil [([^7])](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntr7-L_2005344PT.01001501-E0007).\n\n(17) Para além das situações abrangidas pelo Regulamento (CE) n.º 261/2004 do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004, que estabelece regras comuns para a indemnização e a assistência aos passageiros dos transportes aéreos em caso de recusa de embarque e de cancelamento ou atraso considerável dos voos [([^8])](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntr8-L_2005344PT.01001501-E0008), aos passageiros deverá ser oferecido o direito a reembolso ou a reencaminhamento noutras situações específicas abrangidas pelo presente regulamento, caso exista uma conexão suficientemente estreita com a Comunidade.\n\n(18) Para além das normas previstas no presente regulamento, as consequências das mudanças da identidade da transportadora aérea operadora sobre a execução do contrato de transporte deverão ser regidas pela legislação dos Estados-Membros aplicável aos contratos e pela legislação comunitária pertinente, nomeadamente a Directiva 90/314/CEE do Conselho e Directiva 93/13/CEE do Conselho, de 5 de Abril de 1993, relativa às cláusulas abusivas nos contratos celebrados com os consumidores [([^9])](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntr9-L_2005344PT.01001501-E0009).\n\n(19) O presente regulamento faz parte de um processo legislativo relativo a uma abordagem eficaz e coerente com vista a reforçar a segurança aérea na Comunidade, contexto em que a Agência Europeia para a Segurança da Aviação desempenha um importante papel. Uma extensão das competências desta Agência, nomeadamente no que respeita às aeronaves de países terceiros, permitiria alargar o papel que lhe incumbe nos termos do presente regulamento. Deve ser dada particular atenção à promoção da melhoria da qualidade e da quantidade das inspecções de segurança das aeronaves, bem como à harmonização destas inspecções.\n\n(20) Quando se observe um risco para a segurança que não tenha sido adequadamente resolvido pelo(s) Estado(s)-Membro(s) em causa, a Comissão deverá dispor da possibilidade de adoptar medidas imediatas numa base provisória. Num tal caso, o Comité a que incumbe assistir a Comissão no âmbito dos seus trabalhos nos termos do presente regulamento deverá actuar em conformidade com o procedimento consultivo previsto no artigo 3.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^10])](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntr10-L_2005344PT.01001501-E0010).\n\n(21) Nos demais casos, o Comité a que incumbe assistir a Comissão no âmbito dos seus trabalhos nos termos do presente regulamento deverá actuar em conformidade com o procedimento de regulamentação previsto no artigo 5.º da Decisão 1999/468/CE.\n\n(22) Atendendo a que a relação entre o presente regulamento e o artigo 9.º da Directiva 2004/36/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa à segurança das aeronaves de países terceiros que utilizem aeroportos comunitários [([^11])](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntr11-L_2005344PT.01001501-E0011), seria, de outro modo, pouco clara, o referido artigo deverá ser revogado tendo em vista garantir a segurança jurídica.\n\n(23) Os Estados-Membros deverão estabelecer regulamentação relativa às sanções aplicáveis às infracções às disposições do capítulo III do presente regulamento e garantir a sua aplicação. As sanções, que poderão ser de natureza civil ou administrativa, deverão ser efectivas, proporcionadas e dissuasivas.\n\n(24) A Comissão deverá analisar a aplicação do presente regulamento e, após um período suficiente, apresentar um relatório sobre a eficácia das suas disposições.\n\n(25) As autoridades competentes da aviação civil na Comunidade poderão decidir que as transportadoras aéreas, incluindo as que não operam no território dos Estados-Membros a que se aplica o Tratado, poderão requerer a essas autoridades que as sujeitem a controlos sistemáticos a fim de verificar que essas transportadoras aéreas tendem a cumprir as normas de segurança relevantes.\n\n(26) O presente regulamento não deverá impedir que os Estados-Membros introduzam, ao nível nacional, um sistema de classificação de qualidade para as transportadoras aéreas, cujos critérios poderão incluir outras considerações para além dos requisitos mínimos de segurança, em conformidade com o direito comunitário.\n\n(27) Em declaração conjunta dos respectivos ministros dos Negócios Estrangeiros, feita em Londres em 2 de Dezembro de 1987, o Reino de Espanha e o Reino Unido chegaram a acordo sobre um regime destinado a cooperar mais estreitamente na utilização do aeroporto de Gibraltar. Tal acordo ainda não começou a ser aplicado,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "60f3af82dfb3d7ff": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O presente regulamento estabelece regras sobre:\n\na) O estabelecimento e a publicação de uma lista comunitária, baseada em critérios comuns, das transportadoras aéreas que, por razões de segurança, são objecto de uma proibição de operação na Comunidade; e\n\nb) A informação dos passageiros aéreos a respeito da identidade da transportadora aérea que opera os voos em que viajem.\n\n2. A aplicação do presente regulamento ao aeroporto de Gibraltar entende-se sem prejuízo das posições jurídicas do Reino de Espanha e do Reino Unido relativamente ao diferendo sobre a soberania do território em que o aeroporto se encontra situado.\n\n3. A aplicação do presente regulamento ao aeroporto de Gibraltar fica suspensa até que seja aplicado o regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido, de 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido devem informar o Conselho da data de início de aplicação desse regime."
+  },
+  "84effb1a867cace5": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Transportadora aérea», uma empresa de transporte aéreo titular de uma licença de exploração válida ou seu equivalente;\n\nb) «Contrato de transporte», um contrato que tem por objecto serviços de transporte aéreo ou que abrange esses serviços, inclusivamente quando o transporte é composto por dois voos ou mais operados pela mesma transportadora aérea ou por transportadoras aéreas diferentes;\n\nc) «Contratante de serviços de transporte aéreo», a transportadora que celebra um contrato de transporte com um passageiro ou, se o contrato incluir uma viagem organizada, o operador turístico. Todo e qualquer vendedor de bilhetes é também considerado um contratante de serviços de transporte aéreo;\n\nd) «Vendedor de bilhetes», um vendedor de bilhetes de transporte aéreo, com exclusão das transportadoras aéreas e dos operadores turísticos, que serve de intermediário num contrato de transporte com um passageiro, quer para um voo simples quer como parte de uma viagem organizada;\n\ne) «Transportadora aérea operadora», uma transportadora aérea que opera ou pretende operar um voo ao abrigo de um contrato de transporte com um passageiro, ou em nome de uma pessoa colectiva ou singular que tenha contrato de transporte com esse passageiro;\n\nf) «Autorização de exploração ou licença técnica», qualquer acto legislativo ou administrativo de um Estado-Membro, que disponha que uma transportadora aérea pode explorar serviços de transporte aéreo de e para os seus aeroportos, operar no seu espaço aéreo ou exercer direitos de tráfego;\n\ng) «Proibição de operação», a recusa, suspensão, revogação ou restrição da autorização de exploração ou da licença técnica de uma transportadora aérea por razões de segurança ou por quaisquer medidas de segurança equivalentes relativas a transportadoras aéreas que não possuam direitos de tráfego dentro da Comunidade mas cujas aeronaves poderiam, no entanto, ser operadas na Comunidade ao abrigo de contratos de locação;\n\nh) «Viagem organizada», os serviços definidos no ponto 1 do artigo 2.º da Directiva 90/314/CEE;\n\ni) «Reserva», o facto de o passageiro dispor de um bilhete ou de outro meio de prova da aceitação e do registo de uma reserva pelo contratante de serviços de transporte aéreo;\n\nj) «Normas de segurança relevantes», as normas de segurança internacionais constantes da Convenção de Chicago e dos respectivos anexos, assim como, quando aplicável, as normas constantes da legislação comunitária pertinente."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "1aebe49c0d51d20f": {
+   "fragment_id": "LISTA COMUNITÁRIA",
+   "type": "divisao",
+   "heading": "LISTA COMUNITÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA COMUNITÁRIA"
+  },
+  "f554ef20ef9b7ac0": {
+   "fragment_id": "Artigo 3.º — Estabelecimento da lista comunitária",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Estabelecimento da lista comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estabelecimento da lista comunitária\n\n1. A fim de reforçar a segurança dos transportes aéreos, deve ser estabelecida uma lista de transportadoras aéreas objecto de uma proibição de operação na Comunidade (seguidamente designada «lista comunitária»). Cada Estado-Membro deve aplicar, no seu território, as proibições de operação incluídas na lista comunitária relativamente às transportadoras aéreas que forem objecto de tais proibições.\n\n2. Os critérios comuns para impor uma proibição de operação a uma transportadora aérea (seguidamente designados «critérios comuns»), os quais se basearão nas normas de segurança relevantes, constam do anexo. A Comissão pode alterar o anexo, nomeadamente a fim de ter em conta elementos de evolução científica e técnica, nos termos do n.º 3 do artigo 15.º\n\n3. A fim de estabelecer a lista comunitária pela primeira vez, cada Estado-Membro deve comunicar à Comissão, até 16 de Fevereiro de 2006, a identidade das transportadoras aéreas que são objecto de uma proibição de operação no seu território, conjuntamente com as razões que o conduziram à adopção de tal proibição e quaisquer outras informações relevantes. A Comissão deve informar os restantes Estados-Membros sobre estas proibições de operação.\n\n4. No prazo de um mês a contar da recepção das informações transmitidas pelos Estados-Membros, a Comissão decide, com base nos critérios comuns, sobre a imposição de proibições de operação às transportadoras aéreas em questão e estabelece a lista comunitária de transportadoras aéreas às quais tenha sido imposta uma proibição de operação, nos termos do n.º 3 do artigo 15.º"
+  },
+  "cfda27f0cc6f3ffe": {
+   "fragment_id": "Artigo 4.º — Actualização da lista comunitária",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Actualização da lista comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Actualização da lista comunitária\n\n1. A lista comunitária deve ser actualizada a fim de:\n\na) Impor uma proibição de operação a uma transportadora aérea e incluir esta última na lista comunitária, com base nos critérios comuns;\n\nb) Retirar uma transportadora aérea da lista comunitária, caso as deficiências de segurança ou outras que tenham conduzido à sua inclusão na lista comunitária tenham sido reparadas e não exista qualquer outra razão que, com base nos critérios comuns, justifique a manutenção da transportadora aérea na lista comunitária;\n\nc) Alterar as condições de uma proibição de operação imposta a uma transportadora aérea incluída na lista comunitária.\n\n2. A Comissão, actuando por sua iniciativa ou a pedido de um Estado-Membro, decide actualizar a lista comunitária sempre que se verifique alguma das situações referidas no n.º 1, nos termos do n.º 3 do artigo 15.º e com base nos critérios comuns. Pelo menos de três em três meses, a Comissão verifica se é adequado actualizar a lista comunitária.\n\n3. Os Estados-Membros e a Agência Europeia para a Segurança da Aviação devem transmitir à Comissão todas as informações que possam ser relevantes no contexto da actualização da lista comunitária. A Comissão deve transmitir toda a informação relevante aos restantes Estados-Membros."
+  },
+  "87612ff990f2843d": {
+   "fragment_id": "Artigo 5.º — Medidas provisórias para a actualização da lista comunitária",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Medidas provisórias para a actualização da lista comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Medidas provisórias para a actualização da lista comunitária\n\n1. Caso se torne evidente que a prossecução das operações de uma transportadora aérea na Comunidade é susceptível de constituir um risco grave para a segurança e que tal risco não foi resolvido de forma satisfatória através da tomada de medidas urgentes pelo(s) Estado(s)-Membro(s) em questão nos termos do n.º 1 do artigo 6.º, a Comissão pode, a título provisório, adoptar as medidas previstas nas alíneas a) ou c) do n.º 1 do artigo 4.º, nos termos do n.º 2 do artigo 15.º\n\n2. O mais rapidamente possível, e o mais tardar no prazo de 10 dias úteis, a Comissão deve apresentar a questão ao Comité referido no n.º 1 do artigo 15.º e deve decidir confirmar, alterar, revogar ou prorrogar as medidas que tiver tomado nos termos do n.º 1 do presente artigo, actuando nos termos do n.º 3 do artigo 15.º"
+  },
+  "3817036709229ed8": {
+   "fragment_id": "Artigo 6.º — Medidas de carácter excepcional",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Medidas de carácter excepcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Medidas de carácter excepcional\n\n1. Em casos de urgência, o presente regulamento não impede um Estado-Membro de reagir a problemas de segurança imprevistos através da imposição imediata de uma proibição de operação no seu território, tendo em conta os critérios comuns.\n\n2. Qualquer decisão da Comissão de não incluir uma transportadora aérea na lista comunitária, nos termos do n.º 4 do artigo 3.º ou do n.º 2 do artigo 4.º, não impede um Estado-Membro de impor ou manter uma proibição de operação à transportadora aérea em causa, tendo em conta um problema de segurança que afecta especificamente esse Estado-Membro.\n\n3. Em qualquer das situações referidas nos n.^os^ 1 e 2, o Estado-Membro em questão deve informar imediatamente a Comissão, a qual deve informar os outros Estados-Membros. Na situação referida no n.º 1, o Estado-Membro em questão deve apresentar imediatamente à Comissão um pedido de actualização da lista comunitária, nos termos do n.º 2 do artigo 4.º"
+  },
+  "3ffb31bb78851a50": {
+   "fragment_id": "Artigo 7.º — Direito de defesa",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Direito de defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito de defesa\n\nQuando aprovar as decisões previstas no n.º 4 do artigo 3.º, no n.º 2 do artigo 4.º e no artigo 5.º, a Comissão deve assegurar que seja dada à transportadora aérea em causa a oportunidade de ser ouvida, tendo em conta, em certos casos, a necessidade de um procedimento urgente."
+  },
+  "1f222957cfd0b3ed": {
+   "fragment_id": "Artigo 8.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas de execução\n\n1. A Comissão, actuando nos termos do n.º 3 do artigo 15.º, deve adoptar, sempre que for apropriado, medidas de execução a fim de estabelecer regras detalhadas relativas aos procedimentos referidos no presente capítulo.\n\n2. Ao decidir estas medidas, a Comissão deve ter na devida conta a necessidade de as decisões de actualização da lista comunitária serem tomadas com rapidez e, sempre que for apropriado, deve prever a possibilidade de aplicação de um procedimento de emergência."
+  },
+  "3d39ad061789854d": {
+   "fragment_id": "Artigo 9.º — Publicação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Publicação\n\n1. A lista comunitária e qualquer alteração da mesma devem ser imediatamente publicadas no *Jornal Oficial da União Europeia*.\n\n2. A Comissão e os Estados-Membros devem tomar as medidas necessárias para facilitar o acesso do público à lista comunitária, na sua versão mais recente, em particular através da internet.\n\n3. Os contratantes de serviços de transporte aéreo, as autoridades nacionais de aviação civil, a Agência Europeia para a Segurança da Aviação e os aeroportos situados no território dos Estados-Membros devem apresentar a lista comunitária aos passageiros nos respectivos sítios internet e, quando for caso disso, nas suas instalações."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "ed48a35ed3e01543": {
+   "fragment_id": "INFORMAÇÃO DOS PASSAGEIROS",
+   "type": "divisao",
+   "heading": "INFORMAÇÃO DOS PASSAGEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÃO DOS PASSAGEIROS"
+  },
+  "4a4f21c69fdeeefe": {
+   "fragment_id": "Artigo 10.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Âmbito de aplicação\n\n1. As disposições do presente capítulo são aplicáveis ao transporte aéreo de passageiros, quando o voo faça parte de um contrato de transporte e esse transporte tenha início na Comunidade, e quando:\n\na) O voo tenha partida num aeroporto situado no território de um Estado-Membro em que se aplique o Tratado; ou\n\nb) O voo tenha partida num aeroporto situado num país terceiro e chegada num aeroporto situado no território de um Estado-Membro em que se aplique o Tratado; ou\n\nc) O voo tenha partida num aeroporto situado num país terceiro e chegada num outro aeroporto igualmente situado num país terceiro.\n\n2. As disposições do presente capítulo são aplicáveis quer o voo seja regular ou não regular e quer esteja ou não integrado numa viagem organizada.\n\n3. As disposições do presente capítulo não afectam os direitos conferidos aos passageiros por força da Directiva 90/314/CEE e do Regulamento (CEE) n.º 2299/89."
+  },
+  "a289ebb4e576227f": {
+   "fragment_id": "Artigo 11.º — Informação sobre a identidade da transportadora aérea operadora",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Informação sobre a identidade da transportadora aérea operadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Informação sobre a identidade da transportadora aérea operadora\n\n1. O contratante de serviços de transporte aéreo deve informar o passageiro, no momento da reserva, da identidade da transportadora ou transportadoras aéreas operadoras, independentemente do meio utilizado para efectuar a reserva.\n\n2. Se, no momento da reserva, não for conhecida a identidade da transportadora ou transportadoras aéreas operadoras, o contratante de serviços de transporte aéreo deve assegurar que os passageiros sejam informados do nome da transportadora ou transportadoras aéreas que provavelmente operarão o voo ou voos em causa. Neste caso, o contratante de serviços de transporte aéreo deve assegurar que o passageiro seja informado da identidade da transportadora ou transportadoras aéreas operadoras assim que a sua identidade seja conhecida.\n\n3. Sempre que se verifique uma alteração da transportadora ou transportadoras aéreas operadoras após a reserva, o contratante de serviços de transporte aéreo deve efectuar todas as diligências adequadas para assegurar que o passageiro seja informado o mais rapidamente possível dessa alteração, independentemente dos motivos desta última. Em qualquer caso, o passageiro deve ser informado no momento do *check-in* ou, nos casos em que não seja necessário *check-in* para um voo de ligação, no momento do embarque.\n\n4. A transportadora aérea ou o operador turístico, consoante o caso, devem assegurar que o contratante de serviços de transporte aéreo pertinente seja informado sobre a identidade da transportadora ou transportadoras aéreas operadoras assim que aquela for conhecida, em particular nos casos de alteração de tal identidade.\n\n5. Se o vendedor de bilhetes não tiver sido informado da identidade da transportadora aérea operadora, não pode ser responsabilizado pelo incumprimento das obrigações estabelecidas no presente artigo.\n\n6. A obrigação, que incumbe ao contratante de serviços de transporte aéreo, de informar os passageiros acerca da identidade da transportadora ou transportadoras aéreas operadoras deve constar das condições gerais aplicáveis ao contrato de transporte."
+  },
+  "ed6a0da75b99a673": {
+   "fragment_id": "Artigo 12.º — Direito ao reembolso do preço dos bilhetes ou a reencaminhamento",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Direito ao reembolso do preço dos bilhetes ou a reencaminhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito ao reembolso do preço dos bilhetes ou a reencaminhamento\n\n1. O presente regulamento não afecta o direito ao reembolso do preço dos bilhetes ou a reencaminhamento, nos termos estabelecidos no Regulamento (CE) n.º 261/2004.\n\n2. Nos casos em que o Regulamento (CE) n.º 261/2004 não é aplicável, e em que:\n\na) A transportadora aérea operadora comunicada ao passageiro tenha sido inscrita na lista comunitária e seja objecto de uma proibição de operação que tenha conduzido ao cancelamento do voo em causa, ou que teria conduzido a esse cancelamento se o voo em causa fosse operado na Comunidade; ou\n\nb) A transportadora aérea operadora comunicada ao passageiro tenha sido substituída por outra transportadora aérea operadora que tenha sido inscrita na lista comunitária e seja objecto de uma proibição de operação que tenha conduzido ao cancelamento do voo em causa, ou que teria conduzido a esse cancelamento se o voo em causa fosse operado na Comunidade,\n\no contratante de serviços de transporte aéreo, que é parte no contrato de transporte, deve oferecer ao passageiro o direito ao reembolso do preço dos bilhetes ou a reencaminhamento nos termos estabelecidos no artigo 8.º do Regulamento (CE) n.º 261/2004, no caso de, não tendo o voo sido cancelado, o passageiro optar por não o aceitar.\n\n3. O n.º 2 do presente artigo é aplicável sem prejuízo do artigo 13.º do Regulamento (CE) n.º 261/2004."
+  },
+  "b43a7a411a795bb6": {
+   "fragment_id": "Artigo 13.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções\n\nOs Estados-Membros asseguram o cumprimento das normas estabelecidas no presente capítulo e fixam sanções para o incumprimento das mesmas. As sanções devem ser efectivas, proporcionadas e dissuasivas."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "3f4e9e3cd098896d": {
+   "fragment_id": "Artigo 14.º — Informação e alteração",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Informação e alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação e alteração\n\nAté 16 de Janeiro de 2009, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento. O relatório deve ser acompanhado, se necessário, de propostas de alteração do presente regulamento."
+  },
+  "44e82fee8392f218": {
+   "fragment_id": "Artigo 15.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité a que se refere o artigo 12.º do Regulamento (CEE) n.º 3922/91 (seguidamente designado «Comité»).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n4. A Comissão pode consultar o Comité sobre qualquer outra matéria relacionada com a aplicação do presente regulamento.\n\n5. O Comité aprovará o seu regulamento interno."
+  },
+  "79bd4b30852dc577": {
+   "fragment_id": "Artigo 16.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Revogação\n\nÉ revogado o artigo 9.º da Directiva 2004/36/CE."
+  },
+  "cfc8f94d7bf884b3": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nOs artigos 10.º, 11.º e 12.º são aplicáveis a partir 16 de Julho de 2006 e o artigo 13.º é aplicável a partir 16 de Janeiro de 2007.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 14 de Dezembro de 2005.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**C. CLARKE**\n\n---"
+  },
+  "6d4da34ca792323f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntc1-L_2005344PT.01001501-E0001) Parecer emitido em 28 de Setembro de 2005 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntc2-L_2005344PT.01001501-E0002) Parecer do Parlamento Europeu, de 16 de Novembro de 2005 (ainda não publicado no Jornal Oficial) e Decisão do Conselho, de 5 de Dezembro de 2005.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntc3-L_2005344PT.01001501-E0003) [JO L 373 de 31.12.1991, p. 4](http://publications.europa.eu/resource/oj/JOL_1991_373_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2871/2000 da Comissão ([JO L 333 de 29.12.2000, p. 47](http://publications.europa.eu/resource/oj/JOL_2000_333_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntc4-L_2005344PT.01001501-E0004) [JO L 240 de 7.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_240_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1701/2003 da Comissão ([JO L 243 de 27.9.2003, p. 5](http://publications.europa.eu/resource/oj/JOL_2003_243_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntc5-L_2005344PT.01001501-E0005) [JO L 158 de 23.6.1990, p. 59](http://publications.europa.eu/resource/oj/JOL_1990_158_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntc6-L_2005344PT.01001501-E0006) [JO L 220 de 29.7.1989, p. 1](http://publications.europa.eu/resource/oj/JOL_1989_220_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 323/1999 ([JO L 40 de 13.2.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_040_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntc7-L_2005344PT.01001501-E0007) [JO L 167 de 4.7.2003, p. 23](http://publications.europa.eu/resource/oj/JOL_2003_167_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntc8-L_2005344PT.01001501-E0008) [JO L 46 de 17.2.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_046_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntc9-L_2005344PT.01001501-E0009) [JO L 95 de 21.4.1993, p. 29](http://publications.europa.eu/resource/oj/JOL_1993_095_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntc10-L_2005344PT.01001501-E0010) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (rectificação no [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/6bc7ed7d-0e26-428b-951b-62a96ccc86ae.0017.03/DOC_1#ntc11-L_2005344PT.01001501-E0011) [JO L 143 de 30.4.2004, p. 76](http://publications.europa.eu/resource/oj/JOL_2004_143_R_TOC)."
+  },
+  "ef3fbacdf130b661": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Dezembro de 2005\n\nrelativo ao estabelecimento de uma lista comunitária das transportadoras aéreas que são objecto de uma proibição de operação na Comunidade e à informação dos passageiros do transporte aéreo sobre a identidade da transportadora aérea operadora, e que revoga o artigo 9.º da Directiva 2004/36/CE\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#E0002)),\n\n(1) A acção da Comunidade no domínio do transporte aéreo deverá ter, prioritariamente, o objectivo de garantir um elevado nível de protecção dos passageiros contra os riscos para a segurança. Além disso, deverão ser tidas plenamente em conta as exigências de protecção dos consumidores em geral.\n\n(2) A fim de garantir o máximo de transparência, deverá ser levada ao conhecimento dos passageiros uma lista comunitária das transportadoras aéreas que não satisfazem os requisitos de segurança relevantes. Essa lista comunitária deverá basear-se em critérios comuns elaborados ao nível comunitário.\n\n(3) As transportadoras aéreas incluídas na lista comunitária deverão ser objecto de uma proibição de operação. As proibições de operação que figurem na lista comunitária deverão aplicar-se em todo o território dos Estados-Membros em que se apliquem as disposições do Tratado.\n\n(4) As transportadoras aéreas que não beneficiam de direitos de tráfego num ou mais Estados-Membros podem, no entanto, voar de e para o território da Comunidade quando as suas aeronaves, com ou sem tripulação, forem fretadas por companhias que beneficiam de tais direitos. Há que estabelecer disposições nos termos das quais uma proibição de operação que figure na lista comunitária seja igualmente aplicável a tais transportadoras aéreas, uma vez que, caso contrário, estas últimas poderiam operar na Comunidade apesar de não respeitarem as normas de segurança relevantes.\n\n(5) Uma transportadora aérea que seja objecto de uma proibição de operação poderá ser autorizada a exercer direitos de tráfego se utilizar aeronaves fretadas com tripulação de uma transportadora aérea que não seja objecto de proibição de operação, desde que sejam respeitadas as normas de segurança relevantes.\n\n(6) O procedimento de actualização da lista comunitária deverá permitir uma rápida tomada de decisões, a fim de fornecer aos passageiros do transporte aéreo informações de segurança adequadas e actualizadas e de garantir que as transportadoras aéreas que tenham procedido à reparação das deficiências de segurança sejam retiradas da lista tão rapidamente quanto possível. Simultaneamente, os procedimentos deverão respeitar os direitos de defesa da transportadora aérea e não deverão prejudicar os acordos e convenções internacionais em que os Estados-Membros ou a Comunidade são partes, em particular a Convenção de Chicago de 1944 relativa à Aviação Civil Internacional. As medidas de execução relativas às questões processuais, a adoptar pela Comissão, deverão, nomeadamente, satisfazer estes requisitos.\n\n(7) Quando uma proibição de operação tiver sido imposta a uma transportadora aérea, deverão ser tomadas medidas adequadas para auxiliar a transportadora aérea em questão a reparar as deficiências que deram origem à proibição em causa.\n\n(8) Em casos excepcionais, os Estados-Membros deverão poder tomar medidas unilaterais. Em caso de urgência, e quando se vejam confrontados com um problema de segurança imprevisto, os Estados-Membros deverão ter a possibilidade de impor imediatamente uma proibição de operação nos respectivos territórios. Além disso, se a Comissão tiver decidido não incluir uma transportadora aérea na lista comunitária, os Estados-Membros também deverão poder impor ou manter uma proibição de operação devido a um problema de segurança que não exista noutros Estados-Membros. Os Estados-Membros deverão recorrer de forma restritiva a estas possibilidades, tendo em conta o interesse comunitário e tendo em vista apresentar uma abordagem comum em matéria de segurança aérea. Tal deverá ser feito sem prejuízo do artigo 8.º do Regulamento (CEE) n.º 3922/91 do Conselho, de 16 de Dezembro de 1991, relativo à harmonização de normas técnicas e dos procedimentos administrativos no sector da aviação civil ([^3^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#E0003)), e do artigo 10.º do Regulamento (CE) n.º 1592/2002 do Parlamento Europeu e do Conselho, de 15 de Julho de 2002, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação ([^4^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#E0004)).\n\n(9) As informações relativas à segurança das transportadoras aéreas deverão ser publicadas de forma eficaz, por exemplo, através do recurso à internet.\n\n(10) Para que o quadro da concorrência no transporte aéreo seja o mais benéfico possível para as companhias e para os passageiros, é importante que os consumidores disponham das informações necessárias para poderem tomar as suas decisões com conhecimento de causa.\n\n(11) A identidade da transportadora ou transportadoras aéreas que operam efectivamente o voo é uma informação essencial. No entanto, os consumidores que celebrem um contrato de transporte, o qual pode incluir um voo de ida e volta, nem sempre são informados da identidade da transportadora ou transportadoras aéreas que operarão efectivamente o voo ou voos em questão.\n\n(12) A Directiva 90/314/CEE do Conselho, de 13 de Junho de 1990, relativa às viagens organizadas, férias organizadas e circuitos organizados ([^5^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#E0005)), exige que sejam disponibilizadas determinadas informações aos consumidores, mas essas informações não incluem a identidade da transportadora aérea operadora.\n\n(13) O Regulamento (CEE) n.º 2299/89 do Conselho, de 24 de Julho de 1989, relativo a um código de conduta para os sistemas informatizados de reserva (SIR) ([^6^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#E0006)), confere aos consumidores que compram um bilhete de avião através de um desses sistemas o direito de serem informados da identidade da transportadora aérea operadora. No entanto, mesmo no transporte aéreo regular, existem práticas no sector, como o contrato de locação com tripulação ou a partilha de códigos quando o bilhete é reservado sem recurso a um SIR, em virtude das quais a transportadora aérea que vende o voo em seu nome não é a que o opera efectivamente e os passageiros não beneficiam do direito de serem informados da identidade da transportadora aérea que presta efectivamente o serviço.\n\n(14) Estas práticas aumentam a flexibilidade e permitem prestar melhores serviços aos passageiros. Além disso, algumas mudanças de última hora, em particular por motivos de ordem técnica, são inevitáveis e contribuem para a segurança do transporte aéreo. No entanto, esta flexibilidade deverá ser compensada pela verificação de que as companhias que operam efectivamente o voo satisfazem os requisitos de segurança e por transparência para os consumidores, a fim de garantir o seu direito de tomarem decisões com conhecimento de causa. Deverá procurar-se um justo equilíbrio entre a viabilidade comercial das transportadoras aéreas e o acesso dos passageiros à informação.\n\n(15) As transportadoras aéreas deverão prosseguir uma política de transparência face aos passageiros no que diz respeito às informações ligadas à segurança. Publicar essas informações contribuirá para a consciencialização dos passageiros quanto ao nível de fiabilidade das transportadoras aéreas em termos de segurança.\n\n(16) As transportadoras aéreas são responsáveis por comunicar todas as deficiências de segurança às autoridades nacionais de segurança aérea, e por lhes dar solução sem demora. A tripulação e o pessoal de terra devem tomar as medidas adequadas quando constatem deficiências de segurança. Se a tripulação e o pessoal de terra fossem penalizados ao fazê-lo isso seria contrário aos interesses da segurança aérea, como se conclui do n.º 4 do artigo 8.º da Directiva 2003/42/CE do Parlamento Europeu e do Conselho, de 13 de Junho de 2003, relativa à comunicação de ocorrências na aviação civil ([^7^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#E0007)).\n\n(17) Para além das situações abrangidas pelo Regulamento (CE) n.º 261/2004 do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004, que estabelece regras comuns para a indemnização e a assistência aos passageiros dos transportes aéreos em caso de recusa de embarque e de cancelamento ou atraso considerável dos voos ([^8^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#E0008)), aos passageiros deverá ser oferecido o direito a reembolso ou a reencaminhamento noutras situações específicas abrangidas pelo presente regulamento, caso exista uma conexão suficientemente estreita com a Comunidade.\n\n(18) Para além das normas previstas no presente regulamento, as consequências das mudanças da identidade da transportadora aérea operadora sobre a execução do contrato de transporte deverão ser regidas pela legislação dos Estados-Membros aplicável aos contratos e pela legislação comunitária pertinente, nomeadamente a Directiva 90/314/CEE do Conselho e Directiva 93/13/CEE do Conselho, de 5 de Abril de 1993, relativa às cláusulas abusivas nos contratos celebrados com os consumidores ([^9^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#E0009)).\n\n(19) O presente regulamento faz parte de um processo legislativo relativo a uma abordagem eficaz e coerente com vista a reforçar a segurança aérea na Comunidade, contexto em que a Agência Europeia para a Segurança da Aviação desempenha um importante papel. Uma extensão das competências desta Agência, nomeadamente no que respeita às aeronaves de países terceiros, permitiria alargar o papel que lhe incumbe nos termos do presente regulamento. Deve ser dada particular atenção à promoção da melhoria da qualidade e da quantidade das inspecções de segurança das aeronaves, bem como à harmonização destas inspecções.\n\n(20) Quando se observe um risco para a segurança que não tenha sido adequadamente resolvido pelo(s) Estado(s)-Membro(s) em causa, a Comissão deverá dispor da possibilidade de adoptar medidas imediatas numa base provisória. Num tal caso, o Comité a que incumbe assistir a Comissão no âmbito dos seus trabalhos nos termos do presente regulamento deverá actuar em conformidade com o procedimento consultivo previsto no artigo 3.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^10^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#E0010)).\n\n(21) Nos demais casos, o Comité a que incumbe assistir a Comissão no âmbito dos seus trabalhos nos termos do presente regulamento deverá actuar em conformidade com o procedimento de regulamentação previsto no artigo 5.º da Decisão 1999/468/CE.\n\n(22) Atendendo a que a relação entre o presente regulamento e o artigo 9.º da Directiva 2004/36/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa à segurança das aeronaves de países terceiros que utilizem aeroportos comunitários ([^11^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#E0011)), seria, de outro modo, pouco clara, o referido artigo deverá ser revogado tendo em vista garantir a segurança jurídica.\n\n(23) Os Estados-Membros deverão estabelecer regulamentação relativa às sanções aplicáveis às infracções às disposições do capítulo III do presente regulamento e garantir a sua aplicação. As sanções, que poderão ser de natureza civil ou administrativa, deverão ser efectivas, proporcionadas e dissuasivas.\n\n(24) A Comissão deverá analisar a aplicação do presente regulamento e, após um período suficiente, apresentar um relatório sobre a eficácia das suas disposições.\n\n(25) As autoridades competentes da aviação civil na Comunidade poderão decidir que as transportadoras aéreas, incluindo as que não operam no território dos Estados-Membros a que se aplica o Tratado, poderão requerer a essas autoridades que as sujeitem a controlos sistemáticos a fim de verificar que essas transportadoras aéreas tendem a cumprir as normas de segurança relevantes.\n\n(26) O presente regulamento não deverá impedir que os Estados-Membros introduzam, ao nível nacional, um sistema de classificação de qualidade para as transportadoras aéreas, cujos critérios poderão incluir outras considerações para além dos requisitos mínimos de segurança, em conformidade com o direito comunitário.\n\n(27) Em declaração conjunta dos respectivos ministros dos Negócios Estrangeiros, feita em Londres em 2 de Dezembro de 1987, o Reino de Espanha e o Reino Unido chegaram a acordo sobre um regime destinado a cooperar mais estreitamente na utilização do aeroporto de Gibraltar. Tal acordo ainda não começou a ser aplicado,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "8962150b72a6effe": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O presente regulamento estabelece regras sobre:\n\na) O estabelecimento e a publicação de uma lista comunitária, baseada em critérios comuns, das transportadoras aéreas que, por razões de segurança, são objecto de uma proibição de operação na Comunidade;\n\nb) A informação dos passageiros aéreos a respeito da identidade da transportadora aérea que opera os voos em que viajem.\n\n2. A aplicação do presente regulamento ao aeroporto de Gibraltar entende-se sem prejuízo das posições jurídicas do Reino de Espanha e do Reino Unido relativamente ao diferendo sobre a soberania do território em que o aeroporto se encontra situado.\n\n3. A aplicação do presente regulamento ao aeroporto de Gibraltar fica suspensa até que seja aplicado o regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido, de 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido devem informar o Conselho da data de início de aplicação desse regime."
+  },
+  "ec3f3e85e039a00a": {
+   "fragment_id": "Artigo 3.º — Estabelecimento da lista comunitária",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Estabelecimento da lista comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estabelecimento da lista comunitária\n\n1. A fim de reforçar a segurança dos transportes aéreos, deve ser estabelecida uma lista de transportadoras aéreas objecto de uma proibição de operação na Comunidade (seguidamente designada «lista comunitária»). Cada Estado-Membro deve aplicar, no seu território, as proibições de operação incluídas na lista comunitária relativamente às transportadoras aéreas que forem objecto de tais proibições.\n\n2. Os critérios comuns para impor uma proibição de operação a uma transportadora aérea (seguidamente designados «critérios comuns»), os quais se basearão nas normas de segurança relevantes, constam do anexo. A Comissão pode alterar o anexo, nomeadamente a fim de ter em conta elementos de evolução científica e técnica. Estas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 4 do artigo 15.º.\n\n3. A fim de estabelecer a lista comunitária pela primeira vez, cada Estado-Membro deve comunicar à Comissão, até 16 de Fevereiro de 2006, a identidade das transportadoras aéreas que são objecto de uma proibição de operação no seu território, conjuntamente com as razões que o conduziram à adopção de tal proibição e quaisquer outras informações relevantes. A Comissão deve informar os restantes Estados-Membros sobre estas proibições de operação.\n\n4. No prazo de um mês a contar da recepção das informações transmitidas pelos Estados-Membros, a Comissão decide, com base nos critérios comuns, sobre a imposição de proibições de operação às transportadoras aéreas em questão e estabelece a lista comunitária de transportadoras aéreas às quais tenha sido imposta uma proibição de operação, nos termos do n.º 3 do artigo 15.º"
+  },
+  "30d8b4d3db50d29c": {
+   "fragment_id": "Artigo 8.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas de execução\n\n1. Se necessário, a Comissão adopta medidas de execução a fim de estabelecer regras detalhadas relativas aos procedimentos referidos no presente artigo. Estas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 4 do artigo 15.º.\n\n2. Ao decidir estas medidas, a Comissão deve ter na devida conta a necessidade de as decisões de actualização da lista comunitária serem tomadas com rapidez e, sempre que for apropriado, deve prever a possibilidade de aplicação de um procedimento de emergência."
+  },
+  "c509509d54a56152": {
+   "fragment_id": "Artigo 10.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Âmbito de aplicação\n\n1. As disposições do presente capítulo são aplicáveis ao transporte aéreo de passageiros, quando o voo faça parte de um contrato de transporte e esse transporte tenha início na Comunidade, e quando:\n\na) O voo tenha partida num aeroporto situado no território de um Estado-Membro em que se aplique o Tratado;\n\nb) O voo tenha partida num aeroporto situado num país terceiro e chegada num aeroporto situado no território de um Estado-Membro em que se aplique o Tratado;\n\nc) O voo tenha partida num aeroporto situado num país terceiro e chegada num outro aeroporto igualmente situado num país terceiro.\n\n2. As disposições do presente capítulo são aplicáveis quer o voo seja regular ou não regular e quer esteja ou não integrado numa viagem organizada.\n\n3. As disposições do presente capítulo não afectam os direitos conferidos aos passageiros por força da Directiva 90/314/CEE e do Regulamento (CEE) n.º 2299/89."
+  },
+  "de0ab172b7522245": {
+   "fragment_id": "Artigo 12.º — Direito ao reembolso do preço dos bilhetes ou a reencaminhamento",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Direito ao reembolso do preço dos bilhetes ou a reencaminhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito ao reembolso do preço dos bilhetes ou a reencaminhamento\n\n1. O presente regulamento não afecta o direito ao reembolso do preço dos bilhetes ou a reencaminhamento, nos termos estabelecidos no Regulamento (CE) n.º 261/2004.\n\n2. Nos casos em que o Regulamento (CE) n.º 261/2004 não é aplicável, e em que:\n\na) A transportadora aérea operadora comunicada ao passageiro tenha sido inscrita na lista comunitária e seja objecto de uma proibição de operação que tenha conduzido ao cancelamento do voo em causa, ou que teria conduzido a esse cancelamento se o voo em causa fosse operado na Comunidade;\n\nb) A transportadora aérea operadora comunicada ao passageiro tenha sido substituída por outra transportadora aérea operadora que tenha sido inscrita na lista comunitária e seja objecto de uma proibição de operação que tenha conduzido ao cancelamento do voo em causa, ou que teria conduzido a esse cancelamento se o voo em causa fosse operado na Comunidade,\n\no contratante de serviços de transporte aéreo, que é parte no contrato de transporte, deve oferecer ao passageiro o direito ao reembolso do preço dos bilhetes ou a reencaminhamento nos termos estabelecidos no artigo 8.º do Regulamento (CE) n.º 261/2004, no caso de, não tendo o voo sido cancelado, o passageiro optar por não o aceitar.\n\n3. O n.º 2 do presente artigo é aplicável sem prejuízo do artigo 13.º do Regulamento (CE) n.º 261/2004."
+  },
+  "f790ac9b5fc0569b": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A Comissão é assistida pelo Comité a que se refere o artigo 12.º do Regulamento (CEE) n.º 3922/91 (a seguir designado «Comité»).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 e a alínea b) do n.º 5 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\nOs prazos indicados na alínea c) do n.º 3 e nas alíneas b) e e) do n.º 4 do artigo 5.º-A da Decisão 1999/468/CE são, respectivamente, de um mês e de dois meses.\n\n5. A Comissão pode consultar o Comité sobre qualquer outra matéria relacionada com a aplicação do presente regulamento."
+  },
+  "3755da7774b9c694": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente regulamento entra em vigor 20 dias após a sua publicação no *Jornal Oficial da União Europeia*.\n\nOs artigos 10.º, 11.º e 12.º são aplicáveis a partir 16 de Julho de 2006 e o artigo 13.º é aplicável a partir 16 de Janeiro de 2007.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "c950e9abc3bacd82": {
+   "fragment_id": "Critérios comuns para apreciação de uma proibição de operação por motivos de segurança ao nível comunitário",
+   "type": "divisao",
+   "heading": "Critérios comuns para apreciação de uma proibição de operação por motivos de segurança ao nível comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Critérios comuns para apreciação de uma proibição de operação por motivos de segurança ao nível comunitário\n\nAs decisões sobre as acções ao nível comunitário serão tomadas caso a caso. Em função de cada caso, uma transportadora ou todas as transportadoras certificadas num mesmo Estado poderão ser objecto de uma acção ao nível comunitário.\n\nPara examinar a questão de saber se uma transportadora aérea deve ser objecto de uma proibição total ou parcial, deve avaliar-se se a transportadora aérea cumpre as normas de segurança relevantes, tendo em conta os seguintes elementos:\n\n1. Provas confirmadas de deficiências de segurança graves da parte de uma transportadora aérea:\n\n— relatórios que revelem deficiências de segurança graves ou uma incapacidade persistente da transportadora em remediar as deficiências identificadas aquando das inspecções em terra efectuadas no quadro do programa SAFA e previamente comunicadas à transportadora,\n\n— deficiências de segurança graves identificadas no quadro das disposições relativas à recolha de informações prevista no artigo 3.º da Directiva 2004/36/CE sobre a segurança das aeronaves de países terceiros,\n\n— proibição de operação imposta a uma transportadora por um país terceiro devido a deficiências confirmadas no que respeita às normas de segurança internacionais,\n\n— informações relacionadas com acidentes confirmados ou informações relacionadas com incidentes graves que revelem deficiências sistémicas latentes em matéria de segurança.\n\n2. Incapacidade e/ou relutância de uma transportadora aérea em corrigir as deficiências de segurança demonstradas por:\n\n— falta de transparência ou de comunicação adequada e atempada de uma transportadora em resposta a um inquérito levado a cabo pela autoridade da aviação civil de um Estado-Membro relativamente ao aspecto de segurança da sua operação,\n\n— um plano de medidas correctivas inadequado ou insuficiente apresentado em resposta a uma deficiência de segurança grave identificada.\n\n3. Incapacidade e/ou relutância das autoridades encarregadas da inspecção de uma transportadora aérea em corrigir as deficiências de segurança demonstradas por:\n\n— falta de cooperação com a autoridade da aviação civil de um Estado-Membro por parte das autoridades competentes de outro Estado, no caso de terem sido levantadas questões relativas à segurança da operação de uma transportadora autorizada ou certificada no referido Estado,\n\n— incapacidade das autoridades competentes responsáveis pela regulação e supervisão da actividade da transportadora para pôr em prática e fazer respeitar as normas de segurança relevantes. Devem ser particularmente tidos em conta os seguintes elementos:\n\na) auditorias e respectivos planos de medidas correctivas estabelecidos no âmbito do Programa Universal de Avaliação da Vigilância da Segurança da OACI ou no quadro de qualquer outra regulamentação comunitária aplicável,\n\nb) a questão de saber se a autorização de exploração ou a licença técnica de uma transportadora sob vigilância do Estado em causa foi anteriormente recusada ou anulada por outro Estado,\n\nc) o certificado da operadora aérea não foi emitido pela autoridade competente do Estado no qual a transportadora tem o seu principal centro de actividade,\n\n— capacidade insuficiente das autoridades competentes do Estado no qual a aeronave utilizada pela transportadora aérea está registada para vigiar a aeronave utilizada pela transportadora em conformidade com as obrigações que lhe incumbem nos termos da Convenção de Chicago.\n\n---"
+  },
+  "ccb004dbd70e43cc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#src.E0001)) Parecer emitido em 28 de Setembro de 2005 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu, de 16 de Novembro de 2005 (ainda não publicado no Jornal Oficial) e Decisão do Conselho, de 5 de Dezembro de 2005.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#src.E0003)) JO L 373 de 31.12.1991, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2871/2000 da Comissão (JO L 333 de 29.12.2000, p. 47).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#src.E0004)) JO L 240 de 7.9.2002, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1701/2003 da Comissão (JO L 243 de 27.9.2003, p. 5).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#src.E0005)) JO L 158 de 23.6.1990, p. 59.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#src.E0006)) JO L 220 de 29.7.1989, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 323/1999 (JO L 40 de 13.2.1999, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#src.E0007)) JO L 167 de 4.7.2003, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#src.E0008)) JO L 46 de 17.2.2004, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#src.E0009)) JO L 95 de 21.4.1993, p. 29.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#src.E0010)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/70351c3a-c1ab-4621-8d49-6e7624e576b6.0018.03/DOC_1#src.E0011)) JO L 143 de 30.4.2004, p. 76."
+  },
+  "51964c2265298da7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Dezembro de 2005\n\nrelativo ao estabelecimento de uma lista comunitária das transportadoras aéreas que são objecto de uma proibição de operação na Comunidade e à informação dos passageiros do transporte aéreo sobre a identidade da transportadora aérea operadora, e que revoga o artigo 9.º da Directiva 2004/36/CE\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "c174430fe7a3c58b": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A Comissão é assistida por um comité («Comité da Segurança Aérea da UE»). Este comité deve ser considerado um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Sempre que se faça referência ao presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011.\n\n3. Sempre que se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 e a alínea b) do n.º 5 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\nOs prazos indicados na alínea c) do n.º 3 e nas alíneas b) e e) do n.º 4 do artigo 5.º-A da Decisão 1999/468/CE são, respectivamente, de um mês e de dois meses.\n\n5. A Comissão pode consultar o Comité sobre qualquer outra matéria relacionada com a aplicação do presente regulamento."
+  },
+  "7d363c796dfe4212": {
+   "fragment_id": "Critérios comuns para apreciação de uma proibição de operação por motivos de segurança ao nível comunitário",
+   "type": "divisao",
+   "heading": "Critérios comuns para apreciação de uma proibição de operação por motivos de segurança ao nível comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Critérios comuns para apreciação de uma proibição de operação por motivos de segurança ao nível comunitário\n\nAs decisões sobre as acções ao nível comunitário serão tomadas caso a caso. Em função de cada caso, uma transportadora ou todas as transportadoras certificadas num mesmo Estado poderão ser objecto de uma acção ao nível comunitário.\n\nPara examinar a questão de saber se uma transportadora aérea deve ser objecto de uma proibição total ou parcial, deve avaliar-se se a transportadora aérea cumpre as normas de segurança relevantes, tendo em conta os seguintes elementos:\n\n1. Provas confirmadas de deficiências de segurança graves da parte de uma transportadora aérea:\n\n— relatórios que revelem deficiências de segurança graves ou uma incapacidade persistente da transportadora em remediar as deficiências identificadas aquando das inspecções em terra efectuadas no quadro do programa SAFA e previamente comunicadas à transportadora,\n\n— deficiências de segurança graves identificadas no quadro das disposições relativas à recolha de informações prevista no artigo 3.º da Directiva 2004/36/CE sobre a segurança das aeronaves de países terceiros,\n\n— proibição de operação imposta a uma transportadora por um país terceiro devido a deficiências confirmadas no que respeita às normas de segurança internacionais,\n\n— informações relacionadas com acidentes confirmados ou informações relacionadas com incidentes graves que revelem deficiências sistémicas latentes em matéria de segurança.\n\n2. Incapacidade e/ou relutância de uma transportadora aérea em corrigir as deficiências de segurança demonstradas por:\n\n— falta de transparência ou de comunicação adequada e atempada de uma transportadora em resposta a um inquérito levado a cabo pela autoridade da aviação civil de um Estado-Membro relativamente ao aspecto de segurança da sua operação,\n\n— um plano de medidas correctivas inadequado ou insuficiente apresentado em resposta a uma deficiência de segurança grave identificada.\n\n3. Incapacidade e/ou relutância das autoridades encarregadas da inspecção de uma transportadora aérea em corrigir as deficiências de segurança demonstradas por:\n\n— falta de cooperação com a autoridade da aviação civil de um Estado-Membro por parte das autoridades competentes de outro Estado, no caso de terem sido levantadas questões relativas à segurança da operação de uma transportadora autorizada ou certificada no referido Estado,\n\n— incapacidade das autoridades competentes responsáveis pela regulação e supervisão da actividade da transportadora para pôr em prática e fazer respeitar as normas de segurança relevantes. Devem ser particularmente tidos em conta os seguintes elementos:\n\na) auditorias e respectivos planos de medidas correctivas estabelecidos no âmbito do Programa Universal de Avaliação da Vigilância da Segurança da OACI ou no quadro de qualquer outra regulamentação comunitária aplicável,\n\nb) a questão de saber se a autorização de exploração ou a licença técnica de uma transportadora sob vigilância do Estado em causa foi anteriormente recusada ou anulada por outro Estado,\n\nc) o certificado da operadora aérea não foi emitido pela autoridade competente do Estado no qual a transportadora tem o seu principal centro de actividade,\n\n— capacidade insuficiente das autoridades competentes do Estado no qual a aeronave utilizada pela transportadora aérea está registada para vigiar a aeronave utilizada pela transportadora em conformidade com as obrigações que lhe incumbem nos termos da Convenção de Chicago."
+  },
+  "842d6d3c3a38a209": {
+   "fragment_id": "Artigo 3.º — Estabelecimento da lista comunitária",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Estabelecimento da lista comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estabelecimento da lista comunitária\n\n1. A fim de reforçar a segurança dos transportes aéreos, deve ser estabelecida uma lista de transportadoras aéreas objecto de uma proibição de operação na Comunidade (seguidamente designada «lista comunitária»). Cada Estado-Membro deve aplicar, no seu território, as proibições de operação incluídas na lista comunitária relativamente às transportadoras aéreas que forem objecto de tais proibições.\n\n2. Os critérios comuns para impor uma proibição de operação a uma transportadora aérea (a seguir designados por «critérios comuns»), os quais se basearão nas normas de segurança relevantes, constam do anexo.\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 14.º-A no que diz respeito a alterar o anexo a fim de modificar os critérios comuns para ter em conta a evolução científica e técnica.\n\n3. A fim de estabelecer a lista comunitária pela primeira vez, cada Estado-Membro deve comunicar à Comissão, até 16 de Fevereiro de 2006, a identidade das transportadoras aéreas que são objecto de uma proibição de operação no seu território, conjuntamente com as razões que o conduziram à adopção de tal proibição e quaisquer outras informações relevantes. A Comissão deve informar os restantes Estados-Membros sobre estas proibições de operação.\n\n4. No prazo de um mês a contar da recepção das informações transmitidas pelos Estados-Membros, a Comissão decide, com base nos critérios comuns, sobre a imposição de proibições de operação às transportadoras aéreas em questão e estabelece a lista comunitária de transportadoras aéreas às quais tenha sido imposta uma proibição de operação, nos termos do n.º 3 do artigo 15.º"
+  },
+  "2716a88e8fb7b9e4": {
+   "fragment_id": "Artigo 8.º — Regras pormenorizadas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Regras pormenorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regras pormenorizadas\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 14.º-A a fim de completar o presente regulamento mediante o estabelecimento de regras pormenorizadas no respeitante aos procedimentos referidos no presente capítulo, tendo na devida conta a necessidade de as decisões sobre a atualização da lista comunitária serem tomadas com celeridade.\n\nSe, em caso das medidas referidas no n.º 1, imperativos de urgência assim o exigirem, aplica-se aos atos delegados adotados nos termos do presente artigo o procedimento previsto no artigo 14.º-B."
+  },
+  "99502d5daa5c48ca": {
+   "fragment_id": "Artigo 14.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 14.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 3.º, n.º 2, e no artigo 8.º, é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 3.º, n.º 2, e no artigo 8.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/fc673b43-eb77-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 3.º, n.º 2, e do artigo 8.º, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "3e855f070737ce9d": {
+   "fragment_id": "Artigo 14.º-B — Procedimento de urgência",
+   "type": "artigo",
+   "heading": "Artigo 14.º-B — Procedimento de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º-B — Procedimento de urgência\n\n1. Os atos delegados adotados nos termos do presente artigo entram em vigor sem demora e são aplicáveis desde que não tenha sido formulada qualquer objeção nos termos do n.º 2. Na notificação de um ato delegado ao Parlamento Europeu e ao Conselho devem expor-se os motivos que justificam o recurso ao procedimento de urgência.\n\n2. O Parlamento Europeu ou o Conselho podem formular objeções a um ato delegado de acordo com o procedimento a que se refere o artigo 14.º-A, n.º 6. Nesse caso, a Comissão revoga imediatamente o ato após a notificação da decisão pela qual o Parlamento Europeu ou o Conselho tiverem formulado objeções."
+  },
+  "539f387e238dd78b": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A Comissão é assistida por um comité («Comité da Segurança Aérea da UE»). Este comité deve ser considerado um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Sempre que se faça referência ao presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011.\n\n3. Sempre que se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\n5. A Comissão pode consultar o Comité sobre qualquer outra matéria relacionada com a aplicação do presente regulamento."
+  },
+  "e7e20aaa7054bf9a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fc673b43-eb77-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1."
+  },
+  "d957942d72a87c19": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1.\n\nO presente regulamento estabelece regras sobre:\n\na) O estabelecimento e a publicação de uma lista comunitária, baseada em critérios comuns, das transportadoras aéreas que, por razões de segurança, são objecto de uma proibição de operação na Comunidade;\n\nb) A informação dos passageiros aéreos a respeito da identidade da transportadora aérea que opera os voos em que viajem.\n\n2. A aplicação do presente regulamento ao aeroporto de Gibraltar entende-se sem prejuízo das posições jurídicas do Reino de Espanha e do Reino Unido relativamente ao diferendo sobre a soberania do território em que o aeroporto se encontra situado.\n\n3. A aplicação do presente regulamento ao aeroporto de Gibraltar fica suspensa até que seja aplicado o regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido, de 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido devem informar o Conselho da data de início de aplicação desse regime."
+  },
+  "1d9d483b50bea2af": {
+   "fragment_id": "Artigo 4.º — Actualização da lista comunitária",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Actualização da lista comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Actualização da lista comunitária\n\n1.\n\nA lista comunitária deve ser actualizada a fim de:\n\na) Impor uma proibição de operação a uma transportadora aérea e incluir esta última na lista comunitária, com base nos critérios comuns;\n\nb) Retirar uma transportadora aérea da lista comunitária, caso as deficiências de segurança ou outras que tenham conduzido à sua inclusão na lista comunitária tenham sido reparadas e não exista qualquer outra razão que, com base nos critérios comuns, justifique a manutenção da transportadora aérea na lista comunitária;\n\nc) Alterar as condições de uma proibição de operação imposta a uma transportadora aérea incluída na lista comunitária.\n\n2. A Comissão, actuando por sua iniciativa ou a pedido de um Estado-Membro, decide actualizar a lista comunitária sempre que se verifique alguma das situações referidas no n.º 1, nos termos do n.º 3 do artigo 15.º e com base nos critérios comuns. Pelo menos de três em três meses, a Comissão verifica se é adequado actualizar a lista comunitária.\n\n3. Os Estados-Membros e a Agência Europeia para a Segurança da Aviação devem transmitir à Comissão todas as informações que possam ser relevantes no contexto da actualização da lista comunitária. A Comissão deve transmitir toda a informação relevante aos restantes Estados-Membros."
+  },
+  "01dd4e828cf37bcb": {
+   "fragment_id": "Artigo 10.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Âmbito de aplicação\n\n1.\n\nAs disposições do presente capítulo são aplicáveis ao transporte aéreo de passageiros, quando o voo faça parte de um contrato de transporte e esse transporte tenha início na Comunidade, e quando:\n\na) O voo tenha partida num aeroporto situado no território de um Estado-Membro em que se aplique o Tratado;\n\nb) O voo tenha partida num aeroporto situado num país terceiro e chegada num aeroporto situado no território de um Estado-Membro em que se aplique o Tratado;\n\nc) O voo tenha partida num aeroporto situado num país terceiro e chegada num outro aeroporto igualmente situado num país terceiro.\n\n2. As disposições do presente capítulo são aplicáveis quer o voo seja regular ou não regular e quer esteja ou não integrado numa viagem organizada.\n\n3. As disposições do presente capítulo não afectam os direitos conferidos aos passageiros por força da Directiva 90/314/CEE e do Regulamento (CEE) n.º 2299/89."
+  },
+  "0a2262791a2d2da3": {
+   "fragment_id": "Artigo 12.º — Direito ao reembolso do preço dos bilhetes ou a reencaminhamento",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Direito ao reembolso do preço dos bilhetes ou a reencaminhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito ao reembolso do preço dos bilhetes ou a reencaminhamento\n\n1. O presente regulamento não afecta o direito ao reembolso do preço dos bilhetes ou a reencaminhamento, nos termos estabelecidos no Regulamento (CE) n.º 261/2004.\n\n2.\n\nNos casos em que o Regulamento (CE) n.º 261/2004 não é aplicável, e em que:\n\na) A transportadora aérea operadora comunicada ao passageiro tenha sido inscrita na lista comunitária e seja objecto de uma proibição de operação que tenha conduzido ao cancelamento do voo em causa, ou que teria conduzido a esse cancelamento se o voo em causa fosse operado na Comunidade;\n\nb) A transportadora aérea operadora comunicada ao passageiro tenha sido substituída por outra transportadora aérea operadora que tenha sido inscrita na lista comunitária e seja objecto de uma proibição de operação que tenha conduzido ao cancelamento do voo em causa, ou que teria conduzido a esse cancelamento se o voo em causa fosse operado na Comunidade,\n\no contratante de serviços de transporte aéreo, que é parte no contrato de transporte, deve oferecer ao passageiro o direito ao reembolso do preço dos bilhetes ou a reencaminhamento nos termos estabelecidos no artigo 8.º do Regulamento (CE) n.º 261/2004, no caso de, não tendo o voo sido cancelado, o passageiro optar por não o aceitar.\n\n3. O n.º 2 do presente artigo é aplicável sem prejuízo do artigo 13.º do Regulamento (CE) n.º 261/2004."
+  },
+  "411fbf501473d6cc": {
+   "fragment_id": "Artigo 14.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 14.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 3.º, n.º 2, e no artigo 8.º, é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 3.º, n.º 2, e no artigo 8.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/fa426ddb-d889-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#E0001)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 3.º, n.º 2, e do artigo 8.º, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "a925d4a315375fa3": {
+   "fragment_id": "Critérios comuns a considerar para a imposição de uma proibição de operação a nível da União",
+   "type": "divisao",
+   "heading": "Critérios comuns a considerar para a imposição de uma proibição de operação a nível da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Critérios comuns a considerar para a imposição de uma proibição de operação a nível da União\n\nAs decisões sobre as ações ao nível da União serão tomadas caso a caso. Em função de cada caso, uma transportadora ou todas as transportadoras certificadas num mesmo Estado poderão ser objeto de uma ação ao nível da União.\n\nA. Para examinar a questão de saber se uma transportadora aérea, ou as transportadoras aéreas certificadas no mesmo Estado, devem ser objeto de uma proibição total ou parcial, deve avaliar-se se a transportadora aérea cumpre as normas de segurança relevantes, tendo em conta os seguintes elementos:\n\n1. Provas confirmadas de deficiências de segurança graves da parte de uma transportadora aérea:\n\na) relatórios que revelem deficiências de segurança graves ou uma incapacidade persistente da transportadora em remediar as deficiências identificadas aquando das inspeções em terra efetuadas no quadro do programa europeu relativo à realização de inspeções na plataforma de estacionamento (SAFA) ([^2^](http://publications.europa.eu/resource/cellar/fa426ddb-d889-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#E0002)) e previamente comunicadas à transportadora;\n\nb) deficiências identificadas no quadro das disposições relativas à recolha de informações previstas na subparte RAMP do anexo II do Regulamento (UE) n.º 965/2012 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/fa426ddb-d889-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#E0003));\n\nc) proibição de operação imposta a uma transportadora por um país terceiro devido a deficiências confirmadas no que respeita às normas de segurança pertinentes;\n\nd) informações relacionadas com acidentes confirmados ou informações relacionadas com incidentes graves que revelem deficiências sistémicas latentes em matéria de segurança;\n\ne) informações recolhidas através do processo de autorização de operadores de países terceiros, quer se trate de uma monitorização inicial ou contínua efetuada pela Agência da União Europeia para a Segurança da Aviação («Agência»), nomeadamente no que diz respeito às medidas tomadas pela Agência sobre a rejeição de um pedido ao abrigo da secção ART.200, alínea e), ponto 1), do anexo II do Regulamento (UE) n.º 452/2014 da Comissão ([^4^](http://publications.europa.eu/resource/cellar/fa426ddb-d889-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#E0004)) ou à suspensão ou revogação de uma autorização ao abrigo da secção ART.235, por razões de segurança.\n\n2. Incapacidade e/ou relutância de uma transportadora aérea em corrigir as deficiências de segurança demonstradas por:\n\na) falta de transparência ou de comunicação adequada e atempada de uma transportadora em resposta a um inquérito levado a cabo pela autoridade da aviação civil de um Estado-Membro, pela Comissão ou pela Agência relativamente ao aspeto de segurança da sua operação;\n\nb) um plano de medidas corretivas inadequado ou insuficiente elaborado em resposta a uma deficiência de segurança grave identificada.\n\n3. Incapacidade e/ou relutância das autoridades responsáveis pela supervisão regulamentar de uma transportadora aérea para corrigir as deficiências de segurança demonstradas por:\n\na) falta de cooperação com a autoridade da aviação civil de um Estado-Membro, a Comissão ou a Agência por parte das autoridades competentes de outro Estado, no caso de terem sido levantadas questões relativas à segurança da operação de uma transportadora autorizada ou certificada no referido Estado;\n\nb) incapacidade das autoridades competentes responsáveis pela regulação e supervisão da atividade da transportadora para pôr em prática e fazer respeitar as normas de segurança relevantes. Devem ser particularmente tidos em conta os seguintes elementos:\n\ni) auditorias e respetivos planos de medidas corretivas estabelecidos no âmbito do Programa Universal de Auditoria da Supervisão da Segurança da Organização da Aviação Civil Internacional ou no quadro de qualquer outra regulamentação aplicável da União;\n\nii) a questão de saber se a autorização operacional ou a autorização técnica de uma transportadora sob vigilância do Estado em causa foi anteriormente recusada ou revogada por outro Estado;\n\niii) o certificado da operadora aérea não foi emitido pela autoridade competente do Estado no qual a transportadora tem o seu estabelecimento principal;\n\nc) capacidade insuficiente das autoridades competentes do Estado no qual a aeronave utilizada pela transportadora aérea está registada para vigiar a aeronave utilizada pela transportadora em conformidade com as obrigações que lhe incumbem nos termos da Convenção de Chicago.\n\nB. Em conformidade com o artigo 4.º, n.º 1, alínea b), do presente regulamento, ao ponderar se a lista da União deve ser atualizada a fim de retirar uma transportadora aérea da lista por as deficiências de segurança terem sido corrigidas e não existirem outros motivos, com base nos critérios comuns enumerados na secção A, para manter a transportadora aérea na lista da União, pode considerar-se que os seguintes elementos fornecem elementos comprovativos:\n\n1. provas verificáveis de que as deficiências identificadas foram corrigidas de forma sustentável, indicando que a transportadora aérea cumpre plenamente e aplica as normas de segurança pertinentes;\n\n2. nova certificação das transportadoras aéreas efetuada pelas autoridades responsáveis pela supervisão regulamentar das transportadoras aéreas em conformidade com o processo da OACI, com provas de que todas as atividades foram devidamente documentadas;\n\n3. provas verificáveis do cumprimento e da aplicação efetiva das normas de segurança pertinentes pelas autoridades responsáveis pela supervisão regulamentar da transportadora aérea;\n\n4. capacidade verificável das autoridades responsáveis pela supervisão regulamentar da transportadora aérea para aplicarem um sistema regulamentar sólido;\n\n5. provas verificáveis de que as autoridades responsáveis pela supervisão regulamentar da transportadora aérea procedem a uma supervisão eficaz, o que permite a aplicação adequada e o respeito das normas de segurança pertinentes;\n\n6. informações recolhidas através do processo de TCO, quer se trate de um controlo inicial ou contínuo realizado pela Agência;\n\n7. informações recolhidas no âmbito das inspeções efetuadas na plataforma de estacionamento.\n\n---"
+  },
+  "5ccacf4bda733c66": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fa426ddb-d889-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fa426ddb-d889-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Programa europeu relativo à realização de inspeções na plataforma de estacionamento a aeronaves utilizadas por operadores de países terceiros (SAFA) ou utilizadas por operadores sob a supervisão regulamentar de outro Estado-Membro da UE (SACA).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fa426ddb-d889-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento (UE) n.º 965/2012 da Comissão, de 5 de outubro de 2012, que estabelece os requisitos técnicos e os procedimentos administrativos para as operações aéreas, em conformidade com o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho (JO L 296 de 25.10.2012, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fa426ddb-d889-11ed-a05c-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (UE) n.º 452/2014 da Comissão, de 29 de abril de 2014, que estabelece os requisitos técnicos e os procedimentos administrativos para as operações aéreas dos operadores de países terceiros, em conformidade com o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho (JO L 133 de 6.5.2014, p. 12)."
+  }
+ }
+}

@@ -1,0 +1,1040 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:529052:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1995-203474858",
+ "dre_path": "/dr/detalhe/portaria/502-1995-529052",
+ "source_lastmod": "2025-09-12",
+ "versions": [
+  {
+   "date": "1995-05-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "935268998",
+    "203476724",
+    "203476725",
+    "203476726",
+    "203476727",
+    "203476728",
+    "203476729",
+    "203476730",
+    "203476731",
+    "203476732",
+    "203476733",
+    "203476734",
+    "203476735",
+    "203476736",
+    "203476737",
+    "203476738",
+    "203476739",
+    "203476740",
+    "203476741",
+    "203476742",
+    "203476743",
+    "203476744",
+    "203476745",
+    "203476746",
+    "203476747",
+    "203476748",
+    "203476749",
+    "203476750",
+    "203476751",
+    "203476752",
+    "203476753",
+    "203476754",
+    "203476755",
+    "203476756",
+    "203476757",
+    "203476758",
+    "203476759",
+    "203476760",
+    "203476761",
+    "203476762",
+    "203476763",
+    "203476764",
+    "203476765",
+    "203476766",
+    "203476767",
+    "203476768",
+    "203476769",
+    "203476770",
+    "203476771",
+    "203476772",
+    "203476773",
+    "203476774",
+    "203476875",
+    "203476876",
+    "203476879",
+    "203476880",
+    "203476881",
+    "203476882",
+    "203476883",
+    "203476884",
+    "203476885",
+    "203476886",
+    "203476887",
+    "203476888"
+   ]
+  },
+  {
+   "date": "1995-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:386255:por",
+     "title": "Declaração de Rectificação n.º 89/95",
+     "published": "1995-06-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/89-1995-386255"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 10.º",
+    "Retifica Artigo 14.º",
+    "Retifica Artigo 26.º",
+    "Retifica Artigo 28.º",
+    "Retifica Artigo 39.º",
+    "Retifica Artigo 49.º",
+    "Retifica Artigo 54.º",
+    "Retifica ANEXO A",
+    "Retifica ANEXO B"
+   ],
+   "fragments": [
+    "203451167",
+    "203476723",
+    "203476724",
+    "203476725",
+    "203476726",
+    "203476727",
+    "203476728",
+    "203476729",
+    "203476730",
+    "203476731",
+    "203476732",
+    "203476733",
+    "203476734",
+    "203476735",
+    "203476736",
+    "935268976",
+    "203476738",
+    "203476739",
+    "203476740",
+    "935268977",
+    "203476742",
+    "203476743",
+    "203476744",
+    "203476745",
+    "203476746",
+    "203476747",
+    "203476748",
+    "203476749",
+    "203476750",
+    "203476751",
+    "203476752",
+    "935268978",
+    "203476754",
+    "203476755",
+    "935268979",
+    "203476757",
+    "203476758",
+    "203476759",
+    "203476760",
+    "203476761",
+    "203476762",
+    "203476763",
+    "203476764",
+    "203476765",
+    "203476766",
+    "203476767",
+    "203476768",
+    "935268980",
+    "203476770",
+    "203476771",
+    "203476772",
+    "203476773",
+    "203476774",
+    "203476875",
+    "203476876",
+    "203476879",
+    "203476880",
+    "203476881",
+    "935268981",
+    "203476883",
+    "203476884",
+    "203476885",
+    "203476886",
+    "935268982",
+    "203476888",
+    "935268983",
+    "935268984",
+    "203476892",
+    "203476891"
+   ]
+  },
+  {
+   "date": "2002-10-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:431599:por",
+     "title": "Portaria n.º 1380/2002",
+     "published": "2002-10-23",
+     "dre_path": "/dr/detalhe/portaria/1380-2002-431599"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 27.º",
+    "Altera ANEXO C",
+    "Altera ANEXO D"
+   ],
+   "fragments": [
+    "203451167",
+    "203476723",
+    "203476724",
+    "203476725",
+    "203476726",
+    "203476727",
+    "203476728",
+    "203476729",
+    "203476730",
+    "203476731",
+    "203476732",
+    "203476733",
+    "203476734",
+    "203476735",
+    "935268985",
+    "935268976",
+    "203476738",
+    "935268986",
+    "935268987",
+    "935268988",
+    "935268989",
+    "935268990",
+    "203476744",
+    "935268991",
+    "935268992",
+    "935268993",
+    "935268994",
+    "203476749",
+    "203476750",
+    "203476751",
+    "203476752",
+    "935268978",
+    "935268995",
+    "203476755",
+    "935268979",
+    "203476757",
+    "203476758",
+    "203476759",
+    "203476760",
+    "203476761",
+    "203476762",
+    "203476763",
+    "203476764",
+    "203476765",
+    "203476766",
+    "203476767",
+    "203476768",
+    "935268980",
+    "203476770",
+    "203476771",
+    "203476772",
+    "203476773",
+    "203476774",
+    "203476875",
+    "203476876",
+    "203476879",
+    "203476880",
+    "203476881",
+    "935268981",
+    "203476883",
+    "203476884",
+    "203476885",
+    "203476886",
+    "935268982",
+    "203476888",
+    "935268983",
+    "935268984",
+    "935268996",
+    "935268997"
+   ]
+  }
+ ],
+ "fragments": {
+  "935268998": {
+   "fragment_id": "203474859",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 502/95\n\nde 26 de Maio\n\nImportando estabelecer instruções para a execução do sistema de avaliação do mérito dos militares da Marinha;\n\nEm cumprimento do disposto no artigo 86.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 34-A/90, de 24 de Janeiro, manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:"
+  },
+  "203476724": {
+   "fragment_id": "203476816",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "203476725": {
+   "fragment_id": "203476817",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e objectivos\n\nO Regulamento de Avaliação do Mérito dos Militares da Marinha, abreviadamente designado por RAM, fixando, na Marinha, as instruções para a execução do sistema de avaliação do mérito, tem por objectivos:\n\na) Definir conceptualmente o sistema;\n\nb) Estabelecer o normativo para o seu funcionamento."
+  },
+  "203476726": {
+   "fragment_id": "203476818",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO RAM aplica-se a todos os militares da Marinha na efectividade do serviço."
+  },
+  "203476727": {
+   "fragment_id": "203476819",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de avaliação do mérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de avaliação do mérito"
+  },
+  "203476728": {
+   "fragment_id": "203476820",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceito\n\nO sistema de avaliação do mérito integra, como partes constitutivas, o conjunto dos militares intervenientes, os elementos de avaliação e o suporte dos elementos de avaliação, judiciosamente relacionados por forma a atingir a finalidade fixada no artigo seguinte."
+  },
+  "203476729": {
+   "fragment_id": "203476821",
+   "type": 11,
+   "heading": "Artigo 4.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Finalidade\n\nO sistema de avaliação do mérito visa assegurar a caracterização do merecimento dos militares, por forma a possibilitar a sua correcta gestão, designadamente no âmbito de:\n\na) Recrutamento e selecção;\n\nb) Formação e aperfeiçoamento;\n\nc) Promoção;\n\nd) Desempenho de funções."
+  },
+  "203476730": {
+   "fragment_id": "203476822",
+   "type": 11,
+   "heading": "Artigo 5.º — Subsistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Subsistemas\n\n1 - O sistema de avaliação do mérito é composto pelos seguintes subsistemas:\n\na) De avaliação individual;\n\nb) De avaliação da formação;\n\nc) De avaliação disciplinar;\n\nd) De avaliação complementar.\n\n2 - A avaliação individual consiste na apreciação das aptidões reveladas pelo avaliado e do nível do desempenho das funções exercidas.\n\n3 - A avaliação da formação consiste na apreciação dos conhecimentos, perícias e atitudes específicas dos militares enquanto sujeitos a acções de formação.\n\n4 - A avaliação disciplinar consiste na apreciação do comportamento do militar à luz dos louvores, recompensas e condecorações atribuídas e ainda das sanções aplicadas.\n\n5 - A avaliação complementar respeita à apreciação do militar feita com base no conjunto dos demais elementos curriculares do militar."
+  },
+  "203476731": {
+   "fragment_id": "203476823",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências\n\n1 - São competentes para avaliar o mérito dos militares da Marinha:\n\na) O Chefe do Estado-Maior da Armada (CEMA);\n\nb) O superintendente dos Serviços do Pessoal;\n\nc) O director do Serviço de Pessoal;\n\nd) O Conselho do Almirantado (CA);\n\ne) O Conselho Superior de Disciplina da Armada (CSDA);\n\nf) Os Conselhos de Classes (CC);\n\ng) Os chefes das repartições da Direcção do Serviço de Pessoal.\n\n2 - São competentes para avaliar os militares em cada um dos subsistemas que integram o sistema de avaliação de mérito as entidades indicadas nas diferentes secções do capítulo III do RAM, referentes a esses subsistemas."
+  },
+  "203476732": {
+   "fragment_id": "203476824",
+   "type": 1,
+   "heading": "Capítulo III — Subsistemas da avaliação do mérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Subsistemas da avaliação do mérito"
+  },
+  "203476733": {
+   "fragment_id": "203476825",
+   "type": 8,
+   "heading": "Secção I — Avaliação individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Avaliação individual"
+  },
+  "203476734": {
+   "fragment_id": "203476826",
+   "type": 11,
+   "heading": "Artigo 7.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objecto\n\n1 - A avaliação individual tem por objecto o comportamento e os resultados obtidos pelo avaliado, analisando as aptidões reveladas e o desempenho.\n\n2 - A avaliação individual integra a avaliação periódica e a extraordinária."
+  },
+  "203476735": {
+   "fragment_id": "203476827",
+   "type": 11,
+   "heading": "Artigo 8.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Finalidade\n\n1 - As avaliações individuais dos militares da Marinha destinam-se a:\n\na) Actualizar o conhecimento do potencial humano existente;\n\nb) Contribuir para a selecção dos mais aptos para o exercício de determinados cargos e funções;\n\nc) Avaliar a adequabilidade dos recursos humanos aos cargos e funções desempenhados;\n\nd) Compatibilizar as aptidões do avaliado e os interesses da Marinha;\n\ne) Incentivar o cumprimento dos deveres militares e o aperfeiçoamento técnico-militar.\n\n2 - As avaliações individuais permitem:\n\na) Descrever e classificar as aptidões e o desempenho dos militares;\n\nb) Identificar acções de formação requeridas;\n\nc) Identificar medidas para a melhoria do desempenho e eficácia dos avaliados;\n\nd) Incrementar o diálogo avaliador-avaliado."
+  },
+  "203476736": {
+   "fragment_id": "203476828",
+   "type": 11,
+   "heading": "Artigo 9.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Âmbito de aplicação\n\n1 - São sujeitos a avaliação individual, periódica e extraordinária, nos termos do RAM, todos os militares, independentemente da forma de prestação de serviço, com excepção dos almirantes, vice-almirantes e contra-almirantes nos quadros especiais em que este posto é o mais elevado, que apenas são sujeitos à avaliação extraordinária.\n\n2 - Os militares em comissão normal desempenhando cargos ou funções fora da estrutura da Marinha são igualmente objecto de avaliação individual, de acordo com o normativo do RAM.\n\n3 - Aos militares mobilizados e convocados aplicam-se as disposições da presente secção respeitantes à forma de prestação de serviço que antecedeu a passagem à situação de reserva de disponibilidade e licenciamento."
+  },
+  "203476737": {
+   "fragment_id": "203476829",
+   "type": 11,
+   "heading": "Artigo 10.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Princípios gerais\n\n1 - A avaliação individual requer atenta observação dos militares a avaliar durante o período de tempo a que respeita, sendo independente de outras avaliações anteriores.\n\n2 - A avaliação individual deve ser sempre fundamentada.\n\n3 - Os militares são, em regra, apreciados por dois avaliadores, o primeiro e o segundo avaliador, sempre que possível pertencentes à unidade ou organismo onde o avaliado presta serviço.\n\n4 - Não há segundo avaliador quando o primeiro avaliador for oficial general ou estiver directamente subordinado ao CEMA.\n\n5 - O primeiro avaliador deve munir-se de todos os elementos que permitam formular uma apreciação objectiva e justa sobre as qualidades ou aptidões do avaliado.\n\n6 - O primeiro avaliador classifica cada uma das aptidões do avaliado e exprime juízo opinativo relativamente ao desempenho de funções exercidas pelo avaliado e ao desenvolvimento e orientação que considere adequados para a sua carreira.\n\n7 - Independentemente das circunstâncias em que o RAM especificamente a tal obriga, os primeiros avaliadores devem indicar aos avaliados o teor global das avaliações individuais, dando-lhes a conhecer, quando apropriado, a forma de se aperfeiçoarem ou de corrigirem deficiências.\n\n8 - As avaliações, dos primeiros avaliadores são apreciadas pelos segundos avaliadores que devem pronunciar-se quer quanto ao modo como o primeiro avaliador apreciou o avaliado, sempre que tiverem conhecimento directo do avaliado, quer sobre a maneira como o primeiro avaliador apreciou os avaliados do mesmo posto, considerados no seu conjunto.\n\n9 - Para efeitos de registo e processamento, a avaliação prevalecente é a do primeiro avaliador.\n\n10 - Nenhuma avaliação individual pode, por si só, determinar qualquer acto de administração de pessoal em matéria de promoções."
+  },
+  "203476738": {
+   "fragment_id": "203476830",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios para avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios para avaliação\n\nAs avaliações individuais devem ser executadas em obediência a critérios de:\n\na) Objectividade, de modo a evitar julgamentos preconcebidos, sejam ou não favoráveis;\n\nb) Isenção, sem benevolência ou rigor excessivos;\n\nc) Relatividade, situando o militar avaliado no conjunto dos militares da mesma classe e posto e, sempre que aplicável, com especialização e funções idênticas."
+  },
+  "203476739": {
+   "fragment_id": "203476831",
+   "type": 11,
+   "heading": "Artigo 12.º — Avaliação periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Avaliação periódica\n\n1 - Os militares dos quadros permanentes (QP) e os militares em regime de contrato (RC) ou em regime de voluntariado (RV), na efectividade do serviço, são avaliados semestralmente, com referência a l de Janeiro e a 1 de Julho de cada ano.\n\n2 - As avaliações semestrais não se realizam em relação aos militares nas seguintes situações:\n\na) De licença para estudos;\n\nb) Na inactividade temporária por doença ou acidente."
+  },
+  "203476740": {
+   "fragment_id": "203476832",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliação extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliação extraordinária\n\n1 - Os militares dos QP e os militares em RC ou RV, na efectividade do serviço, são avaliados extraordinariamente nas seguintes circunstâncias:\n\na) Quando o primeiro avaliador ou o avaliado destaquem da unidade ou serviço, desde que decorridos quatro meses após a última avaliação;\n\nb) Quando qualquer dos avaliadores o considere conveniente e designadamente entenda justificado e oportuno alterar a última avaliação prestada sobre o avaliado;\n\nc) Quando as repartições da Direcção do Serviço de Pessoal (DSP), os CC, o CA ou o CSDA o solicitem;\n\nd) Quando determinado pelo comandante, director ou chefe da unidade ou organismo a que o militar pertence.\n\n2 - A avaliação extraordinária tem lugar ainda para os militares em serviço efectivo normal (SEN), RV e RC:\n\na) Para efeitos de promoção;\n\nb) Quando requeiram a admissão noutra forma de prestação de serviço;\n\nc) No final da sua permanência em serviço efectivo e antes de passarem à reserva de disponibilidade e licenciamento.\n\n3 - Para além das circunstâncias tipificadas nos n.os 1 e 2 , os militares em RV e RC são ainda sujeitos a avaliação extraordinária para efeitos de prorrogação do RV ou RC, respectivamente."
+  },
+  "203476741": {
+   "fragment_id": "203476833",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Avaliadores\n\n1 - São competentes para avaliar os militares seus subordinados:\n\na) Os oficiais com o posto de primeiro-tenente ou superior, independentemente do posto do militar avaliado;\n\nb) Os oficiais com pelo menos dois anos de serviço após a promoção a oficial, no caso da avaliação de primeiros e segundos-sargentos, subsargentos, segundos-subsargentos e praças;\n\nc) Os sargentos-mores, e os sargentos-chefes com pelo menos dois anos de serviço após a promoção, no caso da avaliação de primeiros e segundos-sargentos, subsargentos, segundos-subsargentos e praças.\n\n2 - Os comandantes das unidades navais, das unidades de mergulhadores-sapadores e das unidades de fuzileiros têm sempre competência para avaliar todos os seus subordinados, independentemente das condições estabelecidas no número anterior.\n\n3 - Em cada unidade ou organismo da Marinha, a designação do primeiro e segundo avaliadores é da responsabilidade dos respectivos comandantes, directores ou chefes, com base em matriz para o efeito aprovada por despacho do CEMA, sob proposta do superintendente dos Serviços do Pessoal.\n\n4 - Na elaboração da matriz, o critério para a determinação do primeiro avaliador baseia-se no princípio da subordinação directa do avaliado, devendo o seu escalão ser tão baixo quanto compatível com funções de comando, direcção ou chefia, sendo o segundo avaliador, normalmente, a entidade de que depende directamente o primeiro avaliador.\n\n5 - Sempre que, por força da aplicação da matriz a que alude o n.º 3 e da sua transposição directa para uma situação particular, a designação do primeiro avaliador recaia sobre um militar que não satisfaça as condições do n.º 1, será este substituído nessa qualidade pelo segundo avaliador previsto na matriz, sendo este, por sua vez, substituído pelo oficial de quem depende directamente.\n\n6 - Quando os militares estiverem a desempenhar cargos ou a exercer funções fora da estrutura das Forças Armadas, compete às entidades situadas na correspondente estrutura hierárquico-funcional proceder à sua avaliação individual."
+  },
+  "203476742": {
+   "fragment_id": "203476834",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação das aptidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Avaliação das aptidões\n\n1 - Nas avaliações individuais apreciam-se as aptidões intelectuais, de carácter, sociais e morais, militares, de chefia e técnico-profissionais reveladas pelo avaliado.\n\n2 - São aptidões intelectuais:\n\na) Trabalho intelectual;\n\nb) Senso comum;\n\nc) Facilidade de expressão;\n\nd) Capacidade de adaptação;\n\ne) Cultura geral.\n\n3 - São aptidões de carácter:\n\na) Determinação;\n\nb) Autodomínio;\n\nc) Iniciativa e eficácia.\n\n4 - São aptidões sociais e morais:\n\na) Sociabilidade;\n\nb) Espírito de cooperação;\n\nc) Sentido do humano;\n\nd) Conduta.\n\n5 - São aptidões militares:\n\na) Aparência e atitude;\n\nb) Sentido da disciplina.\n\n6 - São aptidões de chefia:\n\na) Capacidade de organização;\n\nb) Sentido das responsabilidades;\n\nc) Aptidão para conduzir homens.\n\n7 - São aptidões técnico-profissionais:\n\na) Qualidades pedagógicas;\n\nb) Valor agregado.\n\n8 - As aptidões são sumariamente caracterizadas no anexo A ao presente Regulamento, do qual faz parte integrante, definindo-se, para cada uma, o nível de Insuficiente.\n\n9 - Nas avaliações individuais extraordinárias dos militares em RV, RC ou SEN, por motivo de admissão noutra forma de prestação de serviço ou de passagem à reserva de disponibilidade e licenciamento, devem obrigatoriamente ser apreciadas e classificadas as aptidões indicadas nas alíneas c) e d) do n.º 2, na alínea c) do n.º 3, nas alíneas a), b) e d) do n.º 4 e nas alíneas a) e b) do n.º 5."
+  },
+  "203476743": {
+   "fragment_id": "203476835",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Avaliação do desempenho\n\n1 - A avaliação do desempenho envolve a apreciação de:\n\na) Desempenho de cargos e funções no âmbito do conteúdo funcional da classe a que pertence, abreviadamente designado por desempenho específico;\n\nb) Desempenho de cargos e funções fora do âmbito do conteúdo funcional da classe a que pertence, abreviadamente designado por desempenho não específico.\n\n2 - A avaliação de cada desempenho caracteriza-se sumariamente no anexo B ao presente Regulamento, do qual faz parte integrante, definindo-se em particular, para cada um, o nível de Insuficiente.\n\n3 - Nas avaliações extraordinárias dos militares em RV, RC ou SEN, por motivo de admissão noutra forma de prestação de serviço ou de passagem à reserva de disponibilidade e licenciamento, deve obrigatoriamente ser apreciado e classificado o seu desempenho nas vertentes indicadas nas alíneas a) e b) do n.º 1."
+  },
+  "203476744": {
+   "fragment_id": "203476836",
+   "type": 11,
+   "heading": "Artigo 17.º — Níveis de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Níveis de classificação\n\n1 - Para classificar as aptidões e o desempenho do avaliado, o primeiro avaliador dispõe de uma escala que comporta os seguintes níveis:\n\na) Insuficiente;\n\nb) Com deficiências;\n\nc) Regular;\n\nd) Bom;\n\ne) Muito bom.\n\n2 - Para a apreciação de cada aptidão e desempenho e como critério de classificação, o primeiro avaliador utiliza o seu melhor juízo sobre o nível de exigência de acção que é requerido pelo posto, classe, formação específica e função do avaliado, tendo como referência o universo de todos os militares da Marinha.\n\n3 - O nível Insuficiente é atribuído em relação a uma aptidão ou desempenho sempre que o avaliado, relativamente à aptidão ou desempenho em causa, revele um comportamento que não atinge minimamente o nível exigível para o seu posto, classe, formação específica e função, de forma persistente ou acidental com consequências gravosas.\n\n4 - Os restantes níveis indicados no n.º 1, níveis positivos, são utilizados sempre que o avaliado atinja ou ultrapasse o nível exigível para o seu posto, classe, formação específica e função, e são atribuídos nas seguintes circunstâncias:\n\na) Com deficiências - quando o avaliado atinge minimamente o nível exigível e o seu comportamento é aceitável mas apenas a nível suficiente ou denota falta de experiência ou deficiências menores que podem ser corrigidas;\n\nb) Regular - quando o avaliado atinge consistentemente o nível exigível, mas não o ultrapassa;\n\nc) Bom - quando o avaliado ultrapassa frequentemente o nível exigível;\n\nd) Muito bom - quando o avaliado ultrapassa consistentemente o nível exigível ou revela frequentemente a aptidão ou o desempenho em causa em grau excepcional.\n\n5 - Na circunstância de o primeiro avaliador não dispor de elementos de observação que lhe permitam avaliar e graduar uma dada aptidão ou desempenho com bases objectivas, deve abster-se de o fazer, assinalando o facto no impresso de avaliação individual pela designação de Não observado, salvo o disposto nos n.os 9 do artigo 15.º e 3 do artigo 16.º"
+  },
+  "203476745": {
+   "fragment_id": "203476837",
+   "type": 11,
+   "heading": "Artigo 18.º — Regras para a avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regras para a avaliação\n\n1 - Ao proceder à avaliação, o primeiro avaliador deve:\n\na) Ter em conta os acontecimentos em que o avaliado esteve envolvido e quais os resultados da sua acção;\n\nb) Examinar os actos de rotina, bem como as tarefas extraordinárias que o avaliado desempenhou;\n\nc) Avaliar, com base no conhecimento obtido nos termos das alíneas anteriores, a consistência da acção do avaliado em relação a cada uma das suas aptidões;\n\nd) Avaliar se deficiências eventualmente existentes são corrigíveis e identificar as medidas a tomar nesse sentido e a forma de aproveitar aptidões boas ou muito boas.\n\n2 - As aptidões devem, tanto quanto possível, ser examinadas e avaliadas isoladamente, com o objectivo de evitar a contaminação das avaliações entre si.\n\n3 - Nos casos em que o avaliado seja classificado de Insuficiente ou de Muito bom em qualquer das aptidões ou desempenhos, a avaliação deve ser acompanhada de juízo ampliativo, devidamente fundamentado."
+  },
+  "203476746": {
+   "fragment_id": "203476838",
+   "type": 11,
+   "heading": "Artigo 19.º — Impressos de avaliação individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Impressos de avaliação individual\n\n1 - A classificação da avaliação individual de cada militar é feita mediante o preenchimento de impresso apropriado, permitindo a inscrição de informação relativa a:\n\na) Data de referência da avaliação;\n\nb) Tipo de avaliação;\n\nc) Identidade dos avaliadores e cargos desempenhados;\n\nd) Elementos biográficos do avaliado;\n\ne) Base de observação para a avaliação;\n\nf) Classificação e descrição genérica das aptidões e desempenhos avaliados;\n\ng) Opinião geral do primeiro avaliador sobre o avaliado;\n\nh) Opinião sobre a aptidão do avaliado para a promoção;\n\ni) Opinião relativa à permanência do avaliado na unidade;\n\nj) Opinião do primeiro avaliador sobre a orientação de carreira do avaliado;\n\nl) Opinião do segundo avaliador sobre a apreciação do primeiro avaliador e sobre o avaliado;\n\nm) Informação dos órgãos de gestão do pessoal.\n\n2 - O modelo do impresso de avaliação individual a utilizar é o constante do anexo C ao presente Regulamento, do qual faz parte integrante.\n\n3 - No preenchimento dos impressos de avaliação individual deve seguir-se as instruções detalhadas no anexo D ao presente Regulamento, do qual faz parte integrante.\n\n4 - A classificação da avaliação individual dos militares que frequentam cursos de formação, pode ser efectuada em impressos próprios, de acordo com as especificidades e requisitos de cada curso e a natureza dos militares.\n\n5 - Os modelos dos impressos a que alude o número anterior são aprovados por despacho do CEMA.\n\n6 - Nos casos indicados no n.º 3 do artigo 18.º, o juízo ampliativo deve ser anexado ao impresso de avaliação individual."
+  },
+  "203476747": {
+   "fragment_id": "203476839",
+   "type": 11,
+   "heading": "Artigo 20.º — Avaliações desfavoráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Avaliações desfavoráveis\n\n1 - São desfavoráveis todas as avaliações de aptidões ou de desempenhos classificados no impresso de avaliação individual com o nível de Insuficiente.\n\n2 - Considera-se ainda que os militares têm avaliações individuais desfavoráveis:\n\na) Quando acumulem cinco ou mais classificações do nível Com deficiências no conjunto das aptidões e dos desempenhos num único impresso de avaliação individual;\n\nb) Quando a opinião sobre a permanência do avaliado na unidade, expressa no impresso de avaliação individual, for «Não o desejo» ou «Preferia não o ter», desde que motivada por razões imputáveis ao militar avaliado, excluindo-se motivos clínicos ou físicos, os quais devem ser expressamente mencionados;\n\nc) Quando nos espaços de redacção livre sobre as aptidões do impresso de avaliação individual se façam referências negativas aos méritos ou ao desempenho do militar avaliado;\n\nd) Quando a aptidão física ou a estabilidade psicológica do avaliado forem consideradas incompatíveis com o desempenho do cargo ou funções atribuídas.\n\n3 - Considera-se ainda que os militares têm avaliações individuais desfavoráveis:\n\na) Quando, em dois anos civis consecutivos, em avaliações periódicas e ou extraordinárias sejam sucessivamente classificados com Com deficiências na mesma aptidão ou desempenho;\n\nb) Quando nos diversos impressos de avaliação em dois anos civis consecutivos acumularem um total de 10 ou mais classificações de Com deficiências no conjunto das aptidões e desempenhos.\n\n4 - Sempre que se verifique alguns dos casos referidos no número anterior, o director do Serviço de Pessoal, ou por sua delegação os chefes das competentes repartições da DSP, elabora um relatório indicativo das informações e juízos constantes dos impressos de avaliação ou a eles anexos.\n\n5 - O relatório indicativo referido no número anterior deve cingir-se:\n\na) À formalização de que o militar avaliado apresenta com frequência, nos termos da alínea a) do n.º 3, deficiências ou limitações, especificando-se obrigatoriamente quais as aptidões classificadas com Com deficiências;\n\nb) À indicação do que os avaliadores, através dos seus critérios próprios, foram registando relativamente a deficiências e ou limitações que, analisadas no seu conjunto, enquadram o avaliado na alínea b) do n.º 3.\n\n6 - Os impressos de avaliação individual que contenham avaliações desfavoráveis não podem ser considerados em actos de gestão de pessoal sem previamente terem sido dados a conhecer ao militar a que reportam ou, tendo sido dados a conhecer, o militar tiver interposto reclamação ou recurso sobre essas avaliações desfavoráveis."
+  },
+  "203476748": {
+   "fragment_id": "203476840",
+   "type": 11,
+   "heading": "Artigo 21.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Notificação\n\n1 - Das avaliações individuais é, obrigatoriamente, dado conhecimento ao militar avaliado, sempre que:\n\na) As avaliações individuais sejam desfavoráveis nos termos do artigo anterior;\n\nb) Das avaliações conste referência, parecer ou juízo significativamente favorável ou quando o militar for classificado de Muito bom;\n\nc) O avaliado expressamente o requeira.\n\n2 - Para efeitos do disposto no número anterior, compete:\n\na) Ao primeiro avaliador, dar conhecimento ao militar avaliado, que assinará, das opiniões expressas no impresso de avaliação individual, nas situações referidas nos n.os 1 e 2 do artigo anterior e na alínea b) do n.º 1 do presente artigo;\n\nb) Ao director do Serviço de Pessoal ou por sua delegação aos chefes das competentes repartições da DSP, dar conhecimento ao avaliado, que assinará, do relatório a que se refere o n.º 4 do artigo anterior e assegurar o acesso às respectivas avaliações individuais nas circunstâncias indicadas na alínea c) do n.º 1."
+  },
+  "203476749": {
+   "fragment_id": "203476841",
+   "type": 11,
+   "heading": "Artigo 22.º — Encaminhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Encaminhamento\n\n1 - Concluídas as avaliações individuais, os impressos respectivos e juízos ampliativos a eles anexos são enviados às repartições da DSP dos militares a que dizem respeito para verificação, registo, processamento e arquivo.\n\n2 - Os chefes das repartições da DSP determinam o encaminhamento interno a dar aos impressos de avaliação, após o seu registo e verificação, e as acções a empreender, tendo em vista o aproveitamento do conteúdo da avaliação para melhorar a gestão do pessoal.\n\n3 - Quando da avaliação individual constarem referências que, por particularmente favoráveis ou desfavoráveis, aconselhem procedimento ulterior relativamente ao avaliado, o chefe da respectiva repartição da DSP menciona essa circunstância no impresso de avaliação, submetendo-o à consideração do director do Serviço de Pessoal para efeitos de decisão do superintendente dos Serviços do Pessoal.\n\n4 - Após visado pelos chefes das repartições da DSP, o corpo do impresso de avaliação é arquivado e a sua parte destacável enviada à secção de registos da repartição para efeitos de entrada de dados nos ficheiros e nas bases de dados de pessoal."
+  },
+  "203476750": {
+   "fragment_id": "203476842",
+   "type": 11,
+   "heading": "Artigo 23.º — Registo e verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Registo e verificação\n\n1 - Ao darem entrada nas repartições da DSP, os impressos de avaliação são de imediato registados, passando a sua movimentação ulterior a fazer-se de acordo com as normas estabelecidas para a documentação daquela natureza.\n\n2 - Após o registo dos impressos de avaliação e antes de serem presentes aos chefes das repartições da DSP, proceder-se-á à verificação dos dados neles inscritos e ao preenchimento do espaço relativo ao número de ocorrências por coluna, após contabilização do quantitativo de aptidões situadas em cada um dos níveis de classificação."
+  },
+  "203476751": {
+   "fragment_id": "203476843",
+   "type": 11,
+   "heading": "Artigo 24.º — Processamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Processamento\n\n1 - As avaliações individuais são processadas em serviço competente da DSP para:\n\na) Controlo e validação do preenchimento dos impressos;\n\nb) Aferição dos avaliadores;\n\nc) Registo de dados;\n\nd) Exploração dos resultados das avaliações, exclusivamente para o apoio à gestão do pessoal e para fins estatutários.\n\n2 - Os elementos das avaliações individuais objecto de tratamento estatístico, cumulativo e comparado, são os seguintes:\n\na) Códigos do comando, unidade ou serviço, dos avaliadores, do avaliado e respectivo cargo;\n\nb) Quadro de aptidões e desempenho;\n\nc) Indicação sobre a permanência do avaliado na unidade ou serviço;\n\nd) Indicação da base de observação;\n\ne) Data de referência da avaliação;\n\nf) Periodicidade;\n\ng) Opinião do segundo avaliador.\n\n3 - Os elementos das avaliações individuais referidas no número anterior podem ser alvo de tratamento automatizado por meios informáticos, no respeito do normativo legal aplicável."
+  },
+  "203476752": {
+   "fragment_id": "203476844",
+   "type": 11,
+   "heading": "Artigo 25.º — Arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Arquivo\n\n1 - Os impressos de avaliação individual são arquivados em secção própria, no processo individual do avaliado, nas repartições de pessoal da DSP.\n\n2 - Podem ser constituídos ficheiros automatizados e bancos de dados das avaliações individuais, nomeadamente dos elementos indicados no n.º 2 do artigo anterior, atentas as disposições legais em vigor no que respeita a esta matéria.\n\n3 - Os elementos relevantes das avaliações individuais ou a elas relativos, designadamente informações e juízos ampliativos anexos ou processos sumários constituídos nas repartições de pessoal da DSP, podem ser transferidos para os processos individuais dos militares a que dizem respeito, de acordo com a regulamentação própria destes processos.\n\n4 - Os arquivos e processos das avaliações individuais são de acesso e utilização exclusivos dos órgãos de gestão do pessoal de acordo com as respectivas competências, devendo os seus responsáveis estabelecer e fazer aprovar, para o efeito, as correspondentes listas de acesso autorizado.\n\n5 - A reprodução, total ou parcial e sob qualquer forma, das avaliações individuais é interdita, excepto ao pessoal autorizado de acordo com o número anterior, e exclusivamente para viabilizar a execução das tarefas próprias dos órgãos ou serviços a que pertencem.\n\n6 - A DSP fornece ao CA, CSDA e aos CC, sujeitos a devolução, os elementos sobre as avaliações individuais que forem requeridos ao exercício das competências destes órgãos."
+  },
+  "203476753": {
+   "fragment_id": "203476845",
+   "type": 11,
+   "heading": "Artigo 26.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Confidencialidade\n\n1 - A avaliação individual é confidencial, sendo o impresso de avaliação individual, depois de assinado pelo primeiro avaliador, classificado de «Confidencial» e consequentemente manuseado e salvaguardado como tal, devendo toda a informação constante e relativa à avaliação ser tratada em conformidade.\n\n2 - Sem prejuízo do disposto no número anterior, o impresso de avaliação é mostrado ao militar avaliado nas circunstâncias previstas no presente regulamento."
+  },
+  "203476754": {
+   "fragment_id": "203476846",
+   "type": 11,
+   "heading": "Artigo 27.º — Reclamação e recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Reclamação e recurso\n\nSempre que o avaliado não concorde, no todo ou em parte, com o teor da avaliação individual desfavorável, ou com o do relatório referido no n.º 4 do artigo 20.º, pode apresentar reclamação ou interpor recurso hierárquico nos termos da legislação em vigor."
+  },
+  "203476755": {
+   "fragment_id": "203476847",
+   "type": 8,
+   "heading": "Secção II — Avaliação da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Avaliação da formação"
+  },
+  "203476756": {
+   "fragment_id": "203476848",
+   "type": 11,
+   "heading": "Artigo 28.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Finalidade\n\nA avaliação da formação tem por finalidade:\n\na) Aferir o grau de empenhamento dos militares, enquanto formandos, nas acções de formação em que estão envolvidos;\n\nb) Determinar o nível de aquisição de conhecimentos pelos militares em acções de formação;\n\nc) Identificar adicionais acções de formação eventualmente requeridas;\n\nd) Contribuir para a validação interna das acções de formação;\n\ne) Contribuir para o ajustamento dos requisitos a estabelecer para a classificação e selecção do pessoal;\n\nf) Contribuir para o processo de nomeação dos militares, para o desempenho de determinados cargos e tarefas ou para o exercício de funções específicas;\n\ng) Permitir o ordenamento dos militares no ingresso nos QP."
+  },
+  "203476757": {
+   "fragment_id": "203476849",
+   "type": 11,
+   "heading": "Artigo 29.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Âmbito de aplicação\n\n1 - São sujeitos a avaliação de formação todos os militares, enquanto formandos, empenhados em acções de investimento, evolução e ajustamento para formação militar, que se materializem em actividades de educação e treino, cujos planos especificamente o prevejam.\n\n2 - A participação em acções de formação que não se incluam no número anterior constitui elemento a incluir no processo individual dos militares e a apreciar nos termos do disposto na secção IV.\n\n3 - A avaliação da formação é efectuada sem prejuízo da avaliação individual levada a cabo nas circunstâncias e pela forma estabelecida na secção I."
+  },
+  "203476758": {
+   "fragment_id": "203476850",
+   "type": 11,
+   "heading": "Artigo 30.º — Métodos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Métodos\n\nA avaliação da formação processa-se de acordo com os métodos e as normas estabelecidas nos planos de curso das acções de formação a que dizem respeito, sendo competentes para a executar, para além dos formadores envolvidos, as entidades e órgãos para o efeito especificamente indicados naqueles planos."
+  },
+  "203476759": {
+   "fragment_id": "203476851",
+   "type": 11,
+   "heading": "Artigo 31.º — Encaminhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Encaminhamento\n\nOs resultados finais da avaliação dos militares, no término de cada acção de formação participada, são remetidos pelos comandos ou direcções dos estabelecimentos de ensino à competente repartição da DSP."
+  },
+  "203476760": {
+   "fragment_id": "203476852",
+   "type": 11,
+   "heading": "Artigo 32.º — Avaliações desfavoráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Avaliações desfavoráveis\n\n1 - São consideradas desfavoráveis todas as avaliações em que, nos termos das normas que regulam as acções de formação a que respeitam, o militar avaliado seja considerado Sem aproveitamento por motivos que lhe sejam imputáveis.\n\n2 - Das avaliações desfavoráveis deve ser sempre dado conhecimento ao avaliado.\n\n3 - Quando o resultado das avaliações implicar procedimento adicional relativamente ao militar avaliado de acordo com o normativo aplicável, o comandante ou director do estabelecimento de ensino fará organizar processo informativo correspondente, de que dará conhecimento ao avaliado e que encaminhará para a entidade competente, pela forma prevista na legislação aplicável."
+  },
+  "203476761": {
+   "fragment_id": "203476853",
+   "type": 11,
+   "heading": "Artigo 33.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Confidencialidade\n\nA avaliação da formação é confidencial, sem prejuízo da publicação dos resultados finais das acções de formação ou de outros elementos que devam ou possam ser do conhecimento geral."
+  },
+  "203476762": {
+   "fragment_id": "203476854",
+   "type": 8,
+   "heading": "Secção III — Avaliação disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Avaliação disciplinar"
+  },
+  "203476763": {
+   "fragment_id": "203476855",
+   "type": 11,
+   "heading": "Artigo 34.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Finalidade\n\nA avaliação disciplinar tem por finalidade:\n\na) Contribuir para a apreciação ou classificação do comportamento dos militares em termos disciplinares;\n\nb) Contribuir para a apreciação global do desempenho de funções pelos militares, como resultado da aplicação das suas aptidões."
+  },
+  "203476764": {
+   "fragment_id": "203476856",
+   "type": 11,
+   "heading": "Artigo 35.º — Elementos de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Elementos de avaliação\n\nOs elementos do registo disciplinar a apreciar são os seguintes:\n\na) Louvores individuais e recompensas atribuídos;\n\nb) Condecorações atribuídas;\n\nc) Sanções penais e disciplinares aplicadas."
+  },
+  "203476765": {
+   "fragment_id": "203476857",
+   "type": 11,
+   "heading": "Artigo 36.º — Princípios de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Princípios de avaliação\n\n1 - Os louvores individuais e as condecorações são apreciados relativamente às entidades que os concederam, às razões que os motivaram e à natureza das situações e serviços prestados pelos militares apreciados.\n\n2 - As sanções penais e disciplinares são apreciadas relativamente aos efeitos que produziram e às condições em que ocorreram.\n\n3 - Para efeitos da avaliação do mérito apenas são considerados os elementos do registo disciplinar que produzam efeitos relativamente à categoria que o militar avaliado detém.\n\n4 - Não são considerados na avaliação quaisquer processos pendentes sobre os quais não tenha sido proferida decisão definitiva."
+  },
+  "203476766": {
+   "fragment_id": "203476858",
+   "type": 11,
+   "heading": "Artigo 37.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Competências\n\n1 - Compete às repartições da DSP a manutenção actualizada do registo disciplinar dos militares, o qual faz parte integrante do seu processo individual.\n\n2 - Do registo disciplinar são fornecidos, conforme adequado, os elementos requeridos às entidades competentes para procederem à sua avaliação.\n\n3 - Para além dos órgãos de gestão do pessoal, no seu próprio âmbito, são competentes para procederem à avaliação disciplinar dos militares o CA, o CSDA e os CC."
+  },
+  "203476767": {
+   "fragment_id": "203476859",
+   "type": 11,
+   "heading": "Artigo 38.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Confidencialidade\n\nO registo disciplinar dos militares é confidencial."
+  },
+  "203476768": {
+   "fragment_id": "203476860",
+   "type": 8,
+   "heading": "Secção IV — Avaliação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Avaliação complementar"
+  },
+  "203476769": {
+   "fragment_id": "203476861",
+   "type": 11,
+   "heading": "Artigo 39.º — Elementos curriculares de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Elementos curriculares de avaliação\n\nPara além dos elementos respeitantes aos restantes subsistemas de avaliação, constituem base de apreciação para avaliação do mérito os seguintes elementos, que obrigatoriamente constarão dos respectivos processos individuais:\n\na) Dados biográficos e elementos respeitantes ao desenvolvimento de carreira, designadamente idade, datas de promoção e posicionamento em anteriores ordenamentos para promoções;\n\nb) Situação relativamente ao quadro;\n\nc) Dados relativos à presente situação, designadamente a unidade e cargos ou funções desempenhados;\n\nd) Tempos de serviço militar, efectivo e prestado ao Estado;\n\ne) Tirocínios de embarque e em terra;\n\nf) Licenças, ilimitada, registada e para estudos, gozadas;\n\ng) Internamentos ou doenças, em serviço ou fora dele, e licenças de junta médica;\n\nh) Cursos, instruções e exames, na Marinha ou fora do seu âmbito, no País ou no estrangeiro;\n\ni) Prémios recebidos;\n\nj) Cargos exercidos por períodos superiores a seis meses, designadamente comandos, chefias ou direcções;\n\nl) Cargos desempenhados fora do âmbito da Marinha;\n\nm) Realização de trabalhos ou participação em reuniões, comissões ou grupos de trabalho ou de projecto, no âmbito militar ou fora dele, decorrentes de despacho superior;\n\nn) Trabalhos realizados no âmbito civil e com eventual interesse para a instituição militar."
+  },
+  "203476770": {
+   "fragment_id": "203476862",
+   "type": 11,
+   "heading": "Artigo 40.º — Processamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Processamento\n\n1 - As repartições de pessoal da DSP facultam aos órgãos competentes para a avaliação do mérito dos militares os respectivos processos individuais, para consulta.\n\n2 - Para efeitos de avaliação do mérito, a apreciação e ponderação dos elementos curriculares indicados no artigo anterior terá em conta as orientações gerais a definir e os critérios a estabelecer em despacho do CEMA."
+  },
+  "203476771": {
+   "fragment_id": "203476863",
+   "type": 11,
+   "heading": "Artigo 41.º — Avaliações desfavoráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Avaliações desfavoráveis\n\n1 - Considera-se que os militares têm avaliações desfavoráveis quando, de forma continuada, o seu comportamento, actividades militares ou aspectos intelectuais e profissionais, sejam referidos em termos negativos em quaisquer documentos emanados de serviços oficiais, devidamente validados, que legalmente devam ser incluídos nos processos individuais.\n\n2 - Os documentos do processo individual que contenham avaliações susceptíveis de serem consideradas desfavoráveis não podem ser considerados em actos de gestão do pessoal sem previamente terem sido dados a conhecer ao militar a que reportam."
+  },
+  "203476772": {
+   "fragment_id": "203476864",
+   "type": 11,
+   "heading": "Artigo 42.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Notificação\n\n1 - Das avaliações desfavoráveis é obrigatoriamente dado conhecimento aos militares interessados.\n\n2 - Para efeitos do disposto no número anterior, compete ao director do Serviço de Pessoal ou por sua delegação aos chefes das competentes repartições da DSP elaborar, logo que se materializem as circunstâncias indicadas no n.º 1, um relatório indicativo das informações, juízos ou factos constantes dos diversos documentos, devendo dele dar conhecimento ao militar avaliado.\n\n3 - O relatório indicativo referido no número anterior deve cingir-se à descrição dos factos, apreciações ou comentários constantes dos documentos incluídos no processo individual do militar e que o director do Serviço de Pessoal ou o chefe da repartição da DSP competente entender como correspondendo a avaliações desfavoráveis, com a fundamentação que constar ou decorrer dos mesmos documentos."
+  },
+  "203476773": {
+   "fragment_id": "203476865",
+   "type": 11,
+   "heading": "Artigo 43.º — Organização e arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Organização e arquivo\n\n1 - Os processos individuais são organizados e mantidos em arquivo nas correspondentes repartições da DSP.\n\n2 - Os processos individuais são de acesso e utilização exclusivos dos órgãos de gestão do pessoal, de acordo com as respectivas competências, devendo os seus responsáveis tomar as medidas adequadas à sua salvaguarda e fazer aprovar as correspondentes listas de acesso autorizado.\n\n3 - A reprodução, total ou parcial e sob qualquer forma, dos processos individuais é interdita, excepto para organização dos processos de avaliação do mérito ou para a execução de tarefas próprias dos órgãos indicados no n.º 2."
+  },
+  "203476774": {
+   "fragment_id": "203476866",
+   "type": 11,
+   "heading": "Artigo 44.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Confidencialidade\n\n1 - Os processos individuais são confidenciais.\n\n2 - Sem prejuízo do número anterior, qualquer militar pode consultar o seu processo individual, desde que o requeira ao director do Serviço de Pessoal."
+  },
+  "203476875": {
+   "fragment_id": "203476867",
+   "type": 11,
+   "heading": "Artigo 45.º — Reclamação e recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Reclamação e recurso\n\nSempre que o militar não concorde, no todo ou em parte, com o teor da avaliação desfavorável de que lhe é dado conhecimento nos termos do artigo 42.º, pode apresentar reclamação ou interpor recurso hierárquico, nos termos da legislação em vigor."
+  },
+  "203476876": {
+   "fragment_id": "203476868",
+   "type": 1,
+   "heading": "Capítulo IV — Avaliação do mérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Avaliação do mérito"
+  },
+  "203476879": {
+   "fragment_id": "203476871",
+   "type": 11,
+   "heading": "Artigo 46.º — Finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Finalidades\n\n1 - A avaliação do mérito dos militares consiste na apreciação integrada dos diferentes elementos dos subsistemas de avaliação indicados no artigo 5.º e destina-se, em especial, a permitir a verificação das três primeiras condições gerais de promoção e o ordenamento dos militares, para os efeitos consignados no EMFAR e demais legislação aplicável.\n\n2 - A avaliação do mérito absoluto é requerida, designadamente, para:\n\na) A verificação da satisfação das três primeiras condições gerais de promoção;\n\nb) O acesso dos militares às diferentes formas de prestação de serviço e aos cursos de formação para acesso a carreira superior à sua e a prorrogação do tempo de serviço dos militares em RV e RC;\n\nc) A apreciação das capacidades profissionais e morais para efeitos disciplinares, nos termos fixados no Regulamento de Disciplina Militar (RDM) e no Código de Justiça Militar (CJM).\n\n3 - A avaliação em mérito relativo é requerida para:\n\na) A elaboração das listas de promoção por escolha;\n\nb) A selecção dos militares para determinados cargos ou funções;\n\nc) A nomeação por escolha para o Curso Superior Naval de Guerra (CSNG) e outros cursos que a exijam, de acordo com o fixado no EMFAR e demais legislação aplicável;\n\nd) A escolha dos oficiais a propor a Conselho de Chefes de Estado-Maior para promoção a contra-almirante ou vice-almirante;\n\ne) A selecção de militares de acordo com as normas fixadas para o acesso a diferentes formas de prestação de serviço."
+  },
+  "203476880": {
+   "fragment_id": "203476872",
+   "type": 11,
+   "heading": "Artigo 47.º — Documentação de suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Documentação de suporte\n\n1 - Constitui documentação de suporte à avaliação do mérito:\n\na) Os impressos das avaliações individuais correspondentes aos últimos 10 anos civis ou à totalidade dos anos de serviço efectivo na categoria, se em número inferior, bem como os juízos ampliativos e processos eventualmente anexos a esses impressos;\n\nb) O registo disciplinar;\n\nc) O processo individual.\n\n2 - Podem servir de apoio à avaliação os seguintes elementos:\n\na) Os resumos ou análises sintéticas das avaliações individuais que forem requeridas;\n\nb) Os registos informáticos relevantes respeitantes aos militares a apreciar;\n\nc) Os gráficos e quadros estatísticos auxiliares que interessem à apreciação de conjunto dos militares a avaliar."
+  },
+  "203476881": {
+   "fragment_id": "203476873",
+   "type": 11,
+   "heading": "Artigo 48.º — Critérios de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Critérios de avaliação\n\n1 - Os critérios para a apreciação dos militares em mérito absoluto são estabelecidos pelo CEMA, tendo presente os requisitos e os padrões estabelecidos para cada categoria, classe e posto e sem prejuízo do disposto no presente regulamento relativamente a cada um dos subsistemas de avaliação em particular.\n\n2 - Os critérios para a apreciação e escalonamento de militares em mérito relativo são estabelecidos pelo CEMA, atentos os critérios gerais definidos em portaria do Ministro da Defesa Nacional."
+  },
+  "203476882": {
+   "fragment_id": "203476874",
+   "type": 11,
+   "heading": "Artigo 49.º — Processamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Processamento\n\n1 - A avaliação do mérito é conduzida com base nos elementos de informação constante dos documentos indicados no artigo 47.º ou outros que sejam presentes aos órgãos competentes no momento da avaliação.\n\n2 - Os processos para avaliação do mérito são organizados pelas repartições da DSP.\n\n3 - A avaliação do mérito levada a cabo a nível do CA, CSDA e CC processa-se de acordo com os regulamentos próprios destes órgãos."
+  },
+  "203476883": {
+   "fragment_id": "203476975",
+   "type": 11,
+   "heading": "Artigo 50.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Competências\n\n1 - Para efeitos da verificação das condições gerais de promoção a que se refere a alínea a) do n.º 2 do artigo 46.º, compete:\n\na) Aos chefes das repartições da DSP, organizar e analisar os processos de promoção;\n\nb) Ao director do Serviço de Pessoal, analisar os resultados das avaliações individuais e outros documentos constantes dos processos de promoção dos sargentos e praças;\n\nc) Ao director do Serviço de Pessoal, submeter ao superintendente dos Serviços do Pessoal os resultados da análise indicada na alínea b), bem como os processos para avaliação do mérito dos militares que considere não satisfazerem alguma das condições gerais de promoção ou relativamente aos quais tenha dúvidas sobre a sua satisfação;\n\nd) Ao superintendente dos Serviços do Pessoal, apreciar os resultados das avaliações individuais e outros documentos constantes do processo de promoção dos oficiais;\n\ne) Aos CC de oficiais e sargentos, apoiarem, respectivamente, o superintendente dos Serviços do Pessoal e o director do Serviço de Pessoal na apreciação e análise dos resultados das avaliações individuais e outros elementos constantes dos processos daqueles militares;\n\nf) Ao CC de praças, apreciar os resultados das avaliações individuais e outros documentos constantes dos processos das praças que o director do Serviço de Pessoal considere não satisfazerem ou haver dúvidas sobre a satisfação de condições gerais de promoção, pronunciando-se sobre a matéria;\n\ng) Ao superintendente dos Serviços do Pessoal, avaliar o mérito absoluto dos militares indicados nas alínea c) e d) e submeter ao CEMA os processos daqueles que, no seu entender, não satisfaçam alguma das condições gerais de promoção;\n\nh) Ao CA e CSDA, apreciar os processos dos militares indicados na alínea anterior e que lhes sejam presentes, avaliar o seu mérito absoluto e emitir parecer sobre a satisfação, respectivamente, das 2.ª e 3.ª e 1.ª condições gerais de promoção;\n\ni) Ao CEMA, decidir, com base no parecer referido na alínea anterior, sobre a não satisfação de condições gerais de promoção.\n\n2 - Para efeitos do indicado na alínea b) do n.º 2 do artigo 46.º, a avaliação do mérito compete aos chefes das repartições da DSP e os seus resultados são apreciados e submetidos pelo director do Serviço de Pessoal à decisão do superintendente dos Serviços do Pessoal.\n\n3 - Para o efeito do indicado na alínea a) do n.º 3 do artigo 46.º, os resultados da apreciação e ordenamento dos militares em mérito relativo, pelos CC, servem de suporte à decisão do CEMA sobre a matéria.\n\n4 - Para efeitos do indicado na alínea b) do n.º 3 do artigo 46.º, a avaliação do mérito dos militares é da responsabilidade das entidades indicadas nas alíneas a), b), c) ou g) do n.º 1 do artigo 6.º, consoante o nível a que se situa o acto de gestão de pessoal para o qual essa avaliação é requerida.\n\n5 - Para efeitos do indicado nas alíneas c) e d) do n.º 3 do artigo 46.º, a avaliação do mérito dos oficiais é da responsabilidade do CEMA, ouvido o CA.\n\n6 - Para efeitos do indicado na alínea e) do n.º 3 do artigo 46.º, a apreciação dos militares é da responsabilidade dos chefes das repartições da DSP e os seus resultados são submetidos pelo director do Serviço de Pessoal à decisão do superintendente dos Serviços do Pessoal."
+  },
+  "203476884": {
+   "fragment_id": "203476976",
+   "type": 11,
+   "heading": "Artigo 51.º — Fundamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Fundamentação\n\n1 - As avaliações do mérito devem ser sempre fundamentadas.\n\n2 - Do processo de avaliação do mérito deve constar, sob a forma apropriada à finalidade concreta que a determina e conforme aplicável, informação sobre:\n\na) Elementos dos subsistemas de avaliação que foram considerados na apreciação;\n\nb) Parâmetros de avaliação considerados;\n\nc) Critérios de avaliação estabelecidos;\n\nd) Ponderação dos subsistemas e elementos de avaliação;\n\ne) Metodologia utilizada na avaliação;\n\nf) Votações efectuadas e resultados;\n\ng) Teor da avaliação.\n\n3 - O processo de avaliação do mérito inclui as actas das reuniões dos CA, CSDA e CC, nos casos em que a apreciação dos militares se fizer a nível destes órgãos."
+  },
+  "203476885": {
+   "fragment_id": "203476977",
+   "type": 11,
+   "heading": "Artigo 52.º — Avaliação desfavorável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Avaliação desfavorável\n\nConsidera-se desfavorável a avaliação do mérito que sirva de suporte a:\n\na) Decisão de não satisfação de qualquer das três primeiras condições gerais de promoção;\n\nb) Descida de um militar na lista de antiguidades configurada em lista de promoção homologada pelo CEMA;\n\nc) Não inclusão na lista dos militares a nomear para o CSNG, em detrimento da antiguidade relativa, salvo se a não nomeação ocorrer por motivo de serviço;\n\nd) Não inclusão na lista dos oficiais a propor para promoção a contra-almirante e a vice-almirante;\n\ne) Procedimento disciplinar em processo extraordinário nos termos do RDM."
+  },
+  "203476886": {
+   "fragment_id": "203476978",
+   "type": 11,
+   "heading": "Artigo 53.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Notificação\n\n1 - Os militares são notificados das avaliações de mérito desfavoráveis, competindo essa notificação:\n\na) Ao CEMA, quando os avaliados forem oficiais generais;\n\nb) Ao superintendente dos Serviços do Pessoal, quando os avaliados forem capitães-de-mar-e-guerra;\n\nc) Ao director do Serviço de Pessoal, quando os avaliados forem capitães-de-fragata e capitães-tenentes;\n\nd) Ao chefe da Repartição de Oficiais da DSP, quando os avaliados forem oficiais subalternos;\n\ne) Ao chefe da Repartição de Sargentos e Praças da DSP, quando os avaliados forem sargentos ou praças.\n\n2 - A notificação indicada no número anterior faz-se no respeito pelas normas processuais estabelecidas na legislação em vigor."
+  },
+  "203476887": {
+   "fragment_id": "203476979",
+   "type": 11,
+   "heading": "Artigo 54.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Confidencialidade\n\n1 - A avaliação do mérito é confidencial, sem prejuízo da publicação na Ordem da Armada das listas de promoção homologadas pelo CEMA.\n\n2 - Sem prejuízo do disposto no número anterior, do resultado e teor da avaliação do mérito deve ser dado conhecimento aos militares avaliados, sempre que:\n\na) As avaliações de mérito sejam desfavoráveis;\n\nb) Os militares o requeiram."
+  },
+  "203476888": {
+   "fragment_id": "203476980",
+   "type": 11,
+   "heading": "Artigo 55.º — Reclamação e recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Reclamação e recurso\n\nSempre que o avaliado não concorde, no todo ou em parte, com o teor da avaliação do mérito que careça de qualquer forma de confirmação para produzir efeitos, pode apresentar reclamação ou interpor recurso hierárquico, nos termos da legislação em vigor."
+  },
+  "203451167": {
+   "fragment_id": "203474859",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 502/95\n\nde 26 de Maio\n\nImportando estabelecer instruções para a execução do sistema de avaliação do mérito dos militares da Marinha;\n\nEm cumprimento do disposto no artigo 86.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 34-A/90, de 24 de Janeiro, manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:"
+  },
+  "203476723": {
+   "fragment_id": "203476815",
+   "type": 14,
+   "heading": "Regulamento de Avaliação do Mérito dos Militares da Marinha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Regulamento de Avaliação do Mérito dos Militares da Marinha"
+  },
+  "935268976": {
+   "fragment_id": "203476829",
+   "type": 11,
+   "heading": "Artigo 10.º — Princípios gerais",
+   "in_force_from": "1995-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+   ],
+   "markdown": "###### Artigo 10.º — Princípios gerais\n\n1 - A avaliação individual requer atenta observação dos militares a avaliar durante o período de tempo a que respeita, sendo independente de outras avaliações anteriores.\n\n2 - A avaliação individual deve ser sempre fundamentada.\n\n3 - Os militares são, em regra, apreciados por dois avaliadores, o primeiro e o segundo avaliador, sempre que possível pertencentes à unidade ou organismo onde o avaliado presta serviço.\n\n4 - Não há segundo avaliador quando o primeiro avaliador for oficial general ou estiver directamente subordinado ao CEMA.\n\n5 - O primeiro avaliador deve munir-se de todos os elementos que permitam formular uma apreciação objectiva e justa sobre as qualidades ou aptidões do avaliado.\n\n6 - O primeiro avaliador classifica cada uma das aptidões do avaliado e exprime juízo opinativo relativamente ao desempenho de funções exercidas pelo avaliado e ao desenvolvimento e orientação que considere adequados para a sua carreira.\n\n7 - Independentemente das circunstâncias em que o RAM especificamente a tal obriga, os primeiros avaliadores devem indicar aos avaliados o teor global das avaliações individuais, dando-lhes a conhecer, quando apropriado, a forma de se aperfeiçoarem ou de corrigirem deficiências.\n\n8 - As avaliações dos primeiros avaliadores são apreciadas pelos segundos avaliadores que devem pronunciar-se quer quanto ao modo como o primeiro avaliador apreciou o avaliado, sempre que tiverem conhecimento directo do avaliado, quer sobre a maneira como o primeiro avaliador apreciou os avaliados do mesmo posto, considerados no seu conjunto.\n\n9 - Para efeitos de registo e processamento, a avaliação prevalecente é a do primeiro avaliador.\n\n10 - Nenhuma avaliação individual pode, por si só, determinar qualquer acto de administração de pessoal em matéria de promoções.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+  },
+  "935268977": {
+   "fragment_id": "203476833",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliadores",
+   "in_force_from": "1995-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+   ],
+   "markdown": "###### Artigo 14.º — Avaliadores\n\n1 - São competentes para avaliar os militares seus subordinados:\n\na) Os oficiais com o posto de primeiro-tenente ou superior, independentemente do posto do militar avaliado;\n\nb) Os oficiais com pelo menos dois anos de serviço após a promoção a oficial, no caso da avaliação de primeiros e segundos-sargentos, subsargentos, segundos-subsargentos e praças;\n\nc) Os sargentos-mores, e os sargentos-chefes com pelo menos dois anos de serviço após a promoção, no caso da avaliação de primeiros e segundos-sargentos, subsargentos, segundos-subsargentos e praças.\n\n2 - Os comandantes das unidades navais, das unidades de mergulhadores-sapadores e das unidades de fuzileiros têm sempre competência para avaliar todos os seus subordinados, independentemente das condições estabelecidas no número anterior.\n\n3 - Em cada unidade ou organismo da Marinha, a designação do primeiro e segundo avaliadores é da responsabilidade dos respectivos comandantes, directores ou chefes, com base em matriz para o efeito aprovada por despacho do CEMA, sob proposta do superintendente dos Serviços do Pessoal.\n\n4 - Na elaboração da matriz, o critério para a determinação do primeiro avaliador baseia-se no princípio da subordinação directa do avaliado, devendo o seu escalão ser tão baixo quanto compatível com funções de comando, direcção ou chefia, sendo o segundo avaliador, normalmente, a entidade de que depende directamente o primeiro avaliador.\n\n5 - Sempre que, por força da aplicação da matriz a que alude o n.º 3 e da sua transposição directa para uma situação particular, a designação do primeiro avaliador recaia sobre um militar que não satisfaça as condições do n.º 1, será este substituído nessa qualidade pelo segundo avaliador previsto na matriz, sendo este, por sua vez, substituído pelo oficial de quem depende directamente.\n\n6 - Quando os militares estiverem a desempenhar cargos ou a exercer funções fora da estrutura das Forças Armadas, compete às entidades situadas na correspondente estrutura hierárquico-funcional proceder à sua avaliação individual.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+  },
+  "935268978": {
+   "fragment_id": "203476845",
+   "type": 11,
+   "heading": "Artigo 26.º — Confidencialidade",
+   "in_force_from": "1995-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+   ],
+   "markdown": "###### Artigo 26.º — Confidencialidade\n\n1 - A avaliação individual é confidencial, sendo o impresso de avaliação individual, depois de assinado pelo primeiro avaliador, classificado de «Confidencial» e consequentemente manuseado e salvaguardado como tal, devendo toda a informação constante e relativa à avaliação ser tratada em conformidade.\n\n2 - Sem prejuízo do disposto no número anterior, o impresso de avaliação é mostrado ao militar avaliado nas circunstâncias previstas no presente Regulamento.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+  },
+  "935268979": {
+   "fragment_id": "203476848",
+   "type": 11,
+   "heading": "Artigo 28.º — Finalidade",
+   "in_force_from": "1995-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+   ],
+   "markdown": "###### Artigo 28.º — Finalidade\n\nA avaliação da formação tem por finalidade:\n\na) Aferir o grau de empenhamento dos militares, enquanto formandos, nas acções de formação em que estão envolvidos;\n\nb) Determinar o nível de aquisição de conhecimentos pelos militares em acções de formação;\n\nc) Identificar adicionais acções de formação eventualmente requeridas;\n\nd) Contribuir para a validação interna das acções de formação;\n\ne) Contribuir para o ajustamento dos requisitos a estabelecer para a classificação e selecção do pessoal;\n\nf) Contribuir para o processo de nomeação dos militares para o desempenho de determinados cargos e tarefas ou para o exercício de funções específicas;\n\ng) Permitir o ordenamento dos militares no ingresso nos QP.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+  },
+  "935268980": {
+   "fragment_id": "203476861",
+   "type": 11,
+   "heading": "Artigo 39.º — Elementos curriculares de avaliação",
+   "in_force_from": "1995-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+   ],
+   "markdown": "###### Artigo 39.º — Elementos curriculares de avaliação\n\nPara além dos elementos respeitantes aos restantes subsistemas de avaliação, constituem base de apreciação para avaliação do mérito os seguintes elementos, que obrigatoriamente constarão dos respectivos processos individuais:\n\na) Dados biográficos e elementos respeitantes ao desenvolvimento de carreira, designadamente idade, datas de promoção e posicionamento em anteriores ordenamentos para promoções;\n\nb) Situação relativamente ao quadro;\n\nc) Dados relativos à presente situação, designadamente a unidade e cargos ou funções desempenhados;\n\nd) Tempos de serviço militar, efectivo e prestado ao Estado;\n\ne) Tirocínios de embarque e em terra;\n\nf) Licenças, ilimitada, registada e para estudos, gozadas;\n\ng) Internamentos ou doenças, em serviço ou fora dele, e licenças de junta médica;\n\nh) Cursos, instruções e exames, na Marinha ou fora do seu âmbito, no País ou no estrangeiro;\n\ni) Prémios recebidos;\n\nj) Cargos exercidos por períodos superiores a seis meses, designadamente comandos, chefias ou direcções;\n\nl) Cargos desempenhados fora do âmbito da Marinha;\n\nm) Realização de trabalhos ou participação em reuniões, comissões ou grupos de trabalho ou de projecto, no âmbito militar ou fora dele, decorrentes de despacho superior;\n\nn) Trabalhos realizados no âmbito civil e com eventual interesse para a instituição militar.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+  },
+  "935268981": {
+   "fragment_id": "203476874",
+   "type": 11,
+   "heading": "Artigo 49.º — Processamento",
+   "in_force_from": "1995-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+   ],
+   "markdown": "###### Artigo 49.º — Processamento\n\n1 - A avaliação do mérito é conduzida com base nos elementos de informação constantes dos documentos indicados no artigo 47.º ou outros que sejam presentes aos órgãos competentes no momento da avaliação.\n\n2 - Os processos para avaliação do mérito são organizados pelas repartições da DSP.\n\n3 - A avaliação do mérito levada a cabo a nível do CA, CSDA e CC processa-se de acordo com os regulamentos próprios destes órgãos.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+  },
+  "935268982": {
+   "fragment_id": "203476979",
+   "type": 11,
+   "heading": "Artigo 54.º — Confidencialidade",
+   "in_force_from": "1995-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+   ],
+   "markdown": "###### Artigo 54.º — Confidencialidade\n\n1 - A avaliação do mérito é confidencial, sem prejuízo da publicação nas Ordens da Armada das listas de promoção homologadas pelo CEMA.\n\n2 - Sem prejuízo do disposto no número anterior, do resultado e teor da avaliação do mérito deve ser dado conhecimento aos militares avaliados, sempre que:\n\na) As avaliações de mérito sejam desfavoráveis;\n\nb) Os militares o requeiram.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+  },
+  "935268983": {
+   "fragment_id": "203476981",
+   "type": 14,
+   "heading": "ANEXO A — Caracterização das aptidões",
+   "in_force_from": "1995-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+   ],
+   "markdown": "## ANEXO A — Caracterização das aptidões\n\nTrabalho intelectual\n\n1 - O trabalho intelectual refere-se à aptidão para estudar e aprofundar assuntos, mormente os que respeitam a aspectos profissionais.\n\n2 - O primeiro avaliador não deve deixar-se influenciar pelo seu juízo sobre se o avaliado é ou não inteligente.\n\n3 - Deverá ser apreciado o ritmo, a persistência e a regularidade do estudo e aprofundamento dos problemas, interessando, evidentemente, qual o produto deste trabalho intelectual.\n\n4 - O nível Insuficiente atribui-se quando o avaliado demonstrou indolência, falta de interesse, método, regularidade ou hábito de estudar os problemas que se lhe deparam, resultando daí uma actividade profissional lenta, ineficaz ou mesmo incompetente.\n\nSenso comum\n\n1 - O senso comum deve ser compreendido e avaliado em termos de:\n\na) Julgamento ou juízo crítico;\n\nb) Sentido das proporções;\n\nc) Objectividade ou sentido da realidade.\n\n2 - Uma pessoa com senso comum, ou bom senso, julga as pessoas e as situações de modo objectivo e crítico, no sentido construtivo, e tem o sentido das proporções, ou senso prático.\n\n3 - O nível Insuficiente atribui-se quando o avaliado revelou erros frequentes de julgamento e apreciações subjectivas das situações que o levam a acções ineficazes.\n\nUma nítida falta de espírito crítico bem como a consistente ausência de sentido prático implicarão também esta classificação.\n\n4 - Deve ser evitada a indicação «Não observado».\n\nFacilidade de expressão\n\n1 - A facilidade de expressão refere-se ao uso claro e eficiente da linguagem falada e escrita, compreendendo:\n\na) A facilidade de compreensão;\n\nb) A facilidade de expressão, propriamente dita.\n\n2 - O uso eficiente da linguagem implica:\n\na) Boa articulação e correcta sequência dos conceitos expostos;\n\nb) Clareza;\n\nc) Concisão;\n\ne) Boa apresentação visual, designadamente de esquemas, gráficos ou trabalhos escritos;\n\nf) Boa dicção, com cadência apropriada e ênfase nos momentos próprios.\n\n3 - A elegância de expressão escrita deve ser considerada somente nos graus superiores, mas o uso de palavras e conceitos rebuscados, o maneirismo, a redundância exagerada e o empolamento deverão ser considerados como factores negativos.\n\n4 - No caso de oficiais, a apreciação deve incidir fundamentalmente sobre os trabalhos escritos, o que não implica que não se considere a expressão oral, uma vez que aqueles se prestam a uma análise mais objectiva.\n\n5 - No caso de sargentos e praças, a apreciação deve incidir sobre a expressão oral e considerar obrigatoriamente a facilidade de compreensão de ordens e instruções.\n\n6 - O nível Insuficiente deve ser atribuído:\n\na) A oficiais, quando os seus trabalhos escritos revelam, na maioria dos casos, redacção confusa ou imprecisa ou quando a expressão oral seja pouco clara;\n\nb) A sargentos e praças, quando habitualmente revelem dificuldade em compreender ordens e instruções, quando as transmitam deficientemente ou se exprimam com dificuldades.\n\n7 - Deve ser evitada a indicação «Não observado».\n\nCapacidade de adaptação\n\n1 - A expressão «capacidade de adaptação» corresponde ao conceito de inteligência geral.\n\nNão se pretende saber se o avaliado é ou não inteligente, mas se se comporta inteligentemente na generalidade das tarefas que desempenha.\n\n2 - A expressão «capacidade de adaptação» não deve também ser tomada como significado de conformismo, estultícia, oportunismo ou qualquer combinação destas três características.\n\n3 - Considera-se que uma pessoa tem capacidade de adaptação ou se comporta inteligentemente quando:\n\na) Ao mudar de situação, aprende com rapidez e se integra com facilidade no novo modo de funcionar;\n\nb) Ao deparar com acontecimentos ou problemas novos, é capaz de os resolver com eficácia;\n\nc) Mostra consistentemente uma atitude de atenção crítica ao que se passa à sua volta, tomando medidas ou dando sugestões construtivas e adequadas ao momento.\n\n4 - O nível Insuficiente é atribuído quando o avaliado revele:\n\na) Consistente dificuldade em mudar de funções ou trabalho e integração difícil em novas situações;\n\nb) Frequente incapacidade para resolver situações ou problemas novos;\n\nc) Tendência consistente para se refugiar na rotina e para justificar a acção em termos de «sempre se fez assim».\n\nCultura geral\n\n1 - A cultura refere-se à arte de utilizar no momento próprio, quando as circunstâncias o requerem, os conhecimentos gerais da pessoa, exprimindo-se em sínteses novas.\n\nA cultura é a aptidão para analisar de modo crítico os problemas, por forma a encontrar perspectivas originais, mas não bizarras.\n\n2 - A cultura geral deve ser apreciada na medida em que é aplicada à vida na Marinha e não em termos de se a pessoa é ou não culta.\n\n3 - O nível Insuficiente é atribuído quando o avaliado revele, consistente ou frequentemente, ausência de conhecimentos gerais ou navais ou técnicos, ou seja incapaz de aplicar ao serviço os seus conhecimentos.\n\nDeterminação\n\n1 - A determinação avalia-se em termos de:\n\na) Constância;\n\nb) Tenacidade;\n\nc) Perseverança.\n\n2 - Uma pessoa «determinada» é constante nas suas resoluções e nos esforços para as levar a cabo, mostrando tenacidade e perseverança e não se deixando vencer pelas dificuldades.\n\nEsta aptidão não se deve confundir com teimosia e rigidez nos procedimentos.\n\n3 - O nível Insuficiente é atribuído quando o avaliado se revela habitualmente inconstante e falho de perseverança ou frequentemente não tenha tenacidade para levar a cabo resoluções difíceis.\n\nAutodomínio\n\n1 - Autodomínio é a aptidão para dominar explosões afectivas e manter a calma, não permitindo que as emoções interfiram com resoluções, ordens ou soluções, mormente nos momentos de crise e de emergência, ou nas situações que são susceptíveis de fazer desconfiar uma pessoa.\n\n2 - Ao estabelecer o padrão de autodomínio, o avaliador deve ter em conta que esta aptidão é de exigência maior em militares do que no cidadão comum.\n\n3 - O nível Insuficiente é atribuído quando o avaliado se deixa frequentemente levar pelas suas emoções ou perde facilmente o sangue-frio em situações críticas.\n\n4 - Não deve incluir apreciação referente à estabilidade psicológica.\n\nIniciativa e eficácia\n\n1 - Esta aptidão deve ser avaliada conjugando:\n\na) A capacidade para actuar quando são necessárias decisões, sem esperar instruções de escalões superiores;\n\nb) Com os resultados eficientes dessa acção.\n\n2 - O nível Insuficiente é atribuído quando o avaliado se revele consistentemente passivo, incapaz de actuar independentemente ou cuja acção atabalhoada compromete a resolução das situações.\n\nSociabilidade\n\n1 - A sociabilidade deve ser apreciada, genericamente, em termos de capacidade para se dar com os outros, facilitar a coesão de grupos e a sua capacidade de execução para criar bom clima humano nas unidades, estabelecendo a camaradagem ou mesmo sanando problemas pessoais.\n\nEm certos casos particulares, deve ser também considerada a aptidão para funções de representação.\n\n2 - No caso dos sargentos, devem ser apreciadas tanto as relações com oficiais como com praças.\n\n3 - No caso das praças, deve ser avaliada esta aptidão em termos de camaradagem.\n\n4 - O nível Insuficiente é atribuído sempre que o avaliado seja pouco dado ao convívio, pouco comunicativo, tenha um feitio difícil para com as outras pessoas, desde que daí resulte prejuízo para o bom clima humano das unidades.\n\n5 - Não devem ser considerados os aspectos relativos ao espírito de cooperação.\n\nEspírito de cooperação\n\n1 - O espírito de cooperação deve ser sempre analisado em termos de trabalho em grupo e, portanto, do modo como o avaliado contribui para a movimentação do grupo no sentido positivo e produtivo.\n\n2 - O nível Insuficiente é atribuído quando o avaliado não consiga trabalhar em grupo ou dificulte constantemente o trabalho deste.\n\n3 - Não devem ser considerados os aspectos relativos à sociabilidade.\n\nSentido do humano\n\n1 - O sentido do humano revela-se na capacidade para captar os problemas pessoais dos outros, ser capaz de os ouvir e ajudar para ultrapassar uma visão meramente tecnicista do serviço, considerando a Marinha, fundamentalmente, uma organização de pessoas.\n\n2 - O nível Insuficiente é atribuído sempre que o avaliado revele consistentemente uma atitude tecnicista na resolução dos problemas humanos ou actue frequentemente de acordo com os seus próprios interesses, sem ter em conta os dos outros.\n\nConduta\n\n1 - A conduta aprecia-se em termos da honestidade de procedimentos do avaliado, tanto nos aspectos pessoais, como técnicos, em directa relação com o serviço.\n\n2 - O nível Insuficiente aplica-se sempre que o avaliado revele procedimento menos honesto ou menos leal.\n\n3 - Não devem ser incluídos aspectos referentes ao sentido das responsabilidades.\n\nAparência e atitude\n\n1 - Esta aptidão refere-se ao aprumo militar conjugado com uma atitude positiva em relação ao serviço.\n\n2 - O nível Insuficiente é atribuído sempre que o avaliado revele consistente ou frequente falta de cuidado consigo próprio, com o seu fardamento ou equipamento ou falta de aprumo, combinada com uma atitude geral de desleixo.\n\nSentido da disciplina\n\n1 - O sentido da disciplina revela-se:\n\na) Em relação ao espírito dos regulamentos;\n\nb) Em relação à hierarquia - integração do avaliado na cadeia de comando e na hierarquia técnico-funcional.\n\n2 - Um dos dados objectivos a utilizar, mas não o único, é o registo de louvores e castigos referentes ao período da avaliação.\n\n3 - O nível Insuficiente é atribuído sempre que o avaliado revele consistente falta de espírito de disciplina, frequentemente se integre mal nas hierarquias ou não revele um esforço positivo para corrigir a sua conduta depois de castigado ou admoestado.\n\nCapacidade de organização\n\n1 - Nesta aptidão deve avaliar-se tanto a capacidade para organizar o serviço como a capacidade administrativa.\n\n2 - Estas capacidades referem-se à aptidão para planear e coordenar actividades, simplificando a sua execução por forma a facilitar as tarefas dos chefes e subordinados e contribuir para a eficiência global do serviço.\n\n3 - O nível Insuficiente é atribuído sempre que o avaliado seja incapaz de planear e coordenar as actividades do serviço, revelando-se consistentemente desordenado ou refugiando-se em rotinas inadequadas.\n\nSentido das responsabilidades\n\n1 - Esta aptidão refere-se ao modo como o avaliado assume a responsabilidade dos seus actos, mormente no respeitante a:\n\na) Execução de ordens;\n\nb) Resultado das ordens que dá;\n\nc) Defesa das suas posições;\n\nd) Interesse e cuidado com as pessoas e bens que dele dependem.\n\n2 - O nível Insuficiente é atribuído sempre que o avaliado revele, consistente ou frequentemente, que não assume as responsabilidades que lhe competem.\n\n3 - Não devem ser incluídos os aspectos referentes à conduta.\n\nAptidão para conduzir homens\n\n1 - Esta aptidão avalia-se objectivamente, observando mais o comportamento do grupo de homens que dependem do avaliado do que, propriamente, observando o avaliado.\n\n2 - O primeiro avaliador procurará analisar globalmente o comportamento do grupo de subordinados dependentes do avaliado em termos de coesão do grupo, eficiência colectiva e espírito de disciplina e de responsabilidade globais.\n\n3 - Nesta perspectiva, não importa a noção de o avaliado ser ou não ser um bom «líder», mas sim os resultados da liderança.\n\n4 - O nível Insuficiente é atribuído sempre que o grupo de subordinados do avaliado revele falta de coesão, eficiência ou sentido da disciplina e de responsabilidade.\n\nQualidades pedagógicas\n\n1 - Todos os militares devem ser capazes de levar os seus subordinados a prepararem-se e a estudarem os assuntos do serviço e de os orientar nesta aprendizagem, independentemente de lhes estarem cometidas funções específicas no âmbito da formação.\n\n2 - As qualidades pedagógicas devem ser também analisadas em termos dos resultados da aprendizagem feita pelo grupo de subordinados do avaliado.\n\n3 - O nível Insuficiente é atribuído sempre que o grupo de subordinados do avaliado não revele qualquer progresso em termos de aprendizagem ou, especificamente, como resultado das acções de formação.\n\nValor agregado\n\n1 - A actuação do avaliado deve evidenciar uma judiciosa utilização de conhecimentos técnico-profissionais necessariamente adquiridos e consolidados ao longo da sua carreira, designadamente os proporcionados através da sua formação de base e complementar e os da experiência adquirida em sucessivos desempenhos de funções anteriores susceptíveis de terem contribuído para a escolha do avaliado para o seu cargo actual.\n\n2 - O nível Insuficiente é atribuído quando o avaliado revele, consistente ou frequentemente, ausência dos conhecimentos mencionados na alínea anterior.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+  },
+  "935268984": {
+   "fragment_id": "203476982",
+   "type": 14,
+   "heading": "ANEXO B — Caracterização do desempenho",
+   "in_force_from": "1995-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+   ],
+   "markdown": "## ANEXO B — Caracterização do desempenho\n\nDesempenho específico\n\n1 - O juízo formulado deve ter em conta o cargo e as funções desempenhados pelo avaliado, considerados como próprios da classe a que pertence, e os resultados por ele obtidos, face aos resultados justificadamente esperados.\n\n2 - Os resultados esperados devem ter em conta as condições proporcionadas ao avaliado para desempenho do seu cargo e funções, designadamente os recursos postos à sua disposição e eventuais facilidades ou limitações de acções estabelecidas ou verificadas.\n\n3 - O primeiro informador deve atender, designadamente, à formação do avaliado, à eficiência como utiliza os recursos à sua disposição e à eficácia das suas realizações concretas.\n\n4 - O nível Insuficiente é aplicado sempre que da acção do avaliado ou dos actos cometidos pelos seus subordinados, cuja responsabilidade lhe seja reconhecida, resultem com frequência omissões, erros ou prejuízos para cumprimento da missão do organismo a que pertence ou ainda para a Fazenda Nacional.\n\nDesempenho não específico\n\n1 - A apreciação respeita à comparação dos resultados da acção do avaliado no desempenho de cargo ou funções não especificamente considerados como no âmbito do conteúdo funcional da classe a que pertence com os resultados justificadamente esperados.\n\n2 - Os resultados esperados devem ter em devida conta as condições proporcionadas ao avaliado para o desempenho do seu cargo.\n\n3 - O nível Insuficiente é aplicado sempre que da acção do avaliado ou dos actos cometidos pelos seus subordinados, cuja responsabilidade lhe seja reconhecida, resultem com frequência omissões, erros ou prejuízos para cumprimento da missão do organismo a que pertence ou ainda da Fazenda Nacional.\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+  },
+  "203476892": {
+   "fragment_id": "203476984",
+   "type": 14,
+   "heading": "ANEXO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C\n\n(ver documento original)"
+  },
+  "203476891": {
+   "fragment_id": "203476983",
+   "type": 14,
+   "heading": "ANEXO D — Instruções para o preenchimento dos impressos de avaliação individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D — Instruções para o preenchimento dos impressos de avaliação individual\n\nSecção A - Elementos biográficos do avaliado\n\n1 - São preenchidos pela secretaria da unidade ou serviço.\n\n2 - Quando se trate de avaliação extraordinária, a data da avaliação é aquela em que o primeiro avaliador preenche e assina o impresso.\n\nSecção B - Aptidões e desempenho a avaliar\n\n1 - No quadro das aptidões e desempenho a avaliar, o 1.º avaliador deve indicar a coluna correspondente ao nível em que julga que o avaliado se situa, recorrendo, para efeitos de preenchimento do impresso, à inscrição de um X na respectiva coluna.\n\nDa mesma forma deve assinalar na coluna «Não observado», o facto de não dispor de suficientes elementos de avaliação ou de outros casos em que a aptidão/desempenho não haja de ser avaliada(o), inscrevendo para o efeito um X no respectivo local.\n\n2 - No espaço destinado ao «Tipo de avaliação», deve ser assinalado com um X o tipo/motivo da avaliação.\n\n3 - No espaço destinado à opinião sobre a «Permanência na unidade», deve o 1.º avaliador marcar com X a rubrica por que opta, procedendo de igual modo relativamente à «Base de observação».\n\n4 - No espaço destinado à «Opinião sobre a avaliação», o 2.º avaliador indica os resultados da sua apreciação, conforme indicado para a secção E - «Opinião do 2.º avaliador»."
+  },
+  "935268985": {
+   "fragment_id": "203476828",
+   "type": 11,
+   "heading": "Artigo 9.º — Âmbito de aplicação",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "###### Artigo 9.º — Âmbito de aplicação\n\n1 - São sujeitos a avaliação individual, periódica e extraordinária, nos termos do RAM, todos os militares, independentemente da forma de prestação de serviço, com excepção dos almirantes, vice-almirantes e contra-almirantes nos quadros especiais em que este posto é o mais elevado, que apenas são sujeitos à avaliação extraordinária.\n\n2 - Os militares em comissão normal desempenhando cargos ou funções fora da estrutura da Marinha são igualmente objecto de avaliação individual, de acordo com o normativo do RAM.\n\n3 - Aos militares mobilizados e convocados aplicam-se as disposições da presente secção respeitantes à forma de prestação de serviço que antecedeu a passagem à situação de reserva de disponibilidade.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  },
+  "935268986": {
+   "fragment_id": "203476831",
+   "type": 11,
+   "heading": "Artigo 12.º — Avaliação periódica",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "###### Artigo 12.º — Avaliação periódica\n\n1 - Os militares dos quadros permanentes (QP) e os militares em regime de contrato (RC) ou de voluntariado (RV), na efectividade de serviço, são avaliados anualmente, com referência a 1 de Janeiro de cada ano.\n\n2 - As avaliações anuais não se realizam em relação aos militares nas seguintes situações:\n\na) De licença para estudos;\n\nb) Na inactividade temporária por doença ou acidente.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  },
+  "935268987": {
+   "fragment_id": "203476832",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliação extraordinária",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "###### Artigo 13.º — Avaliação extraordinária\n\n1 - Os militares dos QP e os militares em RC ou RV, na efectividade do serviço, são avaliados extraordinariamente nas seguintes circunstâncias:\n\na) Quando o primeiro avaliador ou o avaliado destaquem da unidade ou serviço, desde que decorridos quatro meses após a última avaliação;\n\nb) Quando qualquer dos avaliadores o considere conveniente e designadamente entenda justificado e oportuno alterar a última avaliação prestada sobre o avaliado;\n\nc) Quando as repartições da Direcção do Serviço de Pessoal (DSP), os CC, o CA ou o CSDA o solicitem;\n\nd) Quando determinado pelo comandante, director ou chefe da unidade ou organismo a que o militar pertence.\n\n2 - A avaliação extraordinária tem lugar ainda para os militares em serviço efectivo normal (SEN), RV e RC:\n\na) Quando requeiram a admissão noutra forma de prestação de serviço;\n\nb) No final da sua permanência em serviço efectivo e antes de passarem à reserva de disponibilidade.\n\n3 - Os militares em serviço efectivo normal (SEN) e RC são igualmente objecto de avaliação extraordinária para efeitos de promoção.\n\n4 - Para além das circunstâncias tipificadas nos números anteriores, os militares em RC são sujeitos a avaliação extraordinária para efeitos de prorrogação do contrato.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  },
+  "935268988": {
+   "fragment_id": "203476833",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliadores",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28",
+    "Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+   ],
+   "markdown": "###### Artigo 14.º — Avaliadores\n\n1 - São competentes para avaliar os militares seus subordinados:\n\na) Os oficiais com o posto de primeiro-tenente ou superior, independentemente do posto do militar avaliado;\n\nb) Os oficiais com pelo menos dois anos de serviço após a promoção a oficial, no caso da avaliação de primeiros e segundos-sargentos, subsargentos, segundos-subsargentos e praças;\n\nc) Os sargentos-mores, e os sargentos-chefes com pelo menos dois anos de serviço após a promoção, no caso da avaliação de primeiros e segundos-sargentos, subsargentos, segundos-subsargentos e praças.\n\n2 - Os comandantes das unidades navais, das unidades de mergulhadores-sapadores e das unidades de fuzileiros têm sempre competência para avaliar todos os seus subordinados, independentemente das condições estabelecidas no número anterior.\n\n3 - Em cada unidade ou organismo da Marinha, a designação do primeiro e segundo avaliadores é da responsabilidade dos respectivos comandantes, directores ou chefes, com base em matriz para o efeito aprovada por despacho do CEMA, sob proposta do superintendente dos Serviços do Pessoal.\n\n4 - Na elaboração da matriz, o critério para a determinação do primeiro avaliador baseia-se no princípio da subordinação directa do avaliado, devendo o seu escalão ser tão baixo quanto compatível com funções de comando, direcção ou chefia, sendo o segundo avaliador, normalmente, a entidade de que depende directamente o primeiro avaliador.\n\n5 - Sempre que, por força da aplicação da matriz a que alude o n.º 3 e da sua transposição directa para uma situação particular, a designação do primeiro avaliador recaia sobre um militar que não satisfaça as condições do n.º 1, será este substituído nessa qualidade pelo segundo avaliador previsto na matriz, sendo este, por sua vez, substituído pelo oficial de quem depende directamente.\n\n6 - Quando os militares estiverem a desempenhar cargos ou a exercer funções fora da estrutura das Forças Armadas, compete às entidades situadas na correspondente estrutura hierárquico-funcional proceder à sua avaliação individual.\n\n7 - No âmbito interno das Forças Armadas, os avaliadores dos militares do QP são obrigatoriamente militares do QP.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28\n\n> Retificado pelo/a [Declaração de Rectificação n.º 89/95 - Diário da República n.º 149/1995, 2º Suplemento, Série I-B de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-1995-386255), em vigor a partir de 1995-06-30"
+  },
+  "935268989": {
+   "fragment_id": "203476834",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação das aptidões",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "###### Artigo 15.º — Avaliação das aptidões\n\n1 - Nas avaliações individuais apreciam-se as aptidões intelectuais, de carácter, sociais e morais, militares, de chefia e técnico-profissionais reveladas pelo avaliado.\n\n2 - São aptidões intelectuais:\n\na) Trabalho intelectual;\n\nb) Senso comum;\n\nc) Facilidade de expressão;\n\nd) Capacidade de adaptação;\n\ne) Cultura geral.\n\n3 - São aptidões de carácter:\n\na) Determinação;\n\nb) Autodomínio;\n\nc) Iniciativa e eficácia.\n\n4 - São aptidões sociais e morais:\n\na) Sociabilidade;\n\nb) Espírito de cooperação;\n\nc) Sentido do humano;\n\nd) Conduta.\n\n5 - São aptidões militares:\n\na) Aparência e atitude;\n\nb) Sentido da disciplina.\n\n6 - São aptidões de chefia:\n\na) Capacidade de organização;\n\nb) Sentido das responsabilidades;\n\nc) Aptidão para conduzir homens.\n\n7 - São aptidões técnico-profissionais:\n\na) Qualidades pedagógicas;\n\nb) Valor agregado.\n\n8 - As aptidões são sumariamente caracterizadas no anexo A ao presente Regulamento, do qual faz parte integrante, definindo-se, para cada uma, o nível de Insuficiente.\n\n9 - Nas avaliações individuais extraordinárias dos militares em RV, RC ou SEN, por motivo de admissão noutra forma de prestação de serviço ou de passagem à reserva de disponibilidade, devem obrigatoriamente ser apreciadas e classificadas as aptidões indicadas nas alíneas c) e d) do n.º 2, c) do n.º 3, a), b) e d) do n.º 4 e a) e b) do n.º 5.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  },
+  "935268990": {
+   "fragment_id": "203476835",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação do desempenho",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "###### Artigo 16.º — Avaliação do desempenho\n\n1 - A avaliação do desempenho envolve a apreciação de:\n\na) Desempenho de cargos e funções no âmbito do conteúdo funcional da classe a que pertence, abreviadamente designado por desempenho específico;\n\nb) Desempenho de cargos e funções fora do âmbito do conteúdo funcional da classe a que pertence, abreviadamente designado por desempenho não específico.\n\n2 - A avaliação de cada desempenho caracteriza-se sumariamente no anexo B ao presente Regulamento, do qual faz parte integrante, definindo-se em particular, para cada um, o nível de Insuficiente.\n\n3 - Nas avaliações extraordinárias dos militares em RV, RC ou SEN por motivo de admissão noutra forma de prestação de serviço ou de passagem à reserva de disponibilidade, deve obrigatoriamente ser apreciado e classificado o seu desempenho nas vertentes indicadas nas alíneas a) e b) do n.º 1.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  },
+  "935268991": {
+   "fragment_id": "203476837",
+   "type": 11,
+   "heading": "Artigo 18.º — Regras para a avaliação",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "###### Artigo 18.º — Regras para a avaliação\n\n1 - Ao proceder à avaliação, o primeiro avaliador deve:\n\na) Ter em conta os acontecimentos em que o avaliado esteve envolvido e quais os resultados da sua acção;\n\nb) Examinar os actos de rotina, bem como as tarefas extraordinárias que o avaliado desempenhou;\n\nc) Avaliar, com base no conhecimento obtido nos termos das alíneas anteriores, a consistência da acção do avaliado em relação a cada uma das suas aptidões;\n\nd) Avaliar se deficiências eventualmente existentes são corrigíveis e identificar as medidas a tomar nesse sentido e a forma de aproveitar aptidões boas ou muito boas.\n\n2 - As aptidões devem, tanto quanto possível, ser examinadas e avaliadas isoladamente, com o objectivo de evitar a contaminação das avaliações entre si.\n\n3 - Nos casos em que o avaliado seja classificado de Insuficiente em qualquer das aptidões ou desempenhos, a avaliação deve ser acompanhada de juízo ampliativo, devidamente fundamentado.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  },
+  "935268992": {
+   "fragment_id": "203476838",
+   "type": 11,
+   "heading": "Artigo 19.º — Impressos de avaliação individual",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "###### Artigo 19.º — Impressos de avaliação individual\n\n1 - A classificação da avaliação individual de cada militar é feita mediante o preenchimento de impresso apropriado, permitindo a inscrição de informação relativa a:\n\na) Data de referência da avaliação;\n\nb) Tipo de avaliação;\n\nc) Identidade dos avaliadores e cargos desempenhados;\n\nd) Elementos biográficos do avaliado;\n\ne) Base de observação para a avaliação;\n\nf) Classificação das aptidões e desempenhos avaliados;\n\ng) Opinião geral do primeiro avaliador sobre o avaliado;\n\nh) Opinião sobre a aptidão do avaliado para a promoção;\n\ni) Opinião relativa à permanência do avaliado na unidade;\n\nj) Opinião do primeiro avaliador sobre a orientação de carreira do avaliado;\n\nl) Opinião do segundo avaliador sobre a apreciação do primeiro avaliador e sobre o avaliado;\n\nm) Informação dos órgãos de gestão do pessoal.\n\n2 - O modelo do impresso de avaliação individual a utilizar é o constante do anexo C ao presente Regulamento, do qual faz parte integrante.\n\n3 - No preenchimento dos impressos de avaliação individual deve seguir-se as instruções detalhadas no anexo D ao presente Regulamento, do qual faz parte integrante.\n\n4 - A classificação da avaliação individual dos militares que frequentam cursos de formação, pode ser efectuada em impressos próprios, de acordo com as especificidades e requisitos de cada curso e a natureza dos militares.\n\n5 - Os modelos dos impressos a que alude o número anterior são aprovados por despacho do CEMA.\n\n6 - Nos casos indicados no n.º 3 do artigo 18.º, o juízo ampliativo deve ser anexado ao impresso de avaliação individual.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  },
+  "935268993": {
+   "fragment_id": "203476839",
+   "type": 11,
+   "heading": "Artigo 20.º — Avaliações desfavoráveis",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "###### Artigo 20.º — Avaliações desfavoráveis\n\n1 - São desfavoráveis todas as avaliações de aptidões ou de desempenhos classificados no impresso de avaliação individual com o nível de Insuficiente.\n\n2 - Considera-se ainda que os militares têm avaliações individuais desfavoráveis:\n\na) Quando acumulem cinco ou mais classificações do nível Com deficiências no conjunto das aptidões e dos desempenhos num único impresso de avaliação individual;\n\nb) Quando a opinião sobre a permanência do avaliado na unidade, expressa no impresso de avaliação individual, for «Não o desejo» ou «Preferia não o ter», desde que motivada por razões imputáveis ao militar avaliado, excluindo-se motivos clínicos ou físicos, os quais devem ser expressamente mencionados;\n\nc) Quando a aptidão física ou a estabilidade psicológica do avaliado forem consideradas incompatíveis com o desempenho do cargo ou funções atribuídas.\n\n3 - Os impressos de avaliação individual que contenham avaliações desfavoráveis não podem ser considerados em actos de gestão de pessoal sem previamente terem sido dados a conhecer ao militar a que reportam ou, tendo sido dados a conhecer, o militar tiver interposto reclamação ou recurso sobre essas avaliações desfavoráveis.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  },
+  "935268994": {
+   "fragment_id": "203476840",
+   "type": 11,
+   "heading": "Artigo 21.º — Notificação",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "###### Artigo 21.º — Notificação\n\n1 - A avaliação individual e os juízos ampliativos que a envolvem, caso existam, são obrigatoriamente comunicados ao interessado.\n\n2 - Para efeitos do número anterior, compete:\n\na) Ao primeiro avaliador dar conhecimento ao militar avaliado, que assinará no impresso de avaliação individual;\n\nb) Ao director do Serviço de Pessoal ou, por sua delegação, aos chefes das competentes repartições da DSP dar conhecimento ao avaliado das respectivas avaliações individuais, sempre que este expressamente o requeira.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  },
+  "935268995": {
+   "fragment_id": "203476846",
+   "type": 11,
+   "heading": "Artigo 27.º — Reclamação e recurso",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "###### Artigo 27.º — Reclamação e recurso\n\nSempre que o avaliado não concorde, no todo ou em parte, com o teor da avaliação individual, pode apresentar reclamação ou interpor recurso hierárquico, nos termos da legislação em vigor.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  },
+  "935268996": {
+   "fragment_id": "203476984",
+   "type": 14,
+   "heading": "ANEXO C",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "## ANEXO C\n\n(ver modelos no documento original)\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  },
+  "935268997": {
+   "fragment_id": "203476983",
+   "type": 14,
+   "heading": "ANEXO D — Instruções para o preenchimento dos impressos de avaliação individual",
+   "in_force_from": "2002-10-28",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+   ],
+   "markdown": "## ANEXO D — Instruções para o preenchimento dos impressos de avaliação individual\n\nSecção A - Elementos biográficos do avaliado\n\n1 - São preenchidos pela secretaria da unidade ou serviço.\n\n2 - Quando se trate de avaliação extraordinária, a data da avaliação é aquela em que o primeiro avaliador preenche e assina o impresso.\n\nSecção B - Aptidões e desempenho a avaliar\n\n1 - No quadro das aptidões e desempenho a avaliar, o 1.º avaliador deve indicar a coluna correspondente ao nível em que julga que o avaliado se situa, recorrendo, para efeitos de preenchimento do impresso, à inscrição de um X na respectiva coluna.\n\nDa mesma forma deve assinalar na coluna «Não observado», o facto de não dispor de suficientes elementos de avaliação ou de outros casos em que a aptidão/desempenho não haja de ser avaliada(o), inscrevendo para o efeito um X no respectivo local.\n\n2 - No espaço destinado ao «Tipo de avaliação», deve ser assinalado com um X o tipo/motivo da avaliação.\n\n3 - No espaço destinado à opinião sobre a «Permanência na unidade», deve o 1.º avaliador marcar com X a rubrica por que opta, procedendo de igual modo relativamente à «Base de observação».\n\n4 - No espaço destinado à «Opinião sobre a avaliação», o 2.º avaliador indica os resultados da sua apreciação, conforme indicado para a secção E - «Opinião do 2.º avaliador».\n\nSecção C - Síntese da opinião sobre o avaliado\n\n1 - Redacção livre sobre as aptidões e desempenho. - Na linha correspondente a cada grupo de aptidões e do desempenho, deve o 1.º avaliador referir, de forma breve e caso julgue necessário, as características mais salientes, positivas e negativas, do avaliado ou da sua acção.\n\n2 - Aptidão física e estabilidade psicológica. - O 1.º avaliador deve exprimir a sua opinião sobre a compatibilidade da aptidão física e da estabilidade psicológica do militar avaliado com o cargo ou funções por este desempenhados.\n\nA apreciação da aptidão física evidenciada pelo avaliado reporta-se à capacidade física para suportar as exigências do serviço naval, nomeadamente na situação de embarque, em unidades de fuzileiros e de mergulhadores e noutras que exigem esforços intensos e prolongados.\n\nA apreciação da estabilidade psicológica reporta-se à constância de comportamento e atitudes dos militares no exercício dos cargos e funções atribuídas, devendo considerar-se incompatível com este sempre que o avaliado revele instabilidade psicológica e denote incapacidade em evitar que tal interfira com os cargos e funções atribuídos.\n\nA apreciação da aptidão física e da estabilidade psicológica não envolve qualquer opinião clínica sobre o avaliado, baseando-se, exclusivamente, na observação e análise do seu comportamento.\n\nOs resultados da apreciação são indicados em termos de «Sim», «Não» ou «Não observado» e justificados, na parte de redacção livre, quando a opção for «Não».\n\n3 - Aptidões e desempenho mais importantes. - O 1.º avaliador deve indicar as quatro aptidões e ou desempenho do avaliado que mais importância tiveram na formação da sua opinião, colocando os números correspondentes na parte assinalada, conforme indicado na secção B - «Aptidões e desempenho a avaliar».\n\n4 - Opinião geral sobre o avaliado. - Na síntese da opinião que forma sobre o avaliado, deve o 1.º avaliador definir as características dominantes do militar em apreciação registando em primeiro lugar os aspectos favoráveis, bem como o modo como este desempenhou as funções que lhe estavam cometidas.\n\nNa apreciação sobre o avaliado, deve ser incluída, obrigatoriamente, a opinião geral em termos de Insuficiente, Com deficiências, Regular, Bom e Muito bom, a qual deve ser concordante com os níveis atribuídos às aptidões.\n\n5 - Aptidão para promoção. - A opinião sobre a aptidão do avaliado para promoção só é registada quando o 1.º avaliador for oficial superior.\n\nO 1.º avaliador deve pronunciar-se, de modo sintético, sobre se julga dever ser acelerada ou retardada a promoção do avaliado, relativamente à expectativa normal de promoção, justificando a sua opinião.\n\n6 - Orientação de carreira. - Na opinião sobre a forma como deve ser orientada a carreira do avaliado, o 1.º avaliador deve indicar, de maneira sucinta, como julga que a Marinha obteria melhor rendimento das qualidades do avaliado.\n\nEsta opinião deve tomar em consideração o posto do avaliado e incidir sobre aspectos específicos, designadamente:\n\na) Para oficiais superiores - qualificação para cursos avançados, funções de estado-maior, naval ou interforças, chefia de serviços técnicos em terra ou em forças navais e comandos de natureza operacional ou administrativa para as classes de marinha e fuzileiros;\n\nb) Para oficiais subalternos - qualificação para cursos de especialização e pós-graduação, chefia de serviços técnicos a bordo, serviço de instrução a bordo ou em escolas e comandos no mar para a classe de marinha;\n\nc) Para sargentos - qualificação para especializações, serviço de instrução em escolas e frequência de cursos de formação de oficiais;\n\nd) Para praças - qualificação para aperfeiçoamentos e frequência de cursos de formação de oficiais ou de sargentos e aperfeiçoamento em outros idiomas;\n\ne) Para militares em SEN/RV/RC - prorrogação do tempo de prestação de serviço e acesso aos QP.\n\n7 - Assinatura do 1.º avaliador. - O impresso passa a ter a classificação de «Confidencial» quando o 1.º avaliador o assina. Nos casos em que o 1.º avaliador atribua o grau Insuficiente, dará seguidamente o impresso ao avaliado para que este o leia e assine.\n\nSecção D - Opinião do avaliado\n\n1 - Opinião sobre orientação de carreira. - Neste espaço o avaliado deve indicar, de forma breve, a forma como gostaria que fosse orientada a sua carreira, referindo a área ocupacional onde gostaria de desempenhar funções. A título de exemplo, indicam-se algumas áreas ocupacionais: Estado-Maior, Gestão de Pessoal, Navios, Instrução, Autoridade Marítima, Manutenção/Reparação, Abastecimento/Logística.\n\n2 - Discordância com a avaliação. - Quando o avaliado não concorde com o teor da avaliação e pretenda usar o direito de reclamação e recurso hierárquico, poderá fazer menção expressa de tal facto nesta secção.\n\nSecção E - Opinião do 2.º avaliador\n\n1 - O 2.º avaliador deve pronunciar-se quanto ao modo como o 1.º avaliador apreciou o avaliado sempre que tiver conhecimento directo deste. Quando possuir opinião parcial ou globalmente divergente, pode manifestar a sua discordância justificando sumariamente as razões fundamentais daquela divergência.\n\n2 - O 2.º avaliador regista ainda a sua opinião sobre a maneira como o 1.º avaliador apreciou os avaliados do mesmo posto considerados no seu conjunto, indicando se a orientação adoptada foi correcta ou normal, benevolente ou sobreavaliada, demasiado rigorosa ou subavaliada, apondo um sinal X no quadro da «Opinião sobre avaliação» incluído na secção B - «Aptidões e desempenho a avaliar».\n\nObservações do chefe da repartição de pessoal da DSP\n\nO chefe da respectiva repartição de pessoal da DSP, consoante se trate, respectivamente, de avaliações de oficiais ou de sargentos e praças, indica nesta alínea o encaminhamento a dar ao impresso.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 1380/2002 - Diário da República n.º 245/2002, Série I-B de 2002-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/1380-2002-431599), em vigor a partir de 2002-10-28"
+  }
+ }
+}

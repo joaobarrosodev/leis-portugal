@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:218713:por
+title: Portaria n.º 403/86
+short_title: null
+summary: Estabelece disposições relativamente ao regime estabelecido quanto ao controle público da emissão de documentos probatórios
+  do seguro automóvel
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Interna
+proposing_entity: null
+official_number: 403/86
+official_date: null
+publication_date: '1986-07-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 170/1986, Série I de 1986-07-26
+  number: '170'
+  series: I
+  supplement: null
+  pages: 1839 - 1840
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/07/17000/18391840.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '218713'
+  dre_path: /dr/detalhe/portaria/403-1986-218713
+  internal: pt:dre:218713:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/403-1986-218713
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/403-1986-218713
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:47:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ddece17cf542c7b717b3c39aca5b24ea57194221e015f52c977a152a9573dd78
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:47:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Companhia de Seguros
+- Contrato de Seguro
+- Instituto de Seguros de Portugal
+- Responsabilidade Civil Automóvel
+- Seguro de Responsabilidade Civil Automóvel
+- Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:911488702:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:260643:por
+  label: "Determinado que as referências feitas nos pontos 4 e 6 a «governadores civis» e «governos civis», consideram-se\
+    \ feitas, respetivamente, a «secretário-geral do Ministério da Administração Interna» e a «Secretaria-Geral do Ministério\
+    \ da Administração Interna» e afetado à Secretaria-Geral do Ministério da Administração Interna o montante correspondente\
+    \ às taxas previstas no ponto 5 arrecadado desde o início do ano de 2012, pela PORT.167/2013.30.04.2013.MF, DR.IS [83]\
+    \ de 30.04.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/167-2013-260643
+  date: '2013-04-30'
+- type: cites
+  target: pt:dre:194397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546457:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:47:54Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 403/86
+
+de 26 de Julho
+
+Considerando que o [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), de 31 de Dezembro, revendo o regime jurídico do seguro obrigatório de responsabilidade civil automóvel, revogou, designadamente, a [Portaria n.º 650/79](https://diariodarepublica.pt/dr/detalhe/portaria/650-1979-366663), de 6 de Dezembro, que regulava um mecanismo de controle público da emissão de documentos probatórios do seguro automóvel;
+
+Considerando que um tal mecanismo se justifica não apenas por imperativos de protecção de pessoas e bens e de prevenção da falsificação de tais documentos, mas ainda pelas especiais responsabilidades do Estado na fiscalização do cumprimento da obrigatoriedade do seguro automóvel:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Administração Interna, aprovar o seguinte:
+
+1.º Em cumprimento do disposto no n.º 2 do artigo 35.º do [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), de 31 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 122-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-a-1986-194397), de 30 de Maio, deverão as empresas seguradoras elaborar e apresentar, até ao dia 20 de cada mês, junto de uma das entidades referidas no n.º 4.º, um documento em duplicado, modelo a aprovar pelo Instituto de Seguros de Portugal, do qual devem constar o primeiro e o último número de cada uma das sequências dos números atribuídos, no mês anterior, às cartas verdes em consequência dos recibos emitidos em contratos de seguro de responsabilidade civil automóvel.
+
+2.º Com base no disposto no número anterior, os certificados de responsabilidade civil e os avisos-recibos previstos no artigo 20.º do referido diploma devem conter, para além dos elementos previstos nos n.os 6 e 13 a 15 daquele preceito, a menção do número de carta verde que lhe foi atribuído.
+
+3.º Do documento a que se refere o n.º 1.º constará ainda o número de cartas verdes substituídas ou anuladas no mês anterior, para efeitos de dedução do pagamento das taxas devidas.
+
+4.º A recepção e consequente confirmação, através de visto, dos documentos referidos no n.º 1.º é da competência dos governadores civis do distrito do local da emissão da apólice, que procederão à devolução dos duplicados às empresas seguradoras respectivas, considerando-se deste modo visados, para todo e qualquer efeito, os documentos probatórios do seguro automóvel a que aqueles documentos respeitam.
+
+5.º Na data em que as empresas seguradoras procederem ao envio dos documentos referidos no n.º 1.º, devem dos mesmos remeter cópia ao Instituto de Seguros de Portugal, acompanhada das importâncias correspondentes ao produto da taxa de 150$00 pelo número de cartas verdes referidas nesse mesmo documento, observado o disposto no n.º 3.º
+
+6.º Compete ao Instituto de Seguros de Portugal, até ao final de cada mês, distribuir pelos governos civis as importâncias arrecadadas nos termos do número anterior, com base em tabela percentual a fornecer pelo Ministério da Administração Interna.
+
+7.º Compete ao Instituto de Seguros de Portugal a verificação do cumprimento do disposto na presente portaria.
+
+8.º As empresas seguradoras dispõem de 90 dias, contados a partir da data de entrada em vigor da presente portaria, para dar cumprimento às obrigações nela previstas, relativamente ao período entretanto decorrido, dispondo o Instituto de Seguros de Portugal de um prazo de quinze dias, a contar do termo dos referidos 90 dias, para proceder em conformidade com o n.º 6.º
+
+9.º Em relação aos documentos comprovativos da efectivação do seguro, emitidos a partir de 1 de Janeiro de 1986 até à data da entrada em vigor da presente portaria, serão devidos os pagamentos aos governos civis nos mesmos termos que eram devidos em Dezembro de 1985.
+
+10.º Sem prejuízo da regulamentação que nas Regiões Autónomas dos Açores e da Madeira venha a ser efectuada pelos competentes órgãos de governo, a presente portaria é aplicável em relação aos recibos emitidos no território do continente.
+
+11.º A presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+Ministérios das Finanças e da Administração Interna.
+
+Assinada em 1 de Julho de 1986.
+
+Pelo Ministro das Finanças, Manuel Carlos Carvalho Fernandes, Secretário de Estado do Tesouro. - Pelo Ministro da Administração Interna, José Manuel Durão Barroso, Secretário de Estado Adjunto do Ministro da Administração Interna.

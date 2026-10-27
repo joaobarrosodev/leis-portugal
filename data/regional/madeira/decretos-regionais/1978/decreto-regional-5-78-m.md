@@ -1,0 +1,185 @@
+---
+schema_version: '1.0'
+id: pt:dre:446568:por
+title: Decreto Regional n.º 5/78/M
+short_title: null
+summary: Cria o Centro Regional de Segurança Social da Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regional
+document_type_label: Decreto Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Regional
+proposing_entity: null
+official_number: 5/78/M
+official_date: null
+publication_date: '1978-02-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 46/1978, Série I de 1978-02-24
+  number: '46'
+  series: I
+  supplement: null
+  pages: 405 - 406
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/02/04600/04050406.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '446568'
+  dre_path: /dr/detalhe/decreto-regional/5-1978-446568
+  internal: pt:dre:446568:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1978-446568
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1978-446568
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6395f1ad2dec0a91e2ae53fdb6535f73c250549c3bbf86ef6f9d42f93b2e030f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Caixa de Previdência
+- Caixa de Previdência dos Empregados da Assistência
+- Centro Regional de Segurança Social
+- Criação de Serviços
+- Instituições de Previdência Social
+- Integração de Serviços
+- Junta Central das Casas do Povo
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:578305:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:276873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382468:por
+  label: "Revogado pelo DRG.9/79.12.04.1979.ARM, DR.IS [86] de 12.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/9-1979-382468
+  date: '1979-04-12'
+- type: repealed_by
+  target: pt:dre:578305:por
+  label: "Revogado pelo DRG.13/81/M.07.04.1981.ARM, DR.IS [141] de 23.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/13-1981-578305
+  date: '1981-04-07'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:43:22Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regional n.º 5/78/M
+
+1 - Na perspectiva da construção de uma nova estrutura no âmbito da segurança social, foi criada pelo [Decreto Regional n.º 12/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1977-279416) a Direcção Regional de Segurança Social, desde logo incumbida de encetar as medidas conducentes à realização de uma política social que abranja toda a população presente, considerando cada pessoa como sujeito de segurança social.
+
+2 - Com efeito, a concretização destes objectivos implica uma profunda reorganização das estruturas actuais dos sistemas de previdência e assistência sociais, exigida ainda pela necessidade de racionalizar a eficácia das acções comprometidas no presente por uma orgânica substancialmente caracterizada pela descoordenação e sobreposição de actuações desenvolvidas por serviços paralelos.
+
+3 - Na circunstância, temos, por um lado, o sistema da previdência social intimamente ligado ao conceito de seguro social, onde os benefícios subsistem, desde que haja lugar a contribuições prévias, ou uma proporcionalidade entre o quantitativo das contribuições e das prestações, e, por outro, o da assistência social, dedicado aos problemas da promoção sócio-cultural das populações, acolhendo no seu âmbito, necessariamente, a população desprotegida de qualquer esquema de previdência.
+
+4 - No primeiro dos sistemas enquadram-se os regimes de previdência social destinados a proteger os trabalhadores subordinados dos sectores da indústria e dos serviços, trabalhadores independentes e ainda dos sectores agrícola e das pescas, praticados, respectivamente, pela Caixa de Previdência e Abono de Família, Casas do Povo e delegação administrativa da Caixa de Previdência dos Profissionais da Pesca, todos já desintegrados dos serviços de acção médico-social.
+
+5 - No que se refere ao segundo dos esquemas, destacam-se os serviços de acção directa (SAD), serviços periféricos do Instituto da Família e Acção Social, que coordenam e fiscalizam as actividades das instituições e estabelecimentos de assistência que dedicam especial atenção à infância, juventude e terceira idade.
+
+6 - Daqui impor-se a necessidade de se proceder à criação de um órgão coordenador de todas as actividades até agora confinadas às instituições e serviços de previdência e assistência sociais, de modo a possibilitar a construção de um sistema unificado de segurança social que estabeleça a transição gradual de um esquema até agora baseado, respectivamente, na capacidade produtiva e no paternalismo, como forma institucionalizada de assistência pública, para outro, baseado nos direitos sociais de cada indivíduo.
+
+7 - Tal medida, porém, não exclui o carácter de complementaridade que entre todos terá de existir nem o grau de autonomia que lhes vier a ser reconhecido, situações, aliás, já consagradas no [Decreto Regional n.º 12/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1977-279416).
+
+8 - Uma vez que as actuais previdência e assistência sociais lutam com faltas graves de meios, que vão desde os financeiros até aos humanos, passando pelas instalações e equipamentos, não fará sentido que os existentes e a criar venham a ser subutilizados.
+
+9 - Cumpre salientar que nem todas as instituições e serviços estão aptos a ser inseridos no processo sem profundas reestruturações.
+
+10 - À política de pessoal depara-se igualmente uma diversidade de regimes jurídicos no que respeita à regulamentação do trabalho, com reflexos mais incidentes no nível das tabelas salariais.
+
+Também aqui se pretende a uniformidade, tendo de admitir-se que as divergências existentes terão de ser progressivamente superadas, pois exigem recursos financeiros de momento incomportáveis, até pelo seu envolvimento com serviços não abrangidos.
+
+11 - Temos, pois, que a mudança de uma situação de previdência e assistência sociais para um sistema de segurança social unificado ultrapassa o simples somatório dos sistemas existentes, para passar a constituir um objectivo capaz de assegurar serviços e prestações sociais que, sendo qualitativamente diferentes, venham a proporcionar a todos igualdade de oportunidades em todos os escalões da sua existência.
+
+12 - Importa ainda referir a necessidade de normalizar o equipamento existente e fazer o seu aproveitamento racional através de métodos adequados. Neste domínio, os campos mais prementes são o tratamento automático, o transporte, a difusão de informação e a microfilmagem.
+
+Nestes termos:
+
+Usando da faculdade conferida pela alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional decreta o seguinte:
+
+Artigo 1.º É criado o Centro Regional de Segurança Social da Região Autónoma da Madeira, dotado de personalidade jurídica e autonomia administrativa.
+
+Art. 2.º - 1 - O Centro Regional de Segurança Social visa a gestão racional e integrada dos sistemas de previdência e assistência sociais da Região.
+
+2 - Será dotado dos órgãos e serviços necessários ao prosseguimento dos seus fins.
+
+3 - Deverá assegurar o cumprimento, por parte das instituições particulares de assistência, dos objectivos da política social definida, quer de natureza técnica, quer quanto à qualidade dos serviços que prestam.
+
+Art. 3.º - 1 - Ficam integradas no Centro Regional de Segurança Social as instituições de previdência e serviços oficiais da área da Região, nomeadamente os serviços de previdência da caixa de previdência, os serviços de previdência rural coordenados pela delegação da Junta Central das Casas do Povo, os serviços de previdência a cargo da delegação da Caixa de Previdência dos Profissionais de Pesca, os serviços de acção directa, os estabelecimentos especializados e os de assistência dedicados à infância, juventude e terceira idade.
+
+2 - As funções de previdência social até agora exercidas pela Caixa de Previdência dos Empregados da Assistência, bem como das caixas de empresa e de actividade, serão integradas no Centro Regional de Segurança Social à medida que as respectivas estruturas orgânicas reúnam condições para o efeito.
+
+3 - Os estabelecimentos particulares de assistência poderão vir a ser integrados nos termos do disposto no n.º 3 do [Decreto Regional n.º 12/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1977-279416).
+
+Art. 4.º - 1 - O pessoal afecto ao Centro Regional de Segurança Social fica sujeito ao regime do Estatuto da Função Pública, sendo, porém, aplicáveis ao pessoal dos quadros das instituições de previdência os condicionalismos previstos no [Decreto Regulamentar n.º 68/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1977-276873), de 17 de Outubro, do MAS, com as necessárias adaptações.
+
+2 - Quando transitar de outros serviços, manterá os direitos e regalias que vinha auferindo, designadamente o de continuar a descontar para a instituição de previdência em que estava inscrito, contando-se, para efeitos de aposentação, o tempo de serviço prestado, nos termos da legislação em vigor.
+
+3 - Para preenchimento dos quadros poderão ser recrutados funcionários de outros serviços, por requisição ou em regime de comissão de serviços.
+
+Art. 5.º O presente decreto regional será objecto de diploma regulamentar.
+
+Art. 6.º O Centro Regional de Segurança Social ficará em regime de instalação pelo prazo de um ano, prorrogável, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+
+Aprovado em 3 de Janeiro de 1978.
+
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
+
+Assinado em 23 de Janeiro de 1978.
+
+O Ministro da República, Lino Dias Miguel.

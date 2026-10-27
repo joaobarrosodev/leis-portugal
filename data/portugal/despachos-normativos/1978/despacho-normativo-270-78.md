@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:329046:por
+title: Despacho Normativo n.º 270/78
+short_title: null
+summary: De delegação do Primeiro-Ministro no Alto-Comissário para os Desalojados da competência para despachar vários assuntos
+  relativos ao Comissariado para os Desalojados
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 270/78
+official_date: null
+publication_date: '1978-10-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/1978, Série I de 1978-10-04
+  number: '229'
+  series: I
+  supplement: null
+  pages: 2072 - 2072
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/10/22900/20722072.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '329046'
+  dre_path: /dr/detalhe/despacho-normativo/270-1978-329046
+  internal: pt:dre:329046:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/270-1978-329046
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/270-1978-329046
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:45:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 820dee43f15c1aa2444890944d5ca24a46bd8465cb9834647df2d0e08951a88f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:45:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ALTO Comissário para os Desalojados
+- Comissariado para os Desalojados
+- Delegação de Competências
+- Governo IV
+- Primeiro-ministro
+relationships:
+- type: cites
+  target: pt:dre:384609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492684:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:45:35Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 270/78
+
+Nos termos do artigo 1.º, n.º 1, do [Decreto-Lei n.º 736/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/736-1976-409568), de 16 de Outubro, conjugado com os artigos 1.º e 4.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, delego no Alto-Comissário para os Desalojados a competência para:
+
+a) Aprovar os orçamentos privativos do Comissariado para os Desalojados e dos organismos que deste dependem, nomeadamente do Instituto de Apoio ao Retorno de Nacionais;
+
+b) Autorizar a realização de despesas até ao montante de 20000 contos, com ou sem dispensa de concurso público e de contrato escrito;
+
+c) Nomear o pessoal do Comissariado para os Desalojados e dos organismos deste dependentes, nos termos da legislação em vigor, tendo em atenção o disposto no artigo 2.º do [Decreto-Lei n.º 3/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1977-492684), de 5 de Janeiro, bem como rescindir os respectivos contratos;
+
+d) Aplicar as penas dos n.os 3.º, 4.º, 5.º e 6.º do artigo 11.º do Estatuto Disciplinar dos Funcionários Civis do Estado;
+
+e) Autorizar a celebração de arrendamentos cuja renda anual não seja superior a 5000 contos;
+
+f) Atribuir subsídios a entidades que complementarmente prestem apoio a acções do Comissariado.
+
+Este despacho produz efeitos desde 30 de Agosto de 1978.
+
+Presidência do Conselho de Ministros, 20 de Setembro de 1978. - O Primeiro-Ministro, Alfredo Jorge Nobre da Costa.

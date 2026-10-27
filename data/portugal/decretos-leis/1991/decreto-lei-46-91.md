@@ -1,0 +1,247 @@
+---
+schema_version: '1.0'
+id: pt:dre:507810:por
+title: Decreto-Lei n.º 46/91
+short_title: null
+summary: Disciplina a publicitação, nomeadamente por meio de etiquetagem, de informação sobre o consumo de energia de aparelhos
+  domésticos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 46/91
+official_date: null
+publication_date: '1991-01-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/1991, Série I-A de 1991-01-24
+  number: '20'
+  series: I
+  supplement: null
+  pages: 420 - 422
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/01/020a00/04200422.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/46/1991/01/24/p/dre/pt/html
+  oj: null
+  dre: '507810'
+  dre_path: /dr/detalhe/decreto-lei/46-1991-507810
+  internal: pt:dre:507810:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1991-507810
+  metadata_url: https://data.dre.pt/eli/dec-lei/46/1991/01/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1991-507810
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:14:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e4a981174c55f8eb425a03ddd95c43747d86755d8dd4c7ed3f309f2c654a5bea
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Consumo de Energia
+- Contra-ordenação
+- Direcção Geral de Inspecção Económica
+- Etiquetagem
+- Fiscalização
+- Indústria Electrotécnica
+- Proteção do Consumidor
+relationships:
+- type: amended_by
+  target: pt:dre:524229:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31979L0530
+  label: null
+  source: http://data.europa.eu/eli/dir/1979/530/oj
+- type: repealed_by
+  target: pt:dre:524229:por
+  label: "Revogado pelo DEC LEI.41/94.1994.02.11.MIE DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1994-524229
+  date: '1994-02-11'
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:14:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 46/91
+
+de 24 de Janeiro
+
+É objectivo do Governo Português e do Conselho das Comunidades Europeias promover a utilização racional de energia.
+
+Para esse efeito, torna-se necessário garantir aos consumidores a veracidade das informações sobre o consumo de energia dos aparelhos domésticos.
+
+Considerando que o Conselho das Comunidades Europeias adoptou a Directiva n.º [79/530/CEE](http://data.europa.eu/eli/dir/1979/530/oj?locale=pt), de 14 de Maio, relativa à informação sobre o consumo de energia de aparelhos domésticos por meio de etiquetagem, tornando-se assim necessário dar-lhe cumprimento;
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma visa estabelecer as regras a que deve obedecer o fornecimento ao público, nomeadamente por meio de etiquetagem, de informações sobre o consumo de energia ou de informações complementares relativas aos aparelhos domésticos discriminados no artigo seguinte.
+
+2 - O disposto neste diploma não é aplicável à chapa indicativa da potência ou sua equivalente afixada nos aparelhos por motivos de segurança.
+
+###### Artigo 2.º — Campo de aplicação
+
+As disposições do presente diploma aplicam-se aos seguintes aparelhos domésticos:
+
+a) Aparelhos para aquecimento de água;
+
+b) Fornos;
+
+c) Aparelhos de refrigeração e congelação;
+
+d) Máquinas de lavar roupa;
+
+e) Televisores;
+
+f) Máquinas de lavar louça;
+
+g) Secadores de tambor;
+
+h) Máquinas de passar a ferro.
+
+###### Artigo 3.º — Informação sobre o consumo de energia
+
+1 - O fabricante, ou importador, no caso de o fabricante estar estabelecido fora das Comunidades Europeias, deve fornecer informações sobre o consumo de energia dos aparelhos domésticos referidos no artigo anterior, nomeadamente por meio de etiquetas.
+
+2 - O fornecedor da informação é responsável pela exactidão da mesma.
+
+###### Artigo 4.º — Etiquetagem
+
+1 - Quando forem fornecidas etiquetas relativas ao consumo de energia, estas são obrigatoriamente apostas pelos comerciantes nos aparelhos, em local visível e legível, sempre que estes estiverem colocados em exposição ou para venda ao público.
+
+2 - As etiquetas devem ser conformes aos anexos I, II e III, que fazem parte integrante deste diploma, e, ainda, às especificações definidas nos regulamentos relativos a cada aparelho, previstos no artigo seguinte.
+
+3 - As indicações são obrigatoriamente escritas em língua portuguesa.
+
+###### Artigo 5.º — Regulamentação, específica de cada tipo de aparelho
+
+Relativamente a cada tipo de aparelho referido no artigo 2.º, as disposições regulamentares sobre informação do consumo de energia e informações complementares, bem como as normas técnicas relativas aos métodos de medição do consumo de energia, são estabelecidas por portaria do Ministro da Indústria e Energia.
+
+###### Artigo 6.º — Fiscalização
+
+A competência para a fiscalização do cumprimento do disposto neste diploma cabe à Direcção-Geral de Energia e à Direcção-Geral de Inspecção Económica.
+
+###### Artigo 7.º — Amostragem
+
+1 - A comprovação da veracidade das informações sobre o consumo de energia será feita por amostragem.
+
+2 - Para efeitos do número anterior, as amostras serão cedidas gratuitamente à entidade fiscalizadora pelo fabricante ou importador, sendo devolvidas depois de efectuados os respectivos ensaios.
+
+3 - As entidades fiscalizadoras podem exigir dos agentes económicos em causa as informações e demais apoios necessários ao exercício da sua função fiscalizadora e solicitar das entidades policiais todo o auxílio de que necessitem para o mesmo efeito.
+
+###### Artigo 8.º — Responsabilidade pelos encargos
+
+1 - Os encargos decorrentes da realização dos ensaios, tendo em vista a verificação da veracidade da informação sobre o consumo de energia, serão suportados pelas entidades que promoveram a verificação.
+
+2 - Caso se verifique que o consumo de energia do aparelho não corresponde ao declarado, os encargos referidos no número anterior serão suportados pelo agente económico que forneceu a informação.
+
+###### Artigo 9.º — Contra-ordenações
+
+1 - A inveracidade da informação a que se refere o artigo 3.º bem como a infracção ao disposto no artigo 4.º e nas disposições regulamentares previstas no artigo 5.º, constituem contra-ordenação punível com coima de 10000$00 a 500000$00.
+
+2 - A negligência é punível.
+
+3 - As entidades fiscalizadoras referidas no artigo 6.º procedem à instrução dos processos relativos às contra-ordenações verificadas.
+
+###### Artigo 10.º — Competência para a aplicação de coimas
+
+A aplicação das coimas previstas neste diploma é da competência do director-geral de Energia, a quem devem ser enviados, após instrução, os processos contra-ordenacionais.
+
+###### Artigo 11.º — Distribuição do produto das coimas
+
+O produto resultante da aplicação das coimas tem a seguinte distribuição:
+
+a) 30% para a entidade instrutora;
+
+b) 10% para a Direcção-Geral de Energia;
+
+c) 60% para o Estado.
+
+###### Artigo 12.º — Regiões autónomas
+
+O presente diploma aplica-se a todo o território nacional, sem prejuízo de os órgãos competentes das regiões autónomas lhe poderem introduzir as adaptações exigidas pelas competências orgânicas dos respectivos serviços regionais.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia 2 de Janeiro de 1991.
+
+Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - José António Leite de Araújo - Fernando Nunes Ferreira Real.
+
+Promulgado em 31 de Dezembro de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 3 de Janeiro de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## ANEXO I
+
+1 - A etiqueta com as informações relativas ao consumo de energia deve ter a forma e as dimensões ilustradas no anexo II e conter no canto superior esquerdo o sinal reproduzido no anexo III.
+
+2 - As dimensões exteriores da etiqueta são de 90 mm x 100 mm. Os cantos de cada etiqueta são arredondados, com um raio de 6 mm.
+
+3 - A etiqueta é impressa em preto sobre um fundo cor de laranja.
+
+4 - A parte superior tem 10 mm de altura e contém o sinal reproduzido no anexo III e impresso no lugar ilustrado no anexo II.
+
+5 - A informação específica deve ficar numa zona delimitada por um traço com 78 mm x 74 mm.
+
+6 - É reservado um espaço na parte superior do quadro para a informação específica para a designação do tipo de aparelho, a marca e a referência do modelo; a sua dimensão é determinada separadamente para cada tipo de aparelho.
+
+7 - Cada espaço deve ser separado dos seguintes por um traço horizontal.
+
+8 - É admitida uma tolerância de 20% em relação às dimensões acima indicadas.
+
+9 - Os fabricantes devem fornecer com cada aparelho um jogo de etiquetas facilmente destacáveis do seu suporte e ter no verso um produto adesivo que permita apô-las no aparelho e retirá-las facilmente após a compra sem que subsistam vestígios que não possam ser apagados por produtos de limpeza usuais, ou aderir ao aparelho por efeito electrostático.
+
+10 - As características inscritas na etiqueta podem ser completadas e modificadas acrescentando outros dados, resultados de medidas ou sinais de aprovação, tais como o consumo de água ou o nível de ruído, exigidos por outras disposições legais.
+
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/020a00/04200422.pdf)
+
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/020a00/04200422.pdf)

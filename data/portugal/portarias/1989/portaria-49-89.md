@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:610920:por
+title: Portaria n.º 49/89
+short_title: null
+summary: Revoga o n.º 7.º e o n.º 1 do n.º 8.º da Portaria n.º 925-R/87, de 4 de Dezembro, na redacção que lhe foi dada pela
+  Portaria n.º 683/88, de 14 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo
+proposing_entity: null
+official_number: 49/89
+official_date: null
+publication_date: '1989-01-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/1989, Série I de 1989-01-26
+  number: '22'
+  series: I
+  supplement: null
+  pages: 338 - 338
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/01/02200/03380338.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '610920'
+  dre_path: /dr/detalhe/portaria/49-1989-610920
+  internal: pt:dre:610920:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/49-1989-610920
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/49-1989-610920
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:54:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 724e22b391d62570f5c956e4f56015b93515057727c492350c7dc717674b0c27
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:54:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Leite
+- Preço
+- Preço Máximo
+relationships:
+- type: cites
+  target: pt:dre:355118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514045:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:54:22Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 49/89
+
+de 26 de Janeiro
+
+O leite pasteurizado embalado em plástico para utilizar fora do local de aquisição é o único tipo de leite ainda sujeito ao regime de preços máximos.
+
+Considerando não existir qualquer razão ponderosa para manter tal discriminação em relação aos restantes tipos de leite para consumo em natureza:
+
+Ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro:
+
+Manda o Governo, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo, o seguinte:
+
+1.º São revogados o n.º 7.º e o n.º 1 do n.º 8.º da [Portaria n.º 925-R/87](https://diariodarepublica.pt/dr/detalhe/portaria/925-r-1987-514045), de 4 de Dezembro, na redacção que lhe foi dada pela [Portaria n.º 683/88](https://diariodarepublica.pt/dr/detalhe/portaria/683-1988-355118), de 14 de Outubro.
+
+2.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
+
+Assinada em 4 de Janeiro de 1989.
+
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

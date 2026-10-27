@@ -1,0 +1,281 @@
+---
+schema_version: '1.0'
+id: pt:dre:566808:por
+title: Decreto-Lei n.º 247/95
+short_title: null
+summary: Altera o regime jurídico do Fundo de Turismo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 247/95
+official_date: null
+publication_date: '1995-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 218/1995, Série I-A de 1995-09-20
+  number: '218'
+  series: I
+  supplement: null
+  pages: 5877 - 5879
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/09/218a00/58775879.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/247/1995/09/20/p/dre/pt/html
+  oj: null
+  dre: '566808'
+  dre_path: /dr/detalhe/decreto-lei/247-1995-566808
+  internal: pt:dre:566808:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1995-566808
+  metadata_url: https://data.dre.pt/eli/dec-lei/247/1995/09/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1995-566808
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:39:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ad123be4846b4364810f960f836fbfd1c06a145f56af5893fe61f85d1ad746ee
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio ao Investimento
+- Comissão Administrativa
+- Comissão de Fiscalização
+- Crédito
+- Crédito ao Investimento
+- Definição de Competências
+- Financiamento
+- Fundo de Turismo
+- Infraestrutura Turística
+- Receita Própria
+- Subsídio
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:426693:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:214264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620728:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426693:por
+  label: "Revogado, mantendo-se em vigor as disposições que o regulamentam até à data da entrada em vigor dos novos regulamentos,\
+    \ pelo DEC LEI.308/99.1999.08.10.MECO, DR.IS-A [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1999-426693
+  date: '1999-08-10'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:39:35Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 247/95
+
+de 20 de Setembro
+
+O Fundo de Turismo rege-se, presentemente, por um conjunto de normas dispersas por vários diplomas legais, publicados ao longo do tempo, em razão dos circunstancialismos e das exigências do momento.
+
+Tal situação exigirá, dentro de algum tempo, uma revisão integral do regime jurídico do Fundo de Turismo, com vista a dotar aquele organismo de um quadro normativo que melhor o habilite a desempenhar o papel que lhe está atribuído no domínio do apoio financeiro ao sector do turismo.
+
+Todavia, sem prejuízo dessa posterior revisão global, considera-se necessário proceder, desde já, a uma alteração pontual do regime jurídico do Fundo de Turismo, no que toca às suas atribuições e às competências dos seus órgãos, bem como ao estatuto financeiro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º - 1 - O Fundo de Turismo é uma pessoa colectiva pública, dotada de autonomia administrativa e financeira.
+
+2 - O património do Fundo de Turismo é constituído pela universalidade dos seus direitos e obrigações.
+
+3 - Os bens imóveis de que seja titular o Fundo de Turismo e que integrem o respectivo domínio privado podem ser alienados por qualquer forma admitida em direito.
+
+Art. 2.º O artigo 3.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, passa a ter a seguinte redacção:
+
+Art. 3.º - 1 - Para a prossecução das suas atribuições, compete ao Fundo de Turismo:
+
+a) Conceder empréstimos;
+
+b) Conceder subsídios e comparticipações financeiras, directas ou indirectas, incluindo bonificações de juros e de rendas;
+
+c) Participar em operações de co-financiamento ou refinanciamento em associação com outras entidades;
+
+d) Proceder à aplicação financeira das respectivas receitas;
+
+e) Participar no capital de quaisquer sociedades, constituídas ou a constituir, quando tal participação contribua manifestamente para o desenvolvimento do turismo;
+
+f) Emitir obrigações e quaisquer outros títulos de crédito, à excepção dos de curto prazo;
+
+g) Fiscalizar a aplicação dos empréstimos, subsídios e comparticipações que haja concedido, de modo a assegurar o cumprimento das obrigações assumidas pelos beneficiários.
+
+2 - Para efeitos do disposto na alínea d) do número anterior, considera-se aplicação financeira de capitais a titularidade de depósitos em instituições de crédito e de quaisquer valores mobiliários de natureza não monetária, com excepção de acções e de valores mobiliários que atribuam direitos de aquisição ou de subscrição daquelas.
+
+3 - São susceptíveis de apoio, nos termos das alíneas a) a c) do n.º 1, nomeadamente:
+
+a) A aquisição, construção, remodelação, ampliação, adaptação, reconversão, apetrechamento e instalação de empreendimentos turísticos;
+
+b) As acções de recuperação de património histórico e de desenvolvimento de infra-estruturas públicas com interesse para o turismo;
+
+c) A prestação de serviços na área do turismo;
+
+d) As iniciativas de animação turística, tais como festivais, competições e manifestações culturais e desportivas;
+
+e) As acções de promoção turística, em território português ou fora dele;
+
+f) As acções de formação profissional na área do turismo;
+
+g) A elaboração de estudos e projectos susceptíveis de contribuir para o desenvolvimento do turismo.
+
+4 - O exercício das competências previstas nas alíneas e) e f) do n.º 1 carece de autorização, a conceder por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área do turismo.
+
+Art. 3.º São aditados ao [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, os artigos 2.º-B, 2.º-C, 3.º-A, 5.º-A e 5.º-B, com a seguinte redacção:
+
+Art. 2.º-B - 1 - Compete à comissão administrativa:
+
+a) Praticar os actos correspondentes à prossecução das atribuições do Fundo de Turismo;
+
+b) Gerir o património do Fundo de Turismo, tomando todas as medidas necessárias para o efeito, designadamente a aprovação dos actos conducentes ou resultantes da aquisição, alienação ou oneração de bens;
+
+c) Elaborar a proposta de orçamento, o plano de actividades e os demais instrumentos de gestão previsional, a submeter a aprovação do membro do Governo responsável pela área do turismo;
+
+d) Elaborar o relatório de actividades, o balanço analítico, a demonstração de resultados líquidos e os demais documentos de prestação de contas, a submeter a aprovação do membro do Governo responsável pela área do turismo;
+
+e) Autorizar a realização das despesas necessárias ao funcionamento do Fundo de Turismo;
+
+f) Submeter ao membro do Governo responsável pela área do turismo a proposta do quadro de pessoal do Fundo de Turismo, acompanhada de parecer da comissão de fiscalização;
+
+g) Gerir o pessoal;
+
+h) Apresentar, anualmente, o balanço social ao membro do Governo responsável pela área do turismo;
+
+i) Aprovar o seu regimento e os demais regulamentos internos;
+
+j) Delegar no presidente, ou no vogal que o substitua, a competência para autorizar a realização de despesas, definindo os termos e limites dos poderes delegados;
+
+l) Exercer os demais poderes necessários à prossecução dos fins e salvaguarda dos direitos do Fundo de Turismo.
+
+2 - A comissão administrativa poderá ainda exercer outras competências que, no âmbito geral das atribuições do Fundo de Turismo, lhe sejam delegadas pelo membro do Governo responsável pela área do turismo.
+
+Art. 2.º-C - 1 - Compete à comissão de fiscalização:
+
+a) Dar parecer sobre as propostas de plano de actividades, orçamento e demais instrumentos de gestão previsional;
+
+b) Acompanhar a gestão do Fundo de Turismo, através da análise dos documentos correspondentes, podendo proceder aos exames e conferências que considerar convenientes;
+
+c) Dar parecer sobre o relatório de actividades da comissão administrativa e demais documentos de prestação de contas;
+
+d) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhes servem de suporte, examinar periodicamente a situação económico-financeira do Fundo de Turismo e proceder ao apuramento dos valores patrimoniais;
+
+e) Fiscalizar a execução do orçamento do Fundo de Turismo;
+
+f) Dar parecer sobre as incidências financeira e orçamental das deliberações da comissão administrativa respeitantes ao quadro de pessoal e à estrutura de serviços;
+
+g) Proceder à verificação dos fundos em caixa e em depósito e analisar os lançamentos contabilísticos;
+
+h) Dar conhecimento à comissão administrativa e ao membro do Governo responsável pela área do turismo do resultado das verificações e exames a que proceda;
+
+i) Pronunciar-se sobre a aquisição, oneração ou alienação de bens imóveis pelo Fundo de Turismo;
+
+j) Pronunciar-se sobre quaisquer assuntos relativos à actividade do Fundo de Turismo, a pedido da comissão administrativa ou do membro do Governo responsável pela área do turismo.
+
+2 - No exercício das competências previstas no número anterior, a comissão de fiscalização, através do seu presidente, poderá solicitar à comissão administrativa os elementos, informações e auditorias externas julgados necessários.
+
+Art. 3.º-A - 1 - O crédito a conceder pelo Fundo de Turismo deve ser garantido por hipoteca sobre o imóvel onde estiver ou vier a ser implantado o empreendimento a apoiar, ou por fiança ou garantia bancária, podendo, excepcionalmente, ser aceites quaisquer outras garantias admitidas em direito.
+
+2 - O relatório anual de actividades do Fundo de Turismo conterá, em anexo, a relação dos subsídios concedidos no ano em causa, com menção das entidades beneficiárias e dos respectivos montantes.
+
+Art. 5.º-A. Constituem receitas do Fundo de Turismo:
+
+a) As verbas provenientes do imposto sobre o jogo e das contrapartidas das concessões das zonas de jogo, nos termos da lei;
+
+b) As comparticipações, dotações, transferências e subsídios provenientes do Orçamento do Estado ou de quaisquer entidades públicas ou privadas, bem como do Orçamento da Comunidade Europeia;
+
+c) O rendimento de bens próprios;
+
+d) As comissões recebidas por garantias e serviços prestados;
+
+e) As heranças, legados e doações que lhe sejam destinados;
+
+f) O produto da alienação ou cedência, a qualquer título, de direitos;
+
+g) Os juros, amortizações e reembolsos dos empréstimos concedidos;
+
+h) O produto de aplicações financeiras;
+
+i) O produto da emissão de obrigações ou de outros títulos de crédito;
+
+j) Os saldos de gerência anterior;
+
+l) Quaisquer outras receitas, resultantes da prossecução das suas atribuições, que lhe sejam atribuídas por lei, contrato ou outro título.
+
+Art. 5.º-B. As certidões negativas de pagamento emitidas pela comissão administrativa do Fundo de Turismo constituem título executivo bastante, nos termos previstos na alínea d) do artigo 46.º do Código de Processo Civil.
+
+Art. 4.º O disposto no artigo 5.º-B do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, com a redacção que lhe foi dada pelo artigo anterior, não se aplica aos processos pendentes, continuando estes a reger-se pelo disposto no Código de Processo Tributário.
+
+Art. 5.º - 1 - São revogados:
+
+a) O n.º 6 do artigo 1.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 341/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1987-496078), de 21 de Outubro;
+
+b) O [Decreto-Lei n.º 203/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1989-620728), de 22 de Junho.
+
+2 - Mantêm-se em vigor os despachos normativos aprovados ao abrigo do [Decreto-Lei n.º 149/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1980-474145), de 23 de Maio.
+
+Visto e aprovado em Conselho de Ministros de 13 de Julho de 1995. - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Alexandre Carlos de Mello Vieira Costa Relvas.
+
+Promulgado em 7 de Setembro de 1995.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 11 de Setembro de 1995.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

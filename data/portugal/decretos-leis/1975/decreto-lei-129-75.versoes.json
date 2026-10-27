@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:161084:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1975-178860585",
+ "dre_path": "/dr/detalhe/decreto-lei/129-1975-161084",
+ "source_lastmod": "2025-06-18",
+ "versions": [
+  {
+   "date": "1975-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921943648",
+    "178862778",
+    "178862779"
+   ]
+  },
+  {
+   "date": "1975-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:443139:por",
+     "title": "Rectificação",
+     "published": "1975-06-02",
+     "dre_path": "/dr/detalhe/rectificacao/1975-443139"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º"
+   ],
+   "fragments": [
+    "178862777",
+    "921824258",
+    "178862779",
+    "178862780"
+   ]
+  },
+  {
+   "date": "2019-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122434535:por",
+     "title": "Lei n.º 36/2019",
+     "published": "2019-05-29",
+     "dre_path": "/dr/detalhe/lei/36-2019-122434535"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "921943648",
+    "921943649",
+    "921943650",
+    "921943651"
+   ]
+  }
+ ],
+ "fragments": {
+  "921943648": {
+   "fragment_id": "178860586",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-06-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 129/75\n\nde 13 de Março\n\n1. Destina-se o imposto de compensação, como se sabe, a compensar o Estado da utilização, em veículos automóveis, dos carburantes ou combustíveis que, por razões de protecção à lavoura e à indústria, não estão sujeitos aos mesmos impostos que oneram a gasolina.\n\nPor idênticos motivos, os recentes aumentos dos preços dos combustíveis líquidos, determinados essencialmente pelas alterações sofridas, na origem, nos preços das ramas do petróleo, incidiram muito mais sobre a gasolina que sobre o gasóleo e restantes combustíveis.\n\nTal facto fez alargar, em muito, a anterior diferença do custo por quilómetro desses combustíveis, quando utilizados nos veículos automóveis.\n\nAssim, impõe-se ao Governo a actualização das taxas do imposto de compensação, vigentes desde 1 de Julho de 1970, de forma a manter o princípio da igualdade tributária entre os utentes de veículos automóveis que utilizam combustíveis diferentes.\n\nÉ o que se faz, fundamentalmente, pelo presente diploma, sem prejuízo, aliás, de uma reforma geral da tributação específica da actividade transportadora rodoviária.\n\nDeve frisar-se, no entanto, que, por motivos de ordem económica e social, se restringiu o aumento das taxas aos veículos automóveis de passageiros e mistos de serviço particular.\n\nAo manter inalteradas as taxas sobre os restantes veículos, dos quais se salientam todos os de carga e os de passageiros de serviço público, bem como as anteriores isenções e proteccionismos à lavoura, concretiza o Governo, nesta matéria, o propósito de, essencialmente, limitar o agravamento do custo dos respectivos transportes.\n\nDeve ainda realçar-se que, com o mesmo objectivo, se mantiveram as anteriores taxas para os veículos pesados de serviço particular, mas licenciados ao abrigo da Portaria n.º 19937, de 9 de Julho de 1963, para o transporte de alunos, hóspedes, empregados, passageiros e tripulantes das carreiras aéreas e suas bagagens.\n\n2. Aproveitou-se ainda a oportunidade para, por razões de coordenação, introduzir algumas correcções às taxas do imposto de circulação, que constituem o primeiro passo tendente a reduzir a actual distorção existente no sistema fiscal vigente para os transportes particulares e públicos de mercadorias.\n\nAgravou-se, assim, aquele imposto por forma a, reflexamente, provocar um aumento da procura dos transportes públicos rodoviários de mercadorias, que importa desenvolver em detrimento da expansão do parque de veículos afectos ao transporte particular de mercadorias, que tem continuado a verificar-se, não obstante as medidas restritivas instituídas pelo Decreto-Lei n.º 45331, de 28 de Outubro de 1963, e pelo Decreto-Lei n.º 45993, de 27 de Outubro de 1964, que actualizou a redacção de algumas das suas disposições.\n\nEsse agravamento traduz-se na elevação das taxas actuais em percentagens maiores (20% e 12,5%) nos casos em que o imposto de circulação era inferior ao imposto de camionagem que onera os transportes públicos de mercadorias (veículos licenciados, respectivamente, para raio de 30 km e 50 km) e menor (8%) quando aquele já era superior (veículos licenciados sem limite de raio).\n\nMantiveram-se, porém, sem agravamento os casos especiais dos transportes previstos nos artigos 10.º e 12.º do diploma agora alterado, por se entender que continuam a merecer um proteccionismo sectorial determinado pela natureza específica das actividades que acessória e complementarmente os exigem.\n\nPor idênticas razões, e pela especial incidência que o seu agravamento teria naqueles tipos de transportes, mantém-se em 300$00 o valor mínimo de cobrança anual do imposto de circulação.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "178862778": {
+   "fragment_id": "178860587",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO corpo dos artigos 6.º, 10.º e 12.º e o artigo 22.º do Decreto-Lei n.º 45331, de 28 de Outubro de 1963, passam a ter a seguinte redacção:\n\nArt. 6.º Os veículos licenciados nos termos do artigo 1.º ficarão sujeitos ao imposto de circulação, o qual, por veículo e para cada raio de acção, se deduz do valor do imposto de camionagem exigível em iguais áreas circulares pela aplicação das seguintes percentagens:\n\nR = 30 km ... 60\n\nR = 50 km ... 90\n\nR = 100 km ... 110\n\nR = ilimitado ... 135\n\nem que R representa o raio de círculo a que se refere o artigo 3.º\n\n§ 1.º ...\n\n§ 2.º ...\n\n§ 3.º ...\n\n...\n\nArt. 10.º O imposto de circulação devido pelos veículos de carga a que se refere o § 2.º do artigo 3.º, quando licenciados para as áreas circulares aí mencionadas, será inferior a 50% ao de camionagem que for exigível a veículos de idêntico peso bruto inscritos para áreas de 30 km de raio, sem prejuízo, porém, do mínimo de cobrança estabelecido no § 1.º do artigo 6.º\n\n§ único. ...\n\n...\n\nArt. 12.º Pelos transportes de produtos agrícolas ou directamente ligados à agricultura efectuados em veículos a eles exclusivamente afectos, dentro de uma área circular de 50 km de raio, com centro na localidade em que o veículo estiver inscrito, incidirá um imposto de circulação correspondente ao cobrado a veículos do mesmo peso bruto inscritos para transitarem em áreas circulares de 30 km de raio, reduzindo-se para 20% a percentagem de 60% a que se refere o artigo 6.º, sem prejuízo do mínimo de cobrança nele estabelecido.\n\n§ único. ...\n\n...\n\nArt. 22.º Os proprietários de automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos no Decreto-Lei n.º 32440, de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação de harmonia com as taxas anuais constantes da tabela seguinte:\n\n1. Automóveis de passageiros de serviço particular:\n\nLotação inferior ou igual a nove lugares ... 12000$00\n\nLotação superior a nove e inferior ou igual a vinte lugares ... 12420$00\n\nLotação superior a vinte lugares ... 15600$00\n\n2. Automóveis mistos de serviço particular:\n\n2.1. Ligeiros ... 12000$00\n\n2.2. Pesados:\n\nPeso bruto inferior ou igual a 7000 kg ... 15600$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\n3. Automóveis de carga de serviço particular:\n\n3.1. Ligeiros ... 5460$00\n\n3.2. Pesados:\n\nPeso bruto inferior ou igual a 7000 kg ... 9840$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\n4. Automóveis de passageiros de serviço público:\n\nLotação inferior ou igual a nove lugares ... 5460$00\n\nLotação superior a nove e inferior ou igual a vinte lugares ... 5880$00\n\nLotação superior a vinte lugares ... 9840$00\n\n5. Automóveis de carga e mistos de serviço público:\n\n5.1. Ligeiros ... 5460$00\n\n5.2. Pesados:\n\na) Aluguer e instrução:\n\nPeso bruto inferior ou igual a 7000 kg ... 8760$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\nb) Carreiras ... 8760$00\n\n6. Tractores agrícolas com caixa de carga comportando carga:\n\nÚtil superior a 1500 kg:\n\n6.1. De cilindrada até 2000 cm3 ... 2100$00\n\n6.2. De 2000 cm3 a 3000 cm3 ... 3600$00\n\n6.3. Superior a 3000 cm3 ... 5000$00\n\n§ 1.º O valor do imposto de compensação devido pelos automóveis pesados de serviço particular licenciados ao abrigo da Portaria n.º 19937, de 9 de Julho de 1963, será o resultante da aplicação das seguintes taxas:\n\na) Automóveis de passageiros:\n\nLotação até vinte lugares ... 5880$00\n\nLotação superior a vinte lugares ... 9840$00\n\nb) Automóveis mistos:\n\nPeso bruto inferior ou igual a 7000 kg ... 9840$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\n§ 2.º O valor do imposto de compensação devido pelos automóveis de carga exclusivamente afectos ao transporte de produtos agrícolas ou directamente ligados à agricultura e licenciados ao abrigo do artigo 12.º será o resultante da aplicação das seguintes taxas:\n\na) Ligeiros ... 4200$00\n\nb) Pesados:\n\nPeso bruto inferior ou igual a 7000 kg ... 7560$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 516$00\n\n§ 3.º O valor do imposto de compensação devido pelos automóveis de carga adstritos ao serviço de aluguer, licenciados para o raio de acção não superior a 30 km e com sede em centros urbanos com população residente superior a 30000 habitantes, será o que resulta da aplicação das taxas referidas no corpo deste artigo, com a redução de 20%.\n\n§ 4.º No caso de tractores não agrícolas e de veículos de carga autorizados a transitarem com reboques, o peso bruto a considerar para o cálculo do imposto de compensação compreenderá, além do peso bruto do veículo tractor, o peso bruto que este estiver autorizado a rebocar."
+  },
+  "178862779": {
+   "fragment_id": "178860588",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs valores fixados no artigo anterior serão aplicáveis aos impostos devidos a partir de 1 de Janeiro do ano corrente."
+  },
+  "178862777": {
+   "fragment_id": "178860586",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 129/75\n\nde 13 de Março\n\n1. Destina-se o imposto de compensação, como se sabe, a compensar o Estado da utilização, em veículos automóveis, dos carburantes ou combustíveis que, por razões de protecção à lavoura e à indústria, não estão sujeitos aos mesmos impostos que oneram a gasolina.\n\nPor idênticos motivos, os recentes aumentos dos preços dos combustíveis líquidos, determinados essencialmente pelas alterações sofridas, na origem, nos preços das ramas do petróleo, incidiram muito mais sobre a gasolina que sobre o gasóleo e restantes combustíveis.\n\nTal facto fez alargar, em muito, a anterior diferença do custo por quilómetro desses combustíveis, quando utilizados nos veículos automóveis.\n\nAssim, impõe-se ao Governo a actualização das taxas do imposto de compensação, vigentes desde 1 de Julho de 1970, de forma a manter o princípio da igualdade tributária entre os utentes de veículos automóveis que utilizam combustíveis diferentes.\n\nÉ o que se faz, fundamentalmente, pelo presente diploma, sem prejuízo, aliás, de uma reforma geral da tributação específica da actividade transportadora rodoviária.\n\nDeve frisar-se, no entanto, que, por motivos de ordem económica e social, se restringiu o aumento das taxas aos veículos automóveis de passageiros e mistos de serviço particular.\n\nAo manter inalteradas as taxas sobre os restantes veículos, dos quais se salientam todos os de carga e os de passageiros de serviço público, bem como as anteriores isenções e proteccionismos à lavoura, concretiza o Governo, nesta matéria, o propósito de, essencialmente, limitar o agravamento do custo dos respectivos transportes.\n\nDeve ainda realçar-se que, com o mesmo objectivo, se mantiveram as anteriores taxas para os veículos pesados de serviço particular, mas licenciados ao abrigo da Portaria n.º 19937, de 9 de Julho de 1963, para o transporte de alunos, hóspedes, empregados, passageiros e tripulantes das carreiras aéreas e suas bagagens.\n\n2. Aproveitou-se ainda a oportunidade para, por razões de coordenação, introduzir algumas correcções às taxas do imposto de circulação, que constituem o primeiro passo tendente a reduzir a actual distorção existente no sistema fiscal vigente para os transportes particulares e públicos de mercadorias.\n\nAgravou-se, assim, aquele imposto por forma a, reflexamente, provocar um aumento da procura dos transportes públicos rodoviários de mercadorias, que importa desenvolver em detrimento da expansão do parque de veículos afectos ao transporte particular de mercadorias, que tem continuado a verificar-se, não obstante as medidas restritivas instituídas pelo Decreto-Lei n.º 45331, de 28 de Outubro de 1963, e pelo Decreto-Lei n.º 45993, de 27 de Outubro de 1964, que actualizou a redacção de algumas das suas disposições.\n\nEsse agravamento traduz-se na elevação das taxas actuais em percentagens maiores (20% e 12,5%) nos casos em que o imposto de circulação era inferior ao imposto de camionagem que onera os transportes públicos de mercadorias (veículos licenciados, respectivamente, para raio de 30 km e 50 km) e menor (8%) quando aquele já era superior (veículos licenciados sem limite de raio).\n\nMantiveram-se, porém, sem agravamento os casos especiais dos transportes previstos nos artigos 10.º e 12.º do diploma agora alterado, por se entender que continuam a merecer um proteccionismo sectorial determinado pela natureza específica das actividades que acessória e complementarmente os exigem.\n\nPor idênticas razões, e pela especial incidência que o seu agravamento teria naqueles tipos de transportes, mantém-se em 300$00 o valor mínimo de cobrança anual do imposto de circulação.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "921824258": {
+   "fragment_id": "178860587",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1975-06-02",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1975, 3º Suplemento, Série I de 1975-06-02](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-443139), em vigor a partir de 1975-06-02"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO corpo dos artigos 6.º, 10.º e 12.º e o artigo 22.º do Decreto-Lei n.º 45331, de 28 de Outubro de 1963, passam a ter a seguinte redacção:\n\nArt. 6.º Os veículos licenciados nos termos do artigo 1.º ficarão sujeitos ao imposto de circulação, o qual, por veículo e para cada raio de acção, se deduz do valor do imposto de camionagem exigível em iguais áreas circulares pela aplicação das seguintes percentagens:\n\nR = 30 km ... 60\n\nR = 50 km ... 90\n\nR = 100 km ... 110\n\nR = ilimitado ... 135\n\nem que R representa o raio de círculo a que se refere o artigo 3.º\n\n§ 1.º ...\n\n§ 2.º ...\n\n§ 3.º ...\n\n...\n\nArt. 10.º O imposto de circulação devido pelos veículos de carga a que se refere o § 2.º do artigo 3.º, quando licenciados para as áreas circulares aí mencionadas, será inferior em 50% ao de camionagem que for exigível a veículos de idêntico peso bruto inscritos para áreas de 30 km de raio, sem prejuízo, porém, do mínimo de cobrança estabelecido no § 1.º do artigo 6.º\n\n§ único. ...\n\n...\n\nArt. 12.º Pelos transportes de produtos agrícolas ou directamente ligados à agricultura efectuados em veículos a eles exclusivamente afectos, dentro de uma área circular de 50 km de raio, com centro na localidade em que o veículo estiver inscrito, incidirá um imposto de circulação correspondente ao cobrado a veículos do mesmo peso bruto inscritos para transitarem em áreas circulares de 30 km de raio, reduzindo-se para 20% a percentagem de 60% a que se refere o artigo 6.º, sem prejuízo do mínimo de cobrança nele estabelecido.\n\n§ único. ...\n\n...\n\nArt. 22.º Os proprietários de automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos no Decreto-Lei n.º 32440, de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação de harmonia com as taxas anuais constantes da tabela seguinte:\n\n1. Automóveis de passageiros de serviço particular:\n\nLotação inferior ou igual a nove lugares ... 12000$00\n\nLotação superior a nove e inferior ou igual a vinte lugares ... 12420$00\n\nLotação superior a vinte lugares ... 15600$00\n\n2. Automóveis mistos de serviço particular:\n\n2.1. Ligeiros ... 12000$00\n\n2.2. Pesados:\n\nPeso bruto inferior ou igual a 7000 kg ... 15600$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\n3. Automóveis de carga de serviço particular:\n\n3.1. Ligeiros ... 5460$00\n\n3.2. Pesados:\n\nPeso bruto inferior ou igual a 7000 kg ... 9840$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\n4. Automóveis de passageiros de serviço público:\n\nLotação inferior ou igual a nove lugares ... 5460$00\n\nLotação superior a nove e inferior ou igual a vinte lugares ... 5880$00\n\nLotação superior a vinte lugares ... 9840$00\n\n5. Automóveis de carga e mistos de serviço público:\n\n5.1. Ligeiros ... 5460$00\n\n5.2. Pesados:\n\na) Aluguer e instrução:\n\nPeso bruto inferior ou igual a 7000 kg ... 8760$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\nb) Carreiras ... 8760$00\n\n6. Tractores agrícolas com caixa de carga comportando carga útil superior a 1500 kg:\n\n6.1. De cilindrada até 2000 cm3 ... 2100$00\n\n6.2. De 2000 cm3 a 3000 cm3 ... 3600$00\n\n6.3. Superior a 3000 cm3 ... 5000$00\n\n§ 1.º O valor do imposto de compensação devido pelos automóveis pesados de serviço particular licenciados ao abrigo da Portaria n.º 19937, de 9 de Julho de 1963, será o resultante da aplicação das seguintes taxas:\n\na) Automóveis de passageiros:\n\nLotação até vinte lugares ... 5880$00\n\nLotação superior a vinte lugares ... 9840$00\n\nb) Automóveis mistos:\n\nPeso bruto inferior ou igual a 7000 kg ... 9840$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\n§ 2.º O valor do imposto de compensação devido pelos automóveis de carga exclusivamente afectos ao transporte de produtos agrícolas ou directamente ligados à agricultura e licenciados ao abrigo do artigo 12.º será o resultante da aplicação das seguintes taxas:\n\na) Ligeiros ... 4200$00\n\nb) Pesados:\n\nPeso bruto inferior ou igual a 7000 kg ... 7560$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 516$00\n\n§ 3.º O valor do imposto de compensação devido pelos automóveis de carga adstritos ao serviço de aluguer, licenciados para o raio de acção não superior a 30 km e com sede em centros urbanos com população residente superior a 30000 habitantes, será o que resulta da aplicação das taxas referidas no corpo deste artigo, com a redução de 20%.\n\n§ 4.º No caso de tractores não agrícolas e de veículos de carga autorizados a transitarem com reboques, o peso bruto a considerar para o cálculo do imposto de compensação compreenderá, além do peso bruto do veículo tractor, o peso bruto que este estiver autorizado a rebocar.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1975, 3º Suplemento, Série I de 1975-06-02](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-443139), em vigor a partir de 1975-06-02"
+  },
+  "178862780": {
+   "fragment_id": "178860589",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "921943649": {
+   "fragment_id": "178860587",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1975, 3º Suplemento, Série I de 1975-06-02](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-443139), em vigor a partir de 1975-06-02"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO corpo dos artigos 6.º, 10.º e 12.º e o artigo 22.º do Decreto-Lei n.º 45331, de 28 de Outubro de 1963, passam a ter a seguinte redacção:\n\nArt. 6.º Os veículos licenciados nos termos do artigo 1.º ficarão sujeitos ao imposto de circulação, o qual, por veículo e para cada raio de acção, se deduz do valor do imposto de camionagem exigível em iguais áreas circulares pela aplicação das seguintes percentagens:\n\nR = 30 km ... 60\n\nR = 50 km ... 90\n\nR = 100 km ... 110\n\nR = ilimitado ... 135\n\nem que R representa o raio de círculo a que se refere o artigo 3.º\n\n§ 1.º ...\n\n§ 2.º ...\n\n§ 3.º ...\n\n...\n\nArt. 10.º O imposto de circulação devido pelos veículos de carga a que se refere o § 2.º do artigo 3.º, quando licenciados para as áreas circulares aí mencionadas, será inferior em 50% ao de camionagem que for exigível a veículos de idêntico peso bruto inscritos para áreas de 30 km de raio, sem prejuízo, porém, do mínimo de cobrança estabelecido no § 1.º do artigo 6.º\n\n§ único. ...\n\n...\n\nArt. 12.º Pelos transportes de produtos agrícolas ou directamente ligados à agricultura efectuados em veículos a eles exclusivamente afectos, dentro de uma área circular de 50 km de raio, com centro na localidade em que o veículo estiver inscrito, incidirá um imposto de circulação correspondente ao cobrado a veículos do mesmo peso bruto inscritos para transitarem em áreas circulares de 30 km de raio, reduzindo-se para 20% a percentagem de 60% a que se refere o artigo 6.º, sem prejuízo do mínimo de cobrança nele estabelecido.\n\n§ único. ...\n\n...\n\nArt. 22.º Os proprietários de automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos no Decreto-Lei n.º 32440, de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão um imposto de compensação de harmonia com as taxas anuais constantes da tabela seguinte:\n\n1. Automóveis de passageiros de serviço particular:\n\nLotação inferior ou igual a nove lugares ... 12000$00\n\nLotação superior a nove e inferior ou igual a vinte lugares ... 12420$00\n\nLotação superior a vinte lugares ... 15600$00\n\n2. Automóveis mistos de serviço particular:\n\n2.1. Ligeiros ... 12000$00\n\n2.2. Pesados:\n\nPeso bruto inferior ou igual a 7000 kg ... 15600$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\n3. Automóveis de carga de serviço particular:\n\n3.1. Ligeiros ... 5460$00\n\n3.2. Pesados:\n\nPeso bruto inferior ou igual a 7000 kg ... 9840$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\n4. Automóveis de passageiros de serviço público:\n\nLotação inferior ou igual a nove lugares ... 5460$00\n\nLotação superior a nove e inferior ou igual a vinte lugares ... 5880$00\n\nLotação superior a vinte lugares ... 9840$00\n\n5. Automóveis de carga e mistos de serviço público:\n\n5.1. Ligeiros ... 5460$00\n\n5.2. Pesados:\n\na) Aluguer e instrução:\n\nPeso bruto inferior ou igual a 7000 kg ... 8760$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\nb) Carreiras ... 8760$00\n\n6. Tractores agrícolas com caixa de carga comportando carga útil superior a 1500 kg:\n\n6.1. De cilindrada até 2000 cm3 ... 2100$00\n\n6.2. De 2000 cm3 a 3000 cm3 ... 3600$00\n\n6.3. Superior a 3000 cm3 ... 5000$00\n\n§ 1.º O valor do imposto de compensação devido pelos automóveis pesados de serviço particular licenciados ao abrigo da Portaria n.º 19937, de 9 de Julho de 1963, será o resultante da aplicação das seguintes taxas:\n\na) Automóveis de passageiros:\n\nLotação até vinte lugares ... 5880$00\n\nLotação superior a vinte lugares ... 9840$00\n\nb) Automóveis mistos:\n\nPeso bruto inferior ou igual a 7000 kg ... 9840$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 660$00\n\n§ 2.º O valor do imposto de compensação devido pelos automóveis de carga exclusivamente afectos ao transporte de produtos agrícolas ou directamente ligados à agricultura e licenciados ao abrigo do artigo 12.º será o resultante da aplicação das seguintes taxas:\n\na) Ligeiros ... 4200$00\n\nb) Pesados:\n\nPeso bruto inferior ou igual a 7000 kg ... 7560$00\n\nPeso bruto superior a 7000 kg, por cada tonelada, arredondada até às décimas, acresce ... 516$00\n\n§ 3.º O valor do imposto de compensação devido pelos automóveis de carga adstritos ao serviço de aluguer, licenciados para o raio de acção não superior a 30 km e com sede em centros urbanos com população residente superior a 30000 habitantes, será o que resulta da aplicação das taxas referidas no corpo deste artigo, com a redução de 20%.\n\n§ 4.º No caso de tractores não agrícolas e de veículos de carga autorizados a transitarem com reboques, o peso bruto a considerar para o cálculo do imposto de compensação compreenderá, além do peso bruto do veículo tractor, o peso bruto que este estiver autorizado a rebocar.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1975, 3º Suplemento, Série I de 1975-06-02](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-443139), em vigor a partir de 1975-06-02"
+  },
+  "921943650": {
+   "fragment_id": "178860588",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs valores fixados no artigo anterior serão aplicáveis aos impostos devidos a partir de 1 de Janeiro do ano corrente.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "921943651": {
+   "fragment_id": "178860589",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  }
+ }
+}

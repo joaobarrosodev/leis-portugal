@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:633941:por
+title: Resolução da Assembleia da República n.º 41/2006
+short_title: null
+summary: Sobre o inquérito parlamentar à gestão do processo Eurominas
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 41/2006
+official_date: null
+publication_date: '2006-05-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 97/2006, Série I-A de 2006-05-19
+  number: '97'
+  series: I
+  supplement: null
+  pages: 3432 - 3432
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/05/097a00/34323432.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/41/2006/05/19/p/dre/pt/html
+  oj: null
+  dre: '633941'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/41-2006-633941
+  internal: pt:dre:633941:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/41-2006-633941
+  metadata_url: https://data.dre.pt/eli/resolassrep/41/2006/05/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/41-2006-633941
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:17:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2f8d1e632640170691d168a1a7da752a3e481e671e2ace9ee2d62cbc9fd73575
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:17:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia da República
+- Diploma Legal
+- Exploração Mineira
+- Indústria Mineira
+- Inquérito Parlamentar
+- Propriedade do Estado
+- Recomendação
+relationships:
+- type: cites
+  target: pt:dre:306646:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:17:58Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 41/2006
+
+Sobre o inquérito parlamentar à gestão do processo Eurominas
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, o seguinte:
+
+1 - Dar total publicidade ao processo, nos termos legais aplicáveis.
+
+2 - Facultá-lo, de imediato e integralmente, à Procuradoria-Geral da República, para os efeitos tidos por convenientes.
+
+3 - Recomendar ao Governo que proceda ao levantamento e avaliação da legislação aprovada há várias décadas e ainda em vigor, como é o caso do [Decreto-Lei n.º 48784](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48784-1968-306646), de 21 de Dezembro de 1968, tendo em conta a evolução dos princípios gerais do direito e os princípios e normas inscritas na Constituição da República Portuguesa.
+
+Aprovada em 3 de Maio de 2006.
+
+O Presidente da Assembleia da República, Jaime Gama.

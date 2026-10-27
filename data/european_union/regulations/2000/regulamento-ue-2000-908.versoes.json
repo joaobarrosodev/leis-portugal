@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R0908:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R0908-20070530",
+ "dre_path": null,
+ "source_lastmod": "2007-05-30",
+ "versions": [
+  {
+   "date": "2007-05-30",
+   "future": false,
+   "celex": "02000R0908-20070530",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e278ee0d35571fd2"
+   ]
+  }
+ ],
+ "fragments": {
+  "e278ee0d35571fd2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000R0908 — PT — 30.05.2007 — 001.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32000R0908) [REGULAMENTO (CE) N.º 908/2000 DA COMISSÃO](http://publications.europa.eu/resource/celex/32000R0908) [de 2 de Maio de 2000](http://publications.europa.eu/resource/celex/32000R0908) [relativo às modalidades de cálculo das ajudas concedidas pelos Estados-Membros às organizações de produtores no sector das pescas e da aquicultura](http://publications.europa.eu/resource/celex/32000R0908) (JO L 105, 3.5.2000, p.15)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 498/2007 da Comissão de 26 de Março de 2007](http://publications.europa.eu/resource/celex/32007R0498) — L 120 — 1 — 10.5.2007"
+  }
+ }
+}

@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:576174:por
+title: Decreto-Lei n.º 310/2001
+short_title: null
+summary: Estabelece as normas de regulamentação necessárias à boa execução das medidas de incentivo à recuperação acelerada
+  das regiões portuguess que sofrem de problemas de interioridade, previstas nos artigos 7.º a 11.º da Lei n.º 171/99, de
+  18 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Planeamento
+proposing_entity: null
+official_number: 310/2001
+official_date: null
+publication_date: '2001-12-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 284/2001, Série I-A de 2001-12-10
+  number: '284'
+  series: I
+  supplement: null
+  pages: 8013 - 8014
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/12/284a00/80138014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/310/2001/12/10/p/dre/pt/html
+  oj: null
+  dre: '576174'
+  dre_path: /dr/detalhe/decreto-lei/310-2001-576174
+  internal: pt:dre:576174:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2001-576174
+  metadata_url: https://data.dre.pt/eli/dec-lei/310/2001/12/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2001-576174
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:28:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d989d73c5430349eae89cf9665d9d1810505269addd886036533784b08c87268
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio ao Investimento
+- Benefícios Fiscais
+- Crédito ao Investimento
+- Criação de Emprego
+- Criação de Empresas
+- Desenvolvimento Regional
+- Financiamento
+- Pequenas e Médias Empresas
+- PME
+- Região Desfavorecida
+relationships:
+- type: amended_by
+  target: pt:dre:3704141:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:212013:por
+  label: null
+  source: http://data.dre.pt/eli/lei/30-c/2000/12/29/p/dre
+- type: cites
+  target: pt:dre:569880:por
+  label: null
+  source: http://data.dre.pt/eli/lei/171/1999/09/18/p/dre
+- type: repealed_by
+  target: pt:dre:246502:por
+  label: "Revogado a partir de 31.03.2008, pelo DEC LEI.55/2008.26.03.2008.MFAP, DR.IS [60] de 26.03.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2008-246502
+  date: '2008-03-26'
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:28:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 310/2001
+
+de 10 de Dezembro
+
+Através da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, na redacção dada pelo artigo 54.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro, foram criadas diversas medidas de incentivo à recuperação acelerada das regiões portuguesas que sofrem de problemas de interioridade.
+
+Estes incentivos, por serem susceptíveis de serem considerados como auxílios de Estado, foram, previamente à respectiva aplicação, notificados à Comissão Europeia.
+
+No passado dia 19 de Setembro, a Comissão Europeia, após ter examinado as medidas constantes na [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, face às orientações relativas aos auxílios estatais com finalidade regional (JOCE, C 74, de 10 de Março de 1998) e às orientações relativas aos auxílios ao emprego (JOCE, C 334, de 12 de Dezembro de 1995), decidiu não levantar objecções à sua execução, desde que respeitadas as disposições comunitárias aplicáveis.
+
+Encontram-se, pois, reunidas as condições para o Governo proceder à regulamentação das normas necessárias à boa execução da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, as quais, pelo disposto no seu artigo 13.º, são aprovadas por decreto-lei.
+
+Nestes termos, são identificadas neste diploma as condições de acesso das entidades beneficiárias, as entidades responsáveis pela concessão dos incentivos, as obrigações a que ficam sujeitas as entidades beneficiárias, bem como as consequências em caso de incumprimento.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma visa estabelecer, ao abrigo do artigo 13.º da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, as normas de regulamentação necessárias à boa execução das medidas de incentivo à recuperação acelerada das regiões portuguesas que sofrem de problemas de interioridade, previstas nos artigos 7.º a 11.º do mesmo diploma, com as alterações constantes do artigo 54.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro.
+
+###### Artigo 2.º — Condições de acesso das entidades beneficiárias
+
+1 - Sem prejuízo do previsto na [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, as entidades beneficiárias devem reunir as seguintes condições de acesso:
+
+a) Encontrarem-se legalmente constituídas e cumprirem as condições legais necessárias ao exercício da sua actividade;
+
+b) Encontrarem-se em situação regularizada perante a administração fiscal, a segurança social e o respectivo município;
+
+c) Disporem de contabilidade organizada, de acordo com o Plano Oficial de Contabilidade;
+
+d) Comprometerem-se, nos casos dos incentivos previstos no artigo 8.º e na alínea b) do artigo 11.º da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, a manter afecto à respectiva actividade o investimento realizado, bem como a manter a sua localização geográfica, durante um período mínimo de cinco anos a contar da data da realização integral do investimento;
+
+e) Comprometerem-se, no caso dos incentivos previstos nos artigos 9.º e 10.º da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, a manter os novos postos de trabalho por um período mínimo de cinco anos a contar da data da sua criação;
+
+f) Informarem a entidade responsável a que se refere o artigo 3.º do presente diploma da atribuição de qualquer outro incentivo ou da apresentação de candidatura para o mesmo fim;
+
+g) Obterem previamente, no caso do incentivo previsto na alínea b) do n.º 1 do artigo 11.º da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, a autorização a que se refere o n.º 3 do mesmo artigo.
+
+2 - Aos beneficiários do incentivo previsto na alínea a) do n.º 1 do artigo 11.º da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, é aplicável a condição de acesso definida na alínea g) do número anterior.
+
+###### Artigo 3.º — Entidades responsáveis
+
+São entidades responsáveis pela atribuição dos incentivos, bem como pela sua fiscalização e controlo:
+
+a) No caso dos incentivos previstos nos artigos 7.º, 8.º e 11.º da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, a Direcção-Geral dos Impostos;
+
+b) No caso dos incentivos previstos no artigo 10.º da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, o Instituto de Gestão Financeira da Segurança Social;
+
+c) No caso do incentivo previsto no artigo 9.º da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, a Direcção-Geral dos Impostos, em articulação com o Instituto de Gestão Financeira da Segurança Social.
+
+###### Artigo 4.º — Obrigações das entidades beneficiárias
+
+1 - As entidades beneficiárias ficam sujeitas às seguintes obrigações:
+
+a) Manter a situação regularizada perante a administração fiscal, a segurança social e o respectivo município;
+
+b) Facultar todos os elementos relacionados com a concessão do incentivo que lhe sejam solicitados pela entidade responsável referida no artigo 3.º;
+
+c) Comunicar à entidade responsável referida no artigo 3.º qualquer alteração ou ocorrência que ponha em causa os pressupostos subjacentes à atribuição do incentivo;
+
+d) Manter as condições legais necessárias ao exercício da respectiva actividade;
+
+e) Manter a contabilidade organizada de acordo com o Plano Oficial de Contabilidade;
+
+f) Manter na empresa, devidamente organizados, todos os documentos susceptíveis de comprovarem as declarações prestadas aquando da atribuição do incentivo.
+
+2 - No caso dos incentivos previstos no artigo 8.º e na alínea b) do n.º 1 do artigo 11.º da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, a entidade beneficiária obriga-se igualmente a não ceder, locar, alienar, afectar a outra actividade ou deslocalizar o investimento, no todo ou em parte, sem autorização prévia da entidade responsável referida no artigo 3.º, até cinco anos contados da data da realização integral do investimento.
+
+3 - No caso dos incentivos previstos nos artigos 9.º e 10.º da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, a entidade beneficiária obriga-se a manter os postos de trabalho por um período mínimo de cinco anos a contar da data da sua criação.
+
+###### Artigo 5.º — Incumprimento
+
+1 - O incumprimento de qualquer uma das obrigações definidas no artigo anterior, bem como a prestação de informações falsas, implica a perda dos incentivos usufruídos, ficando as entidades beneficiárias obrigadas, no prazo de 30 dias a contar da respectiva notificação, ao pagamento das importâncias correspondentes às receitas não arrecadadas, acrescidas de eventuais juros compensatórios calculados à taxa legal em vigor acrescida de 3 pontos percentuais.
+
+2 - Relativamente ao incentivo previsto no artigo 8.º da [Lei n.º 171/99](https://diariodarepublica.pt/dr/detalhe/lei/171-1999-569880), de 18 de Setembro, caso se verifique o incumprimento referido no n.º 2 do artigo anterior, a entidade beneficiária deve, na declaração de rendimentos relativa ao exercício em que este ocorra, adicionar o imposto sobre o rendimento das pessoas colectivas que deixou de ser liquidado, acrescido dos correspondentes juros compensatórios.
+
+###### Artigo 6.º — Disposições comunitárias
+
+As disposições que se revelem necessárias para assegurar, ao longo do período de implementação, o integral respeito pela decisão da Comissão Europeia relativamente aos incentivos em causa, nomeadamente no que se refere à sua aplicação às diferentes actividades económicas, serão objecto de portaria conjunta dos Ministérios das Finanças, do Planeamento e do Trabalho e da Solidariedade.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da publicação.
+
+Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - Elisa Maria da Costa Guimarães Ferreira - Paulo José Fernandes Pedroso - José Sócrates Carvalho Pinto de Sousa.
+
+Promulgado em 27 de Novembro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 29 de Novembro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

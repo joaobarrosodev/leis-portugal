@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: eu:celex:31995R2122:por
+title: Regulamento (CE) nº 2122/95 da Comissão, de 6 de Setembro de 1995
+short_title: null
+summary: Regulamento (CE) nº 2122/95 da Comissão, de 6 de Setembro de 1995, que altera o Regulamento (CEE) nº 2641/88, que
+  estabelece regras de execução do regime de ajuda à utilização de uvas, de mostos de uva e de mostos de uva concentrados
+  com vista à elaboração de sumos de uva
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1995/2122
+official_date: null
+publication_date: '1995-09-07'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 212 de 7.9.1995
+  number: '212'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/5648d88c-b392-4e7e-9a72-8965780f3258.0011.02/DOC_1
+entry_into_force_dates:
+- '1995-09-08'
+end_of_validity_date: '2000-07-31'
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31995R2122
+  eli: http://data.europa.eu/eli/reg/1995/2122/oj
+  oj: oj:JOL_1995_212_R_0007_018
+  dre: null
+  dre_path: null
+  internal: eu:celex:31995R2122:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31995R2122
+  metadata_url: http://publications.europa.eu/resource/cellar/5648d88c-b392-4e7e-9a72-8965780f3258.0011
+  content_url: http://publications.europa.eu/resource/cellar/5648d88c-b392-4e7e-9a72-8965780f3258.0011.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T13:56:55Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-05T05:34:11.572+02:00'
+integrity:
+  source_sha256: 3b591b888e3258d37bbd0e9bbd7ea70c51afbaaec3066f9fd1a1f0e255c6b6fe
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T13:56:55Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- ajuda à produção
+- produto à base de frutos
+- regime de ajuda
+- sumo de fruta
+- uva
+relationships:
+- type: amends
+  target: celex:31988R2641
+  label: null
+  source: http://publications.europa.eu/resource/cellar/614f2de5-bb69-449f-bdba-a985ca75828b
+  date: '1988-08-26'
+- type: based_on
+  target: celex:31987R0822
+  label: null
+  source: http://publications.europa.eu/resource/cellar/65cb4d4b-20b3-42de-abb5-b6704a262005
+  date: '1987-03-27'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T13:56:55Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CE) nº 2122/95 da Comissão, de 6 de Setembro de 1995
+
+**Regulamento (CE) nº 2122/95 da Comissão, de 6 de Setembro de 1995, que altera o Regulamento (CEE) nº 2641/88, que estabelece regras de execução do regime de ajuda à utilização de uvas, de mostos de uva e de mostos de uva concentrados com vista à elaboração de sumos de uva** *Jornal Oficial nº L 212 de 07/09/1995 p. 0007 - 0007*
+
+REGULAMENTO (CE) Nº 2122/95 DA COMISSÃO de 6 de Setembro de 1995 que altera o Regulamento (CEE) nº 2641/88, que estabelece regras de execução do regime de ajuda à utilização de uvas, de mostos de uva e de mostos de uva concentrados com vista à elaboração de sumos de uva
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CEE) nº 822/87 do Conselho, de 16 de Março de 1987, que estabelece a organização comum do mercado vitivinícola (1), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1544/95 (2), e, nomeadamente, os nºs4 e 5 do seu artigo 46º,
+
+Considerando que o nº 4 do artigo 46º do Regulamento (CEE) nº 822/87 prescreve que, até à campanha de 1995/1996, uma parte da ajuda seja destinada à organização de campanhas de promoção a favor do consumo de sumo de uva;
+
+Considerando que o nº 2 do artigo 4º do Regulamento (CEE) nº 2641/88 da Comissão, de 25 de Agosto de 1988, que estabelece regras de execução do regime de ajuda à utilização de uvas, de mostos de uva e de mostos de uva concentrados com vista à elaboração de sumos de uva (3), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 2056/91 (4), fixa a percentagem da ajuda destinada a financiar estas campanhas de promoção em 35 %; que é necessário, dado o aumento de montante fixado aquando da concessão da ajuda nas últimas campanhas e ao reduzido número de Estados-membros que reúnem as condições necessárias para organizar as campanhas de promoção, fixar a percentagem da ajuda destinada a financiar estas campanhas de promoção a um nível mais baixo do que o actualmente previsto;
+
+Considerando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de gestão do vinho,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1º
+
+O nº 2 do artigo 4º do Regulamento (CEE) nº 2641/88 passa a ter a seguinte redacção:
+
+« 2. A parte de ajuda destinada ao financiamento da campanha de promoção eleva-se a 25 % dos montantes da ajuda fixados para a campanha em causa. O montante que corresponde a esta percentagem será retido aquando da concessão da ajuda. A instância competente só pagará ao transformador 75 % das ajudas fixadas. ».
+
+###### Artigo 2º
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito em Bruxelas, em 6 de Setembro de 1995.
+
+Pela Comissão Franz FISCHLER Membro da Comissão

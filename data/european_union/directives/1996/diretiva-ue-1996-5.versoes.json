@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0005:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0005-20061226",
+ "dre_path": null,
+ "source_lastmod": "2006-12-26",
+ "versions": [
+  {
+   "date": "1996-02-28",
+   "future": false,
+   "celex": "31996L0005",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c52ce1c193a04ad0",
+    "f77f93cdb2a42207",
+    "ee8ef8a7804ac22f",
+    "7ff6c3da05f157c9",
+    "fb507d322fa5d4ce",
+    "16a56159d8cd25fb",
+    "3846cbc9c49474cd",
+    "a4200dcdcd14ed01",
+    "67a1e3a25f75bd87",
+    "8a85758575242084",
+    "70fd91eafe8d5bd8",
+    "86b87766cb47fb7f",
+    "eafdff3cc6cb2674",
+    "e7bfdec15e319dd8",
+    "fc26d07fcbe42d9e",
+    "247a0b881326a9b7"
+   ]
+  },
+  {
+   "date": "2006-12-26",
+   "future": false,
+   "celex": "01996L0005-20061226",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime ANEXO I — COMPOSIÇÃO DOS ALIMENTOS À BASE DE CEREAIS DESTINADOS A LACTENTES E CRIANÇAS JOVENS",
+    "Suprime ANEXO II — COMPOSIÇÃO DOS ALIMENTOS PARA BEBÉS DESTINADOS A LACTENTES E CRIANÇAS JOVENS",
+    "Suprime ANEXO III — AMINOÁCIDOS PRESENTES NA CASEÍNA",
+    "Suprime ANEXO IV — NUTRIENTES",
+    "Suprime ANEXO V — VALORES DE REFERÊNCIA PARA A ROTULAGEM NUTRICIONAL DOS ALIMENTOS DESTINADOS A LACTENTES E CRIANÇAS JOVENS"
+   ],
+   "fragments": [
+    "d46c8b6eab4a07b6"
+   ]
+  }
+ ],
+ "fragments": {
+  "c52ce1c193a04ad0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/5/CE, Euratom da Comissão, de 16 de Fevereiro de 1996, relativa aos alimentos à base de cereais e aos alimentos para bebés destinados a lactentes e crianças jovens (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 049 de 28/02/1996 p. 0017 - 0028*\n\nDIRECTIVA 96/5/CE DA COMISSÃO de 16 de Fevereiro de 1996 relativa aos alimentos à base de cereais e aos alimentos para bebés destinados a lactentes e crianças jovens (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/398/CEE do Conselho, de 3 de Maio de 1989, relativa à aproximação das legislações dos Estados-membros respeitantes aos géneros alimentícios destinados a uma alimentação especial (1), e, nomeadamente, o seu artigo 4º,\n\nConsiderando que as medidas comunitárias previstas na presente directiva não excedem o necessário para preencher os objectivos já previstos na Directiva 89/398/CEE;\n\nConsiderando que os alimentos à base de cereais e os alimentos para bebés destinados a lactentes e crianças jovens se integram numa dieta diversificada e não constituem a única fonte de alimentação dos lactentes e crianças jovens;\n\nConsiderando que há uma grande variedade dos referidos produtos, facto que reflecte a extensa gama de dietas para lactentes em fase de desmame e crianças jovens devido às condições sociais e culturais existentes na Comunidade;\n\nConsiderando que a composição essencial dos referidos produtos deve ser adequada às necessidades nutritivas dos lactentes e crianças jovens saudáveis estabelecidas com base em dados científicos geralmente aceites e atender aos referidos parâmetros;\n\nConsiderando que os requisitos nutricionais essenciais na composição de duas grandes categorias desses produtos, designadamente os alimentos à base de cereais e os alimentos para bebés, devem constar, respectivamente, dos anexos I e II;\n\nConsiderando que, dada a natureza desses produtos, embora alguns requisitos obrigatórios e outras restrições relativos ao teor de vitaminas, minerais e outros nutrientes devam ser impostos, os referidos nutrientes podem ser voluntariamente adicionados pelos fabricantes, apenas podendo ser utilizadas as substâncias constantes do anexo IV da presente directiva;\n\nConsiderando que a utilização dos produtos a que foram voluntariamente adicionados os referidos nutrientes, com teores actualmente empregues na Comunidade, não se afigura conduzir à ingestão excessiva dos mesmos por lactentes e crianças jovens; que se atenderá à eventual evolução futura desta situação e que, se necessário, serão adoptadas medidas adequadas;\n\nConsiderando que as disposições relativas à utilização de aditivos no fabrico de alimentos à base de cereais e de alimentos para bebés devem ser estabelecidas numa directiva do Conselho;\n\nConsiderando que a utilização de ingredientes alimentares recentemente descobertos será abordada a nível horizontal em outro acto aplicável a todos os géneros alimentícios;\n\nConsiderando que a presente directiva reflecte os conhecimentos actuais relativos aos referidos produtos; que qualquer eventual alteração, por forma a atender à inovação decorrente do progresso científico e técnico, será adoptada através do procedimento constante do artigo 13º da Directiva 89/398/CEE;\n\nConsiderando que, dados os destinatários dos produtos, será necessário estabelecer imediatamente critérios microbiológicos, bem como níveis máximos de contaminantes;\n\nConsiderando que, nos termos do artigo 7º da Directiva 89/398/CEE, os produtos abrangidos pela presente directiva se encontram sujeitos às regras gerais fixadas pela Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios (2), com a última redacção que lhe foi dada pela Directiva 93/102/CE da Comissão (3);\n\nConsiderando que, se adequado, a presente directiva adopta e desenvolve os aditamentos e excepções às referidas regras gerais;\n\nConsiderando que designadamente a natureza e finalidade dos produtos abrangidos pela presente directiva requerem a rotulagem nutricional respeitante ao valor energético e aos principais nutrientes que contêm; que, por outro lado, o método de utilização deve ser especificado em conformidade com o nº 1, ponto 8, do artigo 3º e com o artigo 10º da Directiva 79/112/CEE, por forma a evitar utilizações inadequadas susceptíveis de prejudicar a saúde dos lactentes;\n\nConsiderando que, embora as menções não expressamente proibidas possam, em geral, ser permitidas para os produtos em questão em conformidade com as regras aplicáveis a todos os géneros alimentícios, estas menções, sempre que for adequado, devem ter em conta os critérios relativos à composição especificados na presente directiva;\n\nConsiderando que o Comité científico da alimentação humana, em conformidade com o artigo 4º da Directiva 89/398/CEE, foi consultado relativamente às disposições susceptíveis de afectar a saúde pública;\n\nConsiderando que o disposto na presente directiva está em conformidade com o parecer do Comité permanente dos géneros alimentícios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f77f93cdb2a42207": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva é uma directiva específica, nos termos do artigo 4º da Directiva 89/398/CEE.\n\n2. A presente directiva abrange os géneros alimentícios para utilização nutricional especial que satisfaçam os requisitos específicos relativos aos lactentes e crianças jovens saudáveis da Comunidade e destinados a lactentes em fase de desmame, e a crianças jovens em suplemento das suas dietas e/ou adaptação progressiva à alimentação normal. Incluem:\n\na) «Alimentos à base de cereais», que estão divididos nas quatro categorias seguintes:\n\ni) cereais simples que estão ou devem ser reconstituídos com leite ou outros líquidos nutritivos adequados,\n\nii) cereais a que se adicionam alimentos com elevado teor de proteínas, a reconstituir com água ou outros líquidos desprovidos de proteínas,\n\niii) massas, utilizadas após cozedura em água ou noutros líquidos apropriados,\n\niv) tostas e biscoitos, utilizados quer directamente, quer com água, leite ou outros líquidos adequados após trituração;\n\nb) «Alimentos para bebés», alimentos que não sejam à base de cereais.\n\n3. A presente directiva não se aplica aos leites destinados a crianças jovens.\n\n4. Para efeitos do disposto na presente directiva, entede-se por:\n\n- «lactentes», crianças com menos de 12 meses de idade,\n\n- «crianças jovens», crianças com idade compreendida entre 1 e 3 anos."
+  },
+  "ee8ef8a7804ac22f": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros devem assegurar que os produtos referidos no artigo 1º apenas possam ser comercializados na Comunidade caso observem as regras estabelecidas na presente directiva."
+  },
+  "7ff6c3da05f157c9": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs alimentos à base de cereais e os alimentos para bebés serão fabricados a partir de ingredientes relativamente aos quais tenha sido comprovada, através de dados científicos geralmente aceites, a respectiva adequação a fins nutricionais específicos de lactentes e crianças jovens."
+  },
+  "fb507d322fa5d4ce": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os alimentos à base de cereais devem observar os critérios de composição constantes do anexo I.\n\n2. Os alimentos para bebés devem observar os critérios de composição constantes do anexo II."
+  },
+  "16a56159d8cd25fb": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nNo fabrico de alimentos à base de cereais e de alimentos para bebés apenas podem ser adicionadas as substâncias nutritivas constantes do anexo IV. Se necessário, no prazo de 12 meses após a entrada em vigor da presente directiva, estabelecer-se-ão níveis máximos para além dos já definidos.\n\nOs critérios de pureza das referidas substâncias serão posteriormente definidos."
+  },
+  "3846cbc9c49474cd": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs alimentos à base de cereais e os alimentos para bebés não podem conter substâncias em quantidades susceptíveis de pôr em risco a saúde dos lactentes e das crianças jovens. Os níveis máximos serão imediatamente estabelecidos, na medida do necessário.\n\nOs critérios microbiológicos serão também estabelecidos na medida do necessário."
+  },
+  "a4200dcdcd14ed01": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. A rotulagem dos produtos em questão deve incluir obrigatoriamente os elementos que se seguem, para além dos previstos no artigo 3º da Directiva 79/112/CEE:\n\na) A indicação da idade adequada a partir da qual o produto pode ser utilizado, tendo em conta a sua composição, textura ou outras propriedades especiais. Em relação a qualquer produto, a idade indicada não pode ser inferior a 4 meses. Os produtos recomendados para utilização a partir da idade de 4 meses podem ter a indicação de que são adequados a partir dessa idade, salvo opinião contrária de pessoas independentes com qualificações em medicina, nutrição ou farmácia ou outros profissionais responsáveis por cuidados maternais ou infantis;\n\nb) Informações sobre a presença ou ausência de glúten, se a idade indicada a partir da qual o produto pode ser utilizado for inferior a 6 meses;\n\nc) O valor energético disponível, expresso em kJ (quilo Joules) ou kcal (quilocalorias), bem como o teor de proteínas, hidratos de carbono e lípidos, expresso em termos numéricos, por 100 gramas ou 100 ml (mililitros) do produto na forma em que é comercializado, e, se aplicável, por dose do produto proposta para consumo;\n\nd) A quantidade média de cada substância mineral e vitamínica, controlada por um nível específico constante dos anexos I e II, expresso em termos numéricos, respectivamente por 100 g e 100 ml do produto na forma em que é comercializado, e, se aplicável, por dose do produto proposta para consumo;\n\ne) Se necessário, instruções sobre o modo de preparação, bem como a indicação da importância de se observarem as referidas instruções.\n\n2. A rotulagem pode indicar:\n\na) A quantidade média das substâncias referidas no anexo IV, se essa indicação não for abrangida pelo disposto no nº 1, alínea d), do presente artigo, expressa em termos numéricos, por 100 ml do produto pronto a ser utilizado, e, se adequado, por qualidade específica do produto proposto para consumo;\n\nb) Para além de dados numéricos, dados relativos às vitaminas e minerais referidos no anexo V, expressos em percentagem dos valores de referência nele apontados, por 100 g ou 100 ml de produto pronto a ser utilizado, desde que as quantidades presentes sejam superiores a 15 % dos valores de referência."
+  },
+  "67a1e3a25f75bd87": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva até 30 de Setembro de 1997. Do facto informarão imediatamente a Comissão. As referidas disposições serão aplicadas de modo a:\n\n- permitir o comércio dos produtos que observem a presente directiva até 1 de Outubro de 1997,\n\n- proibir o comércio dos produtos que não observem a presente directiva, a partir de 31 de Março de 1999.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades da referência serão adoptadas pelos Estados-membros."
+  },
+  "8a85758575242084": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "70fd91eafe8d5bd8": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 16 de Fevereiro de 1996.\n\nPela Comissão\n\nMartin BANGEMANN\n\nMembro da Comissão\n\n(1) JO nº L 186 de 30. 6. 1989, p. 27.\n\n(2) JO nº L 33 de 8. 2. 1979, p. 1.\n\n(3) JO nº L 291 de 25. 11. 1993, p. 14."
+  },
+  "86b87766cb47fb7f": {
+   "fragment_id": "ANEXO I — COMPOSIÇÃO DOS ALIMENTOS À BASE DE CEREAIS DESTINADOS A LACTENTES E CRIANÇAS JOVENS",
+   "type": "divisao",
+   "heading": "ANEXO I — COMPOSIÇÃO DOS ALIMENTOS À BASE DE CEREAIS DESTINADOS A LACTENTES E CRIANÇAS JOVENS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — COMPOSIÇÃO DOS ALIMENTOS À BASE DE CEREAIS DESTINADOS A LACTENTES E CRIANÇAS JOVENS\n\nOs requisitos relativos aos nutrientes referem-se aos produtos prontos a utilizar e comercializados enquanto tal ou reconstituídos de acordo com as instruções do fabricante.\n\n1. Teor em cereais\n\nOs alimentos à base de cereais são sobretudo preparados a partir de uma ou mais farinhas de cereais e/ou raízes amiláceas.\n\nA quantidade de cereais e/ou raízes não deve corresponder a menos de 25 %, em matéria seca, do peso da mistura final.\n\n2. Proteínas\n\n2.1. No que respeita aos produtos referidos na alínea a), subalíneas ii) e iv), do nº 2 do artigo 1º, o teor de proteínas não deve exceder 1,3 g/100 kJ (5,5 g/100 kcal).\n\n2.2. No que respeita aos produtos referidos na alínea a), subalínea ii), do nº 2 do artigo 1º, a quantidade de proteínas incorporadas não deve ser inferior a 0,48 g/100 kJ (2 g/100 kcal).\n\n2.3. No que respeita aos biscoitos referidos na alínea a), subalínea iv), do nº 2 do artigo 1º, preparados com a adição de alimentos com elevado teor de proteínas e como tal apresentados, a quantidade de proteínas incorporadas não deve ser inferior a 0,36 g/100 kJ (1,5 g/100 kcal).\n\n2.4. O índice químico das proteínas incorporadas deve ser igual a pelo menos 80 % do da proteína de referência (caseína, tal como estipulado no anexo III), ou, em alternativa, o PER (coeficiente de eficácia proteica) das proteínas da mistura deve ser igual a pelo menos 70 % do PER do da proteína de referência. Em todo o caso, a incorporação de aminoácidos apenas é permitida se se destinar a aumentar o valor nutritivo das proteínas e, a verificar-se, apenas nas proporções necessárias para o efeito.\n\n3. Hidratos de carbono\n\n3.1. Caso se adicione sacarose, frutose, glicose ou xaropes de glicose ou mel aos produtos referidos na alínea a), subalíneas i) e iv), do nº 2 do artigo 1º:\n\n- a quantidade total de hidratos de carbono incorporados provenientes destas fontes não deve exceder 1,8 g/100 kJ (7,5 g/100 kcal),\n\n- a quantidade de frutose incorporada não deve exceder 0,9 g/100 kJ (3,75 g/100 kcal).\n\n3.2. Se aos produtos referidos na alínea a), subalínea ii), do nº 2 do artigo 1º for adicionado mel ou xarope de glicose, sacarose, frutose ou glicose,\n\n- a quantidade de hidratos de carbono provenientes destas fontes não deve exceder 1,2 g/100 kJ (5 g/100 kcal);\n\n- a quantidade de frutose adicionada não deve exceder 0,6 g/100 kJ (2,5 g/100 kcal).\n\n4. Lípidos\n\n4.1. No que respeita aos produtos referidos na alínea a), subalíneas i) e iv), do nº 2 do artigo 1º, o teor de lípidos não deve exceder 0,8 g/100 kJ (3,3 g/100 kcal).\n\n4.2. No que respeita aos produtos referidos na alínea a), subalínea ii), do nº 2 do artigo 1º, o teor de lípidos não deve exceder 1,1 g/100 kJ (4,5 g/100 kcal). Caso este teor exceda 0,8 g/100 kJ (3,3 g/100 kcal):\n\na) O teor de ácido láurico não deve exceder 15 % do teor total de lípidos;\n\nb) O teor de ácido mirístico não deve exceder 15 % do teor total de lípidos;\n\nc) O teor de ácido linoleico (sob a forma de glicerídeos = linoleatos) não deve ser inferior a 70 mg/100 kJ (300 mg/100 kcal) nem deve exceder 285 mg/100 kJ (1200 mg/100 kcal).\n\n5. Minerais\n\n5.1. Sódio\n\n- Os sais de sódio apenas podem ser incorporados nos alimentos à base de cereais para efeitos tecnológicos;\n\n- O teor de sódio dos alimentos à base de cereais não deve exceder 25 mg/100 kJ (100 mg/100 kcal).\n\n5.2. Cálcio\n\n5.2.1. No que respeita aos produtos referidos na alínea a), subalínea ii), do nº 2 do artigo 1º, o teor de cálcio não deve ser inferior a 20 mg/100 kJ (80 mg/100 kcal).\n\n5.2.2. No que respeita aos produtos referidos na alínea a), subalínea iv), do nº 2 do artigo 1º cujo fabrico envolve a incorporação de leite (biscoitos lácteos) e como tal apresentados, o teor de cálcio não deve ser inferior a 12 mg/100 kJ (50 mg/100 kcal).\n\n6. Vitaminas\n\n6.1. No que respeita aos alimentos à base de cereais, o teor de tiamina não deve ser inferior a 25 ìg/100 kJ (100 ìg/100 kcal).\n\n6.2. No que respeita aos produtos referidos na alínea a), subalínea ii), do nº 2 do artigo 1º:\n\n>POSIÇÃO NUMA TABELA>\n\nEstes limites são igualmente aplicáveis se as vitaminas A e D forem adicionadas a outros alimentos à base de cereais."
+  },
+  "eafdff3cc6cb2674": {
+   "fragment_id": "ANEXO II — COMPOSIÇÃO DOS ALIMENTOS PARA BEBÉS DESTINADOS A LACTENTES E CRIANÇAS JOVENS",
+   "type": "divisao",
+   "heading": "ANEXO II — COMPOSIÇÃO DOS ALIMENTOS PARA BEBÉS DESTINADOS A LACTENTES E CRIANÇAS JOVENS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — COMPOSIÇÃO DOS ALIMENTOS PARA BEBÉS DESTINADOS A LACTENTES E CRIANÇAS JOVENS\n\nOs requisitos relativos aos nutrientes referem-se aos produtos prontos a utilizar e comercializados enquanto tal ou reconstituídos de acordo com as instruções do fabricante.\n\n1. Proteínas\n\n1.1. Caso os únicos ingredientes referidos na denominação do produto sejam carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas, então:\n\n- a carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas referidos não devem no seu conjunto representar menos de 40 % do peso da totalidade do produto,\n\n- cada quantidade de carne de mamíferos, aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas não deve representar menos de 25 % do peso da totalidade dessas fontes de proteínas,\n\n- a quantidade de proteínas provenientes das fontes indicadas não deve ser inferior a 1,7 g/100 kJ (7 g/100 kcal).\n\n1.2. Caso a carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas, isoladamente ou em conjunto, sejam referidas em primeiro lugar na denominação do produto, então, independentemente de o produto ser ou não apresentado como refeição:\n\n- a carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas referidas não devem representar menos de 10 % do peso da totalidade do produto,\n\n- a carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas referidas não devem individualmente constituir menos de 25 % do peso do conjunto das fontes de proteínas indicadas,\n\n- a quantidade de proteínas provenientes da fonte indicada não deve ser inferior a 1 g/100 kJ (4 g/100 kcal).\n\n1.3. Caso o nome do produto mencione, embora não em primeiro lugar, carne de mamíferos ou aves de capoeira, peixe, miúdos ou outras fontes tradicionais de proteínas, isoladamente ou em conjunto, então, independentemente de o produto ser ou não apresentado como refeição:\n\n- a carne de mamíferos ou aves de capoeira, peixe ou miúdos ou outras fontes tradicionais de proteínas referidas não devem representar menos de 8 % do peso da totalidade do produto,\n\n- a carne de mamíferos ou aves de capoeira, peixe ou miúdos ou outras fontes tradicionais de proteínas não devem constituir menos de 25 % do peso do conjunto das fontes de proteínas indicadas,\n\n- a quantidade de proteínas provenientes da fonte indicada não deve ser inferior a 0,5 g/100 kJ (2,2 g/100 kcal),\n\n- a quantidade total de proteínas presentes nos produtos e provenientes de todas as fontes não deve ser inferior a 0,7 g/100 kJ (3 g/100 kcal).\n\n1.4. Caso o rótulo refira que o produto constitui uma refeição, embora não mencione a carne de mamíferos ou aves de capoeira, peixe ou miúdos ou outras fontes tradicionais de proteínas no nome do produto, então:\n\n- a quantidade total de proteínas presentes no produto e provenientes de todas as fontes não deve ser inferior a 0,7 g/100 kJ (3 g/100 kcal).\n\n1.5. A incorporação de aminoácidos apenas é permitida se se destinar a aumentar o valor nutritivo das proteínas e apenas nas proporções necessárias para o efeito.\n\n2. Hidratos de carbono\n\nA quantidade total de hidratos de carbono presente nos sumos de frutos e vegetais e nos néctares, pratos constituídos unicamente por frutos e sobremesas ou pudins não deve exceder:\n\n- 10 g/100 ml, no que respeita aos sumos de vegetais e bebidas neles baseadas,\n\n- 15 g/100 ml, no que respeita aos sumos de frutos ou néctares,\n\n- 20 g/100 g no que respeita aos pratos constituídos unicamente por frutos,\n\n- 25 g/100 g no que respeita às sobremesas e pudins,\n\n- 5 g/100 g, no que respeita às restantes bebidas sem leite.\n\n3. Lípidos\n\n3.1. No que respeita aos produtos no ponto 1.1 do presente anexo:\n\nCaso o único ingrediente referido na denominação do produto seja carne de mamíferos ou leite, ou estes sejam mencionados em primeiro lugar na denominação do produto, então:\n\n- o teor total de lípidos no produto proveniente de todas as fontes não deve exceder 1,4 g/100 kJ (6 g/100 kcal).\n\n3.2. No que respeita a todos os outros produtos:\n\n- o teor total de lípidos no produto proveniente de todas as fontes não deve exceder 1,1 g/100 kJ (4,5 g/100 kcal).\n\n4. Sódio\n\n4.1. O teor final de sódio no produto não deve exceder 48 mg/100 kJ (200 mg/100 kcal) ou 200 mg/100 g. Todavia, se o queijo for o único ingrediente referido na denominação do produto, o teor final de sódio não deve exceder 70 mg/100 kJ (300 mg/100 kcal).\n\n4.2. Os sais de sódio não podem ser incorporados em produtos à base de frutos, nem em sobremesas ou pudins, excepto para fins tecnológicos.\n\n5. Vitaminas\n\nVitamina C\n\nNo que respeita aos sumos de frutos, néctares e sumos de vegetais, o teor final de vitamina C no produto não deve exceder 6 mg/100 kJ (25 mg/100 kcal) nem 25 mg/100 g.\n\nVitamina A\n\nNos sumos de vegetais, o teor final de vitamina A no produto não deve ser inferior a 25 ìg ER/100 kJ (100 ìg ER/100 kcal) (1).\n\nA vitamina A não deve ser adicionada a outros alimentos para bebé.\n\nVitamina D\n\nA vitamina D não deve ser adicionada a alimentos para bebé.\n\n(1) ER: todos os equivalentes de retinol trans."
+  },
+  "e7bfdec15e319dd8": {
+   "fragment_id": "ANEXO III — AMINOÁCIDOS PRESENTES NA CASEÍNA",
+   "type": "divisao",
+   "heading": "ANEXO III — AMINOÁCIDOS PRESENTES NA CASEÍNA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — AMINOÁCIDOS PRESENTES NA CASEÍNA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "fc26d07fcbe42d9e": {
+   "fragment_id": "ANEXO IV — NUTRIENTES",
+   "type": "divisao",
+   "heading": "ANEXO IV — NUTRIENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — NUTRIENTES\n\n1. Vitaminas\n\nVitamina A\n\nRetinol\n\nAcetato de retinilo\n\nPalmitato de retinilo\n\nBeta caroteno\n\nVitamina D\n\nVitamina D2 (= ergocalciferol)\n\nVitamina D3 (= colecalciferol)\n\nVitamina B1\n\nCloridrato de tiamina\n\nMononitrato de tiamina\n\nVitamina B2\n\nRiboflavina\n\nRiboflavina-5'-fosfato sódica\n\nNiacina\n\nNicotinamida\n\nÁcido nicotínico\n\nVitamina B6\n\nHidrocloreto de piridoxina\n\nPiridoxina-5-fosfato\n\nDipalmitato de piridoxina\n\nÁcido pantoténico\n\nD-pantotenato de cálcio\n\nD-pantotenato de sódio\n\nDexpantenol\n\nFolato\n\nÁcido fólico\n\nVitamina B12\n\nCianocobalamina\n\nHidroxicobalamina\n\nBiotina\n\nD-Biotina\n\nVitamina C\n\nÁcido L-ascórbico\n\nL-ascorbato de sódio\n\nL-ascorbato de cálcio\n\nÁcido 6-Palmitil-L-ascórbico (palmitato de ascorbilo)\n\nAscorbato de potássio\n\nVitamina K\n\nFiloquinona (Fitomenadiona)\n\nVitamina E\n\nD-alfa tocoferol\n\nDL-alfa tocoferol\n\nAcetato de D-alfa tocoferol\n\nAcetato de DL-alfa tocoferol\n\n2. Aminoácidos\n\n>POSIÇÃO NUMA TABELA>\n\n3. Outros\n\nColina\n\nCloreto de colina\n\nCitrato de colina\n\nBitartrato de colina\n\nInositol\n\nL-Carnitina\n\nHidrocloreto de L-Carnitina\n\n4. Substâncias minerais e elementos vestigiais\n\nCálcio\n\nCarbonato de cálcio\n\nCloreto de cálcio\n\nSais de cálcio de ácido cítrico\n\nGluconato de cálcio\n\nGlicerofosfato de cálcio\n\nLactato de cálcio\n\nÓxido de cálcio\n\nHidróxido de cálcio\n\nSais de cálcio do ácido ortosfosfórico\n\nMagnésio\n\nCarbonato de magnésio\n\nCloreto de magnésio\n\nSais de magnésio do ácido cítrico\n\nGluconato de magnésio\n\nÓxido de magnésio\n\nHidróxido de magnésio\n\nSais de magnésio do ácido ortofosfórico\n\nSulfato de magnésio\n\nLactato de magnésio\n\nGlicerofosfato de magnésio\n\nPotássio\n\nCloreto de potássio\n\nSais potássicos de ácido cítrico\n\nGluconato de potássio\n\nLactato de potássio\n\nGlicerofosfato de potássio\n\nFerro\n\nCitrato ferroso\n\nCitrato férrico de amónio\n\nGluconato ferroso\n\nLactato ferroso\n\nSulfato ferroso\n\nFumarato ferroso\n\nDifosfato férrico (pirofosfato férrico)\n\nFerro elementar (em complexos com ligandos carbonilo, electrolítico ou reduzido por hidrogenação)\n\nSacarato férrico\n\nDifosfato férrico de sódio\n\nCarbonato ferroso\n\nCobre\n\nComplexo cobre-lisina\n\nCarbonato cúprico\n\nCitrato cúprico\n\nGluconato cúprico\n\nSulfato cúprico\n\nZinco\n\nAcetato de zinco\n\nCloreto de zinco\n\nCitrato de zinco\n\nLactato de zinco\n\nSulfato de zinco\n\nÓxido de zinco\n\nGluconato de zinco\n\nManganésio\n\nCarbonato de manganésio\n\nCloreto de manganésio\n\nCitrato de manganésio\n\nGluconato de manganésio\n\nSulfato de manganésio\n\nGlicerofosfato de manganésio\n\nIodo\n\nIodeto de sódio\n\nIodeto de potássio\n\nIodato de potássio\n\nIodato de sódio."
+  },
+  "247a0b881326a9b7": {
+   "fragment_id": "ANEXO V — VALORES DE REFERÊNCIA PARA A ROTULAGEM NUTRICIONAL DOS ALIMENTOS DESTINADOS A LACTENTES E CRIANÇAS JOVENS",
+   "type": "divisao",
+   "heading": "ANEXO V — VALORES DE REFERÊNCIA PARA A ROTULAGEM NUTRICIONAL DOS ALIMENTOS DESTINADOS A LACTENTES E CRIANÇAS JOVENS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — VALORES DE REFERÊNCIA PARA A ROTULAGEM NUTRICIONAL DOS ALIMENTOS DESTINADOS A LACTENTES E CRIANÇAS JOVENS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "d46c8b6eab4a07b6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1996L0005 — PT — 26.12.2006 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31996L0005) [DIRECTIVA 96/5/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/31996L0005) [de 16 de Fevereiro de 1996](http://publications.europa.eu/resource/celex/31996L0005) [relativa aos alimentos à base de cereais e aos alimentos para bebés destinados a lactentes e crianças jovens](http://publications.europa.eu/resource/celex/31996L0005) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31996L0005) (JO L 049, 28.2.1996, p.17)\n\n**revogado por:**\n\n- [Directiva 2006/125/CE da Comissão de 5 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0125) — L 339 — 16 — 6.12.2006"
+  }
+ }
+}

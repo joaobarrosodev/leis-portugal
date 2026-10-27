@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176065:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-916178050",
+ "dre_path": "/dr/detalhe/portaria/285-2012-176065",
+ "source_lastmod": "2025-04-28",
+ "versions": [
+  {
+   "date": "2012-09-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "915868931",
+    "915868932",
+    "915868933",
+    "915868934",
+    "915868935",
+    "915868936",
+    "915868937",
+    "915868938",
+    "915868939",
+    "915868940",
+    "915868941"
+   ]
+  },
+  {
+   "date": "2015-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70686128:por",
+     "title": "Portaria n.º 358/2015",
+     "published": "2015-10-14",
+     "dre_path": "/dr/detalhe/portaria/358-2015-70686128"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "915868931",
+    "915868932",
+    "915868933",
+    "915868934",
+    "915868935",
+    "915868936",
+    "915868937",
+    "915868938",
+    "916268382",
+    "915868940",
+    "915868941",
+    "915868942"
+   ]
+  }
+ ],
+ "fragments": {
+  "915868931": {
+   "fragment_id": "916178051",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 285/2012, de 20 de setembro\n\nO plano de ação para a justiça na sociedade da informação prevê uma política de modernização para a justiça assente na utilização de tecnologias de informação de modo a tornar os sistemas da justiça, nomeadamente os sistemas de registo, mais acessíveis e adequados às necessidades das empresas.\n\nNeste contexto foi fixado como objetivo específico o privilegiar a Internet como canal de acesso e relacionamento com os utentes, contribuindo assim também para a promoção da sociedade de informação.\n\nO Decreto-Lei n.º 76-A/2006, de 29 de março, aprovou um amplo conjunto de medidas de simplificação da relação do cidadão e das empresas com os serviços de registo comercial, entre as quais se conta a disponibilização da certidão permanente de registo comercial.\n\nEste serviço, efetivamente disponibilizado com a publicação da Portaria n.º 1416-A/2006, de 19 de dezembro, compreende a disponibilização, em suporte eletrónico e permanentemente atualizado, da reprodução dos registos em vigor respeitantes a uma entidade sujeita a registo, tendo-se este novo serviço saldado por uma adesão bastante significativa por parte dos interessados: desde o início da sua disponibilização e até final do mês de abril já foram disponibilizadas 1 947 029 certidões permanentes de registo comercial.\n\nTendo presente que no âmbito do registo comercial já se encontram digitalizados todos os documentos que serviram de base aos registos, efetuados após 2010, estão reunidas as condições para alargar, ao acesso a estes documentos, o leque de serviços que estão disponíveis online, potenciando desta forma o repositório digital de documentos arquivados e facilitando, assim, a apresentação dos mesmos a outras entidades.\n\nA presente portaria vem regular a disponibilização da certidão permanente de registos e de documentos, bem como criar a certidão permanente do pacto social em vigor, em cada momento, para as entidades sujeitas a registo.\n\nA subscrição destes novos tipos de certidões permanentes traduz um valor acrescentado para os utilizadores na medida em que lhes garante um acesso rápido e permanentemente atualizado, não apenas aos registos em vigor, como também aos próprios documentos que serviram de base a cada um deles, além de que permite a disponibilização desses documentos de forma fiável e eletrónica a outras entidades.\n\nFoi promovida a audição do Conselho Superior da Magistratura, do Conselho Superior dos Tribunais Administrativos e Fiscais, do Conselho Superior do Ministério Público, da Ordem dos Notários, da Ordem dos Advogados, da Câmara dos Solicitadores, do Conselho dos Oficiais de Justiça, da Associação Sindical dos Juízes Portugueses, do Sindicato dos Magistrados do Ministério Público, da Associação dos Oficiais de Justiça, do Sindicato dos Trabalhadores dos Registos e do Notariado, da Associação Sindical dos Oficiais dos Registos e do Notariado, do Sindicato dos Funcionários Judiciais e do Sindicato dos Oficiais de Justiça.\n\nAssim:\n\nManda o Governo, pela Ministra da Justiça, ao abrigo do disposto no n.º 5 do artigo 75.º do Código do Registo Comercial, o seguinte:"
+  },
+  "915868932": {
+   "fragment_id": "916178052",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regula:\n\na) A certidão permanente de registos e de documentos, arquivados na pasta eletrónica das entidades inscritas no registo comercial;\n\nb) A certidão permanente do pacto social atualizado."
+  },
+  "915868933": {
+   "fragment_id": "916178053",
+   "type": 11,
+   "heading": "Artigo 2.º — Conteúdo das certidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conteúdo das certidões\n\n1 - A certidão permanente de registo e de documentos referida na alínea a) do artigo anterior reproduz, em suporte eletrónico e permanentemente atualizada, os registos respeitantes a entidades inscritas no registo comercial, a menção das apresentações e pedidos de registo pendentes, bem como os documentos que serviram de base aos registos efetuados, com exceção do registo da prestação de contas.\n\n2 - A certidão permanente do pacto atualizado reproduz, em suporte eletrónico e permanentemente atualizada, o último pacto ou estatutos entregue por entidade inscrita no registo comercial, quando este esteja digitalizado e disponível na respetiva pasta eletrónica."
+  },
+  "915868934": {
+   "fragment_id": "916178054",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - A disponibilização da certidão permanente de registo e de documentos referida na alínea a) do artigo 1.º só é assegurada se sobre a entidade existirem registos requeridos e efetuados após 1 de janeiro de 2011.\n\n2 - A certidão permanente de registo e de documentos não é disponibilizada se o único registo efetuado após a data referida no número anterior for o da prestação de contas.\n\n3 - O presente diploma não é aplicável aos documentos associados ao registo da prestação de contas, que são exclusivamente disponibilizados pela certidão de contas anuais, nos termos da Portaria n.º 1416-A/2006, de 19 de dezembro."
+  },
+  "915868935": {
+   "fragment_id": "916178055",
+   "type": 11,
+   "heading": "Artigo 4.º — Pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pedido\n\n1 - O pedido das certidões reguladas na presente portaria é efetuado mediante indicação do número de identificação de pessoa coletiva da entidade a que respeita a mesma, através do sítio na Internet com o endereço www.empresaonline.pt, mantido pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), ou verbalmente, em qualquer serviço com competência para a prática de atos de registo comercial.\n\n2 - O pedido de renovação da certidão é realizado através dos meios previstos no número anterior, mediante indicação do código de acesso à certidão permanente."
+  },
+  "915868936": {
+   "fragment_id": "916178056",
+   "type": 11,
+   "heading": "Artigo 5.º — Identificação do requerente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Identificação do requerente\n\nA identificação do requerente da certidão permanente faz-se pela indicação do nome ou firma e do endereço de correio eletrónico, sem necessidade de utilização de meios especiais de autenticação."
+  },
+  "915868937": {
+   "fragment_id": "916178057",
+   "type": 11,
+   "heading": "Artigo 6.º — Código de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Código de acesso\n\n1 - Após a solicitação do serviço, é disponibilizado ao requerente um código que permite a visualização da certidão permanente a partir do momento em que seja confirmado o pagamento da taxa devida.\n\n2 - A entrega, a qualquer entidade pública ou privada, do código de acesso à certidão permanente equivale, para todos os efeitos, à entrega de uma certidão do registo comercial, nos termos referidos no artigo 75.º do Código do Registo Comercial, não sendo exigível a entrega de certidão de documentos em suporte papel."
+  },
+  "915868938": {
+   "fragment_id": "916178058",
+   "type": 11,
+   "heading": "Artigo 7.º — Subscrição do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Subscrição do serviço\n\nO serviço certidão permanente de documentos é prestado mediante a subscrição de uma assinatura que pode ter a duração de um, dois, três ou quatro anos."
+  },
+  "915868939": {
+   "fragment_id": "916178059",
+   "type": 11,
+   "heading": "Artigo 8.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Encargos\n\n1 - Pela assinatura do serviço certidão permanente de registo e documentos é devido o pagamento das seguintes taxas únicas:\n\na) (euro) 55 pela assinatura por um ano;\n\nb) (euro) 88 pela assinatura por dois anos;\n\nc) (euro) 132 pela assinatura por três anos;\n\nd) (euro) 154 pela assinatura por quatro anos.\n\n2 - Pela assinatura do serviço certidão permanente de pacto social atualizado é devido o pagamento das seguintes taxas únicas:\n\na) (euro) 20 pela assinatura por um ano;\n\nb) (euro) 35 pela assinatura por dois anos;\n\nc) (euro) 45 pela assinatura por três anos;\n\nd) (euro) 50 pela assinatura por quatro anos.\n\n3 - As taxas referidas nos números anteriores constituem receita do IRN, I. P."
+  },
+  "915868940": {
+   "fragment_id": "916178060",
+   "type": 11,
+   "heading": "Artigo 9.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Protocolos\n\nMediante protocolo com o IRN, I. P., e quando as estiverem reunidas as condições técnicas necessárias, podem ser estabelecidas formas de pagamento agrupado com entidades, públicas ou privadas, cujas atribuições, competências e atividade façam pressupor um elevado nível de utilização deste serviços."
+  },
+  "915868941": {
+   "fragment_id": "916178061",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente portaria entra em vigor em 1 de outubro de 2012."
+  },
+  "916268382": {
+   "fragment_id": "916178059",
+   "type": 11,
+   "heading": "Artigo 8.º — Encargos",
+   "in_force_from": "2015-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/358-2015-70686128), em vigor a partir de 2015-11-01"
+   ],
+   "markdown": "###### Artigo 8.º — Encargos\n\n1 - Pela assinatura do serviço certidão permanente de registo e documentos é devido o pagamento das seguintes taxas únicas:\n\na) (euro) 55 pela assinatura por um ano;\n\nb) (euro) 88 pela assinatura por dois anos;\n\nc) (euro) 132 pela assinatura por três anos;\n\nd) (euro) 154 pela assinatura por quatro anos.\n\n2 - Pela assinatura do serviço certidão permanente de pacto social atualizado é devido o pagamento das seguintes taxas únicas:\n\na) (euro) 20 pela assinatura por um ano;\n\nb) (euro) 35 pela assinatura por dois anos;\n\nc) (euro) 45 pela assinatura por três anos;\n\nd) (euro) 50 pela assinatura por quatro anos.\n\n3 - [Revogado.]\n\n> Alterado pelo/a Artigo 11.º do/a [Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/358-2015-70686128), em vigor a partir de 2015-11-01"
+  },
+  "915868942": {
+   "fragment_id": "916178062",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 18 de setembro de 2012."
+  }
+ }
+}

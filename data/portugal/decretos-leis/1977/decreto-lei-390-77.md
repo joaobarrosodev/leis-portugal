@@ -1,0 +1,218 @@
+---
+schema_version: '1.0'
+id: pt:dre:286091:por
+title: Decreto-Lei n.º 390/77
+short_title: null
+summary: Introduz alterações aos Códigos do Imposto de Capitais, do Imposto Complementar e da Sisa e do Imposto sobre as Sucessões
+  e Doações (registo de depósito de títulos)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Direcção-Geral das Contribuições e Impostos
+proposing_entity: null
+official_number: 390/77
+official_date: null
+publication_date: '1977-09-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/1977, Série I de 1977-09-15
+  number: '214'
+  series: I
+  supplement: null
+  pages: 2263 - 2264
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21400/22632264.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '286091'
+  dre_path: /dr/detalhe/decreto-lei/390-1977-286091
+  internal: pt:dre:286091:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1977-286091
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1977-286091
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4f5596bce73fa8d2befb679d51752b9f9d2781dcc9fa03ee84c41c430a8f2818
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Código do Imposto Complementar
+- Código do Imposto de Capitais
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:140075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253192:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:06:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 390/77
+
+de 15 de Setembro
+
+O [Decreto-Lei n.º 150/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1977-140075), de 13 de Abril, estabeleceu um sistema de registo ou depósito obrigatório para as acções de sociedades com sede ou direcção efectiva no território do continente e ilhas adjacentes, bem como de depósito obrigatório das acções e outros títulos existentes no País expressos ou pagáveis em moeda estrangeira.
+
+A [Lei n.º 40/77](https://diariodarepublica.pt/dr/detalhe/lei/40-1977-253192), de 17 de Junho, estabeleceu modificações de ordem fiscal em matéria de competência reservada à Assembleia da República, de modo a tornar mais justa a tributação dos rendimentos das acções ao portador e da transmissão das próprias acções, facilitando, por outro lado, a exequibilidade de algumas das normas constantes daquele decreto-lei.
+
+Torna-se necessário agora proceder ao ajustamento de disposições dos Códigos do Imposto de Capitais, do Imposto Complementar e da Sisa e do Imposto sobre as Sucessões e Doações cujas estatuições dependiam do que por aquela lei foi modificado e não constituem matéria reservada à Assembleia.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º O artigo 40.º do Código do Imposto de Capitais passa a ter a seguinte redacção:
+
+Art. 40.º ...
+
+§ único. ...
+
+a) A colocação dos rendimentos à disposição dos seus titulares, nos casos abrangidos pelos n.os 1.º e 2.º do artigo 6.º;
+
+b) A aprovação das contas de gerência ou a colocação dos rendimentos à disposição dos seus titulares antes de encerradas as contas ou independentemente da sua aprovação formal, nos casos abrangidos pelo n.º 5.º do artigo 6.º;
+
+c) O vencimento dos juros das obrigações;
+
+d) A liquidação dos rendimentos, nos restantes casos.
+
+Art. 2.º São aditados ao Código do Imposto de Capitais os artigos 40.º-A e 76.º-A, com a seguinte redacção:
+
+Art. 40.º-A - As instituições de crédito em que se encontrem depositadas acções emitidas por sociedades com sede efectiva no território do continente e ilhas adjacentes enviarão à sociedade emitente relação dos respectivos titulares à data da colocação à sua disposição dos rendimentos a que tiverem direito, no prazo de quinze dias a contar dessa data.
+
+...
+
+Art. 76.º-A - A falta ou inexactidão das relações a que alude o artigo 40.º-A, bem como as omissões nelas praticadas, serão punidas com multa de 200$00 a 50000$00.
+
+Art. 3.º A alteração referida no artigo 1.º aplica-se nos casos em que a aprovação das contas de gerência de que resultou a atribuição dos rendimentos ou a colocação destes à disposição dos seus titulares antes do encerramento das contas ou da aprovação formal destas ocorra ou tenha ocorrido posteriormente à entrada em vigor do [Decreto-Lei n.º 150/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1977-140075), de 13 de Abril.
+
+Art. 4.º Os artigos 24.º, 25.º, 25.º-A, 26.º, 27.º, 65.º e 125.º do Código do Imposto Complementar passam a ter a redacção seguinte:
+
+Art. 24.º As sociedades e quaisquer outras entidades emitentes de acções e obrigações apresentarão, até 30 de Abril de cada ano na repartição de finanças do concelho ou bairro da sua sede, ou, sendo esta em Lisboa, na Repartição Central do Imposto Complementar de Lisboa, relações nominais modelo n.º 4, em duplicado, organizadas em face dos livros de registo que são obrigadas a possuir, e bem assim das comunicações que recebam das instituições de crédito relativamente às acções depositadas, contendo:
+
+a) Nome e residência ou sede dos proprietários dos títulos;
+
+b) ...
+
+c) Importância do dividendo colocado à disposição dos seus titulares no ano anterior ou do juro vencido no mesmo ano, líquida do correspondente imposto de capitais, não sujeita à dedução do imposto complementar nos termos do artigo 126.º
+
+§ 1.º Na elaboração das relações, quer quanto aos proprietários dos títulos, quer quanto à natureza destes, atender-se-á, consoante o caso, à data do vencimento dos juros das obrigações ou à da colocação dos dividendos à disposição dos seus titulares.
+
+§ 2.º ...
+
+§ 3.º (Suprimido.)
+
+§ 4.º (Suprimido.)
+
+§ 5.º Não tendo sido colocados dividendos à disposição dos seus titulares nem tendo havido vencimento de juros, serão as relações subsituídas por uma simples comunicação escrita, a fazer no prazo referido no corpo deste artigo.
+
+§ 6.º ...
+
+Art. 25.º As sociedades, excluídas as anónimas ou em comandita por acções, que hajam procedido à colocação de lucros à disposição dos seus titulares, e bem assim as entidades que hajam procedido à liquidação de outros rendimentos que não sejam juros de obrigações, sujeitos a imposto de capitais, secção B, e não isentos de imposto complementar, apresentarão, até 30 de Abril de cada ano, relações nominais modelo n.º 5, em duplicado, contendo as importâncias dos lucros colocados à disposição dos seus titulares no ano anterior e dos outros rendimentos relativamente aos quais se tenha constituído, nesse ano, a obrigação da entrega do imposto de capitais ao Estado.
+
+§ único. ...
+
+Art. 25.º-A O Banco de Portugal enviará, até 30 de Abril de cada ano, à Repartição Central do Imposto Complementar de Lisboa, relações nominais modelo n.º 5-A, em duplicado, contendo as importâncias dos rendimentos dos títulos referidos nos artigos 2.º e 34.º, n.º 1, do [Decreto-Lei n.º 150/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1977-140075), de 13 de Abril, colocados à disposição dos seus titulares no ano anterior, com exclusão dos rendimentos dos títulos expressos ou pagáveis em moeda estrangeira, emitidos por entidades com sede no território do continente e ilhas adjacentes, os quais serão incluídos nas relações a que se refere o artigo 24.º
+
+Art. 26.º As repartições de finanças que receberem as relações a que se referem os artigos 22.º a 25.º-A, respeitantes a contribuintes com residência ou sede fora da área da respectiva competência, remetê-las-ão, até ao fim do mês seguinte, às repartições referidas nos artigos 48.º e 100.º, consoante os casos.
+
+Art. 27.º As entidades referidas nos artigos 22.º a 25.º-A deverão, quando solicitadas, mediante impresso modelo n.º 41-B, fornecer aos beneficiários dos rendimentos mencionados nas relações a que os mesmos artigos se referem, dentro do prazo de dez dias a contar da recepção do pedido ou da determinação dos rendimentos, se esta for posterior, a indicação das importâncias constantes das mencionadas relações e a eles respeitantes.
+
+§ único. As entidades a que este artigo se refere poderão, independentemente de solicitação, fornecer por escrito os elementos nele previstos.
+
+...
+
+Art. 65.º A falta ou inexactidão das relações a que aludem os artigos 21.º-A a 25.º-A, bem como as omissões nelas praticadas, serão punidas com multa de 200$00 a 50000$00, salvo sendo praticadas por funcionários públicos, aos quais será aplicado o disposto no artigo 70.º
+
+...
+
+Art. 125.º ...
+
+§ único. ...
+
+...
+
+d) Data do vencimento dos juros das obrigações.
+
+Art. 5.º São aditados ao Código do Imposto Complementar os artigos 21.º-A e 25.º-B, com a seguinte redacção:
+
+Art. 21.º-A As instituições de crédito em que se encontrem depositados títulos referidos nos artigos 2.º e 34.º, n.º 1, do [Decreto-Lei n.º 150/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1977-140075), de 13 de Abril, enviarão ao Banco de Portugal relação dos respectivos titulares à data da colocação à sua disposição dos rendimentos a que tiverem direito, no prazo de quinze dias a contar dessa data.
+
+...
+
+Art. 25.º-B As relações a que se referem os artigos 22.º a 25.º-A serão organizadas por concelhos ou bairros e ordem alfabética dos beneficiários dos rendimentos, contendo cada uma os que tenham residência ou sede no mesmo concelho ou bairro. No caso de beneficiários com residência ou sede em Lisboa ou fora do território do continente e ilhas adjacentes, será organizada uma única relação contendo, por ordem alfabética, todos os beneficiários nessas condições.
+
+Art. 6.º - 1 - As alterações dos artigos 24.º e 25.º do Código do Imposto Complementar aplicam-se aos dividendos e outros lucros colocados à disposição dos seus titulares posteriormente à entrada em vigor do [Decreto-Lei n.º 150/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1977-140075), de 13 de Abril, e não atribuídos até essa data.
+
+2 - Relativamente aos dividendos e outros lucros que, anteriormente à data referida no número precedente, tenham sido atribuídos aos seus titulares ou colocados à sua disposição antes do encerramento das respectivas contas ou da sua aprovação formal, serão de observar as disposições referidas no número anterior, com a sua redacção antes da alteração.
+
+Art. 7.º O artigo 186.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passa a ter a seguinte redacção:
+
+Art. 186.º ...
+
+§ único. ...
+
+...
+
+g) Data do vencimento dos juros das obrigações.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
+
+Promulgado em 27 de Agosto de 1977.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

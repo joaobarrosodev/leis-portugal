@@ -1,0 +1,235 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107684443:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2017-107685615",
+ "dre_path": "/dr/detalhe/lei/52-2017-107684443",
+ "source_lastmod": "2025-01-08",
+ "versions": [
+  {
+   "date": "2017-07-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107671227",
+    "107671228",
+    "107671229",
+    "107671230",
+    "107671231",
+    "107671233",
+    "107671234",
+    "107671235",
+    "107671236",
+    "107671237",
+    "107671238",
+    "107671239",
+    "107671240",
+    "107671241",
+    "107671242",
+    "107671243",
+    "107671244",
+    "107671245",
+    "107671246",
+    "107671247",
+    "107671248",
+    "107671249",
+    "107671250",
+    "107671251"
+   ]
+  }
+ ],
+ "fragments": {
+  "107671227": {
+   "fragment_id": "107685616",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 52/2017\n\nde 13 de julho\n\nTerceira alteração à Lei n.º 17/2003, de 4 de junho (Iniciativa legislativa de cidadãos)\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "107671228": {
+   "fragment_id": "107685617",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à terceira alteração à Lei n.º 17/2003, de 4 de junho (Iniciativa legislativa de cidadãos), alterada pela Lei n.º 26/2012, de 24 de julho, e pela Lei Orgânica n.º 1/2016, de 26 de agosto."
+  },
+  "107671229": {
+   "fragment_id": "107685618",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 17/2003, de 4 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 17/2003, de 4 de junho\n\nO artigo 6.º da Lei n.º 17/2003, de 4 de junho, passa a ter a seguinte redação:\n\n«Artigo 6.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) A identificação de todos os proponentes, em suporte de papel ou por via eletrónica, consoante a modalidade de submissão, com indicação do nome completo, do número do bilhete de identidade ou do cartão de cidadão, do número de eleitor e da data de nascimento correspondentes a cada cidadão subscritor;\n\nd) ...\n\ne) ...\n\n3 - A Assembleia da República disponibiliza plataforma eletrónica que permita a submissão da iniciativa legislativa e a recolha dos elementos referidos no número anterior.\n\n4 - Para efeitos da obtenção do número de subscritores previsto no n.º 1, pode ser remetida cumulativamente a documentação em suporte de papel e através de plataforma eletrónica que garanta o cumprimento das exigências legais.\n\n5 - A Assembleia da República pode solicitar aos serviços competentes da Administração Pública a verificação administrativa, por amostragem, da autenticidade da identificação dos subscritores da iniciativa legislativa.\n\n6 - A Assembleia da República verifica a validade dos endereços de correio eletrónico, cuja indicação é obrigatória pelos subscritores que utilizem plataforma eletrónica.»"
+  },
+  "107671230": {
+   "fragment_id": "107685619",
+   "type": 11,
+   "heading": "Artigo 3.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Republicação\n\nÉ republicada em anexo, que faz parte integrante da presente lei, a Lei n.º 17/2003, de 4 de junho, alterada pela Lei n.º 26/2012, de 24 de julho, pela Lei Orgânica n.º 1/2016, de 26 de agosto, e pela presente lei."
+  },
+  "107671231": {
+   "fragment_id": "107685620",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\n1 - A presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O previsto no n.º 3 do artigo 6.º da Lei n.º 17/2003, de 4 de junho, na redação dada pela presente lei, produz efeitos com o cumprimento dos requisitos técnicos aplicáveis e a entrada em funcionamento da plataforma eletrónica nele referida."
+  },
+  "107671233": {
+   "fragment_id": "107685622",
+   "type": 14,
+   "heading": "Anexo — Republicação da Lei n.º 17/2003, de 4 de junho (Iniciativa legislativa de cidadãos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Republicação da Lei n.º 17/2003, de 4 de junho (Iniciativa legislativa de cidadãos)"
+  },
+  "107671234": {
+   "fragment_id": "107685623",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "107671235": {
+   "fragment_id": "107685624",
+   "type": 11,
+   "heading": "Artigo 1.º — Iniciativa legislativa de cidadãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Iniciativa legislativa de cidadãos\n\nA presente lei regula os termos e condições em que grupos de cidadãos eleitores exercem o direito de iniciativa legislativa junto da Assembleia da República, nos termos do artigo 167.º da Constituição, bem como a sua participação no procedimento legislativo a que derem origem."
+  },
+  "107671236": {
+   "fragment_id": "107685625",
+   "type": 11,
+   "heading": "Artigo 2.º — Titularidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Titularidade\n\nSão titulares do direito de iniciativa legislativa os cidadãos definitivamente inscritos no recenseamento eleitoral, quer no território nacional, quer no estrangeiro."
+  },
+  "107671237": {
+   "fragment_id": "107685626",
+   "type": 11,
+   "heading": "Artigo 3.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objeto\n\nA iniciativa legislativa de cidadãos pode ter por objeto todas as matérias incluídas na competência legislativa da Assembleia da República, salvo:\n\na) As alterações à Constituição;\n\nb) As reservadas pela Constituição ao Governo;\n\nc) As reservadas pela Constituição às Assembleias Legislativas Regionais dos Açores e da Madeira;\n\nd) As do artigo 164.º da Constituição, com exceção da alínea i);\n\ne) As amnistias e perdões genéricos;\n\nf) As que revistam natureza ou conteúdo orçamental, tributário ou financeiro."
+  },
+  "107671238": {
+   "fragment_id": "107685627",
+   "type": 11,
+   "heading": "Artigo 4.º — Limites da iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Limites da iniciativa\n\nOs grupos de cidadãos eleitores não podem apresentar iniciativas legislativas que:\n\na) Violem a Constituição ou os princípios nela consignados;\n\nb) Não contenham uma definição concreta do sentido das modificações a introduzir na ordem legislativa;\n\nc) Envolvam, no ano económico em curso, aumento das despesas ou diminuição das receitas previstas no Orçamento do Estado."
+  },
+  "107671239": {
+   "fragment_id": "107685628",
+   "type": 11,
+   "heading": "Artigo 5.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Garantias\n\nO exercício do direito de iniciativa é livre e gratuito, não podendo ser dificultada ou impedida, por qualquer entidade pública ou privada, a recolha de assinaturas e os demais atos necessários para a sua efetivação, nem dar lugar ao pagamento de quaisquer impostos ou taxas."
+  },
+  "107671240": {
+   "fragment_id": "107685629",
+   "type": 1,
+   "heading": "Capítulo II — Requisitos e tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Requisitos e tramitação"
+  },
+  "107671241": {
+   "fragment_id": "107685630",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos\n\n1 - O direito de iniciativa legislativa de cidadãos é exercido através da apresentação à Assembleia da República de projetos de lei subscritos por um mínimo de 20 000 cidadãos eleitores.\n\n2 - Os projetos de lei referidos no número anterior são apresentados por escrito, em papel ou por via eletrónica, ao Presidente da Assembleia da República, revestem a forma articulada e devem conter:\n\na) Uma designação que descreva sinteticamente o seu objeto principal;\n\nb) Uma justificação ou exposição de motivos de onde conste a descrição sumária da iniciativa, os diplomas legislativos a alterar ou com ela relacionados, as principais consequências da sua aplicação e os seus fundamentos, em especial as respetivas motivações sociais, económicas, financeiras e políticas;\n\nc) A identificação de todos os proponentes, em suporte de papel ou por via eletrónica, consoante a modalidade de submissão, com indicação do nome completo, do número do bilhete de identidade ou do cartão de cidadão, do número de eleitor e da data de nascimento correspondentes a cada cidadão subscritor;\n\nd) A identificação dos elementos que compõem a comissão representativa dos cidadãos subscritores, bem como a indicação de um domicílio para a mesma;\n\ne) A listagem dos documentos juntos.\n\n3 - A Assembleia da República disponibiliza plataforma eletrónica que permita a submissão da iniciativa legislativa e a recolha dos elementos referidos no número anterior.\n\n4 - Para efeitos da obtenção do número de subscritores previsto no n.º 1, pode ser remetida cumulativamente a documentação em suporte de papel e através de plataforma eletrónica que garanta o cumprimento das exigências.\n\n5 - A Assembleia da República pode solicitar aos serviços competentes da Administração Pública a verificação administrativa, por amostragem, da autenticidade da identificação dos subscritores da iniciativa legislativa.\n\n6 - A Assembleia da República verifica a validade dos endereços de correio eletrónico, cujo envio é obrigatório pelos subscritores que utilizem plataforma eletrónica."
+  },
+  "107671242": {
+   "fragment_id": "107685631",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão representativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão representativa\n\n1 - Os cidadãos subscritores da iniciativa designam entre si uma comissão representativa, com um mínimo de 5 e o máximo de 10 elementos, para os efeitos previstos na presente lei, designadamente em termos de responsabilidade e de representação.\n\n2 - A comissão é notificada de todos os atos respeitantes ao processo legislativo decorrente da iniciativa apresentada ou com ele conexos, podendo exercer junto da Assembleia da República diligências tendentes à boa execução do disposto na presente lei."
+  },
+  "107671243": {
+   "fragment_id": "107685632",
+   "type": 11,
+   "heading": "Artigo 8.º — Admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Admissão\n\n1 - A iniciativa é admitida pelo Presidente da Assembleia da República, salvo se:\n\na) Tratar matérias não incluídas no seu objeto legal;\n\nb) Não respeitar os limites consignados no artigo 4.º;\n\nc) Não cumprir os requisitos previstos nos n.os 1 e 2 do artigo 6.º\n\n2 - Nos casos previstos na alínea c) do número anterior, a decisão é precedida de notificação à comissão representativa dos cidadãos subscritores, no sentido de, no prazo máximo de 30 dias úteis, serem supridas as deficiências encontradas.\n\n3 - Da decisão de não admissão cabe recurso pelos Deputados nos termos do Regimento da Assembleia da República."
+  },
+  "107671244": {
+   "fragment_id": "107685633",
+   "type": 11,
+   "heading": "Artigo 9.º — Exame em comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exame em comissão\n\n1 - Admitida a iniciativa, o Presidente da Assembleia da República ordena a sua publicação no Diário da Assembleia da República e remete-a à comissão especializada competente para, no prazo de 30 dias, elaborar o respetivo relatório e parecer.\n\n2 - Tratando-se de matéria constitucional ou legalmente sujeita a participação ou consulta obrigatórias, a comissão promove o cumprimento das disposições legais, estatutárias e regimentais aplicáveis.\n\n3 - Em razão da especial relevância da matéria, a comissão pode propor ao Presidente da Assembleia da República a discussão pública da iniciativa.\n\n4 - É obrigatoriamente ouvida a comissão representativa dos cidadãos subscritores.\n\n5 - O prazo referido no n.º 1 suspende-se durante:\n\na) O prazo fixado para consulta pública obrigatória, quando a ela houver lugar;\n\nb) O prazo da discussão pública da iniciativa;\n\nc) O período necessário à efetivação da diligência prevista no n.º 3 do artigo 6.º, quando seja a comissão a solicitá-la."
+  },
+  "107671245": {
+   "fragment_id": "107685634",
+   "type": 11,
+   "heading": "Artigo 10.º — Apreciação e votação na generalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apreciação e votação na generalidade\n\n1 - Recebido o parecer da comissão ou esgotado o prazo referido no n.º 1 do artigo anterior, o Presidente da Assembleia da República promove o agendamento da iniciativa para uma das 10 reuniões plenárias seguintes, para efeito de apreciação e votação na generalidade.\n\n2 - A comissão representativa dos cidadãos subscritores é notificada da data da reunião plenária para que a iniciativa é agendada."
+  },
+  "107671246": {
+   "fragment_id": "107685635",
+   "type": 11,
+   "heading": "Artigo 11.º — Apreciação e votação na especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apreciação e votação na especialidade\n\n1 - Aprovada na generalidade, e salvo nos casos em que a Constituição, a lei ou o Regimento disponham de modo diferente, a iniciativa é remetida à comissão competente em razão da matéria para efeitos de apreciação e votação na especialidade.\n\n2 - A comissão pode apresentar textos de substituição, sem prejuízo da iniciativa, quando não retirada.\n\n3 - A votação na especialidade é precedida de audição da comissão representativa dos subscritores e deve ocorrer no prazo máximo de 30 dias."
+  },
+  "107671247": {
+   "fragment_id": "107685636",
+   "type": 11,
+   "heading": "Artigo 12.º — Votação final global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Votação final global\n\n1 - Finda a apreciação e votação na especialidade, a respetiva votação final global ocorre no prazo máximo de 15 dias.\n\n2 - A comissão representativa dos cidadãos subscritores é notificada da data da reunião plenária para que a iniciativa é agendada."
+  },
+  "107671248": {
+   "fragment_id": "107685637",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "107671249": {
+   "fragment_id": "107685638",
+   "type": 11,
+   "heading": "Artigo 13.º — Caducidade e renovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Caducidade e renovação\n\n1 - A iniciativa legislativa de cidadãos eleitores caduca com o fim da legislatura.\n\n2 - A iniciativa não votada na legislatura em que tiver sido apresentada pode, todavia, ser renovada na legislatura seguinte, mediante simples requerimento dirigido ao Presidente da Assembleia da República pela comissão representativa dos cidadãos subscritores, desde que não tenha decorrido mais de um ano entre a data da entrada da iniciativa na Assembleia da República e a data de entrada do requerimento de renovação.\n\n3 - A iniciativa legislativa definitivamente rejeitada não pode ser renovada na mesma sessão legislativa."
+  },
+  "107671250": {
+   "fragment_id": "107685639",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direito subsidiário\n\nEm tudo o que não se encontrar regulado na presente lei, aplicam-se, com as necessárias adaptações, as normas procedimentais do Regimento da Assembleia da República."
+  },
+  "107671251": {
+   "fragment_id": "107685640",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente lei entra em vigor no trigésimo dia posterior ao da sua publicação."
+  }
+ }
+}

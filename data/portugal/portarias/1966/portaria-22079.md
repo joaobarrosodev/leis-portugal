@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:472306:por
+title: Portaria n.º 22079
+short_title: null
+summary: Fixa os efectivos dos quadros dos postos de capitão-tenente, primeiro-tenente, segundo-tenente e subtenente de cada
+  uma das subclasses em que se divide a classe do serviço especial da Armada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Estado-Maior da Armada
+proposing_entity: null
+official_number: '22079'
+official_date: null
+publication_date: '1966-06-23'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 144/1966, Série I de 1966-06-23
+  number: '144'
+  series: I
+  supplement: null
+  pages: 1119 - 1120
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/06/14400/11191120.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '472306'
+  dre_path: /dr/detalhe/portaria/22079-1966-472306
+  internal: pt:dre:472306:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22079-1966-472306
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22079-1966-472306
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: eed38025142bb7ea9cf1e640ff59b2ae0b303e8a1638a54076df22f9374ed2dd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:155447:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:17:55Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22079
+
+Ao abrigo do disposto no § 2.º do artigo 2.º do [Decreto-Lei n.º 44738](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44738-1962-155447), de 29 de Novembro de 1962:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que:
+
+1.º Os efectivos dos quadros dos postos de capitão-tenente, primeiro-tenente, segundo-tenente e subtenente, de cada uma das subclasses em que se divide a classe do serviço especial, sejam os que figuram no quadro anexo a esta portaria, os quais correspondem, no total, aos efectivos da citada classe constantes do mapa I anexo ao [Decreto-Lei n.º 44738](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44738-1962-155447), de 29 de Novembro de 1962.
+
+2.º O estabelecimento dos efectivos dos quadros do posto de capitão-de-fragata das subclasses referidas no número anterior se realize ao abrigo do disposto no § 1.º do artigo 2.º do [Decreto-Lei n.º 44738](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44738-1962-155447), de 29 de Novembro de 1962, quando se verificar essa necessidade.
+
+Ministério da Marinha, 23 de Junho de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
+
+QUADRO
+
+Efectivos de quadros de postos de capitão-tenente, primeiro-tenente, segundo-tenente e subtenente das subclasses da classe do serviço especial do quadro de oficiais do activo.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/06/14400/11191120.pdf)
+
+Ministério da Marinha, 23 de Junho de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

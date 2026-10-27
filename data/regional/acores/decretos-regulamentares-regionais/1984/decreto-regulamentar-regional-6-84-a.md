@@ -1,0 +1,168 @@
+---
+schema_version: '1.0'
+id: pt:dre:659931:por
+title: Decreto Regulamentar Regional n.º 6/84/A
+short_title: null
+summary: Aprova os quadros de pessoal docente das escolas preparatórias e secundárias da Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Educação e Cultura - Direcção Regional de Administração
+  Escolar
+proposing_entity: null
+official_number: 6/84/A
+official_date: null
+publication_date: '1984-01-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 18/1984, Série I de 1984-01-21
+  number: '18'
+  series: I
+  supplement: null
+  pages: 274 - 275
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/01/01800/02740275.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '659931'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/6-1984-659931
+  internal: pt:dre:659931:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1984-659931
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1984-659931
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:26:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 548f27a51faaf3d290bfb51d379c9054851c4e2365a4e3c7bc6efa29066d3d0b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Ensino Preparatório
+- Pessoal Docente
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:636073:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:329382:por
+  label: "Alterado o quadro de pessoal pela DRR.2/85/A.1984.12.27.GR-RAA, DR.IS [19] de 23/Jan/1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1985-329382
+  date: '1984-12-27'
+- type: cites
+  target: pt:dre:311439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470376:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:26:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 6/84/A
+
+Através do [Decreto Regulamentar Regional n.º 6/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1983-311439), de 22 de Fevereiro, procedeu-se à actualização dos quadros de pessoal docente das escolas preparatórias e secundárias da Região Autónoma dos Açores.
+
+Entretanto, a entrada em funcionamento de um novo edifício destinado ao ensino preparatório em Ponta Delgada implicou o redimensionamento da rede escolar na referida cidade, o qual se traduziu pela extinção da escola preparatória já existente e criação, em sua substituição, de duas escolas preparatórias - a de Roberto Ivens e a de Canto da Maia - cujos quadros de pessoal docente, administrativo e auxiliar foram fixados pelo Decreto Regulamentar Regional n.º 3/83/A, de 11 de Fevereiro.
+
+Paralelamente, mais uma unidade escolar foi construída e entrou ao serviço na freguesia dos Biscoitos, na ilha Terceira, e a sua criação e constituição dos quadros de pessoal são as que constam do [Decreto Regulamentar Regional n.º 40/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1983-439420), de 2 de Setembro.
+
+Por outro lado, e no contexto da política regional de progressivo alargamento das estruturas físicas escolares, encontram-se em fase avançada de execução duas outras escolas preparatórias na ilha de São Miguel, mais precisamente na freguesia das Capelas e na do concelho de Vila Franca do Campo, as quais deverão entrar em funcionamento em Outubro de 1984 e cuja criação é objecto de diploma próprio.
+
+Encontrando-se, pois, já bastante dispersa a legislação normativa da composição dos quadros de pessoal das escolas preparatórias e secundárias da Região, apresenta-se como conveniente e oportuno reuni-la e sistematizá-la num único diploma que não só actualize as situações das escolas em actividade como contemple já as das que serão postas ao serviço no início do próximo ano escolar.
+
+Assim:
+
+Usando da competência conferida pela alínea b) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 338/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1979-378683), de 25 de Agosto:
+
+O Governo Regional decreta, nos termos da alínea b) do artigo 229,º da Constituição, o seguinte:
+
+Artigo 1.º Os quadros de pessoal docente das escolas preparatórias e secundárias da Região Autónoma dos Açores são os constantes dos mapas I e II anexos ao presente diploma.
+
+Art. 2.º Os provimentos do pessoal docente a que se refere o artigo anterior far-se-ão nos termos do [Decreto-Lei n.º 258/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1980-470376), de 31 de Julho, respeitando as regras de competência das entidades regionais.
+
+Art. 3.º Os docentes que vierem a obter provimento nos lugares constantes do mapa I a que se refere o artigo 1.º em grupos ou subgrupos do curso unificado do ensino secundário transitarão para iguais grupos ou subgrupos da escola secundária que eventualmente venha a ser criada no concelho onde se situa a escola preparatória.
+
+Art. 4.º É revogado o [Decreto Regulamentar Regional n.º 6/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1983-311439), de 22 de Fevereiro.
+
+Art. 5.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura, consoante a sua natureza.
+
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 10 de Dezembro de 1983.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 10 de Janeiro de 1984.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
+
+MAPA I
+
+(a que se refere o artigo 1.º do presente diploma)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01800/02740275.pdf)
+
+MAPA II
+
+(a que se refere o artigo 1.º do presente diploma)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01800/02740275.pdf)

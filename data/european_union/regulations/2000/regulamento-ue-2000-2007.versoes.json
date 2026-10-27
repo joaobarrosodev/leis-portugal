@@ -1,0 +1,761 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R2007:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R2007-20100104",
+ "dre_path": null,
+ "source_lastmod": "2010-01-04",
+ "versions": [
+  {
+   "date": "2000-09-23",
+   "future": false,
+   "celex": "32000R2007",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e5175a262c0363e0",
+    "56b7772b3476163d",
+    "27a87ef63ced247f",
+    "1b15a14fe7ed9c23",
+    "b9d099d7c5e9be28",
+    "4f4bc5e6568bbfcf",
+    "59321a030d28ff41",
+    "e7b3e024903436f8",
+    "59671e6e8b9c0e97",
+    "e3aaf9ea16bfda03",
+    "b491d5c3d1913712",
+    "b1865874371cd747",
+    "0df76925345e2422",
+    "977ed033659bd49a",
+    "6dab2370fdd82830",
+    "58e31a48660b8c3d",
+    "6ca687e61d92e4bd",
+    "2a5309f4276ca54b",
+    "a5d0fda6b543f5cc",
+    "dda101c1cbeafd51",
+    "343b25979034e20a"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "celex": "02000R2007-20060101",
+   "acts": [
+    {
+     "id": "eu:celex:32000R2563:por",
+     "title": "REGULAMENTO (CE) N. o 2563/2000 DO CONSELHO de 20 de Novembro de 2000",
+     "published": null,
+     "celex": "32000R2563"
+    },
+    {
+     "id": "eu:celex:32001R2487:por",
+     "title": "REGULAMENTO (CE) N. o 2487/2001 DA COMISSÃO de 18 de Dezembro de 2001",
+     "published": null,
+     "celex": "32001R2487"
+    },
+    {
+     "id": "eu:celex:32003R0607:por",
+     "title": "REGULAMENTO (CE) N. o 607/2003 DA COMISSÃO de 2 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0607"
+    },
+    {
+     "id": "eu:celex:32005R0374:por",
+     "title": "REGULAMENTO (CE) N. o 374/2005 DO CONSELHO de 28 de Fevereiro de 2005",
+     "published": null,
+     "celex": "32005R0374"
+    },
+    {
+     "id": "eu:celex:32005R1282:por",
+     "title": "REGULAMENTO (CE) N. o 1282/2005 DA COMISSÃO de 3 de Agosto de 2005",
+     "published": null,
+     "celex": "32005R1282"
+    },
+    {
+     "id": "eu:celex:32005R1946:por",
+     "title": "REGULAMENTO (CE) N. o 1946/2005 DO CONSELHO de 14 de Novembro de 2005",
+     "published": null,
+     "celex": "32005R1946"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Regime preferencial",
+    "Altera Artigo 2.º — Requisitos para poder beneficiar do regime preferencial",
+    "Altera Artigo 3.º — Concessões limitadas para determinados produtos têxteis",
+    "Altera Artigo 7.º — Gestão dos contingentes pautais",
+    "Altera Artigo 10.º — Comité de gestão",
+    "Altera Artigo 16.º — Medidas transitórias",
+    "Altera Artigo 17.º — Entrada em vigor e aplicação",
+    "Adita Artigo 4.º — Produtos agrícolas — contingentes pautais",
+    "Adita Artigo 6.º",
+    "Adita Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar",
+    "Adita Artigo 13.º — Alteração do Regulamento (CE) n.º 2820/98",
+    "Adita ANEXO I",
+    "Adita RELATIVO AOS CONTINGENTES PAUTAIS REFERIDOS NO N.º 1 DO ARTIGO 4.º",
+    "Adita ANEXO II",
+    "Adita Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º",
+    "Adita Notas",
+    "Suprime Artigo 4.º — Produtos agrícolas - contingentes pautais",
+    "Suprime Artigo 5.º — Contingentes pautais para os produtos do alumínio originários da República Federativa da Jugoslávia",
+    "Suprime Artigo 6.º — Aplicação do contigente pautal para os produtos \"baby-beef\"",
+    "Suprime Artigo 13.º — Alteração do Regulamento (CE) n.o 2820/98",
+    "Suprime ANEXO I — relativo aos contingentes pautais referidos no n.o 1 do artigo 4.o",
+    "Suprime ANEXO II — Definição dos produtos \"baby beef\" referidos no n.o 2 do artigo 4.o",
+    "Suprime ANEXO III"
+   ],
+   "fragments": [
+    "1fd87bf21e8c7f7e",
+    "5817164e395dc0f8",
+    "676b5c598103e8b2",
+    "49aca9ba9b301288",
+    "4613a4bae8b9aac1",
+    "42f387581c46dbb5",
+    "9b8a1cc8ca05fd7e",
+    "1458f68b626d1e4a",
+    "59671e6e8b9c0e97",
+    "75d05477e8654c8e",
+    "4ce9f86a0ed22308",
+    "2c02d1c604f2a08e",
+    "01136a260725179a",
+    "6727f2f12d86aad9",
+    "ce6ba1b287367477",
+    "e7fb90b6ffd5f958",
+    "7085903465e82042",
+    "e14c80440f065f1a",
+    "d664376e2a8dcecd",
+    "529146ab0e38e1e4",
+    "852174729551523b",
+    "42826d44ee252513",
+    "cdd262c8c8aaab52"
+   ]
+  },
+  {
+   "date": "2007-05-16",
+   "future": false,
+   "celex": "02000R2007-20070516",
+   "acts": [
+    {
+     "id": "eu:celex:32007R0530:por",
+     "title": "REGULAMENTO (CE) N. o 530/2007 DO CONSELHO de 8 de Maio de 2007",
+     "published": null,
+     "celex": "32007R0530"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Regime preferencial",
+    "Altera Artigo 3.º — Concessões limitadas para determinados produtos têxteis",
+    "Altera Artigo 4.º — Produtos agrícolas — contingentes pautais",
+    "Altera Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar",
+    "Altera Artigo 10.º — Comité de gestão",
+    "Altera Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º",
+    "Altera Notas",
+    "Adita Relativo aos contingentes pautais referidos no n.º 1 do artigo 4.º",
+    "Suprime RELATIVO AOS CONTINGENTES PAUTAIS REFERIDOS NO N.º 1 DO ARTIGO 4.º"
+   ],
+   "fragments": [
+    "bd90c15a3666817b",
+    "91c4b26cd2f89f38",
+    "676b5c598103e8b2",
+    "738965f8f623bc0a",
+    "4113824962afe192",
+    "42f387581c46dbb5",
+    "590899879f5b0125",
+    "1458f68b626d1e4a",
+    "59671e6e8b9c0e97",
+    "75d05477e8654c8e",
+    "8a461939ec33e6d1",
+    "2c02d1c604f2a08e",
+    "01136a260725179a",
+    "6727f2f12d86aad9",
+    "ce6ba1b287367477",
+    "e7fb90b6ffd5f958",
+    "7085903465e82042",
+    "e14c80440f065f1a",
+    "d664376e2a8dcecd",
+    "943d52268990d79a",
+    "852174729551523b",
+    "4817aa616c6675b6",
+    "d058f05e10d4b81f"
+   ]
+  },
+  {
+   "date": "2008-05-11",
+   "future": false,
+   "celex": "02000R2007-20080511",
+   "acts": [
+    {
+     "id": "eu:celex:32008R0407:por",
+     "title": "REGULAMENTO (CE) N. o 407/2008 DA COMISSÃO de 7 de Maio de 2008",
+     "published": null,
+     "celex": "32008R0407"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Regime preferencial",
+    "Altera Artigo 4.º — Produtos agrícolas — contingentes pautais",
+    "Altera Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar",
+    "Altera Artigo 10.º — Comité de gestão",
+    "Altera ANEXO I",
+    "Altera Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º",
+    "Altera Notas",
+    "Suprime Artigo 3.º — Concessões limitadas para determinados produtos têxteis",
+    "Suprime Relativo aos contingentes pautais referidos no n.º 1 do artigo 4.º"
+   ],
+   "fragments": [
+    "66e4540ad0ea179a",
+    "b1573aa62303e15c",
+    "678429484ee2b910",
+    "e58cc96f4829cdd9",
+    "42f387581c46dbb5",
+    "a4873c45c9e0f837",
+    "1458f68b626d1e4a",
+    "59671e6e8b9c0e97",
+    "75d05477e8654c8e",
+    "317ab0a6be32fc04",
+    "2c02d1c604f2a08e",
+    "01136a260725179a",
+    "6727f2f12d86aad9",
+    "ce6ba1b287367477",
+    "e7fb90b6ffd5f958",
+    "7085903465e82042",
+    "e14c80440f065f1a",
+    "bc49bc4c70cc2a3f",
+    "852174729551523b",
+    "4c116f3a7391951e",
+    "9d1871571870388f"
+   ]
+  },
+  {
+   "date": "2010-01-04",
+   "future": false,
+   "celex": "02000R2007-20100104",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Regime preferencial",
+    "Suprime Artigo 2.º — Requisitos para poder beneficiar do regime preferencial",
+    "Suprime Artigo 4.º — Produtos agrícolas — contingentes pautais",
+    "Suprime Artigo 6.º",
+    "Suprime Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar",
+    "Suprime Artigo 7.º — Gestão dos contingentes pautais",
+    "Suprime Artigo 8.º — Acesso aos contingentes",
+    "Suprime Artigo 9.º — Poderes de execução",
+    "Suprime Artigo 10.º — Comité de gestão",
+    "Suprime Artigo 11.º — Cooperação",
+    "Suprime Artigo 12.º — Suspensão provisória",
+    "Suprime Artigo 13.º — Alteração do Regulamento (CE) n.º 2820/98",
+    "Suprime Artigo 14.º — Revogação",
+    "Suprime Artigo 15.º — Aplicação inicial proporcional",
+    "Suprime Artigo 16.º — Medidas transitórias",
+    "Suprime Artigo 17.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "43adbc6d8711ff0a"
+   ]
+  }
+ ],
+ "fragments": {
+  "e5175a262c0363e0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.o 2007/2000 do Conselho, de 18 de Setembro de 2000, que adopta medidas comerciais excepcionais em favor dos países e territórios que participam ou estão ligados ao processo de estabilização e associação da União Europeia, que altera o Regulamento (CE) n.o 2820/98 e que revoga os Regulamentos (CE) n.os 1763/1999 e 6/2000** *Jornal Oficial nº L 240 de 23/09/2000 p. 0001 - 0009*\n\nRegulamento (CE) n.o 2007/2000 do Conselho\n\nde 18 de Setembro de 2000\n\nque adopta medidas comerciais excepcionais em favor dos países e territórios que participam ou estão ligados ao processo de estabilização e associação da União Europeia, que altera o Regulamento (CE) n.o 2820/98 e que revoga os Regulamentos (CE) n.os 1763/1999 e 6/2000\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 133.o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando o seguinte:\n\n(1) Na sua reunião em Lisboa, em 23 e 24 de Março de 2000, o Conselho Europeu concluiu que os Acordos de Estabilização e Associação com os países dos Balcãs Ocidentais deviam ser precedidos de uma liberalização do comércio assimétrica.\n\n(2) O Conselho, nas suas conclusões de 24 de Janeiro e de 14 de Fevereiro de 2000, convidou também a Comissão a examinar a questão da facilitação do comércio com a República do Montenegro, na República Federativa da Jugoslávia.\n\n(3) O Regulamento (CE) n.o 6/2000 do Conselho de 17 de Dezembro de 1999 relativo ao regime aplicável às importações, na Comunidade, de produtos originários das Repúblicas da Bósnia-Herzegovina e da Croácia e às importações de vinhos originários da antiga República Jugoslava da Macedónia e da República da Eslovénia(1) oferece para determinados produtos industriais a isenção de direitos aduaneiros até aos limites máximos pautais e concessões limitadas para os produtos agrícolas, muitas delas sob a forma de isenção de direitos dentro do limite dos contingentes pautais. O Regulamento (CE) n.o 1763/1999 do Conselho de 29 de Julho de 1999, relativo ao regime aplicável às importações na Comunidade de produtos originários da Albânia e que altera o Regulamento (CE) n.o 2820/98, relativo à aplicação de um sistema plurianual de preferências pautais generalizadas durante o período compreendido entre 1 de Julho de 1999 e 31 de Dezembro de 2001 no que respeita à Albânia(2) prevê um regime semelhante com as mesmas restrições.\n\n(4) O nível geral das importações dos países dos Balcãs Ocidentais é de menos de 0,6 % das importações comunitárias totais. Espera-se que uma maior abertura do mercado contribua para o processo de estabilização política e económica na região sem produzir efeitos negativos na Comunidade.\n\n(5) Por conseguinte, é conveniente melhorar o sistema de preferências comerciais autónomas da Comunidade através da supressão de todos os limites máximos pautais restantes para os produtos industriais e da facilitação do acesso ao mercado comunitário dos produtos agrícolas e da pesca, incluindo os produtos transformados.\n\n(6) Estas medidas inserem-se no âmbito do processo de estabilização e associação, em resposta à situação específica dos Balcãs Ocidentais. Não constituem um precedente para a política comercial comunitária com outros países terceiros.\n\n(7) Em conformidade com o processo de estabilização e associação da União Europeia, baseado na anterior Abordagem Regional e nas conclusões do Conselho de 29 de Abril de 1997, o desenvolvimento das relações bilaterais entre a União Europeia e os países dos Balcãs Ocidentais está sujeito a determinadas condições. A concessão de preferências comerciais autónomas está ligada ao respeito dos princípios fundamentais da democracia e dos direitos humanos e à vontade dos países interessados desenvolverem relações económicas entre si. A concessão de um sistema de preferências comerciais autónomas mais favorável aos países que participam ou estão ligados ao processo de estabilização e associação da UE deve depender da sua vontade de realizarem reformas económicas eficazes e de participarem na cooperação regional, nomeadamente através do estabelecimento de zonas de comércio livre em conformidade com as normas do GATT e da OMC na matéria. Além disso, a concessão do benefício das preferências comerciais autónomas está subordinada aos beneficiários se comprometerem a entabular uma cooperação administrativa efectiva com a Comunidade a fim de evitar qualquer risco de fraude.\n\n(8) As preferências comerciais só podem ser concedidas aos países ou territórios que tenham uma administração aduaneira autónoma.\n\n(9) A Albânia, a Bósnia-Herzegovina, a Croácia, a antiga República Jugoslava da Macedónia e o Kosovo, este último tal como definido na Resolução n.o 1244 do Conselho de Segurança das Nações Unidas, de 10 de Junho de 1999, sujeito à administração civil internacional pela Missão das Nações Unidas no Kosovo (UNMIK) preenchem estas condições, pelo que devem ser concedidas preferências comerciais similares a todos eles a fim de evitar discriminações na região.\n\n(10) A República do Montenegro, na República Federativa da Jugoslávia, não dispõe de uma administração aduaneira autónoma. Por conseguinte, não é possível conceder-lhe as mesmas preferências. Todavia, é possível a concessão de preferências comerciais limitadas a certos produtos industriais do Montenegro que não são produzidos noutras zonas da República Federativa da Jugoslávia sem prejuízo do princípio da exclusão da República Federativa da Jugoslávia do sistema de preferências comerciais no seu conjunto e no pleno respeito do Regulamento (CE) n.o 1294/1999 do Conselho, de 15 de Junho de 1999, relativo ao congelamento de fundos e à proibição de investimentos na República Federativa da Jugoslávia (RFJ) e que revoga os Regulamentos (CE) n.o 1295/98 e (CE) n.o 1607/98(3).\n\n(11) A antiga República Jugoslava da Macedónia já está ligada à Comunidade por um Acordo de Cooperação que prevê preferências comerciais e a Comunidade e os seus Estados-Membros iniciaram negociações para a conclusão de um Acordo de Estabilização e Associação com este país. Ao abrigo do presente regulamento deve ser-lhe, pois, concedido, separadamente, um sistema de concessões equivalente a um melhor sistema de preferências comerciais autónomas, à excepção dos vinhos.\n\n(12) O presente regulamento deve continuar a estabelecer as concessões previstas no Regulamento (CE) n.o 6/2000, que são também aplicáveis à Eslovénia e à antiga República Jugoslava da Macedónia enquanto se aguarda a conclusão de acordos específicos sobre os vinhos com estes países. Dado que estas concessões continuam a consistir num contingente pautal global, convém manter estas disposições num único e mesmo regulamento.\n\n(13) Por conseguinte, afigura-se adequado conceder um melhor sistema de preferências comerciais autónomas à Albânia, à Bósnia-Herzegovina e à Croácia e incluir ainda o Kosovo, e conceder preferências comerciais específicas e limitadas a determinados produtos industriais originários da República Federativa da Jugoslávia.\n\n(14) No que respeita à certificação de origem e aos processos de cooperação administrativa devem aplicar-se as disposições pertinentes do Regulamento (CEE) n.o 2454/93 da Comissão de 2 de Julho de 1993, que fixa determinadas disposições de aplicação do Regulamento (CEE) n.o 2913/92 que estabelece o Código Aduaneiro Comunitário(4).\n\n(15) Num intuito de racionalização e simplificação, é conveniente prever que a Comissão possa, após consulta do Comité do Código Aduaneiro, e sem prejuízo dos procedimentos específicos previstos no presente regulamento, efectuar as alterações e as emendas técnicas necessárias ao regulamento.\n\n(16) As medidas necessárias para a aplicação do presente regulamento devem ser aprovadas nos termos do artigo 2.o da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(5).\n\n(17) A introdução das presentes medidas no que respeita aos produtos agrícolas e da pesca originários das Repúblicas da Albânia, da Bósnia-Herzegovina e da Croácia tornam supérflua a inclusão destas repúblicas no sistema comunitário de preferências pautais generalizadas. Por conseguinte, justifica-se a supressão destas repúblicas da lista dos beneficiários do Regulamento (CE) n.o 2820/98 do Conselho, de 21 de Dezembro de 1998 relativo à aplicação de um sistema plurianual de preferências pautais generalizadas durante o período compreendido entre 1 de Julho de 1999 e 31 de Dezembro de 2001(6).\n\n(18) Um único novo regulamento contendo todas as preferências comerciais autónomas tornará mais transparente o regime comercial comunitário com os países e territórios que participam ou estão ligados ao processo de estabilização e associação da União Europeia. Os Regulamentos (CE) n.os 6/2000 e 1763/1999 devem, consequentemente, ser revogados.\n\n(19) Estas disposições em matéria de importação devem ser renovadas nos termos estabelecidos pelo Conselho e tendo em conta a experiência adquirida com a aplicação das referidas disposições nos termos do presente regulamento. Convém, assim, limitar a duração das referidas disposições a 31 de Dezembro de 2002,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "56b7772b3476163d": {
+   "fragment_id": "Artigo 1.º — Regime preferencial",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Regime preferencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regime preferencial\n\n1. Sem prejuízo das disposições especiais estabelecidas nos artigos 3.o e 4.o, os produtos originários das Repúblicas da Albânia, da Bósnia-Herzegovina e da Croácia, bem como do Kosovo, tal como definido pelo Conselho de Segurança das Nações Unidas, a seguir denominado Kosovo, com excepção dos produtos classificados nas posições 0102, 0201, 0202 e 1604 da Nomenclatura Combinada, são admitidos para importação na Comunidade sem limites quantitativos ou medidas de efeito equivalente e com isenção de direitos aduaneiros ou taxas de efeito equivalente.\n\n2. As importações de vinhos originários da República da Eslovénia e da antiga República Jugoslava da Macedónia beneficiam das concessões previstas no artigo 4.o\n\n3. Determinados produtos industriais originários da República Federativa da Jugoslávia beneficiam das concessões previstas no artigo 5.o"
+  },
+  "27a87ef63ced247f": {
+   "fragment_id": "Artigo 2.º — Requisitos para poder beneficiar do regime preferencial",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Requisitos para poder beneficiar do regime preferencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisitos para poder beneficiar do regime preferencial\n\n1. O direito ao benefício das disposições preferenciais introduzidas pelo artigo 1.o está sujeito:\n\na) À observância da definição de produtos originários dada no título IV, secção 2 do capítulo 2, do Regulamento (CEE) n.o 2454/93 e\n\nb) À abstenção por parte dos países e territórios mencionados no artigo 1.o de não introduzirem novos direitos ou taxas de efeito equivalente nem novos limites quantitativos ou medidas de efeito equivalente sobre as importações originárias da Comunidade, de não aumentarem o nível dos direitos ou das taxas em vigor e de não introduzirem quaisquer outras limitações a partir da data de entrada em vigor do presente regulamento.\n\nc) Aos beneficiários se comprometerem a encetarem uma efectiva cooperação administrativa com a Comunidade, a fim de evitar qualquer risco de fraude.\n\n2. No que respeita à Albânia, a Bósnia-Herzegovina e a Croácia, o direito ao benefício das disposições preferenciais introduzidas pelo artigo 1.o está também sujeito à sua vontade de realizarem reformas económicas eficazes e estabelecerem cooperação regional com os outros países interessados no processo de estabilização e associação da União Europeia, nomeadamente através da criação de zonas de comércio livre, em conformidade com o disposto no artigo XXIV do GATT 1994 e outras disposições da OMC na matéria.\n\nEm caso de inobservância do disposto no presente número, o Conselho pode tomar as medidas adequadas por voto por maioria qualificada, sob proposta da Comissão."
+  },
+  "1b15a14fe7ed9c23": {
+   "fragment_id": "Artigo 3.º — Concessões limitadas para determinados produtos têxteis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Concessões limitadas para determinados produtos têxteis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Concessões limitadas para determinados produtos têxteis\n\n1. Para os produtos têxteis originários dos países ou territórios referidos no n.o 1 do artigo 1.o do presente regulamento e também indicados no anexo III B do Regulamento (CE) n.o 517/94 do Conselho, de 7 de Março de 1994, relativo ao regime comum aplicável às importações de produtos têxteis de determinados países terceiros, não abrangidas por acordos, protocolos ou outros convénios bilaterais ou por outras regras comunitárias específicas de importação(7), a isenção de direitos aduaneiros e taxas de efeito equivalente fica limitada às quantidades comunitárias anuais estabelecidas no Regulamento (CE) n.o 517/94.\n\n2. No que respeita às reimportações após uma operação de aperfeiçoamento passivo em conformidade com o Regulamento (CE) n.o 3036/94 do Conselho, de 8 de Dezembro de 1994, que institui um regime de aperfeiçoamento económico passivo aplicável a certos produtos têxteis e de vestuário reimportados na Comunidade após fabrico ou transformação em certos países terceiros(8), a isenção de direitos aduaneiros limita-se às quantidades comunitárias anuais estabelecidas no anexo VI do Regulamento (CE) n.o 517/94 sempre que os produtos sejam originários dos países ou territórios mencionados no n.o 1, do artigo 1.o do presente regulamento."
+  },
+  "b9d099d7c5e9be28": {
+   "fragment_id": "Artigo 4.º — Produtos agrícolas - contingentes pautais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Produtos agrícolas - contingentes pautais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produtos agrícolas - contingentes pautais\n\n1. Para determinados produtos da pesca originários da Albânia, da Bósnia-Herzegovina e da Croácia e para os vinhos originários dos países e territórios referidos nos n.os 1 e 2 do artigo 1.o, ambos indicados no anexo I, os direitos aduaneiros aplicáveis às importações na Comunidade ficam suspensos durante os períodos, ao nível e dentro dos limites dos contingentes pautais comunitários indicados para cada produto no referido Anexo.\n\n2. Os direitos aduaneiros aplicáveis às importações na Comunidade de produtos \"baby-beef\" definidos no anexo II e originários dos países e territórios referidos no n.o 1 do artigo 1.o, são de 20 % do direito ad valorem e 20 % do direito específico, tal como estabelecido na pauta aduaneira comum, dentro dos limites de um contingente pautal anual de 10900 toneladas expressas em peso por carcaça.\n\nO volume do contingente pautal anual de 10900 toneladas será distribuído entre as repúblicas beneficiárias, do seguinte modo:\n\na) 1500 toneladas (peso por carcaça) de produtos \"baby-beef\" originários da Bósnia-Herzegovina,\n\nb) 9400 toneladas (peso por carcaça) de produtos \"baby-beef\" originários da Croácia.\n\nAs importações na Comunidade de produtos \"baby-beef\" definidos no anexo II e originários da Albânia e do Kosovo, não beneficiam de qualquer concessão pautal.\n\nQualquer pedido de importação dentro do contingente será acompanhado de um certificado de autenticidade emitido pelas autoridades competentes do país exportador comprovativo de que os produtos são originários do país ou território em questão e correspondem à definição constante do anexo II. A forma do certificado será estabelecida pela Comissão em conformidade com o procedimento previsto no artigo 43.o do Regulamento n.o 1254/99 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector da carne de bovino(9)."
+  },
+  "4f4bc5e6568bbfcf": {
+   "fragment_id": "Artigo 5.º — Contingentes pautais para os produtos do alumínio originários da República Federativa da Jugoslávia",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Contingentes pautais para os produtos do alumínio originários da República Federativa da Jugoslávia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contingentes pautais para os produtos do alumínio originários da República Federativa da Jugoslávia\n\nDe 1 de Janeiro a 31 de Dezembro de cada ano, as importações na Comunidade de produtos do alumínio originários da República Federativa da Jugoslávia e indicados no anexo III beneficiam de isenção de direitos aduaneiros, em conformidade com os contingentes pautais comunitários especificados nesse anexo."
+  },
+  "59321a030d28ff41": {
+   "fragment_id": "Artigo 6.º — Aplicação do contigente pautal para os produtos \"baby-beef\"",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Aplicação do contigente pautal para os produtos \"baby-beef\"",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicação do contigente pautal para os produtos \"baby-beef\"\n\nAs normas de execução relativas ao contingente pautal para os produtos \"baby-beef\" serão determinadas pela Comissão em conformidade com o procedimento previsto no artigo 43.o do Regulamento (CE) n.o 1254/1999."
+  },
+  "e7b3e024903436f8": {
+   "fragment_id": "Artigo 7.º — Gestão dos contingentes pautais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Gestão dos contingentes pautais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão dos contingentes pautais\n\nOs contingentes pautais referidos no n.o 1 do artigo 4.o e no artigo 5.o são geridos pela Comissão em conformidade com o disposto nos artigos 308.o-A, 308.o-B e 308.o-C do Regulamento (CEE) n.o 2454/93.\n\nAs comunicações para o efeito entre os Estados-Membros e a Comissão devem ser efectuadas, sempre que possível, por ligação telemática."
+  },
+  "59671e6e8b9c0e97": {
+   "fragment_id": "Artigo 8.º — Acesso aos contingentes",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Acesso aos contingentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso aos contingentes\n\nCada Estado-Membro assegurará que os importadores dos produtos em questão tenham um acesso equitativo e ininterrupto aos contingentes pautais enquanto o saldo do volume do contingente em causa o permitir."
+  },
+  "e3aaf9ea16bfda03": {
+   "fragment_id": "Artigo 9.º — Poderes de execução",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Poderes de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Poderes de execução\n\nA Comissão adoptará, nos termos do procedimento referido no n.o 2 do artigo 10.o, as disposições necessárias para a aplicação do presente regulamento, excepto as previstas no artigo 6.o e, nomeadamente:\n\na) As alterações e ajustamentos técnicos necessários na sequência de alterações aos códigos da Nomenclatura Combinada e às subdivisões do Taric,\n\nb) Os ajustamentos necessários após a conclusão de outros acordos entre a Comunidade e os países e territórios referidos no artigo 1.o"
+  },
+  "b491d5c3d1913712": {
+   "fragment_id": "Artigo 10.º — Comité de gestão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité de gestão\n\n1. A Comissão é assistida pelo Comité do Código Aduaneiro criado pelo artigo 247.o do Regulamento (CEE) n.o 2913/92 do Conselho(10), a seguir designado \"Comité\".\n\n2. Sempre que se remeter para o presente número, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de um mês.\n\n3. O Comité aprova o seu regulamento interno."
+  },
+  "b1865874371cd747": {
+   "fragment_id": "Artigo 11.º — Cooperação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cooperação\n\nOs Estados-Membros e a Comissão cooperarão estreitamente a fim de assegurar o cumprimento do presente regulamento e, nomeadamente, das disposições constantes do n.o 1 do artigo 12.o"
+  },
+  "0df76925345e2422": {
+   "fragment_id": "Artigo 12.º — Suspensão provisória",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Suspensão provisória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Suspensão provisória\n\n1. Sempre que a Comissão verifique que existem elementos de prova suficientes da existência de fraude ou da incapacidade de cooperação administrativa, tal como exigido para a verificação da comprovação da origem, ou um grande aumento das exportações na Comunidade acima do nível normal de produção e da capacidade de exportação, ou o não cumprimento do disposto no n.o 1 do artigo 2.o, por parte dos países e territórios abrangidos pelo presente regulamento, pode tomar medidas tendo em vista a suspensão total ou parcial das disposições previstas no presente regulamento por um período de três meses, na condição de ter primeiramente:\n\na) Informado o Comité;\n\nb) Solicitado aos Estados-Membros que tomem as medidas necessárias a fim de salvaguardar os interesses financeiros da Comunidade e/ou consigam que os países e territórios beneficiários cumpram o n.o 1 do artigo 2.o do presente regulamento;\n\nc) Publicado um aviso no Jornal Oficial das Comunidades Europeias declarando que existe razão para dúvidas quanto à aplicação das disposições preferenciais e/ou cumprimento do disposto no n.o 1 do artigo 2.o do presente regulamento por parte do país beneficiário ou território interessado, o que põe em causa o seu direito de continuar a usufruir dos benefícios concedidos ao abrigo do presente regulamento.\n\n2. Qualquer Estado-Membro pode submeter a decisão da Comissão ao Conselho no prazo de 10 dias. O Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo de 30 dias.\n\n3. Terminado o período de suspensão, a Comissão decidirá pôr termo à medida de suspensão provisória após consulta do Comité referido no n.o 1 do artigo 9.o, ou prorrogar a medida de suspensão de acordo com o procedimento previsto no n.o 1."
+  },
+  "977ed033659bd49a": {
+   "fragment_id": "Artigo 13.º — Alteração do Regulamento (CE) n.o 2820/98",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração do Regulamento (CE) n.o 2820/98",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração do Regulamento (CE) n.o 2820/98\n\nNo Anexo III do Regulamento (CE) n.o 2820/98, são suprimidas as referências aos seguintes países: \"AL Albânia (1)\", \"BA Bósnia-Herzegovina (1)\" e \"HR Croácia (1)\"."
+  },
+  "6dab2370fdd82830": {
+   "fragment_id": "Artigo 14.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Revogação\n\nSão revogados os Regulamentos (CE) n.os 1763/1999 e 6/2000."
+  },
+  "58e31a48660b8c3d": {
+   "fragment_id": "Artigo 15.º — Aplicação inicial proporcional",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Aplicação inicial proporcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação inicial proporcional\n\n1. Em derrogação ao artigo 7.o, aplicam-se os n.os 2, 3 e 4 do presente artigo no que respeita ao primeiro ano civil de aplicação do presente regulamento.\n\n2. Os volumes dos contingentes pautais são calculados em termos de proporção dos volumes de base indicados nos Anexos I e III, tendo em conta a parte do período decorrida antes da data de início de aplicação do presente regulamento.\n\n3. As quantidades importadas no âmbito dos contingentes pautais com os números de ordem 09.1515 e 09.1561 aplicáveis respectivamente no âmbito dos Regulamentos (CE) n.os 6/2000 e 1763/1999 serão imputadas nos respectivos contingentes pautais constantes do anexo I do presente regulamento.\n\n4. As quantidades importadas no âmbito dos contingentes pautais para produtos \"baby-beef\" aplicáveis nos termos do n.o 3 do artigo 5.o e do anexo F do Regulamento (CE) n.o 6/2000 serão imputados nos respectivos contingentes pautais referidos no n.o 2 do artigo 4.o e previstos no anexo II do presente regulamento."
+  },
+  "6ca687e61d92e4bd": {
+   "fragment_id": "Artigo 16.º — Medidas transitórias",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Medidas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Medidas transitórias\n\n1. O benefício das preferências pautais generalizadas estabelecidas pelo Regulamento (CE) n.o 2820/98 continua a ser concedido aos produtos originários da Albânia, da Bósnia-Herzegovina e da Croácia que são introduzidos em livre circulação na Comunidade antes de 1 de Janeiro de 2001, sob condição de:\n\na) Os produtos em causa serem abrangidos por um contrato de compra concluído antes da data de entrada em vigor do presente regulamento, e\n\nb) Poder ser demonstrado às autoridades aduaneiras que tais produtos deixaram o país de origem o mais tardar na data de entrada em vigor do presente regulamento.\n\n2. As autoridades aduaneiras podem considerar cumprido o disposto na alínea b) do n.o 1 se lhes for apresentado um dos seguintes documentos:\n\na) No caso de transporte marítimo ou por vias navegáveis, a guia de remessa demonstrando que o carregamento ocorreu antes da data da entrada em vigor do presente regulamento,\n\nb) No caso de transporte ferroviário, o boletim de expedição aceite pelos caminhos-de-ferro do país de proveniência antes da data de entrada em vigor do presente regulamento,\n\nc) No caso de transporte rodoviário, o caderno TIR (transporte rodoviário internacional) emitido antes da data de entrada em vigor do presente regulamento pela estância aduaneira do país de origem ou qualquer outro documento adequado autenticado pelas autoridades aduaneiras competentes do país de origem antes dessa data,\n\nd) No caso de transporte aéreo, o boletim de expedição comprovativo de que a companhia aérea recebeu os produtos antes da data de entrada em vigor do presente regulamento."
+  },
+  "2a5309f4276ca54b": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir do primeiro dia do segundo mês após a sua entrada em vigor e até 31 de Dezembro de 2002.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 18 de Setembro de 2000.\n\nPelo Conselho\n\nO Presidente\n\nH. Védrine\n\n(1) JO L 2 de 5.1.2000, p. 1.\n\n(2) JO L 211 de 11.8.1999, p. 1.\n\n(3) JO L 153 de 19.6.1999, p. 63 com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1440/2000 da Comissão (JO L 161 de 1.7.2000, p. 68).\n\n(4) JO L 253 de 11.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1602/2000 (JO L 188 de 26.7.2000, p. 1).\n\n(5) JO L 184 de 17.7.1999, p. 23.\n\n(6) JO L 357 de 30.12.1998, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.o 1763/1999 (JO L 211 de 11.8.1999, p. 1).\n\n(7) JO L 67 de 10.3.1994, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2452/1999 da Comissão (JO L 307 de 2.12.1999, p. 14).\n\n(8) JO L 322 de 15.12.1994, p. 1.\n\n(9) JO L 160 de 26.6.1999, p. 21.\n\n(10) JO L 302 de 19.10.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 955/1999 do Parlamento Europeu e do Conselho (JO L 119 de 7.5.1999, p. 1)."
+  },
+  "a5d0fda6b543f5cc": {
+   "fragment_id": "ANEXO I — relativo aos contingentes pautais referidos no n.o 1 do artigo 4.o",
+   "type": "divisao",
+   "heading": "ANEXO I — relativo aos contingentes pautais referidos no n.o 1 do artigo 4.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — relativo aos contingentes pautais referidos no n.o 1 do artigo 4.o\n\nSem prejuízo das normas para a interpretação da nomenclatura combinada, considera-se que a redacção da designação das mercadorias apenas tem um valor indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelo âmbito de aplicação do código NC. Sempre que a menção \"ex\" figurar antes do código NC, o regime preferencial será determinado simultaneamente pelo âmbito de aplicação do código NC e pela descrição correspondente.\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "dda101c1cbeafd51": {
+   "fragment_id": "ANEXO II — Definição dos produtos \"baby beef\" referidos no n.o 2 do artigo 4.o",
+   "type": "divisao",
+   "heading": "ANEXO II — Definição dos produtos \"baby beef\" referidos no n.o 2 do artigo 4.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Definição dos produtos \"baby beef\" referidos no n.o 2 do artigo 4.o\n\nSem prejuízo das normas para a interpretação da nomenclatura combinada, considera-se que a redacção da designação das mercadorias apenas tem um valor indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelo âmbito de aplicação do código NC. Sempre que a menção \"ex\" figurar antes do código NC, o regime preferencial será determinado simultaneamente pelo âmbito de aplicação do código NC e pela descrição correspondente.\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "343b25979034e20a": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nRelativo aos contingentes pautais anuais referidos no artigo 5.o e aplicáveis aos determinados produtos industriais originários da República Federativa da Jugoslávia\n\nSem prejuízo das normas para a interpretação da nomenclatura combinada, considera-se que a redacção da designação das mercadorias apenas tem um valor indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelo âmbito de aplicação do código NC. Sempre que a menção \"ex\" figurar antes do código NC, o regime preferencial será determinado simultaneamente pelo âmbito de aplicação do código NC e pela descrição correspondente.\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "1fd87bf21e8c7f7e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Setembro de 2000\n\nque adopta medidas comerciais excepcionais em favor dos países e territórios que participam ou estão ligados ao processo de estabilização e associação da União Europeia, que altera o Regulamento (CE) n.º 2820/98 e que revoga os Regulamentos (CE) n.^os^ 1763/1999 e 6/2000\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 133.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) Na sua reunião em Lisboa, em 23 e 24 de Março de 2000, o Conselho Europeu concluiu que os Acordos de Estabilização e Associação com os países dos Balcãs Ocidentais deviam ser precedidos de uma liberalização do comércio assimétrica.\n\n(2) O Conselho, nas suas conclusões de 24 de Janeiro e de 14 de Fevereiro de 2000, convidou também a Comissão a examinar a questão da facilitação do comércio com a República do Montenegro, na República Federativa da Jugoslávia.\n\n(3) O Regulamento (CE) n.º 6/2000 do Conselho de 17 de Dezembro de 1999 relativo ao regime aplicável às importações, na Comunidade, de produtos originários das Repúblicas da Bósnia-Herzegovina e da Croácia e às importações de vinhos originários da antiga República Jugoslava da Macedónia e da República da Eslovénia ([^1^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0001)) oferece para determinados produtos industriais a isenção de direitos aduaneiros até aos limites máximos pautais e concessões limitadas para os produtos agrícolas, muitas delas sob a forma de isenção de direitos dentro do limite dos contingentes pautais. O Regulamento (CE) n.º 1763/1999 do Conselho de 29 de Julho de 1999, relativo ao regime aplicável às importações na Comunidade de produtos originários da Albânia e que altera o Regulamento (CE) n.º 2820/98, relativo à aplicação de um sistema plurianual de preferências pautais generalizadas durante o período compreendido entre 1 de Julho de 1999 e 31 de Dezembro de 2001 no que respeita à Albânia ([^2^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0002)) prevê um regime semelhante com as mesmas restrições.\n\n(4) O nível geral das importações dos países dos Balcãs Ocidentais é de menos de 0,6 % das importações comunitárias totais. Espera-se que uma maior abertura do mercado contribua para o processo de estabilização política e económica na região sem produzir efeitos negativos na Comunidade.\n\n(5) Por conseguinte, é conveniente melhorar o sistema de preferências comerciais autónomas da Comunidade através da supressão de todos os limites máximos pautais restantes para os produtos industriais e da facilitação do acesso ao mercado comunitário dos produtos agrícolas e da pesca, incluindo os produtos transformados.\n\n(6) Estas medidas inserem-se no âmbito do processo de estabilização e associação, em resposta à situação específica dos Balcãs Ocidentais. Não constituem um precedente para a política comercial comunitária com outros países terceiros.\n\n(7) Em conformidade com o processo de estabilização e associação da União Europeia, baseado na anterior Abordagem Regional e nas conclusões do Conselho de 29 de Abril de 1997, o desenvolvimento das relações bilaterais entre a União Europeia e os países dos Balcãs Ocidentais está sujeito a determinadas condições. A concessão de preferências comerciais autónomas está ligada ao respeito dos princípios fundamentais da democracia e dos direitos humanos e à vontade dos países interessados desenvolverem relações económicas entre si. A concessão de um sistema de preferências comerciais autónomas mais favorável aos países que participam ou estão ligados ao processo de estabilização e associação da UE deve depender da sua vontade de realizarem reformas económicas eficazes e de participarem na cooperação regional, nomeadamente através do estabelecimento de zonas de comércio livre em conformidade com as normas do GATT e da OMC na matéria. Além disso, a concessão do benefício das preferências comerciais autónomas está subordinada aos beneficiários se comprometerem a entabular uma cooperação administrativa efectiva com a Comunidade a fim de evitar qualquer risco de fraude.\n\n(8) As preferências comerciais só podem ser concedidas aos países ou territórios que tenham uma administração aduaneira autónoma.\n\n(9) A Albânia, a Bósnia-Herzegovina, a Croácia, a antiga República Jugoslava da Macedónia e o Kosovo, este último tal como definido na Resolução n.º 1244 do Conselho de Segurança das Nações Unidas, de 10 de Junho de 1999, sujeito à administração civil internacional pela Missão das Nações Unidas no Kosovo (UNMIK) preenchem estas condições, pelo que devem ser concedidas preferências comerciais similares a todos eles a fim de evitar discriminações na região.\n\n(10) A República do Montenegro, na República Federativa da Jugoslávia, não dispõe de uma administração aduaneira autónoma. Por conseguinte, não é possível conceder-lhe as mesmas preferências. Todavia, é possível a concessão de preferências comerciais limitadas a certos produtos industriais do Montenegro que não são produzidos noutras zonas da República Federativa da Jugoslávia sem prejuízo do princípio da exclusão da República Federativa da Jugoslávia do sistema de preferências comerciais no seu conjunto e no pleno respeito do Regulamento (CE) n.º 1294/1999 do Conselho, de 15 de Junho de 1999, relativo ao congelamento de fundos e à proibição de investimentos na República Federativa da Jugoslávia (RFJ) e que revoga os Regulamentos (CE) n.º 1295/98 e (CE) n.º 1607/98 ([^3^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0003)).\n\n(11) A antiga República Jugoslava da Macedónia já está ligada à Comunidade por um Acordo de Cooperação que prevê preferências comerciais e a Comunidade e os seus Estados-Membros iniciaram negociações para a conclusão de um Acordo de Estabilização e Associação com este país. Ao abrigo do presente regulamento deve ser-lhe, pois, concedido, separadamente, um sistema de concessões equivalente a um melhor sistema de preferências comerciais autónomas, à excepção dos vinhos.\n\n(12) O presente regulamento deve continuar a estabelecer as concessões previstas no Regulamento (CE) n.º 6/2000, que são também aplicáveis à Eslovénia e à antiga República Jugoslava da Macedónia enquanto se aguarda a conclusão de acordos específicos sobre os vinhos com estes países. Dado que estas concessões continuam a consistir num contingente pautal global, convém manter estas disposições num único e mesmo regulamento.\n\n(13) Por conseguinte, afigura-se adequado conceder um melhor sistema de preferências comerciais autónomas à Albânia, à Bósnia-Herzegovina e à Croácia e incluir ainda o Kosovo, e conceder preferências comerciais específicas e limitadas a determinados produtos industriais originários da República Federativa da Jugoslávia.\n\n(14) No que respeita à certificação de origem e aos processos de cooperação administrativa devem aplicar-se as disposições pertinentes do Regulamento (CEE) n.º 2454/93 da Comissão de 2 de Julho de 1993, que fixa determinadas disposições de aplicação do Regulamento (CEE) n.º 2913/92 que estabelece o Código Aduaneiro Comunitário ([^4^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0004)).\n\n(15) Num intuito de racionalização e simplificação, é conveniente prever que a Comissão possa, após consulta do Comité do Código Aduaneiro, e sem prejuízo dos procedimentos específicos previstos no presente regulamento, efectuar as alterações e as emendas técnicas necessárias ao regulamento.\n\n(16) As medidas necessárias para a aplicação do presente regulamento devem ser aprovadas nos termos do artigo 2.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^5^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0005)).\n\n(17) A introdução das presentes medidas no que respeita aos produtos agrícolas e da pesca originários das Repúblicas da Albânia, da Bósnia-Herzegovina e da Croácia tornam supérflua a inclusão destas repúblicas no sistema comunitário de preferências pautais generalizadas. Por conseguinte, justifica-se a supressão destas repúblicas da lista dos beneficiários do Regulamento (CE) n.º 2820/98 do Conselho, de 21 de Dezembro de 1998 relativo à aplicação de um sistema plurianual de preferências pautais generalizadas durante o período compreendido entre 1 de Julho de 1999 e 31 de Dezembro de 2001 ([^6^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0006)).\n\n(18) Um único novo regulamento contendo todas as preferências comerciais autónomas tornará mais transparente o regime comercial comunitário com os países e territórios que participam ou estão ligados ao processo de estabilização e associação da União Europeia. Os Regulamentos (CE) n.^os^ 6/2000 e 1763/1999 devem, consequentemente, ser revogados.\n\n(19) Estas disposições em matéria de importação devem ser renovadas nos termos estabelecidos pelo Conselho e tendo em conta a experiência adquirida com a aplicação das referidas disposições nos termos do presente regulamento. Convém, assim, limitar a duração das referidas disposições a 31 de Dezembro de 2002,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5817164e395dc0f8": {
+   "fragment_id": "Artigo 1.º — Regime preferencial",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Regime preferencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regime preferencial\n\n1. Sem prejuízo das disposições especiais estabelecidas nos artigos 3.º e 4.º, os produtos originários da Albânia, da Bósnia-Herzegovina [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) e dos territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄**, com excepção dos produtos classificados nas posições 0102, 0201, 0202, 1604, 1701, 1702 e 2204 da Nomenclatura Combinada, são admitidos para importação na Comunidade sem limites quantitativos ou medidas de efeito equivalente e com isenção de direitos aduaneiros ou taxas de efeito equivalente.\n\n2. Os produtos originários da República da Croácia e da antiga República jugoslava da Macedónia continuarão a beneficiar das disposições do presente regulamento que assim o estabeleçam ou de quaisquer medidas previstas no presente regulamento que sejam mais favoráveis do que as concessões comerciais previstas no âmbito de acordos bilaterais concluídos entre as Comunidades Europeias e os referidos países.\n\n3. As importações de produtos do sector do açúcar das posições 1701 e 1702 da Nomenclatura Combinada originários da Albânia, da Bósnia-Herzegovina [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) e dos territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄**, beneficiarão das concessões previstas no artigo 4.º"
+  },
+  "676b5c598103e8b2": {
+   "fragment_id": "Artigo 2.º — Requisitos para poder beneficiar do regime preferencial",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Requisitos para poder beneficiar do regime preferencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisitos para poder beneficiar do regime preferencial\n\n1. O direito ao benefício das disposições preferenciais introduzidas pelo artigo 1.º está sujeito:\n\na) À observância da definição de produtos originários dada no título IV, secção 2 do capítulo 2, do Regulamento (CEE) n.º 2454/93 e\n\nb) À abstenção por parte dos países e territórios mencionados no artigo 1.º de não introduzirem novos direitos ou taxas de efeito equivalente nem novos limites quantitativos ou medidas de efeito equivalente sobre as importações originárias da Comunidade, de não aumentarem o nível dos direitos ou das taxas em vigor e de não introduzirem quaisquer outras limitações a partir da data de entrada em vigor do presente regulamento.\n\nc) Aos beneficiários se comprometerem a encetarem uma efectiva cooperação administrativa com a Comunidade, a fim de evitar qualquer risco de fraude.\n\n2. [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) O direito de beneficiar das disposições preferenciais estabelecidas no artigo 1.º está ainda sujeito à vontade dos países beneficiários de realizarem**◄** reformas económicas eficazes e estabelecerem cooperação regional com os outros países interessados no processo de estabilização e associação da União Europeia, nomeadamente através da criação de zonas de comércio livre, em conformidade com o disposto no artigo XXIV do GATT 1994 e outras disposições da OMC na matéria.\n\nEm caso de inobservância do disposto no presente número, o Conselho pode tomar as medidas adequadas por voto por maioria qualificada, sob proposta da Comissão."
+  },
+  "49aca9ba9b301288": {
+   "fragment_id": "Artigo 3.º — Concessões limitadas para determinados produtos têxteis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Concessões limitadas para determinados produtos têxteis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Concessões limitadas para determinados produtos têxteis\n\n1. [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) Para os produtos têxteis originários [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) dos territórios aduaneiros do Montenegro e do Kosovo**◄** **◄** e também indicados no anexo III B do Regulamento (CE) n.º 517/94 do Conselho, de 7 de Março de 1994, relativo ao regime comum aplicável às importações de produtos têxteis de determinados países terceiros, não abrangidas por acordos, protocolos ou outros convénios bilaterais ou por outras regras comunitárias específicas de importação ([^7^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0007)), a isenção de direitos aduaneiros e taxas de efeito equivalente fica limitada às quantidades comunitárias anuais estabelecidas no Regulamento (CE) n.º 517/94.\n\n2. No que respeita às reimportações após uma operação de aperfeiçoamento passivo em conformidade com o Regulamento (CE) n.º 3036/94 do Conselho, de 8 de Dezembro de 1994, que institui um regime de aperfeiçoamento económico passivo aplicável a certos produtos têxteis e de vestuário reimportados na Comunidade após fabrico ou transformação em certos países terceiros ([^8^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0008)), a isenção de direitos aduaneiros limita-se às quantidades comunitárias anuais estabelecidas no anexo VI do Regulamento (CE) n.º 517/94 [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) sempre que os produtos sejam originários [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) dos territórios aduaneiros do Montenegro e do Kosovo**◄** **◄**."
+  },
+  "4613a4bae8b9aac1": {
+   "fragment_id": "Artigo 4.º — Produtos agrícolas — contingentes pautais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Produtos agrícolas — contingentes pautais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produtos agrícolas — contingentes pautais\n\n1. Para determinados produtos da pesca e para os vinhos originários dos países e territórios referidos no artigo 1.º, ambos enumerados no anexo I, os direitos aduaneiros aplicáveis às importações para a Comunidade ficam suspensos durante os períodos, ao nível e dentro dos limites dos contingentes pautais comunitários, indicados para cada produto e origem, nas condições estabelecidas no referido anexo.\n\n2. Os direitos aduaneiros aplicáveis às importações na Comunidade de produtos «baby-beef» definidos no anexo II e originários dos países e territórios referidos no n.º 1 do artigo 1.º, são de 20 % do direito *ad valorem* e 20 % do direito específico, tal como estabelecido na pauta aduaneira comum, dentro dos limites de um contingente pautal anual de [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) 11 475 toneladas**◄** expressas em peso por carcaça.\n\nO volume do contingente pautal anual de [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) 11 475 toneladas**◄** toneladas será distribuído entre as repúblicas beneficiárias, do seguinte modo:\n\na) 1 500 toneladas (peso por carcaça) de produtos «baby-beef» originários da Bósnia-Herzegovina,\n\nd) 9 975 toneladas (peso por carcaça) de produtos *baby-beef* originários [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) dos territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄**.\n\nAs importações para a Comunidade de produtos *baby-beef* definidos no anexo II e originários da Albânia não beneficiam de qualquer concessão pautal.\n\nQualquer pedido de importação dentro do contingente será acompanhado de um certificado de autenticidade emitido pelas autoridades competentes do país exportador comprovativo de que os produtos são originários do país ou território em questão e correspondem à definição constante do anexo II. A forma do certificado será estabelecida pela Comissão em conformidade com o procedimento previsto no artigo 43.º do Regulamento n.º 1254/99 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector da carne de bovino ([^9^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0009)).\n\n3. Sem prejuízo de outras disposições do presente regulamento e, nomeadamente, do seu artigo 12.º, e se, em virtude da sensibilidade particular dos mercados agrícolas e das pescas, a importação de produtos agrícolas e das pescas causar graves perturbações nos mercados comunitários e nos seus mecanismos de regulação, a Comissão pode adoptar as medidas adequadas em conformidade com as regras do Comité de Gestão competente.\n\n4. As importações de produtos do sector do açúcar das posições 1701 e 1702 da Nomenclatura Combinada, originários da Albânia, da Bósnia-Herzegovina e [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) dos territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄**, estarão sujeitas aos seguintes contingentes pautais com isenção de direitos aduaneiros:\n\na) 1 000 toneladas (peso líquido) de produtos do sector do açúcar originários da Albânia;\n\nb) 12 000 toneladas (peso líquido) de produtos do sector do açúcar originários da Bósnia-Herzegovina;\n\nc) 180 000 toneladas (peso líquido) de produtos do sector do açúcar originários [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) dos territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄**."
+  },
+  "42f387581c46dbb5": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º"
+  },
+  "9b8a1cc8ca05fd7e": {
+   "fragment_id": "Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar",
+   "type": "divisao",
+   "heading": "Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar\n\nAs normas de execução relativas ao contingente pautal para os produtos «baby-beef» serão determinadas pela Comissão em conformidade com o procedimento previsto no artigo 43.º do Regulamento (CE) n.º 1254/1999.\n\nAs normas de execução relativas aos contingentes pautais para os produtos do sector do açúcar das posições 1701 e 1702 serão determinadas pela Comissão em conformidade com o procedimento estabelecido no n.º 2 do artigo 42.º do Regulamento (CE) n.º 1260/2001 do Conselho, de 19 de Junho de 2001, que estabelece a organização comum de mercado no sector do açúcar ([^10^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0016))."
+  },
+  "1458f68b626d1e4a": {
+   "fragment_id": "Artigo 7.º — Gestão dos contingentes pautais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Gestão dos contingentes pautais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão dos contingentes pautais\n\nOs contingentes pautais referidos no n.º 1 do artigo 4.º [**►M1**](http://publications.europa.eu/resource/celex/32000R2563) —————**◄**são geridos pela Comissão em conformidade com o disposto nos artigos 308.º-A, 308.º-B e 308.º-C do Regulamento (CEE) n.º 2454/93.\n\nAs comunicações para o efeito entre os Estados-Membros e a Comissão devem ser efectuadas, sempre que possível, por ligação telemática."
+  },
+  "75d05477e8654c8e": {
+   "fragment_id": "Artigo 9.º — Poderes de execução",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Poderes de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Poderes de execução\n\nA Comissão adoptará, nos termos do procedimento referido no n.º 2 do artigo 10.º, as disposições necessárias para a aplicação do presente regulamento, excepto as previstas no artigo 6.º e, nomeadamente:\n\na) As alterações e ajustamentos técnicos necessários na sequência de alterações aos códigos da Nomenclatura Combinada e às subdivisões do Taric,\n\nb) Os ajustamentos necessários após a conclusão de outros acordos entre a Comunidade e os países e territórios referidos no artigo 1.º"
+  },
+  "4ce9f86a0ed22308": {
+   "fragment_id": "Artigo 10.º — Comité de gestão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité de gestão\n\n1. A Comissão é assistida pelo Comité do Código Aduaneiro criado pelo artigo 247.º do Regulamento (CEE) n.º 2913/92 do Conselho ([^11^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0010)), a seguir designado «Comité».\n\n2. Sempre que se remeter para o presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O Comité aprova o seu regulamento interno."
+  },
+  "2c02d1c604f2a08e": {
+   "fragment_id": "Artigo 11.º — Cooperação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cooperação\n\nOs Estados-Membros e a Comissão cooperarão estreitamente a fim de assegurar o cumprimento do presente regulamento e, nomeadamente, das disposições constantes do n.º 1 do artigo 12.º"
+  },
+  "01136a260725179a": {
+   "fragment_id": "Artigo 12.º — Suspensão provisória",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Suspensão provisória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Suspensão provisória\n\n1. Sempre que a Comissão verifique que existem elementos de prova suficientes da existência de fraude ou da incapacidade de cooperação administrativa, tal como exigido para a verificação da comprovação da origem, ou um grande aumento das exportações na Comunidade acima do nível normal de produção e da capacidade de exportação, ou o não cumprimento do disposto no n.º 1 do artigo 2.º, por parte dos países e territórios abrangidos pelo presente regulamento, pode tomar medidas tendo em vista a suspensão total ou parcial das disposições previstas no presente regulamento por um período de três meses, na condição de ter primeiramente:\n\na) Informado o Comité;\n\nb) Solicitado aos Estados-Membros que tomem as medidas necessárias a fim de salvaguardar os interesses financeiros da Comunidade e/ou consigam que os países e territórios beneficiários cumpram o n.º 1 do artigo 2.º do presente regulamento;\n\nc) Publicado um aviso no *Jornal Oficial das Comunidades Europeias* declarando que existe razão para dúvidas quanto à aplicação das disposições preferenciais e/ou cumprimento do disposto no n.º 1 do artigo 2.º do presente regulamento por parte do país beneficiário ou território interessado, o que põe em causa o seu direito de continuar a usufruir dos benefícios concedidos ao abrigo do presente regulamento.\n\n2. Qualquer Estado-Membro pode submeter a decisão da Comissão ao Conselho no prazo de 10 dias. O Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo de 30 dias.\n\n3. Terminado o período de suspensão, a Comissão decidirá pôr termo à medida de suspensão provisória após consulta do Comité referido no n.º 1 do artigo 9.º, ou prorrogar a medida de suspensão de acordo com o procedimento previsto no n.º 1."
+  },
+  "6727f2f12d86aad9": {
+   "fragment_id": "Artigo 13.º — Alteração do Regulamento (CE) n.º 2820/98",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração do Regulamento (CE) n.º 2820/98",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração do Regulamento (CE) n.º 2820/98\n\nNo Anexo III do Regulamento (CE) n.º 2820/98, são suprimidas as referências aos seguintes países: «AL Albânia (^1^)», «BA Bósnia-Herzegovina (^1^)»,[**►M1**](http://publications.europa.eu/resource/celex/32000R2563) «XM antiga República jugoslava da Macedónia (^1^)»**◄** e «HR Croácia (^1^)»."
+  },
+  "ce6ba1b287367477": {
+   "fragment_id": "Artigo 14.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Revogação\n\nSão revogados os Regulamentos (CE) n.^os^ 1763/1999 e 6/2000."
+  },
+  "e7fb90b6ffd5f958": {
+   "fragment_id": "Artigo 15.º — Aplicação inicial proporcional",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Aplicação inicial proporcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação inicial proporcional\n\n1. Em derrogação ao artigo 7.º, aplicam-se os n.^os^ 2, 3 e 4 do presente artigo no que respeita ao primeiro ano civil de aplicação do presente regulamento.\n\n2. Os volumes dos contingentes pautais são calculados em termos de proporção dos volumes de base indicados nos Anexos I e III, tendo em conta a parte do período decorrida antes da data de início de aplicação do presente regulamento.\n\n3. As quantidades importadas no âmbito dos contingentes pautais com os números de ordem 09.1515 e 09.1561 aplicáveis respectivamente no âmbito dos Regulamentos (CE) n.^os^ 6/2000 e 1763/1999 serão imputadas nos respectivos contingentes pautais constantes do anexo I do presente regulamento.\n\n4. As quantidades importadas no âmbito dos contingentes pautais para produtos «baby-beef» aplicáveis nos termos do n.º 3 do artigo 5.º e do anexo F do Regulamento (CE) n.º 6/2000 serão imputados nos respectivos contingentes pautais referidos no n.º 2 do artigo 4.º e previstos no anexo II do presente regulamento."
+  },
+  "7085903465e82042": {
+   "fragment_id": "Artigo 16.º — Medidas transitórias",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Medidas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Medidas transitórias\n\n1. O benefício das preferências pautais generalizadas estabelecidas pelo Regulamento (CE) n.º 2820/98 continua a ser concedido aos produtos originários da Albânia, da Bósnia-Herzegovina e da Croácia que são introduzidos em livre circulação na Comunidade antes de 1 de Janeiro de 2001[**►M1**](http://publications.europa.eu/resource/celex/32000R2563) bem como aos produtos originários da antiga República jugoslava da Macedónia que são introduzidos em livre circulação na Comunidade antes do primeiro dia do terceiro mês seguinte à entrada em vigor do Regulamento (CE) n.º 2563/2000 que altera o presente regulamento**◄**, sob condição de:\n\na) Os produtos em causa serem abrangidos por um contrato de compra concluído antes da data de entrada em vigor do presente regulamento, e\n\nb) Poder ser demonstrado às autoridades aduaneiras que tais produtos deixaram o país de origem o mais tardar na data de entrada em vigor do presente regulamento.\n\n2. As autoridades aduaneiras podem considerar cumprido o disposto na alínea b) do n.º 1 se lhes for apresentado um dos seguintes documentos:\n\na) No caso de transporte marítimo ou por vias navegáveis, a guia de remessa demonstrando que o carregamento ocorreu antes da data da entrada em vigor do presente regulamento,\n\nb) No caso de transporte ferroviário, o boletim de expedição aceite pelos caminhos-de-ferro do país de proveniência antes da data de entrada em vigor do presente regulamento,\n\nc) No caso de transporte rodoviário, o caderno TIR (transporte rodoviário internacional) emitido antes da data de entrada em vigor do presente regulamento pela estância aduaneira do país de origem ou qualquer outro documento adequado autenticado pelas autoridades aduaneiras competentes do país de origem antes dessa data,\n\nd) No caso de transporte aéreo, o boletim de expedição comprovativo de que a companhia aérea recebeu os produtos antes da data de entrada em vigor do presente regulamento."
+  },
+  "e14c80440f065f1a": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir do primeiro dia do segundo mês após a sua entrada em vigor e até [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) 31 de Dezembro de 2010**◄**.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "529146ab0e38e1e4": {
+   "fragment_id": "RELATIVO AOS CONTINGENTES PAUTAIS REFERIDOS NO N.º 1 DO ARTIGO 4.º",
+   "type": "divisao",
+   "heading": "RELATIVO AOS CONTINGENTES PAUTAIS REFERIDOS NO N.º 1 DO ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RELATIVO AOS CONTINGENTES PAUTAIS REFERIDOS NO N.º 1 DO ARTIGO 4.º\n\nSem prejuízo das regras para a interpretação da Nomenclatura Combinada, considera-se que o descritivo dos produtos tem carácter meramente indicativo, sendo o regime preferencial determinado, no âmbito do presente anexo, pelos códigos NC. Quando são indicados códigos ex NC, o regime preferencial é determinado pela aplicação conjunta do código NC e da desigação correspondente.\n\n| Número de ordem | Código NC | Designação das mercadorias | Volume anual do contingente [(^1^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0011) | Beneficiários | Taxa do direito |\n| --- | --- | --- | --- | --- | --- |\n| 09.1571 | 0301 91 10 | Trutas (*Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache, e Oncorhynchus chrysogaster*): vivas; frescas ou refrigeradas; congeladas; salgadas, em salmoura, secas ou fumadas; filetes e outra carne de peixe; farinhas, pós e *pellets*, próprias para consumo humano | 120 toneladas | Albânia, Bósnia-Herzegovina, antiga República jugoslava da Macedónia, [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄** | Isenção |\n| 0301 91 90 |  |  |  |  |  |\n| 0302 11 10 |  |  |  |  |  |\n| [**►M3**](http://publications.europa.eu/resource/celex/32003R0607) 0302 11 20**◄** |  |  |  |  |  |\n| [**►M3**](http://publications.europa.eu/resource/celex/32003R0607) 0302 11 80**◄** |  |  |  |  |  |\n| 0303 21 10 |  |  |  |  |  |\n| [**►M3**](http://publications.europa.eu/resource/celex/32003R0607) 0303 21 20**◄** |  |  |  |  |  |\n| [**►M3**](http://publications.europa.eu/resource/celex/32003R0607) 0303 21 80**◄** |  |  |  |  |  |\n| [**►M3**](http://publications.europa.eu/resource/celex/32003R0607) 0304 10 15**◄** |  |  |  |  |  |\n| [**►M3**](http://publications.europa.eu/resource/celex/32003R0607) 0304 10 17**◄** |  |  |  |  |  |\n| ex030410 19 |  |  |  |  |  |\n| ex030410 91 |  |  |  |  |  |\n| [**►M3**](http://publications.europa.eu/resource/celex/32003R0607) 0304 20 15**◄** |  |  |  |  |  |\n| [**►M3**](http://publications.europa.eu/resource/celex/32003R0607) 0304 20 17**◄** |  |  |  |  |  |\n| ex030420 19 |  |  |  |  |  |\n| ex030490 10 |  |  |  |  |  |\n| ex030510 00 |  |  |  |  |  |\n| ex030530 90 |  |  |  |  |  |\n| 0305 49 45 |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) ex030559 80**◄** |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) ex030569 80**◄** |  |  |  |  |  |\n| 09.1573 | 0301 93 00 | Carpas: vivas; frescas ou refrigeradas; congeladas; salgadas, em salmoura, secas ou fumadas; filetes e outra carne de peixe; farinhas, pós e *pellets*, próprias para consumo humano | 140 toneladas | Albânia, Bósnia-Herzegovina, antiga República jugoslava da Macedónia, [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄** | Isenção |\n| 0302 69 11 |  |  |  |  |  |\n| 0303 79 11 |  |  |  |  |  |\n| ex030410 19 |  |  |  |  |  |\n| ex030410 91 |  |  |  |  |  |\n| ex030420 19 |  |  |  |  |  |\n| ex030490 10 |  |  |  |  |  |\n| ex030510 00 |  |  |  |  |  |\n| ex030530 90 |  |  |  |  |  |\n| ex030549 80 |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) ex030559 80**◄** |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) ex030569 80**◄** |  |  |  |  |  |\n| 09.1575 | ex030199 90 | Douradas do mar das espécies *Dentex dentex* e *Pagellus* spp: frescas ou refrigeradas; congeladas; salgadas, em salmoura, secas ou fumadas; filetes e outra carne de peixe; farinhas, pós e *pellets*, próprias para consumo humano | 115 toneladas | Albânia, Bósnia-Herzegovina, [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄** | Isenção |\n| 0302 69 61 |  |  |  |  |  |\n| 0303 79 71 |  |  |  |  |  |\n| ex030410 38 |  |  |  |  |  |\n| ex030410 98 |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) ex030420 94**◄** |  |  |  |  |  |\n| ex030490 97 |  |  |  |  |  |\n| ex030510 00 |  |  |  |  |  |\n| ex030530 90 |  |  |  |  |  |\n| ex030549 80 |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) ex030559 80**◄** |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) ex030569 80**◄** |  |  |  |  |  |\n| 09.1577 | ex030199 90 | Robalos legítimos (*Dicentrarchus labrax*), vivos; frescos ou refrigerados; congelados; salgados, em salmoura, secos ou fumados; filetes e outra carne de peixe; farinhas, pós e *pellets*, próprias para consumo humano | 100 toneladas | Albânia, Bósnia-Herzegovina, [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄** | Isenção |\n| 0302 69 94 |  |  |  |  |  |\n| ex030377 00 |  |  |  |  |  |\n| ex030410 38 |  |  |  |  |  |\n| ex030410 98 |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) ex030420 94**◄** |  |  |  |  |  |\n| ex030490 97 |  |  |  |  |  |\n| ex030510 00 |  |  |  |  |  |\n| ex030530 90 |  |  |  |  |  |\n| ex030549 80 |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) ex030559 80**◄** |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) ex030569 80**◄** |  |  |  |  |  |\n| 09.1579 | 1604 13 11 | Preparações e conservas de sardinhas | 70 toneladas | Albânia, Bósnia-Herzegovina, [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄** | 6 % |\n| 1604 13 19 |  |  |  |  |  |\n| ex160420 50 |  |  |  |  |  |\n| 09.1561 | 1604 16 00 | Preparações e conservas de anchovas | 960 toneladas | Albânia, Bósnia-Herzegovina, [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄** | 12,5 % |\n| 1604 20 40 |  |  |  |  |  |\n| 09.1515 | 2204 21 79 | Vinhos de uvas frescas, de teor alcoólico volúmico não superior a 15 % vol, excluídos os vinhos espumosos | 152 000 hl [(^2^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0012) | Albânia, Bósnia-Herzegovina, Croácia [(^3^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0013), antiga República jugoslava da Macedónia [(^4^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0014), [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄** | Isenção |\n| ex220421 80 |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) 2204 21 84**◄** |  |  |  |  |  |\n| [**►M5**](http://publications.europa.eu/resource/celex/32005R1282) ex220421 85**◄** |  |  |  |  |  |\n| 2204 29 65 |  |  |  |  |  |\n| ex220429 75 |  |  |  |  |  |\n| 2204 29 83 |  |  |  |  |  |\n| ex220429 84 |  |  |  |  |  |\n| (^1^)Um volume global por contingente pautal, acessível às importações originárias dos países e territórios beneficiários. (^2^)A partir de 1 de Janeiro de 2003, o volume deste contingente pautal global diminuirá, se os volumes dos contingentes pautais individuais aplicáveis com os números de ordem 09.1588 e 09.1548 para determinados vinhos originários da Croácia e da Eslovénia aumentarem. (^3^)O acesso do vinho originário da República da Croácia a este contingente pautal global está subordinado ao esgotamento prévio dos contingentes pautais individuais previstos no protocolo adicional sobre os vinhos concluído com este país. Esses contingentes pautais individuais estão abertos com os números de ordem 09.1588 e 09.1589. (^4^)O acesso do vinho originário da antiga República jugoslava da Macedónia a este contingente pautal global está subordinado ao esgotamento prévio dos contingentes pautais individuais previstos no protocolo adicional sobre os vinhos concluído com este país. Esses contingentes pautais individuais estão abertos com os números de ordem 09.1558 e 09.1559. |  |  |  |  |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "42826d44ee252513": {
+   "fragment_id": "Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º",
+   "type": "divisao",
+   "heading": "Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º\n\nSem prejuízo das normas para a interpretação da nomenclatura combinada, considera-se que a redacção da designação das mercadorias apenas tem um valor indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelo âmbito de aplicação do código NC. Sempre que a menção «ex» figurar antes do código NC, o regime preferencial será determinado simultaneamente pelo âmbito de aplicação do código NC e pela descrição correspondente.\n\n| Código | Sub-divisão Taric | Designação das mercadorias |\n| --- | --- | --- |\n|  |  | Animais vivos da espécia bovina: |\n|  |  | – Outros: |\n|  |  | – – Das espécies domésticas: |\n|  |  | – – – De peso superior a 300 kg: |\n|  |  | – – – – Novilhas (bovinos fêmeas, que nunca tenham parido): |\n| ex010290 51 |  | – – – – – Destinadas a abate: |\n|  | 10 | – Não tendo nenhum dente de substituição e de peso igual ou superior a 320 kg e inferior ou igual a 470 kg [(^1^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0015) |\n| ex010290 59 |  | – – – – – Outros: |\n|  | 11213191 | – Não tendo nenhum dente de substituição e de peso igual ou superior a 320 kg e inferior ou igual a 470 kg [(^1^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0015) |\n|  |  | – – – – Outros: |\n| ex010290 71 |  | – – – – – Destinados a abate: |\n|  | 10 | – Touros e bois não tendo nenhum dente de substituição e de peso igual ou superior a 350 kg e inferior ou igual a 500 kg [(^1^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0015) |\n| ex010290 79 |  | – – – – – Outros: |\n|  | 2191 | – Touros e bois não tendo nenhum dente de substituição e de peso igual ou superior a 350 kg e inferior ou igual a 500 kg [(^1^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0015) |\n|  |  | Carnes de animais da espécie bovina, frescas ou refrigeradas: |\n| ex020110 00 |  | – Carcaças e meias carcaças: |\n|  | 91 | – Carcaças tendo um peso igual ou superior a 180 kg e inferior ou igual a 300 kg e meias carcaças tendo um peso igual ou superior a 90 kg e inferior ou igual a 150 kg, apresentado um fraco grau de ossificação das cartilagens (nomeadamente, as das sínfises públicas e das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0015) |\n|  |  | – Outras peças não desossadas: |\n| ex020120 20 |  | – – Quartos denominados «compensados»: |\n|  | 91 | – Quartos ditos «compensados», tendo um peso igual ou superior a 90 kg e inferior ou igual a 150 kg, apresentado um fraco grau de ossificação das cartilagens (nomeadamente, as das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0015) |\n| ex020120 30 |  | – – Quartos dianteiros separados ou não: |\n|  | 91 | – Quartos dianteiros separados, tendo um peso igual ou superior a 45 kg e inferior ou igual a 75 kg, apresentado um fraco grau de ossificação das cartilagens (nomeadamente, as das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0015) |\n| ex020120 50 |  | – – Quartos traseiros separados ou não: |\n|  | 91 | – Quartos traseiros separados, tendo um peso igual ou superior a 45 kg e inferior ou igual a 75 kg, sendo esse peso igual ou superior a 38 kg e inferior ou igual a 68 kg, quando se tratam de cortes ditos «pistola», apresentando um fraco grau de ossificação das cartilagens (nomeadamente, as das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#E0015) |\n| (^1^)A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria. |  |  |\n\n---"
+  },
+  "cdd262c8c8aaab52": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#src.E0001)) JO L 2 de 5.1.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#src.E0002)) JO L 211 de 11.8.1999, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#src.E0003)) JO L 153 de 19.6.1999, p. 63 com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1440/2000 da Comissão (JO L 161 de 1.7.2000, p. 68).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#src.E0004)) JO L 253 de 11.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1602/2000 (JO L 188 de 26.7.2000, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#src.E0006)) JO L 357 de 30.12.1998, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1763/1999 (JO L 211 de 11.8.1999, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#src.E0007)) JO L 67 de 10.3.1994, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2452/1999 da Comissão (JO L 307 de 2.12.1999, p. 14).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#src.E0008)) JO L 322 de 15.12.1994, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#src.E0009)) JO L 160 de 26.6.1999, p. 21.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#src.E0016)) JO L 178 de 30.6.2001, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 39/2004 da Comissão (JO L 6 de 10.1.2004, p. 16).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/f9704bca-e1fa-4da3-954d-708d141cf466.0016.03/DOC_1#src.E0010)) JO L 302 de 19.10.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 955/1999 do Parlamento Europeu e do Conselho (JO L 119 de 7.5.1999, p. 1)."
+  },
+  "bd90c15a3666817b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Setembro de 2000\n\nque adopta medidas comerciais excepcionais em favor dos países e territórios que participam ou estão ligados ao processo de estabilização e associação da União Europeia, que altera o Regulamento (CE) n.º 2820/98 e que revoga os Regulamentos (CE) n.^os^ 1763/1999 e 6/2000\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 133.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) Na sua reunião em Lisboa, em 23 e 24 de Março de 2000, o Conselho Europeu concluiu que os Acordos de Estabilização e Associação com os países dos Balcãs Ocidentais deviam ser precedidos de uma liberalização do comércio assimétrica.\n\n(2) O Conselho, nas suas conclusões de 24 de Janeiro e de 14 de Fevereiro de 2000, convidou também a Comissão a examinar a questão da facilitação do comércio com a República do Montenegro, na República Federativa da Jugoslávia.\n\n(3) O Regulamento (CE) n.º 6/2000 do Conselho de 17 de Dezembro de 1999 relativo ao regime aplicável às importações, na Comunidade, de produtos originários das Repúblicas da Bósnia-Herzegovina e da Croácia e às importações de vinhos originários da antiga República Jugoslava da Macedónia e da República da Eslovénia ([^1^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0001)) oferece para determinados produtos industriais a isenção de direitos aduaneiros até aos limites máximos pautais e concessões limitadas para os produtos agrícolas, muitas delas sob a forma de isenção de direitos dentro do limite dos contingentes pautais. O Regulamento (CE) n.º 1763/1999 do Conselho de 29 de Julho de 1999, relativo ao regime aplicável às importações na Comunidade de produtos originários da Albânia e que altera o Regulamento (CE) n.º 2820/98, relativo à aplicação de um sistema plurianual de preferências pautais generalizadas durante o período compreendido entre 1 de Julho de 1999 e 31 de Dezembro de 2001 no que respeita à Albânia ([^2^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0002)) prevê um regime semelhante com as mesmas restrições.\n\n(4) O nível geral das importações dos países dos Balcãs Ocidentais é de menos de 0,6 % das importações comunitárias totais. Espera-se que uma maior abertura do mercado contribua para o processo de estabilização política e económica na região sem produzir efeitos negativos na Comunidade.\n\n(5) Por conseguinte, é conveniente melhorar o sistema de preferências comerciais autónomas da Comunidade através da supressão de todos os limites máximos pautais restantes para os produtos industriais e da facilitação do acesso ao mercado comunitário dos produtos agrícolas e da pesca, incluindo os produtos transformados.\n\n(6) Estas medidas inserem-se no âmbito do processo de estabilização e associação, em resposta à situação específica dos Balcãs Ocidentais. Não constituem um precedente para a política comercial comunitária com outros países terceiros.\n\n(7) Em conformidade com o processo de estabilização e associação da União Europeia, baseado na anterior Abordagem Regional e nas conclusões do Conselho de 29 de Abril de 1997, o desenvolvimento das relações bilaterais entre a União Europeia e os países dos Balcãs Ocidentais está sujeito a determinadas condições. A concessão de preferências comerciais autónomas está ligada ao respeito dos princípios fundamentais da democracia e dos direitos humanos e à vontade dos países interessados desenvolverem relações económicas entre si. A concessão de um sistema de preferências comerciais autónomas mais favorável aos países que participam ou estão ligados ao processo de estabilização e associação da UE deve depender da sua vontade de realizarem reformas económicas eficazes e de participarem na cooperação regional, nomeadamente através do estabelecimento de zonas de comércio livre em conformidade com as normas do GATT e da OMC na matéria. Além disso, a concessão do benefício das preferências comerciais autónomas está subordinada aos beneficiários se comprometerem a entabular uma cooperação administrativa efectiva com a Comunidade a fim de evitar qualquer risco de fraude.\n\n(8) As preferências comerciais só podem ser concedidas aos países ou territórios que tenham uma administração aduaneira autónoma.\n\n(9) A Albânia, a Bósnia-Herzegovina, a Croácia, a antiga República Jugoslava da Macedónia e o Kosovo, este último tal como definido na Resolução n.º 1244 do Conselho de Segurança das Nações Unidas, de 10 de Junho de 1999, sujeito à administração civil internacional pela Missão das Nações Unidas no Kosovo (UNMIK) preenchem estas condições, pelo que devem ser concedidas preferências comerciais similares a todos eles a fim de evitar discriminações na região.\n\n(10) A República do Montenegro, na República Federativa da Jugoslávia, não dispõe de uma administração aduaneira autónoma. Por conseguinte, não é possível conceder-lhe as mesmas preferências. Todavia, é possível a concessão de preferências comerciais limitadas a certos produtos industriais do Montenegro que não são produzidos noutras zonas da República Federativa da Jugoslávia sem prejuízo do princípio da exclusão da República Federativa da Jugoslávia do sistema de preferências comerciais no seu conjunto e no pleno respeito do Regulamento (CE) n.º 1294/1999 do Conselho, de 15 de Junho de 1999, relativo ao congelamento de fundos e à proibição de investimentos na República Federativa da Jugoslávia (RFJ) e que revoga os Regulamentos (CE) n.º 1295/98 e (CE) n.º 1607/98 ([^3^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0003)).\n\n(11) A antiga República Jugoslava da Macedónia já está ligada à Comunidade por um Acordo de Cooperação que prevê preferências comerciais e a Comunidade e os seus Estados-Membros iniciaram negociações para a conclusão de um Acordo de Estabilização e Associação com este país. Ao abrigo do presente regulamento deve ser-lhe, pois, concedido, separadamente, um sistema de concessões equivalente a um melhor sistema de preferências comerciais autónomas, à excepção dos vinhos.\n\n(12) O presente regulamento deve continuar a estabelecer as concessões previstas no Regulamento (CE) n.º 6/2000, que são também aplicáveis à Eslovénia e à antiga República Jugoslava da Macedónia enquanto se aguarda a conclusão de acordos específicos sobre os vinhos com estes países. Dado que estas concessões continuam a consistir num contingente pautal global, convém manter estas disposições num único e mesmo regulamento.\n\n(13) Por conseguinte, afigura-se adequado conceder um melhor sistema de preferências comerciais autónomas à Albânia, à Bósnia-Herzegovina e à Croácia e incluir ainda o Kosovo, e conceder preferências comerciais específicas e limitadas a determinados produtos industriais originários da República Federativa da Jugoslávia.\n\n(14) No que respeita à certificação de origem e aos processos de cooperação administrativa devem aplicar-se as disposições pertinentes do Regulamento (CEE) n.º 2454/93 da Comissão de 2 de Julho de 1993, que fixa determinadas disposições de aplicação do Regulamento (CEE) n.º 2913/92 que estabelece o Código Aduaneiro Comunitário ([^4^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0004)).\n\n(15) Num intuito de racionalização e simplificação, é conveniente prever que a Comissão possa, após consulta do Comité do Código Aduaneiro, e sem prejuízo dos procedimentos específicos previstos no presente regulamento, efectuar as alterações e as emendas técnicas necessárias ao regulamento.\n\n(16) As medidas necessárias para a aplicação do presente regulamento devem ser aprovadas nos termos do artigo 2.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^5^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0005)).\n\n(17) A introdução das presentes medidas no que respeita aos produtos agrícolas e da pesca originários das Repúblicas da Albânia, da Bósnia-Herzegovina e da Croácia tornam supérflua a inclusão destas repúblicas no sistema comunitário de preferências pautais generalizadas. Por conseguinte, justifica-se a supressão destas repúblicas da lista dos beneficiários do Regulamento (CE) n.º 2820/98 do Conselho, de 21 de Dezembro de 1998 relativo à aplicação de um sistema plurianual de preferências pautais generalizadas durante o período compreendido entre 1 de Julho de 1999 e 31 de Dezembro de 2001 ([^6^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0006)).\n\n(18) Um único novo regulamento contendo todas as preferências comerciais autónomas tornará mais transparente o regime comercial comunitário com os países e territórios que participam ou estão ligados ao processo de estabilização e associação da União Europeia. Os Regulamentos (CE) n.^os^ 6/2000 e 1763/1999 devem, consequentemente, ser revogados.\n\n(19) Estas disposições em matéria de importação devem ser renovadas nos termos estabelecidos pelo Conselho e tendo em conta a experiência adquirida com a aplicação das referidas disposições nos termos do presente regulamento. Convém, assim, limitar a duração das referidas disposições a 31 de Dezembro de 2002,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "91c4b26cd2f89f38": {
+   "fragment_id": "Artigo 1.º — Regime preferencial",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Regime preferencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regime preferencial\n\n1) Sob reserva das disposições especiais estabelecidas nos artigos 3.º e 4.º, os produtos originários da Bósnia e Herzegovina, do Montenegro ou dos territórios aduaneiros da Sérvia ou do Kosovo, com excepção dos produtos classificados nas posições 0102, 0201, 0202, 1604, 1701, 1702 e 2204 da Nomenclatura Combinada, são admitidos para importação na Comunidade sem limites quantitativos ou medidas de efeito equivalente e com isenção de direitos aduaneiros ou taxas de efeito equivalente.\n\n2. Os produtos originários da Albânia, da República da Croácia ou da antiga República jugoslava da Macedónia continuam a beneficiar das disposições do presente regulamento que assim o estabeleçam ou de quaisquer medidas previstas no presente regulamento que sejam mais favoráveis do que as concessões comerciais estabelecidas no âmbito de acordos bilaterais celebrados entre a Comunidade Europeia e os referidos países.\n\n3. As importações de produtos do sector do açúcar das posições 1701 e 1702 da Nomenclatura Combinada originários da Bósnia e Herzegovina, do Montenegro ou dos territórios aduaneiros da Sérvia ou do Kosovo beneficiam das concessões estabelecidas no artigo 4.º"
+  },
+  "738965f8f623bc0a": {
+   "fragment_id": "Artigo 3.º — Concessões limitadas para determinados produtos têxteis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Concessões limitadas para determinados produtos têxteis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Concessões limitadas para determinados produtos têxteis\n\n1. [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) Para os produtos têxteis originários [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) dos territórios aduaneiros do Montenegro e do Kosovo**◄** **◄** e também indicados no anexo III B do Regulamento (CE) n.º 517/94 do Conselho, de 7 de Março de 1994, relativo ao regime comum aplicável às importações de produtos têxteis de determinados países terceiros, não abrangidas por acordos, protocolos ou outros convénios bilaterais ou por outras regras comunitárias específicas de importação ([^7^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0007)), a isenção de direitos aduaneiros e taxas de efeito equivalente fica limitada às quantidades comunitárias anuais estabelecidas no Regulamento (CE) n.º 517/94.\n\n2. No que respeita às reimportações após uma operação de aperfeiçoamento passivo em conformidade com o Regulamento (CE) n.º 3036/94 do Conselho, de 8 de Dezembro de 1994, que institui um regime de aperfeiçoamento económico passivo aplicável a certos produtos têxteis e de vestuário reimportados na Comunidade após fabrico ou transformação em certos países terceiros ([^8^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0008)), a isenção de direitos aduaneiros limita-se às quantidades comunitárias anuais estabelecidas no anexo VI do Regulamento (CE) n.º 517/94 [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) sempre que os produtos sejam originários [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) dos territórios aduaneiros do Montenegro e do Kosovo**◄** **◄**."
+  },
+  "4113824962afe192": {
+   "fragment_id": "Artigo 4.º — Produtos agrícolas — contingentes pautais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Produtos agrícolas — contingentes pautais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produtos agrícolas — contingentes pautais\n\n1. Para determinados produtos da pesca e para os vinhos originários dos países e territórios referidos no artigo 1.º, ambos enumerados no anexo I, os direitos aduaneiros aplicáveis às importações para a Comunidade ficam suspensos durante os períodos, ao nível e dentro dos limites dos contingentes pautais comunitários, indicados para cada produto e origem, nas condições estabelecidas no referido anexo.\n\n2. Os direitos aduaneiros aplicáveis às importações na Comunidade de produtos «baby-beef» definidos no anexo II e originários dos países e territórios referidos no n.º 1 do artigo 1.º, são de 20 % do direito *ad valorem* e 20 % do direito específico, tal como estabelecido na pauta aduaneira comum, dentro dos limites de um contingente pautal anual de [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) 11 475 toneladas**◄** expressas em peso por carcaça.\n\nO volume do contingente pautal anual de [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) 11 475 toneladas**◄** toneladas será distribuído entre as repúblicas beneficiárias, do seguinte modo:\n\na) 1 500 toneladas (peso por carcaça) de produtos «baby-beef» originários da Bósnia-Herzegovina,\n\nd) 9 975 toneladas (peso por carcaça) de produtos *baby-beef* originários [**►M6**](http://publications.europa.eu/resource/celex/32005R1946) dos territórios aduaneiros do Montenegro, da Sérvia e do Kosovo**◄**.\n\nAs importações para a Comunidade de produtos *baby-beef* definidos no anexo II e originários da Albânia não beneficiam de qualquer concessão pautal.\n\nQualquer pedido de importação dentro do contingente será acompanhado de um certificado de autenticidade emitido pelas autoridades competentes do país exportador comprovativo de que os produtos são originários do país ou território em questão e correspondem à definição constante do anexo II. A forma do certificado será estabelecida pela Comissão em conformidade com o procedimento previsto no artigo 43.º do Regulamento n.º 1254/99 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector da carne de bovino ([^9^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0009)).\n\n3. Sem prejuízo de outras disposições do presente regulamento e, nomeadamente, do seu artigo 12.º, e se, em virtude da sensibilidade particular dos mercados agrícolas e das pescas, a importação de produtos agrícolas e das pescas causar graves perturbações nos mercados comunitários e nos seus mecanismos de regulação, a Comissão pode adoptar as medidas adequadas em conformidade com as regras do Comité de Gestão competente.\n\n4. As importações de produtos do sector do açúcar das posições 1701 e 1702 da Nomenclatura Combinada originários da Bósnia e Herzegovina, do Montenegro e dos territórios aduaneiros da Sérvia ou do Kosovo estão sujeitas aos seguintes contingentes pautais anuais com isenção de direitos aduaneiros:\n\na) 12 000 toneladas (peso líquido) de produtos do sector do açúcar originários da Bósnia e Herzegovina;\n\nb) 180 000 toneladas (peso líquido) de produtos do sector do açúcar originários do Montenegro e dos territórios aduaneiros da Sérvia ou do Kosovo."
+  },
+  "590899879f5b0125": {
+   "fragment_id": "Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar",
+   "type": "divisao",
+   "heading": "Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar\n\nAs normas de execução relativas ao contingente pautal para os produtos «baby-beef» serão determinadas pela Comissão em conformidade com o procedimento previsto no artigo 43.º do Regulamento (CE) n.º 1254/1999.\n\nAs normas de execução relativas aos contingentes pautais para os produtos do sector do açúcar das posições 1701 e 1702 serão determinadas pela Comissão em conformidade com o procedimento estabelecido no n.º 2 do artigo 42.º do Regulamento (CE) n.º 1260/2001 do Conselho, de 19 de Junho de 2001, que estabelece a organização comum de mercado no sector do açúcar ([^10^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0010))."
+  },
+  "8a461939ec33e6d1": {
+   "fragment_id": "Artigo 10.º — Comité de gestão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité de gestão\n\n1. A Comissão é assistida pelo Comité do Código Aduaneiro criado pelo artigo 247.º do Regulamento (CEE) n.º 2913/92 do Conselho ([^11^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0011)), a seguir designado «Comité».\n\n2. Sempre que se remeter para o presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O Comité aprova o seu regulamento interno."
+  },
+  "943d52268990d79a": {
+   "fragment_id": "Relativo aos contingentes pautais referidos no n.º 1 do artigo 4.º",
+   "type": "divisao",
+   "heading": "Relativo aos contingentes pautais referidos no n.º 1 do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Relativo aos contingentes pautais referidos no n.º 1 do artigo 4.º\n\n| Número de ordem | Código NC | Designação das mercadorias | Volume anual do contingente [(^1^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0012) | Beneficiários | Taxas do direito |\n| --- | --- | --- | --- | --- | --- |\n| 09.1571 | 0301 91 10 0301 91 90 0302 11 10 0302 11 20 0302 11 80 0303 21 10 0303 21 20 0303 21 80 0304 19 15 0304 19 17 ex030419 19 ex030419 91 0304 29 15 0304 29 17 ex030429 19 ex030499 21 ex030510 00 ex030530 90 0305 49 45 ex030559 80 ex030569 80 | Trutas (*Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache* e *Oncorhynchus chrysogaster*): vivas; frescas ou refrigeradas; congeladas; salgadas, em salmoura, secas ou fumadas; filetes e outra carne de peixe; farinhas, pós e *pellets*, próprias para consumo humano | 70 toneladas | Bósnia e Herzegovina, Montenegro, territórios aduaneiros da Sérvia e do Kosovo | Isenção |\n| 09.1573 | 0301 93 00 0302 69 11 0303 79 11 ex030419 19 ex030419 91 ex030429 19 ex030499 21 ex030510 00 ex030530 90 ex030549 80 ex030559 80 ex030569 80 | Carpas: vivas; frescas ou refrigeradas; congeladas; salgadas, em salmoura, secas ou fumadas; filetes e outra carne de peixe; farinhas, pós e *pellets*, próprias para consumo humano | 120 toneladas | Bósnia e Herzegovina, Montenegro, territórios aduaneiros da Sérvia e do Kosovo | Isenção |\n| 09.1575 | ex030199 80 0302 69 61 0303 79 71 ex030419 39 ex030419 99 ex030429 99 ex030499 99 ex030510 00 ex030530 90 ex030549 80 ex030559 80 ex030569 80 | Douradas do mar das espécies *Dentex dentex* e *Pagellus* spp: vivas; frescas ou refrigeradas; congeladas; salgadas, em salmoura, secas ou fumadas; filetes e outra carne de peixe; farinhas, pós e *pellets*, próprias para consumo humano | 95 toneladas | Bósnia e Herzegovina, Montenegro, territórios aduaneiros da Sérvia e do Kosovo | Isenção |\n| 09.1577 | ex030199 80 0302 69 94 ex030377 00 ex030419 39 ex030419 99 ex030429 99 ex030499 99 ex030510 00 ex030530 90 ex030549 80 ex030559 80 ex030569 80 | Robalos legítimos (*Dicentrarchus labrax*): vivos; frescos ou refrigerados; congelados; salgados, em salmoura, secos ou fumados; filetes e outra carne de peixe; farinhas, pós e *pellets*, próprias para consumo humano | 80 toneladas | Bósnia e Herzegovina, Montenegro, territórios aduaneiros da Sérvia e do Kosovo | Isenção |\n| 09.1579 | 1604 13 11 1604 13 19 ex160420 50 | Preparações e conservas de sardinhas | 70 toneladas | Bósnia e Herzegovina, Montenegro, territórios aduaneiros da Sérvia e do Kosovo | 6 % |\n| 09.1561 | 1604 16 00 1604 20 40 | Preparações e conservas de anchovas | 260 toneladas | Bósnia e Herzegovina, Montenegro, territórios aduaneiros da Sérvia e do Kosovo | 12,5 % |\n| 09.1515 | 2204 21 79 ex220421 80 2204 21 84 ex220421 85 2204 29 65 ex220429 75 2204 29 83 ex220429 84 | Vinhos de uvas frescas, de teor alcoólico volúmico não superior a 15 % vol, excluídos os vinhos espumosos | 145 000 hl [(^2^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0013) | Albânia [(^3^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0014), Bósnia e Herzegovina, Croácia [(^4^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0015), antiga República jugoslava da Macedónia [(^5^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0016), Montenegro, territórios aduaneiros da Sérvia e do Kosovo | Isenção |\n| (^1^)Um volume global por contingente pautal, acessível às importações originárias dos países e territórios beneficiários. (^2^)O volume deste contingente pautal global diminui se os volumes dos contingentes pautais individuais aplicáveis com os números de ordem 09.1588 e 09.1548 para determinados vinhos originários da Croácia aumentarem. (^3^)O acesso do vinho originário da República da Albânia a este contingente pautal global está subordinado ao esgotamento prévio dos contingentes pautais individuais previstos no protocolo adicional sobre os vinhos celebrado com este país. Esses contingentes pautais individuais estão abertos com os números de ordem 09.1512 e 09.1513. (^4^)O acesso do vinho originário da República da Croácia a este contingente pautal global está subordinado ao esgotamento prévio dos contingentes pautais individuais previstos no protocolo adicional sobre os vinhos celebrado com este país. Esses contingentes pautais individuais estão abertos com os números de ordem 09.1588 e 09.1589. (^5^)O acesso do vinho originário da antiga República jugoslava da Macedónia a este contingente pautal global está subordinado ao esgotamento prévio dos contingentes pautais individuais previstos no protocolo adicional sobre os vinhos celebrado com este país. Esses contingentes pautais individuais estão abertos com os números de ordem 09.1558 e 09.1559. |  |  |  |  |  |"
+  },
+  "4817aa616c6675b6": {
+   "fragment_id": "Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º",
+   "type": "divisao",
+   "heading": "Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º\n\nSem prejuízo das normas para a interpretação da nomenclatura combinada, considera-se que a redacção da designação das mercadorias apenas tem um valor indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelo âmbito de aplicação do código NC. Sempre que a menção «ex» figurar antes do código NC, o regime preferencial será determinado simultaneamente pelo âmbito de aplicação do código NC e pela descrição correspondente.\n\n| Código | Sub-divisão Taric | Designação das mercadorias |\n| --- | --- | --- |\n|  |  | Animais vivos da espécia bovina: |\n|  |  | – Outros: |\n|  |  | – – Das espécies domésticas: |\n|  |  | – – – De peso superior a 300 kg: |\n|  |  | – – – – Novilhas (bovinos fêmeas, que nunca tenham parido): |\n| ex010290 51 |  | – – – – – Destinadas a abate: |\n|  | 10 | – Não tendo nenhum dente de substituição e de peso igual ou superior a 320 kg e inferior ou igual a 470 kg [(^1^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0017) |\n| ex010290 59 |  | – – – – – Outros: |\n|  | 11213191 | – Não tendo nenhum dente de substituição e de peso igual ou superior a 320 kg e inferior ou igual a 470 kg [(^1^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0017) |\n|  |  | – – – – Outros: |\n| ex010290 71 |  | – – – – – Destinados a abate: |\n|  | 10 | – Touros e bois não tendo nenhum dente de substituição e de peso igual ou superior a 350 kg e inferior ou igual a 500 kg [(^1^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0017) |\n| ex010290 79 |  | – – – – – Outros: |\n|  | 2191 | – Touros e bois não tendo nenhum dente de substituição e de peso igual ou superior a 350 kg e inferior ou igual a 500 kg [(^1^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0017) |\n|  |  | Carnes de animais da espécie bovina, frescas ou refrigeradas: |\n| ex020110 00 |  | – Carcaças e meias carcaças: |\n|  | 91 | – Carcaças tendo um peso igual ou superior a 180 kg e inferior ou igual a 300 kg e meias carcaças tendo um peso igual ou superior a 90 kg e inferior ou igual a 150 kg, apresentado um fraco grau de ossificação das cartilagens (nomeadamente, as das sínfises públicas e das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0017) |\n|  |  | – Outras peças não desossadas: |\n| ex020120 20 |  | – – Quartos denominados «compensados»: |\n|  | 91 | – Quartos ditos «compensados», tendo um peso igual ou superior a 90 kg e inferior ou igual a 150 kg, apresentado um fraco grau de ossificação das cartilagens (nomeadamente, as das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0017) |\n| ex020120 30 |  | – – Quartos dianteiros separados ou não: |\n|  | 91 | – Quartos dianteiros separados, tendo um peso igual ou superior a 45 kg e inferior ou igual a 75 kg, apresentado um fraco grau de ossificação das cartilagens (nomeadamente, as das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0017) |\n| ex020120 50 |  | – – Quartos traseiros separados ou não: |\n|  | 91 | – Quartos traseiros separados, tendo um peso igual ou superior a 45 kg e inferior ou igual a 75 kg, sendo esse peso igual ou superior a 38 kg e inferior ou igual a 68 kg, quando se tratam de cortes ditos «pistola», apresentando um fraco grau de ossificação das cartilagens (nomeadamente, as das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#E0017) |\n| (^1^)A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria. |  |  |\n\n---"
+  },
+  "d058f05e10d4b81f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#src.E0001)) JO L 2 de 5.1.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#src.E0002)) JO L 211 de 11.8.1999, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#src.E0003)) JO L 153 de 19.6.1999, p. 63 com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1440/2000 da Comissão (JO L 161 de 1.7.2000, p. 68).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#src.E0004)) JO L 253 de 11.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1602/2000 (JO L 188 de 26.7.2000, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#src.E0006)) JO L 357 de 30.12.1998, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1763/1999 (JO L 211 de 11.8.1999, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#src.E0007)) JO L 67 de 10.3.1994, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2452/1999 da Comissão (JO L 307 de 2.12.1999, p. 14).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#src.E0008)) JO L 322 de 15.12.1994, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#src.E0009)) JO L 160 de 26.6.1999, p. 21.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#src.E0010)) JO L 178 de 30.6.2001, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 39/2004 da Comissão (JO L 6 de 10.1.2004, p. 16).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/24cf3559-3b01-4197-8985-06643a7f5325.0017.03/DOC_1#src.E0011)) JO L 302 de 19.10.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 955/1999 do Parlamento Europeu e do Conselho (JO L 119 de 7.5.1999, p. 1)."
+  },
+  "66e4540ad0ea179a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Setembro de 2000\n\nque adopta medidas comerciais excepcionais em favor dos países e territórios que participam ou estão ligados ao processo de estabilização e associação da União Europeia, que altera o Regulamento (CE) n.º 2820/98 e que revoga os Regulamentos (CE) n.^os^ 1763/1999 e 6/2000\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 133.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) Na sua reunião em Lisboa, em 23 e 24 de Março de 2000, o Conselho Europeu concluiu que os Acordos de Estabilização e Associação com os países dos Balcãs Ocidentais deviam ser precedidos de uma liberalização do comércio assimétrica.\n\n(2) O Conselho, nas suas conclusões de 24 de Janeiro e de 14 de Fevereiro de 2000, convidou também a Comissão a examinar a questão da facilitação do comércio com a República do Montenegro, na República Federativa da Jugoslávia.\n\n(3) O Regulamento (CE) n.º 6/2000 do Conselho de 17 de Dezembro de 1999 relativo ao regime aplicável às importações, na Comunidade, de produtos originários das Repúblicas da Bósnia-Herzegovina e da Croácia e às importações de vinhos originários da antiga República Jugoslava da Macedónia e da República da Eslovénia ([^1^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0001)) oferece para determinados produtos industriais a isenção de direitos aduaneiros até aos limites máximos pautais e concessões limitadas para os produtos agrícolas, muitas delas sob a forma de isenção de direitos dentro do limite dos contingentes pautais. O Regulamento (CE) n.º 1763/1999 do Conselho de 29 de Julho de 1999, relativo ao regime aplicável às importações na Comunidade de produtos originários da Albânia e que altera o Regulamento (CE) n.º 2820/98, relativo à aplicação de um sistema plurianual de preferências pautais generalizadas durante o período compreendido entre 1 de Julho de 1999 e 31 de Dezembro de 2001 no que respeita à Albânia ([^2^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0002)) prevê um regime semelhante com as mesmas restrições.\n\n(4) O nível geral das importações dos países dos Balcãs Ocidentais é de menos de 0,6 % das importações comunitárias totais. Espera-se que uma maior abertura do mercado contribua para o processo de estabilização política e económica na região sem produzir efeitos negativos na Comunidade.\n\n(5) Por conseguinte, é conveniente melhorar o sistema de preferências comerciais autónomas da Comunidade através da supressão de todos os limites máximos pautais restantes para os produtos industriais e da facilitação do acesso ao mercado comunitário dos produtos agrícolas e da pesca, incluindo os produtos transformados.\n\n(6) Estas medidas inserem-se no âmbito do processo de estabilização e associação, em resposta à situação específica dos Balcãs Ocidentais. Não constituem um precedente para a política comercial comunitária com outros países terceiros.\n\n(7) Em conformidade com o processo de estabilização e associação da União Europeia, baseado na anterior Abordagem Regional e nas conclusões do Conselho de 29 de Abril de 1997, o desenvolvimento das relações bilaterais entre a União Europeia e os países dos Balcãs Ocidentais está sujeito a determinadas condições. A concessão de preferências comerciais autónomas está ligada ao respeito dos princípios fundamentais da democracia e dos direitos humanos e à vontade dos países interessados desenvolverem relações económicas entre si. A concessão de um sistema de preferências comerciais autónomas mais favorável aos países que participam ou estão ligados ao processo de estabilização e associação da UE deve depender da sua vontade de realizarem reformas económicas eficazes e de participarem na cooperação regional, nomeadamente através do estabelecimento de zonas de comércio livre em conformidade com as normas do GATT e da OMC na matéria. Além disso, a concessão do benefício das preferências comerciais autónomas está subordinada aos beneficiários se comprometerem a entabular uma cooperação administrativa efectiva com a Comunidade a fim de evitar qualquer risco de fraude.\n\n(8) As preferências comerciais só podem ser concedidas aos países ou territórios que tenham uma administração aduaneira autónoma.\n\n(9) A Albânia, a Bósnia-Herzegovina, a Croácia, a antiga República Jugoslava da Macedónia e o Kosovo, este último tal como definido na Resolução n.º 1244 do Conselho de Segurança das Nações Unidas, de 10 de Junho de 1999, sujeito à administração civil internacional pela Missão das Nações Unidas no Kosovo (UNMIK) preenchem estas condições, pelo que devem ser concedidas preferências comerciais similares a todos eles a fim de evitar discriminações na região.\n\n(10) A República do Montenegro, na República Federativa da Jugoslávia, não dispõe de uma administração aduaneira autónoma. Por conseguinte, não é possível conceder-lhe as mesmas preferências. Todavia, é possível a concessão de preferências comerciais limitadas a certos produtos industriais do Montenegro que não são produzidos noutras zonas da República Federativa da Jugoslávia sem prejuízo do princípio da exclusão da República Federativa da Jugoslávia do sistema de preferências comerciais no seu conjunto e no pleno respeito do Regulamento (CE) n.º 1294/1999 do Conselho, de 15 de Junho de 1999, relativo ao congelamento de fundos e à proibição de investimentos na República Federativa da Jugoslávia (RFJ) e que revoga os Regulamentos (CE) n.º 1295/98 e (CE) n.º 1607/98 ([^3^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0003)).\n\n(11) A antiga República Jugoslava da Macedónia já está ligada à Comunidade por um Acordo de Cooperação que prevê preferências comerciais e a Comunidade e os seus Estados-Membros iniciaram negociações para a conclusão de um Acordo de Estabilização e Associação com este país. Ao abrigo do presente regulamento deve ser-lhe, pois, concedido, separadamente, um sistema de concessões equivalente a um melhor sistema de preferências comerciais autónomas, à excepção dos vinhos.\n\n(12) O presente regulamento deve continuar a estabelecer as concessões previstas no Regulamento (CE) n.º 6/2000, que são também aplicáveis à Eslovénia e à antiga República Jugoslava da Macedónia enquanto se aguarda a conclusão de acordos específicos sobre os vinhos com estes países. Dado que estas concessões continuam a consistir num contingente pautal global, convém manter estas disposições num único e mesmo regulamento.\n\n(13) Por conseguinte, afigura-se adequado conceder um melhor sistema de preferências comerciais autónomas à Albânia, à Bósnia-Herzegovina e à Croácia e incluir ainda o Kosovo, e conceder preferências comerciais específicas e limitadas a determinados produtos industriais originários da República Federativa da Jugoslávia.\n\n(14) No que respeita à certificação de origem e aos processos de cooperação administrativa devem aplicar-se as disposições pertinentes do Regulamento (CEE) n.º 2454/93 da Comissão de 2 de Julho de 1993, que fixa determinadas disposições de aplicação do Regulamento (CEE) n.º 2913/92 que estabelece o Código Aduaneiro Comunitário ([^4^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0004)).\n\n(15) Num intuito de racionalização e simplificação, é conveniente prever que a Comissão possa, após consulta do Comité do Código Aduaneiro, e sem prejuízo dos procedimentos específicos previstos no presente regulamento, efectuar as alterações e as emendas técnicas necessárias ao regulamento.\n\n(16) As medidas necessárias para a aplicação do presente regulamento devem ser aprovadas nos termos do artigo 2.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^5^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0005)).\n\n(17) A introdução das presentes medidas no que respeita aos produtos agrícolas e da pesca originários das Repúblicas da Albânia, da Bósnia-Herzegovina e da Croácia tornam supérflua a inclusão destas repúblicas no sistema comunitário de preferências pautais generalizadas. Por conseguinte, justifica-se a supressão destas repúblicas da lista dos beneficiários do Regulamento (CE) n.º 2820/98 do Conselho, de 21 de Dezembro de 1998 relativo à aplicação de um sistema plurianual de preferências pautais generalizadas durante o período compreendido entre 1 de Julho de 1999 e 31 de Dezembro de 2001 ([^6^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0006)).\n\n(18) Um único novo regulamento contendo todas as preferências comerciais autónomas tornará mais transparente o regime comercial comunitário com os países e territórios que participam ou estão ligados ao processo de estabilização e associação da União Europeia. Os Regulamentos (CE) n.^os^ 6/2000 e 1763/1999 devem, consequentemente, ser revogados.\n\n(19) Estas disposições em matéria de importação devem ser renovadas nos termos estabelecidos pelo Conselho e tendo em conta a experiência adquirida com a aplicação das referidas disposições nos termos do presente regulamento. Convém, assim, limitar a duração das referidas disposições a 31 de Dezembro de 2002,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b1573aa62303e15c": {
+   "fragment_id": "Artigo 1.º — Regime preferencial",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Regime preferencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regime preferencial\n\n1. Sem prejuízo das disposições especiais estabelecidas no artigo 4.º, os produtos originários da Bósnia e Herzegovina, ou dos territórios aduaneiros da Sérvia ou do Kosovo, com excepção dos produtos classificados nas posições 0102, 0201, 0202, 0301, 0302, 0303, 0304, 0305, 1604, 1701, 1702 e 2204 da Nomenclatura Combinada, são admitidos para importação na Comunidade sem limites quantitativos ou medidas de efeito equivalente e com isenção de direitos aduaneiros ou taxas de efeito equivalente.\n\n2. Os produtos originários da Albânia, da República da Croácia, da antiga República jugoslava da Macedónia ou do Montenegro continuam a beneficiar das disposições do presente regulamento que assim o estabeleçam ou de quaisquer medidas previstas no presente regulamento que sejam mais favoráveis do que as concessões comerciais estabelecidas no âmbito de acordos bilaterais celebrados entre a Comunidade Europeia e os referidos países.\n\n3. As importações de produtos do sector do açúcar das posições 1701 e 1702 da Nomenclatura Combinada originários da Bósnia e Herzegovina, ou dos territórios aduaneiros da Sérvia ou do Kosovo beneficiam das concessões previstas no artigo 4.º."
+  },
+  "678429484ee2b910": {
+   "fragment_id": "Artigo 2.º — Requisitos para poder beneficiar do regime preferencial",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Requisitos para poder beneficiar do regime preferencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisitos para poder beneficiar do regime preferencial\n\n1. O direito ao benefício das disposições preferenciais introduzidas pelo artigo 1.º está sujeito:\n\na) À observância da definição de produtos originários dada no título IV, secção 2 do capítulo 2, do Regulamento (CEE) n.º 2454/93 e.\n\nb) À abstenção por parte dos países e territórios mencionados no artigo 1.º de não introduzirem novos direitos ou taxas de efeito equivalente nem novos limites quantitativos ou medidas de efeito equivalente sobre as importações originárias da Comunidade, de não aumentarem o nível dos direitos ou das taxas em vigor e de não introduzirem quaisquer outras limitações a partir da data de entrada em vigor do presente regulamento.\n\nc) Aos beneficiários se comprometerem a encetarem uma efectiva cooperação administrativa com a Comunidade, a fim de evitar qualquer risco de fraude.\n\n2. [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) O direito de beneficiar das disposições preferenciais estabelecidas no artigo 1.º está ainda sujeito à vontade dos países beneficiários de realizarem**◄** reformas económicas eficazes e estabelecerem cooperação regional com os outros países interessados no processo de estabilização e associação da União Europeia, nomeadamente através da criação de zonas de comércio livre, em conformidade com o disposto no artigo XXIV do GATT 1994 e outras disposições da OMC na matéria.\n\nEm caso de inobservância do disposto no presente número, o Conselho pode tomar as medidas adequadas por voto por maioria qualificada, sob proposta da Comissão."
+  },
+  "e58cc96f4829cdd9": {
+   "fragment_id": "Artigo 4.º — Produtos agrícolas — contingentes pautais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Produtos agrícolas — contingentes pautais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produtos agrícolas — contingentes pautais\n\n1. Para determinados produtos da pesca e para os vinhos originários dos países e territórios referidos no artigo 1.º, ambos enumerados no anexo I, os direitos aduaneiros aplicáveis às importações para a Comunidade ficam suspensos durante os períodos, ao nível e dentro dos limites dos contingentes pautais comunitários, indicados para cada produto e origem, nas condições estabelecidas no referido anexo.\n\n2. Os direitos aduaneiros aplicáveis às importações na Comunidade de produtos «baby-beef» definidos no anexo II e originários dos países e territórios referidos no n.º 1 do artigo 1.º, são de 20 % do direito *ad valorem* e 20 % do direito específico, tal como estabelecido na pauta aduaneira comum, dentro dos limites de um contingente pautal anual de [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) 11 475 toneladas**◄** expressas em peso por carcaça.\n\nO volume do contingente pautal anual de [**►M2**](http://publications.europa.eu/resource/celex/32001R2487) 11 475 toneladas**◄** toneladas será distribuído entre as repúblicas beneficiárias, do seguinte modo:\n\na) 1 500 toneladas (peso por carcaça) de produtos «baby-beef» originários da Bósnia-Herzegovina,\n\nd) 9 175 toneladas (peso por carcaça) de produtos «baby-beef» originários dos territórios aduaneiros da Sérvia ou do Kosovo.\n\nAs importações para a Comunidade de produtos *baby-beef* definidos no anexo II e originários da Albânia não beneficiam de qualquer concessão pautal.\n\nQualquer pedido de importação dentro do contingente será acompanhado de um certificado de autenticidade emitido pelas autoridades competentes do país exportador comprovativo de que os produtos são originários do país ou território em questão e correspondem à definição constante do anexo II. A forma do certificado será estabelecida pela Comissão em conformidade com o procedimento previsto no artigo 43.º do Regulamento n.º 1254/99 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado no sector da carne de bovino ([^7^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0009)).\n\n3. Sem prejuízo de outras disposições do presente regulamento e, nomeadamente, do seu artigo 12.º, e se, em virtude da sensibilidade particular dos mercados agrícolas e das pescas, a importação de produtos agrícolas e das pescas causar graves perturbações nos mercados comunitários e nos seus mecanismos de regulação, a Comissão pode adoptar as medidas adequadas em conformidade com as regras do Comité de Gestão competente.\n\n4. As importações de produtos do sector do açúcar das posições 1701 e 1702 da Nomenclatura Combinada originários da Bósnia e Herzegovina e dos territórios aduaneiros da Sérvia ou do Kosovo estão sujeitas aos seguintes contingentes pautais anuais com isenção de direitos aduaneiros:\n\na) 12 000 toneladas (peso líquido) de produtos do sector do açúcar originários da Bósnia e Herzegovina;\n\nb) 180 000 toneladas (peso líquido) de produtos do sector do açúcar originários dos territórios aduaneiros da Sérvia ou do Kosovo."
+  },
+  "a4873c45c9e0f837": {
+   "fragment_id": "Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar",
+   "type": "divisao",
+   "heading": "Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Aplicação dos contingentes pautais para os produtos «*baby-beef*» e para o açúcar\n\nAs normas de execução relativas ao contingente pautal para os produtos «baby-beef» serão determinadas pela Comissão em conformidade com o procedimento previsto no artigo 43.º do Regulamento (CE) n.º 1254/1999.\n\nAs normas de execução relativas aos contingentes pautais para os produtos do sector do açúcar das posições 1701 e 1702 serão determinadas pela Comissão em conformidade com o procedimento estabelecido no n.º 2 do artigo 42.º do Regulamento (CE) n.º 1260/2001 do Conselho, de 19 de Junho de 2001, que estabelece a organização comum de mercado no sector do açúcar ([^8^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0010))."
+  },
+  "317ab0a6be32fc04": {
+   "fragment_id": "Artigo 10.º — Comité de gestão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité de gestão\n\n1. A Comissão é assistida pelo Comité do Código Aduaneiro criado pelo artigo 247.º do Regulamento (CEE) n.º 2913/92 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0011)), a seguir designado «Comité».\n\n2. Sempre que se remeter para o presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O Comité aprova o seu regulamento interno."
+  },
+  "bc49bc4c70cc2a3f": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Número de ordem | Código NC | Designação das mercadorias | Volume anual do contingente [(^1^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0012) | Beneficiários | Taxa do direito |\n| --- | --- | --- | --- | --- | --- |\n| 09.1571 | 0301 91 10 0301 91 90 0302 11 10 0302 11 20 0302 11 80 0303 21 10 0303 21 20 0303 21 80 0304 19 15 0304 19 17 ex030419 19 ex030419 91 0304 29 15 0304 29 17 ex030429 19 ex030499 21 ex030510 00 ex030530 90 0305 49 45 ex030559 80 ex030569 80 | Trutas (*Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache* e *Oncorhynchus chrysogaster*): vivas; frescas ou refrigeradas; congeladas; salgadas, em salmoura, secas ou fumadas; filetes e outra carne de peixe; farinhas, pós e *pellets*, próprios para consumo humano | 50 toneladas | Bósnia e Herzegovina, territórios aduaneiros da Sérvia ou do Kosovo | Isenção |\n| 09.1573 | 0301 93 00 0302 69 11 0303 79 11 ex030419 19 ex030419 91 ex030429 19 ex030499 21 ex030510 00 ex030530 90 ex030549 80 ex030559 80 ex030569 80 | Carpas: vivas; frescas ou refrigeradas; congeladas; salgadas, em salmoura, secas ou fumadas; filetes e outra carne de peixe; farinhas, pós e *pellets*, próprios para consumo humano | 110 toneladas | Bósnia e Herzegovina, territórios aduaneiros da Sérvia ou do Kosovo | Isenção |\n| 09.1575 | ex030199 80 0302 69 61 0303 79 71 ex030419 39 ex030419 99 ex030429 99 ex030499 99 ex030510 00 ex030530 90 ex030549 80 ex030559 80 ex030569 80 | Douradas do mar (*Dentex dentex* e *Pagellus* spp.): vivas; frescas ou refrigeradas; congeladas; salgadas, em salmoura, secas ou fumadas; filetes e outra carne de peixe; farinhas, pós e pellets, próprios para consumo humano | 75 toneladas | Bósnia e Herzegovina, territórios aduaneiros da Sérvia ou do Kosovo | Isenção |\n| 09.1577 | ex030199 80 0302 69 94 ex030377 00 ex030419 39 ex030419 99 ex030429 99 ex030499 99 ex030510 00 ex030530 90 ex030549 80 ex030559 80 ex030569 80 | Robalos e bailas (*Dicentrarchus labrax*): vivos; frescos ou refrigerados; congelados; salgados, em salmoura, secos ou fumados; filetes e outra carne de peixe; farinhas, pós e *pellets*, próprios para consumo humano | 60 toneladas | Bósnia e Herzegovina, territórios aduaneiros da Sérvia ou do Kosovo | Isenção |\n| 09.1561 | 1604 16 00 1604 20 40 | Preparações e conservas de anchovas | 60 toneladas | Bósnia e Herzegovina, territórios aduaneiros da Sérvia ou do Kosovo | 12,5 % |\n| 09.1515 | ex220421 79 ex220421 80 ex220421 84 ex220421 85 2204 29 65 ex220429 75 2204 29 83 ex220429 84 | Vinhos de uvas frescas, de teor alcoólico adquirido não superior a 15 % vol, com exclusão dos vinhos espumantes e vinhos espumosos | 129 000 hl [(^2^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0013) | Albânia [(^3^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0014), Bósnia e Herzegovina, Croácia [(^4^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0015), antiga República jugoslava da Macedónia [(^5^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0016), Montenegro [(^6^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0017), territórios aduaneiros da Sérvia ou do Kosovo | Isenção |\n| (^1^)Um volume global por contingente pautal, acessível às importações originárias dos países e territórios beneficiários. (^2^)O volume deste contingente pautal global diminui se o volume do contingente pautal individual aplicável com o número de ordem 09.1588 para determinados vinhos originários da Croácia aumentar. (^3^)O acesso do vinho originário da República da Albânia a este contingente pautal global está subordinado ao esgotamento prévio dos contingentes pautais individuais previstos no protocolo adicional sobre os vinhos concluído com este país. Esses contingentes pautais individuais estão abertos com os números de ordem 09.1512 e 09.1513. (^4^)O acesso do vinho originário da República da Croácia a este contingente pautal global está subordinado ao esgotamento prévio dos contingentes pautais individuais previstos no protocolo adicional sobre os vinhos concluído com este país. Esses contingentes pautais individuais estão abertos com os números de ordem 09.1588 e 09.1589. (^5^)O acesso do vinho originário da antiga República jugoslava da Macedónia a este contingente pautal global está subordinado ao esgotamento prévio dos contingentes pautais individuais previstos no protocolo adicional sobre os vinhos concluído com este país. Esses contingentes pautais individuais estão abertos com os números de ordem 09.1558 e 09.1559. (^6^)O acesso do vinho originário do Montenegro aos contingentes pautais globais está subordinado ao esgotamento prévio dos contingentes pautais individuais previstos no protocolo adicional sobre os vinhos concluído com este país. Esse contingente pautal individual está aberto com o número de ordem 09.1514. |  |  |  |  |  |"
+  },
+  "4c116f3a7391951e": {
+   "fragment_id": "Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º",
+   "type": "divisao",
+   "heading": "Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definição dos produtos «baby beef» referidos no n.º 2 do artigo 4.º\n\nSem prejuízo das normas para a interpretação da nomenclatura combinada, considera-se que a redacção da designação das mercadorias apenas tem um valor indicativo, sendo o regime preferencial determinado, no contexto do presente anexo, pelo âmbito de aplicação do código NC. Sempre que a menção «ex» figurar antes do código NC, o regime preferencial será determinado simultaneamente pelo âmbito de aplicação do código NC e pela descrição correspondente.\n\n| Código | Sub-divisão Taric | Designação das mercadorias |\n| --- | --- | --- |\n|  |  | Animais vivos da espécia bovina: |\n|  |  | – Outros: |\n|  |  | – – Das espécies domésticas: |\n|  |  | – – – De peso superior a 300 kg: |\n|  |  | – – – – Novilhas (bovinos fêmeas, que nunca tenham parido): |\n| ex010290 51 |  | – – – – – Destinadas a abate: |\n|  | 10 | – Não tendo nenhum dente de substituição e de peso igual ou superior a 320 kg e inferior ou igual a 470 kg [(^1^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0018) |\n| ex010290 59 |  | – – – – – Outros: |\n|  | 11 21 31 91 | – Não tendo nenhum dente de substituição e de peso igual ou superior a 320 kg e inferior ou igual a 470 kg [(^1^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0018) |\n|  |  | – – – – Outros: |\n| ex010290 71 |  | – – – – – Destinados a abate: |\n|  | 10 | – Touros e bois não tendo nenhum dente de substituição e de peso igual ou superior a 350 kg e inferior ou igual a 500 kg [(^1^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0018) |\n| ex010290 79 |  | – – – – – Outros: |\n|  | 21 91 | – Touros e bois não tendo nenhum dente de substituição e de peso igual ou superior a 350 kg e inferior ou igual a 500 kg [(^1^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0018) |\n|  |  | Carnes de animais da espécie bovina, frescas ou refrigeradas: |\n| ex020110 00 |  | – Carcaças e meias carcaças: |\n|  | 91 | – Carcaças tendo um peso igual ou superior a 180 kg e inferior ou igual a 300 kg e meias carcaças tendo um peso igual ou superior a 90 kg e inferior ou igual a 150 kg, apresentado um fraco grau de ossificação das cartilagens (nomeadamente, as das sínfises públicas e das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0018) |\n|  |  | – Outras peças não desossadas: |\n| ex020120 20 |  | – – Quartos denominados «compensados»: |\n|  | 91 | – Quartos ditos «compensados», tendo um peso igual ou superior a 90 kg e inferior ou igual a 150 kg, apresentado um fraco grau de ossificação das cartilagens (nomeadamente, as das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0018) |\n| ex020120 30 |  | – – Quartos dianteiros separados ou não: |\n|  | 91 | – Quartos dianteiros separados, tendo um peso igual ou superior a 45 kg e inferior ou igual a 75 kg, apresentado um fraco grau de ossificação das cartilagens (nomeadamente, as das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0018) |\n| ex020120 50 |  | – – Quartos traseiros separados ou não: |\n|  | 91 | – Quartos traseiros separados, tendo um peso igual ou superior a 45 kg e inferior ou igual a 75 kg, sendo esse peso igual ou superior a 38 kg e inferior ou igual a 68 kg, quando se tratam de cortes ditos «pistola», apresentando um fraco grau de ossificação das cartilagens (nomeadamente, as das apófises vertebrais), cuja carne é rosa-claro e a gordura, de estrutura extremamente fina, é de cor branca a amarelo-claro [(^1^)](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#E0018) |\n| (^1^)A admissão nesta subposição está sujeita às condições previstas nas disposições comunitárias em vigor na matéria. |  |  |\n\n---"
+  },
+  "9d1871571870388f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#src.E0001)) JO L 2 de 5.1.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#src.E0002)) JO L 211 de 11.8.1999, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#src.E0003)) JO L 153 de 19.6.1999, p. 63 com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1440/2000 da Comissão (JO L 161 de 1.7.2000, p. 68).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#src.E0004)) JO L 253 de 11.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1602/2000 (JO L 188 de 26.7.2000, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#src.E0006)) JO L 357 de 30.12.1998, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1763/1999 (JO L 211 de 11.8.1999, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#src.E0009)) JO L 160 de 26.6.1999, p. 21.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#src.E0010)) JO L 178 de 30.6.2001, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 39/2004 da Comissão (JO L 6 de 10.1.2004, p. 16).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/6670408e-045d-4814-a263-82f67c47b9d2.0017.03/DOC_1#src.E0011)) JO L 302 de 19.10.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 955/1999 do Parlamento Europeu e do Conselho (JO L 119 de 7.5.1999, p. 1)."
+  },
+  "43adbc6d8711ff0a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000R2007 — PT — 04.01.2010 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000R2007) [REGULAMENTO (CE) N.º 2007/2000 DO CONSELHO](http://publications.europa.eu/resource/celex/32000R2007) [de 18 de Setembro de 2000](http://publications.europa.eu/resource/celex/32000R2007) [que adopta medidas comerciais excepcionais em favor dos países e territórios que participam ou estão ligados ao processo de estabilização e associação da União Europeia, que altera o Regulamento (CE) n.º 2820/98 e que revoga os Regulamentos (CE) n.^os^ 1763/1999 e 6/2000](http://publications.europa.eu/resource/celex/32000R2007) (JO L 240, 23.9.2000, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1215/2009 do Conselho de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1215) — L 328 — 1 — 15.12.2009"
+  }
+ }
+}

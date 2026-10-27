@@ -1,0 +1,321 @@
+---
+schema_version: '1.0'
+id: pt:dre:401058:por
+title: Decreto-Lei n.º 373/84
+short_title: null
+summary: Regulamenta a aquisição de fardamentos para uso do pessoal civil dos serviços do Estado no exercício das suas funções.
+  Revoga os Decretos-Leis n.os 41150, de 22 de Julho de 1963, 45678, de 25 de Abril de 1964, 707/73, de 29 de Dezembro, e
+  447/82, de 12 de Novembro, e as Portarias n.os 376/75, de 18 de Junho, e 4/84, de 3 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 373/84
+official_date: null
+publication_date: '1984-11-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 276/1984, Série I de 1984-11-28
+  number: '276'
+  series: I
+  supplement: null
+  pages: 3599 - 3608
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/11/27600/35993608.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1989-05-31'
+version_history:
+  file: decreto-lei-373-84.versoes.json
+  count: 2
+  source_lastmod: '2024-10-04'
+  versions:
+  - date: '1984-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-05-31'
+    amending: pt:dre:609979:por
+    amending_title: Decreto-Lei n.º 172/89
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Revoga Anexo
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/373/1984/p/cons/19890526/pt/html
+  oj: null
+  dre: '401058'
+  dre_path: /dr/detalhe/decreto-lei/373-1984-401058
+  internal: pt:dre:401058:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1984-401058
+  metadata_url: https://data.dre.pt/eli/dec-lei/373/1984/p/cons/19890526/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-890051667
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-890051667
+  retrieved_at: '2026-10-22T13:17:20Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-10-04T00:00:00Z'
+integrity:
+  source_sha256: 829fb93409cc44c6c8de471fe9671e199ee7e6bc7a3ac67c426bf7a34da784d0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:17:20Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-373-84.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fardamento
+- Função Pública
+relationships:
+- type: amended_by
+  target: pt:dre:609979:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Revoga Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1989-609979
+  date: '1989-05-26'
+article_structure:
+  article_count: 14
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:17:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 373/84
+
+Decreto-Lei n.º 373/84
+
+de 28 de Novembro
+
+O Decreto-Lei n.º 45678, de 25 de Abril de 1964, estabeleceu o Regulamento de Fardamentos e Outros Artigos de Vestuário, Resguardos e Calçado Destinados ao Pessoal Civil dos Serviços do Estado, que foi posteriormente alterado pelo Decreto-Lei n.º 707/73, de 29 de Dezembro.
+
+A evolução desde então verificada, tanto no que respeita aos aspectos sociais das relações de trabalho como aos princípios e técnicas de compras públicas, aconselha uma revisão profunda da regulamentação em vigor, de modo a simplificá-la e adequá-la à realidade existente.
+
+Considera-se desde logo que os sucessivos alargamentos do âmbito do concurso centralizado, que se verificaram por força da legislação em vigor, tornaram o processo de tal modo complexo, dada a variedade e diversidade de artigos abrangidos, que não só se têm perdido as vantagens do jogo da concorrência, face à adequação do sistema à estrutura do mercado fornecedor, como o processo se mostra contrário aos princípios de coordenação de compras actualmente aplicados.
+
+Com efeito, entende-se que a coordenação de compras num órgão central, designadamente a Direcção-Geral do Património do Estado, por força das funções que lhe foram cometidas pelo Decreto-Lei n.º 129/83, de 14 de Março, ao integrar neste organismo a Central de Compras do Estado, se deve observar apenas ao nível a que corresponda uma efectiva substituição da multiplicidade de esforços dos diferentes organismos compradores, obtendo-se assim as vantagens das economias de escala daí resultantes.
+
+É nesta perspectiva que se distingue o fardamento de tipo comum do de tipo específico, considerando que apenas a aquisição do primeiro, tanto pelos montantes em causa como pelo número de serviços envolvidos, justifica um processo coordenado, remetendo para os departamentos directamente interessados a definição e aquisição dos restantes.
+
+No que concerne ao fardamento de tipo comum, entende-se conveniente introduzir determinadas adaptações à realidade, designadamente:
+
+O estabelecimento de uma qualidade única, uma vez que a diferenciação até aqui em vigor não só não tem significado em termos de custos como pode conduzir a situações menos transparentes no acto de aquisição;
+
+A introdução de um modelo para os funcionários do sexo feminino em substituição das batas já em desuso na maior parte dos casos;
+
+A possibilidade de os dirigentes dos serviços proporem a dispensa do uso de fardamento nos casos que considerem justificados, de modo a tornar mais racional e económica a respectiva distribuição.
+
+Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+Para efeito do presente diploma, consideram-se fardamentos os diversos artigos de vestuário, resguardo e calçado que devem ser usados pelo pessoal civil dos serviços do Estado no exercício das suas funções.
+
+###### Artigo 2.º
+
+Os fardamentos são do tipo comum ou específico.
+
+###### Artigo 3.º
+
+Constituem fardamentos de tipo comum aqueles que são utilizados na generalidade dos serviços do Estado, conforme as normas sobre fardamentos a aprovar por portaria do Ministro das Finanças.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/89 - Diário da República n.º 120/1989, Série I de 1989-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1989-609979), em vigor a partir de 1989-05-31
+
+###### Artigo 4.º
+
+Os fardamentos de tipo comum serão adquiridos directamente pelos serviços interessados, nos termos do contrato celebrado pelo Ministério das Finanças e do Plano, através da Direcção-Geral do Património do Estado, adiante designada «DGPE», de acordo com o regulamento de aquisição a aprovar por portaria do Ministro das Finanças e do Plano.
+
+###### Artigo 5.º
+
+1 - Com vista à celebração do contrato referido no artigo anterior, os serviços interessados devem enviar até 15 de Outubro de cada ano uma nota, segundo modelo a aprovar pela DGPE, da quantidade de fardamentos do tipo comum que pretendem adquirir no ano seguinte.
+
+2 - O total de unidades de cada artigo adquirido pelos diferentes serviços não pode ter uma variação superior ou inferior a 20% das respectivas quantidades apresentadas nos termos previstos no número anterior, devendo as requisições ser remetidas nos prazos previamente definidos pela Direcção-Geral do Património do Estado em caderno de encargos e consubstanciados nos contratos.
+
+3 - O incumprimento do disposto nos números anteriores determina que as aquisições só possam ocorrer após autorização prévia do Ministro das Finanças.
+
+4 - Os pedidos de autorização a efectuar nos termos do número anterior deverão ser devidamente fundamentados e remetidos através da Direcção-Geral do Património do Estado.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172/89 - Diário da República n.º 120/1989, Série I de 1989-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1989-609979), em vigor a partir de 1989-05-31
+
+###### Artigo 6.º
+
+- 1 - Os fardamentos de tipo comum não podem ser adquiridos a outros fornecedores que não sejam os adjudicatários.
+
+2 - O não cumprimento do preceituado no número anterior fará incorrer em responsabilidade disciplinar o funcionário que autorizar a compra a estranhos ao contrato de aquisição ou em responsabilidade civil no caso de o autor da autorização não estar sujeito ao Estatuto Disciplinar.
+
+###### Artigo 7.º
+
+- 1 - Compete à DGPE verificar a execução do contrato de aquisição, devendo, para isso, os serviços utilizadores fornecer àquela todas as informações solicitadas, bem como ceder qualquer artigo adquirido ao abrigo dos contratos.
+
+2 - A DGPE poderá também submeter à aprovação do Ministro das Finanças e do Plano a difusão pelos serviços interessados de circulares contendo instruções para a boa execução do diploma e da legislação que venha a ser adoptada.
+
+###### Artigo 8.º
+
+- 1 - Constituem fardamentos de tipo específico aqueles que são utilizados apenas em determinados serviços do Estado.
+
+2 - Os fardamentos de tipo específico constarão de tabelas aprovadas por despacho do ministro de que dependem os serviços, publicadas no Diário da República, onde se indicará o pessoal que a eles tem direito, a dotação, os prazos de duração, os modelos e as características do produto utilizado na confecção.
+
+3 - Das tabelas referidas no número anterior não devem constar artigos que sejam alternativas ou simples alterações dos fardamentos de tipo comum.
+
+4 - Aprovadas as tabelas referidas no n.º 2, as aquisições serão realizadas directamente pelos serviços interessados, nos termos da lei geral.
+
+###### Artigo 9.º
+
+Ficam revogados os seguintes diplomas:
+
+a) O Decreto-Lei n.º 45150, de 22 de Julho de 1963;
+
+b) O Decreto-Lei n.º 45678, de 25 de Abril de 1964;
+
+c) O Decreto-Lei n.º 707/73, de 29 de Dezembro;
+
+d) O Decreto-Lei n.º 447/82, de 12 de Novembro;
+
+e) A Portaria n.º 376/75, de 18 de Junho;
+
+f) A Portaria n.º 4/84, de 3 de Janeiro.
+
+###### Artigo 10.º
+
+É proibido:
+
+a) Usar, quando fardado, quaisquer emblemas ou distintivos que não sejam os autorizados pelos respectivos serviços;
+
+b) Usar o fardamento ou qualquer das suas peças fora do serviço, para além do tempo indispensável ao trajecto de ou para o local do trabalho;
+
+c) O uso simultâneo de peças de fardamento e de traje civil;
+
+d) O uso de fardamento diferente do que superiormente estiver determinado.
+
+###### Artigo 11.º
+
+A inobservância sistemática das regras de utilização previstas nos artigos 7.º a 10.º será objecto de procedimento disciplinar.
+
+###### Artigo 12.º
+
+- 1 - A dotação e a duração média de cada fardamento são as que constam do quadro I, sem prejuízo do disposto no número seguinte.
+
+2 - Sempre que o estado de conservação de um fardamento não justifique a sua substituição ou implique uma substituição antes de atingido o tempo limite de duração, os dirigentes dos serviços poderão prorrogar ou antecipar as durações previstas no quadro I.
+
+3 - Os serviços onde exista pessoal com direito a fardamento possuirão um registo ou verbetes individuais, onde discriminarão cada um dos referidos funcionários ou agentes, com os artigos distribuídos e com as respectivas datas.
+
+###### Artigo 13.º
+
+- 1 - O pessoal a quem forem fornecidos fardamentos é responsável pelos mesmos e pode ser compelido a substituí-los, no todo ou em parte, quando, sem motivo justificado, os torne incapazes de ser utilizados.
+
+2 - O pessoal que deixe definitivamente de exercer as suas funções deverá entregar nos respectivos serviços todas as peças de fardamento que lhe tenham sido distribuídas e que ainda não tenham atingido o prazo limite de duração.
+
+###### Artigo 14.º
+
+Os fardamentos que, ao abrigo de disposições anteriores ao presente Regulamento, hajam sido distribuídos deverão ser utilizados até ao limite do prazo previsto naquelas disposições.
+
+(ver documento original)
+
+Visto e aprovado em Conselho de Ministros de 23 de Outubro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Alípio Barrosa Pereira Dias.
+
+Promulgado em 13 de Novembro de 1984.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 14 de Novembro de 1984.
+
+O Primeiro-Ministro, Mário Soares.
+
+## Anexo
+
+(a que se refere o artigo 3.º)
+
+Regulamento de Fardamentos do Tipo Comum
+
+Art. 1.º Os fardamentos de tipo comum dividem-se em fardamentos de uso geral e fardamentos de uso restrito.
+
+Art. 2.º - 1 - Os fardamentos de uso geral subdividem-se em fardamentos de uso diário masculino e fardamentos de uso diário feminino.
+
+2 - Os fardamentos de uso restrito subdividem-se em fardamentos de uso restrito para determinadas categorias e fardamentos de protecção.
+
+Art. 3.º - 1 - O fardamento de uso geral diário masculino é constituído por casaco, calça e camisa:
+
+a) O casaco é em sarja de lã/poliéster, azul, de tipo paletó, ligeiramente cintado e com um comprimento ao nível do meio do polegar. A frente do casaco é direita e com canto, ligeiramente arredondado, abotoada com 3 botões exteriores, e tem 5 bolsos (um de peito, com pestana, 2 laterais, com vivos e portinhola, e 2 interiores). As costas do casaco têm costura central interrompida a 5 cm abaixo da cintura, dando lugar a uma abertura até ao fundo. As mangas do casaco são de largura média e comprimento normal, com 2 botões junto ao punho (fig. 1);
+
+b) A calça é em sarja de lã/poliéster, azul, direita e de largura média, com costuras laterais, com 3 bolsos metidos (2 laterais, clássicos, com abertura média de 15 cm, e um atrás, com vivo e botão) e um bolso para relógio à frente, do lado esquerdo. A calça tem cós com um mínimo de 5 passadores (fig. 2);
+
+c) A camisa é em popelina de algodão/poliéster, branca, com colarinho de pontas médias, abotoada com 6 botões brancos a meio da carcela. A camisa tem 2 bolsos exteriores com macho de 3 cm de largura e portinholas em bico com botão. As mangas são compridas, acabando por uma abertura com carcela e punho em bico fixado com botão. As costas da camisa têm na parte superior uma blusa (encaixe) com um mínimo de 6 cm de altura e apresentam ainda 2 preguinhas laterais de cada lado (fig. 3).
+
+2 - O fardamento de uso geral diário feminino é constituído por casaco, saia e blusa:
+
+a) O casaco é em sarja de lã/poliéster, azul, de tipo blaser, ligeiramente cintado e com comprimento a nível do pulso. A frente do casaco é ligeiramente arredondada e abotoada com uma ordem de 3 botões exteriores e tem um bolso fingido no peito e 2 laterais metidos com portinholas. As costas do casaco têm costura central e as mangas são de largura média e comprimento normal, terminando com um botão de cada lado (fig. 4);
+
+b) A saia é em sarja de lã/poliéster, azul, ligeiramente evasée com 2 pregas laterais, uma de cada lado, fechadas até à altura conveniente e com cós estreito na cintura (fig. 4);
+
+c) A blusa é em popelina de algodão/poliéster, branca, com gola pequena, abotoada com 6 botões brancos a meio da carcela, com um bolso de chapa no peito sem paleta do lado esquerdo. As mangas são compridas, com punhos direitos e botão (fig. 5).
+
+Art. 4.º - 1 - Os fardamentos de uso restrito para determinadas categorias são os seguintes:
+
+a) O sobretudo é de tecido tipo «moscovo» (100% lã) ligeiramente cintado, amplo, com gola aberta de 2 tombos (largura média, 10 cm), abotoado ao centro com uma ordem de 3 botões exteriores, com 2 bolsos de chapa e portinholas. As mangas do sobretudo são de largura média e comprimento normal, com 2 botões de cada lado do punho. O comprimento do sobretudo deve ficar a 8 cm abaixo do joelho e as costas têm costura central, interrompida de 10 cm a 12 cm abaixo da cintura (fig. 6);
+
+b) A gabardina é em impermeável 100% lã, azul, ligeiramente cintada de trespasse, abotoada com 2 ordens de botões exteriores. As bandas e a gola da gabardina têm a mesma largura, sendo a parte mais larga de 12 cm (com bicos unidos na parte superior e pequena escala de 4 cm). As mangas têm 2 botões e são fechadas com presilha (de 12 cm de comprimento por 4 cm de largura), que, partindo da costura inferior, fica a 4 cm do orlo, terminando em bico com casa. Os bolsos da gabardina são em número de 2, metidos obliquamente, tendo 17 cm de boca e pestana com 4 cm de largura. As costas têm costura central, interrompida de 10 cm a 12 cm abaixo da cintura. A gabardina tem um cinto do mesmo tecido com a largura de 4 cm e fivela metálica forrada, 2 passadores laterais e 2 platinas nos ombros, fixas à costura da manga, com comprimento até ao orlo da gola e 4 cm de largura (fig. 7);
+
+c) O casaco de cabedal é em pele de cor preta, abotoado ao centro por uma ordem de 3 botões, com bandas e gola aberta (com 10 cm de largura). O casaco tem 2 bolsos oblíquos, metidos com pestanas de 16 cm de comprimento e 4 cm de largura. A frente e as costas do casaco são cortadas em escapulário, na altura do peito. As costas têm uma costura central interrompida a 5 cm abaixo da cinta, para dar lugar a uma abertura até ao fundo. As mangas têm uma presilha (de 12 cm de comprimento por 4 cm de largura), que, partindo da costura interior, fica a 4 cm do orlo, terminando em bico, com botão. O casaco tem um cinto do mesmo material e fivela metálica forrada e 2 passadores laterais (fig. 8).
+
+2 - Os fardamentos de uso restrito de protecção são os seguintes:
+
+a) A bata, em caqui cinzento (100% algodão sanforizado), ampla, abotoada à frente por uma ordem de 5 botões, com gola e banda estreitas, com 3 bolsos de chapa (2 laterais e um de peito, do lado esquerdo, com macho). As costas têm um espelho simples e costura central interrompida, em média, a 20 cm abaixo da cintura. As mangas são de comprimento normal e largura média (fig. 9);
+
+b) A bata, em sarja de algodão poliéster, cinzenta ou branca, é de modelo idêntico ao da bata descrita na alínea a);
+
+c) A calça, com peitilho e alças, é em caqui cinzento (100% algodão sanforizado), de tipo jardineiro, com peitilho até à altura da cava e alças, que, partindo das costas e cruzando-se a meio, abotoam à frente, no peitilho. A calça tem aberturas laterais de 16 cm, fechando com 3 botões, e tem 2 bolsos de chapa de meia-lua (fig. 10);
+
+d) O fato inteiriço (macaco) é em cáqui cinzento (100% algodão sanforizado), com gola pequena, abotoado à frente por uma ordem de botões com uma distância máxima entre si de 7 cm, com pestana e carcela. O fato tem na frente 2 bolsos de chapa no peito com macho e 2 bolsos laterais nas calças em forma de meia-lua e atrás um bolso de chapa, abotoado com botão. A parte superior do fato é dividida da parte inferior, na cintura, por um elástico nas costas e um cós à frente, que termina em bico com botão. As mangas são compridas e terminam com punho em bico com botão (fig. 11).
+
+Art. 5.º - Os botões dos fardamentos, em regra, são em plástico, da mesma cor do material utilizado na confecção, e terão o escudo nacional em relevo:
+
+a) Nos casos de camisas e blusas os botões são lisos e em plástico de cor branca e nos casos de batas, calças com peitilho e alças e fatos inteiriços (macaco) os botões são lisos e da cor do tecido utilizado na confecção;
+
+b) Os botões utilizados nas mangas dos casacos, sobretudos e gabardinas são idênticos aos utilizados na frente das respectivas peças, mas têm um diâmetro inferior àqueles.
+
+Art. 6.º As especificações técnicas da qualidade e características dos materiais utilizados na confecção serão fixadas pela DGPE.
+
+Art. 7.º Os fardamentos referidos no presente Regulamento destinam-se ao pessoal civil dos serviços do Estado que se encontrem no desempenho das suas funções e serão distribuídos e utilizados de acordo com as seguintes regras:
+
+a) Aos fardamentos de uso geral têm direito os funcionários da classe de pessoal auxiliar;
+
+b) Aos fardamentos de uso restrito para determinadas categorias têm direito os funcionários cujas categorias são referidas no quadro I anexo ao presente Regulamento ou outros cujo desempenho de funções justifique o seu uso;
+
+c) Aos fardamentos de uso restrito de protecção têm direito os funcionários que desempenhem serviços de limpeza ou executem trabalhos que justifiquem o seu uso.
+
+Art. 8.º - 1 - O uso dos fardamentos previstos neste Regulamento é obrigatório para todos os funcionários que a ele tenham direito, salvo se houver despacho ministerial que autorize a respectiva dispensa, a qual poderá ser concedida, caso a caso, segundo critérios de oportunidade, após proposta fundamentada do responsável pelo serviço.
+
+2 - Nos casos em que não houver dispensa do uso do fardamento o pessoal auxiliar deverá apresentar-se ao serviço convenientemente uniformizado, ou seja, com o fardamento completo e em bom estado de conservação.
+
+Art. 9.º - 1 - É recomendável o uso de calçado preto, de identificação a aprovar pelo respectivo organismo, e de gravata azul-escura para o pessoal do sexo masculino.
+
+2 - Durante o período de Inverno poderá ser concedido autorização para o uso de camisola azul-escura com decote em V e no período de Verão poderá ser dispensado o uso do casaco.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/89 - Diário da República n.º 120/1989, Série I de 1989-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1989-609979), em vigor a partir de 1989-05-31

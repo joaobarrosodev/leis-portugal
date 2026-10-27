@@ -1,0 +1,158 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:519464:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-65965911",
+ "dre_path": "/dr/detalhe/lei/16-2007-519464",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-04-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "65926565",
+    "65926566",
+    "65926567",
+    "65926568",
+    "65926569",
+    "65926570",
+    "65926571",
+    "65926572",
+    "65926573"
+   ]
+  },
+  {
+   "date": "2016-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73740376:por",
+     "title": "Lei n.º 3/2016",
+     "published": "2016-02-29",
+     "dre_path": "/dr/detalhe/lei/3-2016-73740376"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "65926565",
+    "65926566",
+    "221152316",
+    "65926568",
+    "65926569",
+    "65926570",
+    "221152317",
+    "65926572",
+    "65926573",
+    "65926574"
+   ]
+  }
+ ],
+ "fragments": {
+  "65926565": {
+   "fragment_id": "65965912",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 16/2007\n\nde 17 de Abril\n\nExclusão da ilicitude nos casos de interrupção voluntária da gravidez\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "65926566": {
+   "fragment_id": "65965913",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração do Código Penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração do Código Penal\n\nO artigo 142.º do Código Penal, com a redacção que lhe foi introduzida pelo Decreto-Lei n.º 48/95, de 15 de Março, e pela Lei n.º 90/97, de 30 de Julho, passa a ter a seguinte redacção:\n\n«Artigo 142.º\n\n[...]\n\n1 - Não é punível a interrupção da gravidez efectuada por médico, ou sob a sua direcção, em estabelecimento de saúde oficial ou oficialmente reconhecido e com o consentimento da mulher grávida, quando:\n\na) ...\n\nb) ...\n\nc) Houver seguros motivos para prever que o nascituro virá a sofrer, de forma incurável, de grave doença ou malformação congénita, e for realizada nas primeiras 24 semanas de gravidez, excepcionando-se as situações de fetos inviáveis, caso em que a interrupção poderá ser praticada a todo o tempo;\n\nd) ...\n\ne) For realizada, por opção da mulher, nas primeiras 10 semanas de gravidez.\n\n2 - A verificação das circunstâncias que tornam não punível a interrupção da gravidez é certificada em atestado médico, escrito e assinado antes da intervenção por médico diferente daquele por quem, ou sob cuja direcção, a interrupção é realizada, sem prejuízo do disposto no número seguinte.\n\n3 - Na situação prevista na alínea e) do n.º 1, a certificação referida no número anterior circunscreve-se à comprovação de que a gravidez não excede as 10 semanas.\n\n4 - O consentimento é prestado:\n\na) Nos casos referidos nas alíneas a) a d) do n.º 1, em documento assinado pela mulher grávida ou a seu rogo e, sempre que possível, com a antecedência mínima de três dias relativamente à data da intervenção;\n\nb) No caso referido na alínea e) do n.º 1, em documento assinado pela mulher grávida ou a seu rogo, o qual deve ser entregue no estabelecimento de saúde até ao momento da intervenção e sempre após um período de reflexão não inferior a três dias a contar da data da realização da primeira consulta destinada a facultar à mulher grávida o acesso à informação relevante para a formação da sua decisão livre, consciente e responsável.\n\n5 - No caso de a mulher grávida ser menor de 16 anos ou psiquicamente incapaz, respectiva e sucessivamente, conforme os casos, o consentimento é prestado pelo representante legal, por ascendente ou descendente ou, na sua falta, por quaisquer parentes da linha colateral.\n\n6 - Se não for possível obter o consentimento nos termos dos números anteriores e a efectivação da interrupção da gravidez se revestir de urgência, o médico decide em consciência face à situação, socorrendo-se, sempre que possível, do parecer de outro ou outros médicos.\n\n7 - Para efeitos do disposto no presente artigo, o número de semanas de gravidez é comprovado ecograficamente ou por outro meio adequado de acordo com as leges artis.»"
+  },
+  "65926567": {
+   "fragment_id": "65965914",
+   "type": 11,
+   "heading": "Artigo 2.º — Consulta, informação e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Consulta, informação e acompanhamento\n\n1 - Compete ao estabelecimento de saúde oficial ou oficialmente reconhecido onde se pratique a interrupção voluntária da gravidez garantir, em tempo útil, a realização da consulta obrigatória prevista na alínea b) do n.º 4 do artigo 142.º do Código Penal e dela guardar registo no processo próprio.\n\n2 - A informação a que se refere a alínea b) do n.º 4 do artigo 142.º do Código Penal é definida por portaria, em termos a definir pelo Governo, devendo proporcionar o conhecimento sobre:\n\na) As condições de efectuação, no caso concreto, da eventual interrupção voluntária da gravidez e suas consequências para a saúde da mulher;\n\nb) As condições de apoio que o Estado pode dar à prossecução da gravidez e à maternidade;\n\nc) A disponibilidade de acompanhamento psicológico durante o período de reflexão;\n\nd) A disponibilidade de acompanhamento por técnico de serviço social, durante o período de reflexão.\n\n3 - Para efeitos de garantir, em tempo útil, o acesso efectivo à informação e, se for essa a vontade da mulher, ao acompanhamento facultativo referido nas alíneas c) e d) do número anterior, os estabelecimentos de saúde, oficiais ou oficialmente reconhecidos, para além de consultas de ginecologia e obstetrícia, devem dispor de serviços de apoio psicológico e de assistência social dirigidos às mulheres grávidas.\n\n4 - Os estabelecimentos de saúde oficiais ou oficialmente reconhecidos onde se pratique a interrupção voluntária da gravidez garantem obrigatoriamente às mulheres grávidas que solicitem aquela interrupção o encaminhamento para uma consulta de planeamento familiar."
+  },
+  "65926568": {
+   "fragment_id": "65965915",
+   "type": 11,
+   "heading": "Artigo 3.º — Organização dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Organização dos serviços\n\n1 - O Serviço Nacional de Saúde deve organizar-se de modo a garantir a possibilidade de realização da interrupção voluntária da gravidez nas condições e nos prazos legalmente previstos.\n\n2 - Os estabelecimentos de saúde oficiais ou oficialmente reconhecidos em que seja praticada a interrupção voluntária da gravidez organizar-se-ão de forma adequada para que a mesma se verifique nas condições e nos prazos legalmente previstos."
+  },
+  "65926569": {
+   "fragment_id": "65965916",
+   "type": 11,
+   "heading": "Artigo 4.º — Providências organizativas e regulamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Providências organizativas e regulamentares\n\n1 - O Governo adoptará as providências organizativas e regulamentares necessárias à boa execução da legislação atinente à interrupção voluntária da gravidez, designadamente por forma a assegurar que do exercício do direito de objecção de consciência dos médicos e demais profissionais de saúde não resulte inviabilidade de cumprimento dos prazos legais.\n\n2 - Os procedimentos administrativos e as condições técnicas e logísticas de realização da interrupção voluntária da gravidez em estabelecimento de saúde oficial ou oficialmente reconhecido são objecto de regulamentação por portaria do Ministro da Saúde."
+  },
+  "65926570": {
+   "fragment_id": "65965917",
+   "type": 11,
+   "heading": "Artigo 5.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dever de sigilo\n\nOs médicos e demais profissionais de saúde, bem como o restante pessoal dos estabelecimentos de saúde, oficiais ou oficialmente reconhecidos, em que se pratique a interrupção voluntária da gravidez, ficam vinculados ao dever de sigilo profissional relativamente a todos os actos, factos ou informações de que tenham conhecimento no exercício das suas funções, ou por causa delas, relacionados com aquela prática, nos termos e para os efeitos dos artigos 195.º e 196.º do Código Penal, sem prejuízo das consequências estatutárias e disciplinares que no caso couberem."
+  },
+  "65926571": {
+   "fragment_id": "65965918",
+   "type": 11,
+   "heading": "Artigo 6.º — Objecção de consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objecção de consciência\n\n1 - É assegurado aos médicos e demais profissionais de saúde o direito à objecção de consciência relativamente a quaisquer actos respeitantes à interrupção voluntária da gravidez.\n\n2 - Os médicos ou demais profissionais de saúde que invoquem a objecção de consciência relativamente a qualquer dos actos respeitantes à interrupção voluntária da gravidez não podem participar na consulta prevista na alínea b) do n.º 4 do artigo 142.º do Código Penal ou no acompanhamento das mulheres grávidas a que haja lugar durante o período de reflexão.\n\n3 - Uma vez invocada a objecção de consciência, a mesma produz necessariamente efeitos independentemente da natureza dos estabelecimentos de saúde em que o objector preste serviço.\n\n4 - A objecção de consciência é manifestada em documento assinado pelo objector, o qual deve ser apresentado, conforme os casos, ao director clínico ou ao director de enfermagem de todos os estabelecimentos de saúde onde o objector preste serviço e em que se pratique interrupção voluntária da gravidez."
+  },
+  "65926572": {
+   "fragment_id": "65965919",
+   "type": 11,
+   "heading": "Artigo 7.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revogação\n\nSão revogadas as Leis n.os 6/84, de 11 de Maio, e 90/97, de 30 de Julho."
+  },
+  "65926573": {
+   "fragment_id": "65965920",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regulamentação\n\nO Governo procede à regulamentação da presente lei no prazo máximo de 60 dias."
+  },
+  "221152316": {
+   "fragment_id": "65965914",
+   "type": 11,
+   "heading": "Artigo 2.º — Consulta, informação e acompanhamento",
+   "in_force_from": "2016-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 3/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/3-2016-73740376), em vigor a partir de 2016-03-01",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 136/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/136-2015-70196963)"
+   ],
+   "markdown": "###### Artigo 2.º — Consulta, informação e acompanhamento\n\n1 - Compete ao estabelecimento de saúde oficial ou oficialmente reconhecido onde se pratique a interrupção voluntária da gravidez garantir, em tempo útil, a realização da consulta obrigatória prevista na alínea b) do n.º 4 do artigo 142.º do Código Penal e dela guardar registo no processo próprio.\n\n2 - A informação a que se refere a alínea b) do n.º 4 do artigo 142.º do Código Penal é definida por portaria, em termos a definir pelo Governo, devendo proporcionar o conhecimento sobre:\n\na) As condições de efectuação, no caso concreto, da eventual interrupção voluntária da gravidez e suas consequências para a saúde da mulher;\n\nb) As condições de apoio que o Estado pode dar à prossecução da gravidez e à maternidade;\n\nc) A disponibilidade de acompanhamento psicológico durante o período de reflexão;\n\nd) A disponibilidade de acompanhamento por técnico de serviço social, durante o período de reflexão.\n\n3 - Para efeitos de garantir, em tempo útil, o acesso efectivo à informação e, se for essa a vontade da mulher, ao acompanhamento facultativo referido nas alíneas c) e d) do número anterior, os estabelecimentos de saúde, oficiais ou oficialmente reconhecidos, para além de consultas de ginecologia e obstetrícia, devem dispor de serviços de apoio psicológico e de assistência social dirigidos às mulheres grávidas.\n\n4 - Os estabelecimentos de saúde oficiais ou oficialmente reconhecidos onde se pratique a interrupção voluntária da gravidez garantem obrigatoriamente às mulheres grávidas que solicitem aquela interrupção o encaminhamento para uma consulta de planeamento familiar.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 3/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/3-2016-73740376), em vigor a partir de 2016-03-01\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 136/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/136-2015-70196963)"
+  },
+  "221152317": {
+   "fragment_id": "65965918",
+   "type": 11,
+   "heading": "Artigo 6.º — Objecção de consciência",
+   "in_force_from": "2016-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 3/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/3-2016-73740376), em vigor a partir de 2016-03-01",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 136/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/136-2015-70196963)"
+   ],
+   "markdown": "###### Artigo 6.º — Objecção de consciência\n\n1 - É assegurado aos médicos e demais profissionais de saúde o direito à objecção de consciência relativamente a quaisquer actos respeitantes à interrupção voluntária da gravidez.\n\n2 - Os médicos ou demais profissionais de saúde que invoquem a objecção de consciência relativamente a qualquer dos actos respeitantes à interrupção voluntária da gravidez não podem participar na consulta prevista na alínea b) do n.º 4 do artigo 142.º do Código Penal ou no acompanhamento das mulheres grávidas a que haja lugar durante o período de reflexão.\n\n3 - Uma vez invocada a objecção de consciência, a mesma produz necessariamente efeitos independentemente da natureza dos estabelecimentos de saúde em que o objector preste serviço.\n\n4 - A objecção de consciência é manifestada em documento assinado pelo objector, o qual deve ser apresentado, conforme os casos, ao director clínico ou ao director de enfermagem de todos os estabelecimentos de saúde onde o objector preste serviço e em que se pratique interrupção voluntária da gravidez.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 3/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/3-2016-73740376), em vigor a partir de 2016-03-01\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 136/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/136-2015-70196963)"
+  },
+  "65926574": {
+   "fragment_id": "65965921",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de Março de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 10 de Abril de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendada em 10 de Abril de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

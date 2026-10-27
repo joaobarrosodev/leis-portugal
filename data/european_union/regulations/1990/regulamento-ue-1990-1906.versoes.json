@@ -1,0 +1,378 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990R1906:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990R1906-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "1990-07-06",
+   "future": false,
+   "celex": "31990R1906",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3586d3655d139d20",
+    "521db16377e160e1",
+    "97124daa4d364d43",
+    "769ea0b4f2db3ff6",
+    "de6bd0b1d7ac8f75",
+    "3cf1ebae1d788dd3",
+    "f00ef731024810d0",
+    "904124915f087816",
+    "458344aa7886ea88",
+    "48c361199ffe2d26",
+    "7180d45b9d5d3b54",
+    "ab54a0f4f6aa3739",
+    "6d16cc9ef0f07e32",
+    "0e9acc17b401b279"
+   ]
+  },
+  {
+   "date": "2006-07-14",
+   "future": false,
+   "celex": "01990R1906-20060714",
+   "acts": [
+    {
+     "id": "eu:celex:31993R0317:por",
+     "title": "REGULAMENTO (CEE) N. o 317/93 DO CONSELHO de 9 de Fevereiro de 1993",
+     "published": null,
+     "celex": "31993R0317"
+    },
+    {
+     "id": "eu:celex:31993R3204:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31993R3204"
+    },
+    {
+     "id": "eu:celex:31998R1101:por",
+     "title": "REGULAMENTO (CE) N.O 1101/98 DO CONSELHO de 25 de Maio de 1998",
+     "published": null,
+     "celex": "31998R1101"
+    },
+    {
+     "id": "eu:celex:32006R1029:por",
+     "title": "REGULAMENTO (CE) N. o 1029/2006 DO CONSELHO de 19 de Junho de 2006",
+     "published": null,
+     "celex": "32006R1029"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º"
+   ],
+   "fragments": [
+    "988b999eddffc921",
+    "533fc3f817798b46",
+    "d6135e906ee1b47e",
+    "999c3eb225bef01d",
+    "4bbee3d9ccab9091",
+    "2b5c9946d0e394b4",
+    "faa47461e2457f81",
+    "d169f5e3f8e5881d",
+    "95dcdf2674e3acb9",
+    "5a259cded7f88e39",
+    "baa9cb8f6d04c534",
+    "1dee07a64da10d68",
+    "8061f5ec720d3097",
+    "917f25d77732095b",
+    "30837dfb66d9acd8"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01990R1906-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "64b9d42e325c68ea"
+   ]
+  }
+ ],
+ "fragments": {
+  "3586d3655d139d20": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1906/90 do Conselho, de 26 de Junho de 1990, que estabelece normas de comercialização para as aves de capoeira** *Jornal Oficial nº L 173 de 06/07/1990 p. 0001 - 0004 Edição especial finlandesa: Capítulo 3 Fascículo 33 p. 0038 Edição especial sueca: Capítulo 3 Fascículo 33 p. 0038*\n\n*****\n\nREGULAMENTO (CEE) Nº 1906/90 DO CONSELHO\n\nde 26 de Junho de 1990\n\nque estabelece normas de comercialização para as aves de capoeira\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) nº 2777/75 do Conselho, de 29 de Outubro de 1975, que estabelece uma organização comum de mercado no sector da carne de aves de capoeira (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1235/89 (2), e, nomeadamente, o nº 2 do seu artigo 2º,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o Regulamento (CEE) nº 2777/75 prevê a fixação de normas de comercialização que podem incidir, nomeadamente, sobre a classificação por categoria de qualidade e de peso, a embalagem, a armazenagem, o transporte, a apresentação e a marcação de determinados tipos de carne de aves de capoeira;\n\nConsiderando que essas normas podem contribuir para uma melhoria da qualidade da carne de aves de capoeira e, consequentemente, facilitar a venda desse produto; que, por conseguinte, a aplicação de normas de comercialização à carne de aves de capoeira própria para o consumo humano é do interesse de produtores, operadores e consumidores;\n\nConsiderando que, para tal, as referidas normas devem ser aplicáveis aos tipos de carne de aves de capoeira em questão comercializados no território da Comunidade em diferentes estádios do comércio; que se revela igualmente necessária a classificação em duas categorias de toda a carne de aves de capoeira segundo a conformação e o aspecto; que, todavia, se afigura indicado excluir do âmbito de aplicação dessas normas as vendas locais em pequena escala e as operações de corte e de desossagem efectuadas nos locais de venda previstos nos nºs 5 e 7 do artigo 3º da Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativo a problemas sanitários em matéria de comércio de carnes frescas de aves de capoeira (3), com a última redacção que lhe foi dada pela Directiva 88/657/CEE (4), bem como as entregas à indústria alimentar;\n\nConsiderando que a rotulagem da carne de aves de capoeira está sujeita a regras gerais fixadas na Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final (5), com a última redacção que lhe foi dada pela Directiva 89/395/CEE (6); que, dada a natureza dos produtos em causa e a fim de proporcionar aos consumidores uma informação mais completa e facilitar o comércio, devem ser fixadas determinadas exigências suplementares de acordo com o nº 2 do artigo 4º da Directiva 79/112/CEE e que é conveniente classificar a carne de aves de capoeira em duas categorias de conformação e definir as condições em que a carne de aves de capoeira deve ser proposta à venda; que, pelos mesmos motivos, é igualmente desejável que as indicações respeitantes ao método de refrigeração utilizado e ao tipo de criação de que provêm as aves de capoeira apenas sejam utilizadas em conformidade com regras comunitárias a fixar;\n\nConsiderando que a carne fresca de aves de capoeira deve ser considerada, do ponto de vista microbiológico, como um género alimentício muito perecível; que é, pois, necessário, em relação a essa carne fresca de aves de capoeira, substituir a data de durabilidade mínima pela data limite de consumo, em conformidade com o nº 1 do artigo 9ºA da Directiva 79/112/CEE;\n\nConsiderando que é essencial, tanto no interesse do produtor como no do consumidor, que a carne de aves de capoeira importada de países terceiros esteja em conformidade com as normas comunitárias; que se afigura, todavia, indicado excluir do âmbito de aplicação a carne de aves de capoeira destinada a ser exportada para fora da Comunidade;\n\nConsiderando que é necessário estabelecer regras mais pormenorizadas relativas à aplicação do presente regulamento; que, dado o carácter essencialmente técnico dos problemas levantados e a provável necessidade de alterações frequentes, se afigura mais adequado recorrer ao processo previsto no artigo 17º do Regulamento (CEE)\n\nnº 2777/75; que, pelos mesmos motivos, parece indispensável que sejam adoptadas, pelo mesmo processo, medidas que garantam a aplicação uniforme do presente regulamento;\n\nConsiderando que é conveniente fixar percentagens de absorção de água estranha tecnicamente inevitável a não exceder durante a preparação das carcaças frescas, congeladas e ultracongeladas; que é necessário estabelecer métodos uniformes para verificar o respeito dessas prescrições; que, dado o carácter técnico das normas a estabelecer, se revela adequado que essas normas sejam fixadas em conformidade com o processo previsto no artigo 17º do Regulamento (CEE) nº 2777/75; que, por consequência, é necessário revogar o Regulamento (CEE) nº 2967/76 do Conselho, de 23 de Novembro de 1976, que determina normas comuns relativas ao teor de água dos galos, galinhas e frangos congelados ou supercongelados (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 3204/83 (2);\n\nConsiderando que cabe a cada Estado-membro designar as autoridades responsáveis, encarregadas de velar pelo cumprimento das disposições do presente regulamento; que tal processo de vigilância deve ser uniforme em todos os Estados-membros;\n\nConsiderando que cabe igualmente a cada Estado-membro prever as sanções a aplicar em caso de infracção às disposições do presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "521db16377e160e1": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento estabelece as normas de comercialização comunitárias para alguns tipos e apresentações de carne de aves de capoeira das espécies a seguir indicadas, referidas no nº 1 do artigo 1º do Regulamento (CEE) nº 2777/75:\n\n- gallus domesticus,\n\n- patos,\n\n- gansos,\n\n- perus,\n\n- pintadas.\n\nQuando seja objecto de uma actividade profissional ou comercial, essa carne de aves de capoeira só pode ser comercializada na Comunidade se satisfizer as disposições do presente regulamento.\n\n2. O presente regulamento aplica-se apenas às carcaças de aves de capoeira, às partes de carcaças e às miudezas, incluindo o foie gras, cuja lista será adoptada em conformidade com o processo previsto no artigo 17º do Regulamento (CEE) nº 2777/75 do Conselho.\n\n3. As disposições do presente regulamento não são aplicáveis:\n\n- à carne de aves de capoeira destinada a ser exportada para fora da Comunidade,\n\n- ao tipo de venda referido no nº 5 do artigo 3º da Directiva 71/118/CEE.\n\n4. As disposições do presente regulamento são aplicáveis sem prejuízo das disposições adoptadas no sector veterinário e no dos géneros alimentícios, destinadas a garantir o respeito das normas de higiene e de salubridade dos produtos e a proteger a saúde dos animais e das pessoas."
+  },
+  "97124daa4d364d43": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nNa acepção do presente regulamento, entende-se por:\n\n1. « Carne de aves de capoeira »: a carne de aves de capoeira própria para o consumo humano que não tenha sofrido qualquer tratamento destinado a assegurar a sua conservação, à excepção do tratamento pelo frio;\n\n2. « Carcaça »: o corpo completo de uma ave de capoeira das espécies referidas no nº 1 do artigo 1º do presente regulamento depois de sangrada, depenada e eviscerada; são facultativos, todavia, a ablação do coração, fígado, pulmões, moelas, esófago e rins, bem como o seccionamento das patas ao nível do tarso e a ablação da cabeça; a carcaça eviscerada pode ser colocada à venda com ou sem miudezas, ou seja, coração, fígado, moela e pescoço, inseridas na cavidade abdominal;\n\n3. « Pedaços de carcaça »: carne de aves de capoeira que, dadas as dimensões e as características de tecido muscular, pode ser identificada como tendo sido obtida a partir das respectivas partes da carcaça;\n\n4. « Carne de aves de capoeira pré-embalada »: carne de aves de capoeira apresentada em conformidade com as condições estabelecidas no nº 3, alínea b), do artigo 1º da Directiva 79/112/CEE;\n\n5. « Carne fresca de aves de capoeira »: carne de aves de capoeira não congelada, que deve ser mantida permanentemente a uma temperatura não inferior a -2 °C nem superior a 4 °C;\n\n6. « Carne congelada de aves de capoeira »: carne de aves de capoeira que deve ser congelada logo que possível no âmbito dos procedimentos de abate normais e mantida permanentemente a uma temperatura que não exceda os -12 °C. Podem contudo ser estabelecidas determinadas tolerâncias nos termos do procedimento previsto no artigo 17º do Regulamento (CEE) nº 2775/75;\n\n7. « Carne ultracongelada de aves de capoeira »: carne de aves de capoeira que deve ser mantida permanentemente a uma temperatura que não exceda os -18 °C, com a tolerância prevista na Directiva 89/108/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-membros respeitantes aos alimentos ultracongelados destinados à alimentação humana (3);\n\n8. « Carne de aves de capoeira não pré-embalada »: carne de aves de capoeira apresentada sem pré-embalagem na venda ao consumidor final ou embalada nos locais de venda a pedido do comprador."
+  },
+  "769ea0b4f2db3ff6": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. A carne de aves de capoeira definida no artigo 1º será classificada, em função da conformação e do aspecto das carcaças ou suas peças, em categoria « A », ou categoria « B ». A categoria A subdividir-se-á em A 1 e A 2 segundo critérios a definir de acordo com o processo previsto no artigo 17º do Regulamento (CEE) nº 2777/75. Essa classificação terá em conta, nomeadamente, o desenvolvimento da carne e da gordura, bem como a importância de eventuais danos e contusões.\n\n2. A carne de aves de capoeira será comercializada em estado:\n\n- fresco,\n\n- congelado, ou\n\n- ultracongelado.\n\n3. A carne de aves de capoeira congelada ou ultracongelada pré-embalada pode ser classificada por categoria de peso, devendo as disposições para a sua aplicação ser adoptadas de acordo com o processo definido no artigo 17º do Regulamento (CEE) nº 2777/75."
+  },
+  "de6bd0b1d7ac8f75": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nPara além das disposições nacionais adoptadas de acordo com a Directiva 79/112/CEE, os documentos comerciais de acompanhamento na acepção do nº 1, alínea b), do artigo 11º da referida directiva devem conter as indicações suplementares seguintes:\n\na) A categoria referida no nº 1 do artigo 3º do presente regulamento;\n\nb) O estado em que a carne de aves de capoeira é comercializada em conformidade com o nº 2 do artigo 3º do presente regulamento e a temperatura de armazenagem recomendada."
+  },
+  "3cf1ebae1d788dd3": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Para além das disposições nacionais adoptadas de acordo com a Directiva 79/112/CEE, a rotulagem, apresentação e publicidade da carne de aves de capoeira destinada ao consumidor final devem estar em conformidade com as exigências suplementares referidas nos nºs 3, 4, 5 e 6 do presente artigo e no nº 2 do artigo 7º\n\n2. No caso da carne fresca de aves de capoeira, a data de durabilidade mínima é substituída pela data limite de consumo, em conformidade com o nº 1 do artigo 9ºA da Directiva 79/112/CEE.\n\n3. No caso da carne de aves de capoeira pré-embalada, devem igualmente figurar na pré-embalagem ou numa etiqueta ligada a esta última os dados seguintes:\n\na) A categoria referida no nº 1 do artigo 3º do presente regulamento;\n\nb) No caso da carne fresca de aves de capoeira, o preço total e o preço por unidade de peso na venda a retalho;\n\nc) O estado em que a carne de aves de capoeira é comercializada, em conformidade com o nº 2 do artigo 3º do presente regulamento, e a temperatura de armazenagem recomendada;\n\nd) O número de registo do matadouro ou da instalação de corte, salvo no caso de o corte e a desossagem serem efectuados no local de venda, tal como previsto no nº 7 do artigo 3º da Directiva 71/118/CEE;\n\ne) No caso da carne de aves de capoeira importada de países terceiros, a indicação do país de origem.\n\n4. No caso da carne de aves de capoeira vendida sem pré-embalagem, salvo se o corte e a desossagem forem efectuados no local de venda como previsto no nº 7 do artigo 3º da Directiva 71/118/CEE, sendo essas operações efectuadas a pedido e em presença do consumidor, é aplicável o artigo 12º da Directiva 79/112/CEE às indicações suplementares seguintes:\n\na) A categoria referida no nº 1 do artigo 3º do presente regulamento;\n\nb) O preço por unidade de peso na venda a retalho;\n\nc) O estado em que a carne de aves de capoeira é comercializada em conformidade com o nº 2 do artigo 3º do presente regulamento e a temperatura de armazenagem recomendada;\n\nd) O número de registo do matadouro ou da instalação de corte.\n\ne) No caso da carne de aves de capoeira importada de países terceiros, a indicação do país de origem.\n\n5. As regras pormenorizadas relativas à indicação da denominação de venda na acepção do nº 1, ponto 1, do artigo 3º da Directiva 79/112/CEE podem ser fixadas de acordo com o processo previsto no artigo 17º do Regulamento (CEE) nº 2777/75.\n\n6. Serão fixadas, de acordo com o processo previsto no artigo 17º do Regulamento (CEE) nº 2777/75, as regras pormenorizadas respeitantes:\n\na) À indicação, a título facultativo, do método de refrigeração utilizado;\n\nb) À indicação, a título facultativo, do modo de criação utilizado e às condições de controlo regular a que é subordinada a utilização dessa indicação.\n\nDe acordo com o mesmo processo, serão fixadas as condições em que o controlo regular referido na alínea b) do primeiro parágrafo pode ser realizado por um organismo designado por um Estado-membro que ofereça as garantias de independência necessárias em relação aos produtores em causa."
+  },
+  "f00ef731024810d0": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nEm derrogação aos artigos 3º, 4º e 5º, não será necessário classificar nem proceder às indicações suplementares previstas nos referidos artigos nos casos de entregas a instalações de corte e de transformação na acepção dos artigos 2º e 3º da Directiva 80/879/CEE da Comissão, de 3 de Setembro de 1980, relativa à marcação de salubridade das grandes embalagens de carnes frescas de aves de capoeira (1)."
+  },
+  "904124915f087816": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. As percentagens de absorção de água estranha tecnicamente inevitável a não exceder durante a preparação das carcaças frescas, congeladas ou ultracongeladas, e os respectivos métodos uniformes de controlo serão determinados em conformidade com o processo previsto no artigo 17º do Regulamento (CEE) nº 2777/75.\n\n2. De acordo com o mesmo processo, pode ser tornada obrigatória a indicação das percentagens de absorção de água tecnicamente inevitável referida no nº 1."
+  },
+  "458344aa7886ea88": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os Estados-membros designarão as autoridades competentes responsáveis pelo controlo da observância das disposições estabelecidas no presente regulamento, o mais tardar até um mês antes do início da sua aplicação.\n\n2. A designação referida no nº 1 será comunicada à Comissão e aos outros Estados-membros, bem como qualquer alteração relativa a essa designação.\n\n3. As autoridades referidas no nº 1 procederão a controlos sobre:\n\na) Amostras representativas da carne de aves de capoeira em todos os estádios de comercialização e durante o transporte;\n\nb) Uma amostra representativa da carne de aves de capoeira aquando do desalfandegamento da carne de aves de capoeira importada de países terceiros."
+  },
+  "48c361199ffe2d26": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nSerão adoptadas de acordo com o processo previsto no artigo 17º do Regulamento (CEE) nº 2777/75 as regras de execução do presente regulamento, nomeadamente as relativas aos critérios de classificação na acepção do nº 1 do artigo 3º, bem como as medidas destinadas a garantir uma aplicação uniforme do presente regulamento."
+  },
+  "7180d45b9d5d3b54": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros tomarão todas as medidas adequadas para sancionar as infracções ao presente regulamento."
+  },
+  "ab54a0f4f6aa3739": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros e a Comissão comunicar-se-ão mutuamente as informações necessárias à aplicação do presente regulamento."
+  },
+  "6d16cc9ef0f07e32": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nO Regulamento (CEE) nº 2967/76 continua a ser aplicável até ao início da aplicação das medidas adoptadas nos termos do artigo 7º do presente regulamento."
+  },
+  "0e9acc17b401b279": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Julho de 1991.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 26 de Junho de 1990.\n\nPelo Conselho\n\nO Presidente\n\nM. O'KENNEDY\n\n(1) JO nº L 282 de 1. 11. 1975, p. 77.\n\n(2) JO nº L 128 de 11. 5. 1989, p. 29.\n\n(3) JO nº L 55 de 8. 3. 1971, p. 23.\n\n(4) JO nº L 382 de 31. 12. 1988, p. 3.\n\n(5) JO nº L 33 de 8. 2. 1979, p. 1.\n\n(6) JO nº L 186 de 13. 6. 1989, p. 17.\n\n(1) JO nº L 339 de 8. 12. 1976, p. 1.\n\n(2) JO nº L 315 de 15. 11. 1983, p. 17.\n\n(3) JO nº L 40 de 11. 2. 1989, p. 51.\n\n(1) JO nº L 251 de 24. 9. 1980, p. 10."
+  },
+  "988b999eddffc921": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Junho de 1990\n\nque estabelece normas de comercialização [**►C1**](http://publications.europa.eu/resource/celex/31990R1906R%2801%29) para a carne de aves de capoeira**◄**\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.º 2777/75 do Conselho, de 29 de Outubro de 1975, que estabelece uma organização comum de mercado no sector da carne de aves de capoeira ([^1^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 1235/89 ([^2^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#E0002)), e, nomeadamente, o n.º 2 do seu artigo 2.º,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o Regulamento (CEE) n.º 2777/75 prevê a fixação de normas de comercialização que podem incidir, nomeadamente, sobre a classificação por categoria de qualidade e de peso, a embalagem, a armazenagem, o transporte, a apresentação e a marcação de determinados tipos de carne de aves de capoeira;\n\nConsiderando que essas normas podem contribuir para uma melhoria da qualidade da carne de aves de capoeira e, consequentemente, facilitar a venda desse produto; que, por conseguinte, a aplicação de normas de comercialização à carne de aves de capoeira própria para o consumo humano é do interesse de produtores, operadores e consumidores;\n\nConsiderando que, para tal, as referidas normas devem ser aplicáveis aos tipos de carne de aves de capoeira em questão comercializados no território da Comunidade em diferentes estádios do comércio; que se revela igualmente necessária a classificação em duas categorias de toda a carne de aves de capoeira segundo a conformação e o aspecto; que, todavia, se afigura indicado excluir do âmbito de aplicação dessas normas as vendas locais em pequena escala e as operações de corte e de desossagem efectuadas nos locais de venda previstos nos n.^os^ 5 e 7 do artigo 3.º da Directiva 71/118/CEE do Conselho, de 15 de Fevereiro de 1971, relativo a problemas sanitários em matéria de comércio de carnes frescas de aves de capoeira ([^3^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#E0003)), com a última redacção que lhe foi dada pela Directiva 88/657/CEE ([^4^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#E0004)), bem como as entregas à indústria alimentar;\n\nConsiderando que a rotulagem da carne de aves de capoeira está sujeita a regras gerais fixadas na Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final ([^5^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#E0005)), com a última redacção que lhe foi dada pela Directiva 89/395/CEE ([^6^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#E0006)); que, dada a natureza dos produtos em causa e a fim de proporcionar aos consumidores uma informação mais completa e facilitar o comércio, devem ser fixadas determinadas exigências suplementares de acordo com o n.º 2 do artigo 4.º da Directiva 79/112/CEE e que é conveniente classificar a carne de aves de capoeira em duas categorias de conformação e definir as condições em que a carne de aves de capoeira deve ser proposta à venda; que, pelos mesmos motivos, é igualmente desejável que as indicações respeitantes ao método de refrigeração utilizado e ao tipo de criação de que provêm as aves de capoeira apenas sejam utilizadas em conformidade com regras comunitárias a fixar;\n\nConsiderando que a carne fresca de aves de capoeira deve ser considerada, do ponto de vista microbiológico, como um género alimentício muito perecível; que é, pois, necessário, em relação a essa carne fresca de aves de capoeira, substituir a data de durabilidade mínima pela data limite de consumo, em conformidade com o n.º 1 do artigo 9.ºA da Directiva 79/112/CEE;\n\nConsiderando que é essencial, tanto no interesse do produtor como no do consumidor, que a carne de aves de capoeira importada de países terceiros esteja em conformidade com as normas comunitárias; que se afigura, todavia, indicado excluir do âmbito de aplicação a carne de aves de capoeira destinada a ser exportada para fora da Comunidade;\n\nConsiderando que é necessário estabelecer regras mais pormenorizadas relativas à aplicação do presente regulamento; que, dado o carácter essencialmente técnico dos problemas levantados e a provável necessidade de alterações frequentes, se afigura mais adequado recorrer ao processo previsto no artigo 17.º do Regulamento (CEE)nº 2777/75; que, pelos mesmos motivos, parece indispensável que sejam adoptadas, pelo mesmo processo, medidas que garantam a aplicação uniforme do presente regulamento;\n\nConsiderando que é conveniente fixar percentagens de absorção de água estranha tecnicamente inevitável a não exceder durante a preparação das carcaças frescas, congeladas e ultracongeladas; que é necessário estabelecer métodos uniformes para verificar o respeito dessas prescrições; que, dado o carácter técnico das normas a estabelecer, se revela adequado que essas normas sejam fixadas em conformidade com o processo previsto no artigo 17.º do Regulamento (CEE) n.º 2777/75; que, por consequência, é necessário revogar o Regulamento (CEE) n.º 2967/76 do Conselho, de 23 de Novembro de 1976, que determina normas comuns relativas ao teor de água dos galos, galinhas e frangos congelados ou supercongelados ([^7^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#E0007)), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 3204/83 ([^8^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#E0008));\n\nConsiderando que cabe a cada Estado-membro designar as autoridades responsáveis, encarregadas de velar pelo cumprimento das disposições do presente regulamento; que tal processo de vigilância deve ser uniforme em todos os Estados-membros;\n\nConsiderando que cabe igualmente a cada Estado-membro prever as sanções a aplicar em caso de infracção às disposições do presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "533fc3f817798b46": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento estabelece as normas de comercialização comunitárias para alguns tipos e apresentações de carne de aves de capoeira das espécies a seguir indicadas, referidas no n.º 1 do artigo 1.º do Regulamento (CEE) n.º 2777/75:\n\n— *gallus domesticus,*\n\n— patos,\n\n— gansos,\n\n— perus,\n\n— pintadas.\n\nQuando seja objecto de uma actividade profissional ou comercial, essa carne de aves de capoeira só pode ser comercializada na Comunidade se satisfizer as disposições do presente regulamento.\n\n2. O presente regulamento aplica-se apenas às carcaças de aves de capoeira, às partes de carcaças e às miudezas, incluindo o *foie gras*, cuja lista será adoptada em conformidade com o processo previsto no artigo 17.º do Regulamento (CEE) n.º 2777/75 do Conselho.\n\n3. As disposições do presente regulamento não são aplicáveis:\n\na) À carne de aves de capoeira destinada a ser exportada para fora da Comunidade;\n\nb) Às aves de capoeira de evisceração diferida referidas no Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal ([^9^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#E0011)).\n\n3-A. Os Estados-Membros podem derrogar às exigências do presente regulamento em caso de fornecimento directo, por produtores cuja produção anual seja inferior a 10 000 aves, de pequenas quantidades de carne de aves de capoeira, conforme referido na alínea d) do n.º 3 do artigo 1.º do Regulamento (CE) n.º 853/2004.\n\n4. As disposições do presente regulamento são aplicáveis sem prejuízo das disposições adoptadas no sector veterinário e no dos géneros alimentícios, destinadas a garantir o respeito das normas de higiene e de salubridade dos produtos e a proteger a saúde dos animais e das pessoas."
+  },
+  "d6135e906ee1b47e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNa acepção do presente regulamento, entende-se por:\n\n1. «Carne de aves de capoeira»: a carne de aves de capoeira própria para consumo humano que não tenha sofrido qualquier tratamento, à excepção do tratamento pelo frio;\n\n2. «Carcaça»: todo o corpo de uma ave da espécie referida no n.º 1 do artigo 1.º depois de sangrado, depenado e eviscerado; é facultativa, todavia, a ablação dos rins; a carcaça eviscerada pode ser colocada à venda com ou sem miudezas, ou seja, o coração, o fígado, a moela e o pescoço, inseridos na cavidade abdominal;\n\n3. «Pedaços de carcaça»: carne de aves de capoeira que, dadas as dimensões e as características de tecido muscular, pode ser identificada como tendo sido obtida a partir das respectivas partes da carcaça;\n\n4. «Carne de aves de capoeira pré-embalada»: carne de aves de capoeira apresentada de acordo com as condições estabelecidas na alínea b) do n.º 3 do artigo 1.º da Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios ([^10^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#E0012));\n\n5. «Carne fresca de aves de capoeira»: carne de aves de capoeira não congelada, que deve ser mantida permanentemente a uma temperatura não inferior a − 2 °C nem superior a 4 °C; todavia, os Estados-membros podem estabelecer diferentes exigências de temperatura para o corte e a armazenagem de carne fresca de aves de capoeira nos estabelecimentos de venda a retalho ou em instalações adjacentes a pontos de venda, sempre que o corte e a armazenagem sejam efectuados, exclusivamente, para fins de abastecimento directo do consumidor no local;\n\n6. «Carne congelada de aves de capoeira»: carne de aves de capoeira que deve ser congelada logo que possível no âmbito dos procedimentos de abate normais e mantida permanentemente a uma temperatura que não exceda os − 12 °C. Podem contudo ser estabelecidas determinadas tolerâncias nos termos do procedimento previsto no artigo 17.º do[**►C1**](http://publications.europa.eu/resource/celex/31990R1906R%2801%29) Regulamento (CEE) n.º 2777/75;\n\n7. «Carne ultracongelada de aves de capoeira»: carne de aves de capoeira que deve ser mantida permanentemente a uma temperatura que não exceda os − 18 °C, com a tolerância prevista na Directiva 89/108/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-membros respeitantes aos alimentos ultracongelados destinados à alimentação humana ([^11^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#E0009));\n\n8. «Carne de aves de capoeira não pré-embalada»: carne de aves de capoeira apresentada sem pré-embalagem na venda ao consumidor final ou embalada nos locais de venda a pedido do comprador."
+  },
+  "999c3eb225bef01d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A carne de aves de capoeira definida no artigo 1.º será classificada, em função da conformação e do aspecto das carcaças ou suas peças, em categoria «A», ou categoria «B». A categoria A subdividir-se-á em A 1 e A 2 segundo critérios a definir de acordo com o processo previsto no artigo 17.º do Regulamento (CEE) n.º 2777/75. Essa classificação terá em conta, nomeadamente, o desenvolvimento da carne e da gordura, bem como a importância de eventuais danos e contusões.\n\n2. A carne de aves de capoeira será comercializada em estado:\n\n— fresco,\n\n— congelado, ou\n\n— ultracongelado.\n\n3. A carne de aves de capoeira congelada ou ultracongelada pré-embalada pode ser classificada por categoria de peso, devendo as disposições para a sua aplicação ser adoptadas de acordo com o processo definido no artigo 17.º do Regulamento (CEE) nº 2777/75."
+  },
+  "4bbee3d9ccab9091": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPara além das disposições nacionais adoptadas de acordo com a Directiva 2000/13/CE, os documentos comerciais de acompanhamento, na acepção da alínea b) do n.º 1 do artigo 13.º da referida directiva, devem conter as indicações suplementares seguintes:\n\na) A categoria referida no n.º 1 do artigo 3.º do presente regulamento;\n\nb) O estado em que a carne de aves de capoeira é comercializada em conformidade com o n.º 2 do artigo 3.º do presente regulamento e a temperatura de armazenagem recomendada."
+  },
+  "2b5c9946d0e394b4": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Para além das disposições nacionais adoptadas de acordo com a [**►M4**](http://publications.europa.eu/resource/celex/32006R1029) Directiva 2000/13/CE**◄**, a rotulagem, apresentação e publicidade da carne de aves de capoeira destinada ao consumidor final devem estar em conformidade com as exigências suplementares referidas nos n.^os^ 3, 4, 5 e 6 do presente artigo e no n.º 2 do artigo 7.º\n\n2. No caso da carne fresca de aves de capoeira, a data de durabilidade mínima é substituída pela data-limite de consumo, em conformidade com o artigo 10.º da Directiva 2000/13/CE.\n\n3. No caso da carne de aves de capoeira pré-embalada, devem igualmente figurar na pré-embalagem ou numa etiqueta ligada a esta última os dados seguintes:\n\na) A categoria referida no n.º 1 do artigo 3.º do presente regulamento;\n\nb) No caso da carne fresca de aves de capoeira, o preço total e o preço por unidade de peso na venda a retalho;\n\nc) O estado em que a carne de aves de capoeira é comercializada, em conformidade com o n.º 2 do artigo 3.º do presente regulamento, e a temperatura de armazenagem recomendada;\n\nd) O número de aprovação do matadouro ou da instalação de corte, atribuído em conformidade com o artigo 4.º do Regulamento (CE) n.º 853/2004, salvo no caso de o corte e a desossagem serem efectuados no local de venda, tal como previsto na alínea d) do n.º 2 do artigo 4.º do mesmo regulamento;\n\ne) No caso da carne de aves de capoeira importada de países terceiros, a indicação do país de origem.\n\n4. No caso da carne de aves de capoeira vendida sem pré-embalagem, salvo se o corte e a desossagem forem efectuados no local de venda como previsto na alínea d) do n.º 2 do artigo 4.º do Regulamento (CE) n.º 853/2004, sendo essas operações efectuadas a pedido e em presença do consumidor, o artigo 14.º da Directiva 2000/13/CE é aplicável às indicações referidas no n.º 3.\n\n5. As regras de execução relativas à indicação da denominação de venda, na acepção do ponto 1 do n.º 1 do artigo 3.º da Directiva 2000/13/CE, podem ser fixadas pelo procedimento referido no artigo 17.º do Regulamento (CEE) n.º 2777/75.\n\n6. Serão fixadas, de acordo com o processo previsto no artigo 17.º do Regulamento (CEE) n.º 2777/75, as regras pormenorizadas respeitantes:\n\na) À indicação, a título facultativo, do método de refrigeração utilizado;\n\nb) À indicação, a título facultativo, do modo de criação utilizado e às condições de controlo regular a que é subordinada a utilização dessa indicação.\n\nDe acordo com o mesmo processo, serão fixadas as condições em que o controlo regular referido na alínea b) do primeiro parágrafo pode ser realizado por um organismo designado por um Estado-membro que ofereça as garantias de independência necessárias em relação aos produtores em causa."
+  },
+  "faa47461e2457f81": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nEm derrogação aos artigos 3.º, 4.º e 5.º, não será necessário classificar a carne de aves de capoeira, nem proceder às indicações suplementares previstas nos referidos artigos, nos casos de entregas a instalações de corte e de transformação."
+  },
+  "d169f5e3f8e5881d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. As percentagens de absorção de água estranha tecnicamente inevitável a não exceder durante a preparação das carcaças e pedaços de carcaças frescos, congelados ou ultracongelados e os respectivos métodos uniformes de controlo serão determinados nos termos do artigo 17.º do Regulamento (CEE) n.º 2777/75.\n\n2. De acordo com o mesmo processo, pode ser tornada obrigatória a indicação das percentagens de absorção de água tecnicamente inevitável referida no n.º 1."
+  },
+  "95dcdf2674e3acb9": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-membros designarão as autoridades competentes responsáveis pelo controlo da observância das disposições estabelecidas no presente regulamento, o mais tardar até um mês antes do início da sua aplicação.\n\n2. A designação referida no n.º 1 será comunicada à Comissão e aos outros Estados-membros, bem como qualquer alteração relativa a essa designação.\n\n3. As autoridades referidas no n.º 1 procederão a controlos sobre:\n\na) Amostras representativas da carne de aves de capoeira em todos os estádios de comercialização e durante o transporte;\n\nb) Uma amostra representativa da carne de aves de capoeira aquando do desalfandegamento da carne de aves de capoeira importada de países terceiros."
+  },
+  "5a259cded7f88e39": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSerão adoptadas de acordo com o processo previsto no artigo 17.º do Regulamento (CEE) n.º 2777/75 as regras de execução do presente regulamento, nomeadamente as relativas aos critérios de classificação na acepção do n.º 1 do artigo 3.º, bem como as medidas destinadas a garantir uma aplicação uniforme do presente regulamento."
+  },
+  "baa9cb8f6d04c534": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros tomarão todas as medidas adequadas para sancionar as infracções ao presente regulamento."
+  },
+  "1dee07a64da10d68": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-membros e a Comissão comunicar-se-ão mutuamente as informações necessárias à aplicação do presente regulamento."
+  },
+  "8061f5ec720d3097": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO Regulamento (CEE) n.º 2967/76 continua a ser aplicável até ao início da aplicação das medidas adoptadas nos termos do artigo 7.º do presente regulamento."
+  },
+  "917f25d77732095b": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Julho de 1991.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "30837dfb66d9acd8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#src.E0001)) JO n.º L 282 de 1. 11. 1975, p. 77.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#src.E0002)) JO n.º L 128 de 11. 5. 1989, p. 29.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#src.E0003)) JO n.º L 55 de 8. 3. 1971, p. 23.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#src.E0004)) JO n.º L 382 de 31. 12. 1988, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#src.E0005)) JO nº L 33 de 8. 2. 1979, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#src.E0006)) JO n.º L 186 de 13. 6. 1989, p. 17.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#src.E0007)) JO n.º L 339 de 8. 12. 1976, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#src.E0008)) JO n.º L 315 de 15. 11. 1983, p. 17.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#src.E0011)) JO L 139 de 30.4.2004, p. 55. Rectificação no JO L 226 de 25.6.2004, p. 22. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2076/2005 da Comissão (JO L 338 de 22.12.2005, p. 83).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#src.E0012)) JO L 109 de 6.5.2000, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 2003/89/CE (JO L 308 de 25.11.2003, p. 15)\n\n> ([^11^](http://publications.europa.eu/resource/cellar/40e685f3-6e60-4908-bfe9-aaa99f673bc1.0017.03/DOC_1#src.E0009)) JO n.º L 40 de 11. 2. 1989, p. 51."
+  },
+  "64b9d42e325c68ea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990R1906 — PT — 01.07.2008 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990R1906) [REGULAMENTO (CEE) N.º 1906/90 DO CONSELHO](http://publications.europa.eu/resource/celex/31990R1906) [de 26 de Junho de 1990](http://publications.europa.eu/resource/celex/31990R1906) [que estabelece normas de comercialização para a carne de aves de capoeira](http://publications.europa.eu/resource/celex/31990R1906) (JO L 173, 6.7.1990, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

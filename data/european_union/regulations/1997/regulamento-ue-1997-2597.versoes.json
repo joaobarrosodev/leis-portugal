@@ -1,0 +1,139 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R2597:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R2597-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "1997-12-23",
+   "future": false,
+   "celex": "31997R2597",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "36f48ba75eea5d61",
+    "d1137076c1e57270",
+    "d013853a61473f84",
+    "07382849e88962d6",
+    "72dc02ff61375965",
+    "e2653e6482513f4b",
+    "d4889ef083e18e84",
+    "04c86c448f575070",
+    "108172c638fa08e3",
+    "d8f1cc6e6bbf1ee1"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01997R2597-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º"
+   ],
+   "fragments": [
+    "8b888482fae2ad02"
+   ]
+  }
+ ],
+ "fragments": {
+  "36f48ba75eea5d61": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2597/97 do Conselho de 18 de Dezembro de 1997 que estabelece as regras complementares da organização comum de mercado no sector do leite e dos produtos lácteos no que diz respeito ao leite de consumo** *Jornal Oficial nº L 351 de 23/12/1997 p. 0013 - 0015*\n\nREGULAMENTO (CE) Nº 2597/97 DO CONSELHO de 18 de Dezembro de 1997 que estabelece as regras complementares da organização comum de mercado no sector do leite e dos produtos lácteos no que diz respeito ao leite de consumo\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 42º e 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o Regulamento (CEE) nº 1411/71 do Conselho, de 29 de Junho de 1971, que estabelece as regras complementares da organização comum de mercado no sector do leite e dos produtos lácteos no que diz respeito ao leite destinado ao consumo humano (4), tem por objectivo desenvolver o mais possível o mercado dos produtos do código NC 0401 através da garantia da qualidade e da adequação às necessidades e aos desejos dos consumidores; que o estabelecimento de normas de comercialização para os produtos lácteos em questão contribui para a estabilidade do mercado e, portanto, para um nível de vida equitativo da população agrícola; que, consequentemente, interessa tanto aos produtores de leite como aos consumidores manter a referida regulamentação;\n\nConsiderando que, tanto para beneficiar da experiência adquirida na matéria como, numa perspectiva de simplificação e de clarificação, para melhor garantir a segurança jurídica dos interessados, é conveniente proceder a determinadas adaptações do referido regulamento e reunir as disposições do mesmo num novo regulamento;\n\nConsiderando que, para responder aos desejos dos consumidores, que atribuem uma importância crescente aos aspectos nutricionais das proteínas do leite, é conveniente assegurar que o teor natural de proteínas do leite não seja de forma alguma reduzido e ainda autorizar o enriquecimento do leite de consumo com proteínas derivadas do leite, sais minerais ou vitaminas ou a redução do seu teor de lactose;\n\nConsiderando que o ponto 9 do artigo 5º da Directiva 92/46/CEE do Conselho, de 16 de Junho de 1992, que adopta as normas sanitárias relativas à produção de leite cru, de leite tratado termicamente e de produtos à base de leite e à sua colocação no mercado (5), estabelece determinadas exigências relativas à composição do leite de consumo; que, por uma questão de coerência, é conveniente incluir essas disposições na regulamentação relativa às normas de comercialização, procedendo, no entanto, a algumas adaptações, para ter em conta a experiência adquirida na matéria;\n\nConsiderando que são aplicáveis a Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios (6), e a Directiva 90/496/CEE do Conselho, de 24 de Setembro de 1990, relativa à rotulagem nutricional dos géneros alimentícios (7);\n\nConsiderando que, para assegurar a coerência do regime, é necessário sujeitar os produtos importados de países terceiros a exigências equivalentes;\n\nConsiderando que é necessário prever que os Estados-membros definam os controlos e as sanções apropriados para os casos de infracção ao presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d1137076c1e57270": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento estabelece normas para os produtos do código NC 0401 destinados ao consumo humano na Comunidade, sem prejuízo das exigências relativas à protecção da saúde pública.\n\n2. Na acepção do presente regulamento, entende-se por:\n\na) Leite: o produto proveniente da ordenha de uma ou mais vacas;\n\nb) Leite de consumo: os produtos indicados no artigo 3º que se destinem a ser fornecidos como tal ao consumidor;\n\nc) Teor de matéria gorda: a relação, em massa, das partes de matéria gorda do leite para 100 partes do leite em questão;\n\nd) Teor de matéria proteica: a relação, em massa, das partes proteicas do leite para 100 partes do leite em questão, obtida multiplicando por 6,38 o teor total do azoto do leite expresso em percentagem em massa."
+  },
+  "d013853a61473f84": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Só o leite que satisfaça as exigências estabelecidas para o leite de consumo pode ser fornecido ou cedido sem transformação ao consumidor final, seja directamente, seja por intermédio de restaurantes, hospitais, cantinas ou outras colectividades similares.\n\n2. As denominações de venda do leite de consumo são as indicadas no artigo 3º são reservadas aos produtos definidos nesse artigo, sem prejuízo da sua utilização em denominações compostas.\n\n3. Os Estados-membros adoptarão medidas tendentes a informar o consumidor da natureza ou da composição dos produtos sempre que a omissão dessa informação possa confundir o consumidor."
+  },
+  "07382849e88962d6": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. São considerados leite de consumo os seguintes produtos:\n\na) Leite cru: leite que não tenha sido aquecido a mais de 40 °C, nem tenha sofrido nenhum tratamento de efeito equivalente;\n\nb) Leite gordo: leite tratado termicamente que, no que se refere ao teor de matéria gorda, corresponda a uma das seguintes descrições:\n\n- leite gordo estandardizado: leite com um teor mínimo de matéria gorda de 3,50 % (m/m). Os Estados-membros podem, no entanto, prever uma categoria suplementar de leite inteiro cujo teor de matéria gorda seja igual ou superior a 4,00 % (m/m),\n\n- leite gordo não estandardizado: leite cujo teor de matéria gorda não tenha sido modificado desde a fase da ordenha, seja por adição ou eliminação de matéria gorda láctea, seja por mistura com leite cujo teor natural de matéria gorda tenha sido modificado. O teor de matéria gorda não pode, no entanto, ser inferior a 3,50 % (m/m);\n\nc) Leite meio-gordo: leite tratado termicamente cujo teor de matéria gorda tenha sido reduzido para um valor compreendido entre um mínimo de 1,50 % (m/m) e um máximo de 1,80 % (m/m);\n\nd) Leite magro: leite tratado termicamente cujo teor de matéria gorda tenha sido reduzido para um valor não superior a 0,50 % (m/m).\n\n2. Sem prejuízo do nº 1, alínea b), segundo travessão, só são autorizados:\n\na) A fim de respeitar os teores de matéria gorda prescritos para o leite de consumo, a modificação do teor natural de matéria gorda do leite por eliminação ou adjunção de nata ou por adição do leite gordo, meio-gordo ou magro;\n\nb) O enriquecimento do leite em proteínas derivadas do leite, sais minerais ou vitaminas;\n\nc) A redução do teor de lactose pela conversão desta em glicose e galactose.\n\nAs modificações da composição do leite previstas nas alíneas b) e c) só são admitidas se forem indicadas na embalagem do produto de modo claramente visível e legível e de maneira indelével. Contudo, esta indicação não exime de obrigatoriedade da rotulagem nutricional prevista pela Directiva 90/496/CEE. Em caso de enriquecimento proteico, o teor de proteínas do leite enriquecido deve ser igual ou superior a 3,8 % (m/m).\n\nContudo, o Estado-membro pode limitar ou proibir as modificações da composição do leite previstas nas alíneas b) e c)."
+  },
+  "72dc02ff61375965": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nO leite de consumo deve satisfazer as seguintes exigências:\n\na) Ter um ponto de congelação próximo do ponto de congelação médio determinado para o leite cru na zona de origem da recolha;\n\nb) Ter uma massa igual ou superior a 1 028 gramas por litro, no caso de leite com 3,5 % (m/m) de matéria gorda a 20 °C, ou o equivalente por litro, no caso de leite com um teor de matéria gorda diferente;\n\nc) Conter um mínimo de 2,9 % (m/m) de matéria proteica, no caso de leite com 3,5 % (m/m) de matéria gorda, ou uma concentração equivalente, no caso de leite com um teor de matéria gorda diferente;\n\nd) Ter um teor de resíduo seco isento de matéria gorda igual ou superior a 8,50 % (m/m) no caso de leite com 3,5 % (m/m) de matéria gorda, ou uma percentagem equivalente, no caso de leite com um teor de matéria gorda diferente;"
+  },
+  "e2653e6482513f4b": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs produtos importados na Comunidade e destinados a ser vendidos como leite de consumo devem obedecer ao disposto no presente regulamento."
+  },
+  "d4889ef083e18e84": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nÉ aplicável o disposto na Directiva 79/112/CEE, nomeadamente no que se refere às disposições nacionais relativas à rotulagem do leite de consumo."
+  },
+  "04c86c448f575070": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os Estados-membros tomarão todas as medidas adequadas para garantir o controlo da aplicação do presente regulamento, sancionar as infracções, prevenir e reprimir as fraudes.\n\nEssas medidas, e as suas eventuais alterações, serão comunicadas à Comissão no mês seguinte à sua adopção.\n\n2. A Comissão adoptará as regras de execução do presente regulamento segundo o procedimento referido no artigo 30º do Regulamento (CEE) nº 804/68 do Conselho, de 27 de Julho de 1968, que estabelece a organização comum de mercado no sector do leite e dos produtos lácteos (8)."
+  },
+  "108172c638fa08e3": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nÉ revogado o Regulamento (CEE) nº 1411/71.\n\nTodas as remissões para o Regulamento (CEE) nº 1411/71 devem entender-se como sendo feitas para o presente regulamento."
+  },
+  "d8f1cc6e6bbf1ee1": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1998. Contudo, o disposto no artigo 4º é aplicável a partir de 1 de Janeiro de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 18 de Dezembro de 1997.\n\nPelo Conselho\n\nO Presidente\n\nF. BODEN\n\n(1) JO C 267 de 3. 9. 1997, p. 93.\n\n(2) JO C 339 de 10. 11. 1997.\n\n(3) Parecer emitido em 29 de Outubro de 1997 (ainda não publicado no Jornal Oficial).\n\n(4) JO L 148 de 3. 7. 1971, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 2138/92 (JO L 214 de 30. 7. 1992, p. 6).\n\n(5) JO L 268 de 14. 9. 1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 96/23/CE (JO L 125 de 23. 5. 1996, p. 10).\n\n(6) JO L 33 de 8. 2. 1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 97/4/CE (JO L 43 de 14. 2. 1997, p. 21).\n\n(7) JO L 276 de 6. 10. 1990, p. 40.\n\n(8) JO L 148 de 28. 6. 1968, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1587/96 (JO L 206 de 16. 8. 1996, p. 21)."
+  },
+  "8b888482fae2ad02": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997R2597 — PT — 01.07.2008 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997R2597) [REGULAMENTO (CE) N.º 2597/97 DO CONSELHO](http://publications.europa.eu/resource/celex/31997R2597) [de 18 de Dezembro de 1997](http://publications.europa.eu/resource/celex/31997R2597) [que estabelece as regras complementares da organização comum de mercado no sector do leite e dos produtos lácteos no que diz respeito ao leite de consumo](http://publications.europa.eu/resource/celex/31997R2597) (JO L 351, 23.12.1997, p.13)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

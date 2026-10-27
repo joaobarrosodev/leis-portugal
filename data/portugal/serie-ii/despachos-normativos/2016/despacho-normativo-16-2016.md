@@ -1,0 +1,287 @@
+---
+schema_version: '1.0'
+id: pt:dre:105652694:por
+title: Despacho Normativo n.º 16/2016
+short_title: null
+summary: Abertura de Candidaturas à Linha de Apoio à Valorização Turística do Interior, que tem por objeto o apoio ao investimento
+  a iniciativas e a projetos com interesse para o turismo, que promovam a coesão económica e social do território
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Economia - Gabinete da Secretária de Estado do Turismo
+proposing_entity: null
+official_number: 16/2016
+official_date: null
+publication_date: '2016-12-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/2016, Série II de 2016-12-30
+  number: '250'
+  series: II
+  supplement: null
+  pages: 37753 - 37754
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/12/250000000/3775337754.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '105652694'
+  dre_path: /dr/detalhe/despacho-normativo/16-2016-105652694
+  internal: pt:dre:105652694:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2016-105652694
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2016-105652694
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ad7bdcbe2f06e82e694ce959558b47a3d0504fe95e520a4a488d42edd47beaad
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio ao Investimento
+- Aquisição de Bens e Serviços
+- Definição de Competências
+- Dotação Orçamental
+- Financiamento
+- Instituto de Turismo de Portugal
+- Programa Nacional para a Coesão Territorial
+- Programa Valorizar
+- Projeto
+- Regulamento
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:172942287:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:107981322:por
+  label: Alterado o art. 3.º do presente despacho, pelo(a) Despacho Normativo n.º 8/2017 - Diário da República n.º 153/2017,
+    Série II de 2017-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-2017-107981322
+  date: '2017-08-09'
+- type: amended_by
+  target: pt:dre:114152844:por
+  label: Alterado o art. 1.º pelo(a) Despacho Normativo n.º 19/2017 - Diário da República n.º 214/2017, Série II de 2017-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/19-2017-114152844
+  date: '2017-11-07'
+- type: amended_by
+  target: pt:dre:115590871:por
+  label: Alterados os arts. 1.º (com a redação dada pelo DN 19/2017 de 07-nov) e 5.º pelo(a) Despacho n.º 6254/2018 - Diário
+    da República n.º 122/2018, Série II de 2018-06-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/6254-2018-115590871
+  date: '2018-06-27'
+- type: cites
+  target: pt:dre:72991346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75619707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75796596:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:172942287:por
+  label: Revogados, a partir de 19.10.2021, a al. e) do n.º 1 e a al. c) do n.º 2 do art. 2.º, o n.º 2 do art. 4.º, o n.º
+    2 do art. 5.º e a al. f) do art. 9.º pelo(a) Despacho Normativo n.º 26/2021 - Diário da República n.º 202/2021, Série
+    II de 2021-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/26-2021-172942287
+  date: '2021-10-18'
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:08:10Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho normativo n.º 16/2016
+
+Linha de Apoio à Valorização Turística do Interior
+
+Abertura de Candidaturas
+
+O Programa Valorizar, criado pelo [Despacho Normativo n.º 9/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-2016-75619707), de 28 de outubro, tem por objetivo promover a contínua qualificação dos destinos através da regeneração, requalificação e reabilitação dos espaços públicos com interesse para o turismo e da valorização do património cultural e natural do país.
+
+Nos termos do artigo 2.º do referido Despacho, as linhas de financiamento específicas que concretizam o Programa Valorizar são aprovadas pelo membro do Governo com tutela sobre o turismo e objeto de aviso publicado no Diário da República e no portal institucional do Turismo de Portugal, I. P.
+
+Através da [Resolução do Conselho de Ministros n.º 72/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/72-2016-75796596), de 20 de outubro, publicada no Diário da República, 1.ª série, n.º 226, de 24 de novembro, o Governo aprovou o Programa Nacional para a Coesão Territorial (PNCT) que dá expressão à estratégia nacional para o desenvolvimento do interior e a coesão nacional e que contém diversas medidas a concretizar no âmbito do turismo.
+
+A presente linha específica de financiamento enquadra no Programa Valorizar o apoio a conceder no turismo a projetos e iniciativas que, através de atividades com relevância ou interesse para o turismo, concorram para o desenvolvimento do interior e para a coesão nacional.
+
+Assim, ao abrigo do disposto no artigo 2.º do [Despacho n.º 9/2016](https://diariodarepublica.pt/dr/detalhe/despacho/9-2016-72991346), de 28 de outubro, determino o seguinte:
+
+###### Artigo 1.º — Abertura
+
+1 - Pelo presente diploma, é criada a Linha de Apoio à Valorização Turística do Interior, que tem por objeto o apoio ao investimento a iniciativas e a projetos com interesse para o turismo, que promovam a coesão económica e social do território.
+
+2 - Na data da publicação do presente aviso inicia-se o período de apresentação de candidaturas, que são analisadas em contínuo, e que termina no dia 31 de dezembro de 2017.
+
+###### Artigo 2.º — Objeto
+
+1 - São suscetíveis de enquadramento na presente linha de apoio as seguintes iniciativas e projetos:
+
+a) Projetos de valorização ou incremento da oferta de Cycling & Walking, nomeadamente no contexto dos percursos cicláveis, pedonais e de fruição espiritual, que concorram para o posicionamento internacional de Portugal como destino competitivo para a prática destas atividades;
+
+b) Projetos de valorização do património e dos recursos endógenos das regiões ou de desenvolvimento de novos serviços turísticos com base nesse património e nesses produtos, nomeadamente no contexto do turismo cultural, termal, equestre, gastronómico, de natureza, militar e ferroviário, que contribuam para o reforço da atratividade de destinos de interior ou para a dinamização de cross-selling regional;
+
+c) Projetos de desenvolvimento de atividades económicas do turismo ou com relevância para o setor, assim como de valorização e de qualificação das aldeias portuguesas, tendo em vista a melhoria da sua atratividade e da experiência turística nestes espaços;
+
+d) Projetos que tenham em vista a estruturação de programas de visitação turística em destinos de interior;
+
+e) Desenvolvimento de calendários de eventos com potencial turístico e com impacto internacional realizados nos territórios do interior ou com impacto nesses territórios.
+
+2 - São condições específicas de enquadramento as seguintes:
+
+a) No caso dos projetos a que se refere a alínea a) do número anterior, devem os mesmos, na sua conceção e implementação, observar as orientações técnicas produzidas pelo Turismo de Portugal, I. P. e disponíveis em www.turismodeportugal.pt, assim como estarem integrados em redes de percursos supramunicipais, nacionais, internacionais ou transfronteiriços;
+
+b) No caso dos projetos da alínea c) do número anterior, os mesmos devem estar integrados em redes de oferta, nomeadamente Aldeias Históricas, Aldeias de Xisto ou Aldeias Vinhateiras, ou integrarem-se em dinâmicas de desenvolvimento integrado das próprias aldeias;
+
+c) No caso dos projetos previstos na alínea e) do número anterior, os calendários de eventos devem, no máximo, incluir 5 eventos por ano e privilegiar as épocas do ano de menor procura turística.
+
+3 - São ainda suscetíveis de enquadramento na presente linha de apoio financeiro outros projetos com interesse para o turismo que demonstrem contribuir de forma relevante para a coesão económica e social do território.
+
+4 - Por região ou destino do interior, entende-se os territórios identificados no Anexo III da [Resolução do Conselho de Ministros n.º 72/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/72-2016-75796596), de 20 de outubro.
+
+###### Artigo 3.º — Dotação
+
+A dotação disponível para financiamento de projetos ao abrigo do presente aviso é de (euro) 10.000.000,00.
+
+###### Artigo 4.º — Promotores
+
+1 - Sem prejuízo do disposto no número seguinte, podem apresentar candidaturas as seguintes entidades:
+
+a) Entidades públicas, incluindo aquelas em cuja gestão as entidades da administração central do Estado, regional e local tenham posição dominante;
+
+b) Empresas e outras entidades privadas.
+
+2 - As candidaturas que tenham por objeto o calendário de eventos a que se refere a alínea e) do n.º 1 do artigo 2.º do presente diploma apenas podem ser apresentadas pelas respetivas entidades regionais de turismo ou pelos órgãos regionais de turismo competentes nas regiões autónomas.
+
+###### Artigo 5.º — Intensidade, natureza e limite do apoio financeiro
+
+1 - Sem prejuízo do disposto no número seguinte, os apoios financeiros ascendem a 90 % do valor das despesas elegíveis dos projetos, com o limite máximo de (euro) 150.000,00 no caso das empresas, e de (euro) 400.000,00 no caso das demais entidades, incluindo as de natureza privada sem fins lucrativos.
+
+2 - No caso das candidaturas para o apoio aos eventos, a que se refere a alínea e) do n.º 1 do artigo 2.º do presente diploma, o apoio financeiro a conceder tem o limite máximo de 250 mil euros para o calendário anual.
+
+3 - Excecionalmente, por decisão do membro do Governo com tutela sobre o turismo e sem prejuízo do montante máximo da dotação disponível, os limites a que se referem os números anteriores podem ser excedidos em razão da especial relevância dos projetos.
+
+4 - Os apoios financeiros revestem natureza não reembolsável no caso das entidades públicas e das entidades privadas sem fins lucrativos, e natureza reembolsável no caso das demais entidades.
+
+5 - No caso dos projetos que beneficiam do apoio financeiro na modalidade reembolsável, 50 % do financiamento é convertido em não reembolsável, no segundo ano completo após a conclusão do projeto, cumpridas que sejam, cumulativamente, as seguintes condições:
+
+a) Atingirem, pelo menos, 90 % do volume de negócios e do VAB previsto na candidatura para esse momento, sendo que cada um concorre em 50 % para esse objetivo;
+
+b) Criarem os postos de trabalho previstos na candidatura.
+
+6 - Os projetos de investimento suscetíveis de enquadramento no presente diploma, promovidos por empresas e entidades privadas, e que venham a ser objeto de enquadramento na Linha de Apoio à Qualificação da Oferta 2016, beneficiam, no contexto desta última Linha de Apoio, do prémio de desempenho a que se refere o número anterior, cumpridas que sejam as metas aí definidas, condicionado, contudo, aos limites máximos de auxílio definidos na referida linha de crédito.
+
+###### Artigo 6.º — Condições do incentivo reembolsável
+
+1 - O reembolso do incentivo de natureza reembolsável a que se refere o n.º 4 do artigo anterior ocorre no prazo de 7 anos, incluindo 2 de carência.
+
+2 - Não é aplicável qualquer taxa de juro remuneratória ao reembolso do incentivo. 3 - O incentivo a conceder às empresas é atribuído nos termos e nos limites do regime de minimis.
+
+###### Artigo 7.º — Condições de elegibilidade dos promotores
+
+São condições de elegibilidade dos promotores:
+
+a) Não serem devedores ao Estado, por impostos e pagamentos dos regimes de segurança social, nem ao Turismo de Portugal, I. P.;
+
+b) Possuírem ou assegurarem os recursos humanos e físicos necessários ao desenvolvimento dos projetos;
+
+c) Disporem de contabilidade organizada nos termos da legislação aplicável;
+
+d) Não terem sido objeto de aplicação, nos dois anos anteriores à data da candidatura, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal;
+
+e) Comprometerem-se a prestar ao Turismo de Portugal, I. P., a informação necessária, e em formato adequado, sobre o projeto, que permita àquele Instituto proceder, obrigatoriamente, à divulgação do mesmo nos respetivos portais e canais de promoção da oferta turística nacional;
+
+f) Não terem sido condenados nos dois anos anteriores à data da candidatura, por sentença transitada em julgado, por despedimento ilegal de grávidas, puérperas ou lactantes.
+
+###### Artigo 8.º — Condições de elegibilidade dos projetos
+
+1 - São condições gerais de elegibilidade dos projetos:
+
+a) Traduzirem-se num plano estruturado e fundamentado de intervenções a realizar, de acordo com os objetivos da presente Linha de Apoio;
+
+b) Demonstrarem ser ambiental, financeira e economicamente sustentáveis;
+
+c) Integrarem as componentes que promovam a acessibilidade para todos, em particular para quem revele necessidades especiais, temporárias ou permanentes;
+
+d) Não se iniciarem antes da data da candidatura, com exceção dos adiantamentos para sinalização, até ao máximo de 50 % do respetivo custo, e as despesas relativas aos estudos e projetos, realizados há menos de seis meses;
+
+e) Quando aplicável, encontrar-se em curso o processo de licenciamento ou autorização, pelas entidades competentes, das intervenções a realizar.
+
+2 - No caso referido na alínea e) do número anterior, o licenciamento ou autorização quanto à intervenção a realizar deve ser comprovada até à libertação da primeira parcela do apoio financeiro.
+
+###### Artigo 9.º — Despesas elegíveis
+
+São elegíveis as despesas a realizar com:
+
+a) Estudos, projetos e assistência técnica necessária para a preparação da candidatura e para a execução dos projetos, bem como a fiscalização externa da execução dos investimentos, até ao limite de 10 % do valor total das despesas elegíveis;
+
+b) Obras de construção, adaptação, aquisição de bens e de equipamentos diretamente relacionados com o projeto;
+
+c) Suportes informativos físicos e/ou digitais multi-idioma, incluindo desenvolvimento de conteúdos, website, sinalética e ferramentas de apoio à experiência turística de base tecnológica;
+
+d) Ações de promoção nacional e internacional diretamente relacionadas com o projeto;
+
+e) Ferramentas de monitorização da procura, pós implementação do projeto;
+
+f) Organização dos calendários de eventos;
+
+g) Intervenção de revisores ou técnicos oficiais de contas externos, no contexto do desenvolvimento do projeto.
+
+###### Artigo 10.º — Avaliação
+
+1 - Na avaliação das candidaturas, o Turismo de Portugal, I. P., pondera os seguintes fatores:
+
+a) A coerência e qualidade do projeto apresentado, face aos objetivos da Linha de Apoio;
+
+b) O grau de inovação da proposta apresentada na candidatura;
+
+c) O contributo do projeto para a valorização do interior ou para o reforço da coesão territorial, aferido pela criação de valor, criação de emprego, efeito de arrastamento ou impacto na fixação das populações no interior.
+
+2 - A cada um dos fatores é atribuída uma pontuação de 5, 3 ou 1, consoante o grau de preenchimento evidenciado pela candidatura.
+
+3 - São elegíveis as candidaturas que não tenham classificação de 1 em qualquer um dos critérios e que tenham uma pontuação global mínima de 9 pontos.
+
+23 de dezembro de 2016. - A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+210124184

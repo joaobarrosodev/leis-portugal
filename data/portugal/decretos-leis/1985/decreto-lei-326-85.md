@@ -1,0 +1,289 @@
+---
+schema_version: '1.0'
+id: pt:dre:180605:por
+title: Decreto-Lei n.º 326/85
+short_title: null
+summary: Estabelece o regime a que ficam sujeitas as transacções e transferências respeitantes às operações de importação
+  e exportação de capitais efectuadas entre pessoas residentes em território nacional e em outros Estados membros da Comunidade
+  Económica Europeia
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 326/85
+official_date: null
+publication_date: '1985-08-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 180/1985, Série I de 1985-08-07
+  number: '180'
+  series: I
+  supplement: null
+  pages: 2400 - 2402
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/08/18000/24002402.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '180605'
+  dre_path: /dr/detalhe/decreto-lei/326-1985-180605
+  internal: pt:dre:180605:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1985-180605
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1985-180605
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:06:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1ca49ea830c8e28c5ced402a349a199d9172b323892da5c5a0580cb6c6cf5264
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:07Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comunidade Europeia
+- Exportação de Capitais
+- Importação de Capitais
+- Mercado Cambial
+relationships:
+- type: amended_by
+  target: pt:dre:640952:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:250668:por
+  label: "Alterado o nº2 do art. 4º e o art. 13º pelo DEC LEI.504-J/85.1985.12.30.MF DR.IS [300]5ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/504-j-1985-250668
+  date: '1985-12-30'
+- type: cites
+  target: pt:dre:151878:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:388266:por
+  label: Rectificado pela DECL.DD4988.07.08.1985.PCM, DR.IS [180]Supl de 07.08.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-388266
+  date: '1985-08-07'
+- type: corrected_by
+  target: pt:dre:168181:por
+  label: Rectificado pela DECL.DD4541.17.12.1985.PCM, DR.IS [26-1ºsupl] de 31.01.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-168181
+  date: '1985-12-17'
+- type: repealed_by
+  target: pt:dre:640952:por
+  label: "Revogado pelo DEC LEI.176/91.1991.05.14.MF DR.IS-A [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1991-640952
+  date: '1991-05-14'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:06:07Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 326/85
+
+de 7 de Agosto
+
+A adesão de Portugal à Comunidade Económica Europeia implica, nomeadamente, a necessidade de liberalizar os movimentos de capitais privados entre o nosso país e os outros Estados membros, tendo em conta, por um lado, o grau de liberdade já atingido neste domínio a nível comunitário e, por outro, as derrogações temporárias e as medidas transitórias consagradas no acto de adesão.
+
+A isso se destina o presente diploma, que, constituindo, pelo seu âmbito restrito de aplicação, lei especial relativamente às normas gerais reguladoras da circulação de capitais entre Portugal e o estrangeiro, deixa estas últimas aplicáveis por inteiro às relações com terceiros Estados e, na medida em que não forem incompatíveis com o regime especial ou em que tratem de matérias por este não cobertas, às próprias relações intercomunitárias.
+
+Assim:
+
+No uso da autorização conferida pela [Lei n.º 9/85](https://diariodarepublica.pt/dr/detalhe/lei/9-1985-151878), de 5 de Junho:
+
+O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Sem prejuízo do disposto nos artigos 2.º e 3.º, ficam sujeitas ao regime do presente decreto-lei as transacções e transferências respeitantes às operações de importação e de exportação de capitais, constantes dos anexos I e II, quando efectuadas entre pessoas singulares ou colectivas residentes em território nacional e em outros Estados membros da Comunidade Económica Europeia.
+
+Art. 2.º A realização de operações de importação e de exportação de capitais pelo Estado e seus serviços e fundos não personalizados e sem autonomia administrativa e financeira continua a reger-se por legislação especial.
+
+Art. 3.º A realização de operações de importação e de exportação de capitais pelo Banco de Portugal rege-se pelo estabelecido na sua Lei Orgânica e respectivos diplomas complementares.
+
+Art. 4.º - 1 - Sem prejuízo do disposto no número seguinte, a autorização das transacções e transferências respeitantes a operações constantes do anexo I ao presente diploma fica apenas dependente da prévia verificação, pelo Banco de Portugal, da respectiva natureza e realidade, podendo também ser exigida a posterior comprovação dos pagamentos realizados.
+
+2 - O regime estabelecido no número anterior só é aplicável à utilização, por residentes em território nacional, do produto da liquidação de haveres situados na Comunidade, quando tal utilização seja feita em operações constantes do anexo I.
+
+3 - O Banco de Portugal pode, nas condições que estabelecer, delegar em instituições de crédito autorizadas a exercer o comércio de câmbios em território nacional a competência referida no n.º 1.
+
+Art. 5.º As transacções e transferências respeitantes às operações constantes do anexo II ao presente diploma ficam sujeitas ao disposto nos artigos seguintes.
+
+Art. 6.º - 1 - Os investimentos directos efectuados em território nacional por titulares do direito de estabelecimento e no exercício deste direito são livres, desde que o seu valor global não ultrapasse os seguintes montantes:
+
+No decurso de 1986 - 1,5 milhões de ECU;
+
+No decurso de 1987 - 1,8 milhões de ECU;
+
+No decurso de 1988 - 2,1 milhões de ECU;
+
+No decurso de 1989 - 2,4 milhões de ECU.
+
+2 - A partir de 1 de Janeiro de 1990 os investimentos referidos neste artigo ficarão liberalizados, independentemente do valor.
+
+3 - Os investimentos não liberalizados nos termos dos números anteriores serão objecto de autorização especial e prévia, a conceder discricionariamente, não podendo porém os investidores ser discriminados entre si nem receber um tratamento menos favorável do que o concedido aos nacionais de países não membros da Comunidade.
+
+4 - Quando os investimentos directos revistam a forma de empréstimos a longo prazo com vista à criação ou manutenção de vínculos económicos duradouros, mantém-se no Banco de Portugal a competência para os autorizar. Nos restantes casos, a competência cabe ao Instituto de Investimento Estrangeiro.
+
+5 - A entidade competente deverá pronunciar-se no prazo máximo de 2 meses a contar da recepção do pedido ou, se este não estiver devidamente instruído, a contar da apresentação dos elementos de informação complementares, sob pena de o investimento se considerar tacitamente autorizado.
+
+6 - O disposto neste artigo é inaplicável aos investimentos directos efectuados em instituições de crédito, os quais ficam sujeitos às normas reguladoras da constituição de instituições de crédito e abertura das respectivas sucursais.
+
+Art. 7.º - 1 - Até 31 de Dezembro de 1992 os investimentos directos a efectuar na Comunidade por residentes em território nacional continuam sujeitos ao regime de autorização especial e prévia, a conceder discricionariamente.
+
+2 - Após a data mencionada no número anterior ficarão liberalizados os investimentos directos a efectuar na Comunidade por residentes em território nacional.
+
+Art. 8.º - 1 - Até 31 de Dezembro de 1990 a aquisição, por residentes na Comunidade, de bens e imóveis situados em território nacional e as respectivas transferências continuam sujeitas ao regime de autorização especial e prévia, a conceder discricionariamente, desde que se trate de:
+
+a) Imóveis construídos e destinados a habitação;
+
+b) Terrenos afectos a exploração agrícola;
+
+c) Terrenos classificados como agrícolas, nos termos da lei portuguesa vigente à data da entrada em vigor do presente diploma.
+
+2 - O regime previsto no número anterior não se aplica:
+
+a) Aos residentes na Comunidade que emigrem para Portugal no âmbito da livre circulação dos trabalhadores assalariados;
+
+b) Aos investimentos imobiliários ligados ao exercício do direito de estabelecimento, em Portugal, por trabalhadores não assalariados residentes na Comunidade.
+
+3 - Aos casos exceptuados no número anterior aplica-se o regime previsto no n.º 1 do artigo 4.º
+
+4 - Após a data mencionada no n.º 1 ficarão liberalizados os investimentos nele referidos.
+
+Art. 9.º - 1 - Até 31 de Dezembro de 1990 o repatriamento do produto da liquidação dos investimentos imobiliários efectuados em território nacional por residentes na Comunidade fica sujeito ao regime seguinte, desde que as operações de importação de capitais relativas aos investimentos tenham sido legalmente efectuadas:
+
+a) São livres as transferências cujo valor não ultrapasse, respectivamente:
+
+A partir de 1 de Janeiro de 1986, o montante de 100000 ECU;
+
+A partir de 1 de Janeiro de 1987, o montante de 120000 ECU;
+
+A partir de 1 de Janeiro de 1988, o montante de 140000 ECU;
+
+A partir de 1 de Janeiro de 1989, o montante de 160000 ECU;
+
+A partir de 1 de Janeiro de 1990, o montante de 180000 ECU;
+
+b) Se o produto da liquidação exceder o limite definido na alínea a), a parte excedente será transferível em 5 parcelas anuais e iguais, a primeira quando da apresentação do pedido de transferência do produto da liquidação e as restantes nos 4 anos seguintes.
+
+2 - A partir de 1 de Janeiro de 1991 ficará liberalizado o repatriamento do produto da liquidação dos investimentos imobiliários efectuados em território nacional por residentes na Comunidade, desde que as operações de capitais relativas aos investimentos tenham sido legalmente efectuadas.
+
+Art. 10 - 1 - Até 31 de Dezembro de 1992 a aquisição de bens imóveis situados na Comunidade por residentes em território nacional e as respectivas transferências continuam sujeitas ao regime de autorização especial e prévia, a conceder discricionariamente.
+
+2 - O regime previsto no número anterior não se aplica se a aquisição for efectuada por:
+
+a) Residentes em território nacional que emigrem para a Comunidade no âmbito da livre circulação dos trabalhadores assalariados;
+
+b) Trabalhadores não assalariados residentes em território nacional e que emigrem para a Comunidade, desde que o investimento imobiliário em causa esteja ligado ao exercício do seu direito de estabelecimento.
+
+3 - Aos casos exceptuados no número anterior aplica-se o regime previsto no n.º 1 do artigo 4.º
+
+4 - Após a data referida no n.º 1 ficará liberalizada a aquisição de bens imóveis situados na Comunidade por residentes em território nacional, bem como as respectivas transferências.
+
+Art. 11.º - 1 - Será aplicável o regime constante dos números seguintes às transacções e transferências respeitantes a:
+
+a) Doações e dotações efectuadas por residentes em território nacional a favor de residentes na Comunidade;
+
+b) Dotes constituídos por residentes em território nacional a favor de residentes na Comunidade;
+
+c) Heranças e legados a favor de residentes na Comunidade;
+
+d) Regularização de dívidas por imigrantes, no seu país de origem;
+
+e) Transferências de capitais pertencentes a residentes nacionais ou estrangeiros que emigram;
+
+f) Transferências, durante o período de estada, das economias dos trabalhadores imigrantes.
+
+2 - A partir de 1 de Janeiro de 1986 são livres as transacções e transferências cujo montante não ultrapasse 25000 ECU, para as operações referidas nas alíneas b), c) e e) do número anterior, ou 10000 ECU, para as operações referidas nas alíneas a), d) e f) do mesmo número.
+
+Cada um destes limites é aumentado, respectivamente:
+
+Em 1 de Janeiro de 1987, para 30000 e 12000 ECU;
+
+Em 1 de Janeiro de 1988, para 35000 e 14000 ECU;
+
+Em 1 de Janeiro de 1989, para 40000 e 16000 ECU;
+
+Em 1 de Janeiro de 1990, para 45000 e 18000 ECU.
+
+3 - A partir de 1 de Janeiro de 1991 ficarão liberalizadas as transferências relativas às operações mencionadas no n.º 1.
+
+Art. 12.º - 1 - Até 31 de Dezembro de 1990:
+
+a) A aquisição, por residentes em território nacional, de títulos cotados em bolsa e emitidos por entidades com sede na Comunidade continua sujeita ao regime de autorização especial e prévia, a conceder discricionariamente;
+
+b) Tratando-se de títulos emitidos pelas Comunidades Europeias e pelo Banco Europeu de Investimento, é livre a respectiva subscrição por residentes em território nacional até aos seguintes montantes globais anuais:
+
+Em 1986 - 15 milhões de ECU;
+
+Em 1987 - 18 milhões de ECU;
+
+Em 1988 - 21 milhões de ECU;
+
+Em 1989 - 24 milhões de ECU;
+
+Em 1990 - 27 milhões de ECU.
+
+2 - A partir de 1 de Janeiro de 1991 ficará liberalizada a aquisição, por residentes em território nacional, dos títulos abrangidos pelo número anterior, mantendo-se porém o regime de autorização especial e prévia para a aquisição de obrigações emitidas num mercado da Comunidade e expressas em escudos e de certificados de participação em fundos de investimento.
+
+Art. 13.º Às transacções e transferências respeitantes às operações liberalizadas nos termos dos artigos 6.º a 12.º aplica-se o regime previsto no n.º 1 do artigo 4.º
+
+Art. 14.º - 1 - Para efeitos da verificação da natureza e realidade das operações, poderão ser exigidos os elementos de informação e de prova necessários à completa identificação dos intervenientes, da natureza e valor das operações e dos direitos e obrigações delas decorrentes, podendo ainda a entidade competente solicitar de quaisquer entidades públicas ou privadas os esclarecimentos, informações e provas complementares de que carecer.
+
+2 - Poderão ser também exigidos aos interessados elementos comprovativos da efectiva e atempada realização das operações.
+
+Art. 15.º - 1 - Compete ao Banco de Portugal comunicar às instituições de crédito autorizadas a exercer o comércio de câmbios em território nacional as instruções técnicas que entender necessárias à execução do disposto no presente diploma.
+
+2 - As referidas instruções tornam-se executórias a partir da data nelas fixada ou, na falta desta, no dia seguinte ao da sua recepção.
+
+Art. 16.º As infracções ao disposto no presente diploma, suas normas regulamentares e instruções técnicas, bem como o incumprimento do que for exigido ao abrigo do disposto no n.º 2 do artigo 14.º, são puníveis nos termos da legislação reguladora das infracções nos domínios monetário, cambial e financeiro.
+
+Art. 17.º Os anexos I e II e as respectivas notas explicativas fazem parte integrante do presente diploma.
+
+Art. 18.º O presente diploma entra em vigor em 1 de Janeiro de 1986.
+
+Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
+
+Promulgado em 22 de Julho de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 23 de Julho de 1985.
+
+O Primeiro-Ministro, Mário Soares.

@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:673976:por
+title: Portaria n.º 344/72
+short_title: null
+summary: Introduz alterações nos quadros n.os 1 e 2 anexos à Portaria n.º 13330 (ausência para o estrangeiro de indivíduos
+  sujeitos a obrigações da lei de recrutamento e serviço militar)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Exército - Repartição do Gabinete do Ministro
+proposing_entity: null
+official_number: 344/72
+official_date: null
+publication_date: '1972-06-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 142/1972, Série I de 1972-06-20
+  number: '142'
+  series: I
+  supplement: null
+  pages: 798 - 798
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/06/14200/07980798.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '673976'
+  dre_path: /dr/detalhe/portaria/344-1972-673976
+  internal: pt:dre:673976:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/344-1972-673976
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/344-1972-673976
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:47:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 46e8fd00d0288a752a211a5f1e3f2200ddc820855e8203549289a7b0b2d10828
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:141220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487946:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:47:11Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 344/72
+
+de 20 de Junho
+
+Considerando que com a publicação do [Decreto-Lei n.º 361/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1970-141220), de 1 de Agosto, foram criadas as situações de reserva e de licença ilimitada para sargentos, a qual não existia ao tempo da publicação da [Portaria n.º 13330](https://diariodarepublica.pt/dr/detalhe/portaria/13330-1950-487946), de 17 de Outubro de 1950;
+
+Considerando que se torna necessário estabelecer o regime das licenças de ausência para o estrangeiro dos sargentos que se encontram nestas situações:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Exército, o seguinte:
+
+Artigo único - 1. O texto constante da coluna (2), linha B), do quadro n.º 1 anexo à [Portaria n.º 13330](https://diariodarepublica.pt/dr/detalhe/portaria/13330-1950-487946) passa a ter a seguinte redacção:
+
+Outros militares na efectividade do serviço.
+
+Sargentos do quadro permanente, nas situações de reserva, reforma e licença ilimitada.
+
+Praças reformadas.
+
+2. O texto constante da coluna (2), linha A), do quadro n.º 2, no segundo caso citado, anexo à [Portaria n.º 13330](https://diariodarepublica.pt/dr/detalhe/portaria/13330-1950-487946) passa a ter a seguinte redacção:
+
+Outros militares na efectividade do serviço.
+
+Sargentos do quadro permanente, nas situações de reserva, reforma e licença ilimitada.
+
+Praças reformadas.
+
+Pelo Ministro do Exército, José Alberty Correia, Secretário de Estado do Exército.

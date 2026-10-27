@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: eu:celex:31997R1624:por
+title: Regulamento (CE) nº 1624/97 da Comissão de 13 de Agosto de 1997
+short_title: null
+summary: Regulamento (CE) nº 1624/97 da Comissão de 13 de Agosto de 1997 que altera o anexo I do Regulamento (CEE) nº 2658/87
+  do Conselho relativo à nomenclatura pautal e estatística e à pauta aduaneira comum
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1997/1624
+official_date: null
+publication_date: '1997-08-14'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 224 de 14.8.1997
+  number: '224'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/dded3658-ae06-41cc-a66d-978302e4e01b.0011.02/DOC_1
+entry_into_force_dates:
+- '1997-09-03'
+end_of_validity_date: '1997-12-31'
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31997R1624
+  eli: http://data.europa.eu/eli/reg/1997/1624/oj
+  oj: oj:JOL_1997_224_R_0016_005
+  dre: null
+  dre_path: null
+  internal: eu:celex:31997R1624:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31997R1624
+  metadata_url: http://publications.europa.eu/resource/cellar/dded3658-ae06-41cc-a66d-978302e4e01b.0011
+  content_url: http://publications.europa.eu/resource/cellar/dded3658-ae06-41cc-a66d-978302e4e01b.0011.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T11:53:44Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-07T12:33:30.197+02:00'
+integrity:
+  source_sha256: c6232d1550ce0a4c972bcb932320b7b4eb773edb23f531ea9af08b7c80225816
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T11:53:44Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Pauta Aduaneira Comum
+- marroquinaria e luvaria
+- nomenclatura pautal
+relationships:
+- type: amends
+  target: celex:31987R2658
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c5a368fa-fd18-4efb-ae18-e4ac4e83055c
+  date: '1987-09-07'
+- type: based_on
+  target: celex:31987R2658
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c5a368fa-fd18-4efb-ae18-e4ac4e83055c
+  date: '1987-09-07'
+- type: repealed_by
+  target: celex:31997R2086
+  label: null
+  source: http://publications.europa.eu/resource/cellar/70e677ba-e26e-48c9-ab99-141e90cbf14b
+  date: '1997-11-19'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T11:53:44Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CE) nº 1624/97 da Comissão de 13 de Agosto de 1997
+
+**Regulamento (CE) nº 1624/97 da Comissão de 13 de Agosto de 1997 que altera o anexo I do Regulamento (CEE) nº 2658/87 do Conselho relativo à nomenclatura pautal e estatística e à pauta aduaneira comum** *Jornal Oficial nº L 224 de 14/08/1997 p. 0016 - 0016*
+
+REGULAMENTO (CE) Nº 1624/97 DA COMISSÃO de 13 de Agosto de 1997 que altera o anexo I do Regulamento (CEE) nº 2658/87 do Conselho relativo à nomenclatura pautal e estatística e à pauta aduaneira comum
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CEE) nº 2658/87 do Conselho, de 23 de Julho de 1987, relativo à nomenclatura pautal e estatística e à pauta aduaneira comum (1), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1195/97 da Comissão (2), e, nomeadamente, os seus artigos 9º e 12º,
+
+Considerando que pode revelar-se difícil classificar nas subposições do código 4202 maletas e artefactos semelhantes fabricados com um material composto (por exemplo, um material exterior de tecido cuja superfície exterior é revestida de um só lado por plástico micro-celular); considerando que, para efeitos de uma aplicação uniforme da Nomenclatura Combinada, é necessário estabelecer uma distinção entre as subposições em questão;
+
+Considerando que, para o efeito, é necessário incluir uma nota complementar no capítulo 42 da Nomenclatura Combinada; considerando que o anexo I do Regulamento (CEE) nº 2658/87, com a última redacção que lhe foi dada, deve ser alterado nesse sentido;
+
+Considerando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Código Aduaneiro,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1º
+
+No capítulo 42 da Nomenclatura Combinada no anexo I do Regulamento (CEE) nº 2658/87, que figura no Regulamento (CE) nº 1624/97 é inserida a seguinte nota complementar:
+
+«1. Entende-se por "superfície exterior", na acepção da subposição 4202, a matéria visível a olho nu da superfície externa do artefacto, mesmo que a matéria seja a camada exterior de uma combinação de matérias que constitui o material exterior do produto.».
+
+###### Artigo 2º
+
+O presente regulamento entra em vigor no vigésimo primeiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito em Bruxelas, em 13 de Agosto de 1997.
+
+Pela Comissão
+
+Emma BONINO
+
+Membro da Comissão
+
+(1) JO nº L 256 de 7. 9. 1987, p. 1.
+
+(2) JO nº L 170 de 28. 6. 1997, p. 11.

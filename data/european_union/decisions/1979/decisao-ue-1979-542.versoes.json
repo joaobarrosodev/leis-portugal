@@ -1,0 +1,99 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31979D0542:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979D0542-20100409",
+ "dre_path": null,
+ "source_lastmod": "2010-04-09",
+ "versions": [
+  {
+   "date": "1979-06-14",
+   "future": false,
+   "celex": "31979D0542",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ab91d6e86b9c9641",
+    "0946b4bbad6df38e",
+    "e411c15fa0548c4d",
+    "05b1971b2960aa42",
+    "6e03728b0186c22e",
+    "9cc0444b925ea45f"
+   ]
+  },
+  {
+   "date": "2010-04-09",
+   "future": false,
+   "celex": "01979D0542-20100409",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "ead2892e4e61e094"
+   ]
+  }
+ ],
+ "fragments": {
+  "ab91d6e86b9c9641": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**79/542/CEE: Decisão do Conselho, de 21 de Dezembro de 1976, que estabelece uma lista de países terceiros de onde os Estados-membros autorizam a importação de animais das espécies bovina e suína e de carne fresca** *Jornal Oficial nº L 146 de 14/06/1979 p. 0015 - 0017 Edição especial finlandesa: Capítulo 3 Fascículo 11 p. 0015 Edição especial grega: Capítulo 03 Fascículo 25 p. 0135 Edição especial sueca: Capítulo 3 Fascículo 11 p. 0015 Edição especial espanhola: Capítulo 03 Fascículo 16 p. 0136 Edição especial portuguesa: Capítulo 03 Fascículo 16 p. 0136*\n\nDECISÃO DO CONSELHO de 21 de Dezembro de 1976 que estabelece uma lista de países terceiros de onde os Estados-membros autorizam a importação de animais das espécies bovina e suína e de carne fresca\n\n(79/542/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 72/462/CEE do Conselho, de 12 de Dezembro de 1972, relativa a problemas sanitários e de polícia sanitária aquando da importação de animais das espécies bovina e suína e de carne fresca proveniente de países terceiros (1), com a última redacção que lhe foi dada pela Directiva 77/98/CEE (2) e, nomeadamente, o no 1 do seu artigo 3o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o sistema previsto na Directiva 72/462/CEE assenta no estabelecimento de uma lista de países terceiros de onde os Estados-membros autorizam a importação de animais das espécies bovina e suína e de carne fresca proveniente de animais das espécies bovina, suína, ovina e caprina, bem como de solípedes domésticos, ou de uma ou de várias destas categorias de animais e de carne fresca;\n\nConsiderando que, para decidir, tanto no que se refere aos animais como à carne fresca, se um país ou uma parte de um país pode constar da lista, são tidos em conta, nomeadamente, os critérios previstos no no 2 do artigo 3o da citada directiva;\n\nConsiderando que os países mencionados na lista que consta do anexo à presente decisão, e que são fornecedores tradicionais dos Estados-membros, podem ser considerados como satisfazendo estes critérios;\n\nConsiderando, contudo, que esta lista é estabelecida sob reserva das alterações ou aditamentos que lhe deverão ser introduzidos de acordo com o procedimento previsto no artigo 30o da Directiva 72/462/CEE; que poderá, nomeadamente, tomar-se necessário, especialmente com base em informações complementares, limitar ou alargar a autorização de importação de determinadas categorias de animais ou de carne fresca; que poderá, além disso, tornar-se necessário, em alguns casos, indicar tanto no que se refere aos animais como à carne fresca, as partes do país de onde as importações serão autorizadas;\n\nConsiderando que, se a lista dos países terceiros constitui um dos fundamentos do regime comunitário aplicável às importações provenientes dos países terceiros, previsto pela Directiva 72/462/CEE, deverão ser tomadas outras medidas, nomeadamente em matéria de higiene e de polícia sanitária, com vista a definir este regime; que convém, por conseguinte, permitir a aplicação coordenada do conjunto destas medidas,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "0946b4bbad6df38e": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nSem prejuízo da Directiva 72/462/CEE e, nomeadamente, das medidas que deverão ser tomadas de acordo com o procedimento previsto no artigo 29o, bem como sem prejuízo das alterações ou aditamentos que possam ser introduzidos, de acordo com o procedimento previsto no artigo 30o, à lista que consta do anexo à presente directiva, tendo especialmente em vista limitar ou alargar a autorização de importação a determinadas categorias de animais e de carne fresca, ou ainda com vista a indicar, tanto no que se refere aos animais como à carne fresca, as partes de países de onde serão autorizadas as importações, os Estados-membros autorizarão a importação de animais e de carne fresca em conformidade com as indicações da referida lista."
+  },
+  "e411c15fa0548c4d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nA lista que consta do Anexo será publicada no Jornal Oficial das Comunidades Europeias ao mesmo tempo que as alterações ou aditamentos referidos no artigo 1o."
+  },
+  "05b1971b2960aa42": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros adoptarão as disposições legislativas regulamentares e administrativas para darem cumprimento à presente decisão num prazo de dois anos a contar da publicação prevista no artigo 2o e informarão imediatamente a Comissão."
+  },
+  "6e03728b0186c22e": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros são destinatários da presente decisão.\n\nFeito em Bruxelas em 21 de Dezembro de 1976.\n\nPelo Conselho\n\nO Presidente\n\nA. P. L. M. M. van der STEE\n\n(1) JO no L 302 de 31. 12. 1972, p. 28.(2) JO no L 26 de 31. 1. 1977, p. 81."
+  },
+  "9cc0444b925ea45f": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n\"\" ID=\"1\">Albânia> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X\"> ID=\"1\">África do sul> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X\"> ID=\"1\">Argentina> ID=\"2\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Austrália> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Áustria> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Botsuana> ID=\"2\">X> ID=\"4\">X> ID=\"5\">X\"> ID=\"1\">Brasil> ID=\"2\">X> ID=\"4\">X> ID=\"5\">X\"> ID=\"1\">Bulgária> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Canadá> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Republica Popular da China> ID=\"3\">X> ID=\"5\">X\"> ID=\"1\">Colômbia> ID=\"2\">X> ID=\"5\">X\"> ID=\"1\">Costa Rica> ID=\"2\">X> ID=\"5\">X\"> ID=\"1\">Cuba> ID=\"2\">X> ID=\"5\">X\"> ID=\"1\">São Salvador> ID=\"2\">X> ID=\"4\">X> ID=\"5\">X\"> ID=\"1\">Espanha> ID=\"5\">X\"> ID=\"1\">Finlândia> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Grécia> ID=\"5\">X\"> ID=\"1\">Guatemala> ID=\"2\">X> ID=\"5\">X\"> ID=\"1\">Honduras> ID=\"2\">X> ID=\"5\">X\"> ID=\"1\">Hungria> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Islândia> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Israel> ID=\"5\">X\"> ID=\"1\">Madagáscar> ID=\"2\">X> ID=\"4\">X> ID=\"5\">X\"> ID=\"1\">Malta> ID=\"2\">X> ID=\"3\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Marrocos> ID=\"5\">X\"> ID=\"1\">México> ID=\"2\">X> ID=\"5\">X\"> ID=\"1\">Nicarágua> ID=\"2\">X> ID=\"5\">X\"> ID=\"1\">Noruega> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Nova Zelândia> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Panamá> ID=\"2\">X> ID=\"5\">X\"> ID=\"1\">Paraguai> ID=\"2\">X> ID=\"4\">X> ID=\"5\">X\"> ID=\"1\">Polónia> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Portugal> ID=\"5\">X\"> ID=\"1\">Roménia> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Suécia> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X\"> ID=\"1\">Suíça> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Suazilândia> ID=\"2\">X> ID=\"5\">X\"> ID=\"1\">Checoslováquia> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Turquia> ID=\"5\">X\"> ID=\"1\">União Soviética> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Uruguai> ID=\"2\">X> ID=\"4\">X> ID=\"5\">X\"> ID=\"1\">EUA> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">Jugoslávia> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\"> ID=\"1\">República Democrática alemã> ID=\"2\">X> ID=\"3\">X> ID=\"4\">X> ID=\"5\">X> ID=\"6\">X\">"
+  },
+  "ead2892e4e61e094": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1979D0542 — PT — 09.04.2010 — 030.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31979D0542) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/31979D0542) [de 21 de Dezembro de 1976](http://publications.europa.eu/resource/celex/31979D0542) [que estabelece uma lista de países terceiros ou de partes de países terceiros e as condições de sanidade animal e saúde pública e de certificação veterinária aplicáveis à importação, para a Comunidade, de determinados animais vivos e da respectiva carne fresca](http://publications.europa.eu/resource/celex/31979D0542) [(79/542/CEE)](http://publications.europa.eu/resource/celex/31979D0542) (JO L 146, 14.6.1979, p.15)\n\n**revogado por:**\n\n- [Decisão n.o 477/2010/UE do Parlamento Europeu e do Conselho, de 19 de Maio de 2010,](http://publications.europa.eu/resource/celex/32010D0477) — L 135 — 1 — 9.4.2010"
+  }
+ }
+}

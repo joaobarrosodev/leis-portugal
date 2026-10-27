@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:405331:por
+title: Portaria n.º 777/73
+short_title: null
+summary: Estabelece as condições de venda e utilização de produtos derivados do petróleo bruto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 777/73
+official_date: null
+publication_date: '1973-11-08'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 261/1973, 1º Suplemento, Série I de 1973-11-08
+  number: '261'
+  series: I
+  supplement: null
+  pages: 2154-(1) a 2154-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/11/26101/00010002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '405331'
+  dre_path: /dr/detalhe/portaria/777-1973-405331
+  internal: pt:dre:405331:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/777-1973-405331
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/777-1973-405331
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:14:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 00fb6a55a17d950845020b2c0f2b90defd9f41e2976eef0bfa4c7cd185441f2f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:14:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:483421:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:249521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387086:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:14:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 777/73
+
+de 8 de Novembro
+
+Considerando a situação crítica actual da conjuntura do abastecimento do petróleo bruto e produtos refinados;
+
+Atendendo a que o abastecimento do País se encontra em grande parte dependente de fontes situadas em regiões de grande instabilidade e não pode ser encarado sem ter em conta a situação criada na resto da Europa pela restrição de fornecimentos decidida por certos países produtores;
+
+Atendendo ainda a que os preços de fornecimento das ramas para refinação são fixados, qualquer que seja a fonte de origem, segundo critérios internacionalmente uniformes;
+
+De acordo com a competência da Direcção-Geral dos Combustíveis para velar pelos interesses da economia e segurança da Nação em tudo o que respeite à produção, importação, transformação, transporte, distribuição e consumo dos combustíveis:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Economia, tendo em atenção o determinado pelo artigo 3.º do [Decreto-Lei n.º 36934](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36934-1948-387086), de 24 de Junho de 1948, pelo artigo 22.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, e pelo n.º 1 do artigo 2.º do [Decreto-Lei n.º 196/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1972-249521), de 12 de Junho:
+
+1.º Fica o Secretário de Estado da Indústria autorizado a estabelecer e mandar aplicar, pela Direcção-Geral dos Combustíveis, as condições de venda e utilização de produtos derivados de petróleo bruto que, em face das circunstâncias excepcionais que afectam o abastecimento do País, se mostrem necessárias.
+
+2.º Independentemente do disposto no artigo anterior, a venda e utilização daqueles produtos ficam desde já condicionadas ao esquema seguinte:
+
+1. As companhias distribuidoras só podem abastecer os clientes habituais nas percentagens estabelecidas na tabela anexa a esta portaria, em função dos consumos normais.
+
+a) Considerar-se-á como consumo normal o verificado em igual período do ano anterior, excepto para consumidores recentes, que serão abastecidos em conformidade com a média mensal dos consumos verificados.
+
+b) O abastecimento a novos clientes só poderá ser efectuado após autorização da Direcção-Geral dos Combustíveis. Para esse efeito, o comprador apresentará, através da companhia onde se quiser abastecer, o seu pedido devidamente justificado.
+
+c) Os quantitativos fornecidos podem ser revistos pela Direcção-Geral dos Combustíveis, a pedido dos interessados, devidamente justificado.
+
+2. - a) O abastecimento de gasolina e gasóleo, em qualquer posto existente na via pública, garagem, oficina ou stand para as seguintes espécies de veículos de serviço particular:
+
+Automóveis ligeiros de passageiros;
+
+Motociclos;
+
+Ciclomotores;
+
+Velocípedes com motor auxiliar;
+
+só pode em cada posto e em cada fornecimento ser feito na quantidade máxima de gasolina e gasóleo de 20 l.
+
+b) Exceptuam-se os automóveis de médicos ou de estabelecimentos hospitalares e casas de saúde, quando em serviço da respectiva profissão.
+
+c) Os casos duvidosos serão resolvidos pela Direcção-Geral dos Combustíveis.
+
+d) É proibido o abastecimento dos veículos referidos na alínea a) aos sábados, domingos e dias feriados entre as 0 e as 24 horas.
+
+3. Fica vedado o abastecimento de combustíveis para competições desportivas em terra, água ou ar.
+
+4. Será preparado um esquema de eventuais restrições no consumo de energia eléctrica.
+
+5. Fica limitada a concessão de licenças de exportação de produtos derivados do petróleo bruto a quantitativos a fixar, conforme as circunstâncias aconselharem.
+
+6. Serão estabelecidas as medidas necessárias para reservar ao abastecimento metropolitano as exportações das disponibilidades de petróleo bruto e de excedentes de produtos refinados das províncias ultramarinas.
+
+7. As entidades refinadoras serão instruídas no sentido de ajustarem o seu esquema de fabrico às indicações dadas pela Direcção-Geral dos Combustíveis, de forma a obterem maiores quantidades de produtos com prioridade de consumo e a processar maior quantidade de ramas de proveniência ultramarina.
+
+8. As companhias distribuidoras devem informar, todas as segundas-feiras, a Direcção-Geral dos Combustíveis sobre os quantitativos dos diversos produtos de petróleo existentes nas instalações principais na abertura desse mesmo dia.
+
+9. Os serviços públicos, organismos de coordenação económica e autarquias locais deverão proceder ao máximo de economias no consumo de qualquer forma de energia, restringindo ao indispensável a iluminação, aquecimento e deslocação das viaturas dos seus serviços.
+
+10. É proibido o abastecimento de gasolina e gasóleo pelos postos de abastecimento sitos na via pública, garagens, oficinas ou stands de quaisquer tipos de vasilhas ou taras que não sejam os depósitos normais dos veículos motorizados, salvo os casos de paralisação na via pública por falta de combustível, não podendo, neste caso, o quantitativo fornecido ser superior a 2 l. Desta proibição fica igualmente isento o fornecimento normal de gasóleo em taras para motores industriais ou agrícolas e barcos de pesca.
+
+11. São proibidas quaisquer transacções de produtos de petróleo que não sejam efectuadas pelas companhias distribuidoras ou seus revendedores fora dos locais autorizados ou a preços superiores aos fixados oficialmente.
+
+3.º Os preços de venda ao público dos combustíveis líquidos, fixados por despacho ministerial de 30 de Setembro de 1973, publicado no Diário do Governo, 1.ª série, de 20 de Outubro de 1973, são alterados para os valores seguintes:
+
+1) Gasolina I. O. 98 RM:
+
+7$50 por litro, fornecida nos postos abastecedores autorizados para o efeito do continente e ilhas adjacentes.
+
+2) Gasolina I. O. 85 RM:
+
+6$30 por litro, fornecida nos postos abastecedores do continente e ilhas adjacentes.
+
+3) Gasóleo:
+
+2$45 por litro, fornecido aos revendedores no continente e ilhas adjacentes nos postos de abastecimento, quer a granel, quer em taras. O diferencial de revenda de $15 por litro é acrescido a este preço nos postos de revenda, pelo que os preços nestes postos é de 2$60 por litro.
+
+4.º - 1. Ficam sujeitos ao regime de homologação prévia nos termos da legislação em vigor os preços dos transportes públicos de mercadorias por estrada.
+
+2. As dúvidas que se suscitarem na interpretação do disposto no presente artigo serão resolvidas por despacho do Secretário de Estado do Comércio.
+
+5.º Esta portaria entra em vigor no dia 8 de Novembro de 1973.
+
+Ministério da Economia, 7 de Novembro de 1973. - O Ministro da Economia, Manuel Artur Cotta Agostinho Dias.
+
+TABELA ANEXA
+
+Abastecimento, em percentagem sobre o consumo normal, dos seguintes combustíveis: butano, propano, gasolinas auto, petróleo, gasóleo e fuelóleo, destinados ao mercado interno (ver nota a).
+
+Actividades económicas, segundo a C. I. T. A.
+
+(Classificação internacional tipo por actividades)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26101/00010002.pdf)
+
+(nota a) Para os restantes produtos de petróleo, incluindo os fornecimentos a bancas, as restrições serão estabelecidas de acordo com as disponibilidades de momento.
+
+O Ministro da Economia, Manuel Artur Cotta Agostinho Dias.

@@ -1,0 +1,275 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:173732851:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-173785312",
+ "dre_path": "/dr/detalhe/decreto-lei/89-2021-173732851",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "173598440",
+    "173598441",
+    "173598442",
+    "173598443",
+    "173598444",
+    "173598445",
+    "173598446",
+    "173598447",
+    "173598448",
+    "173598449",
+    "173598450",
+    "173598451",
+    "173598452",
+    "173598453",
+    "173598454",
+    "173598455",
+    "173598456",
+    "173598457",
+    "173598458",
+    "173598459",
+    "173598460",
+    "173598461"
+   ]
+  },
+  {
+   "date": "2023-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222477692:por",
+     "title": "Lei n.º 56/2023",
+     "published": "2023-10-06",
+     "dre_path": "/dr/detalhe/lei/56-2023-222477692"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "173598440",
+    "173598441",
+    "173598442",
+    "173598443",
+    "173598444",
+    "173598445",
+    "173598446",
+    "173598447",
+    "173598448",
+    "173598449",
+    "173598450",
+    "173598451",
+    "173598452",
+    "173598453",
+    "222582015",
+    "173598455",
+    "173598456",
+    "173598457",
+    "173598458",
+    "173598459",
+    "173598460",
+    "173598461",
+    "173598462"
+   ]
+  }
+ ],
+ "fragments": {
+  "173598440": {
+   "fragment_id": "173785313",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 89/2021\n\nde 3 de novembro\n\nSumário: Regulamenta normas da Lei de Bases da Habitação relativas à garantia de alternativa habitacional, ao direito legal de preferência e à fiscalização de condições de habitabilidade.\n\nO direito à habitação, previsto no artigo 65.º da Constituição da República Portuguesa, constitui uma das mais importantes marcas genéticas do Estado de Direito Democrático nascido a 25 de Abril de 1974 e do ambicionado e, desde então, amplamente realizado Estado Social.\n\nNum país em que tanto estava por fazer e por realizar a priorização do acesso universal e gratuito à saúde, ao ensino e à segurança social contribuiu para que a matéria da habitação, ainda que sendo objeto de alguns programas específicos, como o Serviço de Apoio Ambulatório Local, instituído por despacho do Ministro da Administração Interna e do Secretário de Estado da Habitação e do Urbanismo, de 31 de julho de 1974, e o Programa Especial de Realojamento para as áreas metropolitanas de Lisboa e do Porto, criado pelo Decreto-Lei n.º 163/93, de 7 de maio, não se tenha podido materializar enquanto pilar fundamental do Estado Social.\n\nTal objetivo é afirmado pelo XXII Governo Constitucional, cujo programa reconhece a conceção do direito à habitação como um direito social, de vocação universal, que visa garantir a todos uma habitação adequada a custos acessíveis. Reconhece-se também a necessidade de garantir a adoção de instrumentos diferenciados em função das necessidades específicas dos destinatários, realizando-se, assim, de modo eficiente, um direito que é de todos e não uma mera prerrogativa de apoio do Estado aos mais carenciados, de índole assistencialista.\n\nPara a aproximação a estes objetivos foi fundamental a criação da primeira lei de bases da habitação, aprovada pela Lei n.º 83/2019, de 3 de setembro (LBH), que veio criar um quadro normativo de primeiro nível, que define as competências que neste âmbito cabem a cada uma destas entidades e impõe um dever de ação para cada uma delas.\n\nNeste âmbito, a LBH veio impor o dever de regulamentação em algumas matérias específicas, como sejam a das obrigações das entidades públicas quanto à garantia de uma alternativa habitacional, a dos termos em que as mesmas entidades têm direito legal de preferência na alienação de imóveis habitacionais, bem como a das suas competências de fiscalização das condições de habitabilidade no âmbito do arrendamento habitacional.\n\nO presente decreto-lei visa, pois, no cumprimento da obrigação referida, regulamentar estes importantes aspetos do conteúdo do direito à habitação, dando-lhes forma e corpo, alinhando-se as previsões aqui contidas com os objetivos de política pública inscritos no programa do XXII Governo Constitucional.\n\nDeste modo, procede-se à definição de situação de efetiva carência habitacional, para os efeitos previstos no n.º 6 do artigo 28.º da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual. Assim, considera-se que estão em tal situação as pessoas que não possuam, ou que estejam em risco efetivo de perder, uma habitação adequada, não constituindo uma alternativa habitacional aquela que imponha uma alteração ao agregado habitacional pré-existente à situação de carência, salvo se esta alteração resultar de pedido ou obtiver a concordância escrita de todas as partes envolvidas.\n\nImpõe-se ainda um dever de articulação entre as diversas entidades, do Estado e dos municípios, para que de forma pró-ativa possam resolver as situações das pessoas em situação de efetiva carência habitacional.\n\nTambém quanto à função social da habitação, promove-se o seu uso efetivo, dando-se a possibilidade aos municípios de, no âmbito do procedimento de classificação de um imóvel de uso habitacional como devoluto, quando o mesmo se situe em zona de pressão urbanística, apresentar uma proposta de arrendamento do imóvel ao seu proprietário, para posterior subarrendamento, ou, nos casos em que, após vistoria, se conclua que o imóvel se encontra em mau estado de conservação, aproveitar o procedimento de classificação do imóvel como devoluto para determinar a execução de obras necessárias à sua correção, ao abrigo dos artigos 89.º e seguintes do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual (RJUE), aplicando-se igualmente, quanto ao ressarcimento pela execução destas obras, o disposto nos artigos 108.º e 108.º-B do mesmo decreto-lei.\n\nRelembre-se, a este propósito, que as alterações efetuadas a este regime, previsto no RJUE e operadas pelo Decreto-Lei n.º 66/2019, de 21 de maio, vieram alargar o âmbito das obras necessárias à correção das más condições de segurança ou salubridade, podendo ser determinada não apenas a execução de obras de conservação, mas também a execução de obras de alteração, ampliação ou reconstrução que se mostrem necessárias, com as naturais consequências de obrigatoriedade do cumprimento das normas legais e regulamentares, desde logo, as previstas no regime aplicável à reabilitação de edifícios ou frações autónomas, aprovado pelo Decreto-Lei n.º 95/2019, de 18 de julho.\n\nRelativamente ao direito de preferência na aquisição de imóveis habitacionais, esclarece-se os casos em que o mesmo existe, graduando-se a hierarquia da preferência de entre as diversas entidades públicas e prevendo-se que este mecanismo funciona no âmbito da legislação já em vigor para o efeito, nomeadamente o Decreto-Lei n.º 263-A/2007, de 23 de julho, na sua redação atual, que garante já a desmaterialização e simplificação deste procedimento.\n\nPor fim, quanto à fiscalização do arrendamento habitacional, importa definir quais as competências que o Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), enquanto organismo do Estado a quem foi atribuída a responsabilidade nesta matéria, passa a deter.\n\nNeste âmbito, merece destaque a possibilidade dada ao IHRU, I. P., de, quando tenha conhecimento de factos que possam consubstanciar a existência de deficiências nas condições de habitabilidade de fogos arrendados ou subarrendados, poder solicitar à câmara municipal do sítio do imóvel a determinação do nível de conservação do respetivo locado e, deste modo, em articulação com as autarquias locais, poder contribuir para a resolução dos problemas detetados nas condições de habitabilidade dos fogos arrendados.\n\nPor último, prevê-se ainda a obrigatoriedade de a publicitação dos imóveis com vista ao arrendamento ser acompanhada de elementos obrigatórios que permitam ao pretendente a inquilino ter um conhecimento prévio do prédio ou fração a arrendar, dando mais transparência e credibilidade a este mercado, evitando-se a publicitação de imóveis que não tenham uso habitacional autorizado ou que não reúnam condições para o efeito.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 83/2019, de 3 de setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "173598441": {
+   "fragment_id": "173785314",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "173598442": {
+   "fragment_id": "173785315",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à regulamentação da Lei n.º 83/2019, de 3 de setembro, estabelecendo as obrigações das entidades públicas relativas à garantia de uma alternativa habitacional, os termos em que as mesmas entidades têm direito legal de preferência na alienação de imóveis habitacionais, bem como as suas competências de fiscalização das condições de habitabilidade no âmbito do arrendamento habitacional."
+  },
+  "173598443": {
+   "fragment_id": "173785316",
+   "type": 1,
+   "heading": "Capítulo II — Direito à habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direito à habitação"
+  },
+  "173598444": {
+   "fragment_id": "173785317",
+   "type": 11,
+   "heading": "Artigo 2.º — Direito à escolha do lugar de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direito à escolha do lugar de residência\n\n1 - A todos é garantido, nos termos e para os efeitos previstos no artigo 11.º da Lei n.º 83/2019, de 3 de setembro, o direito à escolha do lugar de residência, sem prejuízo da definição por lei de condições de acesso, de critérios de elegibilidade, de impedimentos, de condicionalismos urbanísticos, bem como de critérios de hierarquização e ponderação que venham a ser estabelecidos pela entidade locadora, nos termos legalmente previstos.\n\n2 - Os regulamentos das entidades locadoras devem ser adaptados em conformidade com o previsto no número anterior.\n\n3 - Os instrumentos de planeamento em matéria habitacional, independentemente da entidade pública que os promova, devem compatibilizar-se com o previsto no n.º 1."
+  },
+  "173598445": {
+   "fragment_id": "173785318",
+   "type": 11,
+   "heading": "Artigo 3.º — Situação de efetiva carência habitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Situação de efetiva carência habitacional\n\n1 - Nos termos do disposto no n.º 4 do artigo 13.º da Lei n.º 83/2019, de 3 de setembro, e para os efeitos previstos no n.º 6 do artigo 28.º da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual, consideram-se em situação de efetiva carência habitacional as pessoas que não possuam ou que estejam em risco efetivo de perder uma habitação e não tenham alternativa habitacional.\n\n2 - Para efeitos do disposto no n.º 6 do artigo 28.º da Lei n.º 81/2014, de 19 de dezembro, considera-se uma habitação adequada a fração ou o prédio destinado a habitação, apto a satisfazer condignamente as necessidades habitacionais de uma pessoa ou de um agregado habitacional determinado, tendo em consideração, designadamente, a composição deste, a tipologia da habitação e as condições de habitabilidade e de segurança da mesma.\n\n3 - Não constitui uma alternativa habitacional aquela que imponha uma alteração ao agregado habitacional pré-existente à situação de carência referida no n.º 1, salvo se esta alteração resultar de pedido ou obtiver a concordância escrita do requerente e do elemento, ou elementos, do agregado habitacional com quem a entidade pública respetiva tenha previamente celebrado um contrato de arrendamento."
+  },
+  "173598446": {
+   "fragment_id": "173785319",
+   "type": 11,
+   "heading": "Artigo 4.º — Dever objetivo de atuação das entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dever objetivo de atuação das entidades públicas\n\n1 - Cabe às entidades públicas, no âmbito da proteção e acompanhamento no despejo, conforme estabelecido no artigo 13.º da Lei n.º 83/2019, de 3 de setembro, prestar o apoio necessário aos agregados familiares em situação de efetiva carência habitacional nos termos definidos no n.º 1 do artigo anterior, sinalizados no âmbito do atendimento de ação social, designadamente aquele a que se refere o artigo 10.º do Decreto-Lei n.º 55/2020, de 12 de agosto, sem prejuízo do disposto na Portaria n.º 120/2021, de 8 de junho.\n\n2 - Não existindo alternativa habitacional adequada, deve ser salvaguardado o encaminhamento para uma resposta habitacional permanente do parque habitacional público existente, quer dos municípios, quer do Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), e de acordo com os respetivos critérios de elegibilidade.\n\n3 - Na impossibilidade de promover a imediata atribuição de uma habitação permanente no parque habitacional público existente, o município da área de localização da habitação a desocupar deve promover, cumpridos os requisitos de elegibilidade do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, a inclusão das situações referidas no número anterior no âmbito da sua Estratégia Local de Habitação ao abrigo do disposto no Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual.\n\n4 - O disposto no número anterior não prejudica que o município ou, existindo, outras entidades com competência para o efeito, encaminhem ou assegurem a implementação de uma solução de alojamento temporário, em articulação com o Instituto da Segurança Social, I. P. (ISS, I. P.), e o IHRU, I. P., no âmbito das respetivas competências.\n\n5 - A articulação referida no número anterior é operacionalizada através de sinalização junto dos serviços de ação social locais ou de outras entidades que, em função da matéria, sejam competentes, preferencialmente através da Bolsa Nacional de Alojamento Urgente e Temporário, aprovada pelo Decreto-Lei n.º 26/2021, de 31 de março, ou de outras respostas sociais disponíveis.\n\n6 - O disposto no número anterior não prejudica, complementarmente, a salvaguarda de soluções habitacionais de emergência através do município, em articulação com o IHRU, I. P., no âmbito dos respetivos programas, sendo possível recorrer-se, se necessário, ao arrendamento de frações ou de prédios destinados a habitação.\n\n7 - O financiamento da solução habitacional prevista no número anterior é complementarmente elegível para apoio a uma solução habitacional transitória ao abrigo do disposto no artigo 14.º do Decreto-Lei n.º 29/2018, de 4 de maio, na sua redação atual."
+  },
+  "173598447": {
+   "fragment_id": "173785320",
+   "type": 1,
+   "heading": "Capítulo III — Função social da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Função social da habitação"
+  },
+  "173598448": {
+   "fragment_id": "173785321",
+   "type": 11,
+   "heading": "Artigo 5.º — Uso efetivo da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Uso efetivo da habitação\n\n1 - No âmbito do procedimento de classificação de um imóvel de uso habitacional como devoluto, quando o mesmo se situe em zona de pressão urbanística, conforme definida no artigo 2.º-A do Decreto-Lei n.º 159/2006, de 8 de agosto, na sua redação atual, a notificação a que se refere o n.º 2 do artigo 4.º do mesmo decreto-lei contém uma proposta do município de arrendamento do imóvel ao seu proprietário, para posterior subarrendamento.\n\n2 - A proposta a que se refere o número anterior pressupõe que o imóvel ou fração a arrendar reúne condições de habitabilidade que possibilitem a sua imediata integração no mercado de arrendamento.\n\n3 - O valor da renda a propor pelo município ao proprietário tem como limite máximo o valor de referência do preço por renda e alojamento, previsto no artigo 3.º da Portaria n.º 176/2019, de 6 de junho, sendo o respetivo contrato de arrendamento celebrado, preferencialmente, ao abrigo do Programa de Arrendamento Acessível, aprovado pelo Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual.\n\n4 - A aceitação, pelo proprietário, do arrendamento nos termos propostos pelo município, constitui fundamento e causa para a extinção do procedimento de classificação desse imóvel como devoluto.\n\n5 - Sem prejuízo do disposto nos números anteriores, o município procede ao subarrendamento do locado em função das necessidades do território e das populações, de acordo com os regimes existentes.\n\n6 - Nos casos em que a classificação de um imóvel como devoluto com o fundamento constante da alínea d) do n.º 2 do artigo 2.º do Decreto-Lei n.º 159/2006, de 8 de agosto, na sua redação atual, e sempre que o nível de conservação apurado na respetiva vistoria assim o indicar, pode o município determinar a execução das obras necessárias à correção de más condições de segurança ou de salubridade, bem como das condições de habitabilidade, nos termos previstos no artigo 89.º e seguintes do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual (RJUE), aplicando-se igualmente, quanto ao ressarcimento pela execução destas obras, o disposto nos artigos 108.º e 108.º-B do RJUE."
+  },
+  "173598449": {
+   "fragment_id": "173785322",
+   "type": 1,
+   "heading": "Capítulo IV — Direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Direito de preferência"
+  },
+  "173598450": {
+   "fragment_id": "173785323",
+   "type": 11,
+   "heading": "Artigo 6.º — Objetivos de política pública de habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objetivos de política pública de habitação\n\n1 - O Estado, as regiões autónomas e os municípios gozam do direito de preferência nas alienações onerosas de imóveis de uso habitacional, para além das demais situações previstas na lei, nas seguintes circunstâncias:\n\na) Numa zona de pressão urbanística, delimitada com fundamento na falta ou desadequação da oferta, nos termos previstos no artigo 2.º-A do Decreto-Lei n.º 159/2006, de 8 de agosto, na sua redação atual;\n\nb) Em territórios identificados no Programa Nacional de Habitação com fundamento na falta ou desadequação da oferta referida na alínea anterior.\n\n2 - Nos casos previstos no número anterior, bem como nas circunstâncias previstas no n.º 3 do artigo 37.º da Lei n.º 83/2019, de 3 de setembro, e sem prejuízo da prevalência do direito de preferência dos arrendatários, nos termos previstos no n.º 4 do artigo 37.º da mesma lei, bem como das cooperativas de habitação e construção, nos casos previstos no artigo 28.º do Decreto-Lei n.º 502/99, de 19 de novembro, na sua redação atual, é estabelecida a seguinte graduação do direito de preferência, por ordem na preferência:\n\na) Municípios;\n\nb) Regiões Autónomas;\n\nc) Estado.\n\n3 - É de 10 dias o prazo para exercício de qualquer dos direitos de preferência ao abrigo do disposto no presente artigo.\n\n4 - O Estado é representado pelo IHRU, I. P., no exercício do direito de preferência previsto no presente capítulo."
+  },
+  "173598451": {
+   "fragment_id": "173785324",
+   "type": 11,
+   "heading": "Artigo 7.º — Exercício do direito de preferência pelo Instituto da Habitação e da Reabilitação Urbana, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Exercício do direito de preferência pelo Instituto da Habitação e da Reabilitação Urbana, I. P.\n\n1 - O IHRU, I. P., de acordo com as suas disponibilidades orçamentais, pode preferir nos negócios jurídicos relativos a alienações onerosas de imóveis de uso habitacional, nos casos referidos no n.º 3 do artigo 37.º da Lei n.º 83/2019, de 3 de setembro, quando os imóveis objeto do direito de preferência se situem em área com carência habitacional, determinada pela carta municipal, ou nas zonas referidas nas alíneas a) e b) no n.º 1 do artigo anterior, desde que tal direito não tenha sido exercido pelos municípios ou pelas regiões autónomas.\n\n2 - O direito de preferência previsto no presente capítulo é exercido pelas entidades públicas nos termos previstos no Decreto-Lei n.º 263-A/2007, de 23 de julho, na sua redação atual, dispondo estas de um prazo único de 10 dias para o efeito, sem prejuízo de, em caso de exercício plural desses direitos, prevalecer o da entidade melhor graduada de acordo com a ordem estabelecida no n.º 2 do artigo anterior."
+  },
+  "173598452": {
+   "fragment_id": "173785325",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização do arrendamento habitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização do arrendamento habitacional"
+  },
+  "173598453": {
+   "fragment_id": "173785326",
+   "type": 11,
+   "heading": "Artigo 8.º — Fiscalização das normas legais do arrendamento habitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fiscalização das normas legais do arrendamento habitacional\n\n1 - O IHRU, I. P., no âmbito da fiscalização do arrendamento habitacional, tem o dever de participar às autoridades competentes os factos de que tenha conhecimento no desempenho das suas funções que indiciem a prática de infrações cuja apreciação e punição não seja da sua competência.\n\n2 - A atividade de fiscalização do arrendamento habitacional, pelo IHRU, I. P., é regulada por portaria do membro do Governo responsável pela área da habitação, a aprovar no prazo de 30 dias a contar da data de publicação do presente decreto-lei."
+  },
+  "173598454": {
+   "fragment_id": "173785327",
+   "type": 11,
+   "heading": "Artigo 9.º — Verificação das condições de habitabilidade dos fogos arrendados ou subarrendados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Verificação das condições de habitabilidade dos fogos arrendados ou subarrendados\n\n1 - O IHRU, I. P., quando tenha conhecimento, por denúncia ou através de documentos que lhe sejam remetidos, de factos que possam consubstanciar a existência de deficiências nas condições de habitabilidade de fogos arrendados ou subarrendados, pode solicitar, ao abrigo da alínea c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 266-B/2012, de 31 de dezembro, à câmara municipal do sítio do imóvel, a determinação do nível de conservação do respetivo locado.\n\n2 - Quando da determinação a que se refere o número anterior resulte um nível de conservação mau ou péssimo, a câmara municipal ou a entidade a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 266-B/2012, de 31 de dezembro, consoante os casos, deve aplicar o disposto no artigo 89.º e seguintes do RJUE.\n\n3 - A câmara municipal territorialmente competente remete ao IHRU, I. P., para conhecimento cópia do auto de vistoria e respetiva ficha de avaliação do imóvel, bem como, nos casos previstos no número anterior, da notificação subsequente e demais diligências efetuadas no âmbito do respetivo processo."
+  },
+  "173598455": {
+   "fragment_id": "173785328",
+   "type": 11,
+   "heading": "Artigo 10.º — Elementos obrigatórios na publicação de anúncios de imóveis habitacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Elementos obrigatórios na publicação de anúncios de imóveis habitacionais\n\n1 - Constitui obrigação das empresas de mediação imobiliária indicar o número da licença ou a autorização de utilização do imóvel, a tipologia, bem como a sua área útil, em todos os anúncios publicados com vista à celebração de contratos de arrendamento habitacional.\n\n2 - Constitui obrigação das entidades anunciadoras não publicar ou retirar, quando haja sido publicado, qualquer anúncio publicado sem a indicação dos elementos mencionados no número anterior.\n\n3 - Constitui contraordenação punível com coima de (euro) 250 a (euro) 3740, no caso de pessoas singulares, e de (euro) 2500 a (euro) 44 890, no caso de pessoas coletivas:\n\na) O incumprimento das obrigações das empresas de mediação imobiliária, previstas no n.º 1;\n\nb) O incumprimento das obrigações das entidades anunciadoras, previstas no número anterior.\n\n4 - A iniciativa para a instauração e instrução dos processos de contraordenação previstos no presente artigo, bem como a determinação e aplicação das eventuais coimas compete ao Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P. (IMPIC, I. P.).\n\n5 - O IHRU, I. P., participa ao IMPIC, I. P., todos os factos de que tenha conhecimento no exercício das suas competências de fiscalização do arrendamento habitacional que indiciem a prática dos ilícitos contraordenacionais previstos no presente artigo, remetendo igualmente todas as provas que tenha recolhido nesse âmbito.\n\n6 - O produto das coimas recebidas por infração ao disposto no presente decreto-lei reverte em 60 % para os cofres do Estado, em 30 % para o IMPIC, I. P., e em 10 % para o IHRU, I. P.\n\n7 - Na falta de pagamento voluntário das coimas aplicadas em processo de contraordenação, compete à Autoridade Tributária e Aduaneira (AT), nos termos do Código de Procedimento e de Processo Tributário (CPPT), promover a respetiva cobrança coerciva.\n\n8 - A entrega da certidão de dívida é efetuada através da plataforma eletrónica da AT, no Portal das Finanças, ou por via eletrónica.\n\n9 - O processo de execução fiscal tem por base certidão emitida pelo IMPIC, I. P., com valor de título executivo, da qual constam os elementos referidos no artigo 163.º do CPPT.\n\n10 - O Tribunal da Concorrência, Regulação e Supervisão é o tribunal competente para conhecer do recurso, da revisão e da execução das decisões ou de quaisquer outras medidas legalmente suscetíveis de impugnação tomadas em processo de contraordenação instaurado ao abrigo do presente decreto-lei."
+  },
+  "173598456": {
+   "fragment_id": "173785329",
+   "type": 1,
+   "heading": "Capítulo VI — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Alterações legislativas"
+  },
+  "173598457": {
+   "fragment_id": "173785330",
+   "type": 11,
+   "heading": "Artigo 11.º — Alteração ao Decreto-Lei n.º 37/2018, de 4 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração ao Decreto-Lei n.º 37/2018, de 4 de junho\n\nO artigo 14.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 14.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - Nas condições previstas no número anterior, quando o IHRU, I. P., atue como beneficiário intermediário ao abrigo do disposto no artigo 9.º do Decreto-Lei n.º 29-B/2021, de 4 de maio, pode receber as transferências, na qualidade de substituto do respetivo beneficiário final, nos termos do disposto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, com as necessárias adaptações, incluindo nas situações em que os beneficiários finais que não se enquadrem no âmbito do n.º 1 do artigo 2.º do mesmo decreto-lei.»"
+  },
+  "173598458": {
+   "fragment_id": "173785331",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "173598459": {
+   "fragment_id": "173785332",
+   "type": 11,
+   "heading": "Artigo 12.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regiões autónomas\n\nO presente decreto-lei aplica-se a todo o território nacional, sem prejuízo de diploma regional que proceda às necessárias adaptações nas regiões autónomas dos Açores e da Madeira."
+  },
+  "173598460": {
+   "fragment_id": "173785333",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogada a alínea c) do n.º 1 do artigo 6.º da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual."
+  },
+  "173598461": {
+   "fragment_id": "173785334",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "222582015": {
+   "fragment_id": "173785327",
+   "type": 11,
+   "heading": "Artigo 9.º — Verificação das condições de habitabilidade dos fogos arrendados ou subarrendados",
+   "in_force_from": "2023-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07"
+   ],
+   "markdown": "###### Artigo 9.º — Verificação das condições de habitabilidade dos fogos arrendados ou subarrendados\n\n1 - O IHRU, I. P., quando tenha conhecimento, por denúncia ou através de documentos que lhe sejam remetidos, de factos que possam consubstanciar a existência de deficiências nos fogos arrendados ou subarrendados, pode solicitar à câmara municipal:\n\na) A determinação do nível de conservação do respetivo locado, ao abrigo da alínea c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 266-B/2012, de 31 de dezembro;\n\nb) A verificação das condições de habitabilidade.\n\n2 - Quando da determinação a que se refere a alínea a) do número anterior resulte um nível de conservação mau ou péssimo, a câmara municipal ou a entidade a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 266-B/2012, de 31 de dezembro, consoante os casos, deve aplicar o disposto nos artigos 89.º e seguintes do RJUE.\n\n3 - A verificação das condições de habitabilidade segue os termos previstos no artigo 88.º-A do RJUE.\n\n4 - A câmara municipal territorialmente competente remete ao IHRU, I. P., para conhecimento, cópia do auto de vistoria e respetiva ficha de avaliação do imóvel, bem como, nos casos previstos nos números anteriores, da notificação subsequente e demais diligências efetuadas no âmbito do respetivo processo.\n\n> Alterado pelo/a Artigo 25.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07"
+  },
+  "173598462": {
+   "fragment_id": "173785335",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de setembro de 2021. - António Luís Santos da Costa - João Nuno Marques de Carvalho Mendes - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 25 de outubro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 29 de outubro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114694773"
+  }
+ }
+}

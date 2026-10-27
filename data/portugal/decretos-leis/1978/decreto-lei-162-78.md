@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:298017:por
+title: Decreto-Lei n.º 162/78
+short_title: null
+summary: Dá nova redacção ao artigo 1.º do Decreto-Lei n.º 39/77, de 29 de Janeiro, com vista a permitir a inscrição na ADSE
+  de funcionários destacados que desempenham funções de administradores por parte do Estado ou dos corpos administrativos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Assistência na Doença aos Servidores Civis do Estado
+proposing_entity: null
+official_number: 162/78
+official_date: null
+publication_date: '1978-07-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 153/1978, Série I de 1978-07-06
+  number: '153'
+  series: I
+  supplement: null
+  pages: 1242 - 1243
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15300/12421243.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '298017'
+  dre_path: /dr/detalhe/decreto-lei/162-1978-298017
+  internal: pt:dre:298017:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1978-298017
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1978-298017
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:11:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a1f044f9e3ca200e86a20012e3361b49c7ecd01a2800f09de2814d4d9e29166d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administrador
+- ADSE
+- Destacamento de Pessoal
+- Funcionário Público
+- Proteção Social
+relationships:
+- type: cites
+  target: pt:dre:138516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582660:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:11:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 162/78
+
+de 6 de Julho
+
+O artigo 1.º do [Decreto-Lei n.º 39/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1977-138516), de 29 de Janeiro, mantém aos funcionários e agentes que desempenham funções de administradores por parte do Estado ou dos corpos administrativos os direitos adquiridos como beneficiários da ADSE; mas não contempla os funcionários destacados para o exercício daquelas funções antes da sua inscrição como beneficiários.
+
+Estes vêem, assim, suspenso, enquanto durar o seu destacamento, o exercício do direito à inscrição na ADSE, que lhes era reconhecido na situação anterior pelo artigo 3.º do [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964, e artigo 1.º do [Decreto-Lei n.º 49313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49313-1969-216145), de 23 de Outubro de 1969, colocando-os em situação de inferioridade, por nunca terem exercido o seu direito à inscrição, em relação aos funcionários já inscritos como beneficiários à data em que foram destacados para o desempenho de idênticas funções.
+
+No intuito de corrigir esta desigualdade injustificada:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 39/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1977-138516), de 29 de Janeiro, passa a ter a seguinte redacção:
+
+Artigo 1.º Os funcionários e agentes que forem designados como administradores por parte do Estado ou dos corpos administrativos junto de qualquer empresa mantêm o direito à inscrição como beneficiários da Assistência na Doença aos Servidores Civis do Estado (ADSE), sempre que optem pelo regime de aposentação do Estado e continuem, assim, a descontar as quotas devidas para a Caixa Geral de Aposentações.
+
+Mário Soares - Vítor Manuel Ribeiro Constâncio - José Manuel San-Bento Meneses.
+
+Promulgado em 21 de Junho de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

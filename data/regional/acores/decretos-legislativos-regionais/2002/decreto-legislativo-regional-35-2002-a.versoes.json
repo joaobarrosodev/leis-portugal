@@ -1,0 +1,534 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:450616:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2002-176496928",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/35-2002-450616",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-11-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176497018",
+    "176497019",
+    "176497020",
+    "176497021",
+    "176497022",
+    "176497023",
+    "176497024",
+    "176497025",
+    "176497026",
+    "176497027",
+    "176497028",
+    "176497029",
+    "176497030",
+    "176497031",
+    "176497032",
+    "176497033",
+    "176497034",
+    "176497035",
+    "176497036",
+    "176497037",
+    "176497038",
+    "176497039",
+    "176497040",
+    "176497041",
+    "176497042",
+    "176497043",
+    "176497044",
+    "176497045",
+    "176497046",
+    "176497047",
+    "176497048",
+    "176497049",
+    "176497050",
+    "176497051",
+    "176497052",
+    "176497053",
+    "176497054",
+    "176497055",
+    "176497056"
+   ]
+  },
+  {
+   "date": "2017-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106874649:por",
+     "title": "Decreto Legislativo Regional n.º 3/2017/A",
+     "published": "2017-04-13",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2017-106874649"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "176497018",
+    "176497019",
+    "176497020",
+    "176497021",
+    "176497022",
+    "176497023",
+    "176497058",
+    "176497025",
+    "176497059",
+    "176497027",
+    "176497028",
+    "176497029",
+    "176497030",
+    "176497031",
+    "176497032",
+    "176497033",
+    "176497034",
+    "176497035",
+    "176497036",
+    "176497037",
+    "176497060",
+    "176497039",
+    "176497040",
+    "176497041",
+    "176497042",
+    "176497043",
+    "176497044",
+    "176497045",
+    "176497046",
+    "176497047",
+    "176497048",
+    "176497049",
+    "176497050",
+    "176497051",
+    "176497052",
+    "176497053",
+    "176497054",
+    "176497055",
+    "176497056",
+    "176497057"
+   ]
+  },
+  {
+   "date": "2021-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176412614:por",
+     "title": "Decreto Legislativo Regional n.º 38/2021/A",
+     "published": "2021-12-23",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/38-2021-176412614"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "176497018",
+    "176497019",
+    "176497020",
+    "176497021",
+    "176497022",
+    "176497023",
+    "176497058",
+    "176497061",
+    "176497059",
+    "176497027",
+    "176497028",
+    "176497029",
+    "176497030",
+    "176497031",
+    "176497032",
+    "176497033",
+    "176497034",
+    "176497035",
+    "176497036",
+    "176497037",
+    "176497060",
+    "176497039",
+    "176497040",
+    "176497041",
+    "176497042",
+    "176497043",
+    "176497044",
+    "176497045",
+    "176497046",
+    "176497047",
+    "176497048",
+    "176497049",
+    "176497050",
+    "176497051",
+    "176497052",
+    "176497053",
+    "176497054",
+    "176497055",
+    "176497056",
+    "176497057"
+   ]
+  }
+ ],
+ "fragments": {
+  "176497018": {
+   "fragment_id": "176496929",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 35/2002/A\n\nUtilização do domínio público aeroportuário\n\nCom a publicação do Decreto-Lei n.º 275/99, de 23 de Julho, pelo qual se efectuou a transposição da Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0067\" title=\"Link para Directiva da Comunidade Europeia\">96/67/CE</a>, do Conselho, de 15 de Outubro de 1996, respeitante à liberalização da actividade de assistência em escala, foi readaptada a estrutura do sistema de taxas a cobrar como contrapartida pela utilização do domínio público aeroportuário, constante do Decreto-Lei n.º 102/90 e do Decreto Regulamentar n.º 38/91, de 29 de Julho, através da publicação do Decreto-Lei n.º 280/99, de 26 de Julho, e do Decreto Regulamentar n.º 12/99, de 30 de Julho.\n\nO regime de licenciamento constante do Decreto-Lei n.º 102/90, alterado pelo Decreto-Lei n.º 280/99, pelo n.º 1 do seu artigo 31.º, não se aplica aos aeroportos ou aeródromos situados na Região Autónoma dos Açores cuja exploração não pertença à ANA - Aeroportos de Portugal, S. A., pelo que os aeródromos de São Jorge, Pico, Graciosa e Corvo e as aerogares das Lajes da Terceira e das Flores não se encontram abrangidos por aquela legislação.\n\nTal facto tem originado dificuldades na gestão daquelas infra-estruturas aeroportuárias, nomeadamente a nível de economia, eficácia e rendibilidade de exploração, por se tratar de uma área integrada num espaço de dimensão nacional e internacional, pelo que importa harmonizar toda a exploração aeroportuária regional, sem prejuízo das suas especificidades e características próprias.\n\nCom o presente diploma, aprova-se um novo regime de licenciamento do uso privativo dos bens do domínio público e actividades desenvolvidas nos aeródromos e aerogares supramencionados.\n\nForam ouvidos o Instituto Nacional de Aviação Civil e a Força Aérea Portuguesa.\n\nAssim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguea e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:"
+  },
+  "176497019": {
+   "fragment_id": "176496930",
+   "type": 1,
+   "heading": "Capítulo I — Das disposições fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Das disposições fundamentais"
+  },
+  "176497020": {
+   "fragment_id": "176496931",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente diploma aplica-se à ocupação de terrenos, edificações ou outras instalações e ao exercício de qualquer actividade nas áreas dos aeroportos e aeródromos de São Jorge, Pico, Graciosa e Corvo, bem como das aerogares das Lajes da Terceira e das Flores, sem prejuízo da legislação aplicável ao Aeroporto das Lajes da Terceira em virtude de estar inserido no perímetro de jurisdição militar da Base Aérea n.º 4."
+  },
+  "176497021": {
+   "fragment_id": "176496932",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\nO uso privativo dos bens e equipamentos dos aeródromos, aeroportos e aerogares abrangidos pelo presente diploma, assim como as actividades neles desenvolvidas, está sujeito a licenciamento e a pagamento de taxas."
+  },
+  "176497022": {
+   "fragment_id": "176496933",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, considera-se:\n\n1 - Carga aérea e bagagem:\n\na) Carga aérea - os bens transportados a bordo das aeronaves, com excepção do equipamento necessário à realização do voo, dos aprovisionamentos, do correio e das bagagens;\n\nb) Bagagens - os objectos de uso ou consumo pessoal dos passageiros e tripulantes, quer os acompanhem quer não, cujo transporte é gratuito ou apenas onerado por tarifas de excesso de bagagem ou de bagagem não acompanhada.\n\n2 - Classificação de áreas:\n\na) Áreas de tráfego - porções da área de movimento onde se processam operações de assistência às aeronaves, isto é, de descarregamento e carregamento das aeronaves, embarque ou desembarque de passageiros e outras inerentes a estas;\n\nb) Áreas de manutenção - porções de áreas de movimento onde se processam operações de manutenção das aeronaves.\n\n3 - Passageiros em transferência - os que chegam ao aeroporto ou aeródromo considerado numa aeronave com um determinado número de voo e partam num lapso de tempo determinado, nessa mesma aeronave ou noutra, mas com diferente número de voo.\n\n4 - Passageiros em trânsito directo - os que permanecem temporariamente no aeroporto ou aeródromo, continuando a sua viagem na mesma aeronave ou noutra mas conservando o mesmo número de voo.\n\n5 - Escala técnica - a utilização de um aeroporto ou aeródromo por uma aeronave para fins que não sejam o embarque ou desembarque de passageiros, carga ou correio.\n\n6 - Prestador de serviços de assistência em escala - entidade que preste a terceiros uma ou mais categorias de serviço ou modalidades de assistência em escala.\n\n7 - Utilizador de um aeroporto ou aeródromo em regime de auto-assistência - pessoa singular ou colectiva que exerça nesse aeroporto ou aeródromo uma actividade de transporte aéreo de passageiros, carga ou correio e que preste a si próprio directamente, sem recurso a colaboração de terceiros, designadamente por subcontratação, um ou mais serviços ou categorias de assistência em escala. Para efeitos desta definição, não se consideram terceiros entre si os utilizadores dos quais um detém uma participação maioritária sobre o outro ou cuja participação em cada um deles seja maioritariamente detida pela mesma entidade.\n\n8 - Unidade de tráfego - unidade de referência da actividade aeroportuária que indiferenciadamente significa qualquer das seguintes realidades: um passageiro embarcado ou um passageiro desembarcado ou 100 kg de carga ou correio embarcado ou 100 kg de carga ou correio desembarcado. Os passageiros em trânsito não relevam para efeitos desta unidade de referência.\n\n9 - Entidade gestora - entidade legalmente responsável pela administração e pela gestão das infra-estruturas e pela coordenação e o controlo das actividades dos vários operadores presentes num aeroporto, aeródromo ou aerogare."
+  },
+  "176497023": {
+   "fragment_id": "176496934",
+   "type": 1,
+   "heading": "Capítulo II — Do regime de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do regime de licenciamento"
+  },
+  "176497024": {
+   "fragment_id": "176496935",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípio geral\n\nA ocupação de terrenos, edificações ou outras instalações e o exercício de qualquer actividade nas áreas dos aeroportos, aeródromos e das aerogares abrangidos pelo presente diploma faz-se nos termos das normas aplicáveis à utilização do domínio público, sem prejuízo de disposição especial em contrário, e carecem de licença do membro do Governo Regional com competência no sector do transporte aéreo."
+  },
+  "176497025": {
+   "fragment_id": "176496936",
+   "type": 11,
+   "heading": "Artigo 5.º — Licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Licenças\n\n1 - A outorga das licenças é, em regra, precedida de concurso público destinado a escolher as propostas mais adequadas ao interesse público da exploração aeroportuária.\n\n2 - Serão outorgadas, independentemente de concurso, as licenças referentes à ocupação ou à utilização de:\n\na) Terrenos e instalações destinados ao exercício de actividades de assistência em escala, salvo nos casos previstos no artigo 27.º do Decreto-Lei n.º 275/99, de 23 de Julho;\n\nb) Terrenos e instalações destinados a serviços públicos;\n\nc) Terrenos e instalações destinados a entidades que exerçam actividades de interesse público;\n\nd) Locais destinados à instalação de máquinas automáticas e para outras actividades e equipamentos similares."
+  },
+  "176497026": {
+   "fragment_id": "176496937",
+   "type": 11,
+   "heading": "Artigo 6.º — Dispensa de concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dispensa de concurso\n\n1 - A concessão de licença poderá ser dispensada de concurso público, designadamente quando:\n\na) O último concurso aberto para o mesmo fim tenha ficado deserto ou tenha resultado numa não adjudicação, nos termos da legislação aplicável;\n\nb) Os terrenos ou instalações a licenciar se destinem a actividades que sejam complementares ou extensões de outra já objecto de licenciamento anterior;\n\nc) Os terrenos ou instalações a licenciar se destinem a actividades que já estejam a ser exercidas e se mostre inconveniente para a exploração comercial do respectivo aeródromo, aeroporto ou aerogare a existência, em simultâneo, de várias entidades licenciadas para o mesmo fim.\n\n2 - A dispensa de concurso carece da autorização do membro do Governo Regional responsável pelo sector do transportes aéreos, mediante proposta fundamentada da entidade gestora."
+  },
+  "176497027": {
+   "fragment_id": "176496938",
+   "type": 11,
+   "heading": "Artigo 7.º — Concurso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Concurso público\n\nO concurso público é publicitado de acordo com a legislação aplicável."
+  },
+  "176497028": {
+   "fragment_id": "176496939",
+   "type": 11,
+   "heading": "Artigo 8.º — Forma da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma da licença\n\nOs títulos das licenças têm de mencionar, obrigatoriamente:\n\na) A identidade do titular;\n\nb) Os terrenos e instalações que forem objecto do licenciamento;\n\nc) O fim ou a actividade a que se destina a licença;\n\nd) O montante discriminado das taxas a pagar mensalmente pelo licenciamento;\n\ne) O prazo;\n\nf) Quaisquer outras condições particulares do licenciamento, designadamente as relativas a eventuais compensações resultantes de reversão para a Região Autónoma dos Açores de construções e equipamentos inseparáveis dos terrenos e instalações objecto do licenciamento."
+  },
+  "176497029": {
+   "fragment_id": "176496940",
+   "type": 11,
+   "heading": "Artigo 9.º — Prazo das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Prazo das licenças\n\n1 - As licenças são outorgadas por prazo certo, até ao limite de cinco anos.\n\n2 - As licenças que envolvam investimentos a realizar pelos seus titulares na implantação de construções, instalações ou equipamentos cuja amortização justifique um prazo superior ao fixado no número anterior podem ser outorgadas até ao limite de 20 anos.\n\n3 - Findos os prazos previstos nos números anteriores, as licenças podem ser sucessivamente prorrogadas, até ao limite máximo de 20 anos, se o membro do Governo Regional com competência no sector do transporte aéreo autorizar e os respectivos titulares o requererem até 90 dias antes do termo do período em vigor."
+  },
+  "176497030": {
+   "fragment_id": "176496941",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma de exercício\n\nAs actividades licenciadas devem ser exercidas de forma continuada e sem outras interrupções que não as resultantes da respectiva natureza e função, de caso fortuito ou de força maior."
+  },
+  "176497031": {
+   "fragment_id": "176496942",
+   "type": 11,
+   "heading": "Artigo 11.º — Prevalências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prevalências\n\nOs titulares das licenças não podem prevalecer-se do seu conteúdo em prejuízo das leis e regulamentos em vigor, ou das determinações dos órgãos de polícia e fiscalização dos aeródromos ou das aerogares no exercício das competências que lhes são cometidas por lei."
+  },
+  "176497032": {
+   "fragment_id": "176496943",
+   "type": 11,
+   "heading": "Artigo 12.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Restrições\n\n1 - Sem prejuízo de outros requisitos e dos regimes fixados por lei ou regulamento, os titulares de licenças não podem construir, edificar ou modificar os terrenos e instalações objecto das mesmas sem prévia autorização do membro do Governo Regional com competência no sector do transporte aéreo, ao qual deve ser entregue um plano escrito e desenhado das obras e as condições e os prazos de realização destas.\n\n2 - A autorização do plano pode ser condicionada à introdução das alterações, devidamente fundamentadas, que se mostrem necessárias sob o ponto de vista do interesse da exploração e segurança aeroportuárias.\n\n3 - Compete à entidade gestora e aos seus agentes fiscalizar a execução do plano de obras aprovado."
+  },
+  "176497033": {
+   "fragment_id": "176496944",
+   "type": 11,
+   "heading": "Artigo 13.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Responsabilidade\n\n1 - Os titulares das licenças são responsáveis pela conservação, limpeza e segurança dos terrenos e instalações licenciados e dos demais bens que lhes forem confiados, bem como por todos os danos e modificações causados nos mesmos que não possam imputar-se ao desgaste provocado pelo seu uso normal.\n\n2 - Os titulares das licenças respondem igualmente perante a entidade gestora pelos actos e omissões do seu pessoal, ocorridos no exercício das respectivas funções, que causem dano aos aeroportos, aeródromos ou aerogares, às suas instalações ou ao seu funcionamento.\n\n3 - Os titulares das licenças devem dar conhecimento escrito e imediato à entidade gestora de todos os factos ou actos de terceiros que constituam uma ameaça ou violação dos seus direitos."
+  },
+  "176497034": {
+   "fragment_id": "176496945",
+   "type": 11,
+   "heading": "Artigo 14.º — Vistoria e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vistoria e fiscalização\n\n1 - Os locais e instalações licenciados, e os demais bens confiados aos titulares das licenças, bem como o exercício da sua própria actividade, estão sujeitos à vistoria e fiscalização da entidade gestora, à qual não pode ser negado o acesso e colaboração.\n\n2 - Os titulares das licenças estão sujeitos à vistoria e fiscalização dos serviços alfandegários, policiais e de segurança.\n\n3 - Os titulares das licenças e o respectivo pessoal estão sujeitos, na área dos aeroportos, dos aeródromos e das aerogares, a todas as regras e controlos de identidade ou outros determinados pelas entidades competentes."
+  },
+  "176497035": {
+   "fragment_id": "176496946",
+   "type": 11,
+   "heading": "Artigo 15.º — Intransmissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Intransmissibilidade\n\n1 - Salvo autorização expressa da entidade competente para a concessão das licenças, não podem ser transmitidos a terceiros, sob qualquer forma, os direitos e deveres que foram cometidos aos seus titulares, bem como as construções e edificações que hajam custeado.\n\n2 - Não se inclui na proibição do número anterior a transmissão por morte, mas o membro do Governo Regional com competência no sector do transporte aéreo poderá revogar as respectivas licenças se a herança permanecer indivisa por mais de 120 dias ou se, no prazo de 30 dias a contar do conhecimento da pessoa do sucessor, esta não reunir os requisitos de capacidade e idoneidade que serviram de base à concessão da licença.\n\n3 - Os direitos emergentes das licenças concedidas, bem como as construções efectuadas pelos seus titulares, não podem ser objecto de garantia real nem de arresto, penhora ou qualquer outra providência semelhante sem prévia autorização do membro do Governo Regional com competência no sector do transporte aéreo, destinada a verificar a existência dos requisitos de capacidade e idoneidade do adquirente dos mesmos.\n\n4 - A violação do disposto nos n.os 1 e 3 determina a nulidade do acto de transmissão, substituição ou constituição de hipoteca ou de qualquer outra garantia real, sem prejuízo das outras sanções que ao caso couberem."
+  },
+  "176497036": {
+   "fragment_id": "176496947",
+   "type": 11,
+   "heading": "Artigo 16.º — Revogação de licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Revogação de licenças\n\n1 - As licenças concedidas podem ser revogadas, em qualquer momento, no todo ou em parte, com fundamento no interesse público da exploração aeroportuária.\n\n2 - Salvo acordo expresso em contrário, em caso de revogação, os titulares de licenças serão reembolsados pelo montante das despesas que ainda não estejam amortizadas e que representem investimentos em bens inseparáveis dos terrenos ou instalações ocupados.\n\n3 - A prorrogação do prazo das licenças faz cessar o dever de reembolso quanto a todos os investimentos realizados durante o período terminado."
+  },
+  "176497037": {
+   "fragment_id": "176496948",
+   "type": 11,
+   "heading": "Artigo 17.º — Alterações ao objecto de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alterações ao objecto de licenciamento\n\n1 - Sempre que o exija o interesse público da exploração aeroportuária, pode ser determinada a redução da área dos terrenos e instalações objecto de licenciamento ou a mudança da sua localização, podendo, contudo, os respectivos titulares, no prazo de 15 dias contados da comunicação da entidade gestora, renunciar aos seus direitos ou continuar a exercê-los mediante a nova taxa a que eventualmente haja lugar.\n\n2 - Em qualquer dos casos referidos no número anterior, os titulares das licenças terão direito de reembolso, nos termos do n.º 2 do artigo 16.º"
+  },
+  "176497038": {
+   "fragment_id": "176496949",
+   "type": 11,
+   "heading": "Artigo 18.º — Suspensão ou cancelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Suspensão ou cancelamento\n\n1 - Em caso de não cumprimento de qualquer das condições das licenças por parte dos titulares, o membro do Governo Regional com competência no sector do transporte aéreo pode determinar a suspensão ou o cancelamento das mesmas.\n\n2 - Em caso de cancelamento, revertem gratuitamente para a Região Autónoma dos Açores as instalações e os bens que, por lei ou acordo, estivessem sujeitos a esse regime no termo da respectiva licença."
+  },
+  "176497039": {
+   "fragment_id": "176496950",
+   "type": 11,
+   "heading": "Artigo 19.º — Reversões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reversões\n\n1 - Decorrido o prazo das licenças, a Região Autónoma dos Açores entra na titularidade imediata de todos os bens insusceptíveis de ser separados das instalações e terrenos ocupados, sem prejuízo da obrigação de os titulares das licenças caducadas mandarem repor estes no estado primitivo.\n\n2 - Salvo menção expressa em contrário, feita nos termos da alínea f) do artigo 8.º, a reversão prevista no número anterior será gratuita."
+  },
+  "176497040": {
+   "fragment_id": "176496951",
+   "type": 1,
+   "heading": "Capítulo III — Das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Das taxas"
+  },
+  "176497041": {
+   "fragment_id": "176496952",
+   "type": 11,
+   "heading": "Artigo 20.º — Origem das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Origem das taxas\n\n1 - A licença referida no artigo 4.º, bem como o exercício de qualquer actividade nas áreas dos aeródromos, aeroportos e aerogares abrangidos pelo presente diploma, dá origem ao pagamento de taxas pela utilização do domínio público ou dos respectivos serviços e equipamentos.\n\n2 - Não são exigíveis quaisquer taxas às Forças Armadas e forças e serviços de segurança, bem como ao Serviço Regional de Protecção Civil e Bombeiros dos Açores e outras corporações de bombeiros em exercício de funções."
+  },
+  "176497042": {
+   "fragment_id": "176496953",
+   "type": 11,
+   "heading": "Artigo 21.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Classificação\n\nAtendendo à natureza dos serviços e actividades desenvolvidos, bem como ao seu impacte sobre a actividade do transporte aéreo, as taxas a cobrar nos termos dos artigos anteriores agrupam-se em:\n\na) Taxas de tráfego;\n\nb) Taxas de assistência em escala (handling);\n\nc) Taxas de ocupação;\n\nd) Outras taxas de natureza comercial."
+  },
+  "176497043": {
+   "fragment_id": "176496954",
+   "type": 11,
+   "heading": "Artigo 22.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competências\n\n1 - O quantitativo das taxas de tráfego, de assistência em escala e de ocupação é fixado, por portaria, pelo membro do Governo Regional com competência no sector do transporte aéreo.\n\n2 - O quantitativo das outras taxas de natureza comercial é fixado pelas entidades a quem estiver cometida a exploração aeroportuária, após despacho favorável do membro do Governo Regional com competência no sector do transporte aéreo.\n\n3 - Em qualquer dos casos referidos nos números anteriores, podem ser fixadas taxas diferenciadas, em conformidade com a categoria, funcionalidade, densidade e período de utilização de cada aeroporto, aeródromo e aerogare ou moduladas em função de razões de protecção ambiental, cultural e turística.\n\n4 - As empresas que explorem domínio público aeroportuário serão sempre ouvidas no que respeita ao estabelecimento de isenções e reduções de taxas que não resultem de acordos internacionais ou recomendações de organismos internacionais.\n\n5 - A entidade gestora de uma infra-estrutura aeroportuária com tráfegos anuais iguais ou superiores a 500000 passageiros ou 50000 t de carga consultará previamente, num prazo não inferior a 30 dias, os transportadores aéreos e os prestadores de serviço de assistência em escala que utilizem de forma contínua ou regular a referida infra-estrutura, através das respectivas associações representativas, em relação a alterações no sistema ou nos montantes das taxas que lhes sejam aplicáveis.\n\n6 - Para efeitos do número anterior e sem prejuízo de consulta facultativa a outras entidades, consideram-se associações representativas o comité de utilizadores constituído nos termos do Decreto-Lei n.º 275/99, de 23 de Julho, sobre assistência em escala, bem como outras associações de transportadores aéreos ou de utilizadores ou prestadores de assistência em escala, legalmente constituídas e cujos associados demonstrem representar, no seu conjunto, pelo menos 25% do tráfego anual movimentado ou assistido, ou do montante de taxas cobradas."
+  },
+  "176497044": {
+   "fragment_id": "176496955",
+   "type": 11,
+   "heading": "Artigo 23.º — Fixação dos quantitativos das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Fixação dos quantitativos das taxas\n\nOs poderes conferidos pelo n.º 1 do artigo anterior são exercidos por iniciativa da entidade competente para a fixação das taxas, ou sob proposta fundamentada da entidade gestora."
+  },
+  "176497045": {
+   "fragment_id": "176496956",
+   "type": 1,
+   "heading": "Capítulo IV — Do regime de cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Do regime de cobrança"
+  },
+  "176497046": {
+   "fragment_id": "176496957",
+   "type": 11,
+   "heading": "Artigo 24.º — Facturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Facturação\n\n1 - As taxas previstas neste diploma são liquidadas e cobradas pelas entidades que explorem os aeródromos, aeroportos e aerogares referidos no artigo 1.º e, salvo disposição expressa em contrário, constituem receitas próprias dessas entidades.\n\n2 - Sem prejuízo do que estiver especialmente regulado, a liquidação e a cobrança das taxas referidas no número anterior regem-se pelas disposições legais e regulamentares aplicáveis à generalidade dos serviços públicos, nomeadamente pelo disposto no Código de Procedimento e de Processo Tributário.\n\n3 - O valor das taxas previstas neste diploma não poderá ser facturado nem cobrado separadamente aos clientes das entidades sujeitas ao seu pagamento."
+  },
+  "176497047": {
+   "fragment_id": "176496958",
+   "type": 11,
+   "heading": "Artigo 25.º — Forma de liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Forma de liquidação\n\n1 - As taxas devidas pela ocupação de terrenos e instalações, bem como outras de natureza comercial, vencem-se no dia 1 do mês anterior àquele a que respeitem e serão pagas até ao dia 8 desse mês.\n\n2 - As taxas devidas pelas aeronaves pela utilização dos aeródromos são cobradas antes da partida destas, podendo, no entanto, fixar-se regimes especiais de cobrança quando assim o aconselhem razões ligadas à operacionalidade da exploração aeroportuária.\n\n3 - Em relação a utentes que operem regularmente, pode o membro do Governo Regional com competência no sector do transporte aéreo fixar regimes de cobrança periódica, eventualmente condicionados à prestação de garantias patrimoniais idóneas."
+  },
+  "176497048": {
+   "fragment_id": "176496959",
+   "type": 11,
+   "heading": "Artigo 26.º — Prazo de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Prazo de pagamento\n\nSalvo os casos abrangidos pelo artigo anterior, as taxas e outras importâncias em dívida devem ser pagas no prazo de 20 dias a contar da data de emissão da respectiva factura."
+  },
+  "176497049": {
+   "fragment_id": "176496960",
+   "type": 11,
+   "heading": "Artigo 27.º — Juros de mora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Juros de mora\n\nA falta de pagamento das taxas e demais importâncias no respectivo prazo faz incorrer o devedor no pagamento de juros de mora, nos termos estabelecidos para a falta de pagamento de taxas devidas ao Estado, sem prejuízo da faculdade de poder vir a ser cancelada a respectiva licença."
+  },
+  "176497050": {
+   "fragment_id": "176496961",
+   "type": 11,
+   "heading": "Artigo 28.º — Reclamações e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Reclamações e recursos\n\n1 - As reclamações e os recursos sobre taxas liquidadas não suspendem o dever de pagamento e presumem-se deferidas se, no prazo de 60 dias, não forem objecto de decisão expressa.\n\n2 - Do indeferimento cabe recurso contencioso para os tribunais administrativos, nos termos da lei."
+  },
+  "176497051": {
+   "fragment_id": "176496962",
+   "type": 11,
+   "heading": "Artigo 29.º — Cobrança coerciva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cobrança coerciva\n\nFindo o prazo para pagamento das taxas, proceder-se-á à sua cobrança coerciva, bem como dos respectivos juros de mora, no tribunal competente."
+  },
+  "176497052": {
+   "fragment_id": "176496963",
+   "type": 11,
+   "heading": "Artigo 30.º — Privilégio creditório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Privilégio creditório\n\nPelas taxas e juros de mora em dívida, ao abrigo do presente diploma, a Região Autónoma dos Açores e demais pessoas colectivas públicas gozam de privilégio creditório sobre os bens dos devedores que se encontrem na área dos aeroportos, dos aeródromos ou das aerogares, incluindo nos parques de estacionamento, podendo os mesmos ser objecto de retenção até integral pagamento das quantias em dívida ou até decisão judicial."
+  },
+  "176497053": {
+   "fragment_id": "176496964",
+   "type": 11,
+   "heading": "Artigo 31.º — Esclarecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Esclarecimentos\n\n1 - Os titulares das licenças, o seu pessoal e os comandantes das aeronaves ou seus representantes devem prestar à entidade gestora todos os esclarecimentos necessários ao processamento e cobrança das taxas, sob a forma que lhes for indicada pelos funcionários competentes.\n\n2 - As aeronaves podem ser retidas enquanto não forem prestados os esclarecimentos exigidos nos termos do número anterior, ou não forem cumpridas as disposições relativas ao pagamento das taxas."
+  },
+  "176497054": {
+   "fragment_id": "176496965",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "176497055": {
+   "fragment_id": "176496966",
+   "type": 11,
+   "heading": "Artigo 32.º — Foro competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Foro competente\n\nSão competentes para conhecer os recursos contra todos os actos de outorga, execução, suspensão e extinção das licenças a que se refere o presente diploma os tribunais administrativos."
+  },
+  "176497056": {
+   "fragment_id": "176496967",
+   "type": 11,
+   "heading": "Artigo 33.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Disposições transitórias\n\n1 - Sem prejuízo do disposto no n.º 2, as entidades que, à data da entrada em vigor do presente diploma, estiverem autorizadas, por lei ou pela entidade gestora, a exercer uma actividade num aeródromo, aeroporto ou aerogare serão automaticamente licenciadas para utilização do domínio público aeroportuário no aeródromo, aeroporto ou aerogare em causa, para o respectivo exercício, até ao termo legal da autorização existente ou pelo prazo de quatro anos, caso a autorização existente não tenha termo ou tenha duração superior.\n\n2 - As entidades licenciadas devem requerer o título de licença no prazo de 30 dias a contar da data de entrada em vigor deste diploma.\n\n3 - No prazo de um ano a contar da data de publicação do presente diploma, as entidades referidas no n.º 1 devem ter licenças para o uso privativo ou para o exercício da respectiva actividade, nos termos definidos neste diploma, sob pena de caducidade das respectivas autorizações ou licenciamentos inerentes a partir dessa data.\n\n4 - O disposto no n.º 1 não dispensa o pagamento das taxas que forem devidas pela licença referida no n.º 2.\n\n5 - Os quantitativos das taxas actualmente praticadas mantêm-se em vigor até à sua substituição, nos termos previstos no presente diploma.\n\n6 - O presente diploma será regulamentado por decreto regulamentar regional."
+  },
+  "176497058": {
+   "fragment_id": "176496935",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípio geral",
+   "in_force_from": "2017-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 49.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Princípio geral\n\n1 - A ocupação de terrenos, edificações ou outras instalações e o exercício de qualquer actividade nas áreas dos aeroportos, aeródromos e das aerogares abrangidos pelo presente diploma faz-se nos termos das normas aplicáveis à utilização do domínio público, sem prejuízo de disposição especial em contrário, e carecem de licença do membro do Governo Regional com competência no sector do transporte aéreo.\n\n2 - A competência para a outorga da licença referida no número anterior pode ser delegada.\n\n> Alterado pelo/a Artigo 49.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01"
+  },
+  "176497059": {
+   "fragment_id": "176496937",
+   "type": 11,
+   "heading": "Artigo 6.º — Dispensa de concurso",
+   "in_force_from": "2017-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 49.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Dispensa de concurso\n\n1 - A concessão de licença poderá ser dispensada de concurso público, designadamente quando:\n\na) O último concurso aberto para o mesmo fim tenha ficado deserto ou tenha resultado numa não adjudicação, nos termos da legislação aplicável;\n\nb) Os terrenos ou instalações a licenciar se destinem a actividades que sejam complementares ou extensões de outra já objecto de licenciamento anterior;\n\nc) Os terrenos ou instalações a licenciar se destinem a actividades que já estejam a ser exercidas e se mostre inconveniente para a exploração comercial do respectivo aeródromo, aeroporto ou aerogare a existência, em simultâneo, de várias entidades licenciadas para o mesmo fim.\n\n2 - A dispensa de concurso carece da autorização do membro do Governo Regional responsável pelo sector do transportes aéreos, mediante proposta fundamentada da entidade gestora.\n\n3 - A competência para a autorização referida no número anterior pode ser delegada.\n\n> Alterado pelo/a Artigo 49.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01"
+  },
+  "176497060": {
+   "fragment_id": "176496949",
+   "type": 11,
+   "heading": "Artigo 18.º — Suspensão ou cancelamento",
+   "in_force_from": "2017-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 49.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Suspensão ou cancelamento\n\n1 - Em caso de não cumprimento de qualquer das condições das licenças por parte dos titulares, o membro do Governo Regional com competência no sector do transporte aéreo pode determinar a suspensão ou o cancelamento das mesmas.\n\n2 - Em caso de cancelamento, revertem gratuitamente para a Região Autónoma dos Açores as instalações e os bens que, por lei ou acordo, estivessem sujeitos a esse regime no termo da respectiva licença.\n\n3 - A competência para determinar a suspensão e o cancelamento da licença pode ser delegada.\n\n> Alterado pelo/a Artigo 49.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01"
+  },
+  "176497057": {
+   "fragment_id": "176496968",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 25 de Setembro de 2002.\n\nO Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 24 de Outubro de 2002.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  },
+  "176497061": {
+   "fragment_id": "176496936",
+   "type": 11,
+   "heading": "Artigo 5.º — Licenças",
+   "in_force_from": "2021-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 64.º do/a [Decreto Legislativo Regional n.º 38/2021/A - Diário da República n.º 247/2021, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2021-176412614), em vigor a partir de 2021-12-28, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Licenças\n\n1 - A outorga das licenças é, em regra, precedida de concurso público destinado a escolher as propostas mais adequadas ao interesse público da exploração aeroportuária.\n\n2 - Serão outorgadas, independentemente de concurso, as licenças referentes à ocupação ou à utilização de:\n\na) Terrenos e instalações destinados ao exercício de actividades de assistência em escala, salvo nos casos previstos no artigo 27.º do Decreto-Lei n.º 275/99, de 23 de Julho;\n\nb) Terrenos e instalações destinados a serviços públicos;\n\nc) Terrenos e instalações destinados a entidades que exerçam actividades de interesse público;\n\nd) Locais destinados à instalação de máquinas automáticas e para outras actividades e equipamentos similares.\n\ne) Locais destinados à colocação de publicidade, independentemente do seu suporte.\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto Legislativo Regional n.º 38/2021/A - Diário da República n.º 247/2021, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2021-176412614), em vigor a partir de 2021-12-28, produz efeitos a partir de 2022-01-01"
+  }
+ }
+}

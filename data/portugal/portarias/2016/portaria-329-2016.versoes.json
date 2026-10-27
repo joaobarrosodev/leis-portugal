@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105578483:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-902785151",
+ "dre_path": "/dr/detalhe/portaria/329-2016-105578483",
+ "source_lastmod": "2025-01-08",
+ "versions": [
+  {
+   "date": "2016-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "902787704",
+    "902787705",
+    "902787706",
+    "902787707",
+    "902787708",
+    "902787709",
+    "902787710",
+    "902787711",
+    "902787713"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:105762367:por",
+     "title": "Declaração de Retificação n.º 1/2017",
+     "published": "2017-01-16",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/1-2017-105762367",
+     "date": "2016-12-21"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "902787704": {
+   "fragment_id": "902785152",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 329/2016\n\nde 20 de dezembro\n\nOs analgésicos estupefacientes, nomeadamente os medicamentos opióides, são comparticipáveis pelo escalão C (37 %) de comparticipação no regime geral em ambulatório.\n\nTratando-se de medicamentos indispensáveis ao tratamento da dor crónica não oncológica moderada a forte cuja prevalência, por motivos de saúde pública, importa reduzir, é necessário facilitar o acesso dos doentes a esta terapêutica, promovendo a equidade e universalidade do tratamento da dor, e contribuir para uma melhoria significativa da qualidade de vida dos doentes.\n\nA prescrição e utilização destes fármacos deverá ser feita em consonância com as «Recomendações para a utilização dos medicamentos opióides fortes na dor crónica não oncológica», aprovadas pela Direção-Geral da Saúde.\n\nAssim, considera-se existir interesse público na atribuição da comparticipação pelo escalão A (90 %) dos medicamentos opióides em regime de ambulatório, quando prescritos para tratamento da dor crónica não oncológica moderada a forte.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 97/2015, de 1 de junho, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "902787705": {
+   "fragment_id": "902785153",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nOs medicamentos destinados ao tratamento da dor crónica não oncológica moderada a forte são comparticipados pelo escalão A (90 %), nos termos da presente portaria."
+  },
+  "902787706": {
+   "fragment_id": "902785154",
+   "type": 11,
+   "heading": "Artigo 2.º — Medicamentos abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Medicamentos abrangidos\n\nOs medicamentos e respetivas apresentações que beneficiam do regime excecional de comparticipação, previsto no artigo 1.º da presente Portaria dependem de aprovação pelo membro do Governo responsável pela área da saúde e constam de Deliberação do Conselho Diretivo do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), publicada no respetivo sítio eletrónico."
+  },
+  "902787707": {
+   "fragment_id": "902785155",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de dispensa\n\n1 - O doente deve estar referenciado numa Unidade de Dor ou, na sua ausência, numa Unidade de Cuidados Paliativos pertencente à Rede Nacional de Cuidados Continuados Integrados, devendo ser reavaliado com uma periodicidade não superior a um ano.\n\n2 - A aplicabilidade deste regime excecional depende da menção expressa à presente Portaria, aposta na receita destes medicamentos, pelo médico prescritor, que atesta ainda a verificação do referido no n.º 1."
+  },
+  "902787708": {
+   "fragment_id": "902785156",
+   "type": 11,
+   "heading": "Artigo 4.º — Monitorização e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Monitorização e acompanhamento\n\n1 - No âmbito do processo de monitorização da prescrição e consumo de medicamentos opióides fortes no tratamento da dor crónica não oncológica moderada a forte, as Unidades de Dor e as Unidades de Cuidados Paliativos pertencentes à Rede Nacional de Cuidados Continuados Integrados comunicam, anualmente, ao INFARMED, I. P., o número de doentes referenciados, discriminando o número de primeiras e segundas consultas.\n\n2 - O regime fixado nesta Portaria pode ser anualmente revisto, se tal se justificar, cabendo ao INFARMED, I. P., promover a sua revisão, ouvida a Comissão de Acompanhamento do Plano Nacional de Luta contra a Dor da Direção-Geral da Saúde."
+  },
+  "902787709": {
+   "fragment_id": "902785157",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposição transitória\n\nPara efeitos do disposto no artigo 3.º são, desde já, considerados abrangidos pelo regime excecional de comparticipação, previsto na presente Portaria, os medicamentos constantes do Anexo."
+  },
+  "902787710": {
+   "fragment_id": "902785158",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogado o Despacho n.º 10280/2008, de 11 de março, na redação dada pelos Despachos n.os 22187/2008, 30993/2008, 3286/2009, 6230/2009, 12220/2009, 5726/2010, 12458/2010, 5825/2011 e 251/2014, publicados no Diário da República, 2.ª série, n.os 165, de 27 de agosto, 233, de 12 de dezembro, 17, de 26 de janeiro, 39, de 25 de fevereiro, 98, de 21 de maio, 62, de 30 de março, 148, de 2 de agosto, 66, de 4 de abril, e 4, de 7 de janeiro, respetivamente."
+  },
+  "902787711": {
+   "fragment_id": "902785159",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "902787713": {
+   "fragment_id": "902785161",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 1.º)\n\nNos termos da presente portaria, são comparticipados pelo escalão A (90 %) os medicamentos infra, quando prescritos para o tratamento da dor crónica não oncológica moderada a forte:\n\nBuprenorfina\n\nFentanilo\n\nHidromorfona\n\nTapentadol\n\nMorfina\n\nOxicodona\n\nOxicodona + Naloxona"
+  }
+ }
+}

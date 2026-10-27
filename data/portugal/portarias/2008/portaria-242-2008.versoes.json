@@ -1,0 +1,94 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:246570:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-173054129",
+ "dre_path": "/dr/detalhe/portaria/242-2008-246570",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-03-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "173023736"
+   ]
+  },
+  {
+   "date": "2012-05-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178079:por",
+     "title": "Portaria n.º 172/2012",
+     "published": "2012-05-24",
+     "dre_path": "/dr/detalhe/portaria/172-2012-178079"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "173023735",
+    "173023730"
+   ]
+  },
+  {
+   "date": "2021-10-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:173054075:por",
+     "title": "Portaria n.º 213/2021",
+     "published": "2021-10-19",
+     "dre_path": "/dr/detalhe/portaria/213-2021-173054075"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "173023736",
+    "173023737"
+   ]
+  }
+ ],
+ "fragments": {
+  "173023736": {
+   "fragment_id": "173054130",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-10-20",
+   "changed_by": [],
+   "markdown": "Portaria n.º 242/2008\n\nde 18 de Março\n\nO Decreto-Lei n.º 45/2008, de 11 de Março, assegura a execução e garante o cumprimento, na ordem jurídica nacional, das obrigações decorrentes para o Estado Português do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1013\" title=\"Link para Regulamento da Comunidade Europeia\">1013/2006</a>, do Parlamento Europeu e do Conselho, de 14 de Junho, relativo à transferência de resíduos.\n\nNos termos do n.º 1 do artigo 12.º do referido decreto-lei e do n.º 2 do artigo 59.º do Decreto-Lei n.º 178/2006, de 5 de Setembro, que estabelece o regime geral da gestão de resíduos, a apreciação dos procedimentos de notificação de transferência de resíduos está sujeita ao pagamento de taxas, a cobrar pela Agência Portuguesa do Ambiente (APA) ao notificador, cujos montantes são fixados por portaria do membro do Governo responsável pela área do ambiente.\n\nAssim:\n\nAo abrigo do n.º 1 do artigo 12.º do Decreto-Lei n.º 45/2008, de 11 de Março, e do n.º 2 do artigo 59.º do Decreto-Lei n.º 178/2006, de 5 de Setembro, manda o Governo, pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, o seguinte:\n\n1.º A apreciação dos procedimentos relativos à notificação de transferência de resíduos que se destine a importação, exportação ou trânsito, no âmbito do Decreto-Lei n.º 45/2008, de 11 de Março, está sujeita ao pagamento de taxas, a cobrar pela Agência Portuguesa do Ambiente (APA), nos seguintes termos:\n\na) A apreciação dos procedimentos relativos à notificação de trânsito está sujeita ao pagamento de uma taxa fixa no montante de (euro) 500;\n\nb) A apreciação dos procedimentos relativos à notificação de transferência de resíduos está sujeita ao pagamento de uma taxa calculada com base na aplicação da fórmula constante do anexo à presente portaria, da qual faz parte integrante.\n\n2.º O pagamento do valor das taxas referidas nas alíneas a) e b) do número anterior é devido no prazo de 15 dias a contar da data de emissão pela APA da competente guia de receita do Estado.\n\n3.º A falta de pagamento das taxas, no prazo referido no número anterior, determina a extinção do procedimento, nos termos gerais do Código do Procedimento Administrativo, devendo a APA notificar deste facto o respectivo notificador.\n\n4.º Por despacho do presidente da APA podem ser estabelecidas modalidades de pagamento através de meios electrónicos.\n\n5.º Os valores a cobrar no âmbito desta portaria estão isentos do IVA, nos termos do n.º 2 do artigo 2.º do Código do Imposto sobre o Valor Acrescentado.\n\n6.º O valor das taxas devidas nos termos da presente portaria é automaticamente actualizado, a partir de 1 de Março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação e publicado pelo Instituto Nacional de Estatística.\n\n7.º É revogada a Portaria n.º 830/2005, de 16 de Setembro.\n\n8.º A presente portaria entra em vigor no dia seguinte ao da sua publicação, sendo apenas aplicável a processos apresentados na APA em data posterior à da entrada em vigor da mesma.\n\n> Nota: [Artigo 8.º, Portaria n.º 213/2021 - Diário da República n.º 203/2021, Série I de 2021-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-2021-173054075) A revogação apenas é aplicável a procedimentos iniciados em data posterior à da sua entrada em vigor."
+  },
+  "173023735": {
+   "fragment_id": "173054130",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2012-05-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 172/2012 - Diário da República n.º 101/2012, Série I de 2012-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/172-2012-178079), em vigor a partir de 2012-05-25"
+   ],
+   "markdown": "Portaria n.º 242/2008\n\nde 18 de Março\n\nO Decreto-Lei n.º 45/2008, de 11 de Março, assegura a execução e garante o cumprimento, na ordem jurídica nacional, das obrigações decorrentes para o Estado Português do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1013\" title=\"Link para Regulamento da Comunidade Europeia\">1013/2006</a>, do Parlamento Europeu e do Conselho, de 14 de Junho, relativo à transferência de resíduos.\n\nNos termos do n.º 1 do artigo 12.º do referido decreto-lei e do n.º 2 do artigo 59.º do Decreto-Lei n.º 178/2006, de 5 de Setembro, que estabelece o regime geral da gestão de resíduos, a apreciação dos procedimentos de notificação de transferência de resíduos está sujeita ao pagamento de taxas, a cobrar pela Agência Portuguesa do Ambiente (APA) ao notificador, cujos montantes são fixados por portaria do membro do Governo responsável pela área do ambiente.\n\nAssim:\n\nAo abrigo do n.º 1 do artigo 12.º do Decreto-Lei n.º 45/2008, de 11 de Março, e do n.º 2 do artigo 59.º do Decreto-Lei n.º 178/2006, de 5 de Setembro, manda o Governo, pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, o seguinte:\n\n1.º A apreciação dos procedimentos relativos à notificação de transferência de resíduos que se destine a importação, exportação ou trânsito, no âmbito do Decreto-Lei n.º 45/2008, de 11 de Março, está sujeita ao pagamento de taxas, a cobrar pela Agência Portuguesa do Ambiente (APA), nos seguintes termos:\n\na) A apreciação dos procedimentos relativos à notificação de trânsito está sujeita ao pagamento de uma taxa fixa no montante de (euro) 500;\n\nb) A apreciação dos procedimentos relativos à notificação de transferência de resíduos está sujeita ao pagamento de uma taxa calculada com base na aplicação da fórmula constante do anexo à presente portaria, da qual faz parte integrante.\n\n2.º O pagamento do valor das taxas referidas nas alíneas a) e b) do número anterior é devido no prazo de 15 dias a contar da data de emissão pela APA da competente guia de receita do Estado.\n\n3.º A falta de pagamento das taxas, no prazo referido no número anterior, determina a extinção do procedimento, nos termos gerais do Código do Procedimento Administrativo, devendo a APA notificar deste facto o respectivo notificador.\n\n4.º Por despacho do presidente da APA podem ser estabelecidas modalidades de pagamento através de meios electrónicos.\n\n5.º Os valores a cobrar no âmbito desta portaria estão isentos do IVA, nos termos do n.º 2 do artigo 2.º do Código do Imposto sobre o Valor Acrescentado.\n\n6.º O valor das taxas devidas nos termos da presente portaria é automaticamente actualizado, a partir de 1 de Março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação e publicado pelo Instituto Nacional de Estatística.\n\n7.º É revogada a Portaria n.º 830/2005, de 16 de Setembro.\n\n8.º A presente portaria entra em vigor no dia seguinte ao da sua publicação, sendo apenas aplicável a processos apresentados na APA em data posterior à da entrada em vigor da mesma.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 172/2012 - Diário da República n.º 101/2012, Série I de 2012-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/172-2012-178079), em vigor a partir de 2012-05-25"
+  },
+  "173023730": {
+   "fragment_id": "173054131",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 11 de Março de 2008.\n\nANEXO\n\nFórmula de determinação da taxa prevista na alínea b) do n.º 1.º\n\nAs taxas relativas à apreciação dos procedimentos relativos à notificação de transferência de resíduos, para importação ou exportação, são calculadas com base na seguinte fórmula:\n\nT= F + (VM x NM)\n\nem que:\n\nT = taxa a pagar pelo notificador;\n\nF = montante fixo de (euro) 500;\n\nVM = valor fixo de (euro) 50 por movimento;\n\nNM = número total de movimentos previsto na notific"
+  },
+  "173023737": {
+   "fragment_id": "173054131",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Portaria n.º 213/2021 - Diário da República n.º 203/2021, Série I de 2021-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-2021-173054075), em vigor a partir de 2021-10-20"
+   ],
+   "markdown": "O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 11 de Março de 2008.\n\nANEXO\n\nFórmula de determinação da taxa prevista na alínea b) do n.º 1.º\n\nAs taxas relativas à apreciação dos procedimentos relativos à notificação de transferência de resíduos, para importação ou exportação, são calculadas com base na seguinte fórmula:\n\nT= F + (VM x NM)\n\nem que:\n\nT = taxa a pagar pelo notificador;\n\nF = montante fixo de (euro) 500;\n\nVM = valor fixo de (euro) 50 por movimento;\n\nNM = número total de movimentos previsto na notific\n\n> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 213/2021 - Diário da República n.º 203/2021, Série I de 2021-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/213-2021-173054075), em vigor a partir de 2021-10-20"
+  }
+ }
+}

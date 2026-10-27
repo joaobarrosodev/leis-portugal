@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:345131:por
+title: Lei Orgânica n.º 2/99
+short_title: null
+summary: Primeira alteração à Lei n.º 46/98, de 7 de Agosto (lei quadro das leis de programação militar), no sentido de acomodar
+  a locação e outros contratos de investimento no âmbito do equipamento das Forças Armadas
+jurisdiction: portugal
+territory: null
+document_type: lei-organica
+document_type_label: Lei Orgânica
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 2/99
+official_date: null
+publication_date: '1999-08-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/1999, Série I-A de 1999-08-03
+  number: '179'
+  series: I
+  supplement: null
+  pages: 4993 - 4993
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/179a00/49934993.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/leiorg/2/1999/08/03/p/dre/pt/html
+  oj: null
+  dre: '345131'
+  dre_path: /dr/detalhe/lei-organica/2-1999-345131
+  internal: pt:dre:345131:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-1999-345131
+  metadata_url: https://data.dre.pt/eli/leiorg/2/1999/08/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-1999-345131
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:00:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2c6dcd604a653a72fa7cc61a005bca2e50b4723e3e250fef41daad8c894d62d8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Contrato de Investimento
+- Equipamento
+- Forças Armadas
+- Investimento Público
+- Lei Quadro
+- Locação Financeira
+- Orçamento
+- Programação Militar
+relationships:
+- type: amended_by
+  target: pt:dre:604216:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:435240:por
+  label: null
+  source: http://data.dre.pt/eli/lei/46/1998/08/07/p/dre
+- type: cites
+  target: pt:dre:437426:por
+  label: null
+  source: http://data.dre.pt/eli/lei/50/1998/08/17/p/dre
+- type: repealed_by
+  target: pt:dre:604216:por
+  label: "Revogada pela LEI ORG.5/2001.2001.11.14.AR DR.IS-A [264]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/5-2001-604216
+  date: '2001-11-14'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:00:21Z'
+  warnings: []
+  errors: []
+---
+
+# Lei Orgânica n.º 2/99
+
+de 3 de Agosto
+
+Primeira alteração à [Lei n.º 46/98](https://diariodarepublica.pt/dr/detalhe/lei/46-1998-435240), de 7 de Agosto (lei quadro das leis de programação militar), no sentido de acomodar a locação e outros contratos de investimento no âmbito do equipamento das Forças Armadas.
+
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, a lei orgânica seguinte:
+
+###### Artigo 1.º — Objecto
+
+São aditados à [Lei n.º 46/98](https://diariodarepublica.pt/dr/detalhe/lei/46-1998-435240), de 7 de Agosto, os artigos 1.º-A, 1.º-B e 1.º-C, com a seguinte redacção:
+
+«Artigo 1.º-A
+
+Contratos de investimento público
+
+1 - Os actos de investimento público previstos no n.º 1 do artigo anterior podem ser concretizados por locação sob qualquer das suas formas contratuais, quando tal se mostrar justificado pelo interesse nacional, de modo a permitir a dilatação no tempo da satisfação do correspondente encargo financeiro, sem prejuízo da normal inscrição das prestações anuais no mapa que contém os programas da lei de programação militar.
+
+2 - Os contratos previstos no número anterior podem integrar o serviço de manutenção e devem prever a desactivação dos bens que são o seu objecto no final da respectiva vigência.
+
+3 - Os contratos previstos no n.º 1 deste artigo não podem, sob pena de nulidade, conter cláusulas que, directa ou indirectamente, imponham limitações ao uso dos bens locados ou que permitam ao locador ter acesso a bens ou a documentos susceptíveis de pôr em risco a segurança nacional, estando este obrigado a renunciar expressamente aos direitos que a lei eventualmente lhe confira a esse respeito.
+
+Artigo 1.º-B
+
+Programação de compromissos
+
+1 - A realização de investimentos sob a forma de contratos de locação previstos no artigo anterior implica a fixação e aprovação prévia de um plano plurianual de pagamentos.
+
+2 - O plano plurianual deve estabelecer o prazo de execução do contrato e discriminar os encargos financeiros a assumir em cada ano económico.
+
+Artigo 1.º-C
+
+Limites orçamentais
+
+1 - Anualmente, no Orçamento do Estado, será fixado o montante global máximo de autorização financeira ao Governo para satisfação de encargos com as prestações a liquidar, referentes a contratos de investimento público sob a forma de locação.
+
+2 - O montante global máximo referido no número anterior não poderá, em qualquer caso, ultrapassar 20% do total do investimento a realizar em programas da lei de programação militar com execução nesse ano.
+
+3 - O Governo enviará anualmente à Assembleia da República um relatório até ao fim de Março, donde constem detalhadamente os contratos efectuados no ano anterior e as responsabilidades futuras delas resultantes, bem como toda a informação necessária ao controlo da execução destas normas.»
+
+###### Artigo 2.º — Impacte anual no saldo global do sector público administrativo
+
+1 - A despesa pública anual e o correspondente impacte no saldo global do sector público administrativo respeitarão as regras da contabilidade nacional estabelecidas para o registo contabilístico dos contratos de locação financeira e de locação operacional.
+
+2 - Nos contratos de locação financeira, o impacte no saldo global do sector público administrativo corresponderá, no ano da celebração do contrato, ao valor integral de aquisição do equipamento e, durante os restantes anos da vida do mesmo, à componente de juros das rendas pagas.
+
+3 - Nos contratos de locação operacional, o impacte no saldo global do sector público administrativo corresponderá ao valor anual das rendas pagas.
+
+###### Artigo 3.º — Responsabilidades contingentes decorrentes de cláusulas penais
+
+No Orçamento do Estado de cada ano a dotação provisional do Ministério das Finanças será devidamente dotada por forma a suportar os pagamentos respeitantes a responsabilidades contingentes resultantes do accionamento de cláusulas penais contra o Estado eventualmente incluídas nos contratos de locação referidos no n.º 3 do artigo 2.º
+
+###### Artigo 4.º — Disposição transitória
+
+Para o ano de 1999, o limite máximo de rendas com locação nos termos do n.º 1 do artigo 1.º-C da [Lei n.º 46/98](https://diariodarepublica.pt/dr/detalhe/lei/46-1998-435240), de 7 de Agosto, é de 20% dos pagamentos constantes da lei de programação militar, para esse ano, previstos na [Lei n.º 50/98](https://diariodarepublica.pt/dr/detalhe/lei/50-1998-437426), de 17 de Agosto.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente lei entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovada em 17 de Junho de 1999.
+
+O Presidente da Assembleia da República, António de Almeida Santos.
+
+Promulgada em Ponta Delgada, Açores, em 20 de Julho de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendada em 22 de Julho de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

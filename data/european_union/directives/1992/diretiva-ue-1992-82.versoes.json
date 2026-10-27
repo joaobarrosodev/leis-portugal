@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0082:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0082-19950120",
+ "dre_path": null,
+ "source_lastmod": "1995-01-20",
+ "versions": [
+  {
+   "date": "1992-10-31",
+   "future": false,
+   "celex": "31992L0082",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c1cfb1d34b27f5b0",
+    "3ff6883be3ed0c53",
+    "42b3d270317bd17f",
+    "fe1d06ca1259c101",
+    "247d7b9ab1b11a1b",
+    "3fa814c82fa4abcb",
+    "4bcbe6ef776c8016",
+    "2d10834d0f19b662",
+    "b4726301724dd1b5",
+    "3b32614dc413f5f7",
+    "318ee89c35f11be7",
+    "ea139536f46bea0a",
+    "d5fb6cd8fac9a4bb",
+    "f7f095b540120ba4"
+   ]
+  }
+ ],
+ "fragments": {
+  "c1cfb1d34b27f5b0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/82/CEE do Conselho, de 19 de Outubro de 1992, relativa à aproximação das taxas do imposto especial sobre o consumo de óleos minerais** *Jornal Oficial nº L 316 de 31/10/1992 p. 0019 - 0020 Edição especial finlandesa: Capítulo 9 Fascículo 2 p. 0098 Edição especial sueca: Capítulo 9 Fascículo 2 p. 0098*\n\nDIRECTIVA 92/82/CEE DO CONSELHO de 19 de Outubro de 1992 relativa à aproximação das taxas do imposto especial sobre o consumo de óleos minerais\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 99o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Directiva 92/12/CEE (4) fixa as normas do regime geral dos produtos sujeitos a impostos especiais de consumo;\n\nConsiderando que a Directiva 92/81/CEE (5) estabelece disposições relativas às estruturas do imposto especial sobre o consumo de óleos minerais;\n\nConsiderando que, para o mercado interno poder existir a partir de 1 de Janeiro de 1993, os Estados-membros têm de aplicar taxas mínimas ao imposto especial sobre estes produtos a partir dessa data;\n\nConsiderando que a taxa do imposto especial sobre os óleos minerais deve ser específica em relação a uma quantidade fixa dos produtos sujeitos a imposto;\n\nConsiderando que se poderá autorizar que certos Estados-membros apliquem taxas reduzidas aos produtos consumidos em determinadas regiões do seu território;\n\nConsiderando que é necessário que as taxas fixadas na presente directiva sejam revistas periodicamente com base num relatório da Comissão que tenha em conta todos os factores relevantes;\n\nConsiderando que se deve introduzir um mecanismo que permita a conversão em moeda nacional dos montantes específicos expressos em ecus,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3ff6883be3ed0c53": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA partir de 1 de Janeiro de 1993, o mais tardar, as taxas do imposto especial sobre o consumo dos óleos minerais aplicadas pelos Estados-membros não deverão ser inferiores às taxas mínimas previstas na presente directiva."
+  },
+  "42b3d270317bd17f": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. O disposto na presente directiva aplica-se aos seguintes óleos minerais:\n\n- gasolina com chumbo abrangida pelos códigos NC 2710 00 31 e 2710 00 35,\n\n- gasolina sem chumbo abrangida pelo código NC 2710 00 33,\n\n- gasóleo abrangido pelo código NC 2710 00 69,\n\n- fuelóleos abrangidos pelo código NC 2710 00 79,\n\n- gás de petróleo liquefeito abrangido pelos códigos NC 2711 12 11 a 2711 19 00,\n\n- metano abrangido pelo código NC 2711 29 00,\n\n- querosene abrangido pelos códigos NC 2710 00 51 e 2710 00 55.\n\n2. Os códigos da Nomenclatura Combinada referidos no no 1 são os que constem da versão da Nomenclatura Combinada vigente à data da aprovação da presente directiva."
+  },
+  "fe1d06ca1259c101": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nA partir de 1 de Janeiro de 1993, a taxa mínima do imposto especial sobre o consumo de gasolina com chumbo será fixada em 337 ecus por 1 000 litros, excepto no Luxemburgo, onde, entre 1 de Janeiro de 1993 e 31 de Dezembro de 1994, vigorará a taxa mínima de 292 ecus por 1 000 litros."
+  },
+  "247d7b9ab1b11a1b": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nA partir de 1 de Janeiro de 1993, a taxa mínima do imposto especial sobre o consumo de gasolina sem chumbo será fixada em 287 ecus por 1 000 litros, excepto no Luxemburgo, onde, entre 1 de Janeiro de 1993 e 31 de Dezembro de 1994, vigorará a taxa mínima de 242 ecus por 1 000 litros, desde que a taxa do imposto se situe sempre abaixo da fixada para a gasolina com chumbo."
+  },
+  "3fa814c82fa4abcb": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. A partir de 1 de Janeiro de 1993, a taxa mínima do imposto especial sobre o consumo de gasóleo será fixada em 245 ecus por 1 000 litros, excepto no Luxemburgo e na Grécia, onde, entre 1 de Janeiro de 1993 e 31 de Dezembro de 1994, vigorará a taxa mínima de 195 ecus por 1 000 litros.\n\n2. A partir de 1 de Janeiro de 1993, a taxa mínima do imposto especial sobre o consumo utilizado para os fins previstos no no 3 do artigo 8o da Directiva 92/81/CEE será fixada em 18 ecus por 1 000 litros.\n\n3. A partir de 1 de Janeiro de 1993, a taxa mínima do imposto especial sobre o consumo de gasóleo de aquecimento será fixada em 18 ecus por 1 000 litros.\n\nOs Estados-membros que em 1 de Janeiro de 1991 não aplicavam um imposto especial ao gasóleo de aquecimento estão autorizados a continuar a aplicar uma taxa zero, desde que apliquem uma taxa de controlo de 5 ecus por 1 000 litros a partir de 1 de Janeiro de 1993. Esta taxa será aumentada para 10 ecus por 1 000 litros em 1 de Janeiro de 1995, se o Conselho, deliberando por unanimidade com base num relatório da Comissão, assim o decidir, após ter constatado que o nível da taxa é insuficiente para evitar problemas de distorção no comércio entre os Estados-membros."
+  },
+  "4bcbe6ef776c8016": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nA partir de 1 de 1993, a taxa mínima do imposto especial sobre o consumo dos fuelóleos será fixada em 13 ecus por 1 000 quilogramas."
+  },
+  "2d10834d0f19b662": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. A partir de 1 de Janeiro de 1993, a taxa mínima do imposto especial sobre o consumo do gás de petróleo liquefeito e do metano utilizados como carburante será fixada em 100 ecus por 1 000 quilogramas.\n\n2. A partir de 1 de Janeiro de 1993, a taxa mínima do imposto especial sobre o consumo do gás de petróleo liquefeito e do metano utilizados para os fins previstos no no 3 do artigo 8o da Directiva 92/81/CEE será fixada em 36 ecus por 1 000 quilogramas.\n\n3. A partir de 1 de Janeiro de 1993, a taxa mínima do imposto especial sobre o consumo do gás de petróleo liquefeito e do metano utilizados no aquecimento será fixada em 0 ecu por 1 000 quilogramas."
+  },
+  "b4726301724dd1b5": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. A partir de 1 de Janeiro de 1993, a taxa mínima do imposto especial sobre o consumo do querosene utilizado como carburante será fixada em 245 ecus por 1 000 litros.\n\n2. A partir de 1 de Janeiro de 1993, a taxa mínima do imposto especial sobre o consumo do querosene utilizado para os fins previstos no no 3 do artigo 8o da Directiva 92/81/CEE será fixada em 18 ecus por 1 000 litros.\n\n3. A partir de 1 de Janeiro de 1993, a taxa mínima do impostos especial sobre o consumo do querosene utilizado no aquecimento será fixada em 0 ecu por 1 000 litros."
+  },
+  "3b32614dc413f5f7": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. A República Portuguesa poderá aplicar taxas do imposto especial de consumo aos óleos minerais consumidos na Região Autónoma dos Açores inferiores às taxas mínimas estabelecidas na presente directiva, a fim de compensar os custos de transporte incorridos em consequência da insularidade e dispersão daquela região.\n\n2. A República Helénica poderá aplicar taxas do imposto especial de consumo inferiores, no máximo, em 22 ecus às taxas mínimas fixadas na presente directiva ao gasóleo e à gasolina consumidos nos distritos de Lesbos, Quíos, Samos, do Dodecaneso e das Cíclades e nas seguintes ilhas do mar Egeu: Tassos, Espórades Setentrinoais, Samotrácia e Ésquiros."
+  },
+  "318ee89c35f11be7": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nDe dois em dois anos e, pela primeira vez, em 31 de Dezembro de 1994, o mais tardar, o Conselho analisará, com base num relatório e, sempre que se justifique, numa proposta da Comissão, as taxas do imposto fixadas pela presente directiva e, deliberando por unanimidade, após consulta ao Parlamento Europeu, aprovará as medidas necessárias. O relatório da Comissão e a análise do Conselho tomarão em conta o bom funcionamento do mercado interno, o valor real das taxas do imposto e os objectivos gerais do Tratado."
+  },
+  "ea139536f46bea0a": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Os valores em moeda nacional correspondentes ao valor em ecus dos impostos especiais aplicáveis serão fixados uma vez por ano. As taxas aplicáveis serão calculadas no primeiro dia útil de Outubro e publicadas no Jornal Oficial das Comunidades Europeias, produzindo efeitos a partir de 1 de Janeiro do ano civil seguinte.\n\n2. Os Estados-membros poderão manter os montantes dos impostos especiais que estiverem em vigor no momento da adaptação anual prevista no no 1 se a conversão dos montantes dos impostos especiais expressos em ecus levar a um aumento do imposto expresso em moeda nacional inferior a 5 % ou a 5 ecus, consoante o mais baixo destes dois valores."
+  },
+  "d5fb6cd8fac9a4bb": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Os Estados-membros porão em vigor as disposições necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1992. Do facto informarão imediatamente a Comissão.\n\nAs disposições aprovadas pelos Estados-membros deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são da responsabilidade dos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão todas as disposições de direito interno que aprovarem no domínio regido pela presente directiva."
+  },
+  "f7f095b540120ba4": {
+   "fragment_id": "Artigo 13o — Os Estados-membros são os destinatários da presente directiva. Feito no Luxemburgo, em 19 de Outubro de 1992. Pelo Conselho",
+   "type": "artigo",
+   "heading": "Artigo 13o — Os Estados-membros são os destinatários da presente directiva. Feito no Luxemburgo, em 19 de Outubro de 1992. Pelo Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o — Os Estados-membros são os destinatários da presente directiva. Feito no Luxemburgo, em 19 de Outubro de 1992. Pelo Conselho\n\nO Presidente\n\nJ. COPE\n\n(1) JO no C 16 de 23. 1. 1990, p. 10. (2) JO no C 183 de 15. 7. 1991, p. 290. (3) JO no C 225 de 10. 9. 1991, p. 54. (4) JO no L 76 de 23. 3. 1992, p. 1. (5) Ver página 12 do presente Jornal Oficial."
+  }
+ }
+}

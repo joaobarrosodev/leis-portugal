@@ -1,0 +1,226 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:204552604:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-211502410",
+ "dre_path": "/dr/detalhe/decreto-lei/84-d-2022-204552604",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-12-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "211525478",
+    "211525479",
+    "211525480",
+    "211525481",
+    "211525482",
+    "211525483",
+    "211525484",
+    "211525485",
+    "211525486",
+    "211525487",
+    "211525488",
+    "211525489"
+   ]
+  },
+  {
+   "date": "2023-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211443515:por",
+     "title": "Decreto-Lei n.º 23/2023",
+     "published": "2023-04-05",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2023-211443515"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "211525478",
+    "211525479",
+    "211525491",
+    "211525481",
+    "211525482",
+    "211525483",
+    "211525484",
+    "211525485",
+    "211525486",
+    "211525487",
+    "211525492",
+    "211525489",
+    "211525490"
+   ]
+  },
+  {
+   "date": "2023-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221278508:por",
+     "title": "Decreto-Lei n.º 79-A/2023",
+     "published": "2023-09-04",
+     "dre_path": "/dr/detalhe/decreto-lei/79-a-2023-221278508"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "211525478",
+    "211525479",
+    "211525491",
+    "221314402",
+    "211525482",
+    "211525483",
+    "211525484",
+    "211525485",
+    "211525486",
+    "211525487",
+    "211525492",
+    "211525489",
+    "211525490"
+   ]
+  }
+ ],
+ "fragments": {
+  "211525478": {
+   "fragment_id": "211502411",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 84-D/2022\n\nde 9 de dezembro\n\nSumário: Aprova a criação do regime transitório de estabilização de preços do gás por pessoas coletivas com consumos superiores a 10 000 m3.\n\nO ano de 2022 foi marcado por uma disrupção nos mercados energéticos que despoletou um contexto de inflação sem precedentes na economia da União Europeia. Este contexto extraordinário e a imprevisibilidade da sua evolução exigem um esforço nacional para a mitigação do efeito da subida dos preços dos produtos energéticos, sobretudo no que respeita ao gás natural, ao mesmo tempo que se reforçam as medidas para a aceleração da transição energética.\n\nNo sentido de proteger as famílias e os pequenos negócios dos aumentos anunciados nas tarifas de gás natural, o Governo, através do Decreto-Lei n.º 57-B/2022, de 6 de setembro, aprovou um regime excecional e temporário, permitindo a clientes finais ligados em baixa pressão com consumos anuais inferiores ou iguais a 10 000 m3 o regresso ao regime de tarifas reguladas.\n\nNo entanto, essa medida não abrangia pessoas coletivas ligadas em alta, média e baixa pressão com consumos anuais superiores a 10 000 m3, que também viram as suas faturas aumentar de forma significativa, pelo que importa agora desenhar uma medida capaz de atenuar estes aumentos.\n\nAssim, o Governo procederá a uma alocação de uma verba de 1000 milhões de euros para o Sistema Nacional de Gás, o que permite a criação de um regime transitório de estabilização de preço, reforçando, deste modo, o apoio aos clientes não abrangidos pela possibilidade da transição para o mercado regulado e contribuindo para melhorar a resiliência e competitividade das empresas consumidoras de gás.\n\nNesse sentido, o presente decreto-lei institui o regime transitório de estabilização de preço para o gás natural.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "211525479": {
+   "fragment_id": "211502412",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime transitório de estabilização de preço do gás natural para consumos realizados em 2023, através do desconto sobre o preço do gás natural, equivalente à diferença entre o preço da componente de energia, constante da fatura, e o seu valor de referência, conforme previsto no artigo 3.º do presente decreto-lei."
+  },
+  "211525480": {
+   "fragment_id": "211502413",
+   "type": 11,
+   "heading": "Artigo 2.º — Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Elegibilidade\n\n1 - São beneficiários do regime transitório de estabilização de preço as pessoas coletivas regularmente constituídas, consumidoras de gás em alta, média e baixa pressão nos pontos de entrega com consumos anuais superiores a 10 000 m3.\n\n2 - O presente decreto-lei não é aplicável:\n\na) Aos centros eletroprodutores termoelétricos correspondentes a centrais de ciclo combinado a gás natural;\n\nb) Às instalações de cogeração que, durante o período elegível, estejam ao abrigo regime de mercado, nos termos do artigo 4.º-B do Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual;\n\nc) Aos clientes fornecidos pelos comercializadores de último recurso."
+  },
+  "211525481": {
+   "fragment_id": "211502414",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime transitório de estabilização de preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime transitório de estabilização de preço\n\n1 - O montante do desconto a aplicar é calculado tendo por referência os preços de referência do MIBGAS, de acordo com a seguinte expressão:\n\nA(índice GN) = P(índice MIBGAS) - 40\n\nem que:\n\nA(índice GN) é o apoio concedido, por via do desconto a aplicar, expresso em euros por MWh;\n\nP(índice MIBGAS) é o valor do preço do gás natural do produto diário (D+1), com entrega no dia seguinte no «punto virtual de balance», correspondente à área de preço espanhola, cotados na plataforma gerida pela MIBGAS, S. A., enquanto operador do mercado ibérico de gás (MIBGÁS), expresso em euros por MWh.\n\n2 - O valor resultante da aplicação da fórmula prevista no número anterior não pode exceder o valor de 40 euros por MWh, excluindo impostos.\n\n3 - Da aplicação do desconto previsto nos números anteriores não pode resultar um preço da componente da energia a faturar pelo comercializador inferior ou igual a 30 euros por MWh.\n\n4 - O regime transitório de estabilização de preço incide sobre 80 % do consumo faturado em cada ponto de entrega elegível nos termos definidos no artigo anterior, identificado pelo respetivo Código Universal de Instalação (CUI), contabilizado no ano de 2021.\n\n5 - Nas situações em que não haja registo de consumos durante todo o ano de 2021, o regime transitório de estabilização de preço incide sobre 80 % do consumo faturado estimado em cada ponto de entrega elegível, calculado pelo produto de doze com a média mensal dos primeiros 12 meses de consumos registados anteriores a cada fatura.\n\n6 - O regime transitório está limitado à dotação total de (euro) 1 000 000 000,00.\n\n7 - A Entidade Reguladora dos Serviços Energéticos (ERSE) divulga o valor que resulta da expressão prevista no n.º 1, com periodicidade diária e com uma atualização que garanta um atraso não superior a dois dias úteis, no seu sítio na Internet.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 79-A/2023 - Diário da República n.º 171/2023, 1º Suplemento, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2023-221278508) Até à prolação do despacho a que alude o n.º 6 do presente, o regime transitório está limitado à dotação total de (euro) 1 000 000 000."
+  },
+  "211525482": {
+   "fragment_id": "211502415",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento\n\n1 - O desconto é aplicado diretamente pelos comercializadores no mês seguinte ao da faturação do respetivo consumo, uma vez realizado o pagamento da fatura pelo cliente, devendo o desconto ser expressamente identificado na fatura em que é refletido.\n\n2 - O desconto é aplicado nas faturas aos consumos que se iniciem em janeiro de 2023, até ao limite previsto no n.º 4 do artigo anterior.\n\n3 - Para efeitos dos números anteriores, os comercializadores calculam o desconto utilizando a média simples dos valores de referência diários publicados pela ERSE multiplicada pelo consumo ocorrido no período de faturação contratualmente acordado para cada CUI.\n\n4 - Os comercializadores informam, no primeiro dia útil de cada semana, o Gestor Técnico Global do Sistema Nacional de Gás (GTG) relativamente às quantidades e aos valores de desconto a aplicar à faturação emitida na semana anterior, incluindo o consumo total da sua carteira de clientes.\n\n5 - Com base na informação transmitida o GTG transfere, no prazo de 10 dias para os comercializadores, os montantes referentes ao apoio a conceder para cada ciclo de faturação identificado nos termos do número anterior.\n\n6 - O GTG comunica à ERSE, nos primeiros 10 dias do mês seguinte, os valores transferidos em cada mês com desagregação por comercializador.\n\n7 - No mesmo prazo do número anterior, os operadores da rede de distribuição (ORD) e o operador da rede de transporte (ORT) comunicam ao GTG e à ERSE os consumos agregados da carteira elegível de cada comercializador na sua rede.\n\n8 - Os comercializadores comunicam à ERSE, até 30 dias após cada trimestre, os montantes de desconto aplicados aos seus clientes em cada trimestre."
+  },
+  "211525483": {
+   "fragment_id": "211502416",
+   "type": 11,
+   "heading": "Artigo 5.º — Controlo de consumos e pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Controlo de consumos e pagamentos\n\n1 - Cabe a cada comercializador o controlo dos consumos faturados a cada cliente por ponto de entrega (CUI).\n\n2 - Sempre que não possua informação relativa aos consumos do seu cliente ocorridos no ano de 2021, o comercializador até ao dia 15 de fevereiro de 2023 e mediante autorização do cliente solicita ao Operador Logístico Mudança de Comercializador (OLMC) o acesso ao registo do ponto de entrega para obtenção da informação necessária ao controlo dos consumos, devendo o ORD e o ORT assegurar a existência desse histórico de consumos.\n\n3 - Em caso de mudança de comercializador no período de vigência do presente apoio, o novo comercializador solicita nos termos do número anterior a informação ao OLMC, que a faculta no prazo de cinco dias úteis.\n\n4 - O OLMC reporta, até ao final do primeiro trimestre do ano de 2023, a todos os comercializadores que assim o tenham solicitado os consumos dos respetivos clientes, ocorridos no ano de 2021.\n\n5 - No mesmo prazo indicado no número anterior, o OLMC informa o GTG e a ERSE dos consumos registados no ano de 2021, segregados por CUI e por cliente.\n\n6 - Para verificação indiciária do cumprimento dos consumos e pagamentos realizados ao abrigo do presente decreto-lei, a ERSE utiliza a informação prestada nos termos dos n.os 6 a 8 do artigo anterior.\n\n7 - Quando se verifiquem diferenças superiores a 10 %, entre os consumos comunicados pelo ORD ou o ORT e os comunicados pelo comercializador, o GTG, sob indicação da ERSE, suspende a transferência dos montantes solicitados pelo comercializador até à conclusão do respetivo processo de verificação.\n\n8 - Quando o GTG detete uma diferença que exceda o referido no número anterior, comunica essa ocorrência à ERSE.\n\n9 - Os clientes podem reclamar junto da ERSE sobre a aplicação do regime previsto no presente decreto-lei, sempre que tal tenha impacte no valor do desconto aplicado.\n\n10 - Os comercializadores e os seus gestores são responsáveis pelas informações fornecidas e pelos fluxos financeiros gerados no âmbito da aplicação do presente decreto-lei, sendo responsáveis por quaisquer inexatidões ou incorreções nessas declarações."
+  },
+  "211525484": {
+   "fragment_id": "211502417",
+   "type": 11,
+   "heading": "Artigo 6.º — Cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cessação\n\nO desconto concedido a cada consumidor cessa sempre que seja alcançado o consumo previsto no n.º 4 do artigo 3.º"
+  },
+  "211525485": {
+   "fragment_id": "211502418",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestor Técnico Global do Sistema Nacional de Gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestor Técnico Global do Sistema Nacional de Gás\n\n1 - Cabe ao GTG a interação com os comercializadores de forma a operacionalizar a aplicação do presente decreto-lei.\n\n2 - É da responsabilidade do GTG a transferência das verbas entregues pelo Estado para efeitos do presente decreto-lei, não podendo tais montantes ser utilizados para outros fins.\n\n3 - Para efeitos do número anterior, a verba transferida pelo Estado é depositada numa conta bancária dedicada, com separação contabilística relativamente a outras atividades exercidas pelo GTG.\n\n4 - As verbas entregues ao GTG ao abrigo do presente decreto-lei não estão sujeitas ao pagamento de impostos ou outros encargos financeiros.\n\n5 - Caso não seja esgotada a verba transferida ao abrigo do presente decreto-lei, o GTG transfere o respetivo remanescente a favor do Estado."
+  },
+  "211525486": {
+   "fragment_id": "211502419",
+   "type": 11,
+   "heading": "Artigo 8.º — Supervisão e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Supervisão e controlo\n\n1 - Os comercializadores com clientes abrangidos pelo presente decreto-lei enviam à ERSE, até 30 de junho de 2024, um relatório de auditoria elaborado por uma entidade independente que certifique o cálculo e aplicação dos descontos, bem como os montantes deduzidos às faturações dos clientes e os recebidos do GTG.\n\n2 - No mesmo prazo, o GTG envia à ERSE relatório de auditoria que certifique as transferências realizadas.\n\n3 - A ERSE pode emitir orientações vinculativas sobre os termos dos relatórios previstos nos números anteriores.\n\n4 - A ERSE pode proceder oficiosamente a ações de supervisão e controlo, bem como emitir instruções e diretivas, tendo em vista a correta aplicação do presente decreto-lei.\n\n5 - Em resultado das auditorias, os clientes e os comercializadores ficam obrigados à devolução dos montantes que tenham sido indevidamente obtidos."
+  },
+  "211525487": {
+   "fragment_id": "211502420",
+   "type": 11,
+   "heading": "Artigo 9.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime transitório\n\n1 - Durante o primeiro trimestre do ano de 2023, o regime de apuramento e transferência dos descontos apurados será realizado de forma transitória unicamente com base nas informações prestadas por cada comercializador.\n\n2 - Os valores apurados no período indicado no número anterior são atribuídos ao comercializador a título provisório, sendo o seu acerto realizado no prazo máximo de três meses após a realização da respetiva transferência."
+  },
+  "211525488": {
+   "fragment_id": "211502421",
+   "type": 11,
+   "heading": "Artigo 10.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Produção de efeitos\n\nOs pagamentos dos montantes correspondentes aos consumos de gás natural faturados em 2023 são iniciados em fevereiro do mesmo ano e podem ser liquidados até ao final do mês de janeiro de 2024."
+  },
+  "211525489": {
+   "fragment_id": "211502422",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2023."
+  },
+  "211525491": {
+   "fragment_id": "211502413",
+   "type": 11,
+   "heading": "Artigo 2.º — Elegibilidade",
+   "in_force_from": "2023-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 23/2023 - Diário da República n.º 68/2023, Série I de 2023-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2023-211443515), em vigor a partir de 2023-04-06, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Elegibilidade\n\n1 - São beneficiários do regime transitório de estabilização de preço as pessoas coletivas regularmente constituídas, consumidoras de gás em alta, média e baixa pressão nos pontos de entrega com consumos anuais superiores a 10 000 m3.\n\n2 - O presente decreto-lei não é aplicável:\n\na) Aos centros eletroprodutores termoelétricos correspondentes a centrais de ciclo combinado a gás natural;\n\nb) Ao consumo de gás natural das instalações de cogeração que, durante o período elegível, esteja abrangido pelo mecanismo excecional e temporário de ajuste dos custos de produção de energia elétrica no âmbito do Mercado Ibérico de Eletricidade, estabelecido pelo Decreto-Lei n.º 33/2022, de 14 de maio;\n\nc) Aos clientes fornecidos pelos comercializadores de último recurso.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 23/2023 - Diário da República n.º 68/2023, Série I de 2023-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2023-211443515), em vigor a partir de 2023-04-06, produz efeitos a partir de 2023-01-01"
+  },
+  "211525492": {
+   "fragment_id": "211502421",
+   "type": 11,
+   "heading": "Artigo 10.º — Produção de efeitos",
+   "in_force_from": "2023-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 23/2023 - Diário da República n.º 68/2023, Série I de 2023-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2023-211443515), em vigor a partir de 2023-04-06, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Produção de efeitos\n\nOs pagamentos dos montantes correspondentes aos consumos de gás natural faturados em 2023, e os seus eventuais acertos, são iniciados em fevereiro do mesmo ano e podem ser liquidados até 30 de junho de 2024.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 23/2023 - Diário da República n.º 68/2023, Série I de 2023-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2023-211443515), em vigor a partir de 2023-04-06, produz efeitos a partir de 2023-01-01"
+  },
+  "211525490": {
+   "fragment_id": "211502423",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2022. - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - José Duarte Piteira Rica Silvestre Cordeiro.\n\nPromulgado em 9 de dezembro de 2022.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 9 de dezembro de 2022.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n115957125"
+  },
+  "221314402": {
+   "fragment_id": "211502414",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime transitório de estabilização de preço",
+   "in_force_from": "2023-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79-A/2023 - Diário da República n.º 171/2023, 1º Suplemento, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2023-221278508), em vigor a partir de 2023-09-05"
+   ],
+   "markdown": "###### Artigo 3.º — Regime transitório de estabilização de preço\n\n1 - O montante do desconto a aplicar é calculado tendo por referência os preços de referência do MIBGAS, de acordo com a seguinte expressão:\n\nA(índice GN) = P(índice MIBGAS) - 40\n\nem que:\n\nA(índice GN) é o apoio concedido, por via do desconto a aplicar, expresso em euros por MWh;\n\nP(índice MIBGAS) é o valor do preço do gás natural do produto diário (D+1), com entrega no dia seguinte no «punto virtual de balance», correspondente à área de preço espanhola, cotados na plataforma gerida pela MIBGAS, S. A., enquanto operador do mercado ibérico de gás (MIBGÁS), expresso em euros por MWh.\n\n2 - O valor resultante da aplicação da fórmula prevista no número anterior não pode exceder o valor de 40 euros por MWh, excluindo impostos.\n\n3 - Da aplicação do desconto previsto nos números anteriores não pode resultar um preço da componente da energia a faturar pelo comercializador inferior ou igual a 30 euros por MWh.\n\n4 - O regime transitório de estabilização de preço incide sobre 80 % do consumo faturado em cada ponto de entrega elegível nos termos definidos no artigo anterior, identificado pelo respetivo Código Universal de Instalação (CUI), contabilizado no ano de 2021.\n\n5 - Nas situações em que não haja registo de consumos durante todo o ano de 2021, o regime transitório de estabilização de preço incide sobre 80 % do consumo faturado estimado em cada ponto de entrega elegível, calculado pelo produto de doze com a média mensal dos primeiros 12 meses de consumos registados anteriores a cada fatura.\n\n6 - O regime transitório está limitado à dotação a definir por despacho dos membros do Governo responsáveis pelas áreas das finanças e da energia.\n\n7 - A Entidade Reguladora dos Serviços Energéticos (ERSE) divulga o valor que resulta da expressão prevista no n.º 1, com periodicidade diária e com uma atualização que garanta um atraso não superior a dois dias úteis, no seu sítio na Internet.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 79-A/2023 - Diário da República n.º 171/2023, 1º Suplemento, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2023-221278508) Até à prolação do despacho a que alude o n.º 6 do presente, o regime transitório está limitado à dotação total de (euro) 1 000 000 000.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79-A/2023 - Diário da República n.º 171/2023, 1º Suplemento, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2023-221278508), em vigor a partir de 2023-09-05"
+  }
+ }
+}

@@ -1,0 +1,253 @@
+---
+schema_version: '1.0'
+id: pt:dre:301473:por
+title: Portaria n.º 944/91
+short_title: null
+summary: Autoriza a Universidade Aberta a conferir o grau de mestre em Relações Interculturais e regula o respectivo curso
+  especializado
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 944/91
+official_date: null
+publication_date: '1991-09-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/1991, Série I-B de 1991-09-17
+  number: '214'
+  series: I
+  supplement: null
+  pages: 4918 - 4920
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/09/214b00/49184920.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/944/1991/09/17/p/dre/pt/html
+  oj: null
+  dre: '301473'
+  dre_path: /dr/detalhe/portaria/944-1991-301473
+  internal: pt:dre:301473:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/944-1991-301473
+  metadata_url: https://data.dre.pt/eli/port/944/1991/09/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/944-1991-301473
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0e1afbfd58d4ba1eb7e323c18ac7ac832f02f65f1a1438c439e76cab56f20ec2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Mestrado em Relações Interculturais
+- Plano de Estudos
+- Universidade Aberta
+relationships:
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:04:54Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 944/91
+
+de 17 de Setembro
+
+Sob proposta do reitor da Universidade Aberta, ouvido o respectivo conselho científico;
+
+Ao abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446), de 7 de Agosto, e [444/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1988-357130), de 2 de Dezembro, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º
+
+Criação
+
+A Universidade Aberta confere o grau de mestre em Relações Interculturais, ministrando, em consequência, o respectivo curso.
+
+2.º
+
+Organização do curso
+
+O curso especializado conducente ao mestrado em Relações Interculturais, adiante simplesmente designado por curso, é um curso de carácter formal, leccionado em regime presencial, e organiza-se pelo sistema de unidades de crédito.
+
+3.º
+
+Estrutura curricular
+
+Os elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são os constantes do anexo I a esta portaria.
+
+4.º
+
+Plano de estudos
+
+O plano de estudos do curso é o constante do anexo II a esta portaria.
+
+5.º
+
+Habilitações de acesso
+
+1 - São admitidos à candidatura à matrícula no curso os candidatos que satisfaçam cumulativamente às seguintes condições:
+
+a) Serem titulares de uma licenciatura pelas universidades portuguesas com classificação final não inferior a 14 valores;
+
+b) Terem idade igual ou superior a 25 anos até ao dia 31 de Dezembro do ano em que realizam a matrícula no curso;
+
+c) Não se encontrarem matriculados em qualquer outro estabelecimento de ensino superior.
+
+2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.
+
+6.º
+
+Limitações quantitativas
+
+1 - A matrícula e a inscrição no curso estão sujeitas a limitações quantitativas a fixar anualmente por despacho do reitor da Universidade Aberta, sob proposta do conselho científico.
+
+2 - O curso não poderá funcionar com um número de inscrições inferior a 20.
+
+3 - O despacho a que se refere o n.º 1 estabelecerá ainda:
+
+a) A percentagem das vagas que será reservada prioritariamente a candidatos oriundos das instituições com as quais a Universidade Aberta estabeleceu protocolos de cooperação para a formação neste domínio;
+
+b) A percentagem das vagas que será reservada prioritariamente a candidatos propostos por outras instituições oficiais ou propostos a título individual;
+
+c) O número mínimo de inscrições indispensável ao funcionamento do curso, se mais elevado que o referido no n.º 2.
+
+4 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.
+
+7.º
+
+Critérios de selecção e seriação
+
+1 - O conselho científico submeterá os candidatos à matrícula a provas para avaliação do seu nível científico ou técnico.
+
+2 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico, tendo em consideração os seguintes critérios:
+
+a) Classificação da licenciatura a que se refere o n.º 5.º ou de outros graus já obtidos pelo candidato;
+
+b) Currículo académico, científico e técnico;
+
+c) Experiência docente;
+
+d) Provas a que se refere o n.º 1.
+
+8.º
+
+Prazos e calendário lectivo
+
+Os prazos de candidatura e matrícula e inscrição, bem como o calendário lectivo, serão fixados pelo reitor através do despacho a que se refere o n.º 1 do n.º 6.º
+
+9.º
+
+Regime geral
+
+As regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e e classificação para as disciplinas que integram o curso, serão as previstas na lei para os cursos de licenciatura ministrados em regime presencial, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza do curso.
+
+10.º
+
+Grau de mestre
+
+O grau de mestre em Relações Interculturais será atribuído após aprovação no curso especializado e a elaboração e aprovação de uma dissertação nos termos do artigo 4.º do [Decreto-Lei n.º 263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446), de 7 de Agosto.
+
+11.º
+
+Dispensa das provas complementares de doutoramento
+
+Os titulares de aprovação no curso especializado conducente ao mestrado em Relações Interculturais, satisfeitas as condições do n.º 1 do artigo 3.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, terão dispensa das provas a que se refere o n.º 3 do artigo 8.º do mesmo diploma para obtenção do grau de doutor no ramo e especialidade correspondente.
+
+12.º
+
+Início de funcionamento
+
+O início de funcionamento do curso ficará dependente de autorização expressa do Ministro da Educação, exarada sobre relatório do reitor da Universidade Aberta comprovativo da existência da totalidade dos recursos humanos e materiais necessários à sua completa concretização.
+
+Ministério da Educação.
+
+Assinada em 3 de Setembro de 1991.
+
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+Anexo I à Portaria n.º 944/91
+
+Universidade Aberta
+
+Curso especializado conducente ao mestrado em Relações Interculturais
+
+1 - Área científica do curso - Relações Interculturais.
+
+2 - Duração normal do curso - um ano lectivo.
+
+3 - Número total mínimo de unidades de crédito necessário à conclusão do curso - 18.
+
+4 - Áreas científicas obrigatórias e distribuição das unidades de crédito:
+
+a) Ciências Sociais - 8;
+
+b) Ciências da Educação - 4;
+
+c) Políticas e Estratégias - 6.
+
+Anexo II à Portaria n.º .../92
+
+Universidade Aberta
+
+Curso especializado conducente ao mestrado em Relações Interculturais
+
+Curso: Relações Internacionais
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/214b00/49184920.pdf)

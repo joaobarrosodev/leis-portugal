@@ -1,0 +1,150 @@
+---
+schema_version: '1.0'
+id: pt:dre:422009:por
+title: Decreto n.º 201/73
+short_title: null
+summary: Aprova o Regulamento do Instituto de Formação Profissional do Ministério da Justiça
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Justiça - Gabinete do Ministro
+proposing_entity: null
+official_number: 201/73
+official_date: null
+publication_date: '1973-05-03'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 104/1973, Série I de 1973-05-03
+  number: '104'
+  series: I
+  supplement: null
+  pages: 691 - 692
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/05/10400/06910692.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '422009'
+  dre_path: /dr/detalhe/decreto/201-1973-422009
+  internal: pt:dre:422009:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/201-1973-422009
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/201-1973-422009
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:27:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0608a89c32fc055d6daad8ed6ad08c60f649c6384134cbd66ee58499784eabcf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:502820:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:502820:por
+  label: Alterado o n.º 1 do art. 12.º pelo(a) Decreto n.º 237/76 - Diário do Governo n.º 82/1976, Série I de 1976-04-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/237-1976-502820
+  date: '1976-04-06'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:27:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 201/73
+
+de 3 de Maio
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+REGULAMENTO DO INSTITUTO DE FORMAÇÃO PROFISSIONAL DO MINISTÉRIO DA JUSTIÇA
+
+Artigo 1.º O Instituto de Formação Profissional tem por objectivo assegurar a preparação e aperfeiçoamento profissional do funcionalismo do Ministério da Justiça.
+
+Art. 2.º Para o exercício das suas atribuições compete ao Instituto promover e organizar as actividades seguintes:
+
+a) Testes e outras provas selectivas;
+
+b) Cursos destinados a substituir concursos de prestação de provas exigidos por lei;
+
+c) Cursos de preparação ou de aperfeiçoamento exigidos por lei ou por determinação do Ministro da Justiça;
+
+d) Estágios e visitas de estudo, no País ou no estrangeiro, bem como seminários, conferências, reuniões de estudo e, em geral, quaisquer trabalhos que visem melhorar a formação profissional do funcionalismo do Ministério da Justiça;
+
+e) Publicação e difusão de estudos e trabalhos sobre matérias versadas no Instituto.
+
+Art. 3.º Q Instituto poderá ainda colaborar, em ligação com a Secretaria-Geral da Presidência do Conselho e outros departamentos, em acções de formação e aperfeiçoamento profissional.
+
+Art. 4.º - 1. A orientação técnica e administrativa do Instituto incumbe ao seu director.
+
+2. Poderá, contudo, o director solicitar que, relativamente à organização dos cursos, se pronunciem os superiores hierárquicos dos funcionários a que os cursos se destinam.
+
+Art. 5.º Os dirigentes dos serviços designarão, com a antecedência necessária, os funcionários que devem ser admitidos a cada um dos cursos ministrados no Instituto.
+
+Art. 6.º Durante a frequência dos cursos, os alunos podem ser dispensados de todo ou de parte do serviço a que estão adstritos.
+
+Art. 7.º - 1. Serão excluídos da frequência dos cursos os alunos que se mostrem pouco assíduos ou que revelem não possuir a necessária capacidade para o exercício das respectivas funções.
+
+2. Os funcionários excluídos, nomeados provisoriamente ou em regime de estágio, serão exonerados dos respectivos cargos e os funcionários com provimento definitivo não poderão obter a classificação de serviço de Bom durante os três anos subsequentes.
+
+3. Consideram-se como dadas ao serviço as faltas não justificadas dos alunos que sejam funcionários.
+
+Art. 8.º Sem prejuízo do que estabelece o artigo anterior, nos cursos realizados ao abrigo do disposto na alínea b) do artigo 2.º o grau de aproveitamento dos alunos equivale, para todos os efeitos, ao resultado dos concursos de prestação de provas.
+
+Art. 9.º - 1. O aproveitamento dos alunos não depende obrigatoriamente da realização de provas de exame.
+
+2. Será expresso pelas classificações de Muito bom, Bom com distinção, Bom, Suficiente e Excluído o aproveitamento final.
+
+Art. 10.º Além dos casos expressamente previstos na lei, o provimento provisório ou em regime de estágio, o provimento definitivo e a promoção podem ficar dependentes, mediante despacho do Ministro da Justiça, da frequência de curso adequado do Instituto com aproveitamento.
+
+Art. 11.º Os encargos com a organização de cursos destinados a substituir concursos de prestação de provas serão satisfeitos por força das datações que teriam de suportar as despesas com a realização destes.
+
+Art. 12.º - 1. Constituem encargo do Cofre Geral dos Tribunais as despesas de transporte e as ajudas de custo dos funcionários chamados a frequentar os cursos, salvo quando se trate de deslocações para frequência dos cursos exigidos por lei como condição de ingresso nos quadros ou de provimento definitivo.
+
+2. Será igualmente suportado pelo Cofre o encargo com o pagamento da diferença entre o quantitativo da gratificação, previsto na lei, e o quantitativo do vencimento do cargo de origem, a abonar ao director do Instituto, quando as respectivas funções não forem exercidas em regime de acumulação.
+
+Marcello Caetano - Mário Júlio Brito de Almeida Costa.
+
+Promulgado em 14 de Abril de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

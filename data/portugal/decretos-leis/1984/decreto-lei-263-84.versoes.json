@@ -1,0 +1,216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:381737:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-889911914",
+ "dre_path": "/dr/detalhe/decreto-lei/263-1984-381737",
+ "source_lastmod": "2024-10-03",
+ "versions": [
+  {
+   "date": "1984-08-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889911564",
+    "889911565",
+    "889911566",
+    "889911567",
+    "889911568",
+    "889911569",
+    "889911570",
+    "889911571",
+    "889911572",
+    "889911573"
+   ]
+  },
+  {
+   "date": "1984-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:380942:por",
+     "title": "Portaria n.º 644/84",
+     "published": "1984-08-27",
+     "dre_path": "/dr/detalhe/portaria/644-1984-380942"
+    }
+   ],
+   "changes": [
+    "Altera MAPA I"
+   ],
+   "fragments": [
+    "889911564",
+    "889911565",
+    "889911566",
+    "889911567",
+    "889911568",
+    "889911569",
+    "889911570",
+    "889911571",
+    "889911572",
+    "889911573",
+    "889911574",
+    "889914617",
+    "889914576"
+   ]
+  },
+  {
+   "date": "1985-02-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:328261:por",
+     "title": "Decreto-Lei n.º 34/85",
+     "published": "1985-01-31",
+     "dre_path": "/dr/detalhe/decreto-lei/34-1985-328261"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "889911564",
+    "889911565",
+    "889911566",
+    "889911567",
+    "889911568",
+    "889914618",
+    "889911570",
+    "889911571",
+    "889911572",
+    "889914619",
+    "889911574",
+    "889914617",
+    "889914576"
+   ]
+  }
+ ],
+ "fragments": {
+  "889911564": {
+   "fragment_id": "889911915",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 263/84\n\nde 1 de Agosto\n\nSendo necessário imprimir maior coerência e racionalidade à gestão orçamental, bem como à administração do Tesouro, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\n> Nota: [Artigo 25.º, Decreto-Lei n.º 186/98 - Diário da República n.º 154/1998, Série I-A de 1998-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1998-486488) O Decreto-Lei n.º 186/98, de 7 de julho revoga o presente decreto-lei na parte relativa às atribuições e competências que transitaram para a DGT;"
+  },
+  "889911565": {
+   "fragment_id": "889911916",
+   "type": 11,
+   "heading": "Artigo 1.º — (Transferência de atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Transferência de atribuições)\n\n1 - São transferidas para a Direcção-Geral do Tesouro as atribuições da Direcção-Geral de Integração Administrativa relacionadas com as competências previstas nas alíneas a), b), d), e), f), g), h) e i) do artigo 11.º do Decreto Regulamentar n.º 83/82, de 3 de Novembro.\n\n2 - Transitam para o Gabinete de Macau as atribuições da Direcção-Geral de Integração Administrativa que, em relação à Caixa do Tesouro de Macau, lhe são conferidas pela alínea g) do artigo 2.º do Decreto Regulamentar n.º 83/82, de 3 de Novembro, e a competência prevista nas alíneas c), j) e k) do artigo 11.º do mesmo diploma legal, devendo a Direcção-Geral de Integração Administrativa prestar àquele Gabinete a colaboração que lhe for solicitada em virtude da transferência de atribuições referida, designadamente através da afectação do pessoal necessário, mediante o recurso aos instrumentos de mobilidade adequados previstos na lei.\n\n3 - Fica congelado o saldo disponível da verba destinada a despesas com a descolonização inscrita no vigente orçamento de Encargos Gerais da Nação e afecta à Direcção-Geral de Integração Administrativa, exceptuada a parte respeitante à Obra Social do ex-Ministério do Ultramar e ao Instituto Ultramarino, que continuará a ficar a cargo da Secretaria de Estado da Administração Pública.\n\n4 - Para efeitos de pagamento de despesas ainda resultantes da descolonização ou de encargos provenientes da transferência ora efectuada de pessoal deverão ser inscritas em «Outras despesas correntes», no vigente orçamento do Ministério das Finanças e do Plano, em afectação à Direcção-Geral do Tesouro, duas verbas globais distintas."
+  },
+  "889911566": {
+   "fragment_id": "889911917",
+   "type": 11,
+   "heading": "Artigo 2.º — (Transferência da titularidade de contas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Transferência da titularidade de contas)\n\n1 - É transferida para a Direcção-Geral do Tesouro a titularidade das contas de depósito existentes em nome da Direcção-Geral de Integração Administrativa relacionadas com as atribuições e competências transferidas.\n\n2 - Os saldos das contas referidas no número anterior serão escriturados em operações de tesouraria.\n\n3 - A conta n.º 213/055854H existente no Banco Nacional Ultramarino é encerrada na data de entrada em vigor deste diploma e o seu saldo transita nessa data para a Caixa do Tesouro de Macau."
+  },
+  "889911567": {
+   "fragment_id": "889911918",
+   "type": 11,
+   "heading": "Artigo 3.º — (Transferência da titularidade das acções e obrigações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Transferência da titularidade das acções e obrigações)\n\nA titularidade das acções e obrigações depositadas em qualquer instituição de crédito em nome da Secretaria de Estado da Administração Pública é transferida para a carteira de títulos do Estado."
+  },
+  "889911568": {
+   "fragment_id": "889911919",
+   "type": 11,
+   "heading": "Artigo 4.º — (Transferência da titularidade de créditos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Transferência da titularidade de créditos)\n\nÉ transferida para a Direcção-Geral do Tesouro a titularidade dos créditos do Estado devidos por quaisquer entidades públicas ou privadas à Direcção-Geral de Integração Administrativa."
+  },
+  "889911569": {
+   "fragment_id": "889911920",
+   "type": 11,
+   "heading": "Artigo 5.º — (Transferência de processos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Transferência de processos)\n\n1 - Transitam para a Direcção-Geral do Tesouro todos os processos relativos às atribuições e competências transferidas nos termos do n.º 1 do artigo 1.º deste decreto-lei.\n\n2 - A transição referida no número anterior será feita através de inventário e auto de entrega e recepção devidamente discriminado, podendo recorrer-se para esse efeito à afectação colectiva do pessoal necessário, o qual deverá então ser individualizado no prazo de 5 dias a contar da data da publicação do presente diploma, sob proposta do director-geral do Tesouro e do director-geral de Integração Administrativa.\n\n3 - É atribuído ao director-geral do Tesouro ou a funcionário que ele designe o poder de superintender sobre o pessoal a que se refere o número anterior.\n\n4 - A afectação colectiva do pessoal referido no número anterior será efectuada por despacho do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública.\n\n5 - A Direcção-Geral do Tesouro fará o levantamento das responsabilidades relativas aos anos compreendidos entre 1974 e 1981, inclusive, ano a partir do qual as contas têm sido apresentadas e julgadas, sem embargo de serem apreciados processos específicos anteriores àquele período, se isso se justificar."
+  },
+  "889911570": {
+   "fragment_id": "889911921",
+   "type": 11,
+   "heading": "Artigo 6.º — (Pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Pessoal)\n\n1 - É criado junto da Direcção-Geral do Tesouro um quadro paralelo que terá o número de unidades constantes do mapa I anexo ao presente diploma e para o qual transitará o pessoal em serviço na Direcção-Geral de Integração Administrativa com qualificações e experiência profissionais relacionadas com as atribuições e competências transferidas nos termos do artigo 1.º, n.º 1.\n\n2 - A transição do pessoal a que se refere o n.º 1 far-se-á na categoria que tiver à data da entrada em vigor do presente diploma, com efeitos a partir dessa data, mediante lista nominativa aprovada pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Administração Pública e publicada no Diário da República, independentemente de outras formalidades, com excepção da anotação do Tribunal de Contas.\n\n3 - Para os efeitos do disposto nos números anteriores, aos mapas de pessoal da Direcção-Geral do Tesouro é aditado o quadro do pessoal constante do mapa I anexo ao presente diploma, o qual constituirá um quadro paralelo nesta Direcção-Geral, destinado exclusivamente à movimentação do pessoal transitado, até ser dado cumprimento ao disposto no n.º 1 do artigo seguinte.\n\n4 - São criados, no quadro da Direcção-Geral do Tesouro, 1 lugar de subdirector-geral, 1 lugar de director de serviços, 1 lugar de chefe de divisão e 2 lugares de motorista, constantes do mapa II anexo ao presente diploma, a prover nos termos da legislação geral.\n\n5 - As competências da direcção de serviços e da divisão criadas nos termos do número anterior serão estabelecidas por decreto regulamentar, a publicar no prazo máximo de 30 dias, a partir da data da entrada em vigor do presente diploma."
+  },
+  "889911571": {
+   "fragment_id": "889911922",
+   "type": 11,
+   "heading": "Artigo 7.º — (Situação do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Situação do pessoal)\n\n1 - Por decreto regulamentar será oportunamente determinada a extinção do quadro paralelo a que se referem os n.os 1 e 3 do artigo anterior e estabelecidas as alterações dela decorrentes na orgânica da Direcção-Geral do Tesouro e, bem assim, a forma como para este quadro transitará o pessoal que estiver integrado no quadro paralelo.\n\n2 - Até à publicação do decreto regulamentar previsto no n.º 1 do presente artigo aplicam-se ao provimento de pessoal do referido quadro paralelo as disposições da lei geral.\n\n3 - Em tudo o que se não ache previsto no presente diploma, a situação do pessoal integrado no quadro paralelo regular-se-á pelas disposições aplicáveis ao pessoal dos serviços centrais da Direcção-Geral do Tesouro."
+  },
+  "889911572": {
+   "fragment_id": "889911923",
+   "type": 11,
+   "heading": "Artigo 8.º — (Competência do Ministério das Finanças e do Plano)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Competência do Ministério das Finanças e do Plano)\n\nFica autorizado o Ministro das Finanças e do Plano a tomar as providências necessárias destinadas à instalação do pessoal transferido nos termos do presente diploma legal e, se necessário, à inventariação e transferência dos processos."
+  },
+  "889911573": {
+   "fragment_id": "889911924",
+   "type": 11,
+   "heading": "Artigo 9.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Entrada em vigor)\n\n1 - Salvo o disposto no n.º 3, o presente diploma entra em vigor 30 dias após a sua publicação, devendo nesse prazo ser feitas a inventariação e a transferência dos processos.\n\n2 - O prazo a que se refere o número anterior poderá ser antecipado ou prorrogado por despacho do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, a publicar no Diário da República, sob proposta do director-geral do Tesouro.\n\n3 - O artigo 1.º, n.º 2, e o artigo 6.º, n.os 4 e 5, entram em vigor 5 dias após a publicação do presente diploma."
+  },
+  "889911574": {
+   "fragment_id": "889911925",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Junho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes.\n\nPromulgado em 11 de Julho de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 16 de Julho de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "889914617": {
+   "fragment_id": "889911926",
+   "type": 14,
+   "heading": "MAPA I — Quadro paralelo de pessoal da Direcção-Geral do Tesouro, a que se refere o artigo 6.º, n.os 1 e 3, do presente decreto-lei",
+   "in_force_from": "1984-09-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 644/84 - Diário da República n.º 198/1984, Série I de 1984-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/644-1984-380942), em vigor a partir de 1984-09-01"
+   ],
+   "markdown": "## MAPA I — Quadro paralelo de pessoal da Direcção-Geral do Tesouro, a que se refere o artigo 6.º, n.os 1 e 3, do presente decreto-lei\n\n(ver documento original)\n\n> Alterado pelo/a [Portaria n.º 644/84 - Diário da República n.º 198/1984, Série I de 1984-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/644-1984-380942), em vigor a partir de 1984-09-01"
+  },
+  "889914576": {
+   "fragment_id": "889911927",
+   "type": 14,
+   "heading": "MAPA II — Quadro de pessoal da Direcção-Geral do Tesouro, a que se refere o artigo 6.º, n.º 4, do presente decreto-lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA II — Quadro de pessoal da Direcção-Geral do Tesouro, a que se refere o artigo 6.º, n.º 4, do presente decreto-lei\n\n(ver documento original)"
+  },
+  "889914618": {
+   "fragment_id": "889911920",
+   "type": 11,
+   "heading": "Artigo 5.º — (Transferência de processos)",
+   "in_force_from": "1985-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/85 - Diário da República n.º 26/1985, Série I de 1985-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1985-328261), em vigor a partir de 1985-02-05"
+   ],
+   "markdown": "###### Artigo 5.º — (Transferência de processos)\n\n1 - Transitam para a Direcção-Geral do Tesouro todos os processos relativos às atribuições e competências transferidas nos termos do n.º 1 do artigo 1.º deste decreto-lei.\n\n2 - A transição referida no número anterior será feita através de auto de entrega e recepção, de acordo com os inventários já elaborados pela Direcção-Geral de Integração Administrativa, nos quais se discriminam quantitativamente os processos, ficheiros, livros e demais documentação a transferir e a respectiva localização física.\n\n3 - A Direcção-Geral do Tesouro fará o levantamento das responsabilidades relativas aos anos compreendidos entre 1974 e 1981, inclusive, ano a partir do qual as contas têm sido apresentadas e julgadas, sem embargo de serem apreciados processos específicos anteriores àquele período, se isso se justificar.\n\n4 - No levantamento a que se refere o número anterior serão tomados em consideração os elementos constantes dos processos remetidos pela Direcção-Geral de Integração Administrativa e os que forem posteriormente recolhidos.\n\n5 - A Direcção-Geral do Tesouro só será responsável, a partir da transferência de atribuições e competências referidas neste diploma, pela documentação constante dos processos transferidos na medida em que o respectivo conteúdo seja confirmado pelo auto de entrega.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/85 - Diário da República n.º 26/1985, Série I de 1985-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1985-328261), em vigor a partir de 1985-02-05"
+  },
+  "889914619": {
+   "fragment_id": "889911924",
+   "type": 11,
+   "heading": "Artigo 9.º — (Entrada em vigor)",
+   "in_force_from": "1985-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 34/85 - Diário da República n.º 26/1985, Série I de 1985-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1985-328261), em vigor a partir de 1985-02-05"
+   ],
+   "markdown": "###### Artigo 9.º — (Entrada em vigor)\n\n1 - Salvo o disposto no n.º 2, o presente decreto-lei produz efeitos a partir de 31 de Dezembro de 1984.\n\n2 - O artigo 1.º, n.º 2, e o artigo 6.º n.os 4 e 5, entram em vigor 5 dias após a publicação do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 34/85 - Diário da República n.º 26/1985, Série I de 1985-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1985-328261), em vigor a partir de 1985-02-05"
+  }
+ }
+}

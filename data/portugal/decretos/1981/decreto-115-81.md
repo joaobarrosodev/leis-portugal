@@ -1,0 +1,168 @@
+---
+schema_version: '1.0'
+id: pt:dre:564986:por
+title: Decreto n.º 115/81
+short_title: null
+summary: Aprova o Acordo Geral sobre Migração entre a República de Portugal e a República da Guiné-Bissau
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Gabinete Coordenador para a Cooperação
+proposing_entity: null
+official_number: 115/81
+official_date: null
+publication_date: '1981-09-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 204/1981, Série I de 1981-09-05
+  number: '204'
+  series: I
+  supplement: null
+  pages: 2379 - 2380
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20400/23792380.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '564986'
+  dre_path: /dr/detalhe/decreto/115-1981-564986
+  internal: pt:dre:564986:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/115-1981-564986
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/115-1981-564986
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:56:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fffbdf017d430810d789520d16fcf10ee1662da578e5c7739646589166c6ac74
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Guiné-Bissau
+- Portugal
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:56:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 115/81
+
+de 5 de Setembro
+
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+
+Artigo único. É aprovado o Acordo Geral sobre Migração entre a República de Portugal e a República da Guiné-Bissau, assinado em 24 de Fevereiro de 1979, cujo texto vai anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 6 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Assinado em 20 de Agosto de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+ACORDO GERAL SOBRE MIGRAÇÃO ENTRE A REPÚBLICA DE PORTUGAL E A REPÚBLICA DA GUINÉ-BISSAU
+
+No prosseguimento de uma política comum de amizade e de cooperação entre os povos da República de Portugal e da República da Guiné-Bissau;
+
+Conscientes da necessidade de regular as relações emergentes do exercício de actividades profissionais num país por nacionais do outro:
+
+As Repúblicas de Portugal e da Guiné-Bissau acordam no seguinte:
+
+###### ARTIGO 1.º
+
+Cada uma das Partes Contratantes compromete-se a não permitir qualquer pressão no sentido de obrigar os nacionais da outra Parte a permanecerem no país de acolhimento ou a regressarem ao país de origem, sem prejuízo do estabelecido no artigo 2.º do Acordo Especial Relativo ao Estatuto de Pessoas e Regime de seus Bens, celebrado entre as Partes, em 21 de Junho de 1976.
+
+###### ARTIGO 2.º
+
+1 - As Partes Contratantes suportarão as despesas de repatriamento dos respectivos imigrantes que, residindo no território do país de acolhimento à data da independência da República da Guiné-Bissau, desejem regressar ao país de origem.
+
+2 - Cada uma das Partes Contratantes obriga-se a dar conhecimento das acções de repatriamento à outra Parte.
+
+###### ARTIGO 3.º
+
+O nacional de cada uma das Partes Contratantes que pretenda deslocar-se ao território da outra Parte para trabalhar terá de obter, previamente, o respectivo visto junto da autoridade consular do país de imigração.
+
+###### ARTIGO 4.º
+
+Enquanto não forem celebrados acordos bilaterais específicos, cada uma das Partes Contratantes compromete-se a não restringir, no seu território, a aplicação da sua legislação aos nacionais da outra Parte, designadamente em matéria de segurança social e de trabalho, com excepção da referente à função pública.
+
+###### ARTIGO 5.º
+
+As Partes Contratantes assumem o compromisso de estabelecer, oportunamente, contactos entre si, com vista à celebração de um acordo sobre segurança social.
+
+###### ARTIGO 6.º
+
+O Estado Português, a solicitação do Estado da Guiné-Bissau, efectuará diligências tendentes à protecção dos nacionais deste último, que emigraram para países com os quais Portugal tenha celebrado convenções de segurança social, que abrangiam aqueles nacionais, nos assuntos emergentes da sua aplicação.
+
+###### ARTIGO 7.º
+
+Para efeitos de segurança social, sem prejuízo do que, sobre a matéria, seja especificamente legislado, os documentos apresentados pelos migrantes portugueses e guineenses às autoridades competentes do Estado de acolhimento fazem prova como o fariam se fossem apresentados às autoridades correspondentes do país de origem.
+
+###### ARTIGO 8.º
+
+1 - Quando as Partes Contratantes tiverem de conceder prestações pecuniárias em virtude do presente Acordo, fá-lo-ão em moeda do seu próprio país.
+
+2 - Quando houver lugar a transferências, estas efectuar-se-ão conforme os acordos de pagamento vigentes entre ambas as Partes Contratantes ou, no caso de não existirem, em conformidade com mecanismo adequado, a acordar entre as Partes.
+
+###### ARTIGO 9.º
+
+Com vista à aplicação deste Acordo, cada uma das Partes Contratantes designará os organismos ou serviços de ligação que considerar necessários, os quais, sob a orientação dos serviços responsáveis pela cooperação, comunicarão directamente entre si e com os interessados ou seus representantes legais em matéria de assuntos correntes.
+
+###### ARTIGO 10.º
+
+1 - Qualquer diferendo que possa surgir entre as Partes Contratantes sobre a interpretação ou aplicação do presente Acordo será resolvido por negociações directas entre as mesmas Partes.
+
+2 - Se o diferendo não ficar resolvido num prazo de seis meses a contar do início das negociações, será submetido a uma comissão arbitral, cuja composição será determinada de comum acordo entre as Partes. A comissão arbitral deverá resolver os diferendos, tendo em conta os princípios fundamentais e o espírito do presente Acordo. As suas decisões serão obrigatórias e definitivas.
+
+###### ARTIGO 11.º
+
+O presente Acordo entrará em vigor provisoriamente na data da sua assinatura e definitivamente na data da troca de notas confirmando a sua aprovação em conformidade com os requisitos constitucionais de ambos os países e manter-se-á vigente até 12 meses depois da data em que qualquer Parte Contratante notifique a outra Parte, por via diplomática, do seu desejo de denunciar o Acordo.
+
+Feito em Bissau, aos 24 de Fevereiro de 1979, em dois exemplares, fazendo ambos os textos igualmente fé.
+
+Pelo Governo da República Portuguesa:
+
+João de Freitas Cruz.
+
+Pelo Governo da República da Guiné-Bissau:
+
+Victor Saúde Maria.

@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975R2364:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R2364-19860101",
+ "dre_path": null,
+ "source_lastmod": "1986-01-01",
+ "versions": [
+  {
+   "date": "1975-09-17",
+   "future": false,
+   "celex": "31975R2364",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f5a4766ca6772132",
+    "855d54b798ef0e11",
+    "578cb60ace034526",
+    "c06d27bff0783d3b",
+    "87927fbd2c2d6142"
+   ]
+  },
+  {
+   "date": "1986-01-01",
+   "future": false,
+   "celex": "01975R2364-19860101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o"
+   ],
+   "fragments": [
+    "3e1a1f6f9db4b8a6",
+    "8a4cd140de17f022",
+    "c47b14106c568cf5",
+    "2203d2e63b6b1afe",
+    "52176d951de71f19"
+   ]
+  }
+ ],
+ "fragments": {
+  "f5a4766ca6772132": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2364/75 da Comissão, de 15 de Setembro de 1975, relativo ao cálculo dos auxílios que revestem a forma de empréstimos a taxa de juro reduzida ou de bonificação de juros não expressa em número de pontos** *Jornal Oficial nº L 243 de 17/09/1975 p. 0009 - 0009 Edição especial grega: Capítulo 14 Fascículo 1 p. 0019 Edição especial espanhola: Capítulo 14 Fascículo 1 p. 0006 Edição especial portuguesa: Capítulo 14 Fascículo 1 p. 0006*\n\nREGULAMENTO (CEE) No 2364/75 DA COMISÃO de 15 de Setembro de 1975 relativo ao cálculo dos auxílios que revestem a forma de empréstimos a taxa de juro reduzida ou de bonificação de juros não expressa em número de pontos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 724/75 do Conselho, de 18 de Março de 1975, que cria um Fundo Europeu de Desenvolvimento Regional (1) e, nomeadamente, o seu artigo 4o,\n\nConsiderando que é necessário, para a execução deste regulamento, poder comparar e adicionar os auxílios que revestem a forma de empréstimos a taxa de juro reduzida ou de bonificação de juros não expressa em número de pontos;\n\nConsiderando que convém efectuar este cálculo com referência à taxa de juro utilizada para operações semelhantes em vigor aquando da concessão do empréstimo a taxa reduzida ou da bonificação de juros;\n\nConsiderando, por outro lado, que somente alguns do Estados-membros conhecem estas formas de auxílio; considerando, portanto, que seria supérfluo indicar taxas de referência para os outros Estados-membros;\n\nConsiderando que as medidas previstas no presente regulamento são conformes ao parecer emitido pelo Comité do Fundo,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "855d54b798ef0e11": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nAquando da concessão de empréstimos a taxa reduzida, bem como quando não seja determinada antecipadamente em número de pontos a bonificação de juros, o montante de redução da taxa de juro ou da bonificação será avaliado em relação a uma taxa de referência."
+  },
+  "578cb60ace034526": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNos Estados-membros abaixo indicados as taxas de referência são as seguintes:\n\nBélgica: Taxa dos empréstimos por dez anos ou mais concedidos pela «Société Nationale de Crédit à l'Industrie».\n\nDinamarca: Taxa dos empréstimos concedidos pelo Banco Europeu de Investimento, aumentada de 1,5 pontos.\n\nFrança: Taxa dos empréstimos para equipamento concedidos pelo «Crédit national».\n\nItália: Taxa de referência fixada pelo Estado para o pagamento das bonificações de juro aos organismos de crédito.\n\nRepública Federal da Alemanha: Taxa dos empréstimos por dez anos (programa MI e MII) concedidos pelo «Kreditanstalt fuer Wiederaufbau».\n\nReino Unido: Taxa de juro denominada «broad commercial rate»."
+  },
+  "c06d27bff0783d3b": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nEm cada caso, utilizar-se-á a taxa de referência em vigor no dia da decisão de concessão da bonificação de juro ou do empréstimo a taxa reduzida. Esta taxa será indicada no pedido de contribuição do Fundo."
+  },
+  "87927fbd2c2d6142": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nO presente regulamento entra em vigor no quinto dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 15 de Setembro de 1975.\n\nPela Comissão\n\nO Presidente\n\nFrançois-Xavier ORTOLI\n\n(1) JO no L 73 de 21. 3. 1975, p. 1."
+  },
+  "3e1a1f6f9db4b8a6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1975R2364 — PT — 01.01.1986 — 002.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31975R2364:PT:NOT) [REGULAMENTO (CEE) N.o 2364/75 DA COMISÃO de 15 de Setembro de 1975 relativo ao cálculo dos auxílios que revestem a forma de empréstimos a taxa de juro reduzida ou de bonificação de juros não expressa em número de pontos](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31975R2364:PT:NOT) (JO L 243, 17.9.1975, p.9)\n\nAlterado por:\n\n|  |  | Jornal Oficial |\n| --- | --- | --- |\n| No | page | date |\n\nAlterado por:\n\n| [A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:FR:NOT) | [Acto de Adesão da Grécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11979H:FR:NOT) | L 291 | 17 | 19.11.1979 |\n| --- | --- | --- | --- | --- |\n| [A2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11985I:PT:NOT) |  | L 302 | 23 | 15.11.1985 |\n\n(*) Este acto não existe em língua portuguesa.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31975R2364:PT:NOT)\n\nREGULAMENTO (CEE) N.o 2364/75 DA COMISÃO\n\nde 15 de Setembro de 1975\n\nrelativo ao cálculo dos auxílios que revestem a forma de empréstimos a taxa de juro reduzida ou de bonificação de juros não expressa em número de pontos\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.o 724/75 do Conselho, de 18 de Março de 1975, que cria um Fundo Europeu de Desenvolvimento Regional ([1](http://publications.europa.eu/resource/cellar/f3e8d354-4245-4f55-9606-0c7d881da705.0009.02/DOC_1#E0001)) e, nomeadamente, o seu artigo 4.o,\n\nConsiderando que é necessário, para a execução deste regulamento, poder comparar e adicionar os auxílios que revestem a forma de empréstimos a taxa de juro reduzida ou de bonificação de juros não expressa em número de pontos;\n\nConsiderando que convém efectuar este cálculo com referência à taxa de juro utilizada para operações semelhantes em vigor aquando da concessão do empréstimo a taxa reduzida ou da bonificação de juros;\n\nConsiderando, por outro lado, que somente alguns do Estados-membros conhecem estas formas de auxílio; considerando, portanto, que seria supérfluo indicar taxas de referência para os outros Estados-membros;\n\nConsiderando que as medidas previstas no presente regulamento são conformes ao parecer emitido pelo Comité do Fundo,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "8a4cd140de17f022": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAquando da concessão de empréstimos a taxa reduzida, bem como quando não seja determinada antecipadamente em número de pontos a bonificação de juros, o montante de redução da taxa de juro ou da bonificação será avaliado em relação a uma taxa de referência."
+  },
+  "c47b14106c568cf5": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNos Estados-membros abaixo indicados as taxas de referência são as seguintes:\n\nBélgica: Taxa dos empréstimos por dez anos ou mais concedidos pela «Société Nationale de Crédit à l'Industrie».\n\nDinamarca: Taxa dos empréstimos concedidos pelo Banco Europeu de Investimento, aumentada de 1,5 pontos.\n\nFrança: Taxa dos empréstimos para equipamento concedidos pelo «Crédit national».\n\nItália: Taxa de referência fixada pelo Estado para o pagamento das bonificações de juro aos organismos de crédito.\n\nRepública Federal da Alemanha: Taxa dos empréstimos por dez anos (programa MI e MII) concedidos pelo «Kreditanstalt für Wiederaufbau».\n\nReino Unido: Taxa de juro denominada «broad commercial rate».\n\nGrèce: Taux de référence fixé par le Νομισματική Επιτροπή.\n\nEspanha: Taxa do custo dos recursos do Instituto de Crédito Oficial (ICO)."
+  },
+  "2203d2e63b6b1afe": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEm cada caso, utilizar-se-á a taxa de referência em vigor no dia da decisão de concessão da bonificação de juro ou do empréstimo a taxa reduzida. Esta taxa será indicada no pedido de contribuição do Fundo."
+  },
+  "52176d951de71f19": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor no quinto dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n([1](http://publications.europa.eu/resource/cellar/f3e8d354-4245-4f55-9606-0c7d881da705.0009.02/DOC_1#src.E0001)) JO n.o L 73 de 21. 3. 1975, p. 1."
+  }
+ }
+}

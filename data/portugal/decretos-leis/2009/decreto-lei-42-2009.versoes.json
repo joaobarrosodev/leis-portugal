@@ -1,0 +1,1097 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:602276:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70861307",
+ "dre_path": "/dr/detalhe/decreto-lei/42-2009-602276",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-02-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70915601",
+    "70883405",
+    "70883406",
+    "70883407",
+    "70883408",
+    "70883409",
+    "70883410",
+    "70883411",
+    "70883412",
+    "70883413",
+    "70883414",
+    "70883415",
+    "70883416",
+    "70883417",
+    "70883418",
+    "70883419",
+    "70883420",
+    "70883421",
+    "70883422",
+    "70883423",
+    "70883424",
+    "70883425",
+    "70883426",
+    "70883427",
+    "70883428",
+    "70883429",
+    "70883430",
+    "70883431",
+    "70883432",
+    "70883433",
+    "70883434",
+    "70883435",
+    "70883436",
+    "70883437",
+    "70883438",
+    "70883439",
+    "70883440",
+    "70883441",
+    "70883442",
+    "70883443",
+    "70883444",
+    "70883445",
+    "70883446",
+    "70883447",
+    "70883448",
+    "70883449"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:603568:por",
+     "title": "Declaração de Rectificação n.º 22/2009",
+     "published": "2009-04-08",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/22-2009-603568",
+     "date": "2009-02-13"
+    }
+   ]
+  },
+  {
+   "date": "2016-11-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105263934:por",
+     "title": "Decreto-Lei n.º 81/2016",
+     "published": "2016-11-28",
+     "dre_path": "/dr/detalhe/decreto-lei/81-2016-105263934"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "70915601",
+    "70883405",
+    "70883406",
+    "70883407",
+    "70883408",
+    "105270886",
+    "70883410",
+    "70883411",
+    "70883412",
+    "70883413",
+    "70883414",
+    "70883415",
+    "105270887",
+    "70883417",
+    "70915608",
+    "105270888",
+    "70883420",
+    "70883421",
+    "70883422",
+    "70883423",
+    "70883424",
+    "70883425",
+    "70883426",
+    "70883427",
+    "70883428",
+    "70883429",
+    "70883430",
+    "70883431",
+    "70883432",
+    "70883433",
+    "70883434",
+    "70915610",
+    "70883436",
+    "70883437",
+    "70883438",
+    "70883439",
+    "70883440",
+    "70883441",
+    "70883442",
+    "70883443",
+    "70883444",
+    "70883445",
+    "70883446",
+    "70883450",
+    "70883447",
+    "70883448",
+    "70883449"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124680594:por",
+     "title": "Decreto-Lei n.º 137/2019",
+     "published": "2019-09-13",
+     "dre_path": "/dr/detalhe/decreto-lei/137-2019-124680594"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "70915601",
+    "124705595",
+    "124705596",
+    "124705597",
+    "124705598",
+    "124705599",
+    "124705600",
+    "124705601",
+    "124705602",
+    "124705603",
+    "124705604",
+    "124705605",
+    "124705606",
+    "124705607",
+    "124705608",
+    "124705609",
+    "124705610",
+    "124705611",
+    "124705612",
+    "124705613",
+    "124705614",
+    "124705615",
+    "124705616",
+    "124705617",
+    "124705618",
+    "124705619",
+    "124705620",
+    "124705621",
+    "124705622",
+    "124705623",
+    "124705624",
+    "124705625",
+    "124705626",
+    "124705627",
+    "124705628",
+    "124705629",
+    "124705630",
+    "124705631",
+    "124705632",
+    "124705633",
+    "124705634",
+    "124705635",
+    "124705636",
+    "124705637",
+    "124705638",
+    "124705639",
+    "124705640"
+   ]
+  }
+ ],
+ "fragments": {
+  "70915601": {
+   "fragment_id": "70861308",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2009-02-13",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 42/2009\n\nde 12 de Fevereiro\n\nNo quadro dos objectivos do Programa do Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos com ganhos de eficiência, o Decreto-Lei n.º 206/2006, de 27 de Outubro, aprovou a Lei Orgânica do Ministério da Justiça, definido os modelos organizacionais dos serviços que integram a respectiva estrutura.\n\nTendo em vista a concretização desse esforço de racionalização estrutural consagrado no Decreto-Lei n.º 206/2006, o Governo propôs e a Assembleia da República aprovou a Lei n.º 37/2008, de 6 de Agosto, que aprovou a orgânica da Polícia Judiciária e decretou a missão, atribuições e tipo de organização interna deste corpo superior de polícia criminal.\n\nA nova Lei Orgânica da Polícia Judiciária configura-se não só como um momento de concentração, racionalização e especialização de meios, mas também de adaptação a novas formas de criminalidade, resultantes de transformações sociais, políticas e económicas. Estas novas formas de criminalidade, caracterizadas muitas vezes pela sua natureza extremamente complexa e de contornos e ramificações internacionais, implicaram uma alteração dos anteriores paradigmas de combate aos ilícitos criminais. São exemplos destes fenómenos de carácter cada vez mais transnacional o terrorismo, a corrupção ou o tráfico de estupefacientes.\n\nPerante este cenário, e tendo decorrido oito anos desde a aprovação da anterior Lei Orgânica(Decreto-Lei n.º 275-A/2000, de 9 de Novembro), tornou-se necessário actualizar e adequar a estrutura orgânica da Polícia Judiciária.\n\nNeste sentido e de forma a aumentar a operacionalidade da Polícia Judiciária, a Lei n.º 37/2008, criou as unidades nacionais, com missão especial no combate à criminalidade organizada, em substituição das anteriores direcções centrais, tendo em conta as novas características da criminalidade e as exigências de resposta e intervenção adequadas do ponto de vista da operacionalidade.\n\nAinda de acordo com a lógica de reorganização estrutural dos serviços, e considerando a necessidade de racionalização dos recursos no sentido da obtenção de maior eficiência e eficácia nas actividades desenvolvidas, foram criadas unidades com diferentes âmbitos de actuação e novas designações.\n\nA nova Lei Orgânica da Polícia Judiciária colocou ainda, na dependência directa da Direcção Nacional, a Escola de Polícia Judiciária - anterior Instituto Superior de Polícia Judiciária e Ciências Criminais - concebendo-a como uma unidade orgânica especializada na formação dos funcionários da Polícia Judiciária e de outros órgãos de polícia criminal, sem esquecer a componente da cooperação internacional, a Unidade de Prevenção e Apoio Tecnológico, a Unidade de Informação Financeira e a Unidade de Planea-mento, Assessoria Técnica e Documentação.\n\nImporta agora, no desenvolvimento da Lei n.º 37/2008, e de acordo com o disposto no n.º 2 do artigo 22.º e do n.º 1 do artigo 29.º, definir as competências das respectivas unidades orgânicas, de acordo com os princípios e orientações que resultam da nova Lei Orgânica da Polícia Judiciária.\n\nA Lei n.º 37/2008, de 6 de Agosto, estabeleceu ainda a orgânica dos cargos de direcção. Torna-se, por isso, necessário também definir o regime remuneratório dos dirigentes da Polícia Judiciária.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "70883405": {
+   "fragment_id": "70861309",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "70883406": {
+   "fragment_id": "70861310",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei, ao abrigo do disposto no n.º 2 do artigo 22.º e do n.º 1 do artigo 29.º da Lei n.º 37/2008, de 6 de Agosto, estabelece as competências das unidades da Polícia Judiciária, abreviadamente designada por PJ.\n\n2 - O presente decreto-lei estabelece ainda o regime remuneratório dos dirigentes da PJ."
+  },
+  "70883407": {
+   "fragment_id": "70861311",
+   "type": 1,
+   "heading": "Capítulo II — Competências das unidades da PJ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Competências das unidades da PJ"
+  },
+  "70883408": {
+   "fragment_id": "70861312",
+   "type": 8,
+   "heading": "Secção I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposição geral"
+  },
+  "70883409": {
+   "fragment_id": "70861313",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura nuclear da PJ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estrutura nuclear da PJ\n\n1 - A PJ integra as seguintes unidades orgânicas nucleares:\n\na) Serviços da Direcção Nacional:\n\ni) A Escola de Polícia Judiciária;\n\nii) A Unidade de Prevenção e Apoio Tecnológico;\n\niii) A Unidade de Informação Financeira;\n\niv) A Unidade de Planeamento, Assessoria Técnica e Documentação;\n\nb) Unidades nacionais:\n\ni) A Unidade Nacional Contra-Terrorismo;\n\nii) A Unidade Nacional de Combate à Corrupção;\n\niii) A Unidade Nacional de Combate ao Tráfico de Estupefacientes;\n\nc) Unidades territoriais:\n\ni) A Directoria do Norte;\n\nii) A Directoria do Centro;\n\niii) A Directoria de Lisboa e Vale do Tejo;\n\niv) A Directoria do Sul;\n\nd) Unidades regionais:\n\ni) Departamento de Investigação Criminal de Aveiro;\n\nii) Departamento de Investigação Criminal de Braga;\n\niii) Departamento de Investigação Criminal do Funchal;\n\niv) Departamento de Investigação Criminal da Guarda;\n\nv) Departamento de Investigação Criminal de Leiria;\n\nvi) Departamento de Investigação Criminal de Ponta Delgada;\n\nvii) Departamento de Investigação Criminal de Portimão;\n\nviii) Departamento de Investigação Criminal de Setúbal;\n\ne) Unidades locais de investigação criminal:\n\ni) Vila Real;\n\nii) Évora;\n\nf) Unidades de apoio à investigação:\n\ni) Unidade de Informação de Investigação Criminal;\n\nii) Unidade de Cooperação Internacional;\n\niii) Laboratório de Polícia Científica;\n\niv) Unidade de Telecomunicações e Informática;\n\ng) Unidades de suporte:\n\ni) Unidade de Administração Financeira, Patrimonial e Segurança;\n\nii) Unidade de Recursos Humanos e Relações Públicas;\n\niii) Unidade de Perícia Financeira e Contabilística;\n\niv) Unidade Disciplinar e de Inspecção.\n\n2 - As unidades orgânicas da PJ podem integrar as seguintes unidades orgânicas flexíveis:\n\na) Áreas;\n\nb) Sectores;\n\nc) Núcleos.\n\n3 - As unidades orgânicas nucleares que integram serviços de investigação criminal são ainda organizadas em secções e brigadas, não sujeitas à definição do número de unidades orgânicas flexíveis.\n\n4 - As secções são coordenadas por coordenadores de investigação criminal, nos termos definidos por decreto-lei próprio.\n\n5 - As brigadas são chefiadas por inspectores-chefes, nos termos definidos por decreto-lei próprio.\n\n6 - Quando não seja possível prover a coordenação ou chefias das secções e brigadas nos termos definidos nos números anteriores, a mesma pode, por despacho do director nacional, ser assegurada por trabalhador de categoria imediatamente inferior, por um período de um ano, não renovável.\n\n7 - Por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da justiça, sob proposta do director nacional da PJ e com base em estudos de factores criminológicos, podem ser criadas outras unidades locais de investigação"
+  },
+  "70883410": {
+   "fragment_id": "70861314",
+   "type": 8,
+   "heading": "Secção II — Serviços da Direcção Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços da Direcção Nacional"
+  },
+  "70883411": {
+   "fragment_id": "70861315",
+   "type": 11,
+   "heading": "Artigo 3.º — Escola de Polícia Judiciária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Escola de Polícia Judiciária\n\nA Escola de Polícia Judiciária, designada abreviadamente pela sigla EPJ, tem as seguintes competências:\n\na) Programar e executar acções de formação inicial e aperfeiçoamento permanente do pessoal da PJ;\n\nb) Colaborar no recrutamento e selecção de pessoal, designadamente na execução de testes e provas de aptidão para candidatos ao ingresso na PJ, e acompanhar, sempre que necessário, o período probatório dos inspectores estagiários;\n\nc) Preparar e ministrar cursos de formação a entidades nacionais que operam na área da justiça e da segurança, respeitando as competências de coordenação nesta área atribuídas ao secretário-geral do Sistema de Segurança Interna, bem como de organismos similares dos países de língua portuguesa ou ibero-americanos;\n\nd) Cooperar com diversas instituições, a nível interno, europeu e internacional, no âmbito da formação e da investigação científica, sem prejuízo das competências atribuídas a outras entidades com responsabilidade nesta área;\n\ne) Organizar e administrar o museu da PJ, assegurando a recolha, conservação, estudo e divulgação dos objectos que possuam interesse criminalístico, histórico, documental e museológico existentes na PJ e dos apreendidos que venham a ser declarados perdidos a favor do Estado."
+  },
+  "70883412": {
+   "fragment_id": "70861316",
+   "type": 11,
+   "heading": "Artigo 4.º — Unidade de Prevenção e Apoio Tecnológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Unidade de Prevenção e Apoio Tecnológico\n\n1 - A Unidade de Prevenção e Apoio Tecnológico, designada abreviadamente pela sigla UPAT, tem, a nível nacional, as seguintes competências:\n\na) Desenvolver acções de pesquisa e vigilância a actividades, pessoas e locais suspeitos, em apoio aos serviços de investigação criminal, nos termos do artigo 4.º da Lei n.º 37/2008, de 6 de Agosto, e do artigo 189.º do Código de Processo Penal;\n\nb) Desenvolver as actuações previstas na Lei n.º 101/2001, de 25 de Agosto, em colaboração com os serviços de investigação criminal;\n\nc) Desenvolver as actuações previstas no artigo 160.º-A da Lei n.º 144/99, de 31 de Agosto, na redacção que lhe foi dada pelo artigo 2.º da Lei n.º 104/2001, de 25 de Agosto, em colaboração com os serviços de investigação criminal.\n\n2 - Compete ainda à UPAT gerir os equipamentos e recursos necessários ao seu funcionamento e promover o desenvolvimento de projectos tecnológicos adequados."
+  },
+  "70883413": {
+   "fragment_id": "70861317",
+   "type": 11,
+   "heading": "Artigo 5.º — Unidade de Informação Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Unidade de Informação Financeira\n\n1 - A Unidade de Informação Financeira, designada abreviadamente pela sigla UIF, tem como competências recolher, centralizar, tratar e difundir, a nível nacional, a informação respeitante à prevenção e investigação dos crimes de branqueamento de vantagens de proveniência ilícita, financiamento do terrorismo e dos crimes tributários, assegurando, no plano interno, a cooperação e articulação com a autoridade judiciária, com as autoridades de supervisão e de fiscalização e com as entidades financeiras e não financeiras, previstas na Lei n.º 25/2008, de 5 de Junho, e, no plano internacional, a cooperação com as unidades de informação financeira ou estruturas congéneres.\n\n2 - As competências a que se refere o número anterior não prejudicam as atribuições, nesta área, dos órgãos da administração tributária.\n\n3 - Podem integrar a UIF trabalhadores da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, da Direcção-Geral dos Impostos e de outras autoridades de supervisão ou serviços e estruturas governamentais, em regime a definir pelos respectivos ministros."
+  },
+  "70883414": {
+   "fragment_id": "70861318",
+   "type": 11,
+   "heading": "Artigo 6.º — Unidade de Planeamento, Assessoria Técnica e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Unidade de Planeamento, Assessoria Técnica e Documentação\n\n1 - A Unidade de Planeamento, Assessoria Técnica e Documentação, designada abreviadamente pela sigla UPATD, tem as seguintes competências:\n\na) Planeamento da gestão global da PJ;\n\nb) Análise e avaliação de procedimentos;\n\nc) Assessoria técnica e jurídica;\n\nd) Documentação, tradução e interpretação.\n\n2 - No desenvolvimento das competências referidas no número anterior a UPATD deve, designadamente:\n\na) Conceber e elaborar planos de desenvolvimento coordenado da PJ;\n\nb) Analisar e avaliar a actividade das unidades orgânicas em função do cumprimento das políticas, planos, procedimentos, leis e regulamentos e na perspectiva de assegurar uma maior eficácia e eficiência do funcionamento dos serviços;\n\nc) Elaborar pareceres e informações de natureza técnica e jurídica sobre os assuntos submetidos à sua apreciação pelo director nacional ou pelos directores nacionais adjuntos;\n\nd) Elaborar relatórios e análises de dados sobre o estado e a evolução da criminalidade;\n\ne) Preparar, em articulação com as estruturas envolvidas, a elaboração de directivas, de instruções permanentes de serviço ou de regulamentos que forem determinados pelo director nacional;\n\nf) Dinamizar a realização de acções e de estudos de direito e polícia comparada nos domínios da polícia judiciária e criminal, da informação criminal, da polícia técnica e científica, da perícia e da cooperação;\n\ng) Secretariar a Direcção Nacional;\n\nh) Conceber, manter e desenvolver os sistemas de documentação;\n\ni) Garantir a operacionalidade, manutenção, actualização e promover e coordenar o acesso às aplicações e ficheiros informáticos de natureza documental, de acordo com as normas de segurança aplicáveis;\n\nj) Traduzir informação e documentação de suporte à investigação criminal e actuar no âmbito da interpretação."
+  },
+  "70883415": {
+   "fragment_id": "70861319",
+   "type": 8,
+   "heading": "Secção III — Unidades nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Unidades nacionais"
+  },
+  "70883416": {
+   "fragment_id": "70861320",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidade Nacional Contra-Terrorismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Unidade Nacional Contra-Terrorismo\n\n1 - A Unidade Nacional Contra-Terrorismo, designada abreviadamente pela sigla UNCT, tem competências em matéria de prevenção, detecção, investigação criminal e de coadjuvação das autoridades judiciárias relativamente aos seguintes crimes:\n\na) Organizações terroristas e terrorismo;\n\nb) Contra a segurança do Estado, com excepção dos que respeitem ao processo eleitoral;\n\nc) Captura ou atentado à segurança de transporte por ar, água, caminho de ferro ou de transporte rodoviário a que corresponda, em abstracto, pena igual ou superior a 8 anos de prisão;\n\nd) Executados com bombas, granadas, matérias ou engenhos explosivos, armas de fogo e objectos armadilhados, armas nucleares, químicas ou radioactivas;\n\ne) Praticados contra o Presidente da República, o Presidente da Assembleia da República, o Primeiro-Ministro, os presidentes dos tribunais superiores e o Procurador-Geral da República, no exercício das suas funções ou por causa delas;\n\nf) Relacionados com os referidos nas alíneas anteriores.\n\n2 - Compete, ainda, à UNCT a prevenção, detecção, investigação criminal e de coadjuvação das autoridades judiciárias dos seguintes crimes:\n\na) Escravidão, sequestro, rapto e tomada de reféns;\n\nb) Contra a identidade cultural e integridade pessoal e os previstos na Lei Penal Relativa às Violações do Direito Internacional Humanitário;\n\nc) Roubo em instituições de crédito, repartições da Fazenda Pública e correios;\n\nd) Participação em motim armado;\n\ne) Tráfico de armas;\n\nf) Relacionados com os referidos nas alíneas anteriores."
+  },
+  "70883417": {
+   "fragment_id": "70861321",
+   "type": 11,
+   "heading": "Artigo 8.º — Unidade Nacional de Combate à Corrupção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Unidade Nacional de Combate à Corrupção\n\n1 - A Unidade Nacional de Combate à Corrupção, designada abreviadamente pela sigla UNCC, tem competências em matéria de prevenção, detecção, investigação criminal e a coadjuvação das autoridades judiciárias relativamente aos crimes de corrupção, peculato, tráfico de influências e participação económica em negócio.\n\n2 - Compete, ainda, à UNCC a prevenção e investigação dos seguintes crimes:\n\na) Prevaricação e abuso de poderes praticados por titulares de cargos políticos;\n\nb) Fraude na obtenção ou desvio de subsídio ou subvenção e ainda fraude na obtenção de crédito bonificado;\n\nc) Económico-financeiros;\n\nd) Contrafacção de moeda, títulos de crédito, valores selados, selos e outros valores equiparados ou a respectiva passagem;\n\ne) Relativos ao mercado de valores mobiliários;\n\nf) Insolvência dolosa e administração danosa;\n\ng) Branqueamento;\n\nh) Crimes tributários de valor superior a (euro) 500 000;\n\ni) Crimes conexos com os referidos no n.º 1 e nas alíneas b) a e), g) e h).\n\n3 - Compete ainda à UNCC desenvolver as acções de prevenção anteriormente atribuídas pelo artigo 1.º da Lei n.º 36/94, de 29 de Setembro, à Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económico Financeiras da Polícia Judiciária."
+  },
+  "70883418": {
+   "fragment_id": "70861322",
+   "type": 11,
+   "heading": "Artigo 9.º — Unidade Nacional de Combate ao Tráfico de Estupefacientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Unidade Nacional de Combate ao Tráfico de Estupefacientes\n\nA Unidade Nacional de Combate ao Tráfico de Estupefacientes, designada abreviadamente pela sigla UNCTE, tem competências em matéria de prevenção, detecção, investigação criminal e a coadjuvação das autoridades judiciárias relativamente aos crimes de tráfico de estupefacientes e de substâncias psicotrópicas, tipificados nos artigos 21.º, 22.º, 27.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, e dos demais previstos no presente decreto-lei que lhe sejam participados ou de que colha notícia."
+  },
+  "70883419": {
+   "fragment_id": "70861323",
+   "type": 11,
+   "heading": "Artigo 10.º — Extensões das unidades nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Extensões das unidades nacionais\n\n1 - A UNCC e a UNCTE dispõem de extensões nas unidades territoriais sedeadas fora das respectivas sedes, e nas unidades regionais, ficando organicamente integradas nestas unidades.\n\n2 - A UNCT dispõe de extensões nas unidades territoriais sedeadas fora da respectiva sede, ficando organicamente integradas nestas unidades.\n\n3 - As competências que funcionalmente devam ser desenvolvidas pelas extensões na área geográfica de intervenção das unidades territoriais e regionais são coordenadas pelos directores destas unidades, em articulação com o director da unidade nacional respectiva, observando-se a disciplina fixada pelo director nacional."
+  },
+  "70883420": {
+   "fragment_id": "70861324",
+   "type": 8,
+   "heading": "Secção IV — Unidades territoriais, regionais e locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Unidades territoriais, regionais e locais"
+  },
+  "70883421": {
+   "fragment_id": "70861325",
+   "type": 11,
+   "heading": "Artigo 11.º — Unidades territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Unidades territoriais\n\nÀs unidades territoriais compete a prevenção, detecção, investigação e coadjuvação das autoridades judiciárias relativamente aos crimes da competência da PJ, praticados ou conhecidos na sua área geográfica de intervenção, cuja competência não esteja atribuída às unidades nacionais."
+  },
+  "70883422": {
+   "fragment_id": "70861326",
+   "type": 11,
+   "heading": "Artigo 12.º — Unidades regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Unidades regionais\n\nÀs unidades regionais compete a prevenção, detecção, investigação e coadjuvação das autoridades judiciárias relativamente aos crimes da competência da PJ, praticados ou conhecidos na sua área geográfica de intervenção, cuja competência não esteja atribuída às unidades nacionais."
+  },
+  "70883423": {
+   "fragment_id": "70861327",
+   "type": 11,
+   "heading": "Artigo 13.º — Unidades locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Unidades locais\n\nÀs unidades locais compete a prevenção, detecção, investigação e coadjuvação das autoridades judiciárias, na sua área geográfica de intervenção, relativamente aos crimes da competência da PJ, praticados ou conhecidos na sua área geográfica de intervenção, cuja competência não esteja atribuída às unidades nacionais."
+  },
+  "70883424": {
+   "fragment_id": "70861328",
+   "type": 8,
+   "heading": "Secção V — Unidades de apoio à investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Unidades de apoio à investigação"
+  },
+  "70883425": {
+   "fragment_id": "70861329",
+   "type": 11,
+   "heading": "Artigo 14.º — Unidade de Informação de Investigação Criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Unidade de Informação de Investigação Criminal\n\n1 - A Unidade de Informação de Investigação Criminal, designada abreviadamente pela sigla UIIC, tem as seguintes competências:\n\na) Centralizar, manter e assegurar a gestão nacional do sistema de informação criminal da PJ;\n\nb) Recolher, tratar, registar, analisar e difundir a informação relativa à criminalidade conhecida em articulação com os sistemas de informação criminal legalmente previstos;\n\nc) Realizar acções de prevenção criminal e de detecção de pessoas desaparecidas.\n\n2 - Nos termos dos n.os 2 e 3 do artigo 4.º da Lei n.º 37/2008, de 6 de Agosto, e no âmbito da prevenção criminal, compete à UIIC efectuar a detecção e dissuasão de situações propícias à prática de crimes, nomeadamente vigiar e fiscalizar lugares e estabelecimentos que possam ocultar actividades de receptação ou comercialização ilícita de bens.\n\n3 - Os proprietários, administradores, gerentes, directores ou quaisquer outros responsáveis dos estabelecimentos referidos no número anterior constituem-se na obrigação, após para tal notificados, de entregar na unidade da PJ com jurisdição na área em que se situam, no prazo de cinco dias, relações completas, conforme modelo exclusivo cuja cópia lhes é facultada em suporte digital ou de papel, das transacções efectuadas, com identificação dos respectivos intervenientes e objectos transaccionados, incluindo os que lhes tenham sido entregues para venda ou permuta, a pedido ou por ordem de outrem.\n\n4 - A obrigação referida no número anterior pode ser estendida a quem tiver a exploração de simples locais nos quais se proceda às transacções aí mencionadas.\n\n5 - As companhias de seguros devem comunicar à unidade da PJ com jurisdição na área em que se situam, até ao dia 5 do mês seguinte àquele em que a regularização ou transacção se tenha efectuado, as existências ou as vendas de salvados de veículos automóveis, com indicação, conforme os casos, da identidade do comprador, do preço da venda e dos elementos identificadores do veículo a que respeitam.\n\n6 - Os objectos adquiridos pelos estabelecimentos e locais mencionados no n.º 2, com excepção dos veículos e acessórios, não podem ser modificados ou alienados antes de decorridos 20 dias contados a partir da entrega das relações a que se referem os n.os 3 e 5.\n\n7 - A violação do disposto nos n.os 3 a 6, constitui contra-ordenação punida com coima de (euro) 250 a (euro) 2500, cuja aplicação é da competência do director nacional, que determina a unidade da PJ a quem compete a respectiva investigação.\n\n8 - A negligência é punível, sendo os limites mínimo e máximo da coima aplicável reduzidos a metade."
+  },
+  "70883426": {
+   "fragment_id": "70861330",
+   "type": 11,
+   "heading": "Artigo 15.º — Unidade de Cooperação Internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Unidade de Cooperação Internacional\n\n1 - A Unidade de Cooperação Internacional, designada abreviadamente pela sigla UCI, assegura o funcionamento da Unidade Nacional da EUROPOL e do Gabinete Nacional INTERPOL, para os efeitos da missão da PJ e para partilha de informação com outros órgãos de polícia criminal.\n\n2 - No desenvolvimento do número anterior compete à UCI, nomeadamente:\n\na) Receber e encaminhar os pedidos de detenção provisória que devam ser executados em processos de extradição;\n\nb) Garantir a operacionalidade dos mecanismos de cooperação policial, no âmbito da Organização Internacional de Polícia Criminal (OIPC/INTERPOL), da EUROPOL e de outros organismos internacionais da mesma natureza;\n\nc) Desenvolver, acompanhar e analisar processos, projectos e missões no plano internacional e da cooperação institucional com outros Estados, em especial com os de língua oficial portuguesa;\n\nd) Coordenar a participação da PJ nas instâncias competentes no quadro da cooperação policial da União Europeia;\n\ne) Garantir o acolhimento e acompanhamento das entidades de polícia congéneres que se deslocam em serviço ao território nacional;\n\nf) Proceder à gestão relativa à colocação de oficiais de ligação da PJ.\n\n3 - O Ministério Público promove o envio à UCI das certidões das sentenças proferidas contra cidadãos estrangeiros condenados em foro criminal.\n\n4 - A Direcção-Geral dos Serviços Prisionais comunica à UCI os factos relevantes relativos ao cumprimento das penas aplicadas a cidadãos estrangeiros."
+  },
+  "70883427": {
+   "fragment_id": "70861331",
+   "type": 11,
+   "heading": "Artigo 16.º — Laboratório de Polícia Científica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Laboratório de Polícia Científica\n\n1 - O Laboratório de Polícia Científica, designado abreviadamente por LPC, tem as seguintes competências:\n\na) Pesquisar, recolher, tratar, registar vestígios e realizar perícias nos diversos domínios das ciências forenses, nomeadamente da balística, biologia, documentos, escrita manual, física, lofoscopia, química e toxicologia;\n\nb) Implementar novos tipos de perícia e desenvolver as existentes;\n\nc) Divulgar a informação técnico-científica que se revele pertinente perante novos cenários de criminalidade;\n\nd) Emitir pareceres e prestar assessoria técnico-científica no domínio das suas competências em ciências forenses;\n\ne) Implementar um sistema de gestão para a qualidade e para as actividades administrativas e técnicas;\n\nf) Assegurar a participação técnica e científica da PJ, em matéria de ciências forenses, nas diferentes instâncias nacionais, comunitárias e internacionais.\n\n2 - O LPC goza de autonomia técnica e científica.\n\n3 - A competência do LPC é cumulativa com a dos serviços médico-legais.\n\n4 - O LPC pode recorrer à colaboração de outros estabelecimentos, laboratórios ou serviços oficiais de especialidade, assim como colaborar com qualquer entidade ou serviço oficial, sem prejuízo do serviço da PJ e demais órgãos de polícia criminal a que deve apoio.\n\n5 - O LPC pode dispor, na dependência técnica e científica do seu director, de unidades flexíveis junto das unidades territoriais, nos termos previstos no n.º 2 do artigo 2.º\n\n6 - A existência, número e localização das delegações referidas no número anterior é definida em despacho do membro do Governo responsável pela área da justiça."
+  },
+  "70883428": {
+   "fragment_id": "70861332",
+   "type": 11,
+   "heading": "Artigo 17.º — Unidade de Telecomunicações e Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Unidade de Telecomunicações e Informática\n\n1 - A Unidade de Telecomunicações e Informática, designada abreviadamente pela sigla UTI, tem as seguintes competências:\n\na) Instalação, exploração, manutenção e segurança dos sistemas de telecomunicações da PJ, bem como a sua interligação às redes da Organização Internacional de Polícia Criminal, da EUROPOL e de outros organismos internacionais da mesma natureza;\n\nb) Desenvolvimento, gestão e manutenção de aplicações informáticas;\n\nc) Gestão e funcionamento dos equipamentos e sistemas informáticos e de telecomunicações, bem como das respectivas redes;\n\nd) Selecção e instalação de equipamentos e sistemas tecnológicos de suporte a actividades de outras unidades orgânicas da PJ;\n\ne) Apoio técnico à prevenção e investigação criminal;\n\nf) Coadjuvação das autoridades judiciárias, no âmbito das suas competências.\n\n2 - No desenvolvimento das competências referidas no número anterior a UTI deve, designadamente:\n\na) Conceber a arquitectura dos equipamentos e das redes de comunicações;\n\nb) Garantir a operacionalidade, manutenção, actualização e segurança dos equipamentos e dos seus suportes bem como das aplicações informáticas e bases de dados;\n\nc) Elaborar os pareceres necessários à selecção de equipamentos e sistemas de suporte ao desenvolvimento e exploração dos sistemas aplicacionais e das redes de comunicações de rádio, de dados, de voz e de imagem;\n\nd) Colaborar com os serviços utilizadores na selecção de sistemas ou equipamentos tecnológicos específicos e consequente instalação e manutenção;\n\ne) Definir, executar ou coordenar a execução de procedimentos de segurança, confidencialidade e integridade da informação armazenada nos sistemas informáticos e garantir a sua transmissão de forma segura através das redes de comunicações;\n\nf) Promover o desenvolvimento de projectos tecnológicos adequados ao cumprimento do disposto nos artigos 187.º e seguintes do Código de Processo Penal e gerir os equipamentos e recursos necessários ao funcionamento fiável e seguro dos respectivos equipamentos e sistemas;\n\ng) Realizar acções de despistagem de intercepções ilegais de comunicações;\n\nh) Realizar perícias em equipamentos de telecomunicações e de informática, determinadas pelas autoridades judiciárias e de polícia criminal;\n\ni) Apoiar a investigação criminal, auxiliando acções de recolha e análise de equipamentos de telecomunicações e informática, elaborando pareceres, prestando assessoria técnica e participando na realização de buscas e outras diligências de prova;\n\nj) Apoiar os utentes na exploração, gestão e manutenção dos equipamentos dos sistemas e das redes em exploração;\n\nl) Colaborar com a entidade gestora na gestão do SIRESP (Sistema Integrado de Redes de Emergência e Segurança de Portugal);\n\nm) Garantir a disponibilidade, com segurança, dos acessos dos utilizadores nacionais à informação da INTERPOL, EUROPOL e de outros organismos da mesma natureza;\n\nn) Formar e treinar os operadores;\n\no) Colaborar na formação dos utentes das aplicações e dos sistemas informáticos e de comunicações em exploração na PJ.\n\n3 - A UTI goza de autonomia técnica e científica.\n\n4 - A UTI pode dispor, na dependência técnica e científica do seu director, de unidades flexíveis junto das unidades territoriais, nos termos previstos no n.º 2 do artigo 2.º\n\n5 - A existência, número e localização das delegações referidas no número anterior é definida em despacho do membro do Governo responsável pela área da justiça."
+  },
+  "70883429": {
+   "fragment_id": "70861333",
+   "type": 8,
+   "heading": "Secção VI — Unidades de suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Unidades de suporte"
+  },
+  "70883430": {
+   "fragment_id": "70861334",
+   "type": 11,
+   "heading": "Artigo 18.º — Unidade de Administração Financeira, Patrimonial e de Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Unidade de Administração Financeira, Patrimonial e de Segurança\n\n1 - A Unidade de Administração Financeira, Patrimonial e de Segurança, designada abreviadamente pela sigla UAFPS, tem as seguintes competências:\n\na) Gestão financeira e controlo orçamental;\n\nb) Administração patrimonial, compreendendo o património imobiliário e mobiliário e a frota automóvel;\n\nc) Registo, expediente e arquivo;\n\nd) Segurança de pessoas, instalações e equipamentos;\n\ne) Armamento.\n\n2 - No desenvolvimento das competências previstas nas alíneas a) a c) do número anterior a UAFPS deve, designadamente:\n\na) Preparar e propor o orçamento e o plano de investimentos;\n\nb) Realizar estudos e análises relativos à gestão financeira e patrimonial;\n\nc) Assegurar a normalização de procedimentos no âmbito financeiro em todas as unidades orgânicas, elaborando instruções adequadas, designadamente em matéria de arrecadação de receitas próprias resultantes da actividade da PJ;\n\nd) Promover e organizar os procedimentos necessários à realização de aquisições de bens e serviços e de empreitadas de obras públicas, incluindo a sua análise jurídica;\n\ne) Verificar e controlar a legalidade da despesa;\n\nf) Elaborar mapas e relatórios de execução necessários ao adequado controlo e avaliação orçamental;\n\ng) Assegurar a administração das dotações orçamentais, designadamente a requisição de fundos, a realização de pagamentos e o controlo do movimento de tesouraria;\n\nh) Organizar a contabilidade e manter actualizada a escrituração e os registos contabilísticos obrigatórios;\n\ni) Elaborar a conta de gerência a submeter à aprovação do director nacional;\n\nj) Assegurar a actualização do inventário dos bens patrimoniais;\n\nl) Assegurar, em colaboração com as demais unidades orgânicas, a administração e o controlo das instalações e equipamentos que lhes estão afectos;\n\nm) Gerir e fiscalizar a execução de obras em articulação com as demais unidades orgânicas;\n\nn) Assegurar o pagamento prévio atempado da taxa de justiça, nos termos previstos na alínea a) do artigo 15.º do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de Fevereiro.\n\n3 - No âmbito das competências previstas nas alíneas d) e e) do n.º 1, a UAFPS deve, designadamente:\n\na) Proceder a estudos, análises e testes dos equipamentos em geral e dos de segurança e armamento em especial, com vista à respectiva aquisição;\n\nb) Guardar, conservar e distribuir os equipamentos, armamento e respectivas munições;\n\nc) Proceder ao controlo e verificação anual individual do armamento e munições distribuídos, mantendo actualizados os respectivos processos individuais dos trabalhadores, em articulação com a URHRP;\n\nd) Proceder em colaboração com a EPJ à definição de padrões e parâmetros de avaliação do treino de tiro a observar obrigatoriamente a nível nacional;\n\ne) Proceder à verificação anual dos níveis de apuro e destreza individual na utilização do armamento;\n\nf) Remeter as informações individuais, nos termos da alínea anterior, à URHRP para inclusão nos respectivos processos individuais;\n\ng) Definir as normas e procedimentos na área da prevenção e segurança das instalações;\n\nh) Garantir a segurança do pessoal, das instalações e das matérias classificadas.\n\n4 - Com vista ao exercício das suas competências, a UAFPS centraliza toda a informação orçamental e financeira, distribuindo internamente o orçamento da PJ pelas unidades, as quais funcionam como centros de custo."
+  },
+  "70883431": {
+   "fragment_id": "70861335",
+   "type": 11,
+   "heading": "Artigo 19.º — Unidade de Recursos Humanos e Relações Públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Unidade de Recursos Humanos e Relações Públicas\n\nA Unidade de Recursos Humanos e Relações Públicas, designada abreviadamente pela sigla URHRP, tem competências em matéria de recrutamento e selecção, gestão de pessoal e relações públicas, designadamente:\n\na) Assegurar a gestão previsional dos efectivos;\n\nb) Proceder a todas as operações necessárias ao recrutamento e selecção de pessoal;\n\nc) Processar as remunerações permanentes e acessórias;\n\nd) Assegurar a gestão das carreiras, nomeadamente a colocação, promoção, aposentação, disponibilidade e avaliação de desempenho;\n\ne) Informar a EPJ das necessidades de formação inicial e formação especializada até 31 de Janeiro de cada ano;\n\nf) Assegurar apoio psicossocial e médico aos trabalhadores e garantir o acompanhamento dos casos de absentismo;\n\ng) Organizar e manter actualizados os processos individuais dos trabalhadores;\n\nh) Elaborar o balanço social;\n\ni) Acompanhar os processos administrativos, graciosos e contenciosos e organizar processos de acidente em serviço;\n\nj) Elaborar pareceres jurídicos relativos à gestão de recursos humanos, de pessoal e de relações públicas;\n\nl) Promover e coordenar o relacionamento com os órgãos de comunicação social;\n\nm) Planear e dinamizar a representação da PJ, organizando eventos e apoiando iniciativas relevantes."
+  },
+  "70883432": {
+   "fragment_id": "70861336",
+   "type": 11,
+   "heading": "Artigo 20.º — Unidade de Perícia Financeira e Contabilística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Unidade de Perícia Financeira e Contabilística\n\n1 - A Unidade de Perícia Financeira e Contabilística, designada abreviadamente pela sigla UPFC, tem as seguintes competências:\n\na) Realizar perícias financeiras, contabilísticas e bancárias, ordenadas pelas autoridades judiciárias e de polícia criminal;\n\nb) Prestar assessoria técnica aos serviços de investigação criminal, auxiliando as acções de recolha e análise de documentos e outros meios de prova;\n\nc) Coadjuvar as autoridades judiciárias, nas fases de inquérito, instrução e julgamento, no âmbito das suas competências.\n\n2 - A UPFC goza de autonomia técnica e científica.\n\n3 - A UPFC pode dispor, na dependência técnica do director da unidade, de unidades flexíveis junto das unidades territoriais, nos termos previstos no n.º 2 do artigo 2.º\n\n4 - A existência, número e localização das delegações referidas no número anterior é definida em despacho do membro do Governo responsável pela área da justiça."
+  },
+  "70883433": {
+   "fragment_id": "70861337",
+   "type": 11,
+   "heading": "Artigo 21.º — Unidade Disciplinar e de Inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Unidade Disciplinar e de Inspecção\n\n1 - A Unidade Disciplinar e de Inspecção, designada abreviadamente pela sigla UDI, tem as seguintes competências:\n\na) Disciplinar, designadamente, procedendo à instrução de processos de inquérito, disciplinares e de averiguações;\n\nb) Inspecção e auditoria aos serviços, propondo as medidas adequadas no domínio da organização do trabalho, do desempenho e da qualificação profissional.\n\n2 - O director da UDI dispõe de livre acesso a todos os locais e serviços conexos com as concretas actividades disciplinares, de auditoria ou de inspecção a seu cargo.\n\n3 - O director da UDI nomeia os instrutores e secretários nos processos de natureza disciplinar, procedendo ao seu acompanhamento, supervisão e orientação técnica."
+  },
+  "70883434": {
+   "fragment_id": "70861338",
+   "type": 1,
+   "heading": "Capítulo III — Regime remuneratório dos dirigentes da PJ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime remuneratório dos dirigentes da PJ"
+  },
+  "70883435": {
+   "fragment_id": "70861339",
+   "type": 11,
+   "heading": "Artigo 22.º — Lugares de direcção superior e intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Lugares de direcção superior e intermédia\n\nOs lugares de direcção da PJ têm as seguintes qualificações e graus:\n\na) Director nacional, cargo de direcção superior de 1.º grau;\n\nb) Directores nacionais-adjuntos, cargo de direcção superior de 2.º grau;\n\nc) Director da Escola de Polícia Judiciária, cargo de direcção intermédia de 1.º grau;\n\nd) Director da Unidade de Prevenção e Apoio Tecnológico, cargo de direcção intermédia de 1.º grau;\n\ne) Director da Unidade de Informação Financeira, cargo de direcção intermédia de 1.º grau;\n\nf) Director da Unidade de Planeamento, Assessoria Técnica e Documentação, cargo de direcção intermédia de 1.º grau;\n\ng) Directores de unidades nacionais, cargo de direcção intermédia de 1.º grau;\n\nh) Directores de unidades territoriais, cargo de direcção intermédia de 1.º grau;\n\ni) Subdirectores de unidades territoriais, cargo de direcção intermédia de 1.º grau;\n\nj) Directores de unidades de apoio à investigação, cargo de direcção intermédia de 1.º grau;\n\nl) Directores de unidades de suporte, cargo de direcção intermédia de 1.º grau;\n\nm) Chefes de área, cargo de direcção intermédia de 2.º grau."
+  },
+  "70883436": {
+   "fragment_id": "70861340",
+   "type": 11,
+   "heading": "Artigo 23.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Remuneração\n\n1 - O director nacional é equiparado, para efeitos de remuneração base, a juiz desembargador com mais de cinco anos.\n\n2 - A estrutura indiciária da escala salarial do pessoal dirigente consta do anexo i do presente decreto-lei, do qual é parte integrante.\n\n3 - O índice 100 da escala salarial prevista no número anterior consta do anexo ii do presente decreto-lei, do qual faz parte integrante, que pode ser alterado por portaria dos membros do Governo responsáveis pelas áreas das finanças, Administração Pública e justiça."
+  },
+  "70883437": {
+   "fragment_id": "70861341",
+   "type": 11,
+   "heading": "Artigo 24.º — Suplemento de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Suplemento de risco\n\n1 - O subsídio de risco auferido pelo pessoal dirigente da PJ, enquanto no exercício de tais funções, permanece regulado, até à entrada em vigor do diploma previsto no artigo 55.º da Lei n.º 37/2008, de 6 de Agosto, pelas normas vigentes à data da entrada em vigor do presente decreto-lei.\n\n2 - Para efeitos no número anterior, os cargos de director de unidade nacional e de director de unidade territorial são equiparados ao de director nacional-adjunto, o cargo de subdirector de unidade territorial é equiparado ao cargo de subdirector nacional-adjunto e o cargo de director de unidade é equiparado ao cargo de director de departamento central.\n\n3 - O montante do suplemento referido no número anterior é actualizável nos termos gerais previstos para a actualização anual dos trabalhadores que exercem funções públicas."
+  },
+  "70883438": {
+   "fragment_id": "70861342",
+   "type": 11,
+   "heading": "Artigo 25.º — Despesas de representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Despesas de representação\n\nAo pessoal dirigente da PJ são abonadas despesas de representação nos termos da lei e de acordo com o mapa de equiparações constantes do anexo iii do presente decreto-lei, do qual faz parte integrante."
+  },
+  "70883439": {
+   "fragment_id": "70861343",
+   "type": 11,
+   "heading": "Artigo 26.º — Utilização de meios de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Utilização de meios de transporte\n\nO pessoal dirigente que, nos termos do artigo 11.º da Lei n.º 37/2008, de 6 de Agosto, seja autoridade de polícia criminal, tem direito à utilização, em todo o território nacional, dos transportes colectivos terrestres, fluviais e marítimos, nos termos definidos para os trabalhadores da carreira de investigação criminal."
+  },
+  "70883440": {
+   "fragment_id": "70861344",
+   "type": 11,
+   "heading": "Artigo 27.º — Incapacidade física",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Incapacidade física\n\nO regime legal em vigor para os deficientes das Forças Armadas e das forças de segurança é aplicável ao pessoal dirigente da PJ, com as devidas adaptações e nos termos previstos para a sua aplicação aos trabalhadores da PJ."
+  },
+  "70883441": {
+   "fragment_id": "70861345",
+   "type": 11,
+   "heading": "Artigo 28.º — Benefícios sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Benefícios sociais\n\nSem prejuízo do regime previsto no Decreto-Lei n.º 503/99, de 20 de Novembro, os dirigentes da PJ têm direito a um seguro destinado a cobrir os riscos de morte, invalidez permanente, absoluta ou parcial, e internamento emergentes de acidente de trabalho, a regulamentar por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, Administração Pública e da justiça."
+  },
+  "70883442": {
+   "fragment_id": "70861346",
+   "type": 11,
+   "heading": "Artigo 29.º — Opção de remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Opção de remuneração\n\n1 - Os magistrados e os trabalhadores providos em comissão de serviço em cargo de direcção da PJ podem optar pela remuneração correspondente ao lugar de origem.\n\n2 - O pessoal referido no número anterior tem direito ao suplemento fixado no artigo 24.º\n\n3 - Os magistrados em comissão de serviço na PJ conservam todos os direitos consagrados nos respectivos estatutos, considerando-se os serviços prestados como se o fossem nas categorias e funções próprias dos cargos de origem e não determinando abertura de vaga no lugar de origem ou naquele para o qual, entretanto, o titular tenha sido nomeado."
+  },
+  "70883443": {
+   "fragment_id": "70861347",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "70883444": {
+   "fragment_id": "70861348",
+   "type": 11,
+   "heading": "Artigo 30.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Norma transitória\n\nO disposto nos n.os 2 e 3 do artigo 23.º é objecto de nova regulamentação a partir da data de entrada em vigor do diploma previsto no artigo 55.º da Lei n.º 37/2008, de 6 de Agosto."
+  },
+  "70883445": {
+   "fragment_id": "70861349",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 63.º, os n.os 2 a 4 e 6 do artigo 90.º, o n.º 3 do artigo 92.º, o n.º 3 do artigo 94.º, os n.os 1 e 2 do artigo 161.º, excepto no que respeita ao pessoal de chefia, as tabelas n.os 1 e 2 do anexo ii, a primeira linha do anexo iii e o anexo iv do Decreto-Lei n.º 275-A/2000, de 9 de Novembro;\n\nb) A Portaria n.º 900/2003, de 28 de Agosto."
+  },
+  "70883446": {
+   "fragment_id": "70861350",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70883447": {
+   "fragment_id": "70861351",
+   "type": 14,
+   "heading": "Anexo I — Estrutura indiciária da escala salarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Estrutura indiciária da escala salarial\n\n(a que se refere o n.º 2 do artigo 23.º)\n\n(ver documento original)"
+  },
+  "70883448": {
+   "fragment_id": "70861352",
+   "type": 14,
+   "heading": "Anexo II — Valor correspondente ao índice 100 da escala salarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Valor correspondente ao índice 100 da escala salarial\n\n(a que se refere o n.º 3 do artigo 23.º)\n\nCargos dirigentes - (euro) 3628,82."
+  },
+  "70883449": {
+   "fragment_id": "70861353",
+   "type": 14,
+   "heading": "Anexo III — Equiparação para efeitos de despesas de representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Equiparação para efeitos de despesas de representação\n\n(a que se refere o artigo 25.º)\n\n(ver documento original)"
+  },
+  "105270886": {
+   "fragment_id": "70861313",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura nuclear da PJ",
+   "in_force_from": "2016-11-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+   ],
+   "markdown": "###### Artigo 2.º — Estrutura nuclear da PJ\n\n1 - A PJ integra as seguintes unidades orgânicas nucleares:\n\na) Serviços da Direcção Nacional:\n\ni) A Escola de Polícia Judiciária;\n\nii) A Unidade de Prevenção e Apoio Tecnológico;\n\niii) A Unidade de Informação Financeira;\n\niv) A Unidade de Planeamento, Assessoria Técnica e Documentação;\n\nb) Unidades nacionais:\n\ni) A Unidade Nacional Contra-Terrorismo;\n\nii) A Unidade Nacional de Combate à Corrupção;\n\niii) A Unidade Nacional de Combate ao Tráfico de Estupefacientes;\n\niv) A Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica;\n\nc) Unidades territoriais:\n\ni) A Directoria do Norte;\n\nii) A Directoria do Centro;\n\niii) A Directoria de Lisboa e Vale do Tejo;\n\niv) A Directoria do Sul;\n\nd) Unidades regionais:\n\ni) Departamento de Investigação Criminal de Aveiro;\n\nii) Departamento de Investigação Criminal de Braga;\n\niii) Departamento de Investigação Criminal do Funchal;\n\niv) Departamento de Investigação Criminal da Guarda;\n\nv) Departamento de Investigação Criminal de Leiria;\n\nvi) Departamento de Investigação Criminal de Ponta Delgada;\n\nvii) Departamento de Investigação Criminal de Portimão;\n\nviii) Departamento de Investigação Criminal de Setúbal;\n\ne) Unidades locais de investigação criminal:\n\ni) Vila Real;\n\nii) Évora;\n\nf) Unidades de apoio à investigação:\n\ni) Unidade de Informação de Investigação Criminal;\n\nii) Unidade de Cooperação Internacional;\n\niii) Laboratório de Polícia Científica;\n\niv) Unidade de Telecomunicações e Informática;\n\ng) Unidades de suporte:\n\ni) Unidade de Administração Financeira, Patrimonial e de Segurança;\n\nii) Unidade de Recursos Humanos e Relações Públicas;\n\niii) Unidade de Perícia Financeira e Contabilística;\n\niv) Unidade Disciplinar e de Inspecção.\n\n2 - As unidades orgânicas da PJ podem integrar as seguintes unidades orgânicas flexíveis:\n\na) Áreas;\n\nb) Sectores;\n\nc) Núcleos.\n\n3 - As unidades orgânicas nucleares que integram serviços de investigação criminal são ainda organizadas em secções e brigadas, não sujeitas à definição do número de unidades orgânicas flexíveis.\n\n4 - As secções são coordenadas por coordenadores de investigação criminal, nos termos definidos por decreto-lei próprio.\n\n5 - As brigadas são chefiadas por inspectores-chefes, nos termos definidos por decreto-lei próprio.\n\n6 - Quando não seja possível prover a coordenação ou chefias das secções e brigadas nos termos definidos nos números anteriores, a mesma pode, por despacho do director nacional, ser assegurada por trabalhador de categoria imediatamente inferior, por um período de um ano, não renovável.\n\n7 - Por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da justiça, sob proposta do director nacional da PJ e com base em estudos de factores criminológicos, podem ser criadas outras unidades locais de investigação\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+  },
+  "105270887": {
+   "fragment_id": "70861320",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidade Nacional Contra-Terrorismo",
+   "in_force_from": "2016-11-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29"
+   ],
+   "markdown": "###### Artigo 7.º — Unidade Nacional Contra-Terrorismo\n\n1 - A Unidade Nacional Contra-Terrorismo, designada abreviadamente pela sigla UNCT, tem competências em matéria de prevenção, detecção, investigação criminal e de coadjuvação das autoridades judiciárias relativamente aos seguintes crimes:\n\na) Organizações terroristas, terrorismo e o seu financiamento, incluindo os atos praticados com recurso, através de ou contra sistema informático;\n\nb) Contra a segurança do Estado, com excepção dos que respeitem ao processo eleitoral;\n\nc) Captura ou atentado à segurança de transporte por ar, água, caminho de ferro ou de transporte rodoviário a que corresponda, em abstracto, pena igual ou superior a 8 anos de prisão;\n\nd) Executados com bombas, granadas, matérias ou engenhos explosivos, armas de fogo e objectos armadilhados, armas nucleares, químicas ou radioactivas;\n\ne) Praticados contra o Presidente da República, o Presidente da Assembleia da República, o Primeiro-Ministro, os presidentes dos tribunais superiores e o Procurador-Geral da República, no exercício das suas funções ou por causa delas;\n\nf) Relacionados com os referidos nas alíneas anteriores.\n\n2 - Compete, ainda, à UNCT a prevenção, detecção, investigação criminal e de coadjuvação das autoridades judiciárias dos seguintes crimes:\n\na) Escravidão, sequestro, rapto e tomada de reféns;\n\nb) Contra a identidade cultural e integridade pessoal e os previstos na Lei Penal Relativa às Violações do Direito Internacional Humanitário;\n\nc) Roubo em instituições de crédito, repartições da Fazenda Pública e correios;\n\nd) Participação em motim armado;\n\ne) Tráfico de armas;\n\nf) Relacionados com os referidos nas alíneas anteriores.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29"
+  },
+  "70915608": {
+   "fragment_id": "70861322",
+   "type": 11,
+   "heading": "Artigo 9.º — Unidade Nacional de Combate ao Tráfico de Estupefacientes",
+   "in_force_from": "2009-02-13",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+   ],
+   "markdown": "###### Artigo 9.º — Unidade Nacional de Combate ao Tráfico de Estupefacientes\n\nA Unidade Nacional de Combate ao Tráfico de Estupefacientes, designada abreviadamente pela sigla UNCTE, tem competências em matéria de prevenção, detecção, investigação criminal e a coadjuvação das autoridades judiciárias relativamente aos crimes de tráfico de estupefacientes e de substâncias psicotrópicas, tipificados nos artigos 21.º, 22.º, 27.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, e dos demais previstos nesse decreto-lei que lhe sejam participados ou de que colha notícia.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+  },
+  "105270888": {
+   "fragment_id": "70861323",
+   "type": 11,
+   "heading": "Artigo 10.º — Extensões das unidades nacionais",
+   "in_force_from": "2016-11-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29"
+   ],
+   "markdown": "###### Artigo 10.º — Extensões das unidades nacionais\n\n1 - A UNCC e a UNCTE dispõem de extensões nas unidades territoriais sedeadas fora das respectivas sedes, e nas unidades regionais, ficando organicamente integradas nestas unidades.\n\n2 - A UNCT e a UNC3T dispõem de extensões nas unidades territoriais localizadas fora da respetiva sede, ficando organicamente integradas nestas unidades.\n\n3 - As competências que funcionalmente devam ser desenvolvidas pelas extensões na área geográfica de intervenção das unidades territoriais e regionais são coordenadas pelos directores destas unidades, em articulação com o director da unidade nacional respectiva, observando-se a disciplina fixada pelo director nacional.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29"
+  },
+  "70915610": {
+   "fragment_id": "70861339",
+   "type": 11,
+   "heading": "Artigo 22.º — Lugares de direcção superior e intermédia",
+   "in_force_from": "2009-02-13",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+   ],
+   "markdown": "###### Artigo 22.º — Lugares de direcção superior e intermédia\n\nOs lugares de direcção da PJ têm as seguintes qualificações e graus:\n\na) Director nacional, cargo de direcção superior de 1.º grau;\n\nb) Directores nacionais-adjuntos, cargo de direcção superior de 2.º grau;\n\nc) Directores de unidades nacionais, cargo de direcção intermédia de 1.º grau;\n\nd) Directores de unidades territoriais, cargo de direcção intermédia de 1.º grau;\n\ne) Subdirectores de unidades territoriais, cargo de direcção intermédia de 1.º grau;\n\nf) Director da Escola de Polícia Judiciária, cargo de direcção intermédia de 1.º grau;\n\ng) Director da Unidade de Prevenção e Apoio Tecnológico, cargo de direcção intermédia de 1.º grau;\n\nh) Director da Unidade de Informação Financeira, cargo de direcção intermédia de 1.º grau;\n\ni) Director da Unidade de Planeamento, Assessoria Técnica e Documentação, cargo de direcção intermédia de 1.º grau;\n\nj) Directores de unidades de apoio à investigação, cargo de direcção intermédia de 1.º grau;\n\nl) Directores de unidades de suporte, cargo de direcção intermédia de 1.º grau;\n\nm) Chefes de área, cargo de direcção intermédia de 2.º grau.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+  },
+  "70883450": {
+   "fragment_id": "70861354",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - Alberto Bernardes Costa.\n\nPromulgado em 4 de Fevereiro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 5 de Fevereiro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "124705595": {
+   "fragment_id": "70861309",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo I — Disposição geral\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705596": {
+   "fragment_id": "70861310",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei, ao abrigo do disposto no n.º 2 do artigo 22.º e do n.º 1 do artigo 29.º da Lei n.º 37/2008, de 6 de Agosto, estabelece as competências das unidades da Polícia Judiciária, abreviadamente designada por PJ.\n\n2 - O presente decreto-lei estabelece ainda o regime remuneratório dos dirigentes da PJ.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705597": {
+   "fragment_id": "70861311",
+   "type": 1,
+   "heading": "Capítulo II — Competências das unidades da PJ",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo II — Competências das unidades da PJ\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705598": {
+   "fragment_id": "70861312",
+   "type": 8,
+   "heading": "Secção I — Disposição geral",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "#### Secção I — Disposição geral\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705599": {
+   "fragment_id": "70861313",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura nuclear da PJ",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+   ],
+   "markdown": "###### Artigo 2.º — Estrutura nuclear da PJ\n\n1 - A PJ integra as seguintes unidades orgânicas nucleares:\n\na) Serviços da Direcção Nacional:\n\ni) A Escola de Polícia Judiciária;\n\nii) A Unidade de Prevenção e Apoio Tecnológico;\n\niii) A Unidade de Informação Financeira;\n\niv) A Unidade de Planeamento, Assessoria Técnica e Documentação;\n\nb) Unidades nacionais:\n\ni) A Unidade Nacional Contra-Terrorismo;\n\nii) A Unidade Nacional de Combate à Corrupção;\n\niii) A Unidade Nacional de Combate ao Tráfico de Estupefacientes;\n\niv) A Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica;\n\nc) Unidades territoriais:\n\ni) A Directoria do Norte;\n\nii) A Directoria do Centro;\n\niii) A Directoria de Lisboa e Vale do Tejo;\n\niv) A Directoria do Sul;\n\nd) Unidades regionais:\n\ni) Departamento de Investigação Criminal de Aveiro;\n\nii) Departamento de Investigação Criminal de Braga;\n\niii) Departamento de Investigação Criminal do Funchal;\n\niv) Departamento de Investigação Criminal da Guarda;\n\nv) Departamento de Investigação Criminal de Leiria;\n\nvi) Departamento de Investigação Criminal de Ponta Delgada;\n\nvii) Departamento de Investigação Criminal de Portimão;\n\nviii) Departamento de Investigação Criminal de Setúbal;\n\ne) Unidades locais de investigação criminal:\n\ni) Vila Real;\n\nii) Évora;\n\nf) Unidades de apoio à investigação:\n\ni) Unidade de Informação de Investigação Criminal;\n\nii) Unidade de Cooperação Internacional;\n\niii) Laboratório de Polícia Científica;\n\niv) Unidade de Telecomunicações e Informática;\n\ng) Unidades de suporte:\n\ni) Unidade de Administração Financeira, Patrimonial e de Segurança;\n\nii) Unidade de Recursos Humanos e Relações Públicas;\n\niii) Unidade de Perícia Financeira e Contabilística;\n\niv) Unidade Disciplinar e de Inspecção.\n\n2 - As unidades orgânicas da PJ podem integrar as seguintes unidades orgânicas flexíveis:\n\na) Áreas;\n\nb) Sectores;\n\nc) Núcleos.\n\n3 - As unidades orgânicas nucleares que integram serviços de investigação criminal são ainda organizadas em secções e brigadas, não sujeitas à definição do número de unidades orgânicas flexíveis.\n\n4 - As secções são coordenadas por coordenadores de investigação criminal, nos termos definidos por decreto-lei próprio.\n\n5 - As brigadas são chefiadas por inspectores-chefes, nos termos definidos por decreto-lei próprio.\n\n6 - Quando não seja possível prover a coordenação ou chefias das secções e brigadas nos termos definidos nos números anteriores, a mesma pode, por despacho do director nacional, ser assegurada por trabalhador de categoria imediatamente inferior, por um período de um ano, não renovável.\n\n7 - Por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da justiça, sob proposta do director nacional da PJ e com base em estudos de factores criminológicos, podem ser criadas outras unidades locais de investigação\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+  },
+  "124705600": {
+   "fragment_id": "70861314",
+   "type": 8,
+   "heading": "Secção II — Serviços da Direcção Nacional",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "#### Secção II — Serviços da Direcção Nacional\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705601": {
+   "fragment_id": "70861315",
+   "type": 11,
+   "heading": "Artigo 3.º — Escola de Polícia Judiciária",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Escola de Polícia Judiciária\n\nA Escola de Polícia Judiciária, designada abreviadamente pela sigla EPJ, tem as seguintes competências:\n\na) Programar e executar acções de formação inicial e aperfeiçoamento permanente do pessoal da PJ;\n\nb) Colaborar no recrutamento e selecção de pessoal, designadamente na execução de testes e provas de aptidão para candidatos ao ingresso na PJ, e acompanhar, sempre que necessário, o período probatório dos inspectores estagiários;\n\nc) Preparar e ministrar cursos de formação a entidades nacionais que operam na área da justiça e da segurança, respeitando as competências de coordenação nesta área atribuídas ao secretário-geral do Sistema de Segurança Interna, bem como de organismos similares dos países de língua portuguesa ou ibero-americanos;\n\nd) Cooperar com diversas instituições, a nível interno, europeu e internacional, no âmbito da formação e da investigação científica, sem prejuízo das competências atribuídas a outras entidades com responsabilidade nesta área;\n\ne) Organizar e administrar o museu da PJ, assegurando a recolha, conservação, estudo e divulgação dos objectos que possuam interesse criminalístico, histórico, documental e museológico existentes na PJ e dos apreendidos que venham a ser declarados perdidos a favor do Estado.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705602": {
+   "fragment_id": "70861316",
+   "type": 11,
+   "heading": "Artigo 4.º — Unidade de Prevenção e Apoio Tecnológico",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Unidade de Prevenção e Apoio Tecnológico\n\n1 - A Unidade de Prevenção e Apoio Tecnológico, designada abreviadamente pela sigla UPAT, tem, a nível nacional, as seguintes competências:\n\na) Desenvolver acções de pesquisa e vigilância a actividades, pessoas e locais suspeitos, em apoio aos serviços de investigação criminal, nos termos do artigo 4.º da Lei n.º 37/2008, de 6 de Agosto, e do artigo 189.º do Código de Processo Penal;\n\nb) Desenvolver as actuações previstas na Lei n.º 101/2001, de 25 de Agosto, em colaboração com os serviços de investigação criminal;\n\nc) Desenvolver as actuações previstas no artigo 160.º-A da Lei n.º 144/99, de 31 de Agosto, na redacção que lhe foi dada pelo artigo 2.º da Lei n.º 104/2001, de 25 de Agosto, em colaboração com os serviços de investigação criminal.\n\n2 - Compete ainda à UPAT gerir os equipamentos e recursos necessários ao seu funcionamento e promover o desenvolvimento de projectos tecnológicos adequados.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705603": {
+   "fragment_id": "70861317",
+   "type": 11,
+   "heading": "Artigo 5.º — Unidade de Informação Financeira",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Unidade de Informação Financeira\n\n1 - A Unidade de Informação Financeira, designada abreviadamente pela sigla UIF, tem como competências recolher, centralizar, tratar e difundir, a nível nacional, a informação respeitante à prevenção e investigação dos crimes de branqueamento de vantagens de proveniência ilícita, financiamento do terrorismo e dos crimes tributários, assegurando, no plano interno, a cooperação e articulação com a autoridade judiciária, com as autoridades de supervisão e de fiscalização e com as entidades financeiras e não financeiras, previstas na Lei n.º 25/2008, de 5 de Junho, e, no plano internacional, a cooperação com as unidades de informação financeira ou estruturas congéneres.\n\n2 - As competências a que se refere o número anterior não prejudicam as atribuições, nesta área, dos órgãos da administração tributária.\n\n3 - Podem integrar a UIF trabalhadores da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, da Direcção-Geral dos Impostos e de outras autoridades de supervisão ou serviços e estruturas governamentais, em regime a definir pelos respectivos ministros.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705604": {
+   "fragment_id": "70861318",
+   "type": 11,
+   "heading": "Artigo 6.º — Unidade de Planeamento, Assessoria Técnica e Documentação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Unidade de Planeamento, Assessoria Técnica e Documentação\n\n1 - A Unidade de Planeamento, Assessoria Técnica e Documentação, designada abreviadamente pela sigla UPATD, tem as seguintes competências:\n\na) Planeamento da gestão global da PJ;\n\nb) Análise e avaliação de procedimentos;\n\nc) Assessoria técnica e jurídica;\n\nd) Documentação, tradução e interpretação.\n\n2 - No desenvolvimento das competências referidas no número anterior a UPATD deve, designadamente:\n\na) Conceber e elaborar planos de desenvolvimento coordenado da PJ;\n\nb) Analisar e avaliar a actividade das unidades orgânicas em função do cumprimento das políticas, planos, procedimentos, leis e regulamentos e na perspectiva de assegurar uma maior eficácia e eficiência do funcionamento dos serviços;\n\nc) Elaborar pareceres e informações de natureza técnica e jurídica sobre os assuntos submetidos à sua apreciação pelo director nacional ou pelos directores nacionais adjuntos;\n\nd) Elaborar relatórios e análises de dados sobre o estado e a evolução da criminalidade;\n\ne) Preparar, em articulação com as estruturas envolvidas, a elaboração de directivas, de instruções permanentes de serviço ou de regulamentos que forem determinados pelo director nacional;\n\nf) Dinamizar a realização de acções e de estudos de direito e polícia comparada nos domínios da polícia judiciária e criminal, da informação criminal, da polícia técnica e científica, da perícia e da cooperação;\n\ng) Secretariar a Direcção Nacional;\n\nh) Conceber, manter e desenvolver os sistemas de documentação;\n\ni) Garantir a operacionalidade, manutenção, actualização e promover e coordenar o acesso às aplicações e ficheiros informáticos de natureza documental, de acordo com as normas de segurança aplicáveis;\n\nj) Traduzir informação e documentação de suporte à investigação criminal e actuar no âmbito da interpretação.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705605": {
+   "fragment_id": "70861319",
+   "type": 8,
+   "heading": "Secção III — Unidades nacionais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "#### Secção III — Unidades nacionais\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705606": {
+   "fragment_id": "70861320",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidade Nacional Contra-Terrorismo",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29"
+   ],
+   "markdown": "###### Artigo 7.º — Unidade Nacional Contra-Terrorismo\n\n1 - A Unidade Nacional Contra-Terrorismo, designada abreviadamente pela sigla UNCT, tem competências em matéria de prevenção, detecção, investigação criminal e de coadjuvação das autoridades judiciárias relativamente aos seguintes crimes:\n\na) Organizações terroristas, terrorismo e o seu financiamento, incluindo os atos praticados com recurso, através de ou contra sistema informático;\n\nb) Contra a segurança do Estado, com excepção dos que respeitem ao processo eleitoral;\n\nc) Captura ou atentado à segurança de transporte por ar, água, caminho de ferro ou de transporte rodoviário a que corresponda, em abstracto, pena igual ou superior a 8 anos de prisão;\n\nd) Executados com bombas, granadas, matérias ou engenhos explosivos, armas de fogo e objectos armadilhados, armas nucleares, químicas ou radioactivas;\n\ne) Praticados contra o Presidente da República, o Presidente da Assembleia da República, o Primeiro-Ministro, os presidentes dos tribunais superiores e o Procurador-Geral da República, no exercício das suas funções ou por causa delas;\n\nf) Relacionados com os referidos nas alíneas anteriores.\n\n2 - Compete, ainda, à UNCT a prevenção, detecção, investigação criminal e de coadjuvação das autoridades judiciárias dos seguintes crimes:\n\na) Escravidão, sequestro, rapto e tomada de reféns;\n\nb) Contra a identidade cultural e integridade pessoal e os previstos na Lei Penal Relativa às Violações do Direito Internacional Humanitário;\n\nc) Roubo em instituições de crédito, repartições da Fazenda Pública e correios;\n\nd) Participação em motim armado;\n\ne) Tráfico de armas;\n\nf) Relacionados com os referidos nas alíneas anteriores.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29"
+  },
+  "124705607": {
+   "fragment_id": "70861321",
+   "type": 11,
+   "heading": "Artigo 8.º — Unidade Nacional de Combate à Corrupção",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Unidade Nacional de Combate à Corrupção\n\n1 - A Unidade Nacional de Combate à Corrupção, designada abreviadamente pela sigla UNCC, tem competências em matéria de prevenção, detecção, investigação criminal e a coadjuvação das autoridades judiciárias relativamente aos crimes de corrupção, peculato, tráfico de influências e participação económica em negócio.\n\n2 - Compete, ainda, à UNCC a prevenção e investigação dos seguintes crimes:\n\na) Prevaricação e abuso de poderes praticados por titulares de cargos políticos;\n\nb) Fraude na obtenção ou desvio de subsídio ou subvenção e ainda fraude na obtenção de crédito bonificado;\n\nc) Económico-financeiros;\n\nd) Contrafacção de moeda, títulos de crédito, valores selados, selos e outros valores equiparados ou a respectiva passagem;\n\ne) Relativos ao mercado de valores mobiliários;\n\nf) Insolvência dolosa e administração danosa;\n\ng) Branqueamento;\n\nh) Crimes tributários de valor superior a (euro) 500 000;\n\ni) Crimes conexos com os referidos no n.º 1 e nas alíneas b) a e), g) e h).\n\n3 - Compete ainda à UNCC desenvolver as acções de prevenção anteriormente atribuídas pelo artigo 1.º da Lei n.º 36/94, de 29 de Setembro, à Direcção Central para o Combate à Corrupção, Fraudes e Infracções Económico Financeiras da Polícia Judiciária.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705608": {
+   "fragment_id": "70861322",
+   "type": 11,
+   "heading": "Artigo 9.º — Unidade Nacional de Combate ao Tráfico de Estupefacientes",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+   ],
+   "markdown": "###### Artigo 9.º — Unidade Nacional de Combate ao Tráfico de Estupefacientes\n\nA Unidade Nacional de Combate ao Tráfico de Estupefacientes, designada abreviadamente pela sigla UNCTE, tem competências em matéria de prevenção, detecção, investigação criminal e a coadjuvação das autoridades judiciárias relativamente aos crimes de tráfico de estupefacientes e de substâncias psicotrópicas, tipificados nos artigos 21.º, 22.º, 27.º e 28.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, e dos demais previstos nesse decreto-lei que lhe sejam participados ou de que colha notícia.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+  },
+  "124705609": {
+   "fragment_id": "70861323",
+   "type": 11,
+   "heading": "Artigo 10.º — Extensões das unidades nacionais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29"
+   ],
+   "markdown": "###### Artigo 10.º — Extensões das unidades nacionais\n\n1 - A UNCC e a UNCTE dispõem de extensões nas unidades territoriais sedeadas fora das respectivas sedes, e nas unidades regionais, ficando organicamente integradas nestas unidades.\n\n2 - A UNCT e a UNC3T dispõem de extensões nas unidades territoriais localizadas fora da respetiva sede, ficando organicamente integradas nestas unidades.\n\n3 - As competências que funcionalmente devam ser desenvolvidas pelas extensões na área geográfica de intervenção das unidades territoriais e regionais são coordenadas pelos directores destas unidades, em articulação com o director da unidade nacional respectiva, observando-se a disciplina fixada pelo director nacional.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2016-105263934), em vigor a partir de 2016-11-29"
+  },
+  "124705610": {
+   "fragment_id": "70861324",
+   "type": 8,
+   "heading": "Secção IV — Unidades territoriais, regionais e locais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "#### Secção IV — Unidades territoriais, regionais e locais\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705611": {
+   "fragment_id": "70861325",
+   "type": 11,
+   "heading": "Artigo 11.º — Unidades territoriais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Unidades territoriais\n\nÀs unidades territoriais compete a prevenção, detecção, investigação e coadjuvação das autoridades judiciárias relativamente aos crimes da competência da PJ, praticados ou conhecidos na sua área geográfica de intervenção, cuja competência não esteja atribuída às unidades nacionais.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705612": {
+   "fragment_id": "70861326",
+   "type": 11,
+   "heading": "Artigo 12.º — Unidades regionais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Unidades regionais\n\nÀs unidades regionais compete a prevenção, detecção, investigação e coadjuvação das autoridades judiciárias relativamente aos crimes da competência da PJ, praticados ou conhecidos na sua área geográfica de intervenção, cuja competência não esteja atribuída às unidades nacionais.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705613": {
+   "fragment_id": "70861327",
+   "type": 11,
+   "heading": "Artigo 13.º — Unidades locais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Unidades locais\n\nÀs unidades locais compete a prevenção, detecção, investigação e coadjuvação das autoridades judiciárias, na sua área geográfica de intervenção, relativamente aos crimes da competência da PJ, praticados ou conhecidos na sua área geográfica de intervenção, cuja competência não esteja atribuída às unidades nacionais.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705614": {
+   "fragment_id": "70861328",
+   "type": 8,
+   "heading": "Secção V — Unidades de apoio à investigação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "#### Secção V — Unidades de apoio à investigação\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705615": {
+   "fragment_id": "70861329",
+   "type": 11,
+   "heading": "Artigo 14.º — Unidade de Informação de Investigação Criminal",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Unidade de Informação de Investigação Criminal\n\n1 - A Unidade de Informação de Investigação Criminal, designada abreviadamente pela sigla UIIC, tem as seguintes competências:\n\na) Centralizar, manter e assegurar a gestão nacional do sistema de informação criminal da PJ;\n\nb) Recolher, tratar, registar, analisar e difundir a informação relativa à criminalidade conhecida em articulação com os sistemas de informação criminal legalmente previstos;\n\nc) Realizar acções de prevenção criminal e de detecção de pessoas desaparecidas.\n\n2 - Nos termos dos n.os 2 e 3 do artigo 4.º da Lei n.º 37/2008, de 6 de Agosto, e no âmbito da prevenção criminal, compete à UIIC efectuar a detecção e dissuasão de situações propícias à prática de crimes, nomeadamente vigiar e fiscalizar lugares e estabelecimentos que possam ocultar actividades de receptação ou comercialização ilícita de bens.\n\n3 - Os proprietários, administradores, gerentes, directores ou quaisquer outros responsáveis dos estabelecimentos referidos no número anterior constituem-se na obrigação, após para tal notificados, de entregar na unidade da PJ com jurisdição na área em que se situam, no prazo de cinco dias, relações completas, conforme modelo exclusivo cuja cópia lhes é facultada em suporte digital ou de papel, das transacções efectuadas, com identificação dos respectivos intervenientes e objectos transaccionados, incluindo os que lhes tenham sido entregues para venda ou permuta, a pedido ou por ordem de outrem.\n\n4 - A obrigação referida no número anterior pode ser estendida a quem tiver a exploração de simples locais nos quais se proceda às transacções aí mencionadas.\n\n5 - As companhias de seguros devem comunicar à unidade da PJ com jurisdição na área em que se situam, até ao dia 5 do mês seguinte àquele em que a regularização ou transacção se tenha efectuado, as existências ou as vendas de salvados de veículos automóveis, com indicação, conforme os casos, da identidade do comprador, do preço da venda e dos elementos identificadores do veículo a que respeitam.\n\n6 - Os objectos adquiridos pelos estabelecimentos e locais mencionados no n.º 2, com excepção dos veículos e acessórios, não podem ser modificados ou alienados antes de decorridos 20 dias contados a partir da entrega das relações a que se referem os n.os 3 e 5.\n\n7 - A violação do disposto nos n.os 3 a 6, constitui contra-ordenação punida com coima de (euro) 250 a (euro) 2500, cuja aplicação é da competência do director nacional, que determina a unidade da PJ a quem compete a respectiva investigação.\n\n8 - A negligência é punível, sendo os limites mínimo e máximo da coima aplicável reduzidos a metade.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705616": {
+   "fragment_id": "70861330",
+   "type": 11,
+   "heading": "Artigo 15.º — Unidade de Cooperação Internacional",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Unidade de Cooperação Internacional\n\n1 - A Unidade de Cooperação Internacional, designada abreviadamente pela sigla UCI, assegura o funcionamento da Unidade Nacional da EUROPOL e do Gabinete Nacional INTERPOL, para os efeitos da missão da PJ e para partilha de informação com outros órgãos de polícia criminal.\n\n2 - No desenvolvimento do número anterior compete à UCI, nomeadamente:\n\na) Receber e encaminhar os pedidos de detenção provisória que devam ser executados em processos de extradição;\n\nb) Garantir a operacionalidade dos mecanismos de cooperação policial, no âmbito da Organização Internacional de Polícia Criminal (OIPC/INTERPOL), da EUROPOL e de outros organismos internacionais da mesma natureza;\n\nc) Desenvolver, acompanhar e analisar processos, projectos e missões no plano internacional e da cooperação institucional com outros Estados, em especial com os de língua oficial portuguesa;\n\nd) Coordenar a participação da PJ nas instâncias competentes no quadro da cooperação policial da União Europeia;\n\ne) Garantir o acolhimento e acompanhamento das entidades de polícia congéneres que se deslocam em serviço ao território nacional;\n\nf) Proceder à gestão relativa à colocação de oficiais de ligação da PJ.\n\n3 - O Ministério Público promove o envio à UCI das certidões das sentenças proferidas contra cidadãos estrangeiros condenados em foro criminal.\n\n4 - A Direcção-Geral dos Serviços Prisionais comunica à UCI os factos relevantes relativos ao cumprimento das penas aplicadas a cidadãos estrangeiros.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705617": {
+   "fragment_id": "70861331",
+   "type": 11,
+   "heading": "Artigo 16.º — Laboratório de Polícia Científica",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Laboratório de Polícia Científica\n\n1 - O Laboratório de Polícia Científica, designado abreviadamente por LPC, tem as seguintes competências:\n\na) Pesquisar, recolher, tratar, registar vestígios e realizar perícias nos diversos domínios das ciências forenses, nomeadamente da balística, biologia, documentos, escrita manual, física, lofoscopia, química e toxicologia;\n\nb) Implementar novos tipos de perícia e desenvolver as existentes;\n\nc) Divulgar a informação técnico-científica que se revele pertinente perante novos cenários de criminalidade;\n\nd) Emitir pareceres e prestar assessoria técnico-científica no domínio das suas competências em ciências forenses;\n\ne) Implementar um sistema de gestão para a qualidade e para as actividades administrativas e técnicas;\n\nf) Assegurar a participação técnica e científica da PJ, em matéria de ciências forenses, nas diferentes instâncias nacionais, comunitárias e internacionais.\n\n2 - O LPC goza de autonomia técnica e científica.\n\n3 - A competência do LPC é cumulativa com a dos serviços médico-legais.\n\n4 - O LPC pode recorrer à colaboração de outros estabelecimentos, laboratórios ou serviços oficiais de especialidade, assim como colaborar com qualquer entidade ou serviço oficial, sem prejuízo do serviço da PJ e demais órgãos de polícia criminal a que deve apoio.\n\n5 - O LPC pode dispor, na dependência técnica e científica do seu director, de unidades flexíveis junto das unidades territoriais, nos termos previstos no n.º 2 do artigo 2.º\n\n6 - A existência, número e localização das delegações referidas no número anterior é definida em despacho do membro do Governo responsável pela área da justiça.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705618": {
+   "fragment_id": "70861332",
+   "type": 11,
+   "heading": "Artigo 17.º — Unidade de Telecomunicações e Informática",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Unidade de Telecomunicações e Informática\n\n1 - A Unidade de Telecomunicações e Informática, designada abreviadamente pela sigla UTI, tem as seguintes competências:\n\na) Instalação, exploração, manutenção e segurança dos sistemas de telecomunicações da PJ, bem como a sua interligação às redes da Organização Internacional de Polícia Criminal, da EUROPOL e de outros organismos internacionais da mesma natureza;\n\nb) Desenvolvimento, gestão e manutenção de aplicações informáticas;\n\nc) Gestão e funcionamento dos equipamentos e sistemas informáticos e de telecomunicações, bem como das respectivas redes;\n\nd) Selecção e instalação de equipamentos e sistemas tecnológicos de suporte a actividades de outras unidades orgânicas da PJ;\n\ne) Apoio técnico à prevenção e investigação criminal;\n\nf) Coadjuvação das autoridades judiciárias, no âmbito das suas competências.\n\n2 - No desenvolvimento das competências referidas no número anterior a UTI deve, designadamente:\n\na) Conceber a arquitectura dos equipamentos e das redes de comunicações;\n\nb) Garantir a operacionalidade, manutenção, actualização e segurança dos equipamentos e dos seus suportes bem como das aplicações informáticas e bases de dados;\n\nc) Elaborar os pareceres necessários à selecção de equipamentos e sistemas de suporte ao desenvolvimento e exploração dos sistemas aplicacionais e das redes de comunicações de rádio, de dados, de voz e de imagem;\n\nd) Colaborar com os serviços utilizadores na selecção de sistemas ou equipamentos tecnológicos específicos e consequente instalação e manutenção;\n\ne) Definir, executar ou coordenar a execução de procedimentos de segurança, confidencialidade e integridade da informação armazenada nos sistemas informáticos e garantir a sua transmissão de forma segura através das redes de comunicações;\n\nf) Promover o desenvolvimento de projectos tecnológicos adequados ao cumprimento do disposto nos artigos 187.º e seguintes do Código de Processo Penal e gerir os equipamentos e recursos necessários ao funcionamento fiável e seguro dos respectivos equipamentos e sistemas;\n\ng) Realizar acções de despistagem de intercepções ilegais de comunicações;\n\nh) Realizar perícias em equipamentos de telecomunicações e de informática, determinadas pelas autoridades judiciárias e de polícia criminal;\n\ni) Apoiar a investigação criminal, auxiliando acções de recolha e análise de equipamentos de telecomunicações e informática, elaborando pareceres, prestando assessoria técnica e participando na realização de buscas e outras diligências de prova;\n\nj) Apoiar os utentes na exploração, gestão e manutenção dos equipamentos dos sistemas e das redes em exploração;\n\nl) Colaborar com a entidade gestora na gestão do SIRESP (Sistema Integrado de Redes de Emergência e Segurança de Portugal);\n\nm) Garantir a disponibilidade, com segurança, dos acessos dos utilizadores nacionais à informação da INTERPOL, EUROPOL e de outros organismos da mesma natureza;\n\nn) Formar e treinar os operadores;\n\no) Colaborar na formação dos utentes das aplicações e dos sistemas informáticos e de comunicações em exploração na PJ.\n\n3 - A UTI goza de autonomia técnica e científica.\n\n4 - A UTI pode dispor, na dependência técnica e científica do seu director, de unidades flexíveis junto das unidades territoriais, nos termos previstos no n.º 2 do artigo 2.º\n\n5 - A existência, número e localização das delegações referidas no número anterior é definida em despacho do membro do Governo responsável pela área da justiça.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705619": {
+   "fragment_id": "70861333",
+   "type": 8,
+   "heading": "Secção VI — Unidades de suporte",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "#### Secção VI — Unidades de suporte\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705620": {
+   "fragment_id": "70861334",
+   "type": 11,
+   "heading": "Artigo 18.º — Unidade de Administração Financeira, Patrimonial e de Segurança",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Unidade de Administração Financeira, Patrimonial e de Segurança\n\n1 - A Unidade de Administração Financeira, Patrimonial e de Segurança, designada abreviadamente pela sigla UAFPS, tem as seguintes competências:\n\na) Gestão financeira e controlo orçamental;\n\nb) Administração patrimonial, compreendendo o património imobiliário e mobiliário e a frota automóvel;\n\nc) Registo, expediente e arquivo;\n\nd) Segurança de pessoas, instalações e equipamentos;\n\ne) Armamento.\n\n2 - No desenvolvimento das competências previstas nas alíneas a) a c) do número anterior a UAFPS deve, designadamente:\n\na) Preparar e propor o orçamento e o plano de investimentos;\n\nb) Realizar estudos e análises relativos à gestão financeira e patrimonial;\n\nc) Assegurar a normalização de procedimentos no âmbito financeiro em todas as unidades orgânicas, elaborando instruções adequadas, designadamente em matéria de arrecadação de receitas próprias resultantes da actividade da PJ;\n\nd) Promover e organizar os procedimentos necessários à realização de aquisições de bens e serviços e de empreitadas de obras públicas, incluindo a sua análise jurídica;\n\ne) Verificar e controlar a legalidade da despesa;\n\nf) Elaborar mapas e relatórios de execução necessários ao adequado controlo e avaliação orçamental;\n\ng) Assegurar a administração das dotações orçamentais, designadamente a requisição de fundos, a realização de pagamentos e o controlo do movimento de tesouraria;\n\nh) Organizar a contabilidade e manter actualizada a escrituração e os registos contabilísticos obrigatórios;\n\ni) Elaborar a conta de gerência a submeter à aprovação do director nacional;\n\nj) Assegurar a actualização do inventário dos bens patrimoniais;\n\nl) Assegurar, em colaboração com as demais unidades orgânicas, a administração e o controlo das instalações e equipamentos que lhes estão afectos;\n\nm) Gerir e fiscalizar a execução de obras em articulação com as demais unidades orgânicas;\n\nn) Assegurar o pagamento prévio atempado da taxa de justiça, nos termos previstos na alínea a) do artigo 15.º do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de Fevereiro.\n\n3 - No âmbito das competências previstas nas alíneas d) e e) do n.º 1, a UAFPS deve, designadamente:\n\na) Proceder a estudos, análises e testes dos equipamentos em geral e dos de segurança e armamento em especial, com vista à respectiva aquisição;\n\nb) Guardar, conservar e distribuir os equipamentos, armamento e respectivas munições;\n\nc) Proceder ao controlo e verificação anual individual do armamento e munições distribuídos, mantendo actualizados os respectivos processos individuais dos trabalhadores, em articulação com a URHRP;\n\nd) Proceder em colaboração com a EPJ à definição de padrões e parâmetros de avaliação do treino de tiro a observar obrigatoriamente a nível nacional;\n\ne) Proceder à verificação anual dos níveis de apuro e destreza individual na utilização do armamento;\n\nf) Remeter as informações individuais, nos termos da alínea anterior, à URHRP para inclusão nos respectivos processos individuais;\n\ng) Definir as normas e procedimentos na área da prevenção e segurança das instalações;\n\nh) Garantir a segurança do pessoal, das instalações e das matérias classificadas.\n\n4 - Com vista ao exercício das suas competências, a UAFPS centraliza toda a informação orçamental e financeira, distribuindo internamente o orçamento da PJ pelas unidades, as quais funcionam como centros de custo.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705621": {
+   "fragment_id": "70861335",
+   "type": 11,
+   "heading": "Artigo 19.º — Unidade de Recursos Humanos e Relações Públicas",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Unidade de Recursos Humanos e Relações Públicas\n\nA Unidade de Recursos Humanos e Relações Públicas, designada abreviadamente pela sigla URHRP, tem competências em matéria de recrutamento e selecção, gestão de pessoal e relações públicas, designadamente:\n\na) Assegurar a gestão previsional dos efectivos;\n\nb) Proceder a todas as operações necessárias ao recrutamento e selecção de pessoal;\n\nc) Processar as remunerações permanentes e acessórias;\n\nd) Assegurar a gestão das carreiras, nomeadamente a colocação, promoção, aposentação, disponibilidade e avaliação de desempenho;\n\ne) Informar a EPJ das necessidades de formação inicial e formação especializada até 31 de Janeiro de cada ano;\n\nf) Assegurar apoio psicossocial e médico aos trabalhadores e garantir o acompanhamento dos casos de absentismo;\n\ng) Organizar e manter actualizados os processos individuais dos trabalhadores;\n\nh) Elaborar o balanço social;\n\ni) Acompanhar os processos administrativos, graciosos e contenciosos e organizar processos de acidente em serviço;\n\nj) Elaborar pareceres jurídicos relativos à gestão de recursos humanos, de pessoal e de relações públicas;\n\nl) Promover e coordenar o relacionamento com os órgãos de comunicação social;\n\nm) Planear e dinamizar a representação da PJ, organizando eventos e apoiando iniciativas relevantes.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705622": {
+   "fragment_id": "70861336",
+   "type": 11,
+   "heading": "Artigo 20.º — Unidade de Perícia Financeira e Contabilística",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Unidade de Perícia Financeira e Contabilística\n\n1 - A Unidade de Perícia Financeira e Contabilística, designada abreviadamente pela sigla UPFC, tem as seguintes competências:\n\na) Realizar perícias financeiras, contabilísticas e bancárias, ordenadas pelas autoridades judiciárias e de polícia criminal;\n\nb) Prestar assessoria técnica aos serviços de investigação criminal, auxiliando as acções de recolha e análise de documentos e outros meios de prova;\n\nc) Coadjuvar as autoridades judiciárias, nas fases de inquérito, instrução e julgamento, no âmbito das suas competências.\n\n2 - A UPFC goza de autonomia técnica e científica.\n\n3 - A UPFC pode dispor, na dependência técnica do director da unidade, de unidades flexíveis junto das unidades territoriais, nos termos previstos no n.º 2 do artigo 2.º\n\n4 - A existência, número e localização das delegações referidas no número anterior é definida em despacho do membro do Governo responsável pela área da justiça.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705623": {
+   "fragment_id": "70861337",
+   "type": 11,
+   "heading": "Artigo 21.º — Unidade Disciplinar e de Inspecção",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Unidade Disciplinar e de Inspecção\n\n1 - A Unidade Disciplinar e de Inspecção, designada abreviadamente pela sigla UDI, tem as seguintes competências:\n\na) Disciplinar, designadamente, procedendo à instrução de processos de inquérito, disciplinares e de averiguações;\n\nb) Inspecção e auditoria aos serviços, propondo as medidas adequadas no domínio da organização do trabalho, do desempenho e da qualificação profissional.\n\n2 - O director da UDI dispõe de livre acesso a todos os locais e serviços conexos com as concretas actividades disciplinares, de auditoria ou de inspecção a seu cargo.\n\n3 - O director da UDI nomeia os instrutores e secretários nos processos de natureza disciplinar, procedendo ao seu acompanhamento, supervisão e orientação técnica.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705624": {
+   "fragment_id": "70861338",
+   "type": 1,
+   "heading": "Capítulo III — Regime remuneratório dos dirigentes da PJ",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo III — Regime remuneratório dos dirigentes da PJ\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705625": {
+   "fragment_id": "70861339",
+   "type": 11,
+   "heading": "Artigo 22.º — Lugares de direcção superior e intermédia",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+   ],
+   "markdown": "###### Artigo 22.º — Lugares de direcção superior e intermédia\n\nOs lugares de direcção da PJ têm as seguintes qualificações e graus:\n\na) Director nacional, cargo de direcção superior de 1.º grau;\n\nb) Directores nacionais-adjuntos, cargo de direcção superior de 2.º grau;\n\nc) Directores de unidades nacionais, cargo de direcção intermédia de 1.º grau;\n\nd) Directores de unidades territoriais, cargo de direcção intermédia de 1.º grau;\n\ne) Subdirectores de unidades territoriais, cargo de direcção intermédia de 1.º grau;\n\nf) Director da Escola de Polícia Judiciária, cargo de direcção intermédia de 1.º grau;\n\ng) Director da Unidade de Prevenção e Apoio Tecnológico, cargo de direcção intermédia de 1.º grau;\n\nh) Director da Unidade de Informação Financeira, cargo de direcção intermédia de 1.º grau;\n\ni) Director da Unidade de Planeamento, Assessoria Técnica e Documentação, cargo de direcção intermédia de 1.º grau;\n\nj) Directores de unidades de apoio à investigação, cargo de direcção intermédia de 1.º grau;\n\nl) Directores de unidades de suporte, cargo de direcção intermédia de 1.º grau;\n\nm) Chefes de área, cargo de direcção intermédia de 2.º grau.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 22/2009 - Diário da República n.º 69/2009, Série I de 2009-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2009-603568), em vigor a partir de 2009-02-13"
+  },
+  "124705626": {
+   "fragment_id": "70861340",
+   "type": 11,
+   "heading": "Artigo 23.º — Remuneração",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Remuneração\n\n1 - O director nacional é equiparado, para efeitos de remuneração base, a juiz desembargador com mais de cinco anos.\n\n2 - A estrutura indiciária da escala salarial do pessoal dirigente consta do anexo i do presente decreto-lei, do qual é parte integrante.\n\n3 - O índice 100 da escala salarial prevista no número anterior consta do anexo ii do presente decreto-lei, do qual faz parte integrante, que pode ser alterado por portaria dos membros do Governo responsáveis pelas áreas das finanças, Administração Pública e justiça.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705627": {
+   "fragment_id": "70861341",
+   "type": 11,
+   "heading": "Artigo 24.º — Suplemento de risco",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Suplemento de risco\n\n1 - O subsídio de risco auferido pelo pessoal dirigente da PJ, enquanto no exercício de tais funções, permanece regulado, até à entrada em vigor do diploma previsto no artigo 55.º da Lei n.º 37/2008, de 6 de Agosto, pelas normas vigentes à data da entrada em vigor do presente decreto-lei.\n\n2 - Para efeitos no número anterior, os cargos de director de unidade nacional e de director de unidade territorial são equiparados ao de director nacional-adjunto, o cargo de subdirector de unidade territorial é equiparado ao cargo de subdirector nacional-adjunto e o cargo de director de unidade é equiparado ao cargo de director de departamento central.\n\n3 - O montante do suplemento referido no número anterior é actualizável nos termos gerais previstos para a actualização anual dos trabalhadores que exercem funções públicas.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705628": {
+   "fragment_id": "70861342",
+   "type": 11,
+   "heading": "Artigo 25.º — Despesas de representação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Despesas de representação\n\nAo pessoal dirigente da PJ são abonadas despesas de representação nos termos da lei e de acordo com o mapa de equiparações constantes do anexo iii do presente decreto-lei, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705629": {
+   "fragment_id": "70861343",
+   "type": 11,
+   "heading": "Artigo 26.º — Utilização de meios de transporte",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Utilização de meios de transporte\n\nO pessoal dirigente que, nos termos do artigo 11.º da Lei n.º 37/2008, de 6 de Agosto, seja autoridade de polícia criminal, tem direito à utilização, em todo o território nacional, dos transportes colectivos terrestres, fluviais e marítimos, nos termos definidos para os trabalhadores da carreira de investigação criminal.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705630": {
+   "fragment_id": "70861344",
+   "type": 11,
+   "heading": "Artigo 27.º — Incapacidade física",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Incapacidade física\n\nO regime legal em vigor para os deficientes das Forças Armadas e das forças de segurança é aplicável ao pessoal dirigente da PJ, com as devidas adaptações e nos termos previstos para a sua aplicação aos trabalhadores da PJ.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705631": {
+   "fragment_id": "70861345",
+   "type": 11,
+   "heading": "Artigo 28.º — Benefícios sociais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 28.º — Benefícios sociais\n\nSem prejuízo do regime previsto no Decreto-Lei n.º 503/99, de 20 de Novembro, os dirigentes da PJ têm direito a um seguro destinado a cobrir os riscos de morte, invalidez permanente, absoluta ou parcial, e internamento emergentes de acidente de trabalho, a regulamentar por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, Administração Pública e da justiça.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705632": {
+   "fragment_id": "70861346",
+   "type": 11,
+   "heading": "Artigo 29.º — Opção de remuneração",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Opção de remuneração\n\n1 - Os magistrados e os trabalhadores providos em comissão de serviço em cargo de direcção da PJ podem optar pela remuneração correspondente ao lugar de origem.\n\n2 - O pessoal referido no número anterior tem direito ao suplemento fixado no artigo 24.º\n\n3 - Os magistrados em comissão de serviço na PJ conservam todos os direitos consagrados nos respectivos estatutos, considerando-se os serviços prestados como se o fossem nas categorias e funções próprias dos cargos de origem e não determinando abertura de vaga no lugar de origem ou naquele para o qual, entretanto, o titular tenha sido nomeado.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705633": {
+   "fragment_id": "70861347",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705634": {
+   "fragment_id": "70861348",
+   "type": 11,
+   "heading": "Artigo 30.º — Norma transitória",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Norma transitória\n\nO disposto nos n.os 2 e 3 do artigo 23.º é objecto de nova regulamentação a partir da data de entrada em vigor do diploma previsto no artigo 55.º da Lei n.º 37/2008, de 6 de Agosto.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705635": {
+   "fragment_id": "70861349",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 63.º, os n.os 2 a 4 e 6 do artigo 90.º, o n.º 3 do artigo 92.º, o n.º 3 do artigo 94.º, os n.os 1 e 2 do artigo 161.º, excepto no que respeita ao pessoal de chefia, as tabelas n.os 1 e 2 do anexo ii, a primeira linha do anexo iii e o anexo iv do Decreto-Lei n.º 275-A/2000, de 9 de Novembro;\n\nb) A Portaria n.º 900/2003, de 28 de Agosto.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705636": {
+   "fragment_id": "70861350",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705637": {
+   "fragment_id": "70861354",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - Alberto Bernardes Costa.\n\nPromulgado em 4 de Fevereiro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 5 de Fevereiro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705638": {
+   "fragment_id": "70861351",
+   "type": 14,
+   "heading": "Anexo I — Estrutura indiciária da escala salarial",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "## Anexo I — Estrutura indiciária da escala salarial\n\n(a que se refere o n.º 2 do artigo 23.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705639": {
+   "fragment_id": "70861352",
+   "type": 14,
+   "heading": "Anexo II — Valor correspondente ao índice 100 da escala salarial",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "## Anexo II — Valor correspondente ao índice 100 da escala salarial\n\n(a que se refere o n.º 3 do artigo 23.º)\n\nCargos dirigentes - (euro) 3628,82.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  },
+  "124705640": {
+   "fragment_id": "70861353",
+   "type": 14,
+   "heading": "Anexo III — Equiparação para efeitos de despesas de representação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "## Anexo III — Equiparação para efeitos de despesas de representação\n\n(a que se refere o artigo 25.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 137/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), em vigor a partir de 2020-01-01"
+  }
+ }
+}

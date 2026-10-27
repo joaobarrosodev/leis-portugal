@@ -1,0 +1,210 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25676904:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-901900128",
+ "dre_path": "/dr/detalhe/portaria/123-2014-25676904",
+ "source_lastmod": "2025-01-02",
+ "versions": [
+  {
+   "date": "2014-06-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "901900227",
+    "901900228",
+    "901900229",
+    "901900230",
+    "901900231",
+    "901900232",
+    "901900233",
+    "901900234",
+    "901900235",
+    "901900236"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901661929:por",
+     "title": "Portaria n.º 366/2024/1",
+     "published": "2024-12-31",
+     "dre_path": "/dr/detalhe/portaria/366-2024-901661929"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "901900227",
+    "901900228",
+    "901900247",
+    "901900248",
+    "901900249",
+    "901900250",
+    "901900251",
+    "901900252",
+    "901900235",
+    "901900236",
+    "901900237"
+   ]
+  }
+ ],
+ "fragments": {
+  "901900227": {
+   "fragment_id": "901900129",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 123/2014\n\nde 19 de junho\n\nA Portaria n.º 1163/2009, de 06 de outubro, que regulamenta as condições mínimas, as quantias e riscos compreendidos no seguro contra acidentes pessoais dos bombeiros voluntários e profissionais apenas contemplava os elementos do quadro de comando e ativo, referidas na alínea f) do n.º 1 do artigo 5.º do Decreto-Lei n.º 241/2007, de 21 de junho, e ainda os elementos que integram os órgãos executivos das Associações Humanitárias de Bombeiros e da Liga dos Bombeiros Portugueses, nos termos do artigo 45.º do mesmo diploma.\n\nCom a publicação do Decreto-Lei n.º 249/2012, de 21 de novembro e do Decreto-Lei n.º 248/2012, de 21 de novembro, que introduziram alterações ao Decreto-Lei n.º 241/2007, de 21 de junho, e ao Decreto-Lei n.º 247/2007, de 27 de junho, respetivamente, o direito ao seguro de acidentes pessoais foi alargado aos elementos que integram os quadros de reserva e honra dos Corpos de Bombeiros, conforme estabelece o n.º 3 do artigo 5.º do Decreto-Lei n.º 249/2012, de 21 de novembro, conjugado com o n.º 8 do artigo 14.º e com o n.º 8 do artigo 15.º, ambos do Decreto-Lei n.º 248/2012, de 21 de novembro, e ainda aos infantes e cadetes, conforme estabelece o n.º 7 do artigo 29.º do mesmo diploma.\n\nFace ao exposto, no intuito de proceder ao seu alargamento e colmatar as lacunas verificadas, importa proceder à revogação da Portaria n.º 1163/2009, de 06 de outubro, e aprovar novo diploma regulamentar sobre a mesma matéria.\n\nForam ouvidas a Associação Nacional de Municípios Portugueses, a Liga dos Bombeiros Portugueses, o Conselho Nacional de Bombeiros e o Instituto de Seguros de Portugal.\n\nAssim:\n\nAo abrigo do n.º 2 do artigo 23.º do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pelo Decreto-Lei n.º 249/2012, de 21 de novembro.\n\nManda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "901900228": {
+   "fragment_id": "901900130",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria fixa as condições mínimas do seguro de acidentes pessoais dos bombeiros profissionais e voluntários, incluindo os limites de capital seguro e riscos cobertos.\n\n2 - O seguro abrange os acidentes pessoais dos bombeiros não cobertos por seguros de acidentes de trabalho ou pelo regime dos acidentes em serviço dos trabalhadores que exercem funções públicas."
+  },
+  "901900229": {
+   "fragment_id": "901900131",
+   "type": 11,
+   "heading": "Artigo 2.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Encargos\n\nOs municípios suportam os encargos do seguro de acidentes pessoais dos bombeiros profissionais e voluntários dos diversos quadros dos corpos de bombeiros, e ainda dos infantes e cadetes e dos elementos que integram os órgãos executivos das associações humanitárias de bombeiros."
+  },
+  "901900230": {
+   "fragment_id": "901900132",
+   "type": 11,
+   "heading": "Artigo 3.º — Riscos e capital seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Riscos e capital seguro\n\n1 - O seguro de acidentes pessoais a que se refere o artigo anterior, abrange os seguintes riscos por pessoa segura:\n\na) Morte;\n\nb) Invalidez permanente;\n\nc) Incapacidade temporária parcial ou total;\n\nd) Despesas de tratamento.\n\n2 - O seguro de acidentes pessoais é contratado por quantias não inferiores às seguidamente indicadas:\n\na) Morte - indemnização igual a 250 vezes a retribuição mínima mensal garantida mais elevada;\n\nb) Invalidez permanente - indemnização igual a 250 vezes a retribuição mínima mensal garantida mais elevada;\n\nc) Incapacidade temporária parcial ou total - até 0,15 vezes a retribuição mínima mensal garantida mais elevada, por dia;\n\nd) Despesas de tratamento e medicamentos - até ao montante equivalente a 100 vezes a retribuição mínima mensal garantida mais elevada."
+  },
+  "901900231": {
+   "fragment_id": "901900133",
+   "type": 11,
+   "heading": "Artigo 4.º — Estudantes e desempregados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estudantes e desempregados\n\n1 - Nos casos em que a incapacidade temporária parcial e total afete o segurado que seja estudante ou desempregado que não seja beneficiário de subsídio de desemprego, o subsídio diário é calculado em função da retribuição mínima mensal garantida mais elevada.\n\n2 -Para efeito do disposto no número anterior, considera-se:\n\na) Estudante - quem frequenta qualquer nível de educação escolar, bem como curso de pós-graduação, mestrado ou doutoramento em instituição de ensino e não aufere quaisquer rendimentos do trabalho;\n\nb) Desempregado - quem se encontra em situação de inexistência total e involuntária de emprego e não aufere subsídio de desemprego ou subsídio social de desemprego."
+  },
+  "901900232": {
+   "fragment_id": "901900134",
+   "type": 11,
+   "heading": "Artigo 5.º — Acidentes cobertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acidentes cobertos\n\n1 - Consideram-se cobertos os acidentes ocorridos no desempenho das seguintes funções/missões ou por causa delas, incluindo a formação e instrução:\n\na) Para os elementos do quadro de comando e do quadro ativo, incluindo os estagiários durante o período probatório em contexto de trabalho - as funções estabelecidas no artigo 9.º, 12.º e 13.º do Decreto-Lei n.º 247/2007, de 27 de junho, alterado pelo Decreto-Lei n.º 248/2012, de 21 de novembro, e ainda as missões e o serviço operacional referidos nos artigos 3.º e 17.º do mesmo diploma.\n\nb) Para os estagiários das diversas carreiras do quadro ativo, bem como os elementos não pertencentes a nenhum corpo de bombeiros designados para a estrutura de comando, nos termos da alínea c) do n.º 1 do artigo 32.º do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pelo Decreto-Lei n.º 248/2012, de 21 de novembro - a formação e instrução;\n\nc) Para os elementos dos quadros de reserva e de honra - as funções ou missões atribuídas pelo Comandante de acordo com o disposto no n.º 9 do artigo 14.º e no n.º 7 do artigo 15.º do Decreto-Lei n.º 247/2007, de 27 de junho, alterado pelo Decreto-Lei n.º 248/2012, de 21 de novembro;\n\nd) Para os infantes e cadetes - a formação prevista no n.º 2 do artigo 29.º do Decreto-Lei n.º 247/2007, de 27 de junho, alterado pelo Decreto-Lei n.º 248/2012, de 21 de novembro;\n\ne) Para os membros dos órgãos executivos das Associações Humanitárias de Bombeiros e da Liga dos Bombeiros Portugueses - as suas funções estatutárias, de acordo com o disposto no artigo 45.º do Decreto-Lei n.º 241/2007, de 27 de junho, alterado pelo Decreto-Lei n.º 249/2012, de 21 de novembro, conjugado com o disposto na Lei n.º 32/2007, de 13 de agosto, e nos estatutos de cada associação.\n\n2 - Consideram-se ainda cobertos os acidentes ocorridos em representação e os ocorridos durante o percurso direto para o local de apresentação ao serviço ou do regresso deste, qualquer que seja o meio de transporte utilizado, desde que em território nacional ou no limite de intervenção fronteiriço convencionado com o Estado Espanhol.\n\n3- Nos termos do disposto no n.º 10 do artigo 14.º, do n.º 9 do artigo 15.º e ainda do n.º 6 do artigo 29.º do Decreto-Lei n.º 247/2007, de 27 de junho, alterado pelo Decreto-Lei n.º 248/2012, de 21 de novembro, aos elementos referidos nas alíneas c) e d) do n.º 1 do presente artigo é vedado o exercício da atividade operacional."
+  },
+  "901900233": {
+   "fragment_id": "901900135",
+   "type": 11,
+   "heading": "Artigo 6.º — Prémios / Apólices Especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prémios / Apólices Especiais\n\nRelativamente aos elementos referidos nas alíneas c), d) e e) do n.º 1 do artigo 5.º, do presente diploma, tendo em conta o baixo índice de risco de acidente no cumprimento das suas funções e missões e o estabelecido no n.º 8 do artigo 14.º, no n.º 8 do artigo 15.º e no n.º 7 do artigo 29.º, todos do Decreto-Lei n.º 247/2007, de 27 de junho, alterado pelo Decreto-Lei n.º 248/2012, de 21 de novembro, deverão ser celebradas apólices especiais de seguro de acidentes pessoais."
+  },
+  "901900234": {
+   "fragment_id": "901900136",
+   "type": 11,
+   "heading": "Artigo 7.º — Lista de Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Lista de Beneficiários\n\n1 - Só se encontram abrangidos pelo presente diploma os bombeiros que estiverem registados no Recenseamento Nacional dos Bombeiros Portugueses.\n\n2 - As Associações Humanitárias de Bombeiros remeterão trimestralmente às Câmaras Municipais, com caráter obrigatório, uma relação atualizada dos elementos que devem constar da apólice e em que situações.\n\n3 - Os elementos referidos no número anterior devem ser validados pelos respetivos Comandantes Operacionais Distritais."
+  },
+  "901900235": {
+   "fragment_id": "901900137",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1163/2009, de 6 de outubro."
+  },
+  "901900236": {
+   "fragment_id": "901900138",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 16 de junho de 2014."
+  },
+  "901900247": {
+   "fragment_id": "901900131",
+   "type": 11,
+   "heading": "Artigo 2.º — Encargos",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Encargos\n\n1 - Os municípios suportam os encargos do seguro de acidentes pessoais dos bombeiros profissionais e voluntários dos diversos quadros dos corpos de bombeiros, dos infantes, dos cadetes, dos elementos que integram os órgãos executivos das associações humanitárias de bombeiros e dos elementos não pertencentes a corpo de bombeiros, designados para a estrutura de comando.\n\n2 - Excluem-se do número anterior os elementos do quadro de reserva e do quadro de honra que não executem funções e missões atribuídas pelo Comandante de acordo com o disposto no n.º 9 do artigo 14.º e no n.º 7 do artigo 15.º do Decreto-Lei n.º 247/2007, de 27 de junho, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+  },
+  "901900248": {
+   "fragment_id": "901900132",
+   "type": 11,
+   "heading": "Artigo 3.º — Riscos e capital seguro",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Riscos e capital seguro\n\n1 - O seguro de acidentes pessoais a que se refere o artigo anterior, abrange os seguintes riscos por pessoa segura:\n\na) Morte;\n\nb) Invalidez permanente;\n\nc) Incapacidade temporária parcial ou total;\n\nd) Despesas de tratamento.\n\n2 - O seguro de acidentes pessoais é contratado por quantias não inferiores às seguidamente indicadas:\n\na) Morte - indemnização igual a 280 vezes a retribuição mínima mensal garantida;\n\nb) Invalidez permanente - indemnização igual a 280 vezes a retribuição mínima mensal garantida;\n\nc) Incapacidade temporária parcial ou total - até 0,15 vezes a retribuição mínima mensal garantida mais elevada, por dia;\n\nd) Despesas de tratamento e medicamentos - até ao montante equivalente a 110 vezes a retribuição mínima mensal garantida.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+  },
+  "901900249": {
+   "fragment_id": "901900133",
+   "type": 11,
+   "heading": "Artigo 4.º — Estudantes e desempregados",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Estudantes e desempregados\n\n1 - Nos casos em que a incapacidade temporária parcial e total afete o segurado que seja estudante ou desempregado que não seja beneficiário de subsídio de desemprego, o subsídio diário é calculado em função da retribuição mínima mensal garantida.\n\n2 -Para efeito do disposto no número anterior, considera-se:\n\na) Estudante - quem frequenta uma instituição de ensino reconhecido pelo estado, seja estabelecimento de ensino básico, secundário, superior (Universidades e politécnicos) ou em cursos de formação profissional, não aufere quaisquer rendimentos do trabalho;\n\nb) Desempregado - quem se encontra em situação de inexistência total e involuntária de emprego e não aufere subsídio de desemprego ou subsídio social de desemprego.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+  },
+  "901900250": {
+   "fragment_id": "901900134",
+   "type": 11,
+   "heading": "Artigo 5.º — Acidentes cobertos",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Acidentes cobertos\n\n1 - Consideram-se cobertos os acidentes ocorridos no desempenho das seguintes funções/missões ou por causa delas, incluindo a formação e instrução:\n\na) Para os elementos do quadro de comando e do quadro ativo, incluindo os estagiários, as funções estabelecidas nos artigos 9.º, 12.º e 13.º e as missões e o serviço operacional referidos nos artigos 3.º e 17.º do Decreto-Lei n.º 247/2007, de 21 de junho, na sua redação atual;\n\nb) Para os elementos não pertencentes a corpo de bombeiros designados para a estrutura de comando, nos termos da alínea c) do n.º 1 do artigo 32.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, a formação e instrução;\n\nc) Para os elementos dos quadros de reserva e de honra as funções ou missões atribuídas pelo Comandante de acordo com o disposto no n.º 9 do artigo 14.º e no n.º 7 do artigo 15.º do Decreto-Lei n.º 247/2007, de 27 de junho, na sua redação atual;\n\nd) Para os infantes e cadetes - a formação prevista no n.º 2 do artigo 29.º do Decreto-Lei n.º 247/2007, de 27 de junho, na sua redação atual;\n\ne) Para os membros dos órgãos executivos das Associações Humanitárias de Bombeiros e da Liga dos Bombeiros Portugueses, as suas funções estatutárias, de acordo com o disposto no artigo 45.º do Decreto-Lei n.º 241/2007, de 27 de junho, na sua redação atual, conjugado com o disposto na Lei n.º 32/2007, de 13 de agosto, na sua redação atual, e nos estatutos de cada associação.\n\n2 - Consideram-se ainda cobertos os acidentes ocorridos em representação e os ocorridos durante o percurso direto para o local de apresentação ao serviço ou do regresso deste, qualquer que seja o meio de transporte utilizado, desde que em território nacional ou no limite de intervenção fronteiriço convencionado com o Estado Espanhol.\n\n3 - Nos termos do disposto no n.º 10 do artigo 14.º, do n.º 9 do artigo 15.º e ainda do n.º 6 do artigo 29.º do Decreto-Lei n.º 247/2007, de 27 de junho, na sua redação atual, aos elementos referidos nas alíneas c) e d) do n.º 1 do presente artigo é vedado o exercício da atividade operacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+  },
+  "901900251": {
+   "fragment_id": "901900135",
+   "type": 11,
+   "heading": "Artigo 6.º — Prémios / Apólices Especiais",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Prémios / Apólices Especiais\n\nRelativamente aos elementos referidos nas alíneas c), d) e e) do n.º 1 do artigo 5.º da presente portaria, tendo em conta o baixo índice de risco de acidente no cumprimento das suas funções e missões e o estabelecido no n.º 8 do artigo 14.º, no n.º 8 do artigo 15.º e no n.º 7 do artigo 29.º, todos do Decreto-Lei n.º 247/2007, de 27 de junho, na sua redação atual, são celebradas apólices especiais de seguro de acidentes pessoais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+  },
+  "901900252": {
+   "fragment_id": "901900136",
+   "type": 11,
+   "heading": "Artigo 7.º — Lista de Beneficiários",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Lista de Beneficiários\n\n1 - A presente portaria abrange os elementos registados no Recenseamento Nacional dos Bombeiros Portugueses e ainda os elementos que não pertencem ao corpo de bombeiros designados para a estrutura de comando.\n\n2 - As Associações Humanitárias de Bombeiros remetem trimestralmente às Câmaras Municipais, com caráter obrigatório, uma relação atualizada dos elementos que devem constar da apólice e em que situações.\n\n3 - A relação dos elementos a constar da apólice referida no número anterior é acompanhada de comprovativo da sua situação, obtido pelo recenseamento nacional de bombeiros portugueses.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 366/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/366-2024-901661929), em vigor a partir de 2025-01-01"
+  },
+  "901900237": {
+   "fragment_id": "901900139",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva."
+  }
+ }
+}

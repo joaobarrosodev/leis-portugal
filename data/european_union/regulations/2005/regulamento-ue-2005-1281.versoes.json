@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005R1281:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R1281-20110507",
+ "dre_path": null,
+ "source_lastmod": "2011-05-07",
+ "versions": [
+  {
+   "date": "2005-08-04",
+   "future": false,
+   "celex": "32005R1281",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6a67d22f53c4536a",
+    "6c1413d5e1d76b77",
+    "79027e7449981885",
+    "a17d336d08f152c1",
+    "15a59919e1c22938",
+    "7a30cea9cf6bd9e9",
+    "687ee568f6625489",
+    "c78967a5d629d792",
+    "c211f9a280be69ce",
+    "ef14e3ab70240988",
+    "3b2654a8da6b6df5"
+   ]
+  }
+ ],
+ "fragments": {
+  "6a67d22f53c4536a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Agosto de 2005\n\nrelativo à gestão das licenças de pesca e às informações mínimas que devem conter\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas [([^1])](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntr1-L_2005203PT.01000301-E0001), nomeadamente o n.º. 3 do artigo 13.º e o n.º 3 do artigo 22.º,\n\nConsiderando o seguinte:\n\n(1) A fim de facilitar e assegurar um controlo homogéneo das actividades de pesca, é necessário estabelecer ao nível comunitário regras sobre as informações mínimas que devem constar de uma licença de pesca, designadamente no que se refere ao titular da licença, ao navio, à capacidade de pesca e às artes de pesca.\n\n(2) A licença de pesca constitui um importante instrumento de gestão da frota, especialmente no que diz respeito às limitações de capacidade estabelecidas nos artigos 12.º e 13.º do Regulamento (CE) n.º 2371/2002 e no Regulamento (CE) n.º 639/2004 do Conselho, de 30 de Março de 2004, relativo à gestão das frotas de pesca registadas nas regiões ultraperiféricas da Comunidade [([^2])](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntr2-L_2005203PT.01000301-E0002). A capacidade total da frota de um Estado-Membro, expressa em licenças emitidas, não pode exceder essas limitações, nomeadamente no que concerne os níveis decorrentes da aplicação do Regulamento (CE) n.º 1438/2003 da Comissão, de 12 de Agosto de 2003, que estabelece regras de execução da política comunitária em matéria de frota definida no capítulo III do Regulamento (CE) n.º 2371/2002 do Conselho [([^3])](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntr3-L_2005203PT.01000301-E0003) e no Regulamento (CE) n.º 2104/2004 da Comissão, de 9 de Dezembro de 2004, que estabelece regras de execução do Regulamento (CE) n.º 639/2004 do Conselho relativo à gestão das frotas de pesca registadas nas regiões ultraperiféricas da Comunidade.\n\n(3) Atenta a importância da licença de pesca como instrumento tanto para a gestão da frota como para o controlo e inspecção das actividades de pesca, os Estados-Membros devem assegurar que as informações constantes da licença sejam claras e inequívocas e correspondam a todo o momento à situação efectiva.\n\n(4) Nos termos do n.º 3 do artigo 11.º do Regulamento (CE) n.º 2371/2002, a licença de pesca deve ser retirada pelo Estado-Membro para que um navio possa sair da frota com auxílio público. A capacidade correspondente à licença em causa não pode ser substituída. Por outro lado, se a saída de um navio não tiver beneficiado de auxílio público, a capacidade e a licença correspondente podem ser substituídas, na observância do disposto nos artigos 12.º e 13.º do Regulamento (CE) n.º 2731/2002 sobre os níveis de referência e o regime de entrada/saída da frota.\n\n(5) As informações constantes da licença devem corresponder às informações contidas no ficheiro da frota de pesca comunitária.\n\n(6) As informações constantes da licença devem ser apresentadas em conformidade com o Regulamento (CEE) n.º 2930/86 do Conselho, de 22 de Setembro de 1986, que define as características dos navios de pesca [([^4])](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntr4-L_2005203PT.01000301-E0004) e com o Regulamento (CE) n.º 26/2004 da Comissão, de 30 de Dezembro de 2003, relativo ao ficheiro da frota de pesca comunitária [([^5])](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntr5-L_2005203PT.01000301-E0005).\n\n(7) O Regulamento (CE) n.º 3690/93 do Conselho [([^6])](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntr6-L_2005203PT.01000301-E0006) instituiu um regime que define as regras relativas à informação mínima que deve constar das licenças de pesca. O presente regulamento deve aplicar-se a partir da data de revogação daquele regulamento.\n\n(8) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité das Pescas e da Aquicultura,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6c1413d5e1d76b77": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece as regras de gestão das licenças de pesca a que se refere o artigo 22.º do Regulamento (CE) n.º 2371/2002 e determina as informações mínimas que devem conter."
+  },
+  "79027e7449981885": {
+   "fragment_id": "Artigo 2.º — Definição",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nPara efeitos do presente regulamento, uma «licença de pesca» confere ao seu titular o direito, limitado pela legislação nacional, de utilizar uma certa capacidade de pesca para a exploração comercial de recursos aquáticos vivos."
+  },
+  "a17d336d08f152c1": {
+   "fragment_id": "Artigo 3.º — Exploração de recursos aquáticos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Exploração de recursos aquáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exploração de recursos aquáticos\n\nUm navio de pesca comunitário só pode ser utilizado para a exploração comercial de recursos aquáticos vivos se tiver a bordo uma licença de pesca válida."
+  },
+  "15a59919e1c22938": {
+   "fragment_id": "Artigo 4.º — Obrigações dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Obrigações dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações dos Estados-Membros\n\nO Estado-Membro de pavilhão emite, gere e retira as licenças de pesca em conformidade com o presente regulamento."
+  },
+  "7a30cea9cf6bd9e9": {
+   "fragment_id": "Artigo 5.º — Informações mínimas que devem constar da licença de pesca",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Informações mínimas que devem constar da licença de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Informações mínimas que devem constar da licença de pesca\n\n1. Da licença de pesca constarão pelo menos as informações previstas no anexo.\n\n2. Em caso de alterações, as informações contidas na licença de pesca serão actualizadas pelo Estado-Membro de pavilhão.\n\n3. O Estado-Membro de pavilhão velará pela exactidão das informações constantes da licença de pesca e pela sua conformidade com as contidas no ficheiro da frota de pesca comunitária referido no artigo 15.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "687ee568f6625489": {
+   "fragment_id": "Artigo 6.º — Suspensão e retirada",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Suspensão e retirada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Suspensão e retirada\n\n1. O Estado-Membro de pavilhão suspenderá temporariamente a licença de pesca de um navio que seja objecto de uma medida de cessação temporária de actividade decidida pelo Estado-Membro.\n\n2. O Estado-Membro de pavilhão retirará definitivamente a licença de pesca de um navio que seja afectado por uma medida de ajustamento de capacidade referida no n.º 3 do artigo 11.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "c78967a5d629d792": {
+   "fragment_id": "Artigo 7.º — Coerência com as medidas de gestão da capacidade da frota",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Coerência com as medidas de gestão da capacidade da frota",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coerência com as medidas de gestão da capacidade da frota\n\nA capacidade total correspondente às licenças de pesca emitidas por um Estado-Membro, expressa em GT e kW, não será em nenhum momento superior aos níveis máximos de capacidade desse Estado-Membro estabelecidos em conformidade com os artigos 12.º e 13.º do Regulamento (CE) n.º 2371/2002 e com os Regulamentos (CE) n.^os^ 639/2004, 1438/2003 e 2104/2004."
+  },
+  "c211f9a280be69ce": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Cada Estado-Membro de pavilhão velará por que todas as licenças sejam conformes com o presente regulamento no prazo de 12 meses a partir da data de aplicação deste último.\n\n2. As licenças emitidas em conformidade com o Regulamento (CE) n.º 3690/93 serão consideradas válidas até que todas as licenças sejam emitidas pelo Estado-Membro de pavilhão em conformidade com o presente regulamento."
+  },
+  "ef14e3ab70240988": {
+   "fragment_id": "Artigo 9.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir da data de revogação do Regulamento (CE) n.º 3690/93.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 3 de Agosto de 2005.\n\n***Pela Comissão***\n\n**Joe BORG**\n\n***Membro da Comissão***\n\n---"
+  },
+  "3b2654a8da6b6df5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntc1-L_2005203PT.01000301-E0001) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntc2-L_2005203PT.01000301-E0002) [JO L 102 de 7.4.2004, p. 9](http://publications.europa.eu/resource/oj/JOL_2004_102_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntc3-L_2005203PT.01000301-E0003) [JO L 204 de 13.4.2003, p. 21](http://publications.europa.eu/resource/oj/JOL_2003_204_R_TOC). Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 916/2004 ([JO L 163 de 30.4.2004, p. 81](http://publications.europa.eu/resource/oj/JOL_2004_163_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntc4-L_2005203PT.01000301-E0004) [JO L 274 de 25.9.1986, p. 1](http://publications.europa.eu/resource/oj/JOL_1986_274_R_TOC). Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 3259/94 ([JO L 339 de 29.12.1994, p. 11](http://publications.europa.eu/resource/oj/JOL_1994_339_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntc5-L_2005203PT.01000301-E0005) [JO L 5 de 9.1.2004, p. 25](http://publications.europa.eu/resource/oj/JOL_2004_005_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/dfb56994-cfe5-4e84-a62e-6514583e477c.0016.03/DOC_1#ntc6-L_2005203PT.01000301-E0006) [JO L 341 de 31.12.1993, p. 93](http://publications.europa.eu/resource/oj/JOL_1993_341_R_TOC)."
+  }
+ }
+}

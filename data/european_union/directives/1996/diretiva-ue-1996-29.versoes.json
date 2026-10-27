@@ -1,0 +1,596 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0029:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0029-20000513",
+ "dre_path": null,
+ "source_lastmod": "2000-05-13",
+ "versions": [
+  {
+   "date": "1996-06-29",
+   "future": false,
+   "celex": "31996L0029",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f817c2d94b66d643",
+    "1cbd2ba99fbea203",
+    "259c108e9469d536",
+    "05dd408ab29c1620",
+    "1051ff384f56d60f",
+    "25eac3bcee18bf9d",
+    "024c2ca0db2f136c",
+    "d4a759b5e0c89063",
+    "58c2143aca1a7317",
+    "8373bc6670f6d5e2",
+    "16c881897fdf0b58",
+    "6b487b33842c702a",
+    "7a9820982dade3b1",
+    "dc4ff58093e78359",
+    "b1e8e90869648380",
+    "584d91125256fbe9",
+    "a53e69ebec187f85",
+    "d70d35d9fbc8fc1b",
+    "f723e0012dcaad10",
+    "1859e48a561dd0ba",
+    "ff50028116239a11",
+    "81cd581ac2e0a012",
+    "fb25582368524e01",
+    "07e2e377e01122a2",
+    "fd0a885b09b20281",
+    "d45b33ba7c65b875",
+    "df27fd0d9b112316",
+    "0c94cdb6a7d5b4d0",
+    "605e3336798b5992",
+    "8d10a70f5d542fe1",
+    "663eea4859d241a8",
+    "facffe2f5faa6319",
+    "bdcd49cf52f8c986",
+    "c91674c0d7c178a0",
+    "d271ebaed1c606db",
+    "ae269b8f2c31d202",
+    "34f863a3f6188be5",
+    "7ef7b08362f550a0",
+    "c59cd35c0894484c",
+    "192f83a6e588e93d",
+    "5803088b14f455b3",
+    "d9e26712d777f6fb",
+    "3846db743398825e",
+    "e26de6791f26684a",
+    "bb6ba2788a243acd",
+    "c13339ae51a0d222",
+    "0f00832c05fddb24",
+    "33e078f96ceab37a",
+    "4cdeb08487ebded3",
+    "1f27f566a68fb622",
+    "d93d33dace1a3d09",
+    "68cb1ee67d3efe7a",
+    "0a846f7876090b41",
+    "f42dc1f6631e0fda",
+    "af13eee14c80e626",
+    "494c4067bc652686",
+    "d6450152df79fae7",
+    "2961f338fb9cf5c6",
+    "e32da9e3452e6d77",
+    "d7b4b38a4b98eeb5",
+    "a44df8efee8fe3d7",
+    "adaa69daf31e1505",
+    "828faad8932eec2c",
+    "7d59394491dce9a5"
+   ]
+  }
+ ],
+ "fragments": {
+  "f817c2d94b66d643": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/29/Euratom do Conselho de 13 de Maio de 1996 que fixa as normas de segurança de base relativas à protecção sanitária da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes** *Jornal Oficial nº L 159 de 29/06/1996 p. 0001 - 0114*\n\nDIRECTIVA 96/29/EURATOM DO CONSELHO de 13 de Maio de 1996 que fixa as normas de segurança de base relativas à protecção sanitária da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes\n\nO CONSELHO DA UNIÃO EUROPEIA\n\nTendo em conta o Tratado que institui a Comunidade Europeia da Energia Atómica, e, nomeadamente, os seus artigos 31º e 32º,\n\nTendo em conta a proposta da Comissão, elaborada após parecer de um grupo de personalidades nomeadas pelo Comité científico e técnico de entre peritos cientistas dos Estados-membros,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que a alínea b) do artigo 2º do Tratado prevê o estabelecimento de normas de segurança de base uniformes destinadas à protecção sanitária da população e dos trabalhadores;\n\nConsiderando que, nos termos do artigo 30º do Tratado, se entende por normas de base relativas à protecção sanitária da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes:\n\na) As doses máximas permitidas, que sejam compatíveis com uma margem de segurança suficiente;\n\nb) Os níveis máximos permitidos de exposição e contaminação;\n\nc) Os princípios fundamentais de vigilância médica dos trabalhadores;\n\nConsiderando que, nos termos do artigo 33º do Tratado, cada Estado-membro adoptará as disposições legislativas, regulamentares e administrativas adequadas para assegurar o cumprimento das normas de base estabelecidas e tomará as medidas necessárias no que diz respeito ao ensino, à educação e à formação profissional;\n\nConsiderando que, para desempenhar as suas funções, a Comunidade estabeleceu normas de base pela primeira vez em 1959, nos termos do artigo 218º do Tratado, pelas Directivas de 2 de Fevereiro de 1959 que estabelecem as normas de base relativas à protecção sanitária dos trabalhadores e da população contra os perigos resultantes das radiações ionizantes (3); que essas directivs foram revistas em 1962, pela Directiva de 5 de Março de 1962 (4), em 1966, pela Directiva 66/45/Euratom do Conselho (5), em 1976, pela Directiva 76/579/Euratom do Conselho (6), em 1979, pela Directiva 79/343/Euratom do Conselho (7), em 1980, pela Directiva 80/836/Euratom do Conselho (8) e em 1984, pela Directiva 84/467/Euratom do Conselho (9);\n\nConsiderando que as directivas sobre as normas de base foram complementadas pela Directiva 84/466/Euratom do Conselho, de 3 de Setembro de 1984, que determina as medidas fundamentais relativas à protecção contra radiações das pessoas submetidas a exames e tratamentos médicos (10), pela Decisão 87/600/Euratom do Conselho, de 14 de Dezembro de 1987, relativa a regras comunitárias de troca rápida de informações em caso de emergência radiológica (11), pelo Regulamento (Euratom) nº 3954/87 do Conselho, de 22 de Dezembro de 1987, que fixa os níveis máximos tolerados de contaminação radioactiva dos géneros alimentícios e alimentos para animais na sequência de um acidente nuclear ou de qualquer outro caso de emergência radiológica (12), pela Directiva 89/618/Euratom do Conselho, de 27 de Novembro de 1989, relativa à informação da população sobre as medidas de protecção sanitária aplicáveis e sobre o comportamento a adoptar em caso de emergência radiológica (13), pela Directiva 90/641/Euratom do Conselho, de 4 de Dezembro de 1990, relativa à protecção dos trabalhadores externos sujeitos ao risco de radiações ionizantes durante a intervenção numa zona controlada (14), pela Directiva 92/3/Euratom do Conselho, de 3 de Fevereiro de 1992, relativa à fiscalização e ao controlo das transferências de resíduos radioactivos entre Estados-membros e para dentro e fora da Comunidade (15), e pelo Regulamento nº 1493/93/Euratom do Conselho, de 8 de Junho de 1993, sobre transferências de substâncias radioactivas entre Estados-membros (16);\n\nConsiderando que o desenvolvimento dos conhecimentos científicos sobre protecção radiológica, tal como é referido em particular na recomendação nº 60 da Comissão internacional de protecção radiológica, torna conveniente rever as normas de base e codificá-las num novo acto legislativo;\n\nConsiderando que as normas de base se revestem de particular significado quanto aos riscos de radiação ionizante, nomeadamente em relação a outras directivas referentes a outros tipos de riscos, e que é importante progredir na sua aplicação uniforme através da Comunidade;\n\nConsiderando que é desejável que sejam tomadas em consideração, no âmbito das normas de base, as práticas ou actividades laborais que possam resultar num aumento significativo da exposição dos trabalhadores e da população às radiações ionizantes provenientes de fontes de radiação artificial ou natural, aumento este que não poderá ser menosprezado do ponto de vista da protecção contra as radiações, bem como a necessidade de uma protecção adequada em caso de intervenções;\n\nConsiderando que, para assegurar a observância das normas de base, é exigido aos Estados-membros que sujeitem determinadas práticas que envolvam riscos resultantes de radiações ionizantes a um regime de declaração e de autorização prévia ou proíbam certas práticas;\n\nConsiderando que um sistema de protecção contra radiações aplicável a certas práticas se deverá continuar a basear nos princípios de justificação da exposição, da optimização da protecção e da limitação da dose; que os limites de dose devem ser fixados tendo em conta a situação particular dos diferentes grupos de pessoas expostas, como trabalhadores, aprendizes, estudantes e população em geral;\n\nConsiderando que a protecção operacional dos trabalhadores, aprendizes e estudantes expostos impõe que sejam tomadas medidas no local de trabalho; que essas medidas devem incluir a avaliação prévia do risco incorrido, a classificação dos locais de trabalho e dos trabalhadores, o controlo das áreas e das condições de trabalho, assim como a vigilância médica;\n\nConsiderando que deverá ser exigido aos Estados-membros que identifiquem as práticas de trabalho que envolvam para os trabalhadores e a população níveis significativamente elevados de exposição a fontes de radiação natural que não podem ser menosprezadas do ponto de vista da protecção contra as radiações; que os Estados-membros deverão tomar as medidas de protecção necessárias no que diz respeito às práticas de trabalho declaradas de risco;\n\nConsiderando que a protecção operacional da população em circunstâncias normais requer o estabelecimento pelos Estados-membros de um sistema de inspecção que mantenha sob observação a protecção da população contra as radiações e verifique o cumprimento das normas de base;\n\nConsiderando que os Estados-membros deveriam estar preparados para a eventualidade da ocorrência de situações potenciais de emergência radiológica e cooperar com outros Estados-membros e países terceiros de forma a facilitar a preparação e a gestão dessas situações;\n\nConsiderando que a directiva sobre normas de base, com a última redacção que lhes foi dada pela Directiva 84/467/Euratom, deve ser revogada a partir da data em que a presente Directiva se tornar aplicável,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1cbd2ba99fbea203": {
+   "fragment_id": "TÍTULO I DEFINIÇÕES — Artigo 1º",
+   "type": "divisao",
+   "heading": "TÍTULO I DEFINIÇÕES — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I DEFINIÇÕES — Artigo 1º\n\nPara efeitos da presente directiva, entende-se por:\n\nDose absorvida (D): a energia absorvida por unidade de massa\n\nD = >NUM>d>INÍCIO DE GRÁFICO>\n\n>FIM DE GRÁFICO>\n\n>DEN>dm\n\nsendo\n\n- d>INÍCIO DE GRÁFICO>\n\n>FIM DE GRÁFICO>\n\n, a energia média cedida pelas radiações ionizantes à matéria num elemento de volume,\n\n- dm, a massa da matéria contida nesse elemento de volume.\n\nNa presente directiva, dose absorvida designa a dose média num tecido ou num órgão. A unidade de dose absorvida é o gray.\n\nAcelerador: aparelho ou instalação onde são aceleradas partículas e que emite radiações ionizantes com energia superior a 1 vóltio mega-electron (Mev).\n\nExposição acidental: exposição de indivíduos em consequência de um acidente, com exclusão de exposição de emergência.\n\nActivação: processo pelo qual um nuclido estável é transformado num radionuclido através da irradiação do material em que está contido com partículas ou radiações gama de alta energia.\n\nActividade (A): a actividade A, de uma certa quantidade de um radionuclido num determinado estado energético e num dado momento, é o quociente de dN por dt, sendo dN o valor esperado do número de transições nucleares espontâneas desse estado energético no intervalo de tempo dt.\n\nA = >NUM>dN\n\n>DEN>dt\n\nA unidade de actividade é o becquerel.\n\nAprendiz: pessoa que recebe formação e instrução numa empresa com vista à aquisição de uma especialidade.\n\nServiço de dosimetria aprovado: entidade responsável pela calibração, leitura ou interpretação de dispositivos de monitorização individual, pela medição da radioactividade presente no organismo humano ou em amostras biológicas ou pela avaliação de doses, cuja qualificação para o exercício de tais funções é reconhecida pelas autoridades competentes.\n\nMédico aprovado: médico responsável pelo controlo médico dos trabalhadores da categoria A tal como definidos no artigo 21º, cuja qualificação é reconhecida pelas autoridades competentes.\n\nServiços de medicina do trabalho aprovados: um organismo ou organismos a que pode ser atribuída a responsabilidade pela protecção contra radiações dos trabalhadores expostos e/ou pelo controlo médico dos trabalhadores da categoria A. A sua autoridade é reconhecida pelas autoridades competentes.\n\nFontes artificiais: fontes de radiação diferentes das fontes de radiação natural.\n\nAutorização: autorização de levar a efeito uma prática ou qualquer outra acção no âmbito da presente directiva, concedida num documento pela autoridade competente, mediante pedido, ou pela legislação nacional.\n\nBecquerel (Bq): designação especial da unidade de actividade. Um bequerel equivale a uma transição por segundo.\n\n1 Bq = 1 s-1\n\nNíveis de isenção: valores, estabelecidos pelas autoridades nacionais competentes e expressos em termos de concentrações de actividade e/ou de actividade total, que as substâncias radioactivas ou os materiais que contenham substâncias radioactivas resultantes de qualquer prática sujeita à exigência de declaração ou autorização não deverão exceder para poderem ser isentas das exigências da presente directiva.\n\nDose efectiva comprometida: [E(ô)]: soma das doses equivalentes resultantes nos tecidos ou órgãos (HT(ô)) decorrentes de uma incorporação, cada uma delas multiplicada pelo factor de ponderação tecidular wT adequado. É definida pela fórmula:\n\nE(ô) = TÓ wTHT(ô)\n\nAo especificar E(ô), ô representa o número de anos em que se faz a integração. A unidade de dose efectiva comprometida é o sievert.\n\nDose equivalente comprometida (HT(ô)): o integral, em função do tempo (t), do débito de dose equivalente no tecido ou órgão T que será recebida por um indivíduo, em resultado de uma incorporação. É definida por:\n\nHT(ô) = t0&int;t0 + ô HT(t)dt\n\npara uma incorporação no momento t0, sendo\n\n- >INÍCIO DE GRÁFICO>\n\n>FIM DE GRÁFICO>\n\nT(ô) o débito de dose equivalente no órgão ou tecido T no instante t,\n\n- ô o período durante o qual se realiza a integração.\n\nAo especificar HT(ô), ô é dado em anos. Quando T não é dado, pressupõe-se um período de 50 anos para adultos e de 70 anos para crianças. A unidade de dose equivalente comprometida é o sievert.\n\nAutoridades competentes: qualquer entidade designada por um Estado-membro.\n\nÁrea controlada: Área submetida a regulamentação especial para efeitos de protecção contra radiações ionizantes ou para evitar a disseminação da contaminação radioactiva e cujo acesso é controlado.\n\nEliminação: Colocação de resíduos num depósito ou num determinado local, sem intenção de reaproveitamento. A eliminação abrange igualmente a descarga directa autorizada de resíduos no ambiente e a sua subsequente dispersão.\n\nRestrição de dose: limitação das doses prospectivas recebidas pelos indivíduos que possam ser provenientes de uma determinada fonte, destinada a ser utilizada na fase de planeamento da protecção contra as radiações, sempre que se pretenda atingir a sua optimização.\n\nLimites de dose: as referências máximas fixadas no título IV da presente directiva para as doses resultantes da exposição a radiações ionisantes dos trabalhadores, aprendizes e estudantes, e membros do público abrangidas pela presente directiva, e que se aplicam à soma das doses relevantes provenientes de exposição externa para o período de 50 anos (70 anos para crianças) provenientes de incorporações durante o mesmo período.\n\nDose efectiva (E): soma das doses equivalentes ponderadas em todos os tecidos e órgãos do corpo especificados no anexo II, resultante de irradiação interna e externa. É definida pela fórmula\n\nE = TÓ wTHT = TÓ wT RÓ wR DT,R\n\nsendo\n\n- DT,R a dose absorvida média pelo tecido ou órgão T, em resultado da radiação R,\n\n- WR o factor de ponderação da radiação,\n\n- WT o factor de ponderação tecidular para o tecido ou órgão T.\n\nOs valores wT e wR adequados são especificados no anexo II. A unidade de dose efectiva é o sievert.\n\nExposição de emergência: exposição de indivíduos que executem uma acção rápida necessária para prestar assistência a indivíduos em perigo, evitar a exposição de um grande número de pessoas ou salvar uma instalação ou bens de valor, que implique que um dos limites de dose individual igual ao fixado para os trabalhadores expostos possa ser excedido. A exposição de emergência só se aplica a voluntários.\n\nDose equivalente (HT): a dose absorvida no tecido ou órgão T, ponderada em função do tipo e qualidade da radiação R. É definida pela fórmula:\n\nHT,R = wR DT,R\n\nsendo\n\n- DT,R a dose absorvida média no tecido ou órgão T, em resultado da radiação R,\n\n- WR o factor de ponderação da radiação.\n\nQuando o campo de radiação é composto por tipos e energias com valores diferentes de WR, a dose equivalente total, HT, é definida pela fórmula\n\nHT = RÓ wR DT,R\n\nOs valores apropriados de wR são especificados no anexo II. A unidade de dose equivalente é o sievert.\n\nTrabalhadores expostos: pessoas submetidas durante o trabalho, por conta própria ou de outrem, a uma exposição decorrente de práticas abrangidas pela presente directiva e susceptíveis de produzir doses superiores a qualquer um dos níveis iguais aos limites de dose fixados para os membros do público.\n\nExposição: o processo de ser exposto a radiações ionizantes.\n\nGray (Gy): designação especial da unidade de dose absorvida. Um gray é igual a um joule por quilograma.\n\n1 Gy = 1 J kg-1\n\nDetrimento da saúde: estimativa do risco de redução da esperança e qualidade de vida de uma população após a exposição a radiações ionizantes, incluindo perdas tanto por efeitos somáticos, como em virtude de cancro e alterações genéticas graves.\n\nIncorporação: as actividades dos radionuclidos que entram no organismo, provenientes do meio exterior.\n\nIntervenção: actividade humana destinada a impedir ou diminuir a exposição dos indivíduos a radiações provenientes de fontes que não façam parte de uma determinada prática ou sobre as quais se tenha perdido o controlo, através de uma acção sobre tais fontes, sobre as vias de transmissão e sobre os próprios indivíduos.\n\nNível de intervenção: valor de dose equivalente evitável, de dose efectiva evitável ou valor derivado, a partir do qual seja necessário tomar medidas de intervenção. A dose evitável ou o valor derivado é apenas o que se relaciona directamente com a via de exposição à qual deverá ser aplicada a medida de intervenção.\n\nRadiação ionizante: transferência de energia sob a forma de partículas ou ondas electromagnéticas com um comprimento de onda igual ou inferior a 100 nanómetros ou uma frequência igual ou superior a 3 × 10 15 Hertz e capazes de produzir iões directa ou indirectamente.\n\nMembros do público: elementos da população, com excepção dos trabalhadores expostos, dos aprendizes e dos estudantes durante as suas horas de trabalho e de indivíduos durante as exposições referidas no nº 4, alíneas a), b) e c), do artigo 6º\n\nFontes de radiação natural: fontes de radiação ionizante de origem natural, terrestre ou cósmica.\n\nExposição potencial: exposição de cuja ocorrência não pode haver a certeza, mas cuja probabilidade pode ser previamente estimada.\n\nPrática: actividade humana de que pode resultar um aumento da exposição dos indivíduos às radiações provenientes de uma fonte artificial ou de uma fonte de radiação natural, no caso de os radionuclidos naturais serem processados em função das suas propriedades radioactivas, cindíveis ou férteis, excepto em situação de exposição de emergência.\n\nPerito qualificado: pessoa dotada dos conhecimentos e formação necessários para efectuar exames físicos, técnicos ou radioquímicos que permitam avaliar doses, e para dar conselhos de forma a garantir uma protecção eficaz dos indivíduos e o funcionamento correcto do equipamento de protecção, e cuja qualificação é reconhecida pelas autoridades competentes. Poderá ser atribuída a um perito qualificado a responsabilidade técnica em missões de protecção contra as radiações de trabalhadores e membros do público.\n\nContaminação radioactiva: contaminação de qualquer matéria, superfície ou ambiente ou de um indivíduo por substâncias radioactivas. No caso específico do corpo humano, esta contaminação radioactiva inclui a contaminação externa cutânea e a contaminação interna, independentemente da via de incorporação.\n\nSubstância radioactiva: qualquer substância que contenha um ou mais radionuclídeos, cuja actividade ou concentração não possa ser menosprezada do ponto de vista da protecção contra as radiações.\n\nEmergência radiológica: uma situação que requer uma acção urgente, a fim de proteger os trabalhadores, membros do público, ou uma parte ou a totalidade da população.\n\nGrupo de referência da população: grupo que inclua indivíduos cuja exposição a uma fonte seja razoavelmente homogénea e representativa dos indivíduos que, de entre a população, sejam os mais expostos à referida fonte.\n\nDeclaração: Obrigação de apresentar documentação à autoridade competente destinada a comunicar a intenção de levar a efeito uma prática ou qualquer outra acção no âmbito da presente directiva.\n\nFonte selada: fonte cuja estrutura impede, em circunstâncias normais de utilização, qualquer dispersão de substâncias radioactivas no ambiente.\n\nSievert: designação especial da unidade de dose equivalente e de dose efectiva. Um sievert equivale a um joule por quilograma.\n\n1 Sv = 1 J Kg-1\n\nFonte: aparelho, substância radioactiva ou instalação capaz de emitir radiações ionizantes ou substâncias radioactivas.\n\nÁrea vigiada: área devidamente supervisionada para efeitos de protecção contra radiações ionizantes.\n\nEmpresa: pessoa singular ou colectiva que leve a cabo as práticas ou actividades laborais referidas no artigo 2º da presente directiva, pelas quais seja juridicamente responsável nos termos da lei nacional."
+  },
+  "259c108e9469d536": {
+   "fragment_id": "TÍTULO II ÂMBITO DE APLICAÇÃO — Artigo 2º",
+   "type": "divisao",
+   "heading": "TÍTULO II ÂMBITO DE APLICAÇÃO — Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II ÂMBITO DE APLICAÇÃO — Artigo 2º\n\n1. A presente directiva é aplicável a todas as práticas que impliquem risco resultante das radiações ionizantes emanadas de uma fonte artificial ou de uma fonte natural de radiação, no caso de os radionuclídeos naturais serem ou terem sido tratados em função das suas propriedades radioactivas, cindíveis ou férteis, designadamente:\n\na) A produção, tratamento, manipulação, utilização, detenção, armazenagem, transporte, importação para a Comunidade, exportação da Comunidade e a eliminação de substâncias radioactivas;\n\nb) A utilização de qualquer tipo de equipamento eléctrico que emita radiações ionizantes e inclua componentes que funcionem com uma diferença de potencial superior a 5 kV;\n\nc) Qualquer outra prática designada pelo Estado-membro.\n\n2. Nos termos do título VII, a presente directiva é também aplicável às actividades laborais não abrangidas pelo nº 1, mas que impliquem a presença de fontes naturais de radiação e conduzam a um aumento notável da explosição dos trabalhadores ou da população em geral, a um nível que não possa ser ignorado do ponto de vista da protecção contra as radiações.\n\n3. Nos termos do título IX, a presente directiva é igualmente aplicável a qualquer intervenção em caso de situação de emergência radiológica ou de exposição prolongada na sequência de uma situação de emergência radiológica ou do exercício de uma prática ou actividade laboral anterior ou antiga.\n\n4. A presente directiva não é aplicável à exposição ao radão presente nas habitações nem ao nível natural de radiação, ou seja, nem aos radionuclidos contidos no corpo humano, nem aos raios cósmicos ao nível do solo, nem à exposição, à superfície devida aos radionuclidos presentes na crosta terrestre não alterada."
+  },
+  "05dd408ab29c1620": {
+   "fragment_id": "TÍTULO III DECLARAÇÃO E AUTORIZAÇÃO DAS PRÁTICAS — Artigo 3º",
+   "type": "divisao",
+   "heading": "TÍTULO III DECLARAÇÃO E AUTORIZAÇÃO DAS PRÁTICAS — Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III DECLARAÇÃO E AUTORIZAÇÃO DAS PRÁTICAS — Artigo 3º\n\nDeclaração\n\n1. Sob reserva do disposto no presente artigo, cada Estado-membro tornará obrigatória a declaração do exercício das práticas referidas no nº 1 do artigo 2º\n\n2. No entanto, não é necessário exigir a declaração no caso de práticas que envolvam:\n\na) Substâncias radioactivas, se as quantidades em causa não ultrapassarem no total os valores de isenção indicados na coluna 2 do quadro A do anexo I, ou se, em circunstâncias excepcionais verificadas num determinado Estado-membro, tiverem sido autorizados valores diferentes pelas autoridades competentes que, no entanto, satisfaçam os critérios gerais definidos no anexo I; ou\n\nb) Substâncias radioactivas cuja concentração de actividade por unidade de massa não ultrapasse os valores de isenção indicados na coluna 3 do quadro A do anexo I, ou se, em circunstâncias excepcionais verificadas num determinado Estado-membro, tiverem sido autorizados valores diferentes pelas autoridades competentes que, no entanto, satisfaçam os critérios gerais básicos definidos no anexo I; ou\n\nc) Aparelhos que contenham substâncias radioactivas em quantidades ou concentrações superiores aos valores indicados nas alíneas a) ou b), desde que:\n\ni) Sejam de um tipo autorizado pelas autoridades competentes do Estado-membro;\n\nii) Se apresentem sob a forma de fontes seladas; e\n\niii) Não produzam, em condições normais de funcionamento, um débito de dose superior a 1 µSv h-1 à distância de 0,1 m de qualquer superfície acessível do aparelho; e\n\niv) Tenham sido fixadas condições específicas de eliminação pelas autoridades competentes; ou\n\nd) Utilização de qualquer aparelho eléctrico que não seja o referido na alínea e) e ao qual se aplique a presente directiva, desde que:\n\ni) Seja de um tipo aprovado pelas autoridades competentes do Estado-membro; e\n\nii) Não produza, em condições normais de funcionamento, um débito de dose superior a 1 µSv h-1 à distância de 0,1 m de qualquer superfície acessível do aparelho; ou\n\ne) Utilização de quaisquer tubos de raios catódicos destinados à visualização de imagens ou de outros aparelhos eléctricos que funcionem a uma diferença de potencial não superior a 30 kv, desde que essa utilização não produza, em condições normais de funcionamento, um débito de dose superior a 1 µSv h-1 à distância de 0,1 m de qualquer superfície acessível do aparelho; ou\n\nf) Material contaminado com substâncias radioactivas resultantes de descargas autorizadas, declarado pelas autoridades competentes como não se encontrando sujeito a qualquer outro controlo."
+  },
+  "1051ff384f56d60f": {
+   "fragment_id": "Artigo 4º — Autorização",
+   "type": "artigo",
+   "heading": "Artigo 4º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Autorização\n\n1. Sob reserva do disposto no presente artigo, cada Estado-membro exigirá uma autorização prévia para as seguintes práticas:\n\na) Exploração e desactivação de qualquer instalação do ciclo de combustível nuclear e exploração e encerramento de minas de urânio;\n\nb) Adição intencional de substâncias radioactivas na produção e no fabrico de produtos médicos e na importação ou exportação de tais produtos;\n\nc) Adição intencional de substâncias radioactivas na produção e no fabrico de bens de consumo e na importação ou exportação de tais produtos;\n\nd) Administração intencional de substâncias radioactivas a pessoas e, na medida em que haja consequências para a protecção dos seres humanos contra as radiações, animais para fins de diagnóstico médico ou veterinário, tratamento ou investigação;\n\ne) Utilização de aparelhos de raios X ou fontes radioactivas para fins de radiografia industrial ou de processamento de produtos ou investigação ou exposição de pessoas, com vista a tratamento médico, e utilização de aceleradores, com excepção dos microscópios electrónicos.\n\n2. Pode ser exigida autorização prévia para práticas que não as enunciadas no nº 1.\n\n3. Os Estados-membros poderão especificar que uma determinada prática não precisa de autorização, quando:\n\na) No caso das práticas referidas no nº 1, alíneas a), c) e e), a prática estiver isenta de declaração; ou\n\nb) No caso em que um risco reduzido de exposição dos seres humanos não exija a análise de casos individuais, a prática for realizada nos termos da legislação nacional."
+  },
+  "25eac3bcee18bf9d": {
+   "fragment_id": "Artigo 5º — Autorização e isenção para efeitos de eliminação, reciclagem ou reutilização",
+   "type": "artigo",
+   "heading": "Artigo 5º — Autorização e isenção para efeitos de eliminação, reciclagem ou reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Autorização e isenção para efeitos de eliminação, reciclagem ou reutilização\n\n1. A eliminação, reciclagem ou reutilização de substâncias radioactivas ou de materiais que contenham substâncias radioactivas resultantes de quaisquer das práticas sujeitas a declaração ou autorização dependem de autorização prévia.\n\n2. No entanto, a eliminação, reciclagem ou reutilização dessas substâncias ou materiais pode ficar isenta das exigências da presente directiva, na medida em que respeite os níveis de isenção estabelecidos pelas autoridades nacionais competentes. Esses níveis de isenção seguirão os critérios de base do anexo I e terão em conta quaisquer outras directrizes técnicas da Comunidade."
+  },
+  "024c2ca0db2f136c": {
+   "fragment_id": "TÍTULO IV JUSTIFICAÇÃO, OPTIMIZAÇÃO E LIMITAÇÃO DAS PRÁTICAS — CAPÍTULO I PRINCÍPIOS GERAIS",
+   "type": "divisao",
+   "heading": "TÍTULO IV JUSTIFICAÇÃO, OPTIMIZAÇÃO E LIMITAÇÃO DAS PRÁTICAS — CAPÍTULO I PRINCÍPIOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV JUSTIFICAÇÃO, OPTIMIZAÇÃO E LIMITAÇÃO DAS PRÁTICAS — CAPÍTULO I PRINCÍPIOS GERAIS"
+  },
+  "d4a759b5e0c89063": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os Estados-membros garantirão que, antes de serem adoptadas ou aprovadas pela primeira vez, todas as novas categorias ou tipos de práticas que provoquem uma exposição a radiações ionizantes sejam justificadas pelos benefícios económicos, sociais ou de outra ordem que representem em comparação com o detrimento que possam causar à saúde.\n\n2. As categorias ou tipos de práticas poderão ser revistos, para efeitos da sua justificação, sempre que forem obtidas novas provas importantes acerca da sua eficácia ou das suas consequências.\n\n3. Além disso, cada Estado-membro garantirá que:\n\na) No contexto da optimização, todas as exposições sejam mantidas a um nível tão baixo quanto razoavelmente possível, tendo em conta factores económicos e sociais;\n\nb) Sem prejuízo do artigo 12º, a soma das doses de todas as práticas em questão não ultrapasse os limites de dose fixados no presente título para os trabalhadores aprendizes, estudantes e membros do público expostos a radiações.\n\n4. O princípio definido na alínea a) do nº 3 aplicar-se-á a todas as exposições a radiações ionizantes resultantes das práticas referidas no nº 1 do artigo 2º O princípio definido na alínea b) do nº 3 não será aplicável a nenhuma das seguintes exposições:\n\na) Exposição de indivíduos para efeitos de diagnóstico ou de tratamento médico;\n\nb) Exposição de indivíduos que, com conhecimento de causa e de livre vontade (sem que isso faça parte da sua ocupação), participem no apoio e no reconforto a pacientes submetidos a um diagnóstico ou tratamento médico;\n\nc) Exposição de voluntários que participem em programas de investigação médica e biomédica.\n\n5. Os Estados-membros não autorizarão a adição intencional de substâncias radioactivas na produção de géneros alimentícios, brinquedos, adornos pessoais e cosméticos, nem a importação ou exportação de produtos nessas condições."
+  },
+  "58c2143aca1a7317": {
+   "fragment_id": "Artigo 7º — Restrições de doses",
+   "type": "artigo",
+   "heading": "Artigo 7º — Restrições de doses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Restrições de doses\n\n1. Sempre que necessário, no contexto da optimização da protecção contra radiações, serão aplicadas restrições de doses.\n\n2. As restrições de doses poderão ser incluídas nas orientações estabelecidas pelos Estados-membros em relação aos procedimentos destinados a serem aplicados às pessoas expostas nos termos do nº 4, alíneas b) e c), do artigo 6º"
+  },
+  "8373bc6670f6d5e2": {
+   "fragment_id": "CAPÍTULO II LIMITAÇÃO DAS DOSES — Artigo 8º",
+   "type": "divisao",
+   "heading": "CAPÍTULO II LIMITAÇÃO DAS DOSES — Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II LIMITAÇÃO DAS DOSES — Artigo 8º\n\nLimites de idade para os trabalhadores expostos\n\nSem prejuízo do disposto no nº 2 do artigo 11º, as pessoas com menos de 18 anos de idade não podem ser afectadas a qualquer trabalho que as coloque na categoria de trabalhadores expostos."
+  },
+  "16c881897fdf0b58": {
+   "fragment_id": "Artigo 9º — Limites de dose para os trabalhadores expostos",
+   "type": "artigo",
+   "heading": "Artigo 9º — Limites de dose para os trabalhadores expostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Limites de dose para os trabalhadores expostos\n\n1. O limite de dose efectiva para os trabalhadores expostos é fixado em 100 mSv por um período de cinco anos consecutivos, na condição de esse valor não ultrapassar uma dose efectiva máxima de 50 mSv em cada ano. Os Estados-membros poderão fixar um valor anual.\n\n2. Sem prejuízo do nº 1:\n\na) O limite de dose equivalente para o cristalino é fixado em 150 mSv por ano;\n\na) O limite de dose equivalente para a pele é fixado em 500 mSv por ano. Este limite aplica-se à dose média numa superfície de 1 cm², independentemente da área exposta;\n\nc) O limite de dose equivalente para os mãos, antebraços, pés e tornozelos é fixado em 500 mSv por ano."
+  },
+  "6b487b33842c702a": {
+   "fragment_id": "Artigo 10º — Protecção especial durante a gravidez e a amamentação",
+   "type": "artigo",
+   "heading": "Artigo 10º — Protecção especial durante a gravidez e a amamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Protecção especial durante a gravidez e a amamentação\n\n1. Desde o momento em que uma mulher grávida informe a empresa, nos termos da legislação e/ou prática nacional, deverá ser concedida ao nascituro uma protecção equivalente à dispensada a qualquer membro do público em geral. A situação da mulher grávida no meio profissional deve ser por conseguinte de molde a que a dose equivalente recebida pela criança em gestação seja reduzida quanto possível e a tornar improvável que tal dose exceda 1 mSv durante o resto do período de gravidez.\n\n2. Logo que informe a empresa do seu estado, a mulher lactante não desempenhará funções que envolvam um risco significativo de contaminação radioactiva do organismo."
+  },
+  "7a9820982dade3b1": {
+   "fragment_id": "Artigo 11º — Limites de dose para aprendizes e estudantes",
+   "type": "artigo",
+   "heading": "Artigo 11º — Limites de dose para aprendizes e estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Limites de dose para aprendizes e estudantes\n\n1. Os limites de dose para os aprendizes de idade igual ou superior a 18 anos e estudantes de idade igual ou superior a 18 anos que, no âmbito dos seus estudos, sejam obrigados a utilizar fontes são iguais aos limites de dose fixados no artigo 9º para os trabalhadores expostos.\n\n2. O limite de dose efectiva para os aprendizes com idades compreendidas entre 16 e 18 anos e estudantes com idades compreendidas entre 16 e 18 anos que, no âmbito dos seus estudos, sejam obrigados a utilizar fontes são iguais a 6 mSv por ano.\n\nSem prejuízo destes limites de dose:\n\na) O limite de dose equivalente para o cristalino é fixado em 50 mSv por ano;\n\nb) O limite de dose equivalente para a pele é fixado em 150 mSv por ano. Este limite aplica-se à dose média numa superfície de 1 cm², independentemente da área exposta;\n\nc) O limite de dose equivalente para as mãos, antebraços, pés e tornozelos é fixado em 150 mSv por ano.\n\n3. Os limites de dose para aprendizes e estudantes que não estejam abrangidos pelo disposto nos nºs 1 e 2 são iguais aos limites de dose fixados no artigo 13º para membros do público."
+  },
+  "dc4ff58093e78359": {
+   "fragment_id": "Artigo 12º — Exposições especialmente autorizadas",
+   "type": "artigo",
+   "heading": "Artigo 12º — Exposições especialmente autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Exposições especialmente autorizadas\n\n1. Em circunstâncias excepcionais, com exclusão das emergências radiológicas apreciadas caso a caso, as autoridades competentes podem, se tal for necessário à realização de determinadas actividades específicas, autorizar que um certo número de trabalhadores identificados se submeta a exposições profissionais individuais superiores aos limites de dose definidos no artigo 9º, desde que essas exposições sejam limitadas no tempo, estejam confinadas a certas áreas de trabalho e não excedam os níveis máximos de exposição estabelecidos para esse caso específico pelas autoridades competentes. Respeitar-se-ão as seguintes condições:\n\na) Só podem ser submetidos a exposições especialmente autorizadas os trabalhadores da categoria A, definida no artigo 21º;\n\nb) Os aprendizes, estudantes e mulheres grávidas e lactantes com risco de contaminação corporal ficam excluídos de tais exposições;\n\nc) A empresa justificará cuidadosa e antecipadamente essas exposições e debatê-las-á em pormenor com os trabalhadores voluntários, os seus representantes, o médico aprovado, os serviços de medicina do trabalho aprovados, ou o perito qualificado;\n\nd) Serão prestadas antecipadamente aos trabalhadores em questão informações sobre os riscos em que incorrem e sobre as precauções a tomar durante as actividades;\n\ne) Todas as doses relacionadas com as exposições devem ser registadas separadamente na ficha médica referida no artigo 34º e no registo individual referido no artigo 28º\n\n2. Se os limites de dose forem excedidos na sequência de exposições especialmente autorizadas, este facto não deverá forçosamente constituir razão para excluir o trabalhador da sua actividade habitual ou atribuir-lhe outra colocação sem a aprovação do mesmo."
+  },
+  "b1e8e90869648380": {
+   "fragment_id": "Artigo 13º — Limites de dose para os membros do público",
+   "type": "artigo",
+   "heading": "Artigo 13º — Limites de dose para os membros do público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Limites de dose para os membros do público\n\n1. Sem prejuízo do disposto no artigo 14º, devem respeitar-se os limites de dose para os membros do público fixados nos nºs 2 e 3.\n\n2. O limite de dose efectiva é fixado em 1 mSv por ano. No entanto, em circunstâncias especiais, pode ser autorizado um valor mais elevado de dose efectiva num mesmo ano, desde que a dose média ao longo de cinco anos consecutivos não exceda 1 mSv por ano.\n\n3. Sem prejuízo do nº 2:\n\na) O limite de dose equivalente para o cristalino é fixado em 15 mSv por ano;\n\nb) O limite de dose equivalente para a pele é fixado em 50 mSv por ano. Este limite aplica-se à dose média numa superfície de 1 cm² de pele, independentemente da superfície exposta."
+  },
+  "584d91125256fbe9": {
+   "fragment_id": "Artigo 14º — Exposição da totalidade da população",
+   "type": "artigo",
+   "heading": "Artigo 14º — Exposição da totalidade da população",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º — Exposição da totalidade da população\n\nOs Estados-membros providenciarão no sentido de que o contributo de cada prática para a exposição da totalidade da população seja mantido a um nível tão baixo quanto for razoavelmente possível, tendo em conta factores económicos e sociais.\n\nA totalidade dessas contribuições será avaliada regularmente."
+  },
+  "a53e69ebec187f85": {
+   "fragment_id": "TÍTULO V CÁLCULO DA DOSE EFECTIVA — Artigo 15º",
+   "type": "divisao",
+   "heading": "TÍTULO V CÁLCULO DA DOSE EFECTIVA — Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V CÁLCULO DA DOSE EFECTIVA — Artigo 15º\n\nNo cálculo das doses equivalente e efectiva, utilizar-se-ão os valores e relações referidos no presente título. As autoridades competentes podem autorizar a utilização de métodos equivalentes."
+  },
+  "d70d35d9fbc8fc1b": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nSem prejuízo do disposto no artigo 15º:\n\na) No que respeita à radiação externa, utilizar-se-ão os valores e relações indicados no anexo II para calcular as doses equivalentes e efectivas pertinentes;\n\nb) No que respeita à exposição interna a um radionuclido ou a uma mistura de radionuclidos, podem utilizar-se os valores e relações indicados nos anexos II e III para calcular as doses efectivas.\n\nTÍTULO VI PRINCÍPIOS FUNDAMENTAIS DE PROTECÇÃO OPERACIONAL DOS TRABALHADORES, APRENDIZES E ESTUDANTES EXPOSTOS, PARA EFEITOS DE PRÁTICAS"
+  },
+  "f723e0012dcaad10": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nA protecção operacional dos trabalhadores expostos assenta em especial nos seguintes princípios:\n\na) Avaliação prévia para identificar a natureza e a dimensão do risco radiológico para os trabalhadores expostos e a aplicação da optimização da protecção contra radiações em todas as condições de trabalho;\n\nb) Classificação dos locais de trabalho em diversas zonas, se necessário, em função de uma avaliação das doses anuais esperadas, bem como da probabilidade e da ordem de grandeza das exposições potenciais;\n\nc) Classificação dos trabalhadores em diferentes categorias;\n\nd) Aplicação de medidas de fiscalização e de monitorização relativas às diferentes áreas e condições de trabalho, incluindo, sempre que necessário, monitorização individual;\n\ne) Controlo médico."
+  },
+  "1859e48a561dd0ba": {
+   "fragment_id": "CAPÍTULO I MEDIDAS DE RESTRIÇÃO DA EXPOSIÇÃO — Secção 1 Classificação e delimitação de áreas",
+   "type": "divisao",
+   "heading": "CAPÍTULO I MEDIDAS DE RESTRIÇÃO DA EXPOSIÇÃO — Secção 1 Classificação e delimitação de áreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I MEDIDAS DE RESTRIÇÃO DA EXPOSIÇÃO — Secção 1 Classificação e delimitação de áreas"
+  },
+  "ff50028116239a11": {
+   "fragment_id": "Artigo 18º — Disposições a tomar nos locais de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 18º — Disposições a tomar nos locais de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º — Disposições a tomar nos locais de trabalho\n\n1. Para efeitos de protecção contra as radiações, serão tomadas medidas adequadas em todos os locais de trabalho onde exista possibilidade de exposição a radiações ionizantes superiores a 1 mSv por ano ou a uma dose equivalente a um décimo das doses máximas previstas respectivamente para o cristalino, a pele e as extremidades dos membros no nº 2 do artigo 9º Essas disposições devem ser adequadas à natureza das instalações e das fontes e à dimensão e natureza dos riscos. A extensão das precauções e da monitorização, bem como a sua natureza e qualidade, devem corresponder aos riscos inerentes aos trabalhos que impliquem exposição a radiações ionizantes.\n\n2. Deve estabelecer-se uma distinção entre áreas controladas e áreas vigiadas.\n\n3. As autoridades competentes devem estabelecer linhas de orientação para a classificação das áreas controladas e vigiadas que sejam adequadas a cada situação específica.\n\n4. A empresa manterá sob vigilância as condições de trabalho nas áreas controladas e vigiadas."
+  },
+  "81cd581ac2e0a012": {
+   "fragment_id": "Artigo 19º — Requisitos aplicáveis às áreas controladas",
+   "type": "artigo",
+   "heading": "Artigo 19º — Requisitos aplicáveis às áreas controladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º — Requisitos aplicáveis às áreas controladas\n\n1. Os requisitos mínimos para as áreas controladas são os seguintes:\n\na) Estas áreas serão delimitadas, ficando o seu acesso reservado aos indivíduos que tenham recebido instruções adequadas; o controlo do acesso efectuar-se-á segundo normas escritas da empresa. Tomar-se-ão medidas específicas sempre que houver um risco significativo de dispersão da contaminação radioactiva, nomeadamente aquando da entrada e saída de pessoas e de mercadorias;\n\nb) Tendo em conta a natureza e a importância dos riscos radiológicos nas áreas controladas, o controlo radiológico do local de trabalho será organizado nos termos do artigo 24º;\n\nc) Será afixada uma sinalização indicativa do tipo de área, da natureza das fontes e dos riscos que lhes são inerentes;\n\nd) Serão elaboradas instruções de trabalho adaptadas ao risco radiológico associado às fontes e às operações envolvidas.\n\n2. Compete à empresa dar cumprimento a estas obrigações, depois de consultar os serviços de medicina do trabalho aprovados ou os peritos qualificados."
+  },
+  "fb25582368524e01": {
+   "fragment_id": "Artigo 20º — Requisitos aplicáveis às áreas vigiadas",
+   "type": "artigo",
+   "heading": "Artigo 20º — Requisitos aplicáveis às áreas vigiadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º — Requisitos aplicáveis às áreas vigiadas\n\n1. São os seguintes os requisitos mínimos para as áreas vigiadas:\n\na) No mínimo, tendo em conta a natureza e a importância dos riscos radiológicos nas áreas vigiadas, deverá ser organizado um controlo radiológico do local de trabalho nos termos do artigo 24º;\n\nb) Se adequado, será afixada sinalização indicativa do tipo de área, da natureza das fontes e dos riscos que lhes são inerentes;\n\nc) Se adequado, serão elaboradas instruções de trabalho adaptadas ao risco radiológico associado às fontes e às operações envolvidas.\n\n2. Compete à empresa dar cumprimento a estas obrigações, depois de consultar os serviços de medicina do trabalho aprovados ou os peritos qualificados."
+  },
+  "07e2e377e01122a2": {
+   "fragment_id": "Secção 2 Classificação dos trabalhadores, aprendizes e estudantes expostos — Artigo 21º",
+   "type": "divisao",
+   "heading": "Secção 2 Classificação dos trabalhadores, aprendizes e estudantes expostos — Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2 Classificação dos trabalhadores, aprendizes e estudantes expostos — Artigo 21º\n\nClassificação dos trabalhadores expostos\n\nPara efeitos de monitorização e controlo, distinguem-se duas categorias de trabalhadores expostos:\n\na) Categoria A: os trabalhadores expostos susceptíveis de receber uma dose efectiva superior a 6 mSv por ano ou uma dose equivalente superior a três décimos dos limites de dose fixados no nº 2 do artigo 9º para o cristalino, a pele e as extremidades dos membros;\n\nb) Categoria B: os trabalhadores expostos não classificados como trabalhadores expostos da categoria A."
+  },
+  "fd0a885b09b20281": {
+   "fragment_id": "Artigo 22º — Informação e formação",
+   "type": "artigo",
+   "heading": "Artigo 22º — Informação e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º — Informação e formação\n\n1. Os Estados-membros exigirão às empresas que informem os trabalhadores, os aprendizes e os estudantes expostos que, no âmbito dos seus estudos, sejam obrigados a utilizar fontes, sobre:\n\na) Os riscos que o trabalho apresenta para a sua saúde;\n\n- as precauções a tomar e os procedimentos gerais de protecção contra radiações a seguir, em especial os que se relacionam com as condições operacionais e de trabalho, no que respeita à prática em geral e a cada tipo de posto de trabalho ou de funções que lhes tenha sido atribuído,\n\n- a importância de que se reveste o cumprimento das prescrições técnicas, médicas e administrativas.\n\nb) No caso das mulheres, a necessidade de declararem rapidamente uma eventual gravidez, tendo em conta os riscos de exposição para o nascituro e o risco de contaminação dos bebés lactentes, em caso de contaminação radioactiva do organismo.\n\n2. Os Estados-membros exigirão às empresas que tomem as disposições necessárias para fornecer aos trabalhadores, aprendizes e estudantes expostos formação adequada no domínio da protecção contra radiações.\n\nSecção 3 Avaliação e aplicação das medidas de protecção radiológica dos trabalhadores expostos"
+  },
+  "d45b33ba7c65b875": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\n1. A empresa será responsável pela avaliação a aplicação das medidas de protecção radiológica dos trabalhadores expostos.\n\n2. Os Estados-membros exigirão às empresas que consultem os peritos qualificados ou os serviços de medicina do trabalho aprovados relativamente ao exame e aos ensaios dos dispositivos de protecção e dos instrumentos de medição, os quais incluirão, em especial:\n\na) Um exame crítico prévio dos projectos de instalações, do ponto de vista da protecção contra radiações;\n\nb) A recepção, antes da entrada em serviço, de fontes novas ou modificadas, do ponto de vista da protecção contra radiações;\n\nc) Uma verificação periódica da eficácia dos dispositivos e técnicas de protecção;\n\nd) Uma calibragem periódica dos instrumentos de medição e a verificação periódica do seu estado de funcionamento e correcta utilização."
+  },
+  "df27fd0d9b112316": {
+   "fragment_id": "CAPÍTULO II AVALIAÇÃO DA EXPOSIÇÃO — Secção 1 Monitorização do local de trabalho",
+   "type": "divisao",
+   "heading": "CAPÍTULO II AVALIAÇÃO DA EXPOSIÇÃO — Secção 1 Monitorização do local de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II AVALIAÇÃO DA EXPOSIÇÃO — Secção 1 Monitorização do local de trabalho"
+  },
+  "0c94cdb6a7d5b4d0": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\n1. O controlo radiológico do local de trabalho referido no nº 1, alínea b), do artigo 19º e no nº 1, alínea a), do artigo 20º incluirá, sempre que necessário:\n\na) A medição dos débitos de dose externos, com indicação da natureza e da qualidade das radiações em causa;\n\nb) A medição da concentração da actividade atmosférica e da densidade superficial das substâncias radioactivas contaminantes, com indicação da sua natureza e respectivos estados físico e químico.\n\n2. Os resultados destas medições serão registados e utilizados, se necessário, para calcular as doses individuais, como previsto no artigo 25º"
+  },
+  "605e3336798b5992": {
+   "fragment_id": "Secção 2 Monitorização individual — Artigo 25º",
+   "type": "divisao",
+   "heading": "Secção 2 Monitorização individual — Artigo 25º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2 Monitorização individual — Artigo 25º\n\nMonitorização - generalidades\n\n1. A monitorização individual deve ser feita sistematicamente para os trabalhadores expostos da categoria A. Esta monitorização basear-se-á em medições individuais, determinadas por um serviço dosimétrico aprovado. Nos casos em que haja trabalhadores da categoria A susceptíveis de receberem uma contaminação interna significativa, deverá criar-se um sistema de monitorização adequado; as autoridades competentes podem fornecer orientações gerais para a identificação desses trabalhadores.\n\n2. A monitorização dos trabalhadores da categoria B deve ser pelo menos suficiente para demonstrar que esses trabalhadores estão correctamente classificados na categoria B. Os Estados-membros podem exigir para os trabalhadores da categoria B uma monitorização individual, e, se necessário, medições individuais, determinadas por um serviço dosimétrico aprovado.\n\n3. No caso de ser impossível e inoportuno proceder a medições individuais, a monitorização individual deverá basear-se numa estimativa calculada a partir de medições individuais efectuadas noutros trabalhadores expostos ou nos resultados do controlo do local de trabalho previsto no artigo 24º"
+  },
+  "8d10a70f5d542fe1": {
+   "fragment_id": "Secção 3 Monitorização em caso de exposição acidental ou de emergência — Artigo 26º",
+   "type": "divisao",
+   "heading": "Secção 3 Monitorização em caso de exposição acidental ou de emergência — Artigo 26º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 3 Monitorização em caso de exposição acidental ou de emergência — Artigo 26º\n\nEm caso de exposição acidental devem-se avaliar as doses relevantes e a sua distribuição no organismo."
+  },
+  "663eea4859d241a8": {
+   "fragment_id": "Artigo 27º",
+   "type": "artigo",
+   "heading": "Artigo 27º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27º\n\nEm caso de exposição de emergência, a monitorização individual ou as avaliações de cada dose serão efectuadas em função das circunstâncias."
+  },
+  "facffe2f5faa6319": {
+   "fragment_id": "Secção 4 Registo e comunicação dos resultados — Artigo 28º",
+   "type": "divisao",
+   "heading": "Secção 4 Registo e comunicação dos resultados — Artigo 28º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 4 Registo e comunicação dos resultados — Artigo 28º\n\n1. Para cada trabalhador exposto da categoria A, será elaborado um registo do qual constarão os resultados da monitorização individual.\n\n2. Para o efeito, os documentos adiante mencionados serão conservados durante todo o período de trabalho que implique exposição a radiações ionizantes e, posteriormente, até o trabalhador exposto completar 75 anos de idade ou até à data em que os teria completado, mas, de qualquer modo, por um período nunca inferior a 30 anos a contar da conclusão do trabalho que implicou exposição:\n\na) Um registo das exposições medidas ou estimadas, conforme o caso, das doses recebidas por cada indivíduo, nos termos dos artigos 12º e 25º, 26º e 27º;\n\nb) No caso das exposições referidas nos artigos 26º e 27º, os relatórios respeitantes às circunstâncias e às medidas tomadas;\n\nc) Os resultados da monitorização do local de trabalho, utilizados para a avaliação das doses recebidas por cada indivíduo, se necessário.\n\n3. As exposições referidas nos artigos 12º, 26º e 27º serão registadas separadamente no registo de doses referido no nº 1."
+  },
+  "bdcd49cf52f8c986": {
+   "fragment_id": "Artigo 29º",
+   "type": "artigo",
+   "heading": "Artigo 29º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29º\n\n1. Os resultados da monitorização individual prevista nos artigos 25º a 27º devem ser:\n\na) Postos à disposição das autoridades competentes e da empresa;\n\nb) Postos à disposição do trabalhador em causa, nos termos do nº 2 do artigo 38º;\n\nc) Submetidos ao médico aprovado ou aos serviços de medicina do trabalho aprovados, a fim de que sejam interpretadas as suas implicações para a saúde humana nos termos do artigo 31º\n\n2. Os Estados-membros definirão as formas de comunicação dos resultados da monitorização individual.\n\n3. Em caso de exposição acidental ou de emergência, os resultados da monitorização individual deverão ser comunicados com a maior brevidade possível."
+  },
+  "c91674c0d7c178a0": {
+   "fragment_id": "CAPÍTULO III CONTROLO MÉDICO DOS TRABALHADORES EXPOSTOS — Artigo 30º",
+   "type": "divisao",
+   "heading": "CAPÍTULO III CONTROLO MÉDICO DOS TRABALHADORES EXPOSTOS — Artigo 30º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III CONTROLO MÉDICO DOS TRABALHADORES EXPOSTOS — Artigo 30º\n\nO controlo médico dos trabalhadores expostos basear-se-á nos princípios que regulam habitualmente a medicina do trabalho."
+  },
+  "d271ebaed1c606db": {
+   "fragment_id": "Secção 1 Controlo médico dos trabalhadores da categoria A — Artigo 31º",
+   "type": "divisao",
+   "heading": "Secção 1 Controlo médico dos trabalhadores da categoria A — Artigo 31º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 1 Controlo médico dos trabalhadores da categoria A — Artigo 31º\n\nControlo médico\n\n1. Não obstante a responsabilidade geral da empresa, o controlo médico dos trabalhadores da categoria A será assegurado por médicos ou por serviços de medicina do trabalho aprovados.\n\nEste controlo médico deverá permitir determinar o estado de saúde dos trabalhadores sob controlo no que se refere à aptidão para o desempenho das suas funções. Para o efeito, o médico ou os serviços de medicina do trabalho aprovados devem ter acesso a todas as informações pertinentes que solicitarem, incluindo as condições ambientais existentes nos locais de trabalho.\n\n2. O controlo médico incluirá:\n\na) Um exame médico antes da admissão ou classificação como trabalhador da categoria A.\n\nEste exame completo tem por fim determinar a aptidão do trabalhador para preencher o lugar da categoria A a que se destina.\n\nb) Controlos de saúde periódicos.\n\nO estado de saúde de cada trabalhador da categoria A deve ser examinado pelo menos uma vez por ano, a fim de determinar se os trabalhadores continuam aptos para o exercício das suas funções. A natureza destes controlos, que podem ser efectuados tantas vezes quantas o médico aprovado considerar necessárias, dependerá do tipo de trabalho e do estado de saúde de cada trabalhador.\n\n3. O médico ou os serviços de medicina do trabalho aprovados podem indicar a necessidade de continuar o controlo médico após a cessação do trabalho, durante o tempo que considerarem necessário para preservar a saúde do interessado."
+  },
+  "ae269b8f2c31d202": {
+   "fragment_id": "Artigo 32º — Classificação médica",
+   "type": "artigo",
+   "heading": "Artigo 32º — Classificação médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32º — Classificação médica\n\nÉ adoptada a seguinte classificação médica no que respeita à aptidão dos trabalhadores da categoria A:\n\na) Apto;\n\nb) Apto sob certas condições;\n\nc) Inapto."
+  },
+  "34f863a3f6188be5": {
+   "fragment_id": "Artigo 33º",
+   "type": "artigo",
+   "heading": "Artigo 33º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33º\n\nNenhum trabalhador pode ser empregado ou classificado, durante qualquer período que seja, num posto específico como trabalhador da categoria A, se as conclusões médicas o declararem inapto para esse posto específico."
+  },
+  "7ef7b08362f550a0": {
+   "fragment_id": "Artigo 34º — Ficha médica",
+   "type": "artigo",
+   "heading": "Artigo 34º — Ficha médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34º — Ficha médica\n\n1. Para cada trabalhador da categoria A será criada uma ficha médica, que se manterá actualizada enquanto o interessado pertencer a essa categoria. Esta ficha será conservada até o trabalhador completar 75 anos de idade ou até à data em que os teria completado, mas por um período nunca inferior a 30 anos a contar da conclusão do trabalho que implicou a exposição a radiações ionizantes.\n\n2. A ficha médica conterá informações sobre a natureza do posto de trabalho, os resultados dos exames médicos anteriores à admissão ou classificação como trabalhador da categoria A e dos controlos de saúde periódicos, e ainda os registos de doses exigidos no artigo 28º"
+  },
+  "c59cd35c0894484c": {
+   "fragment_id": "Secção 2 Controlo especial dos trabalhadores expostos — Artigo 35º",
+   "type": "divisao",
+   "heading": "Secção 2 Controlo especial dos trabalhadores expostos — Artigo 35º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2 Controlo especial dos trabalhadores expostos — Artigo 35º\n\n1. Deve exercer-se um controlo médico especial em todos os casos em que tiver sido excedido um dos limites de dose previstos no artigo 9º\n\n2. As condições ulteriores de exposição serão submetidas à aprovação do médico aprovado ou dos serviços de medicina do trabalho aprovados."
+  },
+  "192f83a6e588e93d": {
+   "fragment_id": "Artigo 36º",
+   "type": "artigo",
+   "heading": "Artigo 36º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36º\n\nO controlo médico dos trabalhadores expostos previsto nos artigos 30º e 31º será completado por quaisquer outras medidas relacionadas com a protecção sanitária das pessoas expostas que o médico ou os serviços de medicina do trabalho aprovados considerem necessárias, tais como exames adicionais, medidas de descontaminação ou terapêutica de urgência."
+  },
+  "5803088b14f455b3": {
+   "fragment_id": "Secção 3 Recurso — Artigo 37º",
+   "type": "divisao",
+   "heading": "Secção 3 Recurso — Artigo 37º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 3 Recurso — Artigo 37º\n\nCada Estado-membro fixará o tipo de recurso contra as conclusões e decisões tomadas por força dos artigos 32º, 33º e 35º\n\nCAPÍTULO IV RESPONSABILIDADES DOS ESTADOS-MEMBROS RELATIVAMENTE À PROTECÇÃO DOS TRABALHADORES EXPOSTOS"
+  },
+  "d9e26712d777f6fb": {
+   "fragment_id": "Artigo 38º",
+   "type": "artigo",
+   "heading": "Artigo 38º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38º\n\n1. Cada Estado-membro estabelecerá um ou mais sistemas de inspecção destinados a assegurar o cumprimento das disposições adoptadas por força da presente directiva e a promover medidas de vigilância e de intervenção sempre que necessário.\n\n2. Cada Estado-membro exigirá que os trabalhadores tenham acesso, se o solicitarem, aos resultados da sua monitorização individual, incluindo os resultados das medições que possam ter sido utilizadas no seu cálculo, ou das avaliações das doses recebidas efectuadas na sequência de medições no local de trabalho.\n\n3. Cada Estado-membro tomará as medidas necessárias para o reconhecimento da competência:\n\n- dos médicos aprovados,\n\n- dos serviços de medicina do trabalho aprovados,\n\n- dos serviços de dosimetria aprovados,\n\n- dos peritos qualificados.\n\nPara o efeito, cada Estado-membro assegurará que sejam tomadas medidas para a formação destes especialistas.\n\n4. Cada Estado-membro exigirá que sejam postos à disposição das unidades responsáveis os meios necessários para uma protecção adequada contra radiações. Para as instalações onde as autoridades competentes o considerem necessário, deverá ser exigida uma unidade especializada na protecção contra radiações, distinta das unidades de produção e exploração, caso se trate de uma unidade interna, e autorizada a executar tarefas de protecção contra radiações e a dar conselhos específicos nesta matéria. Esta unidade poderá ser comum a várias instalações.\n\n5. Cada Estado-membro facilitará o intercâmbio, entre as autoridades competentes, os médicos aprovados, os serviços de medicina do trabalho aprovados, os peritos qualificados ou os serviços de dosimetria aprovados da Comunidade Europeia, de todas as informações pertinentes relativas às doses anteriormente recebidas pelo trabalhador, com vista à realização do exame médico prévio à admissão ou classificação como trabalhador da categoria A, previsto no artigo 31º, e ao controlo de futuras exposições dos trabalhadores."
+  },
+  "3846db743398825e": {
+   "fragment_id": "CAPÍTULO V PROTECÇÃO OPERACIONAL DE APRENDIZES E ESTUDANTES — Artigo 39º",
+   "type": "divisao",
+   "heading": "CAPÍTULO V PROTECÇÃO OPERACIONAL DE APRENDIZES E ESTUDANTES — Artigo 39º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V PROTECÇÃO OPERACIONAL DE APRENDIZES E ESTUDANTES — Artigo 39º\n\n1. As condições de exposição e a protecção operacional dos aprendizes e estudantes com idade igual ou superior a 18 anos referidos no nº 1 do artigo 11º serão equivalentes às dos trabalhadores expostos das categorias A ou B, consoante o caso.\n\n2. As condições de exposição e a protecção operacional dos aprendizes e estudantes com idades compreendidas entre os 16 e os 18 anos referidos no nº 2 do artigo 11º serão equivalentes às dos trabalhadores expostos da categoria B.\n\nTÍTULO VII AUMENTO SIGNIFICATIVO DA EXPOSIÇÃO DEVIDA A FONTES DE RADIAÇÃO NATURAL"
+  },
+  "e26de6791f26684a": {
+   "fragment_id": "Artigo 40º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 40º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40º — Aplicação\n\n1. O presente título é aplicável às actividades laborais não abrangidas pelo nº 1 do artigo 2º da presente directiva, nas quais a presença de fontes de radiação natural conduza a um aumento significativo da exposição dos trabalhadores ou membros do público, a um nível que não possa ser ignorado do ponto de vista da protecção contra radiações.\n\n2. Cada Estado-membro assegurará a identificação, com base em estudos ou por outro meio adequado, das actividades laborais susceptíveis de causar preocupações. Entre estas contam-se, designadamente:\n\na) Actividades laborais em que os trabalhadores, e eventualmente membros do público, sejam expostos aos descendentes do torão ou do radão, a radiação gama ou a qualquer outro tipo de exposição em locais de trabalho como estações termais, grutas, minas, locais de trabalho subterrâneos e locais de trabalho à superfície em áreas identificadas;\n\nb) Actividades laborais que impliquem a utilização ou armazenagem de materiais que não sejam habitualmente considerados radioactivos, mas que contenham radionuclidos de origem natural que provoquem um aumento notável da exposição dos trabalhadores e, eventualmente, de membros do público;\n\nc) Actividades laborais que levem à produção de resíduos que não sejam habitualmente considerados radioactivos, mas que contenham radionuclidos de origem natural que provoquem um aumento significativo da exposição membros do público e, quando aplicável, dos trabalhadores;\n\nd) Tripulação de aviões.\n\n3. Os artigos 41º e 42º são aplicáveis na medida em que os Estados-membros declararem que as exposições a fontes de radiação natural devido a actividades laborais identificadas nos termos do nº 2 do presente artigo devem ser estudadas e sujeitas a controlo."
+  },
+  "bb6ba2788a243acd": {
+   "fragment_id": "Artigo 41º — Protecção contra exposições a fontes terrestres de radiação natural",
+   "type": "artigo",
+   "heading": "Artigo 41º — Protecção contra exposições a fontes terrestres de radiação natural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41º — Protecção contra exposições a fontes terrestres de radiação natural\n\nPara cada actividade laboral declarada e identificada pelos Estados-membros, estes exigirão a criação de um dispositivo apropriado de monitorização das exposições e, se necessário:\n\na) A aplicação de medidas correctivas destinadas a reduzir a exposição nos termos do título IX, em parte ou na sua totalidade;\n\nb) A aplicação de medidas de protecção contra radiações nos termos dos títulos III, IV, V, VI e VIII, em parte ou na sua totalidade."
+  },
+  "c13339ae51a0d222": {
+   "fragment_id": "Artigo 42º — Protecção do pessoal de voo",
+   "type": "artigo",
+   "heading": "Artigo 42º — Protecção do pessoal de voo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42º — Protecção do pessoal de voo\n\n1. Cada Estado-membro tomará as medidas necessárias para que as empresas de aviação tomem em consideração a exposição às radiações cósmicas do pessoal de voo que possa ser sujeito a uma exposição superior a 1 mSv por ano. As empresas devem tomar medidas adequadas, designadamente:\n\n- para avaliar a exposição do pessoal em questão,\n\n- para ter em consideração a exposição avaliada na organização dos horários de trabalho, a fim de reduzir as doses das tripulações muito expostas,\n\n- para informar os trabalhadores em questão sobre os riscos que o seu trabalho comporta para a saúde,\n\n- para aplicar o artigo 10º à tripulação feminina."
+  },
+  "0f00832c05fddb24": {
+   "fragment_id": "TÍTULO VIII PROTECÇÃO DA POPULAÇÃO CONTRA RADIAÇÕES EM CIRCUNSTÂNCIAS NORMAIS — Artigo 43º",
+   "type": "divisao",
+   "heading": "TÍTULO VIII PROTECÇÃO DA POPULAÇÃO CONTRA RADIAÇÕES EM CIRCUNSTÂNCIAS NORMAIS — Artigo 43º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VIII PROTECÇÃO DA POPULAÇÃO CONTRA RADIAÇÕES EM CIRCUNSTÂNCIAS NORMAIS — Artigo 43º\n\nPrincípios básicos\n\nCada Estado-membro criará as condições necessárias para assegurar a melhor protecção possível da população com base nos princípios enunciados no artigo 6º e para aplicar os princípios fundamentais que regulam a protecção operacional da população."
+  },
+  "33e078f96ceab37a": {
+   "fragment_id": "Artigo 44º — Condições para a autorização de práticas que envolvam risco de radiações ionizantes para a população",
+   "type": "artigo",
+   "heading": "Artigo 44º — Condições para a autorização de práticas que envolvam risco de radiações ionizantes para a população",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44º — Condições para a autorização de práticas que envolvam risco de radiações ionizantes para a população\n\nA protecção operacional da população em circunstâncias normais contra práticas sujeitas a autorização prévia consiste no conjunto das medidas e controlos destinados a detectar e eliminar os factores que, no decurso de qualquer operação que envolva uma exposição a radiações ionizantes, sejam susceptíveis de criar um risco de exposição da população que não possa ser ignorado do ponto de vista da protecção contra radiações. Essa protecção incluirá as tarefas seguintes:\n\na) Analisar e aprovar, do ponto de vista da protecção contra radiações, os projectos de instalações que envolvam o risco de exposição, assim como a localização prevista dessas instalações no território em causa;\n\nb) Aprovar a entrada em serviço das novas instalações, na condição de ser garantida uma protecção adequada contra qualquer exposição ou contaminação radioactiva susceptível de exceder o seu perímetro, tendo em conta, se for pertinente, as condições demográficas, meteorológicas, geológicas, hidrológicas e ecológicas;\n\nc) Analisar e aprovar os projectos de descarga de efluentes radioactivos.\n\nEstas tarefas serão executadas de acordo com as regras estabelecidas pelas autoridades competentes com base na extensão do risco de exposição em causa."
+  },
+  "4cdeb08487ebded3": {
+   "fragment_id": "Artigo 45º — Avaliação das doses recebidas pela população",
+   "type": "artigo",
+   "heading": "Artigo 45º — Avaliação das doses recebidas pela população",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45º — Avaliação das doses recebidas pela população\n\nAs autoridades competentes devem:\n\na) Assegurar que sejam feitos cálculos tão realistas quanto possível das doses resultantes das práticas referidas no artigo 44º para membros do público, bem como para grupos de referência da população em todos os locais onde esses grupos possam existir;\n\nb) Fixar a frequência das avaliações e tomar todas as medidas necessárias para a identificação dos grupos de referência da população, tendo em conta as vias de transmissão das substâncias radioactivas;\n\nc) Garantir que, tendo em conta os riscos radiológicos, os cálculos das doses recebidas pela população incluam:\n\n- a avaliação das doses decorrentes da radiação externa, com indicação, segundo o caso, da qualidade das radiações em causa,\n\n- a avaliação da incorporação de radionuclidos, com indicação da natureza dos mesmos e, se necessário, dos seus estados físico e químico, bem como a determinação da actividade e concentrações desses radionuclidos,\n\n- a avaliação das doses que os grupos de referência da população são susceptíveis de receber e a especificação das características desses grupos.\n\nd) Exigir que sejam conservados os documentos relativos à medição da exposição externa, aos cálculos das incorporações de radionuclidos e da contaminação radioactiva, bem como os resultados da avaliação das doses recebidas pelos grupos de referência e pela população."
+  },
+  "1f27f566a68fb622": {
+   "fragment_id": "Artigo 46º — Inspecção",
+   "type": "artigo",
+   "heading": "Artigo 46º — Inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46º — Inspecção\n\nRelativamente à protecção sanitária da população cada Estado-membro criará um sistema de inspecção destinado a assegurar a aplicação das disposições introduzidas nos termos da presente directiva e a iniciar o controlo no domínio da protecção contra radiações."
+  },
+  "d93d33dace1a3d09": {
+   "fragment_id": "Artigo 47º — Responsabilidades das empresas",
+   "type": "artigo",
+   "heading": "Artigo 47º — Responsabilidades das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47º — Responsabilidades das empresas\n\n1. Cada Estado-membro exigirá que a empresa responsável pelas práticas referidas no artigo 2º as leve a efeito de acordo com os princípios gerais de protecção sanitária da população no domínio da protecção contra radiações e, em particular, que realize no interior ds suas instalações as seguintes tarefas:\n\na) Obtenção e manutenção de um nível óptimo de protecção do ambiente e da população;\n\nb) Verificação da eficácia dos dispositivos técnicos para a protecção do ambiente e da população;\n\nc) Aprovação à entrada em serviço, do ponto de vista do controlo da protecção contra radiações, do equipamento e processos de medição, e avaliação, segundo as necessidades, da exposição e da contaminação radioactiva do ambiente e da população;\n\nd) Calibragem regular dos instrumentos de medição e verificação regular do seu bom estado de funcionamento e da sua correcta utilização.\n\n2. Os peritos qualificados e, se necessário, a unidade especializada na protecção contra radiações referida no nº 4 do artigo 38º participarão no desempenho destas tarefas."
+  },
+  "68cb1ee67d3efe7a": {
+   "fragment_id": "TÍTULO IX INTERVENÇÃO — Artigo 48º",
+   "type": "divisao",
+   "heading": "TÍTULO IX INTERVENÇÃO — Artigo 48º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IX INTERVENÇÃO — Artigo 48º\n\nAplicação\n\n1. O presente título é aplicável à intervenção em caso de emergência radiológica ou de exposição prolongada na sequência de uma emergência radiológica ou do exercício de uma prática ou actividade laboral anterior ou antiga.\n\n2. A execução e a envergadura de qualquer intervenção serão decididas de acordo com os seguintes princípios:\n\n- só se procederá à intervenção se a redução dos efeitos nocivos devidos a radiações for suficiente para justificar os inconvenientes e os custos, incluindo os custos sociais, decorrentes da intervenção,\n\n- a forma, a escala e a duração da intervenção serão optimizadas de modo a maximizar o benefício correspondente à redução dos prejuízos para a saúde, deduzidos os inconvenientes associados à intervenção,\n\n- os limites de dose, estabelecidos nos artigos 9º e 13º, não se aplicam em caso de intervenção; todavia, os níveis de intervenção, definidos em aplicação do nº 2 do artigo 50º, têm um valor indicativo para as situações em que se justifica uma intervenção; além disso, nos casos de longa exposição abrangidos pelo artigo 53º, os limites de dose estabelecidos no artigo 9º devem normalmente ser apropriados para os trabalhadores envolvidos nas intervenções."
+  },
+  "0a846f7876090b41": {
+   "fragment_id": "Secção I Intervenção em caso de emergência radiológica — Artigo 49º",
+   "type": "divisao",
+   "heading": "Secção I Intervenção em caso de emergência radiológica — Artigo 49º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I Intervenção em caso de emergência radiológica — Artigo 49º\n\nExposições potenciais\n\nOs Estados-membros devem, quando necessário, exigir que:\n\n- seja prevista a possibilidade de situações de emergência radiológica decorrentes de práticas subordinadas ao sistema de declaração e autorização estabelecido no título III,\n\n- seja avaliada a distribuição espacial e temporal das substâncias radioactivas dispersas em eventuais situações de emergência radiológica,\n\n- sejam avaliadas as exposições potenciais correspondentes."
+  },
+  "f42dc1f6631e0fda": {
+   "fragment_id": "Artigo 50º — Preparação da intervenção",
+   "type": "artigo",
+   "heading": "Artigo 50º — Preparação da intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50º — Preparação da intervenção\n\n1. Cada Estado-membro garantirá que seja tido em conta o facto de poderem surgir situações de emergência radiológica no âmbito de práticas exercidas no interior ou fora do seu território, com repercussões sobre o mesmo.\n\n2. Cada Estado-membro garantirá que, a nível nacional ou local, e inclusivamente dentro das instalações, sejam elaborados planos adequados de intervenção, tendo em conta os princípios gerais de protecção contra radiações relativos às intervenções a que se refere o nº 2 do artigo 48º e os níveis de intervenção adequados fixados pelas autoridades competentes, a fim de fazer face aos diferentes tipos de emergência radiológica, e que, numa escala adequada, esses planos sejam periodicamente ensaiados.\n\n3. Cada Estado-membro garantirá que seja providenciada, quando necessário, a criação e a formação adequada de equipas especiais de intervenção técnica, médica e sanitária.\n\n4. Cada Estado-membro procurará colaborar com os outros Estados-membros ou Estados terceiros relativamente a possíveis emergências radiológicas em instalações situadas no seu próprio território, que possam afectar outros Estados-membros ou Estados terceiros, a fim de facilitar a organização da protecção contra radiações nesses Estados."
+  },
+  "af13eee14c80e626": {
+   "fragment_id": "Artigo 51º — Execução das intervenções",
+   "type": "artigo",
+   "heading": "Artigo 51º — Execução das intervenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51º — Execução das intervenções\n\n1. Cada Estado-membro tomará providências para que a empresa responsável pelas práticas em causa notifique imediatamente as autoridades competentes de todas as emergências radiológicas que ocorram no seu território e exigirá que sejam tomadas as medidas adequadas para limitar as consequências.\n\n2. Cada Estado-membro garantirá que, em caso de emergência radiológica no seu próprio território, a empresa responsável pelas práticas em causa proceda a uma primeira avaliação provisória das circunstâncias e consequências da situação e contribua para as intervenções.\n\n3. Cada Estado-membro garantirá que, se a situação o exigir, sejam tomadas providências para a realização de intervenções relacionadas com:\n\n- a fonte, a fim de reduzir ou deter a emissão de radiações e a dispersão de radionuclidos,\n\n- o ambiente, a fim de reduzir a transferência de substâncias radioactivas para os indivíduos,\n\n- os indivíduos, a fim de reduzir a exposição e organizar o tratamento das vítimas.\n\n4. Em caso de emergência radiológica dentro ou fora do seu território, cada Estado-membro deverá exigir:\n\na) A organização de uma intervenção apropriada, tendo em conta as características reais da situação;\n\nb) A avaliação e o registo das consequências da emergência radiológica e da eficácia da intervenção.\n\n5. Cada Estado-membro deve, em caso de emergência radiológica numa instalação situada no seu território ou susceptível de nele ter consequências radiológicas, estabelecer contactos com vista a uma colaboração com qualquer outro Estado-membro ou Estado terceiro que possa estar envolvido."
+  },
+  "494c4067bc652686": {
+   "fragment_id": "Artigo 52º — Exposição profissional de emergência",
+   "type": "artigo",
+   "heading": "Artigo 52º — Exposição profissional de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52º — Exposição profissional de emergência\n\n1. Cada Estado-membro adoptará medidas para as situações em que os trabalhadores ou o pessoal de intervenção envolvidos em diferentes tipos de intervenção possam estar sujeitos a exposições de emergência que excedam os limites de dose fixados para os trabalhadores expostos. Para este fim, cada Estado-membro fixará níveis de exposição que tenham em conta as necessidades técnicas e os riscos para a saúde; estes níveis constituirão orientações operacionais. A título excepcional, pode admitir-se uma exposição acima destes níveis especiais para salvar vidas humanas, mas unicamente em voluntários que estejam informados dos riscos que a sua intervenção comporta.\n\n2. Cada Estado-membro exigirá que se proceda à monitorização radiológica e ao controlo médico das equipas especiais de intervenção de emergência."
+  },
+  "d6450152df79fae7": {
+   "fragment_id": "Secção II Intervenção em caso de exposição prolongada — Artigo 53º",
+   "type": "divisao",
+   "heading": "Secção II Intervenção em caso de exposição prolongada — Artigo 53º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II Intervenção em caso de exposição prolongada — Artigo 53º\n\nSempre que identifiquem uma situação conducente a uma exposição prolongada na sequência de uma emergência radiológica ou do exercício de uma prática anterior, os Estados-membros garantirão, se necessário e atendendo à importância do risco de exposição em causa:\n\na) A delimitação da área afectada;\n\nb) A criação de um dispositivo de monitorização da exposição;\n\nc) A execução das intervenções adequadas, tendo em conta as caraterísticas reais da situação;\n\nd) A regulamentação do acesso ou da utilização dos terrenos ou edifícios situados na área delimitada."
+  },
+  "2961f338fb9cf5c6": {
+   "fragment_id": "TÍTULO X DISPOSIÇÕES FINAIS — Artigo 54º",
+   "type": "divisao",
+   "heading": "TÍTULO X DISPOSIÇÕES FINAIS — Artigo 54º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO X DISPOSIÇÕES FINAIS — Artigo 54º\n\n1. A presente directiva estabelece as normas de segurança de base para a protecção sanitária da população e dos trabalhadores contra os perigos decorrentes de radiações ionizantes, com o objectivo de serem uniformemente aplicadas pelos Estados-membros. No caso de um Estado-membro adoptar limites de dose mais rigorosos do que os estabelecidos na presente directiva, informará desse facto a Comissão e os outros Estados-membros."
+  },
+  "e32da9e3452e6d77": {
+   "fragment_id": "Artigo 55º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 55º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55º — Transposição\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 13 de Maio de 2000. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "d7b4b38a4b98eeb5": {
+   "fragment_id": "Artigo 56º — Revogações",
+   "type": "artigo",
+   "heading": "Artigo 56º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56º — Revogações\n\nSão revogadas as Directivas de 2 de Fevereiro de 1959, a Directiva de 5 de Março de 1962, a Directiva 66/45/Euratom, a Directiva 76/579/Euratom, a Directiva 79/343/Euratom, a Directiva 80/836/Euratom e a Directiva 84/467/Euratom, com efeitos a partir da 13 de Maio de 2000."
+  },
+  "a44df8efee8fe3d7": {
+   "fragment_id": "Artigo 57º",
+   "type": "artigo",
+   "heading": "Artigo 57º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 13 de Maio de 1996.\n\nPelo Conselho\n\nO Presidente\n\nS. AGNELLI\n\n(1) JO nº C 128 de 9. 5. 1994, p. 209.\n\n(2) JO nº C 108 de 19. 4. 1993, p. 48.\n\n(3) JO nº 11 de 20. 2. 1959, p. 221/59.\n\n(4) JO nº 57 de 6. 7. 1962, p. 1633/62.\n\n(5) JO nº 216 de 26. 11. 1966, p. 3693/66.\n\n(6) JO nº L 187 de 12. 7. 1976, p. 1.\n\n(7) JO nº L 83 de 3. 4. 1979, p. 18.\n\n(8) JO nº L 246 de 17. 9. 1980, p. 1.\n\n(9) JO nº L 265 de 5. 10. 1984, p. 4.\n\n(10) JO nº L 265 de 5. 10. 1984, p. 1.\n\n(11) JO nº L 371 de 30. 12. 1987, p. 76.\n\n(12) JO nº L 371 de 30. 12. 1987, p. 11. Regulamento alterado pelo Regulamento (Euratom) nº 2218/89 (JO nº L 211 de 22. 7. 1989, p. 19).\n\n(13) JO nº L 357 de 7. 12. 1989, p. 31.\n\n(14) JO nº L 349 de 13. 12. 1990, p. 21. Directiva alterada pelo Acto de Adesão de 1994.\n\n(15) JO nº L 35 de 12. 2. 1992, p. 24.\n\n(16) JO nº L 148 de 19. 6. 1993, p. 1."
+  },
+  "adaa69daf31e1505": {
+   "fragment_id": "ANEXO I — CRITÉRIOS A UTILIZAR NA APLICAÇÃO DO ARTIGO 3º",
+   "type": "divisao",
+   "heading": "ANEXO I — CRITÉRIOS A UTILIZAR NA APLICAÇÃO DO ARTIGO 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CRITÉRIOS A UTILIZAR NA APLICAÇÃO DO ARTIGO 3º\n\n1. Nos termos do nº 2, alínea a) ou b), do artigo 3º, respectivamente, o exercício de uma determinada prática poderá ser isento da exigência de declaração sem mais formalidades se a quantidade ou a concentração, conforme os casos, dos radionuclidos relevantes não ultrapassar os valores indicados nas colunas 2 ou 3 do quadro A.\n\n2. Os critérios de base para o cálculo dos valores indicados no quadro A para a aplicação das isenções nas práticas são:\n\na) Que o perigo de radiações que para os indivíduos resulte do exercício de práticas isentas seja suficientemente baixo para que não se justifiquem preocupações de regulamentação, e\n\nb) Que o impacto radiológico colectivo do exercício de práticas isentas seja suficientemente baixo para que não se justifiquem preocupações de regulamentação nas condições existentes, e\n\nc) Que as práticas isentas sejam, inerentemente desprovidas de importância radiológica, sem grandes probabilidades de situações que possam conduzir à impossibilidade de cumprir os critérios que constam das alíneas a) e b).\n\n3. Excepcionalmente, e nos termos do artigo 3º, cada Estado-membro poderá decidir que uma prática possa ficar isenta sem mais avaliação segundo os critérios de base, e mesmo que os radionuclidos relevantes não correspondam aos valores referidos na quadro A, desde que obedeça em todas as possíveis situações aos seguintes critérios:\n\na) A dose efectiva a que qualquer elemento da população possa ser submetido devido ao exercício da prática isenta seja da ordem dos 10 µSv por ano ou inferior; e\n\nb) Que, quer a dose efectiva colectiva que resulta da aplicação da prática por um ano seja inferior a cerca de 1 homem x Sv., quer a avaliação da optimização da protecção demonstre que a isenção é a opção óptima.\n\n4. No que respeita aos radionuclidos não constantes do quadro A, a autoridade competente estabelecerá valores apropriados para as quantidades e as concentrações de actividade por unidade de massa, sempre que tal se revele necessário. Os valores assim estabelecidos serão complementares aos do quadro A.\n\n5. Os valores constantes do quadro A aplicam-se à totalidade das substâncias radioactivas detidas por uma pessoa ou por uma empresa em qualquer momento.\n\n6. Os nuclidos a que, no quadro A, se sigam os símbolos «+» ou «sec» representam nuclidos de origem em equilíbrio com os respectivos nuclidos descendentes constantes do quadro B. Em tais casos, os valores indicados no quadro A referem-se unicamente ao nuclido de origem mas têm já em conta o ou os nuclidos descendentes presentes.\n\n7. Em quaisquer outros casos de misturas de mais de um nuclido, o regime de notificação pode não ser aplicado, se não for superior a 1 o somatório dos quocientes entre a quantidade total presente de cada nuclido e o respectivo valor constante do quadro A. Esta regra aplica-se igualmente a concentrações de actividade nas quais os vários nuclidos em questão estejem contidos na mesma matriz.\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "828faad8932eec2c": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nA. Definições dos termos utilizados no presente anexo:\n\nEquivalente de dose ambiental H* (d): equivalente de dose num ponto de um campo de radiação que seria produzido pelo campo expandido e alinhado correspondente na esfera ICRU a uma profundidade d no raio oposto ao sentido do campo alinhado. A designação específica da unidade de equivalente de dose ambiental é o sievert (Sv).\n\nEquivalente de dose direccional H' (d, Z): equivalente de dose num ponto de um campo de radiação que seria produzido pelo campo expandido correspondente na esfera ICRU a uma profundidade d num raio numa direcção específica Z. A designação específica da unidade de equivalente de dose direccional é o sievert (Sv).\n\nCampo expandido e alinhado: um campo de radiação cuja fluência e respectivas distribuições direccional e energética são iguais às do campo expandido, mas de fluência unidireccional.\n\nCampo expandido: um campo derivado do campo real cuja fluência e respectivas distribuições direccional e energética têm os mesmos valores através do volume considerado que no campo real no ponto de referência.\n\nFluência Ö: o quociente de dN por da, em que dN é o número de partículas que penetra uma esfera de secção da:\n\nÖ = >NUM>dN\n\n>DEN>da\n\nFactor de qualidade médio (>INÍCIO DE GRÁFICO>\n\n>FIM DE GRÁFICO>\n\n): valor médio do factor de qualidade num ponto do tecido quando a dose absorvida é libertada por partículas com diferentes valores de L. É calculado segundo a fórmula:\n\n>INÍCIO DE GRÁFICO>\n\n>FIM DE GRÁFICO>\n\n= >NUM>1/\n\n>DEN\"INÍCIO DE GRÁFICO>\n\n>FIM DE GRÁFICO>\n\n0&int;&infin; Q(L)D(L)dL\n\nem que D(L)dL é a dose absorvida a 10 mm entre a transferência de energia linear L e L + dL; e Q(L) é o factor de qualidade de L no ponto considerado. As relações Q-L são dadas no ponto C.\n\nEquivalente de dose individual Hp (d): o equivalente de dose em tecidos moles, a uma profundidade adequada d, abaixo de um ponto específico do corpo. A designação específica da unidade de equivalente de dose individual é o sievert (Sv).\n\nFactor de qualidade (Q): função da transferência linear de energia (L) utilizada para ponderar as doses absorvidas num ponto, de forma a ter em conta a qualidade de uma radiação.\n\nFactor de ponderação de radiação (wR): factor adimensional que é utilizado para ponderar a dose absorvida num tecido ou órgão. Os valores adequados de wR estão especificados no ponto B.\n\nDose absorvida num tecido ou órgão (DT): o quociente da energia total cedida a um tecido ou órgão e a massa desse tecido ou órgão.\n\nFactor de ponderação tecidular (wT): factor adimensional utilizado para ponderar a dose equivalente num tecido ou órgão (T). Os valores adequados de wT estão especificados no ponto D.\n\nTransferência linear de energia não restrita (L &infin;): quantidade definida pela fórmula\n\nL &infin; = >NUM>dE\n\n>DEN>dl\n\nsendo dE a energia média perdida por uma partícula de energia E ao percorrer a distância dl em água. Na presente directiva, L &infin; é indicado por L.\n\nEsfera ICRU: corpo criado pela Comissão internacional das unidades e medidas de radiação (ICRU) para representar o corpo humano no que diz respeito à absorção de energia das radiações ionizantes e que consiste numa esfera de um material equivalente a tecido, com 30 cm de diâmetro, uma densidade de 1 g cm-3 e uma massa composta por 76,2 % de oxigénio, 11,1 % de carbono, 10,1 % de hidrogénio e 2,6 % de azoto.\n\nB. Valores do factor de ponderação da radiação, wR\n\nOs valores do factor de ponderação da radiação, wR dependem do tipo e da qualidade do campo de radiação externa ou do tipo e qualidade da radiação emitida por um radionuclido introduzido no organismo.\n\nQuando o campo de radiação é constituído por tipos e energias com valores de wR diferentes, a dose absorvida deve ser subdividida em blocos, cada um com o seu valor de wR e adicionados a fim de se obter o valor total da dose equivalente. Em alternativa, pode ser expressa como uma distribuição contínua de energia, em que cada elemento de dose absorvida a partir do elemento de energia entre E e E + dE é multiplicado pelo valor do wR da linha correspondente do quadro que se segue.\n\n>POSIÇÃO NUMA TABELA>\n\nEm cálculos que envolvam neutrões, podem surgir dificuldades com a aplicação de valores de função degrau. Nestes casos, será talvez preferível utilizar a função contínua definida pela seguinte relação matemática:\n\nwR = 5 + 17e-(ln(2E))2/6\n\nem que E é a energia dos neutrões em MeV.\n\nA figura 1 fornece uma comparação directa dos dois métodos.\n\n>REFERÊNCIA A UM GRÁFICO>\n\nFigura 1\n\nFactores de ponderação da radiação para os neutrões. A curva deve ser entendida como uma aproximação\n\nNo que respeita a tipos e energia de radiação não incluídos no quadro, é possível obter uma aproximação do factor de qualidade médio pelo cálculo de Q a uma profundidade de 10 mm numa esfera ICRU.\n\nC. Relação entre o factor de qualidade, Q(L), e a transferência linear de energia não restrita, L\n\n>POSIÇÃO NUMA TABELA>\n\nD. Valores do factor de ponderação tecidular, wT (1*)\n\nOs valores do factor de ponderação tecidular, wT, são\n\n>POSIÇÃO NUMA TABELA>\n\nE. Quantidades operacionais para radiação externa\n\nAs quantidades operacionais para radiação externa são usadas para a monitorização individual para fins de protecção contra as radiações:\n\n1. Monitorização individual:\n\nEquivalente de dose individual Hp(d),\n\nd: profundidade em milímetros no corpo.\n\n2. Monitorização de área:\n\nequivalente de dose ambiental H* (d),\n\nequivalente de dose direccional H' (d, Z),\n\nd: profundidade em milímetros abaixo da superfície da esfera dada no ponto A\n\nZ: ângulo de incidência.\n\n3. Para uma radiação fortemente penetrante uma profundidade de 10 mm, para uma radiação fracamente penetrante, é recomendável a profundidade de 0,07 mm para a pele e 3 mm para o olho.\n\n(1*) Os valores foram obtidos a partir de uma população de referência constituída por igual número de indivíduos de ambos os sexos e de um vasto leque etário. Na definição de dose efectiva, são aplicáveis aos trabalhadores, a membros do público e a ambos os sexos."
+  },
+  "7d59394491dce9a5": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nA. Na presente directiva, a menos que devidamente especificado, os requisitos em matéria de doses referem-se à soma das doses relevantes provenientes de exposição externa para um período especificado e das doses equivalentes resultantes para um período de 50 anos (70 anos para crianças) provenientes de incorporações durante o mesmo período. O período especificado é o que é fixado nos artigos 9º e 13º em relação aos limites de dose.\n\nEm geral, a dose efectiva E recebida por um indivíduo no grupo etário g será determinada de acordo com a seguinte fórmula:\n\nE = Eexterna + jÓ h(g)j,ing Jj,ing + jÓ h(g)j,inh Jj,inh\n\nOnde Eexterna é a dose efectiva relevante a partir da exposição externa; h(g)j,ing e h(g)j,inh são as doses efectivas comprometidas por unidade-incorporação para radionuclidos ingeridos ou inalados j (Sv(Bq) por um indivíduo pertencente ao grupo etário g; Jj,ing e Jj,inh respectivamente são as incorporações relevantes por ingestão ou inalação do radionuclido j (Bq).\n\nB. Com excepção da descendência do radão e do torão, os valores da dose efectiva comprometida por unidade de incorporação, para a ingestão e para a inalação, são dados para membros do público e para os aprendizes e estudantes na faixa etária entre os 16 e os 18 anos de idade nos quadros A e B do presente anexo.\n\nCom excepção da descendência do radão e do torão, os valores da dose efectiva comprometida por unidade de incorporação, para a ingestão e para a inalação, são dados para os trabalhadores expostos e aprendizes e estudantes com idade igual ou superior a 18 anos no quadro C do presente anexo.\n\nRelativamente à exposição de membros do público, o quadro a) relativo à ingestão inclui valores correspondentes aos diferentes factores de transferência intestinal f1, para crianças e indivíduos idosos. Também relativamente à exposição de membros do público, o quadro b), relativo à inalação, inclui valores para diversos tipos de retenção pulmonar com valores f1 adequados para a componente de absorção que transitou para o tracto gastro-intestinal. Se existirem dados sobre estes parâmetros, será utilizado o valor adequado; se não, será utilizado o valor mais restritivo. Para exposições ocorridas no trabalho, o quadro C inclui valores para a ingestão correspondentes aos diferentes factores de transferência intestinal f1 e valores para a inalação para os diferentes tipos de retenção pulmonar com os valores f1 adequados para a componente de absorção transferida para o tracto gastro-intestinal.\n\nO quadro D apresenta os factores de transferência intestinal f1 por elemento e por compostos relativamente aos trabalhadores e a membros do público, para a incorporação por ingestão. O quadro A apresenta os factores de transferência intestinal f1, também por elemento e composto e também para a exposição de trabalhadores, aprendizes e estudantes com idade igual ou superior a 18 anos, para a incorporação por inalação.\n\nRelativamente a membros do público, os tipos de absorção pulmonar e os factores de transferência intestinal f1 terão em consideração a forma química do elemento com base em directrizes internacionais disponíveis. De um modo geral, se não existir qualquer informação sobre estes parâmetros, será usado a valor mais restritivo.\n\nC. Para a descendência do radão e do torão, são usados os seguintes factores de conversão convencionais, dose efectiva por unidade de exposição a energia alfa potencial (Sv per J.h.m-3):\n\nRadão em casa:1,1\n\nRadão no local de trabalho: 1,4\n\nRadão 222 no local de trabalho: 0,5\n\nEnergia alfa potencial (da descendência de radão e do torão): a energia alfa total final emitida durante a desintegração da descendência do radão e do torão ao longo da cadeia de desintegração até, mas excluindo, 210Pb para a descendência do 222Rn e ao 208Pb para a descendência do 220Rn. A unidade é o J (Joule). Para a exposição a uma dada concentração por um determinado período a unidade é J.h.m-3.\n\nD. Quadros: (*)\n\na) Coeficientes de dose por ingestão para membros do público;\n\nb) Coeficientes de dose por inalação para membros do público;\n\nc) Coeficientes de dose por ingestão e inalação para os trabalhadores;\n\nd) Valores de f1 para o cálculo dos coeficientes de dose por ingestão;\n\ne) Tipos de absorção pulmonar e valores de f1 para as formas químicas dos elementos para cálculo dos coeficientes de dose por inalação.\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  }
+ }
+}

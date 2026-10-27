@@ -1,0 +1,616 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31987L0217:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01987L0217-20180704",
+ "dre_path": null,
+ "source_lastmod": "2018-07-04",
+ "versions": [
+  {
+   "date": "1987-03-28",
+   "future": false,
+   "celex": "31987L0217",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3044df7a7860f2d6",
+    "628ed67fe9c25f70",
+    "2294b403d00e6126",
+    "104cb5e08bb2f418",
+    "7035bbe07494fe0f",
+    "1081d879d00524ed",
+    "45b1ecffff19fa55",
+    "99fc309cf6f84bcb",
+    "bda1b22327e0b491",
+    "15ebb038480ba9ae",
+    "b43a4082c7dd2554",
+    "0e38ca13ec07c3e5",
+    "6c94a0310f9b4060",
+    "b7856c82cefceb4a",
+    "ea882357b13eaafc",
+    "2de0f695faad3fe8",
+    "1a3aff0a68b6b2f6"
+   ]
+  },
+  {
+   "date": "2003-06-05",
+   "future": false,
+   "celex": "01987L0217-20030605",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO — MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE",
+    "Adita Artigo 1o",
+    "Adita Artigo 2o",
+    "Adita Artigo 3o",
+    "Adita Artigo 4o",
+    "Adita Artigo 5o",
+    "Adita Artigo 6o",
+    "Adita Artigo 7o",
+    "Adita Artigo 8o",
+    "Adita Artigo 9o",
+    "Adita Artigo 10o",
+    "Adita Artigo 11o",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+    "Adita Artigo 14o",
+    "Adita Artigo 15o",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º"
+   ],
+   "fragments": [
+    "6f827f5f46938748",
+    "edb21d62d76c6267",
+    "39e592fbc1a01c81",
+    "298160934a8b4bbb",
+    "b054985f3d408ef1",
+    "78175a84ca07deee",
+    "5ca0d3551713d660",
+    "1b011e952371bb58",
+    "2905b635b0762393",
+    "6b995859f59c59cf",
+    "674e50da9f99eb11",
+    "9086c799480a22d1",
+    "00be88419a6ca779",
+    "374380abe8a67c90",
+    "42b34453444db4d1",
+    "94c7dbeb4a12d073",
+    "8313fb9bd27040d6"
+   ]
+  },
+  {
+   "date": "2018-07-04",
+   "future": false,
+   "celex": "01987L0217-20180704",
+   "acts": [
+    {
+     "id": "eu:celex:31991L0692:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31991L0692"
+    },
+    {
+     "id": "eu:celex:32003R0807:por",
+     "title": "REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0807"
+    },
+    {
+     "id": "eu:celex:32018D0853:por",
+     "title": "DECISÃO (UE) 2018/853 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018",
+     "published": null,
+     "celex": "32018D0853"
+    },
+    {
+     "id": null,
+     "title": "ACTO (94/C 241/08)",
+     "published": null,
+     "celex": "11994N"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 12.º",
+    "Adita Artigo 1º",
+    "Adita Artigo 2º",
+    "Adita Artigo 3º",
+    "Adita Artigo 4º",
+    "Adita Artigo 5º",
+    "Adita Artigo 6º",
+    "Adita Artigo 7º",
+    "Adita Artigo 8º",
+    "Adita Artigo 9º",
+    "Adita Artigo 10º",
+    "Adita Artigo 11º",
+    "Adita Artigo 13º",
+    "Adita Artigo 14º",
+    "Adita Artigo 15º",
+    "Adita ANEXO",
+    "Adita MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE",
+    "Adita A. DESCARGA DE EFLUENTES AQUOSOS",
+    "Adita B. ESPEClFlCAÇÕES A RESPEITAR NA ESCOLHA DO MÉTODO DE MEDIÇÃO DAS EMISSÕES PARA A ATMOSFERA",
+    "Adita I. Metodo gravimétrico",
+    "Adita II. Método de contagem das fibras",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 13o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime ANEXO — MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE"
+   ],
+   "fragments": [
+    "12f5c835cca40dfa",
+    "628ed67fe9c25f70",
+    "bb63229b88bd09c9",
+    "104cb5e08bb2f418",
+    "567d2d59056afe15",
+    "7affedaaf7e9e065",
+    "45b1ecffff19fa55",
+    "0f0cdc8e60bbd330",
+    "d9ec18201768fd58",
+    "43e6c7d15035ee9b",
+    "64341adee77d5395",
+    "acd8d8e3eac8c28f",
+    "47f35e548408e875",
+    "2f5383f999e6e677",
+    "ea882357b13eaafc",
+    "66b9e6f6311ec3b9",
+    "10220b9774fa9034",
+    "2d0e83fa25af9440",
+    "ba19dca01c1731d2",
+    "33b3fefa1de506aa",
+    "d7181a95b1cfd1c1",
+    "4ac21880f150f0d8",
+    "5323a70a1e223320"
+   ]
+  }
+ ],
+ "fragments": {
+  "3044df7a7860f2d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 87/217/CEE do Conselho de 19 de Março de 1987 relativa à prevenção e à redução da poluição do ambiente provocada pelo amianto** *Jornal Oficial nº L 085 de 28/03/1987 p. 0040 - 0045 Edição especial finlandesa: Capítulo 15 Fascículo 7 p. 0211 Edição especial sueca: Capítulo 15 Fascículo 7 p. 0211*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 19 de Março de 1987\n\nrelativa à prevenção e à redução da poluição do ambiente provocada pelo amianto\n\n(87/217/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100º e 235º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que os sucessivos programas de acção das Comunidades Europeias em matéria de ambiente (4) colocam em evidência a importância da prevenção e da redução da poluição do ambiente; que, nesse contexto, o amianto tem sido classificado entre os poluentes de primeira categoria que convém analisar devido à toxicidade e dada a sua importância sob o ponto de vista dos efeitos potencialmente graves sobre a saúde humana e o ambiente;\n\nConsiderando que a Directiva 83/478/CEE (5) inseriu na Directiva 76/769/CEE (6), com a última redacção que lhe foi dada pela Directiva 85/467/CEE (7), disposições que limitam a colocação no mercado e a utilização de crocidolite (amianto azul) e dos produtos que contêm fibras de crocidolite e que a referida directiva estabelece disposições especiais relativas à rotulagem dos produtos que contêm amianto;\n\nConsiderando que a Directiva 83/477/CEE (8) estabeleceu disposições relativas à protecção dos trabalhadores contra os riscos relacionados com a exposição ao amianto durante o trabalho;\n\nConsiderando que a Directiva 84/360/CEE (9) estabeleceu disposições relativas à luta contra a poluição atmosférica provocada por instalações industriais;\n\nConsiderando que os Estados-membros devem tomar as medidas necessárias para garantir que as emissões de amianto para a atmosfera, as descargas de amianto no meio aquático e os resíduos sólidos de amianto sejam, tanto quanto possível, reduzidos na origem e evitados;\n\nConsiderando que a aplicação de tais medidas às instalações existentes requer um período de tempo suficiente;\n\nConsiderando que os Estados-membros devem ter a possibilidade de, na observância das disposições do Tratado, apresentar disposições mais estritas a fim de proteger a saúde e o ambiente;\n\nConsiderando que as disparidades entre as disposições em vigor ou em curso de alteração nos diferentes Estados-membros no que diz respeito à luta contra a poluição proveniente de instalações industriais podem criar condições de concorrência desiguais e ter, por esse motivo, uma incidência directa no funcionamento do mercado comum; que convém, portanto, proceder neste domínio a uma aproximação das legislações ao abrigo do artigo 100º do Tratado;\n\nConsiderando que a redução da poluição provocada pelo amianto constitui uma acção que tem em vista realizar um dos objectivos da Comunidade no domínio da protecção e da melhoria do ambiente; que, no entanto, os poderes específicos exigidos nesta matéria não foram expressamente previstos pelo Tratado; que, por conseguinte, convém recorrer também ao artigo 235º,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "628ed67fe9c25f70": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva tem por objecto estabelecer medidas e completar disposições já em vigor, tendo em vista reduzir e evitar a poluição pelo amianto e proteger assim a saúde humana e o ambiente.\n\n2. A presente directiva aplica-se sem prejuízo do disposto na Directiva 83/447/CEE."
+  },
+  "2294b403d00e6126": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva entende-se por:\n\n1. Amianto: os seguintes silicatos fibrosos:\n\n- crocodólito (amianto azul),\n\n- actinólito,\n\n- antofilita,\n\n- crisólita (amianto branco),\n\n- amósita (amianto castanho),\n\n- tremólita.\n\n2. Amianto bruto:\n\nO produto obtido a partir da transformação primária do minério de amianto.\n\n3. Utilização do amianto:\n\nAs actividades que envolvem o manuseamento de uma quantidade superior a 100 kg de amianto bruto por ano e referentes:\n\na) À produção de amianto bruto a partir do minério de amianto, com exclusão de qualquer processo directamente associado à extracção do minério, e/ou\n\nb) Ao fabrico e acabamento industrial dos seguintes produtos à base de amianto bruto: fibrocimento ou produtos de fibrocimento, produtos de fricção à base de amianto, filtros de amianto, têxteis à base de amianto, papel e cartão à base de amianto, materiais à base de amianto para juntas, embalagens e reforços, revestimentos à base de amianto para pavimentos e produtos de enchimento à base de amianto.\n\n4. Manuseamento de produtos que contêm amianto:\n\nOutras actividades para além da utilização do amianto, susceptíveis de contaminarem o ambiente com poeiras que contenham amianto.\n\n5. Resíduos:\n\nQualquer substância ou objecto abrangido pela definição do artigo 1º da Directiva 75/442/CEE (1)."
+  },
+  "104cb5e08bb2f418": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros comprometem-se a tomar as medidas necessárias para garantir que as emissões de amianto para a atmosfera, as descargas de amianto no meio aquático e os resíduos de amianto sejam, tanto quanto razoavelmente praticável, reduzidos na origem e evitados. No caso da utilização do amianto, essas medidas devem implicar o uso da mais avançada tecnologia disponível que não origine custos excessivos, incluindo, quando adequado, a reciclagem ou o tratamento.\n\n2. No caso das instalações existentes, aplica-se a disposição do nº 1 que impõe a utilização da mais avançada tecnologia disponível que não origine custos excessivos para reduzir e eliminar as emissões de amianto para a atmosfera, tendo em conta os elementos fixados no artigo 13º da Directiva 84/360/CEE."
+  },
+  "7035bbe07494fe0f": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Sem prejuízo do artigo 3º, os Estados-membros tomarão as medidas necessárias para assegurar que a concentração de amianto expelido para a atmosfera durante a utilização do amianto não exceda o valor limite de 0,1 mg/m3 (miligramas de amianto por m3 de ar expelido).\n\n2. Os Estados-membros podem isentar da obrigação referida no nº 1 as instalações cujo total de emissões gasosas é inferior a 5 000 m3/hora quando a descarga de amianto no ar não for superior a 0,5 g por hora, em qualquer momento e em condições normais de operacionalidade.\n\nQuando se recorra a esta isenção, as autoridades competentes dos Estados-membros definirão as medidas adequadas tendo em vista assegurar que não sejam excedidos os limiares referidos no primeiro parágrafo."
+  },
+  "1081d879d00524ed": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros tomarão as medidas necessárias para garantir que:\n\na) Todos os efluentes aquosos provenientes do fabrico de fibrocimento sejam reciclados. Quando essa reciclagem não for economicamente viável, os Estados-membros tomarão as medidas necessárias para assegurar que a eliminação de resíduos de líquidos que contenham amianto se não transforme em poluição do ambiente aquático nem de outros sectores, incluindo a atmosfera.\n\nCom este fim:\n\n- é aplicável o valor limite de 30 g do total da matéria em suspensão por m3 de efluente aquoso,\n\n- as autoridades competentes dos Estados-membros devem fixar, para cada instalação em causa, o volume de descargas na água ou a quantidade total de matéria em suspensão expelida por tonelada de produto, tendo em consideração a situação específica da instalação em causa.\n\nEsses valores limite serão medidos no local onde as águas residuais deixam a instalação industrial.\n\nb) Todos os efluentes aquosos provenientes do fabrico de papel ou cartão de amianto sejam reciclados.\n\nDurante o período de limpeza ou manutenção de rotina das instalações podem, contudo, ser autorizadas descargas de efluentes aquosos que não contenham mais de 30 g de matéria em suspensão por m3 de água."
+  },
+  "45b1ecffff19fa55": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os Estados-membros tomarão as medidas necessárias para assegurar que as emissões para a atmosfera e as descargas de efluentes aquosos provenientes de instalações a que se aplicam os valores limite previstos nos artigos 4º e 5º sejam medidas regularmente.\n\n2. A fim de verificar o respeito pelos valores-limite previstos nos artigos 4º e 5º, os processos e métodos de colheitas de amostras e de análise devem estar em conformidade com os descritos no anexo ou com qualquer outro processo ou método capaz de fornecer resultados equivalentes.\n\n3. Os Estados-membros notificarão a Comissão dos processos e métodos que utilizarem e darão informações relevantes para avaliar a pertinência desses processos e métodos. Com base nessas informações, a Comissão manterá em observação a equivalência dos diferentes processos e métodos e enviará um relatório ao Conselho cinco anos após a notificação da presente directiva."
+  },
+  "99fc309cf6f84bcb": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nOs Estados-membros tomarão as medidas necessárias para garantir que:\n\n- as actividades relacionadas com a produção de artigos que contenham amianto não ocasionem uma poluição significativa do ambiente, por fibras ou poeiras de amianto,\n\n- a demolição de edifícios, estruturas e instalações que contenham amianto e a remoção destes do amianto ou de materiais que contenham amianto e envolvam a libertação de fibras ou poeiras de amianto não\n\nocasionem uma poluição significativa do ambiente pelo amianto; para tal, certificar-se-ão de que o plano de trabalhos previsto no artigo 12º da Directiva 83/477/CEE prevê o recurso a todas as medidas preventivas necessárias para o efeito."
+  },
+  "bda1b22327e0b491": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nSem prejuízo da Directiva 78/319/CEE (1), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, os Estados-membros tomarão as medidas necessárias no sentido de:\n\n- evitar a libertação para a atmosfera de fibras ou poeiras de amianto, bem como o derramamento de líquidos que possam conter fibras de amianto, durante o transporte e depósito de resíduos que contenham fibras ou poeiras de amianto,\n\n- sempre que os resíduos que contenham poeiras ou fibras de amianto sejam enterrados em depósitos devidamente autorizados para esse fim garantir que tais resíduos sejam tratados, embalados ou cobertos, tendo em consideração as condições locais, de modo a evitar a libertação de partículas de amianto para o meio ambiente."
+  },
+  "15ebb038480ba9ae": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nA fim de proteger a saúde e o ambiente, qualquer Estado-membro pode estabelecer disposições mais rigorosas do que as contidas na presente directiva, no respeito das condições estabelecidas pelo Tratado."
+  },
+  "b43a4082c7dd2554": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nO procedimento previsto nos artigos 11º e 12º é estabelecido para adaptar o anexo ao progresso técnico e é também aplicável a qualquer alteração dos métodos de amostragem e análise mencionados no anexo. Dessa adaptação não deve resultar qualquer alteração directa ou indirecta dos valores máximos indicados nos artigos 4º e 5º"
+  },
+  "0e38ca13ec07c3e5": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nÉ instituído um Comité para a adaptação da presente directiva ao progresso científico e técnico, a seguir denominado « Comité », composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\nO Comité elabora o seu próprio regulamento interno."
+  },
+  "6c94a0310f9b4060": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. No caso de recurso ao procedimento estabelecido neste artigo, o Comité será convocado pelo seu presidente, quer por sua própria iniciativa quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão apresenta ao Comité um projecto das medidas a tomar. O Comité formula o seu parecer num prazo que o presidente fixa em função da urgência da questão em causa. O Comité delibera por maioria de 54 votos, sendo os votos dos Estados-membros afectados do coeficiente de ponderação previsto no nº 2 do artigo 148º do Tratado. O presidente não toma parte na votação.\n\n3. a) A Comissão adopta as medidas previstas sempre que estejam em concordância com o parecer do Comité.\n\nb) Se as medidas previstas não estiverem em conformidade com o parecer do Comité, ou na ausência de parecer, a Comissão apresentará de imediato ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto lhe foi submetido, o Conselho não tiver deliberado, as medidas serão adoptadas pela Comissão que as aplica de imediato."
+  },
+  "b7856c82cefceb4a": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. A Comissão deve fazer periodicamente uma avaliação comparativa da aplicação da presente directiva pelos Estados-membros. Os Estados-membros fornecerão à Comissão todas as informações pertinentes para esse fim. Deve ser respeitada a natureza confidencial de qualquer informação fornecida.\n\n2. Sempre que necessário e à luz da evolução dos conhecimentos médicos e do progresso tecnológico, a Comissão apresentará novas propostas com o objectivo de prevenir e reduzir a poluição provocada pelo amianto, no interesse da protecção da saúde humana e do ambiente."
+  },
+  "ea882357b13eaafc": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Sem prejuízo do nº 2 do presente artigo, os Estados-membros assegurarão a entrada em vigor das disposições legislativas, regulamentares e administrativas necessárias ao cumprimento da presente directiva, o mais tardar em 31 de Dezembro de 1988. Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros adoptarão as disposições necessárias para dar cumprimento ao disposto nos artigos 4º e 5º da presente directiva logo que possível e, em qualquer caso, o mais tardar até 30 de Junho de 1991, para as unidades industriais construídas ou autorizadas antes da data indicada no nº 1.\n\n3. Os Estados-membros comunicarão à Comissão os textos das disposições de direito interno adoptados no domínio abrangido pela presente directiva."
+  },
+  "2de0f695faad3fe8": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 19 de Março de 1987.\n\nPelo Conselho\n\nO Presidente\n\nM. SMET\n\n(1) JO nº C 349 de 31. 12. 1985, p. 27.\n\n(2) Parecer emitido em 9 de Março de 1987 (ainda não publicado no Jornal Oficial).\n\n(3) JO nº C 207 de 18. 8. 1986, p. 21.\n\n(4) JO nº C 112 de 20. 12. 1973, p. 1, JO nº C 139 de 13. 6. 1977, p. 1 e JO nº C 46 de 17. 2. 1983, p. 1.\n\n(5) JO nº L 263 de 24. 9. 1983, p. 33.\n\n(6) JO nº L 262 de 27. 9. 1976, p. 201.\n\n(7) JO nº L 269 de 11. 10. 1985, p. 56.\n\n(8) JO nº L 263 de 24. 9. 1983, p. 25.\n\n(9) JO nº L 188 de 16. 7. 1984, p. 20.\n\n(1) JO nº L 194 de 25. 7. 1975, p. 47.\n\n(1) JO nº L 84 de 31. 3. 1978, p. 43."
+  },
+  "1a3aff0a68b6b2f6": {
+   "fragment_id": "ANEXO — MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE",
+   "type": "divisao",
+   "heading": "ANEXO — MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE\n\nA. DESCARGA DE EFLUENTES AQUOSOS\n\nO método de análise de referência para determinar as matérias totais em suspensão (substâncias filtráveis da amostra não precipitada) expressas em mg/1 é a filtragem através de membrana filtrante de 0,45mm, com secagem a 105 °C e pesagem (1).\n\nAs amostras devem ser colhidas de modo a representarem a colheita durante um período de 24 horas.\n\nEsta determinação deve ser efectuada com uma precisão (2) de ± 5 % e um rigor (2) de ± 10 %.\n\nB. ESPECIFICAÇÕES A RESPEITAR NA ESCOLHA DO MÉTODO DE MEDIÇÃO DAS EMISSÕES PARA A ATMOSFERA\n\nI. Metodo gravimétrico\n\n1. O método escolhido será um método gravimétrico susceptível de medir as quantidades totais de poeiras emitidas através das condutas de descarga.\n\nDeve ter-se em conta a concentração de amianto nas poeiras. Quando forem necessárias medições de concentração, a concentração de amianto nas poeiras será medida ou avaliada. A autoridade de controlo decidirá da periodicidade de tais medições, de acordo com as características da unidade industrial e da respectiva produção; esta medição deve, inicialmente, efectuar-se pelo menos de 6 em 6 meses. Se um Estado-membro verificar que a concentração não revela variação significativa, pode reduzir-se a frequência das medições. Sempre que não sejam efectuadas medições periódicas, o valor máximo especificado no artigo 4º da directiva aplica-se à totalidade da emissão de poeiras.\n\nA colheita de amostras efectuar-se-á antes de qualquer diluição do fluxo a medir.\n\n2. A colheita de amostras deve efectuar-se com uma precisão de ± 40 % e um rigor de ± 20 % do valor máximo. O limite de detecção deve ser de 20 %. Devem efectuar-se no mínimo duas medições nas mesmas condições de modo a confirmar a concordância com o valor máximo.\n\n3. Condições de funcionamento da instalação\n\nAs medições só serão válidas se a colheita de amostras for efectuada durante o funcionamento da instalação em condições normais.\n\n4. Escolha do ponto de colheita de amostras\n\nO ponto de colheita de amostras deve estar situado num local que apresente condições de escoamento laminar. Tanto quanto possível, deve tomar-se cuidado para evitar turbulência e obstáculos susceptíveis de criarem más condições de escoamento.\n\n5. Dispositivos a prever para a colheita de amostras\n\nSerão previstas aberturas adequadas nas condutas onde se efectuará a colheita, devendo igualmente ser instaladas plataformas adequadas.\n\n6. Medições a efectuar antes da colheita de amostras\n\nAntes de se efectuar a colheita de amostras, devem realizar-se certas medições, nomeadamente da temperatura do ar, da pressão e da velocidade da corrente na conduta. A temperatura e a pressão do ar serão normalmente medidas ao longo da linha de amostragem, com o caudal normal. Em condições excepcionais, é também necessário medir a concentração de vapor de água, a fim de se poderem fazer as correspondentes correcções nos resultados.\n\n7. Requisitos gerais do processo de colheita de amostras\n\nEste processo consiste em aspirar através de um filtro uma amostra de ar de uma conduta de transporte de emissões de poeiras de amianto e em medir a quantidade de amianto retida no filtro.\n\n7.1. Será efectuado um ensaio de estanquidade na linha de colheita, a fim de ter a certeza de que não haverá erros de medição provocados por eventuais fugas. A abertura de colheita de amostras deve ser cuidadosamente vedada e a bomba de colheita deve ser posta em funcionamento. As fugas não devem excer 1 % do caudal normal de colheita.\n\n7.2. A colheita de amostras efectua-se, normalmente, em condições isocinéticas.\n\n7.3. A duração da colheita dependerá do tipo de processo a controlar e da linha de colheita utilizada e o período de colheita deverá ser suficiente para assegurar a recolha de uma quantidade adequada de material para pesagem. A amostra deve ser representativa de todo o processo a controlar.\n\n7.4. Se o filtro de colheita não se encontra próximo da abertura de colheita, é essencial recuperar as matérias que ficam depositadas na sonda de colheita de amostras.\n\n7.5. A abertura da colheita e o número de pontos onde é conveniente fazer as colheitas serão determinados em conformidade com a norma nacional adoptada.\n\n8. Natureza do filtro de colheita de amostras\n\n8.1. Deve escolher-se o filtro adequado à técnica de análise utilizada. Para o método gravimétrico são preferíveis os filtros de fibra de vidro.\n\n8.2. É necessário um rendimento de filtragem mínimo de 99 %, definido por referência ao ensaio DOP que utiliza um aerosol com partículas de 0,3 mm de diâmetro.\n\n9. Pesagem\n\n9.1. Será utilizada uma balança de alta precisão adequada.\n\n9.2. A fim de se obter o rigor necessário na pesagem, é indispensável proceder a um condicionamento rigoroso dos filtros antes e depois da colheita.\n\n10. Expressão dos resultados\n\nAlém dos dados de medição, os resultados devem registar os dados relativos à temperatura, à pressão e ao caudal e incluirão todas as informações pertinentes, tais como um diagrama simples mostrando a localização dos pontos de colheita, as dimensões das condutas, os volumes das amostras e o método de cálculo utilizado para a determinação dos resultados. Esses resultados serão expressos nas condições normais de temperatura (273 K) e pressão (101,3 kPa).\n\nII. Método de contagem das fibras\n\nSe se utilizarem processos de contagem das fibras com o fim de verificar a conformidade com o valor máximo do artigo 4º da directiva, poder-se-á utilizar, sob condição de se respeitarem as disposições do nº 3 do artigo 6º da directiva, um factor de conversão de 2 fibras/ml para 0,1 mg/m3 de poeiras de amianto.\n\nNa acepção da directiva entende-se por fibra qualquer objecto de comprimento superior a 5 mícrons, largura inferior a 3 mm e com uma razão comprimento/largura superior a 3/1, que é contável num microscópio óptico de contraste de fase utilizando o Método de Referência Europeu definido no Anexo I da Directiva 83/477/CEE.\n\nUm método de contagem de fibras deve respeitar as especificações seguintes:\n\n1. O método deve permitir a medição da concentração de fibras contáveis nos gases emitidos.\n\nA autoridade de controlo decidirá acerca da periodicidade destas medições, de acordo com as características da unidade industrial e da respectiva produção; essa periodicidade deve ser, no mínimo, semestral. Sempre que não sejam efectuadas medições periódicas, o valor-limite especificado no artigo 4º aplica-se à totalidade das emissões de poeira.\n\nA colheita de amostras efectuar-se-á antes de qualquer diluição do fluxo a medir.\n\n2. Condições de funcionamento da instalação\n\nAs medições só serão válidas se a colheita de amostras for efectuada durante o funcionamento da instalação em condições normais.\n\n3. Escolha do ponto da colheita de amostras\n\nO ponto da colheita de amostras deve estar situado num local que apresente condições de escoamento laminar. Tanto quanto possível, deve tomar-se cuidado para evitar turbulência e obstáculos susceptíveis de criarem más condições de escoamento.\n\n4. Dispositivos a prever para a colheita de amostras\n\nSerão previstas aberturas apropriadas nas condutas onde se efectuará a colheita, devendo igualmente ser instaladas plataformas adequadas.\n\n5. Medições a efectuar antes da colheita de amostras\n\nAntes de se efectuar a colheita de amostras, devem realizar-se certas medições, nomeadamente da temperatura do ar, da pressão e da velocidade de corrente na conduta. A temperatura e a pressão do ar serão normalmente medidas ao longo da linha de amostragem com o caudal normal. Em condições excepcionais, é também necessário medir a concentração de vapor de água, a fim de se poderem fazer as correspondentes correcções aos resultados. 6. Requisitos gerais do processo de colheita de amostras\n\nEste processo consiste em aspirar através de uma amostra do ar de uma conduta de transporte de emissões de poeiras de amianto e em medir as fibras de amianto contáveis existentes na poeira retida no filtro.\n\n6.1. Será efectuado um ensaio de estanquidade na linha de colheita, a fim de ter a certeza de que não haverá erros de medição provocados por eventuais fugas. A abertura da colheita das amostras deve ser cuidadosamente vedada e a bomba de colheita deve ser posta em funcionamento. As fugas não devem exceder 1 % do caudal normal da colheita.\n\n6.2. A colheita de amostras dos gases emitidos será efectuada dentro da conduta de emissão, em condições isocinéticas.\n\n6.3. A duração da colheita dependerá do tipo de processo a controlar e das dimensões da tubeira de colheita utilizada. O período de colheita deve ser suficiente para assegurar que o filtro de recolha de amostras apresente entre 100 e 600 fibras contáveis de amianto/mm2. A amostra deve ser representativa de todo o processo a controlar.\n\n6.4. A abertura da colheita e o número de pontos onde é conveniente fazer as colheitas serão determinados em conformidade com a norma nacional adoptada.\n\n7. Natureza do filtro de recolha de amostras\n\n7.1. Deve escolher-se o filtro adequado para a técnica de medição utilizada. Para o método de contagem das fibras devem usar-se filtros de membrana (mistura de ésteres de celulose ou de nitrato de celulose), com poros de 5mm de diâmetro nominal, quadrados impressos e 25 mm de diâmetro.\n\n7.2. O filtro de recolha de amostras deve ter um rendimento de filtragem mínimo de 99 % no que se refere a fibras contáveis de amianto.\n\n8. Contagem de fibras\n\nO método de contagem das fibras deve ser conforme ao Método de Referência Europeu, referido no Anexo I da Directiva 83/477/CEE.\n\n9. Expressão dos resultados\n\nAlém dos dados de medição, os resultados devem registar os dados relativos à temperatura, à pressão e ao caudal e incluir todas as informações pertinentes, tais como um diagrama simples mostrando a localização dos pontos de colheita, as dimensões das condutas, os volumes das amostras e o método de cálculo utilizado para a determinação dos resultados. Esses resultados serão expressos nas condições normais de temperatura (273 K) e pressão (101,3 kPa).\n\n(1) Cf. Anexo III à Directiva 82/883/CEE (JO nº L 378 de 31. 12. 1982, p. 1).\n\n(2) Estes termos estão definidos no artigo 2º da Directiva 79/869/CEE (JO nº L 271, de 29. 10. 1979, p. 44) com a última redacção que lhe foi dada pela Directiva 81/855/CEE (JO nº L 319 de 7. 11. 1981, p. 16)."
+  },
+  "6f827f5f46938748": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1987L0217 — PT — 05.06.2003 — 003.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987L0217:PT:NOT) [DIRECTIVA DO CONSELHO de 19 de Março de 1987 relativa à prevenção e à redução da poluição do ambiente provocada pelo amianto (87/217/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987L0217:PT:NOT) (JO L 085, 28.3.1987, p.40)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT) | [Directiva do Conselho 91/692/CEE de 23 de Dezembro de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT) | L 377 | 48 | 31.12.1991 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) | [Regulamento (CE) n.o 807/2003 do Conselho de 14 de Abril de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) | L 122 | 36 | 16.5.2003 |\n\nAlterado por:\n\n| [A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | C 241 | 21 | 29.8.1994 |\n| --- | --- | --- | --- | --- |\n|  | (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) | L 001 | 1 | .. |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987L0217:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 19 de Março de 1987\n\nrelativa à prevenção e à redução da poluição do ambiente provocada pelo amianto\n\n(87/217/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0003)),\n\nConsiderando que os sucessivos programas de acção das Comunidades Europeias em matéria de ambiente ([4](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0004)) colocam em evidência a importância da prevenção e da redução da poluição do ambiente; que, nesse contexto, o amianto tem sido classificado entre os poluentes de primeira categoria que convém analisar devido à toxicidade e dada a sua importância sob o ponto de vista dos efeitos potencialmente graves sobre a saúde humana e o ambiente;\n\nConsiderando que a Directiva 83/478/CEE ([5](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0005)) inseriu na Directiva 76/769/CEE ([6](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0006)) com a última redacção que lhe foi dada pela Directiva 85/467/CEE ([7](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0007)), disposições que limitam a colocação no mercado e a utilização de crocidolite (amianto azul) e dos produtos que contêm fibras de crocidolite e que a referida directiva estabelece disposições especiais relativas à rotulagem dos produtos que contêm amianto;\n\nConsiderando que a Directiva 83/477/CEE ([8](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0008)) estabeleceu disposições relativas à protecção dos trabalhadores contra os riscos relacionados com a exposição ao amianto durante o trabalho;\n\nConsiderando que a Directiva 84/360/CEE ([9](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0009)) estabeleceu disposições relativas à luta contra a poluição atmosférica provocada por instalações industriais;\n\nConsiderando que os Estados-membros devem tomar as medidas necessárias para garantir que as emissões de amianto para a atmosfera, as descargas de amianto no meio aquático e os resíduos sólidos de amianto sejam, tanto quanto possível, reduzidos na origem e evitados;\n\nConsiderando que a aplicação de tais medidas às instalações existentes requer um período de tempo suficiente;\n\nConsiderando que os Estados-membros devem ter a possibilidade de, na observância das disposições do Tratado, apresentar disposições mais estritas a fim de proteger a saúde e o ambiente;\n\nConsiderando que as disparidades entre as disposições em vigor ou em curso de alteração nos diferentes Estados-membros no que diz respeito à luta contra a poluição proveniente de instalações industriais podem criar condições de concorrência desiguais e ter, por esse motivo, uma incidência directa no funcionamento do mercado comum; que convém, portanto, proceder neste domínio a uma aproximação das legislações ao abrigo do artigo 100o do Tratado;\n\nConsiderando que a redução da poluição provocada pelo amianto constitui uma acção que tem em vista realizar um dos objectivos da Comunidade no domínio da protecção e da melhoria do ambiente; que, no entanto, os poderes específicos exigidos nesta matéria não foram expressamente previstos pelo Tratado; que, por conseguinte, convém recorrer também ao artigo 235o,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "edb21d62d76c6267": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva tem por objecto estabelecer medidas e completar disposições já em vigor, tendo em vista reduzir e evitar a poluição pelo amianto e proteger assim a saúde humana e o ambiente.\n\n2. A presente directiva aplica-se sem prejuízo do disposto na Directiva 83/447/CEE."
+  },
+  "39e592fbc1a01c81": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos da presente directiva entende-se por:\n\n1. Amianto: os seguintes silicatos fibrosos:\n\n— crocodólito (amianto azul),\n\n— actinólito,\n\n— antofilita,\n\n— crisólita (amianto branco),\n\n— amósita (amianto castanho),\n\n— tremólita.\n\n2. Amianto bruto:\n\nO produto obtido a partir da transformação primária do minério de amianto.\n\n3. Utilização do amianto:\n\nAs actividades que envolvem o manuseamento de uma quantidade superior a 100 kg de amianto bruto por ano e referentes:\n\na) À produção de amianto bruto a partir do minério de amianto, com exclusão de qualquer processo directamente associado à extracção do minério, e/ou\n\nb) Ao fabrico e acabamento industrial dos seguintes produtos à base de amianto bruto: fibrocimento ou produtos de fibrocimento, produtos de fricção à base de amianto, filtros de amianto, têxteis à base de amianto, papel e cartão à base de amianto, materiais à base de amianto para juntas, embalagens e reforços, revestimentos à base de amianto para pavimentos e produtos de enchimento à base de amianto.\n\n4. Manuseamento de produtos que contêm amianto:\n\nOutras actividades para além da utilização do amianto, susceptíveis de contaminarem o ambiente com poeiras que contenham amianto.\n\n5. Resíduos:\n\nQualquer substância ou objecto abrangido pela definição do artigo 1o da Directiva 75/442/CEE ([10](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0010))."
+  },
+  "298160934a8b4bbb": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros comprometem-se a tomar as medidas necessárias para garantir que as emissões de amianto para a atmosfera, as descargas de amianto no meio aquático e os resíduos de amianto sejam, tanto quanto razoavelmente praticável, reduzidos na origem e evitados. No caso da utilização do amianto, essas medidas devem implicar o uso da mais avançada tecnologia disponível que não origine custos excessivos, incluindo, quando adequado, a reciclagem ou o tratamento.\n\n2. No caso das instalações existentes, aplica-se a disposição do no 1 que impõe a utilização da mais avançada tecnologia disponível que não origine custos excessivos para reduzir e eliminar as emissões de amianto para a atmosfera, tendo em conta os elementos fixados no artigo 13o da Directiva 84/360/CEE."
+  },
+  "b054985f3d408ef1": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Sem prejuízo do artigo 3o, os Estados-membros tomarão as medidas necessárias para assegurar que a concentração de amianto expelido para a atmosfera durante a utilização do amianto não exceda o valor limite de 0,1 mg/m3 (miligramas de amianto por m3 de ar expelido).\n\n2. Os Estados-membros podem isentar da obrigação referida no no 1 as instalações cujo total de emissões gasosas é inferior a 5 000 m3/hora quando a descarga de amianto no ar não for superior a 0,5 g por hora, em qualquer momento e em condições normais de operacionalidade.\n\nQuando se recorra a esta isenção, as autoridades competentes dos Estados-membros definirão as medidas adequadas tendo em vista assegurar que não sejam excedidos os limiares referidos no primeiro parágrafo."
+  },
+  "78175a84ca07deee": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros tomarão as medidas necessárias para garantir que:\n\na) Todos os efluentes aquosos provenientes do fabrico de fibrocimento sejam reciclados. Quando essa reciclagem não for economicamente viável, os Estados-membros tomarão as medidas necessárias para assegurar que a eliminação de resíduos de líquidos que contenham amianto se não transforme em poluição do ambiente aquático nem de outros sectores, incluindo a atmosfera.\n\nCom este fim:\n\n— e aplicável o valor limite de 30 g do total da matéria em suspensão por m3 de efluente aquoso,\n\n— as autoridades competentes dos Estados-membros devem fixar, para cada instalação em causa, o volume de descargas na água ou a quantidade total de matéria em suspensão expelida por tonelada de produto, tendo em consideração a situação específica da instalação em causa.\n\nEsses valores limite serão medidos no local onde as águas residuais deixam a instalação industrial.\n\nb) Todos os efluentes aquosos provenientes do fabrico de papel ou cartão de amianto sejam reciclados.\n\nDurante o período de limpeza ou manutenção de rotina das instalações podem, contudo, ser autorizadas descargas de efluentes aquosos que não contenham mais de 30 g de matéria em suspensão por m3 de água."
+  },
+  "5ca0d3551713d660": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros tomarão as medidas necessárias para assegurar que as emissões para a atmosfera e as descargas de efluentes aquosos provenientes de instalações a que se aplicam os valores limite previstos nos artigos 4o e 5o sejam medidas regularmente.\n\n2. A fim de verificar o respeito pelos valores-limite previstos nos artigos 4o e 5o, os processos e métodos de colheitas de amostras e de análise devem estar em conformidade com os descritos no anexo ou com qualquer outro processo ou método capaz de fornecer resultados equivalentes.\n\n3. Os Estados-membros notificarão a Comissão dos processos e métodos que utilizarem e darão informações relevantes para avaliar a pertinência desses processos e métodos. Com base nessas informações, a Comissão manterá em observação a equivalência dos diferentes processos e métodos e enviará um relatório ao Conselho cinco anos após a notificação da presente directiva."
+  },
+  "1b011e952371bb58": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros tomarão as medidas necessárias para garantir que:\n\n— as actividades relacionadas com a produção de artigos que contenham amianto não ocasionem uma poluição significativa do ambiente, por fibras ou poeiras de amianto,\n\n— a demolição de edifícios, estruturas e instalações que contenham amianto e a remoção destes do amianto ou de materiais que contenham amianto e envolvam a libertação de fibras ou poeiras de amianto não ocasionem uma poluição significativa do ambiente pelo amianto; para tal, certificar-se-ão de que o plano de trabalhos previsto no artigo 12o da Directiva 83/477/CEE prevê o recurso a todas as medidas preventivas necessárias para o efeito."
+  },
+  "2905b635b0762393": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nSem prejuízo da Directiva 78/319/CEE ([11](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0011)), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, os Estados-membros tomarão as medidas necessárias no sentido de:\n\n— evitar a libertação para a atmosfera de fibras ou poeiras de amianto, bem como o derramamento de líquidos que possam conter fibras de amianto, durante o transporte e depósito de resíduos que contenham fibras ou poeiras de amianto,\n\n— sempre que os resíduos que contenham poeiras ou fibras de amianto sejam enterrados em depósitos devidamente autorizados para esse fim garantir que tais resíduos sejam tratados, embalados ou cobertos, tendo em consideração as condições locais, de modo a evitar a libertação de partículas de amianto para o meio ambiente."
+  },
+  "6b995859f59c59cf": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nA fim de proteger a saúde e o ambiente, qualquer Estado-membro pode estabelecer disposições mais rigorosas do que as contidas na presente directiva, no respeito das condições estabelecida pelo Tratado."
+  },
+  "674e50da9f99eb11": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nO procedimento previsto nos artigos 11o e 12o é estabelecido para adaptar o anexo ao progresso técnico e é também aplicável a qualquer alteração dos métodos de amostragem e análise mencionados no anexo. Dessa adaptação não deve resultar qualquer alteração directa ou indirecta dos valores máximos indicados nos artigos 4o e 5o."
+  },
+  "9086c799480a22d1": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nÉ instituído um Comité para a adaptação da presente directiva ao progresso científico e técnico, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) —————\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT)"
+  },
+  "00be88419a6ca779": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão é assistida pelo comité para a adaptação da presente directiva ao processo científico e técnico.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.o e 7.o da decisão 1999/468/CE ([12](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0012)).\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987L0217:PT:NOT)"
+  },
+  "374380abe8a67c90": {
+   "fragment_id": "Artigo 13o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+   "type": "artigo",
+   "heading": "Artigo 13o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)\n\n1. De três em três anos os Estados-membros transmitirão à Comissão informações sobre a aplicação da presente directiva, no âmbito de um relatório sectorial que abranja igualmente as outras directivas comunitárias pertinentes. Esse relatório será elaborado com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6o da Directiva 91/692/CEE ([13](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0013)). Esse questionário ou esquema deve ser enviado aos Estados-membros seis meses antes do início do período abrangido pelo relatório. O relatório deve ser enviado à Comissão num prazo de nove meses a contar do final do período de três anos a que se refere.\n\nO primeiro relatório abrangerá o período de 1994 a 1996, inclusive.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva num prazo de nove meses a contar da recepção dos relatórios dos Estados-membros.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987L0217:PT:NOT)\n\n2. Sempre que necessário e à luz da evolução dos conhecimentos médicos e do progresso tecnológico, a Comissão apresentará novas propostas com o objectivo de prevenir e reduzir a poluição provocada pelo amianto, no interesse da protecção da saúde humana e do ambiente."
+  },
+  "42b34453444db4d1": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Sem prejuízo do no 2 do presente artigo, os Estados-membros assegurarão a entrada em vigor das disposições legislativas, regulamentares e administrativas necessárias ao cumprimento da presente directiva, o mais tardar em 31 de Dezembro de 1988. Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros adoptarão as disposições necessárias para dar cumprimento ao disposto nos artigos 4o e 5o da presente directiva logo que possível e, em qualquer caso, o mais tardar até 30 de Junho de 1991, para as unidades industriais construídas ou autorizadas antes da data indicada no no 1.\n\n3. Os Estados-membros comunicarão à Comissão os textos das disposições de direito interno adoptados no domínio abrangido pela presente directiva."
+  },
+  "94c7dbeb4a12d073": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "8313fb9bd27040d6": {
+   "fragment_id": "ANEXO — MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE",
+   "type": "divisao",
+   "heading": "ANEXO — MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE\n\nA. DESCARGA DE EFLUENTES AQUOSOS\n\nO método de análise de referência para determinar as matérias totais em suspensão (substâncias filtráveis da amostra não precipitada) expressas em mg/l é a filtragem através de membrana filtrante de 0,45 μm, com secagem a 105 °C e pesagem ([14](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0014)).\n\nAs amotras devem ser colhidas de modo a representarem a colheita durante um período de 24 horas.\n\nEsta determinação deve ser efectuada com uma precisão ([15](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0015)) de ± 5 % e um rigor ([16](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#E0016)) de ± 10 %.\n\nB. ESPEClFlCAÇÕES A RESPEITAR NA ESCOLHA DO MÉTODO DE MEDIÇÃO DAS EMISSÕES PARA A ATMOSFERA\n\nI. Metodo gravimétrico\n\n1. O método escolhido será um método gravimétrico susceptivel de medir as quantidades totais de poeiras emitidas através das condutas de descarga.\n\nDeve ter-se em conta a concentração de amianto nas poeiras. Quando forem necessárias medições de concentração, a concentração de amianto nas poeiras será medida ou avaliada. A autoridade de controlo decidirá da periodicidade de tais medições, de acordo com as características da unidade industrial e da respectiva produção; esta medição deve, inicialmente, efectuar-se pelo menos de 6 em 6 meses. Se um Estado-membro verificar que a concentração não revela variação significativa, pode reduzir-se a frequência das medições. Sempre que não sejam efectuadas medições periódicas, o valor máximo especificado no artigo 4o da directiva aplica-se à totalidade da emissão de poeiras.\n\nA colheita de amostras efectuar-se-á antes de qualquer diluição do fluxo a medir.\n\n2. A colheita de amostras deve efectuar-se com uma precisão de ± 40 % e um rigor de ± 20 % do valor máximo. O limite de detecção deve ser de 20 %. Devem efectuar-se no mínimo duas medições nas mesmas condições de modo a confirmar a concordância com o valor máximo.\n\n3. Condições de funcionamento da instalação\n\nAs medições só serão válidas se a colheita de amostras for efectuada durante o funcionamento da instalação em condições normais.\n\n4. Escolha do ponto de colheita de amostras\n\nO ponto de colheita de amostras deve estar situado num local que apresente condições de escoamento laminar. Tanto quanto possível, deve tomar-se cuidado para evitar turbulência e obstáculos susceptíveis de criarem más condições de escoamento.\n\n5. Dispositivos a prever para a colheita de amostras\n\nSerão previstas aberturas adequadas nas condutas onde se efectuará a colheita, devendo igualmente ser instaladas plataformas adequadas.\n\n6. Mediçoes a efectuar antes da colheita de amostras\n\nAntes de se efectuar a colheita de amostras, devem realizar-se certas medições, nomeadamente da temperatura do ar, da pressão e da velocidade da corrente na conduta. A temperatura e a pressão do ar serão normalmente medidas ao longo da linha de amostragem, com o caudal normal. Em condições excepcionais, é também necessário medir a concentração de vapor de água, a fim de se poderem fazer as correspondentes correcções nos resultados.\n\n7. Requisitos gerais do processo de colheita de amostras\n\nEste processo consiste em aspirar através de um filtro uma amostra de ar de uma conduta de transporte de emissões de poeiras de amianto e em medir a quantidade de amianto retida no filtro.\n\n7.1. Será efectuado um ensaio de estanquidade na linha de colheita, a fim de ter a certeza de que não haverá erros de medição provocados por eventuais fugas. A abertura de colheita de amostras deve ser cuidadosamente vedada e a bomba de colheita deve ser posta em funcionamento. As fugas não devem excer 1 % do caudal normal de colheita.\n\n7.2. A colheita de amostras efectua-se, normalmente, em condições isocinéticas.\n\n7.3. A duração da colheita dependerá do tipo de processo a controlar e da linha de colheita utilizada e o período de colheita deverá ser suficiente para assegurar a recolha de uma quantidade adequada de material para pesagem. A amostra deve ser representativa de todo o processo a controlar.\n\n7.4. Se o filtro de colheita não se encontra próximo da abertura de colheita, é essencial recuperar as matérias que ficam depositadas na sonda de colheita de amostras.\n\n7.5. A abertura da colheita e o número de pontos onde é conveniente fazer as colheitas serão determinados em conformidade com a norma nacional adoptada.\n\n8. Natureza do filtro de colheita de amostras\n\n8.1. Deve escolher-se o filtro adequado à técnica de análise utilizada. Para o método gravimétrico são preferíveis os filtros de fibra de vidro.\n\n8.2. É necessário um rendimento de filtragem mínimo de 99 %, definido por referência ao ensaio DOP que utiliza um aerosol com partículas de 0,3 μm de diâmetro.\n\n9. Pesagem\n\n9.1. Será utilizada uma balança de alta precisão adequada\n\n9.2. A fim de se obter o rigor necessário na pesagem, é indispensável proceder a um condicionamento rigoroso dos filtros antes e depois da colheita.\n\n10. Expressão dos resultados\n\nAlém dos dados de medição, os resultados devem registar os dados relativos à temperatura, à pressão e ao caudal e incluirão todas as informações pertinentes, tais como um diagrama simples mostrando a localização dos pontos de colheita, as dimensões das condutas, os volumes das amostras e o método de cálculo utilizado para a determinação dos resultados. Esses resultados serão expressos nas condições normais de temperatura (273 K) e pressão (101,3 kPa).\n\nII. Método de contagem das fibras\n\nSe se utilizarem processos de contagem das fibras com o fim de verificar a conformidade com o valor máximo do artigo 4o da directiva, poder-se-á utilizar, sob condição de se respeitarem as disposições do no 3 do artigo 6o da directiva, um factor de conversão de 2 fibras/ml para 0,1 mg/m3 de poeiras de amianto.\n\nNa acepção da directiva entende-se por fibra qualquer objecto de comprimento superior a 5 microns, largura inferior a 3 μm e com uma razão comprimento/largura superior a 3/1, que é contável num microscópio óptico de contraste de fase utilizando o Método de Referência Europeu definido no Anexo I da Directiva 83/477/CEE.\n\nUm método de contagem de fibras deve respeitar as especificações seguintes:\n\n1. O método deve permitir a medição da concentração de fibras contáveis nos gases emitidos.\n\nA autoridade de controlo decidirá acerca da periodicidade destas medições, de acordo com as características da unidade industrial e da respectiva produção; essa periodicidade deve ser, no mínimo, semestral. Sempre que não sejam efectuadas medições periódicas, o valor-limite especificado no artigo 4o aplica-se à totalidade das emissões de poeira.\n\nA colheita de amostras efectuar-se-á antes de qualquer diluição do fluxo a medir.\n\n2. Condições de funcionamento da instalação\n\nAs medições só serão válidas se a colheita de amostras for efectuada durante o funcionamento da instalação em condições normais.\n\n3. Escolha do ponto da colheita de amostras\n\nO ponto da colheita de amostras deve estar situado num local que apresente condições de escoamento laminar. Tanto quanto possível, deve tomar-se cuidado para evitar turbulência e obstáculos susceptíveis de criarem más condições de escoamento.\n\n4. Dispositivos a prever para a colheita de amostras\n\nSerão previstas aberturas apropriadas nas condutas onde se efectuará a colheita, devendo iguaimente ser instaladas plataformas adequadas.\n\n5. Medições a efectuar antes da colheita de amostras\n\nAntes de se efectuar a colheita de amostras, devem realizar-se certas medições, nomeadamente da temperatura do ar, da pressão e da velocidade de corrente na conduta. A temperatura e a pressão do ar serão normalmente medidas ao longo da linha de amostragem com o caudal normal. Em condições excepcionais, é também necessário medir a concentração de vapor de água, a fim de se poderem fazer as correspondentes correcções aos resultados.\n\n6. Requisitos gerais do processo de colheita de amostras\n\nEste processo consiste em aspirar através de uma amostra do ar de uma conduta de transporte de emissões de poeiras de amianto e em medir as fibras de amianto contáveis existentes na poeira retida no filtro.\n\n6.1. Será efectuado um ensaio de estanquidade na linha de colheita, a fim de ter a certeza de que não haverá erros de medição provocados por eventuais fugas. A abertura da colheita das amostras deve ser cuidadosamente vedada e a bomba de colheita deve ser posta em funcionamento. As fugas não devem exceder 1 % do caudal normal da colheita.\n\n6.2. A colheita de amostras dos gases emitidos será efectuada dentro da conduta de emissão, em condições isocinéticas.\n\n6.3. A duração da colheita dependerá do tipo de processo a controlar e das dimensões da tubeira de colheita utilizada. O período de colheita deve ser suficiente para assegurar que o filtro de recolha de amostras apresente entre 100 e 600 fibras contáveis de amianto/mm2. A amostra deve ser representativa de todo o processo a controlar.\n\n6.4. A abertura da colheita e o número de pontos onde é conveniente fazer as colheitas serão determinados em conformidade com a norma nacional adoptada.\n\n7. Natureza do filtro de recolha de amostras\n\n7.1. Deve escolher-se o filtro adequado para a técnica de medição utilizada. Para o método de contagem das fibras devem usar-se filtros de membrana (mistura de ésteres de celulose ou de nitrato de celulose), com poros de 5 μm de diametro nominal, quadrados impressos e 25 mm de diâmetro.\n\n7.2. O filtro de recolha de amostras deve ter um rendimento de filtragem mínimo de 99 % no que se refere a fibras contáveis de amianto.\n\n8. Contagem de fibras\n\nO método de contagem das fibras deve ser conforme ao Método de Referência Europeu, referido no Anexo I da Directiva 83/477/CEE.\n\n9. Expressão dos resultados\n\nAlém dos dados de medição, os resultados devem registar os dados relativos à temperatura, à pressão e ao caudal e incluir todas as informações pertinentes, tais como um diagrama simples mostrando a localização dos pontos de colheita, as dimensões das condutas, os volumes das amostras e o método de cálculo utilizado para a determinação dos resultados. Esses resultados serão expressos nas condições normais de temperatura (273 K) e pressão (101,3 kPa).\n\n([1](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0001)) JO no C 349 de 31. 12. 1985, p. 27.\n\n([2](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0002)) Parecer emitido em 9. 3. 1987 (ainda não publicado no Jornal Oficial).\n\n([3](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0003)) JO no C 207 de 18. 8. 1986, p. 21.\n\n([4](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0004)) JO no C 112 de 20. 12. 1973, p. 1, JO no C 139 de 13. 6. 1977, p. 1 e JO no C 46 de 17. 2. 1983, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0005)) JO no L 263 de 24. 9. 1983, p. 33.\n\n([6](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0006)) JO no L 262 de 27. 9. 1976, p. 201.\n\n([7](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0007)) JO no L 269 de 11. 10. 1985, p. 56.\n\n([8](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0008)) JO no L 263 de 24. 9. 1983, p. 25.\n\n([9](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0009)) JO no L 188 de 16. 7. 1984, p. 20.\n\n([10](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0010)) JO no L 194 de 25. 7. 1975, p. 47.\n\n([11](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0011)) JO no L 84 de 31. 3. 1978, p. 43.\n\n([12](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0012)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n([13](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0013)) JO no L 377 de 31. 12. 1991, p. 48.\n\n([14](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0014)) Cf Anexo III à Directiva 82/883/CEE (JO no L 378 de 31. 12. 1982, p. 1).\n\n([15](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0015)) Estes termos estão definidos no artigo 2o da Directiva 79/869/CEE (JO no L 271, de 29. 10. 1979, p. 44) com a última redacção que lhe foi dada pela Directiva 81/855/CEE (JO no L 319 de 7. 11. 1981, p. 16).\n\n([16](http://publications.europa.eu/resource/cellar/5ba44faa-6d8d-4491-9dd8-b32c983d9c73.0018.02/DOC_1#src.E0016)) Estes termos estão definidos no artigo 2o da Directiva 79/869/CEE (JO no L 271, de 29. 10. 1979, p. 44) com a última redacção que lhe foi dada pela Directiva 81/855/CEE (JO no L 319 de 7. 11. 1981, p. 16)."
+  },
+  "12f5c835cca40dfa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Março de 1987\n\nrelativa à prevenção e à redução da poluição do ambiente provocada pelo amianto\n\n(87/217/CEE)"
+  },
+  "bb63229b88bd09c9": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva entende-se por:\n\n1. *Amianto:* os seguintes silicatos fibrosos:\n\n— crocodólito (amianto azul),\n\n— actinólito,\n\n— antofilita,\n\n— crisólita (amianto branco),\n\n— amósita (amianto castanho),\n\n— tremólita.\n\n2. *Amianto bruto:*\n\n3. *Utilização do amianto:*\n\na) À produção de amianto bruto a partir do minério de amianto, com exclusão de qualquer processo directamente associado à extracção do minério, e/ou\n\nb) Ao fabrico e acabamento industrial dos seguintes produtos à base de amianto bruto: fibrocimento ou produtos de fibrocimento, produtos de fricção à base de amianto, filtros de amianto, têxteis à base de amianto, papel e cartão à base de amianto, materiais à base de amianto para juntas, embalagens e reforços, revestimentos à base de amianto para pavimentos e produtos de enchimento à base de amianto.\n\n4. *Manuseamento de produtos que contêm amianto:*\n\n5. *Resíduos:*"
+  },
+  "567d2d59056afe15": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Sem prejuízo do artigo 3º, os Estados-membros tomarão as medidas necessárias para assegurar que a concentração de amianto expelido para a atmosfera durante a utilização do amianto não exceda o valor limite de 0,1 mg/m^3^ (miligramas de amianto por m^3^ de ar expelido).\n\n2. Os Estados-membros podem isentar da obrigação referida no nº 1 as instalações cujo total de emissões gasosas é inferior a 5 000 m^3^/hora quando a descarga de amianto no ar não for superior a 0,5 g por hora, em qualquer momento e em condições normais de operacionalidade.\n\nQuando se recorra a esta isenção, as autoridades competentes dos Estados-membros definirão as medidas adequadas tendo em vista assegurar que não sejam excedidos os limiares referidos no primeiro parágrafo."
+  },
+  "7affedaaf7e9e065": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros tomarão as medidas necessárias para garantir que:\n\na) Todos os efluentes aquosos provenientes do fabrico de fibrocimento sejam reciclados. Quando essa reciclagem não for economicamente viável, os Estados-membros tomarão as medidas necessárias para assegurar que a eliminação de resíduos de líquidos que contenham amianto se não transforme em poluição do ambiente aquático nem de outros sectores, incluindo a atmosfera.\n\n— e aplicável o valor limite de 30 g do total da matéria em suspensão por m^3^ de efluente aquoso,\n\n— as autoridades competentes dos Estados-membros devem fixar, para cada instalação em causa, o volume de descargas na água ou a quantidade total de matéria em suspensão expelida por tonelada de produto, tendo em consideração a situação específica da instalação em causa.\n\nb) Todos os efluentes aquosos provenientes do fabrico de papel ou cartão de amianto sejam reciclados."
+  },
+  "0f0cdc8e60bbd330": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nOs Estados-membros tomarão as medidas necessárias para garantir que:\n\n— as actividades relacionadas com a produção de artigos que contenham amianto não ocasionem uma poluição significativa do ambiente, por fibras ou poeiras de amianto,\n\n— a demolição de edifícios, estruturas e instalações que contenham amianto e a remoção destes do amianto ou de materiais que contenham amianto e envolvam a libertação de fibras ou poeiras de amianto não ocasionem uma poluição significativa do ambiente pelo amianto; para tal, certificar-se-ão de que o plano de trabalhos previsto no artigo 12º da Directiva 83/477/CEE prevê o recurso a todas as medidas preventivas necessárias para o efeito."
+  },
+  "d9ec18201768fd58": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nSem prejuízo da Directiva 78/319/CEE ([^2^](http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1#E0002)), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, os Estados-membros tomarão as medidas necessárias no sentido de:\n\n— evitar a libertação para a atmosfera de fibras ou poeiras de amianto, bem como o derramamento de líquidos que possam conter fibras de amianto, durante o transporte e depósito de resíduos que contenham fibras ou poeiras de amianto,\n\n— sempre que os resíduos que contenham poeiras ou fibras de amianto sejam enterrados em depósitos devidamente autorizados para esse fim garantir que tais resíduos sejam tratados, embalados ou cobertos, tendo em consideração as condições locais, de modo a evitar a libertação de partículas de amianto para o meio ambiente."
+  },
+  "43e6c7d15035ee9b": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nA fim de proteger a saúde e o ambiente, qualquer Estado-membro pode estabelecer disposições mais rigorosas do que as contidas na presente directiva, no respeito das condições estabelecida pelo Tratado."
+  },
+  "64341adee77d5395": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nO procedimento previsto nos artigos 11º e 12º é estabelecido para adaptar o anexo ao progresso técnico e é também aplicável a qualquer alteração dos métodos de amostragem e análise mencionados no anexo. Dessa adaptação não deve resultar qualquer alteração directa ou indirecta dos valores máximos indicados nos artigos 4º e 5º."
+  },
+  "acd8d8e3eac8c28f": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nÉ instituído um Comité para a adaptação da presente directiva ao progresso científico e técnico, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão."
+  },
+  "47f35e548408e875": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão é assistida pelo comité para a adaptação da presente directiva ao processo científico e técnico.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da decisão 1999/468/CE ([^3^](http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1#E0003)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o regulamento interno."
+  },
+  "2f5383f999e6e677": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n2. Sempre que necessário e à luz da evolução dos conhecimentos médicos e do progresso tecnológico, a Comissão apresentará novas propostas com o objectivo de prevenir e reduzir a poluição provocada pelo amianto, no interesse da protecção da saúde humana e do ambiente."
+  },
+  "66b9e6f6311ec3b9": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "2d0e83fa25af9440": {
+   "fragment_id": "MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE",
+   "type": "divisao",
+   "heading": "MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS DE COLHEITA DE AMOSTRAS E DE ANÁLISE"
+  },
+  "ba19dca01c1731d2": {
+   "fragment_id": "A. DESCARGA DE EFLUENTES AQUOSOS",
+   "type": "divisao",
+   "heading": "A. DESCARGA DE EFLUENTES AQUOSOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. DESCARGA DE EFLUENTES AQUOSOS\n\nO método de análise de referência para determinar as matérias totais em suspensão (substâncias filtráveis da amostra não precipitada) expressas em mg/l é a filtragem através de membrana filtrante de 0,45 μm, com secagem a 105 °C e pesagem ([^4^](http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1#E0005)).\n\nAs amotras devem ser colhidas de modo a representarem a colheita durante um período de 24 horas.\n\nEsta determinação deve ser efectuada com uma precisão ([^5^](http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1#E0006)) de ± 5 % e um rigor ([^6^](http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1#E0007)) de ± 10 %."
+  },
+  "33b3fefa1de506aa": {
+   "fragment_id": "B. ESPEClFlCAÇÕES A RESPEITAR NA ESCOLHA DO MÉTODO DE MEDIÇÃO DAS EMISSÕES PARA A ATMOSFERA",
+   "type": "divisao",
+   "heading": "B. ESPEClFlCAÇÕES A RESPEITAR NA ESCOLHA DO MÉTODO DE MEDIÇÃO DAS EMISSÕES PARA A ATMOSFERA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. ESPEClFlCAÇÕES A RESPEITAR NA ESCOLHA DO MÉTODO DE MEDIÇÃO DAS EMISSÕES PARA A ATMOSFERA"
+  },
+  "d7181a95b1cfd1c1": {
+   "fragment_id": "I. Metodo gravimétrico",
+   "type": "divisao",
+   "heading": "I. Metodo gravimétrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Metodo gravimétrico\n\n1. O método escolhido será um método gravimétrico susceptivel de medir as quantidades totais de poeiras emitidas através das condutas de descarga.\n\n2. A colheita de amostras deve efectuar-se com uma precisão de ± 40 % e um rigor de ± 20 % do valor máximo. O limite de detecção deve ser de 20 %. Devem efectuar-se no mínimo duas medições nas mesmas condições de modo a confirmar a concordância com o valor máximo.\n\n3. *Condições de funcionamento da instalação*\n\n4. *Escolha do ponto de colheita de amostras*\n\n5. *Dispositivos a prever para a colheita de amostras*\n\n6. *Mediçoes a efectuar antes da colheita de amostras*\n\n7. *Requisitos gerais do processo de colheita de amostras*\n\n7.1. Será efectuado um ensaio de estanquidade na linha de colheita, a fim de ter a certeza de que não haverá erros de medição provocados por eventuais fugas. A abertura de colheita de amostras deve ser cuidadosamente vedada e a bomba de colheita deve ser posta em funcionamento. As fugas não devem excer 1 % do caudal normal de colheita.\n\n7.2. A colheita de amostras efectua-se, normalmente, em condições isocinéticas.\n\n7.3. A duração da colheita dependerá do tipo de processo a controlar e da linha de colheita utilizada e o período de colheita deverá ser suficiente para assegurar a recolha de uma quantidade adequada de material para pesagem. A amostra deve ser representativa de todo o processo a controlar.\n\n7.4. Se o filtro de colheita não se encontra próximo da abertura de colheita, é essencial recuperar as matérias que ficam depositadas na sonda de colheita de amostras.\n\n7.5. A abertura da colheita e o número de pontos onde é conveniente fazer as colheitas serão determinados em conformidade com a norma nacional adoptada.\n\n8. *Natureza do filtro de colheita de amostras*\n\n8.1. Deve escolher-se o filtro adequado à técnica de análise utilizada. Para o método gravimétrico são preferíveis os filtros de fibra de vidro.\n\n8.2. É necessário um rendimento de filtragem mínimo de 99 %, definido por referência ao ensaio DOP que utiliza um aerosol com partículas de 0,3 μm de diâmetro.\n\n9. *Pesagem*\n\n9.1. Será utilizada uma balança de alta precisão adequada\n\n9.2. A fim de se obter o rigor necessário na pesagem, é indispensável proceder a um condicionamento rigoroso dos filtros antes e depois da colheita.\n\n10. *Expressão dos resultados*"
+  },
+  "4ac21880f150f0d8": {
+   "fragment_id": "II. Método de contagem das fibras",
+   "type": "divisao",
+   "heading": "II. Método de contagem das fibras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Método de contagem das fibras\n\nSe se utilizarem processos de contagem das fibras com o fim de verificar a conformidade com o valor máximo do artigo 4º da directiva, poder-se-á utilizar, sob condição de se respeitarem as disposições do nº 3 do artigo 6º da directiva, um factor de conversão de 2 fibras/ml para 0,1 mg/m^3^ de poeiras de amianto.\n\nNa acepção da directiva entende-se por fibra qualquer objecto de comprimento superior a 5 microns, largura inferior a 3 μm e com uma razão comprimento/largura superior a 3/1, que é contável num microscópio óptico de contraste de fase utilizando o Método de Referência Europeu definido no Anexo I da Directiva 83/477/CEE.\n\nUm método de contagem de fibras deve respeitar as especificações seguintes:\n\n1. O método deve permitir a medição da concentração de fibras contáveis nos gases emitidos.\n\n2. *Condições de funcionamento da instalação*\n\n3. *Escolha do ponto da colheita de amostras*\n\n4. *Dispositivos a prever para a colheita de amostras*\n\n5. *Medições a efectuar antes da colheita de amostras*\n\n6. *Requisitos gerais do processo de colheita de amostras*\n\n6.1. Será efectuado um ensaio de estanquidade na linha de colheita, a fim de ter a certeza de que não haverá erros de medição provocados por eventuais fugas. A abertura da colheita das amostras deve ser cuidadosamente vedada e a bomba de colheita deve ser posta em funcionamento. As fugas não devem exceder 1 % do caudal normal da colheita.\n\n6.2. A colheita de amostras dos gases emitidos será efectuada dentro da conduta de emissão, em condições isocinéticas.\n\n6.3. A duração da colheita dependerá do tipo de processo a controlar e das dimensões da tubeira de colheita utilizada. O período de colheita deve ser suficiente para assegurar que o filtro de recolha de amostras apresente entre 100 e 600 fibras contáveis de amianto/mm^2^. A amostra deve ser representativa de todo o processo a controlar.\n\n6.4. A abertura da colheita e o número de pontos onde é conveniente fazer as colheitas serão determinados em conformidade com a norma nacional adoptada.\n\n7. *Natureza do filtro de recolha de amostras*\n\n7.1. Deve escolher-se o filtro adequado para a técnica de medição utilizada. Para o método de contagem das fibras devem usar-se filtros de membrana (mistura de ésteres de celulose ou de nitrato de celulose), com poros de 5 μm de diametro nominal, quadrados impressos e 25 mm de diâmetro.\n\n7.2. O filtro de recolha de amostras deve ter um rendimento de filtragem mínimo de 99 % no que se refere a fibras contáveis de amianto.\n\n8. *Contagem de fibras*\n\n9. *Expressão dos resultados*\n\n---"
+  },
+  "5323a70a1e223320": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1#src.E0001)) JO nº L 194 de 25. 7. 1975, p. 47.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1#src.E0002)) JO nº L 84 de 31. 3. 1978, p. 43.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1#src.E0003)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1#src.E0005)) Cf Anexo III à Directiva 82/883/CEE (JO nº L 378 de 31. 12. 1982, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1#src.E0006)) Estes termos estão definidos no artigo 2º da Directiva 79/869/CEE (JO nº L 271, de 29. 10. 1979, p. 44) com a última redacção que lhe foi dada pela Directiva 81/855/CEE (JO nº L 319 de 7. 11. 1981, p. 16).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/0bc153fa-8b69-47de-b701-b69b01f184ae.0015.02/DOC_1#src.E0007)) Estes termos estão definidos no artigo 2º da Directiva 79/869/CEE (JO nº L 271, de 29. 10. 1979, p. 44) com a última redacção que lhe foi dada pela Directiva 81/855/CEE (JO nº L 319 de 7. 11. 1981, p. 16)."
+  }
+ }
+}

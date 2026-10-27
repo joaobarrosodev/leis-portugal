@@ -1,0 +1,738 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:481158:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-222692288",
+ "dre_path": "/dr/detalhe/decreto-lei/1-2003-481158",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-01-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "222692782",
+    "222692783",
+    "222692784",
+    "222692785",
+    "222692786",
+    "222692787",
+    "222692788",
+    "222692789",
+    "222692790",
+    "222692791",
+    "222692792",
+    "222692793",
+    "222692794",
+    "222692795",
+    "222692796",
+    "222692797",
+    "222692798",
+    "222692799",
+    "222692800",
+    "222692801",
+    "222692802",
+    "222692803",
+    "222692804",
+    "222692805"
+   ]
+  },
+  {
+   "date": "2010-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:614165:por",
+     "title": "Decreto-Lei n.º 40/2010",
+     "published": "2010-04-28",
+     "dre_path": "/dr/detalhe/decreto-lei/40-2010-614165"
+    }
+   ],
+   "changes": [
+    "Altera Capítulo I",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Capítulo III",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Capítulo IV",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "222692782",
+    "222692849",
+    "222692834",
+    "222692835",
+    "222692836",
+    "222692837",
+    "222692788",
+    "222692838",
+    "222692839",
+    "222692850",
+    "222692840",
+    "222692841",
+    "222692842",
+    "222692795",
+    "222692851",
+    "222692843",
+    "222692844",
+    "222692845",
+    "222692846",
+    "222692801",
+    "222692847",
+    "222692848",
+    "222692804",
+    "222692805",
+    "222692806"
+   ]
+  },
+  {
+   "date": "2023-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222645049:por",
+     "title": "Decreto-Lei n.º 89/2023",
+     "published": "2023-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2023-222645049"
+    }
+   ],
+   "changes": [
+    "Altera Capítulo I",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Capítulo III",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Capítulo IV",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "222692782",
+    "222692867",
+    "222692852",
+    "222692853",
+    "222692854",
+    "222692855",
+    "222692788",
+    "222692856",
+    "222692857",
+    "222692868",
+    "222692858",
+    "222692859",
+    "222692860",
+    "222692861",
+    "222692869",
+    "222692862",
+    "222692863",
+    "222692864",
+    "222692865",
+    "222692801",
+    "222692847",
+    "222692866",
+    "222692804",
+    "222692805",
+    "222692806"
+   ]
+  }
+ ],
+ "fragments": {
+  "222692782": {
+   "fragment_id": "222692289",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 1/2003\n\nde 6 de Janeiro\n\nA problemática da toxicodependência constitui uma das grandes prioridades do XV Governo Constitucional.\n\nPassados que estão 15 anos sobre a criação do Programa Nacional de Combate à Droga, designado por Projecto VIDA, torna-se necessário proceder à consolidação das estruturas transversais existentes desde 1987, dando-lhes uma nova dinâmica que começa, desde logo, pela reestruturação e o reforço dos mecanismos institucionais existentes.\n\nÉ este o objectivo fundamental do presente decreto-lei, que reorganiza as estruturas de coordenação de combate à droga e à toxicodependência.\n\nNa verdade, a concretização da estratégia nacional de luta contra a droga e do Plano de Acção Horizonte 2004, bem como do Programa do XV Governo Constitucional, a que se associa a Estratégia Europeia e Planos de Acção Europeu - 2000-2004, não se compadece com a manutenção de estruturas diversificadas e dispersas, funcionando isolada e de forma descoordenada.\n\nImpõe-se, antes, a existência de entidades ou de órgãos que, pela sua composição, competências e modo de funcionamento, permitam uma coordenação política e estratégica no combate à droga e à toxicodependência.\n\nTrata-se de uma problemática que, em virtude da sua transversalidade, deve ser objecto de uma especial configuração institucional, fazendo envolver na mesma estrutura todas as instâncias ou autoridades públicas, de natureza política ou não, bem como os diferentes actores da sociedade, desde a família às instituições cívicas, sociais, sócio-profissionais e religiosas.\n\nA composição dos órgãos do sistema de coordenação que ora se reformula concretiza este princípio que, afinal, mais não é do que uma projecção de um princípio de solidariedade entre todas as entidades públicas e privadas no combate a um dos flagelos mais preocupantes da época actual.\n\nNesta medida, por estar em causa a prossecução de um desígnio nacional, é essencial a existência de órgãos que garantam, nos diversos níveis de decisão, a execução eficaz das medidas políticas e das estratégias adoptadas neste domínio.\n\nAssim, o presente decreto-lei visa dotar todo o sistema de estruturas capazes de garantir e imprimir coordenação e eficácia no combate à droga e à toxicodependência.\n\nEmbora esta tarefa esteja politicamente atribuída ao Ministro da Saúde, afigura-se necessária a sua efectiva concretização no plano operacional, razão pela qual se cria agora a figura do coordenador nacional do Combate à Droga e à Toxicodependência, cujas funções serão naturalmente assumidas pelo presidente do conselho de administração do recém-criado Instituto da Droga e da Toxicodependência (IDT), organismo que tem por missão garantir a unidade intrínseca do planeamento, da concepção, da gestão, da fiscalização e da avaliação das diversas fases da prevenção, do tratamento e da reinserção no domínio da droga e da toxicodependência, missão essa exercida precisamente numa perspectiva da melhor eficácia da coordenação e execução das políticas e estratégias definidas pelo Governo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "222692783": {
+   "fragment_id": "222692290",
+   "type": 1,
+   "heading": "Capítulo I — Conselho Interministerial do Combate à Droga e à Toxicodependência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Conselho Interministerial do Combate à Droga e à Toxicodependência"
+  },
+  "222692784": {
+   "fragment_id": "222692291",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado o Conselho Interministerial do Combate à Droga e à Toxicodependência, adiante designado por Conselho Interministerial, órgão de coordenação interministerial da política de combate à droga e à toxicodependência."
+  },
+  "222692785": {
+   "fragment_id": "222692292",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição\n\nO Conselho Interministerial é presidido pelo Primeiro-Ministro e tem a seguinte composição:\n\na) Ministro das Finanças;\n\nb) Ministro da Defesa Nacional;\n\nc) Ministro dos Negócios Estrangeiros;\n\nd) Ministro da Administração Interna;\n\ne) Ministro da Justiça;\n\nf) Ministro Adjunto do Primeiro-Ministro;\n\ng) Ministro da Educação;\n\nh) Ministro da Ciência e do Ensino Superior;\n\ni) Ministro da Saúde;\n\nj) Ministro da Segurança Social e do Trabalho;\n\nl) Ministro das Cidades, Ordenamento do Território e Ambiente;\n\nm) Coordenador Nacional do Combate à Droga e à Toxicodependência."
+  },
+  "222692786": {
+   "fragment_id": "222692293",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\nCompete ao Conselho Interministerial coordenar a definição e a eficaz execução da política de combate à droga e à toxicodependência, em especial:\n\na) Apreciar e aprovar a estratégia nacional de luta contra a droga e respectivas alterações, propondo-a ao Conselho de Ministros;\n\nb) Apreciar e aprovar o plano de acção plurianual e o plano anual de desenvolvimento e execução da estratégia nacional de luta contra a droga;\n\nc) Apreciar e aprovar o relatório anual sobre a execução da estratégia nacional de luta contra a droga, apresentado pelo membro do Governo responsável pela coordenação do combate à droga e à toxicodependência, propondo-o ao Conselho de Ministros;\n\nd) Garantir e promover a articulação interdepartamental na execução da estratégia nacional de luta contra a droga, bem como a integração das prioridades definidas nos planos de actividade dos organismos estatais relevantes;\n\ne) Assegurar a articulação interministerial das políticas prosseguidas pelos diversos ministérios competentes em matéria de combate à droga e à toxicodependência, garantindo a sua tradução em orientações superiores uniformes para os serviços;\n\nf) Pronunciar-se, quando solicitado, sobre acções, iniciativas ou projectos concretos de execução da estratégia nacional de luta contra a droga.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024."
+  },
+  "222692787": {
+   "fragment_id": "222692294",
+   "type": 11,
+   "heading": "Artigo 4.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Funcionamento\n\n1 - O Conselho Interministerial reúne, ordinariamente, uma vez por ano e, extraordinariamente, sempre que for convocado pelo Primeiro-Ministro.\n\n2 - Junto do Conselho Interministerial pode ser criada uma comissão técnica, composta por um representante de cada um dos membros do Governo referidos no artigo 2.º, presidida pelo coordenador nacional do Combate à Droga e à Toxicodependência.\n\n3 - As competências e o funcionamento da comissão técnica são definidos por regulamento interno, a aprovar pelo Conselho Interministerial."
+  },
+  "222692788": {
+   "fragment_id": "222692295",
+   "type": 1,
+   "heading": "Capítulo II — Membro do Governo responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Membro do Governo responsável"
+  },
+  "222692789": {
+   "fragment_id": "222692296",
+   "type": 11,
+   "heading": "Artigo 5.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Designação\n\nO Ministro da Saúde é o membro do Governo responsável pela coordenação da política de combate à droga e à toxicodependência."
+  },
+  "222692790": {
+   "fragment_id": "222692297",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências\n\nCompete ao Ministro da Saúde, na qualidade de membro do Governo responsável pela coordenação da política de combate à droga e à toxicodependência, promover a articulação e a coordenação da acção do Governo em matéria de combate à droga e à toxicodependência, em tudo o que não esteja especialmente cometido ao Conselho Interministerial, nomeadamente:\n\na) Coordenar a elaboração das propostas dos principais instrumentos programáticos em matéria de combate à toxicodependência, em particular a estratégia nacional de luta contra a droga e os planos de acção anuais e plurianuais, para posterior apresentação ao Conselho Interministerial;\n\nb) Apresentar ao Conselho Interministerial o relatório anual sobre a execução da estratégia nacional de luta contra a droga;\n\nc) Garantir e fomentar a articulação entre os membros do Governo na execução da estratégia nacional de luta contra a droga, bem como a integração das prioridades definidas nos planos de actividades dos organismos estatais relevantes;\n\nd) Apresentar ao Conselho Interministerial iniciativas ou projectos concretos de execução da estratégia nacional de luta contra a droga."
+  },
+  "222692791": {
+   "fragment_id": "222692298",
+   "type": 1,
+   "heading": "Capítulo III — Coordenador nacional do Combate à Droga e à Toxicodependência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Coordenador nacional do Combate à Droga e à Toxicodependência"
+  },
+  "222692792": {
+   "fragment_id": "222692299",
+   "type": 11,
+   "heading": "Artigo 7.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objecto\n\nÉ criado o cargo de coordenador nacional do Combate à Droga e à Toxicodependência, adiante designado por coordenador nacional, cuja actividade visa garantir uma eficaz coordenação e articulação entre os vários departamentos governamentais envolvidos no combate à droga e à toxicodependência."
+  },
+  "222692793": {
+   "fragment_id": "222692300",
+   "type": 11,
+   "heading": "Artigo 8.º — Inerência de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inerência de funções\n\nO coordenador nacional é, por inerência de funções, o presidente do conselho de administração do Instituto da Droga e da Toxicodependência (IDT)."
+  },
+  "222692794": {
+   "fragment_id": "222692301",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências\n\nCompete ao coordenador nacional:\n\na) Propor ao Ministro da Saúde os principais instrumentos programáticos em matéria de combate à droga e à toxicodependência, em particular a estratégia nacional de luta contra a droga, bem como os planos de acção anuais e plurianuais;\n\nb) Elaborar e apresentar ao Ministro da Saúde o relatório anual sobre a execução da Estratégia Nacional de Luta contra a Droga;\n\nc) Submeter ao Ministro da Saúde iniciativas ou projectos concretos de execução da estratégia nacional de luta contra a droga;\n\nd) Promover a articulação da intervenção dos serviços da administração central directa e indirecta, a nível nacional, regional e local, tendo em vista a concertação das acções em matéria de luta contra a droga e a toxicodependência;\n\ne) Promover e verificar a inclusão das orientações fundamentais da estratégia nacional de luta contra a droga nos planos de acção dos organismos públicos e privados com responsabilidades em matéria de combate à droga e à toxicodependência;\n\nf) Assegurar, em articulação com o IDT, a representação de Portugal a nível governamental nas instâncias internacionais e em especial no conselho de administração do Observatório Europeu da Droga e da Toxicodependência, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros na formulação e na condução da política externa."
+  },
+  "222692795": {
+   "fragment_id": "222692302",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funcionamento\n\n1 - O coordenador nacional exerce funções junto do Ministro da Saúde.\n\n2 - Os serviços e organismos da Administração Pública devem prestar ao coordenador nacional toda a colaboração por ele solicitada, designadamente dando sequência às medidas definidas, facilitando a integração dos instrumentos programáticos de orientação no respectivos programas de trabalho e fornecendo as informações solicitadas e o acesso aos serviços de documentação."
+  },
+  "222692796": {
+   "fragment_id": "222692303",
+   "type": 1,
+   "heading": "Capítulo IV — Conselho Nacional do Combate à Droga e à Toxicodependência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Conselho Nacional do Combate à Droga e à Toxicodependência"
+  },
+  "222692797": {
+   "fragment_id": "222692304",
+   "type": 11,
+   "heading": "Artigo 11.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Objecto\n\nO Conselho Nacional do Combate à Droga e à Toxicodependência, adiante designado por Conselho Nacional, é o órgão de consulta do Primeiro-Ministro e do Governo sobre a política de combate à droga e à toxicodependência, competindo-lhe pronunciar-se sobre a definição e execução dos principais instrumentos programáticos nesta matéria, bem como sobre todos os assuntos que sobre a mesma lhe sejam submetidos pelo Primeiro-Ministro e pelo membro do Governo responsável pela coordenação da política de combate à droga e à toxicodependência."
+  },
+  "222692798": {
+   "fragment_id": "222692305",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - O Conselho Nacional é presidido pelo Primeiro-Ministro, com faculdade de delegação no membro do Governo responsável pela coordenação da política de combate à droga e à toxicodependência, e integra, para além do presidente do conselho de administração do IDT, os representantes das seguintes instituições, entidades e organizações:\n\na) Governos das Regiões Autónomas dos Açores e da Madeira;\n\nb) Conselho Superior da Magistratura;\n\nc) Procuradoria-Geral da República;\n\nd) Associação Nacional de Municípios Portugueses;\n\ne) Associação Nacional de Freguesias;\n\nf) Conselho de Reitores das Universidades Portuguesas;\n\ng) Conselho Coordenador dos Institutos Superiores Politécnicos;\n\nh) Associação Portuguesa do Ensino Superior Privado;\n\ni) Conferência Episcopal;\n\nj) Igrejas e comunidades religiosas radicadas no País;\n\nl) União das Misericórdias;\n\nm) União das Instituições Particulares de Solidariedade Social;\n\nn) Federação Portuguesa das Instituições Ligadas ao Combate à Droga e à Toxicodependência;\n\no) União das Mutualidades Portuguesas;\n\np) Associações de profissionais que intervenham no domínio da droga e da toxicodependência;\n\nq) Associações cívicas que intervenham no domínio da luta contra a sida;\n\nr) Conselho Nacional da Juventude;\n\ns) Associações de estudantes do ensino superior e do ensino secundário;\n\nt) Confederação Nacional das Associações de Pais;\n\nu) Confederação Nacional das Associações de Famílias;\n\nv) Sindicato dos Jornalistas.\n\n2 - O Conselho Nacional integra ainda cinco personalidades a designar pelo Primeiro-Ministro."
+  },
+  "222692799": {
+   "fragment_id": "222692306",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências\n\nCompete ao Conselho Nacional:\n\na) Pronunciar-se, a título consultivo, sobre a definição e a execução dos principais instrumentos programáticos em matéria do combate à droga e à toxicodependência, nomeadamente sobre a estratégia nacional de luta contra a droga, e respectivas alterações;\n\nb) Pronunciar-se, a título consultivo, sobre o plano de acção plurianual e o plano anual de desenvolvimento e ainda sobre o relatório anual de execução da estratégia nacional de luta contra a droga, apresentados pelo membro do Governo responsável pela coordenação da política de combate à droga e à toxicodependência;\n\nc) Pronunciar-se, quando solicitado, sobre acções, iniciativas ou projectos concretos de execução da estratégia nacional de luta contra a droga."
+  },
+  "222692800": {
+   "fragment_id": "222692307",
+   "type": 11,
+   "heading": "Artigo 14.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Funcionamento\n\n1 - O Conselho Nacional reunirá sempre que convocado pelo Primeiro-Ministro ou pelo membro do Governo responsável pela coordenação da política de combate à droga e à toxicodependência.\n\n2 - A participação no Conselho Nacional não é remunerada."
+  },
+  "222692801": {
+   "fragment_id": "222692308",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "222692802": {
+   "fragment_id": "222692309",
+   "type": 11,
+   "heading": "Artigo 15.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Extinção\n\n1 - É extinta a Missão para o Acompanhamento da Participação Portuguesa no Grupo Pompidou, criada e regulada pela Resolução do Conselho de Ministros n.º 30/2000, de 18 de Maio.\n\n2 - As atribuições da Missão transitam para o coordenador nacional do Combate à Droga e à Toxicodependência."
+  },
+  "222692803": {
+   "fragment_id": "222692310",
+   "type": 11,
+   "heading": "Artigo 16.º — Apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Apoio administrativo\n\nO apoio administrativo ao funcionamento do Conselho Interministerial do Combate à Droga e à Toxicodependência e do Conselho Nacional do Combate à Droga e à Toxicodependência será prestado pelo IDT."
+  },
+  "222692804": {
+   "fragment_id": "222692311",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nCom a entrada em vigor deste diploma são revogados:\n\na) O Decreto-Lei n.º 88/2000, de 18 de Maio;\n\nb) O Decreto-Lei n.º 89/2000, de 18 de Maio;\n\nc) A Resolução do Conselho de Ministros n.º 30/2000, de 18 de Maio."
+  },
+  "222692805": {
+   "fragment_id": "222692312",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "222692849": {
+   "fragment_id": "222692290",
+   "type": 1,
+   "heading": "Capítulo I — Conselho Interministerial para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "### Capítulo I — Conselho Interministerial para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692834": {
+   "fragment_id": "222692291",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado o Conselho Interministerial para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool, adiante designado por Conselho Interministerial, órgão de coordenação interministerial das políticas relacionadas com a droga, as toxicodependências e, bem assim, o uso nocivo do álcool.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692835": {
+   "fragment_id": "222692292",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 2.º — Composição\n\nO Conselho Interministerial é presidido pelo Primeiro-Ministro e é composto pelo Coordenador Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool e pelos membros do Governo responsáveis pelas seguintes áreas:\n\na) Dos negócios estrangeiros;\n\nb) Das finanças;\n\nc) Da defesa nacional;\n\nd) Da administração interna;\n\ne) Da justiça;\n\nf) Da economia;\n\ng) Da agricultura;\n\nh) Do ambiente;\n\ni) Do trabalho;\n\nj) Da segurança social;\n\nl) Da saúde;\n\nm) Da educação;\n\nn) Da ciência e do ensino superior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692836": {
+   "fragment_id": "222692293",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 3.º — Competências\n\nCompete ao Conselho Interministerial coordenar a definição e a eficaz execução de políticas relacionadas com a droga, as toxicodependências e o uso nocivo de álcool, em especial:\n\na) Apreciar e aprovar a estratégia nacional de luta contra a droga e respectivas alterações, propondo-a ao Conselho de Ministros;\n\nb) Apreciar e aprovar o plano de acção plurianual e o plano anual de desenvolvimento e execução da estratégia nacional de luta contra a droga;\n\nc) Apreciar e aprovar o relatório anual sobre a execução da estratégia nacional de luta contra a droga, apresentado pelo membro do Governo responsável pela coordenação do combate à droga e à toxicodependência, propondo-o ao Conselho de Ministros;\n\nd) Avaliar e aprovar o Plano Nacional para a Redução dos Problemas Ligados ao Álcool e respectivo plano de acção;\n\ne) Garantir e promover a articulação interdepartamental na execução da Estratégia Nacional de Luta contra a Droga e as Toxicodependências e do Plano Nacional para a Redução dos Problemas Ligados ao Álcool, bem como a integração das prioridades definidas nos planos de actividades dos organismos estatais relevantes;\n\nf) Assegurar a articulação interministerial das políticas prosseguidas pelos diversos ministérios competentes em matéria de droga, toxicodependências e uso nocivo de álcool, garantindo a sua tradução em orientações superiores uniformes para os serviços;\n\ng) Pronunciar-se, quando solicitado, sobre acções, iniciativas ou projectos de execução da competência do Conselho Interministerial.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692837": {
+   "fragment_id": "222692294",
+   "type": 11,
+   "heading": "Artigo 4.º — Funcionamento",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 4.º — Funcionamento\n\n1 - O Conselho Interministerial reúne, ordinariamente, uma vez por ano e, extraordinariamente, sempre que for convocado pelo Primeiro-Ministro.\n\n2 - Junto do Conselho Interministerial pode ser criada uma comissão técnica, composta por um representante de cada um dos membros do Governo referidos no artigo 2.º, presidida pelo Coordenador Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool.\n\n3 - As competências e o funcionamento da comissão técnica são definidos por regulamento interno, a aprovar pelo Conselho Interministerial.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692838": {
+   "fragment_id": "222692296",
+   "type": 11,
+   "heading": "Artigo 5.º — Designação",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 5.º — Designação\n\nO Ministro da Saúde é o membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692839": {
+   "fragment_id": "222692297",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 6.º — Competências\n\nCompete ao Ministro da Saúde, na qualidade de membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool, promover a articulação e a coordenação da acção do Governo em matéria de droga, toxicodependências e uso nocivo de álcool, em tudo o que não esteja especialmente cometido ao Conselho Interministerial, nomeadamente:\n\na) Coordenar a elaboração das propostas dos principais instrumentos programáticos em matéria de toxicodependências, em particular a Estratégia Nacional de Luta contra a Droga e as Toxicodependências e os planos de acção anuais e plurianuais desta matéria, bem como os relativos ao uso nocivo do álcool, para posterior apresentação ao Conselho Interministerial;\n\nb) Apresentar ao Conselho Interministerial o relatório anual sobre a execução da estratégia nacional de luta contra a droga;\n\nc) Garantir e fomentar a articulação entre os membros do Governo na execução da estratégia nacional de luta contra a droga, bem como a integração das prioridades definidas nos planos de actividades dos organismos estatais relevantes;\n\nd) Apresentar ao Conselho Interministerial iniciativas ou projectos concretos de execução da Estratégia Nacional de Luta contra a Droga e as Toxicodependências e do Plano Nacional para a Redução dos Problemas Ligados ao Álcool.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692850": {
+   "fragment_id": "222692298",
+   "type": 1,
+   "heading": "Capítulo III — Coordenador Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "### Capítulo III — Coordenador Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692840": {
+   "fragment_id": "222692299",
+   "type": 11,
+   "heading": "Artigo 7.º — Objecto",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 7.º — Objecto\n\nÉ criado o cargo de Coordenador Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool, adiante designado por Coordenador Nacional, cuja actividade visa garantir uma eficaz coordenação e articulação entre os vários departamentos governamentais envolvidos nos problemas relacionados com a droga, as toxicodependências e o uso nocivo do álcool.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692841": {
+   "fragment_id": "222692300",
+   "type": 11,
+   "heading": "Artigo 8.º — Inerência de funções",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 8.º — Inerência de funções\n\nO Coordenador Nacional é, por inerência de funções, o presidente do conselho directivo do Instituto da Droga e da Toxicodependência, I. P. (IDT).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692842": {
+   "fragment_id": "222692301",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 9.º — Competências\n\nCompete ao Coordenador Nacional:\n\na) Propor ao Ministro da Saúde os principais instrumentos programáticos em matéria de droga, toxicodependências e uso nocivo de álcool, em particular a Estratégia Nacional de Luta contra a Droga e o Plano Nacional para a Redução dos Problemas Ligados ao Álcool, bem como os planos de acção anuais e plurianuais;\n\nb) Elaborar e apresentar ao Ministro da Saúde o relatório anual sobre a execução da Estratégia Nacional de Luta contra a Droga;\n\nc) Submeter ao Ministro da Saúde iniciativas ou projectos concretos de execução da Estratégia Nacional de Luta contra a Droga e do Plano Nacional para a Redução dos Problemas Ligados ao Álcool;\n\nd) Promover a articulação da intervenção dos serviços da administração central directa e indirecta, a nível nacional, regional e local, tendo em vista a concertação das acções em matéria de droga, toxicodependências e uso nocivo de álcool;\n\ne) Promover e verificar a inclusão das orientações fundamentais da Estratégia Nacional de Luta contra a Droga e do Plano Nacional para a Redução dos Problemas Ligados ao Álcool nos planos de acção dos organismos públicos e privados com responsabilidades em tal matéria;\n\nf) Assegurar, em articulação com o IDT, a representação de Portugal a nível governamental nas instâncias internacionais e em especial no conselho de administração do Observatório Europeu da Droga e da Toxicodependência, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros na formulação e na condução da política externa.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692851": {
+   "fragment_id": "222692303",
+   "type": 1,
+   "heading": "Capítulo IV — Conselho Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "### Capítulo IV — Conselho Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692843": {
+   "fragment_id": "222692304",
+   "type": 11,
+   "heading": "Artigo 11.º — Objecto",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 11.º — Objecto\n\nO Conselho Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool, adiante designado por Conselho Nacional, é o órgão de consulta do Primeiro-Ministro e do Governo sobre as políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool, competindo-lhe pronunciar-se sobre a definição e execução dos principais instrumentos programáticos nestas matérias, bem como sobre todos os assuntos que sobre as mesmas lhe sejam submetidos pelo Primeiro-Ministro e pelo membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692844": {
+   "fragment_id": "222692305",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - O Conselho Nacional é presidido pelo Primeiro-Ministro, com faculdade de delegação no membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool, e integra, para além do presidente do conselho directivo do IDT, os representantes das seguintes instituições, entidades e organizações:\n\na) Governos das Regiões Autónomas dos Açores e da Madeira;\n\nb) Conselho Superior da Magistratura;\n\nc) Procuradoria-Geral da República;\n\nd) Associação Nacional de Municípios Portugueses;\n\ne) Associação Nacional de Freguesias;\n\nf) Conselho de Reitores das Universidades Portuguesas;\n\ng) Conselho Coordenador dos Institutos Superiores Politécnicos;\n\nh) Associação Portuguesa do Ensino Superior Privado;\n\ni) Conferência Episcopal;\n\nj) Igrejas e comunidades religiosas radicadas no País;\n\nl) União das Misericórdias;\n\nm) União das Instituições Particulares de Solidariedade Social;\n\nn) Federação Portuguesa das Instituições Ligadas ao Combate à Droga e à Toxicodependência;\n\no) União das Mutualidades Portuguesas;\n\np) Associações de profissionais que intervenham no domínio da droga e da toxicodependência;\n\nq) Associações cívicas que intervenham no domínio da luta contra a sida;\n\nr) Conselho Nacional da Juventude;\n\ns) Associações de estudantes do ensino superior e do ensino secundário;\n\nt) Confederação Nacional das Associações de Pais;\n\nu) Confederação Nacional das Associações de Famílias;\n\nv) Sindicato dos Jornalistas.\n\nx) Federação Nacional das Associações Juvenis Locais;\n\nz) Representantes da indústria e comércio de bebidas contendo álcool.\n\n2 - O Conselho Nacional integra ainda cinco personalidades a designar pelo Primeiro-Ministro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692845": {
+   "fragment_id": "222692306",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 13.º — Competências\n\nCompete ao Conselho Nacional:\n\na) Pronunciar-se, a título consultivo, sobre a definição e a execução dos principais instrumentos programáticos em matéria de droga, toxicodependências e uso nocivo do álcool, nomeadamente sobre a Estratégia Nacional de Luta contra a Droga e as Toxicodependências, o Plano para a Redução dos Problemas Ligados ao Álcool e respectivas alterações;\n\nb) Pronunciar-se, a título consultivo, sobre o plano de acção plurianual e o plano anual de desenvolvimento e ainda sobre o relatório anual de execução da Estratégia Nacional de Luta contra a Droga e as Toxicodependências e do Plano para a Redução dos Problemas Ligados ao Álcool, apresentados pelo membro do Governo responsável pela coordenação da política relacionadas com a droga, as toxicodependências e o uso nocivo do álcool;\n\nc) Pronunciar-se, quando solicitado, sobre acções, iniciativas ou projectos concretos de execução da Estratégia Nacional de Luta contra a Droga e as Toxicodependências e do Plano para a Redução dos Problemas Ligados ao Álcool.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692846": {
+   "fragment_id": "222692307",
+   "type": 11,
+   "heading": "Artigo 14.º — Funcionamento",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 14.º — Funcionamento\n\n1 - O Conselho Nacional reúne sempre que convocado pelo Primeiro-Ministro ou pelo membro do Governo responsável pela coordenação das políticas relacionadas com a droga, as toxicodependências e o uso nocivo do álcool.\n\n2 - A participação no Conselho Nacional não é remunerada.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692847": {
+   "fragment_id": "222692309",
+   "type": 11,
+   "heading": "Artigo 15.º — Extinção",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 15.º — Extinção\n\n1 - É extinta a Missão para o Acompanhamento da Participação Portuguesa no Grupo Pompidou, criada e regulada pela Resolução do Conselho de Ministros n.º 30/2000, de 18 de Maio.\n\n2 - As atribuições da Missão transitam para o Coordenador Nacional para os Problemas da Droga, das Toxicodependências e do Uso Nocivo do Álcool.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692848": {
+   "fragment_id": "222692310",
+   "type": 11,
+   "heading": "Artigo 16.º — Apoio administrativo",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 16.º — Apoio administrativo\n\nO apoio administrativo ao funcionamento do Conselho Interministerial e do Conselho Nacional é prestado pelo IDT.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692806": {
+   "fragment_id": "222692313",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - José David Gomes Justino - Pedro Lynce de Faria - Luís Filipe Pereira - António José de Castro Bagão Félix - Isaltino Afonso de Morais.\n\nPromulgado em 20 de Dezembro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Dezembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "222692867": {
+   "fragment_id": "222692290",
+   "type": 1,
+   "heading": "Capítulo I — Conselho Interministerial para os Comportamentos Aditivos e as Dependências",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "### Capítulo I — Conselho Interministerial para os Comportamentos Aditivos e as Dependências\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692852": {
+   "fragment_id": "222692291",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei cria o Conselho Interministerial para os Comportamentos Aditivos e as Dependências, adiante designado por Conselho Interministerial, órgão de coordenação interministerial das políticas relacionadas com os comportamentos aditivos e as dependências, definindo ainda a sua natureza, a sua composição, as suas competências e o seu funcionamento.\n\n2 - O âmbito de atuação do Conselho Interministerial inclui:\n\na) O uso de substâncias psicoativas ilícitas e de novas substâncias psicoativas;\n\nb) O uso de substâncias psicoativas lícitas;\n\nc) Padrões comportamentais associados às práticas de jogo, bem como ao uso problemático de ecrãs e Internet;\n\nd) Outros comportamentos potencialmente aditivos que sejam consagrados como tal nas classificações de doenças.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692853": {
+   "fragment_id": "222692292",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 2.º — Composição\n\nO Conselho Interministerial é presidido pelo Primeiro-Ministro e é composto pelo coordenador nacional para os Comportamentos Aditivos e as Dependências e pelos membros do Governo responsáveis pelas seguintes áreas:\n\na) Dos negócios estrangeiros;\n\nb) Das finanças;\n\nc) Da defesa nacional;\n\nd) Da administração interna;\n\ne) Da justiça;\n\nf) Da economia;\n\ng) Da agricultura;\n\nh) Do ambiente;\n\ni) Do trabalho;\n\nj) Da segurança social;\n\nl) Da saúde;\n\nm) Da educação;\n\nn) Da ciência e do ensino superior.\n\no) Da igualdade e migrações;\n\np) Da juventude e desporto;\n\nq) Da habitação;\n\nr) Da coesão territorial.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692854": {
+   "fragment_id": "222692293",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 3.º — Competências\n\nCompete ao Conselho Interministerial coordenar a definição e a eficaz execução de políticas relacionadas com a droga, as toxicodependências e o uso nocivo de Compete ao Conselho Interministerial coordenar a definição e a execução de políticas relacionadas com os comportamentos aditivos e as dependências, em especial:\n\na) Apreciar e aprovar a proposta do Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências, as propostas dos respetivos planos de ação plurianuais, bem como outros documentos estratégicos considerados relevantes nestas matérias, propondo-os ao Conselho de Ministros;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Garantir e promover a articulação interdepartamental na execução do Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências e respetivos planos de ação, bem como a integração das prioridades neles definidas nos planos de atividades dos organismos estatais relevantes;\n\nf) Assegurar a articulação interministerial das políticas prosseguidas pelos diversos ministérios competentes em matéria dos comportamentos aditivos e das dependências, garantindo orientações harmonizadas para os serviços;\n\ng) (Revogada.)\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692855": {
+   "fragment_id": "222692294",
+   "type": 11,
+   "heading": "Artigo 4.º — Funcionamento",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 4.º — Funcionamento\n\n1 - O Conselho Interministerial reúne, ordinariamente, uma vez por ano e, extraordinariamente, sempre que for convocado pelo Primeiro-Ministro.\n\n2 - Junto do Conselho Interministerial funciona uma comissão técnica, composta por um representante de cada um dos membros do Governo referidos no artigo 2.º, presidida pelo coordenador nacional para os Comportamentos Aditivos e as Dependências.\n\n3 - As competências e o funcionamento da comissão técnica são definidos por regulamento interno, a aprovar pelo Conselho Interministerial.\n\n4 - A comissão técnica pode criar subcomissões para a apoiarem no domínio das respetivas áreas de especialização.\n\n5 - O modelo, a composição e o funcionamento das subcomissões são definidos por regulamento, a aprovar pela comissão técnica.\n\n6 - Por convite do presidente da comissão técnica, podem participar nos trabalhos das subcomissões representantes das entidades que integram o Conselho Nacional para a Redução dos Comportamentos Aditivos e das Dependências, do Fórum Nacional Álcool e Saúde e de outros fora ou plataformas representativas de todas as partes interessadas.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692856": {
+   "fragment_id": "222692296",
+   "type": 11,
+   "heading": "Artigo 5.º — Designação",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 5.º — Designação\n\nO membro do Governo responsável pela área da saúde coordena as políticas relacionadas com os comportamentos aditivos e as dependências.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692857": {
+   "fragment_id": "222692297",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 6.º — Competências\n\nCompete ao membro do Governo responsável pela área da saúde promover a articulação da ação do Governo em matéria dos comportamentos aditivos e das dependências, em tudo o que não esteja especialmente cometido ao Conselho Interministerial, nomeadamente:\n\na) Coordenar a elaboração das propostas dos principais instrumentos programáticos em matéria dos comportamentos aditivos e das dependências, em particular do Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências e dos respetivos planos de ação plurianuais, para posterior apresentação ao Conselho Interministerial;\n\nb) (Revogada.)\n\nc) Garantir e fomentar a articulação entre os membros do Governo na execução do Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências e respetivos planos de ação, bem como a integração das prioridades neles definidas nos planos de atividades dos organismos estatais relevantes;\n\nd) (Revogada.)\n\ne) Aprovar o relatório anual sobre a situação do País em matéria dos comportamentos aditivos e das dependências, a apresentar à Assembleia da República pelo coordenador nacional.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692868": {
+   "fragment_id": "222692298",
+   "type": 1,
+   "heading": "Capítulo III — coordenador nacional para os Comportamentos Aditivos e as Dependências",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "### Capítulo III — coordenador nacional para os Comportamentos Aditivos e as Dependências\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692858": {
+   "fragment_id": "222692299",
+   "type": 11,
+   "heading": "Artigo 7.º — Coordenador nacional para os Comportamentos Aditivos e as Dependências",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 7.º — Coordenador nacional para os Comportamentos Aditivos e as Dependências\n\nO coordenador nacional para os Comportamentos Aditivos e as Dependências, adiante designado por coordenador nacional, visa garantir uma eficaz coordenação e articulação entre os diversos serviços da Administração Pública e áreas governativas envolvidas nos temas relacionados com os comportamentos aditivos e as dependências.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692859": {
+   "fragment_id": "222692300",
+   "type": 11,
+   "heading": "Artigo 8.º — Inerência de funções",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 8.º — Inerência de funções\n\nO coordenador nacional é, por inerência de funções, o presidente do conselho diretivo do Instituto para os Comportamentos Aditivos e as Dependências, I. P. (ICAD, I. P.).\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692860": {
+   "fragment_id": "222692301",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 9.º — Competências\n\nCompete ao Coordenador Nacional:\n\na) Propor ao membro do Governo responsável pela área da saúde os principais instrumentos programáticos em matéria dos comportamentos aditivos e das dependências, em particular a proposta de Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências, bem como as propostas dos respetivos planos de ação plurianuais;\n\nb) Elaborar e apresentar ao membro do Governo responsável pela área da saúde o relatório anual sobre a situação do País em matéria dos comportamentos aditivos e das dependências;\n\nc) (Revogada.)\n\nd) Garantir e promover a articulação da intervenção dos serviços da administração central direta e indireta, a nível nacional, regional e local, tendo em vista a concertação das ações em matéria dos comportamentos aditivos e das dependências;\n\ne) Promover e verificar a inclusão das orientações fundamentais do Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências e seus planos de ação plurianuais, nos planos de ação dos organismos públicos e entidades privadas com responsabilidades em tal matéria;\n\nf) Assegurar, em articulação com o ICAD, I. P., a representação de Portugal a nível governamental nas instâncias internacionais, sem prejuízo das atribuições do Ministério dos Negócios Estrangeiros na preparação e execução da política externa portuguesa.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692861": {
+   "fragment_id": "222692302",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01"
+   ],
+   "markdown": "###### Artigo 10.º — Funcionamento\n\n1 - O coordenador nacional exerce funções junto do membro do Governo responsável pela área da saúde.\n\n2 - Os serviços e entidades dos setores público, privado e social colaboram com o coordenador nacional sempre que solicitado, designadamente executando as medidas definidas, facilitando a integração dos instrumentos programáticos de orientação em matéria dos comportamentos aditivos e das dependências nos respetivos programas de trabalho e fornecendo os dados e as informações que lhes sejam solicitadas.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01"
+  },
+  "222692869": {
+   "fragment_id": "222692303",
+   "type": 1,
+   "heading": "Capítulo IV — Conselho Nacional para os Comportamentos Aditivos e as Dependências",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "### Capítulo IV — Conselho Nacional para os Comportamentos Aditivos e as Dependências\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692862": {
+   "fragment_id": "222692304",
+   "type": 11,
+   "heading": "Artigo 11.º — Objecto",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 11.º — Objecto\n\nO Conselho Nacional para os Comportamentos Aditivos e as Dependências, adiante designado por Conselho Nacional, é o órgão de consulta do Primeiro-Ministro e do Governo sobre as políticas relacionadas com os comportamentos aditivos e as dependências, competindo-lhe pronunciar-se sobre a definição e execução dos principais instrumentos programáticos nestas matérias, bem como sobre todos os assuntos que sobre as mesmas lhe sejam submetidos pelo Primeiro-Ministro e pelo membro do Governo responsável pela área da saúde.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692863": {
+   "fragment_id": "222692305",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - O Conselho Nacional é presidido pelo Primeiro-Ministro, com faculdade de delegação no membro do Governo responsável pela área da saúde que pode subdelegar, e integra, para além do coordenador nacional, um representante de cada uma das seguintes instituições, entidades e organizações:\n\na) Governos das Regiões Autónomas dos Açores e da Madeira;\n\nb) Conselho Superior da Magistratura;\n\nc) Procuradoria-Geral da República;\n\nd) Associação Nacional de Municípios Portugueses;\n\ne) Associação Nacional de Freguesias;\n\nf) Conselho de Reitores das Universidades Portuguesas;\n\ng) Conselho Coordenador dos Institutos Superiores Politécnicos;\n\nh) Associação Portuguesa do Ensino Superior Privado;\n\ni) Conselho de Escolas;\n\nj) Conferência Episcopal;\n\nk) Igrejas e comunidades religiosas radicadas no País;\n\nl) União das Misericórdias Portuguesas;\n\nm) Confederação Nacional das Instituições de Solidariedade;\n\nn) Federações portuguesas das instituições ligadas aos comportamentos aditivos e às dependências;\n\no) União das Mutualidades Portuguesas;\n\np) Associações de profissionais que intervenham nos domínios dos comportamentos aditivos e das dependências;\n\nq) Associações cívicas que intervenham na área do VIH e das hepatites virais;\n\nr) Associações cívicas que intervenham no domínio dos comportamentos aditivos e das dependências;\n\ns) Associações de cidadãos afetados pelos comportamentos aditivos e pelas dependências;\n\nt) Conselho Nacional da Juventude;\n\nu) Associações de estudantes do ensino secundário;\n\nv) Associações de estudantes do ensino politécnico;\n\nw) Associações de estudantes do ensino universitário;\n\nx) Confederação Nacional das Associações de Pais;\n\ny) Confederação Nacional das Associações de Famílias;\n\nz) Sindicato dos Jornalistas.\n\naa) Federação Nacional das Associações Juvenis Locais;\n\nbb) Representantes da indústria e comércio de bebidas contendo álcool.\n\ncc) Representantes dos operadores do jogo;\n\ndd) Representantes das farmácias portuguesas;\n\nee) Representantes das Ordens Profissionais.\n\n2 - O Conselho Nacional integra ainda cinco personalidades a designar pelo Primeiro-Ministro.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692864": {
+   "fragment_id": "222692306",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 13.º — Competências\n\nCompete ao Conselho Nacional:\n\na) Pronunciar-se, a título consultivo, sobre a definição e a execução dos principais instrumentos programáticos em matéria dos comportamentos aditivos e das dependências, nomeadamente sobre a proposta de Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências e sobre as propostas dos respetivos planos de ação plurianuais e suas alterações;\n\nb) Pronunciar-se, a título consultivo, sobre o relatório anual da situação do País em matéria dos comportamentos aditivos e das dependências, a apresentar à Assembleia da República pelo membro do Governo responsável pela área da saúde;\n\nc) Pronunciar-se, quando solicitado, sobre ações, iniciativas ou projetos concretos de execução do Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências e respetivos planos de ação plurianuais.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692865": {
+   "fragment_id": "222692307",
+   "type": 11,
+   "heading": "Artigo 14.º — Funcionamento",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 14.º — Funcionamento\n\n1 - O Conselho Nacional reúne sempre que convocado pelo Primeiro-Ministro, pelo membro do Governo responsável pela área da saúde ou pelo coordenador nacional para os Comportamentos Aditivos e as Dependências.\n\n2 - A participação no Conselho Nacional não é remunerada.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  },
+  "222692866": {
+   "fragment_id": "222692310",
+   "type": 11,
+   "heading": "Artigo 16.º — Apoio administrativo",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 16.º — Apoio administrativo\n\nO apoio administrativo ao funcionamento do Conselho Interministerial e do Conselho Nacional é prestado pelo ICAD, I. P.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2010 - Diário da República n.º 82/2010, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2010-614165), em vigor a partir de 2010-04-29"
+  }
+ }
+}

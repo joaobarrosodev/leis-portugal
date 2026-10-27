@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:666117:por
+title: Portaria n.º 317/87
+short_title: null
+summary: Altera o quadro de pessoal do Departamento de Recursos Humanos na parte referente ao pessoal de enfermagem
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Saúde
+proposing_entity: null
+official_number: 317/87
+official_date: null
+publication_date: '1987-04-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 89/1987, Série I de 1987-04-16
+  number: '89'
+  series: I
+  supplement: null
+  pages: 1559 - 1559
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/04/08900/15591559.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '666117'
+  dre_path: /dr/detalhe/portaria/317-1987-666117
+  internal: pt:dre:666117:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-1987-666117
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-1987-666117
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:05:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b3fefe0407bd26dbd1de1be7902ce83b695376718fb5eaa724f606a64db48e88
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:05:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Departamento de Recursos Humanos
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:175514:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:287382:por
+  label: Alterado o quadro de pessoal do Departamento de Recursos Humanos da Saúde, aprovado pelo Dec Lei 513-V/79, de 27-dez,
+    alterado pela presente, pelo(a) Portaria n.º 147/88 - Diário da República n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: cites
+  target: pt:dre:147383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:05:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 317/87
+
+de 16 de Abril
+
+Em execução do n.º 1 do artigo 19.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, e ainda em conformidade com o n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde, que o quadro de pessoal do Departamento de Recursos Humanos, anexo ao [Decreto-Lei n.º 513-V/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-v-1979-147383), de 27 de Dezembro, seja alterado de acordo com o quadro anexo à presente portaria, na parte referente ao pessoal de enfermagem.
+
+Ministérios das Finanças e da Saúde.
+
+Assinada em 25 de Março de 1987.
+
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+
+Quadro do Departamento de Recursos Humanos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/08900/15591559.pdf)

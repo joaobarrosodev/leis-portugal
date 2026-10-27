@@ -1,0 +1,811 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1050874165:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2026-1051076679",
+ "dre_path": "/dr/detalhe/decreto-lei/40-a-2026-1050874165",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2026-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1075294793:por",
+     "title": "Decreto-Lei n.º 79-A/2026",
+     "published": "2026-03-20",
+     "dre_path": "/dr/detalhe/decreto-lei/79-a-2026-1075294793"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 28.º-A",
+    "Adita Artigo 28.º-B",
+    "Adita Artigo 28.º-C",
+    "Adita Artigo 28.º-D",
+    "Adita Artigo 28.º-E",
+    "Adita Artigo 28.º-F",
+    "Adita Artigo 28.º-G",
+    "Adita Artigo  28.º-H",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "1051084875",
+    "1051085075",
+    "1051085275",
+    "1051085475",
+    "1051085675",
+    "1051085875",
+    "1051086075",
+    "1051086275",
+    "1051086475",
+    "1051086675",
+    "1051086875",
+    "1051087075",
+    "1051087275",
+    "1051087475",
+    "1080914775",
+    "1051087875",
+    "1080914975",
+    "1080912275",
+    "1080912475",
+    "1080912575",
+    "1080912675",
+    "1080912775",
+    "1051089075",
+    "1080915175",
+    "1051089475",
+    "1051089675",
+    "1051089875",
+    "1051090075",
+    "1051090275",
+    "1051090475",
+    "1051090675",
+    "1051090875",
+    "1051091075",
+    "1051091275",
+    "1051091475",
+    "1051091675",
+    "1051091875",
+    "1080912975",
+    "1080915475",
+    "1080913375",
+    "1080917775",
+    "1080918175",
+    "1080915875",
+    "1080918775",
+    "1080916275",
+    "1080916475",
+    "1051092275"
+   ]
+  },
+  {
+   "date": "2026-07-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1145969707:por",
+     "title": "Decreto-Lei n.º 140/2026",
+     "published": "2026-07-10",
+     "dre_path": "/dr/detalhe/decreto-lei/140-2026-1145969707"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "1086145375",
+    "1051085075",
+    "1086145575",
+    "1051085475",
+    "1051085675",
+    "1051085875",
+    "1051086075",
+    "1086145775",
+    "1051086475",
+    "1051086675",
+    "1051086875",
+    "1051087075",
+    "1051087275",
+    "1146711375",
+    "1146711575",
+    "1051087875",
+    "1080914975",
+    "1080912275",
+    "1080912475",
+    "1080912575",
+    "1080912675",
+    "1080912775",
+    "1051089075",
+    "1080915175",
+    "1051089475",
+    "1051089675",
+    "1086146175",
+    "1051090075",
+    "1051090275",
+    "1086146375",
+    "1051090675",
+    "1051090875",
+    "1051091075",
+    "1051091275",
+    "1086146575",
+    "1051091675",
+    "1051091875",
+    "1080912975",
+    "1080915475",
+    "1080913375",
+    "1080917775",
+    "1080918175",
+    "1080915875",
+    "1080918775",
+    "1080916275",
+    "1080916475",
+    "1051092275"
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1172319751:por",
+     "title": "Decreto-Lei n.º 191/2026",
+     "published": "2026-09-22",
+     "dre_path": "/dr/detalhe/decreto-lei/191-2026-1172319751"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 25.º",
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "1086145375",
+    "1051085075",
+    "1086145575",
+    "1051085475",
+    "1051085675",
+    "1051085875",
+    "1051086075",
+    "1086145775",
+    "1051086475",
+    "1051086675",
+    "1051086875",
+    "1051087075",
+    "1051087275",
+    "1146711375",
+    "1146711575",
+    "1051087875",
+    "1080914975",
+    "1080912275",
+    "1080912475",
+    "1080912575",
+    "1080912675",
+    "1080912775",
+    "1051089075",
+    "1080915175",
+    "1051089475",
+    "1051089675",
+    "1086146175",
+    "1051090075",
+    "1051090275",
+    "1086146375",
+    "1051090675",
+    "1051090875",
+    "1051091075",
+    "1173121175",
+    "1086146575",
+    "1051091675",
+    "1051091875",
+    "1080912975",
+    "1080915475",
+    "1080913375",
+    "1080917775",
+    "1080918175",
+    "1080915875",
+    "1080918775",
+    "1080916275",
+    "1173121375",
+    "1051092275"
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1183482554:por",
+     "title": "Decreto-Lei n.º 202/2026",
+     "published": "2026-10-20",
+     "dre_path": "/dr/detalhe/decreto-lei/202-2026-1183482554"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "1086145375",
+    "1051085075",
+    "1086145575",
+    "1051085475",
+    "1051085675",
+    "1051085875",
+    "1051086075",
+    "1086145775",
+    "1051086475",
+    "1051086675",
+    "1051086875",
+    "1051087075",
+    "1051087275",
+    "1183929475",
+    "1183929675",
+    "1051087875",
+    "1080914975",
+    "1080912275",
+    "1080912475",
+    "1080912575",
+    "1080912675",
+    "1080912775",
+    "1051089075",
+    "1080915175",
+    "1051089475",
+    "1051089675",
+    "1086146175",
+    "1051090075",
+    "1051090275",
+    "1086146375",
+    "1051090675",
+    "1051090875",
+    "1051091075",
+    "1173121175",
+    "1086146575",
+    "1051091675",
+    "1051091875",
+    "1080912975",
+    "1080915475",
+    "1080913375",
+    "1080917775",
+    "1080918175",
+    "1080915875",
+    "1080918775",
+    "1080916275",
+    "1173121375",
+    "1051092275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1051084875": {
+   "fragment_id": "1051084775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "No dia 28 de janeiro de 2026, registou-se em Portugal continental um fenómeno meteorológico extremo, resultante de um processo de ciclogénese explosiva de rápida intensificação, que originou ventos de elevada intensidade e precipitação excecionalmente significativa, tendo sido designado por tempestade «Kristin».\n\nOs efeitos deste fenómeno fizeram-se sentir com particular severidade em diversos territórios, especialmente na região centro do país, causando danos extensos em habitações, infraestruturas e equipamentos públicas e privadas, no património natural e cultural, bem como perturbações significativas na normalidade da vida e nas atividades económicas das populações afetadas.\n\nAtendendo à gravidade da situação verificada, foi declarada a situação de calamidade, através da Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro, prorrogada pelas Resoluções do Conselho de Ministros n.<sup>os </sup>15-C/2026, de 1 de fevereiro, e 24-A/2026, de 5 de fevereiro, em virtude do agravamento das condições meteorológicas e da subsequente ocorrência ou do risco elevado de cheias graves.\n\nOs prejuízos causados, não apenas pela tempestade «Kristin», mas também pelos fenómenos hidrológicos que se lhe seguiram, impõem a criação de um regime jurídico de carácter excecional e temporário, que permita apoiar, de forma célere e eficaz, os diversos setores da sociedade afetados, designadamente as famílias, as empresas e as instituições da economia social, assegurando a recuperação e a revitalização das áreas atingidas.\n\nNeste sentido, o XXV Governo Constitucional adota medidas inovadoras de agilização do processo de reconstrução e do quadro de apoios em curso, perspetivado para o próximo ano.\n\nA reposição da normalidade constitui uma prioridade nacional imediata, exigindo a reconstrução urgente de infraestruturas e equipamentos essenciais, bem como a satisfação de necessidades básicas indispensáveis à continuidade da vida quotidiana e da atividade económica nos concelhos abrangidos pela situação de calamidade.\n\nAs referidas medidas espraiam-se por diversos regimes legais, os quais, atenta a urgência da situação atualmente vivida não podem deixar de ser adaptados para garantir a prossecução dos objetivos nacionais de célere revitalização das áreas afetadas.\n\nAssim, procede-se à criação de um regime excecional de contratação pública, permitindo, designadamente, para efeitos de celebração de contratos de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços, destinados à realização das intervenções necessárias à reconstrução e reabilitação das áreas afetadas e à prestação de apoio às populações, que as entidades adjudicantes possam adotar procedimentos de ajuste direto, independentemente do seu valor, e ainda, em caso de urgência absolutamente inadiável, procedimentos de ajuste direto simplificado, até ao limite de € 500 000,00, para a formação de contratos de empreitada e até ao limite de € 100 000,00, para os demais contratos.\n\nEm paralelo, o XXV Governo Constitucional procurou eliminar quaisquer entraves à célere tramitação dos procedimentos pré-contratuais acima referidos, estabelecendo um regime excecional de autorização de despesa, assente, designadamente, na previsão do deferimento de tácito dos pedidos de autorização da tutela financeira e setorial, quando exigíveis por lei.\n\nSimultaneamente, com vista à agilização do processo de reconstrução dos bens imóveis afetados, prevê-se a isenção de licença ou de comunicação prévia, bem como a não sujeição a avaliação de impacte ambiental dos respetivos projetos, sem prejuízo da obrigatoriedade de cumprimento das normas aplicáveis constantes dos regimes urbanísticos e de ordenamento do território em vigor, cujo cumprimento não deixará de ser aferido a posteriori.\n\nAtendendo à urgência das intervenções e com vista ao reforço de meios disponíveis, estabelece-se ainda, a título excecional, a possibilidade de as empresas habilitadas por título de alvará poderem executar obras correspondentes à classe imediatamente superior àquela que detêm, bem como a faculdade de prorrogação dos prazos de execução das empreitadas de obras públicas.\n\nPor outro lado, é admitida a suspensão dos prazos definidos para empreitadas em curso, em período nunca superior a seis meses, sempre que a assunção de compromissos para a reconstrução de infraestruturas ou equipamentos seja inviabilizada pela carência de recursos técnicos ou materiais. No caso de se tratar de um projeto financiado ou cofinanciado por fundos europeus, aquela faculdade não afasta o dever de executar pontualmente o contrato.\n\nAo abrigo do presente decreto-lei, as entidades da Administração Pública responsáveis pela gestão de imóveis integrados no domínio privado do Estado ficam autorizadas a proceder à cedência, a título gratuito ou oneroso, de imóveis da sua titularidade, para efeitos de acolhimento de pessoas em situação de vulnerabilidade, bem como para a prossecução de atividades económicas desenvolvidas por entidades públicas ou privadas cuja atividade tenha sido afetada.\n\nSão adotadas medidas com vista a garantir o aprovisionamento de géneros alimentares essenciais, autorizando os grossistas a proceder à venda direta ao público em regime de retalho.\n\nAdicionalmente, o XXV Governo Constitucional entendeu garantir a continuidade da prestação de serviços públicos essenciais, impedindo a sua interrupção, suspensão ou limitação por motivo de incumprimento no pagamento, bem como permitir, no domínio dos serviços de comunicações eletrónicas, a suspensão temporária dos contratos sem penalizações e a adoção de mecanismos de regularização de dívidas ajustados à capacidade económica dos utilizadores finais, sem aplicação de juros de mora.\n\nProcede-se, ainda, à suspensão dos prazos para a prática de atos procedimentais, com exceção dos respeitantes ao exercício de direitos fundamentais.\n\nAs medidas ora previstas não prejudicam, contudo, o exercício de controlo sucessivo nas matérias urbanística, ambiental e financeira, nem afastam a eventual responsabilidade financeira, civil ou criminal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1051085075": {
+   "fragment_id": "1051084975",
+   "type": 1,
+   "heading": "Capítulo I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DISPOSIÇÕES GERAIS"
+  },
+  "1051085275": {
+   "fragment_id": "1051085175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime excecional e temporário de simplificação administrativa e financeira destinado à reconstrução e reabilitação de património e infraestruturas localizadas nos concelhos afetados pela tempestade «Kristin», abrangendo designadamente, medidas de gestão e agilização contratual e orçamental, do urbanismo e do ambiente, medidas de apoio à atividade económica, e, ainda, outras intervenções necessárias ao restabelecimento das condições de vida das populações e ao funcionamento das infraestruturas."
+  },
+  "1051085475": {
+   "fragment_id": "1051085375",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\n1 - O presente regime aplica-se aos concelhos territorialmente abrangidos pela declaração de situação de calamidade, constante da Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro, e respetivas prorrogações e alargamentos territoriais.\n\n2 - O disposto no número anterior não prejudica a aplicação dos regimes cujo âmbito não esteja confinado à delimitação territorial da declaração de calamidade, embora apresente uma conexão material ou funcional com aquela, tais como os resultantes dos artigos 20.º, 21.º e 26.º"
+  },
+  "1051085675": {
+   "fragment_id": "1051085575",
+   "type": 1,
+   "heading": "Capítulo II — REGIME EXCECIONAL DE SIMPLIFICAÇÃO ADMINISTRATIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — REGIME EXCECIONAL DE SIMPLIFICAÇÃO ADMINISTRATIVA"
+  },
+  "1051085875": {
+   "fragment_id": "1051085775",
+   "type": 11,
+   "heading": "Artigo 3.º — Contratação pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contratação pública\n\n1 - O presente regime é aplicável à formação de quaisquer contratos sujeitos a regimes de contratação pública, designadamente, os de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços, independentemente da natureza da entidade adjudicante, destinados à realização das intervenções necessárias à reconstrução e reabilitação das áreas afetadas e à prestação de apoio às populações.\n\n2 - As entidades adjudicantes podem, para efeitos de celebração dos contratos referidos no número anterior, adotar o procedimento de ajuste direto, regulado pelos artigos 112.º a 127.º do Código dos Contratos Públicos (CCP).\n\n3 - Em caso de urgência absolutamente inadiável, designadamente, para a salvaguarda de pessoas e bens, as entidades adjudicantes podem, ainda, adotar o procedimento de ajuste direto simplificado, regulado pelos artigos 128.º e 129.º do CCP:\n\na) Na formação de contratos de empreitada de obras públicas cujo preço contratual, sem imposto sobre o valor acrescentado (IVA), seja igual ou inferior a € 500 000,00;\n\nb) Na formação de contratos de locação ou aquisição de bens móveis ou de aquisição de serviços cujo preço contratual, sem IVA, seja igual ou inferior a € 100 000,00.\n\n4 - Nos procedimentos de ajuste direto simplificado para a formação de contratos cujo preço contratual seja igual ou superior aos previstos no n.º 1 do artigo 128.º do CCP, as partes devem, antes do início da execução das prestações, proceder à estipulação e redução a escrito da descrição sumária do objeto, do prazo de execução do contrato e do preço contratual.\n\n5 - Aos procedimentos de formação de contratos abrangidos pelo presente decreto-lei não se aplica o disposto nos n.<sup>os </sup>2 a 4 e 6 do artigo 113.º do CCP.\n\n6 - Os contratos cujo preço contratual, sem IVA, seja igual ou superior a € 10 000,00, são publicitados no portal dos contratos públicos, mediante formulário eletrónico do qual conste identificação do objeto do contrato, do tipo de procedimento, da entidade adjudicante, do preço contratual e do prazo de execução.\n\n7 - Para a execução de contratos de empreitada de obras públicas, as empresas habilitadas por alvará de empreiteiro de obras públicas podem realizar as obras de classe imediatamente superior à do respetivo alvará.\n\n8 - No âmbito da formação de contratos ao abrigo do regime previsto no presente decreto-lei, fica dispensada a prestação de caução por parte do adjudicatário.\n\n9 - No âmbito da execução de contratos celebrados ao abrigo do regime previsto no presente decreto-lei, o contraente público pode efetuar adiantamentos de preço por conta de prestações a realizar ou de atos preparatórios ou acessórios das mesmas, sem observância dos pressupostos previstos nos n.<sup>os </sup>1 a 3 do artigo 292.º do CCP, considerando-se os adiantamentos realizados imputados aos pagamentos contratualmente previstos segundo fórmula a acordar pelas partes no momento da realização de cada adiantamento."
+  },
+  "1051086075": {
+   "fragment_id": "1051085975",
+   "type": 11,
+   "heading": "Artigo 4.º — Autorização de despesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autorização de despesa\n\n1 - Aos procedimentos de formação de contratos realizados ao abrigo do presente decreto-lei aplicam-se as seguintes regras de autorização de despesa:\n\na) Os pedidos de autorização da tutela financeira e setorial, quando exigíveis por lei e referentes ao respetivo programa orçamental, incluindo os reforços aprovados, consideram-se tacitamente deferidos, na ausência de pronúncia, logo que decorridas cinco dias após remessa, por via eletrónica, à respetiva entidade pública com competência para os autorizar;\n\nb) As decisões ao abrigo do presente decreto-lei consideram-se fundamentadas, para efeitos dos pedidos de autorização referidos na alínea anterior;\n\nc) As despesas plurianuais que resultam do presente decreto-lei consideram-se tacitamente deferidas se, após apresentação do pedido de autorização através de portaria de extensão de encargos junto do membro do Governo responsável pela área das finanças, sobre o mesmo não recair despacho de indeferimento no prazo de oito dias, competindo ao membro do Governo responsável pela área setorial os normais procedimentos de publicação;\n\nd) As alterações orçamentais que envolvam reforço, por contrapartida de outras rubricas de despesa efetiva do agrupamento 02, do respetivo programa orçamental, a que se refere a alínea c) do n.º 1 do artigo 11.º do Decreto-Lei n.º 13-A/2025, de 10 de março, ou aquele que lhe venha a suceder, são autorizados pelo membro do Governo responsável pela respetiva área setorial;\n\ne) A autorização prevista no número anterior não se aplica aos reforços do agrupamento 02 por contrapartida do agrupamento 01 - Despesas com pessoal, e encontra-se tacitamente deferida no prazo de cinco dias;\n\nf) Nos casos devidamente justificados, quando seja necessária a utilização de verbas da reserva setorial para o cumprimento do disposto no presente decreto-lei, a mesma considera-se tacitamente deferida decorridos cinco dias após apresentação do respetivo pedido.\n\n2 - O valor global dos contratos celebrados ao abrigo do presente regime não pode exceder o valor máximo de € 20 000 000,00, por ministério, salvo autorização do membro do Governo responsável pela área das finanças."
+  },
+  "1051086275": {
+   "fragment_id": "1051086175",
+   "type": 11,
+   "heading": "Artigo 5.º — Dispensa de autorização administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dispensa de autorização administrativa\n\n1 - A decisão de contratar relativa à aquisição de serviços cujo objeto sejam estudos, pareceres, projetos e serviços de consultoria, bem como de quaisquer trabalhos especializados, destinados a suportar tecnicamente ou a aconselhar a atividade de reconstrução e reabilitação das áreas afetadas e de prestação de apoio às populações não carece da autorização administrativa a que se refere o artigo 16.º da Lei n.º 73-A/2025, de 30 de dezembro.\n\n2 - O valor global dos contratos celebrados ao abrigo do presente no presente não pode exceder o montante de € 20 000 000,00 por programa orçamental, salvo autorização do membro do Governo responsável pela área das finanças."
+  },
+  "1051086475": {
+   "fragment_id": "1051086375",
+   "type": 11,
+   "heading": "Artigo 6.º — Cedência de domínio privado do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cedência de domínio privado do Estado\n\n1 - As entidades da Administração Pública que tenham a seu cargo a gestão de imóveis do domínio privado do Estado ficam autorizadas a ceder, a título gratuito ou oneroso, imóveis da sua titularidade para fins de acolhimento de pessoas em situação de vulnerabilidade ou desenvolvimento de atividades económicas por entidades públicas ou privadas cuja laboração seja afetada.\n\n2 - A cedência para os fins elencados no número anterior dispensa as formalidades prévias previstas nos artigos 53.º a 58.º do Decreto-Lei n.º 280/2007, de 7 de agosto, devendo a mesma ser comunicada ao membro do Governo responsável pela área das finanças e da tutela.\n\n3 - As entidades cedentes, para efeitos do presente artigo, ficam autorizadas a celebrar contratos de arrendamento ou de cedência de imóveis, a título transitório e gratuito, para a instalação dos seus serviços, com dispensa de formalidades prévias."
+  },
+  "1051086675": {
+   "fragment_id": "1051086575",
+   "type": 11,
+   "heading": "Artigo 7.º — Operações urbanísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Operações urbanísticas\n\n1 - As obras de reconstrução, alteração, conservação e demolição de edifícios danificados ou afetados na sequência dos eventos que desencadearam a declaração de calamidade não estão sujeitas a licença ou a comunicação prévia.\n\n2 - Os promotores das obras referidas no número anterior informam, por via eletrónica, a câmara municipal sobre o início dos trabalhos no prazo de um mês, sem mais formalidades.\n\n3 - A ocupação do espaço público para a realização das operações urbanísticas referidas no n.º 1, designadamente com tapumes, andaimes, depósitos de materiais, equipamentos, contentores ou outras instalações com elas relacionadas, não está sujeita a licença ou a comunicação prévia pelo prazo de três meses após a entrada em vigor do presente decreto-lei, desde que se destinem à salvaguarda de pessoas e bens ou sejam motivados por imperiosa necessidade pública, associada à reposição da normalidade, e sem prejuízo do cumprimento da legislação aplicável em matéria de segurança rodoviária.\n\n4 - As operações urbanísticas realizadas ao abrigo do presente artigo estão sujeitas ao cumprimento das normas, legais e regulamentares aplicáveis, designadamente as constantes dos planos de ordenamento do território e as normas técnicas de construção.\n\n5 - As empresas habilitadas por alvará de empreiteiro de obras particulares podem realizar as obras de classe imediatamente superior à do respetivo alvará no âmbito das obras e trabalhos referidos no n.º 1."
+  },
+  "1051086875": {
+   "fragment_id": "1051086775",
+   "type": 11,
+   "heading": "Artigo 8.º — Avaliação de impacte ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Avaliação de impacte ambiental\n\n1 - Os projetos nos concelhos abrangidos pelo presente decreto-lei não estão sujeitos a avaliação de impacte ambiental (AIA), desde que se destinem à reposição da situação previamente existente e licenciada aos eventos que causaram a declaração de calamidade.\n\n2 - Para efeitos do disposto no número anterior, considera-se reposição da situação previamente existente os projetos dos quais não resulte aumento da volumetria, da área ocupada ou a alteração dos usos que introduzam novos impactes.\n\n3 - O disposto no n.º 1 é aplicável aos projetos cuja localização exceda os limites territoriais dos concelhos abrangidos pela situação de calamidade, desde que parte da sua localização esteja abrangida por aqueles."
+  },
+  "1051087075": {
+   "fragment_id": "1051086975",
+   "type": 1,
+   "heading": "Capítulo III — OPERAÇÕES DE LIMPEZA E REMOÇÃO DE AMIANTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — OPERAÇÕES DE LIMPEZA E REMOÇÃO DE AMIANTO"
+  },
+  "1051087275": {
+   "fragment_id": "1051087175",
+   "type": 11,
+   "heading": "Artigo 9.º — Demolição ou remoção de estruturas que contenham amianto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Demolição ou remoção de estruturas que contenham amianto\n\nÉ suspensa, nos termos e pelo período definido no artigo seguinte, a obrigação de autorização prévia da Autoridade para as Condições de Trabalho (ACT), prevista nos artigos 11.º e 24.º do Decreto-Lei n.º 266/2007, de 24 de julho, no que respeita à realização de trabalhos em edifícios, estruturas, aparelhos, instalações, bem como em aeronaves, material circulante ferroviário, navios ou veículos danificados ou afetados, que envolvam demolição ou remoção de amianto ou de materiais que o contenham, nomeadamente:\n\na) Demolição de construções em que existe amianto ou materiais que contenham amianto;\n\nb) Desmontagem de máquinas ou ferramentas em que existe amianto ou materiais que contenham amianto;\n\nc) Remoção do amianto ou de materiais que contenham amianto de instalações, estruturas, edifícios ou equipamentos, bem como aeronaves, material circulante ferroviário, navios ou veículos;\n\nd) Manutenção e reparação de materiais que contenham amianto existentes em instalações, estruturas, edifícios ou equipamentos, bem como em aeronaves, carruagens de comboios, navios ou veículos;\n\ne) Transporte, tratamento e eliminação de resíduos que contenham amianto;\n\nf) Aterros autorizados para resíduos de amianto."
+  },
+  "1051087475": {
+   "fragment_id": "1051087375",
+   "type": 11,
+   "heading": "Artigo 10.º — Suspensão de autorização prévia em demolição ou remoção de estruturas que contenham amianto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Suspensão de autorização prévia em demolição ou remoção de estruturas que contenham amianto\n\n1 - O disposto nos artigos 11.º e 24.º do Decreto-Lei n.º 266/2007, de 24 de julho, relativo à autorização prévia da ACT para a realização dos trabalhos que envolvam demolição ou remoção de amianto ou de materiais que o contenham, fica suspenso pelo período de três meses seguintes à declaração da situação de calamidade, sem prejuízo de eventual prorrogação.\n\n2 - Durante o período de suspensão referido no número anterior, é aplicável o disposto no artigo 3.º do Decreto-Lei n.º 266/2007, de 24 de julho, referente à notificação obrigatória à ACT, a qual deve ser feita até ao início dos trabalhos.\n\n3 - As demais obrigações em matéria de segurança e saúde no trabalho mantêm-se em vigor, nomeadamente a garantia do cumprimento do valor limite de exposição previsto no artigo 4.º do Decreto-Lei n.º 266/2007, de 24 de julho, que não deve ser ultrapassado, bem como a adoção das medidas preventivas de modo a limitar a exposição dos trabalhadores às poeiras de amianto ou de materiais que contenham amianto, ajustados os processos aplicados."
+  },
+  "1080914775": {
+   "fragment_id": "1051087575",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão parcial das disposições previstas no Regime Geral de Gestão de Resíduos",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 11.º — Suspensão parcial das disposições previstas no Regime Geral de Gestão de Resíduos\n\n1 - Por um período de três meses a contar da declaração de situação de calamidade, sem prejuízo de eventual prorrogação, e para os resíduos resultantes da destruição, ficam suspensas as seguintes disposições do Regime Geral de Gestão de Resíduos, aprovado no anexo I do Decreto-Lei n.º 102-D/2020, de 10 de dezembro (RGGR):\n\na) Obrigação de licenciamento de áreas de armazenagem temporária de resíduos prévias ao seu envio para operadores de tratamento de resíduos, previstas no artigo 59.º do RGGR, desde que garantidas as condições de segurança e de salubridade;\n\nb) Obrigação de licenciamento do aumento da capacidade de armazenamento dos operadores de tratamento de resíduos, previstas no artigo 59.º do RGGR, desde que garantidas as condições de segurança e de salubridade;\n\nc) Obrigação de preenchimento de guias eletrónicas de acompanhamento de resíduos no transporte dos resíduos para locais de armazenamento preliminar ou para operadores de tratamento de resíduos, prevista no artigo 38.º do RGGR, quando o estabelecimento produtor ou detentor dos resíduos não se encontrar inscrito no Sistema Integrado de Licenciamento do Ambiente;\n\nd) Limitação de receção de resíduos não urbanos pelos Sistemas de Gestão de Resíduos para armazenagem antes do envio para operadores de tratamento de resíduos, prevista nos artigos 11.º e 59.º do RGGR;\n\ne) O pagamento da taxa de gestão de resíduos, prevista no artigo 111.º do RGGR, devida pelos produtores dos resíduos nos termos do n.º 3 do artigo 110.º do RGGR.\n\n2 - Sem prejuízo do disposto no n.º 1, os operadores de tratamento de resíduos devem manter um registo dos quantitativos e origem dos resíduos rececionados, os quais devem ser reportados no Sistema Integrado de Registo Eletrónico de Resíduos, nos termos do disposto no n.º 1 do artigo 98.º do RGGR.\n\n3 - Para efeitos de liquidação da taxa de gestão de resíduos referente ao ano de 2026, os sujeitos passivos comunicam à Autoridade Nacional de Resíduos, até 31 de janeiro de 2027, os quantitativos de resíduos rececionados que resultaram da destruição provocada pela tempestade «Kristin» e dos sequentes trabalhos de limpeza, recuperação e reconstrução, nos concelhos em situação de calamidade, para aplicação do disposto na alínea e) do n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1051087875": {
+   "fragment_id": "1051087775",
+   "type": 1,
+   "heading": "Capítulo IV — ATIVIDADES COMERCIAIS E SERVIÇOS PÚBLICOS ESSENCIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — ATIVIDADES COMERCIAIS E SERVIÇOS PÚBLICOS ESSENCIAIS"
+  },
+  "1080914975": {
+   "fragment_id": "1051087975",
+   "type": 11,
+   "heading": "Artigo 12.º — Garantia de prestação de serviços públicos essenciais",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 12.º — Garantia de prestação de serviços públicos essenciais\n\n1 - Os prestadores de serviços públicos essenciais, incluindo prestadores de serviços de comunicações eletrónicas, ficam impedidos, até 30 de abril de 2026, de interromper, suspender ou limitar o serviço a utentes residentes ou estabelecidos nos concelhos abrangidos pela declaração de calamidade, em razão do não pagamento de faturas, aplicando o disposto no n.º 4.\n\n2 - A identificação dos utentes a que se refere o número anterior é feita por referência ao local de instalação ou prestação dos serviços objeto do contrato em causa.\n\n3 - Sem prejuízo do disposto no artigo 137.º da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 16/2022, de 16 de agosto, as empresas que prestam serviços de comunicações eletrónicas acessíveis ao público aceitam os pedidos de suspensão de contratos apresentados pelos utilizadores finais residentes ou estabelecidos nos concelhos abrangidos pela declaração de calamidade, sem penalizações ou cláusulas adicionais para esses utilizadores finais, mantendo-se a suspensão por um período de três meses, salvo se o utilizador final indicar na sua solicitação período inferior.\n\n4 - No caso de existirem valores em dívida, as empresas promovem a celebração de um acordo de pagamento adequado aos rendimentos do utilizador final, não podendo proceder à cobrança de juros de mora em razão do atraso no pagamento desses valores.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1080912275": {
+   "fragment_id": "1080912175",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Medidas de simplificação na reposição de serviços de comunicações",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 12.º-A — Medidas de simplificação na reposição de serviços de comunicações\n\n1 - Pelo período de vigência do presente decreto-lei e por forma a assegurar a reposição dos serviços, a garantir a resposta a solicitações especiais de clientes afetados e a permitir instalação de infraestruturas temporárias de reposição ou de aumento de capacidade ou de extensão de redes a locais dos concelhos abrangidos pela situação de calamidade:\n\na) É dispensada a participação das forças policiais nas intervenções a efetuar pelas empresas que oferecem redes de comunicações públicas ou serviços de comunicações eletrónicas acessíveis ao público, sem prejuízo de ser garantida a segurança de pessoas e bens, designadamente através de colocação de sinalética informativa e de segurança;\n\nb) É dispensada a obrigação de licenciamento temporário de estação ou de rede de radiocomunicações, prevista no artigo 13.º do Decreto-Lei n.º 151-A/2000, de 20 de julho, para suporte à rede móvel e prestação de serviços a clientes.\n\n2 - Nos casos previstos na alínea b) do número anterior as empresas que oferecem redes de comunicações públicas ou serviços de comunicações eletrónicas acessíveis ao público devem solicitar previamente à Autoridade Nacional de Comunicações a coordenação do espetro de radiofrequências a utilizar através do endereço eletrónico, devendo aquela autoridade responder até ao terceiro dia útil seguinte.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1080912475": {
+   "fragment_id": "1051088175",
+   "type": 11,
+   "heading": "Artigo 13.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Taxas\n\n1 - Os produtores e vendedores de materiais de propagação vegetativa, detentores de locais de produção e de venda localizados nos concelhos afetados estão isentos do pagamento das taxas previstas pela Portaria n.º 298/2017, de 12 de outubro, no ano de 2026.\n\n2 - A liquidação e pagamento de taxas devidas a entidades da Administração Pública central, por pessoas singulares ou coletivas, relativamente a bens imóveis ou a licenciamentos de atividades localizadas nos concelhos previstos no artigo 2.º, é diferido, por um período de três meses, sem juros legais ou compensatórios.\n\n3 - Sem prejuízo do disposto no n.º 2 do artigo 3.º da Portaria n.º 332-B/2015, de 5 de outubro, o prazo para o pagamento da Taxa Ambiental Única do pedido de licenciamento de projetos ou estabelecimentos, localizados nos concelhos afetados, é diferido por um período de seis meses."
+  },
+  "1080912575": {
+   "fragment_id": "1051088375",
+   "type": 11,
+   "heading": "Artigo 14.º — Apoios à atividade económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apoios à atividade económica\n\n1 - Os apoios à atividade económica são atribuídos ao abrigo das linhas de crédito para apoio à reconstrução dos concelhos abrangidos pela declaração de calamidade.\n\n2 - Sem prejuízo do número anterior, podem ser ainda criadas outras linhas e sistemas de apoio às empresas afetadas."
+  },
+  "1080912675": {
+   "fragment_id": "1051088575",
+   "type": 11,
+   "heading": "Artigo 15.º — Diferimento de prestações vincendas relativa a subsídios reembolsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Diferimento de prestações vincendas relativa a subsídios reembolsáveis\n\n1 - Pode ser diferida, mediante requerimento das empresas beneficiárias, por um período de 24 meses, a exigibilidade das prestações relativas a subsídios reembolsáveis atribuídos no âmbito de sistemas de incentivos do Quadro de Referência Estratégico Nacional ou do Portugal 2020, com vencimento em data igual ou posterior a 28 de janeiro de 2026, sem aplicação de juros ou de qualquer outra penalidade para as empresas beneficiárias, ao abrigo da alínea e) do n.º 2 do artigo 30.º-B da Portaria n.º 57-A/2015, de 27 de fevereiro.\n\n2 - O pedido previsto no número anterior aplica-se às empresas beneficiárias:\n\na) Cuja sede se situe em concelhos afetados;\n\nb) Que disponham de atividade relevante nos mesmos concelhos referidos na alínea anterior, independentemente da localização da respetiva sede.\n\n3 - No caso das empresas beneficiárias referidas no número anterior, o diferimento depende da apresentação de requerimento dirigido à entidade responsável pela gestão do sistema de incentivo, o qual deve ser instruído com declaração comprovativa dos prejuízos sofridos, emitida pela Comissão de Coordenação e Desenvolvimento Regional, I. P. (CCDR, I. P.), territorialmente competente ou, em alternativa, pelo respetivo município.\n\n4 - O requerimento referido no número anterior deve ser apresentado no prazo de 30 dias contados da data de vencimento da primeira prestação que ocorra após o início do período de diferimento.\n\n5 - A entidade responsável pela gestão do incentivo decide sobre o pedido de diferimento no prazo de 20 dias a contar da data da respetiva receção, notificando a decisão à empresa beneficiária, preferencialmente por via eletrónica através da plataforma ou balcão eletrónico aplicável.\n\n6 - O diferimento previsto no n.º 1 determina a recalendarização integral do plano de reembolso, mantendo-se inalterados o número, o montante e a periodicidade das prestações, com deslocação de todos os vencimentos por um período de 24 meses, sem que haja lugar à cumulação de prestações no mesmo período."
+  },
+  "1080912775": {
+   "fragment_id": "1051088775",
+   "type": 11,
+   "heading": "Artigo 16.º — Atividade de comércio a retalho em estabelecimentos de comércio por grosso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Atividade de comércio a retalho em estabelecimentos de comércio por grosso\n\n1 - Nos concelhos abrangidos pelo presente decreto-lei e durante o prazo de 30 dias a contar da sua entrada em vigor, é permitido aos titulares da exploração de estabelecimentos de comércio por grosso de distribuição alimentar vender os seus produtos diretamente ao público, exercendo cumulativamente a atividade de comércio a retalho.\n\n2 - Os bens destinados à venda a retalho nos termos do número anterior devem exibir o respetivo preço de venda ao público, assegurando-se a sua disponibilização para aquisição sob forma unitária, e em observância das disposições legais aplicáveis em matéria de indicação dos preços de venda a retalho, bem como das regras vigentes respeitantes ao acesso, à ocupação, à segurança, à higiene e ao atendimento prioritário.\n\n3 - Os titulares da exploração de estabelecimentos de comércio por grosso de distribuição alimentar nos quais se realizem vendas a retalho devem adotar, se necessário, medidas para acautelar que as quantidades disponibilizadas a cada consumidor são adequadas e dissuasoras de situações de açambarcamento."
+  },
+  "1051089075": {
+   "fragment_id": "1051088975",
+   "type": 1,
+   "heading": "Capítulo V — PRAZOS E DOCUMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — PRAZOS E DOCUMENTOS"
+  },
+  "1080915175": {
+   "fragment_id": "1051089175",
+   "type": 11,
+   "heading": "Artigo 17.º — Procedimentos administrativos, tributários e contributivos",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 17.º — Procedimentos administrativos, tributários e contributivos\n\n1 - Na pendência da situação de calamidade, consideram-se suspensos todos os prazos para a prática de atos no âmbito de procedimentos administrativos cujos órgãos competentes para a respetiva direção ou decisão final se localizem nos concelhos por ela abrangidos.\n\n2 - Na pendência da situação de calamidade, consideram-se igualmente suspensos todos os prazos para a prática de atos, no âmbito de procedimentos tributários e contributivos, por sujeitos passivos com domicílio fiscal nas áreas abrangidas pela declaração de calamidade ou, quando aplicável, pelos respetivos contabilistas certificados com sede ou domicílio nos concelhos abrangidos pelo âmbito territorial, suspendendo-se em igual medida os prazos para a prática de atos pela autoridade tributária e aduaneira e segurança social que sejam consequentes e dependentes daqueles.\n\n3 - O disposto no número anterior não se aplica aos procedimentos direta ou indiretamente relacionados com as tarefas de reconstrução e o apoio às populações.\n\n4 - Não se consideram suspensos os prazos dos procedimentos indispensáveis ao exercício de direitos fundamentais dos particulares cuja decisão seja urgente e inadiável.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1051089475": {
+   "fragment_id": "1051089375",
+   "type": 11,
+   "heading": "Artigo 18.º — Documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Documentos\n\n1 - Para efeitos de instrução dos procedimentos destinados à obtenção de apoios, consideram-se válidos os documentos cuja validade tenha expirado nos 90 dias imediatamente anteriores à declaração da situação de calamidade ou que expirem nos 90 dias subsequentes à data de entrada em vigor do presente decreto-lei.\n\n2 - As entidades competentes não podem solicitar aos interessados documentos que devam ser emitidos ou que estejam na posse da Administração Pública.\n\n3 - A alegação de impossibilidade de obtenção dos documentos pelas entidades competentes não constitui motivo de indeferimento do pedido."
+  },
+  "1051089675": {
+   "fragment_id": "1051089575",
+   "type": 11,
+   "heading": "Artigo 19.º — Prorrogação dos prazos de execução das empreitadas de obras públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Prorrogação dos prazos de execução das empreitadas de obras públicas\n\n1 - O empreiteiro que celebre um contrato de empreitada de obras públicas ao abrigo do presente decreto-lei pode modificar unilateralmente o plano de trabalhos dos demais contratos de empreitadas de obras públicas de que é parte, alterando os prazos parciais e o prazo global contratualmente previstos, na estrita medida do necessário e conquanto, por comprovada insuficiência de mão-de-obra ou equipamentos, se revele objetivamente impossível o cumprimento pontual do contrato celebrado ao abrigo do presente decreto-lei e de todos ou parte dos demais contratos.\n\n2 - O exercício da faculdade prevista no número anterior deve ser antecedido de comunicação escrita ao dono da obra, não inferior a cinco dias relativamente à data pretendida para a entrada em vigor das alterações pretendidas e devidamente acompanhada do plano de trabalhos modificado, bem como do plano de pagamentos adaptado ao novo plano de trabalhos, do qual não pode resultar um aumento do preço contratual.\n\n3 - A prorrogação de cada contrato ao abrigo do disposto no presente artigo não pode ser superior a três meses, nem implicar perda de financiamento através de fundos europeus ou prejuízo para as condições técnicas e de segurança de execução da obra.\n\n4 - A prorrogação nos termos do presente artigo não confere ao empreiteiro o direito a qualquer compensação, designadamente, pelos custos de maior permanência em obra."
+  },
+  "1051089875": {
+   "fragment_id": "1051089775",
+   "type": 11,
+   "heading": "Artigo 20.º — Suspensão total ou parcial dos prazos de empreitadas de obras públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Suspensão total ou parcial dos prazos de empreitadas de obras públicas\n\n1 - O empreiteiro que, ao abrigo do presente decreto-lei, celebre um contrato de empreitada de obras públicas que tenha por objeto a construção ou conceção-construção de equipamentos críticos, de unidades de saúde, de estabelecimentos de ensino, de apoio social e de infraestruturas rodoviárias, ferroviárias e militares, pode ainda suspender, de forma parcial ou total, os trabalhos de um ou vários dos demais contratos de empreitadas de obras públicas de que é parte, na estrita medida do necessários e conquanto, por comprovada insuficiência de mão-de-obra ou equipamentos, se revele objetivamente impossível o cumprimento pontual do contrato celebrado ao abrigo do presente decreto-lei e de todos ou parte dos demais contratos.\n\n2 - A suspensão prevista no número anterior deve ser antecedida de comunicação escrita ao dono da obra, não inferior a cinco dias relativamente à data prevista da suspensão e com menção expressa do fundamento invocado e dos factos que o concretizam.\n\n3 - A suspensão total ou parcial nos termos do presente artigo não pode ser superior a seis meses por contrato, nem implicar a perda de financiamento através de fundos europeus ou prejuízo para as condições técnicas e de segurança de execução da obra.\n\n4 - A suspensão total ou parcial nos termos do presente artigo não confere ao empreiteiro o direito a qualquer compensação, designadamente, pelos custos de maior permanência em obra."
+  },
+  "1051090075": {
+   "fragment_id": "1051089975",
+   "type": 11,
+   "heading": "Artigo 21.º — Certidões de registo e certificados de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Certidões de registo e certificados de matrícula\n\n1 - As certidões do registo necessárias para a instrução das candidaturas aos apoios financeiros a atribuir na sequência dos danos verificados estão isentas do pagamento de emolumentos.\n\n2 - A emissão de segunda via de certificado de matrícula ou a sua substituição, solicitada até 31 de março de 2026, está isenta do pagamento de emolumentos, nos casos de perda, extravio ou inutilização, por motivo comprovadamente imputável aos fenómenos adversos nos concelhos abrangidos pela declaração de situação de calamidade."
+  },
+  "1051090275": {
+   "fragment_id": "1051090175",
+   "type": 1,
+   "heading": "Capítulo VI — FISCALIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — FISCALIZAÇÃO"
+  },
+  "1051090475": {
+   "fragment_id": "1051090375",
+   "type": 11,
+   "heading": "Artigo 22.º — Controlo sucessivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Controlo sucessivo\n\n1 - A Inspeção-Geral das Finanças, a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e as demais entidades inspetivas da Administração direta do Estado, no âmbito das suas competências, levam a cabo, mensalmente, uma avaliação sucessiva por amostragem dos apoios concedidos no âmbito da situação de calamidade, bem como das decisões administrativas que envolvam aumento de despesa.\n\n2 - As entidades inspetivas referidas no número anterior garantem a articulação e a partilha das informações necessárias à realização das tarefas inspetivas.\n\n3 - A CCDR, I. P., territorialmente competente, bem como as demais entidades concedentes de apoios no âmbito da calamidade, mantêm a documentação mínima associada à concessão dos apoios.\n\n4 - A falta de verificação das condições de acesso aos apoios, determina a sua imediata cessação, bem como a obrigação de restituição, total ou proporcional ao período de incumprimento, dos montantes já recebidos, acrescidos de juros à taxa comercial, sem prejuízo da responsabilidade criminal e contraordenacional aplicável.\n\n5 - A Autoridade de Segurança Alimentar e Económica, no âmbito das suas competências e em colaboração com outros organismos competentes, promove ações de fiscalização relativas à prática de crimes contra a economia, designadamente quanto a práticas de açambarcamento, especulação de preços e desconformidade de produtos e materiais especialmente relacionados com a reconstrução e a reabilitação dos concelhos afetados."
+  },
+  "1051090675": {
+   "fragment_id": "1051090575",
+   "type": 11,
+   "heading": "Artigo 23.º — Reposição da legalidade violada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reposição da legalidade violada\n\nOs órgãos administrativos competentes estão obrigados a adotar as medidas adequadas de tutela e restauração da legalidade, quando sejam violados os limites previstos no presente decreto-lei."
+  },
+  "1051090875": {
+   "fragment_id": "1051090775",
+   "type": 11,
+   "heading": "Artigo 24.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Contraordenações\n\nO incumprimento dos deveres previstos no n.º 2 do artigo 7.º e no n.º 2 do artigo 10.º constitui contraordenação, nos termos do Regime Geral das Contraordenações, sancionada com coima máxima de € 3 740,98, no caso de pessoas singulares, e de € 44 891,81, no caso de pessoas coletivas."
+  },
+  "1051091075": {
+   "fragment_id": "1051090975",
+   "type": 1,
+   "heading": "Capítulo VII — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — DISPOSIÇÕES FINAIS"
+  },
+  "1051091275": {
+   "fragment_id": "1051091175",
+   "type": 11,
+   "heading": "Artigo 25.º — Trabalho suplementar excecional decorrente da situação de calamidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Trabalho suplementar excecional decorrente da situação de calamidade\n\n1 - O trabalho suplementar dos trabalhadores da administração pública central, local e ainda do setor empresarial do Estado e local, decorrente da situação de calamidade decretada pela Resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 1.º, e em virtude dos trabalhos adicionais dela resultantes, considera-se prestado por motivos de força maior, não estando sujeito aos limites legais previstos na Lei Geral do Trabalho em Funções Públicas e no Código do Trabalho.\n\n2 - O disposto no número anterior vigora pelo período de três meses contados desde a data de entrada em vigor do presente decreto-lei."
+  },
+  "1051091475": {
+   "fragment_id": "1051091375",
+   "type": 11,
+   "heading": "Artigo 26.º — Reforço excecional e temporário da comparticipação dos encargos com compensação do regime simplificado de redução ou suspensão da atividade em situação de crise empresarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reforço excecional e temporário da comparticipação dos encargos com compensação do regime simplificado de redução ou suspensão da atividade em situação de crise empresarial\n\n1 - A repartição dos encargos com a compensação retributiva prevista no art. 305.º do Código do Trabalho em caso de aplicação do regime simplificado de redução ou suspensão da atividade em situação de crise empresarial previsto no artigo 22.º do Decreto-Lei n.º 31-C/2026, de 5 de fevereiro, é temporariamente ajustada nos termos do número seguinte, exclusivamente para os casos em que o apoio tenha sido requerido até ao final do mês seguinte ao fim da situação de calamidade.\n\n2 - Nos primeiros 60 dias do período de suspensão ou redução a compensação retributiva é paga em 20 % pelo empregador e em 80 % pelo serviço público competente da área da segurança social, após o que se aplica a regra do n.º 4 do artigo 305.º do Código do Trabalho."
+  },
+  "1051091675": {
+   "fragment_id": "1051091575",
+   "type": 11,
+   "heading": "Artigo 27.º — Explorações agropecuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Explorações agropecuárias\n\nO apoio extraordinário previsto na alínea a) do n.º 10 do anexo II da Resolução do Conselho de Ministros n.º 17-A/2026, de 3 de fevereiro, aplica-se aos detentores de explorações agrícolas com efetivos das espécies de suíno, avícolas e equídeos."
+  },
+  "1051091875": {
+   "fragment_id": "1051091775",
+   "type": 11,
+   "heading": "Artigo 28.º — Condomínios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Condomínios\n\n1 - Para efeito de atribuição dos apoios previstos na Resolução do Conselho de Ministros n.º 17-A/2026, de 3 de fevereiro, quando a recuperação incida sobre partes comuns de edifícios constituídos em propriedade horizontal, as administrações de condomínio dos edifícios afetados podem atuar como representantes dos titulares de cada fração autónoma.\n\n2 - A comparticipação pública para cada operação prevista no número anterior corresponde a 100 % da despesa elegível remanescente, após dedução de indemnizações de seguro e de outros apoios, ficando sujeita aos seguintes condicionalismos:\n\na) Por edifício constituído em propriedade horizontal, a comparticipação está sujeita ao limite global de € 10 000,00;\n\nb) Por edifício constituído em propriedade horizontal, a comparticipação está sujeita ao limite global de € 5 000,00, quando a estimativa da despesa elegível tenha por base fotografias apresentadas pelo requerente, ficando dispensada a vistoria ao local.\n\n3 - Sem prejuízo das tipologias de apoio definidas na Resolução do Conselho de Ministros n.º 17-A/2026, de 3 de fevereiro, para efeitos de reconstrução e reparação das partes comuns de edifícios em propriedade horizontal são especialmente considerados:\n\na) Reparação, substituição de coberturas e impermeabilizações;\n\nb) Reparação de fachadas e elementos de segurança;\n\nc) Intervenções urgentes de contenção e prevenção de danos adicionais.\n\n4 - Cabe à administração do condomínio assegurar a divisão proporcional entre condóminos do diferencial entre a indemnização decorrente de eventuais contratos de seguro ou outros instrumentos contratuais e o montante de apoio recebido ao abrigo do presente decreto-lei e demais legislação aplicável."
+  },
+  "1080912975": {
+   "fragment_id": "1080912875",
+   "type": 11,
+   "heading": "Artigo 28.º-A — Âmbito de aplicação alargado",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 28.º-A — Âmbito de aplicação alargado\n\nO presente decreto-lei, os Decretos-Leis n.os 31-B/2026, de 5 de fevereiro, e 31-C/2026, de 5 de fevereiro, e as Resoluções do Conselho de Ministros n.os 17-A/2026 e 17-B/2026, ambas de 3 de fevereiro, aplicam-se, com as devidas adaptações:\n\na) A todo o território nacional, desde que cumpridos os requisitos previstos nos artigos seguintes;\n\nb) Aos concelhos identificados no Despacho n.º 2389-A/2026, publicado no Diário da República, 2.ª série, n.º 38, de 24 de fevereiro, independentemente do cumprimento de requisitos adicionais.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1080915475": {
+   "fragment_id": "1080915375",
+   "type": 11,
+   "heading": "Artigo 28.º-B — Requisitos de alargamento",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 28.º-B — Requisitos de alargamento\n\nA extensão do âmbito de aplicação prevista na alínea a) do artigo anterior depende da verificação de danos especiais e anormais causados, de modo manifesto, pelos eventos meteorológicos e fenómenos relacionados ocorridos no período entre o dia 28 de janeiro de 2026 e 15 de fevereiro de 2026.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1080913375": {
+   "fragment_id": "1080913275",
+   "type": 11,
+   "heading": "Artigo 28.º-C — Danos especiais e anormais",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 28.º-C — Danos especiais e anormais\n\nPara os efeitos do disposto no artigo anterior, consideram-se especiais os danos ou encargos que incidam sobre uma pessoa ou um grupo, sem afetarem a generalidade das pessoas que residam num determinado concelho, e anormais os que, ultrapassando os custos próprios associados à regular manutenção e desgaste das infraestruturas e equipamento e às circunstâncias meteorológicas típicas do período de inverno, assumam gravidade e excecionalidade associada aos eventos meteorológicos severos que determinaram a declaração de calamidade.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1080917775": {
+   "fragment_id": "1080917675",
+   "type": 11,
+   "heading": "Artigo 28.º-D — Extensão do regime de apoios financeiros",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 28.º-D — Extensão do regime de apoios financeiros\n\n1 - Para efeitos de aplicação da Resolução do Conselho de Ministros n.º 17-A/2026, de 3 de fevereiro, os beneficiários, abrangidos pela alínea a) do artigo 28.º-A, e que preencham os requisitos previstos nos artigos anteriores, apresentam candidatura junto da CCDR territorialmente competente.\n\n2 - As candidaturas são instruídas com parecer obrigatório da câmara municipal do local onde se verificaram os danos, nos termos do artigo 28.º-H, que atesta o preenchimento dos requisitos previstos nos artigos 28.º-B e 28.º-C.\n\n3 - O procedimento de candidatura decorre, com as devidas adaptações, conforme previsto no anexo iv da Resolução do Conselho de Ministros n.º 17-A/2026, de 3 de fevereiro.\n\n4 - Os pedidos de acesso aos apoios são decididos pela CCDR territorialmente competente no prazo máximo de 30 dias.\n\n5 - Para efeitos do presente artigo, sempre que o município atue na qualidade de beneficiário a candidatura é apreciada e decidida pela CCDR territorialmente competente sem o parecer referido no n.º 2.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1080918175": {
+   "fragment_id": "1080918075",
+   "type": 11,
+   "heading": "Artigo 28.º-E — Extensão do regime de simplificação administrativa",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 28.º-E — Extensão do regime de simplificação administrativa\n\n1 - Nas parcelas do território nacional não abrangidas pela declaração de calamidade ou pelo Despacho n.º 2389-A/2026, publicado no Diário da República, 2.ª série, n.º 38, de 24 de fevereiro, o recurso excecional aos instrumentos de simplificação administrativa contemplados no presente decreto-lei depende do preenchimento dos requisitos previstos nos artigos 28.º-B e 28.º-C, atestado por fundamentação expressa da entidade administrativa autora da decisão e comunicado, no prazo de cinco dias, à CCDR territorialmente competente.\n\n2 - A ausência de fundamentação expressa, referida no número anterior, determina a invalidade do ato, contrato ou regulamento administrativo.\n\n3 - A falta de comunicação à CCDR territorialmente competente, ou a sua insuficiência, determina a ineficácia jurídica do ato, contrato ou regulamento administrativo.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1080915875": {
+   "fragment_id": "1080915775",
+   "type": 11,
+   "heading": "Artigo 28.º-F — Extensão do regime de simplificação administrativa por iniciativa do particular",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 28.º-F — Extensão do regime de simplificação administrativa por iniciativa do particular\n\n1 - Quando a aplicação do regime previsto no presente decreto-lei não dependa de iniciativa oficiosa ou de decisão da entidade administrativa, os particulares requerem à CCDR territorialmente competente que ateste o preenchimento dos critérios previstos nos artigos 28.º-B e 28.º-C.\n\n2 - A decisão certificativa da CCDR é tomada na sequência de parecer obrigatório da câmara municipal do local onde se verificaram os danos, emitido nos termos do artigo 28.º-H.\n\n3 - A CCDR decide sobre o preenchimento dos critérios previstos nos artigos 28.º-B e 28.º-C no prazo de 30 dias, podendo, para o efeito, promover vistorias, solicitar elementos adicionais ou promover quaisquer outras diligências probatórias que considere necessárias.\n\n4 - A decisão e a respetiva fundamentação são publicadas na Internet, no sítio institucional da CCDR territorialmente competente.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1080918775": {
+   "fragment_id": "1080918675",
+   "type": 11,
+   "heading": "Artigo 28.º-G — Extensão de outros regimes",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 28.º-G — Extensão de outros regimes\n\n1 - A extensão de aplicação dos regimes previstos na Resolução do Conselho de Ministros n.º 17-B/2026, de 3 de fevereiro, nos Decretos-Leis n.os 31-B/2026, de 5 de fevereiro, e 31-C/2026, de 5 de fevereiro, depende da emissão de parecer prévio obrigatório da câmara municipal do local onde se verificaram os danos, que instrui o procedimento de decisão de atribuição dos respetivos apoios.\n\n2 - A entidade competente para a decisão de atribuição do apoio não pode decidir sem o parecer referido no número anterior.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1080916275": {
+   "fragment_id": "1080916175",
+   "type": 11,
+   "heading": "Artigo 28.º-H — Parecer prévio obrigatório da câmara municipal",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 28.º-H — Parecer prévio obrigatório da câmara municipal\n\n1 - O parecer da câmara municipal é emitido com a intervenção dos serviços municipais de proteção civil, no prazo máximo de 30 dias, promovidas as vistorias, solicitados os elementos adicionais ou quaisquer outras diligências probatórias necessárias.\n\n2 - Os pareceres favoráveis são comunicados à CCDR territorialmente competente no prazo de cinco dias.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1080916475": {
+   "fragment_id": "1051091975",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O presente decreto-lei cessa a sua vigência no prazo de um ano a contar da data da sua entrada em vigor, sem prejuízo do disposto no n.º 3 do artigo 7.º, no n.º 1 do artigo 10.º, no n.º 1 do artigo 11.º, no n.º 2 do artigo 21.º e no n.º 2 do artigo 24.º"
+  },
+  "1051092275": {
+   "fragment_id": "1051092175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Manuel Castro Almeida - Gonçalo Nuno da Cruz Saraiva Matias - Miguel Martinez de Castro Pinto Luz - Rita Alarcão Júdice - Rosário Palma Ramalho - Maria da Graça Carvalho - José Manuel Fernandes.\n\nPromulgado em 12 de fevereiro de 2026.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 13 de fevereiro de 2026.\n\nO Primeiro-Ministro, Luís Montenegro."
+  },
+  "1086145375": {
+   "fragment_id": "1051084775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-02-14",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+   ],
+   "markdown": "No dia 28 de janeiro de 2026, registou-se em Portugal continental um fenómeno meteorológico extremo, resultante de um processo de ciclogénese explosiva de rápida intensificação, que originou ventos de elevada intensidade e precipitação excecionalmente significativa, tendo sido designado por tempestade «Kristin».\n\nOs efeitos deste fenómeno fizeram-se sentir com particular severidade em diversos territórios, especialmente na região centro do país, causando danos extensos em habitações, infraestruturas e equipamentos públicas e privadas, no património natural e cultural, bem como perturbações significativas na normalidade da vida e nas atividades económicas das populações afetadas.\n\nAtendendo à gravidade da situação verificada, foi declarada a situação de calamidade, através da Resolução do Conselho de Ministros n.º 15-B/2026, de 30 de janeiro, prorrogada pelas Resoluções do Conselho de Ministros n.os 15-C/2026, de 1 de fevereiro, e 24-A/2026, de 5 de fevereiro, em virtude do agravamento das condições meteorológicas e da subsequente ocorrência ou do risco elevado de cheias graves.\n\nOs prejuízos causados, não apenas pela tempestade «Kristin», mas também pelos fenómenos hidrológicos que se lhe seguiram, impõem a criação de um regime jurídico de carácter excecional e temporário, que permita apoiar, de forma célere e eficaz, os diversos setores da sociedade afetados, designadamente as famílias, as empresas e as instituições da economia social, assegurando a recuperação e a revitalização das áreas atingidas.\n\nNeste sentido, o XXV Governo Constitucional adota medidas inovadoras de agilização do processo de reconstrução e do quadro de apoios em curso, perspetivado para o próximo ano.\n\nA reposição da normalidade constitui uma prioridade nacional imediata, exigindo a reconstrução urgente de infraestruturas e equipamentos essenciais, bem como a satisfação de necessidades básicas indispensáveis à continuidade da vida quotidiana e da atividade económica nos concelhos abrangidos pela situação de calamidade.\n\nAs referidas medidas espraiam-se por diversos regimes legais, os quais, atenta a urgência da situação atualmente vivida não podem deixar de ser adaptados para garantir a prossecução dos objetivos nacionais de célere revitalização das áreas afetadas.\n\nAssim, procede-se à criação de um regime excecional de contratação pública, permitindo, designadamente, para efeitos de celebração de contratos de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços, destinados à realização das intervenções necessárias à reconstrução e reabilitação das áreas afetadas e à prestação de apoio às populações, que as entidades adjudicantes possam adotar procedimentos de ajuste direto, independentemente do seu valor, e ainda, em caso de urgência absolutamente inadiável, procedimentos de ajuste direto simplificado, até ao limite de € 500 000,00, para a formação de contratos de empreitada e até ao limite de € 100 000,00, para os demais contratos.\n\nEm paralelo, o XXV Governo Constitucional procurou eliminar quaisquer entraves à célere tramitação dos procedimentos pré-contratuais acima referidos, estabelecendo um regime excecional de autorização de despesa, assente, designadamente, na previsão do deferimento tácito dos pedidos de autorização da tutela financeira e setorial, quando exigíveis por lei.\n\nSimultaneamente, com vista à agilização do processo de reconstrução dos bens imóveis afetados, prevê-se a isenção de licença ou de comunicação prévia, bem como a não sujeição a avaliação de impacte ambiental dos respetivos projetos, sem prejuízo da obrigatoriedade de cumprimento das normas aplicáveis constantes dos regimes urbanísticos e de ordenamento do território em vigor, cujo cumprimento não deixará de ser aferido a posteriori.\n\nAtendendo à urgência das intervenções e com vista ao reforço de meios disponíveis, estabelece-se ainda, a título excecional, a possibilidade de as empresas habilitadas por título de alvará poderem executar obras correspondentes à classe imediatamente superior àquela que detêm, bem como a faculdade de prorrogação dos prazos de execução das empreitadas de obras públicas.\n\nPor outro lado, é admitida a suspensão dos prazos definidos para empreitadas em curso, em período nunca superior a seis meses, sempre que a assunção de compromissos para a reconstrução de infraestruturas ou equipamentos seja inviabilizada pela carência de recursos técnicos ou materiais. No caso de se tratar de um projeto financiado ou cofinanciado por fundos europeus, aquela faculdade não afasta o dever de executar pontualmente o contrato.\n\nAo abrigo do presente decreto-lei, as entidades da Administração Pública responsáveis pela gestão de imóveis integrados no domínio privado do Estado ficam autorizadas a proceder à cedência, a título gratuito ou oneroso, de imóveis da sua titularidade, para efeitos de acolhimento de pessoas em situação de vulnerabilidade, bem como para a prossecução de atividades económicas desenvolvidas por entidades públicas ou privadas cuja atividade tenha sido afetada.\n\nSão adotadas medidas com vista a garantir o aprovisionamento de géneros alimentares essenciais, autorizando os grossistas a proceder à venda direta ao público em regime de retalho.\n\nAdicionalmente, o XXV Governo Constitucional entendeu garantir a continuidade da prestação de serviços públicos essenciais, impedindo a sua interrupção, suspensão ou limitação por motivo de incumprimento no pagamento, bem como permitir, no domínio dos serviços de comunicações eletrónicas, a suspensão temporária dos contratos sem penalizações e a adoção de mecanismos de regularização de dívidas ajustados à capacidade económica dos utilizadores finais, sem aplicação de juros de mora.\n\nProcede-se, ainda, à suspensão dos prazos para a prática de atos procedimentais, com exceção dos respeitantes ao exercício de direitos fundamentais.\n\nAs medidas ora previstas não prejudicam, contudo, o exercício de controlo sucessivo nas matérias urbanística, ambiental e financeira, nem afastam a eventual responsabilidade financeira, civil ou criminal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+  },
+  "1086145575": {
+   "fragment_id": "1051085175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-02-14",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime excecional e temporário de simplificação administrativa e financeira destinado à reconstrução e reabilitação de património e infraestruturas localizadas nos concelhos afetados pela tempestade «Kristin», abrangendo designadamente medidas de gestão e agilização contratual e orçamental, do urbanismo e do ambiente, medidas de apoio à atividade económica, e, ainda, outras intervenções necessárias ao restabelecimento das condições de vida das populações e ao funcionamento das infraestruturas.\n\n> Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+  },
+  "1086145775": {
+   "fragment_id": "1051086175",
+   "type": 11,
+   "heading": "Artigo 5.º — Dispensa de autorização administrativa",
+   "in_force_from": "2026-02-14",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+   ],
+   "markdown": "###### Artigo 5.º — Dispensa de autorização administrativa\n\n1 - A decisão de contratar relativa à aquisição de serviços cujo objeto sejam estudos, pareceres, projetos e serviços de consultoria, bem como de quaisquer trabalhos especializados, destinados a suportar tecnicamente ou a aconselhar a atividade de reconstrução e reabilitação das áreas afetadas e de prestação de apoio às populações não carece da autorização administrativa a que se refere o artigo 16.º da Lei n.º 73-A/2025, de 30 de dezembro.\n\n2 - O valor global dos contratos celebrados ao abrigo do presente decreto-lei não pode exceder o montante de 20 000 000,00 € por programa orçamental, salvo autorização do membro do Governo responsável pela área das finanças.\n\n> Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+  },
+  "1146711375": {
+   "fragment_id": "1051087375",
+   "type": 11,
+   "heading": "Artigo 10.º — Suspensão de autorização prévia em demolição ou remoção de estruturas que contenham amianto",
+   "in_force_from": "2026-07-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 140/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2026-1145969707), em vigor a partir de 2026-07-11, com efeitos a partir de 2026-04-28."
+   ],
+   "markdown": "###### Artigo 10.º — Suspensão de autorização prévia em demolição ou remoção de estruturas que contenham amianto\n\n1 - O disposto nos artigos 11.º e 24.º do Decreto-Lei n.º 266/2007, de 24 de julho, relativo à autorização prévia da ACT para a realização dos trabalhos que envolvam demolição ou remoção de amianto ou de materiais que o contenham, fica suspenso até dia 30 de setembro de 2026, sem prejuízo de eventual prorrogação.\n\n2 - Durante o período de suspensão referido no número anterior, é aplicável o disposto no artigo 3.º do Decreto-Lei n.º 266/2007, de 24 de julho, referente à notificação obrigatória à ACT, a qual deve ser feita até ao início dos trabalhos.\n\n3 - As demais obrigações em matéria de segurança e saúde no trabalho mantêm-se em vigor, nomeadamente a garantia do cumprimento do valor limite de exposição previsto no artigo 4.º do Decreto-Lei n.º 266/2007, de 24 de julho, que não deve ser ultrapassado, bem como a adoção das medidas preventivas de modo a limitar a exposição dos trabalhadores às poeiras de amianto ou de materiais que contenham amianto, ajustados os processos aplicados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 140/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2026-1145969707), em vigor a partir de 2026-07-11, com efeitos a partir de 2026-04-28."
+  },
+  "1146711575": {
+   "fragment_id": "1051087575",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão parcial das disposições previstas no Regime Geral de Gestão de Resíduos",
+   "in_force_from": "2026-07-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 140/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2026-1145969707), em vigor a partir de 2026-07-11, com efeitos a partir de 2026-04-28.",
+    "Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 11.º — Suspensão parcial das disposições previstas no Regime Geral de Gestão de Resíduos\n\n1 - É suspensa, quanto aos resíduos resultantes da destruição, a aplicação das seguintes disposições do Regime Geral de Gestão de Resíduos, aprovado pelo anexo i do Decreto-Lei n.º 102-D/2020, de 10 de dezembro (RGGR):\n\na) Obrigação de licenciamento de áreas de armazenagem temporária de resíduos prévias ao seu envio para operadores de tratamento de resíduos, prevista no artigo 59.º do RGGR, desde que garantidas as condições de segurança e de salubridade;\n\nb) Obrigação de licenciamento do aumento da capacidade de armazenamento dos operadores de tratamento de resíduos, prevista no artigo 59.º do RGGR, desde que garantidas as condições de segurança e de salubridade;\n\nc) Obrigação de preenchimento de guias eletrónicas de acompanhamento de resíduos no transporte dos resíduos para locais de armazenamento preliminar ou para operadores de tratamento de resíduos, prevista no artigo 38.º do RGGR, quando o estabelecimento produtor ou detentor dos resíduos não se encontrar inscrito no Sistema Integrado de Licenciamento do Ambiente;\n\nd) Limitação de receção de resíduos não urbanos pelos Sistemas de Gestão de Resíduos para armazenagem antes do envio para operadores de tratamento de resíduos, prevista nos artigos 11.º e 59.º do RGGR;\n\ne) O pagamento da taxa de gestão de resíduos, prevista no artigo 111.º do RGGR, devida pelos produtores dos resíduos nos termos do n.º 3 do artigo 110.º do RGGR.\n\n2 - Sem prejuízo do disposto no n.º 1, os operadores de tratamento de resíduos devem manter um registo dos quantitativos e origem dos resíduos rececionados, os quais devem ser reportados no Sistema Integrado de Registo Eletrónico de Resíduos, nos termos do disposto no n.º 1 do artigo 98.º do RGGR.\n\n3 - Para efeitos de liquidação da taxa de gestão de resíduos referente ao ano de 2026, os sujeitos passivos comunicam à Autoridade Nacional de Resíduos, até 31 de janeiro de 2027, os quantitativos de resíduos rececionados que resultaram da destruição provocada pela tempestade «Kristin» e dos sequentes trabalhos de limpeza, recuperação e reconstrução, nos concelhos em situação de calamidade, para aplicação do disposto na alínea e) do n.º 1.\n\n4 - O disposto no presente artigo aplica-se até 30 de setembro de 2026, sem prejuízo de eventual prorrogação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 140/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2026-1145969707), em vigor a partir de 2026-07-11, com efeitos a partir de 2026-04-28.\n\n> Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  },
+  "1086146175": {
+   "fragment_id": "1051089775",
+   "type": 11,
+   "heading": "Artigo 20.º — Suspensão total ou parcial dos prazos de empreitadas de obras públicas",
+   "in_force_from": "2026-02-14",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+   ],
+   "markdown": "###### Artigo 20.º — Suspensão total ou parcial dos prazos de empreitadas de obras públicas\n\n1 - O empreiteiro que, ao abrigo do presente decreto-lei, celebre um contrato de empreitada de obras públicas que tenha por objeto a construção ou conceção-construção de equipamentos críticos, de unidades de saúde, de estabelecimentos de ensino, de apoio social e de infraestruturas rodoviárias, ferroviárias e militares, pode ainda suspender, de forma parcial ou total, os trabalhos de um ou vários dos demais contratos de empreitadas de obras públicas de que é parte, na estrita medida do necessário e conquanto, por comprovada insuficiência de mão-de-obra ou equipamentos, se revele objetivamente impossível o cumprimento pontual do contrato celebrado ao abrigo do presente decreto-lei e de todos ou parte dos demais contratos.\n\n2 - A suspensão prevista no número anterior deve ser antecedida de comunicação escrita ao dono da obra, não inferior a cinco dias relativamente à data prevista da suspensão e com menção expressa do fundamento invocado e dos factos que o concretizam.\n\n3 - A suspensão total ou parcial nos termos do presente artigo não pode ser superior a seis meses por contrato, nem implicar a perda de financiamento através de fundos europeus ou prejuízo para as condições técnicas e de segurança de execução da obra.\n\n4 - A suspensão total ou parcial nos termos do presente artigo não confere ao empreiteiro o direito a qualquer compensação, designadamente, pelos custos de maior permanência em obra.\n\n> Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+  },
+  "1086146375": {
+   "fragment_id": "1051090375",
+   "type": 11,
+   "heading": "Artigo 22.º — Controlo sucessivo",
+   "in_force_from": "2026-02-14",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+   ],
+   "markdown": "###### Artigo 22.º — Controlo sucessivo\n\n1 - A Inspeção-Geral das Finanças, a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e as demais entidades inspetivas da Administração direta do Estado, no âmbito das suas competências, levam a cabo, mensalmente, uma avaliação sucessiva por amostragem dos apoios concedidos no âmbito da situação de calamidade, bem como das decisões administrativas que envolvam aumento de despesa.\n\n2 - As entidades inspetivas referidas no número anterior garantem a articulação e a partilha das informações necessárias à realização das tarefas inspetivas.\n\n3 - A CCDR, I. P., territorialmente competente, bem como as demais entidades concedentes de apoios no âmbito da calamidade, mantêm a documentação mínima associada à concessão dos apoios.\n\n4 - A falta de verificação das condições de acesso aos apoios determina a sua imediata cessação, bem como a obrigação de restituição, total ou proporcional ao período de incumprimento, dos montantes já recebidos, acrescidos de juros à taxa comercial, sem prejuízo da responsabilidade criminal e contraordenacional aplicável.\n\n5 - A Autoridade de Segurança Alimentar e Económica, no âmbito das suas competências e em colaboração com outros organismos competentes, promove ações de fiscalização relativas à prática de crimes contra a economia, designadamente quanto a práticas de açambarcamento, especulação de preços e desconformidade de produtos e materiais especialmente relacionados com a reconstrução e a reabilitação dos concelhos afetados.\n\n> Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+  },
+  "1086146575": {
+   "fragment_id": "1051091375",
+   "type": 11,
+   "heading": "Artigo 26.º — Reforço excecional e temporário da comparticipação dos encargos com compensação do regime simplificado de redução ou suspensão da atividade em situação de crise empresarial",
+   "in_force_from": "2026-02-14",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+   ],
+   "markdown": "###### Artigo 26.º — Reforço excecional e temporário da comparticipação dos encargos com compensação do regime simplificado de redução ou suspensão da atividade em situação de crise empresarial\n\n1 - A repartição dos encargos com a compensação retributiva prevista no artigo 305.º do Código do Trabalho em caso de aplicação do regime simplificado de redução ou suspensão da atividade em situação de crise empresarial previsto no artigo 22.º do Decreto-Lei n.º 31-C/2026, de 5 de fevereiro, é temporariamente ajustada nos termos do número seguinte, exclusivamente para os casos em que o apoio tenha sido requerido até ao final do mês seguinte ao fim da situação de calamidade.\n\n2 - Nos primeiros 60 dias do período de suspensão ou redução a compensação retributiva é paga em 20 % pelo empregador e em 80 % pelo serviço público competente da área da segurança social, após o que se aplica a regra do n.º 4 do artigo 305.º do Código do Trabalho.\n\n> Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14."
+  },
+  "1173121175": {
+   "fragment_id": "1051091175",
+   "type": 11,
+   "heading": "Artigo 25.º — Trabalho suplementar excecional decorrente da situação de calamidade",
+   "in_force_from": "2026-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 191/2026 - Diário da República n.º 184/2026, Série I de 2026-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2026-1172319751), em vigor a partir de 2026-09-23."
+   ],
+   "markdown": "###### Artigo 25.º — Trabalho suplementar excecional decorrente da situação de calamidade\n\n1 - O trabalho suplementar dos trabalhadores da administração pública central, local e ainda do setor empresarial do Estado e local, decorrente da situação de calamidade decretada pela resolução do Conselho de Ministros a que se refere o n.º 1 do artigo 2.º, e em virtude dos trabalhos adicionais dela resultantes, considera-se prestado por motivos de força maior, não estando sujeito aos limites legais previstos na Lei Geral do Trabalho em Funções Públicas e no Código do Trabalho.\n\n2 - O disposto no número anterior vigora até dia 30 de junho de 2026, produzindo efeitos desde a data da declaração da situação de calamidade decorrente da tempestade Kristin.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 191/2026 - Diário da República n.º 184/2026, Série I de 2026-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2026-1172319751), em vigor a partir de 2026-09-23."
+  },
+  "1173121375": {
+   "fragment_id": "1051091975",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2026-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 191/2026 - Diário da República n.º 184/2026, Série I de 2026-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2026-1172319751), em vigor a partir de 2026-09-23."
+   ],
+   "markdown": "###### Artigo 29.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O presente decreto-lei cessa a sua vigência no prazo de um ano a contar da data da sua entrada em vigor, sem prejuízo do disposto no n.º 3 do artigo 7.º, no n.º 1 do artigo 10.º, no n.º 1 do artigo 11.º, no n.º 2 do artigo 21.º e no artigo 24.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 191/2026 - Diário da República n.º 184/2026, Série I de 2026-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2026-1172319751), em vigor a partir de 2026-09-23."
+  },
+  "1183929475": {
+   "fragment_id": "1051087375",
+   "type": 11,
+   "heading": "Artigo 10.º — Suspensão de autorização prévia em demolição ou remoção de estruturas que contenham amianto",
+   "in_force_from": "2026-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2026 - Diário da República n.º 203/2026, Série I de 2026-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2026-1183482554), em vigor a partir de 2026-10-21, com efeitos a partir de 2026-09-30.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 140/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2026-1145969707), em vigor a partir de 2026-07-11, com efeitos a partir de 2026-04-28."
+   ],
+   "markdown": "###### Artigo 10.º — Suspensão de autorização prévia em demolição ou remoção de estruturas que contenham amianto\n\n1 - O disposto nos artigos 11.º e 24.º do Decreto-Lei n.º 266/2007, de 24 de julho, relativo à autorização prévia da ACT para a realização dos trabalhos que envolvam demolição ou remoção de amianto ou de materiais que o contenham, fica suspenso até dia 31 de dezembro de 2026, sem prejuízo de eventual prorrogação.\n\n2 - Durante o período de suspensão referido no número anterior, é aplicável o disposto no artigo 3.º do Decreto-Lei n.º 266/2007, de 24 de julho, referente à notificação obrigatória à ACT, a qual deve ser feita até ao início dos trabalhos.\n\n3 - As demais obrigações em matéria de segurança e saúde no trabalho mantêm-se em vigor, nomeadamente a garantia do cumprimento do valor limite de exposição previsto no artigo 4.º do Decreto-Lei n.º 266/2007, de 24 de julho, que não deve ser ultrapassado, bem como a adoção das medidas preventivas de modo a limitar a exposição dos trabalhadores às poeiras de amianto ou de materiais que contenham amianto, ajustados os processos aplicados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2026 - Diário da República n.º 203/2026, Série I de 2026-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2026-1183482554), em vigor a partir de 2026-10-21, com efeitos a partir de 2026-09-30.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 140/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2026-1145969707), em vigor a partir de 2026-07-11, com efeitos a partir de 2026-04-28."
+  },
+  "1183929675": {
+   "fragment_id": "1051087575",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão parcial das disposições previstas no Regime Geral de Gestão de Resíduos",
+   "in_force_from": "2026-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2026 - Diário da República n.º 203/2026, Série I de 2026-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2026-1183482554), em vigor a partir de 2026-10-21, com efeitos a partir de 2026-09-30.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 140/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2026-1145969707), em vigor a partir de 2026-07-11, com efeitos a partir de 2026-04-28.",
+    "Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 11.º — Suspensão parcial das disposições previstas no Regime Geral de Gestão de Resíduos\n\n1 - É suspensa, quanto aos resíduos resultantes da destruição, a aplicação das seguintes disposições do Regime Geral de Gestão de Resíduos, aprovado pelo anexo i do Decreto-Lei n.º 102-D/2020, de 10 de dezembro (RGGR):\n\na) Obrigação de licenciamento de áreas de armazenagem temporária de resíduos prévias ao seu envio para operadores de tratamento de resíduos, prevista no artigo 59.º do RGGR, desde que garantidas as condições de segurança e de salubridade;\n\nb) Obrigação de licenciamento do aumento da capacidade de armazenamento dos operadores de tratamento de resíduos, prevista no artigo 59.º do RGGR, desde que garantidas as condições de segurança e de salubridade;\n\nc) Obrigação de preenchimento de guias eletrónicas de acompanhamento de resíduos no transporte dos resíduos para locais de armazenamento preliminar ou para operadores de tratamento de resíduos, prevista no artigo 38.º do RGGR, quando o estabelecimento produtor ou detentor dos resíduos não se encontrar inscrito no Sistema Integrado de Licenciamento do Ambiente;\n\nd) Limitação de receção de resíduos não urbanos pelos Sistemas de Gestão de Resíduos para armazenagem antes do envio para operadores de tratamento de resíduos, prevista nos artigos 11.º e 59.º do RGGR;\n\ne) O pagamento da taxa de gestão de resíduos, prevista no artigo 111.º do RGGR, devida pelos produtores dos resíduos nos termos do n.º 3 do artigo 110.º do RGGR.\n\n2 - Sem prejuízo do disposto no n.º 1, os operadores de tratamento de resíduos devem manter um registo dos quantitativos e origem dos resíduos rececionados, os quais devem ser reportados no Sistema Integrado de Registo Eletrónico de Resíduos, nos termos do disposto no n.º 1 do artigo 98.º do RGGR.\n\n3 - Para efeitos de liquidação da taxa de gestão de resíduos referente ao ano de 2026, os sujeitos passivos comunicam à Autoridade Nacional de Resíduos, até 31 de janeiro de 2027, os quantitativos de resíduos rececionados que resultaram da destruição provocada pela tempestade «Kristin» e dos sequentes trabalhos de limpeza, recuperação e reconstrução, nos concelhos em situação de calamidade, para aplicação do disposto na alínea e) do n.º 1.\n\n4 - O disposto no presente artigo aplica-se até 31 de dezembro de 2026, sem prejuízo de eventual prorrogação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 202/2026 - Diário da República n.º 203/2026, Série I de 2026-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2026-1183482554), em vigor a partir de 2026-10-21, com efeitos a partir de 2026-09-30.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 140/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2026-1145969707), em vigor a partir de 2026-07-11, com efeitos a partir de 2026-04-28.\n\n> Retificado pelo/a [Declaração de Retificação n.º 13-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-a-2026-1085638495), em vigor a partir de 2026-02-14.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79-A/2026 - Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-2026-1075294793), em vigor a partir de 2026-03-21."
+  }
+ },
+ "unavailable_dates": [
+  "2026-02-13",
+  "2026-02-14"
+ ]
+}

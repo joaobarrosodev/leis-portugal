@@ -1,0 +1,247 @@
+---
+schema_version: '1.0'
+id: pt:dre:334928:por
+title: Portaria n.º 426/2010
+short_title: null
+summary: Procede ao ajustamento dos valores devidos pela emissão de certidão online de registo de veículos, pelas informações
+  dadas por escrito e fotocópias não certificadas de registo predial e pela emissão de certidão permanente de registo predial
+  e procede à cessação do período transitório no âmbito do registo predial
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 426/2010
+official_date: null
+publication_date: '2010-06-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 124/2010, Série I de 2010-06-29
+  number: '124'
+  series: I
+  supplement: null
+  pages: 2356 - 2357
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/12400/0235602357.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/426/2010/06/29/p/dre/pt/html
+  oj: null
+  dre: '334928'
+  dre_path: /dr/detalhe/portaria/426-2010-334928
+  internal: pt:dre:334928:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/426-2010-334928
+  metadata_url: https://data.dre.pt/eli/port/426/2010/06/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/426-2010-334928
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:47:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 44159ebb2805bbe6d2862942db628f35b4231fe1e1d62182c2f9f716794c85dc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- BENS Imóveis
+- Certidão
+- Documento Autentico
+- Documento Eletrónico
+- Documento Único Automóvel
+- Documentos do Veículo
+- Formulário Eletrónico
+- Instituto dos Registos e do Notariado
+- Internet
+- Modernização Administrativa
+- Modernização Tecnológica
+- Pagamento
+- Página na Internet
+- Registo Automóvel
+- Registo Predial
+- Serviços de Registo e Notariado
+- Taxa
+- Transmissão da Propriedade
+- Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:176062:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:176062:por
+  label: "Alterado, a partir de 01.10.2012, o art. 2º da Port 622/2008, de 18-jul, na redação do presente diploma, pela PORT.286/2012.20.09.2012.MJ,\
+    \ DR.IS [183] de 20.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-2012-176062
+  date: '2012-09-20'
+- type: amended_by
+  target: pt:dre:70686128:por
+  label: Alterado, a partir de 01.11.2015, o art. 16.º da Port 99/2008 de 31-jan, com a redação dada pelo presente diploma,
+    pelo(a) Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-2015-70686128
+  date: '2015-10-14'
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235919:por
+  label: null
+  source: http://data.dre.pt/eli/port/1416-a/2006/12/19/p/dre
+- type: cites
+  target: pt:dre:443950:por
+  label: null
+  source: http://data.dre.pt/eli/port/1513/2008/12/23/p/dre
+- type: cites
+  target: pt:dre:444230:por
+  label: null
+  source: http://data.dre.pt/eli/port/1535/2008/12/30/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:47:17Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 426/2010
+
+de 29 de Junho
+
+Os regimes das taxas das certidões online do registo de veículos, da certidão permanente do registo predial bem como das informações de registo predial constam de portarias sucessivamente publicadas em consequência de alterações legislativas que, em concretização do programa SIMPLEX, foram aprovadas no contexto de diversos serviços prestados pelo Instituto dos Registos e do Notariado, I. P. (IRN) quanto a diferentes espécies de registo.
+
+Apesar de se ter optado por legislação autónoma, no curso de um processo faseado de uma reforma modernizadora encetada pelo Ministério da Justiça, nunca se perdeu de vista os objectivos fixados, nem a coerência dos princípios que lhe estão subjacentes.
+
+Esta é a linha orientadora em que se fundamenta a presente portaria que fixa as taxas do acesso à informação, mantendo intocável os objectivos de simplificação e celeridade que estiveram subjacentes à criação dos novos serviços online.
+
+Procede-se assim a um ajustamento dos valores devidos pela emissão de certidão online de registo de veículos, pela prestação de informações dadas por escrito e fotocópias não certificadas de registo predial e bem assim pela emissão de certidão permanente de registo predial. Faz-se cessar o período transitório em que era facultada a dedução do preço do registo o valor pago pela certidão permanente de registo predial, bem como o valor pago pelo envio da informação para exercício do direito legal de preferência fora do âmbito do procedimento casa-pronta. Prevê-se ainda que as taxas da certidão permanente do registo predial constituam receita do IRN, I. P. por força do disposto no artigo 8.º da portaria alterada, conjugado com o n.º 4 do artigo 13.º-I da [Portaria n.º 1416-A/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1416-a-2006-235919), de 19 de Dezembro.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do n.º 2 do artigo 55.º do Regulamento do Registo de Automóveis, aprovado pelo [Decreto n.º 55/75](https://diariodarepublica.pt/dr/detalhe/decreto/55-1975-159882), de 12 de Fevereiro, do n.º 1 do artigo 3.º do [Decreto-Lei n.º 145/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1985-152365), de 8 de Maio, e dos n.os 3 a 5 do artigo 110.º do Código do Registo Predial, o seguinte:
+
+###### Artigo 1.º — Alteração à Portaria n.º 99/2008, de 31 de Janeiro
+
+É alterado o artigo 16.º da Portaria n.º 99/2008, de 31 de Janeiro, que passa a ter a seguinte redacção:
+
+«Artigo 16.º
+
+Taxa da certidão online
+
+Pela assinatura do serviço certidão online é devido o pagamento da taxa de (euro) 10, a qual constitui receita do IRN, I. P.»
+
+###### Artigo 2.º — Alteração à Portaria n.º 622/2008, de 18 de Julho
+
+É alterado o artigo 2.º da Portaria n.º 622/2008, de 18 de Julho, que passa a ter a seguinte redacção:
+
+«Artigo 2.º
+
+Certidões, fotocópias, informações e certificados de registo predial
+
+1 - ...
+
+a) ...
+
+b) ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+3 - ...
+
+4 - ...
+
+5 - Por cada informação dada por escrito:
+
+a) Relativa a um prédio - (euro) 11;
+
+b) ...
+
+6 - ...
+
+7 - Por cada fotocópia não certificada, por cada página - (euro) 1.
+
+7.1 - Por cada cópia digital em formato PDF, por cada página - (euro) 0,50.
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - (Revogado.)»
+
+###### Artigo 3.º — Alteração à [Portaria n.º 1513/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1513-2008-443950), de 23 de Dezembro
+
+É alterado o artigo 6.º da [Portaria n.º 1513/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1513-2008-443950), de 23 de Dezembro, que passa a ter a seguinte redacção:
+
+«Artigo 6.º
+
+[...]
+
+1 - Por cada pedido de subscrição ou de renovação do acesso à certidão permanente do registo predial efectuado através do endereço www.predialonline.mj.pt, nos termos da alínea a) do n.º 1 do artigo 2.º, é devido o montante de (euro) 15.
+
+2 - (Revogado.)
+
+3 - Por cada pedido de subscrição ou de renovação do acesso à certidão permanente de registo predial pedida verbalmente num serviço de registo com competência para a prática de actos de registo predial, nos termos da alínea b), do n.º 1, do artigo 2.º, é devido o montante de (euro) 20.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - As taxas previstas neste artigo constituem receita do IRN, I. P.»
+
+###### Artigo 4.º — Norma revogatória
+
+São revogados:
+
+a) O n.º 2 do artigo 27.º da [Portaria n.º 1535/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), de 30 de Dezembro;
+
+b) O n.º 11 do artigo 2.º da Portaria n.º 622/2008, de 18 de Julho;
+
+c) O artigo 6.º da Portaria n.º 203/2007, de 13 de Fevereiro;
+
+d) Os n.os 2, 4 e 5 do artigo 6.º da [Portaria n.º 1513/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1513-2008-443950), de 23 de Dezembro.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+O Ministro da Justiça, Alberto de Sousa Martins, em 17 de Junho de 2010.

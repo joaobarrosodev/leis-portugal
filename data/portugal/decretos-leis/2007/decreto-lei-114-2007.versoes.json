@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:519402:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-116387615",
+ "dre_path": "/dr/detalhe/decreto-lei/114-2007-519402",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-04-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116357115",
+    "116357116",
+    "116357117",
+    "116357118",
+    "116357119",
+    "116357120",
+    "116357121",
+    "116357122",
+    "116357123"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116388437:por",
+     "title": "Decreto-Lei n.º 72/2018",
+     "published": "2018-09-12",
+     "dre_path": "/dr/detalhe/decreto-lei/72-2018-116388437"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "116357115",
+    "116357116",
+    "116357117",
+    "116357125",
+    "116357119",
+    "116357120",
+    "116357121",
+    "116357122",
+    "116357123",
+    "116357124"
+   ]
+  }
+ ],
+ "fragments": {
+  "116357115": {
+   "fragment_id": "116387616",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 114/2007\n\nde 19 de Abril\n\nPresentemente, verifica-se que os cidadãos e as empresas devem efectuar a apresentação de certidão comprovativa de situação tributária ou contributiva regularizada num conjunto de procedimentos administrativos, para cuja instrução ou decisão final esta formalidade é legal ou regulamentarmente imposta.\n\nEntende o Governo que, no actual estádio de desenvolvimento, o reforço dos canais de comunicação e de partilha da informação pública dentro da Administração Pública potencia uma mudança significativa do quadro vigente de funcionamento dos serviços públicos.\n\nImporta, pois, introduzir instrumentos de simplificação administrativa que eximam os cidadãos da sujeição a ónus e encargos desnecessários, no âmbito de procedimentos legal ou regulamentarmente instituídos, aproveitando as facilidades oferecidas pelas tecnologias da informação e da comunicação, para eliminar os antigos mecanismos existentes, facilitando o acesso e diminuindo os custos de gestão, do mesmo passo em que se libertam os serviços para a realização de outras tarefas que apresentam um maior índice de aproveitamento em matéria de satisfação das exigências da actual vida em sociedade.\n\nAssim, concretizando uma medida constante do Programa SIMPLEX 2006, são introduzidas medidas de desburocratização e desmaterialização no relacionamento dos cidadãos e das empresas com os serviços públicos, visando-se, através do presente decreto-lei, proceder à dispensa da apresentação de certidões comprovativas de situação tributária ou contributiva regularizada, prevendo a possibilidade de o interessado autorizar a consulta da referida informação nos sítios da Internet das declarações electrónicas e do serviço Segurança Social Directa.\n\nForam ouvidos a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias e a Comissão Nacional de Protecção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "116357116": {
+   "fragment_id": "116387617",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei institui a faculdade de dispensa, no relacionamento com os serviços públicos, de apresentação de certidão comprovativa de situação tributária ou contributiva regularizada, nos termos legalmente previstos."
+  },
+  "116357117": {
+   "fragment_id": "116387618",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Estão abrangidas pelo presente decreto-lei todas as pessoas e entidades que participem em procedimentos administrativos cujas entidades competentes para a sua instrução ou tomada da decisão final sejam:\n\na) Os serviços da administração directa do Estado;\n\nb) Os organismos da administração indirecta do Estado;\n\nc) As autarquias locais, suas associações ou federações e seus serviços, bem como as áreas metropolitanas.\n\n2 - Estão abrangidos pelo disposto no presente decreto-lei todos os procedimentos administrativos para cuja instrução ou decisão final seja legal ou regulamentarmente exigida a apresentação de certidão comprovativa de situação tributária ou contributiva regularizada."
+  },
+  "116357118": {
+   "fragment_id": "116387619",
+   "type": 11,
+   "heading": "Artigo 3.º — Dispensa de apresentação de certidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dispensa de apresentação de certidão\n\nÉ dispensada a apresentação de certidão comprovativa da situação tributária ou contributiva regularizada quando o interessado preste consentimento nos termos previstos no presente decreto-lei."
+  },
+  "116357119": {
+   "fragment_id": "116387620",
+   "type": 11,
+   "heading": "Artigo 4.º — Prestação do consentimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prestação do consentimento\n\n1 - Sem prejuízo do disposto no número seguinte, o consentimento para consulta da situação tributária ou contributiva regularizada é prestado de forma expressa e inequívoca pelo titular dos dados, nos sítios da Internet das declarações electrónicas, administrado pela Direcção-Geral da Informática e Apoio aos Serviços Tributários e Aduaneiros, e do serviço Segurança Social Directa, administrado pelo Instituto de Informática e Estatística da Segurança Social, I. P., podendo desse facto ser informada a entidade autorizada a consultar a informação relativa à situação tributária ou contributiva regularizada.\n\n2 - Nos procedimentos de reconhecimento de benefícios fiscais ou contributivos ou de outras vantagens de natureza tributária ou contributiva, bem como na concessão de apoios financeiros ou no reconhecimento de direitos no âmbito do sistema de segurança social ou no âmbito das políticas activas de emprego, o consentimento para a consulta da situação tributária ou contributiva regularizada é prestado no requerimento que inicia o procedimento, sendo válido apenas para esses procedimentos.\n\n3 - O consentimento do titular dos dados autoriza o serviço público identificado a aceder à informação constante dos sítios da Internet das declarações electrónicas e do serviço Segurança Social Directa com a finalidade de comprovar a existência de situação tributária ou contributiva regularizada para os efeitos previstos no n.º 2 do artigo 2.º\n\n4 - Após a prestação do consentimento, a informação relativa à situação tributária ou contributiva regularizada do titular dos dados fica disponível no prazo de 10 dias úteis após cada pedido de consulta efectuado pelas entidades autorizadas."
+  },
+  "116357120": {
+   "fragment_id": "116387621",
+   "type": 11,
+   "heading": "Artigo 5.º — Revogação do consentimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Revogação do consentimento\n\nO consentimento prestado nos termos do artigo anterior pode ser revogado a todo o tempo pelo titular dos dados através dos meios disponibilizados nos sítios da Internet referidos no n.º 1 do artigo anterior."
+  },
+  "116357121": {
+   "fragment_id": "116387622",
+   "type": 11,
+   "heading": "Artigo 6.º — Consulta da situação tributária ou contributiva regularizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Consulta da situação tributária ou contributiva regularizada\n\n1 - A comprovação da situação tributária ou contributiva regularizada é efectuada por via electrónica pelas entidades referidas no n.º 1 do artigo 2.º nos sítios da Internet das declarações electrónicas e do serviço Segurança Social Directa.\n\n2 - A informação obtida através da consulta realizada nos termos do presente artigo tem a validade de seis meses.\n\n3 - Nos sítios da Internet das declarações electrónicas e do serviço Segurança Social Directa é apenas disponibilizada informação respeitante à situação tributária ou contributiva dos titulares dos dados que tenham prestado consentimento nos termos do artigo 4.º, estando vedada a divulgação de qualquer outra informação relativa aos titulares dos dados, designadamente a indicação dos eventuais montantes em dívida.\n\n4 - Para comprovar a situação tributária ou contributiva regularizada, o serviço público autorizado deve utilizar a senha já disponível para acesso aos sítios das declarações electrónicas e do serviço Segurança Social Directa ou, caso não a tenha, solicitá-la às entidades referidas no n.º 1 do artigo 4.º\n\n5 - As entidades referidas no n.º 1 do artigo 2.º devem manter um registo dos funcionários que podem aceder à informação relativa à situação tributária ou contributiva dos titulares dos dados e estão obrigadas a conservar os documentos probatórios da consulta realizada que indiquem a data e o funcionário que realizou a consulta.\n\n6 - As entidades referidas no n.º 1 do artigo 4.º devem assegurar a existência de um registo das consultas efectuadas nos termos do presente decreto-lei, que identifique a data e o serviço público que efectuou a consulta.\n\n7 - É conferido ao titular dos dados o direito de acesso aos registos das consultas realizadas nos termos do presente artigo."
+  },
+  "116357122": {
+   "fragment_id": "116387623",
+   "type": 11,
+   "heading": "Artigo 7.º — Protecção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Protecção de dados\n\n1 - A informação obtida pelo serviço público não pode ser utilizada para outra finalidade que não seja a de comprovação da situação tributária ou contributiva regularizada, salvo se outro uso for estabelecido por lei ou expressamente consentido pelo titular dos dados nos termos legais.\n\n2 - O serviço público autorizado e as entidades responsáveis pela administração dos sítios da Internet das declarações electrónicas e do serviço Segurança Social Directa, na aplicação do presente decreto-lei, respeitam as normas legais vigentes sobre a protecção, tratamento e circulação de dados pessoais, bem como asseguram a salvaguarda da confidencialidade das informações obtidas."
+  },
+  "116357123": {
+   "fragment_id": "116387624",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação de certidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apresentação de certidão\n\nO disposto no presente decreto-lei não prejudica a apresentação de certidão de situação tributária ou contributiva regularizada, nos termos legalmente exigíveis, no caso de não prestação de consentimento ou da sua revogação."
+  },
+  "116357125": {
+   "fragment_id": "116387619",
+   "type": 11,
+   "heading": "Artigo 3.º — Dispensa de apresentação de certidão",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 72/2018 - Diário da República n.º 176/2018, Série I de 2018-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2018-116388437), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Dispensa de apresentação de certidão\n\n1 - É dispensada a apresentação de certidão comprovativa da situação tributária ou contributiva regularizada quando o interessado preste consentimento nos termos previstos no presente decreto-lei.\n\n2 - É igualmente dispensada a apresentação das certidões referidas no número anterior, para efeitos de aplicação dos procedimentos de verificação e comprovação da inexistência de impedimentos à contratação previstos no Código dos Contratos Públicos, no âmbito do Portal dos Fornecedores do Estado.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 72/2018 - Diário da República n.º 176/2018, Série I de 2018-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2018-116388437), em vigor a partir de 2019-01-01"
+  },
+  "116357124": {
+   "fragment_id": "116387625",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.\n\nPromulgado em 27 de Março de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 28 de Março de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

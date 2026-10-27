@@ -1,0 +1,325 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400473:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-892301234",
+ "dre_path": "/dr/detalhe/portaria/844-1984-400473",
+ "source_lastmod": "2024-10-22",
+ "versions": [
+  {
+   "date": "1984-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "892302269",
+    "892302230",
+    "892302231",
+    "892302232",
+    "892302233",
+    "892302234",
+    "892302235",
+    "892302236",
+    "892302237",
+    "892302238",
+    "892302239",
+    "892302240",
+    "892302241",
+    "892302242",
+    "892302243",
+    "892302244",
+    "892302245",
+    "892302246",
+    "892302247",
+    "892302248",
+    "892302249",
+    "892302250",
+    "892302251",
+    "892302252",
+    "892302253",
+    "892302254",
+    "892302255",
+    "892302256",
+    "892302257",
+    "892302258",
+    "892302259",
+    "892302260",
+    "892302261"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:144050:por",
+     "title": "Declaração",
+     "published": "1985-01-31",
+     "dre_path": "/dr/detalhe/declaracao/1985-144050",
+     "date": "1985-01-31"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "892302269": {
+   "fragment_id": "892301235",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1985-01-31",
+   "changed_by": [],
+   "markdown": "Portaria n.º 844/84\n\nde 2 de Novembro\n\nO Regulamento da Classificação de Serviço na Função Pública, aprovado pelo Decreto Regulamentar n.º 44-B/83, de 1 de Junho, é aplicável a todos os funcionários e agentes com categoria igual ou inferior a assessor ou equivalente dos serviços e organismos da administração central e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.\n\nConsiderando que os organismos referidos no artigo 1.º do Decreto-Lei n.º 247/79, de 25 de Julho, todos dependentes do Ministério do Mar, têm carreiras específicas e regime jurídico-laboral próprio, aprovado por este decreto-lei;\n\nConsiderando que o Regulamento referido, aprovado pelo Decreto Regulamentar n.º 44-B/83, prevê o estabelecimento de um sistema de classificação quando estejam em causa estruturas orgânicas específicas, como é o caso, entende-se, ao abrigo do artigo 41.º desse decreto regulamentar, dever regulamentar a classificação de serviço a que esta disposição se reporta, mediante portaria conjunta do Ministro do Mar e do Secretário de Estado da Administração Pública.\n\nNesta regulamentação foi considerada, na medida em que as circunstâncias o permitem, o regime geral de classificação aprovado pelo Decreto Regulamentar n.º 44-B/83, antes referido.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelo Ministro do Mar e pelo Secretário de Estado da Administração Pública, o seguinte:\n\n1.º São aprovados o Regulamento de Classificação de Serviço dos organismos referidos no artigo 1.º do Decreto-Lei n.º 247/79, de 25 de Julho, e modelos de impressos de fichas de notação que fazem parte integrante da presente portaria.\n\n2.º O processo de classificação de serviço iniciar-se-á 90 dias após a entrada em vigor do presente diploma, reportando-se os seus efeitos ao primeiro dia do respectivo ano civil.\n\n3.º Antes do termo do prazo referido no número anterior será promovida a constituição das comissões consultivas previstas no capítulo IV do Regulamento e proferido o despacho a que se reporta o n.º 4 do artigo 7.º do mesmo diploma.\n\n4.º No primeiro processo de classificação considerar-se-ão a tramitação processual e os intervalos temporais previstos no Regulamento de Classificação de Serviço agora aprovado.\n\n5.º A primeira classificação reportar-se-á a todo o tempo de serviço condicionante de promoção, relativamente a cada categoria.\n\nPresidência do Conselho de Ministros e Ministério do Mar.\n\nAssinada em 24 de Agosto de 1984.\n\nO Ministro do Mar, Carlos Montez Melancia. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.\n\nRegulamento de Classificação de Serviço de Pessoal das Administrações Portuárias, Direcção-Geral de Portos e Juntas Autónomas dos Portos"
+  },
+  "892302230": {
+   "fragment_id": "892301236",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "892302231": {
+   "fragment_id": "892301237",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito de aplicação)\n\n1 - A classificação de serviço a que se refere o artigo 9.º do Decreto-Lei n.º 247/79, de 25 de Julho, rege-se pelas normas constantes do presente Regulamento e aplica-se a todos os funcionários e agentes com categoria inferior ou igual a assessor.\n\n2 - O disposto neste Regulamento não é aplicável ao pessoal abrangido pelo regime prescrito no Decreto-Lei n.º 191-F/79, de 26 de Junho, e aos chefes de repartição."
+  },
+  "892302232": {
+   "fragment_id": "892301238",
+   "type": 11,
+   "heading": "Artigo 2.º — (Finalidades da classificação de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Finalidades da classificação de serviço)\n\nA classificação de serviço, para além das situações previstas no artigo seguinte, visa:\n\na) A avaliação profissional do funcionário ou agente, tendo em atenção os conhecimentos e qualidades de que fez prova no exercício das suas funções;\n\nb) A valorização e a melhoria da eficácia profissional de cada funcionário e agente, possibilitando-lhe conhecer o juízo que os seus superiores hierárquicos formulam quanto ao desempenho das suas funções;\n\nc) Contribuir para o diagnóstico das situações de trabalho e do modo da sua execução, com vista ao estabelecimento de medidas tendentes à sua correcção e valorização;\n\nd) Detectar a eventual necessidade de acções de formação."
+  },
+  "892302233": {
+   "fragment_id": "892301239",
+   "type": 11,
+   "heading": "Artigo 3.º — (Casos em que é requisito de provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Casos em que é requisito de provimento)\n\n1 - A classificação de serviço é obrigatoriamente considerada nos seguintes casos:\n\na) Promoção e progressão na carreira;\n\nb) Admissão em diferente categoria ou cargo a que corresponda, no quadro do pessoal, categoria superior da respectiva carreira;\n\nc) Conversão da nomeação provisória em definitiva.\n\n2 - Para efeito do número anterior é exigida a classificação de serviço de Bom, excepto nos casos em que é legalmente indispensável a classificação de Muito bom.\n\n3 - Os processos a enviar ao Tribunal de Contas para os efeitos previstos no Decreto-Lei n.º 146-C/80, de 22 de Maio, deverão ser instruídos com cópia da primeira página do processo de classificação do funcionário, devidamente preenchida, excepto nos casos em que, nos termos do presente Regulamento, a classificação de serviço venha a ser suprida por adequada ponderação do currículo profissional, caso em que será devidamente justificada no processo a remeter."
+  },
+  "892302234": {
+   "fragment_id": "892301240",
+   "type": 11,
+   "heading": "Artigo 4.º — (Expressão da classificação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Expressão da classificação)\n\n1 - A classificação de serviço exprime-se por uma das seguintes menções qualitativas:\n\na) Não satisfatório;\n\nb) Regular;\n\nc) Bom;\n\nd) Muito bom.\n\n2 - As menções qualitativas a que se refere o número anterior resultam da tradução da pontuação atingida pelo notado nas respectivas fichas de notação anexas, que fazem parte integrante deste Regulamento.\n\n3 - Nas fichas de notação, cada factor é susceptível de graduação em 5 posições principais, pontuadas em 2, 4, 6, 8 e 10, com utilização dos valores intermédios, resultando a pontuação da média aritmética dos pontos em que foi graduado em cada um dos factores.\n\n4 - Sempre que a pontuação obtida se traduzir num número decimal, proceder-se-á ao seu arrendondamento para número inteiro, por excesso ou defeito, consoante o valor obtido seja igual a 0,5 ou inferior, respectivamente.\n\n5 - À classificação atribuída, nos termos dos números anteriores, corresponde a seguinte graduação:\n\na) 2 e 3 - Não satisfatório;\n\nb) 4 e 5 - Regular;\n\nc) 6, 7 e 8 - Bom;\n\nd) 9 e 10 - Muito bom.\n\n6 - Quando houver lugar à utilização da ficha n.º 5 referida no artigo seguinte, a classificação de serviço exprime-se numa das seguintes menções:\n\nA - Muito bom;\n\nB - Bom;\n\nC - Insatisfatório.\n\n7 - A classificação de Muito bom só poderá ser atribuída com 2 factores valorados com o grau A e nenhum com o grau C.\n\n8 - A classificação de Insatisfatório só poderá ser atribuída com 3 factores valorados no grau C."
+  },
+  "892302235": {
+   "fragment_id": "892301241",
+   "type": 11,
+   "heading": "Artigo 5.º — (Fichas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Fichas)\n\n1 - Serão utilizadas 5 fichas de classificação, destinando-se:\n\na) A ficha n.º 1 ao pessoal técnico superior e técnico;\n\nb) A ficha n.º 2 ao pessoal técnico-profissional e administrativo;\n\nc) A ficha n.º 3 ao pessoal auxiliar;\n\nd) A ficha n.º 4 ao pessoal operário;\n\ne) A ficha n.º 5 ao pessoal para efeito de conversão da nomeação provisória em definitiva.\n\n2 - Para os efeitos previstos nas alíneas a) a d) do número anterior, as diferentes categorias do quadro do pessoal de cada organismo serão agrupadas segundo os critérios constantes do Decreto-Lei n.º 191-C/79, de 25 de Junho."
+  },
+  "892302236": {
+   "fragment_id": "892301242",
+   "type": 11,
+   "heading": "Artigo 6.º — (Coeficientes de ponderação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Coeficientes de ponderação)\n\n1 - Mediante proposta dos directores de serviço ao dirigente do respectivo organismo, ouvidos os serviços competentes na área de gestão de pessoal, poderão ser introduzidos coeficientes de ponderação para valorização dos diferentes factores, tendo em atenção as funções efectivamente desempenhadas.\n\n2 - A ponderação de factores prevista no número anterior poderá ser diferente para as várias categorias da mesma carreira, utilizando-se sempre a mesma ficha de classificação."
+  },
+  "892302237": {
+   "fragment_id": "892301243",
+   "type": 1,
+   "heading": "Capítulo II — Competência para avaliar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Competência para avaliar"
+  },
+  "892302238": {
+   "fragment_id": "892301244",
+   "type": 11,
+   "heading": "Artigo 7.º — (Comissão de avaliação para classificação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Comissão de avaliação para classificação)\n\n1 - A avaliação e a notação dos funcionários competirão a uma comissão de avaliação para classificação.\n\n2 - A comissão será constituída pelos superiores hierárquicos, com um número mínimo de 3 elementos, do seguinte modo:\n\ni) O chefe imediato do notado;\n\nii) O dirigente que na escala hierárquica se situe na posição imediatamente inferior ao director de serviços;\n\niii) O director de serviços.\n\n3 - Quando não for possível constituir a comissão com o número de elementos referidos no número anterior, tal facto deverá ser objecto de despacho fundamentado do dirigente competente para homologar.\n\n4 - Os notadores referidos no número anterior serão designados através dos serviços de pessoal, por despacho do dirigente com competência para homologar a classificação de serviço, a proferir até 20 de Dezembro de cada ano.\n\n5 - Quando não for possível constituir a comissão nos termos do n.º 2 do presente artigo, poderão ser designados como notadores, de acordo com despacho fundamentado, outros funcionários com categoria superior aos notados e que tenham atribuições de chefia ou coordenação de trabalho.\n\n6 - Os notadores deverão possuir, no mínimo, 6 meses de contacto funcional com o notado.\n\n7 - O exercício da competência para avaliar e notar será precedido, sempre que possível, de reunião conjunta dos notadores para consenso dos procedimentos a adoptar."
+  },
+  "892302239": {
+   "fragment_id": "892301245",
+   "type": 11,
+   "heading": "Artigo 8.º — (Competência para homologar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Competência para homologar)\n\n1 - A competência para homologar as classificações é do dirigente do respectivo organismo ou de em quem tenha sido delegada essa atribuição.\n\n2 - Quando a entidade com competência para homologar não concordar com a classificação proposta pela comissão de avaliação, deverá ela própria atribuir a respectiva classificação, mediante despacho fundamentado, ouvindo, se ainda o não tiver feito, a comissão consultiva referida no capítulo IV do presente Regulamento.\n\n3 - A intervenção como notador do dirigente com competência para homologar não prejudica posterior homologação pelo mesmo dirigente da classificação atribuída."
+  },
+  "892302240": {
+   "fragment_id": "892301246",
+   "type": 1,
+   "heading": "Capítulo III — Modalidades e relevância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Modalidades e relevância"
+  },
+  "892302241": {
+   "fragment_id": "892301247",
+   "type": 11,
+   "heading": "Artigo 9.º — (Modalidades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Modalidades)\n\nA classificação de serviço pode ser ordinária e extraordinária."
+  },
+  "892302242": {
+   "fragment_id": "892301248",
+   "type": 11,
+   "heading": "Artigo 10.º — (Classificação ordinária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Classificação ordinária)\n\nA classificação ordinária abrange todos os funcionários e agentes que contem no ano civil anterior mais de 6 meses de serviço efectivo prestado em contacto funcional com o notador ou notadores competentes, nos termos do presente Regulamento."
+  },
+  "892302243": {
+   "fragment_id": "892301249",
+   "type": 11,
+   "heading": "Artigo 11.º — (Classificação extraordinária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Classificação extraordinária)\n\n1 - A classificação extraordinária abrange os funcionários que perfaçam 6 meses de contacto funcional até 30 de Junho com os funcionários com competência para notar, nos termos do presente Regulamento, e não tenham sido objecto de classificação ordinária.\n\n2 - A classificação extraordinária poderá ser solicitada, por escrito, pelo interessado ao dirigente do organismo, no decurso do mês de Junho de cada ano."
+  },
+  "892302244": {
+   "fragment_id": "892301250",
+   "type": 11,
+   "heading": "Artigo 12.º — (Tempo de serviço classificado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Tempo de serviço classificado)\n\n1 - A classificação de serviço ordinária reporta-se ao ano civil anterior.\n\n2 - A classificação de serviço extraordinária abrange todo o período decorrido até 30 de Junho do ano em que é atribuída e inclui o período de tempo correspondente ao ano civil anterior que não tenha sido objecto de classificação ordinária."
+  },
+  "892302245": {
+   "fragment_id": "892301251",
+   "type": 11,
+   "heading": "Artigo 13.º — (Relevância para efeitos na carreira)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Relevância para efeitos na carreira)\n\n1 - Para efeitos de promoção e progressão nas carreiras, as classificações atribuídas deverão ser em número igual ao número de anos exigidos como requisito de tempo mínimo de permanência na categoria inferior e reportadas aos anos imediatamente anteriores relevantes para aquele efeito.\n\n2 - Não prejudica o disposto no número antecedente ter sido alterada a categoria anterior em que ocorreu o provimento, bem como o funcionário ter mudado de quadro ou serviço no âmbito dos organismos abrangidos por este Regulamento"
+  },
+  "892302246": {
+   "fragment_id": "892301252",
+   "type": 11,
+   "heading": "Artigo 14.º — (Casos especiais de relevância)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Casos especiais de relevância)\n\n1 - Relativamente ao pessoal que tenha desempenhado funções dirigentes ao abrigo do regime constante do Decreto-Lei n.º 191-F/79, de 26 de Junho, a classificação de serviço obtida no último ano de exercício no lugar de origem reporta-se igualmente aos anos seguintes relevantes para efeitos de promoção.\n\n2 - O princípio contido no número anterior é igualmente aplicável às situações de exercício de cargo ou função de reconhecido interesse público, bem como de funções sindicais ou de prestação de serviço militar obrigatório, desde que impeditivas de atribuição de classificação de serviço."
+  },
+  "892302247": {
+   "fragment_id": "892301253",
+   "type": 11,
+   "heading": "Artigo 15.º — (Suprimento da falta de classificação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Suprimento da falta de classificação)\n\n1 - Nos casos em que a classificação de serviço deva ser obrigatoriamente considerada, a sua falta será suprida por adequada ponderação do currículo profissional, no que respeita ao período de tempo não classificado, nos seguintes casos:\n\na) Quando o funcionário permanecer em situação que inviabilize a atribuição de classificação reportada ao seu lugar de origem, designadamente quando não puder solicitar classificação extraordinária ou quando não se encontrar numa das situações previstas no n.º 2 do artigo 14.º;\n\nb) Quando pela aplicação das normas constantes do presente Regulamento não tiver sido possível a designação de notador ou notadores;\n\nc) Nos casos em que a ausência ou impedimento dos notados e notadores não permitam a atribuição de classificação de serviço.\n\n2 - Na ponderação do currículo profissional ter-se-ão em conta, em termos a definir pelo dirigente do respectivo organismo, entre outros parâmetros, as habilitações académicas e profissionais do interessado, a sua participação em acções de formação e aperfeiçoamento, bem como o conteúdo das suas funções no serviço ou organismo em que as exerceu, no período considerado.\n\n3 - À expressão valorativa do currículo profissional, para efeitos de suprimento de classificação de serviço, aplicar-se-á, com as necessárias adaptações, o disposto no artigo 4.º do presente Regulamento."
+  },
+  "892302248": {
+   "fragment_id": "892301254",
+   "type": 11,
+   "heading": "Artigo 16.º — (Ponderação do currículo profissional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Ponderação do currículo profissional)\n\nA ponderação do currículo profissional será levada a efeito pelo júri dos concursos de promoção ou, relativamente às demais situações previstas no n.º 1 do artigo 3.º do presente Regulamento, pelo dirigente máximo do organismo, que poderá delegar essa competência num superior hierárquico."
+  },
+  "892302249": {
+   "fragment_id": "892301255",
+   "type": 11,
+   "heading": "Artigo 17.º — (Admissão a concurso nos casos de avaliação curricular)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Admissão a concurso nos casos de avaliação curricular)\n\n1 - Os interessados não deixarão de ter o direito de apresentar a sua candidatura a concursos de promoção nos casos de falta de classificação de serviço previstos no artigo 15.º\n\n2 - Quando for possível a redução do tempo de permanência na categoria inferior, permitida no n.º 3 do artigo 4.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, a inclusão nas listas de candidatos admitidos dependerá de deliberação favorável do júri, nos termos previstos para a regulamentação dos concursos, tendo como base a apreciação do currículo profissional do interessado, de acordo com o artigo 15.º, n.º 2, na medida em que tiver sido entendido que o mesmo justifique a redução do tempo de permanência na categoria inferior.\n\n3 - A apreciação do currículo referida no número anterior só é relevante para fins de admissão a concurso e não prejudica, em caso de deliberação favorável, nova apreciação curricular para efeitos de ordenamento dos candidatos."
+  },
+  "892302250": {
+   "fragment_id": "892301256",
+   "type": 11,
+   "heading": "Artigo 18.º — (Tempo de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Tempo de serviço)\n\nO tempo de serviço a que se referem os artigos anteriores reporta-se, para efeitos de promoção, ao tempo de serviço calculado nos termos dos critérios legalmente fixados sobre a matéria, designadamente no Decreto-Lei n.º 90/72, de 18 de Março."
+  },
+  "892302251": {
+   "fragment_id": "892301257",
+   "type": 1,
+   "heading": "Capítulo IV — Comissões consultivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Comissões consultivas"
+  },
+  "892302252": {
+   "fragment_id": "892301258",
+   "type": 11,
+   "heading": "Artigo 19.º — (Constituição e composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Constituição e composição)\n\n1 - Por despacho do dirigente do respectivo organismo ou de em quem tenha sido delegada competência para homologar as classificações de serviço, poderão ser constituídas uma ou mais comissões consultivas.\n\n2 - A comissão é o órgão de consulta do dirigente com competência para homologar a classificação de serviço.\n\n3 - Cada comissão será constituída por 4 vogais, sendo 2 representantes dos organismos e 2 representantes dos notados.\n\n4 - Os vogais representantes dos organismos serão designados pela entidade com competência para homologar a classificação de serviço, de entre funcionários ou agentes não notados no período em apreciação."
+  },
+  "892302253": {
+   "fragment_id": "892301259",
+   "type": 11,
+   "heading": "Artigo 20.º — (Designação, eleição e mandato dos vogais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Designação, eleição e mandato dos vogais)\n\n1 - Os representantes dos notados serão eleitos por escrutínio secreto, em número de 4, 2 efectivos e 2 suplentes, pelos funcionários e agentes, de acordo com os critérios que forem fixados no aviso a que se refere o número seguinte.\n\n2 - O dirigente máximo do organismo promoverá a publicação de aviso, no mês de Outubro de cada ano, em que regulamentará o processo de eleição, do qual deverão constar, entre outros, os seguintes pontos:\n\na) Data limite para indicação, pelos trabalhadores notados, dos membros da mesa ou mesas de voto, referindo expressamente que, na ausência dessa indicação, os mesmos serão designados pelo dirigente competente até 48 horas antes da realização do acto eleitoral;\n\nb) Número de elementos da mesa ou mesas de voto, o qual não deverá ser superior a 5 por cada mesa, incluindo os membros suplentes;\n\nc) Data do acto eleitoral;\n\nd) Período e local de funcionamento das mesas de voto;\n\ne) Data limite de comunicação dos resultados ao dirigente respectivo;\n\nf) Dispensa dos membros das mesas de voto do exercício dos seus deveres funcionais no dia em que houver eleições, sendo igualmente concedidas facilidades aos restantes trabalhadores pelo período estritamente indispensável para o exercício do direito a voto.\n\n3 - O mandato da comissão consultiva inicia-se no dia 1 de Janeiro e termina a 31 de Dezembro do mesmo ano, sem prejuízo de se entender prorrogado, se necessário.\n\n4 - A não participação dos trabalhadores na eleição implicará a não constituição da comissão consultiva, sem, contudo, obstar ao prosseguimento do processo de classificação de serviço, entendendo-se como irrelevantes quaisquer pedidos de audição ou de emissão de pareceres por esse órgão.\n\n5 - A eleição deverá estar concluída no mês de Dezembro de cada ano."
+  },
+  "892302254": {
+   "fragment_id": "892301260",
+   "type": 1,
+   "heading": "Capítulo V — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Processo"
+  },
+  "892302255": {
+   "fragment_id": "892301261",
+   "type": 11,
+   "heading": "Artigo 21.º — (Confidencialidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Confidencialidade)\n\n1 - O processo de classificação tem carácter confidencial, devendo as fichas de notação ser arquivadas no respectivo processo individual.\n\n2 - Todos os intervenientes no processo de classificação ficam obrigados ao dever de sigilo nesta matéria.\n\n3 - O disposto nos números anteriores não impede que em qualquer fase do processo sejam passadas certidões das fichas de notação, mediante pedido do notado, formulado por escrito, ao dirigente com competência para homologar as classificações de serviço."
+  },
+  "892302256": {
+   "fragment_id": "892301262",
+   "type": 11,
+   "heading": "Artigo 22.º — (Ausência ou impedimento de notados e de notadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Ausência ou impedimento de notados e de notadores\n\n1 - A situação de ausência ou de impedimento de notados ou de notadores não é impeditiva da atribuição da classificação de serviço e do cumprimento dos prazos fixados.\n\n2 - Quando as situações referidas no número anterior forem consideradas absolutamente insuperáveis pela entidade competente para homologar a classificação de serviço, o processo ficará suspenso, reiniciando-se a contagem dos prazos logo que cesse a ausência ou impedimento, se qualquer destas circunstâncias tiver lugar no mesmo ano civil.\n\n3 - Caso a ausência ou impedimento referidos no número anterior não cessem no mesmo ano civil, não será atribuída classificação de serviço, sendo aplicável o disposto no artigo 15.º quando estiverem em causa casos em que a classificação de serviço é obrigatória, conforme o disposto no artigo 3.º"
+  },
+  "892302257": {
+   "fragment_id": "892301263",
+   "type": 11,
+   "heading": "Artigo 23.º — (Preenchimento das fichas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Preenchimento das fichas)\n\n1 - As fichas serão enviadas pelos serviços de pessoal aos dirigentes dos outros serviços até 10 de Janeiro de cada ano.\n\n2 - O processo de classificação ordinária inicia-se com o preenchimento pelos notados, nos primeiros 15 dias do mês de Janeiro, das rubricas sobre actividades relevantes durante o período em apreciação e funções exercidas, constantes das fichas de notação aplicáveis.\n\n3 - As fichas serão recolhidas até 31 de Janeiro de cada ano pelos dirigentes referidos no n.º 1, que deverão prestar aos notados todos os esclarecimentos para o preenchimento das mesmas.\n\n4 - As fichas serão distribuídas aos notadores até 5 de Fevereiro.\n\n5 - As restantes rubricas, na parte aplicável, serão preenchidas pelos notadores até 15 de Março.\n\n6 - As fichas, depois de terem sido dadas a conhecer aos notados pelos dirigentes dos respectivos serviços, serão posteriormente enviadas aos serviços de pessoal até 31 de Março."
+  },
+  "892302258": {
+   "fragment_id": "892301264",
+   "type": 11,
+   "heading": "Artigo 24.º — (Prazos de homologação e conhecimento aos notados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Prazos de homologação e conhecimento aos notados)\n\n1 - As fichas serão apresentadas, através dos serviços de pessoal, à entidade com competência para homologar, devendo as classificações de serviço ordinárias ser homologadas até 10 de Maio de cada ano civil.\n\n2 - As fichas, depois de homologadas, serão dadas a conhecer a cada um dos notados, através dos serviços de pessoal, até ao fim do mês de Maio."
+  },
+  "892302259": {
+   "fragment_id": "892301265",
+   "type": 11,
+   "heading": "Artigo 25.º — (Especialidades no processo de classificação extraordinária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Especialidades no processo de classificação extraordinária)\n\n1 - Nos processos de classificação extraordinária, que seguem os trâmites do processo de classificação ordinária, as rubricas sobre funções exercidas e actividades relevantes durante o período de apreciação deverão ser preenchidas pelos notados nos primeiros 10 dias úteis do mês de Junho, devendo até ao fim deste mês ser preenchidas pelos notadores as restantes rubricas aplicáveis.\n\n2 - A partir de 31 de Julho contar-se-ão intervalos temporais entre cada uma das fases do processo."
+  },
+  "892302260": {
+   "fragment_id": "892301266",
+   "type": 11,
+   "heading": "Artigo 26.º — (Reclamação e recurso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Reclamação e recurso)\n\n1 - Os notados, após terem tido o conhecimento a que se refere o artigo 23.º, n.º 6, dispõem de um prazo de 5 dias úteis para deduzir reclamação, a requerimento para a entidade com competência para homologar, que determinará que os notadores e a comissão consultiva se pronunciem por escrito no prazo de 10 dias, após o que sustentará ou modificará a classificação atribuída, sempre mediante despacho fundamentado.\n\n2 - Da decisão proferida no processo, pela entidade competente para homologar a classificação de serviço, caberá recurso nos termos gerais de direito."
+  },
+  "892302261": {
+   "fragment_id": "892301267",
+   "type": 11,
+   "heading": "Artigo 27.º — (Classificação atribuída e homologação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Classificação atribuída e homologação)\n\nOs resultados das notações serão homologados após ter decorrido o último prazo referido no artigo anterior.\n\n(ver documento original)"
+  }
+ }
+}

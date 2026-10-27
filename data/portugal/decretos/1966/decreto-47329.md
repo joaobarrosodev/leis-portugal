@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:477617:por
+title: Decreto n.º 47329
+short_title: null
+summary: Define o regime da não comerciabilidade genérica das licenças concedidas, posterior e anteriormente à entrada em
+  vigor do presente diploma, para o exercício da actividade transportadora em automóveis de aluguer
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Comunicações - Gabinete do Ministro
+proposing_entity: null
+official_number: '47329'
+official_date: null
+publication_date: '1966-11-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 271/1966, Série I de 1966-11-22
+  number: '271'
+  series: I
+  supplement: null
+  pages: 1856 - 1857
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/11/27100/18561857.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '477617'
+  dre_path: /dr/detalhe/decreto/47329-1966-477617
+  internal: pt:dre:477617:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/47329-1966-477617
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47329-1966-477617
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 75c2f8496858d5d901f1a32cd35827bb8780f2a19f4d3f72561959fbb9c389dc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Transitária
+- Definição de Competências
+- Licenciamento
+- Transporte de Carga
+- Transporte de Passageiros
+- Veículo de Aluguer
+relationships:
+- type: amended_by
+  target: pt:dre:462197:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:351953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:462197:por
+  label: "Revogado pelo DEC LEI.448/80.06.10.1980.MTC, DR.IS [231] de 06.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/448-1980-462197
+  date: '1980-10-06'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:53:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 47329
+
+1. Compete à Administração, num regime que, constitucionalmente, se considera limitado pela moral e pelo direito, zelar pela moralidade e pelo legalismo das actividades que enquadra. Assim se dará mais autenticidade ao Estado e maior confiança aos cidadãos.
+
+Ora, constitui um facto do conhecimento geral que as licenças para o exercício da actividade transportadora em automóveis de aluguer têm sido transaccionadas por somas elevadas ou postas em comum em sociedades, constituindo participação importante no respectivo activo social.
+
+Provém este valor da limitação do seu número em virtude do regime do contingentamento a que a sua concessão está sujeita e que todo um complexo de razões económicas, de coordenação dos transportes, de trânsito e outras impõe que se mantenha.
+
+2. A especulação feita com o traspasse de tais licenças, além de representar, de facto, uma prática condenável a que o Governo não podia ficar indiferente, provoca uma distorção no acesso ao mercado dos transportes, que se deve evitar dentro dos objectivos da lei geral de coordenação em vigor [base VIII da [Lei n.º 2008](https://diariodarepublica.pt/dr/detalhe/lei/2008-1945-468608), de 7 de Setembro de 1945: «instituir o regime jurídico mais adequado à respectiva categoria (de transportes)»] e da política geral seguida na matéria.
+
+Consagra-se no presente diploma a não comerciabilidade genérica das licenças concedidas posteriormente à sua entrada em vigor e estabelece-se, para as concedidas anteriormente, um regime de transição por um lapso de tempo que se julga suficiente para não se frustrarem expectativas porventura existentes em face do regime em vigor.
+
+Sem quebra do princípio definido, são fixados, taxativamente, os casos em que, apesar da extinção ou cancelamento automático das licenças, determinadas pessoas ou entidades têm preferência na obtenção de títulos idênticos; ditam esta norma razões de justiça social ou de incentivo à concentração da exploração da indústria, sob formas que se consideram mais aptas a uma melhoria técnica e económica do serviço ou à promoção profissional dos titulares das licenças.
+
+3. A solução adoptada, além de possuir uma inegável base de ordem moral, radica-se igualmente em sólidos fundamentos de natureza jurídica.
+
+Desde logo a concessão das licenças é um acto gracioso da Administração, não implicando qualquer contrapartida económica para os particulares que as obtêm.
+
+Depois são as licenças, intrìnsecamente, títulos pessoais e caducáveis. Pessoais, pois a sua atribuição é feita mediante apreciação de qualificações subjectivas dos respectivos requerentes, funcionando esta exigência como garantia de uma actividade que constitui um serviço público; títulos caducáveis, pois a Administração pode cancelar as licenças, a todo o momento, desde que não sejam cumpridas as disposições regulamentares relativas à disciplina da profissão.
+
+Finalmente, o direito conferido pela licença constitui um direito subjectivo público, cujo sujeito passivo é a Administração e cujo conteúdo se traduz pela possibilidade de o seu titular pretender, e não «exigir», dela um determinado comportamento. No caso, um comportamento negativo: o de permitir um uso anormal do domicílio público, através da circulação ou do estacionamento privativo com fins lucrativos.
+
+Ficam assim apontados os dois fundamentos nucleares da intervenção administrativa neste sector: a noção de serviço público e a domínio público. E não será ousado concluir que a Administração não deverá ter uma actuação meramente de polícia, nem ser substituída pelos particulares no contrôle do acesso a um serviço de interesse geral e de um bem a que lhe cumpre assegurar a melhor exploração.
+
+4. Não constitui, por outro lado, qualquer inovação proibir-se a negociabilidade das licenças de aluguer. Já o próprio Regulamento de Transportes em Automóveis ([Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948) a negava relativamente às licenças destinadas à execução de contratos de serviço combinado com o caminho de ferro ou relativas a transportes que exigissem o emprego de veículos especialmente adaptados (artigo 17.º, § 8.º); e também o [Decreto n.º 41806](https://diariodarepublica.pt/dr/detalhe/decreto/41806-1958-351953), de 8 de Agosto de 1958, que institui a indústria do aluguer sem condutor, consagrou idêntico princípio no § 3.º do seu artigo 4.º
+
+De resto, além de não se tratar, entre nós, de uma inovação, soluções de efeitos práticos semelhantes têm sido adoptadas em vários países, podendo citar-se, como exemplos e relativamente aos transportes em automóveis ligeiros, o Regulamento Nacional dos Serviços Urbanos de Transportes em Automóveis Ligeiros, em Espanha, e o decreto sobre a indústria de táxis de Paris, em França.
+
+5. Esta medida, que visa um melhor ordenamento do acesso ao mercado dos transportes, carece de ser coadjuvada com outras, que se seguirão, tais como a revisão dos contingentes no sentido de uma maior flexibilidade das limitações quantitativas e a definição mais rigorosa das limitações qualitativas do acesso à profissão.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 9.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º Todas as licenças que, posteriormente à entrada em vigor deste decreto, forem concedidas para o exercício da indústria de transportes de aluguer em automóveis ligeiros de passageiros e em automóveis pesados e ligeiros de carga serão consideradas bens fora do comércio e, consequentemente, insusceptíveis de constituírem objecto de quaisquer actos a título gratuito ou oneroso, entre vivos ou mortis causa, e, ainda, por disposição dos seus titulares, serem postas em comum em qualquer sociedade.
+
+Art. 2.º A morte, nas pessoas singulares, a liquidação ou qualquer outra forma de extinção, nas pessoas colectivas, implicam o cancelamento automático das licenças de que forem titulares.
+
+Art. 3.º Gozam, no entanto, de preferência na concessão de títulos idênticos aos cancelados, nos termos do artigo anterior, desde que tal não implique modificação dos contingentes e dependendo de homologação da Direcção-Geral de Transportes Terrestres:
+
+a) Quanto às pessoas singulares, aquelas que, por morte do titular da licença e por força de sucessão legitima ou legitimária, se tornem legítimos donos do equipamento indispensável ao exercício da actividade transportadora.
+
+Para que esta preferência tenha eficácia plena, deverá a licença ser requerida no prazo máximo de 120 dias, contados da data do falecimento do titular, por uma única pessoa que reúna as qualificações necessárias exigidas para o acesso à profissão, com o acordo das restantes em igualdade de condições.
+
+b) Quanto às pessoas colectivas, as empresas que resultem da fusão de outras já titulares de licenças do mesmo tipo, desde que reúnam uma dimensão mínima, em número de veículos ou capacidade, a fixar por despacho do Ministro das Comunicações.
+
+Art. 4.º Serão canceladas todas as licenças que se mostrem ser exploradas por entidade diversa do respectivo titular.
+
+Art. 5.º Gozam de preferência idêntica à consagrada no artigo 3.º as sociedades cooperativas formadas por condutores, titulares de, pelo menos, vinte licenças, relativamente às dos sócios que serão canceladas em virtude do disposto no artigo anterior.
+
+Art. 6.º Às licenças concedidas anteriormente à vigência deste diploma aplicar-se-á o regime actualmente em vigor, durante dois anos, findos os quais ficam as licenças sujeitas integralmente ao regime definido nos artigos precedentes, consolidando-se no último titular.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 22 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

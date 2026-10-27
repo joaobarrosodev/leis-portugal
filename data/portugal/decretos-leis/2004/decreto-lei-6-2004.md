@@ -1,0 +1,566 @@
+---
+schema_version: '1.0'
+id: pt:dre:240800:por
+title: Decreto-Lei n.º 6/2004
+short_title: null
+summary: Estabelece o regime de revisão de preços das empreitadas de obras públicas e de obras particulares e de aquisição
+  de bens e serviços
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Habitação
+proposing_entity: null
+official_number: 6/2004
+official_date: null
+publication_date: '2004-01-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/2004, Série I-A de 2004-01-06
+  number: '4'
+  series: I
+  supplement: null
+  pages: 62 - 67
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/01/004a00/00620067.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-09-17'
+version_history:
+  file: decreto-lei-6-2004.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2004-01-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-09-17'
+    amending: pt:dre:169780051:por
+    amending_title: Decreto-Lei n.º 73/2021
+    changes:
+    - Adita Artigo 22.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 22.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/6/2004/p/cons/20210818/pt/html
+  oj: null
+  dre: '240800'
+  dre_path: /dr/detalhe/decreto-lei/6-2004-240800
+  internal: pt:dre:240800:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2004-240800
+  metadata_url: https://data.dre.pt/eli/dec-lei/6/2004/p/cons/20210818/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-169820399
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-169820399
+  retrieved_at: '2026-10-22T12:45:13Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 2a5fcf42a4379ca9b9f95d4f30c9756f0005e7be10c2fc3c57ae5d2d6af09b53
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:45:13Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-6-2004.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Caderno de Encargos
+- Comissão de Índices e Fórmulas de Empreitadas
+- Obras Particulares
+- Custo da Construção
+- Empreitada de Obras Públicas
+- Empreiteiro de Obras Públicas
+- Fixação de Preços
+- Pagamento
+- Imoppi
+- Ministro das Obras Públicas Transportes e Habitação
+relationships:
+- type: amended_by
+  target: pt:dre:169780051:por
+  label: Adita Artigo 22.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º;
+    Altera Artigo 8.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º;
+    Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 21.º; Revoga Artigo 7.º; Revoga Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051
+  date: '2021-08-18'
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:152530:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/60/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:189484:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/2003/02/17/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:521867:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/223/2001/08/09/p/dre
+article_structure:
+  article_count: 25
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:45:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 6/2004
+
+Decreto-Lei n.º 6/2004
+
+de 6 de Janeiro
+
+A revisão de preços das empreitadas de obras públicas tem constituído ao longo das últimas décadas uma garantia essencial de confiança entre as partes do contrato, permitindo-lhes formular e analisar propostas baseadas nas condições existentes à data do concurso, remetendo para a figura da revisão a compensação a que houver lugar em função da variação dos custos inerentes à concretização do objecto do contrato.
+
+Os dois diplomas que vigoraram desde 1975 proporcionaram soluções adequadas para a maioria dos problemas que a revisão de preços colocou durante este período, havendo, no entanto, a partir da experiência prática da sua aplicação, todo um conjunto de aperfeiçoamentos que é possível introduzir nos seus mecanismos com vista a uma maior adequação às realidades actuais.
+
+Como principais alterações introduzidas pelo novo regime podem enumerar-se:
+
+Adaptação e compatibilização com as disposições do regime jurídico de empreitadas de obras públicas;
+
+Extensão do âmbito de aplicação do presente diploma aos contratos de empreitadas de obras particulares e de aquisição de bens e serviços, passando a existir um quadro único regulador da revisão de preços;
+
+Reorganização da estrutura da fórmula polinomial, conferindo-lhe aspectos de generalidade que permitem acolher novas soluções no campo da mão-de-obra mais adequadas à actualidade e à realidade do nosso mercado;
+
+Possibilidade de nova organização espacial dos índices de mão-de-obra, permitindo abandonar, no caso do continente, a actual matriz distrital;
+
+Uniformização do termo constante, relativo à parcela não revisível da empreitada, em todas as fórmulas de revisão de preços com o valor de 0,10;
+
+Redução do limite mínimo do coeficiente de actualização de 3% para 1%, quando a revisão de preços é feita por fórmula, para harmonização com a dinâmica de custos actual;
+
+Redução do limite mínimo do coeficiente de actualização de 4% para 2%, no caso de revisão de preços por garantia de custos, por razões similares;
+
+Definição de uma aproximação de seis casas decimais para o cálculo do coeficiente de actualização e no tratamento dos adiantamentos na revisão de preços por fórmula;
+
+Substituição do cronograma financeiro pelo plano de pagamentos, como referência nos cálculos de revisão de preços;
+
+Possibilidade de os concorrentes apresentarem a fórmula de revisão de preços no caso da sua eventual omissão no caderno de encargos.
+
+Foram ouvidos, em consultas regulares ao longo da elaboração deste diploma, as associações mais representativas do sector, bem como a Associação Nacional de Municípios Portugueses e os principais donos de obras públicas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - O preço contratual das empreitadas de obras públicas, a que se refere o artigo 97.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual (CCP), fica sujeito a revisão em função das variações, para mais ou para menos, dos custos de mão-de-obra, dos materiais e dos equipamentos de apoio, relativamente aos correspondentes valores considerados no mês anterior à data limite fixada para a entrega das propostas.
+
+2 - A revisão será obrigatória, com observância do disposto no presente diploma e segundo cláusulas específicas insertas nos cadernos de encargos e nos contratos, e cobre todo o período compreendido entre o mês anterior ao da data limite fixada para a entrega das propostas e a data do termo do prazo de execução contratualmente estabelecido, acrescido das prorrogações legais.
+
+3 - No caso de eventual omissão do contrato e dos documentos que o integram relativamente à fórmula de revisão de preços, aplicar-se-á a fórmula tipo para obras da mesma natureza ou que mais se aproxime do objecto da empreitada.
+
+4 - (Revogado.)
+
+5 - O valor apurado, em termos de revisão de preços, no final do prazo de execução contratualmente estabelecido, acrescido das prorrogações legais ou das prorrogações determinadas por sentença judicial ou arbitral, não está sujeito ao limite imposto pelo preço base nem aos limites que determinaram a escolha do procedimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 2.º — Extensão do âmbito de aplicação
+
+Os contratos de aquisição de bens móveis e os contratos de aquisição de serviços regulados no CCP, bem como os contratos de empreitadas de obras particulares em que se estipule o direito à revisão de preços, regem-se pelo disposto no presente decreto-lei em tudo o que neles não for especialmente regulado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 3.º — Cláusulas de revisão de preços
+
+1 - Os interessados podem apresentar pedidos de correção ou de alteração do regime da revisão de preços estabelecido no caderno de encargos no primeiro terço do prazo concedido para a apresentação de propostas.
+
+2 - No caso de omissão do caderno de encargos relativamente à fórmula de revisão de preços, os interessados podem propor o regime aplicável no primeiro terço do prazo concedido para a apresentação de propostas.
+
+3 - O órgão competente para a decisão de contratar deve, no segundo terço do prazo referido nos números anteriores, informar os interessados sobre a fórmula ou fórmulas do regime de revisão de preços a constar das propostas a apresentar, sob pena de não aceitação de nenhum dos pedidos.
+
+4 - Para efeitos do disposto no número anterior, são excluídas as propostas das quais não constem as fórmulas do regime de revisão de preços comunicadas nos termos do mesmo número.
+
+5 - No caso de revisão de preços da proposta por fórmula, sempre que não conste dos indicadores económicos o índice de qualquer material cujo preço no mercado multiplicado pela quantidade prevista no mapa de medições exceda 3% do valor da proposta ou da parte a que determinada fórmula parcelar se referir, os concorrentes podem propor, justificadamente, em documento anexo à sua proposta base, o preço do referido material, que servirá como índice ou preço garantido, uma vez assegurada a possibilidade de confirmar a sua evolução.
+
+6 - Na hipótese do número anterior, deve o concorrente, no mesmo documento, propor e justificar o consequente reajustamento da fórmula.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 4.º — Plano de pagamentos
+
+O plano de pagamentos, definido com base na previsão mensal do valor dos trabalhos a realizar pelo empreiteiro, de acordo com o plano de trabalhos previsto e aprovado nos termos dos artigos 361.º e 361.º-A do CCP, serve de referência nos cálculos das revisões de preços.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 5.º — Métodos de revisão de preços
+
+A revisão de preços poderá ser calculada por:
+
+a) Fórmula;
+
+b) Garantia de custos;
+
+c) Fórmula e garantia de custos.
+
+###### Artigo 6.º — Fórmula polinomial
+
+1 - As cláusulas de revisão de preços poderão estabelecer que esta se efectue mediante a adaptação da seguinte fórmula geral à estrutura de custos e à natureza e volume dos trabalhos:
+
+C(índice t) = a(S(índice t)/S(índice o)) + b(M(índice t)/M(índice o)) + b'(M'(índice t)/M'(índice o)) + b''(M''(índice t)/M''(índice o)) + ... + c(E(índice t)/E(índice o)) + d
+
+na qual:
+
+C(índice t) é o coeficiente de actualização mensal a aplicar ao montante sujeito a revisão, obtido a partir de um somatório de parcelas com uma aproximação de seis casas decimais e arredondadas para mais quando o valor da sétima casa decimal seja igual ou superior a 5, mantendo-se o valor da sexta casa decimal no caso contrário;
+
+S(índice t) é o índice dos custos de mão-de-obra relativo ao mês a que respeita a revisão;
+
+S(índice o) é o mesmo índice, mas relativo ao mês anterior ao da data limite fixada para a entrega das propostas;
+
+M(índice t), M'(índice t), M''(índice t), ... são os índices dos custos dos materiais mais significativos incorporados ou não, em função do tipo de obra, relativos ao mês a que respeita a revisão, considerando-se como mais significativos os materiais que representem, pelo menos, 1% do valor total do contrato, com uma aproximação às centésimas;
+
+M(índice o), M'(índice o), M''(índice o), ... são os mesmos índices, mas relativos ao mês anterior ao da data limite fixada para a entrega das propostas;
+
+E(índice t) é o índice dos custos dos equipamentos de apoio, em função do tipo de obra, relativo ao mês a que respeita a revisão;
+
+E(índice o) é o mesmo índice, mas relativo ao mês anterior ao da data limite fixada para a entrega das propostas;
+
+a, b, b', b'', ..., c são os coeficientes correspondentes ao peso dos custos de mão-de-obra, dos materiais e dos equipamentos de apoio na estrutura de custos da adjudicação ou da parte correspondente, no caso de existirem várias fórmulas, com uma aproximação às centésimas;
+
+d é o coeficiente que representa, na estrutura de custos, a parte não revisível da adjudicação, com aproximação às centésimas; o seu valor é 0,10 quando a revisão de preços dos trabalhos seja apenas feita por fórmula e, em qualquer caso, a soma de a + b + b'+ b'' + ... + c + d deverá ser igual à unidade.
+
+2 - Nas fórmulas tipo, publicadas por despacho do membro do Governo responsável pela área das infraestruturas, os índices S (índice t) e S (índice o) referidos no número anterior têm o seguinte significado:
+
+S (índice t) é o índice dos custos de mão-de-obra da equipa de mão-de-obra referente ao tipo de obra que cada fórmula tipo representa relativo ao mês a que respeita a revisão;
+
+S (índice o) é o mesmo índice, mas relativo ao mês anterior ao da data limite fixada para a entrega das propostas.
+
+3 - O monómio de mão-de-obra constante da fórmula geral prevista no n.º 1 poderá, quando a natureza da obra o justifique, dar lugar a um polinómio da forma:
+
+a(S(índice t)/S(índice o)) + a'(S'(índice t)/S'(índice o)) + a''(S''(índice t)/S''(índice o)) + ...
+
+no qual S, S', S'', ... são os índices dos custos das profissões mais significativas, desde que representem, pelo menos, 1% do valor total do contrato, com uma aproximação às centésimas.
+
+4 - Poderá estabelecer-se mais de uma fórmula de revisão para o mesmo contrato, designadamente em atenção à natureza dos diversos trabalhos ou às respectivas fases, mas a fórmula ou fórmulas estipuladas não poderão ser alteradas depois da adjudicação.
+
+5 - No caso de existirem tipos de mão-de-obra e de materiais para os quais não haja indicadores económicos específicos e que representem pelo menos 3% do valor da proposta, poderá o contrato estabelecer que, para eles, se aplique um método de revisão de preços por garantia de custos, sendo o valor da parte restante da empreitada revisto pela fórmula devidamente adaptada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 7.º — Revisão de preços de materiais e equipamentos importados a incorporar na obra
+
+1 - No caso dos materiais e equipamentos importados a incorporar na obra, os seus preços poderão ser revistos em função da alteração do preço no país de origem, com base nos indicadores económicos disponíveis, da variação cambial e da taxa alfandegária, aplicando-se ao preço fixado contratualmente para cada um uma das seguintes expressões:
+
+a):
+
+C(índice t) = 0,90 x (IPM(índice t)/IPM(índice o)) x (CM(índice t)/CM(índice o)) x [(1 + TA(índice t)/100)/(1 + TA(índice o)/100)] + 0,10
+
+b):
+
+C(índice t) = 0,90 x (IPC(índice t)/IPC(índice o)) x (CM(índice t)/CM(índice o)) x [(1 + TA(índice t)/100)/(1 + TA(índice o)/100)] + 0,10
+
+onde:
+
+IPM(índice t) é o índice de custo do material do país de origem no mês previsto para a entrega do material;
+
+IPM(índice o) é o mesmo índice, mas relativo ao mês anterior à data limite fixada para a entrega das propostas;
+
+IPC(índice t) é o índice de preços no consumidor do país de origem no mês previsto para a entrega do equipamento;
+
+IPC(índice o) é o mesmo índice, mas relativo ao mês anterior à data limite fixada para a entrega das propostas;
+
+CM(índice t) é o câmbio da moeda à data prevista para a entrega do equipamento ou do material;
+
+CM(índice o) é o câmbio da mesma moeda no último dia útil do mês anterior à data limite fixada para a entrega das propostas;
+
+TA(índice t) é a taxa alfandegária em vigor à data prevista para a entrega do equipamento ou do material;
+
+TA(índice o) é a taxa alfandegária em vigor no último dia útil do mês anterior à data limite fixada para a entrega das propostas.
+
+2 - O contrato deverá estipular os materiais e os equipamentos aos quais se aplica o disposto no n.º 1, explicitando os seus valores, países de origem, moedas utilizadas e taxas alfandegárias consideradas.
+
+3 - Nos contratos em que se aplique o disposto no n.º 1, o valor daqueles materiais ou equipamentos será deduzido da situação de trabalhos respectiva, sendo a diferença obtida revista pela aplicação da fórmula contratual
+
+4 - O contrato poderá estabelecer para estes materiais ou equipamentos a revisão de preços por garantia de custos, com observância do disposto no n.º 4 do artigo 3.º
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 8.º — Adiantamentos na revisão de preços por fórmula
+
+1 - Sendo concedidos adiantamentos ao empreiteiro, ao abrigo do disposto no artigo 292.º do CCP, as fórmulas de revisão devem ser corrigidas de acordo com os critérios seguintes:
+
+a) Quando sejam concedidos adiantamentos para aquisição da generalidade dos materiais, os coeficientes b, b', b" são multiplicados pelo fator:
+
+1 - A/[V (b (M (índice a)/M (índice o)) + b' (M' (índice a)/M' (índice o)) + b" (M" (índice a)/M" (índice o)) +...)]
+
+em que:
+
+A é o valor do adiantamento concedido;
+
+M (índice a), M' (índice a), M" (índice a),... são os índices dos custos dos materiais relativos ao mês do pagamento do adiantamento;
+
+V é o valor dos trabalhos contratuais por executar à data do pagamento do adiantamento;
+
+O coeficiente d é adicionado ao valor A/V, podendo a soma dos coeficientes da fórmula corrigida ser diferente da unidade;
+
+b) Quando sejam concedidos adiantamentos para aquisição de um material específico, o coeficiente referente a esse material é multiplicado pelo fator:
+
+1 - A/[V (b (M (índice a)/M (índice o)))]
+
+em que:
+
+A é o valor do adiantamento concedido;
+
+M (índice a) é o índice do custo do respetivo material específico relativo ao mês do pagamento do adiantamento;
+
+V é o valor dos trabalhos contratuais por executar à data do pagamento do adiantamento;
+
+O coeficiente d é adicionado ao valor A/V, podendo a soma dos coeficientes da fórmula corrigida ser diferente da unidade;
+
+c) Quando sejam concedidos adiantamentos para aquisição de equipamentos de apoio, o coeficiente c é multiplicado pelo fator:
+
+1 - A/[V (c (E (índice a)/E (índice o)))]
+
+em que:
+
+A é o valor do adiantamento concedido;
+
+E (índice a) é o índice dos custos dos equipamentos de apoio relativo ao mês do pagamento do adiantamento;
+
+V é o valor dos trabalhos contratuais por executar à data do pagamento do adiantamento;
+
+O coeficiente d é adicionado ao valor A/V, podendo a soma dos coeficientes da fórmula corrigida ser diferente da unidade.
+
+2 - Quando se verifique atraso imputável ao empreiteiro em relação ao plano de trabalhos e de pagamentos em vigor, o valor V a considerar na correção da fórmula de revisão corresponde à diferença entre o valor total dos trabalhos contratuais aprovados até à data do pagamento do adiantamento e o valor dos trabalhos contratuais que deveriam ter sido executados até essa mesma data, de acordo com o plano de pagamentos em vigor.
+
+3 - O adiantamento a conceder, em cada momento, não pode exceder o valor dos materiais que falta incorporar na obra nem o dos equipamentos de apoio a utilizar, consoante o fim a que se destine, a preços desse momento, ou seja, respectivamente:
+
+A (igual ou menor que) V(b(M(índice a)/M(índice o)) + b'(M'(índice a)/M'(índice o)) + ...), A (igual ou menor que) V(b(M(índice a)/M(índice o))) ou A (igual ou menor que) V(c(E(índice a)/E(índice o)))
+
+4 - Quando haja lugar a trabalhos a menos, deixando de se verificar, por isso, a condição exigida no número anterior, os coeficientes referentes aos materiais e equipamentos de apoio da fórmula contratual abrangidos pelo adiantamento deverão passar a ser iguais a 0 e o termo constante a adicionar a d será o correspondente apenas a essa parte do adiantamento, ou seja, respectivamente:
+
+b(M(índice a)/M(índice o)) + b'(M'(índice a)/M'(índice o)) + ..., b(M(índice a)/M(índice o)) ou c(E(índice a)/E(índice o))
+
+5 - Sempre que o resultado do factor correctivo previsto nas alíneas a), b) e c) do n.º 1 deste artigo for negativo ou nulo, os coeficientes referentes aos materiais e equipamentos de apoio da fórmula a corrigir deverão passar a ser iguais a 0 e o termo constante a adicionar a d será apenas o correspondente, conforme o caso, à seguinte parte do adiantamento:
+
+a):
+
+b(M(índice a)/M(índice o)) + b'(M'(índice a)/M'(índice o)) + b''(M''(índice a)/M''(índice o)) + ...
+
+b):
+
+b(M(índice a)/M(índice o))
+
+c):
+
+c(E(índice a)/E(índice o))
+
+6 - Os coeficientes previstos nos números anteriores, bem como os resultantes da sua aplicação, são calculados com uma aproximação de seis casas decimais e arredondados segundo a regra prevista no n.º 1 do artigo 6.º
+
+7 - Quando, durante a obra, sejam concedidos vários adiantamentos, a correcção da fórmula, para cada um deles, far-se-á a partir da fórmula corrigida do último adiantamento pago.
+
+8 - No caso de se verificar a execução de trabalhos complementares após o pagamento dos adiantamentos, os seus valores são revistos aplicando-se a fórmula contratual, independentemente da fórmula corrigida.
+
+9 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 9.º — Limite mínimo do coeficiente de actualização
+
+Só haverá lugar a revisão de preços quando a variação, para mais ou para menos, do coeficiente de actualização C(índice t) mensal for igual ou superior a 1% em relação à unidade.
+
+###### Artigo 10.º — Revisão de preços por garantia de custos
+
+1 - Quando a entidade adjudicante o considere justificado, poderão as cláusulas contratuais garantir ao adjudicatário os custos de determinados tipos de mão-de-obra e materiais mais significativos, devendo a garantia limitar-se aos que representem pelo menos 3% do valor da adjudicação.
+
+2 - Nos casos previstos no número anterior, só haverá lugar a revisão de custo desses tipos de mão-de-obra ou de materiais quando a variação for igual ou superior a 2%, para mais ou para menos.
+
+3 - As revisões a efectuar nos termos deste artigo limitar-se-ão aos tipos de mão-de-obra e materiais cujos custos tenham sido garantidos e corresponderão à diferença que resulte da variação desses custos, afectada, tratando-se de mão-de-obra, do coeficiente 0,90.
+
+4 - O dono da obra terá direito a exigir a justificação dos custos de mão-de-obra e dos materiais apresentados pelo adjudicatário para efeito de revisão.
+
+5 - No caso de ter sido concedido adiantamento, a diferença de preços a considerar relativamente às quantidades de materiais cobertas pela sua concessão será a que se verifique entre os preços garantidos contratualmente e os preços que se praticavam à data do seu pagamento.
+
+###### Artigo 11.º — Trabalhos complementares
+
+1 - A revisão de preços de trabalhos complementares faz-se nos seguintes termos:
+
+a) Tratando-se de trabalhos da mesma espécie de outros previstos no contrato e a executar em condições semelhantes, são aplicáveis o preço contratual, bem como os prazos parciais de execução previstos no plano de trabalhos para essa espécie de trabalhos, e aplica-se o esquema de revisão contratual;
+
+b) Tratando-se de trabalhos de espécie diferente de outros previstos no contrato, ou da mesma espécie mas a executar em condições diferentes, deve o empreiteiro apresentar uma proposta de preço e de prazo de execução e aplicar-se os métodos de revisão por fórmula ou por garantia de custos, consoante a natureza, o volume e a duração dos trabalhos e, em qualquer caso, com observância do disposto no presente decreto-lei, designadamente quanto à data a partir da qual se faz a revisão, que é a relativa ao mês anterior à data em que foram propostos os novos preços.
+
+2 - A revisão de preços dos trabalhos complementares ou dos que resultem de retificações para valores superiores por erros ou omissões do projeto, quando não executados nos prazos previstos nos planos de trabalhos e correspondentes planos de pagamentos, respeitantes a esses trabalhos complementares, aprovados pelo dono da obra, faz-se nos termos previstos no n.º 2 do artigo 14.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 12.º — Trabalhos a menos
+
+1 - Quando haja lugar a trabalhos a menos, a revisão de preços dos trabalhos contratuais realizados far-se-á pelo plano de pagamentos resultante da dedução do valor dos trabalhos a menos nos períodos em que, contratualmente, se previa que viessem a ser realizados.
+
+2 - Para efeito do disposto no presente diploma, consideram-se como trabalhos a menos os que resultem das rectificações para menos de erros ou omissões do projecto ou outros que o dono da obra entenda não realizar e tenham sido incluídos no contrato.
+
+###### Artigo 13.º — Prorrogações
+
+1 - Sempre que o prazo de execução do contrato seja prorrogado a revisão de preços é calculada com base no plano de pagamentos reajustado.
+
+2 - Se a prorrogação de prazo se dever a factos imputáveis ao empreiteiro este não tem direito a qualquer acréscimo de valor da revisão de preços em relação ao prazo acrescido, devendo esta fazer-se pelo plano de pagamentos que, na data da prorrogação de prazo, se encontrar em vigor.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 14.º — Desvios de prazos
+
+1 - Sempre que se verifique atraso por caso de força maior ou imputável ao dono da obra, o empreiteiro deve submeter à aprovação do dono da obra um novo plano de pagamentos reajustado, que serve de base ao cálculo da revisão de preços dos trabalhos por executar.
+
+2 - Quando se verifique atraso por facto imputável ao empreiteiro, os indicadores económicos a considerar na revisão de preços são os correspondentes ao período em que os trabalhos por ela abrangidos deveriam ter sido executados, exceto quando o C (índice t) resultante desse cálculo for inferior ao que resultaria da aplicação dos indicadores económicos do mês em que os trabalhos foram efetivamente executados, caso em que deve ser considerado o C (índice t) de menor valor.
+
+3 - Quando se verifique avanço no cumprimento do plano de trabalhos e do correspondente plano de pagamentos aprovados, os indicadores económicos a considerar na revisão serão os correspondentes ao período em que os trabalhos por ela abrangidos foram efectivamente executados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 15.º — Processamento
+
+1 - Sem prejuízo do que estiver contratualmente estabelecido, as revisões serão calculadas pelo dono da obra, sendo processadas periodicamente em correspondência com as respectivas situações de trabalhos, não devendo o seu apuramento prejudicar o recebimento dos valores das respectivas situações.
+
+2 - Sem prejuízo do disposto no n.º 1, o empreiteiro poderá apresentar por sua iniciativa os cálculos da revisão de preços, elaborados nos mesmos termos dos fixados para o dono da obra.
+
+3 - O dono da obra dispõe de 60 dias para se pronunciar sobre os cálculos da revisão de preços apresentados pelo empreiteiro, nos termos do disposto no número anterior, podendo, em caso de não aceitação dos mesmos, apresentar uma contraproposta, aplicando-se com as necessárias adaptações o disposto no n.º 5 do artigo 373.º do CCP.
+
+4 - Se o dono da obra não efetuar nenhuma comunicação ao empreiteiro dentro do prazo previsto no número anterior considera-se que os cálculos foram aceites.
+
+5 - Nos contratos em que se prevejam situações de trabalhos mensais atender-se-á, para a revisão, aos indicadores económicos relativos ao mês a que ela se reporta.
+
+6 - Quando não se efectuem situações de trabalhos mensais e a revisão for feita por fórmula, aplicar-se-ão os indicadores económicos à parcela dos trabalhos realizada no mês respectivo, de acordo com o plano de pagamentos em vigor.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 16.º — Revisão provisória
+
+1 - Se nas datas de elaboração da conta corrente, a que se refere o n.º 1 do artigo 389.º do CCP, ainda não se conhecerem os valores finais dos indicadores económicos a utilizar na revisão de preços dos trabalhos executados, o dono da obra deve proceder ao pagamento provisório com base no respetivo valor inicial do contrato, revisto em função dos últimos indicadores conhecidos, que podem ser de meses diferentes.
+
+2 - Nos casos do número anterior, logo que sejam publicados os indicadores económicos respeitantes ao mês da execução dos trabalhos ou do período para tal previsto no plano de trabalhos, o dono da obra procederá ao cálculo definitivo da revisão, pagando ao empreiteiro ou deduzindo, na situação que se seguir, a diferença apurada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 17.º — Prazo para pagamento
+
+Sempre que do contrato não conste data ou prazo de pagamento, a obrigação pecuniária vence-se, sem necessidade de novo aviso, aplicando-se com as necessárias adaptações o disposto no artigo 299.º do CCP.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 18.º — Mora no pagamento
+
+1 - Em caso de atraso do dono da obra no cumprimento de obrigações pecuniárias, o empreiteiro tem direito aos juros de mora sobre o montante em dívida à taxa legalmente fixada para o efeito pelo período correspondente à mora, aplicando-se com as necessárias adaptações o disposto no artigo 326.º do CCP.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 19.º — Caducidade
+
+1 - O direito à revisão de preços caduca no prazo de um ano após a receção provisória da empreitada, salvo nas seguintes situações:
+
+a) Quando existam reclamações ou acertos pendentes;
+
+b) Quando não estejam disponíveis os indicadores económicos necessários para o cálculo definitivo da revisão de preços dos trabalhos contratuais e complementares;
+
+c) Quando o dono da obra esteja obrigado ao cálculo da revisão de preços definitiva e a conta final da empreitada não contemple expressamente a revisão de preços definitiva dos trabalhos contratuais e complementares.
+
+2 - Sempre que o dono da obra não proceda à elaboração da conta final da empreitada o direito à revisão caduca com a receção definitiva da obra.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 20.º — Indicadores económicos
+
+1 - Os indicadores económicos da mão-de-obra, materiais e equipamentos de apoio serão publicados na 2.ª série do Diário da República.
+
+2 - Em caso de obras de natureza muito específica para as quais os indicadores económicos publicados não se mostrem adequados a determinados tipos de mão-de-obra ou de materiais, desde que representem isoladamente pelo menos 3% do valor total estimado para a obra, poderão os cadernos de encargos estabelecer a possibilidade de recorrer a fontes de informação idóneas para fixação de valores que servirão como índices de custos ou como preços garantidos, uma vez assegurada a possibilidade de confirmar a sua evolução.
+
+###### Artigo 21.º — Comissão de Índices e Fórmulas de Empreitadas
+
+1 - A Comissão de Índices e Fórmulas de Empreitadas (CIFE) é uma comissão técnica especializada que funciona no âmbito do conselho consultivo do Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P. (IMPIC, I. P.), nos termos do disposto n.º 6 do artigo 7.º do Decreto-Lei n.º 232/2015, de 3 de outubro.
+
+2 - Os indicadores económicos para o cálculo da revisão de preços são propostos pela CIFE e submetidos à aprovação do conselho diretivo do IMPIC, I. P.
+
+3 - Os indicadores económicos são calculados para cada mês, com base em elementos fornecidos pelo Instituto Nacional de Estatística, I. P., pelo serviço responsável pela área de estudos e estatística tutelado pelo membro do Governo responsável pela área do trabalho e, ainda, em elementos idóneos obtidos pela CIFE, devendo atender-se a todos os encargos emergentes da legislação em vigor no período a que respeitem.
+
+4 - Da fixação dos indicadores económicos a que se refere o presente artigo não cabe recurso.
+
+5 - O membro do Governo responsável pela área das infraestruturas fixa, por despacho, as fórmulas tipo a aplicar consoante a natureza das empreitadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 22.º — Disposição transitória
+
+Até serem fixadas as novas fórmulas tipo, continuarão a aplicar-se as fórmulas tipo previstas no despacho do Ministro do Equipamento Social e do Ambiente de 26 de Julho de 1975, publicado no Diário do Governo, 2.ª série, n.º 180, suplemento, de 6 de Agosto de 1975.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 22.º-A — Fórmulas tipo
+
+Mantêm-se em vigor as fórmulas tipo previstas no Despacho n.º 1592/2004, publicado no Diário da República, 2.ª série, n.º 19, de 23 de janeiro de 2004, e no Despacho n.º 22637/2004, publicado no Diário da República, 2.ª série, n.º 260, de 5 de novembro de 2004.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2021 - Diário da República n.º 160/2021, Série I de 2021-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051), em vigor a partir de 2021-09-17
+
+###### Artigo 23.º — Legislação revogada
+
+Ficam revogados o Decreto-Lei n.º 348-A/86, de 16 de Outubro, o Decreto-Lei n.º 474/77, de 12 de Novembro, e o despacho SEOP n.º 35-XII/92, de 14 de Outubro, e demais legislação que contrarie o disposto neste diploma legal.
+
+###### Artigo 24.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 de Fevereiro de 2004 e só será aplicável às obras postas a concurso a partir dessa data, sem prejuízo de aplicação às obras em curso das disposições previstas no n.º 2 do artigo 14.º e nos artigos 17.º, 18.º e 19.º, em situações que ocorram a partir da entrada em vigor do presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 23 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - Jorge Fernando Magalhães da Costa - Amílcar Augusto Contel Martins Theias.
+
+Promulgado em 15 de Dezembro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 17 de Dezembro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.

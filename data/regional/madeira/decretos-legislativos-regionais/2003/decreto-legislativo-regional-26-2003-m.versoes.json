@@ -1,0 +1,458 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:655971:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2003-139993975",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2003-655971",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "139991335",
+    "139991336",
+    "139991337",
+    "139991338",
+    "139991339",
+    "139991340",
+    "139991341",
+    "139991342",
+    "139991343",
+    "139991344",
+    "139991345",
+    "139991346",
+    "139991347",
+    "139991348",
+    "139991349",
+    "139991350",
+    "139991351",
+    "139991352",
+    "139991353",
+    "139991354",
+    "139991355",
+    "139991356",
+    "139991357",
+    "139991358",
+    "139991359",
+    "139991360"
+   ]
+  },
+  {
+   "date": "2011-02-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:279826:por",
+     "title": "Decreto Legislativo Regional n.º 3/2011/M",
+     "published": "2011-02-22",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2011-279826"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "139991335",
+    "139991336",
+    "139991337",
+    "139991338",
+    "139991339",
+    "139991340",
+    "139991362",
+    "139991342",
+    "139991363",
+    "139991344",
+    "139991364",
+    "139991365",
+    "139991366",
+    "139991348",
+    "139991349",
+    "139991350",
+    "139991367",
+    "139991368",
+    "139991369",
+    "139991370",
+    "139991355",
+    "139991356",
+    "139991357",
+    "139991358",
+    "139991359",
+    "139991360",
+    "139991361"
+   ]
+  },
+  {
+   "date": "2020-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:139918084:por",
+     "title": "Decreto Legislativo Regional n.º 12/2020/M",
+     "published": "2020-08-10",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2020-139918084"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "139991335",
+    "139991336",
+    "139991337",
+    "139991338",
+    "139991339",
+    "139991340",
+    "139991362",
+    "139991342",
+    "139991363",
+    "139991344",
+    "139991371",
+    "139991365",
+    "139991366",
+    "139991348",
+    "139991349",
+    "139991350",
+    "139991367",
+    "139991368",
+    "139991369",
+    "139991370",
+    "139991355",
+    "139991356",
+    "139991357",
+    "139991358",
+    "139991359",
+    "139991360",
+    "139991361"
+   ]
+  }
+ ],
+ "fragments": {
+  "139991335": {
+   "fragment_id": "139993976",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 26/2003/M\n\nRegula a organização e o funcionamento do sistema de planeamento da Região Autónoma da Madeira\n\nAs actividades de planeamento na Região Autónoma da Madeira têm-se desenvolvido sem a existência de um diploma legal próprio de enquadramento do sistema de planeamento que defina a organização e o funcionamento do sistema que efectivamente tem estado subjacente a todas as actividades de planeamento desenvolvidas.\n\nCom este diploma, pretende-se colmatar essa lacuna, dando-se cumprimento ao disposto no artigo 14.º da Lei n.º 43/91, de 27 de Julho - Lei Quadro do Planeamento - o qual remete para os órgãos competentes das Regiões Autónomas a criação do sistema regional de planeamento em cada uma destas Regiões.\n\nPor constituir uma inovação relativamente à situação actual, destaca-se a criação de uma comissão técnica de planeamento, órgão de coordenação técnica na preparação, elaboração e execução dos planos, constituída por representantes do vários departamentos sectoriais da administração pública regional e eventualmente por representantes de entidades ligadas a sectores da actividade económica e social regional.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pela Lei n.º 130/99, de 21 de Agosto, e pela Lei n.º 12/2000, de 21 de Junho, o seguinte:"
+  },
+  "139991336": {
+   "fragment_id": "139993977",
+   "type": 1,
+   "heading": "Capítulo I — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios fundamentais"
+  },
+  "139991337": {
+   "fragment_id": "139993978",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula a organização e o funcionamento do sistema de planeamento na Região Autónoma da Madeira."
+  },
+  "139991338": {
+   "fragment_id": "139993979",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura do planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estrutura do planeamento\n\n1 - Integram a estrutura do planeamento na Região os planos de desenvolvimento económico e social de médio prazo e os planos anuais.\n\n2 - Os planos de médio prazo devem, em princípio, coincidir, em termos temporais, com a legislatura e definem a estratégia de desenvolvimento económico e social da Região, estabelecendo, de acordo com as prioridades definidas pelo Governo Regional, a nível global, sectorial e espacial, as grandes linhas de actuação e os programas de acção globais e sectoriais a desenvolver no período da sua vigência.\n\n3 - Poderão ser elaborados instrumentos de planeamento estratégico com um horizonte temporal de médio prazo não coincidente com o da legislatura, designadamente quando houver necessidade de adequar o período de programação às directrizes estabelecidas pelas instâncias comunitárias, relativas à preparação a nível nacional e regional dos documentos de planeamento e programação que deverão enquadrar as intervenções beneficiárias de financiamento dos fundos com finalidade estrutural.\n\n4 - Os planos anuais enunciam as medidas de política económica social a concretizar pelo Governo Regional no ano a que respeitam, com a sua expressão sectorial e espacial, de acordo com a orientação estratégica da política de desenvolvimento, bem como integram a programação da sua execução financeira que será prevista no Orçamento da Região."
+  },
+  "139991339": {
+   "fragment_id": "139993980",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos dos planos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos dos planos\n\nConstituem objectivos dos planos, no quadro macroeconómico definido pelo Governo Regional, promover o crescimento económico, o desenvolvimento harmonioso dos sectores e do território da Região, a justa repartição individual e territorial do rendimento regional, bem como assegurar, de uma forma integrada, a coordenação entre a política económica e as políticas de carácter social, ambiental e cultural."
+  },
+  "139991340": {
+   "fragment_id": "139993981",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios de elaboração dos planos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios de elaboração dos planos\n\nA elaboração dos planos rege-se, nomeadamente, pelos seguintes princípios:\n\na) Vinculação dos planos ao Programa do Governo Regional e às orientações de política de desenvolvimento económico e social definidas pelo Governo Regional;\n\nb) Compatibilização dos planos com o Orçamento da Região e com os instrumentos de programação co-financiados pela União Europeia;\n\nc) Articulação dos planos anuais com os planos de desenvolvimento económico e social de médio prazo;\n\nd) Disciplina orçamental e compatibilização com os objectivos macroeconómicos;\n\ne) Supletividade da intervenção pública face ao livre funcionamento da iniciativa privada e de mercados abertos e concorrenciais;\n\nf) Participação social, nos termos do presente diploma."
+  },
+  "139991341": {
+   "fragment_id": "139993982",
+   "type": 11,
+   "heading": "Artigo 5.º — Conteúdo dos planos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conteúdo dos planos\n\n1 - O plano de desenvolvimento económico e social de médio prazo integra:\n\na) Um diagnóstico de carácter prospectivo sobre a situação sócio-económica da Região;\n\nb) Os objectivos que enquadram a estratégia de desenvolvimento a prosseguir;\n\nc) As grandes linhas de actuação;\n\nd) As medidas e acções que deverão corporizar a estratégia de desenvolvimento delineada;\n\ne) Um plano de financiamento indicativo.\n\n2 - O plano anual integra:\n\na) A análise da situação económica e social da Região;\n\nb) Os objectivos e as linhas de actuação sectoriais a prosseguir no respectivo ano;\n\nc) A descrição da política de investimentos;\n\nd) A apresentação da programação financeira dos projectos de investimento, incluindo os da responsabilidade dos fundos e serviços autónomos, das autarquias locais realizados em cooperação com o Governo Regional, bem como os investimentos da responsabilidade das sociedades constituídas com capitais exclusivamente públicos, com agregação por programa, por sector e por concelho."
+  },
+  "139991342": {
+   "fragment_id": "139993983",
+   "type": 11,
+   "heading": "Artigo 6.º — Princípios relativos à execução dos planos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Princípios relativos à execução dos planos\n\nA execução dos planos rege-se pelos seguintes princípios:\n\na) Compatibilização com o Orçamento da Região e com os instrumentos de planeamento vigentes na Região;\n\nb) Execução descentralizada, a nível sectorial;\n\nc) Coordenação da execução dos planos."
+  },
+  "139991343": {
+   "fragment_id": "139993984",
+   "type": 11,
+   "heading": "Artigo 7.º — Acompanhamento e avaliação da execução dos planos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acompanhamento e avaliação da execução dos planos\n\n1 - O acompanhamento e avaliação da execução dos planos tem expressão:\n\na) Nos relatórios de execução e avaliação dos planos de desenvolvimento económico e social de médio prazo;\n\nb) Nos relatórios de execução e avaliação anual dos planos.\n\n2 - Os relatórios de execução obedecem à estrutura dos planos a que se referem."
+  },
+  "139991344": {
+   "fragment_id": "139993985",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos e serviços"
+  },
+  "139991345": {
+   "fragment_id": "139993986",
+   "type": 11,
+   "heading": "Artigo 8.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estrutura\n\n1 - A estrutura que suporta o processo de planeamento é integrada por órgãos e serviços com atribuições e competências de natureza política, técnica e consultiva.\n\n2 - São órgãos de competência política em matéria de planeamento a Assembleia Legislativa Regional e o Governo Regional.\n\n3 - São órgãos técnicos a direcção regional com competência na área do planeamento e a comissão técnica de planeamento.\n\n4 - O órgão de natureza e competência consultiva é o Conselho Económico e Social da Região Autónoma da Madeira."
+  },
+  "139991346": {
+   "fragment_id": "139993987",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência política",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência política\n\n1 - Compete à Assembleia Legislativa Regional:\n\na) Apreciar e aprovar, após parecer do Conselho Económico e Social da Região Autónoma da Madeira, os planos de desenvolvimento económico e social de médio prazo e os planos anuais;\n\nb) Apreciar os relatórios de execução e de avaliação dos planos de médio prazo e anuais.\n\n2 - A execução dos planos pode ser acompanhada pelas comissões competentes da Assembleia Legislativa Regional, as quais têm acesso a toda a informação necessária ao desempenho das suas atribuições, incluindo a que se encontra na direcção regional com competência na área do planeamento, sendo-lhe ainda facultado requerer os esclarecimentos necessários.\n\n3 - Incumbe ao Governo Regional a elaboração e a execução dos planos, competindo-lhe especificamente:\n\na) Assegurar a elaboração e aprovar as propostas dos planos a submeter à Assembleia Legislativa Regional;\n\nb) Concretizar a estratégia e as medidas de política necessárias à execução dos planos;\n\nc) Assegurar a elaboração e aprovar os relatórios de execução e de avaliação dos planos."
+  },
+  "139991347": {
+   "fragment_id": "139993988",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência técnica\n\n1 - A direcção regional com competência na área do planeamento é um serviço de carácter operativo ao qual incumbe a preparação, a elaboração e o acompanhamento dos planos, incluindo a elaboração dos respectivos relatórios de execução e de avaliação, sendo ainda responsável pela realização de estudos de natureza sócio-económica.\n\n2 - A comissão técnica de planeamento é o órgão de coordenação técnica na preparação, elaboração e execução dos planos.\n\n3 - A comissão técnica de planeamento é presidida pelo membro do Governo Regional com atribuições na área do planeamento, ou por quem este designar, sendo a sua composição e competências definidas através de resolução do Conselho do Governo Regional, mediante proposta do membro do Governo Regional com atribuições na área do planeamento.\n\n4 - A comissão técnica de planeamento deve integrar obrigatoriamente:\n\na) Os directores regionais com competências nas áreas do planeamento, do orçamento, da estatística e das finanças;\n\nb) O responsável pela gestão regional dos fundos comunitários;\n\nc) Um representante a designar por cada membro do Governo Regional.\n\n5 - Podem participar nos trabalhos da comissão representantes das entidades que forem convocadas pelo presidente da mesma, por sua iniciativa ou a pedido de qualquer outro dos seus membros, de acordo com os assuntos a tratar."
+  },
+  "139991348": {
+   "fragment_id": "139993989",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência consultiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência consultiva\n\nCompete ao Conselho Económico e Social da Região Autónoma da Madeira pronunciar-se sobre os planos e emitir parecer sobre os relatórios de execução dos mesmos, nos termos dos diplomas legais próprios e do disposto neste diploma."
+  },
+  "139991349": {
+   "fragment_id": "139993990",
+   "type": 1,
+   "heading": "Capítulo III — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimentos"
+  },
+  "139991350": {
+   "fragment_id": "139993991",
+   "type": 11,
+   "heading": "Artigo 12.º — Pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pareceres\n\n1 - O Governo Regional apresenta ao Conselho Económico e Social da Região Autónoma da Madeira as propostas dos planos que lhe competir elaborar.\n\n2 - No prazo máximo de 20 dias a contar da data da recepção das propostas, o Conselho Económico e Social da Região Autónoma da Madeira deve emitir o seu parecer.\n\n3 - A fim de garantir a participação efectiva e equitativa de todas as entidades no processo de planeamento, o Governo Regional deve assegurar que a distribuição das propostas seja feita pelos meios mais céleres e expeditos de processamento e transmissão de informação."
+  },
+  "139991351": {
+   "fragment_id": "139993992",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação dos planos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação dos planos\n\nO Governo Regional apresenta à Assembleia Legislativa Regional, conjuntamente com a proposta do Orçamento da Região de cada ano, a proposta do plano ou dos planos que lhe competir elaborar."
+  },
+  "139991352": {
+   "fragment_id": "139993993",
+   "type": 11,
+   "heading": "Artigo 14.º — Aprovação pela Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aprovação pela Assembleia Legislativa Regional\n\nA Assembleia Legislativa Regional aprecia e delibera sobre a aprovação das propostas dos planos que lhe forem apresentadas pelo Governo Regional."
+  },
+  "139991353": {
+   "fragment_id": "139993994",
+   "type": 11,
+   "heading": "Artigo 15.º — Alterações ao plano anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alterações ao plano anual\n\n1 - Sem prejuízo do disposto no número seguinte, as propostas de alteração ao plano anual em vigor são submetidas, pelo Governo Regional, à Assembleia Legislativa Regional para apreciação e aprovação.\n\n2 - Não carecem de aprovação pela Assembleia Legislativa Regional as alterações ao plano anual que decorram de alterações orçamentais de programas e projectos, que nos termos da legislação em vigor sobre alterações orçamentais são da competência do Governo Regional.\n\n3 - O Conselho Económico e Social da Região Autónoma da Madeira deve emitir o seu parecer às propostas de alteração ao plano anual que sejam submetidas à apreciação e aprovação pela Assembleia Legislativa Regional no prazo máximo de 20 dias a contar da data da recepção das respectivas propostas."
+  },
+  "139991354": {
+   "fragment_id": "139993995",
+   "type": 11,
+   "heading": "Artigo 16.º — Apresentação dos relatórios de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Apresentação dos relatórios de execução\n\n1 - Os relatórios de execução e de avaliação dos planos de desenvolvimento económico e social de médio prazo devem ser apresentados à Assembleia Legislativa Regional e ao Conselho Económico e Social da Região Autónoma da Madeira até ao final do ano seguinte do período a que respeitam.\n\n2 - Os relatórios de execução dos planos anuais devem ser apresentados à Assembleia Legislativa Regional e ao Conselho Económico e Social da Região Autónoma da Madeira até ao final do 3.º trimestre seguinte do período a que respeitam."
+  },
+  "139991355": {
+   "fragment_id": "139993996",
+   "type": 1,
+   "heading": "Capítulo IV — Articulação de planos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Articulação de planos"
+  },
+  "139991356": {
+   "fragment_id": "139993997",
+   "type": 11,
+   "heading": "Artigo 17.º — Outros planos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Outros planos\n\nDe modo a garantir a articulação entre todos o planos com reflexos no desenvolvimento económico e social da Região Autónoma da Madeira, a elaboração de planos sectoriais e transversais deverá contar com pelo menos um representante da comissão técnica de planeamento."
+  },
+  "139991357": {
+   "fragment_id": "139993998",
+   "type": 1,
+   "heading": "Capítulo V — Enquadramento nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Enquadramento nacional"
+  },
+  "139991358": {
+   "fragment_id": "139993999",
+   "type": 11,
+   "heading": "Artigo 18.º — Representantes da Região no plano nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Representantes da Região no plano nacional\n\nA participação da Região na elaboração do plano nacional faz-se através dos seus representantes no Conselho Económico e Social e na comissão técnica interministerial de planeamento, designados nos termos das disposições legais aplicáveis."
+  },
+  "139991359": {
+   "fragment_id": "139994000",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "139991360": {
+   "fragment_id": "139994001",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "139991362": {
+   "fragment_id": "139993982",
+   "type": 11,
+   "heading": "Artigo 5.º — Conteúdo dos planos",
+   "in_force_from": "2011-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+   ],
+   "markdown": "###### Artigo 5.º — Conteúdo dos planos\n\n1 - O plano de desenvolvimento económico e social de médio prazo integra:\n\na) Um diagnóstico de carácter prospectivo sobre a situação sócio-económica da Região;\n\nb) Os objectivos que enquadram a estratégia de desenvolvimento a prosseguir;\n\nc) As prioridades e as orientações estratégicas;\n\nd) As medidas e acções que deverão corporizar a estratégia de desenvolvimento delineada;\n\ne) Um plano de financiamento indicativo.\n\n2 - O plano anual integra:\n\na) A análise da situação económica e social da Região;\n\nb) Os objectivos e as linhas de actuação sectoriais a prosseguir no respectivo ano;\n\nc) A descrição da política de investimentos;\n\nd) A apresentação da programação financeira dos projectos de investimento promovidos pelos serviços do Governo Regional, incluindo os organismos dotados de autonomia administrativa e financeira, com agregação por programa, por medida e por concelho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+  },
+  "139991363": {
+   "fragment_id": "139993984",
+   "type": 11,
+   "heading": "Artigo 7.º — Acompanhamento da execução dos planos",
+   "in_force_from": "2011-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+   ],
+   "markdown": "###### Artigo 7.º — Acompanhamento da execução dos planos\n\n1 - O acompanhamento da execução dos planos tem expressão nos respectivos relatórios de execução.\n\n2 - Os relatórios de execução obedecem à estrutura dos planos a que se referem.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+  },
+  "139991364": {
+   "fragment_id": "139993986",
+   "type": 11,
+   "heading": "Artigo 8.º — Estrutura",
+   "in_force_from": "2011-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+   ],
+   "markdown": "###### Artigo 8.º — Estrutura\n\n1 - A estrutura que suporta o processo de planeamento é integrada por órgãos e serviços com atribuições e competências de natureza política, técnica e consultiva.\n\n2 - São órgãos de competência política em matéria de planeamento a Assembleia Legislativa da Região Autónoma da Madeira, adiante designada por ALRAM, e o Governo Regional.\n\n3 - São órgãos técnicos a entidade com competência na área do planeamento e a comissão técnica de planeamento.\n\n4 - O órgão de natureza e competência consultiva é o Conselho Económico e Social da Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+  },
+  "139991365": {
+   "fragment_id": "139993987",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência política",
+   "in_force_from": "2011-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+   ],
+   "markdown": "###### Artigo 9.º — Competência política\n\n1 - Compete à ALRAM:\n\na) Apreciar e aprovar, após parecer do Conselho Económico e Social da Região Autónoma da Madeira, os planos de desenvolvimento económico e social de médio prazo e os planos anuais;\n\nb) Apreciar os relatórios de execução dos planos anuais.\n\n2 - A execução dos planos pode ser acompanhada pelas comissões competentes da ALRAM, as quais têm acesso a toda a informação necessária ao desempenho das suas atribuições, incluindo a que se encontra na entidade com competência na área do planeamento, sendo-lhe ainda facultado requerer os esclarecimentos necessários.\n\n3 - Incumbe ao Governo Regional a elaboração e a execução dos planos, competindo-lhe especificamente:\n\na) Assegurar a elaboração e aprovar as propostas dos planos a submeter à ALRAM;\n\nb) Concretizar a estratégia e as medidas de política necessárias à execução dos planos;\n\nc) Assegurar a elaboração e aprovar os relatórios de execução dos planos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+  },
+  "139991366": {
+   "fragment_id": "139993988",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência técnica",
+   "in_force_from": "2011-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+   ],
+   "markdown": "###### Artigo 10.º — Competência técnica\n\n1 - A entidade com competência na área do planeamento é um serviço de carácter operativo ao qual incumbe a preparação, a elaboração e o acompanhamento dos planos, incluindo a elaboração dos respectivos relatórios de execução, podendo igualmente promover a realização de estudos de natureza sócio-económica.\n\n2 - A comissão técnica de planeamento é o órgão de coordenação técnica na preparação, elaboração e execução dos planos.\n\n3 - A comissão técnica de planeamento é presidida pelo membro do Governo Regional com atribuições na área do planeamento, ou por quem este designar, sendo a sua composição e competências definidas através de resolução do Conselho do Governo Regional, mediante proposta do membro do Governo Regional com atribuições na área do planeamento.\n\n4 - A comissão técnica de planeamento deve integrar obrigatoriamente os representantes a designar, por cada membro do Governo Regional, para as áreas definidas em sede da Resolução do Governo Regional que fixa as atribuições, bem como a composição e o funcionamento desta comissão.\n\n5 - Podem participar nos trabalhos da comissão representantes das entidades que forem convocadas pelo presidente da mesma, por sua iniciativa ou a pedido de qualquer outro dos seus membros, de acordo com os assuntos a tratar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+  },
+  "139991367": {
+   "fragment_id": "139993992",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação dos planos",
+   "in_force_from": "2011-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+   ],
+   "markdown": "###### Artigo 13.º — Apresentação dos planos\n\nO Governo Regional apresenta à ALRAM, conjuntamente com a proposta do Orçamento da Região de cada ano, a proposta do plano ou planos que lhe competir elaborar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+  },
+  "139991368": {
+   "fragment_id": "139993993",
+   "type": 11,
+   "heading": "Artigo 14.º — Aprovação pela ALRAM",
+   "in_force_from": "2011-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+   ],
+   "markdown": "###### Artigo 14.º — Aprovação pela ALRAM\n\nA ALRAM aprecia e delibera sobre a aprovação das propostas dos planos que lhe forem apresentadas pelo Governo Regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+  },
+  "139991369": {
+   "fragment_id": "139993994",
+   "type": 11,
+   "heading": "Artigo 15.º — Alterações ao plano anual",
+   "in_force_from": "2011-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+   ],
+   "markdown": "###### Artigo 15.º — Alterações ao plano anual\n\n1 - Sem prejuízo do disposto no número seguinte, as propostas de alteração ao plano anual em vigor são submetidas, pelo Governo Regional, à ALRAM, para apreciação e aprovação.\n\n2 - Não carecem de aprovação pela ALRAM as alterações ao plano anual que decorram de alterações orçamentais de programas e projectos, que, nos termos da legislação em vigor sobre alterações orçamentais, são da competência do Governo Regional.\n\n3 - O Conselho Económico e Social da Região Autónoma da Madeira deve emitir o seu parecer às propostas de alteração ao plano anual que sejam submetidas à apreciação e aprovação pela ALRAM, no prazo máximo de 20 dias a contar da data de recepção das respectivas propostas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+  },
+  "139991370": {
+   "fragment_id": "139993995",
+   "type": 11,
+   "heading": "Artigo 16.º — Apresentação dos relatórios de execução",
+   "in_force_from": "2011-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+   ],
+   "markdown": "###### Artigo 16.º — Apresentação dos relatórios de execução\n\nOs relatórios de execução dos planos anuais devem ser apresentados à ALRAM e ao Conselho Económico e Social da Região Autónoma da Madeira até ao final do 3.º trimestre seguinte ao período a que respeitam.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+  },
+  "139991361": {
+   "fragment_id": "139994002",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 16 de Julho de 2003.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 5 de Agosto de 2003.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "139991371": {
+   "fragment_id": "139993986",
+   "type": 11,
+   "heading": "Artigo 8.º — Estrutura",
+   "in_force_from": "2020-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+   ],
+   "markdown": "###### Artigo 8.º — Estrutura\n\n1 - A estrutura que suporta o processo de planeamento é integrada por órgãos e serviços com atribuições e competências de natureza política, técnica e consultiva.\n\n2 - São órgãos de competência política em matéria de planeamento a Assembleia Legislativa da Região Autónoma da Madeira, adiante designada por ALRAM, e o Governo Regional.\n\n3 - São órgãos técnicos a entidade com competência na área do planeamento e a comissão técnica de planeamento.\n\n4 - O órgão de natureza e competência consultiva é o Conselho Económico e Social da Região Autónoma da Madeira.\n\n5 - Pode o Governo Regional reforçar a organização e o funcionamento do sistema de planeamento da Região Autónoma da Madeira, na área técnica, através da criação de estruturas temporárias que funcionam na dependência do membro do Governo responsável pela área de planeamento, as quais integrarão a comissão técnica de planeamento.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2011/M - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826), em vigor a partir de 2011-02-23"
+  }
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:427428:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1976-182018606",
+ "dre_path": "/dr/detalhe/decreto-lei/316-1976-427428",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1976-04-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "182020138",
+    "182018725",
+    "182018726",
+    "182018727",
+    "182018728",
+    "182018729"
+   ]
+  },
+  {
+   "date": "1977-01-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138289:por",
+     "title": "Decreto-Lei n.º 24/77",
+     "published": "1977-01-18",
+     "dre_path": "/dr/detalhe/decreto-lei/24-1977-138289"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "182018724",
+    "182018725",
+    "182018726",
+    "182018727",
+    "182019625",
+    "182018729",
+    "182018730"
+   ]
+  },
+  {
+   "date": "2018-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115235757:por",
+     "title": "Decreto-Lei n.º 32/2018",
+     "published": "2018-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2018-115235757"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "182020138",
+    "182020139",
+    "182020140",
+    "182020141",
+    "182020142",
+    "182020143",
+    "182020144"
+   ]
+  }
+ ],
+ "fragments": {
+  "182020138": {
+   "fragment_id": "182018607",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-05-13",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 316/76\n\nde 29 de Abril\n\nEncontra-se em estudo a remodelação geral do ensino agrícola, verificando-se a conveniência de, na seu âmbito, colocar as escolas de regentes agrícolas na dependência do departamento cuja competência respeita ao mais elevado grau de ensino que nelas poderá vir a ser ministrado - a Direcção-Geral do Ensino Superior.\n\nConfere-se, por outro lado, equiparação a bacharel aos habilitados com o curso das escolas de regentes agrícolas, no qual, aliás, não foram já consentidas novas admissões no corrente ano lectivo, atentos os objectivos da reestruturação em estudo.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "182018725": {
+   "fragment_id": "182018608",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs escolas de regentes agrícolas e respectivas secções passam a depender da Direcção-Geral do Ensino Superior."
+  },
+  "182018726": {
+   "fragment_id": "182018609",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os cursos a ministrar nas escolas referidas no artigo anterior serão definidos por portaria do Ministro da Educação e Investigação Científica, ouvidos os Ministérios e sectores profissionais implicados.\n\n2. Os planos e regime de estudos dos cursos mencionados no número precedente serão aprovados por despacho do Ministro da Educação e Investigação Científica."
+  },
+  "182018727": {
+   "fragment_id": "182018610",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O Ministro da Educação e Investigação Científica tomará, por meio de portarias ou despachos, as medidas necessárias a que o disposto no artigo 1.º se processe de maneira a vigorar no início do ano lectivo de 1976/1977.\n\n2. As portarias ou despachos referidos no número anterior serão conjuntos com os Ministros da Administração Interna e/ou das Finanças sempre que se tratar de matérias da respectiva competência."
+  },
+  "182018728": {
+   "fragment_id": "182018611",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÉ equiparado a bacharel, para todos os efeitos legais, excepto para prosseguimento de estudos, e sem prejuízo de direitos adquiridos, quem tenha completado ou venha a completar o curso previsto no n.º 1 do artigo 2.º do Decreto n.º 38026, de 2 de Novembro de 1950, independentemente da realização do tirocínio referido no n.º 2 do mesmo preceito.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200) Os equiparados a bacharéis a que se refere o artigo 4.º do Decreto-Lei n.º 316/76, de 29 de Abril, alterado pelo Decreto-Lei n.º 24/77, de 18 de Janeiro, têm direito ao prosseguimento de estudos e ainda à creditação da sua formação e experiência profissional nos termos do artigo 45.º do Decreto-Lei n.º 74/2006, de 24 de Março."
+  },
+  "182018729": {
+   "fragment_id": "182018612",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEste decreto-lei entra em vigor na data da sua publicação."
+  },
+  "182018724": {
+   "fragment_id": "182018607",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 316/76\n\nde 29 de Abril\n\nEncontra-se em estudo a remodelação geral do ensino agrícola, verificando-se a conveniência de, na seu âmbito, colocar as escolas de regentes agrícolas na dependência do departamento cuja competência respeita ao mais elevado grau de ensino que nelas poderá vir a ser ministrado - a Direcção-Geral do Ensino Superior.\n\nConfere-se, por outro lado, equiparação a bacharel aos habilitados com o curso das escolas de regentes agrícolas, no qual, aliás, não foram já consentidas novas admissões no corrente ano lectivo, atentos os objectivos da reestruturação em estudo.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "182019625": {
+   "fragment_id": "182018611",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1977-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/77 - Diário da República n.º 14/1977, Série I de 1977-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1977-138289), em vigor a partir de 1977-01-23"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. É equiparado a bacharel, para todos os efeitos legais, excepto para prosseguimento de estudos, e sem prejuízo de direitos adquiridos, quem tenha completado ou venha a completar o curso previsto no n.º 1 do artigo 2.º do Decreto n.º 38026, de 2 de Novembro de 1950, independentemente da realização do tirocínio referido no n.º 2 do mesmo preceito.\n\n2. A equiparação conferida nos termos do n.º 1 deste artigo é extensiva a todos quantos tenham completado os cursos previstos no artigo 8.º do Decreto n.º 19908, de 19 de Junho de 1931, e no artigo 15.º do Decreto n.º 5627, de 10 de Maio de 1919.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/77 - Diário da República n.º 14/1977, Série I de 1977-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1977-138289), em vigor a partir de 1977-01-23"
+  },
+  "182018730": {
+   "fragment_id": "182018613",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernandes Leote de Almeida e Costa - Francisco Salgado Zenha - António Poppe Lopes Cardoso - Vítor Manuel Rodrigues Alves.\n\nPromulgado em 15 de Abril de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "182020139": {
+   "fragment_id": "182018608",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 1.º\n\nAs escolas de regentes agrícolas e respectivas secções passam a depender da Direcção-Geral do Ensino Superior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182020140": {
+   "fragment_id": "182018609",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Os cursos a ministrar nas escolas referidas no artigo anterior serão definidos por portaria do Ministro da Educação e Investigação Científica, ouvidos os Ministérios e sectores profissionais implicados.\n\n2. Os planos e regime de estudos dos cursos mencionados no número precedente serão aprovados por despacho do Ministro da Educação e Investigação Científica.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182020141": {
+   "fragment_id": "182018610",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1. O Ministro da Educação e Investigação Científica tomará, por meio de portarias ou despachos, as medidas necessárias a que o disposto no artigo 1.º se processe de maneira a vigorar no início do ano lectivo de 1976/1977.\n\n2. As portarias ou despachos referidos no número anterior serão conjuntos com os Ministros da Administração Interna e/ou das Finanças sempre que se tratar de matérias da respectiva competência.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182020142": {
+   "fragment_id": "182018611",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/77 - Diário da República n.º 14/1977, Série I de 1977-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1977-138289), em vigor a partir de 1977-01-23"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. É equiparado a bacharel, para todos os efeitos legais, excepto para prosseguimento de estudos, e sem prejuízo de direitos adquiridos, quem tenha completado ou venha a completar o curso previsto no n.º 1 do artigo 2.º do Decreto n.º 38026, de 2 de Novembro de 1950, independentemente da realização do tirocínio referido no n.º 2 do mesmo preceito.\n\n2. A equiparação conferida nos termos do n.º 1 deste artigo é extensiva a todos quantos tenham completado os cursos previstos no artigo 8.º do Decreto n.º 19908, de 19 de Junho de 1931, e no artigo 15.º do Decreto n.º 5627, de 10 de Maio de 1919.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200) Os equiparados a bacharéis a que se refere o artigo 4.º do Decreto-Lei n.º 316/76, de 29 de Abril, alterado pelo Decreto-Lei n.º 24/77, de 18 de Janeiro, têm direito ao prosseguimento de estudos e ainda à creditação da sua formação e experiência profissional nos termos do artigo 45.º do Decreto-Lei n.º 74/2006, de 24 de Março.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/77 - Diário da República n.º 14/1977, Série I de 1977-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1977-138289), em vigor a partir de 1977-01-23"
+  },
+  "182020143": {
+   "fragment_id": "182018612",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 5.º\n\nEste decreto-lei entra em vigor na data da sua publicação.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "182020144": {
+   "fragment_id": "182018613",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernandes Leote de Almeida e Costa - Francisco Salgado Zenha - António Poppe Lopes Cardoso - Vítor Manuel Rodrigues Alves.\n\nPromulgado em 15 de Abril de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  }
+ }
+}

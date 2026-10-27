@@ -1,0 +1,235 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:469001:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-74872637",
+ "dre_path": "/dr/detalhe/decreto-lei/227-2005-469001",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74891089",
+    "74891090",
+    "74891091",
+    "74891092",
+    "74891093",
+    "74891094",
+    "74891095",
+    "74891096",
+    "74891097",
+    "74891098",
+    "74891099",
+    "74891100",
+    "74891101",
+    "74891102",
+    "74891103",
+    "74891104",
+    "74891105",
+    "74891106",
+    "74891107",
+    "74891108",
+    "74891109",
+    "74891111",
+    "74891112"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:551868:por",
+     "title": "Declaração de Rectificação n.º 9/2006",
+     "published": "2006-02-06",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/9-2006-551868",
+     "date": "2006-01-02"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "74891089": {
+   "fragment_id": "74872638",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 227/2005\n\nde 28 de Dezembro\n\nA experiência colhida na aplicação do regime jurídico constante do Decreto-Lei n.º 219/97, de 20 de Agosto, rectificado pela Declaração de Rectificação n.º 15-D/97, de 30 de Setembro, aconselha a que se proceda à revisão, simplificação e descentralização dos procedimentos administrativos nele delineados, aprovando-se novo diploma que regule a concessão das equivalências de habilitações estrangeiras às habilitações portuguesas de nível básico e secundário.\n\nPelo presente decreto-lei, transfere-se para os estabelecimentos de ensino parte substantiva das competências em matéria de concessão de equivalências referentes a habilitações estrangeiras, dando-se, assim, mais um importante contributo para o aprofundamento da autonomia ao nível da administração escolar.\n\nComo aspecto inovador realça-se, entre outros, uma maior agilização de todo o processo, designadamente na instrução e tramitação, bem como no estabelecimento de prazos que doravante exigem uma co-responsabilização por parte dos serviços e do requerente.\n\nEste novo desenho de procedimentos permite, ainda, a criação de instrumentos que clarifiquem o processo de equivalência respeitante a habilitações adquiridas em escolas estrangeiras sediadas no nosso país, em escolas europeias, em programas de mobilidade e em estudos e diplomas de cursos com planos e programas próprios.\n\nAcresce como inovador o princípio de igualdade de tratamento na concessão de equivalências, qualquer que seja a produção dos efeitos. Não menos importância reveste a tipificação de situações especiais, as alterações introduzidas na prova de avaliação e na identificação dos respectivos destinatários e, ainda, a aplicação deste diploma a pedidos de equivalência solicitados a escolas que ministram ensino de currículo completo português fora do território nacional.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido no n.º 3 do artigo 63.º da Lei n.º 46/86, de 14 de Outubro, com as alterações que lhe foram conferidas pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "74891090": {
+   "fragment_id": "74872639",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "74891091": {
+   "fragment_id": "74872640",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei define o regime de concessão de equivalência de habilitações de sistemas educativos estrangeiros a habilitações do sistema educativo português ao nível dos ensinos básico e secundário."
+  },
+  "74891092": {
+   "fragment_id": "74872641",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Podem requerer equivalência, nos termos do presente decreto-lei, cidadãos portugueses e cidadãos estrangeiros que comprovem ser titulares de habilitações de sistemas educativos estrangeiros.\n\n2 - O disposto no número anterior é aplicável às habilitações adquiridas em estabelecimentos de ensino público ou privado estrangeiros, sediados ou não em Portugal.\n\n3 - As disposições do presente decreto-lei aplicam-se, igualmente, aos programas de mobilidade objecto de acordos específicos em matéria de equivalência de habilitações, bem como aos estudos e diplomas de cursos com programas próprios certificados por instituições universitárias de países terceiros ou por organizações internacionais não governamentais, obtidos no estrangeiro, ou, em Portugal, em escolas do ensino particular e cooperativo não superior."
+  },
+  "74891093": {
+   "fragment_id": "74872642",
+   "type": 1,
+   "heading": "Capítulo II — Concessão de equivalências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Concessão de equivalências"
+  },
+  "74891094": {
+   "fragment_id": "74872643",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios gerais\n\n1 - A equivalência de habilitações pressupõe paralelismo na formação, concluída com aproveitamento, não sendo exigível a integral semelhança de estruturas curriculares e de conteúdos programáticos.\n\n2 - A equivalência pode respeitar a um ano curricular completo, tratando-se dos ensinos básico e secundário, ou a determinada disciplina de quaisquer cursos previstos no sistema educativo vigente, tratando-se do 3.º ciclo do ensino básico e do ensino secundário.\n\n3 - No ensino básico a equivalência é concedida sem atribuição de classificação, excepto nos casos em que o requerente o solicite com vista a apresentar-se a concursos de qualquer natureza.\n\n4 - No ensino secundário a equivalência é concedida com atribuição de classificação.\n\n5 - A atribuição das classificações referidas nos n.os 3 e 4 é calculada por conversão das classificações de origem, com observância do regime legal em vigor em matéria de avaliação para os ensinos básico e secundário e de acesso ao ensino superior.\n\n6 - A concessão de equivalência não dispensa o titular da mesma de cumprir todas as condições que, para o acesso ao ensino superior ou para o exercício de uma profissão, sejam exigidas pelas entidades governamentais ou profissionais competentes."
+  },
+  "74891095": {
+   "fragment_id": "74872644",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios\n\n1 - As equivalências são concedidas tendo em conta, cumulativamente:\n\na) O número de anos de escolaridade concluídos com aproveitamento no sistema educativo de origem;\n\nb) O curso ou a natureza da formação.\n\n2 - A equivalência é concedida a um ano de escolaridade, indicando o curso ou a área que mais se assemelha à habilitação de origem e, sempre que aplicável, o respectivo nível de formação profissional.\n\n3 - A concessão de equivalências por disciplina é efectuada em conformidade com o respectivo programa, tendo como referência as competências essenciais e as aprendizagens estruturantes."
+  },
+  "74891096": {
+   "fragment_id": "74872645",
+   "type": 11,
+   "heading": "Artigo 5.º — Tabelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tabelas\n\nPor portaria do Ministro da Educação são definidas:\n\na) As tabelas comparativas do sistema de ensino português e do sistema de ensino de cada país, de acordo com o disposto nos n.os 1 e 2 do artigo 4.º, e as tabelas com a conversão dos sistemas de classificação;\n\nb) As tabelas comparativas referentes a anos de escolaridade e cursos e as tabelas de conversão dos sistemas de classificação, por instituição de ensino, para escolas estrangeiras sediadas em Portugal que ministrem cursos com planos e programas próprios;\n\nc) As tabelas comparativas referentes a estudos e diplomas de cursos com programas próprios certificados por instituições universitárias de países terceiros ou, ainda, por organizações internacionais não governamentais;\n\nd) As tabelas comparativas referentes a estudos e diplomas de cursos ministrados em escolas europeias."
+  },
+  "74891097": {
+   "fragment_id": "74872646",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências\n\n1 - A concessão da equivalência é da competência do órgão de direcção executiva, ou do director pedagógico, consoante os casos, do estabelecimento de ensino básico ou secundário público, particular e cooperativo, dotado de autonomia pedagógica para o nível de ensino no qual a equivalência é solicitada.\n\n2 - Para efeitos de prosseguimento de estudos num estabelecimento de ensino particular e cooperativo sem autonomia pedagógica para o nível de ensino no qual a equivalência é solicitada, a concessão das equivalências é da competência do órgão de direcção executiva do estabelecimento de ensino público em que o aluno deva ser matriculado.\n\n3 - Os pedidos de equivalências estrangeiras que não estejam abrangidos por nenhuma das portarias a que se refere o artigo 5.º são remetidos pelo estabelecimento de ensino, com parecer devidamente fundamentado, ao director-geral de Inovação e de Desenvolvimento Curricular."
+  },
+  "74891098": {
+   "fragment_id": "74872647",
+   "type": 11,
+   "heading": "Artigo 7.º — Instrução do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instrução do pedido\n\n1 - A equivalência é requerida nos estabelecimentos de ensino básico ou secundário dotados de autonomia pedagógica, sendo obrigatoriamente utilizado como requerimento o modelo constante no anexo I do presente decreto-lei e do qual faz parte integrante.\n\n2 - O requerimento é acompanhado de documentos comprovativos das habilitações, devidamente traduzidos, quando redigidos em língua estrangeira, e autenticados pela embaixada ou consulado de Portugal, ou pela embaixada e consulado do país estrangeiro em Portugal, ou com a apostilha para os países que aderiram à Convenção da Haia, de 5 de Outubro de 1961, ratificada pelo Decreto-Lei n.º 48450, publicado no Diário do Governo, 1.ª série, n.º 148, de 24 de Junho de 1968.\n\n3 - O requerimento e os documentos comprovativos das habilitações são entregues no estabelecimento de ensino que o requerente pretende frequentar ou no estabelecimento de ensino da área de residência em território nacional.\n\n4 - No prazo de oito dias, contados a partir da data de entrega do requerimento, ou da recepção do mesmo pela Direcção-Geral de Inovação e de Desenvolvimento Curricular (DGIDC) nas situações previstas no n.º 3 do artigo 6.º, podem ser solicitados ao requerente documentos complementares sobre a habilitação que fundamenta o pedido de equivalência, designadamente declarações comprovativas dos anos de escolaridade concluídos com aproveitamento e respectivos planos curriculares ou conteúdos programáticos, os quais devem obedecer aos requisitos exigidos no n.º 2.\n\n5 - O requerente tem um prazo de 10 dias, após notificação efectuada pelo estabelecimento de ensino ou pela DGIDC, para apresentar os documentos em falta a que se referem os n.os 3 e 4.\n\n6 - A não apresentação dos documentos em falta no prazo fixado no número anterior determina o indeferimento liminar do pedido e a devolução ao requerente dos documentos originais ou autenticados constantes do processo."
+  },
+  "74891099": {
+   "fragment_id": "74872648",
+   "type": 11,
+   "heading": "Artigo 8.º — Tramitação do processo e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tramitação do processo e decisão\n\n1 - Admitido o pedido de equivalência e após a entrega dos documentos a que se refere o n.º 4 do artigo 7.º, a entidade competente decide no prazo de 30 dias.\n\n2 - Nas situações previstas no n.º 3 do artigo 6.º, o órgão de direcção executiva ou o director pedagógico deve enviar à DGIDC, nos oito dias seguintes, o processo relativo ao pedido de equivalências, tendo aquele serviço central de decidir num prazo de 30 dias, contados a partir da data da recepção do processo ou da data da entrega dos documentos solicitados nos termos do n.º 4 do artigo 7.º\n\n3 - Proferida a decisão, a DGIDC, no prazo de oito dias, procede à notificação do requerente e dela dá conhecimento ao estabelecimento de ensino.\n\n4 - No caso de o requerente não ser notificado da decisão da DGIDC dentro dos prazos referidos nos n.os 2 e 3, compete ao estabelecimento de ensino deliberar sobre o pedido de concessão de equivalências, nos 30 dias subsequentes.\n\n5 - Enquanto decorre a tramitação do processo de equivalência, e tratando-se de um pedido para efeitos de prosseguimento de estudos nos ensinos básico ou secundário, deve ser efectuada uma matrícula condicional que possibilite ao aluno a frequência das actividades lectivas."
+  },
+  "74891100": {
+   "fragment_id": "74872649",
+   "type": 11,
+   "heading": "Artigo 9.º — Termos e certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Termos e certificados\n\n1 - Os despachos de equivalência devem constar de termo próprio, a lavrar pelo estabelecimento de ensino ou pela DGIDC.\n\n2 - Os certificados de equivalência são emitidos pelas entidades referidas no número anterior, utilizando o modelo constante no anexo II do presente decreto-lei e do qual faz parte integrante."
+  },
+  "74891101": {
+   "fragment_id": "74872650",
+   "type": 1,
+   "heading": "Capítulo III — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Situações especiais"
+  },
+  "74891102": {
+   "fragment_id": "74872651",
+   "type": 11,
+   "heading": "Artigo 10.º — Inexistência de comprovativo de habilitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Inexistência de comprovativo de habilitações\n\n1 - Quando não seja possível instruir o pedido de equivalência por ausência de documento comprovativo das habilitações adquiridas pelo requerente, pode, a título excepcional e por motivos devidamente fundamentados, ser autorizada a substituição daquele documento por uma declaração, sob compromisso de honra, do próprio, do encarregado de educação do requerente ou de quem o substitua, no caso de aquele ser menor de idade, que indique a habilitação concluída.\n\n2 - O documento referido no número anterior deve ser acompanhado por uma declaração emitida pela missão diplomática acreditada em Portugal ou por um centro de acolhimento idóneo relacionado com o país de origem, no caso de não existir missão diplomática, que justifique a excepcionalidade da situação declarada pelo requerente.\n\n3 - O requerente cuja situação se encontre prevista no n.º 1 e que pretenda ingressar nos ensinos básico ou secundário do sistema educativo português é previamente submetido a testes efectuados ao nível do estabelecimento de ensino, considerando a idade e o correspondente ano de escolaridade, tendo em vista a integração adequada no sistema de ensino.\n\n4 - Para efeito do disposto nos n.os 5 e 6, a concessão de equivalências é da competência do órgão de direcção executiva dos estabelecimentos de ensino básico e secundário públicos.\n\n5 - Os requerentes cuja situação se encontre prevista no n.º 1 e que pretendam ver reconhecida a habilitação como equivalente à conclusão dos 2.º ou 3.º ciclos do ensino básico realizam provas de avaliação da responsabilidade do estabelecimento de ensino público no qual é apresentado o requerimento, nas disciplinas de Língua Portuguesa como língua não materna e de Matemática, considerando as competências definidas para o final dos respectivos ciclos de ensino.\n\n6 - Os requerentes cuja situação se encontre prevista no n.º 1 e que pretendam ver reconhecida a habilitação como equivalente à conclusão do ensino secundário realizam provas de avaliação ao nível do 12.º ano de escolaridade, da responsabilidade do estabelecimento de ensino público, nas seguintes disciplinas:\n\na) Português como língua não materna;\n\nb) Duas disciplinas das componentes de formação específica no caso de a equivalência pretendida corresponder a um curso científico-humanístico;\n\nc) Uma disciplina da componente de formação científica e uma disciplina da componente de formação tecnológica, técnica, ou técnico-artística, no caso de a equivalência pretendida corresponder a um curso que confere qualificação profissional.\n\n7 - As provas de avaliação realizam-se no prazo de 30 dias contados a partir da entrega do requerimento no estabelecimento de ensino.\n\n8 - As matrizes das provas mencionadas nos n.os 5 e 6, bem como a elaboração e a correcção das provas, são da responsabilidade do estabelecimento de ensino.\n\n9 - Os resultados das provas mencionadas nos números anteriores são homologados por despacho do órgão de direcção executiva."
+  },
+  "74891103": {
+   "fragment_id": "74872652",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "74891104": {
+   "fragment_id": "74872653",
+   "type": 11,
+   "heading": "Artigo 11.º — Orientação e apoio pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Orientação e apoio pedagógico\n\n1 - Os estabelecimentos de ensino devem, preferencialmente através dos serviços de psicologia e orientação, esclarecer os interessados sobre a organização do sistema educativo português e informá-los sobre qual a alternativa mais consentânea com a sua formação anterior.\n\n2 - Os candidatos que ingressam no sistema educativo português através do processo de equivalência de habilitações devem beneficiar de apoio pedagógico adequado à sua situação e enquadrado no projecto educativo do estabelecimento de ensino.\n\n3 - O apoio pedagógico deve centrar-se na superação das dificuldades sentidas pelo aluno, designadamente no domínio da língua portuguesa.\n\n4 - Para execução do disposto nos números anteriores, o estabelecimento de ensino deve proceder a uma avaliação diagnóstica do aluno, elaborando um plano individual de apoio pedagógico."
+  },
+  "74891105": {
+   "fragment_id": "74872654",
+   "type": 11,
+   "heading": "Artigo 12.º — Monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Monitorização\n\n1 - Até ao dia 30 do mês de Outubro de cada ano, os estabelecimentos de ensino que tenham admitido processos de equivalência de habilitações estrangeiras, requeridos no decurso do ano lectivo anterior, devem remeter à DGIDC relatório que apresente, entre outros, os seguintes indicadores:\n\na) Por país, total de pedidos, número de certificados emitidos, número de pedidos indeferidos, habilitações de origem e equivalências concedidas;\n\nb) Número de requerimentos apreciados ao abrigo do artigo 10.º do presente decreto-lei;\n\nc) Dificuldades sentidas na aplicação dos dispositivos legais e outros elementos considerados relevantes.\n\n2 - Compete à DGIDC promover as acções entendidas como necessárias para ultrapassar as dificuldades mencionadas na alínea c) do número anterior."
+  },
+  "74891106": {
+   "fragment_id": "74872655",
+   "type": 11,
+   "heading": "Artigo 13.º — Ensino de currículo completo português fora do território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Ensino de currículo completo português fora do território nacional\n\n1 - As disposições do presente decreto-lei são aplicadas aos estabelecimentos de ensino que ministram ensino de currículo completo português fora do território nacional.\n\n2 - Os pedidos de equivalência requeridos nos estabelecimentos de ensino com paralelismo pedagógico devem ser remetidos à DGIDC, para decisão."
+  },
+  "74891107": {
+   "fragment_id": "74872656",
+   "type": 11,
+   "heading": "Artigo 14.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Processos pendentes\n\n1 - Os pedidos formulados ao abrigo do Decreto-Lei n.º 219/97, de 20 de Agosto, prosseguem nos seus termos, salvo se os requerentes solicitarem a sua anulação.\n\n2 - Os processos pendentes são resolvidos no prazo de 30 dias, a contar da data de publicação do presente decreto-lei."
+  },
+  "74891108": {
+   "fragment_id": "74872657",
+   "type": 11,
+   "heading": "Artigo 15.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação às Regiões Autónomas\n\nA aplicação do presente decreto-lei às Regiões Autónomas é realizada sem prejuízo das competências em matéria de educação dos respectivos órgãos de governo."
+  },
+  "74891109": {
+   "fragment_id": "74872658",
+   "type": 11,
+   "heading": "Artigo 16.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposição revogatória\n\nÉ revogado o Decreto-Lei n.º 219/97, de 20 de Agosto, com excepção das tabelas de equivalências constantes no seu anexo II, rectificadas pela Declaração de Rectificação n.º 15-D/97, de 30 de Setembro, que se mantêm em vigor até à publicação das portarias previstas no artigo 5.º do presente decreto-lei."
+  },
+  "74891111": {
+   "fragment_id": "74872660",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n(ver modelo no documento original)"
+  },
+  "74891112": {
+   "fragment_id": "74872661",
+   "type": 14,
+   "heading": "Anexo II — Certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Certificado\n\n(ver modelo no documento original)"
+  }
+ }
+}

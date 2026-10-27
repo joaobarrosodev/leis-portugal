@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:154660:por
+title: Decreto-Lei n.º 44803
+short_title: null
+summary: Modifica o esquema para elaboração dos orçamentos das receitas e das despesas da Administração-Geral dos Correios,
+  Telégrafos e Telefones - Revoga o Decreto-Lei n.º 31044
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Comunicações - Administração-Geral dos Correios, Telégrafos e Telefones
+proposing_entity: null
+official_number: '44803'
+official_date: null
+publication_date: '1962-12-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 291/1962, Série I de 1962-12-20
+  number: '291'
+  series: I
+  supplement: null
+  pages: 1740 - 1740
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/12/29100/17401740.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '154660'
+  dre_path: /dr/detalhe/decreto-lei/44803-1962-154660
+  internal: pt:dre:154660:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44803-1962-154660
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44803-1962-154660
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:43:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 72bdc3586f8cc92e12df21e28046810d263b3da71586edd6a3f1a730a13e6c6a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Geral dos Correios Telégrafos e Telefones
+- Contabilidade Pública
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:428610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653730:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:43:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44803
+
+O orçamento dos CTT, determinado pela base II da [Lei n.º 1959](https://diariodarepublica.pt/dr/detalhe/lei/1959-1937-428610), tem sido elaborado nos termos do [Decreto-Lei n.º 31044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31044-1940-653730).
+
+Posteriormente, os serviços de contabilidade industrial desenvolveram-se e montaram-se os serviços mecanográficos. Disto resultou a possibilidade de se obterem elementos discriminados para servirem de base aos estudos e cálculos da contabilidade industrial, rendimento e preços de custo das diferentes explorações e serviços, sem necessidade de classificar extensamente por três divisões as epígrafes do orçamento da despesa ordinária.
+
+Resolveu-se, por isso, concentrar esta parte do orçamento numa única divisão, poupando muito trabalho, sem dificultar a contabilidade, nem na sua técnica, nem na obtenção dos dados que deve fornecer.
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º O orçamento privativo das receitas ordinárias extraordinárias da Administração-Geral dos Correios, Telégrafos e Telefones incluirá todas as receitas, devidamente discriminadas, agrupadas da forma seguinte:
+
+Capítulo I - Receitas de exploração.
+
+Capítulo II - Receitas dos fundos especiais com consignação.
+
+Capítulo III - Receitas do fundo de 1.º estabelecimento.
+
+Capítulo IV - Receitas do fundo de reserva.
+
+Art. 2.º O orçamento das despesas ordinárias e extraordinárias dos CTT compreenderá todas as despesas devidamente discriminadas e agrupadas em:
+
+Capítulo I - Despesas de exploração relativas às classes do pessoal, material e pagamento de serviços e diversos encargos.
+
+Capítulo II - Despesas de acidentes em serviço.
+
+Capítulo III - Despesas de anos económicos findos.
+
+Capítulo IV - Despesas dos fundos especiais com consignação.
+
+Capítulo V - Despesas do fundo de 1.º estabelecimento.
+
+Capítulo VI - Despesas do fundo de reserva.
+
+Art. 3.º É revogado o [Decreto-Lei n.º 31044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31044-1940-653730), de 28 de Dezembro de 1940.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 20 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
+
+Para ser presente à Assembleia Nacional.

@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R2629:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R2629-20040501",
+ "dre_path": null,
+ "source_lastmod": "2004-05-01",
+ "versions": [
+  {
+   "date": "1997-12-30",
+   "future": false,
+   "celex": "31997R2629",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3381ee000dcae568",
+    "da99ed23a50d9246",
+    "0a251b561d0eee6e",
+    "d8c2f7e7634726eb",
+    "61c356ad9a2bf974",
+    "e03127cb38b623bc",
+    "17d4893654052868",
+    "77608b60b7f0c92a",
+    "3be84446e25455ce",
+    "a26af105d5432c70",
+    "e384d726a2ed7da3",
+    "e32e0efb20fedd42",
+    "88eacb51c2f40ceb",
+    "ed18a9b62c5f2fd9",
+    "8cb2d838f9b75997"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "01997R2629-20040501",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — Marcas auriculares",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º — Os Estados-membros comunicarão entre si e à Comissão os modelos da primeira e da segunda marca auricular a que se referem os artigos 3º e 4º",
+    "Suprime CAPÍTULO II — Passaportes e registos",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime CAPÍTULO III — Disposições gerais",
+    "Suprime Artigo 10º",
+    "Suprime ANEXO — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "c998453d62f22cd0"
+   ]
+  }
+ ],
+ "fragments": {
+  "3381ee000dcae568": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2629/97 da Comissão de 29 de Dezembro de 1997 que estabelece disposições de aplicação do Regulamento (CE) nº 820/97 do Conselho no que respeita a marcas auriculares, registos das explorações e passaportes no âmbito do regime de identificação e registo dos bovinos (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 354 de 30/12/1997 p. 0019 - 0022*\n\nREGULAMENTO (CE) Nº 2629/97 DA COMISSÃO de 29 de Dezembro de 1997 que estabelece disposições de aplicação do Regulamento (CE) nº 820/97 do Conselho no que respeita a marcas auriculares, registos das explorações e passaportes no âmbito do regime de identificação e registo dos bovinos (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) nº 820/97 do Conselho, de 21 de Abril de 1997, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino (1), e, nomeadamente, as alíneas a), b) e c) do seu artigo 10º,\n\nConsiderando que as marcas auriculares devem conter informações sobre o Estado-membro de origem e sobre o próprio animal; que a forma de codificação mais adequada para essas informações é o código do país, com duas letras, seguido por um máximo de 12 algarismos; que certos Estados-membros devem ser autorizados a manter o seu regime actual durante um período transitório;\n\nConsiderando que os códigos de barras podem ser autorizados adicionalmente ao código do país complementado por um máximo de 12 algarismos;\n\nConsiderando que é adequado definir certas normas mínimas uniformes para a concepção e o modelo das marcas auriculares;\n\nConsiderando que as disposições relativas ao conteúdo das marcas auriculares devem ser revistas tendo em conta a criação da base de dados informatizada prevista no artigo 5º do Regulamento (CE) nº 820/97;\n\nConsiderando que as informações contidas no passaporte e o registo devem apresentar-se de uma forma que permita seguir o percurso do animal;\n\nConsiderando que essas informações devem ser coerentes com as contidas na base de dados informatizada prevista pela Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína (2), com a última redacção que lhe foi dada pela Directiva 97/12/CE (3);\n\nConsiderando que, dadas as medidas de controlo relacionadas com os regimes de ajuda comunitários, é necessário incluir no passaporte certas informações relativas aos prémios, como previsto no artigo 4ºB do Regulamento (CEE) nº 805/68 do Conselho, de 27 de Junho de 1968, que estabelece a organização comum de mercado no sector da carne de bovino (4), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 2321/97 (5);\n\nConsiderando que, tendo em conta o calendário para a aplicação do Regulamento (CE) nº 820/97, o presente regulamento deve entrar em vigor com urgência;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Fundo Europeu de Orientação e Garantia Agrícola,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "da99ed23a50d9246": {
+   "fragment_id": "CAPÍTULO I — Marcas auriculares",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Marcas auriculares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Marcas auriculares"
+  },
+  "0a251b561d0eee6e": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. As marcas auriculares conterão pelo menos o nome, o código ou o logotipo da autoridade competente ou da autoridade competente central do Estado-membro que as atribuiu e os caracteres previstos no nº 2.\n\n2. Os caracteres das marcas auriculares serão os seguintes:\n\na) Os dois primeiros identificam o Estado-membro da exploração em que o animal foi identificado pela primeira vez. Será utilizado o código do país, com duas letras, constante do anexo;\n\nb) Os caracteres que se seguem ao código do país serão numéricos e não poderão ser mais de 12. Todavia, a Irlanda, a Itália, a Espanha, Portugal e o Reino Unido podem manter o seu sistema actual de um código alfanumérico para os 12 caracteres inscritos a seguir ao código do país até 31 de Dezembro de 1999.\n\n3. Além das informações previstas no nº 1, as autoridades competentes centrais dos Estados-membros podem autorizar a utilização de um código de barras."
+  },
+  "d8c2f7e7634726eb": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nAs marcas auriculares terão as seguintes características:\n\na) Serão de matéria plástica flexível;\n\nb) Serão infalsificáveis e de fácil leitura durante toda a vida do animal;\n\nc) Não serão reutilizáveis;\n\nd) Serão concebidas de forma a manterem-se presas ao animal sem provocar sofrimento;\n\ne) Ostentarão apenas inscrições indeléveis, em conformidade com o previsto no artigo 1º"
+  },
+  "61c356ad9a2bf974": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nAs marcas auriculares respeitarão o seguinte modelo:\n\na) Cada marca será constituída por duas partes: uma macho e outra fêmea;\n\nb) Cada uma dessas partes conterá apenas as informações previstas no artigo 1º;\n\nc) Cada parte terá, pelo menos, 45 milímetros de comprimento;\n\nd) Cada parte terá, pelo menos, 55 milímetros de largura;\n\ne) Os caracteres terão, pelo menos, 5 milímetros de altura."
+  },
+  "e03127cb38b623bc": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros podem escolher outros materiais e modelos para a segunda marca auricular o podem decidir aditar outras informações, desde que as disposições dos nºs 1 e 2 do artigo 1º sejam observadas."
+  },
+  "17d4893654052868": {
+   "fragment_id": "Artigo 5º — Os Estados-membros comunicarão entre si e à Comissão os modelos da primeira e da segunda marca auricular a que se referem os artigos 3º e 4º",
+   "type": "artigo",
+   "heading": "Artigo 5º — Os Estados-membros comunicarão entre si e à Comissão os modelos da primeira e da segunda marca auricular a que se referem os artigos 3º e 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Os Estados-membros comunicarão entre si e à Comissão os modelos da primeira e da segunda marca auricular a que se referem os artigos 3º e 4º"
+  },
+  "77608b60b7f0c92a": {
+   "fragment_id": "CAPÍTULO II — Passaportes e registos",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Passaportes e registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Passaportes e registos"
+  },
+  "3be84446e25455ce": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. O passaporte conterá, no mínimo, o seguinte:\n\na) As informações a que se refere o nº 3, primeiro a sétimo travessões do ponto C.1 do artigo 14º da Directiva 64/432/CEE;\n\nb) As informações a que se refere o nº 3, segundo travessão, do ponto C.2 do artigo 14º da Directiva 64/432/CEE ou o nº 3, primeiro travessão, do ponto C.2 do artigo 14º da referida directiva se a base de dados prevista no artigo 5º do Regulamento (CE) nº 820/97 estiver completamente operacional;\n\nc) A assinatura do(s) detentor(es), com excepção do transportador. Quando a base de dados prevista no nº 3, primeiro travessão, do artigo 6º do Regulamento (CE) nº 820/97 estiver completamente operacional, apenas será necessária a assinatura do último detentor;\n\nd) A designação da autoridade que emitiu o passaporte;\n\ne) A data de emissão do passaporte.\n\n2. Sem prejuízo do disposto no ponto 1 da parte A do capítulo I do anexo da Directiva 91/628/CEE do Conselho (6), se um vitelo com idade inferior a quatro semanas for deslocado, os Estados-membros podem estabelecer que seja acompanhado de um documento temporário que contenha, no mínimo, as informações referidas no nº 1, no formato aprovado pela autoridade competente.\n\nO documento temporário será estabelecido pelo primeiro detentor do vitelo e completado por cada um dos detentores seguintes, com excepção dos transportadores. O detentor apresentará o documento temporário à autoridade competente antes de o animal atingir a idade de quatro semanas, ou no prazo de sete dias, o mais tardar, se o animal morrer ou for abatido antes dessa idade. Se o vitelo ultrapassar essa idade, a autoridade competente emitirá um passaporte no prazo dos 14 dias a seguir à recepção do documento remporário. Esse passaporte conterá um registo de todas as deslocações do vitelo inscritas no documento temporário.\n\nDesde que o umbigo esteja cicatrizado, o vitelo pode ser transportado entre explorações acompanhado pelo documento temporário um máximo de duas vezes. Para os efeitos do presente número, a deslocação de uma exploração para outra com passagem por uma feira de gado ou um centro de agrupamento de vitelos será contabilizada como uma deslocação, desde que a feira de gado ou centro de agrupamento de vitelos possa fornecer às autoridades competentes, mediante pedido nesse sentido, um registo completo das transacções efectuadas no seu âmbito.\n\n3. Relativamente à obrigatoriedade de os detentores de animais notificarem a deslocação, nascimento ou morte de cada animal, conforme previsto no nº 1, segundo travessão, do artigo 7º do Regulamento (CE) nº 820/97, o prazo máximo será estabelecido pelo Estado-membro, mas não pode, em nenhuma circunstância, exceder 15 dias, a contar da data de aposição da marca auricular no animal, no caso dos nascimentos. A partir de 1 de Janeiro de 2000, esse prazo não poderá exceder sete dias no caso dos nascimentos, a contar da data de aposição da marca auricular no animal."
+  },
+  "a26af105d5432c70": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nPara além das informações a que se refere o artigo 6º, devem ser incluídas no passaporte as seguintes informações relativas à situação dos animais machos no que respeita aos prémios, como previstas no artigo 4ºB do Regulamento (CEE) nº 805/68:\n\na) Pedido ou concessão para o primeiro intervalo de idade;\n\nb) Pedido ou concessão para o segundo intervalo de idade."
+  },
+  "e384d726a2ed7da3": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nO registo conterá, no mínimo:\n\na) As informações actualizadas previstas no nº 3, primeiro a quarto travessões do ponto C.1, do artigo 14º da Directiva 64/432/CEE;\n\nb) A data da morte do animal na exploração;\n\nc) No caso dos animais que abandonem a exploração, o nome e o endereço do detentor, com excepção do transportador, ou o código de identificação da exploração para a qual o animal foi transferido, bem como a data de partida;\n\nd) No caso dos animais que cheguem à exploração, o nome e o endereço do detentor, com excepção do transportador, ou o código de identificação da exploração da qual o animal foi transferido, bem como a data de chegada;\n\ne) O nome e a assinatura do representante da autoridade competente que verificou o registo e a data em que procedeu a tal verificação."
+  },
+  "e32e0efb20fedd42": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros comunicarão entre si e à Comissão os modelos de passaporte e de registos das explorações utilizados no seu território."
+  },
+  "88eacb51c2f40ceb": {
+   "fragment_id": "CAPÍTULO III — Disposições gerais",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições gerais"
+  },
+  "ed18a9b62c5f2fd9": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 1998.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 29 de Dezembro de 1997.\n\nPela Comissão\n\nFranz FISCHLER\n\nMembro da Comissão\n\n(1) JO L 117 de 7. 5. 1997, p. 1.\n\n(2) JO 121 de 29. 7. 1964, p. 1977/64.\n\n(3) JO L 109 de 25. 4. 1997, p. 1.\n\n(4) JO L 148 de 26. 6. 1968, p. 24.\n\n(5) JO L 322 de 25. 11. 1997, p. 25.\n\n(6) JO L 340 de 11. 12. 1991, p. 17."
+  },
+  "8cb2d838f9b75997": {
+   "fragment_id": "ANEXO — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — >POSIÇÃO NUMA TABELA>"
+  },
+  "c998453d62f22cd0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997R2629 — PT — 01.05.2004 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997R2629) [REGULAMENTO (CE) N.º 2629/97 DA COMISSÃO](http://publications.europa.eu/resource/celex/31997R2629) [de 29 de Dezembro de 1997](http://publications.europa.eu/resource/celex/31997R2629) [que estabelece disposições de aplicação do Regulamento (CE) n.º 820/97 do Conselho no que respeita a marcas auriculares, registos das explorações e passaportes no âmbito do regime de identificação e registo dos bovinos](http://publications.europa.eu/resource/celex/31997R2629) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31997R2629) (JO L 354, 30.12.1997, p.19)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 911/2004 da Comissão de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0911) — L 163 — 65 — 30.4.2004"
+  }
+ }
+}

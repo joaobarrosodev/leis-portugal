@@ -1,0 +1,59 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0321:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0321-20080101",
+ "dre_path": null,
+ "source_lastmod": "2008-01-01",
+ "versions": [
+  {
+   "date": "1991-07-04",
+   "future": false,
+   "celex": "31991L0321",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01991L0321-20070101",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "c71fe326a817a59e"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "01991L0321-20080101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "e691547e19b24419"
+   ]
+  }
+ ],
+ "fragments": {
+  "c71fe326a817a59e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0321 — PT — 01.01.2007 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/391L0321) [DIRECTIVA DA COMISSÃO](http://publications.europa.eu/resource/celex/391L0321) [de 14 de Maio de 1991](http://publications.europa.eu/resource/celex/391L0321) [relativa às fórmulas para lactentes e fórmulas de transição](http://publications.europa.eu/resource/celex/391L0321) [(91/321/CEE)](http://publications.europa.eu/resource/celex/391L0321) (JO L 175, 4.7.1991, p.35)\n\n**revogado por:**"
+  },
+  "e691547e19b24419": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0321 — PT — 01.01.2008 — 006.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991L0321) [DIRECTIVA DA COMISSÃO](http://publications.europa.eu/resource/celex/31991L0321) [de 14 de Maio de 1991](http://publications.europa.eu/resource/celex/31991L0321) [relativa às fórmulas para lactentes e fórmulas de transição](http://publications.europa.eu/resource/celex/31991L0321) [(91/321/CEE)](http://publications.europa.eu/resource/celex/31991L0321) (JO L 175, 4.7.1991, p.35)\n\n**revogado por:**\n\n- [Directiva 2006/141/CE da Comissão de 22 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0141) — L 401 — 1 — 30.12.2006"
+  }
+ }
+}

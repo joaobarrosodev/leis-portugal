@@ -1,0 +1,1084 @@
+---
+schema_version: '1.0'
+id: pt:dre:393396:por
+title: Decreto-Lei n.º 320-A/2000
+short_title: null
+summary: Aprova o Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Contrato (RC) e de Voluntariado
+  (RV)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 320-A/2000
+official_date: null
+publication_date: '2000-12-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 288/2000, 1º Suplemento, Série I-A de 2000-12-15
+  number: '288'
+  series: I
+  supplement: 1º Suplemento
+  pages: 7342-(2) a 7342-(11)
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/12/288a01/00020011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-10-12'
+version_history:
+  file: decreto-lei-320-a-2000.versoes.json
+  count: 7
+  source_lastmod: '2025-10-03'
+  versions:
+  - date: '2000-12-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-26'
+    amending: pt:dre:270806:por
+    amending_title: Decreto-Lei n.º 118/2004
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 36.º
+    - Altera Artigo 39.º
+    - Altera Artigo 47.º
+    - Altera Artigo 53.º
+  - date: '2007-10-02'
+    amending: pt:dre:642062:por
+    amending_title: Decreto-Lei n.º 320/2007
+    changes:
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 30.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 39.º
+    - Altera Artigo 45.º
+    - Altera Artigo 47.º
+    - Revoga Artigo 41.º
+  - date: '2011-01-01'
+    amending: pt:dre:344942:por
+    amending_title: Lei n.º 55-A/2010
+    changes:
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Altera Artigo 21.º
+  - date: '2015-01-31'
+    amending: pt:dre:66325237:por
+    amending_title: Decreto-Lei n.º 13/2015
+    changes:
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+  - date: '2018-10-12'
+    amending: pt:dre:116640900:por
+    amending_title: Decreto-Lei n.º 76/2018
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Assinatura
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 39.º
+    - Revoga Artigo 40.º
+    - Revoga Artigo 42.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/320-a/2000/p/cons/20181011/pt/html
+  oj: null
+  dre: '393396'
+  dre_path: /dr/detalhe/decreto-lei/320-a-2000-393396
+  internal: pt:dre:393396:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-a-2000-393396
+  metadata_url: https://data.dre.pt/eli/dec-lei/320-a/2000/p/cons/20181011/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-116639445
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-116639445
+  retrieved_at: '2026-10-22T13:34:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-10-03T00:00:00Z'
+integrity:
+  source_sha256: 4a5599777064cbbe207356f51758b134c225e7a1eab3da48800d684c50c64a34
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:34:41Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-320-a-2000.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso ao Emprego
+- Função Pública
+- Tempo de Serviço
+- Aposentação
+- Assistência Médica
+- Assistência Medicamentosa
+- Instituto do Emprego e Formação Profissional
+- Centro de Formação Profissional
+- Formação Profissional
+- Direcção Geral de Pessoal e Recrutamento Militar
+- Estatuto dos Militares das Forças Armadas
+- Serviço Militar
+- Incentivo Profissional
+- Inserção Profissional
+- Instrução Militar
+- Forças Armadas
+- Prestações de Desemprego
+- Ensino Básico
+- Recrutamento Militar
+- Regulamento
+- Ensino Superior
+- Bolsa de Estudos
+- Remuneração
+- Militar
+- Trabalhador Estudante
+relationships:
+- type: amended_by
+  target: pt:dre:270806:por
+  label: Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 19.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º;
+    Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 30.º; Altera Artigo 31.º; Altera Artigo 32.º;
+    Altera Artigo 33.º; Altera Artigo 34.º; Altera Artigo 36.º; Altera Artigo 39.º; Altera Artigo 47.º; Altera Artigo 53.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806
+  date: '2004-05-21'
+- type: amended_by
+  target: pt:dre:642062:por
+  label: Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 23.º; Altera Artigo 30.º; Altera Artigo 33.º; Altera Artigo
+    34.º; Altera Artigo 39.º; Altera Artigo 45.º; Altera Artigo 47.º; Revoga Artigo 41.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062
+  date: '2007-09-27'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: Altera Artigo 23.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:66325237:por
+  label: Revoga Artigo 27.º; Revoga Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2015-66325237
+  date: '2015-01-26'
+- type: amended_by
+  target: pt:dre:116640900:por
+  label: Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 5.º; Revoga Artigo 6.º;
+    Revoga Assinatura; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga
+    Artigo 12.º; Revoga Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo 15.º; Revoga Artigo 16.º; Revoga Artigo 17.º; Revoga
+    Artigo 18.º; Revoga Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900
+  date: '2018-10-11'
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
+- type: cites
+  target: pt:dre:303775:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/336/1991/09/10/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/204/1998/07/11/p/dre
+- type: cites
+  target: pt:dre:514445:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/89/1995/05/06/p/dre
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/95/1992/05/23/p/dre
+- type: cites
+  target: pt:dre:544611:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/119/1999/04/14/p/dre
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: http://data.dre.pt/eli/lei/174/1999/09/21/p/dre
+article_structure:
+  article_count: 59
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:34:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 320-A/2000
+
+Decreto-Lei n.º 320-A/2000
+
+de 15 de Dezembro
+
+A nova Lei do Serviço Militar, aprovada pela Lei n.º 174/99, de 21 de Setembro, estabelece uma inovação histórica no recrutamento dos efectivos em tempo de paz: no essencial, o serviço militar era obrigatório e passa a ser voluntário.
+
+O novo sistema de recrutamento tem vindo a ser adoptado pela generalidade dos países da Europa Ocidental, por ser o mais adequado ao quadro de ameaças que todos enfrentam. O seu êxito depende da harmoniosa conjunção de dois factores essenciais: a adaptação dos ramos das Forças Armadas ao novo enquadramento legal, que as leva a concorrerem no mercado de trabalho no qual oferecerão um produto de características bem diferenciadas - mais que não seja por envolver a defesa da Pátria -, e a concretização de um conjunto de incentivos que permita o sucesso dessa concorrência e cuja dimensão financeira é encargo do Estado.
+
+A Lei do Serviço Militar cria um sistema universalizante de incentivos para interessar os jovens e as jovens na prestação de serviço nos regimes de voluntariado e de contrato com as Forças Armadas, de acordo com as necessidades destas, e, findo ele, poderem encontrar um emprego estável e uma habitação condigna. Por isso, a Lei prevê, durante o serviço, remunerações adequadas e, para os voluntários e seus familiares, o direito à segurança social e à assistência médica e medicamentosa. Depois dele, a Lei prevê ainda que eles beneficiem de apoios excepcionais ao seu emprego e habitação. Por isso, a Lei dá incentivos à obtenção de habilitações académicas, à formação e certificação profissionais, bem como à subsequente inserção no mercado do trabalho.
+
+O presente diploma legal procede à regulamentação deste sistema de incentivos, nos termos legais, e procura codificar as características principais da prestação de serviço efectivo nos regimes de contrato e de voluntariado.
+
+O sistema de incentivos ora regulamentado assenta na conjunção de remunerações pecuniárias e benefícios valiosos, a qual permitirá atrair para as Forças Armadas voluntários e voluntárias suficientes em quantidade e em qualidade, do mesmo passo que se pretende melhorar a formação académica e profissional dos Portugueses.
+
+Os incentivos são aplicados de acordo com os princípios legais da flexibilidade, da diversidade e da progressividade, tendo em conta a natureza e duração do serviço militar prestado.
+
+Entre estes benefícios, avultam as facilidades concedidas no acesso ao ensino e à formação profissional, o apoio à criação de empregos e empresas próprias e a atribuição de condições de ingresso prioritário na função pública e nos quadros permanentes das Forças Armadas e de segurança; se a diligência dos jovens que prestaram serviço militar não for premiada, terão acesso ao subsídio de desemprego. Devem ainda destacar-se condições especiais de acesso ao crédito à habitação.
+
+O presente Regulamento cria períodos destinados a facilitar a transição entre a prestação do serviço militar e o ingresso no mercado de trabalho. O acesso ao ensino e à formação profissional terá lugar em certas fases do serviço efectivo, desde que não o prejudique. As Forças Armadas passarão a certificar para o mercado de trabalho a formação profissional que ministram para os seus próprios fins. A preparação dos contratados e voluntários para a continuação da sua vida profissional ocorrerá em princípio depois de terminado o serviço militar, salvo a inerente à própria formação militar, ainda que tenha directa relevância para o mercado do trabalho. Findo o período passado pelos jovens voluntários nas fileiras, o Estado continua a apoiar os esforços que eles e elas farão para se integrarem na vida civil e as Forças Armadas não se desinteressam dos que nelas serviram e, aliás, constituem uma útil reserva de disponibilidade; assim, durante um período de tempo idêntico ao que permaneceram nas fileiras, continuarão a apoiá-los na obtenção de habilitações académicas, de formação profissional certificada e no acesso aos quadros estatais, militares e das forças de segurança, de bolsas de estudo, do subsídio de desemprego em caso de necessidade, assim como a outros benefícios constantes do sistema de incentivos.
+
+A novidade do sistema voluntário que ora começa a ser aplicado impõe que a presente concretização do sistema de incentivos deva ser concebida e aplicada como experimental. É a própria Lei do Serviço Militar que convida a esta atitude, ao estabelecer um período transitório de quatro anos, contados a partir da entrada em vigor do presente Regulamento, período durante o qual coexistirá com o regime de voluntário o serviço efectivo normal, de natureza obrigatória, o qual terá carácter gradualmente residual.
+
+Por isso, o sistema de incentivos que ora é posto em vigor exige um esforço de adaptação do Estado e das Forças Armadas. Para estimular a adaptação destas, são tomadas, em sede própria, as adequadas medidas legislativas. Para incentivar a adaptação do Estado, são atribuídas ao Ministro da Defesa Nacional, que coordenará a aplicação interministerial do sistema de incentivos, competências que lhe permitam flexibilizar em tempo útil o sistema ora aprovado.
+
+Foram ouvidas a Associação Nacional dos Municípios Portugueses e a Associação Nacional das Freguesias.
+
+Foi cumprido o disposto na Lei n.º 23/98, de 26 de Maio.
+
+Assim, no desenvolvimento do regime jurídico estabelecido pela Lei n.º 174/99, de 21 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É aprovado o Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Contrato (RC) e de Voluntariado (RV), anexo ao presente decreto-lei e que dele faz parte integrante.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 2.º — Encargos
+
+1 - As verbas necessárias para fazer face aos encargos decorrentes da aplicação do presente diploma são anualmente inscritas nos orçamentos da Direcção-Geral de Pessoal e Recrutamento Militar (DGPRM) e dos ramos das Forças Armadas.
+
+2 - Se a natureza das despesas a efectuar for imprevisível, as verbas previstas no número anterior devem constar de rubricas provisionais.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 3.º — Revogação
+
+É revogado o Decreto-Lei n.º 336/91, de 10 de Setembro, bem como toda a legislação que contrarie o presente diploma.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 4.º — Regime transitório dos militares em serviço efectivo normal
+
+1 - Aos militares que, à data da entrada em vigor do presente diploma legal, estejam no serviço efectivo normal (SEN) com destino ao RV e no RV e RC é aplicável o regime de incentivos constante do Regulamento anexo, designadamente o previsto nos artigos 3.º, 4.º, 7.º, 20.º, 22.º, 30.º, 38.º e 40.º, cuja aplicação compete aos ramos, sendo tomada em consideração a contagem do tempo de serviço já efectuado em qualquer das situações acima referidas, e sem prejuízo dos direitos adquiridos, por via da aplicação do regime legal vigente até à data da entrada em vigor do presente decreto-lei considerado mais favorável pelo seu beneficiário.
+
+2 - Os restantes incentivos aplicáveis por entidades externas ao Ministério da Defesa Nacional e que não comportem um aumento específico da despesa aplicam-se a quem tenha estado pelo menos cinco anos em RC, total ou parcialmente ao abrigo dos incentivos previstos no Decreto-Lei n.º 336/91, de 10 de Setembro.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 5.º — Comissão de acompanhamento
+
+Por resolução do Conselho de Ministros, será criada no Ministério da Defesa Nacional uma comissão interministerial de acompanhamento da aplicação do regime de incentivos, a qual será chamada a pronunciar-se sobre a gestão do sistema de incentivos que não seja da directa responsabilidade dos ramos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 6.º — Vigência
+
+1 - O presente diploma e o Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Contrato (RC) e de Voluntariado (RV), anexo, entram em vigor na data de início de vigência do Regulamento da Lei do Serviço Militar.
+
+2 - A aplicação do direito ao alojamento, a que se refere o n.º 2 do artigo 22.º do Regulamento aprovado pelo presente diploma, fica condicionada por um período de cinco anos, por forma a serem criadas condições qualitativas e quantitativas para o seu cumprimento.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-S/2000 - Diário da República n.º 300/2000, 5º Suplemento, Série I-A de 2000-12-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-s-2000-315511), produz efeitos a partir de 2000-11-19
+
+Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2000. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - Jorge Paulo Sacadura Almeida Coelho - Guilherme d'Oliveira Martins - Júlio de Lemos de Castro Caldas - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Mário Cristina de Sousa - Augusto Ernesto Santos Silva - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - Armando António Martins Vara.
+
+Promulgado em 5 de Dezembro de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 14 de Dezembro de 2000.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+## REGULAMENTO DE INCENTIVOS À PRESTAÇÃO DE SERVIÇO MILITAR NOS REGIMES DE CONTRATO (RC) E DE VOLUNTARIADO (RV)
+
+### Capítulo I — Disposição preambular
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o regime de atribuição de incentivos aos cidadãos que prestem serviço militar nos regimes de contrato (RC) e de voluntariado (RV) nas Forças Armadas, nos termos e para os efeitos previstos na Lei do Serviço Militar.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+### Capítulo II — Apoio à obtenção de habilitações académicas
+
+###### Artigo 2.º — Estatuto do Trabalhador-Estudante
+
+Os militares que prestem serviço militar voluntário em RC e RV beneficiam das disposições constantes do estatuto legal do trabalhador-estudante, salvaguardadas as especialidades decorrentes do serviço militar previstas no presente diploma.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 3.º — Especialidades da aplicação do Estatuto do Trabalhador-Estudante
+
+1 - Não há, em princípio, lugar à aplicação do Estatuto do Trabalhador-Estudante durante:
+
+a) A instrução militar;
+
+b) A frequência de acções de formação de natureza técnico-militar;
+
+c) O cumprimento de missões em forças nacionais destacadas no estrangeiro;
+
+d) O cumprimento de missões individuais no estrangeiro;
+
+e) O cumprimento de missões que, por natureza ou modo de desenvolvimento, não permitam, em regra, um regime normal de frequência de aulas.
+
+2 - As missões previstas nas alíneas b), c), d) e e) do número anterior serão fixadas por cada ramo das Forças Armadas, deixando sempre ao superior hierárquico a latitude necessária ao exercício da sua função de comando.
+
+3 - O Conselho de Chefes de Estado-Maior dará directivas que sejam necessárias para uniformizar a fixação referida no número anterior.
+
+4 - Os militares em RC e RV serão dispensados, se assim o exigir o respectivo horário escolar, até oito horas semanais.
+
+5 - A licença para efeitos de prestação de provas de avaliação deve ser requerida com a antecedência mínima de quarenta e oito horas.
+
+6 - A dispensa de horas semanais é concedida sem prejuízo dos serviços de escala, da participação dos militares em exercícios, manobras e missões de natureza operacional ou de apoio directo a operações em curso.
+
+7 - Não há lugar à concessão de licença para prestação de provas de avaliação nos períodos em que os militares participem em exercícios, manobras e missões de natureza operacional ou de apoio directo a operações em curso.
+
+8 - A licença para prestação de provas de avaliação será cancelada a qualquer momento em caso de imperiosa necessidade decorrente das missões desenvolvidas pela unidade, força ou serviço a que o militar pertença no momento da prestação dessas provas.
+
+9 - Os militares em RV e RC requerem ao superior hierárquico competente as autorizações necessárias para a aplicação do Estatuto do Trabalhador-Estudante, assim como as autorizações necessárias ao acesso aos restantes incentivos constantes do presente Regulamento.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-S/2000 - Diário da República n.º 300/2000, 5º Suplemento, Série I-A de 2000-12-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-s-2000-315511), produz efeitos a partir de 2000-11-19
+
+###### Artigo 4.º — Cursos de ensino básico e secundário
+
+1 - Os ramos das Forças Armadas, no presente diploma doravante designados por ramos, com a colaboração da Direcção-Geral de Pessoal e Recrutamento Militar (DGPRM) e sob a coordenação do Conselho de Chefes de Estado-Maior, criarão condições que permitam aos militares em RC e RV a frequência de cursos do ensino básico e secundário regular, recorrente ou profissional, com recurso a novas metodologias de ensino, tendo em vista a obtenção de habilitações académicas até ao 12.º ano ou equivalente.
+
+2 - Os ramos comunicam aos militares em situação de RC e de RV as condições referidas no número anterior.
+
+3 - Ao regime estabelecido no n.º 1 aplica-se, com as necessárias adaptações, o disposto para o Estatuto do Trabalhador-Estudante.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 5.º — Contingentação de vagas de acesso ao ensino superior público
+
+1 - Os militares que tenham prestado, no mínimo, dois anos de serviço efectivo em RC têm prioridade no acesso a 2,5% das vagas fixadas anualmente para o concurso nacional de acesso ao ensino superior público a que se refere o n.º 1 do artigo 27.º do Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelo Decreto-Lei n.º 99/99, de 30 de Março.
+
+2 - Os militares a que se refere o número anterior podem beneficiar do incentivo ali previsto durante o tempo em que prestam serviço efectivo e, findo o contrato, por um período equivalente ao do tempo de serviço prestado em RC.
+
+3 - A candidatura às vagas a que se refere o n.º 1 faz-se nos termos e condições fixados para o concurso nacional de acesso ao ensino superior público.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 6.º — Regime especial de avaliação
+
+1 - Os militares em RC e RV beneficiam de uma época especial de exames nos diferentes níveis de ensino, nos termos do n.º 4 do artigo 8.º do Estatuto do Trabalhador-Estudante.
+
+2 - Os militares em RC e RV que, pelos motivos previstos nos n.os 7 e 8 do artigo 3.º, não possam prestar provas de avaliação nas datas em que devam ocorrer têm direito a fazê-lo cessado o impedimento, desde que o requeiram aos respectivos estabelecimentos de ensino.
+
+3 - O regime previsto no número anterior é regulamentado por portaria conjunta dos Ministros da Defesa Nacional e da Educação.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 7.º — Apoio ao estudo e acesso a novas tecnologias de informação
+
+1 - Os ramos, com a colaboração da DGPRM e sob a coordenação do Conselho de Chefes de Estado-Maior, desenvolvem programas de apoio ao estudo dos militares em RC e RV.
+
+2 - Os ramos facultam a formação adequada na área das novas tecnologias de informação.
+
+3 - Os ramos disponibilizam aos militares em RC e RV salas de estudo, com as adequadas facilidades para o acesso à informação, sempre que sejam necessárias e que as instalações militares o permitam.
+
+4 - Os ramos dão atempado conhecimento aos militares em situação de RC e RV das actividades desenvolvidas ao abrigo do presente artigo.
+
+5 - Os estudos autorizados ao abrigo do presente capítulo e Regulamento são no interesse exclusivo do militar em situação de RC e RV; os estudos de militares naquelas situações, que sejam também do interesse das Forças Armadas, são regulados pelo Estatuto dos Militares das Forças Armadas (EMFAR).
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+### Capítulo III — Apoio para a formação e certificação profissional
+
+###### Artigo 8.º — Agentes da formação e certificação
+
+Os militares em RV ou RC obtêm a formação e certificação para o mercado de trabalho através dos próprios ramos ou de organismos especializados, de acordo com as competências próprias de cada ramo ou organismo nos diferentes sectores ou subsectores de actividade.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+#### Secção I — Formação e certificação profissionais pelas Forças Armadas
+
+###### Artigo 9.º — Condições da formação profissional
+
+A formação profissional dada pelos ramos durante a efectividade do serviço dos RC e RV é apenas aquela que for necessária para as Forças Armadas.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 10.º — Formação profissional certificada
+
+1 - Aos militares em RC é garantida formação profissional certificada adequada à sua inserção ou reinserção no mercado de trabalho.
+
+2 - Os militares em RC que frequentem com sucesso a formação têm direito ao respectivo certificado de formação, a emitir pela entidade formadora.
+
+3 - A formação profissional a que se refere o número anterior deve obedecer, salvaguardadas as especialidades militares, a um sistema de créditos ou módulos, podendo ser ministrada pelos ramos das Forças Armadas ou ainda pelo Instituto do Emprego e Formação Profissional (IEFP) ou por quaisquer outras entidades, públicas ou privadas, desde que cumpram o disposto no artigo 13.º
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 11.º — Certificado profissional
+
+1 - Os militares em RC que, no âmbito da formação ministrada pelas Forças Armadas, adquiram conhecimentos ou competências para o exercício de determinada profissão têm direito à respectiva certificação de aptidão profissional.
+
+2 - A emissão do certificado de aptidão profissional (CAP) a que se refere o número anterior compete às entidades mencionadas no artigo 8.º do Decreto-Lei n.º 95/92, de 23 de Maio.
+
+3 - Através de portaria conjunta dos Ministros da Defesa Nacional e do Trabalho e da Solidariedade pode ser atribuída à DGPRM competência para a emissão de CAP em áreas profissionais específicas.
+
+4 - A DGPRM participa nas estruturas de coordenação e gestão do Sistema Nacional de Certificação Profissional - comissão técnica especializada de defesa, por forma a assegurar a aprovação dos referenciais de acesso à certificação referidos no número anterior.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+#### Secção II — Formação e certificação profissionais por instituições especializadas
+
+###### Artigo 12.º — Condições de acesso
+
+1 - A formação profissional ministrada por instituições especializadas tem, em princípio, lugar depois de finda a prestação de serviço efectivo mas, durante este, será autorizada pelo superior hierárquico em condições idênticas às acima estipuladas ao abrigo do Estatuto do Trabalhador-Estudante.
+
+2 - Os militares em RC, após a cessação do contrato, têm acesso à frequência de cursos de formação profissional, designadamente de reciclagem, aperfeiçoamento e reconversão profissional, com vista à sua inserção no mercado de trabalho, nas condições constantes da presente secção.
+
+3 - É condição de acesso aos cursos de formação profissional possuir as habilitações académicas necessárias para a certificação e os requisitos específicos para cada curso.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 13.º — Entidades formadoras
+
+A formação a que se refere a presente secção é ministrada pelo IEFP ou por quaisquer outras entidades para o efeito credenciadas pela DGPRM, após parecer do ramo ou ramos aos quais respeite a formação a desenvolver.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 14.º — Contingentação de vagas
+
+1 - Os cidadãos que tenham prestado serviço em RC beneficiam de acesso prioritário a 10% do número de vagas previstas para cada um dos cursos de formação profissional a realizar pelo IEFP.
+
+2 - Para cumprimento do disposto no número anterior, o IEFP disponibiliza anualmente à DGPRM a base de dados relativa à programação das acções de formação para que esta proceda à inscrição dos públicos militares.
+
+3 - Sem prejuízo do disposto no número anterior, sempre que a rede formativa do IEFP não contemple o número de vagas suficiente às necessidades militares ou não integre cursos que se revistam de grande importância para as Forças Armadas, a DGPRM pode propor ao IEFP a concretização de acções específicas, as quais são satisfeitas dentro da disponibilidade orçamental e capacidade instalada do IEFP.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 15.º — Direito de acesso à formação
+
+Os militares que prestem serviço em RC conservam o direito de acesso à formação, nos termos do artigo anterior, por período idêntico àquele em que prestaram serviço efectivo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 16.º — Candidatura aos cursos de formação profissional
+
+1 - A candidatura aos cursos de formação profissional certificada é formalizada em requerimento dirigido à DGPRM, com a antecedência, sempre que possível, de quatro meses sobre a data de início do curso escolhido, tendo o candidato o direito de indicar mais três dos cursos constantes da lista a que se refere o artigo 19.º, escalonando-os por ordem de preferência.
+
+2 - Estando o requerente nas fileiras, deverá previamente solicitar autorização do seu superior hierárquico.
+
+3 - Havendo menos vagas do que candidatos, a DGPRM escalona-os, nos termos do n.º 1 do artigo 18.º
+
+4 - A decisão sobre o requerimento a que se refere o n.º 1 é notificada pela DGPRM ao candidato logo que dela tenha conhecimento e o mais tardar no prazo de uma semana antes do começo do curso.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 17.º — Protocolos para a frequência de cursos e estágios de formação profissional
+
+Os ramos, com a colaboração da DGPRM, envidarão celebrar protocolos com empresas públicas e privadas, ou com associações empresariais, de forma a proporcionarem a formação profissional e a frequência de cursos ou estágios pelos militares em regime de RC ou RV.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 18.º — Selecção de candidatos aos cursos e estágios de formação profissional
+
+1 - Sendo o número de candidatos à frequência de cursos e estágios de formação profissional superior ao de vagas, são escalonados pela DGPRM pela aplicação sucessiva dos seguintes critérios, sem prejuízo do disposto no n.º 3 do artigo 12.º:
+
+a) Não ter beneficiado de curso anterior, ao abrigo da presente secção;
+
+b) Não ter, por motivos que lhes sejam imputáveis, com exclusão das situações que decorrem da aplicação da Lei sobre a Protecção da Maternidade e Paternidade (LPMP), deixado de frequentar algum curso de formação profissional que tivesse requerido, nos termos do presente diploma;
+
+c) Não ter frequentado sem aproveitamento algum curso de formação profissional que tivesse requerido, nos termos do presente diploma;
+
+d) Ter prestado mais tempo de serviço efectivo;
+
+e) Ter prestado serviço, durante maior período de tempo, em unidades de maior prontidão operacional ou exercido funções de maior exigência e desgaste;
+
+f) Possuir melhor avaliação de mérito.
+
+2 - O critério a que se refere a alínea e) do número anterior só é aplicável quando as situações forem fixadas por despacho do Ministro da Defesa Nacional, sob proposta do chefe do estado-maior do respectivo ramo.
+
+3 - Os ramos comunicam à DGPRM as informações necessárias ao processo de selecção.
+
+4 - Se se verificar desequilíbrio duradouro entre os candidatos provenientes dos diversos ramos, classes, armas, serviço ou especialidades, o Ministro da Defesa Nacional tem a faculdade de autorizar, por despacho, após audição do Conselho de Chefes de Estado-Maior, que se proceda à contingentação das vagas entre eles; os critérios do n.º 1 do presente artigo serão então aplicados em cada um dos contingentes.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 19.º — Publicitação de cursos e estágios
+
+1 - Os cursos de formação profissional e respectivas vagas, incluindo os decorrentes dos protocolos de formação profissional, constam de listas a elaborar pela DGPRM, que os envia aos ramos.
+
+2 - Das listas a que se refere o número anterior devem constar as designações dos cursos, data e hora de início, duração e local onde tem lugar cada acção de formação; havendo remuneração, será também indicado o respectivo quantitativo.
+
+3 - Os militares em RC e RV, iniciado o período nas fileiras, têm o direito, sem prejuízo para o serviço, de consultar as listas referidas no n.º 1, as quais devem estar disponíveis e permanentemente actualizadas em todas as unidades, estabelecimentos e órgãos militares nos quais prestem serviço militares em RC e RV.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+### Capítulo IV — Compensações financeiras e materiais
+
+###### Artigo 20.º — Regime remuneratório
+
+1 - A remuneração dos militares em RC e RV será equiparada aos níveis retributivos dos postos correspondentes dos quadros permanentes (QP), incluindo os abonos, diferenciais, suplementos e subsídios.
+
+2 - (Revogado.)
+
+3 - O valor das remunerações referidas no n.º 1 é fixado por portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062), em vigor a partir de 2007-10-02
+
+###### Artigo 21.º — Prestações após o termo da prestação do serviço militar
+
+1 - Os militares que tenham cumprido serviço efectivo em RV ou em RC pelo período mínimo de dois anos têm direito, após o termo da prestação de serviço efectivo naqueles regimes, ao pagamento de uma prestação pecuniária correspondente a um duodécimo da remuneração anual por cada ano completo de serviço efectivamente prestado.
+
+2 - Não conta, para efeitos de cálculo da prestação a que se refere o número anterior, o tempo de serviço em que o militar se encontre em formação que habilite o ingresso nos quadros permanentes.
+
+3 - Não há lugar ao pagamento de prestação pecuniária a que se refere o n.º 1 nas seguintes situações:
+
+a) Quando, durante o serviço efectivo, o militar obtenha provimento em concurso para serviço ou organismo da Administração Pública ao abrigo do previsto nos artigos 30.º, 33.º, 34.º e 35.º do presente Regulamento;
+
+b) Quando o vínculo contratual não seja renovado por iniciativa do militar ou seja rescindido por motivos imputáveis ao mesmo.
+
+4 - Para os efeitos previstos no presente artigo, entende-se por 'remuneração anual' o produto da multiplicação por 14 do montante de remuneração base ilíquida correspondente ao escalão do posto que o militar detenha no último mês completo de prestação de serviço, acrescido do respectivo suplemento de condição militar.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062) As alterações produzidas pelo Decreto-Lei n.º 320/2007 não abrangem os militares que, a 2007-10-02, tenham atingido o período mínimo de serviço efetivo em RC, nem os cidadãos que, a 2007-10-02, tenham adquirido um direito a uma prestação determinada ou a um regime de acesso preferencial ao abrigo do presente regime.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806) No caso dos militares que à data de 2000-11-19 se encontrassem já a prestar serviço efectivo em RC, mas cujo vínculo contratual tenha sido formalizado em data anterior, o período máximo a que se refere o n.º 2 do presente artigo é fixado em seis anos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062), em vigor a partir de 2007-10-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26, produz efeitos a partir de 2000-11-19
+
+###### Artigo 22.º — Fardamento, alojamento, alimentação e transporte
+
+1 - Os militares em RC e RV, durante o período de instrução militar, têm direito a fardamento, alojamento e alimentação gratuitos.
+
+2 - Após o período de instrução, os militares em RC e RV mantêm o direito ao fardamento, alojamento e alimentação nos termos previstos para o pessoal do QP.
+
+3 - Os militares em RC e RV têm direito à redução nas tarifas dos transportes colectivos em igualdade de condições com os militares dos QP.
+
+4 - Serão inscritas nos cadernos de encargos de privatização de transportes colectivos as condições necessárias ao cumprimento do número anterior.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 23.º — Subsídio para pagamento de propinas de ensino
+
+1 - Os cidadãos que tenham cumprido, no mínimo, cinco anos de serviço efectivo em RC, uma vez cessado o vínculo contratual e desde que matriculados num estabelecimento de ensino superior, podem candidatar-se, durante um período correspondente ao número completo de anos de serviço efectivo naquele regime, à concessão de um subsídio para pagamento de propinas.
+
+2 - Sem prejuízo do estabelecido na alínea d) do n.º 4, a concessão de subsídio para pagamento de propinas de ensino é conferida pelo período de duração mínimo necessário à conclusão do segundo ciclo de estudos superiores ou de mestrado integrado, a contar da data da matrícula inicial.
+
+3 - (Revogado.)
+
+4 - Não têm direito ao subsídio para pagamento de propinas de ensino os cidadãos que:
+
+a) (Revogada.)
+
+b) Não tenham obtido aproveitamento em curso ou estágio de formação profissional por motivo que lhes seja imputável, salvo se por motivo de gozo de licença decorrente do regime legal de protecção da parentalidade;
+
+c) (Revogada.)
+
+d) Ingressarem nos QP dos ramos das Forças Armadas ou nos quadros das forças e serviços de segurança, em virtude da aplicação dos artigos 33.º e 34.º do presente Regulamento;
+
+e) Uma vez deferida a concessão do subsídio, não obtenham aproveitamento escolar no ano anterior, por causa que lhes seja imputável;
+
+f) Dele tenham já beneficiado, independentemente do respectivo período de duração.
+
+5 - A verba disponível para a atribuição do subsídio a que se refere o presente artigo é anualmente fixada por despacho do Ministro da Defesa Nacional até 15 de Junho, tendo, como valor máximo, o valor da propina em estabelecimentos de ensino superior público para o 1.º ciclo de estudos superiores.
+
+6 - Envolvendo os pedidos de candidatura um montante superior à verba a que se refere o número anterior, procede-se ao respectivo escalonamento tendo em conta:
+
+a) (Revogada.)
+
+b) A maior duração de tempo de serviço efectivo;
+
+c) A ocorrência de prestação de serviço militar, durante maior período de tempo, em unidades de maior exigência e desgaste;
+
+d) A melhor classificação de mérito;
+
+e) A não frequência de cursos de formação profissional dos níveis i, ii e iii.
+
+> Nota: [Artigo 39.º, Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942) As alterações produzidas pelo Lei n.º 55-A/2010 aplica-se aos subsídios concedidos após 2011-01-01.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062) As alterações produzidas pelo Decreto-Lei n.º 320/2007 não abrangem os militares que, a 2007-10-02, tenham atingido o período mínimo de serviço efetivo em RC, nem os cidadãos que, a 2007-10-02, tenham adquirido um direito a uma prestação determinada ou a um regime de acesso preferencial ao abrigo do presente regime.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 39.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062), em vigor a partir de 2007-10-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 24.º — Procedimentos
+
+1 - O requerimento inicial de candidatura à concessão do subsídio para pagamento de propinas de ensino é enviado à DGPRM até 31 de Maio, dele constando, obrigatoriamente, os seguintes dados relativos ao candidato:
+
+a) Identificação completa, incluindo número de bilhete de identidade ou cartão de cidadão e de contribuinte fiscal, com referência ao código da repartição respectiva;
+
+b) Morada de residência;
+
+c) Meios de contacto de que disponha, designadamente telefone e ou endereço electrónico.
+
+2 - Os candidatos devem, ainda, instruir a sua candidatura com os seguintes documentos:
+
+a) Uma declaração pela qual atestem, sob compromisso de honra, não se encontrarem abrangidos por nenhuma das situações previstas no n.º 4 do artigo anterior;
+
+b) Cópia autenticada da nota de assentamentos, folha de matrícula ou nota de assentos;
+
+c) Declaração com as avaliações individuais de mérito referentes aos últimos dois anos de contrato.
+
+3 - A decisão relativa ao preenchimento das condições de concessão do subsídio, bem como do escalonamento a que se refere o n.º 6 do artigo anterior, é obrigatoriamente comunicada aos interessados até 31 de Julho do ano em que haja sido apresentada a candidatura.
+
+4 - O subsídio para pagamento de propinas de ensino, uma vez concedido, e sob pena de caducidade, é objecto de renovação semestral a efectuar pelos interessados junto da DGPRM entre:
+
+a) 1 e 15 de Março de cada ano, devendo ser documentalmente provada a manutenção da matrícula;
+
+b) 1 e 15 de Outubro de cada ano, devendo ser documentalmente provado o aproveitamento escolar do ano lectivo cessante, bem como a renovação da respectiva matrícula para o ano lectivo seguinte.
+
+> Nota: [Artigo 39.º, Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942) As alterações produzidas pelo Lei n.º 55-A/2010 aplica-se aos subsídios concedidos após 2011-01-01.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 39.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+### Capítulo V — Apoio à inserção no mercado de trabalho
+
+###### Artigo 25.º — Prestações de desemprego
+
+1 - Finda a prestação de serviço, os militares que prestaram serviço efectivo em RC ou RV têm direito às prestações de desemprego nos termos estabelecidos na lei geral aplicável, com as adaptações previstas no número seguinte.
+
+2 - Os cidadãos a que se refere o número anterior têm direito a subsídio de desemprego por período idêntico ao da duração do serviço, não podendo, porém, ultrapassar os 30 meses.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 26.º — Suspensão das prestações de desemprego
+
+As prestações de desemprego concedidas ao abrigo do artigo anterior são suspensas, para além dos casos previstos no regime jurídico de referência, quando os beneficiários se encontrem a usufruir de subsídio para estudos concedido nos termos do presente diploma ou de qualquer outra prestação para estudos concedida ao abrigo de qualquer outro regime legal, desde que, em ambos os casos, o respectivo montante seja de valor igual ou superior à retribuição mínima mensal.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 27.º — Apoio à criação do próprio emprego ou empresa
+
+1 - Os militares que tenham prestado serviço militar efectivo em RC e que, no termo dos respectivos contratos se encontrem em situação de desemprego e pretendam criar o seu próprio emprego ou empresa, no âmbito das iniciativas locais de emprego (ILE) ou criação do próprio emprego para subsidiados (CPE), podem beneficiar de apoios técnicos e financeiros nos termos e condições da legislação que ao tempo estiver em vigor.
+
+2 - Os candidatos beneficiam de uma majoração de 20% relativamente ao apoio financeiro concedido a fundo perdido ou à bonificação da taxa de juro quando haja necessidade de recurso ao crédito.
+
+3 - Os candidatos que requeiram os apoios previstos no presente artigo podem beneficiar das condições referidas no n.º 2 por período idêntico àquele em que prestaram serviço.
+
+4 - Os militares que tenham prestado serviço militar efectivo em RC têm, nos termos do n.º 1 do presente artigo, acesso a programas de apoio a jovens empresários, nos sectores de agricultura, indústria e comércio.
+
+> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 13/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2015-66325237), em vigor a partir de 2015-01-31
+
+###### Artigo 28.º — Apoios à contratação de jovens à procura do primeiro emprego
+
+1 - As entidades empregadoras que admitam jovens à procura do primeiro emprego, com idade não superior a 30 anos, que tenham prestado serviço efectivo em RC pelo período mínimo de cinco anos e que, no termo do respectivo contrato, se encontrem em situação de desemprego, beneficiam dos seguintes incentivos à contratação, nos termos da lei que os regula:
+
+a) Majoração de um ano de dispensa temporária do pagamento de contribuições para a segurança social, nas situações previstas no artigo 6.º do Decreto-Lei n.º 89/95, de 6 de Maio;
+
+b) Concessão de um subsídio, não reembolsável, de montante igual a 12 vezes a remuneração mínima mensal garantida por lei, pela criação líquida de cada posto de trabalho, mediante contrato sem termo;
+
+c) Majoração de 20% relativamente ao subsídio não reembolsável previsto na alínea anterior.
+
+2 - O apoio previsto na alínea c) do número anterior não é cumulável com os apoios previstos nas alíneas a) e b) nem com outros apoios ao emprego previstos noutros diplomas, quando aplicáveis ao mesmo posto de trabalho.
+
+3 - O direito aos apoios à contratação previstos no presente artigo só é exercido por uma única vez em relação a cada militar contratado e caduca seis anos após a data do termo do contrato.
+
+> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 13/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2015-66325237), em vigor a partir de 2015-01-31
+
+###### Artigo 29.º — Quadros de indústrias de defesa
+
+O Ministério da Defesa Nacional diligenciará por que acedam prefencialmente aos quadros de pessoal das indústrias de defesa os cidadãos que prestaram serviço militar como RC e RV.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 30.º — Ingresso na função pública
+
+1 - O militar em RC que tenha prestado serviço efectivo pelo período mínimo de cinco anos tem direito a candidatar-se aos concursos internos de ingresso nos serviços e organismos da administração central, regional e local, incluindo institutos públicos, nas modalidades de serviços personalizados do Estado e de fundos públicos.
+
+2 - Os cidadãos que preencham as condições do número anterior têm ainda direito a candidatar-se, no prazo referido no n.º 5 do presente artigo, aos concursos internos gerais de acesso para preenchimento da primeira categoria intermédia das carreiras, desde que tenham exercido funções na área funcional para a qual o concurso é aberto e possuam o tempo de serviço necessário para a promoção na respectiva categoria.
+
+3 - Os cidadãos nas condições referidas no n.º 1 têm direito de preferência, em caso de igualdade de classificação final, nos concursos externos abertos em qualquer dos serviços ou organismos da administração central, regional e local, incluindo os institutos públicos, nas modalidades de serviços personalizados do Estado e de fundos públicos.
+
+4 - Os direitos de candidatura referidos nos números anteriores são condicionados à prova de que o candidato possui as habilitações literárias legalmente exigidas para o concurso em causa e preenche as condições gerais e especiais de admissão ao concurso.
+
+5 - Os direitos previstos nos n.os 1, 2 e 3 constituem-se com a cessação do contrato com as Forças Armadas e extinguem-se decorridos dois anos sobre a data em que aquela ocorra, bem como com o ingresso na função pública.
+
+6 - Para efeito da candidatura a que se refere o n.º 2, relevam as avaliações individuais obtidas durante a prestação do serviço militar, bem como o tempo de serviço prestado.
+
+7 - O tempo de serviço efectivo prestado em área funcional correspondente à do concurso a que o militar se candidata conta como experiência profissional, bem como para determinação do escalão de integração no caso de concurso.
+
+8 - A integração das funções militares exercidas, na área funcional para que o concurso é aberto, é atestada pela DGPRM, sob proposta do ramo de que é proveniente o candidato.
+
+9 - O regime do presente artigo será aplicado na admissão aos quadros das polícias municipais.
+
+10 - O direito referido no n.º 3 prevalece sobre o direito de preferência a que se refere o n.º 2 do artigo 37.º do Decreto-Lei n.º 204/98, de 11 de Julho.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062) As alterações produzidas pelo Decreto-Lei n.º 320/2007 não abrangem os militares que, a 2007-10-02, tenham atingido o período mínimo de serviço efetivo em RC, nem os cidadãos que, a 2007-10-02, tenham adquirido um direito a uma prestação determinada ou a um regime de acesso preferencial ao abrigo do presente regime.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806) Aos militares que à data de 2000-11-19 se encontrassem a prestar serviço efectivo em RC, mas cujo vínculo contratual tenha sido formalizado em data anterior, ressalvada que fique a conveniência para o serviço militar, é permitida a candidatura ao incentivo previsto no presente artigo a partir do último semestre do 6.º ano de duração do vínculo contratual.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062), em vigor a partir de 2007-10-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26, produz efeitos a partir de 2000-11-19
+
+###### Artigo 31.º — Apoio à inserção em organismos internacionais
+
+A DGPRM recolhe e coordena a informação que os serviços competentes do Ministério dos Negócios Estrangeiros tenham disponível sobre concursos de pessoal em organismos internacionais aos quais tenham direito de acesso os cidadãos portugueses e sejam susceptíveis de interessar aqueles que tenham prestado serviço militar em RC e RV.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 32.º — Apoio à inserção em actividades de cooperação técnico-militar com outros países
+
+1 - Nos casos em que existam concursos para actividades civis de cooperação técnico-militar e sempre que tal seja admitido pelo modelo de concurso, é estabelecido um contingente para os que prestaram serviço militar em RC e RV, o qual não pode ser inferior a 35%.
+
+2 - O direito de acesso ao contingente referido no n.º 1 é igual ao número de anos de serviço efectivo prestado.
+
+3 - Sendo o número de vagas inferior ao dos concorrentes, estes serão escalonados, sucessivamente, segundo a maior duração de tempo de serviço militar, a melhor avaliação de mérito e a melhor habilitação escolar.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 33.º — Admissão aos quadros de pessoal das Forças Armadas
+
+1 - Os militares que prestem ou tenham prestado serviço em RC pelo período mínimo de três anos beneficiam, durante e até ao limite dos dois anos subsequentes à data da cessação do contrato, de um contingente mínimo de 30 % do número total de vagas de admissão quer no conjunto dos concursos para ingresso nos QP dos ramos das Forças Armadas quer nos concursos para ingresso nos respectivos quadros de pessoal civil.
+
+2 - Os militares que prestem ou tenham prestado serviço em RC, desde que cumpridos três anos nesta forma de prestação de serviço militar, e até ao limite dos dois anos subsequentes à data da cessação do contrato, gozam do direito de preferência, em caso de igualdade de classificação, no preenchimento das vagas dos concursos para ingresso nos QP dos ramos das Forças Armadas e nos concursos para ingresso nos respectivos quadros de pessoal civil.
+
+3 - Os avisos de concursos são disponibilizados nas unidades, estabelecimentos e órgãos militares nos quais prestem serviço militares em RC, bem como no sítio do Ministério da Defesa Nacional (MDN).
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062) As alterações produzidas pelo Decreto-Lei n.º 320/2007 não abrangem os militares que, a 2007-10-02, tenham atingido o período mínimo de serviço efetivo em RC, nem os cidadãos que, a 2007-10-02, tenham adquirido um direito a uma prestação determinada ou a um regime de acesso preferencial ao abrigo do presente regime.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062), em vigor a partir de 2007-10-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 34.º — Admissão aos quadros permanentes das forças de segurança
+
+1 - Os militares que prestem ou tenham prestado serviço em RC, desde que cumpridos dois anos de serviço efectivo militar, obtido aproveitamento nas respectivas provas de admissão, beneficiam de precedência sobre os restantes candidatos no acesso aos cursos para ingresso nos quadros de praças da GNR, nos termos previstos no respectivo Estatuto.
+
+2 - Os militares que prestem ou tenham prestado serviço em RC, desde que cumpridos três anos nesta forma de prestação de serviço militar, e até ao limite dos dois anos subsequentes à data da cessação do contrato, beneficiam:
+
+a) De um contingente de 30% do número de vagas postas a concurso para ingresso na categoria de oficiais da GNR;
+
+b) De um contingente de 15% do número de vagas postas a concurso para ingresso nos quadros da Polícia de Segurança Pública.
+
+3 - Os militares que prestem ou tenham prestado serviço em RC, desde que cumpridos três anos nesta forma de prestação de serviço militar, e até ao limite dos dois anos subsequentes à data da cessação do contrato, gozam do direito de preferência, em caso de igualdade de classificação, no preenchimento das vagas dos concursos para ingresso nos quadros das forças e serviços de segurança.
+
+4 - Os avisos de concursos estarão disponíveis nas unidades, estabelecimentos e órgãos militares nos quais prestem serviço militares em RC.
+
+5 - O disposto nos n.os 1 e 2 não impede o preenchimento das vagas dos contingentes aí referidos não ocupadas por insuficiência de número de candidatos com as condições legais exigidas.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062) As alterações produzidas pelo Decreto-Lei n.º 320/2007 não abrangem os militares que, a 2007-10-02, tenham atingido o período mínimo de serviço efetivo em RC, nem os cidadãos que, a 2007-10-02, tenham adquirido um direito a uma prestação determinada ou a um regime de acesso preferencial ao abrigo do presente regime.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062), em vigor a partir de 2007-10-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 35.º — Admissão aos quadros de pessoal civil das Forças Armadas
+
+Nos concursos externos de ingresso nos quadros de pessoal civil dos serviços departamentais das Forças Armadas constitui condição de preferência na admissão a prestação de serviço militar em RC pelo período mínimo de dois anos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 36.º — Admissão aos estabelecimentos fabris das Forças Armadas
+
+O disposto no artigo precedente aplica-se, com as necessárias adaptações, ao Arsenal do Alfeite e aos estabelecimentos fabris do Exército.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 37.º — Cláusulas dos concursos públicos
+
+São nulos as cláusulas e os actos dos concursos públicos que, directa ou indirectamente, prejudiquem a aplicação do disposto no presente diploma.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+### Capítulo VI — Apoio social
+
+###### Artigo 38.º — Assistência na doença
+
+Os militares em RC e RV e os respectivos agregados familiares têm direito a assistência médica, medicamentosa, hospitalar e de meios auxiliares de diagnóstico, nos termos estabelecidos para os militares dos QP.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 39.º — Encargos no âmbito do subsistema de protecção familiar e à maternidade e paternidade
+
+1 - Durante a prestação de serviço efectivo, os militares em RC e RV têm direito às prestações abrangidas pelo subsistema de protecção familiar, bem como as referentes ao subsídio de maternidade, paternidade e adopção, nos termos estabelecidos para o pessoal dos QP.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062) As alterações produzidas pelo Decreto-Lei n.º 320/2007 não abrangem os militares que, a 2007-10-02, tenham atingido o período mínimo de serviço efetivo em RC, nem os cidadãos que, a 2007-10-02, tenham adquirido um direito a uma prestação determinada ou a um regime de acesso preferencial ao abrigo do presente regime.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062), em vigor a partir de 2007-10-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26
+
+###### Artigo 40.º — Aposentação e reforma
+
+O tempo de serviço prestado como RC e RV conta para efeitos de cálculo da data da aposentação e reforma e do montante da respectiva pensão.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 41.º — Crédito à habitação
+
+1 - Os militares que tenham prestado serviço efectivo por um período mínimo de dois anos, na situação de RC, têm direito de acesso preferencial aos regimes de crédito bonificado e de crédito jovem bonificado para aquisição de habitação própria permanente, previstos na lei, durante período idêntico àquele em que prestaram serviço.
+
+2 - As condições de concessão do crédito bonificado são estabelecidas por portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062), em vigor a partir de 2007-10-02
+
+### Capítulo VII — Direitos e deveres dos RC e RV enquanto beneficiários dos incentivos
+
+###### Artigo 42.º — Direito de acesso à informação
+
+1 - Os militares em situação de RC e RV têm direito de acesso à informação sobre os benefícios de que usufruem durante o período de prestação de serviço e, findo ele, durante um número de anos igual à duração do direito aos incentivos legais.
+
+2 - Os ramos, durante a prestação de serviço, e a DGPRM, findo ele, garantirão o cumprimento do disposto no número anterior.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 43.º — Deveres dos RC e RV
+
+1 - Os RC e RV, enquanto beneficiarem dos incentivos constantes do presente diploma, estão obrigados a comunicar ao respectivo ramo:
+
+a) A alteração da sua residência ou endereços;
+
+b) Os benefícios obtidos por virtude da aplicação do presente diploma;
+
+c) Alterações da sua situação profissional, ainda que não sejam decorrentes da aplicação do presente diploma.
+
+2 - A prestação de falsas declarações pelo beneficiário é susceptível de processo disciplinar, cível ou penal, nos termos gerais do direito.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+### Capítulo VIII — Princípios essenciais do estatuto jurídico dos cidadãos em RC e RV
+
+###### Artigo 44.º — Aplicação do EMFAR
+
+Aos cidadãos em RC e RV aplica-se o EMFAR.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 45.º — Constituição e extinção do direito aos incentivos
+
+1 - O direito aos incentivos constantes do presente diploma legal é constituído no momento da assinatura do contrato ao abrigo do regime de contrato ou de voluntariado.
+
+2 - O direito aos incentivos só é exercido depois da incorporação.
+
+3 - O direito aos incentivos extingue-se nos prazos para cada um deles previstos no presente diploma legal.
+
+4 - O direito aos incentivos extingue-se, ainda, salvo o disposto no artigo 25.º, quando o contrato do militar em RC ou RV cesse em consequência da aplicação de sanção penal ou da sanção disciplinar de cessação compulsiva do regime de voluntariado ou de contrato, ou quando o militar tenha averbado no seu registo disciplinar duas ou mais sanções disciplinares, devendo pelo menos uma das penas ser de prisão disciplinar.
+
+5 - A cessação revista no número anterior será comunicada ao interessado.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062) As alterações produzidas pelo Decreto-Lei n.º 320/2007 não abrangem os militares que, a 2007-10-02, tenham atingido o período mínimo de serviço efetivo em RC, nem os cidadãos que, a 2007-10-02, tenham adquirido um direito a uma prestação determinada ou a um regime de acesso preferencial ao abrigo do presente regime.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062), em vigor a partir de 2007-10-02
+
+### Capítulo IX — Disposições complementares, transitórias e finais
+
+###### Artigo 46.º — Contagem do tempo de serviço efectivo
+
+Para os efeitos do presente diploma, a contagem do tempo de serviço efectivo é, salvo disposição em contrário, feita a partir da data da incorporação.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 47.º — Contagem da idade para acesso a incentivos
+
+1 - Em caso de candidatura a concursos para ingresso em quaisquer carreiras ou corpos especiais da Administração Pública, bem como nos casos em que a aplicação de algum dos incentivos previstos no presente Regulamento esteja associada à verificação de limites de idade, o tempo de serviço efectivo prestado em RC e RV é abatido à idade cronológica dos cidadãos, até ao limite de dois anos, sem prejuízo da verificação das demais condições legalmente previstas para a aplicação de cada incentivo.
+
+2 - O mecanismo de abate à idade cronológica a que se refere o número anterior não se aplica ao estabelecimento dos períodos de concessão do subsídio de desemprego.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062) As alterações produzidas pelo Decreto-Lei n.º 320/2007 não abrangem os militares que, a 2007-10-02, tenham atingido o período mínimo de serviço efetivo em RC, nem os cidadãos que, a 2007-10-02, tenham adquirido um direito a uma prestação determinada ou a um regime de acesso preferencial ao abrigo do presente regime.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806) No caso dos militares que à data de 2000-11-19 já se encontrassem integrados nas fileiras, não pode resultar da aplicação do incentivo previsto no presente artigo, um abate à idade cronológica do tempo de serviço militar efectivamente prestado superior a sete anos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 320/2007 - Diário da República n.º 187/2007, Série I de 2007-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062), em vigor a partir de 2007-10-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26, produz efeitos a partir de 2000-11-19
+
+###### Artigo 48.º — Emprego anterior
+
+Se, para a concessão dos incentivos previstos no presente diploma, ou de outros, aos quais concorram os cidadãos que prestaram serviço militar em RC e RV, for exigido que o beneficiário tenha tido um emprego anterior, a prestação do serviço militar é, para esses efeitos, considerada emprego.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 49.º — Candidatura a benefícios antes do termo da prestação de serviço
+
+Os militares em situação de RC e RV têm direito, salvo disposição mais favorável do presente Regulamento e desde que não haja inconveniente para o serviço, a habilitar-se nos últimos seis meses da vigência do contrato aos incentivos aos quais têm direito depois de findo o período de serviço.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 50.º — Organismos responsáveis
+
+1 - Sem prejuízo do disposto no presente diploma, a atribuição de competências aos diferentes órgãos de sistema de incentivos será feita por despacho do Ministro da Defesa Nacional, ouvidos o Conselho de Chefes de Estado-Maior e a DGPRM.
+
+2 - A atribuição de competências referida no número anterior será feita de acordo com os seguintes princípios:
+
+a) Aos ramos cabe o planeamento e a aplicação do sistema de incentivos;
+
+b) Ao Conselho de Chefes de Estado-Maior cabe a coordenação do planeamento e da execução do sistema;
+
+c) À DGPRM cabem os contactos com organismos públicos e a execução do sistema, em particular findo o período de prestação de serviço.
+
+3 - Cada ramo fará relatórios quadrimestrais e um relatório anual sobre a aplicação do presente decreto-lei, os quais serão entregues à DGPRM e ao EMGFA até ao final do mês seguinte ao período a que se referem.
+
+4 - A DGPRM e os chefes de estado-maior farão relatórios quadrimestrais e um relatório anual sobre a aplicação do presente decreto-lei, sintetizando as suas actividades e as dos ramos, os quais serão presentes ao Ministro da Defesa Nacional até ao final do mês seguinte ao período a que se referem.
+
+5 - Os relatórios anuais referidos no número anterior podem incluir projectos de adaptação do sistema de incentivos vigentes para melhor concretização dos objectivos legais.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 51.º — Competência do CEMGFA
+
+Em tempo de paz, o Chefe do Estado-Maior-General das Forças Armadas, na sua qualidade de comandante operacional das Forças Armadas, dá parecer anual ao Ministro da Defesa Nacional sobre a adequação do sistema de incentivos à operacionalidade do sistema de forças, designadamente para os efeitos da alínea e) do n.º 5 do artigo 6.º da Lei n.º 111/91, de 29 de Agosto (Lei Orgânica de Bases da Organização das Forças Armadas).
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 52.º — Comunicações entre os organismos militares e os RC e RV
+
+1 - Para os efeitos do presente diploma, as comunicações entre o beneficiário e as Forças Armadas processar-se-ão, em princípio:
+
+a) Durante o período de serviço, através do superior hierárquico;
+
+b) Findo o período de serviço, através da DGPRM.
+
+2 - Se as comunicações previstas na alínea b) do número anterior tiverem por objecto um ramo determinado, o Ministro da Defesa Nacional, por despacho, tem a faculdade de as atribuir a esse ramo.
+
+3 - As comunicações que não tenham lugar através da cadeia de comando serão efectuadas por telefone, correio normal, electrónico ou fax da residência, entre a unidade militar e o endereço indicados pelo beneficiário. Só serão presenciais quando indispensável.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+###### Artigo 53.º — Cumprimento dos incentivos
+
+1 - Compete aos ramos das Forças Armadas onde os candidatos a beneficiários dos incentivos previstos no presente Regulamento hajam prestado serviço militar a emissão de toda a documentação destinada a sustentar direitos decorrentes do presente diploma, bem como a comprovar o preenchimento das respectivas condições de candidatura, designadamente:
+
+a) A relativa à avaliação de mérito, nos termos e para os efeitos previstos no n.º 6 do artigo 30.º do presente Regulamento;
+
+b) A referente ao tempo de serviço militar efectivamente prestado, discriminada por anos, meses e dias.
+
+2 - Para efeitos dos incentivos previstos no presente Regulamento, cuja aplicação seja da competência de outros serviços ou organismos da Administração Pública, deve o MDN promover com as tutelas respectivas a celebração dos protocolos que forem tidos por necessários, tendo em vista a troca de informação essencial à boa aplicação da lei.
+
+3 - A DGPRM, recorrendo, designadamente, às novas tecnologias da informação, procede à divulgação das listas das acções de formação a que se refere o artigo 19.º do presente Regulamento relativamente aos cidadãos que tenham cessado a respectiva prestação de serviço militar, bem como dos concursos a que se referem os artigos 31.º a 34.º e 36.º, incluindo o escalonamento que eventualmente venha a ocorrer no âmbito da aplicação do artigo 32.º
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018, Série I de 2018-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2018-116640900), em vigor a partir de 2018-10-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2004 - Diário da República n.º 119/2004, Série I-A de 2004-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), em vigor a partir de 2004-05-26

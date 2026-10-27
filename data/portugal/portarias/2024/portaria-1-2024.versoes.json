@@ -1,0 +1,451 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:835896564:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-854082999",
+ "dre_path": "/dr/detalhe/portaria/1-2024-835896564",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2024-01-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "854124777",
+    "854124778",
+    "854124779",
+    "854124780",
+    "854124781",
+    "854124782",
+    "854124783",
+    "854124784",
+    "854124785",
+    "854124786",
+    "854124787",
+    "854124788",
+    "854124789",
+    "854124790",
+    "854124791",
+    "854124792",
+    "854124793",
+    "854124794",
+    "854124795",
+    "854124796",
+    "854124797",
+    "854124798",
+    "854124799",
+    "854124800",
+    "854124801",
+    "854124802",
+    "854124803",
+    "854124804",
+    "854124805",
+    "854124806",
+    "854124807",
+    "854124808",
+    "854124809",
+    "854124810",
+    "854124811",
+    "854124812",
+    "854124813",
+    "854124814",
+    "854124815",
+    "854124816",
+    "854124817",
+    "854124818",
+    "854124819",
+    "854124820",
+    "854124822",
+    "854124823",
+    "854124824",
+    "854124825"
+   ]
+  }
+ ],
+ "fragments": {
+  "854124777": {
+   "fragment_id": "854083000",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1/2024\n\nde 2 de janeiro\n\nSumário: Regulamenta as condições de certificação das entidades formadoras e a formação de instrutores de condução, de diretores de escolas de condução e de examinadores de condução.\n\nO regime jurídico dos examinadores de condução que estabelece os requisitos de acesso e exercício da profissão, bem como as regras da certificação das respetivas entidades formadoras, foi aprovado pela Lei n.º 45/2012, de 29 de agosto. Para execução do referido regime jurídico, torna-se necessário regulamentar por portaria as matérias respeitantes à organização, duração e conteúdos do curso de formação inicial e de atualização dos examinadores de condução, à formação teórica com recurso à formação à distância, ao curso de formação específica para averbamento na credencial de examinador de condução das categorias A, C, CE, D e DE, e às características e procedimentos a adotar nas respetivas provas de exame.\n\nImpõe-se, também, especificar as exigências a que devem estar sujeitas as entidades formadoras de examinadores de condução no que se refere às equipas formativas, às características das instalações e aos recursos técnico-pedagógicos.\n\nA Lei n.º 14/2014, de 18 de março, aprovou o regime jurídico do ensino da condução, remetendo para portaria dos membros do Governo responsáveis pelas áreas do emprego e dos transportes a regulamentação das matérias de certificação dos instrutores de condução relativas ao ensino à distância, à organização, duração e conteúdos dos cursos de formação inicial, de atualização e averbamento de categorias, ao registo das avaliações formativas, aos procedimentos e conteúdos das provas de exame e à revalidação do respetivo título profissional, bem como as condições de formação, avaliação e certificação dos diretores de escolas de condução.\n\nA presente portaria foi submetida a audiência dos interessados através do portal ConsultaLEX, entre 29 de setembro de 2023 e 29 de outubro de 2023.\n\nAssim:\n\nAo abrigo do disposto nos n.os 2 e 3 do artigo 10.º, no n.º 5 do artigo 11.º, no n.º 1 do artigo 16.º, no n.º 2 do artigo 22.º, no n.º 3 do artigo 24.º, nos n.os 3 e 4 do artigo 25.º, na alínea e) do n.º 1 do artigo 31.º, no n.º 2 do artigo 32.º, no n.º 2 do artigo 34.º e no n.º 2 do artigo 44.º da Lei n.º 45/2012, de 29 de agosto, e no n.º 3 do artigo 69.º da Lei n.º 14/2014, de 18 de março, e nos termos do disposto no n.º 2 do artigo 7.º, no n.º 1 do artigo 3.º e nos artigos 24.º e 27.º do Decreto-Lei n.º 32/2022, de 9 de maio, na sua redação atual, e no n.º 1 do Despacho n.º 7910/2022, de 28 de junho, manda o Governo, pelo Secretário de Estado Adjunto e das Infraestruturas e pelo Secretário de Estado do Trabalho, o seguinte:"
+  },
+  "854124778": {
+   "fragment_id": "854083001",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "854124779": {
+   "fragment_id": "854083002",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta:\n\na) As condições de certificação das entidades formadoras de instrutores de condução, de diretores de escolas de condução e de examinadores de condução, incluindo a comunicação prévia das ações de formação em matéria de formação e certificação;\n\nb) A organização, duração e conteúdos dos cursos de formação inicial e de atualização, formação específica e formação especial dos examinadores de condução, bem como as características e procedimentos a adotar nas respetivas provas de exame, incluindo o regime de reconhecimento de qualificações profissionais de cidadãos de outros Estados-membros;\n\nc) As condições de organização, duração e conteúdos dos cursos de formação inicial e de atualização e averbamento de categorias dos instrutores de condução e cursos de formação de diretores de escolas de condução, incluindo o regime de reconhecimento de qualificações profissionais de cidadãos de outros Estados-membros;\n\nd) As medidas administrativas aplicáveis às entidades formadoras pela violação dos deveres a que se encontram vinculadas, bem como pelo incumprimento da ministração dos cursos de acordo com os conteúdos e a organização estabelecidos na presente portaria."
+  },
+  "854124780": {
+   "fragment_id": "854083003",
+   "type": 1,
+   "heading": "Capítulo II — Certificação de entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Certificação de entidades formadoras"
+  },
+  "854124781": {
+   "fragment_id": "854083004",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisitos de certificação de entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisitos de certificação de entidades formadoras\n\n1 - A certificação das entidades que pretendam exercer a atividade de formação de examinador de condução, de instrutor de condução e de diretor de escola de condução segue os trâmites previstos na Portaria n.º 851/2010, de 6 de setembro, na sua redação atual, e os requisitos estabelecidos no n.º 1 do artigo 31.º da Lei n.º 45/2012, de 29 de agosto, e no n.º 1 do artigo 57.º da Lei n.º 14/2014, de 18 de março.\n\n2 - Devem ainda cumprir o seguinte:\n\na) Serem pessoas coletivas regularmente criadas;\n\nb) Ter a situação tributária e contributiva regularizada perante a Autoridade Tributária e a Segurança Social, respetivamente;\n\nc) Cumprir os requisitos da capacidade técnica nos termos definidos na presente portaria;\n\nd) Cumprir os requisitos das instalações previstos na presente portaria;\n\ne) Apresentar o modelo de estruturação dos cursos de formação a ministrar de acordo com as unidades de competência (UC) e ou unidades de formação de curta duração (UFCD) constantes no Catálogo Nacional de Qualificações (CNQ);\n\nf) Dispor de sistemas eletrónicos para registar as atividades de formação, incluindo os dados dos formandos e dos formadores, assim como os cursos a realizar e respetivos objetivos;\n\ng) Dispor de um sistema de gestão de qualidade ou procedimento equivalente para monitorizar a conformidade e a adequação aos sistemas e procedimentos que garantam que a formação oferecida satisfaz o disposto nas normas especiais;\n\nh) Proporcionar formação e adotar medidas para manter atualizados os conhecimentos dos seus formadores;\n\ni) Manter os métodos, ferramentas e equipamentos de formação atualizados, incluindo os manuais de formação, as aplicações informáticas e a documentação fornecida aos formandos;\n\nj) Dispor de colaborador com formação e conhecimentos específicos para suporte à formação à distância, quando aplicável."
+  },
+  "854124782": {
+   "fragment_id": "854083005",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo de certificação das entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Processo de certificação das entidades formadoras\n\n1 - Os pedidos de certificação de entidade formadora são apresentados ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), por via eletrónica e devem conter os seguintes elementos:\n\na) Requerimento devidamente preenchido, datado e assinado pelo representante legal da entidade requerente;\n\nb) Informação sobre o código de acesso à respetiva certidão permanente;\n\nc) Autorização de consulta do registo criminal da entidade e dos sócios, gerentes ou administradores, ou envio dos respetivos registos;\n\nd) Disponibilização dos códigos de acesso à situação tributária perante a administração fiscal e à situação contributiva perante a segurança social;\n\ne) Declaração da disponibilidade das competências técnicas e operacionais necessárias para assegurar a qualidade da formação a ministrar, fazendo a descrição sumária das mesmas;\n\nf) Listagem com identificação do gestor da formação, dos coordenadores pedagógicos dos cursos e dos formadores, respetivos curricula vitae e indicação das UC e ou UFCD ou matérias que cada formador está habilitado a ministrar;\n\ng) Declaração onde conste que dispõe de centro de formação e de que este cumpre os requisitos previstos no artigo 5.º da presente portaria.\n\n2 - A certificação de entidades formadoras é conferida pelo IMT, I. P., no prazo máximo de 10 dias úteis, contados a partir da vistoria, com aprovação, do centro de formação.\n\n3 - O modelo de certificado de entidade formadora para a atividade a que se candidata é aprovado por deliberação do conselho diretivo do IMT, I. P.\n\n4 - A lista de entidades formadoras certificadas é divulgada no sítio da Internet do IMT, I. P., e comunicada ao serviço competente do ministério responsável pela área da formação profissional, para efeitos de divulgação de uma lista geral de entidades formadoras certificadas, nos termos do disposto no n.º 5 do artigo 14.º da Portaria n.º 851/2010, de 6 de setembro, alterada e republicada pela Portaria n.º 208/2013, de 26 de junho."
+  },
+  "854124783": {
+   "fragment_id": "854083006",
+   "type": 11,
+   "heading": "Artigo 4.º — Capacidade técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capacidade técnica\n\n1 - As entidades formadoras dispõem de um gestor da formação, cujas atribuições são:\n\na) Propor e coordenar as linhas de orientação pedagógica da entidade formadora;\n\nb) Coordenar a aplicação dos métodos pedagógicos;\n\nc) Promover a realização de questionários pedagógicos aos formadores e formandos;\n\nd) Analisar a eficácia da formação considerando elementos quantitativos e qualitativos, nomeadamente mediante auscultação de formadores e formandos;\n\ne) Propor medidas de melhoria da qualidade técnico-pedagógica da formação.\n\n2 - São requisitos cumulativos de gestor de formação:\n\na) Ter habilitação de nível superior;\n\nb) Possuir certificado de competências pedagógicas, ou reunir as condições de isenção, de acordo com o n.º 2 do artigo 2.º da Portaria n.º 214/2011, de 30 de maio;\n\nc) Ter experiência de, no mínimo, dois anos em cargos de gestão da formação e ou de coordenação pedagógica, de docente ou de formador.\n\n3 - O gestor da formação só pode exercer a função numa entidade formadora.\n\n4 - Os cursos de formação devem dispor de um coordenador pedagógico com habilitação de nível superior e experiência profissional ou formação adequada, que seja possuidor de certificado de competências pedagógicas de formador ou isenção, ao qual compete, em especial:\n\na) Efetuar o acompanhamento pedagógico de cada curso de formação, o que inclui a avaliação do desempenho dos formadores;\n\nb) Assegurar a articulação com os formadores e outros agentes envolvidos no processo formativo;\n\nc) Subscrever os certificados de formação, salvo se a entidade formadora determinar que a emissão de todos os certificados seja realizada pelo gestor da formação.\n\n5 - O coordenador pedagógico pode ministrar formação para a entidade formadora onde exerce o cargo, desde que não acumule a função de coordenador e de formador na mesma ação.\n\n6 - Os formadores indicados pela entidade formadora que ministrem formação em conteúdos associados a primeiros socorros devem ter formação na área de primeiros socorros ou suporte básico de vida."
+  },
+  "854124784": {
+   "fragment_id": "854083007",
+   "type": 11,
+   "heading": "Artigo 5.º — Instalações e equipamentos dos centros de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Instalações e equipamentos dos centros de formação\n\nAs instalações destinadas à formação devem ser adequadas aos objetivos a que se destinam e ter os seguintes requisitos mínimos:\n\na) Condições de acessibilidade às instalações para cidadãos com mobilidade condicionada;\n\nb) Sala de formação teórica com área mínima de 25 m2, sendo a lotação máxima estabelecida à razão de 1,5 m2 por formando, não podendo exceder o número de 20 formandos;\n\nc) Boas condições de salubridade e boas condições acústicas e de iluminação, ventilação, temperatura e mobiliário apropriado correspondente à respetiva lotação, assim como condições que permitam a visualização de projeções;\n\nd) Sala de acolhimento e instalações sanitárias, sendo uma adaptada a cidadãos com mobilidade condicionada;\n\ne) Quando aplicável, veículos transformados para o ensino e a avaliação de condutores, aprovados nos termos de legislação própria."
+  },
+  "854124785": {
+   "fragment_id": "854083008",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades formadoras provenientes de outros Estados-membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidades formadoras provenientes de outros Estados-membros\n\n1 - As entidades formadoras legalmente estabelecidas noutro Estado-membro da União Europeia ou do Espaço Económico Europeu, para o exercício da atividade de formação equivalente à regulamentada pela presente portaria, podem ministrar em território nacional cursos de formação inicial, de atualização, de formação específica de examinadores e curso de formação inicial, de atualização e averbamento de categorias de instrutores de condução e cursos de formação de diretores de escolas de condução, nos termos da presente portaria.\n\n2 - As entidades formadoras referidas no número anterior devem comunicar previamente a sua intenção ao IMT, I. P., devendo instruir o processo com os seguintes documentos:\n\na) Comprovativo que confirme que se encontra reconhecida como entidade formadora, noutro Estado-membro da União Europeia ou do Espaço Económico Europeu, para ministrar cursos de formação inicial, de atualização, de formação especifica de examinadores e de formação inicial, atualização e averbamento de categorias de instrutores de condução e cursos de formação de diretores de escolas de condução;\n\nb) Declaração de que cumpre o disposto nos artigos 2.º e 4.º da presente portaria.\n\n3 - As entidades formadoras que indiquem formadores cuja língua materna não seja o português devem apresentar certificado, emitido por entidade com competência para tal, a atestar que esses formadores possuem conhecimento suficiente de português como utilizador independente de nível C1, do Quadro Europeu Comum de Referência para as Línguas (QECRL)."
+  },
+  "854124786": {
+   "fragment_id": "854083009",
+   "type": 11,
+   "heading": "Artigo 7.º — Relatório da atividade formativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Relatório da atividade formativa\n\nAs entidades formadoras certificadas devem enviar ao IMT, I. P., o relatório da atividade de formação desenvolvida no ano anterior, até 31 de março de cada ano civil, contendo, pelo menos, os seguintes elementos:\n\na) Número e tipo de cursos de formação realizados;\n\nb) Número de formandos em cada curso;\n\nc) Resultados obtidos, por curso;\n\nd) Apreciação crítica da atividade desenvolvida."
+  },
+  "854124787": {
+   "fragment_id": "854083010",
+   "type": 11,
+   "heading": "Artigo 8.º — Falta superveniente dos requisitos de certificação de entidade formadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Falta superveniente dos requisitos de certificação de entidade formadora\n\nA falta superveniente de qualquer dos requisitos de certificação de entidade formadora deve ser suprida no prazo máximo de 90 dias a contar da sua ocorrência, sob pena de revogação da certificação."
+  },
+  "854124788": {
+   "fragment_id": "854083011",
+   "type": 11,
+   "heading": "Artigo 9.º — Revogação da certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revogação da certificação\n\n1 - Os requisitos de certificação de entidade formadora são de verificação permanente, devendo as entidades certificadas comprovar o seu cumprimento sempre que lhes seja solicitado.\n\n2 - O conselho diretivo do IMT, I. P., pode determinar a aplicação das seguintes sanções administrativas, em caso de incumprimento das disposições constantes na presente portaria e nos termos do disposto no artigo 16.º da Portaria n.º 851/2010, de 6 de setembro, na sua redação atual;\n\na) Advertência escrita;\n\nb) Não reconhecimento total ou parcial da ação de formação;\n\nc) Suspensão do exercício da atividade da entidade formadora, até a situação estar regularizada, pelo período máximo de um ano;\n\nd) Revogação da certificação.\n\n3 - As sanções administrativas aplicadas são publicitadas no sítio da Internet do IMT, I. P."
+  },
+  "854124789": {
+   "fragment_id": "854083012",
+   "type": 1,
+   "heading": "Capítulo III — Cursos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Cursos de formação"
+  },
+  "854124790": {
+   "fragment_id": "854083013",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposições gerais dos cursos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições gerais dos cursos de formação\n\n1 - Os cursos de formação devem ser ministrados com recurso a métodos e técnicas que garantam a qualidade da formação.\n\n2 - A entidade formadora deve elaborar manual de apoio para todas as UFCD de formação teórica, o qual deve ser disponibilizado aos formandos.\n\n3 - A componente teórica dos cursos de formação pode ser ministrada com recurso a formação à distância em modo síncrono, nas condições e nos termos a definir por deliberação do conselho diretivo do IMT, I. P.\n\n4 - A entidade formadora deve conservar o dossier técnico-pedagógico pelo período de cinco anos após a conclusão de cada curso.\n\n5 - Cada curso de formação tem o limite máximo de frequência de 20 formandos, com períodos de formação de 7 horas diárias, quando se trate de formação presencial, e entre 1 e 4 horas diárias, quando se trate de formação à distância em modo síncrono.\n\n6 - A entidade formadora deve assegurar o controlo de presenças dos formandos durante os cursos de formação e registá-las em documento próprio, que deve ser arquivado no dossier técnico-pedagógico.\n\n7 - A taxa de assiduidade a cumprir pelos formandos não pode ser inferior a 90 % da carga horária de cada UC e ou UFCD, sob pena de não emissão de declaração comprovativa de conclusão da formação."
+  },
+  "854124791": {
+   "fragment_id": "854083014",
+   "type": 11,
+   "heading": "Artigo 11.º — Comunicação prévia dos cursos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicação prévia dos cursos de formação\n\n1 - A comunicação prévia dos cursos de formação inicial, de atualização e de formação específica de examinadores, de formação inicial, de atualização e de averbamento de categorias de instrutores de condução e de formação de diretores de escolas de condução ou respetivas alterações devem ser comunicadas ao IMT, I. P., com a antecedência mínima de 10 e 3 dias úteis, respetivamente, não podendo, após essas datas, ser comunicada qualquer alteração.\n\n2 - Para além dos elementos estabelecidos em legislação especial, a comunicação prévia tem de indicar:\n\na) A identificação do coordenador pedagógico e formadores;\n\nb) A indicação das UC e ou UFCD que cada formador vai ministrar;\n\nc) A identificação de centros de exame ou de escola de condução onde se realiza a formação prática, se aplicável;\n\nd) O cronograma do curso de formação com identificação das UC e ou UFCD a ministrar;\n\ne) O centro de exames onde é ministrada a formação que implique a presença em centro de exames, se aplicável;\n\nf) Indicação da metodologia de formação teórica a adotar;\n\ng) No caso da metodologia de ensino à distância, a plataforma que pretende utilizar e a respetiva senha de acesso para o IMT poder aceder.\n\n3 - O disposto no número anterior aplica-se às entidades formadoras legalmente estabelecidas noutro Estado-membro da União Europeia ou do Espaço Económico Europeu que pretendam ministrar cursos de formação previstos na presente portaria.\n\n4 - Durante cada curso de formação, deve estar disponível na sala de formação, ainda que de forma desmaterializada, um dossier técnico-pedagógico contendo a seguinte informação:\n\na) Identificação da entidade formadora, do coordenador pedagógico e dos formadores, com indicação das UC e ou UFCD que ministram;\n\nb) Identificação do tipo de curso e cronograma, incluindo a identificação das UFCD a ministrar e respetivas cargas horárias;\n\nc) Identificação do local da formação e recursos pedagógicos disponíveis;\n\nd) Identificação dos formandos contendo o nome, número de identificação civil e fiscal, número de carta de condução e identificação do título profissional, nos casos de revalidação.\n\n5 - O dossier técnico-pedagógico em forma desmaterializada só é válido com a aposição de assinatura digital do coordenador pedagógico datada do dia da formação.\n\n6 - O incumprimento do disposto nos números anteriores invalida a formação."
+  },
+  "854124792": {
+   "fragment_id": "854083015",
+   "type": 1,
+   "heading": "Capítulo IV — Formação de examinadores e provas de exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Formação de examinadores e provas de exame"
+  },
+  "854124793": {
+   "fragment_id": "854083016",
+   "type": 11,
+   "heading": "Artigo 12.º — Curso de formação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Curso de formação inicial\n\n1 - A formação inicial tem uma componente teórica e uma componente prática.\n\n2 - Os conteúdos do curso de formação inicial de examinadores de condução e respetivas cargas horárias constam das UC e ou UFCD disponíveis no CNQ.\n\n3 - A entidade formadora deve comunicar ao IMT, I. P., a conclusão da formação teórica no prazo de 10 dias úteis após a sua conclusão.\n\n4 - A entidade formadora mantém um registo, por formando, das várias etapas da formação prática, incluindo as respetivas avaliações formativas, que consta do dossier técnico-pedagógico."
+  },
+  "854124794": {
+   "fragment_id": "854083017",
+   "type": 11,
+   "heading": "Artigo 13.º — Prova teórica do curso de formação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prova teórica do curso de formação inicial\n\n1 - Após a conclusão do curso de formação inicial de examinadores de condução, o candidato é submetido a uma prova teórica escrita ou por sistema multimédia, em ambos os casos com recurso a teste de geração aleatória, que tem as seguintes características:\n\na) 100 perguntas de escolha múltipla que têm entre duas e quatro respostas possíveis, sendo que cada questão admite apenas uma resposta certa;\n\nb) Duração de duas horas sem interrupção;\n\nc) Com caráter eliminatório;\n\nd) Classificada na escala de 0 a 100 valores, tendo cada pergunta a cotação de 1 valor.\n\n2 - O candidato a examinador de condução que obtenha a cotação mínima de 80 valores é aprovado e admitido à formação prática.\n\n3 - A prova teórica é realizada pelo IMT, I. P., em sala apetrechada com um monitor para cada candidato, que pode transmitir simultaneamente imagens, figuras ou outro tipo de aplicação multimédia e respetivas questões.\n\n4 - Em caso de aprovação na prova teórica, é entregue ao candidato a examinador de condução documento que o autoriza a participar nas provas do exame de condução, cujo modelo é fixado por deliberação do conselho diretivo do IMT, I. P.\n\n5 - Em caso de reprovação, o candidato a examinador de condução pode visualizar as questões que errou no prazo de dois dias úteis.\n\n6 - O candidato a examinador de condução pode reclamar, fundamentadamente, do resultado obtido nas provas, mediante requerimento dirigido ao IMT, I. P., no prazo de 10 dias úteis a contar da data da respetiva reprovação."
+  },
+  "854124795": {
+   "fragment_id": "854083018",
+   "type": 11,
+   "heading": "Artigo 14.º — Prova prática do curso de formação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prova prática do curso de formação inicial\n\n1 - Após a conclusão da formação prática, a entidade formadora emite um certificado de conclusão da formação prática, com aproveitamento, subscrito pelo coordenador pedagógico, e comunica ao IMT, I. P.\n\n2 - Após a comunicação da conclusão da formação prática, os candidatos a examinadores devem requerer a prova prática no prazo de 30 dias.\n\n3 - A entrevista e a avaliação da destreza da condução referidas nas alíneas a) e b) do n.º 1 do artigo 13.º da Lei n.º 45/2012, de 29 de agosto, têm a duração máxima de 30 minutos cada.\n\n4 - O candidato a examinador de condução pode reclamar do resultado da prova prática nos termos do n.º 6 do artigo anterior."
+  },
+  "854124796": {
+   "fragment_id": "854083019",
+   "type": 11,
+   "heading": "Artigo 15.º — Curso de formação específica para as categorias A, C, CE, D e DE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Curso de formação específica para as categorias A, C, CE, D e DE\n\n1 - A formação específica de examinadores de condução para as categorias A, C, CE, D e DE pode ser presencial e com recurso a formação à distância em modo síncrono, nos termos do n.º 4 do artigo 9.º\n\n2 - Os conteúdos do curso de formação específica de examinadores de condução para as categorias A, C, CE, D e DE e respetivas cargas horárias constam das UC e ou UFCD disponíveis no CNQ."
+  },
+  "854124797": {
+   "fragment_id": "854083020",
+   "type": 11,
+   "heading": "Artigo 16.º — Exame para averbamento de categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Exame para averbamento de categorias\n\n1 - O exame para averbamento de categorias é composto por uma prova teórica e uma prova prática.\n\n2 - A prova teórica, por sistema multimédia, com recurso a teste de geração aleatória, é ininterrupta, tem a duração de 35 minutos e é constituída por 30 perguntas de escolha múltipla entre duas a quatro respostas possíveis, em que só uma resposta é considerada certa, tendo cada pergunta a cotação de 1 valor.\n\n3 - O candidato a examinador de condução que obtenha a cotação mínima de 24 valores é aprovado e admitido à formação prática.\n\n4 - Em caso de aprovação na prova teórica, é entregue ao candidato a examinador de condução documento que o autoriza a participar nas provas do exame de condução da categoria a que se pretende habilitar como examinador de condução, cujo modelo é fixado por deliberação do conselho diretivo do IMT, I. P.\n\n5 - Antes do início da prova prática a que se refere o n.º 4 do artigo 18.º da Lei n.º 45/2012, de 29 de agosto, o examinador de condução deve comprovar que conduz com destreza e segurança o veículo da categoria que pretende averbar na sua credencial de examinador de condução.\n\n6 - Aplica-se às provas práticas o disposto no n.º 3 do artigo 14.º da presente portaria, com as necessárias adaptações."
+  },
+  "854124798": {
+   "fragment_id": "854083021",
+   "type": 11,
+   "heading": "Artigo 17.º — Cursos de formação de atualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cursos de formação de atualização\n\n1 - Os conteúdos do curso formação de atualização de examinador de condução são os constantes do curso de formação inicial, restritos aos temas que apresentem necessidade de atualização.\n\n2 - Durante o mês de dezembro de cada ano, o IMT, I. P. comunica às entidades formadoras os temas que devem ser objeto de formação de atualização no ano seguinte.\n\n3 - A formação de atualização, prevista na alínea a) do n.º 1 do artigo 25.º da Lei n.º 45/2012, de 29 de agosto, pode ser ministrada com recurso a formação a distância em modo síncrono.\n\n4 - Aplica-se à formação de atualização o disposto nos n.os 2 e 3 do artigo 10.º"
+  },
+  "854124799": {
+   "fragment_id": "854083022",
+   "type": 11,
+   "heading": "Artigo 18.º — Reconhecimento da qualificação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reconhecimento da qualificação profissional\n\n1 - O pedido de reconhecimento de qualificações profissionais adquiridas noutro Estado-membro da União Europeia segue o procedimento previsto no artigo 47.º da Lei n.º 9/2009, de 4 de março, na sua redação atual, e deve ser instruído com os seguintes elementos adicionais:\n\na) Identificação do examinador de condução e residência;\n\nb) Indicação das categorias em que pretende realizar exames de condução.\n\n2 - Os examinadores de condução nacionais de Estados-membros da União Europeia ou do Espaço Económico Europeu cujas qualificações profissionais tenham sido obtidas noutro Estado-membro e que se pretendam estabelecer em Portugal podem ser submetidos pelo IMT, I. P., às seguintes medidas de compensação:\n\na) Estágio durante um período de 6 meses, junto do examinador de condução legalmente estabelecido em território nacional, que remete, no final do estágio, o respetivo relatório ao IMT, I. P.,\n\nb) Realização de prova teórica, de prova prática ou de prova teórica e prática."
+  },
+  "854124800": {
+   "fragment_id": "854083023",
+   "type": 11,
+   "heading": "Artigo 19.º — Bolsa nacional de supervisores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Bolsa nacional de supervisores\n\n1 - Durante o mês de novembro de cada ano, os examinadores de condução podem apresentar a sua candidatura para o exercício da função de examinador-supervisor.\n\n2 - O IMT, I. P., valida as candidaturas que reúnam as condições previstas no n.º 2 do artigo 24.º da Lei n.º 45/2012, de 29 de agosto, e disponibiliza no seu sítio da Internet a lista dos examinadores-supervisores admitidos anualmente.\n\n3 - As entidades autorizadas a realizar exames de condução escolhem os examinadores-supervisores da lista disponibilizada nos termos do número anterior.\n\n4 - Após a realização de cada supervisão, o examinador-supervisor deve, no prazo de dois dias úteis:\n\na) Entregar o relatório ao responsável do centro de exames;\n\nb) Comunicar ao IMT, I. P., informação da supervisão realizada, incluindo o respetivo resultado."
+  },
+  "854124801": {
+   "fragment_id": "854083024",
+   "type": 11,
+   "heading": "Artigo 20.º — Examinadores de condução que não estejam em exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Examinadores de condução que não estejam em exercício de funções\n\n1 - O prazo de um ano para requerer a emissão da credencial, previsto no n.º 1 do artigo 46.º da Lei n.º 45/2012, de 29 de agosto, inicia-se no dia seguinte ao da entrada em vigor da presente portaria.\n\n2 - A aprovação na prova prática a que se refere o n.º 2 do artigo 46.º da Lei n.º 45/2012, de 29 de agosto, habilita o examinador de condução em todas as categorias onde já tinha realizado prova prática com aproveitamento, ao abrigo do Decreto-Lei n.º 175/91, de 11 de maio."
+  },
+  "854124802": {
+   "fragment_id": "854083025",
+   "type": 1,
+   "heading": "Capítulo V — Formação de instrutores e diretores de escola de condução e provas de exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Formação de instrutores e diretores de escola de condução e provas de exame"
+  },
+  "854124803": {
+   "fragment_id": "854083026",
+   "type": 8,
+   "heading": "Secção I — Instrutores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Instrutores"
+  },
+  "854124804": {
+   "fragment_id": "854083027",
+   "type": 11,
+   "heading": "Artigo 21.º — Cursos de formação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cursos de formação inicial\n\n1 - O titular de carta de condução da categoria B definitiva pode frequentar o curso de formação inicial.\n\n2 - O curso de formação inicial tem a duração de 325 horas, das quais 200 horas de formação teórica e 125 horas de formação prática.\n\n3 - Os conteúdos do curso de formação inicial e respetivas cargas horárias constam da UC e ou UFCD disponíveis no CNQ.\n\n4 - Na formação inicial de instrutores de condução os titulares de certificado de competências pedagógicas (CCP) ou quem reunir as condições de isenção, de acordo com o n.º 2 do artigo 2.º da Portaria n.º 214/2011, de 30 de maio, estão dispensados da frequência da UC e ou UFCD relativa à temática de métodos de ensino e pedagogia.\n\n5 - O requisito previsto na alínea c) do artigo 37.º da Lei n.º 14/2014, de 18 de março, pode ser substituído pela frequência da UC e ou UFCD relativa à temática de métodos de ensino e pedagogia.\n\n6 - A entidade formadora deve comunicar ao IMT, I. P., a conclusão da formação teórica no prazo de 10 dias úteis após a sua conclusão.\n\n7 - A formação prática é ministrada em escola de condução, acompanhada por instrutor e supervisionada pelo diretor da escola de condução, e tem a duração máxima de um ano."
+  },
+  "854124805": {
+   "fragment_id": "854083028",
+   "type": 11,
+   "heading": "Artigo 22.º — Prova teórica do curso de formação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Prova teórica do curso de formação inicial\n\n1 - A prova teórica é realizada por sistema multimédia, com recurso a teste de geração aleatória, nos termos das alíneas seguintes:\n\na) É composta por 100 questões de escolha múltipla que têm entre duas a quatro hipóteses de resposta;\n\nb) Cada questão admite apenas uma resposta certa;\n\nc) É realizada de forma ininterrupta e tem a duração de duas horas;\n\nd) Tem caráter eliminatório;\n\ne) É classificada na escala de 0 a 100 valores, tendo cada pergunta a cotação de 1 valor.\n\n2 - O candidato que obtenha a cotação mínima de 80 valores é aprovado e admitido à formação prática em escola de condução.\n\n3 - No final da prova teórica os resultados são comunicados ao candidato a instrutor e às respetivas entidades formadoras.\n\n4 - Em caso de reprovação, ao candidato a instrutor aplicam-se, com as necessárias adaptações, as disposições constantes nos n.os 5 e 6 do artigo 13.º\n\n5 - O IMT, I. P., aprecia o pedido de revisão e comunica o resultado ao requerente e à entidade formadora, em prazo não superior a 20 dias úteis a contar da data da sua receção."
+  },
+  "854124806": {
+   "fragment_id": "854083029",
+   "type": 11,
+   "heading": "Artigo 23.º — Formação prática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Formação prática\n\n1 - A componente prática da formação de instrutores de condução é ministrada em escola de condução, é supervisionada pelo diretor da escola de condução e tem a duração máxima de um ano.\n\n2 - Durante o período de formação prática, o candidato a instrutor deve assistir, no mínimo, a 25 horas de teoria e a 25 horas de prática de condução e deve ministrar, no mínimo, 25 horas de teoria e 25 horas de prática de condução, acompanhado por instrutor da escola de condução onde realiza a formação prática com, pelo menos, cinco anos consecutivos de experiência, das quais 1h30m deve ser de acompanhamento de prova prática em contexto real de exame.\n\n3 - As restantes 25 horas da formação prática destinam-se ao treino das competências práticas em matéria de condução, com condução efetiva, e à observação da atividade administrativa da escola de condução, sendo distribuídas da seguinte forma:\n\na) 15 horas de condução, das quais 5 horas podem ser realizadas em simulador de condução;\n\nb) 10 horas para a observação da atividade administrativa das escolas de condução.\n\n4 - Durante a formação prática, a entidade formadora pode mudar a escola de condução onde o candidato a instrutor realiza a sua formação, desde que os formandos sejam informados com a antecedência mínima de 8 dias úteis e prestem o seu consentimento por escrito.\n\n5 - Os diretores da escola de condução onde o candidato a instrutor realizou a formação emitem declaração comprovativa da conclusão da formação prática com aproveitamento.\n\n6 - A entidade formadora promove o registo, por formando, das várias etapas da formação prática, incluindo as respetivas avaliações formativas, e arquiva-o ou regista-o no dossier técnico-pedagógico da ação de formação, numa ficha de formação prática cujo modelo é definido por deliberação do conselho diretivo do IMT, I. P."
+  },
+  "854124807": {
+   "fragment_id": "854083030",
+   "type": 11,
+   "heading": "Artigo 24.º — Prova prática do curso de formação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Prova prática do curso de formação inicial\n\n1 - A prova prática é realizada nos termos do artigo 41.º da Lei n.º 14/2014, de 18 de março, e tem a duração mínima de 90 minutos e máxima de 120 minutos.\n\n2 - Em caso de reprovação o candidato pode reclamar do resultado obtido, no prazo de 10 dias úteis a contar da data da reprovação, mediante requerimento fundamentado.\n\n3 - O IMT, I. P., aprecia a reclamação e comunica o resultado ao reclamante e à entidade formadora em prazo não superior a 30 dias úteis a contar da data da sua receção."
+  },
+  "854124808": {
+   "fragment_id": "854083031",
+   "type": 11,
+   "heading": "Artigo 25.º — Formação específica de instrutores das categorias A, C, CE, D e DE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Formação específica de instrutores das categorias A, C, CE, D e DE\n\n1 - Os conteúdos e respetivas cargas horárias dos cursos de formação específica de instrutores de condução das categorias A, C, CE, D e DE constam das UC e ou UFCD disponíveis no CNQ.\n\n2 - A formação em contexto real de ensino de condução é acompanhada por instrutor e supervisionada pelo diretor da escola de condução.\n\n3 - No final do curso, a entidade formadora emite uma declaração comprovativa da conclusão da formação com aproveitamento."
+  },
+  "854124809": {
+   "fragment_id": "854083032",
+   "type": 11,
+   "heading": "Artigo 26.º — Prova prática especifica de instrutor de condução das categorias A, C, CE, D e DE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Prova prática especifica de instrutor de condução das categorias A, C, CE, D e DE\n\nA prova prática especifica de instrutor das categorias A, C, CE, D e DE tem a seguinte duração:\n\na) Categoria A: 40 minutos;\n\nb) Categorias C, CE, D e DE: 60 minutos."
+  },
+  "854124810": {
+   "fragment_id": "854083033",
+   "type": 11,
+   "heading": "Artigo 27.º — Curso de formação de atualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Curso de formação de atualização\n\n1 - O curso de atualização de instrutor de condução deve permitir a atualização dos conhecimentos e das competências dos formandos nas áreas de legislação rodoviária, segurança rodoviária, psicologia e psicopedagogia, por forma a garantir um desempenho profissional adequado através do uso eficaz de novos métodos e novas tecnologias de informação.\n\n2 - O curso de atualização de instrutor de condução tem a duração mínima de 25 horas e os seus conteúdos constam das UC e ou UFCD disponíveis no CNQ.\n\n3 - Nos casos previstos no n.º 5 do artigo 47.º da Lei n.º 14/2014, de 18 de março, a revalidação está dependente de frequência de curso de atualização.\n\n4 - No final do curso, a entidade formadora emite um certificado de frequência e aproveitamento dos formandos que tenham frequentado 90 % da duração do curso.\n\n5 - Os instrutores com mais de 70 anos apenas frequentam o curso de formação de atualização de quatro em quatro anos."
+  },
+  "854124811": {
+   "fragment_id": "854083034",
+   "type": 11,
+   "heading": "Artigo 28.º — Revalidação do título profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Revalidação do título profissional\n\nO pedido de revalidação do título profissional de instrutor de condução pode ser requerido ao IMT, I. P., nos seis meses anteriores ao termo da validade e deve conter os seguintes elementos:\n\na) Certificado de avaliação médica eletrónico para condutores do grupo 2;\n\nb) Registo criminal ou autorização de consulta do respetivo registo mediante a disponibilização do código de acesso;\n\nc) Certificado de frequência com aproveitamento do curso de atualização emitido pela entidade formadora."
+  },
+  "854124812": {
+   "fragment_id": "854083035",
+   "type": 11,
+   "heading": "Artigo 29.º — Reconhecimento de profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Reconhecimento de profissionais\n\n1 - Os instrutores de condução de outros Estados-membros da União Europeia ou do Espaço Económico Europeu cujas qualificações profissionais não tenham sido obtidas em Portugal e pretendam exercer a profissão em território nacional podem, nos termos da Lei n.º 9/2009, de 4 de março, na sua redação atual, ser submetidos pelo IMT, I. P., às seguintes medidas de compensação, singular ou cumulativamente:\n\na) Frequência de matérias formativas que se revelem em falta face ao conteúdo do curso de formação inicial constantes das UC e ou UFCD disponíveis no CNQ;\n\nb) Realização de uma prova prática, nos termos do n.º 1 do artigo 41.º da Lei n.º 14/2014, de 18 de março;\n\nc) Submissão ao exame de acesso à profissão previsto no artigo 39.º da Lei n.º 14/2014, de 18 de março.\n\n2 - O pedido de reconhecimento deve conter os seguintes elementos:\n\na) Identificação completa do instrutor e residência;\n\nb) Indicação das categorias de ensino que pretende ministrar;\n\nc) Indicação dos diplomas, certificados, atestados de competência ou outros títulos de formação de que seja detentor e indicação do Estado que os emitiu;\n\nd) Indicação do período de experiência profissional.\n\n3 - O requerimento é instruído com os seguintes documentos:\n\na) Cópia dos documentos referidos na alínea c) do número anterior;\n\nb) Documento emitido pela entidade formadora discriminativo do programa de formação ministrado, quando não conste do respetivo título;\n\nc) Declaração emitida pela escola de condução onde prestou serviço ou documento comprovativo do exercício da atividade por conta própria, emitido pelo Estado onde a mesma ocorreu.\n\n4 - Os documentos mencionados nos números anteriores devem ser acompanhados de tradução autenticada."
+  },
+  "854124813": {
+   "fragment_id": "854083036",
+   "type": 8,
+   "heading": "Secção II — Diretor de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Diretor de escola de condução"
+  },
+  "854124814": {
+   "fragment_id": "854083037",
+   "type": 11,
+   "heading": "Artigo 30.º — Curso de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Curso de formação\n\n1 - Os cursos de formação de diretor de escola de condução são ministrados por entidade formadora certificada.\n\n2 - O curso de formação de diretores de escola de condução tem a duração mínima de 125 horas e os conteúdos do curso de formação constam das UC e ou UFCD disponíveis no CNQ.\n\n3 - O requisito previsto na alínea c) do n.º 1 do artigo 53.º da Lei n.º 14/2014, de 18 de março, pode ser substituído pela frequência da UC e ou UFCD relativa à temática de métodos de ensino e pedagogia."
+  },
+  "854124815": {
+   "fragment_id": "854083038",
+   "type": 11,
+   "heading": "Artigo 31.º — Prova de exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Prova de exame\n\n1 - Os candidatos a diretor de escola de condução que concluam com aproveitamento o curso de formação devem requerer ao IMT, I. P., a admissão a exame no prazo de 30 dias úteis a contar do termo do curso de formação.\n\n2 - O exame é composto por prova teórica realizada por sistema multimédia, com recurso a teste de geração aleatória, com as seguintes características:\n\na) É composta por 100 questões de escolha múltipla que podem ter entre duas e quatro hipóteses de resposta;\n\nb) Cada questão admite apenas uma resposta certa;\n\nc) É realizada de forma ininterrupta e tem a duração de duas horas;\n\nd) É classificada na escala de 0 a 100 valores, tendo cada pergunta a cotação de 1 valor.\n\n3 - São aprovados os candidatos a diretor que obtenham a cotação mínima de 80 valores.\n\n4 - Em caso de reprovação, ao candidato a diretor aplicam-se, com as necessárias adaptações, as disposições constantes nos n.os 5 e 6 do artigo 13.º\n\n5 - O IMT, I. P., aprecia o pedido de revisão e comunica o resultado ao requerente e à entidade formadora, em prazo não superior a 20 dias úteis a contar da data da sua receção."
+  },
+  "854124816": {
+   "fragment_id": "854083039",
+   "type": 11,
+   "heading": "Artigo 32.º — Reconhecimento de qualificações profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Reconhecimento de qualificações profissionais\n\n1 - O pedido de reconhecimento de qualificações profissionais de diretores de escola de condução de outros Estados-membros da União Europeia ou do Espaço Económico Europeu que se pretendam estabelecer em território nacional, nos termos da Lei n.º 9/2009, de 4 de março, na sua redação atual, deve conter os elementos e ser instruído com os documentos referidos nos n.os 2 e 3 do artigo 30.º da presente portaria, com as necessárias adaptações, os quais devem ser acompanhados de tradução autenticada.\n\n2 - Os diretores de escola de condução a que se refere o presente artigo podem ser submetidos pelo IMT, I. P., às seguintes medidas de compensação:\n\na) Frequência de matérias formativas que se revelem em falta face aos conteúdos do curso de formação que constam das UC e ou UFCD disponíveis no CNQ; e/ou\n\nb) Submissão ao exame de acesso à profissão."
+  },
+  "854124817": {
+   "fragment_id": "854083040",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "854124818": {
+   "fragment_id": "854083041",
+   "type": 11,
+   "heading": "Artigo 33.º — Desmaterialização de atos e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Desmaterialização de atos e procedimentos\n\n1 - Enquanto não for disponibilizado, ou sempre que estiver inacessível, o balcão único eletrónico dos serviços, as entidades formadoras podem utilizar o endereço de correio eletrónico criado especificamente para efeito de contacto com o IMT, I. P.\n\n2 - Sempre que as entidades formadoras adotem meios desmaterializados para garantirem as suas obrigações legais relacionadas com a formação, cabe-lhes garantir o seu acesso permanente pelo IMT, I. P."
+  },
+  "854124819": {
+   "fragment_id": "854083042",
+   "type": 11,
+   "heading": "Artigo 34.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Disposições finais e transitórias\n\n1 - As entidades formadoras autorizadas à data da entrada em vigor da presente portaria devem adaptar-se ao regime aqui previsto no prazo de 60 dias da sua entrada em vigor.\n\n2 - A conceção das UC e ou UFCD e a sua integração no CNQ deve ser realizada no prazo de 180 dias a contar da data de entrada em vigor da presente portaria.\n\n3 - Enquanto as UC e ou UFCD mencionadas no número anterior não estiverem disponíveis no CNQ devem ser observados os conteúdos de formação constantes nos anexos i a iv da presente portaria."
+  },
+  "854124820": {
+   "fragment_id": "854083043",
+   "type": 11,
+   "heading": "Artigo 35.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor\n\nA presente portaria entra em vigor 30 dias após a data de publicação."
+  },
+  "854124822": {
+   "fragment_id": "854083045",
+   "type": 14,
+   "heading": "Anexo I — Conteúdos do curso de formação inicial de instrutor - 325 horas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Conteúdos do curso de formação inicial de instrutor - 325 horas\n\n1 - O curso de formação inicial de instrutores de condução é constituído pelas seguintes componentes de formação:\na) Formação inicial teórica - 200 horas:\n\n| Trânsito e segurança rodoviária |  |\n| --- | --- |\n|  |  |\n| 1 - Sistemas de transportes, mobilidade e ambiente.<br>2 - Os acidentes rodoviários: causas e consequências:<br>2.1 - Taxas de sinistralidade nacionais e internacionais;<br>2.2 - Consciencialização para o papel do instrutor e do condutor na redução da sinistralidade e na promoção da responsabilidade social em ambiente rodoviário.<br>3 - Primeiros socorros: procedimentos face ao acidente e atuação em relação aos sinistrados.<br>4 - Tomada de decisão do condutor: planeamento, segurança e escolhas relacionada com as deslocações. | 25 horas |\n\n| Legislação |  |\n| --- | --- |\n|  |  |\n| 1 - A profissão de instrutor de condução, requisitos de acesso, manutenção e cessação da profissão.<br>2 - Funcionamento e organização administrativa das escolas de condução.<br>3 - Conteúdos e estrutura do programa de formação de candidatos a condutores.<br>4 - Princípios gerais de trânsito - deveres dos utentes das vias públicas.<br>5 - Sinalização e regras de trânsito.<br>6 - Condução sob o efeito do álcool e substâncias estupefacientes ou psicotrópicas.<br>7 - Responsabilidade civil, criminal e contraordenacional. | 50 horas |\n\n| Veículo |  |\n| --- | --- |\n|  |  |\n| 1 - O veículo, seus constituintes e noções de funcionamento:<br>1.1 - Quadro e carroçaria;<br>1.2 - Habitáculo;<br>1.3 - O motor: motorização convencional (combustão), elétrica e híbrida;<br>1.4 - Sistemas dos veículos, sua composição e função;<br>1.5 - Sistemas e componentes de apoio à condução: DAS (Driver Assistance Systems) ADAS (Advanced Driver Assistance Systems).<br>2 - Equipamento de segurança ativa e passiva: sua utilização e finalidade.<br>3 - A ecocondução:<br>3.1 - Consumo de combustível nos diversos tipos de veículos e ambiente;<br>3.2 - Estratégias a adotar na redução do consumo.<br>4 - Manutenção do veículo, sistemas e subsistemas para a segurança rodoviária e proteção do ambiente.<br>5 - Inspeção de veículos.<br>6 - Os veículos autónomos e conectados, transporte inteligente: conceitos e finalidade. | 50 horas |\n\n| Psicologia na condução |  |\n| --- | --- |\n|  |  |\n| 1 - Processos percetivos e cognitivos na condução:<br>1.1 - Recolha, tratamento da informação e decisão do condutor;<br>1.2 - Tempo de reação, principais fatores que o influenciam.<br>2 - Distâncias de reação, travagem, paragem lateral e de segurança.<br>3 - Fatores internos que influenciam a condução:<br>3.1 - O estado físico e psicológico do condutor;<br>3.2 - Álcool, medicamentos e substâncias psicotrópicas;<br>3.3 - Aspetos individuais:<br>3.3.1 - Idade e género;<br>3.3.2 - Valores e atitudes;<br>3.3.3 - Personalidade;<br>3.3.4 - Incapacidades, necessidades especiais, adaptação do veículo e adaptação ao veículo;<br>3.4 - Aspetos sociais:<br>3.4.1 - Grupos de pertença;<br>3.4.2 - Fatores transculturais;<br>3.4.3 - Estilo de vida e situação económica.<br>4 - Comportamentos a adotar face ao tipo e condições dos elementos que compõem o sistema de circulação rodoviária.<br>5 - A condução defensiva.<br>6 - A perceção do risco. | 50 horas |\n\n| Métodos de ensino e pedagogia |  |\n| --- | --- |\n|  |  |\n| 1 - Conceito e características da aprendizagem.<br>2 - Os objetivos da formação de condutores:<br>2.1 - Níveis: conhecimentos e competências.<br>3 - Métodos de ensino e técnicas pedagógicas no ensino teórico e prático.<br>4 - Meios pedagógicos: audiovisuais, maquetas e simuladores.<br>5 - Organização da formação:<br>5.1 - Definição de objetivos;<br>5.2 - Plano de formação e fatores a ter em consideração na sua elaboração;<br>5.3 - Planificação das lições de teoria e de prática;<br>5.4 - Autoavaliação e avaliação das competências dos candidatos a condutor e do processo formativo.<br>6 - A comunicação. Verbal e não verbal:<br>6.1 - Definição do conceito, processo e principais barreiras;<br>6.2 - Técnicas de comunicação assertiva.<br>7 - O feedback e a sua importância no contexto do processo de ensino-aprendizagem. | 25 horas |\n\nb) Formação inicial prática - 125 horas:\n\n| Prática de condução e observação da atividade da secretaria de uma escola de condução |  |\n| --- | --- |\n|  |  |\n| 1 - Condução efetiva:<br>1.1 - Posição de condução;<br>1.2 - Utilização e treino dos duplos comandos;<br>1.3 - Aplicação das regras e da sinalização de trânsito;<br>1.4 - Treino de manobras;<br>1.5 - Capacidades de condução e interação no trânsito;<br>1.6 - Velocidade; ajuste e capacidade de controlo do veículo em situações de risco;<br>1.7 - Capacidades de observação e exploração do meio ambiente; olhar para os espelhos retrovisores;<br>1.8 - Capacidades para comentar a condução;<br>1.9 - Capacidade de reação e decisão ajustada à segurança;<br>1.10 - Desenvolvimento de um estilo de condução defensivo e ecológico, tendo em consideração os outros e o meio ambiente;<br>1.11 - Capacidade para intervir com segurança quando um candidato a condutor se encontra ao volante.<br>2 - Acompanhar a atividade administrativa de uma escola de condução:<br>2.1 - Receção de candidatos a condutor, prestação de informações sobre inscrição, celebração de contratos, agendamento de lições e marcação de exames;<br>2.2 - Conhecimento de requisitos e procedimentos, incluindo os relativos aos exames de condução, teóricos e práticos.<br>3 - Funcionamento do sistema(s) informático(s) de registo da formação teórica e prática dos candidatos a condutor. | 25 horas |\n\n| Período de aprendizagem teórica e prática do ensino da condução |  |\n| --- | --- |\n|  |  |\n| 1 - Acompanhar a atividade dos instrutores de condução no ensino:<br>1.1 - Assistir no mínimo, a 25 horas de formação teórica; | 100 horas |\n| 1.2 - Ministrar, no mínimo, 25 horas de formação teórica a candidatos a condutores supervisionada por instrutor/diretor de escola de condução;<br>1.3 - Observar, no mínimo, 25 horas de formação prática a candidatos a condutores supervisionada por instrutor/diretor de escola de condução;<br>1.4 - Ministrar, no mínimo, 25 horas de formação prática a candidatos a condutores, supervisionada por instrutor/diretor de condução. |  |"
+  },
+  "854124823": {
+   "fragment_id": "854083046",
+   "type": 14,
+   "heading": "Anexo II — Conteúdos do curso de formação específica de instrutor de condução para averbamento das categorias A, C, CE, D e DE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Conteúdos do curso de formação específica de instrutor de condução para averbamento das categorias A, C, CE, D e DE\n\n1 - O curso de formação específica de instrutor de condução para averbamento das categorias A, C, CE, D e DE é constituído pelas seguintes componentes de formação:\nCurso de formação específica de instrutor de condução para averbamento da categoria A - 50 horas\n\n| Formação teórica |  |\n| --- | --- |\n|  |  |\n| 1 - Equipamentos de proteção:<br>1.1 - Capacete, luvas, calçado e vestuário;<br>1.2 - Finalidade e utilização.<br>2 - Visibilidade relativamente aos outros utentes da via:<br>2.1 - Adaptação da condução às características específicas do veículo;<br>2.2 - Instabilidade e fragilidade do veículo;<br>2.3 - Posicionamento na via: ver e ser visto;<br>2.4 - Iluminação.<br>3 - As vias - o perfil, o estado de conservação e as características do pavimento:<br>3.1 - Adaptação da condução às condições da via;<br>3.2 - Fatores de risco associados aos diferentes estados do piso;<br>3.3 - Pontos de instabilidade: tampas de esgoto, marcas rodoviárias e carris de elétrico.<br>4 - Constituintes do veículo:<br>4.1 - Quadro, forquilha e coluna de direção;<br>4.2 - Painel de instrumentos, órgãos de comando, regulação e sinalização;<br>4.3 - Motor e sistemas. | 25 horas |\n| Formação prática |  |\n| 1 - Acompanhar a atividade dos instrutores de condução no ensino teórico:<br>1.1 - Assistir, no mínimo, a cinco horas de formação de teoria;<br>1.2 - Ministrar, no mínimo, cinco horas de formação teórica a candidatos a condutor, supervisionada por instrutor/diretor de escola de condução.<br>2 - Acompanhar a atividade dos instrutores de condução no ensino prático:<br>2.1 - Assistir, no mínimo, a cinco horas de formação prática;<br>2.2 - Ministrar, no mínimo, dez horas de formação prática a candidatos a condutor, supervisionada por instrutor/diretor de escola de condução. | 25 horas |\n\nCurso de formação específica de instrutor de condução para averbamento da categoria C - 50 horas\n\n| Formação teórica |  |\n| --- | --- |\n|  |  |\n| 1 - Fatores de segurança relativos à carga de veículos:<br>1.1 - Controlo da carga: distribuição e fixação;<br>1.2 - Operações de carga e descarga de mercadorias;<br>1.3 - Utilização de equipamento de carga e descarga.<br>2 - Diferentes tipos de carga:<br>2.1 - Cargas líquidas - enchimento e distribuição;<br>2.2 - Cargas sólidas - acondicionamento e distribuição;<br>2.3 - Cargas a granel - enchimento e distribuição; | 25 horas |\n| 2.4 - Comportamento dos veículos em circulação e em travagem;<br>2.5 - Cargas pendentes;<br>2.6 - Cargas cujo peso ou contorno envolvente exteriores ultrapassam os limites regulamentares.<br>3 - Sinalização exterior especial: regime condicionado de circulação.<br>4 - Responsabilidade do condutor:<br>4.1 - Relativamente à receção, ao transporte e à entrega de mercadorias, segundo as condições acordadas;<br>4.2 - Cuidados de segurança a adotar antes de iniciar a viagem;<br>4.3 - Utilização de equipamentos de registo nos termos do Regulamento (UE) n.º 165/2014, do Parlamento Europeu e Conselho, de 4 de fevereiro de 2014. |  |\n| Formação prática - treino de condução |  |\n| 1 - Acompanhar a atividade dos instrutores de condução no ensino teórico:<br>1.1 - Assistir, no mínimo, a cinco horas de formação de teoria;<br>1.2 - Ministrar, no mínimo, cinco horas de formação teórica a candidatos a condutor, supervisionada por instrutor/diretor de escola de condução.<br>2 - Acompanhar a atividade dos instrutores de condução no ensino prático:<br>2.1 - Assistir, no mínimo, a cinco horas de formação prática;<br>2.2 - Ministrar, no mínimo, dez horas de formação prática a candidatos a condutor, supervisionada por instrutor/diretor de escola de condução. | 25 horas |\n\nCurso de formação específica de instrutor de condução para averbamento da categoria D - 50 horas\n\n| Formação teórica |  |\n| --- | --- |\n|  |  |\n| 1 - Automóveis pesados de passageiros:<br>1.1 - Características;<br>1.2 - Veículos com dimensões especiais;<br>1.3 - Veículos articulados:<br>1.3.1 - Tipos e funcionamento - principais componentes;<br>1.3.2 - Utilização e manutenção diária destes veículos.<br>2 - Responsabilidade do condutor:<br>2.1 - Transporte de passageiros; conforto e segurança dos passageiros;<br>2.2 - Transporte de crianças;<br>2.3 - Cuidados de segurança a adotar antes de iniciar a viagem;<br>2.4 - Utilização de equipamentos de registo nos termos do Regulamento (UE) n.º 165/2014, do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014.<br>2.5 - Transporte rodoviário de passageiros:<br>2.5.1 - Nacional;<br>2.5.2 - Internacional. | 25 horas |\n| Formação prática - treino de condução |  |\n| 1 - Acompanhar a atividade dos instrutores de condução no ensino teórico:<br>1.1 - Assistir, no mínimo, a cinco horas de formação de teoria;<br>1.2 - Ministrar, no mínimo, cinco horas de formação teórica a candidatos a condutor, supervisionada por instrutor/diretor de escola de condução.<br>2 - Acompanhar a atividade dos instrutores de condução no ensino prático:<br>2.1 - Assistir, no mínimo, a cinco horas de formação prática;<br>2.2 - Ministrar, no mínimo, dez horas de formação prática a candidatos a condutor, supervisionada por instrutor/diretor de escola de condução. | 25 horas |\n\nCurso de formação específica de instrutor de condução para averbamento das categorias CE e DE - 25 horas\n\n| Formação teórica |  |\n| --- | --- |\n|  |  |\n| 1 - Conjuntos de veículos:<br>1.1 - Veículo trator - tipos e características;<br>1.2 - Reboque/semirreboque - tipos e características;<br>1.3 - Sistemas de acoplamento:<br>1.3.1 - Tipos e funcionamento - principais componentes;<br>1.3.2 - Utilização e manutenção destes sistemas;<br>1.4 - Condicionantes à condução face ao peso e dimensões:<br>1.4.1 - Na via;<br>1.4.2 - Na realização de manobras;<br>1.4.3 - Veículos com dimensões especiais. | 10 horas |\n| Formação prática - treino de condução |  |\n| 1 - Acompanhar a atividade dos instrutores de condução no ensino prático:<br>1.1 - Assistir, no mínimo, a cinco horas de formação prática.<br>1.2 - Ministrar, no mínimo, dez horas de formação prática a candidatos a condutor, supervisionada por instrutor/diretor de escola de condução. | 15 horas |"
+  },
+  "854124824": {
+   "fragment_id": "854083047",
+   "type": 14,
+   "heading": "Anexo III — Conteúdos do curso de formação de atualização de instrutores de escolas de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Conteúdos do curso de formação de atualização de instrutores de escolas de condução\n\n| Curso de formação de atualização de instrutores - 25 horas |\n| --- |\n|  |\n| 1 - O regime jurídico do ensino de condução (RJEC) - atualização.<br>2 - Regulamento de Habilitação Legal para Conduzir (RHLC) - atualização.<br>3 - Regras de trânsito e de sinalização - atualização.<br>4 - Meios pedagógicos e técnicas de condução - revisitação e atualização.<br>5 - Novas tecnologias automóveis - atualização. |"
+  },
+  "854124825": {
+   "fragment_id": "854083048",
+   "type": 14,
+   "heading": "Anexo IV — Curso de formação de diretores de escolas de condução - 125 horas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Curso de formação de diretores de escolas de condução - 125 horas\n\n| Legislação |  |\n| --- | --- |\n|  |  |\n| 1 - A função do diretor de escola de condução.<br>2 - Requisitos de acesso à atividade.<br>3 - Exercício e cessação da atividade.<br>4 - Atribuições e deveres.<br>5 - Responsabilidade social.<br>6 - Perfil do diretor de escola de condução.<br>7 - Organização e gestão da atividade administrativa da escola de condução.<br>8 - Análise e resposta a reclamações.<br>9 - O Regulamento de Habilitação Legal para Conduzir. | 25 horas |\n| Comunicação |  |\n| 1 - A comunicação - conceito e processo de comunicação.<br>2 - Tipos de comunicação, verbal, não verbal e sua importância.<br>3 - Principais barreiras à comunicação.<br>4 - As atitudes comunicacionais e os seus efeitos.<br>5 - Atitudes a adotar enquanto emissor e enquanto recetor.<br>6 - A importância da perceção do outro na descodificação da mensagem.<br>7 - A relevância de uma atitude assertiva no relacionamento com os outros.<br>8 - O papel da comunicação na relação pedagógica e no processo de ensino-aprendizagem.<br>9 - Exercícios práticos de comunicação incluindo role playing da atividade do diretor. | 25 horas |\n| Motivação |  |\n| 1 - Motivação - definição do conceito.<br>2 - Tipos de motivação; intrínseca, extrínseca e automotivação.<br>3 - Identificação de situações que promovem a motivação vs. desmotivação.<br>4 - Técnicas de motivação.<br>5 - Promoção do desenvolvimento de práticas motivacionais individuais e de equipas.<br>6 - A importância da motivação na mudança e melhoria do desempenho | 25 horas |\n\n| Liderança |  |\n| --- | --- |\n| 1 - Do grupo à equipa e da gestão à liderança.<br>2 - Diagnósticos: recursos disponíveis, pontos fortes e fracos.<br>3 - Equipa vs. grupos.<br>3.1 - Formação e gestão de equipas.<br>4 - A liderança e os seus efeitos na eficácia das equipas:<br>4.1 - Tipos de liderança;<br>4.2 - Adequar o estilo de liderança às pessoas e às situações.<br>5 - Gestão de conflitos e resolução de problemas:<br>5.1 - Tipos e causas de conflitos;<br>5.2 - Técnicas de gestão de conflitos;<br>5.3 - Negociação e consenso.<br>6 - O papel do diretor na dinamização de equipas e nos processos de mudança atitudinal e comportamental.<br>7 - Estudo de casos. | 25 horas |\n| Psicologia educacional e pedagogia |  |\n| 1 - Conceito, características e processos da aprendizagem.<br>2 - Fatores que influenciam a aprendizagem.<br>3 - Análise dos fatores internos e externos que afetam o comportamento do condutor e os mecanismos pedagógicos mais eficazes na sua prevenção.<br>4 - A importância da perceção do risco no processo de ensino/aprendizagem.<br>5 - Objetivos formativos - definição de objetivos gerais e específicos.<br>6 - Métodos e técnicas pedagógicas no ensino da condução: definição, seleção adequada aos objetivos da formação e dos tipos de aprendizagem; vantagens e desvantagens.<br>7 - Meios ou recursos pedagógicos; vantagens e desvantagens.<br>8 - Planificação da formação - elaboração do plano de formação, definição das etapas a atingir e elaboração dos respetivos mapas e planos de sessão.<br>9 - Acompanhamento e avaliação da formação dos candidatos a condutor.<br>10 - Coordenação da atividade pedagógica da escola de condução. | 25 horas |\n\n117201535"
+  }
+ }
+}

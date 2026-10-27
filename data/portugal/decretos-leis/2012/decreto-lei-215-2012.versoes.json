@@ -1,0 +1,871 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:175545:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-204672285",
+ "dre_path": "/dr/detalhe/decreto-lei/215-2012-175545",
+ "source_lastmod": "2026-09-21",
+ "versions": [
+  {
+   "date": "2012-09-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "204369843",
+    "204369844",
+    "204369845",
+    "204369846",
+    "204369847",
+    "204369848",
+    "204369849",
+    "204369850",
+    "204369851",
+    "204369852",
+    "204369853",
+    "204369854",
+    "204369855",
+    "204369856",
+    "204369857",
+    "204369858",
+    "204369859",
+    "204369860",
+    "204369861",
+    "204369862",
+    "204369863",
+    "204369864",
+    "204369865",
+    "204369866",
+    "204369867",
+    "204369868",
+    "204369869",
+    "204369870",
+    "204369871",
+    "204369872",
+    "204369873",
+    "204369874",
+    "204707975",
+    "204707976",
+    "204707977",
+    "204707978",
+    "204707979",
+    "204707980",
+    "204707981",
+    "204707982",
+    "204707984",
+    "204707985",
+    "204707986"
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:910323298:por",
+     "title": "Decreto-Lei n.º 13-A/2025",
+     "published": "2025-03-10",
+     "dre_path": "/dr/detalhe/decreto-lei/13-a-2025-910323298"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "204369843",
+    "204369844",
+    "204369845",
+    "204369846",
+    "212115028",
+    "204369848",
+    "204369849",
+    "204369850",
+    "204369851",
+    "204369852",
+    "204369853",
+    "204369854",
+    "204369855",
+    "204369856",
+    "204369857",
+    "204369858",
+    "204369859",
+    "204369860",
+    "204369861",
+    "204369862",
+    "204369863",
+    "204369864",
+    "204369865",
+    "204369866",
+    "204369867",
+    "204369868",
+    "204369869",
+    "204369870",
+    "204369871",
+    "911628118",
+    "204369873",
+    "204369874",
+    "204707975",
+    "204707976",
+    "204707977",
+    "204707978",
+    "204707979",
+    "204707980",
+    "204707981",
+    "204707982",
+    "204707983",
+    "204707984",
+    "204707985",
+    "204707986"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:1171382774:por",
+     "title": "Decreto-Lei n.º 187/2026",
+     "published": "2026-09-16",
+     "dre_path": "/dr/detalhe/decreto-lei/187-2026-1171382774",
+     "date": "2025-07-01"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1171382774:por",
+     "title": "Decreto-Lei n.º 187/2026",
+     "published": "2026-09-16",
+     "dre_path": "/dr/detalhe/decreto-lei/187-2026-1171382774"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Adita Artigo 15.º-A",
+    "Adita Artigo 21.º-A",
+    "Adita Artigo 26.º-B",
+    "Altera Artigo 19"
+   ],
+   "fragments": [
+    "204369843",
+    "204369844",
+    "204369845",
+    "204369846",
+    "212115028",
+    "204369848",
+    "204369849",
+    "204369850",
+    "204369851",
+    "204369852",
+    "204369853",
+    "204369854",
+    "204369855",
+    "204369856",
+    "204369857",
+    "1171938575",
+    "1171938775",
+    "1171941775",
+    "1171941975",
+    "1171942075",
+    "1171942175",
+    "1171942275",
+    "1171942375",
+    "1171942475",
+    "1171944875",
+    "1171947375",
+    "1171947575",
+    "1171947675",
+    "1171947775",
+    "1171947875",
+    "1171947975",
+    "1171949875",
+    "1171951875",
+    "1171952075",
+    "1171952175",
+    "1171952275",
+    "1171952375",
+    "1171952475",
+    "1171952575",
+    "1171952675",
+    "1171952775",
+    "1171952875",
+    "1171952975",
+    "1171953075",
+    "1171953175",
+    "1171953275",
+    "1171953375",
+    "1171953475",
+    "1171953575",
+    "1171953675"
+   ]
+  }
+ ],
+ "fragments": {
+  "204369843": {
+   "fragment_id": "204672286",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 215/2012\n\nde 28 de setembro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nCom a integração num mesmo serviço da execução das políticas de prevenção criminal e de reinserção social, pela execução tanto das penas e medidas privativas da liberdade como das alternativas à prisão, concretiza-se igualmente um modelo de intervenção que potencia o conhecimento e experiência acumulada pelos serviços de reinserção social e prisionais, permitindo uma atuação integrada e coerente em áreas conexas, complementares ou que se intercetam, mais consentânea com os princípios da equidade e da proporcionalidade, focalizada tanto nos riscos e necessidades do agente, como na proteção da vítima e da comunidade.\n\nA criação da Direção-Geral de Reinserção e Serviços Prisionais permite uma intervenção centrada no indivíduo desde a fase pré-sentencial até à libertação, preparando, em colaboração com os serviços do setor público e privado, de oportunidades de mudança e de reinserção social, diminuindo as consequências negativas da privação da liberdade e reduzindo os riscos de reincidência criminal.\n\nNo domínio orçamental, a criação da Direção-Geral de Reinserção e Serviços Prisionais permite uma redução de custos mediante a simplificação da estrutura a nível central e a racionalização da estrutura dos serviços desconcentrados, o reforço de equipas técnicas especializadas e complementares, a par do reforço do investimento em sistemas tecnológicos facilitadores da ambicionada modernização administrativa, propiciadora de economias de escala significativas.\n\nNa sequência da aprovação da Lei Orgânica do Ministério da Justiça, pelo Decreto-Lei n.º 123/2011, de 29 de dezembro, o presente decreto-lei aprova a estrutura orgânica da Direção-Geral de Reinserção e Serviços Prisionais.\n\nPor fim, mantêm-se, sem acréscimo de despesa, os suplementos remuneratórios existentes atribuídos aos trabalhadores das atuais Direções-Gerais de Reinserção Social e dos Serviços Prisionais, em razão do especial desgaste físico e psicológico, risco e disponibilidade permanente, pois que se mantêm os fundamentos que estiveram na sua génese, exponenciados, na atualidade, pelo aumento da população prisional, associada muitas vezes à criminalidade grave, violenta e organizada, ao contacto permanente efetuado com indivíduos de perigosidade acrescida, em locais onde se executam penas e medidas na comunidade, e em espaços onde se realiza a medida educativa de internamento de jovens.\n\nDe igual modo, se mantém a situação profissional dos diretores de estabelecimento prisional até à prevista classificação dos estabelecimentos prisionais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "204369844": {
+   "fragment_id": "204672287",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direção-Geral de Reinserção e Serviços Prisionais, abreviadamente designada por DGRSP, é um serviço central da administração direta do Estado, dotado de autonomia administrativa."
+  },
+  "204369845": {
+   "fragment_id": "204672288",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\nA DGRSP tem por missão o desenvolvimento das políticas de prevenção criminal, de execução das penas e medidas e de reinserção social e a gestão articulada e complementar dos sistemas tutelar educativo e prisional, assegurando condições compatíveis com a dignidade humana e contribuindo para a defesa da ordem e da paz social."
+  },
+  "204369846": {
+   "fragment_id": "204672289",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nA DGRSP prossegue as seguintes atribuições:\n\na) Apoiar o membro do Governo responsável pela área da justiça na definição e execução da política criminal, especialmente nas áreas da prevenção da criminalidade, da reinserção social e da execução das penas e medidas privativas de liberdade, assegurando a avaliação permanente das condições de funcionamento dos sistemas tutelar educativo e prisional;\n\nb) Assegurar o apoio técnico aos tribunais na tomada de decisão no âmbito dos processos tutelar educativo e penal;\n\nc) Assegurar a execução de decisões judiciais que imponham medidas tutelares educativas e penas e medidas alternativas à pena de prisão, bem como a execução de penas e medidas com recurso a meios de vigilância eletrónica, prestando a adequada assessoria técnica aos tribunais;\n\nd) Assegurar a execução de decisões judiciais que imponham penas e medidas que devam ser cumpridas no âmbito do sistema prisional e prestar a adequada assessoria técnica aos tribunais;\n\ne) Promover e assegurar a avaliação permanente das condições de funcionamento do sistema tutelar educativo, de reinserção e prisional;\n\nf) Assegurar a gestão do sistema de vigilância eletrónica;\n\ng) Promover a dignificação e humanização das condições de vida nos centros educativos e estabelecimentos prisionais, visando a reinserção social, designadamente através da prestação de cuidados de saúde, do ensino, da formação profissional, do trabalho, de iniciativas de caráter cultural e desportivo, da interação com a comunidade e outras que permitam o desenvolvimento da personalidade;\n\nh) Prestar apoio técnico aos tribunais de execução de penas no âmbito das suas competências;\n\ni) Assegurar a gestão das populações dos centros educativos e dos estabelecimentos prisionais, mantendo em funcionamento sistemas de informação que suportem o planeamento individualizado da execução das medidas tutelares educativas e das penas criminais, garantindo os respetivos sistemas de segurança, a articulação no âmbito do sistema de segurança nacional interna e a articulação no âmbito dos processos tutelares educativos e penal;\n\nj) Contribuir para a elaboração de instrumentos de cooperação judiciária internacional e assegurar o cumprimento de procedimentos resultantes de convenções em que a DGRSP seja autoridade central;\n\nk) Promover, desenvolver e coordenar programas de tratamento adequados ao perfil criminológico e psicológico e às necessidades de reinserção social e elaborar, executar e avaliar os planos individuais de readaptação social;\n\nl) Superintender na organização e funcionamento dos serviços e assegurar a gestão e segurança dos estabelecimentos prisionais e centros educativos;\n\nm) Coordenar e desenvolver, num quadro de sustentabilidade económica e financeira e em articulação com outras entidades públicas ou privadas, as atividades económicas dos centros educativos e dos estabelecimentos prisionais, com o objetivo de alcançar, nomeadamente, a formação profissional, a empregabilidade e a reintegração profissional, quer durante o cumprimento da pena ou medida, quer na vida livre;\n\nn) Promover a gestão integrada das atividades económicas dos estabelecimentos prisionais e dos centros educativos, designadamente através da criação de zonas económicas que enquadrem a exploração e o desenvolvimento das potencialidades económicas de um ou mais estabelecimentos prisionais e centros educativos, criando a otimização da gestão do sistema;\n\no) Conceber, executar ou participar em programas e ações de prevenção da criminalidade e contribuir para um maior envolvimento da comunidade na administração da justiça tutelar educativa e penal, através da cooperação com outras instituições públicas ou particulares e com cidadãos que prossigam objetivos de prevenção criminal e de reinserção social;\n\np) Promover a formação técnica especializada dos recursos humanos e colaborar nas ações que lhes sejam dirigidas;\n\nq) Assegurar a gestão e segurança dos centros educativos, dos estabelecimentos prisionais e dos demais equipamentos do sistema de reinserção social e prisional, bem como assegurar, em articulação com o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), as ações de manutenção necessárias ao seu bom funcionamento;\n\nr) Elaborar os planos de segurança geral dos centros educativos e do sistema prisional, bem como os planos específicos das instalações prisionais, assegurando a respetiva execução;\n\ns) Manter em funcionamento um sistema de informações de segurança prisional e assegurar a respetiva articulação com o sistema nacional de segurança interna;\n\nt) Assegurar o fornecimento e a manutenção dos equipamentos da DGRSP, em articulação com o IGFEJ, I. P.;\n\nu) Efetuar auditorias, sindicâncias, inquéritos e inspeções em vista, nomeadamente, à manutenção da ordem, disciplina e organização das unidades orgânicas centrais e desconcentradas;\n\nv) Gerir de forma centralizada os recursos humanos, materiais e financeiros dos serviços;\n\nw) Programar as necessidades das instalações dos centros educativos e dos estabelecimentos prisionais, incluindo as casas de função, e colaborar com o IGFEJ, I. P., no planeamento e execução de obras de construção, remodelação ou conservação;\n\nx) Colaborar com a Direção-Geral da Política de Justiça na recolha, tratamento e divulgação dos dados estatísticos relativos à reinserção social, ao sistema tutelar educativo e ao sistema prisional, disponibilizando a informação necessária à elaboração das estatísticas oficiais na área da justiça;\n\ny) Conceder, pontualmente, apoio socioeconómico aos destinatários da atividade exercida pela DGRSP, na medida dos meios disponíveis, supletivamente ao prestado por outras entidades públicas responsáveis e pressupondo a participação responsável do indivíduo;\n\nz) Desenvolver a atividade de liquidação, cobrança e registo das receitas próprias."
+  },
+  "204369847": {
+   "fragment_id": "204672290",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n1 - A DGRSP é dirigida por um diretor-geral, coadjuvado por quatro subdiretores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n2 - É, ainda, órgão da DGRSP o Conselho de Coordenação Técnica."
+  },
+  "204369848": {
+   "fragment_id": "204672291",
+   "type": 11,
+   "heading": "Artigo 5.º — Provimento do diretor-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Provimento do diretor-geral\n\n1 - O recrutamento para o cargo de diretor-geral é feito, por escolha, de entre indivíduos licenciados de reconhecida idoneidade e experiência profissional, com licenciatura concluída há, pelo menos, 12 anos à data do provimento, vinculados ou não à Administração Pública.\n\n2 - O provimento do cargo é feito mediante despacho do Primeiro-Ministro e do membro do Governo responsável pela área da justiça.\n\n3 - O cargo é provido em comissão de serviço por um período de três anos, renovável por iguais períodos.\n\n4 - A renovação da comissão de serviço é comunicada ao interessado até 30 dias antes do seu termo, cessando a mesma automaticamente no final do respetivo período se o membro do Governo responsável pela área da justiça não tiver manifestado expressamente a intenção de a renovar, caso em que o dirigente se mantém no exercício de funções de gestão corrente até à nomeação do novo titular do cargo.\n\n5 - Para efeitos de eventual renovação da comissão de serviço, o titular do cargo de direção superior dá conhecimento do termo de cada comissão ao membro do Governo responsável pela área da justiça, com a antecedência mínima de 90 dias, cessando esta automaticamente no fim do respetivo período sempre que não seja dado cumprimento àquela formalidade.\n\n6 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do Primeiro-Ministro e do membro do Governo responsável pela área da justiça, por iniciativa deste ou a requerimento do interessado."
+  },
+  "204369849": {
+   "fragment_id": "204672292",
+   "type": 11,
+   "heading": "Artigo 6.º — Provimento de subdiretor-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Provimento de subdiretor-geral\n\n1 - O recrutamento para o cargo de subdiretor-geral é feito, por escolha, de entre indivíduos licenciados de reconhecida idoneidade e experiência profissional, com licenciatura concluída há, pelo menos, oito anos, à data do provimento, vinculados ou não à Administração Pública.\n\n2 - O provimento é feito mediante despacho do membro do Governo responsável pela área da justiça, sendo aplicável o disposto nos n.os 3 a 5 do artigo anterior.\n\n3 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do membro do Governo responsável pela área da justiça, por iniciativa deste, por proposta do diretor-geral ou a requerimento do interessado."
+  },
+  "204369850": {
+   "fragment_id": "204672293",
+   "type": 11,
+   "heading": "Artigo 7.º — Diretor-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Diretor-geral\n\n1 - Sem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor-geral:\n\na) Convocar e presidir ao Conselho de Coordenação Técnica;\n\nb) Propor ao membro do Governo responsável pela área da justiça a criação, encerramento ou extinção de centros educativos, estabelecimentos prisionais e agrupamentos de estabelecimentos prisionais;\n\nc) Dirigir o Serviço de Auditoria e Inspeção (SAI);\n\nd) Determinar a realização de inspeções, auditorias e sindicâncias aos serviços da DGRSP;\n\ne) Exercer a gestão e orientação técnica do pessoal do Corpo da Guarda Prisional;\n\nf) Aprovar a lotação dos centros educativos e dos estabelecimentos prisionais, nos termos da lei;\n\ng) Aprovar o modelo de segurança a adotar nos centros educativos e nos estabelecimentos prisionais;\n\nh) Aprovar os modelos de material de defesa, segurança e vigilância a utilizar nos centros educativos e nos estabelecimentos prisionais;\n\ni) Aprovar projetos de parceria com organizações nacionais ou estrangeiras com interesse para a DGRSP, precedendo autorização do membro do Governo responsável pela área da justiça;\n\nj) Propor a celebração de protocolos com entidades externas, com interesse para a prossecução das atribuições da DGRSP e submetê-los à autorização do membro do Governo responsável pela área da justiça;\n\nk) Aprovar a realização de estágios na DGRSP promovidos por entidades externas, com relevância para as atribuições da direção-geral;\n\nl) Conceder apoio social e económico aos reclusos e aos jovens e adultos em acompanhamento pela DGRSP durante a execução de penas e medidas na comunidade;\n\nm) Conceder apoio financeiro a projetos de investigação e a ações de formação, bem como bolsas de estudo no âmbito da intervenção da DGRSP;\n\nn) Determinar a realização de ações de informação dirigidas aos trabalhadores e à comunidade, bem como a realização de conferências, colóquios e outras iniciativas similares, com a participação de especialistas portugueses ou estrangeiros, e o intercâmbio com serviços ou associações nacionais e estrangeiras congéneres, informando previamente a tutela;\n\no) Propor ao membro do Governo responsável pela área da justiça a aprovação do Regulamento de Transferências do Pessoal do Corpo da Guarda Prisional;\n\np) Propor ao membro do Governo responsável pela área da justiça a aprovação do Regulamento do Grupo de Intervenção e Segurança Prisional (GISP);\n\nq) Propor ao membro do Governo responsável pela área da justiça a aprovação do Regulamento do Grupo Operacional Cinotécnico;\n\nr) Propor ao membro do Governo responsável pela área da justiça a aprovação do Regulamento de Uniformes do Corpo da Guarda Prisional;\n\ns) Propor ao membro do Governo responsável pela área da justiça a aprovação do Regulamento de Utilização dos Meios Coercivos nos estabelecimentos prisionais;\n\nt) Emitir orientações técnicas sobre a atividade operativa, instruções de caráter genérico sobre o funcionamento dos serviços e aprovar os regulamentos internos previstos na lei.\n\n2 - Ao diretor-geral são, ainda, atribuídas as competências previstas para os titulares de cargos de direção superior nos termos da Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64/2011, de 22 de dezembro.\n\n3 - Os subdiretores-gerais exercem as competências que lhe sejam delegadas ou subdelegadas pelo diretor-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.\n\n4 - O diretor-geral é apoiado por um trabalhador que exerça funções de secretariado, aos quais são aplicáveis as disposições contidas nos n.os 3 a 6 do artigo 33.º da Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64/2011, de 22 de dezembro."
+  },
+  "204369851": {
+   "fragment_id": "204672294",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho de Coordenação Técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho de Coordenação Técnica\n\n1 - O Conselho de Coordenação Técnica (CCT) é o órgão consultivo destinado a apoiar tecnicamente a DGRSP.\n\n2 - O CCT é presidido pelo diretor-geral e constituído pelos seguintes membros efetivos:\n\na) Os subdiretores-gerais da DGRSP;\n\nb) Um coordenador do SAI;\n\nc) O dirigente responsável pela área de planeamento;\n\nd) Dois diretores de estabelecimentos prisionais;\n\ne) Dois diretores de centros educativos;\n\nf) Um dirigente responsável pela área técnico-operativa de reinserção social;\n\ng) Um chefe do Corpo da Guarda Prisional.\n\n3 - O CCT é ainda integrado por duas personalidades de reconhecido mérito no conhecimento das temáticas da área de intervenção da DGRSP, a designar por despacho do membro do Governo responsável pela área da justiça, sob proposta, não vinculativa, do diretor-geral.\n\n4 - Os membros referidos nas alíneas b) e d) a g) do n.º 2 são anualmente designados mediante despacho do membro do Governo responsável pela área da justiça, sob proposta, não vinculativa, do diretor-geral.\n\n5 - Sempre que se revele necessário, o diretor-geral pode convocar qualquer dirigente ou trabalhador da DGRSP a participar nas reuniões do CCT.\n\n6 - Compete ao CCT:\n\na) Assessorar o diretor-geral na definição de planos e programas da atividade operativa;\n\nb) Pronunciar-se sobre o plano e relatório anual de atividades da DGRSP;\n\nc) Apreciar propostas de reforma legislativa e de quaisquer iniciativas de interesse para a prossecução das atribuições da DGRSP;\n\nd) Emitir pareceres de natureza técnica sobre a atividade operativa desenvolvida e propor medidas de aperfeiçoamento e desenvolvimento na prossecução das atribuições da DGRSP;\n\ne) Pronunciar-se sobre os assuntos que lhe forem submetidos pelo membro do Governo responsável pela área da justiça ou pelo diretor-geral.\n\n7 - Compete ao diretor-geral designar o trabalhador que secretaria as reuniões do CCT.\n\n8 - O CCT reúne ordinariamente com periodicidade semestral e extraordinariamente sempre que o presidente o convocar, por sua iniciativa ou a requerimento de dois terços dos seus membros efetivos."
+  },
+  "204369852": {
+   "fragment_id": "204672295",
+   "type": 11,
+   "heading": "Artigo 9.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Tipo de organização interna\n\n1 - A organização interna dos serviços obedece ao seguinte modelo estrutural misto:\n\na) Nas áreas de atividade de gestão e administração, bem como de execução de penas e medidas na área penal e tutelar educativa, de estudos, organização e planeamento, formação e de segurança, o modelo de estrutura hierarquizada;\n\nb) Nas áreas do tratamento prisional, nomeadamente coordenação técnica da avaliação do recluso e programação do tratamento prisional, promoção e gestão de atividades e programas de reinserção social, nas áreas de ensino e formação profissional, trabalho e atividades ocupacionais, programas específicos de reabilitação, atividades socioculturais e desportivas, prestação de cuidados de saúde, e ainda promoção, dinamização e modernização das atividades económicas dos estabelecimentos prisionais, o modelo de estrutura matricial.\n\n2 - A DGRSP dispõe de serviços centrais e de unidades orgânicas desconcentradas, constituídas por centros educativos, estabelecimentos prisionais e delegações regionais de reinserção.\n\n3 - Os centros educativos e as delegações regionais de reinserção integram equipas de reinserção social, que atuam no âmbito da assessoria técnica aos tribunais na tomada de decisão no âmbito do processo penal e tutelar educativo e da execução de penas e medidas."
+  },
+  "204369853": {
+   "fragment_id": "204672296",
+   "type": 11,
+   "heading": "Artigo 10.º — Mapa de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mapa de cargos de direção\n\nOs lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do anexo i ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "204369854": {
+   "fragment_id": "204672297",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências dos dirigentes intermédios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências dos dirigentes intermédios\n\n1 - As competências dos dirigentes intermédios de 1.º grau e de 2.º grau quando não estejam na dependência daqueles são as previstas nas alíneas a) a j) do anexo ii ao presente decreto-lei, do qual faz parte integrante, e nas alíneas k) a p) do mesmo anexo, quando não existam na sua dependência dirigentes intermédios de 2.º grau.\n\n2 - As competências dos dirigentes intermédios de 2.º grau são as previstas nas alíneas k) a p) do anexo ii ao presente decreto-lei."
+  },
+  "204369855": {
+   "fragment_id": "204672298",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviço de Auditoria e Inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Serviço de Auditoria e Inspeção\n\n1 - O SAI, integrado nos serviços centrais, é o serviço de inspeção, fiscalização e auditoria às unidades orgânicas desconcentradas e aos serviços centrais da DGRSP, cuja atividade constitui instrumento essencial à verificação da legalidade e à manutenção da ordem e disciplina no Sistema de Execução de Penas e Medidas e Tutelar Educativo.\n\n2 - O SAI dispõe das delegações do Norte, do Centro, e do Sul e Ilhas, que abrangem áreas territoriais a definir por despacho do membro do Governo responsável pela área da justiça.\n\n3 - A coordenação das delegações do SAI é assegurada por magistrados judiciais ou do Ministério Público, designados em comissão de serviço por três anos, renovável por iguais períodos com o limite máximo de duas renovações, por despacho do membro do Governo responsável pela área da justiça, sob proposta, não vinculativa, do diretor-geral, ouvidos os respetivos conselhos superiores.\n\n4 - Os coordenadores do SAI respondem diretamente perante o diretor-geral.\n\n5 - O SAI integra pessoal com funções inspetivas, designado em regime de comissão de serviço por três anos, por despacho do membro do Governo responsável pela área da justiça, sob proposta, não vinculativa, do diretor-geral, de entre trabalhadores integrados na carreira do grupo de pessoal técnico superior, para cujo provimento seja exigível uma licenciatura, com, pelo menos, seis anos de experiência profissional qualificada nas áreas de atividade inspetiva ou de auditoria no âmbito dos órgãos ou serviços públicos, investigação criminal, consultadoria jurídica em matérias de direito público e, em especial, do estatuto disciplinar, investigação, estudo e conceção de métodos e processos técnico-científicos no âmbito da Administração Pública.\n\n6 - Os coordenadores do SAI podem, a todo o tempo, e por mera conveniência de serviço, devidamente fundamentada, propor ao diretor-geral a cessação da comissão de serviço dos trabalhadores a desempenhar funções no SAI, com aviso prévio de 30 dias e sem que haja lugar a qualquer indemnização, cabendo a decisão final ao membro do Governo responsável pela área da justiça.\n\n7 - Ao SAI compete:\n\na) Fiscalizar e acompanhar regularmente o desempenho das unidades orgânicas desconcentradas, tendo em vista o seu bom funcionamento, articulação e aperfeiçoamento;\n\nb) Avaliar a eficiência e eficácia da gestão das unidades orgânicas desconcentradas;\n\nc) Verificar o cumprimento das disposições legais e regulamentares e das instruções de serviço;\n\nd) Identificar medidas de correção de procedimentos que se revelem inadequados e propor a adoção de normas, técnicas e métodos com vista à melhoria dos serviços e à uniformização de procedimentos;\n\ne) Realizar inspeções, auditorias e sindicâncias, bem como instaurar processos disciplinares ou de inquérito;\n\nf) Instruir os processos de inquérito ou disciplinares que lhe forem determinados, nomeadamente os de maior complexidade e os que envolvam pessoal dirigente;\n\ng) Supervisionar e dar apoio técnico nos processos que não sejam instruídos pelo SAI."
+  },
+  "204369856": {
+   "fragment_id": "204672299",
+   "type": 11,
+   "heading": "Artigo 13.º — Centros educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Centros educativos\n\n1 - Os centros educativos são criados por portaria dos membros do Governo responsáveis pelas áreas das finanças, da administração pública e da justiça e garantem a execução das medidas previstas na lei, visando a educação do jovem para o direito e a sua inserção, de forma digna e responsável, na vida em comunidade.\n\n2 - Os centros educativos são dirigidos por um diretor, cargo de direção intermédia de 2.º grau, hierárquica e funcionalmente dependente do diretor-geral.\n\n3 - O centro educativo integra uma equipa de programas, nos termos previstos por lei, cuja gestão é assegurada por um coordenador.\n\n4 - A segurança dos centros educativos é garantida por força de segurança e ou entidade licenciada para o efeito, possuidora de formação adequada."
+  },
+  "204369857": {
+   "fragment_id": "204672300",
+   "type": 11,
+   "heading": "Artigo 14.º — Estabelecimentos prisionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estabelecimentos prisionais\n\n1 - Os estabelecimentos prisionais, criados por portaria dos membros do Governo responsáveis pelas áreas das finanças, da administração pública e da justiça, garantem a execução das penas e medidas privativas da liberdade, contribuindo para a manutenção da ordem e paz social e a criação de condições de reinserção social dos reclusos.\n\n2 - A estrutura orgânica, o regime de funcionamento e as competências dos órgãos e serviços dos estabelecimentos prisionais são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças, da administração pública e da justiça.\n\n3 - Podem ser criados, por portaria dos membros do Governo responsáveis pelas áreas das finanças, da administração pública e da justiça, agrupamentos de estabelecimentos prisionais, em razão da dimensão dos meios a gerir, da lotação e da proximidade geográfica entre os estabelecimentos prisionais.\n\n4 - O estabelecimento prisional de nível de segurança especial ou alta e grau de complexidade de gestão elevado ou o agrupamento de estabelecimentos prisionais é dirigido por um diretor, hierárquica e funcionalmente dependente do diretor-geral, cargo de direção intermédia de 1.º grau, em regime de comissão de serviço de três anos, renovável por iguais períodos, até ao máximo de três renovações no mesmo estabelecimento prisional ou agrupamento de estabelecimentos prisionais.\n\n5 - O estabelecimento prisional de nível de segurança alta ou média e grau de complexidade de gestão médio é dirigido por um diretor, hierárquica e funcionalmente dependente do diretor-geral, cargo de direção intermédia de 2.º grau, em regime de comissão de serviço de três anos, renovável por iguais períodos, até ao máximo de três renovações no mesmo estabelecimento prisional ou agrupamento de estabelecimentos prisionais.\n\n6 - As zonas prisionais em funcionamento junto à Polícia Judiciária são equiparadas a estabelecimentos prisionais, com as devidas adaptações.\n\n7 - Quando a direção de dois ou mais estabelecimentos prisionais for assegurada pelo mesmo titular, o cargo de diretor de estabelecimento prisional é de direção intermédia de 1.º grau."
+  },
+  "204369858": {
+   "fragment_id": "204672301",
+   "type": 11,
+   "heading": "Artigo 15.º — Delegações regionais de reinserção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Delegações regionais de reinserção\n\n1 - A DGRSP integra as delegações regionais de reinserção do Norte, do Centro e do Sul e Ilhas, que abrangem áreas territoriais a definir por despacho do membro do Governo responsável pela área da justiça.\n\n2 - Compete às delegações regionais de reinserção:\n\na) Assegurar o acompanhamento, monitorização e controlo da atividade operativa realizada pelas equipas de reinserção social;\n\nb) Exercer as atividades da DGRSP que, por lei ou por decisão do diretor-geral, devam ser prosseguidas no âmbito regional e local, no âmbito da reinserção social;\n\nc) Assegurar a prática de atos de gestão corrente que não sejam próprios dos serviços centrais.\n\n3 - As delegações regionais de reinserção integram seis núcleos de apoio técnico, com a distribuição constante do anexo iii ao presente decreto-lei, do qual faz parte integrante.\n\n4 - As delegações regionais de reinserção integram as equipas de reinserção social, criadas por despacho do membro do Governo responsável pela área da justiça, sob proposta, não vinculativa, do diretor-geral.\n\n5 - As delegações regionais de reinserção são dirigidas por diretores, cargos de direção intermédia de 1.º grau, com as competências previstas no anexo ii ao presente decreto-lei, sem prejuízo das decorrentes de lei, ou que nele forem delegadas ou subdelegadas.\n\n6 - Os núcleos de apoio técnico são dirigidos por diretores, cargos de direção intermédia de 2.º grau, com as competências previstas no anexo ii ao presente decreto-lei, sem prejuízo das decorrentes de lei, ou que neles forem delegadas ou subdelegadas."
+  },
+  "204369859": {
+   "fragment_id": "204672302",
+   "type": 11,
+   "heading": "Artigo 16.º — Provimento de dirigentes de unidades orgânicas dos serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Provimento de dirigentes de unidades orgânicas dos serviços centrais\n\n1 - Os cargos de direção intermédia de 1.º e 2.º graus das unidades orgânicas dos serviços centrais são providos por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta, não vinculativa, do diretor-geral, de entre:\n\na) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício da função, com um mínimo de, respetivamente, seis ou quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura;\n\nb) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, que cumulativamente sejam licenciados há, pelo menos, seis anos ou quatro anos, respetivamente, e detenham experiência profissional relevante pelos mesmos períodos, dotados de reconhecida competência técnica, mérito e aptidão nas áreas de atuação da DGRSP.\n\n2 - Os cargos de direção intermédia de 1.º e 2.º graus, identificados no número anterior, são providos em comissão de serviço por um período de três anos, renovável por iguais períodos, sendo-lhes aplicável o disposto nos n.os 4 e 5 do artigo 5.º"
+  },
+  "204369860": {
+   "fragment_id": "204672303",
+   "type": 11,
+   "heading": "Artigo 17.º — Provimento de diretor de centro educativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Provimento de diretor de centro educativo\n\n1 - O cargo de diretor de centro educativo é provido por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta não vinculativa do diretor-geral, de entre:\n\na) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício da função, com um mínimo de quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura;\n\nb) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, que cumulativamente sejam licenciados há, pelo menos, quatro anos e detenham experiência profissional relevante, dotados de reconhecida competência técnica, mérito e aptidão na área tutelar educativa.\n\n2 - O cargo de diretor de centro educativo é exercido em regime de comissão de serviço por três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.os 4 e 5 do artigo 5.º"
+  },
+  "204369861": {
+   "fragment_id": "204672304",
+   "type": 11,
+   "heading": "Artigo 18.º — Provimento de diretor de estabelecimento prisional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Provimento de diretor de estabelecimento prisional\n\n1 - O cargo de diretor de estabelecimento ou de agrupamento prisional é provido por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta não vinculativa do diretor-geral, de entre:\n\na) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício da função referida no n.º 4 ou no n.º 5 do artigo 14.º, com um mínimo de seis anos ou quatro anos, respetivamente, de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura;\n\nb) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, incluindo o pessoal da carreira do Corpo da Guarda Prisional, que cumulativamente e consoante se trate de estabelecimento prisional referido no n.º 4 ou no n.º 5 do artigo 14.º, sejam licenciados há, pelo menos, seis anos ou quatro anos, respetivamente, e detenham experiência profissional relevante pelos mesmos períodos, dotados de reconhecida competência técnica, mérito e aptidão na área prisional.\n\n2 - O cargo de diretor de estabelecimento prisional é exercido em regime de comissão de serviço por três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.os 4 e 5 do artigo 5.º"
+  },
+  "204369862": {
+   "fragment_id": "204672305",
+   "type": 11,
+   "heading": "Artigo 19.º — Adjuntos do diretor de estabelecimento prisional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Adjuntos do diretor de estabelecimento prisional\n\nOs adjuntos do diretor de estabelecimento prisional são designados por despacho do membro do Governo responsável pela área da justiça, sob proposta do diretor-geral, em regime de comissão de serviço, pelo período de três anos, renovável por iguais períodos, e recrutados de entre trabalhadores com relação jurídica de emprego público por tempo indeterminado, incluindo guardas prisionais licenciados, ou integrados na carreira técnica superior, ou em carreira específica da DGRSP, dotados de competência técnica e aptidão para o exercício da função."
+  },
+  "204369863": {
+   "fragment_id": "204672306",
+   "type": 11,
+   "heading": "Artigo 20.º — Provimento de diretor de delegação regional de reinserção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Provimento de diretor de delegação regional de reinserção\n\n1 - O cargo de diretor de delegação regional de reinserção é provido por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta não vinculativa do diretor-geral, de entre trabalhadores com relação jurídica de emprego público por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício da função, com um mínimo de seis anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura.\n\n2 - O cargo de diretor de delegação regional de reinserção é exercido em regime de comissão de serviço por três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.os 4 e 5 do artigo 5.º"
+  },
+  "204369864": {
+   "fragment_id": "204672307",
+   "type": 11,
+   "heading": "Artigo 21.º — Provimento de diretor de núcleo de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Provimento de diretor de núcleo de apoio técnico\n\nO cargo de diretor de núcleo de apoio técnico é provido por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta não vinculativa do diretor-geral, de entre trabalhadores com relação jurídica de emprego público por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício da função, com um mínimo de quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício e provimento seja exigível uma licenciatura."
+  },
+  "204369865": {
+   "fragment_id": "204672308",
+   "type": 11,
+   "heading": "Artigo 22.º — Estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Estatuto remuneratório dos chefes de equipas multidisciplinares\n\nAos chefes de equipas multidisciplinares é atribuído o estatuto remuneratório equiparado a dirigente intermédio de 1.º e 2.º graus, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a dirigente intermédio de 1.º grau ser atribuído a mais de duas equipas de chefia em simultâneo."
+  },
+  "204369866": {
+   "fragment_id": "204672309",
+   "type": 11,
+   "heading": "Artigo 23.º — Cessação da comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cessação da comissão de serviço\n\n1 - À cessação da comissão de serviço dos cargos de direção intermédia de 1.º e 2.º graus é aplicável o disposto no n.º 3 do artigo 6.º\n\n2 - Quando a cessação da comissão de serviço dos cargos dirigentes da DGRSP se fundamente na extinção ou reorganização da unidade orgânica ou na necessidade de imprimir nova orientação à gestão dos serviços, é aplicável o disposto no artigo 26.º da Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64/2011, de 22 de dezembro."
+  },
+  "204369867": {
+   "fragment_id": "204672310",
+   "type": 11,
+   "heading": "Artigo 24.º — Designação em substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Designação em substituição\n\n1 - Os cargos de direção podem ser exercidos em regime de substituição, nos casos de ausência ou impedimento do respetivo titular, quando se preveja que estes condicionalismos persistam por mais de 60 dias ou em caso de vacatura do lugar.\n\n2 - A designação em regime de substituição é feita pelo membro do Governo responsável pela área da justiça, devendo ser observados todos os requisitos legais exigidos para o provimento do cargo.\n\n3 - A substituição cessa na data em que o titular retome funções ou passados 90 dias sobre a data da vacatura do lugar, salvo se estiverem em curso diligências tendentes à designação de novo titular.\n\n4 - A substituição pode ainda cessar, a qualquer momento, por decisão da entidade competente ou a pedido do substituto, logo que deferido.\n\n5 - O período de substituição conta, para todos os efeitos legais, como tempo de serviço prestado no cargo anteriormente ocupado, bem como no lugar de origem.\n\n6 - O substituto tem direito à totalidade das remunerações e demais abonos e regalias atribuídos pelo exercício do cargo do substituído, independentemente da libertação das respetivas verbas por este, sendo os encargos suportados pelas correspondentes dotações orçamentais."
+  },
+  "204369868": {
+   "fragment_id": "204672311",
+   "type": 11,
+   "heading": "Artigo 25.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Salvaguarda de direitos\n\n1 - Os titulares de cargos dirigentes da DGRSP gozam, independentemente do seu vínculo de origem, dos direitos gerais reconhecidos aos trabalhadores em funções públicas da DGRSP.\n\n2 - O pessoal dirigente conserva o direito ao lugar de origem e ao regime de proteção social porque está abrangido, não podendo ser prejudicado na sua carreira profissional por causa do exercício daquelas funções, relevando para todos os efeitos no lugar de origem o tempo de serviço prestado naquele cargo."
+  },
+  "204369869": {
+   "fragment_id": "204672312",
+   "type": 11,
+   "heading": "Artigo 26.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Remunerações\n\n1 - O pessoal dirigente da DGRSP aufere a remuneração base anualmente fixada para o pessoal dirigente dos serviços e organismos da administração central do Estado.\n\n2 - O pessoal dirigente da DGRSP pode, mediante autorização expressa no despacho de designação, optar pelo vencimento ou retribuição base da sua função, cargo ou categoria de origem, não podendo, todavia, exceder, em caso algum, o vencimento base do Primeiro-Ministro.\n\n3 - O disposto nos n.os 7 e 8 do artigo 31.º da Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64/2011, de 22 de dezembro, é aplicável ao pessoal dirigente da DGRSP."
+  },
+  "204369870": {
+   "fragment_id": "204672313",
+   "type": 11,
+   "heading": "Artigo 27.º — Despesas de representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Despesas de representação\n\nOs titulares de cargos de direção da DGRSP têm direito ao abono de despesas de representação, nos termos previstos para o pessoal dirigente dos serviços e organismos da administração central do Estado, por equiparação aos respetivos cargos de direção superior e de direção intermédia de 1.º e 2.º graus."
+  },
+  "204369871": {
+   "fragment_id": "204672314",
+   "type": 11,
+   "heading": "Artigo 28.º — Corpo da Guarda Prisional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Corpo da Guarda Prisional\n\n1 - O Corpo da Guarda Prisional, hierarquicamente dependente do diretor-geral, é a força de segurança que tem por missão garantir a segurança e tranquilidade da comunidade, designadamente mantendo a ordem e a segurança do sistema prisional, protegendo a vida e a integridade dos cidadãos em cumprimento de pena e medidas privativas da liberdade, e assegurando o respeito pelo cumprimento da lei e das decisões judiciais, bem como pelos direitos e liberdades fundamentais.\n\n2 - O Grupo de Intervenção e Segurança Prisional, criado no âmbito do Corpo da Guarda Prisional, é um agrupamento de operações especiais, à ordem do diretor-geral, especialmente preparado para:\n\na) Adotar ações preventivas ou repressivas antidistúrbio nos estabelecimentos prisionais;\n\nb) Tomar medidas protetivas de escolta a reclusos perigosos ou de alto risco;\n\nc) Efetuar remoções de reclusos, designadamente as de longa distância;\n\nd) Assegurar a condução das viaturas oficiais em que é transportada a direção superior.\n\n3 - O Grupo Operacional Cinotécnico, criado no âmbito do Corpo da Guarda Prisional, é a unidade especialmente preparada para a utilização de canídeos em patrulha, manutenção ou reposição da ordem prisional e deteção de substâncias e objetos ilícitos.\n\n4 - Na DGRSP funciona um centro de comunicações, que assegura o normal funcionamento das redes de comunicações e a manutenção dos meios complementares de segurança, e cujas funções técnicas são exercidas por pessoal do Corpo da Guarda Prisional."
+  },
+  "204369872": {
+   "fragment_id": "204672315",
+   "type": 11,
+   "heading": "Artigo 29.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Receitas\n\n1 - A DGRSP dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A DGRSP dispõe ainda das seguintes receitas:\n\na) As transferências do IGFEJ, I. P.;\n\nb) As quantias que resultem da venda de bens e serviços gerados no sistema prisional e nos centros educativos, com origem no funcionamento das explorações económicas;\n\nc) Uma percentagem sobre as remunerações a pagar pelos dadores de trabalho prisional, quando devida, até ao valor da taxa social única, a fixar por despacho do membro do Governo responsável pela área da justiça;\n\nd) O produto da venda de publicações e de outros produtos comercializáveis, bem como da prestação de serviços;\n\ne) Os rendimentos dos bens que, a qualquer título, se encontrem na sua posse;\n\nf) As verbas provenientes das receitas resultantes da elaboração de perícias, relatórios, informações sociais, audições e outras diligências ou documentos que lhes forem requeridos pelas autoridades judiciárias;\n\ng) As quantias respeitantes às contrapartidas financeiras resultantes da celebração de contratos de concessão ou outros de natureza idêntica;\n\nh) O produto da locação de instalações e equipamentos afetos à DGRSP;\n\ni) Os donativos, subsídios e comparticipações, bem como heranças, legados e doações instituídos a seu favor e destinados à melhoria das condições dos reclusos e jovens;\n\nj) 20 % das receitas de bens declarados perdidos a favor do Estado, calculados sobre os valores apurados nos termos da alínea c) do n.º 1 do artigo 39.º do Decreto-Lei n.º 15/93, de 22 de janeiro, na redação dada pela Lei n.º 45/96, de 3 de setembro;\n\nk) 50 % dos valores e do produto da venda de objetos apreendidos em processo penal não abrangidos pelo disposto na alínea anterior;\n\nl) Os espólios de jovens internados e de reclusos, não reclamados no prazo de um ano, ou declarados perdidos a favor do Estado, nos termos da lei, incluindo os saldos das remunerações e outras receitas, afetas à constituição de fundos, após avaliação e venda de objetos pela DGRSP;\n\nm) Os lucros provenientes da exploração de cantinas, refeitórios, messes, bares e similares;\n\nn) Os valores referentes a correspondência e comunicações telefónicas efetuadas e pagas pelos reclusos, nos termos regulamentares, aprovados pelo diretor-geral;\n\no) Os valores referentes a comunicações telefónicas efetuadas e pagas pelos trabalhadores, nos termos regulamentares, aprovados pelo diretor-geral;\n\np) As quantias provenientes de indemnizações por danos causados pelos reclusos, nos termos em que esteja regulamentado;\n\nq) As rendas das casas de função;\n\nr) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n3 - As receitas referidas nas alíneas a) a c) do número anterior são consignadas à realização de despesas decorrentes do normal funcionamento da DGRSP durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.\n\n4 - As receitas referidas nas alíneas b) e c) do n.º 2 são consignadas, prioritariamente, aos encargos com a exploração das atividades económicas da DGRSP, investimentos em equipamentos e instalações, formação profissional e indemnizações e encargos derivados de acidentes de trabalho dos reclusos e dos jovens internados em centro educativo.\n\n5 - As receitas referidas nas alíneas d) a r) do n.º 2 revertem para o IGFEJ, I. P.\n\n6 - As quantias cobradas pela DGRSP são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da justiça, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento."
+  },
+  "204369873": {
+   "fragment_id": "204672316",
+   "type": 11,
+   "heading": "Artigo 30.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Despesas\n\nConstituem despesas da DGRSP as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "204369874": {
+   "fragment_id": "204672317",
+   "type": 11,
+   "heading": "Artigo 31.º — Residência obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Residência obrigatória\n\n1 - Têm residência obrigatória junto dos estabelecimentos prisionais os diretores, os adjuntos, os médicos e enfermeiros, o pessoal do Corpo da Guarda Prisional, os coordenadores técnicos, os assistentes técnicos com funções de tesoureiro e os assistentes operacionais que ocupem postos de trabalho de cozinheiro, de fogueiro, de eletricista e de auxiliar de ação médica.\n\n2 - O pessoal do Grupo de Intervenção e Segurança Prisional e do Grupo Operacional Cinotécnico está também sujeito a residência obrigatória junto das respetivas unidades orgânicas.\n\n3 - A obrigatoriedade de residência junto dos estabelecimentos prisionais pode ser alargada a outros trabalhadores, por despacho do membro do Governo responsável pela área da justiça, sob proposta fundamentada do diretor-geral."
+  },
+  "204707975": {
+   "fragment_id": "204672318",
+   "type": 11,
+   "heading": "Artigo 32.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Patrocínio judiciário\n\nAos trabalhadores da DGRSP pode ser facultado, nos termos da lei, pelos serviços jurídicos do Ministério da Justiça, o patrocínio judiciário em processos decorrentes do exercício das respetivas funções."
+  },
+  "204707976": {
+   "fragment_id": "204672319",
+   "type": 11,
+   "heading": "Artigo 33.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regime transitório\n\n1 - Até à publicação da portaria prevista no n.º 2 do artigo 14.º, o diretor de estabelecimento prisional de nível de segurança especial ou alta e grau de complexidade de gestão elevado é coadjuvado por três adjuntos e o diretor de estabelecimento prisional de nível de segurança alta ou média e grau de complexidade de gestão médio é coadjuvado por um adjunto.\n\n2 - Até à publicação da portaria prevista no n.º 2 do artigo 14.º, o diretor de estabelecimento prisional com gestão partilhada público-privada é coadjuvado por dois adjuntos.\n\n3 - Até à entrada em vigor da portaria prevista no n.º 2 do artigo 14.º, os diretores de estabelecimento prisional detêm as competências previstas no anexo ii ao presente decreto-lei."
+  },
+  "204707977": {
+   "fragment_id": "204672320",
+   "type": 11,
+   "heading": "Artigo 34.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Sucessão\n\nA DGRSP sucede nas atribuições da Direção-Geral dos Serviços Prisionais e da Direção-Geral de Reinserção Social."
+  },
+  "204707978": {
+   "fragment_id": "204672321",
+   "type": 11,
+   "heading": "Artigo 35.º — Critérios de seleção do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Critérios de seleção do pessoal\n\nSão fixados os seguintes critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições da DGRSP:\n\na) O desempenho de funções na Direção-Geral de Reinserção Social diretamente relacionadas com as atribuições transferidas, ou em áreas de apoio correspondentes às existentes na DGRSP;\n\nb) O desempenho de funções na Direção-Geral dos Serviços Prisionais diretamente relacionadas com as atribuições transferidas, ou em áreas de apoio correspondentes às existentes na DGRSP."
+  },
+  "204707979": {
+   "fragment_id": "204672322",
+   "type": 11,
+   "heading": "Artigo 36.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Normas transitórias\n\n1 - Mantém-se em vigor o capítulo v, o artigo 79.º e os anexos ii e iii ao Decreto-Lei n.º 204-A/2001, de 26 de julho, alterado pelos Decretos-Leis n.os 95/2002, de 12 de abril, 229/2005, de 29 de dezembro, 126/2007, de 27 de abril, e 121/2008, de 11 de julho, com as adaptações decorrentes da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pela Lei n.º 64-A/2008, de 31 de dezembro, pelo Decreto-Lei n.º 269/2009, de 30 de setembro, e pelas Leis n.os 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, e da Lei n.º 59/2008, de 11 de setembro, alterada pelo Decreto-Lei n.º 124/2010, de 17 de novembro, e pelas Leis n.os 3-B/2010, de 28 de abril, e 64-B/2011, de 31 de dezembro, e demais legislação conexa, bem como os artigos 87.º, 88.º e 92.º do Decreto-Lei n.º 204/83, de 20 de maio.\n\n2 - Mantém-se em vigor o disposto no artigo 1.º do Decreto Regulamentar n.º 38/82, de 7 de julho, alterado pelos Decretos-Leis n.os 300/91, de 16 de agosto, 237/97, de 8 de setembro, 75/2005, de 4 de abril, e 229/2005, de 29 de dezembro, e o disposto nos n.os 6 a 8 do artigo 67.º do Decreto-Lei n.º 204-A/2001, de 26 de julho, alterado pelos Decretos-Leis n.os 95/2002, de 12 de abril, 229/2005, de 29 de dezembro, 126/2007, de 27 de abril, e 121/2008, de 11 de julho, até à revisão prevista no artigo 112.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pela Lei n.º 64-A/2008, de 31 de dezembro, pelo Decreto-Lei n.º 269/2009, de 30 de setembro, e pelas Leis n.os 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, e 64-B/2011, de 30 de dezembro.\n\n3 - Mantém-se em vigor o disposto nos n.os 2 e 3 do artigo 9.º do Decreto-Lei n.º 351/99, de 3 de setembro, alterado pelos Decretos-Leis n.os 89/2003, de 26 de abril, e 125/2007, de 27 de abril, até à entrada em vigor da portaria a que se refere o n.º 1 do artigo 10.º da Lei n.º 115/2009, de 12 de outubro, alterada pelas Leis n.os 33/2010, de 2 de setembro, e 40/2010, de 3 de setembro, e subsequente designação em comissão de serviço dos diretores de estabelecimento prisional."
+  },
+  "204707980": {
+   "fragment_id": "204672323",
+   "type": 11,
+   "heading": "Artigo 37.º — Normas finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Normas finais\n\n1 - Do disposto no número anterior não pode resultar sobreposição no pagamento de suplementos aos titulares dos cargos dirigentes da DGRSP, aplicando-se aos cargos dirigentes que, por efeitos da presente fusão, venham a ter correspondência na orgânica da DGRSP, os suplementos remuneratórios a que teriam direito nos respetivos serviços extintos.\n\n2 - Não pode, igualmente, resultar sobreposição no pagamento de suplementos aos demais trabalhadores das extintas Direção-Geral de Reinserção Social e Direção-Geral dos Serviços Prisionais que, por efeitos da sua fusão, sejam reafetos à DGRSP, devendo continuar a ser abonados nos termos em que o vinham sendo naqueles serviços à data da reafetação.\n\n3 - Aos dirigentes superiores de 1.º e 2.º graus e aos dirigentes intermédios de 1.º e 2.º graus que exerçam funções nos serviços centrais da DGRSP é abonado o suplemento previsto no artigo 1.º do Decreto Regulamentar n.º 38/82, de 7 de julho, alterado pelos Decretos-Leis n.os 300/91, de 16 de agosto, 237/97, de 8 de setembro, 75/2005, de 4 de abril, e 229/2005, de 29 de dezembro.\n\n4 - O tempo de serviço prestado por diretor de estabelecimento prisional, após a entrada em vigor do Decreto-Lei n.º 351/99, de 3 de setembro, até 31 de dezembro de 2010, conta para a promoção na carreira em que o trabalhador se encontra integrado, em função do número de anos de exercício continuado naquelas funções.\n\n5 - Durante a vigência do Programa de Assistência Económica e Financeira, da aplicação das regras estabelecidas no presente artigo não pode resultar um aumento da remuneração efetivamente paga aos dirigentes, designados ou a designar, e demais trabalhadores abrangidos, tendo por referência a remuneração atribuída à data de entrada em vigor do presente decreto-lei."
+  },
+  "204707981": {
+   "fragment_id": "204672324",
+   "type": 11,
+   "heading": "Artigo 38.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 351/99, de 3 de setembro, alterado pelos Decretos-Leis n.os 89/2003, de 26 de abril, e 125/2007, de 27 de abril, com exceção dos artigos 1.º a 8.º e do n.º 1 do artigo 10.º, sem prejuízo do disposto no n.º 3 do artigo 36.º;\n\nb) O Decreto-Lei n.º 125/2007, de 27 de abril;\n\nc) O Decreto-Lei n.º 126/2007, de 27 de abril."
+  },
+  "204707982": {
+   "fragment_id": "204672325",
+   "type": 11,
+   "heading": "Artigo 39.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "204707984": {
+   "fragment_id": "204672327",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 10.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "204707985": {
+   "fragment_id": "204672328",
+   "type": 14,
+   "heading": "Anexo II — (a que se referem os n.os 1 e 2 do artigo 11.º, 5 e 6 do artigo 15.º e 3 do artigo 33.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se referem os n.os 1 e 2 do artigo 11.º, 5 e 6 do artigo 15.º e 3 do artigo 33.º)\n\na) Definir os objetivos de atuação da unidade orgânica que dirigem, tendo em conta os objetivos gerais estabelecidos.\n\nb) Orientar, controlar e avaliar o desempenho e a eficiência dos serviços dependentes, com vista à execução dos planos de atividades e à prossecução dos resultados obtidos e a alcançar.\n\nc) Garantir a coordenação das atividades e a qualidade técnica da prestação dos serviços na sua dependência.\n\nd) Gerir com rigor e eficiência os recursos humanos, patrimoniais e tecnológicos afetos à sua unidade orgânica, otimizando os meios e adotando medidas que permitam simplificar e acelerar procedimentos e promover a aproximação à sociedade e a outros serviços públicos.\n\ne) Autorizar o exercício de funções a tempo parcial.\n\nf) Justificar ou injustificar faltas.\n\ng) Autorizar o gozo e a acumulação de férias e aprovar o respetivo plano anual.\n\nh) Autorizar o abono do vencimento de exercício perdido por motivo de doença.\n\ni) Autorizar a inscrição e participação do pessoal em congressos, reuniões, seminários, colóquios, cursos de formação em regime de autoformação ou outras iniciativas semelhantes que decorram em território nacional quando não importem custos para o serviço.\n\nj) Autorizar o pessoal a comparecer em juízo quando requisitado nos termos da lei de processo.\n\nk) Efetuar o acompanhamento profissional no local de trabalho, apoiando e motivando os trabalhadores em funções públicas e proporcionando-lhes os adequados conhecimentos e aptidões profissionais necessários ao exercício do respetivo posto de trabalho, bem como os procedimentos mais adequados ao incremento da qualidade do serviço a prestar.\n\nl) Divulgar junto dos trabalhadores em funções públicas os documentos internos e as normas de procedimento a adotar pelo serviço, bem como debater e esclarecer as ações a desenvolver para cumprimento dos objetivos do serviço, de forma a garantir o empenho e a assunção de responsabilidades por parte dos trabalhadores em funções públicas.\n\nm) Proceder de forma objetiva à avaliação do mérito dos trabalhadores em funções públicas, em função dos resultados individuais e de grupo e à forma como cada um se empenha na prossecução dos objetivos e no espírito de equipa.\n\nn) Identificar as necessidades de formação específica dos trabalhadores em funções públicas da sua unidade orgânica e propor a frequência das ações de formação consideradas adequadas ao suprimento das referidas necessidades, sem prejuízo do direito à autoformação.\n\no) Proceder ao controlo efetivo da assiduidade, pontualidade e cumprimento do período normal de trabalho por parte dos trabalhadores em funções públicas da sua unidade orgânica.\n\np) Autorizar a passagem de certidões de documentos arquivados na respetiva unidade orgânica, exceto quando contenham matéria confidencial ou reservada, bem como a restituição de documentos aos interessados."
+  },
+  "204707986": {
+   "fragment_id": "204672329",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 3 do artigo 15.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 3 do artigo 15.º)\n\nDelegação Regional de Reinserção do Norte - um;\n\nDelegação Regional de Reinserção do Centro - um;\n\nDelegação Regional de Reinserção do Sul e Ilhas - quatro."
+  },
+  "212115028": {
+   "fragment_id": "204672290",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 63/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/63-2012-191995), produz efeitos a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n1 - A DGRSP é dirigida por um diretor-geral, coadjuvado por três subdiretores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n2 - É, ainda, órgão da DGRSP o Conselho de Coordenação Técnica.\n\n> Retificado pelo/a [Declaração de Retificação n.º 63/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/63-2012-191995), produz efeitos a partir de 2012-10-01"
+  },
+  "911628118": {
+   "fragment_id": "204672315",
+   "type": 11,
+   "heading": "Artigo 29.º — Receitas",
+   "in_force_from": "2025-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Receitas\n\n1 - A DGRSP dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A DGRSP dispõe ainda das seguintes receitas:\n\na) As transferências do IGFEJ, I. P.;\n\nb) As quantias que resultem da venda de bens e serviços gerados no sistema prisional e nos centros educativos, com origem no funcionamento das explorações económicas;\n\nc) Uma percentagem sobre as remunerações a pagar pelos dadores de trabalho prisional, quando devida, até ao valor da taxa social única, a fixar por despacho do membro do Governo responsável pela área da justiça;\n\nd) O produto da venda de publicações e de outros produtos comercializáveis, bem como da prestação de serviços;\n\ne) Os rendimentos dos bens que, a qualquer título, se encontrem na sua posse;\n\nf) As verbas provenientes das receitas resultantes da elaboração de perícias, relatórios, informações sociais, audições e outras diligências ou documentos que lhes forem requeridos pelas autoridades judiciárias;\n\ng) As quantias respeitantes às contrapartidas financeiras resultantes da celebração de contratos de concessão ou outros de natureza idêntica;\n\nh) O produto da locação de instalações e equipamentos afetos à DGRSP;\n\ni) Os donativos, subsídios e comparticipações, bem como heranças, legados e doações instituídos a seu favor e destinados à melhoria das condições dos reclusos e jovens;\n\nj) 20 % das receitas de bens declarados perdidos a favor do Estado, calculados sobre os valores apurados nos termos da alínea c) do n.º 1 do artigo 39.º do Decreto-Lei n.º 15/93, de 22 de janeiro, na redação dada pela Lei n.º 45/96, de 3 de setembro;\n\nk) 50 % dos valores e do produto da venda de objetos apreendidos em processo penal não abrangidos pelo disposto na alínea anterior;\n\nl) Os espólios de jovens internados e de reclusos, não reclamados no prazo de um ano, ou declarados perdidos a favor do Estado, nos termos da lei, incluindo os saldos das remunerações e outras receitas, afetas à constituição de fundos, após avaliação e venda de objetos pela DGRSP;\n\nm) Os lucros provenientes da exploração de cantinas, refeitórios, messes, bares e similares;\n\nn) Os valores referentes a correspondência e comunicações telefónicas efetuadas e pagas pelos reclusos, nos termos regulamentares, aprovados pelo diretor-geral;\n\no) Os valores referentes a comunicações telefónicas efetuadas e pagas pelos trabalhadores, nos termos regulamentares, aprovados pelo diretor-geral;\n\np) As quantias provenientes de indemnizações por danos causados pelos reclusos, nos termos em que esteja regulamentado;\n\nq) As rendas das casas de função;\n\nr) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n3 - As receitas referidas no número anterior são consignadas à realização de despesas decorrentes do normal funcionamento da DGRSP durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.\n\n4 - As receitas referidas nas alíneas b) e c) do n.º 2 são consignadas, prioritariamente, aos encargos com a exploração das atividades económicas da DGRSP, investimentos em equipamentos e instalações, formação profissional e indemnizações e encargos derivados de acidentes de trabalho dos reclusos e dos jovens internados em centro educativo.\n\n5 - (Revogado.)\n\n6 - As quantias cobradas pela DGRSP são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da justiça, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.\n\n> Alterado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+  },
+  "204707983": {
+   "fragment_id": "204672326",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de julho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz.\n\nPromulgado em 23 de setembro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de setembro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "1171938575": {
+   "fragment_id": "1171938475",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Cargo de diretor adjunto de estabelecimento prisional",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 14.º-A — Cargo de diretor adjunto de estabelecimento prisional\n\n1 - O diretor adjunto de estabelecimento prisional, cargo de direção intermédia de 3.º grau, hierárquica e funcionalmente dependente do diretor do estabelecimento prisional, é responsável por coadjuvar o diretor de estabelecimento prisional na gestão corrente, assegurando a coordenação de áreas operacionais essenciais, a articulação entre serviços e a supervisão da execução das orientações de gestão.\n\n2 - Compete ao titular do cargo de diretor adjunto de estabelecimento prisional:\n\na) Coordenar áreas operacionais relevantes do estabelecimento prisional;\n\nb) Assegurar a articulação entre os diferentes serviços;\n\nc) Supervisionar a execução das orientações de gestão definidas pelo diretor;\n\nd) Exercer outras competências de coordenação e gestão, que lhe sejam atribuídas.\n\n3 - Nos estabelecimentos prisionais em que sejam designados dois ou mais diretores adjuntos de estabelecimento prisional, pode-lhes ser atribuída a coordenação e supervisão de áreas específicas, decorrentes do nível de segurança, dimensão e complexidade de gestão do estabelecimento prisional.\n\n4 - Por despacho do diretor-geral de reinserção e serviços prisionais, sob proposta do diretor do estabelecimento prisional, é designado, de entre os diretores adjuntos, o substituto do diretor do estabelecimento prisional nas suas faltas, ausências e impedimentos.\n\n> Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1171938775": {
+   "fragment_id": "204672301",
+   "type": 11,
+   "heading": "Artigo 15.º — Delegações regionais de reinserção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Delegações regionais de reinserção\n\n1 - A DGRSP integra as delegações regionais de reinserção do Norte, do Centro e do Sul e Ilhas, que abrangem áreas territoriais a definir por despacho do membro do Governo responsável pela área da justiça.\n\n2 - Compete às delegações regionais de reinserção:\n\na) Assegurar o acompanhamento, monitorização e controlo da atividade operativa realizada pelas equipas de reinserção social;\n\nb) Exercer as atividades da DGRSP que, por lei ou por decisão do diretor-geral, devam ser prosseguidas no âmbito regional e local, no âmbito da reinserção social;\n\nc) Assegurar a prática de atos de gestão corrente que não sejam próprios dos serviços centrais.\n\n3 - As delegações regionais de reinserção integram seis núcleos de apoio técnico, com a distribuição constante do anexo iii ao presente decreto-lei, do qual faz parte integrante.\n\n4 - As delegações regionais de reinserção integram as equipas de reinserção social, criadas por despacho do membro do Governo responsável pela área da justiça, sob proposta, não vinculativa, do diretor-geral.\n\n5 - As delegações regionais de reinserção são dirigidas por diretores, cargos de direção intermédia de 1.º grau, com as competências previstas no anexo ii ao presente decreto-lei, sem prejuízo das decorrentes de lei, ou que nele forem delegadas ou subdelegadas.\n\n6 - Os núcleos de apoio técnico são dirigidos por diretores, cargos de direção intermédia de 2.º grau, com as competências previstas no anexo ii ao presente decreto-lei, sem prejuízo das decorrentes de lei, ou que neles forem delegadas ou subdelegadas."
+  },
+  "1171941775": {
+   "fragment_id": "1171941675",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Cargos de coordenação nas áreas da reintegração social, vigilância eletrónica e centros educativos",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 15.º-A — Cargos de coordenação nas áreas da reintegração social, vigilância eletrónica e centros educativos\n\n1 - Para efeitos do exercício de funções de coordenação nas áreas da reintegração social, vigilância eletrónica e centros educativos, são criados os seguintes cargos de direção intermédia de 3.º grau:\n\na) Coordenador de equipa de reintegração social, hierárquica e funcionalmente dependente do respetivo diretor de delegação regional de reinserção;\n\nb) Coordenador de equipa de vigilância eletrónica, hierárquica e funcionalmente dependente do diretor da direção de serviços de vigilância eletrónica;\n\nc) Coordenador de centro educativo, hierárquica e funcionalmente dependente do diretor de centro educativo.\n\n2 - Compete aos titulares dos cargos referidos no número anterior:\n\na) Coordenar técnica e operacionalmente a respetiva equipa;\n\nb) Assegurar a distribuição equilibrada de processos e tarefas;\n\nc) Supervisionar a execução das atividades e a qualidade técnica das intervenções;\n\nd) Garantir a articulação com os tribunais, o Ministério Público, os serviços de reintegração e outras entidades;\n\ne) Promover a uniformização de procedimentos, partilha de boas práticas e desenvolvimento técnico da equipa;\n\nf) Reportar à direção da unidade orgânica e colaborar na implementação das orientações estratégicas definidas superiormente.\n\n> Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1171941975": {
+   "fragment_id": "204672302",
+   "type": 11,
+   "heading": "Artigo 16.º — Provimento de dirigentes de unidades orgânicas dos serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Provimento de dirigentes de unidades orgânicas dos serviços centrais\n\n1 - Os cargos de direção intermédia de 1.º e 2.º graus das unidades orgânicas dos serviços centrais são providos por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta, não vinculativa, do diretor-geral, de entre:\n\na) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício da função, com um mínimo de, respetivamente, seis ou quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura;\n\nb) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, que cumulativamente sejam licenciados há, pelo menos, seis anos ou quatro anos, respetivamente, e detenham experiência profissional relevante pelos mesmos períodos, dotados de reconhecida competência técnica, mérito e aptidão nas áreas de atuação da DGRSP.\n\n2 - Os cargos de direção intermédia de 1.º e 2.º graus, identificados no número anterior, são providos em comissão de serviço por um período de três anos, renovável por iguais períodos, sendo-lhes aplicável o disposto nos n.os 4 e 5 do artigo 5.º"
+  },
+  "1171942075": {
+   "fragment_id": "204672303",
+   "type": 11,
+   "heading": "Artigo 17.º — Provimento de diretor de centro educativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Provimento de diretor de centro educativo\n\n1 - O cargo de diretor de centro educativo é provido por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta não vinculativa do diretor-geral, de entre:\n\na) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício da função, com um mínimo de quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura;\n\nb) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, que cumulativamente sejam licenciados há, pelo menos, quatro anos e detenham experiência profissional relevante, dotados de reconhecida competência técnica, mérito e aptidão na área tutelar educativa.\n\n2 - O cargo de diretor de centro educativo é exercido em regime de comissão de serviço por três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.os 4 e 5 do artigo 5.º"
+  },
+  "1171942175": {
+   "fragment_id": "204672304",
+   "type": 11,
+   "heading": "Artigo 18.º — Provimento de diretor de estabelecimento prisional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Provimento de diretor de estabelecimento prisional\n\n1 - O cargo de diretor de estabelecimento ou de agrupamento prisional é provido por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta não vinculativa do diretor-geral, de entre:\n\na) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício da função referida no n.º 4 ou no n.º 5 do artigo 14.º, com um mínimo de seis anos ou quatro anos, respetivamente, de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura;\n\nb) Trabalhadores com relação jurídica de emprego público por tempo indeterminado, incluindo o pessoal da carreira do Corpo da Guarda Prisional, que cumulativamente e consoante se trate de estabelecimento prisional referido no n.º 4 ou no n.º 5 do artigo 14.º, sejam licenciados há, pelo menos, seis anos ou quatro anos, respetivamente, e detenham experiência profissional relevante pelos mesmos períodos, dotados de reconhecida competência técnica, mérito e aptidão na área prisional.\n\n2 - O cargo de diretor de estabelecimento prisional é exercido em regime de comissão de serviço por três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.os 4 e 5 do artigo 5.º"
+  },
+  "1171942275": {
+   "fragment_id": "204672305",
+   "type": 11,
+   "heading": "Artigo 19 — Provimento no cargo de diretor adjunto de estabelecimento prisional",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 19 — Provimento no cargo de diretor adjunto de estabelecimento prisional\n\n1 - O cargo de diretor adjunto de estabelecimento prisional é provido por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta não vinculativa do diretor-geral, de entre trabalhadores com relação jurídica de emprego público por tempo indeterminado, que cumulativamente, e consoante se trate de estabelecimento prisional referido no n.º 4 ou no n.º 5 do artigo 14.º, sejam licenciados há, pelo menos, seis anos ou quatro anos, respetivamente, e detenham experiência profissional relevante pelos mesmos períodos, dotados de reconhecida competência técnica, mérito e aptidão na área prisional.\n\n2 - Nos estabelecimentos prisionais em que sejam designados dois ou mais diretores adjuntos de estabelecimento prisional, pelo menos um dos designados deve, ainda, pertencer à carreira especial de técnico superior de reintegração social.\n\n3 - O cargo referido no n.º 1 é exercido em regime de comissão de serviço por um período de três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.os 4 e 5 do artigo 5.º\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1171942375": {
+   "fragment_id": "204672306",
+   "type": 11,
+   "heading": "Artigo 20.º — Provimento de diretor de delegação regional de reinserção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Provimento de diretor de delegação regional de reinserção\n\n1 - O cargo de diretor de delegação regional de reinserção é provido por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta não vinculativa do diretor-geral, de entre trabalhadores com relação jurídica de emprego público por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício da função, com um mínimo de seis anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura.\n\n2 - O cargo de diretor de delegação regional de reinserção é exercido em regime de comissão de serviço por três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.os 4 e 5 do artigo 5.º"
+  },
+  "1171942475": {
+   "fragment_id": "204672307",
+   "type": 11,
+   "heading": "Artigo 21.º — Provimento de diretor de núcleo de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Provimento de diretor de núcleo de apoio técnico\n\nO cargo de diretor de núcleo de apoio técnico é provido por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta não vinculativa do diretor-geral, de entre trabalhadores com relação jurídica de emprego público por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício da função, com um mínimo de quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício e provimento seja exigível uma licenciatura."
+  },
+  "1171944875": {
+   "fragment_id": "1171944775",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Provimento no cargo de coordenador de equipa e de centro educativo",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 21.º-A — Provimento no cargo de coordenador de equipa e de centro educativo\n\n1 - Os cargos de coordenador de equipa de reintegração social, de coordenador de equipa de vigilância eletrónica e de coordenador de centro educativo são providos por escolha, por despacho do membro do Governo responsável pela área da justiça, sob proposta não vinculativa do diretor-geral, de entre trabalhadores integrados na carreira especial de técnico superior de reintegração social, que sejam licenciados há, pelo menos, quatro anos e dotados de competência e aptidão para o exercício das funções de coordenação nas áreas da reintegração social, vigilância eletrónica e centros educativos, respetivamente.\n\n2 - Os cargos referidos no número anterior são exercidos em regime de comissão de serviço por um período de três anos, renovável por iguais períodos, sendo-lhe aplicável o disposto nos n.os 4 e 5 do artigo 5.º\n\n> Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1171947375": {
+   "fragment_id": "1171947275",
+   "type": 11,
+   "heading": "Artigo 21.º-B — Remuneração dos cargos de coordenador de equipa e de centro educativo",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2025-07-01, com efeitos a partir de 2026-09-21."
+   ],
+   "markdown": "###### Artigo 21.º-B — Remuneração dos cargos de coordenador de equipa e de centro educativo\n\nOs coordenadores, a que se refere artigo 15.º-A, auferem a remuneração base correspondente a 87,5 % da soma da remuneração base e despesas de representação fixadas para o cargo de direção intermédia de 2.º grau.\n\nArtigo 21.º-C\n\nRemuneração do cargo de diretor adjunto de estabelecimento prisional\n\nO diretor adjunto de estabelecimento prisional aufere a remuneração base correspondente a 87,5 % da soma da remuneração base e despesas de representação fixadas para o cargo de direção intermédia de 2.º grau.\n\n> Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2025-07-01, com efeitos a partir de 2026-09-21."
+  },
+  "1171947575": {
+   "fragment_id": "204672308",
+   "type": 11,
+   "heading": "Artigo 22.º — Estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Estatuto remuneratório dos chefes de equipas multidisciplinares\n\nAos chefes de equipas multidisciplinares é atribuído o estatuto remuneratório equiparado a dirigente intermédio de 1.º e 2.º graus, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a dirigente intermédio de 1.º grau ser atribuído a mais de duas equipas de chefia em simultâneo."
+  },
+  "1171947675": {
+   "fragment_id": "204672309",
+   "type": 11,
+   "heading": "Artigo 23.º — Cessação da comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cessação da comissão de serviço\n\n1 - À cessação da comissão de serviço dos cargos de direção intermédia de 1.º e 2.º graus é aplicável o disposto no n.º 3 do artigo 6.º\n\n2 - Quando a cessação da comissão de serviço dos cargos dirigentes da DGRSP se fundamente na extinção ou reorganização da unidade orgânica ou na necessidade de imprimir nova orientação à gestão dos serviços, é aplicável o disposto no artigo 26.º da Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64/2011, de 22 de dezembro."
+  },
+  "1171947775": {
+   "fragment_id": "204672310",
+   "type": 11,
+   "heading": "Artigo 24.º — Designação em substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Designação em substituição\n\n1 - Os cargos de direção podem ser exercidos em regime de substituição, nos casos de ausência ou impedimento do respetivo titular, quando se preveja que estes condicionalismos persistam por mais de 60 dias ou em caso de vacatura do lugar.\n\n2 - A designação em regime de substituição é feita pelo membro do Governo responsável pela área da justiça, devendo ser observados todos os requisitos legais exigidos para o provimento do cargo.\n\n3 - A substituição cessa na data em que o titular retome funções ou passados 90 dias sobre a data da vacatura do lugar, salvo se estiverem em curso diligências tendentes à designação de novo titular.\n\n4 - A substituição pode ainda cessar, a qualquer momento, por decisão da entidade competente ou a pedido do substituto, logo que deferido.\n\n5 - O período de substituição conta, para todos os efeitos legais, como tempo de serviço prestado no cargo anteriormente ocupado, bem como no lugar de origem.\n\n6 - O substituto tem direito à totalidade das remunerações e demais abonos e regalias atribuídos pelo exercício do cargo do substituído, independentemente da libertação das respetivas verbas por este, sendo os encargos suportados pelas correspondentes dotações orçamentais."
+  },
+  "1171947875": {
+   "fragment_id": "204672311",
+   "type": 11,
+   "heading": "Artigo 25.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Salvaguarda de direitos\n\n1 - Os titulares de cargos dirigentes da DGRSP gozam, independentemente do seu vínculo de origem, dos direitos gerais reconhecidos aos trabalhadores em funções públicas da DGRSP.\n\n2 - O pessoal dirigente conserva o direito ao lugar de origem e ao regime de proteção social porque está abrangido, não podendo ser prejudicado na sua carreira profissional por causa do exercício daquelas funções, relevando para todos os efeitos no lugar de origem o tempo de serviço prestado naquele cargo."
+  },
+  "1171947975": {
+   "fragment_id": "204672312",
+   "type": 11,
+   "heading": "Artigo 26.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Remunerações\n\n1 - O pessoal dirigente da DGRSP aufere a remuneração base anualmente fixada para o pessoal dirigente dos serviços e organismos da administração central do Estado.\n\n2 - O pessoal dirigente da DGRSP pode, mediante autorização expressa no despacho de designação, optar pelo vencimento ou retribuição base da sua função, cargo ou categoria de origem, não podendo, todavia, exceder, em caso algum, o vencimento base do Primeiro-Ministro.\n\n3 - O disposto nos n.os 7 e 8 do artigo 31.º da Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64/2011, de 22 de dezembro, é aplicável ao pessoal dirigente da DGRSP."
+  },
+  "1171949875": {
+   "fragment_id": "1171949775",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Suplemento remuneratório pelo risco associado ao exercício de cargos dirigentes",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2025-07-01, com efeitos a partir de 2026-09-21."
+   ],
+   "markdown": "###### Artigo 26.º-A — Suplemento remuneratório pelo risco associado ao exercício de cargos dirigentes\n\n1 - Pelo exercício de cargos dirigentes na DGRSP é atribuído, nos termos do disposto nos números seguintes, um suplemento remuneratório, pago em 12 meses para compensação do risco inerente ao desempenho dos respetivos cargos.\n\n2 - O suplemento pelo exercício de cargos dirigentes na DGRSP corresponde aos seguintes montantes:\n\na) Cargo de direção superior de 1.º grau: 875,00 €;\n\nb) Cargo de direção superior de 2.º grau: 90 % do valor atribuído ao cargo de direção superior de 1.º grau;\n\nc) Cargo de direção intermédia de 1.º grau: 70 % do valor atribuído ao cargo de direção superior de 1.º grau;\n\nd) Cargo de direção intermédia de 2.º grau: 60 % do valor atribuído ao cargo de direção superior de 1.º grau;\n\ne) Cargo de direção intermédia de 3.º grau: 50 % do valor atribuído ao cargo de direção superior de 1.º grau.\n\n3 - O suplemento a que se refere o presente artigo é atualizável pelo aumento de referência anual para a Administração Pública.\n\n4 - O disposto nos números anteriores não prejudica a manutenção do direito dos dirigentes que, à data da entrada em vigor do presente decreto-lei, se encontravam a auferir suplemento de risco ou ónus de função de valor superior, sendo o valor remanescente pago como adicional, enquanto se mantiverem no exercício das respetivas funções.\n\n> Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2025-07-01, com efeitos a partir de 2026-09-21."
+  },
+  "1171951875": {
+   "fragment_id": "1171951775",
+   "type": 11,
+   "heading": "Artigo 26.º-B — Suplemento remuneratório pelo risco associado ao exercício de funções por trabalhadores das carreiras especiais e gerais",
+   "in_force_from": "2026-09-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+   ],
+   "markdown": "###### Artigo 26.º-B — Suplemento remuneratório pelo risco associado ao exercício de funções por trabalhadores das carreiras especiais e gerais\n\n1 - Aos trabalhadores integrados em carreiras gerais ou especiais a exercer funções na DGRSP, é atribuído, nos termos do disposto nos números seguintes, um suplemento remuneratório, pago em 12 meses, para compensação do risco inerente ao desempenho das respetivas funções.\n\n2 - Aos trabalhadores integrados em carreiras especiais, o suplemento remuneratório é fixado no montante de 225,00 €.\n\n3 - Aos trabalhadores integrados em carreiras gerais, o suplemento remuneratório é fixado nos seguintes montantes:\n\na) Carreira geral de técnico superior: 200,00 €;\n\nb) Carreira geral de assistente técnico: 140,00 €;\n\nc) Carreira geral de assistente operacional: 120,00 €.\n\n4 - O suplemento a que se refere o presente artigo é atualizável pelo aumento de referência anual para a Administração Pública.\n\n5 - O disposto nos números anteriores não prejudica a manutenção do direito dos trabalhadores que, à data da entrada em vigor do presente decreto-lei, se encontravam a auferir suplemento de risco ou ónus de função de valor superior, sendo o valor remanescente pago como adicional, enquanto se mantiverem no exercício das respetivas funções.\n\n6 - O disposto no presente artigo não é aplicável aos trabalhadores que integram o corpo da guarda prisional, cujos suplementos remuneratórios constam de diploma próprio.\n\n> Aditado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 187/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2026-1171382774), em vigor a partir de 2026-09-21, com efeitos a partir de 2025-07-01."
+  },
+  "1171952075": {
+   "fragment_id": "204672313",
+   "type": 11,
+   "heading": "Artigo 27.º — Despesas de representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Despesas de representação\n\nOs titulares de cargos de direção da DGRSP têm direito ao abono de despesas de representação, nos termos previstos para o pessoal dirigente dos serviços e organismos da administração central do Estado, por equiparação aos respetivos cargos de direção superior e de direção intermédia de 1.º e 2.º graus."
+  },
+  "1171952175": {
+   "fragment_id": "204672314",
+   "type": 11,
+   "heading": "Artigo 28.º — Corpo da Guarda Prisional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Corpo da Guarda Prisional\n\n1 - O Corpo da Guarda Prisional, hierarquicamente dependente do diretor-geral, é a força de segurança que tem por missão garantir a segurança e tranquilidade da comunidade, designadamente mantendo a ordem e a segurança do sistema prisional, protegendo a vida e a integridade dos cidadãos em cumprimento de pena e medidas privativas da liberdade, e assegurando o respeito pelo cumprimento da lei e das decisões judiciais, bem como pelos direitos e liberdades fundamentais.\n\n2 - O Grupo de Intervenção e Segurança Prisional, criado no âmbito do Corpo da Guarda Prisional, é um agrupamento de operações especiais, à ordem do diretor-geral, especialmente preparado para:\n\na) Adotar ações preventivas ou repressivas antidistúrbio nos estabelecimentos prisionais;\n\nb) Tomar medidas protetivas de escolta a reclusos perigosos ou de alto risco;\n\nc) Efetuar remoções de reclusos, designadamente as de longa distância;\n\nd) Assegurar a condução das viaturas oficiais em que é transportada a direção superior.\n\n3 - O Grupo Operacional Cinotécnico, criado no âmbito do Corpo da Guarda Prisional, é a unidade especialmente preparada para a utilização de canídeos em patrulha, manutenção ou reposição da ordem prisional e deteção de substâncias e objetos ilícitos.\n\n4 - Na DGRSP funciona um centro de comunicações, que assegura o normal funcionamento das redes de comunicações e a manutenção dos meios complementares de segurança, e cujas funções técnicas são exercidas por pessoal do Corpo da Guarda Prisional."
+  },
+  "1171952275": {
+   "fragment_id": "204672315",
+   "type": 11,
+   "heading": "Artigo 29.º — Receitas",
+   "in_force_from": "2025-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Receitas\n\n1 - A DGRSP dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A DGRSP dispõe ainda das seguintes receitas:\n\na) As transferências do IGFEJ, I. P.;\n\nb) As quantias que resultem da venda de bens e serviços gerados no sistema prisional e nos centros educativos, com origem no funcionamento das explorações económicas;\n\nc) Uma percentagem sobre as remunerações a pagar pelos dadores de trabalho prisional, quando devida, até ao valor da taxa social única, a fixar por despacho do membro do Governo responsável pela área da justiça;\n\nd) O produto da venda de publicações e de outros produtos comercializáveis, bem como da prestação de serviços;\n\ne) Os rendimentos dos bens que, a qualquer título, se encontrem na sua posse;\n\nf) As verbas provenientes das receitas resultantes da elaboração de perícias, relatórios, informações sociais, audições e outras diligências ou documentos que lhes forem requeridos pelas autoridades judiciárias;\n\ng) As quantias respeitantes às contrapartidas financeiras resultantes da celebração de contratos de concessão ou outros de natureza idêntica;\n\nh) O produto da locação de instalações e equipamentos afetos à DGRSP;\n\ni) Os donativos, subsídios e comparticipações, bem como heranças, legados e doações instituídos a seu favor e destinados à melhoria das condições dos reclusos e jovens;\n\nj) 20 % das receitas de bens declarados perdidos a favor do Estado, calculados sobre os valores apurados nos termos da alínea c) do n.º 1 do artigo 39.º do Decreto-Lei n.º 15/93, de 22 de janeiro, na redação dada pela Lei n.º 45/96, de 3 de setembro;\n\nk) 50 % dos valores e do produto da venda de objetos apreendidos em processo penal não abrangidos pelo disposto na alínea anterior;\n\nl) Os espólios de jovens internados e de reclusos, não reclamados no prazo de um ano, ou declarados perdidos a favor do Estado, nos termos da lei, incluindo os saldos das remunerações e outras receitas, afetas à constituição de fundos, após avaliação e venda de objetos pela DGRSP;\n\nm) Os lucros provenientes da exploração de cantinas, refeitórios, messes, bares e similares;\n\nn) Os valores referentes a correspondência e comunicações telefónicas efetuadas e pagas pelos reclusos, nos termos regulamentares, aprovados pelo diretor-geral;\n\no) Os valores referentes a comunicações telefónicas efetuadas e pagas pelos trabalhadores, nos termos regulamentares, aprovados pelo diretor-geral;\n\np) As quantias provenientes de indemnizações por danos causados pelos reclusos, nos termos em que esteja regulamentado;\n\nq) As rendas das casas de função;\n\nr) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n3 - As receitas referidas no número anterior são consignadas à realização de despesas decorrentes do normal funcionamento da DGRSP durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.\n\n4 - As receitas referidas nas alíneas b) e c) do n.º 2 são consignadas, prioritariamente, aos encargos com a exploração das atividades económicas da DGRSP, investimentos em equipamentos e instalações, formação profissional e indemnizações e encargos derivados de acidentes de trabalho dos reclusos e dos jovens internados em centro educativo.\n\n5 - (Revogado.)\n\n6 - As quantias cobradas pela DGRSP são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da justiça, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.\n\n> Alterado pelo/a Artigo 160.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+  },
+  "1171952375": {
+   "fragment_id": "204672316",
+   "type": 11,
+   "heading": "Artigo 30.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Despesas\n\nConstituem despesas da DGRSP as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "1171952475": {
+   "fragment_id": "204672317",
+   "type": 11,
+   "heading": "Artigo 31.º — Residência obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Residência obrigatória\n\n1 - Têm residência obrigatória junto dos estabelecimentos prisionais os diretores, os adjuntos, os médicos e enfermeiros, o pessoal do Corpo da Guarda Prisional, os coordenadores técnicos, os assistentes técnicos com funções de tesoureiro e os assistentes operacionais que ocupem postos de trabalho de cozinheiro, de fogueiro, de eletricista e de auxiliar de ação médica.\n\n2 - O pessoal do Grupo de Intervenção e Segurança Prisional e do Grupo Operacional Cinotécnico está também sujeito a residência obrigatória junto das respetivas unidades orgânicas.\n\n3 - A obrigatoriedade de residência junto dos estabelecimentos prisionais pode ser alargada a outros trabalhadores, por despacho do membro do Governo responsável pela área da justiça, sob proposta fundamentada do diretor-geral."
+  },
+  "1171952575": {
+   "fragment_id": "204672318",
+   "type": 11,
+   "heading": "Artigo 32.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Patrocínio judiciário\n\nAos trabalhadores da DGRSP pode ser facultado, nos termos da lei, pelos serviços jurídicos do Ministério da Justiça, o patrocínio judiciário em processos decorrentes do exercício das respetivas funções."
+  },
+  "1171952675": {
+   "fragment_id": "204672319",
+   "type": 11,
+   "heading": "Artigo 33.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regime transitório\n\n1 - Até à publicação da portaria prevista no n.º 2 do artigo 14.º, o diretor de estabelecimento prisional de nível de segurança especial ou alta e grau de complexidade de gestão elevado é coadjuvado por três adjuntos e o diretor de estabelecimento prisional de nível de segurança alta ou média e grau de complexidade de gestão médio é coadjuvado por um adjunto.\n\n2 - Até à publicação da portaria prevista no n.º 2 do artigo 14.º, o diretor de estabelecimento prisional com gestão partilhada público-privada é coadjuvado por dois adjuntos.\n\n3 - Até à entrada em vigor da portaria prevista no n.º 2 do artigo 14.º, os diretores de estabelecimento prisional detêm as competências previstas no anexo ii ao presente decreto-lei."
+  },
+  "1171952775": {
+   "fragment_id": "204672320",
+   "type": 11,
+   "heading": "Artigo 34.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Sucessão\n\nA DGRSP sucede nas atribuições da Direção-Geral dos Serviços Prisionais e da Direção-Geral de Reinserção Social."
+  },
+  "1171952875": {
+   "fragment_id": "204672321",
+   "type": 11,
+   "heading": "Artigo 35.º — Critérios de seleção do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Critérios de seleção do pessoal\n\nSão fixados os seguintes critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições da DGRSP:\n\na) O desempenho de funções na Direção-Geral de Reinserção Social diretamente relacionadas com as atribuições transferidas, ou em áreas de apoio correspondentes às existentes na DGRSP;\n\nb) O desempenho de funções na Direção-Geral dos Serviços Prisionais diretamente relacionadas com as atribuições transferidas, ou em áreas de apoio correspondentes às existentes na DGRSP."
+  },
+  "1171952975": {
+   "fragment_id": "204672322",
+   "type": 11,
+   "heading": "Artigo 36.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Normas transitórias\n\n1 - Mantém-se em vigor o capítulo v, o artigo 79.º e os anexos ii e iii ao Decreto-Lei n.º 204-A/2001, de 26 de julho, alterado pelos Decretos-Leis n.os 95/2002, de 12 de abril, 229/2005, de 29 de dezembro, 126/2007, de 27 de abril, e 121/2008, de 11 de julho, com as adaptações decorrentes da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pela Lei n.º 64-A/2008, de 31 de dezembro, pelo Decreto-Lei n.º 269/2009, de 30 de setembro, e pelas Leis n.os 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, e da Lei n.º 59/2008, de 11 de setembro, alterada pelo Decreto-Lei n.º 124/2010, de 17 de novembro, e pelas Leis n.os 3-B/2010, de 28 de abril, e 64-B/2011, de 31 de dezembro, e demais legislação conexa, bem como os artigos 87.º, 88.º e 92.º do Decreto-Lei n.º 204/83, de 20 de maio.\n\n2 - Mantém-se em vigor o disposto no artigo 1.º do Decreto Regulamentar n.º 38/82, de 7 de julho, alterado pelos Decretos-Leis n.os 300/91, de 16 de agosto, 237/97, de 8 de setembro, 75/2005, de 4 de abril, e 229/2005, de 29 de dezembro, e o disposto nos n.os 6 a 8 do artigo 67.º do Decreto-Lei n.º 204-A/2001, de 26 de julho, alterado pelos Decretos-Leis n.os 95/2002, de 12 de abril, 229/2005, de 29 de dezembro, 126/2007, de 27 de abril, e 121/2008, de 11 de julho, até à revisão prevista no artigo 112.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pela Lei n.º 64-A/2008, de 31 de dezembro, pelo Decreto-Lei n.º 269/2009, de 30 de setembro, e pelas Leis n.os 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, e 64-B/2011, de 30 de dezembro.\n\n3 - Mantém-se em vigor o disposto nos n.os 2 e 3 do artigo 9.º do Decreto-Lei n.º 351/99, de 3 de setembro, alterado pelos Decretos-Leis n.os 89/2003, de 26 de abril, e 125/2007, de 27 de abril, até à entrada em vigor da portaria a que se refere o n.º 1 do artigo 10.º da Lei n.º 115/2009, de 12 de outubro, alterada pelas Leis n.os 33/2010, de 2 de setembro, e 40/2010, de 3 de setembro, e subsequente designação em comissão de serviço dos diretores de estabelecimento prisional."
+  },
+  "1171953075": {
+   "fragment_id": "204672323",
+   "type": 11,
+   "heading": "Artigo 37.º — Normas finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Normas finais\n\n1 - Do disposto no número anterior não pode resultar sobreposição no pagamento de suplementos aos titulares dos cargos dirigentes da DGRSP, aplicando-se aos cargos dirigentes que, por efeitos da presente fusão, venham a ter correspondência na orgânica da DGRSP, os suplementos remuneratórios a que teriam direito nos respetivos serviços extintos.\n\n2 - Não pode, igualmente, resultar sobreposição no pagamento de suplementos aos demais trabalhadores das extintas Direção-Geral de Reinserção Social e Direção-Geral dos Serviços Prisionais que, por efeitos da sua fusão, sejam reafetos à DGRSP, devendo continuar a ser abonados nos termos em que o vinham sendo naqueles serviços à data da reafetação.\n\n3 - Aos dirigentes superiores de 1.º e 2.º graus e aos dirigentes intermédios de 1.º e 2.º graus que exerçam funções nos serviços centrais da DGRSP é abonado o suplemento previsto no artigo 1.º do Decreto Regulamentar n.º 38/82, de 7 de julho, alterado pelos Decretos-Leis n.os 300/91, de 16 de agosto, 237/97, de 8 de setembro, 75/2005, de 4 de abril, e 229/2005, de 29 de dezembro.\n\n4 - O tempo de serviço prestado por diretor de estabelecimento prisional, após a entrada em vigor do Decreto-Lei n.º 351/99, de 3 de setembro, até 31 de dezembro de 2010, conta para a promoção na carreira em que o trabalhador se encontra integrado, em função do número de anos de exercício continuado naquelas funções.\n\n5 - Durante a vigência do Programa de Assistência Económica e Financeira, da aplicação das regras estabelecidas no presente artigo não pode resultar um aumento da remuneração efetivamente paga aos dirigentes, designados ou a designar, e demais trabalhadores abrangidos, tendo por referência a remuneração atribuída à data de entrada em vigor do presente decreto-lei."
+  },
+  "1171953175": {
+   "fragment_id": "204672324",
+   "type": 11,
+   "heading": "Artigo 38.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 351/99, de 3 de setembro, alterado pelos Decretos-Leis n.os 89/2003, de 26 de abril, e 125/2007, de 27 de abril, com exceção dos artigos 1.º a 8.º e do n.º 1 do artigo 10.º, sem prejuízo do disposto no n.º 3 do artigo 36.º;\n\nb) O Decreto-Lei n.º 125/2007, de 27 de abril;\n\nc) O Decreto-Lei n.º 126/2007, de 27 de abril."
+  },
+  "1171953275": {
+   "fragment_id": "204672325",
+   "type": 11,
+   "heading": "Artigo 39.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "1171953375": {
+   "fragment_id": "204672326",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de julho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz.\n\nPromulgado em 23 de setembro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de setembro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "1171953475": {
+   "fragment_id": "204672327",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 10.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "1171953575": {
+   "fragment_id": "204672328",
+   "type": 14,
+   "heading": "Anexo II — (a que se referem os n.os 1 e 2 do artigo 11.º, 5 e 6 do artigo 15.º e 3 do artigo 33.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se referem os n.os 1 e 2 do artigo 11.º, 5 e 6 do artigo 15.º e 3 do artigo 33.º)\n\na) Definir os objetivos de atuação da unidade orgânica que dirigem, tendo em conta os objetivos gerais estabelecidos.\n\nb) Orientar, controlar e avaliar o desempenho e a eficiência dos serviços dependentes, com vista à execução dos planos de atividades e à prossecução dos resultados obtidos e a alcançar.\n\nc) Garantir a coordenação das atividades e a qualidade técnica da prestação dos serviços na sua dependência.\n\nd) Gerir com rigor e eficiência os recursos humanos, patrimoniais e tecnológicos afetos à sua unidade orgânica, otimizando os meios e adotando medidas que permitam simplificar e acelerar procedimentos e promover a aproximação à sociedade e a outros serviços públicos.\n\ne) Autorizar o exercício de funções a tempo parcial.\n\nf) Justificar ou injustificar faltas.\n\ng) Autorizar o gozo e a acumulação de férias e aprovar o respetivo plano anual.\n\nh) Autorizar o abono do vencimento de exercício perdido por motivo de doença.\n\ni) Autorizar a inscrição e participação do pessoal em congressos, reuniões, seminários, colóquios, cursos de formação em regime de autoformação ou outras iniciativas semelhantes que decorram em território nacional quando não importem custos para o serviço.\n\nj) Autorizar o pessoal a comparecer em juízo quando requisitado nos termos da lei de processo.\n\nk) Efetuar o acompanhamento profissional no local de trabalho, apoiando e motivando os trabalhadores em funções públicas e proporcionando-lhes os adequados conhecimentos e aptidões profissionais necessários ao exercício do respetivo posto de trabalho, bem como os procedimentos mais adequados ao incremento da qualidade do serviço a prestar.\n\nl) Divulgar junto dos trabalhadores em funções públicas os documentos internos e as normas de procedimento a adotar pelo serviço, bem como debater e esclarecer as ações a desenvolver para cumprimento dos objetivos do serviço, de forma a garantir o empenho e a assunção de responsabilidades por parte dos trabalhadores em funções públicas.\n\nm) Proceder de forma objetiva à avaliação do mérito dos trabalhadores em funções públicas, em função dos resultados individuais e de grupo e à forma como cada um se empenha na prossecução dos objetivos e no espírito de equipa.\n\nn) Identificar as necessidades de formação específica dos trabalhadores em funções públicas da sua unidade orgânica e propor a frequência das ações de formação consideradas adequadas ao suprimento das referidas necessidades, sem prejuízo do direito à autoformação.\n\no) Proceder ao controlo efetivo da assiduidade, pontualidade e cumprimento do período normal de trabalho por parte dos trabalhadores em funções públicas da sua unidade orgânica.\n\np) Autorizar a passagem de certidões de documentos arquivados na respetiva unidade orgânica, exceto quando contenham matéria confidencial ou reservada, bem como a restituição de documentos aos interessados."
+  },
+  "1171953675": {
+   "fragment_id": "204672329",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 3 do artigo 15.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 3 do artigo 15.º)\n\nDelegação Regional de Reinserção do Norte - um;\n\nDelegação Regional de Reinserção do Centro - um;\n\nDelegação Regional de Reinserção do Sul e Ilhas - quatro."
+  }
+ }
+}

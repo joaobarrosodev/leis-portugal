@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:420776:por
+title: Portaria n.º 1257/97
+short_title: null
+summary: Aprova a tabela de preços a pagar pelas entidades interessadas, públicas ou privadas e cooperativas, para a inscrição
+  e permanência de uma variedade no Catálogo Nacional de Variedades (CNV). Revova as Portarias n.os 844/85, de 8 de Novembro,
+  e 43/92, de 24 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 1257/97
+official_date: null
+publication_date: '1997-12-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 292/1997, Série I-B de 1997-12-19
+  number: '292'
+  series: I
+  supplement: null
+  pages: 6708 - 6708
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/12/292b00/67086708.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1257/1997/12/19/p/dre/pt/html
+  oj: null
+  dre: '420776'
+  dre_path: /dr/detalhe/portaria/1257-1997-420776
+  internal: pt:dre:420776:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1257-1997-420776
+  metadata_url: https://data.dre.pt/eli/port/1257/1997/12/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1257-1997-420776
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:00:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 77f8fd3450229efb30a47573a546d01c3603859f28191542e292cdc9d6e750c4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:00:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Catálogo Nacional de Variedades
+- Preço
+- Produto Agrícola
+- Produto Hortícola
+relationships:
+- type: amended_by
+  target: pt:dre:264144:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:531450:por
+  label: "Mantida em vigor pelo DEC LEI.268/2000.24.10.2000.MADRP, DR.IS-A [246] de 24.10.2000, até à publicação da portaria\
+    \ a que se refere o artigo 17.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-2000-531450
+  date: '2000-10-24'
+- type: cites
+  target: pt:dre:144867:por
+  label: null
+  source: http://data.dre.pt/eli/port/43/1992/01/24/p/dre
+- type: cites
+  target: pt:dre:171545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301582:por
+  label: null
+  source: http://data.dre.pt/eli/port/491/1992/06/15/p/dre
+- type: cites
+  target: pt:dre:674061:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/301/1991/08/16/p/dre
+- type: repealed_by
+  target: pt:dre:264144:por
+  label: "Revogada pela PORT.288/2002.2002.03.18.MF DR.IS-B [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-2002-264144
+  date: '2002-03-18'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:00:33Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1257/97
+
+de 19 de Dezembro
+
+O [Decreto-Lei n.º 301/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1991-674061), de 16 de Agosto, estabelece o regime geral do Catálogo Nacional de Variedades (CNV), dispondo o seu artigo 7.º que sejam fixadas taxas de montante a fixar por portaria do Ministro da Agricultura, Pescas e Alimentação pelos actos relativos à inscrição e manutenção de espécies no Catálogo Nacional de Variedades.
+
+A [Portaria n.º 491/92](https://diariodarepublica.pt/dr/detalhe/portaria/491-1992-301582), de 9 de Junho, aprovou o Regulamento Técnico de Inscrição no Catálogo Nacional de Variedades de Espécies Agrícolas e no Catálogo Nacional de Variedades de Espécies Hortícolas, prevendo os diversos actos a realizar para essa inscrição.
+
+A fim de dar cumprimento ao artigo 7.º do [Decreto-Lei n.º 301/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1991-674061), estipulam-se nesta portaria os preços a pagar pela inscrição de variedades no Catálogo Nacional de Variedades à Direcção-Geral de Protecção das Culturas.
+
+Nestes termos:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no artigo 7.º do [Decreto-Lei n.º 301/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1991-674061), de 16 de Agosto, o seguinte:
+
+1.º Os preços a pagar pelas entidades interessadas, públicas ou privadas e cooperativas, para a inscrição e permanência de uma variedade no Catálogo Nacional de Variedades (CNV) são os constantes da tabela anexa à presente portaria.
+
+2.º A desistência do pedido de inscrição de uma variedade no CNV após a sua aceitação pela Direcção-Geral de Protecção das Culturas não dispensa a entidade proponente do pagamento do quantitativo estipulado na mesma tabela.
+
+3.º Uma parte, a determinar anualmente, das quantias provenientes dos ensaios referidos no n.º 2 da referida tabela será atribuída às direcções regionais de agricultura, sendo a sua distribuição feita na proporção do número e validade dos ensaios que por estas tenham sido realizados.
+
+4.º Tendo em consideração o custo dos materiais e remunerações, o valor atribuído a cada ponto é de 1$35, a actualizar periodicamente em função das despesas inerentes.
+
+5.º São revogadas as Portarias n.os [844/85](https://diariodarepublica.pt/dr/detalhe/portaria/844-1985-171545), de 8 de Novembro, e [43/92](https://diariodarepublica.pt/dr/detalhe/portaria/43-1992-144867), de 24 de Janeiro.
+
+6.º Este diploma entra imediatamente em vigor.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+Assinada em 26 de Novembro de 1997.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.
+
+## ANEXO — Tabela de preços para a inscrição de variedades no Catálogo Nacional de Variedades (CNV)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/292b00/67086708.pdf)

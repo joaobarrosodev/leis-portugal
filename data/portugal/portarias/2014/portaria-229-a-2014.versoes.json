@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:58801098:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-152512140",
+ "dre_path": "/dr/detalhe/portaria/229-a-2014-58801098",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "152423340",
+    "152423341",
+    "152423342",
+    "152423343",
+    "152423344",
+    "152423345",
+    "152423346",
+    "152423347",
+    "152423348"
+   ]
+  },
+  {
+   "date": "2020-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152531791:por",
+     "title": "Portaria n.º 308-A/2020",
+     "published": "2020-12-30",
+     "dre_path": "/dr/detalhe/portaria/308-a-2020-152531791"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "152423340",
+    "152423341",
+    "152423342",
+    "152423354",
+    "152423355",
+    "152423345",
+    "152423346",
+    "152423347",
+    "152423348",
+    "152423349"
+   ]
+  }
+ ],
+ "fragments": {
+  "152423340": {
+   "fragment_id": "152512141",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 229-A/2014\n\nde 6 de novembro\n\nNo seguimento do Despacho n.º 7/2011, proferido em 18 de abril de 2011 por Sua Excelência a Ministra do Ambiente e do Ordenamento do Território, a Comissão de Coordenação e Desenvolvimento Regional do Norte (CCDR-N) foi incumbida de atuar em nome do Estado Português, com vista à remoção do passivo ambiental resultante dos resíduos depositados nas Escombreiras das Antigas Minas de S. Pedro da Cova (Gondomar).\n\nEsta atuação com vista à proteção do ambiente e da saúde humana está prevista no n.º 2 do Artigo 69.º do Decreto-Lei n.º 178/2006, de 5 de setembro, alterado e republicado pelo Decreto-Lei n.º 73/2011, de 17 de junho.\n\nA CCDR-N está a atuar diretamente em nome do infrator como interlocutor da Administração Central do Estado Português com vista à preservação da saúde humana e do ambiente, enquanto decorre o apuramento da responsabilidade dos agentes que para ela contribuíram e que deverão assumir os custos com a reparação dos danos ambientais causados.\n\nA CCDR-N promoveu um concurso público internacional para remoção do passivo de resíduos perigosos (estimado em cerca de 88.000 toneladas) com financiamento comunitário ao abrigo Programa Operacional Valorização do Território (POVT).\n\nEstá previsto como tratamento final, a deposição desses resíduos em aterro, operação pela qual é devida uma Taxa de Gestão de Resíduos (TGR), de acordo com o artigo 58.º do Decreto-Lei n.º 178/2006, de 5 de setembro, alterado e republicado pelo Decreto-Lei n.º 73/2011, de 17 de junho. Para a quantidade prevista, essa taxa corresponderá a uma despesa de cerca 570 mil euros que o sujeito passivo deve repercutir na CCDR-N simultaneamente com o pagamento de tarifas e prestações financeiras que lhe são devidas.\n\nTorna-se necessário não inviabilizar a urgente remoção e encaminhamento para destino adequado dos resíduos, por uma situação que reflete a mera transferência de saldos dentro do orçamento do próprio Estado.\n\nAssim, manda o Governo, pelo Secretário de Estado do Ambiente, ao abrigo da competência que lhe foi delegada pelo Ministro do Ambiente, Ordenamento do Território e Energia, constante da subalínea iii) da alínea b) do n.º 1 do Despacho n.º 13322/2013, de 11 de outubro, o seguinte:"
+  },
+  "152423341": {
+   "fragment_id": "152512142",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece um regime excecional aplicável à remoção dos resíduos depositados nas Escombreiras das Antigas Minas de S. Pedro da Cova (Gondomar), no âmbito de contrato celebrado entre a CCDR-N e a ECODEAL - Gestão Integral de Resíduos Industriais, S. A., para a aquisição de serviços com esse fim."
+  },
+  "152423342": {
+   "fragment_id": "152512143",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime excecional\n\nOs resíduos referidos no artigo 1.º que sejam submetidos a uma operação de tratamento sujeita a TGR são objeto de derrogação ao previsto no artigo 8.º da Portaria n.º 72/2010, de 4 de fevereiro."
+  },
+  "152423343": {
+   "fragment_id": "152512144",
+   "type": 11,
+   "heading": "Artigo 3.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Funcionamento\n\n1 - O sujeito passivo poderá aceitar no pagamento das tarifas e prestações financeiras o diferimento do pagamento do valor da TGR devida pela CCDR-N.\n\n2 - Enquanto o sujeito passivo não receber o valor em falta da CCDR-N, está dispensado de efetuar a transferência da fração de TGR devida sobre estes resíduos à Autoridade Nacional de Resíduos (ANR).\n\n3 - Enquanto a ANR não receber a transferência do sujeito passivo está dispensada de efetuar a transferência da percentagem que cabe à Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT)."
+  },
+  "152423344": {
+   "fragment_id": "152512145",
+   "type": 11,
+   "heading": "Artigo 4.º — Cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cobrança\n\n1 - Após a efetivação da cobrança coerciva prevista no n.º 2 do artigo 69.º do Decreto-Lei n.º 178/2006, de 5 de setembro na sua redação atual, a CCDR-N deverá efetuar o pagamento da taxa devida ao sujeito passivo no prazo de 30 dias.\n\n2 - No caso de decisão judicial que comprometa a efetivação da cobrança coerciva, ou conclusão da não possibilidade do apuramento da responsabilidade, a CCDR-N deverá efetuar o pagamento da taxa no prazo de um ano.\n\n3 - A CCDR-N deverá manter a ANR informada dos desenvolvimentos quanto ao pagamento da TGR."
+  },
+  "152423345": {
+   "fragment_id": "152512146",
+   "type": 11,
+   "heading": "Artigo 5.º — Reposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reposição\n\n1 - A ANR procederá à liquidação do valor da taxa no momento de liquidação seguinte previsto ao do pagamento referido no artigo anterior.\n\n2 - O pagamento pelo sujeito passivo à ANR, decorrerá nos termos do artigo 5.º da Portaria n.º 72/2010, de 4 de fevereiro.\n\n3 - A transferência da ANR à IGAMAOT decorrerá nos termos do artigo 12.º da Portaria n.º 72/2010, de 4 de fevereiro."
+  },
+  "152423346": {
+   "fragment_id": "152512147",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo de resíduos\n\n1 - As entidades que vierem a efetuar a deposição em aterro dos resíduos referido no artigo 1.º efetuam o normal reporte de todos os resíduos tratados, nomeadamente através do preenchimento do Mapa Integrado de Registo de Resíduos (MIRR), Registo de Emissões e Transferências de Poluentes (PRTR) ou Relatório Ambiental Anual (RAA).\n\n2 - Adicionalmente, essas entidades comunicam adicionalmente à ANR, através de ofício registado até 31 de março de cada ano, a quantidade discriminada de resíduos que depositaram em aterro no ano anterior com origem nos resíduos referidos no artigo 1.º"
+  },
+  "152423347": {
+   "fragment_id": "152512148",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nO regime previsto na presente portaria vigora até à conclusão dos trabalhos de remoção dos resíduos depositados nas Escombreiras das Antigas Minas de S. Pedro da Cova."
+  },
+  "152423348": {
+   "fragment_id": "152512149",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "152423354": {
+   "fragment_id": "152512144",
+   "type": 11,
+   "heading": "Artigo 3.º — Funcionamento",
+   "in_force_from": "2020-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 308-A/2020 - Diário da República n.º 252/2020, 1º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/308-a-2020-152531791), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 3.º — Funcionamento\n\n1 - O sujeito passivo poderá aceitar na liquidação e pagamento das tarifas e prestações financeiras o diferimento da liquidação do valor da TGR devida pela CCDR-N.\n\n2 - Enquanto o sujeito passivo não receber o valor em falta da CCDR-N, está dispensado de efetuar a transferência da fração de TGR devida sobre estes resíduos à Autoridade Nacional de Resíduos (ANR).\n\n3 - Enquanto a ANR não receber a transferência do sujeito passivo está dispensada de efetuar a transferência da percentagem que cabe à Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 308-A/2020 - Diário da República n.º 252/2020, 1º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/308-a-2020-152531791), em vigor a partir de 2020-12-31"
+  },
+  "152423355": {
+   "fragment_id": "152512145",
+   "type": 11,
+   "heading": "Artigo 4.º — Cobrança",
+   "in_force_from": "2020-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 308-A/2020 - Diário da República n.º 252/2020, 1º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/308-a-2020-152531791), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Cobrança\n\n1 - Após a efetivação da cobrança coerciva prevista no n.º 2 do artigo 69.º do Decreto-Lei n.º 178/2006, de 5 de setembro, na sua redação atual, o sujeito passivo deverá liquidar a TGR devida e a CCDR-N deverá efetuar o respetivo pagamento ao sujeito passivo no prazo de 30 dias.\n\n2 - No caso de decisão judicial que comprometa a efetivação da cobrança coerciva, ou conclusão da impossibilidade do apuramento da responsabilidade, o sujeito passivo deverá liquidar a taxa devida e a CCDR-N deverá efetuar o respetivo pagamento no prazo de um ano.\n\n3 - A CCDR-N deverá manter a ANR informada dos desenvolvimentos quanto ao pagamento da TGR.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 308-A/2020 - Diário da República n.º 252/2020, 1º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/308-a-2020-152531791), em vigor a partir de 2020-12-31"
+  },
+  "152423349": {
+   "fragment_id": "152512150",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 6 de novembro de 2014."
+  }
+ }
+}

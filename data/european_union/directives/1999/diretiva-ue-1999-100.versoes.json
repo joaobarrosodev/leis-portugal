@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999L0100:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0100-20130102",
+ "dre_path": null,
+ "source_lastmod": "2013-01-02",
+ "versions": [
+  {
+   "date": "1999-12-28",
+   "future": false,
+   "celex": "31999L0100",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fe64064fcc8140bd",
+    "0b85a3ae7a0558f1",
+    "8774d049cd654a43",
+    "b69cfc645a616a46",
+    "bc1a6f6d6ed4924c",
+    "e2a242989cdf3e32",
+    "dfd9b6cbb4a03f68"
+   ]
+  }
+ ],
+ "fragments": {
+  "fe64064fcc8140bd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 1999/100/CE da Comissão, de 15 de Dezembro de 1999, que adapta ao progresso técnico a Directiva 80/1268/CEE do Conselho relativa às emissões de dióxido de carbono e ao consumo de combustível dos veículos a motor (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 334 de 28/12/1999 p. 0036 - 0040*\n\nDIRECTIVA 1999/100/CE DA COMISSÃO\n\nde 15 de Dezembro de 1999\n\nque adapta ao progresso técnico a Directiva 80/1268/CEE do Conselho relativa às emissões de dióxido de carbono e ao consumo de combustível dos veículos a motor\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação dos veículos a motor e seus reboques(1), com a última redacção que lhe foi dada pela Directiva 98/91/CE do Parlamento Europeu e do Conselho(2), e, nomeadamente, o n.o 2 do seu artigo 13.o,\n\nTendo em conta a Directiva 80/1268/CEE do Conselho, de 16 de Dezembro de 1980, relativa às emissões de dióxido de carbono e ao consumo de combustível dos veículos a motor(3), com a última redacção que lhe foi dada pela Directiva 93/116/CE da Comissão(4) e, nomeadamente, o seu artigo 3.o,\n\nConsiderando o seguinte:\n\n(1) A Directiva 80/1268/CEE é uma das directivas específicas do procedimento de homologação CE que foi instituído pela Directiva 70/156/CEE; por conseguinte, as disposições da Directiva 70/156/CEE respeitantes aos sistemas, componentes e unidades técnicas dos veículos são aplicáveis à referida directiva;\n\n(2) Na Directiva 98/69/CE do Parlamento Europeu e do Conselho, de 13 de Outubro de 1998, relativa às medidas a tomar contra a poluição do ar pelas emissões provenientes dos veículos a motor e que altera a Directiva 70/220/CEE do Conselho(5), o ciclo de ensaios do tipo I para a medição das emissões foi alterado pela eliminação dos primeiros 40 segundos do período de marcha lenta sem carga; é necessário alinhar nesse sentido o ciclo de ensaios para a medição das emissões de CO2 e do consumo de combustível da Directiva 80/1268/CEE;\n\n(3) Tendo em vista a monitorização das emissões de CO2 no quadro da estratégia da Comunidade de redução das emissões de CO2 dos automóveis de passageiros, é adequado introduzir na Directiva 80/1268/CEE novos requisitos técnicos relativos à medição das emissões de CO2 e do consumo de combustível para a homologação CE dos veículos a gás (GPL e GN); a este respeito, é adequado seguir os requisitos técnicos adoptados pela Comissão Económica para a Europa das Nações Unidas no seu Regulamento n.o 101(6);\n\n(4) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité de Adaptação ao Progresso Técnico instituído pela Directiva 70/156/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0b85a3ae7a0558f1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos I e II da Directiva 80/1268/CEE são alterados de acordo com o anexo da presente directiva."
+  },
+  "8774d049cd654a43": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A partir de 1 de Janeiro de 2000, os Estados-Membros não podem, por motivos relacionados com a emissão de dióxido de carbono ou com o consumo de combustível:\n\n- recusar a um modelo de veículo a homologação CE nos termos do n.o 1 do artigo 4.o da Directiva 70/156/CEE, nem\n\n- recusar a homologação de âmbito nacional, nem\n\n- proibir a matrícula, a venda ou a entrada em circulação de veículos nos termos do artigo 7.o da Directiva 70/156/CEE,\n\nse os valores de emissão e de consumo tiverem sido determinados de acordo com os requisitos da Directiva 80/1268/CEE, alterada pela presente directiva.\n\n2. A partir de 1 de Janeiro de 2000, para os veículos da categoria M1 definida na parte A do anexo II da Directiva 70/156/CEE (com excepção dos veículos cuja massa máxima exceda 2500 kg), e a partir de 1 de Janeiro de 2001 para os veículos da categoria M1 cuja massa máxima exceda 2500 kg, os Estados-Membros:\n\n- deixarão de poder conceder a homologação CE nos termos do n.o 1 do artigo 4.o da Directiva 70/156/CEE, e\n\n- recusarão a homologação de âmbito nacional, excepto nos casos em que sejam invocadas as disposições do n.o 2 do artigo 8.o da Directiva 70/156/CEE,\n\na um modelo de veículo se os valores de emissão e de consumo não tiverem sido determinados de acordo com os requisitos da Directiva 80/1268/CEE, alterada pela presente directiva.\n\n3. A partir de 1 de Janeiro de 2001, para os veículos da categoria M1 definida na parte A do anexo II da Directiva 70/156/CEE (com excepção dos veículos cuja massa máxima exceda 2500 kg), e a partir de 1 de Janeiro de 2002 para os veículos da categoria M1 cuja massa máxima exceda 2500 kg, os Estados-Membros:\n\n- devem considerar que os certificados de conformidade que acompanham os veículos novos nos termos da Directiva 70/156/CEE deixam de ser válidos para efeitos do disposto no n.o 1 do artigo 7.o dessa directiva, e\n\n- devem recusar a matrícula, a venda e a entrada em circulação de veículos novos não acompanhados de um certificado de conformidade nos termos da Directiva 70/156/CEE, excepto nos casos em que sejam invocadas as disposições do n.o 2 do artigo 8.o da Directiva 70/156/CEE,\n\nse os valores de emissão e de consumo não tiverem sido determinados de acordo com os requisitos da Directiva 80/1268/CEE, alterada pela presente directiva."
+  },
+  "b69cfc645a616a46": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 31 de Dezembro de 1999. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem as referidas disposições, estas devem incluir uma referênci à presente directiva ou ser acompanhadas de tal referência na publicação oficial. As modalidades da referência serão adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "bc1a6f6d6ed4924c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "e2a242989cdf3e32": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 15 de Dezembro de 1999.\n\nPela Comissão\n\nErkki LIIKANEN\n\nMembro da Comissão\n\n(1) JO L 42 de 23.2.1970, p. 1.\n\n(2) JO L 11 de 16.1.1999, p. 25.\n\n(3) JO L 375 de 31.12.1980, p. 36.\n\n(4) JO L 329 de 30.12.1993, p. 39.\n\n(5) JO L 350 de 28.12.1998, p. 1.\n\n(6) Regulamento n.o 101 da Comissão Económica para a Europa das Nações Unidas (E/ECE/324-E/ECE/TRANS/505/Rev.2/Add.100), na sua última versão."
+  },
+  "dfd9b6cbb4a03f68": {
+   "fragment_id": "ANEXO — ALTERAÇÕES DOS ANEXOS DA DIRECTIVA 80/1268/CEE",
+   "type": "divisao",
+   "heading": "ANEXO — ALTERAÇÕES DOS ANEXOS DA DIRECTIVA 80/1268/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ALTERAÇÕES DOS ANEXOS DA DIRECTIVA 80/1268/CEE\n\nO anexo I é alterado do seguinte modo:\n\n1. O ponto 4.1 passa a ter a seguinte redacção: \"4.1. As emissões de C02 são medidas durante o ciclo de ensaios que simula os ciclos de condução urbana e extra-urbana descritos no apêndice 1 do anexo III da Directiva 70/220/CEE, com a sua última redacção.\".\n\n2. O ponto 4.4 passa a ter a seguinte redacção: \"4.4. Combustível de ensaio\n\n4.4.1. Veículos a gasolina ou veículos com motores diesel\n\nPara os ensaios, devem ser utilizados os combustíveis de referência adequados definidos no anexo IX da Directiva 70/220/CEE, com a sua última redacção.\n\n4.4.2. Veículos a GPL ou a GN\n\nNo caso de GPL ou GN, deve ser utilizado o combustível escolhido pelo fabricante para a medição da potência útil nos termos do anexo I da Directiva 80/1269/CEE, com a sua última redacção. O combustível escolhido será especificado no documento de comunicação definido no anexo II.\n\n4.4.3. Para efeitos do cálculo mencionado no ponto 4.3, serão utilizadas as seguintes características dos combustíveis:\n\na) Densidade: medida no combustível de ensaio de acordo com a norma ISO 3675 ou com um método equivalente. Para a gasolina e para o combustível para motores diesel, será utilizada a densidade medida a 15 °C. Para o GPL e para o GN, será utilizada uma densidade de referência, a saber:\n\n0,538 kg/litro para o GPL\n\n0,654 kg/m3 para o GN(1)\n\nb) Razão hidrogénio carbono: serão utilizados valores fixos, a saber:\n\n1,85 para a gasolina\n\n1,86 para o combustível para motores diesel\n\n2,525 para o GPL\n\n4,00 para o GN\n\n2,93 para o GN (HCNM)\"\n\n3. No ponto 5.1.4, o segundo parágrafo passa a ter a seguinte redacção: \"A pedido do fabricante, os veículos com motores de ignição comandada podem ser pré-condicionados de acordo com o procedimento prescrito no ponto 5.2.1 do anexo VI da Directiva 70/220/CEE, com a sua última redacção. Os veículos com motores de ignição por compressão podem ser pré-condicionados de acordo com o procedimento prescrito no ponto 5.3 do anexo III da mesma directiva.\".\n\n4. O ponto 6.1 passa a ter a seguinte redacção: \"6.1. Ciclo de ensaios\n\nO ciclo de ensaios está descrito no apêndice 1 do anexo III da Directiva 70/220/CEE, com a sua última redacção, e inclui tanto a parte I (condições urbanas) como a parte II (condições extra-urbanas). Todas as prescrições de condução contidas nesse apêndice serão aplicadas à medição do CO2.\"\n\n5. O ponto 6.3.1 passa a ter a seguinte redacção: \"6.3.1. As regulações de carga e de inércia do dinamómetro são determinadas conforme se define no anexo III da Directiva 70/220/CEE, com a sua última redacção.\".\n\n6. Os pontos 6.3.2 e 6.3.3 são suprimidos.\n\n7. O ponto 6.4.1.3 passa a ter a seguinte redacção: \"...\n\nO factor de diluição é calculado do seguinte modo:\n\nPara a gasolina e para o combustível para motores diesel:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nPara o GPL:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nPara o GN:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nem que:...\"\n\n8. O ponto 7.2 passa a ter a seguinte redacção: \"7.2. Os consumos de combustível, expressos em litros por 100 km (no caso da gasolina, do GPL ou do combustível para motores diesel) ou em m3 por 100 km (no caso do GN), são calculados utilizando as seguintes fórmulas(2):\n\na) Para os veículos com motores de ignição comandada alimentados a gasolina:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nb) Para os veículos com motores de ignição comandada alimentados a GPL:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nSe a composição do combustível utilizado para o ensaio diferir da composição assumida para o cálculo do consumo normalizado, pode ser aplicado, a pedido do fabricante, um factor de correcção cf, do seguinte modo:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nO factor de correcção cf, que pode ser aplicado, é determinado do seguinte modo:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nem que:\n\nnactual= razão efectiva H/C do combustível utilizado\n\nc) Para os veículos com motores de ignição comandada alimentados a GN:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nd) Para os veículos com motores de ignição por compressão:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nNestas fórmulas:\n\nFC= consumo de combustível em litros por 100 km (no caso da gasolina, do GPL ou do combustível para motores diesel) ou em m3 por 100 km (no caso do GN)\n\nTHC= emissão medida de hidrocarbonetos totais em g/km\n\nCO= emissão medida de monóxido de carbono em g/km\n\nCO2= emissão medida de dióxido de carbono em g/km\n\nD= densidade do combustível de ensaio a 15 °C.\"\n\n9. O ponto 9.1.1.2.4 passa a ter a seguinte redacção: \"9.1.1.2.4. Para os ensaios, utilizar-se-ão os combustíveis de referência constantes dos aexos IX e IXA da Directiva 70/220/CEE, com a sua última redacção.\"\n\nO anexo II é alterado do seguinte modo:\n\n1. O ponto 1.7 da adenda passa a ter a seguinte redacção:\n\n\">PIC FILE= \"L_1999334PT.004001.EPS\">\"\n\n2. No final da adenda, são aditadas as notas de rodapé (4) e (5), com a seguinte redacção: \"(4) Repetir para a gasolina e para o combustível gasoso no caso de veículos que podem funcionar quer com gasolina quer com um combustível gasoso. Os veículos que podem ser alimentados tanto a gasolina como a um combustível gasoso, mas em que o sistema de gasolina se destina unicamente a situações de emergência ou ao arranque e em que o reservatório de gasolina tem uma capacidade máxima de 15 litros, serão considerados, para efeitos de ensaio, como veículos alimentados exclusivamente a combustível gasoso.\n\n(5) No caso de veículos alimentados com GN, a unidade \"1/100 km\" é substituída por \"m3/100 km\".\"\n\n(1) Valor médio dos combustíveis de referência G20 e G23 a 15 °C.\n\n(2) Repetir para a gasolina e para o combustível gasoso no caso de veículos que podem funcionar quer com gasolina quer com um combustível gasoso. Os veículos que podem ser alimentados tanto a gasolina como a um combustível gasoso, mas em que o sistema de gasolina se destina unicamente a situações de emergência ou ao arranque e em que o reservatório de gasolina tem uma capacidade máxima de 15 litros, serão considerados, para efeitos de ensaio, como veículos alimentados exclusivamente a combustível gasoso."
+  }
+ }
+}

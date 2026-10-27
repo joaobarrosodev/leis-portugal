@@ -1,0 +1,99 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31962R0026:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01962R0026-20060824",
+ "dre_path": null,
+ "source_lastmod": "2006-08-24",
+ "versions": [
+  {
+   "date": "1962-04-20",
+   "future": false,
+   "celex": "31962R0026",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "99250c1519638482",
+    "84ddf415d02f185e",
+    "aac7db34fefd781a",
+    "022069f9d815c660",
+    "a2ed2fcefe2e1e74",
+    "003b2fb0a71d4b13"
+   ]
+  },
+  {
+   "date": "2006-08-24",
+   "future": false,
+   "celex": "01962R0026-20060824",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.",
+    "Suprime Artigo 2.",
+    "Suprime Artigo 3.",
+    "Suprime Artigo 4.",
+    "Suprime Artigo 5."
+   ],
+   "fragments": [
+    "4401859700484666"
+   ]
+  }
+ ],
+ "fragments": {
+  "99250c1519638482": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento nº 26 relativo à aplicação de determinadas regras de concorrência à produção e ao comércio de produtos agrícolas** *Jornal Oficial nº 030 de 20/04/1962 p. 0993 - 0994 Edição especial finlandesa: Capítulo 4 Fascículo 1 p. 0003 Edição especial sueca: Capítulo 4 Fascículo 1 p. 0003 Edição especial dinamarquesa: Série I Capítulo 1959-1962 p. 0120 Edição especial inglesa: Série I Capítulo 1959-1962 p. 0129 Edição especial grega: Capítulo 03 Fascículo 1 p. 0035 Edição especial espanhola: Capítulo 08 Fascículo 1 p. 0029 Edição especial portuguesa: Capítulo 08 Fascículo 1 p. 0029*\n\nREGULAMENTO N. 26 DO CONSELHO relativo à aplicação de determinadas regras de concorrência à produção e ao comércio de produtos agrícolas\n\nO CONSELHO DA COMUNIDADE ECONÓMICA EUROPEIA,\n\nTendo em conta as disposições do Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 42. e 43.,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nConsiderando que resulta do artigo 42. do Tratado que a aplicação das regras de concorrência previstas no Tratado à produção e ao comércio dos produtos agrícolas constitui um dos elementos da política agrícola comum e que as disposições a seguir indicadas devem, por conseguinte, ser completadas tendo em conta ao desenvolvimento desta política;\n\nConsiderando que ressalta das propostas respeitantes à elaboração e execução da política agrícola comum apresentadas pela Comissão que determinadas regras de concorrência devem, a partir de agora, tornar-se aplicáveis à produção e ao comércio dos produtos agrícolas, tendo em vista eliminar as práticas contrárias aos princípios do mercado comum e prejudiciais à realização dos objectivos enunciados no artigo 39. do Tratado e reunir os elementos necessários à fixação posterior de um regime de concorrência adaptado ao desenvolvimento da política agrícola comum;\n\nConsiderando que as regras de concorrência relativas aos acordos, decisões e práticas referidos no artigo 85. do Tratado e à exploração abusiva das posições dominantes devem ser aplicadas à produção e ao comércio dos produtos agrícolas, na medida em que a sua aplicação não entrave o funcionamento das organizações nacionais dos mercados agrícolas e não ponha em perigo a realização dos objectivos da política agrícola comum;\n\nConsiderando que convém prestar uma atenção especial à situação das associações de agricultores na medida em que tenham, nomeadamente, por objectivo a produção ou o comércio em comum dos produtos agrícolas ou a utilização de instalações comuns, a menos que tal acção comum exclua a concorrência e ponha em perigo a realização dos objectivos do artigo 39. do Tratado;\n\nConsiderando que, tendo em vista tanto evitar comprometer o desenvolvimento duma política agrícola comum, como garantir a segurança jurídica e o tratamento não discriminatório das empresas em questão, a Comissão, sem prejuízo do controlo do Tribunal de Justiça, deve ter competência exclusiva para verificar que se encontram preenchidas as condições previstas nos dois parágrafos anteriores no que respeita os acordos, decisões e práticas referidas no artigo 85. do Tratado;\n\nConsiderando que a fim de permitir tomar em consideração as disposições específicas do Tratado relativas à agricultura, e em especial as do seu artigo 39., a Comissão deve, em matéria de dumping, apreciar todas as causas que estão na origem das práticas proibidas, nomeadamente, o nível dos preços a que são efectuadas as importações de outras proveniências no mercado considerado, e que a Comissão deve dirigir as recomendações e autorizar as medidas de protecção previstas no n. 1 do artigo 91. do Tratado em função desta apreciação;\n\nConsiderando que tendo em vista a aplicação, no âmbito do desenvolvimento da política agrícola comum, das regras relativas aos auxílios em benefício da produção ou do comércio dos produtos agrícolas, a Comissão deve estar em condições de estabelecer um inventário dos auxílios existentes, novos ou projectados, de apresentar aos Estados-membros as observações úteis e lhes propor as medidas adequadas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "84ddf415d02f185e": {
+   "fragment_id": "Artigo 1.",
+   "type": "artigo",
+   "heading": "Artigo 1.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.\n\nA partir da entrada em vigor do presente regulamento, os artigos 85. a 90. inclusive do Tratado, bem como as disposições tomadas em sua execução, aplicam-se a todos os acordos, decisões e práticas referidos no n. 1 do artigo 85. e no artigo 86. do Tratado relativos à produção ou ao comércio dos produtos enumerados no Anexo II do Tratado, sem prejuízo do disposto no artigo 2.."
+  },
+  "aac7db34fefd781a": {
+   "fragment_id": "Artigo 2.",
+   "type": "artigo",
+   "heading": "Artigo 2.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.\n\n1. O disposto no n. 1 do artigo 85. do Tratado é inaplicável aos acordos, decisões e práticas referidos no artigo anterior que façam parte integrante de uma organização nacional de mercado ou que sejam necessários à realização dos objectivos enunciados no artigo 39. do Tratado. Não se aplica em especial aos acordos, decisões e práticas dos agricultores, de associações de agricultores ou de associações destas associações pertencentes a um único Estado-membro, na medida em que, sem incluir a obrigação de praticar um determinado preço, digam respeito à produção ou à venda de produtos agrícolas ou à utilização de instalações comuns de armazenagem, de tratamento ou de transformação de produtos agrícolas, a menos que a Comissão verifique que, deste modo, a concorrência é excluída ou que os objectivos do artigo 39. do Tratado são postos em perigo.\n\n2. Após ter consultado os Estados-membros e ouvido as empresas ou associações de empresas interessadas, bem como qualquer outra pessoa singular ou colectiva cuja audição lhe pareça necessária, a Comissão, sem prejuízo do controlo pelo Tribunal de Justiça, tem competência exclusiva para verificar, por meio, de decisão, que será publicada, quais os acordos, decisões e práticas em relação aos quais se encontram preenchidas as condições previstas no n.1.\n\n3. A Comissão procederá a esta verificação quer oficiosamente, quer a pedido de uma autoridade competente de um Estado-membro ou de uma empresa ou associação de empresas interessadas.\n\n4. A publicação mencionará as partes interessadas e o essencial da decisão; deve ter em conta o interesse legítimo das empresas em não verem divulgados os seus segredos profissionais."
+  },
+  "022069f9d815c660": {
+   "fragment_id": "Artigo 3.",
+   "type": "artigo",
+   "heading": "Artigo 3.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.\n\n1. Sem prejuízo do disposto no artigo 46., o n. 1 do artigo 91. do Tratado é aplicável ao comércio dos produtos enumerados no Anexo II do Tratado.\n\n2. Tendo em conta as disposições do Tratado relativas à agricultura e, em especial as do artigo 39., a Comissão apreciará todas as causas que estão na origem das práticas proibidas, nomeadamente, o nível dos preços a que são efectuadas as importações de outras origens no mercado considerado. Em consequência desta apreciação, emitirá as recomendações e autorizará as medidas de protecção previstas no n. 1 do artigo 91. do Tratado."
+  },
+  "a2ed2fcefe2e1e74": {
+   "fragment_id": "Artigo 4.",
+   "type": "artigo",
+   "heading": "Artigo 4.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.\n\nO disposto no n. 1 e no n. 3, primeira frase, do artigo 93. do Tratado é aplicável aos auxílios concedidos em beneficio da produção ou do comércio dos produtos enumerados no Anexo II do Tratado."
+  },
+  "003b2fb0a71d4b13": {
+   "fragment_id": "Artigo 5.",
+   "type": "artigo",
+   "heading": "Artigo 5.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias, com excepção dos artigos 1. a 3. inclusive, que entram em vigor em 1 de Julho de 1962.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados- membros.\n\nFeito em Bruxelas em 4 de Abril de 1962.\n\nPelo Conselho\n\nO Presidente\n\nM. COUVE de MURVILLE"
+  },
+  "4401859700484666": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1962R0026 — PT — 24.08.2006 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31962R0026) [REGULAMENTO Nº 26 DO CONSELHO](http://publications.europa.eu/resource/celex/31962R0026) [relativo a aplicação de determinadas regras de concorrência a produção e ao comércio de produtos agrícolas](http://publications.europa.eu/resource/celex/31962R0026) (JO P 030, 20.4.1962, p.993)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1184/2006 do Conselho de 24 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1184) — L 214 — 7 — 4.8.2006"
+  }
+ }
+}

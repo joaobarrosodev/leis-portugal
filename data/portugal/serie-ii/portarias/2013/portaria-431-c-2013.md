@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:1456359:por
+title: Portaria n.º 431-C/2013
+short_title: null
+summary: Classifica como sítio de interesse público o Monte da Tumba, no Cabeço da Aguda, freguesia do Torrão, concelho de
+  Alcácer do Sal, distrito de Setúbal, e fixa a zona especial de proteção do referido sítio
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Secretário de Estado da Cultura
+proposing_entity: null
+official_number: 431-C/2013
+official_date: null
+publication_date: '2013-07-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 124/2013, 2º Suplemento, Série II de 2013-07-01
+  number: '124'
+  series: II
+  supplement: null
+  pages: 20762-(137) a 20762-(138)
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/07/124000002/0013700138.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1456359'
+  dre_path: /dr/detalhe/portaria/431-c-2013-1456359
+  internal: pt:dre:1456359:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/431-c-2013-1456359
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/431-c-2013-1456359
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:39:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a9d1e981fe809f4088bf408512cf435d45ad3f34144a4d4c2e9fe86988f88fd7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:39:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alcácer do SAL
+- ÁREA NON Aedificandi
+- Imóvel Classificado
+- Interesse Público
+- Património Arqueológico
+- Protecção do Património
+- Setúbal
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:39:42Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 431-C/2013
+
+O sítio arqueológico do Monte da Tumba, implantado no topo de uma elevação, um esporão com boas condições naturais de defesa e sobranceiro a uma linha de água, insere-se numa paisagem agrícola onde predomina a cultura de sequeiro. Este povoado fortificado, de notável monumentalidade e com uma cronologia atribuída ao Calcolítico é hoje o melhor exemplo desta realidade a sul do Tejo. Como resultado dos estudos efetuados, concluiu-se que a sua estrutura defensiva, composta por duas linhas de muralha, apresenta marcas de quatro fases de ocupação distintas.
+
+Integravam esta estrutura amuralhada bastiões semicirculares, duas torres circulares e um torreão na zona central do povoado. As estruturas habitacionais caraterizam-se por possuir uma base em pedra de planta circular com uma abertura, sendo que a parte superior seria erguida em adobe, do qual não existem vestígios.
+
+Entre os inúmeros materiais recolhidos sobressaem os utensílios em osso e cobre, esculturas antropomórficas em cerâmica, ídolos em pedra, mós manuais, grande quantidade de formas de cerâmica onde se destacam os pratos de bordo almendrado e algumas peças com decoração rara em folha de acácia, para além de numeroso espólio lítico, todos eles testemunhos relevantes do quotidiano e das principais atividades praticadas por estas populações.
+
+A classificação do Monte da Tumba reflete os critérios constantes do artigo 17.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, relativos ao interesse do bem como testemunho notável de vivências históricas, ao seu valor estético, técnico e material intrínseco, à sua conceção arquitetónica e paisagística e à sua importância do ponto de vista da investigação histórica e arqueológica.
+
+Tendo em vista a necessidade de manter o sítio como testemunho de vivências e do que representa para a memória coletiva, são fixadas restrições.
+
+A zona especial de proteção teve em consideração a valorização do conjunto e da zona envolvente, e a sua fixação visa proporcionar a leitura adequada dos mesmos.
+
+São igualmente fixadas restrições relativamente à zona especial de proteção.
+
+Procedeu-se à audiência dos interessados, na modalidade de consulta pública, nos termos gerais e de acordo com o previsto no artigo 25.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelos Decretos-Leis n.º 115/2011, de 5 de dezembro, e n.º 265/2012, de 28 de dezembro.
+
+Foi promovida a audiência prévia da Câmara Municipal de Alcácer do Sal.
+
+Assim:
+
+Sob proposta dos serviços competentes, nos termos do disposto no artigo 15.º, no n.º 1 do artigo 18.º, no n.º 2 do artigo 28.º e no artigo 43.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, conjugado com o disposto no n.º 2 do artigo 30.º e no n.º 1 do artigo 48.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelos Decretos-Leis n.º 115/2011, de 5 de dezembro, e n.º 265/2012, de 28 de dezembro, e no uso das competências conferidas pelo n.º 11 do artigo 10.º do [Decreto-Lei n.º 86-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2011-622306), de 12 de julho, manda o Governo, pelo Secretário de Estado da Cultura, o seguinte:
+
+###### Artigo 1.º — Classificação
+
+1 - É classificado como sítio de interesse público o Monte da Tumba, no Cabeço da Aguda, freguesia do Torrão, concelho de Alcácer do Sal, distrito de Setúbal, conforme planta constante do anexo à presente portaria, da qual faz parte integrante.
+
+2 - Nos termos das alíneas b) e c) e das subalíneas iv) e v) da alínea d) do n.º 1 do artigo 54.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelos Decretos-Lei n.º 115/2011, de 5 de dezembro, e n.º 265/2012, de 28 de dezembro, são fixadas as seguintes restrições:
+
+a) Toda a área classificada é considerada zona non aedificandi;
+
+b) Apenas são autorizados trabalhos de investigação ou de conservação, desde que devidamente autorizados pela entidade competente da tutela do património cultural;
+
+c) O imóvel que se encontra construído sobre o Povoado do Monte da Tumba poderá ser demolido, desde que com acompanhamento arqueológico e as devidas precauções de ordem técnica, com vista à valorização patrimonial do sítio;
+
+d) Dado que o limite do sítio ultrapassa a propriedade do Estado, a área sobrante deve suscitar o direito de preferência em caso de venda ou dação em pagamento.
+
+###### Artigo 2.º — Zona especial de proteção
+
+1 - É fixada a zona especial de proteção do sítio referido no artigo anterior, conforme planta constante do anexo à presente portaria, da qual faz parte integrante.
+
+2 - Nos termos da alínea b) e das subalíneas i), iii) e iv) da alínea c) do n.º 1 do artigo 43.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelos Decretos-Leis n.º 115/2011, de 5 de dezembro, e n.º 265/2012, de 28 de dezembro, são fixadas as seguintes restrições:
+
+a) Qualquer tipo de trabalhos que envolva a afetação do subsolo deverá ser submetido, para apreciação, à entidade competente da tutela do património cultural, que analisará a pretensão e decidirá sobre a sua exequibilidade e, se for o caso, sobre o tipo de procedimento de salvaguarda a adotar;
+
+b) Os imóveis existentes na área abrangida pela ZEP poderão ser objeto de obras de conservação, desde que não seja alterada a sua morfologia, cromatismo e revestimento exterior, e que a intervenção seja previamente submetida a parecer da entidade competente da tutela do património cultural;
+
+c) Os imóveis existentes na área abrangida pela ZEP poderão ser demolidos desde que manualmente, com vista à valorização patrimonial do sítio;
+
+d) Todos os imóveis abrangidos pela ZEP devem suscitar o direito de preferência em caso de venda ou dação em pagamento.
+
+29 de junho de 2013. - O Secretário de Estado da Cultura, Jorge Barreto Xavier.
+
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2013/07/124000002/0013700138.pdf)
+
+15532013

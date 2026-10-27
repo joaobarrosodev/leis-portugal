@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: pt:dre:205979:por
+title: Portaria n.º 615-V2/91
+short_title: null
+summary: Sujeita ao regime cinegético especial o prédio rústico denominado «Herdade da Barroca» (secção B, artigo 1), sito
+  na freguesia de Pavia, concelho de Mora
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 615-V2/91
+official_date: null
+publication_date: '1991-07-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 154/1991, 2º Suplemento, Série I-B de 1991-07-08
+  number: '154'
+  series: I
+  supplement: null
+  pages: 3494-(60) a 3494-(60)
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/07/154b02/00600060.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/615-v2/1991/07/08/p/dre/pt/html
+  oj: null
+  dre: '205979'
+  dre_path: /dr/detalhe/portaria/615-v2-1991-205979
+  internal: pt:dre:205979:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-v2-1991-205979
+  metadata_url: https://data.dre.pt/eli/port/615-v2/1991/07/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-v2-1991-205979
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:56:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5a5256573fedd3c414e7288b0e59be6fd22258b5e6fb134ea6d08d0a5fd83f7b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:56:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- MORA
+- ZONA de CAÇA
+relationships:
+- type: amended_by
+  target: pt:dre:491959:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:155248:por
+  label: "Renovada, por seis anos, a concessão da zona de caça associativa pela Port 473/97.1997.07.11.MADRP, DR.IIS [158]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/473-1997-155248
+  date: '1997-07-11'
+- type: amended_by
+  target: pt:dre:444465:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pelo presente diploma, pela PORT.556/98.1998.08.20.MADRP\
+    \ DR.IS-B [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/556-1998-444465
+  date: '1998-08-20'
+- type: amended_by
+  target: pt:dre:310830:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.425/99.1999.06.09.MADRP, DR.IS-B [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/425-1999-310830
+  date: '1999-06-09'
+- type: amended_by
+  target: pt:dre:221146:por
+  label: "Renovada por seis anos a concessão de zona de caça associativa atribuída por esta portaria, com a redacção dada\
+    \ pela Port 425/99 de 09-Jun, pela PORT.215/2003.2003.03.10.MADRP DR.IS-B [58]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/215-2003-221146
+  date: '2003-03-10'
+- type: amended_by
+  target: pt:dre:629436:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, alterada pelas Ports. 556/98 de\
+    \ 20-Ago e 425/99 de 09-Jun e renovada pelas Ports 473/97 de 11-Jul e 215/2003 de 10-Mar pela PORT.1433/2007.05.11.2007.MADRP,\
+    \ DR.IS [212] de 05.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1433-2007-629436
+  date: '2007-11-05'
+- type: amended_by
+  target: pt:dre:491959:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa da Barroca atribuída pelo presente\
+    \ diploma, renovada pela Port 473/97, de 11-Jul, alterada pela Port 556/98, de 20-Ago e pela Port 425/99, de 09-Jun, renovada\
+    \ pela Port 215/2003, de 10-Mar e alterada pela Port 1433/2007, de 05-Nov, pela PORT.689/2009.25.06.2009.MADRP, DR.IS\
+    \ [121] de 25.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/689-2009-491959
+  date: '2009-06-25'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:56:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 615-V2/91
+
+de 8 de Julho
+
+Com fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 79.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto;
+
+Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+
+1.º Fica sujeito ao regime cinegético especial o prédio rústico denominado «Herdade da Barroca» (secção B, artigo 1), sito na freguesia de Pavia, concelho de Mora, com uma área de 499,0750 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
+
+2.º Pelo presente diploma é concessionada, pelo período de seis anos, à Associação de Caçadores do Concelho de Mora (registo na Direcção-Geral das Florestas n.º 4.506.89), com sede em Mora, a zona de caça associativa da Herdade da Barroca (processo n.º 795 da Direcção-Geral das Florestas).
+
+3.º A Associação de Caçadores do Concelho de Mora, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+
+4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados da Associação de Caçadores do Concelho de Mora, com observância das regras legais e das suas normas estatutárias e regulamentares.
+
+5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
+
+2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.
+
+6.º O prédio rústico que integra esta zona de caça associativa, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, fica submetido ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
+
+7.º Esta concessão é renovável nos termos do disposto no artigo 73.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890).
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+Assinada em 5 de Julho de 1991.
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/154b02/00600060.pdf)

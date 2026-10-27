@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:140155:por
+title: Portaria n.º 335/70
+short_title: null
+summary: Abre um crédito destinado a reforçar a verba inscrita na alínea a), n.º 8), do artigo 331.º, capítulo 12.º, da tabela
+  de despesa extraordinária do orçamento geral da província de S. Tomé e Príncipe para o ano económico de 1970
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: 335/70
+official_date: null
+publication_date: '1970-07-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 154/1970, Série I de 1970-07-04
+  number: '154'
+  series: I
+  supplement: null
+  pages: 859 - 859
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/07/15400/08590859.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '140155'
+  dre_path: /dr/detalhe/portaria/335-1970-140155
+  internal: pt:dre:140155:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/335-1970-140155
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/335-1970-140155
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:15:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9c512d9096ac148859212f43063c14f2338ccfa0dbd7f8ac0cf3cbddfc812391
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:15:40Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 335/70
+
+Considerando o que foi proposto pelo Governo de S. Tomé e Príncipe no sentido de ser reforçada uma dotação do programa de financiamento do III Plano de Fomento para o corrente ano com recursos no saldo de contas de exercícios findos;
+
+Tendo em vista a autorização concedida em 11 de Junho corrente pelo Conselho de Ministros para os Assuntos Económicos:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 11.º, alínea h), 13 e 16 do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugados com o artigo 5.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, que o Governo de S. Tomé e Príncipe, tomando como contrapartida o saldo de contas de exercícios findos, abra um crédito especial de 2500000$00 para reforço da verba do capítulo 12.º, artigo 331.º, n.º 8), alínea a) «III Plano de Fomento - Transportes, comunicações e meteorologia - Transportes rodoviários», da tabela de despesa extraordinária do orçamento geral da província para o ano económico de 1970.
+
+Ministério do Ultramar, 4 de Julho de 1970. - Pelo Ministro do Ultramar, Rui Martins dos Santos, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de S. Tomé e Príncipe. - Martins dos Santos.

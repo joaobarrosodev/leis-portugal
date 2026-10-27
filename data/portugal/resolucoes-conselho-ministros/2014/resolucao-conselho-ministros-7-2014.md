@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:606155:por
+title: Resolução do Conselho de Ministros n.º 7/2014
+short_title: null
+summary: Desafeta do domínio público militar o PM 82/Elvas - «Quartel do Calvário», constituído por um edifício habitacional
+  com dois pisos e dois fogos por piso, sito na Avenida 14 de Janeiro, Portas da Esquina, freguesia e concelho de Elvas, tendo
+  em vista a sua reafetação ao município de Elvas, pelo prazo de 50 anos
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 7/2014
+official_date: null
+publication_date: '2014-01-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/2014, Série I de 2014-01-14
+  number: '9'
+  series: I
+  supplement: null
+  pages: 120 - 120
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/01/00900/0012000120.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/7/2014/01/14/p/dre/pt/html
+  oj: null
+  dre: '606155'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/7-2014-606155
+  internal: pt:dre:606155:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/7-2014-606155
+  metadata_url: https://data.dre.pt/eli/resolconsmin/7/2014/01/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/7-2014-606155
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:06:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2734863cfb382535b56ce910ccbacfc18e58d2e76cb6ddbf3b91e2d1f5bf792a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:06:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direção Geral do Tesouro e Finanças
+- Domínio Privado do Estado
+- Domínio Público Militar
+- Elvas
+- Forças Armadas
+- Fundo de Reabilitação e Conservação Patrimonial
+- Gestão do Património
+- Ministério da Defesa Nacional
+relationships:
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:169005:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/1999/02/05/p/dre
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:258755:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/36/2013/03/11/p/dre
+- type: cites
+  target: pt:dre:2796080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: pt:dre:532440:por
+  label: null
+  source: http://data.dre.pt/eli/lei/131/1999/08/28/p/dre
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:06:49Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 7/2014
+
+Considerando que o PM 82/Elvas - «Quartel do Calvário» constitui um edifício habitacional com dois pisos e dois fogos por piso, sito na Avenida 14 de Janeiro, Portas da Esquina, freguesia e concelho de Elvas;
+
+Considerando que a política de modernização das Forças Armadas prossegue objetivos de reorganização das suas instalações militares, de modo a garantir elevados padrões de eficácia e eficiência, alcançados com o reaproveitamento do património excedentário ou inadequado afeto à Defesa Nacional;
+
+Considerando que a rentabilização dos imóveis, disponibilizados pelo reajustamento do dispositivo militar, visa gerar meios que possibilitem a melhoria das condições de operacionalidade requeridas pelas missões das Forças Armadas, nomeadamente através da concentração de infraestruturas em zonas adequadas, libertando assim os espaços urbanos que, pelas suas características, se revelam inadequados à função militar;
+
+Considerando que o PM 82/Elvas - «Quartel do Calvário» se encontra disponibilizado e que o Município de Elvas manifestou interesse na utilização deste imóvel, o qual faz parte do sítio Cidade-Quartel Fronteiriça de Elvas e suas Fortificações, considerado Património Mundial da UNESCO, com vista à sua recuperação, reabilitação permitindo a sua fruição pública pela população residente e visitantes, afetando-o ainda a outros fins de utilidade pública;
+
+Considerando que, nos termos do artigo 1.º-A do [Decreto-Lei n.º 32/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1999-169005), de 5 de fevereiro, alterado pela [Lei n.º 131/99](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), de 28 de agosto, os imóveis afetos à Defesa Nacional que o deixem de estar devem ser preferencialmente afetos a outras funções do Estado e de outras pessoas coletivas públicas;
+
+Considerando que o imóvel a desafetar foi objeto de avaliação pela Direção-Geral do Tesouro e Finanças, tendo sido homologado o valor de 18 800,00 EUR (dezoito mil e oitocentos euros), correspondente à contrapartida financeira pela reafetação do PM 82/Elvas - «Quartel do Calvário» ao Município de Elvas;
+
+Considerando que, nos termos do artigo 2.º do [Decreto-Lei n.º 32/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1999-169005), de 5 de fevereiro, alterado pela [Lei n.º 131/99](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), de 28 de agosto, os imóveis integrados no domínio público militar só podem ser alienados após a sua integração no domínio privado do Estado por desafetação do domínio público;
+
+Considerando que do n.º 1 do artigo 4.º do referido decreto-lei decorre que a desafetação do domínio público militar é feita por resolução do Conselho de Ministros, mediante proposta da Ministra de Estado e das Finanças e do Ministro da Defesa Nacional;
+
+Considerando a proposta dos aludidos membros do Governo, constante do [Despacho n.º 14804/2013](https://diariodarepublica.pt/dr/detalhe/despacho/14804-2013-2796080), de 1 de novembro, publicado no Diário da República, 2.ª série, n.º 222, de 15 de novembro.
+
+Foi ouvida a Câmara Municipal de Elvas.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 4.º e do n.º 1 do artigo 8.º do [Decreto-Lei n.º 32/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1999-169005), de 5 de fevereiro, alterado pela [Lei n.º 131/99](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), de 28 de agosto, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Desafetar do domínio público militar e integrar no domínio privado do Estado, afeto ao Ministério da Defesa Nacional (MDN), o PM 82/Elvas - «Quartel do Calvário», constituído por um edifício habitacional com dois pisos e dois fogos por piso, sito na Avenida 14 de Janeiro, Portas da Esquina, freguesia e concelho de Elvas, omisso na matriz predial urbana.
+
+2 - Autorizar a reafetação do imóvel referido no número anterior ao Município de Elvas, pelo prazo de 50 anos, mediante a compensação financeira de 18 800,00 EUR (dezoito mil e oitocentos euros).
+
+3 - Determinar que a afetação do valor referido no número anterior se faça nos seguintes termos:
+
+a) 5%, no montante de 940,00 EUR (novecentos e quarenta euros), à Direção-Geral de Armamento e Infraestruturas de Defesa, nos termos do n.º 4 do artigo 9.º do [Decreto-Lei n.º 32/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1999-169005), de 5 de fevereiro, alterado pela [Lei n.º 131/99](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), de 28 de agosto;
+
+b) 5%, no montante de 940,00 EUR (novecentos e quarenta euros), à Direção-Geral do Tesouro e Finanças, nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, alterado pelas Leis n.os [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, pelo [Decreto-Lei n.º 36/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), de 11 de março, e pela [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro;
+
+c) 5%, no montante de 940,00 EUR (novecentos e quarenta euros), ao Fundo de Reabilitação e Conservação Patrimonial, nos termos da alínea c) do n.º 4 do artigo 12.º da [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro;
+
+d) O remanescente, no montante de 15 980,00 EUR (quinze mil novecentos e oitenta euros), ao MDN, com vista à construção e manutenção de infraestruturas afetas ao MDN e para aquisição de equipamentos e bens necessários à modernização e operacionalidade das Forças Armadas, de acordo com o artigo 9.º do [Decreto-Lei n.º 32/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1999-169005), de 5 de fevereiro, alterado pela [Lei n.º 131/99](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), de 28 de agosto, conjugado com a alínea c) do n.º 2 do artigo 12.º da [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro.
+
+4 - Determinar que a elaboração do auto de reafetação seja efetuada de acordo com o estipulado no n.º 3 do artigo 8.º do [Decreto-Lei n.º 32/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1999-169005), de 5 de fevereiro, alterado pela [Lei n.º 131/99](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), de 28 de agosto.
+
+Presidência do Conselho de Ministros, 2 de janeiro de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.

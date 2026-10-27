@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:291670:por
+title: Portaria n.º 14/72
+short_title: null
+summary: Estabelece o grau alcoólico volumétrico mínimo dos vinhos comuns a granel, em trânsito, para e na venda directa ao
+  público e que não esteja regulado por disposições especiais a observar na campanha que, nos termos da Portaria n.º 638/71,
+  se iniciou em 1 de Dezembro de 1971 - Revoga o despacho publicado no suplemento ao Diário do Governo, 1.ª série, n.º 286,
+  de 7 de Dezembro de 1971
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado do Comércio
+proposing_entity: null
+official_number: 14/72
+official_date: null
+publication_date: '1972-01-11'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 8/1972, Série I de 1972-01-11
+  number: '8'
+  series: I
+  supplement: null
+  pages: 53 - 54
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/01/00800/00530054.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '291670'
+  dre_path: /dr/detalhe/portaria/14-1972-291670
+  internal: pt:dre:291670:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-1972-291670
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-1972-291670
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:42:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8175314b6f50dac45fca4719e125fafe0421fa6a8484137cbbbd76a1d7970f6c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:156977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631667:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:42:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 14/72
+
+de 11 de Janeiro
+
+Com vista ao cumprimento do disposto na alínea i) do artigo 14.º do [Decreto-Lei n.º 35846](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35846-1946-156977), de 2 de Setembro de 1946:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, que na campanha que, nos termos da [Portaria n.º 638/71](https://diariodarepublica.pt/dr/detalhe/portaria/638-1971-631667), se iniciou em 1 de Dezembro de 1971, se observe o seguinte:
+
+1.º O grau alcoólico volumétrico mínimo dos vinhos comuns a granel, em trânsito, para e na venda directa ao público e que não esteja regulado por disposições especiais será o seguinte:
+
+12 graus: nos distritos de Beja, Castelo Branco, Évora, Faro, Portalegre e Santarém;
+
+11 graus: nas áreas da sede e delegação no Porto do Grémio dos Armazenistas de Vinhos, nos distritos de Coimbra, Leira, Lisboa e Setúbal e no distrito autónomo do Funchal, para os vinhos provenientes do continente;
+
+10,5 graus: no distrito de Aveiro, exceptuando os concelhos de Águeda, Albergaria-a-Velha, Oliveira de Azeméis e Sever do Vouga, no distrito da Guarda, nas freguesias de Calde, Campo, Lordosa, Bodiosa e Ribafeita, no concelho de Viseu, e nos concelhos de Oliveira de Frades, S. Pedro do Sul e Vouzela, do distrito de Viseu, para os vinhos que aí não sejam produzidos;
+
+10 graus: nos distritos de Bragança e Vila Real, nos concelhos de Armamar, Castro Daire, Lamego, Moimenta da Beira, Penedono, S. João da Pesqueira, Sernancelhe, Tabuaço, Tarouca e Vila Nova de Paiva, do distrito de Viseu, nos concelhos de Águeda, Albergaria-a-Velha, Oliveira de Azeméis e Sever do Vouga, do distrito de Aveiro, nos concelhos de Boticas e Vila Pouca de Aguiar, do distrito de Vila Real, e no distrito autónomo do Funchal, sòmente para os vinhos aí produzidos;
+
+7,5 graus: nos concelhos de Oliveira de Frades, S. Pedro do Sul e Vouzela para os vinhos verdes de Lafões aí produzidos.
+
+2.º O disposto no número anterior é somente aplicável na parte das circunscrições referidas que não se encontre incluída em qualquer região demarcada.
+
+3.º Dentro da região demarcada do Douro, e em relação aos vinhos comuns ali produzidos, o grau alcoólico volumétrico a que se refere o n.º 1.º é fixado em 10 graus.
+
+4.º É revogado o despacho publicado no suplemento ao Diário do Governo, 1.ª série, n.º 286, de 7 de Dezembro de 1971.
+
+O Secretário de Estado do Comércio, Valentim Xavier Pintado.

@@ -1,0 +1,780 @@
+---
+schema_version: '1.0'
+id: pt:dre:482388:por
+title: Decreto Legislativo Regional n.º 34/2009/M
+short_title: null
+summary: Aprova o Orçamento da Região Autónoma da Madeira para 2010
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 34/2009/M
+official_date: null
+publication_date: '2009-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 252/2009, Série I de 2009-12-31
+  number: '252'
+  series: I
+  supplement: null
+  pages: 8859 - 8920
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/12/25200/0885908920.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/34/2009/12/31/m/dre/pt/html
+  oj: null
+  dre: '482388'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/34-2009-482388
+  internal: pt:dre:482388:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388
+  metadata_url: https://data.dre.pt/eli/declegreg/34/2009/12/31/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:41:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 75a7b3d356b77d5c91fc2518cb8b1282de08f872ec1f786d997ce8b2cf822d27
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Alienação de Participação Social
+- Alteração Orçamental
+- Aquisição de Bens e Serviços
+- Autarquia Local
+- Autonomia Administrativa
+- Autonomia Financeira
+- Autorização de Despesas
+- AVAL do Estado
+- Catástrofe
+- Cobrança de Impostos
+- Código dos Contratos Públicos
+- Concurso
+- Condutor
+- Conselho do Governo Regional
+- Contabilidade Pública
+- Contratação Pública
+- Contrato Administrativo
+- Contrato de Seguro
+- Cooperação Financeira
+- Cooperação Técnica
+- Crédito Bonificado
+- Criação de Serviços
+- Definição de Competências
+- Despesas Públicas
+- Direcção Regional das Pescas
+- Diretor Regional
+- Dívida Pública
+- Dívidas ao Estado
+- Divulgação Cultural
+- Empreitada de Obras Públicas
+- Execução do Orçamento
+- Feader
+- Financiamento
+- FSE
+- Funcionário Público
+- Fundo de Gestão dos Programas da DRP
+- Fundo de Gestão para os Programas da Formação Profissional
+- Gabinete do Secretário Regional do Ambiente e dos Recursos Naturais
+- Garantia
+- Gestão Financeira
+- Gestão Orçamental
+- Governo Regional
+- Habitação Social
+- Instalação de Serviços
+- IRC
+- IRS
+- Linha de Crédito
+- Locação Financeira
+- Madeira.região Autónoma
+- Orçamento Regional
+- Pesca
+- Pessoal Contratado
+- Piddac
+- Prédio Urbano
+- Prémio de Seguro
+- Presidente do Governo Regional
+- Proderam
+- Programa Comunitário
+- Receita Própria
+- Reestruturação de Serviços
+- Regime Fiscal
+- Renovação Urbana
+- Responsabilidade Extracontratual
+- Secretaria Regional do Ambiente e dos Recursos Naturais
+- Secretaria Regional do Plano e Finanças
+- Secretário Regional
+- Secretário Regional do Plano e Finanças
+- Seguro Obrigatório de Responsabilidade Civil
+- Serviço Público
+- Serviço Regional de Protecção Civil
+- Subsídio
+- Subsídio de Disponibilidade Permanente
+- Subsídio de Fixação
+- Subsídio de Insularidade
+- Subsídio de Penosidade e Risco
+- Taxa
+- Transferência de Verbas
+- Vice-presidente do Governo Regional
+relationships:
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:333363:por
+  label: "Dada nova redacção ao art. 16º e substituídos os mapas i a ix pelo DLR.14/2010/M.05.08.2010.AL-RAM, DR.IS [151]\
+    \ de 05.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2010-333363
+  date: '2010-08-05'
+- type: amended_by
+  target: pt:dre:485631:por
+  label: "Aditado o nº 4 ao art. 16º do presente diploma, na redacção do DLR 14/2010/M, de 05-Ago, pelo DLR.2/2011/M.10.01.2011.AL-RAM,\
+    \ DR.IS [6] de 10.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2011-485631
+  date: '2011-01-10'
+- type: amended_by
+  target: pt:dre:145060:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DLR.20/2011/M.26.12.2011.AL-RAM,\
+    \ DR.IS [246] de 26.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2011-145060
+  date: '2011-12-26'
+- type: amended_by
+  target: pt:dre:553889:por
+  label: "Alterado o art. 7º do DLR 34/2008/M, de 14-ago, na redação do presente diploma, pelo DLR.5/2012/M.30.03.2012.AL-RAM,\
+    \ DR.IS [65] de 30.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2012-553889
+  date: '2012-03-30'
+- type: amended_by
+  target: pt:dre:189511:por
+  label: "Alterado os art. 2º do DLR 3/2001/M, de 22-fev, na redação do presente diploma, pelo DLR.42/2012/M.31.12.2012.AL-RAM,\
+    \ DR.IS [252] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2012-189511
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:498484:por
+  label: "Alterado o art. 7.º (na redação do presente diploma) do DLR 34/2008/M de 14-ag, pelo DLR.28/2013/M.06.08.2013.AL-RAM,\
+    \ DR.IS [150] de 06.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2013-498484
+  date: '2013-08-06'
+- type: amended_by
+  target: pt:dre:164412:por
+  label: "Alterado o art. 2º do DLR 2/2001/M, de 20-Fev, na redacção do presente diploma, pelo DLR.31-A/2013/M.31.12.2013.AL-RAM,\
+    \ DR.IS [253-2.º supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/31-a-2013-164412
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66012654:por
+  label: Mantidas em vigor na RAM as taxas de Imposto sobre o Rendimento das Pessoas Singulares (IRS) estabelecidas no art.
+    2º do DLR 3/2001/M, de 22-fev, alterado pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 18/2014/M - Diário
+    da República n.º 252/2014, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2014-66012654
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:70007184:por
+  label: Alterado o art. 1.º do DLR 11/83/M, de 01-ago, na redação do presente diploma pelo(a) Decreto Legislativo Regional
+    n.º 6/2015/M - Diário da República n.º 157/2015, Série I de 2015-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2015-70007184
+  date: '2015-08-13'
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Mantidas em vigor as taxas de imposto sobre o rendimento das pessoas coletivas, para vigorar na RAM, estabelecidas
+    no art 2.º (alterado pelo presente diploma e pelos DLR 29-A/2001/M de 20-dez, 30-A/2003/M de 31-dez, 21-A/2005/M de 30-dez,
+    3/2007/M de 09-jan, 2-A/2008/M de 16-jan, 45/2008/M de 31-dez e 2/2011/M de 10-jan, DRR 2/2010/M de 26-maio, DLR 20/2011/M
+    de 26-dez, DLR 31-A/2013/M de 31-dez e DLR 18/2014/M de 31-dez) do DLR 2/2001/M de 20-fev, pelo(a) Decreto Legislativo
+    Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Mantidas em vigor, com efeitos desde 01.01.2017, para a Região Autónoma da Madeira as taxas de imposto sobre o rendimento
+    das pessoas coletivas aprovadas pelo art. 2.º do DLR 2/2001/M de 20-fev, na redação do presente diploma, pelo(a) Decreto
+    Legislativo Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Alterado, com efeitos desde 01.01.2018, o art. 2.º do DLR 2/2001/M de 20-fev, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:114866946:por
+  label: Alterado, com efeitos a 01.01.2018, o art. 7.º do DLR 34/2008/M, de 14-ago, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2018-114866946
+  date: '2018-03-15'
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Alterado, com efeitos desde 01.01.2019, o art. 2.º do DLR 2/2001/M de 20-fev, com a redação dada pelo presente diploma,
+    pelo(a) Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Mantidas em vigor, com efeitos desde 01.01.2020, as taxas do IRC, para vigorar na Região Autónoma da Madeira, estabelecidas
+    no art. 2.º, na redação do presente diploma, do DLR 2/2001/M de 20-fev, pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M
+    - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31 nos termos do seu art. 18.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220114:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/6/2005/06/01/m/dre
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:266621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:311254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319308:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2001/02/20/m/dre
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386785:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/3/2001/02/22/m/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:444240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466431:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/28-a/2001/11/13/m/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517981:por
+  label: null
+  source: http://data.dre.pt/eli/leiorg/1/2007/02/19/p/dre
+- type: cites
+  target: pt:dre:520205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592760:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/4-a/2001/04/03/m/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 41
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:41:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 34/2009/M
+
+Orçamento da Região Autónoma da Madeira para 2010
+
+O Orçamento da Região Autónoma da Madeira para 2010 cumpre a regra do equilíbrio orçamental prevista no artigo 4.º da Lei do Enquadramento do Orçamento da Região, tendo sido contemplados os recursos necessários para financiar a totalidade das despesas.
+
+As previsões da receita e da despesa, para o próximo exercício orçamental, tiveram em consideração o actual enquadramento económico e financeiro, nacional e internacional, e as suas perspectivas de evolução, assim como os efeitos destes condicionalismos a nível regional.
+
+A estratégia orçamental prosseguida, através da rigorosa afectação dos recursos públicos regionais, permitiu o reforço das medidas económicas e de alcance social, com especial enfoque no apoio ao desenvolvimento empresarial e empreendedorismo, no reforço das medidas de apoio à promoção do emprego, a par da continuação de uma eficiente política de apoio e acção na vertente social, tendo por finalidade a dinamização económica e a manutenção do nível de bem-estar da população.
+
+O presente diploma de Orçamento da Região Autónoma da Madeira para 2010 irá permitir que a execução orçamental se inicie no início do próximo ano económico sem necessidade da utilização de recurso do princípio duodecimal, mecanismo este utilizável apenas quando o orçamento não se encontra em vigor em relação ao período a que respeita, sendo cumprido assim o princípio orçamental da anualidade.
+
+Assim:
+
+A Assembleia Legislativa da Madeira decreta, ao abrigo do disposto na alínea p) do n.º 1 do artigo 227.º da Constituição e na alínea c) do n.º 1 do artigo 36.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, o seguinte:
+
+### CAPÍTULO I — Aprovação do Orçamento
+
+###### Artigo 1.º — Aprovação do Orçamento
+
+É aprovado, pelo presente diploma, o Orçamento da Região Autónoma da Madeira para 2010, constante dos mapas seguintes:
+
+a) Mapas i a viii do orçamento da administração pública regional, incluindo os orçamentos dos serviços e fundos autónomos;
+
+b) Mapa ix, com o programa de investimentos e despesas de desenvolvimento da administração regional (PIDDAR);
+
+c) Mapa xvii das responsabilidades contratuais plurianuais dos serviços integrados e dos serviços e fundos autónomos, agrupadas por secretarias.
+
+### CAPÍTULO II — Finanças locais
+
+###### Artigo 2.º — Transferências do Orçamento do Estado
+
+1 - Fica o Governo Regional autorizado, através da Secretaria Regional do Plano e Finanças, a transferir para as autarquias locais e associação de municípios da Região Autónoma da Madeira, os apoios financeiros inscritos no Orçamento do Estado a favor destas, líquidos das retenções que venham a ser efectuadas nos termos da lei.
+
+2 - O mapa xi contém, transitoriamente, as verbas a distribuir pelas autarquias da Região Autónoma da Madeira, conforme se encontram discriminadas nos mapas xix e xx do Orçamento do Estado para 2009, até à entrada em vigor da Lei do Orçamento do Estado para o ano de 2010, que procederá à revisão dessas verbas.
+
+###### Artigo 3.º — Cooperação técnica e financeira
+
+Os contratos-programa assinados com data anterior a 2010, e cujo término não tenha ocorrido até ao final de 2009, mantêm-se em vigor em 2010, sem quaisquer formalidades adicionais, excepto o novo escalonamento para o Orçamento de 2010, dos encargos que não tenham sido suportados pelo Orçamento de 2009, conforme estabelece o n.º 2 do artigo 10.º do [Decreto Legislativo Regional n.º 6/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2005-220114), de 1 de Junho.
+
+###### Artigo 4.º — Linha de crédito bonificada
+
+Mantém-se em vigor o disposto no artigo 5.º do [Decreto Legislativo Regional n.º 4-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-2001-592760), de 3 de Abril, com as alterações introduzidas pelo artigo 3.º do [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431), de 13 de Novembro.
+
+### CAPÍTULO III — Operações passivas
+
+###### Artigo 5.º — Endividamento líquido
+
+Para fazer face às necessidades de financiamento do Orçamento da Região Autónoma da Madeira para 2010, fica o Governo Regional autorizado a aumentar o endividamento líquido regional até ao montante de 180 milhões de euros, conforme condições a serem definidas na lei que aprova o Orçamento do Estado para 2010.
+
+###### Artigo 6.º — Condições gerais dos empréstimos
+
+Nos termos dos artigos 27.º, 28.º e 30.º da [Lei Orgânica n.º 1/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2007-517981), de 19 de Fevereiro, fica o Governo Regional autorizado a contrair empréstimos amortizáveis, com o prazo máximo de 30 anos, internos ou denominados em moeda estrangeira, nos mercados interno e externo, até ao montante resultante da adição dos seguintes valores:
+
+a) Montante do acréscimo do endividamento líquido resultante do artigo 5.º do presente diploma;
+
+b) Montante decorrente de programas de redução dos prazos de pagamento a fornecedores, incluindo a substituição de dívida;
+
+c) Montante das amortizações da dívida pública regional realizadas durante o ano, nas respectivas datas de vencimento ou antecipadas por razões de gestão da dívida pública regional;
+
+d) Substituição de empréstimos existentes, nos termos e condições do contrato, quando as condições dos mercados financeiros assim o aconselharem;
+
+e) Montante de outras quaisquer operações que envolvam a redução da dívida pública regional.
+
+###### Artigo 7.º — Gestão da dívida pública regional
+
+1 - Fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a realizar as seguintes operações de gestão da dívida pública regional:
+
+a) Renegociação das condições de empréstimos, incluindo a celebração de contratos de troca do regime de taxa de juro;
+
+b) Realização de operações financeiras sobre contratos de derivados que venham a ser tidas como adequadas;
+
+c) Pagamento antecipado, total ou parcial, de empréstimos já contratados;
+
+d) Reforço das dotações orçamentais para amortização de capital.
+
+2 - A contabilização dos fluxos financeiros decorrentes de gestão da dívida pública regional e da gestão dos excedentes de tesouraria é efectuada de acordo com as seguintes regras:
+
+a) As despesas decorrentes de operações de derivados são deduzidas das receitas obtidas com as mesmas operações sendo o respectivo saldo inscrito na rubrica da despesa;
+
+b) As receitas de juros resultantes da remuneração dos saldos bancários e de aplicações financeiras são abatidas às despesas com juros da dívida pública regional.
+
+### CAPÍTULO IV — Operações activas, regularização de responsabilidades e prestação de garantias
+
+###### Artigo 8.º — Operações activas do Tesouro Público Regional
+
+Fica o Governo Regional autorizado a realizar operações activas até ao montante de 60 milhões de euros, não contando para este limite os montantes referentes a reestruturações ou consolidações de créditos, incluindo a eventual capitalização de juros.
+
+###### Artigo 9.º — Recuperação de créditos
+
+Fica o Governo Regional, através do Secretário Regional do Plano e Finanças, autorizado a proceder às seguintes operações:
+
+a) Redefinir as condições de pagamento de dívidas relacionadas com contratos celebrados nos casos em que os devedores se proponham a pagar a pronto ou em prestações, e quando devidamente fundamentado e em geral no decurso de procedimento extrajudicial de conciliação, aceitar a redução do valor dos créditos;
+
+b) Aceitar, como dação em cumprimento, bens imóveis, bens móveis, valores mobiliários e outros activos financeiros.
+
+###### Artigo 10.º — Aquisição de activos e assunção e regularização de passivos e responsabilidades
+
+1 - Fica o Governo Regional, através do Secretário Regional do Plano e Finanças, autorizado a assumir passivos e responsabilidades ou adquirir créditos de entidades públicas, e a celebrar acordos para a sua regularização.
+
+2 - Fica ainda autorizado o Governo Regional, através do Secretário Regional do Plano e Finanças, a proceder à celebração de acordos de regularização de dívida com credores da Região, salvaguardando os devidos efeitos ao nível da execução orçamental, decorrentes da alteração da sua exigibilidade.
+
+###### Artigo 11.º — Alienação de participações sociais da Região
+
+Fica o Governo Regional autorizado a alienar as participações sociais que a Região Autónoma da Madeira detém em entidades participadas.
+
+###### Artigo 12.º — Avales da Região
+
+O limite máximo para a concessão de avales da Região em 2010 é fixado em termos de fluxos líquidos anuais em 290 milhões de euros.
+
+### CAPÍTULO V — Adaptação do sistema fiscal nacional às especificidades regionais
+
+###### Artigo 13.º — Imposto sobre o rendimento das pessoas colectivas
+
+1 - Mantêm-se em vigor as taxas de imposto sobre o rendimento das pessoas colectivas, para vigorar na Região Autónoma da Madeira, estabelecidas no artigo 2.º do [Decreto Legislativo Regional n.º 2/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2001-319308), de 20 de Fevereiro, sem prejuízo da sua alteração através do decreto que põe em execução o Orçamento Regional para 2010, após a entrada em vigor do diploma que aprova o Orçamento do Estado para 2010.
+
+2 - O artigo 2.º do [Decreto Legislativo Regional n.º 2/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2001-319308), de 20 de Fevereiro, passa a ter a seguinte redacção:
+
+«Artigo 2.º
+
+Taxa geral de IRC
+
+1 - ...
+
+2 - ...
+
+3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.
+
+4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.
+
+5 - O imposto devido nos termos das alíneas b) e c) do n.º 2 do presente artigo é determinado pela proporção entre o volume anual correspondente às instalações situadas na Região Autónoma da Madeira e o volume anual, total, de negócios do exercício.
+
+6 - (Anterior n.º 4.)»
+
+###### Artigo 14.º — Imposto sobre o rendimento das pessoas singulares
+
+Mantêm-se em vigor as taxas de imposto sobre o rendimento das pessoas singulares, para vigorar na Região Autónoma da Madeira, estabelecidas no artigo 2.º do [Decreto Legislativo Regional n.º 3/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2001-386785), de 22 de Fevereiro, sem prejuízo da actualização dos respectivos escalões através do decreto que põe em execução o Orçamento Regional para 2010, após a entrada em vigor do diploma que aprova o Orçamento do Estado para 2010.
+
+### CAPÍTULO VI — Execução orçamental
+
+###### Artigo 15.º — Execução
+
+O Governo Regional tomará as medidas necessárias para uma rigorosa contenção das despesas públicas e controlo da sua eficiência de forma a alcançar a melhor aplicação dos recursos públicos.
+
+###### Artigo 16.º — Alterações orçamentais
+
+1 - O Governo Regional fica autorizado a proceder às alterações orçamentais que forem necessárias à boa execução do Orçamento, fazendo cumprir a legislação em vigor nesta matéria, designadamente o [Decreto-Lei n.º 71/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1995-230110), de 15 de Abril.
+
+2 - Fica o Governo Regional autorizado a efectuar as alterações orçamentais necessárias, tendo em vista a maximização da utilização dos recursos financeiros disponíveis, independentemente da natureza das classificações funcionais e capítulos do Orçamento Regional para 2010.
+
+3 - O disposto no número anterior é apenas aplicável, em casos excepcionais e devidamente justificados, que envolvam a necessidade de reafectação de dotações orçamentais, decorrentes da mobilidade de recursos humanos entre serviços da administração regional, reestruturação de serviços, e de ajustamentos em dotações orçamentais afectas à execução de projectos co-financiados, nas condições a definir no decreto que põe em execução o Orçamento Regional.
+
+4 - Fica ainda o Governo Regional autorizado a proceder às alterações nos orçamentos dos organismos com autonomia financeira constantes dos mapas v a viii, nos termos do n.º 7 do artigo 20.º da [Lei n.º 28/92](https://diariodarepublica.pt/dr/detalhe/lei/28-1992-240660), de 1 de Setembro.
+
+###### Artigo 17.º — Serviços e fundos autónomos
+
+1 - Os serviços e fundos autónomos deverão remeter à Secretaria Regional do Plano e Finanças balancetes mensais que permitam avaliar a respectiva execução orçamental.
+
+2 - Deverão, igualmente, ser remetidos à Secretaria Regional do Plano e Finanças todos os elementos necessários à avaliação da execução das despesas do PIDDAR.
+
+3 - O incumprimento do disposto nos números anteriores pode constituir fundamento para retenção das transferências, recusa das antecipações de duodécimos e descongelamentos de rubricas orçamentais de despesa, nos termos a fixar no decreto regulamentar regional de execução orçamental, devendo ficar salvaguardado o pagamento das despesas com pessoal.
+
+4 - A emissão de garantias a favor de terceiros pelos serviços e fundos autónomos depende de autorização prévia do Secretário Regional do Plano e Finanças.
+
+5 - Fica vedado o recurso ao crédito, considerado este em todas as suas formas, incluindo a modalidade de celebração de contratos de locação financeira por parte dos serviços e fundos autónomos.
+
+###### Artigo 18.º — Alteração ao [Decreto Legislativo Regional n.º 11/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1983-454064), de 1 de Agosto
+
+Os artigos 1.º e 3.º do [Decreto Legislativo Regional n.º 11/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1983-454064), de 1 de Agosto, diploma que aprova as sobretaxas que incidem sobre os prémios de seguro cobrados na Região reverterão a favor dos cofres da Região Autónoma da Madeira, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+Constituem receita da Região Autónoma da Madeira:
+
+1 - ...
+
+a) 13 % sobre os prémios de seguro contra fogo;
+
+b) ...
+
+c) 2 % dos prémios ou contribuições relativos a seguros dos ramos de vida, doença, acidentes de trabalho, automóvel e responsabilidade civil e acidentes pessoais.
+
+2 - ...
+
+Artigo 3.º
+
+1 - Todos os valores obtidos e previstos no presente diploma serão consignados pela Secretaria Regional do Plano e Finanças ao Serviço Regional de Protecção Civil, IP-RAM, para o financiamento de investimentos no âmbito da sua actividade.
+
+2 - O Serviço Regional de Protecção Civil, IP-RAM, não poderá afectar tais verbas, seja a que título for, para outras finalidades senão as indicadas no n.º 1 deste artigo.»
+
+### CAPÍTULO VII — Mercados públicos
+
+###### Artigo 19.º — Competência para autorização de despesas com empreitadas de obras públicas, aquisição de serviços e bens móveis
+
+São competentes para autorizar despesas com empreitadas de obras públicas, aquisição de serviços e bens móveis as seguintes entidades:
+
+a) Até (euro) 100 000, os directores regionais e os órgãos máximos dos serviços dotados de autonomia administrativa;
+
+b) Até (euro) 200 000, os órgãos máximos dos serviços e fundos autónomos;
+
+c) Até (euro) 3 750 000, os Secretários Regionais;
+
+d) Até (euro) 5 000 000, o Vice-Presidente do Governo Regional;
+
+e) Até (euro) 7 500 000, o Presidente do Governo Regional;
+
+f) Sem limite, o Conselho do Governo Regional.
+
+###### Artigo 20.º — Competência para autorização de despesas devidamente discriminadas incluídas em planos de actividade
+
+1 - As despesas devidamente discriminadas, incluídas em planos de actividade que sejam objecto de aprovação tutelar, podem ser autorizadas:
+
+a) Até (euro) 150 000, pelos directores regionais ou equiparados e pelos órgãos máximos dos serviços com autonomia administrativa;
+
+b) Até (euro) 300 000, pelos órgãos máximos dos serviços e fundos autónomos.
+
+2 - A competência fixada nos termos do n.º 1 mantém-se para as despesas provenientes de alterações, variantes, revisões de preços e contratos adicionais desde que o respectivo custo total não exceda 10 % do limite da competência inicial.
+
+3 - Quando for excedido o limite percentual estabelecido no número anterior, a autorização do acréscimo da despesa compete à entidade que, nos termos do n.º 1, detém a competência para autorizar a realização do montante total da despesa.
+
+###### Artigo 21.º — Competência para autorizar despesas relativas à execução de planos ou programas plurianuais legalmente aprovados
+
+As despesas relativas à execução de planos ou programas plurianuais legalmente aprovados podem ser autorizadas:
+
+a) Até (euro) 500 000, pelos directores regionais ou equiparados e pelos órgãos máximos dos serviços com autonomia administrativa;
+
+b) Até (euro) 1 000 000, pelos órgãos máximos dos serviços e fundos autónomos;
+
+c) Sem limite, pelos Secretários Regionais, pelo Vice-Presidente e pelo Presidente do Governo Regional.
+
+###### Artigo 22.º — Competência para aquisição, alienação, arrendamento, locação ou oneração de imóveis
+
+1 - A autorização de despesas relativas à aquisição, arrendamento ou locação de imóveis para a instalação de serviços do Governo Regional, incluindo os serviços e fundos autónomos, bem como a autorização para a alienação, arrendamento, locação ou oneração, por qualquer forma, de imóveis da Região Autónoma da Madeira, é da exclusiva competência do Conselho do Governo Regional e está sujeita a parecer prévio da Direcção Regional do Património, nos termos da lei.
+
+2 - O disposto no número anterior não é aplicável à PATRIRAM - Titularidade e Gestão de Património Público Regional, S. A.
+
+3 - Exceptua-se do disposto no n.º 1 deste artigo, a competência para autorizar a alienação ou oneração de imóveis pelo IHM - Investimentos Habitacionais da Madeira, E. P. E., competência que é do órgão máximo do serviço exercida mediante autorização do Secretário Regional do Plano e Finanças.
+
+4 - Exceptua-se ainda a emissão do parecer prévio da Direcção Regional do Património, quando os procedimentos identificados no n.º 1 deste artigo sejam promovidos por esta entidade e tenham sido objecto de autorização do responsável máximo do serviço.
+
+###### Artigo 23.º — Limite de competência para autorização de despesas sem concurso ou contrato escrito
+
+1 - Salvo o disposto no número seguinte, a dispensa de celebração de contrato escrito é da competência do respectivo secretário regional.
+
+2 - Nos casos em que a despesa deve ser autorizada pelo Presidente do Governo Regional ou pelo Conselho do Governo, a dispensa de celebração de contrato escrito é da competência dessas entidades, sob proposta do respectivo secretário.
+
+###### Artigo 24.º — Alteração ao [Decreto Legislativo Regional n.º 34/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2008-455621), de 14 de Agosto
+
+O artigo 7.º do [Decreto Legislativo Regional n.º 34/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2008-455621), de 14 de Agosto, diploma que adaptou à Região Autónoma da Madeira o Código dos Contratos Públicos, passa a ter a seguinte redacção:
+
+«Artigo 7.º
+
+Documentos de habilitação ou da candidatura
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+3 - Para além das causas de exclusão previstas no artigo 70.º, n.º 2, do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de exclusão o incorrecto ou inadequado preenchimento das obrigações fiscais declarativas a apresentar pelo adjudicatário nos termos do número anterior.»
+
+### CAPÍTULO VIII — Concessão de subsídios e outras formas de apoio
+
+###### Artigo 25.º — Concessão de subsídios e outras formas de apoio
+
+1 - Fica o Governo Regional autorizado a conceder subsídios e outras formas de apoio, a entidades públicas e privadas no âmbito das acções e projectos de desenvolvimento que visem a melhoria da qualidade de vida e tenham enquadramento no plano de desenvolvimento económico e social da Região Autónoma da Madeira, designadamente para:
+
+a) Construção de habitação social;
+
+b) Reabilitação dos bairros sociais;
+
+c) Apoio à habitação para jovens.
+
+2 - Fica ainda o Governo Regional autorizado a conceder subsídios e outras formas de apoio a acções e projectos de carácter socioeconómico, cultural, desportivo e religioso, que visem a salvaguarda das tradições, usos e costumes, o património regional ou a promoção da Região Autónoma da Madeira.
+
+3 - A concessão destes auxílios fundamenta-se em motivo de interesse público e faz-se com respeito pelos princípios da publicidade, da transparência, da concorrência e da imparcialidade.
+
+4 - Os subsídios e outras formas de apoio concedidos serão objecto de contrato-programa com o beneficiário, onde são definidos os objectivos, as formas de auxílio, as obrigações das partes e as penalizações em caso de incumprimento.
+
+5 - A concessão dos auxílios previstos neste preceito é sempre precedida duma quantificação da respectiva despesa, devendo ser autorizada através de resolução do plenário do Governo Regional, após parecer favorável da Secretaria Regional do Plano e Finanças.
+
+6 - Todos os subsídios e formas de apoio concedidos serão objecto de publicação no Jornal Oficial da Região Autónoma da Madeira.
+
+7 - Os demais procedimentos inerentes aos apoios previstos nesta norma serão definidos no decreto regulamentar regional de execução orçamental.
+
+###### Artigo 26.º — Subsídios e outras formas de apoio abrangidos pelo artigo 25.º deste diploma
+
+1 - Estão abrangidos pelo disposto no artigo 25.º do presente diploma os subsídios e outras formas de apoio concedidos pelos serviços da administração directa regional assim como os referentes a todas as entidades públicas que, nos termos da lei, gozem de autonomia administrativa e financeira.
+
+2 - Os apoios financeiros concedidos ao abrigo de legislação específica deverão respeitar o previsto no respectivo regime legal e os n.os 3 a 7 do artigo anterior.
+
+###### Artigo 27.º — Apoio humanitário
+
+O Governo Regional, na medida do estritamente necessário e por motivos de urgência imperiosa, resultantes de calamidades naturais ou de outros acontecimentos extraordinários, pode atribuir auxílios públicos de natureza humanitária, destinados a prestar apoio a acções de reconstrução e recuperação de infra-estruturas e actividades económicas e sociais, bem como às respectivas populações afectadas.
+
+###### Artigo 28.º — Indemnizações compensatórias
+
+Fica o Governo Regional autorizado, mediante resolução do plenário do Conselho do Governo Regional, a conceder indemnizações compensatórias às empresas que prestem serviço público, mediante parecer prévio da Secretaria Regional do Plano e Finanças.
+
+### CAPÍTULO IX — Autonomia administrativa e financeira
+
+###### Artigo 29.º — Gestão financeira dos projectos enquadrados em programas e iniciativas comunitários no âmbito do sector das pescas
+
+1 - Compete à Direcção Regional de Pescas, adiante designada por DRP, a gestão financeira dos projectos públicos no sector das pescas, co-financiados no âmbito de programas e iniciativas comunitários.
+
+2 - Para os exclusivos efeitos do disposto no número anterior, a DRP dispõe de autonomia administrativa e financeira, nos termos do artigo 6.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro, designando-se Fundo de Gestão dos Programas da DRP.
+
+3 - Na sequência do preceituado nos números anteriores, a DRP fica obrigada às seguintes formalidades:
+
+a) Elaboração do orçamento privativo nos termos da lei geral;
+
+b) Observância do regime das contas de ordem;
+
+c) Prestação de contas nos termos da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto.
+
+4 - Constituem receitas próprias da Região, consignadas ao Fundo de Gestão dos Programas da DRP:
+
+a) Todos os apoios provenientes da União Europeia no âmbito do Fundo de Gestão dos Programas da DRP, nos termos da alínea i) do artigo 108.º da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, designadamente os relativos a reembolsos e adiantamentos das despesas elegíveis, nos termos dos regulamentos comunitários aplicáveis;
+
+b) Todos os apoios provenientes do Orçamento do Estado (PIDDAC) relativos ao financiamento da componente nacional das despesas elegíveis dos projectos do Fundo de Gestão dos Programas da DRP, nos termos da alínea g) do artigo 108.º da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto;
+
+c) As transferências provenientes do orçamento da Região relativas à componente do auto-financiamento e às despesas não elegíveis dos projectos do Fundo de Gestão dos Programas da DRP.
+
+5 - As receitas a que se referem as alíneas a) e b) do número anterior, antes de proceder à sua efectiva utilização para efeitos de pagamentos, serão arrecadadas pelo Fundo de Gestão dos Programas da DRP, que as fará passar pelos cofres da Região, através do regime de contas de ordem.
+
+6 - Para efeitos de administração do Fundo de Gestão dos Programas da DRP será criado um conselho administrativo, cuja composição e nomeação será definida por portaria conjunta dos Secretários Regionais, respectivamente, do Ambiente e dos Recursos Naturais e do Plano e Finanças.
+
+###### Artigo 30.º — Programas co-financiados pelo Fundo Social Europeu
+
+1 - A gestão financeira dos programas comunitários co-financiados pela vertente Fundo Social Europeu (FSE), compete ao Fundo de Gestão para os Programas da Formação Profissional, adiante designado abreviadamente por FGPFP.
+
+2 - Ao abrigo do disposto no artigo 6.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro, é atribuído ao FGPFP autonomia administrativa e financeira, para a assistência técnica, acompanhamento e gestão dos programas que na Região forem realizados no âmbito do sector público e privado co-financiados pelo FSE e de programas de iniciativa comunitária.
+
+3 - A comissão de gestão do FGPFP é constituída pelo director regional de Qualificação Profissional, que presidirá e por dois técnicos superiores afectos à Secretaria Regional de Educação e Cultura, a designar por despacho conjunto dos Secretários Regionais de Educação e Cultura e do Plano e Finanças.
+
+###### Artigo 31.º — Execução financeira dos projectos apoiados pelo Fundo Europeu Agrícola para o Desenvolvimento Rural
+
+1 - A execução financeira dos projectos da Administração Pública Regional co-financiados pelo Fundo Europeu Agrícola para o Desenvolvimento Rural (FEADER) no âmbito do Programa de Desenvolvimento Rural para a Região Autónoma da Madeira no período de 2007-2013, incumbe à Secretaria Regional do Ambiente e dos Recursos Naturais.
+
+2 - Tendo em vista o disposto no número anterior, o Gabinete do Secretário Regional do Ambiente e dos Recursos Naturais dispõe de autonomia administrativa e financeira, nos termos do artigo 6.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro, exclusivamente para efeitos de gestão dos projectos da responsabilidade da Administração Pública Regional apoiados pelo FEADER, no âmbito do Programa de Desenvolvimento Rural para a Região Autónoma da Madeira, co-financiado pelo Orçamento das Comunidades, pelo Orçamento do Estado e pelo Orçamento Regional.
+
+3 - Para efeitos do disposto nos números anteriores, o Gabinete do Secretário Regional do Ambiente e dos Recursos Naturais fica obrigado:
+
+a) À elaboração do orçamento privativo nos termos da lei geral;
+
+b) À observância do regime de contas de ordem;
+
+c) À prestação de contas nos termos da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto.
+
+4 - Constituem receitas próprias da Região, consignadas ao Gabinete do Secretário do Ambiente e dos Recursos Naturais, para efeitos de gestão dos referidos projectos apoiados pelo FEADER:
+
+a) Todos os apoios provenientes da União Europeia no âmbito do FEADER, nos termos da alínea i) do artigo 108.º da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, designadamente os relativos a reembolsos e adiantamentos das despesas elegíveis, nos termos dos regulamentos comunitários aplicáveis;
+
+b) Todos os apoios provenientes do Orçamento do Estado (PIDDAC) relativos ao financiamento da componente nacional das despesas elegíveis dos projectos co-financiados pelo FEADER, nos termos da alínea g) do artigo 108.º da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto;
+
+c) As transferências provenientes do Orçamento da Região relativas à componente do auto-financiamento e às despesas não elegíveis dos projectos apoiados pelo FEADER.
+
+5 - As receitas a que se referem as alíneas a) e b) do número anterior serão arrecadadas pelo Gabinete do Secretário Regional do Ambiente e dos Recursos Naturais, que as fará passar pelos cofres da Região, através do regime de contas de ordem, antes de proceder à sua efectiva utilização para efeitos de pagamentos.
+
+6 - A composição e a nomeação do conselho administrativo do Gabinete do Secretário Regional do Ambiente e dos Recursos Naturais, para efeitos de gestão dos projectos co-financiados pelo FEADER serão definidas por portaria conjunta dos Secretários Regionais do Ambiente e Recursos Naturais e do Plano e Finanças.
+
+### CAPÍTULO X — Disposições finais e transitórias
+
+###### Artigo 32.º — Cauções prestadas por terceiros
+
+As cauções prestadas na Região Autónoma da Madeira pelos utentes de serviços essenciais e não reclamadas nos prazos e termos previstos no [Decreto-Lei n.º 195/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1999-311254), de 8 de Junho, com a alteração introduzida pelo [Decreto-Lei n.º 100/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2007-520205), de 2 de Abril, revertem para o Serviço Regional de Defesa do Consumidor, nos termos do artigo 5.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro.
+
+###### Artigo 33.º — Consignação da receita
+
+Nos termos do artigo 5.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro, e desde que daí não resulte acréscimo de despesa, fica o Governo Regional autorizado a consignar receitas a determinadas despesas, as quais são geridas por fundos autónomos a constituir por portaria conjunta do Secretário Regional do Plano e Finanças e do membro do Governo com a tutela do sector.
+
+###### Artigo 34.º — Despesas transitadas para outros departamentos
+
+As despesas relativas aos programas e projectos que, nos termos do presente diploma, mudaram de dependência orgânica serão processadas, liquidadas e pagas por conta das dotações orçamentais dos departamentos do Governo Regional onde aqueles foram integrados.
+
+###### Artigo 35.º — Reorganização de serviços na Administração Pública Regional
+
+No âmbito da reorganização orgânica dos serviços da Administração Pública Regional, e sem prejuízo do cumprimento do regime jurídico das alterações orçamentais, a gestão das dotações orçamentais é transferida para a tutela dos novos serviços em que sejam incorporados.
+
+###### Artigo 36.º — Serviços dotados de autonomia administrativa, financeira e patrimonial
+
+1 - Enquanto não for aprovado o Orçamento da Região para 2011, os encargos com os serviços que venham a ser criados em 2010 serão suportados em conta das dotações inscritas nos correspondentes serviços que forem extintos ou integrados noutros serviços.
+
+2 - Durante o ano económico de 2010, o Conselho do Governo Regional, mediante proposta conjunta dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, adoptará as medidas necessárias para o controlo extraordinário da despesa do Serviço Regional de Saúde.
+
+###### Artigo 37.º — Seguros
+
+Fica o Governo Regional autorizado a contratar seguros de responsabilidade civil extracontratual.
+
+###### Artigo 38.º — Cobranças
+
+As receitas depositadas nos cofres da Região até 31 de Março de 2011 que digam respeito a cobranças efectuadas em 2010 poderão excepcionalmente ser consideradas com referência a 31 de Dezembro de 2010.
+
+###### Artigo 39.º — Retenções
+
+1 - Os serviços do Governo Regional, incluindo os serviços e fundos autónomos ficam autorizados a proceder a retenções de verbas, a entidades que tenham débitos por satisfazer designadamente dívidas por contribuições e impostos, empréstimos e prestações de serviços, nos termos a definir no decreto regulamentar regional de execução orçamental.
+
+2 - Nos termos do disposto no artigo 34.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, fica ainda o Governo Regional, através da Secretaria Regional do Plano e Finanças, autorizada a proceder à retenção das transferências para as autarquias locais da Região Autónoma da Madeira para a regularização de dívidas às empresas participadas pela Região, bem como para cumprimento de contratos-programa, protocolos, acordos de cooperação e de colaboração, contratos de financiamento e concessão excepcional de auxílios e de outros instrumentos alternativos celebrados no âmbito da cooperação técnica e financeira.
+
+3 - Quando não seja tempestivamente prestada à Secretaria Regional do Plano e Finanças, pelos órgãos competentes e por motivo que lhes seja imputável, a informação tipificada na lei de enquadramento orçamental, ou outra disposição legal aplicável, podem ser retidas as transferências orçamentais, nos termos a fixar no decreto regulamentar regional de execução orçamental, até que a situação seja devidamente sanada.
+
+###### Artigo 40.º — Subsídios de fixação, suplemento de penosidade e subsídio de disponibilidade permanente
+
+Até a revisão dos suplementos remuneratórios a que se refere o artigo 112.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, mantém-se em vigor, designadamente os seguintes subsídios:
+
+a) O subsídio de insularidade atribuído aos funcionários, agentes e contratados há mais de um ano na ilha do Porto Santo, ao abrigo dos Decretos-Leis n.os 44 109, de 21 de Dezembro de 1961, 46 798, de 30 de Dezembro de 1965, e 76/71, de 18 de Março, e da Resolução do Governo Regional da Região Autónoma da Madeira n.º 371/79, de 22 de Novembro, no montante de 30 % sobre as respectivas remunerações base;
+
+b) O suplemento de penosidade atribuído aos guardas florestais ao abrigo do [Decreto Legislativo Regional n.º 7/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1993-266621), de 27 de Março, alterado pelo artigo 25.º do [Decreto Legislativo Regional n.º 4-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-1997-231958), de 21 de Abril;
+
+c) O subsídio de disponibilidade permanente dos motoristas do gabinete dos membros do Governo, criado pelo artigo 40.º do [Decreto Legislativo Regional n.º 45/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), de 31 de Dezembro e regulamentado por despacho do Secretário Regional do Plano e Finanças.
+
+###### Artigo 41.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos desde 1 de Janeiro de 2010.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de Dezembro de 2009.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 23 de Dezembro de 2009.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25200/0885908920.pdf)

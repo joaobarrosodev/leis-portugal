@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70139958:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-122766575",
+ "dre_path": "/dr/detalhe/portaria/266-2015-70139958",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122766675",
+    "122766676",
+    "122766677",
+    "122766678"
+   ]
+  },
+  {
+   "date": "2019-07-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747584:por",
+     "title": "Portaria n.º 199/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/portaria/199-2019-122747584"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "122766675",
+    "122769975",
+    "122766677",
+    "122766678",
+    "122766679"
+   ]
+  }
+ ],
+ "fragments": {
+  "122766675": {
+   "fragment_id": "122766576",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 266/2015\n\nde 31 de agosto\n\nO Decreto-Lei n.º 153/2015, de 7 de agosto, procedeu à primeira alteração ao Decreto-Lei n.º 23/2012, de 1 de fevereiro, à primeira alteração ao Decreto-Lei n.º 54/2014, de 9 de abril, e à primeira alteração ao Decreto Regulamentar n.º 30/2012, de 13 de março, no sentido de estabelecer a prestação centralizada de serviços comuns, nos domínios da gestão dos recursos humanos, financeiros, patrimoniais e do apoio jurídico e de contencioso, aos serviços da administração direta integrados no MAOTE, sem prejuízo das atribuições próprias destes últimos.\n\nImporta, agora, aprovar a portaria que define a dotação máxima de chefes de equipa multidisciplinar da Inspeção-geral dos Ministérios do Ambiente, Ordenamento do Território e Energia e da Agricultura e do Mar.\n\nAssim:\n\nAo abrigo do disposto nos n.os 4 e 5 do artigo 21.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro do Ambiente, Ordenamento do Território e Energia, o seguinte:"
+  },
+  "122766676": {
+   "fragment_id": "122766577",
+   "type": 11,
+   "heading": "Artigo 1.º — Chefes de Equipas Multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Chefes de Equipas Multidisciplinares\n\nÉ fixada em 18 a dotação máxima de chefes de equipas multidisciplinares."
+  },
+  "122766677": {
+   "fragment_id": "122766578",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma Revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma Revogatória\n\nÉ revogada a portaria n.º 170/2012, de 24 de maio."
+  },
+  "122766678": {
+   "fragment_id": "122766579",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação.\n\nEm 26 de agosto de 2015."
+  },
+  "122769975": {
+   "fragment_id": "122766577",
+   "type": 11,
+   "heading": "Artigo 1.º — Chefes de Equipas Multidisciplinares",
+   "in_force_from": "2019-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/portaria/199-2019-122747584), em vigor a partir de 2019-07-03, produz efeitos a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 1.º — Chefes de Equipas Multidisciplinares\n\nÉ fixada em 19 (dezanove) a dotação máxima de chefes de equipas multidisciplinares.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/portaria/199-2019-122747584), em vigor a partir de 2019-07-03, produz efeitos a partir de 2019-04-02"
+  },
+  "122766679": {
+   "fragment_id": "122766580",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva."
+  }
+ }
+}

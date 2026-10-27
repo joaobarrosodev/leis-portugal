@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:924288976:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/acordao-tribunal-constitucional/2025-924356854",
+ "dre_path": "/dr/detalhe/acordao-tribunal-constitucional/478-2025-924288976",
+ "source_lastmod": "2025-07-15",
+ "versions": [
+  {
+   "date": "2025-07-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "924226838"
+   ]
+  }
+ ],
+ "fragments": {
+  "924226838": {
+   "fragment_id": "924356855",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Acórdão do Tribunal Constitucional n.º 478/2025\n\nProcesso n.º 899/24\n\nAcordam, em Plenário, no Tribunal Constitucional"
+  }
+ }
+}

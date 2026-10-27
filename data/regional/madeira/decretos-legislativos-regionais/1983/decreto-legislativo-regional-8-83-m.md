@@ -1,0 +1,183 @@
+---
+schema_version: '1.0'
+id: pt:dre:453814:por
+title: Decreto Legislativo Regional n.º 8/83/M
+short_title: null
+summary: Estabelece o prazo e condições para a permanência dos veículos importados temporariamente por emigrantes, nos termos
+  do Decreto-Lei n.º 398/78, de 15 de Dezembro
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Regional
+proposing_entity: null
+official_number: 8/83/M
+official_date: null
+publication_date: '1983-07-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 167/1983, Série I de 1983-07-22
+  number: '167'
+  series: I
+  supplement: null
+  pages: 2725 - 2727
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/07/16700/27252727.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '453814'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/8-1983-453814
+  internal: pt:dre:453814:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1983-453814
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1983-453814
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:37:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f4c7a8e45c2184c864fee6a206a2aeeae7ff0350fe4740afc42be041c50c291f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Emigrante
+- Importação de Veículos
+- Madeira.região Autónoma
+relationships:
+- type: amended_by
+  target: pt:dre:326108:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:324877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462209:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:37:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 8/83/M
+
+Importação temporária de veículos automóveis por emigrantes
+
+Os emigrantes da Região Autónoma da Madeira também conhecem a situação gravosa de insularidade, que, de uma forma particular, se patenteia na situação de relativo desfavor quando decidem pela importação temporária dos veículos automóveis.
+
+Na verdade, naturalmente não detêm o emigrante e a respectiva viatura que consigo pretende trazer de volta à Região a mesma mobilidade que possui inequivocamente o emigrante do continente português. Este consegue de certo modo «ampliar» e renovar sem grandes custos nem contratempos, através do uso sucessivo da saída e nova entrada da viatura, os prazos fixados na lei.
+
+Justifica-se, por conseguinte, a proposta de alteração à lei nacional, dado que pacificamente se aceitará ser esta uma matéria peculiar de manifesto interesse específico da Região.
+
+Por outro lado, esta medida mais não é do que a concretização de uma das preocupações do executivo regional, inclusa no respectivo programa de governo aprovado pela Assembleia Regional, e que vai de encontro ao desejo de facultar ao emigrante da Região certas facilidades razoáveis, equilibradas e ajustadas que o compensem de algum modo do estatuto algo forçado de não residente que detém, facilidades que mais não são afinal do que a tentativa de oferecer análogas condições no domínio em apreço às que usufruem os emigrantes do território do continente.
+
+Assim, a Assembleia Regional da Madeira, nos termos da alínea a) do artigo 229.º da Constituição, aprova, para valer como lei, o seguinte:
+
+Artigo 1.º Na Região Autónoma da Madeira o prazo para a permanência dos veículos importados temporariamente, nos termos do [Decreto-Lei n.º 398/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1978-324877), de 15 de Dezembro, será no máximo de três períodos de 180 dias, nas condições seguintes:
+
+a) O veículo pode circular dentro de cada ano 180 dias, consecutivos ou não;
+
+b) O prazo inicia-se na data em que o veículo entrou em circulação no País;
+
+c) Só poderá usufruir de 2.º e 3.º períodos de 180 dias decorridos, respectivamente, 1 e 2 anos, a contar da data de entrada do veículo no País;
+
+d) Se antes de terminarem os 180 dias o beneficiário tiver de ausentar-se do País, requererá aos serviços aduaneiros que o veículo seja por estes imobilizado através de selagem por período inferior a 1 ano, podendo vir a utilizar os restantes dias dentro do ano a que respeita e conforme a alínea b);
+
+e) O veículo não poderá permanecer em regime de importação temporária mais de 3 anos, incluindo o tempo que esteve selado pela alfândega, contados da maneira indicada na alínea b).
+
+Art. 2.º Os veículos referidos no artigo anterior só poderão ser importados pelos respectivos proprietários, emigrantes produtivos, cuja prova seja feita nos termos do [Decreto-Lei n.º 455/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1980-462209), de 9 de Outubro, e só será permitida a sua condução pelo próprio, pelo cônjuge ou por pessoas nas situações indicadas nas alíneas b) e c) do n.º 1 do artigo 4.º do decreto-lei aqui referido.
+
+Art. 3.º - 1 - Antes de esgotados os prazos estabelecidos no artigo 1.º poderá o interessado requerer fundamentadamente a prorrogação para circular, a sua reexportação ou a selagem.
+
+2 - Não aproveitando o interessado as faculdades previstas no número antecedente, ou sendo-lhe indeferido o requerimento respectivo, deverá, nos termos do [Decreto-Lei n.º 27908](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27908-1937-428441), de 30 de Julho de 1937, alterado pelo [Decreto-Lei n.º 249/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1975-336090), de 22 de Maio, proceder, alternativamente, à reexportação do veículo ou ao pagamento dos direitos e mais imposições, sob pena de o mesmo poder ser considerado abandonado a favor da Região no prazo de 90 dias a contar da data da detenção.
+
+Art. 4.º O período de ausência do País do beneficiário, e simultaneamente a selagem do seu veículo, concretizada nos termos do presente diploma, é, para efeitos do [Decreto-Lei n.º 398/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1978-324877), de 15 de Dezembro, considerada como se o referido veículo também o estivesse, devendo tal comprovação ser efectuada pela anotação do passaporte ou documento de igual força.
+
+Art. 5.º - 1 - Para efeitos de fiscalização da circulação do veículo abrangido pelo regime jurídico estabelecido no presente diploma, será exigido ao condutor um cartão de identificação individualizado da viatura, devidamente preenchido pelos serviços aduaneiros, cujo modelo é publicado em anexo ao presente diploma.
+
+2 - O cartão em referência não invalida a exigência de outros documentos que devam acompanhar o veículo ou o condutor, designadamente o título de registo de propriedade do veículo, o livrete de circulação ou documentos equivalentes.
+
+3 - A falta do documento de identificação do veículo ou a violação de outra exigência legal, especialmente o ultrapassar de prazos de circulação fixados no artigo 1.º, sujeita o infractor às disposições fiscais cominadas na lei, nomeadamente à sanção prevista no artigo 50.º do Contencioso Aduaneiro.
+
+Art. 6.º Mantém-se em tudo o mais, com as necessárias adaptações no que se refere aos emigrantes, o disposto no [Decreto-Lei n.º 398/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1978-324877), de 15 de Dezembro.
+
+Art. 7.º O regime consignado no presente diploma é aplicado aos veículos de emigrantes que hajam dado entrada no País até 6 meses contados a partir da sua data de entrada em vigor.
+
+Art. 8.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por decreto legislativo regional.
+
+Art. 9.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária em 14 de Junho de 1983.
+
+O Presidente da Assembleia Regional da Madeira, Emanuel do Nascimento dos Santos Rodrigues.
+
+Assinado em 29 de Junho de 1983.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
+
+Importação temporária de veículos automóveis por emigrantes (artigo 5.º do Decreto Legislativo Regional n.º 8/83/M, de 22 de Julho).
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/16700/27252727.pdf)
+
+Notas
+
+1 - Além dos proprietários ou legítimos detentores, os automóveis só podem ser conduzidos por aqueles:
+
+a) Que os substituem, mediante autorização escrita, devidamente reconhecida, desde que também não tenham residência no País e nele não exerçam qualquer actividade;
+
+b) Que, comprovadamente, neles procedam a qualquer experiência por virtude de avaria mecânica;
+
+c) Que hajam sido autorizados pelas entidades aduaneiras para o fazer, designadamente em razão de se acharem vinculados por um contrato de prestação de serviços profissionais, como condutor, ao importador do veículo. (Artigo 2.º do Decreto Legislativo Regulamentar n.º 8/83/M, de 22 de Julho.)
+
+2 - O presente diploma terá de acompanhar sempre o veículo automóvel, e deverá ser apresentado às autoridades quando exigido (Polícia de Segurança Pública, Guarda Fiscal, serviços aduaneiros e Direcção Regional de Transportes da Região Autónoma da Madeira).
+
+2.1 - A sua falta faz incorrer na sanção prevista no artigo 50.º do Contencioso Aduaneiro (n.º 3 do artigo 5.º do Decreto Legislativo Regional n.º 8/83/M, de 22 de Julho).
+
+3 - O proprietário do veículo, antes de terminar o prazo de circulação, deverá contactar os serviços alfandegários, a fim de regularizar a situação do mesmo.

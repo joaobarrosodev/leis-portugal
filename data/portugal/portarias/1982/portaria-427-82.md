@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:606739:por
+title: Portaria n.º 427/82
+short_title: null
+summary: Alarga o quadro de pessoal do Serviço de Estudos do Ambiente para integração de funcionários adidos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Qualidade de Vida, das Finanças e do Plano e da Reforma Administrativa
+proposing_entity: null
+official_number: 427/82
+official_date: null
+publication_date: '1982-04-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/1982, Série I de 1982-04-28
+  number: '98'
+  series: I
+  supplement: null
+  pages: 1048 - 1048
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09800/10481048.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '606739'
+  dre_path: /dr/detalhe/portaria/427-1982-606739
+  internal: pt:dre:606739:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-1982-606739
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-1982-606739
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:16:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 26c4c445ef08ab81c24f835f51fe3802c33a0261d8082c1f120fe9f6bbec2dc8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:16:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Integração de Trabalhadores
+- Quadro Geral de Adidos
+- Serviço de Estudos do Ambiente
+relationships:
+- type: amended_by
+  target: pt:dre:660351:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:660351:por
+  label: "Substituido o mapa anexo pela PORT.99/84.1984.02.15.PCM DR.IS [39]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-1984-660351
+  date: '1984-02-15'
+- type: cites
+  target: pt:dre:312191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:16:22Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 427/82
+
+de 28 de Abril
+
+Considerando a necessidade de promover a rápida integração dos funcionários adidos nos serviços e organismos onde exerçam actividade e satisfaçam necessidades permanentes de serviço;
+
+Considerando as orientações estabelecidas nesse sentido no n.º 3 do artigo 2.º do [Decreto-Lei n.º 182/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1980-474880), de 3 de Junho:
+
+Manda o Governo da República Portuguesa, pelos Ministros de Estado e da Qualidade de Vida e das Finanças e do Plano e pelo Ministro da Reforma Administrativa, o seguinte:
+
+1.º
+
+(Alargamento do quadro de pessoal do Serviço de Estudos do Ambiente)
+
+O quadro de pessoal do Serviço de Estudos do Ambiente, aprovado pelo [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro, alterado pelo [Decreto-Lei n.º 36/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1978-446530), de 18 de Fevereiro, e pela [Portaria n.º 847/80](https://diariodarepublica.pt/dr/detalhe/portaria/847-1980-462789), de 22 de Outubro, é aumentado dos lugares constantes do mapa anexo ao presente diploma.
+
+2.º
+
+(Entrada em vigor)
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Ministérios da Qualidade de Vida, das Finanças e do Plano e da Reforma Administrativa, 13 de Abril de 1982. - O Ministro de Estado e da Qualidade de Vida, Gonçalo Pereira Ribeiro Teles. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
+
+MAPA
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09800/10481048.pdf)

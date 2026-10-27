@@ -1,0 +1,216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:560272:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-156102020",
+ "dre_path": "/dr/detalhe/decreto-lei/238-2000-560272",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156106083",
+    "156106084",
+    "156106085",
+    "156106086",
+    "156106087",
+    "156106088",
+    "156106089",
+    "156106090",
+    "156106091",
+    "156106092",
+    "156106093",
+    "156106094",
+    "156106095",
+    "156106096",
+    "156106098"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "156106083",
+    "156106084",
+    "156106085",
+    "156106086",
+    "156106087",
+    "156106088",
+    "156106089",
+    "156106090",
+    "156106091",
+    "156106099",
+    "156106093",
+    "156106100",
+    "156106095",
+    "156106096",
+    "156106097",
+    "156106098"
+   ]
+  }
+ ],
+ "fragments": {
+  "156106083": {
+   "fragment_id": "156102021",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 238/2000\n\nde 26 de Setembro\n\nA aguardente de medronho é uma aguardente de frutos, proveniente do arbusto Arbutus unedo L., com um habitat serrano próprio no nosso país, cujo cultivo pode combater a desertificação das serranias medronheiras tradicionais, revelando-se um bom complemento da produção agrícola.\n\nO Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1989&id=389R1576\" title=\"Link para Regulamento da Comunidade Europeia\">1576/89</a>, do Conselho, de 29 de Maio, e respectivas alterações estabelecem as regras gerais relativas à definição, designação e apresentação das bebidas espirituosas, sendo, por isso, aplicáveis à aguardente de medronho, como aguardente de fruto.\n\nNo entanto, o âmbito de aplicação do referido regulamento é muito amplo, não caracterizando, em particular, nenhuma bebida espirituosa, revelando-se insuficiente para caracterizar a aguardente de medronho, os teores mínimo do título alcoométrico volúmico e máximo de álcool metílico e ainda o teor máximo de substâncias voláteis, fixados no mesmo regulamento.\n\nSendo a aguardente de medronho uma bebida de qualidade tipicamente portuguesa, a sua genuinidade tem de ser protegida, pelo que importa estabelecer parâmetros necessários à sua caracterização.\n\nAssim, pelo presente diploma define-se e caracteriza-se a aguardente de medronho, fixando-se também as regras relativas ao seu acondicionamento e rotulagem.\n\nFoi observado o procedimento de informação no domínio das normas e regras técnicas previsto no Decreto-Lei n.º 58/2000, de 18 de Abril.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "156106084": {
+   "fragment_id": "156102022",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma define e caracteriza a aguardente de medronho e estabelece as regras relativas ao seu acondicionamento e rotulagem."
+  },
+  "156106085": {
+   "fragment_id": "156102023",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nPara efeitos do disposto no presente diploma, entende-se por aguardente de medronho a aguardente de fruto obtida exclusivamente por fermentação alcoólica e destilação do fruto carnudo do Arbutus unedo L. ou do seu respectivo mosto."
+  },
+  "156106086": {
+   "fragment_id": "156102024",
+   "type": 11,
+   "heading": "Artigo 3.º — Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Características\n\n1 - Sem prejuízo do disposto no n.º 1 da alínea a) e na alínea i) do n.º 4 do artigo 1.º do Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1989&id=389R1576\" title=\"Link para Regulamento da Comunidade Europeia\">1576/89</a>, do Conselho, de 29 de Maio, a aguardente de medronho deve apresentar as características constantes do anexo ao presente diploma, do qual faz parte integrante.\n\n2 - Na aguardente de medronho o teor máximo admissível de cobre é de 15 mg/l.\n\n3 - No caso das aguardentes de medronho envelhecidas, o respectivo envelhecimento obedece ao disposto na alínea d) do n.º 2 do artigo 7.º do Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1989&id=389R1576\" title=\"Link para Regulamento da Comunidade Europeia\">1576/89</a>, do Conselho, de 29 de Maio."
+  },
+  "156106087": {
+   "fragment_id": "156102025",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração das características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração das características\n\nAs características fixadas nos n.os 1 e 2 do artigo 3.º podem ser alteradas por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "156106088": {
+   "fragment_id": "156102026",
+   "type": 11,
+   "heading": "Artigo 5.º — Métodos de análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Métodos de análise\n\n1 - Para verificação das características da aguardente de medronho fixadas no presente diploma, são utilizados os métodos de preparação de amostra e de análise definidos em regulamento comunitário sobre métodos de análise para bebidas espirituosas e, na sua ausência, os definidos em normas portuguesas.\n\n2 - Na falta de norma portuguesa aplicável, os métodos a utilizar são indicados pela Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA)."
+  },
+  "156106089": {
+   "fragment_id": "156102027",
+   "type": 11,
+   "heading": "Artigo 6.º — Acondicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acondicionamento\n\nA aguardente de medronho só pode ser comercializada no mercado nacional nas capacidades obrigatórias, nos termos da Portaria n.º 359/94, de 7 de Junho."
+  },
+  "156106090": {
+   "fragment_id": "156102028",
+   "type": 11,
+   "heading": "Artigo 7.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Rotulagem\n\n1 - A rotulagem de aguardente de medronho destinada ao consumidor final obedece ao disposto na legislação em vigor sobre rotulagem dos géneros alimentícios.\n\n2 - A denominação de venda «aguardente de medronho» pode ser substituída apenas pelo nome do fruto «medronho»."
+  },
+  "156106091": {
+   "fragment_id": "156102029",
+   "type": 11,
+   "heading": "Artigo 8.º — Livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Livre circulação\n\nO disposto no presente diploma é aplicável sem prejuízo da livre circulação dos produtos que sejam legalmente produzidos ou comercializados nos outros Estados membros da União Europeia ou que sejam originários dos países da EFTA, que são partes contratantes do Acordo EEE - Acordo sobre o Espaço Económico Europeu, na medida em que tais produtos não acarretem um risco para a saúde ou a vida das pessoas, na acepção dos artigos 36.º do <a href=\"eurlex/ec_cons_treaty_pt.asp\">Tratado CE</a> e 13.º do Acordo EEE."
+  },
+  "156106092": {
+   "fragment_id": "156102030",
+   "type": 11,
+   "heading": "Artigo 9.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime sancionatório\n\n1 - Constitui contra-ordenação punível em coima, cujo montante mínimo é de 20000$00 e máximo de 750000$00 ou 9000000$00, consoante o agente seja pessoa singular ou colectiva:\n\na) A produção ou a comercialização de aguardente de medronho com falta de características legais;\n\nb) O acondicionamento de aguardente de medronho com destino ao mercado nacional em embalagem com capacidades diferentes das previstas na Portaria n.º 359/94, de 7 de Junho;\n\nc) A falta, inexactidão ou deficiência da rotulagem da aguardente de medronho.\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - Às contra-ordenações previstas nos números anteriores é subsidiariamente aplicável o regime constante do Decreto-Lei n.º 433/82, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 356/89, de 17 de Outubro, e 244/95, de 14 de Setembro."
+  },
+  "156106093": {
+   "fragment_id": "156102031",
+   "type": 11,
+   "heading": "Artigo 10.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções acessórias\n\nEm função da gravidade da contra-ordenação e da culpa do agente, a autoridade competente pode determinar, simultaneamente com a aplicação da coima, a perda, a favor do Estado, de objectos pertencentes ao agente, utilizados na prática da infracção."
+  },
+  "156106094": {
+   "fragment_id": "156102032",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização, instrução, aplicação e destino da receita das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização, instrução, aplicação e destino da receita das coimas\n\n1 - Sem prejuízo das competências atribuídas a outras entidades, compete especialmente à DGFCQA a fiscalização do cumprimento das regras previstas no presente diploma.\n\n2 - A competência para a instrução dos processos é da entidade fiscalizadora que levantar o auto de notícia.\n\n3 - A aplicação das coimas e sanções acessórias compete ao director-geral de Fiscalização e Controlo da Qualidade Alimentar.\n\n4 - A afectação do produto das coimas cobradas em aplicação ao presente diploma legal far-se-á da seguinte forma:\n\na) 20% para a entidade que levantou o auto e instruiu o processo;\n\nb) 20% para a entidade que aplicou a coima;\n\nc) 60% para os cofres do Estado."
+  },
+  "156106095": {
+   "fragment_id": "156102033",
+   "type": 11,
+   "heading": "Artigo 12.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regiões Autónomas\n\nNas Regiões Autónomas dos Açores e da Madeira, as atribuições e competências a que se refere o artigo 11.º são exercidas pelos correspondentes serviços e organismos regionais com idênticas atribuições e competências, constituindo receita das Regiões Autónomas o produtos das coimas aí cobradas."
+  },
+  "156106096": {
+   "fragment_id": "156102034",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "156106098": {
+   "fragment_id": "156102036",
+   "type": 14,
+   "heading": "Anexo A QUE SE REFERE O ARTIGO 3.º — (ver quadro no documento original)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo A QUE SE REFERE O ARTIGO 3.º — (ver quadro no documento original)"
+  },
+  "156106099": {
+   "fragment_id": "156102030",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A produção ou a comercialização de aguardente de medronho com falta de características legais;\n\nb) O acondicionamento de aguardente de medronho com destino ao mercado nacional em embalagem com capacidades diferentes das previstas na Portaria n.º 359/94, de 7 de Junho;\n\nc) A falta, inexactidão ou deficiência da rotulagem da aguardente de medronho.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n3 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156106100": {
+   "fragment_id": "156102032",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização, instrução e decisão",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 11.º — Fiscalização, instrução e decisão\n\n1 - Sem prejuízo das competências atribuídas a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento das regras previstas no presente diploma.\n\n2 - A competência para a instrução dos processos é da entidade fiscalizadora que levantar o auto de notícia.\n\n3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156106097": {
+   "fragment_id": "156102035",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Julho de 2000. - Jaime José Matos da Gama - Manuel Pedro da Cruz Baganha - Vítor Manuel da Silva Santos - Diogo Campos Barradas de Lacerda Machado - Luís Manuel Capoulas Santos - Armando António Martins Vara.\n\nPromulgado em 6 de Setembro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Setembro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

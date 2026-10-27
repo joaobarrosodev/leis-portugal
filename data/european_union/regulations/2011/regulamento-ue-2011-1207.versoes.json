@@ -1,0 +1,1026 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011R1207:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1207-20231005",
+ "dre_path": null,
+ "source_lastmod": "2023-10-05",
+ "versions": [
+  {
+   "date": "2011-11-23",
+   "future": false,
+   "celex": "32011R1207",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0dc4b64aa6f8fc8d",
+    "4609db5792d026f1",
+    "ac949b3a0d53fdcd",
+    "fc615759cd66d2c3",
+    "284d0e552b49eaee",
+    "44068c72cfe5445b",
+    "d740a3c54e1ce6c5",
+    "9901b61c2615ccba",
+    "6d04ca6793f0f2d7",
+    "a976eb6fbd6d0d54",
+    "9f0be6f6eef109ae",
+    "c8910792a8d77137",
+    "3159ca138f0a0970",
+    "0ae932a8c6c5b0a6",
+    "f860702dfcc5096c",
+    "9dc00774b812fadb",
+    "8d8fa14541a40f64"
+   ]
+  },
+  {
+   "date": "2014-10-20",
+   "future": false,
+   "celex": "02011R1207-20141020",
+   "acts": [
+    {
+     "id": "eu:celex:32014R1028:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 1028/2014 DA COMISSÃO de 26 de setembro de 2014",
+     "published": null,
+     "celex": "32014R1028"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 5.º — Requisitos de interoperabilidade",
+    "Altera Artigo 8.º — Aeronaves de Estado",
+    "Altera Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+    "Altera Artigo 14.º — Isenções aplicáveis a aeronaves",
+    "Altera Artigo 15.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Requisitos de desempenho a que se refere o artigo 4.º, n.º 3",
+    "Adita 1. Requisitos aplicáveis aos dados de vigilância",
+    "Adita 2. Requisitos de desempenho relativos aos dados de vigilância",
+    "Adita ANEXO II",
+    "Adita Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea a), e n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 2",
+    "Adita Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea b), n.º 5, alínea b), e n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.º 3",
+    "Adita Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea c), e n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.º 3, e o artigo 14.º, n.º 1",
+    "Adita ANEXO III",
+    "Adita Requisitos aplicáveis ao intercâmbio de dados de vigilância a que se refere o artigo 5.º, n.º 1",
+    "Adita ANEXO IV",
+    "Adita Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2",
+    "Adita ANEXO V",
+    "Adita Requisitos para a avaliação do nível de desempenho das cadeias de vigilância a que se refere o artigo 7.º, n.º 1",
+    "Adita ANEXO VI",
+    "Adita Requisitos a que se refere o artigo 9.º",
+    "Adita ANEXO VII",
+    "Adita Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo 10.º",
+    "Adita ANEXO VIII",
+    "Adita Condições a que se refere o artigo 11.º, n.^os^ 1 e 2",
+    "Adita ANEXO IX",
+    "Adita Parte A: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 1",
+    "Adita Parte B: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 2"
+   ],
+   "fragments": [
+    "6253ffe669c498e8",
+    "4609db5792d026f1",
+    "d489e9c7e650dc76",
+    "ddf6132b8e78b352",
+    "284d0e552b49eaee",
+    "f8f68cc9b5daf60d",
+    "d740a3c54e1ce6c5",
+    "9901b61c2615ccba",
+    "30c83bda84181bcf",
+    "a976eb6fbd6d0d54",
+    "674825ca497e717d",
+    "c8910792a8d77137",
+    "3159ca138f0a0970",
+    "0ae932a8c6c5b0a6",
+    "1b723e0f9e7f28a8",
+    "8904da57d77f9430",
+    "d664376e2a8dcecd",
+    "fd8f9644f2580fe1",
+    "86b8c9dcd086f89b",
+    "8e83480c67bfe74c",
+    "852174729551523b",
+    "694cd90d44e9589f",
+    "bd947d031d7ff429",
+    "07acafc6d803663d",
+    "720af75c92791b10",
+    "ac1140e159f140e9",
+    "e03a0eb4d5b2eef3",
+    "8dab03aee2e84ede",
+    "64610ae29a6cb67c",
+    "493e158846ecae12",
+    "90c7d2baf4d44ee2",
+    "affae2256d018d15",
+    "d46ca50274582635",
+    "3f68dc38f4c78b64",
+    "1b41b51ec3248d43",
+    "dbb53332dfdb4d5f",
+    "953641e58475eff6",
+    "35a495e0878d3402",
+    "b7758e407bf623e9",
+    "f9349f8e8309e4dc"
+   ]
+  },
+  {
+   "date": "2017-03-27",
+   "future": false,
+   "celex": "02011R1207-20170327",
+   "acts": [
+    {
+     "id": "eu:celex:32017R0386:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2017/386 DA COMISSÃO de 6 de março de 2017",
+     "published": null,
+     "celex": "32017R0386"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 5.º — Requisitos de interoperabilidade",
+    "Altera Artigo 6.º — Protecção do espectro",
+    "Altera Artigo 8.º — Aeronaves de Estado",
+    "Altera Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+    "Altera Artigo 14.º — Isenções aplicáveis a aeronaves",
+    "Altera Notas",
+    "Adita Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3",
+    "Adita Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3",
+    "Adita Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.^os^ 2 e 3, e o artigo 14.º, n.º 1",
+    "Suprime Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea a), e n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 2",
+    "Suprime Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea b), n.º 5, alínea b), e n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.º 3",
+    "Suprime Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea c), e n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.º 3, e o artigo 14.º, n.º 1"
+   ],
+   "fragments": [
+    "fbdafd31c46b8287",
+    "4609db5792d026f1",
+    "745abeab3ffdcb96",
+    "ddf6132b8e78b352",
+    "284d0e552b49eaee",
+    "f1dc89890b43de62",
+    "26494cb86580a98f",
+    "9901b61c2615ccba",
+    "36fdc846da2b987e",
+    "a976eb6fbd6d0d54",
+    "2c11445316f8507f",
+    "c8910792a8d77137",
+    "3159ca138f0a0970",
+    "0ae932a8c6c5b0a6",
+    "29740c45162ca3f8",
+    "8904da57d77f9430",
+    "d664376e2a8dcecd",
+    "fd8f9644f2580fe1",
+    "86b8c9dcd086f89b",
+    "8e83480c67bfe74c",
+    "852174729551523b",
+    "ebdc63affa95bfbb",
+    "afdd5d6d6c567733",
+    "d8061c6c53155697",
+    "720af75c92791b10",
+    "ac1140e159f140e9",
+    "e03a0eb4d5b2eef3",
+    "8dab03aee2e84ede",
+    "64610ae29a6cb67c",
+    "493e158846ecae12",
+    "90c7d2baf4d44ee2",
+    "affae2256d018d15",
+    "d46ca50274582635",
+    "3f68dc38f4c78b64",
+    "1b41b51ec3248d43",
+    "dbb53332dfdb4d5f",
+    "953641e58475eff6",
+    "35a495e0878d3402",
+    "b7758e407bf623e9",
+    "358cf06035718c47"
+   ]
+  },
+  {
+   "date": "2020-05-20",
+   "future": false,
+   "celex": "02011R1207-20200520",
+   "acts": [
+    {
+     "id": "eu:celex:32020R0587:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2020/587 DA COMISSÃO de 29 de abril de 2020",
+     "published": null,
+     "celex": "32020R0587"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 4.º — Requisitos de desempenho",
+    "Altera Artigo 5.º — Requisitos de interoperabilidade",
+    "Altera Artigo 6.º — Protecção do espectro",
+    "Altera Artigo 7.º — Procedimentos associados",
+    "Altera Artigo 8.º — Aeronaves de Estado",
+    "Altera Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+    "Altera Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3",
+    "Altera Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3",
+    "Altera Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.^os^ 2 e 3, e o artigo 14.º, n.º 1",
+    "Altera Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2",
+    "Altera Notas",
+    "Adita Artigo 14.º-A — Planos de voo",
+    "Suprime Artigo 14.º — Isenções aplicáveis a aeronaves"
+   ],
+   "fragments": [
+    "fbdafd31c46b8287",
+    "4609db5792d026f1",
+    "14ee1f2ad548b257",
+    "ddf6132b8e78b352",
+    "31f9fe8a90b4ca95",
+    "07831a371aa14098",
+    "4d209f051851b005",
+    "5e60334534d3c49c",
+    "6c3ab6ee1eb5c29b",
+    "a976eb6fbd6d0d54",
+    "143d495550c8588b",
+    "c8910792a8d77137",
+    "3159ca138f0a0970",
+    "0ae932a8c6c5b0a6",
+    "b56ca433ae3a8012",
+    "8904da57d77f9430",
+    "d664376e2a8dcecd",
+    "fd8f9644f2580fe1",
+    "86b8c9dcd086f89b",
+    "8e83480c67bfe74c",
+    "852174729551523b",
+    "6b70d85929a5021e",
+    "f64fc91eb1944bf9",
+    "7e607596c224c59c",
+    "720af75c92791b10",
+    "ac1140e159f140e9",
+    "e03a0eb4d5b2eef3",
+    "b6f90cb625a61f61",
+    "64610ae29a6cb67c",
+    "493e158846ecae12",
+    "90c7d2baf4d44ee2",
+    "affae2256d018d15",
+    "d46ca50274582635",
+    "3f68dc38f4c78b64",
+    "1b41b51ec3248d43",
+    "dbb53332dfdb4d5f",
+    "953641e58475eff6",
+    "35a495e0878d3402",
+    "b7758e407bf623e9",
+    "c3e637415e41847b"
+   ]
+  },
+  {
+   "date": "2022-01-25",
+   "future": false,
+   "celex": "02011R1207-20220125",
+   "acts": [
+    {
+     "id": "eu:celex:32022R0002:por",
+     "title": "M4",
+     "published": null,
+     "celex": "32022R0002"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "fbdafd31c46b8287",
+    "4609db5792d026f1",
+    "a4857ad818a10baa",
+    "ddf6132b8e78b352",
+    "31f9fe8a90b4ca95",
+    "7ea9301eb5177f8a",
+    "4d209f051851b005",
+    "5e60334534d3c49c",
+    "6c3ab6ee1eb5c29b",
+    "a976eb6fbd6d0d54",
+    "6c323901dade8f18",
+    "c8910792a8d77137",
+    "c1542737eaa76d93",
+    "0ae932a8c6c5b0a6",
+    "b56ca433ae3a8012",
+    "8904da57d77f9430",
+    "d664376e2a8dcecd",
+    "fd8f9644f2580fe1",
+    "a32ffcfc745663ca",
+    "78f8160074a3453c",
+    "852174729551523b",
+    "6b70d85929a5021e",
+    "f64fc91eb1944bf9",
+    "7e607596c224c59c",
+    "720af75c92791b10",
+    "ac1140e159f140e9",
+    "e03a0eb4d5b2eef3",
+    "b6f90cb625a61f61",
+    "64610ae29a6cb67c",
+    "493e158846ecae12",
+    "90c7d2baf4d44ee2",
+    "affae2256d018d15",
+    "d46ca50274582635",
+    "3f68dc38f4c78b64",
+    "1b41b51ec3248d43",
+    "dbb53332dfdb4d5f",
+    "953641e58475eff6",
+    "35a495e0878d3402",
+    "b7758e407bf623e9",
+    "8dc217ac773f285b"
+   ]
+  },
+  {
+   "date": "2023-10-05",
+   "future": false,
+   "celex": "02011R1207-20231005",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime Artigo 4.º — Requisitos de desempenho",
+    "Suprime Artigo 5.º — Requisitos de interoperabilidade",
+    "Suprime Artigo 6.º — Protecção do espectro",
+    "Suprime Artigo 7.º — Procedimentos associados",
+    "Suprime Artigo 8.º — Aeronaves de Estado",
+    "Suprime Artigo 9.º — Requisitos de segurança",
+    "Suprime Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+    "Suprime Artigo 11.º — Verificação dos sistemas",
+    "Suprime Artigo 12.º — Requisitos complementares",
+    "Suprime Artigo 13.º — Isenções aplicáveis à cadeia de vigilância cooperativa",
+    "Suprime Artigo 14.º-A — Planos de voo",
+    "Suprime Artigo 15.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime Requisitos de desempenho a que se refere o artigo 4.º, n.º 3",
+    "Suprime 1. Requisitos aplicáveis aos dados de vigilância",
+    "Suprime 2. Requisitos de desempenho relativos aos dados de vigilância",
+    "Suprime ANEXO II",
+    "Suprime Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3",
+    "Suprime Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3",
+    "Suprime Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.^os^ 2 e 3, e o artigo 14.º, n.º 1",
+    "Suprime ANEXO III",
+    "Suprime Requisitos aplicáveis ao intercâmbio de dados de vigilância a que se refere o artigo 5.º, n.º 1",
+    "Suprime ANEXO IV",
+    "Suprime Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2",
+    "Suprime ANEXO V",
+    "Suprime Requisitos para a avaliação do nível de desempenho das cadeias de vigilância a que se refere o artigo 7.º, n.º 1",
+    "Suprime ANEXO VI",
+    "Suprime Requisitos a que se refere o artigo 9.º",
+    "Suprime ANEXO VII",
+    "Suprime Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo 10.º",
+    "Suprime ANEXO VIII",
+    "Suprime Condições a que se refere o artigo 11.º, n.^os^ 1 e 2",
+    "Suprime ANEXO IX",
+    "Suprime Parte A: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 1",
+    "Suprime Parte B: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 2",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "ee9f644a7ee6c452"
+   ]
+  }
+ ],
+ "fragments": {
+  "0dc4b64aa6f8fc8d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 2011\n\nque estabelece os requisitos para o desempenho e a interoperabilidade da vigilância no céu único europeu\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») [([^1])](http://publications.europa.eu/resource/cellar/02abb980-eade-4af9-aa01-49d5edbf308b.0022.03/DOC_1#ntr1-L_2011305PT.01003501-E0001), nomeadamente o artigo 3.º, n.º 5,\n\nConsiderando o seguinte:\n\n(1) A Comissão conferiu mandato ao Eurocontrol, nos termos do artigo 8.º, n.º 1, do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») [([^2])](http://publications.europa.eu/resource/cellar/02abb980-eade-4af9-aa01-49d5edbf308b.0022.03/DOC_1#ntr2-L_2011305PT.01003501-E0002), para estabelecer os requisitos para o desempenho e a interoperabilidade da vigilância no âmbito da rede europeia de gestão do tráfego aéreo (REGTA). O presente regulamento baseia-se no relatório desse mandato, de 9 de Julho de 2010.\n\n(2) A continuidade das operações depende da coerência dos requisitos mínimos de separação entre aeronaves no espaço aéreo do céu único europeu.\n\n(3) Para garantir a interoperabilidade, o intercâmbio de dados de vigilância entre sistemas deve obedecer a princípios comuns, sendo também necessário identificar as capacidades e os níveis de desempenho mínimos aplicáveis aos componentes de bordo dos sistemas de vigilância.\n\n(4) As capacidades dos componentes de bordo dos sistemas de vigilância devem oferecer aos prestadores de serviços de navegação aérea flexibilidade de escolha das soluções de vigilância em terra mais adequadas aos seus ambientes específicos.\n\n(5) A aplicação do presente regulamento não deve prejudicar a implantação de outras aplicações e tecnologias de vigilância que ofereçam benefícios em ambientes específicos.\n\n(6) Os operadores devem dispor de um prazo suficiente para equipar as aeronaves novas e as frotas existentes com essas novas funcionalidades. Esta questão deve ser tida em conta quando da fixação das datas de instalação obrigatória dos equipamentos.\n\n(7) Devem ser definidos os critérios aplicáveis para o estabelecimento de isenções, especialmente por razões económicas ou imperativos técnicos, de modo a permitir que, em casos excepcionais, os operadores fiquem isentos da obrigação de equipar certos tipos de aeronaves com algumas das capacidades requeridas. Devem ser estabelecidos procedimentos adequados que permitam à Comissão decidir nesta matéria.\n\n(8) A atribuição e utilização de endereços ICAO de 24 bits para as aeronaves deve satisfazer os requisitos da Organização da Aviação Civil Internacional (ICAO), de modo a assegurar a interoperabilidade dos sistemas de vigilância de bordo e de solo.\n\n(9) O princípio da implementação de capacidades «ADS-B Out» pelos operadores de aeronaves, além de permitir implantar aplicações no solo, facilitará a implantação de futuras aplicações de bordo.\n\n(10) Os sistemas da REGTA devem apoiar a aplicação de conceitos operacionais avançados, aprovados e validados para todas as fases de voo, conforme previsto, nomeadamente, no plano director ATM para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR).\n\n(11) O desempenho dos sistemas abrangidos pelo presente regulamento, bem como dos seus componentes, deve ser regularmente avaliado tendo em conta o ambiente local em que operam.\n\n(12) A aplicação uniforme de procedimentos específicos no espaço aéreo do céu único europeu é essencial para garantir a interoperabilidade e a continuidade das operações.\n\n(13) O espectro usado pelos sistemas de vigilância deve ser protegido para evitar interferências prejudiciais. Os Estados-Membros devem tomar as medidas necessárias a este respeito.\n\n(14) O presente regulamento não abrange as operações nem os treinos militares a que se refere o artigo 1.º, n.º 2, do Regulamento (CE) n.º 549/2004.\n\n(15) Para manter ou reforçar os actuais níveis de segurança das operações, os Estados-Membros devem garantir a realização, pelas partes interessadas, de uma avaliação da segurança que inclua a identificação de perigos, a avaliação de riscos e o estabelecimento de mecanismos de redução de impactos. A aplicação harmonizada destes mecanismos aos sistemas abrangidos pelo presente regulamento requer a definição de requisitos de segurança específicos em matéria de interoperabilidade e de desempenho.\n\n(16) Nos termos do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade devem descrever os procedimentos específicos de avaliação da conformidade a aplicar na verificação da conformidade e da adequação para utilização dos componentes, bem como na verificação dos sistemas.\n\n(17) No caso dos serviços de tráfego aéreo essencialmente fornecidos a aeronaves que operam de acordo com as regras aplicáveis ao tráfego aéreo geral sob supervisão militar, os condicionalismos associados à adjudicação de contratos podem impedir o cumprimento do disposto no presente regulamento.\n\n(18) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4609db5792d026f1": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece os requisitos aplicáveis aos sistemas que contribuem para o fornecimento de dados de vigilância, seus componentes e procedimentos associados, de modo a garantir a harmonização do desempenho, a interoperabilidade e a eficiência desses sistemas no âmbito da rede europeia de gestão do tráfego aéreo (REGTA) e para efeitos de coordenação civil-militar."
+  },
+  "ac949b3a0d53fdcd": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se à cadeia de vigilância, constituída pelos:\n\na) Sistemas de vigilância de bordo, seus componentes e procedimentos associados;\n\nb) Sistemas de vigilância no solo, seus componentes e procedimentos associados;\n\nc) Sistemas de processamento de dados de vigilância, seus componentes e procedimentos associados;\n\nd) Sistemas de comunicações solo-solo utilizados na distribuição de dados de vigilância, seus componentes e procedimentos associados.\n\n2. O presente regulamento aplica-se a todos os voos operados como tráfego aéreo geral de acordo com as regras de voo por instrumentos no espaço aéreo definido no artigo 1.º, n.º 3, do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/02abb980-eade-4af9-aa01-49d5edbf308b.0022.03/DOC_1#ntr3-L_2011305PT.01003501-E0003), com excepção do artigo 7.º, n.^os^ 3 e 4, que se aplica a todos os voos operados como tráfego aéreo geral.\n\n3. O presente regulamento aplica-se aos prestadores de serviços de tráfego aéreo que prestam serviços de controlo de tráfego aéreo com base em dados de vigilância e aos prestadores de serviços de comunicações, navegação ou vigilância que utilizam os sistemas referidos no n.º 1."
+  },
+  "fc615759cd66d2c3": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as definições constantes do artigo 2.º do Regulamento (CE) n.º 549/2004.\n\nSão igualmente aplicáveis as seguintes definições:\n\n1) «Dados de vigilância», qualquer elemento de dados, com ou sem indicação da data e da hora, no quadro do sistema de vigilância, respeitante a: a) Posição 2D da aeronave; b) Posição vertical da aeronave; c) Atitude da aeronave; d) Identidade da aeronave; e) Endereço ICAO de 24 bits da aeronave; f) Intenção da aeronave; g) Velocidade da aeronave; h) Aceleração da aeronave;\n\na) Posição 2D da aeronave;\n\nb) Posição vertical da aeronave;\n\nc) Atitude da aeronave;\n\nd) Identidade da aeronave;\n\ne) Endereço ICAO de 24 bits da aeronave;\n\nf) Intenção da aeronave;\n\ng) Velocidade da aeronave;\n\nh) Aceleração da aeronave;\n\n2) «Operador», uma pessoa, organização ou empresa que participa ou se propõe participar numa operação de uma aeronave;\n\n3) «ADS-B», a vigilância automática dependente e difusão (*automatic dependent surveillance – broadcast*), uma técnica de vigilância através da qual as aeronaves fornecem automaticamente, via ligação de dados, os dados provenientes dos sistemas de navegação e de determinação da posição instalados a bordo;\n\n4) «ADS-B Out», a transmissão de dados de vigilância ADS-B a partir de uma aeronave;\n\n5) «Interferências prejudiciais», interferências que impedem o cumprimento dos requisitos de desempenho;\n\n6) «Cadeia de vigilância», um sistema composto pela agregação dos componentes de bordo e de terra utilizado para determinar os elementos de dados de vigilância das aeronaves, incluindo o sistema de processamento de dados de vigilância, quando instalado;\n\n7) «Cadeia de vigilância cooperativa», uma cadeia de vigilância que necessita dos componentes em terra e de bordo para determinar elementos de dados de vigilância;\n\n8) «Sistema de processamento de dados de vigilância», um sistema que processa todas as informações recebidas para efectuar a melhor estimativa possível dos dados de vigilância actuais da aeronave;\n\n9) «Identificação da aeronave», um grupo de letras ou de algarismos ou uma combinação de ambos, idêntico ao indicativo de chamada da aeronave, para utilização nas comunicações ar-solo, ou que constitui o seu equivalente em código, usado para identificar as aeronaves nas comunicações solo-solo entre serviços de tráfego aéreo;\n\n10) «Aeronave de Estado», qualquer aeronave usada para fins militares, aduaneiros ou policiais;\n\n11) «Aeronave de Estado do tipo transporte», aeronave de Estado de asa fixa, destinada a transportar pessoas e/ou carga;\n\n12) «Extrapolar», projectar, prever ou alargar o âmbito dos dados conhecidos com base em valores observados num determinado intervalo temporal;\n\n13) «Prognosticado», extrapolado para um período mais extenso do que o período de actualização dos sistemas de vigilância em terra;\n\n14) «Momento da aplicabilidade», o momento em que o elemento de dados foi medido pela cadeia de vigilância ou o momento para o qual foi calculado pela cadeia de vigilância;\n\n15) «Exactidão», grau de conformidade do valor fornecido de um elemento de dados com o seu valor real no momento em que o elemento de dados é fornecido pela cadeia de vigilância;\n\n16) «Disponibilidade», grau de operacionalidade e de acessibilidade de um sistema ou componente, caso a sua utilização seja necessária;\n\n17) «Integridade», grau de não conformidade não detectado (a nível do sistema) do valor de entrada do elemento de dados com o seu valor de saída;\n\n18) «Continuidade», a probabilidade de um sistema desempenhar a função requerida sem interrupções imprevistas, pressupondo a disponibilidade do sistema no lançamento da operação prevista;\n\n19) «Oportunidade», a diferença entre o momento do fornecimento de um elemento de dados e o momento da aplicabilidade desse mesmo elemento de dados."
+  },
+  "284d0e552b49eaee": {
+   "fragment_id": "Artigo 4.º — Requisitos de desempenho",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de desempenho\n\n1. Os prestadores de serviços de navegação aérea devem garantir a continuidade das operações no espaço aéreo sob a sua responsabilidade e na fronteira com os espaços aéreos adjacentes aplicando os requisitos mínimos de separação adequada entre aeronaves.\n\n2. Os prestadores de serviços de navegação aérea devem assegurar a implantação dos sistemas a que se refere o artigo 2.º, n.º 1, alíneas b), c) e d), de modo a cumprir os requisitos mínimos de separação aplicados nos termos do n.º 1.\n\n3. Os prestadores de serviços de navegação aérea devem assegurar que os dados fornecidos pela cadeia de vigilância a que se refere o artigo 2.º, n.º 1, cumprem os requisitos de desempenho estabelecidos no anexo I, desde que as funções dos componentes de bordo utilizados satisfaçam os requisitos estabelecidos no anexo II.\n\n4. Se um prestador de serviços de navegação aérea identificar uma aeronave cuja aviónica apresenta uma anomalia funcional, deve informar o operador do voo do desvio registado em relação aos requisitos de desempenho. O operador deve investigar o assunto antes de iniciar o voo seguinte e efectuar as correcções necessárias de acordo com os procedimentos normais de manutenção e reparação de aeronaves e da sua aviónica."
+  },
+  "44068c72cfe5445b": {
+   "fragment_id": "Artigo 5.º — Requisitos de interoperabilidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Requisitos de interoperabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de interoperabilidade\n\n1. Os prestadores de serviços de navegação aérea devem assegurar que todos os dados de vigilância transferidos dos seus sistemas, definidos no artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação cumprem os requisitos estabelecidos no anexo III.\n\n2. Os prestadores de serviços de navegação aérea, quando da transferência de dados de vigilância dos seus sistemas, definidos no artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação aérea, devem estabelecer acordos formais entre si para intercâmbio de dados, em conformidade com os requisitos estabelecidos no anexo IV.\n\n3. Os prestadores de serviços de navegação aérea devem assegurar que, o mais tardar em 2 de Janeiro de 2020, a cadeia de vigilância cooperativa dispõe da capacidade necessária para poderem estabelecer a identificação das aeronaves utilizando o sistema de identificação de aeronaves por ligação descendente disponibilizado pelas aeronaves que são equipadas em conformidade com o disposto no anexo II.\n\n4. Os operadores devem assegurar que:\n\na) as aeronaves que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido a partir de 8 de Janeiro de 2015, estão equipadas com *transponders* de radar de vigilância secundário com as capacidades definidas no anexo II, parte A;\n\nb) as aeronaves com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido a partir de 8 de Janeiro de 2015, estão equipadas com *transponders* de radar de vigilância secundário que, para além das capacidades definidas no anexo II, parte A, dispõem das capacidades definidas na parte B desse anexo;\n\nc) as aeronaves de asa fixa com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido a partir de 8 de Janeiro de 2015, estão equipadas com *transponders* de radar de vigilância secundário que, para além das capacidades definidas no anexo II, parte A, dispõem das capacidades definidas na parte C desse anexo.\n\n5. Os operadores devem assegurar, o mais tardar até 7 de Dezembro de 2017, que:\n\na) as aeronaves que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 8 de Janeiro de 2015, estão equipadas com *transponders* de radar de vigilância secundário com as capacidades definidas no anexo II, parte A;\n\nb) as aeronaves com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 8 de Janeiro de 2015 estão equipadas com *transponders* de radar de vigilância secundário que, parte A, dispõem das capacidades definidas na parte B desse anexo;\n\nc) as aeronaves de asa fixa com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 8 de Janeiro de 2015 estão equipadas com *transponders* de radar de vigilância secundário que, para além das capacidades definidas no anexo II, parte A, dispõem das capacidades definidas na parte C desse anexo.\n\n6. Os operadores devem assegurar que as aeronaves equipadas de acordo com os n.^os^ 4 e 5 e com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós operam com diversidade de antena, em conformidade com o ponto 3.1.2.10.4 do anexo 10 da Convenção de Chicago, volume IV, quarta edição, incluindo o conjunto de emendas até ao n.º 85.\n\n7. Os Estados-Membros podem impor requisitos de transporte nos termos do n.º 4, alínea b), e do n.º 5, alínea b), a todas as aeronaves que operam os voos a que se refere o artigo 2.º, n.º 2, nas áreas em que os prestadores de serviços de navegação aérea fornecem serviços de vigilância que utilizam os dados de vigilância identificados no anexo II, parte B.\n\n8. Os prestadores de serviços de navegação aérea devem assegurar que, antes da colocação em serviço dos sistemas a que se refere o artigo 2.º, n.º 1, alíneas b), c) e d), são aplicadas as soluções de implantação mais eficientes, tendo em conta os ambientes operacionais locais, as limitações e necessidades e as capacidades dos utilizadores do espaço aéreo."
+  },
+  "d740a3c54e1ce6c5": {
+   "fragment_id": "Artigo 6.º — Protecção do espectro",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Protecção do espectro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Protecção do espectro\n\n1. Até 5 de Fevereiro de 2015, o mais tardar, os Estados-Membros devem garantir que os *transponders* de radar de vigilância secundário instalados a bordo das aeronaves que sobrevoam um Estado-Membro não são objecto de demasiadas interrogações pelos interrogadores de vigilância terrestres e que, ou geram respostas ou, embora não gerem respostas, têm potência suficiente para exceder o nível mínimo do receptor do *transponder* de radar de vigilância secundário.\n\n2. Para efeitos do disposto no n.º 1, a soma das interrogações não deve conduzir os *transponders* dos radares secundários de vigilância a excederem as taxas de resposta por segundo, com excepção das transmissões não solicitadas, especificadas nos pontos 3.1.1.7.9.1, para as respostas em modo A/C, e 3.1.2.10.3.7.3, para as respostas em Modo S, do anexo 10 da Convenção de Chicago, volume IV, quarta edição.\n\n3. Até 5 de Fevereiro de 2015, o mais tardar, os Estados-Membros devem garantir que a utilização de um emissor terrestre a operar num Estado-Membro não gera interferências prejudiciais para os outros sistemas de vigilância.\n\n4. Em caso de desacordo entre os Estados-Membros no que respeita às medidas referidas nos n.^os^ 1 e 3, os Estados-Membros em causa devem submeter a questão à Comissão para que esta tome as medidas necessárias."
+  },
+  "9901b61c2615ccba": {
+   "fragment_id": "Artigo 7.º — Procedimentos associados",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Procedimentos associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Procedimentos associados\n\n1. Os prestadores de serviços de navegação aérea devem avaliar o nível de desempenho da cadeia de vigilância terrestre antes da sua colocação em serviço, assim como de forma periódica durante o serviço, em conformidade com os requisitos estabelecidos no anexo V.\n\n2. Os operadores devem assegurar a realização de uma inspecção, no mínimo de dois em dois anos, e sempre que seja detectada uma anomalia numa aeronave específica, de modo a que o fornecimento dos elementos de dados indicados no anexo II, parte A, ponto 3, parte B, ponto 3, e parte C, ponto 2, se processe, quando aplicável, de forma correcta à saída dos *transponders* de radar de vigilância secundário instalados a bordo das suas aeronaves. Caso o fornecimento dos elementos de dados não se processe de forma correcta, o operador deve investigar o assunto antes de iniciar o voo seguinte e efectuar as correcções necessárias de acordo com os procedimentos normais de manutenção e reparação de aeronaves e da sua aviónica.\n\n3. Os Estados-Membros devem assegurar que a atribuição de endereços ICAO de 24 bits às aeronaves equipadas com *transponders* de Modo S está em conformidade com o anexo 10, capítulo 9, e respectivo apêndice, da Convenção de Chicago, volume III, segunda edição, incluindo todas as emendas até ao n.º 85.\n\n4. Os operadores devem assegurar que os *transponders* de Modo S instalados a bordo das aeronaves por eles operadas funcionam com um endereço ICAO de 24 bits, correspondente à matrícula atribuída pelo Estado onde a aeronave se encontra registada."
+  },
+  "6d04ca6793f0f2d7": {
+   "fragment_id": "Artigo 8.º — Aeronaves de Estado",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Aeronaves de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aeronaves de Estado\n\n1. Os Estados-Membros devem assegurar que, o mais tardar até 7 de Dezembro de 2017, as aeronaves de Estado que operam em conformidade com o artigo 2.º, n.º 2, são equipadas com *transponders* de radar de vigilância secundário que dispõem da capacidade definida no anexo II, parte A.\n\n2. Os Estados-Membros devem assegurar que, o mais tardar até 1 de Janeiro de 2019, as aeronaves de Estado do tipo transporte com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam em conformidade com o artigo 2.º, n.º 2, são equipadas com *transponders* de radar de vigilância secundário que, para além da capacidade definida no anexo II, parte A, dispõem da capacidade definida nas partes B e C desse anexo.\n\n3. Os Estados-Membros devem comunicar à Comissão, o mais tardar até 1 de Julho de 2016, a lista das aeronaves de Estado que não podem ser equipadas com *transponders* de radar de vigilância secundário que cumprem os requisitos estabelecidos no anexo II, parte A, bem como os motivos que justificam a não instalação.\n\nOs Estados-Membros devem comunicar à Comissão, o mais tardar em 1 de Julho de 2018, a lista das aeronaves de Estado do tipo «transporte» com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que não podem ser equipadas com *transponders* de radar de vigilância secundário que cumprem os requisitos estabelecidos no anexo II, partes B e C, bem como os motivos que justificam a não instalação.\n\nOs motivos que justificam a não instalação são os seguintes:\n\na) razões imperiosas de ordem técnica;\n\nb) aeronaves de Estado que operam em conformidade com o artigo 2.º, n.º 2, que irão ser retiradas do serviço operacional o mais tardar até 1 de Janeiro de 2020;\n\nc) condicionalismos associados à adjudicação de contratos.\n\n4. Para as aeronaves de Estado que não podem ser equipadas com *transponders* de radar de vigilância secundário conforme especificado nos n.^os^ 1 ou 2 pelo motivo indicado no n.º 3, alínea c), os Estados-Membros devem incluir nos documentos justificativos os planos de aquisição do equipamento para essas aeronaves.\n\n5. Os prestadores de serviços de tráfego aéreo devem assegurar que podem tomar a cargo as aeronaves de Estado identificadas no n.º 3, desde que estas possam ser manobradas de forma segura dentro do limite da capacidade do sistema de gestão do tráfego aéreo.\n\n6. Os Estados-Membros devem publicar os procedimentos para a manobra das aeronaves de Estado não equipadas de acordo com o disposto nos n.^os^ 1 ou 2 nas publicações nacionais de informação aeronáutica.\n\n7. Os prestadores de serviços de tráfego aéreo devem comunicar anualmente ao Estado-Membro que os designou os respectivos planos para a manobra das aeronaves de Estado não equipadas de acordo com o disposto nos n.^os^ 1 ou 2. Esses planos devem ser definidos tendo em conta os limites de capacidade associados aos procedimentos a que se refere o n.º 6."
+  },
+  "a976eb6fbd6d0d54": {
+   "fragment_id": "Artigo 9.º — Requisitos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Requisitos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisitos de segurança\n\n1. Os Estados-Membros devem assegurar que, o mais tardar até 5 de Fevereiro de 2015, as partes interessadas realizam uma avaliação da segurança de todos os sistemas existentes referidos no artigo 2.º, n.º 1, alíneas b), c) e d).\n\n2. Os Estados-Membros devem assegurar que qualquer alteração aos sistemas existentes referidos no artigo 2.º, n.º 1, alíneas b), c) e d), ou a introdução de novos sistemas, é precedida da realização, pelas partes interessadas, de uma avaliação da segurança, incluindo a identificação de perigos e a avaliação e mitigação dos riscos.\n\n3. Nas avaliações referidas nos n.^os^ 1 e 2, é necessário ter em conta, no mínimo, os requisitos estabelecidos no anexo VI."
+  },
+  "9f0be6f6eef109ae": {
+   "fragment_id": "Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conformidade ou adequação para utilização dos componentes\n\nAntes da emissão da declaração CE de conformidade ou de adequação para a utilização, prevista no artigo 5.º do Regulamento (CE) n.º 552/2004, os fabricantes de componentes para os sistemas mencionados no artigo 2.º, n.º 1, do presente regulamento, ou os seus representantes autorizados estabelecidos na União, devem avaliar a conformidade ou adequação para utilização desses componentes de acordo com os requisitos estabelecidos no anexo VII.\n\nNo entanto, os processos de certificação em conformidade com o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/02abb980-eade-4af9-aa01-49d5edbf308b.0022.03/DOC_1#ntr4-L_2011305PT.01003501-E0004), devem ser considerados procedimentos aceitáveis para efeitos da avaliação da conformidade dos componentes, desde que incluam a demonstração do cumprimento dos requisitos de interoperabilidade, de desempenho e de segurança aplicáveis do presente regulamento."
+  },
+  "c8910792a8d77137": {
+   "fragment_id": "Artigo 11.º — Verificação dos sistemas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Verificação dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Verificação dos sistemas\n\n1. Os prestadores de serviços de navegação aérea que possam demonstrar ou tenham demonstrado que satisfazem as condições estabelecidas no anexo VIII devem proceder à verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), de acordo com os requisitos estabelecidos no anexo IX, parte A.\n\n2. Os prestadores de serviços de navegação aérea que não possam demonstrar que satisfazem as condições estabelecidas no anexo VIII devem subcontratar a verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), a um organismo notificado. Essa verificação deve cumprir os requisitos estabelecidos no anexo IX, parte B.\n\n3. Os processos de certificação conformes com o Regulamento (CE) n.º 216/2008 devem ser considerados procedimentos aceitáveis para a verificação dos sistemas, desde que incluam a demonstração do cumprimento dos requisitos de interoperabilidade, de desempenho e de segurança aplicáveis do presente regulamento."
+  },
+  "3159ca138f0a0970": {
+   "fragment_id": "Artigo 12.º — Requisitos complementares",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Requisitos complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requisitos complementares\n\n1. Os prestadores de serviços de navegação aérea devem assegurar que todo o pessoal competente se encontra devidamente informado sobre os requisitos estabelecidos no presente regulamento e que adquiriu formação adequada para o exercício das suas funções.\n\n2. Os prestadores de serviços de navegação aérea devem:\n\na) elaborar e conservar os manuais de operações com as instruções e informações necessárias para que o pessoal competente possa dar cumprimento ao disposto no presente regulamento;\n\nb) assegurar que os manuais referidos na alínea a) estão acessíveis e são actualizados e que a sua actualização e distribuição são objecto de uma gestão adequada da qualidade e da configuração da documentação;\n\nc) assegurar que os métodos de trabalho e os procedimentos operacionais estão em conformidade com o disposto no presente regulamento.\n\n3. Os operadores devem adoptar as medidas necessárias para assegurar que o pessoal que opera e efectua a manutenção do equipamento de vigilância se encontra devidamente informado sobre as disposições pertinentes do presente regulamento, que adquiriu formação adequada para o exercício das suas funções e que as instruções de utilização do equipamento estão disponíveis na cabina de pilotagem, sempre que possível.\n\n4. Os Estados-Membros devem garantir o cumprimento do presente regulamento, incluindo a publicação de informação pertinente sobre os equipamentos de vigilância nas publicações nacionais de informação aeronáutica."
+  },
+  "0ae932a8c6c5b0a6": {
+   "fragment_id": "Artigo 13.º — Isenções aplicáveis à cadeia de vigilância cooperativa",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Isenções aplicáveis à cadeia de vigilância cooperativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Isenções aplicáveis à cadeia de vigilância cooperativa\n\n1. No caso específico das áreas de aproximação em que os serviços de tráfego aéreo são prestados por órgãos militares ou sob supervisão militar e quando os condicionalismos associados à adjudicação de contratos impedem o cumprimento do disposto no artigo 5.º, n.º 3, os Estados-Membros devem comunicar à Comissão, o mais tardar até 31 de Dezembro de 2017, a data de conformidade da cadeia de vigilância cooperativa, que não deverá ser posterior a 2 de Janeiro de 2025.\n\n2. Uma vez consultado o gestor da rede, e o mais tardar em 31 de Dezembro de 2018, a Comissão pode proceder à revisão das isenções comunicadas nos termos do n.º 1 que possam ter um impacto significativo na REGTA."
+  },
+  "f860702dfcc5096c": {
+   "fragment_id": "Artigo 14.º — Isenções aplicáveis a aeronaves",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Isenções aplicáveis a aeronaves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Isenções aplicáveis a aeronaves\n\n1. As aeronaves de tipos específicos, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 8 de Janeiro de 2015, com massa máxima à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que não disponham a bordo da aeronave num *bus* digital o conjunto completo de parâmetros especificados no anexo II, parte C, podem ficar isentas do cumprimento dos requisitos estabelecidos no artigo 5.º, n.º 5, alínea c).\n\n2. As aeronaves de tipos específicos, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 1 de Janeiro de 1990, com massa máxima à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, podem ficar isentas do cumprimento dos requisitos estabelecidos no artigo 5.º, n.º 6.\n\n3. Os Estados-Membros em causa devem enviar à Comissão, o mais tardar até 1 de Julho de 2017, informações pormenorizadas para justificar a necessidade de isentar esses tipos específicos de aeronaves com base nos critérios estabelecidos no n.º 5.\n\n4. A Comissão examina os pedidos de isenção referidos no n.º 3 e, após consulta às partes envolvidas, deve adoptar uma decisão.\n\n5. Os critérios a que se refere o n.º 3 devem incluir os seguintes elementos:\n\na) tipos específicos de aeronaves em fim de ciclo de produção;\n\nb) tipos específicos de aeronaves produzidos em quantidades limitadas;\n\nc) custos de readaptação desproporcionados."
+  },
+  "9dc00774b812fadb": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO artigo 4.º, o artigo 5.º, n.^os^ 1 e 2, e o artigo 7.º, n.º 1, são aplicáveis a partir de 13 de Dezembro de 2013.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Novembro de 2011.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "8d8fa14541a40f64": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/02abb980-eade-4af9-aa01-49d5edbf308b.0022.03/DOC_1#ntc1-L_2011305PT.01003501-E0001) [JO L 96 de 31.3.2004, p. 26](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/02abb980-eade-4af9-aa01-49d5edbf308b.0022.03/DOC_1#ntc2-L_2011305PT.01003501-E0002) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/02abb980-eade-4af9-aa01-49d5edbf308b.0022.03/DOC_1#ntc3-L_2011305PT.01003501-E0003) [JO L 96 de 31.3.2004, p. 20](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/02abb980-eade-4af9-aa01-49d5edbf308b.0022.03/DOC_1#ntc4-L_2011305PT.01003501-E0004) [JO L 79 de 19.3.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_079_R_TOC)."
+  },
+  "6253ffe669c498e8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 2011\n\nque estabelece os requisitos para o desempenho e a interoperabilidade da vigilância no céu único europeu\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») ([^1^](http://publications.europa.eu/resource/cellar/15f7a6d5-5768-40ef-ba91-674df364b46b.0015.02/DOC_1#E0001)), nomeadamente o artigo 3.º, n.º 5,\n\n(1) A Comissão conferiu mandato ao Eurocontrol, nos termos do artigo 8.º, n.º 1, do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») ([^2^](http://publications.europa.eu/resource/cellar/15f7a6d5-5768-40ef-ba91-674df364b46b.0015.02/DOC_1#E0002)), para estabelecer os requisitos para o desempenho e a interoperabilidade da vigilância no âmbito da rede europeia de gestão do tráfego aéreo (REGTA). O presente regulamento baseia-se no relatório desse mandato, de 9 de Julho de 2010.\n\n(2) A continuidade das operações depende da coerência dos requisitos mínimos de separação entre aeronaves no espaço aéreo do céu único europeu.\n\n(3) Para garantir a interoperabilidade, o intercâmbio de dados de vigilância entre sistemas deve obedecer a princípios comuns, sendo também necessário identificar as capacidades e os níveis de desempenho mínimos aplicáveis aos componentes de bordo dos sistemas de vigilância.\n\n(4) As capacidades dos componentes de bordo dos sistemas de vigilância devem oferecer aos prestadores de serviços de navegação aérea flexibilidade de escolha das soluções de vigilância em terra mais adequadas aos seus ambientes específicos.\n\n(5) A aplicação do presente regulamento não deve prejudicar a implantação de outras aplicações e tecnologias de vigilância que ofereçam benefícios em ambientes específicos.\n\n(6) Os operadores devem dispor de um prazo suficiente para equipar as aeronaves novas e as frotas existentes com essas novas funcionalidades. Esta questão deve ser tida em conta quando da fixação das datas de instalação obrigatória dos equipamentos.\n\n(7) Devem ser definidos os critérios aplicáveis para o estabelecimento de isenções, especialmente por razões económicas ou imperativos técnicos, de modo a permitir que, em casos excepcionais, os operadores fiquem isentos da obrigação de equipar certos tipos de aeronaves com algumas das capacidades requeridas. Devem ser estabelecidos procedimentos adequados que permitam à Comissão decidir nesta matéria.\n\n(8) A atribuição e utilização de endereços ICAO de 24 bits para as aeronaves deve satisfazer os requisitos da Organização da Aviação Civil Internacional (ICAO), de modo a assegurar a interoperabilidade dos sistemas de vigilância de bordo e de solo.\n\n(9) O princípio da implementação de capacidades «ADS-B Out» pelos operadores de aeronaves, além de permitir implantar aplicações no solo, facilitará a implantação de futuras aplicações de bordo.\n\n(10) Os sistemas da REGTA devem apoiar a aplicação de conceitos operacionais avançados, aprovados e validados para todas as fases de voo, conforme previsto, nomeadamente, no plano director ATM para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR).\n\n(11) O desempenho dos sistemas abrangidos pelo presente regulamento, bem como dos seus componentes, deve ser regularmente avaliado tendo em conta o ambiente local em que operam.\n\n(12) A aplicação uniforme de procedimentos específicos no espaço aéreo do céu único europeu é essencial para garantir a interoperabilidade e a continuidade das operações.\n\n(13) O espectro usado pelos sistemas de vigilância deve ser protegido para evitar interferências prejudiciais. Os Estados-Membros devem tomar as medidas necessárias a este respeito.\n\n(14) O presente regulamento não abrange as operações nem os treinos militares a que se refere o artigo 1.º, n.º 2, do Regulamento (CE) n.º 549/2004.\n\n(15) Para manter ou reforçar os actuais níveis de segurança das operações, os Estados-Membros devem garantir a realização, pelas partes interessadas, de uma avaliação da segurança que inclua a identificação de perigos, a avaliação de riscos e o estabelecimento de mecanismos de redução de impactos. A aplicação harmonizada destes mecanismos aos sistemas abrangidos pelo presente regulamento requer a definição de requisitos de segurança específicos em matéria de interoperabilidade e de desempenho.\n\n(16) Nos termos do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade devem descrever os procedimentos específicos de avaliação da conformidade a aplicar na verificação da conformidade e da adequação para utilização dos componentes, bem como na verificação dos sistemas.\n\n(17) No caso dos serviços de tráfego aéreo essencialmente fornecidos a aeronaves que operam de acordo com as regras aplicáveis ao tráfego aéreo geral sob supervisão militar, os condicionalismos associados à adjudicação de contratos podem impedir o cumprimento do disposto no presente regulamento.\n\n(18) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d489e9c7e650dc76": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se à cadeia de vigilância, constituída pelos:\n\na) Sistemas de vigilância de bordo, seus componentes e procedimentos associados;\n\nb) Sistemas de vigilância no solo, seus componentes e procedimentos associados;\n\nc) Sistemas de processamento de dados de vigilância, seus componentes e procedimentos associados;\n\nd) Sistemas de comunicações solo-solo utilizados na distribuição de dados de vigilância, seus componentes e procedimentos associados.\n\n2. O presente regulamento aplica-se a todos os voos operados como tráfego aéreo geral de acordo com as regras de voo por instrumentos no espaço aéreo definido no artigo 1.º, n.º 3, do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/15f7a6d5-5768-40ef-ba91-674df364b46b.0015.02/DOC_1#E0003)), com excepção do artigo 7.º, n.^os^ 3 e 4, que se aplica a todos os voos operados como tráfego aéreo geral.\n\n3. O presente regulamento aplica-se aos prestadores de serviços de tráfego aéreo que prestam serviços de controlo de tráfego aéreo com base em dados de vigilância e aos prestadores de serviços de comunicações, navegação ou vigilância que utilizam os sistemas referidos no n.º 1."
+  },
+  "ddf6132b8e78b352": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as definições constantes do artigo 2.º do Regulamento (CE) n.º 549/2004.\n\nSão igualmente aplicáveis as seguintes definições:\n\n1) «Dados de vigilância», qualquer elemento de dados, com ou sem indicação da data e da hora, no quadro do sistema de vigilância, respeitante a:\n\na) Posição 2D da aeronave;\n\nb) Posição vertical da aeronave;\n\nc) Atitude da aeronave;\n\nd) Identidade da aeronave;\n\ne) Endereço ICAO de 24 bits da aeronave;\n\nf) Intenção da aeronave;\n\ng) Velocidade da aeronave;\n\nh) Aceleração da aeronave;\n\n2) «Operador», uma pessoa, organização ou empresa que participa ou se propõe participar numa operação de uma aeronave;\n\n3) «ADS-B», a vigilância automática dependente e difusão (*automatic dependent surveillance – broadcast*), uma técnica de vigilância através da qual as aeronaves fornecem automaticamente, via ligação de dados, os dados provenientes dos sistemas de navegação e de determinação da posição instalados a bordo;\n\n4) «ADS-B Out», a transmissão de dados de vigilância ADS-B a partir de uma aeronave;\n\n5) «Interferências prejudiciais», interferências que impedem o cumprimento dos requisitos de desempenho;\n\n6) «Cadeia de vigilância», um sistema composto pela agregação dos componentes de bordo e de terra utilizado para determinar os elementos de dados de vigilância das aeronaves, incluindo o sistema de processamento de dados de vigilância, quando instalado;\n\n7) «Cadeia de vigilância cooperativa», uma cadeia de vigilância que necessita dos componentes em terra e de bordo para determinar elementos de dados de vigilância;\n\n8) «Sistema de processamento de dados de vigilância», um sistema que processa todas as informações recebidas para efectuar a melhor estimativa possível dos dados de vigilância actuais da aeronave;\n\n9) «Identificação da aeronave», um grupo de letras ou de algarismos ou uma combinação de ambos, idêntico ao indicativo de chamada da aeronave, para utilização nas comunicações ar-solo, ou que constitui o seu equivalente em código, usado para identificar as aeronaves nas comunicações solo-solo entre serviços de tráfego aéreo;\n\n10) «Aeronave de Estado», qualquer aeronave usada para fins militares, aduaneiros ou policiais;\n\n11) «Aeronave de Estado do tipo transporte», aeronave de Estado de asa fixa, destinada a transportar pessoas e/ou carga;\n\n12) «Extrapolar», projectar, prever ou alargar o âmbito dos dados conhecidos com base em valores observados num determinado intervalo temporal;\n\n13) «Prognosticado», extrapolado para um período mais extenso do que o período de actualização dos sistemas de vigilância em terra;\n\n14) «Momento da aplicabilidade», o momento em que o elemento de dados foi medido pela cadeia de vigilância ou o momento para o qual foi calculado pela cadeia de vigilância;\n\n15) «Exactidão», grau de conformidade do valor fornecido de um elemento de dados com o seu valor real no momento em que o elemento de dados é fornecido pela cadeia de vigilância;\n\n16) «Disponibilidade», grau de operacionalidade e de acessibilidade de um sistema ou componente, caso a sua utilização seja necessária;\n\n17) «Integridade», grau de não conformidade não detectado (a nível do sistema) do valor de entrada do elemento de dados com o seu valor de saída;\n\n18) «Continuidade», a probabilidade de um sistema desempenhar a função requerida sem interrupções imprevistas, pressupondo a disponibilidade do sistema no lançamento da operação prevista;\n\n19) «Oportunidade», a diferença entre o momento do fornecimento de um elemento de dados e o momento da aplicabilidade desse mesmo elemento de dados."
+  },
+  "f8f68cc9b5daf60d": {
+   "fragment_id": "Artigo 5.º — Requisitos de interoperabilidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Requisitos de interoperabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de interoperabilidade\n\n1. Os prestadores de serviços de navegação aérea devem assegurar que todos os dados de vigilância transferidos dos seus sistemas, definidos no artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação cumprem os requisitos estabelecidos no anexo III.\n\n2. Os prestadores de serviços de navegação aérea, quando da transferência de dados de vigilância dos seus sistemas, definidos no artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação aérea, devem estabelecer acordos formais entre si para intercâmbio de dados, em conformidade com os requisitos estabelecidos no anexo IV.\n\n3. Os prestadores de serviços de navegação aérea devem assegurar que, o mais tardar em 2 de Janeiro de 2020, a cadeia de vigilância cooperativa dispõe da capacidade necessária para poderem estabelecer a identificação das aeronaves utilizando o sistema de identificação de aeronaves por ligação descendente disponibilizado pelas aeronaves que são equipadas em conformidade com o disposto no anexo II.\n\n4. Os operadores devem assegurar que:\n\na) As aeronaves que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido em 8 de janeiro de 2015 ou em data posterior, estão equipadas com *transponders* de radar de vigilância secundário com as capacidades definidas no anexo II, parte A;\n\nb) As aeronaves com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido em 8 de junho de 2016 ou em data posterior, estão equipadas com *transponders* de radar de vigilância secundário que, para além das capacidades definidas no anexo II, parte A, dispõem das capacidades definidas na parte B desse anexo;\n\nc) As aeronaves de asa fixa com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido em 8 de junho de 2016 ou em data posterior, estão equipadas com *transponders* de radar de vigilância secundário que, para além das capacidades definidas no anexo II, parte A, dispõem das capacidades definidas na parte C desse anexo.\n\n5. Os operadores devem assegurar que:\n\na) O mais tardar até 7 de dezembro de 2017, as aeronaves que operam os voos a que refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 8 de janeiro de 2015, estão equipadas com *transponders* de radar de vigilância secundário com as capacidades definidas no anexo II, parte A;\n\nb) O mais tardar até 7 de junho de 2020, as aeronaves com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 8 de junho de 2016, estão equipadas com *transponders* de radar de vigilância secundário que, para além das capacidades definidas no anexo II, parte A, dispõem das capacidades definidas na parte B desse anexo;\n\nc) O mais tardar até 7 de junho de 2020, as aeronaves de asa fixa com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 8 de junho de 2016, estão equipadas com *transponders* de radar de vigilância secundário que, para além das capacidades definidas no anexo II, parte A, dispõem das capacidades definidas na parte C desse anexo.\n\n6. Os operadores devem assegurar que as aeronaves equipadas de acordo com os n.^os^ 4 e 5 e com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós operam com diversidade de antena, em conformidade com o ponto 3.1.2.10.4 do anexo 10 da Convenção de Chicago, volume IV, quarta edição, incluindo o conjunto de emendas até ao n.º 85.\n\n7. Os Estados-Membros podem impor requisitos de transporte nos termos do n.º 4, alínea b), e do n.º 5, alínea b), a todas as aeronaves que operam os voos a que se refere o artigo 2.º, n.º 2, nas áreas em que os prestadores de serviços de navegação aérea fornecem serviços de vigilância que utilizam os dados de vigilância identificados no anexo II, parte B.\n\n8. Os prestadores de serviços de navegação aérea devem assegurar que, antes da colocação em serviço dos sistemas a que se refere o artigo 2.º, n.º 1, alíneas b), c) e d), são aplicadas as soluções de implantação mais eficientes, tendo em conta os ambientes operacionais locais, as limitações e necessidades e as capacidades dos utilizadores do espaço aéreo."
+  },
+  "30c83bda84181bcf": {
+   "fragment_id": "Artigo 8.º — Aeronaves de Estado",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Aeronaves de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aeronaves de Estado\n\n1. Os Estados-Membros devem assegurar que, o mais tardar até 7 de Dezembro de 2017, as aeronaves de Estado que operam em conformidade com o artigo 2.º, n.º 2, são equipadas com *transponders* de radar de vigilância secundário que dispõem da capacidade definida no anexo II, parte A.\n\n2. Os Estados-Membros devem assegurar que, o mais tardar até 7 de junho de 2020, as aeronaves de Estado do tipo transporte com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam em conformidade com o artigo 2.º, n.º 2, são equipadas com *transponders* de radar de vigilância secundário que, para além da capacidade definida no anexo II, parte A, dispõem da capacidade definida nas partes B e C desse anexo.\n\n3. Os Estados-Membros devem comunicar à Comissão, o mais tardar até 1 de Julho de 2016, a lista das aeronaves de Estado que não podem ser equipadas com *transponders* de radar de vigilância secundário que cumprem os requisitos estabelecidos no anexo II, parte A, bem como os motivos que justificam a não instalação.\n\nOs Estados-Membros devem comunicar à Comissão, o mais tardar em 1 de Julho de 2018, a lista das aeronaves de Estado do tipo «transporte» com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que não podem ser equipadas com *transponders* de radar de vigilância secundário que cumprem os requisitos estabelecidos no anexo II, partes B e C, bem como os motivos que justificam a não instalação.\n\nOs motivos que justificam a não instalação são os seguintes:\n\na) razões imperiosas de ordem técnica;\n\nb) aeronaves de Estado que operam em conformidade com o artigo 2.º, n.º 2, que irão ser retiradas do serviço operacional o mais tardar até 1 de Janeiro de 2020;\n\nc) condicionalismos associados à adjudicação de contratos.\n\n4. Para as aeronaves de Estado que não podem ser equipadas com *transponders* de radar de vigilância secundário conforme especificado nos n.^os^ 1 ou 2 pelo motivo indicado no n.º 3, alínea c), os Estados-Membros devem incluir nos documentos justificativos os planos de aquisição do equipamento para essas aeronaves.\n\n5. Os prestadores de serviços de tráfego aéreo devem assegurar que podem tomar a cargo as aeronaves de Estado identificadas no n.º 3, desde que estas possam ser manobradas de forma segura dentro do limite da capacidade do sistema de gestão do tráfego aéreo.\n\n6. Os Estados-Membros devem publicar os procedimentos para a manobra das aeronaves de Estado não equipadas de acordo com o disposto nos n.^os^ 1 ou 2 nas publicações nacionais de informação aeronáutica.\n\n7. Os prestadores de serviços de tráfego aéreo devem comunicar anualmente ao Estado-Membro que os designou os respectivos planos para a manobra das aeronaves de Estado não equipadas de acordo com o disposto nos n.^os^ 1 ou 2. Esses planos devem ser definidos tendo em conta os limites de capacidade associados aos procedimentos a que se refere o n.º 6."
+  },
+  "674825ca497e717d": {
+   "fragment_id": "Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conformidade ou adequação para utilização dos componentes\n\nAntes da emissão da declaração CE de conformidade ou de adequação para a utilização, prevista no artigo 5.º do Regulamento (CE) n.º 552/2004, os fabricantes de componentes para os sistemas mencionados no artigo 2.º, n.º 1, do presente regulamento, ou os seus representantes autorizados estabelecidos na União, devem avaliar a conformidade ou adequação para utilização desses componentes de acordo com os requisitos estabelecidos no anexo VII.\n\nNo entanto, os processos de certificação em conformidade com o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/15f7a6d5-5768-40ef-ba91-674df364b46b.0015.02/DOC_1#E0004)), devem ser considerados procedimentos aceitáveis para efeitos da avaliação da conformidade dos componentes, desde que incluam a demonstração do cumprimento dos requisitos de interoperabilidade, de desempenho e de segurança aplicáveis do presente regulamento."
+  },
+  "1b723e0f9e7f28a8": {
+   "fragment_id": "Artigo 14.º — Isenções aplicáveis a aeronaves",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Isenções aplicáveis a aeronaves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Isenções aplicáveis a aeronaves\n\n1. As aeronaves de tipos específicos, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 8 de junho de 2016, com massa máxima à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que não disponham a bordo num *bus* digital do conjunto completo de parâmetros especificados no anexo II, parte C, podem ficar isentas do cumprimento dos requisitos estabelecidos no artigo 5.º, n.º 5, alínea c).\n\n2. As aeronaves de tipos específicos, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 1 de Janeiro de 1990, com massa máxima à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, podem ficar isentas do cumprimento dos requisitos estabelecidos no artigo 5.º, n.º 6.\n\n3. Os Estados-Membros em causa devem enviar à Comissão, o mais tardar até 1 de Julho de 2017, informações pormenorizadas para justificar a necessidade de isentar esses tipos específicos de aeronaves com base nos critérios estabelecidos no n.º 5.\n\n4. A Comissão examina os pedidos de isenção referidos no n.º 3 e, após consulta às partes envolvidas, deve adoptar uma decisão.\n\n5. Os critérios a que se refere o n.º 3 devem incluir os seguintes elementos:\n\na) tipos específicos de aeronaves em fim de ciclo de produção;\n\nb) tipos específicos de aeronaves produzidos em quantidades limitadas;\n\nc) custos de readaptação desproporcionados."
+  },
+  "8904da57d77f9430": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO artigo 4.º, o artigo 5.º, n.^os^ 1 e 2, e o artigo 7.º, n.º 1, são aplicáveis a partir de 13 de Dezembro de 2013.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "fd8f9644f2580fe1": {
+   "fragment_id": "Requisitos de desempenho a que se refere o artigo 4.º, n.º 3",
+   "type": "divisao",
+   "heading": "Requisitos de desempenho a que se refere o artigo 4.º, n.º 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos de desempenho a que se refere o artigo 4.º, n.º 3"
+  },
+  "86b8c9dcd086f89b": {
+   "fragment_id": "1. Requisitos aplicáveis aos dados de vigilância",
+   "type": "divisao",
+   "heading": "1. Requisitos aplicáveis aos dados de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Requisitos aplicáveis aos dados de vigilância\n\n1.1. Todas as cadeias de vigilância a que se refere o artigo 4.º, n.º 3, devem fornecer, no mínimo, os seguintes dados de vigilância:\n\na) Dados de posição 2D (posição horizontal da aeronave);\n\nb) Estado dos dados de vigilância:\n\n— cooperativa/não cooperativa/combinada,\n\n— prognosticados ou não,\n\n— momento da aplicabilidade dos dados de posição 2D.\n\n1.2. Além disso, todas as cadeias de vigilância cooperativa a que se refere o artigo 4.º, n.º 3, devem fornecer, no mínimo, os seguintes dados de vigilância:\n\na) Dados de posição vertical (com base nos dados da altitude barométrica recebidos da aeronave);\n\nb) Dados de identificação operacional (identidade da aeronave recebida da mesma, como a identificação e/ou o código de Modo A);\n\nc) Indicadores suplementares:\n\n— indicadores de emergência (ou seja, interferência ilícita, falha rádio e emergência geral),\n\n— indicador de posição especial;\n\nd) Estado dos dados de vigilância (momento da aplicabilidade dos dados de posição vertical)."
+  },
+  "8e83480c67bfe74c": {
+   "fragment_id": "2. Requisitos de desempenho relativos aos dados de vigilância",
+   "type": "divisao",
+   "heading": "2. Requisitos de desempenho relativos aos dados de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Requisitos de desempenho relativos aos dados de vigilância\n\n2.1. Os prestadores de serviços de navegação aérea devem definir os requisitos de desempenho em termos de exactidão, disponibilidade, integridade, continuidade e oportunidade dos dados de vigilância fornecidos pelos sistemas a que se refere o artigo 4.º, n.º 3, e que são utilizados para permitir a realização das aplicações de vigilância.\n\n2.2. A avaliação da exactidão da posição horizontal fornecida pelos sistemas a que se refere o artigo 4.º, n.º 3, deve incluir, no mínimo, a avaliação dos erros de posição horizontal.\n\n2.3. Os prestadores de serviços de navegação aérea devem verificar o cumprimento dos requisitos de desempenho definidos nos termos dos pontos 2.1 e 2.2.\n\n2.4. A verificação do cumprimento deve ser efectuada com base nos dados de vigilância fornecidos ao utilizador à saída da cadeia de vigilância."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "694cd90d44e9589f": {
+   "fragment_id": "Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea a), e n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 2",
+   "type": "divisao",
+   "heading": "Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea a), e n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea a), e n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 2\n\n1. A capacidade mínima do *transponder* de radar de vigilância secundário deve ser o Modo S, nível 2s, certificado em conformidade com o anexo 10, secções 2.1.5.1.2, 2.1.5.1.7 e 3.1.2.10, da Convenção de Chicago, volume IV (4.ª edição, incluindo todas as emendas até ao n.º 85).\n\n2. Cada registo de *transponder* criado deve cumprir o disposto na secção correspondente do documento 9871 da ICAO (2.ª edição).\n\n3. Os *transponders* devem dispor dos seguintes elementos de dados, a transmitir por estes através do Protocolo Modo S e nos formatos especificados no documento 9871 da ICAO (2.ª edição):\n\na) Endereço ICAO de 24 bits da aeronave;\n\nb) Código do Modo A;\n\nc) Altitude barométrica;\n\nd) Estado do voo (no solo ou no ar);\n\ne) Relatório sobre a capacidade das ligações de dados, incluindo:\n\n— a capacidade do sistema anticolisão de bordo (ACAS),\n\n— a capacidade dos serviços específicos do Modo S,\n\n— a capacidade de identificação da aeronave,\n\n— a capacidade de emissão não solicitada,\n\n— a capacidade do identificador de vigilância,\n\n— o relatório sobre a capacidade de difusão de comunicações iniciadas no solo (GICB) de uso corrente (indicação de alteração),\n\n— o número da versão da sub-rede Modo S;\n\nf) Relatório sobre a capacidade GICB de uso corrente;\n\ng) Identificação da aeronave;\n\nh) Indicação de posição especial (SPI);\n\ni) Categoria da emergência (emergência geral, ausência de comunicações, interferência ilícita), incluindo a utilização de códigos específicos do Modo A, para indicar as diferentes situações de emergência;\n\nj) Avisos de resolução activos ACAS quando a aeronave está equipada com o sistema anticolisão e alerta do tráfego aéreo II (TCAS II).\n\n4. É possível disponibilizar outros elementos de dados ao *transponder*.\n\n5. Os elementos de dados a que se refere o ponto 4 só devem ser transmitidos pelo *transponder* através do Protocolo Modo S se o processo de certificação da aeronave e dos equipamentos abranger a transmissão desses elementos de dados através do Protocolo Modo S.\n\n6. A continuidade da funcionalidade do *transponder* que suporta o Protocolo Modo S deve ser igual ou inferior a 2. 10^-4^ por hora de voo (ou seja, um intervalo médio entre falhas igual ou superior a 5 000 horas de voo)."
+  },
+  "bd947d031d7ff429": {
+   "fragment_id": "Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea b), n.º 5, alínea b), e n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.º 3",
+   "type": "divisao",
+   "heading": "Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea b), n.º 5, alínea b), e n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.º 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea b), n.º 5, alínea b), e n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.º 3\n\n1. A capacidade mínima do *transponder* de radar de vigilância secundário deve ser o Modo S, nível 2es, certificado em conformidade com o anexo 10, secções 2.1.5.1.2, 2.1.5.1.6, 2.1.5.1.7 e 3.1.2.10, da Convenção de Chicago, volume IV (4.ª edição, incluindo todas as emendas até ao n.º 85).\n\n2. Cada registo de *transponder* criado deve cumprir o disposto na secção correspondente do documento 9871 da ICAO (2.ª edição).\n\n3. Os *transponders* devem dispor dos seguintes elementos de dados, a transmitir por estes através do Protocolo ADS-B de emissão não solicitada alargada (*extended squitter - ES)*, versão 2, nos formatos especificados no documento 9871 da ICAO (2.ª edição):\n\na) Endereço ICAO de 24 bits da aeronave;\n\nb) Identificação da aeronave;\n\nc) Código do Modo A;\n\nd) Indicação de posição especial (SPI) utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A;\n\ne) Categoria da emergência (emergência geral, ausência de comunicações, interferência ilícita), utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A;\n\nf) Número da versão do ADS-B (igual a 2);\n\ng) Categoria do emissor ADS-B;\n\nh) Posição geodésica horizontal de acordo com a latitude e longitude segundo o sistema geodésico mundial, revisão de 1984 (WGS84), em voo ou em terra;\n\ni) Indicadores de qualidade da posição geodésica horizontal [correspondente ao limite de contenção da integridade (*integrity containment bound* - NIC), categoria de exactidão da navegação de 95 % em relação à posição (NACp), nível de integridade da fonte (SIL) e nível de garantia da concepção do sistema (SDA)];\n\nj) Altitude barométrica utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A;\n\nk) Altitude geométrica de acordo com o sistema geodésico mundial, revisão de 1984 (WGS84), fornecida a título complementar e codificada como uma diferença em relação à altitude barométrica;\n\nl) Exactidão vertical geométrica (GVA);\n\nm) Velocidade sobre o solo, tanto em voo (velocidade Este/Oeste e Norte/Sul) como em terra (rumo à superfície/rota no solo e movimento).\n\nn) Indicador de qualidade da velocidade correspondente à categoria de exactidão da navegação para a velocidade (NACv);\n\no) Comprimento e largura codificados da aeronave;\n\np) Desvio da antena do Sistema Global de Navegação por Satélite (GNSS);\n\nq) Variação vertical: variação vertical barométrica utilizando a fonte que foi utilizada para o mesmo parâmetro especificado no elemento de dados da parte C, ponto 2, alínea g), quando a aeronave deva e possa transmitir esse elemento de dados através do Protocolo Modo S, ou variação vertical dada pelo Sistema Global de Navegação por Satélite (GNSS);\n\nr) Altitude seleccionada no painel de controlo do modo/unidade de controlo de voo (MCP/FCU) utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte C, quando a aeronave deva e possa transmitir esse elemento de dados através do Protocolo Modo S;\n\ns) Regulação da pressão barométrica (menos 800 hectopascais) utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte C, quando a aeronave deva e possa transmitir esse elemento de dados através do Protocolo Modo S;\n\nt) Avisos de resolução activos ACAS quando a aeronave está equipada com TCAS II utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A.\n\n4. Os elementos de dados de vigilância (elementos de dados indicados no ponto 3, alíneas h), k) e m)) e os seus elementos de dados indicadores de qualidade (elementos de dados indicados no ponto 3, alíneas i), l) e n)), devem ser fornecidos aos *transponders* na mesma interface física.\n\n5. A fonte de dados ligada ao *transponder* e que fornece os elementos de dados indicados no ponto 3, alíneas h) e i), deve satisfazer os seguintes requisitos de integridade dos dados:\n\na) O nível de integridade da fonte (SIL, expresso em relação ao NIC) da posição horizontal [elemento de dados indicado no ponto 3, alínea h)] deve ser igual ou inferior a 10^-7^ por hora de voo;\n\nb) O prazo para alerta de integridade de posição horizontal [elemento de dados indicado no ponto 3, alínea h)] (que conduz à alteração do indicador de qualidade NIC), caso seja necessária monitorização de bordo para atingir o nível de integridade da fonte de posição horizontal, deve ser igual ou inferior a 10 segundos.\n\n6. A principal fonte de dados que fornece os elementos de dados indicados no ponto 3, alíneas h) e i), deve ser compatível, no mínimo, com os receptores GNSS de monitorização da integridade autónoma do receptor (RAIM) e de detecção e eliminação de falhas (FDE), bem como com o fornecimento de informação sobre a situação das medições correspondentes e com indicações sobre o limite de contenção da integridade e o limite de exactidão de 95 %.\n\n7. O nível de integridade do sistema das fontes de dados que fornecem os elementos de dados indicados no ponto 3, alíneas f), g) e k) a p), deve ser igual ou inferior a 10^-5^ por hora de voo.\n\n8. A informação dos indicadores de qualidade (NIC, NACp, SIL, SDA, NACv e GVA), (elementos de dados indicados no ponto 3, alíneas i), l) e n)) deve incluir o desempenho real da fonte de dados seleccionada como válida no momento da aplicabilidade da medição dos elementos de dados indicados no ponto 3, alíneas h), k) e m).\n\n9. No que respeita ao processamento dos elementos de dados indicados no ponto 3, alíneas a) a t), o nível de integridade do sistema de *transponders* para o Protocolo ADS-B de emissão não solicitada alargada, incluindo eventual aviónica de interconexão com o *transponder*, deve ser igual ou inferior a 10^-5^ por hora de voo.\n\n10. A latência total dos dados de posição horizontal (elementos de dados indicados no ponto 3, alíneas h) e i)) deve ser igual ou inferior a 1,5 segundos em 95 % das transmissões.\n\n11. A latência não compensada dos dados de posição horizontal (elemento de dados indicado no ponto 3, alínea h)) deve ser igual ou inferior a 0,6 segundos em 95 % dos casos e igual ou inferior a 1,0 segundos em 99,9 % das transmissões.\n\n12. A latência total dos elementos de dados de velocidade em relação ao solo [elementos de dados indicados no ponto 3, alíneas m) e n)] deve ser igual ou inferior a 1,5 segundos em 95 % das transmissões.\n\n13. Se o *transponder* estiver programado para usar um código de conspicuidade Modo A de 1000, nesse caso deve ser bloqueada a difusão de informação de código Modo A através do Protocolo ADS-B de emissão não solicitada alargada.\n\n14. É possível disponibilizar outros elementos de dados ao *transponder*.\n\n15. Com excepção dos formatos reservados a aplicações militares, os elementos de dados a que se refere o ponto 14 só devem ser transmitidos pelo *transponder* através do Protocolo ADS-B de emissão não solicitada alargada se o processo de certificação da aeronave e dos equipamentos abranger a transmissão desses elementos de dados através do referido protocolo.\n\n16. A continuidade da funcionalidade do *transponder* que suporta o protocolo ADS-B deve ser igual ou inferior a 2. 10^-4^ por hora de voo (ou seja, um intervalo médio entre falhas igual ou superior a 5 000 horas de voo)."
+  },
+  "07acafc6d803663d": {
+   "fragment_id": "Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea c), e n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.º 3, e o artigo 14.º, n.º 1",
+   "type": "divisao",
+   "heading": "Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea c), e n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.º 3, e o artigo 14.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 4, alínea c), e n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.º 3, e o artigo 14.º, n.º 1\n\n1. Cada registo de *transponder* criado deve cumprir o disposto na secção correspondente do documento 9871 da ICAO (2.ª edição).\n\n2. Os *transponders* devem dispor dos seguintes elementos de dados, a transmitir por estes, a pedido da cadeia de vigilância em terra, através do Protocolo de Modo S e em conformidade com os formatos especificados no documento n.º 9871 da ICAO (2.ª edição):\n\na) Altitude seleccionada MCP/FCU;\n\nb) Ângulo de rolamento;\n\nc) Ângulo de rota verdadeiro;\n\nd) Velocidade em relação ao solo;\n\ne) Rumo magnético;\n\nf) Velocidade no ar indicada (IAS) ou número de Mach;\n\ng) Variação vertical (barométrica ou baro-inercial);\n\nh) Regulação da pressão barométrica (menos 800 hectopascais).\n\ni) Variação angular da rota ou velocidade no ar verdadeira caso a variação angular da rota não esteja disponível.\n\n3. É possível disponibilizar outros elementos de dados ao *transponder*.\n\n4. Os elementos de dados a que se refere o ponto 3 só devem ser transmitidos pelo *transponder* através do Protocolo Modo S se o processo de certificação da aeronave e dos equipamentos abranger a transmissão desses elementos de dados através do Protocolo Modo S."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "ac1140e159f140e9": {
+   "fragment_id": "Requisitos aplicáveis ao intercâmbio de dados de vigilância a que se refere o artigo 5.º, n.º 1",
+   "type": "divisao",
+   "heading": "Requisitos aplicáveis ao intercâmbio de dados de vigilância a que se refere o artigo 5.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos aplicáveis ao intercâmbio de dados de vigilância a que se refere o artigo 5.º, n.º 1\n\n1. O intercâmbio de dados de vigilância entre os sistemas a que se refere o artigo 2.º, n.º 1, alíneas b) e c), deve obedecer a um formato de dados acordado entre as partes interessadas.\n\n2. Os dados de vigilância transferidos fora dos sistemas a que se refere o artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação aérea devem permitir:\n\na) A identificação da fonte de dados;\n\nb) A identificação do tipo de dados.\n\n3. Os dados de vigilância transferidos fora dos sistemas a que se refere o artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação aérea devem incluir a marcação de data e hora, e ser expressos em tempo universal coordenado (UTC)."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "8dab03aee2e84ede": {
+   "fragment_id": "Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2",
+   "type": "divisao",
+   "heading": "Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2\n\nOs acordos formais entre prestadores de serviços de navegação aérea para o intercâmbio de dados de vigilância devem incluir, no mínimo, os seguintes elementos:\n\na) As partes nos acordos;\n\nb) O prazo de validade dos acordos;\n\nc) O âmbito dos dados de vigilância;\n\nd) As fontes dos dados de vigilância;\n\ne) O formato do intercâmbio de dados de vigilância;\n\nf) Os meios de comunicação utilizados no intercâmbio de dados de vigilância;\n\ng) O ponto de entrega dos dados de vigilância;\n\nh) Os requisitos de qualidade para os dados de vigilância no que se refere ao seguinte:\n\n— indicadores de desempenho ou parâmetros usados para monitorizar a qualidade dos dados de vigilância,\n\n— métodos e instrumentos a aplicar na medição da qualidade dos dados de vigilância,\n\n— frequência da medição da qualidade dos dados de vigilância,\n\n— procedimentos para apresentação de relatórios sobre a qualidade dos dados,\n\n— para cada indicador de desempenho, a escala de valores admissível deve ser definida, bem como o procedimento a aplicar, caso o valor se situe fora da referida escala,\n\n— identificação da parte responsável pela verificação e pelo cumprimento dos requisitos de qualidade;\n\ni) Os níveis de serviço acordados no que se refere ao seguinte:\n\n— horas de disponibilidade,\n\n— continuidade,\n\n— integridade,\n\n— intervalo médio entre falhas,\n\n— período de resposta em caso de interrupções,\n\n— procedimentos aplicáveis em matéria de planeamento e de realização de operações de manutenção preventiva;\n\nj) Procedimentos de gestão da mudança;\n\nk) Mecanismos de comunicação de informações no que respeita ao desempenho e à disponibilidade, incluindo as interrupções imprevistas;\n\nl) Mecanismos em matéria de gestão e de coordenação;\n\nm) Dispositivos de salvaguarda da cadeia de vigilância em terra e de notificação."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "493e158846ecae12": {
+   "fragment_id": "Requisitos para a avaliação do nível de desempenho das cadeias de vigilância a que se refere o artigo 7.º, n.º 1",
+   "type": "divisao",
+   "heading": "Requisitos para a avaliação do nível de desempenho das cadeias de vigilância a que se refere o artigo 7.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos para a avaliação do nível de desempenho das cadeias de vigilância a que se refere o artigo 7.º, n.º 1\n\n1. A avaliação do nível de desempenho em curso dos sistemas a que se refere o artigo 2.º, n.º 1, alíneas b), c) e d), deve ser efectuada no volume de espaço aéreo onde são prestados os serviços de vigilância correspondentes que utilizam os referidos sistemas.\n\n2. Os prestadores de serviços de navegação aérea devem verificar periodicamente o sistema e os seus componentes e criar e impor um regime de validação do desempenho. A periodicidade deve ser acordada com a autoridade supervisora nacional tendo em conta as especificidades do sistema e dos seus componentes.\n\n3. Previamente à introdução de alterações na configuração do espaço aéreo, é necessário proceder à verificação dos sistemas a que se refere o artigo 2.º, n.º 1, alíneas b), c) e d), de modo a comprovar que continuam a satisfazer os requisitos de desempenho no novo volume de operações."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "affae2256d018d15": {
+   "fragment_id": "Requisitos a que se refere o artigo 9.º",
+   "type": "divisao",
+   "heading": "Requisitos a que se refere o artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos a que se refere o artigo 9.º\n\n1. Os requisitos de desempenho estabelecidos no artigo 4.º.\n\n2. Os requisitos de interoperabilidade estabelecidos no artigo 5.º, n.^os^ 2, 3 e 7.\n\n3. Os requisitos de protecção do espectro estabelecidos no artigo 6.º.\n\n4. Os requisitos aplicáveis aos procedimentos associados estabelecidos no artigo 7.º.\n\n5. O requisito para as aeronaves de Estado estabelecido no artigo 8.º, n.º 5.\n\n6. Os requisitos adicionais estabelecidos no artigo 12.º, n.º 3.\n\n7. Os requisitos para o intercâmbio de dados de vigilância estabelecidos no anexo III, ponto 3."
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "3f68dc38f4c78b64": {
+   "fragment_id": "Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo 10.º",
+   "type": "divisao",
+   "heading": "Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo 10.º\n\n1. As actividades de verificação da conformidade devem demonstrar a conformidade ou adequação para utilização dos componentes com os requisitos aplicáveis do presente regulamento, embora esses componentes se encontrem em operação em ambiente de ensaio.\n\n2. O fabricante deve gerir as actividades de avaliação da conformidade, nomeadamente:\n\na) Determinar o ambiente de ensaio adequado;\n\nb) Certificar-se de que o plano de ensaio descreve os componentes em ambiente de ensaio;\n\nc) Certificar-se de que o plano de ensaio cobre a totalidade dos requisitos aplicáveis;\n\nd) Assegurar a coerência e a qualidade da documentação técnica e do plano de ensaio;\n\ne) Planear a organização do ensaio, o pessoal, a instalação e a configuração da plataforma de ensaio;\n\nf) Realizar as inspecções e os ensaios especificados no plano de ensaio;\n\ng) Redigir o relatório de apresentação dos resultados das inspecções e ensaios.\n\n3. O fabricante deve assegurar que os componentes a que se refere o artigo 10.º, integrados no ambiente de ensaio, satisfazem os requisitos aplicáveis do presente regulamento.\n\n4. Após a conclusão satisfatória da verificação da conformidade ou adequação para utilização, o fabricante deve, sob a sua responsabilidade, emitir a declaração CE de conformidade ou adequação para utilização, especificando, designadamente, os requisitos aplicáveis do presente regulamento a que o componente obedece e as correspondentes condições de utilização, em conformidade com o anexo III, ponto 3, do Regulamento (CE) n.º 552/2004."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "dbb53332dfdb4d5f": {
+   "fragment_id": "Condições a que se refere o artigo 11.º, n.^os^ 1 e 2",
+   "type": "divisao",
+   "heading": "Condições a que se refere o artigo 11.º, n.^os^ 1 e 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições a que se refere o artigo 11.º, n.^os^ 1 e 2\n\n1. O prestador de serviços de navegação aérea deve ter instaurados na sua organização métodos de elaboração de relatórios que garantam e demonstrem a imparcialidade e independência de julgamento nas actividades de verificação.\n\n2. O prestador de serviços de navegação aérea deve assegurar que o pessoal envolvido nos processos de verificação desempenha as suas funções com a máxima integridade profissional e a máxima competência técnica possíveis e não é objecto de quaisquer pressões e incentivos, designadamente de natureza financeira, que possam afectar os seus juízos ou os resultados das suas verificações, nomeadamente por parte de pessoas ou grupos de pessoas interessadas nesses resultados.\n\n3. O prestador de serviços de navegação aérea deve assegurar que o pessoal envolvido nos processos de verificação tem acesso a equipamentos que lhe permitam a correcta realização das verificações necessárias.\n\n4. O prestador de serviços de navegação aérea deve assegurar que o pessoal envolvido nos processos de verificação possui uma sólida formação técnica e profissional, um conhecimento satisfatório das exigências inerentes às verificações que deve efectuar, uma experiência adequada de tais operações e a capacidade necessária para elaborar as declarações, os registos e os relatórios comprovativos da realização dessas verificações.\n\n5. O prestador de serviços de navegação aérea deve assegurar que o pessoal envolvido nos processos de verificação está apto a efectuar as verificações com imparcialidade. A remuneração deste pessoal não deve depender do número de verificações realizadas ou dos resultados destas."
+  },
+  "953641e58475eff6": {
+   "fragment_id": "ANEXO IX",
+   "type": "divisao",
+   "heading": "ANEXO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX"
+  },
+  "35a495e0878d3402": {
+   "fragment_id": "Parte A: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 1",
+   "type": "divisao",
+   "heading": "Parte A: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 1\n\n1. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve demonstrar a conformidade desses sistemas com os requisitos de interoperabilidade, desempenho e segurança previstos no presente regulamento, num ambiente de avaliação que reflicta o contexto operacional dos sistemas.\n\n2. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve ser efectuada de acordo com práticas de ensaio adequadas e reconhecidas.\n\n3. As ferramentas de ensaio utilizadas para a verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), devem ser dotadas das funcionalidades adequadas.\n\n4. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve produzir os elementos do processo técnico previstos no anexo IV, ponto 3, do Regulamento (CE) n.º 552/2004, incluindo os seguintes elementos:\n\na) A descrição da instalação;\n\nb) O relatório das inspecções e dos ensaios realizados antes da colocação em serviço do sistema.\n\n5. O prestador de serviços de navegação aérea deve gerir as actividades de verificação, nomeadamente:\n\na) Determinar o ambiente de avaliação operacional e técnica de modo a reproduzir de forma adequada as condições operacionais reais;\n\nb) Certificar-se de que o plano de ensaio descreve a integração dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), num ambiente de avaliação operacional e técnica;\n\nc) Certificar-se de que o plano de ensaio abrange a totalidade dos requisitos de interoperabilidade, desempenho e segurança aplicáveis previstos no presente regulamento;\n\nd) Assegurar a coerência e a qualidade da documentação técnica e do plano de ensaio;\n\ne) Planear a organização do ensaio, o pessoal, a instalação e a configuração da plataforma de ensaio;\n\nf) Realizar as inspecções e os ensaios especificados no plano de ensaio;\n\ng) Redigir o relatório de apresentação dos resultados das inspecções e ensaios.\n\n6. O prestador de serviços de navegação aérea deve garantir que os sistemas referidos no artigo 2.º, n.º 1, alíneas b), c) e d), utilizados num ambiente de avaliação operacional satisfazem os requisitos de interoperabilidade, desempenho e segurança previstos no presente regulamento.\n\n7. Após a conclusão satisfatória da verificação da conformidade, os prestadores de serviços de navegação aérea devem emitir a declaração CE de verificação do sistema e apresentá-la à autoridade supervisora nacional, acompanhada do processo técnico, conforme exigido pelo artigo 6.º do Regulamento (CE) n.º 552/2004."
+  },
+  "b7758e407bf623e9": {
+   "fragment_id": "Parte B: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 2",
+   "type": "divisao",
+   "heading": "Parte B: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Requisitos para a verificação dos sistemas a que se refere o artigo 11.º, n.º 2\n\n1. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve demonstrar a conformidade desses sistemas com os requisitos de interoperabilidade, desempenho e segurança previstos no presente regulamento, num ambiente de avaliação que reflicta o contexto operacional dos sistemas.\n\n2. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve ser efectuada de acordo com práticas de ensaio adequadas e reconhecidas.\n\n3. As ferramentas de ensaio utilizadas para a verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), devem ser dotadas das funcionalidades adequadas.\n\n4. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve produzir os elementos do processo técnico previstos no anexo IV, ponto 3, do Regulamento (CE) n.º 552/2004, incluindo os seguintes elementos:\n\na) A descrição da instalação;\n\nb) O relatório das inspecções e dos ensaios realizados antes da colocação em serviço do sistema.\n\n5. O prestador de serviços de navegação aérea deve determinar o ambiente de avaliação operacional e técnica adequado que reflicta o ambiente operacional real, e confiar as actividades de verificação a um organismo notificado.\n\n6. O organismo notificado deve gerir as actividades de verificação, nomeadamente:\n\na) Certificar-se de que o plano de ensaio descreve a integração dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), num ambiente de avaliação operacional e técnica;\n\nb) Certificar-se de que o plano de ensaio abrange a totalidade dos requisitos de interoperabilidade, desempenho e segurança aplicáveis previstos no presente regulamento;\n\nc) Assegurar a coerência e a qualidade da documentação técnica e do plano de ensaio;\n\nd) Planear a organização do ensaio, o pessoal, a instalação e a configuração da plataforma de ensaio;\n\ne) Realizar as inspecções e os ensaios especificados no plano de ensaio;\n\nf) Redigir o relatório de apresentação dos resultados das inspecções e ensaios.\n\n7. O organismo notificado deve assegurar que os sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), utilizados num ambiente de avaliação operacional satisfazem os requisitos de interoperabilidade, desempenho e segurança previstos no presente regulamento.\n\n8. Após a conclusão satisfatória das tarefas de verificação, o organismo notificado deve emitir um certificado de conformidade relativo às tarefas executadas.\n\n9. O prestador de serviços de navegação aérea deve, então, emitir uma declaração CE de verificação do sistema e apresentá-la à autoridade supervisora nacional, acompanhada do processo técnico, conforme exigido pelo artigo 6.º do Regulamento (CE) n.º 552/2004.\n\n---"
+  },
+  "f9349f8e8309e4dc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/15f7a6d5-5768-40ef-ba91-674df364b46b.0015.02/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 26.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/15f7a6d5-5768-40ef-ba91-674df364b46b.0015.02/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/15f7a6d5-5768-40ef-ba91-674df364b46b.0015.02/DOC_1#src.E0003)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/15f7a6d5-5768-40ef-ba91-674df364b46b.0015.02/DOC_1#src.E0004)) JO L 79 de 19.3.2008, p. 1."
+  },
+  "fbdafd31c46b8287": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 2011\n\nque estabelece os requisitos para o desempenho e a interoperabilidade da vigilância no céu único europeu\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "745abeab3ffdcb96": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se à cadeia de vigilância, constituída pelos:\n\na) Sistemas de vigilância de bordo, seus componentes e procedimentos associados;\n\nb) Sistemas de vigilância no solo, seus componentes e procedimentos associados;\n\nc) Sistemas de processamento de dados de vigilância, seus componentes e procedimentos associados;\n\nd) Sistemas de comunicações solo-solo utilizados na distribuição de dados de vigilância, seus componentes e procedimentos associados.\n\n2. O presente regulamento aplica-se a todos os voos operados como tráfego aéreo geral de acordo com as regras de voo por instrumentos no espaço aéreo definido no artigo 1.º, n.º 3, do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/82f8eb49-f5c2-4ca2-863a-7a8d9d7b5a02.0015.02/DOC_1#E0001)), com excepção do artigo 7.º, n.^os^ 3 e 4, que se aplica a todos os voos operados como tráfego aéreo geral.\n\n3. O presente regulamento aplica-se aos prestadores de serviços de tráfego aéreo que prestam serviços de controlo de tráfego aéreo com base em dados de vigilância e aos prestadores de serviços de comunicações, navegação ou vigilância que utilizam os sistemas referidos no n.º 1."
+  },
+  "f1dc89890b43de62": {
+   "fragment_id": "Artigo 5.º — Requisitos de interoperabilidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Requisitos de interoperabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de interoperabilidade\n\n1. Os prestadores de serviços de navegação aérea devem assegurar que todos os dados de vigilância transferidos dos seus sistemas, definidos no artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação cumprem os requisitos estabelecidos no anexo III.\n\n2. Os prestadores de serviços de navegação aérea, quando da transferência de dados de vigilância dos seus sistemas, definidos no artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação aérea, devem estabelecer acordos formais entre si para intercâmbio de dados, em conformidade com os requisitos estabelecidos no anexo IV.\n\n3. Os prestadores de serviços de navegação aérea devem assegurar que, o mais tardar em 2 de Janeiro de 2020, a cadeia de vigilância cooperativa dispõe da capacidade necessária para poderem estabelecer a identificação das aeronaves utilizando o sistema de identificação de aeronaves por ligação descendente disponibilizado pelas aeronaves que são equipadas em conformidade com o disposto no anexo II.\n\n5. Os operadores devem assegurar, o mais tardar até 7 de junho de 2020, que:\n\na) As aeronaves que operam os voos a que se refere o artigo 2.º, n.º 2 estão equipadas com *transponders* de radar de vigilância secundário com as capacidades definidas no anexo II, parte A;\n\nb) As aeronaves com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, estão equipadas com *transponders* de radar de vigilância secundário que, além das capacidades descritas no anexo II, parte A, dispõem das capacidades definidas na parte B desse anexo;\n\nc) As aeronaves de asa fixa com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, estão equipadas com *transponders* de radar de vigilância secundário que, para além das capacidades definidas no anexo II, parte A, dispõem das capacidades definidas na parte C desse anexo.\n\n6. Os operadores devem assegurar que as aeronaves equipadas de acordo com o n.º 5 e com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós operam com diversidade de antena, em conformidade com o ponto 3.1.2.10.4 do anexo 10 da Convenção de Chicago, volume IV, quarta edição, incluindo o conjunto de emendas até ao n.º 85.\n\n7. Os Estados-Membros podem impor requisitos de transporte nos termos do n.º 5, alínea b), a todas as aeronaves que operam os voos a que se refere o artigo 2.º, n.º 2, nas áreas em que os prestadores de serviços de navegação aérea fornecem serviços de vigilância que utilizam os dados de vigilância identificados no anexo II, parte B.\n\n8. Os prestadores de serviços de navegação aérea devem assegurar que, antes da colocação em serviço dos sistemas a que se refere o artigo 2.º, n.º 1, alíneas b), c) e d), são aplicadas as soluções de implantação mais eficientes, tendo em conta os ambientes operacionais locais, as limitações e necessidades e as capacidades dos utilizadores do espaço aéreo."
+  },
+  "26494cb86580a98f": {
+   "fragment_id": "Artigo 6.º — Protecção do espectro",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Protecção do espectro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Protecção do espectro\n\n1. Até [**►M2**](http://publications.europa.eu/resource/celex/32017R0386) 2 de janeiro de 2020**◄**, o mais tardar, os Estados-Membros devem garantir que os *transponders* de radar de vigilância secundário instalados a bordo das aeronaves que sobrevoam um Estado-Membro não são objecto de demasiadas interrogações pelos interrogadores de vigilância terrestres e que, ou geram respostas ou, embora não gerem respostas, têm potência suficiente para exceder o nível mínimo do receptor do *transponder* de radar de vigilância secundário.\n\n2. Para efeitos do disposto no n.º 1, a soma das interrogações não deve conduzir os *transponders* dos radares secundários de vigilância a excederem as taxas de resposta por segundo, com excepção das transmissões não solicitadas, especificadas nos pontos 3.1.1.7.9.1, para as respostas em modo A/C, e 3.1.2.10.3.7.3, para as respostas em Modo S, do anexo 10 da Convenção de Chicago, volume IV, quarta edição.\n\n3. Até [**►M2**](http://publications.europa.eu/resource/celex/32017R0386) 2 de janeiro de 2020**◄**, o mais tardar, os Estados-Membros devem garantir que a utilização de um emissor terrestre a operar num Estado-Membro não gera interferências prejudiciais para os outros sistemas de vigilância.\n\n4. Em caso de desacordo entre os Estados-Membros no que respeita às medidas referidas nos n.^os^ 1 e 3, os Estados-Membros em causa devem submeter a questão à Comissão para que esta tome as medidas necessárias."
+  },
+  "36fdc846da2b987e": {
+   "fragment_id": "Artigo 8.º — Aeronaves de Estado",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Aeronaves de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aeronaves de Estado\n\n1. Os Estados-Membros devem assegurar que, o mais tardar até 7 de junho de 2020, as aeronaves de Estado que operam em conformidade com o artigo 2.º, n.º 2, são equipadas com *transponders* de radar de vigilância secundário que dispõem da capacidade definida no anexo II, parte A.\n\n2. Os Estados-Membros devem assegurar que, o mais tardar até 7 de junho de 2020, as aeronaves de Estado do tipo transporte com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam em conformidade com o artigo 2.º, n.º 2, são equipadas com *transponders* de radar de vigilância secundário que, para além da capacidade definida no anexo II, parte A, dispõem da capacidade definida nas partes B e C desse anexo.\n\n3. Os Estados-Membros devem comunicar à Comissão, o mais tardar até 1 de janeiro de 2019, a lista das aeronaves de Estado que não podem ser equipadas com *transponders* de radar de vigilância secundário que cumprem os requisitos estabelecidos no anexo II, parte A, bem como os motivos que justificam a não instalação.\n\nOs Estados-Membros devem comunicar à Comissão, o mais tardar em 1 de janeiro de 2019, a lista das aeronaves de Estado do tipo «transporte» com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que não podem ser equipadas com *transponders* de radar de vigilância secundário que cumprem os requisitos estabelecidos no anexo II, partes B e C, bem como os motivos que justificam a não instalação.\n\nOs motivos que justificam a não instalação são os seguintes:\n\na) Razões imperiosas de ordem técnica;\n\nb) Aeronaves de Estado que operam em conformidade com o artigo 2.º, n.º 2, que irão ser retiradas do serviço operacional o mais tardar até 1 de janeiro de 2024;\n\nc) Condicionalismos associados à adjudicação de contratos.\n\n4. Para as aeronaves de Estado que não podem ser equipadas com *transponders* de radar de vigilância secundário conforme especificado nos n.^os^ 1 ou 2 pelo motivo indicado no n.º 3, alínea c), os Estados-Membros devem incluir nos documentos justificativos os planos de aquisição do equipamento para essas aeronaves.\n\n5. Os prestadores de serviços de tráfego aéreo devem assegurar que podem tomar a cargo as aeronaves de Estado identificadas no n.º 3, desde que estas possam ser manobradas de forma segura dentro do limite da capacidade do sistema de gestão do tráfego aéreo.\n\n6. Os Estados-Membros devem publicar os procedimentos para a manobra das aeronaves de Estado não equipadas de acordo com o disposto nos n.^os^ 1 ou 2 nas publicações nacionais de informação aeronáutica.\n\n7. Os prestadores de serviços de tráfego aéreo devem comunicar anualmente ao Estado-Membro que os designou os respectivos planos para a manobra das aeronaves de Estado não equipadas de acordo com o disposto nos n.^os^ 1 ou 2. Esses planos devem ser definidos tendo em conta os limites de capacidade associados aos procedimentos a que se refere o n.º 6."
+  },
+  "2c11445316f8507f": {
+   "fragment_id": "Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conformidade ou adequação para utilização dos componentes\n\nAntes da emissão da declaração CE de conformidade ou de adequação para a utilização, prevista no artigo 5.º do Regulamento (CE) n.º 552/2004, os fabricantes de componentes para os sistemas mencionados no artigo 2.º, n.º 1, do presente regulamento, ou os seus representantes autorizados estabelecidos na União, devem avaliar a conformidade ou adequação para utilização desses componentes de acordo com os requisitos estabelecidos no anexo VII.\n\nNo entanto, os processos de certificação em conformidade com o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/82f8eb49-f5c2-4ca2-863a-7a8d9d7b5a02.0015.02/DOC_1#E0002)), devem ser considerados procedimentos aceitáveis para efeitos da avaliação da conformidade dos componentes, desde que incluam a demonstração do cumprimento dos requisitos de interoperabilidade, de desempenho e de segurança aplicáveis do presente regulamento."
+  },
+  "29740c45162ca3f8": {
+   "fragment_id": "Artigo 14.º — Isenções aplicáveis a aeronaves",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Isenções aplicáveis a aeronaves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Isenções aplicáveis a aeronaves\n\n1. As aeronaves de tipos específicos, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de [**►M2**](http://publications.europa.eu/resource/celex/32017R0386) 7 de junho de 2020**◄**, com massa máxima à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que não disponham a bordo num *bus* digital do conjunto completo de parâmetros especificados no anexo II, parte C, podem ficar isentas do cumprimento dos requisitos estabelecidos no artigo 5.º, n.º 5, alínea c).\n\n2. As aeronaves de tipos específicos, cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 1 de Janeiro de 1990, com massa máxima à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, podem ficar isentas do cumprimento dos requisitos estabelecidos no artigo 5.º, n.º 6.\n\n3. Os Estados-Membros em causa devem enviar à Comissão, o mais tardar até [**►M2**](http://publications.europa.eu/resource/celex/32017R0386) 1 de janeiro de 2019**◄**, informações pormenorizadas para justificar a necessidade de isentar esses tipos específicos de aeronaves com base nos critérios estabelecidos no n.º 5.\n\n4. A Comissão examina os pedidos de isenção referidos no n.º 3 e, após consulta às partes envolvidas, deve adoptar uma decisão.\n\n5. Os critérios a que se refere o n.º 3 devem incluir os seguintes elementos:\n\na) tipos específicos de aeronaves em fim de ciclo de produção;\n\nb) tipos específicos de aeronaves produzidos em quantidades limitadas;\n\nc) custos de readaptação desproporcionados."
+  },
+  "ebdc63affa95bfbb": {
+   "fragment_id": "Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3",
+   "type": "divisao",
+   "heading": "Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3\n\n1. A capacidade mínima do *transponder* de radar de vigilância secundário deve ser o Modo S, nível 2s, certificado em conformidade com o anexo 10, secções 2.1.5.1.2, 2.1.5.1.7 e 3.1.2.10, da Convenção de Chicago, volume IV (4.ª edição, incluindo todas as emendas até ao n.º 85).\n\n2. Cada registo de *transponder* criado deve cumprir o disposto na secção correspondente do documento 9871 da ICAO (2.ª edição).\n\n3. Os *transponders* devem dispor dos seguintes elementos de dados, a transmitir por estes através do Protocolo Modo S e nos formatos especificados no documento 9871 da ICAO (2.ª edição):\n\na) Endereço ICAO de 24 bits da aeronave;\n\nb) Código do Modo A;\n\nc) Altitude barométrica;\n\nd) Estado do voo (no solo ou no ar);\n\ne) Relatório sobre a capacidade das ligações de dados, incluindo:\n\n— a capacidade do sistema anticolisão de bordo (ACAS),\n\n— a capacidade dos serviços específicos do Modo S,\n\n— a capacidade de identificação da aeronave,\n\n— a capacidade de emissão não solicitada,\n\n— a capacidade do identificador de vigilância,\n\n— o relatório sobre a capacidade de difusão de comunicações iniciadas no solo (GICB) de uso corrente (indicação de alteração),\n\n— o número da versão da sub-rede Modo S;\n\nf) Relatório sobre a capacidade GICB de uso corrente;\n\ng) Identificação da aeronave;\n\nh) Indicação de posição especial (SPI);\n\ni) Categoria da emergência (emergência geral, ausência de comunicações, interferência ilícita), incluindo a utilização de códigos específicos do Modo A, para indicar as diferentes situações de emergência;\n\nj) Avisos de resolução activos ACAS quando a aeronave está equipada com o sistema anticolisão e alerta do tráfego aéreo II (TCAS II).\n\n4. É possível disponibilizar outros elementos de dados ao *transponder*.\n\n5. Os elementos de dados a que se refere o ponto 4 só devem ser transmitidos pelo *transponder* através do Protocolo Modo S se o processo de certificação da aeronave e dos equipamentos abranger a transmissão desses elementos de dados através do Protocolo Modo S.\n\n6. A continuidade da funcionalidade do *transponder* que suporta o Protocolo Modo S deve ser igual ou inferior a 2. 10^-4^ por hora de voo (ou seja, um intervalo médio entre falhas igual ou superior a 5 000 horas de voo)."
+  },
+  "afdd5d6d6c567733": {
+   "fragment_id": "Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3",
+   "type": "divisao",
+   "heading": "Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3\n\n1. A capacidade mínima do *transponder* de radar de vigilância secundário deve ser o Modo S, nível 2es, certificado em conformidade com o anexo 10, secções 2.1.5.1.2, 2.1.5.1.6, 2.1.5.1.7 e 3.1.2.10, da Convenção de Chicago, volume IV (4.ª edição, incluindo todas as emendas até ao n.º 85).\n\n2. Cada registo de *transponder* criado deve cumprir o disposto na secção correspondente do documento 9871 da ICAO (2.ª edição).\n\n3. Os *transponders* devem dispor dos seguintes elementos de dados, a transmitir por estes através do Protocolo ADS-B de emissão não solicitada alargada (*extended squitter - ES)*, versão 2, nos formatos especificados no documento 9871 da ICAO (2.ª edição):\n\na) Endereço ICAO de 24 bits da aeronave;\n\nb) Identificação da aeronave;\n\nc) Código do Modo A;\n\nd) Indicação de posição especial (SPI) utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A;\n\ne) Categoria da emergência (emergência geral, ausência de comunicações, interferência ilícita), utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A;\n\nf) Número da versão do ADS-B (igual a 2);\n\ng) Categoria do emissor ADS-B;\n\nh) Posição geodésica horizontal de acordo com a latitude e longitude segundo o sistema geodésico mundial, revisão de 1984 (WGS84), em voo ou em terra;\n\ni) Indicadores de qualidade da posição geodésica horizontal [correspondente ao limite de contenção da integridade (*integrity containment bound* - NIC), categoria de exactidão da navegação de 95 % em relação à posição (NACp), nível de integridade da fonte (SIL) e nível de garantia da concepção do sistema (SDA)];\n\nj) Altitude barométrica utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A;\n\nk) Altitude geométrica de acordo com o sistema geodésico mundial, revisão de 1984 (WGS84), fornecida a título complementar e codificada como uma diferença em relação à altitude barométrica;\n\nl) Exactidão vertical geométrica (GVA);\n\nm) Velocidade sobre o solo, tanto em voo (velocidade Este/Oeste e Norte/Sul) como em terra (rumo à superfície/rota no solo e movimento).\n\nn) Indicador de qualidade da velocidade correspondente à categoria de exactidão da navegação para a velocidade (NACv);\n\no) Comprimento e largura codificados da aeronave;\n\np) Desvio da antena do Sistema Global de Navegação por Satélite (GNSS);\n\nq) Variação vertical: variação vertical barométrica utilizando a fonte que foi utilizada para o mesmo parâmetro especificado no elemento de dados da parte C, ponto 2, alínea g), quando a aeronave deva e possa transmitir esse elemento de dados através do Protocolo Modo S, ou variação vertical dada pelo Sistema Global de Navegação por Satélite (GNSS);\n\nr) Altitude seleccionada no painel de controlo do modo/unidade de controlo de voo (MCP/FCU) utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte C, quando a aeronave deva e possa transmitir esse elemento de dados através do Protocolo Modo S;\n\ns) Regulação da pressão barométrica (menos 800 hectopascais) utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte C, quando a aeronave deva e possa transmitir esse elemento de dados através do Protocolo Modo S;\n\nt) Avisos de resolução activos ACAS quando a aeronave está equipada com TCAS II utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A.\n\n4. Os elementos de dados de vigilância (elementos de dados indicados no ponto 3, alíneas h), k) e m)) e os seus elementos de dados indicadores de qualidade (elementos de dados indicados no ponto 3, alíneas i), l) e n)), devem ser fornecidos aos *transponders* na mesma interface física.\n\n5. A fonte de dados ligada ao *transponder* e que fornece os elementos de dados indicados no ponto 3, alíneas h) e i), deve satisfazer os seguintes requisitos de integridade dos dados:\n\na) O nível de integridade da fonte (SIL, expresso em relação ao NIC) da posição horizontal [elemento de dados indicado no ponto 3, alínea h)] deve ser igual ou inferior a 10^-7^ por hora de voo;\n\nb) O prazo para alerta de integridade de posição horizontal [elemento de dados indicado no ponto 3, alínea h)] (que conduz à alteração do indicador de qualidade NIC), caso seja necessária monitorização de bordo para atingir o nível de integridade da fonte de posição horizontal, deve ser igual ou inferior a 10 segundos.\n\n6. A principal fonte de dados que fornece os elementos de dados indicados no ponto 3, alíneas h) e i), deve ser compatível, no mínimo, com os receptores GNSS de monitorização da integridade autónoma do receptor (RAIM) e de detecção e eliminação de falhas (FDE), bem como com o fornecimento de informação sobre a situação das medições correspondentes e com indicações sobre o limite de contenção da integridade e o limite de exactidão de 95 %.\n\n7. O nível de integridade do sistema das fontes de dados que fornecem os elementos de dados indicados no ponto 3, alíneas f), g) e k) a p), deve ser igual ou inferior a 10^-5^ por hora de voo.\n\n8. A informação dos indicadores de qualidade (NIC, NACp, SIL, SDA, NACv e GVA), (elementos de dados indicados no ponto 3, alíneas i), l) e n)) deve incluir o desempenho real da fonte de dados seleccionada como válida no momento da aplicabilidade da medição dos elementos de dados indicados no ponto 3, alíneas h), k) e m).\n\n9. No que respeita ao processamento dos elementos de dados indicados no ponto 3, alíneas a) a t), o nível de integridade do sistema de *transponders* para o Protocolo ADS-B de emissão não solicitada alargada, incluindo eventual aviónica de interconexão com o *transponder*, deve ser igual ou inferior a 10^-5^ por hora de voo.\n\n10. A latência total dos dados de posição horizontal (elementos de dados indicados no ponto 3, alíneas h) e i)) deve ser igual ou inferior a 1,5 segundos em 95 % das transmissões.\n\n11. A latência não compensada dos dados de posição horizontal (elemento de dados indicado no ponto 3, alínea h)) deve ser igual ou inferior a 0,6 segundos em 95 % dos casos e igual ou inferior a 1,0 segundos em 99,9 % das transmissões.\n\n12. A latência total dos elementos de dados de velocidade em relação ao solo [elementos de dados indicados no ponto 3, alíneas m) e n)] deve ser igual ou inferior a 1,5 segundos em 95 % das transmissões.\n\n13. Se o *transponder* estiver programado para usar um código de conspicuidade Modo A de 1000, nesse caso deve ser bloqueada a difusão de informação de código Modo A através do Protocolo ADS-B de emissão não solicitada alargada.\n\n14. É possível disponibilizar outros elementos de dados ao *transponder*.\n\n15. Com excepção dos formatos reservados a aplicações militares, os elementos de dados a que se refere o ponto 14 só devem ser transmitidos pelo *transponder* através do Protocolo ADS-B de emissão não solicitada alargada se o processo de certificação da aeronave e dos equipamentos abranger a transmissão desses elementos de dados através do referido protocolo.\n\n16. A continuidade da funcionalidade do *transponder* que suporta o protocolo ADS-B deve ser igual ou inferior a 2. 10^-4^ por hora de voo (ou seja, um intervalo médio entre falhas igual ou superior a 5 000 horas de voo)."
+  },
+  "d8061c6c53155697": {
+   "fragment_id": "Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.^os^ 2 e 3, e o artigo 14.º, n.º 1",
+   "type": "divisao",
+   "heading": "Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.^os^ 2 e 3, e o artigo 14.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.^os^ 2 e 3, e o artigo 14.º, n.º 1\n\n1. Cada registo de *transponder* criado deve cumprir o disposto na secção correspondente do documento 9871 da ICAO (2.ª edição).\n\n2. Os *transponders* devem dispor dos seguintes elementos de dados, a transmitir por estes, a pedido da cadeia de vigilância em terra, através do Protocolo de Modo S e em conformidade com os formatos especificados no documento n.º 9871 da ICAO (2.ª edição):\n\na) Altitude seleccionada MCP/FCU;\n\nb) Ângulo de rolamento;\n\nc) Ângulo de rota verdadeiro;\n\nd) Velocidade em relação ao solo;\n\ne) Rumo magnético;\n\nf) Velocidade no ar indicada (IAS) ou número de Mach;\n\ng) Variação vertical (barométrica ou baro-inercial);\n\nh) Regulação da pressão barométrica (menos 800 hectopascais).\n\ni) Variação angular da rota ou velocidade no ar verdadeira caso a variação angular da rota não esteja disponível.\n\n3. É possível disponibilizar outros elementos de dados ao *transponder*.\n\n4. Os elementos de dados a que se refere o ponto 3 só devem ser transmitidos pelo *transponder* através do Protocolo Modo S se o processo de certificação da aeronave e dos equipamentos abranger a transmissão desses elementos de dados através do Protocolo Modo S."
+  },
+  "358cf06035718c47": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/82f8eb49-f5c2-4ca2-863a-7a8d9d7b5a02.0015.02/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/82f8eb49-f5c2-4ca2-863a-7a8d9d7b5a02.0015.02/DOC_1#src.E0002)) JO L 79 de 19.3.2008, p. 1."
+  },
+  "14ee1f2ad548b257": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se à cadeia de vigilância, constituída pelos:\n\na) Sistemas de vigilância de bordo, seus componentes e procedimentos associados;\n\nb) Sistemas de vigilância no solo, seus componentes e procedimentos associados;\n\nc) Sistemas de processamento de dados de vigilância, seus componentes e procedimentos associados;\n\nd) Sistemas de comunicações solo-solo utilizados na distribuição de dados de vigilância, seus componentes e procedimentos associados.\n\n2. O presente regulamento aplica-se a todos os voos operados como tráfego aéreo geral de acordo com as regras de voo por instrumentos no espaço aéreo do Céu Único Europeu, com exceção do artigo 7.º, n.^os^ 3 e 4, que se aplicam a todos os voos operados como tráfego aéreo geral\n\n3. O presente regulamento aplica-se aos prestadores de serviços de tráfego aéreo que prestam serviços de controlo de tráfego aéreo com base em dados de vigilância e aos prestadores de serviços de comunicações, navegação ou vigilância que utilizam os sistemas referidos no n.º 1."
+  },
+  "31f9fe8a90b4ca95": {
+   "fragment_id": "Artigo 4.º — Requisitos de desempenho",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de desempenho\n\n1. Os prestadores de serviços de navegação aérea devem garantir a continuidade das operações no espaço aéreo sob a sua responsabilidade e na fronteira com os espaços aéreos adjacentes aplicando os requisitos mínimos de separação adequada entre aeronaves.\n\n2. Os prestadores de serviços de navegação aérea devem assegurar a implantação dos sistemas a que se refere o artigo 2.º, n.º 1, alíneas b), c) e d), de modo a cumprir os requisitos mínimos de separação aplicados nos termos do n.º 1.\n\n3. Os prestadores de serviços de navegação aérea devem assegurar que os dados fornecidos pela cadeia de vigilância a que se refere o artigo 2.º, n.º 1, cumprem os requisitos de desempenho estabelecidos no anexo I, desde que as funções dos componentes de bordo utilizados satisfaçam os requisitos estabelecidos no anexo II."
+  },
+  "07831a371aa14098": {
+   "fragment_id": "Artigo 5.º — Requisitos de interoperabilidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Requisitos de interoperabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de interoperabilidade\n\n1. Os prestadores de serviços de navegação aérea devem assegurar que todos os dados de vigilância transferidos dos seus sistemas, definidos no artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação cumprem os requisitos estabelecidos no anexo III.\n\n2. Os prestadores de serviços de navegação aérea, quando da transferência de dados de vigilância dos seus sistemas, definidos no artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação aérea, devem estabelecer acordos formais entre si para intercâmbio de dados, em conformidade com os requisitos estabelecidos no anexo IV.\n\n3. Os prestadores de serviços de navegação aérea devem assegurar que, o mais tardar em 2 de Janeiro de 2020, a cadeia de vigilância cooperativa dispõe da capacidade necessária para poderem estabelecer a identificação das aeronaves utilizando o sistema de identificação de aeronaves por ligação descendente disponibilizado pelas aeronaves que são equipadas em conformidade com o disposto no anexo II.\n\n5. Até 7 de dezembro de 2020, os operadores devem assegurar que:\n\na) As aeronaves que operam os voos a que se refere o artigo 2.º, n.º 2, encontram-se equipadas com transponders de radar de vigilância secundário operacionais que cumprem as seguintes condições:\n\ni) possuem as capacidades definidas na parte A do anexo II;\n\nii) são dotados de continuidade suficiente para evitar apresentar um risco operacional;\n\nb) as aeronaves com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido em 7 de junho de 1995 ou em data posterior, estão equipadas com transponders de radar de vigilância secundário operacionais que cumprem as seguintes condições:\n\ni) possuem as capacidades definidas nas partes A e B do anexo II;\n\nii) são dotados de continuidade suficiente para evitar apresentar um risco operacional;\n\nc) as aeronaves de asa fixa com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido em 7 de junho de 1995 ou em data posterior, estão equipadas com transponders de radar de vigilância secundário operacionais que cumprem as seguintes condições:\n\ni) dispõem das capacidades definidas nas partes A, B e C do anexo II;\n\nii) são dotados de continuidade suficiente para evitar apresentar um risco operacional.\n\nAs alíneas b) e c) do primeiro parágrafo não se aplicam às aeronaves que operam no espaço aéreo do Céu Único Europeu e que pertencem a uma das seguintes categorias:\n\ni) estejam a ser operadas para fins de manutenção;\n\nii) estejam a ser operadas para exportação;\n\niii) as suas operações cessarão até 31 de outubro de 2025.\n\nOs operadores de aeronaves cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 7 de dezembro de 2020 devem cumprir o disposto nas alíneas b) e c) do primeiro parágrafo até 7 de junho de 2023, sob reserva das seguintes condições:\n\ni) devem ter estabelecido, antes de 7 de dezembro de 2020, um programa de retroapetrechamento que demonstre a conformidade com as alíneas b) e c) do primeiro parágrafo;\n\nii) essas aeronaves não devem ter beneficiado de qualquer financiamento da União concedido para a sua colocação em conformidade com os requisitos estabelecidos nas alíneas b) e c) do primeiro parágrafo.\n\nNo caso das aeronaves cuja capacidade dos transponders para cumprirem os requisitos do primeiro parágrafo, alíneas b) e c), se encontre temporariamente inoperacional, os operadores devem ter o direito de as operar no espaço aéreo do Céu Único Europeu por um período máximo de 3 dias consecutivos.\n\n6. Os operadores devem assegurar que as aeronaves equipadas de acordo com o n.º 5 e com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós operam com diversidade de antena, em conformidade com os requisitos de desempenho mínimo estabelecidos no ponto 3.1.2.10.4 do anexo 10 da Convenção de Chicago, volume IV, 4.ª edição, incluindo o conjunto de emendas até ao n.º 77.\n\n8. Os prestadores de serviços de navegação aérea devem assegurar que, antes da colocação em serviço dos sistemas a que se refere o artigo 2.º, n.º 1, alíneas b), c) e d), são aplicadas as soluções de implantação mais eficientes, tendo em conta os ambientes operacionais locais, as limitações e necessidades e as capacidades dos utilizadores do espaço aéreo."
+  },
+  "4d209f051851b005": {
+   "fragment_id": "Artigo 6.º — Protecção do espectro",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Protecção do espectro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Protecção do espectro\n\n1. Até [**►M2**](http://publications.europa.eu/resource/celex/32017R0386) 2 de janeiro de 2020**◄**, o mais tardar, os Estados-Membros devem garantir que os *transponders* de radar de vigilância secundário instalados a bordo das aeronaves que sobrevoam um Estado-Membro não são objecto de demasiadas interrogações pelos interrogadores de vigilância terrestres e que, ou geram respostas ou, embora não gerem respostas, têm potência suficiente para exceder o nível mínimo do receptor do *transponder* de radar de vigilância secundário.\n\n3. Até [**►M2**](http://publications.europa.eu/resource/celex/32017R0386) 2 de janeiro de 2020**◄**, o mais tardar, os Estados-Membros devem garantir que a utilização de um emissor terrestre a operar num Estado-Membro não gera interferências prejudiciais para os outros sistemas de vigilância.\n\n4. Em caso de desacordo entre os Estados-Membros no que respeita às medidas referidas nos n.^os^ 1 e 3, os Estados-Membros em causa devem submeter a questão à Comissão para que esta tome as medidas necessárias."
+  },
+  "5e60334534d3c49c": {
+   "fragment_id": "Artigo 7.º — Procedimentos associados",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Procedimentos associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Procedimentos associados\n\n1. Os prestadores de serviços de navegação aérea devem avaliar o nível de desempenho da cadeia de vigilância terrestre antes da sua colocação em serviço, assim como de forma periódica durante o serviço, em conformidade com os requisitos estabelecidos no anexo V.\n\n3. Os Estados-Membros devem assegurar que a atribuição de endereços ICAO de 24 bits às aeronaves equipadas com transponders de Modo S está em conformidade com o anexo 10, capítulo 9, e respetivo apêndice, da Convenção de Chicago, volume III, segunda edição, incluindo todas as emendas até ao n.º 90.\n\n4. Os operadores devem assegurar que os *transponders* de Modo S instalados a bordo das aeronaves por eles operadas funcionam com um endereço ICAO de 24 bits, correspondente à matrícula atribuída pelo Estado onde a aeronave se encontra registada."
+  },
+  "6c3ab6ee1eb5c29b": {
+   "fragment_id": "Artigo 8.º — Aeronaves de Estado",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Aeronaves de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aeronaves de Estado\n\n1. Os Estados-Membros devem assegurar que, o mais tardar até 7 de dezembro de 2020, as aeronaves do Estado cumpram o disposto no artigo 5.º, n.º 5, alínea a).\n\n2. Os Estados-Membros devem assegurar que, o mais tardar até 7 de dezembro de 2020, as aeronaves de Estado do tipo transporte cumpram o disposto no artigo 5.º, n.º 5, alínea c).\n\n3. Os Estados-Membros devem comunicar à Comissão, o mais tardar até 1 de janeiro de 2019, a lista das aeronaves de Estado que não podem ser equipadas com *transponders* de radar de vigilância secundário que cumprem os requisitos estabelecidos no anexo II, parte A, bem como os motivos que justificam a não instalação.\n\nOs Estados-Membros devem comunicar à Comissão, o mais tardar em 1 de janeiro de 2019, a lista das aeronaves de Estado do tipo «transporte» com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que não podem ser equipadas com *transponders* de radar de vigilância secundário que cumprem os requisitos estabelecidos no anexo II, partes B e C, bem como os motivos que justificam a não instalação.\n\nOs motivos que justificam a não instalação são os seguintes:\n\na) Razões imperiosas de ordem técnica;\n\nb) Aeronaves de Estado que operam em conformidade com o artigo 2.º, n.º 2, que irão ser retiradas do serviço operacional o mais tardar até 1 de janeiro de 2024;\n\nc) Condicionalismos associados à adjudicação de contratos.\n\n4. Para as aeronaves de Estado que não podem ser equipadas com *transponders* de radar de vigilância secundário conforme especificado nos n.^os^ 1 ou 2 pelo motivo indicado no n.º 3, alínea c), os Estados-Membros devem incluir nos documentos justificativos os planos de aquisição do equipamento para essas aeronaves.\n\n5. Os prestadores de serviços de tráfego aéreo devem assegurar que podem tomar a cargo as aeronaves de Estado identificadas no n.º 3, desde que estas possam ser manobradas de forma segura dentro do limite da capacidade do sistema de gestão do tráfego aéreo.\n\n6. Os Estados-Membros devem publicar os procedimentos para a manobra das aeronaves de Estado não equipadas de acordo com o disposto nos n.^os^ 1 ou 2 nas publicações nacionais de informação aeronáutica.\n\n7. Os prestadores de serviços de tráfego aéreo devem comunicar anualmente ao Estado-Membro que os designou os respectivos planos para a manobra das aeronaves de Estado não equipadas de acordo com o disposto nos n.^os^ 1 ou 2. Esses planos devem ser definidos tendo em conta os limites de capacidade associados aos procedimentos a que se refere o n.º 6.\n\n8. No caso das aeronaves de Estado cuja capacidade dos transponders para cumprirem os requisitos do primeiro parágrafo se encontre temporariamente inoperacional, os Estados-Membros devem ter o direito de autorizar a sua operação no espaço aéreo do Céu Único Europeu por um período máximo de 3 dias consecutivos."
+  },
+  "143d495550c8588b": {
+   "fragment_id": "Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conformidade ou adequação para utilização dos componentes\n\nAntes da emissão da declaração CE de conformidade ou de adequação para a utilização, prevista no artigo 5.º do Regulamento (CE) n.º 552/2004, os fabricantes de componentes para os sistemas mencionados no artigo 2.º, n.º 1, do presente regulamento, ou os seus representantes autorizados estabelecidos na União, devem avaliar a conformidade ou adequação para utilização desses componentes de acordo com os requisitos estabelecidos no anexo VII.\n\nNo entanto, os processos de certificação em conformidade com o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/8656ad50-9460-11ea-aac4-01aa75ed71a1.0019.03/DOC_1#E0001)), devem ser considerados procedimentos aceitáveis para efeitos da avaliação da conformidade dos componentes, desde que incluam a demonstração do cumprimento dos requisitos de interoperabilidade, de desempenho e de segurança aplicáveis do presente regulamento."
+  },
+  "b56ca433ae3a8012": {
+   "fragment_id": "Artigo 14.º-A — Planos de voo",
+   "type": "artigo",
+   "heading": "Artigo 14.º-A — Planos de voo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º-A — Planos de voo\n\nOs operadores de aeronaves do Estado não equipadas, que sejam objeto de comunicação de acordo com o artigo 8.º, n.º 3, e os operadores de aeronaves não equipadas em conformidade com o artigo 5.º, n.º 5, que operam no espaço aéreo do Céu Único Europeu devem incluir os indicadores SUR/EUADSBX, SUR/EUEHSX ou SUR/EUELSX, ou uma combinação dos mesmos, no ponto 18 do plano de voo."
+  },
+  "6b70d85929a5021e": {
+   "fragment_id": "Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3",
+   "type": "divisao",
+   "heading": "Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea a), o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 3\n\n1. A capacidade mínima do transponder de radar de vigilância secundário deve ser o Modo S, nível 2, devendo cumprir os critérios de desempenho e de funcionalidade estabelecidos no anexo 10 da Convenção de Chicago, volume IV, 3.ª edição, incluindo todas as emendas até ao n.º 77.\n\n2. Cada registo de *transponder* criado deve cumprir o disposto na secção correspondente do documento 9871 da ICAO (2.ª edição).\n\n3. Os *transponders* devem dispor dos seguintes elementos de dados, a transmitir por estes através do Protocolo Modo S e nos formatos especificados no documento 9871 da ICAO (2.ª edição):\n\na) Endereço ICAO de 24 bits da aeronave;\n\nb) Código do Modo A;\n\nc) Altitude barométrica;\n\nd) Estado do voo (no solo ou no ar);\n\ne) Relatório sobre a capacidade das ligações de dados, incluindo:\n\n— a capacidade do sistema anticolisão de bordo (ACAS),\n\n— a capacidade dos serviços específicos do Modo S,\n\n— a capacidade de identificação da aeronave,\n\n— a capacidade de emissão não solicitada,\n\n— a capacidade do identificador de vigilância,\n\n— o relatório sobre a capacidade de difusão de comunicações iniciadas no solo (GICB) de uso corrente (indicação de alteração),\n\n— o número da versão da sub-rede Modo S;\n\nf) Relatório sobre a capacidade GICB de uso corrente;\n\ng) Identificação da aeronave;\n\nh) Indicação de posição especial (SPI);\n\ni) Categoria da emergência (emergência geral, ausência de comunicações, interferência ilícita), incluindo a utilização de códigos específicos do Modo A, para indicar as diferentes situações de emergência;\n\nj) Avisos de resolução activos ACAS quando a aeronave está equipada com o sistema anticolisão e alerta do tráfego aéreo II (TCAS II).\n\n4. É possível disponibilizar outros elementos de dados ao *transponder*.\n\n5. Os elementos de dados referidos no ponto 4 só devem ser transmitidos pelo transponder através do Protocolo Modo S. O processo de certificação da aeronave e do equipamento deve abranger a transmissão desses elementos de dados."
+  },
+  "f64fc91eb1944bf9": {
+   "fragment_id": "Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3",
+   "type": "divisao",
+   "heading": "Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Capacidades dos transponders de radar de vigilância secundário a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea b), o artigo 5.º, n.º 7, o artigo 7.º, n.º 2, e o artigo 8.º, n.^os^ 2 e 3\n\n1. A capacidade mínima do transponder de radar de vigilância secundário deve ser o Modo S, nível 2, devendo cumprir os critérios de desempenho e de funcionalidade estabelecidos no anexo 10 da Convenção de Chicago, volume IV, 4.ª edição, incluindo todas as emendas até ao n.º 77.\n\n2. Cada registo de *transponder* criado deve cumprir o disposto na secção correspondente do documento 9871 da ICAO (2.ª edição).\n\n3. Os *transponders* devem dispor dos seguintes elementos de dados, a transmitir por estes através do Protocolo ADS-B de emissão não solicitada alargada (*extended squitter - ES)*, versão 2, nos formatos especificados no documento 9871 da ICAO (2.ª edição):\n\na) Endereço ICAO de 24 bits da aeronave;\n\nb) Identificação da aeronave;\n\nc) Código do Modo A;\n\nd) Indicação de posição especial (SPI) utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A;\n\ne) Categoria da emergência (emergência geral, ausência de comunicações, interferência ilícita), utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A;\n\nf) Número da versão do ADS-B (igual a 2);\n\ng) Categoria do emissor ADS-B;\n\nh) Posição geodésica horizontal de acordo com a latitude e longitude segundo o sistema geodésico mundial, revisão de 1984 (WGS84), em voo ou em terra;\n\ni) Indicadores de qualidade da posição geodésica horizontal [correspondente ao limite de contenção da integridade (*integrity containment bound* - NIC), categoria de exactidão da navegação de 95 % em relação à posição (NACp), nível de integridade da fonte (SIL) e nível de garantia da concepção do sistema (SDA)];\n\nj) Altitude barométrica utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A;\n\nk) Altitude geométrica de acordo com o sistema geodésico mundial, revisão de 1984 (WGS84), fornecida a título complementar e codificada como uma diferença em relação à altitude barométrica;\n\nl) Exactidão vertical geométrica (GVA);\n\nm) Velocidade sobre o solo, tanto em voo (velocidade Este/Oeste e Norte/Sul) como em terra (rumo à superfície/rota no solo e movimento).\n\nn) Indicador de qualidade da velocidade correspondente à categoria de exactidão da navegação para a velocidade (NACv);\n\no) Comprimento e largura codificados da aeronave;\n\np) Desvio da antena do Sistema Global de Navegação por Satélite (GNSS);\n\nq) Variação vertical: variação vertical barométrica utilizando a fonte que foi utilizada para o mesmo parâmetro especificado no elemento de dados da parte C, ponto 2, alínea g), quando a aeronave deva e possa transmitir esse elemento de dados através do Protocolo Modo S, ou variação vertical dada pelo Sistema Global de Navegação por Satélite (GNSS);\n\nr) Altitude seleccionada no painel de controlo do modo/unidade de controlo de voo (MCP/FCU) utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte C, quando a aeronave deva e possa transmitir esse elemento de dados através do Protocolo Modo S;\n\ns) Regulação da pressão barométrica (menos 800 hectopascais) utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte C, quando a aeronave deva e possa transmitir esse elemento de dados através do Protocolo Modo S;\n\nt) Avisos de resolução activos ACAS quando a aeronave está equipada com TCAS II utilizando a fonte que foi utilizada para o mesmo parâmetro especificado na parte A.\n\n4. Os elementos de dados de vigilância (elementos de dados indicados no ponto 3, alíneas h), k) e m)) e os seus elementos de dados indicadores de qualidade (elementos de dados indicados no ponto 3, alíneas i), l) e n)), devem ser fornecidos aos *transponders* na mesma interface física.\n\n5. A fonte de dados ligada ao *transponder* e que fornece os elementos de dados indicados no ponto 3, alíneas h) e i), deve satisfazer os seguintes requisitos de integridade dos dados:\n\na) O nível de integridade da fonte (SIL, expresso em relação ao NIC) da posição horizontal [elemento de dados indicado no ponto 3, alínea h)] deve ser igual ou inferior a 10^-7^ por hora de voo;\n\nb) O prazo para alerta de integridade de posição horizontal [elemento de dados indicado no ponto 3, alínea h)] (que conduz à alteração do indicador de qualidade NIC), caso seja necessária monitorização de bordo para atingir o nível de integridade da fonte de posição horizontal, deve ser igual ou inferior a 10 segundos.\n\n6. A principal fonte de dados que fornece os elementos de dados indicados no ponto 3, alíneas h) e i), deve ser compatível, no mínimo, com os receptores GNSS de monitorização da integridade autónoma do receptor (RAIM) e de detecção e eliminação de falhas (FDE), bem como com o fornecimento de informação sobre a situação das medições correspondentes e com indicações sobre o limite de contenção da integridade e o limite de exactidão de 95 %.\n\n7. O nível de integridade do sistema das fontes de dados que fornecem os elementos de dados indicados no ponto 3, alíneas f), g) e k) a p), deve ser igual ou inferior a 10^-5^ por hora de voo.\n\n8. A informação dos indicadores de qualidade (NIC, NACp, SIL, SDA, NACv e GVA), (elementos de dados indicados no ponto 3, alíneas i), l) e n)) deve incluir o desempenho real da fonte de dados seleccionada como válida no momento da aplicabilidade da medição dos elementos de dados indicados no ponto 3, alíneas h), k) e m).\n\n9. No que respeita ao processamento dos elementos de dados indicados no ponto 3, alíneas a) a t), o nível de integridade do sistema de *transponders* para o Protocolo ADS-B de emissão não solicitada alargada, incluindo eventual aviónica de interconexão com o *transponder*, deve ser igual ou inferior a 10^-5^ por hora de voo.\n\n10. A latência total dos dados de posição horizontal (elementos de dados indicados no ponto 3, alíneas h) e i)) deve ser igual ou inferior a 1,5 segundos em 95 % das transmissões.\n\n11. A latência não compensada dos dados de posição horizontal (elemento de dados indicado no ponto 3, alínea h)) deve ser igual ou inferior a 0,6 segundos em 95 % dos casos e igual ou inferior a 1,0 segundos em 99,9 % das transmissões.\n\n12. A latência total dos elementos de dados de velocidade em relação ao solo [elementos de dados indicados no ponto 3, alíneas m) e n)] deve ser igual ou inferior a 1,5 segundos em 95 % das transmissões.\n\n13. Se o *transponder* estiver programado para usar um código de conspicuidade Modo A de 1000, nesse caso deve ser bloqueada a difusão de informação de código Modo A através do Protocolo ADS-B de emissão não solicitada alargada.\n\n14. É possível disponibilizar outros elementos de dados ao *transponder*.\n\n15. Com exceção dos formatos reservados a aplicações militares, os elementos de dados a que se refere o ponto 14 só devem ser transmitidos pelo transponder através do Protocolo ADS-B de emissão não solicitada alargada. O processo de certificação da aeronave e do equipamento deve abranger a transmissão desses elementos de dados."
+  },
+  "7e607596c224c59c": {
+   "fragment_id": "Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.^os^ 2 e 3, e o artigo 14.º, n.º 1",
+   "type": "divisao",
+   "heading": "Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.^os^ 2 e 3, e o artigo 14.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte C: Capacidade dos transponders de radar de vigilância secundário para fornecerem os dados de vigilância adicionais a que se referem o artigo 4.º, n.º 3, o artigo 5.º, n.º 5, alínea c), o artigo 7.º, n.º 2, o artigo 8.º, n.^os^ 2 e 3, e o artigo 14.º, n.º 1\n\n1. Cada registo de *transponder* criado deve cumprir o disposto na secção correspondente do documento 9871 da ICAO (2.ª edição).\n\n2. Os transponders devem transmitir os seguintes elementos de dados, se disponíveis num bus digital, a pedido da cadeia de vigilância em terra, através do Protocolo Modo S e em conformidade com os formatos especificados no documento n.º 9871 da ICAO (2.ª edição):\n\na) Altitude seleccionada MCP/FCU;\n\nb) Ângulo de rolamento;\n\nc) Ângulo de rota verdadeiro;\n\nd) Velocidade em relação ao solo;\n\ne) Rumo magnético;\n\nf) Velocidade no ar indicada (IAS) ou número de Mach;\n\ng) Variação vertical (barométrica ou baro-inercial);\n\nh) Regulação da pressão barométrica (menos 800 hectopascais).\n\ni) Variação angular da rota ou velocidade no ar verdadeira caso a variação angular da rota não esteja disponível.\n\n3. É possível disponibilizar outros elementos de dados ao *transponder*.\n\n4. Os elementos de dados referidos no ponto 3 só devem ser transmitidos pelo transpônder através do Protocolo Modo S. O processo de certificação da aeronave e do equipamento deve abranger a transmissão desses elementos de dados."
+  },
+  "b6f90cb625a61f61": {
+   "fragment_id": "Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2",
+   "type": "divisao",
+   "heading": "Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos para o estabelecimento dos acordos formais a que se refere o artigo 5.º, n.º 2\n\nOs acordos formais entre prestadores de serviços de navegação aérea para o intercâmbio ou a prestação de dados de vigilância devem incluir, no mínimo, os seguintes elementos:\n\na) As partes nos acordos;\n\nb) O prazo de validade dos acordos;\n\nc) O âmbito dos dados de vigilância;\n\nd) As fontes dos dados de vigilância;\n\ne) O formato do intercâmbio de dados de vigilância;\n\nf) O ponto de entrega dos dados de vigilância;\n\ng) Os níveis de serviço acordados no que se refere ao seguinte:\n\n— Desempenho relativo aos dados de vigilância em conformidade com o artigo 4.º, n.º 3;\n\n— Procedimentos em caso de inoperacionalidade;\n\nh) Procedimentos de gestão da mudança;\n\ni) Mecanismos de comunicação de informações no que respeita ao desempenho e à disponibilidade, incluindo as interrupções imprevistas;\n\nj) Mecanismos em matéria de gestão e de coordenação;\n\nk) Dispositivos de salvaguarda da cadeia de vigilância em terra e de notificação."
+  },
+  "c3e637415e41847b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8656ad50-9460-11ea-aac4-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 79 de 19.3.2008, p. 1."
+  },
+  "a4857ad818a10baa": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1.\n\nO presente regulamento aplica-se à cadeia de vigilância, constituída pelos:\n\na) Sistemas de vigilância de bordo, seus componentes e procedimentos associados;\n\nb) Sistemas de vigilância no solo, seus componentes e procedimentos associados;\n\nc) Sistemas de processamento de dados de vigilância, seus componentes e procedimentos associados;\n\nd) Sistemas de comunicações solo-solo utilizados na distribuição de dados de vigilância, seus componentes e procedimentos associados.\n\n2. O presente regulamento aplica-se a todos os voos operados como tráfego aéreo geral de acordo com as regras de voo por instrumentos no espaço aéreo do Céu Único Europeu, com exceção do artigo 7.º, n.^os^ 3 e 4, que se aplicam a todos os voos operados como tráfego aéreo geral\n\n3. O presente regulamento aplica-se aos prestadores de serviços de tráfego aéreo que prestam serviços de controlo de tráfego aéreo com base em dados de vigilância e aos prestadores de serviços de comunicações, navegação ou vigilância que utilizam os sistemas referidos no n.º 1."
+  },
+  "7ea9301eb5177f8a": {
+   "fragment_id": "Artigo 5.º — Requisitos de interoperabilidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Requisitos de interoperabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de interoperabilidade\n\n1. Os prestadores de serviços de navegação aérea devem assegurar que todos os dados de vigilância transferidos dos seus sistemas, definidos no artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação cumprem os requisitos estabelecidos no anexo III.\n\n2. Os prestadores de serviços de navegação aérea, quando da transferência de dados de vigilância dos seus sistemas, definidos no artigo 2.º, n.º 1, alíneas b) e c), para outros prestadores de serviços de navegação aérea, devem estabelecer acordos formais entre si para intercâmbio de dados, em conformidade com os requisitos estabelecidos no anexo IV.\n\n3. Os prestadores de serviços de navegação aérea devem assegurar que, o mais tardar em 2 de Janeiro de 2020, a cadeia de vigilância cooperativa dispõe da capacidade necessária para poderem estabelecer a identificação das aeronaves utilizando o sistema de identificação de aeronaves por ligação descendente disponibilizado pelas aeronaves que são equipadas em conformidade com o disposto no anexo II.\n\n5.\n\nAté 7 de dezembro de 2020, os operadores devem assegurar que:\n\na) As aeronaves que operam os voos a que se refere o artigo 2.º, n.º 2, encontram-se equipadas com transponders de radar de vigilância secundário operacionais que cumprem as seguintes condições:\n\ni) possuem as capacidades definidas na parte A do anexo II;\n\nii) são dotados de continuidade suficiente para evitar apresentar um risco operacional;\n\nb) as aeronaves com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido em 7 de junho de 1995 ou em data posterior, estão equipadas com transponders de radar de vigilância secundário operacionais que cumprem as seguintes condições:\n\ni) possuem as capacidades definidas nas partes A e B do anexo II;\n\nii) são dotados de continuidade suficiente para evitar apresentar um risco operacional;\n\nc) as aeronaves de asa fixa com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós, que operam os voos a que se refere o artigo 2.º, n.º 2, cujo primeiro certificado de aeronavegabilidade tenha sido emitido em 7 de junho de 1995 ou em data posterior, estão equipadas com transponders de radar de vigilância secundário operacionais que cumprem as seguintes condições:\n\ni) dispõem das capacidades definidas nas partes A, B e C do anexo II;\n\nii) são dotados de continuidade suficiente para evitar apresentar um risco operacional.\n\nAs alíneas b) e c) do primeiro parágrafo não se aplicam às aeronaves que operam no espaço aéreo do Céu Único Europeu e que pertencem a uma das seguintes categorias:\n\ni) estejam a ser operadas para fins de manutenção;\n\nii) estejam a ser operadas para exportação;\n\niii) as suas operações cessarão até 31 de outubro de 2025.\n\nOs operadores de aeronaves cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 7 de dezembro de 2020 devem cumprir o disposto nas alíneas b) e c) do primeiro parágrafo até 7 de junho de 2023, sob reserva das seguintes condições:\n\ni) devem ter estabelecido, antes de 7 de dezembro de 2020, um programa de retroapetrechamento que demonstre a conformidade com as alíneas b) e c) do primeiro parágrafo;\n\nii) essas aeronaves não devem ter beneficiado de qualquer financiamento da União concedido para a sua colocação em conformidade com os requisitos estabelecidos nas alíneas b) e c) do primeiro parágrafo.\n\nNo caso das aeronaves cuja capacidade dos transponders para cumprirem os requisitos do primeiro parágrafo, alíneas b) e c), se encontre temporariamente inoperacional, os operadores devem ter o direito de as operar no espaço aéreo do Céu Único Europeu por um período máximo de 3 dias consecutivos.\n\n6. Os operadores devem assegurar que as aeronaves equipadas de acordo com o n.º 5 e com massa máxima certificada à descolagem superior a 5 700 kg ou velocidade de cruzeiro verdadeira máxima superior a 250 nós operam com diversidade de antena, em conformidade com os requisitos de desempenho mínimo estabelecidos no ponto 3.1.2.10.4 do anexo 10 da Convenção de Chicago, volume IV, 4.ª edição, incluindo o conjunto de emendas até ao n.º 77.\n\n8. Os prestadores de serviços de navegação aérea devem assegurar que, antes da colocação em serviço dos sistemas a que se refere o artigo 2.º, n.º 1, alíneas b), c) e d), são aplicadas as soluções de implantação mais eficientes, tendo em conta os ambientes operacionais locais, as limitações e necessidades e as capacidades dos utilizadores do espaço aéreo."
+  },
+  "6c323901dade8f18": {
+   "fragment_id": "Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Conformidade ou adequação para utilização dos componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conformidade ou adequação para utilização dos componentes\n\nAntes da emissão da declaração CE de conformidade ou de adequação para a utilização, prevista no artigo 5.º do Regulamento (CE) n.º 552/2004, os fabricantes de componentes para os sistemas mencionados no artigo 2.º, n.º 1, do presente regulamento, ou os seus representantes autorizados estabelecidos na União, devem avaliar a conformidade ou adequação para utilização desses componentes de acordo com os requisitos estabelecidos no anexo VII.\n\nNo entanto, os processos de certificação em conformidade com o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/c15e1208-7e4a-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0001)), devem ser considerados procedimentos aceitáveis para efeitos da avaliação da conformidade dos componentes, desde que incluam a demonstração do cumprimento dos requisitos de interoperabilidade, de desempenho e de segurança aplicáveis do presente regulamento."
+  },
+  "c1542737eaa76d93": {
+   "fragment_id": "Artigo 12.º — Requisitos complementares",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Requisitos complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requisitos complementares\n\n1. Os prestadores de serviços de navegação aérea devem assegurar que todo o pessoal competente se encontra devidamente informado sobre os requisitos estabelecidos no presente regulamento e que adquiriu formação adequada para o exercício das suas funções.\n\n2.\n\nOs prestadores de serviços de navegação aérea devem:\n\na) elaborar e conservar os manuais de operações com as instruções e informações necessárias para que o pessoal competente possa dar cumprimento ao disposto no presente regulamento;\n\nb) assegurar que os manuais referidos na alínea a) estão acessíveis e são actualizados e que a sua actualização e distribuição são objecto de uma gestão adequada da qualidade e da configuração da documentação;\n\nc) assegurar que os métodos de trabalho e os procedimentos operacionais estão em conformidade com o disposto no presente regulamento.\n\n3. Os operadores devem adoptar as medidas necessárias para assegurar que o pessoal que opera e efectua a manutenção do equipamento de vigilância se encontra devidamente informado sobre as disposições pertinentes do presente regulamento, que adquiriu formação adequada para o exercício das suas funções e que as instruções de utilização do equipamento estão disponíveis na cabina de pilotagem, sempre que possível.\n\n4. Os Estados-Membros devem garantir o cumprimento do presente regulamento, incluindo a publicação de informação pertinente sobre os equipamentos de vigilância nas publicações nacionais de informação aeronáutica."
+  },
+  "a32ffcfc745663ca": {
+   "fragment_id": "1. Requisitos aplicáveis aos dados de vigilância",
+   "type": "divisao",
+   "heading": "1. Requisitos aplicáveis aos dados de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Requisitos aplicáveis aos dados de vigilância\n\n1.1. Todas as cadeias de vigilância a que se refere o artigo 4.º, n.º 3, devem fornecer, no mínimo, os seguintes dados de vigilância:\n\na) Dados de posição 2D (posição horizontal da aeronave);\n\nb) Estado dos dados de vigilância:\n\n— cooperativa/não cooperativa/combinada,\n\n— prognosticados ou não,\n\n— momento da aplicabilidade dos dados de posição 2D.\n\n1.2. Além disso, todas as cadeias de vigilância cooperativa a que se refere o artigo 4.º, n.º 3, devem fornecer, no mínimo, os seguintes dados de vigilância:\n\na) Dados de posição vertical (com base nos dados da altitude barométrica recebidos da aeronave);\n\nb) Dados de identificação operacional (identidade da aeronave recebida da mesma, como a identificação e/ou o código de Modo A);\n\nc) Indicadores suplementares:\n\n— indicadores de emergência (ou seja, interferência ilícita, falha rádio e emergência geral),\n\n— indicador de posição especial;\n\nd) Estado dos dados de vigilância (momento da aplicabilidade dos dados de posição vertical)."
+  },
+  "78f8160074a3453c": {
+   "fragment_id": "2. Requisitos de desempenho relativos aos dados de vigilância",
+   "type": "divisao",
+   "heading": "2. Requisitos de desempenho relativos aos dados de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Requisitos de desempenho relativos aos dados de vigilância\n\n2.1. Os prestadores de serviços de navegação aérea devem definir os requisitos de desempenho em termos de exactidão, disponibilidade, integridade, continuidade e oportunidade dos dados de vigilância fornecidos pelos sistemas a que se refere o artigo 4.º, n.º 3, e que são utilizados para permitir a realização das aplicações de vigilância.\n\n2.2. A avaliação da exactidão da posição horizontal fornecida pelos sistemas a que se refere o artigo 4.º, n.º 3, deve incluir, no mínimo, a avaliação dos erros de posição horizontal.\n\n2.3. Os prestadores de serviços de navegação aérea devem verificar o cumprimento dos requisitos de desempenho definidos nos termos dos pontos 2.1 e 2.2.\n\n2.4. A verificação do cumprimento deve ser efectuada com base nos dados de vigilância fornecidos ao utilizador à saída da cadeia de vigilância."
+  },
+  "8dc217ac773f285b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c15e1208-7e4a-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 79 de 19.3.2008, p. 1."
+  },
+  "ee9f644a7ee6c452": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02011R1207 — PT — 05.10.2023 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32011R1207) [REGULAMENTO DE EXECUÇÃO (UE) N.º 1207/2011 DA COMISSÃO](http://publications.europa.eu/resource/celex/32011R1207) [de 22 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1207) [que estabelece os requisitos para o desempenho e a interoperabilidade da vigilância no céu único europeu](http://publications.europa.eu/resource/celex/32011R1207) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32011R1207) (JO L 305, 23.11.2011, p.35)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2023/1770 da Comissão de 12 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1770) — L 228 — 39 — 15.9.2023"
+  }
+ }
+}

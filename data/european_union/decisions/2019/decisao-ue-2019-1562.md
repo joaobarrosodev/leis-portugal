@@ -1,0 +1,241 @@
+---
+schema_version: '1.0'
+id: eu:celex:32019D1562:por
+title: Decisão de Execução (UE) 2019/1562 da Comissão, de 16 de setembro de 2019
+short_title: null
+summary: Decisão de Execução (UE) 2019/1562 da Comissão, de 16 de setembro de 2019, que altera as Decisões 2007/305/CE, 2007/306/CE
+  e 2007/307/CE no que se refere ao período de tolerância para os vestígios de colza híbrida Ms1×Rf1 (ACS-BNØØ4-7×ACS-BNØØ1-4),
+  de colza híbrida Ms1×Rf2 (ACS-BNØØ4-7×ACS-BNØØ2-5), de colza Topas 19/2 (ACS-BNØØ7-1) e seus produtos derivados [notificada
+  com o número C(2019) 6524]
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Comissão Europeia
+- SANTE
+proposing_entity: null
+official_number: 2019/1562
+official_date: null
+publication_date: '2019-09-18'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 240 de 18.9.2019
+  number: '240'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2019-09-18'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32019D1562
+  eli: http://data.europa.eu/eli/dec_impl/2019/1562/oj
+  oj: oj:JOL_2019_240_R_0002
+  dre: null
+  dre_path: null
+  internal: eu:celex:32019D1562:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32019D1562
+  metadata_url: http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T13:23:11Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-02-13T02:09:18.219+01:00'
+integrity:
+  source_sha256: d8546ddad2d0b5588a7cadbc5eb1f040781d715445a2a5102dfab4cd99cfc1a3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T13:23:11Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- colza
+- organismo geneticamente modificado
+- produto alimentar
+- retirada do mercado
+- semente
+relationships:
+- type: amends
+  target: celex:32007D0305
+  label: null
+  source: http://publications.europa.eu/resource/cellar/df37318d-5b2f-43a5-a592-e5a324c0b107
+  date: '2007-05-07'
+- type: amends
+  target: celex:32007D0306
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f31297eb-ee49-4987-b6fd-4f0fa1bf144b
+  date: '2007-05-07'
+- type: amends
+  target: celex:32007D0307
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3d5c27f6-704f-471b-a100-32cc2664a981
+  date: '2007-05-07'
+- type: based_on
+  target: celex:32003R1829
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9fdfc82a-7e73-4b53-b1d4-e2b77747d846
+  date: '2003-10-21'
+- type: cites
+  target: celex:32012D0069
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f9f7a994-d882-4156-84f6-a11f3777ba3a
+- type: cites
+  target: celex:32016D2268
+  label: null
+  source: http://publications.europa.eu/resource/cellar/78ad7ff6-c35d-11e6-a6db-01aa75ed71a1
+- type: cites
+  target: celex:32019D1117
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1e88943f-9bd4-11e9-9d01-01aa75ed71a1
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T13:23:11Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2019/1562 DA COMISSÃO
+
+de 16 de setembro de 2019
+
+que altera as Decisões 2007/305/CE, 2007/306/CE e 2007/307/CE no que se refere ao período de tolerância para os vestígios de colza híbrida Ms1×Rf1 (ACS-BNØØ4-7×ACS-BNØØ1-4), de colza híbrida Ms1×Rf2 (ACS-BNØØ4-7×ACS-BNØØ2-5), de colza Topas 19/2 (ACS-BNØØ7-1) e seus produtos derivados
+
+*[notificada com o número C(2019) 6524]*
+
+(Apenas faz fé o texto na língua alemã)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho, de 22 de setembro de 2003, relativo a géneros alimentícios e alimentos para animais geneticamente modificados [([^1])](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2019240PT.01001301-E0001), nomeadamente o artigo 8.º, n.º 6, e o artigo 20.º, n.º 6,
+
+Considerando o seguinte:
+
+(1) As Decisões 2007/305/CE [([^2])](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2019240PT.01001301-E0002), 2007/306/CE [([^3])](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2019240PT.01001301-E0003) e 2007/307/CE [([^4])](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2019240PT.01001301-E0004) da Comissão definem as regras para a retirada do mercado de colza híbrida Ms1×Rf1 (ACS-BNØØ4-7×ACS-BNØØ1-4), de colza híbrida Ms1×Rf2 (ACS-BNØØ4-7×ACS-BNØØ2-5) e de colza Topas 19/2 (ACS-BNØØ7-1), bem como de produtos derivados («material geneticamente modificado»). Essas decisões foram adotadas depois de o titular da autorização, a empresa Bayer CropScience AG, ter comunicado à Comissão não ter intenção de apresentar um pedido de renovação da autorização desse material geneticamente modificado em conformidade com o artigo 8.º, n.º 4, primeiro parágrafo, o artigo 11.º, o artigo 20.º, n.º 4, e o artigo 23.º do Regulamento (CE) n.º 1829/2003.
+
+(2) As três decisões previam um período transitório inicial de cinco anos durante o qual os géneros alimentícios e alimentos para animais que contivessem, fossem compostos ou produzidos a partir deste material geneticamente modificado eram autorizados a ser colocados no mercado numa proporção não superior a 0,9 % e desde que essa presença fosse acidental ou tecnicamente inevitável. A finalidade desse período transitório era a de tomar em consideração o facto de poder, por vezes, haver presença de vestígios mínimos desse material geneticamente modificado na cadeia alimentar humana e animal, mesmo depois de a Bayer CropScience AG ter decidido cessar a venda de sementes derivadas desses organismos geneticamente modificados e ainda que tivessem sido tomadas todas as medidas necessárias para evitar tal presença.
+
+(3) Apesar das medidas tomadas pela Bayer CropScience AG para evitar a presença de tais organismos geneticamente modificados em conformidade com as Decisões 2007/305/CE, 2007/306/CE e 2007/307/CE, foram ainda detetados vestígios mínimos em mercadorias que contêm colza. A Decisão de Execução 2012/69/UE da Comissão [([^5])](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2019240PT.01001301-E0005) alterou as três decisões, a fim de prorrogar o período transitório até 31 de dezembro de 2016, e reduziu a presença tolerada desse material geneticamente modificado nos géneros alimentícios e alimentos para animais para uma fração mássica de 0,1 %. As três decisões foram posteriormente alteradas pela Decisão de Execução (UE) 2016/2268 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2019240PT.01001301-E0006), a fim de prorrogar o período de transição até 31 de dezembro de 2019.
+
+(4) As Decisões 2007/305/CE, 2007/306/CE e 2007/307/CE também estabeleciam uma série de medidas que a Bayer CropScience AG tinha que adotar para assegurar a retirada efetiva do mercado deste material geneticamente modificado e impunham ao destinatário obrigações de apresentação de relatórios.
+
+(5) Além disso, a Decisão de Execução (UE) 2019/1117 da Comissão [([^7])](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2019240PT.01001301-E0007) alterou as três Decisões 2007/305/CE, 2007/306/CE e 2007/307/CE no que respeita ao destinatário, na sequência de um pedido apresentado em 1 de agosto de 2018 pela empresa Bayer CropScience AG para transferir os seus direitos e obrigações relativos a todas as suas notificações, pedidos e autorizações de produtos geneticamente modificados para a BASF Agricultural Solutions Seed US LLC, representada na União pela BASF SE (Alemanha). A BASF SE deve, pois, ser o destinatário das Decisões 2007/305/CE, 2007/306/CE e 2007/307/CE.
+
+(6) Em outubro de 2018, a BASF SE comunicou que, nos últimos anos, apesar das medidas tomadas, continuavam a ser detetados vestígios mínimos em produtos de colza, se bem que a tendência fosse decrescente. A persistência desta presença de vestígios pode ser explicada pela biologia da colza, que pode permanecer em repouso vegetativo durante longos períodos, bem como pelas práticas de exploração empregues para colheita das sementes, que podem ter conduzido a derrames acidentais cujo nível era difícil de estimar à data de adoção das Decisões 2007/305/CE, 2007/306/CE e 2007/307/CE e das Decisões de Execução 2012/69/UE e (UE) 2016/2268.
+
+(7) Neste contexto, é adequado prolongar o período transitório por mais três anos, até 31 de dezembro de 2022, a fim de permitir a total eliminação dos restantes vestígios de colza Ms1×Rf1, Ms1×Rf2 e Topas 19/2 na cadeia alimentar humana e animal.
+
+(8) A fim de contribuir para a eliminação deste material geneticamente modificado, é também conveniente que o destinatário continue a aplicar o programa interno exigido em conformidade com as Decisões 2007/305/CE, 2007/306/CE e 2007/307/CE e a recolher dados sobre a presença desse material nas mercadorias contendo colza importadas na União e provenientes do Canadá, que é o único país em que estes tipos de colza foram cultivados para fins comerciais. Até 1 de janeiro de 2022, a BASF SE deve apresentar um relatório à Comissão sobre os dois aspetos.
+
+(9) A BASF SE deve garantir a disponibilidade permanente de materiais de referência certificados para permitir que os laboratórios de controlo efetuem as suas análises durante este período transitório.
+
+(10) As Decisões 2007/305/CE, 2007/306/CE e 2007/307/CE devem, pois, ser alteradas em conformidade.
+
+(11) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+A Decisão 2007/305/CE é alterada do seguinte modo:
+
+1) O artigo 1.º passa a ter a seguinte redação: «Artigo 1.º O destinatário deve aplicar, a nível interno, um programa para garantir a retirada efetiva do mercado da colza ACS-BNØØ4-7, da colza ACS-BNØØ1-4 e da combinação híbrida de colza ACS-BNØØ4-7×ACS-BNØØ1-4 na cultura e produção de sementes e recolher dados sobre a presença desses organismos geneticamente modificados nas remessas de colza do Canadá para a União. Até 1 de janeiro de 2022, o destinatário deve apresentar à Comissão um relatório sobre a aplicação deste programa e sobre a presença desses organismos geneticamente modificados nas remessas de colza do Canadá para a União.»
+
+2) O artigo 2.º passa a ter a seguinte redação: «Artigo 2.º 1. A presença em produtos destinados à alimentação humana ou animal de material que contenha, seja composto ou produzido a partir de colza ACS-BNØØ4-7, de colza ACS-BNØØ1-4 e da combinação híbrida de colza ACS-BNØØ4-7×ACS-BNØØ1-4 notificado nos termos do artigo 8.º, n.º 1, alínea a), e do artigo 20.º, n.º 1, alínea a), do Regulamento (CE) n.º 1829/2003 é tolerada até 31 de dezembro de 2022, desde que essa presença: a) Seja acidental ou tecnicamente inevitável; e b) Se encontre numa proporção não superior a 0,1 %. 2. O destinatário deve garantir a disponibilidade de materiais de referência certificados para a colza ACS-BNØØ4-7×ACS-BNØØ1-4 através da *American Oil Chemists Society*, em https://www.aocs.org/crm».
+
+a) Seja acidental ou tecnicamente inevitável; e
+
+b) Se encontre numa proporção não superior a 0,1 %.
+
+###### Artigo 2.º
+
+A Decisão 2007/306/CE é alterada do seguinte modo:
+
+1) O artigo 1.º passa a ter a seguinte redação: «Artigo 1.º O destinatário deve aplicar, a nível interno, um programa para garantir a retirada efetiva do mercado da colza ACS-BNØØ4-7, da colza ACS-BNØØ2-5 e da combinação híbrida de colza ACS-BNØØ4-7×ACS-BNØØ2-5 na cultura e produção de sementes e recolher dados sobre a presença desses organismos geneticamente modificados nas remessas de colza do Canadá para a União. Até 1 de janeiro de 2022, o destinatário deve apresentar à Comissão um relatório sobre a aplicação deste programa e sobre a presença desses organismos geneticamente modificados nas remessas de colza do Canadá para a União.»
+
+2) O artigo 2.º passa a ter a seguinte redação: «Artigo 2.º 1. A presença em produtos destinados à alimentação humana ou animal de material que contenha, seja composto ou produzido a partir de colza ACS-BNØØ4-7, de colza ACS-BNØØ2-5 e da combinação híbrida de colza ACS-BNØØ4-7×ACS-BNØØ2-5 notificado nos termos do artigo 8.º, n.º 1, alínea a), e do artigo 20.º, n.º 1, alínea a), do Regulamento (CE) n.º 1829/2003 é tolerada até 31 de dezembro de 2022, desde que essa presença: a) Seja acidental ou tecnicamente inevitável; e b) Se encontre numa proporção não superior a 0,1 %. 2. O destinatário deve garantir a disponibilidade de materiais de referência certificados para a colza ACS-BNØØ4-7×ACS-BNØØ2-5 através da *American Oil Chemists Society*, em https://www.aocs.org/crm.».
+
+a) Seja acidental ou tecnicamente inevitável; e
+
+b) Se encontre numa proporção não superior a 0,1 %.
+
+###### Artigo 3.º
+
+O artigo 1.º da Decisão 2007/307/CE passa a ter a seguinte redação:
+
+###### «Artigo 1.º
+
+1. O destinatário deve aplicar, a nível interno, um programa para garantir a retirada efetiva do mercado da colza ACS-BNØØ7-1 na cultura e produção de sementes e recolher dados sobre a presença desse organismo geneticamente modificado nas remessas de colza do Canadá para a União.
+
+Até 1 de janeiro de 2022, o destinatário deve apresentar à Comissão um relatório sobre a aplicação deste programa e sobre a presença desses organismos geneticamente modificados nas remessas de colza do Canadá para a União.
+
+2. A presença em produtos destinados à alimentação humana ou animal de material que contenha, seja composto ou produzido a partir de colza ACS-BNØØ7-1 notificado nos termos do artigo 8.º, n.º 1, alínea a), e do artigo 20.º, n.º 1, alínea a), do Regulamento (CE) n.º 1829/2003 é tolerada até 31 de dezembro de 2022, desde que essa presença:
+
+a) Seja acidental ou tecnicamente inevitável; e
+
+b) Se encontre numa proporção não superior a 0,1 %.
+
+3. O destinatário deve garantir a disponibilidade de materiais de referência certificados para a colza ACS-BNØØ7-1 através da *American Oil Chemists Society*, em https://www.aocs.org/crm.».
+
+###### Artigo 4.º
+
+Nos termos do artigo 28.º do Regulamento (CE) n.º 1829/2003, as entradas no Registo Comunitário dos Géneros Alimentícios e Alimentos para Animais Geneticamente Modificados relativas à colza ACS-BNØØ4-7, à colza ACS-BNØØ1-4 e à combinação híbrida de colza ACS-BNØØ4-7×ACS-BNØØ1-4, à colza ACS-BNØØ4-7, à colza ACS-BNØØ2-5 e à combinação híbrida de colza ACS-BNØØ4-7×ACS-BNØØ2-5, bem como à colza ACS-BNØØ7-1, devem ser alteradas a fim de ter em conta a presente decisão.
+
+###### Artigo 5.º
+
+O destinatário da presente decisão é a empresa BASF SE, Carl-Bosch-Str. 38, D-67063 Ludwigshafen, Alemanha.
+
+Feito em Bruxelas, em 16 de setembro de 2019.
+
+***Pela Comissão***
+
+**Vytenis ANDRIUKAITIS**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2019240PT.01001301-E0001) [JO L 268 de 18.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_268_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2019240PT.01001301-E0002) Decisão 2007/305/CE da Comissão, de 25 de abril de 2007, relativa à retirada do mercado de colza híbrida Ms1xRf1 (ACS-BNØØ4-7xACS-BNØØ1-4) e seus produtos derivados ([JO L 117 de 5.5.2007, p. 17](http://publications.europa.eu/resource/oj/JOL_2007_117_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2019240PT.01001301-E0003) Decisão 2007/306/CE da Comissão, de 25 de abril de 2007, relativa à retirada do mercado de colza híbrida Ms1xRf2 (ACS-BNØØ4-7xACS-BNØØ2-5) e seus produtos derivados ([JO L 117 de 5.5.2007, p. 20](http://publications.europa.eu/resource/oj/JOL_2007_117_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2019240PT.01001301-E0004) Decisão 2007/307/CE da Comissão, de 25 de abril de 2007, relativa à retirada do mercado de colza Topas 19/2 (ACS-BNØØ7-1) e seus produtos derivados ([JO L 117 de 5.5.2007, p. 23](http://publications.europa.eu/resource/oj/JOL_2007_117_R_TOC)).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2019240PT.01001301-E0005) Decisão de Execução 2012/69/UE da Comissão, de 3 de fevereiro de 2012, que altera as Decisões 2007/305/CE, 2007/306/CE e 2007/307/CE no que se refere ao período de tolerância para os vestígios de colza híbrida Ms1×Rf1 (ACS-BNØØ4-7×ACS-BNØØ1-4), de colza híbrida Ms1×Rf2 (ACS-BNØØ4-7×ACS-BNØØ2-5), de colza Topas 19/2 (ACS-BNØØ7-1), e seus produtos derivados ([JO L 34 de 7.2.2012, p. 12](http://publications.europa.eu/resource/oj/JOL_2012_034_R_TOC)).
+
+> [(^6^)](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2019240PT.01001301-E0006) Decisão de Execução (UE) 2016/2268 da Comissão, de 14 de dezembro de 2016, que altera as Decisões 2007/305/CE, 2007/306/CE e 2007/307/CE no que se refere ao período de tolerância para os vestígios de colza híbrida Ms1 × Rf1 (ACS-BNØØ4-7 × ACS-BNØØ1-4), de colza híbrida Ms1 × Rf2 (BNØØ4-7 × ACS-BNØØ2-5), de colza Topas 19/2 (ACS-BNØØ7-1), e seus produtos derivados ([JO L 342 de 16.12.2016, p. 34](http://publications.europa.eu/resource/oj/JOL_2016_342_R_TOC)).
+
+> [(^7^)](http://publications.europa.eu/resource/cellar/7cb160f6-d9dd-11e9-9c4e-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2019240PT.01001301-E0007) Decisão de Execução (UE) 2019/1117 da Comissão, de 24 de junho de 2019, que altera as Decisões 2007/305/CE, 2007/306/CE e 2007/307/CE no que respeita a uma alteração do destinatário das decisões ([JO L 176 de 1.7.2019, p. 59](http://publications.europa.eu/resource/oj/JOL_2019_176_R_TOC)).

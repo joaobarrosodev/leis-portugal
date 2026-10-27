@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:632023:por
+title: Decreto-Lei n.º 538/71
+short_title: null
+summary: Introduz alterações ao Decreto-Lei n.º 42840, que criou o Arquivo Geral da Marinha e regulou o seu funcionamento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Marinha - Gabinete do Ministro
+proposing_entity: null
+official_number: 538/71
+official_date: null
+publication_date: '1971-12-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 284/1971, Série I de 1971-12-04
+  number: '284'
+  series: I
+  supplement: null
+  pages: 1872 - 1873
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/12/28400/18721873.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '632023'
+  dre_path: /dr/detalhe/decreto-lei/538-1971-632023
+  internal: pt:dre:632023:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1971-632023
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1971-632023
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:21:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ac094ec5c8de7944fe5a0a6698bff2ac5530995b1c5129a53c42346332861a4e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arquivo Geral da Marinha
+- Definição de Competências
+- Marinha
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:278549:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:21:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 538/71
+
+de 4 de Dezembro
+
+Considerando a necessidade de introduzir algumas alterações no decreto-lei que criou o Arquivo Geral da Marinha;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo único. Os artigos 1.º, 2.º, 3.º, 6.º, 7.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º e 18.º do [Decreto-Lei n.º 42840](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42840-1960-278549), de 10 de Fevereiro de 1960, que criou o Arquivo Geral da Marinha e regulou o seu funcionamento, passam a ter a seguinte redacção:
+
+Artigo 1.º O Arquivo Geral da Marinha, criado por este diploma e que substitui o actual Arquivo da Marinha, é um organismo destinado a guardar e a conservar todos os arquivos das unidades e serviços do Ministério da Marinha ali depositados.
+
+Art. 2.º Além destas funções, compete ao Arquivo Geral da Marinha colaborar na difusão da história da marinha portuguesa, publicar trabalhos de reconhecido mérito sobre o assunto, incluindo índices e inventários, quer da documentação do Arquivo, quer da referente à Marinha existente noutros arquivos.
+
+Art. 3.º O Arquivo Geral da Marinha compreende:
+
+a) Arquivo central;
+
+b) Arquivo histórico;
+
+c) Biblioteca;
+
+d) Secretaria.
+
+...
+
+Art. 6.º A biblioteca, constituída por obras de que o Arquivo necessite para o desempenho das suas funções e, especialmente, de legislação naval portuguesa, guardará e distribuirá as publicações da Armada e conservará devidamente as gravuras pertencentes à extinta Imprensa da Armada.
+
+Art. 7.º Os documentos de classificação superior a reservado não poderão ser facultados enquanto mantiverem essa classificação.
+
+...
+
+Art. 11.º O Arquivo Geral da Marinha é dirigido por um oficial general ou superior da reserva da Armada.
+
+Art. 12.º As lotações do pessoal militar e do pessoal civil do Arquivo Geral da Marinha serão fixadas, respectivamente, por portaria e por despacho do Ministro da Marinha.
+
+Art. 13.º O Arquivo disporá de instalação própria, em condições adequadas à melhor guarda, conservação e disposição dos documentos.
+
+Art. 14.º O Arquivo continuará a passar certidões extraídas dos livros ou dos documentos existentes, quando autorizado por despacho escrito da autoridade que superintende no respectivo serviço, ou por quem legalmente a substituir no caso de impedimento, com observância dos preceitos legais que se referem ao imposto do selo.
+
+Art. 15.º Os documentos depositados no Arquivo, com excepção dos livros, poderão ser microfilmados.
+
+Art. 16.º O Ministro da Marinha regulará, por despacho, as condições em que terá lugar o disposto no artigo anterior, nomeadamente as condições em que se processará a inutilização dos documentos originais que não tenham valor histórico.
+
+Art. 17.º As fotocópias, autenticadas com o selo branco e assinatura do director do Arquivo, têm a força probatória das certidões de teor, desde que nelas se declare a conformidade com o original.
+
+Art. 18.º O regulamento interno do Arquivo Geral da Marinha será publicado por portaria do Ministro da Marinha.
+
+Visto e aprovado em Conselho de Ministros - Marcello Caetano - Manuel Pereira Crespo.
+
+Promulgado em 26 de Novembro de 1971.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.

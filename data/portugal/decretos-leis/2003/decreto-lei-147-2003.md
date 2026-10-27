@@ -1,0 +1,754 @@
+---
+schema_version: '1.0'
+id: pt:dre:667554:por
+title: Decreto-Lei n.º 147/2003
+short_title: null
+summary: Aprova o regime de bens em circulação objecto de transacções entre sujeitos passivos de IVA, nomeadamente quanto
+  à obrigatoriedade e requisitos dos documentos de transporte que os acompanham
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 147/2003
+official_date: null
+publication_date: '2003-07-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 158/2003, Série I-A de 2003-07-11
+  number: '158'
+  series: I
+  supplement: null
+  pages: 3928 - 3934
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/07/158a00/39283934.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-29'
+version_history:
+  file: decreto-lei-147-2003.versoes.json
+  count: 10
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2003-07-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-09-09'
+    amending: pt:dre:141013:por
+    amending_title: Declaração de Rectificação n.º 10-C/2003
+    changes:
+    - Retifica Artigo 8.º
+    - Retifica Artigo 16.º
+  - date: '2007-01-01'
+    amending: pt:dre:552372:por
+    amending_title: Decreto-Lei n.º 238/2006
+    changes:
+    - Altera Artigo 8.º
+  - date: '2010-04-29'
+    amending: pt:dre:609990:por
+    amending_title: Lei n.º 3-B/2010
+    changes:
+    - Altera Artigo 14.º
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012; Decreto-Lei n.º 198/2012
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Revoga Artigo 12.º
+  - date: '2014-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Revoga Artigo 18.º
+  - date: '2015-01-01'
+    amending: pt:dre:66016527:por
+    amending_title: Lei n.º 82-B/2014
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 14.º
+  - date: '2019-02-16'
+    amending: pt:dre:119622094:por
+    amending_title: Decreto-Lei n.º 28/2019
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+  - date: '2022-12-22'
+    amending: pt:dre:205050312:por
+    amending_title: Decreto-Lei n.º 85/2022
+    changes:
+    - Altera Artigo 6.º
+  - date: '2025-03-29'
+    amending: pt:dre:912066244:por
+    amending_title: Decreto-Lei n.º 35/2025
+    changes:
+    - Altera Artigo 4.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/147/2003/p/cons/20250324/pt/html
+  oj: null
+  dre: '667554'
+  dre_path: /dr/detalhe/decreto-lei/147-2003-667554
+  internal: pt:dre:667554:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2003-667554
+  metadata_url: https://data.dre.pt/eli/dec-lei/147/2003/p/cons/20250324/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-114116775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-114116775
+  retrieved_at: '2026-10-22T12:15:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 6fbd3560a6c236ba007f0c0b5160e757d2315ddf5702027794996e52ff9e75f3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:15:27Z'
+  notes: 10 versão(ões); histórico completo em decreto-lei-147-2003.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral dos Impostos
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Documento de Transporte
+- Fiscalização
+- IVA
+- Transporte de Mercadorias
+- Evasão Fiscal
+- Mercadoria
+- Transacção Comercial
+relationships:
+- type: amended_by
+  target: pt:dre:141013:por
+  label: Retifica Artigo 8.º; Retifica Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-c-2003-141013
+  date: '2003-07-31'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:174543:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 11.º;
+    Altera Artigo 2.º; Altera Artigo 7.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 16.º; Altera Artigo 17.º;
+    Altera Artigo 18.º; Revoga Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 11.º;
+    Altera Artigo 2.º; Altera Artigo 7.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 16.º; Altera Artigo 17.º;
+    Altera Artigo 18.º; Revoga Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º;
+    Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Revoga Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:119622094:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º;
+    Revoga Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094
+  date: '2019-02-15'
+- type: amended_by
+  target: pt:dre:205050312:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312
+  date: '2022-12-21'
+- type: amended_by
+  target: pt:dre:912066244:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2025-912066244
+  date: '2025-03-24'
+- type: cites
+  target: celex:31992R2913
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2913/oj
+article_structure:
+  article_count: 22
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:15:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 147/2003
+
+Decreto-Lei n.º 147/2003
+
+de 11 de Julho
+
+O regime regulador dos documentos que devem acompanhar as mercadorias em circulação que ora se substitui datava de 1989, sem que até agora tivesse tido qualquer revisão sensível.
+
+A evolução entretanto verificada nos regimes tributários substantivos e, mais recentemente, as profundas modificações operadas no quadro sancionatório das infracções fiscais impunham uma revisão profunda do regime em causa no sentido não apenas de o adequar a tais quadros normativos mas também de actualizar algumas das soluções normativas que ao tempo nele foram acolhidas.
+
+Por outro lado, a experiência adquirida com a vigência do Decreto-Lei n.º 45/89, de 11 de Fevereiro, permitiu constatar a necessidade de se proceder a ajustamentos em diversas das suas disposições, cuja aplicação conduzia a situações de injustiça ou dificultava a acção dos agentes económicos. Acresce que a simplicidade de algumas das formalidades exigidas era, com frequência, abusivamente utilizada por alguns operadores económicos.
+
+Em consequência do referido e da experiência adquirida, tornou-se evidente a necessidade de proceder à sua substituição, de modo a eliminar, tanto quanto possível, situações menos justas e, simultaneamente, tornar a sua aplicação mais precisa e flexível, sem prejuízo da eficácia a atingir no campo do combate à fraude e evasão fiscal, especialmente na área do imposto sobre o valor acrescentado, que se pretende agora incrementada e substancialmente mais abrangente. É também por isso que a vertente sancionatória por infracções às obrigações emergentes do diploma deixa de ser autonomamente consagrada para passar a ser disciplinada pelo Regime Geral das Infracções Tributárias.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É aprovado o regime de bens em circulação objecto de transacções entre sujeitos passivos de IVA, nomeadamente quanto à obrigatoriedade e requisitos dos documentos de transporte que os acompanham, anexo ao presente diploma e que dele faz parte integrante.
+
+###### Artigo 2.º — Revogação
+
+1 - Sem prejuízo do disposto nos números seguintes é revogado o Decreto-Lei n.º 45/89, de 11 de Fevereiro.
+
+2 - São válidas para os efeitos deste diploma as autorizações concedidas na vigência do Decreto-Lei n.º 45/89, de 11 de Fevereiro, e do Decreto-Lei n.º 97/86, de 16 de Maio.
+
+3 - Os processos pendentes à data da entrada em vigor do presente diploma continuam a reger-se, até trânsito em julgado da respectiva decisão, pela legislação que lhes era aplicável.
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente diploma entra em vigor 60 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.
+
+Promulgado em 26 de Junho de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 2 de Julho de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+## Anexo — (a que se refere o artigo 1.º)
+
+###### Artigo 1.º — Âmbito de aplicação
+
+Todos os bens em circulação, em território nacional, seja qual for a sua natureza ou espécie, que sejam objecto de operações realizadas por sujeitos passivos de imposto sobre o valor acrescentado deverão ser acompanhados de documentos de transporte processados nos termos do presente diploma.
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do disposto no presente diploma considera-se:
+
+a) 'Bens', os que puderem ser objeto de transmissão ou de prestação de serviços nos termos dos artigos 3.º e 4.º, ambos do Código do Imposto sobre o Valor Acrescentado;
+
+b) 'Documento de transporte' a fatura, guia de remessa, nota de devolução, guia de transporte ou documentos equivalentes;
+
+c) «Valor normal» o preço de aquisição ou de custo devidamente comprovado pelo sujeito passivo ou, na falta deste o valor normal determinado nos termos do n.º 4 do artigo 16.º do Código do Imposto sobre o Valor Acrescentado;
+
+d) 'Remetente', a pessoa singular ou coletiva ou entidade fiscalmente equiparada que, por si ou através de terceiros em seu nome e por sua conta, coloca os bens à disposição do transportador para efetivação do respetivo transporte ou de operações de carga, o transportador quando os bens em circulação lhe pertençam ou, ainda, outros sujeitos passivos quando os bens em circulação sejam objeto de prestação de serviços por eles efetuada;
+
+e) «Transportador» a pessoa singular ou colectiva ou entidade fiscalmente equiparada que, recebendo do remetente ou de anterior transportador os bens em circulação, realiza ou se propõe realizar o seu transporte até ao local de destino ou de transbordo ou, em caso de dúvida, a pessoa em nome de quem o veículo transportador se encontra registado, salvo se o mesmo for objecto de um contrato de locação financeira, considerando-se aqui o respectivo locatário;
+
+f) «Transportador público regular colectivo» a pessoa singular ou colectiva ou entidade fiscalmente equiparada que exerce a actividade de exploração de transportes colectivos e que se encontra obrigada ao cumprimento de horários e itinerários nas zonas geográficas que se lhes estão concessionadas;
+
+g) «Destinatário ou adquirente» a pessoa singular ou colectiva ou entidade fiscalmente equiparada a quem os bens em circulação são postos à disposição;
+
+h) «Local de início de transporte ou de carga» o local onde o remetente tenha entregue ou posto à disposição do transportador os bens em circulação, presumindo-se como tal o constante no documento de transporte, se outro não for indicado;
+
+i) «Local de destino ou descarga» o local onde os bens em circulação forem entregues ao destinatário, presumindo-se como tal o constante no documento de transporte, se outro não for indicado;
+
+j) «Primeiro local de chegada» o local onde se verificar a primeira ruptura de carga.
+
+2 - Para efeitos do disposto no presente diploma:
+
+a) Consideram-se «bens em circulação» todos os que se encontrem fora dos locais de produção, fabrico, transformação, exposição, dos estabelecimentos de venda por grosso e a retalho ou de armazém de retém, por motivo de transmissão onerosa, incluindo a troca, de transmissão gratuita, de devolução, de afectação a uso próprio, de entrega à experiência ou para fins de demonstração, ou de incorporação em prestações de serviços, de remessa à consignação ou de simples transferência, efectuadas pelos sujeitos passivos referidos no artigo 2.º do Código do Imposto sobre o Valor Acrescentado;
+
+b) Consideram-se ainda 'bens em circulação' os bens encontrados em veículos nos atos de descarga ou transbordo mesmo quando tenham lugar no interior dos estabelecimentos comerciais, lojas, armazéns ou recintos fechados que não sejam casa de habitação, bem como os bens expostos para venda em feiras e mercados a que se referem a Lei n.º 27/2013, de 12 de abril, e o Decreto-Lei n.º 173/2012, de 2 de agosto.
+
+> Alterado pelo/a Artigo 202.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 187.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+###### Artigo 3.º — Exclusões
+
+1 - Excluem-se do âmbito do presente diploma:
+
+a) Os bens manifestamente para uso pessoal ou doméstico do próprio;
+
+b) Os bens provenientes de retalhistas, sempre que tais bens se destinem a consumidores finais que previamente os tenham adquirido, com excepção dos materiais de construção, artigos de mobiliário, máquinas eléctricas, máquinas ou aparelhos receptores, gravadores ou reprodutores de imagem ou de som, quando transportados em veículos de mercadorias;
+
+c) Os bens registados como ativo fixo tangível do remetente;
+
+d) Os bens provenientes de produtores agrícolas, apícolas, silvícolas, de aquicultura ou de pecuária resultantes da sua própria produção e os bens que manifestamente se destinem a essa produção, transportados pelo próprio ou por sua conta;
+
+e) Os bens dos mostruários entregues aos pracistas e viajantes, as amostras destinadas a ofertas de pequeno valor e o material de propaganda, em conformidade com os usos comerciais e que, inequivocamente, não se destinem a venda;
+
+f) Os filmes e material publicitário destinados à exibição e exposição nas salas de espectáculos cinematográficos, quando para o efeito tenham sido enviados pelas empresas distribuidoras, devendo estas fazer constar de forma apropriada nas embalagens o respectivo conteúdo e a sua identificação fiscal;
+
+g) Os veículos automóveis, tal como se encontram definidos no Código da Estrada, com matrícula definitiva;
+
+h) As taras e embalagens retornáveis;
+
+i) Os resíduos urbanos, cuja gestão é assegurada pelos municípios nos termos do Regime Geral de Gestão de Resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, e pelos Decretos-Leis n.os 183/2009, de 10 de agosto, 73/2011, de 17 de junho, e 127/2013, de 30 de agosto, provenientes das recolhas efetuadas por aqueles, no âmbito das suas competências, ou por outras entidades a prestar o mesmo serviço;
+
+j) Os resíduos hospitalares sujeitos a guia de acompanhamento nos termos do artigo 21.º do Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, e pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho;
+
+l) Os bens a entregar aos respetivos utentes por instituições particulares de solidariedade social ou outras entidades no âmbito de acordos outorgados com o sistema de segurança social;
+
+m) Os bens recolhidos no âmbito de campanhas de solidariedade social efetuadas por organizações sem fins lucrativos;
+
+n) Os bens resultantes ou necessários à prossecução das atividades desenvolvidas por entidades do setor empresarial local ou do Estado que se dediquem à gestão de sistemas de abastecimento de água, de saneamento ou de resíduos urbanos.
+
+2 - Encontram-se ainda excluídos do âmbito do presente diploma:
+
+a) Os produtos sujeitos a impostos especiais de consumo, tal como são definidos no artigo 5.º do Código dos Impostos Especiais de Consumo, aprovado em anexo ao Decreto-Lei n.º 73/2010, de 21 de junho, quando circularem em regime suspensivo nos termos desse mesmo Código;
+
+b) Os bens respeitantes a transacções intracomunitárias a que se refere o Decreto-Lei n.º 290/92, de 28 de Dezembro;
+
+c) Os bens respeitantes a transacções com países ou territórios terceiros quando em circulação em território nacional sempre que sujeitos a um destino aduaneiro, designadamente os regimes de trânsito e de exportação, nos termos do Regulamento (CEE) n.º 2913/92, do Conselho, de 12 de Outubro;
+
+d) Os bens que circulem por motivo de mudança de instalações do sujeito passivo, desde que o facto e a data da sua realização sejam comunicados às direcções de finanças dos distritos do itinerário, com pelo menos oito dias úteis de antecedência, devendo neste caso o transportador fazer-se acompanhar de cópia dessas comunicações.
+
+3 - Relativamente aos bens referidos nos números anteriores, não sujeitos à obrigatoriedade de documento de transporte nos termos do presente diploma, sempre que existam dúvidas sobre a legalidade da sua circulação, pode exigir-se prova da sua proveniência e destino.
+
+4 - A prova referida no número anterior pode ser feita mediante a apresentação de qualquer documento comprovativo da natureza e quantidade dos bens, sua proveniência e destino.
+
+> Alterado pelo/a Artigo 202.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 187.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 4.º — Documentos de transporte
+
+1 - As faturas devem conter obrigatoriamente os elementos referidos no n.º 5 do artigo 36.º do Código do Imposto sobre o Valor Acrescentado.
+
+2 - Sem prejuízo do disposto no n.º 6 do presente artigo, as guias de remessa ou documentos equivalentes devem conter, pelo menos, os seguintes elementos:
+
+a) Nome, firma ou denominação social, domicílio ou sede e número de identificação fiscal do remetente;
+
+b) Nome, firma ou denominação social, domicílio ou sede do destinatário ou adquirente;
+
+c) Número de identificação fiscal do destinatário ou adquirente, quando este seja sujeito passivo, nos termos do artigo 2.º do Código do Imposto sobre o Valor Acrescentado;
+
+d) Designação comercial dos bens, com indicação das quantidades.
+
+3 - Os documentos de transporte referidos nos números anteriores cujo conteúdo não seja processado por computador devem conter, em impressão tipográfica, a referência à autorização ministerial relativa à tipografia que os imprimiu, a respectiva numeração atribuída e ainda os elementos identificativos da tipografia, nomeadamente a designação social, sede e número de identificação fiscal.
+
+4 - As facturas, guias de remessa ou documentos equivalentes devem ainda indicar os locais de carga e descarga, referidos como tais, e a data e hora em que se inicia o transporte.
+
+5 - Na falta de menção expressa dos locais de carga e descarga e da data do início do transporte, presumir-se-ão como tais os constantes do documento de transporte.
+
+6 - Os documentos de transporte, quando o destinatário ou os bens a entregar em cada local de destino não sejam conhecidos na altura da saída dos locais referidos no n.º 2 do artigo 2.º, são processados globalmente e impressos em papel ou emitidos eletronicamente, devendo proceder-se do seguinte modo à medida que forem feitos os fornecimentos:
+
+a) No caso de entrega efetiva dos bens, os documentos previstos no presente diploma, bem como a fatura simplificada a que se refere o n.º 1 do artigo 40.º do Código do IVA, devem ser processados em duplicado, utilizando-se o duplicado para justificar a saída dos bens;
+
+b) No caso de saída de bens a incorporar em serviços prestados pelo remetente dos mesmos, deve a mesma ser registada em documento de transporte próprio, nomeadamente folha de obra ou outro documento equivalente.
+
+7 - Nas situações referidas nas alíneas a) e b) do número anterior, deve sempre fazer-se referência ao respectivo documento global.
+
+8 - As alterações ao destinatário ou adquirente, ou ao local de destino, ocorridas durante o transporte, ou a não aceitação imediata e total dos bens transportados, obrigam à emissão de documento de transporte adicional em papel, identificando a alteração e o documento alterado.
+
+9 - No caso em que o destinatário ou adquirente não seja sujeito passivo, far-se-á menção do facto no documento de transporte, exceto quando este for uma fatura processada nos termos e de harmonia com o artigo 36.º do Código do IVA.
+
+10 - Em relação aos bens transportados por vendedores ambulantes e vendedores em feiras e mercados, destinados a venda a retalho, bem como pelos prestadores de serviços, abrangidos pelo regime especial de isenção a que se refere o artigo 53.º ou pelo regime especial dos pequenos retalhistas a que se refere o artigo 60.º, ambos do Código do IVA, o documento de transporte pode ser substituído pelas faturas de aquisição processadas nos termos e de harmonia com os artigos 36.º e 40.º do mesmo Código.
+
+11 - Os documentos referidos nas alíneas a) e b) do n.º 6 e as alterações referidas no n.º 8 são comunicados por transmissão eletrónica de dados ou, quando emitidos nos termos da alínea e) do n.º 1 do artigo 5.º, por inserção no Portal das Finanças até ao 5.º dia útil seguinte ao do transporte.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2025 - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2025-912066244), em vigor a partir de 2025-03-29
+
+> Alterado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16
+
+> Alterado pelo/a Artigo 202.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 187.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 200.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+###### Artigo 5.º — Processamento dos documentos de transporte
+
+1 - Os documentos referidos na alínea b) do n.º 1 do artigo 2.º são processados nos termos do Decreto-Lei n.º 28/2019, de 15 de fevereiro, por uma das seguintes vias:
+
+a) Por via eletrónica;
+
+b) Através de programa informático que tenha sido objeto de prévia certificação pela Autoridade Tributária e Aduaneira (AT);
+
+c) (Revogada.)
+
+d) Diretamente no Portal das Finanças;
+
+e) Em papel, utilizando-se documentos pré-impressos em tipografia autorizada.
+
+2 - Os documentos emitidos nos termos das alíneas b), d) e e) do número anterior devem ser processados em três exemplares, com uma ou mais séries, convenientemente referenciadas.
+
+3 - (Revogado.)
+
+4 - Quando, por exigência de ordem prática, não seja bastante a utilização de um único documento dos referidos na alínea b) do n.º 1 do artigo 2.º, deve utilizar-se o documento com o número seguinte, nele se referindo que é a continuação do anterior.
+
+5 - Os sujeitos passivos são obrigados a comunicar à AT os elementos dos documentos processados nos termos referidos no n.º 1, incluindo o respetivo código único de documento, antes do início do transporte.
+
+6 - A comunicação prevista no número anterior é efetuada da seguinte forma:
+
+a) Por transmissão eletrónica de dados para a AT, nos casos previstos nas alíneas a), b) e d) do n.º 1;
+
+b) Através de serviço telefónico disponibilizado para o efeito, com indicação dos elementos essenciais do documento emitido, com inserção no Portal das Finanças, até ao 5.º dia útil seguinte, nos casos da alínea e) do n.º 1 ou, nos casos de inoperacionalidade do sistema informático da comunicação, desde que devidamente comprovado pelo respetivo operador.
+
+7 - Nas situações previstas na alínea a) do número anterior, a AT atribui um código de identificação ao documento.
+
+8 - O transportador fica dispensado de se fazer acompanhar de documento de transporte quando o mesmo tenha sido previamente comunicado à AT nas situações previstas na alínea a) do n.º 6, desde que se faça acompanhar do código único de documento e do código de barras bidimensional (código QR), quando este seja obrigatório.
+
+9 - A AT disponibiliza no Portal das Finanças o sistema de emissão referido na alínea d) do n.º 1 e o modelo de dados para os efeitos previstos na alínea a) do n.º 6.
+
+10 - A comunicação prevista nos n.os 5 e 6 não é obrigatória para os sujeitos passivos que, no período de tributação anterior, tenham um volume de negócios inferior ou igual a (euro) 100 000.
+
+11 - Nos casos em que a fatura serve também de documento de transporte e seja emitida pelos sistemas informáticos previstos nas alíneas a) a d) do n.º 1, fica dispensada a comunicação prevista no n.º 6, devendo a circulação dos bens ser acompanhada da respetiva fatura emitida.
+
+12 - Nos casos em que, por exigências comerciais, for necessário o processamento de mais de três exemplares dos documentos referidos nas alíneas b), d) e e) do n.º 1, devem os exemplares que excedam aquele número conter impressa a seguinte expressão: 'Cópia de documento não válida para os fins previstos no regime de bens em circulação'.
+
+> Alterado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16
+
+> Alterado pelo/a Artigo 187.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 200.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+###### Artigo 6.º — Circuito e validade dos documentos de transporte
+
+1 - Os documentos de transporte são processados pelos remetentes dos bens ou, mediante acordo prévio, por terceiros em seu nome e por sua conta, antes do início da circulação nos termos do n.º 2 do artigo 2.º
+
+2 - Ainda que processados nos termos do número anterior, para efeitos do presente diploma consideram-se não exibidos os documentos de transporte emitidos por sujeito passivo que se encontre em qualquer das seguintes situações:
+
+a) Que não esteja registado;
+
+b) Que tenha cessado atividade nos termos dos artigos 33.º ou 34.º do Código do IVA;
+
+c) Que esteja em falta relativamente ao cumprimento das obrigações constantes do artigo 41.º do Código do IVA, durante três períodos consecutivos.
+
+3 - O disposto no número anterior aplica-se apenas aos casos em que simultaneamente se verifiquem a qualidade de remetente e transportador.
+
+4 - Consideram-se ainda não exibidos os documentos de transporte na posse de um sujeito passivo que, sendo simultaneamente transportador e destinatário, se encontre em qualquer das situações referidas no n.º 2 do presente artigo.
+
+5 - Os exemplares dos documentos de transporte referidos no n.º 2 do artigo anterior são destinados:
+
+a) Um, que acompanha os bens, ao destinatário ou adquirente dos mesmos;
+
+b) Outro, que igualmente acompanha os bens, à inspeção tributária, sendo recolhido nos atos de fiscalização durante a circulação dos bens pelas entidades referidas no artigo 13.º, e junto do destinatário pelos serviços da AT;
+
+c) O terceiro, ao remetente dos bens.
+
+6 - Sem prejuízo do disposto no artigo 52.º do Código do IVA, devem ser mantidos em arquivo, até ao final do 4.º ano seguinte ao da sua emissão, os exemplares dos documentos de transporte destinados ao remetente e ao destinatário, bem como os destinados à inspeção tributária que não tenham sido recolhidos pelos serviços competentes.
+
+7 - Nos casos referidos nas alíneas a), b) e d) do n.º 1 do artigo anterior, consideram-se exibidos os documentos comunicados à AT desde que lhes tenha sido atribuído o código, nos termos do disposto no n.º 7 do mesmo artigo, e sejam apresentados o código único de documento e o código de barras bidimensional (código QR), quando este seja obrigatório.
+
+8 - Sempre que exigidos os documentos de transporte ou de aquisição relativos aos bens encontrados nos locais referidos na alínea a) do n.º 2 do artigo 2.º, cujo transporte ou circulação tenha estado sujeita à disciplina do presente diploma, e o sujeito passivo ou detentor dos bens alegue que o documento exigido não está disponível no local, por este ser diferente da sua sede ou domicílio fiscal ou do local de centralização da escrita, notificar-se-á aquele para no prazo de cinco dias úteis proceder à sua apresentação, sob pena da aplicação da respectiva penalidade.
+
+9 - Relativamente aos bens sujeitos a fácil deterioração, o documento exigido no número anterior deve ser exibido de imediato.
+
+10 - Se for ultrapassado o prazo estabelecido no n.º 6, considera-se exibido o documento exigido nos termos do n.º 8 caso os bens em causa se encontrem devidamente registados no inventário final referente ao último exercício económico.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16
+
+> Alterado pelo/a Artigo 202.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 187.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 200.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+###### Artigo 7.º — Transportador
+
+1 - Os transportadores de bens, seja qual for o seu destino e os meios utilizados para o seu transporte, devem exigir sempre aos remetentes dos mesmos o original e o duplicado do documento referido no artigo 1.º ou, sendo caso disso, o código referido no n.º 7 do artigo 5.º
+
+2 - Tratando-se de bens importados em Portugal que circulem entre a estância aduaneira de desalfandegamento e o local do primeiro destino, o transportador deve fazer-se acompanhar, em substituição do documento referido no número anterior, de documento probatório do desalfandegamento dos mesmos.
+
+3 - Quando o transporte dos bens em circulação for efetuado por transportador público regular coletivo de passageiros ou mercadorias ou por empresas concessionárias a prestarem o mesmo serviço, o documento de transporte ou código referido no n.º 7 do artigo 5.º pode acompanhar os respetivos bens em envelope fechado, sendo permitida a abertura às autoridades referidas no artigo 13.º
+
+4 - A disciplina prevista neste artigo não se aplica ao transportador público de passageiros quando os bens em circulação pertencerem aos respectivos passageiros.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+###### Artigo 8.º — Impressão dos documentos de transporte
+
+1 - A impressão tipográfica dos documentos de transporte referidos na alínea e) do n.º 1 do artigo 5.º só pode ser efetuada em tipografias devidamente autorizadas pelo Ministro das Finanças, devendo obedecer a um sistema de numeração unívoca.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Nos casos em que, por exigências comerciais, for necessário o processamento de mais de três exemplares dos documentos referidos, é permitido à tipografia autorizada executá-los, com a condição de imprimir nos exemplares que excedam aquele número uma barra com a seguinte indicação:  'Cópia de documento não válida para os fins previstos no Regime dos Bens em Circulação.'
+
+5 - A autorização referida no n.º 1 é concedida, mediante a apresentação do respectivo pedido, às pessoas singulares ou colectivas ou entidades fiscalmente equiparadas que exerçam a actividade de tipografia ou que a iniciem, na condição de que:
+
+a) Não tenham sofrido condenação nos termos dos artigos 87.º a 107.º, nem se encontrem em situação punível pelos artigos 108.º a 111.º, 113.º, 114.º, 116.º a 118.º, 120.º, 122.º, 123.º e 127.º, todos do Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho, nem nos termos das normas correspondentes dos regimes jurídicos das infrações fiscais aduaneiras e não aduaneiras, aprovados, respetivamente, pelos Decretos-Leis n.os 376-A/89, de 25 de outubro, e 20-A/90, de 15 de janeiro;
+
+b) Não estejam em falta, relativamente ao cumprimento das obrigações constantes do n.º 1 do artigo 27.º, do artigo 28.º, dos n.os 1 e 2 do artigo 41.º do Código do IVA, do n.º 1 do artigo 57.º do Código do Imposto sobre o Rendimento das Pessoas Singulares ou do n.º 1 do artigo 104.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas;
+
+c) Não se encontrem em estado de falência ou de insolvência;
+
+d) Não tenham sido condenadas por crimes previstos nos artigos 256.º, 258.º, 259.º, 262.º, 265.º, 268.º e 269.º do Código Penal.
+
+6 - O pedido de autorização referido no número anterior deve ser entregue por via eletrónica, no Portal das Finanças, contendo a identificação, as atividades exercidas e o local do estabelecimento da tipografia, devendo ser acompanhado dos seguintes elementos:
+
+a) Certificado do registo criminal do proprietário da empresa, ou, tratando-se de sociedade, de cada um dos sócios gerentes ou administradores em exercício;
+
+b) Certificado, processado pela entidade judicial respectiva, para efeitos da alínea c) do número anterior.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16
+
+> Alterado pelo/a Artigo 187.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 200.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 10-C/2003 - Diário da República n.º 175/2003, 1º Suplemento, Série I-A de 2003-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-c-2003-141013), em vigor a partir de 2003-09-09
+
+###### Artigo 9.º — Subcontratação
+
+1 - É permitido às tipografias autorizadas encarregar outras tipografias, desde que também autorizadas, da impressão dos documentos que lhes forem requisitados, desde que façam acompanhar os seus pedidos da fotocópia das requisições recebidas.
+
+2 - Tanto a tipografia que efectuou a impressão como a que a solicitou devem efectuar os registos e a comunicação referidos no artigo 10.º
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16
+
+###### Artigo 10.º — Aquisição de documentos de transporte
+
+1 - A aquisição dos impressos referidos no n.º 1 do artigo 8.º é efectuada mediante requisição escrita do adquirente utilizador, a qual contém os elementos necessários ao registo a que se refere o n.º 2 do presente artigo.
+
+2 - O fornecimento dos impressos é registado previamente pela tipografia autorizada, em suporte informático, devendo conter os elementos necessários à comunicação referida no n.º 5.
+
+3 - (Revogado.)
+
+4 - As requisições e os registos informáticos referidos nos números anteriores devem ser mantidos em arquivo, por ordem cronológica, pelo prazo de quatro anos.
+
+5 - Por cada requisição dos sujeitos passivos, as tipografias comunicam à AT por via eletrónica, no Portal das Finanças, previamente à impressão nos respetivos documentos, os elementos identificativos dos adquirentes e as gamas de numeração dos impressos referidos no n.º 1 do artigo 8.º
+
+6 - A comunicação referida no número anterior deve conter o nome ou denominação social, número de identificação fiscal, concelho e distrito da sede ou domicílio da tipografia e dos adquirentes, documentos fornecidos, respectiva quantidade e numeração atribuída.
+
+7 - (Revogado.)
+
+8 - Nos casos em que os adquirentes não se encontrem registados na AT para o exercício de uma atividade comercial, industrial ou agrícola, a AT emite, em tempo real, no Portal das Finanças, um alerta seguido de notificação, advertindo a tipografia de que não pode proceder à impressão dos documentos, sob pena de ser cancelada a autorização de impressão.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16
+
+> Alterado pelo/a Artigo 200.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+###### Artigo 11.º — Revogação da autorização de impressão de documentos de transporte
+
+O Ministro das Finanças, por proposta do diretor-geral da AT, pode determinar a revogação da autorização concedida nos termos do artigo 8.º em todos os casos em que se deixe de verificar qualquer das condições referidas no seu n.º 5, sejam detetadas irregularidades relativamente às disposições do presente diploma ou se verifiquem outros factos que ponham em causa a idoneidade da empresa autorizada.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16
+
+> Alterado pelo/a Artigo 200.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+###### Artigo 12.º — Obrigação de utilização de documentos de transporte impressos tipograficamente
+
+Quando forem detectadas situações irregulares ou anómalas resultantes da utilização dos documentos processados por computador, o Ministro das Finanças, por proposta do director-geral dos Impostos, pode determinar, por despacho, a obrigatoriedade de os sujeitos passivos utilizarem exclusivamente documentos de transporte impressos tipograficamente, por um período não inferior ao determinado no referido despacho, num mínimo de um ano civil e máximo de quatro anos civis.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+###### Artigo 13.º — Entidades fiscalizadoras
+
+1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento das normas previstas no presente diploma compete à AT e à unidade com as atribuições tributárias, fiscais e aduaneiras da Guarda Nacional Republicana, cabendo também a esta última, conjuntamente com as restantes autoridades, designadamente a Polícia de Segurança Pública, prestar toda a colaboração que lhes for solicitada para o efeito.
+
+2 - Para assegurar a eficácia das acções de fiscalização, as entidades fiscalizadoras podem proceder à abertura das embalagens, malas ou outros contentores de mercadorias.
+
+3 - Relativamente à abertura de embalagens ou contentores acondicionantes de produtos que, pelas suas características de fácil deterioração ou perigo, não devam ser manuseados ou expostos ao meio ambiente, devem ser tomadas as seguintes providências:
+
+a) As embalagens ou contentores de tais produtos devem ser sempre rotulados ou acompanhados de uma declaração sobre a natureza do produto;
+
+b) As entidades fiscalizadoras, em tais casos, não devem abrir as referidas embalagens, sem prejuízo de, em caso de dúvida quanto aos bens transportados, serem tomadas as medidas adequadas para que se verifique, em condições aconselháveis, se os bens em circulação condizem com os documentos de transporte que os acompanham.
+
+4 - Os funcionários a quem incumbe a fiscalização prevista no n.º 1 consultam os elementos constantes da base de dados dos bens em circulação disponibilizada pela AT, mediante acesso individual e certificado, e sempre que se verifiquem quaisquer infrações às normas do presente diploma, devem levantar o respetivo auto de notícia, com a ressalva do disposto no número seguinte.
+
+5 - Sempre que as outras autoridades atuem em conjunto com a AT, cabe aos funcionários desta autoridade levantar os autos de notícia a que haja lugar.
+
+6 - Sempre que a infracção for detectada no decurso de operações em que colaborem duas ou mais autoridades, a parte do produto das coimas que se mostrem devidas destinadas ao autuante será repartida, em partes iguais, pelos serviços envolvidos.
+
+7 - Sempre que aplicável, as entidades referidas neste artigo devem averbar no original do documento de transporte o facto de ter sido recolhido o respetivo duplicado.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+#### Secção I — Infracções
+
+###### Artigo 14.º — Infracções detectáveis no decurso da circulação de bens
+
+1 - A falta de emissão ou de imediata exibição do documento de transporte ou dos documentos referidos no artigo 1.º e no n.º 2 do artigo 7.º ou as situações previstas nos n.os 2 a 4 do artigo 6.º fazem incorrer os infratores nas penalidades previstas no artigo 117.º do Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho, aplicáveis, quer ao remetente dos bens, quer ao transportador que não seja transportador público regular de passageiros ou mercadorias ou empresas concessionárias a prestar o mesmo serviço.
+
+2 - As omissões ou inexatidões praticadas nos documentos de transporte referidos no artigo 1.º e no n.º 2 do artigo 7.º, que não sejam a falta de indicação do número de identificação fiscal do destinatário ou adquirente dos bens, ou de qualquer das menções elencadas nos n.os 4 e 8, ou ainda o não cumprimento do disposto no n.º 7, todos do artigo 4.º, fazem incorrer os sujeitos passivos a que se refere o n.º 1 do artigo 6.º nas penalidades previstas no artigo 117.º do Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho.
+
+3 - É unicamente imputada ao transportador a infração resultante da alteração do destino final dos bens, ocorrida durante o transporte.
+
+4 - Quando os bens em circulação, transportados num único veículo, provierem de mais de um remetente, a cada remetente será imputada a infracção resultante dos bens por ele remetidos.
+
+5 - Sempre que o transportador dos bens em circulação em situação irregular não identifique o seu remetente, ser-lhe-á imputada a respectiva infracção.
+
+6 - Consideram-se não emitidos os documentos de transporte sempre que não tenham sido observadas as normas de emissão ou de comunicação constantes dos artigos 5.º e 8.º
+
+7 - Somente são aplicáveis as sanções referidas no presente artigo quando as infracções forem verificadas durante a circulação dos bens.
+
+8 - É sempre competente para a aplicação de coimas por infracções ao presente diploma o chefe do serviço de finanças da área onde foram detectadas.
+
+9 - Sempre que aplicável, considera-se falta de exibição do documento de transporte a não apresentação imediata do código previsto no n.º 7 do artigo 5.º
+
+> Alterado pelo/a Artigo 202.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 187.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+#### Secção II — Da apreensão
+
+###### Artigo 15.º — Apreensão provisória
+
+1 - Quando, em relação aos bens encontrados em circulação nos termos dos artigos 1.º e 3.º, as entidades fiscalizadoras detetem indícios da prática de infração criminal, podem exigir prova da sua proveniência ou destino, a qual deve ser imediatamente feita, sob pena de se proceder à imediata apreensão provisória dos mesmos e do veículo transportador, nos termos do artigo 16.º
+
+2 - Do auto devem obrigatoriamente constar os fundamentos que levaram à apreensão provisória, designadamente os requisitos exigidos no número anterior.
+
+3 - Se a prova exigida no n.º 1 não for feita de imediato ou não for efectuada dentro de cinco dias úteis, a apreensão provisória converter-se-á em definitiva, passando a observar-se o disposto no artigo 17.º
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 187.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 16.º — Apreensão dos bens em circulação e do veículo transportador
+
+1 - (Revogado.)
+
+2 - No caso de os bens apreendidos nos termos do artigo anterior estarem sujeitos a fácil deterioração, observa-se o disposto no Código de Processo Civil, bem como as disposições do Código de Procedimento e de Processo Tributário, com as devidas adaptações.
+
+3 - Da apreensão dos bens e dos veículos será lavrado auto em duplicado ou, no caso do n.º 6 do presente artigo, em triplicado, sendo os mesmos entregues a um fiel depositário, de abonação correspondente ao valor normal dos bens apreendidos expressamente referido nos autos, salvo se puderem ser removidos, sem inconveniente, para qualquer depósito público.
+
+4 - O original do auto de apreensão é entregue no serviço de finanças da área onde foi detetada a infração, devendo este serviço dar conhecimento imediato ao órgão de polícia criminal com competência na matéria.
+
+5 - O duplicado do auto de apreensão será entregue ao fiel depositário mediante recibo.
+
+6 - Quando o fiel depositário não for o condutor do veículo ou o transportador, será entregue a este último, ou na sua ausência ao primeiro, um exemplar do auto de apreensão.
+
+7 - Nos casos de apreensão em que o remetente não seja o transportador dos bens, proceder-se-á, no prazo de três dias úteis, à notificação do remetente para efeitos do disposto no n.º 1 do artigo 17.º
+
+> Alterado pelo/a Artigo 187.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 10-C/2003 - Diário da República n.º 175/2003, 1º Suplemento, Série I-A de 2003-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-c-2003-141013), em vigor a partir de 2003-09-09
+
+###### Artigo 17.º — Regularização das apreensões
+
+1 - Nos 15 dias seguintes à apreensão ou à notificação referida no n.º 7 do artigo anterior, podem os infratores demonstrar a proveniência ou destino dos bens perante o órgão de polícia criminal, sem prejuízo da coima que ao caso couber.
+
+2 - No caso previsto no número anterior, o órgão de polícia criminal dá conhecimento ao serviço de finanças da área onde foi detetada a infração da inexistência de indícios de crime, devendo o serviço de finanças prosseguir com o processo de contraordenação, levantando-se, para o efeito, o respetivo auto de notícia relativo à infração praticada.
+
+3 - As despesas originadas pela apreensão são da responsabilidade do infractor, sendo cobradas conjuntamente com a coima.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - Da decisão de apreensão cabe recurso para o tribunal judicial de 1.ª instância, com competência criminal, da área em que foi efetuada a apreensão.
+
+> Alterado pelo/a Artigo 187.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+###### Artigo 18.º — Decisão quanto à apreensão
+
+1 - À decisão sobre os bens em circulação e veículos de transporte apreendidos ou ao produto da sua venda é aplicável o disposto do n.º 4 do artigo 73.º do Regime Geral das Infracções Tributárias com as necessárias adaptações.
+
+2 - O levantamento da apreensão do veículo e dos bens respectivos só se verificará quando:
+
+a) Forem pagas as coimas aplicadas e as despesas originadas pela apreensão e, bem assim, exibidos o comprovativo de emissão ou, sendo caso disso, o original e o duplicado ou, no caso de extravio, segunda via ou fotocópia do documento de transporte ou dos documentos mencionados no n.º 2 do artigo 7.º, ou se encontrem regularizadas as situações previstas nos n.os 2 e 4 do artigo 6.º;
+
+b) For prestada caução, por meio de depósito em dinheiro ou de fiança bancária, que garanta o montante das coimas e dos encargos referidos na alínea a);
+
+c) Se verificar o trânsito em julgado da decisão que qualifica a infracção ou apreensão insubsistente.
+
+3 - Nos casos de apreensão em que o remetente não seja transportador dos bens, o levantamento da apreensão, quer dos bens quer do veículo, será efectuado nos termos do número anterior, relativamente a cada um deles, independentemente da regularização efectuada pelo outro infractor.
+
+> Revogado pelo/a Artigo 188.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+###### Artigo 19.º — Legislação subsidiária
+
+Ao presente regime complementar é aplicável subsidiariamente o Regime Geral das Infracções Tributárias, aprovado pela Lei n.º 15/2001, de 5 de Junho.

@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:235148:por
+title: Portaria n.º 23239
+short_title: null
+summary: Sujeita os armazenistas de batata de consumo à obrigação de adquirir à Junta Nacional das Frutas, ou por seu intermédio,
+  quantitativos correspondentes às compras por eles livremente realizadas, de acordo com as percentagens fixadas pelo referido
+  organismo - Revoga a Portaria n.º 22905
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado do Comércio - Comissão de Coordenação Económica
+proposing_entity: null
+official_number: '23239'
+official_date: null
+publication_date: '1968-02-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 45/1968, Série I de 1968-02-22
+  number: '45'
+  series: I
+  supplement: null
+  pages: 294 - 294
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/02/04500/02940294.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '235148'
+  dre_path: /dr/detalhe/portaria/23239-1968-235148
+  internal: pt:dre:235148:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/23239-1968-235148
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23239-1968-235148
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 91de179a19734ce780a3e9c72d80c8b789a9e117c92020bd46d237fe54d04475
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:235147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:42:46Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 23239
+
+Em consequência de factores climáticos favoráveis verificou-se, na campanha de 1967-1968, uma produção excepcional de batata.
+
+Os números provisórios do Instituto Nacional de Estatística prevêem uma colheita da ordem de 1250000 t, ou seja, mais 35 por cento do que a colheita de 1966 e mais 22 por cento do que a produção média no decénio de 1957-1966.
+
+A fim de evitar o aviltamento dos preços, decidiu o Ministério da Economia que a Junta Nacional das Frutas interviesse no mercado, adquirindo a batata aos produtores que lha desejassem entregar a preços de garantia que variaram desde 1$00 no início da intervenção até ao nível actual de 1$40.
+
+Como resultado desta intervenção no mercado, que evitou à produção prejuízos incalculáveis, possui a Junta, em armazéns próprios, alugados ou cedidos, cerca de 100000 t de batata, estando manifestadas para entrega mais 80000 t.
+
+Esta vultosa intervenção implicou já o dispêndio de 150000 contos, que poderá ser acrescido em mais de 100000 contos com a compra da batata, manifestada até 31 de Janeiro findo, que venha ainda a ser entregue à Junta.
+
+Estão, assim, em perspectiva consideráveis prejuízos para a Administração, os quais, todavia, têm por contrapartida a vantagem da garantia de um preço à produção, que assegura a esta receitas muito superiores às que poderia obter se o mercado funcionasse consoante o livre jogo da oferta e da procura, sujeito, portanto, às especulações que, inevitàvelmente, na baixa, sempre se verificam em detrimento do produtor e sem benefício sensível para o consumidor.
+
+O facto de se ter verificado uma campanha excepcional, que colocou na posse da Junta Nacional das Frutas quantidades muito avultadas de batata e implicou grande imobilização de fundos do Ministério da Economia, justifica plenamente a adopção de providências, que também se podem considerar excepcionais, tendentes a reduzir até onde for possível os prejuízos da operação.
+
+Com este objectivo e no seguimento da orientação já traçada nas Portarias n.os 22904 e 22905, de 16 de Setembro de 1967, estabelece-se a obrigatoriedade de os armazenistas adquirirem batata à Junta Nacional das Frutas em quantitativos impostos pelas necessidades financeiras da intervenção efectuada.
+
+Nestes termos:
+
+Ao abrigo do disposto no [Decreto-Lei n.º 45835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491), de 27 de Julho de 1964, e nos termos previstos no n.º 11.º da [Portaria n.º 16915](https://diariodarepublica.pt/dr/detalhe/portaria/16915-1958-339982), de 11 de Novembro de 1958, com a redacção dada pela [Portaria n.º 23238](https://diariodarepublica.pt/dr/detalhe/portaria/23238-1968-235147), desta data:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, o seguinte:
+
+1.º Os armazenistas de batata de consumo ficam sujeitos à obrigação de adquirir à Junta Nacional das Frutas, ou por seu intermédio, quantitativos correspondentes às compras por eles livremente realizadas, de acordo com as percentagens fixadas pelo organismo.
+
+§ único. Sempre que as circunstâncias o aconselhem, a Junta poderá determinar que os armazenistas efectuem a totalidade das suas compras directamente à Junta ou por seu intermédio.
+
+2.º Esta portaria entra imediatamente em vigor e revoga a [Portaria n.º 22905](https://diariodarepublica.pt/dr/detalhe/portaria/22905-1967-391028), de 16 de Setembro de 1967.
+
+Secretaria de Estado do Comércio, 22 de Fevereiro de 1968. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado.

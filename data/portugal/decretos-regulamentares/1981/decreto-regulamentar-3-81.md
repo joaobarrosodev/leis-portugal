@@ -1,0 +1,338 @@
+---
+schema_version: '1.0'
+id: pt:dre:390388:por
+title: Decreto Regulamentar n.º 3/81
+short_title: null
+summary: Cria o Centro Regional de Segurança Social de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Assuntos Sociais
+proposing_entity: null
+official_number: 3/81
+official_date: null
+publication_date: '1981-01-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 12/1981, Série I de 1981-01-15
+  number: '12'
+  series: I
+  supplement: null
+  pages: 109 - 111
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/01/01200/01090111.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390388'
+  dre_path: /dr/detalhe/decreto-regulamentar/3-1981-390388
+  internal: pt:dre:390388:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1981-390388
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1981-390388
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:03:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7708fa856ca7d0d309752594bb74123c46ba58189367d02f357825fd51245a11
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Regional de Segurança Social
+- Lisboa
+relationships:
+- type: amended_by
+  target: pt:dre:346485:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:309934:por
+  label: Prorrogado, por mais um ano, o regime de instalação estabelecido pelo art. 3.º, pelo(a) Portaria n.º 269/83 - Diário
+    da República n.º 56/1983, Série I de 1983-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-1983-309934
+  date: '1983-03-09'
+- type: amended_by
+  target: pt:dre:622288:por
+  label: Integrado o Centro de Apoio Social, criado pelo Dec Lei 301/78, de 07-out, no Centro Regional de Segurança Social
+    de Lisboa, criado pelo presente, pelo(a) Decreto-Lei n.º 6/85 - Diário da República n.º 5/1985, Série I de 1985-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1985-622288
+  date: '1985-01-07'
+- type: amended_by
+  target: pt:dre:232160:por
+  label: Integrados os contribuintes beneficiários e acções da Caixa Sindical de Previdência dos Profissionais de Seguros
+    cujo regulamento foi aprovado por Alvará de 27-jul de 1956, nos Centros Regionais de Segurança Social de Aveiro, aprovado
+    pela Port 511/85, de 27-jul, de Beja, aprovado pela Port 528/85, de 31-jul, de Braga, aprovado pela Port 536/85, de 03-ago,
+    de Bragança, aprovado pela Port 486/85, de 19-jul, de Castelo Branco, aprovado pela Port 525/86, de 16-set, de Coimbra,
+    aprovado pela Port 498/85, de 23-jul, de Évora, aprovado pela Port 532/85, de 01-ago, da Guarda, aprovado pela Port 556/85,
+    de 09-ago, de Leiria, aprovado pela Port 382/85, de Portalegre, aprovado pela Port 501/85, de 24-jul, do Porto, aprovado
+    pela Port 64/87, de 29-jan, de Santarém, aprovado pela Port 389/85, de 26-jun, de Setúbal, aprovado pela Port 487/85,
+    de 19-jul, de Viana do Castelo, aprovado pela Port 548/85, de 07-ago, de Vila Real, aprovado pela Port 509/85, de 26-jul,
+    e de Viseu, aprovado pela Port 555/85, de09-ago, bem como no Centro Regional de Segurança Social de Lisboa, criado pelo
+    presente, e integrada a orgânica e funcionalmente a Caixa Sindical de Previdência dos Profissional de Seguros e o respectivo
+    pessoal, bem como a titularidade do património neste último Centro Regional de Segurança Social, pelo(a) Portaria n.º
+    935/92 - Diário da República n.º 222/1992, Série I-B de 1992-09-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-1992-232160
+  date: '1992-09-25'
+- type: amended_by
+  target: pt:dre:588262:por
+  label: Integrados os contribuintes beneficiários e acções da Caixa de Previdência dos Profissionais de Espectáculos, criada
+    pelo Dec Lei 32748, de 15-abr de 1943, nos Centros Regionais de Segurança Social de Aveiro, aprovado pela Port 511/85,
+    de 27-jul, de Beja, aprovado pela Port 528/85, de 31-jul, de Braga, aprovado pela Port 536/85, de 03-ago, de Bragança,
+    aprovado pela Port 486/85, de 19-jul, de Castelo Branco, aprovado pela Port 525/86, de 16-set, de Coimbra, aprovado pela
+    Port 498/85, de 23-jul, de Évora, aprovado pela Port 532/85, de 01-ago, de Faro, aprovado pela Port 383/85, de 22-jun,
+    da Guarda, aprovado pela Port 556/85, de 09-ago, de Leiria, aprovado pela Port 382/85, de 21-jun, de Portalegre, aprovado
+    pela Port 501/85, de 24-jul, do Porto, aprovado pela Port 64/87, de 29-jan, de Santarém, aprovado pela Port 389/85, de
+    26-jun, de Setúbal, aprovado pela Port 487/85, de 19-jul, de Viana do Castelo, aprovado pela Port 548/85, de 07-ago, de
+    Vila Real, aprovado pela Port 509/85, de 26-jul, e de Viseu, aprovado pela Port 555/85, de 09-ago, bem como no Centro
+    Regional de Segurança Social de Lisboa, criado pelo presente, e integrada orgânica e funcionalmente a Caixa de Previdência
+    dos Profissionais de Espectáculos, o respectivo pessoal, bem como a titularidade do património imobiliário e equipamentos
+    da referida Caixa, neste último Centro Regional da Segurança Social, pelo(a) Portaria n.º 58/93 - Diário da República
+    n.º 10/1993, Série I-B de 1993-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1993-588262
+  date: '1993-01-13'
+- type: amended_by
+  target: pt:dre:585029:por
+  label: Integrada a Caixa de Previdência do Pessoal da Companhia Carris de Ferro de Lisboa no Centro Regional de Segurança
+    Social, criado pelo presente, pelo(a) Portaria n.º 74/93 - Diário da República n.º 15/1993, Série I-B de 1993-01-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/74-1993-585029
+  date: '1993-01-19'
+- type: amended_by
+  target: pt:dre:346485:por
+  label: Extinto o Centro Regional de Segurança Social de Lisboa, criado pelo presente, e revogado este diploma, pelo(a) Decreto-Lei
+    n.º 260/93 - Diário da República n.º 171/1993, Série I-A de 1993-07-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1993-346485
+  date: '1993-07-23'
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:03:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 3/81
+
+de 15 de Janeiro
+
+1. Com o [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Junho, constituiu-se uma estrutura orgânica e funcional que visa instituir um sistema de segurança social integrado, descentralizado e participado.
+
+2. A execução dos objectivos de descentralização e participação compete, prioritariamente, aos centros regionais de segurança social que integram, coordenam e articulam os serviços e instituições locais, com particular reconhecimento do papel fundamental das instituições privadas de solidariedade social.
+
+3. Criados os centros regionais de segurança social pelo [Decreto n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto/79-1979-381356), de 2 de Agosto, em todos os distritos, à excepção do de Lisboa, desde logo se reconheceu a necessidade de vir a considerar-se em diploma próprio a organização do sistema de segurança social no distrito de Lisboa.
+
+Efectivamente, a amplitude e complexidade dos problemas e situações num distrito como o de Lisboa, que abrange mais de um quinto da população do País, que contém profundas assimetrias sociais, desde a capital às zonas suburbanas e às áreas rurais e piscatórias, e que congrega uma enorme densidade de serviços, instituições e técnicos, desde logo justifica que a organização do sistema local de segurança social não possa ser objecto de soluções uniformemente adoptadas em todos os restantes distritos do País.
+
+4. Como aliás já se reconheceu no [Decreto-Lei n.º 170/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1979-383410), de 6 de Junho, as características especiais do distrito de Lisboa aconselham uma fase de transição em que se proceda gradualmente, e não de uma só vez, à integração e articulação dos diversos serviços e instituições que, no futuro, darão substrato ao Centro Regional, devendo proceder-se de igual modo com serviços de índole social de outros departamentos da Administração Central e Local, em relação aos quais se torne aconselhável a sua progressiva integração no Centro, de harmonia com os interesses das populações e a maior rentabilidade económico-social do sistema.
+
+5. Por outro lado, se o Centro Regional de Segurança Social de Lisboa vem completar a rede descentralizada do sistema, o certo é que ele surge numa fase em que todos os demais se encontram em início de funcionamento e em que os serviços centrais ainda estão em reorganização. É, pois, essencial que algumas das normas relativas ao funcionamento dos centros sejam retomadas no presente diploma, designadamente as contidas no [Decreto-Lei n.º 515/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1979-365765), de 28 de Dezembro, sem prejuízo, todavia, de oportunas medidas legislativas que definam a progressiva, coerente e harmoniosa organização do sistema.
+
+6. Como se referiu no ponto 3, a especificidade do distrito de Lisboa obrigou a que se encontrassem modelos de implantação gradual, com observância dos diferentes graus de autonomia de gestão, dentro de uma perspectiva de optimização de recursos e de melhoria dos serviços prestados.
+
+Assim:
+
+O Governo decreta, nos termos da alínea c) de artigo 202.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º — (Criação)
+
+É criado o Centro Regional de Segurança Social de Lisboa, adiante designado por Centro.
+
+###### ARTIGO 2.º — (Integração dos serviços e instituições)
+
+1 - Os serviços e instituições a integrar, nos termos do n.º 2 do artigo 19.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602) de 31 de Dezembro, bem como as respectivas forma de integração, constarão de portaria do Ministro dos Assuntos Sociais.
+
+2 - A integração a que se refere o número anterior efectuar-se-á, nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 515/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1979-365765), de 28 de Dezembro, de forma gradual, tendo em conta a economicidade de custos e a diversidade e complexidade dos problemas existentes na área abrangida pelo Centro.
+
+3 - Nos casos em que tenha lugar a integração orgânica e funcional, e sempre que a natureza e dimensão dos serviços e instituições o aconselhe, poderá o Ministro dos Assuntos Sociais autorizar por despacho sistemas de gestão descentralizada.
+
+###### ARTIGO 3.º — (Regime de instalação)
+
+1 - O Centro, criado pelo artigo 1.º, entra em regime de instalação, aplicando-se-lhe o disposto nos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+
+2 - O funcionamento do Centro terá início na data da posse da respectiva comissão instaladora.
+
+###### ARTIGO 4.º — (Receitas e despesas)
+
+1 - Constituem receitas do Centro:
+
+a) As transferências do Instituto de Gestão Financeira da Segurança Social;
+
+b) Os rendimentos de bens próprios afectos a fundos especiais, consignados a benefícios imediatos;
+
+c) Os subsídios de quaisquer entidades, públicas ou particulares, donativos, legados e heranças;
+
+d) Os benefícios prescritos;
+
+e) Quaisquer outras receitas permitidas por lei.
+
+2 - Constituem despesas do Centro:
+
+a) Os encargos com as prestações que não devam ser concedidas através do Centro Nacional de Pensões, actualmente a cargo da Caixa Nacional de Pensões;
+
+b) O financiamento das instituições e serviços que lhes estejam articulados;
+
+c) O reembolso de contribuições;
+
+d) Os encargos de administração;
+
+e) Quaisquer outras despesas permitidas por lei.
+
+###### ARTIGO 5.º — (Comissão instaladora)
+
+1 - O Centro será dirigido por uma comissão instaladora nomeada por despacho do Ministro dos Assuntos Sociais.
+
+2 - A comissão instaladora terá um presidente, dois vice-presidentes e o número de vogais que se mostrar conveniente.
+
+3 - O presidente será substituído por um dos vice-presidentes designado pelo Ministro dos Assuntos Sociais.
+
+4 - Os membros da comissão instaladora serão remunerados nos termos do artigo 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e do artigo 9.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
+
+5 - A comissão instaladora reunirá sempre que se torne necessário e, obrigatoriamente, uma vez por semana, sendo as deliberações exaradas em actas.
+
+6 - As deliberações serão válidas quando votadas pela maioria dos membros presentes, tendo o presidente voto de qualidade.
+
+###### ARTIGO 6.º — (Competência da comissão instaladora)
+
+No exercício das suas funções, compete à comissão instaladora administrar o Centro e responder pelos seus objectivos, cabendo-lhe, em especial:
+
+a) Exercer, em geral, as competências próprias dos órgãos dirigentes de todos os serviços e instituições que venham a ser integrados no Centro, orgânica e funcionalmente;
+
+b) Exercer os poderes de tutela dos estabelecimentos e instituições dotados de autonomia, sem prejuízo dos que estejam cometidos aos órgãos centrais;
+
+c) Exercer, nos termos do respectivo estatuto e sua regulamentação, as funções próprias ou delegadas de apoio e de orientação tutelar das instituições privadas de solidariedade social;
+
+d) Exercer a orientação e o controle técnico necessários à criação e funcionamento de estabelecimentos com fins lucrativos e de empresas, destinados, designadamente, a crianças, jovens e idosos;
+
+e) Promover a necessária colaboração com Casas do Povo, organizações humanitárias e outros serviços e instituições que executem acções de índole social;
+
+f) Preparar e coordenar os programas de acção do Centro, propor a sua integração no plano global da segurança social, promover a posterior execução e avaliação e a adopção de medidas tendentes à correcção dos desvios da actividade programada;
+
+g) Coordenar a preparação e apresentar superiormente o projecto de orçamento integrado para o respectivo Centro, tendo em vista a sua posterior inclusão no orçamento global da segurança social e acompanhar a sua execução, designadamente no que se refere ao controle de despesas;
+
+h) Tomar as providências necessárias à implantação progressiva da estrutura orgânica provisória e ainda as que se forem revelando indispensáveis à preparação da estrutura definitiva;
+
+i) Assegurar a ajustada e oportuna resposta às situações que reclamem a sua intervenção;
+
+j) Promover e assegurar a execução de medidas tendentes à gestão integrada dos recursos humanos e materiais afectos ao sector, tendo em vista, nomeadamente, a sua racionalização e o máximo aproveitamento económico e social.
+
+###### ARTIGO 7.º — (Estrutura orgânica)
+
+1 - A estrutura orgânica do Centro e o seu funcionamento constarão de regulamento a aprovar por decreto.
+
+2 - Tendo em vista a racionalização dos recursos, poderão ser criados serviços comuns que abranjam todos os serviços e instituições integrados por qualquer das formas legalmente previstas.
+
+3 - O Centro deverá ter as delegações e serviços locais que se tornem necessários à realização dos seus objectivos e fins.
+
+4 - Enquanto não forem criadas as delegações a que se refere o número anterior, poderão organizar-se núcleos territoriais na área de intervenção do Centro.
+
+###### ARTIGO 8.º — (Quadro de pessoal)
+
+O quadro do pessoal do Centro será proposto para aprovação governamental seis meses antes do termo do regime de instalação.
+
+###### ARTIGO 9.º — (Admissão de pessoal no período de instalação)
+
+1 - A comissão de serviço prevista no n.º 2 do artigo 82.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, é igualmente aplicável à nomeação de pessoal pertencente aos quadros dos serviços e instituições de previdência para os lugares do mapa de pessoal do Centro.
+
+2 - O pessoal nomeado nos termos do número anterior ficará abrangido, enquanto durar tal situação, pelo regime jurídico da função pública, aplicando-se-lhe ainda o disposto no n.º 3 do artigo 82.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+
+###### ARTIGO 10.º — (Requisição e destacamento de pessoal)
+
+1 - Obtida a concordância dos interessados e a anuência dos respectivos gestores e quando se trate de serviços e instituições integrados apenas funcionalmente, tendo em vista a adequação dos recursos humanos e os objectivos que o Centro prossegue, poderá ser destacado ou requisitado o pessoal necessário, nomeadamente para os efeitos do n.º 2 do artigo 7.º
+
+2 - Aos movimentos do pessoal resultantes do disposto no número anterior são aplicáveis as alíneas a) e b) do artigo 3.º do [Decreto-Lei n.º 124/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1979-383206), de 10 de Maio.
+
+###### ARTIGO 11.º — (Conselho regional de segurança social)
+
+A estrutura de participação a que se refere o [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, no que respeita à área de intervenção do Centro, será assegurada pelo Conselho Regional de Segurança Social de Lisboa, cuja constituição e funcionamento constarão de diploma sobre os conselhos regionais de segurança social a publicar no prazo de cento e oitenta dias.
+
+###### ARTIGO 12.º — (Santa Casa da Misericórdia de Lisboa)
+
+A Santa Casa da Misericórdia de Lisboa, sem prejuízo da sua identidade própria, contribuirá para a realização dos objectivos da segurança social no concelho de Lisboa, articulando-se com o Centro através da execução dos respectivos planos de acção aprovados e dos acordos de cooperação celebrados.
+
+###### ARTIGO 13.º — (Sucessão de direitos e obrigações)
+
+O Centro, a partir da data da entrada em vigor das respectivas portarias de integração, sucede aos serviços e instituições nele integrados orgânica e funcionalmente em todos e quaisquer direitos e obrigações de que estes sejam titulares.
+
+###### ARTIGO 14.º — (Normas aplicáveis)
+
+É aplicável ao Centro o disposto no [Decreto-Lei n.º 515/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1979-365765), de 28 de Dezembro.
+
+###### ARTIGO 15.º — (Normas extensivas aos outros centros regionais)
+
+São aplicáveis aos demais centros regionais de segurança social o n.º 3 do artigo 2.º, o n.º 2 do artigo 7.º e os artigos 9.º, 10.º e 13.º do presente diploma.
+
+###### ARTIGO 16.º — (Resolução de dúvidas)
+
+As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais ou deste membro do Governo e do que tiver a seu cargo a Administração Pública sempre que envolva matéria da sua competência.
+
+Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - João António Morais Leitão.
+
+Promulgado em 31 de Dezembro de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

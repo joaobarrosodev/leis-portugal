@@ -1,0 +1,262 @@
+---
+schema_version: '1.0'
+id: pt:dre:336148:por
+title: Decreto Legislativo Regional n.º 18/2000/A
+short_title: null
+summary: Estabelece orientações específicas dirigidas à administração regional para a efectiva concretização dos objectivos
+  de informação, formação e implementação do planeamento familiar e da educação afectivo-sexual
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 18/2000/A
+official_date: null
+publication_date: '2000-08-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 182/2000, Série I-A de 2000-08-08
+  number: '182'
+  series: I
+  supplement: null
+  pages: 3829 - 3831
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/08/182a00/38293831.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/18/2000/08/08/a/dre/pt/html
+  oj: null
+  dre: '336148'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/18-2000-336148
+  internal: pt:dre:336148:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2000-336148
+  metadata_url: https://data.dre.pt/eli/declegreg/18/2000/08/08/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2000-336148
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:19:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a989c2ba765290209cca55e6d027d78eb512a2b56afe34e71f02a700ae629074
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Centro de Saúde
+- Educação Sexual
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Estabelecimento Hospitalar
+- Planeamento Familiar
+- Política de Educação
+- Política de Saúde
+relationships:
+- type: amended_by
+  target: pt:dre:553581:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:423065:por
+  label: null
+  source: http://data.dre.pt/eli/lei/120/1999/08/11/p/dre
+- type: repealed_by
+  target: pt:dre:553581:por
+  label: "Revogado o capítulo III pelo DLR.8/2012/A.16.03.2012.AL-RAA, DR.IS [55] de 16.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2012-553581
+  date: '2012-03-16'
+article_structure:
+  article_count: 17
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:19:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 18/2000/A
+
+Planeamento familiar e educação afectivo-sexual
+
+No quadro normativo nacional, aplicável à Região Autónoma dos Açores, existe já um complexo legal vigente sobre planeamento familiar e educação sexual que importa dinamizar para uma efectiva aplicação.
+
+Pese embora o quadro legal existente a nível nacional, importa criar legislação regional, com vista a facilitar a operacionalidade dos instrumentos existentes, designadamente nas áreas do planeamento familiar e da educação afectivo-sexual nas escolas.
+
+Neste contexto, deve promover-se o desenvolvimento de acções dirigidas a essa componente educativa, em articulação com outros agentes educativos, designadamente família e profissionais da área da saúde.
+
+Propõe-se concretamente a promoção de acções de sensibilização sobre o planeamento familiar com o objectivo de popularizar informação sobre a fecundação e o direito de decidir livre e responsavelmente o número de filhos e o intervalo entre os mesmos; a criação de uma linha telefónica directa gratuita para aconselhamento; a criação de um site na Internet; a entrega a cada mulher, mãe pela primeira vez, de documentação relativa aos primeiros cuidados com o bebé e com a mãe, e a facultação a cada aluno de documentos informativos, em cada ano escolar, bem como melhorar a oferta de cuidados de saúde, criando-se, onde não existam, consultas específicas de planeamento familiar, no âmbito do quadro jurídico em vigor.
+
+Este desafio requer necessariamente uma aposta na educação sexual com o objectivo de alterar comportamentos, prevenindo assim os riscos de gravidez na adolescência - de tão graves consequências emocionais e sociais para a jovem mãe -, de interrupções voluntárias da gravidez e de doenças sexualmente transmissíveis.
+
+A educação afectivo-sexual deve ser entendida como uma área essencial do processo educativo, não devendo, por isso, ser reduzida às componentes biológica e de prevenção de comportamentos de risco, mas antes promotora do desenvolvimento equilibrado da personalidade no que respeita às suas componentes psíquica, emocional e comportamental. Deve assentar numa plataforma ética e num quadro de valores humanistas e universais partilhados pela nossa cultura.
+
+Em síntese, pretende-se, com o presente diploma, proporcionar uma vivência mais informada, mais gratificante, mais autónoma e mais responsável da sexualidade.
+
+Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região, o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece, na Região Autónoma dos Açores, orientações específicas dirigidas à administração regional para a efectiva concretização dos objectivos de informação, formação e implementação do planeamento familiar e da educação afectivo-sexual.
+
+###### Artigo 2.º — Fins
+
+O presente diploma visa a prossecução dos seguintes fins:
+
+a) Concretização da política de planeamento familiar no que concerne ao aconselhamento e divulgação, nomeadamente sobre sexualidade, contracepção, gravidez, infertilidade e prevenção de doenças;
+
+b) Concretização da política de educação da sexualidade que vise assegurar o acesso da comunidade educativa à informação e formação relativas à afectividade e sexualidade.
+
+###### Artigo 3.º — Âmbito
+
+1 - O presente diploma aplica-se a todos os centros de saúde e hospitais do Serviço Regional de Saúde, bem como ao Sistema Educativo Regional, nas condições adiante previstas.
+
+2 - A aplicação deste diploma a outras estruturas de saúde e a outros estabelecimentos de educação e ensino depende de protocolo a celebrar entre a instituição em causa e o Governo Regional.
+
+### CAPÍTULO II — Planeamento familiar
+
+###### Artigo 4.º — Acções de sensibilização
+
+Incumbe à administração regional promover acções de sensibilização para o planeamento familiar, com o objectivo de informar, nomeadamente, sobre fertilidade, cuidados de saúde e o direito de decidir livre e responsavelmente o número de filhos e o intervalo entre o seu nascimento.
+
+###### Artigo 5.º — Divulgação
+
+1 - Incumbe à administração regional promover a publicação regular e gratuita de edições informativas sobre planeamento familiar onde constem, entre outras, informações sobre locais, horários e regime de funcionamento das respectivas consultas.
+
+2 - A administração regional deve promover e colaborar em acções e campanhas de divulgação de métodos e meios de planeamento familiar.
+
+###### Artigo 6.º — Consultas
+
+Nos centros de saúde da Região e nos serviços de ginecologia e obstetrícia dos hospitais de Ponta Delgada, Angra do Heroísmo e Horta implementar-se-ão consultas específicas de planeamento familiar.
+
+###### Artigo 7.º — Áreas das consultas de planeamento familiar
+
+As consultas específicas de planeamento familiar abrangerão as seguintes áreas:
+
+a) Informação sobre os direitos sexuais e reprodutivos do indivíduo, incluindo os fenómenos de violência e abuso sexuais;
+
+b) Informação sobre os métodos contraceptivos que permita uma decisão livre e responsável sobre o número de filhos e o intervalo entre o seu nascimento;
+
+c) Fornecimento gratuito de meios contraceptivos;
+
+d) Detecção e orientação dos indivíduos com problemas genéticos e de infertilidade;
+
+e) Promoção da saúde sexual, nomeadamente através da informação sobre sexualidade, aconselhamento do casal, rastreio do cancro genital e prevenção das doenças sexualmente transmissíveis, designadamente as transmitidas pelo HIV e pelos vírus das hepatites B e C;
+
+f) Informação sobre a adopção em colaboração com os serviços especializados.
+
+###### Artigo 8.º — Aconselhamento
+
+Na prossecução do objectivo de promoção do aconselhamento, incumbe à administração regional entre outras tarefas:
+
+a) Instalação progressiva nos centros de informação juvenil ou centros de saúde de um gabinete técnico de atendimento de jovens na área do planeamento familiar e sexualidade;
+
+b) Criação de uma linha telefónica directa e gratuita e de um site informativo com possibilidade de conversação, para aconselhamento sobre sexualidade, gravidez, planeamento familiar, infertilidade e prevenção de doenças.
+
+###### Artigo 9.º — Tratamento da infertilidade
+
+1 - Compete aos centros de saúde a detecção e encaminhamento para os serviços e consultas especializadas das situações de infertilidade ou de doenças genéticas.
+
+2 - Sempre que se constate a insuficiência dos recursos humanos, técnicos e científicos existentes na Região, os utentes serão encaminhados para centros ou serviços especializados, de acordo com as regras instituídas para os restantes cuidados de saúde.
+
+###### Artigo 10.º — Informação dos cuidados pós-parto
+
+A cada mulher, mãe pela primeira vez, a administração regional garante a entrega de documentação relativa aos primeiros cuidados com o bebé e com a mãe, bem como sobre os métodos recomendados para a contracepção pós-parto.
+
+###### Artigo 11.º — Formação
+
+1 - As acções de formação para o pessoal a exercer funções nas consultas específicas de planeamento familiar e nos centros de informação juvenil devem, nomeadamente, incidir sobre os seguintes temas:
+
+a) Anatomia e fisiologia da reprodução;
+
+b) Mecanismos de actuação dos métodos contraceptivos, grau de eficácia, contra-indicações e efeitos secundários;
+
+c) Informação sobre sexualidade humana e suas disfunções;
+
+d) Aspectos psicológicos e sociológicos do planeamento familiar;
+
+e) Noções gerais de infertilidade e doenças genéticas;
+
+f) Doenças sexualmente transmissíveis e aquisição de comportamentos para a sua prevenção;
+
+g) Técnicas de informação, educação e comunicação em planeamento familiar.
+
+2 - Para além dos temas constantes das alíneas do número anterior, as acções de formação para o pessoal a exercer funções nos centros de informação juvenil devem incluir ainda:
+
+a) Desenvolvimento psicológico e sócio-cultural do adolescente;
+
+b) Desenvolvimento e comportamento sexuais;
+
+c) Problemas de comportamento social dos adolescentes;
+
+d) Prevenção de comportamentos sexuais de risco.
+
+### CAPÍTULO III — Educação afectivo-sexual
+
+###### Artigo 12.º — Formação e aconselhamento
+
+1 - O Sistema Educativo Regional deve assegurar a formação adequada nas áreas da afectividade e da sexualidade ao pessoal docente, não docente, aos alunos e aos pais, na qualidade de educadores.
+
+2 - Médicos, enfermeiros e outros técnicos de saúde podem ser chamados para apoio à docência ou para a orientação individual necessários, através de contratos-programa.
+
+###### Artigo 13.º — Projecto educativo
+
+A administração regional deve assegurar a inclusão no plano anual de actividades, através do projecto educativo da escola, a concretização na Região dos artigos 2.º e 3.º da [Lei n.º 120/99](https://diariodarepublica.pt/dr/detalhe/lei/120-1999-423065), de 11 de Agosto, com a respectiva calendarização e identificação dos responsáveis pela sua implementação.
+
+###### Artigo 14.º — Documentação
+
+A administração regional assegura que, em cada ano escolar, seja entregue aos alunos documentação, adequada a cada grupo etário, sobre comunicação e relações humanas, ética, cidadania e planeamento familiar.
+
+### CAPÍTULO IV — Disposições finais
+
+###### Artigo 15.º — Informação à Assembleia Legislativa Regional
+
+O Governo Regional informa a Assembleia Legislativa Regional sobre a aplicação do quadro legal vigente na Região Autónoma dos Açores, relativo ao planeamento familiar e à educação afectivo-sexual, em cada ano, durante o 1.º semestre do ano seguinte.
+
+###### Artigo 16.º — Regulamentação
+
+A boa execução do disposto no presente diploma é assegurada pela regulamentação que se mostrar necessária.
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 7 de Junho de 2000.
+
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
+
+Assinado em Angra do Heroísmo em 6 de Julho de 2000.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

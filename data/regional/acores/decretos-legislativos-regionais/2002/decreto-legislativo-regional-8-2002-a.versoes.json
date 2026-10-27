@@ -1,0 +1,1369 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:303252:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2002-119420465",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2002-303252",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-04-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119474282",
+    "119474283",
+    "119474284",
+    "119474285",
+    "119474286",
+    "119474287",
+    "119474288",
+    "119474289",
+    "119474290",
+    "119474291",
+    "119474292",
+    "119474293",
+    "119474294",
+    "119474295",
+    "119474296",
+    "119474297",
+    "119474298",
+    "119474299"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:241610:por",
+     "title": "Declaração de Rectificação n.º 19-A/2002",
+     "published": "2002-04-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/19-a-2002-241610",
+     "date": "2002-04-15"
+    }
+   ]
+  },
+  {
+   "date": "2007-10-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:629104:por",
+     "title": "Decreto Legislativo Regional n.º 22/2007/A",
+     "published": "2007-10-23",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/22-2007-629104"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119474364",
+    "119474283",
+    "119474284",
+    "119474285",
+    "119474365",
+    "119474287",
+    "119474366",
+    "119474289",
+    "119474367",
+    "119474291",
+    "119474292",
+    "119474293",
+    "119474294",
+    "119474295",
+    "119474296",
+    "119474297",
+    "119474298",
+    "119474299",
+    "119474300"
+   ]
+  },
+  {
+   "date": "2012-01-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:544588:por",
+     "title": "Decreto Legislativo Regional n.º 3/2012/A",
+     "published": "2012-01-13",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2012-544588"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119474364",
+    "119474283",
+    "119474284",
+    "119474285",
+    "119474365",
+    "119474287",
+    "119474366",
+    "119474289",
+    "119474367",
+    "119474291",
+    "119474292",
+    "119474293",
+    "119467620",
+    "119474295",
+    "119474296",
+    "119474297",
+    "119474298",
+    "119474299",
+    "119474300"
+   ]
+  },
+  {
+   "date": "2013-05-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:261110:por",
+     "title": "Decreto Legislativo Regional n.º 3/2013/A",
+     "published": "2013-05-23",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2013-261110"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119474364",
+    "119474283",
+    "119474284",
+    "119474285",
+    "119474365",
+    "119474287",
+    "119467626",
+    "119474289",
+    "119474367",
+    "119474291",
+    "119474292",
+    "119474293",
+    "119467620",
+    "119474295",
+    "119474296",
+    "119474297",
+    "119474298",
+    "119474299",
+    "119474300"
+   ]
+  },
+  {
+   "date": "2014-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570685:por",
+     "title": "Decreto Legislativo Regional n.º 2/2014/A",
+     "published": "2014-01-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2014-570685"
+    }
+   ],
+   "changes": [
+    "Adita Anexo I",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119474364",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "119467626",
+    "119474289",
+    "119474367",
+    "119477199",
+    "119477187",
+    "119477188",
+    "119477189",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ]
+  },
+  {
+   "date": "2014-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:59077887:por",
+     "title": "Decreto Legislativo Regional n.º 22/2014/A",
+     "published": "2014-11-27",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/22-2014-59077887"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119474364",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "119467626",
+    "119474289",
+    "119474367",
+    "119477199",
+    "119477187",
+    "119477230",
+    "119477231",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ]
+  },
+  {
+   "date": "2015-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66880175:por",
+     "title": "Decreto Legislativo Regional n.º 8/2015/A",
+     "published": "2015-03-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2015-66880175"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119474364",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "119467626",
+    "119474289",
+    "119474367",
+    "119477199",
+    "119477187",
+    "119477260",
+    "119477261",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:73070297:por",
+     "title": "Decreto Legislativo Regional n.º 1/2016/A",
+     "published": "2016-01-08",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2016-73070297",
+     "date": "2016-01-01"
+    }
+   ]
+  },
+  {
+   "date": "2017-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106874649:por",
+     "title": "Decreto Legislativo Regional n.º 3/2017/A",
+     "published": "2017-04-13",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2017-106874649"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119474364",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "119477264",
+    "119474289",
+    "119477265",
+    "119477199",
+    "119477187",
+    "119477262",
+    "119477263",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ]
+  },
+  {
+   "date": "2018-01-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114440373:por",
+     "title": "Decreto Legislativo Regional n.º 1/2018/A",
+     "published": "2018-01-03",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2018-114440373"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119477266",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "119477267",
+    "119474289",
+    "119477268",
+    "119477199",
+    "119477187",
+    "119477262",
+    "119477263",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ]
+  },
+  {
+   "date": "2019-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:119397721:por",
+     "title": "Decreto Legislativo Regional n.º 6/2019/A",
+     "published": "2019-02-12",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2019-119397721"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119477266",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "119477267",
+    "119474289",
+    "119477269",
+    "119477199",
+    "119477187",
+    "119477262",
+    "119477263",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ]
+  },
+  {
+   "date": "2019-05-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122253267:por",
+     "title": "Decreto Legislativo Regional n.º 8/2019/A",
+     "published": "2019-05-09",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2019-122253267"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119477266",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "119477267",
+    "119474289",
+    "119477269",
+    "119477199",
+    "119477187",
+    "122265609",
+    "122265610",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ]
+  },
+  {
+   "date": "2020-01-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:127816253:por",
+     "title": "Decreto Legislativo Regional n.º 1/2020/A",
+     "published": "2020-01-08",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2020-127816253"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119477266",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "135059442",
+    "119474289",
+    "119477269",
+    "119477199",
+    "119477187",
+    "122265609",
+    "122265610",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ]
+  },
+  {
+   "date": "2020-06-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:135056056:por",
+     "title": "Decreto Legislativo Regional n.º 12/2020/A",
+     "published": "2020-06-03",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2020-135056056"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119477266",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "135059442",
+    "119474289",
+    "119477269",
+    "119477199",
+    "119477187",
+    "135059443",
+    "135059444",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ]
+  },
+  {
+   "date": "2022-05-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:183801105:por",
+     "title": "Decreto Legislativo Regional n.º 9/2022/A",
+     "published": "2022-05-23",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/9-2022-183801105"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119477266",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "179758379",
+    "119474289",
+    "119477269",
+    "119477199",
+    "119477187",
+    "183878475",
+    "183878476",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ]
+  },
+  {
+   "date": "2023-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223045469:por",
+     "title": "Decreto Legislativo Regional n.º 37/2023/A",
+     "published": "2023-10-20",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/37-2023-223045469"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119477266",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "206350376",
+    "119474289",
+    "119477269",
+    "119477199",
+    "119477187",
+    "223073355",
+    "223073356",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ]
+  },
+  {
+   "date": "2024-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901536098:por",
+     "title": "Decreto Legislativo Regional n.º 15/2024/A",
+     "published": "2024-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2024-901536098"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "119474279",
+    "119474280",
+    "119474281",
+    "119477266",
+    "119477197",
+    "119474284",
+    "119477198",
+    "119474365",
+    "119474287",
+    "206350376",
+    "119474289",
+    "119477269",
+    "119477199",
+    "119477187",
+    "901660808",
+    "901660809",
+    "119474295",
+    "119477200",
+    "119477190",
+    "119474298",
+    "119474299",
+    "119477201",
+    "119477196"
+   ]
+  }
+ ],
+ "fragments": {
+  "119474279": {
+   "fragment_id": "119420466",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 8/2002/A\n\nEstabelece o regime jurídico da atribuição do acréscimo regional ao salário mínimo, do complemento regional de pensão e da remuneração complementar regional.\n\nEm 2000 foram criados, na Região Autónoma dos Açores, os regimes jurídicos da atribuição do acréscimo regional ao salário mínimo no valor de 5%, do complemento regional de pensão e da remuneração complementar regional a conceder, respectivamente, aos trabalhadores por conta de outrem, aos pensionistas e aos agentes da administração regional e local com rendimentos inferiores aos estabelecidos como valor de incidência do imposto sobre o rendimento das pessoas singulares (IRS) e, como tal, não beneficiando do desagravamento fiscal instituído pelo Decreto Legislativo Regional n.º 2/99/A, de 20 de Janeiro.\n\nA criação destes regimes consta dos Decretos Legislativos Regionais n.os 1/2000/A, 2/2000/A e 3/2000/A, todos de 12 de Janeiro, e visa, por um lado, atenuar a diferença do nível do custo de vida nos Açores em relação ao continente, designadamente os derivados dos custos da insularidade, e, por outro, diminuir as desigualdades resultantes do baixo valor das remunerações ou pensões auferidas por uma faixa da população residente nos Açores, traduzindo-se numa medida de justiça social.\n\nDecorrido mais de um ano após a respectiva entrada em vigor, verificou-se a necessidade de proceder a uma significativa alteração de alguns dos normativos referentes ao complemento regional de pensão e à remuneração complementar regional, por forma a contemplar as lacunas e as dúvidas suscitadas pela implementação daqueles regimes, o que veio a merecer consagração legal através do artigo 16.º do Decreto Legislativo Regional n.º 8/2001/A, de 21 de Maio, que aprovou o Orçamento da Região Autónoma dos Açores para 2001.\n\nCom o presente diploma conseguiu-se condensar num só aqueles três decretos legislativos, conferindo-lhe a estabilidade jurídica que a sua actual inclusão no decreto do orçamento lhe retirava e a sua comum natureza de solução para a compensação dos custos da insularidade recomendada. Finalmente, além de melhorias técnicas decorrentes da sistematização ocorrida, introduziu-se uma nova regra de garantia para as actualizações anuais do complemento regional de pensão e da remuneração complementar regional.\n\nAssim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região, o seguinte:"
+  },
+  "119474280": {
+   "fragment_id": "119420467",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "119474281": {
+   "fragment_id": "119420468",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime jurídico relativo à atribuição, na Região Autónoma dos Açores, do acréscimo regional ao salário mínimo, do complemento regional de pensão e da remuneração complementar regional."
+  },
+  "119474282": {
+   "fragment_id": "119420469",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O regime previsto neste diploma aplica-se a todos os trabalhadores, funcionários, agentes e contratados a termo certo da administração pública regional e local e aos pensionistas com residência permanente na Região Autónoma dos Açores.\n\n2 - Para os efeitos do presente diploma, consideram-se trabalhadores quer os trabalhadores do serviço doméstico quer os dos restantes sectores.\n\n3 - Para os efeitos do presente diploma, consideram-se pensionistas os beneficiários que aufiram pensões, isolada ou conjuntamente, dos regimes da segurança social, incluindo os da pensão social e de invalidez, as doenças profissionais, os aposentados da função pública, os pensionistas de sobrevivência e os beneficiários de pensões de outros sistemas de protecção social, incluindo as pensões por acidentes de trabalho."
+  },
+  "119474283": {
+   "fragment_id": "119420470",
+   "type": 1,
+   "heading": "Capítulo II — Acréscimo regional ao salário mínimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acréscimo regional ao salário mínimo"
+  },
+  "119474284": {
+   "fragment_id": "119420471",
+   "type": 11,
+   "heading": "Artigo 3.º — Montante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Montante\n\nO montante do salário mínimo, estabelecido ao nível nacional para os trabalhadores por contra de outrem, tem, na Região Autónoma dos Açores, o acréscimo de 5%."
+  },
+  "119474285": {
+   "fragment_id": "119420472",
+   "type": 1,
+   "heading": "Capítulo III — Complemento regional de pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Complemento regional de pensão"
+  },
+  "119474286": {
+   "fragment_id": "119420473",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\n1 - Beneficiam do complemento regional de pensão os pensionistas que satisfaçam os requisitos previstos nos n.os 1 e 3 do artigo 2.º deste diploma.\n\n2 - Beneficiam igualmente do complemento regional de pensão os pensionistas que aufiram pensões de sistemas de segurança ou protecção social estrangeiros, cumulativamente ou não com pensões nacionais, e ainda os pensionistas do regime geral da segurança social que aufiram ajudas comunitárias à cessação de actividade, designadamente os produtores agrícolas abrangidos pela Portaria n.º 32/95, de 11 de Maio, cujas ajudas deverão entrar no cálculo para a atribuição do respectivo complemento de pensão.\n\n3 - Os pensionistas mencionados nos números anteriores apenas beneficiam do complemento regional de pensão se os montantes globais auferidos se integrarem no disposto do n.º 2 do artigo 6.º\n\n> Nota: [Artigo 55.º, Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501) No ano de 2023, o Governo Regional garante aos beneficiários do complemento regional de pensão, previsto no presente Decreto Legislativo Regional, um aumento até 15 %."
+  },
+  "119474287": {
+   "fragment_id": "119420474",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuição\n\nO complemento regional de pensão é atribuído mediante requerimento apresentado pelo interessado, sendo pago pelos serviços regionais da segurança social em 14 mensalidades, das quais 2 no mês de Julho e 2 no mês de Dezembro."
+  },
+  "119474288": {
+   "fragment_id": "119474475",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Montante\n\n1 - O montante do complemento regional de pensão é determinado nos termos do artigo 13.º do presente diploma.\n\n2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja pensão seja inferior ou igual ao salário mínimo;\n\nb) 90% para aqueles cuja pensão seja superior ao salário mínimo e inferior ou igual a 75000$00 ((euro) 374,10);\n\nc) 70% para aqueles cuja pensão seja superior a 75000$00 ((euro) 374,10) e inferior ou igual a 100000$00 ((euro) 498,80);\n\nd) 50% para aqueles cuja pensão seja superior a 100000$00 ((euro) 498,80) até ao limite em que a sua aplicação não resulte num rendimento tributável em sede de IRS.\n\n3 - Sempre que da atribuição do complemento regional de pensão resultar a mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), devidamente comprovada pelo beneficiário, será garantido, sobre o montante ilíquido apurado nos termos do número anterior, o acréscimo de complemento correspondente a 25% do quantitativo referido no mesmo número.\n\n> Nota: [Artigo 63.º, Decreto Legislativo Regional n.º 2/2024/A - Diário da República n.º 120/2024, Série I de 2024-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290) No ano de 2024, o Governo Regional garante aos beneficiários do complemento regional de pensão, previsto no presente diploma, um aumento, nos seguintes termos: a) Para os beneficiários do escalão previsto na alínea a) do n.º 2 do presente artigo, um aumento de 20 %; b) Para os beneficiários dos escalões previstos nas alíneas b), c) e e) do n.º 2 do presente artigo, um aumento de 10 %; c) Para os beneficiários dos escalões previstos nas alíneas f), g) e h) do n.º 2 do presente artigo, um aumento de 5 %."
+  },
+  "119474289": {
+   "fragment_id": "119474476",
+   "type": 11,
+   "heading": "Artigo 7.º — Cabimento orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cabimento orçamental\n\nNo orçamento da Região existirá, em rubrica própria, a verba necessária à satisfação da execução do complemento regional de pensão, sob a designação «Complemento regional de pensão»."
+  },
+  "119474290": {
+   "fragment_id": "119474477",
+   "type": 11,
+   "heading": "Artigo 8.º — Prova de pensão auferida e prova de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prova de pensão auferida e prova de residência\n\n1 - De Janeiro a Março de cada ano os beneficiários apresentarão nos serviços da segurança social documento que comprove o quantitativo que auferem referente à pensão ou pensões que lhes dá o direito ao complemento regional de pensão, excluindo aquelas que sejam do conhecimento oficioso daquela entidade.\n\n2 - Os pensionistas referidos no artigo 4.º deverão, na data mencionada no número anterior, fazer prova de possuírem residência permanente na Região.\n\n3 - Qualquer cidadão que passe à situação de pensionista e reúna as condições para beneficiar do complemento regional de pensão deve apresentar, conjuntamente com o requerimento, nos 90 dias subsequentes, os documentos que comprovem o quantitativo da respectiva pensão e prova de residência, respectivamente, nos termos dos números anteriores.\n\n4 - O requerimento referido no número anterior poderá ainda ser apresentado em qualquer momento para além daquele prazo, processando-se neste caso o respectivo complemento a partir da data da sua apresentação."
+  },
+  "119474291": {
+   "fragment_id": "119474478",
+   "type": 1,
+   "heading": "Capítulo IV — Remuneração complementar regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Remuneração complementar regional"
+  },
+  "119474292": {
+   "fragment_id": "119474479",
+   "type": 11,
+   "heading": "Artigo 9.º — Processamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Processamento\n\n1 - A remuneração complementar regional é abonada em 14 mensalidades.\n\n2 - À remuneração complementar regional é aplicável o regime da remuneração base quanto a férias, faltas e processo de pagamento, sobre ela incidindo os descontos obrigatórios previstos na lei."
+  },
+  "119474293": {
+   "fragment_id": "119474480",
+   "type": 11,
+   "heading": "Artigo 10.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Beneficiários\n\nBeneficiam da remuneração complementar regional os funcionários, os agentes e os contratados a termo certo da administração pública regional e local que exerçam funções na Região Autónoma dos Açores e cuja remuneração seja igual ou inferior à do índice 380.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887) O n.º 2 do artigo 10.º produz efeitos a partir de 1 de outubro de 2014."
+  },
+  "119474294": {
+   "fragment_id": "119474481",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Montante\n\n1 - O montante mensal da remuneração complementar regional é determinado nos termos do artigo 13.º do presente diploma.\n\n2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja remuneração seja inferior ao índice 137;\n\nb) 90% para aqueles cuja remuneração esteja compreendida entre os índices 137 e 180, inclusive;\n\nc) 85% para aqueles cuja remuneração esteja compreendida entre os índices 181 e 204, inclusive;\n\nd) 80% para aqueles cuja remuneração esteja compreendida entre os índices 205 e 224, inclusive;\n\ne) 70% para aqueles cuja remuneração esteja compreendida entre os índices 225 e 249, inclusive;\n\nf) 60% para aqueles cuja remuneração esteja compreendida entre os índices 250 e 269, inclusive;\n\ng) 55% para aqueles cuja remuneração esteja compreendida entre os índices 270 e 304, inclusive;\n\nh) 45% para aqueles cuja remuneração esteja compreendida entre os índices 305 e 319, inclusive;\n\ni) 40% para aqueles cuja remuneração esteja compreendida entre os índices 320 e 329, inclusive;\n\nj) 35% para aqueles cuja remuneração esteja compreendida entre os índices 330 e 354, inclusive;\n\nk) 25% para aqueles cuja remuneração esteja compreendida entre os índices 355 e 380, inclusive.\n\n3 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25% do quantitativo referido no mesmo número.\n\n> Nota: [Artigo 61.º, Decreto Legislativo Regional n.º 2/2024/A - Diário da República n.º 120/2024, Série I de 2024-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290) O montante da remuneração complementar regional a que se refere o n.º 1 do presente artigo, é atualizado, com efeitos a 1 de janeiro de 2024, em 5 %.\n\n> Nota: [Artigo 53.º, Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501) O montante da remuneração complementar regional a que se refere o n.º 1 do presente artigo, é atualizado, com efeitos a 1 de janeiro de 2023, em 5 %."
+  },
+  "119474295": {
+   "fragment_id": "119474482",
+   "type": 11,
+   "heading": "Artigo 12.º — Índices",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Índices\n\n1 - Os índices referidos no n.º 2 do artigo anterior reportam-se à escala remuneratória das carreiras do regime geral da função pública.\n\n2 - Para os efeitos de aplicação do artigo anterior, os índices do pessoal integrado em carreiras específicas da Região, do regime especial e em corpos especiais são convertidos em montante remuneratório idêntico ao dos índices da escala indiciária do regime geral da função pública."
+  },
+  "119474296": {
+   "fragment_id": "119474483",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "119474297": {
+   "fragment_id": "119474484",
+   "type": 11,
+   "heading": "Artigo 13.º — Actualização de montantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Actualização de montantes\n\n1 - Os montantes do complemento regional de pensão e da remuneração complementar regional a que se referem, respectivamente, o n.º 1 do artigo 6.º e o n.º 1 do artigo 11.º do presente diploma são fixados e actualizados anualmente mediante resolução do Conselho do Governo, com efeitos a partir de 1 de Janeiro de cada ano, tendo em conta, designadamente, os valores previstos para a inflação, não podendo, no entanto, aquelas actualizações ser inferiores ao aumento percentual que vier a ser fixado para o índice 100 da escala remuneratória do regime geral da função pública.\n\n2 - Para os efeitos do disposto no número anterior, o Governo Regional ouvirá o Conselho Regional de Concertação Social.\n\n> Nota: [Artigo 34.º, Decreto Legislativo Regional n.º 1/2015/A - Diário da República n.º 4/2015, Série I de 2015-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2015-66041469) É aumentado em 2% o valor do complemento regional de pensão, fixando-se em (euro)743 o apoio atribuído anualmente aos beneficiários do 1.º escalão."
+  },
+  "119474298": {
+   "fragment_id": "119474485",
+   "type": 11,
+   "heading": "Artigo 14.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Legislação revogada\n\nSão revogados os Decretos Legislativos Regionais n.os 1/2000/A, 2/2000/A e 3/2000/A, todos de 12 de Janeiro, e o artigo 16.º do Decreto Legislativo Regional n.º 8/2001/A, de 21 de Maio."
+  },
+  "119474299": {
+   "fragment_id": "119474486",
+   "type": 11,
+   "heading": "Artigo 15.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Produção de efeitos\n\nO presente diploma produz efeitos a partir de 1 de Janeiro de 2002."
+  },
+  "119474364": {
+   "fragment_id": "119420469",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2007-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O regime previsto neste diploma aplica-se a todos os trabalhadores, funcionários, agentes e contratados a termo certo da administração pública regional e local e aos pensionistas com residência permanente na Região Autónoma dos Açores.\n\n2 - Para os efeitos do presente diploma, consideram-se trabalhadores quer os trabalhadores do serviço doméstico quer os dos restantes sectores.\n\n3 - Para os efeitos do presente diploma, consideram-se pensionistas os beneficiários titulares de pensões, isoladas ou conjuntas, dos regimes de segurança social e de aposentados da função pública, incluindo os beneficiários de pensões sociais, de doenças profissionais, de sobrevivência, de acidente de trabalho, bem como os beneficiários de pensões de outros sistemas de protecção social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+  },
+  "119474365": {
+   "fragment_id": "119420473",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": "2007-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\n1 - Beneficiam do complemento regional de pensão os pensionistas que satisfaçam os requisitos previstos nos n.os 1 e 3 do artigo 2.º deste diploma.\n\n2 - Beneficiam igualmente do complemento regional de pensão os pensionistas de sistemas de segurança ou protecção social estrangeiros, cumulativamente ou não com pensões nacionais, e ainda os pensionistas do regime geral da segurança social que aufiram ajudas comunitárias à cessação de actividade, designadamente os produtores agrícolas abrangidos pela Portaria n.º 32/95, de 11 de Maio, cujas ajudas deverão entrar no cálculo para a atribuição do respectivo complemento de pensão.\n\n3 - Os pensionistas mencionados nos números anteriores apenas beneficiam do complemento regional de pensão se os montantes globais auferidos se integrarem no disposto do n.º 2 do artigo 6.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+  },
+  "119474366": {
+   "fragment_id": "119474475",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante",
+   "in_force_from": "2007-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Montante\n\n1 - O montante do complemento regional de pensão é determinado nos termos do artigo 13.º do presente diploma.\n\n2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja pensão seja inferior ou igual ao salário mínimo;\n\nb) 90 % para aqueles cuja pensão seja superior ao salário mínimo e inferior ou igual a 1,044 desse valor;\n\nc) 70 % para aqueles cuja pensão seja superior a 1,044 do salário mínimo e inferior ou igual a 1,339 desse valor;\n\nd) 50 % para aqueles cuja pensão seja superior a 1,339 do salário mínimo até ao limite em que a sua aplicação não resulte num rendimento tributável em sede de IRS.\n\n3 - Para efeitos de apuramento de rendimentos são excluídos os montantes auferidos a título de complemento por dependência, complemento por cônjuge a cargo, complemento solidário para idoso e outros de natureza análoga.\n\n3 - Sempre que da atribuição do complemento regional de pensão resultar a mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), devidamente comprovada pelo beneficiário, será garantido, sobre o montante ilíquido apurado nos termos do número anterior, o acréscimo de complemento correspondente a 25% do quantitativo referido no mesmo número.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+  },
+  "119474367": {
+   "fragment_id": "119474477",
+   "type": 11,
+   "heading": "Artigo 8.º — Prova de pensão auferida e prova de residência",
+   "in_force_from": "2007-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Prova de pensão auferida e prova de residência\n\n1 - De Janeiro a Março de cada ano os beneficiários apresentarão nos serviços da segurança social documento que comprove o quantitativo que auferem referente à pensão ou pensões que lhes dá o direito ao complemento regional de pensão, excluindo aquelas que sejam do conhecimento oficioso daquela entidade.\n\n2 - Os pensionistas referidos no artigo 4.º deverão, na data mencionada no número anterior, fazer prova de possuírem residência permanente na Região.\n\n3 - Para efeitos do número anterior, entende-se por residência permanente a residência na Região ou permanência no respectivo território por mais de 183 dias, nesta se situando a sua residência habitual e que aí esteja registado para efeitos fiscais.\n\n4 - Excluem-se do disposto no n.º 2 os beneficiários que se encontrem em situação de doença prolongada e os estudantes deslocados fora da Região, cuja situação se encontre devidamente comprovada.\n\n5 - Qualquer cidadão que passe à situação de pensionista e reúna as condições para beneficiar do complemento regional de pensão deve apresentar, conjuntamente com o requerimento, nos 90 dias subsequentes, os documentos que comprovem o quantitativo da respectiva pensão e prova de residência, respectivamente, nos termos dos números anteriores.\n\n6 - O requerimento referido no número anterior, bem como os documentos referidos nos n.os 1, 2 e 4, poderão ainda ser apresentados em qualquer momento para além daquele prazo, processando-se, neste caso, o respectivo complemento a partir do mês seguinte à data da sua apresentação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+  },
+  "119474300": {
+   "fragment_id": "119474487",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 21 de Fevereiro de 2002.\n\nO Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 12 de Março de 2002.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  },
+  "119467620": {
+   "fragment_id": "119474481",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante",
+   "in_force_from": "2012-01-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Montante\n\n1 - O montante mensal da remuneração complementar regional é determinado nos termos do artigo 13.º do presente diploma.\n\n2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja remuneração seja igual ou inferior à retribuição mínima mensal garantida;\n\nb) 90 % para aqueles cuja remuneração seja superior à retribuição mínima mensal garantida e inferior a 619 (euro);\n\nc) 85% para aqueles cuja remuneração esteja compreendida entre os índices 181 e 204, inclusive;\n\nd) 80% para aqueles cuja remuneração esteja compreendida entre os índices 205 e 224, inclusive;\n\ne) 70% para aqueles cuja remuneração esteja compreendida entre os índices 225 e 249, inclusive;\n\nf) 60% para aqueles cuja remuneração esteja compreendida entre os índices 250 e 269, inclusive;\n\ng) 55% para aqueles cuja remuneração esteja compreendida entre os índices 270 e 304, inclusive;\n\nh) 45% para aqueles cuja remuneração esteja compreendida entre os índices 305 e 319, inclusive;\n\ni) 40% para aqueles cuja remuneração esteja compreendida entre os índices 320 e 329, inclusive;\n\nj) 35% para aqueles cuja remuneração esteja compreendida entre os índices 330 e 354, inclusive;\n\nk) 25% para aqueles cuja remuneração esteja compreendida entre os índices 355 e 380, inclusive.\n\n3 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25% do quantitativo referido no mesmo número.\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+  },
+  "119467626": {
+   "fragment_id": "119474475",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante",
+   "in_force_from": "2013-05-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Montante\n\n1 - O montante do complemento regional de pensão é determinado nos termos do artigo 13.º do presente diploma.\n\n2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja pensão seja inferior ou igual ao salário mínimo;\n\nb) 90 % para aqueles cuja pensão seja superior ao salário mínimo e inferior ou igual a 1,044 desse valor;\n\nc) 70 % para aqueles cuja pensão seja superior a 1,044 do salário mínimo e inferior ou igual a 1,339 desse valor;\n\nd) 50% para aqueles cuja pensão seja superior a 1,339 do salário mínimo e inferior ou igual a 696,00 (euro);\n\ne) 50% para aqueles cuja pensão seja superior a 1,339 do salário mínimo e inferior ou igual a 1.693,00 (euro), no caso de pensionistas deficientes.\n\n3 - Para efeitos de apuramento de rendimentos são excluídos os montantes auferidos a título de complemento por dependência, complemento por cônjuge a cargo, complemento solidário para idoso e outros de natureza análoga.\n\n3 - Sempre que da atribuição do complemento regional de pensão resultar a mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), devidamente comprovada pelo beneficiário, será garantido, sobre o montante ilíquido apurado nos termos do número anterior, o acréscimo de complemento correspondente a 25% do quantitativo referido no mesmo número.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+  },
+  "119477197": {
+   "fragment_id": "119420470",
+   "type": 1,
+   "heading": "Capítulo II — Acréscimo regional ao salário mínimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acréscimo regional ao salário mínimo"
+  },
+  "119477198": {
+   "fragment_id": "119420472",
+   "type": 1,
+   "heading": "Capítulo III — Complemento regional de pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Complemento regional de pensão"
+  },
+  "119477199": {
+   "fragment_id": "119474478",
+   "type": 1,
+   "heading": "Capítulo IV — Remuneração complementar regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Remuneração complementar regional"
+  },
+  "119477187": {
+   "fragment_id": "119474479",
+   "type": 11,
+   "heading": "Artigo 9.º — Processamento",
+   "in_force_from": "2014-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Processamento\n\nA remuneração complementar regional é abonada nas situações em que a remuneração é paga de uma só vez, sendo-lhe aplicável o regime da remuneração base quanto a faltas e processo de pagamento, sobre ela incidindo os descontos obrigatórios previstos na Lei.\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "119477188": {
+   "fragment_id": "119474480",
+   "type": 11,
+   "heading": "Artigo 10.º — Beneficiários",
+   "in_force_from": "2014-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Beneficiários\n\n1 - Beneficiam da remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, nos termos do artigo seguinte.\n\n2 - A atribuição da remuneração complementar aos trabalhadores do setor público empresarial regional e respetiva tabela faz-se nos termos de resolução do Governo Regional.\n\n3 - A decisão de atribuição da remuneração complementar aos trabalhadores das autarquias e do setor empresarial municipal compete aos respetivos órgãos decisórios, constando a respetiva tabela da resolução a que se refere o número anterior.\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "119477189": {
+   "fragment_id": "119474481",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante",
+   "in_force_from": "2014-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Montante\n\n1 - A remuneração complementar regional é atribuída aos trabalhadores que aufiram remuneração base até (euro) 3 050,00 inclusive, conforme tabela anexa ao presente diploma, do qual faz parte integrante.\n\n2 - Para o cálculo da remuneração complementar é tido como valor de referência o montante de (euro) 100.\n\n3 - Ao valor da remuneração complementar são deduzidos os suplementos remuneratórios derivados de trabalho suplementar, extraordinário, ou em dias de descanso e feriados, ou outros de idêntica natureza.\n\n4 - Sempre que da atribuição da remuneração complementar resulte uma inversão relativa da remuneração dos trabalhadores, a remuneração complementar será reduzida na diferença desse montante.\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+  },
+  "119477200": {
+   "fragment_id": "119474483",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "119477190": {
+   "fragment_id": "119474484",
+   "type": 11,
+   "heading": "Artigo 13.º — Actualização de montantes",
+   "in_force_from": "2014-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Actualização de montantes\n\n1 - Os montantes do complemento regional de pensão e da remuneração complementar regional a que se referem, respectivamente, o n.º 1 do artigo 6.º e o n.º 1 do artigo 11.º do presente diploma são fixados e actualizados anualmente mediante resolução do Conselho do Governo, com efeitos a partir de 1 de Janeiro de cada ano, tendo em conta, designadamente, os valores previstos para a inflação, não podendo, no entanto, aquelas actualizações ser inferiores ao aumento percentual que vier a ser fixado para o índice 100 da escala remuneratória do regime geral da função pública.\n\n2 - A atualização do valor de referência da remuneração complementar será feita através de resolução do Conselho do Governo Regional.\n\n3 - Para os efeitos do disposto no número anterior, o Governo Regional ouvirá o Conselho Regional de Concertação Social.\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "119477201": {
+   "fragment_id": "119478075",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "## Anexo I\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "119477196": {
+   "fragment_id": "119474487",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 21 de Fevereiro de 2002.\n\nO Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 12 de Março de 2002.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  },
+  "119477230": {
+   "fragment_id": "119474480",
+   "type": 11,
+   "heading": "Artigo 10.º — Beneficiários",
+   "in_force_from": "2014-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Beneficiários\n\n1 - Beneficiam de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, cuja remuneração base seja igual ou inferior a (euro) 1.304,00.\n\n2 - Beneficiam, ainda, de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional da Região Autónoma dos Açores, cujas remunerações totais ilíquidas mensais sejam superiores a (euro) 1.500,00 e até (euro) 2.080,00, inclusive.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887) O n.º 2 do artigo 10.º produz efeitos a partir de 1 de outubro de 2014.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "119477231": {
+   "fragment_id": "119474481",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante",
+   "in_force_from": "2014-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Montante\n\n1 - O montante mensal da remuneração complementar regional a que se refere o n.º 1 do artigo 10.º é determinado nos termos do artigo 13.º do presente diploma, sendo o montante efetivo a abonar determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja remuneração base seja igual ou inferior à retribuição mínima mensal garantida (RMMG);\n\nb) 90 % para aqueles cuja remuneração base seja superior à RMMG e inferior a (euro) 619,00;\n\nc) 85 % para aqueles cuja remuneração base esteja compreendida entre (euro) 619,00 e (euro) 700,00, inclusive;\n\nd) 80 % para aqueles cuja remuneração base esteja compreendida entre (euro) 701,00 e (euro) 769,00, inclusive;\n\ne) 70 % para aqueles cuja remuneração base esteja compreendida entre (euro) 770,00 e (euro) 855,00, inclusive;\n\nf) 60 % para aqueles cuja remuneração base esteja compreendida entre (euro) 856,00 e (euro) 923,00, inclusive;\n\ng) 55 % para aqueles cuja remuneração base esteja compreendida entre (euro) 924,00 e (euro) 1.044,00, inclusive;\n\nh) 45 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.045,00 e (euro) 1.095,00, inclusive;\n\ni) 40 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.096,00 e (euro) 1.129,00, inclusive;\n\nj) 35 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.130,00 e (euro) 1.215,00, inclusive;\n\nk) 25 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.216,00 e (euro) 1.304,00, inclusive.\n\n2 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25 % do quantitativo referido no mesmo número.\n\n3 - O montante mensal da remuneração complementar regional a que se refere o n.º 2 do artigo 10.º consta da tabela em anexo ao presente diploma, do qual faz parte integrante, sendo para o seu cálculo tido como referência o montante de (euro) 77,35.\n\n4 - A decisão de atribuição da remuneração complementar a que se refere o n.º 2 do artigo 10.º aos trabalhadores da administração local e do setor empresarial local compete aos respetivos órgãos decisórios.\n\n5 - A atribuição de uma remuneração complementar a trabalhadores do setor público empresarial regional e respetiva tabela faz-se nos termos a determinar em resolução do Governo Regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+  },
+  "119477260": {
+   "fragment_id": "119474480",
+   "type": 11,
+   "heading": "Artigo 10.º — Beneficiários",
+   "in_force_from": "2015-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Beneficiários\n\n1 - Beneficiam de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, cuja remuneração base seja igual ou inferior a (euro) 1.304,99.\n\n2 - Beneficiam, ainda, de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional da Região Autónoma dos Açores, cujas remunerações totais ilíquidas mensais sejam superiores a (euro) 1.500,00 e até (euro) 2.080,00, inclusive.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887) O n.º 2 do artigo 10.º produz efeitos a partir de 1 de outubro de 2014.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "119477261": {
+   "fragment_id": "119474481",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante",
+   "in_force_from": "2015-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Montante\n\n1 - O montante mensal da remuneração complementar regional a que se refere o n.º 1 do artigo 10.º é determinado nos termos do artigo 13.º do presente diploma, sendo o montante efetivo a abonar determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja remuneração base seja igual ou inferior à retribuição mínima mensal garantida (RMMG);\n\nb) 90 % para aqueles cuja remuneração base seja superior à RMMG e inferior a (euro) 619,00;\n\nc) 85 % para aqueles cuja remuneração base esteja compreendida entre (euro) 619,00 e (euro) 700,99, inclusive;\n\nd) 80 % para aqueles cuja remuneração base esteja compreendida entre (euro) 701,00 e (euro) 769,99, inclusive;\n\ne) 70 % para aqueles cuja remuneração base esteja compreendida entre (euro) 770,00 e (euro) 855,99, inclusive;\n\nf) 60 % para aqueles cuja remuneração base esteja compreendida entre (euro) 856,00 e (euro) 923,99, inclusive;\n\ng) 55 % para aqueles cuja remuneração base esteja compreendida entre (euro) 924,00 e (euro) 1.044,99, inclusive;\n\nh) 45 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.045,00 e (euro) 1.095,99, inclusive;\n\ni) 40 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.096,00 e 1.129,99, inclusive;\n\nj) 35 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.130,00 e 1.215,99, inclusive;\n\nk) 25 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.216,00 e (euro) 1.304,99, inclusive.\n\n2 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25 % do quantitativo referido no mesmo número.\n\n3 - O montante mensal da remuneração complementar regional a que se refere o n.º 2 do artigo 10.º consta da tabela em anexo ao presente diploma, do qual faz parte integrante, sendo para o seu cálculo tido como referência o montante de (euro) 61,88.\n\n4 - A decisão de atribuição da remuneração complementar a que se refere o n.º 2 do artigo 10.º aos trabalhadores da administração local e do setor empresarial local compete aos respetivos órgãos decisórios.\n\n5 - A atribuição de uma remuneração complementar a trabalhadores do setor público empresarial regional e respetiva tabela faz-se nos termos a determinar em resolução do Governo Regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+  },
+  "119477264": {
+   "fragment_id": "119474475",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante",
+   "in_force_from": "2017-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Montante\n\n1 - O montante do complemento regional de pensão é determinado nos termos do artigo 13.º do presente diploma.\n\n2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cujos rendimentos mensais sejam inferiores ou iguais à retribuição mínima mensal garantida;\n\nb) 90 % para aqueles cujos rendimentos mensais sejam superiores à retribuição mínima mensal garantida e inferior ou igual a 1,044 desse valor;\n\nc) 70 % para aqueles cujos rendimentos mensais sejam superiores a 1,044 da retribuição mínima mensal garantida e inferior ou igual a 696,00 (euro);\n\nd) (Revogada);\n\ne) 50 % para aqueles cujos rendimentos mensais sejam superiores a 696,00 (euro) e inferior ou igual a 1.693,00 (euro), no caso de pensionistas deficientes.\n\n3 - Para efeitos do disposto no número anterior, são relevantes os rendimentos mensais de pensão, trabalho e atividade por conta própria.\n\n4 - Para efeitos do disposto no n.º 2, entende-se por retribuição mínima mensal garantida, o montante previsto no artigo 3.º\n\n5- Para efeitos de apuramento de rendimentos são excluídos os montantes auferidos a título de complemento por dependência, complemento por cônjuge a cargo, complemento solidário para idoso e outros de natureza análoga.\n\n6 - Sempre que da atribuição do complemento regional de pensão resultar a mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), devidamente comprovada pelo beneficiário, será garantido, sobre o montante ilíquido apurado nos termos do número anterior, o acréscimo de complemento correspondente a 25% do quantitativo referido no mesmo número.\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+  },
+  "119477265": {
+   "fragment_id": "119474477",
+   "type": 11,
+   "heading": "Artigo 8.º — Prova de rendimentos auferidos e prova de residência",
+   "in_force_from": "2017-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Prova de rendimentos auferidos e prova de residência\n\n1 - De janeiro a março de cada ano, os beneficiários, cujos rendimentos de pensão, trabalho ou atividade por conta própria, não sejam obtidos de forma oficiosa, através de troca eletrónica de dados com as entidades detentoras da respetiva informação, apresentam nos serviços de segurança social documento que comprove o quantitativo mensal que auferem.\n\n2 - Os pensionistas referidos no artigo 4.º deverão, na data mencionada no número anterior, fazer prova de possuírem residência permanente na Região.\n\n3 - Para efeitos do número anterior, entende-se por residência permanente a residência na Região ou permanência no respectivo território por mais de 183 dias, nesta se situando a sua residência habitual e que aí esteja registado para efeitos fiscais.\n\n4 - Excluem-se do disposto no n.º 2 os beneficiários que se encontrem em situação de doença prolongada e os estudantes deslocados fora da Região, cuja situação se encontre devidamente comprovada.\n\n5 - Qualquer cidadão que passe à situação de pensionista e reúna as condições para beneficiar do complemento regional de pensão deve apresentar, conjuntamente com o requerimento, nos 90 dias subsequentes, os documentos que comprovem o quantitativo da respectiva pensão e prova de residência, respectivamente, nos termos dos números anteriores.\n\n6 - O requerimento referido no número anterior, bem como os documentos referidos nos n.os 1, 2 e 4, poderão ainda ser apresentados em qualquer momento para além daquele prazo, processando-se, neste caso, o respectivo complemento a partir do mês seguinte à data da sua apresentação.\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+  },
+  "119477262": {
+   "fragment_id": "119474480",
+   "type": 11,
+   "heading": "Artigo 10.º — Beneficiários",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Beneficiários\n\n1 - Beneficiam de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, cuja remuneração base seja igual ou inferior a (euro) 1.304,99.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º, beneficiam, ainda, de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional da Região Autónoma dos Açores, cujas remunerações totais ilíquidas mensais sejam superiores a (euro) 1 500,00 e até (euro) 2 080,00, inclusive.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887) O n.º 2 do artigo 10.º produz efeitos a partir de 1 de outubro de 2014.\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "119477263": {
+   "fragment_id": "119474481",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Montante\n\n1 - O montante mensal da remuneração complementar regional a que se refere o n.º 1 do artigo 10.º é determinado nos termos do artigo 13.º do presente diploma, sendo o montante efetivo a abonar determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja remuneração base seja igual ou inferior à retribuição mínima mensal garantida (RMMG);\n\nb) 90 % para aqueles cuja remuneração base seja superior à RMMG e inferior a (euro) 619,00;\n\nc) 85 % para aqueles cuja remuneração base esteja compreendida entre (euro) 619,00 e (euro) 700,99, inclusive;\n\nd) 80 % para aqueles cuja remuneração base esteja compreendida entre (euro) 701,00 e (euro) 769,99, inclusive;\n\ne) 70 % para aqueles cuja remuneração base esteja compreendida entre (euro) 770,00 e (euro) 855,99, inclusive;\n\nf) 60 % para aqueles cuja remuneração base esteja compreendida entre (euro) 856,00 e (euro) 923,99, inclusive;\n\ng) 55 % para aqueles cuja remuneração base esteja compreendida entre (euro) 924,00 e (euro) 1.044,99, inclusive;\n\nh) 45 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.045,00 e (euro) 1.095,99, inclusive;\n\ni) 40 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.096,00 e 1.129,99, inclusive;\n\nj) 35 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.130,00 e 1.215,99, inclusive;\n\nk) 25 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1.216,00 e (euro) 1.304,99, inclusive.\n\n2 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25 % do quantit3 - O montante mensal da remuneração complementar regional a que se refere o n.º 2 do artigo 10.º consta da tabela em anexo ao presente diploma, do qual faz parte integrante, sendo para oativo referido no mesmo número.\n\n3 - O montante mensal da remuneração complementar regional a que se refere o n.º 2 do artigo 10.º consta da tabela em anexo ao presente diploma, do qual faz parte integrante, sendo para o seu cálculo tido como referência o montante de (euro) 61,88, reduzido ou abolido, respetivamente, em conformidade com a reversão ou com a ausência da redução remuneratória que venha a ser aplicada aos trabalhadores da Administração Pública.\n\n4 - A decisão de atribuição da remuneração complementar a que se refere o n.º 2 do artigo 10.º aos trabalhadores da administração local e do setor empresarial local compete aos respetivos órgãos decisórios.\n\n5 - A atribuição de uma remuneração complementar a trabalhadores do setor público empresarial regional e respetiva tabela faz-se nos termos a determinar em resolução do Governo Regional.\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+  },
+  "119477266": {
+   "fragment_id": "119420469",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2018-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O regime previsto neste diploma aplica-se a todos os trabalhadores, funcionários, agentes e contratados a termo certo da administração pública regional e local e aos pensionistas com residência permanente na Região Autónoma dos Açores.\n\n2 - Para os efeitos do presente diploma, consideram-se trabalhadores quer os trabalhadores do serviço doméstico quer os dos restantes sectores.\n\n3 - Para os efeitos do presente diploma, consideram-se pensionistas os beneficiários titulares de pensões, isoladas ou conjuntas, dos regimes de segurança social e de aposentados da função pública, incluindo os beneficiários de pensões sociais, de doenças profissionais, de sobrevivência, de acidente de trabalho, os beneficiários de prestação social de inclusão cujo grau de incapacidade, atribuído por atestado médico multiusos, seja igual ou superior a 80 %, bem como os beneficiários de pensões de outros sistemas de proteção social.\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+  },
+  "119477267": {
+   "fragment_id": "119474475",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante",
+   "in_force_from": "2018-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Montante\n\n1 - O montante do complemento regional de pensão é determinado nos termos do artigo 13.º do presente diploma.\n\n2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cujos rendimentos mensais sejam inferiores ou iguais à retribuição mínima mensal garantida;\n\nb) 90 % para aqueles cujos rendimentos mensais sejam superiores à retribuição mínima mensal garantida e inferior ou igual a 1,044 desse valor;\n\nc) 70 % para aqueles cujos rendimentos mensais sejam superiores a 1,044 da retribuição mínima mensal garantida e inferior ou igual a 696,00 (euro);\n\nd) (Revogada);\n\ne) 50 % para aqueles cujos rendimentos mensais sejam superiores a 696,00 (euro) e inferior ou igual a 1.693,00 (euro), no caso de pensionistas deficientes.\n\n3 - Para efeitos do disposto no número anterior, são relevantes os rendimentos mensais de pensão, prestação social de inclusão, trabalho e atividade por conta própria.\n\n4 - Para efeitos do disposto no n.º 2, entende-se por retribuição mínima mensal garantida, o montante previsto no artigo 3.º\n\n5- Para efeitos de apuramento de rendimentos são excluídos os montantes auferidos a título de complemento por dependência, complemento por cônjuge a cargo, complemento solidário para idoso e outros de natureza análoga.\n\n6 - Sempre que da atribuição do complemento regional de pensão resultar a mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), devidamente comprovada pelo beneficiário, será garantido, sobre o montante ilíquido apurado nos termos do número anterior, o acréscimo de complemento correspondente a 25% do quantitativo referido no mesmo número.\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+  },
+  "119477268": {
+   "fragment_id": "119474477",
+   "type": 11,
+   "heading": "Artigo 8.º — Prova de rendimentos auferidos e prova de residência",
+   "in_force_from": "2018-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Prova de rendimentos auferidos e prova de residência\n\n1 - De janeiro a março de cada ano, os beneficiários, cujos rendimentos de pensão, trabalho ou atividade por conta própria, não sejam obtidos de forma oficiosa, através de troca eletrónica de dados com as entidades detentoras da respetiva informação, apresentam nos serviços de segurança social documento que comprove o quantitativo mensal que auferem.\n\n2 - Os pensionistas referidos no artigo 4.º deverão, na data mencionada no número anterior, fazer prova de possuírem residência permanente na Região.\n\n3 - Para efeitos do número anterior, entende-se por residência permanente a residência na Região ou permanência no respectivo território por mais de 183 dias, nesta se situando a sua residência habitual e que aí esteja registado para efeitos fiscais.\n\n4 - Excluem-se do disposto no n.º 2 os beneficiários que se encontrem em situação de doença prolongada e os estudantes deslocados fora da Região, cuja situação se encontre devidamente comprovada.\n\n5 - Qualquer cidadão que passe à situação de pensionista ou beneficiário de prestação social de inclusão e reúna as condições para beneficiar do complemento regional de pensão deve apresentar, conjuntamente com o requerimento, nos noventa dias subsequentes, os documentos que comprovem o quantitativo da respetiva pensão ou prestação social e prova de residência, respetivamente, nos termos dos números anteriores.\n\n6 - O requerimento referido no número anterior, bem como os documentos referidos nos n.os 1, 2 e 4, poderão ainda ser apresentados em qualquer momento para além daquele prazo, processando-se, neste caso, o respectivo complemento a partir do mês seguinte à data da sua apresentação.\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+  },
+  "119477269": {
+   "fragment_id": "119474477",
+   "type": 11,
+   "heading": "Artigo 8.º — Prova de rendimentos auferidos e prova de residência",
+   "in_force_from": "2019-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2019/A - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2019-119397721), em vigor a partir de 2019-02-13",
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Prova de rendimentos auferidos e prova de residência\n\n1 - De janeiro a março de cada ano os beneficiários apresentarão nos serviços da segurança social, documento que comprove o quantitativo que auferem referente à pensão ou pensões que lhes dá o direito ao complemento regional de pensão, excluindo aquelas que sejam do conhecimento oficioso daquela entidade.\n\n2 - Para os pensionistas referidos no artigo 4.º, o prazo previsto no número anterior é prorrogado por três meses, mediante apresentação de cópia do requerimento dirigido aos sistemas de segurança ou proteção social estrangeiros.\n\n3 - Os pensionistas referidos no artigo 4.º deverão ainda, na data mencionada no n.º 1, fazer prova de residência permanente na Região.\n\n4 - Para efeitos do número anterior, entende-se por residência permanente a residência na Região ou permanência no respectivo território por mais de 183 dias, nesta se situando a sua residência habitual e que aí esteja registado para efeitos fiscais.\n\n5 - Excluem-se do disposto no n.º 3 os beneficiários que se encontrem em situação de doença prolongada e os estudantes deslocados fora da Região, cuja situação se encontre devidamente comprovada.\n\n6 - Qualquer cidadão que passe à situação de pensionista ou beneficiário de prestação social de inclusão e reúna as condições para beneficiar do complemento regional de pensão deve apresentar, conjuntamente com o requerimento, nos noventa dias subsequentes, os documentos que comprovem o quantitativo da respetiva pensão ou prestação social e prova de residência, respetivamente, nos termos dos números anteriores.\n\n7 - O requerimento referido no número anterior, bem como os documentos referidos nos n.os 1, 2, 3 e 4, poderão ainda ser apresentados em qualquer momento para além daquele prazo, processando-se, neste caso, o respetivo complemento a partir do mês seguinte à data da sua apresentação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 6/2019/A - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2019-119397721), em vigor a partir de 2019-02-13\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01"
+  },
+  "122265609": {
+   "fragment_id": "119474480",
+   "type": 11,
+   "heading": "Artigo 10.º — Beneficiários",
+   "in_force_from": "2019-05-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Beneficiários\n\n1 - Beneficiam de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, cuja remuneração base seja igual ou inferior a (euro) 1.304,99.\n\n2 - Os trabalhadores da administração pública regional e local da Região Autónoma dos Açores que se encontrem ao abrigo de situação de pré-reforma a que alude o Decreto Regulamentar n.º 2/2019, de 5 de fevereiro, mantêm a remuneração complementar em percentagem idêntica à que vier a ser acordada no respetivo acordo de pré-reforma.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887) O n.º 2 do artigo 10.º produz efeitos a partir de 1 de outubro de 2014.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "122265610": {
+   "fragment_id": "119474481",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante",
+   "in_force_from": "2019-05-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Montante\n\n1 - O montante mensal da remuneração complementar regional a que se refere o artigo 10.º é determinado nos termos do artigo 13.º do presente diploma, sendo o montante efetivo a abonar determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja remuneração base seja igual ou inferior a (euro) 635,07 (seiscentos e trinta e cinco euros e sete cêntimos);\n\nb) 90 % para aqueles cuja remuneração base seja superior a (euro) 635,07 (seiscentos e trinta e cinco euros e sete cêntimos) e inferior a (euro) 668,99 (seiscentos e sessenta e oito euros e noventa e nove cêntimos);\n\nc) 85 % para aqueles cuja remuneração base esteja compreendida entre (euro) 669 (seiscentos e sessenta e nove euros) e (euro) 700,99 (setecentos euros e noventa e nove cêntimos), inclusive;\n\nd) 80 % para aqueles cuja remuneração base esteja compreendida entre (euro) 701 (setecentos e um euros) e (euro) 769,99 (setecentos e sessenta e nove euros e noventa e nove cêntimos), inclusive;\n\ne) 70 % para aqueles cuja remuneração base esteja compreendida entre (euro) 770 (setecentos e setenta euros) e (euro) 855,99 (oitocentos e cinquenta e cinco euros e noventa e nove cêntimos), inclusive;\n\nf) 60 % para aqueles cuja remuneração base esteja compreendida entre (euro) 856 (oitocentos e cinquenta e seis euros) e (euro) 923,99 (novecentos e vinte e três euros e noventa e nove cêntimos), inclusive;\n\ng) 55 % para aqueles cuja remuneração base esteja compreendida entre (euro) 924 (novecentos e vinte e quatro euros) e (euro) 1044,99 (mil e quarenta e quatro euros e noventa e nove cêntimos), inclusive;\n\nh) 45 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1045 (mil e quarenta e cinco euros) e (euro) 1095,99 (mil e noventa e cinco euros e noventa e nove cêntimos), inclusive;\n\ni) 40 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1096 (mil e noventa e seis euros) e (euro) 1129,99 (mil cento e vinte nove euros e noventa e nove cêntimos), inclusive;\n\nj) 35 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1130 (mil cento e trinta euros) e (euro) 1215,99 (mil duzentos e quinze euros e noventa e nove cêntimos), inclusive;\n\nk) 25 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1216 (mil duzentos e dezasseis euros) e (euro) 1304,99 (mil trezentos e quatro euros e noventa e nove cêntimos), inclusive.\n\n2 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25 % do quantitativo referido no mesmo número.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+  },
+  "135059442": {
+   "fragment_id": "119474475",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante",
+   "in_force_from": "2020-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 48.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-13, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Montante\n\n1 - O montante do complemento regional de pensão é determinado nos termos do artigo 13.º do presente diploma.\n\n2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cujos rendimentos mensais sejam inferiores ou iguais a 1,446 do Indexante de Apoios Sociais (IAS);\n\nb) 90 % para aqueles cujos rendimentos mensais sejam superiores a 1,446 do IAS e inferiores ou iguais 1,51 do IAS;\n\nc) 70 % para aqueles cujos rendimentos mensais sejam superiores a 1,51 do IAS e inferiores ou iguais a 1,598 do IAS;\n\nd) (Revogada);\n\ne) 50 % para aqueles cujos rendimentos mensais sejam superiores a 1,598 do IAS e inferiores ou iguais a 3,886 do IAS, no caso de pensionistas deficientes.\n\n3 - Para efeitos do disposto no número anterior, são relevantes os rendimentos mensais de pensão, prestação social de inclusão, trabalho e atividade por conta própria.\n\n4 - (Revogado.)\n\n5- Para efeitos de apuramento de rendimentos são excluídos os montantes auferidos a título de complemento por dependência, complemento por cônjuge a cargo, complemento solidário para idoso e outros de natureza análoga.\n\n6 - Sempre que da aplicação do disposto nos números anteriores resultar, face ao ano anterior, uma redução do valor do complemento regional de pensão superior ao aumento do rendimento será garantida, mediante requerimento do interessado, a manutenção no escalão em que se encontrava.\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-13, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+  },
+  "135059443": {
+   "fragment_id": "119474480",
+   "type": 11,
+   "heading": "Artigo 10.º — Beneficiários",
+   "in_force_from": "2020-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Beneficiários\n\n1 - Beneficiam de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, cuja remuneração base seja igual ou inferior a (euro) 1308,99 (mil trezentos e oito euros e noventa e nove cêntimos).\n\n2 - Os trabalhadores da administração pública regional e local da Região Autónoma dos Açores que se encontrem ao abrigo de situação de pré-reforma a que alude o Decreto Regulamentar n.º 2/2019, de 5 de fevereiro, mantêm a remuneração complementar em percentagem idêntica à que vier a ser acordada no respetivo acordo de pré-reforma.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887) O n.º 2 do artigo 10.º produz efeitos a partir de 1 de outubro de 2014.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "135059444": {
+   "fragment_id": "119474481",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante",
+   "in_force_from": "2020-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Montante\n\n1 - O montante mensal da remuneração complementar regional a que se refere o artigo 10.º é determinado nos termos do artigo 13.º do presente diploma, sendo o montante efetivo a abonar determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja remuneração base seja igual ou inferior a (euro) 645,07 (seiscentos e quarenta e cinco euros e sete cêntimos);\n\nb) 90 % para aqueles cuja remuneração base seja superior a (euro) 645,07 (seiscentos e quarenta e cinco euros e sete cêntimos) e inferior a (euro) 678,99 (seiscentos e setenta e oito euros e noventa e nove cêntimos);\n\nc) 85 % para aqueles cuja remuneração base esteja compreendida entre (euro) 679 (seiscentos e setenta e nove euros) e (euro) 703,99 (setecentos e três euros e noventa e nove cêntimos), inclusive;\n\nd) 80 % para aqueles cuja remuneração base esteja compreendida entre (euro) 704 (setecentos e quatro euros) e (euro) 772,99 (setecentos e setenta e dois euros e noventa e nove cêntimos), inclusive;\n\ne) 70 % para aqueles cuja remuneração base esteja compreendida entre (euro) 773 (setecentos e setenta e três euros) e (euro) 858,99 (oitocentos e cinquenta e oito euros e noventa e nove cêntimos), inclusive;\n\nf) 60 % para aqueles cuja remuneração base esteja compreendida entre (euro) 859 (oitocentos e cinquenta e nove euros) e (euro) 926,99 (novecentos e vinte e seis euros e noventa e nove cêntimos), inclusive;\n\ng) 55 % para aqueles cuja remuneração base esteja compreendida entre (euro) 927 (novecentos e vinte e sete euros) e (euro) 1048,99 (mil e quarenta e oito euros e noventa e nove cêntimos), inclusive;\n\nh) 45 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1049 (mil e quarenta e nove euros) e (euro) 1099,99 (mil e noventa e nove euros e noventa e nove cêntimos), inclusive;\n\ni) 40 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1100 (mil e cem euros) e (euro) 1133,99 (mil cento e trinta e três euros e noventa e nove cêntimos), inclusive;\n\nj) 35 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1134 (mil cento e trinta e quatro euros) e (euro) 1219,99 (mil duzentos e dezanove euros e noventa e nove cêntimos), inclusive;\n\nk) 25 % para aqueles cuja remuneração base esteja compreendida entre (euro) 1220 (mil duzentos e vinte euros) e (euro) 1308,99 (mil trezentos e oito euros e noventa e nove cêntimos), inclusive.\n\n2 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25 % do quantitativo referido no mesmo número.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+  },
+  "179758379": {
+   "fragment_id": "119474475",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 79.º do/a [Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929)",
+    "Alterado pelo/a Artigo 48.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-13, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Montante\n\n1 - O montante do complemento regional de pensão é determinado nos termos do artigo 13.º do presente diploma.\n\n2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:\n\na) 143 % para aqueles cujos rendimentos mensais sejam inferiores ou iguais a metade do Indexante de Apoios Sociais (IAS);\n\nb) 124 % para aqueles cujos rendimentos mensais sejam superiores a metade do IAS e inferiores ou iguais a dois terços do IAS;\n\nc) 114 % para aqueles cujos rendimentos mensais sejam superiores a dois terços do IAS e inferiores ou iguais ao IAS;\n\nd) (Revogada);\n\ne) 100 % para aqueles cujos rendimentos mensais sejam superiores ao IAS e inferiores ou iguais a 1,446 do IAS;\n\nf) 90 % para aqueles cujos rendimentos mensais sejam superiores a 1,446 do IAS e inferiores ou iguais a 1,51 do IAS;\n\ng) 70 % para aqueles cujos rendimentos mensais sejam superiores a 1,51 do IAS e inferiores ou iguais a 1,598 do IAS;\n\nh) 50 % para aqueles cujos rendimentos mensais sejam superiores a 1,598 do IAS e inferiores ou iguais a 3,886 do IAS, no caso de pensionistas no caso de pensionista portador de deficiência.\n\n3 - Para efeitos do disposto no número anterior, são relevantes os rendimentos mensais de pensão, prestação social de inclusão, trabalho e atividade por conta própria.\n\n4 - (Revogado.)\n\n5- Para efeitos de apuramento de rendimentos são excluídos os montantes auferidos a título de complemento por dependência, complemento por cônjuge a cargo, complemento solidário para idoso e outros de natureza análoga.\n\n6 - Sempre que da aplicação do disposto nos números anteriores resultar, face ao ano anterior, uma redução do valor do complemento regional de pensão superior ao aumento do rendimento será garantida, mediante requerimento do interessado, a manutenção no escalão em que se encontrava.\n\n> Alterado pelo/a Artigo 79.º do/a [Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929)\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-13, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+  },
+  "183878475": {
+   "fragment_id": "119474480",
+   "type": 11,
+   "heading": "Artigo 10.º — Beneficiários",
+   "in_force_from": "2022-05-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Beneficiários\n\n1 - Beneficiam de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, cuja remuneração base seja igual ou inferior a 1320,77 (euro) (mil trezentos e vinte euros e setenta e sete cêntimos).\n\n2 - Os trabalhadores da administração pública regional e local da Região Autónoma dos Açores que se encontrem ao abrigo de situação de pré-reforma a que alude o Decreto Regulamentar n.º 2/2019, de 5 de fevereiro, mantêm a remuneração complementar em percentagem idêntica à que vier a ser acordada no respetivo acordo de pré-reforma.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887) O n.º 2 do artigo 10.º produz efeitos a partir de 1 de outubro de 2014.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "183878476": {
+   "fragment_id": "119474481",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante",
+   "in_force_from": "2022-05-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 79.º do/a [Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929)",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Montante\n\n1 - O montante mensal da remuneração complementar regional a que se refere o artigo 10.º é determinado nos termos do artigo 13.º do presente diploma, sendo o montante efetivo a abonar determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja remuneração base seja igual ou inferior a 709,46 (euro) (setecentos e nove euros e quarenta e seis cêntimos);\n\nb) 90 % para aqueles cuja remuneração base seja superior a 709,47 (euro) (setecentos e nove euros e quarenta e sete cêntimos) e inferior a 714,94 (euro) (setecentos e catorze euros e noventa e quatro cêntimos);\n\nc) 85 % para aqueles cuja remuneração base esteja compreendida entre 714,95 (euro) (setecentos e catorze euros e noventa e cinco cêntimos) e 720,42 (euro) (setecentos e vinte euros e quarenta e dois cêntimos), inclusive;\n\nd) 80 % para aqueles cuja remuneração base esteja compreendida entre 720,43 (euro) (setecentos e vinte euros e quarenta e três cêntimos) e 790,04 (euro) (setecentos e noventa euros e quatro cêntimos), inclusive;\n\ne) 70 % para aqueles cuja remuneração base esteja compreendida entre 790,05 (euro) (setecentos e noventa euros e cinco cêntimos) e 866,72 (euro) (oitocentos e sessenta e seis euros e setenta e dois cêntimos), inclusive;\n\nf) 60 % para aqueles cuja remuneração base esteja compreendida entre 866,73 (euro) (oitocentos e sessenta e seis euros e setenta e três cêntimos) e 935,33 (euro) (novecentos e trinta e cinco euros e trinta e três cêntimos), inclusive;\n\ng) 55 % para aqueles cuja remuneração base esteja compreendida entre 935,34 (euro) (novecentos e trinta e cinco euros e trinta e quatro cêntimos) e 1058,43 (euro) (mil e cinquenta e oito euros e quarenta e três cêntimos), inclusive;\n\nh) 45 % para aqueles cuja remuneração base esteja compreendida entre 1058,44 (euro) (mil e cinquenta e oito euros e quarenta e quatro cêntimos) e 1109,89 (euro) (mil cento e nove euros e oitenta e nove cêntimos), inclusive;\n\ni) 40 % para aqueles cuja remuneração base esteja compreendida entre 1109,90 (euro) (mil cento e nove euros e noventa cêntimos) e 1144,20 (euro) (mil cento e quarenta e quatro euros e vinte cêntimos), inclusive;\n\nj) 35 % para aqueles cuja remuneração base esteja compreendida entre 1144,21 (euro) (mil cento e quarenta e quatro euros e vinte e um cêntimos) e 1230,97 (euro) (mil duzentos e trinta euros e noventa e sete cêntimos), inclusive;\n\nk) 25 % para aqueles cuja remuneração base esteja compreendida entre 1230,98 (euro) (mil duzentos e trinta euros e noventa e oito cêntimos) e 1320,77 (euro) (mil trezentos e vinte euros e setenta e sete cêntimos), inclusive.\n\n2 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25 % do quantitativo referido no mesmo número.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 79.º do/a [Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+  },
+  "206350376": {
+   "fragment_id": "119474475",
+   "type": 11,
+   "heading": "Artigo 6.º — Montante",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 70.º do/a [Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 79.º do/a [Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929)",
+    "Alterado pelo/a Artigo 48.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-13, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Montante\n\n1 - O montante do complemento regional de pensão é determinado nos termos do artigo 13.º do presente diploma.\n\n2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:\n\na) 153 % para aqueles cujos rendimentos mensais sejam inferiores ou iguais a metade do Indexante de Apoios Sociais (IAS);\n\nb) 134 % para aqueles cujos rendimentos mensais sejam superiores a metade do IAS e inferiores ou iguais a dois terços do IAS;\n\nc) 119 % para aqueles cujos rendimentos mensais sejam superiores a dois terços do IAS e inferiores ou iguais ao IAS;\n\nd) (Revogada);\n\ne) 105 % para aqueles cujos rendimentos mensais sejam superiores ao IAS e inferiores ou iguais a 1,446 do IAS;\n\nf) 95 % para aqueles cujos rendimentos mensais sejam superiores a 1,446 do IAS e inferiores ou iguais a 1,51 do IAS;\n\ng) 70 % para aqueles cujos rendimentos mensais sejam superiores a 1,51 do IAS e inferiores ou iguais a 1,598 do IAS;\n\nh) 50 % para aqueles cujos rendimentos mensais sejam superiores a 1,598 do IAS e inferiores ou iguais a 3,886 do IAS, no caso de pensionistas no caso de pensionista portador de deficiência.\n\n3 - Para efeitos do disposto no número anterior, são relevantes os rendimentos mensais de pensão, prestação social de inclusão, trabalho e atividade por conta própria.\n\n4 - (Revogado.)\n\n5- Para efeitos de apuramento de rendimentos são excluídos os montantes auferidos a título de complemento por dependência, complemento por cônjuge a cargo, complemento solidário para idoso e outros de natureza análoga.\n\n6 - Sempre que da aplicação do disposto nos números anteriores resultar, face ao ano anterior, uma redução do valor do complemento regional de pensão superior ao aumento do rendimento será garantida, mediante requerimento do interessado, a manutenção no escalão em que se encontrava.\n\n> Alterado pelo/a Artigo 70.º do/a [Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 79.º do/a [Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929)\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-13, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-08, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), em vigor a partir de 2017-04-18, produz efeitos a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2013/A - Diário da República n.º 99/2013, Série I de 2013-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), em vigor a partir de 2013-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2007/A - Diário da República n.º 204/2007, Série I de 2007-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), em vigor a partir de 2007-10-28, produz efeitos a partir de 2007-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-A/2002 - Diário da República n.º 100/2002, 1º Suplemento, Série I-A de 2002-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-2002-241610), em vigor a partir de 2002-04-15, produz efeitos a partir de 2002-01-01"
+  },
+  "223073355": {
+   "fragment_id": "119474480",
+   "type": 11,
+   "heading": "Artigo 10.º — Beneficiários",
+   "in_force_from": "2023-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2023/A - Diário da República n.º 204/2023, Série I de 2023-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2023-223045469), em vigor a partir de 2023-10-21, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Beneficiários\n\n1 - Beneficiam de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, cuja remuneração base seja igual ou inferior a 1 386,61 (euro) (mil trezentos e oitenta e seis euros e sessenta e um cêntimos).\n\n2 - Os trabalhadores da administração pública regional e local da Região Autónoma dos Açores que se encontrem ao abrigo de situação de pré-reforma a que alude o Decreto Regulamentar n.º 2/2019, de 5 de fevereiro, mantêm a remuneração complementar em percentagem idêntica à que vier a ser acordada no respetivo acordo de pré-reforma.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887) O n.º 2 do artigo 10.º produz efeitos a partir de 1 de outubro de 2014.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2023/A - Diário da República n.º 204/2023, Série I de 2023-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2023-223045469), em vigor a partir de 2023-10-21, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "223073356": {
+   "fragment_id": "119474481",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante",
+   "in_force_from": "2023-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2023/A - Diário da República n.º 204/2023, Série I de 2023-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2023-223045469), em vigor a partir de 2023-10-21, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 79.º do/a [Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929)",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Montante\n\n1 - O montante mensal da remuneração complementar regional a que se refere o artigo 10.º é determinado nos termos do artigo 13.º do presente diploma, sendo o montante efetivo a abonar determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja remuneração base seja igual ou inferior a 769,20 (euro) (setecentos e sessenta e nove euros e vinte cêntimos);\n\nb) 90 % para aqueles cuja remuneração base esteja compreendida entre 769,21 (euro) (setecentos e sessenta e nove euros e vinte e um cêntimos) e 774,72 (euro) (setecentos e setenta e quatro euros e setenta e dois cêntimos), inclusive;\n\nc) 85 % para aqueles cuja remuneração base esteja compreendida entre 774,73 (euro) (setecentos e setenta e quatro euros e setenta e três cêntimos) e 780,25 (euro) (setecentos e oitenta euros e vinte e cinco cêntimos), inclusive;\n\nd) 80 % para aqueles cuja remuneração base esteja compreendida entre 780,26 (euro) (setecentos e oitenta euros e vinte e seis cêntimos) e 850,57 (euro) (oitocentos e cinquenta euros e cinquenta e sete cêntimos), inclusive;\n\ne) 70 % para aqueles cuja remuneração base esteja compreendida entre 850,58 (euro) (oitocentos e cinquenta euros e cinquenta e oito cêntimos) e 928,02 (euro) (novecentos e vinte e oito euros e dois cêntimos), inclusive;\n\nf) 60 % para aqueles cuja remuneração base esteja compreendida entre 928,03 (euro) (novecentos e vinte e oito euros e três cêntimos) e 997,32 (euro) (novecentos e noventa e sete euros e trinta e dois cêntimos), inclusive;\n\ng) 55 % para aqueles cuja remuneração base esteja compreendida entre 997,33 (euro) (novecentos e noventa e sete euros e trinta e três cêntimos) e 1 121,65 (euro) (mil cento e vinte e um euros e sessenta e cinco cêntimos), inclusive;\n\nh) 45 % para aqueles cuja remuneração base esteja compreendida entre 1 121,66 (euro) (mil cento e vinte e um euros e sessenta e seis cêntimos) e 1 173,62 (euro) (mil cento e setenta e três euros e sessenta e dois cêntimos), inclusive;\n\ni) 40 % para aqueles cuja remuneração base esteja compreendida entre 1 173,63 (euro) (mil cento e setenta e três euros e sessenta e três cêntimos) e 1 208,27 (euro) (mil duzentos e oito euros e vinte e sete cêntimos), inclusive;\n\nj) 35 % para aqueles cuja remuneração base esteja compreendida entre 1 208,28 (euro) (mil duzentos e oito euros e vinte e oito cêntimos) e 1 295,91 (euro) (mil duzentos e noventa e cinco euros e noventa e um cêntimos), inclusive;\n\nk) 25 % para aqueles cuja remuneração base esteja compreendida entre 1 295,92 (euro) (mil duzentos e noventa e cinco euros e noventa e dois cêntimos) e 1 386,61 (euro) (mil trezentos e oitenta e seis euros e sessenta e um cêntimos), inclusive.\n\n2 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25 % do quantitativo referido no mesmo número.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Nota: [Artigo 53.º, Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501) O montante da remuneração complementar regional a que se refere o n.º 1 do presente artigo, é atualizado, com efeitos a 1 de janeiro de 2023, em 5 %.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2023/A - Diário da República n.º 204/2023, Série I de 2023-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2023-223045469), em vigor a partir de 2023-10-21, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 79.º do/a [Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+  },
+  "901660808": {
+   "fragment_id": "119474480",
+   "type": 11,
+   "heading": "Artigo 10.º — Beneficiários",
+   "in_force_from": "2024-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 76.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 2/2024/A - Diário da República n.º 120/2024, Série I de 2024-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290), produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2023/A - Diário da República n.º 204/2023, Série I de 2023-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2023-223045469), em vigor a partir de 2023-10-21, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Beneficiários\n\n1 - Beneficiam de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores, cuja remuneração base seja igual ou inferior ao nível remuneratório 27 da Tabela Remuneratória Única (TRU), aprovada pela Portaria n.º 1553-C/2008, de 31 de dezembro, na sua redação atual.\n\n2 - Os trabalhadores da administração pública regional e local da Região Autónoma dos Açores que se encontrem ao abrigo de situação de pré-reforma a que alude o Decreto Regulamentar n.º 2/2019, de 5 de fevereiro, mantêm a remuneração complementar em percentagem idêntica à que vier a ser acordada no respetivo acordo de pré-reforma.\n\n> Nota: [Artigo 3.º, Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887) O n.º 2 do artigo 10.º produz efeitos a partir de 1 de outubro de 2014.\n\n> Alterado pelo/a Artigo 76.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 2/2024/A - Diário da República n.º 120/2024, Série I de 2024-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290), produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2023/A - Diário da República n.º 204/2023, Série I de 2023-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2023-223045469), em vigor a partir de 2023-10-21, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01"
+  },
+  "901660809": {
+   "fragment_id": "119474481",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante",
+   "in_force_from": "2024-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 76.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 2/2024/A - Diário da República n.º 120/2024, Série I de 2024-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290), produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2023/A - Diário da República n.º 204/2023, Série I de 2023-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2023-223045469), em vigor a partir de 2023-10-21, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 79.º do/a [Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929)",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01",
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Montante\n\n1 - O montante mensal da remuneração complementar regional a que se refere o artigo 10.º é determinado nos termos do artigo 13.º do presente diploma, sendo o montante efetivo a abonar determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja remuneração base seja igual ou inferior ao nível remuneratório 5 da TRU;\n\nb) 90 % para aqueles cuja remuneração base seja superior ao nível remuneratório 5 da TRU e igual ou inferior ao nível remuneratório 6 da TRU;\n\nc) 80 % para aqueles cuja remuneração base seja superior ao nível remuneratório 6 da TRU e igual ou inferior ao nível remuneratório 7 da TRU;\n\nd) 70 % para aqueles cuja remuneração base seja superior ao nível remuneratório 7 da TRU e igual ou inferior ao nível remuneratório 9 da TRU;\n\ne) 60 % para aqueles cuja remuneração base seja superior ao nível remuneratório 9 da TRU e igual ou inferior ao nível remuneratório 11 da TRU;\n\nf) 55 % para aqueles cuja remuneração base seja superior ao nível remuneratório 11 da TRU e igual ou inferior ao nível remuneratório 13 da TRU;\n\ng) 45 % para aqueles cuja remuneração base seja superior ao nível remuneratório 13 da TRU e igual ou inferior ao nível remuneratório 15 da TRU;\n\nh) 35 % para aqueles cuja remuneração base seja superior ao nível remuneratório 15 da TRU e igual ou inferior ao nível remuneratório 21 da TRU;\n\ni) 25 % para aqueles cuja remuneração base seja superior ao nível remuneratório 21 da TRU e igual ou inferior ao nível remuneratório 27 da TRU;\n\nj) (Revogada.)\n\nk) (Revogada.)\n\n2 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25 % do quantitativo referido no mesmo número.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Nota: [Artigo 61.º, Decreto Legislativo Regional n.º 2/2024/A - Diário da República n.º 120/2024, Série I de 2024-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290) O montante da remuneração complementar regional a que se refere o n.º 1 do presente artigo, é atualizado, com efeitos a 1 de janeiro de 2024, em 5 %.\n\n> Nota: [Artigo 53.º, Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501) O montante da remuneração complementar regional a que se refere o n.º 1 do presente artigo, é atualizado, com efeitos a 1 de janeiro de 2023, em 5 %.\n\n> Alterado pelo/a Artigo 76.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 2/2024/A - Diário da República n.º 120/2024, Série I de 2024-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290), produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2023/A - Diário da República n.º 204/2023, Série I de 2023-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2023-223045469), em vigor a partir de 2023-10-21, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2022/A - Diário da República n.º 99/2022, Série I de 2022-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), em vigor a partir de 2022-05-24, produz efeitos a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 79.º do/a [Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), em vigor a partir de 2020-06-04, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), em vigor a partir de 2019-05-10, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), em vigor a partir de 2015-03-31, produz efeitos a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), em vigor a partir de 2014-11-28, produz efeitos a partir de 2002-01-01\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 2/2014/A - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), em vigor a partir de 2014-02-03, produz efeitos a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-18, produz efeitos a partir de 2012-01-01"
+  }
+ }
+}

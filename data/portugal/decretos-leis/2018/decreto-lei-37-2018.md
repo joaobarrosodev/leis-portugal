@@ -1,0 +1,1561 @@
+---
+schema_version: '1.0'
+id: pt:dre:115440317:por
+title: Decreto-Lei n.º 37/2018
+short_title: null
+summary: Cria o 1.º Direito - Programa de Apoio ao Acesso à Habitação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Ambiente
+official_number: 37/2018
+official_date: null
+publication_date: '2018-06-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/2018, Série I de 2018-06-04
+  number: '106'
+  series: I
+  supplement: null
+  pages: 2348 - 2364
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/06/10600/0234802364.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-11-01'
+version_history:
+  file: decreto-lei-37-2018.versoes.json
+  count: 9
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2018-06-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-06-29'
+    amending: pt:dre:122747583:por
+    amending_title: Decreto-Lei n.º 84/2019
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 34.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 54.º
+    - Altera Artigo 63.º
+    - Altera Artigo 65.º
+  - date: '2020-11-02'
+    amending: pt:dre:144454578:por
+    amending_title: Decreto-Lei n.º 81/2020
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 56.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 67.º
+    - Altera Artigo 72.º
+    - Altera Artigo 73.º
+    - Altera Artigo 74.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+    - Altera Artigo 83.º
+    - Altera Artigo 84.º
+  - date: '2021-03-15'
+    amending: pt:dre:159174076:por
+    amending_title: Lei n.º 12/2021
+    changes:
+    - Altera Artigo 58.º
+    - Altera Artigo 62.º
+    - Altera Artigo 64.º
+    - Altera Artigo 72.º
+  - date: '2021-11-04'
+    amending: pt:dre:173732851:por
+    amending_title: Decreto-Lei n.º 89/2021
+    changes:
+    - Altera Artigo 14.º
+  - date: '2022-10-25'
+    amending: pt:dre:202552707:por
+    amending_title: Decreto-Lei n.º 74/2022
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 45.º
+    - Altera Artigo 50.º
+    - Altera Artigo 57.º
+    - Altera Artigo 59.º
+    - Altera Artigo 61.º
+    - Altera Artigo 67.º
+    - Altera Artigo 69.º
+    - Altera Artigo 74.º
+    - Altera Artigo 83.º
+  - date: '2023-05-30'
+    amending: pt:dre:213650805:por
+    amending_title: Decreto-Lei n.º 38/2023
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 22.º
+    - Altera Artigo 76.º
+  - date: '2025-04-01'
+    amending: pt:dre:912653921:por
+    amending_title: Decreto-Lei n.º 44/2025
+    changes:
+    - Adita Artigo 83.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 34.º
+    - Altera Artigo 72.º
+    - Altera Artigo 73.º
+    - Altera Artigo 74.º
+    - Altera Artigo 82.º
+    - Altera Artigo 83.º
+  - date: '2025-11-01'
+    amending: pt:dre:942401304:por
+    amending_title: Decreto-Lei n.º 116/2025
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 22.º
+    - Altera Artigo 83.º
+    - Altera Artigo 83.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/37/2018/p/cons/20251027/pt/html
+  oj: null
+  dre: '115440317'
+  dre_path: /dr/detalhe/decreto-lei/37-2018-115440317
+  internal: pt:dre:115440317:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317
+  metadata_url: https://data.dre.pt/eli/dec-lei/37/2018/p/cons/20251027/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-115868810
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-115868810
+  retrieved_at: '2026-10-22T12:20:38Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 1cbedaa1f1b2c22e66118288c7c22ce031b2ea6f51d0854b1d6e52250d99da6c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:20:38Z'
+  notes: 9 versão(ões); histórico completo em decreto-lei-37-2018.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acordo
+- Alienação de Fogos
+- ALTO Comissariado para as Migrações
+- Pobreza
+- Aquisição de Imóveis
+- Região Autónoma
+- Financiamento
+- Beneficiário
+- Casa Degradada
+- Cidadão Estrangeiro
+- Cidadão Nacional
+- Construção Civil
+- Comparticipação
+- Comparticipação do Estado
+- Urbanização
+- Obras de Conservação e Restauro
+- Cooperativa de Habitação
+- Crédito à Habitação
+- Definição de Competências
+- Realojamento
+- Renovação Urbana
+- Direção Geral do Tesouro e Finanças
+- Empresa Pública Municipal
+- Fiscalização
+- Habitação Social
+- JURO Bonificado
+- Linha de Crédito
+- Instituto da Habitação e da Reabilitação Urbana
+- Serviço de Estrangeiros e Fronteiras
+- Reabilitação
+- Regime Jurídico
+- Habitação
+- Desalojado
+- Prédio Urbano
+- Arrendamento Urbano para Habitação
+- Autarquia Local
+- Programa de Apoio ao Acesso à Habitação-1.º Direito
+relationships:
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Altera Artigo 16.º; Altera Artigo 34.º; Altera Artigo 46.º; Altera Artigo 47.º; Altera Artigo 54.º; Altera Artigo
+    63.º; Altera Artigo 65.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:144454578:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 14.º;
+    Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 22.º; Altera Artigo 25.º; Altera Artigo 26.º;
+    Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 39.º; Altera Artigo 41.º; Altera Artigo 42.º; Altera Artigo 49.º;
+    Altera Artigo 50.º; Altera Artigo 56.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578
+  date: '2020-10-02'
+- type: amended_by
+  target: pt:dre:159174076:por
+  label: Altera Artigo 58.º; Altera Artigo 62.º; Altera Artigo 64.º; Altera Artigo 72.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/12-2021-159174076
+  date: '2021-03-10'
+- type: amended_by
+  target: pt:dre:173732851:por
+  label: Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2021-173732851
+  date: '2021-11-03'
+- type: amended_by
+  target: pt:dre:202552707:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 19.º; Altera Artigo 22.º;
+    Altera Artigo 39.º; Altera Artigo 41.º; Altera Artigo 45.º; Altera Artigo 50.º; Altera Artigo 57.º; Altera Artigo 59.º;
+    Altera Artigo 61.º; Altera Artigo 67.º; Altera Artigo 69.º; Altera Artigo 74.º; Altera Artigo 83.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707
+  date: '2022-10-24'
+- type: amended_by
+  target: pt:dre:213650805:por
+  label: Altera Artigo 14.º; Altera Artigo 22.º; Altera Artigo 76.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805
+  date: '2023-05-29'
+- type: amended_by
+  target: pt:dre:912653921:por
+  label: Adita Artigo 83.º-A; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 19.º; Altera Artigo 22.º; Altera Artigo
+    34.º; Altera Artigo 72.º; Altera Artigo 73.º; Altera Artigo 74.º; Altera Artigo 82.º; Altera Artigo 83.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921
+  date: '2025-03-27'
+- type: amended_by
+  target: pt:dre:942401304:por
+  label: Altera Artigo 7.º; Altera Artigo 22.º; Altera Artigo 83.º; Altera Artigo 83.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2025-942401304
+  date: '2025-10-27'
+- type: cites
+  target: pt:dre:115211109:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre
+- type: cites
+  target: pt:dre:175306:por
+  label: null
+  source: http://data.dre.pt/eli/lei/32/2012/08/14/p/dre
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/175/2012/08/02/p/dre
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/70/2010/06/16/p/dre
+- type: cites
+  target: pt:dre:478048:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/150-a/1991/04/22/p/dre
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/307/2009/10/23/p/dre
+- type: cites
+  target: pt:dre:538614:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/157/2006/08/08/p/dre
+- type: cites
+  target: pt:dre:577705:por
+  label: null
+  source: http://data.dre.pt/eli/port/311-d/2011/12/27/p/dre
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
+article_structure:
+  article_count: 88
+  section_count: 25
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:20:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 37/2018
+
+Decreto-Lei n.º 37/2018
+
+de 4 de junho
+
+O XXI Governo Constitucional reconheceu, no âmbito das suas prioridades políticas, o papel central da habitação e da reabilitação para a melhoria da qualidade de vida das populações, para a revitalização e competitividade das cidades e para a coesão social e territorial.
+
+De facto, apesar de uma redução quantitativa das carências habitacionais, persistem problemas de natureza estrutural no setor da habitação, com efeitos ao nível do acesso a uma habitação condigna por parte da população. As profundas alterações verificadas nos modos de vida e nas condições socioeconómicas das populações e os efeitos da conjugação de anteriores políticas de habitação e da mudança de paradigma no acesso ao mercado de habitação, precipitada pela crise económica e financeira internacional, geraram uma combinação de carências conjunturais com necessidades de habitação de natureza estrutural a que importa dar resposta, assegurando simultaneamente o equilíbrio entre os vários segmentos de ofertas habitacionais e a funcionalidade global do sistema.
+
+A esse fenómeno aliaram-se deficiências na qualificação do edificado e lacunas no domínio da coesão socioterritorial, apenas superáveis mediante a implementação de dinâmicas de revitalização social e de reestruturação urbana e através da prevenção de fenómenos de segregação socioterritorial, gentrificação, despovoamento dos centros urbanos e periferização habitacional.
+
+Os múltiplos desafios que se colocam à política de habitação e à reabilitação exigem ademais uma abordagem integrada ao nível das políticas setoriais, das escalas territoriais e do envolvimento dos vários atores, a par com a flexibilidade para a adequação às especificidades próprias do edificado, dos territórios e das comunidades.
+
+Nessa medida, a Nova Geração de Políticas de Habitação (NGPH), aprovada pela Resolução do Conselho de Ministros n.º 50-A/2018, de 2 de maio, é orientada no sentido de acomodar o aumento da população excluída do acesso à habitação por situações de grave carência e vulnerabilidade várias, incentivando, nomeadamente, uma oferta alargada de habitação para arrendamento público.
+
+As questões da habitação e da reabilitação, bem como do arrendamento, exigem, assim, uma implementação segura e estruturada de soluções e respostas de política pública no setor da habitação que garantam o acesso a uma habitação adequada às pessoas que vivem em condições indignas e cuja situação de carência financeira as impede de aceder a soluções habitacionais no mercado.
+
+Destaca-se nesse palco o papel imprescindível e instrumental das autarquias locais na construção e implementação de respostas mais eficazes e eficientes, dada a sua relação de proximidade com os cidadãos e com o território, que lhes permite ter uma noção mais precisa dos desafios e dos recursos passíveis de mobilização.
+
+No quadro das soluções e respostas de política pública prosseguidas pela NGPH, o presente decreto-lei cria um novo programa de apoio público, o 1.º Direito - Programa de Apoio ao Acesso à Habitação, orientado para assegurar o acesso a uma habitação adequada às pessoas que vivem em situações indignas e que não dispõem de capacidade financeira para aceder, sem apoio, a uma solução habitacional adequada.
+
+A resposta, para além do apoio direto às pessoas, assenta numa dinâmica promocional predominantemente dirigida à reabilitação do edificado e ao arrendamento e em abordagens integradas e participativas que promovam a inclusão social e territorial, mediante uma forte cooperação entre políticas e organismos setoriais, entre as administrações central, regional e local e entre os setores público, privado e cooperativo, bem como uma maior proximidade às populações.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece o 1.º Direito - Programa de Apoio ao Acesso à Habitação.
+
+###### Artigo 2.º — Âmbito e fins
+
+O 1.º Direito é um programa de apoio público à promoção de soluções habitacionais para pessoas que vivem em condições habitacionais indignas e que não dispõem de capacidade financeira para suportar o custo do acesso a uma habitação adequada.
+
+###### Artigo 3.º — Princípios
+
+Ao abrigo e em execução do 1.º Direito, para além dos princípios gerais de direito aplicáveis, são de observar os seguintes princípios:
+
+a) Princípio da acessibilidade habitacional, segundo o qual uma pessoa ou um agregado tem direito a que sejam criadas condições para que os custos com o acesso a uma habitação adequada e permanente sejam comportáveis pelo seu orçamento sem comprometer a satisfação de outras das suas necessidades básicas;
+
+b) Princípio do planeamento estratégico local, em função do qual as soluções habitacionais a promover ao abrigo do 1.º Direito devem estar alinhadas com as estratégias municipais e supramunicipais de política local de habitação, no quadro das opções definidas pelos municípios para o desenvolvimento dos seus territórios, em especial ao nível da ocupação do solo, da requalificação e da modernização do parque imobiliário urbano, da coesão socioterritorial e económica, da igualdade e não discriminação e da sustentabilidade os espaços urbanos;
+
+c) Princípio da integração social, no sentido de o apoio ao acesso à habitação não significar o apoio a qualquer solução habitacional, devendo ser favorecidas soluções de ocupação dispersas em zonas habitacionais existentes ou que garantam a diversidade social e estejam inseridas no tecido urbano, assim se promovendo a integração da pessoa ou do agregado nas comunidades residentes e evitando-se fenómenos de segregação e de exclusão socioterritorial;
+
+d) Princípio da estabilidade, segundo o qual deve existir uma atuação conjugada dos diferentes atores institucionais envolvidos na facilitação do acesso à habitação por parte das pessoas mais desprotegidas, bem como ao nível da sua proteção, integração e autonomização, por forma a que estas sejam providas, não apenas de uma habitação, mas das condições habitacionais, financeiras e sociais necessárias à sua autonomização e à estabilidade das soluções apoiadas ao abrigo do 1.º Direito;
+
+e) Princípio da cooperação, pelo qual todos os atores, sejam públicos ou privados, devem promover a definição e concretização de procedimentos convergentes e articulados entre eles de modo a assegurar que as soluções habitacionais ao abrigo do 1.º Direito integram medidas complementares de acompanhamento técnico e social, antes, durante e após a respetiva promoção, no sentido de maximizar a sua eficácia, coerência e estabilidade;
+
+f) Princípio da participação, no sentido de ser assegurado que os destinatários das habitações financiadas ao abrigo do 1.º Direito são chamados, diretamente ou através de associações que os representem, a participar na definição e implementação das soluções habitacionais e sociais que lhes são destinadas, em particular quando estão em causa interesses específicos de pessoas e grupos mais vulneráveis, nomeadamente as comunidades ciganas e as pessoas em situação de sem abrigo;
+
+g) Princípio da equidade, segundo o qual deve ser assegurada uma justa repartição do esforço operacional e financeiro exigido a todas as entidades, públicas e privadas, envolvidas na promoção de soluções habitacionais que permitam garantir o acesso à habitação por parte de pessoas financeiramente carenciadas e a viver em situação habitacional indigna;
+
+h) Princípio da perequação, pelo qual o município competente deve adotar os mecanismos necessários para assegurar uma justa redistribuição dos benefícios e dos encargos decorrentes de operações urbanísticas promovidas no âmbito e para efeito de soluções habitacionais financiadas com o apoio do Estado ao abrigo do 1.º Direito;
+
+i) Princípio da reabilitação do edificado, segundo o qual o apoio público ao abrigo do 1.º Direito deve privilegiar a disponibilização de habitações através da reabilitação do edificado, em vez da construção de nova edificação, como forma de contribuir para a valorização do parque habitacional, para a requalificação e revitalização das cidades e para a sustentabilidade e uso eficiente dos recursos;
+
+j) Princípio do incentivo ao arrendamento, no sentido de que o apoio público ao abrigo do 1.º Direito deve privilegiar o acesso a uma habitação arrendada em detrimento da aquisição de habitação, como forma de contribuir para o equilíbrio entre regimes de ocupação e a promoção e regulação do mercado de arrendamento;
+
+k) Princípio das acessibilidades, de acordo com o qual as obras de reabilitação ou de construção em frações e prédios destinados a habitação devem integrar soluções de melhoria da acessibilidade, exigíveis nos termos das normas técnicas legalmente aplicáveis, que proporcionem a pessoas com mobilidade e autonomia condicionadas condições de facilidade e de conforto nos acessos à sua habitação e na circulação no interior da mesma;
+
+l) Princípio da sustentabilidade ambiental, segundo o qual, na promoção das intervenções de reabilitação e de construção apoiadas ao abrigo do 1.º Direito, são de adotar equipamentos, tecnologias e ou processos conducentes a uma utilização racional da energia e da água e à maximização da eficiência no uso das mesmas, no sentido de evitar desperdícios, otimizar os consumos e favorecer a sustentabilidade energética e hídrica.
+
+###### Artigo 4.º — Definições
+
+Para efeitos do presente decreto-lei considera-se:
+
+a) «Agregado habitacional», o conjunto constituído pelas pessoas que coabitam em economia comum no mesmo local e mantêm entre si vínculos de convivência estável e ou de dependência, ou que constitua uma unidade de convivência na aceção do n.º 2 do artigo 8.º da lei de bases da habitação (LBH), aprovada pela Lei n.º 83/2019, de 3 de setembro, excluindo as situações previstas no n.º 8 do artigo 4.º do Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual;
+
+b) «Agregado unititulado», o agregado habitacional constituído por um ou mais dependentes e um único adulto não dependente;
+
+c) «Dependente», o menor de idade e a pessoa que, não tendo mais de 25 anos ou tendo mais de 65 anos, aufira rendimentos iguais ou inferiores à pensão social do regime não contributivo, e que integre um agregado com um ou mais adultos não dependentes;
+
+d) «Deficiência» ou «incapacidade», a situação da pessoa com grau de incapacidade permanente igual ou superior a 60 %, devidamente comprovado com atestado médico de incapacidade multiúso;
+
+e) «Situação de carência financeira», a situação da pessoa ou do agregado habitacional cujo rendimento médio mensal seja inferior a 4 vezes o indexante dos apoios sociais (IAS) e, no caso dos beneficiários diretos a que se refere o artigo 25.º, que detenham um património mobiliário de valor inferior a 60 vezes o IAS;
+
+f) «Pessoa em situação de sem-abrigo», aquela que se encontre:
+
+i) Sem teto, vivendo no espaço público, alojada em abrigo de emergência ou com paradeiro em local precário; ou
+
+ii) Sem casa, encontrando-se em alojamento temporário destinado para o efeito;
+
+g) «Município competente», o município, ou o órgão do município, em cujo território reside a pessoa ou o agregado habitacional que se candidata a apoio ao abrigo do 1.º Direito ou no qual são promovidas as soluções habitacionais financiadas no âmbito deste programa, sem prejuízo de qualquer dessas soluções poder ser desenvolvida por uma junta de freguesia, uma região autónoma ou por uma associação de municípios, diretamente ou através de entidade que a represente, quando detenha os poderes para o efeito nos termos legais aplicáveis;
+
+h) «Serviços sociais competentes», os serviços e organismos com atribuições legais em matéria de assistência, de apoio e de solidariedade social, nomeadamente os serviços do Instituto da Segurança Social, I. P. (ISS, I. P.), e as comissões de proteção de crianças e jovens;
+
+i) «Habitação adequada», a fração ou o prédio destinado a habitação apto a satisfazer condignamente as necessidades habitacionais de uma pessoa ou de um agregado familiar determinado, tendo em consideração, designadamente, a composição deste, a tipologia da habitação e as condições de habitabilidade e de segurança da mesma;
+
+j) «Habitação própria e permanente», a fração ou o prédio cujo titular é, pelo menos, uma pessoa do agregado que nela reside e na qual os seus membros têm organizada de forma estável a sua vida pessoal, familiar e social, considerando-se como titular quem seja proprietário, superficiário ou usufrutuário da fração ou do prédio, no todo ou em parte maioritária;
+
+k) «Prédio», qualquer prédio urbano, ou seja, qualquer edifício incorporado no solo, com os terrenos que lhe sirvam de logradouro;
+
+l) «Fração», cada uma das partes de um prédio, esteja ou não em regime de propriedade horizontal, que constitui uma unidade independente, com saída própria para uma parte comum do prédio ou para a via pública, e as respetivas partes acessórias;
+
+m) «Partes acessórias da fração», os espaços destinados a garagem ou estacionamento e a arrecadação ou arrumos, que estejam afectos ao uso exclusivo da fração, e as áreas privativas de acesso e circulação, bem como, se for o caso, a quota-parte em partes comuns do prédio;
+
+n) «Fração habitacional», a fração destinada a fins habitacionais;
+
+o) «Área habitacional de um prédio», o somatório das áreas brutas das frações habitacionais de um prédio, sendo consideradas as áreas brutas privativas das frações quando o valor de referência para cálculo da comparticipação for o valor mediano das vendas por m2 divulgado pelo Instituto Nacional de Estatística, I. P. (INE, I. P.);
+
+p) «Empreendimento habitacional», o conjunto edificado em que o somatório das áreas brutas habitacionais dos prédios que o constituem corresponde a, pelo menos, metade da sua área bruta total;
+
+q) «Unidades residenciais» as áreas destinadas a utilização habitacional, exclusiva ou coletiva, de pessoas e de agregados familiares, delimitadas por paredes separadoras e integradas numa fração ou num prédio dotado de espaços complementares de utilização comum afetos a socialização e a assistência aos residentes;
+
+r) «Equipamento complementar», o prédio ou a parte independente de um prédio funcionalmente complementar de um empreendimento habitacional financiado ao abrigo do 1.º Direito, afeto a fins de utilização coletiva dos moradores, culturais, desportivos e de apoio social, incluindo os estabelecimentos sociais geridos por serviços municipais, serviços da segurança social ou por outras entidades ao abrigo de acordos de cooperação com a segurança social;
+
+s) «Área urbana degradada», a área inserida na malha urbana ou em espaço urbano periférico, caracterizada pela concentração de construções maioritariamente utilizadas para fins habitacionais em mau estado de conservação e sem condições mínimas de habitabilidade e por infraestruturas urbanísticas obsoletas, insuficientes e ou inexistentes, com evidências de exclusão social e económica da população que nela reside e cujo défice ao nível da qualidade do meio urbano a diferencia do ambiente urbano próximo ou envolvente, ou caracterizada pela sua vulnerabilidade a riscos naturais e ou antrópicos;
+
+t) «Reabilitação», a intervenção destinada a conferir adequadas características funcionais e de desempenho ambiental a um prédio ou a uma fração existente, bem como as formas de intervenção mais profundas de «reabilitação de edifícios» e de «reabilitação urbana», tal como definidas no artigo 2.º do regime jurídico da reabilitação urbana, criado pelo Decreto-Lei n.º 307/2009, de 28 de outubro, e alterado pela Lei n.º 32/2012, de 14 de agosto;
+
+u) «Soluções de sustentabilidade ambiental», as medidas construtivas, os equipamentos e as tecnologias destinados a dotar os prédios e as frações das condições necessárias a uma utilização racional da energia e da água, bem como para a gestão de resíduos;
+
+v) «Autopromoção», a promoção pelo próprio agregado elegível ao abrigo do 1.º Direito, através de empreitada contratada diretamente pelo mesmo, da construção de prédio unifamiliar destinado a proporcionar-lhe uma habitação adequada;
+
+w) «Divisão habitável», divisão cuja área é de pelo menos 4 m2.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 5.º — Conceito de condições indignas
+
+Vivem em condições indignas as pessoas que não dispõem de uma habitação adequada, residindo de forma permanente, nomeadamente, em situação de:
+
+a) Precariedade, considerando-se como tais as pessoas em situação de sem-abrigo, tal como definidas nos termos da alínea f) do artigo anterior, bem como os casos de pessoas sem solução habitacional alternativa ao local que usam como residência permanente, nomeadamente quando têm de o desocupar por causa relacionada com a declaração de insolvência de elementos do agregado ou do proprietário do imóvel onde o agregado reside, com situações de violência doméstica, com operações urbanísticas de promoção municipal ou com a não renovação de contrato de arrendamento;
+
+b) Insalubridade e insegurança, nos casos em que a pessoa ou o agregado vive em local, construído ou não, destituído de condições básicas de salubridade, segurança estrutural, estanquidade e higiene ou por ser uma edificação sem condições mínimas de habitabilidade;
+
+c) Sobrelotação, quando, da relação entre a composição do agregado e o número de divisões habitáveis da habitação, esta não dispõe de um número de divisões suficiente, considerando-se suficiente um número correspondente a uma divisão comum e a uma divisão por cada casal, por cada adulto, por cada duas pessoas do mesmo sexo com idades entre os 12 e os 17 anos, por cada pessoa de sexo diferente com idades entre os 12 e os 17 anos e por cada duas pessoas com menos de 12 anos;
+
+d) Inadequação, por incompatibilidade das condições da habitação com características específicas de pessoas que nele habitam, como nos casos de pessoas com incapacidade ou deficiência, em especial quando a habitação:
+
+i) Tem barreiras no acesso ao piso em que se situa; e ou
+
+ii) As medidas dos vãos e áreas interiores impedem uma circulação e uma utilização ajustadas às características específicas das pessoas que nelas residem.
+
+e) Sobrecarga de custos com a renda ou a prestação mensal do crédito à habitação, quando esta implique uma taxa de esforço superior a 40 % do rendimento médio mensal a que se refere o artigo 9.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921), em vigor a partir de 2025-04-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+### Capítulo II — Acesso
+
+#### Secção I — Acesso ao apoio da pessoa ou do agregado
+
+###### Artigo 6.º — Acesso ao apoio
+
+1 - Tem direito a aceder a uma habitação financiada com apoio público concedido ao abrigo do 1.º Direito a pessoa ou o agregado que reúna cumulativamente os seguintes requisitos de elegibilidade:
+
+a) Viva em condições indignas;
+
+b) Esteja em situação de carência financeira; e
+
+c) Seja cidadão nacional ou, sendo estrangeiro, tenha certificado de registo de cidadão comunitário ou título de residência válido no território nacional.
+
+2 - O município competente pode solicitar a colaboração do Serviço de Estrangeiros e Fronteiras para prestar informação e acompanhar cidadãos estrangeiros no processo de regularização de situações de permanência no seu território, nomeadamente para os efeitos do artigo 82.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, bem como ao Alto Comissariado para as Migrações, I. P. (ACM, I. P.), no respetivo processo de integração.
+
+###### Artigo 7.º — Exclusões
+
+1 - Ainda que se encontrem preenchidos os requisitos de elegibilidade previstos no artigo anterior, está excluído do apoio ao abrigo do 1.º Direito a pessoa, ou o agregado que integre uma pessoa, que esteja numa das seguintes situações:
+
+a) Seja detentor de título, como de propriedade, usufruto ou arrendamento, que lhe confere, e ao seu agregado, o direito a utilizar uma habitação adequada;
+
+b) Tenha beneficiado de apoio a fundo perdido para aquisição, construção ou reconstrução de habitação no âmbito de regimes legais de financiamento público de valor igual ou superior a 20 IAS nos últimos 15 anos, e não seja dependente ou deficiente;
+
+c) Seja cidadão estrangeiro com autorização de residência temporária para o exercício de determinadas atividades de curta e média duração, como são os casos de intercâmbio estudantil, voluntariado ou estágio profissional.
+
+2 - O título relativo a uma outra habitação não constitui causa de exclusão quando a distância mais curta entre a mesma e o local de trabalho da pessoa ou dos titulares do agregado habitacional seja superior a 100 km, nem quando for comprovado que a habitação está ocupada por terceiros com título legítimo para sua utilização como residência permanente ou em situações de violência doméstica, cabendo, em qualquer dos casos, ao município competente avaliar a situação e decidir sobre a mesma.
+
+3 - O título de propriedade relativo a outra habitação situada a uma distância inferior a 100 km medidos nos termos do número anterior, mas que não seja adequada, com fundamento nos motivos referidos nas alíneas c) e d) do artigo 5.º, não constitui causa de exclusão desde que, como contrapartida pelo apoio recebido ao abrigo do presente regime, o beneficiário celebre com o IHRU, I. P., ou com o município, contrato tendo em vista a disponibilização dessa habitação em regime de arrendamento acessível ou outro regime de renda reduzida.
+
+4 - O disposto nos números anteriores não prejudica a definição de outras causas de exclusão por parte do município competente, no exercício do seu poder regulamentar.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 116/2025 - Diário da República n.º 207/2025, Série I de 2025-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2025-942401304) As alterações introduzidas ao presente Decreto-Lei são aplicáveis aos atos e contratos a realizar após a data da sua entrada em vigor, bem como às relações jurídicas já constituídas e às candidaturas que tenham sido tempestivamente submetidas ao abrigo do Aviso n.º 01/CO2-i01/2021.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116/2025 - Diário da República n.º 207/2025, Série I de 2025-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2025-942401304), em vigor a partir de 2025-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921), em vigor a partir de 2025-04-01
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 8.º — Rendimento anual
+
+O rendimento anual de uma pessoa ou de um agregado habitacional é a soma dos rendimentos referidos no artigo 3.º da Portaria n.º 311-D/2011, de 27 de dezembro, auferidos pela pessoa ou por todos os elementos do agregado e relativos ao último ano civil de que a Autoridade Tributária Aduaneira (AT) dispõe de informação.
+
+###### Artigo 9.º — Rendimento médio mensal
+
+1 - O rendimento médio mensal (RMM) da pessoa ou do agregado corresponde a um duodécimo do respetivo rendimento anual, corrigido de acordo com uma escala de equivalência que atribui uma ponderação de:
+
+a) 1,0 ao primeiro adulto não dependente e 0,7 a cada um dos restantes;
+
+b) 0,25 a cada dependente ou 0,5 a cada dependente integrado em agregado unititulado;
+
+c) 0, 25 a cada pessoa com grau de incapacidade igual ou superior a 60 %, a acrescer à ponderação de dependente ou de adulto não dependente;
+
+d) 0,25 ao adulto não dependente que viva sozinho e tenha idade igual ou superior a 65 anos a acrescer à ponderação de adulto não dependente.
+
+2 - No caso de não ser possível apurar o rendimento anual nos termos previstos no artigo anterior ou se esse rendimento tiver entretanto sofrido alteração significativa, o RMM da pessoa ou do agregado é o resultado da divisão do total dos rendimentos referidos no n.º 2 do artigo 3.º da Portaria n.º 311-D/2011, de 27 de dezembro, pelo número de meses em que foram efetivamente auferidos, corrigido pelos valores das alíneas do número anterior aplicáveis ao caso concreto, sem prejuízo de confirmação posterior com a informação disponibilizada pela AT ao Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), nos termos do artigo anterior.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+#### Secção II — Acesso de pessoas e agregados em situações específicas
+
+###### Artigo 10.º — Pessoas vulneráveis
+
+1 - As entidades referidas nas alíneas a) a d) do artigo 26.º podem pedir financiamento ao abrigo do disposto no presente decreto-lei para soluções habitacionais específicas de transição e ou de inserção de pessoas especialmente vulneráveis, nomeadamente as pessoas em situação de sem-abrigo e as vítimas de violência doméstica e os requerentes e beneficiários de proteção internacional.
+
+2 - As soluções habitacionais referidas no número anterior podem ter em conta, entre outras, as especificidades inerentes a unidades residenciais destinadas a casas de abrigo que, além das áreas sociais, devem integrar áreas habitacionais autónomas que assegurem condições de privacidade e de autonomia às pessoas nelas acolhidas.
+
+3 - Cabe ao IHRU, I. P., avaliar a compatibilidade técnica e financeira do projeto habitacional para inserção de pessoas especialmente vulneráveis com as condições estabelecidas no presente decreto-lei, podendo, para o efeito, solicitar a colaboração de outros organismos, como o ISS, I. P., o Gestor Executivo da Estratégia Nacional para Integração das Pessoas em Situação de Sem-Abrigo, a Comissão para a Cidadania, a Igualdade de Género (CIG) e o Alto Comissariado para as Migrações, I. P. (ACM, I. P.).
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 11.º — Núcleos precários
+
+1 - Sem prejuízo do disposto nos números seguintes, podem beneficiar de apoio para acesso a uma habitação adequada as pessoas e os agregados que vivem em construções não licenciadas, acampamentos ou outras formas de alojamento precário ou improvisado, mantendo entre si contactos subsumíveis no conceito de relações de proximidade e de vizinhança, numa mesma área territorial delimitada nos termos legais como uma Área Urbana de Génese Ilegal (AUGI) ou delimitável por configurar um conjunto usualmente designado por «bairro», «núcleo» ou «acampamento».
+
+2 - As pessoas e os agregados a que se refere o número anterior, que cumpram os requisitos de elegibilidade previstos nos artigos 5.º e seguintes, podem beneficiar de apoio para acesso a uma habitação adequada:
+
+a) Individualmente;
+
+b) No âmbito de uma solução habitacional promovida pelo município competente; ou
+
+c) Agrupados sob a forma de associação de moradores ou de cooperativa de habitação e construção em regime de propriedade coletiva, para atribuição de habitações em arrendamento ou em propriedade resolúvel.
+
+3 - As soluções habitacionais para as pessoas e as entidades referidas no número anterior podem ser financiadas ao abrigo do 1.º Direito desde que:
+
+a) A aquisição de terrenos, se incluídas, e a construção ou aquisição de prédios habitacionais se destinem a assegurar uma habitação adequada noutro local às pessoas e agregados identificados em levantamento efetuado pelo município competente e esteja assegurada a demolição de todas as construções não licenciadas aquando da respetiva desocupação; ou
+
+b) A intervenção de reabilitação se insira em processo de legalização das construções que faculte aos respetivos moradores o acesso a uma habitação adequada, podendo aplicar-se ao caso de expropriação pelo município o financiamento a que se refere o artigo 36.º
+
+> Retificado pelo/a [Declaração de Retificação n.º 25/2018 - Diário da República n.º 148/2018, Série I de 2018-08-02](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2018-115879181), produz efeitos a partir de 2018-06-05
+
+###### Artigo 12.º — Núcleos degradados
+
+1 - Têm direito a aceder a uma habitação adequada, através da concessão de financiamento aos proprietários das habitações, as pessoas e agregados que residem em áreas urbanas degradadas cujas edificações, pelas suas características específicas de vetustez, organização espacial e construção ou de risco, constituem núcleos habitacionais com uma identidade própria e diferenciada no espaço urbano, usualmente identificados com designações como «ilha», «pátio» ou «vila».
+
+2 - No caso do número anterior, ainda que não seja o município o proprietário das edificações, as intervenções de reabilitação no espaço urbano, caso ocorram, devem ser ativamente acompanhadas por ele, preferencialmente no âmbito de operações de reabilitação urbana sistemática, a promover diretamente ou através de uma entidade gestora da reabilitação, nos termos do Regime Jurídico da Reabilitação Urbana (RJRU) estabelecido pelo Decreto-Lei n.º 307/2009, de 23 de outubro, na sua redação atual.
+
+3 - A reabilitação no âmbito do RJRU pode ser assumida pelo município ou pela entidade gestora da reabilitação através de uma empreitada única nos termos do artigo 56.º do RJRU, cabendo-lhe contratar e gerir a empreitada, bem como contratar o correspondente financiamento ao abrigo do 1.º Direito, em representação dos proprietários que utilizem as habitações para residência permanente ou as tenham cedido às pessoas que nelas residem, nomeadamente, através de arrendamento, garantindo o cumprimento do princípio da participação.
+
+4 - Os proprietários que se oponham à representação da entidade gestora da reabilitação e não contratem as obrigações que lhes cabem no processo de reabilitação urbana ou que, contratando, não cumpram essas obrigações, são notificados nos termos do n.º 2 do artigo 55.º do RJRU e ficam sujeitos à tomada de posse administrativa das frações ou dos prédios por parte da entidade gestora da reabilitação para dar execução às obras ou promover a expropriação por utilidade pública ao abrigo do disposto nos n.os 2 e 3 do artigo 55.º e no n.º 2 do artigo 61.º do RJRU.
+
+5 - Para viabilização das intervenções de reabilitação de frações ou prédios habitacionais situados em núcleos degradados cujos titulares não podem ou não querem promover a reabilitação, o município ou, no caso de operação de reabilitação urbana, a respetiva entidade gestora tem direito a aceder a financiamento nos termos do artigo 36.º, quer a aquisição se efetue por acordo com o titular, quer pela via expropriativa.
+
+6 - Os moradores das frações ou prédios objeto da reabilitação têm os direitos que lhes são atribuídos nos termos do artigo 73.º do RJRU, conjugado com o Decreto-Lei n.º 157/2006, de 8 de agosto, na sua redação atual, sendo, em especial, aplicável o disposto no artigo 17.º e no n.º 3 do artigo 20.º do Decreto-Lei n.º 157/2006, de 8 de agosto, na sua redação atual, no caso do morador preterir o direito a realojamento equivalente ou a indemnização e permanecer na habitação reabilitada ou a reocupar após a conclusão das obras.
+
+7 - Quando, por aplicação do disposto na parte final do número anterior, o montante total anual das rendas pagas pelo morador for inferior ao encargo anual suportado pelo proprietário com o reembolso do empréstimo relativo à respetiva reabilitação, este pode solicitar apoio para suportar a diferença entre aqueles montantes.
+
+8 - A intervenção num núcleo degradado deve preferencialmente abranger a totalidade do mesmo e, sempre que, no âmbito da mesma, exista prédio ou fração devoluto ou que deva ser demolido ou reconfigurado, são de considerar as seguintes condições:
+
+a) Se da intervenção resultar a existência de prédio ou frações vagos, estes devem ser destinados a pessoas e agregados sinalizados na ELH do município; ou
+
+b) Se daí decorrer uma redução do número de habitações preexistentes, além da aplicação pelo município dos mecanismos de perequação entre proprietários, as pessoas e os agregados residentes nesse núcleo que devam ser realojados podem aceder a uma habitação adequada através de uma solução financiada ao abrigo do 1.º Direito.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Retificado pelo/a [Declaração de Retificação n.º 25/2018 - Diário da República n.º 148/2018, Série I de 2018-08-02](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2018-115879181), produz efeitos a partir de 2018-06-05
+
+###### Artigo 13.º — Colaboração de entidades públicas
+
+1 - As pessoas e as entidades referidas nos artigos anteriores podem solicitar prévio aconselhamento junto do município competente e do IHRU, I. P., sobre a viabilidade da solução habitacional que pretendem promover ao abrigo do 1.º Direito.
+
+2 - No caso do artigo 11.º, o município competente emite parecer, não vinculativo do licenciamento, sobre a conformação e a viabilidade de uma solução habitacional através da legalização das construções existentes ou da construção no mesmo local.
+
+3 - Se o parecer do município for negativo mas a solução habitacional for viável mediante a sua alteração, o município deve fazer menção desse facto e das alterações necessárias para esse efeito.
+
+4 - Sempre que as características da situação o justifiquem, o IHRU, I. P., para além da participação dos serviços sociais que acompanham as situações, pode solicitar a colaboração de organismos vocacionados em função das matérias para apoiarem na definição da solução mais adequada ao caso concreto em função das condições legais e regulamentares específicas, designadamente o ISS, I. P., o Instituto Nacional para a Reabilitação, I. P., a CIG e o ACM, I. P.
+
+5 - Nos casos em que a viabilidade da solução habitacional depende apenas da publicação de regulamento municipal que concretize a adequação dos regimes legais aplicáveis, cabe ao município promover as diligências que se revelem necessárias à sua emissão.
+
+### Capítulo III — Natureza e condições gerais dos apoios
+
+#### Secção I — Disposições comuns
+
+###### Artigo 14.º — Despesas elegíveis
+
+1 - São elegíveis para efeito de cálculo de financiamento das soluções habitacionais referidas nas alíneas c) a g) do artigo 27.º, as despesas com:
+
+a) O preço das aquisições ou das empreitadas;
+
+b) Os trabalhos e fornecimentos necessários às soluções de acessibilidades e de sustentabilidade ambiental que não estejam incluídos nos fornecimentos da empreitada;
+
+c) As prestações de serviços relacionadas com projetos, sondagens, fiscalização e segurança da obra, bem como os encargos com a publicitação prevista no n.º 4 do artigo 18.º;
+
+d) Os atos notariais e de registo de que dependa a regular contratação e garantia dos apoios, designadamente despesas com escrituras de habilitação de herdeiros e respetivos registos, assim como despesas com escrituras de propriedade horizontal e sucessivos registos;
+
+e) As despesas com o alojamento temporário em soluções dignas, de arrendamento habitacional, aquisição e arrendamento de alojamentos provisórias e empreendimento turístico ou similar, de pessoas e agregados, no âmbito da realização de obras financiadas ao abrigo do 1.º Direito, quando esse alojamento for imprescindível para a promoção das mesmas, em função das despesas efetivas com os valores máximos de referência aplicáveis ao arrendamento habitacional nos termos do Decreto-Lei n.º 29/2018, de 4 de maio, na sua redação atual, com as necessárias adaptações;
+
+f) Os atos e os serviços necessários à constituição de uma associação de moradores ou de uma cooperativa de habitação e construção, nos termos da alínea c) do n.º 2 do artigo 11.º
+
+2 - As despesas referidas no número anterior incluem o valor do Imposto sobre o Valor Acrescentado (IVA) aplicável, salvo no caso de a entidade financiada poder exercer o direito à sua dedução.
+
+3 - Nas condições previstas no número anterior, quando o IHRU, I. P., atue como beneficiário intermediário ao abrigo do disposto no artigo 9.º do Decreto-Lei n.º 29-B/2021, de 4 de maio, pode receber as transferências, na qualidade de substituto do respetivo beneficiário final, nos termos do disposto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, com as necessárias adaptações, incluindo nas situações em que os beneficiários finais que não se enquadrem no âmbito do n.º 1 do artigo 2.º do mesmo decreto-lei.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 38/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805), em vigor a partir de 2023-05-30
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 89/2021 - Diário da República n.º 213/2021, Série I de 2021-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2021-173732851), em vigor a partir de 2021-11-04
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 15.º — Apoio em espécie
+
+1 - O IHRU, I. P., e o município competente, diretamente ou em representação de outras entidades, pode conceder apoio em espécie à promoção de soluções habitacionais nos casos de autopromoção ou dos artigos 11.º e 12.º, nomeadamente através de doações de projetos e ou de materiais a incorporar nas obras, caso em que os valores correspondentes a esses apoios não constituem despesas elegíveis para efeito de concessão de apoio financeiro ao abrigo do 1.º Direito.
+
+2 - Para efeito do disposto no número anterior, o valor do apoio em espécie corresponde:
+
+a) No caso de serviços técnicos, o valor fixado pelo IHRU, I. P., até ao máximo de 10 % do preço da empreitada;
+
+b) No caso dos materiais, o valor de aquisição ou de incorporação dos mesmos nas contas da entidade doadora.
+
+###### Artigo 16.º — Apoio técnico
+
+1 - As pessoas e entidades indicadas no artigo 25.º e nas alíneas d) e e) do artigo 26.º, podem solicitar o aconselhamento e apoio do IHRU, I. P., ao nível da instrução das candidaturas, da elaboração e formalização de instrumentos contratuais e da requisição de registos no âmbito dos processos de contratação.
+
+2 - As entidades a que se refere a alínea a) do artigo 26.º podem solicitar ao IHRU, I. P., a concessão de apoio financeiro para efeito de contratação do apoio técnico que se revele necessário à preparação dos pedidos e à gestão das candidaturas ao 1.º Direito, bem como para a elaboração dos correspondentes documentos justificativos e estratégicos.
+
+3 - O apoio referido no número anterior é concedido sob a forma de comparticipação, devendo o IHRU, I. P., destinar até 2 % da dotação anual do 1.º Direito para assegurar o financiamento das despesas com as contratações referidas no número anterior.
+
+4 - O apoio financeiro referido nos números anteriores pode exceder 2/prct. de cada dotação anual do 1.º Direito, com um limite máximo de (euro) 4 000 000,00.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+> Alterado pelo/a Artigo 184.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+###### Artigo 17.º — Apoio financeiro
+
+Pode ser concedido apoio financeiro ao abrigo do 1.º Direito sob a forma de comparticipações financeiras não reembolsáveis e de bonificação da taxa de juro de empréstimos.
+
+###### Artigo 18.º — Condições gerais dos financiamentos
+
+1 - Os financiamentos podem ser constituídos por comparticipação, por empréstimo ou por comparticipação e empréstimo e, em qualquer dos casos, têm como limite máximo o valor de referência estabelecido para cada solução habitacional nos termos do presente decreto-lei, sem prejuízo dos limites específicos relativos a cada uma dessas soluções.
+
+2 - O montante total do financiamento à promoção de soluções habitacionais através de aquisição, de aquisição e reabilitação, de reabilitação ou de construção não pode exceder 90 % do valor de referência aplicável ou do valor total das despesas elegíveis, se este for inferior, sem prejuízo do disposto no número seguinte.
+
+3 - Nos casos de financiamento a beneficiários diretos ou de financiamento de soluções habitacionais relativas às situações a que se referem os artigos 10.º, 11.º e 12.º, o montante máximo do financiamento corresponde ao valor total das despesas elegíveis ou ao valor de referência aplicável ao caso, se este for inferior.
+
+4 - O financiamento público ao abrigo do 1.º Direito que tenha por objeto um edifício ou um empreendimento deve ser publicitado pelas entidades beneficiárias, de forma facilmente visível ao público, no local das obras de reabilitação ou de construção do mesmo, durante a sua realização, bem como no próprio edifício ou num dos edifícios do empreendimento, no prazo máximo de três meses após a respetiva aquisição ou a conclusão das obras, nos termos a definir pelo IHRU, I. P.
+
+> Nota: [Artigo 13.º, Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578) O disposto no n.º 4 do artigo 18.º do Decreto-Lei n.º 37/2018, de 4 de junho, na redação introduzida pelo presente decreto-lei, é aplicável aos edifícios e empreendimentos já financiados ao abrigo do 1.º Direito, bem como a obras em curso cujo nível de execução o IHRU, I. P., entenda ainda o justificar.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 19.º — Condições gerais das comparticipações
+
+1 - As comparticipações relativas a reabilitação, construção ou aquisição reportam-se exclusivamente à parte das despesas elegíveis relativa às frações habitacionais e áreas habitacionais dos prédios, tal como definidas nas alíneas l) a o) do artigo 4.º, sendo o respetivo montante calculado com base na parcela do total das despesas elegíveis proporcional àquelas áreas, sem prejuízo do disposto nos números seguintes.
+
+2 - Salvo nos casos de pessoas e agregados já residentes nas habitações financiadas, estas destinam-se, consoante o caso, a habitação própria e permanente ou a arrendamento, através do arrendamento apoiado, da renda condicionada ou de outras modalidades de rendas reduzidas de valor equivalente, bem como a subconcessão ou outros regimes de cedência de uso e habitação, desde que, nestes casos, seja assegurado um custo de acessibilidade de valor equivalente ao do arrendamento.
+
+3 - No caso de unidades residenciais, são consideradas para efeito de comparticipação as despesas elegíveis relativas à totalidade da área do prédio ou da fração destinadas às mesmas, tal como definidas na alínea q) do artigo 4.º
+
+4 - Para efeito do cálculo das comparticipações às áreas habitacionais, a parcela das despesas com obras e equipamentos destinados a conferir aos prédios e às habitações as condições de cumprimento das normas técnicas de acessibilidade e de soluções de sustentabilidade ambiental é acrescentada na totalidade ao correspondente valor de referência, até ao máximo de 10 % do valor total da empreitada de construção ou de reabilitação, sem prejuízo do disposto nos números seguintes.
+
+5 - No caso de intervenções de reabilitação, apenas são comparticipáveis as despesas relativas a soluções de eficiência energética que incluam melhoria do desempenho energético, evidenciado mediante certificação energética final que ateste o cumprimento do Decreto-Lei n.º 101-D/2020, de 7 de dezembro, alterado pelo Decreto-Lei n.º 102/2021, de 19 de novembro, e pelo Decreto-Lei n.º 11/2025, de 19 de fevereiro, que estabelece os requisitos aplicáveis a edifícios para a melhoria do seu desempenho energético e regula o Sistema de Certificação Energética de Edifícios.
+
+6 - Com exceção do apoio ao arrendamento para subarrendamento, quando haja lugar à aplicação conjugada de duas ou mais majorações da comparticipação, a percentagem total dessas majorações não pode ser superior a 25 %.
+
+7 - A atribuição de habitações financiadas ao abrigo do programa a pessoas ou agregados habitacionais a que se refere o artigo 10.º pode ser realizada nas condições do regime excecional do artigo 14.º da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual, designadamente no que respeita à possibilidade de dispensa de contrato escrito.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921), em vigor a partir de 2025-04-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 20.º — Condições gerais dos empréstimos
+
+1 - Sem prejuízo dos limites estabelecidos nos n.os 2 e 3 do artigo 18.º, a parte das despesas elegíveis que não é comparticipada pode ser financiada com empréstimos bonificados.
+
+2 - A bonificação da taxa juro é de metade da taxa de referência para o cálculo de bonificações (TRCB), criada pelo Decreto-Lei n.º 359/89, de 18 de outubro, ou da taxa contratual, quando esta for inferior, sendo atribuída pelo Estado, através do IHRU, I. P., por um período de 10 anos, nos termos dos artigos 2.º a 4.º do Decreto-Lei n.º 150-A/91, de 22 de abril, e de acordo com os critérios orçamentais previstos no artigo 82.º
+
+3 - Os empréstimos concedidos ao abrigo do 1.º Direito têm um prazo máximo total de 30 anos.
+
+4 - As demais condições de taxa de juro, de utilização e de amortização são acordadas entre as partes, atendendo, para o efeito, à minimização do esforço financeiro exigido aos mutuários e ao cumprimento de condições especiais a que alguns deles, nomeadamente os municípios, estão legalmente obrigados.
+
+5 - Os empréstimos são preferencialmente garantidos por hipoteca sobre os imóveis financiados, sem prejuízo de a instituição financiadora, por razões de segurança do crédito, poder exigir outras garantias ou garantias adicionais, designadamente, no caso dos municípios, a consignação de receitas do Fundo Geral Municipal.
+
+###### Artigo 21.º — Cumulação de apoios
+
+1 - Os apoios financeiros concedidos ao abrigo do 1.º Direito não são cumuláveis com apoios financeiros concedidos por outras entidades para os mesmos fins, salvo se a cumulação se justificar, for aprovada pelo IHRU, I. P., e for feita menção a esses outros apoios no acordo de financiamento ou no contrato.
+
+2 - Cabe ao IHRU, I. P., avaliar quais as despesas de soluções habitacionais que podem ser objeto de apoio no âmbito de programas de apoio especial, nomeadamente ao nível da sustentabilidade ambiental, caso em que deve informar os beneficiários sobre a aplicação conjugada desses apoios com o financiamento concedido ao abrigo do 1.º Direito e, se for o caso, apoiá-los na elaboração das correspondentes candidaturas.
+
+3 - Quando os apoios financeiros de outras entidades forem aceites pelo IHRU, I. P., ou corresponderem a apoios em espécie, o montante do apoio ao abrigo do 1.º Direito é reduzido na medida necessária ao cumprimento do disposto no número seguinte.
+
+4 - O valor total dos apoios, financeiros e em espécie, não pode ser superior ao do investimento a que se destinam.
+
+###### Artigo 22.º — Disponibilização dos apoios
+
+1 - As obras de reabilitação e de construção são financiadas sob a forma conjugada de comparticipação e, se for o caso, de empréstimo, sendo as correspondentes verbas disponibilizados na medida da obra executada e do cumprimento do plano de trabalhos ou, no caso de outras despesas elegíveis, contra a apresentação dos respetivos comprovativos, sem prejuízo das alterações decorrentes da antecipação das verbas necessárias para pagamento de quantias devidas pelos adiantamentos do preço das empreitadas que forem contratualmente estabelecidos.
+
+2 - As comparticipações e os empréstimos à aquisição são, em regra, disponibilizados no ato de celebração das escrituras, ou posteriormente, sem prejuízo da possibilidade de adiantamento das verbas necessárias para pagamento de quantias devidas a título de sinal ou de princípio de pagamento de contratos-promessa.
+
+3 - Nos casos em que, aquando da celebração dos contratos-promessa de compra e venda, ainda não tenha sido emitida a autorização de utilização, sem prejuízo da celebração do contrato de financiamento, a disponibilização das comparticipações e dos empréstimos só pode ocorrer após a emissão daquela.
+
+4 - As despesas elegíveis não abrangidas pelo disposto nos números anteriores, relativas a atos ou contratos complementares do contrato principal, tais como as relativas a prestações de serviços para elaboração de projetos e à constituição de uma cooperativa de habitação e construção ou de uma associação de moradores, podem ser objeto de adiantamento do financiamento.
+
+5 - Sem prejuízo do previsto nos números anteriores, a primeira prestação corresponde a 25 % do financiamento e assume a natureza de adiantamento, disponibilizado após a celebração do contrato de financiamento, apenas podendo ser de valor superior se corresponder a despesas realizadas, devidamente comprovadas.
+
+6 - Nas obras de reabilitação e de construção promovidas pelos beneficiários previstos no artigo 25.º e pelas entidades constantes das alíneas d) e e) do artigo 26.º, a primeira prestação, que assume a natureza de adiantamento, será disponibilizada em duas fases, nos seguintes termos:
+
+a) Com a celebração do contrato de financiamento, o valor correspondente a 25 % das despesas elegíveis, excluindo as despesas referentes à empreitada;
+
+b) O valor remanescente, com a assinatura do contrato de empreitada.
+
+7 - Nos casos previstos no número anterior, quando as obras ou contratos se encontrem em execução, ou concluídos, as prestações subsequentes ao adiantamento são disponibilizadas em função dos comprovativos das despesas realizadas, podendo o IHRU, I. P., fazer depender cada nova libertação de verbas da apresentação de documentos que comprovem a boa aplicação dos montantes recebidos.
+
+8 - Nas obras de reabilitação e de construção promovidas pelas entidades beneficiárias previstas nas alíneas a) a c) do artigo 26.º, que sejam financiadas sob a forma de comparticipação, as correspondentes verbas são disponibilizadas em prestações de até 25 % do financiamento, apenas podendo ser superiores se corresponderem a trabalhos executados ou, no caso de outras despesas elegíveis, desde que realizadas e devidamente comprovadas.
+
+9 - Nos casos previstos no número anterior, as prestações subsequentes ao adiantamento são disponibilizadas após demonstração, com o envio dos respetivos comprovativos de pagamento, da execução dos trabalhos de valor não inferior a 80 % do valor disponibilizado na prestação imediatamente anterior, e de valor não inferior a 100 % do valor disponibilizado nas restantes prestações.
+
+10 - Os últimos 5 % do valor do financiamento apenas podem ser disponibilizados após a entrega comprovada das habitações.
+
+11 - A libertação de verbas depende da existência de liquidez por parte do IHRU, I. P., e da apresentação dos comprovativos das despesas realizadas que atestem a boa aplicação dos montantes entretanto recebidos.
+
+12 - No caso de candidaturas submetidas pelas entidades beneficiárias previstas nas alíneas a) e b) do artigo 26.º, ao abrigo do Aviso n.º 01/C02-i01/2021, que venham a ser financiadas pelo Plano de Recuperação e Resiliência (PRR) ou convertidas para o regime do 1.º Direito, nos termos previstos nos artigos 83.º e 83.º-A, o adiantamento previsto no n.º 5 pode atingir 95 % do financiamento, quando as obras se encontrem concluídas ou com aquisição concretizada, ou 85 % do financiamento, quando as obras apresentem um grau de execução superior a 50 %, desde que se observe o disposto no número seguinte.
+
+13 - A disponibilização de adiantamentos de valor superior a 25 % do financiamento, nos termos do número anterior, depende da apresentação ao IHRU, I. P., consoante aplicável:
+
+a) Auto de receção provisória, acompanhado de declaração do dirigente máximo com poderes de representação, que ateste a conclusão das habitações; ou
+
+b) Declaração do dirigente máximo com poderes de representação, que ateste um grau avançado de execução da obra, superior a 50 % e que a obra fica concluída até 30 de junho de 2026.
+
+14 - As entidades beneficiárias devem enviar ao IHRU, I. P., todos os documentos comprovativos das despesas e pagamentos realizados, no prazo de 30 dias úteis após a receção do adiantamento referido no número anterior, sob pena de incorrer em incumprimento e na recuperação dos montantes disponibilizados, nos termos previstos no artigo 10.º-A do Decreto-Lei n.º 29-B/2021, de 4 de maio, na sua redação atual.
+
+15 - Nas obras de reabilitação e de construção promovidas pelos municípios, em nome e no interesse dos beneficiários previstos no artigo 25.º, ao abrigo da celebração de um acordo de representação, nos termos previstos nos artigos 60.º e 61.º, é aplicável o disposto nos n.os 12 a 14 do presente artigo, sendo as declarações emitidas pelo presidente da Câmara Municipal.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 116/2025 - Diário da República n.º 207/2025, Série I de 2025-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2025-942401304) As alterações introduzidas ao presente Decreto-Lei são aplicáveis aos atos e contratos a realizar após a data da sua entrada em vigor, bem como às relações jurídicas já constituídas e às candidaturas que tenham sido tempestivamente submetidas ao abrigo do Aviso n.º 01/CO2-i01/2021.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116/2025 - Diário da República n.º 207/2025, Série I de 2025-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2025-942401304), em vigor a partir de 2025-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921), em vigor a partir de 2025-04-01
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 38/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805), em vigor a partir de 2023-05-30
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+#### Secção II — Entidades financiadoras e beneficiários
+
+###### Artigo 23.º — Estratégia e gestão locais
+
+Cabe ao município competente agregar, avaliar e gerir todos os pedidos de apoio ao abrigo do 1.º Direito que lhe sejam submetidos em consonância com a estratégia por ele definida para as soluções habitacionais que pretende ver desenvolvidas no seu território, promovendo as ações necessárias para assegurar a universalidade, a coerência e a equidade no acesso a essas soluções por parte das pessoas e agregados que vivem em condições indignas e em situação de carência financeira.
+
+###### Artigo 24.º — Instituições financiadoras
+
+1 - Cabe ao IHRU, I. P., gerir e promover os procedimentos necessários à concessão dos apoios financeiros em função das disponibilidades orçamentais existentes e decidir sobre o financiamento das soluções habitacionais apresentadas, bem como assegurar uma monitorização contínua e uma avaliação bienal do programa.
+
+2 - O financiamento às soluções habitacionais promovidas ao abrigo do 1.º Direito é concedido pelo IHRU, I. P., sem prejuízo dos empréstimos bonificados poderem ser concedidos por instituições de crédito que, para o efeito, celebrem um protocolo com aquele instituto, que dá conhecimento do mesmo à Direção-Geral do Tesouro e Finanças (DGTF).
+
+3 - As instituições de crédito que pretendam celebrar protocolos ao abrigo do número anterior comunicam essa intenção ao Banco de Portugal, não ficando prejudicada pelo disposto no presente diploma a aplicação das normas que regulam a atividade dessas instituições, designadamente as constantes do regime jurídico do crédito hipotecário.
+
+###### Artigo 25.º — Beneficiários diretos
+
+1 - Podem beneficiar de apoio direto para acesso a uma habitação adequada, através das soluções habitacionais previstas para o efeito no presente decreto-lei, as pessoas que preencham os requisitos de acesso ao 1.º Direito, isoladamente ou enquanto titulares de um agregado.
+
+2 - Em qualquer dos casos de financiamento a beneficiários diretos, o município competente pode participar como parceiro ou representante dos mesmos na promoção das soluções habitacionais, nos termos do artigo 60.º e do n.º 2 do artigo 61.º
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 26.º — Entidades beneficiárias
+
+Podem beneficiar de apoio para a promoção de soluções habitacionais destinadas a proporcionar o acesso a uma habitação adequada a pessoas e agregados abrangidos pelo 1.º Direito as seguintes entidades:
+
+a) O Estado, através da DGTF, as Regiões Autónomas e municípios, bem como associações de municípios constituídas para efeito de resolução conjunta de situações de carência habitacional existentes nos respetivos territórios e ou de promoção de soluções habitacionais conjuntas para as mesmas;
+
+b) Empresas públicas, entidades públicas empresariais ou institutos públicos das administrações central, regional e local, incluindo as empresas municipais, com atribuições e competências de promoção e ou de gestão de prédios e frações destinados a habitação;
+
+c) Misericórdias, instituições particulares de solidariedade social, cooperativas de habitação e construção, pessoas coletivas de direito público ou privado de utilidade pública administrativa ou de reconhecido interesse público e entidades gestoras de casas de abrigo e respostas de acolhimento para requerentes e beneficiários de proteção internacional, da Rede de Apoio a Vítimas de Violência Doméstica e de pessoas em situação de sem-abrigo;
+
+d) Associações de moradores e cooperativas de habitação e construção, conforme disposto no artigo 11.º;
+
+e) Os proprietários de frações ou prédios situados em núcleos degradados, conforme disposto no artigo 12.º
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+#### Secção III — Soluções habitacionais e estratégia local
+
+###### Artigo 27.º — Soluções habitacionais
+
+O 1.º Direito destina-se a proporcionar o acesso a habitações adequadas a pessoas que vivem em condições indignas através das seguintes soluções habitacionais:
+
+a) Arrendamento de habitações para subarrendamento;
+
+b) Encargo com os moradores de núcleos degradados a que se refere o n.º 7 do artigo 12.º;
+
+c) Reabilitação de frações ou de prédios habitacionais;
+
+d) Construção de prédios ou empreendimentos habitacionais;
+
+e) Aquisição de frações ou prédios para destinar a habitação;
+
+f) Aquisição de terrenos destinados à construção de prédio ou de empreendimento habitacional;
+
+g) Aquisição, reabilitação ou construção de prédios ou frações destinados a equipamentos complementares de apoio social integrados em empreendimentos habitacionais financiados ao abrigo do 1.º Direito.
+
+###### Artigo 28.º — Conjugação de soluções
+
+Desde que a situação concreta o justifique, os apoios ao abrigo do 1.º Direito podem ser concedidos através de soluções coerentes e integradas que visem mais do que um dos fins objeto de apoio, tais como nos casos de:
+
+a) Aquisição de frações ou de prédios degradados e subsequente reabilitação dos mesmos; ou
+
+b) Aquisição de terrenos e construção de um empreendimento habitacional em regime de habitação de custos controlados;
+
+c) Aquisição de terrenos e reabilitação de prédios neles existentes.
+
+###### Artigo 29.º — Acesso às soluções habitacionais
+
+Os beneficiários diretos e as entidades beneficiárias têm acesso a financiamento para as soluções habitacionais previstas nos artigos anteriores nos seguintes casos:
+
+a) Os beneficiários diretos para:
+
+i) Autopromoção;
+
+ii) Reabilitação de habitação de que sejam titulares;
+
+iii) Aquisição ou aquisição e reabilitação de habitação;
+
+b) As entidades beneficiárias indicadas nas alíneas a), b) e c) do artigo 26.º para qualquer dos fins referidos no artigo 27.º;
+
+c) As entidades beneficiárias indicadas na alínea d) do artigo 26.º para:
+
+i) Reabilitação de frações e prédios habitacionais;
+
+ii) Aquisição ou aquisição e reabilitação de frações e prédios habitacionais;
+
+iii) Aquisição de terrenos para construção de prédios ou empreendimentos habitacionais;
+
+iv) Construção de prédios ou empreendimentos habitacionais; ou
+
+v) Aquisição e ou reabilitação, ou construção de prédios ou frações destinados a equipamentos complementares integrados em empreendimentos habitacionais financiados ao abrigo do 1.º Direito;
+
+d) As entidades beneficiárias indicadas na alínea e) do artigo 26.º para reabilitação de frações ou prédios habitacionais de que sejam titulares, situados em núcleos degradados.
+
+###### Artigo 30.º — Estratégia local
+
+Em alinhamento com os princípios constantes do artigo 3.º e com o diagnóstico global atualizado das carências habitacionais identificadas no seu território, o município define a sua estratégia local em matéria de habitação e prioriza as soluções habitacionais que, em conformidade, pretende ver desenvolvidas no respetivo território ao abrigo do 1.º Direito e onde se devem enquadrar todos os pedidos a candidatar a Apoio ao abrigo 1.º Direito.
+
+### Capítulo IV — Financiamento a beneficiários diretos
+
+###### Artigo 31.º — Financiamento à autopromoção
+
+As pessoas referidas no artigo 25.º podem beneficiar de financiamento para aquisição de terreno e realização de obras de autopromoção de um prédio de habitação unifamiliar para habitação própria e permanente, desde que a construção seja promovida com projeto previamente aprovado e seja acompanhada por técnico especializado.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 32.º — Financiamento à reabilitação para habitação própria e permanente
+
+1 - As pessoas elegíveis ao abrigo do 1.º Direito podem ser beneficiários diretos de financiamento para realização de obras de reabilitação em fração ou em prédio unifamiliar de que sejam titulares, incluindo, se necessário, obras de adequação à situação de incapacidade de um dos elementos do agregado, desde que a fração ou o prédio se destine a ser a sua habitação própria e permanente.
+
+2 - Quando a habitação própria permanente da pessoa ou do agregado habitacional constitua uma fração de prédio em regime de propriedade horizontal, o financiamento pode abranger as despesas relativas às obras na habitação e ou à sua quota-parte do custo de obras de reabilitação nas partes comuns do prédio.
+
+3 - Se os beneficiários estiverem a pagar empréstimo à aquisição da habitação a reabilitar, o encargo mensal com o mesmo é deduzido do respetivo rendimento médio mensal (RMM) para efeito do disposto no artigo 34.º
+
+4 - No caso de apoio financeiro à realização de obras, os beneficiários devem ser proprietários da fração ou do prédio objeto das obras ou, se forem seus usufrutuários, comproprietários ou herdeiros, obter a participação ou autorização expressa dos restantes cotitulares ou de pessoa que os represente para a prática de todos os atos necessários à contratação da empreitada e do financiamento, incluindo a constituição de garantias.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 33.º — Financiamento à aquisição
+
+Só é admitida a concessão de apoio direto ao abrigo do 1.º Direito às pessoas indicadas no artigo 25.º para aquisição de uma fração nos casos em que o município competente e o IHRU, I. P., não disponham de habitação adequada para lhes atribuir e não exista uma solução habitacional promovida por uma das entidades referidas no artigo 26.º que seja aplicável.
+
+###### Artigo 34.º — Valor máximo da comparticipação
+
+1 - Com respeito pelos limites relativos aos valores de referência aplicáveis à construção ou à reabilitação e pelas condições aplicáveis aos empréstimos, nos casos de autopromoção e de reabilitação de habitação própria, o montante máximo da comparticipação corresponde ao valor das despesas elegíveis para efeito do financiamento, deduzido de 180 vezes o valor correspondente a 25 % do RMM da pessoa ou do agregado habitacional, sendo, para o efeito, deduzido do respetivo RMM o encargo mensal com a renda ou prestação do crédito à habitação, quando aplicável.
+
+2 - A comparticipação à aquisição ou aquisição e reabilitação de habitação corresponde ao preço da aquisição ou ao valor total do investimento que é considerado pelo IHRU, I. P., para efeito do financiamento, deduzido de 180 vezes o valor correspondente a 25 % do RMM da pessoa ou do agregado habitacional, sendo, para o efeito, deduzido do respetivo RMM o encargo mensal com a renda ou prestação do crédito à habitação, quando aplicável.
+
+3 - Em cumprimento do princípio da acessibilidade estabelecido na alínea a) do artigo 3.º, o disposto nos números anteriores nunca pode comprometer a manutenção pelo agregado da parte do RMM igual ao IAS.
+
+4 - No caso das candidaturas submetidas ao abrigo do Aviso n.º 01/C02-i01/2021, o disposto nos n.os 1 e 2 nunca pode comprometer a manutenção pelo agregado da parte do RMM igual a duas vezes o valor do IAS.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921), em vigor a partir de 2025-04-01
+
+> Alterado pelo/a Artigo 184.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+### Capítulo V — Financiamento a entidades beneficiárias
+
+#### Secção I — Disposições comuns
+
+###### Artigo 35.º — Conjugação dos apoios
+
+Sem prejuízo da possibilidade de apoio prevista no n.º 1 do artigo 15.º e no artigo 16.º, as pessoas e entidades que se candidatem a financiamento para soluções habitacionais conjugadas de aquisição e reabilitação de frações e prédios ou de aquisição de terrenos e construção podem solicitar ao IHRU, I. P., apoio técnico para conceber essas soluções de forma a conjugar os respetivos encargos dentro dos limites aplicáveis nos termos do presente decreto-lei e, se for o caso, do regime de habitação de custos controlados.
+
+###### Artigo 36.º — Financiamento de soluções habitacionais especiais
+
+No caso de soluções habitacionais de reabilitação, de aquisição e reabilitação ou de aquisição de terrenos e construção no âmbito dos artigos 11.º e 12.º, as percentagens máximas de comparticipação são acrescidas em 10 % e o empréstimo pode ter por objeto a totalidade da parte não comparticipada do financiamento.
+
+###### Artigo 37.º — Mecanismos de perequação
+
+No âmbito e para efeito de soluções habitacionais financiadas com o apoio do Estado ao abrigo do 1.º Direito, nomeadamente nos casos de áreas urbanas degradadas, o município competente deve adotar os mecanismos necessários a assegurar uma justa redistribuição dos benefícios e dos encargos decorrentes de operações urbanísticas promovidas para aquele fim.
+
+#### Secção II — Apoio ao arrendamento
+
+###### Artigo 38.º — Fins do apoio ao arrendamento
+
+1 - As entidades indicadas nas alíneas a) e b) do artigo 26.º podem pedir apoio para arrendamento de frações ou de prédios destinadas a habitação para atribuição, em subarrendamento, a pessoas e agregados elegíveis ao abrigo do 1.º Direito.
+
+2 - O disposto no número anterior é aplicável às entidades referidas na alínea c) do artigo 26.º, quando estas intervêm em substituição das Regiões Autónomas ou dos municípios.
+
+3 - Os contratos de arrendamento a que se referem os números anteriores devem ter um prazo inicial mínimo de cinco anos e conter autorização expressa do senhorio para o subarrendamento da habitação.
+
+4 - As entidades indicadas na alínea e) do artigo 26.º podem pedir apoio para suportar o encargo com o arrendamento de frações ou prédios reabilitados com financiamento ao abrigo do 1.º Direito aos respetivos moradores, nos casos em que esse arrendamento se mantenha por um prazo mínimo de 10 anos após a conclusão das obras.
+
+###### Artigo 39.º — Comparticipação ao arrendamento
+
+1 - O arrendamento a que se refere a presente secção é financiado através de uma comparticipação destinada a financiar a diferença entre o valor da renda mensal da habitação e o valor da renda mensal paga pelo subarrendatário ou, no caso do n.º 4 do artigo anterior, a diferença entre o valor da renda mensal paga pelo morador da fração ou prédio reabilitado e o valor mensal do encargo que lhe corresponde com o reembolso do empréstimo à respetiva reabilitação.
+
+2 - A comparticipação ao arrendamento para subarrendamento é concedida por um prazo máximo de 10 anos e é no montante correspondente:
+
+a) Nos primeiros cinco anos, a 50 % da diferença referida no número anterior, até um valor máximo de referência correspondente a 40 % do último valor mediano das rendas por m2 de alojamentos familiares (euro) da freguesia ou, no caso de não estar disponível, do concelho de localização da habitação, ou, no caso de não estar disponível, da NUTS III de localização da habitação, divulgado pelo INE, I. P., podendo ainda ser objeto da comparticipação 50 % do montante da caução que seja devida pelo beneficiário com o contrato;
+
+b) Até 25 % da referida diferença nos restantes anos, até ao último, com o máximo de 20 % do valor mediano das rendas referido na alínea anterior.
+
+3 - No caso de arrendamento para subarrendamento a agregados unititulados ou agregados que integram pessoas com deficiência, os limites percentuais máximos de apoio previstos no número anterior são aumentados em 10 %.
+
+4 - No caso de arrendamento para subarrendamento a arrendatários com idade superior a 65 anos, que se encontrem em situação de precariedade habitacional por não renovação dos respetivos contratos de arrendamento habitacional, e em que o arrendamento possibilite a permanência do arrendatário na habitação onde reside, os limites percentuais máximos de apoio previstos no n.º 2 são aumentados em 30 %.
+
+5 - Quando as habitações se situem em concelhos não identificados na informação do INE, I. P., a que se refere a alínea a) do n.º 2, o limite máximo de referência é o correspondente ao valor mediano da NUTS III ou, se esse não estiver disponível, da NUTS II.
+
+6 - Em qualquer dos casos a que se refere o n.º 1 do presente artigo, a comparticipação é calculada em relação ao valor total da diferença verificada durante cada período de um ano e é disponibilizada, no início do ano subsequente, após a transferência para o IHRU, I. P., das verbas das receitas gerais do Orçamento do Estado destinadas ao 1.º Direito.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 40.º — Alteração ou extinção da comparticipação ao arrendamento
+
+1 - As entidades beneficiárias obrigam-se a informar o IHRU, I. P., sobre quaisquer alterações relevantes do contrato de arrendamento, nomeadamente relativas à respetiva duração e ao valor das rendas.
+
+2 - No caso de cessação de qualquer contrato de subarrendamento a entidade beneficiária pode celebrar novo contrato com uma pessoa ou um agregado que preencha os requisitos de acesso ao 1.º Direito, mantendo-se o financiamento ao correspondente contrato de arrendamento pelo prazo remanescente.
+
+3 - O direito à comparticipação caduca:
+
+a) À data da ocorrência de qualquer forma de extinção do contrato de arrendamento;
+
+b) À data da verificação de alteração contratual de que resulte um aumento do montante da renda que exceda a atualização anual por aplicação do coeficiente divulgado pelo INE, I. P.; ou
+
+c) Decorridos dois meses após a cessação de qualquer contrato de subarrendamento sem que a entidade beneficiária celebre novo contrato de subarrendamento ao abrigo da faculdade que lhe é conferida nos termos do número anterior.
+
+4 - Nos casos previstos no número anterior, a entidade beneficiária deve comunicar ao IHRU, I. P., o facto verificado no prazo máximo de 30 dias a contar da sua ocorrência.
+
+#### Secção III — Financiamento à reabilitação e à construção
+
+##### Subsecção I — Financiamento à reabilitação
+
+###### Artigo 41.º — Financiamento à reabilitação por entidades beneficiárias
+
+1 - Podem beneficiar de financiamento para promoção de soluções habitacionais ao abrigo do 1.º Direito:
+
+a) As entidades indicadas nas alíneas a), b), d) e e) do artigo 26.º para reabilitação de prédios habitacionais situados em áreas urbanas degradadas, no âmbito de uma operação urbanística destinada, nomeadamente, a conferir-lhes as adequadas características de desempenho e de segurança;
+
+b) As entidades indicadas nas alíneas a), b) e c) do artigo 26.º para reabilitação de frações ou prédios habitacionais e cujas habitações estejam ocupadas ou que, estando devolutas, sejam a atribuir a pessoas e agregados que tenham direito a aceder a uma habitação ao abrigo do 1.º Direito;
+
+c) As entidades indicadas nas alíneas a) e b) do artigo 26.º, em relação a prédios habitacionais de que sejam coproprietárias ou cossuperficiárias, para reabilitação das frações de que sejam titulares e da sua quota nas partes comuns, incluindo, se for o caso, a quota-parte de outros condóminos, quando, nos termos da legislação aplicável às obras em prédios em regime de propriedade horizontal, se substituam aos mesmos na realização das obras nas partes comuns;
+
+d) Qualquer das entidades indicadas no artigo 26.º para reabilitação de frações ou prédios de que sejam proprietárias ou superficiárias, a destinar a equipamento complementar;
+
+e) As entidades indicadas nas alíneas a), b) e c) do artigo 26.º para reabilitação de frações ou prédios habitacionais de que sejam proprietárias ou superficiárias, a destinar a unidades residenciais.
+
+2 - São nomeadamente abrangidas pelo financiamento a que se refere a alínea a) do número anterior as obras de reabilitação, bem como soluções conjugadas de aquisição de frações ou de prédios para habitação e respetiva reabilitação realizada ao abrigo de regimes legais reguladores da reabilitação urbana, em consonância com operações urbanísticas promovidas no âmbito do regime excecional para a reconversão urbanística das AUGI e do artigo 102.º-A do regime jurídico da urbanização e da edificação.
+
+3 - Incluem-se no âmbito do n.º 1 os casos de reabilitação de frações ou prédios adquiridos pelas entidades beneficiárias com financiamento concedido ao abrigo do 1.º Direito, bem como de frações ou prédios por elas detidos através de subconcessão ou outros regimes de cedência de uso e habitação, desde que disponham dos poderes de administração exclusiva dos mesmos, pelo menos, durante o período de afetação a que refere o artigo 72.º e que, no caso de empréstimo, fique assegurada a respetiva garantia.
+
+4 - Nos casos em que, para efeito da reabilitação, seja necessário assegurar o alojamento temporário de pessoas e agregados, as despesas a que se refere a alínea e) do n.º 1 do artigo 14.º são financiadas pelo prazo máximo de 18 meses, com uma comparticipação correspondente à diferença entre o valor da renda mensal da habitação paga pela entidade beneficiária para aquele fim e o valor da renda mensal paga pelo subarrendatário, até ao respetivo valor de referência.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+> Retificado pelo/a [Declaração de Retificação n.º 25/2018 - Diário da República n.º 148/2018, Série I de 2018-08-02](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2018-115879181), produz efeitos a partir de 2018-06-05
+
+###### Artigo 42.º — Valor de referência no financiamento à reabilitação
+
+1 - O valor de referência para cálculo das comparticipações à reabilitação corresponde ao preço máximo aplicável à reabilitação nos termos do regime de habitação de custos controlados.
+
+2 - O valor de referência indicado no número anterior pode ser aumentado, no máximo, até 25 % do seu valor em casos excecionais devidamente fundamentados e aceites pelo IHRU, I. P., designadamente quando as obras devam ser precedidas de trabalhos prévios de demolição, contenção ou similares.
+
+3 - O valor de referência da comparticipação ao alojamento temporário a que se refere o n.º 4 do artigo anterior corresponde ao último valor mediano das rendas por m2 de alojamentos familiares (euro) do concelho de localização da habitação, divulgado pelo INE, I. P.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 43.º — Montante máximo da comparticipação à reabilitação
+
+1 - O montante máximo da comparticipação à reabilitação é de 50 % das despesas elegíveis nos termos do artigo 14.º
+
+2 - Em qualquer caso, o montante da comparticipação não pode exceder 40 % do valor de referência indicado no artigo anterior.
+
+###### Artigo 44.º — Empréstimos à reabilitação
+
+Os beneficiários podem solicitar a concessão de um empréstimo ao IHRU, I. P., ou a uma instituição de crédito protocolada nos termos do disposto no artigo 20.º
+
+##### Subsecção II — Financiamento à construção
+
+###### Artigo 45.º — Financiamento à construção
+
+1 - Pode ser concedido apoio às entidades referidas no artigo 26.º para construção de prédio ou de empreendimento habitacional, incluindo equipamento complementar, cujas habitações se destinem maioritariamente a atribuição a pessoas ou agregados que preenchem os requisitos de acesso ao 1.º Direito.
+
+2 - Quando o número de frações habitacionais e ou a complexidade do projeto de construção assim o justifiquem, o IHRU, I. P., pode determinar que a construção seja promovida de forma faseada.
+
+3 - As Regras Técnicas para Habitação de Custos Controlados constantes do anexo à Portaria n.º 65/2019, de 19 de fevereiro, na sua redação atual, e a correspondente certificação, podem não ser aplicadas, em casos devidamente fundamentados, a empreendimentos habitacionais destinados a pessoas e agregados familiares que vivam em núcleos precários, tal como definidos no n.º 1 do artigo 11.º
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+###### Artigo 46.º — Valores de referência no financiamento à construção
+
+O valor de referência para cálculo do financiamento à construção dos prédios e empreendimentos a que se refere o artigo anterior é o custo de promoção por metro quadrado estabelecido, conforme o tipo de áreas a financiar, no regime de habitação de custos controlados.
+
+> Alterado pelo/a Artigo 184.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+###### Artigo 47.º — Valor máximo da comparticipação à construção
+
+O montante máximo da comparticipação é de 35 % do custo aplicável às áreas habitacionais nos termos do artigo anterior, acrescido das demais despesas que forem elegíveis nos termos do artigo 14.º
+
+> Alterado pelo/a Artigo 184.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+###### Artigo 48.º — Empréstimos à construção
+
+Os beneficiários podem solicitar a concessão de um empréstimo ao IHRU, I. P., ou a uma instituição de crédito protocolada nos termos do disposto no artigo 20.º
+
+#### Secção IV — Apoio à aquisição de habitações
+
+###### Artigo 49.º — Fins do apoio à aquisição
+
+Pode ser concedido financiamento à aquisição de frações ou prédios ao abrigo do 1.º Direito nos seguintes casos e condições:
+
+a) Às entidades referidas nas alíneas a) a c) do artigo 26.º, para aquisição de frações a atribuir, em regime de arrendamento ou de propriedade resolúvel a pessoas ou agregados elegíveis para acesso ao 1.º Direito;
+
+b) Às entidades referidas nas alíneas a) a d)do artigo 26.º, para aquisição de frações ou prédios habitacionais a atribuir em arrendamento ou em regime de propriedade resolúvel às pessoas ou agregados a que se referem os artigos 10.º e 11.º;
+
+c) Ao município ou à entidade gestora da reabilitação, no caso da alínea a) do n.º 3 do artigo 11.º ou dos n.os 4 e 5 do artigo 12.º, para pagamento dos montantes devidos pela aquisição dos imóveis.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 50.º — Valor de referência no financiamento à aquisição
+
+1 - O valor de referência para o cálculo do montante das comparticipações à aquisição de frações e prédios habitacionais é o produto das respetivas áreas brutas privativas pelo último valor mediano das vendas por m2 de alojamentos familiares novos (euro), por concelho ou, no caso de não estar disponível, da NUTS III de localização da habitação, divulgado pelo INE, I. P., ou o custo de promoção aplicável nos termos do regime de habitação de custos controlados, se este for superior.
+
+2 - O valor de referência indicado no número anterior é igualmente o aplicável no caso de uma solução conjugada de aquisição e reabilitação de frações ou prédios, sem prejuízo do disposto no n.º 2 do artigo 42.º, no caso de esse valor de referência corresponder ao custo de promoção.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 51.º — Comparticipação à aquisição
+
+1 - A comparticipação à aquisição é no montante máximo de 40 % das despesas elegíveis nos termos do artigo 14.º
+
+2 - Em qualquer caso, o montante da comparticipação nunca pode exceder o montante correspondente a 30 % do valor de referência indicado no artigo anterior.
+
+###### Artigo 52.º — Empréstimos à aquisição
+
+Os beneficiários podem solicitar a concessão de um empréstimo ao IHRU, I. P., ou a uma instituição de crédito protocolada nos termos do disposto no artigo 20.º
+
+#### Secção V — Apoio à aquisição e infraestruturação de terrenos
+
+###### Artigo 53.º — Fins do apoio à aquisição e infraestruturação de terrenos
+
+As entidades referidas nas alíneas a) a d) do artigo 26.º podem beneficiar de apoio para aquisição e infraestruturação de terrenos, desde que complementar de uma solução habitacional de construção promovida com financiamento concedido nos termos do presente diploma.
+
+###### Artigo 54.º — Valor de referência para aquisição de terrenos
+
+O valor de referência para financiamento à aquisição de terrenos é o valor máximo do terreno, alterado pelo coeficiente relativo à sua titularidade, nos termos estabelecidos no regime de habitação de custos controlados, acrescido, se for o caso, do valor de referência do financiamento à infraestruturação, que corresponde a 10 % do custo de promoção.
+
+> Alterado pelo/a Artigo 184.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+###### Artigo 55.º — Comparticipação à aquisição e infraestruturação de terrenos
+
+1 - A comparticipação à aquisição e infraestruturação de terrenos é no montante máximo de metade do respetivo encargo.
+
+2 - Em qualquer caso, o montante da comparticipação nunca pode exceder o montante correspondente a 35 % do valor máximo indicado no artigo anterior.
+
+###### Artigo 56.º — Empréstimos à aquisição de terrenos
+
+1 - Os beneficiários podem solicitar a concessão de um empréstimo para financiar a parte não comparticipada do preço de aquisição ou da infraestruturação do terreno, não podendo, porém, o montante total do financiamento ser superior a 90 % do valor de referência estabelecido no artigo 54.º
+
+2 - O prazo máximo do empréstimo é de cinco anos a contar da data da aquisição do terreno, sendo fixado pela instituição financiadora em função das características da solução construtiva projetada para o terreno, sem prejuízo de, no caso de construção a promover por fases, aquela instituição poder prorrogar o referido prazo máximo no sentido de o adequar ao cronograma físico e financeiro de execução da segunda fase e das seguintes.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 57.º — Disponibilização dos apoios
+
+As comparticipações e os empréstimos à aquisição de terrenos são disponibilizados no ato de celebração dos contratos de compra e venda, sem prejuízo da possibilidade de antecipação das verbas necessárias para pagamento de quantias devidas a título de sinal ou de princípio de pagamento de contratos-promessa e, no caso de contratos celebrados, de disponibilização das verbas com a entrega dos comprovativos das despesas realizadas.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+### Capítulo VI — Candidaturas e contratação
+
+#### Secção I — Divulgação e formalização dos pedidos de apoio
+
+###### Artigo 58.º — Publicitação anual
+
+Até ao dia 31 de janeiro de cada ano o IHRU, I. P., publicita no sítio na Internet do Portal da Habitação a informação relativa ao 1.º Direito, que deve incluir:
+
+a) O montante da dotação orçamental existente para a atribuição de novos pedidos de apoio financeiro;
+
+b) As percentagens da dotação orçamental a afetar a cada tipo de solução habitacional e ou de beneficiários;
+
+c) A informação sobre a forma de apresentação dos pedidos e de obtenção de esclarecimentos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2021 - Diário da República n.º 48/2021, Série I de 2021-03-10](https://diariodarepublica.pt/dr/detalhe/lei/12-2021-159174076), em vigor a partir de 2021-03-15
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 59.º — Pedidos de apoio
+
+1 - As pessoas singulares, isoladamente ou enquanto titulares de um agregado, e as entidades a que se referem as alíneas c), d) e e) do artigo 26.º que pretendam candidatar-se a apoio para soluções habitacionais ao abrigo do 1.º Direito devem entregar os seus pedidos junto do município competente.
+
+2 - No que respeita aos pedidos a que se refere o número anterior, o município, considerando o enquadramento dos mesmos no âmbito da estratégia por ele definida para o seu território, pode optar por:
+
+a) Atribuir uma habitação municipal;
+
+b) Incluir o pedido no âmbito de uma candidatura própria do município à promoção de uma solução habitacional ao abrigo do 1.º Direito; ou
+
+c) Considerar o pedido como candidatura individualizada.
+
+3 - Os pedidos de apoio nos casos referidos nos artigos 11.º e 12.º devem incluir informação do município quanto às especificidades do projeto que, sendo relativas a características específicas de reabilitação das frações ou dos prédios e ou da respetiva organização espacial, implicam a sua aceitação quanto às propostas de manutenção do existente e de demolições ou ampliações previstas.
+
+4 - Quando a Estratégia Local de Habitação (ELH) preveja soluções habitacionais para pessoas e agregados habitacionais através de financiamento concedido diretamente aos mesmos, o município, no prazo máximo de 90 dias a contar da notificação do IHRU, I. P., de aprovação da concordância da sua ELH, deve enviar uma comunicação a essas pessoas e agregados a informá-los dessa aprovação e da sua condição de beneficiários diretos, dando conhecimento ao IHRU, I. P., aquando da conclusão do envio da totalidade das comunicações.
+
+5 - As pessoas e os agregados dispõem de um prazo de 18 meses, a contar da receção da comunicação a que se refere o número anterior, para apresentar junto do município ou diretamente ao IHRU, I. P., a sua candidatura para acesso a uma solução habitacional adequada, devendo a informação relativa a esta faculdade e ao respetivo prazo constar da referida comunicação.
+
+6 - Nos casos em que as candidaturas de beneficiários lhe sejam apresentadas diretamente, o IHRU, I. P., deve dar conhecimento desse facto ao município competente, dispondo este de um prazo de 30 dias para emitir parecer, considerando-se que o parecer é favorável se nada disser dentro do prazo.
+
+7 - As candidaturas a que se refere o número anterior são instruídas, com apoio técnico do município ou do IHRU, I. P., consoante for o caso, na área própria do município na plataforma eletrónica do 1.º Direito e avaliadas pelo IHRU, I. P., nos termos do artigo 63.º
+
+8 - As candidaturas apresentadas diretamente ao IHRU, I. P., que sejam por este aprovadas e registadas na plataforma eletrónica do 1.º Direito, são consideradas, para todos os efeitos, apoiadas ao abrigo deste programa como uma solução habitacional promovida no âmbito da ELH do correspondente município.
+
+9 - Os agregados que não apresentem candidatura dentro do prazo de 18 meses referido no n.º 5 não perdem o direito a fazê-lo sempre que o município confirme que a instrução da candidatura está em curso.
+
+> Nota: [Artigo 13.º, Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578) O disposto nos n.os 4 a 9 do artigo 59.º do Decreto-Lei n.º 37/2018, de 4 de junho, na redação dada pelo presente decreto-lei, é aplicável no caso da Estratégia Local de Habitação cuja concordância, à data de entrada em vigor do presente decreto-lei, já tenha sido aprovada pelo IHRU, I. P., devendo a comunicação aos beneficiários diretos prevista no n.º 4 desse artigo 59.º ser efetuada pelos municípios abrangidos no prazo máximo de 120 dias a contar da referida data.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 60.º — Participação dos municípios
+
+1 - Quando pretendam a participação do município competente, em parceria ou em sua representação, na solução habitacional que visam promover, as pessoas e as entidades referidas no artigo 25.º e nas alíneas c) a e) do artigo 26.º devem solicitar essa participação no âmbito dos seus pedidos de apoio.
+
+2 - O disposto no número anterior não prejudica a possibilidade da participação do município ser solicitada em fase posterior ou de o município propor a sua participação em qualquer solução habitacional que lhe seja entregue, sempre que entenda que a validade e a viabilidade dessa solução o justificam.
+
+###### Artigo 61.º — Soluções em parceria ou por representação
+
+1 - Nos casos das alíneas d) e e) do artigo 26.º, o município deve identificar as ações de iniciativa pública que entende serem necessárias ao desenvolvimento da solução habitacional, incluindo, tratando-se de reabilitação, se pretende assumir a respetiva promoção, diretamente ou através de uma empresa ou entidade pública municipal, como operação de reabilitação urbana nos termos do RJRU.
+
+2 - Em qualquer situação de representação ou de parceria entre o município e as pessoas ou entidades candidatas a apoio ao 1.º Direito deve ser celebrado um acordo entre as partes no âmbito do qual são definidas as condições de desenvolvimento da correspondente solução habitacional, bem como, se for o caso, os poderes atribuídos ao município para efeito da representação, que podem incluir os poderes para, em nome deles, contratar e gerir o respetivo financiamento.
+
+3 - A promoção de uma solução habitacional por outra entidade em substituição do município deve ser acompanhada por este e não o exonera das responsabilidades inerentes à gestão do processo de atribuição de uma habitação adequada às pessoas e agregados abrangidos por essa solução habitacional, em especial quando esse fim não seja alcançado por incumprimento ou incapacidade da entidade que o substitui.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+#### Secção II — Candidaturas
+
+###### Artigo 62.º — Apresentação das candidaturas
+
+1 - Na fase de candidatura, os municípios devem apresentar ao IHRU, I. P., ou atualizar nos casos em que tenha já sido apresentada em anos anteriores, a sua estratégia local em matéria de habitação, que enquadra e prioriza as soluções habitacionais que pretende ver desenvolvidas no seu território ao abrigo do 1.º Direito, designadamente, as candidaturas a apresentar para a respetiva área territorial.
+
+2 - As candidaturas a apoio referidas na alínea c) do n.º 2 do artigo 59.º são enviadas ao IHRU, I. P., conjuntamente com a candidatura do próprio município, se for o caso, devendo as correspondentes soluções habitacionais ser adequadas, nomeadamente em termos de modalidade e de duração, às características das situações concretas a que visam dar resposta.
+
+3 - Para efeito da submissão das candidaturas da respetiva área de jurisdição referidos no número anterior, o município deve informar o IHRU, I. P., sobre os processos em que pretende promover a sua própria solução habitacional, diretamente ou através de outra entidade, em sua substituição, e as soluções que se propõe desenvolver em parceria ou em representação de qualquer das pessoas ou entidades referidas no artigo 25.º e nas alíneas c) a e) do artigo 26.º
+
+4 - As outras entidades referidas nas alíneas a) e b) do artigo 26.º, que pretendam candidatar-se a apoio para promoção de soluções habitacionais destinadas a pessoas e agregados elegíveis ao abrigo do 1.º Direito, entregam igualmente os seus pedidos ao IHRU, I. P., com fundamentação do enquadramento das soluções pretendidas face ao diagnóstico global das carências habitacionais que tenham sido identificadas no território da localização dessas soluções.
+
+5 - As entidades referidas nas alíneas a), b) e c) do artigo 26.º, que pretendam candidatar-se a apoio para promoção de soluções habitacionais no âmbito da Bolsa Nacional de Alojamento Urgente e Temporário, destinadas a pessoas e agregados elegíveis ao abrigo do artigo 10.º, independentemente da sua consideração numa Estratégia Local de Habitação ou na falta desta, entregam os seus pedidos diretamente ao IHRU, I. P., não estando estas candidaturas sujeitas ao disposto no artigo 30.º
+
+6 - Nos casos de soluções habitacionais em que os empréstimos ao abrigo do 1.º Direito são a conceder por uma instituição de crédito, essa informação deve constar do correspondente processo de candidatura.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2021 - Diário da República n.º 48/2021, Série I de 2021-03-10](https://diariodarepublica.pt/dr/detalhe/lei/12-2021-159174076), em vigor a partir de 2021-03-15
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 63.º — Análise e aprovação das candidaturas
+
+1 - Cabe ao IHRU, I. P., analisar as candidaturas apresentadas por cada município para a respetiva área territorial, podendo solicitar a informação, os documentos e os esclarecimentos adicionais aos candidatos que sejam necessários em função das soluções habitacionais pretendidas e ou prestar aconselhamento e apoio técnico quando a validade das soluções habitacionais apresentadas dependa de clarificação ou de aperfeiçoamento.
+
+2 - As candidaturas são aprovadas tendo em conta, nomeadamente, a validade e viabilidade das soluções habitacionais, bem como a coerência destas com os princípios e regras aplicáveis ao caso nos termos do presente decreto-lei.
+
+3 - É, nomeadamente, causa de rejeição dos pedidos a existência de uma das situações determinantes de exclusão nos termos do artigo 7.º ou de parecer desfavorável do município nos casos previstos no n.º 3 do artigo 13.º e no n.º 6 do artigo 59.º
+
+4 - O modelo e os elementos essenciais para efeito de instrução das candidaturas ao 1.º Direito são definidos por portaria do membro do Governo responsável pela área da habitação.
+
+5 - A informação sobre a aprovação das candidaturas é notificada aos interessados e a correspondente decisão caduca se os contratos de financiamento não forem assinados no prazo máximo de 6 meses a contar da data de notificação daquela decisão, salvo em casos justificados e aceites pelo IHRU, I. P., designadamente por questões processuais relativas à contratação e por outras causas não imputáveis ao beneficiário.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+> Alterado pelo/a Artigo 184.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+###### Artigo 64.º — Procedimento concursal
+
+1 - Sempre que a relação do valor da dotação orçamental com o número previsível de novas candidaturas e o encargo com comparticipações já contratadas assim o justifiquem, o IHRU, I. P., deve promover um procedimento concursal para efeito de atribuição dos apoios financeiros ao abrigo do 1.º Direito, cujo regulamento é elaborado pelo IHRU, I. P., e homologado, após parecer do Conselho Nacional de Habitação, pelo membro do Governo responsável pela área da habitação.
+
+2 - No caso previsto no número anterior, para efeito de hierarquização final das candidaturas, são, em especial, critérios de prioridade a apresentação de declaração de carência habitacional, quando aprovada nos termos dos n.os 5 a 7 do artigo 22.º da LBH, bem como as soluções habitacionais cuja execução é mais célere e que têm por objeto situações cuja resolução é mais urgente, designadamente por estar em causa a segurança de pessoas ou beneficiários nas situações da proteção especial prevista no n.º 3 do artigo 8.º da LBH.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2021 - Diário da República n.º 48/2021, Série I de 2021-03-10](https://diariodarepublica.pt/dr/detalhe/lei/12-2021-159174076), em vigor a partir de 2021-03-15
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+#### Secção III — Acordos de financiamento
+
+###### Artigo 65.º — Acordo de financiamento
+
+1 - Cada uma das entidades indicadas no artigo 26.º celebra com o IHRU, I. P., um acordo de financiamento, de natureza programática, sujeito a homologação por parte do membro do Governo responsável pela área da habitação, reportado às situações habitacionais indignas sinalizadas na estratégia local de habitação em relação às quais essa entidade se propõe apresentar as candidaturas referidas na secção anterior.
+
+2 - No caso dos municípios, o acordo de financiamento é celebrado sob a forma de acordo de colaboração ao abrigo do artigo 17.º do Decreto-Lei n.º 384/87, de 24 de dezembro, na sua redação atual, que está sujeito a homologação por parte dos membros do Governo responsáveis pelas áreas das autarquias locais e da habitação.
+
+3 - Com exceção do caso previsto no número anterior, quando a candidatura tenha por objeto uma solução habitacional cuja execução é feita através de um único contrato de comparticipação e, se for o caso, de um único contrato de empréstimo, é dispensado o acordo de financiamento.
+
+4 - Sempre que o número de agregados habitacionais abrangidos por um acordo assim o justifique, o IHRU, I. P., pode aceitar que a execução do acordo de financiamento se efetue de forma faseada, sendo as candidaturas relativas a cada uma das fases apresentadas de forma autónoma.
+
+> Alterado pelo/a Artigo 184.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+###### Artigo 66.º — Conteúdo dos acordos de financiamento
+
+1 - Os acordos de financiamento devem conter os elementos fundamentais relativos às soluções habitacionais a que se reportam, nomeadamente:
+
+a) Identificação de outras entidades públicas ou privadas que são outorgantes do acordo, além do IHRU, I. P., e do promotor, ou cuja intervenção esteja prevista ao nível da promoção ou do acompanhamento de soluções habitacionais objeto do acordo;
+
+b) Número total e caracterização das pessoas e dos agregados abrangidos;
+
+c) Soluções habitacionais adotadas, com indicação do prazo de implementação de cada uma delas e da respetiva calendarização dentro do prazo de duração do acordo;
+
+d) Valores totais de investimento e de financiamento estimados, com diferenciação dos montantes de comparticipação e de empréstimo e da respetiva imputação a cada uma das soluções habitacionais;
+
+e) Indicação dos apoios concedidos por outras entidades, se for o caso, e respetivos valores;
+
+f) Indicação do destino dos terrenos e ou dos prédios desocupados, quando for o caso.
+
+2 - No caso das alíneas a) e e) do número anterior, cabe ao IHRU, I. P., assegurar a participação no acordo de financiamento dos outorgantes relevantes para a concretização das soluções habitacionais nele previstas ou fazer depender a formalização do mesmo da apresentação de acordos entre entidades cuja intervenção seja complementar dessas soluções.
+
+###### Artigo 67.º — Duração dos acordos de financiamento
+
+1 - Os acordos de financiamento celebrados ao abrigo do 1.º Direito têm um prazo certo de duração estabelecido em função do tempo previsível para promoção das soluções habitacionais objeto do mesmo que, porém, não pode ser superior a 6 anos.
+
+2 - Sem prejuízo do prazo máximo estabelecido no número anterior, o acordo de financiamento caduca pelo decurso do prazo nele previsto.
+
+3 - A extinção do acordo por caducidade não prejudica a possibilidade de ser celebrado um novo acordo com o respetivo promotor e opera em relação às soluções habitacionais cujos contratos de comparticipação ainda não tenham sido celebrados.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 68.º — Alterações dos acordos de financiamento
+
+1 - Decorrido um ano da data de celebração do acordo de financiamento e em cada ano subsequente, até ao termo do respetivo prazo, o promotor deve remeter ao IHRU, I. P., um relatório sobre a execução do acordo e, se for o caso, uma proposta fundamentada de atualização do mesmo face a alterações que se tenham verificado, designadamente ao nível do universo das pessoas e dos agregados abrangidos pelas soluções habitacionais objeto do acordo.
+
+2 - Cabe ao IHRU, I. P., avaliar a execução do acordo e, se entender que há fundamento para a sua atualização ou se aprovar a atualização proposta pelo promotor, promover a celebração de aditamento ao acordo e sem prejuízo do disposto no n.º 1 do artigo 69.º.
+
+3 - As alterações que determinem um acréscimo do montante global do financiamento previsto no acordo devem constar de aditamento ao mesmo que, além de outros procedimentos que sejam legalmente aplicáveis ao caso, carece das homologações previstas nos n.os 1 e 2 do artigo 65.º
+
+> Retificado pelo/a [Declaração de Retificação n.º 25/2018 - Diário da República n.º 148/2018, Série I de 2018-08-02](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2018-115879181), produz efeitos a partir de 2018-06-05
+
+###### Artigo 69.º — Conclusão dos acordos de financiamento
+
+1 - O último dos relatórios referidos no n.º 1 do artigo anterior, que precede o termo do prazo do acordo de financiamento, deve conter a calendarização atualizada sobre a contratação das soluções habitacionais dentro do referido prazo e, se for o caso, sobre as soluções que não sejam concretizadas no âmbito desse acordo.
+
+2 - Quando concluídas as soluções habitacionais objeto de um acordo de financiamento, o IHRU, I. P., elabora um relatório final de avaliação sobre o mesmo cujo resultado deve ser considerado no âmbito da decisão sobre novas candidaturas ao 1.º Direito por parte do mesmo promotor.
+
+3 - No caso de solução habitacional promovida por uma das entidades referidas no artigo 26.º com dispensa de acordo de financiamento ao abrigo da faculdade prevista no n.º 3 do artigo 65.º, o promotor não tem de apresentar relatórios, mas deve prestar ao IHRU, I. P., todos os esclarecimentos que este lhe solicite para efeito de elaboração do relatório do referido no número anterior.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Retificado pelo/a [Declaração de Retificação n.º 25/2018 - Diário da República n.º 148/2018, Série I de 2018-08-02](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2018-115879181), produz efeitos a partir de 2018-06-05
+
+#### Secção IV — Execução dos acordos de financiamento
+
+###### Artigo 70.º — Contratação dos apoios
+
+1 - O acordo de financiamento é executado mediante a celebração de contratos de comparticipação e, se for o caso, de empréstimo relativos a cada solução habitacional a promover.
+
+2 - A celebração dos contratos de comparticipação em execução do acordo de financiamento cria o compromisso de pagamento das comparticipações, estando, até aí, a contratação das mesmas condicionada à existência da necessária dotação orçamental.
+
+###### Artigo 71.º — Intervenção de instituições de crédito
+
+Sem prejuízo do disposto no artigo 20.º, quando os empréstimos sejam a conceder por uma instituição de crédito, cabe ao IHRU, I. P., informá-la sobre as condições específicas relativas ao programa 1.º Direito a integrar nos correspondentes contratos e assegurar a coordenação para efeito de concessão das comparticipações e do processamento das bonificações nos termos dos artigos 2.º a 4.º do Decreto-Lei n.º 150-A/91, de 22 de abril.
+
+### Capítulo VII — Ónus e registos
+
+###### Artigo 72.º — Regime especial de afetação
+
+1 - As habitações cuja aquisição, reabilitação ou construção tenha sido financiada com comparticipações concedidas às entidades referidas nas alíneas a) a c) do artigo 26.º só podem ser desafetadas por estas do fim para que foram financiadas decorrido um período de 20 anos a contar da data do auto de receção provisória das obras no caso de reabilitação de fogos já arrendados, da data do primeiro contrato de arrendamento, ou outro que titule a subconcessão ou cedência, ou de constituição do regime de propriedade resolúvel ou, em qualquer caso, após o reembolso total do correspondente empréstimo, se este tiver prazo superior àquele período.
+
+2 - O disposto no número anterior é aplicado às unidades residenciais, sendo o respetivo prazo de afetação contado da data da última utilização do financiamento.
+
+3 - As entidades referidas nas alíneas a) a c) do artigo 26.º remetem ao IHRU, I. P., por via eletrónica, cópia simples do auto de receção provisória das obras de reabilitação, do primeiro contrato de arrendamento, ou outro que titule a subconcessão ou cedência, ou do primeiro contrato de constituição do regime de propriedade resolúvel, no prazo máximo de 20 dias úteis após a respetiva celebração, sob pena de se considerar definitivamente incumprido o contrato de financiamento celebrado, com as inerentes consequências legais e contratuais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921), em vigor a partir de 2025-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2021 - Diário da República n.º 48/2021, Série I de 2021-03-10](https://diariodarepublica.pt/dr/detalhe/lei/12-2021-159174076), em vigor a partir de 2021-03-15
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 73.º — Regime especial de alienação
+
+1 - As habitações adquiridas, reabilitadas ou construídas com financiamento concedido às pessoas e entidades referidas no artigo 25.º e nas alíneas d) e e) do artigo 26.º estão sujeitas a um regime especial de alienação por um período de 15 anos, a contar da data da aquisição ou da última utilização do financiamento às obras, durante o qual o município competente tem opção de compra na transmissão da habitação.
+
+2 - A intenção de transmissão da habitação deve ser comunicada pelos respetivos titulares ao município, que dispõe de um período de 15 dias úteis a contar da receção dessa comunicação para os notificar do exercício ou não da opção de compra, correspondendo a ausência de resposta do município dentro desse prazo à renúncia a esse direito.
+
+3 - Para efeitos de opção de compra, o preço máximo da habitação corresponde ao valor da compra e venda, deduzido do valor correspondente à comparticipação, atualizado mediante a aplicação da taxa de variação média anual do índice de preços no consumidor divulgada pelo INE, I. P.
+
+4 - Se o município renunciar à opção de compra da habitação, o IHRU, I. P., tem direito idêntico ao do município nas condições previstas nos números anteriores.
+
+5 - Em caso de renúncia por parte do município e do IHRU, I. P., o beneficiário só pode alienar a habitação a terceiros mediante o pagamento ao IHRU, I. P., e à AT das quantias relativas, respetivamente, à comparticipação concedida e ao valor da redução do IVA de que tenha beneficiado a empreitada, podendo esse pagamento ser efetuado no ato de celebração da correspondente escritura.
+
+6 - As quantias referidas no número anterior são atualizadas pela aplicação de percentagem igual à dos juros de mora civil desde a data da respetiva disponibilização, sempre que a transmissão se verifique durante os primeiros oito anos do prazo referido no n.º 1.
+
+7 - A habitação de beneficiários diretos que seja transmitida mortis causa pode ser cedida pelos respetivos herdeiros, durante o prazo estabelecido no n.º 1 do presente artigo, através de arrendamento ao abrigo do Programa de Arrendamento Acessível, aprovado pelo Decreto-Lei n.º 68/2019, de 22 de maio, estando os restantes atos de transmissão ou cedência sujeitos ao disposto nos números anteriores.
+
+8 - Não são consideradas no âmbito e para efeito do regime especial de alienação regulado no presente artigo:
+
+a) As habitações financiadas com comparticipação de montante inferior a cinco mil euros; ou
+
+b) As transmissões gratuitas efetuadas por beneficiários a favor de pessoas que integrem o seu agregado habitacional.
+
+9 - O disposto no presente artigo é aplicável no caso de habitações transmitidas em regime de propriedade resolúvel, quando o adquirente pague antecipadamente a totalidade do preço antes do termo do prazo estabelecido no n.º 1.
+
+10 - O regime especial de alienação caduca pelo decurso do prazo, bem como caduca no caso de dação ou de venda executiva da habitação para pagamento de dívidas de empréstimos hipotecários à aquisição ou à realização de obras, sendo a comparticipação paga ao IHRU, I. P., com o remanescente do produto da venda executiva, uma vez satisfeitas aquelas dívidas e as custas processuais.
+
+11 - O disposto no presente artigo é aplicável às situações em que, no período da disponibilização dos apoios, ocorra a morte dos beneficiários diretos que compõem o agregado, podendo os seus herdeiros assumir a sua posição contratual e concretizar a solução habitacional, desde que integrassem o agregado familiar ou destinem a habitação financiada a arrendamento nos termos do n.º 7, sob pena de devolução das quantias concedidas.
+
+12 - As habitações cedidas através de arrendamento nos termos dos n.ºs 7 e 11 do presente artigo estão sujeitas, para além do regime especial de alienação previsto no n.º 1, a um regime especial de afetação por um período de 15 anos a contar da data da aquisição ou da última utilização do financiamento às obras.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921), em vigor a partir de 2025-04-01
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 74.º — Registo
+
+1 - Os regimes especiais de afetação e de alienação estão sujeitos a inscrição no registo predial, a requerer pelo IHRU, I. P., na qualidade de interessado.
+
+2 - O registo dos regimes especiais de afetação e de alienação é requerido com base em declaração emitida pelo IHRU, I. P., para o efeito, com menção da data a partir da qual se começa a contar o prazo de aplicação daquele regime.
+
+3 - (Revogado.)
+
+4 - O custo dos registos referidos nos números anteriores é considerado despesa elegível dos beneficiários nos termos da alínea d) do n.º 1 do artigo 14.º
+
+5 - É registada oficiosamente a caducidade do registo dos regimes especiais de afetação e de alienação pelo decurso do respetivo prazo, mas o respetivo cancelamento por outras causas de extinção só pode ser efetuado com base em declaração emitida pelo IHRU, I. P., para o efeito.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921), em vigor a partir de 2025-04-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+### Capítulo VIII — Fiscalização e incumprimento
+
+###### Artigo 75.º — Acompanhamento e fiscalização
+
+1 - No âmbito das soluções habitacionais promovidas ao abrigo do 1.º Direito, cabe ao IHRU, I. P., verificar o cumprimento das condições legais aplicáveis ao financiamento de cada solução, podendo solicitar, para o efeito, a colaboração do município competente.
+
+2 - No caso de empréstimos concedidos por instituições de crédito, compete a estas acompanhar o desenvolvimento da execução dos projetos objeto do contrato, bem como fiscalizar a sua execução em conformidade com os requisitos e condições legalmente exigidos, podendo solicitar, para o efeito, apoio técnico ao IHRU, I. P.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 76.º — Incumprimento
+
+1 - O não cumprimento, pelos beneficiários, das obrigações a que estão sujeitos nos termos legais e contratuais, bem como as omissões ou as falsas declarações para efeito e no âmbito da atribuição dos apoios ao abrigo do 1.º Direito, sem prejuízo da responsabilidade civil ou criminal que daí possa decorrer, constituem fundamento de resolução do contrato e de pagamento pelos faltosos das quantias indevidamente recebidas, acrescidas de juros pela mora desde a data da respetiva disponibilização, sem prejuízo das demais sanções aplicáveis.
+
+2 - Em caso de recebimento de apoio financeiro por parte de outra entidade contra o disposto no artigo 21.º, o beneficiário deve restituir ao IHRU, I. P., a parte da comparticipação por este concedida de valor igual ao do outro apoio, sem prejuízo de, no caso da atuação do beneficiário configurar a violação de outras normas legais e contratuais aplicáveis, ser exigível a totalidade da comparticipação concedida, acrescida de juros moratórios e das demais penalizações que sejam aplicáveis ao caso.
+
+3 - Quando tiver sido concedido financiamento a entidades ou pessoas referidas nos artigos 11.º e 25.º para despesas elegíveis relativas a prestações de serviços, prévias e complementares de uma solução habitacional financiada ao abrigo do 1.º Direito, designadamente as referidas no n.º 4 do artigo 22.º, e os serviços tenham sido efetivamente prestados e pagos, o não cumprimento do contrato de financiamento principal ou a sua não celebração por causa que não lhes seja imputável não constitui fundamento, per se, para resolução do contrato de financiamento daquelas despesas.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 38/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2023-213650805), em vigor a partir de 2023-05-30
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 77.º — Recuperação de dívidas
+
+O IHRU, I. P., nos termos do artigo 21.º do Decreto-Lei n.º 175/2012, de 2 de agosto, pode promover a cobrança coerciva de dívidas dos beneficiários por não devolução ou não pagamento voluntário de quantias que sejam por eles devidas em virtude de financiamento concedido no âmbito do 1.º Direito.
+
+### Capítulo IX — Disposições finais e transitórias
+
+###### Artigo 78.º — Autorizações de terceiros
+
+Quando a realização das obras na fração ou nos prédios, bem como a contratação dos financiamentos pelos beneficiários do 1.º Direito, dependa da autorização de terceiros, ou os beneficiários detêm os poderes necessários para aquele efeito, conferidos por lei, contrato ou mandato, ou aqueles terceiros intervêm na medida necessária à viabilização da solução habitacional.
+
+###### Artigo 79.º — Dispensa do pagamento de taxas
+
+O município competente e o IHRU, I. P., podem dispensar o beneficiário do pagamento de taxas que lhes fossem devidas no âmbito dos processos de licenciamento ou de certificação quando a natureza e ou a viabilidade da solução habitacional objeto de financiamento ao abrigo do 1.º Direito o justificar.
+
+###### Artigo 80.º — Disponibilização de terrenos públicos
+
+1 - No exercício dos poderes que detêm nos termos da lei e sempre que considerem que a solução habitacional o justifica, os municípios podem transmitir a beneficiários diretos ou entidades beneficiárias do 1.º Direito a propriedade ou o direito de superfície de terrenos de que sejam proprietários para construção de prédios de habitação de custos controlados, bem como promover as correspondentes operações de loteamento, as obras de urbanização e ou as obras de infraestruturação.
+
+2 - O IHRU, I. P., pode igualmente transmitir a propriedade ou o direito de superfície de terrenos de que seja proprietário a beneficiários diretos ou entidades beneficiárias do 1.º Direito, nas demais condições estabelecidas no presente artigo.
+
+3 - Cabe ao município ou o IHRU, I. P., consoante for o caso, fixar o preço de transmissão da propriedade plena ou do direito de superfície dos terrenos até, respetivamente, 90 % ou 80 % do valor de referência estimado nos termos do artigo 54.º, sem prejuízo do disposto no número seguinte.
+
+4 - Na medida da viabilidade das soluções habitacionais ao abrigo do 1.º Direito, em especial nos casos dos artigos 11.º, 12.º e 31.º, os terrenos podem ser transmitidos a preços reduzidos, de forma gratuita ou através de permuta com habitações integradas nos prédios que neles são construídos.
+
+###### Artigo 81.º — Contratação
+
+Aos apoios a conceder ao abrigo do presente decreto-lei aplica-se o disposto na alínea c) do n.º 4 do artigo 5.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual.
+
+###### Artigo 82.º — Dotação orçamental
+
+1 - O Estado transfere as dotações orçamentais da fonte de financiamento de receitas gerais fixadas anualmente no Orçamento do Estado e a inscrever no orçamento de projetos do IHRU, I. P., destinadas ao pagamento dos encargos relativos às comparticipações a conceder ao abrigo do 1.º Direito, bem como à comissão de gestão do IHRU, I. P., de montante correspondente a 2 % do valor total daquela dotação, assegurando os compromissos contratados e sendo as verbas globais fixadas para cada ano acrescidas dos saldos apurados nos anos anteriores.
+
+2 - Para efeito do disposto no número anterior, cabe ao IHRU, I. P., indicar à DGTF o valor das verbas necessárias para suportar os encargos com o 1.º Direito, contratados e a contratar, e os encargos com as comparticipações a fundo perdido destinadas aos programas referidos no n.º 2 do artigo 85.º
+
+3 - Cabe à DGTF assegurar a inscrição no Orçamento do Estado das verbas necessárias às bonificações dos empréstimos concedidos no âmbito do 1.º Direito.
+
+4 - Os montantes das comparticipações que sejam devolvidos ao IHRU, I. P., nos termos do presente decreto-lei, constituem receita própria deste, a reafetar ao 1.º Direito.
+
+5 - O regime especial de financiamento aplicável às soluções habitacionais que tenham sido objeto de candidaturas submetidas no âmbito do Aviso n.º 01/CO2-i01/2021 do investimento RE-C02-i01 do Plano de Recuperação e Resiliência (PRR) rege-se pelo disposto nos artigos 83.º e 83.º-A e é objeto de dotação orçamental própria.
+
+6 - As candidaturas submetidas ou a submeter ao abrigo do regime do 1.º Direito previsto no presente decreto-lei, as quais, embora não tendo sido apresentadas no âmbito do Aviso n.º 01/CO2-i01/2021 do investimento RE-C02-i01 do PRR, cumpram integralmente os respetivos requisitos, caso a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento, se aplicável, se verifique até 30 de junho de 2026, podem ser objeto de financiamento no valor correspondente a 100 % das despesas elegíveis, até ao limite da dotação orçamental que seja especificamente aprovada para esse efeito.
+
+7 - Uma vez esgotada a dotação orçamental disponibilizada para a comparticipação prevista no número anterior, as candidaturas são comparticipadas ao abrigo dos limites próprios do regime do 1.º Direito - Programa de Apoio ao Acesso à Habitação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921), em vigor a partir de 2025-04-01
+
+###### Artigo 83.º — Regime especial de financiamento
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - As candidaturas que tenham sido submetidas dentro do prazo, ao abrigo do Aviso n.º 01/CO2-i01/2021, mas que, apesar de cumprirem os respetivos requisitos de acesso e de atribuição, não tenham sido abrangidas por financiamento com verbas do PRR, podem ser convertidas para o regime especial do 1.º Direito, mediante comunicação da intenção de conversão, remetida por escrito ao IHRU, I. P., no prazo concedido por este para o efeito, beneficiando, até ao limite da dotação orçamental definida, de uma comparticipação de 100 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 30 de junho de 2026.
+
+4 - Uma vez esgotada a dotação orçamental disponibilizada para a comparticipação prevista no número anterior, as candidaturas que tenham sido submetidas dentro do prazo, ao abrigo do Aviso n.º 01/CO2-i01/2021, mas que, apesar de cumprirem os respetivos requisitos de acesso e de atribuição, não tenham sido abrangidas por financiamento com verbas do PRR, podem ser convertidas para o regime do 1.º Direito, mediante comunicação da intenção de conversão, remetida por escrito ao IHRU, I. P., no prazo concedido por este para o efeito, beneficiando, até ao limite da dotação orçamental definida, de uma comparticipação de 60 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 31 de dezembro de 2030.
+
+5 - As candidaturas submetidas até ao cumprimento da meta constante do Aviso n.º 01/CO2-i01/2021, aprovadas ou contratadas ao abrigo do Aviso n.º 01/CO2-i01/2021, que cumpram os respetivos requisitos de acesso e de atribuição do financiamento, mas cujo estado de execução comprometa o cumprimento das metas e marcos previstos para o investimento RE-C02-i01 do PRR, e cujos beneficiários comuniquem a intenção de conversão, por escrito, ao IHRU, I. P., no prazo concedido por este para o efeito, podem ser convertidas para o regime do 1.º Direito, beneficiando, até ao limite da dotação disponibilizada, das seguintes percentagens de comparticipação:
+
+a) 85 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 31 de dezembro de 2026;
+
+b) 75 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 30 de junho de 2027;
+
+c) 65 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 31 de dezembro de 2027;
+
+d) 60 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 31 de dezembro de 2030.
+
+6 - Sempre que o IHRU, I. P., conclua existirem vicissitudes ou atrasos na execução das soluções habitacionais financiadas nos termos do presente artigo que impliquem o incumprimento dos prazos previstos nos n.os 3 e 5, pode, após audição dos beneficiários, aprovar a redução das percentagens de comparticipação de acordo com a data da conclusão daquelas soluções, que lhes é comunicada nos termos previstos no n.º 1 do artigo 19.º do Decreto-Lei n.º 175/2012, de 2 de agosto, na sua redação atual, por simples troca de correspondência.
+
+7 - Em qualquer caso, as soluções habitacionais cujo prazo de conclusão, incluindo a celebração do contrato de arrendamento se aplicável, seja posterior a 31 de dezembro de 2030, podem ser convertidas para o regime geral de financiamento previsto no presente decreto-lei.
+
+8 - A disponibilização das comparticipações relativas a candidaturas previstas nos n.os 3, 4 e 5 obedece ao disposto no artigo 22.º
+
+9 - Nos investimentos financiados pelo Plano de Recuperação e Resiliência, ao programa regulado no presente decreto-lei é aplicado com as condições especiais constantes da Portaria n.º 138-C/2021, de 30 de junho, o Aviso de Publicitação n.º 01/CO2-i01/2021, de 27 de dezembro.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 116/2025 - Diário da República n.º 207/2025, Série I de 2025-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2025-942401304) As alterações introduzidas ao presente Decreto-Lei são aplicáveis aos atos e contratos a realizar após a data da sua entrada em vigor, bem como às relações jurídicas já constituídas e às candidaturas que tenham sido tempestivamente submetidas ao abrigo do Aviso n.º 01/CO2-i01/2021.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116/2025 - Diário da República n.º 207/2025, Série I de 2025-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2025-942401304), em vigor a partir de 2025-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921), em vigor a partir de 2025-04-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 83.º-A — Conversão de candidaturas e contratos
+
+1 - A conversão de candidaturas prevista no artigo anterior obedece aos requisitos previstos no presente decreto-lei e a respetiva ordenação decorre do estado de desenvolvimento das soluções habitacionais, devidamente evidenciado pelos beneficiários.
+
+2 - As candidaturas previstas no n.º 3 do artigo anterior são ordenadas, até ao limite da respetiva dotação orçamental e independentemente da respetiva modalidade, de acordo com a seguinte ordem de prioridades:
+
+a) Soluções habitacionais concretizadas, com contrato de arrendamento celebrado, quando aplicável;
+
+b) Soluções habitacionais em fase de obra, em processo de aquisição ou de arrendamento para subarrendamento, com previsão de concretização ou de celebração de contrato de arrendamento, quando aplicável, até junho de 2025;
+
+c) Soluções habitacionais em fase de obra, em processo de aquisição ou de arrendamento para subarrendamento com previsão de conclusão da solução habitacional, incluindo a celebração de contrato de arrendamento se aplicável, até 30 de junho de 2026;
+
+d) Soluções habitacionais com previsão de conclusão da obra, incluindo a celebração de contrato de arrendamento, se aplicável, até 30 de junho de 2026 que se encontrem numa das seguintes fases anteriores ao início da obra:
+
+i) Com concurso de empreitada a decorrer; ou
+
+ii) Com empreitada orçamentada, quando a obra não seja sujeita a concurso; ou
+
+iii) Com os projetos concluídos.
+
+3 - A ordenação das candidaturas em sede de cada prioridade definida no número anterior é efetuada de acordo com a antiguidade da respetiva data de submissão.
+
+4 - As candidaturas submetidas ao abrigo do Aviso n.º 01/CO2-i01/2021 podem ser convertidas para o regime do 1.º Direito, mediante comunicação do beneficiário ou proposta do IHRU, I. P., podendo recorrer-se ao termo de responsabilidade e aceitação aprovado em anexo à Portaria n.º 138-C/2021, de 30 de junho, com as necessárias adaptações.
+
+5 - No caso de instrumentos contratuais já celebrados ao abrigo do Aviso n.º 01/CO2-i01/2021 e do artigo 3.º-A da Portaria n.º 138-C/2021, de 30 de junho, que sejam convertidos para o regime do 1.º Direito, é dispensada a apresentação de nova candidatura, sendo os referidos instrumentos objeto de aditamento, nos termos previstos no n.º 1 do artigo 19.º do Decreto-Lei n.º 175/2012, de 2 de agosto, alterado pelos Decretos-Leis n.os 102/2015, de 5 de junho, e 81/2020, de 2 de outubro, pela Lei n.º 12/2021, de 10 de março, e pelo Decreto-Lei n.º 74/2022, de 24 de outubro, por simples troca de correspondência.
+
+6 - Mantêm-se válidos para o efeito da conversão prevista nos n.os 3, 4 e 5 do artigo anterior todas as aquisições e demais atos anteriormente praticados no âmbito das candidaturas apresentadas e dos contratos celebrados nos termos do Aviso n.º 01/CO2-i01/2021, ao abrigo das disposições constantes do Decreto-Lei n.º 53-B/2021, de 23 de junho, alterado pela Lei n.º 24-D/2022, de 30 de dezembro, e pelos Decretos-Leis n.os 10/2023, de 8 de fevereiro, 61/2023, de 24 de julho, e 17/2024, de 29 de janeiro, que estabelece o regime excecional de execução orçamental e de simplificação de procedimentos dos projetos aprovados no âmbito do PRR, e da Lei n.º 30/2021, de 21 de maio, que aprova medidas especiais de contratação pública em matéria de projetos financiados ou cofinanciados por fundos europeus.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 116/2025 - Diário da República n.º 207/2025, Série I de 2025-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2025-942401304) As alterações introduzidas ao presente Decreto-Lei são aplicáveis aos atos e contratos a realizar após a data da sua entrada em vigor, bem como às relações jurídicas já constituídas e às candidaturas que tenham sido tempestivamente submetidas ao abrigo do Aviso n.º 01/CO2-i01/2021.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116/2025 - Diário da República n.º 207/2025, Série I de 2025-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2025-942401304), em vigor a partir de 2025-11-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 44/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921), em vigor a partir de 2025-04-01
+
+###### Artigo 84.º — Regulamentação
+
+1 - A regulamentação prevista no n.º 4 do artigo 63.º é publicada no prazo de 60 dias a contar da data de entrada em vigor do presente decreto-lei.
+
+2 - O modelo da publicitação referida no n.º 4 do artigo 18.º é objeto de publicação, através de aviso do IHRU, I. P., na 2.ª série do Diário da República.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 85.º — Norma revogatória
+
+1 - São revogados:
+
+a) O Decreto-Lei n.º 163/93, de 7 de maio, na sua redação atual;
+
+b) O Decreto-Lei n.º 135/2004, de 3 de junho, na sua redação atual,
+
+c) O Decreto-Lei n.º 163/2013, de 6 de dezembro.
+
+2 - Os acordos gerais de adesão e os acordos de colaboração celebrados ao abrigo dos regimes referidos no número anterior que ainda vigorem à data da entrada em vigor do presente decreto-lei caducam no prazo de cinco anos a contar dessa data, sem prejuízo da possibilidade de conversão total ou parcial dos mesmos para o 1.º Direito, no caso dos agregados abrangidos cumprirem os requisitos de elegibilidade deste programa.
+
+###### Artigo 86.º — Aplicação no tempo
+
+O regime constante do presente decreto-lei aplica-se aos pedidos de apoio que sejam apresentados após a data da sua entrada em vigor.
+
+###### Artigo 87.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 26 de abril de 2018. - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - João Pedro Soeiro de Matos Fernandes.
+
+Promulgado em 23 de maio de 2018.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 30 de maio de 2018.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111391357

@@ -1,0 +1,476 @@
+---
+schema_version: '1.0'
+id: pt:dre:294745:por
+title: Decreto-Lei n.º 134/78
+short_title: null
+summary: Reestrutura a carreira dos sargentos do quadro permanente da Força Aérea
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 134/78
+official_date: null
+publication_date: '1978-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 129/1978, Série I de 1978-06-06
+  number: '129'
+  series: I
+  supplement: null
+  pages: 1007 - 1012
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/06/12900/10071012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '294745'
+  dre_path: /dr/detalhe/decreto-lei/134-1978-294745
+  internal: pt:dre:294745:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:11:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5d21129b4363947b9bb2f5625e9862298024c8b61c4b2c636eb6825f2e6d8c29
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Força Aérea
+- Graduação Militar
+- Militar
+- Promoção Profissional
+- Quadro Permanente da Força Aérea
+- Reestruturação de Carreiras
+- Sargento
+relationships:
+- type: amended_by
+  target: pt:dre:626423:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:325308:por
+  label: "Aditada uma al. g) ao art. 36º pelo DEC LEI.426/78.27.12.1978.CR, DR.IS [296] de 27.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/426-1978-325308
+  date: '1978-12-27'
+- type: amended_by
+  target: pt:dre:388847:por
+  label: "Alterada ou aditada as seguintes redacções o nº 1 do art. 10º, o art.11º, a alínea e) do nº 1, o nº 3 do art. 24º\
+    \ e o art. 31º pelo DEC LEI.74/81.1981.04.10.CR, DR.IS [84]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1981-388847
+  date: '1981-04-10'
+- type: amended_by
+  target: pt:dre:578303:por
+  label: "Alterada a redacção dos artºs 18º, 21º, 26º, 27º, 28º, 28.º-A, 28.º-B, 28.º-C, 29º, 32º, 33º e 36º pelo DEC LEI.170/81.1981.06.23.CR,\
+    \ DR.IS [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1981-578303
+  date: '1981-06-23'
+- type: amended_by
+  target: pt:dre:376653:por
+  label: "Altera o art. 8.º pelo DEC LEI.419/82.12.10.1982.CR, DR.IS [236] de 12.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/419-1982-376653
+  date: '1982-10-12'
+- type: amended_by
+  target: pt:dre:170480:por
+  label: "Suspensa temporariamente a aplicação das condições estabelecidas na al. b) do n.º 1 do art. 27.º e na al. b) do\
+    \ n.º 1 do art. 28.º-B do presente diploma, na redacção do Dec Lei 170/81, de 23-Jun, pelo DEC LEI.489/85.26.11.1985.MDN,\
+    \ DR.IS [272] de 26.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/489-1985-170480
+  date: '1985-11-26'
+- type: cites
+  target: pt:dre:416459:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:564204:por
+  label: Rectificado o n.º 2 do artigo 17.º-B do presente diploma, aditado pelo Decreto-Lei 74/81, de 10 de Abril, pelo DEC
+    LEI.277/81.01.10.1981.CR, DR.IS [226] de 01.10.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-1981-564204
+  date: '1981-10-01'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:11:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 134/78
+
+de 6 de Junho
+
+Considerando que o [Decreto-Lei n.º 891/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/891-1976-416459), de 30 de Dezembro, ao criar os postos de sargento-mor e de sargento-chefe prevê a reestruturação da carreira militar dos sargentos dos quadros permanentes das forças armadas;
+
+Considerando que a criação daqueles postos, aliada à exigência natural de procurar por todos os meios aumentar a eficiência do pessoal, implica a necessidade de aperfeiçoar o sistema de selecção e de preparação dos sargentos para o exercício de funções aos diferentes níveis de qualificação e de responsabilidade;
+
+Considerando ainda a conveniência de estabelecer duas linhas de programação de carreira para os sargentos dos quadros permanentes da Força Aérea - consubstanciadas no acesso aos postos cimeiros da hierarquia de sargentos ou no acesso à carreira de oficial - e que em qualquer delas é fundamental que os sargentos possam sentir a mesma dignidade profissional, o que, por consequência, impõe que seja da sua inteira responsabilidade a opção definitiva por uma ou por outra:
+
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+
+Artigo 1.º São sargentos dos quadros permanentes (QP) da Força Aérea os que voluntariamente sigam a carreira das armas, adquiram preparação especial para o seu exercício e sirvam na Força Aérea com carácter de permanência.
+
+Hierarquia
+
+Art. 2.º Na Força Aérea, os sargentos dos QP distribuem-se hierarquicamente pelos seguintes postos:
+
+Sargento-mor;
+
+Sargento-chefe;
+
+Sargento-ajudante;
+
+Primeiro-sargento;
+
+Segundo-sargento;
+
+Furriel.
+
+Art. 3.º Os sargentos são designados pelo posto e quadro; quando não estejam no activo, acrescenta-se a situação:
+
+Na reserva;
+
+Na reforma;
+
+Separado de serviço.
+
+Quadros
+
+Art. 4.º Na Força Aérea, os sargentos dos QP distribuem-se por quadros, onde são ordenados hierarquicamente por postos e em cada posto pela antiguidade relativa.
+
+Art. 5.º - 1 - A composição e os efectivos dos quadros referidos no artigo 4.º são fixados em diploma especial no que diz respeito a sargentos no activo.
+
+2 - Para os sargentos nas situações de reserva, de reforma e de separado de serviço os efectivos não são fixados.
+
+Art. 6.º - 1 - Os efectivos dos quadros e a sua conveniente distribuição por postos destinam-se a fazer face às necessidades da Força Aérea para o desempenho da missão que lhe está atribuída.
+
+2 - Sem prejuízo do estabelecido no número anterior, a constituição dos quadros deverá assegurar o conveniente equilíbrio no acesso aos mesmos postos em todos os quadros.
+
+Art. 7.º - 1 - A Direcção do Serviço de Pessoal da Força Aérea providenciará para que os quadros de sargentos estejam sempre preenchidos; quando haja vacaturas em qualquer dos quadros, deve promover o seu preenchimento imediato por sargentos que reúnam as condições legais de promoção.
+
+2 - Quando se verificarem em determinado posto vacaturas que não possam ser preenchidas por falta de condições legais para esse posto, podem tais vacaturas ser ocupadas, em posto ou postos inferiores, por pessoal que tenha qualificação para estas.
+
+Ingressos
+
+Art. 8.º - 1 - O ingresso nos quadros permanentes de sargentos é feito no posto de furriel, após o termo com aproveitamento do curso de formação de sargento do QP.
+
+2 - A antiguidade no posto de ingresso é referida ao dia imediato do termo do curso citado no número anterior e a ordenação no quadro é determinada pela classificação do mesmo curso.
+
+3 - No caso de os militares de categoria de pessoal militar não permanente terem posto superior a furriel ao ingressarem nos quadros, mantêm esse posto como graduados, até lhes competir a promoção.
+
+Art. 9.º Os sargentos do QP que por razões especiais, a considerar pelo Chefe do Estado-Maior da Força Aérea (CEMFA), ouvida a Comissão Técnica da Força Aérea (CTFA), sejam autorizados a transferir-se para outro quadro, ingressam neste com a antiguidade que possuíam no quadro de origem.
+
+Qualificação e funções
+
+Art. 10.º - 1 - Aos sargentos dos QP são cometidas funções de acordo com o respectivo grau hierárquico e tendo em conta os níveis de qualificação/responsabilidade seguintes:
+
+a) Níveis de qualificação;
+
+Com qualificação avançada;
+
+Qualificado;
+
+Semiqualificado;
+
+Auxiliar;
+
+b) Níveis de responsabilidade:
+
+Chefia;
+
+Supervisão;
+
+Execução.
+
+2 - Os níveis de qualificação e de responsabilidade referidos no número anterior obtêm-se pela frequência com aproveitamento de cursos ou estágios apropriados ou por experiência adquirida no serviço, devidamente comprovada pelos chefes responsáveis, segundo normas a estabelecer para os diferentes quadros, por despacho do Chefe do Estado-Maior da Força Aérea.
+
+Art. 11.º Além da satisfação das outras condições de promoção, o acesso aos diferentes postos depende da posse, confirmada por informação dos chefes responsáveis, dos níveis de qualificação/responsabilidade a seguir indicados:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/12900/10071012.pdf)
+
+Promoções e graduações
+
+Art. 12.º - 1 - Os sargentos dos QP ascendem aos diferentes postos por promoção.
+
+2 - Os sargentos podem ser graduados em posto superior àquele a que ascenderem por promoção nos termos deste diploma ou de legislação específica.
+
+Art. 13.º Os sargentos dos QP podem ser promovidos por uma das seguintes modalidades de promoção:
+
+a) Por antiguidade;
+
+b) Por escolha;
+
+c) Por distinção.
+
+Art. 14.º A promoção por antiguidade consiste no acesso ao posto imediatamente superior, segundo o ordenamento hierárquico do respectivo quadro, salvo nos casos de preterição, e depois de satisfeitas as necessárias condições de promoção.
+
+Art. 15.º - 1 - A promoção por escolha consiste no acesso ao posto imediatamente superior, por vaga ocorrida neste, independentemente do ordenamento hierárquico do quadro, e segundo ordem estabelecida em listas de promoção por escolha, elaboradas pela Comissão Técnica da Força Aérea.
+
+2 - A promoção por escolha tem em vista acelerar a promoção dos sargentos considerados mais competentes e que ofereçam melhor garantia para o bom exercício das funções dos postos a que se dá o acesso.
+
+Art. 16.º - 1 - A promoção por distinção consiste no acesso a posto superior independentemente da existência de vaga e da satisfação das condições de promoção.
+
+2 - Esta modalidade tem por objectivo premiar condignamente dotes de comando e virtudes militares de excepcional mérito, revelados em campanha ou acções de grande valor militar que sirvam a glória e o bom nome da Pátria ou contribuam para o prestígio e valorização das instituições militares.
+
+3 - Os militares promovidos por distinção a um posto para o qual é exigido um curso de acesso devem, logo que possível, e com a maior brevidade, no caso de ainda o não possuírem, frequentar esse curso como garantia da sua formação profissional.
+
+4 - A promoção por distinção também pode ter lugar a título póstumo.
+
+Art. 17.º - 1 - Os sargentos dos QP, para serem promovidos, têm de satisfazer às condições de promoção fixadas neste diploma, tendo em conta apenas as excepções previstas no mesmo.
+
+2 - As condições de promoção dividem-se em:
+
+a) Condições gerais - comuns a todos os quadros e postos e que incluem:
+
+1.ª Bom comportamento militar e civil e perfeito espírito militar;
+
+2.ª Boas qualidades morais;
+
+3.ª Qualidades pessoais, intelectuais e profissionais necessárias para o desempenho das funções do posto imediato;
+
+4.ª Aptidão física adequada.
+
+b) Condições especiais - próprias de cada posto e ou quadro, que podem incluir o tempo de permanência no posto, o desempenho ou aptidão para funções específicas, provas, estágios e cursos.
+
+Art. 18.º - 1 - São condições especiais de promoção aos diferentes postos, além da posse dos níveis de qualificação e de responsabilidade indicados no artigo 11.º, as seguintes:
+
+a) Para promoção a furriel - ter aprovação no curso de formação de sargentos dos QP;
+
+b) Para promoção a segundo-sargento - ter dois anos de serviço efectivo como furriel;
+
+c) Para promoção a primeiro-sargento:
+
+1) Ter três anos de serviço efectivo como segundo-sargento;
+
+2) Ter realizado com aproveitamento os cursos ou estágios de qualificação que forem determinados por despacho do Chefe do Estado-Maior da Força Aérea;
+
+d) Para promoção a sargento-ajudante:
+
+1) Ter aprovação no curso de promoção a sargento-ajudante;
+
+2) Ter quatro anos de serviço efectivo como primeiro-sargento;
+
+3) Possuir o curso geral dos liceus ou habilitações legalmente equivalentes;
+
+e) Para sargento-chefe - ter dois anos de serviço efectivo como sargento-ajudante;
+
+f) Para sargento-mor:
+
+1) Ter um ano de serviço efectivo como sargento-chefe;
+
+2) Ter oito anos de serviço efectivo a partir do acesso a primeiro-sargento;
+
+2 - As condições especiais de promoção referidas no n.º 1 poderão ser complementares com outras, a definir, específicas por quadros ou especialidades.
+
+Art. 19.º Os militares que ingressem num determinado quadro, em posto inferior ao seu, mantêm o seu posto anterior com a designação de «graduados», até lhes competir a promoção no respectivo quadro.
+
+Art. 20.º - 1 - Os sargentos dos QP podem ser temporariamente excluídos das promoções, ficando numa das seguintes situações:
+
+a) Demorados - quando, face a um impedimento, se venha a verificar que as suas causas não são imputáveis aos próprios ou, sendo-o, não contrariam a satisfação das condições de promoção;
+
+b) Preteridos - quando a exclusão da promoção resulte de não satisfação da 3.ª condição geral de promoção ou das condições especiais e, neste caso, a sua causa seja imputável ao próprio.
+
+2 - Os sargentos dos QP demorados são promovidos logo que cessem os motivos que os colocaram nessa situação, independentemente de existir ou não vacatura nos quadros, indo ocupar na escala de antiguidade do novo posto a posição que lhes competiria se não tivesse havido impedimento na promoção e mantêm o direito aos vencimentos com referência àquela data de antiguidade.
+
+3 - Os sargentos preteridos, quando forem promovidos, ocupam no quadro a posição correspondente à data da antiguidade que lhes for atribuída pelo despacho do Chefe do Estado-Maior da Força Aérea que sancionar a promoção.
+
+Art. 21.º Nas promoções dos sargentos aos diferentes postos são utilizadas as modalidades de promoção a seguir indicadas:
+
+a) Escolha - nas promoções a sargento-ajudante e a sargento-mor;
+
+b) Antiguidade, com dependência de vacatura - nas promoções a sargento-chefe;
+
+c) Antiguidade, sem dependência de vacatura - nas promoções a primeiro-sargento e a segundo-sargento;
+
+d) Antiguidade (determinada pela ordem de classificação do curso de formação de sargento do QP), sem dependência de vacatura - na promoção a furriel.
+
+Cursos
+
+Art. 22.º - 1 - A preparação profissional dos sargentos da Força Aérea, ao longo da sua carreira, realiza-se essencialmente pela frequência de:
+
+a) Cursos de formação;
+
+b) Cursos de promoção;
+
+c) Cursos de qualificação.
+
+2 - Os cursos de formação destinam-se a dar preparação adequada para o ingresso nos vários quadros.
+
+3 - Os cursos de promoção destinam-se a habilitar os sargentos para o desempenho de funções inerentes a níveis de responsabilidade diferenciados.
+
+4 - Os cursos de qualificação destinam-se a ampliar os conhecimentos profissionais dos sargentos, habilitando-os com as técnicas e demais requisitos necessários ao desempenho das diferentes funções ou ainda a melhorar a sua preparação em determinados campos restritos da área de utilização pertinente ao seu nível de qualificação.
+
+Art. 23.º Os cursos de formação de sargentos dos QP a que se refere o artigo 22.º têm, por regra, a duração de dois anos lectivos e seguem programas aprovados pelo Chefe do Estado-Maior da Força Aérea, visando uma preparação militar, científica e técnico-profissional adequada ao exercício das funções de sargento dos quadros permanentes.
+
+Art. 24.º - 1 - Podem ser admitidos ao curso de formação de sargentos dos QP os militares que o requeiram ao Chefe do Estado-Maior da Força Aérea e tal lhes seja deferido, após parecer da Comissão Técnica da Força Aérea, e satisfaçam as seguintes condições:
+
+a) Ter bom comportamento moral e civil;
+
+b) Possuir boas qualidades militares, intelectuais e morais, atestadas pelos comandantes ou chefes das unidades e órgãos em que estão colocados;
+
+c) Ter menos de 28 anos de idade em 31 de Dezembro do ano de ingresso no curso;
+
+d) Ter aptidão física para desempenho das funções do quadro em que pretende ingressar;
+
+e) Ter no mínimo quatro anos de serviço efectivo e encontrar-se na efectividade de serviço;
+
+f) Estar habilitado no mínimo com o ciclo preparatório do ensino liceal ou habilitações equivalentes ou o curso geral dos liceus ou habilitações equivalentes quando destinados a quadros em que os cursos de formação exijam esta habilitação.
+
+2 - Os candidatos à frequência dos cursos de formação de sargentos referidos no número anterior são admitidos pela ordem estabelecida pela CTFA, após homologação do SEMFA, podendo, quando julgado conveniente, ser sujeitos a provas de admissão reguladas por despacho do SEMFA.
+
+Art. 25.º Não são autorizados a frequentar cursos de formação de sargentos dos QP os militares que:
+
+a) Já tenham desistido da frequência de um destes cursos para que tenham sido nomeados;
+
+b) Não tenha obtido aproveitamento em tais cursos por duas vezes, salvo se por motivo de acidente ou doença, devidamente comprovados.
+
+Art. 26.º O curso de promoção a sargento-ajudante terá, por regra, a duração de um ano lectivo, incidindo em matérias de carácter geral, culturais, técnicas e de organização e métodos de trabalho, com vista à necessária preparação para os níveis de supervisão e de chefia.
+
+Art. 27.º - 1 - Podem ser admitidos ao curso de promoção a sargento-ajudante, segundo critério a definir pelo Chefe do Estado-Maior da Força Aérea, os primeiros-sargentos que satisfaçam as seguintes condições:
+
+a) Possuir boas qualidades militares, intelectuais e morais, atestadas pelo comandante ou chefe da unidade ou órgão em que estiver colocado;
+
+b) Ter menos de 47 anos de idade em 31 de Dezembro do ano de ingresso no curso;
+
+c) Ter no mínimo dois anos de serviço como primeiro-sargento.
+
+2 - A nomeação para o curso, referido no número anterior, é feita por antiguidade, pelo CEMFA, mediante parecer da Comissão Técnica da Força Aérea, entre os primeiros-sargentos que tiverem apresentado declaração em como desejam frequentá-lo.
+
+Art. 28.º - 1 - Serão excluídos definitivamente da nomeação para a frequência do curso de promoção a sargento-ajudante os primeiros-sargentos que:
+
+a) Após terem sido nomeados desistam duas vezes do ingresso no curso;
+
+b) Em dois anos não tenham obtido aproveitamento no curso, salvo se por motivo de acidente ou doença, devidamente comprovados;
+
+c) Desistam do curso durante a sua frequência, salvo se por motivo de força maior, devidamente justificado;
+
+d) Tendo optado pela frequência do curso de oficial, e, após nomeação para o mesmo, não o tenham concluído ou mesmo iniciado, por razões pessoais.
+
+Art. 29.º - 1 - Os cursos de qualificação serão frequentados pelos sargentos dos QP sempre que seja julgado conveniente e necessário para manutenção ou alteração dos níveis de qualificação.
+
+2 - A designação para a frequência dos cursos referidos no n.º 1 é normalmente feita por escolha, considerando sempre que possível o voluntariado, circunstância valiosa e apreciável na valorização profissional dos militares.
+
+Art. 30.º - 1 - Os cursos referidos neste diploma são ministrados, em regra, nas escolas e centros de instrução da Força Aérea, com recurso, quando necessário e conveniente, a docentes civis.
+
+2 - Quando julgado conveniente, podem os mesmos cursos ser ministrados em escolas doutros ramos das forças armadas ou, ainda, em estabelecimentos civis.
+
+Acesso a oficial
+
+Art. 31.º - 1 - Os sargentos ingressarão nos quadros de oficiais dos QP, por promoção, por distinção ou após frequência com aproveitamento dos cursos de formação respectivos.
+
+2 - As condições de admissão e de frequência dos cursos de formação de oficial dos QP por sargentos são estabelecidas neste diploma, completadas quando necessário por despachos do Chefe do Estado-Maior da Força Aérea.
+
+Art. 32.º - 1 - As condições de admissão aos cursos de formação de oficiais dos QP são as seguintes:
+
+a) Para os cursos ministrados na Academia da Força Aérea ou escola equivalente, as estabelecidas nos respectivos regulamentos;
+
+b) Para os cursos ministrados nas restantes escolas, os actuais cursos de formação de oficiais pilotos, técnicos e de serviço geral:
+
+1) Ser primeiro-sargento com pelo menos dois anos de permanência no posto;
+
+2) Ter menos de 40 anos em 31 de Dezembro do ano de admissão ao curso;
+
+3) Ter o curso complementar dos liceus ou habilitações equivalentes.
+
+2 - A nomeação em cada ano para os cursos referidos no número anterior é feita por antiguidade entre os sargentos que se tenham candidatado e merecido parecer favorável da Comissão Técnica da Força Aérea.
+
+3 - Os militares em serviço efectivo que possuam cursos de nível superior com interesse para o exercício de funções de oficial dos quadros permanentes podem ser autorizados a frequentar cursos de formação de oficial em condições especiais, a definir para cada caso por despacho do CEMFA, precedido de parecer favorável da CTFA.
+
+Estes cursos terão duração e programas adequados, a definir por despacho do CEMFA.
+
+4 - Os oficiais formados nas condições estabelecidas em 3 terão ingresso nos quadros respectivos à esquerda dos oficiais provenientes dos cursos com a duração normal concluídos no mesmo ano.
+
+Art. 33.º São excluídos da nomeação para os cursos de formação de oficial dos QP a que se refere a alínea b) do n.º 1 do artigo 32.º os sargentos que:
+
+a) Após terem sido nomeados para cursos anteriores hajam desistido por duas vezes da frequência dos mesmos;
+
+b) Percam dois anos por falta de aproveitamento nos cursos em causa, salvo por motivo de acidente ou doença, devidamente comprovados;
+
+c) Hajam desistido de um curso anterior durante a sua frequência, salvo se for por motivo de força maior, devidamente justificada;
+
+d) Tenham optado, em anos anteriores, pela frequência do curso de promoção a sargento-ajudante e não o tenham iniciado ou concluído por razões de ordem pessoal.
+
+Art. 34.º Serão excluídos definitivamente de admissão aos cursos ministrados na Academia da Força Aérea ou escola equivalente os sargentos dos QP que fiquem abrangidos pelas condições fixadas nos respectivos regulamentos.
+
+Disposições diversas e transitórias
+
+Art. 35.º O número de instruendos a admitir aos diferentes cursos de formação e de promoção é fixado anualmente por despacho do Chefe do Estado-Maior da Força Aérea, tendo em conta, nomeadamente:
+
+a) As necessidades de completamento dos quadros;
+
+b) A conveniente programação das carreiras dos oficiais e dos sargentos;
+
+c) A capacidade das escolas.
+
+Art. 36.º Considerando as circunstâncias em que vem decorrendo a carreira dos sargentos e praças da Força Aérea, deve observar-se:
+
+a) Aos actuais sargentos dos QP não será exigido o curso geral dos liceus, ou habilitações equivalentes, como condição especial de promoção a sargento-ajudante referida na alínea d) do artigo 18.º;
+
+b) Até ao ano lectivo de 1980-1981, inclusive, podem ser admitidos ao curso de formação de sargentos dos QP militares com idade superior aos 28 anos referidos na alínea c) do artigo 24.º;
+
+c) Até ao ano lectivo de 1980-1981, inclusive, podem ser admitidos ao curso de promoção a sargento-ajudante os primeiros-sargentos com idade superior a 47 anos referida na alínea b) do n.º 1 do artigo 27.º;
+
+d) Até ao ano lectivo de 1983-1984, inclusive, podem ser admitidos aos cursos de formação de oficiais referidos na alínea b) do n.º 1 do artigo 32.º sargentos que ultrapassem os 40 anos de idade referidos na mesma alínea e tenham menos de 48 anos em 31 de Dezembro do ano de admissão;
+
+e) Os actuais sargentos dos QP podem ser admitidos aos cursos de formação de oficiais referidos na alínea b) do n.º 1 do artigo 32.º ainda que não possuam o curso complementar dos liceus referidos na mesma alínea;
+
+f) Até ao ano lectivo de 1979-1980 podem ser admitidos aos cursos de formação de oficiais dos QP, nas condições indicadas na alínea b) do n.º 1 do artigo 32.º e alínea d) do artigo 36.º, os sargentos-ajudantes que não frequentaram o curso de promoção a sargento-ajudante nas condições previstas neste diploma.
+
+Art. 37.º - 1 - Os actuais sargentos-ajudantes que não estão habilitados com o curso de promoção a sargento-ajudante, para efeito de promoção a sargento-chefe, necessitam de frequentar, com aproveitamento, um curso com duração e programas apropriados, a definir por despacho do Chefe do Estado-Maior da Força Aérea, por proposta do director do Serviço de Instrução.
+
+2 - A nomeação para o curso referido no número anterior é feita pelo Chefe do Estado-Maior da Força Aérea, mediante parecer da Comissão Técnica da Força Aérea, após apreciação dos sargentos-ajudantes naquelas condições que tiverem apresentado declaração de que desejam frequentá-lo.
+
+3 - Os actuais sargentos-ajudantes habilitados com curso de promoção a sargento-ajudante, realizado em condições e com características diferentes das previstas neste diploma, devem frequentar, com aproveitamento, como condição especial de promoção a sargento-chefe, todo ou parte do curso referido no número anterior, por decisão dos próprios, dentro das condições a definir pelo Chefe do Estado-Maior da Força Aérea, mediante proposta do Serviço de Instrução.
+
+4 - A nomeação para este curso será feita nas condições estabelecidas em 2.
+
+Art. 38.º Os militares nomeados para a frequência dos cursos de formação e de promoção referidos no presente diploma serão submetidos a inspecções médicas por juntas de saúde da Força Aérea, com vista a avaliar das suas condições físicas e psíquicas para o exercício das funções a que são destinados.
+
+Art. 39.º As dúvidas e casos omissos na execução do presente diploma são resolvidos por despacho do Chefe do Estado-Maior da Força Aérea.
+
+Visto e aprovado em Conselho da Revolução em 17 de Maio de 1978.
+
+Promulgado em 20 de Maio de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

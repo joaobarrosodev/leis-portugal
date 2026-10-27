@@ -1,0 +1,1017 @@
+---
+schema_version: '1.0'
+id: pt:dre:333859:por
+title: Decreto-Lei n.º 93/2010
+short_title: null
+summary: Estabelece o regime de comércio de licenças de emissão de gases com efeito de estufa das actividades da aviação,
+  transpondo a Directiva n.º 2008/101/CE, do Parlamento Europeu e do Conselho, de 19 de Novembro, que altera a Directiva n.º
+  2003/87/CE, do Parlamento Europeu e do Conselho, de 13 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 93/2010
+official_date: null
+publication_date: '2010-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 144/2010, Série I de 2010-07-27
+  number: '144'
+  series: I
+  supplement: null
+  pages: 2862 - 2873
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/07/14400/0286202873.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-12-04'
+version_history:
+  file: decreto-lei-93-2010.versoes.json
+  count: 4
+  source_lastmod: '2024-08-20'
+  versions:
+  - date: '2010-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-09-19'
+    amending: pt:dre:70280720:por
+    amending_title: Decreto-Lei n.º 195/2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Revoga Anexo III
+  - date: '2017-01-01'
+    amending: pt:dre:75150234:por
+    amending_title: Decreto-Lei n.º 42-A/2016
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+  - date: '2024-12-04'
+    amending: pt:dre:898378509:por
+    amending_title: Decreto-Lei n.º 98/2024
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/93/2010/p/cons/20241129/pt/html
+  oj: null
+  dre: '333859'
+  dre_path: /dr/detalhe/decreto-lei/93-2010-333859
+  internal: pt:dre:333859:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2010-333859
+  metadata_url: https://data.dre.pt/eli/dec-lei/93/2010/p/cons/20241129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-884939942
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-884939942
+  retrieved_at: '2026-10-22T13:12:29Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-20T00:00:00Z'
+integrity:
+  source_sha256: 98cb076703717d9a62e26ddba6bfdbe8c0054dccdcb59f75e4ff1b87d52171a4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:12:29Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-93-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Aeronave com Motor
+- Registo Português de Licenças de Emissão
+- Licença de Emissão
+- Aproximação das Legislações
+- Avião
+- Multa
+- Transporte Aéreo
+- Contra-ordenação
+- Controlo Técnico
+- Definição de Competências
+- Instituto Nacional de Aviação Civil
+- Poluição Atmosférica
+- Fiscalização
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Proteção do Ambiente
+- Sanção Penal
+- Madeira.região Autónoma
+- Aviação Civil
+- Regulamento CE
+- Açores
+- TAXA de Prestação de Serviços
+- Comércio
+- Agência Portuguesa do Ambiente
+relationships:
+- type: amended_by
+  target: pt:dre:70280720:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 14.º;
+    Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 22.º;
+    Altera Artigo 25.º; Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720
+  date: '2015-09-14'
+- type: amended_by
+  target: pt:dre:75150234:por
+  label: Altera Artigo 5.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234
+  date: '2016-08-12'
+- type: amended_by
+  target: pt:dre:898378509:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509
+  date: '2024-11-29'
+- type: cites
+  target: celex:32003L0087
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/87/oj
+- type: cites
+  target: celex:32004R2216
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/2216/oj
+- type: cites
+  target: celex:32007D0589
+  label: null
+  source: http://data.europa.eu/eli/dec/2007/589/oj
+- type: cites
+  target: celex:32007R0916
+  label: null
+  source: http://data.europa.eu/eli/reg/2007/916/oj
+- type: cites
+  target: celex:32008L0101
+  label: null
+  source: http://data.europa.eu/eli/dir/2008/101/oj
+- type: cites
+  target: celex:32008R0994
+  label: null
+  source: http://data.europa.eu/eli/reg/2008/994/oj
+- type: cites
+  target: celex:32008R1008
+  label: null
+  source: http://data.europa.eu/eli/reg/2008/1008/oj
+- type: cites
+  target: celex:32009D0339
+  label: null
+  source: http://data.europa.eu/eli/dec/2009/339/oj
+- type: cites
+  target: celex:32009R0748
+  label: null
+  source: null
+- type: cites
+  target: celex:32010R1031
+  label: null
+  source: null
+- type: cites
+  target: celex:32012R0600
+  label: null
+  source: null
+- type: cites
+  target: celex:32012R0601
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R0389
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R1123
+  label: null
+  source: null
+- type: cites
+  target: celex:32014R0421
+  label: null
+  source: null
+- type: cites
+  target: celex:32015R0180
+  label: null
+  source: null
+- type: transposes
+  target: celex:32003L0087
+  label: null
+  source: null
+- type: transposes
+  target: celex:32008L0101
+  label: null
+  source: null
+- type: transposes
+  target: celex:32009L0029
+  label: null
+  source: null
+article_structure:
+  article_count: 29
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:12:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 93/2010
+
+Decreto-Lei n.º 93/2010
+
+de 27 de Julho
+
+As alterações climáticas são hoje um dos mais marcantes problemas globais, ocupando como tal um lugar central e determinante da política de ambiente e de sustentabilidade. Assumem assim um papel de crescente destaque nas agendas internacional, comunitária e nacional.
+
+Para dar resposta a esta problemática, tem vindo a ser construído um edifício regulatório dinâmico e inovador, no qual se têm envolvido diversos agentes públicos e privados, no sentido de uma progressiva internalização dos custos ambientais associados à emissão de gases com efeito de estufa, concretizando o princípio da partilha de responsabilidades e do poluidor-pagador.
+
+Entre os instrumentos que integram este edifício, destaca-se o comércio europeu de licenças de emissão (CELE), que consiste no primeiro instrumento de mercado intracomunitário de regulação das emissões de gases com efeito de estufa, contribuindo para a redução economicamente eficiente destas emissões nos sectores por ele abrangidos e, consequentemente, para o controlo de uma parte considerável do problema ao nível comunitário.
+
+Portugal tem acompanhado plenamente o desenvolvimento da política de combate às alterações climáticas. No que respeita ao CELE, foi aprovado o respectivo regime jurídico, através do Decreto-Lei n.º 233/2004, de 14 de Dezembro, o qual surgiu na sequência da transposição do normativo comunitário que, por sua vez, foi objecto de sucessivas alterações.
+
+Actualmente, na sequência da aprovação da Directiva n.º 2008/101/CE, do Parlamento Europeu e do Conselho, de 19 de Novembro de 2008, assiste-se a uma nova fase deste instrumento de mercado, alargando o seu âmbito ao sector da aviação civil.
+
+A inclusão da aviação civil no âmbito do CELE resulta do reconhecimento do papel fundamental que o transporte aéreo desempenha nas sociedades modernas, essencial ao intercâmbio económico e cultural, mas ao qual se associa uma relevante contribuição para a emissão de gases com efeito de estufa, com uma tendência de crescimento. Pese embora as emissões da aviação internacional não estejam integradas nos compromissos assumidos ao abrigo do Protocolo de Quioto, após um longo processo de análise e concertação, a União Europeia, em coerência com a sua liderança no combate às alterações climáticas, aprovou a directiva supra-referida durante a presidência portuguesa da União Europeia em 2007, integrando de forma precursora as actividades da aviação no comércio de emissões. O objectivo preconizado por esta directiva consiste em reduzir as repercussões das actividades aéreas civis nas alterações climáticas, limitando, entre 2012 e 2013, as emissões dos operadores de aeronaves a 97 % das emissões precedentes - calculadas com base na média anual de emissões entre 2004 e 2006 - e a 95 % destas emissões a partir de 2013.
+
+Neste contexto, o presente decreto-lei estabelece o regime de comércio europeu de licenças de emissão de gases com efeito de estufa das actividades da aviação, transpondo para a ordem jurídica nacional a Directiva n.º 2008/101/CE, do Parlamento Europeu e do Conselho, de 19 de Novembro de 2008.
+
+Este decreto-lei sujeita o sector da aviação civil ao CELE, aplicando-se também a operadores de aeronaves de países terceiros, desde que realizem voos de e para a União Europeia. Aos operadores abrangidos é atribuído um montante de licenças de emissão, definido de forma centralizada a nível da Comissão Europeia, sendo que parte destas licenças são sujeitas a leilão obrigatório, cujos proventos devem reverter para acções destinadas a combater as alterações climáticas. Para o efeito, e tendo em conta o âmbito e objecto do Fundo Português de Carbono, criado em 2006 através do Decreto-Lei n.º 71/2006, de 24 de Março, prevê-se que os referidos proventos constituam receita deste Fundo.
+
+Prevê-se ainda, à semelhança do disposto no regime jurídico do CELE para os demais sectores de actividade, constante no Decreto-Lei n.º 233/2004, de 14 de Dezembro, a existência de uma reserva de licenças de emissão para novos operadores de aeronaves em actividade no mercado, a monitorização e a validação de emissões por verificadores acreditados, a devolução e anulação de licenças de emissão, o registo relativo a estas licenças, bem como penalizações para os operadores que não devolvam a totalidade de licenças correspondentes às suas emissões.
+
+Por último, tendo em conta que as emissões da aviação internacional não estão integradas nos compromissos assumidos por Portugal e pelos restantes Estados membros ao abrigo do Protocolo de Quioto, as licenças de emissão atribuídas ao sector da aviação só podem ser utilizadas para o cumprimento das obrigações de devolução de licenças de emissão impostas a estes operadores ao abrigo do presente decreto-lei. Deste modo, procede-se à alteração do artigo 17.º do Decreto-Lei n.º 233/2004, de 14 de Dezembro, na sua actual redacção, no sentido de garantir a integridade do sistema de contabilização do regime comunitário.
+
+Foram ouvidos os órgãos de governo próprio das regiões autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o regime de comércio de licenças de emissão de gases com efeito de estufa das atividades da aviação, transpondo para a ordem jurídica nacional a Diretiva n.º 2003/87/CE, do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, alterada pela Diretiva n.º 2008/101/CE, do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, e pela Diretiva n.º 2009/29/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, incluindo as atividades da aviação no regime europeu de comércio de licenças de emissão de gases com efeito de estufa, doravante designado por regime CELE, a fim de o melhorar e alargar.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O presente decreto-lei aplica-se aos operadores de aeronaves:
+
+a) Titulares de uma licença de exploração válida emitida pela Autoridade Nacional da Aviação Civil (ANAC), em conformidade com as disposições do Regulamento (CE) n.º 1008/2008, do Parlamento Europeu e do Conselho, de 24 de setembro de 2008, relativo a regras comuns de exploração dos serviços aéreos na Comunidade, independentemente de constarem da lista de operadores de aeronave da Comissão Europeia publicada pelo Regulamento (CE) n.º 748/2009, de 5 de agosto de 2009, alterado pelo Regulamento (UE) 2015/180, da Comissão, de 9 de fevereiro de 2015; ou
+
+b) Titulares de uma licença de exploração proveniente de países terceiros e cuja estimativa mais elevada de emissões em relação aos voos realizados por esse operador no ano de base sejam atribuíveis ao Estado Português, independentemente de constarem da lista de operadores de aeronave da Comissão Europeia, publicada pelo Regulamento (CE) n.º 748/2009, de 5 de agosto de 2009, alterado pelo Regulamento (UE) 2015/180, da Comissão, de 9 de fevereiro de 2015.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 3.º — Definições
+
+Para efeitos do disposto no presente decreto-lei, entende-se por:
+
+a) 'Atividade de projeto', a definição constante da alínea a) do artigo 2.º do Decreto-Lei n.º 38/2013, de 15 de março;
+
+b) «Ano de base», o ano civil de 2006, excepto para o caso dos operadores de aeronave que tenham iniciado as suas operações na Comunidade após 1 de Janeiro de 2006, em que o ano base corresponde ao primeiro ano civil em que exerceram as suas actividades;
+
+c) «Emissão», a libertação de gases com efeito de estufa na atmosfera a partir de uma aeronave que realize pelo menos uma das actividades de aviação enumeradas no anexo i ao presente decreto-lei, do qual faz parte integrante;
+
+d) «Emissões atribuídas à aviação», as emissões de todos os voos abrangidos pelas actividades de aviação enumeradas no anexo i, com partida de um aeródromo situado no território de um Estado membro, bem como de todos os voos com chegada a um aeródromo situado no território de um Estado membro provenientes de um país terceiro;
+
+e) «Emissões históricas da aviação», a média das emissões anuais, referente aos anos de 2004, 2005 e 2006, das aeronaves que realizem pelo menos uma das actividades de aviação enumeradas no anexo i, objecto de Decisão da Comissão Europeia;
+
+f) «Estado membro responsável», o Estado membro encarregue da aplicação do regime comunitário em relação a um operador de aeronave, de acordo com o artigo 2.º;
+
+g) 'Gases com efeito de estufa' ou 'GEE', a definição constante da alínea g) do artigo 2.º do Decreto-Lei n.º 38/2013, de 15 de março;
+
+h) «Licença de emissão», a licença, transferível em conformidade com as disposições do presente decreto-lei, para emitir 1 t de dióxido de carbono (CO(índice 2)) equivalente durante um determinado período;
+
+i) 'Lista de operadores de aeronave', a lista a publicar anualmente pela Comissão Europeia, até 1 de fevereiro de cada ano, que indica os operadores de aeronave que tenham realizado pelo menos uma das atividades da aviação enumeradas no anexo I, com indicação do Estado membro responsável;
+
+j) «Operador de aeronave», a pessoa singular ou colectiva, pública ou privada, responsável pela operação de uma aeronave no momento em que a mesma realiza uma das actividades de aviação enumeradas no anexo i ou, se essa pessoa não for conhecida nem identificada pelo proprietário da aeronave, o proprietário da aeronave é considerado operador de aeronave;
+
+l) «Operador de transportes aéreos comerciais», o operador que, mediante remuneração, presta serviços de transporte aéreo, regular ou não regular, ao público para o transporte de passageiros, carga ou correio;
+
+m) «Parte incluída no anexo i», uma Parte incluída no anexo i da Convenção Quadro das Nações Unidas sobre as Alterações Climáticas que tenha ratificado o Protocolo de Quioto, nos termos do n.º 7 do artigo 1.º do Protocolo de Quioto;
+
+n) «Planos de monitorização», documentos que estabelecem a metodologia destinada a monitorizar e a comunicar as emissões ou a monitorizar e a comunicar os dados relativos às toneladas-quilómetro dos operadores de aeronave que realizem pelo menos uma das actividades de aviação enumeradas no anexo i;
+
+o) 'Redução certificada de emissões' ou 'RCE', a definição constante da alínea p) do artigo 2.º do Decreto-Lei n.º 38/2013, de 15 de março;
+
+p) 'Tonelada equivalente de dióxido de carbono', a definição constante da alínea v) do artigo 2.º do Decreto-Lei n.º 38/2013, de 15 de março;
+
+q) 'Unidade de redução de emissões' ou 'URE', a definição constante da alínea w) do artigo 2.º do Decreto-Lei n.º 38/2013, de 15 de março;
+
+r) «Valor de referência», valor expresso em licenças de emissão por tonelada-quilómetro, calculado e publicado pela Comissão Europeia, que serve de base para a atribuição de licenças de emissão a título gratuito aos operadores de aeronave.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+### Capítulo II — Entidades e competências
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 4.º — Autoridade competente
+
+Compete à Agência Portuguesa do Ambiente, I. P. (APA, I. P.):
+
+a) Assegurar a realização de ações de formação, com caráter obrigatório, para os auditores que atuam em nome de um verificador com vista à harmonização da interpretação das regras de aplicação do regime CELE, e dos processos que lhe estão associados, bem como a atribuição de certificados do aproveitamento nas referidas ações de formação;
+
+b) Avaliar os relatórios de emissões anuais e os relatórios de dados relativos às toneladas-quilómetro apresentados pelos operadores de aeronave;
+
+c) Atribuir as licenças de emissão e proceder à respectiva anulação;
+
+d) Assegurar a gestão do sistema de registo nacional de dados relativos à concessão, detenção, transferência e anulação de licenças de emissão;
+
+e) Disponibilizar ao público as decisões sobre a atribuição de licenças de emissão e as informações sobre as emissões, bem como a lista com o nome dos operadores de aeronave que não devolvam licenças de emissão suficientes, nos termos do n.º 4 do artigo 12.º;
+
+f) Aprovar e emitir o plano de monitorização de emissões e o plano de monitorização dos dados relativos às toneladas-quilómetro submetidos pelos operadores de aeronave, nos termos do artigo 8.º;
+
+g) Actualizar os planos de monitorização no caso de serem introduzidas alterações na metodologia de monitorização aplicada a um operador de aeronave;
+
+h) Analisar os pedidos de atribuição de licenças de emissão a título gratuito, efectuados nos termos do n.º 2 do artigo 9.º ou do n.º 4 do artigo 10.º, e comunicar à Comissão Europeia os pedidos recebidos nos termos dos n.os 5 do artigo 9.º ou 8 do artigo 10.º;
+
+i) Calcular a quantidade de licenças de emissão a atribuir aos operadores de aeronave nos termos dos artigos 9.º e 10.º;
+
+j) Elaborar e enviar à Comissão Europeia o relatório anual sobre a aplicação do presente decreto-lei.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 5.º — Competências de outras entidades
+
+1 - Compete à ANAC acompanhar a aplicação, a nível nacional, do regime CELE, no que se refere às atividades de aviação constantes do anexo I, cabendo-lhe, nomeadamente validar, no âmbito das suas atribuições, os planos de monitorização de emissões e o plano de monitorização de dados relativos às toneladas-quilómetro, bem como os pedidos de acesso à reserva especial, que lhe são remetidos pelos operadores de aeronave.
+
+2 - Compete à Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. (IGCP, E. P. E.), praticar todos os atos inerentes à função de leiloeiro, conforme definido no Regulamento (UE) n.º 1031/2010, da Comissão, de 12 de novembro de 2010, relativo ao calendário, administração e outros aspetos dos leilões de licenças de emissão de GEE.
+
+3 - O montante devido pela APA, I. P., à IGCP, E. P. E., pelo desempenho das funções referidas no número anterior, nos termos previstos no n.º 3 do artigo 6.º do Decreto-Lei n.º 200/2012, de 27 de agosto, é suportado através das receitas previstas na alínea a) do n.º 8 do artigo 7.º
+
+4 - Compete ao Instituto Português de Acreditação, I. P., acreditar e supervisionar os verificadores de relatórios de emissões e de relatórios de monitorização relativos aos dados toneladas-quilómetro dos operadores de aeronave, nos termos fixados na regulamentação própria aplicável.
+
+5 - Compete à Comissão do Mercado de Valores Mobiliários o exercício das competências previstas no artigo 43.º do Regulamento (UE) n.º 1031/2010, da Comissão, de 12 de novembro de 2010, bem como a supervisão das entidades previstas nos n.os 2 e 3 do artigo 18.º do mesmo regulamento e no âmbito das atividades aí referidas, nos termos fixados em legislação própria, sem prejuízo das competências atribuídas ao Banco de Portugal e a outras autoridades.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+### Capítulo III — Licenças de emissão
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 6.º — Quantidade total de licenças de emissão
+
+1 - Para o período compreendido entre 1 de Janeiro e 31 de Dezembro de 2012, a quantidade total de licenças de emissão a atribuir aos operadores de aeronave é equivalente a 97 % das emissões históricas da aviação e é determinada pela Comissão Europeia.
+
+2 - Para o período com início em 1 de Janeiro de 2013 e para cada período subsequente, a quantidade total de licenças de emissão a atribuir aos operadores de aeronave é equivalente a 95 % das emissões históricas da aviação multiplicadas pelo número de anos do respectivo período, e é determinada pela Comissão Europeia.
+
+3 - No período compreendido entre 1 de Janeiro e 31 de Dezembro de 2012 são leiloados 15 % da quantidade total de licenças de emissão referidas no n.º 1.
+
+4 - A partir de 1 de Janeiro de 2013 são leiloados 15 % da quantidade total de licenças de emissão previstas no n.º 2.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 7.º — Leilão de licenças de emissão
+
+1 - As licenças de emissão que não sejam atribuídas a título gratuito ficam sujeitas a venda em leilão.
+
+2 - O montante de licenças de emissão a leiloar em cada um dos períodos referidos no artigo anterior é proporcional à quota-parte nacional no total das emissões atribuídas à aviação, do conjunto dos Estados membros, no ano de referência.
+
+3 - O ano de referência para os períodos referidos nos n.os 1 e 2 do artigo anterior é o ano de 2010 e para cada período subsequente o ano de referência corresponde ao ano civil que termine 24 meses antes do início do período a que respeita o leilão.
+
+4 - [Revogado].
+
+5 - [Revogado].
+
+6 - A APA, I. P., comunica à Comissão Europeia a utilização dada às receitas geradas pelos leilões de licenças de emissão, de acordo com a informação prestada pelo Fundo Ambiental.
+
+7 - As regras do funcionamento dos leilões de licenças de emissão referentes ao calendário, administração e outros aspetos são definidas através do Regulamento (UE) n.º 1031/2010, da Comissão, de 12 de novembro de 2010, e demais regulamentação aplicável.
+
+8 - As receitas geradas pelos leilões das licenças de emissão da aviação constituem receita do Fundo Ambiental e devem ser utilizadas na seguinte proporção:
+
+a) 3 % são receita da Autoridade Nacional Competente no âmbito do CELE, para a cobertura de despesas resultantes do funcionamento do CELE, bem como, designadamente, no desenvolvimento das suas atribuições do domínio das alterações climáticas;
+
+b) O remanescente para a prossecução dos objetivos estabelecidos no artigo 3.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto;
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+9 - Os montantes das receitas previstas no número anterior que não sejam utilizados num determinado ano transitam para os anos seguintes, acrescendo aos montantes disponíveis para as respetivas utilizações.
+
+10 - O plano anual de utilização das receitas geradas é definido no quadro de funcionamento e de acordo com os mecanismos de gestão do Fundo Ambiental.
+
+11 - (Revogado.)
+
+12 - Em janeiro de cada ano, a APA, I. P., divulga no seu sítio na Internet a estimativa do montante total de receitas a alocar nesse ano, incluindo a sua repartição de acordo com o estabelecido no n.º 3, calculada com base na cotação média dos últimos 12 meses das licenças de emissão da aviação leiloadas na plataforma europeia, arredondada a duas casas decimais, expressa em Euros.
+
+13 - O montante das receitas previsto na alínea a) do n.º 8, estimado de acordo com o número anterior é transferido para a APA, I. P., até ao décimo dia útil do mês de fevereiro de cada ano.
+
+14 - Qualquer diferença, positiva ou negativa, entre os montantes transferidos nos termos do número anterior e a receita efetivamente verificada em cada ano será subtraída ou adicionada aos montantes a transferir nos anos seguintes.
+
+15 - A APA, I. P., fica autorizada a estabelecer acordos com o Eurocontrol para acesso à ferramenta EU ETS Support Facility, bem como a realizar a despesa inerente, com recurso às receitas previstas na alínea a) do n.º 8.
+
+16 - A APA, I. P., informa a ANAC sempre que tiver celebrado Acordos com o Eurocontrol relativos à ferramenta EU ETS Support Facility.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 8.º — Planos de monitorização
+
+1 - Os operadores de aeronave abrangidos pelo presente decreto-lei devem apresentar ao INAC, I. P., pelo menos quatro meses antes do início do período de monitorização, os planos de monitorização nos termos da Decisão da Comissão n.º 2007/589/CE, de 18 de Julho, alterada pela Decisão n.º 2009/339/CE, de 16 de Abril, que estabeleçam as medidas destinadas a monitorizar e comunicar os dados referentes às emissões e a monitorizar e comunicar os dados relativos às toneladas-quilómetro para efeitos dos pedidos a que se refere o artigo 9.º
+
+2 - O primeiro período de monitorização das emissões referido no número anterior é o ano de 2010.
+
+3 - Os operadores de aeronave abrangidos pelo presente decreto-lei devem apresentar à ANAC, pelo menos seis meses antes do início de cada um dos períodos previstos no n.º 2 do artigo 6.º, um plano de monitorização de emissões, nos termos do Regulamento (UE) n.º 601/2012, da Comissão, de 21 de junho de 2012, relativo à monitorização e comunicação de informações relativas às emissões de GEE.
+
+4 - O INAC, I. P., após validação do plano de monitorização de emissões e do plano de monitorização de dados toneladas-quilómetro nas matérias da sua competência, remete-os à APA no prazo de 10 dias a contar da data da sua recepção.
+
+5 - Após a receção do plano de monitorização de emissões e do plano de monitorização de dados toneladas-quilómetro, a APA, I. P., procede à sua aprovação no prazo de 30 dias, tendo por base as orientações para a monitorização e a comunicação de informações relativas a emissões e para a monitorização e comunicação de informações dos dados das toneladas-quilómetro, de acordo com o Regulamento (UE) n.º 601/2012, da Comissão, de 21 de junho de 2012.
+
+6 - As alterações da actividade dos operadores de aeronave que conduzam a uma alteração significativa da metodologia de monitorização devem ser de imediato comunicadas ao INAC, I. P., tendo em vista a actualização dos respectivos planos de monitorização.
+
+7 - A ANAC valida as informações previstas no número anterior nas matérias da sua competência e remete à APA, I. P., no prazo de 10 dias a contar da data da sua receção, a qual procede à aprovação e atualização dos planos de monitorização no prazo previsto no n.º 5.
+
+8 - [Revogado].
+
+9 - Os formulários para o pedido e para a actualização do plano de monitorização de emissões e do plano de monitorização de dados toneladas-quilómetro são disponibilizados no sítio de Internet da APA.
+
+10 - Nos casos em que os planos ou as suas atualizações não se encontrem devidamente instruídos de acordo com os requisitos previstos são objeto de indeferimento liminar.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 9.º — Atribuição e concessão de licenças de emissão a título gratuito
+
+1 - Os operadores de aeronave podem solicitar a atribuição de licenças de emissão a título gratuito para cada período referido nos n.os 1 e 2 do artigo 6.º
+
+2 - Os pedidos referidos no número anterior são efetuados à APA, I. P., mediante a apresentação dos dados relativos às toneladas-quilómetro, monitorizados e comunicados em conformidade com o Regulamento (UE) n.º 601/2012, da Comissão, de 21 de junho de 2012, para as atividades de aviação enumeradas no anexo I, realizadas por esse operador de aeronave no ano de monitorização, determinados nos termos do respetivo plano de monitorização e verificados nos termos do n.º 2 do artigo 16.º
+
+3 - Para efeitos do número anterior, o ano de monitorização a considerar é o ano civil que termine 24 meses antes do início do período a que os pedidos dizem respeito e, relativamente ao período a que se refere o n.º 1 do artigo 6.º, o ano de monitorização é o ano de 2010.
+
+4 - Os pedidos referidos no n.º 1 devem ser apresentados pelo menos 21 meses antes do início do período a que dizem respeito ou, relativamente ao período a que se refere o n.º 1 do artigo 6.º, até 31 de Março de 2011.
+
+5 - A APA comunica à Comissão Europeia os pedidos de atribuição de licenças de emissão a título gratuito com a antecedência mínima de 18 meses relativamente ao início do período a que dizem respeito ou até 30 de Junho de 2011 para os pedidos relativos ao período a que se refere o n.º 1 do artigo 6.º
+
+6 - A APA procede ao cálculo e à publicação:
+
+a) Da quantidade total de licenças de emissão a atribuir para o período em causa a cada um dos operadores de aeronave cujo pedido tenha sido apresentado nos termos do n.º 1, multiplicando os dados relativos às toneladas-quilómetro incluídos nos pedidos dos operadores de aeronave pelo valor de referência;
+
+b) Da quantidade de licenças de emissão a atribuir a cada operador de aeronave para cada ano, dividindo o número total de licenças de emissão que lhe tenham sido atribuídas para o período, nos termos da alínea anterior, pelo número de anos do período durante o qual o operador de aeronave realiza pelo menos uma das actividades de aviação enumeradas no anexo i.
+
+7 - O cálculo e a publicação referidas no número anterior efectuam-se no prazo de três meses a contar da data da aprovação da Decisão pela Comissão Europeia relativa ao total de licenças de emissão a atribuir, incluindo as de atribuição a título gratuito, ao número de licenças de emissão a leiloar, ao número de licenças de emissão a incluir na reserva especial para operadores de aeronaves, e ao valor de referência a utilizar para a atribuição das licenças de emissão a título gratuito.
+
+8 - Até 28 de Fevereiro de 2012 e até 28 de Fevereiro de cada ano subsequente, a APA concede aos operadores de aeronave a quantidade de licenças de emissão atribuídas para o ano em causa.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 10.º — Reserva especial de licenças de emissão
+
+1 - Para cada um dos períodos referidos no n.º 2 do artigo 6.º é constituída, a nível Europeu, uma reserva especial de licenças de emissão destinada aos operadores de aeronave, para a qual devem ser reservadas 3 % da quantidade total de licenças de emissão definida nos termos do artigo 6.º
+
+2 - A reserva destina-se aos operadores de aeronave que, em alternativa:
+
+a) Iniciem uma actividade de aviação abrangida pelo anexo i depois do ano de monitorização para o qual tenham sido apresentados os dados relativos às toneladas-quilómetro, ao abrigo do n.º 2 do artigo 9.º, relativamente a um dos períodos a que se refere o n.º 2 do artigo 6.º;
+
+b) Cujos dados relativos às toneladas-quilómetro registem um aumento médio anual superior a 18 % entre o ano de monitorização para o qual tenham sido apresentados dados referentes às toneladas-quilómetro, ao abrigo do disposto no n.º 2 do artigo 9.º, relativamente a um dos períodos a que se refere o n.º 2 do artigo 6.º, e o segundo ano civil desse período.
+
+3 - As actividades referidas nas alíneas a) ou b) do número anterior não podem constituir, no todo ou em parte, uma continuação da actividade de aviação previamente realizada por outro operador de aeronave.
+
+4 - O operador de aeronave elegível ao abrigo dos n.os 2 e 3 pode solicitar a atribuição de licenças de emissão a título gratuito a partir da reserva especial, apresentando um pedido ao INAC, I. P., até 30 de Junho do terceiro ano do período a que se refere o n.º 2 do artigo 6.º a que o pedido diz respeito.
+
+5 - O número de licenças a atribuir a um operador de aeronave ao abrigo da alínea b) do n.º 2 não deve ultrapassar 1 000 000.
+
+6 - O pedido de atribuição de licenças de emissão a título gratuito a partir da reserva especial a que se refere o n.º 4 deve ser instruído com os seguintes elementos:
+
+a) Dados verificados relativos às toneladas-quilómetro, de acordo com o procedimento referido no n.º 2 do artigo 16.º, das atividades de aviação enumeradas no anexo I, realizadas pelo operador de aeronave no segundo ano civil do período a que se refere o n.º 2 do artigo 6.º a que o pedido diz respeito;
+
+b) Documentação que permita demonstrar que os critérios de elegibilidade referidos nos n.os 2 e 3 se encontram preenchidos;
+
+c) No caso de operadores de aeronave abrangidos pela alínea b) do n.º 2, documentação que permita demonstrar que:
+
+i) O aumento percentual em toneladas-quilómetro realizadas pelo operador de aeronave entre o ano de monitorização para o qual foram apresentados dados referentes às toneladas-quilómetro, ao abrigo do n.º 2 do artigo 9.º, relativamente a um dos períodos a que se refere o n.º 2 do artigo 6.º, e o segundo ano civil desse período;
+
+ii) O crescimento absoluto em toneladas-quilómetro realizadas pelo operador de aeronave entre o ano de monitorização para o qual foram apresentados dados referentes às toneladas-quilómetro, ao abrigo do n.º 2 do artigo 9.º, relativamente a um dos períodos a que se refere o n.º 2 do artigo 6.º, e o segundo ano civil desse período;
+
+iii) O crescimento absoluto em toneladas-quilómetro realizadas pelo operador de aeronave entre o ano de monitorização para o qual foram apresentados dados referentes às toneladas-quilómetro, ao abrigo do n.º 2 do artigo 9.º, relativamente a um dos períodos a que se refere o n.º 2 do artigo 6.º , e o segundo ano civil desse período que exceda a percentagem estabelecida na alínea b) do n.º 2.
+
+7 - O INAC, I. P., após validação das matérias da sua competência, remete à APA os pedidos recebidos nos termos do n.º 4, no prazo de 10 dias a contar da data da sua recepção.
+
+8 - No prazo de seis meses a contar da data limite de apresentação do pedido previsto no n.º 4, a APA apresenta à Comissão Europeia os pedidos que cumpram os requisitos previstos no n.º 6, para que os mesmos sejam tomados em conta na definição do valor de referência a utilizar para atribuição das licenças de emissão a título gratuito por acesso à reserva especial.
+
+9 - No prazo de três meses a contar da data da aprovação da Decisão, pela Comissão Europeia, que determine o valor de referência a utilizar para a atribuição das licenças de emissão a título gratuito aos operadores de aeronave, cujos pedidos tenham sido apresentados nos termos dos n.os 4 e 6, a APA procede ao cálculo e à publicação das:
+
+a) Licenças de emissão a atribuir a partir da reserva especial a cada um dos operadores de aeronave cujo pedido tenha sido apresentado à Comissão nos termos do número anterior, multiplicando o valor de referência determinado pela Comissão Europeia:
+
+i) Pelos dados referentes às toneladas-quilómetro incluídos no pedido apresentado à Comissão, ao abrigo da alínea a) do n.º 6, no caso dos operadores de aeronave abrangidos pela alínea a) do n.º 2;
+
+ii) Pelo crescimento absoluto em toneladas-quilómetro que exceda a percentagem estabelecida na alínea b) do n.º 2, incluído no pedido apresentado à Comissão ao abrigo da subalínea iii) da alínea c) do n.º 6, no caso dos operadores de aeronave abrangidos pela alínea b) do n.º 2;
+
+b) Licenças de emissão a atribuir a cada operador de aeronave para cada ano, determinadas dividindo as licenças de emissão atribuídas ao abrigo da alínea anterior pelo número de anos civis completos remanescentes no período a que se refere o n.º 2 do artigo 6.º a que a atribuição diz respeito.
+
+10 - As licenças de emissão não atribuídas a partir da reserva especial são leiloadas.
+
+11 - As regras sobre o funcionamento da reserva especial, incluindo a avaliação da conformidade com os critérios de elegibilidade previstos nos n.os 2 e 3, são definidas por regulamento comunitário.
+
+12 - Até 28 de Fevereiro de cada ano, a APA concede aos operadores de aeronave a quantidade de licenças de emissão atribuídas para o ano em causa.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 11.º — Definição das regras de utilização de URE e RCE
+
+1 - As regras de utilização de URE e RCE são as definidas no anexo II ao presente decreto-lei, do qual faz parte integrante.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 12.º — Transferência, devolução e anulação de licenças de emissão
+
+1 - Qualquer pessoa pode ser titular de licenças de emissão, de RCE ou de URE.
+
+2 - As licenças de emissão, as RCE e as URE podem ser transferidas:
+
+a) Entre pessoas no interior da Comunidade;
+
+b) Entre pessoas no interior da Comunidade e pessoas de países terceiros constantes do anexo B do Protocolo de Quioto à Convenção Quadro das Nações Unidas sobre Alterações Climáticas, com os quais a Comunidade Europeia tenha celebrado acordos de reconhecimento mútuo de licenças de emissão.
+
+3 - As licenças de emissão concedidas aos operadores de aeronaves por autoridade competente de outro Estado membro da União Europeia, em cumprimento da Directiva n.º 2008/101/CE, do Parlamento Europeu e do Conselho, de 19 de Novembro, são equiparadas às licenças de emissão concedidas pela APA, nos termos do presente decreto-lei.
+
+4 - Até 30 de Abril de cada ano, o operador de aeronave deve devolver as licenças de emissão no montante correspondente ao total das emissões do ano civil anterior, verificadas nos termos do artigo 16.º, provenientes das actividades de aviação enumeradas no anexo i, procedendo a APA à subsequente anulação.
+
+5 - As licenças de emissão podem, a qualquer momento, ser anuladas a pedido do seu titular.
+
+6 - As formalidades relativas à transferência, atribuição, devolução e supressão de licenças são as definidas pelo Regulamento (UE) n.º 389/2013 da Comissão, de 2 de maio de 2013.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 13.º — Validade das licenças de emissão
+
+1 - As licenças são válidas para as emissões verificadas durante o período para o qual foram concedidas.
+
+2 - No prazo de quatro meses após o início de cada período subsequente ao previsto no n.º 1 do artigo 6.º, as licenças de emissão caducadas que não tenham sido devolvidas e anuladas em conformidade com o disposto no n.º 4 do artigo anterior são anuladas pela APA.
+
+3 - A APA deve conceder licenças de emissão para o período em curso a fim de substituir as licenças anuladas nos termos do número anterior.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 14.º — Registo
+
+1 - O registo de dados normalizado protegido que garante uma contabilidade precisa sobre a concessão, detenção, transferência e anulação de licenças de emissão no âmbito do presente decreto-lei é o Registo Português de Licenças de Emissão, integrado no Registo da União (RPLE-RU), estabelecido pelo Regulamento (UE) n.º 389/2013, da Comissão de 2 de maio de 2013, nos termos da Diretiva n.º 2003/87/CE, do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, e das Decisões n.º 280/2004/CE, do Parlamento Europeu e do Conselho, de 11 de fevereiro de 2004, e n.º 406/2009/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, e encontra-se disponível no respetivo sítio na Internet da APA, I. P.
+
+2 - O INAC, I. P., tem acesso aos dados relativos à concessão, à detenção, à transferência e à anulação de licenças de emissão, mediante procedimento a estabelecer por protocolo a celebrar com a APA.
+
+3 - Todos os operadores de aeronave que desenvolvam qualquer atividade constante do anexo I e de que resultem emissões de GEE, devem ser titulares de uma conta de depósito de operador de aeronave no RPLE-RU, estando publicitado no sítio na Internet da APA, I. P., o procedimento para a instrução do respetivo processo de abertura.
+
+4 - [Revogado].
+
+5 - [Revogado].
+
+6 - [Revogado].
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+### Capítulo IV — Monitorização e comunicação de informações
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 15.º — Orientações para monitorização e comunicação de informações relativas a emissões
+
+1 - A partir de 1 de janeiro de 2013, os operadores de aeronave que desenvolvam qualquer atividade constante do anexo I e de que resultem emissões de GEE devem monitorizar e comunicar as respetivas emissões em conformidade com o disposto no Regulamento (UE) n.º 601/2012, da Comissão, de 21 de junho de 2012.
+
+2 - A partir de 1 de janeiro de 2013 e até 31 de dezembro de 2016, devem ser consideradas, para efeitos da monitorização referida no número anterior, as derrogações previstas no Regulamento (UE) n.º 421/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014.
+
+3 - A metodologia de monitorização de emissões aplicável a cada operador de aeronave é fixada no respetivo plano de monitorização de emissões de GEE, podendo ser alterada pela APA, I. P., nos termos previstos no Regulamento (UE) n.º 601/2012, da Comissão, de 21 de junho de 2012.
+
+4 - O operador de aeronave deve enviar à APA, I. P., até 31 de março, um relatório, devidamente verificado nos termos do n.º 1 do artigo 16.º, que contenha as informações relativas às emissões ocorridas no ano civil anterior.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 16.º — Verificação
+
+1 - O relatório de emissões apresentado pelo operador de aeronave nos termos do n.º 4 do artigo anterior, é verificado por verificadores acreditados, em conformidade com os critérios estabelecidos no Regulamento (UE) n.º 600/2012, da Comissão, de 21 de junho de 2012, relativo à verificação dos relatórios respeitantes às emissões de GEE e às toneladas-quilómetro e à acreditação de verificadores em conformidade com a Diretiva n.º 2003/87/CE, do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, e em conformidade com o Regulamento (UE) n.º 389/2013, da Comissão, de 2 de maio de 2013.
+
+2 - O relatório de monitorização relativo aos dados toneladas-quilómetro apresentado pelo operador de aeronave no âmbito de pedidos apresentados nos termos do n.º 2 do artigo 9.º e do n.º 4 do artigo 10.º deve estar em conformidade com os critérios estabelecidos no Regulamento (UE) n.º 601/2012, da Comissão, de 21 de junho de 2012, e ser verificado por verificadores acreditados em conformidade com os critérios estabelecidos no Regulamento (UE) n.º 600/2012, da Comissão, de 21 de junho de 2012, e no Regulamento (UE) n.º 389/2013, da Comissão, de 2 de maio de 2013.
+
+3 - A partir de 31 de março, a APA, I. P., impede a possibilidade de transferência de licenças de emissão por parte do operador de aeronave que não tenha entregue o relatório de emissões ou cujo relatório não tenha sido considerado satisfatório pelo verificador em conformidade com os critérios estabelecidos no Regulamento (UE) n.º 600/2012, da Comissão, de 21 de junho de 2012.
+
+4 - O impedimento referido no número anterior cessa quando for entregue na APA, I. P., um relatório considerado satisfatório, nos termos dos procedimentos previstos no título II do capítulo 1 do Regulamento (UE) n.º 389/2013, da Comissão, de 2 de maio de 2013.
+
+5 - A APA pode ainda, no caso de o relatório ter sido considerado satisfatório, requerer a sua análise para avaliação, assistindo-lhe a faculdade de o considerar não satisfatório, mediante parecer prévio do INAC, I. P., com as consequências previstas no n.º 3.
+
+6 - Se até 30 de abril não ocorrer a entrega do relatório ou se o mesmo não tiver sido considerado satisfatório pelo verificador, a APA, I. P., deve proceder à estimativa das emissões do respetivo operador de aeronave, sendo que esta corresponde ao dobro das emissões disponibilizadas pela ferramenta EU ETS Support Facility do Eurocontrol, para esse operador de aeronave, procedendo à sua notificação quanto à estimativa efetuada.
+
+7 - O recurso hierárquico interposto da decisão da APA que impede a transferência de licenças de emissão não tem efeito suspensivo.
+
+8 - Os requisitos e condições de exercício da atividade de verificador são os definidos no Regulamento (UE) n.º 600/2012, da Comissão, de 21 de junho de 2012, e na regulamentação relativa à acreditação aplicável.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+### Capítulo V — Fiscalização, penalidades e contra-ordenações
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 17.º — Fiscalização
+
+1 - Sem prejuízo das competências próprias da ANAC, a fiscalização do cumprimento do presente decreto-lei compete à Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT).
+
+2 - As situações que indiciem a prática de infração punível nos termos do presente decreto-lei devem ser comunicadas à IGAMAOT, devendo ser-lhe igualmente remetida, para o efeito, toda a documentação de que se disponha.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 18.º — Penalizações por emissões excedentárias
+
+1 - O operador de aeronave que não devolva, até 30 de Abril de cada ano civil, licenças de emissão suficientes para cobrir as suas emissões no ano anterior fica sujeito ao pagamento, pelas suas emissões excedentárias, de (euro) 100 por cada tonelada de dióxido de carbono equivalente emitida relativamente à qual não devolveu licenças.
+
+2 - O pagamento por emissões excedentárias, previsto no número anterior, não dispensa o operador de aeronave da obrigação de devolver uma quantidade de licenças de emissão equivalente às emissões excedentárias no momento da devolução das licenças de emissão relativas ao ano civil subsequente.
+
+3 - A APA publicita, no respectivo sítio da Internet, uma lista com os nomes dos operadores de aeronave que não devolvam licenças de emissão suficientes, nos termos do artigo 12.º
+
+4 - O valor previsto no n.º 1 é atualizado em função do índice europeu de preços no consumidor.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 19.º — Entidade competente para as penalizações por emissões excedentárias
+
+1 - Cabe à APA assegurar o cumprimento do disposto no artigo anterior enviando, para o efeito, a competente nota de liquidação ao operador de aeronave.
+
+2 - O operador de aeronave sujeito ao pagamento em causa tem 90 dias para o efectuar, sob pena de incorrer no pagamento de juros de mora à taxa legal aplicável.
+
+3 - Caso o pagamento não seja efectuado até ao prazo previsto no número anterior, a cobrança da mesma é efectuada nos termos do regime jurídico das execuções fiscais.
+
+4 - As quantias resultantes da aplicação das penalidades previstas no artigo anterior constituem receita própria da APA.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 20.º — Contra-ordenações
+
+1 - Constitui contraordenação ambiental muito grave, nos termos do disposto na Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto, a prática das seguintes infrações ao disposto no presente decreto-lei:
+
+a) O incumprimento do dever de apresentação, pelo operador de aeronave, do plano de monitorização de emissões, previsto nos n.os 1 e 3 do artigo 8.º;
+
+b) A violação pelo operador do dever de possuir uma conta no RPLE-RU, conforme previsto no n.º 3 do artigo 14.º
+
+2 - Constitui contraordenação ambiental grave, nos termos do disposto na Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto, a prática das seguintes infrações ao disposto no presente decreto-lei:
+
+a) Omitir ou falsificar a informação solicitada no âmbito dos procedimentos previstos nos artigos 8.º, 9.º, 10.º e 14.º;
+
+b) O incumprimento da obrigação de monitorização das emissões, prevista no n.º 1 do artigo 15.º;
+
+c) O incumprimento da obrigação de envio do relatório verificado contendo as informações relativas às emissões, conforme previsto no n.º 4 do artigo 15.º;
+
+d) A não comunicação das alterações da atividade que conduzam a uma alteração significativa da metodologia de monitorização, nos termos do n.º 6 do artigo 8.º
+
+3 - Constitui contraordenação ambiental leve, nos termos do disposto na Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto, a prática das seguintes infrações ao disposto no presente decreto-lei:
+
+a) O incumprimento da metodologia constante do plano de monitorização de emissões de GEE, nos termos do artigo 8.º e do n.º 3 do artigo 15.º;
+
+b) O incumprimento do prazo para envio do relatório contendo as informações relativas às emissões, de acordo com o n.º 4 do artigo 15.º;
+
+c) A violação da obrigação de envio do relatório de melhoria, nos termos previstos no n.º 4 do artigo 69.º do Regulamento (UE) n.º 601/2012, da Comissão, de 21 de junho de 2012;
+
+d) Incumprimento do dever de facultar os elementos previstos no n.º 1 do artigo 10.º do Regulamento (UE) n.º 600/2012, da Comissão, de 21 de junho de 2012.
+
+4 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual, a condenação pela prática das infracções muito graves e graves previstas nos n.os 1 e 2, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
+
+5 - A tentativa e a negligência são puníveis nos termos do disposto na Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 21.º — Sanções acessórias e apreensão cautelar
+
+1 - Sempre que a gravidade da infracção o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual.
+
+2 - A autoridade competente pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 22.º — Proibição de operar imposta pela Comissão Europeia
+
+1 - No caso de incumprimento do disposto no presente decreto-lei e após despacho dos membros do Governo responsáveis pelas áreas da aviação civil e do ambiente, pode ser solicitado à Comissão Europeia que tome a decisão de proibir o operador de aeronaves de operar na União Europeia.
+
+2 - O pedido referido no número anterior deve ser instruído com os seguintes elementos:
+
+a) Demonstração de que o operador de aeronaves não cumpriu as obrigações decorrentes do presente decreto-lei;
+
+b) Descrição pormenorizada das medidas já tomadas a nível nacional;
+
+c) Justificação para a proibição de operar a nível comunitário;
+
+d) Recomendação quanto ao âmbito da proibição e as eventuais condições a aplicar.
+
+3 - A pedido do Governo Português, a Comissão Europeia pode aprovar uma decisão impondo a proibição de operar a um operador de aeronaves.
+
+4 - As decisões de proibição previstas no número anterior são aplicadas no território nacional, devendo a Comissão Europeia ser informada das medidas de execução dessas decisões.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 23.º — Instrução e decisão dos processos
+
+Compete à IGAOT a instrução dos processos de contra-ordenação instaurados no âmbito do presente decreto-lei, bem como a aplicação das correspondentes coimas e sanções acessórias.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 24.º — Destino das receitas cobradas
+
+A afectação do produto das coimas resultante da aplicação das contra-ordenações previstas no presente decreto-lei é feita nos termos do artigo 73.º da Lei n.º 50/2006, de 29 de Agosto, na sua redacção actual.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+### Capítulo VI — Disposições finais
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 25.º — Acesso à informação
+
+1 - A APA, I. P., deve colocar à disposição do público as decisões relativas à atribuição de licenças de emissão e os relatórios de emissões exigíveis ao abrigo do n.º 4 do artigo 15.º, assim como a informação prevista no n.º 7 do artigo 7.º
+
+2 - A informação disponibilizada ao público nos termos do número anterior deve ser publicitada no sítio na Internet da APA, I. P., em formatos abertos e estar acessível através do sistema de pesquisa online de informação pública a que se refere o artigo 49.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, e 73/2014, de 13 de maio.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 26.º — Comunicação de informações à Comissão Europeia
+
+A APA envia, anualmente, à Comissão Europeia um relatório sobre a aplicação do presente decreto-lei, incluindo informação sobre:
+
+a) Atribuição de licenças de emissão;
+
+b) Utilização de URE e RCE;
+
+c) Funcionamento do registo de dados;
+
+d) Aplicação das orientações de monitorização e comunicação de informações;
+
+e) Verificação;
+
+f) Questões relacionadas com o cumprimento da directiva;
+
+g) Regime fiscal das licenças de emissão, quando adequado.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 27.º — Taxas
+
+1 - Pela análise do plano de monitorização de emissões e do plano de monitorização de dados toneladas-quilómetro previstos no artigo 8.º e pela respectiva actualização são devidas taxas a fixar por portaria dos membros do Governo responsáveis pelas áreas da aviação civil e do ambiente.
+
+2 - O produto das taxas referidas no número anterior é afecto nos seguintes termos, constituindo receita própria das respectivas entidades:
+
+a) 70 % para a APA;
+
+b) 30 % para o INAC, I. P.
+
+3 - São ainda devidas taxas pelas ações de formação no âmbito da qualificação do verificador referidas no artigo 4.º, bem como pela abertura e pela manutenção da conta de depósito de operador de aeronave no RPLE-RU, cujos montantes são os fixados na portaria prevista no n.º 2 do artigo 33.º do Decreto-Lei n.º 38/2013, de 15 de março.
+
+> Nota: [Artigo 241.º, Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662) atualiza automaticamente, por aplicação do índice de preços no consumidor no continente relativo ao ano anterior (2021), excluindo a habitação, publicado pelo INE, I. P., as taxas previstas no presente artigo.
+
+> Nota: [Artigo 319.º, Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825) atualiza automaticamente, por aplicação do índice de preços no consumidor no continente relativo ao ano anterior (2020), excluindo a habitação, publicado pelo INE, I. P., as taxas previstas no presente artigo.
+
+> Nota: [Artigo 299.º, Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436) atualiza automaticamente, por aplicação do índice de preços no consumidor no continente relativo ao ano anterior (2019), excluindo a habitação, publicado pelo INE, I. P., as taxas previstas no presente artigo.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+###### Artigo 28.º — Regiões autónomas
+
+Os actos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respectivas administrações regionais com atribuições e competências nas matérias em causa.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+###### Artigo 29.º — Alteração ao Decreto-Lei n.º 233/2004, de 14 de Dezembro
+
+O artigo 17.º do Decreto-Lei n.º 233/2004, de 14 de Dezembro, alterado pelos Decretos-Leis n.os 243-A/2004, de 31 de Dezembro, 230/2005, de 29 de Dezembro, 72/2006, de 24 de Março, 154/2009, de 6 de Julho, e 30/2010, de 8 de Abril, passa a ter a seguinte redacção:
+
+«Artigo 17.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - Para o cumprimento da obrigação de devolução de licenças de emissão referida no n.º 4, não podem ser utilizadas licenças de emissão concedidas aos operadores de aeronaves ao abrigo do Decreto-Lei n.º 93/2010, de 27 de Julho».
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+Visto e aprovado em Conselho de Ministros de 22 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Alberto de Sousa Martins - Fernando Medina Maciel Almeida Correia - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
+
+Promulgado em 15 de Julho de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 19 de Julho de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+## Anexo I — Actividades de aviação
+
+A partir de 1 de Janeiro de 2012 estão incluídos todos os voos com partida ou com chegada num aeródromo situado no território de um Estado membro ao qual se aplica o Tratado.
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+## Anexo II — Regras de utilização de Unidade de redução de emissões e redução certificada de emissões
+
+As regras de utilização de Unidade de redução de emissões (URE) e redução certificada de emissões (RCE) são as seguintes:
+
+1 - Na medida em que o nível de utilização autorizado das RCE e URE por parte do operador de aeronave para o período de 2008 a 2012 não tenha sido esgotado ou lhe seja conferido o direito de utilizar créditos nos termos dos n.os 10 e 11, este pode solicitar à Agência Portuguesa do Ambiente, I. P. (APA, I. P.), que lhe atribua licenças de emissão válidas a partir de 2013, em troca de RCE e URE emitidas relativamente a reduções de emissões até 2012 de tipos de projeto elegíveis para utilização no âmbito do regime comunitário durante o período de 2008 a 2012.
+
+2 - Até 31 de março de 2015 a APA, I. P., procede à troca prevista no número anterior mediante pedido.
+
+3 - Na medida em que o nível de utilização autorizado das RCE e URE por parte do operador de aeronave para o período de 2008 a 2012 não tenha sido esgotado ou lhe seja conferido o direito de utilizar créditos nos termos dos n.os 10 e 11, a APA, I. P., autoriza o operador a trocar RCE e URE de projetos registados antes de 2013, emitidas relativamente a reduções de emissões a partir de 2013, por licenças de emissão válidas a partir de 2013.
+
+4 - O referido no número anterior é aplicável às RCE e URE para todos os tipos de projetos elegíveis para utilização no âmbito do regime comunitário no período de 2008 a 2012.
+
+5 - Na medida em que o nível de utilização autorizado das RCE e URE por parte do operador de aeronave para o período de 2008 a 2012 não tenha sido esgotado ou lhe seja conferido o direito de utilizar créditos nos termos dos n.os 10 e 11, a APA, I. P., autoriza o operador a trocar RCE emitidas relativamente a reduções de emissões a partir de 2013 por licenças de emissão de novos projetos iniciados a partir de 2013 em países menos desenvolvidos.
+
+6 - O disposto no número anterior é aplicável a RCE para todos os tipos de projetos elegíveis para utilização no âmbito do regime comunitário durante o período de 2008 a 2012 até os referidos países ratificarem um acordo relevante com a União europeia ou até 2020, consoante o que ocorrer primeiro.
+
+7 - Na medida em que o nível de utilização autorizado das RCE e URE por parte do operador de aeronave para o período de 2008 a 2012 não tenha sido esgotado ou lhe seja conferido o direito de utilizar créditos nos termos dos n.os 10 e 11, os créditos de projetos ou de outras atividades de redução de emissões podem ser utilizados no regime comunitário nos termos de acordos celebrados com países terceiros, especificando níveis de utilização.
+
+8 - Nos termos dos acordos referidos no número anterior, os operadores podem utilizar créditos de atividades de projeto nesses países terceiros a fim de cumprirem as suas obrigações decorrentes do regime comunitário.
+
+9 - Uma vez obtido um acordo internacional sobre as alterações climáticas, a partir de 1 de janeiro de 2013 apenas podem ser aceites no regime comunitário créditos de projetos de países terceiros que ratifiquem esse acordo.
+
+10 - Os operadores do setor da aviação podem utilizar créditos até um montante correspondente às percentagens definidas no Regulamento (UE) n.º 1123/2013, da Comissão, de 8 de novembro de 2013, relativo à determinação dos direitos a créditos internacionais.
+
+11 - A partir de 1 de janeiro de 2013, podem ser aplicadas medidas de limitação da utilização de créditos específicos em relação a tipos de projeto, a definir pela Comissão Europeia.
+
+12 - A aprovação de atividades de projeto relativas à produção de energia hidroelétrica com uma capacidade geradora superior a 20 MW deve respeitar os melhores critérios e orientações de avaliação ambiental, aos níveis nacional e internacional, incluindo os constantes do relatório da Comissão Mundial de Barragens, no seu relatório final de novembro de 2000, intitulado 'Barragens e desenvolvimento. Um novo quadro para a tomada de decisões'.
+
+13 - As atividades de projeto previstas pelo artigo 6.º do Protocolo de Quioto que venham a ter lugar no território nacional, reduzindo ou limitando, direta ou indiretamente, as emissões de uma ou mais instalações, só podem dar lugar à atribuição de URE após anulação de uma quantidade equivalente de licenças de emissão detida pela própria instalação ou conjunto de instalações.
+
+14 - As decisões sobre a anulação de licenças de emissão referidas nos números anteriores competem à APA, I. P.
+
+15 - Os Estados membros tomarão todas as medidas necessárias para assegurar que as bases de referência para as atividades de projeto definidas por decisões posteriormente adotadas ao abrigo da Convenção-Quadro das Nações Unidas sobre as Alterações Climáticas ou do Protocolo de Quioto, empreendidas em países que assinaram um Tratado de Adesão com a União Europeia, respeitem plenamente o acervo comunitário, incluindo as derrogações provisórias previstas nesse Tratado de Adesão.
+
+16 - A Comunidade e os seus Estados membros apenas autorizam atividades de projeto se todos os participantes no projeto tiverem sede num país que seja parte no acordo internacional referente a esses projetos ou num país ou entidade subfederal ou regional que esteja ligado ao regime comunitário nos termos do artigo 25.º
+
+17 - Qualquer Estado membro que autorize a participação de entidades privadas ou públicas nas atividades de projeto permanece responsável pelo cumprimento das suas obrigações por força da Convenção-Quadro das Nações Unidas sobre as Alterações Climáticas e do Protocolo de Quioto e deve garantir que essa participação seja compatível com as orientações, modalidades e procedimentos pertinentes, adotados por força daquela Convenção-Quadro ou deste protocolo.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19
+
+## Anexo III — Critérios de verificação a que se refere o artigo 16.º
+
+Princípios gerais
+
+1 - As emissões resultantes de cada uma das actividades enumeradas no anexo i são sujeitas a verificação.
+
+2 - O processo de verificação tem em conta o relatório apresentado em conformidade com o n.º 3 do artigo 15.º e a monitorização efectuada durante o ano anterior. Devem ser abordadas a fiabilidade, a credibilidade e a precisão dos sistemas de monitorização e dos dados e informações comunicados no que se refere às emissões, em especial:
+
+a) Os dados comunicados em relação à actividade em causa e as medições e cálculos conexos;
+
+b) A escolha e a utilização de factores de emissão;
+
+c) Os cálculos conducentes à determinação das emissões globais;
+
+d) Caso tenham sido feitas medições, a adequação da escolha e da utilização dos métodos de medição.
+
+3 - As emissões comunicadas só podem ser validadas quando existam dados e informações fiáveis e credíveis que permitam determiná-las com um elevado grau de certeza. Para estabelecer esse elevado grau de certeza, o operador de aeronave deve demonstrar que:
+
+a) Os dados comunicados são coerentes;
+
+b) A recolha dos dados foi efectuada de acordo com as normas científicas aplicáveis; e
+
+c) Os registos relevantes da aeronave utilizada para realizar as actividades de aviação cobertas pelo relatório são completos e coerentes.
+
+4 - O verificador tem acesso a todos os locais e informações relacionados com o objecto da verificação.
+
+5 - O verificador tem em conta se o operador de aeronave está ou não registado no sistema comunitário de ecogestão e auditoria (EMAS).
+
+Metodologia
+
+Análise estratégica
+
+6 - A verificação deve basear-se numa análise estratégica de todas as actividades de aviação cobertas pelo relatório realizadas pelo operador de aeronave. Isto exige que o verificador tenha uma perspectiva geral de todas as actividades e da sua importância para as emissões.
+
+Análise do processo
+
+7 - Quando adequado, a verificação das informações apresentadas realiza-se nos locais utilizados pelo operador de aeronave para a realização das actividades de aviação cobertas pelo relatório. O verificador deve recorrer a controlos por amostragem para determinar a fiabilidade dos dados e das informações comunicados.
+
+Análise dos riscos
+
+8 - O verificador submete todas as fontes de emissões pelas quais o operador de aeronave é responsável a uma avaliação no que respeita à fiabilidade dos dados relativos a cada fonte que contribui para as emissões globais.
+
+9 - Com base nesta análise, o verificador deve identificar explicitamente as aeronaves pelas quais o operador de aeronave é responsável com um risco de erro elevado e outros aspectos do processo de monitorização e de comunicação de informações susceptíveis de contribuir para erros na determinação das emissões globais, em particular a escolha dos factores de emissão e os cálculos necessários para determinar as emissões de fontes individuais. Deve ser prestada uma atenção especial às aeronaves pelas quais o operador de aeronave é responsável que apresentam um risco de erro elevado e a esses aspectos do processo de monitorização.
+
+10 - O verificador deve tomar em consideração quaisquer métodos de controlo efectivo dos riscos aplicados pelo operador de aeronave com vista à minimização do grau de incerteza.
+
+Relatório
+
+11 - O verificador deve preparar um relatório sobre o processo de validação no qual indica se o relatório apresentado em conformidade com o n.º 3 do artigo 15.º é ou não satisfatório. Este relatório deve especificar todas as questões relevantes para o trabalho efectuado. Pode ser emitida uma declaração de conformidade do relatório apresentado em conformidade com o n.º 3 do artigo 15.º se, na opinião do verificador, a totalidade das emissões tiver sido declarada de forma globalmente correcta.
+
+Requisitos de competência mínimos para o verificador
+
+12 - O verificador deve ser independente do operador de aeronave, realizar as suas actividades com profissionalismo, probidade e objectividade e ter um bom conhecimento:
+
+a) Das disposições do presente decreto-lei, bem como das normas e orientações relevantes adoptadas pela Comissão Europeia nos termos do n.º 1 do artigo 14.º da Directiva n.º 2003/87/CE, do Parlamento Europeu e do Conselho, de 13 de Outubro, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade, com a alteração conferida pelo n.º 12 do artigo 1.º da Directiva 2008/101/CE, de 19 de Novembro;
+
+b) Dos requisitos legislativos, regulamentares e administrativos relevantes para a actividade sujeita a verificação; e
+
+c) Da produção de todas as informações relacionadas com cada fonte de emissão, em especial no que respeita à recolha, medição, cálculo e comunicação de dados.
+
+13 - O verificador certificar-se-á, em especial, de que:
+
+a) Foram tidos em conta todos os voos abrangidos por uma das actividades de aviação enumeradas no anexo i. Para tal, serve-se dos horários e de outros dados relativos ao tráfego do operador de aeronave, incluindo dados do Eurocontrol solicitados pelo mesmo;
+
+b) Existe uma coerência global entre os dados agregados do consumo de combustível e os dados relativos ao combustível adquirido ou fornecido por outro meio às aeronaves utilizadas na realização das actividades de aviação.
+
+14 - Os princípios gerais e as metodologias de verificação dos relatórios de emissões ao abrigo do n.º 3 do artigo 15.º enunciados no presente anexo serão, quando adequado, aplicáveis de forma correspondente à verificação dos dados relativos às toneladas-quilómetro da aviação.
+
+15 - O verificador certificar-se-á, em especial, de que no pedido apresentado pelo operador, ao abrigo dos n.os 1 e 2 do artigo 9.º e do n.º 4 do artigo 10.º, apenas sejam tidos em conta os voos efectivamente realizados e abrangidos por uma das actividades de aviação enumeradas no anexo i em relação aos quais o operador de aeronave é responsável. Para tal, servir-se-á dos dados relativos ao tráfego do operador de aeronave, incluindo dados do Eurocontrol solicitados pelo mesmo. Além disso, o verificador certificar-se-á de que a carga comunicada pelo operador de aeronave corresponde aos registos de carga mantidos pelo mesmo para fins de segurança.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 98/2024 - Diário da República n.º 232/2024, Série I de 2024-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509), em vigor a partir de 2024-12-04
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 195/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720), em vigor a partir de 2015-09-19

@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:199595:por
+title: Portaria n.º 24185
+short_title: null
+summary: Mantém em vigor as tarifas provisórias da Junta Autónoma dos Portos do Distrito de Ponta Delgada, aprovadas pela
+  Portaria n.º 15371, com as alterações introduzidas pelas Portarias n.os 16364, 16783, 17435, 20677 e 22163
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Comunicações - Junta Central de Portos
+proposing_entity: null
+official_number: '24185'
+official_date: null
+publication_date: '1969-07-16'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 165/1969, Série I de 1969-07-16
+  number: '165'
+  series: I
+  supplement: null
+  pages: 848 - 848
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/07/16500/08480848.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '199595'
+  dre_path: /dr/detalhe/portaria/24185-1969-199595
+  internal: pt:dre:199595:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/24185-1969-199595
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24185-1969-199595
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:03:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7ce4c3042d8b08ee95e3ac4c5b89ce885684168359081913771ab21676d62fb8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:235511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:03:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 24185
+
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma dos Portos do Distrito de Ponta Delgada, aprovadas pela [Portaria n.º 15371](https://diariodarepublica.pt/dr/detalhe/portaria/15371-1955-235511), de 9 de Maio de 1955, com as alterações introduzidas pelas Portarias n.os 16364, de 25 de Julho de 1957, 16783, de 28 de Julho de 1958, 17435, de 20 de Novembro de 1959, 20677, de 10 de Julho de 1964, e 22163, de 10 de Agosto de 1966.
+
+Ministério das Comunicações, 16 de Julho de 1969. - O Ministro das Comunicações, Fernando Alberto de Oliveira.

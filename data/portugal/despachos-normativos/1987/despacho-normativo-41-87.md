@@ -1,0 +1,233 @@
+---
+schema_version: '1.0'
+id: pt:dre:665949:por
+title: Despacho Normativo n.º 41/87
+short_title: null
+summary: Actualiza as comparticipações financeiras às instituições particulares de solidariedade social
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Trabalho e Segurança Social - Secretaria de Estado da Segurança Social
+proposing_entity: null
+official_number: 41/87
+official_date: null
+publication_date: '1987-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/1987, Série I de 1987-04-24
+  number: '95'
+  series: I
+  supplement: null
+  pages: 1661 - 1665
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09500/16611665.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '665949'
+  dre_path: /dr/detalhe/despacho-normativo/41-1987-665949
+  internal: pt:dre:665949:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-1987-665949
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-1987-665949
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:37:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 93dd9a26fd1c645b10a6c150b23a49cddb47e46fd68d766ab0a0c261838cecc3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:37:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comparticipações da Segurança Social
+- IPSS
+- Jardim de Infância
+- Lares
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:285935:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:178346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325079:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:285935:por
+  label: "Revogado pelo DN.12/88.22.02.1988.MESS, DR.IS [60] de 12.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-1988-285935
+  date: '1988-02-22'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:37:47Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 41/87
+
+1. O [Despacho Normativo n.º 49/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-1986-228638), de 21 de Junho, veio estabelecer para o ano de 1986 novos critérios de comparticipação financeira às instituições particulares de solidariedade social com as quais os centros regionais celebraram oportunamente instrumentos de cooperação ao abrigo dos Despachos Normativos n.os [387/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/387-1980-226775) e [388/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/388-1980-226778), de 31 de Dezembro. Estes novos critérios de comparticipação financeira basearam-se fundamentalmente na estrita necessidade de se conseguirem esquemas de apoio mais justos e equitativos no que concerne à redistribuição dos recursos financeiros disponíveis da Segurança Social, tendo em vista a valorização e actualização da comparticipação financeira que vem sendo concedida com regularidade às instituições particulares de solidariedade social.
+
+De facto, sendo inquestionável a relevante intervenção daquelas instituições no trabalho social junto das comunidades locais, no importante apoio que prestam às famílias e aos indivíduos, nomeadamente pela gestão de equipamentos sociais nas áreas da infância e juventude e da população idosa, impõe-se ao Governo dotá-las de meios técnico-financeiros razoavelmente necessários para a prossecução daqueles importantes objectivos.
+
+2. Decorridos mais de seis meses sobre a aplicação dos critérios financeiros adoptados no ano de 1986, a experiência e os resultados obtidos aconselham no sentido de se manterem ainda no decurso do corrente ano os fundamentais princípios então definidos.
+
+Assim, tendo em conta os limites impostos pelos recursos financeiros disponíveis e as indicações previsíveis do índice de inflação para o corrente ano, são actualizados os valores das comparticipações financeiras constantes das normas I e II do [Despacho Normativo n.º 49/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-1986-228638) para vigorarem no ano de 1987.
+
+3. Para a determinação das comparticipações financeiras segundo os presentes critérios exige-se, porém, uma intervenção cuidada dos serviços regionais de acção social, em estrita colaboração com as instituições, com a finalidade de se avaliar a capacidade económico-financeira das instituições particulares, a classificação das zonas de instalação, bem como as condições económicas e sociais dos utentes e dos agregados familiares em que se inserem.
+
+Considerando, no entanto, que a Segurança Social deve fundamentalmente apoiar e beneficiar as famílias/utentes mais desfavorecidos, a actualização levada a efeito pelo presente despacho normativo não prejudica que num futuro próximo se venham a estabelecer diferentes critérios de comparticipação financeira, tendo por base essencialmente a situação económica dos utentes. Daí o entender-se desde já oportuna e necessária a recolha de elementos de natureza financeira que possibilitem um conhecimento real e diferenciado daquela situação.
+
+Assim, a situação económica dos utentes será caracterizada através do preenchimento de uma ficha, aprovada em anexo ao presente diploma, a qual possibilitará ainda obter um conhecimento global dos utentes dos equipamentos sociais das instituições particulares de solidariedade social comparticipadas pela Segurança Social.
+
+4. Importa, contudo, salientar que a Segurança Social não deve apoiar, em termos financeiros, indiscriminadamente todas as valências e todas as formas em que se concretizam, quer por uma questão de respeito por determinadas prioridades, quer por uma maior responsabilização das famílias e utentes dos equipamentos sociais.
+
+Este procedimento é imposto tanto pelas exigências das próprias prioridades sociais como pela absoluta necessidade de optimizar os recursos financeiros existentes.
+
+Considera-se, por isso, imperioso que se combatam desperdícios, se evitem estruturas pesadas, necessariamente mais onerosas, e se opte por respostas inovadoras e mais simples, responsabilizando mais as famílias e a comunidade em geral, desenvolvendo, nomeadamente, serviços que se identifiquem, tanto quanto possível, com um verdadeiro ambiente familiar.
+
+5. A aplicação dos presentes critérios não prejudica a manutenção do esquema de deduções estabelecido pelos Despachos Normativos n.os [388/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/388-1980-226778) e [97/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/97-1985-178346), devendo os centros regionais de segurança social considerar a situação de receitas próprias das instituições na parte em que possam ser passíveis de dedução.
+
+6. Atentas as ponderações acima referidas, são fixadas novas tabelas de comparticipação financeira a atribuir pelos centros regionais às instituições particulares, o que corresponde a uma previsão global de encargos na ordem dos 12 milhões de contos.
+
+Quanto ao número de utentes de estabelecimentos das instituições particulares com acordos ou instrumentos de cooperação, prevê-se que possa abranger um total de 150000 pessoas.
+
+Nestes termos, determino, ao abrigo do artigo 202.º, alínea c), da Constituição, o seguinte:
+
+I
+
+Comparticipação por acordos de cooperação típicos
+
+1 - Os valores das comparticipações a pagar em 1987 pelos centros regionais de segurança social às instituições particulares de solidariedade social com as quais tenham celebrado acordos de cooperação ao abrigo dos Despachos Normativos n.os [387/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/387-1980-226775) e [388/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/388-1980-226778) são, por mês, utente e valência, os constantes do quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16611665.pdf)
+
+2 - O valor fixado para as valências do jardim-de-infância e apoio domiciliário a idosos será reduzido em 25% nos casos em que não é fornecida alimentação.
+
+3 - O valor fixado para a valência de actividades de tempos livres será acrescido em 25% nos casos em que, para além do apoio alimentar complementar, seja fornecida uma refeição às crianças, em casos de comprovada necessidade e desde que o centro regional signatário do acordo possua cabimento orçamental para esse efeito.
+
+4 - O valor fixado para a valência de apoio domiciliário a idosos será acrescido em 10% nos casos em que sejam prestados cuidados de saúde directamente pela instituição, por manifesta impossibilidade de recurso aos serviços oficiais de saúde.
+
+II
+
+Actualização das comparticipações por acordos de cooperação atípicos
+
+1 - Relativamente às instituições com valências não enquadráveis em qualquer das valências contempladas no quadro referido no n.º 1 da norma anterior, o valor das comparticipações fixadas no ano de 1986 é actualizado em 9%, com arredondamento, por excesso, para a dezena de escudos imediatamente superior.
+
+2 - Os acordos de cooperação a celebrar para as valências a que se refere o número anterior estão sujeitos a homologação nos termos da norma IX do [Despacho Normativo n.º 387/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/387-1980-226775), sendo a comparticipação financeira por utente e por valência determinada com base em estudos económico-financeiros, que integrarão, de forma discriminada e fundamentada, elementos relativos ao património da instituição e sua rentabilidade, bem como as receitas e despesas, designadamente com pessoal, alimentação e gestão.
+
+III
+
+Ficha de caracterização do utente
+
+1 - Para efeitos de actualização da comparticipação financeira a conceder às instituições particulares de solidariedade social, será preenchida obrigatoriamente uma ficha, de modelo próprio, publicada em anexo ao presente diploma, relativa aos utentes abrangidos pelo acordo de cooperação, donde conste, nomeadamente, a identificação do seu agregado familiar e rendimento anual.
+
+2 - O agregado familiar a considerar para efeito do preenchimento da ficha referida no número anterior é constituído pelo conjunto de pessoas ligadas entre si por vínculos de casamento, parentesco, adopção, afinidade ou outras situações assimiláveis, que vivam em economia comum.
+
+3 - A ficha deverá ser preenchida em triplicado, destinando-se o original ao centro regional, o duplicado à instituição particular e o triplicado ao utente.
+
+4 - A confirmação das declarações prestadas pelo requerente é da responsabilidade da instituição particular de solidariedade social.
+
+5 - A ficha a que se refere o n.º 1 deverá ser actualizada durante o mês de Setembro de cada ano.
+
+IV
+
+Responsabilidade financeira das instituições
+
+1 - As instituições particulares suportarão, por força dos seus próprios meios e pelo recurso a formas de solidariedade social, a diferença entre as comparticipações devidas pela Segurança Social no âmbito dos acordos celebrados e os custos de manutenção dos equipamentos ou serviços prestados.
+
+2 - Na prossecução do objectivo referido no número anterior, deverão ser desenvolvidas acções adequadas à valorização dos recursos próprios das instituições, nomeadamente:
+
+a) Dinamizando e alargando a sua base de apoio associativa como forma de melhor assegurar a realização dos fins institucionais;
+
+b) Rentabilizando o seu património;
+
+c) Promovendo uma gestão eficaz dos recursos humanos, sem prejuízo da qualidade dos serviços prestados, e criando ainda condições ao incentivo do voluntariado social adequado aos fins e à vocação própria de cada instituição.
+
+3 - Na negociação dos acordos de cooperação devem os centros regionais de segurança social apoiar as instituições particulares na definição de formas adequadas de comparticipação dos utentes ou das suas famílias.
+
+V
+
+Excesso de lotação dos estabelecimentos
+
+1 - As comparticipações financeiras estabelecidas neste diploma têm como limite o quantitativo global correspondente à lotação máxima tecnicamente correcta para o estabelecimento.
+
+2 - O número de utentes para além da lotação máxima só poderá ser considerado no cálculo das comparticipações desde que o excesso resulte de circunstâncias relevantes, comprovadamente decorrentes da insuficiência dos equipamentos sociais para responder de modo adequado às necessidades de apoio social da área respectiva.
+
+3 - O disposto no n.º 2 deverá ser considerado caso a caso na negociação das cláusulas dos respectivos acordos de cooperação, no sentido de se adaptarem de uma forma programada as medidas indispensáveis ao estabelecimento do necessário equilíbrio entre a capacidade normal dos equipamentos e o número de utentes.
+
+VI
+
+Pagamento das comparticipações financeiras
+
+A comparticipação financeira da Segurança Social será paga mensalmente pelos centros regionais às instituições particulares, sem prejuízo de periodicamente se proceder aos ajustamentos decorrentes da variação da frequência de utentes a que respeita o acordo de cooperação.
+
+VII
+
+Acordos entre a Santa Casa da Misericórdia de Lisboa e as instituições particulares
+
+As regras constantes deste diploma são igualmente aplicáveis, com as necessárias adaptações, aos acordos de cooperação celebrados ou a celebrar entre a Santa Casa da Misericórdia de Lisboa e as instituições particulares de solidariedade social.
+
+VIII
+
+Norma revogatória
+
+Fica revogada toda a legislação em contrário, nomeadamente os Despachos Normativos n.os [20/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-1985-325079), de 4 de Abril, e [49/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-1986-228638), de 21 de Junho.
+
+IX
+
+O presente diploma produz efeitos desde 1 de Janeiro de 1987, ficando, porém, a sua efectiva aplicação dependente da remessa da ficha referida no norma III aos centros regionais de segurança social.
+
+Secretaria de Estado da Segurança Social, 8 de Abril de 1987. - O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16611665.pdf)

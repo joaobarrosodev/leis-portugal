@@ -1,0 +1,237 @@
+---
+schema_version: '1.0'
+id: pt:dre:170317:por
+title: Decreto Regulamentar n.º 77/85
+short_title: null
+summary: Introduz alterações ao Decreto n.º 45/72, de 5 de Fevereiro (transporte rodoviário de mercadorias). Revoga a Portaria
+  n.º 778/72, de 28 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério do Equipamento Social
+proposing_entity: null
+official_number: 77/85
+official_date: null
+publication_date: '1985-11-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 271/1985, Série I de 1985-11-25
+  number: '271'
+  series: I
+  supplement: null
+  pages: 3909 - 3911
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/11/27100/39093911.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '170317'
+  dre_path: /dr/detalhe/decreto-regulamentar/77-1985-170317
+  internal: pt:dre:170317:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/77-1985-170317
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/77-1985-170317
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:12:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4a11e87becc1a468c4f6312c1f7beadb7418748477a6fa4162b8450a4cfbe7ce
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Regulamento dos Transportes Internacionais Rodoviários
+- Transporte de Mercadorias
+- Transporte Internacional
+relationships:
+- type: amended_by
+  target: pt:dre:421830:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:398094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665165:por
+  label: null
+  source: null
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:12:18Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 77/85
+
+de 25 de Novembro
+
+A alteração das normas regulamentadoras do acesso à profissão e ao mercado do transporte interno rodoviário de mercadorias tornou necessária a adaptação do correspondente normativo em transporte internacional.
+
+Para além disso, pretendendo-se alcançar melhor qualidade dos serviços de transporte, impunha-se adoptar medidas que assegurassem uma melhor qualificação do transportador internacional rodoviário de mercadorias.
+
+Com este objectivo, e em consonância com directivas comunitárias, o presente diploma procede à revisão das condições de acesso ao exercício da actividade, nomeadamente quanto à idoneidade, competência profissional e capacidade financeira, e exige paralelamente uma maior participação de transportadores internos no capital das empresas a constituir para este fim.
+
+Procurando garantir a prossecução daquele objectivo, é adoptado um dispositivo cautelar que visa salvaguardar a manutenção das condições consideradas indispensáveis ao exercício da actividade para além do momento de licenciamento da empresa.
+
+Aproveitou-se ainda para introduzir no direito interno novas excepções aos princípios de autorização e de contingentamento consagrados em directivas comunitárias e em resoluções da Conferência Europeia dos Ministros dos Transportes (CEMT).
+
+Finalmente, tornou-se necessário dar por findo o já longo período de transição instituído pelo [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), de 5 de Fevereiro, que vinha permitindo a realização de transportes internacionais por empresas não licenciadas para esse efeito.
+
+Assim:
+
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição e ao abrigo do n.º 1 do artigo 3.º do [Decreto-Lei n.º 477/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1971-631384), de 6 de Novembro, o seguinte:
+
+Artigo 1.º Os artigos 34.º, 35.º, 36.º, 60.º e 61.º do [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), de 5 de Fevereiro, passam a ter a seguinte redacção:
+
+###### Artigo 34.º — (Acesso aos transportes de longa distância)
+
+1 - Os transportes de longa distância serão explorados por empresas constituídas sob a forma de sociedades por quotas ou anónimas que reúnam requisitos de idoneidade, capacidade profissional e capacidade financeira e que:
+
+a) Sejam empresas de transporte público interno rodoviário de mercadorias e tenham uma dimensão mínima; ou
+
+b) Se constituam para esse fim, desde que mais de 50% do seu capital social seja subscrito por empresas de transporte público interno rodoviário de mercadorias que, em conjunto, perfaçam aquela dimensão.
+
+2 - No caso previsto na alínea b) do n.º 1, a participação obrigatória de empresas de transporte público interno rodoviário de mercadorias no capital social de empresas que se constituam sob a forma de sociedades anónimas deverá ser representada por acções nominativas.
+
+3 - Exceptuam-se do disposto no n.º 1 os transportes internacionais de longa distância efectuados por meio dos veículos a que se refere o n.º 4 do artigo 36.º
+
+4 - Por portaria do Ministro do Equipamento Social serão fixados os requisitos de idoneidade, de capacidade e dimensão mínima referidos no n.º 1.
+
+###### Artigo 35.º — (Licenciamento da actividade)
+
+1 - A actividade de transportador internacional rodoviário de mercadorias só poderá ser exercida por empresas previamente licenciadas e devidamente tituladas por alvará, que será emitido pela Direcção-Geral de Transportes Terrestres.
+
+2 - O alvará tem a natureza de mera condição administrativa, não podendo ser objecto de negócio jurídico autónomo.
+
+3 - Quaisquer alterações subsequentes à obtenção do alvará, respeitantes aos requisitos a que se refere o artigo anterior, deverão ser obrigatoriamente comunicadas à Direcção-Geral de Transportes Terrestres no prazo máximo de 30 dias a contar da data da verificação dos factos determinantes das alterações.
+
+4 - A falta superveniente de requisitos de idoneidade, capacidade financeira e capacidade profissional deverá ser suprida no prazo de 6 meses a contar da data da sua ocorrência, sob pena de apreensão e não concessão das autorizações a que se refere o artigo 38.º durante um período de 6 meses, findo o qual será cassado o alvará e canceladas as licenças respeitantes aos veículos.
+
+5 - Deverão ser garantidos os requisitos de dimensão mínima por um período não inferior a 5 anos contados a partir da data da emissão do respectivo alvará, sob pena de aplicação do disposto no número anterior.
+
+6 - O alvará caduca se o titular não tiver licenciado pelo menos um veículo, nos termos do artigo 36.º, nos 12 meses subsequentes à data de emissão do título.
+
+###### Artigo 36.º — (Licenciamento de veículos)
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Exceptuam-se do licenciamento previsto no n.º 1, podendo também efectuar transportes internacionais:
+
+a) Os veículos que, excedendo os limites de peso e dimensões fixados no Código da Estrada, transitem nas vias públicas, mediante autorização especial, por itinerários previamente fixados;
+
+b) Os veículos cujo peso total em carga, incluído o dos reboques, não exceda 6 t;
+
+c) Os veículos afectos ao transporte de mudanças, quando efectuados por empresas equipadas para esse efeito em pessoal e material.
+
+###### Artigo 60.º — (Concessão obrigatória de autorizações)
+
+Sob reserva de reciprocidade, serão sempre concedidas as autorizações para:
+
+a) Transportes para zonas fronteiriças;
+
+b) Transportes de recheios de casas de habitação, em casos de mudança de domicílio, por empresas especialmente equipadas para esse efeito em pessoal e material.
+
+###### Artigo 61.º — (Excepções ao regime de autorizações)
+
+1 - Sob reserva de reciprocidade, não carecem de autorização:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) Os transportes de objectos e obras de arte destinados a exposições, feiras ou a fins comerciais;
+
+j) Os transportes de objectos e de material destinados exclusivamente a publicidade e a informação;
+
+l) Os transportes de material, de acessórios e de animais com destino ou provenientes de manifestações teatrais, musicais, cinematográficas, desportivas, circos, feiras ou quermesses, bem como os destinados a registos radiofónicos ou televisivos;
+
+m) Os transportes de peças sobresselentes e de produtos destinados ao abastecimento de navios e de aviões;
+
+n) A deslocação em vazio de um veículo afecto a transportes de mercadorias destinado a substituir um veículo danificado, assim como o prosseguimento do transporte a coberto da autorização emitida para o veículo danificado;
+
+o) Os transportes de artigos necessários a cuidados médicos em casos de urgência, nomeadamente em casos de catástrofes naturais;
+
+p) Os transportes de mercadorias efectuados por veículos cujo peso total em carga autorizado, incluído o dos reboques, não exceda 6 t, ou cuja carga útil autorizada, incluída a dos reboques, não exceda 3,5 t;
+
+q) Os transportes de mercadorias preciosas, designadamente metais preciosos, efectuados em veículos especiais, quando acompanhados pela polícia ou outras forças de segurança.
+
+2 - ...
+
+Art. 2.º São aditados ao artigo 89.º do [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), de 5 de Fevereiro, os n.os 4 e 5, com a seguinte redacção:
+
+4 - A falta de comunicação prevista no n.º 3 do artigo 35.º no prazo nele estabelecido, será punida com multa de 10000$00.
+
+5 - A exploração de veículos licenciados para o transporte público internacional rodoviário de mercadorias por entidade diversa do seu titular será punida com multa de 200000$00, com a cassação do alvará a que se refere o n.º 1 do artigo 35.º e ainda com o cancelamento de todas as licenças da empresa.
+
+Art. 3.º - 1 - São revogados os n.os 2 e 3 do artigo 97.º do [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), de 5 de Fevereiro.
+
+2 - É revogada a [Portaria n.º 778/72](https://diariodarepublica.pt/dr/detalhe/portaria/778-1972-665165), de 28 de Dezembro.
+
+3 - Por portaria do Ministro do Equipamento Social, serão fixados os prazos e as condições para a realização de transportes internacionais de mercadorias por empresas não licenciadas, nos termos do n.º 1 do artigo 35.º
+
+Mário Soares - Rui Manuel Parente Chancerelle de Machete - Carlos Montez Melancia.
+
+Promulgado em 5 de Novembro de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 12 de Novembro de 1985.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

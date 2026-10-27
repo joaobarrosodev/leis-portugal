@@ -1,0 +1,1019 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:235906:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34448575",
+ "dre_path": "/dr/detalhe/decreto-lei/111-2005-235906",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-07-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "50450375",
+    "46257875",
+    "46257975",
+    "46258075",
+    "46258175",
+    "46258275",
+    "46258375",
+    "46258475",
+    "46258575",
+    "46258675",
+    "46258775",
+    "46258875",
+    "46258975",
+    "46259075",
+    "46259175",
+    "46259275",
+    "46259375",
+    "46259475",
+    "46259575",
+    "46259675",
+    "46259775",
+    "46259875",
+    "46259975",
+    "46260075",
+    "46260175",
+    "46260275",
+    "46260375",
+    "46260475",
+    "46260575",
+    "46260675",
+    "46260775",
+    "46260875",
+    "46260975"
+   ]
+  },
+  {
+   "date": "2006-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:620286:por",
+     "title": "Decreto-Lei n.º 76-A/2006",
+     "published": "2006-03-29",
+     "dre_path": "/dr/detalhe/decreto-lei/76-a-2006-620286"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 25.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "50380075",
+    "46257875",
+    "50372975",
+    "46258075",
+    "50373175",
+    "46258275",
+    "46258375",
+    "50373475",
+    "46258575",
+    "50373675",
+    "46258775",
+    "46258875",
+    "50373875",
+    "50374175",
+    "46259175",
+    "50375375",
+    "50379975",
+    "46259475",
+    "46259575",
+    "46259675",
+    "46259775",
+    "46259875",
+    "46259975",
+    "46260075",
+    "46260175",
+    "46260275",
+    "46260375",
+    "46260475",
+    "50266475",
+    "46260675",
+    "46260775",
+    "46260875",
+    "46260975",
+    "46270275"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:356373:por",
+     "title": "Decreto-Lei n.º 125/2006",
+     "published": "2006-06-29",
+     "dre_path": "/dr/detalhe/decreto-lei/125-2006-356373",
+     "date": "2006-07-14"
+    }
+   ]
+  },
+  {
+   "date": "2007-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:642051:por",
+     "title": "Decreto-Lei n.º 318/2007",
+     "published": "2007-09-26",
+     "dre_path": "/dr/detalhe/decreto-lei/318-2007-642051"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º-A",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "50424375",
+    "46257875",
+    "50372975",
+    "46258075",
+    "50373175",
+    "46258275",
+    "46258375",
+    "50373475",
+    "46258575",
+    "50373675",
+    "46258775",
+    "46258875",
+    "50373875",
+    "50423875",
+    "50424075",
+    "50424275",
+    "50379975",
+    "50382975",
+    "50383075",
+    "46259575",
+    "46259675",
+    "46259775",
+    "46259875",
+    "46259975",
+    "46260075",
+    "46260175",
+    "46260275",
+    "46260375",
+    "46260475",
+    "50266475",
+    "46260675",
+    "46260775",
+    "46260875",
+    "46260975",
+    "46270275"
+   ]
+  },
+  {
+   "date": "2008-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:487360:por",
+     "title": "Decreto-Lei n.º 247-B/2008",
+     "published": "2008-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/247-b-2008-487360"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 27.º",
+    "Entrada Vigor Diploma",
+    "Revoga Artigo 15.º-A"
+   ],
+   "fragments": [
+    "50447075",
+    "46257875",
+    "50372975",
+    "50443375",
+    "50443575",
+    "50444075",
+    "50441575",
+    "50441675",
+    "50441775",
+    "50444375",
+    "50444675",
+    "50444875",
+    "50445475",
+    "50445575",
+    "50445775",
+    "50445875",
+    "50446075",
+    "50446175",
+    "50446975",
+    "50442875",
+    "46259575",
+    "46259675",
+    "46259775",
+    "46259875",
+    "46259975",
+    "46260075",
+    "46260175",
+    "46260275",
+    "46260375",
+    "46260475",
+    "50266475",
+    "46260675",
+    "46260775",
+    "50446675",
+    "46260975",
+    "46270275"
+   ]
+  },
+  {
+   "date": "2010-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344272:por",
+     "title": "Decreto-Lei n.º 99/2010",
+     "published": "2010-09-02",
+     "dre_path": "/dr/detalhe/decreto-lei/99-2010-344272"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "50449975",
+    "46257875",
+    "50372975",
+    "50443375",
+    "50443575",
+    "50444075",
+    "50441575",
+    "50441675",
+    "50441775",
+    "50444375",
+    "50444675",
+    "50444875",
+    "50445475",
+    "50449875",
+    "50445775",
+    "50445875",
+    "50446075",
+    "50446175",
+    "50446975",
+    "50442875",
+    "46259575",
+    "46259675",
+    "46259775",
+    "46259875",
+    "46259975",
+    "46260075",
+    "46260175",
+    "46260275",
+    "46260375",
+    "46260475",
+    "50266475",
+    "46260675",
+    "46260775",
+    "50446675",
+    "46260975",
+    "46270275"
+   ]
+  },
+  {
+   "date": "2011-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:279421:por",
+     "title": "Decreto-Lei n.º 33/2011",
+     "published": "2011-03-07",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2011-279421"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "50450375",
+    "46257875",
+    "50372975",
+    "50443375",
+    "50443575",
+    "50444075",
+    "50441575",
+    "50441675",
+    "50441775",
+    "50450175",
+    "50444675",
+    "50444875",
+    "50445475",
+    "50449875",
+    "50445775",
+    "50445875",
+    "50446075",
+    "50446175",
+    "50446975",
+    "50442875",
+    "46259575",
+    "46259675",
+    "46259775",
+    "46259875",
+    "46259975",
+    "46260075",
+    "46260175",
+    "46260275",
+    "46260375",
+    "46260475",
+    "50266475",
+    "46260675",
+    "46260775",
+    "50446675",
+    "46260975",
+    "46270275"
+   ]
+  }
+ ],
+ "fragments": {
+  "50450375": {
+   "fragment_id": "35068375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2011-04-06",
+   "changed_by": [],
+   "markdown": "O desenvolvimento da competitividade da economia portuguesa é uma prioridade fundamental do XVII Governo Constitucional.\n\nTal pressupõe que se realize um forte esforço de eliminação de actos e práticas inúteis, evitando que os cidadãos e as empresas sejam onerados com actividades burocráticas que nada acrescentem e não constituem uma mais-valia. Para o efeito, os serviços do Estado devem oferecer uma resposta ágil, rápida e desburocratizada.\n\nNo processo de constituição de sociedades comerciais, a actividade do Estado deve limitar-se ao essencial para garantir a segurança da actividade das empresas e das transacções comerciais. A constituição de sociedades comerciais não deve ser permeável à existência de burocracias e actos enraizados pelas práticas e por métodos que não constituam um valor acrescentado em função da protecção daqueles valores. Por outras palavras, sendo o crescimento da actividade económica uma prioridade do XVII Governo Constitucional e assentando uma parcela muito relevante desse crescimento nas sociedades comerciais, há que garantir que o Estado não constitui um entrave ao dinamismo dos agentes económicos. Ao invés, o Estado tem de acompanhar a sua competitividade, garantindo as respostas que as empresas exigem.\n\nCumprindo estes objectivos e no sentido de impulsionar o desenvolvimento da economia nacional, o presente diploma concretiza o Programa de Governo, prevendo a possibilidade de criação de empresas «na hora» perante as conservatórias do registo comercial e os seus respectivos postos de atendimento nos centros de formalidades de empresas.\n\nOs interessados na constituição de uma sociedade comercial podem, assim, dirigir-se a uma destas conservatórias manifestando a intenção de constituir a empresa, bastando-lhes escolher uma das firmas pré-aprovadas à sua disposição e escolhendo o pacto ou acto constitutivo previamente aprovado e certificado pelos serviços de registos e notariado. A conservatória do registo comercial assegurará a comunicação e as formalidades subsequentes a todas as entidades que devam ser notificadas da constituição da sociedade, sem que os interessados fiquem onerados com tal tarefa, o que constitui um importante elemento de desburocratização e simplificação de processos administrativos, com as inerentes vantagens para o cidadão, para as empresas e para a própria Administração Pública.\n\nPela constituição destas sociedades será devida uma taxa inferior à que hoje impende perante os cidadãos e as empresas que adoptem a via tradicional. Por um lado, se o processo que agora se estabelece é mais simples, o preço deve ser menor. Por outro lado, o Estado assegura por esta via a competitividade nacional, pois o custo da criação de sociedades em Portugal passa assim a ser muito competitivo no contexto de um mercado aberto.\n\nFinalmente, o preço da constituição das sociedades cuja actividade principal seja classificada como «actividade informática ou conexa» ou como «actividade de investigação e desenvolvimento» é especialmente reduzido. Visa-se por esta via desenvolver uma opção estratégica fundamental do País: o desenvolvimento da economia nacional em torno do plano tecnológico e da investigação e desenvolvimento, garantindo o incentivo a estas áreas de desenvolvimento.\n\nForam promovidas as diligências necessárias à audição da Ordem dos Advogados, da Câmara dos Solicitadores e da Câmara dos Técnicos Oficiais de Contas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "46257875": {
+   "fragment_id": "35466675",
+   "type": 1,
+   "heading": "Capítulo I — Regime especial de constituição imediata de sociedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Regime especial de constituição imediata de sociedades"
+  },
+  "46257975": {
+   "fragment_id": "36800075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado um regime especial de constituição imediata de sociedades comerciais e civis sob forma comercial do tipo por quotas e anónima."
+  },
+  "46258075": {
+   "fragment_id": "36800175",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO regime previsto no presente diploma não é aplicável:\n\na) Às sociedades cuja constituição dependa de autorização especial;\n\nb) Às sociedades cujo capital seja realizado com recurso a entradas em espécie;\n\nc) Às sociedades anónimas europeias."
+  },
+  "46258175": {
+   "fragment_id": "36800275",
+   "type": 11,
+   "heading": "Artigo 3.º — Pressupostos de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pressupostos de aplicação\n\nSão pressupostos de aplicação do regime previsto no presente diploma:\n\na) A opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado ou a apresentação de certificado de admissibilidade de firma emitido pelo Registo Nacional de Pessoas Colectivas (RNPC); e\n\nb) A opção por pacto ou acto constitutivo de modelo aprovado pelo director-geral dos Registos e do Notariado."
+  },
+  "46258275": {
+   "fragment_id": "36800375",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - O regime a que se refere o artigo 1.º é da competência das conservatórias do registo comercial, independentemente da localização da sede da sociedade a constituir.\n\n2 - Os interessados podem igualmente optar por promover o procedimento no posto de atendimento do registo comercial a funcionar junto dos centros de formalidades de empresas (CFE).\n\n3 - A competência prevista nos números anteriores abrange a tramitação integral do procedimento.\n\n4 - Os CFE podem adoptar as medidas necessárias para adequar as suas estruturas ao disposto no presente diploma, nomeadamente através de modificações ao respectivo manual de procedimentos."
+  },
+  "46258375": {
+   "fragment_id": "36800475",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazo de tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prazo de tramitação\n\nOs serviços referidos no artigo anterior devem iniciar e concluir a tramitação do procedimento no mesmo dia, em atendimento presencial único."
+  },
+  "46258475": {
+   "fragment_id": "36800575",
+   "type": 11,
+   "heading": "Artigo 6.º — Início do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Início do procedimento\n\n1 - Os interessados na constituição da sociedade formulam o seu pedido junto do serviço competente, manifestando a sua opção pela firma e pelo modelo de pacto ou acto constitutivo.\n\n2 - A prossecução do procedimento depende da verificação inicial da identidade, da capacidade e dos poderes de representação dos interessados para o acto."
+  },
+  "46258575": {
+   "fragment_id": "36800675",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos a apresentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Documentos a apresentar\n\n1 - Para o efeito da constituição da sociedade, os interessados devem apresentar os documentos comprovativos da sua identidade, capacidade e poderes de representação para o acto.\n\n2 - Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis.\n\n3 - Os interessados podem proceder à entrega imediata da declaração de início de actividade para efeitos fiscais.\n\n4 - Caso não procedam à entrega do documento referido no número anterior, os interessados são advertidos de que o devem fazer no serviço competente, no prazo legalmente fixado para o efeito.\n\n5 - Os serviços fiscais devem notificar por via electrónica os serviços da segurança social dos elementos relativos ao início da actividade."
+  },
+  "46258675": {
+   "fragment_id": "36800775",
+   "type": 11,
+   "heading": "Artigo 8.º — Sequência do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sequência do procedimento\n\n1 - Efectuada a verificação inicial da identidade, da capacidade e dos poderes de representação dos interessados para o acto, bem como a regularidade dos documentos apresentados, o serviço competente procede aos seguintes actos, pela ordem indicada:\n\na) Cobrança dos encargos que se mostrem devidos;\n\nb) Afectação, por via informática e a favor da sociedade a constituir, da firma escolhida e do número de identificação de pessoa colectiva (NIPC) que lhe está associado, nos casos previstos na primeira parte da alínea a) do artigo 3.º;\n\nc) Preenchimento do pacto ou acto constitutivo, por documento particular, de acordo com o modelo previamente escolhido, nos termos das indicações dos interessados;\n\nd) Reconhecimento presencial das assinaturas dos intervenientes no acto, apostas no pacto ou acto constitutivo;\n\ne) Anotação de apresentação do pedido verbal de registo no diário;\n\nf) Registo do contrato de sociedade;\n\ng) Inscrição do facto no ficheiro central de pessoas colectivas e codificação da actividade económica (CAE) ou, no caso a que se refere a parte final da alínea a) do artigo 3.º, comunicação do registo para aqueles efeitos;\n\nh) Emissão e entrega do cartão de identificação de pessoa colectiva bem como comunicação aos interessados do número de identificação da sociedade na segurança social;\n\ni) Sendo caso disso, completamento da declaração de início de actividade, para menção da firma, NIPC e CAE.\n\n2 - A realização dos actos previstos nas alíneas d) e f) do número anterior é da competência do conservador."
+  },
+  "46258775": {
+   "fragment_id": "36800875",
+   "type": 11,
+   "heading": "Artigo 9.º — Recusa de titulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Recusa de titulação\n\n1 - O conservador deve recusar a realização do acto previsto na alínea c) do n.º 1 do artigo anterior sempre que verifique a existência de omissões, vícios ou deficiências que afectem a formação e exteriorização da vontade dos intervenientes no acto ou nos documentos que o devam instruir e que obstem à realização do correspondente registo definitivo, bem como quando, em face das disposições legais aplicáveis, o acto não seja viável.\n\n2 - O conservador deve ainda recusar a realização do acto previsto na alínea c) do n.º 1 do artigo anterior quando o acto seja anulável ou ineficaz.\n\n3 - Em caso de recusa, se o interessado declarar, oralmente ou por escrito, que pretende impugnar o respectivo acto, o conservador deve lavrar despacho especificando os fundamentos respectivos.\n\n4 - À recusa de titulação é aplicável o regime de impugnação previsto nos artigos 98.º e seguintes do Código do Registo Comercial."
+  },
+  "46258875": {
+   "fragment_id": "36800975",
+   "type": 11,
+   "heading": "Artigo 10.º — Aditamentos à firma e número de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aditamentos à firma e número de matrícula\n\n1 - Nos casos previstos na primeira parte da alínea a) do artigo 3.º, o serviço competente deve completar a composição da firma com os aditamentos legalmente impostos assim como com qualquer expressão alusiva ao objecto social que os interessados optem por inserir entre a expressão de fantasia escolhida e os referidos aditamentos.\n\n2 - O número de matrícula das sociedades constituídas ao abrigo do presente diploma corresponde ao número de identificação de pessoa colectiva."
+  },
+  "46258975": {
+   "fragment_id": "36801075",
+   "type": 11,
+   "heading": "Artigo 11.º — Caducidade do direito ao uso da firma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Caducidade do direito ao uso da firma\n\nA não conclusão do procedimento no prazo previsto no artigo 5.º, por facto imputável aos interessados, determina a caducidade do direito ao uso da firma afecta à sociedade a constituir, nos termos da alínea b) do n.º 1 do artigo 8.º, não conferindo o direito à restituição dos encargos cobrados."
+  },
+  "46259075": {
+   "fragment_id": "36801175",
+   "type": 11,
+   "heading": "Artigo 12.º — Documentos a entregar à sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Documentos a entregar à sociedade\n\nConcluído o procedimento de constituição da sociedade, o serviço competente entrega de imediato aos representantes da sociedade, a título gratuito, uma certidão do pacto ou acto constitutivo e do registo deste último, bem como o recibo comprovativo do pagamento dos encargos devidos."
+  },
+  "46259175": {
+   "fragment_id": "36801275",
+   "type": 11,
+   "heading": "Artigo 13.º — Diligências subsequentes à conclusão do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Diligências subsequentes à conclusão do procedimento\n\n1 - Após a conclusão do procedimento de constituição da sociedade, o serviço competente, no prazo de vinte e quatro horas:\n\na) Promove as publicações legais;\n\nb) Remete a declaração de início de actividade ao serviço fiscal competente;\n\nc) Disponibiliza aos serviços competentes, por meios informáticos, os dados necessários para efeitos de comunicação do início de actividade da sociedade à Inspecção-Geral do Trabalho, bem como os dados necessários à inscrição oficiosa da sociedade nos serviços da segurança social e, quando for o caso, no cadastro comercial;\n\nd) Promove as restantes diligências que venham ser fixadas por via regulamentar ou protocolar.\n\n2 - No mesmo prazo, o serviço que conduziu o procedimento deve remeter a pasta da sociedade à conservatória do registo comercial territorialmente competente nos termos do Código do Registo Comercial.\n\n3 - O envio previsto no número anterior só ocorre quando não existam condições que garantam o acesso à informação sobre a sociedade por via electrónica."
+  },
+  "46259275": {
+   "fragment_id": "36801375",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Encargos\n\n1 - Pelo procedimento de constituição de sociedade regulado no presente diploma são devidos encargos relativos:\n\na) Aos emolumentos previstos no Regulamento Emolumentar dos Registos e do Notariado;\n\nb) Ao imposto do selo, nos termos da Tabela respectiva;\n\nc) Aos custos das publicações.\n\n2 - Sem prejuízo do disposto no artigo 11.º, não são devidos emolumentos pela recusa de titulação e de registo, procedendo-se nesses casos à devolução de todas as quantias cobradas pelo procedimento de constituição de sociedades regulado neste diploma.\n\n3 - Não são, igualmente, devidos emolumentos pessoais pelo procedimento de constituição de sociedades regulado neste diploma."
+  },
+  "46259375": {
+   "fragment_id": "36801475",
+   "type": 11,
+   "heading": "Artigo 15.º — Bolsa de firmas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Bolsa de firmas\n\n1 - É criada pelo RNPC uma bolsa de firmas reservadas a favor do Estado, compostas por expressão de fantasia e às quais está associado um NIPC, independentemente da localização da sede da sociedade, para o efeito de afectação exclusiva às sociedades a constituir no âmbito do presente diploma.\n\n2 - Até à sua afectação nos termos da alínea b) do n.º 1 do artigo 8.º, as firmas constantes da bolsa referida no número anterior gozam de protecção em todo o território nacional.\n\n3 - A reserva a favor do Estado das firmas constantes da bolsa confere o direito à sua exclusividade em todo o território nacional."
+  },
+  "46259475": {
+   "fragment_id": "36801575",
+   "type": 11,
+   "heading": "Artigo 16.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Protocolos\n\n1 - Podem ser celebrados protocolos entre a Direcção-Geral dos Registos e do Notariado (DGRN) e os vários organismos da Administração Pública envolvidos no procedimento de constituição de sociedades com vista à definição dos procedimentos administrativos de comunicação de dados.\n\n2 - A DGRN pode ainda celebrar protocolos com a Direcção-Geral dos Impostos e com a Câmara dos Técnicos Oficiais de Contas com vista à definição dos procedimentos relativos ao preenchimento e entrega da declaração fiscal de início de actividade e posterior comprovação destes factos."
+  },
+  "46259575": {
+   "fragment_id": "35466775",
+   "type": 1,
+   "heading": "Capítulo II — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Alterações legislativas"
+  },
+  "46259675": {
+   "fragment_id": "36801675",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração ao Código das Sociedades Comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração ao Código das Sociedades Comerciais\n\nOs artigos 10.º, 100.º, 167.º e 171.º do Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 10.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - A firma da sociedade constituída por denominação particular ou por denominação e nome ou firma de sócio não pode ser idêntica à firma registada de outra sociedade, ou por tal forma semelhante que possa induzir em erro.\n\n4 - Não são admitidas denominações constituídas exclusivamente por vocábulos de uso corrente, que permitam identificar ou se relacionem com actividade, técnica ou produto, bem como topónimos e qualquer indicação de proveniência geográfica.\n\n5 - ...\n\na) ...\n\nb) [Anterior alínea c).]\n\nArtigo 100.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Sem prejuízo do disposto no número anterior, a notícia por ele exigida deve constar também da convocatória da assembleia publicada nos termos do n.º 1 do artigo 167.º\n\nArtigo 167.º\n\n[...]\n\n1 - As publicações obrigatórias devem ser feitas, a expensas da sociedade, em sítio na Internet de acesso público, regulado por portaria do Ministro da Justiça, no qual a informação objecto de publicidade possa ser acedida, designadamente por ordem cronológica.\n\n2 - ...\n\nArtigo 171.º\n\n[...]\n\n1 - Sem prejuízo de outras menções exigidas por leis especiais, em todos os contratos, correspondência, publicações, anúncios e de um modo geral em toda a actividade externa, as sociedades devem indicar claramente, além da firma, o tipo, a sede, a conservatória do registo comercial onde se encontrem matriculadas, o seu número de matrícula nessa conservatória, o seu número de identificação de pessoa colectiva e, sendo caso disso, a menção de que a sociedade se encontra em liquidação.\n\n2 - ...\n\n3 - ...»"
+  },
+  "46259775": {
+   "fragment_id": "36801775",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração ao regime do Registo Nacional de Pessoas Colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração ao regime do Registo Nacional de Pessoas Colectivas\n\nOs artigos 18.º, 32.º a 34.º, 53.º, 54.º, 56.º e 64.º do regime do Registo Nacional de Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 129/98, de 13 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os 12/2001, de 25 de Janeiro, 323/2001, de 17 de Dezembro, e 2/2005, de 4 de Janeiro, passam a ter a seguinte redacção:\n\n«Artigo 18.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - O cartão provisório de identificação é válido durante o prazo de três meses contado a partir da data da sua emissão, podendo, porém, ser revalidado em caso de impossibilidade de conclusão do processo de constituição ou regularização não imputável ao seu titular.\n\nArtigo 32.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Ao RNPC não compete o controlo da legalidade do objecto social, devendo somente assegurar o cumprimento do disposto nos números anteriores.\n\n4 - Das firmas e denominações não podem fazer parte:\n\na) ...\n\nb) [Anterior alínea c).]\n\nc) [Anterior alínea d).]\n\nd) [Anterior alínea e).]\n\n5 - Quando, por qualquer causa, deixe de ser associado ou sócio pessoa singular cujo nome figure na firma ou denominação de pessoa colectiva, deve tal firma ou denominação ser alterada no prazo de um ano, a não ser que o associado ou sócio que se retire ou os herdeiros do que falecer consintam por escrito na continuação da mesma firma ou denominação.\n\nArtigo 33.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Não são admitidas denominações constituídas exclusivamente por vocábulos de uso corrente que permitam identificar ou se relacionem com actividade, técnica ou produto, bem como topónimos e qualquer indicação de proveniência geográfica.\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\nArtigo 34.º\n\n[...]\n\n1 - A instituição de representações permanentes de pessoas colectivas registadas no estrangeiro não está sujeita à emissão de certificado de admissibilidade de firma.\n\n2 - ...\n\nArtigo 53.º\n\n[...]\n\n1 - O certificado é válido durante o prazo de três meses, a contar da data da sua emissão.\n\n2 - ...\n\n3 - ...\n\n4 - O certificado pode ser revalidado uma única vez, desde que se encontre ainda dentro do respectivo prazo de validade.\n\nArtigo 54.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O disposto no número anterior não se aplica aos casos em que a alteração da firma se limite à alteração do elemento que identifica o tipo de pessoa colectiva.\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)\n\nArtigo 56.º\n\n[...]\n\n1 - ...\n\n2 - O disposto no número anterior não é aplicável à alteração da denominação decorrente de transformação que se restrinja à alteração do elemento que identifica o tipo de pessoa colectiva.\n\n3 - O certificado a que se refere o n.º 1 deve estar dentro do prazo de validade à data da apresentação do pedido de registo, salvo se este tiver sido precedido da celebração, há menos de três meses, de escritura pública, instrumento notarial ou outro título.\n\nArtigo 64.º\n\n[...]\n\nO recurso deve ser interposto no prazo de 30 dias após a recepção do ofício de notificação ou, nos casos em que o acto recorrido não deu lugar a ofício, após o seu conhecimento pelo recorrente ou, se for o caso, da publicação da notícia da constituição ou alteração da pessoa colectiva.»"
+  },
+  "46259875": {
+   "fragment_id": "36801875",
+   "type": 11,
+   "heading": "Artigo 19.º — Alteração ao Código do Registo Comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alteração ao Código do Registo Comercial\n\nOs artigos 14.º, 51.º, 55.º, 62.º, 70.º e 71.º do Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de Dezembro, com as alterações introduzidas pelos Decretos-Leis n.os 7/88, de 15 de Janeiro, 349/89, de 13 de Outubro, 238/91, de 2 de Julho, 31/93, de 12 de Fevereiro, 267/93, de 31 de Julho, 216/94, de 20 de Agosto, 328/95, de 9 de Dezembro, 257/96, de 31 de Dezembro, 368/98, de 23 de Novembro, 172/99, de 20 de Maio, 198/99, de 8 de Junho, 375-A/99, de 20 de Setembro, 410/99, de 15 de Outubro, 533/99, de 11 de Dezembro, 273/2001, de 13 de Outubro, 323/2001, de 17 de Dezembro, 107/2003, de 4 de Junho, 53/2004, de 18 de Março, 70/2004, de 25 de Março, 2/2005, de 4 de Janeiro, e 35/2005, de 17 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 14.º\n\n[...]\n\n1 - ...\n\n2 - Os factos sujeitos a registo e publicação obrigatória nos termos do n.º 2 do artigo 70.º só produzem efeitos contra terceiros depois da data da publicação.\n\n3 - ...\n\n4 - ...\n\nArtigo 51.º\n\n[...]\n\n1 - (Revogado.)\n\n1 - (Anterior n.º 2.)\n\n2 - (Anterior n.º 3.)\n\n3 - O imposto sobre as sucessões e doações ou o imposto de selo nas transmissões gratuitas presume-se assegurado desde que se mostre instaurado o respectivo processo de liquidação e dele conste a quota ou parte social a que o registo se refere.\n\n4 - (Anterior n.º 5.)\n\nArtigo 55.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) As publicações referidas no n.º 2 do artigo 70.º\n\n2 - ...\n\nArtigo 62.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - A matrícula das representações permanentes das sociedades com sede principal e efectiva no estrangeiro deve incluir a referência 'representação permanente', 'sucursal' ou outra equivalente, à escolha do interessado.\n\nArtigo 70.º\n\n[...]\n\n1 - ...\n\n2 - As publicações referidas no número anterior devem ser feitas em sítio na Internet de acesso público, regulado por portaria do Ministro da Justiça, no qual a informação objecto de publicidade possa ser acedida, designadamente por ordem cronológica.\n\n3 - Pelas publicações é devida uma taxa que constitui receita do serviço incumbido da manutenção do sítio referido no número anterior.\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\nArtigo 71.º\n\n[...]\n\n1 - Efectuado o registo, deve o conservador promover as publicações obrigatórias no prazo de 15 dias e a expensas do interessado.\n\n2 - As publicações a que se refere o n.º 4 do artigo anterior são promovidas no prazo de 15 dias a contar das correspondentes publicações em sítio na Internet de acesso público.\n\n3 - As publicações efectuam-se com base nos dados transmitidos por via electrónica entre a conservatória e a Direcção-Geral dos Registos e do Notariado e, apenas nos casos em que este meio não esteja disponível, com base em certidões passadas na conservatória ou com base em certidões passadas em cartório notarial ou tribunal judicial e juntas ao pedido de registo, as quais devem ser remetidas à Direcção-Geral dos Registos e do Notariado, no prazo previsto no n.º 1, por via postal ou ainda por telecópia ou por correio electrónico, nos termos do n.º 1 do artigo 2.º e do artigo 4.º do Decreto-Lei n.º 66/2005, de 15 de Março, aplicáveis com as necessárias adaptações.\n\n4 - As certidões emitidas pelas conservatórias para efeitos das publicações referidas no n.º 4 do artigo anterior devem conter as indicações cuja publicitação é exigida pela legislação comunitária aplicável.»"
+  },
+  "46259975": {
+   "fragment_id": "36801975",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração ao Decreto-Lei n.º 322-A/2001, de 14 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração ao Decreto-Lei n.º 322-A/2001, de 14 de Dezembro\n\nO artigo 8.º do Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, que aprova o Regulamento Emolumentar dos Registos e Notariado, com as alterações introduzidas pela Lei n.º 32-B/2002, de 30 de Dezembro, e pelo Decreto-Lei n.º 194/2003, de 23 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 8.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - É gratuito o acesso às bases de dados registrais e de identificação civil por parte das pessoas colectivas públicas que integrem o sistema estatístico nacional, com a finalidade de recolha de informação estatística.»"
+  },
+  "46260075": {
+   "fragment_id": "36802075",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração ao Regulamento Emolumentar dos Registos e Notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração ao Regulamento Emolumentar dos Registos e Notariado\n\nOs artigos 15.º, 27.º e 28.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 315/2002, de 27 de Dezembro, pela Lei n.º 32-B/2002, de 30 de Dezembro, e pelos Decretos-Leis n.os 194/2003, de 23 de Agosto, 53/2004, de 18 de Março, e 199/2004, de 18 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 15.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) As certidões a entregar aos interessados na sequência da conclusão do procedimento previsto no regime especial de constituição imediata de sociedades.\n\nArtigo 27.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Regime especial de constituição imediata de sociedades:\n\n3.1 - Pela prática dos actos compreendidos no regime especial de constituição imediata de sociedades, com ou sem nomeação de órgãos sociais ou secretário da sociedade - (euro) 330.\n\n3.2 - Do emolumento referido no número anterior pertencem dois terços à conservatória do registo comercial e um terço ao Registo Nacional de Pessoas Colectivas.\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\nArtigo 28.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - Pela consulta em linha efectuada pelos solicitadores de execução às bases de dados registrais e de identificação civil não há lugar ao pagamento de assinatura mensal, sendo devidos por cada acesso (euro) 0,5.\n\n14 - (Anterior n.º 13.)\n\n15 - (Anterior n.º 14.)\n\n16 - (Anterior n.º 15.)\n\n17 - (Anterior n.º 16.)\n\n18 - (Anterior n.º 17.)\n\n19 - Os emolumentos devidos pelo regime especial de constituição imediata de sociedades são reduzidos em (euro) 60 quando a actividade principal da sociedade seja classificada como actividade informática ou conexa, ou ainda como de investigação e desenvolvimento, não sendo devida participação emolumentar pela referida redução.»"
+  },
+  "46260175": {
+   "fragment_id": "36802175",
+   "type": 11,
+   "heading": "Artigo 22.º — Alteração ao Decreto-Lei n.º 8-B/2002, de 15 de Janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alteração ao Decreto-Lei n.º 8-B/2002, de 15 de Janeiro\n\nO artigo 4.º do Decreto-Lei n.º 8-B/2002, de 15 de Janeiro, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Consideram-se oficiosamente inscritas na segurança social as entidades empregadoras criadas pelo regime especial de constituição imediata de sociedades.»"
+  },
+  "46260275": {
+   "fragment_id": "36802275",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas\n\nOs artigos 110.º e 111.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 110.º\n\n[...]\n\n1 - A declaração de inscrição no registo a que se refere a alínea a) do n.º 1 do artigo anterior deve ser apresentada pelos sujeitos passivos, em qualquer serviço de finanças ou noutro local legalmente autorizado, no prazo de 90 dias a partir da data de inscrição no Registo Nacional de Pessoas Colectivas, sempre que esta seja legalmente exigida, ou, caso o sujeito passivo esteja sujeito a registo comercial, no prazo de 15 dias a partir da data de apresentação a registo na Conservatória do Registo Comercial.\n\n2 - ...\n\n3 - Os sujeitos passivos não residentes e que obtenham rendimentos não imputáveis a estabelecimento estável situado em território português relativamente aos quais haja lugar à obrigação de apresentar a declaração a que se refere o artigo 112.º são igualmente obrigados a apresentar a declaração de inscrição no registo, em qualquer serviço de finanças ou noutro local legalmente autorizado, no prazo de 15 dias a contar da data da ocorrência do facto que originou o direito aos mesmos rendimentos.\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\nArtigo 111.º\n\n[...]\n\n1 - Quando o serviço de finanças ou outro local legalmente autorizado a receber as declarações referidas na alínea a) do n.º 1 do artigo 109.º disponha de meios informáticos adequados, essas declarações são substituídas pela declaração verbal, efectuada pelo sujeito passivo, de todos os elementos necessários à inscrição no registo, à alteração dos dados constantes daquele registo e ao seu cancelamento, sendo estes imediatamente introduzidos no sistema informático e confirmados pelo declarante, após a sua impressão em documento tipificado.\n\n2 - ...\n\n3 - ...»"
+  },
+  "46260375": {
+   "fragment_id": "36802375",
+   "type": 11,
+   "heading": "Artigo 24.º — Alteração ao Código do Imposto sobre o Valor Acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Alteração ao Código do Imposto sobre o Valor Acrescentado\n\nOs artigos 30.º, 31.º e 34.º-A do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, passam a ter a seguinte redacção:\n\n«Artigo 30.º\n\n1 - Sem prejuízo do disposto no número seguinte, as pessoas singulares ou colectivas que exerçam uma actividade sujeita a IVA devem apresentar, em qualquer serviço de finanças ou noutro local legalmente autorizado, antes de iniciado o exercício da actividade, a respectiva declaração.\n\n2 - As pessoas colectivas que estejam sujeitas a registo comercial e exerçam uma actividade sujeita a IVA devem apresentar a declaração de início de actividade, em qualquer serviço de finanças ou noutro local legalmente autorizado, no prazo de 15 dias a partir da data da apresentação a registo na conservatória do registo comercial.\n\n3 - Não há lugar à entrega da declaração referida nos números anteriores quando se trate de pessoas sujeitas a IVA pela prática de uma só operação tributável nos termos da alínea a) do n.º 1 do artigo 2.º, excepto se a mesma exceder o limite previsto nas alíneas e) e f) do n.º 1 do artigo 28.º\n\nArtigo 31.º\n\n[...]\n\n1 - ...\n\n2 - A declaração prevista no n.º 1 é entregue em qualquer serviço de finanças ou noutro local legalmente autorizado, no prazo de 15 dias a contar da data da alteração, se outro prazo não for expressamente previsto neste diploma.\n\nArtigo 34.º-A\n\n1 - Quando o serviço de finanças ou outro local legalmente autorizado a receber as declarações referidas nos artigos 30.º a 32.º disponha de meios informáticos adequados, essas declarações são substituídas pela declaração verbal, efectuada pelo sujeito passivo, de todos os elementos necessários ao registo e início da actividade, à alteração dos dados constantes daquele registo e à cessação da actividade, sendo estes imediatamente introduzidos no sistema informático e confirmados pelo declarante, após a sua impressão em documento tipificado.\n\n2 - ...\n\n3 - ...»"
+  },
+  "46260475": {
+   "fragment_id": "35466875",
+   "type": 1,
+   "heading": "Capítulo III — Postos de atendimento e informação obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Postos de atendimento e informação obrigatória"
+  },
+  "46260575": {
+   "fragment_id": "36802475",
+   "type": 11,
+   "heading": "Artigo 25.º — Postos de atendimento do registo comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Postos de atendimento do registo comercial\n\n1 - Para efeitos da aplicação do regime especial de constituição imediata de sociedades, podem ser criados, por despacho conjunto dos Ministros da Justiça e da Economia e da Inovação, postos de atendimento das conservatórias do registo comercial junto dos CFE do respectivo concelho, sem prejuízo do disposto no n.º 1 do artigo 27.º\n\n2 - O quadro das conservatórias do registo comercial que disponham dos postos de atendimento referidos no número anterior pode ser acrescido de um lugar de conservador, nos termos do artigo 1.º do Decreto-Lei n.º 253/96, de 26 de Dezembro.\n\n3 - Na falta ou impedimento do conservador, as suas funções são exercidas pelo ajudante por ele designado para o efeito.\n\n4 - A competência dos postos de atendimento abrange:\n\na) A prática de todos os actos próprios das conservatórias respectivas que se mostrem necessários à execução do regime mencionado no n.º 1;\n\nb) A prática dos actos de registo comercial relativos aos processos previstos no artigo 1.º do Decreto-Lei n.º 78-A/98, de 31 de Março, e para os quais seja competente a conservatória do registo comercial a que pertencem.\n\n5 - A competência dos postos de atendimento pode ser alargada à prática de outros actos do registo comercial, por portaria do Ministro da Justiça."
+  },
+  "46260675": {
+   "fragment_id": "36802575",
+   "type": 11,
+   "heading": "Artigo 26.º — Disponibilização da informação obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Disponibilização da informação obrigatória\n\nPara o cumprimento do disposto no n.º 2 do artigo 14.º, na alínea c) do n.º 1 do artigo 55.º e no artigo 70.º do Código do Registo Comercial e no artigo 167.º do Código das Sociedades Comerciais é suficiente a disponibilização, designadamente por ordem cronológica, da informação obrigatória aí prevista através de sítio na Internet de acesso público, cujo funcionamento e respectivos termos e custo são definidos por portaria do Ministro da Justiça."
+  },
+  "46260775": {
+   "fragment_id": "35466975",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "46260875": {
+   "fragment_id": "36802675",
+   "type": 11,
+   "heading": "Artigo 27.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Período experimental\n\n1 - A partir da data de entrada em vigor do presente diploma e por um período a fixar por portaria conjunta do Ministro de Estado e da Administração Interna, do Ministro da Justiça e do Ministro da Economia e da Inovação, o regime especial de constituição imediata de sociedades funciona a título experimental nas Conservatórias do Registo Comercial de Aveiro, Coimbra, Moita e Barreiro e nos postos de atendimento do registo comercial junto dos CFE de Aveiro e Coimbra.\n\n2 - Durante o período experimental referido no número anterior não é permitido aos interessados requerer a constituição de sociedades utilizando certificado de admissibilidade de firma emitido pelo RNPC, nos termos previstos na parte final da alínea a) do artigo 3.º\n\n3 - Decorrido o período experimental previsto no n.º 1, a extensão do regime a outros serviços depende:\n\na) Do despacho conjunto referido no n.º 1 do artigo 25.º, quanto a outros CFE;\n\nb) De despacho do Ministro da Justiça, quanto a serviços dependentes da DGRN não integrados nos CFE."
+  },
+  "46260975": {
+   "fragment_id": "36802775",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\n1 - O disposto no artigo 15.º entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O disposto no artigo 17.º, na parte em que altera os artigos 100.º e 167.º do Código das Sociedades Comerciais e o disposto no artigo 19.º, na parte em que altera os artigos 14.º, 55.º, 70.º e 71.º do Código do Registo Comercial, entram em vigor no dia 1 de Janeiro de 2006, sem prejuízo da sua entrada em vigor nos termos gerais no que respeita às sociedades constituídas ao abrigo do regime especial de constituição imediata de sociedades."
+  },
+  "50380075": {
+   "fragment_id": "35068375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2006-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30",
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "O desenvolvimento da competitividade da economia portuguesa é uma prioridade fundamental do XVII Governo Constitucional.\n\nTal pressupõe que se realize um forte esforço de eliminação de actos e práticas inúteis, evitando que os cidadãos e as empresas sejam onerados com actividades burocráticas que nada acrescentem e não constituem uma mais-valia. Para o efeito, os serviços do Estado devem oferecer uma resposta ágil, rápida e desburocratizada.\n\nNo processo de constituição de sociedades comerciais, a actividade do Estado deve limitar-se ao essencial para garantir a segurança da actividade das empresas e das transacções comerciais. A constituição de sociedades comerciais não deve ser permeável à existência de burocracias e actos enraizados pelas práticas e por métodos que não constituam um valor acrescentado em função da protecção daqueles valores. Por outras palavras, sendo o crescimento da actividade económica uma prioridade do XVII Governo Constitucional e assentando uma parcela muito relevante desse crescimento nas sociedades comerciais, há que garantir que o Estado não constitui um entrave ao dinamismo dos agentes económicos. Ao invés, o Estado tem de acompanhar a sua competitividade, garantindo as respostas que as empresas exigem.\n\nCumprindo estes objectivos e no sentido de impulsionar o desenvolvimento da economia nacional, o presente diploma concretiza o Programa de Governo, prevendo a possibilidade de criação de empresas «na hora» perante as conservatórias do registo comercial e os seus respectivos postos de atendimento nos centros de formalidades de empresas.\n\nOs interessados na constituição de uma sociedade comercial podem, assim, dirigir-se a uma destas conservatórias manifestando a intenção de constituir a empresa, bastando-lhes escolher uma das firmas pré-aprovadas à sua disposição e escolhendo o pacto ou acto constitutivo previamente aprovado e certificado pelos serviços de registos e notariado. A conservatória do registo comercial assegurará a comunicação e as formalidades subsequentes a todas as entidades que devam ser notificadas da constituição da sociedade, sem que os interessados fiquem onerados com tal tarefa, o que constitui um importante elemento de desburocratização e simplificação de processos administrativos, com as inerentes vantagens para o cidadão, para as empresas e para a própria Administração Pública.\n\nPela constituição destas sociedades será devida uma taxa inferior à que hoje impende perante os cidadãos e as empresas que adoptem a via tradicional. Por um lado, se o processo que agora se estabelece é mais simples, o preço deve ser menor. Por outro lado, o Estado assegura por esta via a competitividade nacional, pois o custo da criação de sociedades em Portugal passa assim a ser muito competitivo no contexto de um mercado aberto.\n\nFinalmente, o preço da constituição das sociedades cuja actividade principal seja classificada como «actividade informática ou conexa» ou como «actividade de investigação e desenvolvimento» é especialmente reduzido. Visa-se por esta via desenvolver uma opção estratégica fundamental do País: o desenvolvimento da economia nacional em torno do plano tecnológico e da investigação e desenvolvimento, garantindo o incentivo a estas áreas de desenvolvimento.\n\nForam promovidas as diligências necessárias à audição da Ordem dos Advogados, da Câmara dos Solicitadores e da Câmara dos Técnicos Oficiais de Contas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50372975": {
+   "fragment_id": "36800075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2006-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece um regime especial de constituição imediata de sociedades comerciais e civis sob forma comercial do tipo por quotas e anónima, com ou sem a simultânea aquisição, pelas sociedades, de marca registada.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50373175": {
+   "fragment_id": "36800275",
+   "type": 11,
+   "heading": "Artigo 3.º — Pressupostos de aplicação",
+   "in_force_from": "2006-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 3.º — Pressupostos de aplicação\n\nSão pressupostos de aplicação do presente diploma:\n\na) A opção por firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado, ou a apresentação de certificado de admissibilidade de firma emitido pelo Registo Nacional de Pessoas Colectivas; e\n\nb) A opção por pacto ou acto constitutivo de modelo aprovado pelo director-geral dos Registos e do Notariado.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50373475": {
+   "fragment_id": "36800575",
+   "type": 11,
+   "heading": "Artigo 6.º — Início do procedimento",
+   "in_force_from": "2006-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 6.º — Início do procedimento\n\n1 - Os interessados na constituição da sociedade formulam o seu pedido junto do serviço competente, manifestando a sua opção pela firma ou firma e marca e pelo modelo de pacto ou acto constitutivo.\n\n2 - A prossecução do procedimento depende da verificação inicial da identidade, da capacidade e dos poderes de representação dos interessados para o acto.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50373675": {
+   "fragment_id": "36800775",
+   "type": 11,
+   "heading": "Artigo 8.º — Sequência do procedimento",
+   "in_force_from": "2006-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14",
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+   ],
+   "markdown": "###### Artigo 8.º — Sequência do procedimento\n\n1 - Efectuada a verificação inicial da identidade, da capacidade e dos poderes de representação dos interessados para o acto, bem como a regularidade dos documentos apresentados, o serviço competente procede aos seguintes actos, pela ordem indicada:\n\na) Cobrança dos encargos que se mostrem devidos;\n\nb) Afectação, por via informática e a favor da sociedade a constituir, da firma escolhida ou da firma e marca escolhidas e do número de identificação de pessoa colectiva (NIPC) associado à firma, nos casos previstos na primeira parte da alínea a) do artigo 3.º;\n\nc) Preenchimento do pacto ou acto constitutivo, por documento particular, de acordo com o modelo previamente escolhido, nos termos das indicações dos interessados;\n\nd) Reconhecimento presencial das assinaturas dos intervenientes no acto, apostas no pacto ou acto constitutivo;\n\ne) Anotação de apresentação do pedido verbal de registo no diário;\n\nf) Registo do contrato de sociedade;\n\ng) Inscrição do facto no ficheiro central de pessoas colectivas e codificação da actividade económica (CAE) ou, no caso a que se refere a parte final da alínea a) do artigo 3.º, comunicação do registo para aqueles efeitos;\n\nh) Emissão e entrega do cartão de identificação de pessoa colectiva bem como comunicação aos interessados do número de identificação da sociedade na segurança social;\n\ni) Sendo caso disso, completamento da declaração de início de actividade, para menção da firma, NIPC e CAE.\n\n2 - A realização dos actos previstos no número anterior é da competência do conservador e dos oficiais do registo.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+  },
+  "50373875": {
+   "fragment_id": "36801075",
+   "type": 11,
+   "heading": "Artigo 11.º — Caducidade do direito ao uso da firma",
+   "in_force_from": "2006-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 11.º — Caducidade do direito ao uso da firma\n\nA não conclusão do procedimento no prazo previsto no artigo 5.º por facto imputável aos interessados determina a caducidade do direito ao uso da firma, ou da firma e marca escolhidas afectas à sociedade a constituir, nos termos da alínea b) do n.º 1 do artigo 8.º, não conferindo o direito à restituição dos encargos cobrados.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50374175": {
+   "fragment_id": "36801175",
+   "type": 11,
+   "heading": "Artigo 12.º — Documentos a entregar à sociedade",
+   "in_force_from": "2006-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 12.º — Documentos a entregar à sociedade\n\n1 - Concluído o procedimento de constituição da sociedade, o serviço competente entrega de imediato aos representantes da sociedade, a título gratuito:\n\na) Uma certidão do pacto ou acto constitutivo e do registo deste último;\n\nb) O recibo comprovativo do pagamento dos encargos devidos;\n\nc) Nos casos em que com a constituição da sociedade ocorra a simultânea aquisição do registo de marca, para além dos documentos anteriores, documento comprovativo de tal aquisição, em modelo aprovado pelo Instituto Nacional da Propriedade Industrial (INPI).\n\n2 - Nas situações a que se refere a alínea c) do número anterior, o INPI remete posteriormente à sociedade o título de registo da marca, bem como o recibo comprovativo do pagamento das taxas devidas pelo acto de aquisição do registo de marca.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50375375": {
+   "fragment_id": "36801375",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos",
+   "in_force_from": "2006-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 14.º — Encargos\n\n1 - Pelo procedimento de constituição de sociedade regulado no presente diploma são devidos encargos relativos:\n\na) Aos emolumentos previstos no Regulamento Emolumentar dos Registos e do Notariado;\n\nb) Ao imposto do selo, nos termos da Tabela respectiva;\n\nc) Aos custos das publicações.\n\nd) Às taxas previstas na Tabela de Taxas de Propriedade Industrial para a aquisição do registo de marca, nos casos em que este facto ocorra simultaneamente com a constituição da sociedade.\n\n2 - O Estado goza de isenção do pagamento das taxas devidas pela prática de actos junto do INPI, ao abrigo do presente diploma.\n\n3 - Sem prejuízo do disposto no artigo 11.º, não são devidos quaisquer encargos pela recusa de titulação e de registo, procedendo-se nesses casos à devolução de todas as quantias cobradas pelo procedimento de constituição de sociedades regulado neste diploma.\n\n4 - Pelo procedimento de constituição de sociedades regulado neste diploma não são devidos emolumentos pessoais.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50379975": {
+   "fragment_id": "36801475",
+   "type": 11,
+   "heading": "Artigo 15.º — Bolsas de firmas e de marcas",
+   "in_force_from": "2006-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 15.º — Bolsas de firmas e de marcas\n\n1 - É criada pelo RNPC uma bolsa de firmas reservadas a favor do Estado, compostas por expressão de fantasia e às quais está associado um NIPC, independentemente da localização da sede da sociedade, para o efeito de afectação exclusiva às sociedades a constituir no âmbito do presente diploma.\n\n2 - É criada pelo RNPC e pelo INPI uma bolsa de firmas reservadas e de marcas registadas a favor do Estado, compostas por expressões de fantasia e às quais está associado um NIPC e um número de processo de marca, independentemente da localização da sede da sociedade, para o efeito de afectação às sociedades a constituir no âmbito do presente diploma.\n\n3 - As marcas constantes da bolsa referida no número anterior são registadas a favor do Estado, representado pelo RNPC, para os produtos e serviços definidos por despacho conjunto do director-geral dos Registos e do Notariado e do presidente do conselho de administração do INPI.\n\n4 - Até à sua afectação nos termos da alínea b) do n.º 1 do artigo 8.º, as firmas constantes das bolsas referidas nos n.os 1 e 2 gozam de protecção em todo o território nacional.\n\n5 - O recurso à bolsa referida no n.º 2 pressupõe a adopção conjunta das firmas e marcas que se encontram reciprocamente associadas.\n\n6 - A dependência prevista no número anterior cessa com a conclusão do procedimento de constituição imediata da sociedade, momento a partir do qual a firma e a marca passam a vigorar autonomamente.\n\n7 - A reserva a favor do Estado das firmas constantes das bolsas referidas nos n.os 1 e 2 confere o direito à sua exclusividade em todo o território nacional.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50266475": {
+   "fragment_id": "36802475",
+   "type": 11,
+   "heading": "Artigo 25.º — Postos de atendimento do registo comercial",
+   "in_force_from": "2006-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+   ],
+   "markdown": "###### Artigo 25.º — Postos de atendimento do registo comercial\n\n1 - Para efeitos da aplicação do regime especial de constituição imediata de sociedades, podem ser criados, por despacho conjunto dos Ministros da Justiça e da Economia e da Inovação, postos de atendimento das conservatórias do registo comercial junto dos CFE do respectivo concelho, sem prejuízo do disposto no n.º 1 do artigo 27.º\n\n2 - O quadro das conservatórias do registo comercial que disponham dos postos de atendimento referidos no número anterior pode ser acrescido de um lugar de conservador, nos termos do artigo 1.º do Decreto-Lei n.º 253/96, de 26 de Dezembro.\n\n3 - Na falta ou impedimento do conservador, as suas funções são exercidas pelo ajudante por ele designado para o efeito.\n\n4 - A competência dos postos de atendimento abrange:\n\na) A prática de todos os actos próprios das conservatórias respectivas que se mostrem necessários à execução do regime mencionado no n.º 1;\n\nb) A prática dos actos de registo comercial relativos aos processos previstos no artigo 1.º do Decreto-Lei n.º 78-A/98, de 31 de Março, e para os quais seja competente a conservatória do registo comercial a que pertencem.\n\nc) A emissão e confirmação de certidões e cópias não certificadas de registo, nos termos legalmente previstos para a conservatória a que pertencem.\n\n5 - A competência dos postos de atendimento pode ser alargada à prática de outros actos do registo comercial, por despacho do director-geral dos Registos e do Notariado.\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+  },
+  "46270275": {
+   "fragment_id": "35467075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - José António Fonseca Vieira da Silva.\n\nPromulgado em 4 de Julho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Julho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "50424375": {
+   "fragment_id": "35068375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2007-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27",
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14",
+    "Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+   ],
+   "markdown": "O desenvolvimento da competitividade da economia portuguesa é uma prioridade fundamental do XVII Governo Constitucional.\n\nTal pressupõe que se realize um forte esforço de eliminação de actos e práticas inúteis, evitando que os cidadãos e as empresas sejam onerados com actividades burocráticas que nada acrescentem e não constituem uma mais-valia. Para o efeito, os serviços do Estado devem oferecer uma resposta ágil, rápida e desburocratizada.\n\nNo processo de constituição de sociedades comerciais, a actividade do Estado deve limitar-se ao essencial para garantir a segurança da actividade das empresas e das transacções comerciais. A constituição de sociedades comerciais não deve ser permeável à existência de burocracias e actos enraizados pelas práticas e por métodos que não constituam um valor acrescentado em função da protecção daqueles valores. Por outras palavras, sendo o crescimento da actividade económica uma prioridade do XVII Governo Constitucional e assentando uma parcela muito relevante desse crescimento nas sociedades comerciais, há que garantir que o Estado não constitui um entrave ao dinamismo dos agentes económicos. Ao invés, o Estado tem de acompanhar a sua competitividade, garantindo as respostas que as empresas exigem.\n\nCumprindo estes objectivos e no sentido de impulsionar o desenvolvimento da economia nacional, o presente diploma concretiza o Programa de Governo, prevendo a possibilidade de criação de empresas «na hora» perante as conservatórias do registo comercial e os seus respectivos postos de atendimento nos centros de formalidades de empresas.\n\nOs interessados na constituição de uma sociedade comercial podem, assim, dirigir-se a uma destas conservatórias manifestando a intenção de constituir a empresa, bastando-lhes escolher uma das firmas pré-aprovadas à sua disposição e escolhendo o pacto ou acto constitutivo previamente aprovado e certificado pelos serviços de registos e notariado. A conservatória do registo comercial assegurará a comunicação e as formalidades subsequentes a todas as entidades que devam ser notificadas da constituição da sociedade, sem que os interessados fiquem onerados com tal tarefa, o que constitui um importante elemento de desburocratização e simplificação de processos administrativos, com as inerentes vantagens para o cidadão, para as empresas e para a própria Administração Pública.\n\nPela constituição destas sociedades será devida uma taxa inferior à que hoje impende perante os cidadãos e as empresas que adoptem a via tradicional. Por um lado, se o processo que agora se estabelece é mais simples, o preço deve ser menor. Por outro lado, o Estado assegura por esta via a competitividade nacional, pois o custo da criação de sociedades em Portugal passa assim a ser muito competitivo no contexto de um mercado aberto.\n\nFinalmente, o preço da constituição das sociedades cuja actividade principal seja classificada como «actividade informática ou conexa» ou como «actividade de investigação e desenvolvimento» é especialmente reduzido. Visa-se por esta via desenvolver uma opção estratégica fundamental do País: o desenvolvimento da economia nacional em torno do plano tecnológico e da investigação e desenvolvimento, garantindo o incentivo a estas áreas de desenvolvimento.\n\nForam promovidas as diligências necessárias à audição da Ordem dos Advogados, da Câmara dos Solicitadores e da Câmara dos Técnicos Oficiais de Contas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+  },
+  "50423875": {
+   "fragment_id": "36801175",
+   "type": 11,
+   "heading": "Artigo 12.º — Documentos a entregar à sociedade",
+   "in_force_from": "2007-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 12.º — Documentos a entregar à sociedade\n\n1 - Concluído o procedimento de constituição da sociedade, o serviço competente entrega de imediato aos representantes da sociedade, a título gratuito:\n\na) Uma certidão do pacto ou acto constitutivo e do registo deste último;\n\nb) O recibo comprovativo do pagamento dos encargos devidos;\n\nc) Caso tenha havido aquisição de marca registada, documento comprovativo dessa aquisição, em modelo aprovado pelo Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.).\n\n2 - Nos casos previstos na alínea c) do número anterior, é dispensado o documento escrito e assinado pelas partes, previsto no n.º 6 do artigo 31.º do Código da Propriedade Industrial, e não há lugar à emissão do título de concessão previsto no artigo 27.º do mesmo diploma.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50424075": {
+   "fragment_id": "36801275",
+   "type": 11,
+   "heading": "Artigo 13.º — Diligências subsequentes à conclusão do procedimento",
+   "in_force_from": "2007-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 13.º — Diligências subsequentes à conclusão do procedimento\n\n1 - Após a conclusão do procedimento de constituição da sociedade, o serviço competente, no prazo de vinte e quatro horas:\n\na) Promove as publicações legais;\n\nb) Remete a declaração de início de actividade ao serviço fiscal competente;\n\nc) Disponibiliza aos serviços competentes, por meios informáticos, os dados necessários para efeitos de comunicação do início de actividade da sociedade à Inspecção-Geral do Trabalho, bem como os dados necessários à inscrição oficiosa da sociedade nos serviços da segurança social e, quando for o caso, no cadastro comercial;\n\nd) Caso tenha havido aquisição de marca registada, comunica ao INPI, I. P., por meios informáticos, a transmissão da mesma, para que se proceda à sua inscrição oficiosa no processo de registo, e ao RNPC para efeitos de dispensa da prova prevista no n.º 6 do artigo 33.º do regime do RNPC;\n\ne) Promove as restantes diligências que venham ser fixadas por via regulamentar ou protocolar.\n\n2 - No mesmo prazo, o serviço que conduziu o procedimento deve remeter a pasta da sociedade à conservatória do registo comercial territorialmente competente nos termos do Código do Registo Comercial.\n\n3 - O envio previsto no número anterior só ocorre quando não existam condições que garantam o acesso à informação sobre a sociedade por via electrónica.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "50424275": {
+   "fragment_id": "36801375",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos",
+   "in_force_from": "2007-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 14.º — Encargos\n\n1 - Pelo procedimento de constituição de sociedade regulado no presente diploma são devidos encargos relativos:\n\na) Aos emolumentos previstos no Regulamento Emolumentar dos Registos e do Notariado;\n\nb) Ao imposto do selo, nos termos da Tabela respectiva;\n\nc) (Revogada).\n\nd) Às taxas previstas em portaria do membro do Governo responsável pela área da justiça, caso tenha havido aquisição de marca registada.\n\n2 - O Estado goza de isenção do pagamento das taxas devidas pela prática de actos junto do INPI, ao abrigo do presente diploma.\n\n3 - Sem prejuízo do disposto no artigo 11.º, não são devidos quaisquer encargos pela recusa de titulação e de registo, procedendo-se nesses casos à devolução de todas as quantias cobradas pelo procedimento de constituição de sociedades regulado neste diploma.\n\n4 - Pelo procedimento de constituição de sociedades regulado neste diploma não são devidos emolumentos pessoais.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50382975": {
+   "fragment_id": "37545275",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Declaração de intenção de uso",
+   "in_force_from": "2007-09-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 15.º-A — Declaração de intenção de uso\n\nOs titulares das marcas transmitidas através do presente regime estão dispensados da apresentação da primeira declaração de intenção de uso, prevista no n.º 1 do artigo 256.º do Código da Propriedade Industrial.\n\n> Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "50383075": {
+   "fragment_id": "36801575",
+   "type": 11,
+   "heading": "Artigo 16.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Protocolos\n\n1 - Podem ser celebrados protocolos entre a Direcção-Geral dos Registos e do Notariado (DGRN) e os vários organismos da Administração Pública envolvidos no procedimento de constituição de sociedades com vista à definição dos procedimentos administrativos de comunicação de dados.\n\n2 - A DGRN pode ainda celebrar protocolos com a Direcção-Geral dos Impostos e com a Câmara dos Técnicos Oficiais de Contas com vista à definição dos procedimentos relativos ao preenchimento e entrega da declaração fiscal de início de actividade e posterior comprovação destes factos."
+  },
+  "50447075": {
+   "fragment_id": "35068375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30",
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27",
+    "Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "O desenvolvimento da competitividade da economia portuguesa é uma prioridade fundamental do XVII Governo Constitucional.\n\nTal pressupõe que se realize um forte esforço de eliminação de actos e práticas inúteis, evitando que os cidadãos e as empresas sejam onerados com actividades burocráticas que nada acrescentem e não constituem uma mais-valia. Para o efeito, os serviços do Estado devem oferecer uma resposta ágil, rápida e desburocratizada.\n\nNo processo de constituição de sociedades comerciais, a actividade do Estado deve limitar-se ao essencial para garantir a segurança da actividade das empresas e das transacções comerciais. A constituição de sociedades comerciais não deve ser permeável à existência de burocracias e actos enraizados pelas práticas e por métodos que não constituam um valor acrescentado em função da protecção daqueles valores. Por outras palavras, sendo o crescimento da actividade económica uma prioridade do XVII Governo Constitucional e assentando uma parcela muito relevante desse crescimento nas sociedades comerciais, há que garantir que o Estado não constitui um entrave ao dinamismo dos agentes económicos. Ao invés, o Estado tem de acompanhar a sua competitividade, garantindo as respostas que as empresas exigem.\n\nCumprindo estes objectivos e no sentido de impulsionar o desenvolvimento da economia nacional, o presente diploma concretiza o Programa de Governo, prevendo a possibilidade de criação de empresas «na hora» perante as conservatórias do registo comercial e os seus respectivos postos de atendimento nos centros de formalidades de empresas.\n\nOs interessados na constituição de uma sociedade comercial podem, assim, dirigir-se a uma destas conservatórias manifestando a intenção de constituir a empresa, bastando-lhes escolher uma das firmas pré-aprovadas à sua disposição e escolhendo o pacto ou acto constitutivo previamente aprovado e certificado pelos serviços de registos e notariado. A conservatória do registo comercial assegurará a comunicação e as formalidades subsequentes a todas as entidades que devam ser notificadas da constituição da sociedade, sem que os interessados fiquem onerados com tal tarefa, o que constitui um importante elemento de desburocratização e simplificação de processos administrativos, com as inerentes vantagens para o cidadão, para as empresas e para a própria Administração Pública.\n\nPela constituição destas sociedades será devida uma taxa inferior à que hoje impende perante os cidadãos e as empresas que adoptem a via tradicional. Por um lado, se o processo que agora se estabelece é mais simples, o preço deve ser menor. Por outro lado, o Estado assegura por esta via a competitividade nacional, pois o custo da criação de sociedades em Portugal passa assim a ser muito competitivo no contexto de um mercado aberto.\n\nFinalmente, o preço da constituição das sociedades cuja actividade principal seja classificada como «actividade informática ou conexa» ou como «actividade de investigação e desenvolvimento» é especialmente reduzido. Visa-se por esta via desenvolver uma opção estratégica fundamental do País: o desenvolvimento da economia nacional em torno do plano tecnológico e da investigação e desenvolvimento, garantindo o incentivo a estas áreas de desenvolvimento.\n\nForam promovidas as diligências necessárias à audição da Ordem dos Advogados, da Câmara dos Solicitadores e da Câmara dos Técnicos Oficiais de Contas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "50443375": {
+   "fragment_id": "36800175",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO regime previsto no presente diploma não é aplicável:\n\na) (Revogada).\n\nb) (Revogada).\n\nc) Às sociedades anónimas europeias.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "50443575": {
+   "fragment_id": "36800275",
+   "type": 11,
+   "heading": "Artigo 3.º — Pressupostos de aplicação",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 3.º — Pressupostos de aplicação\n\n1 - São pressupostos de aplicação do regime previsto no presente diploma:\n\na) A opção por pacto ou acto constitutivo de modelo aprovado pelo presidente do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.);\n\nb) Se o capital da sociedade for total ou parcialmente realizado mediante entradas em bens diferentes de dinheiro sujeitos a registo, os bens estiverem registados definitivamente em nome do sócio que os dá como entrada.\n\n2 - No caso previsto na alínea b) do número anterior, os serviços de registo devem verificar oficiosamente a titularidade dos bens, através do acesso directo às bases de dados respectivas.\n\n3 - É ainda pressuposto da aplicação do regime previsto no presente diploma a escolha da firma da sociedade através de uma das seguintes formas:\n\na) Aprovação no posto de atendimento;\n\nb) Escolha de firma constituída por expressão de fantasia previamente criada e reservada a favor do Estado, associada ou não à aquisição de uma marca previamente registada a favor do Estado;\n\nc) Apresentação de certificado de admissibilidade de firma.\n\n4 - A competência dos serviços de registo para a aprovação de firma referida na alínea a) do número anterior é atribuída por despacho do presidente do IRN, I. P.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50444075": {
+   "fragment_id": "36800375",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - O regime a que se refere o artigo 1.º é da competência das conservatórias do registo comercial, ou de quaisquer outros serviços desconcentrados do IRN, I. P., independentemente da localização da sede da sociedade a constituir.\n\n2 - Os interessados podem igualmente optar por promover o procedimento no posto de atendimento do registo comercial a funcionar junto dos centros de formalidades de empresas (CFE).\n\n3 - A competência prevista nos números anteriores abrange a tramitação integral do procedimento, incluindo a prática de todos os actos de registo comercial, predial ou de veículos efectuados em consequência do procedimento.\n\n4 - Os CFE podem adoptar as medidas necessárias para adequar as suas estruturas ao disposto no presente diploma, nomeadamente através de modificações ao respectivo manual de procedimentos.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "50441575": {
+   "fragment_id": "37548875",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Marcação prévia no caso de entradas em espécie",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 4.º-A — Marcação prévia no caso de entradas em espécie\n\nOs procedimentos de constituição imediata de sociedades em que o capital seja total ou parcialmente realizado mediante entradas em bens diferentes de dinheiro sujeitos a registo, podem ser realizados mediante agendamento da data da realização do negócio jurídico, nos termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.\n\n> Aditado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "50441675": {
+   "fragment_id": "36800475",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazo de tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prazo de tramitação\n\nOs serviços referidos no artigo anterior devem iniciar e concluir a tramitação do procedimento no mesmo dia, em atendimento presencial único."
+  },
+  "50441775": {
+   "fragment_id": "36800575",
+   "type": 11,
+   "heading": "Artigo 6.º — Início do procedimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 6.º — Início do procedimento\n\n1 - Os interessados na constituição da sociedade formulam o seu pedido junto do serviço competente, manifestando a sua opção pela firma ou firma e marca e pelo modelo de pacto ou acto constitutivo.\n\n2 - A prossecução do procedimento depende da verificação inicial da identidade, da capacidade e dos poderes de representação dos interessados para o acto.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50444375": {
+   "fragment_id": "36800675",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos a apresentar",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos a apresentar\n\n1 - Para o efeito da constituição da sociedade, os interessados devem apresentar os documentos comprovativos da sua identidade, capacidade e poderes de representação para o acto, bem como autorizações especiais que sejam necessárias.\n\n2 - Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis.\n\n3 - Sendo o capital total ou parcialmente realizado mediante entradas em bens diferentes de dinheiro, deve ser apresentado o relatório elaborado por um revisor oficial de contas sem interesses na sociedade, nos termos do artigo 28.º do Código das Sociedades Comerciais.\n\n4 - No caso de o capital social ser realizado mediante a entrada de imóveis, deve ser preferencialmente comprovada por acesso à base de dados, ou mediante a apresentação dos respectivos documentos pelos interessados:\n\na) A situação matricial do prédio;\n\nb) A existência ou dispensa de licença de utilização ou de licença de construção, quando exigível;\n\nc) A existência de ficha técnica do prédio, quando exigível;\n\nd) A inexistência de manifestação da intenção de exercer o direito de preferência legal por parte do Estado, Regiões Autónomas, municípios, outras pessoas colectivas públicas ou empresas públicas.\n\n5 - A mera referência à existência de licença de utilização ou o facto de que resulte a respectiva dispensa efectuada em caderneta predial, em base de dados de serviço da Administração Pública ou em documento autêntico, constitui prova bastante para os efeitos do disposto na alínea b) do número anterior.\n\n6- Os interessados podem proceder à entrega imediata da declaração de início de actividade para efeitos fiscais.\n\n7 - Caso não procedam à entrega do documento referido no número anterior, os interessados são advertidos de que o devem fazer no serviço competente, no prazo legalmente fixado para o efeito.\n\n8 - Os serviços fiscais devem notificar por via electrónica os serviços da segurança social dos elementos relativos ao início da actividade.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "50444675": {
+   "fragment_id": "36800775",
+   "type": 11,
+   "heading": "Artigo 8.º — Sequência do procedimento",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14",
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+   ],
+   "markdown": "###### Artigo 8.º — Sequência do procedimento\n\n1 - Efectuada a verificação inicial da identidade, da capacidade e dos poderes de representação dos interessados para o acto, bem como a regularidade dos documentos apresentados, o serviço competente procede aos seguintes actos, pela ordem indicada:\n\na) Cobrança dos encargos que se mostrem devidos;\n\nb) Promoção da liquidação do IMT, nos termos declarados pelo contribuinte, e de outros impostos que se mostrem devidos, tendo em conta os negócios jurídicos a celebrar, assegurando o seu pagamento prévio à celebração do negócio jurídico;\n\nc) Aprovação de firma nos termos da alínea a) do n.º 3 do artigo 3.º ou afectação, por via informática e a favor da sociedade a constituir, da firma escolhida ou da firma e marca escolhidas e do número de identificação de pessoa colectiva (NIPC) associado à firma nos casos previstos na alínea b) do n.º 3 do artigo 3.º;\n\nd) Preenchimento do pacto ou acto constitutivo, por documento particular, de acordo com o modelo previamente escolhido, nos termos das indicações dos interessados;\n\ne) Reconhecimento presencial das assinaturas dos intervenientes no acto, apostas no pacto ou acto constitutivo;\n\nf) Anotação de apresentação dos pedidos verbais de registo nos respectivos diários;\n\ng) Registo de constituição de sociedade e de outros factos sujeitos a registo comercial, predial e de veículos a serem efectuados em consequência do procedimento;\n\nh) Comunicação automática e electrónica da constituição da sociedade ao ficheiro central de pessoas colectivas e, se for o caso, codificação da actividade económica (CAE);\n\ni) Disponibilização imediata do cartão electrónico da empresa mediante a atribuição de código de acesso, bem como comunicação aos interessados do número de identificação da sociedade na segurança social;\n\nj) Sendo caso disso, completamento da declaração de início de actividade, para menção da firma, NIPC e CAE.\n\n2 - A atribuição de firma referida na primeira parte da alínea c) do número anterior ocorre com a aprovação da primeira das firmas requeridas que for viável.\n\n3 - A realização dos actos previstos no n.º 1 é da competência do conservador e dos oficiais de registo, com excepção dos actos que envolvam entradas em imóveis que são da competência do conservador, sem prejuízo da possibilidade de delegação em oficial de registo.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+  },
+  "50444875": {
+   "fragment_id": "36800875",
+   "type": 11,
+   "heading": "Artigo 9.º — Recusa de titulação",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 9.º — Recusa de titulação\n\n1 - O conservador deve recusar a realização do acto previsto na alínea d) do n.º 1 do artigo anterior sempre que verifique a existência de omissões, vícios ou deficiências que afectem a formação e exteriorização da vontade dos intervenientes no acto ou nos documentos que devam instruir e que obstem à realização, com carácter definitivo, do registo da constituição de sociedade ou de qualquer outro registo incluído no procedimento, bem como quando, em face das disposições legais aplicáveis, o acto não seja viável.\n\n2 - O conservador deve ainda recusar a realização do acto previsto na alínea d) do n.º 1 do artigo anterior quando o acto seja anulável ou ineficaz.\n\n3 - Em caso de recusa, se o interessado declarar, oralmente ou por escrito, que pretende impugnar o respectivo acto, o conservador deve lavrar despacho especificando os fundamentos respectivos.\n\n4 - À recusa de titulação é aplicável o regime de impugnação previsto nos artigos 98.º e seguintes do Código do Registo Comercial.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "50445475": {
+   "fragment_id": "36800975",
+   "type": 11,
+   "heading": "Artigo 10.º — Aditamentos à firma e número de matrícula",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 10.º — Aditamentos à firma e número de matrícula\n\n1 - Nos casos previstos na alínea b) do n.º 3 do artigo 3.º, o serviço competente deve completar a composição da firma com os aditamentos legalmente impostos assim como com qualquer expressão alusiva ao objecto social que os interessados optem por inserir entre a expressão de fantasia escolhida e os referidos aditamentos.\n\n2 - O número de matrícula das sociedades constituídas ao abrigo do presente diploma corresponde ao número de identificação de pessoa colectiva.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "50445575": {
+   "fragment_id": "36801075",
+   "type": 11,
+   "heading": "Artigo 11.º — Caducidade do direito ao uso da firma",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 11.º — Caducidade do direito ao uso da firma\n\nA não conclusão do procedimento no prazo previsto no artigo 5.º por facto imputável aos interessados determina a caducidade do direito ao uso da firma, ou da firma e marca escolhidas afectas à sociedade a constituir, nos termos da alínea c) do n.º 1 do artigo 8.º\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50445775": {
+   "fragment_id": "36801175",
+   "type": 11,
+   "heading": "Artigo 12.º — Documentos a disponibilizar à sociedade",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 12.º — Documentos a disponibilizar à sociedade\n\n1 - Concluído o procedimento de constituição da sociedade, o serviço competente entrega de imediato aos representantes da sociedade, a título gratuito:\n\na) Uma certidão do pacto ou acto constitutivo do registo deste último;\n\nb) Sendo caso disso, disponibilização online das certidões de registo a que haja lugar através da atribuição do código de acesso e promoção da emissão do certificado de matrícula;\n\nc) O recibo comprovativo do pagamento dos encargos devidos;\n\nd) Caso tenha havido aquisição de marca registada, documento comprovativo dessa aquisição, em modelo aprovado pelo Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.).\n\n2 - Nos casos previstos na alínea d) do número anterior, é dispensado o documento escrito e assinado pelas partes, previsto no n.º 6 do artigo 31.º do Código da Propriedade Industrial, e não há lugar à emissão do título de concessão previsto no artigo 27.º do mesmo diploma.\n\n3 - O serviço procede ainda ao envio posterior do cartão da empresa a título gratuito.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50445875": {
+   "fragment_id": "36801275",
+   "type": 11,
+   "heading": "Artigo 13.º — Diligências subsequentes à conclusão do procedimento",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 13.º — Diligências subsequentes à conclusão do procedimento\n\n1 - Após a conclusão do procedimento de constituição da sociedade, o serviço competente, no prazo de vinte e quatro horas:\n\na) Promove as publicações legais;\n\nb) Remete a declaração de início de actividade ao serviço fiscal competente;\n\nc) Disponibiliza aos serviços competentes, por meios informáticos, os dados necessários para efeitos de comunicação do início de actividade da sociedade à Inspecção-Geral do Trabalho, bem como os dados necessários à inscrição oficiosa da sociedade nos serviços da segurança social e, quando for o caso, no cadastro comercial;\n\nd) Caso tenha havido aquisição de marca registada, comunica ao INPI, I. P., por meios informáticos, a transmissão da mesma, para que se proceda à sua inscrição oficiosa no processo de registo, e ao RNPC para efeitos de dispensa da prova prevista no n.º 6 do artigo 33.º do regime do RNPC;\n\ne) Promove as restantes diligências que venham ser fixadas por via regulamentar ou protocolar.\n\n2 - No mesmo prazo, o serviço que conduziu o procedimento deve remeter a pasta da sociedade à conservatória do registo comercial da área da respectiva sede.\n\n3 - O envio previsto no número anterior só ocorre quando não existam condições que garantam o acesso à informação sobre a sociedade por via electrónica.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "50446075": {
+   "fragment_id": "36801375",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 14.º — Encargos\n\n1 - Pelo procedimento de constituição de sociedade regulado no presente diploma são devidos encargos relativos:\n\na) Aos emolumentos previstos no Regulamento Emolumentar dos Registos e do fNotariado;\n\nb) Ao imposto do selo, nos termos da Tabela respectiva;\n\nc) (Revogada).\n\nd) Ao Imposto Municipal sobre Transmissões Onerosas de Imóveis, nos termos declarados pelo contribuinte, e outros impostos que se mostrem devidos, tendo em conta os negócios jurídicos a celebrar, devendo ser assegurado o seu pagamento prévio à celebração do negócio jurídico, sem prejuízo do disposto na alínea b);\n\ne) Às taxas previstas em portaria do membro do Governo responsável pela área da justiça, caso tenha havido aquisição de marca registada.\n\n2 - O Estado goza de isenção do pagamento das taxas devidas pela prática de actos junto do INPI, ao abrigo do presente diploma.\n\n3 - Sem prejuízo do disposto no artigo 11.º, não são devidos quaisquer encargos pela recusa de titulação e de registo, procedendo-se nesses casos à devolução de todas as quantias cobradas pelo procedimento de constituição de sociedades regulado neste diploma.\n\n4 - Pelo procedimento de constituição de sociedades regulado neste diploma não são devidos emolumentos pessoais.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50446175": {
+   "fragment_id": "36801475",
+   "type": 11,
+   "heading": "Artigo 15.º — Bolsas de firmas e de marcas",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 15.º — Bolsas de firmas e de marcas\n\n1 - É criada pelo RNPC uma bolsa de firmas reservadas a favor do Estado, compostas por expressão de fantasia e às quais está associado um NIPC, independentemente da localização da sede da sociedade, para o efeito de afectação exclusiva às sociedades a constituir no âmbito do presente diploma.\n\n2 - É criada pelo RNPC e pelo INPI uma bolsa de firmas reservadas e de marcas registadas a favor do Estado, compostas por expressões de fantasia e às quais está associado um NIPC e um número de processo de marca, independentemente da localização da sede da sociedade, para o efeito de afectação às sociedades a constituir no âmbito do presente diploma.\n\n3 - As marcas constantes da bolsa referida no número anterior são registadas a favor do Estado, representado pelo RNPC, para os produtos e serviços definidos por despacho conjunto do presidente do IRN, I. P., e do presidente do conselho de administração do INPI.\n\n4 - Até à sua afectação nos termos da segunda parte da alínea c) do n.º 1 do artigo 8.º, as firmas constantes das bolsas referidas nos n.os 1 e 2 gozam de protecção em todo o território nacional.\n\n5 - O recurso à bolsa referida no n.º 2 pressupõe a adopção conjunta das firmas e marcas que se encontram reciprocamente associadas.\n\n6 - A dependência prevista no número anterior cessa com a conclusão do procedimento de constituição imediata da sociedade, momento a partir do qual a firma e a marca passam a vigorar autonomamente.\n\n7 - A reserva a favor do Estado das firmas constantes das bolsas referidas nos n.os 1 e 2 confere o direito à sua exclusividade em todo o território nacional.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50446975": {
+   "fragment_id": "37545275",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Declaração de intenção de uso",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+   ],
+   "markdown": "###### Artigo 15.º-A — Declaração de intenção de uso\n\nOs titulares das marcas transmitidas através do presente regime estão dispensados da apresentação da primeira declaração de intenção de uso, prevista no n.º 1 do artigo 256.º do Código da Propriedade Industrial.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27"
+  },
+  "50442875": {
+   "fragment_id": "36801575",
+   "type": 11,
+   "heading": "Artigo 16.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Protocolos\n\n1 - Podem ser celebrados protocolos entre a Direcção-Geral dos Registos e do Notariado (DGRN) e os vários organismos da Administração Pública envolvidos no procedimento de constituição de sociedades com vista à definição dos procedimentos administrativos de comunicação de dados.\n\n2 - A DGRN pode ainda celebrar protocolos com a Direcção-Geral dos Impostos e com a Câmara dos Técnicos Oficiais de Contas com vista à definição dos procedimentos relativos ao preenchimento e entrega da declaração fiscal de início de actividade e posterior comprovação destes factos."
+  },
+  "50446675": {
+   "fragment_id": "36802675",
+   "type": 11,
+   "heading": "Artigo 27.º — Período experimental",
+   "in_force_from": "2008-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 27.º — Período experimental\n\n1 - A partir da data de entrada em vigor do presente diploma e por um período a fixar por portaria conjunta do Ministro de Estado e da Administração Interna, do Ministro da Justiça e do Ministro da Economia e da Inovação, o regime especial de constituição imediata de sociedades funciona a título experimental nas Conservatórias do Registo Comercial de Aveiro, Coimbra, Moita e Barreiro e nos postos de atendimento do registo comercial junto dos CFE de Aveiro e Coimbra.\n\n2 - Durante o período experimental referido no número anterior não é permitido aos interessados requerer a constituição de sociedades utilizando certificado de admissibilidade de firma emitido pelo RNPC, nos termos previstos na parte final da alínea a) do artigo 3.º\n\n3 - Decorrido o período experimental previsto no n.º 1, a extensão do regime a outros serviços depende:\n\na) Do despacho conjunto referido no n.º 1 do artigo 25.º, quanto a outros CFE;\n\nb) De despacho do presidente do IRN, I. P., quanto a serviços dependentes do IRN, I. P., não integrados nos CFE.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  },
+  "50449975": {
+   "fragment_id": "35068375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2010-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30",
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27",
+    "Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2010-344272), em vigor a partir de 2010-10-01"
+   ],
+   "markdown": "O desenvolvimento da competitividade da economia portuguesa é uma prioridade fundamental do XVII Governo Constitucional.\n\nTal pressupõe que se realize um forte esforço de eliminação de actos e práticas inúteis, evitando que os cidadãos e as empresas sejam onerados com actividades burocráticas que nada acrescentem e não constituem uma mais-valia. Para o efeito, os serviços do Estado devem oferecer uma resposta ágil, rápida e desburocratizada.\n\nNo processo de constituição de sociedades comerciais, a actividade do Estado deve limitar-se ao essencial para garantir a segurança da actividade das empresas e das transacções comerciais. A constituição de sociedades comerciais não deve ser permeável à existência de burocracias e actos enraizados pelas práticas e por métodos que não constituam um valor acrescentado em função da protecção daqueles valores. Por outras palavras, sendo o crescimento da actividade económica uma prioridade do XVII Governo Constitucional e assentando uma parcela muito relevante desse crescimento nas sociedades comerciais, há que garantir que o Estado não constitui um entrave ao dinamismo dos agentes económicos. Ao invés, o Estado tem de acompanhar a sua competitividade, garantindo as respostas que as empresas exigem.\n\nCumprindo estes objectivos e no sentido de impulsionar o desenvolvimento da economia nacional, o presente diploma concretiza o Programa de Governo, prevendo a possibilidade de criação de empresas «na hora» perante as conservatórias do registo comercial e os seus respectivos postos de atendimento nos centros de formalidades de empresas.\n\nOs interessados na constituição de uma sociedade comercial podem, assim, dirigir-se a uma destas conservatórias manifestando a intenção de constituir a empresa, bastando-lhes escolher uma das firmas pré-aprovadas à sua disposição e escolhendo o pacto ou acto constitutivo previamente aprovado e certificado pelos serviços de registos e notariado. A conservatória do registo comercial assegurará a comunicação e as formalidades subsequentes a todas as entidades que devam ser notificadas da constituição da sociedade, sem que os interessados fiquem onerados com tal tarefa, o que constitui um importante elemento de desburocratização e simplificação de processos administrativos, com as inerentes vantagens para o cidadão, para as empresas e para a própria Administração Pública.\n\nPela constituição destas sociedades será devida uma taxa inferior à que hoje impende perante os cidadãos e as empresas que adoptem a via tradicional. Por um lado, se o processo que agora se estabelece é mais simples, o preço deve ser menor. Por outro lado, o Estado assegura por esta via a competitividade nacional, pois o custo da criação de sociedades em Portugal passa assim a ser muito competitivo no contexto de um mercado aberto.\n\nFinalmente, o preço da constituição das sociedades cuja actividade principal seja classificada como «actividade informática ou conexa» ou como «actividade de investigação e desenvolvimento» é especialmente reduzido. Visa-se por esta via desenvolver uma opção estratégica fundamental do País: o desenvolvimento da economia nacional em torno do plano tecnológico e da investigação e desenvolvimento, garantindo o incentivo a estas áreas de desenvolvimento.\n\nForam promovidas as diligências necessárias à audição da Ordem dos Advogados, da Câmara dos Solicitadores e da Câmara dos Técnicos Oficiais de Contas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 318/2007 - Diário da República n.º 186/2007, Série I de 2007-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), em vigor a partir de 2007-09-27\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2010-344272), em vigor a partir de 2010-10-01"
+  },
+  "50449875": {
+   "fragment_id": "36801075",
+   "type": 11,
+   "heading": "Artigo 11.º — Caducidade do direito ao uso da firma",
+   "in_force_from": "2010-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2010-344272), em vigor a partir de 2010-10-01",
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+   ],
+   "markdown": "###### Artigo 11.º — Caducidade do direito ao uso da firma\n\nA não conclusão do procedimento no prazo previsto no artigo 5.º por facto imputável aos interessados, determina a caducidade do direito ao uso da firma, ou da firma e marcas escolhidas afectas à sociedade a constituir, nos termos da alínea c) do n.º 1 do artigo 8.º, não conferindo o direito à restituição dos encargos cobrados.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2010-344272), em vigor a partir de 2010-10-01\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 125/2006 - Diário da República n.º 124/2006, Série I-A de 2006-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), em vigor a partir de 2006-07-14"
+  },
+  "50450175": {
+   "fragment_id": "36800675",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos a apresentar",
+   "in_force_from": "2011-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 33/2011 - Diário da República n.º 46/2011, Série I de 2011-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2011-279421), em vigor a partir de 2011-04-06",
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos a apresentar\n\n1 - Para o efeito da constituição da sociedade, os interessados devem apresentar os documentos comprovativos da sua identidade, capacidade e poderes de representação para o acto, bem como autorizações especiais que sejam necessárias.\n\n2 - Caso ainda não haja sido efectuado, os sócios devem declarar, sob sua responsabilidade, que o depósito das entradas em dinheiro é realizado no prazo de cinco dias úteis ou, nos casos e termos em que a lei o permite, que as respectivas entradas em dinheiro são entregues nos cofres da sociedade, até ao final do primeiro exercício económico.\n\n3 - Sendo o capital total ou parcialmente realizado mediante entradas em bens diferentes de dinheiro, deve ser apresentado o relatório elaborado por um revisor oficial de contas sem interesses na sociedade, nos termos do artigo 28.º do Código das Sociedades Comerciais.\n\n4 - No caso de o capital social ser realizado mediante a entrada de imóveis, deve ser preferencialmente comprovada por acesso à base de dados, ou mediante a apresentação dos respectivos documentos pelos interessados:\n\na) A situação matricial do prédio;\n\nb) A existência ou dispensa de licença de utilização ou de licença de construção, quando exigível;\n\nc) A existência de ficha técnica do prédio, quando exigível;\n\nd) A inexistência de manifestação da intenção de exercer o direito de preferência legal por parte do Estado, Regiões Autónomas, municípios, outras pessoas colectivas públicas ou empresas públicas.\n\n5 - A mera referência à existência de licença de utilização ou o facto de que resulte a respectiva dispensa efectuada em caderneta predial, em base de dados de serviço da Administração Pública ou em documento autêntico, constitui prova bastante para os efeitos do disposto na alínea b) do número anterior.\n\n6- Os interessados podem proceder à entrega imediata da declaração de início de actividade para efeitos fiscais.\n\n7 - Caso não procedam à entrega do documento referido no número anterior, os interessados são advertidos de que o devem fazer no serviço competente, no prazo legalmente fixado para o efeito.\n\n8 - Os serviços fiscais devem notificar por via electrónica os serviços da segurança social dos elementos relativos ao início da actividade.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 33/2011 - Diário da República n.º 46/2011, Série I de 2011-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2011-279421), em vigor a partir de 2011-04-06\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 247-B/2008 - Diário da República n.º 251/2008, Suplemento n.º 1, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), em vigor a partir de 2008-12-31"
+  }
+ }
+}

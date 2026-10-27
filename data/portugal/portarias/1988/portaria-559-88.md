@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: pt:dre:377080:por
+title: Portaria n.º 559/88
+short_title: null
+summary: Organiza em ramos o curso de licenciatura em Comunicação Social da Faculdade de Ciências Sociais e Humanas da Universidade
+  Nova de Lisboa e aprova o respectivo plano de estudos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 559/88
+official_date: null
+publication_date: '1988-08-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1988, Série I de 1988-08-17
+  number: '189'
+  series: I
+  supplement: null
+  pages: 3416 - 3418
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/08/18900/34163418.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '377080'
+  dre_path: /dr/detalhe/portaria/559-1988-377080
+  internal: pt:dre:377080:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-1988-377080
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-1988-377080
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:33:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 85974e48e9aa05f43789b764c14a0dc06b399ca6f0fced4ae429e33cfe9c761d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:33:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Curso de Comunicação Social
+- Ensino Superior
+- Faculdade de Ciências Sociais e Humanas
+- Licenciatura
+- Plano de Estudos
+- Universidade NOVA de Lisboa
+relationships:
+- type: amended_by
+  target: pt:dre:508448:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:283167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497469:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:33:51Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 559/88
+
+de 17 de Agosto
+
+Sob proposta da Universidade Nova de Lisboa;
+
+Na sequência da [Portaria n.º 853/87](https://diariodarepublica.pt/dr/detalhe/portaria/853-1987-497469), de 4 de Novembro, alterada pela [Portaria n.º 100/88](https://diariodarepublica.pt/dr/detalhe/portaria/100-1988-283167), de 11 de Fevereiro;
+
+Ao abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º
+
+Alterações
+
+1 - A alínea c) do n.º 1.º da [Portaria n.º 853/87](https://diariodarepublica.pt/dr/detalhe/portaria/853-1987-497469), de 4 de Novembro, alterada pela [Portaria n.º 100/88](https://diariodarepublica.pt/dr/detalhe/portaria/100-1988-283167), de 11 de Fevereiro, passa a ter a seguinte redacção:
+
+c) Comunicação Social, nos ramos de:
+
+I) Áudio-Visual;
+
+II) Comunicação Social;
+
+III) Jornalismo.
+
+2 - A alínea c) do n.º 1 do n.º 3.º da [Portaria n.º 853/87](https://diariodarepublica.pt/dr/detalhe/portaria/853-1987-497469) passa a ter a seguinte redacção:
+
+a) Comunicação Social, nos ramos de:
+
+I) Áudio-Visual: quatro anos (parte escolar) e estágio;
+
+II) Comunicação Social: quatro anos (parte escolar) e estágio;
+
+III) Jornalismo: quatro anos (parte escolar) e estágio.
+
+3 - O n.º 1 do n.º 11.º da [Portaria n.º 853/87](https://diariodarepublica.pt/dr/detalhe/portaria/853-1987-497469) passa a ter a seguinte redacção:
+
+1 - A classificação final de cada curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o respectivo plano de estudos e da classificação do trabalho final no caso dos cursos de Filosofia e Comunicação Social.
+
+4 - O anexo II da [Portaria n.º 853/87](https://diariodarepublica.pt/dr/detalhe/portaria/853-1987-497469) passa a ter a redacção do anexo à presente portaria.
+
+2.º
+
+Acesso aos ramos da licenciatura em Comunicação Social
+
+1 - A inscrição nos ramos está sujeita a limitações quantitativas a fixar anualmente por despacho do reitor, sob proposta do conselho científico.
+
+2 - Se num determinado ano o número de alunos que se pretende inscrever num ramo for inferior a quinze, esse ramo não poderá abrir inscrições nesse ano.
+
+3 - Aos alunos admitidos à inscrição no curso é assegurada sempre a inscrição num dos ramos.
+
+4 - Podem concorrer à inscrição em cada um dos ramos os estudantes inscritos no 2.º ano que reúnam as condições de transição para o 3.º ano.
+
+5 - As regras e prazos de candidatura e de selecção para a inscrição nos ramos serão fixados por despacho do reitor, sob proposta do conselho científico.
+
+6 - Os despachos a que se referem os n.os 1 e 5 serão objecto de publicação na 2.ª série do Diário da República e de afixação pública na Universidade com a antecedência de, respectivamente, um mês antes da data de candidatura e seis meses antes do início do ano lectivo a que dizem respeito.
+
+3.º
+
+Entrada em funcionamento
+
+A entrada em funcionamento das alterações aprovadas pela presente portaria ficará dependente de autorização expressa do reitor, exarada sobre relatório fundamentado dos conselhos científico e directivo da faculdade comprovativo da existência na mesma dos recursos humanos e materiais necessários à sua concretização.
+
+Ministério da Educação.
+
+Assinada em 18 de Julho de 1988.
+
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/18900/34163418.pdf)

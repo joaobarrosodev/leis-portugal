@@ -1,0 +1,112 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553023:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-200137956",
+ "dre_path": "/dr/detalhe/portaria/119-2012-553023",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "200198148",
+    "200198141",
+    "200198142",
+    "200198143"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:177811:por",
+     "title": "Declaração de Retificação n.º 27/2012",
+     "published": "2012-05-30",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/27-2012-177811",
+     "date": "2012-05-01"
+    }
+   ]
+  },
+  {
+   "date": "2012-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:200139612:por",
+     "title": "Portaria n.º 212/2022",
+     "published": "2022-08-23",
+     "dre_path": "/dr/detalhe/portaria/212-2022-200139612"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "200198140",
+    "200198147",
+    "200198142",
+    "200198143",
+    "200198144"
+   ]
+  }
+ ],
+ "fragments": {
+  "200198148": {
+   "fragment_id": "200137957",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2012-08-24",
+   "changed_by": [],
+   "markdown": "Portaria n.º 119/2012\n\nde 30 de abril\n\nNos termos do n.º 5 do artigo 4.º do Decreto-Lei n.º 12/2004, de 9 de janeiro, alterado pelo Decreto-Lei n.º 69/2911 de 15 junho, as habilitações nas várias categorias e subcategorias contidas nos alvarás das empresas de construção são atribuídas por classes, de acordo com o valor dos trabalhos que os seus titulares ficam habilitados a realizar, fixados anualmente por portaria do membro do Governo responsável pelo sector da construção, sob proposta apresentada anualmente pelo Instituto da Construção e do Imobiliário.\n\nTendo em conta a atual situação económica do sector, os valores das obras correspondentes a cada uma das classes, constantes da Portaria n.º 57/2011, de 28 de janeiro, mantêm-se inalterados na presente portaria.\n\nAssim:\n\nAo abrigo do disposto no n.º 5 do artigo 4.º do Decreto-Lei n.º 12/2004, de 9 de janeiro, na redação que lhe foi dada pelo Decreto-Lei n.º 69/2011, de 15 de junho, manda o Governo, pelo Secretário de Estado das Obras Públicas, Transportes e Comunicações, o seguinte:\n\n> Nota: [Declaração de Retificação n.º 25/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2012-177862) O emissor da presente portaria é o MINISTÉRIO DA ECONOMIA E DO EMPREGO e não o MINISTÉRIO DA AGRICULTURA, DO MAR, DO AMBIENTE E DO ORDENAMENTO DO TERRITÓRIO."
+  },
+  "200198141": {
+   "fragment_id": "200137958",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs classes de habilitações contidas nos alvarás das empresas de construção, bem como os valores máximos de obra que cada uma delas permite realizar, são fixados no quadro seguinte:\n\n(ver documento original)"
+  },
+  "200198142": {
+   "fragment_id": "200137959",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ revogada a portaria n.º 57/2011, de 28 de janeiro."
+  },
+  "200198143": {
+   "fragment_id": "200137960",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "200198140": {
+   "fragment_id": "200137957",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 119/2012\n\nde 30 de abril\n\nNos termos do n.º 5 do artigo 4.º do Decreto-Lei n.º 12/2004, de 9 de janeiro, alterado pelo Decreto-Lei n.º 69/2911 de 15 junho, as habilitações nas várias categorias e subcategorias contidas nos alvarás das empresas de construção são atribuídas por classes, de acordo com o valor dos trabalhos que os seus titulares ficam habilitados a realizar, fixados anualmente por portaria do membro do Governo responsável pelo sector da construção, sob proposta apresentada anualmente pelo Instituto da Construção e do Imobiliário.\n\nTendo em conta a atual situação económica do sector, os valores das obras correspondentes a cada uma das classes, constantes da Portaria n.º 57/2011, de 28 de janeiro, mantêm-se inalterados na presente portaria.\n\nAssim:\n\nAo abrigo do disposto no n.º 5 do artigo 4.º do Decreto-Lei n.º 12/2004, de 9 de janeiro, na redação que lhe foi dada pelo Decreto-Lei n.º 69/2011, de 15 de junho, manda o Governo, pelo Secretário de Estado das Obras Públicas, Transportes e Comunicações, o seguinte:\n\n> Nota: [Declaração de Retificação n.º 25/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2012-177862) O emissor da presente portaria é o MINISTÉRIO DA ECONOMIA E DO EMPREGO e não o MINISTÉRIO DA AGRICULTURA, DO MAR, DO AMBIENTE E DO ORDENAMENTO DO TERRITÓRIO."
+  },
+  "200198147": {
+   "fragment_id": "200137958",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2012-05-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 27/2012 - Diário da República n.º 105/2012, Série I de 2012-05-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/27-2012-177811), em vigor a partir de 2012-05-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\nAs classes de habilitações contidas nos alvarás das empresas de construção, bem como os valores máximos de obra que cada uma delas permite realizar, são fixados no quadro seguinte:\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração de Retificação n.º 27/2012 - Diário da República n.º 105/2012, Série I de 2012-05-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/27-2012-177811), em vigor a partir de 2012-05-01"
+  },
+  "200198144": {
+   "fragment_id": "200137961",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 23 de abril de 2012."
+  }
+ }
+}

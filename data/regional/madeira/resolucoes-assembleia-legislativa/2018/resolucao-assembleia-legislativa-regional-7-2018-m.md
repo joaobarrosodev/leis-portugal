@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:114771735:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 7/2018/M
+short_title: null
+summary: Recomenda ao Governo da República o reconhecimento da síndrome de Burnout como acidente de trabalho
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 7/2018/M
+official_date: null
+publication_date: '2018-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/2018, Série I de 2018-02-27
+  number: '41'
+  series: I
+  supplement: null
+  pages: 1091 - 1093
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/02/04100/0109101093.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/7/2018/02/27/m/dre/pt/html
+  oj: null
+  dre: '114771735'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/7-2018-114771735
+  internal: pt:dre:114771735:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/7-2018-114771735
+  metadata_url: https://data.dre.pt/eli/resolalram/7/2018/02/27/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/7-2018-114771735
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:52:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6d185ed0fd0515d97d1901f4f8a3bee528d3684f70e443dfdfa4bc55b70c534c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acidente de Trabalho
+- Doença Profissional
+- Madeira.região Autónoma
+- Recomendação
+- Segurança no Trabalho
+- Serviço Nacional de Saúde
+relationships:
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:52:46Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 7/2018/M
+
+Reconhecimento da síndrome de Burnout como acidente de trabalho
+
+A saúde de um trabalhador é um bem fundamental e irrefutável, tanto para o próprio, enquanto indivíduo, como para o profissional e para o cooperante do sistema socioeconómico, influenciando o seu desempenho e tendo consequências na empresa ou serviço onde se insere.
+
+Não obstante toda a legislação que abrange os trabalhadores e as suas garantias Constitucionais, hoje em dia, constata-se que estes são acometidos cada vez mais, por doenças do foro psicológico e emocional, ou seja, doenças não visíveis. São doenças que decorrem de uma grande pressão, levando-os ao limite da suportabilidade psicológica, que muitas vezes se confundem com depressão, stress ou outra doença de natureza psicológica. Uma delas é a síndrome de Burnout, e que tem nexo causal com o ambiente de trabalho adverso ou hostil, e que, à semelhança de outras doenças profissionais, importa enquadrar juridicamente. A identificação e classificação desta doença é da autoria do psicanalista Freudenberger, na década de 1970, classificando-a distintamente de outras doenças, pois resulta exclusivamente do contexto e ambiente de trabalho, devendo, assim, integrar, juridicamente, as doenças profissionais.
+
+Burnout, é um termo usado em países de língua inglesa para definir um estado de esgotamento completo da energia do indivíduo («combustão total»), associado a uma intensa frustração e insatisfação com o trabalho, incorrendo mesmo em altos índices de suicídio. Para alguns autores esta síndrome resume-se à própria exaustão emocional, resultando de stress intenso, mas que não pode ser confundida com o stress crónico. Esta confusão é comum, mas a diferenciação faz-se pelo facto do trabalhador com síndrome de Burnout poder possuir condições físicas para desempenhar as suas funções, apesar de alguma indiferença e do esgotamento psicológico. Esta síndrome determina também a diminuição da realização pessoal, acompanhada de sentimentos de incompetência e de fracasso profissional. Alguns autores definem-na como «Uma síndrome multidimensional constituída por exaustão emocional, desumanização e reduzida realização pessoal no trabalho. O Burnout é a maneira encontrada de enfrentar, mesmo que de forma inadequada, a cronicidade do stress ocupacional e sobrevém quando falham outras estratégias para lidar com o stress».
+
+Estas pessoas acusam alterações no seu padrão comportamental e uma grande instabilidade emocional, despersonalização, indiferença, mudanças súbitas de rotina, irritabilidade entre outras psicossomatizações da doença (como cefaleias, mialgias, perturbações gastrointestinais, distúrbios do sono, falta de concentração e de memória, desconfiança e paranoia, irritabilidade, enxaqueca, cansaço, sudorese, palpitação, pressão alta, dores musculares, insónia, crises de asma etc.), causadas pelo trabalho.
+
+O direito ao trabalho incorpora não só matérias em torno da insalubridade e periculosidade, mas também da qualidade do ambiente de trabalho. A síndrome de Burnout ocorre exclusivamente no contexto de trabalho, afetando a saúde nos mais diversos aspetos, merecendo uma maior atenção por parte dos empregadores e dos governantes, por forma a que, além do estabelecimento do tratamento requerido, também se adote uma política de prevenção e de acompanhamento, pelo que este tema deve ser abordado não só do ponto de vista clínico mas também do ponto de vista jurídico no que concerne à saúde do trabalhador, demonstrando que o bem estar psicológico do trabalhador, pode ser condicionado pelo trabalho e até pela entidade empregadora, colidindo com o princípio da dignidade humana.
+
+Tanto as empresas privadas como públicas, através da medicina do trabalho, devem empenhar-se em promover a saúde e integridade do trabalhador, e, particularmente, no que concerne à síndrome de Burnout, promovendo ações de reabilitação, e processos paliativos e preventivos, tendo em conta algumas das suas causas como o são ambientes de trabalho que desestabilizam o funcionário, ou o estabelecimento de metas impossíveis de atingir, e que lhe são exigidas, ou à grande competitividade do mercado de trabalho e meio laboral. Esta síndrome pode manifestar-se em diferentes graus, e também diferir na frequência, na intensidade, sendo muitas vezes um processo gradual e cumulativo, como «um copo de água que vai enchendo gota a gota e que, a certo momento, transborda».
+
+Afeta vários e distintos grupos de profissionais, mas incide sobretudo nas profissões que se centram na prestação de serviços a pacientes ou no contacto direto com pessoas a quem se destina esse trabalho. São exemplo, professores, bancários, médicos, enfermeiros, polícias, bombeiros, assistentes sociais, motoristas de autocarros, operadores de call centers, entre outros.
+
+Por exemplo, um grande número de médicos e enfermeiros são afetados pela síndrome de Burnout. Estima-se mesmo que sejam mais de metade os afetados deste grupo profissional.
+
+Em Portugal, foram inquiridos, num estudo levado a cabo pelo ISPA (Instituto Superior de Psicologia Aplicada), 1262 enfermeiros e 466 médicos entre 2011 e 2013 e chegou-se à conclusão que pelo menos 20 % destes profissionais exibem sintomas moderados desta síndrome, enquanto 47,8 % exibiam níveis Burnout muito elevados. Num outro estudo revelado pela Academia Americana de Cirurgiões Ortopédicos, em 2011, apontava para 87 % de mais de dois mil médicos inquiridos a sentirem-se severamente stressados, afetando sobretudo os profissionais mais jovens e os enfermeiros. O trabalho por turnos poderá ser potenciador desta síndrome, pois alguns estendem-se por 24 horas, ou mais, e a não realização no trabalho, expectativas defraudadas, esgotamento, inquietação, frustração, condições de precariedade laboral, falta de meios técnicos e humanos para a execução de tarefas, medo de ser despedido, etc., são outros dos fatores que intensificam e desencadeiam esta patologia.
+
+Este estado altera mesmo a relação médico-doente ou enfermeiro-doente, e tem repercussões na qualidade dos cuidados de saúde prestados aos pacientes, pelo que esta situação pode colidir com o enquadramento jurídico que defende a promoção da segurança e da saúde no trabalho, à semelhança de outras doenças e grupos profissionais específicos, onde se contempla juridicamente a vigilância da saúde e a garantia de prestação de serviços de saúde primários por profissionais habilitados.
+
+Esta síndrome afeta também particularmente, a classe docente, caracterizando-se, nestes profissionais, por um estado de exaustão prolongada e diminuição do interesse pelo trabalho, requerendo o seu acompanhamento multidisciplinar, por forma a combater a síndrome e as suas sequelas, nos próprios, nos alunos, nos locais de trabalho e na sociedade. Pois esta doença acarreta não só grandes prejuízos do foro pessoal e profissional, mas também social, podendo resultar em longos períodos de afastamento do trabalho por incapacidade, diminuição da produtividade e qualidade laboral. Em suma, esta síndrome não afeta só o trabalhador, mas a empresa como um todo, para mais tendo em conta que as doenças mentais são cada vez mais motivo de afastamento do trabalho, tendo mesmo muitas uma casualidade direta com o trabalho. É o caso da síndrome de Burnout, à semelhança do que ocorre com os acidentes de trabalho.
+
+De salientar por fim, que as mulheres são mais sujeitas a esta síndrome, não só pela exaustão do trabalho que acumulam entre o meio laboral e o trabalho doméstico, como por também serem as que mais sofrem de assédio moral e/ou sexual.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira, resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomendar ao Governo da República que:
+
+a) Desenvolva as ações necessárias tendo em vista o reconhecimento do nexo causal entre a síndrome de Burnout e a sua classificação como doença de trabalho, para incluir grupos profissionais que sejam potencialmente vítimas da síndrome de Burnout na definição de grupos de trabalhadores aos quais deve ser conferida assistência técnica específica e diferenciada para esta síndrome pelo Serviço Nacional de Saúde, sem que a sua carreira seja prejudicada e sem que lhes sejam cobrados encargos adicionais, por forma a promover a sua saúde no seu contexto geral e laboral;
+
+b) Desenvolva as diligências necessárias para que os lesados possam ter direito aos necessários apoios públicos devido à síndrome de Burnout, de acordo com a legislação em vigor que regulamenta a reparação de acidentes de trabalho, incluindo aspetos relacionados com a reabilitação e reintegração dos profissionais.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 1 de fevereiro de 2018.
+
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
+
+111143886

@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400576:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1984-889973573",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/32-1984-400576",
+ "source_lastmod": "2024-10-04",
+ "versions": [
+  {
+   "date": "1984-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890051132",
+    "890051133",
+    "890051134",
+    "890051135",
+    "890051136",
+    "890051137",
+    "890051138",
+    "890051139",
+    "890051140",
+    "890051141"
+   ]
+  },
+  {
+   "date": "1984-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220491:por",
+     "title": "Declaração",
+     "published": "1984-12-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-220491"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 5.º"
+   ],
+   "fragments": [
+    "890051132",
+    "890051133",
+    "890051134",
+    "890051135",
+    "890051136",
+    "890051173",
+    "890051138",
+    "890051139",
+    "890051140",
+    "890051141",
+    "890051142"
+   ]
+  }
+ ],
+ "fragments": {
+  "890051132": {
+   "fragment_id": "889973574",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 32/84/A\n\nAdaptação à Região do Decreto-Lei n.º 116/84, que revê o regime de organização e funcionamento dos serviços técnico-administrativos das autarquias locais.\n\nA entrada em vigor do Decreto-Lei n.º 116/84, de 6 de Abril, vem permitir a reorganização técnico-administrativa dos serviços municipais, até à data estruturados de acordo com os princípios do Código Administrativo, em nada adequados à autonomia do poder local constitucionalmente consagrada.\n\nImporta, portanto, estender o regime deste diploma legal, considerado altamente inovatório, à administração autárquica da Região.\n\nTendo em especial atenção as especificidades dos municípios da Região, foram introduzidas algumas adaptações ao Decreto-Lei n.º 116/84.\n\nAssim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:"
+  },
+  "890051133": {
+   "fragment_id": "890053375",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO regime do Decreto-Lei n.º 116/84, de 6 de Abril, aplica-se à Região Autónoma dos Açores com as adaptações constantes dos artigos seguintes."
+  },
+  "890051134": {
+   "fragment_id": "890053376",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA organização municipal reflectirá a interligação funcional entre os órgãos e serviços da administração autárquica e os da administração regional autónoma."
+  },
+  "890051135": {
+   "fragment_id": "890053377",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs funcionários dos quadros da administração regional autónoma que ingressem nos quadros próprios dos municípios não perdem, por força da transição, o vínculo à função pública."
+  },
+  "890051136": {
+   "fragment_id": "890053378",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO recrutamento do pessoal dirigente poderá também ser feito de entre indivíduos vinculados à administração regional autónoma."
+  },
+  "890051137": {
+   "fragment_id": "890053379",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPoderá ser estruturado e ministrado na Região um curso semelhante ao do Centro de Estudos e Formação Autárquica, em moldes a regulamentar por portaria do Governo Regional, que habilite para o provimento nos lugares dirigentes referidos no n.º 5 do artigo 7.º do Decreto-Lei n.º 116/74."
+  },
+  "890051138": {
+   "fragment_id": "890053380",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA dispensa prevista no n.º 7 do artigo 7.º do Decreto-Lei n.º 116/84, de 6 de Abril, será feita por portaria do Secretário Regional da Administração Pública."
+  },
+  "890051139": {
+   "fragment_id": "890053381",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - As funções notariais nos municípios poderão também ser exercidas por juristas ou chefes de repartição e de secção dos quadros da administração regional autónoma ou do quadro do respectivo município, a designar por despacho do Secretário Regional da Administração Pública.\n\n2 - A designação referida no número anterior só poderá ser feita sob proposta do município quando disser respeito a funcionário do seu quadro."
+  },
+  "890051140": {
+   "fragment_id": "890053382",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA Secretaria Regional da Administração Pública promoverá a realização de acções de formação e reciclagem do pessoal administrativo ao serviço dos municípios, em termos a definir por portaria do Governo Regional."
+  },
+  "890051141": {
+   "fragment_id": "890053383",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs referências feitas, bem como as competências atribuídas pelo Decreto-Lei n.º 116/84, de 6 de Abril, ao Governo da República ou aos seus serviços, consideram-se reportadas e serão exercidas na Região pelo Governo Regional através dos seus departamentos."
+  },
+  "890051173": {
+   "fragment_id": "890053379",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1984-12-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 301/1984, 1º Suplemento, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-220491), em vigor a partir de 1984-12-31"
+   ],
+   "markdown": "###### Artigo 5.º\n\nPoderá ser estruturado e ministrado na Região um curso semelhante ao do Centro de Estudos e Formação Autárquica, em moldes a regulamentar por portaria do Governo Regional, que habilite para o provimento nos lugares dirigentes referidos no n.º 5 do artigo 7.º do Decreto-Lei n.º 116/84\n\n> Retificado pelo/a [Declaração - Diário da República n.º 301/1984, 1º Suplemento, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-220491), em vigor a partir de 1984-12-31"
+  },
+  "890051142": {
+   "fragment_id": "890053384",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Regional dos Açores em 12 de Setembro de 1984.\n\nO Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.\n\nAssinado em Angra do Heroísmo em 18 de Outubro de 1984.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva."
+  }
+ }
+}

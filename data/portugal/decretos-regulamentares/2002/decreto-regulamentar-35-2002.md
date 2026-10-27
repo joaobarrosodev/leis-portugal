@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:288669:por
+title: Decreto Regulamentar n.º 35/2002
+short_title: null
+summary: Cria o certificado de formação profissional
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 35/2002
+official_date: null
+publication_date: '2002-04-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/2002, Série I-B de 2002-04-23
+  number: '95'
+  series: I
+  supplement: null
+  pages: 4054 - 4057
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/04/095b00/40544057.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/35/2002/04/23/p/dre/pt/html
+  oj: null
+  dre: '288669'
+  dre_path: /dr/detalhe/decreto-regulamentar/35-2002-288669
+  internal: pt:dre:288669:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-2002-288669
+  metadata_url: https://data.dre.pt/eli/decregul/35/2002/04/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-2002-288669
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:27:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ce06ebdf4740069218229caddeaaaca199741a8b7cb3ade128f1c8290caa5472
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Certificação Profissional
+- Diploma
+- Formação Profissional
+- Mercado do Trabalho
+- Política de Emprego
+- Qualificação Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:105808927:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:197297:por
+  label: null
+  source: http://data.dre.pt/eli/port/782/1997/08/29/p/dre
+- type: cites
+  target: pt:dre:289056:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/405/1991/10/16/p/dre
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/401/1991/10/16/p/dre
+- type: cites
+  target: pt:dre:345920:por
+  label: null
+  source: http://data.dre.pt/eli/port/316/2001/04/02/p/dre
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/95/1992/05/23/p/dre
+- type: repealed_by
+  target: pt:dre:628017:por
+  label: "Revogado pelo DEC LEI.396/2007.31.12.2007.MTSSO, DR.IS [251] de 31.12.200, com efeitos a partir da entrada em vigor\
+    \ da portaria que aprove o modelo de certificado de formação. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/396-2007-628017
+  date: '2007-12-31'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:27:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 35/2002
+
+de 23 de Abril
+
+No âmbito do Acordo sobre Política de Emprego, Mercado de Trabalho, Educação e Formação, assinado em 9 de Fevereiro de 2001, foi estabelecida como uma das medidas destinadas à promoção da qualidade da formação, da acreditação e da certificação de competências a definição, no âmbito do sistema nacional de certificação profissional, de um certificado de formação profissional normalizado, que terá carácter obrigatório para toda a formação que beneficie de apoios públicos e um carácter indicativo para a formação suportada exclusivamente por financiamento privado.
+
+A existência de vários subsistemas de formação profissional e a diversidade das modalidades e características de formação e dos próprios contextos em que esta se desenvolve determinaram a necessidade da concepção de dois modelos de certificado.
+
+Assim, preconiza-se a existência de um certificado de formação profissional destinado a todas as formações que, por consagrarem a avaliação dos formandos, garantem formalmente a aquisição de competências e um modelo de certificado de frequência de formação profissional que se destina a todas as formações que, pelas suas características, não consagram um processo avaliativo.
+
+O modelo de certificado de formação profissional ajusta-se ao princípio fundamental que está na base da emissão deste tipo de títulos que consagra que o seu portador atingiu os seus objectivos pedagógicos definidos nos programas dos cursos de formação profissional.
+
+A padronização dos certificados de formação profissional preconizada no presente diploma visa, assim, permitir uma clarificação dos procedimentos exigíveis a todos os operadores de formação após a conclusão de todo e qualquer curso ou acção de formação e, simultaneamente, consolidar o direito de todos os formandos à obtenção de um certificado de formação que valorize a transparência das qualificações por si obtidas através da formação profissional.
+
+O modelo de certificado de formação, nas suas duas modalidades, tem o seu enquadramento no artigo 6.º do [Decreto-Lei n.º 95/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1992-523412), de 23 de Maio, e nos Decretos-Leis n.os [401/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1991-289058) e [405/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1991-289056), ambos de 16 de Outubro, apresentando um conjunto de itens a generalizar a todos os certificados de formação, numa perspectiva de garantir, progressivamente, um mínimo denominador comum a toda formação profissional desenvolvida.
+
+O presente diploma resultou do envolvimento e do diálogo com os parceiros sociais no âmbito do grupo de acompanhamento da execução do Acordo sobre Política de Emprego, Mercado de Trabalho, Educação e Formação e foi submetido a apreciação pública através de publicação na separata n.º 7 do Boletim do Trabalho e Emprego, de 9 de Outubro de 2001.
+
+Assim:
+
+Nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Disposições gerais
+
+1 - As entidades formadoras devem emitir um certificado de formação profissional conforme os modelos publicados em anexo a este diploma.
+
+2 - O certificado de formação profissional pode assumir a forma de certificado de formação profissional e de certificado de frequência de formação profissional.
+
+3 - A emissão dos certificados estabelecidos no n.º 1 é obrigatória para os cursos ou acções que beneficiem de apoios financeiros públicos e recomendada para os que não beneficiem desses apoios.
+
+###### Artigo 2.º — Certificado de formação profissional
+
+1 - O certificado de formação profissional, previsto no n.º 2 do artigo 1.º, é o título que comprova que o formando concluiu curso ou acção de formação com aproveitamento após processo avaliativo.
+
+2 - O certificado de formação profissional deve conter a seguinte informação:
+
+a) Identificação da entidade formadora, através da sua designação social e ou comercial, do número de identificação de pessoa colectiva, do endereço e eventual logótipo associado;
+
+b) Identificação do titular do certificado, através da indicação do seu nome completo, naturalidade, nacionalidade, data de nascimento e número do bilhete de identidade ou de passaporte;
+
+c) Identificação do curso ou acção de formação, através da sua designação, eventual legislação ou regulamentação de enquadramento, duração total em horas, data de realização, modalidade de formação, plano curricular discriminado, incluindo respectivas cargas horárias, e área de formação de acordo com a Classificação Nacional de Áreas de Formação, constante na [Portaria n.º 316/2001](https://diariodarepublica.pt/dr/detalhe/portaria/316-2001-345920), de 2 de Abril;
+
+d) Referência às competências adquiridas;
+
+e) Referência à classificação final obtida pelo formando, qualitativa ou quantitativa, com indicação neste caso da escala de avaliação adoptada;
+
+f) Designação das saídas profissionais e nível de formação respectivo, quando for caso disso;
+
+g) Referência à equivalência escolar, quando for caso disso;
+
+h) Referência à acreditação da entidade formadora, nos termos da [Portaria n.º 782/97](https://diariodarepublica.pt/dr/detalhe/portaria/782-1997-197297), de 29 de Agosto, quando for caso disso;
+
+i) Referência ao apoio do Estado Português e da União Europeia, quando for caso disso;
+
+j) Referência ao sistema nacional de certificação profissional nos termos do [Decreto-Lei n.º 95/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1992-523412), de 23 de Maio, quando for caso disso, nomeadamente quanto à entidade certificadora designada no âmbito desse sistema e os correspondentes números do certificado de homologação do curso e da autorização da acção de formação.
+
+3 - Os elementos identificados na alínea f) do número anterior podem não constar no certificado de formação profissional quando este atesta a frequência, com aproveitamento, de curso ou acção de formação que, embora proporcione a aquisição de competências, não confere um nível de qualificação completo à saída.
+
+###### Artigo 3.º — Certificado de frequência de formação profissional
+
+1 - O certificado de frequência de formação profissional previsto no n.º 2 do artigo 1.º é o título que comprova que o formando frequentou curso, acção de formação, módulo ou seminário que não contemple qualquer tipo de avaliação.
+
+2 - O certificado de frequência de formação profissional deve conter os elementos discriminados nas alíneas a), b), c), h), i) e j) do n.º 2 do artigo 2.º e deve ainda mencionar a assiduidade do formando, com referência ao número de horas de formação assistidas e às competências visadas com a formação.
+
+###### Artigo 4.º — Validade dos certificados
+
+Sem prejuízo do disposto nos artigos anteriores, a validade dos certificados de formação profissional ou de frequência de formação profissional é conferida pela aposição do carimbo ou selo branco da entidade formadora e da assinatura do respectivo responsável ou de quem tenha competência por ele delegada.
+
+###### Artigo 5.º — Disposições finais
+
+1 - As entidades formadoras devem manter informação actualizada sobre os certificados emitidos e arquivar as cópias dos certificados e respectivos termos de emissão.
+
+2 - Se houver cessação da actividade, a informação e os documentos referidos no número anterior são enviados ao Instituto do Emprego e Formação Profissional para arquivo.
+
+Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Júlio Domingos Pedrosa da Luz de Jesus - Paulo José Fernandes Pedroso.
+
+Promulgado em 22 de Março de 2002.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 28 de Março de 2002.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## ANEXO N.º 1 — Modelo de certificado de formação profissional
+
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40544057.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40544057.pdf)
+
+## ANEXO N.º 2 — Modelo de certificado de frequência de formação profissional
+
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40544057.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40544057.pdf)

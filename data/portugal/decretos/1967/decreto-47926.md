@@ -1,0 +1,495 @@
+---
+schema_version: '1.0'
+id: pt:dre:390664:por
+title: Decreto n.º 47926
+short_title: null
+summary: Transfere verbas dentro do orçamento do Ministério do Interior e abre créditos destinados a reforçar verbas insuficientemente
+  dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor - Introduz alterações em
+  várias rubricas dos orçamentos de Encargos Gerais da Nação e dos Ministérios da Justiça e da Saúde e Assistência
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '47926'
+official_date: null
+publication_date: '1967-09-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 211/1967, Série I de 1967-09-09
+  number: '211'
+  series: I
+  supplement: null
+  pages: 1633 - 1636
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/09/21100/16331636.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390664'
+  dre_path: /dr/detalhe/decreto/47926-1967-390664
+  internal: pt:dre:390664:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/47926-1967-390664
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47926-1967-390664
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:58:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1a821036a443b3b2175f38db63c598223c09217898ef39632d01b961f8bd5421
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:58:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 47926
+
+Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diariodarepublica.pt/dr/detalhe/decreto/16670-1929-624998), de 27 de Março de 1929, no artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, na alínea a) do artigo 33.º e nas alíneas a), b), c) e e) do artigo 35.º do referido [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), no artigo 2.º e seu § único do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, em execução dos Decretos-Leis n.os 47691 e 47754, de, respectivamente, 11 de Maio e 9 de Junho de 1967, mediante propostas aprovadas pelo Ministro das Finanças, nos termos do n.º 1.º do artigo 9.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933, e nos do mencionado artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659);
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São transferidas as quantias adiante indicadas dentro do orçamento seguinte:
+
+Ministério do Interior
+
+No capítulo 2.º:
+
+Do artigo 33.º, n.º 1) «Pagamento de serviços ...» ... -500$00
+
+Para o artigo 31.º, n.º 2) «Telefones» ... +500$00
+
+No capítulo 5.º:
+
+Do artigo 62.º, n.º 1) «Pessoal dos quadros ...» ... -300000$00
+
+Para o artigo 64.º, n.º 5) «Outras despesas que não constituem remuneração paga em dinheiro» ... +300000$00
+
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 233296043$80 destinados, quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+
+Encargos Gerais da Nação
+
+Capítulo 1.º «Presidência da República - Chancelaria das Ordens Portuguesas»:
+
+Artigo 16.º «Encargos administrativos», n.º 2) «Publicidade e propaganda» ... 50000$00
+
+Capítulo 6.º «Secretariado Técnico da Presidência do Conselho»:
+
+Artigo 108.º, n.º 2) «De móveis» ... 10000$00
+
+Capítulo 8.º «Secretaria de Estado da Aeronáutica - Força Aérea - Regimento de Caçadores Pára-Quedistas (Tantos)»:
+
+Artigo 309.º «Outros encargos», n.º 2) «Tratamentos e outras despesas com sinistrados, bem como indemnização para compensação de danos causados em semoventes, propriedades, etc.» ... 190015$30
+
+... 250015$30
+
+Ministério das Finanças
+
+Capítulo 1.º «Encargos da dívida pública»:
+
+Artigo 1.º «Juros», n.º 4) «Dívida externa a cargo do Tesouro», alínea 2 «Contraída ao abrigo de outros acordos»:
+
+Empréstimo do Export-Import Bank - Financiamento da Ponte Salazar (ver nota l) ... 55492606$90
+
+(nota l) [Decreto-Lei n.º 43514](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43514-1961-555013), de 23 de Fevereiro de 1961.
+
+Artigo 2.º « Amortizações», n.º 4) «Dívida externa a cargo do Tesouro», alínea 2 «Contraída ao abrigo de outros acordos»:
+
+Empréstimo do Export-Import Bank - Financiamento da Ponte Salazar (ver nota r) ... 18543939$50
+
+(nota r) [Decreto-Lei n.º 43514](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43514-1961-555013), de 23 de Fevereiro de 1961.
+
+Capítulo 6.º «Secretaria-Geral»:
+
+Artigo 59.º, n.º 1), alínea 2 «Restituições que não possam ser classificadas nas outras verbas descritas neste orçamento também para restituições» ... 400000$00
+
+Capítulo 9.º «Direcção-Geral da Contabilidade Pública»:
+
+Artigo 113.º, n.º 1) «De móveis» ... 25000$00
+
+Capítulo 24.º «Outros investimentos»:
+
+Artigo 222.º «Para aquisição de acções e obrigações de bancos e companhias» ... 1500000$00
+
+... 75961546$40
+
+Ministério do Interior
+
+Capítulo 2.º «Secretaria-Geral do Ministério - Conselho de Inspecção de Jogos»:
+
+Artigo 28.º, n.º 1) «Móveis» ... 3000$00
+
+Capítulo 5.º «Polícia de Segurança Pública»:
+
+Artigo 70.º, n.º 1) «Rendas de casa» ... 245000$00
+
+... 248000$00
+
+Ministério da Justiça
+
+Capítulo 3.º «Direcção-Geral da Justiça»:
+
+Juízos de 1.ª instância
+
+Artigo 85.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+
+(Durante 5 meses):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/09/21100/16331636.pdf)
+
+Ministério Público
+
+Ministério Público nas comarcas
+
+Artigo 99.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+
+(Durante 5 meses):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/09/21100/16331636.pdf)
+
+Polícia judiciária
+
+Subdirectoria de Lisboa
+
+Artigo 124.º, n.º 2) «Fardamentos, ...» ... 1875$00
+
+Artigo 129.º, n.º 3) «Transportes» ... 22500$00
+
+Capítulo 4.º «Direcção-Geral das Serviços Prisionais»:
+
+Internamento em hospitais ou clínicas psiquiátricas de delinquentes mandados judicialmente internar em manicómio criminal
+
+Artigo 183.º, n.º 1) «Serviços clínicos ...» ... 2000000$00
+
+Cadeia Comarcã de Lisboa
+
+(Cadeias do Limoeiro e Mónicas)
+
+Artigo 189.º «Outras despesas com o pessoal», n.º 3) «Abono para falhas» ... 1000$00
+
+Cadeia Civil do Porto
+
+Artigo 198.º «Outras despesas com o pessoal», n.º 4) «Abono para falhas» ... 1000$00
+
+Cadeia do Forte de Peniche
+
+Artigo 319.º, n.º 1) «Serviços clínicos ...» ... 56600$00
+
+Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores»:
+
+Direcção-Geral
+
+Artigo 334.º, n.º 1) «Ajudas de custo» ... 4500$00
+
+Artigo 339.º, n.º 2) «Transportes» ... 1500$00
+
+Quadros únicos
+
+Artigo 343.º, n.º 1) «Transportes» ... 15000$00
+
+Tribunal Central de Menores do Porto
+
+Artigo 355.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+
+(Durante 5 meses):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/09/21100/16331636.pdf)
+
+Instituto de Navarro de Paiva
+
+Artigo 446.º, n.º 2) «De móveis» ... 2500$00
+
+Artigo 448.º, n.º 2) «Luz, ...» ... 21000$00
+
+Artigo 449.º, n.º 2) «Telefones» ... 1200$00
+
+Artigo 450.º «Encargos administrativos»:
+
+N.º 1) «Alimentação, ...» ... 15000$00
+
+N.º 2) «Pagamento de serviços ...» ... 1000$00
+
+... 2341675$00
+
+Ministério do Exército
+
+Capítulo 2.º «Estado-Maior do Exército - Museu Militar (Lisboa)»:
+
+Artigo 37.º, n.º 1), alínea 1 «Despesas a realizar por conta das receitas arrecadadas ...» ... 225000$00
+
+Capítulo 5.º «Serviços do quartel-mestre»:
+
+Direcção do Serviço de Saúde
+
+Artigo 232.º «Encargos administrativos», n.º 2) «Alimentação, vestuário e calçado (não destinados a pessoal dos respectivos serviços)», alínea 1 «Aquisição de pijamas hospitalares» ... 130000$00
+
+Direcção do Serviço de Fortificações e Obras Militares
+
+Artigo 252.º, n.º 1) «De imóveis», alínea 1 «Prédios urbanos» ... 817950$00
+
+Capítulo 8.º «Encargos gerais do Ministério - Despesas gerais»:
+
+Artigo 342.º, n.º 1), alínea 1 «Gratificações de médicos civis, ...» ... 211200$00
+
+... 1384150$00
+
+Ministério das Obras Públicas
+
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+
+Artigo 51.º «Construções e obras novas», n.º 3) «Construções e melhoramentos a efectuar por contrapartida da inscrição de iguais quantias no orçamento das receitas do Estado, incluindo despesas de pessoal», alínea 13 «Pavilhão de Ensaios Mecânicos da Direcção-Geral dos Combustíveis» ... 600000$00
+
+Capítulo 14.º «Plano Intercalar de Fomento»:
+
+Artigo 104.º, n.º 1) «Conclusão da 1.ª fase do Plano de Rega do Alentejo» ... 135400000$00
+
+... 136000000$00
+
+Ministério do Ultramar
+
+Capítulo 8.º «Direcção-Geral de Educação»:
+
+Artigo 70.º «Despesas de comunicações»:
+
+N.º 1) «Correios e telégrafos» ... 2000$00
+
+N.º 2) «Transportes» ... 500$00
+
+... 2500$00
+
+Ministério das Corporações e Previdência Social
+
+Capítulo 2.º « Secretaria-Geral»:
+
+Artigo 15.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+
+(Durante seis meses):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/09/21100/16331636.pdf)
+
+Ministério da Saúde e Assistência
+
+Capítulo 4.º «Direcção-Geral da Assistência»:
+
+Artigo 65.º, n.º 1) «Subsídios ...», alínea 4 «Assistência à família ...» ... 16487157$10
+
+... 233296043$80
+
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+
+Orçamento das receitas do Estado
+
+Capítulo 2.º, artigo 19.º «Taxa de salvação nacional» ... 74036546$40
+
+Capítulo 4.º, artigo 67.º «Diversas receitas não classificadas» ... 1925405$20
+
+Capítulo 4.º, artigo 95.º «Museu Militar» ... 225000$00
+
+Capítulo 5.º, artigo 103.º «Fianças - crimes quebradas e depósitos de contratos não cumpridos» ... 2547557$90
+
+Capítulo 7.º, artigo 160.º «Reembolso de despesas com o pessoal de quadros do Ministério das Corporações e Previdência Social» ... 255000$00
+
+Capítulo 7.º, artigo 165.º «Reembolso, pela Federação Nacional das Instituições de Protecção à Infância, das despesas com o Instituto de Navarro de Paiva» ... 40700$00
+
+Capítulo 7.º, artigo 166.º «Reembolso do abono para falhas a pessoal do Ministério da Justiça» ... 2000$00
+
+Capítulo 7.º, artigo 175.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 600000$00
+
+Capítulo 7.º, artigo 200.º «Reembolsos diversos» ... 47929351$70
+
+Capítulo 8.º, artigo 203.º «Instituto de Assistência à Família» ... 16487157$10
+
+Capítulo 9.º, artigo 279.º «Produto da venda de títulos ou de empréstimos» ... 1500000$00
+
+Capítulo 9.º, artigo 283.º «Crédito externo - Classe VIII» ... 9048058$20
+
+Capítulo 9.º, artigo 284.º «Crédito externo - Classe IX» ... 41722777$00 Capítulo 9.º, artigo 303.º «Entrega a efectuar pelo Fundo do Desemprego em conta do subsídio reembolsável previsto no [Decreto-Lei n.º 47730](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47730-1967-312819), de 23 de Maio de 1967» ... 33453000$00
+
+... 229772553$50
+
+Encargos Gerais da Nação
+
+Capítulo 6.º, artigo 104.º, n.º 2), alínea 1 ... 10000$00
+
+Capítulo 8.º, artigo 148.º, n.º 1) ... 190015$30
+
+... 200015$30
+
+Ministério das Finança
+
+Capítulo 7.º, artigo 61.º, n.º 1) ... 75000$00
+
+Capítulo 16.º, artigo 193.º, n.º 1) ... 200000$00
+
+Capítulo 16.º, artigo 193.º, n.º 2) ... 200000$00
+
+... 475000$00
+
+Ministério do Interior
+
+Capítulo 2.º, artigo 32.º, n.º 1), alínea 1 ... 1000$00
+
+Capítulo 2.º, artigo 33.º, n.º 1) ... 2000$00
+
+Capítulo 5.º, artigo 62.º, n.º 1) ... 245000$00
+
+... 248000$00
+
+Ministério da Justiça
+
+Capítulo 3.º, artigo 85.º, n.º 1) ... 65000$00
+
+Capítulo 3.º, artigo 99.º, n.º 1) ... 441000$00
+
+Capítulo 3.º, artigo 106.º, n.º 1) ... 283375$00
+
+Capítulo 4.º, artigo 160.º, n.º 1) ... 36000$00
+
+Capítulo 4.º, artigo 170.º, n.º 1) ... 139000$00
+
+Capítulo 4.º, artigo 173.º, n.º 1) ... 251000$00
+
+Capítulo 4.º, artigo 187.º, n.º 1) ... 56600$00
+
+Capítulo 4.º, artigo 188.º, n.º 1) ... 39000$00
+
+Capítulo 4.º, artigo 220.º, n.º 1) ... 13000$00
+
+Capítulo 4.º, artigo 229.º, n.º 1) ... 24000$00
+
+Capítulo 4.º, artigo 296.º, n.º 1) ... 64000$00
+
+Capítulo 4.º, artigo 323.º, n.º 1) ... 32000$00
+
+Capítulo 5.º, artigo 332.º, n.º 1) ... 50000$00
+
+Capítulo 5.º, artigo 341.º, n.º 1) ... 118000$00
+
+Capítulo 5.º, artigo 347.º, n.º 1) ... 19000$00
+
+Capítulo 5.º, artigo 356.º, n.º 1) ... 25000$00
+
+Capítulo 5.º, artigo 384.º, n.º 1) ... 21000$00
+
+Capítulo 5.º, artigo 393.º, n.º 1) ... 42000$00
+
+Capítulo 5.º, artigo 427.º, n.º 1) ... 27000$00
+
+Capítulo 5.º, artigo 434.º, n.º 1) ... 21000$00
+
+Capítulo 5.º, artigo 436.º, n.º 1) ... 15000$00
+
+Capítulo 6.º, artigo 452.º, n.º 1) ... 78000$00
+
+Capítulo 6.º, artigo 461.º, n.º 1) ... 122000$00
+
+Capítulo 7.º, artigo 470.º, n.º 1) ... 56000$00
+
+Capítulo 7.º, artigo 480.º, n.º 1) ... 64000$00
+
+... 2101975$00
+
+Ministério do Exército
+
+Capítulo 5.º, artigo 228.º, n.º 1) ... 130000$00
+
+Ministério do Ultramar
+
+Capítulo 8.º, artigo 66.º, n.º 1) ... 1800$00
+
+Capítulo 8.º, artigo 66.º, n.º 2) ... 700$00
+
+... 2500$00
+
+Ministério das Corporações e Previdência Social
+
+Capítulo 2.º, artigo 15.º, n.º 1) ... 366000$00
+
+... 233296043$80
+
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+
+De Encargos Gerais da Nação
+
+A observação (b) aposta à dotação do capítulo 5.º, artigo 101.º, n.º 1), é eliminada.
+
+Do Ministério da Justiça
+
+A observação (a) aposta à dotação do capítulo 4.º, artigo 270.º, n.º 1), é alterada para:
+
+Inclui 146200$00 para vestuário e calçado.
+
+Do Ministério da Saúde e Assistência
+
+A observação (a) aposta à dotação do capítulo 4.º, artigo 65.º, n.º 1), alínea 4, é alterada para:
+
+Sujeita a duplo cabimento a importância de 76487157$10 ...
+
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 9 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

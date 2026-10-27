@@ -1,0 +1,334 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010L0018:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0018-20220802",
+ "dre_path": null,
+ "source_lastmod": "2022-08-02",
+ "versions": [
+  {
+   "date": "2010-03-18",
+   "future": false,
+   "celex": "32010L0018",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "37373bcff1ddc23b",
+    "509e9638dcdec8f9",
+    "09bb51545c5050c7",
+    "d2c9298bba74a0cf",
+    "ed28a1adc6cb1b5a",
+    "46825266dccc0dc5",
+    "607600b90d241a21",
+    "0e262ac3e59604c9"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02010L0018-20140101",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0062:por",
+     "title": "DIRETIVA 2013/62/UE DO CONSELHO de 17 de dezembro de 2013",
+     "published": null,
+     "celex": "32013L0062"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita ACORDO-QUADRO SOBRE LICENÇA PARENTAL (REVISTO)",
+    "Adita 18 de Junho de 2009",
+    "Adita Preâmbulo",
+    "Adita I. Considerações gerais",
+    "Adita II. Conteúdo",
+    "Adita Cláusula 1: Objecto e âmbito de aplicação",
+    "Adita Cláusula 2: Licença parental",
+    "Adita Cláusula 3: Modalidades de aplicação",
+    "Adita Cláusula 4: Adopção",
+    "Adita Cláusula 5: Direitos laborais e não discriminação",
+    "Adita Cláusula 6: Regresso ao trabalho",
+    "Adita Cláusula 7: Faltas ao trabalho por motivo de força maior",
+    "Adita Cláusula 8: Disposições finais"
+   ],
+   "fragments": [
+    "f1038e9972cb7407",
+    "509e9638dcdec8f9",
+    "09bb51545c5050c7",
+    "2ac97201716f2682",
+    "ed28a1adc6cb1b5a",
+    "46825266dccc0dc5",
+    "aa9a23d14d81be19",
+    "10220b9774fa9034",
+    "2e4e7927c4b210d6",
+    "6dfcd7850f67c07e",
+    "27eda766c5b7b641",
+    "4265f25a3c3ccd1a",
+    "f6557b88fd2908df",
+    "d56c351f9761948c",
+    "b2e9eefc14ceb787",
+    "0ed69a8762dad55d",
+    "c01dacf6b35bafa5",
+    "c6e3de8698afd247",
+    "e23e7f86bea3b7d7",
+    "86bd9811c840d3c6",
+    "6d4c3231fb73f4d6",
+    "384d1842aaae6c43"
+   ]
+  },
+  {
+   "date": "2022-08-02",
+   "future": false,
+   "celex": "02010L0018-20220802",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime ANEXO",
+    "Suprime ACORDO-QUADRO SOBRE LICENÇA PARENTAL (REVISTO)",
+    "Suprime 18 de Junho de 2009",
+    "Suprime Preâmbulo",
+    "Suprime I. Considerações gerais",
+    "Suprime II. Conteúdo",
+    "Suprime Cláusula 1: Objecto e âmbito de aplicação",
+    "Suprime Cláusula 2: Licença parental",
+    "Suprime Cláusula 3: Modalidades de aplicação",
+    "Suprime Cláusula 4: Adopção",
+    "Suprime Cláusula 5: Direitos laborais e não discriminação",
+    "Suprime Cláusula 6: Regresso ao trabalho",
+    "Suprime Cláusula 7: Faltas ao trabalho por motivo de força maior",
+    "Suprime Cláusula 8: Disposições finais",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "56d9473d0dd13a5e"
+   ]
+  }
+ ],
+ "fragments": {
+  "37373bcff1ddc23b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Março de 2010\n\nque aplica o Acordo-Quadro revisto sobre licença parental celebrado entre a BUSINESSEUROPE, a UEAPME, o CEEP e a CES e que revoga a Directiva 96/34/CE\n\n(Texto relevante para efeitos do EEE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o n.º 2 do artigo 155.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nConsiderando o seguinte:\n\n(1) O artigo 153.º do Tratado sobre o Funcionamento da União Europeia («TFUE») permite à União apoiar e completar a acção dos Estados-Membros, entre outros, no domínio da igualdade entre homens e mulheres quanto às oportunidades no mercado de trabalho e ao tratamento no trabalho.\n\n(2) Nos termos do n.º 1 do artigo 155.º do TFUE, o diálogo social a nível da União pode conduzir, se os parceiros sociais o entenderem desejável, a relações contratuais, incluindo acordos. Nos termos do n.º 2 do artigo 155.º do TFUE, os parceiros sociais podem pedir conjuntamente que os acordos por si celebrados a nível da União em matérias abrangidas pelo artigo 153.º do TFUE sejam aplicados mediante decisão adoptada pelo Conselho, sob proposta da Comissão.\n\n(3) Um acordo-quadro em matéria de licença parental foi celebrado pelas organizações europeias interprofissionais de parceiros sociais (CES, UNICE e CEEP) em 14 de Dezembro de 1995, ao qual foi conferido efeito legal pela Directiva 96/34/CE do Conselho, de 3 de Junho de 1996, relativa ao acordo-quadro sobre a licença parental celebrado pela UNICE, pelo CEEP e pela CES [([^1])](http://publications.europa.eu/resource/cellar/52d95d98-38d1-49dd-81a4-424f7a166a4d.0018.02/DOC_1#ntr1-L_2010068PT.01001301-E0001). Aquela directiva foi alterada e alargada ao Reino Unido da Grã-Bretanha e da Irlanda do Norte pela Directiva 97/75/CE do Conselho [([^2])](http://publications.europa.eu/resource/cellar/52d95d98-38d1-49dd-81a4-424f7a166a4d.0018.02/DOC_1#ntr2-L_2010068PT.01001301-E0002). A Directiva 96/34/CE contribuiu significativamente para melhorar as oportunidades oferecidas aos pais que trabalham nos Estados-Membros para melhor conciliarem as suas responsabilidades profissionais e familiares mediante acordos sobre licenças.\n\n(4) Nos termos dos n.^os^ 2 e 3 do artigo 138.º do Tratado que institui a Comunidade Europeia («Tratado CE») [([^*1])](http://publications.europa.eu/resource/cellar/52d95d98-38d1-49dd-81a4-424f7a166a4d.0018.02/DOC_1#ntr*1-L_2010068PT.01001301-E0003), a Comissão consultou, em 2006 e 2007, os parceiros sociais sobre formas de melhorar a conciliação entre vida profissional, familiar e privada, designadamente a legislação comunitária em vigor em matéria de protecção da maternidade e licença parental, bem como sobre a possibilidade de introduzir novos tipos de licenças relacionadas com a família, como a licença de paternidade, a licença por adopção e a licença para assistência a familiares.\n\n(5) As três grandes organizações europeias interprofissionais de parceiros sociais de vocação geral (CES, CEEP e BUSINESSEUROPE, anteriormente designada UNICE) e a organização europeia interprofissional de parceiros sociais que representa uma determinada categoria de empresas (UEAPME) informaram a Comissão, em 11 de Setembro de 2008, do seu desejo de encetar negociações, nos termos do n.º 4 do artigo 138.º e do artigo 139.º do Tratado CE [([^*2])](http://publications.europa.eu/resource/cellar/52d95d98-38d1-49dd-81a4-424f7a166a4d.0018.02/DOC_1#ntr*2-L_2010068PT.01001301-E0004), com vista a rever o acordo-quadro sobre licença parental celebrado em 1995.\n\n(6) Em 18 de Junho de 2009, aquelas organizações assinaram o acordo-quadro revisto sobre licença parental («acordo-quadro revisto») e transmitiram à Comissão um pedido conjunto para que apresentasse uma proposta de decisão do Conselho com vista à aplicação do acordo-quadro revisto.\n\n(7) No decurso das suas negociações, os parceiros sociais europeus reviram completamente o acordo-quadro de 1995 relativo à licença parental. Por conseguinte, a Directiva 96/34/CE, mais do que simplesmente alterada, deverá ser revogada e substituída por uma nova directiva.\n\n(8) Atendendo a que os objectivos da presente directiva, a saber, melhorar a conciliação da vida profissional, privada e familiar dos trabalhadores com filhos e a igualdade entre homens e mulheres quanto às oportunidades no mercado de trabalho e ao tratamento no trabalho em toda a União, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, ser melhor alcançados ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(9) Ao elaborar a sua proposta de directiva, a Comissão teve em conta a representatividade das partes signatárias do acordo-quadro revisto, os respectivos mandatos, a legalidade das cláusulas do acordo-quadro revisto, bem como o respeito pelas disposições aplicáveis às pequenas e médias empresas.\n\n(10) A Comissão informou o Parlamento Europeu e o Comité Económico e Social Europeu da sua proposta.\n\n(11) O n.º 1 da cláusula 1 do acordo-quadro revisto, em linha com os princípios gerais do direito da União na área da política social, estipula que o acordo estabelece requisitos mínimos.\n\n(12) O n.º 1 da cláusula 8 do acordo-quadro revisto estipula que os Estados-Membros podem aplicar ou introduzir disposições mais favoráveis do que as estabelecidas no acordo.\n\n(13) O n.º 2 da cláusula 8 do acordo-quadro revisto estipula que a aplicação das disposições do acordo não constitui fundamento válido para diminuir o nível geral de protecção assegurado aos trabalhadores no domínio abrangido pelo acordo.\n\n(14) Os Estados-Membros deverão prever sanções efectivas, proporcionadas e dissuasivas a aplicar em caso de incumprimento das obrigações decorrentes da presente directiva.\n\n(15) Os Estados-Membros podem, mediante pedido conjunto dos parceiros sociais, confiar-lhes a aplicação da presente directiva, na condição de tais Estados-Membros tomarem todas as medidas necessárias para, em qualquer altura, garantir os resultados impostos pela mesma.\n\n(16) Nos termos do ponto 34 do Acordo Interinstitucional «Legislar melhor» [([^3])](http://publications.europa.eu/resource/cellar/52d95d98-38d1-49dd-81a4-424f7a166a4d.0018.02/DOC_1#ntr3-L_2010068PT.01001301-E0005), os Estados-Membros são encorajados a elaborar, para si próprios e no interesse da União, os seus próprios quadros, que ilustrem, na medida do possível, a concordância entre a presente directiva e as medidas de transposição, e a publicá-los,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "509e9638dcdec8f9": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva dá aplicação ao acordo-quadro revisto sobre licença parental, celebrado em 18 de Junho de 2009 pelas organizações europeias interprofissionais de parceiros sociais (BUSINESSEUROPE, UEAPME, CEEP e CES), tal como consta do anexo."
+  },
+  "09bb51545c5050c7": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros determinam as sanções aplicáveis em caso de violação das disposições nacionais aprovadas em aplicação da presente directiva. As sanções devem ser efectivas, proporcionadas e dissuasivas."
+  },
+  "d2c9298bba74a0cf": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva ou certificar-se de que os parceiros sociais, por acordo, introduziram as disposições necessárias até 8 de Março de 2012. Devem informar imediatamente do facto a Comissão.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência devem ser aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros podem dispor, no máximo, de um ano suplementar para dar cumprimento à presente directiva, se tal se revelar necessário em consequência de dificuldades especiais ou de aplicação mediante convenção colectiva. Devem informar do facto a Comissão até 8 de Março de 2012, explicitando as razões por que é necessário um período adicional.\n\n3. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "ed28a1adc6cb1b5a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Directiva 96/34/CE é revogada com efeitos a partir de 8 de Março de 2012. As remissões para a Directiva 96/34/CE devem entender-se como sendo feitas para a presente directiva."
+  },
+  "46825266dccc0dc5": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "607600b90d241a21": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs destinatários da presente directiva são os Estados-Membros.\n\nFeito em Bruxelas, em 8 de Março de 2010.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**C. CORBACHO**\n\n---"
+  },
+  "0e262ac3e59604c9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/52d95d98-38d1-49dd-81a4-424f7a166a4d.0018.02/DOC_1#ntc1-L_2010068PT.01001301-E0001) [JO L 145 de 19.6.1996, p. 4](http://publications.europa.eu/resource/oj/JOL_1996_145_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/52d95d98-38d1-49dd-81a4-424f7a166a4d.0018.02/DOC_1#ntc2-L_2010068PT.01001301-E0002) [JO L 10 de 16.1.1998, p. 24](http://publications.europa.eu/resource/oj/JOL_1998_010_R_TOC).\n\n> [(^*1^)](http://publications.europa.eu/resource/cellar/52d95d98-38d1-49dd-81a4-424f7a166a4d.0018.02/DOC_1#ntc*1-L_2010068PT.01001301-E0003) Renumerados: n.^os^ 2 e 3 do artigo 154.º do TFUE.\n\n> [(^*2^)](http://publications.europa.eu/resource/cellar/52d95d98-38d1-49dd-81a4-424f7a166a4d.0018.02/DOC_1#ntc*2-L_2010068PT.01001301-E0004) Renumerado: n.º 4 do artigo 154.º e artigo 155.º do TFUE.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/52d95d98-38d1-49dd-81a4-424f7a166a4d.0018.02/DOC_1#ntc3-L_2010068PT.01001301-E0005) [JO C 321 de 31.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOC_2003_321_R_TOC)."
+  },
+  "f1038e9972cb7407": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Março de 2010\n\nque aplica o Acordo-Quadro revisto sobre licença parental celebrado entre a BUSINESSEUROPE, a UEAPME, o CEEP e a CES e que revoga a Directiva 96/34/CE\n\n(Texto relevante para efeitos do EEE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o n.º 2 do artigo 155.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\n(1) O artigo 153.º do Tratado sobre o Funcionamento da União Europeia («TFUE») permite à União apoiar e completar a acção dos Estados-Membros, entre outros, no domínio da igualdade entre homens e mulheres quanto às oportunidades no mercado de trabalho e ao tratamento no trabalho.\n\n(2) Nos termos do n.º 1 do artigo 155.º do TFUE, o diálogo social a nível da União pode conduzir, se os parceiros sociais o entenderem desejável, a relações contratuais, incluindo acordos. Nos termos do n.º 2 do artigo 155.º do TFUE, os parceiros sociais podem pedir conjuntamente que os acordos por si celebrados a nível da União em matérias abrangidas pelo artigo 153.º do TFUE sejam aplicados mediante decisão adoptada pelo Conselho, sob proposta da Comissão.\n\n(3) Um acordo-quadro em matéria de licença parental foi celebrado pelas organizações europeias interprofissionais de parceiros sociais (CES, UNICE e CEEP) em 14 de Dezembro de 1995, ao qual foi conferido efeito legal pela Directiva 96/34/CE do Conselho, de 3 de Junho de 1996, relativa ao acordo-quadro sobre a licença parental celebrado pela UNICE, pelo CEEP e pela CES ([^1^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0001)). Aquela directiva foi alterada e alargada ao Reino Unido da Grã-Bretanha e da Irlanda do Norte pela Directiva 97/75/CE do Conselho ([^2^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0002)). A Directiva 96/34/CE contribuiu significativamente para melhorar as oportunidades oferecidas aos pais que trabalham nos Estados-Membros para melhor conciliarem as suas responsabilidades profissionais e familiares mediante acordos sobre licenças.\n\n(4) Nos termos dos n.^os^ 2 e 3 do artigo 138.º do Tratado que institui a Comunidade Europeia («Tratado CE») ([^3^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0003)), a Comissão consultou, em 2006 e 2007, os parceiros sociais sobre formas de melhorar a conciliação entre vida profissional, familiar e privada, designadamente a legislação comunitária em vigor em matéria de protecção da maternidade e licença parental, bem como sobre a possibilidade de introduzir novos tipos de licenças relacionadas com a família, como a licença de paternidade, a licença por adopção e a licença para assistência a familiares.\n\n(5) As três grandes organizações europeias interprofissionais de parceiros sociais de vocação geral (CES, CEEP e BUSINESSEUROPE, anteriormente designada UNICE) e a organização europeia interprofissional de parceiros sociais que representa uma determinada categoria de empresas (UEAPME) informaram a Comissão, em 11 de Setembro de 2008, do seu desejo de encetar negociações, nos termos do n.º 4 do artigo 138.º e do artigo 139.º do Tratado CE ([^4^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0004)), com vista a rever o acordo-quadro sobre licença parental celebrado em 1995.\n\n(6) Em 18 de Junho de 2009, aquelas organizações assinaram o acordo-quadro revisto sobre licença parental («acordo-quadro revisto») e transmitiram à Comissão um pedido conjunto para que apresentasse uma proposta de decisão do Conselho com vista à aplicação do acordo-quadro revisto.\n\n(7) No decurso das suas negociações, os parceiros sociais europeus reviram completamente o acordo-quadro de 1995 relativo à licença parental. Por conseguinte, a Directiva 96/34/CE, mais do que simplesmente alterada, deverá ser revogada e substituída por uma nova directiva.\n\n(8) Atendendo a que os objectivos da presente directiva, a saber, melhorar a conciliação da vida profissional, privada e familiar dos trabalhadores com filhos e a igualdade entre homens e mulheres quanto às oportunidades no mercado de trabalho e ao tratamento no trabalho em toda a União, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, ser melhor alcançados ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(9) Ao elaborar a sua proposta de directiva, a Comissão teve em conta a representatividade das partes signatárias do acordo-quadro revisto, os respectivos mandatos, a legalidade das cláusulas do acordo-quadro revisto, bem como o respeito pelas disposições aplicáveis às pequenas e médias empresas.\n\n(10) A Comissão informou o Parlamento Europeu e o Comité Económico e Social Europeu da sua proposta.\n\n(11) O n.º 1 da cláusula 1 do acordo-quadro revisto, em linha com os princípios gerais do direito da União na área da política social, estipula que o acordo estabelece requisitos mínimos.\n\n(12) O n.º 1 da cláusula 8 do acordo-quadro revisto estipula que os Estados-Membros podem aplicar ou introduzir disposições mais favoráveis do que as estabelecidas no acordo.\n\n(13) O n.º 2 da cláusula 8 do acordo-quadro revisto estipula que a aplicação das disposições do acordo não constitui fundamento válido para diminuir o nível geral de protecção assegurado aos trabalhadores no domínio abrangido pelo acordo.\n\n(14) Os Estados-Membros deverão prever sanções efectivas, proporcionadas e dissuasivas a aplicar em caso de incumprimento das obrigações decorrentes da presente directiva.\n\n(15) Os Estados-Membros podem, mediante pedido conjunto dos parceiros sociais, confiar-lhes a aplicação da presente directiva, na condição de tais Estados-Membros tomarem todas as medidas necessárias para, em qualquer altura, garantir os resultados impostos pela mesma.\n\n(16) Nos termos do ponto 34 do Acordo Interinstitucional «Legislar melhor» ([^5^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0005)), os Estados-Membros são encorajados a elaborar, para si próprios e no interesse da União, os seus próprios quadros, que ilustrem, na medida do possível, a concordância entre a presente directiva e as medidas de transposição, e a publicá-los,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2ac97201716f2682": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva ou certificar-se de que os parceiros sociais, por acordo, introduziram as disposições necessárias até 8 de Março de 2012. Devem informar imediatamente do facto a Comissão.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência devem ser aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros podem dispor, no máximo, de um ano suplementar para dar cumprimento à presente directiva, se tal se revelar necessário em consequência de dificuldades especiais ou de aplicação mediante convenção colectiva. Devem informar do facto a Comissão até 8 de Março de 2012, explicitando as razões por que é necessário um período adicional.\n\nEm derrogação do primeiro parágrafo, o período adicional aí referido é prorrogado até 31 de dezembro de 2018 no que diz respeito a Maiote enquanto região ultraperiférica da União na aceção do artigo 349.º do TFUE.\n\n3. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "aa9a23d14d81be19": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs destinatários da presente directiva são os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "2e4e7927c4b210d6": {
+   "fragment_id": "ACORDO-QUADRO SOBRE LICENÇA PARENTAL (REVISTO)",
+   "type": "divisao",
+   "heading": "ACORDO-QUADRO SOBRE LICENÇA PARENTAL (REVISTO)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACORDO-QUADRO SOBRE LICENÇA PARENTAL (REVISTO)"
+  },
+  "6dfcd7850f67c07e": {
+   "fragment_id": "18 de Junho de 2009",
+   "type": "divisao",
+   "heading": "18 de Junho de 2009",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 18 de Junho de 2009"
+  },
+  "27eda766c5b7b641": {
+   "fragment_id": "Preâmbulo",
+   "type": "divisao",
+   "heading": "Preâmbulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Preâmbulo\n\nO presente acordo-quadro assinado pelos parceiros sociais europeus, BUSINESSEUROPE, UEAPME, CEEP e CES (e o comité de ligação Eurocadres/CEC), revê o acordo-quadro sobre licença parental, celebrado em 14 de Dezembro de 1995, que define requisitos mínimos em matéria de licença parental, enquanto meio importante de conciliar responsabilidades profissionais e familiares e promover a igualdade de oportunidades e tratamento entre homens e mulheres.\n\nOs parceiros sociais europeus solicitam à Comissão que apresente o presente acordo-quadro ao Conselho para que este adopte uma decisão que torne estes requisitos vinculativos nos Estados-Membros da União Europeia."
+  },
+  "4265f25a3c3ccd1a": {
+   "fragment_id": "I. Considerações gerais",
+   "type": "divisao",
+   "heading": "I. Considerações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Considerações gerais\n\n1. Tendo em conta o Tratado CE, nomeadamente os seus artigos 138.º e 139.º ([^6^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0006));\n\n2. Tendo em conta a alínea c) do n.º 1 do artigo 137.º e o artigo 141.º do Tratado CE ([^7^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0007)), bem como o princípio da igualdade de tratamento [artigos 2.º, 3.º e 13.º do Tratado CE ([^8^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0008))] e a legislação dele derivada, em especial a Directiva 75/117/CEE do Conselho relativa à aproximação das legislações dos Estados-Membros no que se refere à aplicação do princípio da igualdade de remuneração entre os trabalhadores masculinos e femininos ([^9^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0009)); a Directiva 92/85/CEE do Conselho relativa à implementação de medidas destinadas a promover a melhoria da segurança e da saúde das trabalhadoras grávidas, puérperas ou lactantes no trabalho ([^10^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0010)); a Directiva 96/97/CE do Conselho que altera a Directiva 86/378/CEE relativa à aplicação do princípio de igualdade de tratamento entre homens e mulheres nos regimes profissionais de segurança social ([^11^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0011)); e a Directiva 2006/54/CE relativa à aplicação do princípio da igualdade de oportunidades e igualdade de tratamento de homens e mulheres em domínios ligados ao emprego e à actividade profissional (reformulação) ([^12^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#E0012));\n\n3. Tendo em conta a Carta dos Direitos Fundamentais da União Europeia, de 7 de Dezembro de 2000, e os seus artigos 23.º e 33.º relativos à igualdade entre homens e mulheres e à conciliação da vida profissional, privada e familiar;\n\n4. Tendo em conta o relatório da Comissão de 2003 sobre a aplicação da Directiva 96/34/CE do Conselho, de 3 de Junho de 1996, relativa ao acordo-quadro sobre a licença parental, celebrado pela UNICE, pelo CEEP e pela CES;\n\n5. Tendo em conta os objectivos preconizados pela Estratégia de Lisboa para o Crescimento e o Emprego de aumentar a taxa global de emprego para 7 %, a taxa de emprego das mulheres para 60 % e a taxa de emprego dos trabalhadores mais velhos para 50 %; as metas de Barcelona em matéria de provisão de estruturas de acolhimento de crianças; e o contributo das políticas destinadas a melhorar a conciliação da vida profissional, privada e familiar para a consecução dessas metas;\n\n6. Tendo em conta o quadro de acções sobre igualdade entre homens e mulheres aprovado pelos parceiros sociais em 22 de Março de 2005, que defende o apoio ao equilíbrio entre trabalho e vida como uma área de acção prioritária, ao mesmo tempo que, para se avançar na questão da conciliação, reconhece a necessidade de instaurar um conjunto de políticas equilibradas, integradas e coerentes que incluam disposições em matéria de licença, de organização do trabalho e de criação de estruturas de acolhimento de crianças;\n\n7. Considerando que as medidas para melhorar a conciliação fazem parte de uma agenda política mais vasta para dar resposta às necessidades dos empregadores e dos trabalhadores e melhorar a adaptabilidade e a empregabilidade, no quadro de uma abordagem de flexigurança;\n\n8. Considerando que as políticas da família devem contribuir para a concretização da igualdade entre homens e mulheres e ser encaradas no contexto da evolução demográfica, dos efeitos do envelhecimento da população, da aproximação entre as gerações, da promoção da participação das mulheres na vida activa e da partilha das responsabilidades de cuidados entre homens e mulheres;\n\n9. Considerando que a Comissão consultou os parceiros sociais em duas fases, em 2006 e 2007, sobre conciliação da vida profissional, privada e familiar; que abordou nomeadamente a questão da actualização do enquadramento regulamentar a nível comunitário e que incentivou os parceiros sociais europeus a analisar as disposições do seu acordo-quadro sobre licença parental com vista à sua revisão;\n\n10. Considerando que o acordo-quadro sobre licença parental assinado pelos parceiros sociais em 1995 agiu como catalisador de mudanças positivas, garantiu uma base comum em matéria de equilíbrio entre trabalho e vida nos Estados-Membros e contribuiu significativamente para que os pais que trabalham na Europa pudessem conciliar melhor estes aspectos; que, não obstante, com base numa avaliação conjunta, os parceiros sociais europeus consideram que determinados elementos do acordo têm de ser adaptados ou revistos para melhor concretizar estes objectivos;\n\n11. Considerando que certos aspectos têm de ser adaptados, tendo em conta as evoluções da mão-de-obra e da sociedade, designadamente a crescente diversidade de estruturas familiares, no respeito pela legislação, por convenções colectivas e/ou práticas nacionais;\n\n12. Considerando que em muitos Estados-Membros as medidas de incentivo aos homens no sentido de participarem equitativamente nas responsabilidades familiares não produziram resultados suficientes; que, por conseguinte, há que tomar medidas mais eficazes para encorajar uma partilha mais igual das responsabilidades familiares entre homens e mulheres;\n\n13. Considerando que muito Estados-Membros dispõem já de um conjunto variado de medidas e práticas em matéria de licenças, estruturas de acolhimento de crianças e organização flexível do trabalho, adaptadas às necessidades dos trabalhadores e dos empregadores e que visam ajudar os pais a conciliar vida profissional, privada e familiar; que estas medidas e práticas devem ser tomadas em consideração aquando da aplicação do presente acordo;\n\n14. Considerando que o presente acordo-quadro é uma das acções dos parceiros sociais europeus em matéria de conciliação;\n\n15. Considerando que o presente acordo é um acordo-quadro que enuncia requisitos mínimos e disposições sobre licença parental, distinta da licença de maternidade, e sobre faltas ao trabalho por motivo de força maior, remetendo para os Estados-Membros e para os parceiros sociais a criação das condições de acesso e as modalidades de aplicação, a fim de ter em conta a situação de cada Estado-Membro;\n\n16. Considerando que, no presente acordo, o direito à licença parental é um direito individual que não pode, em princípio, ser transferido e que os Estados-Membros podem autorizar a sua transferibilidade; que a experiência demonstra que a impossibilidade de transferir a licença pode levar os pais a optar pelo seu gozo; que, por conseguinte, os parceiros sociais europeu concordam em tornar uma parte da licença não transferível;\n\n17. Considerando que é importante ter em conta as necessidades especiais dos progenitores de filhos com deficiência ou doença prolongada;\n\n18. Considerando que os Estados-Membros devem prever a manutenção dos direitos às prestações em espécie efectuadas a título do seguro de doença durante o período mínimo de licença parental;\n\n19. Considerando que, aquando da aplicação do presente acordo, os Estados-Membros devem, sempre que adequado e tendo em conta as condições nacionais e a situação orçamental, prever a manutenção dos mesmos direitos às prestações de segurança social durante o período mínimo de licença parental, ao mesmo tempo que têm em conta o facto de o rendimento ser um dos factores na decisão de gozar a licença parental;\n\n20. Considerando que as experiências dos Estados-Membros demonstraram que o nível de rendimento durante a licença parental é um dos factores que influencia a decisão de a gozar, em especial no caso dos pais;\n\n21. Considerando que o acesso a disposições flexíveis de trabalho facilita aos progenitores a conjugação das responsabilidades profissionais e parentais e a sua reintegração no mercado de trabalho, especialmente quando regressam do período de licença parental;\n\n22. Considerando que as disposições em matéria de licença parental visam ajudar os trabalhadores com filhos durante um período específico de tempo, de forma a promover a sua manutenção na vida activa; que, por conseguinte, deve ser prestada uma maior atenção à necessidade de o trabalhador manter o contacto com o empregador durante a licença ou programando com este o seu regresso ao trabalho;\n\n23. Considerando que o presente acordo tem em conta a necessidade de melhorar as disposições relativas à política social, favorecer a competitividade da economia da União Europeia e evitar a imposição de restrições administrativas, financeiras e jurídicas contrárias à criação e ao desenvolvimento de pequenas e médias empresas;\n\n24. Considerando que os parceiros sociais são os mais bem colocados para encontrar soluções que dêem resposta às necessidades dos empregadores e dos trabalhadores e que devem, por isso, desempenhar um papel especial na implementação, aplicação, acompanhamento e avaliação do presente acordo, no contexto mais vasto de outras medidas destinadas a melhorar a conciliação das responsabilidades profissionais e familiares e promover a igualdade de oportunidades e de tratamento entre homens e mulheres.\n\nAS PARTES SIGNATÁRIAS ACORDARAM NO SEGUINTE:"
+  },
+  "f6557b88fd2908df": {
+   "fragment_id": "II. Conteúdo",
+   "type": "divisao",
+   "heading": "II. Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Conteúdo"
+  },
+  "d56c351f9761948c": {
+   "fragment_id": "Cláusula 1: Objecto e âmbito de aplicação",
+   "type": "divisao",
+   "heading": "Cláusula 1: Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cláusula 1: Objecto e âmbito de aplicação\n\n1. O presente acordo estabelece requisitos mínimos para facilitar a conciliação das responsabilidades profissionais e familiares dos trabalhadores com filhos, tendo em conta a diversidade crescente das estruturas familiares e respeitando a legislação, as convenções colectivas e/ou as práticas nacionais.\n\n2. O presente acordo é aplicável a todos os trabalhadores, de ambos os sexos, com um contrato ou uma relação de trabalho definidos na legislação, nas convenções colectivas e/ou nas práticas vigentes em cada Estado-Membro.\n\n3. Os Estados-Membros e/ou os parceiros sociais não excluem do âmbito e da aplicação do presente acordo os trabalhadores, os contratos de trabalho ou as relações de trabalho pelo simples facto de estes respeitarem a trabalhadores a tempo parcial, trabalhadores contratados a termo ou pessoas com um contrato ou relação de trabalho com uma empresa de trabalho temporário."
+  },
+  "b2e9eefc14ceb787": {
+   "fragment_id": "Cláusula 2: Licença parental",
+   "type": "divisao",
+   "heading": "Cláusula 2: Licença parental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cláusula 2: Licença parental\n\n1. Por força do presente acordo, é concedido aos trabalhadores de ambos os sexos um direito individual à licença parental pelo nascimento ou pela adopção de um filho, para dele poderem cuidar até uma determinada idade que poderá ir até aos oito anos, a definir pelos Estados-Membros e/ou pelos parceiros sociais.\n\n2. A licença é concedida por um período mínimo de quatro meses e, no intuito de promover a igualdade de oportunidades e tratamento entre homens e mulheres, deve, em princípio, ser concedida numa base não transferível. Para incentivar uma maior igualdade entre ambos os progenitores no gozo da licença, pelo menos um dos quatro meses não pode ser transferido. As modalidades de aplicação do período não -transferível são definidas a nível nacional, mediante legislação e/ou convenções colectivas, tendo em conta as disposições existentes nos Estados-Membros em matéria de licenças."
+  },
+  "0ed69a8762dad55d": {
+   "fragment_id": "Cláusula 3: Modalidades de aplicação",
+   "type": "divisao",
+   "heading": "Cláusula 3: Modalidades de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cláusula 3: Modalidades de aplicação\n\n1. As condições de acesso e as regras de aplicação da licença parental são definidas na lei e/ou nas convenções colectivas dos Estados-Membros, no respeito pelos requisitos mínimos enunciados no presente acordo. Os Estados-Membros e/ou os parceiros sociais podem, designadamente:\n\na) Decidir se a licença parental é concedida a tempo inteiro ou a tempo parcial, de modo fragmentado ou sob a forma de um sistema de créditos de tempo, em função das necessidades dos empregadores e dos trabalhadores;\n\nb) Fazer depender o direito à licença parental de um período de trabalho e/ou de um período de antiguidade não superior a um ano; ao aplicar esta cláusula, os Estados-Membros e/ou os parceiros sociais garantem a inclusão neste período, se for caso disso, da soma total de sucessivos contratos a termo com o mesmo empregador, tal como definidos na Directiva 1999/70/CE do Conselho relativa a contratos de trabalho a termo;\n\nc) Definir as circunstâncias nas quais um empregador, após consulta em conformidade com legislação, convenções colectivas e/ou práticas nacionais, pode adiar a concessão da licença parental por razões justificáveis relacionadas com o funcionamento da empresa. Qualquer dificuldade decorrente da aplicação desta cláusula deve ser resolvida nos termos da legislação, das convenções colectivas e/ou das práticas nacionais;\n\nd) Para além do disposto na alínea anterior, autorizar acordos particulares em resposta às necessidades de funcionamento e de organização de pequenas empresas.\n\n2. Os Estados-Membros e/ou os parceiros sociais fixam períodos de aviso prévio do trabalhador ao empregador, sempre que aquele exerça o seu direito à licença parental, especificando o início e o termo do período de licença. Ao determinarem a duração desses períodos de aviso prévio, os Estados-Membros e/ou os parceiros sociais têm em consideração os interesses dos trabalhadores e dos empregadores.\n\n3. Os Estados-Membros e/ou os parceiros sociais avaliam a necessidade de adaptar as condições de acesso e as modalidades de aplicação da licença parental às necessidades dos trabalhadores com filhos portadores de deficiência ou com doença prolongada."
+  },
+  "c01dacf6b35bafa5": {
+   "fragment_id": "Cláusula 4: Adopção",
+   "type": "divisao",
+   "heading": "Cláusula 4: Adopção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cláusula 4: Adopção\n\n1. Os Estados-Membros e/ou os parceiros sociais avaliam a necessidade de medidas adicionais para dar resposta às necessidades específicas dos pais adoptivos."
+  },
+  "c6e3de8698afd247": {
+   "fragment_id": "Cláusula 5: Direitos laborais e não discriminação",
+   "type": "divisao",
+   "heading": "Cláusula 5: Direitos laborais e não discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cláusula 5: Direitos laborais e não discriminação\n\n1. No termo da licença parental, o trabalhador tem direito a ser reintegrado no seu posto de trabalho ou, em caso de impossibilidade, num trabalho equivalente ou similar, consoante o seu contrato ou a sua relação de trabalho.\n\n2. Os direitos adquiridos ou em fase de aquisição pelo trabalhador no momento de início da licença parental são mantidos tal como se encontram até ao final da licença parental. No termo da licença parental, são aplicáveis estes direitos, incluindo eventuais alterações introduzidas pela legislação, por convenções colectivas e/ou pelas práticas nacionais.\n\n3. Os Estados-Membros e/ou os parceiros sociais definem o regime do contrato ou da relação de trabalho para o período da licença parental.\n\n4. A fim de garantir que os trabalhadores possam exercer o seu direito à licença parental, os Estados-Membros e/ou os parceiros sociais tomam as medidas necessárias para proteger os trabalhadores contra um tratamento menos favorável ou despedimento com fundamento no pedido ou no gozo da licença parental, nos termos da legislação, das convenções colectivas e/ou das práticas nacionais.\n\n5. Todas as questões de segurança social associadas ao presente acordo devem ser examinadas e determinadas pelos Estados-Membros e/ou os parceiros sociais nos termos da legislação e/ou de convenções colectivas nacionais, tendo em conta a importância da continuidade dos direitos às prestações de segurança social no âmbito dos diferentes regimes, em particular aos cuidados de saúde."
+  },
+  "e23e7f86bea3b7d7": {
+   "fragment_id": "Cláusula 6: Regresso ao trabalho",
+   "type": "divisao",
+   "heading": "Cláusula 6: Regresso ao trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cláusula 6: Regresso ao trabalho\n\n1. A fim de promover uma melhor conciliação entre vida profissional e familiar, os Estados-Membros e/ou os parceiros sociais tomam as medidas necessárias para garantir que os trabalhadores, ao regressarem da licença parental, possam solicitar alterações ao respectivo horário laboral e/ou organização do trabalho durante um período determinado. Os empregadores devem considerar e dar resposta a pedidos deste tipo, tendo em conta as suas necessidades e as dos trabalhadores.\n\n2. Para facilitar o regresso ao trabalho após a licença parental, os trabalhadores e os empregadores são incentivados a manter contacto durante o período de licença e a programar eventuais medidas de reintegração, a decidir entre as partes em questão, tendo em conta a legislação, as convenções colectivas e/ou as práticas nacionais."
+  },
+  "86bd9811c840d3c6": {
+   "fragment_id": "Cláusula 7: Faltas ao trabalho por motivo de força maior",
+   "type": "divisao",
+   "heading": "Cláusula 7: Faltas ao trabalho por motivo de força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cláusula 7: Faltas ao trabalho por motivo de força maior\n\n1. Os Estados-Membros e/ou os parceiros sociais tomam as medidas necessárias para autorizar os trabalhadores a ausentar-se do trabalho, nos termos da legislação, das convenções colectivas e/ou das práticas nacionais, por motivo de força maior associado a razões familiares urgentes, em caso de doença ou de acidente que torne indispensável a presença imediata do trabalhador.\n\n2. Os Estados-Membros e/ou os parceiros sociais podem especificar as condições de acesso e as regras de execução do número anterior e limitar esse direito a uma determinada duração por ano e/ou por caso."
+  },
+  "6d4c3231fb73f4d6": {
+   "fragment_id": "Cláusula 8: Disposições finais",
+   "type": "divisao",
+   "heading": "Cláusula 8: Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cláusula 8: Disposições finais\n\n1. Os Estados-Membros podem aplicar ou introduzir disposições mais favoráveis do que as previstas no presente acordo.\n\n2. A aplicação das disposições do presente acordo não constitui fundamento válido para diminuir o nível geral de protecção assegurado aos trabalhadores no domínio abrangido pelo presente acordo. Tal não deve prejudicar o direito de os Estados-Membros e/ou os parceiros sociais desenvolverem disposições legislativas, regulamentares ou contratuais diferentes, tendo em conta a evolução da situação (incluindo a introdução da não transferibilidade do direito à licença parental), desde que sejam respeitados os requisitos mínimos enunciados no presente acordo.\n\n3. O presente acordo não prejudica o direito de os parceiros sociais celebrarem, ao nível adequado, incluindo a nível europeu, acordos que adaptem e/ou complementem as suas disposições para ter em consideração circunstâncias particulares.\n\n4. Os Estados-Membros adoptam as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à decisão do Conselho o mais tardar dois anos após a sua adopção ou asseguram que os parceiros sociais introduzem as medidas necessárias, mediante acordo, antes do termo daquele período. Se for necessário por motivo de dificuldades especiais ou de uma aplicação mediante convenções colectivas, os Estados-Membros podem dispor, no máximo, de um ano suplementar para dar cumprimento à presente decisão.\n\n5. A prevenção e a resolução dos litígios e queixas que decorram da aplicação do presente acordo devem efectuar-se em conformidade com a legislação, as convenções colectivas e/ou as práticas nacionais.\n\n6. Sem prejuízo das competências respectivas da Comissão, dos tribunais nacionais e do Tribunal de Justiça da União Europeia, qualquer questão relativa à interpretação do presente acordo a nível europeu deve, em primeiro lugar, ser remetida pela Comissão às partes signatárias, que emitirão parecer.\n\n7. As partes signatárias procedem a uma revisão da aplicação do presente acordo cinco anos após a data da decisão do Conselho, se alguma das partes signatárias assim o solicitar.\n\n---"
+  },
+  "384d1842aaae6c43": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0001)) JO L 145 de 19.6.1996, p. 4.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0002)) JO L 10 de 16.1.1998, p. 24.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0003)) Renumerados: n.^os^ 2 e 3 do artigo 154.º do TFUE.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0004)) Renumerado: n.º 4 do artigo 154.º e artigo 155.º do TFUE.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0005)) JO C 321 de 31.12.2003, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0006)) Renumerados: artigos 154.º e 155.º do TFUE.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0007)) Renumerados: alínea c) do n.º 1 do artigo 153.º e artigo 155.º do TFUE.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0008)) O artigo 2.º do Tratado CE é revogado e substituído na substância pelo artigo 3.º do Tratado da União Europeia. O n.º 1 do artigo 3.º do Tratado CE é revogado e substituído na substância pelos artigos 3.º a 6.º do TFUE. O n.º 1 do artigo 3.º do Tratado CE é renumerado artigo 8.º do TFUE. O artigo 13.º do Tratado CE é renumerado artigo 19.º do TFUE.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0009)) JO L 45 de 19.2.1975, p. 19.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0010)) JO L 348 de 28.11.1992, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0011)) JO L 46 de 17.2.1997, p. 20.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/f3b1eb90-a7e0-4fef-b1fe-6da7bac5c004.0019.02/DOC_1#src.E0012)) JO L 204 de 26.7.2006, p. 23."
+  },
+  "56d9473d0dd13a5e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02010L0018 — PT — 02.08.2022 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32010L0018) [DIRECTIVA 2010/18/UE DO CONSELHO](http://publications.europa.eu/resource/celex/32010L0018) [de 8 de Março de 2010](http://publications.europa.eu/resource/celex/32010L0018) [que aplica o Acordo-Quadro revisto sobre licença parental celebrado entre a BUSINESSEUROPE, a UEAPME, o CEEP e a CES e que revoga a Directiva 96/34/CE](http://publications.europa.eu/resource/celex/32010L0018) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32010L0018) (JO L 068, 18.3.2010, p.13)\n\n**Revogada por:**\n\n- [Diretiva (UE) 2019/1158 do Parlamento Europeu e do Conselho de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019L1158) — L 188 — 79 — 12.7.2019"
+  }
+ }
+}

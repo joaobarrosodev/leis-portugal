@@ -1,0 +1,361 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:138382327:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-200308717",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/18-2020-138382327",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-07-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "200307599",
+    "200307600",
+    "200307601",
+    "200307602",
+    "200307603",
+    "200307604",
+    "200307605",
+    "200307606",
+    "200307607",
+    "200307608",
+    "200307609",
+    "200307610"
+   ]
+  },
+  {
+   "date": "2022-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:200308689:por",
+     "title": "Decreto Legislativo Regional n.º 22/2022/A",
+     "published": "2022-08-26",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/22-2022-200308689"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Adita Artigo 4.º-C",
+    "Adita Artigo 4.º-D",
+    "Adita Artigo 4.º-E",
+    "Adita Artigo 4.º-F",
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 10.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "200307599",
+    "200307600",
+    "200307612",
+    "200307613",
+    "200307614",
+    "200307672",
+    "200356281",
+    "200356290",
+    "200356299",
+    "200356317",
+    "200356318",
+    "200356319",
+    "200356320",
+    "200356321",
+    "200375905",
+    "200356323",
+    "200356327",
+    "200356328",
+    "200356331",
+    "200356332",
+    "200356333"
+   ]
+  }
+ ],
+ "fragments": {
+  "200307599": {
+   "fragment_id": "200308718",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 18/2020/A\n\nSumário: Regime jurídico do Estatuto da Agricultura Familiar na Região Autónoma dos Açores.\n\nRegime jurídico do Estatuto da Agricultura Familiar na Região Autónoma dos Açores\n\nO Decreto-Lei n.º 64/2018, de 7 de agosto, veio consagrar o Estatuto da Agricultura Familiar.\n\nConsiderando que, na Região Autónoma dos Açores, a pequena produção agrícola em contexto familiar assume relevância social e económica;\n\nConsiderando a importância de fixar as populações nas zonas rurais, assegurando a coesão territorial, e a importância de apoiar e estimular a agricultura familiar como veículo para o desenvolvimento económico e social daquelas;\n\nConsiderando as especificidades próprias da agricultura familiar açoriana, justifica-se que sejam aplicadas medidas que permitam estimular o seu desenvolvimento e incremento, tornando-a mais atrativa e dinâmica para as novas gerações e também combatendo, desta forma, o envelhecimento das populações rurais;\n\nConsiderando, assim, a necessidade de adequar o regime previsto no referido decreto-lei à realidade do setor agrícola regional, caracterizado por especificidades que o diferenciam no seio do panorama nacional, potenciando o desenvolvimento desta atividade:\n\nO presente diploma visa, pois, dar exequibilidade àquele normativo, procedendo a um conjunto de adaptações que resultam da natureza e características próprias do setor agrícola regional.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º e da alínea a) do n.º 2 do artigo 52.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "200307600": {
+   "fragment_id": "200308719",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente diploma aprova o regime jurídico do Estatuto da Agricultura Familiar na Região Autónoma dos Açores, adiante designado por Estatuto.\n\n2 - O disposto no presente diploma não prejudica a aplicação das normas que integram o Estatuto da Agricultura Familiar, aprovado pelo Decreto-Lei n.º 64/2018, de 7 de agosto.\n\n3 - As competências atribuídas no Decreto-Lei n.º 64/2018, de 7 de agosto, reporta-se, na administração regional autónoma, ao membro do Governo Regional com competência nas áreas da agricultura e florestas, sem prejuízo das competências que de acordo como o mesmo diploma sejam exclusivas dos serviços centrais do ministério correspondente, bem como das competências atribuídas a outro órgão pela legislação em vigor a nível regional."
+  },
+  "200307601": {
+   "fragment_id": "200308720",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO presente diploma visa:\n\na) Distinguir as especificidades da pequena agricultura familiar na Região nas suas diversas dimensões, económica, territorial, social e ambiental;\n\nb) Contrariar a diminuição e o envelhecimento da população rural;\n\nc) Valorizar a produção local e estimular o mercado interno;\n\nd) Conceber medidas de política agrícola e outras adequadas a esta estrutura de produção;\n\ne) Estimular os sistemas de produção sustentáveis e métodos de produção em modo biológico;\n\nf) Incentivar o papel da agricultura familiar nas economias locais e regional;\n\ng) Apoiar a atividade agrícola em complementaridade com outras atividades e profissões;\n\nh) Contrariar o desperdício alimentar agrícola e contribuir para o autoabastecimento familiar;\n\ni) Contribuir para a preservação ambiental e para a biodiversidade dos ecossistemas."
+  },
+  "200307602": {
+   "fragment_id": "200308721",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente diploma, são expressamente aplicáveis as definições constantes do artigo 3.º do Decreto-Lei n.º 64/2018, de 7 de agosto."
+  },
+  "200307603": {
+   "fragment_id": "200308722",
+   "type": 11,
+   "heading": "Artigo 4.º — Título de reconhecimento e validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Título de reconhecimento e validade\n\n1 - A atribuição do Estatuto é efetuada ao responsável da exploração agrícola familiar, através da emissão de um título de reconhecimento pelo departamento do Governo Regional com competência em matéria de agricultura.\n\n2 - A validade da atribuição do Estatuto é de dois anos, a contar da data da sua emissão, cabendo ao seu titular requerer a sua renovação."
+  },
+  "200307604": {
+   "fragment_id": "200308723",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de atribuição\n\nO título de reconhecimento é atribuído ao responsável da exploração agrícola familiar que satisfaça cumulativamente os seguintes requisitos:\n\na) Tenha idade igual ou superior a 18 anos;\n\nb) Tenha um rendimento coletável inferior ou igual ao valor enquadrável no 4.º escalão do imposto do rendimento de pessoas singulares;\n\nc) Receba um montante de apoio não superior a (euro) 10 000 (dez mil euros) decorrente das ajudas do Programa de Operações Específicas para fazer face ao afastamento e insularidade (POSEI-Açores), no ano anterior ao da apresentação do pedido de reconhecimento;\n\nd) Seja titular de uma exploração agrícola familiar sediada na Região, cujos prédios rústicos ou mistos estejam registados no Sistema de Identificação Parcelar (iSIP);\n\ne) Utilize mão-de-obra familiar, não remunerada, em percentagem igual ou superior a 50 % do total de mão-de-obra estimada para a exploração;\n\nf) Possuam domicílio fiscal na Região."
+  },
+  "200307605": {
+   "fragment_id": "200308724",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direitos\n\nSem prejuízo da aplicação do disposto nas alíneas a) a h), j), p) e q) do n.º 1 do artigo 6.º do Decreto-Lei n.º 64/2018, de 7 de agosto, a atribuição do título de reconhecimento permite o acesso:\n\na) A plafonds diferenciados no âmbito do sistema de abastecimento do gasóleo à agricultura;\n\nb) A condições diferenciadas em matéria de seguros agrícolas;\n\nc) Diferenciado, a medidas de apoio da atividade agrícola, da responsabilidade do departamento do Governo Regional com competência em matéria de agricultura e florestas e financiadas exclusivamente pelo orçamento da Região."
+  },
+  "200307606": {
+   "fragment_id": "200308725",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações do titular do Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações do titular do Estatuto\n\n1 - Constituem obrigações do titular do Estatuto:\n\na) Permitir o acesso à exploração agrícola e a facultar os documentos necessários ao acompanhamento e controlo do respetivo reconhecimento;\n\nb) Comunicar ao departamento do Governo Regional competente em matéria de agricultura, no prazo de 10 dias úteis, qualquer alteração às condições previstas no artigo 5.º;\n\nc) Colaborar com o departamento do Governo Regional competente em matéria de agricultura na realização dos controlos que vierem a ser determinados com vista a comprovar o cumprimento das condições previstas no artigo 5.º\n\n2 - O departamento do Governo Regional competente em matéria de agricultura promoverá a revogação do título de reconhecimento do Estatuto em caso de incumprimento das obrigações previstas no número anterior e no artigo 5.º, bem como nos casos de utilização abusiva ou fraudulenta do título para efeitos de atribuição de benefícios."
+  },
+  "200307607": {
+   "fragment_id": "200308726",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento de reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimento de reconhecimento\n\nO procedimento relativo à atribuição do título de reconhecimento e controlo do Estatuto é definido por portaria do membro do Governo Regional competente em matéria de agricultura e florestas."
+  },
+  "200307608": {
+   "fragment_id": "200308727",
+   "type": 11,
+   "heading": "Artigo 9.º — Integração, promoção e divulgação do Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Integração, promoção e divulgação do Estatuto\n\n1 - As entidades da administração regional autónoma com competência nas áreas relacionadas com as medidas constantes do presente diploma devem promover a sua adequada implementação.\n\n2 - As entidades regionais gestoras de programas ou iniciativas de apoio, nacionais ou comunitários, devem integrar o Estatuto nos respetivos programas ou iniciativas.\n\n3 - As entidades referidas no número anterior procedem à divulgação das medidas destinadas aos titulares do Estatuto."
+  },
+  "200307609": {
+   "fragment_id": "200308728",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma de prevalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma de prevalência\n\nO regime estabelecido no presente diploma prevalece sobre quaisquer normas que versem sobre a mesma matéria."
+  },
+  "200307610": {
+   "fragment_id": "200308729",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "200307612": {
+   "fragment_id": "200308720",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO presente diploma visa:\n\na) Reconhecer e distinguir as dimensões económica, territorial, ambiental e social da agricultura familiar na Região;\n\nb) Contrariar a diminuição e o envelhecimento da população rural, potenciando a fixação populacional e o surgimento de novas dinâmicas nos territórios rurais mais despovoados;\n\nc) Promover e valorizar a produção local, estimular o mercado interno e melhorar os respetivos circuitos de comercialização;\n\nd) Conceber políticas públicas adequadas a esta estrutura de produção, potenciando a preservação ambiental e a biodiversidade dos ecossistemas;\n\ne) Estimular uma agricultura sustentável, incentivando a melhoria dos sistemas e métodos de produção;\n\nf) Incentivar o papel da agricultura familiar nas economias locais e regional, conferindo-lhe um valor estratégico nas prioridades políticas de combate ao desperdício alimentar e de autoabastecimento familiar;\n\ng) Apoiar a atividade agrícola em complementaridade com outras atividades e profissões;\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) Combater a discriminação de género;\n\nk) Promover a proteção e bem-estar animal;\n\nl) Reduzir a dependência energética;\n\nm) Incentivar a agricultura biológica, com recurso à policultura e práticas tradicionais de cultivo com baixo impacto ambiental;\n\nn) Promover a poluição zero e o ambiente livre de substâncias tóxicas;\n\no) Promover um sistema alimentar justo, saudável e amigo do ambiente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200307613": {
+   "fragment_id": "200308721",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente diploma, entende-se por:\n\na) 'Agricultura familiar', o modo de organização de atividades produtivas, de gestão do ambiente e de suporte da vida social nos territórios rurais, assente numa exploração agrícola familiar;\n\nb) 'Exploração agrícola familiar', a exploração agrícola em que a mão de obra familiar, medida em Unidade de Trabalho Ano, representa mais de 50 % da mão de obra total da exploração agrícola;\n\nc) 'Agregado familiar', os cônjuges, os ascendentes e descendentes na linha reta em 1.º e 2.º graus, os parentes por afinidade, os que vivam em união de facto e os demais a cargo que vivam em situação de economia comum com o titular da exploração agrícola e participem na atividade da exploração de forma regular;\n\nd) 'Titular da exploração agrícola familiar', o proprietário, superficiário, arrendatário ou comodatário cujos prédios rústicos ou mistos estejam registados no Sistema de Identificação Parcelar (iSIP);\n\ne) 'Requerente', a pessoa singular titular da exploração agrícola que, à data do pedido de atribuição do Estatuto, preencha as condições de atribuição previstas no presente diploma;\n\nf) 'Mão de obra da exploração agrícola', o trabalho mobilizado na exploração agrícola, com origem na família ou no assalariamento de trabalhadores permanentes, eventuais ou não contratados diretamente pelo produtor;\n\ng) 'Mão de obra familiar', o trabalho realizado pelo titular da exploração agrícola e pelos membros do seu agregado familiar;\n\nh) 'Mão de obra estimada para a exploração', a mão de obra obtida por estimativa, considerando o Tipo de Orientação Produtiva da Exploração medida através da Orientação Técnica Económica (OTE) e a dimensão da exploração medida através do Valor da Produção Padrão (VPP), de acordo com a tipologia comunitária das explorações agrícolas;\n\ni) 'Unidade de Trabalho Ano (UTA) ', a unidade de medida da mão de obra correspondente ao trabalho realizado num ano por um trabalhador a tempo inteiro;\n\nj) 'Rendimento coletável', rendimento anual bruto, efetuadas as respetivas deduções específicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200307614": {
+   "fragment_id": "200308722",
+   "type": 11,
+   "heading": "Artigo 4.º — Título de reconhecimento",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º — Título de reconhecimento\n\n1 - O Estatuto é apenas atribuído a pessoa singular, titular da exploração agrícola familiar, através da emissão de um título de reconhecimento pelo departamento do Governo Regional com competência em matéria de agricultura.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200307672": {
+   "fragment_id": "200308739",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Pedido de reconhecimento",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º-A — Pedido de reconhecimento\n\n1 - O pedido de reconhecimento é apresentado pela pessoa singular titular da exploração agrícola, após efetuar o respetivo registo de utilizador no GestPDR (https://gestpdr.azores.gov.pt), caso ainda não o possua.\n\n2 - O pedido de reconhecimento efetua-se através de submissão de formulário eletrónico, disponível em https://agrifam.azores.gov.pt, estando sujeito a confirmação de receção a efetuar pela direção regional com competência em matéria de agricultura, considerando-se a data de submissão como a data de apresentação do pedido.\n\n3 - O pedido de reconhecimento deverá ser instruído com a seguinte documentação:\n\na) A identificação do requerente;\n\nb) Comprovativo do IRS ou da isenção e correspondente demonstração da liquidação para aferição do rendimento coletável;\n\nc) Declaração, pelo requerente, da composição do seu agregado familiar, da indicação do tempo que dedica à exploração e dos elementos que, de forma regular, contribuem para as atividades na exploração.\n\n4 - Se o requerente submeteu o formulário de candidatura anual dos pedidos de apoio no âmbito do Sistema Integrado de Gestão e de Controlo, terá de o indicar no pedido de reconhecimento, sendo que os elementos relativos à exploração serão preenchidos automaticamente.\n\n5 - Se o requerente não submeteu o formulário mencionado no número anterior, cabe-lhe preencher os elementos relativos à exploração, reportados à data de apresentação do pedido de reconhecimento.\n\n6 - Poderão ser solicitados documentos ou informações adicionais, considerados necessários para o reconhecimento do Estatuto.\n\n7 - O pedido de reconhecimento poderá, igualmente, ser requerido junto dos Serviços de Desenvolvimento Agrário de cada ilha, que procederão à sua formalização.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200356281": {
+   "fragment_id": "200308740",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Análise e decisão",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º-B — Análise e decisão\n\n1 - A direção regional com competência em matéria de agricultura analisa os pedidos e decide a atribuição do Estatuto, no prazo máximo de 20 dias úteis após a submissão do pedido de reconhecimento ou da receção de toda a documentação instrutória.\n\n2 - O título de reconhecimento do Estatuto é disponibilizado, por via eletrónica, através de emissão do respetivo código de acesso, podendo o mesmo ser também levantado junto dos Serviços de Desenvolvimento Agrário de cada ilha.\n\n3 - A emissão do título é comunicada aos serviços e organismos da administração direta e indireta da Região Autónoma dos Açores das áreas governativas relacionadas, à Comissão Nacional da Agricultura Familiar e à Direção-Geral de Agricultura e Desenvolvimento Rural.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200356290": {
+   "fragment_id": "200308741",
+   "type": 11,
+   "heading": "Artigo 4.º-C — Validade e renovação do título",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º-C — Validade e renovação do título\n\n1 - A validade da atribuição do Estatuto é de dois anos, a contar da data da sua emissão, cabendo ao seu titular requerer a sua renovação.\n\n2 - A renovação do título faz-se mediante a submissão eletrónica dos documentos comprovativos das condições de atribuição previstas no presente diploma.\n\n3 - O título de reconhecimento é renovado, por via eletrónica, através da emissão do respetivo código de acesso pela direção regional com competência em matéria de agricultura, no prazo máximo de 10 dias úteis após a receção do pedido de renovação.\n\n4 - O prazo de renovação do título é contado a partir da data da respetiva emissão.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200356299": {
+   "fragment_id": "200308742",
+   "type": 11,
+   "heading": "Artigo 4.º-D — Revogação do título",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º-D — Revogação do título\n\n1 - O título de reconhecimento pode ser revogado, quando se verifique qualquer uma das seguintes condições:\n\na) Incumprimento de qualquer das condições de atribuição previstas no presente diploma;\n\nb) Utilização abusiva ou fraudulenta do título de reconhecimento para efeito da atribuição de benefícios;\n\nc) Não renovação do título de reconhecimento, no prazo de seis meses a contar da data do termo da sua validade.\n\n2 - A decisão de revogação é precedida da audição do interessado, nos termos do Código do Procedimento Administrativo.\n\n3 - A revogação do título determina a perda dos direitos de acesso previstos no presente diploma.\n\n4 - A revogação do título é comunicada aos serviços e organismos da administração direta e indireta da Região Autónoma dos Açores das áreas governativas relacionadas, à Comissão Nacional da Agricultura Familiar e à Direção-Geral de Agricultura e Desenvolvimento Rural.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200356317": {
+   "fragment_id": "200308744",
+   "type": 11,
+   "heading": "Artigo 4.º-E — Fiscalização",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º-E — Fiscalização\n\nA direção regional com competência em matéria de agricultura procede à fiscalização, administrativa ou in loco, da manutenção das condições de atribuição previstas no presente diploma.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200356318": {
+   "fragment_id": "200308743",
+   "type": 11,
+   "heading": "Artigo 4.º-F — Fiscalização",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º-F — Fiscalização\n\nA direção regional com competência em matéria de agricultura procede à fiscalização, administrativa ou in loco, da manutenção das condições de atribuição previstas no presente diploma.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200356319": {
+   "fragment_id": "200308723",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de atribuição",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 5.º — Condições de atribuição\n\nO título de reconhecimento é atribuído a pessoa singular titular da exploração agrícola familiar e que satisfaça cumulativamente os seguintes requisitos:\n\na) Tenha idade igual ou superior a 18 anos;\n\nb) Tenha um rendimento coletável inferior ou igual ao valor de 34 vezes a retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores;\n\nc) Receba um montante de apoio não superior a (euro) 10 000 (dez mil euros) decorrente das ajudas do Programa de Operações Específicas para fazer face ao afastamento e insularidade (POSEI-Açores), no ano anterior ao da apresentação do pedido de reconhecimento;\n\nd) Seja titular de uma exploração agrícola familiar sediada na Região, cujos prédios rústicos ou mistos estejam registados no Sistema de Identificação Parcelar (iSIP);\n\ne) Utilize mão-de-obra familiar, não remunerada, em percentagem igual ou superior a 50 % do total de mão-de-obra estimada para a exploração;\n\nf) Possuam domicílio fiscal na Região.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200356320": {
+   "fragment_id": "200308724",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 6.º — Direitos\n\n1 - A atribuição do título de reconhecimento do Estatuto permite o acesso:\n\na) A medidas de apoio da atividade agrícola, da responsabilidade do departamento do Governo Regional com competência em matéria de agricultura e florestas e financiadas exclusivamente pelo orçamento da Região;\n\nb) A medidas específicas de políticas públicas de apoio às atividades de exploração agrícola e florestal, nomeadamente no âmbito dos programas de desenvolvimento rural, financiados pelo Fundo Europeu Agrícola de Desenvolvimento Rural;\n\nc) A medidas no âmbito dos Programas Operacionais financiados pelos Fundos Europeus Estruturais e de Investimento, nomeadamente o Fundo Europeu de Desenvolvimento Regional e o Fundo Social Europeu, enquanto medidas de caráter complementar aos apoios à agricultura familiar;\n\nd) A medidas de caráter excecional que contribuam para o ordenamento do território e a preservação da atividade agrícola e florestal nas zonas desfavorecidas, com manifestos pontos fracos em relação a fatores naturais e sociais, ou em zonas protegidas;\n\ne) A plafonds diferenciados no âmbito do sistema de abastecimento do gasóleo à agricultura;\n\nf) A condições diferenciadas em matéria de seguros agrícolas;\n\ng) A um regime simplificado, em matéria de licenciamento de unidades de produção ao nível da higiene e segurança alimentares;\n\nh) Aos mercados e aos consumidores, concretizado através do apoio à criação e reativação de mercados de proximidade e de circuitos curtos de comercialização;\n\ni) A um regime específico de contratação pública para fornecimento de proximidade de bens agroalimentares (escolas, hospitais e instituições particulares de solidariedade social);\n\nj) A um regime de reconhecimento das organizações de produtores, adaptado à sua dimensão económica;\n\nk) A linhas de crédito adaptadas a este segmento da agricultura;\n\nl) A participação em ações de formação, informação e aconselhamento agrícola e florestal, promovidas pela Região;\n\nm) Ao regime fiscal adequado à Agricultura Familiar nos termos da lei;\n\nn) A um regime de segurança social adequado à Agricultura Familiar nos termos da lei.\n\n2 - Os departamentos do Governo Regional com competência em matéria de agricultura e energia podem determinar a existência de incentivos à utilização de energias com base em fontes renováveis, desde que os respetivos rendimentos do titular da exploração agrícola familiar e do seu agregado familiar sejam provenientes exclusivamente do exercício da atividade agrícola.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200356321": {
+   "fragment_id": "200308725",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações do titular do Estatuto",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 7.º — Obrigações do titular do Estatuto\n\n1 - Constituem obrigações do titular do Estatuto:\n\na) Permitir o acesso à exploração agrícola, facultar os documentos necessários ao acompanhamento e controlo do respetivo reconhecimento e colaborar com o departamento do Governo Regional competente em matéria de agricultura na realização dos controlos que vierem a ser determinados;\n\nb) Comunicar ao departamento do Governo Regional competente em matéria de agricultura, no prazo de 10 dias úteis, qualquer alteração das condições de atribuição previstas no presente diploma;\n\nc) (Revogada.)\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200375905": {
+   "fragment_id": "200308726",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento de reconhecimento",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 8.º — Procedimento de reconhecimento\n\nO procedimento relativo à atribuição do título de reconhecimento e controlo do Estatuto é definido por portaria do membro do Governo Regional competente em matéria de agricultura e florestas.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200356323": {
+   "fragment_id": "200308727",
+   "type": 11,
+   "heading": "Artigo 9.º — Integração, promoção e divulgação do Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Integração, promoção e divulgação do Estatuto\n\n1 - As entidades da administração regional autónoma com competência nas áreas relacionadas com as medidas constantes do presente diploma devem promover a sua adequada implementação.\n\n2 - As entidades regionais gestoras de programas ou iniciativas de apoio, nacionais ou comunitários, devem integrar o Estatuto nos respetivos programas ou iniciativas.\n\n3 - As entidades referidas no número anterior procedem à divulgação das medidas destinadas aos titulares do Estatuto."
+  },
+  "200356327": {
+   "fragment_id": "200308745",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Relatório anual",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 9.º-A — Relatório anual\n\nA direção regional com competência em matéria de agricultura envia, anualmente, à Assembleia Legislativa da Região Autónoma dos Açores um relatório contendo os dados sobre a evolução da agricultura familiar nos Açores.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200356328": {
+   "fragment_id": "200308728",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma de prevalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma de prevalência\n\nO regime estabelecido no presente diploma prevalece sobre quaisquer normas que versem sobre a mesma matéria."
+  },
+  "200356331": {
+   "fragment_id": "200308746",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Norma revogatória",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 10.º-A — Norma revogatória\n\nÉ revogada a Portaria n.º 122/2020, de 24 de agosto.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 22/2022/A - Diário da República n.º 165/2022, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689), em vigor a partir de 2022-08-27"
+  },
+  "200356332": {
+   "fragment_id": "200308729",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "200356333": {
+   "fragment_id": "200308730",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de junho de 2020.\n\nA Presidente da Assembleia Legislativa, Ana Luísa Luís.\n\nAssinado em Angra do Heroísmo em 9 de julho de 2020.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n113388137"
+  }
+ }
+}

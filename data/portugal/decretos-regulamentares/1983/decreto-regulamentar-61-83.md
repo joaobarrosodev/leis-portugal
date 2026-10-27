@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:453182:por
+title: Decreto Regulamentar n.º 61/83
+short_title: null
+summary: Altera as taxas de juro dos débitos cobrados pelas empresas públicas CTT - Correios e Telecomunicações de Portugal
+  e TLP - Telefones de Lisboa e Porto
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Habitação, Obras Públicas e Transportes
+proposing_entity: null
+official_number: 61/83
+official_date: null
+publication_date: '1983-07-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 150/1983, Série I de 1983-07-02
+  number: '150'
+  series: I
+  supplement: null
+  pages: 2410 - 2411
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15000/24102411.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '453182'
+  dre_path: /dr/detalhe/decreto-regulamentar/61-1983-453182
+  internal: pt:dre:453182:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1983-453182
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1983-453182
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:08:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 28e3e065ce4b07ee713be651ab40864730540a82e285b2b315fe6a0aac633d73
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CTT
+- Dívida
+- TAXA de JURO
+- TLP
+relationships:
+- type: cites
+  target: pt:dre:483614:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:08:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 61/83
+
+de 2 de Julho
+
+O [Decreto-Lei n.º 406-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1978-483614), de 15 de Dezembro, veio permitir que aos consumidores ou utentes dos serviços públicos com determinados atrasos de pagamento fosse aplicada uma taxa de juro superior à usual, fazendo contudo depender a sua aplicação em concreto da publicação de decreto especificamente referido a sectores de actividade enquadráveis no regime estabelecido e cuja actividade o justifique.
+
+As situações que se verificam de atrasos anormais no pagamento de prestações de serviços de telecomunicações vêm persistindo e criando, consequentemente, dificuldades financeiras às empresas operadoras.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+Artigo único. Ficam sujeitos ao regime definido pelo [Decreto-Lei n.º 406-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1978-483614), de 15 de Dezembro, os utentes dos serviços prestados pelas empresas públicas CTT - Correios e Telecomunicações de Portugal e TLP - Telefones de Lisboa e Porto.
+
+Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
+
+Promulgado em 8 de Junho de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 23 de Junho de 1983.
+
+O Primeiro-Ministro, Mário Soares.

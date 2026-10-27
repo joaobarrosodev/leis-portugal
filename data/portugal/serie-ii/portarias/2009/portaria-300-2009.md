@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:3172565:por
+title: Portaria n.º 300/2009
+short_title: null
+summary: Extensão de encargos - escolas públicas com 2.º e 3.º ciclos do ensino básico e ensino secundário - sistema de videovigilância
+  e um sistema de alarmes de intrusão
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Educação
+proposing_entity: null
+official_number: 300/2009
+official_date: null
+publication_date: '2009-02-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/2009, Série II de 2009-02-23
+  number: '37'
+  series: II
+  supplement: null
+  pages: 7318 - 7318
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/02/037000000/0731807318.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3172565'
+  dre_path: /dr/detalhe/portaria/300-2009-3172565
+  internal: pt:dre:3172565:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/300-2009-3172565
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/300-2009-3172565
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:19:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b878e5e68698c2b230dc2e8189530541259b40cb315bf2df5108c7aa6218d273
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:19:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Ensino Básico
+- Ensino Secundário
+- Equipamento Eletrónico
+- Segurança Pública
+- Vigilância Electrónica
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640592:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:19:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 300/2009
+
+Com vista à concretização da melhoria das condições de segurança nas escolas públicas com 2.º e 3.º ciclos do ensino básico e ensino secundário, o Ministério da Educação pretende adquirir um sistema electrónico de segurança, composto por um sistema de videovigilância e um sistema de alarmes de intrusão, no quadro da implementação do Plano Tecnológico da Educação.
+
+Complementarmente, pretende o Ministério da Educação adquirir também os serviços de segurança e monitorização remota, bem como de piquete e intervenção em caso de incidentes de intrusão e assaltos que se verifiquem nas instalações escolares.
+
+Pela [Resolução do Conselho de Ministros n.º 135/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2007-640592), de 14 de Setembro, foi autorizada a abertura de procedimento pré-contratual com vista à aquisição dos bens e dos serviços necessários para aquele efeito.
+
+O valor previsto para a aquisição referida é de (euro) 30.000.000, excluindo o imposto sobre o valor acrescentado, diluído por vários exercícios económicos.
+
+Assim e em conformidade com o artigo 22.º, n.º 1, do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, manda o Governo, pelos Ministros de Estado e das Finanças e da Educação, o seguinte:
+
+1 - Os encargos orçamentais decorrentes da assinatura do contrato de aquisição dos bens e serviços referidos não podem exceder, em cada ano, as seguintes importâncias, excluindo o imposto sobre o valor acrescentado:
+
+2009 - (euro) 24 000 000;
+
+2010 - (euro) 3 000 000;
+
+2011 - (euro) 2 000 000;
+
+2012 - (euro) 1 000 000.
+
+2 - As importâncias fixadas para os anos de 2010, 2011 e 2012 são acrescidas dos saldos que se apurarem na execução orçamental dos anos anteriores.
+
+3 - Os encargos financeiros resultantes da execução da presente portaria são satisfeitos por verbas adequadas do PIDDAC, inscritas e a inscrever em 2009, 2010, 2011 e 2012 pelos montantes correspondentes.
+
+12 de Fevereiro de 2009. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - A Ministra da Educação, Maria de Lurdes Reis Rodrigues.

@@ -1,0 +1,302 @@
+---
+schema_version: '1.0'
+id: pt:dre:401284:por
+title: Decreto Regulamentar Regional n.º 42/84/A
+short_title: null
+summary: Cria, na dependência directa do Secretário Regional da Agricultura e Pescas, o Gabinete de Execução do Programa Agro-Pecuário
+  do Pico
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Agricultura e Pescas - Gabinete do Secretário Regional
+proposing_entity: null
+official_number: 42/84/A
+official_date: null
+publication_date: '1984-11-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 272/1984, Série I de 1984-11-23
+  number: '272'
+  series: I
+  supplement: null
+  pages: 3561 - 3563
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/11/27200/35613563.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '401284'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/42-1984-401284
+  internal: pt:dre:401284:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9e7f214bc47ea14f241c902096fe3708487ab7705154c7e412a8b20d6f9a1c94
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Criação de Serviços
+- Gabinete de Execução do Programa Agro-pecuário do PICO
+- Orgânica
+- Secretário Regional da Agricultura e Pescas
+relationships:
+- type: amended_by
+  target: pt:dre:203459:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:378091:por
+  label: "Alterado o artigo 10.º pelo DRR.33/88/A.03.08.1988.GR-RAA, DR.IS [178] de 03.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-1988-378091
+  date: '1988-08-03'
+- type: amended_by
+  target: pt:dre:619713:por
+  label: "Alterados os artigos 2.º, 4.º, 5.º e revogadas as alíneas d) e j) do artigo 6.º, pelo DRR.21/89/A.04.07.1989.GR-RAA,\
+    \ DR.IS [151] de 04.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-1989-619713
+  date: '1989-07-04'
+- type: cites
+  target: pt:dre:405760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:283098:por
+  label: "Revogado o n.º 4 do artigo 1.º pelo DRR.8/88/A.05.02.1988.GR-RAA, DR.IS [30] de 05.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1988-283098
+  date: '1988-02-05'
+- type: repealed_by
+  target: pt:dre:203459:por
+  label: "Revogado pelo DRR.17/97/A.1997.07.21.PG-RAA DR.IS-B [184] DE 11/AGO/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1997-203459
+  date: '1997-07-21'
+article_structure:
+  article_count: 13
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:26:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 42/84/A
+
+Gabinete de Execução do Programa Agro-Pecuário do Pico
+
+A estrutura produtiva da ilha do Pico encontra-se basicamente assente no sector primário e neste a produção agro-pecuária ocupa lugar destacado. Com efeito, esta é uma vocação natural da ilha do Pico, uma vez que cerca de 60% da superfície agrícola útil da ilha se encontra acima da cota dos 300 m, determinando que o regime silvo-pastoril se apresente como a exploração mais adequada às condições edafo-climáticas verificadas àquelas altitudes.
+
+No entanto, o equilíbrio desejado na produção forrageira exige a instalação de pastagens a menor altitude, a fim de a tornar mais harmoniosa ao longo do ano, evitando ou atenuando o período de carestia alimentar que se verifica durante o Outono e Inverno.
+
+Por outro lado, face aos baixos níveis de produtividade verificados nas pastagens actualmente existentes na ilha, impõe-se o melhoramento dos prados, degradados ou não, que permita acréscimos nos níveis de produção e uma maior regularização da mesma, contribuindo assim para a viabilização, em termos micro e macroeconómicos, do sistema produtivo.
+
+A implementação das acções atrás descritas, que deram lugar à inscrição nos planos regionais do programa de desenvolvimento agro-pecuário do Pico, envolvendo trabalhos em áreas potenciais de reconversão e melhoramento com cerca de 4000 ha e 20000 ha, respectivamente, terá de ser complementada com a criação de incentivos de carácter financeiro e com a realização de benfeitorias no abastecimento de água das explorações e na instalação de cortinas de abrigo, bem como pela abertura de uma adequada rede de caminhos de penetração. Em conjugação, a componente animal, devidamente fomentada por linhas de crédito adequadas e dentro de um quadro hígio-sanitário que garanta um efectivo pecuário saudável, permitirá um acréscimo do produto animal em quantidade e qualidade, melhorando a rentabilidade das explorações.
+
+O desenvolvimento de acções de formação, divulgação e assistência técnica junto dos lavradores será uma componente igualmente fundamental para o cumprimento cabal dos objectivos que se pretendem atingir.
+
+A dimensão de um projecto desta natureza levou o Governo Regional a optar pelo recurso a um financiamento do Governo da República Federal da Alemanha, através do Kreditanstalt für Wiederaufbau, em condições favoráveis, tendo sido os contratos relativos ao empréstimo assinados em Junho de 1983, após autorização da Assembleia Regional, aprovada pela [Resolução n.º 1/83](https://diariodarepublica.pt/dr/detalhe/resolucao/1-1983-405760).
+
+Dada a diversidade das acções a empreender, envolvendo áreas funcionais das Divisões de Agricultura, da Administração Florestal e de Veterinária do Pico, entendeu-se ser necessária a criação de um gabinete que conceba, coordene e execute todas as acções no âmbito do programa de desenvolvimento agro-pecuário do Pico. O presente diploma visa, pois, criar e estruturar um gabinete encarregado da execução do programa de desenvolvimento agro-pecuário do Pico.
+
+Assim, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Natureza e atribuições
+
+###### Artigo 1.º — (Natureza)
+
+1 - É criado, na dependência directa do Secretário Regional da Agricultura e Pescas, o Gabinete de Execução do Programa Agro-Pecuário do Pico, adiante designado por GEPAP.
+
+2 - O objectivo fundamental do GEPAP consiste em executar o Programa de Desenvolvimento Agro-Pecuário da Ilha do Pico (PDAPIP), inscrito nos planos de médio prazo e anuais do Governo Regional.
+
+3 - O GEPAP exerce a sua actividade na ilha do Pico e manter-se-á em funções até que seja concluída a execução do PDAPIP.
+
+4 - O GEPAP goza de autonomia administrativa.
+
+###### Artigo 2.º — (Atribuições)
+
+São atribuições do GEPAP:
+
+a) Implementar o PDAPIP;
+
+b) Recolher, ordenar e fazer integrar nos seus planos de trabalho as inscrições dos lavradores interessados;
+
+c) Conceber e executar planos de trabalho envolvendo as zonas de recuperação de incultos, de melhoramento de pastagens e de abertura de caminhos de penetração e as necessárias acções complementares, definindo as respectivas prioridades;
+
+d) Fiscalizar as obras eventualmente adjudicadas a empresas privadas referentes à abertura de caminhos de penetração no âmbito do PDAPIP;
+
+e) Elaborar e estabelecer os contratos com os interessados, zelando pelo seu cumprimento;
+
+f) Organizar um sistema de contabilidade que permita, em qualquer momento, quantificar quer as participações financeiras das componentes regional e alemã no total dos custos quer os montantes imputáveis a cada projecto constituinte do PDAPIP;
+
+g) Servir de interlocutor com o Kreditanstalt für Wiederaufbau para o cumprimento do clausulado estabelecido no contrato de empréstimo firmado entre a Região Autónoma dos Açores e aquela instituição financeira e das formalidades que permitam a concretização dos desembolsos;
+
+h) Manter a operacionalidade das máquinas e equipamento, a fim de permitir o cumprimento dos planos de trabalho estabelecidos;
+
+i) Realizar, em colaboração com diferentes serviços da Secretaria Regional da Agricultura e Pescas, acções de formação, divulgação e sensibilização no âmbito do PDAPIP:
+
+j) Promover o estudo e a regulamentação de medidas legislativas necessárias à boa execução do PDAPIP.
+
+### CAPÍTULO II — Órgãos e serviços
+
+###### Artigo 3.º — (Estrutura)
+
+1 - São órgãos do GEPAP:
+
+a) O director;
+
+b) O conselho consultivo.
+
+2 - O funcionamento do GEPAP far-se-á por equipas de projecto, com base nos recursos humanos existentes nos serviços da Secretaria Regional da Agricultura e Pescas localizados na ilha do Pico.
+
+3 - O disposto no número anterior não invalida a possibilidade de se proceder à contratação de pessoal não vinculado aos serviços da Secretaria Regional da Agricultura e Pescas na ilha do Pico, a qual deverá ser feita nos termos do artigo 11.º deste diploma.
+
+###### Artigo 4.º — (Competências do director)
+
+1 - Compete ao director do GEPAP:
+
+a) Dirigir e orientar a execução do PDAPIP;
+
+b) Coordenar a execução dos projectos que compõem o PDAPIP;
+
+c) Convocar e presidir às reuniões do conselho consultivo;
+
+d) Propor ao Secretário Regional da Agricultura e Pescas os recursos humanos a utilizar na execução do PDAPIP;
+
+e) Submeter ao conselho consultivo o plano anual de actividade e a proposta de orçamento;
+
+f) Submeter ao conselho consultivo os relatórios de execução do PDAPIP;
+
+g) Proceder aos contactos previstos na alínea g) do artigo 2.º;
+
+h) Submeter ao conselho consultivo todos os assuntos que entenda por convenientes.
+
+2 - O director do GEPAP será assessorado por um jurista e um economista, os quais poderão integrar o seu gabinete a tempo inteiro.
+
+###### Artigo 5.º — (Conselho consultivo)
+
+1 - Constituem o conselho consultivo:
+
+a) O director do GEPAP, que preside às reuniões;
+
+b) O chefe da Divisão de Agricultura do Pico;
+
+c) O chefe da Divisão da Administração Florestal do Pico;
+
+d) O chefe da Divisão de Veterinária do Pico.
+
+2 - Quando o director do GEPAP assim o entender, o jurista e o economista referidos no n.º 2 do artigo anterior participarão nas reuniões do conselho consultivo.
+
+3 - O conselho consultivo reúne com a periodicidade que venha a ser considerada necessária pelo seu presidente.
+
+###### Artigo 6.º — (Competências do conselho consultivo)
+
+1 - Ao conselho consultivo compete, em especial:
+
+a) Pronunciar-se sobre as linhas gerais de actuação do GEPAP;
+
+b) Pronunciar-se sobre a caracterização e materialização do PDAPIP no âmbito dos planos de médio prazo e anuais do Governo Regional;
+
+c) Avaliar a execução dos diferentes projectos que constituem o PDAPIP;
+
+d) Pronunciar-se sobre a constituição das equipas de projecto;
+
+e) Avaliar da necessidade de ajustamentos estruturais no funcionamento do GEPAP;
+
+f) Aprovar o orçamento do GEPAP em total articulação com a afectação de verbas ao PDAPIP;
+
+g) Pronunciar-se sobre quaisquer assuntos que o director do GEPAP entenda submeter à sua apreciação.
+
+###### Artigo 7.º — (Funcionamento da estrutura por projectos)
+
+1 - O funcionamento do GEPAP será orientado para a execução dos projectos que compõem o PDAPIP.
+
+2 - Por despacho do Secretário Regional da Agricultura e Pescas e por proposta do director do GEPAP, serão definidos os recursos humanos a utilizar na execução do PDAPIP.
+
+### CAPÍTULO III — Gestão financeira
+
+###### Artigo 8.º — (Regime financeiro)
+
+1 - O funcionamento do GEPAP será integralmente financiado pelas dotações orçamentais afectadas ao PDAPIP, o qual deverá ser integrado, durante a vigência deste diploma, nos planos regionais de médio prazo e anuais.
+
+2 - O financiamento previsto no número anterior abrange as despesas com pessoal e restantes despesas correntes e as despesas de capital necessárias à execução do PDAPIP.
+
+###### Artigo 9.º — (Autorização de despesas)
+
+A competência para autorização de despesas a atribuir ao director do GEPAP será fixada por despacho conjunto dos Secretários Regionais das Finanças e da Agricultura e Pescas.
+
+### CAPÍTULO IV — Pessoal
+
+###### Artigo 10.º — (Provimento do director)
+
+O director do GEPAP será provido de acordo com o [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 1 de Abril, e para todos os efeitos equiparado a director regional.
+
+###### Artigo 11.º — (Contratação de pessoal)
+
+1 - Poderão ser celebrados contratos que revistam a natureza de trabalho subordinado, no exclusivo âmbito das atribuições do GEPAP, em regime de prestação eventual de serviços, sempre que tal se revele necessário.
+
+2 - Os contratos referidos no número anterior têm a natureza de contratos de pessoal além do quadro, nos termos da legislação regional aplicável.
+
+3 - Os contratos serão renovados até que seja concluída a execução do PDAPIP, não persistindo, por isso, qualquer vínculo à administração regional autónoma quando, por força do n.º 3 do artigo 1.º deste diploma, o GEPAP for extinto.
+
+### CAPÍTULO V — Disposições gerais e transitórias
+
+###### Artigo 12.º — (Comissão instaladora do PDAPIP)
+
+Enquanto não for nomeado o director do GEPAP, manter-se-á em funções a comissão instaladora do PDAPIP, nomeada pelo [Despacho Normativo n.º 141/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1983-452545), de 20 de Dezembro, dos Secretários Regionais Adjunto, das Finanças, da Administração Pública e da Agricultura e Pescas.
+
+###### Artigo 13.º — (Entrada em vigor)
+
+O presente diploma entra em vigor na data da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 27 de Setembro de 1984.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 9 de Novembro de 1984.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

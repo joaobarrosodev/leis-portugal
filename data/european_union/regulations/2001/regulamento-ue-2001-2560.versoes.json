@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001R2560:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001R2560-20091101",
+ "dre_path": null,
+ "source_lastmod": "2009-11-01",
+ "versions": [
+  {
+   "date": "2001-12-28",
+   "future": false,
+   "celex": "32001R2560",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d8034996e8099cad",
+    "1946b9b6f35c004d",
+    "6b40a72b5da403d0",
+    "b3d83689847cc27d",
+    "3c8a6efaa91b43b3",
+    "d9feba18a7a4d0a1",
+    "122eae3945857a5d",
+    "894f532480f02dc9",
+    "2a43110808a7a066",
+    "549207ce082d52fb"
+   ]
+  }
+ ],
+ "fragments": {
+  "d8034996e8099cad": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 2560/2001 do Parlamento Europeu e do Conselho, de 19 de Dezembro de 2001, relativo aos pagamentos transfronteiros em euros** *Jornal Oficial nº L 344 de 28/12/2001 p. 0013 - 0016*\n\nRegulamento (CE) n.o 2560/2001 do Parlamento Europeu e do Conselho\n\nde 19 de Dezembro de 2001\n\nrelativo aos pagamentos transfronteiros em euros\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 1 do seu artigo 95.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nTendo em conta o parecer do Banco Central Europeu(3),\n\nDeliberando nos termos do artigo 251.o do Tratado(4),\n\nConsiderando o seguinte:\n\n(1) A Directiva 97/5/CE do Parlamento Europeu e do Conselho, de 27 de Janeiro de 1997, relativa às transferências transfronteiras(5), foi adoptada com o objectivo de melhorar os serviços de transferências bancárias transfronteiras, designadamente, a respectiva eficiência. Pretendia-se possibilitar sobretudo aos consumidores e às pequenas e médias empresas que efectuassem transferências bancárias de modo rápido, fiável e económico entre diferentes pontos da Comunidade. Essas transferências bancárias, tal como os pagamentos transfronteiros em geral, são ainda extremamente dispendiosas em comparação com os pagamentos efectuados a nível nacional. Conclui-se dos resultados de um estudo realizado pela Comissão e divulgado em 20 de Setembro de 2001 que os consumidores não recebem informações suficientes, ou mesmo nenhumas, sobre os custos das transferências bancárias, e que o custo médio das transferências bancárias transfronteiras não sofreu praticamente qualquer variação desde 1993, ano em que foi realizado um estudo comparável.\n\n(2) A Comunicação da Comissão ao Parlamento Europeu e ao Conselho, de 31 de Janeiro de 2000, relativa a pagamentos de pequeno montante no Mercado Interno, bem como as Resoluções do Parlamento Europeu de 26 de Outubro de 2000, sobre a Comunicação da Comissão, e de 4 de Julho de 2001, sobre as medidas destinadas a ajudar os agentes económicos na passagem ao euro, e os relatórios do Banco Central Europeu de Setembro de 1999 e de Setembro de 2000, sobre a forma de melhorar os serviços de pagamentos transfronteiros, salientaram a necessidade urgente de se realizarem melhorias efectivas neste domínio.\n\n(3) A Comunicação da Comissão ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social, ao Comité das Regiões e ao Banco Central Europeu, de 3 de Abril de 2001, sobre os preparativos para a introdução das notas e moedas em euros anunciava que a Comissão iria ponderar a utilização de todos os instrumentos à sua disposição e tomar todas as medidas necessárias para assegurar que os custos das operações transfronteiras se aproximassem dos encargos das operações efectuadas a nível nacional, e que a zona euro se tornasse, a esse respeito, transparente e tangível para o cidadão europeu enquanto \"zona interna de pagamento\".\n\n(4) Em relação ao objectivo, reafirmado aquando da introdução do euro escritural, de se obter uma tarifação idêntica, ou pelo menos similar, para o euro, não se verificaram resultados significativos quanto à redução dos encargos dos pagamentos transfronteiros em relação aos dos pagamentos nacionais.\n\n(5) O volume dos pagamentos transfronteiros tem crescido regularmente com a realização do Mercado Interno. Neste espaço sem fronteiras, a realização de pagamentos foi facilitada com a introdução do euro.\n\n(6) A manutenção de um nível de encargos mais elevado para os pagamentos transfronteiras do que para os pagamentos efectuados a nível nacional constitui um travão ao comércio transfronteiras e, consequentemente, um obstáculo ao bom funcionamento do Mercado Interno, sendo, ao mesmo tempo, de molde a afectar a confiança na utilização do euro. Por conseguinte e com o objectivo de facilitar o funcionamento do Mercado Interno, é necessário assegurar que os encargos dos pagamentos transfronteiras em euros iguais aos encargos aplicados aos pagamentos em euros dentro de um Estado-Membro, o que reforçará igualmente a confiança no euro.\n\n(7) O princípio da igualdade dos encargos aplicados às operações de pagamento electrónico transfronteiros em euros deverá ser aplicável, atendendo ao prazo de adaptação e à sobrecarga de trabalho para os estabelecimentos relacionada com a passagem ao euro e, portanto, a partir de 1 de Julho de 2002. A fim de permitir a implantação da infra-estrutura e de garantir as condições necessárias, deve aplicar-se um período transitório para as transferências bancárias transfronteiras até 1 de Julho de 2003.\n\n(8) Não convém, na fase actual, aplicar aos cheques em suporte papel o princípio da igualdade de encargos, na medida em que a sua natureza não permite um tratamento tão eficaz como o dos outros meios de pagamento, nomeadamente os pagamentos electrónicos. Em contrapartida, o princípio da transparência dos encargos deverá aplicar-se também aos cheques.\n\n(9) Para que os clientes possam apreciar o custo de um pagamento transfronteiros, é necessário que estejam informados dos encargos aplicados e de quaisquer alterações que estes tenham sofrido. O mesmo se aplica quando uma moeda que não o euro esteja envolvida em pagamentos transfronteiros em euros.\n\n(10) O presente regulamento não prejudica a possibilidade de as instituições preverem uma tarifa global que abranja diversos serviços de pagamento, desde que não haja então discriminação entre pagamentos transfronteiros e pagamentos nacionais.\n\n(11) Deve-se igualmente assegurar a introdução de melhorias que facilitem a execução de pagamentos transfronteiros pelas instituições de pagamento. A este respeito, deve ser fomentada a normalização, nomeadamente a utilização do IBAN(6) (International Bank Account Number/número internacional de conta bancária) e do BIC(7) (Bank Identifier Code/código de identificação bancária), a qual é necessária para o processamento automático das transferências bancárias transfronteiras. Considera-se fundamental a utilização mais alargada possível destes códigos. Além disso, devem ser eliminadas outras medidas que acarretam custos suplementares, a fim de reduzir os encargos facturados aos clientes pela realização de pagamentos transfronteiros.\n\n(12) Para aliviar o ónus que pesa sobre os estabelecimentos que executam pagamentos transfronteiros, convém suprimir progressivamente as obrigações de declaração nacional sistemática para efeitos estatísticos da balança de pagamentos.\n\n(13) A fim de garantir a observância do presente regulamento, cabe aos Estados-Membros garantir a existência de procedimentos de reclamação e de recurso apropriados e eficazes para resolver eventuais litígios entre um ordenador e a sua instituição ou entre um beneficiário e a sua instituição, recorrendo-se, eventualmente, a procedimentos existentes.\n\n(14) É desejável que, o mais tardar em Junho de 2004, a Comissão apresente um relatório sobre a aplicação do presente regulamento.\n\n(15) Importa prever um procedimento que permita aplicar o presente regulamento também aos pagamentos transfronteiros efectuados na moeda de outro Estado-Membro, se esse Estado-Membro assim o decidir,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "1946b9b6f35c004d": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento estabelece as normas relativas aos pagamentos transfronteiros em euros para assegurar que os encargos cobrados por esses pagamentos sejam iguais aos facturados pelos pagamentos em euros efectuados no interior de um Estado-Membro.\n\nO presente regulamento é aplicável aos pagamentos transfronteiros em euros, efectuados no interior da Comunidade até ao montante de 50000 euros.\n\nO presente regulamento não é aplicável aos pagamentos transfronteiros efectuados entre instituições por sua conta própria."
+  },
+  "6b40a72b5da403d0": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) Pagamentos transfronteiros:\n\ni) \"Transferências bancárias transfronteiras\", que consistem em operações realizadas por iniciativa de um ordenador através de uma instituição ou de uma sua sucursal num Estado-Membro, com o objectivo de disponibilizar um montante em numerário a favor de um beneficiário numa instituição ou numa sua sucursal num outro Estado-Membro; o ordenador e o beneficiário podem ser a mesma pessoa;\n\nii) \"Operações de pagamento electrónico transfronteiras\", que consistem em:\n\n- transferências de fundos transfronteiras efectuadas através de um instrumento de pagamento electrónico que não as ordenadas e executadas pelas instituições,\n\n- levantamentos de numerário transfronteiros, através de um instrumento de pagamento electrónico e o carregamento (e a utilização) de um instrumento de dinheiro electrónico num distribuidor automático de numerário ou numa caixa automática existente nas instalações de um emissor ou de uma instituição obrigada contratualmente a aceitar o instrumento de pagamento.\n\niii) \"Cheques transfronteiros\", que consistem em cheques em suporte papel, definidos na Convenção de Genebra de 19 de Março de 1931, que institui a lei uniforme relativa ao cheque, sacados sobre uma instituição situada no interior da Comunidade e utilizados para efeitos de pagamentos transfronteiros no interior da Comunidade;\n\nb) \"Instrumento de pagamento electrónico\", um instrumento de pagamento de acesso à distância e um instrumento de moeda electrónica que permita ao seu detentor efectuar uma ou mais operações de pagamento electrónico;\n\nc) \"Instrumento de pagamento de acesso à distância\", um instrumento que permita ao seu detentor ter acesso a fundos detidos na sua conta numa instituição, mediante os quais possa realizar um pagamento a um beneficiário, que normalmente requer um código de identificação pessoal e/ou qualquer outra prova de identidade semelhante. Os instrumentos de pagamento de acesso à distância incluem, em especial, cartões de pagamento (de crédito, de débito, de débito diferido ou recarregáveis) e cartões para o banco telefónico e ao domicílio. Esta definição não inclui as transferências transfronteiras;\n\nd) \"Instrumento de moeda electrónica\", um instrumento de pagamento recarregável, quer seja um cartão com o valor armazenado quer uma memória de um computador, em que as unidades de valor são armazenadas electronicamente;\n\ne) \"Instituição\", qualquer pessoa singular ou colectiva cuja actividade inclua a execução de pagamentos transfronteiros;\n\nf) \"Encargos cobrados\", qualquer encargo cobrado por uma instituição e directamente relacionado com o pagamento transfronteiros em euros."
+  },
+  "b3d83689847cc27d": {
+   "fragment_id": "Artigo 3.º — Encargos aplicáveis às operações de pagamento electrónico e às transferências transfronteiras",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Encargos aplicáveis às operações de pagamento electrónico e às transferências transfronteiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Encargos aplicáveis às operações de pagamento electrónico e às transferências transfronteiras\n\n1. A partir de 1 de Julho de 2002, os encargos cobrados por uma instituição por pagamentos electrónicos transfronteiros em euros, até ao montante de 12500 euros, são iguais aos encargos cobrados pela mesma instituição por pagamentos correspondentes em euros efectuados no Estado-Membro em que essa instituição esteja estabelecida.\n\n2. A partir de 1 de Julho de 2003, o mais tardar, os encargos cobrados por uma instituição por transferências bancárias transfronteiras expressas em euros, até ao montante de 12500 euros, são iguais aos encargos cobrados pela mesma instituição por transferências bancárias equivalentes em euros processadas no Estado-Membro em que essa instituição esteja estabelecida.\n\n3. A partir de 1 de Janeiro de 2006, o montante de 12500 euros é aumentado para 50000 euros."
+  },
+  "3c8a6efaa91b43b3": {
+   "fragment_id": "Artigo 4.º — Transparência dos encargos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Transparência dos encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transparência dos encargos\n\n1. As instituições põem à disposição dos seus clientes de modo facilmente compreensível, por escrito, incluindo, eventualmente, consoante a regulamentação nacional, por meios electrónicos, informações prévias relativas aos encargos cobrados pelos pagamentos transfronteiros e pelos pagamentos efectuados no interior do Estado-Membro em que estejam estabelecidas.\n\nOs Estados-Membros podem impor a obrigação de apor nos livros de cheques uma menção que advirta os consumidores dos encargos relativos à utilização transfronteiras de cheques.\n\n2. Quaisquer alterações relativas aos encargos são comunicadas do mesmo modo que indicado no n.o 1 antes da sua entrada em vigor.\n\n3. Quando cobrem encargos pela conversão de moedas para ou a partir do euro, as instituições fornecem aos seus clientes:\n\na) Informações prévias relativas a quaisquer encargos cambiais que proponham aplicar; e\n\nb) Informações específicas relativas a quaisquer encargos cambiais que já tenham cobrado."
+  },
+  "d9feba18a7a4d0a1": {
+   "fragment_id": "Artigo 5.º — Medidas destinadas a facilitar as transferências transfronteiras",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Medidas destinadas a facilitar as transferências transfronteiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Medidas destinadas a facilitar as transferências transfronteiras\n\n1. As instituições comunicam eventualmente, a cada cliente que o solicite, o seu número internacional de conta bancária (IBAN) e o código de identificação bancária (BIC) da instituição.\n\n2. A pedido da instituição que efectua a transferência, o cliente comunica-lhe o IBAN do beneficiário e o BIC da instituição do beneficiário. Se o cliente não comunicar as informações acima referidas, a instituição pode imputar-lhe encargos suplementares. A instituição deve pôr à disposição dos clientes informações sobre os encargos suplementares, nos termos do artigo 4.o\n\n3. A partir de 1 de Julho de 2003, as instituições indicam nos extractos de conta dos clientes, ou em anexo aos mesmos, o respectivo IBAN e o BIC da instituição.\n\n4. Qualquer fornecedor que facture numa base transfronteira bens e serviços no interior da Comunidade e que aceite o pagamento por transferência bancária, deve comunicar aos clientes o seu IBAN e o BIC da sua instituição."
+  },
+  "122eae3945857a5d": {
+   "fragment_id": "Artigo 6.º — Obrigações dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos Estados-Membros\n\n1. Os Estados-Membros eliminam, o mais tardar em 1 de Julho de 2002, quaisquer obrigações nacionais de declaração relativas a pagamentos transfronteiros até ao montante de 12500 euros para efeitos de compilação de estatísticas da balança de pagamentos.\n\n2. Os Estados-Membros eliminam, o mais tardar em 1 de Julho de 2002, quaisquer obrigações nacionais relativas às informações mínimas a prestar sobre o beneficiário que impeçam a automatização da execução do pagamento."
+  },
+  "894f532480f02dc9": {
+   "fragment_id": "Artigo 7.º — Cumprimento do presente regulamento",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Cumprimento do presente regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cumprimento do presente regulamento\n\nO cumprimento do disposto no presente regulamento é assegurado por sanções eficazes, proporcionadas e dissuasivas."
+  },
+  "2a43110808a7a066": {
+   "fragment_id": "Artigo 8.º — Cláusula de revisão",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Cláusula de revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cláusula de revisão\n\nO mais tardar em 1 de Julho de 2004, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento, nomeadamente sobre:\n\n- a evolução das infra-estruturas em matéria de sistemas de pagamento transfronteiros;\n\n- a oportunidade de melhorar os serviços prestados aos consumidores através do reforço das condições de concorrência na prestação de serviços de pagamentos transfronteiros;\n\n- os efeitos da aplicação do presente regulamento nos encargos relativos aos pagamentos efectuados no interior de um Estado-Membro;\n\n- a conveniência de aumentar o montante previsto no n.o 1 do artigo 6.o para 50000 euros, a partir de 1 de Janeiro de 2006, tendo em conta as eventuais consequências para as empresas.\n\nEsse relatório será eventualmente acompanhado de propostas de alteração."
+  },
+  "549207ce082d52fb": {
+   "fragment_id": "Artigo 9.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é igualmente aplicável aos pagamentos transfronteiros efectuados na moeda de outro Estado-Membro, desde que este notifique a Comissão da sua decisão de tornar a aplicação do regulamento extensiva à sua moeda. A notificação é publicada no Jornal Oficial pela Comissão. A extensão da aplicação do regulamento produz efeitos catorze dias a contar da data desta publicação.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 19 de Dezembro de 2001.\n\nPelo Parlamento Europeu\n\nA Presidente\n\nN. Fontaine\n\nPelo Conselho\n\nO Presidente\n\nA. Neyts-Uyttebroeck\n\n(1) JO C 270 E de 25.9.2001, p. 270.\n\n(2) Parecer emitido em 10 de Dezembro de 2001 (ainda não publicado no Jornal Oficial).\n\n(3) JO C 308 de 1.11.2001, p. 17.\n\n(4) Parecer do Parlamento Europeu de 15 de Novembro de 2001 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 7 de Dezembro de 2001 (JO C 363 de 19.12.2001, p. 1), e decisão do Parlamento Europeu de 13 de Dezembro de 2001.\n\n(5) JO L 43 de 14.2.1997, p. 25.\n\n(6) Norma ISO n.o 13613.\n\n(7) Norma ISO n.o 9362."
+  }
+ }
+}

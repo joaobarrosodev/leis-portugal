@@ -1,0 +1,250 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:258168:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-213627992",
+ "dre_path": "/dr/detalhe/portaria/29-2013-258168",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-01-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "934361143",
+    "213627922",
+    "213627923",
+    "213627924",
+    "213627925",
+    "213627926",
+    "213627927",
+    "213627928"
+   ]
+  },
+  {
+   "date": "2023-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213558633:por",
+     "title": "Decreto-Lei n.º 36/2023",
+     "published": "2023-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2023-213558633"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "213627921",
+    "213627922",
+    "213627923",
+    "213627930",
+    "213627925",
+    "213627926",
+    "213627927",
+    "213627928",
+    "213627929"
+   ]
+  },
+  {
+   "date": "2025-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:934422119:por",
+     "title": "Portaria n.º 296-A/2025/1",
+     "published": "2025-09-05",
+     "dre_path": "/dr/detalhe/portaria/296-a-2025-934422119"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "934361143",
+    "934361144",
+    "934361145",
+    "934361146",
+    "934361147",
+    "934361148",
+    "934361149",
+    "934361150",
+    "934361151"
+   ]
+  }
+ ],
+ "fragments": {
+  "934361143": {
+   "fragment_id": "213627993",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-09-06",
+   "changed_by": [],
+   "markdown": "Portaria n.º 29/2013\n\nde 29 de janeiro\n\nO Decreto-Lei n.º 266-F/2012, de 31 de dezembro, definiu a missão, atribuições e tipo de organização interna da Direção-Geral dos Estabelecimentos Escolares. Importa agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear dos serviços.\n\nAssim:\n\nAo abrigo do disposto nos n.os 4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Educação e Ciência, o seguinte:"
+  },
+  "213627922": {
+   "fragment_id": "213627994",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear\n\n1 -A Direção-Geral dos Estabelecimentos Escolares, abreviadamente designada por DGEstE, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Segurança Escolar;\n\nb) Unidades orgânicas desconcentradas, de âmbito regional:\n\n(i) Direção de Serviços da Região Norte;\n\n(ii) Direção de Serviços da Região Centro;\n\n(iii) Direção de Serviços da Região Lisboa e Vale do Tejo;\n\n(iv) Direção de Serviços da Região Alentejo;\n\n(v) Direção de Serviços da Região Algarve.\n\n2 -A unidade orgânica referida na alínea a) do número anterior é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - As unidades orgânicas referidas na alínea b) do n.º 1 do presente artigo são dirigidas por Delegados Regionais de Educação, cargos de direção intermédia de 1.º grau.\n\n4 -As unidades orgânicas desconcentradas, de âmbito regional, exercem as suas competências na respetiva circunscrição territorial que corresponde à estrutura territorial definida nos termos do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2003&id=303R1059\" title=\"Link para Regulamento da Comunidade Europeia\">1059/2003</a> do Parlamento Europeu e do Conselho de 26 de Maio de 2003, correspondente à Nomenclatura Comum das Unidades Territoriais Estatísticas (NUTS), de nível II excluindo as regiões autónomas da Madeira e dos Açores.\n\n5 - A área geográfica de intervenção dos serviços regionais pode ser temporariamente ajustada, através da reafectação de concelhos ou freguesias, por despacho do membro do Governo responsável pela área da educação."
+  },
+  "213627923": {
+   "fragment_id": "213627995",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços de Segurança Escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direção de Serviços de Segurança Escolar\n\nÀ Direção de Serviços de Segurança Escolar, abreviadamente designada por DSSE, compete:\n\na) Elaborar e proceder à implementação das medidas necessárias para prevenir e combater situações de insegurança e violência escolar;\n\nb) Avaliar a capacidade do Ministério da Educação e Ciência (MEC) para, atendendo aos recursos disponíveis, fazer face aos problemas diagnosticados;\n\nc) Estabelecer prioridades de intervenção e parcerias com outras entidades da administração central ou descentralizadas, tendo em conta a avaliação e o diagnóstico efetuado nos termos das alíneas anteriores;\n\nd) Conceber, implementar e desenvolver procedimentos de monitorização e acompanhamento em matéria de segurança escolar;\n\ne) Proceder à monitorização dos sistemas de vigilância das escolas;\n\nf) Promover e acompanhar programas de intervenção na área da segurança, garantindo a necessária articulação com o Programa Escola Segura;\n\ng) Conceber instrumentos, procedimentos e recursos que contribuam para a resolução de problemas identificados pelas escolas;\n\nh) Realizar visitas e reuniões de trabalho nas escolas, em articulação com a Direção-Geral da Administração Escolar;\n\ni) Organizar ações de formação específicas sobre segurança escolar, dirigidas ao pessoal docente e não docente das escolas;\n\nj) Promover e assegurar a realização periódica de exercícios e simulacros, não só para testar os meios exteriores envolvidos como para fomentar uma maior consciencialização da segurança escolar e uma habituação aos planos de segurança e acompanhar o cumprimento do plano de emergência das escolas;\n\nk) Manter uma permanente articulação e cooperação com as estruturas conexas em matéria de segurança escolar nas escolas, designadamente com o Programa Escola Segura;\n\nl) Acompanhar experiências e modelos de intervenção em execução noutros países."
+  },
+  "213627924": {
+   "fragment_id": "213627996",
+   "type": 11,
+   "heading": "Artigo 3.º — Direções de Serviços das Regiões Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direções de Serviços das Regiões Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve\n\nÀs Direções de Serviços das Regiões Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, abreviadamente designadas por DSRN, DSRC, DSRLVT, DSRA, DSRAL compete, em articulação com os serviços centrais:\n\na) Acompanhar, coordenar e apoiar a organização e o funcionamento dos estabelecimentos de educação situados na respetiva circunscrição regional;\n\nb) Promover e monitorizar processos de avaliação da organização escolar;\n\nc) Colaborar na recolha de informação relevante respeitante à educação especial para efeitos de regulação e de monitorização das respostas educativas e de apoio educativo, em articulação com a Direção-Geral da Educação;\n\nd) Acompanhar a promoção de medidas e orientações para a inclusão e o sucesso educativo dos alunos com necessidades educativas especiais na educação pré-escolar e escolar na modalidade de educação especial nos ensinos público, particular, cooperativo e solidário, designadamente atividades de complemento e acompanhamento pedagógico, em articulação com a Direção-Geral da Educação;\n\ne) Assegurar a implementação a nível regional dos diversos programas, projetos e atividades do desporto escolar, em articulação com a Direção-Geral da Educação;\n\nf) Participar no planeamento da rede escolar da circunscrição regional, promovendo, sem prejuízo das competências dos restantes serviços do MEC, ações de planeamento e execução do ordenamento das redes da educação pré-escolar, dos ensinos básico e secundário, incluindo as suas modalidades especiais, bem como as de educação e formação de jovens e adultos;\n\ng) Apoiar os estabelecimentos de educação e as autarquias locais na manutenção dos contratos de execução celebrados anos termos do Decreto-Lei n.º 144/2008, de 28 de julho;\n\nh) Assegurar a divulgação local das orientações dos serviços do MEC e da informação técnica às escolas;\n\ni) Prestar apoio técnico à manutenção do parque escolar;\n\nj) Apoiar o funcionamento das juntas médicas regionais;\n\nk) Analisar e elaborar pareceres dos Planos Diretores Municipais (PDM), do Plano de Pormenor (PP), Avaliação Ambiental Estratégica (AAE), Carta Educativa (CE), bem como as candidaturas elaboradas pelas autarquias;\n\nl) Acompanhar a requalificação, modernização e conservação da rede de escolas;\n\nm) Identificar as intervenções nos edifícios escolares;\n\nn) Vistoriar as instalações para a concessão de autorização de funcionamento dos estabelecimentos escolares do ensino particular e cooperativo e dos equipamentos das escolas públicas com oferta de ensino profissional, em articulação com a Direção-Geral da Administração Escolar e com a Direção-Geral da Educação;\n\no) Promover o acompanhamento das escolas profissionais privadas e da execução dos contratos de apoio financeiro celebrados;\n\np) Promover em articulação com os estabelecimentos escolares, os necessários procedimentos em caso de acidente em serviço de docentes e não docentes;\n\nq) Propor a certificação do tempo de serviço do pessoal docente nos termos da lei, prestado fora do MEC;\n\nr) Assegurar o apoio jurídico e contencioso, em articulação com a Secretaria-Geral;\n\ns) Cooperar com outros serviços, organismos e entidades, tendo em vista a realização de ações conjuntas em matéria de educação."
+  },
+  "213627925": {
+   "fragment_id": "213627997",
+   "type": 11,
+   "heading": "Artigo 4.º — Unidades orgânicas flexíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da DGEstE é fixado em uma."
+  },
+  "213627926": {
+   "fragment_id": "213627998",
+   "type": 11,
+   "heading": "Artigo 5.º — Equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Equipas multidisciplinares\n\nA dotação máxima de equipas multidisciplinares é fixada em oito."
+  },
+  "213627927": {
+   "fragment_id": "213627999",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria nº 384/2007, de 30 de março;\n\nb) A Portaria nº 385/2007, de 30 de março;\n\nc) A Portaria nº 386/2007, de 30 de março;\n\nd) A Portaria nº 387/2007, de 30 de março;\n\ne) A Portaria nº 388/2007, de 30 de março."
+  },
+  "213627928": {
+   "fragment_id": "213628000",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "213627921": {
+   "fragment_id": "213627993",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 29/2013\n\nde 29 de janeiro\n\nO Decreto-Lei n.º 266-F/2012, de 31 de dezembro, definiu a missão, atribuições e tipo de organização interna da Direção-Geral dos Estabelecimentos Escolares. Importa agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear dos serviços.\n\nAssim:\n\nAo abrigo do disposto nos n.os 4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Educação e Ciência, o seguinte:"
+  },
+  "213627930": {
+   "fragment_id": "213627996",
+   "type": 11,
+   "heading": "Artigo 3.º — Direções de Serviços das Regiões Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Direções de Serviços das Regiões Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve\n\nÀs Direções de Serviços das Regiões Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, abreviadamente designadas por DSRN, DSRC, DSRLVT, DSRA, DSRAL compete, em articulação com os serviços centrais:\n\na) Acompanhar, coordenar e apoiar a organização e o funcionamento dos estabelecimentos de educação situados na respetiva circunscrição regional;\n\nb) Promover e monitorizar processos de avaliação da organização escolar;\n\nc) Colaborar na recolha de informação relevante respeitante à educação especial para efeitos de regulação e de monitorização das respostas educativas e de apoio educativo, em articulação com a Direção-Geral da Educação;\n\nd) Acompanhar a promoção de medidas e orientações para a inclusão e o sucesso educativo dos alunos com necessidades educativas especiais na educação pré-escolar e escolar na modalidade de educação especial nos ensinos público, particular, cooperativo e solidário, designadamente atividades de complemento e acompanhamento pedagógico, em articulação com a Direção-Geral da Educação;\n\ne) Assegurar a implementação a nível regional dos diversos programas, projetos e atividades do desporto escolar, em articulação com a Direção-Geral da Educação;\n\nf) Participar no planeamento da rede escolar da circunscrição regional, promovendo, sem prejuízo das competências dos restantes serviços do MEC, ações de planeamento e execução do ordenamento das redes da educação pré-escolar, dos ensinos básico e secundário, incluindo as suas modalidades especiais, bem como as de educação e formação de jovens e adultos;\n\ng) (Revogada);\n\nh) Assegurar a divulgação local das orientações dos serviços do MEC e da informação técnica às escolas;\n\ni)  (Revogada);\n\nj) Apoiar o funcionamento das juntas médicas regionais;\n\nk) Analisar e elaborar pareceres dos Planos Diretores Municipais (PDM), do Plano de Pormenor (PP), Avaliação Ambiental Estratégica (AAE), Carta Educativa (CE), bem como as candidaturas elaboradas pelas autarquias;\n\nl) Acompanhar a requalificação, modernização e conservação da rede de escolas;\n\nm) Identificar as intervenções nos edifícios escolares;\n\nn) Vistoriar as instalações para a concessão de autorização de funcionamento dos estabelecimentos escolares do ensino particular e cooperativo e dos equipamentos das escolas públicas com oferta de ensino profissional, em articulação com a Direção-Geral da Administração Escolar e com a Direção-Geral da Educação;\n\no) Promover o acompanhamento das escolas profissionais privadas e da execução dos contratos de apoio financeiro celebrados;\n\np) Promover em articulação com os estabelecimentos escolares, os necessários procedimentos em caso de acidente em serviço de docentes e não docentes;\n\nq) Propor a certificação do tempo de serviço do pessoal docente nos termos da lei, prestado fora do MEC;\n\nr) Assegurar o apoio jurídico e contencioso, em articulação com a Secretaria-Geral;\n\ns) Cooperar com outros serviços, organismos e entidades, tendo em vista a realização de ações conjuntas em matéria de educação.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+  },
+  "213627929": {
+   "fragment_id": "213628001",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de janeiro de 2013. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 15 de janeiro de 2013."
+  },
+  "934361144": {
+   "fragment_id": "213627994",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear\n\n1 -A Direção-Geral dos Estabelecimentos Escolares, abreviadamente designada por DGEstE, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Segurança Escolar;\n\nb) Unidades orgânicas desconcentradas, de âmbito regional:\n\n(i) Direção de Serviços da Região Norte;\n\n(ii) Direção de Serviços da Região Centro;\n\n(iii) Direção de Serviços da Região Lisboa e Vale do Tejo;\n\n(iv) Direção de Serviços da Região Alentejo;\n\n(v) Direção de Serviços da Região Algarve.\n\n2 -A unidade orgânica referida na alínea a) do número anterior é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - As unidades orgânicas referidas na alínea b) do n.º 1 do presente artigo são dirigidas por Delegados Regionais de Educação, cargos de direção intermédia de 1.º grau.\n\n4 -As unidades orgânicas desconcentradas, de âmbito regional, exercem as suas competências na respetiva circunscrição territorial que corresponde à estrutura territorial definida nos termos do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2003&id=303R1059\" title=\"Link para Regulamento da Comunidade Europeia\">1059/2003</a> do Parlamento Europeu e do Conselho de 26 de Maio de 2003, correspondente à Nomenclatura Comum das Unidades Territoriais Estatísticas (NUTS), de nível II excluindo as regiões autónomas da Madeira e dos Açores.\n\n5 - A área geográfica de intervenção dos serviços regionais pode ser temporariamente ajustada, através da reafectação de concelhos ou freguesias, por despacho do membro do Governo responsável pela área da educação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934361145": {
+   "fragment_id": "213627995",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços de Segurança Escolar",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "###### Artigo 2.º — Direção de Serviços de Segurança Escolar\n\nÀ Direção de Serviços de Segurança Escolar, abreviadamente designada por DSSE, compete:\n\na) Elaborar e proceder à implementação das medidas necessárias para prevenir e combater situações de insegurança e violência escolar;\n\nb) Avaliar a capacidade do Ministério da Educação e Ciência (MEC) para, atendendo aos recursos disponíveis, fazer face aos problemas diagnosticados;\n\nc) Estabelecer prioridades de intervenção e parcerias com outras entidades da administração central ou descentralizadas, tendo em conta a avaliação e o diagnóstico efetuado nos termos das alíneas anteriores;\n\nd) Conceber, implementar e desenvolver procedimentos de monitorização e acompanhamento em matéria de segurança escolar;\n\ne) Proceder à monitorização dos sistemas de vigilância das escolas;\n\nf) Promover e acompanhar programas de intervenção na área da segurança, garantindo a necessária articulação com o Programa Escola Segura;\n\ng) Conceber instrumentos, procedimentos e recursos que contribuam para a resolução de problemas identificados pelas escolas;\n\nh) Realizar visitas e reuniões de trabalho nas escolas, em articulação com a Direção-Geral da Administração Escolar;\n\ni) Organizar ações de formação específicas sobre segurança escolar, dirigidas ao pessoal docente e não docente das escolas;\n\nj) Promover e assegurar a realização periódica de exercícios e simulacros, não só para testar os meios exteriores envolvidos como para fomentar uma maior consciencialização da segurança escolar e uma habituação aos planos de segurança e acompanhar o cumprimento do plano de emergência das escolas;\n\nk) Manter uma permanente articulação e cooperação com as estruturas conexas em matéria de segurança escolar nas escolas, designadamente com o Programa Escola Segura;\n\nl) Acompanhar experiências e modelos de intervenção em execução noutros países.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934361146": {
+   "fragment_id": "213627996",
+   "type": 11,
+   "heading": "Artigo 3.º — Direções de Serviços das Regiões Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Direções de Serviços das Regiões Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve\n\nÀs Direções de Serviços das Regiões Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, abreviadamente designadas por DSRN, DSRC, DSRLVT, DSRA, DSRAL compete, em articulação com os serviços centrais:\n\na) Acompanhar, coordenar e apoiar a organização e o funcionamento dos estabelecimentos de educação situados na respetiva circunscrição regional;\n\nb) Promover e monitorizar processos de avaliação da organização escolar;\n\nc) Colaborar na recolha de informação relevante respeitante à educação especial para efeitos de regulação e de monitorização das respostas educativas e de apoio educativo, em articulação com a Direção-Geral da Educação;\n\nd) Acompanhar a promoção de medidas e orientações para a inclusão e o sucesso educativo dos alunos com necessidades educativas especiais na educação pré-escolar e escolar na modalidade de educação especial nos ensinos público, particular, cooperativo e solidário, designadamente atividades de complemento e acompanhamento pedagógico, em articulação com a Direção-Geral da Educação;\n\ne) Assegurar a implementação a nível regional dos diversos programas, projetos e atividades do desporto escolar, em articulação com a Direção-Geral da Educação;\n\nf) Participar no planeamento da rede escolar da circunscrição regional, promovendo, sem prejuízo das competências dos restantes serviços do MEC, ações de planeamento e execução do ordenamento das redes da educação pré-escolar, dos ensinos básico e secundário, incluindo as suas modalidades especiais, bem como as de educação e formação de jovens e adultos;\n\ng) (Revogada);\n\nh) Assegurar a divulgação local das orientações dos serviços do MEC e da informação técnica às escolas;\n\ni)  (Revogada);\n\nj) Apoiar o funcionamento das juntas médicas regionais;\n\nk) Analisar e elaborar pareceres dos Planos Diretores Municipais (PDM), do Plano de Pormenor (PP), Avaliação Ambiental Estratégica (AAE), Carta Educativa (CE), bem como as candidaturas elaboradas pelas autarquias;\n\nl) Acompanhar a requalificação, modernização e conservação da rede de escolas;\n\nm) Identificar as intervenções nos edifícios escolares;\n\nn) Vistoriar as instalações para a concessão de autorização de funcionamento dos estabelecimentos escolares do ensino particular e cooperativo e dos equipamentos das escolas públicas com oferta de ensino profissional, em articulação com a Direção-Geral da Administração Escolar e com a Direção-Geral da Educação;\n\no) Promover o acompanhamento das escolas profissionais privadas e da execução dos contratos de apoio financeiro celebrados;\n\np) Promover em articulação com os estabelecimentos escolares, os necessários procedimentos em caso de acidente em serviço de docentes e não docentes;\n\nq) Propor a certificação do tempo de serviço do pessoal docente nos termos da lei, prestado fora do MEC;\n\nr) Assegurar o apoio jurídico e contencioso, em articulação com a Secretaria-Geral;\n\ns) Cooperar com outros serviços, organismos e entidades, tendo em vista a realização de ações conjuntas em matéria de educação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01"
+  },
+  "934361147": {
+   "fragment_id": "213627997",
+   "type": 11,
+   "heading": "Artigo 4.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "###### Artigo 4.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da DGEstE é fixado em uma.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934361148": {
+   "fragment_id": "213627998",
+   "type": 11,
+   "heading": "Artigo 5.º — Equipas multidisciplinares",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "###### Artigo 5.º — Equipas multidisciplinares\n\nA dotação máxima de equipas multidisciplinares é fixada em oito.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934361149": {
+   "fragment_id": "213627999",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria nº 384/2007, de 30 de março;\n\nb) A Portaria nº 385/2007, de 30 de março;\n\nc) A Portaria nº 386/2007, de 30 de março;\n\nd) A Portaria nº 387/2007, de 30 de março;\n\ne) A Portaria nº 388/2007, de 30 de março.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934361150": {
+   "fragment_id": "213628000",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  },
+  "934361151": {
+   "fragment_id": "213628001",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-09-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+   ],
+   "markdown": "O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de janeiro de 2013. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 15 de janeiro de 2013.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 296-A/2025/1 - Diário da República n.º 171/2025, Suplemento, Série I de 2025-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2025-934422119), em vigor a partir de 2025-09-06"
+  }
+ }
+}

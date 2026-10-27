@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0010:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0010-20030725",
+ "dre_path": null,
+ "source_lastmod": "2003-07-25",
+ "versions": [
+  {
+   "date": "1998-04-01",
+   "future": false,
+   "celex": "31998L0010",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2003-07-25",
+   "future": false,
+   "celex": "01998L0010-20030725",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "be28e4c718a2ffc8"
+   ]
+  }
+ ],
+ "fragments": {
+  "be28e4c718a2ffc8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01998L0010 — PT — 25.07.2003 — 002.002\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31998L0010) [DIRECTIVA 98/10/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/31998L0010) [de 26 de Fevereiro de 1998](http://publications.europa.eu/resource/celex/31998L0010) [relativa à aplicação da oferta de rede aberta (ORA) à telefonia vocal e ao serviço universal de telecomunicações num ambiente concorrencial](http://publications.europa.eu/resource/celex/31998L0010) (JO L 101, 1.4.1998, p.24)\n\n**Revogada por:**\n\n- [Directiva 2002/21/CE do Parlamento Europeu e do Conselho de 7 de Março de 2002](http://publications.europa.eu/resource/celex/32002L0021) — L 108 — 33 — 24.4.2002"
+  }
+ }
+}

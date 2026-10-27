@@ -1,0 +1,171 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:325511:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-221263923",
+ "dre_path": "/dr/detalhe/decreto-lei/102-1985-325511",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1985-04-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221264522",
+    "221264523",
+    "221264524",
+    "221264525",
+    "221264526",
+    "221264527",
+    "221264528",
+    "221264529"
+   ]
+  },
+  {
+   "date": "1992-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:233309:por",
+     "title": "Decreto-Lei n.º 203/92",
+     "published": "1992-10-02",
+     "dre_path": "/dr/detalhe/decreto-lei/203-1992-233309"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "221264522",
+    "221264523",
+    "221264524",
+    "221264531",
+    "221264526",
+    "221264527",
+    "221264528",
+    "221264529",
+    "221264530"
+   ]
+  },
+  {
+   "date": "2023-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221225698:por",
+     "title": "Decreto-Lei n.º 77/2023",
+     "published": "2023-09-04",
+     "dre_path": "/dr/detalhe/decreto-lei/77-2023-221225698"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "221264522",
+    "221264523",
+    "221264524",
+    "221264531",
+    "221264526",
+    "221264532",
+    "221264528",
+    "221264529",
+    "221264530"
+   ]
+  }
+ ],
+ "fragments": {
+  "221264522": {
+   "fragment_id": "221263924",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 102/85\n\nde 10 de Abril\n\nConsiderando a conveniência de criar para os sargentos das Forças Armadas um diploma que consigne, para todos os efeitos legais, o seu ingresso no quadro permanente;\n\nConsiderando a ausência de legislação que consagre, para os sargentos dos quadros permanentes, a passagem de tal diploma:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "221264523": {
+   "fragment_id": "221263925",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO diploma de encarte é o documento adoptado como forma de encarte dos sargentos dos quadros permanentes das Forças Armadas."
+  },
+  "221264524": {
+   "fragment_id": "221263926",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO diploma de encarte é conferido pelo acesso ao primeiro posto de sargento dos quadros permanentes das Forças Armadas."
+  },
+  "221264525": {
+   "fragment_id": "221263927",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - Os modelos dos diplomas de encarte, em anexo ao presente decreto-lei, constam de um desdobrável em 3 folhas de cor a definir por despacho do chefe do estado-maior do ramo respectivo, tendo cada um as seguintes dimensões: 22,5 cm x 13,5 cm.\n\n2 - Este desdobrável será acompanhado de uma capa de protecção de cor a definir por despacho do chefe do estado-maior do ramo respectivo, da qual constará o escudo nacional procedido dos dizeres «DIPLOMA DE ENCARTE».\n\n3 - O verso da primeira folha conterá o juramento de fidelidade nos seguintes termos:\n\nJuro, por minha honra, como português e como sargento do ... (Exército, Armada ou Força Aérea), guardar e fazer guardar a Constituição da República; cumprir as ordens e deveres militares de acordo com as leis e regulamentos; contribuir com todas as minhas capacidades para o prestígio das Forças Armadas e servir a minha Pátria em todas as circunstâncias e sem limitações, mesmo com o sacrifício da própria vida."
+  },
+  "221264526": {
+   "fragment_id": "221263928",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - As promoções serão averbadas no mesmo diploma, não devendo escriturar-se a promoção relativa a qualquer posto sem que o tenham sido as promoções aos postos anteriores, sem prejuízo do disposto no artigo 7.º\n\n2 - No diploma de encarte serão averbadas as passagens para as situações de reserva e de reforma.\n\n3 - Poderão ainda, a requerimento dos interessados, ser efectuados averbamentos de quaisquer factos respeitantes à função ou carreira nas Forças Armadas.\n\n4 - No diploma de encarte serão coladas e inutilizadas, pela entidade que fizer qualquer dos averbamentos anteriormente mencionados, estampilhas fiscais de valor correspondente à taxa devida, nos termos das disposições em vigor à data do averbamento."
+  },
+  "221264527": {
+   "fragment_id": "221263929",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Correrá por conta do interessado o pagamento do custo do impresso do diploma de encarte, da capa do modelo oficial em que aquele deve ser conservado e, bem assim, das estampilhas fiscais a que se refere o n.º 4 do artigo anterior.\n\n2 - A nenhum sargento das Forças Atinadas que tenha ascendido ao primeiro posto do seu quadro, sido promovido ou transitado para as situações de reserva ou de reforma poderão ser liquidados vencimentos correspondentes ao novo posto ou situação sem que prove possuir, devidamente escriturado, o seu diploma de encarte ou tenha já cumprido as formalidades legais necessárias ao seu encarte.\n\n3 - As entidades administrativas encarregadas de liquidar vencimentos ou quaisquer abonos em contravenção com o disposto no número anterior incorrerrão em responsabilidade pecuniária correspondente ao dobro da taxa devida pelo encarte ou averbamentos.\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 77/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2023-221225698) estabelece que não há lugar à restituição das quantias pagas antes de 1 de janeiro de 2023."
+  },
+  "221264528": {
+   "fragment_id": "221263930",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO termo de passagem do diploma de encarte deve ser assinado pelo chefe do estado-maior do ramo respectivo."
+  },
+  "221264529": {
+   "fragment_id": "221263931",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAos sargentos que, à data da entrada em vigor do presente decreto-lei, já pertençam aos quadros permanentes, no activo, serão passados os diplomas de encarte, nos termos do n.º 1 do artigo 3.º, sendo-lhes apenas cobradas as estampilhas fiscais a que se refere o n.º 4 do artigo 4.º no averbamento dos postos a que venham a ser promovidos, devendo, contudo, ser-lhes averbadas as promoções aos postos anteriores."
+  },
+  "221264531": {
+   "fragment_id": "221263927",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1992-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/92 - Diário da República n.º 228/1992, Série I-A de 1992-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1992-233309), em vigor a partir de 1992-10-07"
+   ],
+   "markdown": "###### Artigo 3.º\n\nOs modelos dos diplomas de encarte são aprovados por portaria do Ministro da Defesa Nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/92 - Diário da República n.º 228/1992, Série I-A de 1992-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1992-233309), em vigor a partir de 1992-10-07"
+  },
+  "221264530": {
+   "fragment_id": "221263932",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete.\n\nPromulgado em 15 de Março de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 18 de Março de 1985.\n\nO Primeiro-Ministro, em exercício, Rui Manuel Parente Chancerelle de Machete.\n\n(ver documento original)"
+  },
+  "221264532": {
+   "fragment_id": "221263929",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2023-09-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 77/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2023-221225698), em vigor a partir de 2023-09-05, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Correrá por conta do interessado o pagamento do custo do impresso do diploma de encarte, da capa do modelo oficial em que aquele deve ser conservado e, bem assim, das estampilhas fiscais a que se refere o n.º 4 do artigo anterior.\n\n2 - A nenhum sargento das Forças Atinadas que tenha ascendido ao primeiro posto do seu quadro, sido promovido ou transitado para as situações de reserva ou de reforma poderão ser liquidados vencimentos correspondentes ao novo posto ou situação sem que prove possuir, devidamente escriturado, o seu diploma de encarte ou tenha já cumprido as formalidades legais necessárias ao seu encarte.\n\n3 - As entidades administrativas encarregadas de liquidar vencimentos ou quaisquer abonos em contravenção com o disposto no número anterior incorrerrão em responsabilidade pecuniária correspondente ao dobro da taxa devida pelo encarte ou averbamentos.\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 77/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2023-221225698) estabelece que não há lugar à restituição das quantias pagas antes de 1 de janeiro de 2023.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 77/2023 - Diário da República n.º 171/2023, Série I de 2023-09-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2023-221225698), em vigor a partir de 2023-09-05, produz efeitos a partir de 2023-01-01"
+  }
+ }
+}

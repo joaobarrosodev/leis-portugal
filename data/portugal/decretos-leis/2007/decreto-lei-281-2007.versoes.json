@@ -1,0 +1,802 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:637403:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-876301037",
+ "dre_path": "/dr/detalhe/decreto-lei/281-2007-637403",
+ "source_lastmod": "2024-08-12",
+ "versions": [
+  {
+   "date": "2007-08-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "876125199",
+    "876125200",
+    "876125201",
+    "876125202",
+    "876125203",
+    "876125204",
+    "876125205",
+    "876125206",
+    "876125207",
+    "876125208",
+    "876125209",
+    "876125210",
+    "876125211",
+    "876125212",
+    "876125213",
+    "876125214",
+    "876125215",
+    "876125216",
+    "876125217",
+    "876125218",
+    "876125219",
+    "876125220",
+    "876125221",
+    "876125222",
+    "876125223",
+    "876125224",
+    "876125225",
+    "876125226",
+    "876125227",
+    "876125228",
+    "876125229",
+    "876125230",
+    "876125231",
+    "876125232",
+    "876125233",
+    "876125234",
+    "876125235",
+    "876125236",
+    "876125237",
+    "876125238",
+    "876125239",
+    "876125240",
+    "876125241",
+    "876125242",
+    "876125243",
+    "876125244",
+    "876125245",
+    "876125246",
+    "876125247",
+    "876125248",
+    "876125249",
+    "876125250",
+    "876125251",
+    "876125252",
+    "876125253",
+    "876125254",
+    "876125255",
+    "876125256",
+    "876125257",
+    "876125258",
+    "876125259",
+    "876125260",
+    "876125261",
+    "876125262",
+    "876125263",
+    "876125264",
+    "876125265",
+    "876125266",
+    "876125267",
+    "876125268",
+    "876125269",
+    "876125270",
+    "876125271",
+    "876125272",
+    "876125273",
+    "876125274",
+    "876599975",
+    "876599976",
+    "876599977",
+    "876599978",
+    "876599979",
+    "876599980",
+    "876599981",
+    "876599982",
+    "876599983",
+    "876599984",
+    "876599985"
+   ]
+  }
+ ],
+ "fragments": {
+  "876125199": {
+   "fragment_id": "876301038",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 281/2007\n\nde 7 de Agosto\n\nA Cruz Vermelha Portuguesa iniciou a sua actividade a 11 de Fevereiro de 1865 sob a designação «Comissão Provisória para Socorros a Feridos Doentes em Tempo de Guerra» e foi oficialmente reconhecida por Decreto de 26 de Maio de 1868 sob o novo nome de «Comissão Portuguesa de Socorros a Feridos e Doentes Militares em Tempo de Guerra» e, posteriormente, também reconhecida pelo Comité Internacional da Cruz Vermelha em 13 de Julho de 1887, sob a designação oficial «Sociedade Portuguesa da Cruz Vermelha», vindo a ser admitida em 28 de Maio de 1919 no seio da Liga Internacional das Sociedades da Cruz Vermelha e Crescente Vermelho.\n\nOs importantes desenvolvimentos ao nível estrutural verificados desde a data da entrada em vigor do Decreto-Lei n.º 164/91, de 7 de Maio, não obstante a estabilidade dos princípios orientadores da actividade da Cruz Vermelha Portuguesa permanecerem inalterados, exigem a aprovação de um novo regime jurídico regulador da instituição.\n\nEm causa está a necessidade de, por um lado, se proceder a reajustamentos com o objectivo de optimizar o respectivo funcionamento e, por outro, dar resposta aos novos desafios impostos pela realidade actual, no respeito pelos princípios e orientações definidas pelas convenções internacionais da Cruz Vermelha.\n\nCom plena consciência dos altos e humanitários fins que à instituição compete atingir e no sentido de estimular e favorecer a prossecução das suas tarefas, mantém-se o reconhecimento das razões determinantes do apoio devido à Cruz Vermelha Portuguesa, continuando esta a gozar dos benefícios inerentes às instituições particulares de solidariedade social e consagrando-se legalmente um conjunto de regras e princípios que irão regular as relações entre o Estado e a instituição, de molde a que esta possa prestar, cada vez mais e melhor, serviços de reconhecida relevância e utilidade pública, como instituição humanitária nacional.\n\nConsagra-se num único diploma legal o quadro regulador que sistematiza e disciplina o funcionamento dos órgãos da instituição, fornecendo um conjunto de regras elementares de actuação, definindo competências e objectivos, bem como determinando a sua estrutura associativa e a composição dos respectivos órgãos sociais.\n\nAs alterações agora introduzidas pretendem, simultaneamente, compatibilizar as orientações da Federação e do Comité Internacionais da Cruz Vermelha e do Crescente Vermelho com as condições necessárias à escolha das pessoas mais capazes para titulares dos órgãos da instituição, como forma de garantir a continuidade e o adequado desenvolvimento da mesma.\n\nO novo regime considera definitivamente a verdadeira génese da Cruz Vermelha Portuguesa enquanto organização não governamental e pessoa colectiva de direito privado e utilidade pública administrativa, embora tendo em consideração que o apoio estatal constitui uma condição fundamental para a prossecução dos seus objectivos.\n\nAs principais alterações introduzidas no regime da instituição obedecem a quatro grandes objectivos.\n\nEm primeiro lugar, e não obstante a natureza associativa da instituição, pretende-se ver igualmente espelhadas na respectiva estrutura orgânica as características que a aproximam do carácter fundacional.\n\nPor essa razão, a par de órgãos tipicamente associativos como a assembleia geral e as assembleias das delegações locais, assume-se de forma clara a existência de outros órgãos que garantam a nível local a representatividade externa que já hoje existe no conselho supremo, o que é feito através da consagração da figura dos membros zeladores e pela consagração dos conselhos locais de curadores.\n\nEm segundo lugar aposta-se na racionalização das estruturas locais que passam a ser exclusivamente constituídas por delegações locais, introduzindo-se, porém, a figura do delegado regional com o objectivo de apoiar as estruturas locais na sua actividade e representar a direcção nacional junto das mesmas.\n\nEm terceiro lugar, de acordo com as orientações da Federação e do Comité Internacional da Cruz Vermelha e do Crescente Vermelho, permite-se a profissionalização das funções executivas de gestão da instituição, tendo em conta a sua capacidade financeira e o princípio da complementaridade entre os órgãos de governo e de gestão.\n\nEm quarto lugar pretende-se potenciar uma escolha consensual, quer do presidente nacional, quer dos presidentes das delegações locais, de forma a garantir-lhes todas as condições para o desempenho das respectivas funções.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta seguinte:"
+  },
+  "876125200": {
+   "fragment_id": "876301039",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "876125201": {
+   "fragment_id": "876301040",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei aprova o regime jurídico da Cruz Vermelha Portuguesa (CVP) e os respectivos estatutos, os quais fazem parte integrante do presente decreto-lei."
+  },
+  "876125202": {
+   "fragment_id": "876301041",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime jurídico\n\n1 - A CVP está subordinada às convenções internacionais de Genebra, subscritas e ratificadas por Portugal, no âmbito das suas finalidades, ao presente decreto-lei e demais legislação aplicável.\n\n2 - A CVP tem duração ilimitada e goza dos benefícios inerentes às instituições de utilidade pública e instituições particulares de solidariedade social."
+  },
+  "876125203": {
+   "fragment_id": "876301042",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza\n\n1 - A Cruz Vermelha Portuguesa, adiante designada por CVP, é uma instituição humanitária não governamental, de carácter voluntário e de interesse público, que desenvolve a sua actividade devidamente apoiada pelo Estado, no respeito pelo Direito Internacional Humanitário, pelos Estatutos do Movimento Internacional e pela Constituição da Federação da Cruz Vermelha e do Crescente Vermelho.\n\n2 - A CVP é uma pessoa colectiva de direito privado e de utilidade pública administrativa, sem fins lucrativos, com plena capacidade jurídica para a prossecução dos seus fins."
+  },
+  "876125204": {
+   "fragment_id": "876301043",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios fundamentais\n\n1 - A CVP desenvolve a sua actividade com autonomia face ao Estado e em obediência aos princípios fundamentais e recomendações do Movimento Internacional da Cruz Vermelha e do Crescente Vermelho, estabelecidos em Conferência Internacional.\n\n2 - Os princípios fundamentais da Cruz Vermelha são:\n\na) Humanidade - a Cruz Vermelha nasce da preocupação de prestar auxílio a todos os feridos, dentro e fora dos campos de batalha; de prevenir e aliviar, em todas as circunstâncias, o sofrimento humano; de proteger a vida e a saúde; de promover o respeito pela pessoa humana; de favorecer a compreensão, a cooperação e a paz duradoura entre os povos;\n\nb) Imparcialidade - a Cruz Vermelha não distingue nacionalidades, raças, condições sociais, credos religiosos ou políticos, empenhando-se exclusivamente em socorrer todos os indivíduos na medida dos seus sofrimentos e da urgência das suas necessidades, sem qualquer espécie de discriminação;\n\nc) Neutralidade - a Cruz Vermelha, a fim de conservar a confiança de todos, abstém-se de tomar parte em hostilidades ou em controvérsias de ordem política, racial, filosófica ou religiosa;\n\nd) Independência - a Cruz Vermelha é independente e, no exercício das suas actividades como auxiliar dos poderes públicos, conserva autonomia que lhe permite agir sempre segundo os princípios do Movimento Internacional da Cruz Vermelha;\n\ne) Voluntariado - a Cruz Vermelha é uma instituição de socorro voluntária e desinteressada;\n\nf) Unidade - a Cruz Vermelha é só uma. Em cada país só pode existir uma sociedade que está aberta a todos e estende a sua acção a todo o território nacional;\n\ng) Universalidade - a Cruz Vermelha é uma instituição universal, no seio da qual todas as sociedades nacionais têm direitos iguais e o dever de entreajuda."
+  },
+  "876125205": {
+   "fragment_id": "876301044",
+   "type": 11,
+   "heading": "Artigo 5.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Missão\n\n1 - Constitui missão da CVP prestar assistência humanitária e social, em especial aos mais vulneráveis, prevenindo e reparando o sofrimento e contribuindo para a defesa da vida, da saúde e da dignidade humana.\n\n2 - Para a concretização do seu objecto a CVP:\n\na) Fomenta e organiza a colaboração voluntária e desinteressada das pessoas singulares e colectivas, públicas e privadas, nas actividades da instituição, ao serviço do bem comum e em especial em situações de acidente grave ou catástrofe;\n\nb) Colabora com outras entidades e organismos que actuem nas áreas de protecção e socorro e da assistência humanitária e social, sendo também, neste âmbito, auxiliar ou complementar dos poderes públicos, sem prejuízo da sua independência e autonomia e assegurando o respeito pelos símbolos, distintivos e emblemas da Cruz, Crescente e Cristal Vermelhos, nos termos das Convenções de Genebra e seus Protocolos Adicionais;\n\nc) Colabora com as autoridades de protecção civil em articulação com o sistema integrado de operações de protecção e socorro, de acordo com os princípios e as normas a que se encontra submetida e sem prejuízo da sua independência e autonomia;\n\nd) Colabora com os serviços de saúde militar, no âmbito da protecção aos militares feridos, doentes, náufragos, prisioneiros de guerra, às vítimas civis dos conflitos nacionais e internacionais e noutras situações decorrentes de estados de excepção, no quadro da acção do Movimento Internacional da Cruz Vermelha e de acordo com as disposições das Convenções de Genebra e seus protocolos adicionais;\n\ne) Colabora com o Movimento Internacional da Cruz Vermelha e do Crescente Vermelho na promoção dos direitos humanos, na difusão e ensino do direito internacional humanitário, bem como na difusão e aplicação das suas orientações."
+  },
+  "876125206": {
+   "fragment_id": "876301045",
+   "type": 11,
+   "heading": "Artigo 6.º — Âmbito de acção e organização territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Âmbito de acção e organização territorial\n\n1 - A CVP exerce a sua actividade em todo o território nacional como a única sociedade nacional da Cruz Vermelha e, fora do território nacional, no quadro de acção do Movimento Internacional da Cruz Vermelha e em qualquer local onde a sua participação seja relevante.\n\n2 - A CVP assenta a organização territorial em serviços centrais e autónomos, delegações locais e extensões de delegações locais.\n\n3 - Para melhor prosseguir as suas tarefas, a CVP pode promover a criação de organismos diferenciados, dotando-os dos meios necessários e de capacidade técnica, administrativa e financeira para actividades de investigação aplicada, difusão, ensino, formação, adaptação e transferência de conhecimentos e tecnologias, nomeadamente nos domínios da protecção e socorro, da saúde pública, da assistência sanitária e da solidariedade social.\n\n4 - A sede nacional da CVP é em Lisboa, podendo ser transferida, se as circunstâncias o exigirem, mediante decisão da direcção nacional, ouvido o conselho supremo."
+  },
+  "876125207": {
+   "fragment_id": "876301046",
+   "type": 11,
+   "heading": "Artigo 7.º — Alterações ao regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alterações ao regime jurídico\n\nAs alterações ao presente decreto-lei são precedidas de audição da Federação Internacional das Sociedades da Cruz Vermelha e do Crescente Vermelho e do Comité Internacional da Cruz Vermelha e do Crescente Vermelho."
+  },
+  "876125208": {
+   "fragment_id": "876301047",
+   "type": 11,
+   "heading": "Artigo 8.º — Dissolução da CVP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dissolução da CVP\n\nA dissolução da CVP, deliberada pela assembleia geral, só se torna efectiva mediante a sua determinação em decreto-lei, o qual regulamenta as condições de liquidação e fixará a devolução do activo."
+  },
+  "876125209": {
+   "fragment_id": "876301048",
+   "type": 11,
+   "heading": "Artigo 9.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime transitório\n\n1 - Até à realização de novos actos eleitorais permanecem em funções os titulares dos seguintes órgãos sociais:\n\na) Presidente nacional;\n\nb) Direcção nacional;\n\nc) Conselho fiscal;\n\nd) Direcções de delegação e núcleo eleitas após o ano de 2003.\n\n2 - As delegações e núcleos que hajam realizado os seus actos eleitorais há menos de três anos dispõem, após a entrada em vigor do presente decreto-lei, de um prazo não superior a 12 meses para dar cumprimento aos procedimentos previstos estatutariamente, no que importa aos órgãos sociais locais não contidos na alínea d) do n.º 1 do presente artigo.\n\n3 - As delegações e núcleos, cujos últimos actos eleitorais hajam ocorrido até ao termo do ano de 2003, devem iniciar, à data da entrada em vigor do presente decreto-lei, os procedimentos estabelecidos estatutariamente, ou, em caso de omissão, determinados pela direcção nacional, atinentes ao cumprimento do estabelecido nos artigos 36.º, 37.º, 38.º, 40.º, 45.º e 46.º dos Estatutos em anexo ao presente decreto-lei.\n\n4 - Os órgãos das delegações e núcleos que se encontrem nas condições referidas no número anterior garantem o normal funcionamento da instituição na respectiva área de intervenção permanecendo em funções, até que estejam concluídos os processos de designação, nomeação e eleição dos novos titulares."
+  },
+  "876125210": {
+   "fragment_id": "876301049",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nCom a entrada em vigor do presente decreto-lei são revogados:\n\na) O Decreto-Lei n.º 164/91, de 7 de Maio;\n\nb) O Decreto Regulamentar n.º 10/93, de 27 de Abril;\n\nc) A Portaria n.º 424/96, de 29 de Agosto."
+  },
+  "876125211": {
+   "fragment_id": "876301050",
+   "type": 1,
+   "heading": "Capítulo I — Dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Dos membros"
+  },
+  "876125212": {
+   "fragment_id": "876301051",
+   "type": 11,
+   "heading": "Artigo 1.º — Condições de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Condições de admissão\n\nPodem ser membros da Cruz Vermelha Portuguesa (CVP), na forma, condições e com os direitos, deveres e responsabilidades que, para cada um dos casos, sejam determinados, as pessoas singulares ou colectivas, nacionais ou estrangeiras, que acatem os princípios fundamentais e demais normas que regem a instituição e se disponham a servi-la, contribuindo com o seu patrocínio, o seu esforço ou auxílio monetário para a manutenção e funcionamento da CVP."
+  },
+  "876125213": {
+   "fragment_id": "876301052",
+   "type": 11,
+   "heading": "Artigo 2.º — Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Membros\n\nOs membros da CVP são associados, beneficiários e zeladores, nos termos dos artigos 3.º a 5.º"
+  },
+  "876125214": {
+   "fragment_id": "876301053",
+   "type": 11,
+   "heading": "Artigo 3.º — Membros associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Membros associados\n\n1 - Os membros associados da CVP agrupam-se nas seguintes categorias:\n\na) Membros activos;\n\nb) Membros contribuintes;\n\nc) Membros beneméritos;\n\nd) Membros grandes beneméritos;\n\ne) Membros honorários.\n\n2 - São membros activos as pessoas singulares que, voluntariamente, tenham aceite prestar serviços de uma forma solidária e desinteressada.\n\n3 - São membros contribuintes as pessoas singulares ou colectivas que satisfaçam o pagamento de quota não inferior ao valor mínimo estabelecido pela assembleia geral.\n\n4 - São membros beneméritos as pessoas singulares ou colectivas que satisfaçam o pagamento de quota igual ou superior a 500 vezes o valor mínimo fixado para o membro contribuinte ou que doarem ou legarem bens ou importâncias em numerário de valor igual ou superior a 25 000 vezes o valor mínimo fixado para o membro contribuinte.\n\n5 - São membros grandes beneméritos as pessoas singulares ou colectivas que satisfaçam o pagamento de quota igual ou superior a 1000 vezes o valor mínimo fixado para o membro contribuinte ou que doarem ou legarem bens ou importâncias em numerário de valor igual ou superior a 50 000 vezes o valor mínimo fixado para o membro contribuinte.\n\n6 - São membros honorários as pessoas singulares ou colectivas que tenham prestado serviços de carácter excepcional à instituição.\n\n7 - A atribuição da categoria prevista no n.º 6 deste artigo compete à direcção nacional, ouvido o conselho supremo.\n\n8 - O pagamento de quota é facultativo para os membros activos e honorários."
+  },
+  "876125215": {
+   "fragment_id": "876301054",
+   "type": 11,
+   "heading": "Artigo 4.º — Membros beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Membros beneficiários\n\nSão membros beneficiários as pessoas singulares ou colectivas que, nos termos e condições que lhes sejam determinados, mantenham uma contribuição pecuniária continuada, nos termos que lhe forem determinados, como contrapartida da utilização de serviços da CVP."
+  },
+  "876125216": {
+   "fragment_id": "876301055",
+   "type": 11,
+   "heading": "Artigo 5.º — Membros zeladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Membros zeladores\n\n1 - São membros zeladores as pessoas singulares de reconhecida idoneidade e prestígio que tenham prestado altos e relevantes serviços à Cruz Vermelha, a causas humanitárias ou à respectiva comunidade e se disponibilizem para promover a continuidade e o desenvolvimento da instituição, com vista à concretização dos seus princípios e objectivos estatutários.\n\n2 - A atribuição da categoria prevista neste artigo compete à direcção nacional, ouvidos o respectivo delegado regional e o presidente da delegação local.\n\n3 - O pagamento de quota é facultativo para os membros zeladores."
+  },
+  "876125217": {
+   "fragment_id": "876301056",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos, regalias e deveres dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direitos, regalias e deveres dos membros\n\n1 - São direitos e regalias dos membros:\n\na) Participar na actividade da instituição;\n\nb) Ser designados ou eleitos para cargos sociais ou outros;\n\nc) Beneficiar das regalias e serviços que lhes sejam concedidos a nível nacional e ou de delegação local;\n\nd) Possuir documento de acreditação como membro da instituição.\n\n2 - São deveres dos membros:\n\na) Respeitar, difundir e praticar os princípios fundamentais da Cruz Vermelha;\n\nb) Contribuir de forma activa para a prossecução dos fins da CVP;\n\nc) Exercer, gratuitamente, os cargos sociais para que sejam designados ou eleitos e que tenham aceite;\n\nd) Respeitar os estatutos, regulamentos e demais normas e instruções em vigor.\n\ne) Respeitar e colaborar na protecção do distintivo da Cruz Vermelha;\n\nf) Proceder pontualmente ao pagamento das suas quotas, de acordo com as suas categorias.\n\n3 - Os direitos, regalias e deveres constantes dos números anteriores não se aplicam aos membros beneficiários."
+  },
+  "876125218": {
+   "fragment_id": "876301057",
+   "type": 11,
+   "heading": "Artigo 7.º — Quota",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Quota\n\nO valor mínimo da quota a pagar pelos membros contribuintes é fixado pela assembleia geral, de dois em dois anos."
+  },
+  "876125219": {
+   "fragment_id": "876301058",
+   "type": 11,
+   "heading": "Artigo 8.º — Suspensão e perda da qualidade de membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Suspensão e perda da qualidade de membro\n\n1 - Os membros podem requerer à direcção nacional, por escrito e com indicação dos fundamentos, a suspensão deste vínculo à CVP.\n\n2 - Sem prejuízo do estabelecido no número anterior, a suspensão da qualidade de membro pode ocorrer por decisão fundamentada da direcção nacional, ouvido o respectivo delegado regional.\n\n3 - A suspensão não pode ocorrer por períodos superiores a um ano e implica a suspensão dos direitos e deveres de membro.\n\n4 - A qualidade de membro da CVP pode perder-se por alguma das seguintes causas:\n\na) Renúncia do membro, formulada por escrito;\n\nb) Falecimento do membro ou, no caso de pessoas colectivas, a sua extinção;\n\nc) Incumprimento dos serviços e dos compromissos assumidos com a instituição;\n\nd) Recusa ilegítima do cumprimento de directivas;\n\ne) Divulgação não autorizada de informações referentes à CVP;\n\nf) Infracção aos estatutos, regulamentos, normas e instruções em vigor;\n\ng) Desrespeito pelos titulares de órgãos nacionais e internacionais;\n\nh) Prática de actos que desprestigiem, directa ou indirectamente, a Cruz Vermelha ou sejam contrários aos seus princípios fundamentais ou aos seus objectivos;\n\ni) Não pagamento da quotização, depois de notificado por escrito sobre a falta.\n\n5 - A perda da qualidade de membro é determinada por deliberação fundamentada da direcção nacional.\n\n6 - Os membros podem recorrer de decisão de suspensão ou perda da qualidade de membro para a comissão arbitral de recurso constituída pelo presidente da assembleia geral, delegado regional respectivo e responsável pelo departamento jurídico e de contencioso da instituição."
+  },
+  "876125220": {
+   "fragment_id": "876301059",
+   "type": 11,
+   "heading": "Artigo 9.º — Relação dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relação dos membros\n\n1 - A direcção nacional mantém uma relação geral actualizada dos membros da CVP.\n\n2 - Sem prejuízo do estabelecido no número anterior, as direcções das delegações locais mantêm relações actualizadas dos membros inscritos na área da respectiva jurisdição e promovem a permanente actualização da relação geral referida no número anterior."
+  },
+  "876125221": {
+   "fragment_id": "876301060",
+   "type": 1,
+   "heading": "Capítulo II — Organização e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização e estrutura"
+  },
+  "876125222": {
+   "fragment_id": "876301061",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "876125223": {
+   "fragment_id": "876301062",
+   "type": 11,
+   "heading": "Artigo 10.º — Presidente de honra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Presidente de honra\n\n1 - A CVP tem como presidente de honra o Presidente da República, a quem é reservado o alto patrocínio da instituição.\n\n2 - O presidente de honra pode tomar parte, quando o entender, nas reuniões do conselho supremo."
+  },
+  "876125224": {
+   "fragment_id": "876301063",
+   "type": 8,
+   "heading": "Secção II — Órgãos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Órgãos nacionais"
+  },
+  "876125225": {
+   "fragment_id": "876301064",
+   "type": 3,
+   "heading": "Subsecção I — Presidente nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Presidente nacional"
+  },
+  "876125226": {
+   "fragment_id": "876301065",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências\n\n1 - O presidente nacional é o responsável máximo da CVP, cabendo-lhe assegurar o prestígio, a manutenção, a sustentabilidade, o desenvolvimento e o progresso da instituição, a qual funciona sob a sua orientação e na sua dependência.\n\n2 - Sem prejuízo do que esteja ou venha a ser confiado, são competências, obrigações e direitos específicos do presidente nacional:\n\na) Representar, com carácter geral, a CVP junto do Governo e de outras entidades públicas e privadas e nas relações com as instituições e os organismos do Movimento Internacional da Cruz Vermelha;\n\nb) Presidir à direcção nacional e ao conselho supremo;\n\nc) Usar do voto de qualidade, em qualquer deliberação em que participe, nos diversos órgãos sociais nacionais;\n\nd) Presidir, sempre que os interesses da CVP o determinem, às reuniões e sessões dos diversos órgãos locais da instituição em que participe;\n\ne) Intervir, no momento em que o tiver por pertinente, em qualquer reunião ordinária ou extraordinária de qualquer órgão social que integre ou em cujas reuniões e sessões participe;\n\nf) Supervisionar a execução das deliberações da assembleia geral e, de modo geral, dirigir, impulsionar e coordenar a actividade dos órgãos sociais da instituição;\n\ng) Promover e supervisionar a execução das deliberações da direcção nacional;\n\nh) Nomear e exonerar os membros da direcção nacional, ouvido o conselho supremo;\n\ni) Nomear e exonerar comissões administrativas de delegações locais, enquanto os órgãos sociais das mesmas não sejam designados;\n\nj) Nomear e exonerar delegados especiais da CVP;\n\nl) Delegar, no âmbito das suas competências, os poderes necessários para a execução das actividades da instituição;\n\nm) Adoptar, ainda que em prejuízo das competências dos demais órgãos, medidas e disposições de carácter excepcional, na defesa dos interesses, objectivos e princípios da CVP;\n\nn) Requerer a convocação da assembleia geral e do conselho supremo;\n\no) Representar a CVP em juízo ou perante quaisquer instâncias judiciais e comprometer a CVP em arbitragens."
+  },
+  "876125227": {
+   "fragment_id": "876301066",
+   "type": 11,
+   "heading": "Artigo 14.º — Nomeação e exoneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Nomeação e exoneração\n\nO presidente nacional da CVP é nomeado e exonerado por despacho conjunto do Primeiro-Ministro e do Ministro da Defesa Nacional, sob proposta do conselho supremo ou, não sendo obtido consenso neste órgão, por proposta de uma comissão constituída pelo Ministro da Defesa Nacional ou seu representante e pelos presidentes da assembleia geral e do conselho fiscal."
+  },
+  "876125228": {
+   "fragment_id": "876301067",
+   "type": 11,
+   "heading": "Artigo 15.º — Substituição temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Substituição temporária\n\nO presidente nacional da CVP é substituído nas suas ausências ou impedimentos temporários pelo vice-presidente da direcção nacional que exercer as funções de secretário-geral e, no impedimento deste, pelo de maior idade."
+  },
+  "876125229": {
+   "fragment_id": "876301068",
+   "type": 3,
+   "heading": "Subsecção II — Direcção nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Direcção nacional"
+  },
+  "876125230": {
+   "fragment_id": "876301069",
+   "type": 11,
+   "heading": "Artigo 16.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Constituição\n\nA direcção nacional é constituída pelo presidente nacional, por quatro vice-presidentes e por quatro vogais, nomeados pelo presidente nacional, ouvido o conselho supremo."
+  },
+  "876125231": {
+   "fragment_id": "876301070",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências\n\n1 - Compete à direcção nacional da CVP a orientação da actividade da instituição e, em especial:\n\na) Administrar e dirigir os assuntos respeitantes à vida e actividade da instituição;\n\nb) Aprovar o plano de actividades e os orçamentos ordinários e extraordinários;\n\nc) Aprovar os regulamentos internos;\n\nd) Submeter à aprovação da assembleia geral, após audição do conselho supremo, as alterações aos Estatutos, as orientações estratégicas e orçamentais da actividade da CVP e o relatório e contas anuais;\n\ne) Executar e fazer executar as deliberações da assembleia geral;\n\nf) Administrar o património da CVP, praticando todos os actos de mera administração e de disposição, incluindo os que tenham por objecto bens imóveis, desde que se enquadrem nas orientações gerais de gestão do património imobiliário aprovadas pela assembleia geral;\n\ng) Submeter a fiscalização prévia do conselho fiscal, quanto à sua legalidade, oportunidade e viabilidade económica, os contratos que se proponha celebrar e que envolvam a aquisição, alienação ou oneração de património imobiliário da CVP e não se enquadrem na alínea anterior;\n\nh) Apreciar e decidir sobre os pareceres emitidos pelo conselho supremo;\n\ni) Nomear os presidentes das delegações locais, mediante proposta dos conselhos locais de curadores das mesmas delegações ou ponderadas as alternativas de nomeação em presença, no caso de ausência de consenso, naquele órgão, quanto ao nome a propor;\n\nj) Nomear e exonerar os delegados regionais;\n\nl) Nomear e exonerar os membros das comissões executivas das delegações locais, mediante proposta da direcção da delegação local;\n\nm) Exonerar os presidentes das delegações locais, mediante proposta dos delegados regionais, dos respectivos conselhos de curadores ou ouvidos os mesmos;\n\nn) Atribuir a qualidade de membros zeladores e honorários, ouvidos os respectivos delegado regional e presidente da delegação local;\n\no) Solicitar ao ministro da tutela a promoção das iniciativas legislativas respeitantes à instituição;\n\np) Enviar ao ministro da tutela, para aprovação, as propostas de alteração aos Estatutos e, para homologação, o relatório e contas anuais;\n\nq) Submeter a parecer do conselho fiscal o relatório e contas anuais, antes de o submeter à apreciação do órgão competente;\n\nr) Transferir, fundamentadamente, a sede nacional, ouvido o conselho supremo;\n\ns) Suspender e determinar a perda da qualidade de membro da CVP;\n\nt) Requerer a convocação da assembleia geral e do conselho supremo;\n\nu) Deliberar sobre qualquer questão submetida à sua consideração pelo presidente nacional ou por qualquer dos seus membros;\n\nv) Praticar os demais actos, cuja prática não lhe esteja cometida pelos estatutos e demais normas aplicáveis à CVP e não estejam atribuídos a outros órgãos sociais."
+  },
+  "876125232": {
+   "fragment_id": "876301071",
+   "type": 11,
+   "heading": "Artigo 18.º — Vice-presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Vice-presidentes\n\nAos vice-presidentes compete desempenhar as funções que pela direcção nacional ou pelo presidente nacional, expressamente, lhes forem atribuídas ou neles delegadas e substituir o último nas suas ausências e impedimentos."
+  },
+  "876125233": {
+   "fragment_id": "876301072",
+   "type": 11,
+   "heading": "Artigo 19.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Secretário-geral\n\n1 - Um dos vice-presidentes exerce as funções de secretário-geral, competindo-lhe, em especial, propor as linhas de orientação em matéria administrativa, financeira e patrimonial e supervisionar a sua execução.\n\n2 - A designação do vice-presidente para o exercício desta função é da exclusiva competência do presidente nacional."
+  },
+  "876125234": {
+   "fragment_id": "876301073",
+   "type": 11,
+   "heading": "Artigo 20.º — Vogais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Vogais\n\nAos vogais compete desempenhar as funções que pela direcção nacional ou pelo presidente nacional, expressamente, lhes forem atribuídas."
+  },
+  "876125235": {
+   "fragment_id": "876301074",
+   "type": 11,
+   "heading": "Artigo 21.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reuniões\n\n1 - A direcção nacional da CVP reúne, ordinariamente, uma vez por mês e, extraordinariamente, quando convocada pelo presidente nacional ou por mais de um terço dos seus membros.\n\n2 - Os membros da direcção nacional podem delegar noutros membros a sua representação em qualquer reunião, ordinária ou extraordinária, da direcção nacional, para deliberar sobre pontos específicos da ordem de trabalhos, expressando, por escrito, o seu sentido de voto.\n\n3 - A direcção nacional reúne validamente, quando presentes ou representados a maioria dos seus membros, e as suas deliberações consideram-se tomadas quando reúnam os votos da maioria dos membros presentes, tendo o presidente nacional voto de qualidade.\n\n4 - O presidente nacional, tendo em conta o estabelecido no artigo 56.º, convoca o director-geral para participar nas reuniões da direcção nacional, sem direito a voto, cabendo-lhe nas mesmas assessorar este órgão e elaborar as respectivas actas, sem prejuízo de poder ser dispensada a sua presença sempre que tal for considerado conveniente, pela direcção nacional."
+  },
+  "876125236": {
+   "fragment_id": "876599875",
+   "type": 11,
+   "heading": "Artigo 22.º — Vinculação e responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Vinculação e responsabilidade\n\n1 - A CVP obriga-se perante terceiros:\n\na) Pela assinatura do presidente nacional;\n\nb) Pela assinatura de membros da direcção nacional, quando no uso dos poderes que lhe estejam delegados em acta de reunião daquela direcção;\n\nc) Pela assinatura de procuradores, nos termos e prazos do mandato outorgado.\n\n2 - Os membros da direcção nacional respondem solidariamente pelos actos de gerência praticados, excepto quando hajam votado contra a deliberação."
+  },
+  "876125237": {
+   "fragment_id": "876599876",
+   "type": 11,
+   "heading": "Artigo 23.º — Renúncia, exoneração e suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Renúncia, exoneração e suspensão\n\n1 - Qualquer membro da direcção nacional pode livremente renunciar às suas funções e cargo.\n\n2 - A exoneração dos vice-presidentes e dos vogais é da competência do presidente nacional, ouvido o conselho supremo.\n\n3 - Os vice-presidentes e os vogais podem ser suspensos do exercício de funções, por decisão fundamentada do presidente nacional, até audição do conselho supremo, quando lhes possa ser imputada a prática de qualquer dos seguintes actos:\n\na) Recusa ilegítima do cumprimento de directivas;\n\nb) Incumprimento das normas estatutárias e demais legislação a que se encontra vinculada a CVP;\n\nc) Divulgação não autorizada de informações referentes à CVP;\n\nd) Candidatura a funções em organismos com actividades concorrentes com as da CVP ou o seu exercício;\n\ne) Desrespeito pelos titulares dos órgãos internacionais ou nacionais da Cruz Vermelha;\n\nf) Prática de actos que desprestigiem ou sejam contrários aos princípios fundamentais da Cruz Vermelha e aos objectivos da instituição;\n\ng) Condenação por crime punido pela legislação portuguesa.\n\n4 - Sem prejuízo do estabelecido no n.º 3 do presente artigo, o presidente nacional pode determinar a exoneração imediata de qualquer dos membros da direcção nacional, sempre que, face à especial gravidade e consequências imediatas dos actos mencionados no articulado acima referido, hajam já ocorrido ou sejam expectáveis danos de difícil reparação para a CVP ou outros visados.\n\n5 - Na situação referida no n.º 3, a audição do conselho supremo deve realizar-se no prazo máximo de 60 dias após a suspensão, e após a exoneração, nos casos previstos no n.º 4 do presente artigo."
+  },
+  "876125238": {
+   "fragment_id": "876599877",
+   "type": 3,
+   "heading": "Subsecção III — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Assembleia geral"
+  },
+  "876125239": {
+   "fragment_id": "876599878",
+   "type": 11,
+   "heading": "Artigo 24.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Constituição\n\n1 - A assembleia geral é constituída pelos seguintes membros:\n\na) O presidente, eleito em assembleia geral;\n\nb) Os membros da direcção nacional;\n\nc) Os delegados regionais;\n\nd) Os presidentes das direcções das delegações locais.\n\n2 - O presidente da assembleia geral é eleito e exonerado por maioria absoluta dos membros que constituem a assembleia.\n\n3 - A eleição e a exoneração do presidente da assembleia geral são confirmadas pelo presidente nacional.\n\n4 - Pode ser eleito presidente da assembleia geral qualquer pessoa singular que, não sendo membro da CVP, haja sido proposto por membro desta assembleia e mediante juramento de compromisso, assuma respeitar, cumprir e submeter-se aos princípios fundamentais da CVP, Estatutos e demais normas e legislação aplicáveis à instituição.\n\n5 - O presidente da assembleia geral é coadjuvado no exercício da presidência por um 1.º secretário e um 2.º secretário por si designados de entre os seus membros.\n\n6 - Em caso de ausência ou impedimento temporário do presidente, é o mesmo substituído pelo 1.º secretário, assumindo o 2.º secretário as funções deste."
+  },
+  "876125240": {
+   "fragment_id": "876599879",
+   "type": 11,
+   "heading": "Artigo 25.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competências\n\n1 - Compete à assembleia geral:\n\na) Aprovar as linhas gerais da política da CVP;\n\nb) Aprovar o relatório e contas anuais;\n\nc) Aprovar as orientações estratégicas e orçamentais;\n\nd) Aprovar as alterações aos Estatutos;\n\ne) Eleger os vogais para o conselho fiscal;\n\nf) Aprovar as orientações gerais da gestão do património propostas pela direcção nacional;\n\ng) Aprovar moções de censura à actuação da Direcção Nacional;\n\nh) Pronunciar-se sobre qualquer questão submetida à sua apreciação pelo ministro da tutela, pelo presidente nacional ou pela direcção nacional;\n\ni) Propor a dissolução da CVP.\n\n2 - As deliberações referidas na alínea d) do número anterior carecem de aprovação, por maioria de dois terços, dos membros que constituem a assembleia geral e as referidas nas alíneas h) e j) carecem de aprovação, por maioria de quatro quintos, dos membros que constituem a mesma assembleia.\n\n3 - Aprovada uma moção de censura, com a maioria qualificada prevista no número anterior, a mesma é comunicada ao conselho supremo, num prazo máximo de 15 dias."
+  },
+  "876125241": {
+   "fragment_id": "876599880",
+   "type": 11,
+   "heading": "Artigo 26.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reuniões\n\n1 - A assembleia geral reúne uma vez por ano, com carácter ordinário, e, extraordinariamente, sempre que convocada pelo seu presidente, pelo presidente nacional ou por iniciativa de, pelo menos, um terço dos seus membros.\n\n2 - As reuniões da assembleia geral são convocadas por anúncio publicado em dois jornais de grande circulação com, pelo menos, 15 dias de antecedência, indicando dia, hora e local da reunião e, bem assim, a ordem de trabalhos."
+  },
+  "876125242": {
+   "fragment_id": "876599881",
+   "type": 3,
+   "heading": "Subsecção IV — Conselho supremo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Conselho supremo"
+  },
+  "876125243": {
+   "fragment_id": "876599882",
+   "type": 11,
+   "heading": "Artigo 27.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Constituição\n\n1 - O conselho supremo é constituído pelos seguintes membros:\n\na) O ministro da tutela, que tomará parte nas reuniões quando o desejar;\n\nb) O presidente nacional;\n\nc) Os vice-presidentes da CVP;\n\nd) O presidente da assembleia geral;\n\ne) Os secretários da assembleia geral;\n\nf) Os representantes dos departamentos ministeriais identificados no n.º 3 do presente artigo;\n\ng) Dois representantes de duas instituições com papel preponderante em actividades de carácter humanitário escolhidas pelo presidente de honra;\n\nh) Os delegados regionais;\n\ni) Cinco personalidades de reconhecido mérito, propostas pelo presidente nacional e cooptadas pelos restantes membros do conselho.\n\n2 - Participam nas reuniões do conselho supremo, sem direito a voto, os restantes membros da direcção nacional.\n\n3 - Os membros referidos na alínea f) do n.º 1 são nomeados por despacho do ministro que superintenda as seguintes áreas:\n\na) Defesa nacional - dois representantes, um dos quais do serviço de saúde militar;\n\nb) Finanças - um representante;\n\nc) Administração interna - um representante;\n\nd) Negócios estrangeiros - um representante;\n\ne) Educação - um representante;\n\nf) Ensino superior - um representante;\n\ng) Saúde - um representante;\n\nh) Solidariedade e segurança social - um representante;\n\ni) Juventude - um representante."
+  },
+  "876125244": {
+   "fragment_id": "876599883",
+   "type": 11,
+   "heading": "Artigo 28.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Competências\n\nCompete ao conselho supremo:\n\na) Propor, ao Governo, por consenso entre os seus membros, a personalidade a nomear como presidente nacional;\n\nb) Propor, ao Governo, por consenso, a exoneração do presidente nacional;\n\nc) Pronunciar-se sobre a nomeação e a exoneração dos membros da direcção nacional;\n\nd) Pronunciar-se sobre as pessoas que o presidente nacional pretenda nomear para vice-presidentes e vogais da direcção nacional e pronunciar-se sobre a sua exoneração;\n\ne) Propor ao presidente nacional, perante situações de infracção aos Estatutos e aos princípios fundamentais da Cruz Vermelha, a adopção de medidas que julgue convenientes;\n\nf) Dar parecer sobre propostas de alteração de Estatutos;\n\ng) Dar parecer sobre as orientações estratégicas e orçamentais da CVP e do relatório e contas anuais;\n\nh) Motivar e sensibilizar o Estado e os seus órgãos e organismos para o apoio ao desenvolvimento da CVP;\n\ni) Emitir parecer sobre questões submetidas à sua consideração, pelo ministro da tutela, pelo presidente nacional, pela assembleia geral e pela direcção nacional."
+  },
+  "876125245": {
+   "fragment_id": "876599884",
+   "type": 11,
+   "heading": "Artigo 29.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Reuniões\n\n1 - O conselho supremo reúne, ordinariamente, uma vez por ano e, extraordinariamente, sempre que convocado pelo ministro da tutela, pelo presidente nacional ou por mais de dois terços dos seus membros.\n\n2 - A presidência das reuniões do conselho supremo cabe ao presidente nacional, excepto quando reúna para os efeitos previstos nas alíneas a) e b) do artigo anterior, em que a presidência caberá ao Ministro da Defesa Nacional ou a um seu representante.\n\n3 - Estando presente o presidente de honra, cabe-lhe presidir às reuniões do conselho supremo.\n\n4 - Os trabalhos do conselho supremo são secretariados por um secretário designado pelo presidente do conselho, de entre os seus membros.\n\n5 - O presidente nacional e os vice-presidentes da CVP não têm assento nas reuniões convocadas para os efeitos previstos no artigo 14.º\n\n6 - Nas reuniões convocadas para os efeitos previstos na alínea a) do artigo 28.º, não sendo obtido consenso imediato, mantém este órgão em sessão se necessário, em reuniões diárias, até que o consenso seja obtido.\n\n7 - Caso não seja obtido consenso, ao fim de três reuniões consecutivas, a realizar no prazo máximo de cinco dias úteis, sobre a personalidade a propor para nomeação, esta será escolhida de acordo com o estabelecido no artigo 14.º\n\n8 - Os membros do conselho supremo são convocados por carta registada, pelo menos, com 15 dias de antecedência, indicando data, hora, local e ordem de trabalhos."
+  },
+  "876125246": {
+   "fragment_id": "876599885",
+   "type": 3,
+   "heading": "Subsecção V — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção V — Conselho fiscal"
+  },
+  "876125247": {
+   "fragment_id": "876599886",
+   "type": 11,
+   "heading": "Artigo 30.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Constituição\n\n1 - O conselho fiscal é constituído por um presidente e por dois vogais.\n\n2 - O presidente do conselho fiscal é designado pelo ministro da tutela, de entre personalidades de reconhecido mérito, e os vogais são eleitos pela assembleia geral, devendo um ser, obrigatoriamente, revisor oficial de contas.\n\n3 - A assembleia geral elege, ainda, um segundo revisor oficial de contas como vogal suplente."
+  },
+  "876125248": {
+   "fragment_id": "876599887",
+   "type": 11,
+   "heading": "Artigo 31.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Competências\n\n1 - O conselho fiscal é o órgão de fiscalização da gestão e das contas da CVP.\n\n2 - São competências e obrigações específicas do conselho fiscal:\n\na) Examinar e dar parecer sobre o relatório e contas anuais, antes de serem submetidas à apreciação da assembleia geral;\n\nb) Apreciar, sob o ponto de vista da legalidade, oportunidade e viabilidade económica e financeira, os contratos que envolvam a aquisição, alienação ou oneração de património da CVP que tenham por objecto bens imóveis e não se enquadrem nas orientações gerais de gestão do património aprovadas pela assembleia geral;\n\nc) Vigiar o pontual cumprimento das disposições impostas em legados ou doações de que a CVP tenha sido beneficiária;\n\nd) Propor ao presidente nacional, perante situações de irregularidade, a adopção das medidas que entenda por convenientes."
+  },
+  "876125249": {
+   "fragment_id": "876599888",
+   "type": 11,
+   "heading": "Artigo 32.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Reuniões\n\n1 - O conselho fiscal reúne, ordinariamente, uma vez por mês e, extraordinariamente, quando convocado pelo seu presidente, pelo presidente nacional ou pela direcção nacional.\n\n2 - As convocatórias para as reuniões do conselho fiscal devem ser efectuadas por escrito, com a antecedência mínima de oito dias, indicando dia, hora, local e ordem dos trabalhos."
+  },
+  "876125250": {
+   "fragment_id": "876599889",
+   "type": 8,
+   "heading": "Secção III — Órgãos regionais e locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Órgãos regionais e locais"
+  },
+  "876125251": {
+   "fragment_id": "876599890",
+   "type": 3,
+   "heading": "Subsecção I — Delegados regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Delegados regionais"
+  },
+  "876125252": {
+   "fragment_id": "876599891",
+   "type": 11,
+   "heading": "Artigo 35.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Competências\n\n1 - Os delegados regionais são órgãos singulares que, nos termos do mandato que lhes for outorgado, representam a direcção nacional da CVP, na respectiva área de jurisdição, a qual é definida no despacho de nomeação.\n\n2 - São competências e obrigações específicas:\n\na) Impulsionar, apoiar e acompanhar as actividades desenvolvidas pelas delegações locais, em articulação com a direcção nacional;\n\nb) Promover o relacionamento e a cooperação activos e continuados com os diversos organismos e entidades locais;\n\nc) Manter a direcção nacional informada sobre as realidades regionais;\n\nd) Controlar a execução das decisões da direcção nacional;\n\ne) Propor à direcção nacional, de entre os membros zeladores, as personalidades que integrarão o conselho de curadores das delegações locais;\n\nf) Presidir aos conselhos de curadores das delegações locais;\n\ng) Integrar a assembleia geral e o conselho supremo;\n\nh) Pronunciar-se sobre a atribuição, na respectiva área de jurisdição, da categoria de membros zeladores e honorários.\n\n3 - Os delegados regionais podem ser coadjuvados por um adjunto a quem compete desempenhar as funções que por aqueles forem definidas ou expressamente lhe forem delegadas."
+  },
+  "876125253": {
+   "fragment_id": "876599892",
+   "type": 11,
+   "heading": "Artigo 36.º — Nomeação e exoneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Nomeação e exoneração\n\n1 - Os delegados regionais são nomeados pela direcção nacional, que, para o efeito, procederá às consultas necessárias à optimização da representatividade inerente ao exercício destas funções.\n\n2 - Os delegados regionais são exonerados pela direcção nacional, por sua iniciativa, ouvidos os presidentes das direcções das delegações locais da respectiva área de jurisdição ou sob proposta de quatro quintos destes presidentes."
+  },
+  "876125254": {
+   "fragment_id": "876599893",
+   "type": 3,
+   "heading": "Subsecção II — Assembleia da delegação local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Assembleia da delegação local"
+  },
+  "876125255": {
+   "fragment_id": "876599894",
+   "type": 11,
+   "heading": "Artigo 37.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Constituição\n\n1 - A assembleia da delegação local é constituída pelos membros associados da CVP a quem tenha sido atribuída esta qualidade há mais de um ano e que estejam inscritos na delegação local.\n\n2 - Os membros contribuintes só podem tomar parte na assembleia da delegação local se tiverem o pagamento das respectivas quotas actualizado."
+  },
+  "876125256": {
+   "fragment_id": "876599895",
+   "type": 11,
+   "heading": "Artigo 38.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competências\n\n1 - Compete à assembleia da delegação local:\n\na) Aprovar as linhas gerais da actividade e do orçamento, elaboradas pela direcção da delegação local, de acordo com os critérios e orientações definidos a nível nacional;\n\nb) Apreciar a actividade desenvolvida pela direcção da delegação local;\n\nc) Eleger três membros para o conselho de curadores da delegação local;\n\nd) Aprovar moções de censura à actuação da direcção da delegação local;\n\ne) Pronunciar-se sobre qualquer questão submetida à sua apreciação pelo presidente nacional, pela direcção nacional, pelo delegado regional e pelo presidente da delegação local.\n\n2 - A deliberação referida na alínea d) do número anterior carece da aprovação, por maioria de quatro quintos, dos membros que constituem a assembleia."
+  },
+  "876125257": {
+   "fragment_id": "876599896",
+   "type": 11,
+   "heading": "Artigo 39.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Reuniões\n\n1 - A assembleia da delegação local reúne uma vez por ano, em sessão ordinária, e, extraordinariamente, quando convocada por mais de um terço dos seus membros, pelo presidente da delegação local ou pelo conselho de curadores.\n\n2 - A assembleia da delegação local é presidida pelo presidente da delegação local e secretariada por dois membros eleitos pela assembleia.\n\n3 - As reuniões da assembleia são convocadas por anúncio publicado em dois jornais de grande circulação com, pelo menos, 15 dias de antecedência, com indicação de dia, hora, local e ordem de trabalhos.\n\n4 - As pessoas colectivas são representadas na assembleia da delegação local por quem designarem por simples carta mandadeira."
+  },
+  "876125258": {
+   "fragment_id": "876599897",
+   "type": 3,
+   "heading": "Subsecção III — Direcção da delegação local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Direcção da delegação local"
+  },
+  "876125259": {
+   "fragment_id": "876599898",
+   "type": 11,
+   "heading": "Artigo 40.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Constituição\n\n1 - A direcção da delegação local é constituída pelos seguintes membros:\n\na) Presidente da delegação local;\n\nb) Vice-presidentes, em número máximo de quatro;\n\nc) Tesoureiro;\n\nd) Vogais, em número máximo de três.\n\n2 - Sob proposta da direcção da delegação local e sempre que tal seja aprovado pela direcção nacional, pode existir uma comissão executiva.\n\n3 - A comissão executiva é constituída por três ou cinco membros pertencentes à direcção da delegação local e o seu presidente é escolhido de entre os seus membros."
+  },
+  "876125260": {
+   "fragment_id": "876599899",
+   "type": 11,
+   "heading": "Artigo 41.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Competências\n\n1 - Compete à direcção da delegação local a gestão, a nível local, da actividade da instituição e, em especial:\n\na) Dirigir a execução das tarefas próprias da CVP, na respectiva área, tendo em conta as orientações dos órgãos nacionais e locais;\n\nb) Aprovar o plano de actividades e o orçamento da delegação;\n\nc) Promover o recrutamento de membros e a angariação de fundos, de forma a garantir a sustentabilidade da delegação;\n\nd) Procurar, activa e permanentemente, melhorar a organização e a actuação da delegação;\n\ne) Difundir na sua área, em todas as suas actividades, os princípios e ideais da Cruz Vermelha;\n\nf) Aprovar o relatório e contas a submeter ao conselho de curadores da delegação local;\n\ng) Desempenhar as funções que lhe forem expressamente delegadas ou determinadas pela direcção nacional;\n\nh) Propor a criação, nomeação ou exoneração de comissões executivas da respectiva delegação.\n\n2 - Compete ao presidente da delegação local assegurar o prestígio, orientação, desenvolvimento e representação da delegação e, designadamente:\n\na) Representar a delegação junto das autoridades e organizações locais;\n\nb) Presidir às reuniões da direcção da delegação local;\n\nc) Supervisionar a execução das decisões e deliberações dos órgãos nacionais e da assembleia da delegação local;\n\nd) Convocar, extraordinariamente, reuniões da assembleia da delegação local;\n\ne) Pronunciar-se sobre a atribuição da qualidade de membros zeladores e honorários na sua área de jurisdição.\n\n3 - Os vice-presidentes coadjuvam o respectivo presidente na execução das tarefas e competências que lhes forem atribuídas ou delegadas, devendo aquele identificar a quem compete substituí-lo nas suas faltas e impedimentos.\n\n4 - O tesoureiro e os vogais coadjuvam o respectivo presidente na execução das suas tarefas específicas e nas que por ele lhes forem determinadas."
+  },
+  "876125261": {
+   "fragment_id": "876599900",
+   "type": 11,
+   "heading": "Artigo 42.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Reuniões\n\nA direcção da delegação local reúne, ordinariamente, uma vez por mês e, extraordinariamente, quando convocada pelo presidente nacional, pelo delegado regional, pelo presidente da delegação local, pelo presidente da comissão executiva ou por mais de metade dos seus membros."
+  },
+  "876125262": {
+   "fragment_id": "876599901",
+   "type": 11,
+   "heading": "Artigo 43.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Deveres\n\nAs direcções das delegações locais ficam obrigadas a:\n\na) Cumprir as normas e orientações emitidas pelos órgãos nacionais;\n\nb) Prestar atempadamente de todas as informações que lhes sejam solicitadas pela direcção nacional, pelo delegado regional e pelo conselho de curadores;\n\nc) Obter recursos próprios com vista à sustentabilidade económica e financeira das respectivas delegações locais, no respeito pelas normas e instruções em vigor;\n\nd) Elaborar, anualmente, o plano de actividades, o orçamento e o relatório e contas do exercício, bem como apresentar, trimestralmente, à direcção nacional balancetes e relatórios de execução orçamental;\n\ne) Manter, devidamente organizada e actualizada, a contabilidade, de acordo com as normas aprovadas pela direcção nacional e com o legalmente estabelecido sobre esta matéria."
+  },
+  "876125263": {
+   "fragment_id": "876599902",
+   "type": 11,
+   "heading": "Artigo 44.º — Responsabilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Responsabilidades\n\n1 - Os membros da direcção da delegação local são responsáveis, solidariamente, pelos actos de gerência praticados, excepto quando hajam votado contra a deliberação.\n\n2 - A direcção da delegação local pode apenas praticar actos que impliquem a assumpção de obrigações, desde que ao abrigo dos mandatos, genéricos e específicos, conferidos pelo presidente nacional ou pela direcção nacional, sob pena de os seus titulares responderem, pessoal e solidariamente, pelos danos causados à CVP e perante terceiros com quem contratarem."
+  },
+  "876125264": {
+   "fragment_id": "876599903",
+   "type": 11,
+   "heading": "Artigo 45.º — Nomeação e exoneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Nomeação e exoneração\n\n1 - O presidente da delegação local é nomeado pela direcção nacional, mediante proposta do conselho de curadores da delegação local ou ponderadas as alternativas em presença, no caso de ausência de consenso, naquele órgão, quanto ao nome a propor.\n\n2 - Os restantes membros da direcção da delegação local são nomeados pela direcção nacional, mediante proposta do presidente da delegação local, ouvidos o delegado regional e o conselho de curadores da delegação local.\n\n3 - O presidente da delegação local é exonerado pela direcção nacional, por sua iniciativa devidamente fundamentada e ouvido o conselho de curadores da delegação local ou por proposta deste órgão da delegação local.\n\n4 - Os restantes membros da direcção da delegação local são exonerados pela direcção nacional, por decisão fundada no n.º 4 do artigo 8.º e no n.º 3 do artigo 23.º do presente Estatuto ou mediante proposta fundamentada do presidente da delegação local, ouvido o conselho de curadores da delegação local ou por proposta deste órgão.\n\n5 - O presidente e restantes membros da comissão executiva são nomeados e exonerados pela direcção nacional, sob proposta da direcção da delegação local."
+  },
+  "876125265": {
+   "fragment_id": "876599904",
+   "type": 3,
+   "heading": "Subsecção IV — Conselho de curadores da delegação local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Conselho de curadores da delegação local"
+  },
+  "876125266": {
+   "fragment_id": "876599905",
+   "type": 11,
+   "heading": "Artigo 46.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Constituição\n\nO conselho local de curadores é composto pelos seguintes membros:\n\na) O delegado regional;\n\nb) O presidente da delegação local;\n\nc) O presidente da comissão executiva, quando esta existir;\n\nd) Três membros eleitos pela assembleia da delegação local;\n\ne) Até seis personalidades designadas pela direcção nacional, sob proposta do delegado regional e escolhidas de entre os membros zeladores."
+  },
+  "876125267": {
+   "fragment_id": "876599906",
+   "type": 11,
+   "heading": "Artigo 47.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Competências\n\nCompete ao conselho local de curadores:\n\na) Propor à direcção nacional, por consenso entre os seus membros, a nomeação do presidente da delegação local;\n\nb) Pronunciar-se sobre as pessoas que o presidente da delegação local pretenda designar para membros da direcção;\n\nc) Pronunciar-se sobre a exoneração do presidente e dos membros da direcção de delegação local;\n\nd) Propor a exoneração do presidente e dos membros da direcção da delegação local;\n\ne) Apreciar o relatório e contas anuais da delegação local;\n\nf) Convocar, extraordinariamente, reuniões da assembleia da delegação local;\n\ng) Pronunciar-se sobre todos os assuntos que lhe sejam presentes pela direcção nacional, pelo delegado regional, pela assembleia e pelo presidente da delegação local."
+  },
+  "876125268": {
+   "fragment_id": "876599907",
+   "type": 11,
+   "heading": "Artigo 48.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Reuniões\n\n1 - O conselho de curadores da delegação local reúne, ordinariamente, uma vez por ano e, extraordinariamente, sempre que convocado pelo seu presidente, pelo presidente nacional, pelo presidente da delegação local ou por dois terços dos seus membros.\n\n2 - O conselho de curadores da delegação local é presidido pelo delegado regional.\n\n3 - Os trabalhos do conselho de curadores da delegação local são secretariados por um secretário escolhido pelo presidente do conselho de entre os seus membros.\n\n4 - O presidente da delegação local não tem assento nas reuniões convocadas para os efeitos previstos nos n.os 1 e 3 do artigo 45.º"
+  },
+  "876125269": {
+   "fragment_id": "876599908",
+   "type": 1,
+   "heading": "Capítulo III — Voluntariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Voluntariado"
+  },
+  "876125270": {
+   "fragment_id": "876599909",
+   "type": 11,
+   "heading": "Artigo 49.º — Âmbito do voluntariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Âmbito do voluntariado\n\n1 - A CVP acolhe e encoraja o oferecimento de pessoas de boa vontade e de reconhecida idoneidade moral que desejem voluntariamente colaborar nos serviços da instituição, quer em tempo de paz, quer em tempo de guerra.\n\n2 - A acção da CVP baseia-se, em princípio, no trabalho do voluntário, que pode ser exercido aos níveis do desenvolvimento, do planeamento, da coordenação e da execução.\n\n3 - Os voluntários orientam toda a sua actuação de acordo com os princípios fundamentais da Cruz Vermelha, do direito internacional humanitário, dos direitos humanos fundamentais e, bem assim, com os ideais da paz, do respeito mútuo e do entendimento universal entre os homens e os povos.\n\n4 - A organização do serviço voluntário bem como os direitos e deveres dos voluntários são definidos em regulamentos a aprovar pela direcção nacional.\n\n5 - A CVP promove o voluntariado jovem, fomentando, através da Juventude Cruz Vermelha, a participação de crianças e jovens na actividade da instituição e, designadamente, a difusão dos princípios fundamentais do Movimento Internacional da Cruz Vermelha e do Crescente Vermelho."
+  },
+  "876125271": {
+   "fragment_id": "876599910",
+   "type": 1,
+   "heading": "Capítulo IV — Funcionamento e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Funcionamento e gestão"
+  },
+  "876125272": {
+   "fragment_id": "876599911",
+   "type": 11,
+   "heading": "Artigo 50.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Pessoal\n\n1 - Para assegurar o seu normal e regular funcionamento, a CVP dispõe de pessoal voluntário e remunerado.\n\n2 - Os trabalhadores remunerados da CVP só podem ser contratados através do serviço de pessoal da sede da CVP, por contrato de trabalho outorgado por quem tenha poderes para obrigar a CVP, nos termos do artigo 22.º do Estatuto.\n\n3 - O quantitativo de militares dos quadros permanentes das Forças Armadas, na situação de reserva na efectividade de serviço, autorizados para prestar serviço na CVP, é fixado nos temos e condições previstos no Estatuto dos Militares das Forças Armadas e demais legislação complementar.\n\n4 - O pessoal da CVP obriga-se, no momento do seu ingresso, mediante juramento, a respeitar as Convenções de Genebra e os princípios fundamentais da Cruz Vermelha e a servir a instituição, nomeadamente, em caso de emergência.\n\n5 - Em caso de conflito, o pessoal sanitário qualificado da CVP, que prestar a sua colaboração nos serviços de saúde militar, fica, durante aquele período, sujeito às leis e regulamentos militares, nos termos das Convenções de Genebra e seus Protocolos Adicionais."
+  },
+  "876125273": {
+   "fragment_id": "876599912",
+   "type": 11,
+   "heading": "Artigo 51.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Património\n\n1 - O património da CVP é único e inclui bens mobiliários e imobiliários, direitos, quotas e recursos de qualquer origem e natureza, figurando todos em nome da CVP e podendo, por decisão da direcção nacional, ser afectos a fins específicos, de acordo com os desejos expressamente definidos pelos doadores ou com as finalidades da angariação.\n\n2 - Em caso de dissolução da CVP, todo o seu património é transmitido para o Estado, que o deve utilizar no respeito pelos intuitos humanitários que permitiram a sua constituição."
+  },
+  "876125274": {
+   "fragment_id": "876599913",
+   "type": 11,
+   "heading": "Artigo 52.º — Recursos económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Recursos económicos\n\nPara realização e desenvolvimento das suas actividades, a CVP conta com os seguintes recursos:\n\na) As quotas e subscrições dos membros;\n\nb) As subvenções e apoios concedidos pelos órgãos da Administração Pública;\n\nc) Os donativos, as heranças e os legados recebidos a benefício de inventário;\n\nd) A totalidade dos benefícios líquidos decorrentes de sorteios, lotarias e rifas organizados em seu favor com autorização do Estado, bem como de jogos de fortuna ou azar, quando devidamente concessionados, e os montantes correspondentes aos prémios não reclamados;\n\ne) Os rendimentos do património;\n\nf) As mais-valias da venda do património;\n\ng) O produto das retribuições recebidas, fruto dos serviços prestados pela CVP;\n\nh) Quaisquer outras ajudas, contribuições ou subvenções que possam angariar ou receber de entidades e pessoas públicas ou privadas para a prossecução dos seus objectivos;\n\ni) As receitas provenientes da emissão de vinhetas e selos comemorativos para aposição facultativa na correspondência postal, em modelo aprovado por despacho conjunto dos Ministros da Defesa Nacional e das Obras Públicas, Transportes e Comunicações;\n\nj) As importâncias provenientes de acordos de cooperação com entidades públicas ou privadas;\n\nl) O produto da alienação de material obsoleto;\n\nm) Quaisquer outras receitas que por lei, acto ou contrato lhe sejam atribuídas."
+  },
+  "876599975": {
+   "fragment_id": "876599914",
+   "type": 11,
+   "heading": "Artigo 53.º — Serviços centrais e autónomos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Serviços centrais e autónomos\n\n1 - Os serviços centrais funcionam na dependência da direcção nacional e do presidente nacional e asseguram, de modo regular e contínuo, a preparação, apoio e execução das decisões destes órgãos, bem como a ligação e o apoio funcional às estruturas locais.\n\n2 - Os serviços autónomos são instituídos pela CVP e submetidos aos seus Estatutos e ao seu controlo, dispõem de órgãos próprios, têm autonomia administrativa e financeira e exercem a sua actividade de acordo com as orientações da direcção nacional e do presidente nacional.\n\n3 - A criação, extinção, fusão de serviços centrais e autónomos, bem como a determinação da sua estrutura, grau de autonomia e atribuições, competem à direcção nacional.\n\n4 - A cessão de exploração e alteração da natureza jurídica dos serviços autónomos compete à direcção nacional, ouvidos o conselho fiscal e o conselho supremo."
+  },
+  "876599976": {
+   "fragment_id": "876599915",
+   "type": 11,
+   "heading": "Artigo 54.º — Extensões e serviços locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Extensões e serviços locais\n\n1 - Podem ser constituídas, sob proposta da direcção da delegação local, do delegado regional ou da direcção nacional, extensões de delegações locais, sempre que tal se justifique e não interfira com a área de abrangência de outras delegações locais.\n\n2 - A constituição de extensões de delegações locais depende de aprovação da direcção nacional, ouvidos o delegado regional e a direcção da delegação local.\n\n3 - Os serviços locais funcionam na dependência directa das direcções das delegações locais e asseguram, de modo regular e contínuo, a preparação, apoio e execução das decisões deste órgão, bem como a ligação aos serviços centrais.\n\n4 - A criação, extinção e fusão de serviços locais compete às direcções das delegações locais."
+  },
+  "876599977": {
+   "fragment_id": "876599916",
+   "type": 11,
+   "heading": "Artigo 55.º — Funções executivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Funções executivas\n\n1 - As funções executivas de gestão podem ser profissionalizadas, atendendo à capacidade financeira da instituição e ao princípio de complementaridade entre órgãos de governo e de gestão.\n\n2 - Ao nível da estrutura central e das estruturas autónomas, pode ser cometido a profissionais remunerados o desempenho de cargos dirigentes executivos, com as funções, responsabilidades e competências que forem determinadas ou delegadas pelo presidente nacional ou pela direcção nacional.\n\n3 - Ao nível das delegações locais, podem ser cometidas a um adjunto executivo profissional remunerado as funções, responsabilidades e competências que lhes forem determinadas ou delegadas pelo presidente da direcção local e pela direcção local."
+  },
+  "876599978": {
+   "fragment_id": "876599917",
+   "type": 11,
+   "heading": "Artigo 56.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Director-geral\n\nNos termos dos n.os 1 e 2 do artigo anterior, compete a um profissional remunerado, em regime subordinado e com a categoria de director-geral:\n\na) Assegurar a execução, pelos diferentes serviços centrais e autónomos, das respectivas tarefas funcionais, de acordo com as directrizes e decisões da direcção nacional e, sempre que necessário, em articulação com as estruturas locais da CVP;\n\nb) Desempenhar ainda as funções que lhe forem determinadas pelo presidente nacional ou pela direcção nacional."
+  },
+  "876599979": {
+   "fragment_id": "876599918",
+   "type": 1,
+   "heading": "Capítulo V — Relações com o Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Relações com o Estado"
+  },
+  "876599980": {
+   "fragment_id": "876599919",
+   "type": 11,
+   "heading": "Artigo 57.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Tutela\n\n1 - Compete ao Ministro da Defesa Nacional o exercício da tutela inspectiva da CVP na administração dos seus recursos.\n\n2 - No âmbito das suas competências tutelares, cabe, ainda, ao Ministro da Defesa Nacional:\n\na) Promover todas as iniciativas legislativas que respeitem à sociedade;\n\nb) Homologar o relatório e contas dos exercícios anuais da CVP;\n\nc) Promover as necessárias medidas de forma a contribuir para a realização do suporte financeiro adequado."
+  },
+  "876599981": {
+   "fragment_id": "876599920",
+   "type": 11,
+   "heading": "Artigo 58.º — Apoio do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Apoio do Estado\n\nO apoio do Estado à CVP traduz-se, nomeadamente:\n\na) No apoio ao desenvolvimento das actividades da CVI como instituição humanitária;\n\nb) No estímulo às acções da CVP nas áreas da assistência humanitária e social e da protecção da vida, da saúde e da dignidade humana;\n\nc) No apoio à cooperação entre a CVP e os órgãos da Administração Pública;\n\nd) No apoio às actividades de carácter internacional e expedicionárias da CVP."
+  },
+  "876599982": {
+   "fragment_id": "876599921",
+   "type": 11,
+   "heading": "Artigo 59.º — Benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Benefícios\n\n1 - A CVP goza, para a prossecução dos seus objectivos, de isenção de custas judiciais, de franquia postal, de redução de taxas telefónicas e telegráficas, da bonificação nos encargos da publicidade que realize nos meios de comunicação social de empresas do sector público, dos benefícios aplicáveis às instituições particulares de solidariedade social, assim como de outros que solicite e sejam concedidos pelos órgãos da Administração Pública.\n\n2 - A CVP goza, igualmente, para a prossecução dos seus objectivos, dos benefícios fiscais concedidos às pessoas colectivas de utilidade pública e às instituições particulares de solidariedade social, nos termos da legislação em vigor."
+  },
+  "876599983": {
+   "fragment_id": "876599922",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições diversas"
+  },
+  "876599984": {
+   "fragment_id": "876599923",
+   "type": 11,
+   "heading": "Artigo 60.º — Designação, emblemas, distintivos e uniformes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Designação, emblemas, distintivos e uniformes\n\n1 - A CVP identifica-se por uma cruz de cor vermelha sobre fundo branco, conforme descrição feita na Convenção de Genebra de 22 de Agosto de 1949, sendo a sua designação e emblema inalteráveis.\n\n2 - O distintivo privativo da Cruz Vermelha é objecto de reconhecimento universal, como significante da neutralidade que a Cruz Vermelha assume como seu princípio fundamental e confere, a quem estiver autorizado a usá-lo, protecção, nos termos do disposto nas Convenções de Genebra.\n\n3 - A CVP tem símbolo heráldico, emblemas, uniformes e distintivos de uso exclusivo, em conformidade com as Convenções de Genebra, seus Protocolos Adicionais e regulamentação revista em 1991, regulando-se a respectiva utilização pelas normas em vigor.\n\n4 - A inobservância do disposto no número anterior é sancionada nos termos da lei, das normas de convenções internacionais subscritas e ratificadas por Portugal, bem como pelas normas internas da CVP.\n\n5 - Em situações de conflito bélico, os membros da CVP utilizam o emblema identificativo, nos termos do disposto nas Convenções de Genebra."
+  },
+  "876599985": {
+   "fragment_id": "876599924",
+   "type": 11,
+   "heading": "Artigo 61.º — Insígnias e condecorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Insígnias e condecorações\n\nCompete à direcção nacional da CVP conferir galardões próprios, insígnias e condecorações, para premiar serviços relevantes prestados à instituição ou à Humanidade."
+  }
+ }
+}

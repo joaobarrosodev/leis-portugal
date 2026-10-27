@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:400059:por
+title: Portaria n.º 25/72
+short_title: null
+summary: Confirma a concessão à cidade de Nova Freixo, da província de Moçambique, do direito ao uso de escudo de armas conferido
+  pelo Diploma Legislativo n.º 2305, de 14 de Outubro de 1962, com as alterações de composição estabelecidas pelo presente
+  diploma para as respectivas armas, bandeira e selo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Agência-Geral do Ultramar
+proposing_entity: null
+official_number: 25/72
+official_date: null
+publication_date: '1972-01-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 15/1972, Série I de 1972-01-19
+  number: '15'
+  series: I
+  supplement: null
+  pages: 86 - 86
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/01/01500/00860086.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '400059'
+  dre_path: /dr/detalhe/portaria/25-1972-400059
+  internal: pt:dre:400059:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/25-1972-400059
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/25-1972-400059
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:44:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 20166f459f2c31899596340d516fe7654a9cb5a5cb29ea39c68d3f7f5cdfa3f0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:158613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577167:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:44:59Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 25/72
+
+de 19 de Janeiro
+
+Considerando que a vila de Nova Freixo foi elevada à categoria de cidade pela [Portaria n.º 703/71](https://diariodarepublica.pt/dr/detalhe/portaria/703-1971-158613), de 30 de Setembro;
+
+Atendendo à necessidade de adaptar o escudo de armas concedido à antiga vila às regras já consagradas na prática da heráldica ultramarina;
+
+Usando da competência que lhe é conferida pela base XI da Lei Orgânica do Ultramar e pelo artigo 4.º das ordenações aprovadas pela [Portaria n.º 8098](https://diariodarepublica.pt/dr/detalhe/portaria/8098-1935-577167), de 6 de Maio de 1935:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
+
+A cidade de Nova Freixo terá direito a usar o escudo de armas concedido à antiga vila do mesmo nome pelo Diploma Legislativo n.º 2305, de 14 de Outubro de 1962, publicado no Boletim Oficial de Moçambique, 1.ª série, n.º 41.º, da mesma data, com as seguintes alterações:
+
+Armas: de azul com um freixo de ouro realçado de negro, firmado no pé de escudo, acompanhado de duas espadas de prata, guarnecidas e empunhadas de ouro e de duas cápsulas de algodão, de paredes de ouro e lóculos de fibra de prata. Coroa mural de prata de cinco torres. Listel branco tendo inscrito em caracteres negros «Cidade de Nova Freixo».
+
+Bandeira: gironada de amarelo e branco. Cordões e borlas de ouro e prata. Lança e haste douradas.
+
+Selo: dentro de listel circular, com as palavras «Câmara Municipal de Nova Freixo», mesma composição das armas sem a indicação dos esmaltes.
+
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.

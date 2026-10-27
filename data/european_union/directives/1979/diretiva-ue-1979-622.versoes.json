@@ -1,0 +1,349 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31979L0622:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0622-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "1979-07-17",
+   "future": false,
+   "celex": "31979L0622",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ae4a356d01bf37e5",
+    "5719bdbb773f6655",
+    "2684e2e1cdf78a6d",
+    "34521a015f05da02",
+    "81c6dd3576c575dd",
+    "9dbbd56757d00b29",
+    "159eea67376f3371",
+    "11211cfb3fe4e8f6",
+    "1fbd8aaa98e91171",
+    "6708b349c5b3d986",
+    "4bd2a6b0963fa45f",
+    "b91561a87c0e9793",
+    "1578bad4e1706be1",
+    "48f5ad1281bcf71f",
+    "567764ae4c1d6348",
+    "09ed1a3e39db1abf",
+    "44a4aa69bd26fa5d",
+    "05f56864ad6d952b",
+    "27a76de1171b04ef",
+    "c87f2bfedf1e6409",
+    "d0a43d9de7bb5577",
+    "32180daede86f20c",
+    "a0aeabc92a53be44",
+    "f13641cfd1f8d495",
+    "d5522f058956fab3",
+    "b5626424528bb7e8",
+    "bb3f0f7fb58fcfc9",
+    "0dea89e1d60f65b7",
+    "9ec4a90b2c45e66a",
+    "9f4a169cfb82a986",
+    "42b47c234d8f682d"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "01979L0622-20100101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Anexo I: Condições de homologação CEE. — Anexo II: Condições dos ensaios de resistência das estruturas de protecção e da sua fixação ao tractor",
+    "Suprime Anexo III: Procedimento de ensaio — Anexo IV: Figuras",
+    "Suprime Anexo VI: Marcação — Anexo VII: Modelo de ficha de homologação CEE",
+    "Suprime Anexo VIII: Condições de recepção CEE",
+    "Suprime ANEXO I — CONDIÇÕES DE HOMOLOGAÇÃO CEE",
+    "Suprime ANEXO II — CONDIÇÕES DOS ENSAIOS DE RESISTENCIA DAS ESTRUTURAS DE PROTECÇÃO E DA SUA FIXAÇÃO AO TRACTOR",
+    "Suprime ANEXO III — PROCESSO DE ENSAIO",
+    "Suprime ANEXO IV — FIGURAS",
+    "Suprime ANEXO V — MODELO",
+    "Suprime Parte da retaguarda, para a frente/para trás (2)... kJ — lado esquerdo... mm",
+    "Suprime Parte da frente, para a frente/para trás (2): — lado esquerdo... mm",
+    "Suprime Parte lateral: — à frente... mm",
+    "Suprime Parte superior, de cima para baixo/de baixo para cima (6) — à frente... mm",
+    "Suprime ANEXO VI — MARCAÇÃO",
+    "Suprime ANEXO VII — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+    "Suprime ANEXO VIII — CONDIÇÕES DE RECEPÇÃO CEE",
+    "Suprime ANEXO IX — MODELO"
+   ],
+   "fragments": [
+    "5b9c3ec1e77533f6"
+   ]
+  }
+ ],
+ "fragments": {
+  "ae4a356d01bf37e5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 79/622/CEE do Conselho, de 25 de Junho de 1979, relativa à aproximação das legislações dos Estados-Membros respeitantes aos dispositivos de protecção em caso de capotagem de tractores agrícolas ou florestais de rodas (ensaios estáticos)** *Jornal Oficial nº L 179 de 17/07/1979 p. 0001 - 0030 Edição especial finlandesa: Capítulo 13 Fascículo 10 p. 0010 Edição especial grega: Capítulo 13 Fascículo 8 p. 0147 Edição especial sueca: Capítulo 13 Fascículo 10 p. 0010 Edição especial espanhola: Capítulo 13 Fascículo 10 p. 0108 Edição especial portuguesa: Capítulo 13 Fascículo 10 p. 0108*\n\nDIRECTIVA DO CONSELHO de 25 de Junho de 1979 relativa à aproximação das legislações dos Estados-membros respeitantes aos dispositivos de protecção em caso de capotagem de tractores agrícolas ou florestais de rodas (ensaios estáticos)\n\n(79/622/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as prescrições técnicas exigidas para os tractores pelas legislações nacionais respeitam, nomeadamente aos dispositivos de protecção em caso de capotagem e à sua fixação ao tractor;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de tractor, do processo de recepção CEE que é objecto da Directiva 74/150/CEE do Conselho, de 4 de março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos tractores agrícolas ou florestais de rodas (3);\n\nConsiderando que, por um processo de homologação harmonizado dos dispositivos de protecção em caso de capotagem e da sua fixação ao tractor, cada Estado-membro terá a possibilidade de verificar o cumprimento das prescrições comuns de construção e de ensaio e de informar os outros Estados-membros da verificação feita pelo envio de uma cópia da ficha de homologação estabelecida para cada tipo de dispositivo de protecção em caso de capotagem e da sua fixação no tractor; que a aposição de uma marca de homologação CEE em todos os dispositivos fabricados em conformidade com o tipo homologado tornará desnecessário um controlo técnico destes dispositivos nos outros Estados-membros;\n\nConsiderando que as prescrições comuns relativas a outros elementos e características do dispositivo de protecção em caso de capotagem, nomeadamente as que se referem às dimensões, às portas, aos vidros de segurança, aos dispositivos para impedir as voltas sucessivas do tractor em caso de capotagem e à protecção do passageiro, serão estabelecidas posteriormente;\n\nConsiderando que as prescrições harmonizadas têm por objectivo principal garantir a segurança da circulação rodoviária, bem como a segurança no trabalho em toda a Comunidade; que, para este fim, no que respeita aos tractores referidos na presente directiva, é necessário introduzir a obrigação de os equipar com um dispositivo de protecção em caso de capotagem; que é conveniente que, até uma data a determinar, os tractores referidos na Directiva 77/536/CEE do Conselho, de 28 de Junho de 1977, relativa à aproximação das legislações dos Estados-membros respeitantes aos dispositivos de protecção em caso de capotagem dos tractores agrícolas ou florestais de rodas (4), possam ser equipados com um dispositivo de protecção em caso de capotagem que corresponda à Directiva 77/536/CEE ou à presente directiva;\n\nConsiderando que a aproximação das legislações nacionais relativas aos tractores implica um reconhecimento recíproco pelos Estados-membros dos controlos efectuados por cada um deles com base nas prescrições comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5719bdbb773f6655": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Cada Estado-membro homologará qualquer tipo de dispositivo de protecção em caso de capotagem e a sua fixação ao tractor que esteja em conformidade com as prescrições de construção e de ensaio constantes dos Anexos I a V.\n\n2. O Estado-membro que tiver procedido à homologação CEE tomará as medidas necessárias para controlar, tanto quanto necessário, a conformidade da produção com o tipo homologado, se for caso disso, em colaboração com as autoridades competentes dos outros Estados-membros. Este controlo limitar-se-á a amostragens."
+  },
+  "2684e2e1cdf78a6d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros atribuirão ao fabricante de um tractor ou de um dispositivo de protecção em caso de capotagem, ou aos respectivos mandatários, uma marca de homologação CEE conforme ao modelo estabelecido no Anexo VI para cada tipo de dispositivo de protecção em caso de capotagem e sua fixação ao tractor, que homologuem por força do artigo 1o.\n\nOs Estados-membros tomarão todas as disposições necessárias para impedir a utilização de marcas que possam criar confusões entre dispositivos cujo tipo tenha sido homologado por força do artigo 1o e outros dispositivos."
+  },
+  "34521a015f05da02": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros não podem proibir a colocação no mercado dos dispositivos de protecção em caso de capotagem e sua fixação ao tractor por motivos relacionados com a sua construção, se estes ostentarem a marca de homologação CEE.\n\n2. Contudo, um Estado-membro pode proibir a colocação no mercado de dispositivos que ostentem a marca de homologação CEE mas que, de forma sistemática, não sejam conformes ao tipo homologado.\n\nEste Estado informará imediatamente os outros Estados-membros e a Comissão das medidas tomadas, especificando os motivos da sua decisão."
+  },
+  "81c6dd3576c575dd": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAs autoridades competentes de cada Estado-membro enviarão às dos outros Estados-membros, no prazo de um mês, uma cópia das fichas de homologação, cujo modelo figura no Anexo VII, estabelecidas para cada tipo de dispositivo de protecção em caso de capotagem que homologuem ou recusem homologar."
+  },
+  "9dbbd56757d00b29": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Se o Estado-membro que tiver procedido à homologação CEE verificar que vários dispositivos de protecção em caso de capotagem e a sua fixação ao tractor que ostentam a mesma marca de homologação CEE não são conformes ao tipo que homologou, tomará as medidas necessárias para que a conformidade da produção com o tipo homologado seja assegurada. As autoridades competentes deste Estado avisarão as dos outros Estados-membros das medidas tomadas, que podem ir até à revogação da homologação CEE quando a não conformidade for sistemática. As referidas autoridades tomarão as mesmas disposições se forem informadas pelas autoridades competentes de um outro Estado-membro da existência de tal falta de conformidade.\n\n2. As autoridades competentes dos Estados-membros informar-se-ao mutuamente, no prazo de um mês, da revogação de uma homologação CEE concedida, bem como dos motivos que justificam essa medida."
+  },
+  "159eea67376f3371": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nQualquer decisão de recusa ou revogação da homologação ou de proibição da colocação no mercado ou da utilização, tomada por força das disposições adoptadas em execução da presente directiva, será fundamentada de forma precisa. Será notificada ao interessado com a indicação das vias de recurso previstas na legislação em vigor nos Estados-membros e dos prazos nos quais estes recursos podem ser interpostos."
+  },
+  "11211cfb3fe4e8f6": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um tractor por motivos relacionados com os dispositivos de protecção em caso de capotagem e a sua fixação ao tractor, se estes ostentarem a marca de homologação CEE e se as prescrições constantes do Anexo VIII tiverem sido respeitadas."
+  },
+  "1fbd8aaa98e91171": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros não podem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização dos tractores por motivos relacionados com os dispositivos de protecção em caso de capotagem e a sua fixação ao tractor, se estes ostentarem a marca de homologação CEE e se as prescrições constantes do Anexo VIII tiverem sido respeitadas."
+  },
+  "6708b349c5b3d986": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nA presente directiva aplica-se aos tractores definidos no artigo 1o da Directiva 74/150/CEE que tenham as seguintes características:\n\n- distância ao solo do eixo traseiro não superior a 1 000 milímetros,\n\n- via mínima fixa ou regulável de um dos eixos motores de pelo menos 1 150 milímetros,\n\n- possibilidade de ser equipado com um dispositivo de atrelagem de pontos múltiplos para ferramentas amovíveis e com um dispositivo de tracção,\n\n- massa superior ou igual a 800 quilogramas, correspondente ao peso sem carga do tractor referido no ponto 2.4 do Anexo I da Directiva 74/150/CEE, incluindo o dispositivo de protecção em caso de capotagem montado em conformidade com a presente directiva, e os pneumáticos da maior dimensão recomendada pelo fabricante."
+  },
+  "4bd2a6b0963fa45f": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nNo âmbito da recepção CEE, qualquer tractor referido no artigo 9o deve estar equipado com um dispositivo de protecção em caso de capotagem que corresponda às prescrições dos Anexos I a IV.\n\nContudo, os tractores definidos no artigo 9o da Directiva 77/536/CEE podem ser equipados, no âmbito da recepção CEE, com um dispositivo de protecção em caso de capotagem que corresponda às prescrições dos Anexos I a IV da referida directiva."
+  },
+  "b91561a87c0e9793": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nAs alterações necessárias para adaptar ao progresso técnico as disposições dos anexos da presente directiva serão adoptadas em conformidade com o procedimento previsto no artigo 13o da Directiva 74/150/CEE."
+  },
+  "1578bad4e1706be1": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem assegurar que a Comissão seja informada das principais disposições de direito nacional que adoptarem no domínio regido pela presente directiva."
+  },
+  "48f5ad1281bcf71f": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 25 de Junho de 1979.\n\nPelo Conselho\n\nO Presidente\n\nJ. LE THEULE\n\n(1) JO no C 296 de 11. 12. 1978, p. 69.(2) JO no C 128 de 21. 5. 1979, p. 18.(3) JO no L 84 de 28. 3. 1974, p. 10.(4) JO no L 220 de 29. 8. 1977, p. 1.\n\nLISTA DOS ANEXOS"
+  },
+  "567764ae4c1d6348": {
+   "fragment_id": "Anexo I: Condições de homologação CEE. — Anexo II: Condições dos ensaios de resistência das estruturas de protecção e da sua fixação ao tractor",
+   "type": "divisao",
+   "heading": "Anexo I: Condições de homologação CEE. — Anexo II: Condições dos ensaios de resistência das estruturas de protecção e da sua fixação ao tractor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I: Condições de homologação CEE. — Anexo II: Condições dos ensaios de resistência das estruturas de protecção e da sua fixação ao tractor"
+  },
+  "09ed1a3e39db1abf": {
+   "fragment_id": "Anexo III: Procedimento de ensaio — Anexo IV: Figuras",
+   "type": "divisao",
+   "heading": "Anexo III: Procedimento de ensaio — Anexo IV: Figuras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III: Procedimento de ensaio — Anexo IV: Figuras\n\nAnexo V: Modelo de relatório dos ensaios de homologação CEE para uma estrutura de protecção (cabina ou quadro de segurança) no que respeita a sua resistência e a resistência da sua fixação ao tractor (ensaios estáticos)"
+  },
+  "44a4aa69bd26fa5d": {
+   "fragment_id": "Anexo VI: Marcação — Anexo VII: Modelo de ficha de homologação CEE",
+   "type": "divisao",
+   "heading": "Anexo VI: Marcação — Anexo VII: Modelo de ficha de homologação CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI: Marcação — Anexo VII: Modelo de ficha de homologação CEE"
+  },
+  "05f56864ad6d952b": {
+   "fragment_id": "Anexo VIII: Condições de recepção CEE",
+   "type": "divisao",
+   "heading": "Anexo VIII: Condições de recepção CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII: Condições de recepção CEE\n\nAnexo IX: Modelo de anexo à ficha de recepção CEE de um modelo de tractor no que respeita a resistência das estruturas de protecção (cabina ou quadro de segurança) e a sua fixação ao tractor (ensaios estáticos)."
+  },
+  "27a76de1171b04ef": {
+   "fragment_id": "ANEXO I — CONDIÇÕES DE HOMOLOGAÇÃO CEE",
+   "type": "divisao",
+   "heading": "ANEXO I — CONDIÇÕES DE HOMOLOGAÇÃO CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CONDIÇÕES DE HOMOLOGAÇÃO CEE\n\n1. DEFINIÇÃO\n\n1.1. Por dispositivo de protecção em caso de capotagem (cabina ou quadro de segurança), adiante designado por «estrutura de protecção», entende-se as estruturas montadas sobre um tractor com o objectivo principal de evitar ou de limitar os riscos que corre o condutor em caso de capotagem do tractor durante a sua utilização normal.\n\n1.2. As estruturas mencionadas no ponto 1.1 caracterizam-se pelo facto de, no decurso dos ensaios previstos nos Anexos II e III, comportarem um espaço livre suficientemente grande para proteger o condutor.\n\n2. ESPECIFICAÇÕES GERAIS\n\n2.1. Todas as estruturas de protecção, assim como a sua fixação ao tractor, devem ser concebidas e construídas de modo a assegurarem o objectivo principal indicado no ponto 1.\n\n2.2. Esta condição é considerada satisfeita se as prescrições dos Anexos II e III forem respeitadas.\n\n3. PEDIDO DE HOMOLOGAÇÃO CEE\n\n3.1. O pedido de homologação CEE no que diz respeito à resistência das estruturas de protecção e da sua fixação ao tractor será apresentado pelo fabricante do tractor ou pelo fabricante da estrutura de protecção ou pelos respectivos mandatários.\n\n3.2. Será acompanhado pelos seguintes documentos, em triplicado, e pelas indicações seguintes:\n\n- desenho, à escala ou com indicação das dimensões, da disposição do conjunto da estrutura de protecção. Este desenho deverá reproduzir o detalhe das peças de fixação,\n\n- fotografias de lado e da retaguarda, indicando os detalhes de fixação,\n\n- descrição sucinta da estrutura de protecção, incluindo o tipo de construção, os sistemas de fixação no tractor e, se necessário, os detalhes do revestimento, os meios de acesso e as possibilidades de libertação, detalhes sobre os estofos interiores, particularidades susceptíveis de impedir voltas sucessivas do tractor e detalhes sobre o sistema de aquecimento e ventilação,\n\n- dados relativos aos materiais utilizados nas estruturas e nos elementos de fixação da estrutura de protecção (ver Anexo V).\n\n3.3. Um tractor, representativo do modelo de tractor a que se destina a estrutura de protecção que deve ser homologada, será apresentado ao serviço técnico encarregado dos ensaios de homologação. Este tractor deve estar equipado com a estrutura de protecção.\n\n3.4. O detentor da homologação CEE pode pedir que esta seja estendida a outros modelos de tractores. As autoridades competentes que tiverem concedido a homologação CEE inicial concederão a extensão pedida, se a estrutura de protecção e o(s) modelo(s) de tractor para os quais é pedida a extensão da homologação CEE inicial satisfizerem as seguintes condições:\n\n- a massa do tractor sem lastro, definida no ponto 1.3 do Anexo II, não exceder em mais de 5 % a massa de referência utilizada para o ensaio,\n\n- o modo de fixação e os pontos de montagem no tractor serem idênticos,\n\n- os componentes que podem servir de suporte à estrutura de protecção, como os guarda-lamas e a capota do motor, serem idênticos,\n\n- a posição e as dimensões críticas do banco no interior da estrutura de protecção e as posições relativas da estrutura de protecção e do tractor deverem ser tais que a zona livre continue a ser protegida pela estrutura no decorrer das diversas fases dos ensaios, quaisquer que sejam as deformações sofridas.\n\n4. INSCRIÇÕES\n\n4.1. Qualquer estrutura de protecção conforme com o tipo homologado deverá conter as seguintes inscrições:\n\n4.1.1. Marca comercial ou de fabrico,\n\n4.1.2. Marca de homologação conforme com o modelo que figura no Anexo VI,\n\n4.1.3. Número de série da estrutura de protecção,\n\n4.1.4. Marca e modelo(s) de tractores a que se destina a estrutura de protecção.\n\n4.2. Todas estas indicações devem figurar numa pequena placa.\n\n4.3. As inscrições devem ser apostas de modo a serem visíveis, legíveis e indeléveis."
+  },
+  "c87f2bfedf1e6409": {
+   "fragment_id": "ANEXO II — CONDIÇÕES DOS ENSAIOS DE RESISTENCIA DAS ESTRUTURAS DE PROTECÇÃO E DA SUA FIXAÇÃO AO TRACTOR",
+   "type": "divisao",
+   "heading": "ANEXO II — CONDIÇÕES DOS ENSAIOS DE RESISTENCIA DAS ESTRUTURAS DE PROTECÇÃO E DA SUA FIXAÇÃO AO TRACTOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CONDIÇÕES DOS ENSAIOS DE RESISTENCIA DAS ESTRUTURAS DE PROTECÇÃO E DA SUA FIXAÇÃO AO TRACTOR\n\n1. GENERALIDADES\n\n1.1. Objectivo dos ensaios\n\nOs ensaios efectuados com o auxílio de dispositivos especiais destinam-se a simular as cargas impostas à estrutura de protecção em caso de capotagem do tractor. Estes ensaios, descritos no Anexo III, devem permitir observações quanto à resistência da estrutura de protecção e das suas fixações ao tractor, assim como de todas as partes do tractor que transmitam a carga de ensaio.\n\n1.2. Preparação dos ensaios\n\n1.2.1. A estrutura de protecção deve estar conforme com as especificações da produção em série. Deve ser fixada a um dos tractores para que foi concebida em conformidade com o método indicado pelos fabricantes. Para o ensaio não é necessário dispor de um tractor completo; todavia, a estrutura de protecção e as partes do tractor a ensaiar às quais esta estrutura é fixada devem constituir uma instalação operacional, adiante designada por «conjunto».\n\n1.2.2. O conjunto deve ser fixado ao banco de ensaios de modo a que, sob a carga, os elementos que ligam o conjunto ao banco de ensaios apenas sejam objecto de deformações mínimas em relação à estrutura de protecção. O método de fixação do conjunto à placa de assentamento não deve modificar a resistência do conjunto.\n\n1.2.3. O conjunto deve ser mantido e fixado ou modificado de modo a que toda a força de ensaio seja absorvida pela estrutura de protecção e pelos seus pontos de fixação aos elementos rígidos do tractor.\n\n1.2.3.1. Para observar as prescrições do ponto 1.2.3., a modificação deve ter como efeito bloquear qualquer sistema de suspensão do tractor em marcha, de modo a que este não absorva qualquer fracção da energia de ensaio.\n\n1.2.4. Para os ensaios, o tractor deve estar equipado com todos os elementos da produção em série que possam ter influência sobre a resistência da estrutura de protecção ou que possam ser necessários ao ensaio de resistência.\n\nOs elementos que poderiam acarretar riscos na zona livre devem igualmente estar presentes para que se possa verificar se estão reunidas as condições exigidas no ponto 4.\n\n1.3. Massa do tractor\n\nA massa de referência m t utilizado nas fórmulas (ver Anexo III) para calcular as energias e a força de esmagamento será, pelo menos, a definida no ponto 2.4. do Anexo I da Directiva 74/150/CEE (isto é, sem os acessórios opcionais mas incluindo a água de arrefecimento, os lubrificantes, o combustível, as ferramentas e o condutor), mais a estrutura de protecção e menos 75 quilogramas. Não são tomadas em consideração as massas de lastragem opcionais à frente ou à retaguarda, o lastro dos pneumáticos, os instrumentos e equipamentos montados ou qualquer componente especial.\n\n2. APARELHAGEM E EQUIPAMENTO\n\n2.1. Ensaios de cargas horizontais (lateral e longitudinal)\n\n2.1.1. Material, equipamento e dispositivos de fixação que assegurem uma fixação sólida do conjunto à placa de assentamento, independentemente dos pneumáticos se existirem.\n\n2.1.2. Dispositivo que permita aplicar uma força horizontal à estrutura de protecção, tal como está representada nas figuras 1 e 2 do Anexo IV, por meio de uma viga rígida.\n\n2.1.2.1. A dimensão vertical da extremidade da viga rígida deve ser de 150 milímetros.\n\n2.1.2.2. Deve-se proceder de modo a que a carga seja distribuída uniformemente segundo a normal à direcção da carga ao longo de uma viga cujo comprimento esteja compreendido entre 250 e 700 milímetros e tenha, entre estes limites, um valor múltiplo exacto de 50 milímetros.\n\n2.1.2.3. Os bordos da viga em contacto com a estrutura de protecção devem ser curvos, com um raio máximo de 50 milímetros.\n\n2.1.2.4. Devem ser montadas juntas universais ou equivalentes para evitar que a carga não provoque uma rotação ou um deslocamento do dispositivo numa direcção diferente da direcção da carga.\n\n2.1.2.5. Se os componentes da estrutura de protecção que suportam a carga não forem rectilíneos no plano horizontal e perpendicular à direcção da carga, o espaço será preenchido de maneira a que a carga seja distribuída ao longo deste comprimento.\n\n2.1.3. Equipamento destinado a medir, no limite das possibilidades técnicas, a energia absorvida pela estrutura de protecção e pelas partes rígidas do tractor às quais está fixada, medindo por exemplo a força aplicada e o deslocamento do seu ponto de aplicação segundo a direcção da força em relação a um ponto do quadro do tractor.\n\n2.1.4. Dispositivos com vista a determinar que nenhuma parte da estrutura de protecção tenha penetrado na zona livre durante o ensaio. Para este efeito, pode ser utilizado um dispositivo conforme ao das figuras 6 do Anexo IV.\n\n2.2. Ensaios de esmagamento (à retaguarda e à frente)\n\n2.2.1. Material, equipamento e dispositivos de fixação próprios para fixar solidamente o tractor à placa de assentamento, independentemente dos pneumáticos.\n\n2.2.2. Dispositivos que permitam aplicar uma força vertical à estrutura de protecção, tal como é indicado na figura 3 do Anexo IV, tendo a viga rígida de esmagamento uma largura de 250 milímetros.\n\n2.2.3. Equipamento destinado a medir a força vertical total aplicada.\n\n2.2.4. Dispositivos com vista a determinar que nenhuma parte da estrutura de protecção tenha penetrado na zona livre durante o ensaio. Para este efeito, pode ser utilizado um dispositivo como o indicado nas figuras 6 do Anexo IV.\n\n2.3. Tolerâncias nas medições\n\n2.3.1. Dimensões: ± 3 milímetros.\n\n2.3.2. Deformação: ± 3 milímetros.\n\n2.3.3. Massa do tractor: ± 20 quilogramas.\n\n2.3.4. Cargas e forças: ± 2 %.\n\n2.3.5. Direcção da carga: desvio em relação às direcções horizontais e verticais especificadas no Anexo III:\n\n- no início do ensaio, sob uma carga nula: ± 2 graus,\n\n- durante o ensaio, sob carga: 10 graus acima da horizontal e 20 graus abaixo da horizontal. Estes desvios devem ser reduzidos na medida do possível.\n\n3. ENSAIOS\n\n3.1. Generalidades\n\n3.1.1. Sequência dos ensaios\n\n3.1.1.1. A sequência dos ensaios será a seguinte:\n\n3.1.1.1.1. Carga longitudinal (ver ponto 1.2 do Anexo III):\n\nPara os tractores em que pelo menos 50 % da massa, tal como definida no ponto 1.3, se apoie nas rodas da retaguarda, a carga longitudinal será aplicada a partir da retaguarda (caso 1). Para os outros tractores, a carga longitudinal será aplicada a partir da frente (caso 2).\n\n3.1.1.1.2. Primeiro ensaio de esmagamento:\n\nO primeiro ensaio de esmagamento será efectuado na extremidade da estrutura à qual tiver sido aplicada a carga longitudinal, isto é:\n\nà retaguarda, no caso 1 (ver ponto 1.5 do Anexo III)\n\nou à frente, no caso 2 (ver ponto 1.6 do Anexo III).\n\n3.1.1.1.3. Carga lateral (ver ponto 1.3 do Anexo III).\n\n3.1.1.1.4. Segundo ensaio de esmagamento:\n\nO segundo ensaio de esmagamento será efectuado na extremidade da estrutura de protecção oposta àquela a que tiver sido aplicada a carga longitudinal, isto é:\n\nà frente, no caso 1 (ver ponto 1.6 do Anexo III)\n\nou à retaguarda, no caso 2 (ver ponto 1.5 do Anexo III).\n\n3.1.1.1.5. Segundo ensaio de carga longitudinal (ver ponto 1.7 do Anexo III):\n\nSerá efectuado um segundo ensaio de carga nos tractores equipados com uma estrutura de protecção basculante, se a carga longitudinal (ver ponto 3.1.1.1.1) não tiver sido aplicada na direcção que teria tido como resultado o basculamento da estrutura de protecção.\n\n3.1.1.2. Se, durante o ensaio, qualquer peça do equipamento de fixação se deslocar ou partir, o ensaio deve recomeçar.\n\n3.1.1.3. Não se admitem nem reparações nem regulações do tractor ou da estrutura de protecção durante os ensaios.\n\n3.1.2. Afastamento das rodas\n\nAs rodas serão retiradas ou afastadas de forma a que durante os ensaios não se verifique nenhuma interferência com a estrutura de protecção.\n\n3.1.3. Remoção dos elementos não geradores de riscos\n\nTodos os elementos do tractor e da estrutura de protecção que, como unidades completas, constituam uma protecção para o condutor - incluindo o dispositivo de protecção contra as intempéries - serão fornecidos juntamente com o tractor com vista ao controlo de homologação. A estrutura de protecção submetida aos ensaios pode não estar equipada com pára-brisas, janelas laterais ou à retaguarda, vidros de segurança ou de material análogo, painéis destacáveis, equipamentos ou acessórios que não desempenhem qualquer papel de reforço estrutural e que não sejam geradores de riscos em caso de capotagem.\n\n3.1.4. Aparelhagem de medição\n\nA estrutura de protecção deve estar equipada com os instrumentos necessários para a obtenção dos dados necessários para traçar o diagrama força/deformações (ver figura 4 do Anexo IV). As deformações total e permanente da estrutura de protecção serão medidas e anotadas em cada fase do ensaio (ver figura 5 do Anexo IV).\n\n3.1.5. Direcção da carga\n\nQuando o banco não estiver no plano médio do tractor e/ou quando a resistência da estrutura de protecção for assimétrica, a carga lateral será aplicada sobre o lado que, na maioria dos casos, seja mais susceptível de invadir a zona livre durante os ensaios (ver também ponto 1.3 do Anexo III).\n\n4. CONDIÇÕES DE ACEITAÇÃO\n\n4.1. Uma estrutura de protecção apresentada à homologação CEE será considerada como tendo cumprido as especificações em matéria de resistência se, após os ensaios, satisfizer as condições seguintes:\n\n4.1.1. Estiver isenta da fracturas e fissuras tais como as descritas no ponto 3.1 do Anexo III;\n\n4.1.2. A estrutura de protecção não tiver penetrado em nenhuma parte da zona livre descrita no ponto 3.2 do Anexo III, ou tiver sempre protegido esta zona livre durante os ensaios descritos nos pontos 1.2, 1.3, 1.5, 1.6 e, se for caso disso, no ponto 1.7 do Anexo III. Se tiver sido efectuado um ensaio de sobrecarga, a força aplicada durante a fase em que a energia específica é absorvida não deve ser inferior a 0,8 da força máxima que intervém simultaneamente no decorrer do ensaio principal e do ensaio de sobrecarga em questão (ver figuras 4b e 4c do Anexo IV);\n\n4.1.3. Durante os ensaios, a estrutura de protecção não deve exercer qualquer constrangimento sobre a estrutura do banco.\n\n4.2. Além disso, não deve haver nenhum elemento que apresente um risco especial, por exemplo para o condutor, estofo insuficiente na face interior do tecto ou em qualquer outro local em que o condutor corra o risco de bater com a cabeça.\n\n5. RELATÓRIO DE ENSAIO\n\n5.1. O relatório de ensaio será anexado à ficha de homologação CEE referida no Anexo VII. O Anexo V contém um modelo de relatório. Este deve conter:\n\n5.1.1. Uma descrição geral da forma e construção da estrutura de protecção (ver Anexo V relativo às dimensões obrigatórias), incluindo as dos acessos normais e da saída de emergência, as disposições relativas ao sistema de aquecimento e de ventilação e os outros arranjos, quando existam e sejam susceptíveis de afectar a zona livre ou de constituirem factor de risco;\n\n5.1.2. Os pormenores relativos a qualquer dispositivo especial, nomeadamente para impedir as voltas sucessivas do tractor;\n\n5.1.3. Uma breve indicação de todos os estofos interiores;\n\n5.1.4. A indicação do tipo de pára-brisas e de vidros utilizados, bem como de qualquer marca de homologação CEE ou outra incorporada.\n\n5.2. No caso da extensão de uma homologação CEE a outros modelos de tractores, o relatório deve ostentar a referência exacta do relatório da homologação CEE inicial, bem como indicações precisas relativamente às condições estabelecidas no ponto 3.4 do Anexo I.\n\n5.3. O relatório deve permitir identificar claramente o modelo de tractor (marca, modelo e designação comercial, etc.) utilizado durante os ensaios e os modelos a que se destina a estrutura de protecção.\n\n6. SIMBOLOS\n\nmt = massa de referência do tractor (kg), tal como definida no ponto 1.3.\n\nD = deformação (em milímetros) do dispositivo no ponto de aplicação da carga no eixo da sua aplicação.\n\nF = força de carga estática (N: newtons)\n\nFmax = força de carga estática máxima que intervém durante a aplicação de carga (N), excluindo a sobrecarga.\n\nF' = força de carga correspondente a E'i (N).\n\nF-D = diagrama força/deformação.\n\nEis = energia que deve ser absorvida durante a aplicação da carga lateral (J: joules).\n\nEil1 = energia que deve ser absorvida durante a aplicação da carga longitudinal (J).\n\nEil2 = energia que deve ser absorvida durante a aplicação de uma carga longitudinal suplementar (J).\n\nFr = força aplicada à retaguarda durante o ensaio de esmagamento (N).\n\nFf = força aplicada à frente durante o ensaio de esmagamento (N).\n\nEi = energia de deformação absorvida pelo quadro (J). Zona situada abaixo da curva F-D (ver figura 4 a do Anexo IV).\n\nE'i = energia de deformação absorvida pelo quadro após aplicação de uma carga suplementar consecutiva a uma fractura ou fissura (J) (ver figuras 4 b e 4 c do Anexo IV).\n\nEa = energia de deformação absorvida pelo quadro no local em que a carga é removida (J). Zona inscrita no interior da curva F-D (ver figura 4 b do Anexo IV).\n\nE\"i = energia de deformação absorvida pelo quadro durante o ensaio de sobrecarga (J). Zona situada abaixo da curva F-D (ver figura 4 c do Anexo IV)."
+  },
+  "d0a43d9de7bb5577": {
+   "fragment_id": "ANEXO III — PROCESSO DE ENSAIO",
+   "type": "divisao",
+   "heading": "ANEXO III — PROCESSO DE ENSAIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — PROCESSO DE ENSAIO\n\n1. CARGA HORIZONTAL E ENSAIOS DE ESMAGAMENTO\n\n1.1. Condições gerais dos ensaios de carga horizontal\n\n1.1.1. As cargas aplicadas à estrutura de protecção são distribuídas por meio de uma viga rígida de acordo com as prescrições do ponto 2.1.2 do Anexo II, disposta perpendicularmente ao sentido de aplicação da carga e podendo estar dotada com um dispositivo destinado a impedi-la de deslisar lateralmente. A velocidade de deformação sob carga não deve exceder 5 milímetros por segundo. Durante a aplicação da carga, para garantir a exactidão das medições, os valores de F e D serão anotados simultaneamente para aumentos de deformação inferiores ou iguais a 15 milímetros. Uma vez iniciada a aplicação da carga, esta já não deve ser reduzida até ao fim do ensaio; no entanto, é permitido para de aumentar, se necessário, por exemplo para registar medições.\n\n1.1.2. Se os elementos da estrutura que recebem a carga forem arredondados, as prescrições previstas no ponto 2.1.2.5 do Anexo II devem ser respeitadas. A aplicação da carga deve, todavia, responder também às exigências do ponto 1.1.1 acima e do ponto 2.1.2 do Anexo II.\n\n1.1.3. Se não existirem elementos estruturais resistentes no ponto de aplicação da carga, podem-se restabelecer as condições de ensaio utilizando uma viga de recurso que não deve, contudo, reforçar a estrutura de protecção.\n\n1.1.4. A estrutura de protecção será controlada visualmente no fim de cada ensaio após a remoção da carga. Se durante o ensaio de carga se tiverem produzido fracturas ou fissuras, efectuar-se-á o ensaio de sobrecarga indicado no ponto 1.4 a seguir, antes de se aplicar a carga seguinte na sequência indicada no ponto 3.1.1.1 do Anexo II.\n\n1.2. Carga longitudinal (ver figura 2 do Anexo IV)\n\nA carga será aplicada horizontalmente, segundo uma linha paralela ao plano médio vertical do tractor.\n\nSerá aplicada do mesmo lado que a carga lateral.\n\nSerá aplicada sobre a travessa superior da estrutura de protecção (isto é, na parte susceptível de bater primeiro no solo em caso de capotagem).\n\nO ponto de aplicação da carga estará situado a uma distância correspondente a um sexto da largura da parte superior da estrutura de protecção, medida do canto exterior para a parte inferior. A largura da estrutura de protecção será tomada como a distância que separa duas linhas paralelas ao plano médio vertical do tractor e que tocam as extremidades exteriores da estrutura de protecção no plano horizontal que, por sua vez, toca a face superior das travessas superiores.\n\nO comprimento da viga não deve ser inferior a um terço da largura da estrutura de protecção (tal como foi descrita anteriormente) nem exceder este mínimo em mais de 49 milímetros.\n\nA carga longitudinal será aplicada a partir da retaguarda ou da frente, conforme indicado no ponto 3.1.1.1 do Anexo II.\n\nInterromper-se-á o ensaio quando:\n\na) A energia de deformação absorvida pela estrutura de protecção for igual ou superior à energia requerida Eil1 (em que Eil2 = 1,4 mt);\n\nb) A estrutura de protecção penetrar na zona livre ou deixar esta zona sem protecção.\n\n1.3. Carga lateral (ver figura 1 do Anexo IV)\n\nA carga será aplicada horizontal e perpendicularmente ao plano médio vertical do tractor. Será aplicada no bordo superior da estrutura de protecção 300 milímetros à frente do ponto de referência do banco, estando este na sua posição mais recuada (ver ponto 2.3.1). Se a estrutura de protecção apresentar de lado uma saliência susceptível de bater primeiro no solo em caso de capotagem, a carga será aplicada neste local.\n\nO comprimento da viga não deve exceder 700 milímetros; deve, no entanto, ser o maior possível.\n\nInterromper-se-á o ensaio quando:\n\na) A energia de deformação absorvida pela estrutura de protecção for igual ou superior à energia requerida Eis (em que Eis = 1,75 mt);\n\nb) Quando a estrutura de protecção penetrar na zona livre ou deixar esta zona sem protecção.\n\n1.4. Ensaio de sobrecarga\n\nSe ocorrer uma fractura ou fissura durante um ensaio de carga horizontal efectuado nas condições previstas nos pontos 1.2 e 1.3, mas não no ponto 1.7, deve proceder-se a um ensaio de sobrecarga.\n\nEsta disposição não se aplica às fracturas ou fissuras que não afectem a integridade da estrutura de protecção como, por exemplo, um rasgão num painel de revestimento. O aumento do comprimento de uma fractura ou fissura existente, assim como o aparecimento de nova fractura ou fissura, serão assimilados à formação de uma fractura ou fissura.\n\nA energia a aplicar durante um ensaio de sobrecarga deve, em cada caso, ser função da energia aplicada durante o ensaio anterior, conforme especificado a seguir.\n\nInterromper-se-á o ensaio quando:\n\nE& prime;i = 1,20 Ei em que:\n\nEi é igual a Eil1 quando o ensaio de sobrecarga se seguir a um ensaio de carga longitudinal, e\n\nEi é igual a Eis quando o ensaio de sobrecarga se seguir a um ensaio de carga lateral.\n\nE& prime;i é medido como a soma da área compreendida no interior do diagrama força/deformação da carga original até ao ponto em que a carga é removida (Ea) com a área total situada abaixo do diagrama força/deformação do ensaio de sobrecarga (E& Prime;i) (ver figura 4c do Anexo IV).\n\nNo ponto em que E& prime;3i é absorvida, a força F& prime; não deve ser inferior a 0,8 Fmax.\n\nAs fracturas ou as fissuras suplementares e/ou a penetração na zona livre ou a ausência de protecção desta zona na sequência de uma deformação elástica são autorizadas durante o ensaio de sobrecarga.\n\n1.5 Esmagamento à retaguarda\n\nA viga será colocada sobre a travessa superior a fica mais atrás da estrutura de protecção; a resultante das forças de esmagamento estará situada no plano de referência longitudinal vertical. Aplicar-se-á uma força Fr = 20 mt.\n\nQuando a parte de trás do tecto da estrutura de protecção não puder suportar toda a força de esmagamento, será necessário aplicar esta força até que o tecto fique deformado de maneira a coincidir com o plano que liga a parte superior da estrutura de protecção à parte traseira do tractor capaz de suportar o peso do tractor em caso de capotagem. Seguidamente a força será removida, e o tractor ou a força de esmagamento serão reposicionados de tal modo que a viga se encontre acima do ponto da estrutura de protecção capaz de suportar o tractor completamente virado. Aplicar-se-á então a força Ft.\n\nA força Fr será aplicada durante pelo menos cinco segundos após o desaparecimento de qualquer deformação perceptível à vista.\n\nInterromper-se-á o ensaio se a estrutura penetrar na zona livre ou deixar esta zona sem protecção.\n\n1.6. Esmagamento à frente\n\nA viga será colocada sobre a travessa superior mais à frente da estrutura de protecção; a resultante das forças de esmagamento estará situada no plano de referência longitudinal vertical. Aplicar-se-á uma força Ff = 20 mt.\n\nQuando a parte da frente do tecto da estrutura de protecção não puder suportar toda a força de esmagamento, será necessário aplicar esta força até que o tecto fique deformado de maneira a coincidir com o plano que liga a parte superior da estrutura de protecção à parte de frente do tractor capaz de suportar o peso do tractor em caso de capotagem. Em seguida a força será removida e o tractor ou a força de esmagamento reposicionados de forma que a viga se encontre acima do ponto da estrutura de protecção que será então capaz de suportar o tractor completamente virado. Aplicar-se-á então a força Ff.\n\nA força Ff será aplicada durante pelo menos cinco segundos após o desaparecimento de qualquer deformação perceptível à vista.\n\nInterromper-se-á o ensaio se a estrutura penetrar na zona livre ou deixar esta zona sem protecção.\n\n1.7. Segunda carga longitudinal\n\nA carga será aplicada horizontalmente, segundo uma linha paralela ao plano médio vertical do tractor.\n\nA segunda carga longitudinal será aplicada a partir de trás ou da frente, conforme especificado no ponto 3.1.1.1 do Anexo II.\n\nSerá aplicada na direcção oposta à da aplicação da carga longitudinal indicada no ponto 1.2 e no canto mais afastado desta mesma carga longitudinal.\n\nSerá aplicada sobre a travessa superior da estrutura de protecção (isto é, sobre a parte susceptível de bater primeiro no solo em caso de capotagem).\n\nO ponto de aplicação da carga estará situado a uma distância correspondente a um sexto da largura da parte superior da estrutura de protecção, medida do canto exterior para a parte interior. A largura da estrutura de protecção será tomada como a distância que separa duas linhas paralelas ao plano médio vertical do tractor e que tocam as extremidades exteriores da estrutura de protecção no plano horizontal que, por sua vez, toca a face superior das travessas superiores.\n\nO comprimento da viga não deve ser inferior a um terço de largura da estrutura de protecção (tal como foi descrita anteriormente), nem exceder este mínimo em mais de 49 milímetros.\n\nInterromper-se-á o ensaio quando:\n\na) A energia de deformação absorvida pela estrutura de protecção for igual ou superior à energia de entrada requerida Eil2 (em que Eil2 = 0,35 mt);\n\nb) A estrutura de protecção penetrar na zona livre ou deixar esta zona sem protecção.\n\n2. Zona livre\n\n2.1. A zona livre está ilustrada na figura 6 do Anexo IV e é definida em relação a um plano vertical de referência geralmente longitudinal ao tractor e passando por um ponto de referência do banco, descrito no ponto 2.3, e pelo centro do volante. O plano de referência é suposto deslocar-se horizontalmente com o banco e o volante aquando da aplicação das cargas mas permanecer perpendicular ao piso do tractor ou da estrutura de protecção, se este dispositivo estiver montado elasticamente.\n\nQuando o volante for regulável, deve estar na sua posição normal para um condutor sentado.\n\n2.2. Os limites da zona são especificados do seguinte modo\n\n2.2.1. Planos verticais situados a 250 milímetros de cada lado do plano de referência, limitados para cima a 300 milímetros acima do ponto de referência do banco;\n\n2.2.2. Planos paralelos que se estendem do bordo superior dos planos indicados no ponto 2.2.1 até uma altura máxima de 900 milímetros acima do ponto de referência do banco e inclinados de tal maneira que o bordo superior do plano, no lado em que a carga lateral é aplicada, se encontre pelo menos a 100 milímetros do plano de referência;\n\n2.2.3. Um plano horizontal situado 900 mm acima do ponto de referência do banco;\n\n2.2.4. Um plano inclinado perpendicular ao plano de referência e compreendendo um ponto situado na vertical 900 mm acima do ponto de referência do banco, e o ponto mais recuado do encosto do banco;\n\n2.2.5. Uma superfície, curva se necessário, cujas geratrizes sejam perpendiculares ao plano de referência, que se estenda para baixo a partir do ponto mais recuado do banco e que fique em contacto, em todo o comprimento, com o encosto do banco;\n\n2.2.6. Uma superfície curva, perpendicular ao plano de referência, com um raio de 120 milímetros e tangente aos planos indicados nos pontos 2.2.3. e 2.2.4;\n\n2.2.7. Uma superfície curva, perpendicular ao plano de referência, com um raio de 900 mm e prolongando 400 milímetros para a frente o plano indicado no ponto 2.2.3. ao qual é tangente num ponto situado 150 milímetros à frente do ponto de referência do banco;\n\n2.2.8. Um plano inclinado perpendicular ao plano de referência, que encontra a superfície indicada no ponto 2.2.7 no seu bordo anterior e passa a 40 milímetros do volante de direcção. No caso de um volante em posição alta, este plano será substituído por um plano tangente à superfície indicada no ponto 2.2.7;\n\n2.2.9. Um plano vertical, perpendicular ao plano de referência, e situado 40 milímetros à frente do volante de direcção;\n\n2.2.10. Um plano horizontal que passa pelo ponto de referência do banco.\n\n2.3. Localização do banco e ponto de referência do banco\n\n2.3.1. Para definição da zona livre do ponto 2.1, o banco estará situado no ponto mais recuado de qualquer regulação horizontal. Será colocado na posição mais elevada da regulação vertical quando esta for independente de regulação da posição horizontal.\n\nO ponto de referência será estabelecido com o auxílio do aparelho ilustrado nas figuras 7 e 8 do Anexo IV e que simula a ocupação do banco por um homem. O aparelho é constituido por uma prancha que simula a base do banco e outras pranchas para o encosto. A prancha inferior do encosto é articulada ao nível da bacia (A) e da região lombar (B), sendo a altura desta articulação regulável.\n\n2.3.2. Entende-se por ponto de referência o ponto de intersecção do plano longitudinal médio do banco o plano tangente à base do encosto e com um plano horizontal. Este plano horizontal encontra a superfície inferior da prancha de base do banco 150 milímetros à frente do plano tangente acima mencionado.\n\n2.3.3. Quando o banco comportar um sistema de suspensão, quer este sistema possa ou não ser ajustado em função do peso do condutor, o banco deve ser fixado no ponto médio do curso da suspensão.\n\nO aparelho será posicionado no banco. Será em seguida carregado com uma força de 550 newtons num ponto situado 50 milímetros à frente da articulação (A), e as duas partes da prancha-encosto serão ligeiramente pressionadas tangencialmente ao encosto.\n\n2.3.4. Se não for possível determinar as tangentes em cada nível do encosto (acima e abaixo da região lombar), devem ser tomadas as disposições seguintes:\n\n2.3.4.1. Quando não for possível qualquer tangente à parte inferior: a parte inferior da prancha-encosto será pressionada verticalmente contra o encosto;\n\n2.3.4.2. Quando não for possível qualquer tangente à parte superior: a articulação (B) será fixada a uma altura de 230 milímetros acima do ponto de referência do banco, se a parte inferior da prancha-encosto estiver na vertical. As duas partes da prancha-encosto serão então ligeiramente pressionadas contra o encosto.\n\n3. CONTROLOS E MEDIÇÕES A EFECTUAR\n\n3.1. Fracturas e fissuras\n\nTodos os elementos de ligação, elementos estruturais, braçadeiras de fixação e as peças do tractor que transmitem a força de carga devem estar isentos de fracturas ou de fissuras perceptíveis à vista, excepto nos seguintes casos em que são toleráveis:\n\n3.1.1. Se não afectarem a integridade da estrutura de protecção, por exemplo se se situarem num painel de revestimento ou ainda sobre uma soldadura por pontos ou uma soldadura interrompida utilizada para a fixação de paineis de revestimento;\n\n3.1.2. Se aparecerem aquando do último ensaio de esmagamento (ensaio descrito no ponto 1.5);\n\n3.1.3. Se o ensaio de sobrecarga efectuado na sequência do aparecimento de uma fractura ou fissura der um resultado satisfatório;\n\n3.1.4. Se aparecerem durante um ensaio de sobrecarga.\n\n3.2. Zona livre\n\nDurante cada ensaio, a estrutura de protecção será examinada para verificar se qualquer parte da mesma penetrou numa zona livre à volta do banco do condutor, segundo a definição dada no ponto 2.1. Além disso, a estrutura de protecção será examinada para verificar se uma parte qualquer da zona livre deixou de estar protegida pela estrutura de protecção. Para este efeito, considera-se como já não estando protegida pela estrutura de protecção qualquer parte da zona livre que entrasse em contacto com um solo plano se o tractor capotasse para o lado em que lhe fosse aplicada a carga. Os pneumáticos e a via serão considerados às cotas mais baixas indicadas pelo fabricante.\n\n3.3. Deformação permanente final\n\nNo fim dos ensaios, anotar-se-á a deformação permanente final da estrutura de protecção. Para este efeito, anotar-se-á antes do início dos ensaios a posição dos principais elementos da estrutura de protecção em relação ao ponto de referência do banco."
+  },
+  "32180daede86f20c": {
+   "fragment_id": "ANEXO IV — FIGURAS",
+   "type": "divisao",
+   "heading": "ANEXO IV — FIGURAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — FIGURAS\n\nFigura 1: Ponto de aplicação da carga lateral\n\nFigura 2: Ponto de aplicação da carga longitudinal\n\nFigura 3: Exemplo de dispositivo utilizado para o ensaio de esmagamento\n\nFigura 4 a: Carga normal\n\nFigura 4 b: Carga normal (como na figura 4 a)\n\nFigura 4 c: Ensaio de sobrecarga\n\nFigura 5: Explicação dos termos deformação permanente, elástica e total\n\nFigura 6 a: Vista lateral da zona livre\n\nFigura 6 b: Vista da zona livre a partir da frente/da retaguarda\n\nFigura 6 c: Vista isométrica\n\nFigura 7: Aparelho de determinação do ponto de referência do banco\n\nFigura 8: Método de determinação do ponto de referência do banco\n\nFigura 1\n\nPonto de aplicação da carga lateral\n\nFigura 2\n\nPonto de aplicação da carga longitudinal\n\nFigura 3\n\nExemplo de dispositivo utilizado para o ensaio de esmagamento\n\nFigura 4 a\n\nCarga normal\n\nFigura 4b\n\nCarga normal (como na fig. 4 a)\n\nFigura 4c\n\nEnsaio de sobrecarga\n\nEnergia total absorvida após o ensaio de sobrecarga E'i = Ea + E\"i\n\nFigura 5\n\nExplicação dos termos deformação permanente, elástica e total\n\nFigura 6 a\n\nVista lateral da zona livre\n\nFigura 6 b\n\nVista da zona livre a partir da frente da retaguarda\n\nFigura 6 c\n\nVista isométrica\n\nFigura 7\n\nAparelho de determinação do ponto de referência do banco\n\nFigura 8\n\nMétodo de determinação do ponto de referência do banco"
+  },
+  "a0aeabc92a53be44": {
+   "fragment_id": "ANEXO V — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO V — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — MODELO\n\nRELATORIO RELATIVO AOS ENSAIOS DE HOMOLOGAÇÃO CEE DE UMA ESTRUTURA DE PROTECÇÃO (CABINA OU QUADRO DE SEGURANÇA) NO QUE RESPEITA A SUA RESISTÊNCIA E A RESISTÊNCIA DA SUA FIXAÇÃO AO TRACTOR\n\n(Ensaios estáticos)\n\nEstrutura de protecção...\n\nMarca...\n\nTipo...\n\nMarca do tractor...\n\nModelo do tractor...\n\nDenominação do laboratório\n\nNúmero de homologação CEE...\n\n1. Marca de fabrico ou comercial da estrutura de protecção...\n\n2. Nome e morada do fabricante da estrutura de protecção e/ou do fabricante do tractor...\n\n3. Nome e morada do eventual mandatário do fabricante da estrutura de protecção e/ou do fabricante do tractor...\n\n4. Especificações do tractor no qual são executados os ensaios\n\n4.1. Marca de fabrico ou comercial...\n\n4.2. Modelo e denominação comercial...\n\n4.3. Número de série...\n\n4.4. Massa do tractor sem lastro, com a sua estrutura de protecção sem condutor... kg\n\nDimensões dos pneumáticos: à frente...\n\nà retaguarda...\n\n5. Extensão(ões) da homologação CEE a outros modelos de tractores (1)\n\n5.1. Marca de fabrico ou comercial...\n\n5.2. Modelo e denominação comercial...\n\n5.3. Massa do tractor sem lastro, com a sua estrutura de protecção sem condutor... kg\n\nDimensões dos pneumáticos: à frente...\n\nà retaguarda...\n\n6. Especificações da estrutura de protecção\n\n6.1. Desenho da disposição do conjunto da estrutura de protecção e da sua fixação ao tractor\n\n6.2. Fotografias de lado e de trás, indicando os pormenores de fixação\n\n6.3. Descrição sucinta da estrutura de protecção incluindo o tipo de construção, os sistemas de fixação ao tractor, os pormenores do revestimento, os meios de acesso e as possibilidades de libertação, pormenores sobre os estofos interiores, particularidades susceptíveis de impedir as voltas sucessivas do tractor e pormenores sobre o sistema de aquecimento e de ventilação\n\n6.4. Dimensões\n\n6.4.1. Altura dos elementos estruturais do tecto acima do ponto de referência do banco... mm\n\n6.4.2. Altura dos elementos estruturais do tecto acima da plataforma de apoio dos pés... mm\n\n6.4.3. Largura interior da estrutura de protecção 900 mm acima do ponto de referência do banco... mm\n\n6.4.4. Largura interior da estrutura de protecção num ponto situado acima do banco ao nível do centro do volante... mm\n\n6.4.5. Distância do centro do volante ao lado direito da estrutura de protecção... mm\n\n6.4.6. Distância do centro do volante ao lado esquerdo da estrutura de protecção... mm\n\n6.4.7. Distância mínima do aro do volante à estrutura de protecção... mm\n\n6.4.8. Largura das portas:\n\nem cima... mm\n\nao meio... mm\n\nem baixo... mm\n\n6.4.9. Altura das portas:\n\nacima das plataformas... mm\n\nacima do degrau mais alto... mm\n\nacima do degrau mais baixo... mm\n\n6.4.10. Altura total do tractor equipado com a estrutura de protecção... mm\n\n6.4.11. Largura total da estrutura de protecção (não incluindo as abas)... mm\n\n6.4.12. Distância horizontal à parte traseira da estrutura de protecção do ponto de referência do banco a uma altura de 900 mm... mm\n\n6.5. Dados sobre os materiais, qualidade dos materiais utilizados e normas de referência...\n\nQuadro principal... (material e dimensões)\n\nFixações... (material e dimensões)\n\nRevestimento... (material e dimensões)\n\nTecto... (material e dimensões)\n\nEstofos interiores... (material e dimensões)\n\nParafusos de montagem e de fixação... (qualidade e dimensões)\n\nTipo de pára-brisas e de vidro e pormenores da marcação...\n\n7. Resultados ensaios\n\n7.1. Ensaios de carga e de esmagamento\n\nOs ensaios de carga foram efectuados à direita/esquerda (2) da retaguarda, à direita/esquerda (3) da frente e na parte lateral direita/esquerda (2).\n\n7.2. Peso de referência utilizada o cálculo da energia de entrada e das forças de esmagamento... kg\n\n7.3. As prescrições relativas às fracturas e às fissuras e à protecção da zona livre foram respeitadas.\n\n7.4. Energia absorvida durante a aplicação da carga:\n\nà retaguarda/à frente (2)... kJ\n\nde lado... kJ\n\nForça de esmagamento:... kN\n\nUm segundo ensaio de carga longitudinal foi efectuado na parte da retaguarda/da frente direita/esquerda (2)... kJ\n\n7.5. Deformação permanente final medida após os ensaios"
+  },
+  "f13641cfd1f8d495": {
+   "fragment_id": "Parte da retaguarda, para a frente/para trás (2)... kJ — lado esquerdo... mm",
+   "type": "divisao",
+   "heading": "Parte da retaguarda, para a frente/para trás (2)... kJ — lado esquerdo... mm",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte da retaguarda, para a frente/para trás (2)... kJ — lado esquerdo... mm\n\nlado direito... mm"
+  },
+  "d5522f058956fab3": {
+   "fragment_id": "Parte da frente, para a frente/para trás (2): — lado esquerdo... mm",
+   "type": "divisao",
+   "heading": "Parte da frente, para a frente/para trás (2): — lado esquerdo... mm",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte da frente, para a frente/para trás (2): — lado esquerdo... mm\n\nlado direito... mm"
+  },
+  "b5626424528bb7e8": {
+   "fragment_id": "Parte lateral: — à frente... mm",
+   "type": "divisao",
+   "heading": "Parte lateral: — à frente... mm",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte lateral: — à frente... mm\n\nà retaguarda... mm"
+  },
+  "bb3f0f7fb58fcfc9": {
+   "fragment_id": "Parte superior, de cima para baixo/de baixo para cima (6) — à frente... mm",
+   "type": "divisao",
+   "heading": "Parte superior, de cima para baixo/de baixo para cima (6) — à frente... mm",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte superior, de cima para baixo/de baixo para cima (6) — à frente... mm\n\nà retaguarda... mm\n\n8. Número do relatório...\n\n9. Data do relatório...\n\n10. Assinatura...\n\n(1) Estas indicações devem ser fornecidas para todas as extensões sucessivas.(2) Riscar o que não interessa."
+  },
+  "0dea89e1d60f65b7": {
+   "fragment_id": "ANEXO VI — MARCAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO VI — MARCAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — MARCAÇÃO\n\nA marca de homologação CEE é composta por um rectângulo no interior do qual é colocada a letra e seguida do número ou grupo de letras distintivo do Estado-membro que concedeu a homologação:\n\n1 para a República Federal da Alemanha,\n\n2 para a França,\n\n3 para a Itália,\n\n4 para os Países Baixos,\n\n6 para a Bélgica,\n\n11 para o Reino Unido,\n\n13 para o Luxemburgo,\n\n18 para a Dinamarca,\n\nIRL para a Irlanda,\n\ne de um número de homologação CEE correspondente ao número da ficha de homologação CEE estabelecida para o tipo de estrutura de protecção no que respeita a sua resistência e a resistência da sua fixação ao tractor, colocado em qualquer posição na proximidade do rectângulo.\n\nExemplo da marca de homologação CEE"
+  },
+  "9ec4a90b2c45e66a": {
+   "fragment_id": "ANEXO VII — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+   "type": "divisao",
+   "heading": "ANEXO VII — MODELO DE FICHA DE HOMOLOGAÇÃO CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — MODELO DE FICHA DE HOMOLOGAÇÃO CEE\n\nDenominação da autoridade administrativa\n\nComunicação relativa a homologação CEE, à recusa, à revogação da homologação CEE ou à extensão de homologação CEE de um tipo de estrutura de protecção (cabina ou quadro de segurança) no que respeita a sua resistência e a resistência da sua fixação ao tractor (ensaios estáticos)\n\nNúmero de homologação CEE... extensão (1)\n\n1. Marca de fabrico ou comercial da estrutura de protecção...\n\n2. Nome e morada do fabricante da estrutura de protecção...\n\n3. Nome e morada do eventual mandatário do fabricante da estrutura de protecção...\n\n4. Marca de fabrico ou comercial, modelo e denominação comercial do tractor ao qual se destina a estrutura de protecção...\n\n5. Extensão da homologação CEE ao(s) modelo(s) de tractor(es) seguinte(s)...\n\n5.1. A massa do tractor sem lastro, definida no ponto 1.3 do Anexo II, ultrapassa/não ultrapassa (2) em mais de 5 % a massa de referência utilizada para o ensaio\n\n5.2. O método de fixação e os pontos de montagens são/não são (2) idênticos\n\n5.3. Todos os componentes susceptíveis de servir de suporte à estrutura de protecção são/não são (2) idênticos\n\n5.4. As prescrições do ponto 3.4, quarto travessão, do anexo I são/não são (2) respeitadas\n\n6. Apresentado à homologação CEE em...\n\n7. Laboratório de ensaio...\n\n8. Data e número do relatório do laboratório...\n\n9. Data da homologação/da recusa/da revogação da homologação CEE (2)...\n\n10. Data da extensão da homologação/da recusa/da revogação da extensão da homologação CEE (2)\n\n11. Local...\n\n12. Data...\n\n13. Estão anexados os seguintes documentos, que ostentam o número de homologação CEE indicado acima (por exemplo, relatório de ensaio)...\n\n14. Observações eventuais...\n\n15. Assinatura...\n\n(1) Indicar, se for caso disso, se se trata de uma primeira, segunda, etc., extensão relativamente à recepção CEE inicial.(2) Riscar a que não interessa."
+  },
+  "9f4a169cfb82a986": {
+   "fragment_id": "ANEXO VIII — CONDIÇÕES DE RECEPÇÃO CEE",
+   "type": "divisao",
+   "heading": "ANEXO VIII — CONDIÇÕES DE RECEPÇÃO CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — CONDIÇÕES DE RECEPÇÃO CEE\n\n1. O pedido de recepção CEE de um modelo de tractor no que respeita a resistência da estrutura de protecção e da sua fixação ao tractor deve ser apresentado pelo fabricante do tractor ou seu mandatário.\n\n2. Deve ser apresentado ao serviço técnico encarregado dos ensaios de recepção um tractor representativo do modelo a recepcionar, no qual esteja montada uma estrutura de protecção e a sua fixação, devidamente homologadas.\n\n3. O serviço técnico encarregado dos ensaios de recepção deve verificar se o tipo da estrutura de protecção homologado se destina a ser montado no modelo de tractor para o qual a recepção é pedida. Deve verificar nomeadamente se a fixação da estrutura de protecção corresponde à que foi ensaiada por ocasião da homologação CEE.\n\n4. O detentor da recepção CEE pode pedir que esta seja estendida a outros tipos de estruturas de protecção.\n\n5. As autoridades competentes concederão esta extensão nas seguintes condições:\n\n5.1. O novo tipo de estrutura de protecção e a sua fixação ao tractor terem sido objecto de uma homologação CEE.\n\n5.2. Ser concebido para ser montado no modelo de tractor para o qual foi pedida a extensão da recepção CEE.\n\n5.3. A fixação tractor da estrutura de protecção corresponder à que foi ensaiada por ocasião da homologação CEE.\n\n6. Uma ficha cujo modelo figura no Anexo IX deve ser anexada à ficha de recepção CEE para cada recepção ou extensão de recepção concedida ou recusada.\n\n7. Se o pedido de recepção CEE de um modelo de tractor for apresentado ao mesmo tempo que o pedido de homologação CEE de um tipo de estrutura de protecção destinado a ser montado a ser montado no modelo de tractor para o qual é pedida a recepção CEE, não serão efectuadas as verificações previstas nos pontos 2 e 3."
+  },
+  "42b47c234d8f682d": {
+   "fragment_id": "ANEXO IX — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO IX — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — MODELO\n\nDenominação da autoridade administrativa\n\nANEXO À FICHA DE RECEPÇÃO CEE DE UM MODELO DE TRACTOR NO QUE RESPEITA RESISTÊNCIA DAS ESTRUTURAS DE PROTECÇÃO (CABINA OU QUADRO DE SEGURANÇA) E DA SUA FIXAÇÃO AO TRACTOR\n\n(Ensaios estáticos)\n\n(No 2 do Artigo 4o e Artigo 10o da Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos tractores agrícolas ou florestais de rodas)\n\nNúmero de recepção CEE... extensão (1)\n\n1. Marca de fabrico ou comercial do tractor...\n\n2. Modelo do tractor...\n\n3. Nome e morada do fabricante do tractor...\n\n4. Se for caso disso, nome e morada do mandatário...\n\n5. Marca de fabrico ou comercial da estrutura de protecção...\n\n6. Extensão da recepção CEE aos seguintes tipos de estruturas de protecção:...\n\n7. Tractor apresentado à recepção CEE em...\n\n8. Serviço técnico ancarregado do controlo de conformidade para a recepção CEE...\n\n9. Data do relatório emitido por este serviço...\n\n10. Número do relatório emitido por este serviço...\n\n11. A recepção CEE no que respeita a resistência das estruturas de protecção e da sua fixação ao tractor é concedida/recusada (2)\n\n12. A extensão da recepção CEE no que respeita a resistência das estruturas de protecção e da sua fixação ao tractor é concedida/recusada (2)\n\n13. Local...\n\n14. Data...\n\n15. Assinatura...\n\n(1) Indicar, se for caso disso, se se trata de uma primeira, segunda, etc., extensão relativamente à recepção CEE inicial.(2) Riscar o que não interessa."
+  },
+  "5b9c3ec1e77533f6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1979L0622 — PT — 01.01.2010 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31979L0622) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31979L0622) [de 25 de Junho de 1979](http://publications.europa.eu/resource/celex/31979L0622) [relativa à aproximação das legislações dos Estados-membros respeitantes aos dispositivos de protecção em caso de capotagem de tractores agrícolas ou florestais de rodas (ensaios estáticos)](http://publications.europa.eu/resource/celex/31979L0622) [(79/622/CEE)](http://publications.europa.eu/resource/celex/31979L0622) (JO L 179, 17.7.1979, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/75/CE do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009L0075) — L 261 — 40 — 3.10.2009"
+  }
+ }
+}

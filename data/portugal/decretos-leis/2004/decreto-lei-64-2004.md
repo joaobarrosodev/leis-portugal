@@ -1,0 +1,339 @@
+---
+schema_version: '1.0'
+id: pt:dre:541267:por
+title: Decreto-Lei n.º 64/2004
+short_title: null
+summary: Estabelece as regras gerais de aplicação do Plano de Desenvolvimento Rural (RURIS)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 64/2004
+official_date: null
+publication_date: '2004-03-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 69/2004, Série I-A de 2004-03-22
+  number: '69'
+  series: I
+  supplement: null
+  pages: 1612 - 1615
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/03/069a00/16121615.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/64/2004/03/22/p/dre/pt/html
+  oj: null
+  dre: '541267'
+  dre_path: /dr/detalhe/decreto-lei/64-2004-541267
+  internal: pt:dre:541267:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2004-541267
+  metadata_url: https://data.dre.pt/eli/dec-lei/64/2004/03/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2004-541267
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8adc3c0f54d3eab59678251e18347c31756db554de26d2ac03f810c820068d69
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arborização
+- Comissão de Acompanhamento
+- Definição de Competências
+- Desenvolvimento Rural
+- Ifadap
+- Instituto de Desenvolvimento Rural e Hidráulica
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Piddac
+- Plano de Desenvolvimento
+- Reforma Antecipada
+- Ruris
+relationships:
+- type: amended_by
+  target: pt:dre:571914:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31992R2078
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2078/oj
+- type: cites
+  target: celex:31992R2079
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2079/oj
+- type: cites
+  target: celex:31992R2080
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2080/oj
+- type: cites
+  target: celex:31995R1663
+  label: null
+  source: http://data.europa.eu/eli/reg/1995/1663/oj
+- type: cites
+  target: celex:32001R2419
+  label: null
+  source: http://data.europa.eu/eli/reg/2001/2419/oj
+- type: cites
+  target: celex:32002R0445
+  label: null
+  source: http://data.europa.eu/eli/reg/2002/445/oj
+- type: repealed_by
+  target: pt:dre:571914:por
+  label: "Revogados, na parte relativa à intervenção «Reforma Antecipada», os arts. 5.º e 8.º, bem como revogado, na parte\
+    \ em que se refere ao Regulamento (CEE) n.º 2079/92, do Conselho, de 30 de junho de 1992, o n.º 1 do art. 16.º pelo DEC\
+    \ LEI.38/2014.14.03.2014.MAGM, DR.IS [52] de 14.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2014-571914
+  date: '2014-03-14'
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:46:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 64/2004
+
+de 22 de Março
+
+O Plano de Desenvolvimento Rural, abreviadamente designado por RURIS, através das suas quatro intervenções, a saber, «Medidas agro-ambientais», «Indemnizações compensatórias», «Florestação de terras agrícolas» e «Reforma antecipada», apresenta, como objectivo estratégico, a promoção de uma agricultura competitiva em aliança com o desenvolvimento rural sustentável.
+
+Por sua vez, o Decreto-Lei n.º 8/2001, de 22 de Janeiro, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 202/2001, de 13 de Julho, veio estabelecer as regras gerais de aplicação do RURIS e a respectiva estrutura orgânica, que prevê, designadamente, que o director-geral do Desenvolvimento Rural seja, por inerência, o gestor do RURIS.
+
+Porque foi entretanto criado o Instituto de Desenvolvimento Rural e Hidráulica, resultante da fusão da Direcção-Geral do Desenvolvimento Rural (DGDR) e do Instituto de Hidráulica e Engenharia Rural e Ambiente (IHERA), torna-se necessário proceder a algumas alterações ao nível da gestão e processamento das ajudas no âmbito do RURIS.
+
+Finalmente, o presente diploma insere-se num processo de simplificação da coordenação e gestão das diversas intervenções, por forma a tornar mais célere a respectiva aplicação, quer para a Administração, quer para os agricultores.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece as regras gerais de aplicação do Plano de Desenvolvimento Rural, abreviadamente designado por RURIS, para o período que decorre até 2006.
+
+###### Artigo 2.º — Âmbito territorial de aplicação
+
+O RURIS aplica-se em todo o território do continente, sem prejuízo de, no âmbito dos regulamentos específicos de cada intervenção, se estabelecerem restrições de natureza geográfica.
+
+###### Artigo 3.º — Intervenções
+
+1 - O RURIS integra as seguintes intervenções:
+
+a) «Reforma antecipada»;
+
+b) «Indemnizações compensatórias»;
+
+c) «Medidas agro-ambientais»;
+
+d) «Florestação de terras agrícolas».
+
+2 - Os regulamentos específicos de aplicação de cada uma das intervenções previstas no número anterior são objecto de portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas, com excepção da intervenção «Reforma antecipada», cuja portaria é conjunta dos Ministros da Agricultura, Desenvolvimento Rural e Pescas e da Segurança Social e do Trabalho, nos quais consta o seguinte:
+
+a) Os objectivos da intervenção;
+
+b) As medidas a apoiar;
+
+c) A área geográfica de aplicação;
+
+d) A natureza dos beneficiários;
+
+e) As condições de atribuição;
+
+f) As obrigações dos beneficiários;
+
+g) A forma, nível e valores das ajudas;
+
+h) O processo de candidatura e contratação.
+
+###### Artigo 4.º — Acções de arborização
+
+1 - As acções de arborização enquadráveis na intervenção «Florestação de terras agrícolas» referida na alínea d) do n.º 1 do artigo 3.º consideram-se para todos os efeitos como actividade agrícola.
+
+2 - São proibidas as acções de arborização em terrenos de uso agrícola beneficiados por obras de fomento hidroagrícola ou em terrenos para os quais haja projectos de execução já aprovados, com excepção dos solos das classes V, VI e VII de aptidão ao regadio, bem como a arborização de áreas agrícolas que assegurem a descontinuidade de importantes manchas florestais, a definir no âmbito dos planos regionais de ordenamento florestal.
+
+3 - As acções de arborização referidas no n.º 1 que tenham por objecto prédios situados na Rede Nacional de Áreas Protegidas carecem de parecer prévio dos serviços competentes do Ministério das Cidades, Ordenamento do Território e Ambiente e nas restantes áreas classificadas.
+
+4 - O disposto no n.º 1 aplica-se às candidaturas apresentadas e já aprovadas no âmbito da intervenção «Florestação de terras agrícolas».
+
+###### Artigo 5.º — Coordenação
+
+1 - A coordenação do RURIS é da competência do Instituto de Desenvolvimento Rural e Hidráulica (IDRHa).
+
+2 - Para efeitos do disposto no número anterior, ao IDRHa compete, nomeadamente, o seguinte:
+
+a) Propor a regulamentação relativa a cada uma das intervenções, ouvidos o Instituto Nacional de Intervenção e Garantia Agrícola (INGA) e o Instituto de Financiamento e Apoio à Agricultura e Pescas (IFADAP), nas suas qualidades de organismos pagadores, nos termos do Regulamento (CE) n.º [1663/95](http://data.europa.eu/eli/reg/1995/1663/oj?locale=pt), da Comissão, de 7 de Julho;
+
+b) Propor alterações ao RURIS, por sua própria iniciativa ou sob proposta da comissão de acompanhamento referida no artigo 8.º;
+
+c) Elaborar, anualmente, a previsão das despesas, para cumprimento da alínea b) do n.º 1 do artigo 47.º do Regulamento (CE) n.º [445/2002](http://data.europa.eu/eli/reg/2002/445/oj?locale=pt), da Comissão, de 26 de Fevereiro, e assegurar a inscrição no PIDDAC das verbas necessárias para a cobertura orçamental das candidaturas;
+
+d) Definir e tratar os dados físicos, financeiros e estatísticos sobre a execução para a elaboração dos indicadores de acompanhamento e para as avaliações intercalar e final e enviá-los à Comissão Europeia;
+
+e) Elaborar anualmente os relatórios de execução do RURIS;
+
+f) Promover e acompanhar a avaliação intercalar e a avaliação final do RURIS.
+
+###### Artigo 6.º — Organismo pagador
+
+Compete ao INGA e ao IFADAP, nas suas qualidades de organismos pagadores:
+
+a) Definir os procedimentos administrativos relativos à apresentação e tramitação dos pedidos de ajuda, bem como verificar a satisfação das condições da sua elegibilidade para pagamento e autorizar a realização da correspondente despesa;
+
+b) Assegurar a recolha dos dados físicos, financeiros e estatísticos sobre a execução, para elaboração dos indicadores de acompanhamento e para as avaliações intercalar e final;
+
+c) Proceder ao acompanhamento das ajudas concedidas;
+
+d) Elaborar pareceres técnicos sobre a intervenção, bem como sobre as dúvidas de aplicação e interpretação da regulamentação nacional e comunitária;
+
+e) Comunicar à Comissão Europeia, com conhecimento ao IDRHa, as informações a que se refere o artigo 47.º do Regulamento (CE) n.º [445/2002](http://data.europa.eu/eli/reg/2002/445/oj?locale=pt), da Comissão, de 26 de Fevereiro;
+
+f) Praticar os demais actos necessários à regular e plena execução do RURIS.
+
+###### Artigo 7.º — Dever de colaboração
+
+1 - O IDRHa, o INGA, o IFADAP e os demais organismos envolvidos na execução do RURIS devem colaborar reciprocamente entre si, nomeadamente na prestação de informações no âmbito da execução física e financeira dos regimes de ajudas abrangidos no presente diploma.
+
+2 - O INGA e o IFADAP podem delegar, no todo ou em parte, na Direcção-Geral das Florestas e nas direcções regionais de agricultura as competências previstas nas alíneas b), c) e f) do artigo anterior, enquanto organismos pagadores, nos termos previstos no anexo ao Regulamento n.º [1663/95](http://data.europa.eu/eli/reg/1995/1663/oj?locale=pt), da Comissão, de 7 de Julho.
+
+###### Artigo 8.º — Acompanhamento
+
+1 - O acompanhamento da execução do RURIS incumbe a uma comissão de acompanhamento presidida por um representante do IDRHa e integrada por representantes das seguintes entidades:
+
+a) Um representante do IDRHa;
+
+b) Um representante do Gabinete de Planeamento e Política Agro-Alimentar;
+
+c) Um representante da Direcção-Geral das Florestas;
+
+d) Um representante da Direcção-Geral de Veterinária;
+
+e) Um representante da Direcção-Geral de Protecção das Culturas;
+
+f) Um representante do Auditor do Ambiente do Ministério da Agricultura, Desenvolvimento Rural e Pescas;
+
+g) Um representante de cada uma das direcções regionais de agricultura;
+
+h) Um representante do INGA;
+
+i) Um representante do IFADAP;
+
+j) Um representante do Ministério das Cidades, Ordenamento do Território e Ambiente;
+
+l) Um representante do Ministério da Segurança Social e do Trabalho;
+
+m) Um representante da Associação Nacional de Municípios Portugueses;
+
+n) Representantes dos parceiros económicos e sociais com assento no Conselho Económico e Social, designados por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas;
+
+o) Representantes da Comissão Europeia.
+
+2 - Podem, ainda, integrar a comissão de acompanhamento, na qualidade de observadores, um representante da Inspecção-Geral e Auditoria de Gestão do Ministério da Agricultura, Desenvolvimento Rural e Pescas e um representante da Inspecção-Geral de Finanças.
+
+3 - A comissão de acompanhamento pode, quando a especificidade das matérias o justificar, reunir com o número restrito de membros, nos termos previstos no respectivo regulamento interno.
+
+4 - Compete à comissão de acompanhamento, nomeadamente, o seguinte:
+
+a) Elaborar e aprovar o respectivo regulamento interno;
+
+b) Avaliar periodicamente os progressos realizados na prossecução dos objectivos específicos de cada intervenção;
+
+c) Analisar os resultados da execução, nomeadamente a realização dos objectivos definidos para as diferentes intervenções, bem como a avaliação intercalar e final;
+
+d) Dar parecer sobre o relatório anual de execução e o relatório final de execução, antes do seu envio à Comissão Europeia;
+
+e) Propor ao IDRHa adaptações ou revisões das intervenções que permitam alcançar os objectivos definidos ou aperfeiçoar a sua gestão, inclusivamente a sua gestão financeira.
+
+###### Artigo 9.º — Forma das ajudas
+
+Os apoios a conceder no âmbito do presente diploma assumem a forma de compensações financeiras não reembolsáveis.
+
+###### Artigo 10.º — Pagamento
+
+O pagamento das ajudas no âmbito das intervenções referidas no n.º 1 do artigo 3.º é processado pelo INGA e pelo IFADAP, nos termos dos respectivos regulamentos de aplicação.
+
+###### Artigo 11.º — Controlo
+
+O controlo físico dos pedidos às ajudas das intervenções referidas no n.º 1 do artigo 3.º é assegurado pelo INGA e pelo IFAPAD, aos quais cabe definir as respectivas amostras e tomar as decisões dele decorrentes, devendo o resultado dos controlos ser comunicado ao IDRHa.
+
+###### Artigo 12.º — Incumprimento
+
+Em caso de incumprimento pelo beneficiário de qualquer das obrigações e compromissos previstos no regulamento específico de cada uma das intervenções identificadas no n.º 1 do artigo 3.º, fica o mesmo sujeito à aplicação das respectivas penalizações, sem prejuízo da aplicação do artigo 63.º do Regulamento (CE) n.º [445/2002](http://data.europa.eu/eli/reg/2002/445/oj?locale=pt), da Comissão, de 26 de Fevereiro.
+
+###### Artigo 13.º — Reembolso das ajudas
+
+1 - Em caso de pagamento indevido, o beneficiário deve reembolsar o montante em causa, em conformidade com o disposto no artigo 49.º do Regulamento (CE) n.º [2419/2001](http://data.europa.eu/eli/reg/2001/2419/oj?locale=pt), da Comissão, de 11 de Dezembro, podendo a recuperação desse montante ser efectuada em qualquer adiantamento ou pagamento, no âmbito do FEOGA-Garantia, processado pelo INGA e pelo IFADAP.
+
+2 - Dentro de cada uma das intervenções previstas no n.º 1 do artigo 3.º, o organismo pagador pode não exigir o reembolso do montante inferior ou igual a (euro) 100, excluindo os juros.
+
+###### Artigo 14.º — Cobertura orçamental
+
+1 - A cobertura orçamental das despesas públicas decorrentes da aplicação do presente diploma é assegurada por verbas comunitárias e do Orçamento do Estado.
+
+2 - As verbas relativas à gestão e acompanhamento do RURIS são suportadas pelo Orçamento do Estado, sendo os respectivos encargos inscritos anualmente no PIDDAC do Ministério da Agricultura, Desenvolvimento Rural e Pescas.
+
+###### Artigo 15.º — Direitos e obrigações
+
+O IDRHa assume os direitos e obrigações emergentes dos contratos de trabalho celebrados no âmbito da estrutura de apoio técnico do RURIS.
+
+###### Artigo 16.º — Disposições transitórias
+
+1 - Sem prejuízo das competências do IFADAP, enquanto organismo contratante e pagador, a avaliação dos projectos em execução a que se referem os Regulamentos (CEE) n.os [2078/92](http://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), [2079/92](http://data.europa.eu/eli/reg/1992/2079/oj?locale=pt), e [2080/92](http://data.europa.eu/eli/reg/1992/2080/oj?locale=pt), todos do Conselho, de 30 de Junho, é da competência do IDRHa.
+
+2 - O organismo pagador pode não exigir o reembolso de montante inferior ou igual a (euro) 100, excluindo os juros, resultante da rescisão de contrato celebrado ao abrigo de cada um dos regulamentos referidos no número anterior.
+
+3 - Até à publicação dos regulamentos referidos no n.º 2 do artigo 3.º do presente diploma, mantêm-se em vigor os regulamentos aprovados ao abrigo do Decreto-Lei n.º 8/2001, de 22 de Janeiro, na parte aplicável.
+
+###### Artigo 17.º — Norma revogatória
+
+São revogados os Decretos-Leis n.os 8/2001, de 22 de Janeiro, e 202/2001, de 13 de Julho.
+
+###### Artigo 18.º — Ratificação
+
+São ratificados todos os actos praticados pelo IDRHa, bem como pelo INGA e pelo IFADAP, enquanto organismos pagadores, no âmbito do RURIS, desde a entrada em vigor do Decreto-Lei n.º 246/2002, de 8 de Novembro, que aprova a Lei Orgânica do Ministério da Agricultura, Desenvolvimento Rural e Pescas.
+
+Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Armando José Cordeiro Sevinate Pinto - António José de Castro Bagão Félix - Amílcar Augusto Contel Martins Theias.
+
+Promulgado em 10 de Março de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 14 de Março de 2004.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.

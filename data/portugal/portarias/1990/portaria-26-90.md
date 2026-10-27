@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:313782:por
+title: Portaria n.º 26/90
+short_title: null
+summary: Fixa o preço máximo de venda ao público da batata de consumo, bem como a margem de comercialização para o retalhista.
+  Revoga as Portarias n.os 271-A/84, de 30 de Abril, e 10/88, de 6 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 26/90
+official_date: null
+publication_date: '1990-01-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/1990, Série I de 1990-01-11
+  number: '9'
+  series: I
+  supplement: null
+  pages: 139 - 140
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/01/00900/01390140.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '313782'
+  dre_path: /dr/detalhe/portaria/26-1990-313782
+  internal: pt:dre:313782:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-1990-313782
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-1990-313782
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:16:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9c10afcc2e5e730fd960862d85f7f55966440f311db524248dd77902f2e545b9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Batata
+- Margens de Comercialização
+- Preço
+- Preço de Venda
+- Preço Máximo
+relationships:
+- type: cites
+  target: pt:dre:483457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583458:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:150311:por
+  label: Rectificado o n.º 2 pela DECL.DD3287.1990.01.22.PCM DR.IS [26]2ºSupl de 31.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-150311
+  date: '1990-01-22'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:16:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 26/90
+
+de 11 de Janeiro
+
+As actuais condições da oferta nacional e internacional de batata de consumo recomendam a flexibilização do actual regime de preços, com vista a garantir um abastecimento adequado.
+
+Assim, ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, e da [Portaria n.º 650/81](https://diariodarepublica.pt/dr/detalhe/portaria/650-1981-579351), de 29 de Junho:
+
+Manda o Governo, pelo Ministro do Comércio e Turismo, o seguinte:
+
+1.º A batata de consumo, incluindo a nova ou primor, fica sujeita ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+
+2.º O preço máximo de venda ao público de consumo é fixado em 42$00 por quilograma.
+
+3.º A margem máxima de comercialização para o retalhista é de 30% sobre o preço de aquisição ao armazenista, sendo a margem mínima de 3$50 e 2$80 por quilograma, respectivamente para a batata de consumo a granel ou já pré-embalada.
+
+4.º São revogadas as Portarias n.os [271-A/84](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-1984-483457), de 30 de Abril, e [10/88](https://diariodarepublica.pt/dr/detalhe/portaria/10-1988-583458), de 6 de Janeiro.
+
+5.º A partir de 1 de Maio de 1990 a batata de consumo fica sujeita ao regime de preços vigiados em todos os estádios do circuito de comercialização.
+
+6.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério do Comércio e Turismo.
+
+Assinada em 29 de Dezembro de 1989.
+
+O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

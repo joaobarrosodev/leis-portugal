@@ -1,0 +1,626 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:126467884:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-161928927",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2019-126467884",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-11-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "161904640",
+    "161904641",
+    "161904642",
+    "161904643",
+    "161904644",
+    "161904645",
+    "161904646",
+    "161904647",
+    "161904648",
+    "161904649",
+    "161904650",
+    "161904651",
+    "161904652",
+    "161904653",
+    "161904654",
+    "161904655",
+    "161904656",
+    "161904657",
+    "161904658",
+    "161904659",
+    "161904660",
+    "161904661",
+    "161904662",
+    "161904663",
+    "161904664",
+    "161904665",
+    "161904666",
+    "161904667",
+    "161904668",
+    "161904669",
+    "161904670",
+    "161904671",
+    "161904672",
+    "161904673",
+    "161904674",
+    "161987175",
+    "161987176",
+    "161987177",
+    "161987178",
+    "161987179",
+    "161987180",
+    "161987181",
+    "161987182",
+    "161987183",
+    "161987184",
+    "161987185",
+    "161987186",
+    "161987187",
+    "161987188",
+    "161987189",
+    "161987190",
+    "161987191",
+    "161987192",
+    "161987193",
+    "161987194",
+    "161987195",
+    "161987196"
+   ]
+  },
+  {
+   "date": "2021-04-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:161904521:por",
+     "title": "Decreto Legislativo Regional n.º 12/2021/A",
+     "published": "2021-04-22",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2021-161904521"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º-A"
+   ],
+   "fragments": [
+    "161904640",
+    "161904641",
+    "161904642",
+    "161904643",
+    "161904644",
+    "161904645",
+    "161904646",
+    "161904647",
+    "161904648",
+    "161904649",
+    "161904650",
+    "161904651",
+    "161904652",
+    "161904653",
+    "161904654",
+    "161904655",
+    "161904656",
+    "161904657",
+    "161904658",
+    "161904659",
+    "161904660",
+    "161904661",
+    "161904662",
+    "161904663",
+    "161904664",
+    "161904665",
+    "161985764",
+    "161904666",
+    "161904667",
+    "161904668",
+    "161904669",
+    "161904670",
+    "161904671",
+    "161904672",
+    "161904673",
+    "161904674",
+    "161987175",
+    "161987176",
+    "161987177",
+    "161987178",
+    "161987179",
+    "161987180",
+    "161987181",
+    "161987182",
+    "161987183",
+    "161987184",
+    "161987185",
+    "161987186",
+    "161987187",
+    "161987188",
+    "161987189",
+    "161987190",
+    "161987191",
+    "161987192",
+    "161987193",
+    "161987194",
+    "161987195",
+    "161987196",
+    "161987197"
+   ]
+  }
+ ],
+ "fragments": {
+  "161904640": {
+   "fragment_id": "161928928",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 26/2019/A\n\nSumário: Regime Jurídico do Sistema de Proteção Civil da Região Autónoma dos Açores.\n\nRegime Jurídico do Sistema de Proteção Civil da Região Autónoma dos Açores\n\nA Lei n.º 27/2006, de 3 de julho, alterada pela Lei Orgânica n.º 1/2011, de 30 de novembro, e pela Lei n.º 80/2015, de 3 de agosto, aprovou a Lei de Bases da Proteção Civil, que regula a atividade de proteção civil desenvolvida pelo Estado, Regiões Autónomas, autarquias locais, pelos cidadãos e por todas as entidades públicas e privadas com a finalidade de prevenir riscos coletivos inerentes a situações de acidente grave ou catástrofe, de atenuar os seus efeitos e proteger as pessoas e bens em perigo.\n\nA Lei de Bases da Proteção Civil define os princípios gerais aplicáveis às atividades de proteção civil e os deveres gerais e especiais de colaboração entre várias entidades na prossecução dos fins da proteção civil.\n\nNos termos do artigo 60.º da aludida Lei de Bases, nas Regiões Autónomas, os serviços de proteção civil dependem dos respetivos órgãos de governo próprio, sendo que os componentes do sistema de proteção civil, a responsabilidade sobre a respetiva política e a estruturação dos serviços de proteção civil devem ser definidos por diploma da Assembleia Legislativa Regional.\n\nAtendendo às especificidades próprias da Região Autónoma dos Açores e dos municípios açorianos, importa que seja definido o Regime Jurídico do Sistema de Proteção Civil da Região Autónoma dos Açores.\n\nPretende-se com esta proposta de decreto legislativo regional consolidar a doutrina operacional relativa à coordenação das diversas entidades que atuam como agentes de proteção civil.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º e do n.º 1 e da alínea b) do n.º 2 do artigo 66.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "161904641": {
+   "fragment_id": "161928929",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "161904642": {
+   "fragment_id": "161928930",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e princípios\n\n1 - O presente diploma estabelece as normas estruturantes do Sistema de Proteção Civil da Região Autónoma dos Açores, no que se refere aos componentes do sistema de proteção civil, à responsabilidade sobre a respetiva política e à estruturação dos serviços de proteção civil.\n\n2 - O Sistema de Proteção Civil da Região Autónoma dos Açores é instituído em função das necessidades de proteção civil da Região e desenvolve-se em obediência aos princípios estabelecidos pela Lei de Bases da Proteção Civil."
+  },
+  "161904643": {
+   "fragment_id": "161928931",
+   "type": 11,
+   "heading": "Artigo 2.º — Sistema de Proteção Civil da Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sistema de Proteção Civil da Região Autónoma dos Açores\n\n1 - O Sistema de Proteção Civil da Região Autónoma dos Açores consiste no conjunto articulado de todas as atividades desenvolvidas pelos agentes de proteção civil com a finalidade de prevenir riscos coletivos inerentes a situações de acidente grave ou catástrofe, bem como de atenuar os seus efeitos, proteger e socorrer as pessoas e bens em perigo quando aquelas situações ocorram.\n\n2 - No plano operacional, as ações de proteção civil desenvolvem-se de acordo com o Sistema Integrado de Operações de Proteção e Socorro da Região Autónoma dos Açores."
+  },
+  "161904644": {
+   "fragment_id": "161928932",
+   "type": 1,
+   "heading": "Capítulo II — Alerta, contingência e calamidade pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Alerta, contingência e calamidade pública regional"
+  },
+  "161904645": {
+   "fragment_id": "161928933",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "161904646": {
+   "fragment_id": "161928934",
+   "type": 11,
+   "heading": "Artigo 3.º — Alerta, contingência e calamidade pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alerta, contingência e calamidade pública regional\n\n1 - Sem prejuízo do caráter permanente da atividade de proteção civil, os órgãos competentes podem, consoante a natureza dos acontecimentos a prevenir ou a enfrentar e a gravidade e extensão dos seus efeitos atuais ou expectáveis:\n\na) Declarar a situação de alerta;\n\nb) Declarar a situação de contingência;\n\nc) Declarar a situação de calamidade pública regional.\n\n2 - Os atos a que se referem as alíneas do número anterior correspondem ao reconhecimento da adoção de medidas adequadas e proporcionais à necessidade de enfrentar graus crescentes de risco.\n\n3 - A declaração de situação de contingência ou de situação de calamidade pública regional pressupõe, numa lógica de subsidiariedade, a existência prévia dos atos correspondentes aos patamares precedentes, salvo na ocorrência de fenómenos cuja gravidade e extensão justifiquem e determinem a declaração imediata de um dos patamares superiores.\n\n4 - A declaração de situação de alerta, de situação de contingência e de situação de calamidade pública regional pode reportar-se a qualquer parcela do território da Região Autónoma dos Açores, adotando um âmbito inframunicipal, municipal, supramunicipal ou regional."
+  },
+  "161904647": {
+   "fragment_id": "161928935",
+   "type": 11,
+   "heading": "Artigo 4.º — Pressupostos das situações de alerta, contingência e calamidade pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pressupostos das situações de alerta, contingência e calamidade pública regional\n\n1 - A situação de alerta pode ser declarada quando, face à ocorrência ou iminência de ocorrência de algum ou alguns dos acontecimentos de acidente grave ou catástrofe, é reconhecida a necessidade de adotar medidas preventivas e ou medidas especiais de reação.\n\n2 - A situação de contingência pode ser declarada quando, face à ocorrência ou iminência de ocorrência de algum ou alguns dos acontecimentos de acidente grave ou catástrofe, é reconhecida a necessidade de adotar medidas preventivas e ou medidas especiais de reação não mobilizáveis no âmbito municipal.\n\n3 - A situação de calamidade pública regional pode ser declarada quando, face à ocorrência ou perigo de ocorrência de algum ou alguns acontecimentos graves provocados pela ação do homem ou da natureza, os quais, atingindo zonas delimitadas do arquipélago e causando elevados prejuízos materiais e, eventualmente, vítimas, tornem necessário, durante um período de tempo determinado, o estabelecimento de medidas de caráter excecional destinadas a repor a normalidade das condições de vida nas zonas abrangidas por tais acontecimentos."
+  },
+  "161904648": {
+   "fragment_id": "161928936",
+   "type": 11,
+   "heading": "Artigo 5.º — Obrigação de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigação de colaboração\n\nDeclarada uma das situações previstas no n.º 1 do artigo 3.º, todos os cidadãos e demais entidades privadas estão obrigados, na área abrangida, a prestar às autoridades de proteção civil a colaboração que lhes for requerida, respeitando as ordens e orientações que lhes forem dirigidas e correspondendo às respetivas solicitações."
+  },
+  "161904649": {
+   "fragment_id": "161928937",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\n1 - Sem prejuízo da necessidade de publicação, os atos que declaram a situação de alerta ou a de contingência, bem como a resolução do Conselho do Governo Regional que declara a situação de calamidade pública regional, produzem efeitos imediatos.\n\n2 - Nos casos referidos no número anterior, o autor da declaração deve diligenciar pela mais ampla difusão do seu conteúdo, tendo em conta os meios disponíveis, devendo, logo que possível, assegurar a sua divulgação na página da Internet da entidade que a proferiu e ou do Governo Regional."
+  },
+  "161904650": {
+   "fragment_id": "161928938",
+   "type": 8,
+   "heading": "Secção II — Alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Alerta"
+  },
+  "161904651": {
+   "fragment_id": "161928939",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência para declaração de alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência para declaração de alerta\n\n1 - Cabe ao membro do Governo Regional com competência em matéria de proteção civil, sob proposta do presidente do Serviço Regional de Proteção Civil e Bombeiros dos Açores, declarar a situação de alerta no todo ou em parte do território da Região Autónoma dos Açores, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos municípios abrangidos, sem prejuízo do disposto no artigo 38.º\n\n2 - Cabe ao presidente da câmara municipal declarar a situação de alerta de âmbito municipal."
+  },
+  "161904652": {
+   "fragment_id": "161928940",
+   "type": 11,
+   "heading": "Artigo 8.º — Ato e âmbito material de declaração de alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ato e âmbito material de declaração de alerta\n\n1 - O ato que declara a situação de alerta reveste a forma de despacho e menciona expressamente:\n\na) A natureza do acontecimento que originou a situação declarada;\n\nb) O âmbito temporal e territorial;\n\nc) Os procedimentos adequados à coordenação técnica e operacional dos serviços e agentes de proteção civil, bem como dos recursos a utilizar;\n\nd) As medidas preventivas a adotar adequadas ao acontecimento que originou a situação declarada;\n\ne) Os limites ou condicionamentos à circulação ou permanência de pessoas, outros seres vivos ou veículos, por razões de segurança dos próprios ou das operações.\n\n2 - A declaração da situação de alerta determina o acionamento das estruturas de coordenação institucional territorialmente competentes, as quais asseguram a articulação de todos os agentes, entidades e instituições envolvidos nas operações de proteção e socorro.\n\n3 - A declaração da situação de alerta determina ainda o acionamento das estruturas de coordenação política territorialmente competentes, as quais avaliam a necessidade de ativação do plano de emergência de proteção civil do respetivo nível territorial.\n\n4 - A declaração da situação de alerta determina uma obrigação especial de colaboração dos meios de comunicação social, em particular das rádios e das televisões, bem como das operadoras móveis de telecomunicações, com as estruturas de coordenação política e institucional, visando a divulgação das informações relevantes relativas à situação."
+  },
+  "161904653": {
+   "fragment_id": "161928941",
+   "type": 8,
+   "heading": "Secção III — Contingência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Contingência"
+  },
+  "161904654": {
+   "fragment_id": "161928942",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência para declaração de contingência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência para declaração de contingência\n\nA declaração da situação de contingência cabe ao membro do Governo Regional com competência em matéria de proteção civil, sob proposta do presidente do Serviço Regional de Proteção Civil e Bombeiros dos Açores, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos municípios abrangidos, sem prejuízo do disposto no artigo 38.º"
+  },
+  "161904655": {
+   "fragment_id": "161928943",
+   "type": 11,
+   "heading": "Artigo 10.º — Ato e âmbito material de declaração de contingência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Ato e âmbito material de declaração de contingência\n\n1 - O ato que declara a situação de contingência reveste a forma de despacho e menciona expressamente:\n\na) A natureza do acontecimento que originou a situação declarada;\n\nb) O âmbito temporal e territorial;\n\nc) O estabelecimento de diretivas específicas relativas à atividade operacional dos agentes de proteção civil e das entidades e instituições envolvidas nas operações de proteção e socorro;\n\nd) Os procedimentos de inventariação dos danos e prejuízos provocados;\n\ne) Os critérios de concessão de apoios materiais;\n\nf) Os limites ou condicionamentos à circulação ou permanência de pessoas, outros seres vivos ou veículos, por razões de segurança dos próprios ou das operações.\n\n2 - A declaração da situação de contingência determina o acionamento das estruturas de coordenação política e institucional territorialmente competentes.\n\n3 - A declaração da situação de contingência implica a ativação automática dos planos de emergência de proteção civil do respetivo nível territorial."
+  },
+  "161904656": {
+   "fragment_id": "161928944",
+   "type": 8,
+   "heading": "Secção IV — Calamidade pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Calamidade pública regional"
+  },
+  "161904657": {
+   "fragment_id": "161928945",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência para a declaração de calamidade pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência para a declaração de calamidade pública regional\n\nA declaração da situação de calamidade pública regional é da competência do Governo Regional e reveste a forma de resolução do Conselho do Governo Regional."
+  },
+  "161904658": {
+   "fragment_id": "161928946",
+   "type": 11,
+   "heading": "Artigo 12.º — Ato e âmbito material de declaração de calamidade pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Ato e âmbito material de declaração de calamidade pública regional\n\n1 - A resolução do Conselho do Governo Regional que declara a situação de calamidade pública regional menciona expressamente:\n\na) A natureza do acontecimento que originou a situação declarada;\n\nb) O âmbito temporal e territorial;\n\nc) O estabelecimento de diretivas específicas relativas à atividade operacional dos agentes de proteção civil e das entidades e instituições envolvidas nas operações de proteção e socorro;\n\nd) Os procedimentos de inventariação dos danos e prejuízos provocados;\n\ne) Os critérios de concessão de apoios materiais e financeiros, nos termos legalmente definidos.\n\n2 - A declaração da situação de calamidade pública regional pode ainda estabelecer:\n\na) A mobilização civil de pessoas, por períodos de tempo determinados;\n\nb) A fixação, por razões de segurança dos próprios ou das operações, de limites ou condicionamentos à circulação ou permanência de pessoas, outros seres vivos ou veículos;\n\nc) A fixação de cercas sanitárias e de segurança;\n\nd) A racionalização da utilização dos serviços públicos de transportes, comunicações e abastecimento de água e energia, bem como do consumo de bens de primeira necessidade;\n\ne) A estrutura de coordenação e controlo que, face aos prejuízos inventariados, fará a gestão global dos apoios a que houver lugar, de acordo com os critérios legalmente definidos.\n\n3 - A declaração da situação de calamidade pública regional determina o acionamento das estruturas de coordenação política e institucional territorialmente competentes.\n\n4 - A declaração de calamidade pública regional implica a ativação automática dos planos de emergência de proteção civil do respetivo nível territorial."
+  },
+  "161904659": {
+   "fragment_id": "161928947",
+   "type": 11,
+   "heading": "Artigo 13.º — Reconhecimento antecipado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reconhecimento antecipado\n\n1 - A resolução do Conselho do Governo Regional a que se referem os artigos anteriores pode ser precedida de despacho do Presidente do Governo Regional, com efeitos imediatos, reconhecendo a necessidade de declarar a situação de calamidade pública regional.\n\n2 - O despacho do Presidente do Governo Regional pode, desde logo, adotar as medidas estabelecidas no artigo anterior, com exceção das previstas nas alíneas a) e d) do n.º 2."
+  },
+  "161904660": {
+   "fragment_id": "161928948",
+   "type": 11,
+   "heading": "Artigo 14.º — Acesso aos recursos naturais e energéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acesso aos recursos naturais e energéticos\n\nA declaração de situação de calamidade pública regional legitima, na medida do estritamente necessário à realização das ações destinadas a repor a normalidade das condições de vida, o acesso a recursos naturais e energéticos, nos termos e condições previstos no artigo 23.º da Lei n.º 27/2006, de 3 de julho, na redação atual."
+  },
+  "161904661": {
+   "fragment_id": "161928949",
+   "type": 11,
+   "heading": "Artigo 15.º — Requisição temporária de bens e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Requisição temporária de bens e serviços\n\n1 - A declaração de situação de calamidade pública regional é fundamento suficiente e bastante para requisitar temporariamente bens ou serviços, nomeadamente quanto à verificação da urgência e do interesse público que fundamentem a requisição.\n\n2 - A requisição de bens ou serviços é determinada por despacho conjunto dos membros do Governo Regional com competência nas áreas de finanças e proteção civil, que fixa o seu objeto, o início e o termo previsível do uso, a entidade operacional beneficiária e a entidade responsável pelo pagamento da indemnização por eventuais prejuízos resultantes da requisição.\n\n3 - Aplicam-se, com as necessárias adaptações, as regras relativas à indemnização pela requisição temporária de imóveis constantes do Código das Expropriações."
+  },
+  "161904662": {
+   "fragment_id": "161928950",
+   "type": 11,
+   "heading": "Artigo 16.º — Mobilização dos agentes de proteção civil e socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Mobilização dos agentes de proteção civil e socorro\n\n1 - Os trabalhadores da administração pública regional, direta e indireta, que cumulativamente detenham a qualidade de agente de proteção civil e de socorro estão dispensados do serviço público quando sejam chamados pelo respetivo corpo a fim de enfrentar um acontecimento objeto de declaração de situação de calamidade pública regional.\n\n2 - A dispensa referida no número anterior, quando o serviço de origem seja agente de proteção civil, é precedida de autorização do respetivo órgão dirigente.\n\n3 - As regras e procedimentos relevantes para a aplicação do disposto no n.º 1 são fixadas na resolução do Conselho do Governo Regional que propõe a declaração de situação de calamidade pública regional.\n\n4 - A resolução do Conselho do Governo Regional que propõe a declaração da situação de calamidade pública regional estabelece as condições de dispensa de trabalho e mobilização dos trabalhadores do setor privado que cumulativamente desempenham funções conexas ou de cooperação com os serviços de proteção civil ou de socorro."
+  },
+  "161904663": {
+   "fragment_id": "161928951",
+   "type": 11,
+   "heading": "Artigo 17.º — Gestão dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gestão dos apoios\n\nTodos os apoios a conceder por organismos ou departamentos do Estado serão integrados no âmbito das ações geridas pela estrutura referida na alínea e) do n.º 2 do artigo 12.º"
+  },
+  "161904664": {
+   "fragment_id": "161928952",
+   "type": 11,
+   "heading": "Artigo 18.º — Fixação dos montantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fixação dos montantes\n\nA definição do montante dos apoios a conceder, tendo em conta a avaliação dos danos verificados, é objeto de legislação própria."
+  },
+  "161904665": {
+   "fragment_id": "161928953",
+   "type": 11,
+   "heading": "Artigo 19.º — Declaração de calamidade pública nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Declaração de calamidade pública nacional\n\nA declaração de situação de calamidade pública regional não prejudica o pedido ou a declaração da situação de calamidade pública nacional."
+  },
+  "161904666": {
+   "fragment_id": "161928954",
+   "type": 1,
+   "heading": "Capítulo III — Enquadramento, coordenação, direção e execução da política de proteção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Enquadramento, coordenação, direção e execução da política de proteção civil"
+  },
+  "161904667": {
+   "fragment_id": "161928955",
+   "type": 8,
+   "heading": "Secção I — Direção política",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Direção política"
+  },
+  "161904668": {
+   "fragment_id": "161928956",
+   "type": 11,
+   "heading": "Artigo 20.º — Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Governo Regional\n\n1 - A condução da política de proteção civil é da competência do Governo Regional, que através do respetivo Programa inscreve as principais orientações a adotar ou a propor naquele domínio.\n\n2 - Ao Conselho do Governo Regional compete:\n\na) Definir as linhas gerais da política governamental de proteção civil, bem como a sua execução;\n\nb) Programar e assegurar os meios destinados à execução da política de proteção civil;\n\nc) Declarar a situação de calamidade pública regional;\n\nd) Adotar, no caso previsto na alínea anterior, as medidas de caráter excecional destinadas a repor a normalidade das condições de vida nas zonas atingidas;\n\ne) Deliberar sobre a afetação extraordinária dos meios financeiros indispensáveis à aplicação das medidas previstas na alínea anterior."
+  },
+  "161904669": {
+   "fragment_id": "161928957",
+   "type": 11,
+   "heading": "Artigo 21.º — Presidente do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Presidente do Governo Regional\n\nO Presidente do Governo Regional é responsável pela direção da política de proteção civil, competindo-lhe, designadamente:\n\na) Coordenar e orientar a ação dos membros do Governo Regional nos assuntos relacionados com a proteção civil;\n\nb) Garantir o cumprimento das competências previstas no artigo anterior."
+  },
+  "161904670": {
+   "fragment_id": "161928958",
+   "type": 11,
+   "heading": "Artigo 22.º — Membro do Governo Regional com competência em matéria de proteção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Membro do Governo Regional com competência em matéria de proteção civil\n\n1 - O membro do Governo Regional com competência em matéria de proteção civil é responsável pela coordenação das políticas de proteção civil, competindo-lhe, designadamente:\n\na) Tutelar a atividade do Serviço Regional de Proteção Civil e Bombeiros dos Açores;\n\nb) Desencadear, na iminência ou ocorrência de acidente grave ou catástrofe, as ações de proteção civil de prevenção, socorro, assistência e reabilitação adequadas em cada caso;\n\nc) Declarar as situações de alerta e de contingência no todo ou em parte do território da Região Autónoma dos Açores;\n\nd) Executar as competências que lhe forem delegadas.\n\n2 - No âmbito do exercício das suas competências, o membro do Governo Regional com competência em matéria de proteção civil é apoiado pela Comissão Regional de Proteção Civil dos Açores e pelo Serviço Regional de Proteção Civil e Bombeiros dos Açores."
+  },
+  "161904671": {
+   "fragment_id": "161928959",
+   "type": 11,
+   "heading": "Artigo 23.º — Presidente da câmara municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Presidente da câmara municipal\n\n1 - Compete ao presidente da câmara municipal, no exercício de funções de responsável municipal da política de proteção civil, desencadear, na iminência ou ocorrência de acidente grave ou catástrofe, as ações de proteção civil de prevenção, socorro, assistência e recuperação adequadas em cada caso.\n\n2 - O presidente da câmara municipal é apoiado pelo serviço municipal de proteção civil e pelos restantes agentes de proteção civil de âmbito municipal."
+  },
+  "161904672": {
+   "fragment_id": "161928960",
+   "type": 8,
+   "heading": "Secção II — Comissões e unidades de proteção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Comissões e unidades de proteção civil"
+  },
+  "161904673": {
+   "fragment_id": "161928961",
+   "type": 11,
+   "heading": "Artigo 24.º — Comissão Regional de Proteção Civil dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comissão Regional de Proteção Civil dos Açores\n\n1 - A Comissão Regional de Proteção Civil dos Açores é o órgão de coordenação regional em matéria de política de proteção civil.\n\n2 - Compete à Comissão Regional de Proteção Civil dos Açores:\n\na) Garantir a concretização das linhas gerais da política governamental de proteção civil em todos os serviços da administração pública regional;\n\nb) Apreciar as bases gerais da organização e do funcionamento dos organismos e serviços que, direta ou indiretamente, desempenhem funções de proteção civil na Região;\n\nc) Acompanhar as iniciativas públicas tendentes à divulgação das finalidades de proteção civil, à sensibilização dos cidadãos para a autoproteção e para a colaboração a prestar aos organismos e agentes que exercem aquela atividade;\n\nd) Propor mecanismos de mobilização rápida e eficiente das organizações, bem como recursos humanos e materiais indispensáveis, e dos meios disponíveis que permitam a conduta coordenada das ações a executar;\n\ne) Propor a realização de exercícios, simulacros ou treinos operacionais que contribuam para a eficácia de todos os serviços intervenientes em ações de proteção civil;\n\nf) Difundir comunicados oficiais que se mostrem adequados;\n\ng) Acompanhar a elaboração e as necessárias atualizações do Plano Regional de Emergência de Proteção Civil dos Açores e dos planos especiais;\n\nh) Dar parecer e propor para aprovação o Plano Regional de Emergência de Proteção Civil dos Açores."
+  },
+  "161904674": {
+   "fragment_id": "161928962",
+   "type": 11,
+   "heading": "Artigo 25.º — Composição da Comissão Regional de Proteção Civil dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Composição da Comissão Regional de Proteção Civil dos Açores\n\n1 - A Comissão Regional de Proteção Civil dos Açores é presidida pelo membro do Governo Regional com competência em matéria de proteção civil e dela fazem parte:\n\na) Os membros do Governo Regional com competência em matéria de economia, obras públicas, transportes, comunicações, solidariedade social, habitação, saúde, ambiente, recursos hídricos e mar;\n\nb) O Presidente do Serviço Regional de Proteção Civil e Bombeiros dos Açores;\n\nc) O Comandante Operacional dos Açores - Forças Armadas;\n\nd) O Comandante Regional da Polícia de Segurança Pública;\n\ne) O Comandante do Comando Territorial dos Açores da Guarda Nacional Republicana;\n\nf) O Comandante Regional da Polícia Marítima dos Açores;\n\ng) O Presidente da Federação dos Bombeiros da Região Autónoma dos Açores;\n\nh) Um representante do Gabinete Coordenador de Segurança;\n\ni) Um representante da Associação de Municípios da Região Autónoma dos Açores;\n\nj) Um representante do Instituto Português do Mar e da Atmosfera, I. P.;\n\nk) Um representante do Centro de Informação e Vigilância Sismovulcânica dos Açores.\n\n2 - Podem ainda integrar a Comissão Regional de Proteção Civil dos Açores representantes de outros serviços públicos ou privados de acordo com as características e amplitude do acidente grave ou catástrofe.\n\n3 - Os representantes das entidades que integram a Comissão Regional de Proteção Civil dos Açores não têm, pelo exercício destas funções, direito a receber qualquer tipo de remuneração ou abono."
+  },
+  "161987175": {
+   "fragment_id": "161928963",
+   "type": 11,
+   "heading": "Artigo 26.º — Funcionamento da Comissão Regional de Proteção Civil dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Funcionamento da Comissão Regional de Proteção Civil dos Açores\n\nA Comissão Regional de Proteção Civil dos Açores é convocada, por determinação do membro do Governo Regional com competência em matéria de proteção civil:\n\na) Em caso de iminência ou ocorrência de acidente grave ou catástrofe;\n\nb) Sempre que necessária a sua consulta sobre matérias relacionadas com exercícios, com treinos e com a elaboração de planos de emergência ou conduta das operações de proteção civil."
+  },
+  "161987176": {
+   "fragment_id": "161928964",
+   "type": 11,
+   "heading": "Artigo 27.º — Exercício de competências das comissões municipais de proteção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Exercício de competências das comissões municipais de proteção civil\n\nAs comissões municipais de proteção civil dos municípios da Região Autónoma dos Açores exercem as competências previstas na Lei n.º 65/2007, de 12 de novembro, na versão alterada e republicada pelo Decreto-Lei n.º 44/2019, de 1 de abril, em articulação com a Comissão Regional de Proteção Civil dos Açores."
+  },
+  "161987177": {
+   "fragment_id": "161928965",
+   "type": 11,
+   "heading": "Artigo 28.º — Composição das comissões municipais de proteção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Composição das comissões municipais de proteção civil\n\nIntegram a comissão municipal de proteção civil:\n\na) O presidente da câmara municipal, como autoridade municipal de proteção civil, que preside;\n\nb) O coordenador municipal de proteção civil;\n\nc) Um elemento do comando de cada corpo de bombeiros existente no município;\n\nd) Um elemento de cada uma das forças de segurança presentes no município;\n\ne) O capitão dos portos que dirige a capitania existente no município;\n\nf) A autoridade de saúde do município;\n\ng) Os dirigentes máximos da unidade de saúde de ilha e do hospital da área de influência do município;\n\nh) Um representante dos serviços de segurança social;\n\ni) Um representante das juntas de freguesia a designar pela assembleia municipal;\n\nj) Representantes de outras entidades e serviços, implantados no município, cujas atividades e áreas funcionais possam, de acordo com os riscos existentes e as características do município, contribuir para as ações de proteção civil."
+  },
+  "161987178": {
+   "fragment_id": "161928966",
+   "type": 11,
+   "heading": "Artigo 29.º — Unidades locais de proteção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Unidades locais de proteção civil\n\n1 - As comissões municipais de proteção civil podem determinar a existência de unidades locais de proteção civil, a respetiva constituição e tarefas.\n\n2 - As unidades locais de proteção civil devem corresponder ao território das freguesias e são presididas pelo presidente da junta de freguesia."
+  },
+  "161987179": {
+   "fragment_id": "161928967",
+   "type": 11,
+   "heading": "Artigo 30.º — Apoio administrativo e logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Apoio administrativo e logístico\n\nO apoio administrativo e logístico às comissões de proteção civil é assegurado:\n\na) Pelo Serviço Regional de Proteção Civil e Bombeiros dos Açores, à Comissão Regional de Proteção Civil dos Açores;\n\nb) Pelas autarquias, às comissões municipais de proteção civil."
+  },
+  "161987180": {
+   "fragment_id": "161928968",
+   "type": 1,
+   "heading": "Capítulo IV — Estrutura de proteção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Estrutura de proteção civil"
+  },
+  "161987181": {
+   "fragment_id": "161928969",
+   "type": 11,
+   "heading": "Artigo 31.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Organização\n\nA estrutura de proteção civil, na Região Autónoma dos Açores, organiza-se ao nível regional, ilha e municipal."
+  },
+  "161987182": {
+   "fragment_id": "161928970",
+   "type": 11,
+   "heading": "Artigo 32.º — Agentes de proteção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Agentes de proteção civil\n\n1 - São agentes de proteção civil, na Região Autónoma dos Açores, de acordo com as suas atribuições próprias:\n\na) Os corpos de bombeiros;\n\nb) As forças de segurança;\n\nc) As Forças Armadas;\n\nd) Os órgãos da Autoridade Marítima Nacional;\n\ne) A Autoridade Nacional de Aviação Civil;\n\nf) Entidades públicas prestadoras de cuidados de saúde.\n\n2 - A Cruz Vermelha Portuguesa exerce, em cooperação com os agentes mencionados no número anterior e de harmonia com o seu estatuto próprio, funções de proteção civil nos domínios da intervenção, apoio, socorro e assistência sanitária e social."
+  },
+  "161987183": {
+   "fragment_id": "161928971",
+   "type": 11,
+   "heading": "Artigo 33.º — Entidades com dever de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entidades com dever de cooperação\n\n1 - Impende especial dever de cooperação sobre as seguintes entidades:\n\na) Entidades de direito privado detentoras de corpos de bombeiros, nos termos da lei;\n\nb) Forças e serviços de segurança;\n\nc) Serviço responsável pela prestação de perícias médico-legais e forenses;\n\nd) Serviços de segurança social;\n\ne) Instituições particulares de solidariedade social e outras com fins de socorro e de solidariedade;\n\nf) Serviços de segurança e socorro privativos das empresas públicas e privadas, dos portos e aeroportos;\n\ng) Instituições imprescindíveis às operações de proteção e socorro, emergência e assistência, designadamente dos setores das florestas, conservação da natureza, indústria e energia, transportes, obras públicas, solidariedade social, comunicações, recursos hídricos e ambiente, mar e atmosfera;\n\nh) Organizações de voluntariado de proteção civil.\n\n2 - As atribuições, âmbito, modo de reconhecimento e formas de cooperação das organizações indicadas na alínea h) do número anterior são fixadas por portaria do membro do Governo Regional com competência em matéria de proteção civil.\n\n3 - As entidades referidas nas alíneas a) a g) do n.º 1 articulam-se operacionalmente nos termos do artigo 35.º"
+  },
+  "161987184": {
+   "fragment_id": "161928972",
+   "type": 11,
+   "heading": "Artigo 34.º — Instituições de investigação técnica e científica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Instituições de investigação técnica e científica\n\n1 - Os serviços e instituições de investigação técnica e científica, públicos ou privados, com competências específicas em domínios de interesse para a prossecução dos objetivos fundamentais da proteção civil cooperam com os órgãos de direção e coordenação previstos no presente diploma.\n\n2 - A cooperação desenvolve-se nos seguintes domínios:\n\na) Levantamento, previsão, avaliação e prevenção de riscos coletivos de origem natural, humana ou tecnológica e análises das vulnerabilidades das populações e dos sistemas ambientais a eles expostos;\n\nb) Estudo de formas adequadas de proteção dos edifícios em geral, dos monumentos e de outros bens culturais, de instalações e infraestruturas de serviços e bens essenciais;\n\nc) Investigação no domínio de novos equipamentos e tecnologias adequados à busca, salvamento e prestação de socorro e assistência;\n\nd) Estudo de formas adequadas de proteção dos recursos naturais.\n\n3 - Impende sobre as entidades com competência legalmente reconhecida no âmbito da monitorização de riscos o dever de comunicar, ao Serviço Regional de Proteção Civil e Bombeiros dos Açores, a informação proveniente dos sistemas de vigilância e deteção de riscos de que são detentoras."
+  },
+  "161987185": {
+   "fragment_id": "161928973",
+   "type": 1,
+   "heading": "Capítulo V — Operações de proteção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Operações de proteção civil"
+  },
+  "161987186": {
+   "fragment_id": "161928974",
+   "type": 11,
+   "heading": "Artigo 35.º — Sistema Integrado de Operações de Proteção e Socorro da Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Sistema Integrado de Operações de Proteção e Socorro da Região Autónoma dos Açores\n\n1 - O Sistema Integrado de Operações de Proteção e Socorro da Região Autónoma dos Açores (SIOPS-RAA) é o conjunto de estruturas, normas e procedimentos que asseguram que todos os agentes de socorro e proteção civil na Região Autónoma dos Açores atuam, a nível operacional, de forma articulada, sob um comando único, sem prejuízo da respetiva dependência hierárquica e funcional.\n\n2 - A normalização de atuação das operações diárias através do SIOPS-RAA é o garante que as operações em situação de exceção decorrem de acordo com o previsto no presente diploma.\n\n3 - Compete ao Conselho do Governo Regional a aprovação do regulamento do SIOPS-RAA."
+  },
+  "161987187": {
+   "fragment_id": "161987275",
+   "type": 11,
+   "heading": "Artigo 36.º — Planos de emergência de proteção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Planos de emergência de proteção civil\n\n1 - Os planos de emergência de proteção civil, na Região Autónoma dos Açores, classificam-se, de acordo com a sua finalidade, em gerais ou especiais, e, consoante a extensão territorial da situação visada, em regionais, de ilha, supramunicipais ou municipais.\n\n2 - Os planos de emergência de proteção civil de âmbito supramunicipal, de ilha e regional são aprovados pelo Conselho do Governo Regional.\n\n3 - Os planos especiais poderão abranger áreas homogéneas de risco cuja extensão seja supramunicipal.\n\n4 - Os planos de emergência de proteção civil de âmbito supramunicipal, de ilha e regional são elaborados pelo organismo regional competente em matéria de proteção civil.\n\n5 - Os planos de emergência de proteção civil de âmbito municipal são aprovados pelo membro do Governo Regional com competência em matéria de proteção civil.\n\n6 - Os planos de emergência de proteção civil de âmbito municipal são elaborados pelas câmaras municipais.\n\n7 - Os agentes de proteção civil, bem como as entidades a envolver nas operações de proteção e socorro, colaboram na elaboração, operacionalização e execução dos planos de emergência de proteção civil."
+  },
+  "161987188": {
+   "fragment_id": "161987276",
+   "type": 11,
+   "heading": "Artigo 37.º — Prioridade dos meios e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Prioridade dos meios e recursos\n\n1 - Os meios e recursos utilizados para prevenir ou enfrentar os riscos de acidente grave ou catástrofe são os previstos nos planos de emergência de proteção civil ou, na sua ausência ou insuficiência, os determinados pela autoridade de proteção civil que assumir a direção das operações.\n\n2 - A utilização de meios e recursos é determinada segundo critérios de eficiência, proximidade e disponibilidade, sendo dada, sempre que adequado, preferência à utilização de meios e recursos públicos face à utilização de meios e recursos privados."
+  },
+  "161987189": {
+   "fragment_id": "161987277",
+   "type": 1,
+   "heading": "Capítulo VI — Forças Armadas e auxílio externo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Forças Armadas e auxílio externo"
+  },
+  "161987190": {
+   "fragment_id": "161987278",
+   "type": 11,
+   "heading": "Artigo 38.º — Solicitação de colaboração e autorização de atuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Solicitação de colaboração e autorização de atuação\n\n1 - Compete ao Presidente do Governo Regional, sob proposta do membro do Governo Regional com competência em matéria de proteção civil, solicitar ao Comando Operacional dos Açores a participação das Forças Armadas em funções de proteção civil.\n\n2 - Compete ao Serviço Regional de Proteção Civil e Bombeiros dos Açores avaliar o tipo e dimensão da ajuda a solicitar, bem como a definição das prioridades.\n\n3 - Em caso de manifesta urgência, os presidentes das câmaras municipais podem solicitar a colaboração das Forças Armadas diretamente aos comandantes das unidades implantadas na respetiva área, dando conhecimento de tal pedido ao Presidente do Serviço Regional de Proteção Civil e Bombeiros dos Açores.\n\n4 - Consideram-se «casos de manifesta urgência» aqueles em que a gravidade e dimensão do acidente grave ou catástrofe e a necessidade de atuação imediata não são compatíveis com o normal encaminhamento do pedido através da cadeia de comando prevista no n.º 1."
+  },
+  "161987191": {
+   "fragment_id": "161987279",
+   "type": 11,
+   "heading": "Artigo 39.º — Formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Formas de apoio\n\n1 - O apoio programado é prestado de acordo com o previsto nos programas e planos de emergência de proteção civil previamente elaborados, após parecer favorável das Forças Armadas, integrando a Comissão Regional de Proteção Civil dos Açores o Comandante Operacional dos Açores.\n\n2 - O apoio não programado é prestado de acordo com a disponibilidade e prioridade de emprego dos meios militares, cabendo ao Comando Operacional dos Açores a determinação das possibilidades de apoio e a coordenação das ações a desenvolver em resposta às solicitações apresentadas."
+  },
+  "161987192": {
+   "fragment_id": "161987280",
+   "type": 11,
+   "heading": "Artigo 40.º — Auxílio externo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Auxílio externo\n\nA participação de equipas de proteção civil nacionais e internacionais em situações de pedido de auxílio externo carece de autorização do Presidente do Governo Regional, por proposta do membro do Governo Regional com a tutela do Serviço Regional de Proteção Civil e Bombeiros dos Açores."
+  },
+  "161987193": {
+   "fragment_id": "161987281",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "161987194": {
+   "fragment_id": "161987282",
+   "type": 11,
+   "heading": "Artigo 41.º — Orgânica do Serviço Regional de Proteção Civil e Bombeiros dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Orgânica do Serviço Regional de Proteção Civil e Bombeiros dos Açores\n\nO Governo Regional procederá à necessária adaptação da orgânica do Serviço Regional de Proteção Civil e Bombeiros dos Açores ao presente diploma, mediante decreto regulamentar regional, no prazo de 90 dias a contar da data da sua publicação."
+  },
+  "161987195": {
+   "fragment_id": "161987283",
+   "type": 11,
+   "heading": "Artigo 42.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Norma revogatória\n\nSão revogados os Decretos Legislativos Regionais n.os 13/99/A, de 15 de abril, e 14/2004/A, de 23 de março."
+  },
+  "161987196": {
+   "fragment_id": "161987284",
+   "type": 11,
+   "heading": "Artigo 43.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte à sua publicação."
+  },
+  "161985764": {
+   "fragment_id": "161986188",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Assembleia Legislativa da Região Autónoma dos Açores",
+   "in_force_from": "2021-04-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2021/A - Diário da República n.º 78/2021, Série I de 2021-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2021-161904521), em vigor a partir de 2021-04-23"
+   ],
+   "markdown": "###### Artigo 19.º-A — Assembleia Legislativa da Região Autónoma dos Açores\n\n1 - A Assembleia Legislativa da Região Autónoma dos Açores contribui, pelo exercício da sua competência política, legislativa e financeira, para enquadrar a política de proteção civil e para fiscalizar a sua execução.\n\n2 - Os partidos representados na Assembleia Legislativa da Região Autónoma dos Açores são ouvidos e informados com regularidade pelo Governo Regional sobre o andamento dos principais assuntos da política de proteção civil.\n\n3 - O Governo Regional elabora e entrega à Assembleia Legislativa da Região Autónoma dos Açores um relatório semestral sobre a situação na Região no que toca à proteção civil, bem como sobre a atividade dos organismos e serviços por ela responsáveis.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2021/A - Diário da República n.º 78/2021, Série I de 2021-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2021-161904521), em vigor a partir de 2021-04-23"
+  },
+  "161987197": {
+   "fragment_id": "161987285",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de outubro de 2019.\n\nA Presidente da Assembleia Legislativa, Ana Luísa Luís.\n\nAssinado em Angra do Heroísmo em 13 de novembro de 2019.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n112759715"
+  }
+ }
+}

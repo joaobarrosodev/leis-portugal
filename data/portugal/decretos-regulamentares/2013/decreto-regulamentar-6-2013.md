@@ -1,0 +1,185 @@
+---
+schema_version: '1.0'
+id: pt:dre:494803:por
+title: Decreto Regulamentar n.º 6/2013
+short_title: null
+summary: Procede à terceira alteração ao Decreto Regulamentar n.º 1-A/2011, de 3 de janeiro, que regulamenta o Código dos
+  Regimes Contributivos do Sistema Previdencial de Segurança Social
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Solidariedade, Emprego e Segurança Social
+proposing_entity: null
+official_number: 6/2013
+official_date: null
+publication_date: '2013-10-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 199/2013, Série I de 2013-10-15
+  number: '199'
+  series: I
+  supplement: null
+  pages: 6100 - 6101
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/10/19900/0610006101.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/6/2013/10/15/p/dre/pt/html
+  oj: null
+  dre: '494803'
+  dre_path: /dr/detalhe/decreto-regulamentar/6-2013-494803
+  internal: pt:dre:494803:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2013-494803
+  metadata_url: https://data.dre.pt/eli/decregul/6/2013/10/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2013-494803
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:33:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 86ce420f5da3f2ac5a80a0d518518c43a03470bde07c9863d432bb83616414ea
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
+- Contribuições da Segurança Social
+- Dívidas à Segurança Social
+- Documento Eletrónico
+- Empresário
+- Internet
+- Prazo
+- Segurança Social
+- TAXA Contributiva
+- Trabalhador Independente
+relationships:
+- type: amended_by
+  target: pt:dre:115620692:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:115620692:por
+  label: Alterado, com efeitos a 01.01.2019, o art. 54.º-A, na redação do presente diploma, do DR 1-A/2011 de 03-jan, pelo(a)
+    Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02, que procede à sua republicação,
+    nos termos dos seus arts. 4.º e 8.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2018-115620692
+  date: '2018-07-02'
+- type: cites
+  target: pt:dre:175522:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/50/2012/09/25/p/dre
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:406905:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/1-a/2011/01/03/p/dre
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:33:35Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 6/2013
+
+de 15 de outubro
+
+As diversas alterações ao Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro, doravante designado por Código dos Regimes Contributivos, no âmbito do regime dos trabalhadores independentes, determinam a necessidade de adequação da sua regulamentação, com vista à clarificação dos procedimentos a adotar e das consequências dos mesmos no que respeita aos prazos de cumprimento das obrigações contributivas correspondentes.
+
+Uma das alterações introduzidas ao Código dos Regimes Contributivos resultou no alargamento do âmbito de proteção social dos trabalhadores independentes que sejam empresários em nome individual ou titulares de estabelecimento individual de responsabilidade limitada e que exerçam exclusivamente atividade industrial ou comercial, os quais passam a ter o direito de aceder a subsídios por cessação de atividade, preenchidas as condições de atribuição que já se encontram previstas na lei.
+
+A garantia de verificação do preenchimento de parte destas condições passa pela declaração eletrónica, pelo interessado, aos serviços da segurança social, no que respeita à forma empresarial como a atividade é exercida, e que permitirá também a aplicação de taxa contributiva distinta, financiadora da proteção social a garantir.
+
+Tendo em consideração que a alteração da proteção social e as alterações introduzidas ao Código dos Regimes Contributivos produziram efeitos a partir de 1 de janeiro de 2013, o presente diploma prevê ainda como deve ser concretizada a declaração da forma de exercício de atividade, relativamente ao período compreendido entre aquela data e o momento da sua entrada em vigor.
+
+Com estas alterações, agiliza-se e facilita-se a definição atempada das obrigações decorrentes do enquadramento dos trabalhadores independentes no regime de proteção social respetivo, designadamente no que respeita ao apuramento do seu rendimento relevante, através das informações necessárias ao enquadramento e definição da base de incidência contributiva no anexo da segurança social ao modelo 3 da declaração de imposto sobre o rendimento das pessoas singulares.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Comissão Nacional de Proteção de Dados.
+
+Assim:
+
+Ao abrigo do disposto no artigo 4.º, conjugado com artigo 152.º da [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma procede à terceira alteração ao [Decreto Regulamentar n.º 1-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-a-2011-406905), de 3 de janeiro, alterado pela [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e pelo [Decreto Regulamentar n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-2012-175522), de 25 de setembro, que regulamenta o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.
+
+###### Artigo 2.º — Alteração ao [Decreto Regulamentar n.º 1-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-a-2011-406905), de 3 de janeiro
+
+O artigo 54.º-A do [Decreto Regulamentar n.º 1-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-a-2011-406905), de 3 de janeiro, alterado pela [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e pelo [Decreto Regulamentar n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-2012-175522), de 25 de setembro, passa a ter a seguinte redação:
+
+«Artigo 54.º-A
+
+Atualização de dados dos trabalhadores independentes
+
+1 - A atualização dos elementos relativos à identificação e enquadramento dos trabalhadores independentes, bem como a declaração dos elementos complementares necessários à fixação da base de incidência contributiva, que não possam ser obtidos através da troca de informação com a administração tributária, são efetuadas anualmente, no prazo legal para a entrega da declaração fiscal, através do Anexo SS ao modelo 3 da declaração do imposto sobre o rendimento das pessoas singulares, o qual é remetido aos serviços da segurança social pela entidade tributária competente, sem prejuízo do disposto no número seguinte.
+
+2 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 134.º do Código, os empresários em nome individual e os titulares de estabelecimento individual de responsabilidade limitada que exerçam exclusivamente atividade industrial ou comercial, devem declarar no sítio da Internet da segurança social, no mês em que se verifique, o início ou a cessação dessa forma de exercício de atividade.»
+
+###### Artigo 3.º — Aditamento ao [Decreto Regulamentar n.º 1-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-a-2011-406905), de 3 de janeiro
+
+É aditado ao [Decreto Regulamentar n.º 1-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-a-2011-406905), de 3 de janeiro, alterado pela [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e pelo [Decreto Regulamentar n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-2012-175522), de 25 de setembro, o artigo 54.º-B, com a seguinte redação:
+
+«Artigo 54.º-B
+
+Produção de efeitos da aplicação da taxa contributiva
+
+A aplicação da taxa contributiva prevista no n.º 4 do artigo 168.º do Código, por força do disposto no n.º 2 do artigo anterior, produz efeitos a partir do mês em que é feita a declaração e deixa de ser aplicável a partir do mês seguinte ao da declaração de mudança da forma do exercício de atividade.»
+
+###### Artigo 4.º — Norma transitória
+
+Para efeitos de aplicação da taxa contributiva no período compreendido entre 1 janeiro de 2013 e a data de entrada em vigor do presente diploma, os empresários em nome individual e os titulares de estabelecimento individual de responsabilidade limitada que tenham exercido exclusivamente atividade industrial ou comercial devem fazer declaração autónoma referente a esse período no sítio da Internet da segurança social, no prazo de 30 dias a contar da entrada em vigor do presente diploma.
+
+###### Artigo 5.º — Entrada em vigor e produção de efeitos
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação e reporta os seus efeitos a 1 de janeiro de 2013.
+
+Visto e aprovado em Conselho de Ministros de 22 de agosto de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Pedro Russo da Mota Soares.
+
+Promulgado em 7 de outubro de 2013.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 8 de outubro de 2013.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

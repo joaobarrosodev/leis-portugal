@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: pt:dre:185902:por
+title: Decreto Legislativo Regional n.º 14/2002/M
+short_title: null
+summary: Regula a utilização de espaços para lançamento de fogo-de-artifício nas festas do fim do ano
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 14/2002/M
+official_date: null
+publication_date: '2002-08-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 186/2002, Série I-A de 2002-08-13
+  number: '186'
+  series: I
+  supplement: null
+  pages: 5802 - 5803
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/08/186a00/58025803.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/14/2002/08/13/m/dre/pt/html
+  oj: null
+  dre: '185902'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/14-2002-185902
+  internal: pt:dre:185902:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2002-185902
+  metadata_url: https://data.dre.pt/eli/declegreg/14/2002/08/13/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2002-185902
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:40:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a804e3470714e8644362245febc6b1afe623886e62ac7e108438f6cfef6b2b65
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Madeira.região Autónoma
+- Pirotecnia
+- Requisição de Imóveis
+- Responsabilidade Civil
+relationships:
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: http://data.dre.pt/eli/lei/168/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:40:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 14/2002/M
+
+Regula a utilização de espaços para lançamento de fogo-de-artifício nas festas do fim do ano
+
+O cartaz turístico mais antigo e de mais acentuada projecção nacional e internacional da Madeira é o fogo-de-artifício do fim do ano ou das festas da passagem de ano.
+
+O turismo é uma actividade indispensável e insubstituível na economia da Região Autónoma da Madeira e do próprio País, pois dá emprego a uma parte muito considerável da sua população activa.
+
+É, assim, manifesto o interesse público nacional e regional na tomada de todas as medidas ao apoio e protecção do fogo-de-artifício do fim do ano na Região Autónoma da Madeira.
+
+Sucede, porém, que nos últimos anos foram opostas algumas objecções e criadas dificuldades por parte de particulares à utilização para o espectáculo pirotécnico de estruturas, terrenos e espaços tradicionalmente aplicados a esse fim, sempre com a alegação da potencial perigosidade resultante daquele espectáculo.
+
+Acontece que a moderna tecnologia do lançamento e queima dos fogos-de-artifício oferece hoje um risco reduzido de produção de danos que, a verificarem-se, se encontram segurados.
+
+Termos em que, por forma a viabilizar a realização do espectáculo pirotécnico do fim do ano, se impõe regular a utilização de espaços de entidades públicas e privadas para o lançamento do fogo-de-artifício, na conciliação dos seus interesses com o interesse público nacional e regional e no respeito pelos princípios fundamentais contidos na [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro.
+
+Assim, a Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, o seguinte:
+
+###### Artigo 1.º
+
+O adjudicatário do concurso público para o fornecimento e lançamento do fogo-de-artifício do fim do ano tem, mediante prévia aprovação do respectivo plano anual pelo Conselho de Governo Regional, direito a ocupar e a utilizar os espaços integrados no domínio público e privado regional e autárquico, nomeadamente as ruas, praças, estradas, caminhos, jardins públicos, cursos de água, terrenos baldios e quaisquer prédios, excepto os utilizados para habitação, pertencentes a outras pessoas jurídicas, colectivas ou singulares, de direito público ou privado, na medida e pelo tempo estritamente necessários ao exacto cumprimento das obrigações por si assumidas no correspondente contrato.
+
+###### Artigo 2.º
+
+O plano referido no artigo precedente deverá incluir todos os pormenores indispensáveis para que seja reduzida ao mínimo a margem de escolha do adjudicatário.
+
+###### Artigo 3.º — O adjudicatário é civilmente responsável pelo abuso dos direitos conferidos pelo artigo 1.º
+
+###### Artigo 4.º
+
+O membro do Governo Regional com tutela da área do turismo, mediante a prévia comprovação pelo adjudicatário de ter efectuado os seguros de responsabilidade civil necessários e convenientes, fará notificar, por escrito, todos os anos, com a antecedência mínima de 15 dias úteis, as entidades públicas e particulares cuja colaboração se mostre indispensável nos termos do artigo 1.º, dando-lhes conhecimento da parte do aludido plano que lhes respeitar.
+
+###### Artigo 5.º
+
+Quando se verifica oposição dos titulares dos espaços definidos nos termos do artigo anterior, pode o Governo Regional, ao abrigo do interesse público nacional e regional, requisitar a utilização dos mesmos espaços através de resolução do Conselho do Governo, nos termos dos artigos 80.º e seguintes da [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro.
+
+###### Artigo 6.º
+
+A requisição de bens imóveis, a efectuar ao abrigo do artigo anterior, confere ao requisitado direito a indemnização, nos termos do artigo 84.º da [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro.
+
+###### Artigo 7.º
+
+São obrigações da entidade beneficiária da requisição as obrigações previstas no artigo 85.º da [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro.
+
+###### Artigo 8.º
+
+São direitos e deveres do titular do imóvel objecto de requisição os direitos e deveres previstos no artigo 86.º da [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro.
+
+###### Artigo 9.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa Regional em 3 de Julho de 2002.
+
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 19 de Julho de 2002.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

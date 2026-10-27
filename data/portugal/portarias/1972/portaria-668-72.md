@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:686062:por
+title: Portaria n.º 668/72
+short_title: null
+summary: Cria uma subdelegação da delegação da Beirã, dependente da Alfândega de Lisboa, na estação fronteiriça de Marvão
+  e extingue o posto de despacho de Galegos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 668/72
+official_date: null
+publication_date: '1972-11-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 265/1972, Série I de 1972-11-14
+  number: '265'
+  series: I
+  supplement: null
+  pages: 1652 - 1652
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/11/26500/16521652.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '686062'
+  dre_path: /dr/detalhe/portaria/668-1972-686062
+  internal: pt:dre:686062:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/668-1972-686062
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/668-1972-686062
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:54:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8ebf8b5a9249d5b7dc5859e18703ef6266b20b4734c98d84635233171c9eba53
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:54:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:54:54Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 668/72
+
+de 14 de Novembro
+
+Tendo em vista o disposto no n.º 3.º do artigo 4.º e seu § único da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, ouvida a Direcção-Geral das Alfândegas:
+
+1.º Que seja criada uma subdelegação da delegação da Beirã, dependente da Alfândega de Lisboa, na estação fronteiriça de Marvão, em substituição do posto de despacho de Galegos, que fica extinto.
+
+2.º Que, sob a rubrica «Alfândega de Lisboa», seja alterado nesta conformidade o mapa I anexo à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.
+
+Ministério das Finanças, 6 de Novembro de 1972. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento.

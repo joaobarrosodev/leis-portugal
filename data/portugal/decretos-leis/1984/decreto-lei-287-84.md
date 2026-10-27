@@ -1,0 +1,641 @@
+---
+schema_version: '1.0'
+id: pt:dre:380971:por
+title: Decreto-Lei n.º 287/84
+short_title: null
+summary: Autoriza a Administração-Geral do Porto de Lisboa a contratar com uma empresa privada nacional, após concurso público,
+  a concessão do direito de exploração em regime de serviço público de um terminal de contentores nas instalações portuárias
+  de Alcântara Sul
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Mar
+proposing_entity: null
+official_number: 287/84
+official_date: null
+publication_date: '1984-08-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 195/1984, Série I de 1984-08-23
+  number: '195'
+  series: I
+  supplement: null
+  pages: 2600 - 2604
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/08/19500/26002604.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-12-17'
+version_history:
+  file: decreto-lei-287-84.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1984-08-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-09-24'
+    amending: pt:dre:452192:por
+    amending_title: Decreto-Lei n.º 188/2008
+    changes:
+    - Adita Base III-A
+    - Altera Base III
+    - Altera Base IV
+    - Altera Base XI
+    - Altera Base XII
+    - Altera Base XIV
+    - Altera Base XV
+    - Altera Base XVIII
+    - Altera Base XIX
+  - date: '2021-12-17'
+    amending: pt:dre:175983732:por
+    amending_title: Decreto-Lei n.º 117/2021
+    changes:
+    - Altera Base II
+    - Altera Base III
+    - Altera Base III-A
+    - Altera Base IV
+    - Altera Base VI
+    - Altera Base VII
+    - Altera Base XI
+    - Altera Base XII
+    - Altera Base XIII
+    - Altera Base XIV
+    - Altera Base XV
+    - Altera Base XVII
+    - Altera Base XVIII
+    - Altera Base XIX
+    - Altera Base XX
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/287/1984/p/cons/20211216/pt/html
+  oj: null
+  dre: '380971'
+  dre_path: /dr/detalhe/decreto-lei/287-1984-380971
+  internal: pt:dre:380971:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1984-380971
+  metadata_url: https://data.dre.pt/eli/dec-lei/287/1984/p/cons/20211216/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-175999504
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-175999504
+  retrieved_at: '2026-10-22T12:47:34Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f79d916e7e73d45e6af3eed699de1a756651ae570d42377927f590a77c29e477
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:47:34Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-287-84.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Geral do Porto de Lisboa
+- Contentor
+- Contrato de Concessão
+- Contrato de Trabalho
+- Empresa Privada
+- Equipamento Marítimo
+- Equipamento Portuário
+- Exploração Portuária
+- Fiscalização
+- Garantia
+- Porto de Lisboa
+- Prazo
+- Rescisão de Contrato
+- Serviço Público
+- Tarifa Portuária
+- Taxa
+- Trabalho Portuário
+- Transporte Internacional
+- Tráfego Marítimo
+relationships:
+- type: amended_by
+  target: pt:dre:452192:por
+  label: Adita Base III-A; Altera Base III; Altera Base IV; Altera Base XI; Altera Base XII; Altera Base XIV; Altera Base
+    XV; Altera Base XVIII; Altera Base XIX
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2008-452192
+  date: '2008-09-23'
+- type: amended_by
+  target: pt:dre:175983732:por
+  label: Altera Base II; Altera Base III; Altera Base III-A; Altera Base IV; Altera Base VI; Altera Base VII; Altera Base
+    XI; Altera Base XII; Altera Base XIII; Altera Base XIV; Altera Base XV; Altera Base XVII; Altera Base XVIII; Altera Base
+    XIX; Altera Base XX
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732
+  date: '2021-12-16'
+article_structure:
+  article_count: 24
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:47:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 287/84
+
+Decreto-Lei n.º 287/84
+
+de 23 de Agosto
+
+A evolução do tráfego internacional de carga marítima acondicionada em contentores tem continuado a sofrer acelerada evolução nos últimos anos, que se manifesta quer nas percentagens crescentes de carga geral transportada sob essa forma quer na evolução tecnológica dos navios e dos terminais portuários que lhes prestam serviço. Estes dois aspectos da tendência em curso vêm-se manifestando com clareza no porto de Lisboa. Com efeito, foi sobretudo a subida da taxa de contentorização da carga geral que fez aumentar o movimento de contentores de 72411 TEU em 1979, para 120091 TEU em 1983 e, por outro lado, acentua-se o transporte de contentores em navios de grande porte cujo calado lhes não permite acostar ao terminal de contentores de Santa Apolónia. Estes navios estão sendo atendidos em Alcântara, no novo cais avançado, onde todavia não existe um terminal especializado, operando por isso apenas com os seus meios próprios ou recorrendo a equipamento portuário convencional.
+
+Estas razões bastariam para que se tivesse encarado e estudado a oportunidade de dotar o porto de Lisboa com um novo terminal de contentores que substituísse o existente (a localizar eventualmente na Trafaria), susceptível de acompanhar a evolução tecnológica internacional. Todavia, em face do investimento feito e ainda não completamente amortizado no primeiro terminal (Santa Apolónia) e da capacidade de que ele ainda dispõe para atender o tráfego nacional, cujo crescimento tem sido, aliás, bastante lento, considerou-se prematura a sua desactivação.
+
+Por isso se concebeu um segundo terminal, com a dupla vocação de permitir o operacionamento, em condições técnicas adequadas, dos grandes navios porta-contentores que já escalam Alcântara com carga contentorizada de e para o País, e de completar os investimentos já realizados, de modo a constituir uma oferta de instalações e de serviços internacionalmente competitivos, na sua qualidade e custo, para a realização de operações de trânsito internacional. Assim se espera rentabilizar o importante investimento realizado com o avanço do cais e a ampliação de terraplenos naquela zona do porto.
+
+A prossecução destes objectivos, conjugada com uma aposta nas potencialidades de desenvolvimento do porto de Lisboa no plano internacional, tirando partido da sua situação geográfica, torna essencial que a exploração do novo terminal venha a ser feita em moldes de grande flexibilidade e dinamismo, quer na organização e gestão dos serviços e dos meios, quer na agressividade comercial que terá de demonstrar. Por isto se optou pela figura de concessão de serviço público para a exploração do novo terminal a atribuir a uma entidade privada nacional susceptível de operar nas melhores condições quanto a retribuição e garantia de um correcto desempenho. A escolha desta entidade foi precedida de concurso público internacional oportunamente aberto, cujos trâmites correram pela Administração-Geral do Porto de Lisboa.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+- 1 - Fica a Administração-Geral do Porto de Lisboa autorizada a contratar com uma empresa privada nacional, após concurso público, a concessão do direito de exploração em regime de serviço público de um terminal de contentores nas instalações portuárias de Alcântara Sul.
+
+2 - A empresa referida no número anterior obedecerá na sua constituição ao disposto na Lei n.º 1994, de 13 de Abril de 1983, e os artigos 21.º e seguintes do Decreto-Lei n.º 46312, de 28 de Abril de 1965.
+
+###### Artigo 2.º
+
+A concessão será outorgada em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante, após homologação em Conselho de Ministros.
+
+###### Artigo 3.º
+
+O equipamento semifixo necessário à actividade portuária da concessionária, nomeadamente os pórticos e gruas de cais e de parque, será considerado como integrando o ciclo produtivo, para os efeitos consignados na verba 23 da lista I do Decreto-Lei n.º 47066, de 1 de Julho de 1966.
+
+Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1984. - Carlos Alberto da Mota Pinto - Carlos Montez Melancia.
+
+Promulgado em 14 de Agosto de 1984.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 17 de Agosto de 1984.
+
+O Primeiro-Ministro, Mário Soares.
+
+Bases anexas ao Decreto-Lei n.º 287/84
+
+## Anexo
+
+### Capítulo I — Objecto e fins da concessão
+
+###### Base I — (Âmbito da concessão)
+
+1 - A Administração-Geral do Porto de Lisboa, adiante designada por AGPL, concederá à empresa referida no decreto-lei a que estas bases estão anexas, adiante designada por concessionária, o direito de explorar em regime de serviço público um terminal portuário de contentores, compreendendo nomeadamente:
+
+a) A acostagem de navios transportando contentores que pelo seu calado, não possam acostar ao cais do terminal de Santa Apolónia e de todos aqueles que transportem contentores em trânsito (transhipment) internacional;
+
+b) A movimentação de contentores de e para os navios referidos na alínea anterior;
+
+c) As operações de tráfego, parqueamento e expedição de contentores;
+
+d) As operações respeitantes a mercadorias transportadas nos contentores (consolidação, desconsolidação, conferência, etc.), bem como as diligências necessárias ao seu desembaraço junto das entidades competentes;
+
+e) As operações respeitantes a mercadorias não contentorizadas transportadas nos navios referidos na alínea a);
+
+f) A movimentação de contentores de e para navios que, embora pudessem acostar ao cais do terminal de Santa Apolónia, a AGPL considere, por razões de interesse portuário, deverem ali acostar;
+
+g) A prestação de serviços complementares das operações indicadas nas alíneas anteriores.
+
+2 - As operações referidas no número anterior serão realizadas pela concessionária com a maior segurança, eficiência e economia, segundo técnicas actualizadas, por forma a garantir serviços de qualidade com o nível dos praticados em terminais idênticos estrangeiros, com os quais se pretende venha a competir.
+
+3 - O regime de exploração do terminal objecto da concessão, compreendendo as operações referidas no n.º 1, é o indicado na base V.
+
+4 - As normas a observar na execução do serviço objecto da concessão constarão de regulamento a apresentar pela concessionária à AGPL, nos termos da base VI.
+
+5 - Para que as operações indicadas no n.º 1 sejam realizadas nas condições referidas no n.º 2, constitui obrigação da concessionária manter em permanente estado de bom funcionamento, conservação e segurança as instalações e os equipamentos do terminal, os quais serão substituídos, sem direito a indemnização, quando se destruírem ou mostrarem inadequados para o fim a que se destinem, por desgaste físico, avaria, deterioração ou obsolescência.
+
+6 - Para os fins referidos no número anterior, a concessionária constituirá um fundo de renovação, em termos a aprovar pela AGPL.
+
+7 - A obrigação referida no n.º 5 não abrange a conservação dos fundos junto ao cais, bem como a conservação deste, que constituem obrigações da AGPL.
+
+###### Base II — Estabelecimento da concessão
+
+1 - O estabelecimento da concessão é composto pelos cais, terraplenos, conjunto de terrenos e edifícios que integram a área da concessão e pelas obras, máquinas, equipamentos, infraestruturas técnicas e acessórios afetos ao adequado desenvolvimento das atividades concedidas, independentemente de o respetivo direito de propriedade integrar o domínio público do Estado ou ser propriedade da APL, da concessionária ou de terceiros.
+
+2 - O estabelecimento da concessão inclui tanto os bens existentes à data de celebração do contrato e quaisquer benfeitorias que neles tenham sido ou venham a ser executadas como os bens a criar, construir, adquirir ou instalar pela concessionária, destinados à exploração do terminal.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+###### Base III — Plano de investimentos
+
+1 - (Revogado.)
+
+2 - A concessionária deve cumprir e executar, nos termos contratualmente previstos, um novo plano de investimentos, a constar como anexo ao contrato de concessão, que contemple, designadamente, a realização das seguintes obras em infraestruturas:
+
+a) Repavimentação da área operacional do terminal;
+
+b) Melhoria e expansão da zona de portaria;
+
+c) Modernização das infraestruturas elétricas existentes, da iluminação e da subestação;
+
+d) Alteração e prolongamento de ramal ferroviário interno do terminal;
+
+e) Substituição e manutenção de defensas ao longo dos cais;
+
+f) Construção de um novo edifício, para a instalação dos serviços de manutenção do terminal, no qual se incluem novas áreas para a instalação dos serviços técnicos e administrativos do controlo fitossanitário e alfandegário;
+
+g) Demolição do Edifício Vasco da Gama e do Edifício Terlis;
+
+h) Renovação do parque de espera;
+
+i) Redisposição dos contentores em parque;
+
+j) Implementação de todas as infraestruturas essenciais ao bom funcionamento das obras referidas nas alíneas anteriores, designadamente redes de iluminação, abastecimento de água, drenagem de águas residuais, pluviais e contaminadas com hidrocarbonetos, infraestruturas de comunicações, vedações e controlo de acessos.
+
+3 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2008 - Diário da República n.º 184/2008, Série I de 2008-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2008-452192), em vigor a partir de 2008-09-24
+
+###### Base III-A — Área da concessão
+
+1 - Integram a área da concessão, sujeitas às condições estabelecidas no contrato de concessão, as seguintes parcelas de terreno e instalações:
+
+a) Zona A - 1091 m de cais correspondente à frente acostável do terminal;
+
+b) Zona B - 200 m de cais fluvial, no interior da doca de Alcântara;
+
+c) Zona C - terrapleno com área de 230 251 m2, no qual se encontram incluídos:
+
+i) O Edifício Vasco da Gama, com 3270 m2 (zona D), e o Edifício Terlis, com 4530 m2 (zona E); bem como:
+
+ii) As vias férreas para operações de carga e descarga de contentores transportados em vagões (zona F);
+
+d) Zona G - o edifício sede com 1114 m2 de área coberta e 423 m2 de área de pátio;
+
+e) Todos os demais edifícios que venham a ser construídos pela concessionária na área delimitada no anexo ao contrato, ao longo do prazo de duração do contrato de concessão, designadamente aquele a que se refere a alínea f) do n.º 2 da base iii.
+
+2 - Nos termos do disposto no número anterior, a área da concessão tem 231 788 m2 e uma frente de cais de 1291 m, tendo a delimitação indicada na planta anexa ao presente decreto-lei e do qual faz parte integrante.
+
+3 - Após a conclusão de todas as obras e infra-estruturas previstas no novo plano de investimentos referido na base anterior, a concessionária submete à aprovação da APL um documento com a descrição pormenorizada dos limites geográficos e da área total da área da concessão, o qual, após aprovação, substitui para todos os efeitos a delimitação e o respectivo anexo previsto no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2008 - Diário da República n.º 184/2008, Série I de 2008-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2008-452192), em vigor a partir de 2008-09-24
+
+###### Base IV — Equipamento portuário e instalações que integram o estabelecimento da concessão
+
+1 - A concessionária obriga-se a dotar o terminal com o equipamento adequado e necessário à realização das operações a que se refere a base i e a manter em boas condições de operacionalidade e funcionamento as instalações que integram o estabelecimento da concessão.
+
+2 - Para efeitos do disposto no número anterior, a concessionária deve, designadamente:
+
+a) Adquirir ou tomar de aluguer, por locação operacional ou figuras contratuais afins, desde que nos termos previstos no contrato, e instalar os equipamentos de movimentação, gestão, parqueamento e transporte de cargas contemplados no plano de investimentos;
+
+b) Manter em permanente estado de bom funcionamento, conservação e segurança todos os equipamentos que integram o estabelecimento da concessão, com exceção dos três guindastes de via, os quais devem ser objeto das operações de manutenção que se revelem necessárias para esse efeito ou ser substituídos, sem direito a indemnização, sempre que se destruírem ou mostrarem inadequados para o fim a que se destinam, por desgaste físico, avaria, deterioração ou obsolescência;
+
+c) Manter em permanente estado de bom funcionamento, conservação e segurança as instalações que integram o estabelecimento da concessão, incluindo as que são propriedade da APL ou integram o domínio público do Estado, as quais devem ser objeto das operações de manutenção que se revelem necessárias para esse efeito ou ser substituídas, sem direito a indemnização, sempre que se destruírem ou mostrarem inadequadas para o fim a que se destinam, por desgaste físico ou deterioração.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2008 - Diário da República n.º 184/2008, Série I de 2008-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2008-452192), em vigor a partir de 2008-09-24
+
+### Capítulo II — Exploração
+
+###### Base V — (Regime de exploração)
+
+1 - A exploração do terminal será feita em regime de serviço público a prestar a navios transportando contentores e a mercadorias neles também transportadas, sob responsabilidade da concessionária, de forma regular e contínua, no âmbito da concessão e em conformidade com o respectivo regulamento.
+
+2 - A concessionária organizará os serviços do terminal por forma que do seu funcionamento não haja lugar a reclamações dos utentes, reservando-se a AGPL, tendo em vista a salvaguarda do interesse do público, o direito de intervir, sempre que o julgue conveniente, de modo a eliminar as causas que estiverem na base das reclamações.
+
+3 - As instalações e o equipamento do terminal não poderão, sem autorização expressa da AGPL, ser utilizados para fins diferentes dos previstos na concessão.
+
+4 - É da responsabilidade da concessionária a segurança das instalações e do equipamento que lhe estejam afectos, bem como de todo o pessoal afecto à concessão.
+
+5 - É da responsabilidade da concessionária o custo dos consumos de água e de energia eléctrica efectuados no terminal.
+
+6 - As instalações do terminal deverão manter-se em bom estado de conservação e limpeza.
+
+7 - A concessionária obriga-se a fornecer à AGPL todos os elementos estatísticos por ela solicitados respeitantes aos navios que acostem ao cais do terminal, aos contentores movimentados e às mercadorias por eles transportadas, bem como outros que se revelem de interesse portuário.
+
+8 - A concessionária obriga-se a cumprir todas as disposições previstas na lei para o exercício da actividade objecto da concessão.
+
+9 - A concessionária é inteiramente responsável pelos prejuízos ou danos causados a terceiros no exercício da sua actividade.
+
+10 - Constituirão encargo da concessionária todas as despesas com vistorias extraordinárias, nomeadamente as que resultem de reclamações de terceiros, que a AGPL considere justificadas.
+
+###### Base VI — (Regulamento de exploração)
+
+1 - As normas a observar na exploração do terminal constarão de regulamento a apresentar pela concessionária à AGPL e por esta aprovado.
+
+2 - O regulamento de exploração deverá ser elaborado por forma a nele serem contidas as normas respeitantes à execução de todas as operações a efectuar no terminal.
+
+3 - A AGPL, ouvida a concessionária ou a solicitação desta, poderá a todo o tempo alterar as normas estabelecidas no regulamento de exploração.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+###### Base VII — Regulamento de tarifas
+
+1 - As tarifas máximas devidas pela execução de operações e pela prestação de serviços no âmbito da concessão constam de um regulamento de tarifas elaborado e apresentado pela concessionária à APL, para efeitos de aprovação, o qual deve conter, pelo menos, para além das tarifas, as quais devem respeitar o previsto no contrato, os procedimentos para a respetiva determinação e cobrança, bem como os meios ao dispor dos utilizadores do terminal para apresentação de reclamação quanto às mesmas.
+
+2 - O valor das tarifas e respetivos regimes de vigência e atualização tomam em conta os interesses gerais do porto de Lisboa, o equilíbrio económico da exploração e os princípios tarifários básicos em vigor na generalidade dos portos nacionais.
+
+3 - Os valores das tarifas são calculados para cada operação a realizar ou serviço a prestar, tendo em consideração todos os fatores respeitantes à utilização de instalações, de equipamento e de pessoal.
+
+4 - (Revogado.)
+
+5 - As tarifas respeitantes aos movimentos de contentores em regime de trânsito internacional (transhipment) podem ser propostas e aprovadas na moeda estrangeira mais aconselhável para esta atividade de exportação de serviços.
+
+6 - É devida diretamente à APL a tarifa de uso do porto (TUP), pela disponibilidade e uso dos sistemas relativos à entrada, estacionamento e saída de navios, nomeadamente os que acostam no terminal, nos termos do regulamento de tarifas da APL.
+
+7 - O regulamento de tarifas deve ser adequadamente publicitado, de modo a permitir o seu conhecimento expedito pelos utilizadores do terminal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+###### Base VIII — (Pessoal e regime de trabalho)
+
+1 - O pessoal utilizado na exploração do terminal pertencerá aos quadros da concessionária ou será por ela recrutado sob sua responsabilidade.
+
+2 - O pessoal utilizado na exploração do terminal deverá possuir habilitações e formação adequadas para a realização do serviço que lhe for cometido.
+
+3 - O regime de trabalho a adoptar no terminal será o que melhor se adaptar ao seu movimento.
+
+4 - O horário de trabalho do pessoal utilizado na exploração do terminal será o que for legalmente estabelecido.
+
+5 - A concessionária dará conhecimento à AGPL do seu quadro de pessoal, do regime de trabalho adoptado no terminal e do horário de trabalho do pessoal.
+
+6 - No recrutamento dos seus trabalhadores a concessionária dará preferência, em condições equivalentes de qualificação e experiência, a funcionários da AGPL que nele venham a manifestar interesse.
+
+###### Base IX — (Fiscalização)
+
+1 - As instalações do terminal e as actividades nele exercidas pela concessionária serão objecto de fiscalização pelos serviços da AGPL, cujas instruções e notificações terão de ser cumpridas.
+
+2 - O acesso ao terminal dos funcionários da AGPL em serviço de fiscalização não poderá ser impedido ou dificultado sob qualquer pretexto, desde que eles se identifiquem.
+
+3 - O exercício da referida fiscalização não dispensa a que por lei competir a qualquer outro serviço do Estado.
+
+4 - A concessionária porá ao dispor da AGPL instalações adequadas para funcionamento do seu serviço de fiscalização.
+
+### Capítulo III — Obrigações especiais da concessionária
+
+###### Base X — (Deliberações a homologar pela AGPL)
+
+1 - Carecem de homologação da AGPL as deliberações que tenham por fim:
+
+a) A alteração do objecto social;
+
+b) A transformação, fusão ou dissolução da sociedade;
+
+c) A alteração da administração, direcção ou gerência da concessionária;
+
+d) A redução do capital social;
+
+e) O trespasse, a subconcessão ou a cedência, por qualquer título ou prazo, da exploração do terminal a terceiros;
+
+f) A alienação ou oneração, por qualquer forma, dos direitos emergentes da concessão ou dos bens utilizados para o exercício da respectiva actividade.
+
+2 - Estas deliberações ter-se-ão por aprovadas se a AGPL se não pronunciar no prazo de 30 dias a contar da data do registo de entrada na sua secretaria da respectiva documentação.
+
+###### Base XI — Taxas devidas à APL
+
+1 - Pela utilização das instalações portuárias postas à disposição da concessionária são devidas por esta à APL as taxas a seguir indicadas, a valores de 2018:
+
+a) Pela utilização do edifício sede:
+
+i) Área coberta - (euro) 8,5781, por metro quadrado e por mês;
+
+ii) Área de pátio - (euro) 3,0455, por metro quadrado e por mês;
+
+b) Pela utilização da área de terrapleno: (euro) 0,5095, por metro quadrado e por mês;
+
+c) Pela utilização da linha de cais acostável: (euro) 60,54, por metro linear e por mês; e
+
+d) Pela utilização do cais doca: (euro) 30,27, por metro linear e por mês.
+
+2 - São também devidas à APL pela concessionária as seguintes taxas, a valores de 2018, para cada uma das operações:
+
+a) Por cada movimento de entrada ou de saída de contentores cheios efetuado pelas gruas portuárias: (euro) 7,7427;
+
+b) Por cada movimento de entrada ou de saída de contentores vazios efetuado pelas gruas portuárias: (euro) 3,8959;
+
+c) Por cada movimento de entrada ou de saída de contentores em regime de trânsito marítimo internacional (transhipment) efetuado pelas gruas portuárias: (euro) 1,9863;
+
+d) Por cada tonelada de carga geral não contentorizada movimentada no embarque ou no desembarque: (euro) 0,5623.
+
+3 - Quando a movimentação de contentores referida no número anterior não for efectuada pelas gruas portuárias, as taxas correspondentes terão uma redução de 25%.
+
+4 - No caso de movimentação de viaturas automóveis em navios do tipo «Ro-ro» ou «Con-ro», taxa devida por cada entrada ou saída será idêntica à de um contentor cheio nas condições previstas no número anterior.
+
+5 - (Revogado.)
+
+6 - As taxas referidas no presente artigo são pagas à APL:
+
+a) As referidas no n.º 1 são pagas na tesouraria da APL no mês anterior àquele a que disser respeito, no prazo de 30 dias a contar da data da respetiva fatura;
+
+b) As taxas indicadas no n.º 2 são faturadas imediatamente após a movimentação da mercadoria e pagas no prazo de 30 dias a contar da data da fatura.
+
+7 - Pela mora no pagamento, além de outros efeitos legais, serão devidos à AGPL os juros respectivos.
+
+8 - As taxas referidas no presente artigo estão sujeitas a revisão anual, a realizar no dia 1 de janeiro de cada ano, que tem por base o coeficiente de atualização das rendas nos contratos de arrendamento não habitacionais.
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2008 - Diário da República n.º 184/2008, Série I de 2008-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2008-452192), em vigor a partir de 2008-09-24
+
+### Capítulo IV — Duração da concessão
+
+###### Base XII — (Prazo da concessão)
+
+1 - A concessão vigora até 31 de dezembro de 2038.
+
+2 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2008 - Diário da República n.º 184/2008, Série I de 2008-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2008-452192), em vigor a partir de 2008-09-24
+
+###### Base XIII — Caducidade
+
+1 - O contrato caduca quando se verificar o fim do prazo da concessão previsto na base xii, extinguindo-se as relações contratuais existentes entre as partes, sem prejuízo das disposições que, pela sua natureza ou pela sua letra, se destinem a perdurar para além daquela data.
+
+2 - No termo do prazo da concessão, reverte gratuitamente para a APL o conjunto dos seus bens, instalações e equipamentos que tenham sido postos à disposição da concessionária, tendo em vista a respetiva exploração no âmbito da concessão, ou que, estando incluídos no estabelecimento da concessão, lhe pertençam ou integrem o domínio público.
+
+3 - No termo do prazo da concessão são ainda transferidos gratuitamente para a APL todas as edificações, instalações, bens e equipamentos pertencentes à concessionária que, nessa data, integrem o estabelecimento da concessão e estejam previstos no plano de investimentos ou, não estando, tenham sido adquiridos em substituição dos bens e equipamentos aí previstos.
+
+4 - No termo do prazo da concessão, a APL tem a faculdade de, querendo, impor à concessionária que lhe transfira os demais bens, equipamentos e instalações pertencentes à concessionária que integram o estabelecimento da concessão, mediante o pagamento do respetivo valor contabilístico líquido de amortizações na data desse termo, desde que a construção ou aquisição desses bens, equipamentos e instalações tenha sido previamente autorizada pela APL, com aprovação do respetivo custo e prazo de amortização, e não tenham dado causa à reposição do equilíbrio financeiro da concessão, nos termos previstos no contrato.
+
+5 - Os bens referidos nos n.os 2, 3 e 4 devem ser entregues pela concessionária à APL, sem dependência de qualquer formalidade e livres de quaisquer ónus ou encargos, em estado de bom funcionamento, conservação e segurança, sem prejuízo do normal desgaste do seu uso para os efeitos do contrato.
+
+6 - Não assiste à concessionária, em virtude dos efeitos estabelecidos nos n.os 2 e 3, a faculdade de reclamar indemnização alguma ou de invocar, com qualquer fundamento, direito de retenção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+###### Base XIV — (Resgate da concessão)
+
+1 - A APL pode resgatar a concessão quando motivos de interesse público o justifiquem, a partir de 5 de maio de 2025, mediante aviso feito à concessionária com o mínimo de um ano de antecedência, podendo o aviso ocorrer em data anterior àquela.
+
+2 - Independentemente do limite temporal estabelecido no número anterior, a APL pode resgatar a concessão, com o fundamento e nos termos previstos no referido número, a partir do ano civil seguinte ao primeiro ano em que o terminal movimente mais de 400 000 TEU.
+
+3 - Em caso de resgate, a APL assume automaticamente os direitos e obrigações da concessionária diretamente relacionados com as atividades concedidas, desde que estes tenham sido constituídos em data anterior ao aviso previsto no n.º 1, com exceção dos emergentes:
+
+a) Dos contratos de aluguer, locação operacional ou figuras contratuais afins, que só são assumidos se a APL quiser exercer o direito previsto nos termos do contrato sucedendo na posição contratual da concessionária;
+
+b) Dos contratos de financiamento, que não são assumidos pela APL, em conformidade com o que resulta do acordo direto firmado entre a APL, a concessionária e as entidades financiadoras.
+
+4 - As obrigações assumidas pela concessionária após o aviso referido no n.º 1 apenas vinculam a APL quando esta haja autorizado, prévia e expressamente, a sua assunção.
+
+5 - Efetuado o resgate nos termos dos números anteriores, a concessionária tem direito a uma indemnização definida no contrato de concessão.
+
+6 - O resgate determina:
+
+a) A transferência para a APL do conjunto dos bens, equipamentos e instalações que integram o estabelecimento da concessão e são propriedade sua ou integram o domínio público do Estado;
+
+b) A reversão gratuita para a APL dos demais bens, equipamentos e instalações que integram o estabelecimento da concessão, sem prejuízo do disposto no n.º 5.
+
+7 - Os bens, equipamentos e instalações a que se refere o número anterior devem ser entregues pela concessionária à APL nos termos e nas condições previstos no n.º 5 da base xiii.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2008 - Diário da República n.º 184/2008, Série I de 2008-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2008-452192), em vigor a partir de 2008-09-24
+
+###### Base XV — Resolução sancionatória da concessão
+
+1 - A AGPL poderá dar por finda a concessão mediante rescisão do contrao quando reconheça ter ocorrido qualquer dos factos seguintes:
+
+a) Desvio do objecto da concessão;
+
+b) Interrupção da exploração do terminal por facto imputável à concessionária;
+
+c) Oposição repetida ao exercício da fiscalização ou reiterada desobediência às legítimas determinações da AGPL ou ainda a sistemática inobservância do regulamento de exploração, quando se mostrem ineficazes as sanções previstas;
+
+d) Recusa em proceder devidamente à conservação e reparação das instalações e equipamentos do terminal;
+
+e) Cobrança dolosa de taxas com valor superior ao fixado nos termos da base VII;
+
+f) Repetição de actos graves de indisciplina do pessoal ou dos utentes por culpa grave da concessionária;
+
+g) Falência da concessionária, salvo se a AGPL autorizar que os credores assumam os direitos e encargos resultantes do contrato de concessão;
+
+h) Penhora, arresto, arrolamento ou qualquer outra forma de apreensão de bens que constituam o terminal;
+
+i) Violação grave da legislação aplicável à actividade objecto da concessão ou de qualquer das cláusulas do respectivo contrato.
+
+2 - Não constituem causas de rescisão os factos ocorridos por motivos de força maior, e como tal reconhecidos na lei.
+
+3 - A rescisão da concessão não será declarada quando as faltas cometidas forem meramente culposas ou susceptíveis de correcção, sem que a concessionária tenha sido avisada para, em prazo que for determinado, cumprir integralmente as suas obrigações, sob pena de, não o fazendo, incorrer nesta sanção.
+
+44 - A rescisão da concessão resulta, em todos os casos, de deliberação do conselho de administração da APL, comunicada por escrito à concessionária, e produz imediatamente os seus efeitos, independentemente de qualquer outra formalidade, sem prejuízo da necessidade de notificação da intenção de rescisão às entidades financiadoras nos termos a definir no contrato de concessão.
+
+5 - A rescisão da concessão implica a perda, a favor da AGPL, da caução a que se refere a base XVIII, sem prejuízo da responsabilidade civil em que incorrer a concessionária e das sanções previstas na lei ou no contrato.
+
+6 - A resolução, nos termos previstos na presente base, determina a reversão dos bens pertencentes à APL e a obrigação de a concessionária entregar àquela, e no prazo que lhe seja fixado na notificação de resolução, os demais bens e equipamentos que integram o estabelecimento da concessão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2008 - Diário da República n.º 184/2008, Série I de 2008-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2008-452192), em vigor a partir de 2008-09-24
+
+### Capítulo V — Suspensão excepcional do regime de concessão
+
+###### Base XVI — (Caso de guerra ou de emergência grave)
+
+1 - Em caso de guerra ou de emergência grave a AGPL reserva-se o direito de gerir e explorar o terminal nas condições das leis aplicáveis.
+
+2 - Durante o período em que a AGPL exercer esse direito suspende-se, em relação a todo o objecto da concessão, o prazo a que se refere a base XII.
+
+###### Base XVII — (Sequestro)
+
+1 - A AGPL poderá tomar conta da exploração do terminal quando se der ou estiver iminente a cessação ou interrupção total ou parcial dessa exploração ou se mostrarem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações e do equipamento susceptíveis de comprometer a regularidade da exploração.
+
+2 - Caso a APL pretenda proceder ao sequestro da concessão nos termos do número anterior, a mesma deve notificar as entidades financiadoras dessa intenção, nos termos do disposto no acordo direto entre a APL, a concessionária e as entidades financiadoras constante do anexo ao contrato.
+
+3 - Quando se verificar o disposto no número anterior, a concessionária suportará os encargos resultantes da manutenção dos serviços e as despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração, quando não puderem ser cobertos pelas taxas correspondentes.
+
+4 - Logo que cessem a razões do sequestro e a AGPL julgue oportuno, a concessionária será avisada para retomar, no prazo que lhe for fixado, a normalidade da exploração.
+
+5 - Se a concessionária não quiser ou não poder retomar a exploração ou, quando o tiver feito, continuarem a verificar-se graves deficiências na organização e funcionamento do terminal, a AGPL poderá declarar a imediata rescisão do contrato.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+### Capítulo VI — Disposições diversas
+
+###### Base XVIII — Garantia
+
+1 - Como garantia das obrigações emergentes do contrato a concessionária encontra-se obrigada a apresentar uma garantia bancária a favor da APL no valor de (euro) 3 500 000.
+
+2 - (Revogado.)
+
+3 - O valor da garantia bancária é atualizado de três em três anos, proporcionalmente ao aumento, entretanto verificado, das taxas da concessão devidas à APL previstas na base xi.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2008 - Diário da República n.º 184/2008, Série I de 2008-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2008-452192), em vigor a partir de 2008-09-24
+
+###### Base XIX — Incumprimento das obrigações
+
+1 - Sem prejuízo das situações que possam dar origem a sequestro ou à resolução da concessão, o não cumprimento pontual ou cumprimento defeituoso, imputável à concessionária, dos deveres e obrigações emergentes do contrato de concessão ou das determinações da APL emitidas no âmbito da lei ou do referido contrato pode originar a aplicação de multas contratuais cujo montante varia entre um mínimo de (euro) 3000 e um máximo de (euro) 300 000, em função da gravidade das infrações cometidas.
+
+2 - No caso de incumprimento de obrigações sujeitas a um prazo determinado, o valor da multa contratual corresponde a (euro) 120, por cada dia de atraso, desde o 1.º até ao 5.º dia de atraso, a (euro) 600, por cada dia de atraso, do 6.º ao 15.º dia de atraso, e a (euro) 3000, por cada dia de atraso, desde o 16.º dia em diante, e tendo como limite global máximo o montante correspondente ao valor da garantia bancária prestada, à data de aplicação da multa.
+
+3 - Os valores mínimo e máximo das multas contratuais previstas na presente cláusula são actualizados anualmente de acordo com o índice de preços no consumidor publicado para o ano anterior, excluindo habitação.
+
+4 - A aplicação das multas referidas no número anterior cabe ao conselho de administração da APL, devendo obrigatoriamente ser precedida de audição da concessionária.
+
+5 - Caso a concessionária não proceda ao pagamento voluntário das multas que lhe sejam aplicadas no prazo de 30 dias a contar da sua notificação, a APL pode utilizar a caução prestada nos termos do contrato de concessão para pagamento das mesmas.
+
+6 - O pagamento das multas não afasta a aplicação de outras sanções contratuais nem de outras sanções previstas em lei ou regulamento, assim como não isenta a concessionária da responsabilidade civil em que incorrer.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2008 - Diário da República n.º 184/2008, Série I de 2008-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2008-452192), em vigor a partir de 2008-09-24
+
+###### Base XX — (Diferendos)
+
+1 - Todas as questões de litígio que venham a suscitar-se entre a APL e a concessionária relativas à validade, interpretação, aplicação, integração e execução do contrato são resolvidas por um tribunal arbitral, composto por três membros, um nomeado pela APL, outro pela concessionária e um terceiro por acordo entre as duas partes ou, na falta de acordo, designado em comum acordo pelos dois membros nomeados.
+
+2 - Em tudo o que se encontre omisso no presente artigo, o tribunal arbitral é regido nos termos da Lei n.º 63/2011, de 14 de dezembro, podendo as partes aceitar a aplicação de um dos regulamentos de processo e de custos de algum centro de arbitragem institucionalizado, mas sem que isso implique a aceitação da submissão a uma arbitragem institucionalizada.
+
+3 - Os árbitros poderão ser assistidos pelos peritos que julgarem necessários.
+
+4 - O tribunal julga segundo o direito constituído e das suas decisões não há lugar a recurso, com exceção das matérias sobre que a lei permita sempre o recurso.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2021-175983732), em vigor a partir de 2021-12-17

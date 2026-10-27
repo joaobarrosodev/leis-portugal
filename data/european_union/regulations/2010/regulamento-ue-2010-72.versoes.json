@@ -1,0 +1,333 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R0072:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0072-20160421",
+ "dre_path": null,
+ "source_lastmod": "2016-04-21",
+ "versions": [
+  {
+   "date": "2010-01-27",
+   "future": false,
+   "celex": "32010R0072",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ed4d4434af2fca8c",
+    "226c39ffd0a88dad",
+    "65bfbfa6e1731d88",
+    "e3fabd6a25590c07",
+    "1f769efd6881f89f",
+    "f0f8c960bfdbce9b",
+    "bac3dfecb6bc7c3c",
+    "213992d2c729d276",
+    "84daafc1b95c21a3",
+    "6d0a6c836daeb40a",
+    "3d382cb2777465ac",
+    "1e7a0903d2eed348",
+    "0c1b7f1493c7d587",
+    "7c8fea4770b3d9c3",
+    "45f2c3754b12f64f",
+    "750ca507e5ba2b23",
+    "14e699b66bf3bd5b",
+    "404aba1e1821a9f0",
+    "5811c4935cb9faab",
+    "5705eb9077805ce3",
+    "1ecfc79da3f1ac7f",
+    "966d3b11fd5a17ca",
+    "80155355b2eaf8ed",
+    "3c394924cc7eaf13",
+    "f6eaab72e267e045",
+    "e4a7b16e50fc58fe"
+   ]
+  },
+  {
+   "date": "2016-04-21",
+   "future": false,
+   "celex": "02010R0072-20160421",
+   "acts": [
+    {
+     "id": "eu:celex:32016R0472:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2016/472 DA COMISSÃO de 31 de março de 2016",
+     "published": null,
+     "celex": "32016R0472"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 16.º — Entrada em vigor",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "052fbbb889294416",
+    "226c39ffd0a88dad",
+    "65bfbfa6e1731d88",
+    "e3fabd6a25590c07",
+    "3ab986cb7f761c2c",
+    "f0f8c960bfdbce9b",
+    "bac3dfecb6bc7c3c",
+    "213992d2c729d276",
+    "84daafc1b95c21a3",
+    "6d0a6c836daeb40a",
+    "3d382cb2777465ac",
+    "1e7a0903d2eed348",
+    "0c1b7f1493c7d587",
+    "7c8fea4770b3d9c3",
+    "45f2c3754b12f64f",
+    "750ca507e5ba2b23",
+    "14e699b66bf3bd5b",
+    "404aba1e1821a9f0",
+    "5811c4935cb9faab",
+    "5705eb9077805ce3",
+    "1ecfc79da3f1ac7f",
+    "966d3b11fd5a17ca",
+    "80155355b2eaf8ed",
+    "3c394924cc7eaf13",
+    "c6ad108745581361",
+    "95afddc72a922b9e"
+   ]
+  }
+ ],
+ "fragments": {
+  "ed4d4434af2fca8c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Janeiro de 2010\n\nque estabelece procedimentos aplicáveis à realização das inspecções da Comissão no domínio da segurança da aviação\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho relativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil e que revoga o Regulamento (CE) n.º 2320/2002 [([^1])](http://publications.europa.eu/resource/cellar/c1edc4d1-7357-4f3c-8a24-e46ff8da27da.0018.02/DOC_1#ntr1-L_2010023PT.01000101-E0001), nomeadamente o artigo 15.º,\n\nConsiderando o seguinte:\n\n(1) A Comissão deve realizar inspecções para controlar a aplicação das disposições do Regulamento (CE) n.º 300/2008 pelos Estados-Membros. A organização de inspecções sob a supervisão da Comissão é necessária para verificar a eficácia dos programas nacionais de controlo da qualidade.\n\n(2) A Comissão e os Estados-Membros devem cooperar durante as fases de preparação e de realização das inspecções da Comissão.\n\n(3) A Comissão deve poder integrar nas suas equipas de inspectores os auditores nacionais habilitados colocados à disposição pelos Estados-Membros.\n\n(4) A Comissão deve efectuar as inspecções e elaborar os relatórios sobre as mesmas de acordo com um procedimento determinado, incluindo uma metodologia normalizada.\n\n(5) Os Estados-Membros devem assegurar que as deficiências identificadas durante as inspecções da Comissão sejam rapidamente corrigidas.\n\n(6) A Comissão deve poder efectuar inspecções de acompanhamento de modo a verificar que as deficiências foram corrigidas.\n\n(7) Deve ser estabelecido um processo para tratar as deficiências consideradas de tal forma graves que possam ter um impacto significativo no nível geral de segurança da aviação na Comunidade.\n\n(8) As medidas previstas no presente regulamento são conformes com o parecer do comité instituído pelo n.º 2 do artigo 19.º do Regulamento (CE) n.º 300/2008,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "65bfbfa6e1731d88": {
+   "fragment_id": "OBJECTO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJECTO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E DEFINIÇÕES"
+  },
+  "e3fabd6a25590c07": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece os procedimentos aplicáveis às inspecções realizadas pela Comissão para controlar a aplicação do Regulamento (CE) n.º 300/2008 pelos Estados-Membros. As inspecções da Comissão abrangem as autoridades competentes dos Estados-Membros e as entidades, os aeroportos e os operadores seleccionados, que aplicam normas de segurança da aviação. As inspecções devem ser realizadas de modo transparente, eficaz, harmonizado e coerente."
+  },
+  "1f769efd6881f89f": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as seguintes definições:\n\n1. «Autoridade competente», a autoridade nacional designada por um Estado-Membro nos termos do artigo 9.º do Regulamento (CE) n.º 300/2008;\n\n2. «Inspecção da Comissão», um exame dos controlos de qualidade existentes e das medidas, procedimentos e estruturas de segurança da aviação civil efectuado por inspectores da Comissão para determinar os níveis de cumprimento do disposto no Regulamento (CE) n.º 300/2008;\n\n3. «Inspector da Comissão», uma pessoa com as qualificações adequadas contratada pela Comissão ou uma pessoa contratada pelo Estado-Membro para realizar actividades de controlo da conformidade a nível nacional em nome da autoridade competente e que tenha sido seleccionada para participar nas inspecções da Comissão;\n\n4. «Comité», o comité instituído pelo n.º 1 do artigo 19.º do Regulamento (CE) n.º 300/2008;\n\n5. «Deficiência», a não observância dos requisitos definidos no Regulamento (CE) n.º 300/2008;\n\n6. «Auditor nacional», uma pessoa contratada pelo Estado-Membro para desenvolver actividades de controlo da conformidade a nível nacional em nome da autoridade competente;\n\n7. «Teste», um ensaio das medidas de segurança da aviação, no âmbito do qual é simulada a intenção de cometer um acto de interferência ilícita, destinado a testar a eficácia da aplicação das medidas de segurança vigentes;\n\n8. «Medida compensatória», uma medida ou conjunto de medidas temporárias, destinadas a limitar ao máximo o impacto de uma deficiência identificada durante a realização de uma inspecção, na pendência da sua total correcção."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "bac3dfecb6bc7c3c": {
+   "fragment_id": "REQUISITOS GERAIS",
+   "type": "divisao",
+   "heading": "REQUISITOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS GERAIS"
+  },
+  "213992d2c729d276": {
+   "fragment_id": "Artigo 3.º — Cooperação dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Cooperação dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cooperação dos Estados-Membros\n\n1. Sem prejuízo das responsabilidades da Comissão, os Estados-Membros devem cooperar com a Comissão na execução das suas tarefas de inspecção. Essa cooperação deve ser efectiva durante as fases de preparação, controlo e elaboração de relatórios.\n\n2. Os Estados-Membros devem tomar as medidas necessárias para garantir que a notificação de uma inspecção seja mantida confidencial, de modo a não comprometer o processo."
+  },
+  "84daafc1b95c21a3": {
+   "fragment_id": "Artigo 4.º — Exercício dos poderes da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Exercício dos poderes da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exercício dos poderes da Comissão\n\n1. Os Estados-Membros devem garantir que os inspectores da Comissão possam exercer a sua autoridade para inspeccionar as actividades em matéria de segurança da aviação civil desenvolvidas pela autoridade competente, nos termos do Regulamento (CE) n.º 300/2008, e pelos aeroportos, operadores ou entidades abrangidos pelo mesmo regulamento.\n\n2. Os Estados-Membros devem garantir o acesso, mediante pedido, dos inspectores da Comissão a toda a documentação pertinente necessária para avaliar o cumprimento das normas comuns.\n\n3. Sempre que os inspectores da Comissão enfrentem dificuldades no exercício das suas funções, os Estados-Membros em causa devem prestar assistência à Comissão por todos os meios legalmente ao seu alcance para que esta possa cumprir integralmente a sua tarefa."
+  },
+  "6d0a6c836daeb40a": {
+   "fragment_id": "Artigo 5.º — Critérios aplicáveis aos inspectores da Comissão em matéria de habilitações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Critérios aplicáveis aos inspectores da Comissão em matéria de habilitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios aplicáveis aos inspectores da Comissão em matéria de habilitações\n\nPara estarem habilitados a realizar as inspecções da Comissão, os inspectores da Comissão devem dispor de experiência teórica e prática relevante e ter concluído com êxito uma formação.\n\nTal formação deve:\n\na) Ser ministrada pelos serviços da Comissão;\n\nb) Consistir em acções de formação de base e contínua;\n\nc) Garantir um nível de desempenho adequado, que permita estabelecer se as medidas de segurança são aplicadas em conformidade com o Regulamento (CE) n.º 300/2008.\n\nA formação de base deve incluir um exame."
+  },
+  "3d382cb2777465ac": {
+   "fragment_id": "Artigo 6.º — Participação dos auditores nacionais nas inspecções da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Participação dos auditores nacionais nas inspecções da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Participação dos auditores nacionais nas inspecções da Comissão\n\n1. Os Estados-Membros devem colocar à disposição da Comissão auditores nacionais habilitados a participar nas inspecções da Comissão, assim como nas correspondentes fases preparatória e de elaboração de relatórios.\n\n2. Os Estados-Membros devem fornecer à Comissão os dados dos auditores nacionais, até um máximo de cinco, que possam ser chamados a participar nas inspecções da Comissão.\n\n3. A lista dos auditores nacionais nomeados pelos Estados-Membros e que preenchem os critérios definidos no artigo 5.º deve ser comunicada ao comité uma vez por ano.\n\n4. Os auditores nacionais não participam nas inspecções realizadas pela Comissão no território do Estado-Membro em que tiverem sido contratados.\n\n5. Os pedidos de participação dos auditores nacionais nas inspecções da Comissão são enviados à autoridade competente em tempo útil, normalmente dois meses antes da data prevista da inspecção.\n\n6. As despesas decorrentes da participação dos auditores nacionais nas inspecções da Comissão devem, conforme previsto nas regras comunitárias, ser suportadas pela Comissão."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "0c1b7f1493c7d587": {
+   "fragment_id": "PROCEDIMENTOS APLICÁVEIS À REALIZAÇÃO DAS INSPECÇÕES DA COMISSÃO",
+   "type": "divisao",
+   "heading": "PROCEDIMENTOS APLICÁVEIS À REALIZAÇÃO DAS INSPECÇÕES DA COMISSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTOS APLICÁVEIS À REALIZAÇÃO DAS INSPECÇÕES DA COMISSÃO"
+  },
+  "7c8fea4770b3d9c3": {
+   "fragment_id": "Artigo 7.º — Notificação das inspecções",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Notificação das inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Notificação das inspecções\n\n1. A Comissão deve notificar a autoridade competente em cujo território a inspecção irá ser realizada com pelo menos dois meses de antecedência.\n\n2. Além da notificação de realização da inspecção, será simultaneamente enviado, se necessário, um questionário de pré-inspecção a preencher pela autoridade competente, juntamente com um pedido de envio da documentação pertinente. O questionário devidamente preenchido e a documentação eventualmente solicitada devem ser enviados à Comissão pelo menos duas semanas antes da data prevista para o início da inspecção.\n\n3. Se dispuser de informações que apontem para a existência, num aeroporto, de deficiências que possam ter um impacto significativo no nível global de segurança da aviação na Comunidade, a Comissão deve consultar a autoridade competente do Estado-Membro em causa, podendo o prazo de notificação prévia da realização de uma inspecção ser reduzido para duas semanas. Neste caso, os n.^os^ 1 e 2 do presente artigo não são aplicáveis."
+  },
+  "45f2c3754b12f64f": {
+   "fragment_id": "Artigo 8.º — Preparação das inspecções",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Preparação das inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Preparação das inspecções\n\n1. Os inspectores da Comissão devem realizar actividades preparatórias para garantir a eficácia, o rigor e a coerência das inspecções.\n\n2. Devem ser fornecidos à autoridade competente os nomes dos inspectores da Comissão mandatados para realizar uma inspecção, juntamente com outros dados eventualmente necessários.\n\n3. Para cada inspecção, a autoridade competente deve designar um coordenador, que toma as providências de ordem prática associadas à actividade de inspecção a realizar. Os Estados-Membros devem enviar à Comissão, no prazo de três semanas a contar da recepção da notificação da inspecção, o nome e os dados de contacto do coordenador."
+  },
+  "750ca507e5ba2b23": {
+   "fragment_id": "Artigo 9.º — Realização das inspecções",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Realização das inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Realização das inspecções\n\n1. Os inspectores da Comissão devem realizar as inspecções de uma forma eficaz e eficiente, tendo em devida conta a segurança intrínseca e extrínseca própria e de terceiros. Os inspectores da Comissão cujo comportamento durante as inspecções não dê cumprimento a essas normas podem ser excluídos de inspecções ulteriores.\n\n2. Deve ser utilizada uma metodologia normalizada para controlar o cumprimento dos requisitos de segurança da aviação civil estabelecidos no Regulamento (CE) n.º 300/2008.\n\nA realização das inspecções assenta na recolha sistemática de informações, utilizando uma ou várias das seguintes técnicas:\n\na) Observações;\n\nb) Verificações;\n\nc) Entrevistas;\n\nd) Análise de documentos; e\n\ne) Testes.\n\n3. Enquanto desenvolvem actividades de inspecção, os inspectores da Comissão devem ser acompanhados de um representante da autoridade competente. O comportamento dos grupos acompanhadores não deve prejudicar a eficiência ou eficácia das actividades de inspecção.\n\n4. Os inspectores da Comissão devem ser portadores de um cartão de identificação que os autoriza a realizar inspecções em nome da Comissão, bem como de um cartão de identificação fornecido pelo aeroporto, que lhes permita aceder a todas as zonas necessárias para efeitos da inspecção. O modelo de cartão de identificação fornecido pelo aeroporto não deverá prejudicar a eficiência ou eficácia das actividades de inspecção.\n\n5. Só serão efectuados testes mediante notificação prévia e em estreita coordenação com a autoridade competente.\n\n6. Os Estados-Membros devem assegurar que os inspectores da Comissão sejam autorizados a transportar artigos destinados a serem utilizados para efectuar testes, incluindo os que sejam ou tenham a aparência de artigos proibidos, em qualquer área a que seja exigido o acesso durante a realização de uma inspecção e quando em trânsito para ou desde o local de uma inspecção, em conformidade com os protocolos eventualmente aprovados.\n\n7. A autoridade competente deve ser informada, logo que possível, das eventuais deficiências graves detectadas durante uma inspecção da Comissão. Além disso, e sem prejuízo do disposto no artigo 10.º, os inspectores da Comissão devem, na medida do possível, apresentar um resumo oral informal das suas conclusões imediatamente no final da inspecção."
+  },
+  "14e699b66bf3bd5b": {
+   "fragment_id": "Artigo 10.º — Relatório de inspecção",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Relatório de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Relatório de inspecção\n\n1. No prazo de seis semanas a contar da conclusão de uma inspecção, a Comissão envia um relatório de inspecção à autoridade competente.\n\nA autoridade competente transmite prontamente as conclusões relevantes às entidades, ao aeroporto ou aos operadores inspeccionados.\n\n2. O relatório deve incluir as conclusões dos inspectores, nomeadamente as deficiências identificadas. O relatório pode incluir recomendações de medidas correctivas.\n\n3. Na avaliação da aplicação do Regulamento (CE) n.º 300/2008, são aplicadas as seguintes classificações:\n\na) Cumpre na íntegra;\n\nb) Cumpre, mas são desejáveis melhorias;\n\nc) Não cumpre;\n\nd) Não cumpre, apresenta deficiências graves;\n\ne) Não se aplica;\n\nf) Não confirmado."
+  },
+  "404aba1e1821a9f0": {
+   "fragment_id": "Artigo 11.º — Resposta da autoridade competente",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Resposta da autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Resposta da autoridade competente\n\n1. No prazo de três meses a contar da data do envio de um relatório de inspecção, a autoridade competente deve apresentar à Comissão, por escrito, uma resposta ao relatório, que:\n\na) Trate as conclusões e recomendações;\n\nb) Apresente um plano de acção, especificando as medidas e o calendário, destinado a corrigir as deficiências detectadas.\n\n2. No caso das inspecções de acompanhamento, a resposta da autoridade competente deve ser apresentada no prazo de seis semanas a contar da data de envio do relatório de inspecção.\n\n3. Se o relatório de inspecção não apontar quaisquer deficiências, não é necessária resposta."
+  },
+  "5811c4935cb9faab": {
+   "fragment_id": "Artigo 12.º — Correcção das deficiências",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Correcção das deficiências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Correcção das deficiências\n\n1. As deficiências identificadas durante as inspecções devem ser prontamente corrigidas. Caso não possam ser prontamente corrigidas, devem ser aplicadas medidas compensatórias.\n\n2. A autoridade competente deve enviar à Comissão uma confirmação por escrito da correcção dessas deficiências. Essa confirmação basear-se-á nas actividades de acompanhamento da conformidade desenvolvidas pela autoridade competente.\n\n3. A autoridade competente deve ser informada, caso se considere que o relatório de inspecção não exige medidas complementares."
+  },
+  "5705eb9077805ce3": {
+   "fragment_id": "Artigo 13.º — Inspecções de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Inspecções de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Inspecções de acompanhamento\n\n1. Após recepção da resposta da autoridade competente e dos eventuais esclarecimentos adicionais necessários, a Comissão pode realizar uma inspecção de acompanhamento.\n\n2. A autoridade competente em cujo território se irá realizar uma inspecção de acompanhamento deve ser notificada com pelo menos duas semanas de antecedência.\n\n3. As inspecções de acompanhamento devem essencialmente incidir nas áreas em que tenham sido detectadas deficiências durante a inspecção inicial da Comissão."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "966d3b11fd5a17ca": {
+   "fragment_id": "DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "80155355b2eaf8ed": {
+   "fragment_id": "Artigo 14.º — Informações ao comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Informações ao comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informações ao comité\n\nO comité deve ser regularmente informado sobre a execução do programa de inspecções da Comissão e sobre os resultados das suas avaliações."
+  },
+  "3c394924cc7eaf13": {
+   "fragment_id": "Artigo 15.º — Notificação de deficiências graves às autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Notificação de deficiências graves às autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Notificação de deficiências graves às autoridades competentes\n\n1. As autoridades competentes devem ser prontamente informadas se uma inspecção realizada num aeroporto situado no seu território revelar deficiências graves que se considere terem impactos significativos no nível global de segurança da aviação na Comunidade. Essa informação deve igualmente ser prontamente comunicada às autoridades competentes de todos os outros Estados-Membros.\n\n2. Se a Comissão dispuser de informações fidedignas sobre medidas correctivas, incluindo medidas compensatórias, que confirmem que as deficiências notificadas ao abrigo do presente artigo deixaram de ter um impacto significativo no nível global de segurança da aviação na Comunidade, as autoridades competentes devem também ser prontamente informadas."
+  },
+  "f6eaab72e267e045": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir da data definida nas regras de execução adoptadas em conformidade com o procedimento referido no n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 e, o mais tardar, em 29 de Abril de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 26 de Janeiro de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "e4a7b16e50fc58fe": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/c1edc4d1-7357-4f3c-8a24-e46ff8da27da.0018.02/DOC_1#ntc1-L_2010023PT.01000101-E0001) [JO L 97 de 9.4.2008, p. 72](http://publications.europa.eu/resource/oj/JOL_2008_097_R_TOC)."
+  },
+  "052fbbb889294416": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Janeiro de 2010\n\nque estabelece procedimentos aplicáveis à realização das inspecções da Comissão no domínio da segurança da aviação\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho relativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil e que revoga o Regulamento (CE) n.º 2320/2002 ([^1^](http://publications.europa.eu/resource/cellar/3effd327-fbad-4f1e-a522-9926344d007f.0015.02/DOC_1#E0001)), nomeadamente o artigo 15.º,\n\n(1) A Comissão deve realizar inspecções para controlar a aplicação das disposições do Regulamento (CE) n.º 300/2008 pelos Estados-Membros. A organização de inspecções sob a supervisão da Comissão é necessária para verificar a eficácia dos programas nacionais de controlo da qualidade.\n\n(2) A Comissão e os Estados-Membros devem cooperar durante as fases de preparação e de realização das inspecções da Comissão.\n\n(3) A Comissão deve poder integrar nas suas equipas de inspectores os auditores nacionais habilitados colocados à disposição pelos Estados-Membros.\n\n(4) A Comissão deve efectuar as inspecções e elaborar os relatórios sobre as mesmas de acordo com um procedimento determinado, incluindo uma metodologia normalizada.\n\n(5) Os Estados-Membros devem assegurar que as deficiências identificadas durante as inspecções da Comissão sejam rapidamente corrigidas.\n\n(6) A Comissão deve poder efectuar inspecções de acompanhamento de modo a verificar que as deficiências foram corrigidas.\n\n(7) Deve ser estabelecido um processo para tratar as deficiências consideradas de tal forma graves que possam ter um impacto significativo no nível geral de segurança da aviação na Comunidade.\n\n(8) As medidas previstas no presente regulamento são conformes com o parecer do comité instituído pelo n.º 2 do artigo 19.º do Regulamento (CE) n.º 300/2008,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3ab986cb7f761c2c": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as seguintes definições:\n\n1. «Autoridade competente», a autoridade nacional designada por um Estado-Membro nos termos do artigo 9.º do Regulamento (CE) n.º 300/2008;\n\n2. «Inspecção da Comissão», um exame dos controlos de qualidade existentes e das medidas, procedimentos e estruturas de segurança da aviação civil efectuado por inspectores da Comissão para determinar os níveis de cumprimento do disposto no Regulamento (CE) n.º 300/2008;\n\n3. «Inspetor da Comissão», uma pessoa selecionada pela Comissão para participar em inspeções da Comissão, que seja cidadão da União ou nacional de um dos Estados membros da Associação Europeia de Comércio Livre (EFTA) e esteja ao serviço de uma das entidades seguintes:\n\n— a Comissão;\n\n— um Estado-Membro da União, como auditor nacional;\n\n— um Estado membro da EFTA, como pessoa responsável pela realização das atividades de controlo da conformidade a nível nacional, em nome desse Estado membro;\n\n— o Órgão de Fiscalização da EFTA;\n\n— o secretariado da Conferência Europeia da Aviação Civil;\n\n4. «Comité», o comité instituído pelo n.º 1 do artigo 19.º do Regulamento (CE) n.º 300/2008;\n\n5. «Deficiência», a não observância dos requisitos definidos no Regulamento (CE) n.º 300/2008;\n\n6. «Auditor nacional», uma pessoa contratada pelo Estado-Membro para desenvolver actividades de controlo da conformidade a nível nacional em nome da autoridade competente;\n\n7. «Teste», um ensaio das medidas de segurança da aviação, no âmbito do qual é simulada a intenção de cometer um acto de interferência ilícita, destinado a testar a eficácia da aplicação das medidas de segurança vigentes;\n\n8. «Medida compensatória», uma medida ou conjunto de medidas temporárias, destinadas a limitar ao máximo o impacto de uma deficiência identificada durante a realização de uma inspecção, na pendência da sua total correcção."
+  },
+  "c6ad108745581361": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir da data definida nas regras de execução adoptadas em conformidade com o procedimento referido no n.º 3 do artigo 4.º do Regulamento (CE) n.º 300/2008 e, o mais tardar, em 29 de Abril de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "95afddc72a922b9e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3effd327-fbad-4f1e-a522-9926344d007f.0015.02/DOC_1#src.E0001)) JO L 97 de 9.4.2008, p. 72."
+  }
+ }
+}

@@ -1,0 +1,586 @@
+---
+schema_version: '1.0'
+id: pt:dre:385205:por
+title: Decreto-Lei n.º 116/97
+short_title: null
+summary: Transpõe para a ordem jurídica interna a Directiva n.º 93/103/CE, do Conselho, de 23 de Novembro, relativa às prescrições
+  mínimas de segurança e de saúde no trabalho a bordo dos navios de pesca
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério para a Qualificação e o Emprego
+proposing_entity: null
+official_number: 116/97
+official_date: null
+publication_date: '1997-05-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/1997, Série I-A de 1997-05-12
+  number: '109'
+  series: I
+  supplement: null
+  pages: 2285 - 2288
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/05/109a00/22852288.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-12-08'
+version_history:
+  file: decreto-lei-116-97.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1997-05-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-12-01'
+    amending: pt:dre:345124:por
+    amending_title: Lei n.º 113/99
+    changes:
+    - Altera Artigo 10.º
+  - date: '2014-02-27'
+    amending: pt:dre:571052:por
+    amending_title: Lei n.º 3/2014
+    changes:
+    - Altera Artigo 1.º
+  - date: '2020-12-08'
+    amending: pt:dre:150570706:por
+    amending_title: Decreto-Lei n.º 101-F/2020
+    changes:
+    - Adita Anexo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/116/1997/p/cons/20201207/pt/html
+  oj: null
+  dre: '385205'
+  dre_path: /dr/detalhe/decreto-lei/116-1997-385205
+  internal: pt:dre:385205:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1997-385205
+  metadata_url: https://data.dre.pt/eli/dec-lei/116/1997/p/cons/20201207/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-150661817
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-150661817
+  retrieved_at: '2026-10-22T12:36:01Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3620d646586ec0419117504b5b3b5b160c82cc28d64e47ff97b74f77cb648b8c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:36:01Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-116-97.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acidente de Trabalho
+- Sistema de Autoridade Marítima
+- Formação Profissional
+- Pessoal do MAR
+- Multa
+- Comandante
+- Mar
+- Higiene do Trabalho
+- Contra-ordenação
+- Contra-ordenação Laboral
+- Definição de Competências
+- Direcção Geral de Portos Navegação e Transportes Marítimos
+- Equipamento
+- Segurança no Trabalho
+- Fiscalização
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Normas de Trabalho
+- Armador
+- Regime Jurídico
+- Condições de Higiene e Segurança no Trabalho
+- Embarcação de Pesca
+- Comércio
+- Trabalhador
+relationships:
+- type: amended_by
+  target: pt:dre:345124:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124
+  date: '1999-08-03'
+- type: amended_by
+  target: pt:dre:571052:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-2014-571052
+  date: '2014-01-28'
+- type: amended_by
+  target: pt:dre:150570706:por
+  label: Adita Anexo; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera
+    Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706
+  date: '2020-12-07'
+- type: cites
+  target: celex:31993L0103
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/103/oj
+- type: transposes
+  target: celex:31992L0029
+  label: null
+  source: null
+- type: transposes
+  target: celex:32002L0044
+  label: null
+  source: null
+- type: transposes
+  target: celex:32003L0010
+  label: null
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:36:01Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 116/97
+
+Decreto-Lei n.º 116/97
+
+de 12 de Maio
+
+Os princípios gerais de promoção da segurança, higiene e saúde no trabalho adoptados pelo Decreto-Lei n.º 441/91, de 14 de Novembro, são desenvolvidos através de legislação complementar aplicável em diversos sectores de actividade económica e resultante, designadamente, da transposição para o direito interno de directivas comunitárias.
+
+Nesse sentido, o presente diploma visa o estabelecimento de prescrições mínimas de segurança e de saúde no trabalho a bordo dos navios de pesca, transpondo para o direito interno a Directiva n.º <a href="eurlex.asp?ano=1993&id=393L0103" title="Link para Directiva da Comunidade Europeia">93/103/CE</a>, do Conselho, de 23 de Novembro de 1993.
+
+As condições de trabalho e de vida a bordo dos navios de pesca reflectem os efeitos da exiguidade do espaço nos locais de trabalho, da duração e do ritmo do trabalho, da diversidade das tarefas realizadas pelos trabalhadores, do nível do ruído, das condições climatéricas e do isolamento dos navios, que limitam as possibilidades de intervenção e podem agravar as consequências de acidentes a bordo. Estes factores concorrem para que a frequência dos acidentes mortais que atingem os trabalhadores marítimos seja superior à que se verifica noutras profissões de risco.
+
+O presente diploma visa promover a melhoria das condições de segurança e de saúde no trabalho a bordo dos navios de pesca, atendendo às condições em que o trabalho é prestado e à realização de actividades de risco. Definem-se, para isso, as obrigações dos diversos intervenientes com responsabilidade nas tarefas efectuadas a bordo e ainda as prescrições mínimas específicas de carácter técnico relativas à utilização de equipamentos de segurança de protecção e de bem-estar adaptados às especificidades do trabalho no mar e às características dos navios.
+
+Por outro lado, tendo em consideração a livre circulação de trabalhadores, o diploma estabelece princípios orientadores que permitam pôr em prática normas de segurança e de saúde a bordo dos navios de pesca, em condições idênticas às de outros países da União Europeia. Para tal fim, deve ser dada formação adequada não só a quem exerça funções de comando nesses navios, como também a todos os restantes trabalhadores, visando-se, entre outros aspectos relevantes, os procedimentos relativos à melhoria das condições de segurança e de saúde a bordo, bem como a utilização correcta dos meios de salvamento e de sobrevivência e outros equipamentos.
+
+O projecto correspondente ao presente diploma foi publicado, para apreciação pública, na separata n.º 3, de 30 de Abril de 1996, do Boletim do Trabalho e Emprego, tendo sido acolhidas algumas das sugestões apresentadas.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma estabelece os princípios gerais relativos às prescrições mínimas de segurança e de saúde no trabalho a bordo dos navios de pesca.
+
+2 - O presente diploma aplica-se:
+
+a) Sem prejuízo do disposto no n.º 2 do artigo 3.º da Lei n.º 102/2009, de 10 de setembro, com a redação atual, e com as devidas adaptações, aos navios de pesca com comprimento inferior a 15 m;
+
+b) Aos navios de pesca novos com comprimento igual ou superior a 15 m;
+
+c) Aos navios de pesca existentes com comprimento igual ou superior a 18 m.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 3/2014 - Diário da República n.º 19/2014, Série I de 2014-01-28](https://diariodarepublica.pt/dr/detalhe/lei/3-2014-571052), em vigor a partir de 2014-02-27
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma, entende-se por:
+
+a) «Navio de pesca» o navio que arvore bandeira nacional e seja utilizado com fins comerciais para a captura ou para a captura e processamento de peixe ou de outros recursos vivos do mar;
+
+b) 'Comprimento entre perpendiculares (LPP)' a distância medida entre a perpendicular de vante e a perpendicular de ré sobre a linha de flutuação, definida nos termos do n.º 8) do artigo 2.º da Convenção Internacional sobre a Arqueação dos Navios, aprovada pelo Decreto do Governo n.º 4/87, de 15 de janeiro, ou o comprimento medido da face de vante da roda de proa até ao eixo da madre do leme naquela linha de flutuação, se este comprimento for maior;
+
+c) 'Navio ou embarcação de pesca novo' o navio ou embarcação de pesca, com comprimento igual ou superior a 15 m, relativamente ao qual:
+
+i) Seja celebrado um contrato de construção ou de transformação que altere as suas dimensões principais; ou
+
+ii) Na sequência de um contrato de construção ou de transformação que altere as suas dimensões principais celebrado antes da data de entrada em vigor da portaria referida no artigo 9.º, ocorra a sua entrega ao proprietário pelo menos três anos depois daquela data; ou
+
+iii) Sem que haja um contrato de construção, ocorra o assentamento da quilha, ou o início de uma construção identificável como um navio específico, ou o início de uma operação de montagem que implique pelo menos 50 t do material total previsto para a sua estrutura ou 1% desse total, quando esta quantidade for inferior à primeira;
+
+d) «Navio de pesca existente» o navio de pesca, com comprimento igual ou superior a 18 m, que não seja um navio de pesca novo;
+
+e) «Trabalhador» a pessoa que exerça uma actividade profissional a bordo de um navio de pesca, incluindo estagiários e aprendizes, com excepção de pilotos da barra e de pessoal de terra a trabalhar a bordo de um navio atracado;
+
+f) «Armador» o proprietário registado de um navio, o afretador a casco nu ou a pessoa singular ou colectiva que assegure a gestão, total ou parcial, de um navio nos termos de um acordo de gestão e que detenha a responsabilidade e a direcção do processo produtivo;
+
+g) «Comandante, mestre ou arrais», adiante designado «comandante», o trabalhador que comanda ou é responsável pelo navio de pesca, de acordo com a legislação aplicável.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706), em vigor a partir de 2020-12-08
+
+###### Artigo 3.º — Disposições gerais
+
+1 - O armador deve assegurar que o navio ofereça aos trabalhadores as melhores condições de segurança e de saúde, nomeadamente em condições meteorológicas previsíveis, sem prejuízo das responsabilidades do comandante a bordo do navio.
+
+2 - Os trabalhadores que sejam forçados a afastar-se dos seus postos de trabalho, em caso de perigo grave e imediato que não possa ser evitado, devem proceder de modo a eliminar ou a diminuir, na medida do possível, os riscos a que fiquem expostos os outros trabalhadores.
+
+###### Artigo 4.º — Obrigações do armador
+
+Sem prejuízo das obrigações gerais do empregador previstas no artigo 15.º da Lei n.º 102/2009, de 10 de setembro, na sua redação atual, o armador deve:
+
+a) Assegurar a manutenção técnica dos navios, equipamentos e dispositivos e providenciar para que sejam eliminados, o mais rapidamente possível, os defeitos susceptíveis de afectar a segurança e a saúde dos trabalhadores, sem prejuízo das responsabilidades do comandante a bordo do navio;
+
+b) Assegurar que haja a bordo do navio meios de salvamento e de sobrevivência apropriados, em bom estado de funcionamento e em quantidade suficiente;
+
+c) Assegurar o cumprimento das prescrições mínimas de segurança e de saúde constantes na portaria e no anexo referidos no artigo 9.º;
+
+d) Assegurar aos trabalhadores o fornecimento de equipamentos de proteção individual, de acordo com o disposto no Decreto-Lei n.º 348/93, de 1 de outubro, na sua redação atual, e na Portaria n.º 988/93, de 6 de outubro, e que atendam às especificações previstas na portaria e no anexo referidos no artigo 9.º;
+
+e) Assegurar a limpeza regular do navio e a manutenção dos seus equipamentos e dispositivos, a fim de serem mantidas as condições de higiene adequadas;
+
+f) Fornecer ao comandante todos os meios necessários ao cumprimento das obrigações impostas pelo presente diploma.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706), em vigor a partir de 2020-12-08
+
+###### Artigo 5.º — Obrigações do comandante
+
+O comandante ou mestre deve:
+
+a) Assegurar, antes da saída para o mar, que os equipamentos e os dispositivos de segurança estão instalados em local apropriado e em condições normais de utilização;
+
+b) Informar o armador das deficiências que encontrar nos aspetos respeitantes à aplicação do presente diploma, nomeadamente os relativos às prescrições mínimas previstas na portaria e no anexo referidos no artigo 9.º;
+
+c) Elaborar relatório circunstanciado sobre qualquer incidente marítimo com possibilidade de repercussão na segurança e na saúde dos trabalhadores, bem como registá-lo no livro de bordo, ou num documento criado para o efeito, se aquele não existir;
+
+d) Transmitir o relatório referido na alínea anterior ao órgão local da Autoridade Marítima Nacional (AMN) do primeiro porto nacional escalado após o incidente, que remete uma cópia à Autoridade para as Condições do Trabalho (ACT) e à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), sem prejuízo de outras notificações previstas na lei.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706), em vigor a partir de 2020-12-08
+
+###### Artigo 6.º — Informação, consulta e participação dos trabalhadores
+
+1 - O armador deve assegurar aos trabalhadores e aos seus representantes para a segurança, higiene e saúde no trabalho a informação, sob forma compreensível, sobre as medidas a tomar no âmbito da segurança e da saúde a bordo dos navios, sem prejuízo das responsabilidades do comandante a bordo do navio.
+
+2 - A consulta e a participação dos trabalhadores e dos seus representantes devem obedecer ao disposto nos artigos 18.º e 19.º da Lei n.º 102/2009, de 10 de setembro, na sua redação atual.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706), em vigor a partir de 2020-12-08
+
+###### Artigo 7.º — Formação dos trabalhadores
+
+1 - Sem prejuízo do disposto no artigo 20.º da Lei n.º 102/2009, de 10 de setembro, na sua redação atual, o armador deve facultar aos trabalhadores a formação adequada, assim como as atualizações necessárias sobre a segurança e a saúde a bordo do navio ou embarcação, em especial sobre emergências, prevenção de acidentes, combate a incêndios, utilização de meios de salvamento e de sobrevivência, utilização das artes de pesca e dos equipamentos de tração, bem como os métodos de sinalização, designadamente os gestuais, e ainda os necessários planos de treino internos para cada uma das matérias dos planos de formação.
+
+2 - As pessoas habilitadas a comandar um navio devem receber, de acordo com a legislação aplicável, uma formação apropriada sobre a prevenção das doenças e dos acidentes de trabalho a bordo, as medidas a adoptar em caso de acidente, a estabilidade do navio e a sua preservação em todas as condições previsíveis de carga e durante as operações de pesca, a navegação e a comunicação via rádio.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706), em vigor a partir de 2020-12-08
+
+###### Artigo 8.º — Acidentes de trabalho
+
+1 - Sem prejuízo de outras notificações previstas na lei, o armador deve comunicar à ACT e à DGRM, ao Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica e ao órgão local da AMN do primeiro porto nacional escalado após o incidente, no mais curto prazo possível, os acidentes mortais, bem como aqueles que evidenciem lesão física grave.
+
+2 - Nos acidentes de trabalho que provoquem lesão de trabalhadores, o comandante deve recorrer à consulta médica via rádio, prevista no artigo 13.º do Decreto-Lei n.º 274/95, de 23 de Outubro, a fim de ser elucidado sobre a sua gravidade e receber orientação médica qualificada.
+
+3 - O armador, ou o seu representante, deve, dentro do possível, impedir que sejam destruídos ou alterados os vestígios do acidente, sem prejuízo da assistência a prestar às vítimas.
+
+4 - Sem prejuízo da investigação técnica realizada pelo Gabinete de Prevenção e de Investigação de Acidentes Marítimos ao abrigo da Lei n.º 18/2012, de 7 de maio, o apuramento das causas que, no âmbito do presente decreto-lei, estiverem ligadas a acidente de que resulte a morte ou lesão de trabalhadores compete à ACT, com a participação de um representante da DGRM e um representante do órgão local da AMN.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706), em vigor a partir de 2020-12-08
+
+###### Artigo 9.º — Regulamentação
+
+1 - A regulamentação das prescrições mínimas de segurança e de saúde no trabalho a bordo dos navios ou embarcações de pesca, novos e existentes, é estabelecida pela Portaria n.º 356/98, de 24 de junho.
+
+2 - Ao alojamento nos navios ou embarcações de pesca novos com convés, qualquer que seja o seu comprimento, aplicam-se as prescrições mínimas constantes do anexo ao presente diploma e do qual faz parte integrante.
+
+3 - Para efeitos do número anterior, considera-se novo o navio ou embarcação de pesca com convés que:
+
+a) Tenha sido objeto de um contrato de construção ou de transformação importante na data de entrada em vigor do anexo ao presente diploma ou após essa data;
+
+b) Tenha sido objeto de um contrato de construção ou de transformação importante antes da data da entrada em vigor do presente diploma, e seja entregue três anos ou mais após essa data; ou
+
+c) Na ausência de um contrato de construção, na data de entrada em vigor do presente diploma ou depois dessa data:
+
+i) Tenha sido objeto de assentamento da quilha;
+
+ii) Tenha sido iniciada uma construção identificável como um navio específico; ou
+
+iii) Tenha sido iniciada uma operação de montagem que envolva, pelo menos, 50 t ou 1 % do material total previsto para a sua estrutura, consoante o valor que for mais baixo.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706), em vigor a partir de 2020-12-08
+
+###### Artigo 10.º — Contra-ordenações
+
+1 - Constitui contraordenação muito grave a violação do artigo 4.º
+
+2 - Constitui contraordenação grave a violação das alíneas a), c) e d) do artigo 5.º, dos artigos 6.º e 7.º, dos n.os 1 a 3 do artigo 8.º, do artigo 9.º e dos n.os 1, 2 e 5 do artigo 9.º-A.
+
+3 - O regime geral da responsabilidade contraordenacional previsto nos artigos 548.º a 566.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, aplica-se às infrações decorrentes da violação do presente diploma, sem prejuízo das competências legalmente atribuídas, nas Regiões Autónomas, aos respetivos órgãos e serviços regionais.
+
+4 - Às contraordenações previstas nos n.os 1 e 2 aplica-se o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro, na sua redação atual.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706), em vigor a partir de 2020-12-08
+
+> Alterado pelo/a Artigo 17.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01
+
+###### Artigo 11.º — Controlo e fiscalização
+
+1 - O controlo e a fiscalização do cumprimento do disposto no presente diploma são cometidos, no âmbito das suas competências, à ACT, à DGRM e aos órgãos locais da AMN.
+
+2 - Sempre que a DGRM ou os órgãos locais da AMN detetarem, no exercício da respetiva atividade, situações que constituam contraordenação punível nos termos do artigo anterior devem participá-las à ACT para efeitos de processamento e aplicação das correspondentes coimas.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706), em vigor a partir de 2020-12-08
+
+###### Artigo 12.º — Regiões Autónomas
+
+O presente diploma é aplicável às Regiões Autónomas, sem prejuízo das competências legalmente atribuídas aos respetivos órgãos e serviços regionais.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706), em vigor a partir de 2020-12-08
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente diploma entra em vigor 90 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Manuel de Carvalho Ferreira Vitorino - José Manuel da Costa Monteiro Consiglieri Pedroso - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues.
+
+Promulgado em 18 de Abril de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 22 de Abril de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — Alojamento no navio ou embarcação de pesca
+
+[a que se referem as alíneas c) e d) do artigo 4.º, a alínea b) do artigo 5.º e o n.º 2 e as alíneas a), b) e c) do n.º 3 do artigo 9.º]
+
+Disposições gerais
+
+Sem prejuízo do disposto no Decreto-Lei n.º 274/95, de 23 de outubro, na sua redação atual, e na Portaria n.º 356/98, de 24 de junho, o presente anexo aplica-se aos navios ou embarcações de pesca novos com convés, a que se refere o n.º 3 do artigo 9.º do presente decreto-lei.
+
+1 - A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) pode autorizar derrogações às disposições do presente anexo para os navios ou embarcações de pesca que normalmente não permanecem no mar mais de 24 horas, se os trabalhadores não residirem a bordo do navio ou embarcação de pesca quando este se encontra no porto.
+
+2 - Os trabalhadores que trabalham a bordo de navios feeder que não dispõem de alojamento e instalações sanitárias adequados devem poder utilizá-los a bordo do navio-mãe.
+
+Planeamento e controlo
+
+3 - Sempre que o alojamento da tripulação a bordo de um navio ou embarcação de pesca tiver sido renovado, a DGRM certifica esse navio ou embarcação quanto ao cumprimento dos requisitos do presente anexo.
+
+4 - As disposições do presente anexo devem ser cumpridas, na medida do possível, quando o alojamento da tripulação de um navio ou embarcação de pesca for substancialmente alterado e nos casos em que ocorra a substituição do pavilhão do navio pelo pavilhão nacional.
+
+5 - Nos casos mencionados nos n.os 3 e 4, para navios ou embarcações de pesca de comprimento igual ou superior a 24 m, devem ser submetidos à aprovação da DGRM planos e informações detalhados relativos ao alojamento.
+
+6 - Para navios ou embarcações de pesca de comprimento igual ou superior a 24 m, sempre que o alojamento da tripulação tiver sido reconstruído ou substancialmente alterado, e quando o navio ou embarcação de pesca substitui o seu pavilhão pelo pavilhão nacional, a DGRM deve verificar o cumprimento dos requisitos do presente anexo.
+
+7 - Quando um navio ou embarcação de pesca substitui o seu pavilhão pelo pavilhão nacional, quaisquer outros requisitos que a autoridade competente do país terceiro cujo pavilhão o navio arvorava anteriormente possa ter adotado em conformidade com os n.os 15, 39, 47 ou 62 do anexo iii da Convenção n.º 188 deixam de ser aplicáveis ao navio.
+
+Conceção e construção
+
+8 - Todos os espaços de alojamento devem possuir uma altura livre adequada. Em espaços onde os trabalhadores devam permanecer de pé durante longos períodos, a altura livre mínima é de 190 cm.
+
+9 - Para navios ou embarcações de pesca de comprimento igual ou superior a 24 m, a altura livre mínima permitida em todos os alojamentos onde os trabalhadores devem poder gozar de liberdade total de movimentos não deve ser inferior a 200 cm.
+
+Aberturas para os espaços de alojamento e entre estes
+
+10 - As cabinas não devem abrir diretamente para os porões de peixe e as salas das máquinas, exceto em caso de saída de emergência. Na medida do possível e razoável, devem ser evitadas as aberturas diretas para cozinhas, paióis, espaços de secagem ou instalações sanitárias comuns, salvo disposição expressa em contrário.
+
+11 - Para navios ou embarcações de pesca de comprimento igual ou superior a 24 m, não devem existir aberturas diretas entre as cabinas e os porões de peixe e a sala das máquinas, cozinhas, paióis, espaços de secagem ou instalações sanitárias comuns, exceto em caso de saída de emergência; a parte da antepara que separa estes locais das cabinas e das anteparas exteriores deve ser devidamente construída em aço ou outro material aprovado e ser estanque à água e ao gás. Esta disposição não exclui a possibilidade de partilha de zonas sanitárias entre duas cabinas.
+
+Isolamento
+
+12 - Os espaços de alojamento devem estar convenientemente isolados; os materiais utilizados para construir as anteparas interiores, os painéis e revestimentos, os pavimentos e as juntas devem ser adaptados à sua utilização e garantir um ambiente saudável. Todos os espaços de alojamento devem possuir dispositivos suficientes de escoamento de águas.
+
+13 - Devem ser tomadas todas as medidas possíveis para proteger os alojamentos da tripulação dos navios ou embarcações de pesca contra moscas e outros insetos, em especial quando os navios estiverem a operar em zonas infestadas de mosquitos.
+
+14 - Todos os espaços de alojamento devem estar dotados das saídas de emergência necessárias.
+
+Ruído e vibrações
+
+15 - O n.º 16 aplica-se sem prejuízo do disposto no Decreto-Lei n.º 46/2006, de 26 de fevereiro, que transpõe para a ordem jurídica nacional a Diretiva 2002/44/CE do Parlamento Europeu e do Conselho, de 25 de junho, relativa às prescrições mínimas de proteção da saúde e segurança dos trabalhadores em caso de exposição aos riscos devidos a vibrações e do disposto no Decreto-Lei n.º 182/2006, de 6 de setembro, que transpõe para a ordem jurídica interna a Diretiva 2003/10/CE do Parlamento Europeu e do Conselho, de 6 de fevereiro, relativa às prescrições mínimas de segurança e saúde em matéria de exposição dos trabalhadores aos riscos devidos ao ruído.
+
+16 - Os níveis de ruído e vibrações em espaços de alojamento devem cumprir com as prescrições mínimas legalmente previstas, de modo a assegurar uma proteção adequada aos trabalhadores contra os efeitos desse ruído e dessas vibrações, nomeadamente a fadiga que causam.
+
+Ventilação
+
+17 - Os espaços de alojamento devem ser ventilados em função das condições climáticas. O sistema de ventilação deve permitir a circulação permanente e satisfatória de ar fresco sempre que existam trabalhadores a bordo.
+
+18 - Os sistemas de ventilação devem ser concebidos de forma a proteger os não fumadores contra o fumo do tabaco.
+
+19 - Os navios ou embarcações de pesca de comprimento igual ou superior a 24 m devem estar equipados com um sistema de ventilação nos espaços de alojamento, que deve ser regulado de forma a manter o ar em condições satisfatórias e assegurar uma aeração suficiente em todas as condições meteorológicas e climáticas. Os sistemas de ventilação devem estar permanentemente em funcionamento sempre que existam trabalhadores a bordo.
+
+Sistemas de aquecimento e ar condicionado
+
+20 - Os espaços de alojamento devem ser adequadamente aquecidos em função das condições climáticas.
+
+21 - Para os navios ou embarcações de pesca de comprimento igual ou superior a 24 m, deve ser assegurado um aquecimento adequado através de um sistema apropriado, exceto nos navios ou embarcações de pesca que operem exclusivamente em climas tropicais. Este sistema deve fornecer aquecimento em todas as condições, em função das necessidades, e estar em funcionamento quando os trabalhadores vivam ou trabalhem a bordo e quando as circunstâncias assim o exijam.
+
+22 - Para os navios ou embarcações de pesca de comprimento igual ou superior a 24 m, com exceção dos que operam regularmente em zonas onde o clima temperado não o exija, deve ser assegurado ar condicionado nos espaços de alojamento, na ponte, na sala de comunicações e em qualquer sala centralizada de comando das máquinas.
+
+Iluminação
+
+23 - Todos os espaços de alojamento devem ser dotados de iluminação adequada.
+
+24 - Sempre que possível, os espaços de alojamento devem ser iluminados com luz natural e luz artificial. Se as cabinas forem iluminadas por luz natural, devem ser previstos meios de a ocultar.
+
+25 - Para além da iluminação normal da cabina, deve existir uma luz de leitura adequada em cada beliche.
+
+26 - As cabinas devem ser dotadas de uma luz de emergência.
+
+27 - No caso de um navio ou embarcação de pesca não estar equipado com luz de emergência nos refeitórios, corredores e outros espaços que sejam ou possam ser utilizados para evacuação de emergência, deve aí existir uma iluminação noturna permanente.
+
+28 - Para navios ou embarcações de pesca de comprimento igual ou superior a 24 m, a iluminação nos espaços de alojamento deve cumprir as orientações técnicas estabelecidas pela DGRM. Em qualquer parte do espaço de alojamento onde se possa circular livremente, a norma mínima dessa iluminação deve ser apta a que uma pessoa com visão normal consiga ler.
+
+Cabinas
+
+Aspetos gerais
+
+29 - Sempre que a conceção, as dimensões e/ou o fim a que o navio ou embarcação de pesca se destina o permitam, as cabinas devem estar situadas de forma a minimizar os efeitos dos movimentos e das acelerações, mas nunca à frente da antepara de colisão.
+
+Área
+
+30 - O número de pessoas por cabina e a área por pessoa, excluindo o espaço ocupado por beliches e cacifos, devem proporcionar um espaço e conforto adequados aos trabalhadores a bordo, tendo em conta o serviço do navio ou embarcação de pesca.
+
+31 - Para navios ou embarcações de pesca de comprimento igual ou superior a 24 m, mas inferiores a 45 m, a área de cabina por pessoa, excluindo o espaço ocupado por beliches e cacifos, não pode ser inferior a 1,50 m2.
+
+32 - Para os navios ou embarcações de pesca de comprimento igual ou superior a 45 m, a área de cabina por pessoa, excluindo o espaço ocupado por beliches e cacifos, não pode ser inferior a 2 m2.
+
+Pessoas por cabina
+
+33 - Salvo disposição expressa em contrário, o número de pessoas permitido em cada cabina não pode ser superior a seis.
+
+34 - Para os navios ou embarcações de pesca de comprimento igual ou superior a 24 m, o número de pessoas permitido em cada cabina não pode ser superior a quatro. A DGRM pode autorizar exceções a este requisito em casos específicos, se a dimensão e o tipo de navio ou embarcação de pesca ou a sua utilização o tornarem irrazoável ou impraticável.
+
+35 - Salvo disposição expressa em contrário, deve existir, sempre que possível, uma ou mais cabinas separadas reservadas aos oficiais.
+
+36 - Para os navios ou embarcações de pesca de comprimento igual ou superior a 24 m, as cabinas reservadas aos oficiais devem ser, se possível, individuais e não podem conter mais de dois beliches. A DGRM pode autorizar exceções aos requisitos do presente número em casos específicos, se a dimensão e o tipo do navio ou embarcação de pesca ou a sua utilização os tornarem irrazoáveis ou impraticáveis.
+
+Outras disposições
+
+37 - O número máximo de pessoas a alojar numa cabina deve estar assinalado, de forma legível e indelével, em local da cabina facilmente visível.
+
+38 - Devem existir beliches individuais de dimensões adequadas. Os colchões devem ser de um material adequado. Cada beliche deve ter iluminação individual.
+
+39 - Para os navios ou embarcações de pesca de comprimento igual ou superior a 24 m, as dimensões internas mínimas dos beliches não podem ser inferiores a 198 cm por 80 cm.
+
+40 - As cabinas devem ser planeadas e equipadas de modo a garantir um conforto razoável aos ocupantes e a facilitar a sua limpeza. O equipamento fornecido deve incluir beliches, cacifos individuais suficientes para vestuário e outros objetos de uso pessoal e uma superfície adequada para escrever.
+
+41 - Para os navios ou embarcações de pesca de comprimento igual ou superior a 24 m deve ser fornecida uma secretária adequada para escrever e uma cadeira.
+
+42 - Na medida do possível, as cabinas devem estar situadas ou equipadas de modo a permitir a homens e mulheres preservar a sua privacidade.
+
+Refeitórios
+
+43 - Os refeitórios devem estar situados o mais próximo possível da cozinha, mas nunca à frente da antepara de colisão.
+
+44 - Os navios ou embarcações de pesca devem ter um refeitório adequado à sua utilização. Salvo disposição expressa em contrário, o refeitório deve estar separado das cabinas, sempre que possível.
+
+45 - Para os navios ou embarcações de pesca de comprimento igual ou superior a 24 m, o refeitório deve estar separado das cabinas.
+
+46 - As dimensões e o equipamento de cada refeitório devem ser suficientes para o número de pessoas suscetível de o utilizar em qualquer altura.
+
+47 - Para navios ou embarcações de pesca com um comprimento entre perpendiculares (LPP) de 15 m ou mais, os trabalhadores devem ter sempre à sua disposição um frigorífico de volume suficiente e um espaço onde possam preparar bebidas quentes e frias.
+
+Banheiras ou chuveiros, sanitas e lavatórios
+
+48 - Todas as pessoas a bordo do navio ou embarcação de pesca devem ter acesso a instalações sanitárias, incluindo sanitas, lavatórios, banheiras ou chuveiros, apropriadas à utilização do navio. Essas instalações devem respeitar as normas mínimas de higiene e saúde e ter uma qualidade razoável.
+
+49 - As instalações sanitárias devem ser concebidas de forma a eliminar a contaminação de outros espaços. As instalações sanitárias devem permitir uma privacidade razoável.
+
+50 - Todo os trabalhadores e pessoas a bordo devem ter à sua disposição água doce fria e quente em quantidades suficientes para permitir uma boa higiene.
+
+51 - Onde existam instalações sanitárias, estas devem estar equipadas com sistemas de ventilação para o ar livre, afastadas de qualquer outra parte do alojamento.
+
+52 - Todas as superfícies das instalações sanitárias devem ser concebidas de modo a facilitar uma limpeza fácil e eficaz. Os pavimentos devem ter um revestimento antiderrapante.
+
+53 - Em navios ou embarcações de pesca de comprimento igual ou superior a 24 m, para todos os trabalhadores que não ocupem cabinas com instalações sanitárias adjacentes, deve existir, pelo menos, uma banheira, um chuveiro, ou ambos, uma sanita e um lavatório para quatro pessoas ou menos.
+
+Lavandarias
+
+54 - Salvo disposição expressa em contrário, devem existir instalações para a lavagem e a secagem de roupa, conforme as necessidades, tendo em conta a utilização do navio ou embarcação.
+
+55 - Para os navios ou embarcações de pesca de comprimento igual ou superior a 24 m, devem existir instalações adequadas para a lavagem, a secagem e a engomagem de roupa.
+
+56 - Para navios ou embarcações de pesca de comprimento igual ou superior a 45 m, devem existir instalações adequadas para a lavagem, a secagem e a engomagem de roupa num compartimento separado das cabinas, dos refeitórios e das instalações sanitárias, e devem ser suficientemente arejadas, aquecidas e equipadas com cordas ou outros meios para a secagem de roupa.
+
+Instalações para trabalhadores doentes e feridos
+
+57 - Para além dos requisitos estabelecidos no Decreto-Lei n.º 274/95, de 23 de outubro, na sua redação atual, que transpôs para a ordem jurídica interna a Diretiva 92/29/CEE do Conselho, de 31 de março, relativa às prescrições mínimas de segurança e de saúde, com vista a promover uma melhor assistência médica a bordo dos navios ou embarcações de pesca, deve ser disponibilizada uma cabina para os trabalhadores doentes ou feridos, sempre que necessário.
+
+58 - Em substituição do disposto no artigo 6.º do Decreto-Lei n.º 274/95, de 23 de outubro, na sua redação atual, em navios ou embarcações de pesca de capacidade superior a 500 t de arqueação bruta (TAB) cuja tripulação compreende 15 trabalhadores ou mais e que efetuem uma viagem de duração superior a três dias, e em navios ou embarcações de pesca de comprimento igual ou superior a 45 m, independentemente do número de trabalhadores e da duração da viagem, deve existir um local separado para doentes que permita a administração de cuidados médicos. O local deve estar devidamente equipado e ser mantido em boas condições de higiene.
+
+Outras instalações
+
+59 - Deve ser previsto, fora das cabinas, mas facilmente acessível, um local para pendurar o vestuário de mau tempo e outros equipamentos de proteção individual.
+
+Roupa de cama, utensílios de messe e disposições várias
+
+60 - Todos os trabalhadores a bordo devem ter à sua disposição louça, roupa de cama e outra roupa necessária. No entanto, as despesas com roupa podem ser recuperadas sob a forma de custo operacional se a convenção coletiva ou o contrato de trabalho dos trabalhadores assim o previr.
+
+Instalações de lazer
+
+61 - A bordo dos navios ou embarcações de comprimento igual ou superior a 24 m, todos os trabalhadores devem ter acesso a instalações, equipamentos e serviços de lazer. Se for caso disso, os refeitórios podem ser utilizados para atividades de lazer.
+
+Meios de comunicação
+
+62 - Todos os trabalhadores a bordo devem beneficiar de um acesso razoável a meios de comunicação, na medida do possível, a um custo razoável que não exceda o custo total faturado ao armador do navio ou embarcação de pesca.
+
+Cozinha e instalações de armazenamento de alimentos
+
+63 - A bordo do navio ou embarcação de pesca, devem existir equipamentos para a preparação de alimentos. Salvo disposição expressa em contrário, este equipamento deve ser instalado, sempre que possível, em cozinha separada.
+
+64 - A cozinha, ou a área de preparação de alimentos quando não exista cozinha separada, deve ter dimensão suficiente para a utilização a que se destina, ser bem iluminada e ventilada e devidamente equipada e mantida.
+
+65 - Para os navios ou embarcações de pesca de comprimento igual ou superior a 24 m deve existir uma cozinha separada.
+
+66 - Os contentores de gás propano ou butano usados para cozinhar devem ser mantidos no convés descoberto e num abrigo concebido para os proteger de fontes externas de calor e de choques.
+
+67 - Deve existir um local apropriado para armazenar mantimentos, de volume adequado e que possa ser mantido seco, fresco e bem ventilado, de modo a evitar a deterioração dos mantimentos armazenados e, salvo disposição expressa em contrário, devem ser utilizados frigoríficos ou outros equipamentos de armazenagem a baixa temperatura, sempre que possível.
+
+68 - Para os navios ou embarcações de pesca com um comprimento entre perpendiculares (LBP) de 15 m ou mais deve existir um local para armazenar mantimentos e utilizar-se um frigorífico ou outros equipamentos de armazenagem a baixa temperatura.
+
+Alimentos e água potável
+
+69 - Os alimentos e a água potável devem ser suficientes, tendo em conta o número de trabalhadores, bem como a duração e a natureza da viagem. Além disso, devem ser adequados do ponto de vista do valor nutricional, da qualidade, da quantidade e da variedade, tendo também em conta as práticas religiosas e culturais dos trabalhadores em matéria alimentar.
+
+Condições de limpeza e habitabilidade
+
+70 - Os espaços de alojamento devem ser mantidos em condições de limpeza e habitabilidade e livre de outros objetos que não os bens pessoais dos ocupantes ou que não se destinem à sua segurança ou salvamento.
+
+71 - As instalações de cozinha e de armazenagem de alimentos devem ser mantidas em condições de higiene.
+
+72 - Os resíduos devem ser mantidos em contentores hermeticamente fechados e afastados das zonas de manuseamento de alimentos, sempre que necessário.
+
+Inspeções efetuadas pelo comandante ou sob a sua autoridade
+
+73 - a) Nos navios ou embarcações de pesca de comprimento igual ou superior a 24 m, o comandante ou mestre, ou quem este autorize, deve realizar, com periodicidade semestral, inspeções para assegurar que:
+
+i) Os espaços de alojamento estão limpos, condignamente habitáveis e seguros, e mantidos em bom estado de conservação;
+
+ii) Os alimentos e água são aprovisionados de modo suficiente; e
+
+iii) A cozinha e os espaços e equipamento de armazenagem de alimentos são mantidos em condições de higiene e em bom estado de conservação.
+
+b) Os resultados dessas inspeções, e as disposições tomadas para corrigir eventuais deficiências detetadas, serão registados e estarão disponíveis para consulta.
+
+Derrogações
+
+74 - A DGRM ou a Autoridade para as Condições do Trabalho podem, mediante requerimento fundamentado e após consulta às organizações representativas dos armadores e trabalhadores, autorizar derrogações ao disposto no presente anexo para ter em conta, sem discriminação, os interesses dos trabalhadores que tenham práticas religiosas e sociais diferentes e distintas, desde que essas derrogações não resultem em condições gerais menos favoráveis do que as que resultariam da aplicação do presente anexo.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-f-2020-150570706), em vigor a partir de 2020-12-08

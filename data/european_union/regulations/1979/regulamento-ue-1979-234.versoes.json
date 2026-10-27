@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31979R0234:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979R0234-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "1979-02-09",
+   "future": false,
+   "celex": "31979R0234",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b19cc201002edf98",
+    "8345c7628ca9f0af",
+    "c0e3acbc527ce819",
+    "af2e6151c081bc78"
+   ]
+  },
+  {
+   "date": "1995-07-01",
+   "future": false,
+   "celex": "01979R0234-19950701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1o",
+    "Altera Artigo 2o",
+    "Altera Artigo 3o"
+   ],
+   "fragments": [
+    "390cd68e52319652",
+    "d08e289f64a4d9c8",
+    "5432233814964ef4",
+    "c1df9b24f793e453"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "01979R0234-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o"
+   ],
+   "fragments": [
+    "1f8983eb8ba9f681"
+   ]
+  }
+ ],
+ "fragments": {
+  "b19cc201002edf98": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 234/79 do Conselho, de 5 de Fevereiro de 1979, relativo ao procedimento de adaptação da nomenclatura da pauta aduaneira comum utilizada para os produtos agrícolas** *Jornal Oficial nº L 034 de 09/02/1979 p. 0002 - 0003 Edição especial grega: Capítulo 02 Fascículo 7 p. 0058 Edição especial espanhola: Capítulo 03 Fascículo 15 p. 0131 Edição especial portuguesa: Capítulo 03 Fascículo 15 p. 0131 Edição especial finlandesa: Capítulo 3 Fascículo 10 p. 0173 Edição especial sueca: Capítulo 3 Fascículo 10 p. 0173*\n\nREGULAMENTO (CEE) No 234/79 DO CONSELHO de 5 de Fevereiro de 1979 relativo ao procedimento de adaptação da nomenclatura da pauta aduaneira comum utilizada para os produtos agrícolas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e nomeadamente, o seu artigo 43o,\n\nTendo em conta o Regulamento (CEE) no 827/68 do Conselho, de 28 de Junho de 1968, que estabelece a organização comum de mercado para certos produtos enumerados no Anexo II do Tratado (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1117/78 (2) e, nomeadamente, o seu artigo 6o,\n\nTendo em conta a proposta da Comissão (3),\n\nTendo em conta o parecer do Parlamento Europeu (4),\n\nConsiderando que os produtos submetidos a diferentes taxas de importação devem ser objecto de designações distintas na nomenclatura da pauta aduaneira comum a fim de que as taxas de importação possam ser correctamente aplicadas; que, para esse efeito, a maior parte dos regulamentos agrícolas de base prevêem disposições específicas em matéria de taxas de importação com exclusão dos direitos aduaneiros;\n\nConsiderando que é conveniente remediar a ausência de tais disposições no Regulamento (CEE) no 2358/71 do Conselho, de 26 de Outubro de 1971, que estabelece a organização comum de mercado no sector das sementes (5), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1346/78 (6), e no Regulamento (CEE) no 1035/72 do Conselho, de 18 de Maio de 1972, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas (7), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1766/78 (8);\n\nConsiderando que a nomenclatura da pauta aduaneira comum é baseada na nomenclatura do Conselho de Cooperação Aduaneira; que a nomenclatura da pauta aduaneira comum deve ser adaptada não só em função das modificações da nomenclatura do Conselho da Cooperação Aduaneira mas também na perspectiva da conformidade nas diversas versões linguísticas; que estes ajustamentos, mesmo que tenham apenas um carácter técnico e não tenham incidência nos direitos aduaneiros, devem em certos casos ser introduzidos por regulamentos fundamentados no artigo 43o do Tratado;\n\nConsiderando que, em numerosos regulamentos do Conselho, a nomenclatura da pauta aduaneira comum é utilizada como meio de distinguir entre diversas categorias de mercadorias e de descrever os produtos;\n\nConsiderando que as modificações da nomenclatura da pauta aduaneira comum podem tornar necessárias adaptações dos referidos regulamentos;\n\nConsiderando que os procedimentos em vigor nem sempre permitem adaptar de um modo suficientemente rápido os regulamentos em causa; que, tendo em conta o carácter técnico dessas adaptações, parece desejável prever a possibilidade de as introduzir, após consulta do Comité de Nomenclatura da Pauta Aduaneira Comum, de acordo com o procedimento definido no artigo 38o do Regulamento no 136/66/CEE do Conselho, de 22 de Setembro de 1966, que estabelece a organização comum de mercado no sector das matérias gordas (9), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1562/78 (10), ou nas disposições correspondentes dos outros regulamentos que estabelecem organizações comuns de mercado para os produtos agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "8345c7628ca9f0af": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nÉ aditada a disposição seguinte como artigo 8o A ao Regulamento (CEE) no 2358/71 e como artigo 22o A ao Regulamento (CEE) no 1035/72:\n\n«As regras gerais para a interpretação da pauta aduaneira comum e as regras particulares para a sua aplicação são aplicáveis para a classificação dos produtos incluídos no presente regulamento; a nomenclatura pautal resultante da aplicação do presente regulamento é retomada na pauta aduaneira comum.»"
+  },
+  "c0e3acbc527ce819": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. A nomenclatura da pauta aduaneira comum aplicável aos produtos que são objecto de uma organização comum de mercado pode ser adaptada, após consulta do Comité de Nomenclatura da Pauta Aduaneira Comum, de acordo com o processo fixado no artigo 38o do Regulamento no 136/66/CEE e nos artigos correspondentes dos outros regulamentos que estabelecem organizações comuns dos mercados, se essas adaptações:\n\n- forem devidas a modificações da nomenclatura do Conselho de Cooperação Aduaneira, ou\n\n- forem necessárias para assegurar a conformidade do texto nas diferentes línguas.\n\n2. A designação dos produtos e as referências às posições ou subposições da pauta aduaneira comum nos regulamentos do Conselho podem ser adaptadas segundo o mesmo procedimento se tais adaptações forem consequência das adaptações da nomenclatura da pauta aduaneira comum referidas no no 1 ou de um acto jurídico do Conselho.\n\n3. Para efeitos do presente regulamento, o comité instituído pelo artigo 37o do Regulamento no 136/66/CEE é declarado competente no que respeita aos produtos regidos pelo Regulamento (CEE) no 827/68."
+  },
+  "af2e6151c081bc78": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 5 de Fevereiro de 1979.\n\nPelo Conselho\n\nO Presidente\n\nP. MEHAIGNERIE\n\n(1) JO no L 151 de 30. 6. 1968, p. 16.(2) JO no L 142 de 30. 5. 1978, p. 1.(3) JO no C 160 de 6. 7. 1978, p. 10.(4) JO no C 239 de 9. 10. 1978, p. 50.(5) JO no L 246 de 5. 11. 1971, p. 1.(6) JO no L 165 de 22. 6. 1978, p. 1.(7) JO no L 118 de 20. 5. 1972, p. 1.(8) JO no L 204 de 28. 7. 1978, p. 12.(9) JO no 172 de 30. 9. 1966, p. 3025/66.(10) JO no L 185 de 7. 7. 1978, p. 1."
+  },
+  "390cd68e52319652": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1979R0234 — PT — 01.07.1995 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31979R0234:PT:NOT) [REGULAMENTO (CEE) No 234/79 DO CONSELHO de 5 de Fevereiro de 1979 relativo ao procedimento de adaptação da nomenclatura da pauta aduaneira comum utilizada para os produtos agrícolas](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31979R0234:PT:NOT) (JO L 034, 9.2.1979, p.2)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R3209:PT:NOT) | [Regulamento (CEE) no 3209/89 do Conselho de 23 de Outubro de 1989](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R3209:PT:NOT) | L 312 | 5 | 27.10.1989 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R3290:PT:NOT) | [Regulamento (CE) no 3290/94 do Conselho de 22 de Dezembro de 1994](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R3290:PT:NOT) | L 349 | 105 | 31.12.1994 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31979R0234:PT:NOT)\n\nREGULAMENTO (CEE) No 234/79 DO CONSELHO\n\nde 5 de Fevereiro de 1979\n\nrelativo ao procedimento de adaptação da nomenclatura da pauta aduaneira comum utilizada para os produtos agrícolas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e nomeadamente, o seu artigo 43o,\n\nTendo em conta o Regulamento (CEE) no 827/68 do Conselho, de 28 de Junho de 1968, que estabelece a organização comum de mercado para certos produtos enumerados no Anexo II do Tratado ([1](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1117/78 ([2](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#E0002)) e, nomeadamente, o seu artigo 6o,\n\nTendo em conta a proposta da Comissão ([3](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#E0003)),\n\nTendo em conta o parecer do Parlamento Europeu ([4](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#E0004)),\n\nConsiderando que os produtos submetidos a diferentes taxas de importação devem ser objecto de designações distintas na nomenclatura da pauta aduaneira comum a fim de que as taxas de importação possam ser correctamente aplicadas; que, para esse efeito, a maior parte dos regulamentos agrícolas de base prevêem disposições específicas em matéria de taxas de importação com exclusão dos direitos aduaneiros;\n\nConsiderando que é conveniente remediar a ausência de tais disposições no Regulamento (CEE) no 2358/71 do Conselho, de 26 de Outubro de 1971, que estabelece a organização comum de mercado no sector das sementes ([5](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#E0005)), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1346/78 ([6](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#E0006)), e no Regulamento (CEE) no 1035/72 do Conselho, de 18 de Maio de 1972, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas ([7](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#E0007)), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1766/78 ([8](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#E0008));\n\nConsiderando que a nomenclatura da pauta aduaneira comum é baseada na nomenclatura do Conselho de Cooperação Aduaneira; que a nomenclatura da pauta aduaneira comum deve ser adaptada não só em função das modificações da nomenclatura do Conselho da Cooperação Aduaneira mas também na perspectiva da conformidade nas diversas versões linguísticas; que estes ajustamentos, mesmo que tenham apenas um carácter técnico e não tenham incidência nos direitos aduaneiros, devem em certos casos ser introduzidos por regulamentos fundamentados no artigo 43o do Tratado;\n\nConsiderando que, em numerosos regulamentos do Conselho, a nomenclatura da pauta aduaneira comum é utilizada como meio de distinguir entre diversas categorias de mercadorias e de descrever os produtos;\n\nConsiderando que as modificações da nomenclatura da pauta aduaneira comum podem tornar necessárias adaptações dos referidos regulamentos;\n\nConsiderando que os procedimentos em vigor nem sempre permitem adaptar de um modo suficientemente rápido os regulamentos em causa; que, tendo em conta o carácter técnico dessas adaptações, parece desejável prever a possibilidade de as introduzir, após consulta do Comité de Nomenclatura da Pauta Aduaneira Comum, de acordo com o procedimento definido no artigo 38o do Regulamento no 136/66/CEE do Conselho, de 22 de Setembro de 1966, que estabelece a organização comum de mercado no sector das matérias gordas ([9](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#E0009)), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1562/78 ([10](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#E0010)), ou nas disposições correspondentes dos outros regulamentos que estabelecem organizações comuns de mercado para os produtos agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d08e289f64a4d9c8": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nÉ aditada a disposição seguinte como artigo 8o A ao Regulamento (CEE) no 2358/71 e como artigo 22o A ao Regulamento (CEE) no 1035/72:\n\n«As regras gerais para a interpretação da pauta aduaneira comum e as regras particulares para a sua aplicação são aplicáveis para a classificação dos produtos incluídos no presente regulamento; a nomenclatura pautal resultante da aplicação do presente regulamento é retomada na pauta aduaneira comum.»\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989R3209:PT:NOT)"
+  },
+  "5432233814964ef4": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. (SIC!) A designação dos produtos e as referências as posições ou subposições da Nomenclatura Combinada nos regulamentos do Conselho podem ser adaptadas de acordo com o processo fixado no artigo 38o do Regulamento no 136/66/CEE e nos artigos correspondentes dos outros regulamentos que estabelecem organizações comuns de mercado, se tais adaptações forem consequência de alterações da Nomenclatura Combinada.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R3290:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31979R0234:PT:NOT)"
+  },
+  "c1df9b24f793e453": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n([1](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#src.E0001)) JO no L 151 de 30. 6. 1968, p. 16.\n\n([2](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#src.E0002)) JO no L 142 de 30. 5. 1978, p. 1.\n\n([3](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#src.E0003)) JO no C 160 de 6. 7. 1978, p. 10.\n\n([4](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#src.E0004)) JO no C 239 de 9. 10. 1978, p. 50.\n\n([5](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#src.E0005)) JO no L 246 de 5. 11. 1971, p. 1.\n\n([6](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#src.E0006)) JO no L 165 de 22. 6. 1978, p. 1.\n\n([7](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#src.E0007)) JO no L 118 de 20. 5. 1972, p. 1.\n\n([8](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#src.E0008)) JO no L 204 de 28. 7. 1978, p. 12.\n\n([9](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#src.E0009)) JO no 172 de 30. 9. 1966, p. 3025/66.\n\n([10](http://publications.europa.eu/resource/cellar/1aaab705-958e-4280-b8fa-0e18e2327868.0017.02/DOC_1#src.E0010)) JO no L 185 de 7. 7. 1978, p. 1."
+  },
+  "1f8983eb8ba9f681": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1979R0234 — PT — 01.01.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31979R0234) [REGULAMENTO (CEE) Nº 234/79 DO CONSELHO](http://publications.europa.eu/resource/celex/31979R0234) [de 5 de Fevereiro de 1979](http://publications.europa.eu/resource/celex/31979R0234) [relativo ao procedimento de adaptação da nomenclatura da pauta aduaneira comum utilizada para os produtos agrícolas](http://publications.europa.eu/resource/celex/31979R0234) (JO L 034, 9.2.1979, p.2)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1308/2013 do Parlamento Europeu e do Conselho de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1308) — L 347 — 671 — 20.12.2013"
+  }
+ }
+}

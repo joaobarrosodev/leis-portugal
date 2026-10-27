@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:893675960:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2024-1177954175",
+ "dre_path": "/dr/detalhe/aviso/23931-2024-893675960",
+ "source_lastmod": "2026-10-06",
+ "versions": [
+  {
+   "date": "2024-10-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1177954375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1177954375": {
+   "fragment_id": "1177954275",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em cumprimento do disposto na alínea b) do n.º 1 e do n.º 2 do artigo 4.º da Lei n.º 35/2014, de 20 de junho (LTFP), torna-se público que foi celebrado contrato de trabalho em funções públicas por tempo indeterminado entre o Instituto Português de Acreditação I. P., e a trabalhadora Ana Sofia Néné Gonçalves Rebelo, com efeitos a 1 de agosto de 2024, no seguimento do processo de consolidação da mobilidade interna na categoria técnico superior, ao abrigo do disposto no artigo 99.º da Lei Geral do Trabalho em Funções Publicas, aprovada pela Lei n.º 35/2015, de 20 de junho, ficando posicionada na 4.ª posição remuneratória, nível 30.º da tabela remuneratória única."
+  }
+ }
+}

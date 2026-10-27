@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: pt:dre:660507:por
+title: Decreto Regulamentar n.º 6/84
+short_title: null
+summary: Regulamenta as condições em que se podem desencadear os processos de aplicação das medidas de vigilância e de salvaguarda
+  destinadas a proteger o mercado interno
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Agricultura, Florestas e Alimentação, da Indústria e Energia, do Comércio e Turismo
+  e do Mar
+proposing_entity: null
+official_number: 6/84
+official_date: null
+publication_date: '1984-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/1984, Série I de 1984-02-04
+  number: '30'
+  series: I
+  supplement: null
+  pages: 378 - 379
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03000/03780379.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '660507'
+  dre_path: /dr/detalhe/decreto-regulamentar/6-1984-660507
+  internal: pt:dre:660507:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1984-660507
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1984-660507
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:09:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fc55fcd9af4b10cace249b8b730b3b767a0c83e8e059c913b17c97858b8e8f5c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio Externo
+- Concorrência
+- Importação
+- Mercado Interno
+relationships:
+- type: cites
+  target: pt:dre:660505:por
+  label: null
+  source: null
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:09:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 6/84
+
+de 4 de Fevereiro
+
+Considerando o disposto no artigo 5.º do [Decreto-Lei n.º 47/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1984-660505), importa regulamentar as condições em que se podem desencadear os processos de aplicação das medidas de vigilância e de salvaguardar estabelecidas naquele diploma legal.
+
+Assim:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Processo de aplicação de medidas de vigilância e de salvaguarda)
+
+1 - Quando a evolução das importações tornar necessária a aplicação de medidas de vigilância ou de salvaguarda previstas no [Decreto-Lei n.º 47/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1984-660505), a Direcção-Geral do Comércio Externo, por sua iniciativa ou por solicitação de outros serviços e organismos do Ministério do Comércio e Turismo, bem como dos serviços competentes do Ministério da Indústria e Energia, do Ministério da Agricultura, Florestas e Alimentação e do Ministério do Mar, ou dos interessados, por si ou através das suas estruturas associativas, proporá a aplicação das medidas que considerar adequadas desde que se verifiquem os pressupostos estabelecidos nos artigos 2.º e 3.º daquele decreto-lei.
+
+2 - Para fundamentar a proposta referida no número anterior, a Direcção-Geral do Comércio Externo basear-se-á nos elementos de prova disponíveis e nos fornecidos pelos organismos competentes dos ministérios dos respectivos sectores ou quaisquer outros.
+
+###### Artigo 2.º — (Carácter das informações)
+
+1 - As informações recolhidas por aplicação do presente diploma só poderão ser utilizadas para o fim para que forem solicitadas.
+
+2 - As informações com carácter confidencial ou fornecidas confidencialmente só poderão ser divulgadas mediante autorização expressa de quem as tiver fornecido.
+
+3 - No pedido de tratamento confidencial das informações deverão ser indicadas as razões justificativas desse pedido.
+
+4 - Sempre que seja solicitado o tratamento confidencial das informações e quando tal tratamento não se afigurar justificado ou quando aquele que as forneceu não quiser a sua divulgação, mesmo em termos genéricos ou sob a forma de resumo, tais informações poderão não ser tidas em consideração.
+
+5 - Considerar-se-ão sempre como confidenciais as informações cuja divulgação for susceptível de ter consequências desfavoráveis significativas para aquele que as forneceu ou do qual procederam.
+
+6 - A aplicação dos números anteriores não impedirá a divulgação genérica dos fundamentos das decisões tomadas pelas entidade competentes, as quais deverão, todavia, ter em consideração os interesses legítimos relativos à protecção do segredo comercial ou do processo produtivo.
+
+###### Artigo 3.º — (Determinação do prejuízo)
+
+1 - Na análise da evolução das importações e das condições em que estas se efectuam, bem como na determinação do prejuízo grave ou da ameaça de prejuízo grave daí resultante, seja para os produtores nacionais de produtos similares ou directamente concorrentes, seja para o desenvolvimento de certo sector ou região, serão tomados em consideração, nomeadamente, os seguintes factores:
+
+a) O volume das importações, especialmente quando estas tiverem acusado um acréscimo significativo, quer em termos absolutos quer em relação à produção ou ao consumo do País;
+
+b) O preço dos produtos importados, especialmente quando se tratar de determinar se há uma cotação significativamente abaixo do preço dos correspondentes produtos nacionais similares;
+
+c) As consequências resultantes para os produtores nacionais de produtos similares ou directamente concorrentes avaliadas a partir de tendências registadas em certos factores económicos do sector respectivo, tais como:
+
+Produção;
+
+Capacidade utilizada;
+
+Existências;
+
+Volume de vendas;
+
+Segmento do mercado;
+
+Preços (o aviltamento dos preços ou o impedimento das subidas que teriam ocorrido normalmente);
+
+Lucros;
+
+Remuneração dos capitais investidos;
+
+Fluxo das liquidações;
+
+Emprego.
+
+2 - Quando estiver em causa uma ameaça de prejuízo grave, a Direcção-Geral do Comércio Externo, em articulação com os organismos dos ministérios do respectivos sectores, apreciará se é claramente previsível que uma dada situação é susceptível de se tornar prejuízo real e para essa apreciação tomará nomeadamente em conta os seguintes factores:
+
+a) Taxa de acréscimo das exportações para Portugal;
+
+b) Capacidade actual ou previsível num futuro próximo de exportação do país de origem ou de proveniência, bem como a probabilidade de que as exportações daí resultantes sejam encaminhadas para Portugal.
+
+###### Artigo 4.º — (Critérios de aplicação das medidas de salvaguarda)
+
+1 - Quando venham a ser necessárias, a título de salvaguarda e em conformidade com o previsto no artigo 3.º do [Decreto-Lei n.º 47/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1984-660505), medidas restritivas de importação para um determinado produto, estas deverão ser fixadas de forma a provocar a menor perturbação possível nas respectivas correntes tradicionais com os países com os quais Portugal assumiu compromissos de liberalização das trocas comerciais.
+
+2 - Quando a medida restritiva adoptada revestir a forma de contingente e importação, deverá ter-se em conta, nomeadamente:
+
+O interesse em manter, tanto quanto possível, as correntes tradicionais de comércio;
+
+O volume dos contratos negociados em condições normais antes da entrada em vigor das medidas de salvaguarda;
+
+O facto de que o objectivo visado com a fixação de um contingente não deve ser comprometido.
+
+Visto e aprovado em Conselho de Ministros de 12 de Janeiro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Manuel José Dias Soares Costa - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto - Carlos Montez Melancia.
+
+Promulgado em 26 de Janeiro de 1984.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 30 de Janeiro de 1984.
+
+O Primeiro-Ministro, Mário Soares.

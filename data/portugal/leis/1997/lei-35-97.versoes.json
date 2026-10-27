@@ -1,0 +1,124 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:153564:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1997-945485451",
+ "dre_path": "/dr/detalhe/lei/35-1997-153564",
+ "source_lastmod": "2025-11-11",
+ "versions": [
+  {
+   "date": "1997-07-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "945686175",
+    "945686176",
+    "945686177",
+    "945686178",
+    "945686179",
+    "945686180"
+   ]
+  },
+  {
+   "date": "1997-10-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522976:por",
+     "title": "Declaração de Rectificação n.º 15-P/97",
+     "published": "1997-10-09",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/15-p-1997-522976"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "945686175",
+    "945686176",
+    "945686185",
+    "945686178",
+    "945686179",
+    "945686180",
+    "945686181",
+    "945686184"
+   ]
+  }
+ ],
+ "fragments": {
+  "945686175": {
+   "fragment_id": "945485452",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 35/97\n\nde 12 de Julho\n\nCriação da freguesia de Casal de Cambra no concelho de Sintra\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea n), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "945686176": {
+   "fragment_id": "945485453",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada no município de Sintra a freguesia de Casal de Cambra."
+  },
+  "945686177": {
+   "fragment_id": "945485454",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica à escala de 1:25000, são os seguintes:\n\nA norte, freguesia de Caneças;\n\nA sul, freguesia da Mina;\n\nA nascente, freguesia de Famões;\n\nA poente, ribeira das Águas Livres (que separa Casal de Cambra da freguesia de origem, Belas)."
+  },
+  "945686178": {
+   "fragment_id": "945485455",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 9.º da Lei n.º 8/93, de 5 de Março.\n\n2 - Para efeitos do disposto no número anterior, a Câmara Municipal de Sintra nomeará uma comissão instaladora, constituída por:\n\na) Um membro da Assembleia Municipal de Sintra;\n\nb) Um membro da Câmara Municipal de Sintra;\n\nc) Um membro da Assembleia de Freguesia de Belas;\n\nd) Um membro da Junta de Freguesia de Belas;\n\ne) Cinco cidadãos da área da nova freguesia de Casal de Cambra."
+  },
+  "945686179": {
+   "fragment_id": "945485456",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA comissão instaladora exercerá as suas funções até à tomada de posse dos órgãos autárquicos da nova freguesia."
+  },
+  "945686180": {
+   "fragment_id": "945485457",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente lei entra imediatamente em vigor."
+  },
+  "945686185": {
+   "fragment_id": "945485454",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1997-10-09",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-P/97 - Diário da República n.º 234/1997, 1º Suplemento, Série I-A de 1997-10-09](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-p-1997-522976), em vigor a partir de 1997-10-09"
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica à escala de 1:25000, são os seguintes:\n\nA norte, freguesias de Caneças e Almargem do Bispo;\n\nA sul, freguesia da Mina;\n\nA nascente, freguesia de Famões;\n\nA poente, ribeira das Águas Livres (que separa Casal de Cambra da freguesia de origem, Belas).\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-P/97 - Diário da República n.º 234/1997, 1º Suplemento, Série I-A de 1997-10-09](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-p-1997-522976), em vigor a partir de 1997-10-09"
+  },
+  "945686181": {
+   "fragment_id": "945485458",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de Junho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 20 de Junho de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 20 de Junho de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "945686184": {
+   "fragment_id": "945485462",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)"
+  }
+ }
+}

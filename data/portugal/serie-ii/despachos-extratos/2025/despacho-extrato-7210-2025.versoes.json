@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:923133583:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2025-1172619075",
+ "dre_path": "/dr/detalhe/despacho-extrato/7210-2025-923133583",
+ "source_lastmod": "2026-09-23",
+ "versions": [
+  {
+   "date": "2025-07-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1172622775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1172622775": {
+   "fragment_id": "1172619175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, na sua atual redação, por despacho, datado de 11 de junho de 2025, do presidente do Grupo Parlamentar do Partido Social Democrata, deputado Hugo Soares, é nomeado como motorista do Grupo Parlamentar Hélder António Rosa Caldeira, do mapa de pessoal do PSD, com efeitos a partir de 6 de junho de 2025."
+  }
+ }
+}

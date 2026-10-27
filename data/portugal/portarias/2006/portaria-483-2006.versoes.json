@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:286685:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2006-907763836",
+ "dre_path": "/dr/detalhe/portaria/483-2006-286685",
+ "source_lastmod": "2025-02-18",
+ "versions": [
+  {
+   "date": "2006-05-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907762830",
+    "907762827",
+    "907762828"
+   ]
+  }
+ ],
+ "fragments": {
+  "907762830": {
+   "fragment_id": "907763837",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 483/2006\n\nde 26 de Maio\n\nOs contratos colectivos de trabalho celebrados entre a Associação dos Operadores Portuários dos Portos do Douro e Leixões e outras e o SIMAMEVIP - Sindicato dos Trabalhadores da Marinha Mercante, Agências de Viagens, Transitários e Pesca, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 29, de 8 de Agosto de 2005, com rectificação publicada no Boletim do Trabalho e Emprego, 1.ª série, n.º 41, de 8 de Novembro de 2005, e entre as mesmas associações de empregadores e o SAP - Sindicato dos Trabalhadores Administrativos da Actividade Portuária, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 33, de 8 de Setembro de 2005, abrangem as empresas de estiva e os trabalhadores ao seu serviço, umas e outros filiados nas associações outorgantes.\n\nO Sindicato outorgante da primeira convenção requereu a sua extensão aos empregadores do mesmo sector de actividade e aos trabalhadores que exerçam a actividade na mesma área geográfica e com o âmbito sectorial e profissional nela fixados.\n\nAs convenções actualizam as tabelas salariais. O estudo de avaliação do impacte da extensão das tabelas salariais teve por base as retribuições efectivas praticadas no sector abrangido pela convenção, apuradas pelos quadros de pessoal de 2003 e actualizadas de acordo com o aumento percentual médio das tabelas salariais das convenções publicadas em 2004. O número de trabalhadores a tempo completo, com exclusão de aprendizes e praticantes, do sector abrangido pelas convenções é de 1008, dos quais 363 (36%) auferem retribuições inferiores às convencionais, sendo que 55 (5,5%) auferem retribuições inferiores às fixadas pelas convenções em mais de 6,4%. É nas empresas do escalão entre 21 e 50 trabalhadores que se encontra o maior número de trabalhadores com retribuições inferiores às das tabelas salariais das convenções.\n\nAtendendo a que as convenções regulam diversas condições de trabalho, procede-se à ressalva genérica de cláusulas que sejam contrárias a normas legais imperativas.\n\nTendo em consideração que não é viável proceder à verificação objectiva da representatividade das associações outorgantes e que os regimes das referidas convenções são idênticos, procede-se à respectiva extensão conjunta.\n\nA extensão tem, no plano social, o efeito de melhorar as condições de trabalho de um conjunto significativo de trabalhadores e, no plano económico, promove a aproximação das condições de concorrência entre empresas do mesmo sector.\n\nFoi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, 1.ª série, n.º 11, de 22 de Março de 2006, à qual não foi deduzida oposição por parte dos interessados.\n\nAssim:\n\nAo abrigo dos n.os 1 e 3 do artigo 575.º do Código do Trabalho, manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, o seguinte:"
+  },
+  "907762827": {
+   "fragment_id": "907763838",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - As condições de trabalho constantes dos contratos colectivos entre a Associação dos Operadores Portuários dos Portos do Douro e Leixões e outras e o SIMAMEVIP - Sindicato dos Trabalhadores da Marinha Mercante, Agências de Viagens, Transitários e Pesca, publicados no Boletim do Trabalho e Emprego, 1.ª série, n.º 29, de 8 de Agosto de 2005, com rectificação publicada no Boletim do Trabalho e Emprego, 1.ª série, n.º 41, de 8 de Novembro de 2005, e entre as mesmas associações de empregadores e o SAP - Sindicato dos Trabalhadores Administrativos da Actividade Portuária, publicado no Boletim do Trabalho e Emprego, 1.ª série, n.º 33, de 8 de Setembro de 2005, são estendidas, no território do continente:\n\na) Às relações de trabalho entre empresas de estiva não filiadas nas associações de empregadores outorgantes e trabalhadores ao seu serviço das categorias profissionais neles previstas;\n\nb) Às relações de trabalho entre empregadores filiados nas associações de empregadores outorgantes que prossigam a actividade mencionada na alínea anterior e trabalhadores ao seu serviço das categorias profissionais previstas nas convenções não representados pelas associações sindicais signatárias.\n\n2 - Não são objecto de extensão as disposições contrárias a normas legais imperativas."
+  },
+  "907762828": {
+   "fragment_id": "907763839",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República."
+  }
+ }
+}

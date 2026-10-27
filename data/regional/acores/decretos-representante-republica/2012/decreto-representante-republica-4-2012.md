@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:191525:por
+title: Decreto do Representante da República para a Região Autónoma dos Açores n.º 4/2012
+short_title: null
+summary: Nomeia o Dr. Sérgio Humberto Rocha de Ávila Vice-Presidente do Governo, Emprego e Competitividade Empresarial, a
+  Prof.ª Doutora Maria da Piedade Lima Lalanda Gonçalves Mano Secretária Regional da Solidariedade Social, o Dr. Luís Mendes
+  Cabral Secretário Regional da Saúde, o Prof. Doutor Luiz Manuel Fagundes Duarte Secretário Regional da Educação, Ciência
+  e Cultura, o Eng.º Vítor Manuel Ângelo de Fraga Secretário Regional dos Transportes e Turismo, o Eng.º Luís Nuno Ponte Neto
+  de Viveiros Secretário Regional dos Recursos Naturais e o Dr. Rodrigo Vasconcelos de Oliveira Subsecretário Regional da
+  Presidência para as Relações Externas
+jurisdiction: regional
+territory: acores
+document_type: decreto-representante-republica
+document_type_label: Decreto do Representante da República
+issuing_authority:
+- Gabinete do Representante da República para a Região Autónoma dos Açores
+proposing_entity: null
+official_number: 4/2012
+official_date: null
+publication_date: '2012-11-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/2012, Série I de 2012-11-06
+  number: '214'
+  series: I
+  supplement: null
+  pages: 6369 - 6369
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/11/21400/0636906369.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decrepraa/4/2012/11/06/p/dre/pt/html
+  oj: null
+  dre: '191525'
+  dre_path: /dr/detalhe/decreto-representante-republica-para-regiao-autonoma-acores/4-2012-191525
+  internal: pt:dre:191525:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-representante-republica-para-regiao-autonoma-acores/4-2012-191525
+  metadata_url: https://data.dre.pt/eli/decrepraa/4/2012/11/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-representante-republica-para-regiao-autonoma-acores/4-2012-191525
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:32:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6d5686ca78f8f3481cd3680c77c20ec3480a05c34ab2129df52e5b4985d0d20c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Competitividade Empresarial
+- Governo Regional
+- Nomeação
+- Secretário Regional da Educação Ciência e Cultura
+- Secretário Regional da Saúde
+- Secretário Regional da Solidariedade Social
+- Secretário Regional dos Recursos Naturais
+- Secretário Regional dos Transportes e Turismo
+- Subsecretário Regional da Presidência para as Relações Externas
+- Vice-presidente do Governo Regional
+relationships:
+- type: amended_by
+  target: pt:dre:25345642:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:25345642:por
+  label: Exonerada a Secretária Regional da Solidariedade Social, Maria da Piedade Lima Lalanda Gonçalves Mano; o Secretário
+    Regional da Educação, Ciência e Cultura, Luiz Manuel Fagundes Duarte e o Secretário Regional dos Recursos Naturais, Luís
+    Nuno Ponte Neto de Viveiros, nomeados pelo presente diploma, pelo(a) Decreto do Representante da República para a Região
+    Autónoma dos Açores n.º 1/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-representante-republica-para-regiao-autonoma-acores/1-2014-25345642
+  date: '2014-07-08'
+- type: corrected_by
+  target: pt:dre:190624:por
+  label: "Retificado - onde se lê «Vice-Presidente do Governo, Emprego e Competitividade Empresarial» deve ler-se «Vice-Presidente\
+    \ do Governo Regional» e «Secretário Regional dos Transportes e Turismo» deve ler-se «Secretário Regional do Turismo e\
+    \ Transportes», pela DECL-RECT.72/2012.03.12.2012.PCM, DR.IS [233] de 03.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/72-2012-190624
+  date: '2012-12-03'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:32:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Representante da República para a Região Autónoma dos Açores n.º 4/2012
+
+de 6 de novembro
+
+Ao abrigo do n.º 4 do artigo 231.º da Constituição da República Portuguesa e do n.º 2 do artigo 81.º e da alínea b) do n.º 1 do artigo 107.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, nomeio:
+
+Vice-Presidente do Governo, Emprego e Competitividade Empresarial - Dr. Sérgio Humberto Rocha de Ávila.
+
+Secretária Regional da Solidariedade Social - Prof.ª Doutora Maria da Piedade Lima Lalanda Gonçalves Mano.
+
+Secretário Regional da Saúde - Dr. Luís Mendes Cabral.
+
+Secretário Regional da Educação, Ciência e Cultura - Prof. Doutor Luiz Manuel Fagundes Duarte.
+
+Secretário Regional dos Transportes e Turismo - Eng.º Vítor Manuel Ângelo de Fraga.
+
+Secretário Regional dos Recursos Naturais - Eng.º Luís Nuno Ponte Neto de Viveiros.
+
+Subsecretário Regional da Presidência para as Relações Externas - Dr. Rodrigo Vasconcelos de Oliveira.
+
+Assinado em Angra do Heroísmo, em 2 de novembro de 2012.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

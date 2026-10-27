@@ -1,0 +1,529 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0108:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0108-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "1989-02-11",
+   "future": false,
+   "celex": "31989L0108",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5d1c391e5c519f4b",
+    "8400a595cf0d94bc",
+    "66d4ccd22e2e9f73",
+    "088885d11e201bda",
+    "148233cc4a73f2fe",
+    "af76a7e8d4d6644b",
+    "e54901d5fa8cb22c",
+    "ce9ccbfc9c804bef",
+    "7c993b60517c03fd",
+    "1793225eda8b808b",
+    "57fec76ad4df1b35",
+    "48dd8d986aad4026",
+    "63b8711f12b26036",
+    "f955c6d11fdfb6b5",
+    "fc9f6db73e7e7ece"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01989L0108-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32006L0107:por",
+     "title": "DIRECTIVA 2006/107/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0107"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Notas",
+    "Suprime Artigo 1°",
+    "Suprime Artigo 2°",
+    "Suprime Artigo 3°",
+    "Suprime Artigo 4°",
+    "Suprime Artigo 5°",
+    "Suprime Artigo 6°",
+    "Suprime Artigo 7°",
+    "Suprime Artigo 8°",
+    "Suprime Artigo 9°",
+    "Suprime Artigo 10°",
+    "Suprime Artigo 11°",
+    "Suprime Artigo 12°",
+    "Suprime Artigo 13°",
+    "Suprime Artigo 14°"
+   ],
+   "fragments": [
+    "f2d51269fbf70f0d",
+    "8b957388e7329c61",
+    "ec746a6dc70b2826",
+    "197a863e76bfeeca",
+    "f8f463dfb49fa5ea",
+    "fbe06d6907eb6c00",
+    "0dc939a5a42cd02d",
+    "2024469df73fe031",
+    "56f878bcb42a6f31",
+    "0cf0aaf4940227a3",
+    "12681ff2666705b0",
+    "ccd5c9e83a05ebb1",
+    "ee880cd480b8649d",
+    "8fcf1daa69a599d3",
+    "718f5ab9ccb57a81",
+    "f84470b30738eb6f"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "01989L0108-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "81d58f5636fc9487",
+    "8b957388e7329c61",
+    "ec746a6dc70b2826",
+    "197a863e76bfeeca",
+    "f47b1a61a4b03ac8",
+    "fbe06d6907eb6c00",
+    "0dc939a5a42cd02d",
+    "2024469df73fe031",
+    "56f878bcb42a6f31",
+    "0cf0aaf4940227a3",
+    "12681ff2666705b0",
+    "e70e7dfe8f99e441",
+    "62d7af3bb828ba4e",
+    "94328692d8ea430a",
+    "718f5ab9ccb57a81",
+    "ae28383fc6474e6c"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01989L0108-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0020:por",
+     "title": "DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013L0020"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "b7918411218d28e1",
+    "8b957388e7329c61",
+    "ec746a6dc70b2826",
+    "197a863e76bfeeca",
+    "f47b1a61a4b03ac8",
+    "fbe06d6907eb6c00",
+    "0dc939a5a42cd02d",
+    "2024469df73fe031",
+    "a95492e88d4baf89",
+    "0cf0aaf4940227a3",
+    "12681ff2666705b0",
+    "e70e7dfe8f99e441",
+    "35011032902f5dc7",
+    "89cc86a895f7c8a0",
+    "718f5ab9ccb57a81",
+    "6eca4a80b5ae9368"
+   ]
+  }
+ ],
+ "fragments": {
+  "5d1c391e5c519f4b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/108/CEE do Conselho de 21 de Dezembro de 1988 relativa à aproximação das legislações dos Estados-membros respeitantes aos alimentos ultracongelados destinados à alimentação humana** *Jornal Oficial nº L 040 de 11/02/1989 p. 0034 - 0037 Edição especial finlandesa: Capítulo 15 Fascículo 9 p. 0049 Edição especial sueca: Capítulo 15 Fascículo 9 p. 0049*\n\nDIRECTIVA DO CONSELHO de 21 de Dezembro 1988 relativa à aproximação das legislações dos Estados-membros respeitantes aos alimentos ultracongelados destinados à alimentação humana (89/108/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100°.A,\n\nTendo em conta a proposta da Comissão,\n\nEm cooperação com o Parlamento Europeu [1],\n\n[1] JO n° C 175 de 15. 7. 1985, p. 296 e JO n° C 12 de 16. 1. 1989.\n\nTendo em conta o parecer do Comité Económico e Social [2],\n\n[2] JO n° C 104 de 25. 4. 1983, p. 17.\n\nConsiderando que o fabrico e o comércio de alimentos ultracongelados destinados à alimentação humana, adiante designados «alimentos ultracongelados», ocupam um lugar cada vez mais importante na Comunidade;\n\nConsiderando que as diferenças existentes entre as legislações nacionais relativas aos alimentos ultracongelados entravam a sua livre circulação; que podem ocasionar condições de concorrência desiguais e que têm, por esse motivo, uma incidência directa na realização e no funcionamento do mercado comum;\n\nConsiderando que é por isso necessário aproximar essas legislações;\n\nConsiderando que, para esse efeito, é necessário atribuir à regulamentação comunitária um campo de aplicação tão vasto quanto possível, que abranja todos os géneros ultracongelados destinados à alimentação humana e incluindo não só os produtos destinados a serem entregues tal como se encontram ao consumidor final bem como aos restaurantes, hospitais, cantinas e outras colectividades similares mas também os produtos que devem ser objecto de transformações ou preparações posteriores;\n\nConsiderando no entanto que essa regulamentação não se deve aplicar a produtos que não se apresentem no mercado como alimentos ultracongelados;\n\nConsiderando que convém em todo o caso estabelecer os princípios gerais a que qualquer produto ultracongelado deve obedecer;\n\nConsiderando que, posteriormente, se poderão adoptar, se necessário, disposições específicas em complemento dos princípios gerais para determinados grupos de alimentos ultracongelados, nos termos do procedimento aplicável a cada um desses grupos;\n\nConsiderando que a ultracongelação tem por finalidade conservar as características intrínsecas dos alimentos mediante um processo de congelação rápida e que é necessário atingir em todos os pontos do produto uma temperatura igual ou inferior a - 18° C;\n\nConsiderando que a uma temperatura de - 18° C cessa qualquer actividade microbiológica susceptível de alterar a qualidade dos géneros alimentícios e que desse facto advém a necessidade de essa temperatura ser mantida, pelo menos a esse nível, com uma certa tolerância tecnicamente inevitável, durante o armazenamento e a distribuição dos alimentos ultracongelados antes da venda ao consumidor final;\n\nConsiderando que, por razões técnicas, são inevitáveis certas subidas de temperatura, que podem por isso ser toleradas desde que não prejudiquem a qualidade dos produtos, o que pode ser garantido pela observância das boas práticas de conservação e dedistribuição, tendo em conta, em especial, o nível de rotação das existências;\n\nConsiderando que as características de certos equipamentos técnicos actualmente utilizados na venda a retalho de alimentos ultracongelados não são de molde a garantir em todos os casos o respeito integral dos limites de temperatura impostos pela presente directiva e que convém por isso prever um regime transitório que permita amortizar normalmente o material existente;\n\nConsiderando que a presente directiva pode limitar-se a enunciar os objectivos a atingir no que se refere ao equipamento utilizado para a operação de ultracongelação e às temperaturas a respeitar nas instalações e equipamento de armazenagem, manutenção, transporte e distribuição;\n\nConsiderando que incumbe aos Estados-membros certificarem-se, através de controlos oficais, de que o material utilizado é de natureza a responder a estes objectivos;\n\nConsiderando que esse controlo torna inútil qualquer sistema de certificação oficial a nível das trocas comerciais;\n\nConsiderando que convém prever a possibilidade de utilização de fluidos frigorígenos, o que implica o seu contacto com os alimentos ultracongelados; que, por isso, esses fluidos devem ser suficientemente inertes para não deixar passar para os alimentos constituintes numa quantidade susceptível de representar um perigo para a saúde humana, provocar uma alteração inaceitável da composição dos alimentos ou alterar as suas características organolépticas;\n\nConsiderando que, para atingir este objectivo, há que adoptar a lista das substâncias em causa e determinar os respectivos critérios de pureza e condições de utilização;\n\nConsiderando que os alimentos ultracongelados destinados ao consumidor final bem como aos restaurantes, hospitais, cantinas e outras colectividades similares estão sujeitos, no que diz respeito à rotulagem, às normas estipuladas pela Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final bem como à publicidade feita a seu respeito [3], com a ultima redacção que lhe foi dada pela Directiva 86/197/CEE [4]; que a presente directiva pode por isso limitar-se a prever as referências específicas no caso de alimentos ultracongelados;\n\n[3] JO n° L 33 de 8. 2. 1979, p. 1.\n\n[4] JO n° L 144 de 29. 5. 1986, p. 38.\n\nConsiderando que, a fim de facilitar as trocas comerciais, convém igualmente adoptar regras de rotulagem dos alimentos ultracongelados não destinados a serem entregues no estado em que se encontram ao consumidor final nem aos restaurantes, hospitais, cantinas e outras colectividades similares;\n\nConsiderando que, para facilitar e acelerar o processo, a adopção dessas medidas técnicas de execução deve ser confiada à Comissão;\n\nConsiderando que, em todos os casos em que o Conselho confere à Comissão competências para a execução de normas estipuladas no domínio dos géneros alimentícios, convém prever um processo que institua uma cooperação estreita entre os Estados-membros e a Comissão no seio do Comité Permanente dos Géneros Alimentícios instituído pela Decisão 69/414/CEE do Conselho [5],\n\n[5] JO n° L 291 de 19. 11. 1969, p. 9.\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8400a595cf0d94bc": {
+   "fragment_id": "Artigo 1°",
+   "type": "artigo",
+   "heading": "Artigo 1°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°\n\n1. A presente directiva refere-se aos géneros ultracongelados destinados à alimentação humana, adiante designados «alimentos ultracongelados».\n\n2. Para efeitos da presente directiva, entende-se por «alimentos ultracongelados», os géneros alimentícios:\n\n- que foram submetidos a um processo adequado de congelação dito «ultracongelação», que permite ultrapassar tão rapidamente quanto necessário, consoante a natureza do produto, a zona de cristalização máxima, fazendo com que a temperatura do produto em todos os seus pontos - após estabilização térmica - se mantenha sem interrupção a níveis iguais ou inferiores a\n\n- 18° C, e\n\n- que são comercializados de modo a que seja indicado que possuem esta característica.\n\nOs gelados alimentícios não são considerados alimentos ultracongelados na acepção da presente directiva.\n\n3. A presente directiva aplica-se sem prejuízo das disposições comunitárias relativas:\n\na) À organização comum dos mercados nos domínios da agricultura e da pesca;\n\nb) À higiene veterinária."
+  },
+  "66d4ccd22e2e9f73": {
+   "fragment_id": "Artigo 2°",
+   "type": "artigo",
+   "heading": "Artigo 2°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°\n\nApenas os produtos definidos no n° 2 do artigo 1° podem utilizar as denominações previstas nos artigos 8° e 9°."
+  },
+  "088885d11e201bda": {
+   "fragment_id": "Artigo 3°",
+   "type": "artigo",
+   "heading": "Artigo 3°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°\n\n1. As matérias-primas utilizadas no fabrico de alimentos ultracongelados devem ser de qualidade sã, integra e comercializável e apresentar o necessário grau de frescura.\n\n2. A preparação dos produtos a tratar e a ultracongelação devem ser efectuadas o mais rapidamente possível, com o auxílio de um equipamento técnico adequado que permita reduzir ao mínimo as alterações químicas, bioquímicas e microbiológicas."
+  },
+  "148233cc4a73f2fe": {
+   "fragment_id": "Artigo 4°",
+   "type": "artigo",
+   "heading": "Artigo 4°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4°\n\nOs únicos meios frigorígenos cuja utilização em contacto directo com os alimentos ultracongelados é autorizada são os seguintes:\n\n- ar,\n\n- azoto,\n\n- anidrido carbónico.\n\nEm derrogação do parágrafo anterior, os Estados-membros podem manter, até 31 de Dezembro de 1992, as legislações nacionais que autorizam a utilização do diclorodifluorometano (R 12) como meio frigorífico.\n\nOs critérios de pureza a que estes meios devem obedecer são fixados, na medida do necessário, de acordo com o procedimento previsto no artigo 12°."
+  },
+  "af76a7e8d4d6644b": {
+   "fragment_id": "Artigo 5°",
+   "type": "artigo",
+   "heading": "Artigo 5°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5°\n\n1. A temperatura dos alimentos ultracongelados deve ser estável e mantida, em todos os pontos do produto, a um nível igual ou inferior a - 18° C, eventualmente com breves flutuações até 3° C, no máximo, durante o transporte.\n\n2. No entanto, admitem-se tolerâncias quanto à temperatura do produto, em conformidade com as boas práticas de conservação e de distribuição, durante a distribuição local e nos expositores de venda ao consumidor final nas seguintes condições:\n\na) Essas tolerâncias não devem ser superiores a 3° C;\n\nb) Todavia, poderão antingir 6° C nos expositores de venda a retalho se e na medida em que os Estados-membros o decidirem. Neste caso, os Estados-membros escolherão a temperatura em função da rotação das existências ou dos produtos no comércio a retalho e informar a Comissão das medidas tomadas e dos motivos que as justificam.\n\nA Comissão voltará a analisar a tolerância prevista no presente número em função das evoluções técnicas e, se necessário, apresentará propostas ao Conselho antes de 1 de Janeiro de 1993.\n\n3. Durante um prazo de oito anos a contar da data de notificação da presente directiva, os Estados-membros podem autorizar tolerâncias até 6° C para a distribuição local."
+  },
+  "e54901d5fa8cb22c": {
+   "fragment_id": "Artigo 6°",
+   "type": "artigo",
+   "heading": "Artigo 6°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6°\n\n1. Os Estados-membros:\n\na) Certificar-se-ão de que os equipamentos utilizados na ultracongelação, armazenamento, transporte, distribuição local e nos expositores de venda garantem a observância das exigências previstas na presente directiva;\n\nb) Efectuarão um controlo oficial, por amostragem, das temperaturas dos alimentos ultracongelados.\n\n2. Os Estados-membros abster-se-ão de exigir que, quando se tem em vista ou quando se efectua a comercialização dos alimentos ultracongelados, a observância dos elementos referidos no n° 1 seja comprovada por um certificado oficial."
+  },
+  "ce9ccbfc9c804bef": {
+   "fragment_id": "Artigo 7°",
+   "type": "artigo",
+   "heading": "Artigo 7°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7°\n\nOs alimentos ultracongelados destinados ao consumidor final devem ser acondicionados pelo fabricante ou pelo acondicionador em pré-embalagens adequadas que os protejam contra contaminações externas microbianas ou outras e contra a dessecação."
+  },
+  "7c993b60517c03fd": {
+   "fragment_id": "Artigo 8°",
+   "type": "artigo",
+   "heading": "Artigo 8°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8°\n\n1. A Directiva 79/112/CEE aplica-ce aos produtos abrangidos pela presente directiva e destinados a ser entregues no estado em que se encontram ao consumidor final e a restaurantes, hospitais, cantinas e outras colectividades similares sob reserva das condições seguintes:\n\na) A denominação de venda deve ser completada pela ou pelas menções seguintes:\n\nem língua espanhola: «ultracongelado» ou «congelado rápidamente»;\n\nem língua dinamarquesa: «dybfrossen»;\n\nem língua alemã: «tiefgefroren», «Tiefkühlkost», «tiefgekühlt» ou «gefrostet»;\n\nem língua grega: «âáèåßáò êáôÜøõîçò» ou «ôá÷åßáò êáôÜøõîçò» ou «õðåñêáôåøõãìÝíá»;\n\nem lingua inglesa: «quick-frozen»;\n\nem língua francesa: «surgelé»;\n\nem língua italiana: «surgelato»;\n\nem língua neerlandesa: «diepvries»;\n\nem língua portuguesa: «ultracongelado»;\n\nb) A indicação da data de durabilidade mínima deve ser acompanhada da indicação do período durante o qual os produtos ultracongelados podem ser guardados pelo destinatário e da indicação da temperatura de conservação e/ou do equipamento de conservação necessários;\n\nc) A rotulagem de qualquer alimento ultracongelado deve incluir uma referência que permita a identificação do lote;\n\nd) O rótulo de qualquer alimento ultracongelado deve incluir uma advertência clara do tipo «não voltar a congelar após descongelação»."
+  },
+  "1793225eda8b808b": {
+   "fragment_id": "Artigo 9°",
+   "type": "artigo",
+   "heading": "Artigo 9°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9°\n\n1. A rotulagem dos produtos definidos no n° 2 do artigo 1° não destinados ao consumidor final nem a restaurantes, hospitais, cantinas e outras colectividades similares deverá apresentar unicamente as seguintes referências obrigatórias:\n\na) A denominação de venda completada nos termos do n° l, alínea a), do artigo 8°;\n\nb) A quantidade líquida expressa em unidades de massa;\n\nc) Uma referência que permita identificar o lote;\n\nd) O nome ou firma e a morada do fabricante, do acondicionador ou de um vendedor estabelecido no interior da Comunidade.\n\n2. As referências previstas no n° 1 devem constar da embalagem, do recipiente ou do meio de acondicionamento ou de um rótulo ligado a estes.\n\n3. O presente artigo não afecta as disposições comunitárias de carácter mais preciso ou mais lato existentes em matéria de metrologia."
+  },
+  "57fec76ad4df1b35": {
+   "fragment_id": "Artigo 10°",
+   "type": "artigo",
+   "heading": "Artigo 10°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10°\n\nOs Estados-membros não podem proibir ou restringir a comercialização dos produtos definidos no n° 2 do artigo 1° e que estejam em conformidade com a presente directiva e com as medidas tomadas para a sua execução, por motivos relacionados com as suas características de fabrico, a sua forma de acondicionamento ou a sua rotulagem."
+  },
+  "48dd8d986aad4026": {
+   "fragment_id": "Artigo 11°",
+   "type": "artigo",
+   "heading": "Artigo 11°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11°\n\nAs regras relativas à colheita de amostras, ao controlo das temperaturas dos alimentos ultracongelados e ao controlo das temperaturas nos meios de transporte e nas instalações de depósito e armazenagem serão determinadas de acordo com o procedimento previsto no artigo 12° antes do termo de um prazo de vinte e quatro meses após a notificação da presente directiva."
+  },
+  "63b8711f12b26036": {
+   "fragment_id": "Artigo 12°",
+   "type": "artigo",
+   "heading": "Artigo 12°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12°\n\n1. Quando seja feita referência ao processo definido no presente artigo, o Comité Permanente dos Géneros Alimentícios será convocado pelo seu presidente, quer por iniciativa própria quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão apresentará ao Comité um projecto de medidas a tomar. O Comité emitirá o respectivo parecer sobre esse projecto num prazo que o presidente poderá fixar em função da urgência da questão. O Comité pronuncia-se pela maioria qualificada prevista no n° 2 do artigo 148° do Tratado. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas previstas, desde que estejam em conformidade com o parecer do Comité;\n\nb) Caso as medidas previstas não estejam em conformidade com o parecer do Comité, ou na falta de parecer, a Comissão apresentará sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada;\n\nc) Se, decorrido um prazo de três meses a contar da data em que o assunto lhe foi apresentado, o Conselho não tiver adoptado medidas, a Comissão adoptará as medidas propostas."
+  },
+  "f955c6d11fdfb6b5": {
+   "fragment_id": "Artigo 13°",
+   "type": "artigo",
+   "heading": "Artigo 13°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13°\n\n1. Os Estados-membros tomarão as medidas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão. Essas medidas devem:\n\n- admitir, o mais tardar, dezoito meses após a notificação [6] da presente directiva, a comercialização dos produtos em conformidade com a presente directiva,\n\n[6] A presente directiva foi notificada aos Estados-membros em 10 de Janeiro de 1989.\n\n- proibir, o mais tardar, vinte e quatro meses após a notificação da presente directiva o comércio dos produtos que não estejam em conformidade com a presente directiva.\n\n2. No que se refere aos expositores de venda ao consumidor final, os Estados-membros podem, durante um prazo de oito anos a contar da data da notificação da presente directiva, manter as legislações existentes no momento da aplicação da presente directiva.\n\nNeste caso, os Estados-membros informarão a Comissão desse facto e indicarão os motivos que justificam a respectiva decisão."
+  },
+  "fc9f6db73e7e7ece": {
+   "fragment_id": "Artigo 14°",
+   "type": "artigo",
+   "heading": "Artigo 14°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14°\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Dezembro de 1988.\n\nPelo Conselho\n\nO Presidente\n\nV. PAPANDREOU"
+  },
+  "f2d51269fbf70f0d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro 1988\n\nrelativa à aproximação das legislações dos Estados-membros respeitantes aos alimentos ultracongelados destinados à alimentação humana\n\n(89/108/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão,\n\nEm cooperação com o Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#E0002)),\n\nConsiderando que o fabrico e o comércio de alimentos ultracongelados destinados à alimentação humana, adiante designados «alimentos ultracongelados», ocupam um lugar cada vez mais importante na Comunidade;\n\nConsiderando que as diferenças existentes entre as legislações nacionais relativas aos alimentos ultracongelados entravam a sua livre circulação; que podem ocasionar condições de concorrência desiguais e que têm, por esse motivo, uma incidência directa na realização e no funcionamento do mercado comum;\n\nConsiderando que é por isso necessário aproximar essas legislações;\n\nConsiderando que, para esse efeito, é necessário atribuir à regulamentação comunitária um campo de aplicação tão vasto quanto possível, que abranja todos os géneros ultracongelados destinados à alimentação humana e incluindo não só os produtos destinados a serem entregues tal como se encontram ao consumidor final bem como aos restaurantes, hospitais, cantinas e outras colectividades similares mas também os produtos que devem ser objecto de transformações ou preparações posteriores;\n\nConsiderando no entanto que essa regulamentação não se deve aplicar a produtos que não se apresentem no mercado como alimentos ultracongelados;\n\nConsiderando que convém em todo o caso estabelecer os princípios gerais a que qualquer produto ultracongelado deve obedecer;\n\nConsiderando que, posteriormente, se poderão adoptar, se necessário, disposições específicas em complemento dos princípios gerais para determinados grupos de alimentos ultracongelados, nos termos do procedimento aplicável a cada um desses grupos;\n\nConsiderando que a ultracongelação tem por finalidade conservar as características intrínsecas dos alimentos mediante um processo de congelação rápida e que é necessário atingir em todos os pontos do produto uma temperatura igual ou inferior a -18° C;\n\nConsiderando que a uma temperatura de -18° C cessa qualquer actividade microbiológica susceptível de alterar a qualidade dos géneros alimentícios e que desse facto advém a necessidade de essa temperatura ser mantida, pelo menos a esse nível, com uma certa tolerância tecnicamente inevitável, durante o armazenamento e a distribuição dos alimentos ultracongelados antes da venda ao consumidor final;\n\nConsiderando que, por razões técnicas, são inevitáveis certas subidas de temperatura, que podem por isso ser toleradas desde que não prejudiquem a qualidade dos produtos, o que pode ser garantido pela observância das boas práticas de conservação e de distribuição, tendo em conta, em especial, o nível de rotação das existências;\n\nConsiderando que as características de certos equipamentos técnicos actualmente utilizados na venda a retalho de alimentos ultracongelados não são de molde a garantir em todos os casos o respeito integral dos limites de temperatura impostos pela presente directiva e que convém por isso prever um regime transitório que permita amortizar normalmente o material existente;\n\nConsiderando que a presente directiva pode limitar-se a enunciar os objectivos a atingir no que se refere ao equipamento utilizado para a operação de ultracongelação e às temperaturas a respeitar nas instalações e equipamento de armazenagem, manutenção, transporte e distribuição;\n\nConsiderando que incumbe aos Estados-membros certificarem-se, através de controlos oficais, de que o material utilizado é de natureza a responder a estes objectivos;\n\nConsiderando que esse controlo torna inútil qualquer sistema de certificação oficial a nível das trocas comerciais;\n\nConsiderando que convém prever a possibilidade de utilização de fluidos frigorígenos, o que implica o seu contacto com os alimentos ultracongelados; que, por isso, esses fluidos devem ser suficientemente inertes para não deixar passar para os alimentos constituintes numa quantidade susceptível de representar um perigo para a saúde humana, provocar uma alteração inaceitável da composição dos alimentos ou alterar as suas características organolépticas;\n\nConsiderando que, para atingir este objectivo, há que adoptar a lista das substâncias em causa e determinar os respectivos critérios de pureza e condições de utilização;\n\nConsiderando que os alimentos ultracongelados destinados ao consumidor final bem como aos restaurantes, hospitais, cantinas e outras colectividades similares estão sujeitos, no que diz respeito à rotulagem, às normas estipuladas pela Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final bem como à publicidade feita a seu respeito ([^3^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#E0003)), com a última redacção que lhe foi dada pela Directiva 86/197/CEE ([^4^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#E0004)); que a presente directiva pode por isso limitar-se a prever as referências específicas no caso de alimentos ultracongelados;\n\nConsiderando que, a fim de facilitar as trocas comerciais, convém igualmente adoptar regras de rotulagem dos alimentos ultracongelados não destinados a serem entregues no estado em que se encontram ao consumidor final nem aos restaurantes, hospitais, cantinas e outras colectividades similares;\n\nConsiderando que, para facilitar e acelerar o processo, a adopção dessas medidas técnicas de execução deve ser confiada à Comissão;\n\nConsiderando que, em todos os casos em que o Conselho confere à Comissão competências para a execução de normas estipuladas no domínio dos géneros alimentícios, convém prever um processo que institua uma cooperação estreita entre os Estados-membros e a Comissão no seio do Comité Permanente dos Géneros Alimentícios instituído pela Decisão 69/414/CEE do Conselho ([^5^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#E0005)),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8b957388e7329c61": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva refere-se aos géneros ultracongelados destinados à alimentação humana, adiante designados «alimentos ultracongelados».\n\n2. Para efeitos da presente directiva, entende-se por «alimentos ultracongelados» os géneros alimentícios:\n\n— que foram submetidos a um processo adequado de congelação dito «ultracongelação», que permite ultrapassar tão rapidamente quanto necessário, consoante a natureza do produto, a zona de cristalização máxima, fazendo com que a temperatura do produto em todos os seus pontos - após estabilização térmica - se mantenha sem interrupção a níveis iguais ou inferiores a -18 °C, e\n\n— que são comercializados de modo a que seja indicado que possuem esta característica.\n\nOs gelados alimentícios não são considerados alimentos ultracongelados na acepção da presente directiva.\n\n3. A presente directiva aplica-se sem prejuízo das disposições comunitárias relativas:\n\na) À organização comum dos mercados nos domínios da agricultura e da pesca;\n\nb) À higiene veterinária."
+  },
+  "ec746a6dc70b2826": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nApenas os produtos definidos no n.º 2 do artigo 1.º podem utilizar as denominações previstas nos artigos 8.º e 9.º."
+  },
+  "197a863e76bfeeca": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As matérias-primas utilizadas no fabrico de alimentos ultracongelados devem ser de qualidade sã, íntegra e comercializável e apresentar o necessário grau de frescura.\n\n2. A preparação dos produtos a tratar e a ultracongelação devem ser efectuadas o mais rapidamente possível, com o auxílio de um equipamento técnico adequado que permita reduzir ao mínimo as alterações químicas, bioquímicas e microbiológicas."
+  },
+  "f8f463dfb49fa5ea": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs únicos meios frigorígenos cuja utilização em contacto directo com os alimentos ultracongelados é autorizada são os seguintes:\n\n— ar,\n\n— azoto,\n\n— anidrido carbónico.\n\nEm derrogação do parágrafo anterior, os Estados-membros podem manter, até 31 de Dezembro de 1992, as legislações nacionais que autorizam a utilização do diclorodifluorometano (R 12) como meio frigorífico.\n\nOs critérios de pureza a que estes meios devem obedecer são fixados, na medida do necessário, de acordo com o procedimento previsto no artigo 12.º."
+  },
+  "fbe06d6907eb6c00": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A temperatura dos alimentos ultracongelados deve ser estável e mantida, em todos os pontos do produto, a um nível igual ou inferior a -18 °C, eventualmente com breves flutuações até 3 °C, no máximo, durante o transporte.\n\n2. No entanto, admitem-se tolerâncias quanto à temperatura do produto, em conformidade com as boas práticas de conservação e de distribuição, durante a distribuição local nos expositores de venda ao consumidor final nas seguintes condições:\n\na) Essas tolerâncias não devem ser superiores a 3 °C;\n\nb) Todavia, poderão antingir 6 °C nos expositores de venda a retalho se e na medida em que os Estados-membros o decidirem. Neste caso, os Estados-membros escolherão a temperatura em função da rotação das existências ou dos produtos no comércio a retalho e informarão a Comissão das medidas tomadas e dos motivos que as justificam.\n\nA Comissão voltará a analisar a tolerância prevista no presente nùmero em função das evoluções técnicas e, se necessário, apresentará propostas ao Conselho antes de 1 de Janeiro de 1993.\n\n3. Durante um prazo de oito anos a contar da data de notificação da presente directiva, os Estados-membros podem autorizar tolerâncias até 6 °C para a distribuição local."
+  },
+  "0dc939a5a42cd02d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros:\n\na) Certificar-se-ão de que os equipamentos utilizados na ultracongelação, armazenamento, transporte, distribuição local e nos expositores de venda garantem a observância das exigências previstas na presente directiva;\n\nb) Efectuarão um controlo oficial, por amostragem, das temperaturas dos alimentos ultracongelados.\n\n2. Os Estados-membros abster-se-ão de exigir que, quando se tem em vista ou quando se efectua a comercialização dos alimentos ultracongelados, a observância dos elementos referidos no n.º 1 seja comprovada por um certificado oficial."
+  },
+  "2024469df73fe031": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs alimentos ultracongelados destinados ao consumidor final devem ser acondicionados pelo fabricante ou pelo acondicionador em préembalagens adequadas que os protejam contra contaminações externas microbianas ou outras e contra a dessecação."
+  },
+  "56f878bcb42a6f31": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Directiva 79/112/CEE aplica-se aos produtos abrangidos pela presente directiva e destinados a ser entregues no estado em que se encontram ao consumidor final e a restaurantes, hospitais, cantinas e outras colectividades similares sob reserva das condições seguintes:\n\na) A denominação de venda deve ser completada pela ou pelas menções seguintes:\n\nem língua espanhola: «ultracongelado» ou «congelado rápidamente»;\n\nem língua dinamarquesa: «dybfrossen»;\n\nem língua alemã: «tiefgefroren», «Tiefkühlkost», «tiefgekühlt»ou «gefrostet»;\n\nem língua grega: «βαθείας κατάψυξης» ou «ταχείας κατάψυξης» ou «υπερ-κατεψυγμένα»;\n\nem língua inglesa: «quick-frozen»;\n\nem língua francesa: «surgelé»;\n\nem língua italiana: «surgelato»;\n\nem língua neerlandesa: «diepvries»;\n\nem língua portuguesa: «ultracongelado»;\n\nem finlandês: «pakastettu»;\n\nem sueco: «djupfryst»;\n\nem língua checa: «hluboce zmrazené nebo hluboce zmrazená nebo hluboce zmrazený»;\n\nem língua estónia: «sügavkülmutatud or külmutatud»;\n\nem língua letã: «ātri sasaldēts»;\n\nem língua lituana: «greitai užšaldyti»;\n\nem língua húngara: «gyorsfagyasztott»;\n\nem língua maltesa: «iffriżat»;\n\nem língua polaca: «produkt głęboko mrożony»;\n\nem língua eslovena: «hitro zamrznjen»;\n\nem língua eslovaca: «hlbokozmrazené»;\n\nem língua búlgara: «бързо замразена»;\n\nem língua romena: «congelare rapidă»;\n\nb) A indicação da data de durabilidade mínima deve ser acompanhada da indicação do período durante o qual os produtos ultracongelados podem ser guardados pelo destinatário e da indicação da temperatura de conservação e/ou do equipamento de conservação necessários;\n\nc) A rotulagem de qualquer alimento ultracongelado deve incluir uma referência que permita a identificação do lote;\n\nd) O rótulo de qualquer alimento ultracongelado deve incluir uma advertência clara do tipo «não voltar a congelar após descongelação»."
+  },
+  "0cf0aaf4940227a3": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A rotulagem dos produtos definidos no n.º 2 do artigo 1.º não destinados ao consumidor final nem a restaurantes, hospitais, cantinas e outras colectividades similares deverá apresentar unicamente as seguintes referências obrigatórias:\n\na) A denominação de venda completada nos termos do n l, alínea a), do artigo 8.º;\n\nb) A quantidade líquida expressa em unidades de massa;\n\nc) Uma referência que permita identificar o lote;\n\nd) O nome ou firma e a morada do fabricante, do acondicionador ou de um vendedor estabelecido no interior da Comunidade.\n\n2. As referências previstas no n.º 1 devem constar da embalagem, do recipiente ou do meio de acondicionamento ou de um rótulo ligado a estes.\n\n3. O presente artigo não afecta as disposições comunitárias de carácter mais preciso ou mais lato existentes em matéria de metrologia."
+  },
+  "12681ff2666705b0": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros não podem proibir ou restringir a comercialização dos produtos definidos no n.º 2 do artigo 1.º e que estejam em conformidade com a presente directiva e com as medidas tomadas para a sua execução, por motivos relacionados com as suas características de fabrico, a sua forma de acondicionamento ou a sua rotulagem."
+  },
+  "ccd5c9e83a05ebb1": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs regras relativas à colheita de amostras, ao controlo das temperaturas dos alimentos ultracongelados e ao controlo das temperaturas nos meios de transporte e nas instalações de depósito e armazenagem serão determinadas de acordo com o procedimento previsto no artigo 12.º antes do termo de um prazo de vinte e quatro meses após a notificação da presente directiva."
+  },
+  "ee880cd480b8649d": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^6^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#E0006)), a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#E0007)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "8fcf1daa69a599d3": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-membros tomarão as medidas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão. Essas medidas devem:\n\n— admitir, o mais tardar, dezoito meses após a notificação ([^8^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#E0008)) da presente directiva, a comercialização dos produtos em conformidade com a presente directiva,\n\n— proibir, o mais tardar, vinte e quatro meses após a notificação da presente directiva o comércio dos produtos que não estejam em conformidade com a presente directiva.\n\n2. No que se refere aos expositores de venda ao consumidor final, os Estados-membros podem, durante um prazo de oito anos a contar da data da notificação da presente directiva, manter as legislações existentes no momento da aplicação da presente directiva.\n\nNeste caso, os Estados-membros informarão a Comissão desse facto e indicarão os motivos que justificam a respectiva decisão."
+  },
+  "718f5ab9ccb57a81": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "f84470b30738eb6f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#src.E0001)) JO n.º C 175 de 15. 7. 1985, p. 296e JO n.º C 12 de 16. 1. 1989.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#src.E0002)) JO n.º C 104 de 25. 4. 1985, p. 17.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#src.E0003)) JO n.º L 33 de 8. 2. 1979, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#src.E0004)) JO n.º L 144 de 29. 5. 1986, p. 38.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#src.E0005)) JO n.º L 291 de 19. 11. 1969, p. 9.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#src.E0006)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#src.E0007)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ebfce246-a9bb-48bb-a2f8-9758662f470b.0017.03/DOC_1#src.E0008)) A presente directiva foi notificada aos Estados-membros em 10 de Janeiro de 1989."
+  },
+  "81d58f5636fc9487": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro 1988\n\nrelativa à aproximação das legislações dos Estados-membros respeitantes aos alimentos ultracongelados destinados à alimentação humana\n\n(89/108/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão,\n\nEm cooperação com o Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#E0002)),\n\nConsiderando que o fabrico e o comércio de alimentos ultracongelados destinados à alimentação humana, adiante designados «alimentos ultracongelados», ocupam um lugar cada vez mais importante na Comunidade;\n\nConsiderando que as diferenças existentes entre as legislações nacionais relativas aos alimentos ultracongelados entravam a sua livre circulação; que podem ocasionar condições de concorrência desiguais e que têm, por esse motivo, uma incidência directa na realização e no funcionamento do mercado comum;\n\nConsiderando que é por isso necessário aproximar essas legislações;\n\nConsiderando que, para esse efeito, é necessário atribuir à regulamentação comunitária um campo de aplicação tão vasto quanto possível, que abranja todos os géneros ultracongelados destinados à alimentação humana e incluindo não só os produtos destinados a serem entregues tal como se encontram ao consumidor final bem como aos restaurantes, hospitais, cantinas e outras colectividades similares mas também os produtos que devem ser objecto de transformações ou preparações posteriores;\n\nConsiderando no entanto que essa regulamentação não se deve aplicar a produtos que não se apresentem no mercado como alimentos ultracongelados;\n\nConsiderando que convém em todo o caso estabelecer os princípios gerais a que qualquer produto ultracongelado deve obedecer;\n\nConsiderando que, posteriormente, se poderão adoptar, se necessário, disposições específicas em complemento dos princípios gerais para determinados grupos de alimentos ultracongelados, nos termos do procedimento aplicável a cada um desses grupos;\n\nConsiderando que a ultracongelação tem por finalidade conservar as características intrínsecas dos alimentos mediante um processo de congelação rápida e que é necessário atingir em todos os pontos do produto uma temperatura igual ou inferior a -18° C;\n\nConsiderando que a uma temperatura de -18° C cessa qualquer actividade microbiológica susceptível de alterar a qualidade dos géneros alimentícios e que desse facto advém a necessidade de essa temperatura ser mantida, pelo menos a esse nível, com uma certa tolerância tecnicamente inevitável, durante o armazenamento e a distribuição dos alimentos ultracongelados antes da venda ao consumidor final;\n\nConsiderando que, por razões técnicas, são inevitáveis certas subidas de temperatura, que podem por isso ser toleradas desde que não prejudiquem a qualidade dos produtos, o que pode ser garantido pela observância das boas práticas de conservação e de distribuição, tendo em conta, em especial, o nível de rotação das existências;\n\nConsiderando que as características de certos equipamentos técnicos actualmente utilizados na venda a retalho de alimentos ultracongelados não são de molde a garantir em todos os casos o respeito integral dos limites de temperatura impostos pela presente directiva e que convém por isso prever um regime transitório que permita amortizar normalmente o material existente;\n\nConsiderando que a presente directiva pode limitar-se a enunciar os objectivos a atingir no que se refere ao equipamento utilizado para a operação de ultracongelação e às temperaturas a respeitar nas instalações e equipamento de armazenagem, manutenção, transporte e distribuição;\n\nConsiderando que incumbe aos Estados-membros certificarem-se, através de controlos oficais, de que o material utilizado é de natureza a responder a estes objectivos;\n\nConsiderando que esse controlo torna inútil qualquer sistema de certificação oficial a nível das trocas comerciais;\n\nConsiderando que convém prever a possibilidade de utilização de fluidos frigorígenos, o que implica o seu contacto com os alimentos ultracongelados; que, por isso, esses fluidos devem ser suficientemente inertes para não deixar passar para os alimentos constituintes numa quantidade susceptível de representar um perigo para a saúde humana, provocar uma alteração inaceitável da composição dos alimentos ou alterar as suas características organolépticas;\n\nConsiderando que, para atingir este objectivo, há que adoptar a lista das substâncias em causa e determinar os respectivos critérios de pureza e condições de utilização;\n\nConsiderando que os alimentos ultracongelados destinados ao consumidor final bem como aos restaurantes, hospitais, cantinas e outras colectividades similares estão sujeitos, no que diz respeito à rotulagem, às normas estipuladas pela Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final bem como à publicidade feita a seu respeito ([^3^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#E0003)), com a última redacção que lhe foi dada pela Directiva 86/197/CEE ([^4^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#E0004)); que a presente directiva pode por isso limitar-se a prever as referências específicas no caso de alimentos ultracongelados;\n\nConsiderando que, a fim de facilitar as trocas comerciais, convém igualmente adoptar regras de rotulagem dos alimentos ultracongelados não destinados a serem entregues no estado em que se encontram ao consumidor final nem aos restaurantes, hospitais, cantinas e outras colectividades similares;\n\nConsiderando que, para facilitar e acelerar o processo, a adopção dessas medidas técnicas de execução deve ser confiada à Comissão;\n\nConsiderando que, em todos os casos em que o Conselho confere à Comissão competências para a execução de normas estipuladas no domínio dos géneros alimentícios, convém prever um processo que institua uma cooperação estreita entre os Estados-membros e a Comissão no seio do Comité Permanente dos Géneros Alimentícios instituído pela Decisão 69/414/CEE do Conselho ([^5^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#E0005)),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f47b1a61a4b03ac8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs únicos meios frigorígenos cuja utilização em contacto directo com os alimentos ultracongelados é autorizada são os seguintes:\n\n— ar,\n\n— azoto,\n\n— anidrido carbónico.\n\nEm derrogação do parágrafo anterior, os Estados-membros podem manter, até 31 de Dezembro de 1992, as legislações nacionais que autorizam a utilização do diclorodifluorometano (R 12) como meio frigorífico.\n\nOs critérios de pureza a que estes meios frigorígenas devem obedecer são fixados, na medida do necessário, pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 12.º."
+  },
+  "e70e7dfe8f99e441": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs regras relativas à colheita de amostras, ao controlo das temperaturas dos alimentos ultracongelados e ao controlo das temperaturas nos meios de transporte e nas instalações de depósito e armazenagem serão determinadas pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 12.º."
+  },
+  "62d7af3bb828ba4e": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^6^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#E0006)), a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "94328692d8ea430a": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-membros tomarão as medidas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão. Essas medidas devem:\n\n— admitir, o mais tardar, dezoito meses após a notificação ([^7^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#E0007)) da presente directiva, a comercialização dos produtos em conformidade com a presente directiva,\n\n— proibir, o mais tardar, vinte e quatro meses após a notificação da presente directiva o comércio dos produtos que não estejam em conformidade com a presente directiva.\n\n2. No que se refere aos expositores de venda ao consumidor final, os Estados-membros podem, durante um prazo de oito anos a contar da data da notificação da presente directiva, manter as legislações existentes no momento da aplicação da presente directiva.\n\nNeste caso, os Estados-membros informarão a Comissão desse facto e indicarão os motivos que justificam a respectiva decisão."
+  },
+  "ae28383fc6474e6c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#src.E0001)) JO n.º C 175 de 15. 7. 1985, p. 296e JO n.º C 12 de 16. 1. 1989.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#src.E0002)) JO n.º C 104 de 25. 4. 1985, p. 17.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#src.E0003)) JO n.º L 33 de 8. 2. 1979, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#src.E0004)) JO n.º L 144 de 29. 5. 1986, p. 38.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#src.E0005)) JO n.º L 291 de 19. 11. 1969, p. 9.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#src.E0006)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/0645d80f-a7c6-42ff-b6b8-5a579bcf09ae.0018.03/DOC_1#src.E0007)) A presente directiva foi notificada aos Estados-membros em 10 de Janeiro de 1989."
+  },
+  "b7918411218d28e1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro 1988\n\nrelativa à aproximação das legislações dos Estados-membros respeitantes aos alimentos ultracongelados destinados à alimentação humana\n\n(89/108/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão,\n\nEm cooperação com o Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#E0002)),\n\nConsiderando que o fabrico e o comércio de alimentos ultracongelados destinados à alimentação humana, adiante designados «alimentos ultracongelados», ocupam um lugar cada vez mais importante na Comunidade;\n\nConsiderando que as diferenças existentes entre as legislações nacionais relativas aos alimentos ultracongelados entravam a sua livre circulação; que podem ocasionar condições de concorrência desiguais e que têm, por esse motivo, uma incidência directa na realização e no funcionamento do mercado comum;\n\nConsiderando que é por isso necessário aproximar essas legislações;\n\nConsiderando que, para esse efeito, é necessário atribuir à regulamentação comunitária um campo de aplicação tão vasto quanto possível, que abranja todos os géneros ultracongelados destinados à alimentação humana e incluindo não só os produtos destinados a serem entregues tal como se encontram ao consumidor final bem como aos restaurantes, hospitais, cantinas e outras colectividades similares mas também os produtos que devem ser objecto de transformações ou preparações posteriores;\n\nConsiderando no entanto que essa regulamentação não se deve aplicar a produtos que não se apresentem no mercado como alimentos ultracongelados;\n\nConsiderando que convém em todo o caso estabelecer os princípios gerais a que qualquer produto ultracongelado deve obedecer;\n\nConsiderando que, posteriormente, se poderão adoptar, se necessário, disposições específicas em complemento dos princípios gerais para determinados grupos de alimentos ultracongelados, nos termos do procedimento aplicável a cada um desses grupos;\n\nConsiderando que a ultracongelação tem por finalidade conservar as características intrínsecas dos alimentos mediante um processo de congelação rápida e que é necessário atingir em todos os pontos do produto uma temperatura igual ou inferior a -18° C;\n\nConsiderando que a uma temperatura de -18° C cessa qualquer actividade microbiológica susceptível de alterar a qualidade dos géneros alimentícios e que desse facto advém a necessidade de essa temperatura ser mantida, pelo menos a esse nível, com uma certa tolerância tecnicamente inevitável, durante o armazenamento e a distribuição dos alimentos ultracongelados antes da venda ao consumidor final;\n\nConsiderando que, por razões técnicas, são inevitáveis certas subidas de temperatura, que podem por isso ser toleradas desde que não prejudiquem a qualidade dos produtos, o que pode ser garantido pela observância das boas práticas de conservação e de distribuição, tendo em conta, em especial, o nível de rotação das existências;\n\nConsiderando que as características de certos equipamentos técnicos actualmente utilizados na venda a retalho de alimentos ultracongelados não são de molde a garantir em todos os casos o respeito integral dos limites de temperatura impostos pela presente directiva e que convém por isso prever um regime transitório que permita amortizar normalmente o material existente;\n\nConsiderando que a presente directiva pode limitar-se a enunciar os objectivos a atingir no que se refere ao equipamento utilizado para a operação de ultracongelação e às temperaturas a respeitar nas instalações e equipamento de armazenagem, manutenção, transporte e distribuição;\n\nConsiderando que incumbe aos Estados-membros certificarem-se, através de controlos oficais, de que o material utilizado é de natureza a responder a estes objectivos;\n\nConsiderando que esse controlo torna inútil qualquer sistema de certificação oficial a nível das trocas comerciais;\n\nConsiderando que convém prever a possibilidade de utilização de fluidos frigorígenos, o que implica o seu contacto com os alimentos ultracongelados; que, por isso, esses fluidos devem ser suficientemente inertes para não deixar passar para os alimentos constituintes numa quantidade susceptível de representar um perigo para a saúde humana, provocar uma alteração inaceitável da composição dos alimentos ou alterar as suas características organolépticas;\n\nConsiderando que, para atingir este objectivo, há que adoptar a lista das substâncias em causa e determinar os respectivos critérios de pureza e condições de utilização;\n\nConsiderando que os alimentos ultracongelados destinados ao consumidor final bem como aos restaurantes, hospitais, cantinas e outras colectividades similares estão sujeitos, no que diz respeito à rotulagem, às normas estipuladas pela Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final bem como à publicidade feita a seu respeito ([^3^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#E0003)), com a última redacção que lhe foi dada pela Directiva 86/197/CEE ([^4^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#E0004)); que a presente directiva pode por isso limitar-se a prever as referências específicas no caso de alimentos ultracongelados;\n\nConsiderando que, a fim de facilitar as trocas comerciais, convém igualmente adoptar regras de rotulagem dos alimentos ultracongelados não destinados a serem entregues no estado em que se encontram ao consumidor final nem aos restaurantes, hospitais, cantinas e outras colectividades similares;\n\nConsiderando que, para facilitar e acelerar o processo, a adopção dessas medidas técnicas de execução deve ser confiada à Comissão;\n\nConsiderando que, em todos os casos em que o Conselho confere à Comissão competências para a execução de normas estipuladas no domínio dos géneros alimentícios, convém prever um processo que institua uma cooperação estreita entre os Estados-membros e a Comissão no seio do Comité Permanente dos Géneros Alimentícios instituído pela Decisão 69/414/CEE do Conselho ([^5^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#E0005)),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a95492e88d4baf89": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Directiva 79/112/CEE aplica-se aos produtos abrangidos pela presente directiva e destinados a ser entregues no estado em que se encontram ao consumidor final e a restaurantes, hospitais, cantinas e outras colectividades similares sob reserva das condições seguintes:\n\na) A denominação de venda deve ser completada pela ou pelas menções seguintes:\n\nem língua espanhola: «ultracongelado» ou «congelado rápidamente»;\n\nem língua dinamarquesa: «dybfrossen»;\n\nem língua alemã: «tiefgefroren», «Tiefkühlkost», «tiefgekühlt»ou «gefrostet»;\n\nem língua grega: «βαθείας κατάψυξης» ou «ταχείας κατάψυξης» ou «υπερ-κατεψυγμένα»;\n\nem língua inglesa: «quick-frozen»;\n\nem língua francesa: «surgelé»;\n\nem língua italiana: «surgelato»;\n\nem língua neerlandesa: «diepvries»;\n\nem língua portuguesa: «ultracongelado»;\n\nem finlandês: «pakastettu»;\n\nem sueco: «djupfryst»;\n\nem língua checa: «hluboce zmrazené nebo hluboce zmrazená nebo hluboce zmrazený»;\n\nem língua estónia: «sügavkülmutatud or külmutatud»;\n\nem língua letã: «ātri sasaldēts»;\n\nem língua lituana: «greitai užšaldyti»;\n\nem língua húngara: «gyorsfagyasztott»;\n\nem língua maltesa: «iffriżat»;\n\nem língua polaca: «produkt głęboko mrożony»;\n\nem língua eslovena: «hitro zamrznjen»;\n\nem língua eslovaca: «hlbokozmrazené»;\n\nem língua búlgara: «бързо замразена»;\n\nem língua romena: «congelare rapidă»;\n\nem língua croata: «brzo smrznuto»;\n\nb) A indicação da data de durabilidade mínima deve ser acompanhada da indicação do período durante o qual os produtos ultracongelados podem ser guardados pelo destinatário e da indicação da temperatura de conservação e/ou do equipamento de conservação necessários;\n\nc) A rotulagem de qualquer alimento ultracongelado deve incluir uma referência que permita a identificação do lote;\n\nd) O rótulo de qualquer alimento ultracongelado deve incluir uma advertência clara do tipo «não voltar a congelar após descongelação»."
+  },
+  "35011032902f5dc7": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^6^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#E0006)), a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "89cc86a895f7c8a0": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-membros tomarão as medidas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão. Essas medidas devem:\n\n— admitir, o mais tardar, dezoito meses após a notificação ([^7^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#E0007)) da presente directiva, a comercialização dos produtos em conformidade com a presente directiva,\n\n— proibir, o mais tardar, vinte e quatro meses após a notificação da presente directiva o comércio dos produtos que não estejam em conformidade com a presente directiva.\n\n2. No que se refere aos expositores de venda ao consumidor final, os Estados-membros podem, durante um prazo de oito anos a contar da data da notificação da presente directiva, manter as legislações existentes no momento da aplicação da presente directiva.\n\nNeste caso, os Estados-membros informarão a Comissão desse facto e indicarão os motivos que justificam a respectiva decisão."
+  },
+  "6eca4a80b5ae9368": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#src.E0001)) JO n.º C 175 de 15. 7. 1985, p. 296e JO n.º C 12 de 16. 1. 1989.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#src.E0002)) JO n.º C 104 de 25. 4. 1985, p. 17.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#src.E0003)) JO n.º L 33 de 8. 2. 1979, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#src.E0004)) JO n.º L 144 de 29. 5. 1986, p. 38.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#src.E0005)) JO n.º L 291 de 19. 11. 1969, p. 9.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#src.E0006)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/fa8228cb-7e97-44b5-b179-69782bf59125.0018.03/DOC_1#src.E0007)) A presente directiva foi notificada aos Estados-membros em 10 de Janeiro de 1989."
+  }
+ }
+}

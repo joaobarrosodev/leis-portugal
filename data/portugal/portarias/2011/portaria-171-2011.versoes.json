@@ -1,0 +1,247 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:287134:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-106448677",
+ "dre_path": "/dr/detalhe/portaria/171-2011-287134",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-04-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870903221",
+    "106448776",
+    "106448777",
+    "106448778",
+    "106448779"
+   ]
+  },
+  {
+   "date": "2014-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56376279:por",
+     "title": "Portaria n.º 170-A/2014",
+     "published": "2014-08-27",
+     "dre_path": "/dr/detalhe/portaria/170-a-2014-56376279"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "106448775",
+    "106448781",
+    "106448782",
+    "106448778",
+    "106448779",
+    "106448780"
+   ]
+  },
+  {
+   "date": "2017-02-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106434270:por",
+     "title": "Portaria n.º 66/2017",
+     "published": "2017-02-13",
+     "dre_path": "/dr/detalhe/portaria/66-2017-106434270"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "106448775",
+    "106448783",
+    "106448784",
+    "106448778",
+    "106448779",
+    "106448780"
+   ]
+  },
+  {
+   "date": "2022-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:200907659:por",
+     "title": "Portaria n.º 236/2022",
+     "published": "2022-09-13",
+     "dre_path": "/dr/detalhe/portaria/236-2022-200907659"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "870903221",
+    "870903222",
+    "870903223",
+    "870903224",
+    "870903225",
+    "870903226"
+   ]
+  }
+ ],
+ "fragments": {
+  "870903221": {
+   "fragment_id": "106448678",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-09-14",
+   "changed_by": [],
+   "markdown": "Portaria n.º 171/2011\n\nde 27 de Abril\n\nA Portaria n.º 688/2005, de 18 de Agosto, estabeleceu restrições à pesca com ganchorra na zona sul, incluindo limites diários de capturas por espécie e embarcação, bem como limites de capturas diárias aplicáveis à pesca com ganchorra de mão.\n\nOs novos dados científicos disponibilizados pelo Instituto Nacional de Recursos Biológicos, L-IPIMAR, determinam a necessidade de revisão da legislação vigente de forma a assegurar uma exploração sustentável dos recursos, nomeadamente a revisão dos limites de capturas diárias e a interdição de uma zona do sotavento, para proteger a fracção juvenil de pé-de-burrinho.\n\nPor outro lado, actualmente, a tonelagem de arqueação bruta, em função da qual se estabelecia contingentes, já não é a unidade de medida usada para medir a arqueação, o que determina a necessidade de proceder à revogação da Portaria n.º 688/2005, de 18 de Agosto.\n\nAssim:\n\nAo abrigo da alínea g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e do disposto no artigo 13.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, republicado pela Portaria n.º 769/2006, de 7 de Agosto, e posteriormente alterado pelas Portarias n.os 494/2007, de 26 de Abril, e 254/2008, de 7 de Abril:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n> Nota: [Artigo 13.º, Portaria n.º 199/2023 - Diário da República n.º 133/2023, Série I de 2023-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/199-2023-215486103) As restrições à pesca com ganchorra nas diversas zonas de operação, estabelecidas pela presente portaria, mantêm-se em vigor até à publicação do Despacho do diretor-geral de Recursos Naturais, Segurança e Serviços Marítimos, a que se refere o n.º 5 do artigo 10.º da Portaria n.º 199/2023, de 11 de julho, para cada zona de operação de pesca com a arte de ganchorra."
+  },
+  "106448776": {
+   "fragment_id": "106448679",
+   "type": 11,
+   "heading": "Artigo 1.º — Condicionalismos ao exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Condicionalismos ao exercício da pesca\n\nAs embarcações licenciadas para a pesca com ganchorra na zona sul definida na alínea c) do artigo 11.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, ficam sujeitas aos seguintes condicionalismos:\n\na) A pesca é autorizada seis dias por semana, de segunda-feira a sábado, para as embarcações registadas na pesca local e cinco dias por semana, de segunda-feira a sexta-feira, para as embarcações registadas na pesca costeira;\n\nb) Apenas pode ser efectuada uma maré diária entre as 6 e as 15 horas, excepto entre 1 de Junho e 30 de Setembro, meses em que a actividade é autorizada entre as 5 e as 14 horas;\n\nc) Até ao final de Agosto de 2011, é proibida a pesca com ganchorra na zona a este da praia da Lota (Manta Rota) 07º24'00\"W. a 07º31'00\"W."
+  },
+  "106448777": {
+   "fragment_id": "106448680",
+   "type": 11,
+   "heading": "Artigo 2.º — Limites diários de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Limites diários de captura\n\n1 - São fixados os seguintes limites máximos de capturas diárias de bivalves por embarcação, independentemente das espécies capturadas:\n\na) Embarcações com comprimento de fora a fora até 9 m - 150 kg;\n\nb) Embarcações com comprimento de fora a fora igual ou superior a 9 m - 300 kg.\n\n2 - Sem prejuízo do estabelecido no n.º 1, são fixados os seguintes limites máximos de capturas diárias por espécie e por embarcação:\n\na) Amêijoa-branca (Spisula solida) - 150 kg;\n\nb) Conquilha (Donax, spp.) - 180 kg;\n\nc) Pé-de-burrinho (Chamelea gallina) - 150 kg;\n\nd) Longueirão ou lingueirão ou navalha (Ensis siliqua, Pharus legumen) - 50 kg.\n\n3 - É fixado em 20 kg de conquilha (Donax, spp.) o limite máximo de capturas diárias desta espécie por titular de licença para o exercício da pesca com ganchorra de mão na zona sul definida pela alínea c) do artigo 11.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro."
+  },
+  "106448778": {
+   "fragment_id": "106448681",
+   "type": 11,
+   "heading": "Artigo 3.º — Devolução ao mar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Devolução ao mar\n\nA triagem e a devolução ao mar dos espécimes devem ser efectuadas após a captura respectiva, sendo proibidas as rejeições ao mar em águas interiores não marítimas ou nas zonas dos portos de pesca."
+  },
+  "106448779": {
+   "fragment_id": "106448682",
+   "type": 11,
+   "heading": "Artigo 4.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Revogação\n\nÉ revogada a Portaria n.º 688/2005, de 18 de Agosto."
+  },
+  "106448775": {
+   "fragment_id": "106448678",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 171/2011\n\nde 27 de Abril\n\nA Portaria n.º 688/2005, de 18 de Agosto, estabeleceu restrições à pesca com ganchorra na zona sul, incluindo limites diários de capturas por espécie e embarcação, bem como limites de capturas diárias aplicáveis à pesca com ganchorra de mão.\n\nOs novos dados científicos disponibilizados pelo Instituto Nacional de Recursos Biológicos, L-IPIMAR, determinam a necessidade de revisão da legislação vigente de forma a assegurar uma exploração sustentável dos recursos, nomeadamente a revisão dos limites de capturas diárias e a interdição de uma zona do sotavento, para proteger a fracção juvenil de pé-de-burrinho.\n\nPor outro lado, actualmente, a tonelagem de arqueação bruta, em função da qual se estabelecia contingentes, já não é a unidade de medida usada para medir a arqueação, o que determina a necessidade de proceder à revogação da Portaria n.º 688/2005, de 18 de Agosto.\n\nAssim:\n\nAo abrigo da alínea g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e do disposto no artigo 13.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, republicado pela Portaria n.º 769/2006, de 7 de Agosto, e posteriormente alterado pelas Portarias n.os 494/2007, de 26 de Abril, e 254/2008, de 7 de Abril:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  },
+  "106448781": {
+   "fragment_id": "106448679",
+   "type": 11,
+   "heading": "Artigo 1.º — Condicionalismos ao exercício da pesca",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+   ],
+   "markdown": "###### Artigo 1.º — Condicionalismos ao exercício da pesca\n\nAs embarcações licenciadas para a pesca com ganchorra na zona sul definida na alínea c) do artigo 11.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, ficam sujeitas aos seguintes condicionalismos:\n\na) A pesca é autorizada seis dias por semana, de segunda-feira a sábado, para as embarcações registadas na pesca local e cinco dias por semana, de segunda-feira a sexta-feira, para as embarcações registadas na pesca costeira;\n\nb) Apenas pode ser efectuada uma maré diária entre as 6 e as 15 horas, excepto entre 1 de Junho e 30 de Setembro, meses em que a actividade é autorizada entre as 5 e as 14 horas;\n\nc) Até ao final de dezembro de 2015 é proibida a captura, manutenção a bordo e descarga de longueirão, lingueirão ou navalha (Ensis siliqua e Pharus legumen).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+  },
+  "106448782": {
+   "fragment_id": "106448680",
+   "type": 11,
+   "heading": "Artigo 2.º — Limites diários de captura",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+   ],
+   "markdown": "###### Artigo 2.º — Limites diários de captura\n\n1 - São fixados os seguintes limites máximos de capturas diárias de bivalves por embarcação, independentemente das espécies capturadas:\n\na) Embarcações com comprimento de fora a fora até 9 m - 200 kg;\n\nb) Embarcações com comprimento de fora a igual ou superior a 9 m - 400 kg.\n\n2 - Sem prejuízo do estabelecido no número anterior, são fixados os seguintes limites máximos de capturas por espécies e por embarcação:\n\na) Amêijoa-branca (Spisula solida) - 250 kg por dia;\n\nb) Conquilha (Donax, spp.) - 180 kg;\n\nc) Pé-de-burrinho (Chamelea gallina) - 250 kg por dia;\n\nd) Longueirão ou lingueirão ou navalha (Ensis siliqua, Pharus legumen) - interdita.\n\n3 - É fixado em 20 kg de conquilha (Donax, spp.) o limite máximo de capturas diárias desta espécie por titular de licença para o exercício da pesca com ganchorra de mão na zona sul definida pela alínea c) do artigo 11.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+  },
+  "106448780": {
+   "fragment_id": "106448683",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 14 de Abril de 2011."
+  },
+  "106448783": {
+   "fragment_id": "106448679",
+   "type": 11,
+   "heading": "Artigo 1.º — Condicionalismos ao exercício da pesca",
+   "in_force_from": "2017-02-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 66/2017 - Diário da República n.º 31/2017, Série I de 2017-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/66-2017-106434270), em vigor a partir de 2017-02-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+   ],
+   "markdown": "###### Artigo 1.º — Condicionalismos ao exercício da pesca\n\nAs embarcações licenciadas para a pesca com ganchorra na zona sul definida na alínea c) do artigo 11.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, ficam sujeitas aos seguintes condicionalismos:\n\na) A pesca é autorizada seis dias por semana, de segunda-feira a sábado, para as embarcações registadas na pesca local e cinco dias por semana, de segunda-feira a sexta-feira, para as embarcações registadas na pesca costeira;\n\nb) Apenas pode ser efectuada uma maré diária entre as 6 e as 15 horas, excepto entre 1 de Junho e 30 de Setembro, meses em que a actividade é autorizada entre as 5 e as 14 horas;\n\nc) Até ao final de dezembro de 2017 é proibida a captura, manutenção a bordo e descarga de longueirão, lingueirão ou navalha (Ensis siliqua e Pharus legumen).\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 66/2017 - Diário da República n.º 31/2017, Série I de 2017-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/66-2017-106434270), em vigor a partir de 2017-02-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+  },
+  "106448784": {
+   "fragment_id": "106448680",
+   "type": 11,
+   "heading": "Artigo 2.º — Limites diários de captura",
+   "in_force_from": "2017-02-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 66/2017 - Diário da República n.º 31/2017, Série I de 2017-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/66-2017-106434270), em vigor a partir de 2017-02-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+   ],
+   "markdown": "###### Artigo 2.º — Limites diários de captura\n\n1 - São fixados os seguintes limites máximos de capturas diárias de bivalves por embarcação, independentemente das espécies capturadas:\n\na) Embarcações com comprimento de fora a fora inferior a 7 m - 200 kg;\n\nb) Embarcações com comprimento de fora a fora igual ou superior a 7 e inferior a 9 m - 300 kg;\n\nc) Embarcações com comprimento de fora a igual ou superior a 9 m - 400 kg.\n\n2 - Sem prejuízo do estabelecido no número anterior, são fixados os seguintes limites máximos de capturas por espécies e por embarcação:\n\na) Amêijoa-branca (Spisula solida) - 250 kg por dia;\n\nb) Conquilha (Donax, spp.) - 200 kg;\n\nc) Pé-de-burrinho (Chamelea gallina) - 250 kg por dia;\n\nd) Longueirão ou lingueirão ou navalha (Ensis siliqua, Pharus legumen) - interdita.\n\n3 - É fixado em 20 kg de conquilha (Donax, spp.) o limite máximo de capturas diárias desta espécie por titular de licença para o exercício da pesca com ganchorra de mão na zona sul definida pela alínea c) do artigo 11.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro.\n\n4 - Sem prejuízo dos limites máximos fixados no presente artigo, as organizações de produtores, no âmbito das respetivas normas de gestão, podem estabelecer outros limites de captura.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 66/2017 - Diário da República n.º 31/2017, Série I de 2017-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/66-2017-106434270), em vigor a partir de 2017-02-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+  },
+  "870903222": {
+   "fragment_id": "106448679",
+   "type": 11,
+   "heading": "Artigo 1.º — Condicionalismos ao exercício da pesca",
+   "in_force_from": "2022-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 236/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/236-2022-200907659), em vigor a partir de 2022-09-14",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 66/2017 - Diário da República n.º 31/2017, Série I de 2017-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/66-2017-106434270), em vigor a partir de 2017-02-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+   ],
+   "markdown": "###### Artigo 1.º — Condicionalismos ao exercício da pesca\n\nAs embarcações licenciadas para a pesca com ganchorra na zona sul definida na alínea c) do artigo 11.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, ficam sujeitas aos seguintes condicionalismos:\n\na) A pesca é autorizada seis dias por semana, de segunda-feira a sábado, para as embarcações registadas na pesca local e cinco dias por semana, de segunda-feira a sexta-feira, para as embarcações registadas na pesca costeira;\n\nb) Apenas pode ser efectuada uma maré diária entre as 6 e as 15 horas, excepto entre 1 de Junho e 30 de Setembro, meses em que a actividade é autorizada entre as 5 e as 14 horas;\n\nc) Até ao final de dezembro de 2017 é proibida a captura, manutenção a bordo e descarga de longueirão, lingueirão ou navalha (Ensis siliqua e Pharus legumen).\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 236/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/236-2022-200907659), em vigor a partir de 2022-09-14\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 66/2017 - Diário da República n.º 31/2017, Série I de 2017-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/66-2017-106434270), em vigor a partir de 2017-02-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+  },
+  "870903223": {
+   "fragment_id": "106448680",
+   "type": 11,
+   "heading": "Artigo 2.º — Limites diários de captura",
+   "in_force_from": "2022-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 236/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/236-2022-200907659), em vigor a partir de 2022-09-14",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 66/2017 - Diário da República n.º 31/2017, Série I de 2017-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/66-2017-106434270), em vigor a partir de 2017-02-14",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+   ],
+   "markdown": "###### Artigo 2.º — Limites diários de captura\n\n1 - São fixados os seguintes limites máximos de capturas diárias de bivalves por embarcação, independentemente das espécies capturadas:\n\na) Embarcações com comprimento de fora a fora inferior a 7 m - 200 kg;\n\nb) Embarcações com comprimento de fora a fora igual ou superior a 7 e inferior a 9 m - 300 kg;\n\nc) Embarcações com comprimento de fora a igual ou superior a 9 m - 400 kg.\n\n2 - Sem prejuízo do estabelecido no número anterior, são fixados os seguintes limites máximos de capturas por espécies e por embarcação:\n\na) Amêijoa-branca (Spisula solida) - 250 kg por dia;\n\nb) Conquilha (Donax, spp.) - 200 kg;\n\nc) Pé-de-burrinho (Chamelea gallina) - 250 kg por dia;\n\nd) Longueirão ou lingueirão ou navalha (Ensis siliqua, Pharus legumen) - interdita.\n\n3 - É fixado em 20 kg de conquilha (Donax, spp.) o limite máximo de capturas diárias desta espécie por titular de licença para o exercício da pesca com ganchorra de mão na zona sul definida pela alínea c) do artigo 11.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro.\n\n4 - Sem prejuízo dos limites máximos fixados no presente artigo, as organizações de produtores, no âmbito das respetivas normas de gestão, podem estabelecer outros limites de captura.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 236/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/236-2022-200907659), em vigor a partir de 2022-09-14\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 66/2017 - Diário da República n.º 31/2017, Série I de 2017-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/66-2017-106434270), em vigor a partir de 2017-02-14\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2014 - Diário da República n.º 164/2014, 1º Suplemento, Série I de 2014-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2014-56376279), em vigor a partir de 2014-09-01, produz efeitos a partir de 2014-08-27"
+  },
+  "870903224": {
+   "fragment_id": "106448681",
+   "type": 11,
+   "heading": "Artigo 3.º — Devolução ao mar",
+   "in_force_from": "2022-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 236/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/236-2022-200907659), em vigor a partir de 2022-09-14"
+   ],
+   "markdown": "###### Artigo 3.º — Devolução ao mar\n\nA triagem e a devolução ao mar dos espécimes devem ser efectuadas após a captura respectiva, sendo proibidas as rejeições ao mar em águas interiores não marítimas ou nas zonas dos portos de pesca.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 236/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/236-2022-200907659), em vigor a partir de 2022-09-14"
+  },
+  "870903225": {
+   "fragment_id": "106448682",
+   "type": 11,
+   "heading": "Artigo 4.º — Revogação",
+   "in_force_from": "2022-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 236/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/236-2022-200907659), em vigor a partir de 2022-09-14"
+   ],
+   "markdown": "###### Artigo 4.º — Revogação\n\nÉ revogada a Portaria n.º 688/2005, de 18 de Agosto.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 236/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/236-2022-200907659), em vigor a partir de 2022-09-14"
+  },
+  "870903226": {
+   "fragment_id": "106448683",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 236/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/236-2022-200907659), em vigor a partir de 2022-09-14"
+   ],
+   "markdown": "Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 14 de Abril de 2011.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 236/2022 - Diário da República n.º 177/2022, Série I de 2022-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/236-2022-200907659), em vigor a partir de 2022-09-14"
+  }
+ }
+}

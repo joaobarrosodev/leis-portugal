@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:478435:por
+title: Portaria n.º 22267
+short_title: null
+summary: Cria na Comissão de Construções Hospitalares um grupo de trabalho para estudo do planeamento hospitalar da cidade
+  de Lisboa e áreas urbanas contíguas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Obras Públicas e da Saúde e Assistência
+proposing_entity: null
+official_number: '22267'
+official_date: null
+publication_date: '1966-10-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 249/1966, Série I de 1966-10-26
+  number: '249'
+  series: I
+  supplement: null
+  pages: 1747 - 1748
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/10/24900/17471748.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '478435'
+  dre_path: /dr/detalhe/portaria/22267-1966-478435
+  internal: pt:dre:478435:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22267-1966-478435
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22267-1966-478435
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:21:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5f7746093be2a9c39300b0b1302582500142c668099f29fe46ce0de4dc8b5006
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:173122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251427:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:21:56Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22267
+
+1. Dentro do planeamento hospitalar, oferece aspectos especiais o planeamento das grandes cidades.
+
+Tal facto resulta da elevada concentração populacional, em áreas por vezes relativamente reduzidas, o que se traduz na necessidade de mobilizar avultados meios para satisfação das necessidades no campo da saúde. Anote-se que, na generalidade, é sempre maior a frequência hospitalar nos aglomerados urbanos do que nos meios rurais.
+
+2. No nosso país, o ordenamento hospitalar de cidades, como Lisboa ou o Porto, levanta certo número de importantes questões, entre as quais se referem as seguintes:
+
+Sendo característica dos actuais hospitais centrais - os mais diferenciados da nossa organização, situados na sede das zonas hospitalares - o facto de funcionarem simultâneamente como hospitais regionais e sub-regionais, poderá pôr-se o problema de considerar a conveniência ou não de, na grande cidade, haver uma diferenciação de estabelecimentos com diversas valências técnicas;
+
+Não existindo, com carácter sistemático, uma «segunda linha hospitalar», para doentes convalescentes ou de evolução prolongada, há que encarar a conveniência ou não da criação de estabelecimentos de apoio dos hospitais da grande cidade, para tratamento desses doentes;
+
+O problema das consultas externas na grande cidade levanta a questão de determinar se é necessária a criação de ambulatórios que, funcionando fìsicamente separados do hospital, contudo, a ele estejam funcionalmente ligados;
+
+A adequada coordenação dos estabelecimentos hospitalares da grande cidade poderá conduzir, também, a uma divisão em áreas, para além da actualmente existente.
+
+3. Sabe-se que o planeamento hospitalar das grandes cidades constitui preocupação em diversos países, e, pelo menos quanto a Lisboa, o problema oferece especial acuidade se atentarmos em que há largas «manchas» populacionais desprovidas de serviços hospitalares de internamento (Loures e Oeiras), ao mesmo tempo que se encontra em estudo o Plano director da região de Lisboa, importante trabalho que não poderá deixar de estar na base do planeamento hospitalar que pretenda levar-se a cabo nessa região.
+
+4. A tarefa de realizar os estudos conducentes ao estabelecimento do Plano hospitalar da Grande Lisboa é complexa, dadas as indagações a fazer e até a doutrina a criar, o que se mostra ainda agravado pelo facto de ser reduzida, entre nós, a experiência na matéria.
+
+Porém, verifica-se, por outro lado, que, de há quinze anos para cá, foram construídos de raiz dois hospitais centrais e objecto de remodelação outros, o que atesta a experiência que, neste campo, têm, quer a Comissão de Construções Hospitalares, quer outros serviços dependentes do Ministério das Obras Públicas.
+
+5. A alínea c) do artigo 2.º do [Decreto-Lei n.º 43853](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43853-1961-173122), de 10 de Agosto de 1961, que criou a Direcção-Geral dos Hospitais, veio determinar que incumbe a este organismo «organizar, com a Comissão de Construções Hospitalares, e sem prejuízo, quanto a esta, do disposto no [Decreto-Lei n.º 41497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41497-1957-251427), de 31 de Dezembro de 1957, os planos gerais de obras de construção e equipamento das unidades hospitalares».
+
+A importância dos problemas postos aconselha a constituição de um grupo de trabalho que promova os estudos necessários à sua boa resolução, bem como a criação dos serviços de apoio que se mostrem indispensáveis - o que se faz pela presente portaria.
+
+O referido grupo é criado na Comissão de Construções Hospitalares, incumbindo, naturalmente, a sua presidência à pessoa que, por imperativo legal, preside à mesma Comissão, ou seja o director-geral dos Hospitais.
+
+Embora proposto especìficamente para o estudo do Plano hospitalar de Lisboa, prevê-se que ao grupo possa ser determinado o planeamento de outras cidades, se, na devida oportunidade, não for considerada conveniente a constituição de grupos específicos para essa finalidade.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Obras Públicas e da Saúde de Assistência, o seguinte:
+
+1.º É criado, na Comissão de Construções Hospitalares, um grupo de trabalho para estudo do planeamento hospitalar da cidade de Lisboa e áreas urbanas contíguas.
+
+2.º Incumbe ao grupo de trabalho:
+
+a) Promover os levantamentos, inquéritos ou estudos que se mostrem necessários;
+
+b) Propor a delimitação da cidade de Lisboa e áreas urbanas contíguas (Grande Lisboa) para efeitos de organização hospitalar;
+
+c) Avaliar as necessidades hospitalares desta área e propor a criação ou remodelação das unidades julgadas indispensáveis para satisfazer aquelas necessidades;
+
+d) Elaborar os estudos que superiormente lhe forem determinados, designadamente se for considerado conveniente o planeamento hospitalar de outras cidades sedes de zona.
+
+3. O grupo será constituído pelo presidente da Comissão de Construções Hospitalares e terá representantes dos serviços seguintes:
+
+a) Do Ministério das Obras Públicas:
+
+O director-delegado, o vogal médico, um engenheiro e um arquitecto da Comissão de Construções Hospitalares;
+
+Um representante da Direcção-Geral dos Serviços de Urbanização.
+
+b) Do Ministério da Saúde e Assistência:
+
+O director-geral adjunto dos Hospitais.
+
+O inspector superior de Medicina.
+
+O inspector superior de Planeamento e Organização.
+
+O enfermeiro-mor dos Hospitais Civis de Lisboa e o provedor e director clínico do Hospital de Santa Maria.
+
+c) Da Câmara Municipal de Lisboa:
+
+Um representante do Gabinete do Plano Director de Lisboa.
+
+4.º Poderão ser agregados, a título permanente ou eventual, os representantes de outros serviços ou instituições, bem como técnicos cuja participação nos trabalhos venha a mostrar-se necessária.
+
+5.º Poderá ser admitido o pessoal necessário para realizar os estudos, levantamentos e inquéritos que o grupo considere indispensáveis.
+
+6.º Os encargos com o funcionamento deste grupo, incluindo os relativos a pessoal que tenha de ser admitido, serão suportados pela verba própria da Comissão de Construções Hospitalares, mediante despacho do Ministro das Obras Públicas, ao abrigo do disposto no n.º 3.º do [Decreto-Lei n.º 41497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41497-1957-251427), de 31 de Dezembro de 1957.
+
+Ministérios das Obras Públicas e da Saúde e Assistência, 26 de Outubro de 1966. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

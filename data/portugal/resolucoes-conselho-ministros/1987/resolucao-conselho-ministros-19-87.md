@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:666307:por
+title: Resolução do Conselho de Ministros n.º 19/87
+short_title: null
+summary: Cria um grupo de trabalho com o objectivo de concretizar as condições de solução do problema dos excedentes de mão-de-obra
+  portuária nos portos de Lisboa e de Leixões e fixa as respectivas orientações básicas
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 19/87
+official_date: null
+publication_date: '1987-04-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 86/1987, Série I de 1987-04-13
+  number: '86'
+  series: I
+  supplement: null
+  pages: 1506 - 1507
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/04/08600/15061507.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '666307'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/19-1987-666307
+  internal: pt:dre:666307:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/19-1987-666307
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/19-1987-666307
+  consolidated_url: null
+  retrieved_at: '2026-10-26T20:21:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 67ca799ab0aaaf91d94e4b47535c65fca6498a67579eeb432f961367cb29d119
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-26T20:21:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Trabalhador Portuário
+- Trabalho Portuário
+relationships:
+- type: cites
+  target: pt:dre:579344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579345:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T20:21:21Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 19/87
+
+Considerando que o Programa do Governo conferiu prioridade a todas as medidas que promovam a competitividade dos portos portugueses;
+
+Considerando o esforço do actual governo desenvolvido nesse sentido, esforço esse consubstanciado na reformulação da orgânica das administrações dos portos, na extinção de impostos cobrados sabre os valores das mercadorias, na eliminação das imposições marítimas gerais e na revisão profunda das taxas cobradas por estas administrações e nos investimentos em infra-estruturas e equipamentos portuários;
+
+Considerando que, apesar disso, nos portos de Lisboa e Leixões as operações portuárias continuam a apresentar custos muito elevados, retirando a estes portos capacidade concorrencial, o que é particularmente grave no quadro da nossa integração na CEE;
+
+Considerando que estes custos resultam fundamentalmente do excesso de mão-de-obra portuária face às reais necessidades do trabalho;
+
+Considerando que a principal causa desta situação se deve à evolução tecnológica verificada nos transportes marítimos, designadamente no tipo de cargas movimentadas, com forte redução na carga geral e aumento na carga a granel e contentorizada, originando o consequente aparecimento de instalações portuárias de grande rendimento de carga e de descarga, determinando o excesso de mão-de-obra e a inadequação dos métodos de trabalho usados;
+
+Considerando que, nos termos do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, e legislação complementar, o tratamento à escala nacional das questões atinentes ao trabalho portuário é levado a cabo pelo Instituto do Trabalho Portuário, a quem incumbe tutelar, coordenar e fiscalizar os órgãos de gestão do trabalho portuário de estrutura participativa, integrando representantes da Administração Pública, dos sindicatos representativos dos trabalhadores portuários e dos operadores portuários;
+
+Considerando que os excedentes de mão-de-obra portuária são, assim, um encargo dos centros coordenadores do trabalho portuário, de gestão tripartida;
+
+Considerando que medidas anteriormente tomadas através da referida legislação, nomeadamente a reforma antecipada aos 55 anos de idade dos trabalhadores portuários, para vigorar num período de cinco anos (de 1985 até 1989), não são suficientes para a resolução do problema;
+
+Considerando, ainda, a vantagem de se reduzir a intervenção do Estado numa matéria em que deve prevalecer a cooperação voluntária dos agentes económicos, conforme prevê o n.º 3 do artigo 2.º da acima referida legislação, ao estabelecer que, por acordo entre os organismos representativos dos trabalhadores e dos operadores, poderão ser criados órgãos de gestão bipartida (OGB);
+
+Considerando que ao longo das negociações que o Governo, através da Secretaria de Estado das Vias de Comunicação, tem vindo a desenvolver com os parceiros sociais interessados no sector - trabalhadores e operadores portuários -, com o fim de diagnosticar e encontrar as melhores soluções para o problema, se pôde confirmar o seu reconhecimento quanto à existência de um real excesso de mão-de-obra portuária e à necessidade de se proceder a um esquema de licenciamentos mais acelerado, como única forma de resolução do problema da relativa carestia dos portos portugueses;
+
+Considerando que, terminada a fase de estudo da situação e de conversações prévias entre todos os intervenientes, importa avançar para a fase última de concretização das condições de solução do problema, existindo boas perspectivas para as obter;
+
+Considerando, ainda, que o disposto no artigo 10.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, estabelece a orientação geral do licenciamento dos trabalhadores em excesso:
+
+Nestes termos, o Conselho de Ministros, reunido em 26 de Março de 1987, resolveu:
+
+1 - O Ministério das Obras Públicas, Transportes e Comunicações (MOPTC), através da Secretaria de Estado das Vias de Comunicação, prosseguirá nos seus esforços de mediação, com vista a conciliar as posições das entidades patronais e sindicais envolvidas no processo de reajustamento dos efectivos portuários, com elas formalizando um protocolo final, definidor das soluções a adoptar e do respectivo calendário.
+
+2 - Os encargos decorrentes dos previstos licenciamentos dos trabalhadores portuários deverão ser repartidos entre o Estado e as empresas operadoras portuárias ou utilizadoras directas de mão-de-obra portuária previstas no artigo 3.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto.
+
+3 - Os encargos que o Estado deva aceitar poderão ser satisfeitos através da emissão de obrigações pelo Instituto do Trabalho Portuário (ITP) ou por outros meios que se mostrem adequados.
+
+4 - Preparar a extinção dos centros coordenadores do trabalho portuário (CCTPs), previstos no n.º 2 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, transferindo as dívidas existentes à Segurança Social para entidades a estabelecer mediante um esquema a definir pela Secretaria de Estado da Segurança Social.
+
+5 - A fim de avaliar as condições financeiras que regularão a extinção referida no número anterior, poderá a Inspecção-Geral de Finanças proceder à auditoria financeira dos referidos organismos.
+
+6 - Obter contrapartidas para o esforço financeiro do Estado, quer do lado dos operadores portuários, quer do lado dos trabalhadores, com vista a redimensionar as equipas de acordo com as necessidades que o trabalho a executar realmente implique, garantindo os desejáveis aumentos de produtividade e estabelecendo claramente uma diminuição dos preços praticados pelos operadores portuários.
+
+7 - Criar uma comissão interministerial que, em colaboração com os parceiros sociais interessados, terá por objectivo:
+
+a) Definir os quantitativos de trabalhadores portuários a licenciar nos portos de Lisboa e Leixões;
+
+b) Estabelecer a forma que deverão assumir os licenciamentos;
+
+c) Definir a cobertura dos encargos a assumir pelo Estado e parceiros sociais e modalidades concretas do seu financiamento, devendo ser estudada a eventualidade da aplicação de uma «taxa» cujo produto reverteria para o serviço da dívida proveniente da emissão de obrigações referida no n.º 3 e sem prejuízo do disposto na parte final do n.º 6;
+
+d) Definir outras condições necessárias à resolução do problema - extinção dos CCTPs e criação dos organismos de gestão sucedâneos, reconversão das dívidas à Segurança Social, abaixamento de custos portuários, legislação sobre operadores portuários e função normativa e fiscalizadora do Estado sobre a operação portuária.
+
+8 - Fixar a seguinte composição para a comissão referida no número anterior:
+
+Dois representantes do MOPTC, um dos quais presidirá;
+
+Dois representantes do Ministério das Finanças;
+
+Dois representantes do Ministério do Trabalho e Segurança Social;
+
+Um representante da Administração dos Portos do Douro e Leixões;
+
+Um representante da Administração-Geral do Porto de Lisboa;
+
+Um representante do ITP.
+
+9 - Que a comissão referida no número anterior apresente as suas conclusões no prazo de 30 dias a contar da data da publicação desta resolução.
+
+10 - Considerando as conclusões referidas no número anterior, será elaborado o protocolo referido no n.º 1, a homologar pelos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Trabalho e Segurança Social e de cuja execução ficará incumbido o ITP.
+
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.

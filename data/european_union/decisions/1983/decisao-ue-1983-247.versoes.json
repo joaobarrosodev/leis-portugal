@@ -1,0 +1,309 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31983D0247:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983D0247-19971209",
+ "dre_path": null,
+ "source_lastmod": "1997-12-09",
+ "versions": [
+  {
+   "date": "1983-05-26",
+   "future": false,
+   "celex": "31983D0247",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "83182730c7ffe7e9",
+    "ae8280f0291457ef",
+    "8728169c673e4ab1",
+    "362ddd0a0fa60072",
+    "014eeb45bd408c8d",
+    "df22d7936611d79c",
+    "169fc8d5a982452d",
+    "555be38af89bb5bb",
+    "e316a7113b690ea0",
+    "3c37e8429de0b0a8",
+    "eff5f2031684fc55",
+    "c75bbc8ff553bdb8",
+    "372d000f0f9f375f",
+    "75e560cc0bead817"
+   ]
+  },
+  {
+   "date": "1997-12-09",
+   "future": false,
+   "celex": "01983D0247-19971209",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o"
+   ],
+   "fragments": [
+    "f95d793791df0f10",
+    "10eb24bb20c1aa0c",
+    "65dfde84dc4271d7",
+    "e2f9cdc5cec8f7e1",
+    "53e53ba439ecd67f",
+    "c7bcd245de3530ab",
+    "ecf8925eab31b7d6",
+    "2b0ccb427d304ae6",
+    "cecfa201e2e4f393",
+    "e1b77d2183f0bf8b",
+    "98676d156e1f11b1",
+    "726a226de1494278",
+    "50d21edc3cc14b7e",
+    "d4fba02dab882e3b"
+   ]
+  }
+ ],
+ "fragments": {
+  "83182730c7ffe7e9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**83/247/CEE: Decisão da Comissão, de 11 de Maio de 1983, que institui um Comité Consultivo da Política Comunitária para o Sector das Madeiras** *Jornal Oficial nº L 137 de 26/05/1983 p. 0031 - 0032 Edição especial finlandesa: Capítulo 13 Fascículo 12 p. 0183 Edição especial espanhola: Capítulo 13 Fascículo 14 p. 0061 Edição especial sueca: Capítulo 13 Fascículo 12 p. 0183 Edição especial portuguesa: Capítulo 13 Fascículo 14 p. 0061*\n\nDECISÃO DA COMISSÃO de 11 de Maio de 1983 que institui um Comité Consultivo da Política Comunitária para o Sector das Madeiras\n\n(83/247/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nConsiderando que a melhoria constante das condições de vida e de emprego, bem como o desenvolvimento harmonioso das economias dos Estados-membros, constituem objectivos da Comunidade Económica Europeia;\n\nConsiderando que as actividades económicas com base na produção e na transformação industrial da madeira oferecem possibilidades de contribuir para a realização destes objectivos, devido às potencialidades de desenvolvimento destas actividades, e tendo em conta as suas dificuldades actuais;\n\nConsiderando que se torna necessário estudar e resolver estas dificuldades não separadamente, mas na sua interdependência;\n\nConsiderando que, para o efeito, e com base nos trabalhos já realizados pelos serviços da Comissão e, nomeadamente, na comunicação ao Conselho relativa ao programa de acções comunitárias para o sector das madeiras, é possível contribuir para a realização destes objectivos mediante um contacto estreito e contínuo com os sectores económicos interessados;\n\nConsiderando que o meio mais adequado de organizar estes contactos é instituir, junto da Comissão, um «Comité Consultivo da Política Comunitária para o Sector das Madeiras», no qual estarão representados aqueles sectores; que, por outro lado, é conveniente prever a presença neste Comité de personalidades qualificadas, que possam contribuir com a sua experiência técnica e os seus conhecimentos de economia do sector das madeiras ao nível comunitário,\n\nDECIDE:"
+  },
+  "ae8280f0291457ef": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nÉ intituído, junto da Comissão, um Comité Consultivo da Política Comunitária para o sector das Madeiras, a seguir denominado «Comité». O Comité é composto por representantes das organizações europeias de produtores, transformadores industriais e comerciantes de madeiras e produtos derivados da madeira, bem como de personalidades cuja competência em matéria de economia do sector das madeiras ao nível da Comunidade seja amplamente reconhecida."
+  },
+  "8728169c673e4ab1": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nO Comité assistirá a Comissão, quer a pedido desta, quer por sua própria iniciativa, no tratamento de todos os problemas relativos à política comunitária para o sector das madeiras e, nomeadamente, os respeitantes à procura de produtos de madeira na Comunidade e à oferta de madeira susceptível de a satisfazer."
+  },
+  "362ddd0a0fa60072": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nO Comité é composto por 27 membros:\n\n- 8 membros representam os proprietários e as actividades florestais,\n\n- 8 membros representam as indústrias de trasformação da madeira,\n\n- 4 membros representam o comércio da madeira e dos produtos derivados da madeira,\n\n- 7 membros são personalidades especialmente qualificadas."
+  },
+  "014eeb45bd408c8d": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs membros do Comité são nomeados pela Comissão após consulta dos meios profissionais interessados."
+  },
+  "df22d7936611d79c": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nA nomeação de um membro do Comité é feita por um período de três anos, renovável. No termo do período de três anos, os membros do Comité permanecem em funções até serem substituídos ou reconduzidos nas suas funções.\n\nO período de exercício de funções de um membro termina antes do termo do período de três anos, por demissão ou morte.\n\nO membro em causa é substituído pelo tempo que faltar para o termo do período de exercício de funções, em conformidade com o disposto no artigo 4o.\n\nAs funções exercidas não são remuneradas."
+  },
+  "169fc8d5a982452d": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nA lista dos membros é publicada pela Comissão, para informação, no Jornal Oficial das Comunidades Europeias."
+  },
+  "555be38af89bb5bb": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO Comité é presidido por um representante da Comissão."
+  },
+  "e316a7113b690ea0": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nO presidente pode convidar a participar nos trabalhos do Comité e dos grupos de trabalho referidos no artigo 9o, na qualidade de perito, qualquer pessoa especialmente competente num assunto inscrito na ordem do dia.\n\nOs peritos apenas participarão nas deliberações relativas à questão que tenha motivado a sua presença."
+  },
+  "3c37e8429de0b0a8": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nO Comité pode constituir grupos de trabalho."
+  },
+  "eff5f2031684fc55": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. O Comité e os grupos de trabalho reunem na sede da Comissão, por convocação do presidente do Comité.\n\n2. Os representantes dos serviços interessados da Comissão participam nas reuniões do Comité e dos grupos de trabalho.\n\n3. Os serviços da Comissão asseguram o secretariado do Comité e dos grupos de trabalho."
+  },
+  "c75bbc8ff553bdb8": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nAs deliberações do Comité não são seguidas de votações. A Comissão, ao solicitar o parecer do Comité, pode fixar o prazo no qual este parecer deve ser formulado."
+  },
+  "372d000f0f9f375f": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nSem prejuízo do disposto no artigo 214o do Tratado, os membros do Comité são obrigados a não divulgar as informações de que tiverem tido conhecimento pelos trabalhos do Comité ou dos grupos de trabalho, sempre que o presidente do Comité os informar de que o parecer solicitado ou a pregunta formulada se refere a uma matéria de natureza confidencial.\n\nNeste caso, apenas assistirão às sessões os membros do Comité e os representantes dos serviços da Comissão."
+  },
+  "75e560cc0bead817": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nA presente decisão entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nFeito em Bruxelas em 11 de Maio de 1983.\n\nPela Comissão\n\nÉtienne DAVIGNON\n\nVice-Presidente"
+  },
+  "f95d793791df0f10": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1983D0247 — PT — 09.12.1997 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983D0247:PT:NOT) [DECISÃO DA COMISSÃO de 11 de Maio de 1983 que institui um Comité Consultivo da Política Comunitária para o Sector das Madeiras (83/247/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983D0247:PT:NOT) (JO L 137, 26.5.1983, p.31)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997D0837:PT:NOT) | [Decisão da Comissão de 9 de Dezembro de 1997](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997D0837:PT:NOT) | L 346 | 95 | 17.12.1997 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983D0247:PT:NOT)\n\nDECISÃO DA COMISSÃO\n\nde 11 de Maio de 1983\n\nque institui um Comité Consultivo da Política Comunitária para o Sector das Madeiras\n\n(83/247/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nConsiderando que a melhoria constante das condições de vida e de emprego, bem como o desenvolvimento harmonioso das economias dos Estados-membros, constituem objectivos da Comunidade Económica Europeia;\n\nConsiderando que as actividades económicas com base na produção e na transformação industrial da madeira oferecem possibilidades de contribuir para a realização destes objectivos, devido às potencialidades de desenvolvimento destas actividades, e tendo em conta as suas dificuldades actuais;\n\nConsiderando que se torna necessário estudar e resolver estas dificuldades não separadamente, mas na sua interdependência;\n\nConsiderando que, para o efeito, e com base nos trabalhos já realizados pelos serviços da Comissão e, nomeadamente, na comunicação ao Conselho relativa ao programa de acções comunitárias para o sector das madeiras, é possível contribuir para a realização destes objectivos mediante um contacto estreito e contínuo com os sectores económicos interessados;\n\nConsiderando que o meio mais adequado de organizar estes contactos é instituir, junto da Comissão, um «Comité Consultivo da Política Comunitária para o Sector das Madeiras», no qual estarão representados aqueles sectores; que, por outro lado, é conveniente prever a presença neste Comité de personalidades qualificadas, que possam contribuir com a sua experiência técnica e os seus conhecimentos de economia do sector das madeiras ao nível comunitário,\n\nDECIDE:\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997D0837:PT:NOT)"
+  },
+  "10eb24bb20c1aa0c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ instituído, junto da Comissão, um Comité Consultivo da Política Comunitária para o Sector das Madeiras, a seguir denominado «comité». O comité é composto por representantes das organizações europeias do sector das madeiras."
+  },
+  "65dfde84dc4271d7": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO comité tem como função aconselhar a Comissão, quer a pedido desta quer por sua própria iniciativa, sobre questões relativas aos aspectos industriais da política comunitária relevante para o sector das madeiras, bem como sobre assuntos relativos ao mercado e outros aspectos económicos relativos aos produtos de madeira na Comunidade ou à sua procura."
+  },
+  "e2f9cdc5cec8f7e1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO comité é composto por 23 membros:\n\n— cinco membros representam o sector florestal,\n\n— seis membros representam a indústria mecânica da madeira,\n\n— seis membros representam a indústria de fabrico e transformação de polpa, papel e cartão,\n\n— seis membros representam a indústria de impressão e de edição.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983D0247:PT:NOT)"
+  },
+  "53e53ba439ecd67f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs membros do Comité são nomeados pela Comissão após consulta dos meios profissionais interessados.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997D0837:PT:NOT)"
+  },
+  "c7bcd245de3530ab": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA nomeação de um membro do comité é feita por um período de dois anos, sendo a renovação sujeita a aprovação da Comissão. No termo do período de dois anos, os membros do comité permanecem em funções até serem substituídos ou reconduzidos nas suas funções.\n\nO período de exercício de funções de um membro termina antes do termo do período de dois anos em caso de demissão ou morte.\n\nO membro em causa é substituído pelo tempo que faltar para o termo do período de exercício de funções, em conformidade com o disposto no artigo 4.o\n\nAs funções exercidas não são remuneradas."
+  },
+  "ecf8925eab31b7d6": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA lista dos membros é publicada pela Comissão, para informação, no Jornal Oficial das Comunidades Europeias.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983D0247:PT:NOT)"
+  },
+  "2b0ccb427d304ae6": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO Comité é presidido por um representante da Comissão."
+  },
+  "cecfa201e2e4f393": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presidente pode convidar a participar nos trabalhos do Comité e dos grupos de trabalho referidos no artigo 9.o, na qualidade de perito, qualquer pessoa especialmente competente num assunto inscrito na ordem do dia.\n\nOs peritos apenas participarão nas deliberações relativas à questão que tenha motivado a sua presença."
+  },
+  "e1b77d2183f0bf8b": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO Comité pode constituir grupos de trabalho.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997D0837:PT:NOT)"
+  },
+  "98676d156e1f11b1": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. O comité e os grupos de trabalho são convocados pelo presidente do comité. O comité reúne na sede da Comissão.\n\n2. Os representantes dos serviços interessados da Comissão participam nas reuniões do comité e dos grupos de trabalho.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31983D0247:PT:NOT)"
+  },
+  "726a226de1494278": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs deliberações do Comité não são seguidas de votações. A Comissão, ao solicitar o parecer do Comité, pode fixar o prazo no qual este parecer deve ser formulado."
+  },
+  "50d21edc3cc14b7e": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSem prejuízo do disposto no artigo 214.o do Tratado, os membros do Comité são obrigados a não divulgar as informações de que tiverem tido conhecimento pelos trabalhos do Comité ou dos grupos de trabalho, sempre que o presidente do Comité os informar de que o parecer solicitado ou a pergunta formulada se refere a uma matéria de natureza confidencial.\n\nNeste caso, apenas assistirão às sessões os membros do Comité e os representantes dos serviços da Comissão."
+  },
+  "d4fba02dab882e3b": {
+   "fragment_id": "Artigo 13",
+   "type": "artigo",
+   "heading": "Artigo 13",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13\n\nA presente decisão entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  }
+ }
+}

@@ -1,0 +1,570 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0911:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0911-20210421",
+ "dre_path": null,
+ "source_lastmod": "2021-04-21",
+ "versions": [
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "32004R0911",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2853ff83de9149bc",
+    "c9d13aa8127ddfd4",
+    "09a7ba1d59000f62",
+    "0ca328d802e3fe81",
+    "511b7d1e4fdfb279",
+    "ee55d60b1ed130d1",
+    "46feea506bcb8abb",
+    "d52d693ac998bd12",
+    "704ab7055bd2e11a",
+    "7bf7c219357da95d",
+    "911dd7fa16cd586c",
+    "e8e0bd79cda72b85",
+    "89dbc53f22447b37",
+    "04608306c997f9ca",
+    "edfd8dcd55a4c77f"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02004R0911-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1792:por",
+     "title": "REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006",
+     "published": null,
+     "celex": "32006R1792"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 12.º",
+    "Altera ANEXO I",
+    "Adita CAPÍTULO I",
+    "Adita MARCAS AURICULARES",
+    "Adita Artigo 1.º",
+    "Adita CAPÍTULO II",
+    "Adita PASSAPORTES E REGISTOS DAS EXPLORAÇÕES",
+    "Adita Artigo 6.º",
+    "Adita CAPÍTULO III",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita Artigo 11.º",
+    "Adita ANEXO II",
+    "Adita Notas",
+    "Suprime CAPÍTULO I MARCAS AURICULARES — Artigo 1.o",
+    "Suprime CAPÍTULO II PASSAPORTES E REGISTOS DAS EXPLORAÇÕES — Artigo 6.o",
+    "Suprime CAPÍTULO III DISPOSIÇÕES FINAIS — Artigo 11.o",
+    "Suprime ANEXO II — QUADRO DE CORRESPONDÊNCIA"
+   ],
+   "fragments": [
+    "c77e9e6c5530ae37",
+    "226c39ffd0a88dad",
+    "d49a1670985b9e77",
+    "c3e1c478af9f109f",
+    "4c90d04bb04a2555",
+    "494d292197b78b89",
+    "899b80a30a228aef",
+    "f58b85ed42370ea5",
+    "f0f8c960bfdbce9b",
+    "3186f1bac406abaa",
+    "ac7f4a46440d90fe",
+    "2f66a65e0015e2de",
+    "48e35ac969c8810e",
+    "2eb632c1f018b372",
+    "911dd7fa16cd586c",
+    "1e7a0903d2eed348",
+    "dde9cf53e9ae6c9a",
+    "ff38edd62c0fb580",
+    "1db2165350800a4a",
+    "fbedee9a1bb72c65",
+    "507a4c45f80463af",
+    "f6fbf39276aa720a"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02004R0911-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0519:por",
+     "title": "REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013",
+     "published": null,
+     "celex": "32013R0519"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera ANEXO I",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "7be070ea67cf50b7",
+    "226c39ffd0a88dad",
+    "d49a1670985b9e77",
+    "c3e1c478af9f109f",
+    "4c90d04bb04a2555",
+    "494d292197b78b89",
+    "899b80a30a228aef",
+    "f58b85ed42370ea5",
+    "f0f8c960bfdbce9b",
+    "3186f1bac406abaa",
+    "6b5aa6962c1b7416",
+    "2f66a65e0015e2de",
+    "48e35ac969c8810e",
+    "2eb632c1f018b372",
+    "911dd7fa16cd586c",
+    "1e7a0903d2eed348",
+    "dde9cf53e9ae6c9a",
+    "ff38edd62c0fb580",
+    "1db2165350800a4a",
+    "d15e0f52a8cf8fc8",
+    "507a4c45f80463af",
+    "268eb4e1887e6aa8"
+   ]
+  },
+  {
+   "date": "2017-06-23",
+   "future": false,
+   "celex": "02004R0911-20170623",
+   "acts": [
+    {
+     "id": "eu:celex:32017R0949:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2017/949 DA COMISSÃO de 2 de junho de 2017",
+     "published": null,
+     "celex": "32017R0949"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º",
+    "Altera Notas",
+    "Suprime ANEXO I"
+   ],
+   "fragments": [
+    "3a5c4c0af7e2ed40",
+    "226c39ffd0a88dad",
+    "d49a1670985b9e77",
+    "10f3a48b0d99017d",
+    "4c90d04bb04a2555",
+    "494d292197b78b89",
+    "899b80a30a228aef",
+    "f58b85ed42370ea5",
+    "f0f8c960bfdbce9b",
+    "3186f1bac406abaa",
+    "87c1c757f9c7bed8",
+    "2f66a65e0015e2de",
+    "48e35ac969c8810e",
+    "2eb632c1f018b372",
+    "911dd7fa16cd586c",
+    "1e7a0903d2eed348",
+    "dde9cf53e9ae6c9a",
+    "ff38edd62c0fb580",
+    "1db2165350800a4a",
+    "507a4c45f80463af",
+    "bbbad7c582b4db2f"
+   ]
+  },
+  {
+   "date": "2021-04-21",
+   "future": false,
+   "celex": "02004R0911-20210421",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime MARCAS AURICULARES",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime CAPÍTULO II",
+    "Suprime PASSAPORTES E REGISTOS DAS EXPLORAÇÕES",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime CAPÍTULO III",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime ANEXO II",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "af3ce8678bd7ed1b"
+   ]
+  }
+ ],
+ "fragments": {
+  "2853ff83de9149bc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 911/2004 da Comissão, de 29 de Abril de 2004, que aplica o Regulamento (CE) n.° 1760/2000 do Parlamento Europeu e do Conselho, no que diz respeito às marcas auriculares, aos passaportes e aos registos das explorações (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 163 de 30/04/2004 p. 0065 - 0070*\n\nRegulamento (CE) n.o 911/2004 da Comissão\n\nde 29 de Abril de 2004\n\nque aplica o Regulamento (CE) n.o 1760/2000 do Parlamento Europeu e do Conselho, no que diz respeito às marcas auriculares, aos passaportes e aos registos das explorações\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 1760/2000 do Parlamento Europeu e do Conselho, de 17 de Julho de 2000, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino, e que revoga o Regulamento (CE) n.o 820/97 do Conselho(1), e, nomeadamente, o n.o 1 do seu artigo 7.o e as alíneas a), b) e c) do seu artigo 10.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 2629/97 da Comissão, de 29 de Dezembro de 1997, que estabelece disposições de aplicação do Regulamento (CE) n.o 820/97 do Conselho no que respeita a marcas auriculares, registos das explorações e passaportes no âmbito do regime de identificação e registo dos bovinos(2) foi alterado substancialmente várias vezes. Por motivos de clareza e coerência da legislação comunitária, as referidas disposições devem estar contidas num único acto. Consequentemente, o Regulamento (CE) n.o 2629/97 deve ser revogado e substituído pelo presente regulamento.\n\n(2) As marcas auriculares devem conter informações sobre o Estado-Membro de origem e sobre o próprio animal. A forma de codificação mais adequada para essas informações é o código do país, com duas letras, seguido por um máximo de 12 algarismos. Os códigos de barras poderiam ser autorizados adicionalmente ao código do país e a um máximo de 12 algarismos.\n\n(3) Convém ter em conta as dificuldades apontadas pela autoridades competentes de certos Estados-Membros no que se refere ao código para a identificação dos bovinos e permitir que essas autoridades utilizem marcas auriculares contendo um código alfanumérico até ao final do período de transição. Além disso, convém ter em conta as dificuldades apontadas pela autoridade competente de Itália e permitir que esta utilize um máximo de três caracteres suplementares, desde que os mesmos não façam parte do código numérico.\n\n(4) De modo a evitar dificuldades no comércio intracomunitário de bovinos e para clarificar as normas actuais, é necessário autorizar os detentores a adquirir antecipadamente, se assim o desejarem e em conformidade com as disposições nacionais, uma quantidade de marcas auriculares proporcional às suas necessidades para um período não superior a um ano.\n\n(5) Convém prever as informações contidas nas marcas auriculares de substituição, caso se percam marcas auriculares.\n\n(6) É adequado definir certas normas mínimas uniformes para a concepção e o modelo das marcas auriculares.\n\n(7) As disposições relativas às informações contidas nas marcas auriculares devem ser revistas tendo em conta a criação da base de dados informatizada prevista no Regulamento (CE) n.o 1760/2000.\n\n(8) As informações contidas no passaporte e no registo devem ser apresentadas de uma forma que permita seguir o percurso do animal.\n\n(9) As informações devem ser coerentes com aquelas a incluir na base de dados informatizada prevista na Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína(3).\n\n(10) O período entre três e sete dias a determinar pelos Estados-Membros para que os detentores notifiquem os movimentos, nascimentos e mortes dos animais deve estar associado à data do acontecimento. No entanto, convém ter em conta as dificuldades apontadas pelos Estados-Membros relativamente à notificação de nascimentos dentro do prazo previsto e, consequentemente, permitir que os Estados-Membros determinem o período pertinente a contar da data de aposição da marca auricular no animal.\n\n(11) Convém ter em conta as dificuldades apontadas pelos Estados-Membros relativamente às informações incluídas nos passaportes que acompanham os bovinos nascidos antes de 1 de Janeiro de 1998. As dificuldades assinaladas durante a preparação da Adesão da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia, relativamente aos passaportes que acompanham os animais nascidos antes de 1 de Janeiro de 2004, devem também ser tidas em consideração.\n\n(12) Convém tornar facultativa a menção de certos elementos informativos nos passaportes que acompanham os bovinos nascidos antes de 1 de Janeiro de 1998 e os bovinos nascidos antes de 1 de Janeiro de 2004 na República Checa, na Estónia, em Chipre, na Letónia, na Lituânia, na Hungria, em Malta, na Polónia, na Eslovénia ou na Eslováquia. Esta derrogação não deve por em causa a obrigação de mencionar esses elementos informativos nos passaportes de bovinos nascidos no território de um Estado-Membro onde esse requisito esteja previsto nas respectivas normas nacionais.\n\n(13) Dadas as medidas de controlo relacionadas com os regimes de ajudas comunitários, é necessário incluir no passaporte certas informações relativas aos prémios, como previsto no Regulamento (CE) n.o 1254/1999 do Conselho de 17 de Maio de 1999 que estabelece a organização comum de mercado no sector da carne de bovino(4).\n\n(14) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Fundo Europeu de Orientação e de Garantia Agrícola,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c9d13aa8127ddfd4": {
+   "fragment_id": "CAPÍTULO I MARCAS AURICULARES — Artigo 1.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO I MARCAS AURICULARES — Artigo 1.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I MARCAS AURICULARES — Artigo 1.o\n\n1. As marcas auriculares deverão conter o nome, o código ou o logótipo da autoridade competente que atribuiu as marcas auriculares e os caracteres previstos no n.o 2.\n\n2. Os caracteres que constituem o código de identificação nas marcas auriculares serão os seguintes:\n\na) Duas posições iniciais que identifiquem o Estado-Membro em que se situa a exploração na qual o animal é identificado pela primeira vez; para esse efeito, será utilizado o código do país, com duas letras, constante do anexo I;\n\nb) Caracteres numéricos, a seguir ao código do país e num máximo de doze algarismos; no entanto, a Espanha, a Irlanda, a Itália, Portugal e o Reino Unido podem manter o seu sistema de código alfanumérico para os 12 algarismos a seguir ao código do país, relativamente aos animais nascidos até 31 de Dezembro de 1999, para a Espanha, a Irlanda, a Itália e Portugal, e relativamente aos animais nascidos até 30 de Junho de 2000, para o Reino Unido.\n\n3. Além das informações previstas no n.o 1, um código de barras pode ser autorizado pela autoridade competente.\n\n4. Em derrogação à limitação do número de caracteres estabelecido na alínea b) do n.o 2, a autoridade competente da Itália pode utilizar um máximo de três caracteres suplementares depois da sequência de caracteres prevista nesse número. No entanto, esses caracteres não farão parte do código de identificação mencionado no n.o 2.\n\n5. Os detentores serão autorizados a adquirir antecipadamente, se assim o desejarem e em conformidade com as disposições nacionais aplicáveis, uma quantidade de marcas auriculares proporcional às suas necessidades para um período não superior a um ano. No caso de explorações que não tenham mais de cinco animais, a autoridade competente pode não fornecer antecipadamente mais do que cinco pares de marcas auriculares.\n\n6. Caso se perca uma marca auricular, as marcas auriculares de substituição podem conter, além da informação prevista, uma marca diferente que expresse, em numeração romana, o número da versão da marca auricular de substituição. Nesse caso, o código de identificação previsto no n.o 2 permanecerá inalterado. As marcas auriculares de substituição utilizadas por um Estado-Membro para os animais nascidos noutro Estado-Membro ostentarão, pelo menos, o mesmo código de identificação, além do código ou do logótipo da autoridade competente que o emite."
+  },
+  "09a7ba1d59000f62": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs marcas auriculares cumprirão os seguintes requisitos:\n\na) Serão de matéria plástica flexível;\n\nb) Serão infalsificáveis e de fácil leitura durante toda a vida do animal;\n\nc) Não poderão ser reutilizadas;\n\nd) Serão concebidas de forma a manterem-se presas ao animal sem lhe provocar sofrimento;\n\ne) Ostentarão apenas inscrições indeléveis, em conformidade com o previsto no artigo 1.o."
+  },
+  "0ca328d802e3fe81": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA primeira marca auricular respeitará o seguinte modelo:\n\na) Será constituída por duas partes: uma macho e outra fêmea;\n\nb) Cada uma dessas partes conterá apenas as informações previstas no artigo 1.o;\n\nc) Cada parte terá, pelo menos, 45 milímetros de comprimento;\n\nd) Cada parte terá, pelo menos, 55 milímetros de largura;\n\ne) Os caracteres terão, pelo menos, 5 milímetros de altura."
+  },
+  "511b7d1e4fdfb279": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros podem escolher outros materiais ou modelos para a segunda marca auricular e podem decidir aditar outras informações, desde que os requisitos de informação previstos no n.o 1 e no n.o 2 do artigo 1.o sejam observados."
+  },
+  "ee55d60b1ed130d1": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros comunicarão entre si e à Comissão os modelos para a primeira e a segunda marcas auriculares, como disposto nos artigos 3.o e 4.o."
+  },
+  "46feea506bcb8abb": {
+   "fragment_id": "CAPÍTULO II PASSAPORTES E REGISTOS DAS EXPLORAÇÕES — Artigo 6.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO II PASSAPORTES E REGISTOS DAS EXPLORAÇÕES — Artigo 6.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II PASSAPORTES E REGISTOS DAS EXPLORAÇÕES — Artigo 6.o\n\n1. O passaporte conterá, no mínimo:\n\na) As informações a que se refere o n.o 3, primeiro ao sétimo travessão do ponto C.1, do artigo 14.o da Directiva 64/432/CEE;\n\nb) As informações a que se refere:\n\ni) o n.o 3, segundo travessão do ponto C.2, do artigo 14.o da Directiva 64/432/CEE, ou\n\nii) o n.o 3, primeiro travessão do ponto C.2, do artigo 14.o, se a base de dados prevista no artigo 5.o do Regulamento (CE) n.o 1760/2000 estiver plenamente operacional;\n\nc) A assinatura do(s) detentor(es), com excepção do transportador; quando a base de dados prevista no n.o 3, primeiro travessão, do artigo 6.o do Regulamento (CE) n.o 1760/2000 estiver plenamente operacional, apenas será necessária a assinatura do último detentor;\n\nd) O nome da autoridade emissora;\n\ne) A data de emissão do passaporte.\n\n2. Sem prejuízo do capítulo I.A.1 do anexo da Directiva 91/628/CEE do Conselho relativa à protecção dos animais durante o transporte(5), os vitelos com menos de quatro semanas de idade podem ser transportados desde que o respectivo umbigo esteja cicatrizado. Nesse caso, os Estados-Membros podem prever que sejam acompanhados por um passaporte temporário contendo, pelo menos, a informação indicada no n.o 1, num formato aprovado pelo autoridade competente.\n\nO passaporte temporário será estabelecido pelo primeiro detentor do vitelo e completado por cada um dos detentores seguintes, com excepção dos transportadores. O detentor apresentará o passaporte temporário à autoridade competente antes de o animal atingir a idade de quatro semanas ou, o mais tardar, no prazo de sete dias após o acontecimento se o animal morrer ou for abatido antes dessa idade. Se o vitelo ultrapassar essa idade, a autoridade competente emitirá um passaporte final, em conformidade com o n.o 1, no prazo de 14 dias após a recepção do passaporte temporário. Os passaportes finais registarão os pormenores de todas as deslocações anteriores do vitelo inscritas no passaporte temporário.\n\nO vitelo não pode descolar-se mais de duas vezes de uma exploração para outra acompanhado pelo passaporte temporário. Para efeitos do presente número, uma deslocação de uma exploração para outra com passagem por uma feira de gado ou um centro de agrupamento de vitelos será contabilizada como uma deslocação, desde que a feira de gado ou centro de agrupamento de vitelos possa fornecer às autoridades competentes, mediante pedido nesse sentido, um registo completo das transacções efectuadas no seu âmbito.\n\n3. Em derrogação à alínea a) do n.o 1, as informações previstas no n.o 3, segundo e quinto travessões do ponto C.1, do artigo 14.o da Directiva 64/432/CEE não serão obrigatórias nos passaportes dos bovinos nascidos antes de 1 de Janeiro de 1998. A derrogação prevista no presente número será sem prejuízo da obrigação de fornecer os elementos informativos supramencionados, quando esse requisito esteja previsto nas normas nacionais. Os Estados-Membros comunicarão entre si e à Comissão as normas efectivamente aplicadas no que diz respeito às informações referidas no presente número.\n\n4. No caso da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia, a derrogação prevista no n.o 3 aplicar-se-á aos bovinos nascidos antes de 1 de Janeiro de 2004."
+  },
+  "d52d693ac998bd12": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPara além das informações a que se refere o artigo 6.o, devem ser incluídas no passaporte as seguintes informações relativas à situação dos animais machos no que respeita aos prémios, como previstas no artigo 4.o do Regulamento (CE) n.o 1254/99:\n\na) Pedido ou concessão para o primeiro intervalo de idade;\n\nb) Pedido ou concessão para o segundo intervalo de idade."
+  },
+  "704ab7055bd2e11a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO registo conservado em cada exploração incluirá, pelo menos, as seguintes informações:\n\na) As informações actualizadas previstas no n.o 3, primeiro ao quarto travessões do ponto C.1, do artigo 14.o da Directiva 64/432/CEE;\n\nb) A data da morte do animal na exploração;\n\nc) No caso dos animais que abandonem a exploração, o nome e o endereço do detentor, com excepção do transportador, ou o código de identificação da exploração para onde o animal está a ser transferido, bem como a data de partida;\n\nd) No caso dos animais que cheguem à exploração, o nome e o endereço do detentor, com excepção do transportador, ou o código de identificação da exploração de onde o animal foi transferido, bem como a data de chegada;\n\ne) O nome e a assinatura do representante da autoridade competente que controlou o registo e as datas de realização desses controlos."
+  },
+  "7bf7c219357da95d": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nNo caso da ocorrência de nascimentos, ao fixar o período entre três e sete dias para a notificação desses acontecimentos pelo detentor, como previsto do n.o 1 do artigo 7.o do Regulamento (CE) n.o 1760/2000, os Estados-Membros podem utilizar a data em que o animal é marcado, em vez da data do nascimento, como ponto de partida para o período em causa, desde que não se verifique o risco de confusão entre essas datas em nenhum dos registos."
+  },
+  "911dd7fa16cd586c": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros comunicarão entre si e à Comissão o modelo do passaporte e do registo das explorações utilizados no seu território."
+  },
+  "e8e0bd79cda72b85": {
+   "fragment_id": "CAPÍTULO III DISPOSIÇÕES FINAIS — Artigo 11.o",
+   "type": "divisao",
+   "heading": "CAPÍTULO III DISPOSIÇÕES FINAIS — Artigo 11.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III DISPOSIÇÕES FINAIS — Artigo 11.o\n\n1. É revogado o Regulamento (CE) n.o 2629/97.\n\n2. As referências ao Regulamento (CE) n.o 2629/97 são consideradas como sendo feitas ao presente regulamento e devem ser lidas de acordo com o quadro de correspondência constante do anexo II do presente regulamento."
+  },
+  "89dbc53f22447b37": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presente regulamento entra em vigor em 1 de Maio de 2004.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 29 de Abril de 2004.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 204 de 11.8.2000, p. 1. Regulamento alterado pelo Acto de Adesão de 2003.\n\n(2) JO L 354 de 30.12.1997, p. 9. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n(3) JO L 121 de 29.7.1964, p.1977/64. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 21/2004 (JO L 5 de 9.1.2004, p. 8).\n\n(4) JO L 160 de 26.6.1999, p. 21. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1782/2003 (JO L 270 de 21.10.2003, p. 1).\n\n(5) JO L 340 de 11.12.1991, p. 17. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 806/2003 do Conselho (JO L 122 de 16.5.2003, p. 1)."
+  },
+  "04608306c997f9ca": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nO código na marca auricular dos bovinos começará com as letras que identificam o Estado-Membro de origem, em conformidade com o seguinte quadro:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "edfd8dcd55a4c77f": {
+   "fragment_id": "ANEXO II — QUADRO DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "ANEXO II — QUADRO DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — QUADRO DE CORRESPONDÊNCIA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "c77e9e6c5530ae37": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque aplica o Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho, no que diz respeito às marcas auriculares, aos passaportes e aos registos das explorações\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho, de 17 de Julho de 2000, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino, e que revoga o Regulamento (CE) n.º 820/97 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/01198c43-67bd-4c89-b925-d67569e5cbaf.0017.03/DOC_1#E0001)), e, nomeadamente, o n.º 1 do seu artigo 7.º e as alíneas a), b) e c) do seu artigo 10.º,\n\n(1) O Regulamento (CE) n.º 2629/97 da Comissão, de 29 de Dezembro de 1997, que estabelece disposições de aplicação do Regulamento (CE) n.º 820/97 do Conselho no que respeita a marcas auriculares, registos das explorações e passaportes no âmbito do regime de identificação e registo dos bovinos ([^2^](http://publications.europa.eu/resource/cellar/01198c43-67bd-4c89-b925-d67569e5cbaf.0017.03/DOC_1#E0002)) foi alterado substancialmente várias vezes. Por motivos de clareza e coerência da legislação comunitária, as referidas disposições devem estar contidas num único acto. Consequentemente, o Regulamento (CE) n.º 2629/97 deve ser revogado e substituído pelo presente regulamento.\n\n(2) As marcas auriculares devem conter informações sobre o Estado-Membro de origem e sobre o próprio animal. A forma de codificação mais adequada para essas informações é o código do país, com duas letras, seguido por um máximo de 12 algarismos. Os códigos de barras poderiam ser autorizados adicionalmente ao código do país e a um máximo de 12 algarismos.\n\n(3) Convém ter em conta as dificuldades apontadas pela autoridades competentes de certos Estados-Membros no que se refere ao código para a identificação dos bovinos e permitir que essas autoridades utilizem marcas auriculares contendo um código alfanumérico até ao final do período de transição. Além disso, convém ter em conta as dificuldades apontadas pela autoridade competente de Itália e permitir que esta utilize um máximo de três caracteres suplementares, desde que os mesmos não façam parte do código numérico.\n\n(4) De modo a evitar dificuldades no comércio intracomunitário de bovinos e para clarificar as normas actuais, é necessário autorizar os detentores a adquirir antecipadamente, se assim o desejarem e em conformidade com as disposições nacionais, uma quantidade de marcas auriculares proporcional às suas necessidades para um período não superior a um ano.\n\n(5) Convém prever as informações contidas nas marcas auriculares de substituição, caso se percam marcas auriculares.\n\n(6) É adequado definir certas normas mínimas uniformes para a concepção e o modelo das marcas auriculares.\n\n(7) As disposições relativas às informações contidas nas marcas auriculares devem ser revistas tendo em conta a criação da base de dados informatizada prevista no Regulamento (CE) n.º 1760/2000.\n\n(8) As informações contidas no passaporte e no registo devem ser apresentadas de uma forma que permita seguir o percurso do animal.\n\n(9) As informações devem ser coerentes com aquelas a incluir na base de dados informatizada prevista na Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína ([^3^](http://publications.europa.eu/resource/cellar/01198c43-67bd-4c89-b925-d67569e5cbaf.0017.03/DOC_1#E0003)).\n\n(10) O período entre três e sete dias a determinar pelos Estados-Membros para que os detentores notifiquem os movimentos, nascimentos e mortes dos animais deve estar associado à data do acontecimento. No entanto, convém ter em conta as dificuldades apontadas pelos Estados-Membros relativamente à notificação de nascimentos dentro do prazo previsto e, consequentemente, permitir que os Estados-Membros determinem o período pertinente a contar da data de aposição da marca auricular no animal.\n\n(11) Convém ter em conta as dificuldades apontadas pelos Estados-Membros relativamente às informações incluídas nos passaportes que acompanham os bovinos nascidos antes de 1 de Janeiro de 1998. As dificuldades assinaladas durante a preparação da Adesão da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia, relativamente aos passaportes que acompanham os animais nascidos antes de 1 de Janeiro de 2004, devem também ser tidas em consideração.\n\n(12) Convém tornar facultativa a menção de certos elementos informativos nos passaportes que acompanham os bovinos nascidos antes de 1 de Janeiro de 1998 e os bovinos nascidos antes de 1 de Janeiro de 2004 na República Checa, na Estónia, em Chipre, na Letónia, na Lituânia, na Hungria, em Malta, na Polónia, na Eslovénia ou na Eslováquia. Esta derrogação não deve por em causa a obrigação de mencionar esses elementos informativos nos passaportes de bovinos nascidos no território de um Estado-Membro onde esse requisito esteja previsto nas respectivas normas nacionais.\n\n(13) Dadas as medidas de controlo relacionadas com os regimes de ajudas comunitários, é necessário incluir no passaporte certas informações relativas aos prémios, como previsto no Regulamento (CE) n.º 1254/1999 do Conselho de 17 de Maio de 1999 que estabelece a organização comum de mercado no sector da carne de bovino ([^4^](http://publications.europa.eu/resource/cellar/01198c43-67bd-4c89-b925-d67569e5cbaf.0017.03/DOC_1#E0004)).\n\n(14) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Fundo Europeu de Orientação e de Garantia Agrícola,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "d49a1670985b9e77": {
+   "fragment_id": "MARCAS AURICULARES",
+   "type": "divisao",
+   "heading": "MARCAS AURICULARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MARCAS AURICULARES"
+  },
+  "c3e1c478af9f109f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As marcas auriculares deverão conter o nome, o código ou o logótipo da autoridade competente que atribuiu as marcas auriculares e os caracteres previstos no n.º 2.\n\n2. Os caracteres que constituem o código de identificação nas marcas auriculares serão os seguintes:\n\na) Duas posições iniciais que identifiquem o Estado-Membro em que se situa a exploração na qual o animal é identificado pela primeira vez; para esse efeito, será utilizado o código do país, com duas letras, constante do anexo I;\n\nb) Caracteres numéricos, a seguir ao código do país e num máximo de doze algarismos; no entanto, a Espanha, a Irlanda, a Itália, Portugal e o Reino Unido podem manter o seu sistema de código alfanumérico para os 12 algarismos a seguir ao código do país, relativamente aos animais nascidos até 31 de Dezembro de 1999, para a Espanha, a Irlanda, a Itália e Portugal, e relativamente aos animais nascidos até 30 de Junho de 2000, para o Reino Unido.\n\n3. Além das informações previstas no n.º 1, um código de barras pode ser autorizado pela autoridade competente.\n\n4. Em derrogação à limitação do número de caracteres estabelecido na alínea b) do n.º 2, a autoridade competente da Itália pode utilizar um máximo de três caracteres suplementares depois da sequência de caracteres prevista nesse número. No entanto, esses caracteres não farão parte do código de identificação mencionado no n.º 2.\n\n5. Os detentores serão autorizados a adquirir antecipadamente, se assim o desejarem e em conformidade com as disposições nacionais aplicáveis, uma quantidade de marcas auriculares proporcional às suas necessidades para um período não superior a um ano. No caso de explorações que não tenham mais de cinco animais, a autoridade competente pode não fornecer antecipadamente mais do que cinco pares de marcas auriculares.\n\n6. Caso se perca uma marca auricular, as marcas auriculares de substituição podem conter, além da informação prevista, uma marca diferente que expresse, em numeração romana, o número da versão da marca auricular de substituição. Nesse caso, o código de identificação previsto no n.º 2 permanecerá inalterado. As marcas auriculares de substituição utilizadas por um Estado-Membro para os animais nascidos noutro Estado-Membro ostentarão, pelo menos, o mesmo código de identificação, além do código ou do logótipo da autoridade competente que o emite."
+  },
+  "4c90d04bb04a2555": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs marcas auriculares cumprirão os seguintes requisitos:\n\na) Serão de matéria plástica flexível;\n\nb) Serão infalsificáveis e de fácil leitura durante toda a vida do animal;\n\nc) Não poderão ser reutilizadas;\n\nd) Serão concebidas de forma a manterem-se presas ao animal sem lhe provocar sofrimento;\n\ne) Ostentarão apenas inscrições indeléveis, em conformidade com o previsto no artigo 1.º."
+  },
+  "494d292197b78b89": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA primeira marca auricular respeitará o seguinte modelo:\n\na) Será constituída por duas partes: uma macho e outra fêmea;\n\nb) Cada uma dessas partes conterá apenas as informações previstas no artigo 1.º;\n\nc) Cada parte terá, pelo menos, 45 milímetros de comprimento;\n\nd) Cada parte terá, pelo menos, 55 milímetros de largura;\n\ne) Os caracteres terão, pelo menos, 5 milímetros de altura."
+  },
+  "899b80a30a228aef": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros podem escolher outros materiais ou modelos para a segunda marca auricular e podem decidir aditar outras informações, desde que os requisitos de informação previstos no n.º 1 e no n.º 2 do artigo 1.º sejam observados."
+  },
+  "f58b85ed42370ea5": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros comunicarão entre si e à Comissão os modelos para a primeira e a segunda marcas auriculares, como disposto nos artigos 3.º e 4.º."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "3186f1bac406abaa": {
+   "fragment_id": "PASSAPORTES E REGISTOS DAS EXPLORAÇÕES",
+   "type": "divisao",
+   "heading": "PASSAPORTES E REGISTOS DAS EXPLORAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PASSAPORTES E REGISTOS DAS EXPLORAÇÕES"
+  },
+  "ac7f4a46440d90fe": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O passaporte conterá, no mínimo:\n\na) As informações a que se refere o n.º 3, primeiro ao sétimo travessão do ponto C.1, do artigo 14.º da Directiva 64/432/CEE;\n\nb) As informações a que se refere:\n\ni) o n.º 3, segundo travessão do ponto C.2, do artigo 14.º da Directiva 64/432/CEE, ou\n\nii) o n.º 3, primeiro travessão do ponto C.2, do artigo 14.º, se a base de dados prevista no artigo 5.º do Regulamento (CE) n.º 1760/2000 estiver plenamente operacional;\n\nc) A assinatura do(s) detentor(es), com excepção do transportador; quando a base de dados prevista no n.º 3, primeiro travessão, do artigo 6.º do Regulamento (CE) n.º 1760/2000 estiver plenamente operacional, apenas será necessária a assinatura do último detentor;\n\nd) O nome da autoridade emissora;\n\ne) A data de emissão do passaporte.\n\n2. Sem prejuízo do capítulo I.A.1 do anexo da Directiva 91/628/CEE do Conselho relativa à protecção dos animais durante o transporte ([^5^](http://publications.europa.eu/resource/cellar/01198c43-67bd-4c89-b925-d67569e5cbaf.0017.03/DOC_1#E0005)), os vitelos com menos de quatro semanas de idade podem ser transportados desde que o respectivo umbigo esteja cicatrizado. Nesse caso, os Estados-Membros podem prever que sejam acompanhados por um passaporte temporário contendo, pelo menos, a informação indicada no n.º 1, num formato aprovado pelo autoridade competente.\n\nO passaporte temporário será estabelecido pelo primeiro detentor do vitelo e completado por cada um dos detentores seguintes, com excepção dos transportadores. O detentor apresentará o passaporte temporário à autoridade competente antes de o animal atingir a idade de quatro semanas ou, o mais tardar, no prazo de sete dias após o acontecimento se o animal morrer ou for abatido antes dessa idade. Se o vitelo ultrapassar essa idade, a autoridade competente emitirá um passaporte final, em conformidade com o n.º 1, no prazo de 14 dias após a recepção do passaporte temporário. Os passaportes finais registarão os pormenores de todas as deslocações anteriores do vitelo inscritas no passaporte temporário.\n\nO vitelo não pode descolar-se mais de duas vezes de uma exploração para outra acompanhado pelo passaporte temporário. Para efeitos do presente número, uma deslocação de uma exploração para outra com passagem por uma feira de gado ou um centro de agrupamento de vitelos será contabilizada como uma deslocação, desde que a feira de gado ou centro de agrupamento de vitelos possa fornecer às autoridades competentes, mediante pedido nesse sentido, um registo completo das transacções efectuadas no seu âmbito.\n\n3. Em derrogação à alínea a) do n.º 1, as informações previstas no n.º 3, segundo e quinto travessões do ponto C.1, do artigo 14.º da Directiva 64/432/CEE não serão obrigatórias nos passaportes dos bovinos nascidos antes de 1 de Janeiro de 1998. A derrogação prevista no presente número será sem prejuízo da obrigação de fornecer os elementos informativos supramencionados, quando esse requisito esteja previsto nas normas nacionais. Os Estados-Membros comunicarão entre si e à Comissão as normas efectivamente aplicadas no que diz respeito às informações referidas no presente número.\n\n4. No caso da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia, a derrogação prevista no n.º 3 aplicar-se-á aos bovinos nascidos antes de 1 de Janeiro de 2004.\n\n5. No caso da Bulgária e da Roménia, a derrogação prevista no n.º 3 aplicar-se-á aos bovinos nascidos mais de seis meses antes da data da respectiva de adesão."
+  },
+  "2f66a65e0015e2de": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPara além das informações a que se refere o artigo 6.º, devem ser incluídas no passaporte as seguintes informações relativas à situação dos animais machos no que respeita aos prémios, como previstas no artigo 4.º do Regulamento (CE) n.º 1254/99:\n\na) Pedido ou concessão para o primeiro intervalo de idade;\n\nb) Pedido ou concessão para o segundo intervalo de idade."
+  },
+  "48e35ac969c8810e": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO registo conservado em cada exploração incluirá, pelo menos, as seguintes informações:\n\na) As informações actualizadas previstas no n.º 3, primeiro ao quarto travessões do ponto C.1, do artigo 14.º da Directiva 64/432/CEE;\n\nb) A data da morte do animal na exploração;\n\nc) No caso dos animais que abandonem a exploração, o nome e o endereço do detentor, com excepção do transportador, ou o código de identificação da exploração para onde o animal está a ser transferido, bem como a data de partida;\n\nd) No caso dos animais que cheguem à exploração, o nome e o endereço do detentor, com excepção do transportador, ou o código de identificação da exploração de onde o animal foi transferido, bem como a data de chegada;\n\ne) O nome e a assinatura do representante da autoridade competente que controlou o registo e as datas de realização desses controlos."
+  },
+  "2eb632c1f018b372": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nNo caso da ocorrência de nascimentos, ao fixar o período entre três e sete dias para a notificação desses acontecimentos pelo detentor, como previsto do n.º 1 do artigo 7.º do Regulamento (CE) n.º 1760/2000, os Estados-Membros podem utilizar a data em que o animal é marcado, em vez da data do nascimento, como ponto de partida para o período em causa, desde que não se verifique o risco de confusão entre essas datas em nenhum dos registos."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "ff38edd62c0fb580": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. É revogado o Regulamento (CE) n.º 2629/97.\n\n2. As referências ao Regulamento (CE) n.º 2629/97 são consideradas como sendo feitas ao presente regulamento e devem ser lidas de acordo com o quadro de correspondência constante do anexo II do presente regulamento."
+  },
+  "1db2165350800a4a": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presente regulamento entra em vigor em 1 de Maio de 2004.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "fbedee9a1bb72c65": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nO código na marca auricular dos bovinos começará com as letras que identificam o Estado-Membro de origem, em conformidade com o seguinte quadro:\n\n| Estado-Membro de origem | Código ISO |\n| --- | --- |\n| Áustria | AT |\n| Bélgica | BE |\n| [▼M1](http://publications.europa.eu/resource/celex/32006R1792) |  |\n| Bulgária | BG |\n| [▼B](http://publications.europa.eu/resource/celex/32004R0911) |  |\n| República Checa | CZ |\n| Chipre | CY |\n| Dinamarca | DK |\n| Estónia | EE |\n| Finlândia | FI |\n| França | FR |\n| Alemanha | DE |\n| Grécia | EL |\n| Hungria | HU |\n| Irlanda | IE |\n| Itália | IT |\n| Letónia | LV |\n| Lituânia | LT |\n| Luxemburgo | LU |\n| Malta | MT |\n| Países Baixos | NL |\n| Polónia | PL |\n| Portugal | PT |\n| [▼M1](http://publications.europa.eu/resource/celex/32006R1792) |  |\n| Roménia | RO |\n| [▼B](http://publications.europa.eu/resource/celex/32004R0911) |  |\n| Eslovénia | SI |\n| Eslováquia | SK |\n| Espanha | ES |\n| Suécia | SE |\n| Reino Unido | UK |"
+  },
+  "507a4c45f80463af": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nRegulamento (CE) n.º 2629/97 Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º Artigo 3.º\n\nArtigo 4.º Artigo 4.º\n\nArtigo 5.º Artigo 5.º\n\nArtigo 6.º, n.º 1, n.º 2 e n.º 4 Artigo 6.º\n\nArtigo 6.º, n.º 3 Artigo 9.º\n\nArtigo 7.º Artigo 7.º\n\nArtigo 8.º Artigo 8.º\n\nArtigo 9.º Artigo 10.º\n\n- Artigo 11.º\n\nArtigo 10.º Artigo 12.º\n\nAnexo Anexo I\n\n— Anexo II\n\n---"
+  },
+  "f6fbf39276aa720a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/01198c43-67bd-4c89-b925-d67569e5cbaf.0017.03/DOC_1#src.E0001)) JO L 204 de 11.8.2000, p. 1. Regulamento alterado pelo Acto de Adesão de 2003.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/01198c43-67bd-4c89-b925-d67569e5cbaf.0017.03/DOC_1#src.E0002)) JO L 354 de 30.12.1997, p. 9. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/01198c43-67bd-4c89-b925-d67569e5cbaf.0017.03/DOC_1#src.E0003)) JO L 121 de 29.7.1964, p.1977/64. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 21/2004 (JO L 5 de 9.1.2004, p. 8).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/01198c43-67bd-4c89-b925-d67569e5cbaf.0017.03/DOC_1#src.E0004)) JO L 160 de 26.6.1999, p. 21. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1782/2003 (JO L 270 de 21.10.2003, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/01198c43-67bd-4c89-b925-d67569e5cbaf.0017.03/DOC_1#src.E0005)) JO L 340 de 11.12.1991, p. 17. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 806/2003 do Conselho (JO L 122 de 16.5.2003, p. 1)."
+  },
+  "7be070ea67cf50b7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque aplica o Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho, no que diz respeito às marcas auriculares, aos passaportes e aos registos das explorações\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho, de 17 de Julho de 2000, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino, e que revoga o Regulamento (CE) n.º 820/97 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/17422ae9-75de-4067-8ba3-a4018054aa08.0014.02/DOC_1#E0001)), e, nomeadamente, o n.º 1 do seu artigo 7.º e as alíneas a), b) e c) do seu artigo 10.º,\n\n(1) O Regulamento (CE) n.º 2629/97 da Comissão, de 29 de Dezembro de 1997, que estabelece disposições de aplicação do Regulamento (CE) n.º 820/97 do Conselho no que respeita a marcas auriculares, registos das explorações e passaportes no âmbito do regime de identificação e registo dos bovinos ([^2^](http://publications.europa.eu/resource/cellar/17422ae9-75de-4067-8ba3-a4018054aa08.0014.02/DOC_1#E0002)) foi alterado substancialmente várias vezes. Por motivos de clareza e coerência da legislação comunitária, as referidas disposições devem estar contidas num único acto. Consequentemente, o Regulamento (CE) n.º 2629/97 deve ser revogado e substituído pelo presente regulamento.\n\n(2) As marcas auriculares devem conter informações sobre o Estado-Membro de origem e sobre o próprio animal. A forma de codificação mais adequada para essas informações é o código do país, com duas letras, seguido por um máximo de 12 algarismos. Os códigos de barras poderiam ser autorizados adicionalmente ao código do país e a um máximo de 12 algarismos.\n\n(3) Convém ter em conta as dificuldades apontadas pela autoridades competentes de certos Estados-Membros no que se refere ao código para a identificação dos bovinos e permitir que essas autoridades utilizem marcas auriculares contendo um código alfanumérico até ao final do período de transição. Além disso, convém ter em conta as dificuldades apontadas pela autoridade competente de Itália e permitir que esta utilize um máximo de três caracteres suplementares, desde que os mesmos não façam parte do código numérico.\n\n(4) De modo a evitar dificuldades no comércio intracomunitário de bovinos e para clarificar as normas actuais, é necessário autorizar os detentores a adquirir antecipadamente, se assim o desejarem e em conformidade com as disposições nacionais, uma quantidade de marcas auriculares proporcional às suas necessidades para um período não superior a um ano.\n\n(5) Convém prever as informações contidas nas marcas auriculares de substituição, caso se percam marcas auriculares.\n\n(6) É adequado definir certas normas mínimas uniformes para a concepção e o modelo das marcas auriculares.\n\n(7) As disposições relativas às informações contidas nas marcas auriculares devem ser revistas tendo em conta a criação da base de dados informatizada prevista no Regulamento (CE) n.º 1760/2000.\n\n(8) As informações contidas no passaporte e no registo devem ser apresentadas de uma forma que permita seguir o percurso do animal.\n\n(9) As informações devem ser coerentes com aquelas a incluir na base de dados informatizada prevista na Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína ([^3^](http://publications.europa.eu/resource/cellar/17422ae9-75de-4067-8ba3-a4018054aa08.0014.02/DOC_1#E0003)).\n\n(10) O período entre três e sete dias a determinar pelos Estados-Membros para que os detentores notifiquem os movimentos, nascimentos e mortes dos animais deve estar associado à data do acontecimento. No entanto, convém ter em conta as dificuldades apontadas pelos Estados-Membros relativamente à notificação de nascimentos dentro do prazo previsto e, consequentemente, permitir que os Estados-Membros determinem o período pertinente a contar da data de aposição da marca auricular no animal.\n\n(11) Convém ter em conta as dificuldades apontadas pelos Estados-Membros relativamente às informações incluídas nos passaportes que acompanham os bovinos nascidos antes de 1 de Janeiro de 1998. As dificuldades assinaladas durante a preparação da Adesão da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia, relativamente aos passaportes que acompanham os animais nascidos antes de 1 de Janeiro de 2004, devem também ser tidas em consideração.\n\n(12) Convém tornar facultativa a menção de certos elementos informativos nos passaportes que acompanham os bovinos nascidos antes de 1 de Janeiro de 1998 e os bovinos nascidos antes de 1 de Janeiro de 2004 na República Checa, na Estónia, em Chipre, na Letónia, na Lituânia, na Hungria, em Malta, na Polónia, na Eslovénia ou na Eslováquia. Esta derrogação não deve por em causa a obrigação de mencionar esses elementos informativos nos passaportes de bovinos nascidos no território de um Estado-Membro onde esse requisito esteja previsto nas respectivas normas nacionais.\n\n(13) Dadas as medidas de controlo relacionadas com os regimes de ajudas comunitários, é necessário incluir no passaporte certas informações relativas aos prémios, como previsto no Regulamento (CE) n.º 1254/1999 do Conselho de 17 de Maio de 1999 que estabelece a organização comum de mercado no sector da carne de bovino ([^4^](http://publications.europa.eu/resource/cellar/17422ae9-75de-4067-8ba3-a4018054aa08.0014.02/DOC_1#E0004)).\n\n(14) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Fundo Europeu de Orientação e de Garantia Agrícola,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6b5aa6962c1b7416": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O passaporte conterá, no mínimo:\n\na) As informações a que se refere o n.º 3, primeiro ao sétimo travessão do ponto C.1, do artigo 14.º da Directiva 64/432/CEE;\n\nb) As informações a que se refere:\n\ni) o n.º 3, segundo travessão do ponto C.2, do artigo 14.º da Directiva 64/432/CEE, ou\n\nii) o n.º 3, primeiro travessão do ponto C.2, do artigo 14.º, se a base de dados prevista no artigo 5.º do Regulamento (CE) n.º 1760/2000 estiver plenamente operacional;\n\nc) A assinatura do(s) detentor(es), com excepção do transportador; quando a base de dados prevista no n.º 3, primeiro travessão, do artigo 6.º do Regulamento (CE) n.º 1760/2000 estiver plenamente operacional, apenas será necessária a assinatura do último detentor;\n\nd) O nome da autoridade emissora;\n\ne) A data de emissão do passaporte.\n\n2. Sem prejuízo do capítulo I.A.1 do anexo da Directiva 91/628/CEE do Conselho relativa à protecção dos animais durante o transporte ([^5^](http://publications.europa.eu/resource/cellar/17422ae9-75de-4067-8ba3-a4018054aa08.0014.02/DOC_1#E0005)), os vitelos com menos de quatro semanas de idade podem ser transportados desde que o respectivo umbigo esteja cicatrizado. Nesse caso, os Estados-Membros podem prever que sejam acompanhados por um passaporte temporário contendo, pelo menos, a informação indicada no n.º 1, num formato aprovado pelo autoridade competente.\n\nO passaporte temporário será estabelecido pelo primeiro detentor do vitelo e completado por cada um dos detentores seguintes, com excepção dos transportadores. O detentor apresentará o passaporte temporário à autoridade competente antes de o animal atingir a idade de quatro semanas ou, o mais tardar, no prazo de sete dias após o acontecimento se o animal morrer ou for abatido antes dessa idade. Se o vitelo ultrapassar essa idade, a autoridade competente emitirá um passaporte final, em conformidade com o n.º 1, no prazo de 14 dias após a recepção do passaporte temporário. Os passaportes finais registarão os pormenores de todas as deslocações anteriores do vitelo inscritas no passaporte temporário.\n\nO vitelo não pode descolar-se mais de duas vezes de uma exploração para outra acompanhado pelo passaporte temporário. Para efeitos do presente número, uma deslocação de uma exploração para outra com passagem por uma feira de gado ou um centro de agrupamento de vitelos será contabilizada como uma deslocação, desde que a feira de gado ou centro de agrupamento de vitelos possa fornecer às autoridades competentes, mediante pedido nesse sentido, um registo completo das transacções efectuadas no seu âmbito.\n\n3. Em derrogação à alínea a) do n.º 1, as informações previstas no n.º 3, segundo e quinto travessões do ponto C.1, do artigo 14.º da Directiva 64/432/CEE não serão obrigatórias nos passaportes dos bovinos nascidos antes de 1 de Janeiro de 1998. A derrogação prevista no presente número será sem prejuízo da obrigação de fornecer os elementos informativos supramencionados, quando esse requisito esteja previsto nas normas nacionais. Os Estados-Membros comunicarão entre si e à Comissão as normas efectivamente aplicadas no que diz respeito às informações referidas no presente número.\n\n4. No caso da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia, a derrogação prevista no n.º 3 aplicar-se-á aos bovinos nascidos antes de 1 de Janeiro de 2004.\n\n5. No caso da Bulgária e da Roménia, a derrogação prevista no n.º 3 aplicar-se-á aos bovinos nascidos mais de seis meses antes da data da respectiva de adesão.\n\n6. No caso da Croácia, a derrogação prevista no n.º 3 aplicar-se-á aos bovinos nascidos mais de seis meses antes da data da respetiva de adesão."
+  },
+  "d15e0f52a8cf8fc8": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nO código na marca auricular dos bovinos começará com as letras que identificam o Estado-Membro de origem, em conformidade com o seguinte quadro:\n\n| Estado-Membro de origem | Código ISO |\n| --- | --- |\n| Áustria | AT |\n| Bélgica | BE |\n| [▼M1](http://publications.europa.eu/resource/celex/32006R1792) |  |\n| Bulgária | BG |\n| [▼M2](http://publications.europa.eu/resource/celex/32013R0519) |  |\n| Croatia | HR |\n| [▼B](http://publications.europa.eu/resource/celex/32004R0911) |  |\n| República Checa | CZ |\n| Chipre | CY |\n| Dinamarca | DK |\n| Estónia | EE |\n| Finlândia | FI |\n| França | FR |\n| Alemanha | DE |\n| Grécia | EL |\n| Hungria | HU |\n| Irlanda | IE |\n| Itália | IT |\n| Letónia | LV |\n| Lituânia | LT |\n| Luxemburgo | LU |\n| Malta | MT |\n| Países Baixos | NL |\n| Polónia | PL |\n| Portugal | PT |\n| [▼M1](http://publications.europa.eu/resource/celex/32006R1792) |  |\n| Roménia | RO |\n| [▼B](http://publications.europa.eu/resource/celex/32004R0911) |  |\n| Eslovénia | SI |\n| Eslováquia | SK |\n| Espanha | ES |\n| Suécia | SE |\n| Reino Unido | UK |"
+  },
+  "268eb4e1887e6aa8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/17422ae9-75de-4067-8ba3-a4018054aa08.0014.02/DOC_1#src.E0001)) JO L 204 de 11.8.2000, p. 1. Regulamento alterado pelo Acto de Adesão de 2003.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/17422ae9-75de-4067-8ba3-a4018054aa08.0014.02/DOC_1#src.E0002)) JO L 354 de 30.12.1997, p. 9. Regulamento com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/17422ae9-75de-4067-8ba3-a4018054aa08.0014.02/DOC_1#src.E0003)) JO L 121 de 29.7.1964, p.1977/64. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 21/2004 (JO L 5 de 9.1.2004, p. 8).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/17422ae9-75de-4067-8ba3-a4018054aa08.0014.02/DOC_1#src.E0004)) JO L 160 de 26.6.1999, p. 21. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1782/2003 (JO L 270 de 21.10.2003, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/17422ae9-75de-4067-8ba3-a4018054aa08.0014.02/DOC_1#src.E0005)) JO L 340 de 11.12.1991, p. 17. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 806/2003 do Conselho (JO L 122 de 16.5.2003, p. 1)."
+  },
+  "3a5c4c0af7e2ed40": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque aplica o Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho, no que diz respeito às marcas auriculares, aos passaportes e aos registos das explorações\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "10f3a48b0d99017d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As marcas auriculares deverão conter o nome, o código ou o logótipo da autoridade competente que atribuiu as marcas auriculares e os caracteres previstos no n.º 2.\n\n2. Os carateres que constituem o código de identificação nas marcas auriculares serão os estabelecidos no artigo 2.º do Regulamento de Execução (UE) 2017/949 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/dec2153c-079c-4a99-b7d1-118954696cfb.0015.02/DOC_1#E0001)).\n\n3. Além das informações previstas no n.º 1, um código de barras pode ser autorizado pela autoridade competente.\n\n4. Em derrogação à limitação do número de caracteres estabelecido na alínea b) do n.º 2, a autoridade competente da Itália pode utilizar um máximo de três caracteres suplementares depois da sequência de caracteres prevista nesse número. No entanto, esses caracteres não farão parte do código de identificação mencionado no n.º 2.\n\n5. Os detentores serão autorizados a adquirir antecipadamente, se assim o desejarem e em conformidade com as disposições nacionais aplicáveis, uma quantidade de marcas auriculares proporcional às suas necessidades para um período não superior a um ano. No caso de explorações que não tenham mais de cinco animais, a autoridade competente pode não fornecer antecipadamente mais do que cinco pares de marcas auriculares.\n\n6. Caso se perca uma marca auricular, as marcas auriculares de substituição podem conter, além da informação prevista, uma marca diferente que expresse, em numeração romana, o número da versão da marca auricular de substituição. Nesse caso, o código de identificação previsto no n.º 2 permanecerá inalterado. As marcas auriculares de substituição utilizadas por um Estado-Membro para os animais nascidos noutro Estado-Membro ostentarão, pelo menos, o mesmo código de identificação, além do código ou do logótipo da autoridade competente que o emite."
+  },
+  "87c1c757f9c7bed8": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O passaporte conterá, no mínimo:\n\na) As informações a que se refere o n.º 3, primeiro ao sétimo travessão do ponto C.1, do artigo 14.º da Directiva 64/432/CEE;\n\nb) As informações a que se refere:\n\ni) o n.º 3, segundo travessão do ponto C.2, do artigo 14.º da Directiva 64/432/CEE, ou\n\nii) o n.º 3, primeiro travessão do ponto C.2, do artigo 14.º, se a base de dados prevista no artigo 5.º do Regulamento (CE) n.º 1760/2000 estiver plenamente operacional;\n\nc) A assinatura do(s) detentor(es), com excepção do transportador; quando a base de dados prevista no n.º 3, primeiro travessão, do artigo 6.º do Regulamento (CE) n.º 1760/2000 estiver plenamente operacional, apenas será necessária a assinatura do último detentor;\n\nd) O nome da autoridade emissora;\n\ne) A data de emissão do passaporte.\n\n2. Sem prejuízo do capítulo I.A.1 do anexo da Directiva 91/628/CEE do Conselho relativa à protecção dos animais durante o transporte ([^2^](http://publications.europa.eu/resource/cellar/dec2153c-079c-4a99-b7d1-118954696cfb.0015.02/DOC_1#E0002)), os vitelos com menos de quatro semanas de idade podem ser transportados desde que o respectivo umbigo esteja cicatrizado. Nesse caso, os Estados-Membros podem prever que sejam acompanhados por um passaporte temporário contendo, pelo menos, a informação indicada no n.º 1, num formato aprovado pelo autoridade competente.\n\nO passaporte temporário será estabelecido pelo primeiro detentor do vitelo e completado por cada um dos detentores seguintes, com excepção dos transportadores. O detentor apresentará o passaporte temporário à autoridade competente antes de o animal atingir a idade de quatro semanas ou, o mais tardar, no prazo de sete dias após o acontecimento se o animal morrer ou for abatido antes dessa idade. Se o vitelo ultrapassar essa idade, a autoridade competente emitirá um passaporte final, em conformidade com o n.º 1, no prazo de 14 dias após a recepção do passaporte temporário. Os passaportes finais registarão os pormenores de todas as deslocações anteriores do vitelo inscritas no passaporte temporário.\n\nO vitelo não pode descolar-se mais de duas vezes de uma exploração para outra acompanhado pelo passaporte temporário. Para efeitos do presente número, uma deslocação de uma exploração para outra com passagem por uma feira de gado ou um centro de agrupamento de vitelos será contabilizada como uma deslocação, desde que a feira de gado ou centro de agrupamento de vitelos possa fornecer às autoridades competentes, mediante pedido nesse sentido, um registo completo das transacções efectuadas no seu âmbito.\n\n3. Em derrogação à alínea a) do n.º 1, as informações previstas no n.º 3, segundo e quinto travessões do ponto C.1, do artigo 14.º da Directiva 64/432/CEE não serão obrigatórias nos passaportes dos bovinos nascidos antes de 1 de Janeiro de 1998. A derrogação prevista no presente número será sem prejuízo da obrigação de fornecer os elementos informativos supramencionados, quando esse requisito esteja previsto nas normas nacionais. Os Estados-Membros comunicarão entre si e à Comissão as normas efectivamente aplicadas no que diz respeito às informações referidas no presente número.\n\n4. No caso da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia, a derrogação prevista no n.º 3 aplicar-se-á aos bovinos nascidos antes de 1 de Janeiro de 2004.\n\n5. No caso da Bulgária e da Roménia, a derrogação prevista no n.º 3 aplicar-se-á aos bovinos nascidos mais de seis meses antes da data da respectiva de adesão.\n\n6. No caso da Croácia, a derrogação prevista no n.º 3 aplicar-se-á aos bovinos nascidos mais de seis meses antes da data da respetiva de adesão."
+  },
+  "bbbad7c582b4db2f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/dec2153c-079c-4a99-b7d1-118954696cfb.0015.02/DOC_1#src.E0001)) Regulamento de Execução (UE) 2017/949 da Comissão, de 2 de junho de 2017, que estabelece regras de aplicação do Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho no que diz respeito à configuração do código de identificação de bovinos e que altera o Regulamento (CE) n.º 911/2004 (JO L 143 de 3.6.2017, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/dec2153c-079c-4a99-b7d1-118954696cfb.0015.02/DOC_1#src.E0002)) JO L 340 de 11.12.1991, p. 17. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 806/2003 do Conselho (JO L 122 de 16.5.2003, p. 1)."
+  },
+  "af3ce8678bd7ed1b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02004R0911 — PT — 21.04.2021 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32004R0911) [REGULAMENTO (CE) N.º 911/2004 DA COMISSÃO](http://publications.europa.eu/resource/celex/32004R0911) [de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0911) [que aplica o Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho, no que diz respeito às marcas auriculares, aos passaportes e aos registos das explorações](http://publications.europa.eu/resource/celex/32004R0911) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32004R0911) (JO L 163, 30.4.2004, p.65)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2019/2035 da Comissão de 28 de junho de 2019](http://publications.europa.eu/resource/celex/32019R2035) — L 314 — 115 — 5.12.2019"
+  }
+ }
+}

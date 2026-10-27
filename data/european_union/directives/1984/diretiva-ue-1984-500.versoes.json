@@ -1,0 +1,290 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984L0500:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984L0500-20050520",
+ "dre_path": null,
+ "source_lastmod": "2005-05-20",
+ "versions": [
+  {
+   "date": "2005-05-20",
+   "future": false,
+   "celex": "01984L0500-20050520",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fa4c984b0ad0ba02",
+    "87b12b42e9187da2",
+    "d29db63e727454b6",
+    "0f78cae2c3b64431",
+    "abbbcf3f58429e8c",
+    "fc5d63fc93b62032",
+    "e7c29804a0a1a8bc",
+    "eaf22075ed2adc67",
+    "d664376e2a8dcecd",
+    "4886b5ddbf7c0de9",
+    "e3f00a1b1406784d",
+    "a1d69b84deb1531f",
+    "57811fadc3fd5296",
+    "0e73e7757ee6e14e",
+    "badd11c597d0220f",
+    "5078322449dcaae4",
+    "852174729551523b",
+    "bf377285fb0743a2",
+    "0b89c166d48c5f8d",
+    "1162b467cb695726",
+    "e6b114e8f9565bfc",
+    "89c51aaadc326000",
+    "a9e57b4b514d394d",
+    "8b0bc7ec74073541",
+    "e53b3a6fd4b150cd",
+    "567f2559995dfd2b",
+    "09d30c2e38295d54",
+    "720af75c92791b10",
+    "6621a74a7c6b6df1",
+    "c8e78c1abe1423ea"
+   ]
+  }
+ ],
+ "fragments": {
+  "fa4c984b0ad0ba02": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Outubro de 1984\n\nRelativa à aproximação das legislações dos Estados-membros respeitantes aos objectos cerâmicos destinados a entrar em contacto com os géneros alimentícios\n\n(84/500/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia. Tendo em conta a Directiva 76/893/CEE do Conselho, de 23 de Novembro de 1976, relativa à aproximação das legislações dos Estados-membros relativos aos materiais e objectos destinados a entrar em contacto com os géneros alimentícios ([^1^](http://publications.europa.eu/resource/cellar/60011874-0099-4dfd-aba7-46e1e41d92b0.0019.03/DOC_1#E0001)) e, nomeadamente, o seu artigo 3.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/60011874-0099-4dfd-aba7-46e1e41d92b0.0019.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/60011874-0099-4dfd-aba7-46e1e41d92b0.0019.03/DOC_1#E0003)),\n\nConsiderando que nos termos do artigo 2.º da Directiva 76/893/CEE, os materiais e objectos não devem ceder aos géneros alimentícios constituintes em quantidades susceptíveis de representar um risco para a saúde humana;\n\nConsiderando que o artigo 3.º da referida directiva prevê que o Conselho, em conformidade com o procedimento previsto no artigo 100.º do Tratado, adopta, por directiva, as disposições especiais aplicáveis a certos grupos de materiais e objectos (directivas específicas);\n\nConsiderando que, na maior parte dos Estados-membros, os objectos cerâmicos destinados a entrar em contacto com os géneros alimentícios são submetidos a disposições imperativas relativas à limitação das quantidades de chumbo e cádmio extractíveis, com o objectivo de proteger a saúde humana;\n\nConsiderando que estas disposições variam de um Estado-membro para outro, o que cria obstáculos ao estabelecimento e ao funcionamento do mercado comum;\n\nConsiderando que estes obstáculos podem ser eliminados, se a colocação no mercado, a nível comunitário, dos objectos cerâmicos for subordinada a regras uniformes; que é, por isso, necessário harmonizar os valores limite bem como os métodos de ensaio e análise;\n\nConsiderando que o instrumento apropriado para conseguir este objectivo é uma directiva específica na acepção do artigo 3.º da Directiva 76/893/CEE cujas regras gerais se tornam também aplicáveis ao caso em questão;\n\nConsiderando que a adaptação ao progresso técnico de certas medidas de controlo e de análise previstas pela directiva é uma medida de aplicação e que é conveniente atribuir à Comissão a sua adopção com o objectivo de simplificar e acelerar o processo;\n\nConsiderando que, em todos os casos para os quais o Conselho atribui competência à Comissão para a execução de disposições respeitantes ao sector dos materiais e objectos destinados a entrar em contacto com os géneros alimentícios, é convenienteprever um procedimento que institua uma estreita colaboração entre os Estados-membros e a Comissão no âmbito do Comité Permanente dos Géneros Alimentícios, instituído pela Decisão do Conselho, de 13 de Novembro de 1969,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "87b12b42e9187da2": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é uma directiva específica na acepção do artigo 3.º da Directiva 76/893/CEE.\n\n2. A presente directiva diz respeito à migração eventual de chumbo e de cádmio a partir dos objectos cerâmicos que, no estado de produtos acabados, se destinam a ser postos em contacto ou são postos em contacto, em conformidade com a utilização a que se destinam, com os géneros alimentícios.\n\n3. Entende-se por «objectos cerâmicos» os objectos fabricados a partir de uma mistura de materiais inorgânicos com um teor geralmente elevado de argila ou de silicatos aos quais se juntam, eventualmente, pequenas quantidades de materiais orgânicos. Estes objectos são primeiramente moldados e a forma obtida é fixada de modo permanente por cozedura. Podem ser vidrados, esmaltados e/ou decorados."
+  },
+  "d29db63e727454b6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As quantidades de chumbo e de cádmio cedidas pelos objectos cerâmicos não devem ultrapassar os limites a seguir fixados.\n\n2. As quantidades de chumbo e cádmio cedidas pelos objectos cerâmicos são determinadas por um ensaio cujas condições estão previstas no Anexo I e pelo método de análise descrito no Anexo II.\n\n3. Quando um objecto cerâmico é constituído por um recipiente com tampa também cerâmica, o limite de chumbo e/ou de cádmio que não deve ser ultrapassado (mg/dm^2^ ou mg/l) é o que se aplica ao recipiente.\n\nO recipiente e a superfície interna da tampa são ensaiados separadamente e nas mesmas condições.\n\nA soma dos dois níveis de extracção de chumbo e/ou de cádmio assim obtida será calculada, consoante o caso, unicamente em relação à superfície ou ao volume do recipiente.\n\n4. Um objecto cerâmico será considerado conforme às prescrições da presente directiva se as quantidades de chumbo e/ou cádmio extraídas durante o ensaio efectuado nas condições previstas nos Anexos I e II não ultrapassarem os seguintes limites:\n\n|  | *Pb* | *Cd* |\n| --- | --- | --- |\n| — categoria 1: |  |  |\n| Objectos que não podem ser enchidos ou objectos que podem ser enchidos, cuja profundidade interna medida entre o ponto mais baixo e o plano horizontal que passa pela borda superior é igual ou inferior a 25 mm | 0,8 mg/dm^2^ | 0,07 mg/dm^2^ |\n| — categoria 2: |  |  |\n| [▼C1](http://publications.europa.eu/resource/celex/31984L0500R%2802%29) |  |  |\n| Todos os outros objectos que podem ser enchidos | 4,0 mg/l | 0,3 mg/l |\n| [▼B](http://publications.europa.eu/resource/celex/31984L0500) |  |  |\n| — categoria 3: |  |  |\n| Utensílios para cozinhar; embalagens e recipientes de armazenagem com uma capacidade superior a 3 litros | 1,5 mg/l | 0,1 mg/l |\n\n5. Quando um objecto não ultrapassar as quantidades definidas anteriormente, em mais de 50 %, este objecto será considerado como estando conforme às exigências da presente directiva, se pelo menos três outros objectos idênticos na forma, nas dimensões, na decoração e no verniz, forem submetidos a um ensaio efectuado nas condições previstas nos Anexos I e II, e se as quantidades de chumbo e/ou cádmio extraídas destes objectos não ultrapassarem em média os limites fixados, sem que qualquer deles os ultrapasse em mais de 50 %."
+  },
+  "0f78cae2c3b64431": {
+   "fragment_id": "Artigo 2.ºA",
+   "type": "artigo",
+   "heading": "Artigo 2.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.ºA\n\n1. Nas fases de comercialização, incluindo a fase de venda a retalho, os objectos cerâmicos que ainda não tenham entrado em contacto com os géneros alimentícios serão acompanhados por uma declaração escrita, em conformidade com o artigo 16.º do Regulamento (CE) n.º 1935/2004 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/60011874-0099-4dfd-aba7-46e1e41d92b0.0019.03/DOC_1#E0005)).\n\nA declaração será emitida pelo fabricante ou por um vendedor estabelecido na Comunidade e incluirá a informação referida no anexo III da presente directiva.\n\n2. Solicitados para tal, o fabricante ou o importador para a Comunidade colocarão à disposição das autoridades nacionais competentes a documentação apropriada para demonstrar que os objectos de cerâmica são conformes aos limites de cedência para o chumbo e o cádmio previstos no artigo 2.º. Essa documentação incluirá os resultados da análise realizada e as condições de ensaio, bem como o nome e o endereço do laboratório que realizou o ensaio."
+  },
+  "abbbcf3f58429e8c": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs alterações a introduzir nos anexos, com excepção dos pontos 1 e 2 do Anexo I, em função da evolução dos conhecimentos científicos e técnicos serão adoptadas de acordo com o procedimento previsto no artigo 100.º da Directiva 76/893/CEE."
+  },
+  "fc5d63fc93b62032": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Antes do termo do prazo de 3 anos a contar da notificação ([^5^](http://publications.europa.eu/resource/cellar/60011874-0099-4dfd-aba7-46e1e41d92b0.0019.03/DOC_1#E0004)) da presente directiva, o Conselho determinará, em conformidade com o procedimento previsto no artigo 100.º do Tratado:\n\na) As limitações às quais devem ser submetidas as partes dos objectos cerâmicos destinadas a entrar em contacto com a boca;\n\nb) Os métodos de controlo do cumprimento das limitações prescritas na alínea a).\n\n2. Durante o mesmo período, a Comissão, com base nos dados toxicológicos e tecnológicos, reexaminará os limites fixados no artigo 2.º, tendo em vista a sua redução, bem como as condições de iluminação dos ensaios previstos no Anexo I, e apresentará ao Conselho, se for caso disso, propostas de alteração da presente directiva."
+  },
+  "e7c29804a0a1a8bc": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros alterarão, se necessário, as suas legislações para se adaptarem à presente directiva de modo a:\n\n— admitir três anos após a notificação da directiva o comércio dos objectos cerâmicos conformes a esta directiva,\n\n— proibir cinco anos após a notificação da presente directiva, a colocação no mercado dos objectos cerâmicos não conformes a esta directiva. Desse facto informarão imediatamente a Comissão.\n\n2. Sem prejuízo do n.º 1, os Estados-membros podem proibir ou manter a proibição do fabrico de objectos cerâmicos não conformes à presente directiva."
+  },
+  "eaf22075ed2adc67": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "4886b5ddbf7c0de9": {
+   "fragment_id": "REGRAS DE BASE PARA A DETERMINAÇÃO DA CEDÊNCIA DE CHUMBO E CÁDMIO.",
+   "type": "divisao",
+   "heading": "REGRAS DE BASE PARA A DETERMINAÇÃO DA CEDÊNCIA DE CHUMBO E CÁDMIO.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS DE BASE PARA A DETERMINAÇÃO DA CEDÊNCIA DE CHUMBO E CÁDMIO."
+  },
+  "e3f00a1b1406784d": {
+   "fragment_id": "1. Líquido de ensaio («Simulador»)",
+   "type": "divisao",
+   "heading": "1. Líquido de ensaio («Simulador»)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Líquido de ensaio («Simulador»)\n\nÁcido acético a 4 % (V/V), em solução aquosa preparada recentemente."
+  },
+  "a1d69b84deb1531f": {
+   "fragment_id": "2. Condições de ensaio",
+   "type": "divisao",
+   "heading": "2. Condições de ensaio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Condições de ensaio\n\n2.1. Efectuar o ensaio a uma temperatura de 22 ± 2 ºC e durante um período de 24 ± 0,5 horas.\n\n2.2. Quando se pretende determinar apenas a cedência de chumbo, tapar a amostra com um meio de protecção adequado e expô-la às condições de iluminação normais em laboratório. Quando se pretende determinar a cedência de cádmio ou de chumbo e cádmio, cobrir a amostra de modo a assegurar que a superfície a submeter ao ensaio seja mantida na obscuridade total."
+  },
+  "57811fadc3fd5296": {
+   "fragment_id": "3. Enchimento",
+   "type": "divisao",
+   "heading": "3. Enchimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Enchimento"
+  },
+  "0e73e7757ee6e14e": {
+   "fragment_id": "3.1. Amostra que se pode encher",
+   "type": "divisao",
+   "heading": "3.1. Amostra que se pode encher",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Amostra que se pode encher\n\nEncher o objecto com a solução de ácido acético a 4 % (v/v) no máximo, até a 1 mm, no máximo, do ponto de transbordamento, distância medida a partir do bordo superior da amostra.\n\nContudo, no caso das amostras que apresentam um bordo plano ou ligeiramente inclinado, encher a amostra de maneira a que a distância entre a superfície do líquido e o ponto de transbordamento seja no mínimo 6 mm medidos ao longo do bordo inclinado."
+  },
+  "badd11c597d0220f": {
+   "fragment_id": "3.2. Amostra que não se pode encher.",
+   "type": "divisao",
+   "heading": "3.2. Amostra que não se pode encher.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Amostra que não se pode encher.\n\nCobrir primeiro com uma camada protectora adequada de um produto resistente à acção de ácido acético 4 % (v/v), a superfície da amostra que se não destina a entrar em contacto com os géneros alimentícios. Mergulhar em seguida a amostra num recipiente contendo um volume conhecido de solução de ácido acético de modo a que a superfície destinada a entrar em contacto com os géneros alimentícios seja inteiramente coberta pelo líquido de ensaio."
+  },
+  "5078322449dcaae4": {
+   "fragment_id": "4. Determinação da superfície",
+   "type": "divisao",
+   "heading": "4. Determinação da superfície",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Determinação da superfície\n\nA superfície dos objectos da categoria 1 é equivalente à superfície do menisco constituído pela superfície livre do líquido que se obtém respeitando as condições de enchimento previstas no ponto 3."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "bf377285fb0743a2": {
+   "fragment_id": "MÉTODOS DE ANÁLISE PARA A DETERMINAÇÃO DA CEDÊNCIA DE CHUMBO E CÁDMIO",
+   "type": "divisao",
+   "heading": "MÉTODOS DE ANÁLISE PARA A DETERMINAÇÃO DA CEDÊNCIA DE CHUMBO E CÁDMIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS DE ANÁLISE PARA A DETERMINAÇÃO DA CEDÊNCIA DE CHUMBO E CÁDMIO"
+  },
+  "0b89c166d48c5f8d": {
+   "fragment_id": "1. Objectivo e âmbito de aplicação",
+   "type": "divisao",
+   "heading": "1. Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Objectivo e âmbito de aplicação\n\nO método permite determinar a cedência específica de chumbo e/ou cádmio."
+  },
+  "1162b467cb695726": {
+   "fragment_id": "2. Princípio",
+   "type": "divisao",
+   "heading": "2. Princípio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Princípio\n\nA determinação da cedência específica de chumbo e/ou cádmio é realizada através de um método de análise instrumental que respeita os critérios de desempenho referidos no n.º 4."
+  },
+  "e6b114e8f9565bfc": {
+   "fragment_id": "3. Reagentes",
+   "type": "divisao",
+   "heading": "3. Reagentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Reagentes\n\n— Todos os reagentes devem ser de qualidade analítica, excepto especificações em contrário.\n\n— Quando se faz referência a água, trata-se sempre de água destilada ou água de qualidade equivalente."
+  },
+  "89c51aaadc326000": {
+   "fragment_id": "3.1. Ácido acético a 4 % (v/v), solução aquosa",
+   "type": "divisao",
+   "heading": "3.1. Ácido acético a 4 % (v/v), solução aquosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Ácido acético a 4 % (v/v), solução aquosa\n\nAdicionar 40 ml de ácido acético glacial a água e perfazer 1 000 ml."
+  },
+  "a9e57b4b514d394d": {
+   "fragment_id": "3.2. Soluções-mãe",
+   "type": "divisao",
+   "heading": "3.2. Soluções-mãe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Soluções-mãe\n\nPreparar soluções-mãe contendo respectivamente 1 000 mg/litro de chumbo e pelo menos 500 mg/litro de cádmio numa solução de ácido acético a 4 %, tal como referido no ponto 3.1."
+  },
+  "8b0bc7ec74073541": {
+   "fragment_id": "4. Critérios de desempenho do método de análise instrumental",
+   "type": "divisao",
+   "heading": "4. Critérios de desempenho do método de análise instrumental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Critérios de desempenho do método de análise instrumental\n\n4.1. O limite de detecção do chumbo e do cádmio deve ser inferior ou igual a:\n\n— 0,1 mg/litro para o chumbo,\n\n— 0,01 mg/litro para o cádmio.\n\n4.2. O limite de quantificação do chumbo e do cádmio deve ser inferior ou igual a:\n\n— 0,2 mg/litro para o chumbo,\n\n— 0,02 mg/litro para o cádmio.\n\n4.3. *Recuperação*. A recuperação de chumbo e de cádmio adicionados à solução de ácido acético a 4 % tal como referido no ponto 3.1, deve situar-se entre 80—120 % da quantidade adicionada.\n\n4.4. *Especificidade*. O método de análise instrumental utilizado deve ser isento de interferências matriciais ou espectrais."
+  },
+  "e53b3a6fd4b150cd": {
+   "fragment_id": "5. Método",
+   "type": "divisao",
+   "heading": "5. Método",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Método"
+  },
+  "567f2559995dfd2b": {
+   "fragment_id": "5.1. Preparação da amostra",
+   "type": "divisao",
+   "heading": "5.1. Preparação da amostra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.1. Preparação da amostra\n\nA amostra deve estar limpa e não apresentar sinais de gordura ou outra matéria susceptível de afectar o ensaio.\n\nLavar a amostra com uma solução contendo um detergente líquido de tipo doméstico a uma temperatura de cerca de 40 °C. Limpar a amostra, primeiro com água corrente e depois com água destilada ou de qualidade equivalente. Escorrer e secar de modo a evitar qualquer sujidade. Não manipular a superfície a submeter ao ensaio depois de ela ter sido limpa."
+  },
+  "09d30c2e38295d54": {
+   "fragment_id": "5.2. Determinação de chumbo e/ou cádmio",
+   "type": "divisao",
+   "heading": "5.2. Determinação de chumbo e/ou cádmio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5.2. Determinação de chumbo e/ou cádmio\n\n— A amostra assim preparada é submetida a ensaio nas condições previstas no anexo I.\n\n— Antes de colher a solução de ensaio para determinação do chumbo e/ou do cádmio, homogeneizar o conteúdo da amostra de acordo com um método adequado, que evite qualquer perda da solução ou eventual abrasão da superfície a ensaiar.\n\n— Efectuar um ensaio em branco no reagente utilizado para cada série de determinações.\n\n— Efectuar determinações de chumbo e/ou cádmio em condições apropriadas."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "6621a74a7c6b6df1": {
+   "fragment_id": "DECLARAÇÃO DE CONFORMIDADE",
+   "type": "divisao",
+   "heading": "DECLARAÇÃO DE CONFORMIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DECLARAÇÃO DE CONFORMIDADE\n\nA declaração escrita a que se refere o n.º 1 do artigo 2.ºA incluirá a seguinte informação:\n\n1) Identificação e endereço da empresa que fabrica o objecto cerâmico acabado e do importador que o importa para a União Europeia.\n\n2) Identificação do objecto.\n\n3) Data da declaração.\n\n4) Confirmação de que o objecto cerâmico cumpre as exigências pertinentes da presente directiva e do Regulamento (CE) n.º 1935/2004.\n\nA declaração escrita permitirá identificar facilmente as mercadorias às quais faz referência e será renovada quando alterações substanciais na produção originarem alterações na cedência de chumbo e cádmio.\n\n---"
+  },
+  "c8e78c1abe1423ea": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/60011874-0099-4dfd-aba7-46e1e41d92b0.0019.03/DOC_1#src.E0001)) JO n.º L 340 de 9.12.1976, p. 19.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/60011874-0099-4dfd-aba7-46e1e41d92b0.0019.03/DOC_1#src.E0002)) JO n.º C 95 de 28.4.1975, p. 41.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/60011874-0099-4dfd-aba7-46e1e41d92b0.0019.03/DOC_1#src.E0003)) JO n.º C 263 de 17.11.1975, p. 66.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/60011874-0099-4dfd-aba7-46e1e41d92b0.0019.03/DOC_1#src.E0005)) JO L 338 de 13.11.2004, p. 4.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/60011874-0099-4dfd-aba7-46e1e41d92b0.0019.03/DOC_1#src.E0004)) A presente directiva foi notificada aos Estados-membros em 17 de Outubro de 1984."
+  }
+ }
+}

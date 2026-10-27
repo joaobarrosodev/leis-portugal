@@ -1,0 +1,186 @@
+---
+schema_version: '1.0'
+id: pt:dre:198941:por
+title: Decreto-Lei n.º 22/95
+short_title: null
+summary: Transpõe para a ordem jurídica interna a Directiva n.º 92/119/CEE, do Conselho, de 17 de Dezembro, que estabelece
+  medidas gerais de luta contra certas doenças animais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 22/95
+official_date: null
+publication_date: '1995-02-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/1995, Série I-A de 1995-02-08
+  number: '33'
+  series: I
+  supplement: null
+  pages: 780 - 781
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/02/033a00/07800781.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/22/1995/02/08/p/dre/pt/html
+  oj: null
+  dre: '198941'
+  dre_path: /dr/detalhe/decreto-lei/22-1995-198941
+  internal: pt:dre:198941:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1995-198941
+  metadata_url: https://data.dre.pt/eli/dec-lei/22/1995/02/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1995-198941
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:39:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 695e00284d10725c77206dcb8f3e9fda7b2eac1aa0bdd66b1232a9d98d731d54
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- CEE
+- Contra-ordenação
+- Controlo Sanitário
+- Definição de Competências
+- Direcção Regional de Agricultura
+- Doença Animal
+- Exploração Pecuária
+- Fiscalização
+- Gado Suíno
+- Instituto de Protecção da Produção Agro-Alimentar
+- Multa
+- Pecuária
+- Política Agrícola Comum
+- Suinicultura
+relationships:
+- type: amended_by
+  target: pt:dre:456785:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31992L0119
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/119/oj
+- type: repealed_by
+  target: pt:dre:456785:por
+  label: "Revogado pelo DEC LEI.131/2008.21.07.2008.MADRP, DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-2008-456785
+  date: '2008-07-21'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:39:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 22/95
+
+de 8 de Fevereiro
+
+A comercialização de animais vivos tem desde sempre constituído uma das principais fontes de rendimento para a população agrícola.
+
+Surgindo uma doença, pode um só foco assumir rapidamente as proporções de uma epizootia, causando graus de mortalidade elevados e graves prejuízos sobre a rentabilidade das explorações afectadas.
+
+A Directiva n.º [92/119/CEE](https://data.europa.eu/eli/dir/1992/119/oj?locale=pt), do Conselho, de 17 de Dezembro, estabelece as medidas gerais de luta contra certas doenças animais, bem como as medidas específicas respeitantes à doença vesiculosa do suíno, tendo em vista a protecção sanitária do sector pecuário, pelo que importa agora transpô-la para o direito interno.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [92/119/CEE](https://data.europa.eu/eli/dir/1992/119/oj?locale=pt), do Conselho, de 17 de Dezembro, que estabelece medidas gerais de luta contra certas doenças animais, bem como medidas específicas respeitantes à doença vesiculosa do suíno.
+
+Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
+
+Art. 3.º A direcção, a coordenação e o controlo das acções a desenvolver para execução do presente diploma competem ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA), na qualidade de autoridade sanitária veterinária nacional.
+
+Art. 4.º Compete ao IPPAA e às direcções regionais de agricultura assegurar a fiscalização do cumprimento das normas constantes da portaria referida no artigo 2.º, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+Art. 5.º - 1 - Constituem contra-ordenações, puníveis com coima cujo montante mínimo é de 5000$00 e máximo de 500000$00:
+
+a) O incumprimento da obrigação de notificação da autoridade competente no caso de suspeita de existência de animais infectados ou contaminados numa exploração;
+
+b) O incumprimento das medidas determinadas após a notificação da suspeita ou da confirmação oficial da existência de animais infectados ou contaminados numa exploração ou num matadouro;
+
+c) A não realização dos recenseamentos;
+
+d) A oposição ou a criação de impedimentos à realização das inspecções;
+
+e) O incumprimento das restrições ao movimento a partir da exploração infectada ou com destino a ela;
+
+f) O incumprimento das operações de limpeza e desinfecção e a inexistência dos meios necessários para as mesmas;
+
+g) O incumprimento das normas relativas ao abate, ao tratamento e à destruição dos porcos e dos alimentos e objectos susceptíveis de estarem contaminados;
+
+h) O incumprimento das regras previstas para a reintrodução de porcos na exploração;
+
+i) O incumprimento das regras relativas à alimentação dos porcos.
+
+2 - As coimas aplicadas às pessoas colectivas podem elevar-se até ao montante máximo de 6000000$00, em caso de dolo, e de 3000000$00, em caso de negligência.
+
+3 - A tentativa e a negligência são puníveis.
+
+Art. 6.º - 1 - Podem ser aplicadas, simultaneamente com a coima, as sanções acessórias previstas na lei geral.
+
+2 - Quando seja aplicada a sanção de encerramento do estabelecimento ou de cancelamento de licença ou de alvará, a reabertura do estabelecimento e a emissão ou renovação da licença ou do alvará só terão lugar quando se encontrem reunidas as condições legais e regulamentares exigidas para o seu normal funcionamento.
+
+Art. 7.º - 1 - A instrução dos processos de contra-ordenação é da competência da direcção regional de agricultura da área em que foi cometida a infracção, à qual são enviados os autos de notícia levantados por outras entidades.
+
+2 - Finda a instrução, os processos são remetidos ao presidente do conselho directivo do IPPAA para decisão.
+
+Art. 8.º O produto das coimas reverte:
+
+a) Em 20% para o IPPAA;
+
+b) Em 10% para a entidade que levantou o auto;
+
+c) Em 10% para a entidade que instruiu o processo;
+
+d) Em 60% para o Estado.
+
+Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1994. - Aníbal António Cavaco Silva - António Duarte Silva.
+
+Promulgado em 1 de Dezembro de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 5 de Dezembro de 1994.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

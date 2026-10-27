@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32023R1225:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023R1225-20230626",
+ "dre_path": null,
+ "source_lastmod": "2023-06-26",
+ "versions": [
+  {
+   "date": "2023-06-26",
+   "future": false,
+   "celex": "02023R1225-20230626",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9b3494fd42bd8b8b",
+    "5fb2382a0cc5f986",
+    "60b2a1093d90a574",
+    "f165fa6d5a643967",
+    "16cf1c0ff2e9331a",
+    "f931d4b3fba595a6",
+    "39954338139d94fd",
+    "55e2cb47b47e2cba",
+    "0c6eef288588cf55"
+   ]
+  }
+ ],
+ "fragments": {
+  "9b3494fd42bd8b8b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de junho de 2023\n\nque estabelece medidas excecionais de caráter temporário em derrogação de certas disposições do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho para fazer face às perturbações do mercado no setor vitivinícola em determinados Estados-Membros e que derroga o Regulamento Delegado (UE) 2016/1149 da Comissão"
+  },
+  "5fb2382a0cc5f986": {
+   "fragment_id": "Artigo 1.º — Derrogações temporárias do artigo 43.º e do artigo 44.º, n.º 3, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Derrogações temporárias do artigo 43.º e do artigo 44.º, n.º 3, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Derrogações temporárias do artigo 43.º e do artigo 44.º, n.º 3, do Regulamento (UE) n.º 1308/2013\n\n1. Em derrogação do artigo 43.º do Regulamento (UE) n.º 1308/2013, a medida prevista no artigo 2.º do presente regulamento pode ser financiada ao abrigo de programas de apoio ao setor vitivinícola.\n\n2. Em derrogação do artigo 44.º, n.º 3, do Regulamento (UE) n.º 1308/2013, os Estados-Membros podem financiar com pagamentos nacionais até 50 % do apoio concedido ao abrigo do artigo 2.º do presente regulamento e do artigo 47.º do Regulamento (UE) n.º 1308/2013."
+  },
+  "60b2a1093d90a574": {
+   "fragment_id": "Artigo 2.º — Destilação temporária de vinho em casos de crise",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Destilação temporária de vinho em casos de crise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Destilação temporária de vinho em casos de crise\n\n1. Em conformidade com as condições estabelecidas no presente artigo, pode ser concedido apoio à destilação de vinho. Esse apoio deve ser proporcionado, devidamente justificado pelo Estado-Membro e orientado para os vinhos e as regiões de produção mais afetados, em conformidade com o segundo parágrafo. Pode ser aplicado a nível nacional ou regional para vinhos tintos ou rosados, separadamente ou para ambas as cores, que podem ser vinhos com denominação de origem protegida ou indicação geográfica protegida ou vinhos sem denominação de origem protegida nem indicação geográfica protegida.\n\nOs Estados-Membros que decidam aplicar esta medida devem demonstrar, para cada tipo e cor de vinho elegível, quer a nível regional quer a nível nacional, consoante o caso, a ocorrência de uma ou mais das seguintes circunstâncias de mercado:\n\na) Um aumento substancial das mais recentes existências de vinho disponíveis ao nível da produção, em comparação com a quantidade média de existências no mesmo período das cinco campanhas de comercialização anteriores ou em comparação com a quantidade média de existências no mesmo período nas cinco campanhas de comercialização anteriores, excluindo o valor mais elevado e o valor mais baixo;\n\nb) Uma diminuição substancial do preço médio de mercado ao nível da produção na campanha de comercialização em curso, em comparação com o preço médio das três campanhas de comercialização anteriores ou em comparação com o preço médio das cinco campanhas de comercialização anteriores, excluindo o valor mais elevado e o valor mais baixo das médias anuais;\n\nc) Uma diminuição substancial das vendas acumuladas no mercado ao nível da produção na campanha de comercialização em curso, em comparação com a média das três campanhas de comercialização anteriores no mesmo período ou em comparação com a média das cinco campanhas de comercialização anteriores, excluindo o valor mais elevado e o valor mais baixo das vendas acumuladas no mesmo período, e desde que essa diminuição não resulte de um decréscimo da produção.\n\n2. A fim de evitar distorções da concorrência, o álcool resultante da destilação apoiada nos termos do n.º 1 deve ser utilizado exclusivamente para fins industriais, nomeadamente produtos de desinfeção ou fármacos, ou para fins energéticos.\n\n3. Os beneficiários do apoio a que se refere o n.º 1 são as empresas vitivinícolas que produzem ou comercializam os produtos referidos no anexo VII, parte II, do Regulamento (UE) n.º 1308/2013, as organizações de produtores de vinho, as associações de dois ou mais produtores, as organizações interprofissionais ou os destiladores de produtos vitivinícolas.\n\n4. Só beneficiam de apoio os custos do abastecimento de vinho aos destiladores e a destilação do mesmo. O vinho a destilar ao abrigo desta medida deve ser originário da União e estar em conformidade com os requisitos de comercialização na União e com os cadernos de especificações aplicáveis aos vinhos com denominação de origem protegida ou indicação geográfica protegida.\n\n5. Os Estados-Membros podem estabelecer, nos seus programas de apoio nacionais, critérios de prioridade para os beneficiários. Esses critérios de prioridade devem basear-se na estratégia e nos objetivos específicos estabelecidos no programa de apoio e devem ser objetivos e não discriminatórios.\n\n6.\n\nOs Estados-Membros devem definir o procedimento aplicável ao pedido de apoio a que se refere o n.º 1, que deve contemplar regras sobre:\n\na) As pessoas singulares ou coletivas que podem apresentar pedidos;\n\nb) A apresentação e a seleção de pedidos, em que se indiquem, no mínimo, os prazos para a sua apresentação, para a apreciação da adequação de cada ação proposta e para a notificação dos resultados do procedimento de seleção aos operadores;\n\nc) A verificação do cumprimento das disposições relativas às ações elegíveis e aos custos a que se refere o n.º 4, assim como dos critérios de prioridade, se aplicáveis;\n\nd) A seleção dos pedidos, incluindo, no mínimo, a ponderação atribuída aos critérios de prioridade, se aplicáveis;\n\ne) O pagamento de adiantamentos e a constituição de garantias.\n\n7. Os Estados-Membros devem fixar o montante do apoio a conceder aos beneficiários com base em critérios objetivos e não discriminatórios. O montante do apoio deve ser fixado a nível regional ou nacional, consoante o caso, para cada tipo e cor do vinho elegível a que se refere o n.º 1. O montante do apoio não pode exceder 80 % do preço médio mensal mais baixo registado ao nível da produção na campanha de comercialização de 2022/2023 para cada tipo e cor do vinho elegível a que se aplica a medida, numa determinada região ou no território do Estado-Membro. Se os preços de mercado registados não estiverem disponíveis, podem ser estimados por uma autoridade competente do Estado-Membro em causa com base nos melhores dados disponíveis.\n\n8. Os artigos 1.º e 2.º, o artigo 43.º, os artigos 48.º a 54.º e o artigo 56.º, do Regulamento Delegado (UE) 2016/1149 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/3d2101b0-6f98-11ef-a8ba-01aa75ed71a1.0001.02/DOC_1#E0001)), assim como os artigos 1.º, 2.º e 3.º, os artigos 19.º a 23.º, os artigos 25.º a 31.º, o artigo 32.º, n.º 1, segundo parágrafo, e os artigos 33.º a 40.º do Regulamento de Execução (UE) 2016/1150 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/3d2101b0-6f98-11ef-a8ba-01aa75ed71a1.0001.02/DOC_1#E0002)) aplicam-se *mutatis mutandis* ao apoio à destilação de vinho em casos de crise.\n\n9. Até 31 de agosto de 2023, os Estados-Membros devem notificar à Comissão os tipos e a cor dos vinhos elegíveis e as regiões em que a medida é aplicável, bem como a sua justificação em conformidade com o n.º 1, os montantes da compensação a aplicar em conformidade com o n.º 7 e a respetiva justificação, e os volumes que se prevê destilar."
+  },
+  "f165fa6d5a643967": {
+   "fragment_id": "Artigo 3.º — Derrogação temporária do artigo 47.º, n.º 1, do Regulamento (UE) n.º 1308/2013 relativa à colheita em verde",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Derrogação temporária do artigo 47.º, n.º 1, do Regulamento (UE) n.º 1308/2013 relativa à colheita em verde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Derrogação temporária do artigo 47.º, n.º 1, do Regulamento (UE) n.º 1308/2013 relativa à colheita em verde\n\nEm derrogação do artigo 47.º, n.º 1, do Regulamento (UE) n.º 1308/2013, durante o exercício de 2023, entende-se por «colheita em verde» a destruição ou remoção total dos cachos de uvas antes da maturação, em toda a exploração ou apenas parte dela, desde que a colheita em verde seja efetuada em parcelas inteiras."
+  },
+  "16cf1c0ff2e9331a": {
+   "fragment_id": "Artigo 4.º — Derrogações temporárias do artigo 45.º, n.º 3, do artigo 46.º, n.º 6, do artigo 47.º, n.º 3, e do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013 relativas às taxas de financiamento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Derrogações temporárias do artigo 45.º, n.º 3, do artigo 46.º, n.º 6, do artigo 47.º, n.º 3, e do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013 relativas às taxas de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Derrogações temporárias do artigo 45.º, n.º 3, do artigo 46.º, n.º 6, do artigo 47.º, n.º 3, e do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013 relativas às taxas de financiamento\n\n1. Em derrogação do artigo 45.º, n.º 3, do Regulamento (UE) n.º 1308/2013, durante o exercício de 2023, a contribuição da União para as medidas de informação ou promoção não pode exceder 60 % das despesas elegíveis.\n\n2. Em derrogação do artigo 46.º, n.º 6, do Regulamento (UE) n.º 1308/2013, durante o exercício de 2023, a contribuição da União para os custos reais de reestruturação e reconversão de vinhas não pode exceder 60 %. Nas regiões menos desenvolvidas, a contribuição da União para os custos de reestruturação e reconversão não pode exceder 80 %.\n\n3. Em derrogação do artigo 47.º, n.º 3, segundo período, do Regulamento (UE) n.º 1308/2013, durante o exercício de 2023, o apoio concedido à colheita em verde não pode exceder 60 % da soma dos custos diretos da destruição ou remoção dos cachos de uvas e da perda de receitas decorrente dessa destruição ou remoção.\n\n4.\n\nEm derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013, durante o exercício de 2023, são aplicáveis à contribuição da União as seguintes taxas de ajuda máximas para os custos de investimento elegíveis:\n\na) 60 % nas regiões menos desenvolvidas;\n\nb) 50 % nas regiões que não sejam regiões menos desenvolvidas;\n\nc) 80 % nas regiões ultraperiféricas referidas no artigo 349.º do Tratado;\n\nd) 75 % nas ilhas menores do mar Egeu, definidas no artigo 1.º, n.º 2, do Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/3d2101b0-6f98-11ef-a8ba-01aa75ed71a1.0001.02/DOC_1#E0003))."
+  },
+  "f931d4b3fba595a6": {
+   "fragment_id": "Artigo 5.º — Derrogações temporárias do Regulamento Delegado (UE) 2016/1149",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Derrogações temporárias do Regulamento Delegado (UE) 2016/1149",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Derrogações temporárias do Regulamento Delegado (UE) 2016/1149\n\n1. Em derrogação do artigo 22.º do Regulamento Delegado (UE) 2016/1149, durante o exercício de 2023, a colheita em verde pode ser efetuada na mesma parcela em dois ou mais anos consecutivos.\n\n2.\n\nEm derrogação do artigo 53.º, n.º 1, do Regulamento Delegado (UE) 2016/1149, durante o exercício de 2023:\n\na) Os Estados-Membros podem permitir que as alterações efetuadas pelos beneficiários à operação inicialmente aprovada que ocorram até 15 de outubro de 2023 sejam executadas sem aprovação prévia das autoridades competentes, desde que não afetem a elegibilidade de qualquer parte da operação e os seus objetivos globais e desde que o montante total do apoio aprovado para a operação não seja excedido. Os beneficiários devem notificar essas alterações à autoridade competente nos prazos fixados pelos Estados-Membros;\n\nb) Os Estados-Membros podem, em casos devidamente justificados, permitir que os beneficiários apresentem alterações que ocorram até 15 de outubro de 2023 e que modifiquem o objetivo da operação global já aprovada ao abrigo das medidas referidas nos artigos 45.º, 46.º, 50.º e 51.º do Regulamento (UE) n.º 1308/2013, desde que sejam concluídas as ações individuais em curso que façam parte de uma operação global. Essas alterações devem ser notificadas pelos beneficiários à autoridade competente no prazo fixado pelos Estados-Membros e carecem de aprovação prévia dessa mesma autoridade.\n\n3. Em derrogação do artigo 54.º, n.º 1, do Regulamento Delegado (UE) 2016/1149, se uma alteração de uma operação já aprovada tiver sido notificada à autoridade competente e por ela aprovada em conformidade com o n.º 2, alínea b), do presente artigo, deve ser pago o apoio relativo às ações individuais já executadas ao abrigo dessa operação, desde que essas ações tenham sido integralmente executadas e sujeitas a controlos administrativos e, se for caso disso, no local, em conformidade com o capítulo IV, secção 1, do Regulamento de Execução (UE) 2016/1150 da Comissão ([^4^](http://publications.europa.eu/resource/cellar/3d2101b0-6f98-11ef-a8ba-01aa75ed71a1.0001.02/DOC_1#E0004)).\n\n4. Em derrogação do artigo 54.º, n.º 4, terceiro, quarto, quinto e sexto parágrafos, do Regulamento Delegado (UE) 2016/1149, durante o exercício de 2023, no que respeita aos pedidos de pagamento apresentados até 15 de outubro de 2023, caso as operações apoiadas ao abrigo do artigo 46.º do Regulamento (UE) n.º 1308/2013 não sejam executadas na superfície total para a qual foi pedido o apoio, os Estados-Membros devem calcular o montante do apoio a pagar com base na superfície determinada pelos controlos no local após a execução."
+  },
+  "39954338139d94fd": {
+   "fragment_id": "Artigo 6.º — Aplicação das medidas de mercado excecionais de caráter temporário",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Aplicação das medidas de mercado excecionais de caráter temporário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicação das medidas de mercado excecionais de caráter temporário\n\nOs artigos 1.º, 2.º e 3.º são aplicáveis às operações selecionadas pelas autoridades competentes dos Estados-Membros a partir da data de entrada em vigor do presente regulamento e executadas, o mais tardar, em 15 de outubro de 2023.\n\nOs artigos 4.º e 5.º são aplicáveis às operações que começaram a ser executadas no exercício de 2023."
+  },
+  "55e2cb47b47e2cba": {
+   "fragment_id": "Artigo 7.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "0c6eef288588cf55": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3d2101b0-6f98-11ef-a8ba-01aa75ed71a1.0001.02/DOC_1#src.E0001)) Regulamento Delegado (UE) 2016/1149 da Comissão, de 15 de abril de 2016, que complementa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que diz respeito aos programas de apoio nacionais no setor vitivinícola e que altera o Regulamento (CE) n.º 555/2008 da Comissão (JO L 190 de 15.7.2016, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3d2101b0-6f98-11ef-a8ba-01aa75ed71a1.0001.02/DOC_1#src.E0002)) Regulamento de Execução (UE) 2016/1150 da Comissão, de 15 de abril de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere aos programas de apoio nacionais ao setor vitivinícola (JO L 190 de 15.7.2016, p. 23).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3d2101b0-6f98-11ef-a8ba-01aa75ed71a1.0001.02/DOC_1#src.E0003)) Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho, de 13 de março de 2013, que estabelece medidas específicas no domínio agrícola a favor das ilhas menores do mar Egeu e revoga o Regulamento (CE) n.º 1405/2006 do Conselho (JO L 78 de 20.3.2013, p. 41).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3d2101b0-6f98-11ef-a8ba-01aa75ed71a1.0001.02/DOC_1#src.E0004)) Regulamento de Execução (UE) 2016/1150 da Comissão, de 15 de abril de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere aos programas de apoio nacionais ao setor vitivinícola (JO L 190 de 15.7.2016, p. 23)."
+  }
+ }
+}

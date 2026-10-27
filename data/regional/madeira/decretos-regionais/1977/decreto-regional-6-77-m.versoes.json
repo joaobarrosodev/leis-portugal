@@ -1,0 +1,334 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:139070:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regional/1977-184002955",
+ "dre_path": "/dr/detalhe/decreto-regional/6-1977-139070",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1977-04-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "183878571",
+    "183878523",
+    "183878524",
+    "183878525",
+    "183878526",
+    "183878527",
+    "183878528",
+    "183878529",
+    "183878530",
+    "183878531",
+    "183878532",
+    "183878533"
+   ]
+  },
+  {
+   "date": "1986-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:228596:por",
+     "title": "Decreto Legislativo Regional n.º 11/86/M",
+     "published": "1986-06-27",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/11-1986-228596"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "183878522",
+    "183878523",
+    "183878524",
+    "183878525",
+    "183878526",
+    "183878527",
+    "183878528",
+    "183878529",
+    "183878570",
+    "183878531",
+    "183878532",
+    "183878533",
+    "183878534"
+   ]
+  },
+  {
+   "date": "2022-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184002943:por",
+     "title": "Decreto Legislativo Regional n.º 11/2022/M",
+     "published": "2022-05-26",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/11-2022-184002943"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "183878571",
+    "183878572",
+    "183878573",
+    "183878574",
+    "184052975",
+    "184052976",
+    "184052977",
+    "184052978",
+    "184052979",
+    "184052980",
+    "184052981",
+    "184052982",
+    "184052983"
+   ]
+  }
+ ],
+ "fragments": {
+  "183878571": {
+   "fragment_id": "184002956",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-05-27",
+   "changed_by": [],
+   "markdown": "Decreto Regional n.º 6/77/M\n\n1. A divulgação dos actos dos órgãos de Governo próprio da Região Autónoma da Madeira é indispensável para garantir a genuinidade do processo democrático.\n\nPor outro lado, os actos que se reflectem na esfera jurídica dos cidadãos, criando direitos ou obrigações, carecem também de divulgação, para efeito de se poder garantir a sua obrigatoriedade.\n\n2. Pelo presente diploma estabelecem-se as regras sobre a publicação e entrada em vigor dos actos regionais e cria-se o Jornal Oficial da Região Autónoma da Madeira.\n\nNeste deverão ser incluídos também os actos dos Órgãos de Soberania e de outras entidades constitucionais que especificamente digam respeito à Região ou que contenham disposições específicas respeitantes à mesma.\n\nAssim, a Assembleia Regional decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:"
+  },
+  "183878523": {
+   "fragment_id": "184002957",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A existência jurídica dos diplomas regionais que não dependa da publicação no Diário da República verifica-se com a sua publicação no Jornal Oficial da Região.\n\n2. A data dos diplomas regionais é a da publicação que lhes conferir existência jurídica."
+  },
+  "183878524": {
+   "fragment_id": "184002958",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os diplomas referidos no n.º 1 do artigo anterior entram em vigor no dia neles determinado ou, na falta de determinação, no décimo dia após a sua publicação.\n\n2. Para contagem deste prazo, o dia da publicação dos diplomas não se considera."
+  },
+  "183878525": {
+   "fragment_id": "184002959",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. No início de cada diploma indicar-se-á o órgão de que emana e a disposição da Constituição, do estatuto ou da lei ao abrigo da qual é publicado.\n\n2. Para os decretos dos órgãos regionais a fórmula será, conforme os casos: «A Assembleia Regional decreta, nos termos do artigo 229.º, n.º 1, alínea a) [ou alínea b)], da Constituição, o seguinte:», ou «O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b) [ou alínea d)], da Constituição, o seguinte:»."
+  },
+  "183878526": {
+   "fragment_id": "184002960",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Tratando-se de decretos da Assembleia Regional, após o texto seguir-se-ão, por ordem, a menção da data de aprovação, a assinatura do Presidente da Assembleia Regional, a menção da data da assinatura do Ministro da República e a assinatura deste.\n\n2. Tratando-se de decreto do Governo Regional, após o texto seguir-se-ão, por ordem, a menção da aprovação em plenário do Governo Regional e a respectiva data, a assinatura do Presidente do Governo, a menção da data da assinatura pelo Ministro da República e a assinatura deste.\n\n3. As resoluções da Assembleia Regional deverão também ser publicadas no Jornal Oficial. Após o texto, seguir-se-ão, por ordem, a menção da data de aprovação e a assinatura do Presidente da Assembleia Regional.\n\n4. Igualmente, as resoluções do Governo Regional deverão ser publicadas no Jornal Oficial. Após o texto, seguir-se-ão, por ordem, a menção da data de aprovação e a assinatura do Presidente do Governo Regional."
+  },
+  "183878527": {
+   "fragment_id": "184002961",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÉ criado o órgão oficial da Região Autónoma da Madeira, que terá o nome de Jornal Oficial da Região Autónoma da Madeira."
+  },
+  "183878528": {
+   "fragment_id": "184002962",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA responsabilidade pela edição do Jornal Oficial, incluindo a determinação da sua periodicidade, cabe à Presidência do Governo Regional."
+  },
+  "183878529": {
+   "fragment_id": "184002963",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O Jornal Oficial terá as séries que forem fixadas em regulamento.\n\n2. Determinar-se-ão também em regulamento os diplomas e actos a incluir em cada uma das séries, bem como as condições da respectiva publicação e eventual rectificação."
+  },
+  "183878530": {
+   "fragment_id": "184002964",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSão publicados no Jornal Oficial:\n\na) Os actos dos Órgãos de Soberania da República, da Comissão Consultiva para os Assuntos das Regiões Autónomas e de outras entidades constitucionais que especificamente se refiram à Região;\n\nb) Os decretos do Ministro da República na Região;\n\nc) Os decretos, resoluções e moções da Assembleia Regional;\n\nd) Os decretos regulamentares e as resoluções do Governo Regional;\n\ne) As portarias que contenham disposições genéricas e os despachos normativos."
+  },
+  "183878531": {
+   "fragment_id": "184002965",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nÉ obrigatória a assinatura do Jornal Oficial por parte de todos os serviços, institutos públicos, empresas nacionalizadas que exerçam sua actividade exclusivamente na Região, empresas regionalizadas e autarquias locais existentes na Região."
+  },
+  "183878532": {
+   "fragment_id": "184002966",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs diplomas já publicados à data da entrada em vigor deste decreto serão incluídos em suplemento ao n.º 1 do Jornal Oficial, mantendo as datas respectivas."
+  },
+  "183878533": {
+   "fragment_id": "184002967",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nEste diploma entra em vigor na data da sua publicação."
+  },
+  "183878522": {
+   "fragment_id": "184002956",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regional n.º 6/77/M\n\n1. A divulgação dos actos dos órgãos de Governo próprio da Região Autónoma da Madeira é indispensável para garantir a genuinidade do processo democrático.\n\nPor outro lado, os actos que se reflectem na esfera jurídica dos cidadãos, criando direitos ou obrigações, carecem também de divulgação, para efeito de se poder garantir a sua obrigatoriedade.\n\n2. Pelo presente diploma estabelecem-se as regras sobre a publicação e entrada em vigor dos actos regionais e cria-se o Jornal Oficial da Região Autónoma da Madeira.\n\nNeste deverão ser incluídos também os actos dos Órgãos de Soberania e de outras entidades constitucionais que especificamente digam respeito à Região ou que contenham disposições específicas respeitantes à mesma.\n\nAssim, a Assembleia Regional decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:"
+  },
+  "183878570": {
+   "fragment_id": "184002964",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1986-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/86/M - Diário da República n.º 145/1986, Série I de 1986-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1986-228596), em vigor a partir de 1986-06-28"
+   ],
+   "markdown": "###### Artigo 8.º\n\nSão publicados no Jornal Oficial:\n\na) Os actos dos Órgãos de Soberania da República, da Comissão Consultiva para os Assuntos das Regiões Autónomas e de outras entidades constitucionais que especificamente se refiram à Região;\n\nb) Os decretos do Ministro da República na Região;\n\nc) Os decretos, resoluções e moções da Assembleia Regional;\n\nd) Os decretos regulamentares e as resoluções do Governo Regional;\n\ne) As portarias que contenham disposições genéricas e os despachos normativos;\n\nf) Os actos constitutivos das associações, fundações e sociedades civis e comerciais e suas alterações;\n\ng) Os demais actos determinados por portaria do Governo Regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/86/M - Diário da República n.º 145/1986, Série I de 1986-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1986-228596), em vigor a partir de 1986-06-28"
+  },
+  "183878534": {
+   "fragment_id": "184002968",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária de 15 de Março de 1977.\n\nO Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.\n\nAssinado em 29 de Março de 1977.\n\nO Ministro da República, Lino Dias Miguel."
+  },
+  "183878572": {
+   "fragment_id": "184002957",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. A existência jurídica dos diplomas regionais que não dependa da publicação no Diário da República verifica-se com a sua publicação no Jornal Oficial da Região.\n\n2. A data dos diplomas regionais é a da publicação que lhes conferir existência jurídica.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+  },
+  "183878573": {
+   "fragment_id": "184002958",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Os diplomas referidos no n.º 1 do artigo anterior entram em vigor no dia neles determinado ou, na falta de determinação, no décimo dia após a sua publicação.\n\n2. Para contagem deste prazo, o dia da publicação dos diplomas não se considera.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+  },
+  "183878574": {
+   "fragment_id": "184002959",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1. No início de cada diploma indicar-se-á o órgão de que emana e a disposição da Constituição, do estatuto ou da lei ao abrigo da qual é publicado.\n\n2. Para os decretos dos órgãos regionais a fórmula será, conforme os casos: «A Assembleia Regional decreta, nos termos do artigo 229.º, n.º 1, alínea a) [ou alínea b)], da Constituição, o seguinte:», ou «O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b) [ou alínea d)], da Constituição, o seguinte:».\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+  },
+  "184052975": {
+   "fragment_id": "184002960",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. Tratando-se de decretos da Assembleia Regional, após o texto seguir-se-ão, por ordem, a menção da data de aprovação, a assinatura do Presidente da Assembleia Regional, a menção da data da assinatura do Ministro da República e a assinatura deste.\n\n2. Tratando-se de decreto do Governo Regional, após o texto seguir-se-ão, por ordem, a menção da aprovação em plenário do Governo Regional e a respectiva data, a assinatura do Presidente do Governo, a menção da data da assinatura pelo Ministro da República e a assinatura deste.\n\n3. As resoluções da Assembleia Regional deverão também ser publicadas no Jornal Oficial. Após o texto, seguir-se-ão, por ordem, a menção da data de aprovação e a assinatura do Presidente da Assembleia Regional.\n\n4. Igualmente, as resoluções do Governo Regional deverão ser publicadas no Jornal Oficial. Após o texto, seguir-se-ão, por ordem, a menção da data de aprovação e a assinatura do Presidente do Governo Regional.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+  },
+  "184052976": {
+   "fragment_id": "184002961",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+   ],
+   "markdown": "###### Artigo 5.º\n\nÉ criado o órgão oficial da Região Autónoma da Madeira, que terá o nome de Jornal Oficial da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+  },
+  "184052977": {
+   "fragment_id": "184002962",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+   ],
+   "markdown": "###### Artigo 6.º\n\nA responsabilidade pela edição do Jornal Oficial, incluindo a determinação da sua periodicidade, cabe à Presidência do Governo Regional.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+  },
+  "184052978": {
+   "fragment_id": "184002963",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1. O Jornal Oficial terá as séries que forem fixadas em regulamento.\n\n2. Determinar-se-ão também em regulamento os diplomas e actos a incluir em cada uma das séries, bem como as condições da respectiva publicação e eventual rectificação.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+  },
+  "184052979": {
+   "fragment_id": "184002964",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/86/M - Diário da República n.º 145/1986, Série I de 1986-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1986-228596), em vigor a partir de 1986-06-28"
+   ],
+   "markdown": "###### Artigo 8.º\n\nSão publicados no Jornal Oficial:\n\na) Os actos dos Órgãos de Soberania da República, da Comissão Consultiva para os Assuntos das Regiões Autónomas e de outras entidades constitucionais que especificamente se refiram à Região;\n\nb) Os decretos do Ministro da República na Região;\n\nc) Os decretos, resoluções e moções da Assembleia Regional;\n\nd) Os decretos regulamentares e as resoluções do Governo Regional;\n\ne) As portarias que contenham disposições genéricas e os despachos normativos;\n\nf) Os actos constitutivos das associações, fundações e sociedades civis e comerciais e suas alterações;\n\ng) Os demais actos determinados por portaria do Governo Regional.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/86/M - Diário da República n.º 145/1986, Série I de 1986-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1986-228596), em vigor a partir de 1986-06-28"
+  },
+  "184052980": {
+   "fragment_id": "184002965",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+   ],
+   "markdown": "###### Artigo 9.º\n\nÉ obrigatória a assinatura do Jornal Oficial por parte de todos os serviços, institutos públicos, empresas nacionalizadas que exerçam sua actividade exclusivamente na Região, empresas regionalizadas e autarquias locais existentes na Região.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+  },
+  "184052981": {
+   "fragment_id": "184002966",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+   ],
+   "markdown": "###### Artigo 10.º\n\nOs diplomas já publicados à data da entrada em vigor deste decreto serão incluídos em suplemento ao n.º 1 do Jornal Oficial, mantendo as datas respectivas.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+  },
+  "184052982": {
+   "fragment_id": "184002967",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+   ],
+   "markdown": "###### Artigo 11.º\n\nEste diploma entra em vigor na data da sua publicação.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+  },
+  "184052983": {
+   "fragment_id": "184002968",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+   ],
+   "markdown": "Aprovado em sessão plenária de 15 de Março de 1977.\n\nO Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.\n\nAssinado em 29 de Março de 1977.\n\nO Ministro da República, Lino Dias Miguel.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-184002943), em vigor a partir de 2022-05-27"
+  }
+ }
+}

@@ -1,0 +1,275 @@
+---
+schema_version: '1.0'
+id: pt:dre:482628:por
+title: Decreto-Lei n.º 245/2003
+short_title: null
+summary: Transpõe para a ordem jurídica nacional a Directiva n.º 2001/78/CE, da Comissão, de 13 de Setembro, alterando os
+  anexos relativos aos modelos dos concursos para os contratos relativos à adjudicação de empreitadas de obras públicas constantes
+  do Decreto-Lei n.º 59/99, de 2 de Março, os anexos relativos aos modelos dos concursos para aquisição de bens móveis e serviços
+  constantes do Decreto-Lei n.º 197/99, de 8 de Junho, e os anexos relativos aos modelos dos concursos para a celebração de
+  contratos nos sectores da água, energia, transportes e telecomunicações constantes do Decreto-Lei n.º 223/2001, de 9 de
+  Agosto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Habitação
+proposing_entity: null
+official_number: 245/2003
+official_date: null
+publication_date: '2003-10-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/2003, Série I-A de 2003-10-07
+  number: '232'
+  series: I
+  supplement: null
+  pages: 6606 - 6624
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/10/232a00/66066624.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/245/2003/10/07/p/dre/pt/html
+  oj: null
+  dre: '482628'
+  dre_path: /dr/detalhe/decreto-lei/245-2003-482628
+  internal: pt:dre:482628:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2003-482628
+  metadata_url: https://data.dre.pt/eli/dec-lei/245/2003/10/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2003-482628
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 004e66755f2f98ec5aab87503dba4661625be3326b2b6603dea18b9c0df604f2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Abastecimento de Água
+- Adjudicação de Obras Públicas
+- Adjudicação por Concurso Público
+- Aproximação das Legislações
+- Aquisição de Bens e Serviços
+- Comunicações
+- Concurso Internacional
+- Concurso Público
+- Contrato de Concessão
+- Distribuição de Energia Elétrica
+- Empreitada de Obras Públicas
+- Governo Electrónico
+- Ministério das Finanças
+- Ministério das Obras Públicas Transportes e Habitação
+- Publicitação
+- Secretaria Geral
+- Serviço Público
+relationships:
+- type: amended_by
+  target: pt:dre:1725651:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:606308:por
+  label: "Alterados os arts. 2º e 5º e os anexos I a XII e revogado o art. 6º pelo DEC LEI.43/2005.22.02.2005.MOPTC, DR.IS-A\
+    \ [37] de 22.02.2005, que o republica na íntegra com todas as alterações.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2005-606308
+  date: '2005-02-22'
+- type: amended_by
+  target: pt:dre:537259:por
+  label: "Estabelecida, em determinados casos, a não aplicação ao sector agrícola e desenvolvimento rural do regime aprovado\
+    \ pelo Decreto-Lei 59/99, na redacção do presente diploma, pelo DEC LEI.130/2006.07.07.2006.MADRP, DR.IS [130] de 07.07.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2006-537259
+  date: '2006-07-07'
+- type: cites
+  target: celex:31992L0050
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/50/oj
+- type: cites
+  target: celex:31993L0036
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/36/oj
+- type: cites
+  target: celex:31993L0037
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/37/oj
+- type: cites
+  target: celex:31993L0038
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/38/oj
+- type: cites
+  target: celex:31997L0052
+  label: null
+  source: http://data.europa.eu/eli/dir/1997/52/oj
+- type: cites
+  target: celex:31998L0004
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/4/oj
+- type: cites
+  target: celex:32001L0078
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/78/oj
+- type: repealed_by
+  target: pt:dre:248178:por
+  label: "Revogado, a partir de 30.07.2008, pelo DEC LEI.18/2008.29.01.2008.MOPTC, DR.IS [20] de 29.01.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2008-248178
+  date: '2008-01-29'
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:39:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 245/2003
+
+de 7 de Outubro
+
+No quadro da transposição para o direito interno português das directivas comunitárias sobre contratos públicos e por força da Directiva n.º [2001/78/CE](https://data.europa.eu/eli/dir/2001/78/oj?locale=pt), da Comissão, de 13 de Setembro, rectificada em 9 de Agosto de 2002, relativa à utilização dos formulários tipo aquando da publicação dos anúncios de concursos públicos, torna-se necessário substituir os modelos normalizados de anúncios de concurso para os contratos públicos de fornecimento de bens e serviços, empreitadas de obras públicas, bem como os relativos aos sectores da água, da energia, dos transportes e das telecomunicações, que figuram nos anexos aos Decretos-Leis n.os 97/99, de 8 de Junho, 59/99, de 2 de Março, e 223/2001, de 9 de Agosto.
+
+O Decreto-Lei n.º 197/99, de 8 de Junho, que aprovou o regime da realização de despesas públicas com locação e aquisição de bens e serviços, bem como da contratação pública relativa à locação e aquisição de bens móveis e de serviços, transpôs para a ordem jurídica interna a Directiva n.º [93/36/CEE](https://data.europa.eu/eli/dir/1993/36/oj?locale=pt), do Conselho, de 14 de Junho, com as alterações introduzidas pela Directiva n.º [97/52/CEE](https://data.europa.eu/eli/dir/1997/52/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de Outubro.
+
+Por sua vez, o Decreto-Lei n.º 59/99, de 2 de Março, que aprovou o regime jurídico das empreitadas de obras públicas, procedeu à adequada transposição da Directiva n.º [93/37/CEE](https://data.europa.eu/eli/dir/1993/37/oj?locale=pt), do Conselho, de 14 de Junho, com as alterações introduzidas pela Directiva n.º [97/52/CEE](https://data.europa.eu/eli/dir/1997/52/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de Outubro.
+
+Por último, o Decreto-Lei n.º 223/2001, de 9 de Agosto, transpôs para o ordenamento jurídico nacional as regras comunitárias referentes aos processos de celebração de contratos nos sectores da água, energia, transportes e telecomunicações, considerando as disposições constantes da Directiva n.º [93/38/CEE](https://data.europa.eu/eli/dir/1993/38/oj?locale=pt), do Conselho, de 14 de Junho, com as alterações introduzidas pela Directiva n.º [98/4/CE](https://data.europa.eu/eli/dir/1998/4/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de Fevereiro.
+
+As Directivas n.os [92/50/CEE](https://data.europa.eu/eli/dir/1992/50/oj?locale=pt), [93/36/CEE](https://data.europa.eu/eli/dir/1993/36/oj?locale=pt), [93/37/CEE](https://data.europa.eu/eli/dir/1993/37/oj?locale=pt) e [93/38/CEE](https://data.europa.eu/eli/dir/1993/38/oj?locale=pt) determinam a obrigação de publicar anúncios de concurso no Jornal Oficial das Comunidades Europeias relativamente aos procedimentos que recaem sob o seu âmbito de aplicação e estabelecem modelos de anúncios que devem ser utilizados pelas entidades adjudicantes.
+
+Com o presente diploma transpõe-se para a ordem jurídica interna a Directiva n.º [2001/78/CE](https://data.europa.eu/eli/dir/2001/78/oj?locale=pt), da Comissão, de 13 de Setembro, e substituem-se os modelos dos anúncios constantes dos anexos das referidas directivas e dos Decretos-Leis n.os 197/99, de 8 de Junho, 59/99, de 2 de Março, e 223/2001, de 9 de Agosto, por formulários tipo, a fim de simplificar a aplicação das regras de publicidade, adaptando-as aos meios electrónicos, desenvolvidos no âmbito do Sistema de Informação sobre os Contratos Públicos (SIMAP), tendo em vista uma maior transparência e clareza na contratação pública.
+
+Foram ouvidos a Associação Nacional dos Municípios Portugueses, as associações representativas do sector e os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma transpõe para o ordenamento jurídico interno a Directiva n.º [2001/78/CE](https://data.europa.eu/eli/dir/2001/78/oj?locale=pt), da Comissão, de 13 de Setembro, rectificada em 9 de Agosto de 2002, relativa à utilização de formulários tipo aquando da publicação dos anúncios de procedimentos, que substitui o anexo IV da Directiva n.º [93/36/CEE](https://data.europa.eu/eli/dir/1993/36/oj?locale=pt), do Conselho, os anexos IV, V e VI da Directiva n.º [93/37/CEE](https://data.europa.eu/eli/dir/1993/37/oj?locale=pt), do Conselho, os anexos III e IV da Directiva n.º [92/50/CEE](https://data.europa.eu/eli/dir/1992/50/oj?locale=pt), do Conselho, com a última redacção que lhes foi dada pela Directiva n.º [97/52/CEE](https://data.europa.eu/eli/dir/1997/52/oj?locale=pt), e os anexos XII a XV, XVII e XVIII da Directiva n.º [93/38/CEE](https://data.europa.eu/eli/dir/1993/38/oj?locale=pt), do Conselho, com a última redacção que lhe foi dada pela Directiva n.º [98/4/CE](https://data.europa.eu/eli/dir/1998/4/oj?locale=pt).
+
+###### Artigo 2.º — Formulários tipo
+
+1 - Pelo presente diploma são aprovados os formulários tipo a utilizar aquando da publicação dos anúncios de procedimentos, que se publicam em anexo ao presente decreto-lei, dele fazendo parte integrante.
+
+2 - Os formulários tipo referidos no número anterior são os seguintes:
+
+a) Anexo I - anúncio de pré-informação;
+
+b) Anexo II - anúncio de abertura de procedimento;
+
+c) Anexo III - anúncio de adjudicação do contrato;
+
+d) Anexo IV - concessão de obras públicas;
+
+e) Anexo V - anúncio de concurso (contrato a adjudicar por um concessionário);
+
+f) Anexo VI - anúncio periódico indicativo - sectores especiais (quando não se trate de um apelo à concorrência);
+
+g) Anexo VII - anúncio periódico indicativo - sectores especiais (quando se trate de um apelo à concorrência);
+
+h) Anexo VIII - anúncio de concurso - sectores especiais;
+
+i) Anexo IX - sistema de qualificação - sectores especiais;
+
+j) Anexo X - anúncio de adjudicação do contrato - sectores especiais;
+
+l) Anexo XI - anúncio de concurso de concepção;
+
+m) Anexo XII - resultado do concurso de concepção.
+
+3 - As Secretarias-Gerais dos Ministérios das Finanças e das Obras Públicas, Transportes e Habitação devem fazer constar dos sites dos respectivos Ministérios, na Internet, os suportes correspondentes aos formulários tipo, para consulta e cópia.
+
+###### Artigo 3.º — Alterações ao Decreto-Lei n.º 197/99, de 8 de Junho
+
+Os anexos ao Decreto-Lei n.º 197/99, de 8 de Junho, são substituídos do seguinte modo:
+
+a) Os anexos II, III e IV a que se referem, respectivamente, o n.º 1 do artigo 87.º, o artigo 115.º e o n.º 1 do artigo 137.º são substituídos pelo texto do anexo II do presente diploma;
+
+b) O anexo VIII a que se refere o n.º 1 do artigo 169.º é substituído pelo texto do anexo XI do presente diploma;
+
+c) O anexo IX a que se refere o n.º 2 do artigo 169.º é substituído pelo texto do anexo XII do presente diploma;
+
+d) O anexo X a que se refere o n.º 1 do artigo 195.º é substituído pelo texto do anexo I do presente diploma;
+
+e) O anexo XI a que se refere o n.º 1 do artigo 196.º, é substituído pelo texto do anexo III do presente diploma.
+
+###### Artigo 4.º — Alterações ao Decreto-Lei n.º 59/99, de 2 de Março
+
+Os anexos ao Decreto-Lei n.º 59/99, de 2 de Março, são substituídos da seguinte forma:
+
+a) O modelo n.º 1 do anexo IV a que se referem os n.os 7 e 8 do artigo 52.º, o n.º 3 do artigo 83.º e o n.º 2 do artigo 125.º é substituído pelo texto do anexo I do presente diploma;
+
+b) São substituídos pelo texto do anexo II do presente diploma o modelo n.º 2 a que se refere o artigo 80.º, o modelo n.º 3 a que se refere o artigo 123.º e o modelo n.º 4 a que se refere o artigo 135.º, todos do anexo IV;
+
+c) O modelo n.º 5 do anexo IV a que se refere a alínea b) do n.º 9 do artigo 52.º é substituído pelo texto do anexo III do presente diploma;
+
+d) O modelo n.º 1 do anexo V a que se refere o n.º 2 do artigo 124.º e o modelo n.º 2 a que se refere o n.º 1 do artigo 130.º são substituídos pelo texto do anexo II do presente diploma;
+
+e) O anexo VI a que se refere o artigo 244.º é substituído pelo texto do anexo IV do presente diploma;
+
+f) O anexo VII a que se refere o n.º 1 do artigo 252.º é substituído pelo texto do anexo V do presente diploma.
+
+###### Artigo 5.º — Alterações ao Decreto-Lei n.º 223/2001, de 9 de Agosto
+
+Os anexos ao Decreto-Lei n.º 223/2001, de 9 de Agosto, são substituídos do seguinte modo:
+
+a) O anexo III a que se refere a alínea a) do n.º 3 do artigo 19.º é substituído pelo texto do anexo VIII do presente diploma;
+
+b) O anexo IV a que se refere a alínea b) do n.º 3 do artigo 19.º é substituído pelo texto dos anexos VI e VII do presente diploma;
+
+c) O anexo V a que se refere a alínea c) do n.º 3 do artigo 19.º é substituído pelo texto do anexo VIII do presente diploma;
+
+d) O anexo VI a que se refere a alínea d) do n.º 3 do artigo 19.º é substituído pelo texto do anexo XI do presente diploma;
+
+e) O anexo VIII a que se refere o artigo 21.º é substituído pelo texto do anexo X do presente diploma;
+
+f) O anexo IX a que se refere o artigo 38.º é substituído pelo texto do anexo XII do presente diploma.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação, não se aplicando aos concursos e procedimentos iniciados em data anterior à da sua vigência.
+
+Visto e aprovado em Conselho de Ministros de 13 de Junho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - José Luís Fazenda Arnaut Duarte - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
+
+Promulgado em 11 de Setembro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 15 de Setembro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+[(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/232a00/66066624.pdf)

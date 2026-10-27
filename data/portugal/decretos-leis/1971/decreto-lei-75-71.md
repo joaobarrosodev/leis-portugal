@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:445498:por
+title: Decreto-Lei n.º 75/71
+short_title: null
+summary: Determina que passem a ter a categoria de 1.ª classe os motoristas afectos ao serviço do presidente do Supremo Tribunal
+  de Justiça e dos membros do Governo - Aumenta os quadros do pessoal dos Gabinetes dos Ministros das Corporações e Previdência
+  Social e da Saúde e Assistência, respectivamente, de dois motoristas de 1.ª classe e dois contínuos de 2.ª classe e de um
+  motorista de 1.ª classe e um contínuo de 2.ª classe
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho e Ministério das Finanças
+proposing_entity: null
+official_number: 75/71
+official_date: null
+publication_date: '1971-03-18'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 65/1971, Série I de 1971-03-18
+  number: '65'
+  series: I
+  supplement: null
+  pages: 340 - 340
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/03/06500/03400340.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '445498'
+  dre_path: /dr/detalhe/decreto-lei/75-1971-445498
+  internal: pt:dre:445498:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1971-445498
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1971-445498
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:21:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9c58ca56ac43921c6347879bc33b8e0872b24ed6ddc643c03cd766bfee13534e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Condutor
+- Criação de Lugares
+- Ministro da Saúde e Assistência
+- Ministro das Corporações e Previdência Social
+- Pessoal Auxiliar
+- Presidente do Supremo Tribunal de Justiça
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:146574:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:21:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 75/71
+
+de 18 de Março
+
+Convindo uniformizar as categorias de alguns motoristas, de acordo com o disposto no artigo 46.º do [Decreto-Lei n.º 622/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1970-146574), de 18 de Dezembro;
+
+Considerando a actual composição dos Gabinetes dos Ministros das Corporações e Previdência Social e da Saúde e Assistência;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Têm a categoria da 1.ª classe os motoristas afectos ao serviço do presidente do Supremo Tribunal de Justiça e dos membros do Governo.
+
+Art. 2.º Os quadros do pessoal dos Gabinetes dos Ministros das Corporações e Previdência Social e da Saúde e Assistência são aumentados, respectivamente, de dois motoristas de 1.ª classe e dois contínuos de 2.ª classe e de um motorista de 1.ª classe e um contínuo de 2.ª classe.
+
+Art. 3.º Os motoristas que actualmente se encontrem ao serviço das entidades referidas no artigo 1.º serão providos na 1.ª classe, independentemente de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+Promulgado em 10 de Março de 1971.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

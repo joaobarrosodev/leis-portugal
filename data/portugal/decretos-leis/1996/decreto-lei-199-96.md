@@ -1,0 +1,504 @@
+---
+schema_version: '1.0'
+id: pt:dre:226202:por
+title: Decreto-Lei n.º 199/96
+short_title: null
+summary: Executa as autorizações legislativas concedidas ao Governo através da alínea f) do n.º 1 do artigo 34.º e da alínea
+  a) do artigo 42.º da Lei n.º 10-B/96, de 23 de Março, e transpõe a Directiva n.º 94/5/CE, do Conselho, de 14 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 199/96
+official_date: null
+publication_date: '1996-10-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 242/1996, Série I-A de 1996-10-18
+  number: '242'
+  series: I
+  supplement: null
+  pages: 3658 - 3662
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/10/242a00/36583662.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-01-01'
+version_history:
+  file: decreto-lei-199-96.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1996-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-01-05'
+    amending: pt:dre:276218:por
+    amending_title: Decreto-Lei n.º 257-A/96
+    changes:
+    - Altera Artigo 17.º
+  - date: '1998-01-13'
+    amending: pt:dre:222872:por
+    amending_title: Lei n.º 4/98
+    changes:
+    - Altera Artigo 17.º
+  - date: '2013-01-01'
+    amending: pt:dre:174548:por
+    amending_title: Decreto-Lei n.º 197/2012
+    changes:
+    - Altera Artigo 6.º
+  - date: '2025-03-29'
+    amending: pt:dre:912066242:por
+    amending_title: Decreto-Lei n.º 33/2025
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '2026-01-01'
+    amending: pt:dre:993270096:por
+    amending_title: Lei n.º 73-A/2025
+    changes:
+    - Altera Artigo 15.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/199/1996/p/cons/20251230/pt/html
+  oj: null
+  dre: '226202'
+  dre_path: /dr/detalhe/decreto-lei/199-1996-226202
+  internal: pt:dre:226202:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1996-226202
+  metadata_url: https://data.dre.pt/eli/dec-lei/199/1996/p/cons/20251230/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-835637613
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-835637613
+  retrieved_at: '2026-10-22T13:01:35Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 45a8100a42f06dfe56445ba849860ac1aa59d143925914f9e6c7d8a892485440
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:01:35Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-199-96.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Obra de Arte
+- BENS em Segunda MÃO
+- Código do IVA
+- Comércio de ARTE
+- Importação
+- IVA
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:276218:por
+  label: Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-a-1996-276218
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:222872:por
+  label: Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/4-1998-222872
+  date: '1998-01-12'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:912066242:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2025-912066242
+  date: '2025-03-24'
+- type: amended_by
+  target: pt:dre:993270096:por
+  label: Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096
+  date: '2025-12-30'
+- type: cites
+  target: celex:31994L0005
+  label: null
+  source: http://data.europa.eu/eli/dir/1994/5/oj
+- type: transposes
+  target: celex:31994L0005
+  label: null
+  source: null
+article_structure:
+  article_count: 26
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:01:35Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 199/96
+
+Decreto-Lei n.º 199/96
+
+de 18 de Outubro
+
+Ao abrigo da autorização legislativa constante da alínea f) do n.º 1 do artigo 34.º e da alínea a) do artigo 42.º da Lei n.º 10-B/96, de 23 de Março, que aprovou o Orçamento do Estado para 1996, vem o presente diploma proceder a alterações ao Código do Imposto sobre o Valor Acrescentado e respectiva legislação complementar.
+
+Este diploma procede, em matéria de harmonização comunitária, à transposição para a ordem jurídica nacional da Directiva n.º 94/5/CE, do Conselho, de 14 de Fevereiro de 1994, relativa à tributação, em imposto sobre o valor acrescentado, das transmissões de bens em segunda mão, objectos de arte, de colecção e antiguidades.
+
+O regime agora instituído decorrente da transposição, no essencial idêntico ao que já vigorava para o mesmo tipo de transacções, tem como finalidade eliminar ou atenuar a dupla tributação ocasionada pela reentrada no circuito económico de bens que já tinham sido definitivamente tributados.
+
+Assim:
+
+No uso da autorização legislativa concedida pela alínea f) do n.º 1 do artigo 34.º e pela alínea a) do artigo 42.º da Lei n.º 10-B/96, de 23 de Março, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º 94/5/CE, do Conselho, de 14 de Fevereiro de 1994, que completa o sistema comum do imposto sobre o valor acrescentado e aprova o regime especial aplicável aos bens em segunda mão, aos objectos de arte e de colecção e às antiguidades.
+
+###### Artigo 2.º
+
+Os artigos 16.º, 18.º e 21.º do Código do Imposto sobre o Valor Acrescentado passam a ter a seguinte redacção:
+
+«Artigo 16.º
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Para as transmissões de bens em segunda mão, de objectos de arte, de colecção ou antiguidades, efectuadas de acordo com o disposto em legislação especial, a diferença, devidamente justificada, entre o preço de venda e o preço de compra;
+
+g) ...
+
+h) ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+Artigo 18.º
+
+1 - ...
+
+2 - Estão sujeitas à taxa a que se refere a alínea a) do n.º 1 as importações e transmissões de objectos de arte previstas em legislação especial.
+
+3 - ...
+
+4 - (Anterior n.º 2.)
+
+5 - (Anterior n.º 4.)
+
+6 - (Anterior n.º 5.)
+
+7 - (Anterior n.º 6.)
+
+8 - (Anterior n.º 7.)
+
+Artigo 21.º
+
+1 - ...
+
+2 - ...
+
+3 - Não conferem também direito a dedução do imposto as aquisições de bens referidos na alínea f) do n.º 2 do artigo 16.º, quando o valor da sua transmissão posterior, de acordo com legislação especial, for a diferença entre o preço de venda e o preço de compra.»
+
+###### Artigo 3.º
+
+São revogados os n.os 19 e 39 do artigo 9.º e as alíneas i) e l) do n.º 1 do artigo 13.º do Código do Imposto sobre o Valor Acrescentado.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 33/2025 - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2025-912066242) Os sujeitos passivos revendedores de objetos de arte que tenham optado pela tributação segundo o regime especial previsto no anexo ao presente diploma, na sua redação atual, podem deduzir o imposto, expresso em fatura, suportado nas aquisições de objetos de arte adquiridos nas condições previstas nas alíneas a) a c) do n.º 2 do presente artigo na redação vigente até à entrada em vigor do Decreto-Lei n.º 33/2025, de 24 de março, e o imposto devido ou pago na importação desses bens, passando a aplicar-se-lhes a disciplina geral do IVA. O imposto apurado nestes termos é objeto de dedução até ao fim do período de tributação seguinte aquele em curso na data da publicação do Decreto-Lei n.º 33/2025, de 24 de março.
+
+###### Artigo 4.º
+
+É aprovado o Regime Especial de Tributação dos Bens em Segunda Mão, Objectos de Arte, de Colecção e Antiguidades, que faz parte integrante do presente decreto-lei.
+
+###### Artigo 5.º
+
+São revogados o Decreto-Lei n.º 504-G/85, de 30 de Dezembro, e o Decreto-Lei n.º 346/89, de 12 de Outubro.
+
+###### Artigo 6.º
+
+Sem prejuízo da tributação das respectivas actividades a partir da data da entrada em vigor deste diploma, os sujeitos passivos anteriormente abrangidos pelos n.os 19 e 39 do artigo 9.º do Código do Imposto sobre o Valor Acrescentado, agora eliminados, deverão entregar na repartição de finanças competente, até ao final do mês seguinte à data da publicação do presente decreto-lei, a declaração de alterações prevista no artigo 31.º do mesmo Código, mencionando, se for caso disso, o volume de negócios referente ao ano de 1995.
+
+Visto e aprovado em Conselho de Ministros de 12 de Setembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Manuel Maria Ferreira Carrilho.
+
+Promulgado em 4 de Outubro de 1996.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 10 de Outubro de 1996.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — Regime Especial de Tributação dos Bens em Segunda Mão, Objectos de Arte, de Colecção e Antiguidades
+
+###### Artigo 1.º
+
+Estão sujeitas a imposto sobre o valor acrescentado, segundo o regime especial de tributação da margem, as transmissões de bens em segunda mão, de objectos de arte, de colecção e de antiguidades, efectuadas nos termos deste diploma, por sujeitos passivos revendedores ou por organizadores de vendas em leilão que actuem em nome próprio, por conta de um comitente, de acordo com um contrato de comissão de venda.
+
+###### Artigo 2.º
+
+Para efeitos do presente Regime Especial, entende-se por:
+
+a) Bens em segunda mão - os bens móveis susceptíveis de reutilização no estado em que se encontram ou após reparação, com exclusão dos objectos de arte, de colecção, das antiguidades, das pedras preciosas e metais preciosos, não se entendendo como tais as moedas ou artefactos daqueles materiais;
+
+b) Objectos de arte, objectos de colecção e antiguidades - os bens mencionados, respectivamente, nos pontos A, B e C da lista em anexo;
+
+c) Sujeito passivo revendedor - o sujeito passivo que, no âmbito da sua actividade, compra, afecta às necessidades da sua empresa ou importa, para revenda, bens em segunda mão, objectos de arte, de colecção ou antiguidades, quer esse sujeito passivo actue por conta própria, quer por conta de outrem nos termos de um contrato de comissão de compra e venda;
+
+d) Organizador de vendas em leilão - um sujeito passivo que, no âmbito da sua actividade económica, proponha a venda de um bem, em seu nome, mas por conta de um comitente, nos termos de um contrato de comissão de venda, com vista à sua adjudicação em leilão;
+
+e) Comitente de um organizador de vendas em leilão - qualquer pessoa que entregue um bem a um organizador de vendas de bens em leilão, nos termos de um contrato de comissão de venda, com vista à sua adjudicação em leilão.
+
+###### Artigo 3.º
+
+1 - As transmissões de bens em segunda mão, de objectos de arte, de colecção ou de antiguidades, efectuadas por um sujeito passivo revendedor, são sujeitas ao regime especial de tributação da margem, desde que este tenha adquirido esses bens no interior da Comunidade, em qualquer uma das seguintes condições:
+
+a) A uma pessoa que não seja sujeito passivo;
+
+b) A outro sujeito passivo, desde que a transmissão feita por este tenha sido isenta de imposto, ao abrigo do n.º 33 do artigo 9.º do Código do Imposto sobre o Valor Acrescentado, ou de disposição legal idêntica vigente no Estado membro onde tiver sido efectuada a transmissão;
+
+c) A outro sujeito passivo, desde que a transmissão feita por este tenha tido por objecto um bem de investimento e tenha sido isenta de imposto, ao abrigo do artigo 53.º do Código do Imposto sobre o Valor Acrescentado, ou de disposição legal idêntica vigente no Estado membro onde tiver sido efectuada a transmissão;
+
+d) A outro sujeito passivo revendedor, desde que a transmissão dos bens por esse outro sujeito passivo revendedor tenha sido efectuada ao abrigo do disposto neste diploma, ou de regulamentação idêntica vigente no Estado membro onde a transmissão dos bens tiver sido efectuada.
+
+2 -  Os sujeitos passivos revendedores podem optar pela aplicação do regime especial de tributação da margem, previsto neste diploma, à transmissão de objetos de coleção ou de antiguidades que eles próprios tenham importado.
+
+3 - O direito de opção será exercido relativamente ao conjunto das operações referidas no número anterior, mediante comunicação prévia à Direcção-Geral dos Impostos, produzindo efeitos imediatos.
+
+4 - A opção, uma vez exercida, deverá ser mantida durante um período de, pelo menos, dois anos civis completos.
+
+5 - Decorrido o prazo a que se refere o número anterior, se o sujeito passivo pretender renunciar à opção efectuada relativamente aos bens adquiridos nas condições previstas no n.º 2 deste artigo, deverá comunicar esse facto à Direcção-Geral dos Impostos.
+
+6 - A comunicação referida no número anterior só poderá ser apresentada durante o mês de Janeiro de um dos anos seguintes àquele em que se tiver completado o prazo do regime de opção, produzindo efeitos a partir de 1 de Janeiro do ano da sua apresentação, podendo ser exercido o direito à dedução do imposto respeitante aos bens adquiridos durante o período da opção e que se encontrem em existência no final do ano.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2025 - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2025-912066242), em vigor a partir de 2025-03-29
+
+###### Artigo 4.º
+
+1 - O valor tributável das transmissões de bens referidas no artigo anterior, efetuadas pelo sujeito passivo revendedor, é constituído pela diferença, devidamente justificada, entre a contraprestação obtida ou a obter do cliente, determinada nos termos do artigo 16.º do Código do IVA, e o preço de compra dos mesmos bens, com inclusão do IVA, caso este tenha sido liquidado.
+
+2 - Quando as transmissões digam respeito a objetos de coleção ou antiguidades, importados pelo próprio sujeito passivo revendedor, o preço de compra a ter em conta para o cálculo referido no número anterior será igual ao valor tributável na importação, determinado nos termos do artigo 17.º do Código do IVA, acrescido do imposto devido ou pago na importação.
+
+3 - O apuramento do imposto devido será efectuado individualmente em relação a cada bem, não podendo o excesso do preço de compra sobre o preço de venda afectar o valor tributável de outras transmissões.
+
+4 - Quando não for possível determinar exactamente o preço de compra de objectos de arte, considerar-se-á como tributável um valor igual a 50% da contraprestação, determinada nos termos do n.º 1.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2025 - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2025-912066242), em vigor a partir de 2025-03-29
+
+###### Artigo 5.º
+
+1 - O sujeito passivo revendedor, que destine os bens adquiridos a transmissões sujeitas ao regime especial de tributação da margem, não pode deduzir o IVA devido ou pago, relativamente aos objetos de coleção ou antiguidades por ele importados.
+
+2 - O imposto que tenha onerado as reparações, a manutenção ou outras prestações de serviços respeitantes aos bens sujeitos ao regime especial de tributação da margem é, porém, dedutível, nos termos gerais do Código do Imposto sobre o Valor Acrescentado.
+
+3 - O imposto liquidado pelo sujeito passivo revendedor nas transmissões de bens sujeitas ao regime especial de tributação da margem não é dedutível pelo sujeito passivo adquirente, ainda que este destine esses bens à sua actividade tributada.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2025 - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2025-912066242), em vigor a partir de 2025-03-29
+
+###### Artigo 6.º
+
+1 - As faturas relativas às transmissões efetuadas ao abrigo do regime especial de tributação da margem, emitidas pelos sujeitos passivos revendedores, não podem discriminar o imposto devido e devem conter a menção 'Regime da margem de lucro - Bens em segunda mão', 'Regime da margem de lucro - Objetos de arte' ou 'Regime da margem de lucro - Objetos de coleção e antiguidades', conforme os casos.
+
+2 - As transmissões sujeitas ao regime de tributação da margem devem ser escrituradas de modo a evidenciar os elementos que permitam concluir a verificação das condições previstas no artigo 3.º e dos elementos determinantes do valor tributável referidos no artigo 4.º
+
+3 - Quando, no âmbito da sua actividade, o sujeito passivo aplique, simultaneamente, o regime geral do imposto sobre o valor acrescentado e o regime especial de tributação da margem, deverá proceder ao registo separado das respectivas operações.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01
+
+###### Artigo 7.º
+
+1 - O sujeito passivo revendedor poderá optar pela liquidação do imposto nos termos gerais do Código do Imposto sobre o Valor Acrescentado, em relação a cada transmissão sujeita ao regime especial de tributação da margem.
+
+2 - Sempre que se verifique a opção a que se refere o número anterior, o sujeito passivo revendedor poderá deduzir, do imposto de que é devedor, o imposto devido ou pago nas importações ou aquisições referidas no n.º 1 do artigo 5.º
+
+3 - O direito à dedução a que se refere o número anterior nasce no momento em que se torna exigível o imposto devido pela transmissão em relação à qual o sujeito passivo revendedor opta pela aplicação do regime geral do imposto sobre o valor acrescentado.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2025 - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2025-912066242), em vigor a partir de 2025-03-29
+
+###### Artigo 8.º
+
+1 - As transmissões de bens em segunda mão, de objectos de arte, de colecção ou de antiguidades, sujeitas ao regime especial de tributação da margem, são isentas de imposto, quando efectuadas nos termos do artigo 14.º do Código do Imposto sobre o Valor Acrescentado.
+
+2 - A isenção referida no número anterior confere direito a dedução do imposto que eventualmente tenha onerado as importações dos respetivos bens e venha mencionado em documento alfandegário apropriado.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2025 - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2025-912066242), em vigor a partir de 2025-03-29
+
+###### Artigo 9.º
+
+1 - São ainda sujeitas a imposto sobre o valor acrescentado, segundo o regime especial de tributação da margem previsto neste diploma, as transmissões de bens efectuadas por organizadores de vendas em leilão que actuem em nome próprio, nos termos de um contrato de comissão de venda desses bens em leilão, por conta:
+
+a) De qualquer pessoa que não seja sujeito passivo;
+
+b) De outro sujeito passivo, desde que a transmissão feita por este seja isenta de imposto, ao abrigo do n.º 33 do artigo 9.º do Código do Imposto sobre o Valor Acrescentado ou de idêntica disposição legal vigente no Estado membro onde a transmissão dos bens seja efectuada;
+
+c) De outro sujeito passivo, desde que a transmissão feita por este tenha tido por objecto um bem de investimento e seja isenta de imposto ao abrigo do artigo 53.º do Código do Imposto sobre o Valor Acrescentado ou de idêntica disposição legal vigente no Estado membro onde a transmissão dos bens seja efectuada;
+
+d) De outro sujeito passivo revendedor, desde que a transmissão feita por este seja sujeita a imposto nos termos do regime especial de tributação da margem, previsto neste diploma, ou de idêntica regulamentação vigente no Estado membro onde seja efectuada a transmissão.
+
+2 - A transmissão dos bens do comitente para o sujeito passivo organizador de vendas em leilão, referida nas alíneas b), c) e d) do número anterior, considerar-se-á efectuada no momento da realização da venda em leilão desses mesmos bens.
+
+###### Artigo 10.º
+
+O valor tributável das transmissões de bens em segunda mão, de objectos de arte, de colecção ou antiguidades, efectuadas por organizadores de vendas em leilão, de acordo com o disposto no artigo anterior, é constituído pelo montante facturado ao comprador, nos termos do artigo 12.º, deduzido:
+
+a) O montante líquido pago ou a pagar pelo organizador de vendas em leilão, determinado nos termos do artigo 11.º; e
+
+b) O montante do imposto devido pelo organizador de vendas em leilão, relativo à transmissão dos bens.
+
+###### Artigo 11.º
+
+O montante líquido pago ou a pagar pelo organizador de vendas em leilão ao seu comitente é igual à diferença entre:                                        a) O preço de adjudicação do bem em leilão; e
+
+b) O montante da comissão obtida ou a obter, pelo organizador de vendas em leilão, do respectivo comitente, de acordo com o estabelecido no contrato de comissão de venda.
+
+###### Artigo 12.º
+
+1 - O organizador de vendas em leilão deve fornecer ao comprador uma factura, ou documento equivalente, com indicação do montante total da transmissão dos bens e em que se especifique, nomeadamente:
+
+a) O preço de adjudicação do bem;
+
+b) Os impostos, direitos, contribuições e taxas, com exclusão do próprio imposto sobre o valor acrescentado;
+
+c) As despesas acessórias, tais como despesas de comissão, embalagem, transporte e seguro, cobradas pelo organizador ao comprador do bem.
+
+2 - As facturas ou documentos equivalentes, emitidos pelos sujeitos passivos organizadores de vendas em leilão, devem conter a menção «IVA - Regime especial de venda de bens em leilão», sem discriminar o imposto sobre o valor acrescentado.
+
+3 - O organizador de vendas em leilão a quem for transmitido o bem nos termos de um contrato de comissão de venda em leilão deve apresentar um relatório ao seu comitente.
+
+4 - O relatório referido no número anterior deve identificar os intervenientes no contrato e indicar, nomeadamente, o preço de adjudicação do bem, deduzido o montante da comissão obtida ou a obter do comitente, substituindo a factura que este, no caso de ser sujeito passivo, deveria entregar ao organizador da venda em leilão.
+
+###### Artigo 13.º
+
+Os organizadores de vendas em leilão que efectuem transmissões de bens nas condições previstas no artigo 9.º são obrigados a registar, em contas de terceiros e devidamente justificados:
+
+a) Os montantes obtidos ou a obter do comprador do bem; e
+
+b) Os montantes reembolsados ou a reembolsar ao comitente.
+
+###### Artigo 14.º
+
+1 - Não obstante o disposto nas alíneas a) e d) do artigo 1.º do Regime do IVA nas Transacções Intracomunitárias, aprovado e publicado em anexo ao Decreto-Lei n.º 290/92, de 28 de Dezembro, não são sujeitas a imposto sobre o valor acrescentado as aquisições intracomunitárias de bens em segunda mão, de objectos de arte, de colecção ou de antiguidades, se o vendedor for um sujeito passivo revendedor ou um organizador de vendas em leilão e os bens tiverem sido sujeitos a imposto sobre o valor acrescentado no Estado membro de expedição ou transporte, de acordo com um regime especial de tributação idêntico ao previsto neste diploma.
+
+2 - Não obstante o disposto nas alíneas a) e c) do artigo 14.º do Regime do IVA nas Transacções Intracomunitárias, são tributáveis as transmissões de bens em segunda mão, objectos de arte, de colecção ou de antiguidades, efectuadas nos termos deste Regime Especial, por um sujeito passivo revendedor ou por um organizador de vendas em leilão, agindo como tal, quando os bens sejam expedidos ou transportados para outro Estado membro.
+
+3 - Não obstante o disposto no artigo 10.º do Regime do IVA nas Transacções Intracomunitárias, são tributáveis as transmissões de bens em segunda mão, objectos de arte, de colecção ou de antiguidades, efectuadas nos termos deste Regime Especial.
+
+###### Artigo 15.º
+
+A taxa reduzida prevista na alínea a) do artigo 18.º do Código do Imposto sobre o Valor Acrescentado é aplicável:
+
+a) Às importações de objetos de arte;
+
+b) Às transmissões de objetos de arte efetuadas pelo seu autor, herdeiros, legatários ou revendedores registados;
+
+c) Às transmissões de objetos de arte efetuadas ocasionalmente por um sujeito passivo não revendedor, se esses bens tiverem sido importados pelo próprio sujeito passivo, adquiridos ao seu autor, herdeiros ou legatários ou lhe tiverem conferido direito à dedução total do imposto aquando da sua aquisição;
+
+d) Às aquisições intracomunitárias de objetos de arte, efetuadas por um sujeito passivo revendedor, quando o sujeito passivo vendedor desses bens, em outro Estado membro, seja o seu autor, herdeiros ou legatários;
+
+e) Às aquisições intracomunitárias de objetos de arte, efetuadas por um sujeito passivo revendedor, quando a transmissão correspondente pudesse ser sujeita a taxa reduzida, de acordo com as condições previstas na alínea c) deste artigo, caso tivesse ocorrido em território nacional.
+
+> Alterado pelo/a Artigo 78.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+###### Artigo 16.º
+
+São excluídas do âmbito de aplicação deste diploma as transacções intracomunitárias de meios de transporte considerados novos por não preencherem os requisitos previstos no n.º 2 do artigo 6.º do Regime do IVA nas Transacções Intracomunitárias.
+
+###### Artigo 17.º
+
+O regime previsto nos artigos 60.º a 68.º do Código do Imposto sobre o Valor Acrescentado não será aplicável aos sujeitos passivos que efectuem transmissões de bens em 2.ª mão, de objectos de arte, de colecção ou de antiguidades, nos termos deste regime especial.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 4/98 - Diário da República n.º 9/1998, Série I-A de 1998-01-12](https://diariodarepublica.pt/dr/detalhe/lei/4-1998-222872), em vigor a partir de 1998-01-13
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 257-A/96 - Diário da República n.º 302/1996, 1º Suplemento, Série I-A de 1996-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-a-1996-276218), em vigor a partir de 1997-01-05
+
+###### Artigo 18.º
+
+1 - Os sujeitos passivos revendedores de bens em segunda mão ou de objectos de arte, de colecção e antiguidades que se encontravam abrangidos pelo Decreto-Lei n.º 504-G/85, de 30 de Dezembro, poderão deduzir o imposto suportado nas aquisições, expresso em factura ou documento equivalente, e o imposto devido ou pago na importação relativo aos bens em existência à data da cessação do regime especial regulado naquele diploma legal, passando a aplicar-se a esses bens a disciplina geral do imposto sobre o valor acrescentado.
+
+2 - Para efeitos da dedução do imposto a que se refere o número anterior, os sujeitos passivos deverão elaborar um inventário das existências daqueles bens, do qual deverão constar as quantidades e a descrição dos bens, o preço de compra e o imposto suportado.
+
+3 - O imposto apurado no inventário referido no número anterior será objecto de dedução na declaração periódica correspondente à data da entrada em vigor do regime especial previsto neste diploma.
+
+4 - O disposto no n.º 1 não será aplicável aos sujeitos passivos revendedores que optem pela tributação segundo o regime especial da margem, nos termos do n.º 2 do artigo 3.º
+
+###### Artigo 19.º
+
+O Ministro das Finanças pode, por despacho, criar ou alterar os modelos de livros e impressos necessários à execução das obrigações do presente Regime Especial.
+
+###### Artigo 20.º
+
+A disciplina do Código do Imposto sobre o Valor Acrescentado e a do Regime do IVA nas Transacções Intracomunitárias serão aplicáveis em tudo o que não se revelar contrário ao disposto no presente Regime Especial.
+
+## Anexo — Objectos de arte, de colecção e antiguidades
+
+A) Para efeitos do presente Regime Especial, entende-se por objectos de arte os seguintes bens:
+
+Quadros, colagens e peças similares, pinturas e desenhos, inteiramente executados à mão pelo artista, com exclusão dos desenhos de arquitectos, engenheiros e outros desenhos industriais, comerciais, topográficos ou similares, dos artigos manufacturados decorados à mão, das telas pintadas para cenários de teatro, fundos de estúdios ou utilizações análogas (código NC 9701);
+
+Gravuras, estampas e litografias originais, ou seja, provas tiradas directamente a preto ou a cores em número não superior a 200 exemplares, de uma ou várias chapas inteiramente executadas à mão pelo artista, independentemente da técnica ou do material utilizados, excluindo qualquer processo mecânico ou fotomecânico (código NC 9702 00 00);
+
+Produções originais de estatuária ou de escultura, em qualquer material, desde que as produções sejam inteiramente executadas à mão pelo artista; fundições de esculturas de tiragem limitada a oito exemplares e controlada pelo artista ou pelos seus sucessores (código NC 9703 00 00);
+
+Tapeçarias (código NC 5805 00 00) e têxteis para guarnições murais (código NC 6304 00 00) de confecção manual a partir de desenhos originais fornecidos por artistas, desde que não sejam confeccionados mais de oito exemplares de cada;
+
+Exemplares únicos de cerâmica, inteiramente executados à mão pelo artista e por ele assinados;
+
+Esmaltes sobre cobre, inteiramente executados à mão, limitados a oito exemplares numerados e assinados pelo artista ou pela oficina de arte, com exclusão de artigos de bijutaria, ourivesaria ou joalharia;
+
+Fotografias realizadas pelo artista, tiradas por ele ou sob o seu controlo, assinadas e numeradas até ao limite de 30 exemplares, independentemente do respectivo formato ou suporte.
+
+B) Entende-se por objectos de colecção os seguintes bens:
+
+Selos de correio, selos fiscais, carimbos postais, envelopes de 1.º dia, blocos postais e análogos, obliterados, ou então não obliterados, mas que não estejam em circulação nem se destinem a ser postos em circulação (código NC 9704 00 00), colecções e espécimes para colecções de zoologia, botânica, mineralogia ou anatomia ou que tenham interesse histórico, arqueológico, paleontológico, etnográfico ou numismático (código NC 9705 00 00).
+
+C) Entende-se por antiguidades os bens, com exclusão dos objectos de arte e dos objectos de colecção, com mais de 100 anos de idade (código NC 9706 00 00).

@@ -1,0 +1,190 @@
+---
+schema_version: '1.0'
+id: pt:dre:497796:por
+title: Decreto Legislativo Regional n.º 3/94/A
+short_title: null
+summary: Aplica à Região Autónoma dos Açores o Decreto-Lei n.º 498/88, de 30 de Dezembro (estabelece o regime de recrutamento
+  e selecção de pessoal)
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 3/94/A
+official_date: null
+publication_date: '1994-01-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/1994, Série I-A de 1994-01-29
+  number: '24'
+  series: I
+  supplement: null
+  pages: 461 - 463
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/01/024a00/04610463.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/3/1994/01/29/a/dre/pt/html
+  oj: null
+  dre: '497796'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/3-1994-497796
+  internal: pt:dre:497796:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1994-497796
+  metadata_url: https://data.dre.pt/eli/declegreg/3/1994/01/29/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1994-497796
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6a5d897832645c08c76139a487e1e1d6f718b62bbc5aa37225466a29c796f827
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Regional
+relationships:
+- type: amended_by
+  target: pt:dre:398279:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:398279:por
+  label: "Alterados os art 8º e 9º pelo DLR 5/97/A.1997.04.24.ALR-RAA, DR.IS-A [117] de 21/Mai/1997 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-1997-398279
+  date: '1997-04-24'
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:18:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 3/94/A
+
+Aplicação à Região Autónoma dos Açores do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro - regime de recrutamento e selecção de pessoal.
+
+Considerando que com a publicação do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, criou-se o regime geral de recrutamento e selecção de pessoal para a Administração Pública;
+
+Considerando que no n.º 2 do artigo 2.º do citado diploma se refere que o regime aplicar-se-á, com as necessárias adaptações, à administração pública regional mediante decreto legislativo regional:
+
+A Assembleia Legislativa Regional dos Açores decreta, os termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O disposto no [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, aplica-se aos serviços da administração regional autónoma dos Açores, aos organismos públicos dotados de autonomia administrativa e financeira, bem como aos fundos e institutos públicos na modalidade de serviços personalizados, com as adaptações constantes do presente diploma.
+
+2 - Incumbem aos órgãos de decisão da Assembleia Legislativa Regional as competências definidas no presente diploma, com as devidas adaptações.
+
+###### Artigo 2.º — Regulamento dos concursos e programas de provas
+
+1 - Os conteúdos funcionais, a definição dos métodos de selecção a utilizar para cada categoria e os programas das provas serão elaborados pelos serviços ou organismos competentes para realizar as acções de recrutamento e selecção, devendo os mesmos ser objecto de parecer da Secretaria Regional das Finanças, Planeamento e Administração Pública e aprovados por despacho conjunto do Secretário Regional das Finanças, Planeamento e Administração Pública e do secretário regional competente.
+
+2 - O parecer referido no número anterior deverá ser efectuado no prazo de 35 dias úteis, pelo serviço competente em matéria de recrutamento e selecção de pessoal da Secretaria Regional das Finanças, Planeamento e Administração Pública, findo o qual se considerarão aprovados, se o parecer não tiver sido emitido atempadamente.
+
+3 - O despacho conjunto referido no n.º 1 deverá conter, nomeadamente, os seguintes elementos:
+
+a) Definição genérica das funções correspondentes aos cargos a prover;
+
+b) Especificação dos métodos e fases de selecção;
+
+c) Incidência de cada prova na classificação final do concurso;
+
+d) Programas das provas de conhecimentos e dos cursos de formação.
+
+4 - No aviso de abertura de concurso deverá constar, obrigatoriamente, a menção expressa do regulamento de concursos, bem como, se for o caso, do programa de provas.
+
+5 - Os regulamentos de concursos aprovados em data anterior à publicação do presente diploma manter-se-ão em vigor na parte respeitante aos conteúdos funcionais e métodos de selecção, assim como os programas de provas já aprovados.
+
+6 - A definição do conteúdo funcional e dos métodos de selecção a utilizar e o programa das provas dos concursos centralizados na Secretaria Regional das Finanças, Planeamento e Administração Pública serão aprovados por despacho do Secretário Regional das Finanças, Planeamento e Administração Pública.
+
+###### Artigo 3.º — Concursos internos condicionados
+
+Pode haver lugar à realização de concursos internos condicionados, nos termos da alínea b) do n.º 3 do artigo 6.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, quando nos serviços ou organismos a que respeitem o número de funcionários em condições de se candidatarem seja igual ou superior ao número de vagas existentes.
+
+###### Artigo 4.º — Constituição e composição do júri
+
+O presidente do júri será designado de entre pessoal dirigente, de chefia ou funcionário com categoria remunerada por índice não inferior a 300, em qualquer dos casos pertencentes ao serviço ou organismo competente para a realização do concurso.
+
+###### Artigo 5.º — Restrição à abertura de concursos
+
+Sob pena de inexistência jurídica, só pode haver lugar à abertura de concursos:
+
+a) Internos condicionados, nos termos do artigo 3.º do presente diploma;
+
+b) Externos, na sequência de resolução de descongelamento das categorias cujos lugares se pretendem prover.
+
+###### Artigo 6.º — Elaboração e publicação da lista de candidatos
+
+O número de candidatos a que se referem as alíneas a) e b) do n.º 2 do artigo 24.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, é de 20.
+
+###### Artigo 7.º — Recurso a entidades estranhas ao júri
+
+1 - Os serviços ou organismos poderão solicitar à Direcção Regional de Organização e Administração Pública ou a outros serviços, públicos ou privados, competentes em matéria de organização e pessoal a realização de todas ou algumas das operações de recrutamento e selecção de pessoal.
+
+2 - O recurso a entidades alheias à Administração Pública para a realização das operações referidas no número anterior que envolvam encargos financeiros fica condicionado a autorização do secretário regional competente, precedida de parecer da Secretaria Regional das Finanças, Planeamento e Administração Pública.
+
+###### Artigo 8.º — Correspondência de cargos e Jornal Oficial
+
+1 - Na administração regional autónoma dos Açores as competências estabelecidas nas normas abaixo referidas do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, são exercidas nos seguintes termos:
+
+a) Por despacho conjunto do Secretário Regional das Finanças, Planeamento e Administração Pública e do secretário regional competente, as competências previstas na alínea b) do artigo 7.º e no n.º 8 do artigo 26.º;
+
+b) Por despacho do director regional de Organização e Administração Pública, a competência prevista na alínea c) do n.º 1 do artigo 14.º;
+
+c) Por despacho da Direcção Regional de Organização e Administração Pública, a competência prevista no n.º 10 do artigo 26.º e no n.º 1 do artigo 38.º e na alínea a) do n.º 1 do artigo 39.º
+
+2 - As referências feitas no [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, ao Diário da República reportam-se, no que respeita à administração regional autónoma, ao Jornal Oficial.
+
+###### Artigo 9.º — Excepção ao regime previsto neste diploma
+
+O regime previsto neste diploma não se aplica aos concursos abertos antes da sua entrada em vigor e até ao termo da sua validade.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente diploma entra em vigor na data da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Dezembro de 1993.
+
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
+
+Assinado em Angra do Heroísmo em 13 de Janeiro de 1994.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

@@ -1,0 +1,487 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R3605:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R3605-20090630",
+ "dre_path": null,
+ "source_lastmod": "2009-06-30",
+ "versions": [
+  {
+   "date": "1993-12-31",
+   "future": false,
+   "celex": "31993R3605",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "456ef81c2b66fe2e",
+    "1c65a4c7e46b0389",
+    "129265e78b5a6d5a",
+    "a5d5c6b1dd1e9f42",
+    "5ef17cc3ec6b5faa",
+    "696e41b897b337cf",
+    "e235390593825513",
+    "b22be2f5d6bf5314",
+    "d19f3826d770b5b2"
+   ]
+  },
+  {
+   "date": "2005-12-23",
+   "future": false,
+   "celex": "01993R3605-20051223",
+   "acts": [
+    {
+     "id": "eu:celex:32000R0475:por",
+     "title": "REGULAMENTO (CE) N. o 475/2000 DO CONSELHO de 28 de Fevereiro de 2000",
+     "published": null,
+     "celex": "32000R0475"
+    },
+    {
+     "id": "eu:celex:32002R0351:por",
+     "title": "REGULAMENTO (CE) N. o 351/2002 DA COMISSÃO de 25 de Fevereiro de 2002",
+     "published": null,
+     "celex": "32002R0351"
+    },
+    {
+     "id": "eu:celex:32005R2103:por",
+     "title": "REGULAMENTO (CE) N. o 2103/2005 DO CONSELHO de 12 de Dezembro de 2005",
+     "published": null,
+     "celex": "32005R2103"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita SECÇÃO 1",
+    "Adita Definições",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita SECÇÃO 2",
+    "Adita Regras e âmbito de aplicação da notificação",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita SECÇÃO 2-A",
+    "Adita Qualidade dos dados",
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 8.º-B",
+    "Adita Artigo 8.º-C",
+    "Adita Artigo 8.º-D",
+    "Adita Artigo 8.º-E",
+    "Adita Artigo 8.º-F",
+    "Adita SECÇÃO 2-B",
+    "Adita Fornecimento de dados pela comissão",
+    "Adita Artigo 8.º-G",
+    "Adita Artigo 8.º-H",
+    "Adita SECÇÃO 2-C",
+    "Adita Disposições gerais",
+    "Adita Artigo 8.º-I",
+    "Adita Artigo 8.º-J",
+    "Adita Notas",
+    "Suprime SECÇÃO 1 Definições — Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime SECÇÃO 2 Regras e âmbito de aplicação da notificação — Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º"
+   ],
+   "fragments": [
+    "effe943653acafea",
+    "9b406af514eb9164",
+    "4316dd276cfa9f05",
+    "2b6adafde9fd7cc8",
+    "e5108169f9d36932",
+    "632f7125b4a3fc56",
+    "c42c0c2b3cabd519",
+    "115878192bacaad5",
+    "2c47b3cfaca74841",
+    "82debbab9a7df89a",
+    "199f95694d3a8731",
+    "6060540fc854b6ca",
+    "363989161ba6f6d1",
+    "f690c249e6419e68",
+    "499191831d57783a",
+    "49053ffa4b1b4392",
+    "d09d3344f4467534",
+    "f12132b774f2fa38",
+    "6eba3948e158a990",
+    "28d929a5a964313b",
+    "c0f0611675446a6e",
+    "a52294914fe1f1b1",
+    "7588d5aede1dbe76",
+    "82ccd4580a0252b9",
+    "32872e3787bd0da1",
+    "a6e710c105f59da6",
+    "7fabed8a0a46afb5",
+    "8b22d77b3b62c3b8",
+    "2c15c908fee995ba",
+    "6595bd5577df8997"
+   ]
+  },
+  {
+   "date": "2009-06-30",
+   "future": false,
+   "celex": "01993R3605-20090630",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO 1",
+    "Suprime Definições",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime SECÇÃO 2",
+    "Suprime Regras e âmbito de aplicação da notificação",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime SECÇÃO 2-A",
+    "Suprime Qualidade dos dados",
+    "Suprime Artigo 8.º-A",
+    "Suprime Artigo 8.º-B",
+    "Suprime Artigo 8.º-C",
+    "Suprime Artigo 8.º-D",
+    "Suprime Artigo 8.º-E",
+    "Suprime Artigo 8.º-F",
+    "Suprime SECÇÃO 2-B",
+    "Suprime Fornecimento de dados pela comissão",
+    "Suprime Artigo 8.º-G",
+    "Suprime Artigo 8.º-H",
+    "Suprime SECÇÃO 2-C",
+    "Suprime Disposições gerais",
+    "Suprime Artigo 8.º-I",
+    "Suprime Artigo 8.º-J",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "655ede7762c4e776"
+   ]
+  }
+ ],
+ "fragments": {
+  "456ef81c2b66fe2e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 3605/93 do Conselho, de 22 de Novembro de 1993, relativo à aplicação do protocolo sobre o procedimento relativo aos défices excessivos anexo ao Tratado que institui a Comunidade Europeia** *Jornal Oficial nº L 332 de 31/12/1993 p. 0007 - 0009*\n\nREGULAMENTO (CE) Nº 3605/93DO CONSELHO de 22 de Novembro de 1993 relativo à aplicação do protocolo sobre o procedimento relativo aos défices excessivos anexo ao Tratado que institui a Comunidade Europeia\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o nº 14, terceiro parágrafo, do seu artigo 104ºC,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nConsiderando que o Protocolo sobre o procedimento relativo aos défices excessivos define os termos «orçamental», «défice» e «investimento» por referência ao sistema europeu de contas económicas integradas (SEC) (3); que são necessárias definições precisas que façam refêrencia aos códigos de nomenclatura do SEC; que essas definições podem ser sujeitas a revisão no âmbito da necessária harmonização das estatísticas nacionais ou por outras razões; que qualquer revisão do SEC será decidida pelo Conselho, de acordo com as regras de competência e de procedimento fixadas no Tratado;\n\nConsiderando que a definição de dívida constante do protocolo sobre o procedimento relativo aos défices excessivos necessita de ser pormenorizada por meio de uma referência aos códigos de nomenclatura do SEC;\n\nConsiderando que a Directiva 89/130/CEE, Euratom do Conselho, de 13 de Fevereiro de 1989, relativa à harmonização da determinação do produto nacional bruto a preços de mercado (4), estabelece uma definição pormenorizada e adequada de produto interno bruto a preços de mercado;\n\nConsiderando que, nos termos do protocolo sobre o procedimento relativo aos défices excessivos, cabe à Comissão fornecer os dados estatísticos a utilizar no referido procedimento;\n\nConsiderando que são necessárias regras pormenorizadas para instituir um processo de notificação rápida e regular dos Estados-membros à Comissão, relativamente aos seus défices programados e verificados e ao nível da sua dívida;\n\nConsiderando que, nos termos dos nºs 2 e 3 do artigo 104ºC do Tratado, a Comissão acompanhará a evolução da situação orçamental e do montante da dívida pública nos Estados-membros e examinará o cumprimento da disciplina orçamental com base em critérios que assentam no défice orçamental e na dívida pública; que a Comissão, no caso de um Estado-membro não cumprir os requisitos de um desses critérios ou de ambos, terá em conta todos os factores pertinentes; que a Comissão deve analisar se existe um risco de défice excessivo num Estado-membro,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1c65a4c7e46b0389": {
+   "fragment_id": "SECÇÃO 1 Definições — Artigo 1º",
+   "type": "divisao",
+   "heading": "SECÇÃO 1 Definições — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1 Definições — Artigo 1º\n\n1. Para efeitos da aplicação do protocolo sobre o procedimento relativo aos défices excessivos e do presente regulamento, os termos constantes dos números seguintes são definidos de acordo com o sistema europeu de contas económicas integradas (SEC). Os códigos entre parênteses referem-se ao SEC, segunda edição.\n\n2. Orçamental significa o que diz respeito ao sector administrações públicas (S60) subdividido nos subsectores administração central (S61), administrações locais (S62) e administrações de segurança social (S63), com excepção das operações comerciais, tal como definidos no SEC.\n\nA exclusão das operações comerciais significa que o sector administrações públicas (S60) engloba apenas as unidades institucionais que, a título de função principal, produzem serviços não mercantis.\n\n3. O défice (excedente) orçamental constitui a necessidade de financiamento (capacidade de financiamento) (N5) do sector administrações públicas (S60), tal como definida no SEC. Os juros incluídos no défice orçamental são os juros (R41), tal como definidos no SEC.\n\n4. O investimento público consiste na formação bruta de capital fixo (P41) do sector administrações públicas (S60), tal como definida no SEC.\n\n5. A dívida pública é o valor nominal da totalidade das responsabilidades brutas em curso no final do ano do sector administrações públicas (S60), com excepção das responsabilidades cujos activos financeiros correspondentes são detidos pelo sector administrações públicas (S60).\n\nA dívida pública é constituída pelas responsabilidades das administrações públicas nas categorias seguintes: numerário e depósitos (F20 e F30), títulos a curto prazo (F40), obrigações (F50), outros créditos a curto prazo (F79), bem como outros créditos a médio e longo prazo (F89), de acordo com as definições do SEC.\n\nO valor nominal do montante de uma responsabilidade no final do ano é o respectivo valor facial.\n\nO valor nominal de uma responsabilidade indexada corresponde ao seu valor facial ajustado pelo reforço de capital relacionado com a indexação, verificado no final do ano.\n\nAs responsabilidades expressas em moeda estrangeira serão convertidas em moeda nacional à taxa representativa do mercado cambial no último dia útil de cada ano."
+  },
+  "129265e78b5a6d5a": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO produto interno bruto é o produto interno bruto a preços de mercado (PIB pm), tal como definido no artigo 2º da Directiva 89/130/CEE, Euratom."
+  },
+  "a5d5c6b1dd1e9f42": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os valores do défice orçamental programado são os valores estabelecidos para o ano em curso pelos Estados-membros, em conformidade com as decisões mais recentes das suas autoridades orçamentais.\n\n2. Os valores do défice orçamental verificado e do nível da dívida pública verificada são os resultados estimados, semidefinitivos ou definitivos, para um ano já decorrido."
+  },
+  "5ef17cc3ec6b5faa": {
+   "fragment_id": "SECÇÃO 2 Regras e âmbito de aplicação da notificação — Artigo 4º",
+   "type": "divisao",
+   "heading": "SECÇÃO 2 Regras e âmbito de aplicação da notificação — Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2 Regras e âmbito de aplicação da notificação — Artigo 4º\n\n1. A partir do início do ano de 1994, os Estados-membros notificarão à Comissão os seus défices orçamentais programados e verificados, bem como o nível da sua dívida pública verificada, duas vezes por ano, a primeira vez antes de 1 de Março do ano em curso (ano n) e a segunda vez antes de 1 de Setembro desse mesmo ano n.\n\n2. Antes de 1 de Março do ano n, os Estados-membros:\n\n- notificarão à Comissão o seu défice orçamental programado para o ano n, a estimativa mais recente do seu défice orçamental verificado no ano n-1 e os seus défices orçamentais verificados nos anos n-2, n-3 e n-4,\n\n- comunicarão simultaneamente à Comissão, para os anos n, n-1 e n-2, os correspondentes défices orçamentais das suas contas públicas, de acordo com a definição mais habitual no Estado-membro, e os valores que explicam a transição entre esse défice orçamental das contas públicas e o seu défice orçamental. Os valores que demonstram esta transição, a fornecer à Comissão, incluirão nomeadamente os valores relativos à necessidade de financiamento dos subsectores S61, S62 e S63,\n\n- notificarão à Comissão uma estimativa do nível da sua dívida pública verificada no final do ano n-1 e o nível da sua dívida pública verificada nos anos n-2, n-3 e n-4,\n\n- comunicarão simultaneamente à Comissão, para os anos n-1 e n-2, os valores que explicam a contribuição do seu défice orçamental e dos outros factores pertinentes para a variação do nível da sua dívida pública.\n\n3. Antes de 1 de Setembro do ano n, os Estados-membros:\n\n- notificarão à Comissão o seu défice orçamental programado para o ano n, actualizado, bem como o défice orçamental verificado nos anos n-1, n-2, n-3 e n-4, e darão cumprimento ao disposto no segundo travessão do nº 2,\n\n- notificarão à Comissão o nível da sua dívida pública verificada nos anos n-1, n-2, n-3 e n-4 e darão cumprimento ao disposto no quarto travessão do nº 2.\n\n4. Os valores do défice orçamental programado, notificados à Comissão nos termos do disposto nos nºs 2 e 3, serão expressos em moeda nacional e em anos orçamentais.\n\nOs valores do défice orçamental verificado e do nível da dívida pública verificada, notificados à Comissão nos termos do disposto nos nºs 2 e 3, serão expressos em moeda nacional e em anos civis, com excepção das estimativas mais recentes para o ano n-1, que poderão ser expressas em anos orçamentais.\n\nCaso o ano orçamental não coincida com o ano civil, os Estados-membros notificarão igualmente à Comissão os seus valores do défice orçamental verificado e do nível da dívida pública verificada, por anos orçamentais, para os dois anos orçamentais que precedem o ano orçamental em curso."
+  },
+  "696e41b897b337cf": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros comunicarão à Comissão, segundo as modalidades referidas nos nºs 1, 2 e 3 do artigo 4º, os valores relativos às suas despesas de investimento público e de juros."
+  },
+  "e235390593825513": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros apresentarão à Comissão uma previsão do seu produto interno bruto para o ano n, bem como o montante do seu produto interno bruto verificado nos anos n-1, n-2, n-3 e n-4, nos mesmos prazos que os referidos no nº 1 do artigo 4º"
+  },
+  "b22be2f5d6bf5314": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nEm caso de revisão do SEC, a decidir pelo Conselho de acordo com as regras de competência e de procedimento fixadas no Tratado, a Comissão introduzirá as novas referências ao SEC nos artigos 1º e 4º."
+  },
+  "d19f3826d770b5b2": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1994.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 22 de Novembro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nPh. MAYSTADT\n\n(1) JO nº C 324 de 1. 12. 1993, p. 8 e JO nº C 340 de 17. 12. 1993, p. 8.(2) JO nº C 329 de 6. 12. 1993.(3) Serviço de Estatística das Comunidades Europeias, «Sistema europeu de contas económicas integradas (SEC)», segunda edição.(4) JO nº L 49, de 21. 2. 1989, p. 26."
+  },
+  "effe943653acafea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 1993\n\nrelativo à aplicação do protocolo sobre o procedimento relativo aos défices excessivos anexo ao Tratado que institui a Comunidade Europeia\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o n.º 14, terceiro parágrafo, do seu artigo 104.ºC,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#E0002)),\n\nConsiderando que o Protocolo sobre o procedimento relativo aos défices excessivos define os termos «orçamental», «défice» e «investimento» por referência ao sistema europeu de contas económicas integradas (SEC) ([^3^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#E0003)); que são necessárias definições precisas que façam refêrencia aos códigos de nomenclatura do SEC; que essas definições podem ser sujeitas a revisão no âmbito da necessária harmonização das estatísticas nacionais ou por outras razões; que qualquer revisão do SEC será decidida pelo Conselho, de acordo com as regras de competência e de procedimento fixadas no Tratado;\n\nConsiderando que a definição de dívida constante do protocolo sobre o procedimento relativo aos défices excessivos necessita de ser pormenorizada por meio de uma referência aos códigos de nomenclatura do SEC;\n\nConsiderando que a Directiva 89/130/CEE, Euratom do Conselho, de 13 de Fevereiro de 1989, relativa à harmonização da determinação do produto nacional bruto a preços de mercado ([^4^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#E0004)), estabelece uma definição pormenorizada e adequada de produto interno bruto a preços de mercado;\n\nConsiderando que, nos termos do protocolo sobre o procedimento relativo aos défices excessivos, cabe à Comissão fornecer os dados estatísticos a utilizar no referido procedimento;\n\nConsiderando que são necessárias regras pormenorizadas para instituir um processo de notificação rápida e regular dos Estados-membros à Comissão, relativamente aos seus défices programados e verificados e ao nível da sua dívida;\n\nConsiderando que, nos termos dos n.^os^ 2 e 3 do artigo 104.ºC do Tratado, a Comissão acompanhará a evolução da situação orçamental e do montante da dívida pública nos Estados-membros e examinará o cumprimento da disciplina orçamental com base em critérios que assentam no défice orçamental e na dívida pública; que a Comissão, no caso de um Estado-membro não cumprir os requisitos de um desses critérios ou de ambos, terá em conta todos os factores pertinentes; que a Comissão deve analisar se existe um risco de défice excessivo num Estado-membro,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "4316dd276cfa9f05": {
+   "fragment_id": "Definições",
+   "type": "divisao",
+   "heading": "Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definições"
+  },
+  "2b6adafde9fd7cc8": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para efeitos da aplicação do Protocolo sobre o procedimento relativo aos défices excessivos e do presente regulamento, os termos constantes dos números seguintes são definidos de acordo com o Sistema Europeu de Contas Nacionais e Regionais na Comunidade (a seguir denominado «SEC 95»), adoptado pelo Regulamento (CE) n.º 2223/96 ([^5^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#E0005)). Os códigos entre parênteses referem-se ao SEC 95.\n\n2. «Orçamental» significa o que diz respeito ao sector das «administrações públicas» (S.13), subdividido nos subsectores «administração central» (S.1311), «administração estadual» (S.1312), «administração local» (S.1313) e «fundos de segurança social» (S.1314), com exclusão das operações comerciais, tais como definidas no SEC 95.\n\nA exclusão das operações comerciais significa que o sector «administrações públicas» (S.13) engloba apenas as unidades institucionais que, a título de função principal, prestam serviços não mercantis.\n\n3. O «défice (excedente) orçamental» constitui a necessidade líquida de financiamento (capacidade líquida de financiamento) ([**►M2**](http://publications.europa.eu/resource/celex/32002R0351) DPE B.9**◄**) do sector «administrações públicas» (S.13), tal como definido no SEC 95. Os juros incluídos no défice orçamental são os juros ([**►M2**](http://publications.europa.eu/resource/celex/32002R0351) DPE D.41**◄**), tal como definidos no SEC 95.\n\n4. O «investimento público» consiste na formação bruta de capital fixo (P.51) do sector «administrações públicas» (S.13), tal como definido no SEC 95.\n\n5. A «dívida pública» é o valor nominal da totalidade das responsabilidades brutas em curso no final do ano do sector «administrações públicas» (S.13), com a excepção das responsabilidades cujos activos financeiros correspondentes são detidos pelo sector «administrações públicas» (S.13).\n\nA dívida pública é constituída pelas responsabilidades das administrações públicas nas categorias seguintes: numerário e depósitos (AF.2), títulos excepto acções, excluindo derivados financeiros (AF.33) e empréstimos (AF.4), de acordo com as definições do SEC 95.\n\nO valor nominal do montante de uma responsabilidade no final do ano é o respectivo valor facial.\n\nO valor nominal de uma responsabilidade indexada corresponde ao seu valor facial ajustado pela alteração ligada ao índice do valor do capital verificado no final do ano.\n\nAs responsabilidades expressas em moeda estrangeira, ou trocadas através de acordos contratuais de uma moda estrangeira para uma ou mais moedas estrangeiras, serão convertidas nas outras moedas estrangeiras à taxa convencionada nesses contratos e serão convertidas na moeda nacional com base na taxa de câmbio representativa do mercado em vigor no último dia útil de cada ano.\n\nAs responsabilidades expressas em moeda nacional e trocadas através de acordos contratuais para uma moeda estrangeira serão convertidas na moeda estrangeira à taxa convencionada nesses contratos e serão convertidas na moeda nacional com base na taxa de câmbio representativa do mercado em vigor no último dia útil de cada ano.\n\nAs responsabilidades expressas numa moeda estrangeira e trocadas através de acordos contratuais para a moeda nacijonal serão convertidas na moeda nacional à taxa convencionada nesses contratos."
+  },
+  "e5108169f9d36932": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do Protocolo sobre o procedimento relativo aos défices excessivos e do presente regulamento, o produto interno bruto é o produto interno bruto a preços correntes de mercado (PIB pm) (B.1*g), tal como definido no SEC 95."
+  },
+  "632f7125b4a3fc56": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os valores do défice orçamental programado e do nível da dívida pública são os valores estabelecidos para o ano em curso pelos Estados-Membros. Tais valores devem corresponder às mais recentes previsões oficiais, baseadas nas mais recentes decisões orçamentais e na evolução e perspectivas económicas. Tais valores devem ser apurados com a maior antecedência possível em relação ao prazo de notificação.\n\n2. Os valores do défice orçamental verificado e do nível da dívida pública são os resultados estimados, provisórios, semidefinitivos ou definitivos, para um ano já decorrido. No que se refere a definições e conceitos, os dados programados e os dados efectivos têm de ser cronologicamente seriados de forma coerente."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "115878192bacaad5": {
+   "fragment_id": "Regras e âmbito de aplicação da notificação",
+   "type": "divisao",
+   "heading": "Regras e âmbito de aplicação da notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regras e âmbito de aplicação da notificação"
+  },
+  "2c47b3cfaca74841": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A partir do início do ano de 1994, os Estados-Membros notificarão à Comissão os seus défices orçamentais programados e verificados, bem como o nível da sua dívida pública verificada, duas vezes por ano, a primeira vez antes de 1 de Abril do ano em curso (ano n) e a segunda vez antes de 1 de Outubro desse mesmo ano n.\n\nOs Estados-Membros comunicarão à Comissão quais são as suas entidades nacionais competentes para efeitos da notificação, no contexto do procedimento relativo aos défices excessivos.\n\n2. Antes de 1 de Abril do ano n, os Estados-Membros:\n\n— notificarão à Comissão o seu défice orçamental programado para o ano n, a estimativa mais recente do seu défice orçamental verificado no ano n-1 e os seus défices orçamentais verificados nos anos n-2, n-3 e n-4,\n\n— comunicarão simultaneamente à Comissão os seus dados programados para o ano n e os dados reais relativos aos anos n-1, n-2, n-3 e n-4 relativos aos correspondentes défices orçamentais das suas contas públicas, de acordo com a definição mais habitual no Estado-Membro, e os valores que explicam a transição entre esse défice orçamental das contas públicas e o seu défice orçamental para o subsector S.1311,\n\n— comunicarão simultaneamente à Comissão os seus dados reais relativos aos anos n-1, n-2, n-3 e n-4, dos correspondentes saldos de tesouraria e os valores que demonstram a transição entre os saldos de tesouraria de cada subsector público e o seu défice público nos subsectores S.1312, S.1313 e S.1314,\n\n— notificarão à Comissão o nível programado da sua dívida pública no final do ano n, e o nível da sua dívida pública verificada no final dos anos n-1, n-2, n-3 e n-4,\n\n— comunicarão simultaneamente à Comissão, para os anos n-1, n-2, n-3 e n-4, os valores que explicam a contribuição do seu défice orçamental e dos outros factores pertinentes para a variação do nível da sua dívida pública por subsector.\n\n3. Antes de 1 de Outubro do ano n, os Estados-Membros notificarão à Comissão:\n\n— o seu défice orçamental programado para o ano n, actualizado, bem como o défice orçamental verificado nos anos n-1, n-2, n-3 e n-4, e darão cumprimento ao disposto no segundo e terceiro travessões do n.º 2,\n\n— o seu défice orçamental programado, actualizado, no final do ano n, bem como os níveis de défice orçamental verificado no final dos anos n-1, n-2, n-3 e n-4, e darão cumprimento ao disposto no quinto travessão do n.º 2.\n\n4. Os valores do défice orçamental programado, notificados à Comissão nos termos do disposto nos n.^os^ 2 e 3, serão expressos em moeda nacional e em anos orçamentais.\n\nOs valores do défice orçamental verificado e do nível da dívida pública verificada, notificados à Comissão nos termos do disposto nos n.^os^ 2 e 3, serão expressos em moeda nacional e em anos civis, com excepção das estimativas mais recentes para o ano n-1, que poderão ser expressas em anos orçamentais.\n\nCaso o ano orçamental não coincida com o ano civil, os Estados-membros notificarão igualmente à Comissão os seus valores do défice orçamental verificado e do nível da dívida pública verificada, por anos orçamentais, para os dois anos orçamentais que precedem o ano orçamental em curso."
+  },
+  "82debbab9a7df89a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros comunicarão à Comissão, segundo as modalidades referidas nos n.^os^ 1, 2 e 3 do artigo 4.º, os valores relativos às suas despesas de investimento público [**►M1**](http://publications.europa.eu/resource/celex/32000R0475) e de juros (consolidados)**◄**."
+  },
+  "199f95694d3a8731": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros apresentarão à Comissão uma previsão do seu produto interno bruto para o ano n, bem como o montante do seu produto interno bruto verificado nos anos n-1, n-2, n-3 e n-4, nos mesmos prazos que os referidos no n.º 1 do artigo 4.º"
+  },
+  "6060540fc854b6ca": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros informarão a Comissão de qualquer revisão importante dos valores, do défice orçamental programado, uma vez obtidos, bem como dos valores da dívida pública já notificados.\n\n2. Qualquer revisão importante dos valores efectivos do défice orçamental e da dívida pública já notificados deve ser devidamente fundamentada. As revisões de que resultem serem excedidos em qualquer sentido os valores de referência especificados no protocolo pertinente do Tratado, ou as revisões que indiquem que os dados do Estado-Membro já não excedem os valores de referência, devem sempre ser notificadas e devidamente documentadas."
+  },
+  "363989161ba6f6d1": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-Membros tornarão públicos os dados efectivos sobre o défice orçamental e a dívida pública, bem como outros dados referentes aos anos transactos, notificados à Comissão nos termos dos artigos 4.º, 5.º, 6.º e 7.º."
+  },
+  "f690c249e6419e68": {
+   "fragment_id": "SECÇÃO 2-A",
+   "type": "divisao",
+   "heading": "SECÇÃO 2-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2-A"
+  },
+  "499191831d57783a": {
+   "fragment_id": "Qualidade dos dados",
+   "type": "divisao",
+   "heading": "Qualidade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Qualidade dos dados"
+  },
+  "49053ffa4b1b4392": {
+   "fragment_id": "Artigo 8.º-A",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A\n\n1. A Comissão (Eurostat) avaliará periodicamente a qualidade tanto dos dados reais notificados pelos Estados-Membros como das contas do sector público que servirão de base à respectiva compilação, de acordo com o SEC 95 (adiante designadas por «contas públicas»). Por qualidade dos dados, entende-se o cumprimento das normas de contabilidade, o carácter exaustivo, a fiabilidade, a actualidade e a coerência dos dados estatísticos. A avaliação centrar-se-á em aspectos especificados nos inventários dos Estados-Membros tais como a delimitação do sector público, a classificação das operações públicas e do passivo público e a data do registo.\n\n2. Sem prejuízo das disposições relativas à confidencialidade estatística previstas no Regulamento (CE) n.º 322/97, os Estados-Membros facultarão à Comissão (Eurostat), no mais curto prazo, as informações estatísticas pertinentes que sejam necessárias para avaliar a qualidade dos dados.\n\nAs «informações estatísticas» a que se refere o primeiro parágrafo deverão limitar-se ao estritamente necessário para verificar a observância das normas do SEC. Por «informações estatísticas» entende-se, nomeadamente:\n\n— Dados das contas nacionais\n\n— Inventários\n\n— Quadros de notificação do PDE\n\n— Questionários e clarificações complementares relacionados com as notificações.\n\nO formato dos questionários será definido pela Comissão (Eurostat) após consulta do Comité de Estatísticas Monetárias, Financeiras e de Balanças de Pagamentos ([^6^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#E0006)).\n\n3. A Comissão (Eurostat) apresentará periodicamente ao Parlamento Europeu e ao Conselho um relatório sobre a qualidade dos dados efectivos comunicados pelos Estados-Membros. O relatório incidirá sobre a avaliação global dos dados efectivos comunicados pelos Estados-Membros em termos de cumprimento das normas contabilísticas, bem como do carácter exaustivo, fiabilidade, actualidade e coerência dos dados."
+  },
+  "d09d3344f4467534": {
+   "fragment_id": "Artigo 8.º-B",
+   "type": "artigo",
+   "heading": "Artigo 8.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-B\n\n1. Os Estados-Membros fornecerão à Comissão (Eurostat) um inventário circunstanciado dos métodos, procedimentos e fontes utilizados para a compilação dos dados efectivos relativos ao défice orçamental e à dívida pública, bem como às contas públicas em que se baseiam.\n\n2. Os inventários serão elaborados em conformidade com as orientações adoptadas pela Comissão (Eurostat), após consulta do CMFB, criado pela Decisão 91/115/CEE do Conselho.\n\n3. Os inventários deverão ser actualizados na sequência de revisões dos métodos, procedimentos e fontes utilizados pelos Estados-Membros na compilação dos seus dados estatísticos.\n\n4. Os Estados-Membros tornarão públicos os seus inventários.\n\n5. As questões referidas nos n.^os^ 1, 2 e 3 podem ser tratadas nas visitas previstas no artigo 8.º-D."
+  },
+  "f12132b774f2fa38": {
+   "fragment_id": "Artigo 8.º-C",
+   "type": "artigo",
+   "heading": "Artigo 8.º-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-C\n\n1. Em caso de dúvida quanto à correcta aplicação das normas contabilísticas do SEC 95, o Estado-Membro interessado deverá solicitar esclarecimentos à Comissão (Eurostat). A Comissão (Eurostat) deverá analisar a questão no mais curto prazo e comunicar os seus esclarecimentos ao Estado-Membro interessado e, sempre que se justifique, também ao CMFB.\n\n2. Nos casos que, no entender da Comissão ou do Estado-Membro interessado, sejam complexos ou de interesse geral, a Comissão (Eurostat) deverá tomar uma decisão após consulta ao CMBF. Sem prejuízo das disposições relativas à confidencialidade estatística previstas no Regulamento (CE) n.º 322/97, a Comissão (Eurostat) tornará públicas as suas decisões, juntamente com o parecer do CMFB."
+  },
+  "6eba3948e158a990": {
+   "fragment_id": "Artigo 8.º-D",
+   "type": "artigo",
+   "heading": "Artigo 8.º-D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-D\n\nA Comissão (Eurostat) assegurará um diálogo permanente com as autoridades estatísticas dos Estados-Membros. Para este efeito, a Comissão (Eurostat) realizará periodicamente visitas de diálogo bem como eventuais visitas metodológicas a todos os Estados-Membros. As visitas metodológicas apenas serão realizadas nos casos em que existam riscos substanciais ou problemas potenciais com a qualidade dos dados, especialmente no que respeita aos métodos, conceitos e classificação aplicados aos dados, que os Estados-Membros têm a obrigação de notificar.\n\nAs visitas de diálogo destinam-se a analisar os dados notificados, a examinar questões metodológicas, a debater os processos e fontes das estatísticas descritos nos inventários e a avaliar a observância das normas de contabilidade. As visitas de diálogo deverão servir para detectar riscos ou potenciais problemas relativamente à qualidade dos dados declarados. As visitas metodológicas destinam-se a seguir os processos públicos e contas públicas que justificaram os dados efectivamente notificados e a retirar conclusões pormenorizadas sobre a qualidade dos dados notificados, referida no n.º 1 do artigo 8.º-A. As visitas metodológicas deverão circunscrever-se às questões puramente estatísticas. Isso reflectir-se-á na composição das delegações referidas no artigo 8.º-E.\n\nAo organizar as visitas de diálogo e visitas metodológicas, a Comissão (Eurostat) comunicará os respectivos resultados provisórios aos Estados-Membros em questão, para que estes apresentem as suas observações."
+  },
+  "28d929a5a964313b": {
+   "fragment_id": "Artigo 8.º-E",
+   "type": "artigo",
+   "heading": "Artigo 8.º-E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-E\n\n1. Durante as visitas metodológicas nos Estados-Membros, a Comissão (Eurostat) pode solicitar assistência a contabilistas nacionais, propostos por outros Estados-Membros a título voluntário, bem como a outros serviços da Comissão.\n\nA lista de contabilistas nacionais a que a Comissão pode solicitar assistência será constituída com base em propostas apresentadas à Comissão pelas autoridades nacionais responsáveis pela notificação de défices excessivos.\n\n2. Os Estados-Membros tomarão todas as medidas necessárias para facilitar as visitas metodológicas. Estas visitas deverão ser confinadas às autoridades nacionais envolvidas no processo de notificação de défices excessivos. Todavia, os Estados-Membros deverão garantir que os respectivos serviços directa ou indirectamente envolvidos no apuramento das contas e dívida públicas e, sempre que necessário, as suas entidades nacionais que tenham uma responsabilidade operacional no controlo das contas públicas, forneçam aos funcionários da Comissão ou a outros peritos, referidos no n.º 1, toda a assistência necessária ao cumprimento dos seus deveres, nomeadamente disponibilizando documentos que justifiquem os dados efectivos notificados sobre o défice orçamental e a dívida pública, bem como as contas públicas em que se baseiam. Os registos confidenciais do sistema estatístico nacional só poderão ser facultados à Comissão (Eurostat).\n\nSem prejuízo da obrigação geral dos Estados-Membros de tomar todas as medidas necessárias para facilitar as visitas metodológicas, os interlocutores do Eurostat para as visitas metodológicas a que se refere no primeiro parágrafo são, em cada Estado-Membro, os serviços responsáveis pelo processo de notificação de défices excessivos.\n\n3. A Comissão (Eurostat) deverá zelar por que os funcionários e os peritos que participem nas visitas ofereçam todas as garantias de competência técnica, isenção profissional e respeito pela confidencialidade."
+  },
+  "c0f0611675446a6e": {
+   "fragment_id": "Artigo 8.º-F",
+   "type": "artigo",
+   "heading": "Artigo 8.º-F",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-F\n\nA Comissão (Eurostat) comunicará ao Comité Económico e Financeiro os resultados das visitas de diálogo e metodológicas, incluindo quaisquer observações sobre tais resultados formuladas pelo Estado-Membro interessado. Sem prejuízo das disposições relativas à confidencialidade estatística previstas no Regulamento (CE) n.º 322/97, tais informações, uma vez transmitidas ao Comité Económico e Financeiro, serão divulgadas, juntamente com as eventuais observações do Estado-Membro interessado."
+  },
+  "a52294914fe1f1b1": {
+   "fragment_id": "SECÇÃO 2-B",
+   "type": "divisao",
+   "heading": "SECÇÃO 2-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2-B"
+  },
+  "7588d5aede1dbe76": {
+   "fragment_id": "Fornecimento de dados pela comissão",
+   "type": "divisao",
+   "heading": "Fornecimento de dados pela comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Fornecimento de dados pela comissão"
+  },
+  "82ccd4580a0252b9": {
+   "fragment_id": "Artigo 8.º-G",
+   "type": "artigo",
+   "heading": "Artigo 8.º-G",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-G\n\n1. Em aplicação do protocolo sobre o procedimento relativo aos défices excessivos, a Comissão (Eurostat) fornecerá os dados efectivos sobre o défice orçamental e a dívida pública verificados no prazo de três semanas após os prazos de notificação referidos no n.º 1 do artigo 4.º ou após as revisões mencionadas no n.º 1 do artigo 7.º. Os dados serão fornecidos por publicação.\n\n2. Caso um Estado-Membro não notifique os seus próprios dados, a Comissão (Eurostat) não retardará o fornecimento dos dados efectivos relativos aos défices orçamentais e às dívidas públicas dos restantes Estados-Membros."
+  },
+  "32872e3787bd0da1": {
+   "fragment_id": "Artigo 8.º-H",
+   "type": "artigo",
+   "heading": "Artigo 8.º-H",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-H\n\n1. A Comissão (Eurostat) pode manifestar uma reserva em relação à qualidade dos dados efectivos notificados pelos Estados-Membros. O mais tardar dois três dias úteis antes da data de publicação prevista, a Comissão (Eurostat) notificará ao Estado-Membro em questão e ao presidente do Comité Económico e Financeiro a reserva que tenciona manifestar e tornar pública. Sempre que a questão seja dirimida após a publicação dos dados e da reserva, o levantamento da reserva será de imediato tornado público.\n\n2. A Comissão (Eurostat) pode alterar os dados efectivos notificados pelos Estados-Membros e fornecer os dados alterados, bem como uma justificação da alteração, sempre que, comprovadamente, os dados efectivos notificados pelos Estados-Membros não cumpram os requisitos do n.º 1 do artigo 8.º-A do presente regulamento. O mais tardar dois três dias úteis antes da data de publicação prevista, a Comissão (Eurostat) notificará ao Estado-Membro em questão e ao presidente do Comité Económico e Financeiro os dados alterados e a justificação da alteração."
+  },
+  "a6e710c105f59da6": {
+   "fragment_id": "SECÇÃO 2-C",
+   "type": "divisao",
+   "heading": "SECÇÃO 2-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2-C"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "8b22d77b3b62c3b8": {
+   "fragment_id": "Artigo 8.º-I",
+   "type": "artigo",
+   "heading": "Artigo 8.º-I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-I\n\n1. Os Estados-Membros assegurarão que os dados efectivos notificados à Comissão sejam fornecidos em conformidade com os princípios estabelecidos no artigo 10.º do Regulamento (CE) n.º 322/97 do Conselho. Nesta matéria, cabe aos institutos nacionais de estatística garantir a conformidade dos dados notificados com o disposto nos artigos 1.º e 2.º e com as normas contabilísticas subjacentes do SEC 95.\n\n2. Os Estados-Membros tomarão todas as medidas adequadas para garantir que os funcionários incumbidos de notificar à Comissão os dados efectivos e as contas públicas em que se baseiam agem em conformidade com os princípios estabelecidos no artigo 10.º do Regulamento (CE) n.º 322/97."
+  },
+  "2c15c908fee995ba": {
+   "fragment_id": "Artigo 8.º-J",
+   "type": "artigo",
+   "heading": "Artigo 8.º-J",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-J\n\nEm caso de uma revisão do SEC 95 ou de alteração da sua metodologia, decidida pelo Parlamento Europeu e pelo Conselho ou pela Comissão, em conformidade com as regras de competência e de procedimento fixadas no Tratado e no Regulamento (CE) n.º 2223/96, a Comissão introduzirá as novas referências ao SEC 95 nos artigos 1.º, 2.º e 4.º.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "6595bd5577df8997": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#src.E0001)) JO n.º C 324 de 1. 12. 1993, p. 8 e\n\n> JO n.º C 340 de 17. 12. 1993, p. 8\n\n> .\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#src.E0002)) JO n.º C 329 de 6. 12. 1993.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#src.E0003)) Serviço de Estatística das Comunidades Europeias, «Sistema europeu de contas económicas integradas (SEC)», segunda edição.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#src.E0004)) JO n.º L 49, de 21. 2. 1989, p. 26.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#src.E0005)) Regulamento (CE) n.º 2223/96 do Conselho, de 25 de Junho de 1996, relativo ao Sistema Europeu de Contas Nacionais e Regionais na Comunidade (JO L 310 de 30.11.1996, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7550e848-d464-4736-9ce8-0043def1c214.0017.03/DOC_1#src.E0006)) JO L 59 de 6.3.1991, p. 19."
+  },
+  "655ede7762c4e776": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993R3605 — PT — 30.06.2009 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993R3605) [REGULAMENTO (CE) N.º 3605/93 DO CONSELHO](http://publications.europa.eu/resource/celex/31993R3605) [de 22 de Novembro de 1993](http://publications.europa.eu/resource/celex/31993R3605) [relativo à aplicação do protocolo sobre o procedimento relativo aos défices excessivos anexo ao Tratado que institui a Comunidade Europeia](http://publications.europa.eu/resource/celex/31993R3605) (JO L 332, 31.12.1993, p.7)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 479/2009 do Conselho de 25 de Maio de 2009](http://publications.europa.eu/resource/celex/32009R0479) — L 145 — 1 — 10.6.2009"
+  }
+ }
+}

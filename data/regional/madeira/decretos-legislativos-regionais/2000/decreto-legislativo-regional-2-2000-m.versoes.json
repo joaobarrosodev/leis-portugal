@@ -1,0 +1,304 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:405962:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2000-899909340",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2000-405962",
+ "source_lastmod": "2024-12-12",
+ "versions": [
+  {
+   "date": "2000-01-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "900020383",
+    "899873653",
+    "899873654",
+    "899873655",
+    "899873656",
+    "899873657",
+    "899873658",
+    "899873659",
+    "899873660",
+    "899873661"
+   ]
+  },
+  {
+   "date": "2002-11-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:449271:por",
+     "title": "Decreto Legislativo Regional n.º 21/2002/M",
+     "published": "2002-11-16",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/21-2002-449271"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "899873652",
+    "899873653",
+    "900020381",
+    "899873655",
+    "900020382",
+    "899873657",
+    "899873658",
+    "899873659",
+    "899873660",
+    "899873661",
+    "899873662"
+   ]
+  },
+  {
+   "date": "2024-12-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:899909688:por",
+     "title": "Decreto Legislativo Regional n.º 16/2024/M",
+     "published": "2024-12-12",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/16-2024-899909688"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "900020383",
+    "900020384",
+    "900020385",
+    "900020386",
+    "900020387",
+    "900020388",
+    "900020389",
+    "900020390",
+    "900020391",
+    "900020392",
+    "900020393"
+   ]
+  }
+ ],
+ "fragments": {
+  "900020383": {
+   "fragment_id": "899909341",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-12-13",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 2/2000/M\n\nConverte o Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico em Conservatório - Escola Profissional das Artes da Madeira.\n\nPelo Decreto-Lei n.º 4/98, de 8 de Janeiro, foi reformulado o regime jurídico de criação, organização e funcionamento das escolas profissionais no âmbito do ensino não superior. Tratou-se, em termos essenciais, de reforçar a identificação do ensino profissional como uma modalidade especial de educação dirigida à estruturação e qualificação educativa da formação profissional dos jovens.\n\nNeste contexto, afigura-se de toda a relevância para a Região Autónoma da Madeira a criação de uma escola profissional que integre todas as actividades relacionadas com as artes. Acresce que, existindo no panorama educativo da Região, actualmente, o Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico, já vocacionado para a área artística, ainda que especificamente da música, justifica-se a ampliação das respectivas áreas de acção no sentido de abranger também o teatro, a dança e as artes em geral.\n\nEm termos organizacionais, torna-se também necessário, mercê da abrangência das referidas áreas, que se passe a reforçar o relacionamento, de um lado, entre a educação escolar e a formação profissional e, do outro, entre as organizações escolares e as instituições económicas, profissionais, associativas, sociais e culturais, o que fica potenciado com o funcionamento de uma escola profissional.\n\nAssim sendo, torna-se de toda a actualidade a criação de uma escola profissional das artes da Madeira que proporcione formação artística especializada nas áreas da música, do teatro, da dança e das artes em geral, em lugar do actual Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico, que se extingue.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 37.º da Lei n.º 130/99, de 21 de Agosto, o seguinte:"
+  },
+  "899873653": {
+   "fragment_id": "899909342",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico é convertido em Conservatório - Escola Profissional das Artes da Madeira, adiante designado por CEPAM."
+  },
+  "899873654": {
+   "fragment_id": "899909343",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza e regime\n\n1 - O CEPAM é um estabelecimento público de ensino secundário e rege-se pelo disposto no presente diploma e, subsidiariamente, pela legislação aplicável às escolas profissionais.\n\n2 - O CEPAM é dotado de autonomia administrativa, financeira e patrimonial."
+  },
+  "899873655": {
+   "fragment_id": "899909344",
+   "type": 11,
+   "heading": "Artigo 3.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tutela\n\nNo desempenho da sua actividade, o CEPAM está sujeito à tutela da Secretaria Regional de Educação."
+  },
+  "899873656": {
+   "fragment_id": "899909345",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\nSão atribuições do CEPAM:\n\na) Contribuir para a formação integral dos jovens, proporcionando-lhes, designadamente, preparação adequada para um exercício profissional qualificado;\n\nb) Desenvolver mecanismos de aproximação entre a escola e as instituições económicas, profissionais, associativas, sociais e culturais do respectivo tecido social;\n\nc) Facultar aos alunos contactos com o mundo do trabalho e experiência profissional, preparando-os para uma adequada inserção sócio-profissional;\n\nd) Promover, conjuntamente com outros agentes e instituições locais, a concretização de um projecto de formação de recursos humanos qualificados que responda às necessidades do desenvolvimento integrado regional e local;\n\ne) Facultar aos alunos uma sólida formação geral, científica e tecnológica capaz de os preparar para a vida activa e para o prosseguimento de estudos."
+  },
+  "899873657": {
+   "fragment_id": "899909346",
+   "type": 11,
+   "heading": "Artigo 5.º — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Organização e funcionamento\n\nA estrutura orgânica e competências dos diversos órgãos e serviços e formas de designação e de substituição dos seus titulares, o quadro de pessoal e forma de transição do pessoal que desempenhava funções no Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico e o regime de contratação constarão de decreto regulamentar regional a publicar no prazo máximo de 180 dias."
+  },
+  "899873658": {
+   "fragment_id": "899909347",
+   "type": 11,
+   "heading": "Artigo 6.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Financiamento\n\nConstituem receitas do CEPAM:\n\na) As verbas para tal inscritas no Orçamento da Região Autónoma da Madeira;\n\nb) As comparticipações a que tenha direito no âmbito de contratos-programa celebrados com a Região ou quaisquer outras entidades;\n\nc) Os co-financiamentos que lhe caibam;\n\nd) As propinas dos seus alunos e formandos;\n\ne) As receitas geradas pelas actividades de formação ou outras por ela desenvolvidas;\n\nf) O produto de doações ou outras liberalidades feitas a seu favor;\n\ng) Os juros dos seus depósitos bancários;\n\nh) Os saldos dos anos económicos findos;\n\ni) As receitas obtidas pela alienação, nos termos da lei, de qualquer património;\n\nj) O rendimento de bens próprios móveis ou imóveis ou administrados por si;\n\nk) Outras que por lei ou regulamento lhe sejam atribuídas."
+  },
+  "899873659": {
+   "fragment_id": "899909348",
+   "type": 11,
+   "heading": "Artigo 7.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Património\n\nÉ incorporado no património do CEPAM todo o património móvel ou imóvel atribuído ao Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico."
+  },
+  "899873660": {
+   "fragment_id": "899909349",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma transitória\n\nAté à entrada em vigor do decreto regulamentar regional previsto no artigo 5.º deste diploma, mantém-se em vigor a actual organização e funcionamento do Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico."
+  },
+  "899873661": {
+   "fragment_id": "899909350",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "899873652": {
+   "fragment_id": "899909341",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 2/2000/M\n\nConverte o Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico em Conservatório - Escola Profissional das Artes da Madeira.\n\nPelo Decreto-Lei n.º 4/98, de 8 de Janeiro, foi reformulado o regime jurídico de criação, organização e funcionamento das escolas profissionais no âmbito do ensino não superior. Tratou-se, em termos essenciais, de reforçar a identificação do ensino profissional como uma modalidade especial de educação dirigida à estruturação e qualificação educativa da formação profissional dos jovens.\n\nNeste contexto, afigura-se de toda a relevância para a Região Autónoma da Madeira a criação de uma escola profissional que integre todas as actividades relacionadas com as artes. Acresce que, existindo no panorama educativo da Região, actualmente, o Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico, já vocacionado para a área artística, ainda que especificamente da música, justifica-se a ampliação das respectivas áreas de acção no sentido de abranger também o teatro, a dança e as artes em geral.\n\nEm termos organizacionais, torna-se também necessário, mercê da abrangência das referidas áreas, que se passe a reforçar o relacionamento, de um lado, entre a educação escolar e a formação profissional e, do outro, entre as organizações escolares e as instituições económicas, profissionais, associativas, sociais e culturais, o que fica potenciado com o funcionamento de uma escola profissional.\n\nAssim sendo, torna-se de toda a actualidade a criação de uma escola profissional das artes da Madeira que proporcione formação artística especializada nas áreas da música, do teatro, da dança e das artes em geral, em lugar do actual Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico, que se extingue.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 37.º da Lei n.º 130/99, de 21 de Agosto, o seguinte:"
+  },
+  "900020381": {
+   "fragment_id": "899909343",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e regime",
+   "in_force_from": "2002-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 21/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2002-449271), em vigor a partir de 2002-11-17"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza e regime\n\n1 - O CEPAM é um estabelecimento público de ensino secundário e rege-se pelo disposto no presente diploma e, subsidiariamente, pela legislação aplicável às escolas profissionais.\n\n2 - O CEPAM, nos termos do n.º 3 do artigo 4.º do Decreto-Lei n.º 344/90, de 2 de Novembro, ministra ainda a educação artística vocacional, seguindo, relativamente a esta via de educação artística, o regime jurídico previsto nesse diploma.\n\n3 - O CEPAM é dotado de autonomia administrativa, financeira e patrimonial.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 21/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2002-449271), em vigor a partir de 2002-11-17"
+  },
+  "900020382": {
+   "fragment_id": "899909345",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2002-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 21/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2002-449271), em vigor a partir de 2002-11-17"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\nSão atribuições do CEPAM:\n\na) Contribuir para a formação integral dos jovens, proporcionando-lhes, designadamente, preparação adequada para um exercício profissional qualificado;\n\nb) Desenvolver mecanismos de aproximação entre a escola e as instituições económicas, profissionais, associativas, sociais e culturais do respectivo tecido social;\n\nc) Facultar aos alunos contactos com o mundo do trabalho e experiência profissional, preparando-os para uma adequada inserção sócio-profissional;\n\nd) Promover, conjuntamente com outros agentes e instituições locais, a concretização de um projecto de formação de recursos humanos qualificados que responda às necessidades do desenvolvimento integrado regional e local;\n\ne) Facultar aos alunos uma sólida formação geral, científica e tecnológica capaz de os preparar para a vida activa e para o prosseguimento de estudos.\n\nf) Facultar aos alunos uma educação artística vocacional, que consiste em funções especializadas destinadas a indivíduos com comprovadas aptidões ou talentos em algumas áreas artísticas específicas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 21/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2002-449271), em vigor a partir de 2002-11-17"
+  },
+  "899873662": {
+   "fragment_id": "899909351",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 10 de Dezembro de 1999.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 5 de Janeiro de 2000.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "900020384": {
+   "fragment_id": "899909342",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2024-12-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico é convertido em Conservatório - Escola Profissional das Artes da Madeira, adiante designado por CEPAM.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+  },
+  "900020385": {
+   "fragment_id": "899909343",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e regime",
+   "in_force_from": "2024-12-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 21/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2002-449271), em vigor a partir de 2002-11-17"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza e regime\n\n1 - O CEPAM é um estabelecimento público de ensino secundário e rege-se pelo disposto no presente diploma e, subsidiariamente, pela legislação aplicável às escolas profissionais.\n\n2 - O CEPAM, nos termos do n.º 3 do artigo 4.º do Decreto-Lei n.º 344/90, de 2 de Novembro, ministra ainda a educação artística vocacional, seguindo, relativamente a esta via de educação artística, o regime jurídico previsto nesse diploma.\n\n3 - O CEPAM é dotado de autonomia administrativa, financeira e patrimonial.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 21/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2002-449271), em vigor a partir de 2002-11-17"
+  },
+  "900020386": {
+   "fragment_id": "899909344",
+   "type": 11,
+   "heading": "Artigo 3.º — Tutela",
+   "in_force_from": "2024-12-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+   ],
+   "markdown": "###### Artigo 3.º — Tutela\n\nNo desempenho da sua actividade, o CEPAM está sujeito à tutela da Secretaria Regional de Educação.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+  },
+  "900020387": {
+   "fragment_id": "899909345",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2024-12-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 21/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2002-449271), em vigor a partir de 2002-11-17"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\nSão atribuições do CEPAM:\n\na) Contribuir para a formação integral dos jovens, proporcionando-lhes, designadamente, preparação adequada para um exercício profissional qualificado;\n\nb) Desenvolver mecanismos de aproximação entre a escola e as instituições económicas, profissionais, associativas, sociais e culturais do respectivo tecido social;\n\nc) Facultar aos alunos contactos com o mundo do trabalho e experiência profissional, preparando-os para uma adequada inserção sócio-profissional;\n\nd) Promover, conjuntamente com outros agentes e instituições locais, a concretização de um projecto de formação de recursos humanos qualificados que responda às necessidades do desenvolvimento integrado regional e local;\n\ne) Facultar aos alunos uma sólida formação geral, científica e tecnológica capaz de os preparar para a vida activa e para o prosseguimento de estudos.\n\nf) Facultar aos alunos uma educação artística vocacional, que consiste em funções especializadas destinadas a indivíduos com comprovadas aptidões ou talentos em algumas áreas artísticas específicas.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 21/2002/M - Diário da República n.º 265/2002, Série I-A de 2002-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2002-449271), em vigor a partir de 2002-11-17"
+  },
+  "900020388": {
+   "fragment_id": "899909346",
+   "type": 11,
+   "heading": "Artigo 5.º — Organização e funcionamento",
+   "in_force_from": "2024-12-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+   ],
+   "markdown": "###### Artigo 5.º — Organização e funcionamento\n\nA estrutura orgânica e competências dos diversos órgãos e serviços e formas de designação e de substituição dos seus titulares, o quadro de pessoal e forma de transição do pessoal que desempenhava funções no Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico e o regime de contratação constarão de decreto regulamentar regional a publicar no prazo máximo de 180 dias.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+  },
+  "900020389": {
+   "fragment_id": "899909347",
+   "type": 11,
+   "heading": "Artigo 6.º — Financiamento",
+   "in_force_from": "2024-12-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+   ],
+   "markdown": "###### Artigo 6.º — Financiamento\n\nConstituem receitas do CEPAM:\n\na) As verbas para tal inscritas no Orçamento da Região Autónoma da Madeira;\n\nb) As comparticipações a que tenha direito no âmbito de contratos-programa celebrados com a Região ou quaisquer outras entidades;\n\nc) Os co-financiamentos que lhe caibam;\n\nd) As propinas dos seus alunos e formandos;\n\ne) As receitas geradas pelas actividades de formação ou outras por ela desenvolvidas;\n\nf) O produto de doações ou outras liberalidades feitas a seu favor;\n\ng) Os juros dos seus depósitos bancários;\n\nh) Os saldos dos anos económicos findos;\n\ni) As receitas obtidas pela alienação, nos termos da lei, de qualquer património;\n\nj) O rendimento de bens próprios móveis ou imóveis ou administrados por si;\n\nk) Outras que por lei ou regulamento lhe sejam atribuídas.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+  },
+  "900020390": {
+   "fragment_id": "899909348",
+   "type": 11,
+   "heading": "Artigo 7.º — Património",
+   "in_force_from": "2024-12-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+   ],
+   "markdown": "###### Artigo 7.º — Património\n\nÉ incorporado no património do CEPAM todo o património móvel ou imóvel atribuído ao Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+  },
+  "900020391": {
+   "fragment_id": "899909349",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma transitória",
+   "in_force_from": "2024-12-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+   ],
+   "markdown": "###### Artigo 8.º — Norma transitória\n\nAté à entrada em vigor do decreto regulamentar regional previsto no artigo 5.º deste diploma, mantém-se em vigor a actual organização e funcionamento do Conservatório de Música da Madeira - Escola Secundária de Ensino Artístico.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+  },
+  "900020392": {
+   "fragment_id": "899909350",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": "2024-12-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+  },
+  "900020393": {
+   "fragment_id": "899909351",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-12-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+   ],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 10 de Dezembro de 1999.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 5 de Janeiro de 2000.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2024/M - Diário da República n.º 241/2024, Série I de 2024-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2024-899909688), em vigor a partir de 2024-12-13"
+  }
+ }
+}

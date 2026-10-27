@@ -1,0 +1,277 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:186577262:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-207863008",
+ "dre_path": "/dr/detalhe/decreto-lei/50-a-2022-186577262",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "207863411",
+    "207863412",
+    "207863413",
+    "207863414",
+    "207863415",
+    "207863416",
+    "207863417",
+    "207863418",
+    "207863419"
+   ]
+  },
+  {
+   "date": "2023-02-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207760044:por",
+     "title": "Decreto-Lei n.º 15/2023",
+     "published": "2023-02-24",
+     "dre_path": "/dr/detalhe/decreto-lei/15-2023-207760044"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "207863411",
+    "207863412",
+    "207863427",
+    "207863428",
+    "207863432",
+    "207863429",
+    "207863430",
+    "207863431",
+    "207863419",
+    "207863420"
+   ]
+  },
+  {
+   "date": "2023-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216770688:por",
+     "title": "Decreto-Lei n.º 65/2023",
+     "published": "2023-08-07",
+     "dre_path": "/dr/detalhe/decreto-lei/65-2023-216770688"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "207863411",
+    "207863412",
+    "207863427",
+    "207863428",
+    "207863432",
+    "207863429",
+    "207863430",
+    "216772043",
+    "207863419",
+    "207863420"
+   ]
+  },
+  {
+   "date": "2023-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223906279:por",
+     "title": "Decreto-Lei n.º 103/2023",
+     "published": "2023-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/103-2023-223906279"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "207863411",
+    "207863412",
+    "207863427",
+    "207863428",
+    "207863432",
+    "207863429",
+    "207863430",
+    "223938095",
+    "207863419",
+    "207863420"
+   ]
+  }
+ ],
+ "fragments": {
+  "207863411": {
+   "fragment_id": "207863009",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 50-A/2022\n\nde 25 de julho\n\nSumário: Estabelece o regime remuneratório do trabalho suplementar realizado por médicos em serviços de urgência.\n\nOs profissionais de saúde são essenciais para a resposta dos sistemas de saúde às necessidades assistenciais da população e, por isso, ao longo dos últimos anos, o Serviço Nacional de Saúde (SNS) investiu no aumento do seu número de médicos especialistas, que cresceram cerca de 23 % entre 2015 e 2022.\n\nApesar do caminho percorrido, as caraterísticas da atual demografia médica, em que cerca de 40 % dos efetivos têm mais de 50 anos, e do modelo de organização de trabalho que dela decorre, em termos de dispensa de trabalho noturno e de trabalho em serviço de urgência, não permitem, ainda, assegurar o funcionamento de todos os serviços de urgência, sem recurso à prestação de serviços médicos.\n\nA inversão desta dependência exige, por um lado, a implementação das reformas previstas no Plano de Recuperação e Resiliência, no domínio do modelo de governação dos hospitais públicos e do aumento das respostas em cuidados de saúde primários, designadamente a revisão das redes de referenciação hospitalar e dos modelos de organização das urgências metropolitanas, bem como a referenciação dos episódios de urgência triados como verdes, azuis e brancos para respostas programadas. Por outro lado, exige ainda que, no quadro do novo Estatuto do SNS e em negociação com os sindicatos representativos dos trabalhadores médicos, sejam definidas novas regras de organização do trabalho e respetivo regime remuneratório, em especial associadas à dedicação plena e ao trabalho em serviço de urgência.\n\nEnquanto são implementadas as reformas e negociadas as soluções de caráter estrutural, importa adotar as medidas de política que resolvam, no curto prazo, os problemas com que o SNS se confronta na resposta aos portugueses, conferindo aos órgãos máximos de gestão dos seus estabelecimentos e serviços os instrumentos adequados a valorizar o trabalho médico dos profissionais dos seus mapas de pessoal e reduzir a dependência da prestação de serviços, promovendo a estabilidade das equipas e a qualidade dos cuidados.\n\nNeste sentido, o presente decreto-lei estabelece um regime transitório, na pendência de negociação com os sindicatos representativos dos trabalhadores médicos e por um período de seis meses, que permite que os órgãos máximos de gestão dos hospitais públicos remunerem o trabalho realizado em serviço de urgência pelos médicos do seu mapa de pessoal, bem como pelos médicos internos que integrem equipas de urgência por valor superior ao que lhes corresponderia na respetiva categoria e posição remuneratória.\n\nAdicionalmente, estabelece-se que a celebração de contratos de aquisição de serviços médicos apenas é admissível quando esteja esgotada a possibilidade de o serviço ser assegurado por médicos do respetivo mapa de pessoal e que, no período de vigência do presente regime, os custos associados ao trabalho suplementar e à aquisição de serviços médicos não podem exceder, em cada serviço ou estabelecimento de saúde, os montantes pagos no último semestre de 2019.\n\nPor fim, acautela-se o regime de ajudas de custo aplicável aos casos de mobilidade parcial dos trabalhadores médicos, sempre que tal se revele necessário no quadro da gestão integrada dos serviços de urgência de duas ou mais unidades hospitalares.\n\nO presente regime prossegue o reforço da autonomia dos órgãos máximos de gestão dos hospitais públicos para a resposta às necessidades assistenciais da população servida, recorrendo, num quadro de sustentabilidade financeira, às soluções mais adequadas à especificidade de cada organização.\n\nForam observados os procedimentos de negociação coletiva, decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "207863412": {
+   "fragment_id": "207863010",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei:\n\na) Cria condições para a estabilização das equipas de urgência dos serviços e estabelecimentos de saúde públicos; e\n\nb) Estabelece um regime remuneratório aplicável à prestação de trabalho suplementar realizado por trabalhadores médicos necessário para assegurar o funcionamento dos serviços de urgência."
+  },
+  "207863413": {
+   "fragment_id": "207863011",
+   "type": 11,
+   "heading": "Artigo 2.º — Autonomia de contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autonomia de contratação\n\nO órgão máximo de gestão dos estabelecimentos de saúde integrados no Serviço Nacional de Saúde (SNS) têm competência, não carecendo de qualquer outra autorização, para celebrar contratos de trabalho sem termo com médicos especialistas, que correspondam a necessidades permanentes para assegurar o normal funcionamento dos serviços de urgência, designadamente os profissionais que aí tenham exercido funções em regime de prestação de serviços, por si ou através de empresas."
+  },
+  "207863414": {
+   "fragment_id": "207863012",
+   "type": 11,
+   "heading": "Artigo 3.º — Trabalho suplementar em serviços de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Trabalho suplementar em serviços de urgência\n\n1 - O trabalho suplementar prestado pelo trabalhador médico para garantir o normal funcionamento dos serviços de urgência é pago de acordo com o disposto nos números seguintes.\n\n2 - O valor hora do trabalho suplementar a pagar ao trabalhador médico não pode ser inferior ao que resulte da aplicação das regras estabelecidas no Decreto-Lei n.º 62/79, de 30 de março, para a correspondente categoria e posição remuneratória, nem exceder:\n\na) O valor hora de (euro) 50,00, a partir da 51.ª e até à 100.ª hora de trabalho suplementar, inclusive;\n\nb) O valor hora de (euro) 60,00, a partir da 101.ª e até à 150.ª hora de trabalho suplementar, inclusive;\n\nc) O valor hora de (euro) 70,00, a partir da 151.ª hora de trabalho suplementar, inclusive.\n\n3 - Nos casos em que o valor hora resultante da aplicação das regras definidas no Decreto-Lei n.º 62/79, de 30 de março, já seja superior aos valores referidos no número anterior, acresce 15 % ao valor hora resultante da aplicação daquele decreto-lei.\n\n4 - O regime previsto nos números anteriores para prestação de trabalho suplementar após a 150.º hora pressupõe que o trabalhador médico interessado esteja disponível para realizar, quando necessário, um período equivalente a 96 horas de trabalho suplementar num período de referência de oito semanas, a prestar em até duas jornadas de trabalho por semana, cada uma de duração não superior a 12 horas.\n\n5 - O valor hora previsto nos números anteriores é aplicável para efeitos de cálculo do trabalho suplementar prestado em regime de prevenção nos termos do n.º 3 do artigo 9.º do Decreto-Lei n.º 62/79, de 30 de março.\n\n6 - O disposto no n.º 2 aplica-se aos médicos internos que integrem a escala de urgência, na proporção de 50 % dos valores hora ali fixados ou, quando mais favorável, uma majoração de 10 % sobre o valor hora resultante da aplicação das regras definidas no Decreto-Lei n.º 62/79, de 30 de março.\n\n7 - Para efeitos de cálculo do volume de horas suscetível de determinar a aplicação do n.º 2 é considerado o somatório das horas de trabalho suplementar prestadas no corrente ano, incluindo as anteriores à entrada em vigor do presente decreto-lei, bem como as prestadas a partir de 1 de janeiro de 2023.\n\n8 - O disposto no presente artigo não é cumulável com o disposto no artigo 38.º da Lei n.º 12/2022, de 27 de junho, que aprova o Orçamento do Estado para 2022, sem prejuízo da sua aplicação quando o regime ali previsto for mais favorável para o trabalhador médico."
+  },
+  "207863415": {
+   "fragment_id": "207863013",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime excecional de mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime excecional de mobilidade\n\n1 - Quando em virtude do acionamento do plano de contingência seja necessário proceder à gestão integrada dos serviços de urgência de duas ou mais unidades hospitalares, o trabalhador médico pode acordar prestar trabalho destinado a assegurar o funcionamento do serviço de urgência em estabelecimento de saúde distinto daquele a cujo mapa de pessoal pertença.\n\n2 - Nas situações previstas no número anterior, o trabalho é assegurado em regime de mobilidade a tempo parcial, mediante despacho de autorização do membro do Governo responsável pela área da saúde, com possibilidade de delegação no conselho diretivo da Administração Regional de Saúde territorialmente competente.\n\n3 - Ao médico que acorde prestar trabalho ao abrigo do presente artigo aplica-se o regime previsto na Portaria n.º 70/2015, de 10 de março, sem prejuízo do número seguinte.\n\n4 - Ao abrigo do presente regime excecional, as ajudas de custo e despesas de transporte previstas na Portaria n.º 70/2015, de 10 de março, são devidas quando os estabelecimentos de saúde distem entre si uma distância igual ou superior a 30 km e se situem em concelhos distintos."
+  },
+  "207863416": {
+   "fragment_id": "207863014",
+   "type": 11,
+   "heading": "Artigo 5.º — Aquisição de serviços médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aquisição de serviços médicos\n\n1 - A celebração de contratos de aquisição de serviços com pessoal médico apenas é admissível nos casos em que comprovadamente o serviço não possa ser assegurado por médicos do respetivo mapa de pessoal, estando aqueles contratos sujeitos a um valor máximo por hora de trabalho que não pode exceder o valor hora mais elevado da remuneração base previsto na tabela remuneratória aplicável aos trabalhadores integrados na carreira médica ou especial médica.\n\n2 - Em situações de manifesta necessidade, designadamente suscetíveis de determinar o encerramento dos serviços de urgência externa, o órgão máximo de gestão pode autorizar o pagamento de um valor superior ao previsto no número anterior, tendo como limite máximo o valor hora mais elevado de trabalho suplementar a pagar aos trabalhadores médicos, de acordo com as regras definidas no presente decreto-lei.\n\n3 - Os contratos de prestação de serviços celebrados com pessoal médico devem ser reportados mensalmente à Administração Central do Sistema de Saúde, I. P., pelos respetivos serviços ou entidades, com indicação da especialidade, número de horas, semanal ou mensal, e o correspondente valor hora contratualizados."
+  },
+  "207863417": {
+   "fragment_id": "207863015",
+   "type": 11,
+   "heading": "Artigo 6.º — Custos com o trabalho suplementar e aquisição de serviços médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Custos com o trabalho suplementar e aquisição de serviços médicos\n\nNo período de vigência do presente decreto-lei, os custos associados ao trabalho suplementar e à aquisição de serviços médicos não podem exceder, em cada serviço ou estabelecimento de saúde, os montantes pagos a título de trabalho suplementar e de prestação de serviços médicos no último semestre de 2019, corrigidos dos encargos decorrentes das atualizações salariais anuais."
+  },
+  "207863418": {
+   "fragment_id": "207863016",
+   "type": 11,
+   "heading": "Artigo 7.º — Período de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Período de vigência\n\nO regime previsto no presente decreto-lei vigora até 31 de janeiro de 2023."
+  },
+  "207863419": {
+   "fragment_id": "207863017",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "207863427": {
+   "fragment_id": "207863011",
+   "type": 11,
+   "heading": "Artigo 2.º — Autonomia de contratação",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 2.º — Autonomia de contratação\n\nO órgão máximo de gestão dos estabelecimentos de saúde integrados no Serviço Nacional de Saúde (SNS) têm competência, após parecer prévio da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.), para celebrar contratos de trabalho sem termo com médicos especialistas, que correspondam a necessidades permanentes para assegurar o normal funcionamento dos serviços de urgência, designadamente os profissionais que aí tenham exercido funções em regime de prestação de serviços, por si ou através de empresas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-03-01"
+  },
+  "207863428": {
+   "fragment_id": "207863012",
+   "type": 11,
+   "heading": "Artigo 3.º — Trabalho suplementar em serviços de urgência",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Trabalho suplementar em serviços de urgência\n\n1 - O trabalho suplementar prestado pelo trabalhador médico para garantir o normal funcionamento dos serviços de urgência é pago de acordo com o disposto nos números seguintes.\n\n2 - O valor hora do trabalho suplementar a pagar ao trabalhador médico não pode ser inferior ao que resulte da aplicação das regras estabelecidas no Decreto-Lei n.º 62/79, de 30 de março, para a correspondente categoria e posição remuneratória, nem exceder:\n\na) O valor hora de (euro) 50,00, a partir da 51.ª e até à 100.ª hora de trabalho suplementar, inclusive;\n\nb) O valor hora de (euro) 60,00, a partir da 101.ª e até à 150.ª hora de trabalho suplementar, inclusive;\n\nc) O valor hora de (euro) 70,00, a partir da 151.ª hora de trabalho suplementar, inclusive.\n\n3 - O valor hora previsto nas alíneas do número anterior aplica-se ao trabalho suplementar realizado nas seguintes situações:\n\na) Em período noturno, ao sábado, ao domingo ou ao feriado, para assegurar o funcionamento do serviço de urgência externa;\n\nb) Independentemente do período e do dia em que seja realizado, em estabelecimento que diste a mais de 60 km de Lisboa, do Porto ou de Coimbra; ou\n\nc) Para assegurar o funcionamento da rede de urgências metropolitanas, por médico pertencente a mapa de pessoal de entidade distinta daquela em que funciona esse serviço de urgência.\n\n4 - O regime previsto nos números anteriores para prestação de trabalho suplementar após a 150.º hora pressupõe que o trabalhador médico interessado esteja disponível para realizar, quando necessário, um período equivalente a 96 horas de trabalho suplementar num período de referência de oito semanas, a prestar em até duas jornadas de trabalho por semana, cada uma de duração não superior a 12 horas.\n\n5 - Nas situações não abrangidas pelo n.º 3, o valor hora devido pelo trabalho suplementar corresponde a 75 % do valor hora previsto nas alíneas do n.º 2, em função do número de horas de trabalho suplementar realizadas.\n\n6 - Nos casos em que o valor hora resultante da aplicação das regras definidas no Decreto-Lei n.º 62/79, de 30 de março, já seja superior aos valores previstos nos n.os 2, 3 e 5, acresce 15 % ao valor hora resultante da aplicação daquele decreto-lei.\n\n7 - O valor hora previsto nos números anteriores é aplicável para efeitos de cálculo do trabalho suplementar prestado em regime de prevenção nos termos do n.º 3 do artigo 9.º do Decreto-Lei n.º 62/79, de 30 de março.\n\n8 - [Revogado.]\n\n9 - O disposto nos n.os 2, 3 e 5 aplica-se aos médicos internos que integrem a escala de urgência, na proporção de 50 % do valor hora previsto nas alíneas do n.º 2 ou, quando mais favorável, uma majoração de 10 % sobre o valor hora resultante da aplicação das regras definidas no Decreto-Lei n.º 62/79, de 30 de março.\n\n10 - Para efeitos do volume de horas suscetível de determinar a aplicação do n.º 2 é considerado o somatório das horas de trabalho suplementar prestadas desde 1 de fevereiro de 2023.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-03-01"
+  },
+  "207863432": {
+   "fragment_id": "207863013",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime excecional de mobilidade",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-02-01"
+   ],
+   "markdown": "###### Artigo 4.º — Regime excecional de mobilidade\n\n1 - Quando em virtude do acionamento do plano de contingência seja necessário proceder à gestão integrada dos serviços de urgência de duas ou mais unidades hospitalares, o trabalhador médico pode acordar prestar trabalho destinado a assegurar o funcionamento do serviço de urgência em estabelecimento de saúde distinto daquele a cujo mapa de pessoal pertença.\n\n2 - Nas situações previstas no número anterior, o trabalho é assegurado em regime de mobilidade a tempo parcial, mediante despacho de autorização do membro do Governo responsável pela área da saúde, com possibilidade de delegação no conselho diretivo da Administração Regional de Saúde territorialmente competente.\n\n3 - Ao médico que acorde prestar trabalho ao abrigo do presente artigo aplica-se o regime previsto na Portaria n.º 70/2015, de 10 de março, sem prejuízo do número seguinte.\n\n4 - Ao abrigo do presente regime excecional, as ajudas de custo e despesas de transporte previstas na Portaria n.º 70/2015, de 10 de março, são devidas quando os estabelecimentos de saúde distem entre si uma distância igual ou superior a 30 km e se situem em concelhos distintos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-02-01"
+  },
+  "207863429": {
+   "fragment_id": "207863014",
+   "type": 11,
+   "heading": "Artigo 5.º — Aquisição de serviços médicos",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Aquisição de serviços médicos\n\n1 - A celebração de contratos de aquisição de serviços com pessoal médico apenas é admissível nos casos em que comprovadamente o serviço não possa ser assegurado por médicos do respetivo mapa de pessoal, estando aqueles contratos sujeitos a um valor hora máximo correspondente ao valor hora médio pago, por entidade, a título de trabalho suplementar, em 2019.\n\n2 - Em situações de manifesta necessidade, designadamente suscetíveis de determinar o encerramento dos serviços de urgência externa, quando esteja em causa serviço ou estabelecimento de saúde que diste a mais de 60 km de Lisboa, do Porto ou de Coimbra, após parecer prévio da DE-SNS, I. P., o órgão máximo de gestão pode autorizar o pagamento a médicos especialistas de um valor até 35 % superior ao previsto no número anterior.\n\n3 - Os atos praticados em violação dos números anteriores são nulos e determinam responsabilidade civil, financeira e disciplinar por parte dos gestores das entidades abrangidas pelo regime estabelecido no presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-03-01"
+  },
+  "207863430": {
+   "fragment_id": "207863015",
+   "type": 11,
+   "heading": "Artigo 6.º — Custos com o trabalho suplementar e aquisição de serviços médicos",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-02-01"
+   ],
+   "markdown": "###### Artigo 6.º — Custos com o trabalho suplementar e aquisição de serviços médicos\n\n1 - Os custos associados ao trabalho suplementar e à aquisição de serviços médicos não podem exceder, em cada serviço ou estabelecimento de saúde, os montantes pagos a título de trabalho suplementar e de prestação de serviços médicos no ano de 2019, corrigidos dos encargos decorrentes das atualizações salariais anuais, sem prejuízo do número seguinte.\n\n2 - Em situações excecionais, quando por motivos de urgência e absoluta necessidade devidamente fundamentados, o limite previsto no número anterior deva ser ultrapassado, as entidades apresentam comprovativo do efetivo pagamento de valores superiores ao limite discriminando o efeito associado às atualizações salariais anuais, para efeitos de autorização dos membros do Governo responsáveis pelas áreas das finanças e da saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-02-01"
+  },
+  "207863431": {
+   "fragment_id": "207863016",
+   "type": 11,
+   "heading": "Artigo 7.º — Período de vigência",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-02-01"
+   ],
+   "markdown": "###### Artigo 7.º — Período de vigência\n\nO regime previsto no presente decreto-lei vigora até 31 de julho de 2023.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-02-01"
+  },
+  "207863420": {
+   "fragment_id": "207863018",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de julho de 2022. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - António Manuel Veiga dos Santos Mendonça Mendes - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 23 de julho de 2022.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 25 de julho de 2022.\n\nPelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.\n\n115552035"
+  },
+  "216772043": {
+   "fragment_id": "207863016",
+   "type": 11,
+   "heading": "Artigo 7.º — Período de vigência",
+   "in_force_from": "2023-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2023 - Diário da República n.º 152/2023, Série I de 2023-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2023-216770688), em vigor a partir de 2023-08-08, produz efeitos a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-02-01"
+   ],
+   "markdown": "###### Artigo 7.º — Período de vigência\n\nO regime previsto no presente decreto-lei vigora até 30 de setembro de 2023.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2023 - Diário da República n.º 152/2023, Série I de 2023-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2023-216770688), em vigor a partir de 2023-08-08, produz efeitos a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-02-01"
+  },
+  "223938095": {
+   "fragment_id": "207863016",
+   "type": 11,
+   "heading": "Artigo 7.º — Período de vigência",
+   "in_force_from": "2023-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2023-10-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2023 - Diário da República n.º 152/2023, Série I de 2023-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2023-216770688), em vigor a partir de 2023-08-08, produz efeitos a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-02-01"
+   ],
+   "markdown": "###### Artigo 7.º — Período de vigência\n\nO regime previsto no presente decreto-lei vigora até 10 de janeiro de 2024.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 103/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), em vigor a partir de 2023-11-08, produz efeitos a partir de 2023-10-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2023 - Diário da República n.º 152/2023, Série I de 2023-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2023-216770688), em vigor a partir de 2023-08-08, produz efeitos a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2023-207760044), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-02-01"
+  }
+ }
+}

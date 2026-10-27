@@ -1,0 +1,116 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:663909:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-108124435",
+ "dre_path": "/dr/detalhe/decreto-lei/248-1991-663909",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108117663",
+    "108117664",
+    "108117665",
+    "108117666",
+    "108117667"
+   ]
+  },
+  {
+   "date": "2015-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70025054:por",
+     "title": "Decreto-Lei n.º 163/2015",
+     "published": "2015-08-17",
+     "dre_path": "/dr/detalhe/decreto-lei/163-2015-70025054"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "108117663",
+    "108117664",
+    "108117665",
+    "108124932",
+    "108124933",
+    "108117668"
+   ]
+  }
+ ],
+ "fragments": {
+  "108117663": {
+   "fragment_id": "108124436",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 248/91\n\nde 16 de Julho\n\nO tráfego no espaço aéreo nacional rege-se pela regulamentação vigente no âmbito da International Civil Aviation Organization (ICAO), organismo do qual Portugal é membro.\n\nA ICAO é particularmente exigente em relação a alturas mínimas de voo sobre certas áreas que carecem de especial protecção, não permitindo o voo de aeronaves abaixo de certa altitude, excepto se autorizadas para tal ou em manobras de descolagem ou aterragem.\n\nNeste contexto, o presente diploma procura, no respeito pelas regras internacionais do trafego aéreo, acautelar a segurança dos órgãos de soberania e das instalações ligadas à segurança interna, bem como preservar o património histórico e natural do País, estabelecendo critérios para a proibição de voos sobre essas áreas.\n\nA especificidade de alguns voos militares, directamente relacionados com a missão das Forças Armadas e das forças de segurança e os compromissos assumidos internacionalmente por Portugal no que respeita aos voos de baixa altitude, leva a excluir as aeronaves envolvidas nessas actividades do âmbito de aplicação deste diploma.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108117664": {
+   "fragment_id": "108124437",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - Os documentos nacionais de informação aeronáutica para utilização permanente ou temporária da aviação civil e da Força Aérea definem, no âmbito da regulamentação jurídica internacional sobre tráfego aéreo, áreas proibidas, restritas ou reservadas.\n\n2 - Sem prejuízo das áreas referidas no número anterior, serão, mediante portaria conjunta dos Ministros da Administração Interna e das Obras Públicas, Transportes e Comunicações e do membro do Governo responsável em razão da matéria, definidas as restrições de voo no espaço aéreo nacional, e designadamente a proibição de voos de qualquer tipo de aeronave sobre áreas onde estão localizados:\n\na) Órgãos de soberania;\n\nb) Património histórico e natural;\n\nc) Instalações ligadas à defesa e à segurança interna.\n\n3 - O disposto no número anterior não se aplica às aeronaves das Forças Armadas, das forças de segurança e da Direcção-Geral da Aviação Civil.\n\n4 - A portaria referida no n.º 2 identificará:\n\na) As áreas e respectivos pontos/locais;\n\nb) O tipo de manobras e características de voo permitidas.\n\n5 - A portaria a que se refere o n.º 2 é transcrita para as publicações aeronáuticas apropriadas."
+  },
+  "108117665": {
+   "fragment_id": "108124438",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Exceptuam-se do disposto no artigo anterior os voos de evacuação sanitária de e para as áreas em causa, de combate a incêndios, missões de transporte de altas individualidades e outros voos de carácter excepcional, desde que devidamente autorizados pelo Estado-Maior da Força Aérea.\n\n2 - A autorização emitida no âmbito do número anterior é comunicada ao Ministro da Defesa Nacional."
+  },
+  "108117666": {
+   "fragment_id": "108124439",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - A infracção ao disposto no n.º 2 do artigo 1.º e das respectivas normas regulamentares, a aprovar nos termos do n.º 4 do mesmo artigo, constitui contra-ordenação, punível com coima de 100000$00 até 500000$00, no caso de pessoas singulares, ou até 6000000$00, no caso de pessoas colectivas.\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - Pode ser determinada, nos termos da lei geral e a título de sanção acessória, a interdição de exercer a actividade de aviação comercial por um período não superior a dois anos."
+  },
+  "108117667": {
+   "fragment_id": "108124440",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - A instrução dos processos por contra-ordenação instaurados no âmbito de aplicação do presente diploma e a aplicação das respectivas coimas são da competência da Direcção-Geral da Aviação Civil.\n\n2 - O produto das coimas aplicadas é distribuído da seguinte forma:\n\na) 60% para o Estado;\n\nb) 20% para a Direcção-Geral da Aviação Civil;\n\nc) 20% para a Direcção-Geral de Pessoal e Infra-Estruturas."
+  },
+  "108124932": {
+   "fragment_id": "108124439",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2015-08-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 163/2015 - Diário da República n.º 159/2015, Série I de 2015-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2015-70025054), em vigor a partir de 2015-08-18"
+   ],
+   "markdown": "###### Artigo 3.º\n\n- 1 - A infracção ao disposto no n.º 2 do artigo 1.º e das respectivas normas regulamentares, a aprovar nos termos do n.º 4 do mesmo artigo, constitui contra-ordenação, punível com coima de 100000$00 até 500000$00, no caso de pessoas singulares, ou até 6000000$00, no caso de pessoas colectivas.\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - Pode ser determinada, nos termos da lei geral e a título de sanção acessória, a interdição de exercer a actividade de aviação comercial por um período não superior a dois anos.\n\n> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 163/2015 - Diário da República n.º 159/2015, Série I de 2015-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2015-70025054), em vigor a partir de 2015-08-18"
+  },
+  "108124933": {
+   "fragment_id": "108124440",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2015-08-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 163/2015 - Diário da República n.º 159/2015, Série I de 2015-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2015-70025054), em vigor a partir de 2015-08-18"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1 - A instrução dos processos por contra-ordenação instaurados no âmbito de aplicação do presente diploma e a aplicação das respectivas coimas são da competência da Direcção-Geral da Aviação Civil.\n\n2 - O produto das coimas aplicadas é distribuído da seguinte forma:\n\na) 60% para o Estado;\n\nb) 20% para a Direcção-Geral da Aviação Civil;\n\nc) 20% para a Direcção-Geral de Pessoal e Infra-Estruturas.\n\n> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 163/2015 - Diário da República n.º 159/2015, Série I de 2015-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2015-70025054), em vigor a partir de 2015-08-18"
+  },
+  "108117668": {
+   "fragment_id": "108124441",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Abril de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral - Carlos Alberto Diogo Soares Borrego.\n\nPromulgado em 7 de Junho de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Junho de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n(ver documento original)"
+  }
+ }
+}

@@ -1,0 +1,189 @@
+---
+schema_version: '1.0'
+id: pt:dre:270786:por
+title: Despacho Normativo n.º 25/2004
+short_title: null
+summary: Fixa o modelo de informação a prestar pelas instituições de crédito mutuantes relativamente a cada um dos contratos
+  de empréstimo celebrados ao abrigo do disposto no n.º 4 do artigo 26.º-A do Decreto-Lei n.º 349/98, de 11 de Novembro, na
+  redacção introduzida pelo Decreto-Lei n.º 320/2000, de 15 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e das Obras Públicas, Transportes e Habitação
+proposing_entity: null
+official_number: 25/2004
+official_date: null
+publication_date: '2004-05-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/2004, Série I-B de 2004-05-21
+  number: '119'
+  series: I
+  supplement: null
+  pages: 3237 - 3242
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/25/2004/05/21/p/dre/pt/html
+  oj: null
+  dre: '270786'
+  dre_path: /dr/detalhe/despacho-normativo/25-2004-270786
+  internal: pt:dre:270786:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-2004-270786
+  metadata_url: https://data.dre.pt/eli/despnorm/25/2004/05/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-2004-270786
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:41:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4bb94a5096cfd1f5fa25454ee5776c68c842c3c991823292d988f069a18fc874
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:41:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Imóveis
+- Base de Dados
+- Contrato de Mútuo
+- Crédito à Habitação
+- Crédito Bonificado
+- Direcção Geral do Tesouro
+- Empréstimo
+- Fiscalização
+- Instituição de Crédito
+relationships:
+- type: amended_by
+  target: pt:dre:376234:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:234318:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/349/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:468991:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/279/2003/11/08/p/dre
+- type: cites
+  target: pt:dre:583436:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/320/2000/12/15/p/dre
+- type: repealed_by
+  target: pt:dre:376234:por
+  label: "Revogada a subal. iv) da al. a) do nº 3 pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:41:03Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 25/2004
+
+O [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, aprovou o regime jurídico da concessão do crédito à aquisição, construção e realização de obras em habitação, nos regimes geral de crédito, crédito bonificado e crédito jovem bonificado.
+
+Nos termos do n.º 4 do artigo 26.º-A do referido diploma, na actual redacção introduzida pelo [Decreto-Lei n.º 320/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2000-583436), de 15 de Dezembro, ficou estabelecido que, por despacho normativo do Ministro das Finanças e do ministro responsável pela matéria relativa à habitação, fosse fixado o modelo de informação a prestar pelas instituições de crédito mutuantes relativamente a cada um dos contratos de empréstimo em vigor ao abrigo do mesmo diploma.
+
+O tratamento da referida informação, para efeitos de acompanhamento, verificação e fiscalização do cumprimento do disposto nos regimes jurídicos de concessão de crédito bonificado e jovem bonificado, implica a criação de uma base de dados, a qual se encontra regulamentada pelo [Decreto-Lei n.º 279/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-2003-468991), de 8 de Novembro.
+
+Assim:
+
+Nos termos do disposto no n.º 4 do artigo 26.º-A do [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, na redacção introduzida pelo [Decreto-Lei n.º 320/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2000-583436), de 15 de Dezembro, e do disposto no [Decreto-Lei n.º 279/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-2003-468991), de 8 de Novembro, determina-se o seguinte:
+
+1 - A informação a prestar pelas instituições de crédito mutuantes, relativamente a cada um dos contratos de crédito bonificado à habitação em vigor ao abrigo do [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, é a constante do mapa anexo ao presente despacho e que dele faz parte integrante.
+
+2 - Cabe à Direcção-Geral do Tesouro definir as normas técnicas a que se deve subordinar a apresentação da informação a prestar.
+
+3 - A informação a que alude o n.º 1 será enviada à Direcção-Geral do Tesouro de acordo com a seguinte periodicidade:
+
+a) Informação relativa ao contrato:
+
+i) No mês seguinte ao da celebração de cada contrato é enviada a informação constante dos n.os 1 e 2 do mapa anexo;
+
+ii) No mês seguinte ao de uma alteração do contrato é enviada a informação constante do n.º 2.1 do mapa anexo;
+
+iii) Anualmente é actualizada a informação referida no n.º 2.2 do mapa anexo;
+
+iv) Em relação aos contratos celebrados nas Regiões Autónomas, a informação referida nas alíneas i), ii) e iii) é também enviada à Direcção-Geral do Tesouro com a mesma forma e periodicidade, sem prejuízo das competências próprias das entidades pagadoras das bonificações nas Regiões Autónomas;
+
+b) Informação relativa à execução do contrato. - A informação constante do n.º 3 do mapa anexo é enviada no mês seguinte àquele em que se vence a prestação de cada contrato;
+
+c) O envio da informação referida nas alíneas a) e b) é efectuado mensalmente, de uma só vez, englobando todos os contratos celebrados ou alterados no mês anterior e aqueles cuja prestação se tenha vencido no mesmo período.
+
+4 - O primeiro envio da informação prevista no presente despacho engloba obrigatoriamente todos os elementos respeitantes aos contratos bonificados em vigor, com excepção da informação relativa à constituição e rendimento do agregado familiar, a qual será enviada no 1.º mês da anuidade que se inicie após aquele primeiro envio.
+
+5 - Se o primeiro envio de informação respeitante à execução de um contrato bonificado ocorrer no decurso de uma anuidade, os elementos informativos têm de abranger todas as prestações vencidas desde o início dessa anuidade.
+
+6 - No caso de erros ou omissões relativos a qualquer dos elementos exigidos para cada um dos contratos nos termos dos números anteriores, o pagamento à instituição de crédito mutuante da correspondente bonificação a cargo do Estado depende sempre do respectivo suprimento.
+
+7 - Relativamente ao regime geral de crédito à habitação, será remetida à Direcção-Geral do Tesouro, no mês seguinte ao termo de cada trimestre, informação discriminada por continente e por cada uma das Regiões Autónomas sobre:
+
+a) O número de contratos celebrados e o respectivo montante, desagregada por mês;
+
+b) O saldo global em dívida, reportado ao final do trimestre a que respeita.
+
+8 - O presente despacho normativo entra em vigor a 1 de Novembro de 2004, data a partir da qual se torna obrigatório o envio da informação nos termos definidos no presente despacho, devendo até essa data manter-se o envio de informação nos termos actualmente praticados.
+
+Ministérios das Finanças e das Obras Públicas, Transportes e Habitação, 7 de Maio de 2004. - A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.
+
+## ANEXO
+
+1 - Dados constantes ao longo da vida do contrato (integra-se neste ponto a informação estável do contrato):
+
+1.1 - Informação geral sobre o contrato:
+
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)
+
+1.2 - Informação sobre o contrato anterior [informação a disponibilizar sempre que se verifique uma alteração do número do contrato (uma transferência de instituição de crédito ou uma mudança dentro da mesma instituição), ocorrida após a data de entrada em vigor do presente despacho normativo]:
+
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)
+
+2 - Dados passíveis de alteração ao longo da vida do contrato (neste ponto é considerada a informação passível de ser alterada ao longo da vida do contrato. Estes elementos são enviados quando é celebrado um contrato e sempre que se verifique alteração ao mesmo, devendo o respectivo envio processar-se no mês seguinte àquele em que a alteração teve lugar):
+
+2.1 - Informação sobre o contrato:
+
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)
+
+2.2 - Agregado familiar (estes elementos deverão ser enviados sempre que é celebrado um contrato e confirmados no início de cada anuidade. A título excepcional, para os contratos celebrados até à entrada em vigor do despacho normativo, a informação relativa à constituição e rendimento do agregado familiar será enviada no 1.º mês da anuidade que se inicie após aquela data de entrada em vigor):
+
+Por cada membro do agregado familiar:
+
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)
+
+3 - Dados a enviar mensalmente (neste ponto é considerada a informação relativa à execução do contrato, mesmo que numa determinada anuidade se verifique perda de bonificação):
+
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b00/32373242.pdf)

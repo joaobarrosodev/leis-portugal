@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:292319:por
+title: Portaria n.º 21468
+short_title: null
+summary: Reforça verbas inscritas nas tabelais de despesa dos orçamentos privativos da Agência-Geral do Ultramar e da Comissão
+  de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica para o corrente ano económico
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '21468'
+official_date: null
+publication_date: '1965-08-16'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 183/1965, Série I de 1965-08-16
+  number: '183'
+  series: I
+  supplement: null
+  pages: 1116 - 1116
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/08/18300/11161116.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '292319'
+  dre_path: /dr/detalhe/portaria/21468-1965-292319
+  internal: pt:dre:292319:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21468-1965-292319
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21468-1965-292319
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 354ccf12e2483ec52797f49312b7c17692a60841c336dd801dd40762e869f8f4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686790:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:04:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21468
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), de 27 de Dezembro de 1937, abrir os seguintes créditos especiais:
+
+1.º Um de 500000$00, destinado a reforçar a verba do capítulo único, artigo 9.º, n.º 2), alínea e) «Pagamento de serviços - Diversos serviços - Propaganda - Outros serviços de propaganda que forem determinados pelo Ministro», da tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o corrente ano, tomando como contrapartida o saldo do ano económico findo.
+
+2.º Um de 300000$00, destinado a reforçar a verba do capítulo único, artigo 2.º, n.º 1) «Despesas com o pessoal - Remunerações acidentais - Gratificações e subsídios a abonar nos termos do n.º 2.º do artigo 2.º, n.º 2.º do artigo 3.º, n.º 3.º do artigo 5.º e n.º 1.º do artigo 12.º do [Decreto n.º 45258](https://diariodarepublica.pt/dr/detalhe/decreto/45258-1963-686790), de 21 de Setembro de 1963», da tabela de despesa do orçamento privativo da Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica para o corrente ano, tomando como contrapartida o saldo do ano económico findo.
+
+Ministério do Ultramar, 16 de Agosto de 1965. - Pelo Ministro do Ultramar, José Coelho de Oliveira Cota, Subsecretário de Estado da Administração Ultramarina.

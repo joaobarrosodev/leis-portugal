@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:483406:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-907624797",
+ "dre_path": "/dr/detalhe/portaria/1375-2009-483406",
+ "source_lastmod": "2025-02-14",
+ "versions": [
+  {
+   "date": "2009-10-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907631980",
+    "907586571",
+    "907586572",
+    "907586573",
+    "907586574",
+    "907631975",
+    "907631977"
+   ]
+  }
+ ],
+ "fragments": {
+  "907631980": {
+   "fragment_id": "907624798",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1375/2009\n\nde 29 de Outubro\n\nO progresso científico é motor fundamental do desenvolvimento cultural, económico e social das sociedades modernas. A apropriação social da cultura científica é ainda, e cada vez mais, fonte essencial da participação dos cidadãos em democracia.\n\nCompete hoje ao Ministério da Ciência, Tecnologia e Ensino Superior definir, executar e avaliar a política nacional para a ciência, a tecnologia e o ensino superior, bem como para a sociedade de informação, cumprindo-lhe, naturalmente, reconhecer e distinguir o mérito dos que souberam e quiseram dedicar as suas carreiras ao progresso científico ou ao desenvolvimento tecnológico, nas instituições e actividades científicas ou tecnológicas, na administração científica, na divulgação e difusão da ciência, com elevada dedicação ao interesse público, contribuindo de forma continuada e assinalável, para o progresso da sociedade.\n\nPor se reconhecer que o valor simbólico das condecorações representa um estímulo e incentivo de carácter exemplar e que o acto da sua atribuição é expressão pública do reconhecimento por relevantes serviços prestados, é criada, pelo Ministério da Ciência, Tecnologia e Ensino Superior, a medalha de mérito científico, a atribuir como demonstração do apreço público pelo contributo relevante do agraciado para o desenvolvimento científico em Portugal.\n\nAssim, e ouvida a Fundação para a Ciência e a Tecnologia;\n\nNos termos da alínea b) do artigo 2.º do Decreto-Lei n.º 214/2006, de 27 de Outubro;\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:"
+  },
+  "907586571": {
+   "fragment_id": "907624799",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada a medalha de mérito científico do Ministério da Ciência, Tecnologia e Ensino Superior, cujo modelo consta do anexo à presente portaria e que dela faz parte integrante.\n\n2 - A medalha de mérito científico destina-se a galardoar as individualidades nacionais ou estrangeiras que, pelas elevadas qualidades profissionais e de cumprimento do dever, se tenham distinguido por valioso e excepcional contributo para o desenvolvimento da ciência ou da cultura científica em Portugal.\n\n3 - A medalha de mérito científico pode ser atribuída a título póstumo."
+  },
+  "907586572": {
+   "fragment_id": "907624800",
+   "type": 11,
+   "heading": "Artigo 2.º — Concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Concessão\n\n1 - A concessão das medalhas é acompanhada da emissão de um diploma assinado pelo Ministro da Ciência, Tecnologia e Ensino Superior, autenticado com o respectivo selo branco.\n\n2 - A medalha e o diploma são concedidos por despacho fundamentado do Ministro da Ciência, Tecnologia e Ensino Superior, publicado na 2.ª série do Diário da República, ouvida a Fundação para a Ciência e a Tecnologia ou por proposta desta."
+  },
+  "907586573": {
+   "fragment_id": "907624801",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Registo\n\nAs medalhas atribuídas constam de um livro de registo criado na Fundação para a Ciência e a Tecnologia."
+  },
+  "907586574": {
+   "fragment_id": "907624802",
+   "type": 11,
+   "heading": "Artigo 4.º — Encargos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Encargos financeiros\n\nOs encargos financeiros decorrentes da presente portaria são suportados pela Fundação para a Ciência e a Tecnologia."
+  },
+  "907631975": {
+   "fragment_id": "907624803",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria produz efeitos desde a data da sua assinatura."
+  },
+  "907631977": {
+   "fragment_id": "907624805",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nA medalha de mérito do Ministério da Ciência, Tecnologia e Ensino Superior é uma medalha circular, gravada em cobre, com fundo geométrico de 7 cm de diâmetro e banho prateado ou dourado. No verso está gravado o logo Ciência 2009 e no reverso o logo do Ministério da Ciência, Tecnologia e Ensino Superior, de acordo com conceito e projecto de José Brandão.\n\nA medalha é acompanhada de um diploma que certifica a personalidade a quem foi atribuída."
+  }
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975L0440:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975L0440-20071222",
+ "dre_path": null,
+ "source_lastmod": "2007-12-22",
+ "versions": [
+  {
+   "date": "1975-07-25",
+   "future": false,
+   "celex": "31975L0440",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d89e301c219a9d64",
+    "ec2fa3e3472fb19e",
+    "ea7c67650efef968",
+    "9ad40586c5fbe63a",
+    "6848543ad2df2725",
+    "01b3843142abd8b1",
+    "4e23ccf016c51a6f",
+    "40a1d7190bddf9cc",
+    "bb664d7859b25b9c",
+    "5d58f32832f8d7a5",
+    "0906ce9d5cf5f86b",
+    "00fde39ee37f55f5",
+    "3becc399597fe69d",
+    "c154da271027c80f"
+   ]
+  },
+  {
+   "date": "2007-12-22",
+   "future": false,
+   "celex": "01975L0440-20071222",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "3e11372f720f2e75"
+   ]
+  }
+ ],
+ "fragments": {
+  "d89e301c219a9d64": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 75/440/CEE do Conselho, de 16 de Junho de 1975, relativa à qualidade das águas superfíciais destinadas à produção de água potável nos Estados- membros** *Jornal Oficial nº L 194 de 25/07/1975 p. 0026 - 0031 Edição especial grega: Capítulo 15 Fascículo 1 p. 0080 Edição especial espanhola: Capítulo 15 Fascículo 1 p. 0123 Edição especial portuguesa: Capítulo 15 Fascículo 1 p. 0123 Edição especial finlandesa: Capítulo 15 Fascículo 1 p. 0232 Edição especial sueca: Capítulo 15 Fascículo 1 p. 0232 DE L 328 25/07/1975 P. 0034-0039*\n\nDIRECTIVA DO CONSELHO de 16 de Junho de 1975 relativa à qualidade das águas superficiais destinadas à produção de água potável nos Estados-membros\n\n(75/440/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigo 100o e 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que a utilização crescente dos recursos de água destinada ao consumo torna necessário reduzir a poluição da água e protegê-la contra uma degradação posterior;\n\nConsiderando que é necessário proteger a saúde pública e exercer, com este fim, um controlo sobre as águas superficiais destinadas à produção de água potável e sobre a sua depuração;\n\nConsiderando que qualquer disparidade entre as disposições já aplicáveis, ou em preparação nos diferentes Estados-membros, no que respeita à qualidade das águas superficiais destinadas à produção de água potável, pode criar condições de concorrência desiguais e ter, deste modo, uma incidência directa sobre o funcionamento do mercado comum; que é, portanto, conveniente proceder neste domínio à aproximação das legislações prevista no artigo 100o do Tratado;\n\nConsiderando que se afigura necessário fazer acompanhar esta aproximação das legislações de uma acção da Comunidade tendo em vista realizar, através de uma regulamentação mais ampla, um dos objectivos da Comunidade no domínio da protecção do meio e da melhoria da qualidade de vida; que é, portanto, conveniente prever nesse sentido algumas disposições específicas; que, não tendo sido previstos no Tratado os poderes de acção exigidos para o efeito, se deve recorrer ao artigo 235o do Tratado;\n\nConsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente (3) prevê que sejam estabelecidos em comum objectivos de qualidade que fixem as condições principais a que um ambiente deve satisfazer e, nomeadamente, a definição dos parâmetros para a água, incluindo as águas superficiais destinadas à produção de água potável;\n\nConsiderando que a fixação em comum de exigências mínimas de qualidade para as águas superficiais destinadas à produção de água potável não exclui as exigências mais severas para outras formas de utilização dessas águas, nem as exigências de protecção da vida aquática;\n\nConsiderando que será necessário rever os valores dos parâmetros que definem a qualidade das águas superficiais utilizadas para a produção de água potável à luz dos novos conhecimentos técnicos e científicos;\n\nConsiderando que os métodos de amostragem e de medida, actualmente em elaboração, dos parâmetros que definem as características físicas, químicas e microbiológicas das águas superficiais destinadas à produção de água potável devem ser objecto de uma directiva a adoptar no mais curto prazo,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ec2fa3e3472fb19e": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva é relativa aos requisitos a que deve satisfazer, após a aplicação dos tratamentos apropriados, a qualidade das águas doces superficiais utilizadas, ou destinadas a serem utilizadas, para produção de água potável, a seguir denominadas «águas superficiais». As águas subterrâneas, as águas salobras e as águas destinadas ao reabastecimento das toalhas subterrâneas não são abrangidas pela presente directiva.\n\n2. Para aplicação da presente directiva, considera-se água potável, qualquer água superficial destinada ao consumo humano e fornecida por redes de canalização para uso da colectividade."
+  },
+  "ea7c67650efef968": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNa acepção da presente directiva, as águas superficiais são subdivididas em três grupos de valores limites, A1, A2 e A3, que correspondem a processos de tratamento tipo adequados, indicados no Anexo I. Estes grupos correspondem a três qualidades de águas superficiais diferentes, cujas características físicas, químicas e microbiológicas estão indicadas no quadro que consta do Anexo II."
+  },
+  "9ad40586c5fbe63a": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros fixarão para todos os pontos de colheita de amostras, ou para cada ponto de colheita de amostras, os valores aplicáveis às águas superficiais no que se refere aos parâmetros indicados no Anexo II.\n\nRelativamente aos parâmetros para os quais nenhum valor conste do quadro do Anexo II, os Estados-membros podem não fixar valores nos termos do primeiro parágrafo, enquanto esses valores não tiverem sido determinados segundo o procedimento previsto no artigo 9o.\n\n2. Os valores fixados nos termos do no 1 não podem ser menos rigorosos que os indicados nas colunas I do Anexo II.\n\n3. Sempre que existam valores nas colunas G do Anexo II, com ou sem valor correspondente nas colunas I do mesmo anexo, os Estados-membros esforçar-se-ao por respeitá-los como valores-guia, sem prejuízo do disposto no artigo 6o."
+  },
+  "6848543ad2df2725": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros tomarão as disposições necessárias para que as águas superficiais satisfaçam os valores fixados por força do artigo 3o. Cada Estado-membro aplicará, igualmente, a presente directiva às águas nacionais e às águas que transpõem as fronteiras.\n\n2. No âmbito dos objectivos da presente directiva, os Estados-membros tomarão as disposições necessárias para assegurar uma melhoria contínua do ambiente. Para este fim, estabelecerão um plano de acção orgânico, compreendendo um calendário para o saneamento das águas superficiais, especialmente as da categoria A3. Devem ser efectuadas nesta matéria melhorias substanciais ao longo dos próximos dez anos, no âmbito de programas nacionais.\n\nPara a fixação do calendário referido no primeiro parágrafo, ter-se-ao em conta, por um lado, a necessidade de melhorar a qualidade do ambiente, nomeadamente da água e, por outro, as dificuldades de ordem económica e técnica que existam ou possam surgir nas diferentes regiões da Comunidade.\n\nA Comissão procederá a um exame aprofundado dos planos de acção referidos, no primeiro parágrafo, incluindo os calendários e, se for caso disso, apresentará ao Conselho propostas adequadas a esse respeito.\n\n3. As águas superficiais que tiverem características físicas, químicas e microbiológicas inferiores aos valores-limite imperativos correspondentes ao tratamento tipo A3 não podem ser utilizadas na produção de água potável. Todavia, essa água de qualidade inferior pode ser utilizada, excepcionalmente, se lhe for aplicado um tratamento adequado - incluindo a mistura - que permita que todas as características de qualidade da água se encontrem a um nível conforme às normas de qualidade para a água potável. As justificações de tal excepção, com base num plano de gestão de recursos hídricos no interior da zona em questão, devem ser notificadas à Comissão no mais curto prazo, no que se refere a instalações existentes, e previamente no caso de novas instalações. A Comissão procederá a um estudo pormenorizado destas justificações e, se for caso disso, apresentará ao Conselho propostas adequadas nessa matéria."
+  },
+  "01b3843142abd8b1": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Para aplicação do artigo 4o, as águas superficiais consideram-se conformes aos parâmetros que se lhes referem, se amostras desta água, recolhidas com intervalos regulares num mesmo local de colheita e utilizada para a produção de água potável, mostrarem que ela satisfaz os valores dos parâmetros respeitantes a essa qualidade da água em:\n\n- 95 % das amostras no caso de parâmetros conformes aos especificados nas colunas I do Anexo II,\n\n- 90 % das amostras em todos os restantes casos e se, para os 5 ou 10 % das amostras que consoante o caso não estão conformes,\n\na) a água não se afastar de mais de 50 % do valor dos parâmetros em questão, com excepção dos referentes à temperatura, pH, oxigénio dissolvido e parâmetros microbiológicos;\n\nb) não puder daí resultar qualquer perigo para a saúde pública;\n\nc) amostras de água, recolhidas consecutivamente, com frequência estatísticamente adequada, não se afastarem dos valores dos parâmetros correspondentes.\n\n2. A frequência das amostragens e a análise de cada parâmetro, bem como os métodos de medida serão, enquanto se aguarda uma política comunitária nessa matéria, definidas pelas autoridades nacionais competentes que tomarão em consideração, nomeadamente, o volume de águas recolhidas, a importância das colheitas, da população abastecida, do grau de risco decorrente da qualidade das águas e da variação sazonal desta qualidade.\n\n3. Os desvios relativamente aos valores referidos no no 2 não são tomados em consideração na dedução das percentagens referidas no no 1, sempre que forem consequência de inundações, catástrofes naturais ou condições meteorológicas excepcionais.\n\n4. Por local de colheita entende-se o local onde as águas superficiais são recolhidas antes de serem enviadas para o tratamento de depuração."
+  },
+  "4e23ccf016c51a6f": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros têm a liberdade de, em qualquer momento, determinar para as águas superficiais valores mais rigorosos que os previstos na presente directiva."
+  },
+  "40a1d7190bddf9cc": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA aplicação das disposições tomadas por força da presente directiva não pode, em caso algum, ter como efeito o aumento directo ou indirecto da deterioração da qualidade actual das águas superficiais."
+  },
+  "bb664d7859b25b9c": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nSão previstas derrogações à presente Directiva:\n\na) Em caso de inundações ou de catástrofes naturais;\n\nb) Para certos parâmetros assinalados com (O) no Anexo II, devido a circunstâncias meteorológicas ou geográficas excepcionais;\n\nc) Quando as águas superficiais estejam sujeitas a um enriquecimento natural em certas substâncias que implique que sejam excedidos os limites fixados para as categorias A1, A2 e A3 no quadro constante do Anexo II;\n\nd) Nos casos de águas superficiais de lagos com pouca profundidade e de águas quase estagnadas, para certos parâmetros marcados com um asterisco no quadro constante do Anexo II, sendo esta derrogação apenas aplicável aos lagos de profundidade não superior a 20 metros, cujo período de renovação da água ultrapasse um ano e em que não haja escoamento de águas usadas para a toalha de água.\n\nEntende-se por enriquecimento natural o processo pelo qual uma determinada massa de água recebe do solo certas substâncias nele contidas, sem intervenção do homem.\n\nAs derrogações referidas no primeiro parágrafo não podem em caso algum negligenciar os imperativos de protecção da saúde pública.\n\nQuando um Estado-membro recorre a uma derrogação deve informar imediatamente desse facto a Comissão, especificando os motivos e os prazos."
+  },
+  "5d58f32832f8d7a5": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs valores numéricos e a lista dos parâmetros que definem as características físicas, químicas e microbiológicas das águas superficiais, e que estão indicados no quadro constante do Anexo II, serão objecto de revisões, quer a pedido de um Estado-membro, quer sob proposta da Comissão, quando forem adquiridos novos conhecimentos técnicos e científicos relativos a métodos de tratamento ou quando forem alteradas as normas relativas à água potável."
+  },
+  "0906ce9d5cf5f86b": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente Directiva, num prazo de dois anos a contar da sua notificação. Desse facto informarão imediatamente a Comissão."
+  },
+  "00fde39ee37f55f5": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 16 de Junho de 1975.\n\nPelo Conselho\n\nO Presidente\n\nR. RYAN\n\n(1) JO no C 62 de 30. 5. 1974, p. 7.(2) JO no C 109 de 19. 9. 1974, p. 41.(3) JO no C 112 de 20. 12. 1973, p. 3."
+  },
+  "3becc399597fe69d": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nDefinição dos processos de tratamento tipo que permitem a transformação das águas superficiais das categorias A1, A2 e A3 em água potável.\n\nCategoria A1\n\nTratamento físico simples e desinfecção, por exemplo, filtração rápida e desinfecção.\n\nCategoria A2\n\nTratamento normal físico, químico e desinfecção, por exemplo, pré-cloragem, coagulação, floculação, decantação, filtração, desinfecção (cloragem final).\n\nCategoria A3\n\nTratamento físico, químico reforçado, afinação e desinfecção, por exemplo cloragem ao break point, coagulação, floculação, decantação, filtração, adsorção (carbono activado), desinfecção (ozono, cloragem final)."
+  },
+  "c154da271027c80f": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nQualidade das águas superficiais destinadas à produção de água potável \"\" ID=\"1\">1> ID=\"2\">pH> ID=\"3\">6,5-8,5> ID=\"5\">5,5-9> ID=\"7\">5,5-9\"> ID=\"1\">2> ID=\"2\">Cor (depois de filtração simples) mg/l escala Pt> ID=\"3\">10> ID=\"4\">20 (O)> ID=\"5\">50> ID=\"6\">100 (O)> ID=\"7\">50> ID=\"8\">200 (O)\"> ID=\"1\">3> ID=\"2\">Matérias totais em suspensão mg/l MES> ID=\"3\">25\"> ID=\"1\">4> ID=\"2\">Temperatura ° C> ID=\"3\">22> ID=\"4\">25 (O)> ID=\"5\">22> ID=\"6\">25 (O)> ID=\"7\">22> ID=\"8\">25 (O)\"> ID=\"1\">5> ID=\"2\">Condutividade µs/cm-1 a 20 ° C> ID=\"3\">1 000> ID=\"5\">1 000> ID=\"7\">1 000\"> ID=\"1\">6> ID=\"2\">Cheiro (factor de diluição a 25 ° C> ID=\"3\">3> ID=\"5\">10> ID=\"7\">20\"> ID=\"1\">7*> ID=\"2\">Nitratos mg/l NO3> ID=\"3\">25> ID=\"4\">50 (O)> ID=\"6\">50 (O)> ID=\"8\">50 (O)\"> ID=\"1\">8 (1)> ID=\"2\">Fluoretos mg/l F> ID=\"3\">0,7/1> ID=\"4\">1,5> ID=\"5\">0,7/1,7> ID=\"7\">0,7/1,7\"> ID=\"1\">9> ID=\"2\">Cloro orgânico total extraível mg/l Cl\"> ID=\"1\">10*> ID=\"2\">Ferro dissolvido mg/l Fe> ID=\"3\">0,1> ID=\"4\">0,3> ID=\"5\">1> ID=\"6\">2> ID=\"7\">1\"> ID=\"1\">11*> ID=\"2\">Manganês mg/l Mn> ID=\"3\">0,05> ID=\"5\">0,1> ID=\"7\">1\"> ID=\"1\">12> ID=\"2\">Cobre mg/l Cu> ID=\"3\">0,02> ID=\"4\">0,05 (O)> ID=\"5\">0,05> ID=\"7\">1\"> ID=\"1\">13> ID=\"2\">Zinco mg/l Zn> ID=\"3\">0,5> ID=\"4\">3> ID=\"5\">1> ID=\"6\">5> ID=\"7\">1> ID=\"8\">5\"> ID=\"1\">14> ID=\"2\">Boro mg/l B> ID=\"3\">1> ID=\"5\">1> ID=\"7\">1\"> ID=\"1\">15> ID=\"2\">Berílio mg/l Be\"> ID=\"1\">16> ID=\"2\">Cobalto mg/l Co\"> ID=\"1\">17> ID=\"2\">Níquel mg/l Ni\"> ID=\"1\">18> ID=\"2\">Vanádio mg/l V\"> ID=\"1\">19> ID=\"2\">Arsénio mg/l As> ID=\"3\">0,01> ID=\"4\">0,05> ID=\"6\">0,05> ID=\"7\">0,05> ID=\"8\">0,1\"> ID=\"1\">20> ID=\"2\">Cádmio mg/l Cd> ID=\"3\">0,001> ID=\"4\">0,005> ID=\"5\">0,001> ID=\"6\">0,005> ID=\"7\">0,001> ID=\"8\">0,005\"> ID=\"1\">21> ID=\"2\">Crómio total mg/l Cr> ID=\"4\">0,05> ID=\"6\">0,05> ID=\"8\">0,05\"> ID=\"1\">22> ID=\"2\">Chumbo mg/l Pb> ID=\"4\">0,05> ID=\"6\">0,05> ID=\"8\">0,05\"> ID=\"1\">23> ID=\"2\">Selénio mg/l Se> ID=\"4\">0,01> ID=\"6\">0,01> ID=\"8\">0,01\"> ID=\"1\">24> ID=\"2\">Mercúrio mg/l Hg> ID=\"3\">0,0005> ID=\"4\">0,001> ID=\"5\">0,0005> ID=\"6\">0,001> ID=\"7\">0,0005> ID=\"8\">0,001\"> ID=\"1\">25> ID=\"2\">Bário mg/l Ba> ID=\"4\">0,1> ID=\"6\">1> ID=\"8\">1\"> ID=\"1\">26> ID=\"2\">Cianeto mg/l Cn> ID=\"4\">0,05> ID=\"6\">0,05> ID=\"8\">0,05\"> ID=\"1\">27> ID=\"2\">Sulfatos mg/l SO4> ID=\"3\">150> ID=\"4\">250> ID=\"5\">150> ID=\"6\">250 (O)> ID=\"7\">150> ID=\"8\">250 (O)\"> ID=\"1\">28> ID=\"2\">Cloretos mg/l Cl> ID=\"3\">200> ID=\"5\">200> ID=\"7\">200\"> ID=\"1\">29> ID=\"2\">Agentes de superfície (que reagem ao azul de metileno) mg/l (lauril-sulfato)> ID=\"3\">0,2> ID=\"5\">0,2> ID=\"7\">0,5\"> ID=\"1\">30* (2)> ID=\"2\">Fosfatos mg/l P2O5> ID=\"3\">0,4> ID=\"5\">0,7> ID=\"7\">0,7\"> ID=\"1\">31> ID=\"2\">Fenóis (índice de fenóis) (para-nitranilina 4-aminoantipirina) mg/l C6H5OH> ID=\"4\">0,001> ID=\"5\">0,001> ID=\"6\">0,005> ID=\"7\">0,01> ID=\"8\">0,1\"> ID=\"1\">32> ID=\"2\">Hidrocarbonetos dissolvidos ou emulsionados (após extracção por eter de petroleo) mg/l> ID=\"4\">0,05> ID=\"6\">0,2> ID=\"7\">0,5> ID=\"8\">1\"> ID=\"1\">33> ID=\"2\">Hidrocarbonetos aromáticos policíclicos mg/l> ID=\"4\">0,0002> ID=\"6\">0,0002> ID=\"8\">0,001\"> ID=\"1\">34> ID=\"2\">Pesticidas-totais (paratião, HCH, dieldrina) mg/l> ID=\"4\">0,001> ID=\"6\">0,0025> ID=\"8\">0,005\"> ID=\"1\">35*> ID=\"2\">Oxidabilidade química (OQ) mg/l O2> ID=\"7\">30\"> ID=\"1\">36*> ID=\"2\">Taxa de saturação de oxigénio dissolvido % O2> ID=\"3\"\" 70> ID=\"5\"\" 50> ID=\"7\"\" 30\"> ID=\"1\">37*> ID=\"2\">Oxidabilidade bioquímica (OBQ) a 20 ° C sem nitrificação mg/l O2> ID=\"3\">< 3> ID=\"5\">< 5> ID=\"7\">< 7\"> ID=\"1\">38> ID=\"2\">Azoto Kjeldahl (NO3 excluído) mg/l N> ID=\"3\">1> ID=\"5\">2> ID=\"7\">3\"> ID=\"1\">39> ID=\"2\">Amoníaco mg/l NH4> ID=\"3\">0,05> ID=\"5\">1> ID=\"6\">1,5> ID=\"7\">2> ID=\"8\">4 (O)\"> ID=\"1\">40> ID=\"2\">Substâncias extraíveis com clorofórmio mg/l SEC> ID=\"3\">0,1> ID=\"5\">0,2> ID=\"7\">0,5\"> ID=\"1\">41> ID=\"2\">Carbono orgânico total (COT) mg/l C\"> ID=\"1\">42> ID=\"2\">Carbono orgânico residual após floculacão e filtração por membrana (5 µ) COT mg/l C\"> ID=\"1\">43> ID=\"2\">Coliformes totais 37 ° C /100 ml> ID=\"3\">50> ID=\"5\">5 000> ID=\"7\">50 000\"> ID=\"1\">44> ID=\"2\">Coliformes fecais /100 ml> ID=\"3\">20> ID=\"5\">2 000> ID=\"7\">20 000\"> ID=\"1\">45> ID=\"2\">Estreptococos fecais /100 ml> ID=\"3\">20> ID=\"5\">1 000> ID=\"7\">10 000\"> ID=\"1\">46> ID=\"2\">Salmonelas> ID=\"3\">ausência em 5 000 ml> ID=\"5\">ausência em 1 000 ml\"\"I = imperativo.\n\nG = guía.\n\n(O) = condições climáticas, ou geográficas excepcionais.\n\n* = ver artigo 8, alínea d).>\n\n(1) Os valores indicados constituem os limites superiores determinados em função da temperatura média anual (temperatura alta e baixa).\n\n(2) Este parâmetro é incluído para satisfazer as exigências ecológicas de certos meios."
+  },
+  "3e11372f720f2e75": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1975L0440 — PT — 22.12.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31975L0440) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31975L0440) [de 16 de Julho de 1975](http://publications.europa.eu/resource/celex/31975L0440) [relativa à qualidade das águas superficiais destinadas à produção de água potável nos Estados-membros](http://publications.europa.eu/resource/celex/31975L0440) [(75/440/CE)](http://publications.europa.eu/resource/celex/31975L0440) (JO L 194, 25.7.1975, p.26)\n\n**revogado por:**\n\n- [DIRECTIVA 2000/60/CE do Parlamento Europeu e do Conselho de 23 de Outubro de 2000](http://publications.europa.eu/resource/celex/32000L0060) — L 327 — 1 — 22.12.2000"
+  }
+ }
+}

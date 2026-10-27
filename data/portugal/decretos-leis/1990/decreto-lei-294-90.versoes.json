@@ -1,0 +1,979 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:557440:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-66305598",
+ "dre_path": "/dr/detalhe/decreto-lei/294-1990-557440",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66305288",
+    "66305289",
+    "66305290",
+    "66305291",
+    "66305292",
+    "66305293",
+    "66305294",
+    "66305295",
+    "66305296",
+    "66305297",
+    "66305298",
+    "66305299",
+    "66305300",
+    "66305301",
+    "66305302",
+    "66305303",
+    "66305304",
+    "66305305",
+    "66305306",
+    "66305307",
+    "66305308",
+    "66305309",
+    "66305310",
+    "66305311",
+    "66305312",
+    "66305313",
+    "66305314",
+    "66305315",
+    "66305316",
+    "66305317",
+    "66305318",
+    "66305319",
+    "66305320",
+    "66305321",
+    "66305322",
+    "66305323",
+    "66305324",
+    "66305325",
+    "66305326",
+    "66305327",
+    "66305328",
+    "66305329",
+    "66305330",
+    "66305331",
+    "66305332",
+    "66305333"
+   ]
+  },
+  {
+   "date": "1992-01-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144253:por",
+     "title": "Portaria n.º 29/92",
+     "published": "1992-01-20",
+     "dre_path": "/dr/detalhe/portaria/29-1992-144253"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "66305288",
+    "66305289",
+    "66305290",
+    "66305291",
+    "66305292",
+    "66305293",
+    "66305294",
+    "66305295",
+    "66305296",
+    "66305297",
+    "66305298",
+    "66305299",
+    "66305300",
+    "66305301",
+    "66305302",
+    "66305303",
+    "66305304",
+    "66305305",
+    "66305306",
+    "66305307",
+    "66305308",
+    "66305309",
+    "66305310",
+    "66305311",
+    "66305312",
+    "66305313",
+    "66305314",
+    "66305315",
+    "66305316",
+    "66305317",
+    "66305318",
+    "66305319",
+    "66305320",
+    "66305321",
+    "66305322",
+    "66305323",
+    "66305324",
+    "66305325",
+    "66305326",
+    "66305327",
+    "66305328",
+    "66305329",
+    "66305330",
+    "66305331",
+    "66305332",
+    "66305334",
+    "66305338"
+   ]
+  },
+  {
+   "date": "1997-04-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:469585:por",
+     "title": "Decreto-Lei n.º 87/97",
+     "published": "1997-04-18",
+     "dre_path": "/dr/detalhe/decreto-lei/87-1997-469585"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "66305288",
+    "66305289",
+    "66305290",
+    "66305291",
+    "66305292",
+    "66305293",
+    "66305294",
+    "66305295",
+    "66305296",
+    "66305297",
+    "66305298",
+    "66305299",
+    "66305300",
+    "66305301",
+    "66305302",
+    "66305303",
+    "66305304",
+    "66305305",
+    "66305306",
+    "66305307",
+    "66305308",
+    "66305309",
+    "66305310",
+    "66305311",
+    "66305312",
+    "66305313",
+    "66305314",
+    "66305315",
+    "66305316",
+    "66305317",
+    "66305318",
+    "66305319",
+    "66305320",
+    "66305321",
+    "66305322",
+    "66305323",
+    "66305324",
+    "66305325",
+    "66321415",
+    "66305327",
+    "66305328",
+    "66305329",
+    "66305330",
+    "66305331",
+    "66305332",
+    "66305334",
+    "66305338"
+   ]
+  },
+  {
+   "date": "2007-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:636709:por",
+     "title": "Decreto-Lei n.º 270/2007",
+     "published": "2007-07-26",
+     "dre_path": "/dr/detalhe/decreto-lei/270-2007-636709"
+    }
+   ],
+   "changes": [
+    "Revoga Secção I",
+    "Revoga Subsecção I",
+    "Revoga Subsecção II",
+    "Revoga Subsecção III",
+    "Revoga Secção III",
+    "Revoga Secção IV",
+    "Revoga Capítulo IV"
+   ],
+   "fragments": [
+    "66305288",
+    "66305289",
+    "66305290",
+    "66305291",
+    "66305292",
+    "66321438",
+    "66321439",
+    "66321440",
+    "66305296",
+    "66321446",
+    "66321447",
+    "66321448",
+    "66321449",
+    "66321450",
+    "66321451",
+    "66321452",
+    "66321453",
+    "66321454",
+    "66321455",
+    "66321456",
+    "66321457",
+    "66321458",
+    "66321459",
+    "66321460",
+    "66321461",
+    "66321462",
+    "66321463",
+    "66321464",
+    "66321465",
+    "66321466",
+    "66321467",
+    "66321468",
+    "66321469",
+    "66305321",
+    "66305322",
+    "66305323",
+    "66305324",
+    "66305325",
+    "66321415",
+    "66305327",
+    "66321441",
+    "66321442",
+    "66321443",
+    "66321444",
+    "66321445",
+    "66305334",
+    "66305338"
+   ]
+  }
+ ],
+ "fragments": {
+  "66305288": {
+   "fragment_id": "66305599",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 294/90\n\nde 21 de Setembro\n\nA Lei n.º 25/89, de 2 de Agosto, incumbiu o Estado de assegurar a todos os cidadãos, independentemente das condições económicas e sociais em que se encontrem, o acesso à terapêutica do sangue, seus componentes e derivados, bem como garantir os meios necessários à sua correcta obtenção, preparação, conservação, fraccionamento, distribuição e utilização.\n\nCabe, assim, aos cidadãos, como detentores e única procedência do sangue, o dever social de contribuírem para a satisfação das necessidades colectivas daquele produto.\n\nO sangue, uma vez colhido, é considerado uma dádiva à comunidade, mantendo-se em si mesmo gratuito, inclusive na sua utilização terapêutica.\n\nComo garantia da proibição da comercialização do sangue, são previstas por aquela lei a pena de prisão até um ano e multa até 100 dias.\n\nDando cumprimento ao disposto na Lei n.º 25/89, cria-se o Instituto Português do Sangue, o qual assegura, a nível central, o apoio à definição das políticas, elabora os planos de acção e coordena toda a actividade do sector, quer pública, quer privada.\n\nO Instituto Português do Sangue é um serviço personalizado do Estado, dotado de competência para orientar a actividade dos serviços de transfusão sanguínea dos hospitais e do Instituto Português de Oncologia, constituindo-se, deste modo, uma rede nacional assente em princípios de suficiência regional destinada a assegurar, em todo o País, os meios necessários à correcta utilização do sangue, desde a colheita à sua administração.\n\nÉ a aplicação destes princípios, e a necessidade de reunir num único diploma a presente matéria, que exige a definição da competente estrutura organizacional e das responsabilidades inerentes a cada um dos órgãos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 23.º, Decreto-Lei n.º 124/2011 - Diário da República n.º 249/2011, Série I de 2011-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2011-145186) O Instituto Português do Sangue, I. P. passa a designar-se Instituto Português do Sangue e da Transplantação, I. P. Esta nova designação produz efeitos, nos termos do art. 26.º deste diploma com a entrada em vigor do respectivo diploma orgânico. Tal é operado pelo Decreto-Lei 39/2012, de 16 de fevereiro - aprova a orgânica do Instituto Português do Sangue e da Transplantação, I. P.- que entrou em vigor a 21 de fevereiro de 2016."
+  },
+  "66305289": {
+   "fragment_id": "66305600",
+   "type": 1,
+   "heading": "Capítulo I — Rede nacional de transfusão de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Rede nacional de transfusão de sangue"
+  },
+  "66305290": {
+   "fragment_id": "66305601",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição\n\nA rede nacional de transfusão de sangue é o conjunto de órgãos e serviços responsáveis pelas actividades relacionadas com a colheita, preparação, embalagem, conservação e fiscalização da qualidade e distribuição do sangue humano e derivados."
+  },
+  "66305291": {
+   "fragment_id": "66305602",
+   "type": 11,
+   "heading": "Artigo 2.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Constituição\n\n1 - A rede nacional de transfusão de sangue é constituída pelo Instituto Português do Sangue e pelos serviços de transfusão de sangue dos hospitais, do Instituto Português de Oncologia e das unidades de saúde do âmbito militar.\n\n2 - Compete ao Instituto Português do Sangue orientar e coordenar a acção dos demais serviços integrantes da rede nacional de transfusão de sangue, devendo emitir as instruções técnicas que para tal se mostrem convenientes."
+  },
+  "66305292": {
+   "fragment_id": "66305603",
+   "type": 1,
+   "heading": "Capítulo II — Instituto Português do Sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Instituto Português do Sangue"
+  },
+  "66305293": {
+   "fragment_id": "66305604",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "66305294": {
+   "fragment_id": "66305605",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza\n\nÉ criado, no âmbito do Ministério da Saúde, o Instituto Português do Sangue, abreviadamente designado por IPS, com sede em Lisboa, dotado de personalidade jurídica e património próprio, com autonomia técnica, administrativa e financeira."
+  },
+  "66305295": {
+   "fragment_id": "66305606",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - São atribuições do IPS:\n\na) Coordenar, orientar e fiscalizar, a nível nacional, as actividades relacionadas com a colheita, preparação, conservação, distribuição e garantia de qualidade do sangue e seus derivados, bem como o respectivo tratamento industrial;\n\nb) Coordenar as actividades de todos os órgãos e serviços da rede nacional de transfusão de sangue;\n\nc) Promover a correcta utilização do sangue, componentes e derivados;\n\nd) Desenvolver um serviço nacional de referência na área da transfusão;\n\ne) Promover a investigação no campo da imuno-hematologia e da transfusão;\n\nf) Promover a investigação em todos os campos directamente relacionados com a terapêutica pelo sangue, seus componentes e derivados por técnicas de fraccionamento, imunológicas ou outras;\n\ng) Assegurar a articulação com o Serviço Nacional de Saúde e a prestação de serviços a instituições;\n\nh) Assegurar a representação do País nos órgãos internacionais da área da medicina transfusional e estabelecer relações com organismos e associações científicas nacionais e estrangeiras;\n\ni) Desenvolver os conhecimentos e promover a educação da população para a dádiva de sangue;\n\nj) Planificar e executar campanhas nacionais para a promoção da dádiva de sangue;\n\nl) Promover as condições para que se crie e aperfeiçoe a adequada infra-estrutura sanitária ao serviço da dádiva de sangue, assim como os meios humanos, técnicos e materiais para a sua organização e desenvolvimento;\n\nm) Fomentar a criação de associações e de grupos de dadores, apoiando as respectivas actividades;\n\nn) Criar um sistema de incentivos sociais em prol dos dadores de sangue, bem como os que puderem ser estabelecidos com outros subsistemas de saúde;\n\no) Assegurar a colaboração com os serviços de saúde das forças armadas;\n\np) Promover a actualização científica e formação técnica dos quadros do IPS e demais órgãos e serviços da rede nacional de transfusão de sangue;\n\nq) Promover a uniformização de materiais e métodos a utilizar na área da medicina transfusional;\n\nr) Assegurar o armazenamento e a gestão de sangue e em particular de grupos raros;\n\ns) Propor as medidas legislativas e administrativas consideradas necessárias à regulação da actividade dos serviços de transfusão sanguínea públicos ou privados, bem como do acto transfusional;\n\nt) Fazer observar o condicionamento e licenciamento de estabelecimentos privados de transfusão sanguínea e exercer, quanto às suas actividades, as funções de controlo de qualidade e de fiscalização no que respeita ao conjunto das regras por ele emitidas;\n\nu) Elaborar o plano anual e plurianual de actividades da rede nacional de transfusão de sangue.\n\n2 - No âmbito das atribuições referidas no número anterior, poderão ser chamados a colaborar com o IPS outros serviços e instituições públicas ou privadas, particularmente em situações de emergência ou calamidade nacional."
+  },
+  "66305296": {
+   "fragment_id": "66305607",
+   "type": 8,
+   "heading": "Secção II — Órgãos e serviços do IPS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Órgãos e serviços do IPS"
+  },
+  "66305297": {
+   "fragment_id": "66305608",
+   "type": 3,
+   "heading": "Subsecção I — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Estrutura geral"
+  },
+  "66305298": {
+   "fragment_id": "66305609",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\n1 - São órgãos do IPS:\n\na) O director;\n\nb) O subdirector;\n\nc) O conselho consultivo do sangue;\n\nd) O conselho técnico;\n\ne) Os directores dos centros regionais;\n\nf) Os conselhos consultivos regionais.\n\n2 - O director é equiparado, para todos os efeitos, a director-geral; o subdirector e os directores dos centros regionais, a subdirector-geral.\n\n3 - Aos cargos referidos no número anterior são aplicáveis as normas previstas no Decreto-Lei n.º 323/89, de 26 de Setembro, devendo a escolha recair em indivíduos de reconhecida competência e perfil adequado às respectivas funções."
+  },
+  "66305299": {
+   "fragment_id": "66305610",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços\n\n1 - O IPS tem serviços centrais e serviços desconcentrados.\n\n2 - São serviços centrais do IPS:\n\na) O Gabinete do Director;\n\nb) A Repartição Administrativa.\n\n3 - Constituem serviços desconcentrados do IPS os Centros Regionais de Sangue de Lisboa, Porto e Coimbra e outros que venham a ser criados por decreto-lei, de acordo com as necessidades manifestadas e de harmonia com a regionalização do País.\n\n4 - A área de actuação de cada centro regional de sangue é definida por portaria do Ministro da Saúde."
+  },
+  "66305300": {
+   "fragment_id": "66305611",
+   "type": 3,
+   "heading": "Subsecção II — Órgãos e serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Órgãos e serviços centrais"
+  },
+  "66305301": {
+   "fragment_id": "66305612",
+   "type": 11,
+   "heading": "Artigo 7.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Director\n\n1 - O director é o órgão máximo do IPS, sendo coadjuvado nas suas funções por um subdirector, que o substituirá nas suas faltas e impedimentos.\n\n2 - No âmbito das atribuições do IPS, compete ao director:\n\na) Coordenar a nível nacional a promoção da dádiva de sangue;\n\nb) Superintender em todos os órgãos e serviços do IPS;\n\nc) Representar o IPS em juízo ou fora dele;\n\nd) Aprovar os relatórios anuais do IPS, que serão elaborados tendo em conta os relatórios anuais apresentados pelos centros regionais de sangue;\n\ne) Aprovar os regulamentos internos necessários ao normal funcionamento dos serviços do IPS;\n\nf) Coordenar a actividade dos centros regionais de sangue e tomar providências para aumentar a eficácia e qualidade das prestações;\n\ng) Apreciar e dar soluções às petições, reclamações ou queixas dos utentes;\n\nh) Outorgar acordos com outras instituições, nacionais ou estrangeiras, públicas ou privadas, no campo da formação e investigação;\n\ni) Assegurar a gestão do pessoal do IPS, nos termos das disposições legais;\n\nj) Assegurar a constituição e funcionamento do conselho consultivo do sangue e empossar os seus membros."
+  },
+  "66305302": {
+   "fragment_id": "66305613",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição do conselho consultivo do sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição do conselho consultivo do sangue\n\n1 - O conselho consultivo do sangue é constituído pelo director do IPS, que preside, pelo subdirector, pelos directores dos centros regionais, um representante por cada centro regional, pelos directores de serviço de imuno-hemoterapia, por um representante da Cruz Vermelha Portuguesa, por dois representantes das organizações de dadores de sangue, por dois representantes das organizações de hemofílicos, por um representante da Ordem dos Médicos e por um representante do Estado-Maior-General das Forças Armadas.\n\n2 - O conselho consultivo do sangue reúne ordinariamente de seis em seis meses e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros."
+  },
+  "66305303": {
+   "fragment_id": "66305614",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências do conselho consultivo do sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências do conselho consultivo do sangue\n\nAo conselho consultivo do sangue compete, nomeadamente:\n\na) Dar parecer sobre o plano anual do IPS;\n\nb) Pronunciar-se, por iniciativa própria ou a pedido do director do IPS, sobre os assuntos relacionados com as atribuições e competências do IPS."
+  },
+  "66305304": {
+   "fragment_id": "66305615",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conselho técnico\n\n1 - O conselho técnico, órgão de assessoria técnica, é presidido pelo director do IPS e integra os responsáveis de todos os serviços centrais e regionais do IPS.\n\n2 - O conselho técnico reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros."
+  },
+  "66305305": {
+   "fragment_id": "66305616",
+   "type": 11,
+   "heading": "Artigo 11.º — Gabinete do Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Gabinete do Director\n\nCompete a este Gabinete apoiar o director no âmbito das suas atribuições, nos termos do n.º 2 do artigo 7.º"
+  },
+  "66305306": {
+   "fragment_id": "66305617",
+   "type": 11,
+   "heading": "Artigo 12.º — Repartição Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Repartição Administrativa\n\n1 - A Repartição Administrativa é chefiada por um chefe de repartição e compreende a Secção de Pessoal e Assuntos Gerais, a Secção de Contabilidade e a Secção de Património, chefiadas por chefes de secção.\n\n2 - À Secção de Pessoal e Assuntos Gerais compete:\n\na) Apoiar a instrução dos processos de recrutamento e selecção do pessoal;\n\nb) Executar o expediente relativo ao provimento, promoção, mobilidade e cessação de funções do pessoal do IPS;\n\nc) Organizar e manter actualizado o cadastro de todo o pessoal e elaborar as listas de antiguidade;\n\nd) Assegurar o expediente relativo à assiduidade do pessoal;\n\ne) Efectuar o processamento de vencimentos e outras remunerações devidas ao pessoal;\n\nf) Proceder à recepção, classificação, registo e distribuição de toda a correspondência e demais documentos;\n\ng) Secretariar os conselhos, comissões e grupos de trabalho que funcionem no IPS, quando para tal for solicitada;\n\nh) Superintender no pessoal auxiliar;\n\ni) Assegurar os serviços de expedição da correspondência;\n\nj) Proceder ao arquivo de todos os processos e demais documentação;\n\nl) Desenvolver outras actividades de natureza administrativa determinadas pelo director do IPS.\n\n3 - À Secção de Contabilidade compete:\n\na) Assegurar os serviços de contabilidade e tesouraria;\n\nb) Preparar a documentação necessária à elaboração do orçamento do IPS;\n\nc) Promover a requisição de fundos à Direcção-Geral da Contabilidade Pública, através da delegação respectiva, por conta das dotações do Orçamento do Estado inscritas a favor do IPS;\n\nd) Promover as acções que lhe sejam cometidas em execução do orçamento privativo;\n\ne) Acompanhar a elaboração e execução dos orçamentos dos serviços regionais do IPS;\n\nf) Informar os processos relativamente à legalidade das despesas e ao cabimento das verbas;\n\ng) Cobrar as receitas e instruir os processos relativos a despesas, efectuando os respectivos processamentos, liquidações e pagamentos;\n\nh) Elaborar a conta anual de gerência;\n\ni) Organizar e manter actualizada a conta corrente do movimento financeiro;\n\nj) Assegurar a escrituração da contabilidade;\n\nl) Fornecer ao director do IPS todos os elementos solicitados.\n\n4 - À Secção de Património compete:\n\na) Assegurar a gestão dos serviços de economato, procedendo ao apetrechamento dos serviços do IPS;\n\nb) Assegurar a gestão do património afecto ao IPS, zelando pela conservação dos edifícios, mobiliário e outro material, elaborando e mantendo actualizado o respectivo cadastro;\n\nc) Zelar pela segurança dos edifícios onde se encontram instalados os serviços do IPS;\n\nd) Organizar administrativamente os processos relativos à aquisição de bens e serviços;\n\ne) Assegurar a gestão das viaturas ao serviço do IPS, com vista ao seu racional aproveitamento."
+  },
+  "66305307": {
+   "fragment_id": "66305618",
+   "type": 3,
+   "heading": "Subsecção III — Órgãos e serviços regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Órgãos e serviços regionais"
+  },
+  "66305308": {
+   "fragment_id": "66305619",
+   "type": 11,
+   "heading": "Artigo 13.º — Centros regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Centros regionais\n\nAos centros regionais de sangue incumbe desenvolver, a nível regional, as atribuições do IPS."
+  },
+  "66305309": {
+   "fragment_id": "66305620",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência dos directores dos centros regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência dos directores dos centros regionais\n\nPara além das competências que lhes forem delegadas ou subdelegadas pelos órgãos centrais do IPS, compete aos directores dos centros regionais:\n\na) Dirigir e coordenar a actividade dos centros regionais de sangue;\n\nb) Propor aos órgãos centrais as acções consideradas convenientes para a boa prossecução dos objectivos do centro."
+  },
+  "66305310": {
+   "fragment_id": "66305621",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselhos consultivos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conselhos consultivos regionais\n\n1 - Junto de cada centro regional de sangue é criado um conselho consultivo regional.\n\n2 - Os conselhos consultivos regionais são constituídos:\n\na) Pelo director do centro regional, que preside;\n\nb) Pelos directores dos serviços hospitalares de sangue da área do centro;\n\nc) Por um representante das administrações regionais de saúde da área;\n\nd) Por dois representantes das organizações de dadores;\n\ne) Por dois técnicos do serviços social oriundos dos dois maiores hospitais da área do centro;\n\nf) Por um representante das instituições privadas de saúde;\n\ng) Por dois representantes das organizações profissionais dos trabalhadores da saúde;\n\nh) Por um representante das autarquias da área do centro.\n\n3 - Compete, designadamente, ao conselho consultivo regional:\n\na) Dar parecer sobre o plano anual do centro regional;\n\nb) Pronunciar-se, por iniciativa própria ou a pedido do director do centro regional, sobre os assuntos relacionados com as atribuições e competências do IPS.\n\n4 - Os conselhos regionais reúnem ordinariamente de seis em seis meses e extraordinariamente quando convocados pelo respectivo presidente, por sua iniciativa ou a solicitação de um terço dos seus membros."
+  },
+  "66305311": {
+   "fragment_id": "66305622",
+   "type": 11,
+   "heading": "Artigo 16.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Serviços\n\nSão serviços dos centros regionais de sangue:\n\na) O serviço técnico;\n\nb) O serviço de promoção de dádiva;\n\nc) A secção administrativa."
+  },
+  "66305312": {
+   "fragment_id": "66305623",
+   "type": 11,
+   "heading": "Artigo 17.º — Serviço técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Serviço técnico\n\n1 - O serviço técnico é dirigido por um director de serviço hospitalar, nomeado pelo director do IPS, sob proposta do director do centro regional, aplicando-se em tudo o mais o disposto no Decreto-Lei n.º 73/90, de 6 de Março.\n\n2 - Ao serviço técnico compete:\n\na) Proceder à colheita, separação em componentes, estudo laboratorial e conservação do sangue, de acordo com as normas estabelecidas pela direcção do IPS;\n\nb) Proceder ao controlo de qualidade, nomeadamente dos produtos utilizados e dos produtos finais;\n\nc) Promover a actualização científica e técnica do pessoal que o integra, pelo que deve ser dotado dos meios necessários à sua prossecução."
+  },
+  "66305313": {
+   "fragment_id": "66305624",
+   "type": 11,
+   "heading": "Artigo 18.º — Serviço de promoção de dádiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Serviço de promoção de dádiva\n\n1 - O serviço de promoção de dádiva é dirigido por um director, nomeado pelo director do IPS, sob proposta do director do centro regional, de entre o pessoal dirigente ou do pessoal técnico superior do quadro de pessoal do IPS.\n\n2 - Ao serviço de promoção de dádiva compete, nomeadamente:\n\na) Fomentar e executar campanhas permanentes de promoção da dádiva de sangue;\n\nb) Participar na educação dos jovens para a dádiva de sangue, em articulação com as estruturas do Ministério da Educação e do gabinete do membro do Governo responsável pela área da juventude;\n\nc) Apoiar o funcionamento das associações de dadores de sangue e das correlacionadas com o uso terapêutico do sangue;\n\nd) Sensibilizar os cidadãos, em geral, e os responsáveis da Administração, a diversos níveis, para a necessidade da dádiva benévola de sangue."
+  },
+  "66305314": {
+   "fragment_id": "66305625",
+   "type": 11,
+   "heading": "Artigo 19.º — Secção administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Secção administrativa\n\nÀ secção administrativa, chefiada por um chefe de secção, compete desenvolver, a nível regional, as atribuições da Repartição Administrativa do IPS."
+  },
+  "66305315": {
+   "fragment_id": "66305626",
+   "type": 8,
+   "heading": "Secção III — Património e meios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Património e meios financeiros"
+  },
+  "66305316": {
+   "fragment_id": "66305627",
+   "type": 11,
+   "heading": "Artigo 20.º — Gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Gestão financeira\n\n1 - A gestão financeira e patrimonial do IPS obedece às regras gerais da contabilidade pública aplicáveis aos serviços dotados de autonomia administrativa e financeira e às normas constantes do presente diploma.\n\n2 - A gestão financeira e patrimonial do IPS é orientada por orçamentos, planos de actividade e programas de investimento, anuais e plurianuais."
+  },
+  "66305317": {
+   "fragment_id": "66305628",
+   "type": 11,
+   "heading": "Artigo 21.º — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Receitas e despesas\n\n1 - São receitas do IPS:\n\na) As dotações do Orçamento do Estado;\n\nb) Comparticipações ou subsídios concedidos por entidades públicas ou privadas;\n\nc) Verbas cobradas a entidades, públicas ou privadas, por serviços a elas prestados, salvaguardada sempre a gratuitidade do próprio sangue;\n\nd) Doações, heranças e legados de que for beneficiário;\n\ne) O produto da alienação de bens próprios;\n\nf) Os juros de importâncias depositadas;\n\ng) Quaisquer outras receitas que por lei, contrato ou qualquer outro título lhe sejam atribuídas, salvaguardada sempre a gratuitidade do próprio sangue.\n\n2 - Constituem despesas do IPS:\n\na) Os encargos com o funcionamento dos seus serviços e com o cumprimento das atribuições e competências que lhe estão confiadas;\n\nb) Os encargos decorrentes da execução dos planos anuais e plurianuais de investimento."
+  },
+  "66305318": {
+   "fragment_id": "66305629",
+   "type": 8,
+   "heading": "Secção IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Pessoal"
+  },
+  "66305319": {
+   "fragment_id": "66305630",
+   "type": 11,
+   "heading": "Artigo 22.º — Quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Quadro\n\n1 - O quadro de pessoal do IPS consta do anexo ao presente diploma, que dele faz parte integrante.\n\n2 - Compete ao director do IPS afectar o pessoal aos diferentes serviços que o compõem."
+  },
+  "66305320": {
+   "fragment_id": "66305631",
+   "type": 11,
+   "heading": "Artigo 23.º — Provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Provimento\n\nO provimento dos lugares do quadro de pessoal é feito de acordo com o regime geral da função pública."
+  },
+  "66305321": {
+   "fragment_id": "66305632",
+   "type": 1,
+   "heading": "Capítulo III — Associações de dadores de sangue e direitos dos dadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Associações de dadores de sangue e direitos dos dadores"
+  },
+  "66305322": {
+   "fragment_id": "66305633",
+   "type": 11,
+   "heading": "Artigo 24.º — Associações de dadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Associações de dadores\n\n1 - Consideram-se associações de dadores de sangue as organizações que se proponham fins de promoção altruística e desinteressada da dádiva de sangue e a inscrição de dadores voluntários para a sua prática habitual e que fomentem nesta área o dever moral de solidariedade entre os cidadãos.\n\n2 - O IPS deve ouvir as organizações representantes de associações de dadores de sangue de nível nacional sobre os planos de actividades que elaborar.\n\n3 - As associações e os grupos de dadores de sangue colaboram com as entidades oficiais na promoção e desenvolvimento das campanhas periódicas ou extraordinárias da dádiva de sangue."
+  },
+  "66305323": {
+   "fragment_id": "66305634",
+   "type": 11,
+   "heading": "Artigo 25.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Registo\n\nOs serviços integrantes da rede nacional de transfusão de sangue devem proceder ao registo, que manterão actualizado, dos dadores de sangue."
+  },
+  "66305324": {
+   "fragment_id": "66305635",
+   "type": 11,
+   "heading": "Artigo 26.º — Direitos dos dadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Direitos dos dadores\n\n1 - Aos dadores benévolos de sangue é concedida autorização para se ausentarem das suas actividades, a fim de darem sangue, por solicitação de qualquer dos serviços da rede nacional de transfusão de sangue ou por iniciativa própria, salvo quando haja motivos urgentes e inadiáveis de serviço que naquele momento desaconselhem o seu afastamento do local de trabalho.\n\n2 - No caso previsto no número anterior, se não se comprovar a apresentação do trabalhador no local da colheita de sangue, a falta ao trabalho é considerada, nos termos gerais da lei, como injustificada, sem prejuízo do procedimento disciplinar a que haja lugar.\n\n3 - As ausências ao trabalho a que se refere o n.º 1 não determinam a perda de quaisquer direitos ou regalias e, designadamente, não são descontadas nas licenças.\n\n4 - Os dadores de sangue têm direito à isenção de taxas moderadoras do Serviço Nacional de Saúde, de acordo com a legislação em vigor."
+  },
+  "66305325": {
+   "fragment_id": "66305636",
+   "type": 11,
+   "heading": "Artigo 27.º — Cartão nacional de dador de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Cartão nacional de dador de sangue\n\n1 - À situação de dador de sangue corresponde a atribuição de um cartão nacional de dador de sangue, a passar pelo serviço responsável pelo respectivo registo.\n\n2 - O modelo do cartão referido no número anterior será fixado por portaria do Ministro da Saúde."
+  },
+  "66305326": {
+   "fragment_id": "66305637",
+   "type": 11,
+   "heading": "Artigo 28.º — Reconhecimento público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Reconhecimento público\n\n1 - São criados a medalha de dador de sangue, o diploma e o distintivo para galardoar a dedicação inerente à dádiva benévola de sangue.\n\n2 - A medalha de dador de sangue compreende os graus de medalha dourada, medalha prateada e medalha cobreada e será concedida pelo director do IPS nos seguintes casos:\n\na) A medalha dourada será concedida aos dadores que tenham completado 60 dádivas benévolas de sangue;\n\nb) A medalha prateada aos dadores que tenham completado 40 dádivas;\n\nc) A medalha cobreada aos dadores que hajam completado 20 dádivas.\n\n3 - O diploma de dador de sangue será concedido pelo director do IPS aos indivíduos que tenham completado 10 dádivas benévolas de sangue.\n\n4 - O distintivo de dador de sangue será concedido pelo director do IPS aos dadores benévolos a partir da quinta doação, bem como aos indivíduos que se tenham evidenciado por actividades que estimulem a doação de sangue.\n\n5 - Os modelos dos galardões referidos nos números anteriores serão fixados por portaria do Ministro da Saúde."
+  },
+  "66305327": {
+   "fragment_id": "66305638",
+   "type": 11,
+   "heading": "Artigo 29.º — Seguro do dador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Seguro do dador\n\n1 - É criado o seguro do dador, para cobrir todas as situações anómalas resultantes da dádiva ou resultantes de acidentes que eventualmente os dadores sofram no trajecto para e do local da colheita quando para tal forem convocados.\n\n2 - O seguro referido no número anterior será regulamentado por portaria conjunta dos Ministros das Finanças e da Saúde."
+  },
+  "66305328": {
+   "fragment_id": "66305639",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "66305329": {
+   "fragment_id": "66305640",
+   "type": 11,
+   "heading": "Artigo 30.º — Extinção do Instituto Nacional de Sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Extinção do Instituto Nacional de Sangue\n\n1 - É extinto o Instituto Nacional de Sangue, criado pelo Decreto-Lei n.º 41498, de 2 de Janeiro de 1958.\n\n2 - O activo, o passivo, os direitos e as obrigações, incluindo posições contratuais de que é titular o Instituto Nacional de Sangue, são automaticamente transferidos para o IPS, sem dependência de quaisquer formalidades."
+  },
+  "66305330": {
+   "fragment_id": "66305641",
+   "type": 11,
+   "heading": "Artigo 31.º — Integração de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Integração de pessoal\n\n1 - Sem prejuízo do disposto na alínea b) do artigo 6.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, e do constante nos artigos seguintes, a integração do pessoal que à data da entrada em vigor do presente diploma presta serviço no Instituto Nacional de Sangue faz-se nos lugares constantes do quadro de pessoal a que se refere o n.º 1 do artigo 22.º do presente diploma e de acordo com as seguintes regras:\n\na) Para categoria idêntica à que o funcionário já possui;\n\nb) Sem prejuízo das habilitações legais, para categoria que integre as funções que efectivamente desempenha, em escalão a que corresponda o mesmo índice remuneratório ou, quando não se verifique coincidência de índice, em escalão a que corresponda o índice superior mais aproximado na estrutura da carteira para que se processa a transição;\n\nc) As correspondências de categoria fazem-se em função do índice remuneratório correspondente ao escalão 1 da categoria em que o funcionário se encontra e o escalão 1 da categoria da nova carreira, sem prejuízo da atribuição do índice nos termos da alínea anterior.\n\n2 - Para efeitos do disposto no número anterior, o requisito de tempo de serviço previsto na alínea b) do artigo 6.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, deve ter sido preenchido até à data da entrada em vigor do Decreto-Lei n.º 427/89, de 7 de Dezembro.\n\n3 - A correspondência entre as funções anteriormente exercidas e as do lugar em que é feita a integração será fixada através de declaração do responsável pelo serviço respectivo, confirmada pelo dirigente máximo do IPS.\n\n4 - Os actuais titulares das categorias de técnico auxiliar principal e técnico de relações exteriores transitam para a carreira de técnico profissional do nível 4, para categoria correspondente às funções que desempenham, remunerada pelo mesmo escalão de vencimento ou pelo imediatamente superior quando não se verifique coincidência de remunerações, após aprovação num curso de formação profissional, nos termos da lei geral, mediante despacho do responsável máximo do IPS, ao abrigo do artigo 32.º do Decreto-Lei n.º 184/89, de 2 de Junho.\n\n5 - Ao actual titular da categoria de chefe de sector é aplicável o disposto no Decreto n.º 109/80, de 20 de Outubro.\n\n6 - Os actuais titulares da categoria de servente que venham efectivamente exercendo funções na área do pessoal de serviços gerais transitam para esta carreira de acordo com as regras previstas no Decreto n.º 109/80, de 20 de Outubro.\n\n7 - O tempo de serviço prestado na categoria que deu origem à transição conta como prestado na categoria para que se operou a mesma, desde que no exercício efectivo de funções correspondentes."
+  },
+  "66305331": {
+   "fragment_id": "66305642",
+   "type": 11,
+   "heading": "Artigo 32.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regulamentação\n\nAs normas necessárias à execução do presente diploma são aprovadas por decreto regulamentar."
+  },
+  "66305332": {
+   "fragment_id": "66305643",
+   "type": 11,
+   "heading": "Artigo 33.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 41498, de 2 de Janeiro de 1958;\n\nb) O Decreto-Lei n.º 44199, de 20 de Fevereiro de 1962;\n\nc) A Portaria n.º 19296, de 21 de Junho de 1962;\n\nd) A Portaria n.º 23430, de 11 de Junho de 1968;\n\ne) O Despacho Normativo n.º 49/82, de 20 de Abril."
+  },
+  "66305333": {
+   "fragment_id": "66305644",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal a que se refere n.º 1 do artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro de pessoal a que se refere n.º 1 do artigo 22.º\n\n(ver documento original)"
+  },
+  "66305334": {
+   "fragment_id": "66305645",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Agosto de 1990. - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Alberto José Nunes Correia Ralha - Arlindo Gomes de Carvalho - António Fernando Gomes Couto dos Santos.\n\nPromulgado em 7 de Setembro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 11 de Setembro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "66305338": {
+   "fragment_id": "66305644",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal a que se refere n.º 1 do artigo 22.º",
+   "in_force_from": "1992-01-25",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 29/92 - Diário da República n.º 16/1992, Série I-B de 1992-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/29-1992-144253), em vigor a partir de 1992-01-25"
+   ],
+   "markdown": "## Anexo — Quadro de pessoal a que se refere n.º 1 do artigo 22.º\n\n(ver documento original)\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 29/92 - Diário da República n.º 16/1992, Série I-B de 1992-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/29-1992-144253), em vigor a partir de 1992-01-25"
+  },
+  "66321415": {
+   "fragment_id": "66305637",
+   "type": 11,
+   "heading": "Artigo 28.º — Reconhecimento público",
+   "in_force_from": "1997-04-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 87/97 - Diário da República n.º 91/1997, Série I-A de 1997-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1997-469585), em vigor a partir de 1997-04-23"
+   ],
+   "markdown": "###### Artigo 28.º — Reconhecimento público\n\n1 - São criados a medalha de dador de sangue, o diploma e o distintivo para galardoar a dedicação inerente à dádiva benévola de sangue.\n\n2 -A medalha de dador de sangue compreende os graus de medalha dourada, medalha prateada e medalha cobreada e será concedida pelo Ministro da Saúde nos seguintes casos:\n\na) A medalha dourada será concedida aos dadores que tenham completado 60 dádivas benévolas de sangue;\n\nb) A medalha prateada aos dadores que tenham completado 40 dádivas;\n\nc) A medalha cobreada aos dadores que hajam completado 20 dádivas.\n\n3 - O diploma de dador de sangue será concedido pelo director do IPS aos indivíduos que tenham completado 10 dádivas benévolas de sangue.\n\n4 - O distintivo de dador de sangue será concedido pelo director do IPS aos dadores benévolos a partir da quinta doação, bem como aos indivíduos que se tenham evidenciado por actividades que estimulem a doação de sangue.\n\n5 - Os modelos dos galardões referidos nos números anteriores serão fixados por portaria do Ministro da Saúde.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 87/97 - Diário da República n.º 91/1997, Série I-A de 1997-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1997-469585), em vigor a partir de 1997-04-23"
+  },
+  "66321438": {
+   "fragment_id": "66305604",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321439": {
+   "fragment_id": "66305605",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — Natureza\n\nÉ criado, no âmbito do Ministério da Saúde, o Instituto Português do Sangue, abreviadamente designado por IPS, com sede em Lisboa, dotado de personalidade jurídica e património próprio, com autonomia técnica, administrativa e financeira.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321440": {
+   "fragment_id": "66305606",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - São atribuições do IPS:\n\na) Coordenar, orientar e fiscalizar, a nível nacional, as actividades relacionadas com a colheita, preparação, conservação, distribuição e garantia de qualidade do sangue e seus derivados, bem como o respectivo tratamento industrial;\n\nb) Coordenar as actividades de todos os órgãos e serviços da rede nacional de transfusão de sangue;\n\nc) Promover a correcta utilização do sangue, componentes e derivados;\n\nd) Desenvolver um serviço nacional de referência na área da transfusão;\n\ne) Promover a investigação no campo da imuno-hematologia e da transfusão;\n\nf) Promover a investigação em todos os campos directamente relacionados com a terapêutica pelo sangue, seus componentes e derivados por técnicas de fraccionamento, imunológicas ou outras;\n\ng) Assegurar a articulação com o Serviço Nacional de Saúde e a prestação de serviços a instituições;\n\nh) Assegurar a representação do País nos órgãos internacionais da área da medicina transfusional e estabelecer relações com organismos e associações científicas nacionais e estrangeiras;\n\ni) Desenvolver os conhecimentos e promover a educação da população para a dádiva de sangue;\n\nj) Planificar e executar campanhas nacionais para a promoção da dádiva de sangue;\n\nl) Promover as condições para que se crie e aperfeiçoe a adequada infra-estrutura sanitária ao serviço da dádiva de sangue, assim como os meios humanos, técnicos e materiais para a sua organização e desenvolvimento;\n\nm) Fomentar a criação de associações e de grupos de dadores, apoiando as respectivas actividades;\n\nn) Criar um sistema de incentivos sociais em prol dos dadores de sangue, bem como os que puderem ser estabelecidos com outros subsistemas de saúde;\n\no) Assegurar a colaboração com os serviços de saúde das forças armadas;\n\np) Promover a actualização científica e formação técnica dos quadros do IPS e demais órgãos e serviços da rede nacional de transfusão de sangue;\n\nq) Promover a uniformização de materiais e métodos a utilizar na área da medicina transfusional;\n\nr) Assegurar o armazenamento e a gestão de sangue e em particular de grupos raros;\n\ns) Propor as medidas legislativas e administrativas consideradas necessárias à regulação da actividade dos serviços de transfusão sanguínea públicos ou privados, bem como do acto transfusional;\n\nt) Fazer observar o condicionamento e licenciamento de estabelecimentos privados de transfusão sanguínea e exercer, quanto às suas actividades, as funções de controlo de qualidade e de fiscalização no que respeita ao conjunto das regras por ele emitidas;\n\nu) Elaborar o plano anual e plurianual de actividades da rede nacional de transfusão de sangue.\n\n2 - No âmbito das atribuições referidas no número anterior, poderão ser chamados a colaborar com o IPS outros serviços e instituições públicas ou privadas, particularmente em situações de emergência ou calamidade nacional.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321446": {
+   "fragment_id": "66305608",
+   "type": 3,
+   "heading": "Subsecção I — Estrutura geral",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "##### Subsecção I — Estrutura geral\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321447": {
+   "fragment_id": "66305609",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 5.º — Órgãos\n\n1 - São órgãos do IPS:\n\na) O director;\n\nb) O subdirector;\n\nc) O conselho consultivo do sangue;\n\nd) O conselho técnico;\n\ne) Os directores dos centros regionais;\n\nf) Os conselhos consultivos regionais.\n\n2 - O director é equiparado, para todos os efeitos, a director-geral; o subdirector e os directores dos centros regionais, a subdirector-geral.\n\n3 - Aos cargos referidos no número anterior são aplicáveis as normas previstas no Decreto-Lei n.º 323/89, de 26 de Setembro, devendo a escolha recair em indivíduos de reconhecida competência e perfil adequado às respectivas funções.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321448": {
+   "fragment_id": "66305610",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 6.º — Serviços\n\n1 - O IPS tem serviços centrais e serviços desconcentrados.\n\n2 - São serviços centrais do IPS:\n\na) O Gabinete do Director;\n\nb) A Repartição Administrativa.\n\n3 - Constituem serviços desconcentrados do IPS os Centros Regionais de Sangue de Lisboa, Porto e Coimbra e outros que venham a ser criados por decreto-lei, de acordo com as necessidades manifestadas e de harmonia com a regionalização do País.\n\n4 - A área de actuação de cada centro regional de sangue é definida por portaria do Ministro da Saúde.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321449": {
+   "fragment_id": "66305611",
+   "type": 3,
+   "heading": "Subsecção II — Órgãos e serviços centrais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "##### Subsecção II — Órgãos e serviços centrais\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321450": {
+   "fragment_id": "66305612",
+   "type": 11,
+   "heading": "Artigo 7.º — Director",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 7.º — Director\n\n1 - O director é o órgão máximo do IPS, sendo coadjuvado nas suas funções por um subdirector, que o substituirá nas suas faltas e impedimentos.\n\n2 - No âmbito das atribuições do IPS, compete ao director:\n\na) Coordenar a nível nacional a promoção da dádiva de sangue;\n\nb) Superintender em todos os órgãos e serviços do IPS;\n\nc) Representar o IPS em juízo ou fora dele;\n\nd) Aprovar os relatórios anuais do IPS, que serão elaborados tendo em conta os relatórios anuais apresentados pelos centros regionais de sangue;\n\ne) Aprovar os regulamentos internos necessários ao normal funcionamento dos serviços do IPS;\n\nf) Coordenar a actividade dos centros regionais de sangue e tomar providências para aumentar a eficácia e qualidade das prestações;\n\ng) Apreciar e dar soluções às petições, reclamações ou queixas dos utentes;\n\nh) Outorgar acordos com outras instituições, nacionais ou estrangeiras, públicas ou privadas, no campo da formação e investigação;\n\ni) Assegurar a gestão do pessoal do IPS, nos termos das disposições legais;\n\nj) Assegurar a constituição e funcionamento do conselho consultivo do sangue e empossar os seus membros.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321451": {
+   "fragment_id": "66305613",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição do conselho consultivo do sangue",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 8.º — Composição do conselho consultivo do sangue\n\n1 - O conselho consultivo do sangue é constituído pelo director do IPS, que preside, pelo subdirector, pelos directores dos centros regionais, um representante por cada centro regional, pelos directores de serviço de imuno-hemoterapia, por um representante da Cruz Vermelha Portuguesa, por dois representantes das organizações de dadores de sangue, por dois representantes das organizações de hemofílicos, por um representante da Ordem dos Médicos e por um representante do Estado-Maior-General das Forças Armadas.\n\n2 - O conselho consultivo do sangue reúne ordinariamente de seis em seis meses e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321452": {
+   "fragment_id": "66305614",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências do conselho consultivo do sangue",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 9.º — Competências do conselho consultivo do sangue\n\nAo conselho consultivo do sangue compete, nomeadamente:\n\na) Dar parecer sobre o plano anual do IPS;\n\nb) Pronunciar-se, por iniciativa própria ou a pedido do director do IPS, sobre os assuntos relacionados com as atribuições e competências do IPS.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321453": {
+   "fragment_id": "66305615",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho técnico",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 10.º — Conselho técnico\n\n1 - O conselho técnico, órgão de assessoria técnica, é presidido pelo director do IPS e integra os responsáveis de todos os serviços centrais e regionais do IPS.\n\n2 - O conselho técnico reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321454": {
+   "fragment_id": "66305616",
+   "type": 11,
+   "heading": "Artigo 11.º — Gabinete do Director",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 11.º — Gabinete do Director\n\nCompete a este Gabinete apoiar o director no âmbito das suas atribuições, nos termos do n.º 2 do artigo 7.º\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321455": {
+   "fragment_id": "66305617",
+   "type": 11,
+   "heading": "Artigo 12.º — Repartição Administrativa",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 12.º — Repartição Administrativa\n\n1 - A Repartição Administrativa é chefiada por um chefe de repartição e compreende a Secção de Pessoal e Assuntos Gerais, a Secção de Contabilidade e a Secção de Património, chefiadas por chefes de secção.\n\n2 - À Secção de Pessoal e Assuntos Gerais compete:\n\na) Apoiar a instrução dos processos de recrutamento e selecção do pessoal;\n\nb) Executar o expediente relativo ao provimento, promoção, mobilidade e cessação de funções do pessoal do IPS;\n\nc) Organizar e manter actualizado o cadastro de todo o pessoal e elaborar as listas de antiguidade;\n\nd) Assegurar o expediente relativo à assiduidade do pessoal;\n\ne) Efectuar o processamento de vencimentos e outras remunerações devidas ao pessoal;\n\nf) Proceder à recepção, classificação, registo e distribuição de toda a correspondência e demais documentos;\n\ng) Secretariar os conselhos, comissões e grupos de trabalho que funcionem no IPS, quando para tal for solicitada;\n\nh) Superintender no pessoal auxiliar;\n\ni) Assegurar os serviços de expedição da correspondência;\n\nj) Proceder ao arquivo de todos os processos e demais documentação;\n\nl) Desenvolver outras actividades de natureza administrativa determinadas pelo director do IPS.\n\n3 - À Secção de Contabilidade compete:\n\na) Assegurar os serviços de contabilidade e tesouraria;\n\nb) Preparar a documentação necessária à elaboração do orçamento do IPS;\n\nc) Promover a requisição de fundos à Direcção-Geral da Contabilidade Pública, através da delegação respectiva, por conta das dotações do Orçamento do Estado inscritas a favor do IPS;\n\nd) Promover as acções que lhe sejam cometidas em execução do orçamento privativo;\n\ne) Acompanhar a elaboração e execução dos orçamentos dos serviços regionais do IPS;\n\nf) Informar os processos relativamente à legalidade das despesas e ao cabimento das verbas;\n\ng) Cobrar as receitas e instruir os processos relativos a despesas, efectuando os respectivos processamentos, liquidações e pagamentos;\n\nh) Elaborar a conta anual de gerência;\n\ni) Organizar e manter actualizada a conta corrente do movimento financeiro;\n\nj) Assegurar a escrituração da contabilidade;\n\nl) Fornecer ao director do IPS todos os elementos solicitados.\n\n4 - À Secção de Património compete:\n\na) Assegurar a gestão dos serviços de economato, procedendo ao apetrechamento dos serviços do IPS;\n\nb) Assegurar a gestão do património afecto ao IPS, zelando pela conservação dos edifícios, mobiliário e outro material, elaborando e mantendo actualizado o respectivo cadastro;\n\nc) Zelar pela segurança dos edifícios onde se encontram instalados os serviços do IPS;\n\nd) Organizar administrativamente os processos relativos à aquisição de bens e serviços;\n\ne) Assegurar a gestão das viaturas ao serviço do IPS, com vista ao seu racional aproveitamento.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321456": {
+   "fragment_id": "66305618",
+   "type": 3,
+   "heading": "Subsecção III — Órgãos e serviços regionais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "##### Subsecção III — Órgãos e serviços regionais\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321457": {
+   "fragment_id": "66305619",
+   "type": 11,
+   "heading": "Artigo 13.º — Centros regionais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 13.º — Centros regionais\n\nAos centros regionais de sangue incumbe desenvolver, a nível regional, as atribuições do IPS.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321458": {
+   "fragment_id": "66305620",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência dos directores dos centros regionais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 14.º — Competência dos directores dos centros regionais\n\nPara além das competências que lhes forem delegadas ou subdelegadas pelos órgãos centrais do IPS, compete aos directores dos centros regionais:\n\na) Dirigir e coordenar a actividade dos centros regionais de sangue;\n\nb) Propor aos órgãos centrais as acções consideradas convenientes para a boa prossecução dos objectivos do centro.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321459": {
+   "fragment_id": "66305621",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselhos consultivos regionais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 15.º — Conselhos consultivos regionais\n\n1 - Junto de cada centro regional de sangue é criado um conselho consultivo regional.\n\n2 - Os conselhos consultivos regionais são constituídos:\n\na) Pelo director do centro regional, que preside;\n\nb) Pelos directores dos serviços hospitalares de sangue da área do centro;\n\nc) Por um representante das administrações regionais de saúde da área;\n\nd) Por dois representantes das organizações de dadores;\n\ne) Por dois técnicos do serviços social oriundos dos dois maiores hospitais da área do centro;\n\nf) Por um representante das instituições privadas de saúde;\n\ng) Por dois representantes das organizações profissionais dos trabalhadores da saúde;\n\nh) Por um representante das autarquias da área do centro.\n\n3 - Compete, designadamente, ao conselho consultivo regional:\n\na) Dar parecer sobre o plano anual do centro regional;\n\nb) Pronunciar-se, por iniciativa própria ou a pedido do director do centro regional, sobre os assuntos relacionados com as atribuições e competências do IPS.\n\n4 - Os conselhos regionais reúnem ordinariamente de seis em seis meses e extraordinariamente quando convocados pelo respectivo presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321460": {
+   "fragment_id": "66305622",
+   "type": 11,
+   "heading": "Artigo 16.º — Serviços",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 16.º — Serviços\n\nSão serviços dos centros regionais de sangue:\n\na) O serviço técnico;\n\nb) O serviço de promoção de dádiva;\n\nc) A secção administrativa.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321461": {
+   "fragment_id": "66305623",
+   "type": 11,
+   "heading": "Artigo 17.º — Serviço técnico",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 17.º — Serviço técnico\n\n1 - O serviço técnico é dirigido por um director de serviço hospitalar, nomeado pelo director do IPS, sob proposta do director do centro regional, aplicando-se em tudo o mais o disposto no Decreto-Lei n.º 73/90, de 6 de Março.\n\n2 - Ao serviço técnico compete:\n\na) Proceder à colheita, separação em componentes, estudo laboratorial e conservação do sangue, de acordo com as normas estabelecidas pela direcção do IPS;\n\nb) Proceder ao controlo de qualidade, nomeadamente dos produtos utilizados e dos produtos finais;\n\nc) Promover a actualização científica e técnica do pessoal que o integra, pelo que deve ser dotado dos meios necessários à sua prossecução.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321462": {
+   "fragment_id": "66305624",
+   "type": 11,
+   "heading": "Artigo 18.º — Serviço de promoção de dádiva",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 18.º — Serviço de promoção de dádiva\n\n1 - O serviço de promoção de dádiva é dirigido por um director, nomeado pelo director do IPS, sob proposta do director do centro regional, de entre o pessoal dirigente ou do pessoal técnico superior do quadro de pessoal do IPS.\n\n2 - Ao serviço de promoção de dádiva compete, nomeadamente:\n\na) Fomentar e executar campanhas permanentes de promoção da dádiva de sangue;\n\nb) Participar na educação dos jovens para a dádiva de sangue, em articulação com as estruturas do Ministério da Educação e do gabinete do membro do Governo responsável pela área da juventude;\n\nc) Apoiar o funcionamento das associações de dadores de sangue e das correlacionadas com o uso terapêutico do sangue;\n\nd) Sensibilizar os cidadãos, em geral, e os responsáveis da Administração, a diversos níveis, para a necessidade da dádiva benévola de sangue.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321463": {
+   "fragment_id": "66305625",
+   "type": 11,
+   "heading": "Artigo 19.º — Secção administrativa",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 19.º — Secção administrativa\n\nÀ secção administrativa, chefiada por um chefe de secção, compete desenvolver, a nível regional, as atribuições da Repartição Administrativa do IPS.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321464": {
+   "fragment_id": "66305626",
+   "type": 8,
+   "heading": "Secção III — Património e meios financeiros",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "#### Secção III — Património e meios financeiros\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321465": {
+   "fragment_id": "66305627",
+   "type": 11,
+   "heading": "Artigo 20.º — Gestão financeira",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 20.º — Gestão financeira\n\n1 - A gestão financeira e patrimonial do IPS obedece às regras gerais da contabilidade pública aplicáveis aos serviços dotados de autonomia administrativa e financeira e às normas constantes do presente diploma.\n\n2 - A gestão financeira e patrimonial do IPS é orientada por orçamentos, planos de actividade e programas de investimento, anuais e plurianuais.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321466": {
+   "fragment_id": "66305628",
+   "type": 11,
+   "heading": "Artigo 21.º — Receitas e despesas",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 21.º — Receitas e despesas\n\n1 - São receitas do IPS:\n\na) As dotações do Orçamento do Estado;\n\nb) Comparticipações ou subsídios concedidos por entidades públicas ou privadas;\n\nc) Verbas cobradas a entidades, públicas ou privadas, por serviços a elas prestados, salvaguardada sempre a gratuitidade do próprio sangue;\n\nd) Doações, heranças e legados de que for beneficiário;\n\ne) O produto da alienação de bens próprios;\n\nf) Os juros de importâncias depositadas;\n\ng) Quaisquer outras receitas que por lei, contrato ou qualquer outro título lhe sejam atribuídas, salvaguardada sempre a gratuitidade do próprio sangue.\n\n2 - Constituem despesas do IPS:\n\na) Os encargos com o funcionamento dos seus serviços e com o cumprimento das atribuições e competências que lhe estão confiadas;\n\nb) Os encargos decorrentes da execução dos planos anuais e plurianuais de investimento.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321467": {
+   "fragment_id": "66305629",
+   "type": 8,
+   "heading": "Secção IV — Pessoal",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "#### Secção IV — Pessoal\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321468": {
+   "fragment_id": "66305630",
+   "type": 11,
+   "heading": "Artigo 22.º — Quadro",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 22.º — Quadro\n\n1 - O quadro de pessoal do IPS consta do anexo ao presente diploma, que dele faz parte integrante.\n\n2 - Compete ao director do IPS afectar o pessoal aos diferentes serviços que o compõem.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321469": {
+   "fragment_id": "66305631",
+   "type": 11,
+   "heading": "Artigo 23.º — Provimento",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 23.º — Provimento\n\nO provimento dos lugares do quadro de pessoal é feito de acordo com o regime geral da função pública.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321441": {
+   "fragment_id": "66305639",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321442": {
+   "fragment_id": "66305640",
+   "type": 11,
+   "heading": "Artigo 30.º — Extinção do Instituto Nacional de Sangue",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 30.º — Extinção do Instituto Nacional de Sangue\n\n1 - É extinto o Instituto Nacional de Sangue, criado pelo Decreto-Lei n.º 41498, de 2 de Janeiro de 1958.\n\n2 - O activo, o passivo, os direitos e as obrigações, incluindo posições contratuais de que é titular o Instituto Nacional de Sangue, são automaticamente transferidos para o IPS, sem dependência de quaisquer formalidades.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321443": {
+   "fragment_id": "66305641",
+   "type": 11,
+   "heading": "Artigo 31.º — Integração de pessoal",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 31.º — Integração de pessoal\n\n1 - Sem prejuízo do disposto na alínea b) do artigo 6.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, e do constante nos artigos seguintes, a integração do pessoal que à data da entrada em vigor do presente diploma presta serviço no Instituto Nacional de Sangue faz-se nos lugares constantes do quadro de pessoal a que se refere o n.º 1 do artigo 22.º do presente diploma e de acordo com as seguintes regras:\n\na) Para categoria idêntica à que o funcionário já possui;\n\nb) Sem prejuízo das habilitações legais, para categoria que integre as funções que efectivamente desempenha, em escalão a que corresponda o mesmo índice remuneratório ou, quando não se verifique coincidência de índice, em escalão a que corresponda o índice superior mais aproximado na estrutura da carteira para que se processa a transição;\n\nc) As correspondências de categoria fazem-se em função do índice remuneratório correspondente ao escalão 1 da categoria em que o funcionário se encontra e o escalão 1 da categoria da nova carreira, sem prejuízo da atribuição do índice nos termos da alínea anterior.\n\n2 - Para efeitos do disposto no número anterior, o requisito de tempo de serviço previsto na alínea b) do artigo 6.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, deve ter sido preenchido até à data da entrada em vigor do Decreto-Lei n.º 427/89, de 7 de Dezembro.\n\n3 - A correspondência entre as funções anteriormente exercidas e as do lugar em que é feita a integração será fixada através de declaração do responsável pelo serviço respectivo, confirmada pelo dirigente máximo do IPS.\n\n4 - Os actuais titulares das categorias de técnico auxiliar principal e técnico de relações exteriores transitam para a carreira de técnico profissional do nível 4, para categoria correspondente às funções que desempenham, remunerada pelo mesmo escalão de vencimento ou pelo imediatamente superior quando não se verifique coincidência de remunerações, após aprovação num curso de formação profissional, nos termos da lei geral, mediante despacho do responsável máximo do IPS, ao abrigo do artigo 32.º do Decreto-Lei n.º 184/89, de 2 de Junho.\n\n5 - Ao actual titular da categoria de chefe de sector é aplicável o disposto no Decreto n.º 109/80, de 20 de Outubro.\n\n6 - Os actuais titulares da categoria de servente que venham efectivamente exercendo funções na área do pessoal de serviços gerais transitam para esta carreira de acordo com as regras previstas no Decreto n.º 109/80, de 20 de Outubro.\n\n7 - O tempo de serviço prestado na categoria que deu origem à transição conta como prestado na categoria para que se operou a mesma, desde que no exercício efectivo de funções correspondentes.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321444": {
+   "fragment_id": "66305642",
+   "type": 11,
+   "heading": "Artigo 32.º — Regulamentação",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 32.º — Regulamentação\n\nAs normas necessárias à execução do presente diploma são aprovadas por decreto regulamentar.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  },
+  "66321445": {
+   "fragment_id": "66305643",
+   "type": 11,
+   "heading": "Artigo 33.º — Norma revogatória",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 33.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 41498, de 2 de Janeiro de 1958;\n\nb) O Decreto-Lei n.º 44199, de 20 de Fevereiro de 1962;\n\nc) A Portaria n.º 19296, de 21 de Junho de 1962;\n\nd) A Portaria n.º 23430, de 11 de Junho de 1968;\n\ne) O Despacho Normativo n.º 49/82, de 20 de Abril.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 270/2007 - Diário da República n.º 143/2007, Série I de 2007-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2007-636709), em vigor a partir de 2007-08-01"
+  }
+ }
+}

@@ -1,0 +1,272 @@
+---
+schema_version: '1.0'
+id: pt:dre:509029:por
+title: Portaria n.º 99-A/77
+short_title: null
+summary: Sujeita a contingentação durante o ano de 1977 a importação de alguns bens de consumo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo
+proposing_entity: null
+official_number: 99-A/77
+official_date: null
+publication_date: '1977-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 49/1977, 1º Suplemento, Série I de 1977-02-28
+  number: '49'
+  series: I
+  supplement: null
+  pages: 318-(9) a 318-(11)
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00090011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '509029'
+  dre_path: /dr/detalhe/portaria/99-a-1977-509029
+  internal: pt:dre:509029:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/99-a-1977-509029
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/99-a-1977-509029
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:32:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 55b209ab5e28f327759445e6ba346ee0d9deadf2fc2280673a0ffc1c39445ccb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:32:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- BENS de Consumo
+- Definição de Competências
+- Direcção Geral do Comércio Externo
+- Importação
+- Ministro das Finanças
+- Ministro do Comércio e Turismo
+- Ministro do Plano e Coordenação Económica
+relationships:
+- type: amended_by
+  target: pt:dre:240989:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:240989:por
+  label: Alterado o n.º 4 do presente diploma, pelo(a) Portaria n.º 365-A/77 - Diário da República n.º 139/1977, 1º Suplemento,
+    Série I de 1977-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/365-a-1977-240989
+  date: '1977-06-18'
+- type: cites
+  target: pt:dre:201864:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:32:15Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 99-A/77
+
+de 28 de Fevereiro
+
+A grave situação da balança de pagamentos do País originou a criação de mecanismos para conter as importações a níveis suportáveis, face às disponibilidades existentes de pagamentos sobre exterior. Em consequência, foi aumentada, em 9 de Outubro 1976, a incidência das taxas já em vigor e sujeita ao regime de depósito prévio a importação de um certo número de mercadorias consideradas menos essenciais. Na mesma data, pelo [Decreto-Lei n.º 720-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/720-a-1976-201864), foram autorizados os Ministérios do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo a fixar, por portaria conjunta, os produtos cuja importação possa ficar sujeita a contingentação, bem como o respectivo regime.
+
+O agravamento da balança comercial impõe a adopção de medidas para restringir as importações, mais drásticas do que as presentemente em vigor, sempre prejuízo da manutenção destas em todos os casos em que se tenham revelado eficazes. Considera-se, portanto, indispensável recorrer à faculdade aberta pelo citado diploma, criando um regime de quotas de importação para alguns bens de consumo, em relação aos quais as compras ao estrangeiro se mantêm em níveis superiores aos que a presente situação financeira do País permite.
+
+Todavia, ponderou-se devidamente as implicações das medidas tomadas nos planos interno e externo, concluindo-se, face à economia de divisas que será possível realizar, ser esta a solução mais adequada à presente conjuntura. Além do mais, deve ficar bem vincado o carácter temporário das providências agora tomadas, cuja transitoriedade muito depende do relançamento do sector produtivo.
+
+Tendo em conta o exposto, ao abrigo do [Decreto-Lei n.º 720-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/720-a-1976-201864), de 9 de Outubro, determina-se que:
+
+1.º Durante o ano de 1977, a importação dos produtos constantes da lista anexa a este diploma ficará sujeita a contingentação, não podendo exceder os limites indicados na mesma lista para cada produto ou grupo de produtos.
+
+2.º Compete à Direcção-Geral do Comércio Externo, ou às entidades que por delegação de competências exerçam as funções de licenciamento, proceder à distribuição dos contingentes pelos importadores, através de propostas a aprovar por despacho conjunto dos Ministros do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo.
+
+3.º O critério a tomar como base de distribuição é, salvo razões imperiosas de abastecimento público, o das importações efectuadas por cada importador na média dos anos de 1975 e 1976, devendo estes fazer prova do nível das importações alcançado naquele período, perante os departamentos referidos no n.º 2.º, através de apresentação das certidões dos respectivos despachos aduaneiros, mantendo-se, porém, a liberdade de escolha dos mercados de origem dos produtos.
+
+4.º Para além dos contingentes fixados na lista anexa, serão autorizadas importações de valor igual aos de valor nacional, adicionado das exportações de artigos pautais:
+
+73.36.
+
+84.15.02.
+
+84.17.01.
+
+84.19.01.
+
+84.40.03.
+
+84.41.01.
+
+85.07.
+
+85.12.01.
+
+85.12.03.
+
+85.12.06.
+
+85.15.01.
+
+85.15.02.
+
+87.01.
+
+87.14.
+
+92.11.02.
+
+92.12.01.
+
+5.º As dúvidas suscitadas por esta portaria serão decididas por despacho conjunto dos Ministros do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo.
+
+Ministérios do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo, 28 de Fevereiro de 1977. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro do Comércio e Turismo, António Miguel Morais Barreto.
+
+LISTA ANEXA
+
+... Contingentes até 31 de Dezembro de 1977 - Valor em milhares de escudos
+
+8.01.00:
+
+(10) Bananas ... 200000
+
+9.01:
+
+Café, mesmo torrado ou descafeinado; cascas e películas de café; sucedâneos do café, mas que contenham café com qualquer proporção ... 800000
+
+21.02:
+
+Extractos ou essências de café, chá e mate; preparados que tenham por base estes extractos ou essências ... 10000
+
+21.05:
+
+Preparados para a obtenção de caldos ou sopas; caldos ou sopas, preparados alimentares compostos homogeneizados ... 30000
+
+39.07.03, 04 e 05:
+
+Idem, tapetes de casa esponjosos, idem, idem, n.º 2, idem, obras não especificadas, mesmo com dizeres ... 100000
+
+48.11:
+
+Papel para forrar casas, linorusta e papel para vitrais ... 30000
+
+59.10:
+
+Linóleos para qualquer uso, em peça ou cortados; tapetes de casa e outros artefactos para usos similares de matérias têxteis com revestimentos em peça ou cortados ... 30000
+
+73.36:
+
+Caloríferos, fogões de sala e de cozinha (compreendendo os que possam ser utilizados acessoriamente no aquecimento central), fogareiros, caldeiras com fornalha e aparelhos semelhantes para aquecimento, do tipo dos de uso doméstico, não eléctricos, bem como as respectivas partes e peças separadas de ferro fundido, ferro macio ou aço ... 40000
+
+84.15.02:
+
+Material, máquinas e aparelhos para produção de frio, mesmo equipados electricamente; armários e outros móveis importados com o respectivo aparelho produtor de frio pesando até 200 kg cada um ... 300000
+
+84.17.01:
+
+Aquecedores de água de circulação ou de acumulação ... 40000
+
+84.19.01:
+
+Aparelhos para lavar e secar louça ... 60000
+
+84.40.03:
+
+Máquinas de lavar roupa domésticas ... 250000
+
+84.41.01:
+
+Máquinas de costura para uso doméstico ... 45000
+
+85.03.01:
+
+Pilhas eléctricas secas ... 30000
+
+85.06:
+
+Aparelhos domésticos com motor incorporado ... 200000
+
+85.12.01:
+
+Aquecedores eléctricos de água, compreendendo os de imersão; aparelhos eléctricos para aquecimento das casas e usos semelhantes; aparelhos electrotérmicos para cabeleireiros (tais como secadores, frisadores e aquecedores de ferro de frisar); ferros eléctricos de engomar; aparelhos electrotérmicos para uso doméstico; resistências para aquecimento, com excepção das incluídas no n.º 85.24: aquecedores de água e aparelhos para aquecimento de casas ... 30000
+
+85.12.03:
+
+Idem, fogareiros, fogões, fornos e aparelhos similares de cozinha para uso doméstico ... 40000
+
+85.12.06:
+
+Idem, aparelhos não especificados ... 40000
+
+85.15.01:
+
+Aparelhos receptores para radiodifusão ... 120000
+
+85.15.02:
+
+Aparelhos receptores para televisão ... 120000
+
+87.14:
+
+Outros veículos não automóveis, incluindo os reboques; respectivas partes e peças separadas ... 30000
+
+92.11.02:
+
+Gramofones, máquinas de ditar e outros aparelhos de gravação e de reprodução de som, compreendendo os gira-discos e dispositivos semelhantes, com ou sem leitor de som: aparelhos utilizados em televisão para registo e reprodução de imagens e de som, por processo magnético; artefactos não especificados ... 50000
+
+92.12.01:
+
+Suportes de som preparados para gravação, fios, fitas e tiras ... 40000
+
+93.04 e 05:
+
+Armas de fogo não mencionadas nos n.os 93.02 e 93.03, compreendendo os engenhos semelhantes que utilizem a deflagração de pólvora, tais como pistolas, lança-foguetes, pistolas e revólveres para tiro sem bala, canhões contra o granizo e canhões lança-amarras, outras armas, compreendendo as espingardas, carabinas e pistolas, de mola, ar comprimido ou gás ... 50000
+
+97.01 e 02:
+
+Veículos de rodas para recreio de crianças, tais como velocípedes, trottinettes, carolos mecânicos, automóveis de metal, carros para bonecos e semelhantes, bonecas de qualquer espécie ... 20000
+
+97.03:
+
+Outros brinquedos; modelos reduzidos para recreio ... 90000
+
+97.94 e 05:
+
+Jogos, compreendendo os jogos mecânicos para recintos públicos, o ténis de mesa, os bilhares e as mesas especiais para jogos de casino, artigos para divertimentos e festas, marcas de cotilhão e surpresas; objectos para enfeitar árvores de Natal e artefactos semelhantes para festas de Natal (tais como árvores de Natal artificiais, presépios, guarnecidos ou não, figuras e animais para presépios) ... 10000
+
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro do Comércio e Turismo, António Miguel Morais Barreto.

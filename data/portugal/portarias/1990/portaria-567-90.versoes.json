@@ -1,0 +1,718 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:572899:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-201089644",
+ "dre_path": "/dr/detalhe/portaria/567-1990-572899",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-07-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "201089133",
+    "201089079",
+    "201089080",
+    "201089081",
+    "201089082",
+    "201089083",
+    "201089084",
+    "201089085",
+    "201089086",
+    "201089087",
+    "201089088",
+    "201089089",
+    "201089090",
+    "201089091",
+    "201089092",
+    "201089093",
+    "201089094",
+    "201089095",
+    "201089096",
+    "201089097",
+    "201089098",
+    "201089099",
+    "201089100",
+    "201089101",
+    "201089102"
+   ]
+  },
+  {
+   "date": "1998-04-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:209004:por",
+     "title": "Portaria n.º 219/98",
+     "published": "1998-04-03",
+     "dre_path": "/dr/detalhe/portaria/219-1998-209004"
+    }
+   ],
+   "changes": [
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "201089078",
+    "201089079",
+    "201089080",
+    "201089081",
+    "201089082",
+    "201089083",
+    "201089084",
+    "201089085",
+    "201089086",
+    "201089087",
+    "201089088",
+    "201089089",
+    "201089090",
+    "201089091",
+    "201089092",
+    "201089093",
+    "201089094",
+    "201089095",
+    "201089096",
+    "201089097",
+    "201089098",
+    "201089099",
+    "201089100",
+    "201089101",
+    "201089128"
+   ]
+  },
+  {
+   "date": "2001-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:337580:por",
+     "title": "Portaria n.º 27/2001",
+     "published": "2001-01-15",
+     "dre_path": "/dr/detalhe/portaria/27-2001-337580"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 8.º",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "201089078",
+    "201089079",
+    "201089080",
+    "201089081",
+    "201089082",
+    "201089083",
+    "201089084",
+    "201089085",
+    "201089086",
+    "201089087",
+    "201089088",
+    "201089089",
+    "201089129",
+    "201089091",
+    "201089092",
+    "201089093",
+    "201089094",
+    "201089095",
+    "201089096",
+    "201089097",
+    "201089098",
+    "201089099",
+    "201089100",
+    "201089101",
+    "201089130"
+   ]
+  },
+  {
+   "date": "2007-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:519400:por",
+     "title": "Portaria n.º 483/2007",
+     "published": "2007-04-19",
+     "dre_path": "/dr/detalhe/portaria/483-2007-519400"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "201089078",
+    "201089079",
+    "201089080",
+    "201089081",
+    "201089082",
+    "201089083",
+    "201089084",
+    "201089085",
+    "201089086",
+    "201089087",
+    "201089131",
+    "201089089",
+    "201089129",
+    "201089091",
+    "201089092",
+    "201089093",
+    "201089094",
+    "201089095",
+    "201089096",
+    "201089097",
+    "201089098",
+    "201089099",
+    "201089100",
+    "201089132",
+    "201089130"
+   ]
+  },
+  {
+   "date": "2022-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201089600:por",
+     "title": "Portaria n.º 238/2022",
+     "published": "2022-09-15",
+     "dre_path": "/dr/detalhe/portaria/238-2022-201089600"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "201089133",
+    "201089134",
+    "201089135",
+    "201089136",
+    "201089137",
+    "201089138",
+    "201089139",
+    "201089140",
+    "201089141",
+    "201089142",
+    "201089143",
+    "201089144",
+    "201089145",
+    "201089146",
+    "201089147",
+    "201089148",
+    "201089149",
+    "201089150",
+    "201089151",
+    "201089152",
+    "201089153",
+    "201089154",
+    "201089155",
+    "201089156",
+    "201089157"
+   ]
+  }
+ ],
+ "fragments": {
+  "201089133": {
+   "fragment_id": "201089645",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-09-20",
+   "changed_by": [],
+   "markdown": "Portaria n.º 567/90\n\nde 19 de Julho\n\nO Decreto Regulamentar n.º 43/87, de 17 de Julho, estabeleceu, entre outras normas reguladoras da actividade da pesca, a estrutura básica do seu exercício em águas interiores não oceânicas.\n\nAlgumas massas de água deste tipo constituem, porém, relevantes espaços sócio-económicos, onde a actividade da pesca se reveste de particularidades que aconselham a sua regulamentação autónoma, embora enquadrada na estrutura básica acima referida, de forma a assegurar a correcta gestão e conservação dos recursos ocorrentes em tão sensíveis ecossistemas.\n\nNa referida regulamentação são, pois, acolhidas as especificidades que caracterizam localmente a actividade, nomeadamente no que toca a métodos e artes de pesca, tendo, quanto a estas, sido utilizada a terminologia em uso na zona.\n\nAssim, ao abrigo do artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º É aprovado o Regulamento da Pesca na Lagoa de Óbidos, que, com os seus anexos, faz parte integrante da presente portaria.\n\n2.º O Regulamento da Pesca na Lagoa de Óbidos entra em vigor 60 dias após a publicação da presente portaria.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 3 de Julho de 1990.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.\n\nRegulamento da Pesca na Lagoa de Óbidos"
+  },
+  "201089079": {
+   "fragment_id": "201089646",
+   "type": 1,
+   "heading": "Capítulo I — Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Generalidades"
+  },
+  "201089080": {
+   "fragment_id": "201089647",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento tem por objecto estabelecer normas complementares reguladoras do exercício da pesca na lagoa de Óbidos, ao abrigo do disposto no artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro."
+  },
+  "201089081": {
+   "fragment_id": "201089648",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de aplicação\n\nA zona de aplicação do presente Regulamento, abreviadamente designada por zona, compreende as águas interiores não oceânicas da lagoa de Óbidos, bem como os respectivos leitos e margens pertencentes ao domínio público hídrico, sob jurisdição da Capitania do Porto de Peniche."
+  },
+  "201089082": {
+   "fragment_id": "201089649",
+   "type": 11,
+   "heading": "Artigo 3.º — Classificação da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Classificação da pesca\n\nA pesca que pode ser exercida na zona classifica-se em:\n\na) Pesca comercial, quando as espécies capturadas se destinem a ser objecto de comércio sob qualquer forma, quer no estado em que são extraídas da água, quer após subsequente preparação, modificação ou transformação;\n\nb) Pesca desportiva, quando praticada apenas com fins lúdicos ou de desporto, não podendo o produto da pesca ser comercializado directa ou indirectamente."
+  },
+  "201089083": {
+   "fragment_id": "201089650",
+   "type": 1,
+   "heading": "Capítulo II — Pesca comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Pesca comercial"
+  },
+  "201089084": {
+   "fragment_id": "201089651",
+   "type": 8,
+   "heading": "Secção I — Artes de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Artes de pesca"
+  },
+  "201089085": {
+   "fragment_id": "201089652",
+   "type": 11,
+   "heading": "Artigo 4.º — Artes de pesca autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Artes de pesca autorizadas\n\n1 - A pesca comercial na zona só pode ser exercida por meio de artes que estejam autorizadas e sejam licenciadas nos termos dos artigos 74.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n2 - Ao abrigo do disposto no n.º 4 do artigo 53.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, a pesca na zona só pode ser exercida com a utilização das seguintes artes:\n\na) Redes de tresmalho fundeadas:\n\nTresmalho;\n\nb) Galricho (para a captura de enguia);\n\nc) Amostra, corrico ou corripo;\n\nd) Cana de pesca e linha de mão;\n\ne) Cinchorro (para a captura de enguia e tainha).\n\n3 - A descrição e características das artes referidas no n.º 2 constam do anexo I."
+  },
+  "201089086": {
+   "fragment_id": "201089653",
+   "type": 8,
+   "heading": "Secção II — Exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Exercício da pesca"
+  },
+  "201089087": {
+   "fragment_id": "201089654",
+   "type": 11,
+   "heading": "Artigo 5.º — Quem pode exercer a pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Quem pode exercer a pesca\n\nA pesca comercial na zona, exercida com ou sem auxílio de embarcações, só é permitida a inscritos marítimos."
+  },
+  "201089088": {
+   "fragment_id": "201089655",
+   "type": 11,
+   "heading": "Artigo 6.º — Condicionamentos ao exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condicionamentos ao exercício da pesca\n\n1 - O exercício da pesca na zona está sujeito aos seguintes condicionamentos:\n\na) Não é permitido utilizar ou ter a bordo artes que não sejam autorizadas pelo presente Regulamento e não tenham sido licenciadas;\n\nb) Não é permitido deter, transportar, depositar ou abandonar nas margens da zona artes de pesca que não estejam autorizadas e licenciadas;\n\nc) Nenhuma arte pode ser calada de forma a prejudicar outra que já o esteja;\n\nd) Nenhuma arte pode ter qualquer dos seus extremos fixado a terra firme;\n\ne) Não se podem utilizar fontes luminosas (candeio) para chamariz de peixe;\n\nf) As redes de tresmalho não podem permanecer caladas por mais de 24 horas consecutivas em cada período de 36 horas;\n\ng) De acordo com a legislação comunitária, é proibida a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos susceptíveis de causar a morte ou o atordoamento dos espécimes;\n\nh) Cada pescador não pode utilizar mais de 150 galrichos;\n\ni) Não é permitido o uso de chinchorro no período de 1 de Junho a 31 de Agosto;\n\nj) A partir de terra firme só podem ser utilizadas as artes designadas por cana de pesca, linha de mão e chinchorro;\n\nl) Não é permitido bater nas águas («batuque»), «valar águas», «socar», lançar pedras, percutir ou usar sistemas semelhantes.\n\n2 - O exercício da pesca na zona está também sujeito, por razões de segurança, aos seguintes condicionamentos:\n\na) As redes de tresmalho não podem ser caladas em canais ou canaletas;\n\nb) É proibida a pesca com redes para o oeste do enfiamento Cais da Atracação-Poça do Calisto, desde que a lagoa se encontre em ligação com o mar;\n\nc) O chinchorro só pode ser alado de terra firme;\n\nd) Em zonas balneares, durante a respectiva época, não é permitido pescar a menos de 300 m da linha da praia."
+  },
+  "201089089": {
+   "fragment_id": "201089656",
+   "type": 11,
+   "heading": "Artigo 7.º — Períodos de defeso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Períodos de defeso\n\n1 - Os períodos de defeso de cada uma das espécies são fixados anualmente por despacho do Ministro da Agricultura, Pescas e Alimentação, mediante proposta da Direcção-Geral das Pescas (DGP), sob parecer do Instituto Nacional de Investigação das Pescas (INIP) e ouvida a Capitania do Porto de Peniche.\n\n2 - Dentro das épocas hábeis de pesca pode, por despacho do Ministro da Agricultura, Pescas e Alimentação, ser restringida a utilização de determinadas artes, tendo em conta a necessidade de conservação e gestão dos recursos ocorrentes."
+  },
+  "201089090": {
+   "fragment_id": "201089657",
+   "type": 11,
+   "heading": "Artigo 8.º — Tamanhos mínimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tamanhos mínimos\n\nOs exemplares capturados cujo tamanho seja inferior às dimensões mínimas fixadas no anexo II ao presente Regulamento ou nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho, devem ser imediatamente devolvidos à água, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos ou transaccionados."
+  },
+  "201089091": {
+   "fragment_id": "201089658",
+   "type": 11,
+   "heading": "Artigo 9.º — Dados e informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dados e informações\n\nOs mestres e arrais das embarcações que exerçam a actividade na zona são obrigados a fornecer os dados e informações determinados pela legislação em vigor e a dar cumprimento ao preenchimento dos registos da actividade que a referida legislação imponha."
+  },
+  "201089092": {
+   "fragment_id": "201089659",
+   "type": 8,
+   "heading": "Secção III — Sinalização e identificação das artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Sinalização e identificação das artes"
+  },
+  "201089093": {
+   "fragment_id": "201089660",
+   "type": 11,
+   "heading": "Artigo 10.º — Sinalização das artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sinalização das artes\n\nAs artes fundeadas devem ser sinalizadas nos termos do disposto no Decreto Regulamentar n.º 43/87, de 17 de Julho."
+  },
+  "201089094": {
+   "fragment_id": "201089661",
+   "type": 11,
+   "heading": "Artigo 11.º — Identificação das artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Identificação das artes\n\nPara fins de identificação, as artes de pesca de uma embarcação devem ser marcadas, nomeadamente nas bóias de sinalização, com o conjunto de identificação da embarcação a que pertencem ou com o número de registo do inscrito marítimo seu proprietário até à data da entrada em vigor do presente Regulamento."
+  },
+  "201089095": {
+   "fragment_id": "201089662",
+   "type": 1,
+   "heading": "Capítulo III — Pesca desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pesca desportiva"
+  },
+  "201089096": {
+   "fragment_id": "201089663",
+   "type": 11,
+   "heading": "Artigo 12.º — Exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Exercício da pesca\n\n1 - A pesca desportiva na zona apenas pode ser exercida a partir de terra firme ou de embarcações de recreio e na modalidade referida na alínea a) do artigo 1.º do Decreto n.º 45116, de 6 de Julho de 1963 (pesca de superfície), com cana de pesca ou linha de mão, não podendo cada desportista utilizar mais de duas canas ou linhas.\n\n2 - Do pôr ao nascer do Sol a pesca desportiva não pode exercer-se de bordo de embarcações.\n\n3 - A pesca desportiva deverá obedecer às disposições do presente Regulamento que lhe sejam aplicáveis, nomeadamente quanto ao número e abertura dos anzóis (anexo I) e aos tamanhos mínimos das espécies capturadas (anexo II).\n\n4 - A Capitania do Porto poderá autorizar concursos de pesca desportiva na zona, desde que verificadas as necessárias condições de segurança, salubridade e protecção dos recursos vivos."
+  },
+  "201089097": {
+   "fragment_id": "201089664",
+   "type": 11,
+   "heading": "Artigo 13.º — Caça submarina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Caça submarina\n\nNa zona de aplicação do presente Regulamento não é permitido praticar a modalidade de pesca desportiva referida na alínea b) do artigo 1.º do Decreto n.º 45116, de 6 de Julho de 1963 (caça submarina)."
+  },
+  "201089098": {
+   "fragment_id": "201089665",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "201089099": {
+   "fragment_id": "201089666",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime contra-ordenacional\n\nÀs infracções ao disposto no presente Regulamento são aplicáveis as disposições pertinentes das secções I e III do capítulo V do Decreto-Lei n.º 278/87, de 7 de Julho, com as derrogações introduzidas pelo artigo 33.º do Decreto-Lei n.º 421/88, de 12 de Novembro, bem como as contra-ordenações previstas no artigo 82.º do Decreto Regulamentar n.º 43/87, de 17 de Julho."
+  },
+  "201089100": {
+   "fragment_id": "201089667",
+   "type": 11,
+   "heading": "Artigo 15.º — Outra legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Outra legislação aplicável\n\nSem prejuízo do disposto no presente Regulamento, o exercício da pesca na zona está sujeito às disposições legais aplicáveis do Decreto-Lei n.º 278/87, de 7 de Julho, e do Decreto Regulamentar n.º 43/87, de 17 de Julho, e, no que respeita à pesca desportiva, às do Decreto n.º 45116, de 6 de Julho de 1963."
+  },
+  "201089101": {
+   "fragment_id": "201089668",
+   "type": 14,
+   "heading": "Anexo I — Descrição e características das artes autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Descrição e características das artes autorizadas\n\n(a que se refere o n.º 3 do artigo 4.º)\n\n1 - Amostra, corrico ou corripo\n\nDescrição: aparelho de anzol com amostra, que actua à superfície ou abaixo desta, podendo ou não ser rebocado por uma embarcação.\n\nCaracterística:\n\nAbertura mínima dos anzóis - 8 mm.\n\n2 - Cana de pesca e linha de mão\n\nCaracterísticas:\n\nNúmero máximo de anzóis - 3;\n\nAbertura mínima dos anzóis - 8 mm.\n\n3 - Chinchorro\n\nDescrição: rede envolvente, lançada de bordo e alada para terra, constituída por um saco que se continua por duas asas terminadas pelos calões, onde amarram os cabos de alar.\n\nCaracterísticas:\n\nComprimento máximo de cada asa - 25 m;\n\nComprimento máximo do saco - 5 m;\n\nMalhagem mínima das asas - 60 mm;\n\nMalhagem mínima do saco - 20 mm.\n\n4 - Galricho\n\nDescrição: armadilha constituída por um saco de rede, distendido a intervalos regulares por aros, e calada por duas varas que se prendem aos extremos; interiormente tem bocas ou endiches mantidos em posição por pequenos cabos ligados ao interior do saco.\n\nCaracterísticas:\n\nComprimento da armadilha - 70 cm;\n\nMalhagem mínima da rede - 20 mm.\n\n5 - Tresmalho\n\nDescrição: rede de emalhar de três panos (tresmalho) fundeada.\n\nCaracterísticas:\n\nComprimento máximo da rede - 100 m;\n\nAltura máxima da rede - 1,5 m;\n\nMalhagem mínima do pano central (miúdo) - 100 mm."
+  },
+  "201089102": {
+   "fragment_id": "201089669",
+   "type": 14,
+   "heading": "Anexo II — Tamanhos mínimos das espécies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Tamanhos mínimos das espécies\n\n(a que se refere o artigo 8.º)\n\nAmêijoa, amêijoa-boa ou amêijoa-cristã (Ruditapes decussata) - 3 cm (ver nota b).\n\nAmêijoa-de-cão ou amêijoa-bicuda (Venerupis aurea) - 2,5 cm (ver nota b).\n\nAmêijoa-macha ou amêijoa-judia (Venerupis corrugata) - 2,5 cm (ver nota b).\n\nAmêijoa-branca ou cadelinha (Spisula solida) - 2,5 cm (ver nota a).\n\nBergigão (Cerastoderma edule) - 2,5 cm (ver nota a).\n\nConquilha (Donax trunculus ou Donax spp.) - 2 cm (ver nota a).\n\nDourada (Sparus aurata) - 19 cm (ver nota a).\n\nEnguia (Anguilla anguilla) - 22 cm (ver nota b).\n\nLinguado (Solea vulgaris) - 24 cm (ver nota a).\n\nLambuginha (Scrobicularia plana) - 25 cm (ver nota b).\n\nLongueirão (Ensis siliqua) - 10 cm (ver nota a).\n\nMexilhão (Mytilus edulis) - 5 cm (ver nota b).\n\nPé-de-burrinho (Chamelea Gallina) - 2,5 cm (ver nota b).\n\nRobalo (Dicentrarchus labrax) - 36 cm (ver nota a).\n\nSafio ou congro (Conger conger) - 58 cm (ver nota a).\n\nSolha (Pleuronectes platessa) - 25 cm (ver nota a).\n\nSolha-das-pedras (Platichtys flesus) - 25 cm (ver nota a).\n\nTainha (Mugilidae) - 20 cm (ver nota a).\n\n(nota a) Tamanho fixado nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n(nota b) Tamanho fixado pelo presente Regulamento."
+  },
+  "201089078": {
+   "fragment_id": "201089645",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto Regulamentar n.º 43/87, de 17 de Julho, estabeleceu, entre outras normas reguladoras da actividade da pesca, a estrutura básica do seu exercício em águas interiores não oceânicas.\n\nAlgumas massas de água deste tipo constituem, porém, relevantes espaços sócio-económicos, onde a actividade da pesca se reveste de particularidades que aconselham a sua regulamentação autónoma, embora enquadrada na estrutura básica acima referida, de forma a assegurar a correcta gestão e conservação dos recursos ocorrentes em tão sensíveis ecossistemas.\n\nNa referida regulamentação são, pois, acolhidas as especificidades que caracterizam localmente a actividade, nomeadamente no que toca a métodos e artes de pesca, tendo, quanto a estas, sido utilizada a terminologia em uso na zona.\n\nAssim, ao abrigo do artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º É aprovado o Regulamento da Pesca na Lagoa de Óbidos, que, com os seus anexos, faz parte integrante da presente portaria.\n\n2.º O Regulamento da Pesca na Lagoa de Óbidos entra em vigor 60 dias após a publicação da presente portaria.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 3 de Julho de 1990.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.\n\nRegulamento da Pesca na Lagoa de Óbidos"
+  },
+  "201089128": {
+   "fragment_id": "201089669",
+   "type": 14,
+   "heading": "Anexo II — Tamanhos mínimos das espécies",
+   "in_force_from": "1998-04-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 219/98 - Diário da República n.º 79/1998, Série I-B de 1998-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/219-1998-209004), em vigor a partir de 1998-04-08"
+   ],
+   "markdown": "## Anexo II — Tamanhos mínimos das espécies\n\nTamanhos mínimos das espécies\n\n(a que se refere o artigo 8.º)\n\nAmêijoa, amêijoa-boa ou amêijoa-cristã (Ruditapes decussatus) - 4 cm (ver nota b).\n\nAmêijoa-bicuda ou amêijoa-de-cão (Venerupis aurea) - 3,5 cm (ver nota b).\n\nAmêijoa-macha ou amêijoa-judia (Venerupis pullastra) - 3,5 cm (ver nota b).\n\nAmêijoa-branca ou cadelinha (Spisula solida) - 2,5 cm (ver nota a).\n\nBergigão (Cerastoderma edule) - 2,5 cm (ver nota a).\n\nConquilha (Donax trunculus ou Donax spp.) - 2 cm (ver nota a).\n\nDourada (Sparus aurata) - 19 cm (ver nota a).\n\nEnguia (Anguilla anguilla) - 22 cm (ver nota b).\n\nLinguado (Solea vulgaris) - 24 cm (ver nota a).\n\nLambuginha (Scrobicularia plana) - 25 cm (ver nota b).\n\nLongueirão (Ensis siliqua) - 10 cm (ver nota a).\n\nMexilhão (Mytilus edulis) - 5 cm (ver nota b).\n\nPé-de-burrinho (Chamelea Gallina) - 2,5 cm (ver nota b).\n\nRobalo (Dicentrarchus labrax) - 36 cm (ver nota a).\n\nSafio ou congro (Conger conger) - 58 cm (ver nota a).\n\nSolha (Pleuronectes platessa) - 25 cm (ver nota a).\n\nSolha-das-pedras (Platichtys flesus) - 25 cm (ver nota a).\n\nTainha (Mugilidae) - 20 cm (ver nota a).\n\n(nota a) Tamanho fixado nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n(nota b) Tamanho fixado pelo presente Regulamento.\n\n> Alterado pelo/a [Portaria n.º 219/98 - Diário da República n.º 79/1998, Série I-B de 1998-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/219-1998-209004), em vigor a partir de 1998-04-08"
+  },
+  "201089129": {
+   "fragment_id": "201089657",
+   "type": 11,
+   "heading": "Artigo 8.º — Tamanhos mínimos",
+   "in_force_from": "2001-01-20",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20"
+   ],
+   "markdown": "###### Artigo 8.º — Tamanhos mínimos\n\nOs exemplares capturados cujo tamanho seja inferior às dimensões mínimas fixadas no anexo II ao presente Regulamento ou nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho, devem ser imediatamente devolvidos à água, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos ou transaccionados.\n\n> Revogado pelo/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20"
+  },
+  "201089130": {
+   "fragment_id": "201089669",
+   "type": 14,
+   "heading": "Anexo II — Tamanhos mínimos das espécies",
+   "in_force_from": "2001-01-20",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20",
+    "Alterado pelo/a [Portaria n.º 219/98 - Diário da República n.º 79/1998, Série I-B de 1998-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/219-1998-209004), em vigor a partir de 1998-04-08"
+   ],
+   "markdown": "## Anexo II — Tamanhos mínimos das espécies\n\nTamanhos mínimos das espécies\n\n(a que se refere o artigo 8.º)\n\nAmêijoa, amêijoa-boa ou amêijoa-cristã (Ruditapes decussatus) - 4 cm (ver nota b).\n\nAmêijoa-bicuda ou amêijoa-de-cão (Venerupis aurea) - 3,5 cm (ver nota b).\n\nAmêijoa-macha ou amêijoa-judia (Venerupis pullastra) - 3,5 cm (ver nota b).\n\nAmêijoa-branca ou cadelinha (Spisula solida) - 2,5 cm (ver nota a).\n\nBergigão (Cerastoderma edule) - 2,5 cm (ver nota a).\n\nConquilha (Donax trunculus ou Donax spp.) - 2 cm (ver nota a).\n\nDourada (Sparus aurata) - 19 cm (ver nota a).\n\nEnguia (Anguilla anguilla) - 22 cm (ver nota b).\n\nLinguado (Solea vulgaris) - 24 cm (ver nota a).\n\nLambuginha (Scrobicularia plana) - 25 cm (ver nota b).\n\nLongueirão (Ensis siliqua) - 10 cm (ver nota a).\n\nMexilhão (Mytilus edulis) - 5 cm (ver nota b).\n\nPé-de-burrinho (Chamelea Gallina) - 2,5 cm (ver nota b).\n\nRobalo (Dicentrarchus labrax) - 36 cm (ver nota a).\n\nSafio ou congro (Conger conger) - 58 cm (ver nota a).\n\nSolha (Pleuronectes platessa) - 25 cm (ver nota a).\n\nSolha-das-pedras (Platichtys flesus) - 25 cm (ver nota a).\n\nTainha (Mugilidae) - 20 cm (ver nota a).\n\n(nota a) Tamanho fixado nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n(nota b) Tamanho fixado pelo presente Regulamento.\n\n> Revogado pelo/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20\n\n> Alterado pelo/a [Portaria n.º 219/98 - Diário da República n.º 79/1998, Série I-B de 1998-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/219-1998-209004), em vigor a partir de 1998-04-08"
+  },
+  "201089131": {
+   "fragment_id": "201089655",
+   "type": 11,
+   "heading": "Artigo 6.º — Condicionamentos ao exercício da pesca",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 483/2007 - Diário da República n.º 77/2007, Série I de 2007-04-19](https://diariodarepublica.pt/dr/detalhe/portaria/483-2007-519400), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "###### Artigo 6.º — Condicionamentos ao exercício da pesca\n\n1 - O exercício da pesca na zona está sujeito aos seguintes condicionamentos:\n\na) Não é permitido utilizar ou ter a bordo artes que não sejam autorizadas pelo presente Regulamento e não tenham sido licenciadas;\n\nb) Não é permitido deter, transportar, depositar ou abandonar nas margens da zona artes de pesca que não estejam autorizadas e licenciadas;\n\nc) Nenhuma arte pode ser calada de forma a prejudicar outra que já o esteja;\n\nd) Nenhuma arte pode ter qualquer dos seus extremos fixado a terra firme;\n\ne) Não se podem utilizar fontes luminosas (candeio) para chamariz de peixe;\n\nf) As redes de tresmalho não podem permanecer caladas por mais de 24 horas consecutivas em cada período de 36 horas;\n\ng) De acordo com a legislação comunitária, é proibida a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos susceptíveis de causar a morte ou o atordoamento dos espécimes;\n\nh) Cada pescador não pode utilizar mais de 150 galrichos;\n\ni) Não é permitido o uso de chinchorro no período de 1 de Junho a 31 de Agosto;\n\nj) A partir de terra firme só podem ser utilizadas as artes designadas por cana de pesca, linha de mão e chinchorro;\n\nl) Não é permitido bater nas águas («batuque»), «valar águas», «socar», lançar pedras, percutir ou usar sistemas semelhantes.\n\nm) Não é permitido o uso de tresmalho no período de 1 de Abril a 30 de Maio.\n\n2 - O exercício da pesca na zona está também sujeito, por razões de segurança, aos seguintes condicionamentos:\n\na) As redes de tresmalho não podem ser caladas em canais ou canaletas;\n\nb) É proibida a pesca com redes para o oeste do enfiamento Cais da Atracação-Poça do Calisto, desde que a lagoa se encontre em ligação com o mar;\n\nc) Revogada;\n\nd) Em zonas balneares, durante a respectiva época, não é permitido pescar a menos de 300 m da linha da praia.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 483/2007 - Diário da República n.º 77/2007, Série I de 2007-04-19](https://diariodarepublica.pt/dr/detalhe/portaria/483-2007-519400), em vigor a partir de 2007-05-01"
+  },
+  "201089132": {
+   "fragment_id": "201089668",
+   "type": 14,
+   "heading": "Anexo I — Descrição e características das artes autorizadas",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 483/2007 - Diário da República n.º 77/2007, Série I de 2007-04-19](https://diariodarepublica.pt/dr/detalhe/portaria/483-2007-519400), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "## Anexo I — Descrição e características das artes autorizadas\n\n(a que se refere o n.º 3 do artigo 4.º)\n\n1 - Amostra, corrico ou corripo\n\nDescrição: aparelho de anzol com amostra, que actua à superfície ou abaixo desta, podendo ou não ser rebocado por uma embarcação.\n\nCaracterística:\n\nAbertura mínima dos anzóis - 8 mm.\n\n2 - Cana de pesca e linha de mão\n\nCaracterísticas:\n\nNúmero máximo de anzóis - 3;\n\nAbertura mínima dos anzóis - 8 mm.\n\n3 - Chinchorro\n\nDescrição - rede envolvente, lançada de bordo e alada para terra ou operada e alada para bordo da embarcação titular da licença, constituída por um saco que se continua por duas asas terminadas pelos calões, onde amarram os cabos de alar.\n\nCaracterísticas:\n\nComprimento máximo de cada asa - 25 m;\n\nComprimento máximo do saco - 5 m;\n\nMalhagem mínima do saco - 20 mm.\n\n4 - Galricho\n\nDescrição - armadilha desmontável constituída por um saco de rede flexível, dispondo de aros transversais circulares e com dois ou mais endiches, sendo um exterior e os restantes interiores. Pode ser calado individualmente ou em teias.\n\nCaracterísticas:\n\nComprimento da armadilha - 100 cm;\n\nMalhagem mínima da rede - 18 mm;\n\nNúmero máximo de galrichos por teia - 20.\n\n5 - Tresmalho\n\nDescrição - rede de emalhar de três panos (tresmalho) fundeada.\n\nCaracterísticas:\n\nComprimento máximo de cada rede - 50 m;\n\nNúmero máximo de redes por caçada - duas;\n\nNúmero máximo de caçadas - três;\n\nAltura máxima da rede - 1 m;\n\nMalhagem mínima do pano central (miúdo) - 80 mm.\n\n6 - Berbigoeira\n\nDescrição - draga de mão, constituída por uma armação metálica, a que está acoplada uma grelha rígida, com pente de dentes na metade frontal inferior e ligada a uma vara que serve de cabo. Utilizada a pé ou de bordo de embarcação.\n\nCaracterísticas:\n\nComprimento da travessa - 70 cm;\n\nComprimento máximo dos dentes - 12 cm;\n\nEspaçamento mínimo entre dentes - 15 mm;\n\nEspaçamento mínimo das barras da grelha - 13 mm;\n\nComprimento máximo da vara - 6 m.\n\n7 - Nassa\n\nDescrição - armadilha desmontável, constituída por rede flexível, dispondo de aros transversais circulares com dois endiches exteriores. Pode ser calada individualmente ou em teias.\n\nCaracterísticas:\n\nComprimento máximo da nassa - 70 cm;\n\nDiâmetro dos aros - 30 cm;\n\nMalhagem mínima da rede - 20 mm;\n\nNúmero máximo de caçadas - três;\n\nNúmero máximo de armadilhas - 60.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 483/2007 - Diário da República n.º 77/2007, Série I de 2007-04-19](https://diariodarepublica.pt/dr/detalhe/portaria/483-2007-519400), em vigor a partir de 2007-05-01"
+  },
+  "201089134": {
+   "fragment_id": "201089646",
+   "type": 1,
+   "heading": "Capítulo I — Generalidades",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "### Capítulo I — Generalidades\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089135": {
+   "fragment_id": "201089647",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento tem por objecto estabelecer normas complementares reguladoras do exercício da pesca na lagoa de Óbidos, ao abrigo do disposto no artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089136": {
+   "fragment_id": "201089648",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de aplicação",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 2.º — Zona de aplicação\n\nA zona de aplicação do presente Regulamento, abreviadamente designada por zona, compreende as águas interiores não oceânicas da lagoa de Óbidos, bem como os respectivos leitos e margens pertencentes ao domínio público hídrico, sob jurisdição da Capitania do Porto de Peniche.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089137": {
+   "fragment_id": "201089649",
+   "type": 11,
+   "heading": "Artigo 3.º — Classificação da pesca",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 3.º — Classificação da pesca\n\nA pesca que pode ser exercida na zona classifica-se em:\n\na) Pesca comercial, quando as espécies capturadas se destinem a ser objecto de comércio sob qualquer forma, quer no estado em que são extraídas da água, quer após subsequente preparação, modificação ou transformação;\n\nb) Pesca desportiva, quando praticada apenas com fins lúdicos ou de desporto, não podendo o produto da pesca ser comercializado directa ou indirectamente.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089138": {
+   "fragment_id": "201089650",
+   "type": 1,
+   "heading": "Capítulo II — Pesca comercial",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "### Capítulo II — Pesca comercial\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089139": {
+   "fragment_id": "201089651",
+   "type": 8,
+   "heading": "Secção I — Artes de pesca",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "#### Secção I — Artes de pesca\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089140": {
+   "fragment_id": "201089652",
+   "type": 11,
+   "heading": "Artigo 4.º — Artes de pesca autorizadas",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 4.º — Artes de pesca autorizadas\n\n1 - A pesca comercial na zona só pode ser exercida por meio de artes que estejam autorizadas e sejam licenciadas nos termos dos artigos 74.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n2 - Ao abrigo do disposto no n.º 4 do artigo 53.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, a pesca na zona só pode ser exercida com a utilização das seguintes artes:\n\na) Redes de tresmalho fundeadas:\n\nTresmalho;\n\nb) Galricho (para a captura de enguia);\n\nc) Amostra, corrico ou corripo;\n\nd) Cana de pesca e linha de mão;\n\ne) Cinchorro (para a captura de enguia e tainha).\n\n3 - A descrição e características das artes referidas no n.º 2 constam do anexo I.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089141": {
+   "fragment_id": "201089653",
+   "type": 8,
+   "heading": "Secção II — Exercício da pesca",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "#### Secção II — Exercício da pesca\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089142": {
+   "fragment_id": "201089654",
+   "type": 11,
+   "heading": "Artigo 5.º — Quem pode exercer a pesca",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 5.º — Quem pode exercer a pesca\n\nA pesca comercial na zona, exercida com ou sem auxílio de embarcações, só é permitida a inscritos marítimos.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089143": {
+   "fragment_id": "201089655",
+   "type": 11,
+   "heading": "Artigo 6.º — Condicionamentos ao exercício da pesca",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 483/2007 - Diário da República n.º 77/2007, Série I de 2007-04-19](https://diariodarepublica.pt/dr/detalhe/portaria/483-2007-519400), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "###### Artigo 6.º — Condicionamentos ao exercício da pesca\n\n1 - O exercício da pesca na zona está sujeito aos seguintes condicionamentos:\n\na) Não é permitido utilizar ou ter a bordo artes que não sejam autorizadas pelo presente Regulamento e não tenham sido licenciadas;\n\nb) Não é permitido deter, transportar, depositar ou abandonar nas margens da zona artes de pesca que não estejam autorizadas e licenciadas;\n\nc) Nenhuma arte pode ser calada de forma a prejudicar outra que já o esteja;\n\nd) Nenhuma arte pode ter qualquer dos seus extremos fixado a terra firme;\n\ne) Não se podem utilizar fontes luminosas (candeio) para chamariz de peixe;\n\nf) As redes de tresmalho não podem permanecer caladas por mais de 24 horas consecutivas em cada período de 36 horas;\n\ng) De acordo com a legislação comunitária, é proibida a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos susceptíveis de causar a morte ou o atordoamento dos espécimes;\n\nh) Cada pescador não pode utilizar mais de 150 galrichos;\n\ni) Não é permitido o uso de chinchorro no período de 1 de Junho a 31 de Agosto;\n\nj) A partir de terra firme só podem ser utilizadas as artes designadas por cana de pesca, linha de mão e chinchorro;\n\nl) Não é permitido bater nas águas («batuque»), «valar águas», «socar», lançar pedras, percutir ou usar sistemas semelhantes.\n\nm) Não é permitido o uso de tresmalho no período de 1 de Abril a 30 de Maio.\n\n2 - O exercício da pesca na zona está também sujeito, por razões de segurança, aos seguintes condicionamentos:\n\na) As redes de tresmalho não podem ser caladas em canais ou canaletas;\n\nb) É proibida a pesca com redes para o oeste do enfiamento Cais da Atracação-Poça do Calisto, desde que a lagoa se encontre em ligação com o mar;\n\nc) Revogada;\n\nd) Em zonas balneares, durante a respectiva época, não é permitido pescar a menos de 300 m da linha da praia.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 483/2007 - Diário da República n.º 77/2007, Série I de 2007-04-19](https://diariodarepublica.pt/dr/detalhe/portaria/483-2007-519400), em vigor a partir de 2007-05-01"
+  },
+  "201089144": {
+   "fragment_id": "201089656",
+   "type": 11,
+   "heading": "Artigo 7.º — Períodos de defeso",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 7.º — Períodos de defeso\n\n1 - Os períodos de defeso de cada uma das espécies são fixados anualmente por despacho do Ministro da Agricultura, Pescas e Alimentação, mediante proposta da Direcção-Geral das Pescas (DGP), sob parecer do Instituto Nacional de Investigação das Pescas (INIP) e ouvida a Capitania do Porto de Peniche.\n\n2 - Dentro das épocas hábeis de pesca pode, por despacho do Ministro da Agricultura, Pescas e Alimentação, ser restringida a utilização de determinadas artes, tendo em conta a necessidade de conservação e gestão dos recursos ocorrentes.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089145": {
+   "fragment_id": "201089657",
+   "type": 11,
+   "heading": "Artigo 8.º — Tamanhos mínimos",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20",
+    "Revogado pelo/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20"
+   ],
+   "markdown": "###### Artigo 8.º — Tamanhos mínimos\n\nOs exemplares capturados cujo tamanho seja inferior às dimensões mínimas fixadas no anexo II ao presente Regulamento ou nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho, devem ser imediatamente devolvidos à água, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos ou transaccionados.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20\n\n> Revogado pelo/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20"
+  },
+  "201089146": {
+   "fragment_id": "201089658",
+   "type": 11,
+   "heading": "Artigo 9.º — Dados e informações",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 9.º — Dados e informações\n\nOs mestres e arrais das embarcações que exerçam a actividade na zona são obrigados a fornecer os dados e informações determinados pela legislação em vigor e a dar cumprimento ao preenchimento dos registos da actividade que a referida legislação imponha.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089147": {
+   "fragment_id": "201089659",
+   "type": 8,
+   "heading": "Secção III — Sinalização e identificação das artes",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "#### Secção III — Sinalização e identificação das artes\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089148": {
+   "fragment_id": "201089660",
+   "type": 11,
+   "heading": "Artigo 10.º — Sinalização das artes",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 10.º — Sinalização das artes\n\nAs artes fundeadas devem ser sinalizadas nos termos do disposto no Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089149": {
+   "fragment_id": "201089661",
+   "type": 11,
+   "heading": "Artigo 11.º — Identificação das artes",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 11.º — Identificação das artes\n\nPara fins de identificação, as artes de pesca de uma embarcação devem ser marcadas, nomeadamente nas bóias de sinalização, com o conjunto de identificação da embarcação a que pertencem ou com o número de registo do inscrito marítimo seu proprietário até à data da entrada em vigor do presente Regulamento.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089150": {
+   "fragment_id": "201089662",
+   "type": 1,
+   "heading": "Capítulo III — Pesca desportiva",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "### Capítulo III — Pesca desportiva\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089151": {
+   "fragment_id": "201089663",
+   "type": 11,
+   "heading": "Artigo 12.º — Exercício da pesca",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 12.º — Exercício da pesca\n\n1 - A pesca desportiva na zona apenas pode ser exercida a partir de terra firme ou de embarcações de recreio e na modalidade referida na alínea a) do artigo 1.º do Decreto n.º 45116, de 6 de Julho de 1963 (pesca de superfície), com cana de pesca ou linha de mão, não podendo cada desportista utilizar mais de duas canas ou linhas.\n\n2 - Do pôr ao nascer do Sol a pesca desportiva não pode exercer-se de bordo de embarcações.\n\n3 - A pesca desportiva deverá obedecer às disposições do presente Regulamento que lhe sejam aplicáveis, nomeadamente quanto ao número e abertura dos anzóis (anexo I) e aos tamanhos mínimos das espécies capturadas (anexo II).\n\n4 - A Capitania do Porto poderá autorizar concursos de pesca desportiva na zona, desde que verificadas as necessárias condições de segurança, salubridade e protecção dos recursos vivos.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089152": {
+   "fragment_id": "201089664",
+   "type": 11,
+   "heading": "Artigo 13.º — Caça submarina",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 13.º — Caça submarina\n\nNa zona de aplicação do presente Regulamento não é permitido praticar a modalidade de pesca desportiva referida na alínea b) do artigo 1.º do Decreto n.º 45116, de 6 de Julho de 1963 (caça submarina).\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089153": {
+   "fragment_id": "201089665",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089154": {
+   "fragment_id": "201089666",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime contra-ordenacional",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 14.º — Regime contra-ordenacional\n\nÀs infracções ao disposto no presente Regulamento são aplicáveis as disposições pertinentes das secções I e III do capítulo V do Decreto-Lei n.º 278/87, de 7 de Julho, com as derrogações introduzidas pelo artigo 33.º do Decreto-Lei n.º 421/88, de 12 de Novembro, bem como as contra-ordenações previstas no artigo 82.º do Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089155": {
+   "fragment_id": "201089667",
+   "type": 11,
+   "heading": "Artigo 15.º — Outra legislação aplicável",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+   ],
+   "markdown": "###### Artigo 15.º — Outra legislação aplicável\n\nSem prejuízo do disposto no presente Regulamento, o exercício da pesca na zona está sujeito às disposições legais aplicáveis do Decreto-Lei n.º 278/87, de 7 de Julho, e do Decreto Regulamentar n.º 43/87, de 17 de Julho, e, no que respeita à pesca desportiva, às do Decreto n.º 45116, de 6 de Julho de 1963.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20"
+  },
+  "201089156": {
+   "fragment_id": "201089668",
+   "type": 14,
+   "heading": "Anexo I — Descrição e características das artes autorizadas",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 483/2007 - Diário da República n.º 77/2007, Série I de 2007-04-19](https://diariodarepublica.pt/dr/detalhe/portaria/483-2007-519400), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "## Anexo I — Descrição e características das artes autorizadas\n\n(a que se refere o n.º 3 do artigo 4.º)\n\n1 - Amostra, corrico ou corripo\n\nDescrição: aparelho de anzol com amostra, que actua à superfície ou abaixo desta, podendo ou não ser rebocado por uma embarcação.\n\nCaracterística:\n\nAbertura mínima dos anzóis - 8 mm.\n\n2 - Cana de pesca e linha de mão\n\nCaracterísticas:\n\nNúmero máximo de anzóis - 3;\n\nAbertura mínima dos anzóis - 8 mm.\n\n3 - Chinchorro\n\nDescrição - rede envolvente, lançada de bordo e alada para terra ou operada e alada para bordo da embarcação titular da licença, constituída por um saco que se continua por duas asas terminadas pelos calões, onde amarram os cabos de alar.\n\nCaracterísticas:\n\nComprimento máximo de cada asa - 25 m;\n\nComprimento máximo do saco - 5 m;\n\nMalhagem mínima do saco - 20 mm.\n\n4 - Galricho\n\nDescrição - armadilha desmontável constituída por um saco de rede flexível, dispondo de aros transversais circulares e com dois ou mais endiches, sendo um exterior e os restantes interiores. Pode ser calado individualmente ou em teias.\n\nCaracterísticas:\n\nComprimento da armadilha - 100 cm;\n\nMalhagem mínima da rede - 18 mm;\n\nNúmero máximo de galrichos por teia - 20.\n\n5 - Tresmalho\n\nDescrição - rede de emalhar de três panos (tresmalho) fundeada.\n\nCaracterísticas:\n\nComprimento máximo de cada rede - 50 m;\n\nNúmero máximo de redes por caçada - duas;\n\nNúmero máximo de caçadas - três;\n\nAltura máxima da rede - 1 m;\n\nMalhagem mínima do pano central (miúdo) - 80 mm.\n\n6 - Berbigoeira\n\nDescrição - draga de mão, constituída por uma armação metálica, a que está acoplada uma grelha rígida, com pente de dentes na metade frontal inferior e ligada a uma vara que serve de cabo. Utilizada a pé ou de bordo de embarcação.\n\nCaracterísticas:\n\nComprimento da travessa - 70 cm;\n\nComprimento máximo dos dentes - 12 cm;\n\nEspaçamento mínimo entre dentes - 15 mm;\n\nEspaçamento mínimo das barras da grelha - 13 mm;\n\nComprimento máximo da vara - 6 m.\n\n7 - Nassa\n\nDescrição - armadilha desmontável, constituída por rede flexível, dispondo de aros transversais circulares com dois endiches exteriores. Pode ser calada individualmente ou em teias.\n\nCaracterísticas:\n\nComprimento máximo da nassa - 70 cm;\n\nDiâmetro dos aros - 30 cm;\n\nMalhagem mínima da rede - 20 mm;\n\nNúmero máximo de caçadas - três;\n\nNúmero máximo de armadilhas - 60.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 483/2007 - Diário da República n.º 77/2007, Série I de 2007-04-19](https://diariodarepublica.pt/dr/detalhe/portaria/483-2007-519400), em vigor a partir de 2007-05-01"
+  },
+  "201089157": {
+   "fragment_id": "201089669",
+   "type": 14,
+   "heading": "Anexo II — Tamanhos mínimos das espécies",
+   "in_force_from": "2022-09-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20",
+    "Revogado pelo/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20",
+    "Alterado pelo/a [Portaria n.º 219/98 - Diário da República n.º 79/1998, Série I-B de 1998-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/219-1998-209004), em vigor a partir de 1998-04-08"
+   ],
+   "markdown": "## Anexo II — Tamanhos mínimos das espécies\n\nTamanhos mínimos das espécies\n\n(a que se refere o artigo 8.º)\n\nAmêijoa, amêijoa-boa ou amêijoa-cristã (Ruditapes decussatus) - 4 cm (ver nota b).\n\nAmêijoa-bicuda ou amêijoa-de-cão (Venerupis aurea) - 3,5 cm (ver nota b).\n\nAmêijoa-macha ou amêijoa-judia (Venerupis pullastra) - 3,5 cm (ver nota b).\n\nAmêijoa-branca ou cadelinha (Spisula solida) - 2,5 cm (ver nota a).\n\nBergigão (Cerastoderma edule) - 2,5 cm (ver nota a).\n\nConquilha (Donax trunculus ou Donax spp.) - 2 cm (ver nota a).\n\nDourada (Sparus aurata) - 19 cm (ver nota a).\n\nEnguia (Anguilla anguilla) - 22 cm (ver nota b).\n\nLinguado (Solea vulgaris) - 24 cm (ver nota a).\n\nLambuginha (Scrobicularia plana) - 25 cm (ver nota b).\n\nLongueirão (Ensis siliqua) - 10 cm (ver nota a).\n\nMexilhão (Mytilus edulis) - 5 cm (ver nota b).\n\nPé-de-burrinho (Chamelea Gallina) - 2,5 cm (ver nota b).\n\nRobalo (Dicentrarchus labrax) - 36 cm (ver nota a).\n\nSafio ou congro (Conger conger) - 58 cm (ver nota a).\n\nSolha (Pleuronectes platessa) - 25 cm (ver nota a).\n\nSolha-das-pedras (Platichtys flesus) - 25 cm (ver nota a).\n\nTainha (Mugilidae) - 20 cm (ver nota a).\n\n(nota a) Tamanho fixado nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n(nota b) Tamanho fixado pelo presente Regulamento.\n\n> Revogado pelo/a Artigo 13.º do/a [Portaria n.º 238/2022 - Diário da República n.º 179/2022, Série I de 2022-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/238-2022-201089600), em vigor a partir de 2022-09-20\n\n> Revogado pelo/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20\n\n> Alterado pelo/a [Portaria n.º 219/98 - Diário da República n.º 79/1998, Série I-B de 1998-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/219-1998-209004), em vigor a partir de 1998-04-08"
+  }
+ }
+}

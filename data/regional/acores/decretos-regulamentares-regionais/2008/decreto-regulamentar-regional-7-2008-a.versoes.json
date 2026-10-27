@@ -1,0 +1,470 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:249514:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2008-222938888",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/7-2008-249514",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "222881815",
+    "222881816",
+    "222881817",
+    "222881818",
+    "222881819",
+    "222881820",
+    "222881821",
+    "222881822",
+    "222881823",
+    "222881824",
+    "222881825",
+    "222881826",
+    "222881827",
+    "222881828",
+    "222881829",
+    "222881830",
+    "222881831",
+    "222881832",
+    "222881833",
+    "222881834",
+    "222881835",
+    "222881836",
+    "222881837",
+    "222881838",
+    "222881839",
+    "222881840",
+    "222881841",
+    "222881842",
+    "222881843",
+    "222881844"
+   ]
+  },
+  {
+   "date": "2014-07-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:55020994:por",
+     "title": "Decreto Regulamentar Regional n.º 10/2014/A",
+     "published": "2014-07-15",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/10-2014-55020994"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "222881815",
+    "222881816",
+    "222881817",
+    "222881818",
+    "222881819",
+    "222881820",
+    "222943282",
+    "222943283",
+    "222881823",
+    "222881824",
+    "222881825",
+    "222881826",
+    "222881827",
+    "222881828",
+    "222881829",
+    "222881830",
+    "222881831",
+    "222881832",
+    "222881833",
+    "222881834",
+    "222881835",
+    "222881836",
+    "222881837",
+    "222881838",
+    "222881839",
+    "222881840",
+    "222881841",
+    "222881842",
+    "222881843",
+    "222881844",
+    "222881845"
+   ]
+  },
+  {
+   "date": "2023-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222645058:por",
+     "title": "Decreto Regulamentar Regional n.º 29/2023/A",
+     "published": "2023-10-11",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/29-2023-222645058"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "222881815",
+    "222881816",
+    "222881817",
+    "223076493",
+    "223076494",
+    "223076495",
+    "223076496",
+    "223076497",
+    "222881823",
+    "222881824",
+    "222881825",
+    "222881826",
+    "222881827",
+    "222881828",
+    "222881829",
+    "222881830",
+    "222881831",
+    "222881832",
+    "222881833",
+    "222881834",
+    "222881835",
+    "222881836",
+    "222881837",
+    "222881838",
+    "222881839",
+    "222881840",
+    "222881841",
+    "222881842",
+    "222881843",
+    "222881844",
+    "222881845"
+   ]
+  }
+ ],
+ "fragments": {
+  "222881815": {
+   "fragment_id": "222938889",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 7/2008/A\n\nRegulamenta o regime geral dos arquivos e do património arquivístico da Região Autónoma dos Açores\n\nO Decreto Legislativo Regional n.º 10/2007/A, de 20 de Abril, veio estabelecer o regime geral dos arquivos e do património arquivístico da Região Autónoma dos Açores, concentrando a sua concretização num serviço do Sistema Regional de Arquivos e remetendo a sua execução para diploma do Governo Regional.\n\nDetermina-se que o serviço coordenador para os arquivos da Região Autónoma dos Açores é a Comissão Coordenadora para os Arquivos da Região Autónoma dos Açores.\n\nConsiderando que a classificação da documentação deve fazer-se seguindo um critério orgânico-funcional, sempre que tal seja possível e de acordo com as características específicas dos mesmos, que a gestão de documentos faz-se em obediência a critérios de avaliação e selecção, de acordo com os quais se estabelecem prazos de conservação, formas de eliminação e se indicam os documentos a conservar permanentemente, e que a avaliação dos documentos de arquivo respeita à determinação do seu valor para efeitos da respectiva conservação permanente ou eliminação, findo o cumprimento dos respectivos prazos legais de conservação.\n\nConsiderando a necessidade de os serviços poderem recorrer às novas tecnologias como forma de conservação da informação;\n\nConsiderando que o proprietário de arquivos ou de documentos integrados no património protegido deve poder depositá-los, sem perda dos seus direitos de propriedade, em arquivos públicos regionais;\n\nConsiderando, finalmente, que em cada departamento governamental deve ser criada uma área central de arquivo responsável pela gestão e coordenação da documentação gerada pelo próprio departamento, bem como a de todos os organismos dele dependentes, e que os responsáveis pelos arquivos centrais de cada departamento governamental devem ser detentores de formação específica na área:\n\nAssim, nos termos das alíneas d) do n.º 1 do artigo 227.º da Constituição, e o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, e do disposto nos artigos 13.º, n.º 2, e 39.º do Decreto Legislativo Regional n.º 10/2007/A, de 20 de Abril, o Governo Regional decreta o seguinte:"
+  },
+  "222881816": {
+   "fragment_id": "222938890",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "222881817": {
+   "fragment_id": "222938891",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regulamenta o regime geral dos arquivos e do património arquivístico da Região Autónoma dos Açores, aprovado pelo Decreto Legislativo Regional n.º 10/2007/A, de 20 de Abril."
+  },
+  "222881818": {
+   "fragment_id": "222938892",
+   "type": 11,
+   "heading": "Artigo 2.º — Comissão Coordenadora para os Arquivos da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comissão Coordenadora para os Arquivos da Região\n\nA Coordenação para os Arquivos da Região Autónoma dos Açores, a que se refere a alínea a) do n.º 1 do artigo 13.º do Decreto Legislativo Regional n.º 10/2007/A, de 20 de Abril, é assegurada pela Comissão Coordenadora para os Arquivos da Região Autónoma dos Açores, doravante designada por Comissão Coordenadora."
+  },
+  "222881819": {
+   "fragment_id": "222938893",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza\n\nA Comissão Coordenadora é um serviço, na dependência da Presidência do Governo, que visa articular e harmonizar o exercício de competências em matéria de arquivo dos departamentos do Governo Regional."
+  },
+  "222881820": {
+   "fragment_id": "222938894",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da Comissão Coordenadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências da Comissão Coordenadora\n\n1 - Compete, em especial, à Comissão Coordenadora:\n\na) Ser parceiro na modernização da administração pública regional;\n\nb) Propor a definição da política arquivística regional, assim como acompanhar a sua execução e exercer as funções de fiscalização, nos termos estabelecidos no presente diploma;\n\nc) Incentivar e apoiar, do ponto de vista técnico, a implementação de sistemas de gestão de documentos, promovendo normas relativas à sua avaliação, selecção, eliminação ou conservação;\n\nd) Receber e preservar as cópias da documentação enviada em suporte digital pelos arquivos centrais dos departamentos do Governo Regional;\n\ne) Proceder ao estudo e elaboração de uma tabela geral de selecção e eliminação da documentação produzida pelos serviços públicos na gestão dos seus recursos humanos, financeiros e patrimoniais, a aprovar mediante portaria do Presidente do Governo Regional;\n\nf) Proceder ao estudo das tabelas de selecção documental, à criação do sistema geral de classificação e à codificação da validade temporal dos documentos e emissão de pareceres sobre propostas de diplomas relativos à conservação permanente da documentação e seu ingresso nos respectivos serviços centralizados, ou a sua eliminação devido à sua inutilidade administrativa e cultural;\n\ng) Recolher e difundir a informação sobre centros de consulta, fontes documentais e bibliografia de arquivos;\n\nh) Emitir pareceres sobre matérias relativas a arquivos, sempre que superiormente lhe forem solicitados;\n\ni) Definir e apoiar a formação do pessoal afecto aos arquivos da Região;\n\nj) Emitir parecer vinculativo sobre a eventual remessa de documentos dos serviços públicos para os arquivos regionais;\n\nk) Exercer as demais funções que lhe sejam superiormente determinadas.\n\n2 - A portaria a que se refere a alínea e) do n.º 1 é sujeita a parecer prévio da Associação de Municípios da Região Autónoma dos Açores (AMRAA)."
+  },
+  "222881821": {
+   "fragment_id": "222938895",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição\n\n1 - A Comissão Coordenadora é composta por um coordenador, com especialização na área de arquivo, e quatro técnicos superiores da administração regional autónoma:\n\na) Dois técnicos especializados na área de arquivo;\n\nb) Um da área de direito;\n\nc) Um da área da informática.\n\n2 - Integram, ainda, a Comissão Coordenadora, mediante protocolo, a celebrar com as respectivas entidades:\n\na) Um técnico superior de arquivo da Assembleia Legislativa da Região Autónoma dos Açores;\n\nb) Um técnico superior de arquivo da administração local, indicado pela AMRAA."
+  },
+  "222881822": {
+   "fragment_id": "222938896",
+   "type": 11,
+   "heading": "Artigo 6.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Nomeação\n\n1 - A nomeação da Comissão Coordenadora é feita por despacho do Presidente do Governo Regional, do qual constará a indicação do respectivo local de funcionamento.\n\n2 - Os membros da Comissão Coordenadora desempenharão as suas funções por períodos de três anos, eventualmente prorrogáveis por iguais períodos, por despacho do Presidente do Governo Regional.\n\n3 - Compete à Secretaria-Geral da Presidência do Governo assegurar o apoio logístico, administrativo e financeiro necessários ao funcionamento da Comissão Coordenadora."
+  },
+  "222881823": {
+   "fragment_id": "222938897",
+   "type": 1,
+   "heading": "Capítulo II — Arquivos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Arquivos públicos"
+  },
+  "222881824": {
+   "fragment_id": "222938898",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios para a classificação e gestão documental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios para a classificação e gestão documental\n\n1 - A classificação da documentação faz-se seguindo um critério orgânico-funcional, sempre que tal seja possível e de acordo com as características específicas dos mesmos.\n\n2 - A gestão de documentos faz-se em obediência a critérios de avaliação e selecção, de acordo com os quais se estabelecem prazos de conservação, formas de eliminação e se indicam os documentos a conservar permanentemente."
+  },
+  "222881825": {
+   "fragment_id": "222938899",
+   "type": 11,
+   "heading": "Artigo 8.º — Avaliação e selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Avaliação e selecção\n\n1 - A avaliação dos documentos de arquivo respeita à determinação do seu valor para efeitos da respectiva conservação permanente ou eliminação, findo o cumprimento dos respectivos prazos legais de conservação.\n\n2 - Os prazos de conservação dos documentos são contados a partir da respectiva data de produção ou recepção e, na sua falta, da data final dos processos ou dos documentos integrados em colecção, dos registos ou da constituição dos dossiers."
+  },
+  "222881826": {
+   "fragment_id": "222938900",
+   "type": 11,
+   "heading": "Artigo 9.º — Documentos de conservação permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Documentos de conservação permanente\n\nOs critérios para a conservação permanente dos documentos serão estabelecidos pelo Comissão Coordenadora."
+  },
+  "222881827": {
+   "fragment_id": "222938901",
+   "type": 11,
+   "heading": "Artigo 10.º — Processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Processo de avaliação\n\n1 - O processo inicia-se com a constituição de uma equipa de avaliação, a criar no âmbito do serviço interessado, com acesso garantido ao respectivo arquivo, a qual procederá:\n\na) Ao levantamento de toda a documentação existente no respectivo serviço, fazendo constar os dados recolhidos em documento apropriado, a fornecer pelo Comissão Coordenadora;\n\nb) À elaboração de projecto de regulamento que contenha a tabela de selecção de documentos, da qual conste, designadamente, a classificação da documentação, designação da série e subsérie documental, prazo de conservação e indicação do destino final.\n\n2 - A equipa de avaliação deve solicitar os elementos e esclarecimentos aos responsáveis pelos respectivos arquivos, bem como solicitar o apoio técnico que entender necessário, designadamente à Comissão Coordenadora."
+  },
+  "222881828": {
+   "fragment_id": "222938902",
+   "type": 11,
+   "heading": "Artigo 11.º — Tabelas de selecção de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tabelas de selecção de documentos\n\n1 - O parecer vinculativo da Comissão Coordenadora, a que se refere o n.º 1 do artigo 18.º do Decreto Legislativo Regional n.º 10/2007/A, de 20 de Abril, deve ser emitido no prazo de 60 dias úteis a contar da recepção do respectivo pedido.\n\n2 - O parecer deve ter em consideração os documentos de recolha de dados, bem como o projecto de tabela de selecção de documentos, elaborados pela equipa de avaliação, que para o efeito acompanham o respectivo pedido.\n\n3 - A alteração dos regulamentos que contêm as tabelas de selecção de documentos está sujeita ao regime previsto no presente diploma para a sua aprovação, podendo, no entanto, prescindir-se da constituição da equipa de avaliação, desde que a alteração respeite a simples ajustamentos de pormenor que não contrariem o regime constante da tabela em vigor."
+  },
+  "222881829": {
+   "fragment_id": "222938903",
+   "type": 11,
+   "heading": "Artigo 12.º — Arquivos centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Arquivos centrais\n\nEm cada departamento governamental é criada uma área central de arquivo responsável pela gestão e coordenação da documentação gerada pelo próprio departamento, bem como a de todos os organismos dele dependentes."
+  },
+  "222881830": {
+   "fragment_id": "222938904",
+   "type": 11,
+   "heading": "Artigo 13.º — Remessa de documentos para o arquivo central",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Remessa de documentos para o arquivo central\n\nFindos os prazos de conservação administrativa e de acordo com a respectiva tabela de selecção, os documentos devem ser remetidos ao serviço competente pela centralização arquivística de cada entidade."
+  },
+  "222881831": {
+   "fragment_id": "222938905",
+   "type": 11,
+   "heading": "Artigo 14.º — Formalidades da remessa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Formalidades da remessa\n\n1 - A remessa dos documentos mencionados no presente diploma deve obedecer às seguintes formalidades:\n\na) Ser acompanhada de um auto de entrega a título de prova;\n\nb) O auto de entrega deve ter em anexo uma guia de remessa destinada à identificação e controlo da documentação remetida, obrigatoriamente rubricada e autenticada pelas partes envolvidas no processo.\n\n2 - Os modelos do auto de entrega e da guia de remessa a que se referem as alíneas do número anterior são aprovados por despacho do membro do Governo Regional com competência em matéria de Administração Pública."
+  },
+  "222881832": {
+   "fragment_id": "222938906",
+   "type": 11,
+   "heading": "Artigo 15.º — Eliminação de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Eliminação de documentos\n\n1 - A eliminação dos documentos aos quais não seja reconhecido valor de conservação permanente deve ser efectuada após o cumprimento dos respectivos prazos de conservação fixados na tabela de selecção.\n\n2 - A decisão sobre o processo de eliminação deve atender a critérios de confidencialidade e racionalidade de meios e custos."
+  },
+  "222881833": {
+   "fragment_id": "222938907",
+   "type": 11,
+   "heading": "Artigo 16.º — Formalidades da eliminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Formalidades da eliminação\n\nA eliminação dos documentos mencionados no presente diploma obedece às seguintes formalidades:\n\na) Ser acompanhada de um auto de eliminação, que faz prova do abate patrimonial;\n\nb) O auto de eliminação é assinado pelo dirigente máximo do serviço em causa, bem como pelo responsável pelo arquivo."
+  },
+  "222881834": {
+   "fragment_id": "222938908",
+   "type": 11,
+   "heading": "Artigo 17.º — Digitalização dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Digitalização dos documentos\n\n1 - Os serviços abrangidos pelo presente diploma devem recorrer à digitalização ou microfilmagem dos seus documentos com carácter probatório, como forma de conservação da informação, a realizar em serviço da entidade interessada ou mediante recurso a entidade para tal habilitada.\n\n2 - O suporte a que alude o número anterior não pode apresentar cortes, emendas ou quaisquer outras alterações que ponham em causa a sua integridade e deve reproduzir os respectivos termos de abertura e de encerramento referidos no número seguinte.\n\n3 - Do termo de abertura constam obrigatoriamente a identificação dos responsáveis pela transferência da informação, local, a data de execução da transferência e a natureza dos documentos microfilmados ou digitalizados.\n\n4 - Do termo de encerramento constam a declaração de que as imagens são reproduções totais e exactas dos documentos originais, a assinatura do responsável pelo serviço de reprodução e o carimbo respectivo.\n\n5 - Devem ser elaborados um registo e fichas de controlo de qualidade do suporte produzido."
+  },
+  "222881835": {
+   "fragment_id": "222938909",
+   "type": 11,
+   "heading": "Artigo 18.º — Substituição do suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Substituição do suporte\n\nA substituição do suporte dos documentos obedece a critérios que garantam a sua preservação, segurança, autenticidade, durabilidade e consulta, de acordo com as normas técnicas e recomendações consagradas a nível internacional, designadamente pela International Standard Organization, abreviadamente designada por ISO."
+  },
+  "222881836": {
+   "fragment_id": "222938910",
+   "type": 1,
+   "heading": "Capítulo III — Arquivos privados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Arquivos privados"
+  },
+  "222881837": {
+   "fragment_id": "222938911",
+   "type": 11,
+   "heading": "Artigo 19.º — Depósito de documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Depósito de documentação\n\n1 - O proprietário de arquivos ou de documentos integrados no património protegido pode depositá-los, sem perda dos seus direitos de propriedade, em arquivos públicos regionais.\n\n2 - O depósito a que se refere o número anterior far-se-á mediante protocolo de que constem as condições estabelecidas pelo depositante e a aceitação destas pelo depositário.\n\n3 - O depósito poderá dar lugar a uma contrapartida económica a estipular no protocolo de cedência.\n\n4 - Beneficia do referido no número anterior o particular que, sendo proprietário de documentação integrada no património arquivístico protegido, a disponibilize ao público nos termos semelhantes àqueles em que estaria disponível se depositada em arquivos públicos regionais."
+  },
+  "222881838": {
+   "fragment_id": "222938912",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal afecto aos arquivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal afecto aos arquivos"
+  },
+  "222881839": {
+   "fragment_id": "222938913",
+   "type": 11,
+   "heading": "Artigo 20.º — Responsáveis de arquivos centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Responsáveis de arquivos centrais\n\nOs responsáveis pelos arquivos centrais de cada departamento governamental devem ser, sempre que possível, arquivistas habilitados detentores de formação específica na área."
+  },
+  "222881840": {
+   "fragment_id": "222938914",
+   "type": 11,
+   "heading": "Artigo 21.º — Funções dos responsáveis pelos arquivos centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Funções dos responsáveis pelos arquivos centrais\n\nAos responsáveis pelos arquivos centrais compete:\n\na) Integrar e coordenar a equipa de avaliação e selecção de documentos;\n\nb) Analisar, produzir e implantar nos serviços e organismos dependentes instrumentos de gestão de documentos, designadamente planos de classificação, manuais de procedimentos, formulários, tipologias documentais, circuitos documentais e os planos de transferência de documentos;\n\nc) Dar formação e prestar apoio técnico aos serviços dependentes sobre a aplicação do sistema de gestão de documentos do departamento governamental em que se insere;\n\nd) Garantir as condições de conservação da documentação de arquivo;\n\ne) Gerir a consulta e empréstimo da documentação do arquivo;\n\nf) Aplicar as portarias de gestão de documentos, procedendo às eliminações determinadas e preservar a documentação de conservação permanente."
+  },
+  "222881841": {
+   "fragment_id": "222938915",
+   "type": 11,
+   "heading": "Artigo 22.º — Pessoal afecto aos arquivos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pessoal afecto aos arquivos públicos\n\n1 - Ao pessoal afecto a arquivos públicos compete:\n\na) Conservar o património arquivístico;\n\nb) Manter os arquivos organizados;\n\nc) Garantir o acesso aos cidadãos da informação e dos documentos constantes do arquivo, nos termos da legislação em vigor;\n\nd) Facilitar aos serviços produtores de documentação o apoio e a utilização da informação contida nos documentos;\n\ne) Velar pelo cumprimento da legislação no que respeita às restrições no acesso à informação.\n\n2 - Todo aquele que exerça funções em arquivo ou que por razões de tratamento, avaliação, conservação ou reprodução tenha acesso ao mesmo está obrigado a assegurar a confidencialidade do conteúdo informacional dos documentos e deve velar pelo cumprimento da legislação relativamente aos dados de carácter pessoal e a assuntos classificados de reservado, confidencial, secreto ou muito secreto, assim como quanto à honra, intimidade pessoal e familiar e a própria imagem."
+  },
+  "222881842": {
+   "fragment_id": "222938916",
+   "type": 11,
+   "heading": "Artigo 23.º — Contratação para a gestão de arquivos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Contratação para a gestão de arquivos públicos\n\nO recurso à contratação de entidade externa para a gestão, conservação e custódia de qualquer arquivo público não pode afectar os poderes de direcção e supervisão dos arquivos por parte dos respectivos responsáveis, e está sujeita ao disposto no n.º 2 do artigo anterior."
+  },
+  "222881843": {
+   "fragment_id": "222938917",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "222881844": {
+   "fragment_id": "222938918",
+   "type": 11,
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "222943282": {
+   "fragment_id": "222938895",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": "2014-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2014/A - Diário da República n.º 134/2014, Série I de 2014-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2014-55020994), em vigor a partir de 2014-07-16"
+   ],
+   "markdown": "###### Artigo 5.º — Composição\n\n1 - A Comissão Coordenadora é composta por um coordenador, com especialização na área de arquivo e pelos seguintes elementos:\n\na) Um representante de cada departamento do Governo Regional dos Açores, com conhecimentos na área de arquivos;\n\nb) Um jurista;\n\nc) Um técnico superior da área de informática.\n\n2 - Integram, ainda, a Comissão Coordenadora, mediante protocolo a celebrar com as respetivas entidades:\n\na) Um técnico superior de arquivo da Assembleia Legislativa da Região Autónoma dos Açores;\n\nb) Um técnico superior de arquivo indicado pela AMRAA.\n\n3 - É criado um núcleo operacional, do qual fazem parte o coordenador e dois elementos da Comissão Coordenadora, especializados na área de arquivos.\n\n4 - O núcleo operacional tem por missão prosseguir com as competências determinadas pela Comissão Coordenadora, designadamente, colaborar com os vários departamentos do Governo Regional dos Açores, na elaboração dos instrumentos de gestão da informação, na normalização de procedimentos relativos à gestão, conservação e preservação da informação, bem como implementar a ação fiscalizadora, com carácter pedagógico, junto dos diversos serviços e organismos da administração pública regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2014/A - Diário da República n.º 134/2014, Série I de 2014-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2014-55020994), em vigor a partir de 2014-07-16"
+  },
+  "222943283": {
+   "fragment_id": "222938896",
+   "type": 11,
+   "heading": "Artigo 6.º — Nomeação",
+   "in_force_from": "2014-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2014/A - Diário da República n.º 134/2014, Série I de 2014-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2014-55020994), em vigor a partir de 2014-07-16"
+   ],
+   "markdown": "###### Artigo 6.º — Nomeação\n\n1 - A nomeação da Comissão Coordenadora é feita por despacho do Presidente do Governo Regional dos Açores.\n\n2 - A nomeação dos dois elementos do núcleo operacional é feita por despacho do Presidente do Governo Regional dos Açores, sob proposta do coordenador da Comissão Coordenadora.\n\n3 - Os membros da Comissão Coordenadora desempenharão as suas funções por períodos de três anos, eventualmente prorrogáveis por iguais períodos.\n\n4 - Os elementos que integram o núcleo operacional exercem as suas funções a tempo inteiro, mantendo todo o estatuto do seu lugar de origem, designadamente, em termos de carreira e cujo vencimento é suportado pelo respetivo serviço de origem.\n\n5 - Às funções de coordenação aplica-se, com as necessárias adaptações, o regime estabelecido no artigo 7.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, alterado e republicado pelo Decreto Legislativo Regional n.º 17/2009/A, de 14 de outubro.\n\n6 - Compete à Presidência do Governo Regional dos Açores, através da Secretaria-Geral, assegurar o apoio logístico, administrativo e financeiro necessário ao funcionamento da Comissão Coordenadora.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2014/A - Diário da República n.º 134/2014, Série I de 2014-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2014-55020994), em vigor a partir de 2014-07-16"
+  },
+  "222881845": {
+   "fragment_id": "222938919",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 17 de Março de 2008.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 18 de Abril de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "223076493": {
+   "fragment_id": "222938892",
+   "type": 11,
+   "heading": "Artigo 2.º — Comissão Coordenadora para os Arquivos da Região",
+   "in_force_from": "2023-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 29/2023/A - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2023-222645058), em vigor a partir de 2023-10-12"
+   ],
+   "markdown": "###### Artigo 2.º — Comissão Coordenadora para os Arquivos da Região\n\nA Coordenação para os Arquivos da Região Autónoma dos Açores, a que se refere a alínea a) do n.º 1 do artigo 13.º do Decreto Legislativo Regional n.º 10/2007/A, de 20 de Abril, é assegurada pela Comissão Coordenadora para os Arquivos da Região Autónoma dos Açores, doravante designada por Comissão Coordenadora.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 29/2023/A - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2023-222645058), em vigor a partir de 2023-10-12"
+  },
+  "223076494": {
+   "fragment_id": "222938893",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza",
+   "in_force_from": "2023-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 29/2023/A - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2023-222645058), em vigor a partir de 2023-10-12"
+   ],
+   "markdown": "###### Artigo 3.º — Natureza\n\nA Comissão Coordenadora é um serviço, na dependência da Presidência do Governo, que visa articular e harmonizar o exercício de competências em matéria de arquivo dos departamentos do Governo Regional.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 29/2023/A - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2023-222645058), em vigor a partir de 2023-10-12"
+  },
+  "223076495": {
+   "fragment_id": "222938894",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da Comissão Coordenadora",
+   "in_force_from": "2023-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 29/2023/A - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2023-222645058), em vigor a partir de 2023-10-12"
+   ],
+   "markdown": "###### Artigo 4.º — Competências da Comissão Coordenadora\n\n1 - Compete, em especial, à Comissão Coordenadora:\n\na) Ser parceiro na modernização da administração pública regional;\n\nb) Propor a definição da política arquivística regional, assim como acompanhar a sua execução e exercer as funções de fiscalização, nos termos estabelecidos no presente diploma;\n\nc) Incentivar e apoiar, do ponto de vista técnico, a implementação de sistemas de gestão de documentos, promovendo normas relativas à sua avaliação, selecção, eliminação ou conservação;\n\nd) Receber e preservar as cópias da documentação enviada em suporte digital pelos arquivos centrais dos departamentos do Governo Regional;\n\ne) Proceder ao estudo e elaboração de uma tabela geral de selecção e eliminação da documentação produzida pelos serviços públicos na gestão dos seus recursos humanos, financeiros e patrimoniais, a aprovar mediante portaria do Presidente do Governo Regional;\n\nf) Proceder ao estudo das tabelas de selecção documental, à criação do sistema geral de classificação e à codificação da validade temporal dos documentos e emissão de pareceres sobre propostas de diplomas relativos à conservação permanente da documentação e seu ingresso nos respectivos serviços centralizados, ou a sua eliminação devido à sua inutilidade administrativa e cultural;\n\ng) Recolher e difundir a informação sobre centros de consulta, fontes documentais e bibliografia de arquivos;\n\nh) Emitir pareceres sobre matérias relativas a arquivos, sempre que superiormente lhe forem solicitados;\n\ni) Definir e apoiar a formação do pessoal afecto aos arquivos da Região;\n\nj) Emitir parecer vinculativo sobre a eventual remessa de documentos dos serviços públicos para os arquivos regionais;\n\nk) Exercer as demais funções que lhe sejam superiormente determinadas.\n\n2 - A portaria a que se refere a alínea e) do n.º 1 é sujeita a parecer prévio da Associação de Municípios da Região Autónoma dos Açores (AMRAA).\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 29/2023/A - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2023-222645058), em vigor a partir de 2023-10-12"
+  },
+  "223076496": {
+   "fragment_id": "222938895",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": "2023-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 29/2023/A - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2023-222645058), em vigor a partir de 2023-10-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2014/A - Diário da República n.º 134/2014, Série I de 2014-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2014-55020994), em vigor a partir de 2014-07-16"
+   ],
+   "markdown": "###### Artigo 5.º — Composição\n\n1 - A Comissão Coordenadora é composta por um coordenador, com especialização na área de arquivo e pelos seguintes elementos:\n\na) Um representante de cada departamento do Governo Regional dos Açores, com conhecimentos na área de arquivos;\n\nb) Um jurista;\n\nc) Um técnico superior da área de informática.\n\n2 - Integram, ainda, a Comissão Coordenadora, mediante protocolo a celebrar com as respetivas entidades:\n\na) Um técnico superior de arquivo da Assembleia Legislativa da Região Autónoma dos Açores;\n\nb) Um técnico superior de arquivo indicado pela AMRAA.\n\n3 - É criado um núcleo operacional, do qual fazem parte o coordenador e dois elementos da Comissão Coordenadora, especializados na área de arquivos.\n\n4 - O núcleo operacional tem por missão prosseguir com as competências determinadas pela Comissão Coordenadora, designadamente, colaborar com os vários departamentos do Governo Regional dos Açores, na elaboração dos instrumentos de gestão da informação, na normalização de procedimentos relativos à gestão, conservação e preservação da informação, bem como implementar a ação fiscalizadora, com carácter pedagógico, junto dos diversos serviços e organismos da administração pública regional.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 29/2023/A - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2023-222645058), em vigor a partir de 2023-10-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2014/A - Diário da República n.º 134/2014, Série I de 2014-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2014-55020994), em vigor a partir de 2014-07-16"
+  },
+  "223076497": {
+   "fragment_id": "222938896",
+   "type": 11,
+   "heading": "Artigo 6.º — Nomeação",
+   "in_force_from": "2023-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 29/2023/A - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2023-222645058), em vigor a partir de 2023-10-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2014/A - Diário da República n.º 134/2014, Série I de 2014-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2014-55020994), em vigor a partir de 2014-07-16"
+   ],
+   "markdown": "###### Artigo 6.º — Nomeação\n\n1 - A nomeação da Comissão Coordenadora é feita por despacho do Presidente do Governo Regional dos Açores.\n\n2 - A nomeação dos dois elementos do núcleo operacional é feita por despacho do Presidente do Governo Regional dos Açores, sob proposta do coordenador da Comissão Coordenadora.\n\n3 - Os membros da Comissão Coordenadora desempenharão as suas funções por períodos de três anos, eventualmente prorrogáveis por iguais períodos.\n\n4 - Os elementos que integram o núcleo operacional exercem as suas funções a tempo inteiro, mantendo todo o estatuto do seu lugar de origem, designadamente, em termos de carreira e cujo vencimento é suportado pelo respetivo serviço de origem.\n\n5 - Às funções de coordenação aplica-se, com as necessárias adaptações, o regime estabelecido no artigo 7.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, alterado e republicado pelo Decreto Legislativo Regional n.º 17/2009/A, de 14 de outubro.\n\n6 - Compete à Presidência do Governo Regional dos Açores, através da Secretaria-Geral, assegurar o apoio logístico, administrativo e financeiro necessário ao funcionamento da Comissão Coordenadora.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 29/2023/A - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2023-222645058), em vigor a partir de 2023-10-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2014/A - Diário da República n.º 134/2014, Série I de 2014-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2014-55020994), em vigor a partir de 2014-07-16"
+  }
+ }
+}

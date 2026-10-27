@@ -1,0 +1,400 @@
+{
+ "checked": "2026-10-27",
+ "listed": 1078407,
+ "present": 285346,
+ "missing": 793061,
+ "types": [
+  {
+   "type": "lei-constitucional",
+   "label": "Lei Constitucional",
+   "optional": false,
+   "listed": 8,
+   "present": 8,
+   "missing": 0
+  },
+  {
+   "type": "decreto-aprovacao-constituicao",
+   "label": "Decreto de Aprovação da Constituição",
+   "optional": false,
+   "listed": 1,
+   "present": 1,
+   "missing": 0
+  },
+  {
+   "type": "lei",
+   "label": "Lei",
+   "optional": false,
+   "listed": 6713,
+   "present": 6712,
+   "missing": 1
+  },
+  {
+   "type": "lei-organica",
+   "label": "Lei Orgânica",
+   "optional": false,
+   "listed": 93,
+   "present": 93,
+   "missing": 0
+  },
+  {
+   "type": "decreto-lei",
+   "label": "Decreto-Lei",
+   "optional": false,
+   "listed": 31623,
+   "present": 31621,
+   "missing": 2
+  },
+  {
+   "type": "decreto",
+   "label": "Decreto",
+   "optional": false,
+   "listed": 47470,
+   "present": 47469,
+   "missing": 1
+  },
+  {
+   "type": "decreto-governo",
+   "label": "Decreto do Governo",
+   "optional": false,
+   "listed": 293,
+   "present": 293,
+   "missing": 0
+  },
+  {
+   "type": "decreto-regulamentar",
+   "label": "Decreto Regulamentar",
+   "optional": false,
+   "listed": 1933,
+   "present": 1933,
+   "missing": 0
+  },
+  {
+   "type": "decreto-presidente-republica",
+   "label": "Decreto do Presidente da República",
+   "optional": false,
+   "listed": 5935,
+   "present": 5932,
+   "missing": 3
+  },
+  {
+   "type": "decreto-legislativo-regional",
+   "label": "Decreto Legislativo Regional",
+   "optional": false,
+   "listed": 2414,
+   "present": 2414,
+   "missing": 0
+  },
+  {
+   "type": "decreto-regulamentar-regional",
+   "label": "Decreto Regulamentar Regional",
+   "optional": false,
+   "listed": 2581,
+   "present": 2579,
+   "missing": 2
+  },
+  {
+   "type": "decreto-regional",
+   "label": "Decreto Regional",
+   "optional": false,
+   "listed": 280,
+   "present": 280,
+   "missing": 0
+  },
+  {
+   "type": "decreto-representante-republica",
+   "label": "Decreto do Representante da República",
+   "optional": false,
+   "listed": 69,
+   "present": 69,
+   "missing": 0
+  },
+  {
+   "type": "decreto-ministro-republica",
+   "label": "Decreto do Ministro da República",
+   "optional": false,
+   "listed": 49,
+   "present": 49,
+   "missing": 0
+  },
+  {
+   "type": "portaria",
+   "label": "Portaria",
+   "optional": false,
+   "listed": 111158,
+   "present": 111151,
+   "missing": 7
+  },
+  {
+   "type": "portaria-extrato",
+   "label": "Portaria (extrato)",
+   "optional": false,
+   "listed": 24,
+   "present": 24,
+   "missing": 0
+  },
+  {
+   "type": "resolucao-conselho-ministros",
+   "label": "Resolução do Conselho de Ministros",
+   "optional": false,
+   "listed": 3902,
+   "present": 3898,
+   "missing": 4
+  },
+  {
+   "type": "resolucao-conselho-ministros-assuntos-economicos",
+   "label": "Resolução do Conselho de Ministros para os Assuntos Económicos",
+   "optional": false,
+   "listed": 1,
+   "present": 1,
+   "missing": 0
+  },
+  {
+   "type": "resolucao-assembleia-republica",
+   "label": "Resolução da Assembleia da República",
+   "optional": false,
+   "listed": 4793,
+   "present": 4791,
+   "missing": 2
+  },
+  {
+   "type": "resolucao-assembleia-nacional",
+   "label": "Resolução da Assembleia Nacional",
+   "optional": false,
+   "listed": 91,
+   "present": 91,
+   "missing": 0
+  },
+  {
+   "type": "resolucao-assembleia-legislativa-regional",
+   "label": "Resolução da Assembleia Legislativa Regional",
+   "optional": false,
+   "listed": 1851,
+   "present": 1850,
+   "missing": 1
+  },
+  {
+   "type": "resolucao",
+   "label": "Resolução",
+   "optional": false,
+   "listed": 15240,
+   "present": 15239,
+   "missing": 1
+  },
+  {
+   "type": "resolucao-extrato",
+   "label": "Resolução (extrato)",
+   "optional": false,
+   "listed": 11,
+   "present": 11,
+   "missing": 0
+  },
+  {
+   "type": "despacho-normativo",
+   "label": "Despacho Normativo",
+   "optional": false,
+   "listed": 13623,
+   "present": 13623,
+   "missing": 0
+  },
+  {
+   "type": "despacho-normativo-extrato",
+   "label": "Despacho Normativo (extrato)",
+   "optional": false,
+   "listed": 10,
+   "present": 10,
+   "missing": 0
+  },
+  {
+   "type": "despacho",
+   "label": "Despacho",
+   "optional": true,
+   "listed": 322296,
+   "present": 3273,
+   "missing": 319023
+  },
+  {
+   "type": "despacho-extrato",
+   "label": "Despacho (extrato)",
+   "optional": true,
+   "listed": 215767,
+   "present": 576,
+   "missing": 215191
+  },
+  {
+   "type": "declaracao-retificacao",
+   "label": "Declaração de Retificação",
+   "optional": false,
+   "listed": 16803,
+   "present": 16797,
+   "missing": 6
+  },
+  {
+   "type": "declaracao-retificacao-extrato",
+   "label": "Declaração de Retificação (extrato)",
+   "optional": false,
+   "listed": 8,
+   "present": 8,
+   "missing": 0
+  },
+  {
+   "type": "declaracao",
+   "label": "Declaração",
+   "optional": true,
+   "listed": 25751,
+   "present": 8407,
+   "missing": 17344
+  },
+  {
+   "type": "acordao-tribunal-constitucional",
+   "label": "Acórdão do Tribunal Constitucional",
+   "optional": false,
+   "listed": 165,
+   "present": 164,
+   "missing": 1
+  },
+  {
+   "type": "acordao-supremo-tribunal-justica",
+   "label": "Acórdão do Supremo Tribunal de Justiça",
+   "optional": false,
+   "listed": 207,
+   "present": 207,
+   "missing": 0
+  },
+  {
+   "type": "acordao-supremo-tribunal-administrativo",
+   "label": "Acórdão do Supremo Tribunal Administrativo",
+   "optional": false,
+   "listed": 122,
+   "present": 122,
+   "missing": 0
+  },
+  {
+   "type": "acordao-tribunal-contas",
+   "label": "Acórdão do Tribunal de Contas",
+   "optional": false,
+   "listed": 4,
+   "present": 4,
+   "missing": 0
+  },
+  {
+   "type": "acordao-doutrinario",
+   "label": "Acórdão Doutrinário",
+   "optional": false,
+   "listed": 183,
+   "present": 183,
+   "missing": 0
+  },
+  {
+   "type": "assento",
+   "label": "Assento",
+   "optional": false,
+   "listed": 190,
+   "present": 190,
+   "missing": 0
+  },
+  {
+   "type": "aviso",
+   "label": "Aviso",
+   "optional": true,
+   "listed": 85329,
+   "present": 2615,
+   "missing": 82714
+  },
+  {
+   "type": "aviso-extrato",
+   "label": "Aviso (extrato)",
+   "optional": true,
+   "listed": 76818,
+   "present": 765,
+   "missing": 76053
+  },
+  {
+   "type": "aviso-banco-portugal",
+   "label": "Aviso do Banco de Portugal",
+   "optional": false,
+   "listed": 243,
+   "present": 243,
+   "missing": 0
+  },
+  {
+   "type": "edital",
+   "label": "Edital",
+   "optional": true,
+   "listed": 39377,
+   "present": 507,
+   "missing": 38870
+  },
+  {
+   "type": "mapa-oficial",
+   "label": "Mapa Oficial",
+   "optional": false,
+   "listed": 157,
+   "present": 157,
+   "missing": 0
+  },
+  {
+   "type": "regimento",
+   "label": "Regimento",
+   "optional": false,
+   "listed": 22,
+   "present": 21,
+   "missing": 1
+  },
+  {
+   "type": "regimento-assembleia-republica",
+   "label": "Regimento da Assembleia da República",
+   "optional": false,
+   "listed": 6,
+   "present": 6,
+   "missing": 0
+  },
+  {
+   "type": "regimento-conselho-estado",
+   "label": "Regimento do Conselho de Estado",
+   "optional": false,
+   "listed": 2,
+   "present": 2,
+   "missing": 0
+  },
+  {
+   "type": "regulamento",
+   "label": "Regulamento",
+   "optional": true,
+   "listed": 18741,
+   "present": 486,
+   "missing": 18255
+  },
+  {
+   "type": "regulamento-cmvm",
+   "label": "Regulamento da CMVM",
+   "optional": false,
+   "listed": 198,
+   "present": 198,
+   "missing": 0
+  },
+  {
+   "type": "diretiva",
+   "label": "Diretiva",
+   "optional": true,
+   "listed": 278,
+   "present": 51,
+   "missing": 227
+  },
+  {
+   "type": "deliberacao",
+   "label": "Deliberação",
+   "optional": true,
+   "listed": 23439,
+   "present": 210,
+   "missing": 23229
+  },
+  {
+   "type": "acordo-coletivo-trabalho",
+   "label": "Acordo Coletivo de Trabalho",
+   "optional": true,
+   "listed": 2135,
+   "present": 12,
+   "missing": 2123
+  }
+ ]
+}

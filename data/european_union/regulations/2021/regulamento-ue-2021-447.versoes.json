@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32021R0447:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R0447-20260318",
+ "dre_path": null,
+ "source_lastmod": "2026-03-18",
+ "versions": [
+  {
+   "date": "2021-03-15",
+   "future": false,
+   "celex": "32021R0447",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4264256537ad8877",
+    "960bc3992cb73edc",
+    "f5d895eaad9cebe7",
+    "24416102e200f255"
+   ]
+  },
+  {
+   "date": "2026-03-18",
+   "future": false,
+   "celex": "02021R0447-20260318",
+   "acts": [
+    {
+     "id": "eu:celex:32026R0389:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2026/389 DA COMISSÃO de 23 de fevereiro de 2026",
+     "published": null,
+     "celex": "32026R0389"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Adita ANEXO",
+    "Adita Parâmetros de referência",
+    "Adita 1. Parâmetros de referência relativos a produtos, sem tomar em consideração a intermutabilidade entre combustíveis e eletricidade",
+    "Adita 2. Parâmetros de referência relativos a produtos, tomando em consideração a intermutabilidade entre combustíveis e eletricidade",
+    "Adita 3. Parâmetros de referência relativos ao calor e aos combustíveis",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "de073e67f7498ab2",
+    "960bc3992cb73edc",
+    "958dd429735285ff",
+    "10220b9774fa9034",
+    "b5b09fb7bab1f07c",
+    "9b1eca4a4c665622",
+    "6128d59f25ee769e",
+    "ebb18bd3ba0e9987"
+   ]
+  }
+ ],
+ "fragments": {
+  "4264256537ad8877": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de março de 2021\n\nque determina os valores dos parâmetros de referência revistos para a atribuição de licenças de emissão a título gratuito entre 2021 e 2025, nos termos do artigo 10.º-A, n.º 2, da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2003/87/CE do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, relativa à criação de um sistema de comércio de licenças de emissão de gases com efeito de estufa na União e que altera a Diretiva 96/61/CE do Conselho [([^1])](http://publications.europa.eu/resource/cellar/324f6df9-8531-11eb-af5d-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2021087PT.01002901-E0001), nomeadamente o artigo 10.º-A, n.º 2, terceiro parágrafo,\n\nConsiderando o seguinte:\n\n(1) A Decisão 2011/278/UE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/324f6df9-8531-11eb-af5d-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2021087PT.01002901-E0002) estabeleceu 54 parâmetros de referência que constituem a base da atribuição de licenças de emissão a título gratuito («parâmetros de referência»), bem como os valores desses parâmetros para o período de 2013 a 2020. O Regulamento Delegado (UE) 2019/331 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/324f6df9-8531-11eb-af5d-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2021087PT.01002901-E0003) revogou e substituiu a Decisão 2011/278/UE com efeitos a partir de 1 de janeiro de 2021 e estabeleceu pontos de partida idênticos para a determinação das taxas de redução anuais de atualização do valor de cada parâmetro de referência aplicáveis no período de 2021 a 2030.\n\n(2) Os valores dos 54 parâmetros de referência previstos na Decisão 2011/278/UE foram, tanto quanto possível, determinados com base nos dados de eficiência de cada instalação, em termos de emissões de gases com efeito de estufa, fornecidos pelas associações setoriais europeias respetivas de acordo com regras definidas pela Comissão num documento de orientação e nos denominados «manuais de regras setoriais». Dado o caráter voluntário da recolha de dados, o conjunto de dados obtido não abrangeu todas as instalações em causa. Os valores de 14 parâmetros de referência relativos a produtos basearam-se em dados de instalações uniproduto, uma vez que não se considerou exequível imputar emissões, no prazo estabelecido, ao produto em causa obtido em instalações multiprodutos. Devido à falta de dados sobre instalações concretas, os valores de cinco parâmetros de referência relativos a produtos, bem como os valores dos parâmetros de referência relativos ao calor e aos combustíveis, basearam-se em informações constantes dos documentos de referência (BREF) sobre as melhores técnicas disponíveis ou extraídas de outra documentação. Os valores de quatro parâmetros de referência relativos a produtos basearam-se nos valores dos parâmetros de referência relativos a outros produtos, a fim de assegurar condições de concorrência equitativas aos produtores dos mesmos produtos ou de produtos similares.\n\n(3) Os valores dos parâmetros de referência revistos são determinados com base em informações verificadas sobre a eficiência das instalações em termos de emissões de gases com efeito de estufa relativas aos anos de 2016 e 2017, comunicadas em conformidade com o artigo 11.º da Diretiva 2003/87/CE. Para cada parâmetro de referência, calcula-se a média de resultados de desempenho dos 10 % de instalações mais eficientes em 2016 e 2017. Comparando esses valores calculados com os valores dos parâmetros de referência estabelecidos na Decisão 2011/278/UE, baseados nos dados de desempenho de 2007 e 2008, determinam-se as taxas de redução anuais correspondentes a cada parâmetro de referência no período de nove anos compreendido entre 2007-2008 e 2016-2017. Essas taxas de redução são, em seguida, utilizadas para calcular, por extrapolação, as reduções correspondentes dos valores dos parâmetros de referência no período de 15 anos compreendido entre 2007-2008 e 2022-2023. Em conformidade com o artigo 10.º-A, n.º 2, da Diretiva 2003/87/CE, a redução aplicada no período de 15 anos não pode ser inferior a 3 % nem superior a 24 %. Aplicam-se disposições específicas à atualização dos valores dos parâmetros de referência relativos aos compostos aromáticos, ao hidrogénio, ao gás de síntese e ao metal quente.\n\n(4) Em conformidade com o artigo 11.º, n.º 1, da Diretiva 2003/87/CE, os Estados-Membros apresentaram à Comissão, até 30 de setembro de 2019, a lista de instalações com as informações pertinentes para a atribuição de licenças de emissão a título gratuito. A fim de assegurar que os valores dos parâmetros de referência se baseiam em dados corretos, a Comissão procedeu a verificações aprofundadas da exaustividade e da coerência dos dados pertinentes para a atribuição de licenças de emissão a título gratuito, nomeadamente por recurso a ferramentas automatizadas. Quando necessário, a Comissão solicitou esclarecimentos e correções às autoridades competentes. Na sequência deste procedimento, a Comissão obteve um conjunto de dados exatos, coerentes e comparáveis sobre a eficiência das instalações fixas abrangidas pela Diretiva 2003/87/CE, em termos de emissões de gases com efeito de estufa. Esse conjunto de dados de elevada qualidade foi utilizado para determinar os valores revistos de cada um dos 54 parâmetros de referência para o período de 2021 a 2025. Os dados de todas as subinstalações abrangidas pela definição de cada parâmetro de referência, como estabelecido no anexo I do Regulamento Delegado (UE) 2019/331, foram utilizados para determinar a média dos resultados de desempenho dos 10 % de instalações mais eficientes em 2016 e 2017, conforme previsto no artigo 10.º-A, n.º 2, da Diretiva 2003/87/CE e no considerando 11 da Diretiva (UE) 2018/410 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/324f6df9-8531-11eb-af5d-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2021087PT.01002901-E0004).\n\n(5) O artigo 27.º da Diretiva 2003/87/CE estabelece que, em determinadas condições, os Estados-Membros podem excluir do CELE instalações que tenham comunicado emissões inferiores a 25 000 toneladas de equivalente de dióxido de carbono e que, se realizarem atividades de combustão, tenham uma potência térmica nominal inferior a 35 MW, exceto as emissões de biomassa. O artigo 27.º-A da Diretiva 2003/87/CE estabelece que os Estados-Membros também podem excluir do CELE as instalações que tenham comunicado emissões inferiores a 2 500 toneladas de equivalente de dióxido de carbono, sem considerar as emissões de biomassa. Vários Estados-Membros decidiram excluir instalações do CELE no período de 2021 a 2025 com base nestas disposições. As instalações em causa não devem ser tidas em conta na determinação dos valores dos parâmetros de referência revistos.\n\n(6) O Regulamento Delegado (UE) 2019/331 inclui regras para determinar as emissões a nível da subinstalação, com vista a assegurar o tratamento coerente das emissões relacionadas com a importação, exportação e produção interna de calor mensurável, de gases residuais que contêm carbono e de CO2 transferido. Para o efeito, determinam-se os fatores de emissão correspondentes por recurso aos valores dos parâmetros de referência relativos ao calor e aos combustíveis, os quais, por sua vez, tinham sido atualizados mediante a aplicação das taxas de redução anuais determinadas. Para as importações de calor com fatores de emissão desconhecidos ou não claramente definidos e para as exportações de calor, utilizou-se o valor 53,3 t de equivalente de CO2/TJ. Este valor foi obtido por aplicação da taxa de redução anual de 1,6 % ao valor do parâmetro de referência relativo ao calor para o período de nove anos compreendido entre 2007-2008 e 2016-2017. No caso das exportações de gases residuais, subtraiu-se ao fator de emissão real do gás residual o valor 37,4 t de equivalente de CO2/TJ. Este valor corresponde ao fator de emissão do gás natural (56,1 t de equivalente de CO2/TJ) multiplicado pelo fator 0,667, que dá conta da diferença de eficiência entre a utilização de gás residual e a utilização do combustível de referência gás natural. Para as importações de gases residuais, foi utilizado o valor 48,0 t de equivalente de CO2/TJ. Este valor foi obtido mediante a aplicação da taxa de redução anual de 1,6 % ao valor do parâmetro de referência relativo aos combustíveis para o período de nove anos compreendido entre 2007-2008 e 2016-2017.\n\n(7) No caso das subinstalações importadoras de produtos intermédios cuja produção esteja abrangida pelas fronteiras de sistema do parâmetro de referência relativo a produtos em causa, mas sem que tenha sido possível determinar as emissões de gases com efeito de estufa associadas a essa produção com base nos dados apresentados, a sua eficiência em termos de emissões de gases com efeito de estufa não deve ser tida em conta na determinação dos valores dos parâmetros de referência revistos. Esta ressalva aplica-se às atualizações do valor do parâmetro de referência relativas aos produtos de refinação, ao metal quente, à cal dolomítica sinterizada, ao amoníaco, ao hidrogénio e ao carbonato de sódio. No caso das subinstalações exportadoras de produtos intermédios, se não tiver sido possível determinar as emissões de gases com efeito de estufa associadas aos processos subsequentes com base nos dados apresentados, a sua eficiência em termos de emissões de gases com efeito de estufa não deve ser tida em conta na determinação dos valores dos parâmetros de referência revistos. Esta ressalva aplica-se à atualização do valor do parâmetro de referência relativa aos produtos de refinação e ao metal quente.\n\n(8) A metodologia de atribuição de emissões às diversas subinstalações estabelecida no Regulamento Delegado (UE) 2019/331 pode resultar em eficiências negativas, em termos de emissões de gases com efeito de estufa, se calor produzido utilizando um combustível com baixo fator de emissão for exportado para outras subinstalações ou instalações. Nesses casos, para efeitos da determinação dos valores dos parâmetros de referência revistos, a eficiência da subinstalação em causa, em termos de emissões de gases com efeito de estufa, deve ser fixada no valor zero.\n\n(9) As medidas estabelecidas no presente regulamento estão em conformidade com o parecer do Comité das Alterações Climáticas,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "960bc3992cb73edc": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs valores dos parâmetros de referência revistos enumerados no anexo são aplicáveis à atribuição harmonizada de licenças de emissão a título gratuito para o período de 2021 a 2025."
+  },
+  "f5d895eaad9cebe7": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 12 de março de 2021.\n\n***Pela Comissão***\n\n***A Presidente***\n\n**Ursula VON DER LEYEN**\n\n---"
+  },
+  "24416102e200f255": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/324f6df9-8531-11eb-af5d-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2021087PT.01002901-E0001) [JO L 275 de 25.10.2003, p. 32](http://publications.europa.eu/resource/oj/JOL_2003_275_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/324f6df9-8531-11eb-af5d-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2021087PT.01002901-E0002) Decisão 2011/278/UE da Comissão, de 27 de abril de 2011, sobre a determinação das regras transitórias da União relativas à atribuição harmonizada de licenças de emissão a título gratuito nos termos do artigo 10.º-A da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho ([JO L 130 de 17.5.2011, p. 1](http://publications.europa.eu/resource/oj/JOL_2011_130_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/324f6df9-8531-11eb-af5d-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2021087PT.01002901-E0003) Regulamento Delegado (UE) 2019/331 da Comissão, de 19 de dezembro de 2018, sobre a determinação das regras transitórias da União relativas à atribuição harmonizada de licenças de emissão a título gratuito nos termos do artigo 10.º-A da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho ([JO L 59 de 27.2.2019, p. 8](http://publications.europa.eu/resource/oj/JOL_2019_059_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/324f6df9-8531-11eb-af5d-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2021087PT.01002901-E0004) Diretiva (UE) 2018/410 do Parlamento Europeu e do Conselho, de 14 de março de 2018, que altera a Diretiva 2003/87/CE para reforçar a relação custo-eficácia das reduções de emissões e o investimento nas tecnologias hipocarbónicas, e a Decisão (UE) 2015/1814 ([JO L 76 de 19.3.2018, p. 3](http://publications.europa.eu/resource/oj/JOL_2018_076_R_TOC))."
+  },
+  "de073e67f7498ab2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de março de 2021\n\nque determina os valores dos parâmetros de referência revistos para a atribuição de licenças de emissão a título gratuito entre 2021 e 2025, nos termos do artigo 10.º-A, n.º 2, da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "958dd429735285ff": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "b5b09fb7bab1f07c": {
+   "fragment_id": "Parâmetros de referência",
+   "type": "divisao",
+   "heading": "Parâmetros de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parâmetros de referência\n\nPara efeitos do presente anexo, são aplicáveis as definições de produtos abrangidos e de processos e emissões abrangidos (fronteiras do sistema) estabelecidas no anexo I do Regulamento Delegado (UE) 2019/331."
+  },
+  "9b1eca4a4c665622": {
+   "fragment_id": "1. Parâmetros de referência relativos a produtos, sem tomar em consideração a intermutabilidade entre combustíveis e eletricidade",
+   "type": "divisao",
+   "heading": "1. Parâmetros de referência relativos a produtos, sem tomar em consideração a intermutabilidade entre combustíveis e eletricidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Parâmetros de referência relativos a produtos, sem tomar em consideração a intermutabilidade entre combustíveis e eletricidade\n\n| Parâmetro de referência relativo a produtos | Valor médio dos 10 % de instalações mais eficientes em 2016 e 2017 (t de equivalente de CO2/t) | Valor do parâmetro de referência (licenças de emissão/t) para 2021-2025 |\n| --- | --- | --- |\n| Coque | 0,144 | 0,217 |\n| Minério sinterizado | 0,163 | 0,157 |\n| Metal quente | 1,331 | 1,288 |\n| Ânodo pré-calcinado | 0,317 | 0,312 |\n| Alumínio | 1,484 | 1,464 |\n| Clínquer cinzento | 0,722 | 0,693 |\n| Clínquer branco | 0,973 | 0,957 |\n| Cal | 0,746 | 0,725 |\n| Cal dolomítica | 0,881 | 0,815 |\n| Cal dolomítica sinterizada | 1,441 | 1,406 |\n| Vidro flutuado | 0,421 | 0,399 |\n| Garrafas e frascos de vidro incolor | 0,323 | 0,290 |\n| Garrafas e frascos de vidro colorido | 0,265 | 0,237 |\n| Produtos de fibra de vidro de filamento contínuo | 0,290 | 0,309 |\n| Tijolos de fachada | 0,094 | 0,106 |\n| Blocos para pavimentação | 0,140 | 0,146 |\n| Telhas | 0,130 | 0,120 |\n| Pós obtidos por pulverização | 0,050 | 0,058 |\n| Gesso | 0,048 | 0,047 |\n| Gesso secundário seco | 0,008 | 0,013 |\n| Pasta *kraft* de fibra curta | 0,000 | 0,091 |\n| Pasta *kraft* de fibra longa | 0,001 | 0,046 |\n| Pasta pelo bissulfito, pasta termomecânica e pasta mecânica | 0,000 | 0,015 |\n| Pasta de papel recuperado | 0,000 | 0,030 |\n| Papel de jornal | 0,007 | 0,226 |\n| Papel fino não revestido | 0,011 | 0,242 |\n| Papel fino revestido | 0,043 | 0,242 |\n| Papel-tecido | 0,139 | 0,254 |\n| *Testliner* e canelura | 0,071 | 0,188 |\n| Cartão não revestido | 0,009 | 0,180 |\n| Cartão revestido | 0,011 | 0,207 |\n| Ácido nítrico | 0,038 | 0,230 |\n| Ácido adípico | 0,32 | 2,12 |\n| Cloreto de vinilo monómero (CVM) | 0,171 | 0,155 |\n| Fenol/acetona | 0,244 | 0,230 |\n| PVC-s (PVC em suspensão) | 0,073 | 0,066 |\n| PVC-e (PVC em emulsão) | 0,103 | 0,181 |\n| [▼M1](http://publications.europa.eu/resource/celex/32026R0389) |  |  |\n| Carbonato de sódio | 0,789 | 0,753 (aplicável em 2021-2024) 1,168 (aplicável em 2025) |\n| [▼B](http://publications.europa.eu/resource/celex/32021R0447) |  |  |"
+  },
+  "6128d59f25ee769e": {
+   "fragment_id": "2. Parâmetros de referência relativos a produtos, tomando em consideração a intermutabilidade entre combustíveis e eletricidade",
+   "type": "divisao",
+   "heading": "2. Parâmetros de referência relativos a produtos, tomando em consideração a intermutabilidade entre combustíveis e eletricidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Parâmetros de referência relativos a produtos, tomando em consideração a intermutabilidade entre combustíveis e eletricidade\n\n| Parâmetro de referência relativo a produtos | Valor médio dos 10 % de instalações mais eficientes em 2016 e 2017 (t de equivalente de CO2/t) | Valor do parâmetro de referência (licenças de emissão/t) para 2021-2025 |\n| --- | --- | --- |\n| Produtos de refinação | 0,0255 | 0,0228 |\n| Aço-carbono processado em forno de arco elétrico | 0,209 | 0,215 |\n| Aço de alta liga processado em forno de arco elétrico | 0,266 | 0,268 |\n| Fundição de ferro | 0,299 | 0,282 |\n| Lã mineral | 0,595 | 0,536 |\n| Placas de gesso | 0,119 | 0,110 |\n| Negro de fumo | 1,141 | 1,485 |\n| Amoníaco | 1,604 | 1,570 |\n| Craqueamento sob vapor | 0,693 | 0,681 |\n| Aromáticos | 0,0072 | 0,0228 |\n| Estireno | 0,419 | 0,401 |\n| Hidrogénio | 4,09 | 6,84 |\n| Gás de síntese | 0,009 | 0,187 |\n| Óxido de etileno/etilenoglicóis | 0,314 | 0,389 |"
+  },
+  "ebb18bd3ba0e9987": {
+   "fragment_id": "3. Parâmetros de referência relativos ao calor e aos combustíveis",
+   "type": "divisao",
+   "heading": "3. Parâmetros de referência relativos ao calor e aos combustíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Parâmetros de referência relativos ao calor e aos combustíveis\n\n| Parâmetro de referência | Valor médio dos 10 % de instalações mais eficientes em 2016 e 2017 (t de equivalente de CO2/TJ) | Valor do parâmetro de referência (licenças de emissão/TJ) para 2021-2025 |\n| --- | --- | --- |\n| Parâmetro de referência relativo ao calor | 1,6 | 47,3 |\n| Parâmetro de referência relativo aos combustíveis | 34,3 | 42,6 |"
+  }
+ }
+}

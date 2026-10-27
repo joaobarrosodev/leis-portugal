@@ -1,0 +1,235 @@
+---
+schema_version: '1.0'
+id: pt:dre:157627:por
+title: Resolução do Conselho de Ministros n.º 104/97
+short_title: null
+summary: Ratifica o Plano de Pormenor de Sampaio, no município de Vouzela
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 104/97
+official_date: null
+publication_date: '1997-07-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 150/1997, Série I-B de 1997-07-02
+  number: '150'
+  series: I
+  supplement: null
+  pages: 3224 - 3226
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/07/150b00/32243226.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/104/1997/07/02/p/dre/pt/html
+  oj: null
+  dre: '157627'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/104-1997-157627
+  internal: pt:dre:157627:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-1997-157627
+  metadata_url: https://data.dre.pt/eli/resolconsmin/104/1997/07/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/104-1997-157627
+  consolidated_url: null
+  retrieved_at: '2026-10-26T23:23:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c9c37b3a9e50cfdf7ef1960acd206dc2ea860d374893770e2254fd4d43560161
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-26T23:23:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Plano de Pormenor
+- Plano de Urbanização
+- Política de Solos
+- Regulamento
+- Vouzela
+relationships:
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T23:23:44Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 104/97
+
+A Assembleia Municipal de Vouzela aprovou, em 30 de Junho de 1995, o Plano de Pormenor de Sampaio, no município de Vouzela.
+
+Foi verificada a conformidade formal do Plano de Pormenor de Sampaio com as disposições legais e regulamentares em vigor, nos termos previstos no n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.
+
+O município de Vouzela dispõe de Plano Director Municipal, ratificado pela [Resolução do Conselho de Ministros n.º 41/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-1994-304548), de 21 de Abril, publicada no Diário da República, 1.ª série-B, n.º 138, de 17 de Junho de 1994.
+
+Implicando o Plano de Pormenor uma alteração ao Plano Director Municipal de Vouzela, na medida em que afecta a uso urbano solos classificados neste Plano como agrícolas e integrados na Reserva Ecológica Nacional, a sua ratificação compete ao Conselho de Ministros.
+
+Foi realizado o inquérito público, nos termos previstos no artigo 14.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, e emitidos os pareceres a que se refere o artigo 13.º do mesmo diploma legal.
+
+Considerando o disposto no n.º 3 do artigo 3.º e no artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, na redacção conferida pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro;
+
+Assim:
+
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+
+Ratificar o Plano de Pormenor de Sampaio, no município de Vouzela, cujo Regulamento e planta de síntese se publicam em anexo à presente resolução, dela fazendo parte integrante.
+
+Presidência do Conselho de Ministros, 5 de Junho de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+REGULAMENTO DO PLANO DE PORMENOR DE SAMPAIO
+
+###### Artigo 1.º — Objecto e constituição do Plano
+
+1 - O Plano de Pormenor de Sampaio em Vouzela, adiante designado por Plano, é um plano municipal de ordenamento do território elaborado nos termos do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com a nova redacção dada pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e é constituído por:
+
+Regulamento;
+
+Planta de síntese;
+
+Planta de condicionantes;
+
+Memória descritiva e justificativa, integrando relatório, caracterização e programa de execução e de financiamento;
+
+Planta de enquadramento e extracto do PDM;
+
+Planta da situação existente;
+
+Plantas de trabalho e perfis.
+
+2 - O presente Regulamento bem como as plantas de síntese e de condicionantes, definem a concepção do espaço da área de expansão urbana da vila de Vouzela a norte da variante à estrada nacional n.º 16 e estabelecem a sua tipologia de ocupação, no âmbito do Plano de Pormenor de Sampaio.
+
+###### Artigo 2.º — Âmbito territorial e regime
+
+1 - O território abrangido pelo Plano, território este que adiante se designa por área-plano, é o correspondente à área como tal delimitada na planta de síntese, com a superfície de 100430,20 m2, reservado para expansão urbana de categoria B, prevista no Plano Director Municipal a norte da vila de Vouzela.
+
+2 - O regime do Plano consta do presente Regulamento e é traduzido graficamente nas plantas e as suas disposições são aplicáveis, obrigatoriamente, a todas as iniciativas públicas, privadas ou mistas a realizar na área-plano.
+
+###### Artigo 3.º — Condicionantes
+
+Na área-plano serão observadas todas as protecções, servidões administrativas e restrições de utilidade pública constantes da legislação em vigor ou decorrentes da sua modificação, designadamente as relativas a:
+
+Plano Director Municipal;
+
+Reserva Ecológica Nacional;
+
+Reserva Agrícola Nacional;
+
+Zona non aedificandi da variante à estrada nacional n.º 16;
+
+Restrição de utilidade pública na linha de AT.
+
+###### Artigo 4.º — Estrutura de ordenamento
+
+1 - Para efeitos regulamentares, o território objecto do presente Plano é estruturado em diferentes partes, consoante os diversos usos previstos e atribuídos.
+
+2 - Definem-se como parcelas os terrenos destinados à construção (habitação, comércio, serviços, indústria) e constituem-se áreas de uso público (ruas, estacionamentos, passeios, equipamentos, verdes) e ainda áreas de verdes de protecção e de enquadramento.
+
+3 - Os limites das parcelas referidas no número anterior, assinalados na planta de síntese, poderão sofrer alterações de pormenor, apenas e só para serem ajustados aos limites cadastrais.
+
+###### Artigo 5.º — Execução do Plano
+
+1 - A Câmara Municipal, para efeito da execução do Plano, deve garantir a necessária disponibilidade dos terrenos, nomeadamente os relativos às áreas de uso público, como arruamentos, passeios, estacionamentos, equipamentos colectivos e espaços verdes.
+
+2 - Tal efeito pode constituir fundamento para a Câmara Municipal pedir, se eventualmente necessário, a declaração de utilidade pública para expropriação desses terrenos.
+
+3 - A Assembleia Municipal, sobre proposta da Câmara Municipal, poderá regulamentar a aplicação de uma taxa urbanística e específica para a área objecto do presente Plano de Pormenor, nos termos do n.º 4 do artigo 28.º do Regulamento do Plano Director Municipal de Vouzela.
+
+###### Artigo 6.º — Regulamentação urbanística
+
+1 - As regras de ocupação, uso e transformação do solo incluído nas parcelas para construção, delimitadas na planta de síntese, estão estabelecidas no quadro anexo que integra a referida planta e este Regulamento.
+
+2 - Os perímetros assinalados na planta de síntese relativos à forma do edificado, especialmente no tocante à implantação e ocupação, devem ser observados como padrões de referência na elaboração de projectos de novas construções ou nos de remodelação das existentes.
+
+###### Artigo 7.º — Regulamentação complementar
+
+1 - Os alinhamentos de qualquer das fachadas a observar na construção de novas habitações isoladas ou na sua remodelação serão constituídos pelos planos afastados 5 m dos limites das parcelas respectivas, sem embargo da observância dos alinhamentos principais definidos na planta de síntese.
+
+2 - A profundidade das construções de habitações unifamiliares não pode exceder, no mesmo nível de pavimento, o valor de 15 m, observando-se, porém, no máximo do edificado o valor de 24 m.
+
+3 - Nas habitações unifamiliares, a altura máxima admitida, em fachada contínua, é de 6,5 m, devendo, em dimensões superiores, produzir-se a sua descontinuidade através de recuo de planos de fachadas.
+
+4 - O balanço dos beirados e varandas, em qualquer das fachadas das habitações unifamiliares, não poderá exceder 1,2 m a partir do plano da fachada.
+
+###### Artigo 8.º — Organização de projectos
+
+1 - Os projectos a submeter a apreciação municipal devem incluir uma planta de toda a parcela, na escala de 1:200, com indicação de todas as áreas cobertas e as ocupadas com acessos, incluindo o arranjo dos espaços exteriores.
+
+2 - Os alçados incluídos nos projectos devem indicar os materiais a empregar e respectivas cores, as quais devem ser da mesma natureza ou semelhantes entre si, por forma a não destoar do conjunto em que se integrará a construção.
+
+3 - Devem ser observadas, na elaboração de projectos, as características dos elementos arquitectónicos que, de algum modo, tenham significado na preservação do património cultural edificado.
+
+###### Artigo 9.º — Infra-estruturas
+
+1 - As construções previstas só podem ser ocupadas quando todos os seus acessos, serventias e infra-estruturas correspondentes estiverem concluídas e em funcionamento.
+
+2 - A execução dos espaços públicos e infra-estruturas serão da responsabilidade da Câmara Municipal, designadamente arruamentos, estacionamentos, passeios, arranjos paisagísticos, podendo, no entanto, negociar com a promoção conjunta de habitações, a execução e manutenção, quer dos espaços verdes, quer das infra-estruturas.
+
+###### Artigo 10.º — Movimento de terras
+
+1 - Tendo presente o valor do suporte físico natural existente, as obras de modelação dos terrenos para implantação de novas edificações deverão reduzir-se ao mínimo indispensável e assim serem projectadas.
+
+2 - Para além dos casos previstos, não é permitida a criação de caves ou subcaves, devendo a solução tipológica de cada edifício ser, se necessário, desenvolvida em diferentes níveis, sempre e só nos casos em que a topografia verificada o exija.
+
+###### Artigo 11.º — Demolições
+
+1 - Para além das previstas no presente Plano, não são permitidas demolições nas construções existentes, com excepção das que se destinem a pequenas obras de remodelação ou de conservação e ainda das que se revelem indispensáveis a segurança por eventual estado de ruína das edificações em causa.
+
+2 - Nestes casos, a demolição será precedida de vistoria municipal e a reconstrução respeitará obrigatoriamente as disposições urbanísticas específicas da parcela em que se integra a construção.
+
+3 - Dentro dos limites de cada parcela, compete ao promotor da respectiva construção a obrigação de proceder aos movimentos de terras e tratamento dos espaços livres.
+
+###### Artigo 12.º — Obras de ampliação e de anexos
+
+1 - Nas parcelas onde, no âmbito do presente Plano, existem já edifícios de habitação poderão ocorrer obras de ampliação destas edificações ou mesmo dos seus anexos, considerados estes apenas para arrecadações e garagens, nos termos e condições mencionados no número seguinte.
+
+2 - Nas obras de ampliação ou de construção de anexos não poderão produzir-se valores finais, de construção e ou de implantação, superiores aos fixados para a correspondente parcela.
+
+###### Artigo 13.º — Omissões
+
+Em todos os casos omissos serão respeitadas as normas legais aplicáveis e, bem assim, todos os regulamentos em vigor, designadamente o Regulamento Geral das Edificações Urbanas e as disposições do Plano Director Municipal de Vouzela.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/150b00/32243226.pdf)

@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31983L0201:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983L0201-20060111",
+ "dre_path": null,
+ "source_lastmod": "2006-01-11",
+ "versions": [
+  {
+   "date": "1983-04-28",
+   "future": false,
+   "celex": "31983L0201",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b2764dfcd6cb3fd7",
+    "fe0fc74b19c8e976",
+    "f9512534dfaaa99b",
+    "ef06649d237e1ff2",
+    "2d126ebda9f76df5",
+    "5fb728a8a0d6657e",
+    "0b10da93dd7c96e1",
+    "62773ffa9a61f507"
+   ]
+  },
+  {
+   "date": "2006-01-11",
+   "future": false,
+   "celex": "01983L0201-20060111",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o"
+   ],
+   "fragments": [
+    "7f89ae85f1ee61af"
+   ]
+  }
+ ],
+ "fragments": {
+  "b2764dfcd6cb3fd7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 83/201/CEE da Comissão, de 12 de Abril de 1983, que estabelece derrogações à Directiva 77/99/CEE do Conselho para certos produtos que contêm outros géneros alimentares e com uma percentagem mínima de carne ou de produtos à base de carne** *Jornal Oficial nº L 112 de 28/04/1983 p. 0028 - 0030 Edição especial finlandesa: Capítulo 3 Fascículo 16 p. 0079 Edição especial espanhola: Capítulo 03 Fascículo 27 p. 0157 Edição especial sueca: Capítulo 3 Fascículo 16 p. 0079 Edição especial portuguesa: Capítulo 03 Fascículo 27 p. 0157*\n\nDIRECTIVA DA COMISSÃO de 12 de Abril de 1983 que estabelece derrogações à Directiva 77/99/CEE do Conselho para certos produtos que contêm outros géneros alimentares e com uma percentagem mínima de carne ou de produtos à base de carne\n\n(83/201/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 77/99/CEE do Conselho, de 21 de Dezembro de 1976, relativa a problemas sanitários em matéria de comércio intracomunitário de produtos à base de carne (1) e, nomeadamente, o seu artigo 8o,\n\nConsiderando que, nos termos do procedimento definido no artigo 18o da Directiva 77/99/CEE, pode decidir-se que algumas das suas disposições não se apliquem a determinados produtos que contenham outros géneros alimentares e com uma percentagem mínima de carne ou de produto à base de carne;\n\nConsiderando que a percentagem de carne fresca ou de produto à base de carne nos produtos que contêm outros géneros alimentares e com uma percentagem mínima de carne ou de produto à base de carne deve ser determinada como uma relação entre a carne fresca ou o produto à base de carne laborado e o produto final; que, para determinados produtos que contêm outros géneros alimentares com uma percentagem mínima de carne ou de produto à base de carne e que são desidratados ou concentrados na produção e para os produtos apresentados sob a forma de pratos preparados, o produto final a considerar para este cálculo é o produto pronto a utilizar após preparação em conformidade com o modo de emprego indicado pelo fabricante;\n\nConsiderando que, após ter tomado em consideração a natureza e a composição dos produtos, podem ser admitidas determinadas disposições para certos produtos;\n\nConsiderando que estas derrogações só podem aplicar-se às condições de autorização dos estabelecimentos definidas no Capítulo Primeiro do Anexo A, aos imperativos de controlo descritos nos Capítulos VI e V do Anexo A e aos imperativos da marcação de inspecção sanitária e do certificado de inspecção sanitária definidos nos pontos 9 e 10 do no 1 do artigo 3o da Directiva 77/99/CEE; que, sem prejuízo do disposto na dita directiva, os Estados-membros devem zelar por que os produtos que contêm outros géneros alimentares e com uma percentagem mínima de carne ou de produto à base de carne, destinados ao comércio intracomunitário, sejam produtos próprios para consumo preparados a partir de carne fresca ou de produtos à base de carne, na acepção da Directiva 77/99/CEE;\n\nConsiderando que os produtos que contêm outros géneros alimentares e que têm uma percentagem mínima de carne ou de produto à base de carne são laborados ou em estabelecimentos que preparam unicamente esta categoria de produtos, ou em estabelecimentos que preparam, para além desta categoria de produtos, produtos à base de carne e/ou de géneros alimentares que não contêm carne ou produtos à base de carne;\n\nConsiderando que estas categorias de produtos podem ser preparadas em locais separados, no interior de um mesmo estabelecimento;\n\nConsiderando que os estabelecimentos que preparam produtos que contêm outros géneros alimentares e que têm uma percentagem mínima de carne ou de produtos à base de carne e que estão em conformidade com o disposto na Directiva 77/99/CEE, devem ter a possibilidade de beneficiar das derrogações previstas no no 1, alínea c), do artigo 8o da referida directiva;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "fe0fc74b19c8e976": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva estabelece as disposições da Directiva 77/99/CEE que, nos termos do seu artigo 8o, não se aplicam a certos produtos que contêm outros géneros alimentares e com uma percentagem mínima de carne ou de produtos à base de carne."
+  },
+  "f9512534dfaaa99b": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nEntende-se por «produtos que contêm outros géneros alimentares e com uma percentagem mínima de carne ou de produtos à base de carne» produtos que não contenham mais de 10 % p/p de carne ou de produtos laborados à base de carne em relação ao produto final, pronto para utilização após preparação, em conformidade com a modo de emprego indicado pelo fabricante."
+  },
+  "ef06649d237e1ff2": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nNo que respeita à autorização dos estabelecimentos de transformação dos produtos que contêm outros géneros alimentares e com uma percentagem mínima de carne ou de produto à base de carne:\n\n1. As condições estabelecidas no Capítulo I do Anexo A, da Directiva 77/99/CEE referem-se unicamente à parte do estabelecimento onde a carne fresca ou os produtos à base de carne são recepcionados, armazenados, manuseados e incorporados nos produtos à base de carne e/ou nos produtos que contêm outros géneros alimentares e com uma percentagem mínima de carne ou de produto à base de carne, e onde estes produtos são transformados ou armazenados;\n\n2. a) Se o produtor utilizar para a preparação de produtos que contêm outros géneros alimentares e com uma percentagem mínima de carne ou de produto à base de carne, produtos de tratamento completo, a autoridade competente pode decidir que os locais para a armazenagem em regime de frio previstos no ponto 1, alínea a), em i), do Capítulo I do Anexo A da Directiva 77/99/CEE, não são exigidos;\n\nb) Na medida em que tal não apresente inconveniente para a carne fresca e os produtos à base de carne, as operações que devem ser efectuadas nos locais separados referidos no ponto 2, alíneas a), b), c), d), e), g), e h) do Capítulo I do Anexo A da Directiva 77/99/CEE, podem ser efectuadas num local comum.\n\nAs derrogações à alíneas a) e b) só se aplicam à parte do estabelecimento onde são preparados os produtos que contêm outros géneros alimentares e cuja percentagem de carne ou de produto à base de carne é mínima.\n\n3. Se o estabelecimento fabricar igualmente outros géneros alimentares que não contenham carne ou produto à base de carne os locais referidos no ponto 1, alíneas c), e), i), l), n) e o) do Capítulo I do Anexo A e as instalações referidas nas alíneas f), g), h) e k) da Directiva 77/99/CEE, necessários para os produtos referidos no artigo 1o, podem ser comuns com os locais e instalações destinados ao fabrico dos outros produtos que não contêm carne ou produto à base de carne. Todavia, deve ser garantido o acesso da autoridade competente definida no no 1, ponto 6, do artigo 3o da Directiva 77/99/CEE, a estes locais e instalações;\n\n4. Os Estados-membros zelarão por que o número de aprovação veterinária dos estabelecimentos ou das partes dos estabelecimentos aprovados nos termos da presente directiva, seja precedido do algarismo 8 seguido de um travessão, isto é, «8 -»;\n\n5. Para fins de comércio intracomunitário dos produtos referidos na presente directiva, o número de aprovação veterinária dos estabelecimentos que estão em conformidade com o disposto na Directiva 77/99/CEE pode ser completado pelo algarismo 8 seguido de um travessão (isto é «8 -»)."
+  },
+  "2d126ebda9f76df5": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nQuanto aos produtos que contenham outros géneros alimentares e com uma percentagem mínima de carne ou de produto à base de carne aplicar-se-á o disposto no Capítulo IV do Anexo A da Directiva 77/99/CEE; todavia, para aplicação do ponto 22, a autoridade competente decide dos períodos em que o controlo será efectuado. Para este efeito, a autoridade competente tem em conta períodos em que a carne fresca ou o produto à base de carne e os produtos que contêm outros géneros alimentares e cuja percentagem de carne ou de produto à base de carne seja mínima, são introduzidos, armazenados, manuseados e preparados nos estabelecimentos e o controlo só incide sobre a parte do estabelecimento que é objecto da aprovação prevista pela presente directiva.\n\nO produtor deve declarar à autoridade competente os períodos em que a carne fresca ou produtos à base de carne e produtos que contêm outros géneros alimentares com uma percentagem mínima de carne ou de produto à base de carne são introduzidos, armazenados, manuseados e preparados no seu estabelecimento."
+  },
+  "5fb728a8a0d6657e": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Para os estabelecimentos que produzirem produtos que contenham outros géneros alimentares e cuja percentagem de carne ou de produto à base de carne seja mínima, o certificado de inspecção sanitária previsto no no 1, ponto 10, do artigo 3o da Directiva 77/99/CEE não é exigido para esses produtos, na condição de a marca de inspecção sanitária ser completada pela junção do algarismo 8 seguido de um travessão (isto é «8 -») à frente do número de aprovação do estabelecimento.\n\n2. Os Estados-membros levam ao conhecimento dos outros Estados-membros e da Comissão os estabelecimentos que beneficiam do disposto no no 1."
+  },
+  "0b10da93dd7c96e1": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar a 1 de Janeiro de 1984 e transmitem à Comissão a respectiva informação."
+  },
+  "62773ffa9a61f507": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 12 de Abril de 1983.\n\nPela Comissão\n\nPoul DALSAGER\n\nMembro da Comissão\n\n(1) JO no L 26 de 31. 1. 1977, p. 85."
+  },
+  "7f89ae85f1ee61af": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1983L0201 — PT — 11.01.2006 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31983L0201) [DIRECTIVA DA COMISSÃO](http://publications.europa.eu/resource/celex/31983L0201) [de 12 de Abril de 1983](http://publications.europa.eu/resource/celex/31983L0201) [que estabelece derrogações à Directiva 77/99/CEE do Conselho para certos produtos que contêm outros géneros alimentares e com uma percentagem mínima de carne ou de produtos à base de carne](http://publications.europa.eu/resource/celex/31983L0201) [(83/201/CEE)](http://publications.europa.eu/resource/celex/31983L0201) (JO L 112, 28.4.1983, p.28)\n\n**revogado por:**\n\n- [Decisão da Comissão de 6 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006D0765) — L 320 — 50 — 18.11.2006"
+  }
+ }
+}

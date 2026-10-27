@@ -1,0 +1,569 @@
+---
+schema_version: '1.0'
+id: pt:dre:176714556:por
+title: Portaria n.º 322/2021
+short_title: null
+summary: Regulação da composição e do funcionamento das equipas de intervenção permanente (EIP), constituídas ao abrigo do
+  n.º 5 do artigo 17.º do Decreto-Lei n.º 247/2007, de 27 de junho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Administração Interna
+proposing_entity: null
+official_number: 322/2021
+official_date: null
+publication_date: '2021-12-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 251/2021, Série I de 2021-12-29
+  number: '251'
+  series: I
+  supplement: null
+  pages: 42 - 48
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/12/25100/0004200048.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-01-08'
+version_history:
+  file: portaria-322-2021.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2021-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-07-18'
+    amending: pt:dre:215716632:por
+    amending_title: Portaria n.º 210/2023
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+  - date: '2024-02-21'
+    amending: pt:dre:853137721:por
+    amending_title: Portaria n.º 60/2024
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+  - date: '2025-01-08'
+    amending: pt:dre:902208902:por
+    amending_title: Portaria n.º 7/2025/1
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/322/2021/p/cons/20250107/pt/html
+  oj: null
+  dre: '176714556'
+  dre_path: /dr/detalhe/portaria/322-2021-176714556
+  internal: pt:dre:176714556:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/322-2021-176714556
+  metadata_url: https://data.dre.pt/eli/port/322/2021/p/cons/20250107/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-176776512
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-176776512
+  retrieved_at: '2026-10-22T12:48:01Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: cdf0f8ba49ac63db193b41f3beb719c63b7d22294a9ec11f6906237d97fad169
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:48:01Z'
+  notes: 4 versão(ões); histórico completo em portaria-322-2021.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação Humanitária dos Bombeiros Voluntários
+- Proteção Civil
+- Prevenção de Incêndios
+- Formação Profissional
+- Comandante
+- Igualdade de Tratamento
+- Definição de Competências
+- Escola Nacional de Bombeiros
+- Infracção Disciplinar
+- Recrutamento de Pessoal
+- Bombeiro
+- Orgânica
+- Qualificação Profissional
+- Câmara Municipal
+- Contrato de Trabalho
+- Autoridade Nacional de Protecção Civil
+- Autoridade Nacional de Emergência e Proteção Civil
+- Equipa de Intervenção Permanente
+relationships:
+- type: amended_by
+  target: pt:dre:215716632:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632
+  date: '2023-07-17'
+- type: amended_by
+  target: pt:dre:853137721:por
+  label: Altera Artigo 9.º; Altera Artigo 17.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/60-2024-853137721
+  date: '2024-02-20'
+- type: amended_by
+  target: pt:dre:902208902:por
+  label: Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º;
+    Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902
+  date: '2025-01-07'
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/148-a/2018/05/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/148-a/2018/05/22/p/dre
+- type: cites
+  target: pt:dre:117142869:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/103/2018/11/29/p/dre
+- type: cites
+  target: pt:dre:190872:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/248/2012/11/21/p/dre
+- type: cites
+  target: pt:dre:279792:por
+  label: null
+  source: http://data.dre.pt/eli/port/75/2011/02/15/p/dre
+- type: cites
+  target: pt:dre:635841:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/2007/06/27/p/dre
+- type: cites
+  target: pt:dre:641436:por
+  label: null
+  source: http://data.dre.pt/eli/port/1358/2007/10/15/p/dre
+article_structure:
+  article_count: 21
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:48:01Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 322/2021
+
+Portaria n.º 322/2021
+
+de 29 de dezembro
+
+Sumário: Regulação da composição e do funcionamento das equipas de intervenção permanente (EIP), constituídas ao abrigo do n.º 5 do artigo 17.º do Decreto-Lei n.º 247/2007, de 27 de junho.
+
+O Programa do XXII Governo Constitucional prevê a definição de um modelo de resposta profissional permanente a riscos de proteção civil, o qual integra, entre outros elementos, as equipas de intervenção permanente (EIP) das associações de bombeiros voluntários.
+
+A profissionalização dos operacionais que, no âmbito do sistema de proteção civil, desempenham as missões cometidas aos corpos de bombeiros é feita em parceria entre as associações humanitárias de bombeiros, os municípios e a Autoridade Nacional de Emergência e Proteção Civil, garantindo prontidão na resposta às ocorrências que impliquem intervenções de socorro às populações e de defesa dos seus bens.
+
+As EIP têm consagração legal ao abrigo do n.º 5 do artigo 17.º do Decreto-Lei n.º 247/2007, de 27 de junho, na sua redação atual, que aprovou o regime jurídico dos corpos de bombeiros, o qual prevê que, nos municípios em que se justifique, os corpos de bombeiros voluntários ou mistos detidos pelas associações humanitárias de bombeiros podem dispor de equipas de intervenção permanente. A sua composição e funcionamento são atualmente definidos pela Portaria n.º 1358/2007, de 15 de outubro, na sua redação atual.
+
+O alargamento da cobertura territorial e o aumento do número de EIP constituídas, o qual ultrapassa as 550 e envolve quase três milhares de operacionais, assim como a experiência recolhida ao longo do tempo, demonstram a necessidade de atualização das regras de composição e funcionamento destas equipas.
+
+Em particular, importa adequar a idade de admissão aos limites atualmente previstos no regime jurídico aplicável aos bombeiros portugueses no território continental, fixado entre os 18 e os 45 anos de idade.
+
+Por outro lado, altera-se o âmbito de recrutamento dos chefes de equipa, passando a prever-se que possam desempenhar tais funções, em regra, apenas os oficiais bombeiros de 1.ª ou de 2.ª, da carreira de oficial de bombeiro, ou chefe ou subchefe, da carreira de bombeiro voluntário. O chefe de equipa deixa, portanto, de poder ser recrutado de entre os elementos de comando do corpo de bombeiros, a fim de serem evitados conflitos entre o exercício das funções de comando e de chefe de equipa.
+
+A recente constituição de um número significativo de EIP revelou a urgência na definição de critérios e procedimentos que reforcem a transparência e a eficácia dos respetivos processos. A presente portaria visa, assim, instituir um procedimento para a formalização da vontade das associações humanitárias de bombeiros e dos municípios em constituir novas EIP. Reforça-se, igualmente, as garantias do correto funcionamento das equipas, evitando-se a sua utilização em atividades estranhas ao âmbito da sua missão.
+
+Foi ouvido o Conselho Nacional de Bombeiros.
+
+Assim,
+
+Nos termos do disposto no n.º 5 do artigo 17.º do Decreto-Lei n.º 247/2007, de 27 de junho, alterado pelos Decretos-Leis n.os 248/2012, de 21 de novembro, e 103/2018, de 29 de novembro, manda o Governo, pela Secretária de Estado da Administração Interna, no uso da competência delegada a que se refere a alínea a) do n.º 1 do Despacho n.º 12094/2021, publicado no Diário da República, 2.ª série, n.º 239, de 13 de dezembro de 2021, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria regula a composição e o funcionamento das equipas de intervenção permanente (EIP), constituídas ao abrigo do n.º 5 do artigo 17.º do Decreto-Lei n.º 247/2007, de 27 de junho, na sua redação atual.
+
+###### Artigo 2.º — Missão
+
+1 - As EIP asseguram o cumprimento das missões que, no âmbito do sistema de proteção civil, estão cometidas aos corpos de bombeiros.
+
+2 - As EIP garantem em permanência:
+
+a) O combate a incêndios;
+
+b) O socorro às populações em caso de acidentes ou catástrofes;
+
+c) O socorro, em segunda intervenção, no âmbito da urgência pré-hospitalar;
+
+d) A minimização de riscos em situações de previsão ou ocorrência de acidente grave;
+
+e) A colaboração em outras atividades de proteção civil, no âmbito das funções cometidas aos corpos de bombeiros.
+
+3 - As EIP podem colaborar em atividades de proteção civil no âmbito das competências dos municípios que se enquadrem nas missões dos corpos de bombeiros, nomeadamente no âmbito da prevenção.
+
+4 - As EIP não podem efetuar transporte de doentes não urgentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632), em vigor a partir de 2023-07-18
+
+###### Artigo 3.º — Atividades complementares
+
+Sem prejuízo do disposto no artigo anterior, os bombeiros que integram as EIP podem desempenhar as seguintes atividades complementares:
+
+a) Tarefas de planeamento, organização e logística;
+
+b) Treino e preparação física;
+
+c) Instrução diária;
+
+d) Frequência de formação;
+
+e) Reconhecimento dos locais de risco, das zonas críticas e de infraestruturas e equipamentos;
+
+f) Limpeza e manutenção de equipamento, veículos e instalações;
+
+g) Participação em ações de formação e sensibilização.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632), em vigor a partir de 2023-07-18
+
+###### Artigo 4.º — Área de atuação
+
+1 - As EIP asseguram a prestação do socorro na área de atuação do respetivo corpo de bombeiros.
+
+2 - As EIP podem, em situação de reconhecida necessidade, atuar fora da área de atuação do respetivo corpo de bombeiros, podendo ainda integrar uma força conjunta com outras EIP ou corpos de bombeiros.
+
+3 - Para efeitos do disposto no número anterior, o comandante territorialmente competente da estrutura da Autoridade Nacional de Emergência e Proteção Civil (ANEPC) solicita a intervenção da EIP ao comandante do respetivo corpo de bombeiros.
+
+4 - Na situação prevista no n.º 2 e desde que a atuação da EIP seja fora da área do respetivo município, o comandante do corpo de bombeiros informa, de imediato, o presidente da câmara municipal.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 7/2025/1 - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902), em vigor a partir de 2025-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632), em vigor a partir de 2023-07-18
+
+###### Artigo 5.º — Especialização
+
+Sem prejuízo do disposto no artigo 2.º, podem ser constituídas EIP para o desempenho de missões especializadas no âmbito da proteção e socorro.
+
+###### Artigo 6.º — Constituição
+
+1 - As EIP são constituídas por protocolo celebrado entre a câmara municipal, a associação humanitária de bombeiros (AHB) detentora do corpo de bombeiros e a Autoridade Nacional de Emergência e Proteção Civil (ANEPC), homologado pelo membro do Governo responsável pela área da proteção civil.
+
+2 - Pode ser constituída mais do que uma EIP em cada corpo de bombeiros.
+
+3 - A constituição das EIP deve ter em consideração, nomeadamente:
+
+a) A cobertura geográfica no território nacional, em termos de EIP constituídas e em funcionamento;
+
+b) A área de atuação do corpo de bombeiros;
+
+c) A população abrangida pela área de atuação do corpo de bombeiros;
+
+d) A tipologia de riscos existentes na área do município;
+
+e) A existência de EIP no mesmo município;
+
+f) O número de ocorrências do corpo de bombeiros;
+
+g) Número de secções destacadas do corpo de bombeiros;
+
+h) A necessidade de resposta especializada em função da natureza de determinadas atividades ou riscos.
+
+4 - Os protocolos referidos no n.º 1 são válidos por três anos, renováveis, podendo qualquer outorgante manifestar, por escrito, oposição à renovação com uma antecedência mínima de 60 dias.
+
+5 - As EIP especializadas são constituídas por protocolo a celebrar entre a ANEPC, as AHB detentoras dos corpos de bombeiros e as demais entidades, públicas ou privadas, cujo envolvimento se mostre relevante para a prossecução das missões especializadas que lhes sejam atribuídas, homologado pelo membro do Governo responsável pela área da proteção civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 7/2025/1 - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902), em vigor a partir de 2025-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632), em vigor a partir de 2023-07-18
+
+###### Artigo 7.º — Procedimento de constituição
+
+1 - O membro do Governo responsável pela área da proteção civil determina, por despacho a emitir até 31 de janeiro, o número de EIP a constituir no mesmo ano civil.
+
+2 - O despacho previsto no número anterior pode prever a aplicação de critérios e prioridades específicos para a constituição das EIP.
+
+3 - O despacho previsto no n.º 1 é divulgado, pela ANEPC, no prazo de cinco dias úteis, a todas as AHB e câmaras municipais.
+
+4 - No prazo de 30 dias úteis, a contar da divulgação do despacho, as AHB comunicam à ANEPC a sua manifestação de interesse na constituição de uma EIP, acompanhada de declaração de concordância da respetiva câmara municipal.
+
+5 - Findo o prazo para a receção das manifestações de interesse a ANEPC, no prazo de 10 dias úteis, remete proposta ao membro do governo responsável pela proteção civil, que decide, no prazo de 10 dias úteis, quais as EIP a constituir, de acordo com os critérios previstos no n.º 3 do artigo anterior e os critérios e prioridades fixados no despacho previsto no n.º 1.
+
+6 - Caso as manifestações de interesse sejam superiores ao número de EIP a constituir e se, após análise dos critérios e prioridades referidos no número anterior, existirem manifestações de interesse em igualdade de circunstâncias, deve ser dada prioridade à constituição de EIP nos municípios com menor número de EIP constituídas.
+
+7 - Em casos excecionais devidamente fundamentados, pode o membro do Governo responsável pela área da proteção civil autorizar a constituição de EIP:
+
+a) Em número superior ao determinado no despacho previsto no n.º 1;
+
+b) Sem observância dos prazos previstos nos números anteriores.
+
+8 - A autorização da constituição de EIP especializadas depende de proposta fundamentada da ANEPC ao membro do Governo responsável pela área da proteção civil, acompanhada do projeto de protocolo e das declarações de concordância das entidades parte no protocolo.
+
+9 - A ANEPC é responsável pela preparação dos protocolos de constituição das EIP, a celebrar nos termos dos n.os 1 e 5 do artigo anterior.
+
+> Nota: [Artigo 3.º, Portaria n.º 210/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632) A alteração ao presente artigo não prejudica a constituição das EIP cujo procedimento de constituição se tenha iniciado ao abrigo da redação anterior. Em 2023, tendo em vista a constituição de EIP em 2024, para efeitos do disposto nos n.os 1 e 5 do presente artigo, devem considerar-se os prazos de, respetivamente, 10 de novembro e 30 de dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 7/2025/1 - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902), em vigor a partir de 2025-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632), em vigor a partir de 2023-07-18
+
+###### Artigo 8.º — Composição
+
+1 - As EIP são compostas por um chefe de equipa e por quatro bombeiros.
+
+2 - As EIP especializadas são constituídas por um número de bombeiros a determinar no protocolo de constituição, num mínimo de três e num máximo de seis.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632), em vigor a partir de 2023-07-18
+
+###### Artigo 9.º — Requisitos pessoais
+
+1 - Os candidatos a integrar as EIP devem:
+
+a) Integrar o quadro ativo do corpo de bombeiros onde a EIP é constituída, nas carreiras de oficial bombeiro e de bombeiro voluntário;
+
+b) Ter idade compreendida entre os 18 e os 50 anos;
+
+c) Ter aptidão física e psicológica para o desempenho da função;
+
+d) Ter a escolaridade mínima obrigatória, ao abrigo dos termos dos seguintes diplomas:
+
+i) Decreto-Lei n.º 538/79, de 31 de dezembro (seis anos de escolaridade, para os nascidos a partir de 1 de janeiro de 1967 até 31 de dezembro de 1980);
+
+ii) Lei n.º 46/86, de 14 de outubro (9.º ano de escolaridade, para os nascidos entre 1 de janeiro de 1981 e 31 de dezembro de 2002);
+
+iii) Lei n.º 85/2009, de 27 de agosto (12.º ano de escolaridade para os que no ano letivo 2009/2010 estiveram matriculados nos 1.º ou 2.º ciclos do ensino básico ou no 7.º ano de escolaridade, estando sujeitos ao limite de escolaridade obrigatória até aos 18 anos de idade; e para os nascidos a partir de 1 de janeiro de 1995).2 - O chefe de equipa deve ser oficial bombeiro de 1.ª ou de 2.ª, da carreira de oficial bombeiro, ou chefe ou subchefe, da carreira de bombeiro voluntário.
+
+3 - Em casos excecionais, o chefe de equipa pode ser recrutado de entre bombeiros de 1.ª, da carreira de bombeiro voluntário, mediante proposta fundamentada do respetivo comandante e autorização do presidente da ANEPC.
+
+4 - Os bombeiros que integram as EIP devem, preferencialmente, ser trabalhadores com vínculo laboral à AHB.
+
+5 - A aptidão física e psicológica referida na alínea c) do n.º 1 é aferida mediante a realização de avaliações médicas e de provas anuais, disponibilizadas pela ANEPC.
+
+6 - (Revogado.)
+
+7 - Nas EIP especializadas, o protocolo de constituição estabelece a categoria ou especialidade do chefe de equipa, podendo ainda prever requisitos pessoais distintos ou adicionais aos previstos no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 7/2025/1 - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902), em vigor a partir de 2025-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 60/2024 - Diário da República n.º 36/2024, Série I de 2024-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/60-2024-853137721), em vigor a partir de 2024-02-21
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632), em vigor a partir de 2023-07-18
+
+###### Artigo 10.º — Diversidade de género
+
+1 - A composição das EIP deve promover a diversidade de género.
+
+2 - Para efeitos do disposto no número anterior, a proporção de elementos de cada sexo na constituição de EIP não pode ser inferior a 40 %.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 7/2025/1 - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902), em vigor a partir de 2025-01-08
+
+###### Artigo 11.º — Qualificações especiais
+
+1 - Os elementos que integram as EIP devem estar habilitados com a formação adequada para cumprimento das missões previstas no n.º 2 do artigo 2.º
+
+2 - A composição das EIP deve garantir que dois dos seus elementos têm:
+
+a) Habilitação legal para conduzir veículos pesados;
+
+b) Curso de Tripulante de Ambulância de Socorro.
+
+3 - Nas EIP especializadas, o presidente da ANEPC fixa as qualificações especiais que os elementos devem ter, bem como o respetivo número, tendo em consideração a especialização da EIP e o tipo de veículos que lhe estão afetos.
+
+###### Artigo 12.º — Processo de recrutamento e seleção
+
+1 - A integração numa EIP é voluntária, dependendo de manifestação individual de interesse, realizada no âmbito do processo de recrutamento aberto pela direção da AHB.
+
+2 - A seleção dos elementos para as EIP compete à direção da respetiva AHB, mediante proposta fundamentada do comandante do corpo de bombeiros.
+
+3 - Caso as manifestações individuais de interesse não permitam cumprir os limiares mínimos previstos no n.º 2 do artigo 10.º, o comandante do corpo de bombeiros justifica tal impossibilidade, apresentando as diligências efetuadas no sentido da promoção da igualdade de género, e fundamenta a necessidade de funcionamento da EIP nas condições existentes.
+
+4 - Os critérios e o procedimento de seleção dos bombeiros que integram as EIP são fixados por despacho do presidente da ANEPC.
+
+5 - A integração nas EIP dos elementos selecionados que cumpram os critérios estabelecidos no artigo 9.º e sejam considerados aptos nas provas físicas, carece de homologação da ANEPC, através de despacho do responsável pela área dos bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 7/2025/1 - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902), em vigor a partir de 2025-01-08
+
+###### Artigo 13.º — Deveres
+
+1 - Os bombeiros que integram as EIP devem:
+
+a) Cumprir o serviço operacional da respetiva carreira;
+
+b) Frequentar ações anuais de formação específica para o desempenho das respetivas funções;
+
+c) Permanecer em prontidão nos quartéis durante o período considerado de serviço;
+
+d) Executar as missões que lhe forem determinadas.
+
+2 - As ações de formação referidas na alínea b) do número anterior são definidas pela ANEPC e ministradas pela Escola Nacional de Bombeiros ou por outras entidades formadoras certificadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 7/2025/1 - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902), em vigor a partir de 2025-01-08
+
+###### Artigo 14.º — Regime contratual
+
+1 - Os bombeiros que integram as EIP prestam trabalho:
+
+a) No caso dos trabalhadores com vínculo laboral prévio à AHB, ao abrigo de alteração ao contrato de trabalho existente;
+
+b) Nos demais casos, ao abrigo de um contrato de trabalho celebrado com a AHB, podendo ser celebrado contrato de trabalho a termo.
+
+2 - A remuneração dos elementos das EIP corresponde a um montante equivalente ao nível 6 da tabela remuneratória única da Administração Pública.
+
+3 - O exercício das funções de chefe de equipa confere o direito a auferir um adicional de 25 % sobre a remuneração de base.
+
+4 - O protocolo referido no n.º 1 do artigo 6.º estabelece as demais condições de trabalho dos elementos que integram as EIP.
+
+5 - No caso de rescisão do contrato de trabalho em virtude de denúncia do protocolo, nos termos do n.º 4 do artigo 6.º, a entidade denunciante assume os encargos com a compensação devida ao trabalhador.
+
+6 - O contrato de trabalho deve prever que o mesmo caduca caso o bombeiro deixe de cumprir os requisitos previstos no artigo 9.º, regressando à situação jurídico-funcional anterior à sua celebração.
+
+7 - Aos contratos de trabalho previstos no presente artigo aplica-se o disposto no Código do Trabalho.
+
+8 - O disposto no presente artigo aplica-se às EIP especializadas, salvo disposição em contrário no respetivo protocolo de constituição.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 7/2025/1 - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902), em vigor a partir de 2025-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632), em vigor a partir de 2023-07-18
+
+###### Artigo 15.º — Distintivo
+
+Os bombeiros que integram as EIP têm direito ao uso de distintivo próprio, exceto aquando do uso de equipamento de proteção individual.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632), em vigor a partir de 2023-07-18
+
+###### Artigo 16.º — Responsabilidade técnica e operacional
+
+1 - O comandante do corpo de bombeiros é o responsável técnico e operacional da EIP.
+
+2 - Compete ao comandante do corpo de bombeiros, nomeadamente:
+
+a) Elaborar as escalas de serviço;
+
+b) Assegurar a preparação física dos bombeiros que integram as EIP;
+
+c) Assegurar a formação e instrução, interna e externa;
+
+d) Efetuar o reconhecimento e a identificação de situações de risco;
+
+e) Garantir a participação em simulacros e exercícios;
+
+f) Elaborar e fazer cumprir os procedimentos operacionais;
+
+g) Efetuar a gestão operacional da EIP;
+
+h) Garantir a rapidez e qualidade de intervenção;
+
+i) Assegurar a disciplina na ação;
+
+j) Elaborar os planos e relatórios de atividades anuais, a aprovar pela respetiva AHB.
+
+3 - As infrações disciplinares são participadas pelo comandante diretamente à direção da AHB, para o competente procedimento disciplinar, nos termos da legislação aplicável.
+
+###### Artigo 17.º — Encargos
+
+1 - Os encargos com a remuneração dos elementos das EIP, com as contribuições para a segurança social, com os seguros de acidentes de trabalho e doenças profissionais e com a segurança e a saúde no trabalho são suportados, em partes iguais, pela ANEPC e pela câmara municipal respetiva.
+
+2 - O pagamento dos encargos referidos no número anterior é efetuado pela AHB.
+
+3 - Para efeitos do disposto no n.º 1:
+
+a) A ANEPC e a câmara municipal transferem para a AHB, mensalmente, as verbas correspondentes aos encargos devidos no mês seguinte;
+
+b) A AHB apresenta mensalmente à ANEPC e à câmara municipal, por via informática, os documentos de despesa comprovativos.
+
+4 - O protocolo a que se refere o n.º 1 do artigo 6.º pode prever que a parte dos encargos a suportar pela câmara municipal seja dividida, em proporção a definir no protocolo, entre a AHB e a câmara municipal, garantindo esta o cumprimento da obrigação da AHB, em caso de incumprimento.
+
+5 - Nas EIP especializadas, o protocolo de constituição estabelece quais as entidades que suportam os encargos referidos no n.º 1 e em que proporção, não podendo a ANEPC suportar mais de 50 % de tais encargos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 60/2024 - Diário da República n.º 36/2024, Série I de 2024-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/60-2024-853137721), em vigor a partir de 2024-02-21
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/210-2023-215716632), em vigor a partir de 2023-07-18
+
+###### Artigo 18.º — Suspensão de transferências
+
+1 - A transferência de verbas, prevista na alínea a) do n.º 3 do artigo anterior, pode ser suspensa caso:
+
+a) A EIP seja utilizada em missões não previstas no n.º 2 do artigo 2.º;
+
+b) O funcionamento da EIP não respeite o disposto no protocolo de constituição;
+
+c) A AHB utilize as verbas para fins diferentes dos previstos no n.º 1 do artigo anterior.
+
+d) Os prémios de seguros de acidentes de trabalho e doenças profissionais e/ou os encargos com a segurança e a saúde no trabalho sejam superiores aos valores normais de mercado.
+
+2 - A suspensão mantém-se até à regularização da situação, não podendo prolongar-se por mais de três meses.
+
+3 - Caso a situação não seja regularizada no prazo previsto no número anterior, o protocolo deve ser denunciado, sem lugar a indemnização por parte da ANEPC ou da câmara municipal.
+
+4 - A suspensão de transferência prevista no n.º 1 não afasta o dever de pagamento tempestivo da remuneração dos elementos das EIP, das contribuições para a segurança social, bem como dos encargos com seguros de acidentes de trabalho e doenças profissionais e com a segurança e a saúde no trabalho.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 7/2025/1 - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902), em vigor a partir de 2025-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 60/2024 - Diário da República n.º 36/2024, Série I de 2024-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/60-2024-853137721), em vigor a partir de 2024-02-21
+
+###### Artigo 19.º — Deveres de informação e de registo
+
+1 - As AHB detentoras de EIP devem informar a ANEPC e a respetiva câmara municipal sobre:
+
+a) As alterações na composição da EIP, logo que estas se efetivem;
+
+b) A atividade operacional da EIP, de acordo com informação do comandante do corpo de bombeiros;
+
+c) Os planos e relatórios de atividades anuais.
+
+2 - As AHB detentoras de EIP devem assegurar a atualização da informação constante do Recenseamento Nacional dos Bombeiros Portugueses relativamente aos elementos que integram as EIP.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 7/2025/1 - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902), em vigor a partir de 2025-01-08
+
+###### Artigo 20.º — Aplicação no tempo
+
+1 - O disposto na presente portaria aplica-se à constituição e funcionamento de novas EIP, bem como ao funcionamento das EIP já constituídas.
+
+2 - A composição das EIP rege-se pelas regras em vigor no momento da sua constituição, sem prejuízo de o disposto na presente portaria se aplicar às alterações da composição das EIP já constituídas.
+
+3 - [Revogado.]
+
+4 - O disposto no n.º 2 do artigo 10.º aplica-se às EIP a constituir após 1 de janeiro de 2025.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 7/2025/1 - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/7-2025-902208902), em vigor a partir de 2025-01-08
+
+###### Artigo 21.º — Norma revogatória
+
+São revogadas a Portaria n.º 1358/2007, de 15 de outubro, a Portaria n.º 75/2011, de 15 de fevereiro, e a Portaria n.º 148-A/2018, de 22 de maio.
+
+A Secretária de Estado da Administração Interna, Patrícia Alexandra Costa Gaspar, em 22 de dezembro de 2021.
+
+114846259

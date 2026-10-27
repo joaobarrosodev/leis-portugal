@@ -1,0 +1,527 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32019L0997:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L0997-20251209",
+ "dre_path": null,
+ "source_lastmod": "2025-12-09",
+ "versions": [
+  {
+   "date": "2019-06-20",
+   "future": false,
+   "celex": "32019L0997",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b8cef3679da5e863",
+    "226c39ffd0a88dad",
+    "9d92b0bac179fd3b",
+    "83c285eb5555b1cf",
+    "786ad045792aa2a6",
+    "f0f8c960bfdbce9b",
+    "7006e6871f44ad8c",
+    "c87d8c7dbb1b125e",
+    "87459aa5f2aacfac",
+    "5f25d8a7551ceaae",
+    "cdf6a085f1822017",
+    "6f1e65ada78d5a7c",
+    "1e7a0903d2eed348",
+    "49f9ac04d25e8613",
+    "6d9599503dfb603e",
+    "1885730b327bd1a3",
+    "4e77fe6e4d297fdf",
+    "b9600a2861c9b4c8",
+    "c3fa15394feb34ef",
+    "3a7bdc63ed2ac10f",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "d024ffac439644f9",
+    "fd71a98505f2a473",
+    "df0134d9da4c286a",
+    "34b0907f6c20c85d",
+    "fd33eed1cbcf3be5",
+    "4c440030d99055ab",
+    "804e70d07cf9fdc9",
+    "e44e9a3ff52f8d1f",
+    "1ab9f7c710ce6851"
+   ]
+  },
+  {
+   "date": "2025-12-09",
+   "future": false,
+   "celex": "02019L0997-20251209",
+   "acts": [
+    {
+     "id": "eu:celex:32024L1986:por",
+     "title": "DIRETIVA DELEGADA (UE) 2024/1986 DA COMISSÃO de 6 de maio de 2024",
+     "published": null,
+     "celex": "32024L1986"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 21.º — Destinatários",
+    "Adita ANEXO I",
+    "Adita FORMULÁRIO UNIFORME DE TVP DA UE",
+    "Adita 1. Modelo e dimensões",
+    "Adita 2. Página um: página de rosto",
+    "Adita 3. Página dois: aposição da vinheta uniforme de TVP da UE",
+    "Adita 4. Páginas três e quatro: informações",
+    "Adita 5. Páginas cinco e seis: vistos e carimbos de entrada/saída",
+    "Adita 6. Número do formulário uniforme de TVP da UE",
+    "Adita ANEXO II",
+    "Adita VINHETA UNIFORME DE TVP DA UE",
+    "Adita Características da vinheta uniforme de TVP da UE",
+    "Adita Secções a preencher",
+    "Adita Informações de leitura ótica",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "09518efa9a92fe53",
+    "226c39ffd0a88dad",
+    "9d92b0bac179fd3b",
+    "83c285eb5555b1cf",
+    "786ad045792aa2a6",
+    "f0f8c960bfdbce9b",
+    "7006e6871f44ad8c",
+    "c87d8c7dbb1b125e",
+    "03251ca0e54414b7",
+    "5f25d8a7551ceaae",
+    "cdf6a085f1822017",
+    "835f8839b243aca2",
+    "1e7a0903d2eed348",
+    "49f9ac04d25e8613",
+    "6d9599503dfb603e",
+    "a634e7f940221e5f",
+    "4e77fe6e4d297fdf",
+    "b9600a2861c9b4c8",
+    "c3fa15394feb34ef",
+    "3a7bdc63ed2ac10f",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "d024ffac439644f9",
+    "fd71a98505f2a473",
+    "62ff8f0808d6cd17",
+    "34b0907f6c20c85d",
+    "fd33eed1cbcf3be5",
+    "4c440030d99055ab",
+    "804e70d07cf9fdc9",
+    "689270e7e0eeaf0b",
+    "d664376e2a8dcecd",
+    "47a032089d0b6415",
+    "e5accfc83feb1589",
+    "d59b7818b0f9c0df",
+    "9fee68a9af12f8db",
+    "0b77b62f96079d3f",
+    "a122c6903f3ca0d9",
+    "4048e32ebaf246e9",
+    "852174729551523b",
+    "fc4ad616ac823f53",
+    "0c1761c7bbab1c3e",
+    "21ebba21a3733356",
+    "0ebd8e31e3edfc76"
+   ]
+  }
+ ],
+ "fragments": {
+  "b8cef3679da5e863": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de junho de 2019\n\nque cria um título de viagem provisório da UE e que revoga a Decisão 96/409/PESC\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 23.º, segundo parágrafo,\n\nTendo em conta a proposta da Comissão Europeia,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2019163PT.01000101-E0001),\n\nDeliberando de acordo com um processo legislativo especial,\n\nConsiderando o seguinte:\n\n(1) A cidadania da União é o estatuto fundamental dos nacionais dos Estados-Membros. Esta confere aos cidadãos da União o direito de beneficiarem, no território de um país terceiro em que o Estado-Membro de que são nacionais não se encontre representado, da proteção das autoridades diplomáticas e consulares de outro Estado-Membro, nas mesmas condições que os nacionais desse Estado-Membro. A Diretiva (UE) 2015/637 do Conselho [([^2])](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2019163PT.01000101-E0002) dá efeito a esse direito, estabelecendo as medidas de cooperação e coordenação necessárias para facilitar a proteção consular dos cidadãos da União não representados.\n\n(2) A Diretiva (UE) 2015/637 refere-se aos títulos de viagem provisórios como um tipo de assistência consular a prestar pelas embaixadas e pelos consulados dos Estados-Membros aos cidadãos não representados da União. Um título de viagem provisório é um título de viagem única que autoriza o seu titular a regressar ao seu país de origem, ou, excecionalmente, a viajar para outro destino, no caso de não ter acesso aos seus documentos de viagem normais, por exemplo, por terem sido furtados ou extraviados. Outro destino poderia ser, por exemplo, um país vizinho ou igualmente próximo, em que o Estado-Membro da nacionalidade do cidadão não representado tenha uma embaixada ou um consulado.\n\n(3) A Decisão 96/409/PESC dos Representantes dos Governos dos Estados-Membros, reunidos no Conselho [([^3])](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2019163PT.01000101-E0003) criou um título de viagem provisório comum, a emitir pelos Estados-Membros para os cidadãos da União nos locais onde o Estado-Membro de que são nacionais não tem representação diplomática ou consular permanente. É agora necessário atualizar as regras dessa decisão e estabelecer um formulário modernizado e mais seguro para o título de viagem provisório da UE (a seguir designado «TVP da UE»). Deverá ser assegurada a coerência entre, por um lado, as condições específicas e o processo de emissão dos TVP da UE e, por outro, as regras gerais sobre proteção consular estabelecidas na Diretiva (UE) 2015/637, uma vez que essa diretiva, incluindo o procedimento financeiro previsto no seu artigo 14.º, é aplicável à emissão de TVP da UE para cidadãos não representados. A presente diretiva deverá estabelecer regras adicionais a aplicar juntamente com as estabelecidas na Diretiva (UE) 2015/637, se necessário.\n\n(4) A seu pedido, deverá ser emitido um TVP da UE para o cidadão não representado num país terceiro cujo passaporte ou documento de viagem tenha sido extraviado, furtado ou destruído, ou que não possa ser obtido num prazo razoável, por exemplo, para recém-nascidos nascidos durante a viagem, ou para pessoas cujos documentos expiraram e não possam ser substituídos facilmente pelo Estado-Membro da nacionalidade. Deverá ser emitido um TVP da UE logo que o Estado-Membro que presta assistência ao cidadão não representado tenha recebido do Estado-Membro da nacionalidade a confirmação da nacionalidade e da identidade do cidadão.\n\n(5) Uma vez que o extravio de um passaporte ou de documentos de viagem pode causar importantes problemas aos cidadãos não representados em países terceiros, é necessário estabelecer um procedimento simplificado para a cooperação e coordenação entre o Estado-Membro que presta assistência e o Estado-Membro da nacionalidade do cidadão não representado. Os Estados-Membros deverão assegurar que as consultas sejam realizadas com a maior celeridade possível, normalmente no prazo de alguns dias úteis. Ao mesmo tempo, é necessário manter uma flexibilidade suficiente em casos excecionais. O Estado-Membro que presta assistência deverá apenas ser autorizado a emitir um TVP da UE sem consulta prévia do Estado-Membro da nacionalidade em casos de extrema urgência. Antes de o fazerem, os Estados-Membros deverão, por norma, ter esgotado todos os meios de comunicação disponíveis com o Estado-Membro da nacionalidade. Por exemplo, os Estados-Membros deverão, em primeiro lugar, tentar transmitir parte das informações pertinentes, tais como o nome, a nacionalidade e a data de nascimento do requerente. Nessas situações, o Estado-Membro que presta assistência deverá comunicar o mais rapidamente possível ao Estado-Membro da nacionalidade a assistência concedida em seu nome, para assegurar que o Estado-Membro da nacionalidade esteja devidamente informado.\n\n(6) Por razões de segurança, os beneficiários dos TVP da UE deverão restituí-los assim que tiverem regressado em segurança aos seus países de origem, por exemplo aos guardas de fronteira ou às autoridades responsáveis pela emissão de passaportes. Além disso, deverá ser armazenada junto da autoridade emissora do Estado-Membro que presta assistência uma cópia ou digitalização de cada TVP da UE emitido e deverá ser enviada outra cópia ou digitalização ao Estado-Membro da nacionalidade do beneficiário. Os TVP da UE restituídos e as cópias armazenadas deverão ser destruídos o mais rapidamente possível.\n\n(7) Os cidadãos não representados deverão poder requerer um TVP da UE na embaixada ou no consulado de qualquer Estado-Membro. Conforme previsto na Diretiva (UE) 2015/637, os Estados-Membros têm a possibilidade de celebrar acordos de ordem prática para efeitos de partilha de responsabilidades quanto à emissão de TVP da UE em benefício de cidadãos não representados. Os Estados-Membros que recebem pedidos de TVP da UE deverão avaliar caso a caso se é conveniente emitir os TVP da UE ou se o caso deverá ser transferido para a embaixada ou o consulado designado como competente nos termos de um eventual acordo em vigor.\n\n(8) Em conformidade com o seu objetivo de título de viagem único, o TVP da UE deverá ser válido durante o período necessário para efetuar essa viagem. Tendo em conta as possibilidades e a rapidez das viagens atuais, a validade de um TVP da UE não deverá, salvo em circunstâncias excecionais, exceder 15 dias de calendário.\n\n(9) Para além da emissão de TVP da UE para cidadãos não representados em países terceiros, a presente diretiva não deverá impedir os Estados-Membros de emitirem TVP da UE noutras situações, tendo em conta o direito e as práticas nacionais. Os Estados-Membros deverão igualmente poder emitir TVP da UE para os seus próprios nacionais, para cidadãos da União não representados no território dos Estados-Membros e para cidadãos de outro Estado-Membro representados no país onde procuram obter um TVP da UE. Ao fazê-lo, os Estados-Membros deverão tomar as medidas necessárias para impedir o abuso e a fraude. No entanto, os Estados-Membros poderão também decidir não emitir TVP da UE em tais situações.\n\n(10) Nos termos do artigo 5.º da Diretiva (UE) 2015/637 e com vista a garantir a efetividade do direito consagrado no artigo 20.º, n.º 2, alínea c), do Tratado sobre o Funcionamento da União Europeia (TFUE) e o direito ao respeito pela vida privada e familiar reconhecido no artigo 7.º da Carta dos Direitos Fundamentais da União Europeia (a seguir designada a «Carta»), e tendo em conta o direito e as práticas nacionais, o Estado-Membro que presta assistência deverá poder emitir TVP da UE para membros da família que não sejam cidadãos da União, que acompanhem cidadãos da União, sempre que esses membros da família sejam residentes legais num Estado-Membro, tendo em conta as circunstâncias específicas de cada caso.\n\n(11) Certos membros da família que não são cidadãos da União poderão ser obrigados a obter, além do TVP da UE, vistos para regressar ao território da União. Nos termos do artigo 5.º, n.º 2, da Diretiva 2004/38/CE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2019163PT.01000101-E0004), os membros da família que não sejam nacionais de um Estado-Membro só são obrigados a possuir um visto de entrada nos termos do Regulamento (UE) 2018/1806 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2019163PT.01000101-E0005) ou, se for caso disso, da legislação nacional. A posse de um cartão de residência válido, a que se refere o artigo 10.º da Diretiva 2004/38/CE, isenta esses membros da família da obrigação de visto. Cabe aos Estados-Membros conceder a essas pessoas todas as facilidades para a obtenção dos vistos necessários. Esses vistos devem ser emitidos gratuitamente o mais rapidamente possível e por tramitação acelerada.\n\n(12) O TVP da UE deverá consistir num formulário uniforme do TVP da UE e numa vinheta uniforme do TVP da UE. O TVP da UE deverá incluir todas as informações necessárias e satisfazer normas técnicas de elevado nível, nomeadamente em matéria de salvaguardas contra a contrafação e a falsificação. Deverá ser custo-eficaz, adequado à utilização por todos os Estados-Membros e incluir elementos de segurança reconhecíveis universalmente e visíveis distintamente a olho nu.\n\n(13) O formulário uniforme do TVP da UE deverá incluir páginas em branco, para que os vistos, se necessário, possam ser apostos diretamente no formulário. Esse formulário uniforme deverá receber a vinheta uniforme do TVP da UE que contém as informações pertinentes sobre o beneficiário. A vinheta uniforme do TVP da UE deverá basear-se no modelo-tipo de visto previsto no Regulamento (CE) n.º 1683/95 do Conselho [([^6])](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2019163PT.01000101-E0006) e deverá conter elementos de segurança semelhantes. A vinheta uniforme do TVP da UE deverá ser preenchida na embaixada ou no consulado do Estado-Membro que presta assistência utilizando as mesmas impressoras dos vistos. Em caso de motivos técnicos de força maior, a vinheta uniforme do TVP da UE deverá poder ser preenchida manualmente. A fim de evitar uma aceitação reduzida e riscos de segurança, o preenchimento manual deverá ser limitado o mais possível e só deverá ocorrer caso não seja possível emitir a vinheta uniforme de TVP da UE preenchida através de uma impressora num prazo razoável.\n\n(14) A fim de aumentar a segurança e a rapidez do processo de emissão, a imagem facial do requerente de TVP da UE deverá ser recolhida ao vivo na embaixada ou no consulado por uma câmara digital ou um meio equivalente. Só poderá ser utilizada uma fotografia quando tal não seja exequível, depois de a embaixada ou o consulado ter assegurado que a fotografia corresponde ao requerente. A mesma imagem facial ou fotografia deverá então ser transferida para o Estado-Membro da nacionalidade para confirmação da identidade do requerente.\n\n(15) A presente diretiva deverá estabelecer especificações que não deverão ser mantidas secretas. Se necessário, essas especificações poderão ter de ser completadas por outras especificações secretas para evitar a contrafação e a falsificação.\n\n(16) A fim de garantir que as informações sobre as especificações técnicas adicionais não sejam disponibilizadas a mais pessoas do que o necessário, cada Estado-Membro deverá designar um organismo responsável pela produção do modelo e da vinheta uniformes de TVP da UE. Por motivos de eficiência, os Estados-Membros são incentivados a designar um único organismo. Os Estados-Membros deverão poder alterar o organismo por eles designado, se necessário. Por razões de segurança, cada Estado-Membro deverá comunicar o nome desse organismo à Comissão e aos demais Estados-Membros.\n\n(17) A fim de responder à necessidade de adaptar as especificações do formulário e da vinheta uniformes do TVP da UE em resposta ao progresso técnico, bem como de alterar o Estado-Membro responsável pelo fornecimento de exemplares para a notificação do modelo uniforme do TVP da UE a países terceiros, o poder de adotar atos nos termos do artigo 290.º do TFUE deverá ser delegado na Comissão. É particularmente importante que a Comissão proceda às consultas adequadas durante os trabalhos preparatórios, inclusive ao nível de peritos, e que essas consultas sejam conduzidas de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre Legislar Melhor [([^7])](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2019163PT.01000101-E0007). Em particular, a fim de assegurar a igualdade de participação na preparação dos atos delegados, o Conselho recebe todos os documentos ao mesmo tempo que os peritos dos Estados-Membros, e os respetivos peritos têm sistematicamente acesso às reuniões dos grupos de peritos da Comissão que tratem da preparação dos atos delegados.\n\n(18) A fim de assegurar condições uniformes para a execução da presente diretiva no que respeita às eventuais especificações técnicas adicionais e aos indicadores para o acompanhamento da aplicação da presente diretiva, deverão ser atribuídas competências de execução à Comissão. Essas competências deverão ser exercidas nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho [([^8])](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntr8-L_2019163PT.01000101-E0008).\n\n(19) A fim de aumentar a aceitação dos TVP da UE, as delegações da União em países terceiros deverão notificar o modelo uniforme de TVP da UE e as eventuais modificações posteriores das autoridades pertinentes dos países terceiros, apresentar relatórios sobre a aceitação do TVP da UE pelos países terceiros e promover a sua utilização. Os exemplares utilizados para esse fim deverão ser fornecidos ao Serviço Europeu para a Ação Externa (SEAE) por um Estado-Membro, com o apoio da Comissão.\n\n(20) A presente diretiva não deverá afetar disposições nacionais mais favoráveis na medida em que sejam compatíveis com ela.\n\n(21) O Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho [([^9])](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntr9-L_2019163PT.01000101-E0009) deverá aplicar-se ao tratamento de dados pessoais efetuado pelos Estados-Membros em aplicação da presente diretiva. O sistema de TVP da UE exige o tratamento dos dados pessoais necessários para verificar a identidade do requerente, imprimir a vinheta uniforme de TVP da UE e facilitar a viagem do titular dos dados em causa. É necessário especificar melhor as garantias aplicáveis aos dados pessoais tratados, tais como o período máximo de conservação dos dados pessoais recolhidos. É necessário um prazo máximo de conservação de 180 dias para o Estado-Membro que presta assistência e de dois anos para o Estado-Membro da nacionalidade, a fim de assegurar a cobrança das taxas aplicáveis e evitar eventuais abusos ou outras atividades fraudulentas. A supressão dos dados pessoais dos requerentes não deverá afetar a capacidade de os Estados-Membros acompanharem a aplicação da presente diretiva.\n\n(22) Em conformidade com os pontos 22 e 23 do Acordo Interinstitucional de 13 de abril de 2016 sobre Legislar Melhor, a Comissão deverá avaliar a presente diretiva, em especial com base nas informações recolhidas através dos mecanismos de acompanhamento específicos, a fim de avaliar os efeitos da presente diretiva e a necessidade de medidas adicionais. Essa avaliação poderá igualmente ter em conta os futuros desenvolvimentos técnicos que permitam a introdução de títulos de viagem provisórios em formato eletrónico (eTVP).\n\n(23) Atendendo a que o objetivo da presente diretiva, a saber o estabelecimento das medidas necessárias para facilitar a proteção consular de cidadãos não representados através da emissão de títulos de viagem provisórios seguros e amplamente aceites, não pode ser suficientemente alcançado pelos Estados-Membros, dada a necessidade de evitar a fragmentação e a consequente quebra na aceitação dos títulos de viagem provisórios emitidos pelos Estados-Membros a favor de cidadãos não representados, mas pode ser mais bem alcançado ao nível da União, a União pode tomar medidas, em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia (TUE). Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente diretiva não excede o necessário para alcançar esses objetivos.\n\n(24) A presente diretiva destina-se a promover a proteção consular, tal como garantida pelo artigo 46.º da Carta. A presente diretiva respeita os direitos fundamentais e observa os princípios reconhecidos nomeadamente pela Carta, incluindo o direito ao respeito pela vida privada e familiar e o direito à proteção dos dados pessoais. A presente diretiva deverá ser interpretada e aplicada em conformidade com esses direitos e princípios.\n\n(25) A Decisão 96/409/PESC deverá ser revogada,\n\nADOTOU A PRESENTE DIRETIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "9d92b0bac179fd3b": {
+   "fragment_id": "OBJETO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJETO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJETO E DEFINIÇÕES"
+  },
+  "83c285eb5555b1cf": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente diretiva estabelece regras sobre as condições e o procedimento para os cidadãos não representados em países terceiros obterem um título de viagem provisório da UE (a seguir designado «TVP da UE») e cria um modelo uniforme para esses documentos."
+  },
+  "786ad045792aa2a6": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente diretiva, entende-se por:\n\n1) «Cidadão não representado», o cidadão que tem a nacionalidade de um Estado-Membro que não se encontra representado num país terceiro, como previsto no artigo 6.º da Diretiva (UE) 2015/637;\n\n2) «Requerente», a pessoa que solicita um TVP da UE;\n\n3) «Beneficiário», a pessoa a favor de quem é emitido um TVP da UE;\n\n4) «Estado-Membro que presta assistência», o Estado-Membro que recebe um pedido de TVP da UE;\n\n5) «Estado-Membro da nacionalidade», o Estado-Membro de que o requerente declara ser nacional;\n\n6) «Dias úteis», todos os dias, com exceção dos feriados ou fins de semana observados pela autoridade requerida para agir."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "7006e6871f44ad8c": {
+   "fragment_id": "TÍTULO DE VIAGEM PROVISÓRIO DA UE",
+   "type": "divisao",
+   "heading": "TÍTULO DE VIAGEM PROVISÓRIO DA UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TÍTULO DE VIAGEM PROVISÓRIO DA UE"
+  },
+  "c87d8c7dbb1b125e": {
+   "fragment_id": "Artigo 3.º — Título de viagem provisório da UE",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Título de viagem provisório da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Título de viagem provisório da UE\n\n1. O TVP da UE é um documento de viagem que é emitido por um Estado-Membro a favor de um cidadão não representado num país terceiro para uma viagem única para o Estado-Membro da nacionalidade ou residência do cidadão, tal como solicitado pelo cidadão, ou, excecionalmente, para outro destino. Os Estados-Membros podem igualmente decidir emitir TVP da UE a favor de outros beneficiários, nos termos do artigo 7.º.\n\n2. Os Estados-Membros devem emitir TVP da UE a favor de cidadãos não representados em países terceiros cujos passaportes ou documentos de viagem tenham sido extraviados, furtados ou destruídos, ou que não possam ser obtidos num prazo razoável, pelo procedimento previsto no artigo 4.º."
+  },
+  "87459aa5f2aacfac": {
+   "fragment_id": "Artigo 4.º — Procedimento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento\n\n1. Quando um Estado-Membro receber um pedido de TVP da UE, deve, com a maior brevidade possível e o mais tardar dois dias úteis após receção do pedido, consultar o Estado-Membro da nacionalidade, nos termos do artigo 10.º, n.º 2, da Diretiva (UE) 2015/637, para efeitos de verificação da nacionalidade e da identidade do requerente.\n\n2. O Estado-Membro que presta assistência comunica ao Estado-Membro da nacionalidade todas as informações relevantes, incluindo:\n\na) O apelido e o(s) nome(s) próprio(s) do requerente, a nacionalidade, a data de nascimento e o sexo;\n\nb) A imagem facial do requerente recolhida pelas autoridades do Estado-Membro que presta assistência no momento da apresentação do pedido ou, apenas se tal não for exequível, uma fotografia digitalizada ou digital do requerente, com base nas normas estabelecidas na parte 3 do documento 9303 da Organização da Aviação Civil Internacional (OACI) sobre os documentos de viagem de leitura ótica, (sétima edição, 2015) (a seguir designado «documento 9303 da OACI»);\n\nc) Uma cópia ou uma digitalização de todos os meios de identificação disponíveis, tais como um bilhete de identidade ou uma carta de condução, e, sendo o caso, o tipo e o número do documento substituído e o número de registo nacional ou da segurança social.\n\n3. Com a maior brevidade possível, e o mais tardar três dias úteis após a receção da informação referida no n.º 2, o Estado-Membro da nacionalidade deve responder à consulta nos termos do artigo 10.º, n.º 3, da Diretiva (UE) 2015/637 e confirmar se o requerente é seu nacional. Se o Estado-Membro da nacionalidade não puder responder no prazo de três dias úteis, deve, durante esse período, informar o Estado-Membro que presta assistência e fornecer uma previsão de quando é de esperar a resposta. O Estado-Membro que presta assistência informa o requerente em conformidade. Após a confirmação da nacionalidade do requerente, o Estado-Membro que presta assistência fornece ao requerente o TVP da UE o mais rapidamente possível e, o mais tardar, no prazo de dois dias úteis a contar da receção da confirmação.\n\n4. Se o Estado-Membro da nacionalidade se opuser a que seja emitido um TVP da UE a um dos seus nacionais, informa o Estado-Membro que presta assistência. Nesse caso, o TVP da UE não é emitido e o Estado-Membro da nacionalidade assume a responsabilidade pela prestação de proteção consular ao seu cidadão, em conformidade com as suas obrigações e práticas legais. O Estado-Membro que presta assistência, em estreita consulta com o Estado-Membro da nacionalidade, informa o requerente em conformidade.\n\n5. Em casos justificados, os Estados-Membros podem ultrapassar os prazos previstos nos n.^os^ 1 e 3.\n\n6. Em situações de extrema urgência, o Estado-Membro que presta assistência pode emitir um TVP da UE sem consulta prévia do Estado-Membro da nacionalidade. Antes de o fazer, o Estado-Membro que presta assistência deve ter esgotado todos os meios de comunicação disponíveis com o Estado-Membro da nacionalidade. O Estado-Membro que presta assistência notifica o mais rapidamente possível o Estado-Membro da nacionalidade de que foi emitido um TVP da UE e da identidade do respetivo beneficiário. Essa notificação deve conter todos os dados que foram incluídos no TVP da UE.\n\n7. A autoridade do Estado-Membro que emite o TVP da UE deve conservar uma cópia ou digitalização de cada TVP da UE emitido e enviar outra cópia ou digitalização ao Estado-Membro da nacionalidade do requerente.\n\n8. É solicitado ao beneficiário de um TVP da UE que o restitua, independentemente de ter caducado, aquando da chegada ao destino final.\n\n9. A Comissão pode adotar atos de execução que estabeleçam um formulário normalizado de pedido de TVP da UE que contenha informações sobre a obrigação de restituição do TVP da UE à chegada. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2."
+  },
+  "5f25d8a7551ceaae": {
+   "fragment_id": "Artigo 5.º — Disposições financeiros",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disposições financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições financeiros\n\n1. O Estado-Membro que presta assistência cobra ao requerente as mesmas taxas que cobra aos seus próprios nacionais pela emissão de documentos nacionais de emergência.\n\n2. O Estado-Membro que presta assistência pode renunciar à cobrança de taxas em geral ou em situações específicas por si determinadas.\n\n3. Se os requerentes não puderem pagar ao Estado-Membro que presta assistência as taxas aplicáveis quando apresentarem o seu pedido, devem comprometer-se a reembolsá-las ao Estado-Membro da nacionalidade utilizando o formulário tipo constante do anexo I da Diretiva (UE) 2015/637. Nesses casos, são aplicáveis o artigo 14.º, n.º 2, e o artigo 15.º da Diretiva (UE) 2015/637."
+  },
+  "cdf6a085f1822017": {
+   "fragment_id": "Artigo 6.º — Validade",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Validade\n\nO TVP da UE é válido pelo período necessário para completar a viagem para que foi emitido. No cálculo desse período devem ser tidos em conta as paragens noturnas e o tempo necessário para as ligações. O prazo de validade deve incluir um período de tolerância adicional de dois dias. Salvo em circunstâncias excecionais, a validade de um TVP da UE não pode exceder 15 dias de calendário."
+  },
+  "6f1e65ada78d5a7c": {
+   "fragment_id": "Artigo 7.º — Emissão facultativa do TVP da UE",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Emissão facultativa do TVP da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Emissão facultativa do TVP da UE\n\n1. Quando o passaporte ou o documento de viagem do requerente tenha sido extraviado, furtado ou destruído, ou não possa ser obtido num prazo razoável, um Estado-Membro pode emitir um TVP da UE em benefício:\n\na) Dos seus próprios nacionais;\n\nb) Dos cidadãos da União não representados no território dos Estados-Membros, incluindo os países e territórios ultramarinos a que se refere o artigo 355.º, n.º 2, primeiro parágrafo, do TFUE;\n\nc) Dos cidadãos de outro Estado-Membro que esteja representado no país em que procuram obter o TVP da UE e caso existam acordos para esse efeito entre os Estados-Membros em causa;\n\nd) Dos membros da família que não sejam cidadãos da União, que acompanhem cidadãos da União não representados num país terceiro ou cidadãos da União referidos nas alíneas a), b) ou c), se esses membros da família forem residentes legais num Estado-Membro, sem prejuízo dos requisitos aplicáveis em matéria de vistos;\n\ne) De outras pessoas a quem esse Estado-Membro ou outro Estado-Membro esteja obrigado, por força do direito internacional ou nacional, a conceder proteção e que residam legalmente num Estado-Membro.\n\n2. Se um Estado-Membro emitir um TVP da UE nos termos:\n\na) Do n.º 1, alíneas b) ou c), do presente artigo, a consulta prevista no artigo 4.º deve incluir o Estado-Membro da nacionalidade dos cidadãos da União;\n\nb) Do n.º 1, alínea d), do presente artigo, a consulta prevista no artigo 4.º deve incluir o Estado-Membro da nacionalidade do cidadão da União acompanhado e, se necessário, o Estado-Membro de residência do membro da família. Em derrogação do artigo 4.º, n.º 6, não é emitido um TVP da UE sem consulta prévia do Estado-Membro da nacionalidade do cidadão da União acompanhado e, se necessário, do Estado-Membro da residência do membro da família;\n\nc) Do n.º 1, alínea e), do presente artigo, a consulta prevista no artigo 4.º deve incluir o Estado-Membro obrigado, nos termos do direito internacional ou nacional, a conceder proteção ao requerente que deve ser o país de destino indicado no TVP da UE."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "49f9ac04d25e8613": {
+   "fragment_id": "MODELO UNIFORME DE TVP DA UE",
+   "type": "divisao",
+   "heading": "MODELO UNIFORME DE TVP DA UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODELO UNIFORME DE TVP DA UE"
+  },
+  "6d9599503dfb603e": {
+   "fragment_id": "Artigo 8.º — Modelo uniforme de TVP da UE",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Modelo uniforme de TVP da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Modelo uniforme de TVP da UE\n\n1. Os TVP da UE são compostos por um formulário uniforme de TVP da UE e uma vinheta uniforme de TVP da UE. Esse formulário e essa vinheta devem ser conformes com as especificações constantes dos anexos I e II e com as especificações técnicas adicionais estabelecidas nos termos do artigo 9.º.\n\n2. Ao preencher a vinheta uniforme do TVP da UE, devem ser preenchidas as secções previstas no anexo II e a zona de leitura ótica, em conformidade com o documento 9303 da OACI.\n\n3. A fim de atingir os objetivos da presente diretiva, nomeadamente assegurar o exercício do direito à proteção consular com base num modelo de TVP da UE moderno e seguro, a Comissão está habilitada a adotar atos delegados nos termos do artigo 11.º, para alterar os anexos I e II, bem como as referências às normas estabelecidas pela OACI a que se referem o n.º 2 do presente artigo e o artigo 4.º, n.º 2, alínea b), em resposta ao progresso técnico.\n\n4. Os Estados-Membros podem acrescentar eventuais menções nacionais necessárias na secção «averbamentos» da vinheta uniforme do TVP da UE como referido no anexo II, ponto 9. As menções nacionais não podem duplicar as secções previstas no anexo II.\n\n5. Todas as menções na vinheta uniforme de TVP da UE, incluindo a imagem facial, devem ser impressas. Não podem ser introduzidas alterações manuais na vinheta uniforme de TVP da UE impressa.\n\nExcecionalmente, por motivos técnicos de força maior, as vinhetas uniformes do TVP da UE podem ser preenchidas manualmente e pode-lhes ser aposta uma fotografia. Em tais casos, a fotografia deve ter uma proteção adicional contra a substituição de fotografia. Não podem ser introduzidas alterações na vinheta uniforme de TVP da UE preenchida à mão.\n\n6. Se for detetado um erro na vinheta uniforme de TVP da UE antes de esta ser aposta no formulário uniforme de TVP da UE, a vinheta uniforme de TVP da UE deve ser anulada e destruída. Se for detetado um erro depois de a vinheta uniforme de TVP da UE já estar aposta no formulário uniforme de TVP da UE, são ambos anulados e destruídos, e deve ser produzida uma nova vinheta uniforme de TVP da UE.\n\n7. As vinhetas uniformes de TVP da UE impressas com as secções preenchidas são apostas no formulário uniforme de TVP da UE, em conformidade com o anexo I.\n\n8. Os Estados-Membros asseguram a armazenagem à prova de furto dos formulários e das vinhetas uniformes de TVP da UE em branco."
+  },
+  "1885730b327bd1a3": {
+   "fragment_id": "Artigo 9.º — Especificações técnicas adicionais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Especificações técnicas adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Especificações técnicas adicionais\n\n1. A Comissão adota atos de execução com especificações técnicas adicionais para os TVP da UE em relação aos seguintes aspetos:\n\na) A forma, o modelo e as cores da vinheta e do formulário uniformes de TVP da UE;\n\nb) Os requisitos aplicáveis aos materiais e às técnicas de impressão do formulário uniforme do TVP da UE;\n\nc) Os elementos e requisitos de segurança, incluindo normas reforçadas contra a contrafação e a falsificação;\n\nd) Outras regras a respeitar no preenchimento e na emissão do TVP da UE.\n\nOs referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2.\n\n2. Pode decidir-se que as especificações técnicas adicionais a que se refere o n.º 1 sejam secretas e não publicadas. Nesse caso, as especificações só são disponibilizadas aos organismos designados pelos Estados-Membros para proceder à produção dos TVP da UE e às pessoas devidamente autorizadas por um Estado-Membro ou pela Comissão."
+  },
+  "4e77fe6e4d297fdf": {
+   "fragment_id": "Artigo 10.º — Produção dos TVP da UE",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Produção dos TVP da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Produção dos TVP da UE\n\n1. Cada Estado-Membro designa um organismo que é responsável pela produção dos formulários e das vinhetas uniformes de TVP da UE. O mesmo organismo pode ser designado por vários ou por todos os Estados-Membros.\n\n2. Cada Estado-Membro comunica à Comissão e aos outros Estados-Membros o nome do organismo que produz os seus formulários e vinhetas uniformes de TVP da UE. Se um Estado-Membro mudar o organismo designado, informa desse facto a Comissão e os demais Estados-Membros."
+  },
+  "b9600a2861c9b4c8": {
+   "fragment_id": "Artigo 11.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 8.º, n.º 3, e no artigo 13.º, n.º 1, é conferido à Comissão por tempo indeterminado a contar de 10 de julho de 2019.\n\n3. A delegação de poderes referida no artigo 8.º, n.º 3, e no artigo 13.º, n.º 1, pode ser revogada em qualquer momento pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 8.º, n.º 3, e no artigo 13.º, n.º 1, só entram em vigor se não tiverem sido formuladas objeções pelo Conselho no prazo de dois meses a contar da notificação do ato ao Conselho ou se, antes do termo desse prazo, o Conselho tiver informado a Comissão de que não tem objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Conselho.\n\n7. O Parlamento Europeu é informado da adoção de atos delegados pela Comissão, de qualquer objeção formulada relativamente aos mesmos, ou da revogação da delegação de poderes pelo Conselho."
+  },
+  "c3fa15394feb34ef": {
+   "fragment_id": "Artigo 12.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento de comité\n\n1. A Comissão é assistida pelo comité criado pelo artigo 6.º do Regulamento (CE) n.º 1683/95. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "3a7bdc63ed2ac10f": {
+   "fragment_id": "Artigo 13.º — Notificação aos países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Notificação aos países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Notificação aos países terceiros\n\n1. No prazo de 21 meses a contar da adoção das especificações técnicas adicionais a que se refere o artigo 9.º, o Estado-Membro que exercer a Presidência do Conselho, nos termos do artigo 16.º, n.º 9, do TUE, fornece exemplares do formulário e da vinheta uniformes de TVP da UE à Comissão e ao SEAE.\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 11.º, a fim de alterar o primeiro parágrafo do presente número, designando outro Estado-Membro como o Estado responsável pelo fornecimento dos exemplares referidos nesse parágrafo, com base em critérios objetivos, como a presença no seu território do organismo designado por vários ou todos os Estados-Membros para a produção de TVP da UE.\n\n2. O SEAE transmite às delegações da União em países terceiros os exemplares do formulário e da vinheta uniformes de TVP da UE.\n\n3. As delegações da União em países terceiros notificam as autoridades relevantes nos respetivos países terceiros da utilização do TVP da UE, bem como do seu modelo uniforme e dos principais elementos de segurança, inclusive fornecendo-lhes exemplares do formulário e da vinheta uniformes de TVP da UE, para efeitos de referência. A notificação de um determinado país terceiro deve repetir-se a pedido desse país terceiro. A notificação não pode incluir especificações que devam ser mantidas secretas nos termos do artigo 9.º, n.º 2.\n\n4. Cada vez que o formulário ou a vinheta uniformes de TVP da UE forem alterados, deve repetir-se o procedimento estabelecido nos n.^os^ 1 a 3. O prazo a que se refere o n.º 1 é de 21 meses após a data de adoção do modelo alterado do formulário uniforme de TVP da UE ou da vinheta.\n\n5. Se num país terceiro não existir uma delegação da União, os Estados-Membros representados decidem, através da cooperação consular local, qual o Estado-Membro que notifica as autoridades relevantes desse país terceiro do modelo uniforme de TVP da UE, bem como dos seus principais elementos de segurança. O SEAE coordena com o Estado-Membro em causa a transmissão de exemplares do formulário e da vinheta uniformes de TVP da UE para esse efeito."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "d024ffac439644f9": {
+   "fragment_id": "Artigo 14.º — Tratamento mais favorável",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Tratamento mais favorável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tratamento mais favorável\n\nOs Estados-Membros podem aprovar ou manter em vigor disposições nacionais mais favoráveis do que as previstas na presente diretiva, desde que sejam compatíveis com esta última."
+  },
+  "fd71a98505f2a473": {
+   "fragment_id": "Artigo 15.º — Proteção de dados pessoais",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Proteção de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Proteção de dados pessoais\n\n1. Os dados pessoais tratados para fins da presente diretiva, incluindo a imagem facial ou a fotografia do requerente a que se refere o artigo 4.º, n.º 2, só podem ser utilizados para verificar a identidade do requerente, pelo procedimento previsto no artigo 4.º, para imprimir a vinheta uniforme de TVP da UE, e para facilitar a viagem desse requerente. O Estado-Membro que presta assistência e o Estado-Membro da nacionalidade devem garantir a segurança adequada dos dados pessoais.\n\n2. Sem prejuízo do Regulamento (UE) 2016/679, um requerente a favor do qual seja emitido um TVP da UE tem o direito de verificar os dados pessoais que nele constam e, se for caso disso, solicitar que sejam efetuadas correções através da emissão de um novo documento.\n\n3. Os TVP da UE não incluem informações de leitura ótica salvo se também forem incluídas no ponto 6 do anexo II.\n\n4. O Estado-Membro que presta assistência e o Estado-Membro da nacionalidade conservam os dados pessoais do requerente apenas durante o tempo necessário, inclusive para a cobrança das taxas a que se refere o artigo 5.º. Esses dados pessoais não podem em caso algum ser conservados por um prazo superior a 180 dias pelo Estado-Membro que presta assistência, ou por a dois anos pelo Estado-Membro da nacionalidade. Após o termo do prazo de conservação, os dados pessoais do requerente são apagados.\n\n5. Em derrogação do n.º 4, os Estados-Membros garantem a destruição segura de todos os TVP da UE restituídos e de todas as cópias que lhes digam respeito o mais rapidamente possível."
+  },
+  "df0134d9da4c286a": {
+   "fragment_id": "Artigo 16.º — Acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acompanhamento\n\n1. Os Estados-Membros acompanham regularmente a aplicação da presente diretiva com base nos seguintes indicadores:\n\na) Número de TVP da UE emitidos nos termos do artigo 3.º e nacionalidade do beneficiário;\n\nb) Número de TVP da UE emitidos nos termos do artigo 7.º e nacionalidade do beneficiário; e\n\nc) Número de casos de fraude e contrafação de TVP da UE.\n\n2. Os Estados-Membros organizam a produção e recolha dos dados necessários para avaliar a evolução dos indicadores estabelecidos no n.º 1, e comunicam anualmente essas informações à Comissão.\n\n3. A Comissão pode adotar atos de execução para estabelecer indicadores adicionais aos referidos no n.º 1. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2."
+  },
+  "34b0907f6c20c85d": {
+   "fragment_id": "Artigo 17.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Avaliação\n\n1. Decorridos pelo menos cinco anos após a data de transposição da presente diretiva, a Comissão realiza uma avaliação da mesma e apresenta um relatório com as principais conclusões ao Parlamento Europeu e ao Conselho. O relatório deve incluir uma avaliação da adequação do nível de segurança dos dados pessoais, do impacto sobre os direitos fundamentais e da eventual introdução de uma taxa uniforme de TVP da UE.\n\n2. Os Estados-Membros fornecem à Comissão todas as informações necessárias para a elaboração do relatório a que se refere o n.º 1."
+  },
+  "fd33eed1cbcf3be5": {
+   "fragment_id": "Artigo 18.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\n1. A Decisão 96/409/PESC é revogada com efeitos a partir de 36 meses após a adoção das especificações técnicas adicionais a que se refere o artigo 9.º.\n\n2. As remissões para a decisão revogada entendem-se como remissões para a presente diretiva.\n\n3. Os Estados-Membros asseguram a anulação e destruição dos formulários de TVP produzidos de acordo com a Decisão 96/409/PESC dentro do prazo referidos no n.º 1."
+  },
+  "4c440030d99055ab": {
+   "fragment_id": "Artigo 19.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transposição\n\n1. Os Estados-Membros adotam e publicam as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva, no prazo de 24 meses a contar da adoção das especificações técnicas adicionais a que se refere o artigo 9.º. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições.\n\nOs Estados-Membros aplicam essas disposições a partir de 36 meses após a adoção das especificações técnicas adicionais a que se refere o artigo 9.º.\n\nAs disposições adotadas pelos Estados-Membros fazem referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros estabelecem o modo como é feita a referência.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que adotarem no domínio regulado pela presente diretiva."
+  },
+  "804e70d07cf9fdc9": {
+   "fragment_id": "Artigo 20.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "e44e9a3ff52f8d1f": {
+   "fragment_id": "Artigo 21.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito no Luxemburgo, em 18 de junho de 2019.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**G. CIAMBA**\n\n---"
+  },
+  "1ab9f7c710ce6851": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2019163PT.01000101-E0001) Parecer de 16 de janeiro de 2019 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2019163PT.01000101-E0002) Diretiva (UE) 2015/637 do Conselho, de 20 de abril de 2015, relativa a medidas de coordenação e cooperação para facilitar a proteção consular dos cidadãos da União não representados em países terceiros e que revoga a Decisão 95/553/CE ([JO L 106 de 24.4.2015, p. 1](http://publications.europa.eu/resource/oj/JOL_2015_106_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2019163PT.01000101-E0003) Decisão 96/409/PESC dos Representantes dos Governos dos Estados-Membros reunidos no Conselho, de 25 de junho de 1996, relativa à criação de um título de viagem provisório ([JO L 168 de 6.7.1996, p. 4](http://publications.europa.eu/resource/oj/JOL_1996_168_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2019163PT.01000101-E0004) Diretiva 2004/38/CE do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativa ao direito de livre circulação e residência dos cidadãos da União e dos membros das suas famílias no território dos Estados-Membros, que altera o Regulamento (CEE) n.º 1612/68 e que revoga as Diretivas 64/221/CEE, 68/360/CEE, 72/194/CEE, 73/148/CEE, 75/34/CEE, 75/35/CEE, 90/364/CEE, 90/365/CEE e 93/96/CEE ([JO L 158 de 30.4.2004, p. 77](http://publications.europa.eu/resource/oj/JOL_2004_158_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2019163PT.01000101-E0005) Regulamento (UE) 2018/1806 do Parlamento Europeu e do Conselho, de 14 de novembro de 2018, que fixa a lista dos países terceiros cujos nacionais estão sujeitos à obrigação de visto para transpor as fronteiras externas e a lista de países terceiros cujos nacionais estão isentos dessa obrigação ([JO L 303 de 28.11.2018, p. 39](http://publications.europa.eu/resource/oj/JOL_2018_303_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2019163PT.01000101-E0006) Regulamento (CE) n.º 1683/95 do Conselho, de 29 de maio de 1995, que estabelece um modelo-tipo de visto ([JO L 164 de 14.7.1995, p. 1](http://publications.europa.eu/resource/oj/JOL_1995_164_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2019163PT.01000101-E0007) [JO L 123 de 12.5.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_123_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntc8-L_2019163PT.01000101-E0008) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([JO L 55 de 28.2.2011, p. 13](http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018.03/DOC_1#ntc9-L_2019163PT.01000101-E0009) Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados) ([JO L 119 de 4.5.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC))."
+  },
+  "09518efa9a92fe53": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de junho de 2019\n\nque cria um título de viagem provisório da UE e que revoga a Decisão 96/409/PESC"
+  },
+  "03251ca0e54414b7": {
+   "fragment_id": "Artigo 4.º — Procedimento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento\n\n1. Quando um Estado-Membro receber um pedido de TVP da UE, deve, com a maior brevidade possível e o mais tardar dois dias úteis após receção do pedido, consultar o Estado-Membro da nacionalidade, nos termos do artigo 10.º, n.º 2, da Diretiva (UE) 2015/637, para efeitos de verificação da nacionalidade e da identidade do requerente.\n\n2.\n\nO Estado-Membro que presta assistência comunica ao Estado-Membro da nacionalidade todas as informações relevantes, incluindo:\n\na) O apelido e o(s) nome(s) próprio(s) do requerente, a nacionalidade, a data de nascimento e o sexo;\n\nb) A imagem facial do requerente recolhida pelas autoridades do Estado-Membro que presta assistência no momento da apresentação do pedido ou, apenas se tal não for exequível, uma fotografia digitalizada ou digital do requerente, com base nas normas estabelecidas na parte 3 do documento 9303 da Organização da Aviação Civil Internacional (OACI) sobre os documentos de viagem de leitura ótica, (sétima edição, 2015) (a seguir designado «documento 9303 da OACI»);\n\nc) Uma cópia ou uma digitalização de todos os meios de identificação disponíveis, tais como um bilhete de identidade ou uma carta de condução, e, sendo o caso, o tipo e o número do documento substituído e o número de registo nacional ou da segurança social.\n\n3. Com a maior brevidade possível, e o mais tardar três dias úteis após a receção da informação referida no n.º 2, o Estado-Membro da nacionalidade deve responder à consulta nos termos do artigo 10.º, n.º 3, da Diretiva (UE) 2015/637 e confirmar se o requerente é seu nacional. Se o Estado-Membro da nacionalidade não puder responder no prazo de três dias úteis, deve, durante esse período, informar o Estado-Membro que presta assistência e fornecer uma previsão de quando é de esperar a resposta. O Estado-Membro que presta assistência informa o requerente em conformidade. Após a confirmação da nacionalidade do requerente, o Estado-Membro que presta assistência fornece ao requerente o TVP da UE o mais rapidamente possível e, o mais tardar, no prazo de dois dias úteis a contar da receção da confirmação.\n\n4. Se o Estado-Membro da nacionalidade se opuser a que seja emitido um TVP da UE a um dos seus nacionais, informa o Estado-Membro que presta assistência. Nesse caso, o TVP da UE não é emitido e o Estado-Membro da nacionalidade assume a responsabilidade pela prestação de proteção consular ao seu cidadão, em conformidade com as suas obrigações e práticas legais. O Estado-Membro que presta assistência, em estreita consulta com o Estado-Membro da nacionalidade, informa o requerente em conformidade.\n\n5. Em casos justificados, os Estados-Membros podem ultrapassar os prazos previstos nos n.^os^ 1 e 3.\n\n6. Em situações de extrema urgência, o Estado-Membro que presta assistência pode emitir um TVP da UE sem consulta prévia do Estado-Membro da nacionalidade. Antes de o fazer, o Estado-Membro que presta assistência deve ter esgotado todos os meios de comunicação disponíveis com o Estado-Membro da nacionalidade. O Estado-Membro que presta assistência notifica o mais rapidamente possível o Estado-Membro da nacionalidade de que foi emitido um TVP da UE e da identidade do respetivo beneficiário. Essa notificação deve conter todos os dados que foram incluídos no TVP da UE.\n\n7. A autoridade do Estado-Membro que emite o TVP da UE deve conservar uma cópia ou digitalização de cada TVP da UE emitido e enviar outra cópia ou digitalização ao Estado-Membro da nacionalidade do requerente.\n\n8. É solicitado ao beneficiário de um TVP da UE que o restitua, independentemente de ter caducado, aquando da chegada ao destino final.\n\n9. A Comissão pode adotar atos de execução que estabeleçam um formulário normalizado de pedido de TVP da UE que contenha informações sobre a obrigação de restituição do TVP da UE à chegada. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2."
+  },
+  "835f8839b243aca2": {
+   "fragment_id": "Artigo 7.º — Emissão facultativa do TVP da UE",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Emissão facultativa do TVP da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Emissão facultativa do TVP da UE\n\n1.\n\nQuando o passaporte ou o documento de viagem do requerente tenha sido extraviado, furtado ou destruído, ou não possa ser obtido num prazo razoável, um Estado-Membro pode emitir um TVP da UE em benefício:\n\na) Dos seus próprios nacionais;\n\nb) Dos cidadãos da União não representados no território dos Estados-Membros, incluindo os países e territórios ultramarinos a que se refere o artigo 355.º, n.º 2, primeiro parágrafo, do TFUE;\n\nc) Dos cidadãos de outro Estado-Membro que esteja representado no país em que procuram obter o TVP da UE e caso existam acordos para esse efeito entre os Estados-Membros em causa;\n\nd) Dos membros da família que não sejam cidadãos da União, que acompanhem cidadãos da União não representados num país terceiro ou cidadãos da União referidos nas alíneas a), b) ou c), se esses membros da família forem residentes legais num Estado-Membro, sem prejuízo dos requisitos aplicáveis em matéria de vistos;\n\ne) De outras pessoas a quem esse Estado-Membro ou outro Estado-Membro esteja obrigado, por força do direito internacional ou nacional, a conceder proteção e que residam legalmente num Estado-Membro.\n\n2.\n\nSe um Estado-Membro emitir um TVP da UE nos termos:\n\na) Do n.º 1, alíneas b) ou c), do presente artigo, a consulta prevista no artigo 4.º deve incluir o Estado-Membro da nacionalidade dos cidadãos da União;\n\nb) Do n.º 1, alínea d), do presente artigo, a consulta prevista no artigo 4.º deve incluir o Estado-Membro da nacionalidade do cidadão da União acompanhado e, se necessário, o Estado-Membro de residência do membro da família. Em derrogação do artigo 4.º, n.º 6, não é emitido um TVP da UE sem consulta prévia do Estado-Membro da nacionalidade do cidadão da União acompanhado e, se necessário, do Estado-Membro da residência do membro da família;\n\nc) Do n.º 1, alínea e), do presente artigo, a consulta prevista no artigo 4.º deve incluir o Estado-Membro obrigado, nos termos do direito internacional ou nacional, a conceder proteção ao requerente que deve ser o país de destino indicado no TVP da UE."
+  },
+  "a634e7f940221e5f": {
+   "fragment_id": "Artigo 9.º — Especificações técnicas adicionais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Especificações técnicas adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Especificações técnicas adicionais\n\n1.\n\nA Comissão adota atos de execução com especificações técnicas adicionais para os TVP da UE em relação aos seguintes aspetos:\n\na) A forma, o modelo e as cores da vinheta e do formulário uniformes de TVP da UE;\n\nb) Os requisitos aplicáveis aos materiais e às técnicas de impressão do formulário uniforme do TVP da UE;\n\nc) Os elementos e requisitos de segurança, incluindo normas reforçadas contra a contrafação e a falsificação;\n\nd) Outras regras a respeitar no preenchimento e na emissão do TVP da UE.\n\nOs referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2.\n\n2. Pode decidir-se que as especificações técnicas adicionais a que se refere o n.º 1 sejam secretas e não publicadas. Nesse caso, as especificações só são disponibilizadas aos organismos designados pelos Estados-Membros para proceder à produção dos TVP da UE e às pessoas devidamente autorizadas por um Estado-Membro ou pela Comissão."
+  },
+  "62ff8f0808d6cd17": {
+   "fragment_id": "Artigo 16.º — Acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acompanhamento\n\n1.\n\nOs Estados-Membros acompanham regularmente a aplicação da presente diretiva com base nos seguintes indicadores:\n\na) Número de TVP da UE emitidos nos termos do artigo 3.º e nacionalidade do beneficiário;\n\nb) Número de TVP da UE emitidos nos termos do artigo 7.º e nacionalidade do beneficiário; e\n\nc) Número de casos de fraude e contrafação de TVP da UE.\n\n2. Os Estados-Membros organizam a produção e recolha dos dados necessários para avaliar a evolução dos indicadores estabelecidos no n.º 1, e comunicam anualmente essas informações à Comissão.\n\n3. A Comissão pode adotar atos de execução para estabelecer indicadores adicionais aos referidos no n.º 1. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2."
+  },
+  "689270e7e0eeaf0b": {
+   "fragment_id": "Artigo 21.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "47a032089d0b6415": {
+   "fragment_id": "FORMULÁRIO UNIFORME DE TVP DA UE",
+   "type": "divisao",
+   "heading": "FORMULÁRIO UNIFORME DE TVP DA UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FORMULÁRIO UNIFORME DE TVP DA UE\n\nO formulário uniforme de TVP da UE deve cumprir as seguintes especificações:"
+  },
+  "e5accfc83feb1589": {
+   "fragment_id": "1. Modelo e dimensões",
+   "type": "divisao",
+   "heading": "1. Modelo e dimensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Modelo e dimensões\n\nO formulário uniforme de TVP da UE tem uma forma tripartida (uma única folha, impressa de ambos os lados e dobrada em três). Quando dobrado, o formulário deve ter uma dimensão conforme com a norma ISO/IEC 7810 ID-3."
+  },
+  "d59b7818b0f9c0df": {
+   "fragment_id": "2. Página um: página de rosto",
+   "type": "divisao",
+   "heading": "2. Página um: página de rosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Página um: página de rosto\n\nA página de rosto do formulário uniforme de TVP da UE deve incluir, pela ordem indicada, as palavras «UNIÃO EUROPEIA» em todas as línguas oficiais da União e a menção «EMERGENCY TRAVEL DOCUMENT» e «TITRE DE VOYAGE PROVISOIRE». Deve igualmente incluir doze estrelas douradas que formem um círculo."
+  },
+  "9fee68a9af12f8db": {
+   "fragment_id": "3. Página dois: aposição da vinheta uniforme de TVP da UE",
+   "type": "divisao",
+   "heading": "3. Página dois: aposição da vinheta uniforme de TVP da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Página dois: aposição da vinheta uniforme de TVP da UE\n\nA vinheta uniforme de TVP da UE é aposta de forma segura na segunda página do formulário uniforme de TVP da UE, de forma que impeça a sua remoção fácil. A vinheta uniforme de TVP da UE é alinhada com a margem da página e aposta nesta. A zona de leitura ótica da vinheta uniforme de TVP da UE é alinhada com a margem exterior da página. O carimbo das autoridades emissoras é aposto na vinheta uniforme de TVP da UE de forma a estender-se para a página."
+  },
+  "0b77b62f96079d3f": {
+   "fragment_id": "4. Páginas três e quatro: informações",
+   "type": "divisao",
+   "heading": "4. Páginas três e quatro: informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4. Páginas três e quatro: informações\n\nA terceira e a quarta páginas devem incluir uma tradução de «Emergency Travel Document» («Título de Viagem Provisório») e dos títulos da vinheta uniforme de TVP da UE, em todas as línguas oficiais da União com exceção do inglês e do francês. Além disso, deve figurar o seguinte texto:\n\n«This EU Emergency Travel Document is a travel document issued by a Member State of the European Union for a single journey to the holder's Member State of nationality or residence or, exceptionally, to another destination. Authorities of non-EU countries are hereby requested to allow the holder to pass freely without hindrance.\n\nLe présent titre de voyage provisoire de l'UE est un titre de voyage délivré par un État membre de l'Union européenne aux fins d'un trajet unique vers l'État membre de nationalité ou de résidence du détenteur, ou, à titre exceptionnel, vers une autre destination. Les autorités des pays tiers sont priées d'autoriser le détenteur du titre de voyage provisoire à circuler sans entraves.»."
+  },
+  "a122c6903f3ca0d9": {
+   "fragment_id": "5. Páginas cinco e seis: vistos e carimbos de entrada/saída",
+   "type": "divisao",
+   "heading": "5. Páginas cinco e seis: vistos e carimbos de entrada/saída",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 5. Páginas cinco e seis: vistos e carimbos de entrada/saída\n\nA quinta e a sexta páginas devem apresentar o cabeçalho «VISA/VISA» e ser deixadas em branco.\n\nEstas páginas são reservadas aos vistos e carimbos de entrada/saída."
+  },
+  "4048e32ebaf246e9": {
+   "fragment_id": "6. Número do formulário uniforme de TVP da UE",
+   "type": "divisao",
+   "heading": "6. Número do formulário uniforme de TVP da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 6. Número do formulário uniforme de TVP da UE\n\nUm número de sete algarismos é pré-impresso no formulário uniforme de TVP da UE."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "fc4ad616ac823f53": {
+   "fragment_id": "VINHETA UNIFORME DE TVP DA UE",
+   "type": "divisao",
+   "heading": "VINHETA UNIFORME DE TVP DA UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VINHETA UNIFORME DE TVP DA UE\n\nA vinheta uniforme de TVP da UE deve cumprir as seguintes especificações:"
+  },
+  "0c1761c7bbab1c3e": {
+   "fragment_id": "Características da vinheta uniforme de TVP da UE",
+   "type": "divisao",
+   "heading": "Características da vinheta uniforme de TVP da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Características da vinheta uniforme de TVP da UE\n\n1. A vinheta uniforme de TVP da UE deve conter uma imagem facial do titular, impressa de forma a corresponder a elevados padrões de segurança, exceto se for utilizada uma fotografia nos termos do artigo 8.º, n.º 5. A imagem facial ou a fotografia deve ser a utilizada para efeitos do artigo 4.º, n.º 2.\n\n2. A vinheta uniforme de TVP da UE deve conter elementos de segurança que garantam uma proteção suficiente contra a falsificação, tendo em conta, nomeadamente, os elementos de segurança utilizados no modelo-tipo de visto.\n\n3. Devem ser utilizados os mesmos elementos de segurança para todos os Estados-Membros.\n\n4. Na vinheta uniforme de TVP da UE deve figurar o seguinte:\n\na) A abreviatura «EU ETD/TVP UE»;\n\nb) A expressão «European Union/Union européenne»;\n\nc) O código de três letras «EUE» em conformidade com o documento 9303 da OACI.\n\n5. A vinheta uniforme de TVP da UE deve incluir o número da vinheta uniforme de TVP da UE, composto por sete algarismos, disposto na horizontal e pré-impresso a preto. Devem ser utilizados carateres tipográficos especiais. Este número deve ser precedido do código de duas letras do Estado-Membro emissor, em conformidade com o documento 9303 da OACI, que pode ser pré-impresso ou acrescentado quando a vinheta uniforme de TVP da UE for preenchida. Para efeitos de segurança, o mesmo número de sete algarismos pode ser pré-impresso várias vezes na vinheta uniforme de TVP da UE."
+  },
+  "21ebba21a3733356": {
+   "fragment_id": "Secções a preencher",
+   "type": "divisao",
+   "heading": "Secções a preencher",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secções a preencher\n\n6. A vinheta uniforme de TVP da UE deve incluir secções para as seguintes informações:\n\na) País de destino e eventual(ais) país(es) de trânsito para os quais é emitido o TVP da UE;\n\nb) Estado-Membro emissor e localização da autoridade emissora;\n\nc) Data de emissão e a data de validade;\n\nd) Apelido(s) e nome(s) próprio(s), nacionalidade, data de nascimento e sexo do beneficiário do TVP da UE;\n\ne) Número do formulário uniforme de TVP da UE no qual será aposta a vinheta uniforme de TVP da UE referida no ponto 6 do anexo I.\n\n7. Os títulos das secções a preencher devem figurar em inglês e francês e devem ser numerados.\n\n8. As datas devem ser redigidas do seguinte modo: dois algarismos para indicar o dia, sendo o primeiro um zero quando o número correspondente apenas se compuser do algarismo das unidades; dois algarismos para indicar o mês, sendo o primeiro um zero quando o número correspondente apenas se compuser do algarismo das unidades; quatro algarismos para indicar o ano. O dia e o mês são seguidos de um espaço. Por exemplo: 20 01 2018 = 20 de janeiro de 2018.\n\n9. A vinheta uniforme de TVP da UE deve incluir uma secção intitulada «Averbamentos» que deve ser utilizada pela autoridade emissora para indicar quaisquer outras informações necessárias, por exemplo, o tipo e o número do documento substituído."
+  },
+  "0ebd8e31e3edfc76": {
+   "fragment_id": "Informações de leitura ótica",
+   "type": "divisao",
+   "heading": "Informações de leitura ótica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Informações de leitura ótica\n\n10. A vinheta uniforme de TVP da UE deve incluir as informações de leitura ótica, em conformidade com o documento 9303 da OACI, necessárias para facilitar os controlos nas fronteiras externas. As letras maiúsculas «PU» são utilizadas como os dois primeiros carateres da zona de leitura ótica para designar o documento como título de viagem provisório da UE. Na zona de leitura ótica deve figurar um texto integrado na impressão de fundo visível, com a expressão «União Europeia» em todas as línguas oficiais da União. Este texto não pode afetar as características técnicas da zona de leitura ótica nem a respetiva legibilidade.\n\n11. É reservado um espaço para o eventual aditamento de um código de barras comum bidimensional."
+  }
+ }
+}

@@ -1,0 +1,1311 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:603511:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-918817777",
+ "dre_path": "/dr/detalhe/decreto-lei/289-2001-603511",
+ "source_lastmod": "2025-05-20",
+ "versions": [
+  {
+   "date": "2001-11-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919118790",
+    "918544518",
+    "918544519",
+    "918544520",
+    "918544521",
+    "918544522",
+    "918544524",
+    "918544525",
+    "918544526",
+    "918544527",
+    "918544528",
+    "918544529",
+    "918544530",
+    "918544531",
+    "918544532",
+    "918544533",
+    "918544534",
+    "918544535",
+    "918544536",
+    "918544537",
+    "918544538",
+    "918544539",
+    "918544540",
+    "918544541",
+    "918544542",
+    "918544543",
+    "918544544",
+    "918544545",
+    "918544546",
+    "918544547",
+    "918544548",
+    "918544549",
+    "918544550",
+    "918544551",
+    "918544552",
+    "918544553",
+    "918544554",
+    "918544555",
+    "918544556",
+    "918544557",
+    "918544558",
+    "918544559",
+    "918544560",
+    "918544561",
+    "918544562",
+    "918544563",
+    "918544564",
+    "918544565",
+    "918544566",
+    "918544567",
+    "918544568",
+    "918544569",
+    "918544570",
+    "918544571",
+    "918544572",
+    "918544573",
+    "918544574",
+    "918817975"
+   ]
+  },
+  {
+   "date": "2002-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:647508:por",
+     "title": "Decreto-Lei n.º 195/2002",
+     "published": "2002-09-25",
+     "dre_path": "/dr/detalhe/decreto-lei/195-2002-647508"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "918544517",
+    "918544518",
+    "918544519",
+    "918544520",
+    "918544521",
+    "918544522",
+    "918544523",
+    "918544524",
+    "918544525",
+    "918544526",
+    "918544527",
+    "918544528",
+    "918544529",
+    "918544530",
+    "918544531",
+    "918544532",
+    "918544533",
+    "918544534",
+    "918544535",
+    "918544536",
+    "918544537",
+    "918880627",
+    "918544539",
+    "918544540",
+    "918544541",
+    "918544542",
+    "918544543",
+    "918544544",
+    "918544545",
+    "918544546",
+    "918544547",
+    "918544548",
+    "918544549",
+    "918544550",
+    "918544551",
+    "918544552",
+    "918817978",
+    "918544554",
+    "918544555",
+    "918544556",
+    "918544557",
+    "918544558",
+    "918544559",
+    "918544560",
+    "918544561",
+    "918544562",
+    "918544563",
+    "918544564",
+    "918544565",
+    "918544566",
+    "918544567",
+    "918544568",
+    "918544569",
+    "918544570",
+    "918544571",
+    "918544572",
+    "918544573",
+    "918544574",
+    "918817975"
+   ]
+  },
+  {
+   "date": "2015-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66041391:por",
+     "title": "Decreto-Lei n.º 1/2015",
+     "published": "2015-01-06",
+     "dre_path": "/dr/detalhe/decreto-lei/1-2015-66041391"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "919118790",
+    "919118791",
+    "919118792",
+    "919118793",
+    "919118794",
+    "919118795",
+    "919118796",
+    "919118797",
+    "919118798",
+    "919118799",
+    "919118800",
+    "919118801",
+    "919118802",
+    "919118803",
+    "919118804",
+    "919118805",
+    "919118806",
+    "919118807",
+    "919118808",
+    "919118809",
+    "919118810",
+    "919118811",
+    "919118812",
+    "919118813",
+    "919118814",
+    "919118815",
+    "919118816",
+    "919118817",
+    "919118818",
+    "919118819",
+    "919118820",
+    "919118821",
+    "919118822",
+    "919118823",
+    "919118824",
+    "919118825",
+    "919118826",
+    "919118827",
+    "919118828",
+    "919118829",
+    "919118830",
+    "919118831",
+    "919118832",
+    "919118833",
+    "919118834",
+    "919118835",
+    "919118836",
+    "919118837",
+    "919118838",
+    "919118839",
+    "919118840",
+    "919118841",
+    "919118842",
+    "919118843",
+    "919118844",
+    "919118845",
+    "919118846",
+    "919118847",
+    "919118848"
+   ]
+  }
+ ],
+ "fragments": {
+  "919118790": {
+   "fragment_id": "918817778",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2015-02-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 289/2001\n\nde 13 de Novembro\n\nO Estatuto do Instituto de Seguros de Portugal (ISP), autoridade de supervisão da actividade seguradora, resseguradora, mediação de seguros e de fundos de pensões, foi aprovado pelo Decreto-Lei n.º 251/97, de 26 de Setembro, tendo traduzido, à data, a necessidade de actualização a um novo contexto marcado pelo processo de privatizações, pelo mercado único de seguros - principal responsável pela liberalização progressiva e desregulamentação da actividade - e, ainda, pela proliferação de novos produtos, com especial incidência na institucionalização dos fundos de pensões.\n\nOra, embora o ISP se encontre dotado de um Estatuto relativamente recente, algumas razões ponderosas militam no sentido de uma reformulação do regime aprovado pelo Decreto-Lei n.º 251/97, de 26 de Setembro.\n\nEntre outros aspectos, avultam, primacialmente, dois factores que impõem essa reformulação. Por um lado, procedendo-se a uma revisão do regime de acesso e exercício da actividade seguradora constante do Decreto-Lei n.º 94-B/98, de 17 de Abril, a qual apresenta como uma das suas vertentes o reforço da autonomia e da esfera decisória do ISP, justifica-se uma articulação dessa evolução com o enquadramento geral das atribuições e competências da instituição.\n\nDe facto, no panorama dos Estados que, com Portugal, constituem a União Europeia, tem-se verificado, nos últimos anos, uma tendência para a crescente autonomia face aos Governos das entidades públicas encarregues de funções de regulação e de supervisão de mercados e sectores. Esta tendência tem-se manifestado com particular evidência no âmbito das entidades do sector financeiro, correspondendo, desse modo, a uma nova concepção sobre a intervenção pública nesse sector.\n\nPor outro lado, tendo sido já desencadeada uma nova fase de evolução do sistema nacional de supervisão financeira que pressupõe a criação de uma nova estrutura institucional, apta a impulsionar o aprofundamento da coordenação e articulação entre as três instituições que presentemente integram o sistema de supervisão do sector financeiro, justificar-se-á acentuar a convergência dos enquadramentos estatutários dessas entidades.\n\nPara responder às descritas preocupações, para além de o ISP passar a ficar sujeito apenas a poderes de tutela do Ministro das Finanças, deixando de estar sob a sua superintendência, o presente diploma consagra a atribuição aos órgãos do ISP de um amplo poder regulamentar e a ampliação das competências decisórias em matérias de supervisão, que, assim, deixam de estar dependentes de uma intervenção directa do Ministro das Finanças.\n\nÉ o que sucede, nomeadamente, com as decisões sobre a constituição, cisão, fusão, encerramento e liquidação de empresas de seguros ou resseguros e de sociedades gestoras de fundos de pensões.\n\nNo sentido da maior autonomia do ISP e de aproximação de regime das três autoridades de supervisão, concorrem ainda o novo regime aplicável aos membros do conselho directivo, o alargamento do período de mandato de três para cinco anos e a fixação de um regime de inamovibilidade, que já é regra nas demais entidades de supervisão financeira.\n\nNo domínio da gestão financeira e patrimonial, simplifica-se o regime contabilístico, devendo a gestão orçamental do ISP basear-se numa racionalização dos recursos financeiros provenientes do sector supervisionado.\n\nNos outros domínios, para além de algumas clarificações, actualizações terminológicas e aperfeiçoamentos de ordem sistemática, a revisão do Estatuto mantém, no essencial, o regime actualmente vigente.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, bem como o Instituto de Seguros de Portugal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "918544518": {
+   "fragment_id": "918817779",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\nÉ aprovado o Estatuto do Instituto de Seguros de Portugal, publicado em anexo ao presente diploma e que dele faz parte integrante."
+  },
+  "918544519": {
+   "fragment_id": "918817780",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei Orgânica do Ministério das Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei Orgânica do Ministério das Finanças\n\nO artigo 10.º do Decreto-Lei n.º 158/96, de 3 de Setembro, alterado pelo Decreto-Lei n.º 21/99, de 28 de Janeiro, passa a ter a seguinte redacção:\n\n«Artigo 10.º\n\n[...]\n\n...\n\na) ...\n\nb) [Redacção da anterior alínea c).]\n\nc) [Redacção da anterior alínea d).]\n\nd) [Redacção da anterior alínea e).]»"
+  },
+  "918544520": {
+   "fragment_id": "918817781",
+   "type": 11,
+   "heading": "Artigo 3.º — Actuais mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Actuais mandatos\n\nMantêm-se em funções os membros dos actuais órgãos do Instituto de Seguros de Portugal, até que sejam designados novos membros ao abrigo do diploma ora aprovado."
+  },
+  "918544521": {
+   "fragment_id": "918817782",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 251/97, de 26 de Setembro."
+  },
+  "918544522": {
+   "fragment_id": "918817783",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor oito dias após a sua publicação."
+  },
+  "918544524": {
+   "fragment_id": "918817785",
+   "type": 14,
+   "heading": "Anexo — ESTATUTO DO INSTITUTO DE SEGUROS DE PORTUGAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTO DO INSTITUTO DE SEGUROS DE PORTUGAL"
+  },
+  "918544525": {
+   "fragment_id": "918817786",
+   "type": 1,
+   "heading": "Capítulo I — Da denominação, natureza, regime e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Da denominação, natureza, regime e sede"
+  },
+  "918544526": {
+   "fragment_id": "918817787",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Instituto de Seguros de Portugal, adiante designado abreviadamente por ISP, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio."
+  },
+  "918544527": {
+   "fragment_id": "918817788",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime e tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime e tutela\n\n1 - O ISP rege-se pelo presente diploma e pelo seu regulamento interno, bem como, no que por aquele ou por este não for especialmente regulado e com eles não for incompatível, pelas normas aplicáveis às entidades públicas empresariais.\n\n2 - O ISP fica sujeito à tutela do Ministro das Finanças, que será exercida nos termos previstos neste Estatuto."
+  },
+  "918544528": {
+   "fragment_id": "918817789",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede e delegações\n\nO ISP tem a sua sede em Lisboa e uma delegação no Porto, podendo criar delegações noutras localidades do País ou outras formas de representação."
+  },
+  "918544529": {
+   "fragment_id": "918817790",
+   "type": 1,
+   "heading": "Capítulo II — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Atribuições"
+  },
+  "918544530": {
+   "fragment_id": "918817791",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - São atribuições do ISP:\n\na) Regulamentar, fiscalizar e supervisionar a actividade seguradora, resseguradora, de mediação de seguros e de fundos de pensões, bem como as actividades conexas ou complementares daquelas;\n\nb) Assistir o Governo e o Ministro das Finanças, a pedido deste ou por iniciativa própria, na definição das orientações a prosseguir na política para o sector segurador, nele se incluindo as actividades conexas ou complementares da actividade seguradora, resseguradora e de mediação de seguros, bem como os fundos de pensões;\n\nc) Executar e exercer o controlo de execução dessa política;\n\nd) Colaborar com as autoridades congéneres de outros Estados nos domínios da sua competência, em particular com as autoridades congéneres dos Estados-Membros da União Europeia;\n\ne) Colaborar com as demais autoridades nacionais nos domínios da sua competência e, em particular, com as outras autoridades de supervisão financeira;\n\nf) Gerir os fundos que lhe sejam confiados por lei.\n\n2 - A supervisão do ISP abrange toda a actividade das empresas a ela sujeitas, incluindo as actividades conexas ou complementares da actividade principal, e é exercida de harmonia com a legislação nacional e comunitária em vigor e no sentido do bom funcionamento e da tutela do mercado, garantindo a protecção dos credores específicos de seguros.\n\n3 - No âmbito das suas atribuições, o ISP emite normas regulamentares de cumprimento obrigatório pelas entidades sujeitas à sua supervisão, as quais são publicadas na 2.ª série do Diário da República.\n\n4 - O ISP tem legitimidade para requerer quaisquer providências cautelares sempre que necessário para o equilíbrio do sector segurador e para garantia eficaz dos interesses dos credores específicos de empresas de seguros e sociedades gestoras de fundos de pensões e, bem assim, para agir em juízo em defesa dos interesses dos participantes nos fundos de pensões.\n\n5 - O ISP pode passar certidões de factos relacionados com as suas atribuições, nos termos da legislação aplicável."
+  },
+  "918544531": {
+   "fragment_id": "918817792",
+   "type": 11,
+   "heading": "Artigo 5.º — Instruções vinculativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Instruções vinculativas\n\n1 - No exercício das suas atribuições, o ISP emite instruções vinculativas para que sejam sanadas as irregularidades de que tenha conhecimento nas empresas sujeitas à sua supervisão, adoptando os actos necessários para o efeito.\n\n2 - São ineficazes os actos praticados em violação de instruções ou proibições específicas emitidas pelo ISP no exercício das suas atribuições."
+  },
+  "918544532": {
+   "fragment_id": "918817793",
+   "type": 11,
+   "heading": "Artigo 6.º — Colaboração de outras autoridades e entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Colaboração de outras autoridades e entidades\n\n1 - O ISP pode solicitar a todas as autoridades, serviços públicos ou outras entidades públicas as informações e diligências necessárias ao exercício das suas atribuições.\n\n2 - O ISP pode requisitar informações que tenha por relevantes a quaisquer entidades privadas, e designadamente a pessoas singulares ou a pessoas colectivas que participem nas empresas sujeitas à sua supervisão ou sejam por elas participadas, a indivíduos ou pessoas colectivas que exerçam actividades que caiba ao ISP fiscalizar, e ainda a revisores oficiais de contas e auditores, à Câmara dos Revisores Oficiais de Contas e ao Instituto dos Actuários Portugueses."
+  },
+  "918544533": {
+   "fragment_id": "918817794",
+   "type": 1,
+   "heading": "Capítulo III — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estrutura orgânica"
+  },
+  "918544534": {
+   "fragment_id": "918817795",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "918544535": {
+   "fragment_id": "918817796",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos do ISP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos do ISP\n\nSão órgãos do ISP o conselho directivo, o conselho consultivo e a comissão de fiscalização."
+  },
+  "918544536": {
+   "fragment_id": "918817797",
+   "type": 11,
+   "heading": "Artigo 8.º — Quórum e regras de deliberação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Quórum e regras de deliberação\n\n1 - Os órgãos do ISP só podem deliberar validamente com a presença da maioria dos seus membros.\n\n2 - Sem prejuízo do disposto no artigo 20.º, n.º 3, as deliberações dos órgãos do ISP são tomadas por maioria dos votos dos membros presentes nas respectivas reuniões, cabendo ao presidente, ou a quem o substituir, quando tenha direito de voto, voto de qualidade.\n\n3 - De todas as reuniões dos órgãos do ISP lavrar-se-á acta, que será assinada por todos os membros presentes."
+  },
+  "918544537": {
+   "fragment_id": "918817798",
+   "type": 8,
+   "heading": "Secção II — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho directivo"
+  },
+  "918544538": {
+   "fragment_id": "918817799",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição, nomeação e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição, nomeação e mandato\n\nO conselho directivo do ISP é composto por um presidente, por um vice-presidente e por um ou três vogais nomeados por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, por um período de cinco anos, renovável uma vez por igual período, de entre pessoas com reconhecida idoneidade, independência e competência."
+  },
+  "918544539": {
+   "fragment_id": "918817800",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências\n\n1 - Compete ao conselho directivo definir a orientação geral e a política de gestão interna e praticar todos os actos adequados ao desenvolvimento das atribuições do ISP que não se compreendam no âmbito da competência dos outros órgãos.\n\n2 - O conselho directivo terá ainda competências no âmbito da regulamentação, da fiscalização e da supervisão da actividade seguradora, resseguradora, de mediação de seguros e dos fundos de pensões, no âmbito da gestão de fundos e de gestão do ISP, bem como das relações com outras instituições e relações internacionais, nos termos dos artigos seguintes."
+  },
+  "918544540": {
+   "fragment_id": "918817801",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências no âmbito da regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências no âmbito da regulamentação\n\nCompete ao conselho directivo, no âmbito da regulamentação da actividade seguradora, resseguradora, de mediação de seguros e de fundos de pensões:\n\na) Apresentar ao Governo, a pedido deste ou por iniciativa própria, propostas legislativas sobre matérias das atribuições do ISP;\n\nb) Aprovar regulamentos e outros actos normativos, no âmbito das atribuições do ISP, de cumprimento obrigatório pelas entidades sujeitas à sua supervisão."
+  },
+  "918544541": {
+   "fragment_id": "918817802",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências no âmbito da actividade de supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências no âmbito da actividade de supervisão\n\n1 - Compete ao conselho directivo, no âmbito da actividade de supervisão:\n\na) Apreciar e decidir sobre operações relativas às empresas sujeitas à supervisão do ISP, designadamente de constituição, cisão e fusão de empresas de seguros e de resseguro e de sociedades gestoras de fundos de pensões, bem como sobre o seu encerramento e liquidação e demais matérias relativas às actividades e empresas supervisionadas;\n\nb) Pronunciar-se sobre o exercício, por empresas sediadas em Portugal, da actividade seguradora, resseguradora ou de fundos de pensões em outros países e autorizar a abertura de agências, sucursais e quaisquer outras formas de representação dessas empresas fora do território da Comunidade Europeia;\n\nc) Autorizar a exploração de ramos ou modalidades de seguros e definir apólices uniformes para determinados contratos de seguros;\n\nd) Apreciar e aceitar o depósito de bases técnicas, condições gerais, especiais e tarifárias de contratos;\n\ne) Apreciar a representação das provisões técnicas das empresas supervisionadas pelo ISP;\n\nf) Apreciar as contas de exercício das empresas sujeitas à supervisão do ISP, podendo, por decisão fundamentada, impor rectificações;\n\ng) Certificar as empresas sujeitas à supervisão do ISP;\n\nh) Acompanhar a actividade das empresas sujeitas à supervisão do ISP e vigiar o cumprimento das normas aplicáveis e a observância das regras de controlo prudencial;\n\ni) Determinar a inspecção, sempre que o entenda conveniente ou em cumprimento de disposições legais, das empresas sujeitas à supervisão do ISP, requisitar-lhes informações e documentos e proceder a averiguações e exames em qualquer entidade ou local, no quadro do desempenho destas funções;\n\nj) Suspender as autorizações concedidas e determinar a suspensão temporária ou retirada definitiva de clausulados e condições tarifárias e a comercialização de produtos, quando ocorra violação da lei ou haja risco ilegítimo para os interessados ou para o equilíbrio da exploração da empresa ou do sector;\n\nl) Proceder ao registo dos membros dos órgãos de administração e fiscalização das empresas sujeitas à supervisão do ISP, bem como ao registo dos acordos parassociais entre os accionistas das referidas empresas;\n\nm) Certificar os agentes de mediação de seguros ou de resseguros e exercer a respectiva supervisão;\n\nn) Instaurar e instruir processos de transgressão e fixar o montante da respectiva multa;\n\no) Instaurar e instruir processos de contra-ordenação e aplicar as respectivas coimas e sanções acessórias;\n\np) Exercer as demais competências de supervisão que lhe sejam cometidas por diploma legal.\n\n2 - O disposto na alínea a) do presente artigo não prejudica o regime legalmente estabelecido na lei quanto aos mecanismos de defesa da concorrência e à entidade competente nessa matéria."
+  },
+  "918544542": {
+   "fragment_id": "918817803",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências no âmbito da gestão de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências no âmbito da gestão de fundos\n\n1 - Compete ao conselho directivo, no âmbito da gestão de fundos:\n\na) Praticar todos os actos necessários no âmbito da gestão do Fundo de Garantia Automóvel (FGA);\n\nb) Praticar todos os actos necessários no âmbito da gestão do Fundo de Acidentes de Trabalho (FAT);\n\nc) Praticar todos os actos necessários no âmbito da gestão de outros fundos que lhe sejam confiados por lei.\n\n2 - A gestão dos fundos a que se refere o n.º 1 é efectuada nos termos dos diplomas legais constitutivos dos mesmos."
+  },
+  "918544543": {
+   "fragment_id": "918817804",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências no âmbito das relações com outras instituições e relações internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências no âmbito das relações com outras instituições e relações internacionais\n\nCompete ao conselho directivo, no âmbito das relações com outras instituições e no das relações internacionais:\n\na) Colaborar com todas as autoridades nacionais e comunitárias nas matérias da sua competência e, em especial, colaborar com o Banco de Portugal e com a Comissão do Mercado de Valores Mobiliários, com vista a assegurar a eficácia e a coerência global da supervisão do sistema financeiro;\n\nb) Fazer-se representar em organismos internacionais que se ocupem de matérias relacionadas com as suas competências."
+  },
+  "918544544": {
+   "fragment_id": "918817805",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências no âmbito da gestão do ISP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências no âmbito da gestão do ISP\n\nCompete ao conselho directivo, no âmbito da gestão do ISP:\n\na) Elaborar o plano de actividades e o orçamento anuais do ISP e submetê-los, com o parecer da comissão de fiscalização, à aprovação do Ministro das Finanças;\n\nb) Elaborar, quando for o caso, os orçamentos suplementares do ISP e submetê-los, acompanhados do parecer da comissão de fiscalização, à aprovação do Ministro das Finanças;\n\nc) Elaborar o relatório da actividade desenvolvida pelo ISP em cada exercício, o balanço e as contas anuais e submeter estes documentos até 31 de Março do ano seguinte, com o parecer da comissão de fiscalização, à aprovação do Ministro das Finanças, devendo os referidos documentos ser publicados no Diário da República no prazo de 30 dias após a sua aprovação;\n\nd) Elaborar um regulamento interno, sujeito à aprovação do Ministro das Finanças, no qual defina a estrutura organizacional do ISP, as competências e funções dos serviços que a integram, as normas gerais a observar no desenvolvimento das actividades a seu cargo e, em geral, o que se revele adequado, tendo em vista o seu bom funcionamento;\n\ne) Arrecadar as receitas do ISP e autorizar a realização das despesas necessárias ao seu funcionamento;\n\nf) Gerir o património do ISP e, nomeadamente, deliberar sobre a aquisição, alienação, locação financeira ou aluguer de bens móveis e sobre o arrendamento de bens imóveis destinados à instalação, equipamento e funcionamento do ISP;\n\ng) Deliberar sobre a aquisição, locação financeira ou alienação de bens imóveis para os mesmos fins, com autorização prévia do Ministro das Finanças;\n\nh) Contratar com terceiros a prestação de quaisquer serviços com vista ao adequado desempenho das atribuições, do ISP;\n\ni) Assegurar a implementação da política de gestão de pessoal;\n\nj) Representar o ISP em juízo, activa e passivamente, podendo transigir, confessar e desistir em quaisquer litígios e comprometer o ISP em arbitragem."
+  },
+  "918544545": {
+   "fragment_id": "918817806",
+   "type": 11,
+   "heading": "Artigo 16.º — Outras competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Outras competências\n\nCompete, ainda, ao conselho directivo:\n\na) Assegurar a recolha, tratamento e publicação de dados estatísticos sobre o sector segurador, ressegurador e de fundos de pensões, bem como de outros elementos informativos necessários para fins estatísticos;\n\nb) Promover a publicação de um relatório anual sobre o sector segurador, ressegurador e de fundos de pensões, a sua situação económica, financeira e patrimonial e o seu enquadramento na situação económica global do País;\n\nc) Promover a elaboração de estudos técnicos relevantes para o desempenho das suas funções;\n\nd) Gerir o sistema de informação de matrículas de automóveis, a que se refere o n.º 3 do artigo 39.º do Decreto-Lei n.º 522/85, de 31 de Dezembro;\n\ne) Praticar quaisquer outros actos da competência do ex-Instituto Nacional de Seguros e do ex-Inspecção-Geral de Seguros e que sejam, nos termos do artigo 4.º, compatíveis com as atribuições do ISP;\n\nf) Criar e encerrar delegações ou representações do ISP;\n\ng) Analisar e dar parecer sobre pedidos de informação e reclamações, apresentados por particulares e organismos oficiais, não resolvidos noutras instâncias, relativamente ao exercício das actividades seguradora, de mediação de seguros e de fundos de pensões;\n\nh) Praticar quaisquer outros actos que lhe sejam cometidos por lei."
+  },
+  "918544546": {
+   "fragment_id": "918817807",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências do presidente\n\n1 - Compete ao presidente do conselho directivo:\n\na) Assegurar a representação do ISP em actos de qualquer natureza;\n\nb) Assegurar as relações com a tutela;\n\nc) Convocar o conselho directivo e presidir às suas reuniões;\n\nd) Promover, sempre que o entenda conveniente ou o conselho directivo o delibere, a convocação do conselho consultivo e da comissão de fiscalização, bem como de reuniões conjuntas destes órgãos ou de qualquer deles com o conselho directivo, presidindo a essas reuniões;\n\ne) Dirigir superiormente todas as actividades e departamentos do ISP e assegurar o seu adequado funcionamento;\n\nf) Exercer as demais funções que lhe sejam cometidas pelo regulamento interno do ISP ou que o conselho directivo lhe delegue nos termos do artigo 18.º\n\n2 - O presidente tem ainda competência para tomar todas as decisões e praticar todos os actos que, dependendo de deliberação do conselho directivo, não possam, por motivo imperioso de urgência, aguardar a reunião do conselho, devendo tais decisões ou actos ser submetidos a ratificação do conselho directivo na primeira reunião ordinária subsequente.\n\n3 - O presidente pode suspender a eficácia de deliberações do conselho directivo que considere violarem o Estatuto do ISP ou o interesse público e submetê-las a confirmação do Ministro das Finanças.\n\n4 - Compete ao vice-presidente do conselho directivo coadjuvar o presidente no desempenho das respectivas funções, substituí-lo nas ausências ou nos impedimentos e exercer as demais funções que lhe sejam delegadas nos termos do artigo seguinte."
+  },
+  "918544547": {
+   "fragment_id": "918817808",
+   "type": 11,
+   "heading": "Artigo 18.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Delegação de competências\n\n1 - O conselho directivo pode distribuir pelos seus membros, sob proposta do presidente, a gestão das várias áreas de funcionamento do ISP.\n\n2 - A distribuição de pelouros prevista no número anterior envolve a delegação das competências correspondentes às áreas em causa, dentro dos limites e em condições fixados no acto de distribuição.\n\n3 - O conselho directivo deve, em qualquer caso, fixar expressamente os limites das delegações de poderes e mencionar a existência ou não da faculdade de subdelegação.\n\n4 - O previsto nos números anteriores não prejudica o dever que incumbe a todos os membros do conselho directivo de tomarem conhecimento e acompanharem a generalidade dos assuntos do ISP e de sobre os mesmos se pronunciarem, nem o poder do conselho directivo de avocar os poderes delegados ou revogar os actos praticados pelo delegado ou subdelegado ao abrigo da delegação ou subdelegação, sempre que o entenda conveniente.\n\n5 - A delegação deve constar da acta da reunião em que a respectiva deliberação for tomada e é publicada na 2.ª série do Diário da República."
+  },
+  "918544548": {
+   "fragment_id": "918817809",
+   "type": 11,
+   "heading": "Artigo 19.º — Vinculação do ISP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Vinculação do ISP\n\n1 - O ISP obriga-se pela assinatura:\n\na) Do presidente do conselho directivo;\n\nb) De, pelo menos, dois dos membros do conselho directivo; ou\n\nc) De quem estiver devidamente habilitado para o efeito, nos termos do artigo anterior.\n\n2 - Os actos de mero expediente, de que não resultem obrigações para o ISP, poderão ser subscritos por qualquer membro do conselho directivo ou por trabalhador do ISP a quem tal poder seja expressamente atribuído."
+  },
+  "918544549": {
+   "fragment_id": "918817810",
+   "type": 11,
+   "heading": "Artigo 20.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reuniões e deliberações\n\n1 - O conselho directivo reúne, ordinariamente, com a periodicidade que no seu regulamento interno se fixar e, extraordinariamente, sempre que o seu presidente, por iniciativa própria, a pedido de dois dos seus membros ou a pedido da comissão de fiscalização, o convoque.\n\n2 - O conselho directivo delibera validamente com a presença da maioria dos seus membros.\n\n3 - As deliberações são tomadas por maioria dos votos dos membros presentes, incluindo obrigatoriamente o voto do presidente, quando tenham por objecto as seguintes matérias:\n\na) Aprovação de regulamentos e outros actos normativos do ISP;\n\nb) Aprovação de projectos de diplomas legais a apresentar ao Ministro das Finanças;\n\nc) Aprovação da proposta de regulamento interno do ISP;\n\nd) Elaboração do plano de actividades e do orçamento anual;\n\ne) As matérias das alíneas f) e g) do artigo 15.º do presente Estatuto."
+  },
+  "918544550": {
+   "fragment_id": "918817811",
+   "type": 11,
+   "heading": "Artigo 21.º — Estatuto dos membros do conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estatuto dos membros do conselho directivo\n\n1 - Os membros do conselho directivo ficam sujeitos ao Estatuto do Gestor Público, sem prejuízo das especialidades constantes do presente Estatuto, e têm remunerações e regalias, a fixar por despacho do Ministro das Finanças, equivalentes às dos membros dos órgãos de administração das restantes autoridades de supervisão financeira.\n\n2 - Os membros do conselho directivo ficam sujeitos ao regime de segurança social dos membros dos órgãos estatutários das pessoas colectivas, salvo se nomeados em comissão de serviço ou requisição, caso em que mantêm o sistema de protecção social do respectivo quadro de origem.\n\n3 - Os membros do conselho directivo não podem durante o seu mandato realizar, directamente ou por interposta pessoa, operações sobre valores mobiliários emitidos por empresas sujeitas à supervisão do ISP.\n\n4 - Os membros do conselho directivo que à data da sua nomeação sejam titulares de valores mobiliários emitidos por empresas sujeitas à supervisão do ISP devem aliená-los antes da tomada de posse ou apresentar ao conselho directivo, no prazo de 30 dias a contar dessa data, uma declaração dando conta da sua existência, só os podendo alienar com autorização do Ministro das Finanças.\n\n5 - Da declaração referida no número anterior, que será conservada em livro próprio nos arquivos do ISP, deve constar a identificação dos valores mobiliários por espécie, quantidade e preço de aquisição.\n\n6 - O relatório de actividade do ISP será acompanhado de um anexo, do qual constará o teor das declarações referidas.\n\n7 - O exercício de quaisquer cargos ou funções pelos membros do conselho directivo rege-se pelo regime das incompatibilidades, consagrado na Lei n.º 12/96, de 18 de Abril.\n\n8 - Considera-se motivo justificado para efeitos do artigo 6.º do Decreto-Lei n.º 464/82, de 9 de Dezembro, a infracção às obrigações previstas nos n.os 4, 5 e 7."
+  },
+  "918544551": {
+   "fragment_id": "918817812",
+   "type": 11,
+   "heading": "Artigo 22.º — Cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Cessação de funções\n\n1 - O presidente e os demais membros do conselho directivo apenas cessam o exercício das suas funções caso se verifique uma das circunstâncias seguintes:\n\na) Decurso do prazo por que foram designados;\n\nb) Incapacidade permanente ou incompatibilidade superveniente do titular;\n\nc) Renúncia;\n\nd) Demissão, decidida por resolução fundamentada do Conselho de Ministros, em caso de falta grave comprovadamente cometida pelo titular no desempenho das suas funções ou no cumprimento de qualquer outra obrigação inerente ao cargo.\n\n2 - O termo do mandato de cada um dos membros do conselho directivo é independente do termo do mandato dos restantes membros."
+  },
+  "918544552": {
+   "fragment_id": "918817813",
+   "type": 8,
+   "heading": "Secção III — Do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do conselho consultivo"
+  },
+  "918544553": {
+   "fragment_id": "918817814",
+   "type": 11,
+   "heading": "Artigo 23.º — Constituição, mandato e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Constituição, mandato e remuneração\n\n1 - O conselho consultivo é constituído por:\n\na) O presidente do conselho directivo, que preside, mas sem direito de voto;\n\nb) Um representante do Governo Regional dos Açores;\n\nc) Um representante do Governo Regional da Madeira;\n\nd) Um membro do conselho de administração do Banco de Portugal;\n\ne) Um membro do conselho directivo da Comissão do Mercado de Valores Mobiliários;\n\nf) O presidente do Instituto do Consumidor;\n\ng) O presidente de uma das associações de defesa dos consumidores;\n\nh) O presidente de uma das associações de empresas de seguros;\n\ni) O presidente de uma das associações de entidades gestoras de fundos de pensões;\n\nj) O presidente de uma das associações de mediadores de seguros;\n\nk) Até três individualidades de reconhecida idoneidade, independência e competência no âmbito das atribuições do ISP, que o Ministro das Finanças entenda conveniente designar.\n\n2 - Os membros referidos nas alíneas anteriores serão designados:\n\na) Nos casos referidos nas alíneas b) e c), pelas entidades que representam;\n\nb) Nos casos referidos nas alíneas e) a g), pelas respectivas associações, excepto quando não exista acordo quanto ao representante, caso em que a designação será feita pelo conselho directivo do ISP de entre aqueles que lhe sejam indicados pelas associações;\n\nc) No caso da alínea h), por despacho do Ministro das Finanças.\n\n3 - O presidente do conselho consultivo designa o membro que o substituirá na sua falta ou impedimento.\n\n4 - Cada um dos membros do conselho consultivo tem um mandato de três anos e pode ser substituído, até ao termo do mandato, pela entidade que o designou.\n\n5 - Os membros do conselho consultivo podem ser remunerados através de senhas de presença, de montante a definir por despacho do Ministro das Finanças, sob proposta do conselho directivo."
+  },
+  "918544554": {
+   "fragment_id": "918817815",
+   "type": 11,
+   "heading": "Artigo 24.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Competência\n\nO conselho consultivo é um órgão de consulta do ISP sobre as grandes linhas de orientação estratégica relativas à coordenação do sector, competindo-lhe:\n\na) Pronunciar-se sobre as questões que lhe sejam submetidas pelo conselho directivo, devendo, no entanto, ser obrigatoriamente ouvido sobre o relatório anual a que se refere a alínea b) do artigo 16.º;\n\nb) Apresentar, de sua própria iniciativa, ao conselho directivo, recomendações e sugestões no âmbito das atribuições do ISP."
+  },
+  "918544555": {
+   "fragment_id": "918817816",
+   "type": 11,
+   "heading": "Artigo 25.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Reuniões\n\nO conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, por convocação do seu presidente, por sua iniciativa ou a pedido da maioria dos seus membros."
+  },
+  "918544556": {
+   "fragment_id": "918817817",
+   "type": 8,
+   "heading": "Secção IV — Da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Da comissão de fiscalização"
+  },
+  "918544557": {
+   "fragment_id": "918817818",
+   "type": 11,
+   "heading": "Artigo 26.º — Constituição, mandato e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Constituição, mandato e remuneração\n\n1 - A comissão de fiscalização é constituída por um presidente e dois vogais, nomeados pelo Ministro das Finanças, devendo um deles ser revisor oficial de contas.\n\n2 - Os membros da comissão de fiscalização têm um mandato de três anos, renovável por iguais períodos.\n\n3 - Os membros da comissão de fiscalização são equiparados aos titulares dos órgãos de fiscalização das entidades públicas empresariais.\n\n4 - É aplicável aos membros da comissão de fiscalização o disposto nos n.os 4 a 6 do artigo 21.º"
+  },
+  "918544558": {
+   "fragment_id": "918817819",
+   "type": 11,
+   "heading": "Artigo 27.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competência\n\n1 - Compete à comissão de fiscalização:\n\na) Acompanhar e controlar a gestão financeira do ISP;\n\nb) Apreciar e emitir parecer sobre o orçamento, o relatório de actividade e as contas anuais do ISP;\n\nc) Fiscalizar a organização da contabilidade do ISP e o cumprimento das disposições legais e dos regulamentos internos, nos domínios orçamental, contabilístico e de tesouraria, informando o conselho directivo de quaisquer desvios ou anomalias que verifique;\n\nd) Pronunciar-se sobre qualquer assunto de interesse para o ISP, nos domínios orçamental, contabilístico, financeiro e fiscal, que seja submetido à sua apreciação pelo conselho directivo ou pelo respectivo presidente.\n\n2 - Tendo em vista o adequado desempenho das suas funções, a comissão de fiscalização terá a faculdade de:\n\na) Solicitar aos outros órgãos e aos vários departamentos do ISP todas as informações, esclarecimentos ou elementos que sejam necessários ao desempenho das suas funções;\n\nb) Solicitar ao presidente do conselho directivo reuniões conjuntas dos dois órgãos para apreciação de questões compreendidas no âmbito das suas competências."
+  },
+  "918544559": {
+   "fragment_id": "918817820",
+   "type": 11,
+   "heading": "Artigo 28.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Reuniões\n\nA comissão de fiscalização reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que seja convocada pelo respectivo presidente, por sua iniciativa, a pedido de qualquer dos membros da comissão ou a solicitação do presidente do conselho directivo."
+  },
+  "918544560": {
+   "fragment_id": "918817821",
+   "type": 1,
+   "heading": "Capítulo IV — Do património, receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Do património, receitas e despesas"
+  },
+  "918544561": {
+   "fragment_id": "918817822",
+   "type": 11,
+   "heading": "Artigo 29.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Património\n\nO património do ISP é constituído pela universalidade dos seus direitos e obrigações."
+  },
+  "918544562": {
+   "fragment_id": "918817823",
+   "type": 11,
+   "heading": "Artigo 30.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Receitas\n\n1 - Constituem receitas do ISP:\n\na) Uma taxa paga pelas entidades sujeitas a supervisão, nos termos da legislação em vigor;\n\nb) O produto da venda de bens e receitas por prestação de serviços, bem como da constituição de direitos sobre aqueles;\n\nc) Os rendimentos de bens próprios e os provenientes da sua actividade;\n\nd) As receitas de aplicações financeiras;\n\ne) Os subsídios, doações ou comparticipações atribuídos por quaisquer entidades nacionais ou estrangeiras;\n\nf) As custas dos processos de transgressão e contra-ordenação;\n\ng) Quaisquer outros rendimentos ou receitas que por lei, contrato ou outra forma lhe sejam atribuídos.\n\n2 - Transitarão para o ano seguinte os saldos apurados em cada exercício."
+  },
+  "918544563": {
+   "fragment_id": "918817824",
+   "type": 11,
+   "heading": "Artigo 31.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Despesas\n\nConstituem despesas do ISP:\n\na) Os encargos com o respectivo funcionamento;\n\nb) Os custos de aquisição, manutenção e conservação de bens ou serviços que tenha de utilizar;\n\nc) Subsídios à investigação científica e à divulgação de conhecimentos em matérias relevantes para as suas atribuições ou para o sector segurador, ressegurador e de fundos de pensões."
+  },
+  "918544564": {
+   "fragment_id": "918817825",
+   "type": 11,
+   "heading": "Artigo 32.º — Cobrança de dívidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Cobrança de dívidas\n\n1 - Os créditos do ISP provenientes de taxas ou outras receitas cuja obrigação de pagamento esteja estabelecida na lei ou haja sido reconhecida por despacho ministerial estão sujeitos a cobrança coerciva e far-se-á pelo processo de execuções fiscais, regulado pelo Código de Procedimento e de Processo Tributário, através dos serviços competentes de justiça fiscal, sendo as taxas e receitas equiparadas a créditos do Estado.\n\n2 - Para efeitos do número anterior, o conselho directivo emitirá certidão com valor de título executivo de acordo com o disposto nos artigos 162.º e 163.º do Código de Procedimento e de Processo Tributário."
+  },
+  "918544565": {
+   "fragment_id": "918817826",
+   "type": 1,
+   "heading": "Capítulo V — Da gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Da gestão financeira e patrimonial"
+  },
+  "918544566": {
+   "fragment_id": "918817827",
+   "type": 11,
+   "heading": "Artigo 33.º — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Gestão financeira e patrimonial\n\n1 - A actividade de gestão financeira e patrimonial do ISP, em tudo o que não for especialmente regulado pelo presente diploma, rege-se exclusivamente pelo regime jurídico das entidades públicas empresariais, não lhe sendo aplicável o regime geral da actividade financeira dos fundos e serviços autónomos.\n\n2 - O orçamento anual do ISP, que será elaborado de acordo com o Plano Oficial de Contabilidade, depende de aprovação prévia do Ministro das Finanças.\n\n3 - A contabilidade do ISP é elaborada de acordo com o Plano Oficial de Contabilidade, não lhe sendo aplicável o regime da contabilidade pública.\n\n4 - Compete ao ISP a gestão dos fundos públicos conexos ou complementares da actividade seguradora.\n\n5 - Salvo disposição legal em contrário, o ISP representa, para todos os efeitos, os fundos cuja gestão lhe está confiada por lei e exerce todos os seus direitos e obrigações.\n\n6 - Na gestão dos fundos que lhe estão confiados e nos processos de intervenção em empresas para fins de saneamento e de liquidação, o ISP pode renunciar a créditos e perdoar dívidas, dar e aceitar dações em pagamento e transigir em juízo ou fora dele.\n\n7 - Na gestão dos fundos que estão confiados ao ISP aplicam-se os n.os 1 a 3 do presente artigo.\n\n8 - Sem prejuízo da competência do Tribunal de Contas quanto a esta matéria, a contabilidade do ISP pode, por iniciativa do conselho directivo, ser auditada por entidades independentes."
+  },
+  "918544567": {
+   "fragment_id": "918817828",
+   "type": 1,
+   "heading": "Capítulo VI — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Recursos humanos"
+  },
+  "918544568": {
+   "fragment_id": "918817829",
+   "type": 11,
+   "heading": "Artigo 34.º — Regime geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regime geral\n\n1 - O pessoal do ISP rege-se pelas normas aplicáveis ao contrato individual de trabalho, sem prejuízo do disposto no presente Estatuto e no regulamento interno e demais regulamentos do ISP.\n\n2 - O ISP pode ser parte em instrumentos de regulamentação colectiva de trabalho."
+  },
+  "918544569": {
+   "fragment_id": "918817830",
+   "type": 11,
+   "heading": "Artigo 35.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Estatuto\n\n1 - As condições de admissão, as remunerações e as regalias do pessoal do ISP são fixadas pelo conselho directivo, devendo constar de regulamento interno, elaborado nos termos da lei.\n\n2 - Salvo no respeitante aos trabalhadores que exerçam cargos de apoio pessoal, definidos no respectivo regulamento, o recrutamento do pessoal deve ser precedido de anúncio público e de um procedimento de avaliação que garanta o respeito dos princípios da igualdade e da imparcialidade.\n\n3 - Salvo por designação do ISP e para prossecução dos seus fins, os trabalhadores do ISP não podem prestar trabalho ou outros serviços, remunerados ou não, a empresas sujeitas à sua supervisão, nem exercer actividades de mediação de seguros."
+  },
+  "918544570": {
+   "fragment_id": "918817831",
+   "type": 11,
+   "heading": "Artigo 36.º — Funções de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Funções de fiscalização\n\nOs trabalhadores do ISP que desempenhem funções de fiscalização, quando se encontrem no exercício das suas funções, gozam das seguintes prerrogativas:\n\na) Podem identificar, para posterior actuação, as entidades que infrinjam os regulamentos sujeitos à fiscalização do ISP;\n\nb) Podem requerer o auxílio das autoridades administrativas e judiciais, quando o julguem necessário ao desempenho das suas funções;\n\nc) Têm acesso às instalações das entidades sujeitas à supervisão do ISP."
+  },
+  "918544571": {
+   "fragment_id": "918817832",
+   "type": 11,
+   "heading": "Artigo 37.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Mobilidade\n\n1 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os empregados, quadros ou administradores de empresas públicas ou privadas, podem desempenhar funções no ISP em regime de requisição ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos, considerando-se o período de requisição ou comissão como tempo de serviço prestado nos quadros de que provenham.\n\n2 - Os trabalhadores do ISP podem desempenhar funções no Estado, em institutos públicos ou em autarquias locais, bem como em empresas públicas, em regime de requisição, destacamento ou de comissão de serviço, nos termos da legislação em vigor.\n\n3 - Aos funcionários do Estado, institutos públicos ou autarquias locais que desempenhem funções no ISP nos termos do n.º 1 continua a aplicar-se o regime disciplinar que lhes é próprio, cabendo, todavia, ao conselho directivo exercer o poder disciplinar enquanto permanecerem ao serviço do ISP.\n\n4 - Aos trabalhadores de empresas públicas e de empresas privadas na situação referida no n.º 1 sujeitos ao regime do contrato individual de trabalho aplicar-se-á o regime disciplinar que vigorar no ISP, cabendo ao respectivo conselho directivo exercer o poder disciplinar relativamente a todas as infracções praticadas durante o tempo em que o trabalhador estiver ao serviço do ISP."
+  },
+  "918544572": {
+   "fragment_id": "918817833",
+   "type": 11,
+   "heading": "Artigo 38.º — Segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Segurança social\n\n1 - Os trabalhadores do ISP encontram-se submetidos ao regime geral de segurança social.\n\n2 - Os trabalhadores do ISP têm direito a complementos de reforma de valor não inferior aos previstos no contrato colectivo de trabalho para a actividade seguradora, os quais serão garantidos por um fundo de pensões."
+  },
+  "918544573": {
+   "fragment_id": "918817834",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições gerais"
+  },
+  "918544574": {
+   "fragment_id": "918817835",
+   "type": 11,
+   "heading": "Artigo 39.º — Segredo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Segredo profissional\n\n1 - Os membros dos órgãos do ISP, os trabalhadores eventuais ou permanentes do seu quadro de pessoal, bem como as pessoas ou entidades, públicas ou privadas, que lhe prestem, a título permanente ou ocasional, quaisquer serviços ficam sujeitos, nos termos dos artigos 158.º a 162.º do Decreto-Lei n.º 94 -B/98, de 17 de Abril, e do presente Estatuto, a segredo profissional sobre os factos cujo conhecimento lhes advenha do exercício das suas funções ou da prestação dos serviços referidos e, seja qual for a finalidade, não poderão divulgar, nem utilizar, em proveito próprio ou alheio, directamente ou por interposta pessoa, o conhecimento que tenham desses factos.\n\n2 - Sem prejuízo do disposto no número anterior, o dever de segredo profissional manter-se-á ainda que as pessoas ou entidades a ele sujeitas nos termos do número anterior deixem de estar ao serviço do ISP.\n\n3 - Sem prejuízo da responsabilidade civil e criminal que dela resulte, a violação do dever de sigilo estabelecida no presente artigo, quando cometida por um membro dos órgãos do ISP ou pelo seu pessoal, implica para o infractor as sanções disciplinares correspondentes à sua gravidade, que poderão ir até à destituição ou à rescisão do respectivo contrato de trabalho, e quando praticada por pessoa ou entidade vinculada ao ISP por um contrato de prestação de serviços dará ao conselho directivo o direito de resolver imediatamente esse contrato."
+  },
+  "918817975": {
+   "fragment_id": "918817836",
+   "type": 11,
+   "heading": "Artigo 40.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Recursos\n\nDos actos administrativos do presidente do conselho directivo, do conselho directivo e dos serviços do ISP, no uso de poderes delegados, cabe recurso contencioso, nos termos gerais de direito."
+  },
+  "918544517": {
+   "fragment_id": "918817778",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 289/2001\n\nde 13 de Novembro\n\nO Estatuto do Instituto de Seguros de Portugal (ISP), autoridade de supervisão da actividade seguradora, resseguradora, mediação de seguros e de fundos de pensões, foi aprovado pelo Decreto-Lei n.º 251/97, de 26 de Setembro, tendo traduzido, à data, a necessidade de actualização a um novo contexto marcado pelo processo de privatizações, pelo mercado único de seguros - principal responsável pela liberalização progressiva e desregulamentação da actividade - e, ainda, pela proliferação de novos produtos, com especial incidência na institucionalização dos fundos de pensões.\n\nOra, embora o ISP se encontre dotado de um Estatuto relativamente recente, algumas razões ponderosas militam no sentido de uma reformulação do regime aprovado pelo Decreto-Lei n.º 251/97, de 26 de Setembro.\n\nEntre outros aspectos, avultam, primacialmente, dois factores que impõem essa reformulação. Por um lado, procedendo-se a uma revisão do regime de acesso e exercício da actividade seguradora constante do Decreto-Lei n.º 94-B/98, de 17 de Abril, a qual apresenta como uma das suas vertentes o reforço da autonomia e da esfera decisória do ISP, justifica-se uma articulação dessa evolução com o enquadramento geral das atribuições e competências da instituição.\n\nDe facto, no panorama dos Estados que, com Portugal, constituem a União Europeia, tem-se verificado, nos últimos anos, uma tendência para a crescente autonomia face aos Governos das entidades públicas encarregues de funções de regulação e de supervisão de mercados e sectores. Esta tendência tem-se manifestado com particular evidência no âmbito das entidades do sector financeiro, correspondendo, desse modo, a uma nova concepção sobre a intervenção pública nesse sector.\n\nPor outro lado, tendo sido já desencadeada uma nova fase de evolução do sistema nacional de supervisão financeira que pressupõe a criação de uma nova estrutura institucional, apta a impulsionar o aprofundamento da coordenação e articulação entre as três instituições que presentemente integram o sistema de supervisão do sector financeiro, justificar-se-á acentuar a convergência dos enquadramentos estatutários dessas entidades.\n\nPara responder às descritas preocupações, para além de o ISP passar a ficar sujeito apenas a poderes de tutela do Ministro das Finanças, deixando de estar sob a sua superintendência, o presente diploma consagra a atribuição aos órgãos do ISP de um amplo poder regulamentar e a ampliação das competências decisórias em matérias de supervisão, que, assim, deixam de estar dependentes de uma intervenção directa do Ministro das Finanças.\n\nÉ o que sucede, nomeadamente, com as decisões sobre a constituição, cisão, fusão, encerramento e liquidação de empresas de seguros ou resseguros e de sociedades gestoras de fundos de pensões.\n\nNo sentido da maior autonomia do ISP e de aproximação de regime das três autoridades de supervisão, concorrem ainda o novo regime aplicável aos membros do conselho directivo, o alargamento do período de mandato de três para cinco anos e a fixação de um regime de inamovibilidade, que já é regra nas demais entidades de supervisão financeira.\n\nNo domínio da gestão financeira e patrimonial, simplifica-se o regime contabilístico, devendo a gestão orçamental do ISP basear-se numa racionalização dos recursos financeiros provenientes do sector supervisionado.\n\nNos outros domínios, para além de algumas clarificações, actualizações terminológicas e aperfeiçoamentos de ordem sistemática, a revisão do Estatuto mantém, no essencial, o regime actualmente vigente.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, bem como o Instituto de Seguros de Portugal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "918544523": {
+   "fragment_id": "918817784",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Setembro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa - Paulo José Fernandes Pedroso - Alberto de Sousa Martins.\n\nPromulgado em 30 de Outubro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 31 de Outubro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "918880627": {
+   "fragment_id": "918817799",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição, nomeação e mandato",
+   "in_force_from": "2002-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 195/2002 - Diário da República n.º 222/2002, Série I-A de 2002-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2002-647508), em vigor a partir de 2002-09-30"
+   ],
+   "markdown": "###### Artigo 9.º — Composição, nomeação e mandato\n\nO conselho directivo do ISP é composto por um presidente, por um vice-presidente e por dois vogais nomeados por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, por um período de cinco anos, renovável uma vez, por igual período, de entre pessoas com reconhecida idoneidade, independência e competência.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 195/2002 - Diário da República n.º 222/2002, Série I-A de 2002-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2002-647508), em vigor a partir de 2002-09-30"
+  },
+  "918817978": {
+   "fragment_id": "918817814",
+   "type": 11,
+   "heading": "Artigo 23.º — Constituição, mandato e remuneração",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 20-AQ/2001 - Diário da República n.º 278/2001, 3º Suplemento, Série I-A de 2001-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-aq-2001-203231), produz efeitos a partir de 2001-11-21"
+   ],
+   "markdown": "###### Artigo 23.º — Constituição, mandato e remuneração\n\n1 - O conselho consultivo é constituído por:\n\na) O presidente do conselho directivo, que preside, mas sem direito de voto;\n\nb) Um representante do Governo Regional dos Açores;\n\nc) Um representante do Governo Regional da Madeira;\n\nd) Um membro do conselho de administração do Banco de Portugal;\n\ne) Um membro do conselho directivo da Comissão do Mercado de Valores Mobiliários;\n\nf) O presidente do Instituto do Consumidor;\n\ng) O presidente de uma das associações de defesa dos consumidores;\n\nh) O presidente de uma das associações de empresas de seguros;\n\ni) O presidente de uma das associações de entidades gestoras de fundos de pensões;\n\nj) O presidente de uma das associações de mediadores de seguros;\n\nk) Até três individualidades de reconhecida idoneidade, independência e competência no âmbito das atribuições do ISP, que o Ministro das Finanças entenda conveniente designar.\n\n2 - Os membros referidos nas alíneas anteriores serão designados:\n\na) Nos casos referidos nas alíneas b) a e), pelas entidades que representam;\n\nb) Nos casos referidos nas alíneas g) a j), pelas respectivas associações, excepto quando não exista acordo quanto ao representante, caso em que a designação será feita pelo conselho directivo do ISP de entre aqueles que lhe sejam indicados pelas associações;\n\nc) No caso da alínea k), por despacho do Ministro das Finanças.\n\n3 - O presidente do conselho consultivo designa o membro que o substituirá na sua falta ou impedimento.\n\n4 - Cada um dos membros do conselho consultivo tem um mandato de três anos e pode ser substituído, até ao termo do mandato, pela entidade que o designou.\n\n5 - Os membros do conselho consultivo podem ser remunerados através de senhas de presença, de montante a definir por despacho do Ministro das Finanças, sob proposta do conselho directivo.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 20-AQ/2001 - Diário da República n.º 278/2001, 3º Suplemento, Série I-A de 2001-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-aq-2001-203231), produz efeitos a partir de 2001-11-21"
+  },
+  "919118791": {
+   "fragment_id": "918817779",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Aprovação\n\nÉ aprovado o Estatuto do Instituto de Seguros de Portugal, publicado em anexo ao presente diploma e que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118792": {
+   "fragment_id": "918817780",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei Orgânica do Ministério das Finanças",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Alteração à Lei Orgânica do Ministério das Finanças\n\nO artigo 10.º do Decreto-Lei n.º 158/96, de 3 de Setembro, alterado pelo Decreto-Lei n.º 21/99, de 28 de Janeiro, passa a ter a seguinte redacção:\n\n«Artigo 10.º\n\n[...]\n\n...\n\na) ...\n\nb) [Redacção da anterior alínea c).]\n\nc) [Redacção da anterior alínea d).]\n\nd) [Redacção da anterior alínea e).]»\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118793": {
+   "fragment_id": "918817781",
+   "type": 11,
+   "heading": "Artigo 3.º — Actuais mandatos",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 3.º — Actuais mandatos\n\nMantêm-se em funções os membros dos actuais órgãos do Instituto de Seguros de Portugal, até que sejam designados novos membros ao abrigo do diploma ora aprovado.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118794": {
+   "fragment_id": "918817782",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 251/97, de 26 de Setembro.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118795": {
+   "fragment_id": "918817783",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor oito dias após a sua publicação.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118796": {
+   "fragment_id": "918817784",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Setembro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa - Paulo José Fernandes Pedroso - Alberto de Sousa Martins.\n\nPromulgado em 30 de Outubro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 31 de Outubro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118797": {
+   "fragment_id": "918817785",
+   "type": 14,
+   "heading": "Anexo — ESTATUTO DO INSTITUTO DE SEGUROS DE PORTUGAL",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "## Anexo — ESTATUTO DO INSTITUTO DE SEGUROS DE PORTUGAL\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118798": {
+   "fragment_id": "918817786",
+   "type": 1,
+   "heading": "Capítulo I — Da denominação, natureza, regime e sede",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "### Capítulo I — Da denominação, natureza, regime e sede\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118799": {
+   "fragment_id": "918817787",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Instituto de Seguros de Portugal, adiante designado abreviadamente por ISP, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118800": {
+   "fragment_id": "918817788",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime e tutela",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Regime e tutela\n\n1 - O ISP rege-se pelo presente diploma e pelo seu regulamento interno, bem como, no que por aquele ou por este não for especialmente regulado e com eles não for incompatível, pelas normas aplicáveis às entidades públicas empresariais.\n\n2 - O ISP fica sujeito à tutela do Ministro das Finanças, que será exercida nos termos previstos neste Estatuto.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118801": {
+   "fragment_id": "918817789",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede e delegações",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 3.º — Sede e delegações\n\nO ISP tem a sua sede em Lisboa e uma delegação no Porto, podendo criar delegações noutras localidades do País ou outras formas de representação.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118802": {
+   "fragment_id": "918817790",
+   "type": 1,
+   "heading": "Capítulo II — Atribuições",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "### Capítulo II — Atribuições\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118803": {
+   "fragment_id": "918817791",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - São atribuições do ISP:\n\na) Regulamentar, fiscalizar e supervisionar a actividade seguradora, resseguradora, de mediação de seguros e de fundos de pensões, bem como as actividades conexas ou complementares daquelas;\n\nb) Assistir o Governo e o Ministro das Finanças, a pedido deste ou por iniciativa própria, na definição das orientações a prosseguir na política para o sector segurador, nele se incluindo as actividades conexas ou complementares da actividade seguradora, resseguradora e de mediação de seguros, bem como os fundos de pensões;\n\nc) Executar e exercer o controlo de execução dessa política;\n\nd) Colaborar com as autoridades congéneres de outros Estados nos domínios da sua competência, em particular com as autoridades congéneres dos Estados-Membros da União Europeia;\n\ne) Colaborar com as demais autoridades nacionais nos domínios da sua competência e, em particular, com as outras autoridades de supervisão financeira;\n\nf) Gerir os fundos que lhe sejam confiados por lei.\n\n2 - A supervisão do ISP abrange toda a actividade das empresas a ela sujeitas, incluindo as actividades conexas ou complementares da actividade principal, e é exercida de harmonia com a legislação nacional e comunitária em vigor e no sentido do bom funcionamento e da tutela do mercado, garantindo a protecção dos credores específicos de seguros.\n\n3 - No âmbito das suas atribuições, o ISP emite normas regulamentares de cumprimento obrigatório pelas entidades sujeitas à sua supervisão, as quais são publicadas na 2.ª série do Diário da República.\n\n4 - O ISP tem legitimidade para requerer quaisquer providências cautelares sempre que necessário para o equilíbrio do sector segurador e para garantia eficaz dos interesses dos credores específicos de empresas de seguros e sociedades gestoras de fundos de pensões e, bem assim, para agir em juízo em defesa dos interesses dos participantes nos fundos de pensões.\n\n5 - O ISP pode passar certidões de factos relacionados com as suas atribuições, nos termos da legislação aplicável.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118804": {
+   "fragment_id": "918817792",
+   "type": 11,
+   "heading": "Artigo 5.º — Instruções vinculativas",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 5.º — Instruções vinculativas\n\n1 - No exercício das suas atribuições, o ISP emite instruções vinculativas para que sejam sanadas as irregularidades de que tenha conhecimento nas empresas sujeitas à sua supervisão, adoptando os actos necessários para o efeito.\n\n2 - São ineficazes os actos praticados em violação de instruções ou proibições específicas emitidas pelo ISP no exercício das suas atribuições.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118805": {
+   "fragment_id": "918817793",
+   "type": 11,
+   "heading": "Artigo 6.º — Colaboração de outras autoridades e entidades",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 6.º — Colaboração de outras autoridades e entidades\n\n1 - O ISP pode solicitar a todas as autoridades, serviços públicos ou outras entidades públicas as informações e diligências necessárias ao exercício das suas atribuições.\n\n2 - O ISP pode requisitar informações que tenha por relevantes a quaisquer entidades privadas, e designadamente a pessoas singulares ou a pessoas colectivas que participem nas empresas sujeitas à sua supervisão ou sejam por elas participadas, a indivíduos ou pessoas colectivas que exerçam actividades que caiba ao ISP fiscalizar, e ainda a revisores oficiais de contas e auditores, à Câmara dos Revisores Oficiais de Contas e ao Instituto dos Actuários Portugueses.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118806": {
+   "fragment_id": "918817794",
+   "type": 1,
+   "heading": "Capítulo III — Estrutura orgânica",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "### Capítulo III — Estrutura orgânica\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118807": {
+   "fragment_id": "918817795",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118808": {
+   "fragment_id": "918817796",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos do ISP",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 7.º — Órgãos do ISP\n\nSão órgãos do ISP o conselho directivo, o conselho consultivo e a comissão de fiscalização.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118809": {
+   "fragment_id": "918817797",
+   "type": 11,
+   "heading": "Artigo 8.º — Quórum e regras de deliberação",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 8.º — Quórum e regras de deliberação\n\n1 - Os órgãos do ISP só podem deliberar validamente com a presença da maioria dos seus membros.\n\n2 - Sem prejuízo do disposto no artigo 20.º, n.º 3, as deliberações dos órgãos do ISP são tomadas por maioria dos votos dos membros presentes nas respectivas reuniões, cabendo ao presidente, ou a quem o substituir, quando tenha direito de voto, voto de qualidade.\n\n3 - De todas as reuniões dos órgãos do ISP lavrar-se-á acta, que será assinada por todos os membros presentes.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118810": {
+   "fragment_id": "918817798",
+   "type": 8,
+   "heading": "Secção II — Conselho directivo",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "#### Secção II — Conselho directivo\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118811": {
+   "fragment_id": "918817799",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição, nomeação e mandato",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 195/2002 - Diário da República n.º 222/2002, Série I-A de 2002-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2002-647508), em vigor a partir de 2002-09-30"
+   ],
+   "markdown": "###### Artigo 9.º — Composição, nomeação e mandato\n\nO conselho directivo do ISP é composto por um presidente, por um vice-presidente e por dois vogais nomeados por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, por um período de cinco anos, renovável uma vez, por igual período, de entre pessoas com reconhecida idoneidade, independência e competência.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 195/2002 - Diário da República n.º 222/2002, Série I-A de 2002-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2002-647508), em vigor a partir de 2002-09-30"
+  },
+  "919118812": {
+   "fragment_id": "918817800",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 10.º — Competências\n\n1 - Compete ao conselho directivo definir a orientação geral e a política de gestão interna e praticar todos os actos adequados ao desenvolvimento das atribuições do ISP que não se compreendam no âmbito da competência dos outros órgãos.\n\n2 - O conselho directivo terá ainda competências no âmbito da regulamentação, da fiscalização e da supervisão da actividade seguradora, resseguradora, de mediação de seguros e dos fundos de pensões, no âmbito da gestão de fundos e de gestão do ISP, bem como das relações com outras instituições e relações internacionais, nos termos dos artigos seguintes.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118813": {
+   "fragment_id": "918817801",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências no âmbito da regulamentação",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 11.º — Competências no âmbito da regulamentação\n\nCompete ao conselho directivo, no âmbito da regulamentação da actividade seguradora, resseguradora, de mediação de seguros e de fundos de pensões:\n\na) Apresentar ao Governo, a pedido deste ou por iniciativa própria, propostas legislativas sobre matérias das atribuições do ISP;\n\nb) Aprovar regulamentos e outros actos normativos, no âmbito das atribuições do ISP, de cumprimento obrigatório pelas entidades sujeitas à sua supervisão.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118814": {
+   "fragment_id": "918817802",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências no âmbito da actividade de supervisão",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 12.º — Competências no âmbito da actividade de supervisão\n\n1 - Compete ao conselho directivo, no âmbito da actividade de supervisão:\n\na) Apreciar e decidir sobre operações relativas às empresas sujeitas à supervisão do ISP, designadamente de constituição, cisão e fusão de empresas de seguros e de resseguro e de sociedades gestoras de fundos de pensões, bem como sobre o seu encerramento e liquidação e demais matérias relativas às actividades e empresas supervisionadas;\n\nb) Pronunciar-se sobre o exercício, por empresas sediadas em Portugal, da actividade seguradora, resseguradora ou de fundos de pensões em outros países e autorizar a abertura de agências, sucursais e quaisquer outras formas de representação dessas empresas fora do território da Comunidade Europeia;\n\nc) Autorizar a exploração de ramos ou modalidades de seguros e definir apólices uniformes para determinados contratos de seguros;\n\nd) Apreciar e aceitar o depósito de bases técnicas, condições gerais, especiais e tarifárias de contratos;\n\ne) Apreciar a representação das provisões técnicas das empresas supervisionadas pelo ISP;\n\nf) Apreciar as contas de exercício das empresas sujeitas à supervisão do ISP, podendo, por decisão fundamentada, impor rectificações;\n\ng) Certificar as empresas sujeitas à supervisão do ISP;\n\nh) Acompanhar a actividade das empresas sujeitas à supervisão do ISP e vigiar o cumprimento das normas aplicáveis e a observância das regras de controlo prudencial;\n\ni) Determinar a inspecção, sempre que o entenda conveniente ou em cumprimento de disposições legais, das empresas sujeitas à supervisão do ISP, requisitar-lhes informações e documentos e proceder a averiguações e exames em qualquer entidade ou local, no quadro do desempenho destas funções;\n\nj) Suspender as autorizações concedidas e determinar a suspensão temporária ou retirada definitiva de clausulados e condições tarifárias e a comercialização de produtos, quando ocorra violação da lei ou haja risco ilegítimo para os interessados ou para o equilíbrio da exploração da empresa ou do sector;\n\nl) Proceder ao registo dos membros dos órgãos de administração e fiscalização das empresas sujeitas à supervisão do ISP, bem como ao registo dos acordos parassociais entre os accionistas das referidas empresas;\n\nm) Certificar os agentes de mediação de seguros ou de resseguros e exercer a respectiva supervisão;\n\nn) Instaurar e instruir processos de transgressão e fixar o montante da respectiva multa;\n\no) Instaurar e instruir processos de contra-ordenação e aplicar as respectivas coimas e sanções acessórias;\n\np) Exercer as demais competências de supervisão que lhe sejam cometidas por diploma legal.\n\n2 - O disposto na alínea a) do presente artigo não prejudica o regime legalmente estabelecido na lei quanto aos mecanismos de defesa da concorrência e à entidade competente nessa matéria.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118815": {
+   "fragment_id": "918817803",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências no âmbito da gestão de fundos",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 13.º — Competências no âmbito da gestão de fundos\n\n1 - Compete ao conselho directivo, no âmbito da gestão de fundos:\n\na) Praticar todos os actos necessários no âmbito da gestão do Fundo de Garantia Automóvel (FGA);\n\nb) Praticar todos os actos necessários no âmbito da gestão do Fundo de Acidentes de Trabalho (FAT);\n\nc) Praticar todos os actos necessários no âmbito da gestão de outros fundos que lhe sejam confiados por lei.\n\n2 - A gestão dos fundos a que se refere o n.º 1 é efectuada nos termos dos diplomas legais constitutivos dos mesmos.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118816": {
+   "fragment_id": "918817804",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências no âmbito das relações com outras instituições e relações internacionais",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 14.º — Competências no âmbito das relações com outras instituições e relações internacionais\n\nCompete ao conselho directivo, no âmbito das relações com outras instituições e no das relações internacionais:\n\na) Colaborar com todas as autoridades nacionais e comunitárias nas matérias da sua competência e, em especial, colaborar com o Banco de Portugal e com a Comissão do Mercado de Valores Mobiliários, com vista a assegurar a eficácia e a coerência global da supervisão do sistema financeiro;\n\nb) Fazer-se representar em organismos internacionais que se ocupem de matérias relacionadas com as suas competências.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118817": {
+   "fragment_id": "918817805",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências no âmbito da gestão do ISP",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 15.º — Competências no âmbito da gestão do ISP\n\nCompete ao conselho directivo, no âmbito da gestão do ISP:\n\na) Elaborar o plano de actividades e o orçamento anuais do ISP e submetê-los, com o parecer da comissão de fiscalização, à aprovação do Ministro das Finanças;\n\nb) Elaborar, quando for o caso, os orçamentos suplementares do ISP e submetê-los, acompanhados do parecer da comissão de fiscalização, à aprovação do Ministro das Finanças;\n\nc) Elaborar o relatório da actividade desenvolvida pelo ISP em cada exercício, o balanço e as contas anuais e submeter estes documentos até 31 de Março do ano seguinte, com o parecer da comissão de fiscalização, à aprovação do Ministro das Finanças, devendo os referidos documentos ser publicados no Diário da República no prazo de 30 dias após a sua aprovação;\n\nd) Elaborar um regulamento interno, sujeito à aprovação do Ministro das Finanças, no qual defina a estrutura organizacional do ISP, as competências e funções dos serviços que a integram, as normas gerais a observar no desenvolvimento das actividades a seu cargo e, em geral, o que se revele adequado, tendo em vista o seu bom funcionamento;\n\ne) Arrecadar as receitas do ISP e autorizar a realização das despesas necessárias ao seu funcionamento;\n\nf) Gerir o património do ISP e, nomeadamente, deliberar sobre a aquisição, alienação, locação financeira ou aluguer de bens móveis e sobre o arrendamento de bens imóveis destinados à instalação, equipamento e funcionamento do ISP;\n\ng) Deliberar sobre a aquisição, locação financeira ou alienação de bens imóveis para os mesmos fins, com autorização prévia do Ministro das Finanças;\n\nh) Contratar com terceiros a prestação de quaisquer serviços com vista ao adequado desempenho das atribuições, do ISP;\n\ni) Assegurar a implementação da política de gestão de pessoal;\n\nj) Representar o ISP em juízo, activa e passivamente, podendo transigir, confessar e desistir em quaisquer litígios e comprometer o ISP em arbitragem.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118818": {
+   "fragment_id": "918817806",
+   "type": 11,
+   "heading": "Artigo 16.º — Outras competências",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 16.º — Outras competências\n\nCompete, ainda, ao conselho directivo:\n\na) Assegurar a recolha, tratamento e publicação de dados estatísticos sobre o sector segurador, ressegurador e de fundos de pensões, bem como de outros elementos informativos necessários para fins estatísticos;\n\nb) Promover a publicação de um relatório anual sobre o sector segurador, ressegurador e de fundos de pensões, a sua situação económica, financeira e patrimonial e o seu enquadramento na situação económica global do País;\n\nc) Promover a elaboração de estudos técnicos relevantes para o desempenho das suas funções;\n\nd) Gerir o sistema de informação de matrículas de automóveis, a que se refere o n.º 3 do artigo 39.º do Decreto-Lei n.º 522/85, de 31 de Dezembro;\n\ne) Praticar quaisquer outros actos da competência do ex-Instituto Nacional de Seguros e do ex-Inspecção-Geral de Seguros e que sejam, nos termos do artigo 4.º, compatíveis com as atribuições do ISP;\n\nf) Criar e encerrar delegações ou representações do ISP;\n\ng) Analisar e dar parecer sobre pedidos de informação e reclamações, apresentados por particulares e organismos oficiais, não resolvidos noutras instâncias, relativamente ao exercício das actividades seguradora, de mediação de seguros e de fundos de pensões;\n\nh) Praticar quaisquer outros actos que lhe sejam cometidos por lei.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118819": {
+   "fragment_id": "918817807",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências do presidente",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 17.º — Competências do presidente\n\n1 - Compete ao presidente do conselho directivo:\n\na) Assegurar a representação do ISP em actos de qualquer natureza;\n\nb) Assegurar as relações com a tutela;\n\nc) Convocar o conselho directivo e presidir às suas reuniões;\n\nd) Promover, sempre que o entenda conveniente ou o conselho directivo o delibere, a convocação do conselho consultivo e da comissão de fiscalização, bem como de reuniões conjuntas destes órgãos ou de qualquer deles com o conselho directivo, presidindo a essas reuniões;\n\ne) Dirigir superiormente todas as actividades e departamentos do ISP e assegurar o seu adequado funcionamento;\n\nf) Exercer as demais funções que lhe sejam cometidas pelo regulamento interno do ISP ou que o conselho directivo lhe delegue nos termos do artigo 18.º\n\n2 - O presidente tem ainda competência para tomar todas as decisões e praticar todos os actos que, dependendo de deliberação do conselho directivo, não possam, por motivo imperioso de urgência, aguardar a reunião do conselho, devendo tais decisões ou actos ser submetidos a ratificação do conselho directivo na primeira reunião ordinária subsequente.\n\n3 - O presidente pode suspender a eficácia de deliberações do conselho directivo que considere violarem o Estatuto do ISP ou o interesse público e submetê-las a confirmação do Ministro das Finanças.\n\n4 - Compete ao vice-presidente do conselho directivo coadjuvar o presidente no desempenho das respectivas funções, substituí-lo nas ausências ou nos impedimentos e exercer as demais funções que lhe sejam delegadas nos termos do artigo seguinte.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118820": {
+   "fragment_id": "918817808",
+   "type": 11,
+   "heading": "Artigo 18.º — Delegação de competências",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 18.º — Delegação de competências\n\n1 - O conselho directivo pode distribuir pelos seus membros, sob proposta do presidente, a gestão das várias áreas de funcionamento do ISP.\n\n2 - A distribuição de pelouros prevista no número anterior envolve a delegação das competências correspondentes às áreas em causa, dentro dos limites e em condições fixados no acto de distribuição.\n\n3 - O conselho directivo deve, em qualquer caso, fixar expressamente os limites das delegações de poderes e mencionar a existência ou não da faculdade de subdelegação.\n\n4 - O previsto nos números anteriores não prejudica o dever que incumbe a todos os membros do conselho directivo de tomarem conhecimento e acompanharem a generalidade dos assuntos do ISP e de sobre os mesmos se pronunciarem, nem o poder do conselho directivo de avocar os poderes delegados ou revogar os actos praticados pelo delegado ou subdelegado ao abrigo da delegação ou subdelegação, sempre que o entenda conveniente.\n\n5 - A delegação deve constar da acta da reunião em que a respectiva deliberação for tomada e é publicada na 2.ª série do Diário da República.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118821": {
+   "fragment_id": "918817809",
+   "type": 11,
+   "heading": "Artigo 19.º — Vinculação do ISP",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 19.º — Vinculação do ISP\n\n1 - O ISP obriga-se pela assinatura:\n\na) Do presidente do conselho directivo;\n\nb) De, pelo menos, dois dos membros do conselho directivo; ou\n\nc) De quem estiver devidamente habilitado para o efeito, nos termos do artigo anterior.\n\n2 - Os actos de mero expediente, de que não resultem obrigações para o ISP, poderão ser subscritos por qualquer membro do conselho directivo ou por trabalhador do ISP a quem tal poder seja expressamente atribuído.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118822": {
+   "fragment_id": "918817810",
+   "type": 11,
+   "heading": "Artigo 20.º — Reuniões e deliberações",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 20.º — Reuniões e deliberações\n\n1 - O conselho directivo reúne, ordinariamente, com a periodicidade que no seu regulamento interno se fixar e, extraordinariamente, sempre que o seu presidente, por iniciativa própria, a pedido de dois dos seus membros ou a pedido da comissão de fiscalização, o convoque.\n\n2 - O conselho directivo delibera validamente com a presença da maioria dos seus membros.\n\n3 - As deliberações são tomadas por maioria dos votos dos membros presentes, incluindo obrigatoriamente o voto do presidente, quando tenham por objecto as seguintes matérias:\n\na) Aprovação de regulamentos e outros actos normativos do ISP;\n\nb) Aprovação de projectos de diplomas legais a apresentar ao Ministro das Finanças;\n\nc) Aprovação da proposta de regulamento interno do ISP;\n\nd) Elaboração do plano de actividades e do orçamento anual;\n\ne) As matérias das alíneas f) e g) do artigo 15.º do presente Estatuto.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118823": {
+   "fragment_id": "918817811",
+   "type": 11,
+   "heading": "Artigo 21.º — Estatuto dos membros do conselho directivo",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 21.º — Estatuto dos membros do conselho directivo\n\n1 - Os membros do conselho directivo ficam sujeitos ao Estatuto do Gestor Público, sem prejuízo das especialidades constantes do presente Estatuto, e têm remunerações e regalias, a fixar por despacho do Ministro das Finanças, equivalentes às dos membros dos órgãos de administração das restantes autoridades de supervisão financeira.\n\n2 - Os membros do conselho directivo ficam sujeitos ao regime de segurança social dos membros dos órgãos estatutários das pessoas colectivas, salvo se nomeados em comissão de serviço ou requisição, caso em que mantêm o sistema de protecção social do respectivo quadro de origem.\n\n3 - Os membros do conselho directivo não podem durante o seu mandato realizar, directamente ou por interposta pessoa, operações sobre valores mobiliários emitidos por empresas sujeitas à supervisão do ISP.\n\n4 - Os membros do conselho directivo que à data da sua nomeação sejam titulares de valores mobiliários emitidos por empresas sujeitas à supervisão do ISP devem aliená-los antes da tomada de posse ou apresentar ao conselho directivo, no prazo de 30 dias a contar dessa data, uma declaração dando conta da sua existência, só os podendo alienar com autorização do Ministro das Finanças.\n\n5 - Da declaração referida no número anterior, que será conservada em livro próprio nos arquivos do ISP, deve constar a identificação dos valores mobiliários por espécie, quantidade e preço de aquisição.\n\n6 - O relatório de actividade do ISP será acompanhado de um anexo, do qual constará o teor das declarações referidas.\n\n7 - O exercício de quaisquer cargos ou funções pelos membros do conselho directivo rege-se pelo regime das incompatibilidades, consagrado na Lei n.º 12/96, de 18 de Abril.\n\n8 - Considera-se motivo justificado para efeitos do artigo 6.º do Decreto-Lei n.º 464/82, de 9 de Dezembro, a infracção às obrigações previstas nos n.os 4, 5 e 7.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118824": {
+   "fragment_id": "918817812",
+   "type": 11,
+   "heading": "Artigo 22.º — Cessação de funções",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 22.º — Cessação de funções\n\n1 - O presidente e os demais membros do conselho directivo apenas cessam o exercício das suas funções caso se verifique uma das circunstâncias seguintes:\n\na) Decurso do prazo por que foram designados;\n\nb) Incapacidade permanente ou incompatibilidade superveniente do titular;\n\nc) Renúncia;\n\nd) Demissão, decidida por resolução fundamentada do Conselho de Ministros, em caso de falta grave comprovadamente cometida pelo titular no desempenho das suas funções ou no cumprimento de qualquer outra obrigação inerente ao cargo.\n\n2 - O termo do mandato de cada um dos membros do conselho directivo é independente do termo do mandato dos restantes membros.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118825": {
+   "fragment_id": "918817813",
+   "type": 8,
+   "heading": "Secção III — Do conselho consultivo",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "#### Secção III — Do conselho consultivo\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118826": {
+   "fragment_id": "918817814",
+   "type": 11,
+   "heading": "Artigo 23.º — Constituição, mandato e remuneração",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 20-AQ/2001 - Diário da República n.º 278/2001, 3º Suplemento, Série I-A de 2001-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-aq-2001-203231), produz efeitos a partir de 2001-11-21"
+   ],
+   "markdown": "###### Artigo 23.º — Constituição, mandato e remuneração\n\n1 - O conselho consultivo é constituído por:\n\na) O presidente do conselho directivo, que preside, mas sem direito de voto;\n\nb) Um representante do Governo Regional dos Açores;\n\nc) Um representante do Governo Regional da Madeira;\n\nd) Um membro do conselho de administração do Banco de Portugal;\n\ne) Um membro do conselho directivo da Comissão do Mercado de Valores Mobiliários;\n\nf) O presidente do Instituto do Consumidor;\n\ng) O presidente de uma das associações de defesa dos consumidores;\n\nh) O presidente de uma das associações de empresas de seguros;\n\ni) O presidente de uma das associações de entidades gestoras de fundos de pensões;\n\nj) O presidente de uma das associações de mediadores de seguros;\n\nk) Até três individualidades de reconhecida idoneidade, independência e competência no âmbito das atribuições do ISP, que o Ministro das Finanças entenda conveniente designar.\n\n2 - Os membros referidos nas alíneas anteriores serão designados:\n\na) Nos casos referidos nas alíneas b) a e), pelas entidades que representam;\n\nb) Nos casos referidos nas alíneas g) a j), pelas respectivas associações, excepto quando não exista acordo quanto ao representante, caso em que a designação será feita pelo conselho directivo do ISP de entre aqueles que lhe sejam indicados pelas associações;\n\nc) No caso da alínea k), por despacho do Ministro das Finanças.\n\n3 - O presidente do conselho consultivo designa o membro que o substituirá na sua falta ou impedimento.\n\n4 - Cada um dos membros do conselho consultivo tem um mandato de três anos e pode ser substituído, até ao termo do mandato, pela entidade que o designou.\n\n5 - Os membros do conselho consultivo podem ser remunerados através de senhas de presença, de montante a definir por despacho do Ministro das Finanças, sob proposta do conselho directivo.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 20-AQ/2001 - Diário da República n.º 278/2001, 3º Suplemento, Série I-A de 2001-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-aq-2001-203231), produz efeitos a partir de 2001-11-21"
+  },
+  "919118827": {
+   "fragment_id": "918817815",
+   "type": 11,
+   "heading": "Artigo 24.º — Competência",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 24.º — Competência\n\nO conselho consultivo é um órgão de consulta do ISP sobre as grandes linhas de orientação estratégica relativas à coordenação do sector, competindo-lhe:\n\na) Pronunciar-se sobre as questões que lhe sejam submetidas pelo conselho directivo, devendo, no entanto, ser obrigatoriamente ouvido sobre o relatório anual a que se refere a alínea b) do artigo 16.º;\n\nb) Apresentar, de sua própria iniciativa, ao conselho directivo, recomendações e sugestões no âmbito das atribuições do ISP.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118828": {
+   "fragment_id": "918817816",
+   "type": 11,
+   "heading": "Artigo 25.º — Reuniões",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 25.º — Reuniões\n\nO conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, por convocação do seu presidente, por sua iniciativa ou a pedido da maioria dos seus membros.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118829": {
+   "fragment_id": "918817817",
+   "type": 8,
+   "heading": "Secção IV — Da comissão de fiscalização",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "#### Secção IV — Da comissão de fiscalização\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118830": {
+   "fragment_id": "918817818",
+   "type": 11,
+   "heading": "Artigo 26.º — Constituição, mandato e remuneração",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 26.º — Constituição, mandato e remuneração\n\n1 - A comissão de fiscalização é constituída por um presidente e dois vogais, nomeados pelo Ministro das Finanças, devendo um deles ser revisor oficial de contas.\n\n2 - Os membros da comissão de fiscalização têm um mandato de três anos, renovável por iguais períodos.\n\n3 - Os membros da comissão de fiscalização são equiparados aos titulares dos órgãos de fiscalização das entidades públicas empresariais.\n\n4 - É aplicável aos membros da comissão de fiscalização o disposto nos n.os 4 a 6 do artigo 21.º\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118831": {
+   "fragment_id": "918817819",
+   "type": 11,
+   "heading": "Artigo 27.º — Competência",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 27.º — Competência\n\n1 - Compete à comissão de fiscalização:\n\na) Acompanhar e controlar a gestão financeira do ISP;\n\nb) Apreciar e emitir parecer sobre o orçamento, o relatório de actividade e as contas anuais do ISP;\n\nc) Fiscalizar a organização da contabilidade do ISP e o cumprimento das disposições legais e dos regulamentos internos, nos domínios orçamental, contabilístico e de tesouraria, informando o conselho directivo de quaisquer desvios ou anomalias que verifique;\n\nd) Pronunciar-se sobre qualquer assunto de interesse para o ISP, nos domínios orçamental, contabilístico, financeiro e fiscal, que seja submetido à sua apreciação pelo conselho directivo ou pelo respectivo presidente.\n\n2 - Tendo em vista o adequado desempenho das suas funções, a comissão de fiscalização terá a faculdade de:\n\na) Solicitar aos outros órgãos e aos vários departamentos do ISP todas as informações, esclarecimentos ou elementos que sejam necessários ao desempenho das suas funções;\n\nb) Solicitar ao presidente do conselho directivo reuniões conjuntas dos dois órgãos para apreciação de questões compreendidas no âmbito das suas competências.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118832": {
+   "fragment_id": "918817820",
+   "type": 11,
+   "heading": "Artigo 28.º — Reuniões",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 28.º — Reuniões\n\nA comissão de fiscalização reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que seja convocada pelo respectivo presidente, por sua iniciativa, a pedido de qualquer dos membros da comissão ou a solicitação do presidente do conselho directivo.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118833": {
+   "fragment_id": "918817821",
+   "type": 1,
+   "heading": "Capítulo IV — Do património, receitas e despesas",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "### Capítulo IV — Do património, receitas e despesas\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118834": {
+   "fragment_id": "918817822",
+   "type": 11,
+   "heading": "Artigo 29.º — Património",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 29.º — Património\n\nO património do ISP é constituído pela universalidade dos seus direitos e obrigações.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118835": {
+   "fragment_id": "918817823",
+   "type": 11,
+   "heading": "Artigo 30.º — Receitas",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 30.º — Receitas\n\n1 - Constituem receitas do ISP:\n\na) Uma taxa paga pelas entidades sujeitas a supervisão, nos termos da legislação em vigor;\n\nb) O produto da venda de bens e receitas por prestação de serviços, bem como da constituição de direitos sobre aqueles;\n\nc) Os rendimentos de bens próprios e os provenientes da sua actividade;\n\nd) As receitas de aplicações financeiras;\n\ne) Os subsídios, doações ou comparticipações atribuídos por quaisquer entidades nacionais ou estrangeiras;\n\nf) As custas dos processos de transgressão e contra-ordenação;\n\ng) Quaisquer outros rendimentos ou receitas que por lei, contrato ou outra forma lhe sejam atribuídos.\n\n2 - Transitarão para o ano seguinte os saldos apurados em cada exercício.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118836": {
+   "fragment_id": "918817824",
+   "type": 11,
+   "heading": "Artigo 31.º — Despesas",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 31.º — Despesas\n\nConstituem despesas do ISP:\n\na) Os encargos com o respectivo funcionamento;\n\nb) Os custos de aquisição, manutenção e conservação de bens ou serviços que tenha de utilizar;\n\nc) Subsídios à investigação científica e à divulgação de conhecimentos em matérias relevantes para as suas atribuições ou para o sector segurador, ressegurador e de fundos de pensões.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118837": {
+   "fragment_id": "918817825",
+   "type": 11,
+   "heading": "Artigo 32.º — Cobrança de dívidas",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 32.º — Cobrança de dívidas\n\n1 - Os créditos do ISP provenientes de taxas ou outras receitas cuja obrigação de pagamento esteja estabelecida na lei ou haja sido reconhecida por despacho ministerial estão sujeitos a cobrança coerciva e far-se-á pelo processo de execuções fiscais, regulado pelo Código de Procedimento e de Processo Tributário, através dos serviços competentes de justiça fiscal, sendo as taxas e receitas equiparadas a créditos do Estado.\n\n2 - Para efeitos do número anterior, o conselho directivo emitirá certidão com valor de título executivo de acordo com o disposto nos artigos 162.º e 163.º do Código de Procedimento e de Processo Tributário.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118838": {
+   "fragment_id": "918817826",
+   "type": 1,
+   "heading": "Capítulo V — Da gestão financeira e patrimonial",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "### Capítulo V — Da gestão financeira e patrimonial\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118839": {
+   "fragment_id": "918817827",
+   "type": 11,
+   "heading": "Artigo 33.º — Gestão financeira e patrimonial",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 33.º — Gestão financeira e patrimonial\n\n1 - A actividade de gestão financeira e patrimonial do ISP, em tudo o que não for especialmente regulado pelo presente diploma, rege-se exclusivamente pelo regime jurídico das entidades públicas empresariais, não lhe sendo aplicável o regime geral da actividade financeira dos fundos e serviços autónomos.\n\n2 - O orçamento anual do ISP, que será elaborado de acordo com o Plano Oficial de Contabilidade, depende de aprovação prévia do Ministro das Finanças.\n\n3 - A contabilidade do ISP é elaborada de acordo com o Plano Oficial de Contabilidade, não lhe sendo aplicável o regime da contabilidade pública.\n\n4 - Compete ao ISP a gestão dos fundos públicos conexos ou complementares da actividade seguradora.\n\n5 - Salvo disposição legal em contrário, o ISP representa, para todos os efeitos, os fundos cuja gestão lhe está confiada por lei e exerce todos os seus direitos e obrigações.\n\n6 - Na gestão dos fundos que lhe estão confiados e nos processos de intervenção em empresas para fins de saneamento e de liquidação, o ISP pode renunciar a créditos e perdoar dívidas, dar e aceitar dações em pagamento e transigir em juízo ou fora dele.\n\n7 - Na gestão dos fundos que estão confiados ao ISP aplicam-se os n.os 1 a 3 do presente artigo.\n\n8 - Sem prejuízo da competência do Tribunal de Contas quanto a esta matéria, a contabilidade do ISP pode, por iniciativa do conselho directivo, ser auditada por entidades independentes.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118840": {
+   "fragment_id": "918817828",
+   "type": 1,
+   "heading": "Capítulo VI — Recursos humanos",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "### Capítulo VI — Recursos humanos\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118841": {
+   "fragment_id": "918817829",
+   "type": 11,
+   "heading": "Artigo 34.º — Regime geral",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 34.º — Regime geral\n\n1 - O pessoal do ISP rege-se pelas normas aplicáveis ao contrato individual de trabalho, sem prejuízo do disposto no presente Estatuto e no regulamento interno e demais regulamentos do ISP.\n\n2 - O ISP pode ser parte em instrumentos de regulamentação colectiva de trabalho.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118842": {
+   "fragment_id": "918817830",
+   "type": 11,
+   "heading": "Artigo 35.º — Estatuto",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 35.º — Estatuto\n\n1 - As condições de admissão, as remunerações e as regalias do pessoal do ISP são fixadas pelo conselho directivo, devendo constar de regulamento interno, elaborado nos termos da lei.\n\n2 - Salvo no respeitante aos trabalhadores que exerçam cargos de apoio pessoal, definidos no respectivo regulamento, o recrutamento do pessoal deve ser precedido de anúncio público e de um procedimento de avaliação que garanta o respeito dos princípios da igualdade e da imparcialidade.\n\n3 - Salvo por designação do ISP e para prossecução dos seus fins, os trabalhadores do ISP não podem prestar trabalho ou outros serviços, remunerados ou não, a empresas sujeitas à sua supervisão, nem exercer actividades de mediação de seguros.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118843": {
+   "fragment_id": "918817831",
+   "type": 11,
+   "heading": "Artigo 36.º — Funções de fiscalização",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 36.º — Funções de fiscalização\n\nOs trabalhadores do ISP que desempenhem funções de fiscalização, quando se encontrem no exercício das suas funções, gozam das seguintes prerrogativas:\n\na) Podem identificar, para posterior actuação, as entidades que infrinjam os regulamentos sujeitos à fiscalização do ISP;\n\nb) Podem requerer o auxílio das autoridades administrativas e judiciais, quando o julguem necessário ao desempenho das suas funções;\n\nc) Têm acesso às instalações das entidades sujeitas à supervisão do ISP.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118844": {
+   "fragment_id": "918817832",
+   "type": 11,
+   "heading": "Artigo 37.º — Mobilidade",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 37.º — Mobilidade\n\n1 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os empregados, quadros ou administradores de empresas públicas ou privadas, podem desempenhar funções no ISP em regime de requisição ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos, considerando-se o período de requisição ou comissão como tempo de serviço prestado nos quadros de que provenham.\n\n2 - Os trabalhadores do ISP podem desempenhar funções no Estado, em institutos públicos ou em autarquias locais, bem como em empresas públicas, em regime de requisição, destacamento ou de comissão de serviço, nos termos da legislação em vigor.\n\n3 - Aos funcionários do Estado, institutos públicos ou autarquias locais que desempenhem funções no ISP nos termos do n.º 1 continua a aplicar-se o regime disciplinar que lhes é próprio, cabendo, todavia, ao conselho directivo exercer o poder disciplinar enquanto permanecerem ao serviço do ISP.\n\n4 - Aos trabalhadores de empresas públicas e de empresas privadas na situação referida no n.º 1 sujeitos ao regime do contrato individual de trabalho aplicar-se-á o regime disciplinar que vigorar no ISP, cabendo ao respectivo conselho directivo exercer o poder disciplinar relativamente a todas as infracções praticadas durante o tempo em que o trabalhador estiver ao serviço do ISP.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118845": {
+   "fragment_id": "918817833",
+   "type": 11,
+   "heading": "Artigo 38.º — Segurança social",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 38.º — Segurança social\n\n1 - Os trabalhadores do ISP encontram-se submetidos ao regime geral de segurança social.\n\n2 - Os trabalhadores do ISP têm direito a complementos de reforma de valor não inferior aos previstos no contrato colectivo de trabalho para a actividade seguradora, os quais serão garantidos por um fundo de pensões.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118846": {
+   "fragment_id": "918817834",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições gerais",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "### Capítulo VII — Disposições gerais\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118847": {
+   "fragment_id": "918817835",
+   "type": 11,
+   "heading": "Artigo 39.º — Segredo profissional",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 39.º — Segredo profissional\n\n1 - Os membros dos órgãos do ISP, os trabalhadores eventuais ou permanentes do seu quadro de pessoal, bem como as pessoas ou entidades, públicas ou privadas, que lhe prestem, a título permanente ou ocasional, quaisquer serviços ficam sujeitos, nos termos dos artigos 158.º a 162.º do Decreto-Lei n.º 94 -B/98, de 17 de Abril, e do presente Estatuto, a segredo profissional sobre os factos cujo conhecimento lhes advenha do exercício das suas funções ou da prestação dos serviços referidos e, seja qual for a finalidade, não poderão divulgar, nem utilizar, em proveito próprio ou alheio, directamente ou por interposta pessoa, o conhecimento que tenham desses factos.\n\n2 - Sem prejuízo do disposto no número anterior, o dever de segredo profissional manter-se-á ainda que as pessoas ou entidades a ele sujeitas nos termos do número anterior deixem de estar ao serviço do ISP.\n\n3 - Sem prejuízo da responsabilidade civil e criminal que dela resulte, a violação do dever de sigilo estabelecida no presente artigo, quando cometida por um membro dos órgãos do ISP ou pelo seu pessoal, implica para o infractor as sanções disciplinares correspondentes à sua gravidade, que poderão ir até à destituição ou à rescisão do respectivo contrato de trabalho, e quando praticada por pessoa ou entidade vinculada ao ISP por um contrato de prestação de serviços dará ao conselho directivo o direito de resolver imediatamente esse contrato.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  },
+  "919118848": {
+   "fragment_id": "918817836",
+   "type": 11,
+   "heading": "Artigo 40.º — Recursos",
+   "in_force_from": "2015-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+   ],
+   "markdown": "###### Artigo 40.º — Recursos\n\nDos actos administrativos do presidente do conselho directivo, do conselho directivo e dos serviços do ISP, no uso de poderes delegados, cabe recurso contencioso, nos termos gerais de direito.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 1/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2015-66041391), em vigor a partir de 2015-02-01"
+  }
+ }
+}

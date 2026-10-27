@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:503252:por
+title: Portaria n.º 22579
+short_title: null
+summary: Manda abonar ao Consulado de Portugal em Barcelona, com efeitos a partir de 1 de Janeiro último, várias quantias
+  a fim de ocorrer ao pagamento de salários ao pessoal assalariado em serviço no Consulado - Altera a Portaria n.º 22506
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Serviços Centrais
+proposing_entity: null
+official_number: '22579'
+official_date: null
+publication_date: '1967-03-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 65/1967, Série I de 1967-03-17
+  number: '65'
+  series: I
+  supplement: null
+  pages: 288 - 288
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/03/06500/02880288.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '503252'
+  dre_path: /dr/detalhe/portaria/22579-1967-503252
+  internal: pt:dre:503252:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22579-1967-503252
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22579-1967-503252
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:28:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: df483d432e602d98bd72f9b103eefef0d9eeed05d3b932958ff97790d4eb5f50
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:505195:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:28:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22579
+
+Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, abonar ao Consulado de Portugal em Barcelona, com efeitos a partir de 1 de Janeiro último, pela verba do n.º 3) do artigo 35.º, capítulo 4.º, do orçamento em vigor, as importâncias abaixo designadas, a fim de ocorrer ao pagamento de salários ao pessoal assalariado em serviço no Consulado, ficando assim alterada, a partir daquela data, a [Portaria n.º 22506](https://diariodarepublica.pt/dr/detalhe/portaria/22506-1967-505195), de 4 de Fevereiro de 1967:
+
+... Dólares americanos
+
+Vice-cônsul ... 168,00
+
+Secretário ... 120,00
+
+Dactilógrafo ... 90,00
+
+... 378,00
+
+(a) De harmonia com as leis locais, ao pessoal assalariado em serviço no Consulado de Portugal em Barcelona serão abonados dois meses de salários, além dos fixados na presente portaria, sendo um no mês de Junho e o segundo no mês de Dezembro.
+
+Ministério dos Negócios Estrangeiros, 17 de Março de 1967. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
+
+(Não carece de visto ou anotação do Tribunal de Contas).

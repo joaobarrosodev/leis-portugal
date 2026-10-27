@@ -1,0 +1,330 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998R2760:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R2760-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1998-12-19",
+   "future": false,
+   "celex": "31998R2760",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a93054161155350b",
+    "e686c09e18ffd1b3",
+    "e0d04ed38b13531c",
+    "18e4d1545f1b72e9",
+    "131979a74dbc0803",
+    "797eb87a5daf23de",
+    "aa2b254becaee932",
+    "47b3fb6138a38544",
+    "ac3e828dca1609e4",
+    "c9b25049bd79db1e",
+    "d971f5b2351ab230",
+    "4c29842eb2c29ac1"
+   ]
+  },
+  {
+   "date": "2005-07-08",
+   "future": false,
+   "celex": "01998R2760-20050708",
+   "acts": [
+    {
+     "id": "eu:celex:32002R1596:por",
+     "title": "REGULAMENTO (CE) N. o 1596/2002 DA COMISSÃO de 6 de Setembro de 2002",
+     "published": null,
+     "celex": "32002R1596"
+    },
+    {
+     "id": "eu:celex:32003R1822:por",
+     "title": "REGULAMENTO (CE) N. o 1822/2003 DA COMISSÃO de 16 de Outubro de 2003",
+     "published": null,
+     "celex": "32003R1822"
+    },
+    {
+     "id": "eu:celex:32005R1045:por",
+     "title": "REGULAMENTO (CE) N. o 1045/2005 DA COMISSÃO de 4 de Julho de 2005",
+     "published": null,
+     "celex": "32005R1045"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º"
+   ],
+   "fragments": [
+    "37570c63dfb6b2af",
+    "4eee22da156f3062",
+    "0f0a86c8d478efd2",
+    "65efb1a7a004f818",
+    "673c50d8460bde18",
+    "d00cbfb2168bc765",
+    "94f3f876614215f3",
+    "1d8760144754c6e3",
+    "6f7a0ae6c6091593",
+    "8c13c0c5adffb3aa",
+    "f105b4a6fc63af2c",
+    "218c80da4766fb3e",
+    "64c320180a1662b8"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01998R2760-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "580219a9635b9fb8"
+   ]
+  }
+ ],
+ "fragments": {
+  "a93054161155350b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2760/98 da Comissão de 18 de Dezembro de 1998 relativo à execução de um programa de cooperação transfronteiriça no âmbito do programa Phare** *Jornal Oficial nº L 345 de 19/12/1998 p. 0049 - 0052*\n\nREGULAMENTO (CE) Nº 2760/98 DA COMISSÃO de 18 de Dezembro de 1998 relativo à execução de um programa de cooperação transfronteiriça no âmbito do programa Phare\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) nº 3906/89 do Conselho, de 18 de Dezembro de 1989, relativo à ajuda económica a certos países da Europa Central e Oriental (1), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 753/96 do Conselho (2), e, nomeadamente, o seu artigo 8º,\n\nConsiderando que o Conselho Europeu, reunido no Luxemburgo em Dezembro de 1997, definiu a estratégia reforçada de pré-adesão, que deve permitir a todos os países candidatos da Europa Central e Oriental tornarem-se futuramente membros da União Europeia e, para esse efeito, alinharem-se na medida do possível, pelo acervo comunitário antes da adesão;\n\nConsiderando que é conveniente ter em conta, no âmbito da cooperação transfronteiriça, as parcerias para a adesão, que constituem elementos essenciais da estratégia reforçada de pré-adesão e definem as medidas prioritárias a tomar com vista à adesão;\n\nConsiderando que os primeiros anos de execução do Regulamento (CE) nº 1628/94 da Comissão (3), que instituiu o programa transfronteiriço no âmbito de Phare e em coordenação com a Interreg, deram já alguns resultados positivos, nomeadamente estabelecendo um diálogo e uma cooperação entre as regiões fronteiriças da União Europeia e as dos países da Europa Central e Oriental, contribuindo para o desenvolvimento económico destas últimas e para a aproximação do seu nível de desenvolvimento ao registado na União Europeia e conferindo-lhes a oportunidade de se familiarizarem com as práticas e procedimentos de Interreg, designadamente a elaboração de estratégias de desenvolvimento regional para as regiões fronteiriças;\n\nConsiderando que é conveniente melhorar o funcionamento do referido programa, nomeadamente aumentando o número de projectos de carácter realmente transfronteiriço e acelerando o ritmo de execução;\n\nConsiderando que a Roménia, que é o único país candidato sem fronteira comum com a União Europeia, deveria igualmente poder beneficiar do programa Phare de cooperação transfronteiriça;\n\nConsiderando que o programa Phare de cooperação transfronteiriça se inscreverá progressivamente no contexto mais amplo de uma política de desenvolvimento regional, baseada na estratégia de pré-adesão, que deveria corrigir os desequilíbrios actuais entre os recursos orçamentais afectados à cooperação transfronteiriça e os reservados às outras prioridades do processo de pré-adesão, bem como entre as diversas regiões dos países candidatos;\n\nConsiderando que o Conselho sublinhou repetidamente a necessidade de reforçar a cooperação e de incentivar a integração dos países da Europa Central e Oriental e da Comunidade Europeia, bem como a necessidade de apoiar a estabilidade e a segurança na região;\n\nConsiderando que é necessário, tendo em conta a participação futura dos países candidatos à adesão na política estrutural da União Europeia, proceder a um maior alinhamento do programa Phare de cooperação transfronteiriça por Interreg, nomeadamente criando programas transfronteiriços comuns e estruturas comuns de programação;\n\nConsiderando que a actual cobertura geográfica do programa Phare de cooperação transfronteiriça deve, em relação aos países candidatos da Europa Central e Oriental, ser progressivamente alargada de forma a incluir, além das regiões limítrofes da União Europeia, as fronteiras com os outros países candidatos beneficiários do programa; que, numa fase posterior, as fronteiras com os outros países vizinhos beneficiários de Phare ou de outros programas de ajuda comunitária poderiam igualmente vir a ser elegíveis;\n\nConsiderando que as acções elegíveis deveriam ser similares às previstas por Interreg no contexto global das parcerias para a adesão;\n\nConsiderando que é necessário reforçar a participação dos agentes locais e regiões na cooperação transfronteiriça, valorizar a abordagem ascendente, desenvolver as capacidades de programação, de execução e de controlo e permitir que as autoridades locais das regiões fronteiriças tomem decisões sobre pequenos projectos de carácter realmente transfronteiriço, criando fundos para esse efeito;\n\nConsiderando que é necessário substituir o Regulamento (CE) nº 1628/94 da Comissão;\n\nConsiderando que o presente regulamento está de acordo com o parecer do Comité de Reestruturação Económica em Certos Países da Europa Central e Oriental,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e686c09e18ffd1b3": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nNo âmbito do programa Phare, tal como definido pelo Regulamento (CEE) nº 3906/89, aplicar-se-ão as seguintes regras para o financiamento de acções de natureza estrutural em regiões fronteiriças de países da Europa Central e Oriental beneficiários do referido programa.\n\nEssas acções serão executadas tendo em conta as políticas estruturais da Comunidade e, em especial, o programa Interreg."
+  },
+  "e0d04ed38b13531c": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. As fronteiras elegíveis são as fronteiras entre os países de Europa Central e Oriental e a Comunidade, bem como as fronteiras entre os países candidatos seguintes: Bulgária, Eslováquia, Eslovénia, Estónia, Hungria, Letónia, Lituânia, Polónia, República Checa e Roménia.\n\n2. As regiões fronteiriças em causa serão fixadas por cada país interessado de acordo com a Comissão, tendo em conta a metodologia adoptada para Interreg.\n\n3. A repartição dos fundos entre os países beneficiários será efectuada de acordo com os critérios da população, do PIB per capita e da superfície das regiões fronteiriças em causa."
+  },
+  "18e4d1545f1b72e9": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nAs subvenções comunitárias no âmbito do presente programa financiarão prioritariamente a participação do país da Europa Central e Oriental em causa em projectos conjuntos com o Estado-membro com o qual tenha uma fronteira comum tal como definido no artigo 2º\n\nOs objectivos destes projectos são os seguintes:\n\ni) Promover a cooperação das regiões fronteiriças de países da Europa Central e Oriental com regiões adjacentes de países vizinhos, tal como definidas no artigo 1º, ajudando assim as regiões fronteiriças da Europa Central e Oriental a ultrapassarem os problemas específicos de desenvolvimento susceptíveis de surgir designadamente devido à sua posição dentro das economias nacionais, no interesse da população local e de uma forma compatível com a protecção do ambiente;\n\nii) Promover a criação e o desenvolvimento de redes de cooperação de cada lado da fronteira, bem como o estabelecimento de laços entre essas redes e redes mais amplas da Comunidade Europeia."
+  },
+  "131979a74dbc0803": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Nas regiões fronteiriças, seleccionadas em conformidade com o artigo 2º, os projectos a incluir no programa de cooperação transfronteiriça podem assumir a forma de:\n\ni) Projectos relacionados com medidas apoiadas por Interreg ou por outros programas comunitários de assistência externa;\n\nii) Projectos aprovados pelos países em causa, que tenham um impacto transfronteiriço, contribuam para o desenvolvimento de estruturas em regiões fronteiriças e facilitem a cooperação entre os países no seu conjunto.\n\n2. Deverá ser prestada especial atenção a projectos em relação aos quais seja concedido co-financiamento por ou em nome das autoridades locais ou de operadores económicos dos países da Europa Central e Oriental.\n\n3. O financiamento pode incluir recursos de outros Estados-membros da União Europeia e de países da Europa Central e Oriental, de instituições financeiras internacionais e de outras fontes públicas e privadas."
+  },
+  "797eb87a5daf23de": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. As acções que podem ser financiadas ao abrigo do presente programa poderão incluir:\n\na) Atenuação dos obstáculos administrativos e institucionais à livre circulação de pessoas, bens ou serviços através da fronteira, tendo em conta os aspectos relacionados com a segurança;\n\nb) Melhoria de infra-estruturas, em especial de comunicação e de abastecimento de água, gás e electricidade a nível local, susceptível de beneficiar as zonas fronteiriças;\n\nc) Protecção do ambiente, designadamente gestão dos resíduos, gestão ambiental e prevenção da poluição, incluindo tratamento de problemas acentuados pela proximidade de fronteiras externas;\n\nd) Medidas de desenvolvimento agrícola e rural com especial atenção para a facilitação de projectos de cooperação transfronteiriça;\n\ne) Medidas nos domínios da energia, telecomunicações e transportes, destinadas a complementar o desenvolvimento das redes transeuropeias, de acordo com as orientações adoptadas pela Comissão;\n\nf) Acções relacionadas com a política comunitária no domínio da justiça e dos assuntos internos,\n\ng) Promoção da cooperação entre empresas, desenvolvimento de empresas, cooperação financeira e cooperação entre instituições representativas do sector empresarial (por exemplo, câmaras de comércio);\n\nh) Ajuda ao investimento e fornecimento de serviços e infra-estruturas de apoio, em especial tendo em vista a transferência de tecnologia e a comercialização para pequenas e médias empresas;\n\ni) Medidas no domínio da formação e emprego;\n\nj) Desenvolvimento económico local, nomeadamente a promoção do turismo;\n\nk) Medidas destinadas a promover a cooperação no domínio da saúde, especialmente a partilha de recursos e infra-estruturas numa base transfronteiriça;\n\nl) Desenvolvimento ou criação de infra-estruturas e recursos destinados a melhorar o fluxo de informação e as comunicações entre as regiões fronteiriças, incluindo um apoio à rádio, televisão e jornais transfronteiriços bem como a outros meios de comunicação;\n\nm) Intercâmbio cultural;\n\nn) Iniciativas locais em matéria de emprego, educação e formação.\n\nContudo, as acções mencionadas nas alíneas j) a n) só podem ser financiadas a título das disposições do nº 2 do presente artigo.\n\n2. Com vista a incentivar os pequenos projectos comuns envolvendo os agentes locais das regiões fronteiriças e a reforçar as capacidades destes últimos em matéria de identificação, elaboração e execução, pode ser criado um fundo em cada região em causa, em relação ao qual pode ser utilizada uma percentagem limitada das dotações afectadas aos programas e iniciativas de cooperação transfronteiriça.\n\n3. Deverá ser prestada atenção especial a medidas planeadas em estreita cooperação com as autoridades regionais e locais em zonas fronteiriças e que incluam o estabelecimento ou o desenvolvimento de estruturas de gestão partilhadas, destinadas a ampliar e a aprofundar a cooperação transfronteiriça entre organismos públicos e para-públicos, bem como instituições de carácter não lucrativo.\n\n4. Pode igualmente ser financiado o estabelecimento de planos para o desenvolvimento de regiões fronteiriças, e de identificação de projectos e formulação de programas, estudos de viabilidade, assistência na execução de programas e estudos de acompanhamento e/ou avaliação."
+  },
+  "aa2b254becaee932": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. A contribuição comunitária é prestada, em princípio, sob a forma de subvenção. Contudo, sempre que a subvenção comunitária contribua para o financiamento de actividades geradoras de rendimentos, a Comissão determinará, em consulta com as autoridades competentes, as regras de financiamento que podem incluir o co-financiamento através dos rendimentos do projecto ou reembolso das subvenções iniciais.\n\n2. A ajuda pode cobrir despesas com importações e despesas locais necessárias para executar os projectos e programas.\n\nSerão excluídos do financiamento comunitário os direitos e encargos de natureza fiscal bem como a aquisição de propriedade.\n\n3. Os custos cobertos podem incluir assistência técnica, estudos, formação e outras medidas visando a criação de instituições; programas de fornecimentos de equipamento ou recursos essenciais; operações de investimento, incluindo programas de trabalho.\n\n4. As despesas de manutenção e funcionamento nos países da Europa Central e Oriental podem ser cobertas na fase inicial e de uma forma degressiva."
+  },
+  "47b3fb6138a38544": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Para cada uma das regiões fronteiriças, será criado um comité misto de cooperação, constituído por representantes dos países em causa, nomeadamente representantes locais ou regionais, e por representantes da Comissão.\n\n2. O Comité Misto de Cooperação elaborará um documento comum de programação transfronteiriça numa perspectiva plurianual; este documento definirá as prioridades e as estratégias de desenvolvimento da região, considerada como uma entidade geográfica e socioeconómica única, e fixará as disposições relativas à execução conjunta. O documento orientará a programação e a execução das acções levadas a cabo no âmbito dos programas e iniciativas de cooperação transfronteiriça que beneficiam de assistência da Comunidade Europeia.\n\n3. O Comité Misto de Cooperação estabelecerá, anualmente, uma lista comum de projectos baseada no documento comum de programação transfronteiriça referido no nº 2. As recomendações de projectos serão transmitidas à Comissão pela administração central do país da Europa Central e Oriental em causa, com base nas propostas apresentadas pela autoridades responsáveis."
+  },
+  "ac3e828dca1609e4": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. A Comissão formulará uma proposta de programa por fronteira com base no documento comum de programação transfronteiriça referido no nº 1 do artigo 7º, bem como nas recomendações do Comité Misto de Cooperação relativas aos projectos a financiar no âmbito do presente programa, transmitidas pela administração central do país da Europa Central e Oriental em questão.\n\n2. A subvenção que constitui a contribuição, total ou parcial, do país da Europa Central e oriental para o projecto conjunto será aprovada de acordo com o procedimento definido no artigo 9º do Regulamento (CEE) nº 3906/89 e acordada com o país beneficiário em causa por meio de um memorando de financiamento."
+  },
+  "c9b25049bd79db1e": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. A Comissão administrará esta assistência de acordo com a prática normal aplicada à assistência à Europa Central e Oriental, tal como definida no Regulamento (CEE) nº 3906/89.\n\n2. Sempre que possível, deverão ser criadas estruturas de gestão conjuntas por forma a facilitar a execução dos programas."
+  },
+  "d971f5b2351ab230": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nAo executar os objectivos referidos no artigo 3º, a Comissão assegurará a coordenação e a coerência entre a assistência do Phare e a assistência prestada pelos fundos estruturais."
+  },
+  "4c29842eb2c29ac1": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias e substitui o Regulamento (CE) nº 1628/94 da Comissão a partir dessa mesma data.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 18 de Dezembro de 1998.\n\nPela Comissão\n\nHans VAN DEN BROEK\n\nMembro da Comissão\n\n(1) JO L 375 de 23. 12. 1989, p. 11.\n\n(2) JO L 103 de 26. 4. 1996, p. 5.\n\n(3) JO L 171 de 6. 7. 1994, p. 14."
+  },
+  "37570c63dfb6b2af": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Dezembro de 1998\n\nrelativo à execução de um programa de cooperação transfronteiriça no âmbito do programa Phare\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Reglamento (CEE) n.º 3906/89 do Conselho, de 18 de Dezembro de 1989, relativo à ajuda económica a certos países da Europa Central e Oriental ([^1^](http://publications.europa.eu/resource/cellar/9a0ea42b-2278-4faa-86a5-44463199c3d7.0016.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 753/96 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/9a0ea42b-2278-4faa-86a5-44463199c3d7.0016.03/DOC_1#E0002)), e, nomeadamente, o seu artigo 8.º,\n\nConsiderando que o Conselho Europeu, reunido no Luxemburgo em Dezembro de 1997, definiu a estratégia reforçada de pré-adesão, que deve permitir a todos os países candidatos da Europa Central e Oriental tornarem-se futuramente membros da União Europeia e, para esse efeito, alinharem-se na medida do possível, pelo acervo comunitário antes da adesão;\n\nConsiderando que é conveniente ter em conta, no âmbito da cooperação transfronteiriça, as parcerias para a adesão, que constituem elementos essenciais da estratégia reforçada de pré-adesão e definem as medidas prioritárias a tomar com vista à adesão;\n\nConsiderando que os primeiros anos de execução do Regulamento (CE) n.º 1628/94 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/9a0ea42b-2278-4faa-86a5-44463199c3d7.0016.03/DOC_1#E0003)), que instituiu o programa transfronteiriço no âmbito de *Phare* e em coordenação com a *Interreg*, deram já alguns resultados positivos, nomeadamente estabelecendo um diálogo e uma cooperação entre as regiões fronteiriças da União Europeia e as dos países da Europa Central e Oriental, contribuindo para o desenvolvimento económico destas últimas e para a aproximação do seu nível de desenvolvimento ao registado na União Europeia e conferindo-lhes a oportunidade de se familiarizarem com as práticas e procedimentos de *Interreg*, designadamente a elaboração de estratégias de desenvolvimento regional para as regiões fronteiriças;\n\nConsiderando que é conveniente melhorar o funcionamento do referido programa, nomeadamente aumentando o número de projectos de carácter realmente transfronteiriço e acelerando o ritmo de execução;\n\nConsiderando que a Roménia, que é o único país candidato sem fronteira comum com a União Europeia, deveria igualmente poder beneficiar do programa *Phare* de cooperação transfronteiriça;\n\nConsiderando que o programa *Phare* de cooperação transfronteiriça se inscreverá progressivamente no contexto mais amplo de uma política de desenvolvimento regional, baseada na estratégia de pré-adesão, que deveria corrigir os desiquilíbrios actuais entre os recursos orçamentais afectados à cooperação transfronteiriça e os reservados às outras prioridades do processo de pré-adesão, bem como entre as diversas regiões dos países candidatos;\n\nConsiderando que o Conselho sublinhou repetidamente a necessidade de reforçar a cooperação e de incentivar a integração dos países da Europa Central e Oriental e da Comunidade Europeia, bem como a necessidade de apoiar a estabilidade e a segurança na região;\n\nConsiderando que é necessário, tendo em conta a participação futura dos países candidatos à adesão na política estrutural da União Europeia, proceder a um maior alinhamento do program *Phare* de cooperação transfronteiriça por *Interreg*, nomeadamente criando programas transfronteiriços comuns e estruturas comuns de programação;\n\nConsiderando que a actual cobertura geográfica do programa *Phare* de cooperação transfronteiriça deve, em relação aos países candidatos da Europa Central e Oriental, ser progressivamente alargada de forma a incluir, além das regiões limítrofes da União Europeia, as fronteiras com os outros países candidatos beneficiários do programa; que, numa fase posterior, as fronteiras com os outros países vizinhos beneficiários de *Phare* ou de outros programas de ajuda comunitária poderiam igualmente vir a ser elegíveis;\n\nConsiderando que as acções elegíveis deveriam ser similares às previstas por *Interreg* no contexto global das parcerias para a adesão;\n\nConsiderando que é necessário reforçar a participação dos agentes locais e regiões na cooperação transfronteiriça, valorizar a abordagem ascendente, desenvolver as capacidades de programação, de execução e de controlo e permitir que as autoridades locais das regiões fronteiriças tomem decisões sobre pequenos projectos de carácter realmente transfronteiriço, criando fundos para esse efeito;\n\nConsiderando que é necessário substituir o Regulamento (CE) n.º 1628/94 da Comissão;\n\nConsiderando que o presente regulamento está de acordo com o parecer do Comité de Reestruturação Económica em Certos Países da Europa Central e Oriental,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4eee22da156f3062": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNo âmbito do programa Phare, tal como definido pelo Reglamento (CEE) n.º 3906/89, aplicar-se-ão as seguintes regras para o financiamento de acções de natureza estrutural em regiões fronteiriças de países da Europa Central e Oriental beneficários do referido programa.\n\nEssas acções serão executadas tendo em conta as políticas estruturais da Comunidade e, em especial, o programa *Interreg*."
+  },
+  "0f0a86c8d478efd2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As fronteiras elegíveis são as fronteiras entre:\n\na) A Roménia, por um lado, e a Hungria, a Ucrânia, a Moldávia e a Sérvia e Montenegro, por outro;\n\nb) A Bulgária, por um lado, e a Grécia, a Roménia, a Turquia, a antiga República Jugoslava da Macedónia e a Sérvia e Montenegro, por outro;\n\nc) Croácia e Itália, Croácia e Eslovénia, Croácia e Hungria, Croácia e Sérvia e Montenegro, Croácia e Bósnia-Herzegovina.\n\n2. As regiões fronteiriças em causa serão fixadas por cada país interessado de acordo com a Comissão, tendo em conta a metodologia adoptada para *Interreg*.\n\n3. A repartição dos fundos entre os países beneficiários será efectuada de acordo com os critérios da população, do PIB *per capita* e da superfície das regiões fronteiriças em causa."
+  },
+  "65efb1a7a004f818": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs subvenções comunitárias no âmbito do presente programa financiarão prioritariamente a participação do país da Europa Central e Oriental em causa em projectos conjuntos com o Estado-membro com o qual tenha uma fronteira comum tal como definido no artigo 2.º\n\nOs objectivos destes projectos são os seguintes:\n\ni) Promover a cooperação das regiões fronteiriças de países da Europa Central e Oriental com regiões adjacentes de países vizinhos, tal como definidas no artigo 1.º, ajudando assim as regiões fronteiriças da Europa Central e Oriental a ultrapassarem os problemas específicos de desenvolvimento susceptíveis de surgir designadamente devido à sua posição dentro das economias nacionais, no interesse da população local e de uma forma compatível com a protecção do ambiente;\n\nii) Promover a criação e o desenvolvimento de redes de cooperação de cada lado da fronteira, bem como o estabelecimento de laços entre essas redes e redes mais amplas da Comunidade Europeia."
+  },
+  "673c50d8460bde18": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Nas regiões fronteiriças, seleccionadas em conformidade com o artigo 2.º, os projectos a incluir no programa de cooperação transfronteiriça podem assumir a forma de:\n\ni) Projectos relacionados com medidas apoiadas por *Interreg* ou por outros programas comunitários de assistência externa;\n\nii) Projectos aprovados pelos países em causa, que tenham um impacto transfronteiriço, contribuam para o desenvolvimento de estruturas em regiões fronteiriças e facilitem a cooperação entre os países no seu conjunto.\n\n2. Deverá ser prestada especial atenção a projectos em relação aos quais seja concedido co-financiamento por ou em nome das autoridades locais ou de operadores económicos dos países da Europa Central e Oriental.\n\n3. O financiamento pode incluir recursos de outros Estados-membros da União Europeia e de países da Europa Central e Oriental, de instituições financeiras internacionais e de outras fontes públicas e privadas."
+  },
+  "d00cbfb2168bc765": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. As acções que podem ser financiadas ao abrigo do presente programa poderão incluir:\n\na) Atenuação dos obstáculos administrativos e institucionais à livre circulação de pessoas, bens ou serviços através da fronteira, tendo em conta os aspectos relacionados com a segurança;\n\nb) Melhoria de infra-estruturas, em especial de comunicação e de abastecimento de água, gás e electricidade a nível local, susceptível de beneficiar as zonas fronteiriças;\n\nc) Protecção do ambiente, designadamente gestão dos resíduos, gestão ambiental e prevenção da poluição, incluindo tratamento de problemas acentuados pela proximidade de fronteiras externas;\n\nd) Medidas de desenvolvimento agrícola e rural com especial atenção para a facilitação de projectos de cooperação transfronteiriça;\n\ne) Medidas nos domínios da energia, telecomunicações e transportes, destinadas a complementar o desenvolvimento das redes transeuropeias, de acordo com as orientações adoptadas pela Comissão;\n\nf) Acções relacionadas com a política comunitária no domínio da justiça e dos assuntos internos,\n\ng) Promoção da cooperação entre empresas, desenvolvimento de empresas, cooperação financeira e cooperação entre instituições representativas do sector empresarial (por exemplo, câmaras de comércio);\n\nh) Ajuda ao investimento e fornecimento de serviços e infra-estruturas de apoio, em especial tendo em vista a transferência de tecnologia e a comercialização para pequenas e médias empresas;\n\ni) Medidas no domínio da formação e emprego;\n\nj) Desenvolvimento económico local, nomeadamente a promoção do turismo;\n\nk) Medidas destinadas a promover a cooperação no domínio da saúde, especialmente a partilha de recursos e infra-estruturas numa base transfronteiriça;\n\nl) Desenvolvimento ou criação de infra-estruturas e recursos destinados a melhorar o fluxo de informação e as comunicações entre as regiões fronteiriças, incluindo um apoio à rádio, televisão e jornais transfronteiriços bem como a outros meios de comunicação;\n\nm) Intercâmbio cultural;\n\nn) Iniciativas locais em matéria de emprego, educação e formação.\n\n2. Com vista a incentivar os pequenos projectos comuns envolvendo os agentes locais das regiões fronteiriças e a reforçar as capacidades destes últimos em matéria de identificação, elaboração e execução, pode ser criado um fundo em cada região em causa, em relação ao qual pode ser utilizada uma percentagem limitada das dotações afectadas aos programas e iniciativas de cooperação transfronteiriça.\n\n3. Deverá ser prestada atenção especial a medidas planeadas em estreita cooperação com as autoridades regionais e locais em zonas fronteiriças e que incluam o estabelecimento ou o desenvolvimento de estruturas de gestão partilhadas, destinadas a ampliar e a aprofundar a cooperação transfronteiriça entre organismos públicos e para-públicos, bem como instituições de carácter não lucrativo.\n\n4. Pode igualmente ser financiado o estabelecimento de planos para o desenvolvimento de regiões fronteiriças, e de identificação de projectos e formulação de programas, estudos de viabilidade, assistência na execução de programas e estudos de acompanhamento e/ou avaliação."
+  },
+  "94f3f876614215f3": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A contribuição comunitária é prestada, em princípio, sob a forma de subvenção. Contudo, sempre que a subvenção comunitária contribua para o financiamento de actividades geradoras de rendimentos, a Comissão determinará, em consulta com as autoridades competentes, as regras de financiamento que podem incluir o co-financiamento através dos rendimentos do projecto ou reembolso das subvenções iniciais.\n\n2. A ajuda pode cobrir despesas com importações e despesas locais necessárias para executar os projectos e programas.\n\nSerão excluídos do financiamento comunitário os direitos e encargos de natureza fiscal bem como a aquisição de propriedade.\n\n3. Os custos cobertos podem incluir assistência técnica, estudos, formação e outras medidas visando a criação de instituições; programas de fornecimentos de equipamento ou recursos essenciais; operações de investimento, incluindo programas de trabalho.\n\n4. As despesas de manutenção e funcionamento nos países da Europa Central e Oriental podem ser cobertas na fase inicial e de uma forma degressiva."
+  },
+  "1d8760144754c6e3": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Para cada uma das regiões fronteiriças, será criado um comité misto de cooperação, constituído por representantes dos países em causa, nomeadamente representantes locais ou regionais, e por representantes da Comissão.\n\n2. O Comité Misto de Cooperação elaborará um documento comum de programação transfronteiriça numa perspectiva plurianual; este documento definirá as prioridades e as estratégias de desenvolvimento da região, considerada como uma entidade geográfica e socioeconómica única, e fixará as disposições relativas à execução conjunta. O documento orientará a programação e a execução das acções levadas a cabo no âmbito dos programas e iniciativas de cooperação transfronteiriça que beneficiam de assistência da Comunidade Europeia.\n\n3. O Comité Misto de Cooperação estabelecerá, anualmente, uma lista comum de projectos baseada no documento comum de programação transfronteiriça referido no n.º 2. As recomendações de projectos serão transmitidas à Comissão pela administração central do país da Europa Central e Oriental em causa, com base nas propostas apresentadas pela autoridades responsáveis."
+  },
+  "6f7a0ae6c6091593": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Comissão formulará uma proposta de programa por fronteira com base no documento comum de programação transfronteiriça referido no n.º 1 do artigo 7.º, bem como nas recomendações do Comité Misto de Cooperação relativas aos projectos a financiar no âmbito do presente programa, transmitidas pela administração central do país da Europa Central e Oriental em questão.\n\n2. A subvenção que constitui a contribuição, total ou parcial, do país da Europa Central e oriental para o projecto conjunto será aprovada de acordo com o procedimento definido no artigo 9.º do Regulamento (CEE) n.º 3906/89 e acordada com o país beneficiário em causa por meio de um memorando de financiamento."
+  },
+  "8c13c0c5adffb3aa": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comissão administrará esta assistência de acordo com a prática normal aplicada à assistência à Europa Central e Oriental, tal como definida no Regulamento (CEE) n.º 3906/89.\n\n2. Sempre que possível, deverão ser criadas estruturas de gestão conjuntas por forma a facilitar a execução dos programas."
+  },
+  "f105b4a6fc63af2c": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAo executar os objectivos referidos no artigo 3.º, a Comissão assegurará a coordenação e a coerência entre a assistência do *Phare* e a assistência prestada pelos fundos estruturais."
+  },
+  "218c80da4766fb3e": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias* e substitui o Regulamento (CE) n.º 1628/94 da Comissão a partir dessa mesma data.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "64c320180a1662b8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9a0ea42b-2278-4faa-86a5-44463199c3d7.0016.03/DOC_1#src.E0001)) JO L 375 de 23. 12. 1989, p. 11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9a0ea42b-2278-4faa-86a5-44463199c3d7.0016.03/DOC_1#src.E0002)) JO L 103 de 26. 4. 1996, p. 5.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9a0ea42b-2278-4faa-86a5-44463199c3d7.0016.03/DOC_1#src.E0003)) JO L 171 de 6. 7. 1994, p. 14."
+  },
+  "580219a9635b9fb8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1998R2760 — PT — 01.01.2007 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31998R2760) [REGULAMENTO (CE) N.º 2760/98 DA COMISSÃO](http://publications.europa.eu/resource/celex/31998R2760) [de 18 de Dezembro de 1998](http://publications.europa.eu/resource/celex/31998R2760) [relativo à execução de um programa de cooperação transfronteiriça no âmbito do programa Phare](http://publications.europa.eu/resource/celex/31998R2760) (JO L 345, 19.12.1998, p.49)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1085/2006 do Conselho de 17 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1085) — L 210 — 82 — 31.7.2006"
+  }
+ }
+}

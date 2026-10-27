@@ -1,0 +1,791 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0067:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0067-20240520",
+ "dre_path": null,
+ "source_lastmod": "2024-05-20",
+ "versions": [
+  {
+   "date": "1996-10-25",
+   "future": false,
+   "celex": "31996L0067",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7dbd4770337c3d4f",
+    "30ac9849610fac2a",
+    "a7eb63d87578db6e",
+    "5fe6e4e3dfe46926",
+    "2ead67c83b171910",
+    "e8f0f82748dc422a",
+    "4aaff3a12798dbe5",
+    "80e9c64794efe7eb",
+    "cb171fa19f1d636b",
+    "fff7496c3a42a2e6",
+    "727da44e30dd31d4",
+    "e113d247c9c7a5ff",
+    "ee113f17085eed00",
+    "5d0030725860bf30",
+    "e79cc740a8f428d4",
+    "367373cedf47b7ae",
+    "8a76d5d3dd7874ed",
+    "078521d700943318",
+    "6662130396b4f2e8",
+    "c05d2744ab4eeafd",
+    "8c265ab8192a8aa7",
+    "b29ff6138e0aaf82",
+    "9d7b98d107846e1b",
+    "49dbca2caf1d63e8",
+    "9b4dacc87cf5f867",
+    "c273b16820462fa3",
+    "3b73cab2ed67d7ce"
+   ]
+  },
+  {
+   "date": "2003-11-20",
+   "future": false,
+   "celex": "01996L0067-20031120",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO — LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA",
+    "Adita Artigo 1.º — Âmbito de aplicação",
+    "Adita Artigo 2.º — Definições",
+    "Adita Artigo 3.º — Entidade gestora de um aeroporto",
+    "Adita Artigo 4.º — Separação de actividades",
+    "Adita Artigo 5.º — Comité de utilizadores",
+    "Adita Artigo 6.º — Assistência a terceiros",
+    "Adita Artigo 7.º — Auto-assistência",
+    "Adita Artigo 8.º — Infra-estruturas centralizadas",
+    "Adita Artigo 9.º — Derrogações",
+    "Adita Artigo 10.º — Comité Consultivo",
+    "Adita Artigo 11.º — Selecção dos prestadores",
+    "Adita Artigo 12.º — Aeroportos insulares",
+    "Adita Artigo 13.º — Consultas",
+    "Adita Artigo 14.º — Licença",
+    "Adita Artigo 15.º — Regras de conduta",
+    "Adita Artigo 16.º — Acesso às instalações",
+    "Adita Artigo 17.º — Protecção e segurança",
+    "Adita Artigo 18.º — Protecção social e protecção do ambiente",
+    "Adita Artigo 19.º — Respeito pelas disposições nacionais",
+    "Adita Artigo 20.º — Reciprocidade",
+    "Adita Artigo 21.º — Direito de recurso",
+    "Adita Artigo 22.º — Relatório de informação e revisão",
+    "Adita Artigo 23.º — Transposição",
+    "Adita Artigo 24.º — Entrada em vigor",
+    "Adita Artigo 25.º — Destinatários",
+    "Suprime Artigo 1º — Âmbito de aplicação",
+    "Suprime Artigo 2º — Definições",
+    "Suprime Artigo 3º — Entidade gestora de um aeroporto",
+    "Suprime Artigo 4º — Separação de actividades",
+    "Suprime Artigo 5º — Comité de utilizadores",
+    "Suprime Artigo 6º — Assistência a terceiros",
+    "Suprime Artigo 7º — Auto-assistência",
+    "Suprime Artigo 8º — Infra-estruturas centralizadas",
+    "Suprime Artigo 9º — Derrogações",
+    "Suprime Artigo 10º — Comité consultivo",
+    "Suprime Artigo 11º — Selecção dos prestadores",
+    "Suprime Artigo 12º — Aeroportos insulares",
+    "Suprime Artigo 13º — Consultas",
+    "Suprime Artigo 14º — Licença",
+    "Suprime Artigo 15º — Regras de conduta",
+    "Suprime Artigo 16º — Acesso às instalações",
+    "Suprime Artigo 17º — Protecção e segurança",
+    "Suprime Artigo 18º — Protecção social e protecção do ambiente",
+    "Suprime Artigo 19º — Respeito pelas disposições nacionais",
+    "Suprime Artigo 20º — Reciprocidade",
+    "Suprime Artigo 21º — Direito de recurso",
+    "Suprime Artigo 22º — Relatório de informação e revisão",
+    "Suprime Artigo 23º — Transposição",
+    "Suprime Artigo 24º — Entrada em vigor",
+    "Suprime Artigo 25º — Destinatários"
+   ],
+   "fragments": [
+    "fdd772caecaf4737",
+    "6e67161f196ff80e",
+    "83fbc8d31f327369",
+    "5badf695d86a152a",
+    "38133e42aabff92f",
+    "cae3eb160c8b7b84",
+    "2aa251586ae977f7",
+    "c08e707f4b4a6357",
+    "497c87e69f9bddbc",
+    "674baffb936381f2",
+    "808e98a4ce499517",
+    "5765aee66b0bde63",
+    "78f51624be1b7e73",
+    "7f07ce3d7fa049ff",
+    "79338a13967b4453",
+    "97798ff4cdd8dab6",
+    "05375a8c94bd7742",
+    "0b1912a080ee6658",
+    "9191b95ed0555413",
+    "29a459a6dc83824a",
+    "5f2b4cfbdcbbc319",
+    "f8ff15aa2c4609f5",
+    "1dfb30435f7eaa40",
+    "9155da9afe84b7d1",
+    "d58b3ec7c78ca0b8",
+    "fc1f28e889ab0a87",
+    "77f2f057cfc79435"
+   ]
+  },
+  {
+   "date": "2024-05-20",
+   "future": false,
+   "celex": "01996L0067-20240520",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32024D1254:por",
+     "title": "DECISÃO (UE) 2024/1254 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024",
+     "published": null,
+     "celex": "32024D1254"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Âmbito de aplicação",
+    "Altera Artigo 7.º — Auto-assistência",
+    "Altera Artigo 9.º — Derrogações",
+    "Altera Artigo 10.º — Comité Consultivo",
+    "Altera Artigo 11.º — Selecção dos prestadores",
+    "Altera Artigo 20.º — Reciprocidade",
+    "Adita ANEXO",
+    "Adita LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA",
+    "Adita Notas",
+    "Suprime ANEXO — LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA"
+   ],
+   "fragments": [
+    "4b0c7b067d17095a",
+    "b588bbada871774b",
+    "99a0516afb3daf64",
+    "5badf695d86a152a",
+    "38133e42aabff92f",
+    "cae3eb160c8b7b84",
+    "e348c6abdadaa182",
+    "da67e3ff9e1b417d",
+    "a95883d89c4c18ac",
+    "111479f98672ede5",
+    "d4601dbc9de21471",
+    "565bc5c130e383dd",
+    "4f53fda204f72ce1",
+    "fd73a9e4e084c518",
+    "1d521d3795ebb568",
+    "08725acbdf494a47",
+    "05375a8c94bd7742",
+    "0b1912a080ee6658",
+    "9191b95ed0555413",
+    "29a459a6dc83824a",
+    "42c116773bdff9dd",
+    "a28f7ccd9409c94f",
+    "1dfb30435f7eaa40",
+    "810cb8a28d66b038",
+    "cdbc85fb87b56e48",
+    "fc1f28e889ab0a87",
+    "10220b9774fa9034",
+    "676451027cadc257",
+    "9ca93fe94cd66cc4"
+   ]
+  }
+ ],
+ "fragments": {
+  "7dbd4770337c3d4f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/67/CE do Conselho de 15 de Outubro de 1996 relativa ao acesso ao mercado da assistência em escala nos aeroportos da Comunidade** *Jornal Oficial nº L 272 de 25/10/1996 p. 0036 - 0045*\n\nDIRECTIVA 96/67/CE DO CONSELHO de 15 de Outubro de 1996 relativa ao acesso ao mercado da assistência em escala nos aeroportos da Comunidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 2 do artigo 84º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºC do Tratado (3),\n\n(1) Considerando que a Comunidade tem vindo a desenvolver progressivamente uma política comum de transportes aéreos com o objectivo de realizar o mercado interno, nos termos do artigo 7ºA do Tratado e para promover de forma sustentável o progresso económico e social;\n\n(2) Considerando que o objectivo estabelecido no artigo 59º do Tratado consiste em suprimir as restrições à livre prestação de serviços na Comunidade; que, de acordo com o artigo 61º do Tratado, esse objectivo deve ser alcançado no âmbito da política comum de transportes;\n\n(3) Considerando que, através dos Regulamentos (CEE) nºs 2407/92 (4), 2408/92 (5) e 2409/92 (6), o Conselho concretizou esse objectivo no que respeita aos serviços de transportes aéreos propriamente ditos;\n\n(4) Considerando que os serviços de assistência em escala são indispensáveis para o bom funcionamento do modo de transporte aéreo e que contribuem decisivamente para uma utilização eficaz das infra-estruturas do transporte aéreo;\n\n(5) Considerando que a abertura do acesso ao mercado da assistência em escala é uma medida que deverá contribuir para reduzir os custos de exploração das companhias aéreas e melhorar a qualidade oferecida aos utilizadores;\n\n(6) Considerando que, à luz do princípio da subsidiariedade, é indispensável que a concretização do acesso ao mercado da assistência em escala se processe num âmbito comunitário, permitindo simultaneamente aos Estados-membros tomarem em consideração a especificidade do sector;\n\n(7) Considerando que, na sua comunicação de Junho de 1994 intitulada «O futuro da aviação civil na Europa», a Comissão manifestou vontade de adoptar, antes do final de 1994, uma iniciativa destinada a concretizar o acesso ao mercado da assistência em escala nos aeroportos comunitários; que, na sua resolução de 24 de Outubro de 1994, relativa à situação da aviação civil na Europa (7), o Conselho confirmou a necessidade de se terem em conta os imperativos ligados à situação dos aeroportos na concretização desta abertura;\n\n(8) Considerando que, na sua resolução de 14 de Fevereiro de 1995, sobre a aviação civil na Europa (8), o Parlamento Europeu recordou a sua preocupação em atender ao impacte do acesso ao mercado da assistência sobre as condições de emprego e de segurança nos aeroportos da Comunidade;\n\n(9) Considerando que o livre acesso ao mercado da assistência em escala é compatível com o bom funcionamento dos aeroportos comunitários;\n\n(10) Considerando que o livre acesso ao mercado da assistência em escala deverá ser efectuado de forma progressiva e adaptada às exigências do sector;\n\n(11) Considerando que, para determinadas categorias de serviços, o acesso ao mercado, bem como o exercício da auto-assistência, se podem confrontar com condicionalismos de segurança, de protecção, capacidade e de espaço disponível; que importa, assim, poder limitar o número de prestadores autorizados a prestar essas categorias de serviços; que, de igual modo, o exercício da auto-assistência deve poder ser limitado e que, nesse caso, os critérios de limitação devem ser pertinentes, objectivos, transparentes e não discriminatórios;\n\n(12) Considerando que uma concorrência efectiva exige, caso o número de prestadores seja limitado, que pelo menos um deles seja, a prazo, simultaneamente independente da entidade gestora e da transportadora dominante;\n\n(13) Considerando que o bom funcionamento dos aeroportos requer que estes possam reservar para si a gestão de determinadas infra-estruturas difíceis de dividir ou de desdobrar por razões técnicas, de rentabilidade ou de impacte no ambiente; que a sua gestão centralizada não poderá, todavia, entravar a utilização dessas infra-estruturas pelos prestadores de serviços e pelos utilizadores que pratiquem a auto-assistência;\n\n(14) Considerando que, em determinados casos, os condicionalismos evocados podem ser de tal ordem que justifiquem certas limitações ao acesso ao mercado ou ao exercício da auto-assistência, desde que essas limitações apresentem um carácter pertinente, objectivo, transparente e não discriminatório;\n\n(15) Considerando que essas derrogações devem ter por objectivo permitir às autoridades aeroportuárias obviar aos referidos condicionalismos ou, pelo menos, atenuá-los; que essas derrogações devem ser aprovadas pela Comissão, assistida por um comité consultivo, e concedidas por um período determinado;\n\n(16) Considerando que a manutenção de uma concorrência efectiva e leal exige que, em caso de limitação do número de prestadores, estes sejam seleccionados através de um processo transparente e imparcial; que importa consultar os utilizadores ao fazer esta selecção uma vez que são os primeiros interessados na qualidade e no preço dos serviços a que têm de recorrer;\n\n(17) Considerando que, por conseguinte, é necessário organizar a representação dos utilizadores e a sua consulta para a selecção dos prestadores autorizados, através da criação de um comité composto pelos seus representantes;\n\n(18) Considerando que é possível, em certas circunstâncias e condições específicas, no contexto da selecção de prestadores num aeroporto, alargar a obrigação de serviço público a outros aeroportos na mesma região geográfica do Estado-membro em questão;\n\n(19) Considerando que a entidade gestora do aeroporto pode também prestar serviços de assistência em escala e que, pelas suas decisões, pode exercer uma influência considerável na concorrência entre os prestadores; que, por conseguinte, a fim de garantir a manutenção de uma concorrência leal, é indispensável impor aos aeroportos uma separação contabilística entre as suas actividades, por um lado, de gestão e de regulação das infra-estruturas e, por outro, de prestação de serviços de assistência;\n\n(20) Considerando que um aeroporto não pode subvencionar a sua actividade de assistência em escala com rendimentos provenientes da sua missão de autoridade aeroportuária;\n\n(21) Considerando que as mesmas exigências de transparência devem ser aplicadas a todos os prestadores que pretendam prestar serviços de assistência em escala a terceiros;\n\n(22) Considerando que, para permitir aos aeroportos cumprirem a sua missão de gestão das infra-estruturas e garantirem a segurança e a protecção no perímetro aeroportuário, bem como tendo em vista assegurar a protecção do ambiente e da regulamentação social em vigor, os Estados-membros devem poder subordinar a actividade dos prestadores de serviços de assistência em escala à obtenção de uma licença; que os critérios de concessão dessa licença devem ser objectivos, transparentes e não discriminatórios;\n\n(23) Considerando que, pelos mesmos motivos, os Estados-membros devem conservar a possibilidade de adoptar e impor as normas necessárias ao bom funcionamento das infra-estruturas aeroportuárias; que essas normas devem prosseguir o objectivo pretendido e não limitar na prática o acesso ao mercado ou o exercício de auto-assistência a um nível inferior ao previsto na presente directiva; que essas normas devem respeitar os princípios da objectividade, da transparência e da não discriminação;\n\n(24) Considerando que os Estados-membros devem conservar a possibilidade de garantir um nível adequado de protecção social ao pessoal das empresas que prestam serviços de assistência em escala;\n\n(25) Considerando que se deve garantir o acesso às instalações aeroportuárias aos prestadores autorizados a prestar serviços de assistência em escala e aos utilizadores autorizados a praticar a auto-assistência, na medida necessária ao exercício dos seus direitos, e permitir uma concorrência efectiva e leal; que, todavia, esse acesso deve poder dar lugar à cobrança de uma remuneração;\n\n(26) Considerando que é legítimo que os direitos reconhecidos pela presente directiva apenas se apliquem aos prestadores de serviços e aos utilizadores originários de países terceiros em caso de estrita reciprocidade; que, caso não haja reciprocidade, o Estado-membro deve poder suspender os direitos desses prestadores e utilizadores;\n\n(27) Considerando que o Reino de Espanha e o Reino Unido acordaram em Londres, a 2 de Dezembro de 1987, em declaração conjunta dos ministros dos Negócios Estrangeiros dos dois países, num regime de maior cooperação na utilização do aeroporto de Gibraltar; que esse regime ainda não está a ser aplicado;\n\n(28) Considerando que a presente directiva não obsta à aplicação das regras do Tratado, nomeadamente a que a Comissão continue a garantir o cumprimento dessas regras fazendo uso, se necessário, das prerrogativas que lhe são conferidas pelo artigo 90º do Tratado,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "30ac9849610fac2a": {
+   "fragment_id": "Artigo 1º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Âmbito de aplicação\n\n1. A presente directiva aplica-se a todos os aeroportos situados no território dos Estados-membros, sujeitos às disposições do Tratado e abertos ao tráfego comercial, de acordo com as seguintes regras:\n\na) As disposições do nº 1 do artigo 7º relativas às categorias de serviços não referidas no nº 2 dos mesmo artigo aplicam-se, a partir de 1 de Janeiro de 1998, a todos os aeroportos independentemente do seu volume de tráfego;\n\nb) As disposições relativas às categorias de serviços referidas no nº 2 do artigo 7º aplicam-se, a partir de 1 de Janeiro de 1998, aos aeroportos cujo tráfego anual seja igual ou superior a 1 milhão de passageiros ou a 25 000 toneladas de carga;\n\nc) As disposições relativas às categorias de serviços referidas no artigo 6º aplicam-se, a partir de 1 de Janeiro de 1999, aos aeroportos:\n\n- cujo tráfego anual seja igual ou superior a 3 milhões de passageiros ou a 75 000 toneladas de carga, ou\n\n- que tenham registado um tráfego igual ou superior a 2 milhões de passageiros ou a 50 000 toneladas de carga durante o período de seis meses que precede o dia 1 de Abril ou 1 de Outubro do ano anterior.\n\n2. Sem prejuízo do nº 1, a presente directiva aplica-se, a partir de 1 de Janeiro de 2001, a todos os aeroportos situados no território dos Estados-membros, sujeitos às disposições do Tratado e abertos ao tráfego comercial, cujo tráfego anual seja igual ou superior a 2 milhões de passageiros ou a 50 000 toneladas de carga.\n\n3. Sempre que um aeroporto atinja um dos limiares de tráfego de carga a que se refere o presente artigo, sem todavia atingir o limiar de tráfego de passageiros correspondente, a presente directiva não se aplica às categorias de serviços de assistência reservadas exclusivamente a passageiros.\n\n4. A Comissão publica, a título informativo, no Jornal Oficial das Comunidades Europeias a lista dos aeroportos referidos no presente artigo. Essa lista será publicada pela primeira vez no prazo de três meses a contar da data de entrada em vigor da presente directiva e posteriormente todos os anos.\n\nOs Estados-membros devem comunicar à Comissão, até 1 de Julho de cada ano, os dados necessários à elaboração dessa lista.\n\n5. A aplicação da presente directiva ao aeroporto de Gibraltar não prejudica as posições jurídicas respectivas do Reino de Espanha e do Reino Unido em relação ao diferendo a respeito da soberania sobre o território onde se encontra situado aquele aeroporto.\n\n6. A aplicação das disposições da presente directiva ao aeroporto de Gibraltar está suspensa até que seja aplicado o regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido feita em 2 de Dezembro de 1987. Os Governos do Reino de Espanha e do Reino Unido informarão o Conselho da data de entrada em aplicação desse regime."
+  },
+  "a7eb63d87578db6e": {
+   "fragment_id": "Artigo 2º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Aeroporto», um terreno especialmente preparado para a aterragem, a descolagem e as manobras de aeronaves, incluindo as instalações anexas que possam existir para as necessidades do tráfego e o serviço das aeronaves, incluindo as instalações necessárias para as operações comerciais de transporte aéreo;\n\nb) «Sistema de aeroportos», um conjunto de aeroportos que sirva a mesma cidade ou área urbana, conforme indicado no anexo II do Regulamento (CEE) nº 2408/92 do Conselho, de 23 de Julho de 1992, relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias;\n\nc) «Entidade gestora», a entidade à qual, em conjunto ou não com outras actividades, nos termos da legislação ou da regulamentação nacional, compete a administração e a gestão das infra-estruturas aeroportuárias, a coordenação e o controlo das actividades dos vários operadores presentes no aeroporto ou no sistema de aeroportos em causa;\n\nd) «Utilizador de um aeroporto», uma pessoa singular ou colectiva que transporte por via aérea passageiros, correio e/ou carga, com partida do aeroporto em causa ou com destino a esse aeroporto;\n\ne) «Assistência em escala», os serviços prestados num aeroporto a um utilizador, tal como descritos no anexo;\n\nf) «Auto-assistência em escala», a situação em que um utilizador presta directamente a si próprio uma ou mais categorias de serviços de assistência e não celebra, sob nenhuma denominação, qualquer tipo de contrato com terceiros para prestação desses serviços. Na acepção da presente definição, não se consideram terceiros entre si os utilizadores:\n\n- dos quais um detém uma participação maioritária no outro, ou\n\n- cuja participação em cada um deles seja maioritariamente detida pela mesma entidade;\n\ng) «Prestador de serviços de assistência em escala», uma pessoa singular ou colectiva que preste a terceiros uma ou mais categorias de serviços de assistência em escala."
+  },
+  "5fe6e4e3dfe46926": {
+   "fragment_id": "Artigo 3º — Entidade gestora de um aeroporto",
+   "type": "artigo",
+   "heading": "Artigo 3º — Entidade gestora de um aeroporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Entidade gestora de um aeroporto\n\n1. Sempre que a gestão e a exploração de um aeroporto ou de um sistema de aeroportos não sejam asseguradas por uma única entidade mas por várias entidades distintas, considera-se que cada uma delas faz parte da entidade gestora para efeitos de aplicação da presente directiva.\n\n2. Do mesmo modo, sempre que houver uma única entidade gestora para vários aeroportos ou sistemas de aeroportos, cada um desses aeroportos ou sistemas de aeroportos deve ser considerado isoladamente para efeitos de aplicação da presente directiva.\n\n3. Se as entidades gestoras dos aeroportos estiverem sujeitas à tutela ou ao controlo de uma autoridade pública nacional, esta deve, no âmbito das obrigações legais que lhe incumbem, assegurar a aplicação da presente directiva."
+  },
+  "2ead67c83b171910": {
+   "fragment_id": "Artigo 4º — Separação de actividades",
+   "type": "artigo",
+   "heading": "Artigo 4º — Separação de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Separação de actividades\n\n1. A entidade gestora de um aeroporto, o utilizador ou o prestador de serviços que prestam serviços de assistência em escala devem efectuar uma rigorosa separação contabilística, de acordo com as práticas comerciais em vigor, entre as actividades ligadas à prestação desses serviços e as suas restantes actividades.\n\n2. A efectividade dessa separação contabilística deve ser controlada por um auditor independente designado pelo Estado-membro.\n\nO auditor deve igualmente verificar a inexistência de fluxos financeiros entre a actividade da entidade gestora na sua qualidade de autoridade aeroportuária e a sua actividade de assistência em escala."
+  },
+  "e8f0f82748dc422a": {
+   "fragment_id": "Artigo 5º — Comité de utilizadores",
+   "type": "artigo",
+   "heading": "Artigo 5º — Comité de utilizadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Comité de utilizadores\n\n1. No prazo de doze meses a contar da data de entrada em vigor da presente directiva, os Estados-membros assegurarão a criação, para cada um dos aeroportos em causa, de um comité composto por representantes dos utilizadores.\n\n2. Qualquer utilizador pode optar entre fazer parte do comité ou nele ser representado por uma organização que designe para o efeito."
+  },
+  "4aaff3a12798dbe5": {
+   "fragment_id": "Artigo 6º — Assistência a terceiros",
+   "type": "artigo",
+   "heading": "Artigo 6º — Assistência a terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Assistência a terceiros\n\n1. Os Estados-membros devem tomar as medidas necessárias, de acordo com as regras previstas no artigo 1º, para garantir aos prestadores de serviços de assistência em escala o livre acesso ao mercado da prestação de serviços de assistência em escala a terceiros.\n\nOs Estados-membros podem exigir que os prestadores de serviços de assistência em escala estejam estabelecidos na Comunidade.\n\n2. Os Estados-membros podem limitar o número de prestadores autorizados a prestar as seguintes categorias de serviços de assistência em escala:\n\n- assistência a bagagens,\n\n- assistência a operações em pista,\n\n- assistência a combustível e óleo,\n\n- assistência a carga e correio no que se refere, tanto à chegada como à partida ou em trânsito, ao tratamento físico da carga e do correio entre a aerogare e o avião.\n\nTodavia, os Estados-membros não podem limitar esse número a menos de dois para cada categoria de serviço.\n\n3. Além disso, a partir de 1 de Janeiro de 2001, pelo menos um desses prestadores autorizados não pode ser controlado directa ou indirectamente:\n\n- pela entidade gestora do aeroporto,\n\n- por um utilizador que tenha transportado mais de 25 % dos passageiros ou da carga registados no aeroporto durante o ano anterior ao da selecção dos prestadores, nem\n\n- por uma entidade que controle ou seja controlada directa ou indirectamente por essa entidade gestora ou por esse utilizador.\n\nNo entanto, até 1 de Julho de 2000, qualquer Estado-membro poderá solicitar que a obrigação estabelecida no presente número seja diferida até 31 de Dezembro de 2002.\n\nA Comissão, assistida pelo comité referido no artigo 10º, analisará esses pedidos e, tendo em conta a evolução do sector, especialmente a situação de aeroportos comparáveis em termos de volume e tipo de tráfego, poderá decidir autorizá-los.\n\n4. Quando, em aplicação do nº 2, limitarem o número de prestadores autorizados, os Estados-membros não podem impedir um utilizador de um aeroporto, independentemente da parte do aerorporto que lhe esteja afectada, de beneficiar, para cada categoria de serviços de assistência em escala sujeita a limitação, de uma escolha efectiva entre pelo menos dois prestadores de serviços de assistência em escala, nas condições previstas nos nºs 2 e 3."
+  },
+  "80e9c64794efe7eb": {
+   "fragment_id": "Artigo 7º — Auto-assistência",
+   "type": "artigo",
+   "heading": "Artigo 7º — Auto-assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Auto-assistência\n\n1. Os Estados-membros devem tomar as medidas necessárias, de acordo com as regras previstas no artigo 1º, para garantir o livre exercício da auto-assistência em escala.\n\n2. Todavia, no que respeita às seguintes categorias de serviços de assistência:\n\n- assistência a bagagens,\n\n- assistência a operações em pista,\n\n- assistência a combustível e óleo,\n\n- assistência a carga e correio no que se refere, tanto à chegada como à partida ou em trânsito, ao tratamento físico da carga e do correio entre a aerogare e o avião,\n\nos Estados-membros podem reservar o exercício da auto-assistência a pelo menos dois utilizadores, desde que estes sejam seleccionados com base em critérios pertinentes, objectivos, transparentes e não discriminatórios."
+  },
+  "cb171fa19f1d636b": {
+   "fragment_id": "Artigo 8º — Infra-estruturas centralizadas",
+   "type": "artigo",
+   "heading": "Artigo 8º — Infra-estruturas centralizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Infra-estruturas centralizadas\n\n1. Não obstante os artigos 6º e 7º, os Estados-membros podem reservar quer à entidade gestora do aeroporto quer a outra entidade, a gestão das infra-estruturas centralizadas destinadas à prestação de serviços de assistência em escala e cuja complexidade, custo ou impacte no ambiente não permitam a divisão nem a duplicação, tais como os sistemas de triagem de bagagem, de eliminação do gelo, de depuração das águas ou de distribuição de combustível. Os Estados-membros podem obrigar os prestadores de serviços e os utilizadores que pratiquem a auto-assistência a utilizar essas infra-estruturas.\n\n2. Os Estados-membros devem zelar por que a gestão dessas infra-estruturas seja transparente, objectiva e não discriminatória e, sobretudo, não impeça o acesso a essas infra-estruturas dos prestadores de serviços e dos utilizadores que pratiquem a auto-assistência, nos limites previstos na presente directiva."
+  },
+  "fff7496c3a42a2e6": {
+   "fragment_id": "Artigo 9º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 9º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Derrogações\n\n1. Sempre que num aeroporto condicionalismos específicos de espaço ou de capacidade disponíveis, em função nomeadamente do congestionamento e da faixa de utilização das superfícies, determinem a impossibilidade de abertura do mercado e/ou do exercício da auto-assistência com a amplitude prevista na presente directiva, o Estado-membro em causa pode decidir:\n\na) Limitar o número de prestadores em relação a uma ou várias categorias de serviços de assistência distinta das referidas no nº 2 do artigo 6º no conjunto ou numa parte do aeroporto; neste caso, aplicam-se os nºs 2 e 3 do artigo 6º;\n\nb) Reservar a um único prestador uma ou mais categorias de serviços de assistência referidas no nº 2 do artigo 6º;\n\nc) Reservar a um número limitado de utilizadores o exercício da auto-assistência no que se refere a categorias distintas das referidas no nº 2 do artigo 7º, desde que esses utilizadores sejam seleccionados com base em critérios pertinentes, objectivos, transparentes e não discriminatórios;\n\nd) Proibir ou limitar a um único utilizador o exercício da auto-assistência em relação às categorias de serviços de assistência em escala referidas no nº 2 do artigo 7º\n\n2. Qualquer decisão de derrogação tomada em aplicação do nº 1 deve:\n\na) Especificar a ou as categorias de serviços para as quais a derrogação é concedida e os condicionalismos específicos de espaço ou de capacidade disponíveis que a justificam;\n\nb) Ser acompanhada de um plano de medidas adequadas destinadas a ultrapassar esses condicionalismos.\n\nAlém disso, a derrogação não deve:\n\ni) Prejudicar indevidamente os objectivos da presente directiva;\n\nii) Dar origem a distorções de concorrência entre prestadores de serviços e/ou utilizadores que pratiquem a auto-assistência;\n\niii) Ser mais ampla do que o necessário.\n\n3. Os Estados-membros devem notificar a Comissão, pelo menos três meses antes da sua entrada em vigor, de qualquer derrogação que concedam com base no nº 1, bem como dos motivos que a justificam.\n\nA Comissão publicará no Jornal Oficial das Comunidades Europeias um resumo das decisões que lhe sejam notificadas e convidará as partes interessadas a manifestarem-se.\n\n4. A Comissão procederá a uma análise aprofundada da decisão de derrogação apresentada pelo Estado-membro. Para o efeito, uma análise pormenorizada da situação e o estudo das medidas adequadas apresentadas pelo Estado-membro permitir-lhe-á verificar a existência dos condicionalismos invocados e a impossibilidade de abertura do mercado e/ou do exercício da auto-assistência com a amplitude prevista na presente directiva.\n\n5. Na sequência dessa análise e após ter consultado o Estado-membro interessado, a Comissão pode aprovar a decisão do Estado-membro ou opor-se-lhe se considerar que os condicionalismos invocados não existem ou não têm gravidade que justifiquem uma derrogação. Após ter consultado o Estado-membro interessado, a Comissão pode também exigir-lhe que altere o alcance da derrogação ou a limite apenas às partes do aeroporto ou do sistema de aeroportos em que se verifiquem de facto os condicionalismos invocados.\n\nA decisão da Comissão deve ser tomada no prazo de três meses a contar da notificação pelo Estado-membro e deve ser publicada no Jornal Oficial das Comunidades Europeias.\n\n6. A duração das derrogações autorizados pelos Estados-membros em aplicação do nº 1 não pode ser superior a três anos, exceptuando-se as que forem autorizadas em conformidade com a alínea b) do nº 1. Pelo menos três meses antes do termo desse período, qualquer pedido de derrogação deve ser objecto de nova decisão do Estado-membro, a qual será igualmente sujeita ao processo previsto no presente artigo.\n\nA duração das derrogações concedidas em aplicação da alínea b) do nº 1 não pode ser superior a dois anos. No entanto, qualquer Estado-membro pode, com base no nº 1, solicitar que esse período seja prorrogado por um prazo de dois anos. A Comissão, assistida pelo comité referido no artigo 10º, pronunciar-se-á sobre esses pedidos."
+  },
+  "727da44e30dd31d4": {
+   "fragment_id": "Artigo 10º — Comité consultivo",
+   "type": "artigo",
+   "heading": "Artigo 10º — Comité consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Comité consultivo\n\n1. A Comissão será assistida por um comité consultivo composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O comité aconselhará a Comissão no que respeita à aplicação do artigo 9º\n\n3. A Comissão poderá ainda consultar o comité sobre quaisquer questões respeitantes à aplicação da presente directiva.\n\n4. O comité estabelecerá o seu regulamento interno."
+  },
+  "e113d247c9c7a5ff": {
+   "fragment_id": "Artigo 11º — Selecção dos prestadores",
+   "type": "artigo",
+   "heading": "Artigo 11º — Selecção dos prestadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Selecção dos prestadores\n\n1. Os Estados-membros devem tomar as medidas necessárias para organizar um processo de selecção dos prestadores autorizados a prestar serviços de assistência em escala num aeroporto sempre que o seu número for limitado nos casos previstos no nº 2 do artigo 6º ou no artigo 9º Este processo deve obedecer aos seguintes princípios:\n\na) Nos casos em que os Estados-membros prevejam a elaboração de um caderno de encargos ou de especificações técnicas a satisfazer pelos prestadores, o caderno ou as especificações são elaborados após consulta prévia do comité de utilizadores. Os critérios de selecção previstos no caderno de encargos ou nas especificações técnicas devem ser pertinentes, objectivos, transparentes e não discriminatórios.\n\nDepois de informar a Comissão, o Estado-membro em causa pode incluir, nas condições normais ou nas especificações técnicas que os prestadores são obrigados a respeitar, a obrigação de serviço público em relação aos aeroportos que servem as regiões periféricas ou regiões em desenvolvimento que fazem parte do seu território, que não têm interesse comercial mas que têm importância capital para o Estado-membro em causa;\n\nb) Deve ser aberto concurso, publicado no Jornal Oficial das Comunidades Europeias, ao qual qualquer prestador interessado pode concorrer;\n\nc) Os prestadores são seleccionados:\n\ni) após consulta do comité de utilizadores, pela entidade gestora, caso esta:\n\n- não preste serviços idênticos de assistência em escala,\n\n- não controle, directa ou indirectamente, nenhuma empresa que preste esses serviços e\n\n- não possua qualquer participação nesse tipo de empresa,\n\nii) nos restantes casos, pelas autoridades competentes dos Estados-membros independentes das entidades gestoras, após consulta do comité de utilizadores e das entidades gestoras;\n\nd) Os prestadores são seleccionados por um período máximo de sete anos;\n\ne) Sempre que um prestador cessar a sua actividade antes do final do período para que foi seleccionado, proceder-se-á à sua substituição de acordo com o mesmo processo.\n\n2. Sempre que o número de prestadores for limitado em aplicação do nº 2 do artigo 6º ou do artigo 9º, a própria entidade gestora pode prestar serviços de assistência em escala sem estar sujeita ao processo de selecção previsto no nº 1. Do mesmo modo, pode autorizar uma empresa prestadora a prestar serviços de assistência em escala no aeroporto considerado, sem necessidade de a submeter a esse processo, caso\n\n- controle essa empresa directiva ou indirectamente, ou\n\n- seja directa ou indirectamente controlada por essa empresa.\n\n3. A entidade gestora informará o comité de utilizadores das decisões tomadas em aplicação do presente artigo."
+  },
+  "ee113f17085eed00": {
+   "fragment_id": "Artigo 12º — Aeroportos insulares",
+   "type": "artigo",
+   "heading": "Artigo 12º — Aeroportos insulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Aeroportos insulares\n\nAquando da selecção dos prestadores de serviços de assistência em escala num aeroporto, tal como previsto no artigo 11º, os Estados-membros podem alargar a obrigação de serviço público a outros aeroportos nesse Estado-membro desde que:\n\n- esses aeroportos se encontrem situados em ilhas na mesma região geográfica,\n\n- cada um desses aeroportos tenha um volume de tráfego igual ou superior a 100 000 passageiros por ano e\n\n- esse alargamento seja aprovado pela Comissão, assistida pelo comité referido no artigo 10º"
+  },
+  "5d0030725860bf30": {
+   "fragment_id": "Artigo 13º — Consultas",
+   "type": "artigo",
+   "heading": "Artigo 13º — Consultas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Consultas\n\nOs Estados-membros devem certificar-se de que é organizado um processo de consulta obrigatória entre a entidade gestora, o comité de utilizadores e as empresas prestadoras de serviços sobre a aplicação das disposições da presente directiva. A consulta deve incidir, nomeadamente, sobre o preço dos serviços que tenham sido objecto de derrogação concedida ao abrigo do nº 1, alínea b), do artigo 9º, bem como sobre as suas regras de prestação. A consulta deve ser realizada pelo menos uma vez por ano."
+  },
+  "e79cc740a8f428d4": {
+   "fragment_id": "Artigo 14º — Licença",
+   "type": "artigo",
+   "heading": "Artigo 14º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º — Licença\n\n1. Os Estados-membros podem subordinar a actividade de um prestador de serviços de assistência em escala ou de um utilizador que pratica a auto-assistência num aeroporto à obtenção de uma licença emitida por uma autoridade pública independente da entidade gestora do aeroporto.\n\nOs critérios de concessão dessa licença devem ter em conta uma boa situação financeira, a existência de uma cobertura adequada em matéria de seguro, a segurança ou a protecção das instalações, das aeronaves, dos equipamentos ou das pessoas, bem como a protecção do ambiente e o respeito pela legislação social pertinente.\n\nOs critérios devem observar os seguintes princípios:\n\na) Ser aplicados de forma não discriminatória aos diferentes prestadores e utilizadores;\n\nb) Prosseguirem o objectivo pretendido;\n\nc) Não levarem à redução de facto do acesso ao mercado ou ao exercício da auto-assistência a um nível inferior ao previsto na presente directiva.\n\nEstes critérios devem ser tornados públicos e o prestador ou o utilizador que pratica a auto-assistência deve ser informado previamente do processo de concessão.\n\n2. A licença só pode ser recusada ou retirada caso o prestador ou o utilizador que pratica a auto-assistência não satisfaça, por motivos que lhe sejam imputáveis, os critérios enunciados no nº 1.\n\nOs motivos da recusa ou retirada devem ser comunicados ao prestador ou ao utilizador em causa e à entidade gestora."
+  },
+  "367373cedf47b7ae": {
+   "fragment_id": "Artigo 15º — Regras de conduta",
+   "type": "artigo",
+   "heading": "Artigo 15º — Regras de conduta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º — Regras de conduta\n\nO Estado-membro pode, eventualmente sob proposta da entidade gestora:\n\n- proibir a um prestador de serviços de assistência em escala o exercício dessa actividade ou a um utilizador que pratique a auto-assistência, caso esse prestador ou esse utilizador não cumpra as regras que lhe foram impostas com vista a garantir o bom funcionamento do aeroporto.\n\nEssas regras devem observar os seguintes princípios:\n\na) Ser aplicadas de forma não discriminatória aos diferentes prestadores e utilizadores;\n\nb) Prosseguirem com o objectivo pretendido;\n\nc) Não levarem à redução de facto do acesso ao mercado ou ao exercício da auto-assistência a um nível inferior ao previsto na presente directiva,\n\n- impor em especial aos prestadores que prestem serviços de assistência em escala no aeroporto uma participação equitativa e não discriminatória na execução das obrigações de serviço público previstas na legislação ou regulamentação nacionais, nomeadamente a obrigação de garantir a permanência dos serviços."
+  },
+  "8a76d5d3dd7874ed": {
+   "fragment_id": "Artigo 16º — Acesso às instalações",
+   "type": "artigo",
+   "heading": "Artigo 16º — Acesso às instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º — Acesso às instalações\n\n1. Os Estados-membros devem tomar as medidas necessárias para garantir o acesso às instalações aeroportuárias dos prestadores de serviços de assistência em escala e dos utilizadores que pretendam praticar a auto-assistência, na medida em que esse acesso lhes seja necessário para exercerem as suas actividades. Caso a entidade gestora do aeroporto ou, eventualmente, a autoridade pública ou outra entidade que a controle imponha condições a esse acesso, estas devem ser pertinentes, objectivas, transparentes e não discriminatórias.\n\n2. Os espaços disponíveis para a assistência em escala no aeroporto devem ser distribuídos pelos diferentes prestadores de serviços e pelos diferentes utilizadores que pratiquem a auto-assistência, incluindo os recém-chegados, de acordo com regras e critérios pertinentes, objectivos, transparentes e não discriminatórios.\n\n3. Sempre que o acesso às instalações aeroportuárias implicar a cobrança de uma remuneração, esta será determinada com base em critérios pertinentes, objectivos, transparentes e não discriminatórios."
+  },
+  "078521d700943318": {
+   "fragment_id": "Artigo 17º — Protecção e segurança",
+   "type": "artigo",
+   "heading": "Artigo 17º — Protecção e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º — Protecção e segurança\n\nAs disposições da presente directiva em nada afectam os direitos e obrigações dos Estados-membros em matéria de ordem pública, de segurança e de protecção nos aeroportos."
+  },
+  "6662130396b4f2e8": {
+   "fragment_id": "Artigo 18º — Protecção social e protecção do ambiente",
+   "type": "artigo",
+   "heading": "Artigo 18º — Protecção social e protecção do ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º — Protecção social e protecção do ambiente\n\nSem prejuízo da aplicação das disposições da presente directiva e no respeito das demais disposições do direito comunitário, os Estados-membros podem tomar as medidas necessárias para assegurar a protecção dos direitos dos trabalhadores e a protecção do ambiente."
+  },
+  "c05d2744ab4eeafd": {
+   "fragment_id": "Artigo 19º — Respeito pelas disposições nacionais",
+   "type": "artigo",
+   "heading": "Artigo 19º — Respeito pelas disposições nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º — Respeito pelas disposições nacionais\n\nO prestador que exerça uma actividade de assistência em escala num aeroporto de um Estado-membro deve cumprir as disposições da legislação nacional compatíveis com a legislação comunitária."
+  },
+  "8c265ab8192a8aa7": {
+   "fragment_id": "Artigo 20º — Reciprocidade",
+   "type": "artigo",
+   "heading": "Artigo 20º — Reciprocidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º — Reciprocidade\n\n1. Sem prejuízo dos compromissos internacionais da Comunidade, sempre que, no que se refere ao acesso ao mercado da assistência em escala ou da auto-assistência, um país terceiro:\n\na) Não confira, de jure ou de facto, aos prestadores e aos utilizadores comunitários que praticam a auto-assistência um tratamento equivalente ao concedido pelos Estados-membros aos prestadores e aos utilizadores que praticam a auto-assistência desse país terceiro;\n\nb) Não confira, de jure ou de facto, aos prestadores e aos utilizadores que praticam a auto-assistência de um Estado-membro o tratamento nacional; ou\n\nc) Conceda aos prestadores e aos utilizadores que praticam a auto-assistência de outros países terceiros um tratamento mais favorável que o concedido aos prestadores e aos utilizadores que praticam a auto-assistência de um Estado-membro,\n\nqualquer Estado-membro pode suspender, total ou parcialmente, as obrigações decorrentes da presente directiva em relação aos prestadores e utilizadores desse país terceiro, de acordo com a legislação comunitária.\n\n2. O Estado-membro em causa deve informar a Comissão de qualquer suspensão ou retirada dos direitos ou obrigações."
+  },
+  "b29ff6138e0aaf82": {
+   "fragment_id": "Artigo 21º — Direito de recurso",
+   "type": "artigo",
+   "heading": "Artigo 21º — Direito de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º — Direito de recurso\n\nOs Estados-membros ou, eventualmente, as entidades gestoras devem garantir que qualquer parte com um interesse legítimo disponha do direito de recurso contra as decisões ou medidas individuais tomadas em aplicação do nº 2 do artigo 7º e dos artigos 11º a 16º\n\nEste direito de recurso deve poder ser exercido junto de um órgão jurisdicional nacional ou de uma autoridade pública que não seja a entidade gestora do aeroporto em causa e, eventualmente, independente da autoridade pública que a controle."
+  },
+  "9d7b98d107846e1b": {
+   "fragment_id": "Artigo 22º — Relatório de informação e revisão",
+   "type": "artigo",
+   "heading": "Artigo 22º — Relatório de informação e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º — Relatório de informação e revisão\n\nOs Estados-membros devem comunicar à Comissão as informações necessárias à elaboração de um relatório sobre a aplicação da presente directiva.\n\nEsse relatório, acompanhado de eventuais propostas de revisão da directiva, deve ser elaborado em 31 de Dezembro de 2001, o mais tardar."
+  },
+  "49dbca2caf1d63e8": {
+   "fragment_id": "Artigo 23º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 23º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º — Transposição\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva no prazo de um ano a contar da publicação no Jornal Oficial das Comunidades Europeias. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "9b4dacc87cf5f867": {
+   "fragment_id": "Artigo 24º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 24º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "c273b16820462fa3": {
+   "fragment_id": "Artigo 25º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 25º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25º — Destinatários\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 15 de Outubro de 1996.\n\nPelo Conselho\n\nO Presidente\n\nB. HOWLIN\n\n(1) JO nº C 142 de 8. 6. 1995, p. 7 e JO nº C 124 de 27. 4. 1996, p. 19.\n\n(2) JO nº C 301 de 13. 11. 1995, p. 28.\n\n(3) Parecer do Parlamento Europeu de 16 de Novembro de 1995 (JO nº C 323 de 4. 12. 1995, p. 106), posição comum do Conselho de 28 de Março de 1996 (JO nº C 134 de 6. 5. 1996, p. 30), e decisão do Parlamento Europeu de 16 de Julho de 1996 (JO nº C 261 de 9. 9. 1996).\n\n(4) JO nº L 240 de 24. 8. 1992, p. 1.\n\n(5) JO nº L 240 de 24. 8. 1992, p. 8. Regulamento alterado pelo Acto de Adesão de 1994.\n\n(6) JO nº L 240 de 24. 8. 1992, p. 15.\n\n(7) JO nº C 309 de 5. 11. 1994, p. 2.\n\n(8) JO nº C 56 de 6. 3. 1995, p. 28."
+  },
+  "3b73cab2ed67d7ce": {
+   "fragment_id": "ANEXO — LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA",
+   "type": "divisao",
+   "heading": "ANEXO — LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA\n\n1. A assistência administrativa em terra e a supervisão incluem:\n\n1.1. Os serviços de representação e de ligação com as autoridades locais ou qualquer outra entidade, as despesas efectuadas por conta do utilizador e o fornecimento de instalações aos seus representantes;\n\n1.2. O controlo do carregamento, das mensagens e das telecomunicações;\n\n1.3. O tratamento, o armazenamento, a movimentação de cargas e a administração das unidades de carregamento;\n\n1.4. Qualquer outro serviço de supervisão antes, durante ou após o voo ou qualquer outro serviço administrativo solicitado pelo utilizador.\n\n2. A assistência a passageiros inclui qualquer tipo de assistência aos passageiros à partida, à chegada, em trânsito ou em correspondência, nomeadamente o controlo dos bilhetes, dos documentos de viagem, o registo de bagagens e o seu transporte até aos sistemas de triagem.\n\n3. A assistência a bagagem inclui o seu tratamento na sala de triagem, a triagem, a preparação com vista à partida, o carregamento e descarregamento nos sistemas de transporte do avião para a sala de triagem e vice-versa, bem como o transporte de bagagens da sala de triagem até à sala de distribuição.\n\n4. A assistência a carga e correio inclui:\n\n4.1. No que se refere à carga, para exportação, importação ou em trânsito, o seu tratamento físico e o tratamento dos respectivos documentos, as formalidades aduaneiras e qualquer medida cautelar acordada entre as partes ou exigida pelas circunstâncias;\n\n4.2. No que se refere ao correio, tanto à chegada como à partida, o seu tratamento físico e o tratamento dos respectivos documentos a qualquer medida cautelar acordada entre as partes ou exigida pelas circunstâncias.\n\n5. A assistência de operações na pista inclui:\n\n5.1. A orientação do avião à chegada e à partida (1*);\n\n5.2. A assistência ao estacionamento do avião e o fornecimento dos meios adequados (2*);\n\n5.3. A organização das comunicações entre os serviços em terra e o avião (3*);\n\n5.4. O carregamento e descarregamento do avião, incluindo o fornecimento e o funcionamento dos meios necessários, bem como o transporte da tripulação e dos passageiros entre o avião e a aerogare e o transporte das bagagens entre o avião e a aerogare;\n\n5.5. A assistência à descolagem do avião e o fornecimento dos meios adequados;\n\n5.6. A deslocação do avião tanto à partida como à chegada, o fornecimento e o funcionamento dos meios adequados;\n\n5.7. O transporte, o carregamento no avião e o descarregamento do avião de alimentos e bebidas.\n\n6. A assistência de limpeza e serviço do avião inclui:\n\n6.1. A limpeza exterior e interior do avião, o serviço de lavabos e o serviço de água;\n\n6.2. A climatização e o aquecimento da cabina, a remoção da neve e do gelo do avião, a eliminação de gelo de avião;\n\n6.3. O acondicionamento da cabina com equipamentos de cabina e o armazenamento dos mesmos.\n\n7. A assistência de combustível e óleo inclui:\n\n7.1. A organização e execução do abastecimento e da retoma de combustível, incluindo o seu armazenamento, o controlo da qualidade e da quantidade dos fornecimentos;\n\n7.2. O abastecimento de óleo e de outros ingredientes líquidos.\n\n8. A assistência de manutenção em linha inclui:\n\n8.1. As operações regulares efectuadas antes do voo;\n\n8.2. As operações específicas exigidas pelo utilizador;\n\n8.3. O fornecimento e a gestão do material necessário à manutenção e das peças sobresselentes;\n\n8.4. O pedido ou a reserva de um local de estacionamento e/ou de um hangar para efectuar a manutenção.\n\n9. A assistência de operações aéreas e gestão das tripulações inclui:\n\n9.1. A preparação do voo no aeroporto de partida ou em qualquer outro local;\n\n9.2. A assistência em voo, incluindo, se necessário, a alteração de rota em voo;\n\n9.3. Os serviços pós-voo;\n\n9.4. A gestão das tripulações.\n\n10. A assistência de transporte em terra inclui:\n\n10.1. A organização e execução do transporte dos passageiros, da tripulação, das bagagens, da carga e do correio entre diferentes aerogares do mesmo aeroporto, excluindo, porém, qualquer transporte entre a aeronave e qualquer outro local situado no perímetro do mesmo aeroporto;\n\n10.2. Todos os transportes especiais solicitados pelo utilizador.\n\n11. A assistência de restauração (catering) inclui:\n\n11.1. A ligação com os fornecedores e a gestão administrativa;\n\n11.2. O armazenamento de alimentos, bebidas e acessórios necessários à sua preparação;\n\n11.3. A limpeza dos acessórios;\n\n11.4. A preparação e entrega do material e dos géneros alimentícios.\n\n(1*) Desde que esses serviços não sejam assegurados pelo serviço de circulação aérea."
+  },
+  "fdd772caecaf4737": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1996L0067 — PT — 20.11.2003 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0067:PT:NOT) [DIRECTIVA 96/67/CE DO CONSELHO de 15 de Outubro de 1996 relativa ao acesso ao mercado da assistência em escala nos aeroportos da Comunidade](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0067:PT:NOT) (JO L 272, 25.10.1996, p.36)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT) | [Regulamento (CE) n.o 1882/2003 do Parlamento Europeu e do Conselho de 29 de Setembro de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT) | L 284 | 1 | 31.10.2003 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0067:PT:NOT)\n\nDIRECTIVA 96/67/CE DO CONSELHO\n\nde 15 de Outubro de 1996\n\nrelativa ao acesso ao mercado da assistência em escala nos aeroportos da Comunidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do artigo 84.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([2](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0002)),\n\nDeliberando nos termos do procedimento previsto no artigo 189.oC do Tratado ([3](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0003)),\n\n(1) Considerando que a Comunidade tem vindo a desenvolver progressivamente uma política comum de transportes aéreos com o objectivo de realizar o mercado interno, nos termos do artigo 7.oA do Tratado e para promover de forma sustentável o progresso económico e social;\n\n(2) Considerando que o objectivo estabelecido no artigo 59.o do Tratado consiste em suprimir as restrições à livre prestação de serviços na Comunidade; que, de acordo com o artigo 61.o do Tratado, esse objectivo deve ser alcançado no âmbito da política comum de transportes;\n\n(3) Considerando que, através dos Regulamentos (CEE) n.os 2407/92 ([4](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0004)), 2408/92 ([5](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0005)) e 2409/92 ([6](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0006)), o Conselho concretizou esse objectivo no que respeita aos serviços de transportes aéreos propriamente ditos;\n\n(4) Considerando que os serviços de assistência em escala são indispensáveis para o bom funcionamento do modo de transporte aéreo e que contribuem decisivamente para uma utilização eficaz das infra-estruturas do transporte aéreo;\n\n(5) Considerando que a abertura do acesso ao mercado da assistência em escala é uma medida que deverá contribuir para reduzir os custos de exploração das companhias aéreas e melhorar a qualidade oferecida aos utilizadores;\n\n(6) Considerando que, à luz do princípio da subsidiariedade, é indispensável que a concretização do acesso ao mercado da assistência em escala se processe num âmbito comunitário, permitindo simultaneamente aos Estados-membros tomarem em consideração a especificidade do sector;\n\n(7) Considerando que, na sua comunicação de Junho de 1994 intitulada «O futuro da aviação civil na Europa», a Comissão manifestou vontade de adoptar, antes do final de 1994, uma iniciativa destinada a concretizar o acesso ao mercado da assistência em escala nos aeroportos comunitários; que, na sua resolução de 24 de Outubro de 1994, relativa à situação da aviação civil na Europa ([7](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0007)), o Conselho confirmou a necessidade de se terem em conta os imperativos ligados à situação dos aeroportos na concretização desta abertura;\n\n(8) Considerando que, na sua resolução de 14 de Fevereiro de 1995, sobre a aviação civil na Europa ([8](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0008)), o Parlamento Europeu recordou a sua preocupação em atender ao impacte do acesso ao mercado da assistência sobre as condições de emprego e de segurança nos aeroportos da Comunidade;\n\n(9) Considerando que o livre acesso ao mercado da assistência em escala é compatível com o bom funcionamento dos aeroportos comunitários;\n\n(10) Considerando que o livre acesso ao mercado da assistência em escala deverá ser efectuado de forma progressiva e adaptada às exigências do sector;\n\n(11) Considerando que, para determinadas categorias de serviços, o acesso ao mercado, bem como o exercício da auto-assistência, se podem confrontar com condicionalismos de segurança, de protecção, capacidade e de espaço disponível; que importa, assim, poder limitar o número de prestadores autorizados a prestar essas categorias de serviços; que, de igual modo, o exercício da auto-assistência deve poder ser limitado e que, nesse caso, os critérios de limitação devem ser pertinentes, objectivos, transparentes e não discriminatórios;\n\n(12) Considerando que uma concorrência efectiva exige, caso o número de prestadores seja limitado, que pelo menos um deles seja, a prazo, simultaneamente independente da entidade gestora e da transportadora dominante;\n\n(13) Considerando que o bom funcionamento dos aeroportos requer que estes possam reservar para si a gestão de determinadas infra-estruturas difíceis de dividir ou de desdobrar por razões técnicas, de rentabilidade ou de impacte no ambiente; que a sua gestão centralizada não poderá, todavia, entravar a utilização dessas infra-estruturas pelos prestadores de serviços e pelos utilizadores que pratiquem a auto-assistência;\n\n(14) Considerando que, em determinados casos, os condicionalismos evocados podem ser de tal ordem que justifiquem certas limitações ao acesso ao mercado ou ao exercício da auto-assistência, desde que essas limitações apresentem um carácter pertinente, objectivo, transparente e não discriminatório;\n\n(15) Considerando que essas derrogações devem ter por objectivo permitir às autoridades aeroportuárias obviar aos referidos condicionalismos ou, pelo menos, atenuá-los; que essas derrogações devem ser aprovadas pela Comissão, assistida por um comité consultivo, e concedidas por um período determinado;\n\n(16) Considerando que a manutenção de uma concorrência efectiva e leal exige que, em caso de limitação do número de prestadores, estes sejam seleccionados através de um processo transparente e imparcial; que importa consultar os utilizadores ao fazer esta selecção uma vez que são os primeiros interessados na qualidade e no preço dos serviços a que têm de recorrer;\n\n(17) Considerando que, por conseguinte, é necessário organizar a representação dos utilizadores e a sua consulta para a selecção dos prestadores autorizados, através da criação de um comité composto pelos seus representantes;\n\n(18) Considerando que é possível, em certas circunstâncias e condições específicas, no contexto da selecção de prestadores num aeroporto, alargar a obrigação de serviço público a outros aeroportos na mesma região geográfica do Estado-membro em questão;\n\n(19) Considerando que a entidade gestora do aeroporto pode também prestar serviços de assistência em escala e que, pelas suas decisões, pode exercer uma influência considerável na concorrência entre os prestadores; que, por conseguinte, a fim de garantir a manutenção de uma concorrência leal, é indispensável impor aos aeroportos uma separação contabilística entre as suas actividades, por um lado, de gestão e de regulação das infra-estruturas e, por outro, de prestação de serviços de assistência;\n\n(20) Considerando que um aeroporto não pode subvencionar a sua actividade de assistência em escala com rendimentos provenientes da sua missão de autoridade aeroportuária;\n\n(21) Considerando que as mesmas exigências de transparência devem ser aplicadas a todos os prestadores que pretendam prestar serviços de assistência em escala a terceiros;\n\n(22) Considerando que, para permitir aos aeroportos cumprirem a sua missão de gestão das infra-estruturas e garantirem a segurança e a protecção no perímetro aeroportuário, bem como tendo em vista assegurar a protecção do ambiente e da regulamentação social em vigor, os Estados-membros devem poder subordinar a actividade dos prestadores de serviços de assistência em escala à obtenção de uma licença; que os critérios de concessão dessa licença devem ser objectivos, transparentes e não discriminatórios;\n\n(23) Considerando que, pelos mesmos motivos, os Estados-membros devem conservar a possibilidade de adoptar e impor as normas necessárias ao bom funcionamento das infra-estruturas aeroportuárias; que essas normas devem prosseguir o objectivo pretendido e não limitar na prática o acesso ao mercado ou o exercício de auto-assistência a um nível inferior ao previsto na presente directiva; que essas normas devem respeitar os princípios da objectividade, da transparência e da não discriminação;\n\n(24) Considerando que os Estados-membros devem conservar a possibilidade de garantir um nível adequado de protecção social ao pessoal das empresas que prestam serviços de assistência em escala;\n\n(25) Considerando que se deve garantir o acesso às instalações aeroportuárias aos prestadores autorizados a prestar serviços de assistência em escala e aos utilizadores autorizados a praticar a auto-assistência, na medida necessária ao exercício dos seus direitos, e permitir uma concorrência efectiva e leal; que, todavia, esse acesso deve poder dar lugar à cobrança de uma remuneração;\n\n(26) Considerando que é legítimo que os direitos reconhecidos pela presente directiva apenas se apliquem aos prestadores de serviços e aos utilizadores originários de países terceiros em caso de estrita reciprocidade; que, caso não haja reciprocidade, o Estado-membro deve poder suspender os direitos desses prestadores e utilizadores;\n\n(27) Considerando que o Reino de Espanha e o Reino Unido acordaram em Londres, a 2 de Dezembro de 1987, em declaração conjunta dos ministros dos Negócios Estrangeiros dos dois países, num regime de maior cooperação na utilização do aeroporto de Gibraltar; que esse regime ainda não está a ser aplicado;\n\n(28) Considerando que a presente directiva não obsta à aplicação das regras do Tratado, nomeadamente a que a Comissão continue a garantir o cumprimento dessas regras fazendo uso, se necessário, das prerrogativas que lhe são conferidas pelo artigo 90.o do Tratado,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6e67161f196ff80e": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva aplica-se a todos os aeroportos situados no território dos Estados-membros, sujeitos às disposições do Tratado e abertos ao tráfego comercial, de acordo com as seguintes regras:\n\na) As disposições do n.o 1 do artigo 7.o relativas às categorias de serviços não referidas no n.o 2 dos mesmo artigo aplicam-se, a partir de 1 de Janeiro de 1998, a todos os aeroportos independentemente do seu volume de tráfego;\n\nb) As disposições relativas às categorias de serviços referidas no n.o 2 do artigo 7.o aplicam-se, a partir de 1 de Janeiro de 1998, aos aeroportos cujo tráfego anual seja igual ou superior a 1 milhão de passageiros ou a 25 000 toneladas de carga;\n\nc) As disposições relativas às categorias de serviços referidas no artigo 6.o aplicam-se, a partir de 1 de Janeiro de 1999, aos aeroportos:\n\n— cujo tráfego anual seja igual ou superior a 3 milhões de passageiros ou a 75 000 toneladas de carga, ou\n\n— que tenham registado um tráfego igual ou superior a 2 milhões de passageiros ou a 50 000 toneladas de carga durante o período de seis meses que precede o dia 1 de Abril ou 1 de Outubro do ano anterior.\n\n2. Sem prejuízo do n.o 1, a presente directiva aplica-se, a partir de 1 de Janeiro de 2001, a todos os aeroportos situados no território dos Estados-membros, sujeitos às disposições do Tratado e abertos ao tráfego comercial, cujo tráfego anual seja igual ou superior a 2 milhões de passageiros ou a 50 000 toneladas de carga.\n\n3. Sempre que um aeroporto atinja um dos limiares de tráfego de carga a que se refere o presente artigo, sem todavia atingir o limiar de tráfego de passageiros correspondente, a presente directiva não se aplica às categorias de serviços de assistência reservadas exclusivamente a passageiros.\n\n4. A Comissão publica, a título informativo, no Jornal Oficial das Comunidades Europeias a lista dos aeroportos referidos no presente artigo. Essa lista será publicada pela primeira vez no prazo de três meses a contar da data de entrada em vigor da presente directiva e posteriormente todos os anos.\n\nOs Estados-membros devem comunicar à Comissão, até 1 de Julho de cada ano, os dados necessários à elaboração dessa lista.\n\n5. A aplicação da presente directiva ao aeroporto de Gibraltar não prejudica as posições jurídicas respectivas do Reino de Espanha e do Reino Unido em relação ao diferendo a respeito da soberania sobre o território onde se encontra situado aquele aeroporto.\n\n6. A aplicação das disposições da presente directiva ao aeroporto de Gibraltar está suspensa até que seja aplicado o regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido feita em 2 de Dezembro de 1987. Os Governos do Reino de Espanha e do Reino Unido informarão o Conselho da data de entrada em aplicação desse regime."
+  },
+  "83fbc8d31f327369": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Aeroporto», um terreno especialmente preparado para a aterragem, a descolagem e as manobras de aeronaves, incluindo as instalações anexas que possam existir para as necessidades do tráfego e o serviço das aeronaves, incluindo as instalações necessárias para as operações comerciais de transporte aéreo;\n\nb) «Sistema de aeroportos», um conjunto de aeroportos que sirva a mesma cidade ou área urbana, conforme indicado no anexo II do Regulamento (CEE) n.o 2408/92 do Conselho, de 23 de Julho de 1992, relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias;\n\nc) «Entidade gestora», a entidade à qual, em conjunto ou não com outras actividades, nos termos da legislação ou da regulamentação nacional, compete a administração e a gestão das infra-estruturas aeroportuárias, a coordenação e o controlo das actividades dos vários operadores presentes no aeroporto ou no sistema de aeroportos em causa;\n\nd) «Utilizador de um aeroporto», uma pessoa singular ou colectiva que transporte por via aérea passageiros, correio e/ou carga, com partida do aeroporto em causa ou com destino a esse aeroporto;\n\ne) «Assistência em escala», os serviços prestados num aeroporto a um utilizador, tal como descritos no anexo;\n\nf) «Auto-assistência em escala», a situação em que um utilizador presta directamente a si próprio uma ou mais categorias de serviços de assistência e não celebra, sob nenhuma denominação, qualquer tipo de contrato com terceiros para prestação desses serviços. Na acepção da presente definição, não se consideram terceiros entre si os utilizadores:\n\n— dos quais um detém uma participação maioritária no outro, ou\n\n— cuja participação em cada um deles seja maioritariamente detida pela mesma entidade;\n\ng) «Prestador de serviços de assistência em escala», uma pessoa singular ou colectiva que preste a terceiros uma ou mais categorias de serviços de assistência em escala."
+  },
+  "5badf695d86a152a": {
+   "fragment_id": "Artigo 3.º — Entidade gestora de um aeroporto",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Entidade gestora de um aeroporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidade gestora de um aeroporto\n\n1. Sempre que a gestão e a exploração de um aeroporto ou de um sistema de aeroportos não sejam asseguradas por uma única entidade mas por várias entidades distintas, considera-se que cada uma delas faz parte da entidade gestora para efeitos de aplicação da presente directiva.\n\n2. Do mesmo modo, sempre que houver uma única entidade gestora para vários aeroportos ou sistemas de aeroportos, cada um desses aeroportos ou sistemas de aeroportos deve ser considerado isoladamente para efeitos de aplicação da presente directiva.\n\n3. Se as entidades gestoras dos aeroportos estiverem sujeitas à tutela ou ao controlo de uma autoridade pública nacional, esta deve, no âmbito das obrigações legais que lhe incumbem, assegurar a aplicação da presente directiva."
+  },
+  "38133e42aabff92f": {
+   "fragment_id": "Artigo 4.º — Separação de actividades",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Separação de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Separação de actividades\n\n1. A entidade gestora de um aeroporto, o utilizador ou o prestador de serviços que prestam serviços de assistência em escala devem efectuar uma rigorosa separação contabilística, de acordo com as práticas comerciais em vigor, entre as actividades ligadas à prestação desses serviços e as suas restantes actividades.\n\n2. A efectividade dessa separação contabilística deve ser controlada por um auditor independente designado pelo Estado-membro.\n\nO auditor deve igualmente verificar a inexistência de fluxos financeiros entre a actividade da entidade gestora na sua qualidade de autoridade aeroportuária e a sua actividade de assistência em escala."
+  },
+  "cae3eb160c8b7b84": {
+   "fragment_id": "Artigo 5.º — Comité de utilizadores",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Comité de utilizadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comité de utilizadores\n\n1. No prazo de doze meses a contar da data de entrada em vigor da presente directiva, os Estados-membros assegurarão a criação, para cada um dos aeroportos em causa, de um comité composto por representantes dos utilizadores.\n\n2. Qualquer utilizador pode optar entre fazer parte do comité ou nele ser representado por uma organização que designe para o efeito."
+  },
+  "2aa251586ae977f7": {
+   "fragment_id": "Artigo 6.º — Assistência a terceiros",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Assistência a terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Assistência a terceiros\n\n1. Os Estados-membros devem tomar as medidas necessárias, de acordo com as regras previstas no artigo 1.o, para garantir aos prestadores de serviços de assistência em escala o livre acesso ao mercado da prestação de serviços de assistência em escala a terceiros.\n\nOs Estados-membros podem exigir que os prestadores de serviços de assistência em escala estejam estabelecidos na Comunidade.\n\n2. Os Estados-membros podem limitar o número de prestadores autorizados a prestar as seguintes categorias de serviços de assistência em escala:\n\n— assistência a bagagens,\n\n— assistência a operações em pista,\n\n— assistência a combustível e óleo,\n\n— assistência a carga e correio no que se refere, tanto à chegada como à partida ou em trânsito, ao tratamento físico da carga e do correio entre a aerogare e o avião.\n\nTodavia, os Estados-membros não podem limitar esse número a menos de dois para cada categoria de serviço.\n\n3. Além disso, a partir de 1 de Janeiro de 2001, pelo menos um desses prestadores autorizados não pode ser controlado directa ou indirectamente:\n\n— pela entidade gestora do aeroporto,\n\n— por um utilizador que tenha transportado mais de 25 % dos passageiros ou da carga registados no aeroporto durante o ano anterior ao da selecção dos prestadores, nem\n\n— por uma entidade que controle ou seja controlada directa ou indirectamente por essa entidade gestora ou por esse utilizador.\n\nNo entanto, até 1 de Julho de 2000, qualquer Estado-membro poderá solicitar que a obrigação estabelecida no presente número seja diferida até 31 de Dezembro de 2002.\n\nA Comissão, assistida pelo comité referido no artigo 10.o, analisará esses pedidos e, tendo em conta a evolução do sector, especialmente a situação de aeroportos comparáveis em termos de volume e tipo de tráfego, poderá decidir autorizá-los.\n\n4. Quando, em aplicação do n.o 2, limitarem o número de prestadores autorizados, os Estados-membros não podem impedir um utilizador de um aeroporto, independentemente da parte do aerorporto que lhe esteja afectada, de beneficiar, para cada categoria de serviços de assistência em escala sujeita a limitação, de uma escolha efectiva entre pelo menos dois prestadores de serviços de assistência em escala, nas condições previstas nos n.os 2 e 3."
+  },
+  "c08e707f4b4a6357": {
+   "fragment_id": "Artigo 7.º — Auto-assistência",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Auto-assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Auto-assistência\n\n1. Os Estados-membros devem tomar as medidas necessárias, de acordo com as regras previstas no artigo 1.o, para garantir o livre exercício da auto-assistência em escala.\n\n2. Todavia, no que respeita às seguintes categorias de serviços de assistência:\n\n— assistência a bagagens,\n\n— assistência a operações em pista,\n\n— assistência a combustível e óleo,\n\n— assistência a carga e correio no que se refere, tanto à chegada como à partida ou em trânsito, ao tratamento físico da carga e do correio entre a aerogare e o avião,\n\n2. os Estados-membros podem reservar o exercício da auto-assistência a pelo menos dois utilizadores, desde que estes sejam seleccionados com base em critérios pertinentes, objectivos, transparentes e não discriminatórios."
+  },
+  "497c87e69f9bddbc": {
+   "fragment_id": "Artigo 8.º — Infra-estruturas centralizadas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Infra-estruturas centralizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Infra-estruturas centralizadas\n\n1. Não obstante os artigos 6.o e 7.o, os Estados-membros podem reservar quer à entidade gestora do aeroporto quer a outra entidade, a gestão das infra-estruturas centralizadas destinadas à prestação de serviços de assistência em escala e cuja complexidade, custo ou impacte no ambiente não permitam a divisão nem a duplicação, tais como os sistemas de triagem de bagagem, de eliminação do gelo, de depuração das águas ou de distribuição de combustível. Os Estados-membros podem obrigar os prestadores de serviços e os utilizadores que pratiquem a auto-assistência a utilizar essas infra-estruturas.\n\n2. Os Estados-membros devem zelar por que a gestão dessas infra-estruturas seja transparente, objectiva e não discriminatória e, sobretudo, não impeça o acesso a essas infra-estruturas dos prestadores de serviços e dos utilizadores que pratiquem a auto-assistência, nos limites previstos na presente directiva."
+  },
+  "674baffb936381f2": {
+   "fragment_id": "Artigo 9.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Derrogações\n\n1. Sempre que num aeroporto condicionalismos específicos de espaço ou de capacidade disponíveis, em função nomeadamente do congestionamento e da faixa de utilização das superfícies, determinem a impossibilidade de abertura do mercado e/ou do exercício da auto-assistência com a amplitude prevista na presente directiva, o Estado-membro em causa pode decidir:\n\na) Limitar o número de prestadores em relação a uma ou várias categorias de serviços de assistência distinta das referidas no n.o 2 do artigo 6.o no conjunto ou numa parte do aeroporto; neste caso, aplicam-se os n.os 2 e 3 do artigo 6.o;\n\nb) Reservar a um único prestador uma ou mais categorias de serviços de assistência referidas no n.o 2 do artigo 6.o;\n\nc) Reservar a um número limitado de utilizadores o exercício da auto-assistência no que se refere a categorias distintas das referidas no n.o 2 do artigo 7.o, desde que esses utilizadores sejam seleccionados com base em critérios pertinentes, objectivos, transparentes e não discriminatórios;\n\nd) Proibir ou limitar a um único utilizador o exercício da auto-assistência em relação às categorias de serviços de assistência em escala referidas no n.o 2 do artigo 7.o\n\n2. Qualquer decisão de derrogação tomada em aplicação do n.o 1 deve:\n\na) Especificar a ou as categorias de serviços para as quais a derrogação é concedida e os condicionalismos específicos de espaço ou de capacidade disponíveis que a justificam;\n\nb) Ser acompanhada de um plano de medidas adequadas destinadas a ultrapassar esses condicionalismos.\n\nAlém disso, a derrogação não deve:\n\ni) Prejudicar indevidamente os objectivos da presente directiva;\n\nii) Dar origem a distorções de concorrência entre prestadores de serviços e/ou utilizadores que pratiquem a auto-assistência;\n\niii) Ser mais ampla do que o necessário.\n\n3. Os Estados-membros devem notificar a Comissão, pelo menos três meses antes da sua entrada em vigor, de qualquer derrogação que concedam com base no n.o 1, bem como dos motivos que a justificam.\n\nA Comissão publicará no Jornal Oficial das Comunidades Europeias um resumo das decisões que lhe sejam notificadas e convidará as partes interessadas a manifestarem-se.\n\n4. A Comissão procederá a uma análise aprofundada da decisão de derrogação apresentada pelo Estado-membro. Para o efeito, uma análise pormenorizada da situação e o estudo das medidas adequadas apresentadas pelo Estado-membro permitir-lhe-á verificar a existência dos condicionalismos invocados e a impossibilidade de abertura do mercado e/ou do exercício da auto-assistência com a amplitude prevista na presente directiva.\n\n5. Na sequência dessa análise e após ter consultado o Estado-membro interessado, a Comissão pode aprovar a decisão do Estado-membro ou opor-se-lhe se considerar que os condicionalismos invocados não existem ou não têm gravidade que justifiquem uma derrogação. Após ter consultado o Estado-membro interessado, a Comissão pode também exigir-lhe que altere o alcance da derrogação ou a limite apenas às partes do aeroporto ou do sistema de aeroportos em que se verifiquem de facto os condicionalismos invocados.\n\nA decisão da Comissão deve ser tomada no prazo de três meses a contar da notificação pelo Estado-membro e deve ser publicada no Jornal Oficial das Comunidades Europeias.\n\n6. A duração das derrogações autorizados pelos Estados-membros em aplicação do n.o 1 não pode ser superior a três anos, exceptuando-se as que forem autorizadas em conformidade com a alínea b) do n.o 1. Pelo menos três meses antes do termo desse período, qualquer pedido de derrogação deve ser objecto de nova decisão do Estado-membro, a qual será igualmente sujeita ao processo previsto no presente artigo.\n\nA duração das derrogações concedidas em aplicação da alínea b) do n.o 1 não pode ser superior a dois anos. No entanto, qualquer Estado-membro pode, com base no n.o 1, solicitar que esse período seja prorrogado por um prazo de dois anos. A Comissão, assistida pelo comité referido no artigo 10.o, pronunciar-se-á sobre esses pedidos.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT)"
+  },
+  "808e98a4ce499517": {
+   "fragment_id": "Artigo 10.º — Comité Consultivo",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité Consultivo\n\n1. A Comissão é assistida por um Comité.\n\n2. O Comité assiste a Comissão na aplicação do artigo 9.o\n\n3. O Comité pode também ser consultado sobre qualquer questão relacionada com a aplicação da presente directiva.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.o e 7.o da Decisão 1999/468/CE ([9](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0009)), tendo-se em conta o disposto no seu artigo 8.o\n\n5. O Comité aprovará o seu regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31996L0067:PT:NOT)"
+  },
+  "5765aee66b0bde63": {
+   "fragment_id": "Artigo 11.º — Selecção dos prestadores",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Selecção dos prestadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Selecção dos prestadores\n\n1. Os Estados-membros devem tomar as medidas necessárias para organizar um processo de selecção dos prestadores autorizados a prestar serviços de assistência em escala num aeroporto sempre que o seu número for limitado nos casos previstos no n.o 2 do artigo 6.o ou no artigo 9.o Este processo deve obedecer aos seguintes princípios:\n\na) Nos casos em que os Estados-membros prevejam a elaboração de um caderno de encargos ou de especificações técnicas a satisfazer pelos prestadores, o caderno ou as especificações são elaborados após consulta prévia do comité de utilizadores. Os critérios de selecção previstos no caderno de encargos ou nas especificações técnicas devem ser pertinentes, objectivos, transparentes e não discriminatórios.\n\nDepois de informar a Comissão, o Estado-membro em causa pode incluir, nas condições normais ou nas especificações técnicas que os prestadores são obrigados a respeitar, a obrigação de serviço público em relação aos aeroportos que servem as regiões periféricas ou regiões em desenvolvimento que fazem parte do seu território, que não têm interesse comercial mas que têm importância capital para o Estado-membro em causa;\n\nb) Deve ser aberto concurso, publicado no Jornal Oficial das Comunidades Europeias, ao qual qualquer prestador interessado pode concorrer;\n\nc) Os prestadores são seleccionados:\n\ni) após consulta do comité de utilizadores, pela entidade gestora, caso esta:\n\n— não preste serviços idênticos de assistência em escala,\n\n— não controle, directa ou indirectamente, nenhuma empresa que preste esses serviços e\n\n— não possua qualquer participação nesse tipo de empresa,\n\nii) nos restantes casos, pelas autoridades competentes dos Estados-membros independentes das entidades gestoras, após consulta do comité de utilizadores e das entidades gestoras;\n\nd) Os prestadores são seleccionados por um período máximo de sete anos;\n\ne) Sempre que um prestador cessar a sua actividade antes do final do período para que foi seleccionado, proceder-se-á à sua substituição de acordo com o mesmo processo.\n\n2. Sempre que o número de prestadores for limitado em aplicação do n.o 2 do artigo 6.o ou do artigo 9.o, a própria entidade gestora pode prestar serviços de assistência em escala sem estar sujeita ao processo de selecção previsto no n.o 1. Do mesmo modo, pode autorizar uma empresa prestadora a prestar serviços de assistência em escala no aeroporto considerado, sem necessidade de a submeter a esse processo, caso\n\n— controle essa empresa directiva ou indirectamente, ou\n\n— seja directa ou indirectamente controlada por essa empresa.\n\n3. A entidade gestora informará o comité de utilizadores das decisões tomadas em aplicação do presente artigo."
+  },
+  "78f51624be1b7e73": {
+   "fragment_id": "Artigo 12.º — Aeroportos insulares",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Aeroportos insulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aeroportos insulares\n\nAquando da selecção dos prestadores de serviços de assistência em escala num aeroporto, tal como previsto no artigo 11.o, os Estados-membros podem alargar a obrigação de serviço público a outros aeroportos nesse Estado-membro desde que:\n\n— esses aeroportos se encontrem situados em ilhas na mesma região geográfica,\n\n— cada um desses aeroportos tenha um volume de tráfego igual ou superior a 100 000 passageiros por ano e\n\n— esse alargamento seja aprovado pela Comissão, assistida pelo comité referido no artigo 10.o"
+  },
+  "7f07ce3d7fa049ff": {
+   "fragment_id": "Artigo 13.º — Consultas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Consultas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Consultas\n\nOs Estados-membros devem certificar-se de que é organizado um processo de consulta obrigatória entre a entidade gestora, o comité de utilizadores e as empresas prestadoras de serviços sobre a aplicação das disposições da presente directiva. A consulta deve incidir, nomeadamente, sobre o preço dos serviços que tenham sido objecto de derrogação concedida ao abrigo do n.o 1, alínea b), do artigo 9.o, bem como sobre as suas regras de prestação. A consulta deve ser realizada pelo menos uma vez por ano."
+  },
+  "79338a13967b4453": {
+   "fragment_id": "Artigo 14.º — Licença",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Licença\n\n1. Os Estados-membros podem subordinar a actividade de um prestador de serviços de assistência em escala ou de um utilizador que pratica a auto-assistência num aeroporto à obtenção de uma licença emitida por uma autoridade pública independente da entidade gestora do aeroporto.\n\nOs critérios de concessão dessa licença devem ter em conta uma boa situação financeira, a existência de uma cobertura adequada em matéria de seguro, a segurança ou a protecção das instalações, das aeronaves, dos equipamentos ou das pessoas, bem como a protecção do ambiente e o respeito pela legislação social pertinente.\n\nOs critérios devem observar os seguintes princípios:\n\na) Ser aplicados de forma não discriminatória aos diferentes prestadores e utilizadores;\n\nb) Prosseguirem o objectivo pretendido;\n\nc) Não levarem à redução de facto do acesso ao mercado ou ao exercício da auto-assistência a um nível inferior ao previsto na presente directiva.\n\nEstes critérios devem ser tornados públicos e o prestador ou o utilizador que pratica a auto-assistência deve ser informado previamente do processo de concessão.\n\n2. A licença só pode ser recusada ou retirada caso o prestador ou o utilizador que pratica a auto-assistência não satisfaça, por motivos que lhe sejam imputáveis, os critérios enunciados no n.o 1.\n\nOs motivos da recusa ou retirada devem ser comunicados ao prestador ou ao utilizador em causa e à entidade gestora."
+  },
+  "97798ff4cdd8dab6": {
+   "fragment_id": "Artigo 15.º — Regras de conduta",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Regras de conduta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regras de conduta\n\nO Estado-membro pode, eventualmente sob proposta da entidade gestora:\n\n— proibir a um prestador de serviços de assistência em escala o exercício dessa actividade ou a um utilizador que pratique a auto-assistência, caso esse prestador ou esse utilizador não cumpra as regras que lhe foram impostas com vista a garantir o bom funcionamento do aeroporto.\n\n— Essas regras devem observar os seguintes princípios:\n\na) Ser aplicadas de forma não discriminatória aos diferentes prestadores e utilizadores;\n\nb) Prosseguirem com o objectivo pretendido;\n\nc) Não levarem à redução de facto do acesso ao mercado ou ao exercício da auto-assistência a um nível inferior ao previsto na presente directiva,\n\n— impor em especial aos prestadores que prestem serviços de assistência em escala no aeroporto uma participação equitativa e não discriminatória na execução das obrigações de serviço público previstas na legislação ou regulamentação nacionais, nomeadamente a obrigação de garantir a permanência dos serviços."
+  },
+  "05375a8c94bd7742": {
+   "fragment_id": "Artigo 16.º — Acesso às instalações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Acesso às instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acesso às instalações\n\n1. Os Estados-membros devem tomar as medidas necessárias para garantir o acesso às instalações aeroportuárias dos prestadores de serviços de assistência em escala e dos utilizadores que pretendam praticar a auto-assistência, na medida em que esse acesso lhes seja necessário para exercerem as suas actividades. Caso a entidade gestora do aeroporto ou, eventualmente, a autoridade pública ou outra entidade que a controle imponha condições a esse acesso, estas devem ser pertinentes, objectivas, transparentes e não discriminatórias.\n\n2. Os espaços disponíveis para a assistência em escala no aeroporto devem ser distribuídos pelos diferentes prestadores de serviços e pelos diferentes utilizadores que pratiquem a auto-assistência, incluindo os recém-chegados, de acordo com regras e critérios pertinentes, objectivos, transparentes e não discriminatórios.\n\n3. Sempre que o acesso às instalações aeroportuárias implicar a cobrança de uma remuneração, esta será determinada com base em critérios pertinentes, objectivos, transparentes e não discriminatórios."
+  },
+  "0b1912a080ee6658": {
+   "fragment_id": "Artigo 17.º — Protecção e segurança",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Protecção e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Protecção e segurança\n\nAs disposições da presente directiva em nada afectam os direitos e obrigações dos Estados-membros em matéria de ordem pública, de segurança e de protecção nos aeroportos."
+  },
+  "9191b95ed0555413": {
+   "fragment_id": "Artigo 18.º — Protecção social e protecção do ambiente",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Protecção social e protecção do ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Protecção social e protecção do ambiente\n\nSem prejuízo da aplicação das disposições da presente directiva e no respeito das demais disposições do direito comunitário, os Estados-membros podem tomar as medidas necessárias para assegurar a protecção dos direitos dos trabalhadores e a protecção do ambiente."
+  },
+  "29a459a6dc83824a": {
+   "fragment_id": "Artigo 19.º — Respeito pelas disposições nacionais",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Respeito pelas disposições nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Respeito pelas disposições nacionais\n\nO prestador que exerça uma actividade de assistência em escala num aeroporto de um Estado-membro deve cumprir as disposições da legislação nacional compatíveis com a legislação comunitária."
+  },
+  "5f2b4cfbdcbbc319": {
+   "fragment_id": "Artigo 20.º — Reciprocidade",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Reciprocidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reciprocidade\n\n1. Sem prejuízo dos compromissos internacionais da Comunidade, sempre que, no que se refere ao acesso ao mercado da assistência em escala ou da auto-assistência, um país terceiro:\n\na) Não confira, de jure ou de facto, aos prestadores e aos utilizadores comunitários que praticam a auto-assistência um tratamento equivalente ao concedido pelos Estados-membros aos prestadores e aos utilizadores que praticam a auto-assistência desse país terceiro;\n\nb) Não confira, de jure ou de facto, aos prestadores e aos utilizadores que praticam a auto-assistência de um Estado-membro o tratamento nacional; ou\n\nc) Conceda aos prestadores e aos utilizadores que praticam a auto-assistência de outros países terceiros um tratamento mais favorável que o concedido aos prestadores e aos utilizadores que praticam a auto-assistência de um Estado-membro,\n\n1. qualquer Estado-membro pode suspender, total ou parcialmente, as obrigações decorrentes da presente directiva em relação aos prestadores e utilizadores desse país terceiro, de acordo com a legislação comunitária.\n\n2. O Estado-membro em causa deve informar a Comissão de qualquer suspensão ou retirada dos direitos ou obrigações."
+  },
+  "f8ff15aa2c4609f5": {
+   "fragment_id": "Artigo 21.º — Direito de recurso",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Direito de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direito de recurso\n\nOs Estados-membros ou, eventualmente, as entidades gestoras devem garantir que qualquer parte com um interesse legítimo disponha do direito de recurso contra as decisões ou medidas individuais tomadas em aplicação do n.o 2 do artigo 7.o e dos artigos 11.o a 16.o\n\nEste direito de recurso deve poder ser exercido junto de um órgão jurisdicional nacional ou de uma autoridade pública que não seja a entidade gestora do aeroporto em causa e, eventualmente, independente da autoridade pública que a controle."
+  },
+  "1dfb30435f7eaa40": {
+   "fragment_id": "Artigo 22.º — Relatório de informação e revisão",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Relatório de informação e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Relatório de informação e revisão\n\nOs Estados-membros devem comunicar à Comissão as informações necessárias à elaboração de um relatório sobre a aplicação da presente directiva.\n\nEsse relatório, acompanhado de eventuais propostas de revisão da directiva, deve ser elaborado em 31 de Dezembro de 2001, o mais tardar."
+  },
+  "9155da9afe84b7d1": {
+   "fragment_id": "Artigo 23.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transposição\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva no prazo de um ano a contar da publicação no Jornal Oficial das Comunidades Europeias. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "d58b3ec7c78ca0b8": {
+   "fragment_id": "Artigo 24.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "fc1f28e889ab0a87": {
+   "fragment_id": "Artigo 25.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Destinatários\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "77f2f057cfc79435": {
+   "fragment_id": "ANEXO — LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA",
+   "type": "divisao",
+   "heading": "ANEXO — LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA\n\n1. A assistência administrativa em terra e a supervisão incluem: 1.1. Os serviços de representação e de ligação com as autoridades locais ou qualquer outra entidade, as despesas efectuadas por conta do utilizador e o fornecimento de instalações aos seus representantes; 1.2. O controlo do carregamento, das mensagens e das telecomunicações; 1.3. O tratamento, o armazenamento, a movimentação de cargas e a administração das unidades de carregamento; 1.4. Qualquer outro serviço de supervisão antes, durante ou após o voo ou qualquer outro serviço administrativo solicitado pelo utilizador.\n\n1.1. Os serviços de representação e de ligação com as autoridades locais ou qualquer outra entidade, as despesas efectuadas por conta do utilizador e o fornecimento de instalações aos seus representantes;\n\n1.2. O controlo do carregamento, das mensagens e das telecomunicações;\n\n1.3. O tratamento, o armazenamento, a movimentação de cargas e a administração das unidades de carregamento;\n\n1.4. Qualquer outro serviço de supervisão antes, durante ou após o voo ou qualquer outro serviço administrativo solicitado pelo utilizador.\n\n2. A assistência a passageiros inclui qualquer tipo de assistência aos passageiros à partida, à chegada, em trânsito ou em correspondência, nomeadamente o controlo dos bilhetes, dos documentos de viagem, o registo de bagagens e o seu transporte até aos sistemas de triagem.\n\n3. A assistência a bagagem inclui o seu tratamento na sala de triagem, a triagem, a preparação com vista à partida, o carregamento e descarregamento nos sistemas de transporte do avião para a sala de triagem e vice-versa, bem como o transporte de bagagens da sala de triagem até à sala de distribuição.\n\n4. A assistência a carga e correio inclui: 4.1. No que se refere à carga, para exportação, importação ou em trânsito, o seu tratamento físico e o tratamento dos respectivos documentos, as formalidades aduaneiras e qualquer medida cautelar acordada entre as partes ou exigida pelas circunstâncias; 4.2. No que se refere ao correio, tanto à chegada como à partida, o seu tratamento físico e o tratamento dos respectivos documentos a qualquer medida cautelar acordada entre as partes ou exigida pelas circunstâncias.\n\n4.1. No que se refere à carga, para exportação, importação ou em trânsito, o seu tratamento físico e o tratamento dos respectivos documentos, as formalidades aduaneiras e qualquer medida cautelar acordada entre as partes ou exigida pelas circunstâncias;\n\n4.2. No que se refere ao correio, tanto à chegada como à partida, o seu tratamento físico e o tratamento dos respectivos documentos a qualquer medida cautelar acordada entre as partes ou exigida pelas circunstâncias.\n\n5. A assistência de operações na pista inclui: 5.1. A orientação do avião à chegada e à partida ([10](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0010)); 5.2. A assistência ao estacionamento do avião e o fornecimento dos meios adequados ([11](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0011)); 5.3. A organização das comunicações entre os serviços em terra e o avião ([12](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0012)); 5.4. O carregamento e descarregamento do avião, incluindo o fornecimento e o funcionamento dos meios necessários, bem como o transporte da tripulação e dos passageiros entre o avião e a aerogare e o transporte das bagagens entre o avião e a aerogare; 5.5. A assistência à descolagem do avião e o fornecimento dos meios adequados; 5.6. A deslocação do avião tanto à partida como à chegada, o fornecimento e o funcionamento dos meios adequados; 5.7. O transporte, o carregamento no avião e o descarregamento do avião de alimentos e bebidas.\n\n5.1. A orientação do avião à chegada e à partida ([10](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0010));\n\n5.2. A assistência ao estacionamento do avião e o fornecimento dos meios adequados ([11](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0011));\n\n5.3. A organização das comunicações entre os serviços em terra e o avião ([12](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#E0012));\n\n5.4. O carregamento e descarregamento do avião, incluindo o fornecimento e o funcionamento dos meios necessários, bem como o transporte da tripulação e dos passageiros entre o avião e a aerogare e o transporte das bagagens entre o avião e a aerogare;\n\n5.5. A assistência à descolagem do avião e o fornecimento dos meios adequados;\n\n5.6. A deslocação do avião tanto à partida como à chegada, o fornecimento e o funcionamento dos meios adequados;\n\n5.7. O transporte, o carregamento no avião e o descarregamento do avião de alimentos e bebidas.\n\n6. A assistência de limpeza e serviço do avião inclui: 6.1. A limpeza exterior e interior do avião, o serviço de lavabos e o serviço de água; 6.2. A climatização e o aquecimento da cabina, a remoção da neve e do gelo do avião, a eliminação de gelo de avião; 6.3. O acondicionamento da cabina com equipamentos de cabina e o armazenamento dos mesmos.\n\n6.1. A limpeza exterior e interior do avião, o serviço de lavabos e o serviço de água;\n\n6.2. A climatização e o aquecimento da cabina, a remoção da neve e do gelo do avião, a eliminação de gelo de avião;\n\n6.3. O acondicionamento da cabina com equipamentos de cabina e o armazenamento dos mesmos.\n\n7. A assistência de combustível e óleo inclui: 7.1. A organização e execução do abastecimento e da retoma de combustível, incluindo o seu armazenamento, o controlo da qualidade e da quantidade dos fornecimentos; 7.2. O abastecimento de óleo e de outros ingredientes líquidos.\n\n7.1. A organização e execução do abastecimento e da retoma de combustível, incluindo o seu armazenamento, o controlo da qualidade e da quantidade dos fornecimentos;\n\n7.2. O abastecimento de óleo e de outros ingredientes líquidos.\n\n8. A assistência de manutenção em linha inclui: 8.1. As operações regulares efectuadas antes do voo; 8.2. As operações específicas exigidas pelo utilizador; 8.3. O fornecimento e a gestão do material necessário à manutenção e das peças sobresselentes; 8.4. O pedido ou a reserva de um local de estacionamento e/ou de um hangar para efectuar a manutenção.\n\n8.1. As operações regulares efectuadas antes do voo;\n\n8.2. As operações específicas exigidas pelo utilizador;\n\n8.3. O fornecimento e a gestão do material necessário à manutenção e das peças sobresselentes;\n\n8.4. O pedido ou a reserva de um local de estacionamento e/ou de um hangar para efectuar a manutenção.\n\n9. A assistência de operações aéreas e gestão das tripulações inclui: 9.1. A preparação do voo no aeroporto de partida ou em qualquer outro local; 9.2. A assistência em voo, incluindo, se necessário, a alteração de rota em voo; 9.3. Os serviços pós-voo; 9.4. A gestão das tripulações.\n\n9.1. A preparação do voo no aeroporto de partida ou em qualquer outro local;\n\n9.2. A assistência em voo, incluindo, se necessário, a alteração de rota em voo;\n\n9.3. Os serviços pós-voo;\n\n9.4. A gestão das tripulações.\n\n10. A assistência de transporte en terra inclui: 10.1. A organização e execução do transporte dos passageiros, da tripulação, das bagagens, da carga e do correio entre diferentes aerogares do mesmo aeroporto, excluindo, porém, qualquer transporte entre a aeronave e qualquer outro local situado no perímetro do mesmo aeroporto; 10.2. Todos os transportes especiais solicitados pelo utilizador.\n\n10.1. A organização e execução do transporte dos passageiros, da tripulação, das bagagens, da carga e do correio entre diferentes aerogares do mesmo aeroporto, excluindo, porém, qualquer transporte entre a aeronave e qualquer outro local situado no perímetro do mesmo aeroporto;\n\n10.2. Todos os transportes especiais solicitados pelo utilizador.\n\n11. A assistência de restauração (catering) inclui: 11.1. A ligação com os fornecedores e a gestão administrativa; 11.2. O armazenamento de alimentos, bebidas e acessórios necessários à sua preparação; 11.3. A limpeza dos acessórios; 11.4. A preparação e entrega do material e dos géneros alimentícios.\n\n11.1. A ligação com os fornecedores e a gestão administrativa;\n\n11.2. O armazenamento de alimentos, bebidas e acessórios necessários à sua preparação;\n\n11.3. A limpeza dos acessórios;\n\n11.4. A preparação e entrega do material e dos géneros alimentícios.\n\n([1](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0001)) JO n.o C 142 de 8. 6. 1995, p. 7 e JO n.o C 124 de 27. 4. 1996, p. 19.\n\n([2](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0002)) JO n.o C 301 de 13. 11. 1995, p. 28.\n\n([3](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 16 de Novembro de 1995 (JO n.o C 323 de 4. 12. 1995, p. 106), posição comum do Conselho de 28 de Março de 1996 (JO n.o C 134 de 6. 5. 1996, p. 30), e decisão do Parlamento Europeu de 16 de Julho de 1996 (JO n.o C 261 de 9. 9. 1996).\n\n([4](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0004)) JO n.o L 240 de 24. 8. 1992, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0005)) JO n.o L 240 de 24. 8. 1992, p. 8. Regulamento alterado pelo Acto de Adesão de 1994.\n\n([6](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0006)) JO n.o L 240 de 24. 8. 1992, p. 15.\n\n([7](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0007)) JO n.o C 309 de 5. 11. 1994, p. 2.\n\n([8](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0008)) JO n.o C 56 de 6. 3. 1995, p. 28.\n\n([9](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0009)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n([10](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0010)) Desde que esses serviços não sejam assegurados pelo serviço de circulação aérea.\n\n([11](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0011)) Desde que esses serviços não sejam assegurados pelo serviço de circulação aérea.\n\n([12](http://publications.europa.eu/resource/cellar/bb58e6fb-910b-44b2-b378-009c444aa1ec.0018.02/DOC_1#src.E0012)) Desde que esses serviços não sejam assegurados pelo serviço de circulação aérea."
+  },
+  "4b0c7b067d17095a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Outubro de 1996\n\nrelativa ao acesso ao mercado da assistência em escala nos aeroportos da Comunidade"
+  },
+  "b588bbada871774b": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1.\n\nA presente directiva aplica-se a todos os aeroportos situados no território dos Estados-membros, sujeitos às disposições do Tratado e abertos ao tráfego comercial, de acordo com as seguintes regras:\n\na) As disposições do n.º 1 do artigo 7.º relativas às categorias de serviços não referidas no n.º 2 dos mesmo artigo aplicam-se, a partir de 1 de Janeiro de 1998, a todos os aeroportos independentemente do seu volume de tráfego;\n\nb) As disposições relativas às categorias de serviços referidas no n.º 2 do artigo 7.º aplicam-se, a partir de 1 de Janeiro de 1998, aos aeroportos cujo tráfego anual seja igual ou superior a 1 milhão de passageiros ou a 25 000 toneladas de carga;\n\nc) As disposições relativas às categorias de serviços referidas no artigo 6.º aplicam-se, a partir de 1 de Janeiro de 1999, aos aeroportos:\n\n— cujo tráfego anual seja igual ou superior a 3 milhões de passageiros ou a 75 000 toneladas de carga, ou\n\n— que tenham registado um tráfego igual ou superior a 2 milhões de passageiros ou a 50 000 toneladas de carga durante o período de seis meses que precede o dia 1 de Abril ou 1 de Outubro do ano anterior.\n\n2. Sem prejuízo do n.º 1, a presente directiva aplica-se, a partir de 1 de Janeiro de 2001, a todos os aeroportos situados no território dos Estados-membros, sujeitos às disposições do Tratado e abertos ao tráfego comercial, cujo tráfego anual seja igual ou superior a 2 milhões de passageiros ou a 50 000 toneladas de carga.\n\n3. Sempre que um aeroporto atinja um dos limiares de tráfego de carga a que se refere o presente artigo, sem todavia atingir o limiar de tráfego de passageiros correspondente, a presente directiva não se aplica às categorias de serviços de assistência reservadas exclusivamente a passageiros.\n\n5. A aplicação da presente directiva ao aeroporto de Gibraltar não prejudica as posições jurídicas respectivas do Reino de Espanha e do Reino Unido em relação ao diferendo a respeito da soberania sobre o território onde se encontra situado aquele aeroporto.\n\n6. A aplicação das disposições da presente directiva ao aeroporto de Gibraltar está suspensa até que seja aplicado o regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido feita em 2 de Dezembro de 1987. Os Governos do Reino de Espanha e do Reino Unido informarão o Conselho da data de entrada em aplicação desse regime."
+  },
+  "99a0516afb3daf64": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Aeroporto», um terreno especialmente preparado para a aterragem, a descolagem e as manobras de aeronaves, incluindo as instalações anexas que possam existir para as necessidades do tráfego e o serviço das aeronaves, incluindo as instalações necessárias para as operações comerciais de transporte aéreo;\n\nb) «Sistema de aeroportos», um conjunto de aeroportos que sirva a mesma cidade ou área urbana, conforme indicado no anexo II do Regulamento (CEE) n.º 2408/92 do Conselho, de 23 de Julho de 1992, relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias;\n\nc) «Entidade gestora», a entidade à qual, em conjunto ou não com outras actividades, nos termos da legislação ou da regulamentação nacional, compete a administração e a gestão das infra-estruturas aeroportuárias, a coordenação e o controlo das actividades dos vários operadores presentes no aeroporto ou no sistema de aeroportos em causa;\n\nd) «Utilizador de um aeroporto», uma pessoa singular ou colectiva que transporte por via aérea passageiros, correio e/ou carga, com partida do aeroporto em causa ou com destino a esse aeroporto;\n\ne) «Assistência em escala», os serviços prestados num aeroporto a um utilizador, tal como descritos no anexo;\n\nf) «Auto-assistência em escala», a situação em que um utilizador presta directamente a si próprio uma ou mais categorias de serviços de assistência e não celebra, sob nenhuma denominação, qualquer tipo de contrato com terceiros para prestação desses serviços. Na acepção da presente definição, não se consideram terceiros entre si os utilizadores:\n\n— dos quais um detém uma participação maioritária no outro, ou\n\n— cuja participação em cada um deles seja maioritariamente detida pela mesma entidade;\n\ng) «Prestador de serviços de assistência em escala», uma pessoa singular ou colectiva que preste a terceiros uma ou mais categorias de serviços de assistência em escala."
+  },
+  "e348c6abdadaa182": {
+   "fragment_id": "Artigo 6.º — Assistência a terceiros",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Assistência a terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Assistência a terceiros\n\n1. Os Estados-membros devem tomar as medidas necessárias, de acordo com as regras previstas no artigo 1.º, para garantir aos prestadores de serviços de assistência em escala o livre acesso ao mercado da prestação de serviços de assistência em escala a terceiros.\n\nOs Estados-membros podem exigir que os prestadores de serviços de assistência em escala estejam estabelecidos na Comunidade.\n\n2.\n\nOs Estados-membros podem limitar o número de prestadores autorizados a prestar as seguintes categorias de serviços de assistência em escala:\n\n— assistência a bagagens,\n\n— assistência a operações em pista,\n\n— assistência a combustível e óleo,\n\n— assistência a carga e correio no que se refere, tanto à chegada como à partida ou em trânsito, ao tratamento físico da carga e do correio entre a aerogare e o avião.\n\nTodavia, os Estados-membros não podem limitar esse número a menos de dois para cada categoria de serviço.\n\n3.\n\nAlém disso, a partir de 1 de Janeiro de 2001, pelo menos um desses prestadores autorizados não pode ser controlado directa ou indirectamente:\n\n— pela entidade gestora do aeroporto,\n\n— por um utilizador que tenha transportado mais de 25 % dos passageiros ou da carga registados no aeroporto durante o ano anterior ao da selecção dos prestadores, nem\n\n— por uma entidade que controle ou seja controlada directa ou indirectamente por essa entidade gestora ou por esse utilizador.\n\nNo entanto, até 1 de Julho de 2000, qualquer Estado-membro poderá solicitar que a obrigação estabelecida no presente número seja diferida até 31 de Dezembro de 2002.\n\nA Comissão, assistida pelo comité referido no artigo 10.º, analisará esses pedidos e, tendo em conta a evolução do sector, especialmente a situação de aeroportos comparáveis em termos de volume e tipo de tráfego, poderá decidir autorizá-los.\n\n4. Quando, em aplicação do n.º 2, limitarem o número de prestadores autorizados, os Estados-membros não podem impedir um utilizador de um aeroporto, independentemente da parte do aerorporto que lhe esteja afectada, de beneficiar, para cada categoria de serviços de assistência em escala sujeita a limitação, de uma escolha efectiva entre pelo menos dois prestadores de serviços de assistência em escala, nas condições previstas nos n.ºs 2 e 3."
+  },
+  "da67e3ff9e1b417d": {
+   "fragment_id": "Artigo 7.º — Auto-assistência",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Auto-assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Auto-assistência\n\n1. Os Estados-membros devem tomar as medidas necessárias, de acordo com as regras previstas no artigo 1.º, para garantir o livre exercício da auto-assistência em escala.\n\n2.\n\nTodavia, no que respeita às seguintes categorias de serviços de assistência:\n\n— assistência a bagagens,\n\n— assistência a operações em pista,\n\n— assistência a combustível e óleo,\n\n— assistência a carga e correio no que se refere, tanto à chegada como à partida ou em trânsito, ao tratamento físico da carga e do correio entre a aerogare e o avião,\n\nos Estados-membros podem reservar o exercício da auto-assistência a pelo menos dois utilizadores, desde que estes sejam seleccionados com base em critérios pertinentes, objectivos, transparentes e não discriminatórios."
+  },
+  "a95883d89c4c18ac": {
+   "fragment_id": "Artigo 8.º — Infra-estruturas centralizadas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Infra-estruturas centralizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Infra-estruturas centralizadas\n\n1. Não obstante os artigos 6.º e 7.º, os Estados-membros podem reservar quer à entidade gestora do aeroporto quer a outra entidade, a gestão das infra-estruturas centralizadas destinadas à prestação de serviços de assistência em escala e cuja complexidade, custo ou impacte no ambiente não permitam a divisão nem a duplicação, tais como os sistemas de triagem de bagagem, de eliminação do gelo, de depuração das águas ou de distribuição de combustível. Os Estados-membros podem obrigar os prestadores de serviços e os utilizadores que pratiquem a auto-assistência a utilizar essas infra-estruturas.\n\n2. Os Estados-membros devem zelar por que a gestão dessas infra-estruturas seja transparente, objectiva e não discriminatória e, sobretudo, não impeça o acesso a essas infra-estruturas dos prestadores de serviços e dos utilizadores que pratiquem a auto-assistência, nos limites previstos na presente directiva."
+  },
+  "111479f98672ede5": {
+   "fragment_id": "Artigo 9.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Derrogações\n\n1.\n\nSempre que num aeroporto condicionalismos específicos de espaço ou de capacidade disponíveis, em função nomeadamente do congestionamento e da faixa de utilização das superfícies, determinem a impossibilidade de abertura do mercado e/ou do exercício da auto-assistência com a amplitude prevista na presente directiva, o Estado-membro em causa pode decidir:\n\na) Limitar o número de prestadores em relação a uma ou várias categorias de serviços de assistência distinta das referidas no n.º 2 do artigo 6.º no conjunto ou numa parte do aeroporto; neste caso, aplicam-se os n.ºs 2 e 3 do artigo 6.º;\n\nb) Reservar a um único prestador uma ou mais categorias de serviços de assistência referidas no n.º 2 do artigo 6.º;\n\nc) Reservar a um número limitado de utilizadores o exercício da auto-assistência no que se refere a categorias distintas das referidas no n.º 2 do artigo 7.º, desde que esses utilizadores sejam seleccionados com base em critérios pertinentes, objectivos, transparentes e não discriminatórios;\n\nd) Proibir ou limitar a um único utilizador o exercício da auto-assistência em relação às categorias de serviços de assistência em escala referidas no n.º 2 do artigo 7.º\n\n2.\n\nQualquer decisão de derrogação tomada em aplicação do n.º 1 deve:\n\na) Especificar a ou as categorias de serviços para as quais a derrogação é concedida e os condicionalismos específicos de espaço ou de capacidade disponíveis que a justificam;\n\nb) Ser acompanhada de um plano de medidas adequadas destinadas a ultrapassar esses condicionalismos.\n\nAlém disso, a derrogação não deve:\n\ni) Prejudicar indevidamente os objectivos da presente directiva;\n\nii) Dar origem a distorções de concorrência entre prestadores de serviços e/ou utilizadores que pratiquem a auto-assistência;\n\niii) Ser mais ampla do que o necessário.\n\n3. Os Estados-membros devem notificar a Comissão, pelo menos três meses antes da sua entrada em vigor, de qualquer derrogação que concedam com base no n.º 1, bem como dos motivos que a justificam.\n\nA Comissão publicará no *Jornal Oficial das Comunidades Europeias* um resumo das decisões que lhe sejam notificadas e convidará as partes interessadas a manifestarem-se.\n\n4. A Comissão procederá a uma análise aprofundada da decisão de derrogação apresentada pelo Estado-membro. Para o efeito, uma análise pormenorizada da situação e o estudo das medidas adequadas apresentadas pelo Estado-membro permitir-lhe-á verificar a existência dos condicionalismos invocados e a impossibilidade de abertura do mercado e/ou do exercício da auto-assistência com a amplitude prevista na presente directiva.\n\n5. Na sequência dessa análise e após ter consultado o Estado-membro interessado, a Comissão pode aprovar a decisão do Estado-membro ou opor-se-lhe se considerar que os condicionalismos invocados não existem ou não têm gravidade que justifiquem uma derrogação. Após ter consultado o Estado-membro interessado, a Comissão pode também exigir-lhe que altere o alcance da derrogação ou a limite apenas às partes do aeroporto ou do sistema de aeroportos em que se verifiquem de facto os condicionalismos invocados.\n\nA decisão da Comissão deve ser tomada no prazo de três meses a contar da notificação pelo Estado-membro e deve ser publicada no *Jornal Oficial das Comunidades Europeias*.\n\n6. A duração das derrogações autorizados pelos Estados-membros em aplicação do n.º 1 não pode ser superior a três anos, exceptuando-se as que forem autorizadas em conformidade com a alínea b) do n.º 1. Pelo menos três meses antes do termo desse período, qualquer pedido de derrogação deve ser objecto de nova decisão do Estado-membro, a qual será igualmente sujeita ao processo previsto no presente artigo.\n\nA duração das derrogações concedidas em aplicação da alínea b) do n.º 1 não pode ser superior a dois anos. No entanto, qualquer Estado-membro pode, com base no n.º 1, solicitar que esse período seja prorrogado por um prazo de dois anos. A Comissão, assistida pelo comité referido no artigo 10.º, pronunciar-se-á sobre esses pedidos."
+  },
+  "d4601dbc9de21471": {
+   "fragment_id": "Artigo 10.º — Comité Consultivo",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité Consultivo\n\n1. A Comissão é assistida por um Comité.\n\n2. O Comité assiste a Comissão na aplicação do artigo 9.º\n\n3. O Comité pode também ser consultado sobre qualquer questão relacionada com a aplicação da presente directiva.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE ([^1^](http://publications.europa.eu/resource/cellar/591bbb12-3e06-11ef-ab8f-01aa75ed71a1.0019.02/DOC_1#E0001)), tendo-se em conta o disposto no seu artigo 8.º\n\n5. O Comité aprovará o seu regulamento interno."
+  },
+  "565bc5c130e383dd": {
+   "fragment_id": "Artigo 11.º — Selecção dos prestadores",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Selecção dos prestadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Selecção dos prestadores\n\n1.\n\nOs Estados-membros devem tomar as medidas necessárias para organizar um processo de selecção dos prestadores autorizados a prestar serviços de assistência em escala num aeroporto sempre que o seu número for limitado nos casos previstos no n.º 2 do artigo 6.º ou no artigo 9.º Este processo deve obedecer aos seguintes princípios:\n\na) Nos casos em que os Estados-membros prevejam a elaboração de um caderno de encargos ou de especificações técnicas a satisfazer pelos prestadores, o caderno ou as especificações são elaborados após consulta prévia do comité de utilizadores. Os critérios de selecção previstos no caderno de encargos ou nas especificações técnicas devem ser pertinentes, objectivos, transparentes e não discriminatórios.\n\nb) Deve ser aberto concurso, publicado no *Jornal Oficial das Comunidades Europeias*, ao qual qualquer prestador interessado pode concorrer;\n\nc) Os prestadores são seleccionados:\n\ni) após consulta do comité de utilizadores, pela entidade gestora, caso esta:\n\n— não preste serviços idênticos de assistência em escala,\n\n— não controle, directa ou indirectamente, nenhuma empresa que preste esses serviços e\n\n— não possua qualquer participação nesse tipo de empresa,\n\nii) nos restantes casos, pelas autoridades competentes dos Estados-membros independentes das entidades gestoras, após consulta do comité de utilizadores e das entidades gestoras;\n\nd) Os prestadores são seleccionados por um período máximo de sete anos;\n\ne) Sempre que um prestador cessar a sua actividade antes do final do período para que foi seleccionado, proceder-se-á à sua substituição de acordo com o mesmo processo.\n\n2.\n\nSempre que o número de prestadores for limitado em aplicação do n.º 2 do artigo 6.º ou do artigo 9.º, a própria entidade gestora pode prestar serviços de assistência em escala sem estar sujeita ao processo de selecção previsto no n.º 1. Do mesmo modo, pode autorizar uma empresa prestadora a prestar serviços de assistência em escala no aeroporto considerado, sem necessidade de a submeter a esse processo, caso\n\n— controle essa empresa directiva ou indirectamente, ou\n\n— seja directa ou indirectamente controlada por essa empresa.\n\n3. A entidade gestora informará o comité de utilizadores das decisões tomadas em aplicação do presente artigo."
+  },
+  "4f53fda204f72ce1": {
+   "fragment_id": "Artigo 12.º — Aeroportos insulares",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Aeroportos insulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aeroportos insulares\n\nAquando da selecção dos prestadores de serviços de assistência em escala num aeroporto, tal como previsto no artigo 11.º, os Estados-membros podem alargar a obrigação de serviço público a outros aeroportos nesse Estado-membro desde que:\n\n— esses aeroportos se encontrem situados em ilhas na mesma região geográfica,\n\n— cada um desses aeroportos tenha um volume de tráfego igual ou superior a 100 000 passageiros por ano e\n\n— esse alargamento seja aprovado pela Comissão, assistida pelo comité referido no artigo 10.º"
+  },
+  "fd73a9e4e084c518": {
+   "fragment_id": "Artigo 13.º — Consultas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Consultas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Consultas\n\nOs Estados-membros devem certificar-se de que é organizado um processo de consulta obrigatória entre a entidade gestora, o comité de utilizadores e as empresas prestadoras de serviços sobre a aplicação das disposições da presente directiva. A consulta deve incidir, nomeadamente, sobre o preço dos serviços que tenham sido objecto de derrogação concedida ao abrigo do n.º 1, alínea b), do artigo 9.º, bem como sobre as suas regras de prestação. A consulta deve ser realizada pelo menos uma vez por ano."
+  },
+  "1d521d3795ebb568": {
+   "fragment_id": "Artigo 14.º — Licença",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Licença\n\n1. Os Estados-membros podem subordinar a actividade de um prestador de serviços de assistência em escala ou de um utilizador que pratica a auto-assistência num aeroporto à obtenção de uma licença emitida por uma autoridade pública independente da entidade gestora do aeroporto.\n\nOs critérios de concessão dessa licença devem ter em conta uma boa situação financeira, a existência de uma cobertura adequada em matéria de seguro, a segurança ou a protecção das instalações, das aeronaves, dos equipamentos ou das pessoas, bem como a protecção do ambiente e o respeito pela legislação social pertinente.\n\nOs critérios devem observar os seguintes princípios:\n\na) Ser aplicados de forma não discriminatória aos diferentes prestadores e utilizadores;\n\nb) Prosseguirem o objectivo pretendido;\n\nc) Não levarem à redução de facto do acesso ao mercado ou ao exercício da auto-assistência a um nível inferior ao previsto na presente directiva.\n\nEstes critérios devem ser tornados públicos e o prestador ou o utilizador que pratica a auto-assistência deve ser informado previamente do processo de concessão.\n\n2. A licença só pode ser recusada ou retirada caso o prestador ou o utilizador que pratica a auto-assistência não satisfaça, por motivos que lhe sejam imputáveis, os critérios enunciados no n.º 1.\n\nOs motivos da recusa ou retirada devem ser comunicados ao prestador ou ao utilizador em causa e à entidade gestora."
+  },
+  "08725acbdf494a47": {
+   "fragment_id": "Artigo 15.º — Regras de conduta",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Regras de conduta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regras de conduta\n\nO Estado-membro pode, eventualmente sob proposta da entidade gestora:\n\n— proibir a um prestador de serviços de assistência em escala o exercício dessa actividade ou a um utilizador que pratique a auto-assistência, caso esse prestador ou esse utilizador não cumpra as regras que lhe foram impostas com vista a garantir o bom funcionamento do aeroporto.\n\nEssas regras devem observar os seguintes princípios:\n\na) Ser aplicadas de forma não discriminatória aos diferentes prestadores e utilizadores;\n\nb) Prosseguirem com o objectivo pretendido;\n\nc) Não levarem à redução de facto do acesso ao mercado ou ao exercício da auto-assistência a um nível inferior ao previsto na presente directiva,\n\n— impor em especial aos prestadores que prestem serviços de assistência em escala no aeroporto uma participação equitativa e não discriminatória na execução das obrigações de serviço público previstas na legislação ou regulamentação nacionais, nomeadamente a obrigação de garantir a permanência dos serviços."
+  },
+  "42c116773bdff9dd": {
+   "fragment_id": "Artigo 20.º — Reciprocidade",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Reciprocidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reciprocidade\n\n1.\n\nSem prejuízo dos compromissos internacionais da Comunidade, sempre que, no que se refere ao acesso ao mercado da assistência em escala ou da auto-assistência, um país terceiro:\n\na) Não confira, de jure ou de facto, aos prestadores e aos utilizadores comunitários que praticam a auto-assistência um tratamento equivalente ao concedido pelos Estados-membros aos prestadores e aos utilizadores que praticam a auto-assistência desse país terceiro;\n\nb) Não confira, de jure ou de facto, aos prestadores e aos utilizadores que praticam a auto-assistência de um Estado-membro o tratamento nacional; ou\n\nc) Conceda aos prestadores e aos utilizadores que praticam a auto-assistência de outros países terceiros um tratamento mais favorável que o concedido aos prestadores e aos utilizadores que praticam a auto-assistência de um Estado-membro,\n\nqualquer Estado-membro pode suspender, total ou parcialmente, as obrigações decorrentes da presente directiva em relação aos prestadores e utilizadores desse país terceiro, de acordo com a legislação comunitária.\n\n2. O Estado-membro em causa deve informar a Comissão de qualquer suspensão ou retirada dos direitos ou obrigações."
+  },
+  "a28f7ccd9409c94f": {
+   "fragment_id": "Artigo 21.º — Direito de recurso",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Direito de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direito de recurso\n\nOs Estados-membros ou, eventualmente, as entidades gestoras devem garantir que qualquer parte com um interesse legítimo disponha do direito de recurso contra as decisões ou medidas individuais tomadas em aplicação do n.º 2 do artigo 7.º e dos artigos 11.º a 16.º\n\nEste direito de recurso deve poder ser exercido junto de um órgão jurisdicional nacional ou de uma autoridade pública que não seja a entidade gestora do aeroporto em causa e, eventualmente, independente da autoridade pública que a controle."
+  },
+  "810cb8a28d66b038": {
+   "fragment_id": "Artigo 23.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transposição\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva no prazo de um ano a contar da publicação no *Jornal Oficial das Comunidades Europeias*. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "cdbc85fb87b56e48": {
+   "fragment_id": "Artigo 24.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "676451027cadc257": {
+   "fragment_id": "LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA",
+   "type": "divisao",
+   "heading": "LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DOS SERVIÇOS DE ASSISTÊNCIA EM ESCALA\n\n1. A assistência administrativa em terra e a supervisão incluem: 1.1. Os serviços de representação e de ligação com as autoridades locais ou qualquer outra entidade, as despesas efectuadas por conta do utilizador e o fornecimento de instalações aos seus representantes; 1.2. O controlo do carregamento, das mensagens e das telecomunicações; 1.3. O tratamento, o armazenamento, a movimentação de cargas e a administração das unidades de carregamento; 1.4. Qualquer outro serviço de supervisão antes, durante ou após o voo ou qualquer outro serviço administrativo solicitado pelo utilizador.\n\n1.1. Os serviços de representação e de ligação com as autoridades locais ou qualquer outra entidade, as despesas efectuadas por conta do utilizador e o fornecimento de instalações aos seus representantes;\n\n1.2. O controlo do carregamento, das mensagens e das telecomunicações;\n\n1.3. O tratamento, o armazenamento, a movimentação de cargas e a administração das unidades de carregamento;\n\n1.4. Qualquer outro serviço de supervisão antes, durante ou após o voo ou qualquer outro serviço administrativo solicitado pelo utilizador.\n\n2. A assistência a passageiros inclui qualquer tipo de assistência aos passageiros à partida, à chegada, em trânsito ou em correspondência, nomeadamente o controlo dos bilhetes, dos documentos de viagem, o registo de bagagens e o seu transporte até aos sistemas de triagem.\n\n3. A assistência a bagagem inclui o seu tratamento na sala de triagem, a triagem, a preparação com vista à partida, o carregamento e descarregamento nos sistemas de transporte do avião para a sala de triagem e vice-versa, bem como o transporte de bagagens da sala de triagem até à sala de distribuição.\n\n4. A assistência a carga e correio inclui: 4.1. No que se refere à carga, para exportação, importação ou em trânsito, o seu tratamento físico e o tratamento dos respectivos documentos, as formalidades aduaneiras e qualquer medida cautelar acordada entre as partes ou exigida pelas circunstâncias; 4.2. No que se refere ao correio, tanto à chegada como à partida, o seu tratamento físico e o tratamento dos respectivos documentos a qualquer medida cautelar acordada entre as partes ou exigida pelas circunstâncias.\n\n4.1. No que se refere à carga, para exportação, importação ou em trânsito, o seu tratamento físico e o tratamento dos respectivos documentos, as formalidades aduaneiras e qualquer medida cautelar acordada entre as partes ou exigida pelas circunstâncias;\n\n4.2. No que se refere ao correio, tanto à chegada como à partida, o seu tratamento físico e o tratamento dos respectivos documentos a qualquer medida cautelar acordada entre as partes ou exigida pelas circunstâncias.\n\n5. A assistência de operações na pista inclui: 5.1. A orientação do avião à chegada e à partida ([^*1^](http://publications.europa.eu/resource/cellar/591bbb12-3e06-11ef-ab8f-01aa75ed71a1.0019.02/DOC_1#E0002)); 5.2. A assistência ao estacionamento do avião e o fornecimento dos meios adequados [(*1)](http://publications.europa.eu/resource/cellar/591bbb12-3e06-11ef-ab8f-01aa75ed71a1.0019.02/DOC_1#E0002); 5.3. A organização das comunicações entre os serviços em terra e o avião [(*1)](http://publications.europa.eu/resource/cellar/591bbb12-3e06-11ef-ab8f-01aa75ed71a1.0019.02/DOC_1#E0002); 5.4. O carregamento e descarregamento do avião, incluindo o fornecimento e o funcionamento dos meios necessários, bem como o transporte da tripulação e dos passageiros entre o avião e a aerogare e o transporte das bagagens entre o avião e a aerogare; 5.5. A assistência à descolagem do avião e o fornecimento dos meios adequados; 5.6. A deslocação do avião tanto à partida como à chegada, o fornecimento e o funcionamento dos meios adequados; 5.7. O transporte, o carregamento no avião e o descarregamento do avião de alimentos e bebidas.\n\n5.1. A orientação do avião à chegada e à partida ([^*1^](http://publications.europa.eu/resource/cellar/591bbb12-3e06-11ef-ab8f-01aa75ed71a1.0019.02/DOC_1#E0002));\n\n5.2. A assistência ao estacionamento do avião e o fornecimento dos meios adequados [(*1)](http://publications.europa.eu/resource/cellar/591bbb12-3e06-11ef-ab8f-01aa75ed71a1.0019.02/DOC_1#E0002);\n\n5.3. A organização das comunicações entre os serviços em terra e o avião [(*1)](http://publications.europa.eu/resource/cellar/591bbb12-3e06-11ef-ab8f-01aa75ed71a1.0019.02/DOC_1#E0002);\n\n5.4. O carregamento e descarregamento do avião, incluindo o fornecimento e o funcionamento dos meios necessários, bem como o transporte da tripulação e dos passageiros entre o avião e a aerogare e o transporte das bagagens entre o avião e a aerogare;\n\n5.5. A assistência à descolagem do avião e o fornecimento dos meios adequados;\n\n5.6. A deslocação do avião tanto à partida como à chegada, o fornecimento e o funcionamento dos meios adequados;\n\n5.7. O transporte, o carregamento no avião e o descarregamento do avião de alimentos e bebidas.\n\n6. A assistência de limpeza e serviço do avião inclui: 6.1. A limpeza exterior e interior do avião, o serviço de lavabos e o serviço de água; 6.2. A climatização e o aquecimento da cabina, a remoção da neve e do gelo do avião, a eliminação de gelo de avião; 6.3. O acondicionamento da cabina com equipamentos de cabina e o armazenamento dos mesmos.\n\n6.1. A limpeza exterior e interior do avião, o serviço de lavabos e o serviço de água;\n\n6.2. A climatização e o aquecimento da cabina, a remoção da neve e do gelo do avião, a eliminação de gelo de avião;\n\n6.3. O acondicionamento da cabina com equipamentos de cabina e o armazenamento dos mesmos.\n\n7. A assistência de combustível e óleo inclui: 7.1. A organização e execução do abastecimento e da retoma de combustível, incluindo o seu armazenamento, o controlo da qualidade e da quantidade dos fornecimentos; 7.2. O abastecimento de óleo e de outros ingredientes líquidos.\n\n7.1. A organização e execução do abastecimento e da retoma de combustível, incluindo o seu armazenamento, o controlo da qualidade e da quantidade dos fornecimentos;\n\n7.2. O abastecimento de óleo e de outros ingredientes líquidos.\n\n8. A assistência de manutenção em linha inclui: 8.1. As operações regulares efectuadas antes do voo; 8.2. As operações específicas exigidas pelo utilizador; 8.3. O fornecimento e a gestão do material necessário à manutenção e das peças sobresselentes; 8.4. O pedido ou a reserva de um local de estacionamento e/ou de um hangar para efectuar a manutenção.\n\n8.1. As operações regulares efectuadas antes do voo;\n\n8.2. As operações específicas exigidas pelo utilizador;\n\n8.3. O fornecimento e a gestão do material necessário à manutenção e das peças sobresselentes;\n\n8.4. O pedido ou a reserva de um local de estacionamento e/ou de um hangar para efectuar a manutenção.\n\n9. A assistência de operações aéreas e gestão das tripulações inclui: 9.1. A preparação do voo no aeroporto de partida ou em qualquer outro local; 9.2. A assistência em voo, incluindo, se necessário, a alteração de rota em voo; 9.3. Os serviços pós-voo; 9.4. A gestão das tripulações.\n\n9.1. A preparação do voo no aeroporto de partida ou em qualquer outro local;\n\n9.2. A assistência em voo, incluindo, se necessário, a alteração de rota em voo;\n\n9.3. Os serviços pós-voo;\n\n9.4. A gestão das tripulações.\n\n10. A assistência de transporte em terra inclui: 10.1. A organização e execução do transporte dos passageiros, da tripulação, das bagagens, da carga e do correio entre diferentes aerogares do mesmo aeroporto, excluindo, porém, qualquer transporte entre a aeronave e qualquer outro local situado no perímetro do mesmo aeroporto; 10.2. Todos os transportes especiais solicitados pelo utilizador.\n\n10.1. A organização e execução do transporte dos passageiros, da tripulação, das bagagens, da carga e do correio entre diferentes aerogares do mesmo aeroporto, excluindo, porém, qualquer transporte entre a aeronave e qualquer outro local situado no perímetro do mesmo aeroporto;\n\n10.2. Todos os transportes especiais solicitados pelo utilizador.\n\n11. A assistência de restauração (catering) inclui: 11.1. A ligação com os fornecedores e a gestão administrativa; 11.2. O armazenamento de alimentos, bebidas e acessórios necessários à sua preparação; 11.3. A limpeza dos acessórios; 11.4. A preparação e entrega do material e dos géneros alimentícios.\n\n11.1. A ligação com os fornecedores e a gestão administrativa;\n\n11.2. O armazenamento de alimentos, bebidas e acessórios necessários à sua preparação;\n\n11.3. A limpeza dos acessórios;\n\n11.4. A preparação e entrega do material e dos géneros alimentícios.\n\n---"
+  },
+  "9ca93fe94cd66cc4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/591bbb12-3e06-11ef-ab8f-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/591bbb12-3e06-11ef-ab8f-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Desde que esses serviços não sejam assegurados pelo serviço de circulação aérea."
+  }
+ }
+}

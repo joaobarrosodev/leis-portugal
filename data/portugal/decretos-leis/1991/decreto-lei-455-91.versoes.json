@@ -1,0 +1,114 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176748:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-160585744",
+ "dre_path": "/dr/detalhe/decreto-lei/455-1991-176748",
+ "source_lastmod": "2025-06-30",
+ "versions": [
+  {
+   "date": "1991-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "923330732"
+   ]
+  },
+  {
+   "date": "1992-02-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:302360:por",
+     "title": "Declaração de Rectificação n.º 7/92",
+     "published": "1992-02-29",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/7-1992-302360"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "923033115",
+    "923033112",
+    "160585661"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "923330732",
+    "923330733",
+    "923330734"
+   ]
+  }
+ ],
+ "fragments": {
+  "923330732": {
+   "fragment_id": "160585745",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 455/91\n\nde 31 de Dezembro\n\nEm Fevereiro de 1991, os Ministros dos Negócios Estrangeiros de Portugal e da República Popular da China, em encontro ocorrido em Lisboa, chegaram a um entendimento relativo ao estatuto da língua chinesa e da língua portuguesa em Macau.\n\nNos termos desse entendimento, Portugal atribuirá desde já à língua chinesa um estatuto oficial idêntico ao da língua portuguesa, enquanto a República Popular da China consagrará na Lei Básica da Região Administrativa Especial de Macau a oficialização da língua portuguesa após 1999.\n\nTendo a posição assumida por Portugal íntima ligação com o exercício da soberania, com a salvaguarda e valorização do património cultural nacional, de que é parte integrante a língua portuguesa, e, bem assim, com a letra e espírito da Declaração Conjunta Luso-Chinesa, ela deve ser concretizada através de um diploma emanado do Governo, cabendo, subsequentemente, aos órgãos de governo próprio do território de Macau aprofundar as condições para que, em conformidade com a realidade local, o estatuto oficial da língua chinesa seja gradual e progressivamente concretizado nos domínios administrativo, legislativo e judiciário.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "923033115": {
+   "fragment_id": "160585745",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1992-02-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 7/92 - Diário da República n.º 51/1992, 1º Suplemento, Série I-A de 1992-02-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-1992-302360), em vigor a partir de 1992-02-29"
+   ],
+   "markdown": "Decreto-Lei n.º 455/91\n\nde 31 de Dezembro\n\nEm Fevereiro de 1991, os Ministros dos Negócios Estrangeiros de Portugal e da República Popular da China, em encontro ocorrido em Lisboa, chegaram a um entendimento relativo ao estatuto da língua chinesa e da língua portuguesa em Macau.\n\nNos termos desse entendimento, Portugal atribuirá desde já à língua chinesa um estatuto oficial idêntico ao da língua portuguesa, enquanto a República Popular da China consagrará na Lei Básica da Região Administrativa Especial de Macau a oficialização da língua portuguesa após 1999.\n\nTendo a posição assumida por Portugal íntima ligação com o exercício da soberania, com a salvaguarda e valorização do património cultural nacional, de que é parte integrante a língua portuguesa, e, bem assim, com a letra e espírito da Declaração Conjunta Luso-Chinesa, ela deve ser concretizada através de um diploma emanado do Governo, cabendo, subsequentemente, aos órgãos de governo próprio do território de Macau aprofundar as condições para que, em conformidade com a realidade local, o estatuto oficial da língua chinesa seja gradual e progressivamente concretizado nos domínios administrativo, legislativo e judiciário.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Retificado pelo/a [Declaração de Rectificação n.º 7/92 - Diário da República n.º 51/1992, 1º Suplemento, Série I-A de 1992-02-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-1992-302360), em vigor a partir de 1992-02-29"
+  },
+  "923033112": {
+   "fragment_id": "922902735",
+   "type": 11,
+   "heading": "Artigo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único\n\nA língua chinesa tem em Macau estatuto oficial e a mesma força legal que a língua portuguesa."
+  },
+  "160585661": {
+   "fragment_id": "160585746",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1991. - Aníbal António Cavaco Silva - Duarte Ivo Cruz - Diamantino Freitas Gomes Durão.\n\nPromulgado em 23 de Dezembro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Dezembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nPara publicação no Boletim Oficial de Macau."
+  },
+  "923330733": {
+   "fragment_id": "922902735",
+   "type": 11,
+   "heading": "Artigo único",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo único\n\nA língua chinesa tem em Macau estatuto oficial e a mesma força legal que a língua portuguesa.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "923330734": {
+   "fragment_id": "160585746",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 1991. - Aníbal António Cavaco Silva - Duarte Ivo Cruz - Diamantino Freitas Gomes Durão.\n\nPromulgado em 23 de Dezembro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Dezembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nPara publicação no Boletim Oficial de Macau.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

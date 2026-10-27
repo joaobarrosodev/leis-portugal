@@ -1,0 +1,229 @@
+---
+schema_version: '1.0'
+id: pt:dre:676049:por
+title: Decreto-Lei n.º 248/92
+short_title: null
+summary: Dota o Projecto VIDA de uma nova estrutura orgânica
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 248/92
+official_date: null
+publication_date: '1992-11-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 259/1992, 1º Suplemento, Série I-A de 1992-11-09
+  number: '259'
+  series: I
+  supplement: null
+  pages: 5176-(2) a 5176-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/11/259a01/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/248/1992/11/09/p/dre/pt/html
+  oj: null
+  dre: '676049'
+  dre_path: /dr/detalhe/decreto-lei/248-1992-676049
+  internal: pt:dre:676049:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1992-676049
+  metadata_url: https://data.dre.pt/eli/dec-lei/248/1992/11/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1992-676049
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:18:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 156295c6f39e9be4fd1ab06427981b13a8c5eae1228d1b9f38daf6b8f253c645
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ALTO Comissário para o Projecto VIDA
+- Comissão Interministerial
+- Conselho Nacional do Projecto VIDA
+- Delegação de Competências
+- Governo XII
+- Orgânica
+- Primeiro-ministro
+- Projecto VIDA
+relationships:
+- type: amended_by
+  target: pt:dre:231535:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:262836:por
+  label: "Alterado o art. 3º, pelo DEC LEI.127/94.1994.05.19.PCM, DR.IS-A [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-1994-262836
+  date: '1994-05-19'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/31/1991/08/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/31/1991/08/12/p/dre
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675257:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:449956:por
+  label: "Rectificada a epígrafe pela DECL-RECT.205/92.31.12.1992.PCM, DR.IS-A [301]8ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/205-1992-449956
+  date: '1992-12-31'
+- type: repealed_by
+  target: pt:dre:231535:por
+  label: "Revogado o presente diploma, na redacção do Dec Lei 127/94, de 19-Maio, pelo DEC LEI.193/96.1996.10.15.PCM, DR.IS-A\
+    \ [239\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1996-231535
+  date: '1996-10-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:18:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 248/92
+
+de 11 de Novembro
+
+O Governo, no seu Programa, erigiu o combate à droga como área a merecer particular empenho, impondo-se, no âmbito do Projecto VIDA, reforçar os meios de combate àquele flagelo.
+
+Mas o combate eficaz à toxicodependência só é possível com uma ampla participação da sociedade civil.
+
+O problema da toxicodependência é um problema da sociedade global. Considerar o sucesso como o único valor, os meios económicos como recurso prioritário e a agressividade como processo para atingir qualquer objectivo tem constituído para muitos o princípio de uma grande frustração. A sociedade, cultora dos individualismos, altamente permissiva e com uma crise profunda ao nível de instituições chave como a família e a escola, deu origem a grande número de pessoas em sofrimento, especialmente jovens para quem o espaço afectivo e o projecto de futuro se encontram muito reduzidos, quando não completamente fechados. Neste contexto, a busca de soluções imediatas, sobretudo de natureza sensorial, constitui uma tentação permanente. É por isso que milhares de jovens procuram no consumo da droga uma fuga às responsabilidades que não assumem e ao sonho que não conseguem concretizar. Há na sociedade portuguesa muitas pessoas em crise, muitas famílias em sofrimento, muitas estruturas abaladas pelo aumento do número de toxicodependentes. O Projecto VIDA nasceu para ir ao encontro de todos eles, para ajudar os jovens na descoberta da verdadeira liberdade individual e social, para colaborar num autêntico processo educativo que leva a todos os cidadãos um estilo saudável de vida, para congregar pessoas, famílias e estruturas sociais no trabalho comum de prevenir a toxicodependência, de acompanhar os doentes que na droga perderam a liberdade e de os reintegrar na sociedade quando recuperados.
+
+Mas para conseguir tudo isto é indispensável mobilizar a sociedade civil, as escolas e os centros de saúde, espaços normais de educação das pessoas, mas também as associações de famílias e as associações de jovens, tradicionais lugares de encontro, o patronato e os sindicatos, num diálogo colaborante, os diversos grupos religiosos e os vários partidos, como educadores da opinião pública, os grandes meios de comunicação social e as pequenas publicações periódicas tão vulgarizadas por toda a parte, responsáveis como são na transmissão de valores na comunidade humana.
+
+O papel da sociedade civil na construção e no dia-a-dia do Projecto VIDA deve ser uma realidade cada vez mais importante. A existência de uma preocupação grande como o incrementar do papel da sociedade civil deverá, pois, constituir uma das principais prioridades do Projecto VIDA e em especial do seu alto-comissário.
+
+As permanentes mudanças de atitude perante estes problemas e as diversas formas de o abordar implicam necessariamente que se proceda a uma educação permanente em relação a ele.
+
+E as mudanças pretendidas serão tanto mais eficazes quanto mais informados estiverem os cidadãos. Mudanças por decreto-lei, em áreas tão sensíveis como estas, só são passíveis de se realizarem se os cidadãos assim o quiserem e assim o entenderem.
+
+Por outro lado, é necessário e urgente desenvolver e consolidar uma real e eficaz coordenação intersectorial neste domínio.
+
+A conjugação de esforços e a coordenação de acções e iniciativa são nesta área, muito em particular, condição indispensável de sucesso.
+
+Além disso, o Projecto VIDA precisa de apresentar garantias de desburocratização e de coordenação, com especial incidência no seu nível central.
+
+Assim, todos os serviços e instituições que desempenhem actividades no combate à droga devem estar devidamente enquadrados e coordenados pelo Projecto VIDA.
+
+O resultado de qualquer reformulação, por melhor intencionada e correcta que seja, depende sempre de quem a executa e dos meios que se lhe facultam, sem deixar de se reconhecer que é área em que as ideias são mais importantes do que as estruturas administrativas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º O Programa Nacional de Combate à Droga, designado por «Projecto VIDA», aprovado pela [Resolução do Conselho de Ministros n.º 17/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-1990-668097), de 21 de Abril, com as alterações que lhe foram introduzidas pela [Resolução do Conselho de Ministros n.º 31/91](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-1991-675257), de 12 de Agosto, rege-se pelo presente diploma.
+
+Art. 2.º Na execução do Projecto VIDA intervêm as seguintes entidades:
+
+a) A comissão interministerial;
+
+b) O conselho nacional;
+
+c) O alto-comissário.
+
+Art. 3.º - 1 - A comissão interministerial funciona a nível político e a nível técnico.
+
+2 - A nível político a comissão é presidida pelo Primeiro-Ministro e tem a seguinte composição:
+
+a) O Ministro da Administração Interna;
+
+b) O Ministro da Justiça;
+
+c) O Ministro da Educação;
+
+d) O Ministro da Saúde;
+
+e) O Ministro do Emprego e da Segurança Social;
+
+f) O Ministro Adjunto;
+
+g) O alto-comissário.
+
+3 - A nível técnico a comissão adopta a designação de grupo técnico interministerial, que é presidido pelo alto-comissário, integrando um representante de cada um dos membros do Governo a que se refere o número anterior, por eles designado.
+
+4 - Cabe ao grupo técnico interministerial preparar a agenda de trabalhos da comissão interministerial e promover uma articulada execução, em cada departamento, das medidas adoptadas no âmbito do Projecto VIDA.
+
+Art. 4.º - 1 - O conselho nacional é um órgãos de consulta do Primeiro-Ministro.
+
+2 - O conselho nacional é integrado pelas entidades a que se refere a [Resolução do Conselho de Ministros n.º 17/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-1990-668097), de 21 de Abril.
+
+Art. 5.º - 1 - A coordenação, supervisão, acompanhamento e avaliação das medidas a desenvolver no âmbito do Programa Nacional de Combate à Droga, designado por Projecto VIDA, são cometidas a um alto-comissário para o Projecto VIDA.
+
+2 - O alto-comissário para o Projecto VIDA é nomeado nos termos da [Resolução do Conselho de Ministros n.º 17/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-1990-668097), de 21 de Abril.
+
+3 - O alto-comissário promoverá a criação de um sistema coerente de recolha e tratamento de dados, aos mais diversos níveis de combate à droga.
+
+Art. 6.º - 1 - A acção do alto-comissário tem âmbito nacional.
+
+2 - Para o exercício das funções cometidas ao alto-comissário as entidades públicas devem prestar toda a colaboração necessária, facilitando as informações solicitadas e o acesso aos serviços e documentação.
+
+Art. 7.º O alto-comissário apresentará ao Primeiro-Ministro relatórios quadrimestrais sobre a execução das suas funções.
+
+Art. 8.º - 1 - O alto-comissário autoriza as despesas nos termos do artigo 11.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, ou da competência que lhe seja delegada pelo Primeiro-Ministro.
+
+2 - A dotação orçamental do Projecto VIDA constará de verba inscrita no orçamento da Presidência do Conselho de Ministros.
+
+Art. 9.º As competências cometidas pelo presente diploma ao Primeiro-Ministro são delegáveis, com faculdade de subdelegação, nos termos da lei.
+
+Art. 10.º - 1 - Mantêm-se em vigor as resoluções do Conselho de Ministros n.os [17/90](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-1990-668097), de 21 de Abril, e [31/91](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-1991-675257), de 12 de Agosto, em tudo quanto não contrarie o disposto no presente diploma.
+
+2 - A referência constante de acto normativo ou administrativo ao coordenador entendem-se feitas ao alto-comissário para o Projecto VIDA.
+
+3 - Cessam as requisições, destacamentos e comissões de serviço do pessoal que exerce funções no Projecto VIDA, salvo se confirmadas por despacho do Primeiro-Ministro, sob proposta do alto-comissário, no prazo de 90 dias contados da data da entrada em vigor do presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 13 de Outubro de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Jorge Braga de Macedo - José Manuel Cardoso Borges Soeiro - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho - José Luís Campos Vieira de Castro - Luís Manuel Gonçalves Marques Mendes.
+
+Promulgado em 31 de Outubro de 1992.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 4 de Novembro de 1992.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

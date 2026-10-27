@@ -1,0 +1,691 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:298980:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-58600678",
+ "dre_path": "/dr/detalhe/decreto-lei/165-a-2013-298980",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-12-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "58601175",
+    "58601176",
+    "58601177",
+    "58601178",
+    "58601179",
+    "58601180",
+    "58601181",
+    "58601182",
+    "58601183",
+    "58601184",
+    "58601185",
+    "58601186",
+    "58601187",
+    "58601188",
+    "58601189",
+    "58601190",
+    "58601191",
+    "58601192",
+    "58601193",
+    "58601194"
+   ]
+  },
+  {
+   "date": "2014-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:57701290:por",
+     "title": "Lei n.º 75-A/2014",
+     "published": "2014-09-30",
+     "dre_path": "/dr/detalhe/lei/75-a-2014-57701290"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-A"
+   ],
+   "fragments": [
+    "58601175",
+    "58601176",
+    "58601177",
+    "58601178",
+    "58601179",
+    "58601180",
+    "58601181",
+    "58601182",
+    "58601183",
+    "58601184",
+    "58601185",
+    "58601186",
+    "58601187",
+    "58601188",
+    "58601189",
+    "58601190",
+    "58601191",
+    "58601196",
+    "58601197",
+    "58601198",
+    "58601199",
+    "58601200"
+   ]
+  },
+  {
+   "date": "2015-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66895092:por",
+     "title": "Decreto-Lei n.º 44/2015",
+     "published": "2015-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/44-2015-66895092"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "58601175",
+    "58601176",
+    "58601177",
+    "58601178",
+    "66905180",
+    "66905181",
+    "66905182",
+    "66905199",
+    "66905200",
+    "66905201",
+    "66905186",
+    "66905187",
+    "66905202",
+    "66905189",
+    "66905190",
+    "66905191",
+    "66905192",
+    "66905203",
+    "66905194",
+    "66905195",
+    "66905196",
+    "66905197",
+    "66905198"
+   ]
+  },
+  {
+   "date": "2016-11-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75644169:por",
+     "title": "Decreto-Lei n.º 68/2016",
+     "published": "2016-11-03",
+     "dre_path": "/dr/detalhe/decreto-lei/68-2016-75644169"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "58601175",
+    "58601176",
+    "58601177",
+    "58601178",
+    "66905180",
+    "66905181",
+    "66905182",
+    "75620835",
+    "66905200",
+    "75620836",
+    "66905186",
+    "66905187",
+    "75620837",
+    "66905189",
+    "66905190",
+    "66905191",
+    "66905192",
+    "75620838",
+    "66905194",
+    "66905195",
+    "66905196",
+    "66905197",
+    "66905198"
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "58601175",
+    "58601176",
+    "58601177",
+    "58601178",
+    "66905180",
+    "66905181",
+    "66905182",
+    "122867476",
+    "66905200",
+    "122867477",
+    "66905186",
+    "66905187",
+    "122867478",
+    "122867479",
+    "66905190",
+    "122867480",
+    "66905192",
+    "122867481",
+    "66905194",
+    "66905195",
+    "66905196",
+    "66905197",
+    "66905198"
+   ]
+  }
+ ],
+ "fragments": {
+  "58601175": {
+   "fragment_id": "58600679",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 165-A/2013\n\nde 23 de dezembro\n\nAs entidades do sector social e solidário, representadas pelas Misericórdias, Mutualidades e Instituições Particulares de Solidariedade Social têm assumido uma posição de enorme preponderância no estabelecimento e desenvolvimento de um conjunto de respostas sociais em todo o território, sendo parceiros de excelência do Governo para, de uma forma eficaz e profissional, implementarem essas mesmas respostas no terreno. Esta parceria tem sido frutuosa e é reveladora de uma abordagem mais humanista, mais próxima, mais eficiente e adequada na resposta aos cidadãos.\n\nPara além do relevante papel que o sector social e solidário tem realizado no apoio aos cidadãos, este tem assumido igual destaque na dinamização das economias locais, nos territórios onde estão sedeados, constituindo-se como agentes da economia social. Uma economia que é das pessoas, para as pessoas e que respeita as comunidades, sendo responsável por 5,5% do emprego remunerado nacional total.\n\nNeste contexto, o XIX Governo Constitucional, tem claramente, ao longo da sua ação governativa, reforçado os laços de confiança e de parceria com as instituições do sector social e solidário, por via de um compromisso público/social assente na partilha de objetivos e na salvaguarda do bem comum.\n\nCom este propósito o Governo, através da celebração de um protocolo de cooperação com as entidades representativas do sector, estabeleceu um modelo de parceria bianual dotando as instituições de mecanismos capazes de reforçar as respostas sociais existentes, implementar novas ações e proceder ao alargamento de medidas de apoio social, para abranger todos os cidadãos que, se encontram em situação de vulnerabilidade social.\n\nReconhecendo o inegável papel das entidades do sector social e solidário no desenvolvimento de instrumentos de política pública que prossigam os fins da ação social, o XIX Governo Constitucional pretende reforçar esta parceria criando o Fundo de Restruturação do Sector Solidário com o propósito de incentivar, apoiar e promover a capacidade instalada destas entidades, com o objetivo último de fortalecer a sua atuação no desenvolvimento de respostas e programas, potenciadoras da economia social, através do acesso criterioso a instrumentos de reestruturação financeira que permitam o seu equilíbrio e sustentabilidade económica, fator fundamental para a estabilidade e o progresso do desenvolvimento social.\n\nForam ouvidas a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas e a União das Mutualidades Portuguesas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "58601176": {
+   "fragment_id": "58600680",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei cria o Fundo de Reestruturação do Sector Solidário e estabelece o seu regime jurídico."
+  },
+  "58601177": {
+   "fragment_id": "58600681",
+   "type": 11,
+   "heading": "Artigo 2.º — Fundo de Reestruturação do Sector Solidário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fundo de Reestruturação do Sector Solidário\n\nÉ criado o Fundo de Reestruturação do Sector Solidário, doravante designado por FRSS."
+  },
+  "58601178": {
+   "fragment_id": "58600682",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza jurídica\n\nO FRSS é um fundo autónomo, com personalidade jurídica, dotado de autonomia administrativa e financeira e não integra o perímetro de consolidação da segurança social nem o orçamento da segurança social."
+  },
+  "58601179": {
+   "fragment_id": "58600683",
+   "type": 11,
+   "heading": "Artigo 4.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Finalidade\n\n1 - O FRSS destina-se a apoiar a reestruturação e a sustentabilidade económica e financeira das Instituições Particulares de Solidariedade Social (IPSS) e equiparadas, permitindo a manutenção do regular desenvolvimento das respostas e serviços prestados.\n\n2 - Os apoios atribuídos pelo FRSS às IPSS e equiparadas têm natureza reembolsável."
+  },
+  "58601180": {
+   "fragment_id": "58600684",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades participantes\n\nSão entidades participantes no FRSS, todas as IPSS e equiparadas com acordos de cooperação celebrados com o Instituto da Segurança Social, I.P."
+  },
+  "58601181": {
+   "fragment_id": "58600685",
+   "type": 11,
+   "heading": "Artigo 6.º — Capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Capital\n\n1 - O capital do FRSS corresponde à retenção de uma percentagem da atualização anual da comparticipação financeira atribuídas às IPSS e equiparadas por protocolo de cooperação celebrado entre o membro do Governo responsável pelas áreas da solidariedade e da segurança social e a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas e a União das Mutualidades Portuguesas.\n\n2 - A percentagem referida no número anterior, corresponde a 0,5% no primeiro ano de vigência do FRSS, e, nos anos subsequentes, é estabelecida por portaria do membro do Governo responsável pelas áreas da solidariedade e da segurança social."
+  },
+  "58601182": {
+   "fragment_id": "58600686",
+   "type": 11,
+   "heading": "Artigo 7.º — Fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fontes de financiamento\n\nO FRSS é financiado por:\n\na) Percentagem da atualização anual da comparticipação financeira atribuída às IPSS e equiparadas no âmbito do protocolo de colaboração identificado no artigo anterior;\n\nb) Proveitos derivados dos investimentos realizados;\n\nc) Outras receitas que lhe sejam atribuídas por entidades públicas ou privadas ou, ainda, decorrentes da gestão do FRSS;\n\nd) Podem, ainda, integrar o FRSS soluções financeiras a implementar no ciclo de programação de fundos comunitários 2014-2020."
+  },
+  "58601183": {
+   "fragment_id": "58600687",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas do Fundo de Reestruturação do Sector Solidário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas do Fundo de Reestruturação do Sector Solidário\n\nConstituem despesas do FRSS:\n\na) As despesas de administração e de gestão;\n\nb) Outras despesas previstas em regulamento interno."
+  },
+  "58601184": {
+   "fragment_id": "58600688",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsabilidade\n\nO FRSS não responde, em qualquer caso, pelas dívidas das entidades participantes."
+  },
+  "58601185": {
+   "fragment_id": "58600689",
+   "type": 11,
+   "heading": "Artigo 10.º — Impenhorabilidade e intransmissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Impenhorabilidade e intransmissibilidade\n\nO saldo do FRSS é intransmissível e impenhorável."
+  },
+  "58601186": {
+   "fragment_id": "58600690",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselho de gestão\n\n1 - O FRSS é gerido por um conselho de gestão, composto por um presidente e três vogais.\n\n2 - O conselho de gestão integra:\n\na) O presidente do Instituto de Gestão Financeira da Segurança Social, I.P., (IGFSS, I.P.) que preside;\n\nb) Um representante da Confederação Nacional das Instituições de Solidariedade;\n\nc) Um representante da União das Misericórdias Portuguesas;\n\nd) Um representante da União das Mutualidades Portuguesas.\n\n3 - Por cada membro efetivo é também designado um membro suplente.\n\n4 - Cabe às entidades indicadas no n.º 2 designar os respetivos representantes.\n\n5 - Os membros do conselho de gestão referidos nas alíneas b) a d) do n.º 1 são designados por um período de três anos.\n\n6 - O presidente do conselho de gestão tem voto de qualidade.\n\n7 - A organização e o funcionamento do conselho de gestão regem-se pelo disposto no respetivo regulamento interno.\n\n8 - Os membros do conselho de gestão não auferem qualquer remuneração pelo exercício das suas funções.\n\n9 - O apoio técnico e administrativo ao conselho de gestão é prestado pelas entidades representadas no conselho de gestão, nos termos a definir no regulamento interno."
+  },
+  "58601187": {
+   "fragment_id": "58600691",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências do conselho de gestão\n\nCompete ao conselho de gestão:\n\na) Aprovar o regulamento interno;\n\nb) Aprovar o plano de atividades e o orçamento;\n\nc) Aprovar o relatório de atividades, o relatório de contas e o balanço anuais;\n\nd) Acompanhar as atividades do FRSS, apresentando ao presidente propostas, recomendações e pedidos de esclarecimento que entender convenientes, bem como propor a adoção de medidas que considere necessárias à realização dos seus fins;\n\ne) Decidir sobre os pedidos de apoio a conceder no âmbito do FRSS, às IPSS e equiparadas;\n\nf) Definir os critérios de avaliação e de acompanhamento da execução dos planos de reestruturação das entidades apoiadas pelo FRSS."
+  },
+  "58601188": {
+   "fragment_id": "58600692",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscal único\n\n1 - O fiscal único é designado, de entre revisores oficiais de contas, pelo conselho de gestão, o qual deve ainda designar um fiscal suplente.\n\n2 - Os mandatos do fiscal único e do fiscal suplente têm a duração de três anos, podendo ser reconduzidos por iguais períodos.\n\n3 - A remuneração do fiscal único é definida pelo conselho de gestão não podendo ultrapassar a remuneração definida, nos termos da lei, para o fiscal único dos institutos públicos de regime comum."
+  },
+  "58601189": {
+   "fragment_id": "58600693",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências do fiscal único\n\nCompete ao fiscal único:\n\na) Acompanhar a gestão financeira do FRSS;\n\nb) Emitir parecer sobre o orçamento, o relatório de contas e balanço anuais;\n\nc) Fiscalizar a execução da contabilidade do FRSS e o cumprimento dos normativos aplicáveis, informando o conselho de gestão de qualquer anomalia detetada;\n\nd) Solicitar ao conselho de gestão reunião conjunta dos dois órgãos, quando, no âmbito das suas competências, o entender;\n\ne) Pronunciar-se sobre qualquer assunto de interesse para o FRSS, que seja submetido à sua apreciação pelo presidente do conselho de gestão;\n\nf) Elaborar relatório anual sobre a ação fiscalizadora exercida."
+  },
+  "58601190": {
+   "fragment_id": "58600694",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamento interno\n\n1 - O regulamento interno é elaborado pelo presidente do FRSS e sujeito a aprovação do conselho de gestão.\n\n2 - O conselho de gestão deve aprovar o regulamento interno no prazo de 15 dias após a entrada em vigor da portaria que regulamenta o presente decreto-lei."
+  },
+  "58601191": {
+   "fragment_id": "58600695",
+   "type": 11,
+   "heading": "Artigo 16.º — Acompanhamento das entidades apoiadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acompanhamento das entidades apoiadas\n\n1 - O acompanhamento da execução dos planos de reestruturação das entidades apoiadas pelo FRSS é efetuado pelas entidades identificadas nas alíneas b), c) e d) do n.º 2 do artigo 11.º\n\n2 - Para os efeitos do número anterior as entidades apoiadas pelo FRSS devem prestar toda a informação que se revele necessária."
+  },
+  "58601192": {
+   "fragment_id": "58600696",
+   "type": 11,
+   "heading": "Artigo 17.º — Extinção do Fundo de Reestruturação do Sector Solidário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Extinção do Fundo de Reestruturação do Sector Solidário\n\n1 - O FRSS extingue-se quando, por qualquer causa, se esgotar a sua finalidade, devendo proceder-se à liquidação do respetivo património.\n\n2 - O saldo apurado, na liquidação do FRSS, reverte a favor das entidades participantes, na proporção das respetivas participações."
+  },
+  "58601193": {
+   "fragment_id": "58600697",
+   "type": 11,
+   "heading": "Artigo 18.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regulamentação\n\n1 - As matérias relativas à operacionalização do funcionamento do FRSS e à política de investimento são objeto de regulamentação por portaria do membro do Governo responsável pelas áreas da solidariedade e da segurança social, no prazo de 30 dias a contar da data de entrada em vigor do presente decreto-lei.\n\n2 - A portaria referida no número anterior estabelece ainda, designadamente, os critérios de acesso aos apoios a conceder pelo FRSS, os termos e as condições de concessão dos apoios e dos respetivos reembolsos."
+  },
+  "58601194": {
+   "fragment_id": "58600698",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "58601196": {
+   "fragment_id": "58600700",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Disposições fiscais",
+   "in_force_from": "2014-10-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 19.º do/a [Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), em vigor a partir de 2014-10-01"
+   ],
+   "markdown": "###### Artigo 16.º-A — Disposições fiscais\n\nO FRSS é equiparado aos fundos de capitalização administrados pelas instituições da segurança social para efeitos do disposto na alínea d) do n.º 1 do artigo 9.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (IRC), aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, beneficiando do regime fiscal previsto na alínea b) do artigo 6.º do Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11 de setembro.\n\n> Aditado pelo/a Artigo 19.º do/a [Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), em vigor a partir de 2014-10-01"
+  },
+  "58601197": {
+   "fragment_id": "58600696",
+   "type": 11,
+   "heading": "Artigo 17.º — Extinção do Fundo de Reestruturação do Sector Solidário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Extinção do Fundo de Reestruturação do Sector Solidário\n\n1 - O FRSS extingue-se quando, por qualquer causa, se esgotar a sua finalidade, devendo proceder-se à liquidação do respetivo património.\n\n2 - O saldo apurado, na liquidação do FRSS, reverte a favor das entidades participantes, na proporção das respetivas participações."
+  },
+  "58601198": {
+   "fragment_id": "58600697",
+   "type": 11,
+   "heading": "Artigo 18.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regulamentação\n\n1 - As matérias relativas à operacionalização do funcionamento do FRSS e à política de investimento são objeto de regulamentação por portaria do membro do Governo responsável pelas áreas da solidariedade e da segurança social, no prazo de 30 dias a contar da data de entrada em vigor do presente decreto-lei.\n\n2 - A portaria referida no número anterior estabelece ainda, designadamente, os critérios de acesso aos apoios a conceder pelo FRSS, os termos e as condições de concessão dos apoios e dos respetivos reembolsos."
+  },
+  "58601199": {
+   "fragment_id": "58600698",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "58601200": {
+   "fragment_id": "58600699",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de novembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 20 de dezembro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de dezembro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "66905180": {
+   "fragment_id": "66902688",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Regime jurídico aplicável",
+   "in_force_from": "2015-04-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 3.º-A — Regime jurídico aplicável\n\nO FRSS rege-se pelas regras previstas no presente decreto-lei, pela portaria que o regulamenta e respetivo regulamento interno.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "66905181": {
+   "fragment_id": "58600683",
+   "type": 11,
+   "heading": "Artigo 4.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Finalidade\n\n1 - O FRSS destina-se a apoiar a reestruturação e a sustentabilidade económica e financeira das Instituições Particulares de Solidariedade Social (IPSS) e equiparadas, permitindo a manutenção do regular desenvolvimento das respostas e serviços prestados.\n\n2 - Os apoios atribuídos pelo FRSS às IPSS e equiparadas têm natureza reembolsável."
+  },
+  "66905182": {
+   "fragment_id": "58600684",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades participantes\n\nSão entidades participantes no FRSS, todas as IPSS e equiparadas com acordos de cooperação celebrados com o Instituto da Segurança Social, I.P."
+  },
+  "66905199": {
+   "fragment_id": "58600685",
+   "type": 11,
+   "heading": "Artigo 6.º — Capital",
+   "in_force_from": "2015-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 6.º — Capital\n\n1 - O capital do FRSS é constituído por uma comparticipação financeira entregue pelas entidades participantes.\n\n2 - Para garantir uniformidade e equidade, o valor da comparticipação financeira prevista no número anterior, é aferido em função de uma percentagem calculada com referência ao valor dos acordos de cooperação celebrados com o Instituto da Segurança Social, I. P.\n\n3 - A percentagem referida no número anterior é estabelecida por portaria do membro do Governo responsável pelas áreas da solidariedade e da segurança social, após acordo com a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas e a União das Mutualidades Portuguesas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "66905200": {
+   "fragment_id": "58600686",
+   "type": 11,
+   "heading": "Artigo 7.º — Fontes de financiamento",
+   "in_force_from": "2015-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 7.º — Fontes de financiamento\n\nO FRSS é financiado por:\n\na) Capital constituído nos termos do artigo anterior;\n\nb) Proveitos derivados dos investimentos realizados;\n\nc) Outras receitas que lhe sejam atribuídas por entidades públicas ou privadas ou, ainda, decorrentes da gestão do FRSS;\n\nd) Podem, ainda, integrar o FRSS soluções financeiras a implementar no ciclo de programação de fundos comunitários 2014-2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "66905201": {
+   "fragment_id": "58600687",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas do Fundo de Reestruturação do Sector Solidário",
+   "in_force_from": "2015-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 8.º — Despesas do Fundo de Reestruturação do Sector Solidário\n\n1 - Constituem despesas de funcionamento do FRSS as despesas de administração e gestão e outras previstas em sede de regulamento interno, nomeadamente as despesas suportadas pelas entidades identificadas nas alíneas b), c) e d) do n.º 2 do artigo 11.º com as atividades previstas nos termos do artigo 16.º\n\n2 - As despesas referidas no número anterior não podem ultrapassar, em cada ano, 3 % do ativo líquido do fundo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "66905186": {
+   "fragment_id": "58600688",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsabilidade\n\nO FRSS não responde, em qualquer caso, pelas dívidas das entidades participantes."
+  },
+  "66905187": {
+   "fragment_id": "58600689",
+   "type": 11,
+   "heading": "Artigo 10.º — Impenhorabilidade e intransmissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Impenhorabilidade e intransmissibilidade\n\nO saldo do FRSS é intransmissível e impenhorável."
+  },
+  "66905202": {
+   "fragment_id": "58600690",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselho de gestão",
+   "in_force_from": "2015-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 11.º — Conselho de gestão\n\n1 - O FRSS é gerido por um conselho de gestão, composto por um presidente e três vogais.\n\n2 - O conselho de gestão integra:\n\na) Um representante do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), que preside.\n\nb) Um representante da Confederação Nacional das Instituições de Solidariedade;\n\nc) Um representante da União das Misericórdias Portuguesas;\n\nd) Um representante da União das Mutualidades Portuguesas.\n\n3 - O presidente do FRSS é designado pelo membro do Governo responsável pela área da segurança social, de entre os membros do conselho diretivo do IGFSS, I. P.\n\n4 - Por cada membro efetivo é também designado um membro suplente.\n\n5 - Cabe às entidades indicadas no n.º 2 designar os respetivos representantes.\n\n6 - Os membros do conselho de gestão referidos nas alíneas b) a d) do n.º 1 são designados por um período de três anos.\n\n7 - O presidente do conselho de gestão tem voto de qualidade.\n\n8 - A organização e o funcionamento do conselho de gestão regem-se pelo disposto no respetivo regulamento interno.\n\n9 - Os membros do conselho de gestão não auferem qualquer remuneração pelo exercício das suas funções.\n\n10 - O apoio técnico e administrativo ao FRSS e ao conselho de gestão é prestado diretamente pelas entidades identificadas nas alíneas b) a d) do n.º 2, nos termos a definir no regulamento interno.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "66905189": {
+   "fragment_id": "58600691",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências do conselho de gestão\n\nCompete ao conselho de gestão:\n\na) Aprovar o regulamento interno;\n\nb) Aprovar o plano de atividades e o orçamento;\n\nc) Aprovar o relatório de atividades, o relatório de contas e o balanço anuais;\n\nd) Acompanhar as atividades do FRSS, apresentando ao presidente propostas, recomendações e pedidos de esclarecimento que entender convenientes, bem como propor a adoção de medidas que considere necessárias à realização dos seus fins;\n\ne) Decidir sobre os pedidos de apoio a conceder no âmbito do FRSS, às IPSS e equiparadas;\n\nf) Definir os critérios de avaliação e de acompanhamento da execução dos planos de reestruturação das entidades apoiadas pelo FRSS."
+  },
+  "66905190": {
+   "fragment_id": "58600692",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscal único\n\n1 - O fiscal único é designado, de entre revisores oficiais de contas, pelo conselho de gestão, o qual deve ainda designar um fiscal suplente.\n\n2 - Os mandatos do fiscal único e do fiscal suplente têm a duração de três anos, podendo ser reconduzidos por iguais períodos.\n\n3 - A remuneração do fiscal único é definida pelo conselho de gestão não podendo ultrapassar a remuneração definida, nos termos da lei, para o fiscal único dos institutos públicos de regime comum."
+  },
+  "66905191": {
+   "fragment_id": "58600693",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências do fiscal único\n\nCompete ao fiscal único:\n\na) Acompanhar a gestão financeira do FRSS;\n\nb) Emitir parecer sobre o orçamento, o relatório de contas e balanço anuais;\n\nc) Fiscalizar a execução da contabilidade do FRSS e o cumprimento dos normativos aplicáveis, informando o conselho de gestão de qualquer anomalia detetada;\n\nd) Solicitar ao conselho de gestão reunião conjunta dos dois órgãos, quando, no âmbito das suas competências, o entender;\n\ne) Pronunciar-se sobre qualquer assunto de interesse para o FRSS, que seja submetido à sua apreciação pelo presidente do conselho de gestão;\n\nf) Elaborar relatório anual sobre a ação fiscalizadora exercida."
+  },
+  "66905192": {
+   "fragment_id": "58600694",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamento interno\n\n1 - O regulamento interno é elaborado pelo presidente do FRSS e sujeito a aprovação do conselho de gestão.\n\n2 - O conselho de gestão deve aprovar o regulamento interno no prazo de 15 dias após a entrada em vigor da portaria que regulamenta o presente decreto-lei."
+  },
+  "66905203": {
+   "fragment_id": "58600695",
+   "type": 11,
+   "heading": "Artigo 16.º — Acompanhamento das candidaturas e entidades apoiadas",
+   "in_force_from": "2015-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 16.º — Acompanhamento das candidaturas e entidades apoiadas\n\n1 - As entidades identificadas nas alíneas b) a d) do n.º 2 do artigo 11.º, prestam apoio técnico:\n\na) Na formalização e instrução das candidaturas;\n\nb) No acompanhamento dos planos de reestruturação das entidades apoiadas.\n\n2 - Para os efeitos do número anterior as entidades apoiadas pelo FRSS devem prestar toda a informação que se revele necessária.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "66905194": {
+   "fragment_id": "58600700",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Disposições fiscais",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 19.º do/a [Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), em vigor a partir de 2014-10-01"
+   ],
+   "markdown": "###### Artigo 16.º-A — Disposições fiscais\n\nO FRSS é equiparado aos fundos de capitalização administrados pelas instituições da segurança social para efeitos do disposto na alínea d) do n.º 1 do artigo 9.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (IRC), aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, beneficiando do regime fiscal previsto na alínea b) do artigo 6.º do Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11 de setembro.\n\n> Aditado pelo/a Artigo 19.º do/a [Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), em vigor a partir de 2014-10-01"
+  },
+  "66905195": {
+   "fragment_id": "58600696",
+   "type": 11,
+   "heading": "Artigo 17.º — Extinção do Fundo de Reestruturação do Sector Solidário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Extinção do Fundo de Reestruturação do Sector Solidário\n\n1 - O FRSS extingue-se quando, por qualquer causa, se esgotar a sua finalidade, devendo proceder-se à liquidação do respetivo património.\n\n2 - O saldo apurado, na liquidação do FRSS, reverte a favor das entidades participantes, na proporção das respetivas participações."
+  },
+  "66905196": {
+   "fragment_id": "58600697",
+   "type": 11,
+   "heading": "Artigo 18.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regulamentação\n\n1 - As matérias relativas à operacionalização do funcionamento do FRSS e à política de investimento são objeto de regulamentação por portaria do membro do Governo responsável pelas áreas da solidariedade e da segurança social, no prazo de 30 dias a contar da data de entrada em vigor do presente decreto-lei.\n\n2 - A portaria referida no número anterior estabelece ainda, designadamente, os critérios de acesso aos apoios a conceder pelo FRSS, os termos e as condições de concessão dos apoios e dos respetivos reembolsos."
+  },
+  "66905197": {
+   "fragment_id": "58600698",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "66905198": {
+   "fragment_id": "58600699",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de novembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 20 de dezembro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de dezembro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "75620835": {
+   "fragment_id": "58600685",
+   "type": 11,
+   "heading": "Artigo 6.º — Capital",
+   "in_force_from": "2016-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 6.º — Capital\n\n1 - O capital do FRSS é constituído por uma comparticipação financeira entregue pelas entidades participantes.\n\n2 - Para garantir uniformidade e equidade, o valor da comparticipação financeira prevista no número anterior, é aferido em função de uma percentagem calculada com referência ao valor dos acordos de cooperação celebrados com o Instituto da Segurança Social, I. P.\n\n3 - A percentagem referida no número anterior é estabelecida por portaria do membro do Governo responsável pelas áreas da solidariedade e da segurança social, após acordo com a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas e a União das Mutualidades Portuguesas.\n\n4 - Do acordo a que se refere o número anterior pode resultar uma atualização de 0,00 %, não sendo nesse caso necessária a publicação da respetiva portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "75620836": {
+   "fragment_id": "58600687",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas do Fundo de Reestruturação do Sector Solidário",
+   "in_force_from": "2016-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 8.º — Despesas do Fundo de Reestruturação do Sector Solidário\n\n1 - Constituem despesas de funcionamento do FRSS as despesas de administração e gestão e outras previstas em sede de regulamento interno, nomeadamente as despesas suportadas pelas entidades identificadas nas alíneas d) a f) do n.º 2 do artigo 11.º com as atividades previstas no artigo 16.º\n\n2 - As despesas referidas no número anterior não podem ultrapassar, em cada ano, 3 % do ativo líquido do fundo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "75620837": {
+   "fragment_id": "58600690",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselho de gestão",
+   "in_force_from": "2016-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 11.º — Conselho de gestão\n\n1 - O FRSS é gerido por um conselho de gestão, de composição paritária, composto por um presidente, um vice-presidente e 4 vogais.\n\n2 - O conselho de gestão integra:\n\na) Um representante do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), que preside.\n\nb) Um representante do conselho diretivo do Instituto da Segurança Social, I. P., que detém as funções de vice-presidente;\n\nc) Um representante da Direção-Geral da Segurança Social;\n\nd) Um representante da Confederação Nacional das Instituições de Solidariedade;\n\ne) Um representante da União das Misericórdias Portuguesas;\n\nf) Um representante da União das Mutualidades Portuguesas.\n\n3 - O presidente do FRSS é designado pelo membro do Governo responsável pela área da segurança social, de entre os membros do conselho diretivo do IGFSS, I. P.\n\n4 - Por cada membro efetivo é também designado um membro suplente.\n\n5 - Cabe às entidades indicadas no n.º 2 designar os respetivos representantes.\n\n6 - Os membros do conselho de gestão referidos nas alíneas d) a f) do n.º 2 são designados por um período de três anos.\n\n7 - O presidente do conselho de gestão tem voto de qualidade.\n\n8 - A organização e o funcionamento do conselho de gestão regem-se pelo disposto no respetivo regulamento interno.\n\n9 - Os membros do conselho de gestão não auferem qualquer remuneração pelo exercício das suas funções.\n\n10 - O apoio técnico e administrativo ao FRSS e ao conselho de gestão é prestado diretamente pelas entidades identificadas nas alíneas d) a f) do n.º 2, nos termos a definir no regulamento interno.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "75620838": {
+   "fragment_id": "58600695",
+   "type": 11,
+   "heading": "Artigo 16.º — Acompanhamento das candidaturas e entidades apoiadas",
+   "in_force_from": "2016-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 16.º — Acompanhamento das candidaturas e entidades apoiadas\n\n1 - As entidades identificadas nas alíneas d) a f) do n.º 2 do artigo 11.º, prestam apoio técnico:\n\na) Na formalização e instrução das candidaturas;\n\nb) No acompanhamento dos planos de reestruturação das entidades apoiadas.\n\n2 - Para os efeitos do número anterior as entidades apoiadas pelo FRSS devem prestar toda a informação que se revele necessária.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "122867476": {
+   "fragment_id": "58600685",
+   "type": 11,
+   "heading": "Artigo 6.º — Capital",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 6.º — Capital\n\n1 - O capital do FRSS é constituído por uma comparticipação financeira entregue pelas entidades participantes.\n\n2 - Para garantir uniformidade e equidade, o valor da comparticipação financeira prevista no número anterior, é aferido em função de uma percentagem calculada com referência ao valor dos acordos de cooperação celebrados com o Instituto da Segurança Social, I. P.\n\n3 - A percentagem referida no número anterior é estabelecida por portaria do membro do Governo responsável pela área da solidariedade e segurança social, após acordo com as entidades representativas das instituições de solidariedade social, previstas no n.º 3 do artigo 13.º do Decreto-Lei n.º 120/2015, de 30 de junho, na sua redação atual.\n\n4 - Do acordo a que se refere o número anterior pode resultar uma atualização de 0,00 %, não sendo nesse caso necessária a publicação da respetiva portaria.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "122867477": {
+   "fragment_id": "58600687",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas do Fundo de Reestruturação do Sector Solidário",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 8.º — Despesas do Fundo de Reestruturação do Sector Solidário\n\n1 - Constituem despesas de funcionamento do FRSS as despesas de administração e gestão e outras previstas em sede de regulamento interno, nomeadamente as despesas suportadas pelas entidades identificadas na alínea d) do n.º 2 do artigo 11.º com as atividades previstas no artigo 16.º\n\n2 - As despesas referidas no número anterior não podem ultrapassar, em cada ano, 3 % do ativo líquido do fundo.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "122867478": {
+   "fragment_id": "58600690",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselho de gestão",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 11.º — Conselho de gestão\n\n1 - O FRSS é gerido por um conselho de gestão, de composição paritária, composto por um presidente, um vice-presidente e seis vogais.\n\n2 - O conselho de gestão integra:\n\na) Um representante do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), que preside.\n\nb) Dois representantes do conselho diretivo do Instituto da Segurança Social, I. P., exercendo, um deles, as funções de vice-presidente;\n\nc) Um representante da Direção-Geral da Segurança Social;\n\nd) Um representante de cada uma das entidades representativas das instituições sociais, previstas no n.º 3 do artigo 13.º do Decreto-Lei n.º 120/2015, de 30 de junho, na sua redação atual;\n\ne) [Revogada];\n\nf) [Revogada].\n\n3 - Os membros do conselho de gestão referidos nas alíneas a) a c) do número anterior são designados pelo membro do Governo responsável pela área da solidariedade e segurança social.\n\n4 - Por cada membro efetivo é também designado um membro suplente.\n\n5 - Cabe às entidades indicadas no n.º 2 designar os respetivos representantes.\n\n6 - Os membros do conselho de gestão referidos na alínea d) do n.º 2 são designados por um período de três anos.\n\n7 - O presidente do conselho de gestão tem voto de qualidade.\n\n8 - A organização e o funcionamento do conselho de gestão regem-se pelo disposto no respetivo regulamento interno.\n\n9 - Os membros do conselho de gestão não auferem qualquer remuneração pelo exercício das suas funções.\n\n10 - O apoio técnico e administrativo ao FRSS e ao conselho de gestão é prestado pelas entidades identificadas na alínea d) do n.º 2, nos termos a definir no regulamento interno.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  },
+  "122867479": {
+   "fragment_id": "58600691",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do conselho de gestão",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 12.º — Competências do conselho de gestão\n\nCompete ao conselho de gestão:\n\na) Aprovar o regulamento interno;\n\nb) Aprovar o plano de atividades e o orçamento;\n\nc) Aprovar o relatório de atividades, o relatório de contas e as demonstrações financeiras;\n\nd) Acompanhar as atividades do FRSS, apresentando ao presidente propostas, recomendações e pedidos de esclarecimento que entender convenientes, bem como propor a adoção de medidas que considere necessárias à realização dos seus fins;\n\ne) Decidir sobre os pedidos de apoio a conceder no âmbito do FRSS, às IPSS e equiparadas;\n\nf) Definir os critérios de avaliação e de acompanhamento da execução dos planos de reestruturação das entidades apoiadas pelo FRSS.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122867480": {
+   "fragment_id": "58600693",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do fiscal único",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 14.º — Competências do fiscal único\n\nCompete ao fiscal único:\n\na) Acompanhar a gestão financeira do FRSS;\n\nb) Emitir parecer sobre o orçamento, o relatório de contas e as demonstrações financeiras;\n\nc) Fiscalizar a execução da contabilidade do FRSS e o cumprimento dos normativos aplicáveis, informando o conselho de gestão de qualquer anomalia detetada;\n\nd) Solicitar ao conselho de gestão reunião conjunta dos dois órgãos, quando, no âmbito das suas competências, o entender;\n\ne) Pronunciar-se sobre qualquer assunto de interesse para o FRSS, que seja submetido à sua apreciação pelo presidente do conselho de gestão;\n\nf) Elaborar relatório anual sobre a ação fiscalizadora exercida.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122867481": {
+   "fragment_id": "58600695",
+   "type": 11,
+   "heading": "Artigo 16.º — Acompanhamento das candidaturas e entidades apoiadas",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+   ],
+   "markdown": "###### Artigo 16.º — Acompanhamento das candidaturas e entidades apoiadas\n\n1 - As entidades identificadas na alínea d) do n.º 2 do artigo 11.º prestam apoio técnico no acompanhamento dos planos de reestruturação das entidades apoiadas.\n\n2 - Para os efeitos do número anterior as entidades apoiadas pelo FRSS devem prestar toda a informação que se revele necessária.\n\n3 - Os encargos com o apoio técnico prestado pelas entidades identificadas na alínea d) do n.º 2 do artigo 11.º e pelo gestor do processo com as atividades de acompanhamento dos planos de reestruturação, no alargamento excecional do prazo por mais quatro anos de execução, são suportados pelas entidades apoiadas.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169), em vigor a partir de 2016-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2015 - Diário da República n.º 64/2015, Série I de 2015-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092), em vigor a partir de 2015-04-06"
+  }
+ }
+}

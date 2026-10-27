@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:946246072:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso-extrato/2025-1178579075",
+ "dre_path": "/dr/detalhe/aviso-extrato/28396-2025-946246072",
+ "source_lastmod": "2026-10-09",
+ "versions": [
+  {
+   "date": "2025-11-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1178580775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1178580775": {
+   "fragment_id": "1178579175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Presidente da República decreta, nos termos do artigo 33.º, n.º 1, do Decreto-Lei n.º 316/2002, de 27 de dezembro, o seguinte:\n\nÉ concedida ao Sargento-Mor Operador de Comunicações, NIP 064957-A, Paulo Jorge Pereira Fernandes, a Medalha de Prata de Serviços Distintos."
+  }
+ }
+}

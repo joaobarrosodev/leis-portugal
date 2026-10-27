@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:414038:por
+title: Portaria n.º 600/73
+short_title: null
+summary: Autoriza a concessão de uma coutada comunitária a um conjunto de terrenos situados na freguesia de Nogueira, concelho
+  de Bragança
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Direcção-Geral dos Serviços Florestais e Aquícolas - Serviço
+  de Inspecção da Caça e Pesca
+proposing_entity: null
+official_number: 600/73
+official_date: null
+publication_date: '1973-09-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 208/1973, Série I de 1973-09-05
+  number: '208'
+  series: I
+  supplement: null
+  pages: 1582 - 1582
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/09/20800/15821582.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '414038'
+  dre_path: /dr/detalhe/portaria/600-1973-414038
+  internal: pt:dre:414038:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/600-1973-414038
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/600-1973-414038
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:10:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d44c50e9fda855c15e067c49859b4b58757e1272a2e7195892c40ecdc81929d5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:10:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:389203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676029:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:10:41Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 600/73
+
+de 5 de Setembro
+
+Com fundamento no disposto na alínea e) do n.º 1 do artigo 116.º e artigo 118.º do Decreto n.º 47847, de 14 de Agosto de 1967, com a redacção dada pelo [Decreto-Lei n.º 231/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1971-643949), de 28 de Maio, e na [Portaria n.º 426/72](https://diariodarepublica.pt/dr/detalhe/portaria/426-1972-676029), de 3 de Agosto, e no pedido formulado pela Junta de Freguesia de Nogueira, do concelho de Bragança, para a constituição de uma coutada comunitária em terrenos pertencentes a diversos proprietários, obtido o consentimento destes:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, o seguinte:
+
+1.º É autorizada a concessão de uma coutada comunitária (Coutada Comunitária de Nogueira) a um conjunto de terrenos, com a área total de 1194 ha, situados nos limites da freguesia de Nogueira, do concelho de Bragança, pertencentes a diversos proprietários.
+
+2.º Esta coutada será sinalizada pela forma prevista na [Portaria n.º 23006](https://diariodarepublica.pt/dr/detalhe/portaria/23006-1967-389203), de 9 de Novembro de 1967, e titulada por alvará do Serviço de Inspecção da Caça e Pesca.
+
+Ministério da Economia, 16 de Agosto de 1973. - O Secretário de Estado da Agricultura, José Eduardo Mendes Ferrão.

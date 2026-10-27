@@ -1,0 +1,618 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0036:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0036-20120408",
+ "dre_path": null,
+ "source_lastmod": "2012-04-08",
+ "versions": [
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "32004L0036",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ec045a5f3faa8d75",
+    "1d427ba07335a29c",
+    "619b959b0a434b58",
+    "1028dbb98bdefcf5",
+    "2238787c0c6e14fc",
+    "41e51b496696a442",
+    "c530a9305e9a4199",
+    "b1d4d037e0f6e095",
+    "f7e9d1447ded35b4",
+    "05ccf70cf5a0e89b",
+    "71daf50939b1dde6",
+    "2b3350faab3dc738",
+    "774ef1054d692229",
+    "22951fde727c9305",
+    "0bf0a80beb55e196",
+    "e43afed48a55b5df",
+    "1f92a61c4046ea35",
+    "19b7ba8b65de9271"
+   ]
+  },
+  {
+   "date": "2008-04-20",
+   "future": false,
+   "celex": "02004L0036-20080420",
+   "acts": [
+    {
+     "id": "eu:celex:32005R2111:por",
+     "title": "REGULAMENTO (CE) N. o 2111/2005 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de Dezembro de 2005",
+     "published": null,
+     "celex": "32005R2111"
+    },
+    {
+     "id": "eu:celex:32008L0049:por",
+     "title": "DIRECTIVA 2008/49/CE DA COMISSÃO Texto relevante para efeitos do EEE de 16 de Abril de 2008",
+     "published": null,
+     "celex": "32008L0049"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 15.º",
+    "Altera ANEXO II",
+    "Adita ANEXO I",
+    "Adita Manual de procedimentos CE para as inspecções SAFA na plataforma de estacionamento — Elementos centrais",
+    "Adita 1. INSTRUÇÕES GERAIS",
+    "Adita 2. QUALIFICAÇÕES DOS INSPECTORES",
+    "Adita 3. NORMAS",
+    "Adita 4. PROCESSO DE INSPECÇÃO",
+    "Adita 5. CATEGORIZAÇÃO DAS CONSTATAÇÕES",
+    "Adita 6. ACÇÕES DE SEGUIMENTO",
+    "Adita Apenso 1",
+    "Adita Relatório da inspecção SAFA na plataforma de estacionamento",
+    "Adita Apenso 2",
+    "Adita Formulário do certificado de inspecção",
+    "Adita Notas",
+    "Suprime Artigo 9.º — Imposição de uma proibição ou de condições de exploração",
+    "Suprime ANEXO I — >PIC FILE= \"L_2004143PT.008202.TIF\">"
+   ],
+   "fragments": [
+    "9d0788aa16d78a2d",
+    "430c87cc031f861d",
+    "a44d3f4c8cd88f0d",
+    "f88e5b4e1ee05aa4",
+    "4dba3aac829801cd",
+    "ebd402627fe06ac9",
+    "5ce09efe098018f2",
+    "b1d4d037e0f6e095",
+    "a223321cd0368365",
+    "e7ecece99af496e1",
+    "2b3350faab3dc738",
+    "946930a776524298",
+    "4a8a4d2b0342213a",
+    "2cb12b4a6549ee99",
+    "47d94ab2eec85508",
+    "d664376e2a8dcecd",
+    "852174729551523b",
+    "37690dd0b19047b8",
+    "24590feefcc9c207",
+    "018729392d4ee2dc",
+    "192505e251a1ffdb",
+    "5bd2b74801d19188",
+    "99db8fcc6aa8127b",
+    "874d7e4ba28f1147",
+    "630c7e041a0b09ee",
+    "c6dec92ad2052b88",
+    "0f5fabfdd6699e70",
+    "7a720e67ab444bd5",
+    "73cd7295807a2c72"
+   ]
+  },
+  {
+   "date": "2009-08-07",
+   "future": false,
+   "celex": "02004L0036-20090807",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0596:por",
+     "title": "REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009",
+     "published": null,
+     "celex": "32009R0596"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º — Protecção e divulgação das informações",
+    "Altera Artigo 8.º — Melhoria da segurança e medidas de execução",
+    "Altera 2. QUALIFICAÇÕES DOS INSPECTORES",
+    "Altera Notas",
+    "Adita Artigo 10.º",
+    "Adita Artigo 12.º",
+    "Suprime Artigo 10.º — Comité",
+    "Suprime Artigo 12.º — Alteração dos Anexos"
+   ],
+   "fragments": [
+    "9d0788aa16d78a2d",
+    "430c87cc031f861d",
+    "a44d3f4c8cd88f0d",
+    "f88e5b4e1ee05aa4",
+    "4dba3aac829801cd",
+    "ebd402627fe06ac9",
+    "6c46565d1bbb6a76",
+    "b1d4d037e0f6e095",
+    "0f67cc3141225ad7",
+    "b14d930e1e692044",
+    "2b3350faab3dc738",
+    "e1af62175e57c768",
+    "4a8a4d2b0342213a",
+    "2cb12b4a6549ee99",
+    "47d94ab2eec85508",
+    "d664376e2a8dcecd",
+    "852174729551523b",
+    "37690dd0b19047b8",
+    "24590feefcc9c207",
+    "ecb366d59e0c863b",
+    "192505e251a1ffdb",
+    "5bd2b74801d19188",
+    "99db8fcc6aa8127b",
+    "874d7e4ba28f1147",
+    "630c7e041a0b09ee",
+    "c6dec92ad2052b88",
+    "0f5fabfdd6699e70",
+    "7a720e67ab444bd5",
+    "18513d9272eae02e"
+   ]
+  },
+  {
+   "date": "2012-04-08",
+   "future": false,
+   "celex": "02004L0036-20120408",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Âmbito e objectivo",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Recolha de informações",
+    "Suprime Artigo 4.º — Inspecção na plataforma de estacionamento",
+    "Suprime Artigo 5.º — Intercâmbio de informações",
+    "Suprime Artigo 6.º — Protecção e divulgação das informações",
+    "Suprime Artigo 7.º — Imobilização de aeronaves",
+    "Suprime Artigo 8.º — Melhoria da segurança e medidas de execução",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º — Transposição",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º — Relatório",
+    "Suprime Artigo 14.º — Entrada em vigor",
+    "Suprime Artigo 15.º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime Manual de procedimentos CE para as inspecções SAFA na plataforma de estacionamento — Elementos centrais",
+    "Suprime 1. INSTRUÇÕES GERAIS",
+    "Suprime 2. QUALIFICAÇÕES DOS INSPECTORES",
+    "Suprime 3. NORMAS",
+    "Suprime 4. PROCESSO DE INSPECÇÃO",
+    "Suprime 5. CATEGORIZAÇÃO DAS CONSTATAÇÕES",
+    "Suprime 6. ACÇÕES DE SEGUIMENTO",
+    "Suprime Apenso 1",
+    "Suprime Relatório da inspecção SAFA na plataforma de estacionamento",
+    "Suprime Apenso 2",
+    "Suprime Formulário do certificado de inspecção",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "744d5f5f96f14e81"
+   ]
+  }
+ ],
+ "fragments": {
+  "ec045a5f3faa8d75": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2004/36/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa à segurança das aeronaves de países terceiros que utilizem aeroportos comunitários** *Jornal Oficial nº L 143 de 30/04/2004 p. 0076 - 0086*\n\nDirectiva 2004/36/CE do Parlamento Europeu e do Conselho\n\nde 21 de Abril de 2004\n\nrelativa à segurança das aeronaves de países terceiros que utilizem aeroportos comunitários\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.o 2 do artigo 80.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social Europeu(2),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.o do Tratado(3), à luz do projcto comum aprovado pelo Comité de Conciliação em 26 de fevereiro de 2004,\n\nConsiderando o seguinte:\n\n(1) A resolução sobre a catástrofe aérea ocorrida ao largo da costa da República Dominicana, aprovada pelo Parlamento Europeu em 15 de Fevereiro de 1996(4), salienta a necessidade de a Comunidade adoptar uma posição mais activa e desenvolver uma estratégia para aumentar a segurança dos seus cidadãos que viajam de avião ou vivem perto de aeroportos.\n\n(2) A Comissão apresentou uma comunicação ao Parlamento Europeu e ao Conselho intitulada \"Definição de uma Estratégia Comunitária para a Melhoria da Segurança da Aviação\".\n\n(3) A referida comunicação indica claramente que a segurança pode ser efectivamente melhorada se se garantir que as aeronaves cumprem plenamente as normas de segurança internacionais constantes dos anexos à Convenção sobre a Aviação Civil Internacional, assinada em Chicago em 7 de Dezembro de 1944 (\"Convenção de Chicago\").\n\n(4) A fim de estabelecer e manter um nível elevado e uniforme de segurança da aviação civil na Europa, deverá adoptar-se uma abordagem harmonizada da aplicação efectiva das normas internacionais de segurança na Comunidade. Para esse efeito, torna-se necessário harmonizar as regras e os procedimentos das inspecções nas plataformas de estacionamento efectuadas às aeronaves de países terceiros que aterram em aeroportos situados nos Estados-Membros.\n\n(5) Uma harmonização das posições dos Estados-Membros no que respeita ao cumprimento efectivo das normas internacionais de segurança evitará distorções da concorrência. Uma atitude comum em relação às aeronaves de países terceiros que não respeitem as normas de segurança internacionais reverterá a favor da posição dos Estados-Membros.\n\n(6) As aeronaves que aterrem em aeroportos situados nos Estados-Membros serão sujeitas a inspecção sempre que existam suspeitas de incumprimento das normas de segurança internacionais.\n\n(7) Mesmo na ausência de qualquer suspeita particular, as inspecções também podem ser efectuadas de acordo com um procedimento de inspecções aleatórias às aeronaves, desde que seja respeitado o direito comunitário e internacional. Em especial, essas inspecções devem ser efectuadas de um modo não discriminatório.\n\n(8) As inspecções poderão ser intensificadas no caso de aeronaves nas quais já tenham sido anteriormente e por diversas vezes detectadas deficiências ou de aeronaves pertencentes a companhias aéreas cujas aeronaves tenham frequentemente atraído as atenções.\n\n(9) As informações recolhidas em cada Estado-Membro devem ser postas à disposição dos outros Estados-Membros e da Comissão, a fim de garantir uma verificação, tão eficaz quanto possível, do cumprimento das normas de segurança internacionais pelas aeronaves de países terceiros.\n\n(10) Por estas razões, é necessário estabelecer, a nível comunitário, um procedimento de avaliação das aeronaves de países terceiros e os correspondentes mecanismos de cooperação entre as autoridades competentes dos Estados-Membros, a fim de proceder ao intercâmbio de informações.\n\n(11) A natureza sensível das informações relacionadas com a segurança exige que os Estados-Membros tomem as medidas necessárias, nos termos da respectiva legislação nacional, para garantir a devida confidencialidade das informações recebidas.\n\n(12) Sem prejuízo do direito do público a aceder aos documentos da Comissão, previsto no Regulamento (CE) n.o 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão(5), esta deverá adoptar medidas para a divulgação dessa informação às partes interessadas, bem como sobre as condições a que está sujeita.\n\n(13) Quando as deficiências identificadas constituam claramente um risco para a segurança, as aeronaves em relação às quais seja necessária essa acção correctiva devem ser imobilizadas até ter sido rectificado o incumprimento das normas de segurança internacionais.\n\n(14) As instalações do aeroporto em que tenha lugar a inspecção podem ter características que obriguem a autoridade competente a autorizar a aeronave a dirigir-se a um aeroporto apropriado, desde que estejam reunidas condições para que essa transferência se efectue em condições de segurança.\n\n(15) Para desempenhar as funções que lhe incumbem nos termos da presente directiva, a Comissão deverá ser assistida pelo comité instituído pelo artigo 12.o do Regulamento (CEE) n.o 3922/91 do Conselho, de 16 de Dezembro de 1991, relativo à harmonização de normas técnicas e dos procedimentos administrativos no sector da aviação civil(6).\n\n(16) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(7).\n\n(17) A Comissão deve colocar à disposição do Comité instituído pelo artigo 12.o do Regulamento (CEE) n.o 3922/91 as estatísticas e informações reunidas em cumprimento de outras medidas comunitárias relativas a incidentes específicos que possam ser importantes para revelar deficiências que representem um perigo para a segurança da aviação civil.\n\n(18) É necessário ter em conta a cooperação e o intercâmbio de informações verificados no âmbito da organização das Autoridades Comuns da Aviação (JAA) e da Conferência Europeia da Aviação Civil (CEAC). Além disso, devem utilizar-se tanto quanto possível as competências existentes em matéria de procedimentos de avaliação da segurança de aeronaves estrangeiras (SAFA).\n\n(19) Na política de segurança da aviação civil, deverá ser tido em conta o papel da Agência Europeia da Segurança Aérea (EASA), nomeadamente no que diz respeito à criação de procedimentos destinados a estabelecer e manter um nível elevado e uniforme de segurança da aviação civil na Europa.\n\n(20) Numa Declaração Conjunta dos Ministros dos Negócios Estrangeiros dos dois países, o Reino de Espanha e o Reino Unido acordaram, em 2 de Dezembro de 1987, em Londres, em disposições tendentes à intensificação da cooperação em matéria de utilização do aeroporto de Gibraltar que, todavia, ainda não começaram a ser aplicadas,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "1d427ba07335a29c": {
+   "fragment_id": "Artigo 1.º — Âmbito e objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objectivo\n\n1. No contexto da estratégia global da Comunidade para garantir e manter um nível de segurança da aviação civil elevado e uniforme em toda a Europa, a presente directiva introduz uma abordagem harmonizada para o cumprimento efectivo das normas internacionais de segurança na Comunidade, através da harmonização das regras e dos procedimentos das inspecções nas plataformas de estacionamento de aeronaves de países terceiros que aterrem em aeroportos situados nos Estados-Membros.\n\n2. A presente directiva não prejudica o direito de os Estados-Membros efectuarem inspecções não abrangidas pelo seu âmbito de aplicação, e de imobilizarem, proibirem ou sujeitarem a determinadas condições as aeronaves que aterrem nos seus aeroportos, de acordo com o direito comunitário e internacional.\n\n3. Ficam excluídas do âmbito de aplicação da presente directiva as aeronaves de Estado, tal como definidas na Convenção de Chicago, e as aeronaves com um peso máximo à descolagem inferior a 5700 kg que não estejam envolvidas em operações comerciais de transporte aéreo.\n\n4. A aplicação da presente directiva ao aeroporto de Gibraltar não prejudica as posições jurídicas do Reino de Espanha e do Reino Unido no que se refere ao litígio relativo à sua soberania sobre o território em que aquele aeroporto se situa.\n\n5. A aplicação da presente directiva ao aeroporto de Gibraltar fica suspensa até à data de aplicação do regime constante da Declaração Conjunta dos Ministros os Negócios Estrangeiros do Reino de Espanha e do Reino Unido de 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido devem informar o Conselho da referida data de aplicação."
+  },
+  "619b959b0a434b58": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) \"Imobilização\", a proibição formal de descolagem de uma aeronave do aeroporto e a tomada de todas as medidas necessárias para esse efeito;\n\nb) \"Normas de segurança internacionais\", as normas de segurança contidas na Convenção de Chicago e nos respectivos anexos em vigor no momento da inspecção;\n\nc) \"Inspecção na plataforma de estacionamento\", a inspecção das aeronaves de países terceiros nos termos do Anexo II;\n\nd) \"Aeronave de país terceiro\", uma aeronave que não é utilizada ou explorada sob o controlo da autoridade competente de um Estado-Membro."
+  },
+  "1028dbb98bdefcf5": {
+   "fragment_id": "Artigo 3.º — Recolha de informações",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Recolha de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Recolha de informações\n\nOs Estados-Membros devem criar um mecanismo destinado a recolher todas as informações consideradas úteis para a realização do objectivo definido no artigo 1.o, incluindo:\n\na) Informações de segurança importantes, acessíveis, em especial, através de:\n\n- relatórios dos pilotos,\n\n- relatórios dos organismos de manutenção,\n\n- relatórios de incidentes,\n\n- outros organismos, independentes das autoridades competentes dos Estados-Membros,\n\n- qeixas;\n\nb) Informações sobre acções subsequentes a uma inspecção na plataforma de estacionamento, nomeadamente:\n\n- aeronaves imobilizadas,\n\n- proibição de entrada no Estado-Membro da aeronave ou do operador,\n\n- medidas de correcção necessárias,\n\n- contactos com a autoridade competente do operador;\n\nc) Informação subsequente relativa ao operador, nomeadamente:\n\n- medidas de correcção aplicadas,\n\n- recorrência de discrepâncias.\n\nEstas informações devem ser registadas num formulário de relatório-tipo que contenha os elementos descritos, conforme previsto no Anexo I."
+  },
+  "2238787c0c6e14fc": {
+   "fragment_id": "Artigo 4.º — Inspecção na plataforma de estacionamento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Inspecção na plataforma de estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Inspecção na plataforma de estacionamento\n\n1. Cada Estado-Membro deve tomar as medidas necessárias para garantir que as aeronaves de países terceiros em relação às quais existam suspeitas de incumprimento das normas de segurança internacionais e que aterrem num dos seus aeroportos abertos ao tráfego aéreo internacional sejam sujeitas a inspecção na plataforma de estacionamento. Na aplicação destes procedimentos, a autoridade competente deve prestar especial atenção às aeronaves:\n\n- em relação às quais tenham recebido informações que indiquem uma manutenção deficiente ou defeitos ou danos óbvios;\n\n- que tenham sido detectadas a realizar manobras anómalas após a sua entrada no espaço aéreo de um Estado-Membro, suscitando por esse facto sérias apreensões em matéria de segurança;\n\n- que tenham sido anteriormente sujeitas a inspecção na plataforma de estacionamento em que tenham sido detectadas deficiências que tenham suscitado sérias apreensões quanto ao cumprimento das normas de segurança internacionais e sempre que o Estado-Membro receie que as deficiências possam não ter sido corrigidas;\n\n- em relação às quais haja provas de que as autoridades competentes do país de registo nem sempre procedam aos controlos de segurança adequados; ou\n\n- cujo operador suscite apreensões, decorrentes das informações recolhidas nos termos do artigo 3.o, ou sempre que tenham sido detectadas deficiências numa inspecção na plataforma de estacionamento efectuada noutra aeronave utilizada pelo mesmo operador.\n\n2. Os Estados-Membros podem estabelecer regras no sentido de realizar inspecções na plataforma de estacionamento segundo um processo aleatório sem que existam suspeitas particulares, desde que essas regras cumpram o direito comunitário e internacional. Essas inspecções não deverão, porém, ser efectuadas de forma discriminatória.\n\n3. Os Estados-Membros devem garantir a execução de inspecções adequadas na plataforma de estacionamento e de outras medidas de vigilância decididas nos termos do n.o 3 do artigo 8.o.\n\n4. A inspecção na plataforma de estacionamento deve ser realizada nos termos do Anexo II, utilizando um formulário de relatório de inspecção na plataforma de estacionamento que inclua, pelo menos, os elementos enumerados no formulário constante desse mesmo Anexo II. Após a conclusão da inspecção na plataforma de estacionamento, o comandante da aeronave, ou o representante do operador desta última, deve ser informado dos resultados da inspecção na plataforma de estacionamento e, se tiverem sido detectadas deficiências significativas, o relatório será enviado ao operador da aeronave e às autoridades competentes responsáveis.\n\n5. Ao realizar uma inspecção na plataforma de estacionamento ao abrigo da presente directiva, a autoridade competente responsável envidará todos os esforços para evitar um atraso excessivo à aeronave inspeccionada."
+  },
+  "41e51b496696a442": {
+   "fragment_id": "Artigo 5.º — Intercâmbio de informações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Intercâmbio de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Intercâmbio de informações\n\n1. As autoridades competentes dos Estados-Membros devem participar num intercâmbio de informações. Essas informações devem, a pedido da autoridade competente, incluir uma lista dos aeroportos do Estado-Membro em causa abertos ao tráfego internacional, com a indicação, por ano civil, do número de inspecções na plataforma de estacionamento efectuadas e do número de movimentos de aeronaves de países terceiros em cada aeroporto dessa lista.\n\n2. Todos os relatórios-tipo referidos no artigo 3.o e os relatórios de inspecção na plataforma de estacionamento mencionados no n.o 4 do artigo 4.o devem ser rapidamente colocados à disposição da Comissão e, a seu pedido, das autoridades competentes dos Estados-Membros e da Agência Europeia para a Segurança da Aviação (AESA).\n\n3. Sempre que um relatório-tipo revelar a existência de um risco potencial para a segurança ou um relatório de inspecção na plataforma de estacionamento revelar que uma determinada aeronave não cumpre as normas de segurança internacionais e é uma ameaça potencial para a segurança, esse relatório será enviado sem demora a cada uma das autoridades competentes dos Estados-Membros e à Comissão."
+  },
+  "c530a9305e9a4199": {
+   "fragment_id": "Artigo 6.º — Protecção e divulgação das informações",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Protecção e divulgação das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Protecção e divulgação das informações\n\n1. Nos termos da sua legislação nacional, os Estados-Membros devem tomar as medidas necessárias para garantir a confidencialidade adequada das informações por eles recebidas em aplicação do artigo 5.o e devem utilizá-las exclusivamente para efeitos da presente directiva.\n\n2. A Comissão deve publicar anualmente um relatório de informação agregada acessível ao público e às partes interessadas do sector, que conterá uma análise de todas as informações recebidas nos termos do artigo 5.o.Essa análise será simples, compreensível e indicará se existe um mais elevado risco de segurança para os passageiros de tranportes aéreos Na mesma análise, será suprimida a identificação da fonte das informações.\n\n3. Sem prejuízo do direito de acesso do público aos documentos da Comissão previsto no Regulamento (CE) n.o 1049/2001, a Comissão deve aprovar, por iniciativa própria e nos termos do n.o 2 do artigo 10.o, medidas relativas à divulgação das informações referidas no n.o 1 às partes interessadas, e das condições conexas. Essas medidas, que podem ser gerais ou individuais, devem basear-se na necessidade:\n\n- de fornecer às pessoas e organizações a informação de que necessitam para aumentarem a segurança na aviação civil,\n\n- de limitar a divulgação da informação ao estritamente necessário para os fins dos seus utilizadores, para se assegurar a confidencialidade adequada dessas informações.\n\n4. Sempre que as informações relativas a deficiências de aeronaves forem fornecidas voluntariamente, deve ser suprimida a identificação da fonte dessas informações, nos relatórios sobre as inspecções na plataforma de estacionamento mencionados no n.o 4 do artigo 5.o."
+  },
+  "b1d4d037e0f6e095": {
+   "fragment_id": "Artigo 7.º — Imobilização de aeronaves",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Imobilização de aeronaves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Imobilização de aeronaves\n\n1. Sempre que o incumprimento das normas de segurança internacionais represente claramente um risco para a segurança do voo, devem ser tomadas medidas pelo operador da aeronave para corrigir as deficiências antes do voo. Se a autoridade competente que tenha procedido à inspecção na plataforma de estacionamento não estiver segura de que serão tomadas medidas de correcção antes do voo, imobilizará a aeronave até que esse risco seja eliminado e informará imediatamente as autoridades competentes do operador em causa e do Estado de registo da aeronave.\n\n2. A autoridade competente do Estado-Membro que tenha procedido à inspecção pode, em coordenação com o Estado responsável pela exploração da aeronave em causa ou com o Estado de registo dessa aeronave, estabelecer as condições em que a aeronave poderá voar com destino a um aeroporto em que essas deficiências possam ser corrigidas. Se a deficiência afectar a validade do Certificado de Aeronavegabilidade da aeronave, a imobilização só poderá ser levantada se o operador obtiver licença do Estado ou Estados que irão ser sobrevoados durante esse voo."
+  },
+  "f7e9d1447ded35b4": {
+   "fragment_id": "Artigo 8.º — Melhoria da segurança e medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Melhoria da segurança e medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Melhoria da segurança e medidas de execução\n\n1. Os Estados-Membros devem comunicar à Comissão as medidas operacionais tomadas em cumprimento dos requisitos dos artigos 3.o, 4.o e 5.o.\n\n2. Com base nas informações recolhidas ao abrigo do n.o 1, a Comissão pode adoptar, nos termos do no n.o 2 do artigo 10.o, qualquer medida adequada para facilitar a execução dos artigos 3.o, 4.o e 5.o, nomeadamente:\n\n- estabelecer uma lista das informações a recolher;\n\n- especificar o conteúdo das inspecções na plataforma de estacionamento e os respectivos procedimentos;\n\n- definir o sistema de armazenagem e divulgação de dados;\n\n- criar ou apoiar organismos encarregados da gestão ou exploração dos instrumentos necessários para a recolha e intercâmbio de informações.\n\n3. Com base nas informações recebidas ao abrigo dos artigos 3.o, 4.o e 5.o e nos termos do n.o 2 do artigo 10.o, pode ser tomada uma decisão sobre a realização da devida inspecção na plataforma de estacionamento e a adopção de outras medidas de vigilância, nomeadamente em relação a um determinado operador ou aos operadores de um determinado país terceiro, até que a autoridade competente desse país terceiro adopte medidas de correcção satisfatórias.\n\n4. A Comissão pode tomar quaisquer medidas adequadas de cooperação com países terceiros ou para os ajudar a melhorar as suas capacidades de supervisão da segurança aérea."
+  },
+  "05ccf70cf5a0e89b": {
+   "fragment_id": "Artigo 9.º — Imposição de uma proibição ou de condições de exploração",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Imposição de uma proibição ou de condições de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Imposição de uma proibição ou de condições de exploração\n\nSe um Estado-Membro decidir proibir ou impor condições à actividade de um determinado operador ou operadores de um país terceiro específico a partir dos seus aeroportos, até que a autoridade competente desse país terceiro adopte medidas de correcção satisfatórias:\n\na) Esse Estado-Membro notificará a Comissão das medidas tomadas e a Comissão transmitirá essa informação aos outros Estados-Membros;\n\nb) A Comissão pode, nos termos do n.o 3 do artigo 10.o, emitir recomendaçõese tomar as medidas que considere necessárias; pode ainda alargar as medidas notificadas ao abrigo da alínea a) a toda a Comunidade, na sequência de uma proposta apresentada nos termos do n.o 2 do artigo 10.o."
+  },
+  "71daf50939b1dde6": {
+   "fragment_id": "Artigo 10.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité\n\n1. A Comissão é assistida pelo Comité instituído pelo artigo 12.o do Regulamento (CEE) n.o 3922/91.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.o.\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE do Conselho é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.o e 7.o da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.o.\n\n4. O Comité aprovará o seu regulamento interno.\n\n5. O Comité pode, além disso, ser consultado pela Comissão sobre qualquer outra questão relativa à aplicação da presente directiva."
+  },
+  "2b3350faab3dc738": {
+   "fragment_id": "Artigo 11.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Transposição\n\nOs Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar comprimento à presente directiva o mais tardar em de 30 de Abril de 2006 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser dela acompanhadas aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros."
+  },
+  "774ef1054d692229": {
+   "fragment_id": "Artigo 12.º — Alteração dos Anexos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Alteração dos Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração dos Anexos\n\nOs Anexos da presente directiva podem ser alterados nos termos do n.o 2 do artigo 10.o."
+  },
+  "22951fde727c9305": {
+   "fragment_id": "Artigo 13.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Relatório\n\nO mais tardar em de 30 de Abril de 2008, a Comissão deve apresentarao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva, sobretudo acerca da aplicação do artigo 9.o, que terá em conta, designadamente, a evolução da situação na Comunidade e nas instâncias internacionais. Esse relatório pode ser acompanhado de propostas de revisão da presente directiva."
+  },
+  "0bf0a80beb55e196": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "e43afed48a55b5df": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 21 de Abril de 2004.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nD. Roche\n\n(1) JO C 103 E de 30.4.2002, p. 351.\n\n(2) JO C 241 de 7.10.2002, p. 33.\n\n(3) Parecer do Parlamento Europeu de 3 de Setembro de 2002 (JO C 272 E de 13.11.2003, p. 343), posição comum do Conselho de 13 de Junho de 2003 (JO C 233 E de 30.9.2003, p. 12), posição do Parlamento Europeu de 9 de Outubro de 2003 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 1 de Abril de 2004 e Decisão do Conselho de 30 de Março de 2004.\n\n(4) JO C 65 de 4.3.1996, p. 172.\n\n(5) JO L 145 de 31.5.2001, p. 43.\n\n(6) JO L 373 de 31.12.1991, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1592/2002 do Parlamento europeu e do Conselho (JO L 240 de 7.9.2002, p.1).\n\n(7) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "1f92a61c4046ea35": {
+   "fragment_id": "ANEXO I — >PIC FILE= \"L_2004143PT.008202.TIF\">",
+   "type": "divisao",
+   "heading": "ANEXO I — >PIC FILE= \"L_2004143PT.008202.TIF\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >PIC FILE= \"L_2004143PT.008202.TIF\">"
+  },
+  "19b7ba8b65de9271": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nI. A inspecção na plataforma de estacionamento deve abranger total ou parcialmente os seguintes aspectos, em função do tempo disponível:\n\n1. Verificação da existência e validade dos documentos necessários para voos internacionais, como por exemplo: certificado de registo, diário de bordo, certificado de aeronavegabilidade, licenças da tripulação, licença de rádio, lista de passageiros e de carga,...\n\n2. Verificação da conformidade da composição e qualificações da tripulação com as exigências dos Anexos 1 e 6 da Convenção de Chicago (anexos da ICAO).\n\n3. Verificação da documentação operacional (dados do voo, plano operacional de voo, diário técnico) e das preparações de voo necessárias para demonstrar que o voo foi preparado nos termos do Anexo 6 da ICAO.\n\n4. Verificação da existência e do estado dos elementos necessários para a navegação internacional, nos termos do Anexo 6 da ICAO:\n\n- certificado de transportadora aérea,\n\n- certificados de ruído e de emissões,\n\n- manual operacional (incluindo a lista de equipamentos mínimos) e manual de voo,\n\n- equipamento de segurança,\n\n- equipamento de segurança da cabina,\n\n- equipamento necessário para esse voo específico, incluindo equipamentos de comunicações de rádio e de radionavegação\n\n- registadores de dados de voo.\n\n5. Verificação da permanente conformidade do estado da aeronave e do respectivo equipamento (incluindo danos e reparações) com as normas do Anexo 8 da ICAO.\n\nII. Após a inspecção na plataforma de estacionamento, deve ser elaborado um relatório dessa inspecção que inclua a informação-tipo geral referida supra uma lista dos elementos verificados, com indicação de qualquer deficiência que tenha sido observada em relação a cada um dos elementos ou, se necessário, de eventuais observações.\n\n>PIC FILE= \"L_2004143PT.008401.TIF\">\n\n>PIC FILE= \"L_2004143PT.008501.TIF\">\n\n>PIC FILE= \"L_2004143PT.008601.TIF\">"
+  },
+  "9d0788aa16d78a2d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Abril de 2004\n\nrelativa à segurança das aeronaves de países terceiros que utilizem aeroportos comunitários"
+  },
+  "430c87cc031f861d": {
+   "fragment_id": "Artigo 1.º — Âmbito e objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objectivo\n\n1. No contexto da estratégia global da Comunidade para garantir e manter um nível de segurança da aviação civil elevado e uniforme em toda a Europa, a presente directiva introduz uma abordagem harmonizada para o cumprimento efectivo das normas internacionais de segurança na Comunidade, através da harmonização das regras e dos procedimentos das inspecções nas plataformas de estacionamento de aeronaves de países terceiros que aterrem em aeroportos situados nos Estados-Membros.\n\n2. A presente directiva não prejudica o direito de os Estados-Membros efectuarem inspecções não abrangidas pelo seu âmbito de aplicação, e de imobilizarem, proibirem ou sujeitarem a determinadas condições as aeronaves que aterrem nos seus aeroportos, de acordo com o direito comunitário e internacional.\n\n3. Ficam excluídas do âmbito de aplicação da presente directiva as aeronaves de Estado, tal como definidas na Convenção de Chicago, e as aeronaves com um peso máximo à descolagem inferior a 5 700 kg que não estejam envolvidas em operações comerciais de transporte aéreo.\n\n4. A aplicação da presente directiva ao aeroporto de Gibraltar não prejudica as posições jurídicas do Reino de Espanha e do Reino Unido no que se refere ao litígio relativo à sua soberania sobre o território em que aquele aeroporto se situa.\n\n5. A aplicação da presente directiva ao aeroporto de Gibraltar fica suspensa até à data de aplicação do regime constante da Declaração Conjunta dos Ministros os Negócios Estrangeiros do Reino de Espanha e do Reino Unido de 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido devem informar o Conselho da referida data de aplicação."
+  },
+  "a44d3f4c8cd88f0d": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Imobilização», a proibição formal de descolagem de uma aeronave do aeroporto e a tomada de todas as medidas necessárias para esse efeito;\n\nb) «Normas de segurança internacionais», as normas de segurança contidas na Convenção de Chicago e nos respectivos anexos em vigor no momento da inspecção;\n\nc) «Inspecção na plataforma de estacionamento», a inspecção das aeronaves de países terceiros nos termos do Anexo II;\n\nd) «Aeronave de país terceiro», uma aeronave que não é utilizada ou explorada sob o controlo da autoridade competente de um Estado-Membro."
+  },
+  "f88e5b4e1ee05aa4": {
+   "fragment_id": "Artigo 3.º — Recolha de informações",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Recolha de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Recolha de informações\n\nOs Estados-Membros devem criar um mecanismo destinado a recolher todas as informações consideradas úteis para a realização do objectivo definido no artigo 1.º, incluindo:\n\na) Informações de segurança importantes, acessíveis, em especial, através de:\n\n— relatórios dos pilotos,\n\n— relatórios dos organismos de manutenção,\n\n— relatórios de incidentes,\n\n— outros organismos, independentes das autoridades competentes dos Estados-Membros,\n\n— qeixas;\n\nb) Informações sobre acções subsequentes a uma inspecção na plataforma de estacionamento, nomeadamente:\n\n— aeronaves imobilizadas,\n\n— proibição de entrada no Estado-Membro da aeronave ou do operador,\n\n— medidas de correcção necessárias,\n\n— contactos com a autoridade competente do operador;\n\nc) Informação subsequente relativa ao operador, nomeadamente:\n\n— medidas de correcção aplicadas,\n\n— recorrência de discrepâncias.\n\nEstas informações devem ser registadas num formulário de relatório-tipo que contenha os elementos descritos, conforme previsto no Anexo I."
+  },
+  "4dba3aac829801cd": {
+   "fragment_id": "Artigo 4.º — Inspecção na plataforma de estacionamento",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Inspecção na plataforma de estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Inspecção na plataforma de estacionamento\n\n1.\n\nCada Estado-Membro deve tomar as medidas necessárias para garantir que as aeronaves de países terceiros em relação às quais existam suspeitas de incumprimento das normas de segurança internacionais e que aterrem num dos seus aeroportos abertos ao tráfego aéreo internacional sejam sujeitas a inspecção na plataforma de estacionamento. Na aplicação destes procedimentos, a autoridade competente deve prestar especial atenção às aeronaves:\n\n— em relação às quais tenham recebido informações que indiquem uma manutenção deficiente ou defeitos ou danos óbvios;\n\n— que tenham sido detectadas a realizar manobras anómalas após a sua entrada no espaço aéreo de um Estado-Membro, suscitando por esse facto sérias apreensões em matéria de segurança;\n\n— que tenham sido anteriormente sujeitas a inspecção na plataforma de estacionamento em que tenham sido detectadas deficiências que tenham suscitado sérias apreensões quanto ao cumprimento das normas de segurança internacionais e sempre que o Estado-Membro receie que as deficiências possam não ter sido corrigidas;\n\n— em relação às quais haja provas de que as autoridades competentes do país de registo nem sempre procedam aos controlos de segurança adequados; ou\n\n— cujo operador suscite apreensões, decorrentes das informações recolhidas nos termos do artigo 3.º, ou sempre que tenham sido detectadas deficiências numa inspecção na plataforma de estacionamento efectuada noutra aeronave utilizada pelo mesmo operador.\n\n2. Os Estados-Membros podem estabelecer regras no sentido de realizar inspecções na plataforma de estacionamento segundo um processo aleatório sem que existam suspeitas particulares, desde que essas regras cumpram o direito comunitário e internacional. Essas inspecções não deverão, porém, ser efectuadas de forma discriminatória.\n\n3. Os Estados-Membros devem garantir a execução de inspecções adequadas na plataforma de estacionamento e de outras medidas de vigilância decididas nos termos do n.º 3 do artigo 8.º.\n\n4. A inspecção na plataforma de estacionamento deve ser realizada nos termos do Anexo II, utilizando um formulário de relatório de inspecção na plataforma de estacionamento que inclua, pelo menos, os elementos enumerados no formulário constante desse mesmo Anexo II. Após a conclusão da inspecção na plataforma de estacionamento, o comandante da aeronave, ou o representante do operador desta última, deve ser informado dos resultados da inspecção na plataforma de estacionamento e, se tiverem sido detectadas deficiências significativas, o relatório será enviado ao operador da aeronave e às autoridades competentes responsáveis.\n\n5. Ao realizar uma inspecção na plataforma de estacionamento ao abrigo da presente directiva, a autoridade competente responsável envidará todos os esforços para evitar um atraso excessivo à aeronave inspeccionada."
+  },
+  "ebd402627fe06ac9": {
+   "fragment_id": "Artigo 5.º — Intercâmbio de informações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Intercâmbio de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Intercâmbio de informações\n\n1. As autoridades competentes dos Estados-Membros devem participar num intercâmbio de informações. Essas informações devem, a pedido da autoridade competente, incluir uma lista dos aeroportos do Estado-Membro em causa abertos ao tráfego internacional, com a indicação, por ano civil, do número de inspecções na plataforma de estacionamento efectuadas e do número de movimentos de aeronaves de países terceiros em cada aeroporto dessa lista.\n\n2. Todos os relatórios-tipo referidos no artigo 3.º e os relatórios de inspecção na plataforma de estacionamento mencionados no n.º 4 do artigo 4.º devem ser rapidamente colocados à disposição da Comissão e, a seu pedido, das autoridades competentes dos Estados-Membros e da Agência Europeia para a Segurança da Aviação (AESA).\n\n3. Sempre que um relatório-tipo revelar a existência de um risco potencial para a segurança ou um relatório de inspecção na plataforma de estacionamento revelar que uma determinada aeronave não cumpre as normas de segurança internacionais e é uma ameaça potencial para a segurança, esse relatório será enviado sem demora a cada uma das autoridades competentes dos Estados-Membros e à Comissão."
+  },
+  "5ce09efe098018f2": {
+   "fragment_id": "Artigo 6.º — Protecção e divulgação das informações",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Protecção e divulgação das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Protecção e divulgação das informações\n\n1. Nos termos da sua legislação nacional, os Estados-Membros devem tomar as medidas necessárias para garantir a confidencialidade adequada das informações por eles recebidas em aplicação do artigo 5.º e devem utilizá-las exclusivamente para efeitos da presente directiva.\n\n2. A Comissão deve publicar anualmente um relatório de informação agregada acessível ao público e às partes interessadas do sector, que conterá uma análise de todas as informações recebidas nos termos do artigo 5.º.Essa análise será simples, compreensível e indicará se existe um mais elevado risco de segurança para os passageiros de tranportes aéreos Na mesma análise, será suprimida a identificação da fonte das informações.\n\n3.\n\nSem prejuízo do direito de acesso do público aos documentos da Comissão previsto no Regulamento (CE) n.º 1049/2001, a Comissão deve aprovar, por iniciativa própria e nos termos do n.º 2 do artigo 10.º, medidas relativas à divulgação das informações referidas no n.º 1 às partes interessadas, e das condições conexas. Essas medidas, que podem ser gerais ou individuais, devem basear-se na necessidade:\n\n— de fornecer às pessoas e organizações a informação de que necessitam para aumentarem a segurança na aviação civil,\n\n— de limitar a divulgação da informação ao estritamente necessário para os fins dos seus utilizadores, para se assegurar a confidencialidade adequada dessas informações.\n\n4. Sempre que as informações relativas a deficiências de aeronaves forem fornecidas voluntariamente, deve ser suprimida a identificação da fonte dessas informações, nos relatórios sobre as inspecções na plataforma de estacionamento mencionados no n.º 4 do artigo 5.º."
+  },
+  "a223321cd0368365": {
+   "fragment_id": "Artigo 8.º — Melhoria da segurança e medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Melhoria da segurança e medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Melhoria da segurança e medidas de execução\n\n1. Os Estados-Membros devem comunicar à Comissão as medidas operacionais tomadas em cumprimento dos requisitos dos artigos 3.º, 4.º e 5.º.\n\n2.\n\nCom base nas informações recolhidas ao abrigo do n.º 1, a Comissão pode adoptar, nos termos do no n.º 2 do artigo 10.º, qualquer medida adequada para facilitar a execução dos artigos 3.º, 4.º e 5.º, nomeadamente:\n\n— estabelecer uma lista das informações a recolher;\n\n— especificar o conteúdo das inspecções na plataforma de estacionamento e os respectivos procedimentos;\n\n— definir o sistema de armazenagem e divulgação de dados;\n\n— criar ou apoiar organismos encarregados da gestão ou exploração dos instrumentos necessários para a recolha e intercâmbio de informações.\n\n3. Com base nas informações recebidas ao abrigo dos artigos 3.º, 4.º e 5.º e nos termos do n.º 2 do artigo 10.º, pode ser tomada uma decisão sobre a realização da devida inspecção na plataforma de estacionamento e a adopção de outras medidas de vigilância, nomeadamente em relação a um determinado operador ou aos operadores de um determinado país terceiro, até que a autoridade competente desse país terceiro adopte medidas de correcção satisfatórias.\n\n4. A Comissão pode tomar quaisquer medidas adequadas de cooperação com países terceiros ou para os ajudar a melhorar as suas capacidades de supervisão da segurança aérea."
+  },
+  "e7ecece99af496e1": {
+   "fragment_id": "Artigo 10.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comité\n\n1. A Comissão é assistida pelo Comité instituído pelo artigo 12.º do Regulamento (CEE) n.º 3922/91.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE do Conselho é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.º.\n\n4. O Comité aprovará o seu regulamento interno.\n\n5. O Comité pode, além disso, ser consultado pela Comissão sobre qualquer outra questão relativa à aplicação da presente directiva."
+  },
+  "946930a776524298": {
+   "fragment_id": "Artigo 12.º — Alteração dos Anexos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Alteração dos Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração dos Anexos\n\nOs Anexos da presente directiva podem ser alterados nos termos do n.º 2 do artigo 10.º."
+  },
+  "4a8a4d2b0342213a": {
+   "fragment_id": "Artigo 13.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Relatório\n\nO mais tardar em de 30 de Abril de 2008, a Comissão deve apresentarao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva, sobretudo acerca da aplicação do artigo 9.º, que terá em conta, designadamente, a evolução da situação na Comunidade e nas instâncias internacionais. Esse relatório pode ser acompanhado de propostas de revisão da presente directiva."
+  },
+  "2cb12b4a6549ee99": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "47d94ab2eec85508": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "37690dd0b19047b8": {
+   "fragment_id": "Manual de procedimentos CE para as inspecções SAFA na plataforma de estacionamento — Elementos centrais",
+   "type": "divisao",
+   "heading": "Manual de procedimentos CE para as inspecções SAFA na plataforma de estacionamento — Elementos centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Manual de procedimentos CE para as inspecções SAFA na plataforma de estacionamento — Elementos centrais"
+  },
+  "24590feefcc9c207": {
+   "fragment_id": "1. INSTRUÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "1. INSTRUÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. INSTRUÇÕES GERAIS\n\n1.1. As inspecções SAFA na plataforma de estacionamento devem ser efectuadas por inspectores que possuam os conhecimentos necessários para o domínio de inspecção pertinente, nomeadamente conhecimentos técnicos, de aeronavegabilidade e operacionais, caso devam ser verificados todos os elementos da lista de verificação. Quando uma inspecção na plataforma de estacionamento for efectuada por dois ou mais inspectores, os principais elementos da inspecção — a inspecção visual ao exterior da aeronave, a inspecção à cabina de pilotagem e a inspecção à cabina de passageiros e/ou aos compartimentos de carga — podem ser divididos pelos inspectores.\n\n1.2. Os inspectores devem identificar-se ao comandante da aeronave ou, na sua ausência, a um membro da tripulação de voo ou ao mais alto representante do operador antes de darem início à parte da inspecção efectuada a bordo. Quando não for possível informar um representante do operador ou quando tal representante não estiver presente na aeronave ou perto dela, o princípio geral a aplicar será o da não realização da inspecção SAFA na plataforma de estacionamento. Em circunstâncias especiais, pode decidir-se efectuar a inspecção SAFA na plataforma de estacionamento, mas esta limitar-se-á a uma verificação visual do exterior da aeronave.\n\n1.3. A inspecção será tão completa quanto possível tendo em conta o tempo e os recursos disponíveis. Significa isso que, se apenas se dispuser de um período de tempo ou de recursos reduzidos, não poderão ser verificados todos os elementos da lista de inspecção, mas um número reduzido. Em função do tempo e dos recursos disponíveis para a uma inspecção SAFA na plataforma de estacionamento, os elementos a inspeccionar serão seleccionados de acordo e em conformidade com os objectivos do programa SAFA da Comunidade Europeia (CE).\n\n1.4. Uma inspecção na plataforma de estacionamento não pode causar um atraso irrazoável na partida da aeronave inspeccionada. Podem ser causas de atraso, entre outras, dúvidas relativas à preparação do voo, à aeronavegabilidade da aeronave ou a quaisquer matérias directamente relacionadas com a segurança da aeronave e dos seus ocupantes."
+  },
+  "018729392d4ee2dc": {
+   "fragment_id": "2. QUALIFICAÇÕES DOS INSPECTORES",
+   "type": "divisao",
+   "heading": "2. QUALIFICAÇÕES DOS INSPECTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. QUALIFICAÇÕES DOS INSPECTORES\n\n2.1. Os Estados-Membros garantirão que, a partir de 1 de Janeiro de 2009, todas as inspecções SAFA na plataforma de estacionamento realizadas no seu território sejam efectuadas por inspectores qualificados.\n\n2.2. Os Estados-Membros garantirão que os seus inspectores satisfaçam os critérios de qualificação a seguir enunciados.\n\n2.3. Critérios de qualificação2.3.1. **Critérios de elegibilidade** Como pré-requisito de elegibilidade para a qualificação, os Estados-Membros garantirão que os candidatos à qualificação como inspectores SAFA possuam a necessária formação aeronáutica e/ou os conhecimentos práticos necessários para o(s) seu(s) domínio(s) de inspecção, nomeadamente: a) operação de aeronaves, b) licenciamento do pessoal, c) aeronavegabilidade da aeronave, d) mercadorias perigosas. 2.3.2. **Exigências de formação** Antes da qualificação, os candidatos devem ter completado com êxito uma formação que consistirá no seguinte: — formação teórica em sala de aula ministrada por uma organização de formação SAFA, conforme definida no ponto 2.4, — formação prática ministrada por uma organização de formação SAFA, conforme definida no ponto 2.4, por um inspector principal designado por um Estado-Membro, como previsto no ponto 2.5, que agirá de modo independente de uma organização de formação SAFA, — formação em exercício ministrada ao longo de uma série de inspecções por um inspector principal designado por um Estado-Membro, como previsto no ponto 2.5. 2.3.3. **Requisitos para manter a validade da qualificação** Os Estados-Membros garantirão que, uma vez qualificados, os inspectores mantenham a validade da sua qualificação através do seguinte: a) Recebendo regularmente formação — que consistirá em formação teórica em sala de aula ministrada por uma organização de formação SAFA, conforme definida no ponto 2.4; b) Efectuando um número mínimo de inspecções na plataforma de estacionamento em cada período de 12 meses desde a última formação regular SAFA, a menos que o inspector seja igualmente um inspector qualificado em operações de voo ou em aeronavegabilidade da autoridade aeronáutica nacional de um Estado-Membro e efectue regularmente inspecções às aeronaves de operadores domésticos. 2.3.4. **Documentos de orientação** A AESA elaborará e publicará, até 30 de Setembro de 2008 o mais tardar, material de orientação detalhado para ajudar os Estados-Membros na aplicação dos pontos 2.3.1, 2.3.2 e 2.3.3.\n\n2.4. Organizações de formação SAFA 2.4.1. Uma organização de formação SAFA pode pertencer a uma autoridade competente de um Estado-Membro ou a uma organização terceira. Uma organização terceira pode: — pertencer à autoridade competente de outro Estado-Membro, — ser uma entidade independente. 2.4.2. Os Estados-Membros garantirão que os cursos de formação referidos nos pontos 2.3.2 e 2.3.3 a) ministrados pela sua autoridade nacional obedeçam, no mínimo, aos programas sobre esta matéria estabelecidos e publicados pela AESA. 2.4.3. Os Estados-Membros que empreguem uma organização terceira para efeitos de formação SAFA instaurarão um sistema para avaliar essa organização. O sistema será simples, transparente e proporcionado e terá em conta os documentos de orientação pertinentes elaborados e publicados pela AESA. O sistema pode ter em conta as avaliações efectuadas por outros Estados-Membros. 2.4.4. Uma organização de formação terceira apenas pode ser utilizada se a avaliação mostrar que a formação será ministrada de acordo com os programas pertinentes elaborados e publicados pela AESA. 2.4.5. Os Estados-Membros garantirão que os programas de formação das suas autoridades competentes e/ou os seus sistemas de avaliação das organizações de formação terceiras sejam devidamente alterados para reflectir as eventuais recomendações resultantes das auditorias à normalização efectuadas pela AESA de acordo com os métodos de trabalho previstos pelo Regulamento (CE) n.º 736/2006 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/8d4bb6ab-4211-4d8b-a43f-38789116102e.0018.03/DOC_1#E0008)). 2.4.6. Um Estado-Membro pode pedir à AESA que avalie a organização de formação e emita um parecer no qual o Estado-Membro possa basear a sua própria avaliação. 2.4.7. A AESA elaborará e publicará, até 30 de Setembro de 2008 o mais tardar, documentos de orientação detalhados para ajudar os Estados-Membros na aplicação do disposto neste ponto.\n\n2.4.1. Uma organização de formação SAFA pode pertencer a uma autoridade competente de um Estado-Membro ou a uma organização terceira. Uma organização terceira pode: — pertencer à autoridade competente de outro Estado-Membro, — ser uma entidade independente.\n\n2.4.2. Os Estados-Membros garantirão que os cursos de formação referidos nos pontos 2.3.2 e 2.3.3 a) ministrados pela sua autoridade nacional obedeçam, no mínimo, aos programas sobre esta matéria estabelecidos e publicados pela AESA.\n\n2.4.3. Os Estados-Membros que empreguem uma organização terceira para efeitos de formação SAFA instaurarão um sistema para avaliar essa organização. O sistema será simples, transparente e proporcionado e terá em conta os documentos de orientação pertinentes elaborados e publicados pela AESA. O sistema pode ter em conta as avaliações efectuadas por outros Estados-Membros.\n\n2.4.4. Uma organização de formação terceira apenas pode ser utilizada se a avaliação mostrar que a formação será ministrada de acordo com os programas pertinentes elaborados e publicados pela AESA.\n\n2.4.5. Os Estados-Membros garantirão que os programas de formação das suas autoridades competentes e/ou os seus sistemas de avaliação das organizações de formação terceiras sejam devidamente alterados para reflectir as eventuais recomendações resultantes das auditorias à normalização efectuadas pela AESA de acordo com os métodos de trabalho previstos pelo Regulamento (CE) n.º 736/2006 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/8d4bb6ab-4211-4d8b-a43f-38789116102e.0018.03/DOC_1#E0008)).\n\n2.4.6. Um Estado-Membro pode pedir à AESA que avalie a organização de formação e emita um parecer no qual o Estado-Membro possa basear a sua própria avaliação.\n\n2.4.7. A AESA elaborará e publicará, até 30 de Setembro de 2008 o mais tardar, documentos de orientação detalhados para ajudar os Estados-Membros na aplicação do disposto neste ponto.\n\n2.5. Inspectores principais 2.5.1. Um Estado-Membro pode designar inspectores principais, desde que estes satisfaçam os critérios de qualificação pertinentes a estabelecer por esse Estado-Membro. 2.5.2. Os Estados-Membros garantirão que os critérios mencionados em 2.5.1 incluam, pelo menos, os seguintes requisitos para o inspector designado: — que tenha sido inspector SAFA qualificado nos 3 anos anteriores à designação, — que tenha efectuado, no mínimo, 36 inspecções SAFA nos 3 anos anteriores à designação. 2.5.3. Os Estados-Membros garantirão que a formação prática e/ou a formação em exercício ministrada pelos seus inspectores principais se baseiem nos programas pertinentes elaborados e publicados pela AESA. 2.5.4. Os Estados-Membros podem igualmente incumbir os seus inspectores principais de ministrarem formação prática e/ou formação em exercício a formandos de outros Estados-Membros. A AESA elaborará e publicará, até 30 de Setembro de 2008 o mais tardar, documentos de orientação detalhados para ajudar os Estados-Membros na aplicação do disposto neste ponto.\n\n2.5.1. Um Estado-Membro pode designar inspectores principais, desde que estes satisfaçam os critérios de qualificação pertinentes a estabelecer por esse Estado-Membro.\n\n2.5.2. Os Estados-Membros garantirão que os critérios mencionados em 2.5.1 incluam, pelo menos, os seguintes requisitos para o inspector designado: — que tenha sido inspector SAFA qualificado nos 3 anos anteriores à designação, — que tenha efectuado, no mínimo, 36 inspecções SAFA nos 3 anos anteriores à designação.\n\n2.5.3. Os Estados-Membros garantirão que a formação prática e/ou a formação em exercício ministrada pelos seus inspectores principais se baseiem nos programas pertinentes elaborados e publicados pela AESA.\n\n2.5.4. Os Estados-Membros podem igualmente incumbir os seus inspectores principais de ministrarem formação prática e/ou formação em exercício a formandos de outros Estados-Membros. A AESA elaborará e publicará, até 30 de Setembro de 2008 o mais tardar, documentos de orientação detalhados para ajudar os Estados-Membros na aplicação do disposto neste ponto.\n\n2.6. Medidas transitórias 2.6.1. Os inspectores SAFA que satisfaçam os critérios de elegibilidade referidos no ponto 2.3.1, assim como os critérios de experiência recente referidos na alínea b) do ponto 2.3.3, à data estabelecida nos termos do artigo 3.º da Directiva 2008/49/CE da Comissão serão considerados qualificados para a função de inspector em conformidade com os requisitos estabelecidos no presente capítulo. 2.6.2. Não obstante o disposto na alínea a) do ponto 2.3.3, os inspectores considerados qualificados nos termos do ponto 2.6.1 seguirão regularmente uma formação ministrada progressivamente por uma organização SAFA o mais tardar até 1 de Julho de 2010 e, a partir daí, nos termos previstos na alínea a) do ponto 2.3.3.\n\n2.6.1. Os inspectores SAFA que satisfaçam os critérios de elegibilidade referidos no ponto 2.3.1, assim como os critérios de experiência recente referidos na alínea b) do ponto 2.3.3, à data estabelecida nos termos do artigo 3.º da Directiva 2008/49/CE da Comissão serão considerados qualificados para a função de inspector em conformidade com os requisitos estabelecidos no presente capítulo.\n\n2.6.2. Não obstante o disposto na alínea a) do ponto 2.3.3, os inspectores considerados qualificados nos termos do ponto 2.6.1 seguirão regularmente uma formação ministrada progressivamente por uma organização SAFA o mais tardar até 1 de Julho de 2010 e, a partir daí, nos termos previstos na alínea a) do ponto 2.3.3."
+  },
+  "192505e251a1ffdb": {
+   "fragment_id": "3. NORMAS",
+   "type": "divisao",
+   "heading": "3. NORMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. NORMAS\n\n3.1. As Normas da ICAO e os Procedimentos Suplementares Regionais Europeus da ICAO constituem a base para a inspecção de uma aeronave e de um operador ao abrigo do programa SAFA da Comunidade Europeia. Além disso, as inspecções ao estado técnico de uma aeronave basear-se-ão nas normas do construtor da aeronave."
+  },
+  "5bd2b74801d19188": {
+   "fragment_id": "4. PROCESSO DE INSPECÇÃO",
+   "type": "divisao",
+   "heading": "4. PROCESSO DE INSPECÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. PROCESSO DE INSPECÇÃO\n\n4.1. Os elementos a inspeccionar serão escolhidos de entre os mencionados na lista de verificação constante do *SAFA Ramp Inspection Report*, que contém um total de 54 elementos (ver apenso 1).\n\n4.2. A inspecção e as constatações que eventualmente dela resultem têm de reflectir-se no Relatório da inspecção SAFA na plataforma de estacionamento (*SAFA Ramp Inspection Report*) depois de concluída a inspecção.\n\n4.3. No Relatório da inspecção SAFA na plataforma estacionamento, cada elemento da lista inspeccionado será objecto de uma descrição detalhada especificando o âmbito e o método de inspecção. Além disso, será feita referência às exigências pertinentes dos anexos da ICAO. Essas informações serão tratadas e publicadas como documentos de orientação detalhados pela AESA e alteradas na medida do necessário para reflectir as mais recentes normas aplicáveis.\n\n4.4. O relatório de uma inspecção será introduzido na base de dados centralizada do programa SAFA logo que possível e, de qualquer modo, no prazo máximo de 15 dias úteis após a data da inspecção, mesmo que não se tenham constatado anomalias."
+  },
+  "99db8fcc6aa8127b": {
+   "fragment_id": "5. CATEGORIZAÇÃO DAS CONSTATAÇÕES",
+   "type": "divisao",
+   "heading": "5. CATEGORIZAÇÃO DAS CONSTATAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. CATEGORIZAÇÃO DAS CONSTATAÇÕES\n\n5.1. Para cada elemento que é objecto de inspecção, definem-se como constatações três categorias de possíveis desvios das normas pertinentes referidas no ponto 3.1. Essas constatações serão classificadas do seguinte modo: — Categoria 1: a constatação tem uma influência menor na segurança; — Categoria 2: a constatação pode ter uma influência significativa na segurança; — Categoria 3: a constatação pode ter grande influência na segurança.\n\n5.2. As instruções para a classificação das constatações serão elaboradas e publicadas pela AESA como documentos de orientação detalhados e serão alteradas na medida do necessário para ter em conta o progresso científico e técnico."
+  },
+  "874d7e4ba28f1147": {
+   "fragment_id": "6. ACÇÕES DE SEGUIMENTO",
+   "type": "divisao",
+   "heading": "6. ACÇÕES DE SEGUIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. ACÇÕES DE SEGUIMENTO\n\n6.1. Sem prejuízo do disposto no ponto 1.2, após a conclusão da inspecção SAFA, deve ser preenchido um certificado de inspecção contendo, pelo menos, os elementos constantes do apenso 2 e entregue uma cópia ao comandante da aeronave ou, na sua ausência, a um membro da tripulação de voo ou ao mais alto representante do operador presente na aeronave ou perto dela. A pessoa que recebe o certificado de inspecção deve assinar um comprovativo da recepção, o qual deve ser guardado pelo inspector. A eventual recusa de assinatura será registada no documento. A AESA elaborará e publicará instruções detalhadas sobre esta matéria na forma de documentos de orientação detalhados.\n\n6.2. Com base na categorização das constatações, foram definidas certas acções de seguimento. As relações entre a categoria das constatações e o seguimento a dar-lhes são apresentadas nas classes de acções e serão desenvolvidas e publicadas pela AESA como documentos de orientação detalhados.\n\n6.3. Acção da classe 1: Esta acção consiste em fornecer informações sobre os resultados da inspecção SAFA na plataforma de estacionamento ao comandante da aeronave ou, na sua ausência, a outro membro da tripulação de voo ou ao mais alto representante do operador. Estas informações são comunicadas oralmente, acompanhadas da entrega do certificado de inspecção. Uma acção da classe 1 terá lugar após cada inspecção, independentemente de existirem ou não constatações.\n\n6.4. Acção da classe 2: Esta acção consiste no seguinte: 1. Uma comunicação escrita dirigida ao operador em causa contendo um pedido de provas das medidas correctivas tomadas e 2. Uma comunicação escrita dirigida ao Estado responsável (Estado do operador e/ou do registo) referindo os resultados das inspecções efectuadas à aeronave operada sob a supervisão de segurança do respectivo Estado. A comunicação conterá, se necessário, um pedido de confirmação de que aquele Estado considera adequadas as medidas correctivas tomadas, referidas no ponto 1. Os Estados-Membros disponibilizarão à AESA um relatório mensal sobre o grau de avanço das acções que tenham empreendido no seguimento de inspecções na plataforma de estacionamento. Uma acção da classe 2 será empreendida após inspecções de que tenham resultado constatações da categoria 2 ou 3. A AESA elaborará e publicará instruções detalhadas sobre esta matéria na forma de documentos de orientação detalhados.\n\n6.5. Acções da classe 3: Uma acção da classe 3 será empreendida após uma inspecção de que tenha resultado uma constatação da categoria 3. Dada a significância das constatações da categoria 3 no que respeita à sua potencial influência na segurança da aeronave e dos seus ocupantes, identificaram-se as seguintes subclasses: 1. Classe 3a — Restrições ao voo da aeronave: A autoridade competente que efectua a inspecção na plataforma de estacionamento conclui que, tendo em conta as deficiências detectadas durante a inspecção, a aeronave apenas pode descolar mediante certas restrições. 2. Classe 3b — Acções correctivas antes do voo: A inspecção na plataforma de estacionamento identifica deficiências que exigem uma acção ou acções correctivas antes de se poder realizar o voo previsto. 3. Classe 3c — aeronave imobilizada pela autoridade aeronáutica nacional que procede à inspecção: Uma aeronave é imobilizada quando, após a identificação de constatações da categoria 3 (graves), a autoridade competente que efectua a inspecção na plataforma de estacionamento está convencida de que não serão tomadas medidas correctivas pelo operador da aeronave para rectificar as deficiências antes da partida, o que representa um perigo imediato para a aeronave e para os seus ocupantes. Nesses casos, a autoridade aeronáutica nacional que procede à inspecção na plataforma de estacionamento imobilizará a aeronave até ser eliminado o perigo e informará imediatamente as autoridades competentes do operador em causa e do Estado de registo da aeronave. As acções referidas nas alíneas 2) e 3) podem incluir um voo de posicionamento sem passageiros nem carga para a base de manutenção. 4. Classe 3d — Proibição imediata de operação: Um Estado-Membro pode reagir a um perigo imediato e óbvio para a segurança impondo uma proibição de operação, nos termos da legislação nacional e comunitária aplicável."
+  },
+  "630c7e041a0b09ee": {
+   "fragment_id": "Apenso 1",
+   "type": "divisao",
+   "heading": "Apenso 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apenso 1"
+  },
+  "c6dec92ad2052b88": {
+   "fragment_id": "Relatório da inspecção SAFA na plataforma de estacionamento",
+   "type": "divisao",
+   "heading": "Relatório da inspecção SAFA na plataforma de estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Relatório da inspecção SAFA na plataforma de estacionamento"
+  },
+  "0f5fabfdd6699e70": {
+   "fragment_id": "Apenso 2",
+   "type": "divisao",
+   "heading": "Apenso 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Apenso 2"
+  },
+  "7a720e67ab444bd5": {
+   "fragment_id": "Formulário do certificado de inspecção",
+   "type": "divisao",
+   "heading": "Formulário do certificado de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formulário do certificado de inspecção\n\n---"
+  },
+  "73cd7295807a2c72": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8d4bb6ab-4211-4d8b-a43f-38789116102e.0018.03/DOC_1#src.E0001)) JO C 103 E de 30.4.2002, p. 351.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8d4bb6ab-4211-4d8b-a43f-38789116102e.0018.03/DOC_1#src.E0002)) JO C 241 de 7.10.2002, p. 33.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8d4bb6ab-4211-4d8b-a43f-38789116102e.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 3 de Setembro de 2002 (JO C 272 E de 13.11.2003, p. 343), posição comum do Conselho de 13 de Junho de 2003 (JO C 233 E de 30.9.2003, p. 12), posição do Parlamento Europeu de 9 de Outubro de 2003 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 1 de Abril de 2004 e Decisão do Conselho de 30 de Março de 2004.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8d4bb6ab-4211-4d8b-a43f-38789116102e.0018.03/DOC_1#src.E0004)) JO C 65 de 4.3.1996, p. 172.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8d4bb6ab-4211-4d8b-a43f-38789116102e.0018.03/DOC_1#src.E0005)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8d4bb6ab-4211-4d8b-a43f-38789116102e.0018.03/DOC_1#src.E0006)) JO L 373 de 31.12.1991, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1592/2002 do Parlamento europeu e do Conselho (JO L 240 de 7.9.2002, p.1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/8d4bb6ab-4211-4d8b-a43f-38789116102e.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/8d4bb6ab-4211-4d8b-a43f-38789116102e.0018.03/DOC_1#src.E0008)) JO L 129 de 17.5.2006, p. 10."
+  },
+  "6c46565d1bbb6a76": {
+   "fragment_id": "Artigo 6.º — Protecção e divulgação das informações",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Protecção e divulgação das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Protecção e divulgação das informações\n\n1. Nos termos da sua legislação nacional, os Estados-Membros devem tomar as medidas necessárias para garantir a confidencialidade adequada das informações por eles recebidas em aplicação do artigo 5.º e devem utilizá-las exclusivamente para efeitos da presente directiva.\n\n2. A Comissão deve publicar anualmente um relatório de informação agregada acessível ao público e às partes interessadas do sector, que conterá uma análise de todas as informações recebidas nos termos do artigo 5.º.Essa análise será simples, compreensível e indicará se existe um mais elevado risco de segurança para os passageiros de tranportes aéreos Na mesma análise, será suprimida a identificação da fonte das informações.\n\n3.\n\nSem prejuízo do direito de acesso do público aos documentos da Comissão previsto no Regulamento (CE) n.º 1049/2001, a Comissão deve aprovar, por iniciativa própria, medidas relativas à divulgação das informações referidas no n.º 1 às partes interessadas, e das condições conexas. Essas medidas, que podem ser gerais ou individuais, devem basear-se na necessidade:\n\n— de fornecer às pessoas e organizações a informação de que necessitam para aumentarem a segurança na aviação civil,\n\n— de limitar a divulgação da informação ao estritamente necessário para os fins dos seus utilizadores, para se assegurar a confidencialidade adequada dessas informações.\n\nAs medidas individuais são aprovadas pelo procedimento consultivo a que se refere o n.º 3 do artigo 10.º.\n\nAs medidas gerais, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 4 do artigo 10.º.\n\n4. Sempre que as informações relativas a deficiências de aeronaves forem fornecidas voluntariamente, deve ser suprimida a identificação da fonte dessas informações, nos relatórios sobre as inspecções na plataforma de estacionamento mencionados no n.º 4 do artigo 5.º."
+  },
+  "0f67cc3141225ad7": {
+   "fragment_id": "Artigo 8.º — Melhoria da segurança e medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Melhoria da segurança e medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Melhoria da segurança e medidas de execução\n\n1. Os Estados-Membros devem comunicar à Comissão as medidas operacionais tomadas em cumprimento dos requisitos dos artigos 3.º, 4.º e 5.º.\n\n2.\n\nCom base nas informações recolhidas ao abrigo do n.º 1, a Comissão pode:\n\na) Tomar medidas adequadas para facilitar a execução dos artigos 3.º, 4.º e 5.º, pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 10.º, nomeadamente:\n\n— definir o formato de armazenagem e divulgação de dados,\n\n— criar ou apoiar organismos encarregados da gestão ou exploração dos instrumentos necessários para a recolha e intercâmbio de informações;\n\nb) Criar as condições para a realização de inspecções nas plataformas de estacionamento, incluindo inspecções sistemáticas, e estabelecer uma lista das informações a recolher. Estas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 4 do artigo 10.º.\n\n3. Com base nas informações recebidas ao abrigo dos artigos 3.º, 4.º e 5.º e nos termos do n.º 2 do artigo 10.º, pode ser tomada uma decisão sobre a realização da devida inspecção na plataforma de estacionamento e a adopção de outras medidas de vigilância, nomeadamente em relação a um determinado operador ou aos operadores de um determinado país terceiro, até que a autoridade competente desse país terceiro adopte medidas de correcção satisfatórias.\n\n4. A Comissão pode tomar quaisquer medidas adequadas de cooperação com países terceiros ou para os ajudar a melhorar as suas capacidades de supervisão da segurança aérea."
+  },
+  "b14d930e1e692044": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão é assistida pelo Comité instituído pelo artigo 12.º do Regulamento (CEE) n.º 3922/91.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\n5. O Comité pode, além disso, ser consultado pela Comissão sobre qualquer outra questão relativa à aplicação da presente directiva."
+  },
+  "e1af62175e57c768": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA Comissão pode alterar os anexos da presente directiva.\n\nEstas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 4 do artigo 10.º."
+  },
+  "ecb366d59e0c863b": {
+   "fragment_id": "2. QUALIFICAÇÕES DOS INSPECTORES",
+   "type": "divisao",
+   "heading": "2. QUALIFICAÇÕES DOS INSPECTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. QUALIFICAÇÕES DOS INSPECTORES\n\n2.1. Os Estados-Membros garantirão que, a partir de 1 de Janeiro de 2009, todas as inspecções SAFA na plataforma de estacionamento realizadas no seu território sejam efectuadas por inspectores qualificados.\n\n2.2. Os Estados-Membros garantirão que os seus inspectores satisfaçam os critérios de qualificação a seguir enunciados.\n\n2.3. Critérios de qualificação2.3.1. **Critérios de elegibilidade** Como pré-requisito de elegibilidade para a qualificação, os Estados-Membros garantirão que os candidatos à qualificação como inspectores SAFA possuam a necessária formação aeronáutica e/ou os conhecimentos práticos necessários para o(s) seu(s) domínio(s) de inspecção, nomeadamente: a) operação de aeronaves, b) licenciamento do pessoal, c) aeronavegabilidade da aeronave, d) mercadorias perigosas. 2.3.2. **Exigências de formação** Antes da qualificação, os candidatos devem ter completado com êxito uma formação que consistirá no seguinte: — formação teórica em sala de aula ministrada por uma organização de formação SAFA, conforme definida no ponto 2.4, — formação prática ministrada por uma organização de formação SAFA, conforme definida no ponto 2.4, por um inspector principal designado por um Estado-Membro, como previsto no ponto 2.5, que agirá de modo independente de uma organização de formação SAFA, — formação em exercício ministrada ao longo de uma série de inspecções por um inspector principal designado por um Estado-Membro, como previsto no ponto 2.5. 2.3.3. **Requisitos para manter a validade da qualificação** Os Estados-Membros garantirão que, uma vez qualificados, os inspectores mantenham a validade da sua qualificação através do seguinte: a) Recebendo regularmente formação — que consistirá em formação teórica em sala de aula ministrada por uma organização de formação SAFA, conforme definida no ponto 2.4; b) Efectuando um número mínimo de inspecções na plataforma de estacionamento em cada período de 12 meses desde a última formação regular SAFA, a menos que o inspector seja igualmente um inspector qualificado em operações de voo ou em aeronavegabilidade da autoridade aeronáutica nacional de um Estado-Membro e efectue regularmente inspecções às aeronaves de operadores domésticos. 2.3.4. **Documentos de orientação** A AESA elaborará e publicará, até 30 de Setembro de 2008 o mais tardar, material de orientação detalhado para ajudar os Estados-Membros na aplicação dos pontos 2.3.1, 2.3.2 e 2.3.3.\n\n2.4. Organizações de formação SAFA 2.4.1. Uma organização de formação SAFA pode pertencer a uma autoridade competente de um Estado-Membro ou a uma organização terceira. Uma organização terceira pode: — pertencer à autoridade competente de outro Estado-Membro, — ser uma entidade independente. 2.4.2. Os Estados-Membros garantirão que os cursos de formação referidos nos pontos 2.3.2 e 2.3.3 a) ministrados pela sua autoridade nacional obedeçam, no mínimo, aos programas sobre esta matéria estabelecidos e publicados pela AESA. 2.4.3. Os Estados-Membros que empreguem uma organização terceira para efeitos de formação SAFA instaurarão um sistema para avaliar essa organização. O sistema será simples, transparente e proporcionado e terá em conta os documentos de orientação pertinentes elaborados e publicados pela AESA. O sistema pode ter em conta as avaliações efectuadas por outros Estados-Membros. 2.4.4. Uma organização de formação terceira apenas pode ser utilizada se a avaliação mostrar que a formação será ministrada de acordo com os programas pertinentes elaborados e publicados pela AESA. 2.4.5. Os Estados-Membros garantirão que os programas de formação das suas autoridades competentes e/ou os seus sistemas de avaliação das organizações de formação terceiras sejam devidamente alterados para reflectir as eventuais recomendações resultantes das auditorias à normalização efectuadas pela AESA de acordo com os métodos de trabalho previstos pelo Regulamento (CE) n.º 736/2006 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/960cab46-768e-4982-a17d-e38902414b93.0018.04/DOC_1#E0008)). 2.4.6. Um Estado-Membro pode pedir à AESA que avalie a organização de formação e emita um parecer no qual o Estado-Membro possa basear a sua própria avaliação. 2.4.7. A AESA elaborará e publicará, até 30 de Setembro de 2008 o mais tardar, documentos de orientação detalhados para ajudar os Estados-Membros na aplicação do disposto neste ponto.\n\n2.4.1. Uma organização de formação SAFA pode pertencer a uma autoridade competente de um Estado-Membro ou a uma organização terceira. Uma organização terceira pode: — pertencer à autoridade competente de outro Estado-Membro, — ser uma entidade independente.\n\n2.4.2. Os Estados-Membros garantirão que os cursos de formação referidos nos pontos 2.3.2 e 2.3.3 a) ministrados pela sua autoridade nacional obedeçam, no mínimo, aos programas sobre esta matéria estabelecidos e publicados pela AESA.\n\n2.4.3. Os Estados-Membros que empreguem uma organização terceira para efeitos de formação SAFA instaurarão um sistema para avaliar essa organização. O sistema será simples, transparente e proporcionado e terá em conta os documentos de orientação pertinentes elaborados e publicados pela AESA. O sistema pode ter em conta as avaliações efectuadas por outros Estados-Membros.\n\n2.4.4. Uma organização de formação terceira apenas pode ser utilizada se a avaliação mostrar que a formação será ministrada de acordo com os programas pertinentes elaborados e publicados pela AESA.\n\n2.4.5. Os Estados-Membros garantirão que os programas de formação das suas autoridades competentes e/ou os seus sistemas de avaliação das organizações de formação terceiras sejam devidamente alterados para reflectir as eventuais recomendações resultantes das auditorias à normalização efectuadas pela AESA de acordo com os métodos de trabalho previstos pelo Regulamento (CE) n.º 736/2006 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/960cab46-768e-4982-a17d-e38902414b93.0018.04/DOC_1#E0008)).\n\n2.4.6. Um Estado-Membro pode pedir à AESA que avalie a organização de formação e emita um parecer no qual o Estado-Membro possa basear a sua própria avaliação.\n\n2.4.7. A AESA elaborará e publicará, até 30 de Setembro de 2008 o mais tardar, documentos de orientação detalhados para ajudar os Estados-Membros na aplicação do disposto neste ponto.\n\n2.5. Inspectores principais 2.5.1. Um Estado-Membro pode designar inspectores principais, desde que estes satisfaçam os critérios de qualificação pertinentes a estabelecer por esse Estado-Membro. 2.5.2. Os Estados-Membros garantirão que os critérios mencionados em 2.5.1 incluam, pelo menos, os seguintes requisitos para o inspector designado: — que tenha sido inspector SAFA qualificado nos 3 anos anteriores à designação, — que tenha efectuado, no mínimo, 36 inspecções SAFA nos 3 anos anteriores à designação. 2.5.3. Os Estados-Membros garantirão que a formação prática e/ou a formação em exercício ministrada pelos seus inspectores principais se baseiem nos programas pertinentes elaborados e publicados pela AESA. 2.5.4. Os Estados-Membros podem igualmente incumbir os seus inspectores principais de ministrarem formação prática e/ou formação em exercício a formandos de outros Estados-Membros. A AESA elaborará e publicará, até 30 de Setembro de 2008 o mais tardar, documentos de orientação detalhados para ajudar os Estados-Membros na aplicação do disposto neste ponto.\n\n2.5.1. Um Estado-Membro pode designar inspectores principais, desde que estes satisfaçam os critérios de qualificação pertinentes a estabelecer por esse Estado-Membro.\n\n2.5.2. Os Estados-Membros garantirão que os critérios mencionados em 2.5.1 incluam, pelo menos, os seguintes requisitos para o inspector designado: — que tenha sido inspector SAFA qualificado nos 3 anos anteriores à designação, — que tenha efectuado, no mínimo, 36 inspecções SAFA nos 3 anos anteriores à designação.\n\n2.5.3. Os Estados-Membros garantirão que a formação prática e/ou a formação em exercício ministrada pelos seus inspectores principais se baseiem nos programas pertinentes elaborados e publicados pela AESA.\n\n2.5.4. Os Estados-Membros podem igualmente incumbir os seus inspectores principais de ministrarem formação prática e/ou formação em exercício a formandos de outros Estados-Membros. A AESA elaborará e publicará, até 30 de Setembro de 2008 o mais tardar, documentos de orientação detalhados para ajudar os Estados-Membros na aplicação do disposto neste ponto.\n\n2.6. Medidas transitórias 2.6.1. Os inspectores SAFA que satisfaçam os critérios de elegibilidade referidos no ponto 2.3.1, assim como os critérios de experiência recente referidos na alínea b) do ponto 2.3.3, à data estabelecida nos termos do artigo 3.º da Directiva 2008/49/CE da Comissão serão considerados qualificados para a função de inspector em conformidade com os requisitos estabelecidos no presente capítulo. 2.6.2. Não obstante o disposto na alínea a) do ponto 2.3.3, os inspectores considerados qualificados nos termos do ponto 2.6.1 seguirão regularmente uma formação ministrada progressivamente por uma organização SAFA o mais tardar até 1 de Julho de 2010 e, a partir daí, nos termos previstos na alínea a) do ponto 2.3.3.\n\n2.6.1. Os inspectores SAFA que satisfaçam os critérios de elegibilidade referidos no ponto 2.3.1, assim como os critérios de experiência recente referidos na alínea b) do ponto 2.3.3, à data estabelecida nos termos do artigo 3.º da Directiva 2008/49/CE da Comissão serão considerados qualificados para a função de inspector em conformidade com os requisitos estabelecidos no presente capítulo.\n\n2.6.2. Não obstante o disposto na alínea a) do ponto 2.3.3, os inspectores considerados qualificados nos termos do ponto 2.6.1 seguirão regularmente uma formação ministrada progressivamente por uma organização SAFA o mais tardar até 1 de Julho de 2010 e, a partir daí, nos termos previstos na alínea a) do ponto 2.3.3."
+  },
+  "18513d9272eae02e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/960cab46-768e-4982-a17d-e38902414b93.0018.04/DOC_1#src.E0001)) JO C 103 E de 30.4.2002, p. 351.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/960cab46-768e-4982-a17d-e38902414b93.0018.04/DOC_1#src.E0002)) JO C 241 de 7.10.2002, p. 33.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/960cab46-768e-4982-a17d-e38902414b93.0018.04/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 3 de Setembro de 2002 (JO C 272 E de 13.11.2003, p. 343), posição comum do Conselho de 13 de Junho de 2003 (JO C 233 E de 30.9.2003, p. 12), posição do Parlamento Europeu de 9 de Outubro de 2003 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 1 de Abril de 2004 e Decisão do Conselho de 30 de Março de 2004.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/960cab46-768e-4982-a17d-e38902414b93.0018.04/DOC_1#src.E0004)) JO C 65 de 4.3.1996, p. 172.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/960cab46-768e-4982-a17d-e38902414b93.0018.04/DOC_1#src.E0005)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/960cab46-768e-4982-a17d-e38902414b93.0018.04/DOC_1#src.E0006)) JO L 373 de 31.12.1991, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1592/2002 do Parlamento europeu e do Conselho (JO L 240 de 7.9.2002, p.1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/960cab46-768e-4982-a17d-e38902414b93.0018.04/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/960cab46-768e-4982-a17d-e38902414b93.0018.04/DOC_1#src.E0008)) JO L 129 de 17.5.2006, p. 10."
+  },
+  "744d5f5f96f14e81": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2004L0036 — PT — 08.04.2012 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32004L0036) [DIRECTIVA 2004/36/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32004L0036) [de 21 de Abril de 2004](http://publications.europa.eu/resource/celex/32004L0036) [relativa à segurança das aeronaves de países terceiros que utilizem aeroportos comunitários](http://publications.europa.eu/resource/celex/32004L0036) (JO L 143, 30.4.2004, p.76)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 216/2008 do Parlamento Europeu e do Conselho de 20 de Fevereiro de 2008](http://publications.europa.eu/resource/celex/32008R0216) — L 79 — 1 — 19.3.2008"
+  }
+ }
+}

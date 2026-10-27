@@ -1,0 +1,531 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:130273586:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-130326119",
+ "dre_path": "/dr/detalhe/portaria/71-a-2020-130273586",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-03-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "130788405",
+    "130271786",
+    "130271787",
+    "130271788",
+    "130271789",
+    "130271790",
+    "130271791",
+    "130271792",
+    "130271793",
+    "130271794",
+    "130271795",
+    "130271796",
+    "130271797",
+    "130271798",
+    "130271799",
+    "130271800",
+    "130271801",
+    "130271802"
+   ]
+  },
+  {
+   "date": "2020-03-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130277367:por",
+     "title": "Declaração de Retificação n.º 11-C/2020",
+     "published": "2020-03-16",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/11-c-2020-130277367"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 7.º",
+    "Retifica Artigo 8.º"
+   ],
+   "fragments": [
+    "130271785",
+    "130271786",
+    "130271787",
+    "130271788",
+    "130271789",
+    "130271790",
+    "130271791",
+    "130271805",
+    "130271806",
+    "130271794",
+    "130271795",
+    "130271796",
+    "130271797",
+    "130271798",
+    "130271799",
+    "130271800",
+    "130271801",
+    "130271802",
+    "130271803"
+   ]
+  },
+  {
+   "date": "2020-03-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130399779:por",
+     "title": "Portaria n.º 76-B/2020",
+     "published": "2020-03-18",
+     "dre_path": "/dr/detalhe/portaria/76-b-2020-130399779"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "130271785",
+    "130271786",
+    "130271787",
+    "130402225",
+    "130271789",
+    "130402226",
+    "130271791",
+    "130271805",
+    "130271806",
+    "130271794",
+    "130271795",
+    "130271796",
+    "130271797",
+    "130271798",
+    "130271799",
+    "130271800",
+    "130271801",
+    "130271802",
+    "130271803"
+   ]
+  },
+  {
+   "date": "2020-03-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130779506:por",
+     "title": "Decreto-Lei n.º 10-G/2020",
+     "published": "2020-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/10-g-2020-130779506"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "130788405",
+    "130788406",
+    "130788407",
+    "130788408",
+    "130788409",
+    "130788410",
+    "130788411",
+    "130788412",
+    "130788413",
+    "130788414",
+    "130788415",
+    "130788416",
+    "130788417",
+    "130788418",
+    "130788419",
+    "130788420",
+    "130788421",
+    "130788422",
+    "130788423"
+   ]
+  }
+ ],
+ "fragments": {
+  "130788405": {
+   "fragment_id": "130326120",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-03-27",
+   "changed_by": [],
+   "markdown": "Portaria n.º 71-A/2020\n\nde 15 de março\n\nSumário: Define e regulamenta os termos e as condições de atribuição dos apoios imediatos de caráter extraordinário, temporário e transitório, destinados aos trabalhadores e empregadores afetados pelo surto do vírus COVID-19, tendo em vista a manutenção dos postos de trabalho e mitigar situações de crise empresarial.\n\nConsiderando o surto do novo Coronavírus (COVID-19), declarado pela Organização Mundial de Saúde (OMS), como uma pandemia internacional, que tem vindo a disseminar-se rápida e globalmente, encontrando-se já em território português;\n\nConsiderando as experiências internacionais mais recentes, visando a contenção dos impactos do COVID-19, com efeitos diretos já percetíveis nas cadeias globais de abastecimento, e que têm vindo a afetar a economia mundial de forma rápida e gradual, embora se antecipe que sejam temporários;\n\nConsiderando que é expectável um impacto socioeconómico em Portugal, por força de restrições à circulação de pessoas e bens, impostas por algumas medidas de emergência já adotadas pelas autoridades de saúde internacionais e nacionais;\n\nConsiderando que, numa primeira linha de exposição às consequências das restrições nas cadeias globais de abastecimento, encontram-se as empresas com perfil exportador, assim como as empresas cuja atividade depende da importação de bens ou serviços para a sua laboração;\n\nConsiderando ainda que se antevê, igualmente, que outras empresas possam vir a ser afetadas, ainda que indiretamente, pela intermitência ou interrupção das cadeias globais de abastecimento, sendo ainda expectável uma contração das atividades ligadas ao comércio, serviços e turismo;\n\nO Governo determinou, numa primeira fase, medidas para acautelar a proteção social dos trabalhadores que se encontrem impedidos, temporariamente, do exercício da sua atividade profissional por ordem da autoridade de saúde, devido a perigo de contágio pelo COVID-19, consagrando a equiparação a doença com internamento hospitalar (para efeitos do Decreto-Lei n.º 28/2004, de 4 de fevereiro), não ficando nestes casos a atribuição do subsídio de doença sujeita a prazo de garantia, índice de profissionalidade e período de espera, nos termos do Despacho n.º 2875-A/2020, de 3 de março;\n\nNuma segunda fase, o Governo, reconhecendo a excecionalidade da situação e emergência desencadeada por este surto, aprovou um conjunto de medidas de caráter extraordinário e temporário, destinadas aos trabalhadores e empregadores afetados pelo surto do vírus COVID-19, tendo em vista apoiar a manutenção dos postos de trabalho e mitigar situações de crise empresarial, através da Resolução do Conselho de Ministros (RCM) n.º 10-A/2020, de 13 de março, e com base no Decreto-Lei n.º 13/2015, de 26 de janeiro, que define os objetivos e os princípios da política de emprego e regula a concessão, a execução, o acompanhamento, a avaliação e o financiamento dos respetivos programa e medidas.\n\nEsta RCM prevê quatro medidas extraordinárias de apoio imediato aos trabalhadores e às empresas, no âmbito de atuação da área governativa do Trabalho, Solidariedade e Segurança Social, a saber:\n\nApoio extraordinário à manutenção dos contratos de trabalho em empresa em situação de crise empresarial, com ou sem formação;\n\nCriação de plano extraordinário de formação;\n\nIsenção temporária do pagamento de contribuições para a Segurança Social, a cargo da entidade empregadora; e\n\nIncentivo financeiro extraordinário para apoio à normalização da atividade da empresa.\n\nA medida de apoio extraordinária à manutenção dos contratos de trabalho em empresa em situação de crise empresarial que se concretiza na presente portaria visa, essencialmente, dar uma resposta rápida e imediata às necessidades urgentes de apoio à manutenção do emprego em empresas especialmente afetadas pelo surto do vírus COVID-19, que não se compadecem com a complexidade procedimental de regimes já existentes como o da suspensão dos contratos de trabalho efetuada por iniciativa das empresas, prevista no Código do Trabalho, vulgarmente denominado de lay off. É, no entanto, na figura do lay off que esta medida excecional se inspira, quer quanto à estruturação, quer quanto às formas e montantes de pagamento, mas que dela se afasta exatamente por não implicar a suspensão dos contratos de trabalho e definir uma operacionalização procedimental simplificada.\n\nÀ semelhança do já foi feito em situações paralelas de grave crise, como catástrofes ou outras ocorrências imprevisíveis, é criada uma medida excecional, processualmente mais ágil, de forma a garantir que esta se aplica num espaço de tempo muito curto entre o pedido do empregador e a concessão do apoio, e, desta feita, atingindo, no tempo e no modo, o objetivo de prevenir o risco imediato de desemprego e a manutenção dos postos de trabalho.\n\nEsta nova e temporária medida visa permitir que às empresas em situação de crise empresarial em consequência de: i) uma paragem total da atividade da empresa ou estabelecimento, que resulte da intermitência ou interrupção das cadeias de abastecimento globais; ou ii) uma quebra abrupta e acentuada de, pelo menos, 40 % da faturação, com referência ao período homólogo de 3 meses, ou, para quem tenha iniciado a atividade há menos de 12 meses, à média desse período possam ter acesso a um apoio extraordinário para auxílio ao pagamento da retribuição dos seus trabalhadores, durante o período máximo de 6 meses.\n\nDe referir que esta nova medida exige a obrigação de informar, por escrito, os trabalhadores abrangidos e o prazo previsível da interrupção da atividade, corolário do direito à informação. Por outro lado, lança-se mão de um mecanismo declarativo - certidão da entidade empregadora e certidão de contabilista certificado da empresa -, que ateste a existência da situação de crise, inspecionável ex-post pelos serviços e organismos do Estado, com competência em razão da matéria.\n\nRefira-se, por fim, que esta medida terá a forma de um apoio financeiro nos mesmos termos do previsto no n.º 4 do artigo 305.º do Código do Trabalho, no valor igual a 2/3 da retribuição ilíquida do trabalhador, até um máximo de 3 RMMG ((euro) 1905), sendo 70 % assegurado pela Segurança Social e 30 % assegurado pelo empregador, com duração de um mês prorrogável mensalmente, até um máximo de 6 meses. Em simultâneo, e à imagem do que foi feito para o setor automóvel na década passada, este mecanismo poderá ser conjugado com a vertente da formação profissional, que em relação ao supramencionado apoio acresce uma bolsa de formação, nos mesmos termos do previsto no n.º 5 do artigo 305.º do Código do Trabalho, no valor de 30 % do Indexante dos Apoios Sociais (IAS) ((euro) 131,64), sendo metade para o trabalhador e metade para o empregador ((euro) 65.82). A bolsa e os custos com a formação serão suportados pelo IEFP, I. P.\n\nOutra das medidas criadas pela RCM acima referida e que se concretiza nesta portaria é o apoio extraordinário à formação, especialmente pensado para aquelas situações em que a empresa e/ou os seus trabalhadores são abrangidos por uma decisão da autoridade de saúde, nos termos do artigo 5.º do Decreto-Lei n.º 82/2009, de 2 de abril, sem, contudo, abranger a totalidade dos trabalhadores, mas que ainda assim impossibilite o regular funcionamento da atividade da empresa ou estabelecimento. Esta medida consiste num apoio extraordinário a atribuir a cada trabalhador abrangido, suportado pelo IEFP., I. P., tendo por referência as horas de formação frequentadas, até ao limite de 50 % da retribuição ilíquida, não podendo ultrapassar o valor da RMMG.\n\nAcresce ainda a criação de um incentivo financeiro extraordinário, para apoio à normalização da atividade da empresa no valor de uma RMMG, por trabalhador, pago apenas por um mês, e que visa apoiar as empresas que, já não estando constrangidas na sua capacidade laboração, carecem de um apoio, na primeira fase de retoma da normalidade, de modo a prevenir o risco de desemprego e a manutenção dos postos de trabalho em empresas que tenham estado em situação de crise empresarial em consequência do surto de COVID-19.\n\nPor fim, prevê-se a isenção temporária do pagamento de contribuições para a Segurança Social, a cargo da entidade empregadora, para as empresas abrangidas de qualquer uma das medidas previstas na presente portaria.\n\nForam ouvidos os parceiros sociais com assento na Comissão Permanente da Concertação Social.\n\nAssim:\n\nNos termos do Decreto-Lei n.º 13/2015, de 26 de janeiro, da Resolução do Conselho de Ministros (RCM) n.º 10-A/2020, de 13 de março, e do artigo 100.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:\n\n> Nota: [Artigo 19.º, Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506) Os requerimentos que hajam sido entregues ao abrigo da Portaria n.º 71-A/2020, de 15 de março, na sua redação atual, e antes da entrada em vigor do presente decreto-lei, para efeitos da aplicação dos apoios financeiros previstos naquela, mantêm a sua eficácia e são analisados à luz do presente decreto-lei."
+  },
+  "130271786": {
+   "fragment_id": "130326121",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria define e regulamenta os termos e as condições de atribuição dos apoios imediatos de carácter extraordinário, temporário e transitório, destinadas aos trabalhadores e empregadores afetados pelo surto do vírus COVID-19, tendo em vista a manutenção dos postos de trabalho e mitigar situações de crise empresarial.\n\n2 - As medidas referidas no número anterior, são as seguintes:\n\na) O apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial, com ou sem formação;\n\nb) O plano extraordinário de formação;\n\nc) O incentivo financeiro extraordinário para apoio à normalização da atividade da empresa; e\n\nd) A isenção temporária do pagamento de contribuições para a Segurança Social, a cargo da entidade empregadora."
+  },
+  "130271787": {
+   "fragment_id": "130326122",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - As medidas previstas na presente portaria aplicam-se aos empregadores de natureza privada, incluindo as entidades empregadoras do setor social, e trabalhadores ao seu serviço, afetados pelo surto do vírus COVID-19, que em consequência se encontrem, comprovadamente, em situação de crise empresarial.\n\n2 - As demais situações de encerramento temporário ou diminuição temporária da atividade da empresa ocorridas no período de vigência desta portaria, mas que não sejam consequência de situação de crise empresarial, aplica-se o disposto na alínea a) do n.º 1 do artigo 309.º do Código do Trabalho."
+  },
+  "130271788": {
+   "fragment_id": "130326123",
+   "type": 11,
+   "heading": "Artigo 3.º — Situação de crise empresarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Situação de crise empresarial\n\n1 - Para efeitos de aplicação da presente portaria, considera-se situação de crise empresarial:\n\na) A paragem total da atividade da empresa ou estabelecimento que resulte da interrupção das cadeias de abastecimento globais, da suspensão ou cancelamento de encomendas;\n\nb) A quebra abrupta e acentuada de, pelo menos, 40 % da faturação, com referência ao período homólogo de três meses, ou, para quem tenha iniciado a atividade há menos de 12 meses, à média desse período.\n\n2 - As circunstâncias referidas nas alíneas a) e b) do número anterior são atestadas mediante declaração do empregador conjuntamente com certidão do contabilista certificado da empresa.\n\n3 - As entidades beneficiárias do presente apoio podem ser fiscalizadas, em qualquer momento, pelas entidades públicas competentes, devendo comprovar os factos em que se baseia o pedido e as respetivas renovações.\n\n4 - O comprovativo referido no número anterior é efetuado por prova documental, podendo ser requerida a apresentação de documentos, nos casos aplicáveis, nomeadamente:\n\na) Balancete contabilístico referente ao mês do apoio bem como do respetivo mês homólogo;\n\nb) Declaração de Imposto Sobre o Valor Acrescentado (IVA) referente ao mês do apoio bem como dos dois meses imediatamente anteriores, ou a declaração referente ao último trimestre de 2019 e o primeiro de 2020, conforme a requerente se encontre no regime de IVA mensal ou trimestral respetivamente, que evidenciem a intermitência ou interrupção das cadeias de abastecimento ou a suspensão ou cancelamento de encomendas; e\n\nc) Elementos comprovativos adicionais a fixar por despacho do membro do Governo da área do trabalho e da segurança social."
+  },
+  "130271789": {
+   "fragment_id": "130326124",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de acesso\n\nPara aceder às medidas previstas na presente portaria, o empregador deve, comprovadamente, ter as situações contributiva e tributária regularizadas perante a Segurança Social e a Autoridade Tributária e Aduaneira."
+  },
+  "130271790": {
+   "fragment_id": "130326125",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial\n\n1 - O apoio extraordinário à manutenção de contrato de trabalho em empresa em situação de crise empresarial reveste a forma de um apoio financeiro, por trabalhador, atribuído à empresa, destinado, exclusivamente, ao pagamento de remunerações.\n\n2 - Para efeitos de aplicação do previsto no número anterior o empregador comunica, por escrito, aos trabalhadores a decisão de requerer o apoio extraordinário à manutenção dos postos de trabalho, indicando a duração previsível, ouvidos os delegados sindicais e comissões de trabalhadores quando existam, remetendo de imediato requerimento ao Instituto da Segurança Social, I. P. (ISS, I. P.), acompanhado dos documentos referidos no n.º 2 do artigo 3.º e bem assim a listagem nominativa dos trabalhadores abrangidos e respetivo número de segurança social.\n\n3 - Durante o período de aplicação desta medida, a empresa tem direito a um apoio financeiro nos mesmos termos do previsto no n.º 4 do artigo 305.º do Código do Trabalho, com duração de um mês.\n\n4 - O presente apoio pode ser, excecionalmente, prorrogável mensalmente, até um máximo de 6 meses, apenas quando os trabalhadores da empresa tenham gozado o limite máximo de férias anuais e quando a entidade empregadora tenha adotado os mecanismos de flexibilidade dos horários de trabalho previstos na lei.\n\n5 - O empregador beneficiário desta medida pode encarregar o trabalhador de exercer, a título temporário, funções não compreendidas no contrato de trabalho, desde que tal não implique modificação substancial da posição do trabalhador, e que sejam orientadas para a viabilidade da empresa.\n\n6 - Esta medida pode ainda ser cumulável com um plano de formação aprovado pelo IEFP, I. P., ao qual acresce uma bolsa nos mesmos termos do previsto no n.º 5 do artigo 305.º do Código do Trabalho."
+  },
+  "130271791": {
+   "fragment_id": "130326126",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano extraordinário de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Plano extraordinário de formação\n\n1 - As empresas que, abrangidas no âmbito da presente portaria, não tenham recorrido ao apoio extraordinário previsto no artigo 5.º, podem aceder a um apoio extraordinário para formação profissional a tempo parcial, mediante um plano de formação definido nos termos do artigo 7.º, tendo em vista a manutenção dos respetivos postos de trabalho e o reforço das competências dos seus trabalhadores, de forma a atuar preventivamente sobre o desemprego, nos termos do disposto no Decreto-Lei n.º 13/2015, de 26 de janeiro.\n\n2 - O apoio extraordinário referido neste artigo tem a duração de um mês e destina-se à implementação do plano formação definido no artigo seguinte.\n\n3 - O apoio extraordinário a atribuir a cada trabalhador abrangido é suportado pelo IEFP, I. P., e é concedido em função das horas de formação frequentadas, até ao limite de 50 % da retribuição ilíquida, com o limite máximo da RMMG.\n\n4 - Nas situações previstas no n.º 1 o empregador comunica aos trabalhadores, por escrito, a decisão de iniciar um plano de formação e a duração previsível da medida, remetendo de imediato informação ao IEFP, I. P., acompanhada dos documentos referidos no n.º 2 do artigo 3.º"
+  },
+  "130271792": {
+   "fragment_id": "130326127",
+   "type": 11,
+   "heading": "Artigo 7.º — Planos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Planos de formação\n\n1 - O plano de formação referido no n.º 5 do artigo 5.º e no artigo anterior deve:\n\na) Ser implementado em articulação com a entidade, cabendo ao IEFP, I. P., a sua organização, podendo ser desenvolvido a distância quando possível e as condições o permitirem;\n\nb) Contribuir para a melhoria das competências profissionais dos trabalhadores, sempre que possível aumentando o seu nível de qualificação, e contribuir para o aumento da competitividade da empresa;\n\nc) Corresponder às modalidades de qualificação previstas no âmbito do Sistema Nacional de Qualificações.\n\n2 - No caso da formação prevista no artigo anterior, a sua duração não deve ultrapassar 50 % do período normal de trabalho durante o período em que decorre.\n\n3 - O número mínimo de formandos a integrar em cada ação de formação é definido por acordo entre o IEFP, I. P., e o empregador, atenta a legislação enquadradora da respetiva modalidade de formação."
+  },
+  "130271793": {
+   "fragment_id": "130326128",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidades formadoras\n\nPara a operacionalização do plano de formação previsto no n.º 5 do artigo 5.º e no artigo 7.º, são entidades formadoras os centros de emprego e formação profissional do IEFP, I. P."
+  },
+  "130271794": {
+   "fragment_id": "130326129",
+   "type": 11,
+   "heading": "Artigo 9.º — Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa\n\n1 - Os empregadores que beneficiem das medidas previstas na presente portaria têm direito a um incentivo financeiro extraordinário para apoio à retoma da atividade da empresa, previsto na alínea c) do n.º 2 do artigo 1.º, a conceder pelo IEFP, I. P., pago de uma só vez e com o valor de uma RMMG por trabalhador.\n\n2 - Para aceder ao incentivo, o empregador apresenta requerimento ao IEFP, I. P., acompanhado, nomeadamente, dos documentos referidos no n.º 2 do artigo 3.º"
+  },
+  "130271795": {
+   "fragment_id": "130326130",
+   "type": 11,
+   "heading": "Artigo 10.º — Isenção temporária do pagamento de contribuições para a Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Isenção temporária do pagamento de contribuições para a Segurança Social\n\n1 - Os empregadores que beneficiem das medidas previstas na presente portaria têm direito à isenção total do pagamento das contribuições à Segurança Social a cargo da entidade empregadora, relativamente aos trabalhadores abrangidos e membros dos órgãos estatutários, durante o período de vigência das mesmas.\n\n2 - O direito à isenção prevista no número anterior é aplicável igualmente aos trabalhadores independentes que sejam entidades empregadoras beneficiárias das medidas e respetivos cônjuges.\n\n3 - A isenção reporta-se às contribuições referentes às remunerações relativas aos meses em que a empresa seja beneficiária das medidas.\n\n4 - A dispensa do pagamento de contribuições relativa aos trabalhadores independentes determina o registo de remunerações por equivalência à entrada de contribuições de acordo com a base de incidência contributiva que for aplicável.\n\n5 - As entidades empregadoras entregam as declarações de remunerações autónomas relativas aos trabalhadores abrangidos e efetuam o pagamento das respetivas quotizações.\n\n6 - A isenção do pagamento de contribuições aplicável aos trabalhadores independentes não afasta a obrigação de entrega da declaração trimestral.\n\n7 - A isenção do pagamento de contribuições relativamente aos trabalhadores abrangidos é reconhecida oficiosamente, designadamente com base na informação transmitida pelo IEFP, I. P."
+  },
+  "130271796": {
+   "fragment_id": "130326131",
+   "type": 11,
+   "heading": "Artigo 11.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Falsas declarações\n\nAs falsas declarações para obtenção das isenções previstas no artigo anterior tornam exigíveis as contribuições relativas ao período em que tenha vigorado o regime excecional, sem prejuízo da aplicação das sanções legais previstas para o respetivo ilícito."
+  },
+  "130271797": {
+   "fragment_id": "130326132",
+   "type": 11,
+   "heading": "Artigo 12.º — Incumprimento e restituição do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Incumprimento e restituição do apoio\n\n1 - O incumprimento por parte do empregador das obrigações relativas aos apoios previstos na presente portaria implica a imediata cessação dos mesmos e a restituição ou pagamento, conforme o caso, total ou proporcional, dos montantes já recebidos ou isentados, quando que se verifique alguma das seguintes situações:\n\na) Despedimento, exceto por facto imputável ao trabalhador;\n\nb) Não cumprimento pontual das obrigações retributivas devidas aos trabalhadores;\n\nc) Não cumprimento pelo empregador das suas obrigações legais, fiscais ou contributivas;\n\nd) Distribuição de lucros durante a vigência das obrigações decorrentes da concessão do incentivo, sob qualquer forma, nomeadamente a título de levantamento por conta;\n\ne) Incumprimento, imputável ao empregador, das obrigações assumidas, nos prazos estabelecidos;\n\nf) Prestação de falsas declarações.\n\n2 - Caso a restituição prevista nos números anteriores não seja efetuada, voluntariamente, no prazo fixado pelo IEFP, I. P., são devidos juros de mora à taxa legal em vigor, desde o fim desse prazo, ou aplicável, no que respeita aos valores devidos à Segurança Social, o disposto no Decreto-Lei n.º 133/88, de 20 de abril, na sua redação atual, sendo realizada cobrança coerciva nos termos da legislação em vigor."
+  },
+  "130271798": {
+   "fragment_id": "130326133",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentação\n\nAs medidas previstas na presente portaria são objeto de regulamentação interna, competindo a cada um dos organismos públicos responsáveis a respetiva elaboração."
+  },
+  "130271799": {
+   "fragment_id": "130326134",
+   "type": 11,
+   "heading": "Artigo 14.º — Cumulação de medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cumulação de medidas\n\nAs medidas previstas na presente portaria são cumuláveis com outros apoios."
+  },
+  "130271800": {
+   "fragment_id": "130326135",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Avaliação\n\nAs medidas previstas na presente portaria são objeto de avaliação regular por parte da Comissão Permanente da Concertação Social."
+  },
+  "130271801": {
+   "fragment_id": "130326136",
+   "type": 11,
+   "heading": "Artigo 16.º — Financiamento comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Financiamento comunitário\n\nOs apoios previstos na presente portaria são passíveis de financiamento comunitário, sendo-lhe aplicável as respetivas disposições do direito comunitário e nacional."
+  },
+  "130271802": {
+   "fragment_id": "130326137",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "130271785": {
+   "fragment_id": "130326120",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 71-A/2020\n\nde 15 de março\n\nSumário: Define e regulamenta os termos e as condições de atribuição dos apoios imediatos de caráter extraordinário, temporário e transitório, destinados aos trabalhadores e empregadores afetados pelo surto do vírus COVID-19, tendo em vista a manutenção dos postos de trabalho e mitigar situações de crise empresarial.\n\nConsiderando o surto do novo Coronavírus (COVID-19), declarado pela Organização Mundial de Saúde (OMS), como uma pandemia internacional, que tem vindo a disseminar-se rápida e globalmente, encontrando-se já em território português;\n\nConsiderando as experiências internacionais mais recentes, visando a contenção dos impactos do COVID-19, com efeitos diretos já percetíveis nas cadeias globais de abastecimento, e que têm vindo a afetar a economia mundial de forma rápida e gradual, embora se antecipe que sejam temporários;\n\nConsiderando que é expectável um impacto socioeconómico em Portugal, por força de restrições à circulação de pessoas e bens, impostas por algumas medidas de emergência já adotadas pelas autoridades de saúde internacionais e nacionais;\n\nConsiderando que, numa primeira linha de exposição às consequências das restrições nas cadeias globais de abastecimento, encontram-se as empresas com perfil exportador, assim como as empresas cuja atividade depende da importação de bens ou serviços para a sua laboração;\n\nConsiderando ainda que se antevê, igualmente, que outras empresas possam vir a ser afetadas, ainda que indiretamente, pela intermitência ou interrupção das cadeias globais de abastecimento, sendo ainda expectável uma contração das atividades ligadas ao comércio, serviços e turismo;\n\nO Governo determinou, numa primeira fase, medidas para acautelar a proteção social dos trabalhadores que se encontrem impedidos, temporariamente, do exercício da sua atividade profissional por ordem da autoridade de saúde, devido a perigo de contágio pelo COVID-19, consagrando a equiparação a doença com internamento hospitalar (para efeitos do Decreto-Lei n.º 28/2004, de 4 de fevereiro), não ficando nestes casos a atribuição do subsídio de doença sujeita a prazo de garantia, índice de profissionalidade e período de espera, nos termos do Despacho n.º 2875-A/2020, de 3 de março;\n\nNuma segunda fase, o Governo, reconhecendo a excecionalidade da situação e emergência desencadeada por este surto, aprovou um conjunto de medidas de caráter extraordinário e temporário, destinadas aos trabalhadores e empregadores afetados pelo surto do vírus COVID-19, tendo em vista apoiar a manutenção dos postos de trabalho e mitigar situações de crise empresarial, através da Resolução do Conselho de Ministros (RCM) n.º 10-A/2020, de 13 de março, e com base no Decreto-Lei n.º 13/2015, de 26 de janeiro, que define os objetivos e os princípios da política de emprego e regula a concessão, a execução, o acompanhamento, a avaliação e o financiamento dos respetivos programa e medidas.\n\nEsta RCM prevê quatro medidas extraordinárias de apoio imediato aos trabalhadores e às empresas, no âmbito de atuação da área governativa do Trabalho, Solidariedade e Segurança Social, a saber:\n\nApoio extraordinário à manutenção dos contratos de trabalho em empresa em situação de crise empresarial, com ou sem formação;\n\nCriação de plano extraordinário de formação;\n\nIsenção temporária do pagamento de contribuições para a Segurança Social, a cargo da entidade empregadora; e\n\nIncentivo financeiro extraordinário para apoio à normalização da atividade da empresa.\n\nA medida de apoio extraordinária à manutenção dos contratos de trabalho em empresa em situação de crise empresarial que se concretiza na presente portaria visa, essencialmente, dar uma resposta rápida e imediata às necessidades urgentes de apoio à manutenção do emprego em empresas especialmente afetadas pelo surto do vírus COVID-19, que não se compadecem com a complexidade procedimental de regimes já existentes como o da suspensão dos contratos de trabalho efetuada por iniciativa das empresas, prevista no Código do Trabalho, vulgarmente denominado de lay off. É, no entanto, na figura do lay off que esta medida excecional se inspira, quer quanto à estruturação, quer quanto às formas e montantes de pagamento, mas que dela se afasta exatamente por não implicar a suspensão dos contratos de trabalho e definir uma operacionalização procedimental simplificada.\n\nÀ semelhança do já foi feito em situações paralelas de grave crise, como catástrofes ou outras ocorrências imprevisíveis, é criada uma medida excecional, processualmente mais ágil, de forma a garantir que esta se aplica num espaço de tempo muito curto entre o pedido do empregador e a concessão do apoio, e, desta feita, atingindo, no tempo e no modo, o objetivo de prevenir o risco imediato de desemprego e a manutenção dos postos de trabalho.\n\nEsta nova e temporária medida visa permitir que às empresas em situação de crise empresarial em consequência de: i) uma paragem total da atividade da empresa ou estabelecimento, que resulte da intermitência ou interrupção das cadeias de abastecimento globais; ou ii) uma quebra abrupta e acentuada de, pelo menos, 40 % da faturação, com referência ao período homólogo de 3 meses, ou, para quem tenha iniciado a atividade há menos de 12 meses, à média desse período possam ter acesso a um apoio extraordinário para auxílio ao pagamento da retribuição dos seus trabalhadores, durante o período máximo de 6 meses.\n\nDe referir que esta nova medida exige a obrigação de informar, por escrito, os trabalhadores abrangidos e o prazo previsível da interrupção da atividade, corolário do direito à informação. Por outro lado, lança-se mão de um mecanismo declarativo - certidão da entidade empregadora e certidão de contabilista certificado da empresa -, que ateste a existência da situação de crise, inspecionável ex-post pelos serviços e organismos do Estado, com competência em razão da matéria.\n\nRefira-se, por fim, que esta medida terá a forma de um apoio financeiro nos mesmos termos do previsto no n.º 4 do artigo 305.º do Código do Trabalho, no valor igual a 2/3 da retribuição ilíquida do trabalhador, até um máximo de 3 RMMG ((euro) 1905), sendo 70 % assegurado pela Segurança Social e 30 % assegurado pelo empregador, com duração de um mês prorrogável mensalmente, até um máximo de 6 meses. Em simultâneo, e à imagem do que foi feito para o setor automóvel na década passada, este mecanismo poderá ser conjugado com a vertente da formação profissional, que em relação ao supramencionado apoio acresce uma bolsa de formação, nos mesmos termos do previsto no n.º 5 do artigo 305.º do Código do Trabalho, no valor de 30 % do Indexante dos Apoios Sociais (IAS) ((euro) 131,64), sendo metade para o trabalhador e metade para o empregador ((euro) 65.82). A bolsa e os custos com a formação serão suportados pelo IEFP, I. P.\n\nOutra das medidas criadas pela RCM acima referida e que se concretiza nesta portaria é o apoio extraordinário à formação, especialmente pensado para aquelas situações em que a empresa e/ou os seus trabalhadores são abrangidos por uma decisão da autoridade de saúde, nos termos do artigo 5.º do Decreto-Lei n.º 82/2009, de 2 de abril, sem, contudo, abranger a totalidade dos trabalhadores, mas que ainda assim impossibilite o regular funcionamento da atividade da empresa ou estabelecimento. Esta medida consiste num apoio extraordinário a atribuir a cada trabalhador abrangido, suportado pelo IEFP., I. P., tendo por referência as horas de formação frequentadas, até ao limite de 50 % da retribuição ilíquida, não podendo ultrapassar o valor da RMMG.\n\nAcresce ainda a criação de um incentivo financeiro extraordinário, para apoio à normalização da atividade da empresa no valor de uma RMMG, por trabalhador, pago apenas por um mês, e que visa apoiar as empresas que, já não estando constrangidas na sua capacidade laboração, carecem de um apoio, na primeira fase de retoma da normalidade, de modo a prevenir o risco de desemprego e a manutenção dos postos de trabalho em empresas que tenham estado em situação de crise empresarial em consequência do surto de COVID-19.\n\nPor fim, prevê-se a isenção temporária do pagamento de contribuições para a Segurança Social, a cargo da entidade empregadora, para as empresas abrangidas de qualquer uma das medidas previstas na presente portaria.\n\nForam ouvidos os parceiros sociais com assento na Comissão Permanente da Concertação Social.\n\nAssim:\n\nNos termos do Decreto-Lei n.º 13/2015, de 26 de janeiro, da Resolução do Conselho de Ministros (RCM) n.º 10-A/2020, de 13 de março, e do artigo 100.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "130271805": {
+   "fragment_id": "130326127",
+   "type": 11,
+   "heading": "Artigo 7.º — Planos de formação",
+   "in_force_from": "2020-03-16",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 11-C/2020 - Diário da República n.º 53/2020, 2º Suplemento, Série I de 2020-03-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-c-2020-130277367), em vigor a partir de 2020-03-16"
+   ],
+   "markdown": "###### Artigo 7.º — Planos de formação\n\n1 - O plano de formação referido no n.º 6 do artigo 5.º e no artigo anterior deve:\n\na) Ser implementado em articulação com a entidade, cabendo ao IEFP, I. P., a sua organização, podendo ser desenvolvido a distância quando possível e as condições o permitirem;\n\nb) Contribuir para a melhoria das competências profissionais dos trabalhadores, sempre que possível aumentando o seu nível de qualificação, e contribuir para o aumento da competitividade da empresa;\n\nc) Corresponder às modalidades de qualificação previstas no âmbito do Sistema Nacional de Qualificações.\n\n2 - No caso da formação prevista no artigo anterior, a sua duração não deve ultrapassar 50 % do período normal de trabalho durante o período em que decorre.\n\n3 - O número mínimo de formandos a integrar em cada ação de formação é definido por acordo entre o IEFP, I. P., e o empregador, atenta a legislação enquadradora da respetiva modalidade de formação.\n\n> Retificado pelo/a [Declaração de Retificação n.º 11-C/2020 - Diário da República n.º 53/2020, 2º Suplemento, Série I de 2020-03-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-c-2020-130277367), em vigor a partir de 2020-03-16"
+  },
+  "130271806": {
+   "fragment_id": "130326128",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades formadoras",
+   "in_force_from": "2020-03-16",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 11-C/2020 - Diário da República n.º 53/2020, 2º Suplemento, Série I de 2020-03-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-c-2020-130277367), em vigor a partir de 2020-03-16"
+   ],
+   "markdown": "###### Artigo 8.º — Entidades formadoras\n\nPara a operacionalização do plano de formação previsto no n.º 6 do artigo 5.º e no artigo 7.º, são entidades formadoras os centros de emprego e formação profissional do IEFP, I. P.\n\n> Retificado pelo/a [Declaração de Retificação n.º 11-C/2020 - Diário da República n.º 53/2020, 2º Suplemento, Série I de 2020-03-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-c-2020-130277367), em vigor a partir de 2020-03-16"
+  },
+  "130271803": {
+   "fragment_id": "130326138",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 15 de março de 2020.\n\n113122691"
+  },
+  "130402225": {
+   "fragment_id": "130326123",
+   "type": 11,
+   "heading": "Artigo 3.º — Situação de crise empresarial",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 76-B/2020 - Diário da República n.º 55/2020, 2º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-b-2020-130399779), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### Artigo 3.º — Situação de crise empresarial\n\n1 - Para efeitos de aplicação da presente portaria, considera-se situação de crise empresarial:\n\na) A paragem total da atividade da empresa ou estabelecimento que resulte da interrupção das cadeias de abastecimento globais, da suspensão ou cancelamento de encomendas;\n\nb) A quebra abrupta e acentuada de, pelo menos, 40 % da faturação, nos 60 dias anteriores ao pedido junto da segurança social com referência ao período homólogo ou, para quem tenha iniciado a atividade há menos de 12 meses, à média desse período.\n\n2 - As circunstâncias referidas nas alíneas a) e b) do número anterior são atestadas mediante declaração do empregador conjuntamente com certidão do contabilista certificado da empresa.\n\n3 - As entidades beneficiárias do presente apoio podem ser fiscalizadas, em qualquer momento, pelas entidades públicas competentes, devendo comprovar os factos em que se baseia o pedido e as respetivas renovações.\n\n4 - O comprovativo referido no número anterior é efetuado por prova documental, podendo ser requerida a apresentação de documentos, nos casos aplicáveis, nomeadamente:\n\na) Balancete contabilístico referente ao mês do apoio bem como do respetivo mês homólogo;\n\nb) Declaração de Imposto Sobre o Valor Acrescentado (IVA) referente ao mês do apoio bem como dos dois meses imediatamente anteriores, ou a declaração referente ao último trimestre de 2019 e o primeiro de 2020, conforme a requerente se encontre no regime de IVA mensal ou trimestral respetivamente, que evidenciem a intermitência ou interrupção das cadeias de abastecimento ou a suspensão ou cancelamento de encomendas; e\n\nc) Elementos comprovativos adicionais a fixar por despacho do membro do Governo da área do trabalho e da segurança social.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 76-B/2020 - Diário da República n.º 55/2020, 2º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-b-2020-130399779), em vigor a partir de 2020-03-19"
+  },
+  "130402226": {
+   "fragment_id": "130326125",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 76-B/2020 - Diário da República n.º 55/2020, 2º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-b-2020-130399779), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial\n\n1 - O apoio extraordinário à manutenção de contrato de trabalho em empresa em situação de crise empresarial reveste a forma de um apoio financeiro, por trabalhador, atribuído à empresa, destinado, exclusivamente, ao pagamento de remunerações.\n\n2 - Para efeitos de aplicação do previsto no número anterior o empregador comunica, por escrito, aos trabalhadores a decisão de requerer o apoio extraordinário à manutenção dos postos de trabalho, indicando a duração previsível, ouvidos os delegados sindicais e comissões de trabalhadores quando existam, remetendo de imediato requerimento ao Instituto da Segurança Social, I. P. (ISS, I. P.), acompanhado dos documentos referidos no n.º 2 do artigo 3.º e bem assim a listagem nominativa dos trabalhadores abrangidos e respetivo número de segurança social.\n\n3 - Durante o período de aplicação desta medida, a empresa tem direito a um apoio financeiro nos mesmos termos do previsto no n.º 4 do artigo 305.º do Código do Trabalho, com duração de um mês.\n\n4 - O presente apoio pode ser, excecionalmente, prorrogável mensalmente, até ao máximo de 6 meses.\n\n5 - Revogado.\n\n6 - Esta medida pode ainda ser cumulável com um plano de formação aprovado pelo IEFP, I. P., ao qual acresce uma bolsa nos mesmos termos do previsto no n.º 5 do artigo 305.º do Código do Trabalho.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 76-B/2020 - Diário da República n.º 55/2020, 2º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-b-2020-130399779), em vigor a partir de 2020-03-19"
+  },
+  "130788406": {
+   "fragment_id": "130326121",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria define e regulamenta os termos e as condições de atribuição dos apoios imediatos de carácter extraordinário, temporário e transitório, destinadas aos trabalhadores e empregadores afetados pelo surto do vírus COVID-19, tendo em vista a manutenção dos postos de trabalho e mitigar situações de crise empresarial.\n\n2 - As medidas referidas no número anterior, são as seguintes:\n\na) O apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial, com ou sem formação;\n\nb) O plano extraordinário de formação;\n\nc) O incentivo financeiro extraordinário para apoio à normalização da atividade da empresa; e\n\nd) A isenção temporária do pagamento de contribuições para a Segurança Social, a cargo da entidade empregadora.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788407": {
+   "fragment_id": "130326122",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - As medidas previstas na presente portaria aplicam-se aos empregadores de natureza privada, incluindo as entidades empregadoras do setor social, e trabalhadores ao seu serviço, afetados pelo surto do vírus COVID-19, que em consequência se encontrem, comprovadamente, em situação de crise empresarial.\n\n2 - As demais situações de encerramento temporário ou diminuição temporária da atividade da empresa ocorridas no período de vigência desta portaria, mas que não sejam consequência de situação de crise empresarial, aplica-se o disposto na alínea a) do n.º 1 do artigo 309.º do Código do Trabalho.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788408": {
+   "fragment_id": "130326123",
+   "type": 11,
+   "heading": "Artigo 3.º — Situação de crise empresarial",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 76-B/2020 - Diário da República n.º 55/2020, 2º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-b-2020-130399779), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### Artigo 3.º — Situação de crise empresarial\n\n1 - Para efeitos de aplicação da presente portaria, considera-se situação de crise empresarial:\n\na) A paragem total da atividade da empresa ou estabelecimento que resulte da interrupção das cadeias de abastecimento globais, da suspensão ou cancelamento de encomendas;\n\nb) A quebra abrupta e acentuada de, pelo menos, 40 % da faturação, nos 60 dias anteriores ao pedido junto da segurança social com referência ao período homólogo ou, para quem tenha iniciado a atividade há menos de 12 meses, à média desse período.\n\n2 - As circunstâncias referidas nas alíneas a) e b) do número anterior são atestadas mediante declaração do empregador conjuntamente com certidão do contabilista certificado da empresa.\n\n3 - As entidades beneficiárias do presente apoio podem ser fiscalizadas, em qualquer momento, pelas entidades públicas competentes, devendo comprovar os factos em que se baseia o pedido e as respetivas renovações.\n\n4 - O comprovativo referido no número anterior é efetuado por prova documental, podendo ser requerida a apresentação de documentos, nos casos aplicáveis, nomeadamente:\n\na) Balancete contabilístico referente ao mês do apoio bem como do respetivo mês homólogo;\n\nb) Declaração de Imposto Sobre o Valor Acrescentado (IVA) referente ao mês do apoio bem como dos dois meses imediatamente anteriores, ou a declaração referente ao último trimestre de 2019 e o primeiro de 2020, conforme a requerente se encontre no regime de IVA mensal ou trimestral respetivamente, que evidenciem a intermitência ou interrupção das cadeias de abastecimento ou a suspensão ou cancelamento de encomendas; e\n\nc) Elementos comprovativos adicionais a fixar por despacho do membro do Governo da área do trabalho e da segurança social.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 76-B/2020 - Diário da República n.º 55/2020, 2º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-b-2020-130399779), em vigor a partir de 2020-03-19"
+  },
+  "130788409": {
+   "fragment_id": "130326124",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de acesso",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de acesso\n\nPara aceder às medidas previstas na presente portaria, o empregador deve, comprovadamente, ter as situações contributiva e tributária regularizadas perante a Segurança Social e a Autoridade Tributária e Aduaneira.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788410": {
+   "fragment_id": "130326125",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 76-B/2020 - Diário da República n.º 55/2020, 2º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-b-2020-130399779), em vigor a partir de 2020-03-19"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial\n\n1 - O apoio extraordinário à manutenção de contrato de trabalho em empresa em situação de crise empresarial reveste a forma de um apoio financeiro, por trabalhador, atribuído à empresa, destinado, exclusivamente, ao pagamento de remunerações.\n\n2 - Para efeitos de aplicação do previsto no número anterior o empregador comunica, por escrito, aos trabalhadores a decisão de requerer o apoio extraordinário à manutenção dos postos de trabalho, indicando a duração previsível, ouvidos os delegados sindicais e comissões de trabalhadores quando existam, remetendo de imediato requerimento ao Instituto da Segurança Social, I. P. (ISS, I. P.), acompanhado dos documentos referidos no n.º 2 do artigo 3.º e bem assim a listagem nominativa dos trabalhadores abrangidos e respetivo número de segurança social.\n\n3 - Durante o período de aplicação desta medida, a empresa tem direito a um apoio financeiro nos mesmos termos do previsto no n.º 4 do artigo 305.º do Código do Trabalho, com duração de um mês.\n\n4 - O presente apoio pode ser, excecionalmente, prorrogável mensalmente, até ao máximo de 6 meses.\n\n5 - Revogado.\n\n6 - Esta medida pode ainda ser cumulável com um plano de formação aprovado pelo IEFP, I. P., ao qual acresce uma bolsa nos mesmos termos do previsto no n.º 5 do artigo 305.º do Código do Trabalho.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 76-B/2020 - Diário da República n.º 55/2020, 2º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-b-2020-130399779), em vigor a partir de 2020-03-19"
+  },
+  "130788411": {
+   "fragment_id": "130326126",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano extraordinário de formação",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 6.º — Plano extraordinário de formação\n\n1 - As empresas que, abrangidas no âmbito da presente portaria, não tenham recorrido ao apoio extraordinário previsto no artigo 5.º, podem aceder a um apoio extraordinário para formação profissional a tempo parcial, mediante um plano de formação definido nos termos do artigo 7.º, tendo em vista a manutenção dos respetivos postos de trabalho e o reforço das competências dos seus trabalhadores, de forma a atuar preventivamente sobre o desemprego, nos termos do disposto no Decreto-Lei n.º 13/2015, de 26 de janeiro.\n\n2 - O apoio extraordinário referido neste artigo tem a duração de um mês e destina-se à implementação do plano formação definido no artigo seguinte.\n\n3 - O apoio extraordinário a atribuir a cada trabalhador abrangido é suportado pelo IEFP, I. P., e é concedido em função das horas de formação frequentadas, até ao limite de 50 % da retribuição ilíquida, com o limite máximo da RMMG.\n\n4 - Nas situações previstas no n.º 1 o empregador comunica aos trabalhadores, por escrito, a decisão de iniciar um plano de formação e a duração previsível da medida, remetendo de imediato informação ao IEFP, I. P., acompanhada dos documentos referidos no n.º 2 do artigo 3.º\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788412": {
+   "fragment_id": "130326127",
+   "type": 11,
+   "heading": "Artigo 7.º — Planos de formação",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27",
+    "Retificado pelo/a [Declaração de Retificação n.º 11-C/2020 - Diário da República n.º 53/2020, 2º Suplemento, Série I de 2020-03-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-c-2020-130277367), em vigor a partir de 2020-03-16"
+   ],
+   "markdown": "###### Artigo 7.º — Planos de formação\n\n1 - O plano de formação referido no n.º 6 do artigo 5.º e no artigo anterior deve:\n\na) Ser implementado em articulação com a entidade, cabendo ao IEFP, I. P., a sua organização, podendo ser desenvolvido a distância quando possível e as condições o permitirem;\n\nb) Contribuir para a melhoria das competências profissionais dos trabalhadores, sempre que possível aumentando o seu nível de qualificação, e contribuir para o aumento da competitividade da empresa;\n\nc) Corresponder às modalidades de qualificação previstas no âmbito do Sistema Nacional de Qualificações.\n\n2 - No caso da formação prevista no artigo anterior, a sua duração não deve ultrapassar 50 % do período normal de trabalho durante o período em que decorre.\n\n3 - O número mínimo de formandos a integrar em cada ação de formação é definido por acordo entre o IEFP, I. P., e o empregador, atenta a legislação enquadradora da respetiva modalidade de formação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27\n\n> Retificado pelo/a [Declaração de Retificação n.º 11-C/2020 - Diário da República n.º 53/2020, 2º Suplemento, Série I de 2020-03-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-c-2020-130277367), em vigor a partir de 2020-03-16"
+  },
+  "130788413": {
+   "fragment_id": "130326128",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades formadoras",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27",
+    "Retificado pelo/a [Declaração de Retificação n.º 11-C/2020 - Diário da República n.º 53/2020, 2º Suplemento, Série I de 2020-03-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-c-2020-130277367), em vigor a partir de 2020-03-16"
+   ],
+   "markdown": "###### Artigo 8.º — Entidades formadoras\n\nPara a operacionalização do plano de formação previsto no n.º 6 do artigo 5.º e no artigo 7.º, são entidades formadoras os centros de emprego e formação profissional do IEFP, I. P.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27\n\n> Retificado pelo/a [Declaração de Retificação n.º 11-C/2020 - Diário da República n.º 53/2020, 2º Suplemento, Série I de 2020-03-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-c-2020-130277367), em vigor a partir de 2020-03-16"
+  },
+  "130788414": {
+   "fragment_id": "130326129",
+   "type": 11,
+   "heading": "Artigo 9.º — Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 9.º — Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa\n\n1 - Os empregadores que beneficiem das medidas previstas na presente portaria têm direito a um incentivo financeiro extraordinário para apoio à retoma da atividade da empresa, previsto na alínea c) do n.º 2 do artigo 1.º, a conceder pelo IEFP, I. P., pago de uma só vez e com o valor de uma RMMG por trabalhador.\n\n2 - Para aceder ao incentivo, o empregador apresenta requerimento ao IEFP, I. P., acompanhado, nomeadamente, dos documentos referidos no n.º 2 do artigo 3.º\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788415": {
+   "fragment_id": "130326130",
+   "type": 11,
+   "heading": "Artigo 10.º — Isenção temporária do pagamento de contribuições para a Segurança Social",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 10.º — Isenção temporária do pagamento de contribuições para a Segurança Social\n\n1 - Os empregadores que beneficiem das medidas previstas na presente portaria têm direito à isenção total do pagamento das contribuições à Segurança Social a cargo da entidade empregadora, relativamente aos trabalhadores abrangidos e membros dos órgãos estatutários, durante o período de vigência das mesmas.\n\n2 - O direito à isenção prevista no número anterior é aplicável igualmente aos trabalhadores independentes que sejam entidades empregadoras beneficiárias das medidas e respetivos cônjuges.\n\n3 - A isenção reporta-se às contribuições referentes às remunerações relativas aos meses em que a empresa seja beneficiária das medidas.\n\n4 - A dispensa do pagamento de contribuições relativa aos trabalhadores independentes determina o registo de remunerações por equivalência à entrada de contribuições de acordo com a base de incidência contributiva que for aplicável.\n\n5 - As entidades empregadoras entregam as declarações de remunerações autónomas relativas aos trabalhadores abrangidos e efetuam o pagamento das respetivas quotizações.\n\n6 - A isenção do pagamento de contribuições aplicável aos trabalhadores independentes não afasta a obrigação de entrega da declaração trimestral.\n\n7 - A isenção do pagamento de contribuições relativamente aos trabalhadores abrangidos é reconhecida oficiosamente, designadamente com base na informação transmitida pelo IEFP, I. P.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788416": {
+   "fragment_id": "130326131",
+   "type": 11,
+   "heading": "Artigo 11.º — Falsas declarações",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 11.º — Falsas declarações\n\nAs falsas declarações para obtenção das isenções previstas no artigo anterior tornam exigíveis as contribuições relativas ao período em que tenha vigorado o regime excecional, sem prejuízo da aplicação das sanções legais previstas para o respetivo ilícito.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788417": {
+   "fragment_id": "130326132",
+   "type": 11,
+   "heading": "Artigo 12.º — Incumprimento e restituição do apoio",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 12.º — Incumprimento e restituição do apoio\n\n1 - O incumprimento por parte do empregador das obrigações relativas aos apoios previstos na presente portaria implica a imediata cessação dos mesmos e a restituição ou pagamento, conforme o caso, total ou proporcional, dos montantes já recebidos ou isentados, quando que se verifique alguma das seguintes situações:\n\na) Despedimento, exceto por facto imputável ao trabalhador;\n\nb) Não cumprimento pontual das obrigações retributivas devidas aos trabalhadores;\n\nc) Não cumprimento pelo empregador das suas obrigações legais, fiscais ou contributivas;\n\nd) Distribuição de lucros durante a vigência das obrigações decorrentes da concessão do incentivo, sob qualquer forma, nomeadamente a título de levantamento por conta;\n\ne) Incumprimento, imputável ao empregador, das obrigações assumidas, nos prazos estabelecidos;\n\nf) Prestação de falsas declarações.\n\n2 - Caso a restituição prevista nos números anteriores não seja efetuada, voluntariamente, no prazo fixado pelo IEFP, I. P., são devidos juros de mora à taxa legal em vigor, desde o fim desse prazo, ou aplicável, no que respeita aos valores devidos à Segurança Social, o disposto no Decreto-Lei n.º 133/88, de 20 de abril, na sua redação atual, sendo realizada cobrança coerciva nos termos da legislação em vigor.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788418": {
+   "fragment_id": "130326133",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentação",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 13.º — Regulamentação\n\nAs medidas previstas na presente portaria são objeto de regulamentação interna, competindo a cada um dos organismos públicos responsáveis a respetiva elaboração.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788419": {
+   "fragment_id": "130326134",
+   "type": 11,
+   "heading": "Artigo 14.º — Cumulação de medidas",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 14.º — Cumulação de medidas\n\nAs medidas previstas na presente portaria são cumuláveis com outros apoios.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788420": {
+   "fragment_id": "130326135",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 15.º — Avaliação\n\nAs medidas previstas na presente portaria são objeto de avaliação regular por parte da Comissão Permanente da Concertação Social.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788421": {
+   "fragment_id": "130326136",
+   "type": 11,
+   "heading": "Artigo 16.º — Financiamento comunitário",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 16.º — Financiamento comunitário\n\nOs apoios previstos na presente portaria são passíveis de financiamento comunitário, sendo-lhe aplicável as respetivas disposições do direito comunitário e nacional.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788422": {
+   "fragment_id": "130326137",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  },
+  "130788423": {
+   "fragment_id": "130326138",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 15 de março de 2020.\n\n113122691\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 10-G/2020 - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), em vigor a partir de 2020-03-27"
+  }
+ }
+}

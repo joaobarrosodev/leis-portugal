@@ -1,0 +1,57 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:572153:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2014-213558671",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/16-2014-572153",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-03-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213622519"
+   ]
+  },
+  {
+   "date": "2023-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213558632:por",
+     "title": "Decreto-Lei n.º 35/2023",
+     "published": "2023-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/35-2023-213558632"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "213622519",
+    "213622520"
+   ]
+  }
+ ],
+ "fragments": {
+  "213622519": {
+   "fragment_id": "213558672",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-06-01",
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 16/2014\n\nO XIX Governo Constitucional assume a promoção da coesão e do desenvolvimento territoriais como um dos objetivos principais da sua ação. Sem prejuízo da situação excecionalidade financeira e do quadro de obrigações internacionais de ajustamento extraordinariamente exigentes a que o País tem estado sujeito, o Governo tem procurado respeitar a autonomia regional e local, combater os desequilíbrios territoriais e apostar no diálogo e concertação social e institucional.\n\nEsses objetivos políticos têm tido concretização na ação governativa, designadamente com o reforço da dimensão territorial do próximo quadro de fundos estruturais «Portugal 2020», no trabalho da Equipa para os Assuntos do Território, com a implementação do «Programa Aproximar» para a descentralização das políticas públicas e para reorganização da rede de serviços públicos desconcentrado, com a Lei n.º 75/2013, de 12 de setembro, que aprovou o regime jurídico das autarquias locais e o estatuto das entidades intermunicipais (RJAL), e com a revisão dos instrumentos legislativos estruturais do ordenamento do território. Também na dimensão financeira e orçamental, a Lei das Finanças das Regiões Autónomas, o Regime Financeiro das Autarquias Locais e das Entidades Intermunicipais, as reformas organizativas e institucionais das autarquias locais, o Programa de Assistência Financeira à Região Autónoma da Madeira (PAEF-RAM) e o Programa de Apoio à Economia Local (PAEL) têm procurado robustecer quer a relação entre o Estado e as entidades políticas infraestaduais, quer o equilíbrio e autonomia financeira destas últimas.\n\nO espírito de diálogo e sentido de compromisso do Governo e dos representantes das entidades políticas infraestaduais ficaram demonstrados no acordo entre o Governo da República e o Governo Regional da Madeira sobre o PAEF-RAM, no acordo entre o Governo e a Associação Nacional de Municípios Portugueses, de maio de 2012, sobre o PAEL, o Imposto Municipal sobre Imóveis e a Lei dos Compromissos, bem como nos acordos entre o Governo e a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias, de julho de 2013, sobre a nova Lei das Finanças Locais e o RJAL.\n\nNeste quadro, o Governo considera ser este o momento adequado para um relevante passo adicional na concertação entre as entidades políticas dos vários níveis territoriais, de modo a criar uma instância de diálogo permanente, periódico e institucionalizado.\n\nO Governo entende, assim, que, tal como no domínio económico e social, onde a existência o Conselho Económico e Social tem permitido institucionalizar o diálogo e construir compromissos sobre opções de políticas públicas, também ao nível da intervenção política sobre o território será benéfica a criação de uma plataforma institucional de concertação entre o Governo da República e os vários níveis territoriais infraestaduais, a saber: regiões autónomas, áreas metropolitanas, comunidades intermunicipais, municípios e freguesias.\n\nAssim, o Conselho de Concertação Territorial, que agora se cria, terá como objetivo, entre outros, debater assuntos com dimensão territorial relevantes para as entidades nele representadas, analisar matérias que exijam ou pressuponham a articulação entre diferentes níveis de Administração do território ou regulem a atuação de entidades políticas infraestaduais, acompanhar estratégias políticas e programas com incidência no desenvolvimento territorial e debater estratégias de cooperação entre os diferentes níveis de Administração do território.\n\nA criação desta plataforma de diálogo permanente, periódico e institucionalizado facilita o debate e a concertação de posições, o que permitirá melhorar a qualidade e a legitimidade das decisões, com especial incidência territorial e nas relações entre os diferentes níveis da Administração, com benefícios para as populações.\n\nForam ouvidos os Governos Regionais dos Açores e da Madeira, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Criar o Conselho de Concertação Territorial, adiante designado Conselho, como o órgão político de promoção da consulta e concertação entre o Governo e as diferentes entidades políticas infraestaduais, no plano regional e local.\n\n2 - Determinar que o Conselho tem por objetivo:\n\na) Debater assuntos com dimensão territorial relevantes para as entidades nele representadas, nomeadamente os que envolvam vários níveis de Administração do território;\n\nb) Analisar matérias que exijam ou pressuponham a articulação entre diferentes níveis de Administração do território ou regulem a atuação de entidades políticas infraestaduais;\n\nc) Acompanhar estratégias políticas e programas com incidência no desenvolvimento territorial;\n\nd) Debater estratégias de cooperação entre os diferentes níveis da Administração do território;\n\ne) Dinamizar o funcionamento do Conselho de Acompanhamento das Políticas Financeiras e do Conselho de Coordenação Financeira, criados, respetivamente, pela Lei Orgânica n.º 2/2013, de 2 de setembro, e pela Lei n.º 73/2013, de 3 de setembro.\n\n3 - Determinar que o Conselho é integrado pelos:\n\na) Primeiro-Ministro;\n\nb) Ministra de Estado e das Finanças;\n\nc) Ministro Adjunto e do Desenvolvimento Regional;\n\nd) Ministro da Economia;\n\ne) Ministro do Ambiente, Ordenamento do Território e Energia;\n\nf) Um membro do Governo Regional dos Açores;\n\ng) Um membro do Governo Regional da Madeira;\n\nh) Dois membros do conselho diretivo da Associação Nacional de Municípios Portugueses (ANMP);\n\ni) Dois membros do conselho diretivo da Associação Nacional de Freguesias;\n\nj) Presidente da Área Metropolitana de Lisboa;\n\nk) Presidente da Área Metropolitana do Porto;\n\nl) Dois presidentes de comunidades intermunicipais, designados pelo conselho consultivo da ANMP.\n\n4 - Estabelecer que o Conselho é presidido pelo Primeiro-Ministro ou pelo membro do Governo por ele indicado.\n\n5 - Estabelecer que podem participar nas reuniões do Conselho outros membros do Governo, por indicação do Primeiro-Ministro ou em representação dos membros do Governo que o integram.\n\n6 - Determinar que o Conselho reúne, ordinariamente, de quatro em quatro meses, e, extraordinariamente, por iniciativa do seu presidente.\n\n7 - Determinar que compete ao presidente do Conselho marcar as reuniões e distribuir a sua agenda de trabalho com uma antecedência de cinco dias úteis.\n\n8 - Estabelecer que o secretariado do Conselho é assegurado pelo gabinete do Secretário de Estado da Administração Local, que participa igualmente nas suas reuniões, e que cabe à Secretaria-Geral da Presidência do Conselho de Ministros o apoio administrativo e logístico, incluindo instalações.\n\nPresidência do Conselho de Ministros, 20 de fevereiro de 2014. — O Primeiro -Ministro, Pedro Passos Coelho."
+  },
+  "213622520": {
+   "fragment_id": "213558673",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 35/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2023-213558632), em vigor a partir de 2023-06-01"
+   ],
+   "markdown": "Presidência do Conselho de Ministros, 20 de fevereiro de 2014. — O Primeiro -Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 35/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2023-213558632), em vigor a partir de 2023-06-01"
+  }
+ }
+}

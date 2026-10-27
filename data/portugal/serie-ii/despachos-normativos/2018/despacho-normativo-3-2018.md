@@ -1,0 +1,676 @@
+---
+schema_version: '1.0'
+id: pt:dre:114541492:por
+title: Despacho Normativo n.º 3/2018
+short_title: null
+summary: Procede à quinta alteração ao Despacho Normativo n.º 6/2015, de 20 de fevereiro, alterado pelos Despachos Normativos
+  n.os 16/2015, de 25 de agosto, 1-B/2016, de 11 de fevereiro, que o republicou, 4/2016, de 9 de maio, e 15-B/2016, de 29
+  de dezembro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Agricultura, Florestas e Desenvolvimento Rural - Gabinete do Ministro
+proposing_entity: null
+official_number: 3/2018
+official_date: null
+publication_date: '2018-01-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/2018, Série II de 2018-01-18
+  number: '13'
+  series: II
+  supplement: null
+  pages: 2263 - 2266
+  pdf_url: https://files.diariodarepublica.pt/2s/2018/01/013000000/0226302266.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '114541492'
+  dre_path: /dr/detalhe/despacho-normativo/3-2018-114541492
+  internal: pt:dre:114541492:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2018-114541492
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-2018-114541492
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:08:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 81b63bd9bad8175f959b77721b8fcfd7e9029e4c98de1ee4966254f671d9320e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agricultura
+- IFAP
+- Política Agrícola Comum
+- Regulamento CE
+relationships:
+- type: amended_by
+  target: pt:dre:118010891:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:118010891:por
+  label: Alterados, com efeitos a 19.01.2019 e com aplicação a partir de 01.01.2015 o art. 2.º e os respetivos anexos I II
+    e III DN 6/2015, de 20-fev, na redação do presente diploma, pelo(a) Despacho Normativo n.º 1/2019 - Diário da República
+    n.º 13/2019, Série II de 2019-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2019-118010891
+  date: '2019-01-18'
+- type: cites
+  target: celex:32013R1306
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105658698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66547565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73576679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74385175:por
+  label: null
+  source: null
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:08:25Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 3/2018
+
+O [Despacho Normativo n.º 6/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2015-66547565), de 20 de fevereiro, alterado pelos Despachos Normativos n.os [16/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2015-70086440), de 25 de agosto, [1-B/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-b-2016-73576679), de 11 de fevereiro, que o republicou, [4/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2016-74385175), de 9 de maio, e [15-B/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-b-2016-105658698), de 29 de dezembro, estabeleceu os requisitos legais de gestão (RLG) e as normas mínimas para as boas condições agrícolas e ambientais das terras (BCAA), no âmbito da condicionalidade, nos termos e para os efeitos do disposto no artigo 93.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
+
+Da experiência adquirida com a sua aplicação resulta a necessidade de se proceder a alguns ajustamentos no referido despacho, clarificando-se a redação de vários indicadores dos requisitos legais de gestão, nomeadamente no que se refere aos princípios e normas gerais da legislação alimentar, às regras para a prevenção, controlo e a erradicação de determinadas encefalopatias espongiformes transmissíveis e do bem-estar animal.
+
+Relativamente às boas condições agrícolas e ambientais das terras é introduzida uma nova obrigação na norma «Controlo da vegetação arbustiva nas superfícies com sobreiros destinados à produção de cortiça», no âmbito da BCAA 5 - «Gestão mínima das terras, refletindo as condições específicas do local para limitar a erosão».
+
+Assim, ao abrigo do disposto no artigo 93.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, determino o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente despacho normativo procede à quinta alteração ao [Despacho Normativo n.º 6/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2015-66547565), de 20 de fevereiro, alterado pelos Despachos Normativos n.os [16/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2015-70086440), de 25 de agosto, [1-B/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-b-2016-73576679), de 11 de fevereiro, que o republicou, [4/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2016-74385175), de 9 de maio, e [15-B/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-b-2016-105658698), de 29 de dezembro, que estabelece os requisitos legais de gestão e as normas mínimas para as boas condições agrícolas e ambientais, nos termos e para os efeitos do disposto no artigo 93.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
+
+###### Artigo 2.º — Alteração ao [Despacho Normativo n.º 6/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2015-66547565), de 20 de fevereiro
+
+O artigo 2.º do [Despacho Normativo n.º 6/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2015-66547565), de 20 de fevereiro, alterado pelos Despachos Normativos n.os [16/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2015-70086440), de 25 de agosto, [1-B/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-b-2016-73576679), de 11 de fevereiro, [4/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2016-74385175), de 9 de maio, e [15-B/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-b-2016-105658698), de 29 de dezembro, passa ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+[...]:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) [...];
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) (Revogada.)
+
+i) [...];
+
+j) [...];
+
+k) [...];
+
+l) [...];
+
+m) [...];
+
+n) [...];
+
+o) [...];
+
+p) [...];
+
+q) [...];
+
+r) [...];
+
+s) 'Arvoredo de interesse público', as árvores isoladas ou os conjuntos arbóreos, classificados ao abrigo da [Lei n.º 53/2012](https://diariodarepublica.pt/dr/detalhe/lei/53-2012-174836), de 5 de setembro, regulamentada pela Portaria n.º 124/2014, de 24 de junho;
+
+t) [...];
+
+u) [...];
+
+v) [...];
+
+x) [...];
+
+y) [...].»
+
+###### Artigo 3.º — Alteração aos anexos I, II, III e V, do [Despacho Normativo n.º 6/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2015-66547565), de 20 de fevereiro
+
+Os anexos I, II, III e V do [Despacho Normativo n.º 6/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2015-66547565), de 20 de fevereiro, alterado pelos Despachos Normativos n.os [16/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2015-70086440), de 25 de agosto, [1-B/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-b-2016-73576679), de 11 de fevereiro, [4/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2016-74385175), de 9 de maio, e [15-B/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-b-2016-105658698), de 29 de dezembro, passam a ter a seguinte redação:
+
+«ANEXO I
+
+[...]
+
+1 - [...]
+
+1.1 - [...]
+
+1.2 - [...]
+
+1.2.1 - [...]
+
+1.2.2 - [...]
+
+1.2.3 - [...]
+
+1.2.4 - [...]
+
+1.2.5 - [...]
+
+1.2.6 - [...]
+
+A superfície ocupada com sobreiros, de regeneração natural ou plantados, explorados para a produção de cortiça que apresenta uma densidade igual ou superior a 40 sobreiros/ha e em que o sobreiro é predominante, com percentagem igual ou superior a 60 % do coberto arbóreo da parcela.
+
+1.2.7 - [...]
+
+1.3 - [...]
+
+1.4 - [...]
+
+1.4.1 - (Revogado.)
+
+1.4.2 - (Revogado.)
+
+2 - [...]
+
+2.1 - [...]
+
+As superfícies ocupadas com árvores florestais de regeneração natural ou plantadas, independentemente de se tratarem de superfícies com povoamentos de uma só espécie ou mistos, incluindo as áreas ardidas ou áreas de corte raso. Inclui:
+
+2.1.1 - [...]
+
+2.1.2 - Povoamento de outras folhosas:
+
+As superfícies ocupadas com árvores florestais, sem aproveitamento do sob coberto para a produção vegetal, em que o castanheiro e alfarrobeira não explorados para a produção de fruto, o eucalipto, o ulmeiro, o freixo, o salgueiro e outras folhosas são predominantes, com percentagem superior a 60 % do coberto arbóreo.
+
+2.1.3 - [...]
+
+2.1.4 - [...]
+
+2.1.5 - [...]
+
+As superfícies ocupadas com espécies florestais que não estão contempladas nos níveis anteriores, designadamente o incenso.
+
+2.2 - [...]
+
+2.3 - [...]
+
+2.3.1 - [...]
+
+Superfície de terreno mobilizado ou com vegetação controlada, nomeadamente, por corte mecânico, moto manual ou fogo controlado, com a finalidade de prevenção de incêndios.
+
+2.3.2 - [...]
+
+2.3.3 - [...]
+
+3 - [...]
+
+ANEXO II
+
+[...]
+
+I - [...]
+
+A - [...]
+
+RLG 1 - [...]
+
+1 - [...].
+
+2 - [...]
+
+3 - [...]
+
+(1) [...]
+
+(2) [...]
+
+(3) [...]
+
+(4) [...]
+
+(5) [...]
+
+(6) [...]
+
+(7) Comparação com a época em que não é permitido aplicar às terras determinados tipos de fertilizantes, nos termos do n.º 1 do artigo 4.º e anexo II da Portaria n.º 259/2012, de 28 de agosto, e da Nota Interpretativa n.º 2/2017 - Retificada, da DGADR, de 1 de março de 2017.
+
+(8) [...]
+
+RLG 2 e RLG 3 - [...]
+
+B - [...]
+
+RLG 4 - [...]
+
+Área n.º 1 - [...]
+
+1 - [...].
+
+2 - [...]
+
+3 - [...]
+
+3.1 - Existência de processo de infração relativamente à não comunicação à autoridade competente da existência de géneros alimentícios ou alimentos para animais, de origem vegetal, que não estejam em conformidade com os requisitos de segurança alimentar.
+
+3.2 - Existência de processo de infração por ultrapassagem dos limites máximos de resíduos de pesticidas em géneros alimentícios ou alimentos para animais, de origem vegetal, no âmbito do Plano de Controlo de Resíduos de Pesticidas em produtos de origem vegetal.
+
+Área n.º 2 - [...]
+
+Área n.º 2.1 - [...]
+
+Área n.º 2.2 - [...]
+
+(1) [...]
+
+(2) [...]
+
+(3) Qualquer produto vegetal primário ou transformado produzido na exploração e que foi transacionado, designadamente grãos de cereais e milho silagem.
+
+(4) [...]
+
+(5) [...]
+
+A - [...]
+
+1 - [...]
+
+2 - Identificação da Autorização Provisória de Venda (APV), Autorização de Venda (AV), Autorização de Comércio Paralelo (ACP) ou Autorização Excecional de Emergência (AEE), que consta no rótulo do produto fitofarmacêutico;
+
+3 - [...]
+
+4 - [...]
+
+5 - Concentração ou dose aplicada do produto fitofarmacêutico;
+
+6 - [...]
+
+7 - (Revogado.)
+
+8 - [...]
+
+B - [...]
+
+(6) [...]
+
+(7) [...]
+
+(8) Qualquer alimento ou ingrediente destinado a ser incorporado num alimento para animais produtores de géneros alimentícios, bem como os produtos primários de origem animal (ovos, leite cru, mel e colostro). Excluem-se os medicamentos veterinários.
+
+(9) [...]
+
+RLG 5 - [...]
+
+RLG 6 - [...]
+
+RLG 7 - [...]
+
+RLG 8 - [...]
+
+1 - [...]
+
+2 - [...]
+
+2.1 - Os ovinos e caprinos presentes na exploração apresentam-se devidamente identificados.
+
+RLG 9 - [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - Comunicação, recolha e eliminação de cadáveres de ruminantes:
+
+3.1 - Existência de mortes de animais que não foram comunicadas ao SNIRA.
+
+3.2 - Existência de casos de cadáveres de animais comunicados, mas não recolhidos pela UTS (Unidade de Transformação de Subprodutos) por motivos imputáveis ao beneficiário.
+
+4 - [...]
+
+5 - [...]
+
+RLG 10 - [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+3.1 - O aplicador de produtos fitofarmacêuticos está devidamente habilitado (2).
+
+(1) [...]
+
+(2) De acordo com o [Decreto-Lei n.º 254/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2015-72991304), de 30 de setembro, considera-se que o aplicador de produtos fitofarmacêuticos está devidamente habilitado desde que, pelo menos, apresente cópia do certificado de aproveitamento, certificado de formação, certificado de aptidão ou declaração previstos no Despacho da DGAV n.º 8/G/2017 de 29 de março.
+
+C - [...]
+
+RLG 11 - [...]
+
+[...]
+
+1 - [...]
+
+1.1 - São cumpridas as normas definidas na legislação em vigor relativamente à instalação elétrica e no que concerne às instalações, aos pavimentos e às áreas de repouso:
+
+1.1.1 - Instalação elétrica está protegida para evitar qualquer choque elétrico.
+
+1.1.2 - Instalações dos animais.
+
+1.1.3 - Pavimento e áreas de repouso.
+
+1.2 - (Revogado.)
+
+1.3 - [...]
+
+1.4 - As instalações, compartimentos, equipamento e utensílios destinados aos vitelos são limpos e desinfetados e a remoção de fezes, urina e alimentos não consumidos ou derramados, é efetuada tão frequentemente quanto possível, para reduzir, ao mínimo, os cheiros e não atrair moscas e roedores.
+
+1.5 - [...]
+
+1.6 - [...]
+
+1.7 - São cumpridas as normas definidas na legislação em vigor relativamente aos compartimentos individuais e aos vitelos criados em grupo (compartimentos e espaço livre):
+
+1.7.1 - Os vitelos com idade superior a 8 semanas não estão confinados em compartimentos individuais (exceto se tiver certificado veterinário justificativo do isolamento).
+
+1.7.2 - As paredes dos compartimentos permitem o contacto visual e tátil entre os vitelos.
+
+1.7.3 - As dimensões dos compartimentos individuais estão de acordo com o estabelecido por lei.
+
+1.7.4 - O espaço livre individual para os vitelos criados em grupo está de acordo com o estabelecido por lei.
+
+2 - Alimentação, água e outras substâncias:
+
+2.1 - [...]
+
+2.2 - [...]
+
+2.3 - [...]
+
+3 - [...]
+
+3.1 - Todos os vitelos criados em estábulo são inspecionados pelo menos duas vezes por dia.
+
+3.2 - Os vitelos criados ao ar livre são inspecionados pelo menos uma vez por dia.
+
+RLG 12 - [...]
+
+[...]
+
+1 - [...]
+
+1.1 - [...]
+
+1.2 - [...]
+
+1.3 - [...]
+
+1.3.1 - Instalação elétrica está protegida para evitar qualquer choque elétrico.
+
+1.3.2 - São cumpridas as normas definidas na legislação em vigor, relativamente aos pavimentos.
+
+1.4 - [...]
+
+1.5 - [...]
+
+1.6 - [...]
+
+2 - (Revogado.)
+
+3 - [...]
+
+4 - [...]
+
+RLG 13 - [...]
+
+1 - [...]
+
+1.1.1 - Pessoal em número suficiente.
+
+1.1.2 - Pessoal com capacidade profissional.
+
+2 - [...]
+
+2.1 - Os animais cujo bem-estar dependa de cuidados humanos frequentes, são inspecionados, pelo menos, uma vez por dia.
+
+2.2 - Os animais mantidos noutros sistemas são inspecionados com a frequência necessária para evitar qualquer sofrimento.
+
+2.3 - Existe uma fonte de iluminação adequada para a inspeção (fixa ou portátil).
+
+2.4 - (Anterior n.º 2.3.)
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+5.1 - [...]
+
+5.1.1 - Instalações, compartimentos e materiais utilizados, não causam lesões ou sofrimento desnecessários.
+
+5.1.2 - Instalações, compartimentos e materiais utilizados, são de fácil limpeza e desinfeção.
+
+5.2 - [...]
+
+5.3 - [...]
+
+5.4 - [...]
+
+5.5 - [...]
+
+6 - [...]
+
+6.1 - Todo o equipamento automático ou mecânico que seja indispensável para a saúde e o bem-estar dos animais é inspecionado, pelo menos, uma vez por dia.
+
+6.2 - São tomadas medidas corretivas para salvaguardar a saúde e o bem-estar dos animais, nas situações de anomalia do equipamento automático ou mecânico.
+
+6.3 - Caso a saúde e bem-estar dos animais, em instalações fechadas, dependam de um sistema de ventilação artificial, deve existir um sistema de recurso adequado que garanta uma renovação do ar suficiente, bem como um sistema de alarme que advirta de qualquer avaria.
+
+6.4 - O sistema de alarme é testado regularmente.
+
+7 - [...]
+
+7.1 - [...]
+
+7.1.1 - Com a periodicidade e quantidade necessária.
+
+7.1.2 - Os alimentos fornecidos são adequados à espécie, idade e necessidades nutricionais dos animais.
+
+7.2 - O modo de fornecimento dos alimentos, bem como as substâncias neles contidas, não causam sofrimento ou lesões desnecessárias aos animais.
+
+7.3 - (Revogado.)
+
+7.4 - A água é adequada às necessidades fisiológicas dos animais.
+
+7.4.1 - Os animais têm acesso à água em quantidade suficiente.
+
+7.4.2 - Qualidade da água é a adequada.
+
+7.5 - A conceção, construção, colocação e manutenção do equipamento de fornecimento de alimentação e água:
+
+7.5.1 - Minimiza os riscos de contaminação dos alimentos e da água destinada aos animais.
+
+7.5.2 - Minimiza os efeitos lesivos que podem resultar da luta entre os animais para aceder à alimentação ou água.
+
+7.6 - [...]
+
+8 - [...]
+
+9 - [...]
+
+[...]
+
+II - [...]
+
+RLG 14 - [...]
+
+ANEXO III
+
+[...]
+
+A - [...]
+
+BCAA 1 - [...]
+
+BCAA 2 - [...]
+
+BCAA 3 - [...]
+
+BCAA 4 - [...]
+
+BCAA 5 - [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+a) Nas parcelas com IQFP igual a 1, o controlo da vegetação só pode ser realizado com moto roçadora, corta-matos ou grade de discos ligeira, devendo, neste último caso, ser guardada uma distância ao tronco das árvores igual ou superior ao raio da projeção horizontal da copa no solo;
+
+b) [...]
+
+c) [...]
+
+BCAA 6 - [...]
+
+'Queimadas para renovação de pastagens e eliminação de restolhos' - O uso do fogo para renovação dos prados e pastagens permanentes e eliminação de restolho, deve cumprir o disposto no artigo 27.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de junho, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 17/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), de 14 de janeiro, sendo que o uso do fogo para a eliminação de restolho só é permitido por razões fitossanitárias devidamente comprovadas pela autoridade competente na matéria.
+
+BCAA 7 - [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+a) [...]
+
+b) [...]
+
+c) Arvoredo de interesse público localizado nas parcelas de superfície agrícola.
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - [...]
+
+[...]
+
+ANEXO V
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+6.1 - Arvoredo de interesse público.»
+
+###### Artigo 4.º — Norma revogatória
+
+São revogados no anexo II do [Despacho Normativo n.º 6/2015](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2015-66547565), de 20 de fevereiro, na sua redação atual:
+
+a) O indicador 1.2 do requisito legal de gestão n.º 11;
+
+b) O indicador 7.3 do requisito legal de gestão n.º 13.
+
+###### Artigo 5.º — Entrada em vigor e produção de efeitos
+
+O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2018.
+
+10 de janeiro de 2018. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos.
+
+311057459

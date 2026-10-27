@@ -1,0 +1,832 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:247981:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2008-174356393",
+ "dre_path": "/dr/detalhe/lei/7-2008-247981",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-02-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174339136",
+    "174339137",
+    "174339138",
+    "174339139",
+    "174339140",
+    "174339141",
+    "174339142",
+    "174339143",
+    "174339144",
+    "174339145",
+    "174339146",
+    "174339147",
+    "174339148",
+    "174339149",
+    "174339150",
+    "174339151",
+    "174339152",
+    "174339153",
+    "174339154",
+    "174339155",
+    "174339156",
+    "174339157",
+    "174339158",
+    "174339159",
+    "174339160",
+    "174339161",
+    "174339162",
+    "174339163",
+    "174339164",
+    "174339165",
+    "174339166",
+    "174339167",
+    "174339168",
+    "174339169",
+    "174339170",
+    "174339171",
+    "174339172",
+    "174339173",
+    "174339174",
+    "174401575",
+    "174401576",
+    "174401577",
+    "174401578",
+    "174401579",
+    "174401580",
+    "174401581",
+    "174401582",
+    "174401583",
+    "174401584",
+    "174401585",
+    "174401586"
+   ]
+  },
+  {
+   "date": "2015-10-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70485722:por",
+     "title": "Decreto-Lei n.º 221/2015",
+     "published": "2015-10-08",
+     "dre_path": "/dr/detalhe/decreto-lei/221-2015-70485722"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 37.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º"
+   ],
+   "fragments": [
+    "174339136",
+    "174339137",
+    "174339138",
+    "174339139",
+    "174401645",
+    "174401646",
+    "174401647",
+    "174339143",
+    "174339144",
+    "174339145",
+    "174401648",
+    "174401649",
+    "174339148",
+    "174339149",
+    "174339150",
+    "174339151",
+    "174339152",
+    "174401650",
+    "174339154",
+    "174401651",
+    "174401652",
+    "174339157",
+    "174339158",
+    "174401653",
+    "174401654",
+    "174401655",
+    "174339162",
+    "174401656",
+    "174401661",
+    "174401662",
+    "174401657",
+    "174339167",
+    "174339168",
+    "174339169",
+    "174339170",
+    "174339171",
+    "174339172",
+    "174401658",
+    "174339174",
+    "174401659",
+    "174401576",
+    "174401577",
+    "174401578",
+    "174401579",
+    "174401660",
+    "174401581",
+    "174401582",
+    "174401583",
+    "174401584",
+    "174401585",
+    "174401586",
+    "174401587"
+   ]
+  },
+  {
+   "date": "2021-11-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174340769:por",
+     "title": "Decreto-Lei n.º 97/2021",
+     "published": "2021-11-15",
+     "dre_path": "/dr/detalhe/decreto-lei/97-2021-174340769"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "174339136",
+    "174339137",
+    "174339138",
+    "174339139",
+    "174401645",
+    "174401646",
+    "174401647",
+    "174339143",
+    "174339144",
+    "174339145",
+    "174401648",
+    "174401649",
+    "174339148",
+    "174339149",
+    "174339150",
+    "174339151",
+    "174339152",
+    "174401650",
+    "174339154",
+    "174401651",
+    "174401652",
+    "174339157",
+    "174339158",
+    "174401663",
+    "174401654",
+    "174401655",
+    "174339162",
+    "174401656",
+    "174401661",
+    "174401662",
+    "174401657",
+    "174339167",
+    "174339168",
+    "174339169",
+    "174339170",
+    "174339171",
+    "174339172",
+    "174401658",
+    "174339174",
+    "174401659",
+    "174401576",
+    "174401577",
+    "174401578",
+    "174401579",
+    "174401660",
+    "174401581",
+    "174401582",
+    "174401583",
+    "174401584",
+    "174401585",
+    "174401586",
+    "174401587"
+   ]
+  }
+ ],
+ "fragments": {
+  "174339136": {
+   "fragment_id": "174356394",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 7/2008\n\nde 15 de Fevereiro\n\nLei da pesca nas águas interiores\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "174339137": {
+   "fragment_id": "174356395",
+   "type": 1,
+   "heading": "Capítulo I — Objecto, âmbito e princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto, âmbito e princípios"
+  },
+  "174339138": {
+   "fragment_id": "174356396",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece as bases do ordenamento e da gestão sustentável dos recursos aquícolas das águas interiores e define os princípios reguladores das actividades da pesca e da aquicultura nessas águas."
+  },
+  "174339139": {
+   "fragment_id": "174356397",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\n1 - A presente lei é aplicável à actividade da pesca e da aquicultura exercida em todas as águas interiores superficiais, públicas ou particulares.\n\n2 - A presente lei é ainda aplicável à actividade da pesca e da aquicultura exercida nas massas de água fronteiriças, ressalvadas as obrigações assumidas pelo Estado Português."
+  },
+  "174339140": {
+   "fragment_id": "174356398",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara os efeitos da presente lei, considera-se:\n\na) «Águas interiores» todas as águas superficiais doces lênticas ou lóticas (correntes) e as águas de transição não submetidas à jurisdição da autoridade marítima;\n\nb) «Águas livres» as águas públicas não submetidas a planos de gestão e exploração nem a medidas de protecção específicas;\n\nc) «Águas particulares» as águas patrimoniais pertencentes, de acordo com a lei, a entes privados ou públicos;\n\nd) «Águas públicas» as águas pertencentes ao domínio público e as águas patrimoniais pertencentes, de acordo com a lei, a entes públicos;\n\ne) «Águas de transição» as águas superficiais na proximidade das fozes dos rios, parcialmente salgadas em resultado da proximidade de águas costeiras, que são também significativamente influenciadas por cursos de água doce;\n\nf) «Aquicultura» a cultura de organismos aquáticos, nomeadamente peixes, crustáceos, bivalves ou anfíbios, entendendo-se por cultura qualquer forma de intervenção no processo de desenvolvimento destinada a aumentar a produção;\n\ng) «Caudal ecológico» o regime de caudais que permite assegurar a conservação e manutenção dos ecossistemas aquáticos naturais, o desenvolvimento e a produção das espécies aquícolas com interesse desportivo ou comercial, assim como a conservação e manutenção dos ecossistemas ripícolas;\n\nh) «Domínio hídrico» o conjunto de bens que integra as águas, doces ou salobras, das correntes de água, dos lagos, lagoas e albufeiras e os terrenos que constituem os leitos dessas águas, bem como as respectivas margens e zonas adjacentes e ainda o subsolo e espaço aéreo correspondentes;\n\ni) «Jornada de pesca» o período que decorre entre a meia hora que antecede o nascer do Sol e meia hora após o pôr do Sol, excepto em situações a regulamentar;\n\nj) «Leito» o terreno coberto pelas águas quando não influenciadas por cheias extraordinárias, inundações ou tempestades, nele se incluindo os mouchões, lodeiros e areais nele formados por depósito aluvial, limitado pela linha que corresponde à estrema dos terrenos que as águas cobrem em condições de cheias médias, sem transbordar para o solo natural, habitualmente enxuto, e que é definido, conforme os casos, pela aresta da crista superior do talude molhado das motas, cômoros, valados, tapadas ou muros marginais;\n\nl) «Margem» a faixa de terreno contígua ao leito ou sobranceira à linha que delimita o leito das águas, de largura variável em função da classificação do curso de água para efeitos de navegação ou flutuação;\n\nm) «Meios de pesca ou aparelhos de pesca» o conjunto de artes e instrumentos utilizados na captura de espécies aquícolas, incluindo aqueles que são destinados apenas a ser usados como auxiliares;\n\nn) «Património aquícola das águas interiores» os ecossistemas aquáticos entendidos como o conjunto das espécies da fauna e da flora e seus habitats, incluindo água, leitos e margens, vegetação ripícola, bem como as suas relações de dependência funcional;\n\no) «Pesca» a prática de quaisquer actos conducentes à captura de espécies aquícolas no estado de liberdade natural exercida nas águas interiores ou nas respectivas margens;\n\np) «Pesca lúdica» a pesca exercida como actividade de lazer ou recreio em que não podem ser comercializados os exemplares capturados;\n\nq) «Pesca desportiva» a pesca lúdica exercida em competição organizada tendo em vista a obtenção de marcas desportivas, incluindo o treino e a aprendizagem;\n\nr) «Pesca profissional» a pesca exercida como actividade comercial, praticada por indivíduos devidamente licenciados;\n\ns) «Pesqueira fixa» a obra hidráulica permanente, construída no leito ou margens de um curso de água, destinada a instalar aparelhos de pesca profissional;\n\nt) «Processos de pesca ou métodos de pesca» o conjunto das diferentes técnicas de utilização dos meios de pesca;\n\nu) «Recursos aquícolas ou espécies aquícolas» o conjunto de espécies da fauna passível de ser considerado alvo intencional de pesca ou aquicultura, tais como peixes, crustáceos, bivalves e anfíbios ocorrentes nas águas interiores, e que figurem na lista de espécies a publicar com vista à regulamentação da presente lei, considerando o seu valor aquícola, em conformidade com as convenções internacionais e as directivas comunitárias transpostas para a legislação portuguesa;\n\nv) «Repovoamento» a disseminação ou libertação, num determinado território ou massa de água, de um ou mais espécimes de uma espécie aquícola indígena ou de uma espécie não indígena aí previamente introduzida e apresentando populações já bem estabelecidas e espontâneas;\n\nx) «Utilizador dos recursos aquícolas das águas interiores» toda a pessoa singular ou colectiva que usufrua dos recursos aquícolas das águas interiores."
+  },
+  "174339141": {
+   "fragment_id": "174356399",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\n1 - O património aquícola das águas interiores constitui um recurso natural cuja protecção, conservação e utilização sustentável, no respeito pelos princípios de conservação da natureza, da biodiversidade da protecção do estado da qualidade das massas de água, são de interesse nacional, comunitário e internacional.\n\n2 - A protecção, conservação, fomento e utilização racional dos recursos aquícolas implica que a sua gestão e ordenamento obedeçam aos princípios de sustentabilidade e de conservação da integridade genética do património biológico, no respeito pelas normas nacionais e internacionais que a eles se apliquem.\n\n3 - A utilização sustentável dos recursos aquícolas, através do exercício da pesca, constitui um factor de riqueza nacional, de desenvolvimento regional e local e de apoio e valorização do mundo rural.\n\n4 - As águas interiores devem ser progressivamente sujeitas a normas específicas de gestão, no quadro geral do ordenamento dos recursos aquícolas, com vista à protecção, conservação e utilização racional do património aquícola."
+  },
+  "174339142": {
+   "fragment_id": "174356400",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuições do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições do Estado\n\nSão atribuições do Estado:\n\na) Zelar pela protecção e conservação da biodiversidade nos seus diferentes níveis de organização, bem como pela utilização sustentável dos recursos aquícolas, em articulação com os outros usos existentes e previstos;\n\nb) Promover o ordenamento aquícola das águas interiores, em articulação com os instrumentos de gestão territorial;\n\nc) Promover e incentivar a participação, no ordenamento e gestão dos recursos aquícolas, das organizações de pescadores, de agricultores, de defesa do ambiente e de produtores florestais, das autarquias e de outras entidades interessadas na conservação, protecção e utilização dos recursos aquícolas;\n\nd) Regular o exercício da pesca e da aquicultura;\n\ne) Promover a investigação científica para um melhor conhecimento e preservação dos ecossistemas aquáticos;\n\nf) Assegurar o cumprimento dos objectivos de qualidade das massas de água previstos no contexto dos instrumentos de planeamento dos recursos hídricos."
+  },
+  "174339143": {
+   "fragment_id": "174356401",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências do Governo\n\n1 - Compete ao Governo definir a política aquícola nacional.\n\n2 - Compete ainda ao Governo:\n\na) Assegurar o ordenamento e a gestão dos recursos aquícolas nacionais;\n\nb) Promover a aplicação das medidas e a execução das acções necessárias à concretização daquela política, nomeadamente através da regulação da presente lei;\n\nc) Incentivar e promover a investigação científica no domínio dos recursos aquícolas das águas interiores e a formação dos seus utilizadores;\n\nd) Promover e apoiar a manutenção ou recuperação da qualidade dos habitats e ecossistemas para benefício do património aquícola;\n\ne) Promover e apoiar a participação da sociedade civil na definição e concretização da política aquícola nacional;\n\nf) Planear e coordenar as acções de ordenamento e gestão dos recursos aquícolas, em harmonia com as utilizações do domínio hídrico e com a conservação da natureza;\n\ng) Emitir os títulos necessários ao exercício das actividades previstas na presente lei."
+  },
+  "174339144": {
+   "fragment_id": "174356402",
+   "type": 1,
+   "heading": "Capítulo II — Protecção e conservação dos recursos aquícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Protecção e conservação dos recursos aquícolas"
+  },
+  "174339145": {
+   "fragment_id": "174356403",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão sustentada dos recursos aquícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão sustentada dos recursos aquícolas\n\n1 - A gestão sustentável dos recursos aquícolas é efectuada de acordo com princípios consignados na legislação relativa à gestão da água e dos recursos hídricos nacionais, à preservação dos habitats naturais e da fauna e da flora selvagens e à introdução de espécies não indígenas na natureza.\n\n2 - Os recursos aquícolas são avaliados regularmente em termos de distribuição geográfica das diferentes espécies, quantificação dos seus efectivos e tendências populacionais.\n\n3 - Os resultados alcançados através dos dados obtidos na avaliação constituem a base para a definição de planos de gestão dos recursos aquícolas."
+  },
+  "174339146": {
+   "fragment_id": "174356404",
+   "type": 11,
+   "heading": "Artigo 8.º — Captura de espécies aquícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Captura de espécies aquícolas\n\n1 - As espécies cuja captura é autorizada, tendo em consideração critérios ligados à dinâmica das populações, ao estatuto de conservação das espécies e à tradição da pesca nas suas vertentes lúdica, desportiva e profissional, são definidas por regulamento próprio do membro do Governo responsável pela área da pesca.\n\n2 - São estabelecidos, para cada espécie, períodos de pesca, meios e processos de captura, iscos e engodos permitidos, dimensões de captura e número máximo de exemplares a reter por pescador e por jornada de pesca.\n\n3 - As disposições constantes dos números anteriores podem ter âmbito territorial variável de acordo, designadamente, com a integridade ecológica dos vários sistemas aquáticos e a classificação das águas.\n\n4 - As disposições estabelecidas nos números anteriores podem ser alteradas, temporariamente, por massas de água ou seus troços, tendo em conta a protecção, conservação e fomento de determinadas espécies.\n\n5 - Para fins didácticos, técnicos ou científicos, pode ser autorizada a pesca de espécies aquícolas, nos termos a definir em regulamento próprio do membro do Governo responsável pela área da pesca.\n\n6 - A definição das disposições relativas à captura de espécies aquícolas é da competência do membro do Governo responsável pela área das pescas, sem prejuízo das competências do membro do Governo responsável pela área do ambiente."
+  },
+  "174339147": {
+   "fragment_id": "174356405",
+   "type": 11,
+   "heading": "Artigo 9.º — Zonas de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Zonas de protecção\n\n1 - A fim de assegurar a protecção e conservação dos recursos aquícolas, a conservação de espécies aquícolas com elevado estatuto de ameaça ou por razões de ordem científica podem ser criadas zonas de protecção, nas quais, para além da pesca, podem ser proibidas, total ou parcialmente, quaisquer actividades condicionantes do normal desenvolvimento das espécies aquícolas e da integridade dos seus habitats.\n\n2 - Nas zonas de protecção são tomadas medidas de gestão do habitat de modo a favorecer a manutenção ou recuperação das populações das espécies aquícolas, bem como da integridade ecológica dos ecossistemas aquáticos."
+  },
+  "174339148": {
+   "fragment_id": "174356406",
+   "type": 11,
+   "heading": "Artigo 10.º — Esvaziamento de massas de água e situações de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Esvaziamento de massas de água e situações de emergência\n\n1 - No esvaziamento total ou parcial de albufeiras, valas, canais e outras massas de água, compete ao membro do Governo responsável pela área da pesca, sem prejuízo das competências do membro do Governo responsável pela área do ambiente, estabelecer as medidas a adoptar relativamente às espécies aquícolas.\n\n2 - A execução e os encargos resultantes das medidas a adoptar relativamente à protecção e conservação do património aquícola são da responsabilidade do proprietário, concessionário ou outro utilizador da obra hidráulica.\n\n3 - Quando o nível das águas descer de modo a afectar a sobrevivência das espécies aquícolas, podem ser adoptadas medidas excepcionais para essas massas de água, designadamente no respeitante ao exercício da pesca, aos períodos, meios e processos a utilizar, às dimensões de captura e número máximo de exemplares de cada espécie a reter por pescador e por jornada de pesca e aos locais de deposição dos exemplares pescados.\n\n4 - Na eventualidade de se verificar mortandade de espécies aquícolas, os espécimes não podem ser depositados na zona de drenagem destas massas de água e a sua recolha e destino final devem ser determinados em articulação com o organismo competente do ministério com atribuições na área do ambiente, sendo os encargos resultantes suportados pelo proprietário ou utilizador da obra hidráulica."
+  },
+  "174339149": {
+   "fragment_id": "174356407",
+   "type": 11,
+   "heading": "Artigo 11.º — Protecção dos recursos aquícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Protecção dos recursos aquícolas\n\nCompete ao membro do Governo responsável pela área da pesca estabelecer as medidas a adoptar para minimizar os impactes no património aquícola que, pela sua natureza, possam afectar o normal desenvolvimento dos recursos aquícolas e a integridade dos ecossistemas aquáticos, sem prejuízo das competências do membro do Governo responsável pela área do ambiente, constituindo encargo dos proprietários, concessionários ou utilizadores a sua implementação."
+  },
+  "174339150": {
+   "fragment_id": "174356408",
+   "type": 11,
+   "heading": "Artigo 12.º — Caudal ecológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Caudal ecológico\n\n1 - Os proprietários ou utilizadores de infra-estruturas hidráulicas, independentemente do fim a que se destinam, são obrigados a manter um regime de exploração e um caudal ecológico, adequando o regime de variação adequado à manutenção do ciclo de vida das espécies aquícolas, bem como da integridade do ecossistema aquático.\n\n2 - A avaliação do caudal ecológico deve ser assegurada pelos proprietários ou utilizadores, permitindo a adaptação do caudal ecológico de modo a assegurar a sua eficácia."
+  },
+  "174339151": {
+   "fragment_id": "174356409",
+   "type": 11,
+   "heading": "Artigo 13.º — Circulação das espécies aquícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Circulação das espécies aquícolas\n\n1 - As obras a construir nos cursos de água que possam constituir obstáculo à livre circulação das espécies aquícolas devem ser equipadas com dispositivos que permitam assegurar a sua transposição pelas referidas espécies, devendo o seu funcionamento eficaz ficar assegurado a título permanente.\n\n2 - Nas obras já existentes que impeçam a livre circulação das espécies aquícolas, pode ser exigida a instalação e a manutenção, em funcionamento eficaz, de dispositivos que assegurem a sua transposição.\n\n3 - Constitui encargo dos proprietários ou utilizadores a implementação das medidas referidas nos números anteriores, incluindo a demonstração da eficácia do referido dispositivo, quando solicitada, bem como a avaliação e se necessário a respectiva adaptação, para um funcionamento mais eficaz."
+  },
+  "174339152": {
+   "fragment_id": "174356410",
+   "type": 11,
+   "heading": "Artigo 14.º — Pesqueiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pesqueiras\n\n1 - É proibida a construção de pesqueiras fixas nas margens ou leitos dos cursos de água.\n\n2 - A utilização das pesqueiras fixas construídas antes de 1 de Janeiro de 1963 e que não devam ser destruídas nos termos do disposto no n.º 1 do artigo 38.º por se encontrarem então tituladas por documento autêntico, fica condicionada a licenciamento."
+  },
+  "174339153": {
+   "fragment_id": "174356411",
+   "type": 11,
+   "heading": "Artigo 15.º — Repovoamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Repovoamentos\n\n1 - Compete ao Estado ou a outras entidades para tanto autorizadas a realização de repovoamentos nas águas interiores, com vista à manutenção da biodiversidade, ao fomento de determinadas espécies aquícolas ou à reposição de efectivos populacionais.\n\n2 - Os repovoamentos aquícolas podem ser executados quando outras medidas de gestão sustentada dos recursos aquícolas se revelarem insuficientes para os objectivos pretendidos e devem ter em consideração o nível de qualidade ecológica e a capacidade de suporte do meio e não pôr em causa a identidade genética das espécies aquícolas indígenas nem os objectivos de protecção das águas e da integridade dos ecossistemas aquáticos.\n\n3 - Os repovoamentos são levados a efeito apenas com material biológico com características genéticas idênticas às existentes no local de destino, sempre que do ponto de vista científico tal se mostre recomendável.\n\n4 - Os repovoamentos só são admitidos após confirmação da existência de densidades populacionais reduzidas e garantia de que serão desenvolvidas em simultâneo medidas de gestão que contrariem as causas da regressão e desde que se cumpram as regras básicas de segurança sanitária e segurança genética entre a população dadora e receptora.\n\n5 - Nas massas de água destinadas à produção de água para consumo humano e nas albufeiras onde se verifica uma oscilação anual significativa do volume de água armazenada, as medidas de repovoamento são mais restritivas, carecendo de parecer do membro do Governo responsável pela área do ambiente e da definição de um plano de acção para resolução de eventuais situações de ruptura."
+  },
+  "174339154": {
+   "fragment_id": "174356412",
+   "type": 11,
+   "heading": "Artigo 16.º — Detenção, comércio, transporte e exposição de espécies aquícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Detenção, comércio, transporte e exposição de espécies aquícolas\n\n1 - Os regimes de detenção, comércio, transporte e exposição ao público de espécies aquícolas, vivas ou mortas, constam de regulamento próprio do membro do Governo responsável pela área da pesca.\n\n2 - É proibida a detenção, o comércio, o transporte e a exposição ao público de espécies aquícolas fora dos respectivos períodos de pesca e com dimensões diferentes das fixadas por disposição regulamentar, excepto quando provenientes de unidades de aquicultura e noutros casos previstos em disposições regulamentares."
+  },
+  "174339155": {
+   "fragment_id": "174356413",
+   "type": 11,
+   "heading": "Artigo 17.º — Importação e exportação de espécies aquícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Importação e exportação de espécies aquícolas\n\nA importação ou a exportação de ovos, juvenis ou adultos de peixes e de outras espécies aquícolas, vivas ou mortas, carece de autorização do membro do Governo responsável pela área da pesca, salvaguardando as disposições de carácter sanitário e ambiental referentes a esta matéria, sem prejuízo das competências do membro do Governo responsável pela área do ambiente."
+  },
+  "174339156": {
+   "fragment_id": "174356414",
+   "type": 11,
+   "heading": "Artigo 18.º — Protecção e conservação do património aquícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Protecção e conservação do património aquícola\n\nTendo em vista a protecção e conservação do património aquícola, é proibido:\n\na) Exercer a pesca fora dos locais ou âmbito geográfico autorizados para esta actividade;\n\nb) Deter ou pescar e não devolver imediatamente à água espécies aquícolas cuja captura não esteja autorizada;\n\nc) Pescar fora do período designado por jornada de pesca, fora dos respectivos períodos de pesca ou por processos e meios não autorizados, salvo em condições a regular;\n\nd) Deter exemplares de espécies aquícolas cujas dimensões não respeitem as normas regulamentares estabelecidas;\n\ne) Pescar ou deter exemplares de espécies aquícolas em número superior ao que estiver autorizado, por jornada de pesca e por pescador;\n\nf) Utilizar na pesca materiais explosivos, correntes eléctricas, substâncias tóxicas ou anestesiantes susceptíveis de causar a morte ou o atordoamento dos peixes, fisgas, tridentes ou arpões, armas de fogo, paus, pedras, bem como meios e processos considerados de pesca subaquática;\n\ng) Utilizar quaisquer meios ou processos de pesca que não se destinem a capturar o peixe pela boca, ressalvando a prática da pesca profissional em conformidade com o disposto na presente lei e sua regulamentação;\n\nh) Transferir espécies aquícolas para repovoamento das águas interiores fora das condições previstas no artigo 15.º;\n\ni) Pescar em aquedutos e a menos de 50 m de eclusas e passagens para peixes;\n\nj) Exercer a pesca profissional a menos de 200 m de barragens, açudes e centrais hidroeléctricas e a menos de 100 m de comportas, descarregadores ou quaisquer obras que alterem o regime de circulação das águas;\n\nl) Exercer a pesca profissional fora dos locais delimitados para a prática desta actividade;\n\nm) Pescar em pegos isolados, excepto em situações a regular;\n\nn) Executar intervenções não autorizadas nas águas interiores, bem como nos seus leitos e margens, que causem a perturbação ou morte de espécies aquícolas, a deterioração da qualidade dos seus habitats ou que ponham em causa a degradação dos ecossistemas aquáticos;\n\no) Pescar nos perímetros de protecção das captações superficiais destinadas à produção de água para consumo humano."
+  },
+  "174339157": {
+   "fragment_id": "174356415",
+   "type": 1,
+   "heading": "Capítulo III — Ordenamento dos recursos aquícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Ordenamento dos recursos aquícolas"
+  },
+  "174339158": {
+   "fragment_id": "174356416",
+   "type": 11,
+   "heading": "Artigo 19.º — Águas particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Águas particulares\n\n1 - A pesca é um direito dos proprietários das águas particulares, devendo ser exercido de acordo com o disposto na presente lei e legislação complementar.\n\n2 - Para efeitos de ordenamento e protecção dos recursos aquícolas, podem ser criadas, nas águas particulares, zonas de protecção nos termos do disposto no artigo 9.º da presente lei."
+  },
+  "174339159": {
+   "fragment_id": "174356417",
+   "type": 11,
+   "heading": "Artigo 20.º — Águas públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Águas públicas\n\n1 - Para efeitos de ordenamento dos recursos aquícolas e da pesca, as águas públicas dividem-se em:\n\na) Águas livres;\n\nb) Zonas de pesca lúdica;\n\nc) Zonas de pesca profissional;\n\nd) Zonas de protecção.\n\n2 - Nas águas livres pode ser praticada a pesca lúdica e pesca profissional, sendo esta circunscrita a áreas delimitadas para o efeito e em condições a regulamentar.\n\n3 - Nas zonas de pesca lúdica é praticada apenas a pesca lúdica e a pesca desportiva, sujeitas, para além das normas gerais, a normas específicas consignadas nos respectivos planos de gestão e exploração.\n\n4 - Nas zonas de pesca profissional é praticada a pesca como actividade comercial sujeita, para além das normas gerais, a normas específicas consignadas nos respectivos planos de gestão e exploração, os quais poderão prever ainda a prática da pesca desportiva.\n\n5 - As zonas de protecção são criadas nos termos do disposto no artigo 9.º da presente lei pelo membro do Governo responsável pela área da pesca.\n\n6 - Quando estejam em causa espécies com elevado estatuto de ameaça, o membro do Governo responsável pela área do ambiente pode propor zonas de protecção, a criar através de portaria conjunta dos membros do Governo responsáveis pelas áreas da pesca e do ambiente."
+  },
+  "174339160": {
+   "fragment_id": "174356418",
+   "type": 11,
+   "heading": "Artigo 21.º — Zonas de pesca lúdica e zonas de pesca profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Zonas de pesca lúdica e zonas de pesca profissional\n\n1 - A criação das zonas de pesca lúdica e das zonas de pesca profissional compete ao membro do Governo responsável pela área da pesca, mediante parecer do membro do Governo responsável pela área do ambiente.\n\n2 - Nas zonas de pesca lúdica e nas zonas de pesca profissional podem ser condicionadas outras actividades que colidam com a actividade da pesca ou com os objectivos de protecção e conservação dos recursos aquícolas.\n\n3 - As zonas de pesca lúdica podem ser criadas a pedido e para concessão às seguintes pessoas singulares ou colectivas:\n\na) Associações de pescadores;\n\nb) Federações desportivas titulares do estatuto de utilidade pública desportiva;\n\nc) Autarquias locais e suas associações;\n\nd) Entidades colectivas ou singulares com actividades no domínio do turismo, em que a pesca seja reconhecida como complementar ou integrante daquela actividade.\n\n4 - A gestão das zonas de pesca lúdica criadas pelo membro do Governo responsável pela área da pesca pode ser transferida para as câmaras municipais, a seu pedido ou outras entidades públicas ou privadas com reconhecida competência na gestão dos ecossistemas aquáticos, mediante parecer do membro do Governo responsável pela área do ambiente quando estejam em causa áreas classificadas.\n\n5 - Nas zonas de pesca lúdica e nas zonas de pesca profissional a pesca é exercida nos termos a definir por portaria do membro do Governo responsável pela área da pesca.\n\n6 - A concessão das zonas de pesca está sujeita ao pagamento de uma taxa anual.\n\n7 - São encargos das entidades gestoras das zonas de pesca lúdica as acções consignadas nos respectivos planos de gestão e exploração."
+  },
+  "174339161": {
+   "fragment_id": "174356419",
+   "type": 11,
+   "heading": "Artigo 22.º — Provas de pesca desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Provas de pesca desportiva\n\nPara efeitos de realização de provas de pesca desportiva em águas públicas, de carácter competitivo, de lazer ou turístico, ou ainda inseridas em acções de formação, pode ser concessionado o exclusivo de pesca mediante o pagamento de taxa."
+  },
+  "174339162": {
+   "fragment_id": "174356420",
+   "type": 1,
+   "heading": "Capítulo IV — Exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Exercício da pesca"
+  },
+  "174339163": {
+   "fragment_id": "174356421",
+   "type": 11,
+   "heading": "Artigo 23.º — Requisitos para o exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Requisitos para o exercício da pesca\n\n1 - Só é permitido o exercício da pesca lúdica aos titulares de carta de pescador munidos de adequada licença de pesca e de outros documentos legalmente exigidos, sem prejuízo do disposto no n.º 3.\n\n2 - Só é permitido o exercício da pesca profissional aos indivíduos maiores de 16 anos titulares de carta de pescador profissional munidos de adequada licença de pesca e de outros documentos legalmente exigidos.\n\n3 - Os menores de 16 anos só podem exercer a pesca lúdica quando acompanhados por pescador titular de carta e licença de pesca profissional ou lúdica, sendo, no entanto, os respectivos pais ou tutores civilmente responsáveis pelos actos decorrentes do exercício da pesca."
+  },
+  "174339164": {
+   "fragment_id": "174356422",
+   "type": 11,
+   "heading": "Artigo 24.º — Carta de pescador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Carta de pescador\n\n1 - Pode obter a carta de pescador quem satisfaça cumulativamente os seguintes requisitos:\n\na) Possua a idade mínima de 16 anos;\n\nb) Não esteja sujeito a proibição de pescar por disposição legal ou decisão administrativa ou judicial;\n\nc) Tenha sido aprovado no respectivo exame, destinado a apurar se o interessado possui a aptidão e conhecimentos necessários para o exercício da pesca.\n\n2 - O exame a que se refere o número anterior está sujeito ao pagamento de uma taxa e deve ser efectuado perante a entidade legalmente competente.\n\n3 - A emissão da carta de pescador está sujeita ao pagamento de uma taxa.\n\n4 - A carta de pescador tem validade temporal e caduca sempre que os respectivos titulares sejam condenados por crimes previstos e punidos nos termos da presente lei.\n\n5 - A carta de pescador é diferenciada de acordo com as seguintes modalidades de pesca:\n\na) Pesca lúdica;\n\nb) Pesca desportiva;\n\nc) Pesca profissional.\n\n6 - As condições de emissão da carta de pescador bem como as provas constitutivas do exame a que se refere a alínea c) do n.º 1 são fixadas em regulamento, no prazo máximo de três anos, devendo ser estabelecido um regime transitório."
+  },
+  "174339165": {
+   "fragment_id": "174356423",
+   "type": 11,
+   "heading": "Artigo 25.º — Dispensa de carta de pescador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Dispensa de carta de pescador\n\n1 - São dispensados da carta de pesca lúdica:\n\na) Os membros do corpo diplomático e consular acreditados em Portugal;\n\nb) Os estrangeiros não residentes em território português desde que estejam habilitados à prática da pesca lúdica no país da sua nacionalidade ou residência;\n\nc) Os portugueses não residentes em território português desde que estejam habilitados à prática da pesca lúdica no país da sua residência.\n\n2 - Nos casos referidos no número anterior, a prática da pesca lúdica fica sujeita à obtenção de licença especial.\n\n3 - É condicionada ao regime de reciprocidade a dispensa de carta de pescador concedida aos membros do corpo diplomático e consular acreditados em Portugal e aos estrangeiros não residentes em território português.\n\n4 - Não podem beneficiar do disposto no n.º 1 os indivíduos condenados por infracção às normas legais sobre o exercício da pesca nas águas interiores."
+  },
+  "174339166": {
+   "fragment_id": "174356424",
+   "type": 11,
+   "heading": "Artigo 26.º — Licenças de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Licenças de pesca\n\n1 - São estabelecidas licenças de pesca diferenciadas em função da modalidade de pesca.\n\n2 - As licenças de pesca têm validade temporal e territorial.\n\n3 - São condições para obter licença de pesca:\n\na) Ser maior de 16 anos;\n\nb) Não estar sujeito a proibição de pescar por disposição legal ou decisão administrativa ou decisão judicial;\n\nc) Possuir carta de pescador ou estar dispensado da sua obtenção, nos termos do artigo anterior.\n\n4 - Podem ser criadas licenças especiais para o exercício da pesca nas zonas de pesca lúdica, nas zonas de pesca profissional, nas pesqueiras fixas e para espécies aquícolas de relevante importância desportiva ou profissional.\n\n5 - A emissão das licenças de pesca está sujeita ao pagamento de uma taxa."
+  },
+  "174339167": {
+   "fragment_id": "174356425",
+   "type": 11,
+   "heading": "Artigo 27.º — Direito de passagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Direito de passagem\n\n1 - Para o exercício da pesca é lícito a todos os pescadores passarem nos prédios que marginam e dão acesso às águas públicas e ainda permanecerem nas suas margens.\n\n2 - O direito de passagem referido no número anterior faz-se, nos termos da lei civil, obrigatoriamente, pelo caminho de servidão para acesso à água.\n\n3 - A referida passagem opera-se sem prejuízo dos direitos dos titulares de direitos reais e de arrendamento sobre os prédios circundantes às águas e das autorizações que estes possam ter de dar em matéria de permanência de veículos nos respectivos prédios."
+  },
+  "174339168": {
+   "fragment_id": "174356426",
+   "type": 11,
+   "heading": "Artigo 28.º — Restrições ao exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Restrições ao exercício da pesca\n\nPodem ser estabelecidas, a título permanente ou temporário, interdições ou restrições ao exercício da pesca por razões de saúde pública, por motivos de segurança, quando esta actividade se revelar incompatível com utilizações do domínio hídrico ou por outros motivos que o justifiquem, nomeadamente de carácter científico, associada à salvaguarda de determinadas espécies aquícolas ou outros elementos do património aquícola ocorrentes."
+  },
+  "174339169": {
+   "fragment_id": "174356427",
+   "type": 1,
+   "heading": "Capítulo V — Espécies aquícolas em cativeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Espécies aquícolas em cativeiro"
+  },
+  "174339170": {
+   "fragment_id": "174356428",
+   "type": 11,
+   "heading": "Artigo 29.º — Aquicultura e detenção de espécies aquícolas em cativeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Aquicultura e detenção de espécies aquícolas em cativeiro\n\n1 - A aquicultura e a detenção de espécies aquícolas em cativeiro não podem contribuir para a deterioração do estado dos ecossistemas aquáticos, devendo ser assegurado o cumprimento dos objectivos previstos nas normas em vigor e a articulação com os outros usos existentes.\n\n2 - A aquicultura e a detenção de espécies aquícolas em cativeiro, independentemente dos objectivos a que se destinam, designadamente comerciais, autoconsumo, ornamentais, didácticos, técnicos ou científicos, carece de autorização, podendo revestir a forma de alvará e estar sujeita ao pagamento de uma taxa.\n\n3 - No caso de espécies não autóctones e sem prejuízo da legislação específica em vigor, as acções referidas no número anterior carecem de parecer favorável do serviço territorialmente competente do ministério que prossegue actividades na área do ambiente.\n\n4 - A captura de espécies aquícolas em cativeiro, ainda que exercida por processos e meios normalmente utilizados na pesca, não está sujeita às disposições constantes da presente lei."
+  },
+  "174339171": {
+   "fragment_id": "174356429",
+   "type": 1,
+   "heading": "Capítulo VI — Responsabilidade criminal, contra-ordenacional e civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Responsabilidade criminal, contra-ordenacional e civil"
+  },
+  "174339172": {
+   "fragment_id": "174356430",
+   "type": 11,
+   "heading": "Artigo 30.º — Crimes contra a preservação do património aquícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Crimes contra a preservação do património aquícola\n\n1 - Sem prejuízo dos crimes contra a preservação do património aquícola previstos e punidos pelo Código Penal, quem utilizar na pesca processos ou meios não autorizados, designadamente materiais explosivos, correntes eléctricas, substâncias tóxicas ou anestesiantes susceptíveis de causar a morte ou o atordoamento dos peixes, fisgas, tridentes ou arpões, armas de fogo, paus, pedras, ou meios e processos considerados de pesca subaquática, é punido com pena de prisão até 180 dias ou pena de multa de 60 a 200 dias.\n\n2 - Se a conduta referida no número anterior for praticada por negligência, o agente é punido com pena de prisão até 90 dias ou com pena de multa de 30 a 100 dias."
+  },
+  "174339173": {
+   "fragment_id": "174356431",
+   "type": 11,
+   "heading": "Artigo 31.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Contra-ordenações\n\n1 - Constituem contra-ordenação as seguintes\n\ninfracções:\n\na) A detenção ou a pesca e não devolução imediata à água de espécimes de espécies aquícolas cuja captura não esteja autorizada, é punida com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa colectiva;\n\nb) A pesca fora do período designado por jornada de pesca ou fora dos respectivos períodos de pesca é punida com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa colectiva;\n\nc) A utilização de quaisquer meios ou processos de pesca que não se destinem a capturar o peixe pela boca, ressalvando a prática da pesca profissional em conformidade com o disposto na presente lei e sua regulamentação, é punida com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa colectiva;\n\nd) A transferência de espécies aquícolas para repovoamento das águas interiores, fora das condições previstas no artigo 15.º, é punida com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa colectiva;\n\ne) O exercício da pesca profissional fora dos locais delimitados para a prática desta actividade é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa colectiva;\n\nf) O esvaziamento total ou parcial de albufeiras, valas, canais e outras massas de água sem que sejam observados os procedimentos exigidos por lei ou determinados por entidades ou agentes competentes é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\ng) A não implementação das medidas previstas no artigo 11.º, pelos respectivos proprietários, concessionários ou quaisquer utilizadores, desde que nos prazos e demais regras previstas em legislação regulamentar, é punida com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\nh) O incumprimento do disposto no artigo 12.º é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\ni) O incumprimento do disposto no artigo 13.º é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\nj) O incumprimento do disposto no artigo 14.º é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 22 500, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\nl) Os repovoamentos não autorizados ou efectuados sem observância das exigências legais ou administrativas são punidos com coima de valor mínimo de (euro) 5000 e máximo de (euro) 22 500, em caso de pessoa singular, e de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa colectiva;\n\nm) O incumprimento do disposto no n.º 2 do artigo 16.º é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\nn) O incumprimento do disposto no artigo 17.º é punido com coima de valor mínimo de (euro) 1500 e máximo de (euro) 16 000, em caso de pessoa singular, e de valor mínimo de (euro) 5000 e máximo de (euro) 25 000, em caso de pessoa colectiva;\n\no) O exercício da pesca lúdica fora dos locais ou âmbito geográfico autorizados para esta actividade é punido com coima de valor mínimo de (euro) 250 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 500 e máximo (euro) 2500, em caso de pessoa colectiva;\n\np) O incumprimento das normas contidas nas alíneas d) e e) do artigo 18.º é punido com coima de valor mínimo de (euro) 150 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 300 e máximo de (euro) 2500, em caso de pessoa colectiva;\n\nq) O incumprimento das normas contidas na alínea i) do artigo 18.º é punido com coima de valor mínimo de (euro) 250 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 300 e máximo de (euro) 2500, em caso de pessoa colectiva;\n\nr) O incumprimento das normas contidas na alínea j) do artigo 18.º é punido com coima de valor mínimo de (euro) 250 e máximo de (euro) 3000, em caso de pessoa singular, e de valor mínimo de (euro) 500 e máximo de (euro) 5000, em caso de pessoa colectiva;\n\ns) O incumprimento das normas contidas na alínea m) e o) do artigo 18.º é punido com coima de valor mínimo de (euro) 150 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 300 e máximo de (euro) 2500, em caso de pessoa colectiva;\n\nt) O incumprimento das restantes normas constantes do artigo 18.º é punido com coima de valor mínimo de (euro) 250 e máximo de (euro) 30 000, em caso de pessoa singular, e de valor mínimo de (euro) 1000 e máximo de (euro) 50 000, em caso de pessoa colectiva;\n\nu) A falta da carta de pescador, lúdica ou profissional, é punida com coima de valor mínimo de (euro) 250 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 300 e máximo de (euro) 2500, em caso de pessoa colectiva, sendo esta infracção cumulável com outras cometidas pelo agente;\n\nv) A falta da licença de pesca lúdica ou profissional é punida com coima de valor mínimo de (euro) 100 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 300 e máximo de (euro) 2500, em caso de pessoa colectiva;\n\nx) O incumprimento das interdições ou restrições ao exercício da pesca a que se refere o artigo 28.º é punido com coima de valor mínimo de (euro) 250 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 300 e máximo de (euro) 2500, em caso de pessoa colectiva;\n\nz) A pesca ou a prática de actos que estejam proibidos nas zonas de protecção, criadas nos termos do artigo 9.º ou do n.º 6 do artigo 20.º, é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa colectiva.\n\n2 - A tentativa e a negligência são puníveis com a coima aplicável à contra-ordenação, especialmente atenuada.\n\n3 - A fixação concreta da coima depende da gravidade da infracção, da culpa do agente, da sua situação económica e do benefício económico obtido.\n\n4 - A coima deve, sempre que possível, exceder o benefício económico que o agente retirou da prática da infracção."
+  },
+  "174339174": {
+   "fragment_id": "174356432",
+   "type": 11,
+   "heading": "Artigo 32.º — Aplicação das penas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Aplicação das penas e sanções acessórias\n\n1 - A condenação por qualquer crime ou contra-ordenação previstos na presente lei e legislação complementar pode implicar ainda a interdição do direito de pescar e a perda, a favor do Estado, dos objectos que serviram ou estavam destinados a servir para a prática da infracção e ainda os produtos dela resultantes.\n\n2 - A interdição do direito de pescar pode vigorar por um a cinco anos.\n\n3 - A perda dos objectos da infracção envolve a perda dos meios de pesca, das embarcações e dos veículos que serviram à prática daquela.\n\n4 - A suspensão da pena de prisão ou da coima, quando decretada, pode não abranger a interdição do direito de pescar e a perda dos objectos e produtos da infracção.\n\n5 - O não acatamento da interdição do direito de pescar pode implicar a perda a favor do Estado dos objectos de pesca e produtos da infracção.\n\n6 - Qualquer infractor condenado por crime de pesca fica inibido, pelo período de um a cinco anos, de representar, gerir de modo próprio ou fazer parte dos órgãos sociais de entidade concessionária de zona de pesca lúdica."
+  },
+  "174401575": {
+   "fragment_id": "174356433",
+   "type": 11,
+   "heading": "Artigo 33.º — Instrução e decisão de processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Instrução e decisão de processos de contra-ordenação\n\n1 - A competência para instruir os processos de contra-ordenação por ilícitos previstos na presente lei e sua regulamentação incumbe à Direcção-Geral dos Recursos Florestais.\n\n2 - Compete ao director-geral dos Recursos Florestais a decisão dos processos, nomeadamente a aplicação das penas e sanções acessórias previstas na presente lei, em legislação complementar e na lei geral."
+  },
+  "174401576": {
+   "fragment_id": "174356434",
+   "type": 11,
+   "heading": "Artigo 34.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Afectação do produto das coimas\n\nO produto da aplicação das coimas é objecto da seguinte afectação:\n\na) 10  % para a entidade que levantar o auto;\n\nb) 30  % para a entidade que instruir e decidir o processo;\n\nc) 60  % para o Estado."
+  },
+  "174401577": {
+   "fragment_id": "174356435",
+   "type": 11,
+   "heading": "Artigo 35.º — Pagamento voluntário da coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Pagamento voluntário da coima\n\n1 - Sendo admissível o pagamento voluntário da coima, o infractor pode fazê-lo no acto de verificação da contra-ordenação e do levantamento do respectivo auto de notícia, nos termos da lei geral, com as especificações estabelecidas na presente lei.\n\n2 - Se o infractor não for residente em Portugal e, sendo admissível pagamento voluntário da coima, não proceder àquele pagamento nos termos do número anterior, deve efectuar o depósito de quantia igual ao valor máximo da coima prevista para a contra-ordenação praticada, destinando-se tal depósito a garantir o pagamento da coima em que o infractor possa vir a ser condenado, bem como das despesas legais a que houver lugar.\n\n3 - A falta do depósito referido no número anterior implica a apreensão dos objectos que serviram à prática da contra-ordenação, apreensão essa que se manterá até à efectivação do depósito, ao pagamento da coima ou à decisão absolutória.\n\n4 - Os objectos apreendidos garantem, nos mesmos termos do depósito, o pagamento das quantias devidas.\n\n5 - É admissível o pagamento voluntário das coimas aplicáveis a contra-ordenações cujo valor máximo não seja superior a (euro) 2500."
+  },
+  "174401578": {
+   "fragment_id": "174356436",
+   "type": 1,
+   "heading": "Capítulo VII — Fiscalização da pesca e receitas do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Fiscalização da pesca e receitas do Estado"
+  },
+  "174401579": {
+   "fragment_id": "174356437",
+   "type": 11,
+   "heading": "Artigo 36.º — Fiscalização da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Fiscalização da pesca\n\nSem prejuízo das competências das demais entidades, a fiscalização do cumprimento das disposições da presente lei e legislação complementar incumbe à Guarda Nacional Republicana."
+  },
+  "174401580": {
+   "fragment_id": "174356438",
+   "type": 11,
+   "heading": "Artigo 37.º — Receitas do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Receitas do Estado\n\nConstituem receitas do Estado, nos termos do decreto-lei a que se refere o artigo 40.º:\n\na) O produto das licenças e taxas provenientes da execução da presente lei;\n\nb) O produto da venda dos instrumentos utilizados nas infracções à presente lei, quando seja declarada a sua perda a favor do Estado ou quando abandonados pelo infractor."
+  },
+  "174401581": {
+   "fragment_id": "174356439",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "174401582": {
+   "fragment_id": "174356440",
+   "type": 11,
+   "heading": "Artigo 38.º — Pesqueiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Pesqueiras\n\n1 - As pesqueiras fixas construídas depois de 1 de Janeiro de 1963, data da entrada em vigor do Decreto n.º 44 623, de 10 de Outubro de 1962, e as construídas antes desta data, desde que estas não se encontrassem então tituladas por documento autêntico, de acordo com o disposto no § 2.º do artigo 46.º do referido Decreto n.º 44 623, de 10 de Outubro de 1962, devem ser destruídas, se o não foram ainda, sem direito a qualquer indemnização e sem prejuízo do disposto no número seguinte.\n\n2 - As pesqueiras fixas referidas no número anterior podem ser, contudo, mantidas ou reconstruídas desde que a sua manutenção ou reconstrução garanta a livre circulação das espécies aquícolas migradoras e tenham como finalidade a valorização do património arquitectónico e cultural.\n\n3 - Nas pesqueiras referidas no número anterior não é autorizado o uso de qualquer arte de pesca."
+  },
+  "174401583": {
+   "fragment_id": "174356441",
+   "type": 11,
+   "heading": "Artigo 39.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Regiões Autónomas\n\nA presente lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as necessárias adaptações a introduzir por decreto legislativo regional."
+  },
+  "174401584": {
+   "fragment_id": "174356442",
+   "type": 11,
+   "heading": "Artigo 40.º — Regulação posterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Regulação posterior\n\nO Governo publica, no prazo de 180 dias, sob a forma de decreto-lei, a legislação complementar necessária para o desenvolvimento da presente lei."
+  },
+  "174401585": {
+   "fragment_id": "174356443",
+   "type": 11,
+   "heading": "Artigo 41.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Norma revogatória\n\nSão revogados:\n\na) A Lei n.º 2097, de 6 de Junho de 1959;\n\nb) O Decreto n.º 44 623, de 10 de Outubro de 1962;\n\nc) O Decreto n.º 47 059, de 25 de Junho de 1966;\n\nd) O Decreto n.º 312/70, de 6 de Julho;\n\ne) O Decreto n.º 35/71, de 13 de Fevereiro;\n\nf) O Decreto-Lei n.º 307/72, de 16 de Agosto;\n\ng) O Decreto Regulamentar n.º 18/86, de 20 de Maio;\n\nh) O Decreto Regulamentar n.º 11/89, de 27 de Abril;\n\ni) O Decreto-Lei n.º 371/99, de 18 de Setembro."
+  },
+  "174401586": {
+   "fragment_id": "174356444",
+   "type": 11,
+   "heading": "Artigo 42.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Entrada em vigor\n\nA presente lei entra em vigor na data de entrada em vigor do decreto-lei a que se refere o artigo 40.º"
+  },
+  "174401645": {
+   "fragment_id": "174356398",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara os efeitos da presente lei, considera-se:\n\na) 'Águas interiores' todas as águas superficiais doces lênticas ou lóticas (correntes) e as águas de transição não submetidas à jurisdição da Autoridade Marítima Nacional;\n\nb) «Águas livres» as águas públicas não submetidas a planos de gestão e exploração nem a medidas de protecção específicas;\n\nc) «Águas particulares» as águas patrimoniais pertencentes, de acordo com a lei, a entes privados ou públicos;\n\nd) «Águas públicas» as águas pertencentes ao domínio público e as águas patrimoniais pertencentes, de acordo com a lei, a entes públicos;\n\ne) «Águas de transição» as águas superficiais na proximidade das fozes dos rios, parcialmente salgadas em resultado da proximidade de águas costeiras, que são também significativamente influenciadas por cursos de água doce;\n\nf) 'Aquicultura' a cultura de organismos aquáticos, nomeadamente peixes, crustáceos, bivalves, anfíbios, algas ou plantas, entendendo-se por cultura qualquer forma de intervenção no processo de desenvolvimento destinada a aumentar a produção;\n\ng) «Caudal ecológico» o regime de caudais que permite assegurar a conservação e manutenção dos ecossistemas aquáticos naturais, o desenvolvimento e a produção das espécies aquícolas com interesse desportivo ou comercial, assim como a conservação e manutenção dos ecossistemas ripícolas;\n\nh) «Domínio hídrico» o conjunto de bens que integra as águas, doces ou salobras, das correntes de água, dos lagos, lagoas e albufeiras e os terrenos que constituem os leitos dessas águas, bem como as respectivas margens e zonas adjacentes e ainda o subsolo e espaço aéreo correspondentes;\n\ni) «Jornada de pesca» o período que decorre entre a meia hora que antecede o nascer do Sol e meia hora após o pôr do Sol, excepto em situações a regulamentar;\n\nj) «Leito» o terreno coberto pelas águas quando não influenciadas por cheias extraordinárias, inundações ou tempestades, nele se incluindo os mouchões, lodeiros e areais nele formados por depósito aluvial, limitado pela linha que corresponde à estrema dos terrenos que as águas cobrem em condições de cheias médias, sem transbordar para o solo natural, habitualmente enxuto, e que é definido, conforme os casos, pela aresta da crista superior do talude molhado das motas, cômoros, valados, tapadas ou muros marginais;\n\nl) «Margem» a faixa de terreno contígua ao leito ou sobranceira à linha que delimita o leito das águas, de largura variável em função da classificação do curso de água para efeitos de navegação ou flutuação;\n\nm) «Meios de pesca ou aparelhos de pesca» o conjunto de artes e instrumentos utilizados na captura de espécies aquícolas, incluindo aqueles que são destinados apenas a ser usados como auxiliares;\n\nn) «Património aquícola das águas interiores» os ecossistemas aquáticos entendidos como o conjunto das espécies da fauna e da flora e seus habitats, incluindo água, leitos e margens, vegetação ripícola, bem como as suas relações de dependência funcional;\n\no) «Pesca» a prática de quaisquer actos conducentes à captura de espécies aquícolas no estado de liberdade natural exercida nas águas interiores ou nas respectivas margens;\n\np) «Pesca lúdica» a pesca exercida como actividade de lazer ou recreio em que não podem ser comercializados os exemplares capturados;\n\nq) 'Pesca desportiva' a pesca praticada em competição organizada tendo em vista a obtenção de marcas, classificações ou qualificações desportivas, incluindo o treino e a aprendizagem;\n\nr) «Pesca profissional» a pesca exercida como actividade comercial, praticada por indivíduos devidamente licenciados;\n\ns) «Pesqueira fixa» a obra hidráulica permanente, construída no leito ou margens de um curso de água, destinada a instalar aparelhos de pesca profissional;\n\nt) «Processos de pesca ou métodos de pesca» o conjunto das diferentes técnicas de utilização dos meios de pesca;\n\nu) 'Recursos aquícolas ou espécies aquícolas' as espécies da fauna e da flora que podem ser consideradas alvo intencional de pesca ou aquicultura, considerando o seu valor aquícola e de acordo com o direito em vigor em Portugal, incluindo convenções internacionais e direito da União Europeia;\n\nv) «Repovoamento» a disseminação ou libertação, num determinado território ou massa de água, de um ou mais espécimes de uma espécie aquícola indígena ou de uma espécie não indígena aí previamente introduzida e apresentando populações já bem estabelecidas e espontâneas;\n\nx) «Utilizador dos recursos aquícolas das águas interiores» toda a pessoa singular ou colectiva que usufrua dos recursos aquícolas das águas interiores.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401646": {
+   "fragment_id": "174356399",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\n1 - O património aquícola das águas interiores constitui um recurso natural cuja proteção, conservação e utilização sustentável, no respeito pelos princípios da conservação da natureza, da biodiversidade e da proteção do estado das massas de água, são de interesse nacional, europeu e internacional.\n\n2 - A protecção, conservação, fomento e utilização racional dos recursos aquícolas implica que a sua gestão e ordenamento obedeçam aos princípios de sustentabilidade e de conservação da integridade genética do património biológico, no respeito pelas normas nacionais e internacionais que a eles se apliquem.\n\n3 - A utilização sustentável dos recursos aquícolas, através do exercício da pesca, constitui um factor de riqueza nacional, de desenvolvimento regional e local e de apoio e valorização do mundo rural.\n\n4 - As águas interiores devem ser progressivamente sujeitas a normas específicas de gestão, no quadro geral do ordenamento dos recursos aquícolas, com vista à protecção, conservação e utilização racional do património aquícola.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401647": {
+   "fragment_id": "174356400",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuições do Estado",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 5.º — Atribuições do Estado\n\nSão atribuições do Estado:\n\na) Zelar pela protecção e conservação da biodiversidade nos seus diferentes níveis de organização, bem como pela utilização sustentável dos recursos aquícolas, em articulação com os outros usos existentes e previstos;\n\nb) Promover o ordenamento aquícola das águas interiores, em articulação com os instrumentos de gestão territorial;\n\nc) Promover e incentivar a participação, no ordenamento e gestão dos recursos aquícolas, das organizações de pescadores, de agricultores, de defesa do ambiente e de produtores florestais, das autarquias e de outras entidades interessadas na conservação, protecção e utilização dos recursos aquícolas;\n\nd) Promover e regular o exercício da pesca e da aquicultura;\n\ne) Promover a investigação científica para um melhor conhecimento e preservação dos ecossistemas aquáticos;\n\nf) Assegurar o cumprimento dos objectivos de qualidade das massas de água previstos no contexto dos instrumentos de planeamento dos recursos hídricos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401648": {
+   "fragment_id": "174356404",
+   "type": 11,
+   "heading": "Artigo 8.º — Captura de espécies aquícolas",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 8.º — Captura de espécies aquícolas\n\n1 - As espécies cuja captura é autorizada, tendo em consideração critérios ligados à dinâmica das populações, ao estatuto de conservação das espécies e à tradição da pesca nas suas vertentes lúdica, desportiva e profissional, são definidas por regulamento próprio do membro do Governo responsável pela área da pesca.\n\n2 - São estabelecidos, para cada espécie, períodos de pesca, meios e processos de captura, iscos e engodos permitidos, dimensões de captura e número máximo de exemplares a reter por pescador e por jornada de pesca.\n\n3 - As disposições constantes dos números anteriores podem ter âmbito territorial variável de acordo, designadamente, com a integridade ecológica dos vários sistemas aquáticos e a classificação das águas.\n\n4 - As disposições estabelecidas nos números anteriores podem ser alteradas, temporariamente, por massas de água ou seus troços, tendo em conta a protecção, conservação e fomento de determinadas espécies.\n\n5 - Para fins didácticos, técnicos ou científicos, pode ser autorizada a pesca de espécies aquícolas, nos termos a definir em regulamento próprio do membro do Governo responsável pela área da pesca.\n\n6 - As disposições relativas à captura de espécies aquícolas são estabelecidas por portaria do membro do Governo responsável pela área da pesca nas águas interiores, sem prejuízo das competências do membro do Governo responsável pela área do ambiente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401649": {
+   "fragment_id": "174356405",
+   "type": 11,
+   "heading": "Artigo 9.º — Zonas de protecção",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 9.º — Zonas de protecção\n\n1 - A fim de assegurar a protecção e conservação dos recursos aquícolas, a conservação de espécies aquícolas com elevado estatuto de ameaça ou por razões de ordem científica podem ser criadas zonas de protecção, nas quais, para além da pesca, podem ser proibidas, total ou parcialmente, quaisquer actividades condicionantes do normal desenvolvimento das espécies aquícolas e da integridade dos seus habitats.\n\n2 - Nas zonas de proteção podem ser tomadas medidas de gestão do habitat, de modo a favorecer a manutenção ou a recuperação das populações das espécies aquícolas e a integridade ecológica dos ecossistemas aquáticos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401650": {
+   "fragment_id": "174356411",
+   "type": 11,
+   "heading": "Artigo 15.º — Repovoamentos",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 15.º — Repovoamentos\n\n1 - Compete ao Estado ou a outras entidades para tanto autorizadas a realização de repovoamentos nas águas interiores, com vista à manutenção da biodiversidade, ao fomento de determinadas espécies aquícolas ou à reposição de efectivos populacionais.\n\n2 - Os repovoamentos aquícolas podem ser executados quando outras medidas de gestão sustentada dos recursos aquícolas se revelarem insuficientes para os objetivos pretendidos e devem ter em consideração o estado ecológico e a capacidade de suporte do meio e não pôr em causa a identidade genética das espécies aquícolas indígenas nem os objetivos de proteção das águas e da integridade dos ecossistemas aquáticos.\n\n3 - Os repovoamentos são levados a efeito apenas com material biológico com características genéticas idênticas às existentes no local de destino, sempre que do ponto de vista científico tal se mostre recomendável.\n\n4 - Os repovoamentos só são admitidos após confirmação da existência de densidades populacionais reduzidas e garantia de que serão desenvolvidas em simultâneo medidas de gestão que contrariem as causas da regressão e desde que se cumpram as regras básicas de segurança sanitária e segurança genética entre a população dadora e receptora.\n\n5 - Nas massas de água destinadas à produção de água para consumo humano e nas albufeiras onde se verifica uma oscilação anual significativa do volume de água armazenada, as medidas de repovoamento são mais restritivas, carecendo de parecer do membro do Governo responsável pela área do ambiente e da definição de um plano de acção para resolução de eventuais situações de ruptura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401651": {
+   "fragment_id": "174356413",
+   "type": 11,
+   "heading": "Artigo 17.º — Importação e exportação de espécies aquícolas",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 17.º — Importação e exportação de espécies aquícolas\n\n1 - A importação ou a exportação de ovos, juvenis ou adultos vivos de peixes ou outros espécimes vivos da fauna aquícola carece de autorização do membro do Governo responsável pela área da pesca nas águas interiores, sem prejuízo das disposições de carácter sanitário e ambiental aplicáveis.\n\n2 - Excetuam-se da autorização a que se refere o número anterior a importação e a exportação de ovos, juvenis ou adultos de espécies da fauna aquícola provenientes da aquicultura e da detenção de espécies aquícolas em cativeiro para fins comerciais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401652": {
+   "fragment_id": "174356414",
+   "type": 11,
+   "heading": "Artigo 18.º — Protecção e conservação do património aquícola",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 18.º — Protecção e conservação do património aquícola\n\nTendo em vista a protecção e conservação do património aquícola, é proibido:\n\na) Exercer a pesca fora dos locais ou âmbito geográfico autorizados para esta actividade;\n\nb) Deter ou pescar e não devolver imediatamente à água espécies aquícolas cuja captura não esteja autorizada;\n\nc) Pescar fora do período designado por jornada de pesca, fora dos respectivos períodos de pesca ou por processos e meios não autorizados, salvo em condições a regular;\n\nd) Deter exemplares de espécies aquícolas cujas dimensões não respeitem as normas regulamentares estabelecidas, exceto em unidades de aquicultura e de detenção de espécies aquícolas em cativeiro;\n\ne) Pescar ou deter exemplares de espécies aquícolas em número superior ao que estiver autorizado, por jornada de pesca e por pescador;\n\nf) Utilizar na pesca materiais explosivos, correntes elétricas, substâncias tóxicas ou anestesiantes suscetíveis de causar a morte ou o atordoamento dos peixes, fisgas, tridentes ou arpões, armas de fogo, paus, pedras, bem como meios e processos considerados de pesca subaquática, ressalvando a pesca de espécies aquícolas para fins didáticos, técnicos ou científicos em conformidade com o disposto na regulamentação da presente lei;\n\ng) Utilizar quaisquer meios ou processos de pesca que não se destinem a capturar o peixe pela boca, ressalvando a prática da pesca profissional e a pesca de espécies aquícolas para fins didáticos, técnicos ou científicos em conformidade com o disposto na regulamentação da presente lei;\n\nh) Transferir espécies aquícolas para repovoamento das águas interiores fora das condições previstas no artigo 15.º;\n\ni) Pescar em aquedutos e a menos de 50 m de eclusas e passagens para peixes;\n\nj) Exercer a pesca profissional a menos de 200 m de barragens, açudes e centrais hidroeléctricas e a menos de 100 m de comportas, descarregadores ou quaisquer obras que alterem o regime de circulação das águas;\n\nl) Exercer a pesca profissional fora dos locais delimitados para a prática desta actividade;\n\nm) Pescar em pegos isolados, excepto em situações a regular;\n\nn) Fazer intervenções não autorizadas nas águas interiores ou nos seus leitos e margens que causem a perturbação ou morte de espécies aquícolas ou a deterioração da qualidade dos seus habitats, ou que ponham em causa a conservação dos ecossistemas aquáticos;\n\no) Pescar nos perímetros de protecção das captações superficiais destinadas à produção de água para consumo humano.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401653": {
+   "fragment_id": "174356417",
+   "type": 11,
+   "heading": "Artigo 20.º — Águas públicas",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 20.º — Águas públicas\n\n1 - Para efeitos de ordenamento dos recursos aquícolas e da pesca, as águas públicas dividem-se em:\n\na) Águas livres;\n\nb) Zonas de pesca lúdica;\n\nc) Zonas de pesca profissional;\n\nd) Zonas de protecção.\n\n2 - Nas águas livres pode ser praticada a pesca lúdica, a pesca desportiva e a pesca profissional, sendo esta circunscrita a área delimitada para o efeito e em condições a regulamentar.\n\n3 - Nas zonas de pesca lúdica é praticada apenas a pesca lúdica e a pesca desportiva, sujeitas, para além das normas gerais, a normas específicas consignadas nos respectivos planos de gestão e exploração.\n\n4 - Nas zonas de pesca profissional é praticada a pesca como actividade comercial sujeita, para além das normas gerais, a normas específicas consignadas nos respectivos planos de gestão e exploração, os quais poderão prever ainda a prática da pesca desportiva.\n\n5 - As zonas de protecção são criadas nos termos do disposto no artigo 9.º da presente lei pelo membro do Governo responsável pela área da pesca.\n\n6 - Quando estejam em causa espécies com elevado estatuto de ameaça, o membro do Governo responsável pela área do ambiente pode propor zonas de protecção, a criar através de portaria conjunta dos membros do Governo responsáveis pelas áreas da pesca e do ambiente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401654": {
+   "fragment_id": "174356418",
+   "type": 11,
+   "heading": "Artigo 21.º — Zonas de pesca lúdica e zonas de pesca profissional",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 21.º — Zonas de pesca lúdica e zonas de pesca profissional\n\n1 - A criação das zonas de pesca lúdica e das zonas de pesca profissional compete ao membro do Governo responsável pela área da pesca, mediante parecer do membro do Governo responsável pela área do ambiente.\n\n2 - Nas zonas de pesca lúdica e nas zonas de pesca profissional podem ser condicionadas outras actividades que colidam com a actividade da pesca ou com os objectivos de protecção e conservação dos recursos aquícolas.\n\n3 - As zonas de pesca lúdica podem ser criadas a pedido e para concessão às seguintes pessoas singulares ou colectivas:\n\na) Associações de pescadores;\n\nb) Federações desportivas de pesca titulares do estatuto de utilidade pública desportiva;\n\nc) Autarquias locais e suas associações;\n\nd) Entidades colectivas ou singulares com actividades no domínio do turismo, em que a pesca seja reconhecida como complementar ou integrante daquela actividade.\n\n4 - A gestão das zonas de pesca lúdica criadas pelo membro do Governo responsável pela área da pesca pode ser transferida para as câmaras municipais, a seu pedido ou outras entidades públicas ou privadas com reconhecida competência na gestão dos ecossistemas aquáticos, mediante parecer do membro do Governo responsável pela área do ambiente quando estejam em causa áreas classificadas.\n\n5 - Nas zonas de pesca lúdica e nas zonas de pesca profissional a pesca é exercida nos termos a definir por portaria do membro do Governo responsável pela área da pesca.\n\n6 - A concessão das zonas de pesca está sujeita ao pagamento de uma taxa anual.\n\n7 - São encargos das entidades gestoras das zonas de pesca lúdica as acções consignadas nos respectivos planos de gestão e exploração.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401655": {
+   "fragment_id": "174356419",
+   "type": 11,
+   "heading": "Artigo 22.º — Provas de pesca desportiva",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 22.º — Provas de pesca desportiva\n\n1 - Para efeitos de realização de provas de pesca desportiva em águas públicas, pode ser concessionado o exclusivo de pesca mediante o pagamento de taxa.\n\n2 - As provas de pesca organizadas por federação desportiva de pesca com estatuto de utilidade pública desportiva estão isentas do pagamento de taxa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401656": {
+   "fragment_id": "174356421",
+   "type": 11,
+   "heading": "Artigo 23.º — Requisitos para o exercício da pesca",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 23.º — Requisitos para o exercício da pesca\n\n1 - Só é permitido o exercício da pesca lúdica e da pesca desportiva aos titulares da adequada licença de pesca e dos restantes documentos legalmente exigidos, sem prejuízo do disposto no n.º 3.\n\n2 - Só é permitido o exercício da pesca profissional aos indivíduos maiores de 16 anos titulares da adequada licença de pesca e dos restantes documentos legalmente exigidos.\n\n3 - Os menores de 16 anos só podem exercer a pesca lúdica e a pesca desportiva quando acompanhados por pescador titular de licença de pesca profissional ou lúdica, sendo os respetivos pais, tutores ou outros encarregados da vigilância civilmente responsáveis pelos atos praticados nesse exercício, nos termos da lei geral.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401661": {
+   "fragment_id": "174356422",
+   "type": 11,
+   "heading": "Artigo 24.º — Carta de pescador",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 24.º — Carta de pescador\n\n1 - Pode obter a carta de pescador quem satisfaça cumulativamente os seguintes requisitos:\n\na) Possua a idade mínima de 16 anos;\n\nb) Não esteja sujeito a proibição de pescar por disposição legal ou decisão administrativa ou judicial;\n\nc) Tenha sido aprovado no respectivo exame, destinado a apurar se o interessado possui a aptidão e conhecimentos necessários para o exercício da pesca.\n\n2 - O exame a que se refere o número anterior está sujeito ao pagamento de uma taxa e deve ser efectuado perante a entidade legalmente competente.\n\n3 - A emissão da carta de pescador está sujeita ao pagamento de uma taxa.\n\n4 - A carta de pescador tem validade temporal e caduca sempre que os respectivos titulares sejam condenados por crimes previstos e punidos nos termos da presente lei.\n\n5 - A carta de pescador é diferenciada de acordo com as seguintes modalidades de pesca:\n\na) Pesca lúdica;\n\nb) Pesca desportiva;\n\nc) Pesca profissional.\n\n6 - As condições de emissão da carta de pescador bem como as provas constitutivas do exame a que se refere a alínea c) do n.º 1 são fixadas em regulamento, no prazo máximo de três anos, devendo ser estabelecido um regime transitório.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401662": {
+   "fragment_id": "174356423",
+   "type": 11,
+   "heading": "Artigo 25.º — Dispensa de carta de pescador",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 25.º — Dispensa de carta de pescador\n\n1 - São dispensados da carta de pesca lúdica:\n\na) Os membros do corpo diplomático e consular acreditados em Portugal;\n\nb) Os estrangeiros não residentes em território português desde que estejam habilitados à prática da pesca lúdica no país da sua nacionalidade ou residência;\n\nc) Os portugueses não residentes em território português desde que estejam habilitados à prática da pesca lúdica no país da sua residência.\n\n2 - Nos casos referidos no número anterior, a prática da pesca lúdica fica sujeita à obtenção de licença especial.\n\n3 - É condicionada ao regime de reciprocidade a dispensa de carta de pescador concedida aos membros do corpo diplomático e consular acreditados em Portugal e aos estrangeiros não residentes em território português.\n\n4 - Não podem beneficiar do disposto no n.º 1 os indivíduos condenados por infracção às normas legais sobre o exercício da pesca nas águas interiores.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401657": {
+   "fragment_id": "174356424",
+   "type": 11,
+   "heading": "Artigo 26.º — Licenças de pesca",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 26.º — Licenças de pesca\n\n1 - São estabelecidas licenças de pesca diferenciadas em função da modalidade de pesca.\n\n2 - As licenças de pesca têm validade temporal e territorial.\n\n3 - São condições para obter licença de pesca:\n\na) Ser maior de 16 anos;\n\nb) Não estar sujeito a proibição de pescar por disposição legal ou decisão administrativa ou decisão judicial;\n\nc) [Revogada].\n\n4 - Podem ser criadas licenças especiais para a pesca nas zonas de pesca lúdica, nas zonas de pesca profissional e nas pesqueiras fixas, e para a pesca de espécies aquícolas de importância lúdica, desportiva ou profissional relevante.\n\n5 - A emissão de licenças de pesca compete ao Instituto da Conservação da Natureza e das Florestas, I. P., às entidades das Regiões Autónomas competentes para o efeito e às entidades gestoras de zonas de pesca lúdica, no caso da licença especial para estas zonas.\n\n6 - A emissão das licenças de pesca, feita preferencialmente de forma desmaterializada, está sujeita ao pagamento de uma taxa a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da pesca nas águas interiores.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401658": {
+   "fragment_id": "174356431",
+   "type": 11,
+   "heading": "Artigo 31.º — Contra-ordenações",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 31.º — Contra-ordenações\n\n1 - Constituem contra-ordenação as seguintes\n\ninfracções:\n\na) A detenção ou a pesca e não devolução imediata à água de espécimes de espécies aquícolas cuja captura não esteja autorizada, é punida com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa colectiva;\n\nb) A pesca fora do período designado por jornada de pesca ou fora dos respectivos períodos de pesca é punida com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa colectiva;\n\nc) A utilização de quaisquer meios ou processos de pesca que não se destinem a capturar o peixe pela boca, ressalvando a prática da pesca profissional e da pesca de espécies aquícolas para fins didáticos, técnicos ou científicos em conformidade com o disposto na presente lei e na sua regulamentação, é punida com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa coletiva;\n\nd) A transferência de espécies aquícolas para repovoamento das águas interiores, fora das condições previstas no artigo 15.º, é punida com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa colectiva;\n\ne) O exercício da pesca profissional fora dos locais delimitados para a prática desta actividade é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa colectiva;\n\nf) O esvaziamento total ou parcial de albufeiras, valas, canais e outras massas de água sem que sejam observados os procedimentos exigidos por lei ou determinados por entidades ou agentes competentes é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\ng) A não implementação das medidas previstas no artigo 11.º, pelos respectivos proprietários, concessionários ou quaisquer utilizadores, desde que nos prazos e demais regras previstas em legislação regulamentar, é punida com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\nh) O incumprimento do disposto no artigo 12.º é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\ni) O incumprimento do disposto no artigo 13.º é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\nj) O incumprimento do disposto no artigo 14.º é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 22 500, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\nl) Os repovoamentos não autorizados ou efectuados sem observância das exigências legais ou administrativas são punidos com coima de valor mínimo de (euro) 5000 e máximo de (euro) 22 500, em caso de pessoa singular, e de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa colectiva;\n\nm) O incumprimento do disposto no n.º 2 do artigo 16.º é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, em caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, em caso de pessoa colectiva;\n\nn) O incumprimento do disposto no artigo 17.º é punido com coima de valor mínimo de (euro) 1500 e máximo de (euro) 16 000, em caso de pessoa singular, e de valor mínimo de (euro) 5000 e máximo de (euro) 25 000, em caso de pessoa colectiva;\n\no) O exercício da pesca lúdica ou da pesca desportiva fora dos locais ou âmbito geográfico autorizados para estas atividades é punido com coima de valor mínimo de (euro) 250 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 500 e máximo de (euro) 2500, em caso de pessoa coletiva;\n\np) O incumprimento das normas contidas nas alíneas d) e e) do artigo 18.º é punido com coima de valor mínimo de (euro) 150 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 300 e máximo de (euro) 2500, em caso de pessoa colectiva;\n\nq) O incumprimento das normas contidas na alínea i) do artigo 18.º é punido com coima de valor mínimo de (euro) 250 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 300 e máximo de (euro) 2500, em caso de pessoa colectiva;\n\nr) O incumprimento das normas contidas na alínea j) do artigo 18.º é punido com coima de valor mínimo de (euro) 250 e máximo de (euro) 3000, em caso de pessoa singular, e de valor mínimo de (euro) 500 e máximo de (euro) 5000, em caso de pessoa colectiva;\n\ns) O incumprimento das normas contidas na alínea m) e o) do artigo 18.º é punido com coima de valor mínimo de (euro) 150 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 300 e máximo de (euro) 2500, em caso de pessoa colectiva;\n\nt) O incumprimento das restantes normas constantes do artigo 18.º é punido com coima de valor mínimo de (euro) 250 e máximo de (euro) 30 000, em caso de pessoa singular, e de valor mínimo de (euro) 1000 e máximo de (euro) 50 000, em caso de pessoa colectiva;\n\nu) [Revogada];\n\nv) A falta da licença de pesca lúdica ou profissional é punida com coima de valor mínimo de (euro) 100 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 300 e máximo de (euro) 2500, em caso de pessoa colectiva;\n\nx) O incumprimento das interdições ou restrições ao exercício da pesca a que se refere o artigo 28.º é punido com coima de valor mínimo de (euro) 250 e máximo de (euro) 2000, em caso de pessoa singular, e de valor mínimo de (euro) 300 e máximo de (euro) 2500, em caso de pessoa colectiva;\n\nz) A pesca ou a prática de actos que estejam proibidos nas zonas de protecção, criadas nos termos do artigo 9.º ou do n.º 6 do artigo 20.º, é punido com coima de valor mínimo de (euro) 5000 e máximo de (euro) 50 000, no caso de pessoa singular, e de valor mínimo de (euro) 10 000 e máximo de (euro) 70 000, no caso de pessoa colectiva.\n\n2 - A tentativa e a negligência são puníveis com a coima aplicável à contra-ordenação, especialmente atenuada.\n\n3 - A fixação concreta da coima depende da gravidade da infracção, da culpa do agente, da sua situação económica e do benefício económico obtido.\n\n4 - A coima deve, sempre que possível, exceder o benefício económico que o agente retirou da prática da infracção.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401659": {
+   "fragment_id": "174356433",
+   "type": 11,
+   "heading": "Artigo 33.º — Instrução e decisão dos processos de contraordenação",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 33.º — Instrução e decisão dos processos de contraordenação\n\n1 - Compete ao Instituto da Conservação da Natureza e das Florestas, I. P., a instrução dos processos de contraordenação por ilícitos previstos na presente lei e na sua regulamentação.\n\n2 - Compete ao conselho diretivo do Instituto da Conservação da Natureza e das Florestas, I. P., a decisão dos processos, nomeadamente a aplicação das penas e das sanções acessórias previstas na presente lei, em legislação complementar e na lei geral.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401660": {
+   "fragment_id": "174356438",
+   "type": 11,
+   "heading": "Artigo 37.º — Receitas",
+   "in_force_from": "2015-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 37.º — Receitas\n\n1 - Constituem receitas do Instituto da Conservação da Natureza e das Florestas, I. P., nos termos do decreto-lei a que se refere o artigo 40.º:\n\na) O produto das licenças e taxas provenientes da execução da presente lei, sem prejuízo do referido no n.º 2;\n\nb) O produto da venda dos instrumentos utilizados nas infracções à presente lei, quando seja declarada a sua perda a favor do Estado ou quando abandonados pelo infractor.\n\n2 - Constitui receita das entidades gestoras das zonas de pesca lúdica, o produto das licenças especiais de pesca para o exercício da pesca nessas zonas.»\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  },
+  "174401587": {
+   "fragment_id": "174356445",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 30 de Novembro de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 22 de Janeiro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 24 de Janeiro de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "174401663": {
+   "fragment_id": "174356417",
+   "type": 11,
+   "heading": "Artigo 20.º — Águas públicas",
+   "in_force_from": "2021-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 97/2021 - Diário da República n.º 221/2021, Série I de 2021-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2021-174340769), em vigor a partir de 2021-11-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+   ],
+   "markdown": "###### Artigo 20.º — Águas públicas\n\n1 - Para efeitos de ordenamento dos recursos aquícolas e da pesca, as águas públicas dividem-se em:\n\na) Águas livres;\n\nb) Zonas de pesca lúdica;\n\nc) Zonas de pesca profissional;\n\nd) Zonas de protecção.\n\n2 - Nas águas livres pode ser praticada a pesca lúdica, a pesca desportiva e a pesca profissional, sendo esta circunscrita a área delimitada para o efeito e em condições a regulamentar.\n\n3 - Nas zonas de pesca lúdica é praticada apenas a pesca lúdica e a pesca desportiva, sujeitas, para além das normas gerais, a normas específicas consignadas nos respectivos planos de gestão e exploração.\n\n4 - Nas zonas de pesca profissional é praticada a pesca como atividade comercial sujeita, para além das normas gerais, a normas específicas consignadas nos respetivos planos de gestão e exploração, os quais podem prever ainda a prática da pesca lúdica e da pesca desportiva.\n\n5 - As zonas de protecção são criadas nos termos do disposto no artigo 9.º da presente lei pelo membro do Governo responsável pela área da pesca.\n\n6 - Quando estejam em causa espécies com elevado estatuto de ameaça, o membro do Governo responsável pela área do ambiente pode propor zonas de protecção, a criar através de portaria conjunta dos membros do Governo responsáveis pelas áreas da pesca e do ambiente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 97/2021 - Diário da República n.º 221/2021, Série I de 2021-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2021-174340769), em vigor a partir de 2021-11-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), em vigor a partir de 2015-10-13"
+  }
+ }
+}

@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:675037:por
+title: Portaria n.º 380/72
+short_title: null
+summary: Declara aplicável com início em 1 de Julho de 1972, a uma determinada área da província de Angola, o regime estabelecido
+  pelo Decreto-Lei n.º 182/70 (funções administrativas ultramarinas por autoridades militares.)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho e Ministério do Ultramar
+proposing_entity: null
+official_number: 380/72
+official_date: null
+publication_date: '1972-07-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 162/1972, Série I de 1972-07-13
+  number: '162'
+  series: I
+  supplement: null
+  pages: 897 - 898
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/07/16200/08970898.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '675037'
+  dre_path: /dr/detalhe/portaria/380-1972-675037
+  internal: pt:dre:675037:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/380-1972-675037
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/380-1972-675037
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:48:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8d9742d58555e8084be8206c83933bdfaff0fdce826aa62701b02912b5bc8d5a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:225990:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:48:02Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 380/72
+
+de 13 de Julho
+
+Cumprido o disposto no artigo 1.º do [Decreto-Lei n.º 182/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1970-225990), de 28 de Abril:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e do Ultramar, o seguinte:
+
+1.º Com início em 1 de Julho de 1972, nos termos dos números seguintes, é declarado aplicável o regime estabelecido pelo [Decreto-Lei n.º 182/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1970-225990), de 28 de Abril, à área constituída pelos distritos do Zaire, Uíge e Cuanza Norte e pela parte do distrito de Luanda constituída pelo concelho de Nambuangongo e pelos postos de Quicabo e Úcua, do concelho de Dande, e Bela Vista, do concelho de Ambriz.
+
+2.º A autoridade com funções de comando na área referida terá sede na capital do distrito de Uíge e, em ligação com o Governador-Geral e o Comando-Chefe e por intermédio dos respectivos governadores, competir-lhe-á coordenar a acção dos serviços a que incumbem funções de informação e segurança e ainda a dos restantes serviços no que for essencial para garantir a unidade da contra-subversão.
+
+3.º A autoridade militar referida no número anterior convocará os governadores de distrito da área afecta ao regime do [Decreto-Lei n.º 182/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1970-225990), sempre que o entenda necessário para a boa execução das tarefas que interessam as matérias cuja responsabilidade lhe é deferida, dando do facto conhecimento ao Governador-Geral.
+
+4.º A execução da presente portaria será regulamentada por despacho conjunto do Governador-Geral e do comandante-chefe.
+
+Presidência do Conselho e Ministério do Ultramar, 3 de Julho de 1972. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.

@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:484420:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/1991-1051700490",
+ "dre_path": "/dr/detalhe/aviso/28-1991-484420",
+ "source_lastmod": "2026-07-24",
+ "versions": [
+  {
+   "date": "1991-02-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1052088675",
+    "1052088875"
+   ]
+  },
+  {
+   "date": "1991-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:300065:por",
+     "title": "Declaração de Rectificação n.º 133/91",
+     "published": "1991-06-29",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/133-1991-300065"
+    }
+   ],
+   "changes": [
+    "Retifica Assinatura"
+   ],
+   "fragments": [
+    "1052088675",
+    "1151713375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1052088675": {
+   "fragment_id": "1052088575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se faz público que, segundo comunicação do Conselho de Cooperação Aduaneira, os Governos da Hungria, Chade, Brukina-Faso e Bulgária depositaram, respectivamente em 27 de Agosto, 5 de Setembro, 25 de Setembro e 30 de Outubro de 1990, os instrumentos de ratificação ou adesão à Convenção Internacional sobre o Sistema Harmonizado de Designação e de Codificação de Mercadorias, com as alterações introduzidas pelo Protocolo Adicional à referida Convenção.\n\nA Convenção entrará em vigor para a Hungria a 1 de Janeiro de 1991 e em 1 de Janeiro de 1992 para o Chade, Brukina-Faso e a Bulgária, a menos que estes dois últimos países indiquem uma data anterior."
+  },
+  "1052088875": {
+   "fragment_id": "1052088775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Direcção-Geral dos Negócios Político-Económicos, 31 de Fevereiro de 1991. - O Director de Serviços dos Assuntos Multilaterais, António Santana Carlos."
+  },
+  "1151713375": {
+   "fragment_id": "1052088775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1991-06-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 133/91 - Diário da República n.º 147/1991, 1º Suplemento, Série I-A de 1991-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/133-1991-300065), em vigor a partir de 1991-06-29."
+   ],
+   "markdown": "Direcção-Geral dos Negócios Político-Económicos, 31 de Janeiro de 1991. - O Director de Serviços dos Assuntos Multilaterais, António Santana Carlos.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 133/91 - Diário da República n.º 147/1991, 1º Suplemento, Série I-A de 1991-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/133-1991-300065), em vigor a partir de 1991-06-29."
+  }
+ }
+}

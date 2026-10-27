@@ -1,0 +1,305 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:835863661:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-910176626",
+ "dre_path": "/dr/detalhe/portaria/454-b-2023-835863661",
+ "source_lastmod": "2025-03-10",
+ "versions": [
+  {
+   "date": "2023-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "910149602",
+    "910149603",
+    "910149604",
+    "910149605",
+    "910149606",
+    "910149607",
+    "910149608",
+    "910149609",
+    "910149610",
+    "910149611",
+    "910149612",
+    "910149613",
+    "910149614",
+    "910149615",
+    "910149616",
+    "910149617",
+    "910149618",
+    "910149619",
+    "910149620",
+    "910149621",
+    "910149622",
+    "910149623",
+    "910149624",
+    "910149626",
+    "910149627"
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:910130848:por",
+     "title": "Portaria n.º 92/2025/1",
+     "published": "2025-03-10",
+     "dre_path": "/dr/detalhe/portaria/92-2025-910130848"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "910149602",
+    "910149603",
+    "910149604",
+    "910149605",
+    "910149606",
+    "910149607",
+    "910149608",
+    "910149633",
+    "910149610",
+    "910149611",
+    "910149612",
+    "910149613",
+    "910149614",
+    "910149615",
+    "910149616",
+    "910149617",
+    "910149618",
+    "910149619",
+    "910149620",
+    "910149621",
+    "910149622",
+    "910149623",
+    "910149624",
+    "910149625",
+    "910149626",
+    "910149627"
+   ]
+  }
+ ],
+ "fragments": {
+  "910149602": {
+   "fragment_id": "910176627",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 454-B/2023\n\nde 28 de dezembro\n\nSumário: Estabelece as regras nacionais complementares da intervenção «Seguros de colheitas», do domínio «B.3 Programa Nacional para apoio ao setor da vitivinicultura» do eixo «B Abordagem setorial integrada» do Plano Estratégico da Política Agrícola Comum, para Portugal (PEPAC Portugal).\n\nA reforma da Política Agrícola Comum (PAC), em 2021, estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).\n\nO PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.\n\nO Plano Estratégico da Política Agrícola Comum de Portugal, «PEPAC Portugal», foi aprovado pela Comissão Europeia através da Decisão da Comissão n.º C (2022) 6019, de 31 de agosto de 2022, vigorando no período de 2023-2027.\n\nNeste âmbito, a intervenção «B.3.5 - Seguros de colheitas», do domínio «B.3 - Programa Nacional para o apoio ao setor da vitivinicultura», do eixo «B - Abordagem setorial integrada», do PEPAC Portugal, cujo financiamento se encontra assegurado pelo FEAGA, tem como objetivo setorial, contribuir para a salvaguarda dos rendimentos dos produtores de vinho da União, caso registem prejuízos resultantes de catástrofes naturais, fenómenos climáticos adversos, animais, doenças ou pragas, e como objetivo específico, apoiar o rendimento viável das explorações agrícolas e a resiliência do setor agrícola em toda a União, no intuito de reforçar a segurança alimentar a longo prazo e a diversidade agrícola, bem como garantir a sustentabilidade económica da produção agrícola na União.\n\nPela presente portaria prevê-se o quadro normativo que institucionaliza e efetiva a intervenção setorial acima referida e identifica as entidades intervenientes e respetivas competências, designadamente, da Autoridade de Gestão Nacional (AGN), o Gabinete de Planeamento, Políticas e Administração Geral (GPP), que nos termos do n.º 3 do artigo 56.º do Decreto-Lei n.º 5/2023, de 25 de janeiro, mediante a celebração de acordo escrito, delega funções no Instituto da Vinha e do Vinho, I. P. (IVV, I. P.), na qualidade de organismo intermédio, continuando a ser plenamente responsável pela eficiência e rigor da gestão e execução das funções em causa.\n\nAssim:\n\nManda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:"
+  },
+  "910149603": {
+   "fragment_id": "910176628",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as regras nacionais complementares da intervenção «Seguros de colheitas», do domínio «B.3 - Programa Nacional para apoio ao setor da vitivinicultura» do eixo «B - Abordagem setorial integrada» do Plano Estratégico da Política Agrícola Comum, para Portugal (PEPAC Portugal), nos termos do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, e do Regulamento Delegado (UE) 2022/126, da Comissão, e do Regulamento de Execução (UE) 2022/1475, da Comissão."
+  },
+  "910149604": {
+   "fragment_id": "910176629",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos na presente portaria visam proteger os rendimentos dos produtores de uva para vinho quando afetados por acontecimentos adversos, apoiando a contratação de seguros de colheita de forma a assegurar uma rede de segurança aos viticultores em situações de quebra de produção resultantes de fenómenos climáticos adversos, incluindo os equiparados a catástrofes naturais, e de pragas e doenças da vinha."
+  },
+  "910149605": {
+   "fragment_id": "910176630",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários e tomadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários e tomadores\n\n1 - Podem ser beneficiários do apoio previsto na presente portaria, sem prejuízo dos critérios gerais de elegibilidade previstos no artigo 7.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, os produtores cuja produção segurada seja proveniente de vinhas estabelecidas no território nacional, e que celebrem um contrato de seguro, individual ou de grupo, nas condições estabelecidas na presente portaria.\n\n2 - No caso dos seguros de grupo, podem ser tomadores, em representação dos produtores previstos no número anterior, as seguintes pessoas coletivas:\n\na) Organizações e associações de produtores;\n\nb) Cooperativas agrícolas;\n\nc) Comissões vitivinícolas regionais;\n\nd) Empresas que efetuem a transformação e ou a comercialização.\n\n3 - Para os efeitos do n.º 1, entende-se por produtor, a pessoa individual ou coletiva que explora vinha destinada à produção de vinho, com situação atualizada no sistema de informação da vinha e do vinho (SIvv), do Instituto da Vinha e do Vinho, I. P. (IVV, I. P.), durante o período de vigência do contrato de seguro.\n\n4 - Para os efeitos dos n.os 1 e 2, entende-se por tomador, a pessoa coletiva que celebra o contrato de seguro de grupo ou o produtor que celebra o contrato de seguro individual, com a empresa de seguros, sendo responsável pelo pagamento dos prémios."
+  },
+  "910149606": {
+   "fragment_id": "910176631",
+   "type": 11,
+   "heading": "Artigo 4.º — Área elegível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Área elegível\n\nÉ elegível ao apoio previsto na presente portaria, a área de vinha plantada para produção de vinho com idade mínima de plantação de três anos, inscrita e atualizada no sistema de identificação parcelar (SIP) do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), e com enquadramento legal confirmado no SIvv."
+  },
+  "910149607": {
+   "fragment_id": "910176632",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades competentes\n\n1 - Sem prejuízo das competências do Gabinete de Planeamento, Políticas e Administração Geral (GPP), relativamente à supervisão do exercício das funções de gestão dos apoios previstos na presente portaria, compete ao IVV, I. P.:\n\na) Proceder à decisão das candidaturas, sem prejuízo da possibilidade da respetiva subdelegação de competências no IFAP, I. P.;\n\nb) Gerir a execução das atividades relacionadas com a intervenção prevista na presente portaria;\n\nc) Promover a divulgação genérica da presente intervenção;\n\nd) Definir, em colaboração com o IFAP, I. P., os requisitos do sistema de informação que suporta a presente intervenção, no que se refere à produção de informação necessária ao acompanhamento da execução e à avaliação, de acordo com modelos padronizados, calendários, especificações técnicas e níveis de acesso previamente definidos;\n\ne) Colaborar com o IFAP, I. P., na definição dos procedimentos relativos à submissão de candidaturas, pedidos de pagamento e controlo das intervenções;\n\nf) Elaborar as Orientação Técnica Específica (OTE) relativas às suas atribuições;\n\ng) Exercer as demais funções de organismo intermédio no âmbito da presente intervenção.\n\n2 - Compete ao IFAP, I. P.:\n\na) Participar na divulgação das presentes intervenções;\n\nb) Rececionar as candidaturas e pedidos de pagamento no seu sistema de informação;\n\nc) Elaborar as OTE relativas às suas atribuições;\n\nd) Proceder à análise das candidaturas e dos pedidos de pagamento;\n\ne) Realizar as ações de controlo administrativo;\n\nf) Coordenar as ações de controlo no local;\n\ng) Proceder ao pagamento das ajudas;\n\nh) Recuperar os montantes pagos na sequência da verificação de irregularidades e aplicar penalizações;\n\ni) Disponibilizar à Autoridade de Gestão Nacional e ao IVV, I. P., a informação necessária ao acompanhamento da execução e à avaliação das intervenções;\n\nj) Exercer as demais funções de organismo pagador das despesas financiadas no âmbito das presentes intervenções.\n\n3 - Compete à Comissão de Coordenação e Desenvolvimento Regional, I. P., territorialmente competente:\n\na) Participar na divulgação das presentes intervenções;\n\nb) Realizar as ações de controlo, no âmbito das suas competências;\n\nc) Exercer as demais funções e competências delegadas pelo IFAP, I. P."
+  },
+  "910149608": {
+   "fragment_id": "910176633",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações dos beneficiários e tomadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos beneficiários e tomadores\n\n1 - Para além das obrigações previstas no artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, os beneficiários do apoio da intervenção previsto na presente portaria devem cumprir as seguintes obrigações:\n\na) Segurar todas as parcelas ou subparcelas de vinha para vinho que o agricultor possua ou explore na área do mesmo concelho, desde que respeitada a idade mínima de plantação, sob pena de nulidade da cobertura e reembolso do apoio atribuído pelo beneficiário ou tomador do seguro;\n\nb) Manter, até ao final do contrato de seguro, os critérios de elegibilidade e a apólice de seguro.\n\n2 - No caso de contrato de seguro de grupo, o tomador é solidariamente responsável com o produtor pelas informações prestadas no âmbito do processo de candidatura e de concessão do apoio, devendo cumprir, nomeadamente, as seguintes obrigações especiais:\n\na) Possuir autorização do produtor para a celebração do contrato de seguro e para a consulta dos dados disponibilizados pelo IIFAP, I. P., com vista à formalização da candidatura e à concessão do apoio;\n\nb) Informar o produtor das condições do seguro e do apoio em cada campanha e do apoio previsto;\n\nc) Prestar apoio ao produtor em caso de sinistro, nomeadamente no acompanhamento de peritagens e arbitragens;\n\nd) Manter e disponibilizar ao IFAP, I. P., ou a qualquer outra entidade por este indicada ou com competência para o efeito, toda a informação necessária à realização do controlo previsto na presente portaria;\n\ne) Responder, solidariamente com o produtor, pelo reembolso dos pagamentos indevidos, nos termos previstos na presente portaria, caso se tenha verificado o incumprimento de alguma das obrigações identificadas nas alíneas a) a d) do presente número."
+  },
+  "910149609": {
+   "fragment_id": "910176634",
+   "type": 11,
+   "heading": "Artigo 7.º — Riscos cobertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Riscos cobertos\n\n1 - É elegível, para efeitos do apoio previsto na presente portaria, o contrato de seguro de colheitas que cubra um ou mais dos seguintes riscos:\n\na) «Ação de queda de raio», entendendo-se como tal a descarga atmosférica ocorrida entre nuvem e solo, consistindo em um ou mais impulsos de corrente, que conferem ao fenómeno uma luminosidade característica, raio, e que provocam danos permanentes no bem seguro;\n\nb) «Chuva persistente», entendendo-se como tal os efeitos mediata ou imediatamente resultantes de pluviosidade que, pela sua continuidade e quantidade, produza encharcamento do solo, causando danos na produção segura e, de uma forma generalizada, em todo o município de localização da cultura, com as seguintes consequências:\n\ni) Asfixia radicular, arrastamento, desenraizamento, enterramento e enlodamento da produção segura;\n\nii) Impossibilidade física de efetuar a colheita, devendo existir sinais evidentes de alagamento que impeça a realização da mesma até à data-limite da cobertura;\n\niii) Impossibilidade de prosseguir as operações culturais devido a prejuízos na própria parcela ou subparcela de cultura;\n\niv) Pragas e doenças devido à impossibilidade de realização de tratamentos sempre que estes sejam consequência do sinistro;\n\nc) «Desavinho», entendendo-se como tal o aborto da flor que causa a perda da produção média normal da videira, calculada na fase de maturação do cacho, se a sua ocorrência durante a floração for comprovadamente ocasionada por acidente climático adverso;\n\nd) «Escaldão ou insolação», entendendo-se como tal a destruição de folhas e cachos provocada por condições de temperatura elevada e humidade relativa baixa, e por radiação solar direta, causando o dessecamento das folhas e dos bagos, conduzindo a perdas superiores a 20 % da produção de uvas efetivamente esperada na campanha vitivinícola;\n\ne) «Geada», entendendo-se como tal a formação de cristais de gelo nos tecidos celulares em consequência da sublimação do vapor de água ou arrefecimento abaixo de 0ºC da superfície das plantas, quando o ar adjacente, não tendo humidade suficiente para a formação de cristais de gelo, provoca a necrose dos tecidos vegetais por dissecação;\n\nf) «Granizo», entendendo-se como tal a precipitação de água em estado sólido sob a forma esferoide;\n\ng) «Incêndio», entendendo-se como tal a combustão acidental, com desenvolvimento de chamas, com origem em fenómeno climático, e que se pode propagar pelos próprios meios, provocando danos nos bens seguros;\n\nh) Pragas e doenças da vinha, desde que as condições climáticas sejam adversas à cultura e tecnicamente não seja possível controlar o seu aparecimento ou desenvolvimento, conduzindo a perdas médias, ao nível do concelho de implantação da parcela segura, superiores a 20 % da produção de uvas esperada na campanha vitivinícola, desde que devidamente atestados pelos serviços competentes do Ministério da Agricultura e Alimentação.\n\ni) «Queda de neve», entendendo-se como tal a queda de finos cristais de gelo, por vezes aglomerados em flocos;\n\nj) «Tornado», entendendo-se como tal a tempestade giratória muito violenta, sob a forma de coluna nebulosa projetada até ao solo, e ainda vento que no momento do sinistro tenha atingido velocidade instantânea superior a 80 km por hora ou cuja violência destrua ou derrube árvores num raio de 5 km envolventes dos bens seguros;\n\nk) «Tromba d'água», entendendo-se como tal os efeitos mediata ou imediatamente resultantes de queda pluviométrica igual ou superior a 10 mm em dez minutos no pluviómetro, incluindo os prejuízos resultantes de inundação, desde que a mesma resulte de queda pluviométrica ocorrida no próprio local.\n\n2 - Para além do referido no número anterior, podem ser cobertos outros riscos comprovadamente climáticos, a definir no contrato de seguro, desde que previamente reconhecido como tal pelo IVV, I. P."
+  },
+  "910149610": {
+   "fragment_id": "910176635",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis e não elegíveis\n\n1 - São elegíveis as despesas incorridas no pagamento dos prémios dos contratos de seguro que cubram um ou mais riscos definidos no artigo anterior, até ao limite dos montantes referidos no anexo i à presente portaria, da qual faz parte integrante.\n\n2 - Não são elegíveis os encargos fiscais, parafiscais e custos da apólice."
+  },
+  "910149611": {
+   "fragment_id": "910176636",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições do contrato de seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições do contrato de seguro\n\n1 - O contrato de seguro é individual, quando celebrado por um produtor, sobre a produção de uvas efetivamente esperada na campanha vitivinícola.\n\n2 - O contrato de seguro é de grupo, quando celebrado por uma pessoa coletiva, agindo no interesse direto de pelo menos nove produtores aderentes, que representa, tendo por objeto a produção de uvas efetivamente esperada na campanha vitivinícola.\n\n3 - O contrato de seguro pode ser celebrado por qualquer entidade legalmente autorizada a explorar o seguro agrícola e pecuário, nos termos das alíneas h) e i) do artigo 8.º do regime jurídico de acesso e exercício da atividade seguradora e resseguradora, aprovado pela Lei n.º 147/2015, de 9 de setembro, e autorizada a explorar o ramo «Outros danos em coisas».\n\n4 - Não são indemnizáveis os prejuízos resultantes de sinistros cujo montante seja inferior a 20 % da produção segura, nos casos em que o produtor tenha optado pela cobertura de riscos climáticos adversos equiparados a catástrofes naturais.\n\n5 - A indemnização de perdas provocadas por pragas e doenças depende da correta manutenção dos registos de aquisição e utilização dos produtos fitossanitários nos termos definidos na Lei n.º 26/2013, de 11 de abril, e do cumprimento, sempre que possível, das recomendações emitidas pelo Serviço Nacional de Avisos Agrícolas relativas à execução dos tratamentos fitossanitários, conforme verificação pelos serviços competentes na área da agricultura.\n\n6 - Para efeitos do número anterior, considera-se não ser possível o cumprimento das recomendações emitidas pelo Serviço Nacional de Avisos Agrícolas, quando, por efeito de chuvas persistentes, a aplicação dos tratamentos fitossanitários se revele inviável devido à ineficácia da sua realização, ou, por efeito de encharcamento do terreno a utilização de máquinas não possa ocorrer.\n\n7 - A contratação de seguro para uma dada parcela de uva para vinho, exclui a possibilidade, confirmada por declaração do segurado, de contratação, na mesma campanha, de outro seguro para a mesma parcela e cultura, ao abrigo desta medida de apoio ou de outros regimes de seguro que beneficiem de apoio do Estado Português ou da União Europeia.\n\n8 - O contrato de seguro de grupo deve garantir os valores individuais de valor seguro de cada um dos segurados e, se for o caso, as condições particulares aplicáveis.\n\n9 - O recibo do prémio de seguro indica o valor do prémio e o montante do apoio apurado.\n\n10 - Sem prejuízo das datas-limite da produção de efeitos definidas nas condições da apólice, o contrato de seguro caduca, o mais tardar, na data de conclusão da colheita."
+  },
+  "910149612": {
+   "fragment_id": "910176637",
+   "type": 11,
+   "heading": "Artigo 10.º — Capital seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Capital seguro\n\n1 - A determinação do capital seguro é da responsabilidade do tomador de seguro ou do segurado, tendo em conta a produção esperada e os preços de mercado.\n\n2 - A produção esperada é aquela que se estima vir a obter, caso não haja acidentes que diminuam a produção durante o processo produtivo, calculada, para um dado produtor, nos termos do número seguinte.\n\n3 - No cálculo da produção esperada para a cultura e parcelas ou subparcelas em causa o tomador de seguro ou o segurado podem optar por uma das seguintes possibilidades:\n\na) Valor médio de produtividade obtido nos últimos três anos ou, em alternativa, nos últimos cinco anos excluídos o valor mais elevado e o valor mais baixo, caso o viticultor tenha histórico de produtividade, devendo o tomador de seguros ou o segurado estar na posse e disponibilizar os documentos comprovativos da produtividade histórica obtida;\n\nb) Até ao limite do valor da produtividade média expectável referido no anexo i à presente portaria, da qual faz parte integrante.\n\n4 - Se o preço declarado pelo tomador ou segurado for superior em mais de 20 % relativamente ao valor referido no anexo i, o tomador de seguros ou o segurado devem estar na posse e disponibilizar, sempre que solicitado, documentos comprovativos do preço declarado."
+  },
+  "910149613": {
+   "fragment_id": "910176638",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma, níveis e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Forma, níveis e limites do apoio\n\n1 - O apoio assume a forma de subvenção não reembolsável e não pode exceder as seguintes percentagens do montante elegível:\n\na) No caso de contratos de seguros individuais:\n\ni) 75 %, quando a apólice cubra exclusivamente a cobertura de riscos climáticos adversos equiparados a catástrofes naturais;\n\nii) 50 %, quando a apólice cubra a cobertura de riscos associados a fenómenos climáticos adversos não equiparados a catástrofes naturais;\n\niii) 50 %, quando a apólice cubra a cobertura de riscos associados a pragas e doenças;\n\nb) No caso de contratos de seguros de grupo:\n\ni) 80 %, quando a apólice cubra exclusivamente a cobertura de riscos climáticos adversos equiparados a catástrofes naturais;\n\nii) 50 %, quando a apólice cubra a cobertura de riscos associados a fenómenos climáticos adversos não equiparados a catástrofes naturais;\n\niii) 50 %, quando a apólice cubra a cobertura de riscos associados a pragas e doenças.\n\n2 - Para efeitos do número anterior entende-se por:\n\na) Fenómenos climáticos adversos equiparados a catástrofes naturais, considerando-se como tal condições climáticas que destroem mais de 20 % da produção de uvas esperada na campanha vitivinícola, calculada nos termos do n.º 3 do artigo 10.º;\n\nb) Fenómenos climáticos adversos não equiparados a catástrofes naturais, considerando-se como tal condições climáticas que destroem uma parte da produção igual ou inferior a 20 % da produção de uvas esperada na campanha vitivinícola, calculada nos termos referidos na alínea anterior."
+  },
+  "910149614": {
+   "fragment_id": "910176639",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas em contínuo, durante o ano civil ao qual a apólice diz respeito, de acordo com o plano de abertura de candidaturas divulgado no sítio da Internet do IFAP, I. P., em www.ifap.pt.\n\n2 - A apresentação das candidaturas efetua-se através de submissão de formulário eletrónico disponível no sítio da Internet do IFAP, I. P., e está sujeita a confirmação por via eletrónica, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n3 - As candidaturas são apresentadas diretamente pelas empresas de seguros, ou pelo tomador, nos termos definidos em OTE e divulgados no sítio da Internet do IFAP, I. P."
+  },
+  "910149615": {
+   "fragment_id": "910176640",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise e decisão das candidaturas\n\n1 - As candidaturas são analisadas e decididas no prazo máximo de 45 dias úteis, de acordo com os critérios de elegibilidade previstos na presente portaria e com a dotação orçamental prevista para a presente intervenção.\n\n2 - As candidaturas são ordenadas, segundo a data de entrada dos processos completos no IFAP, I. P.\n\n3 - A decisão da candidatura é comunicada às empresas de seguros e aos tomadores, no prazo máximo de cinco dias úteis a contar da data da decisão, na área reservada do sítio da Internet do IFAP, I. P.\n\n4 - O termo de aceitação é autenticado pelo tomador após a comunicação da decisão favorável."
+  },
+  "910149616": {
+   "fragment_id": "910176641",
+   "type": 11,
+   "heading": "Artigo 14.º — Gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Gestão orçamental\n\n1 - A dotação orçamental da presente intervenção é comunicada ao IFAP, I. P., pelo IVV, I. P., em momento prévio à divulgação do plano de abertura das candidaturas.\n\n2 - A dotação orçamental pode ser alterada em função do valor das candidaturas apresentadas, sem necessidade de alteração do PEPAC, conforme o artigo 101.º do Regulamento (UE) 2021/2115."
+  },
+  "910149617": {
+   "fragment_id": "910176642",
+   "type": 11,
+   "heading": "Artigo 15.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apresentação dos pedidos de pagamento\n\n1 - O prazo para apresentação dos pedidos de pagamento é divulgado pelo IFAP, I. P., no respetivo sítio da Internet.\n\n2 - A apresentação dos pedidos de pagamento efetua-se através de formulário eletrónico disponível no sítio da Internet do IFAP, I. P., e está sujeita a confirmação por via eletrónica, a efetuar pelo IFAP, I. P., considerando-se a data de submissão como a data de apresentação do pedido.\n\n3 - Os pedidos de pagamento são apresentados diretamente pelas empresas de seguros, ou pelo tomador, de forma autónoma ou em articulação, nos termos definidos e divulgados pelo IFAP, I. P., no seu sítio da Internet."
+  },
+  "910149618": {
+   "fragment_id": "910176643",
+   "type": 11,
+   "heading": "Artigo 16.º — Análise do pedido de pagamento e pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Análise do pedido de pagamento e pagamento\n\n1 - O IFAP, I. P., analisa o pedido de pagamento e apura o montante a pagar a cada beneficiário, tendo em conta os critérios de elegibilidade definidos, e após realização de controlos administrativos.\n\n2 - Os apoios são pagos pelo IFAP, I. P., por intermédio das empresas de seguro que efetuam antecipadamente a dedução do apoio ao prémio total devido pelo tomador, preferencialmente até ao dia 30 de setembro do ano da celebração do contrato de seguro, desde que as respetivas candidaturas tenham sido objeto de prévio enquadramento financeiro e se encontrem reunidos todos os requisitos necessários para o efeito.\n\n3 - Os pagamentos são efetuados segundo a data de submissão dos pedidos e de acordo com a disponibilidade orçamental."
+  },
+  "910149619": {
+   "fragment_id": "910176644",
+   "type": 11,
+   "heading": "Artigo 17.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Controlo\n\n1 - As candidaturas e os pedidos de pagamento estão sujeitos a controlos administrativos e no local, nos termos do Regulamento (UE) 2021/2116.\n\n2 - O apoio previsto na presente portaria é calculado com base nos montantes considerados elegíveis no decurso dos controlos realizados."
+  },
+  "910149620": {
+   "fragment_id": "910176645",
+   "type": 11,
+   "heading": "Artigo 18.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detetada, são aplicáveis as disposições nacionais em conjugação com o previsto no Título IV do Regulamento (UE) 2021/2116.\n\n2 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas na Portaria n.º 54-L/2023, de 27 de fevereiro, que aprova o regulamento dos pedidos de ajuda e de pagamento a apresentar ao IFAP, I. P., no âmbito das intervenções definidas a nível nacional e europeu para a agricultura, para recuperação dos montantes indevidamente recebidos, são aplicáveis as seguintes disposições:\n\na) O apoio não é pago ou é recuperado na totalidade, sempre que os critérios de elegibilidade do beneficiário não sejam respeitados;\n\nb) Em caso de incumprimento das obrigações dos beneficiários referidas no n.º 1 do artigo 6.º,\n\no apoio é reduzido ou recuperado parcialmente, de forma proporcional em relação à expressão da área não segura na área total, ou ao período de incumprimento, respetivamente;\n\nc) Em caso de divergências entre os valores declarados e os verificados em controlo relativos à área ou à produtividade, aplicam-se as reduções e exclusões previstas no anexo ii à presente portaria, da qual faz parte integrante."
+  },
+  "910149621": {
+   "fragment_id": "910176646",
+   "type": 11,
+   "heading": "Artigo 19.º — Contributo para o desempenho do PEPAC Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contributo para o desempenho do PEPAC Portugal\n\n1 - A presente intervenção contribui para o objetivo específico estabelecido na alínea a) do artigo 6.º do Regulamento (UE) 2021/2115, «Apoiar o rendimento viável das explorações agrícolas e a resiliência do setor agrícola em toda a União, a fim de reforçar a segurança alimentar a longo prazo e a diversidade agrícola, bem como de garantir a sustentabilidade económica da produção agrícola na União».\n\n2 - Para efeitos do cumprimento das metas dos indicadores de resultados do PEPAC Portugal, releva o indicador «R5: Gestão de riscos», estabelecido no anexo i do Regulamento (UE) 2021/2115."
+  },
+  "910149622": {
+   "fragment_id": "910176647",
+   "type": 11,
+   "heading": "Artigo 20.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Dever de informação\n\nAs empresas de seguros devem remeter ao IFAP, I. P., a informação completa relativa a contratos, sinistros e indemnizações, nos termos e prazos fixados pelo IFAP, I. P., e divulgados no respetivo sítio da Internet, nomeadamente:\n\na) A informação relativa à identificação do tomador e do segurado;\n\nb) A identificação das parcelas e respetivas áreas seguras;\n\nc) O valor seguro com discriminação da produção esperada e do respetivo preço;\n\nd) Os riscos cobertos, o montante do prémio e o valor do apoio solicitado;\n\ne) A informação relativa a sinistros, prejuízos e indemnizações devidas."
+  },
+  "910149623": {
+   "fragment_id": "910176648",
+   "type": 11,
+   "heading": "Artigo 21.º — Interoperabilidade de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Interoperabilidade de dados\n\nA verificação do cumprimento das condições de elegibilidade do beneficiário ou das suas obrigações, bem como a transmissão de informação necessária à gestão do contrato de seguro e à concessão do apoio, será realizada, sempre que tecnicamente possível, com recurso à interoperabilidade de dados entre organismos da Administração Pública e entre as entidades intervenientes na gestão da presente intervenção, via webservice ou plataformas de interoperabilidade."
+  },
+  "910149624": {
+   "fragment_id": "910176649",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2024."
+  },
+  "910149626": {
+   "fragment_id": "910176651",
+   "type": 14,
+   "heading": "Anexo I — Limites elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Limites elegíveis\n\n[a que se referem o n.º 1 do artigo 8.º, a alínea b) do n.º 3 e o n.º 4 do artigo 10.º]\n\n| Região vitivinícola | Preço venda(euros/kg de uva) | Produtividade<br>expectável (kg/hectare) | Média por apólice(euros/hectare) |\n| --- | --- | --- | --- |\n|  |  |  |  |\n| Verdes... | 1,00 | 12 537 | 290 |\n| Trás-os-Montes... | 0,50 | 10 674 | 515 |\n| Douro... | 0,98 | 6 600 | 400 |\n| Bairrada... | 0,41 | 13 765 | 325 |\n| Dão... | 0,50 | 13 133 | 840 |\n| Beira Interior... | 0,49 | 8 659 | 565 |\n| Távora-Varosa... | 0,47 | 14 770 | 590 |\n| Tejo... | 0,37 | 19 025 | 140 |\n| Lisboa... | 0,35 | 20 743 | 115 |\n| Península de Setúbal... | 0,50 | 16 868 | 205 |\n| Alentejo... | 0,52 | 12 207 | 165 |\n| Algarve... | 0,70 | 8 373 | 140 |\n| Madeira ... | 1,26 | 15 812 | 840 |\n| Açores ... | 2,26 | 12 039 | 840 |"
+  },
+  "910149627": {
+   "fragment_id": "910176652",
+   "type": 14,
+   "heading": "Anexo II — Quadro das reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Quadro das reduções e exclusões\n\n[a que se refere a alínea c) do n.º 2 do artigo 18.º]\n\n1 - Diferença entre a área declarada e a área verificada em controlo:\n\n| Quociente entre a área declarada<br>e a área verificada | Reduções e exclusões |\n| --- | --- |\n|  |  |\n| (igual ou menor que) 1.05 | Pagamento sem correção (0 %). |\n| (maior que) 1.05 e (igual ou menor que) 1.25 | Redução de valor igual à diferença detetada. |\n| (maior que) 1.25 e (igual ou menor que) 2.00 | Redução de valor igual ao dobro da diferença detetada. |\n| (maior que) 2.00 | Exclusão (100 %). |\n\n2 - Diferença entre a produtividade declarada e a produtividade verificada em controlo:\n\n| Quociente entre a produtividade<br>declarada e a produtividade verificada | Reduções e exclusões |\n| --- | --- |\n|  |  |\n| (igual ou menor que) 1.05 | Pagamento sem correção (0 %). |\n| (maior que) 1.05 e (igual ou menor que) 1.25 | Redução de valor igual à diferença detetada. |\n| (maior que) 1.25 e (igual ou menor que) 2.00 | Redução de valor igual ao dobro da diferença detetada. |\n| (maior que) 2.00 | Exclusão (100 %). |\n\n117203674"
+  },
+  "910149633": {
+   "fragment_id": "910176634",
+   "type": 11,
+   "heading": "Artigo 7.º — Riscos cobertos",
+   "in_force_from": "2025-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2025/1 - Diário da República n.º 48/2025, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/92-2025-910130848), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Riscos cobertos\n\n1 - É elegível, para efeitos do apoio previsto na presente portaria, o contrato de seguro de colheitas que cubra um ou mais dos seguintes riscos:\n\na) «Ação de queda de raio», entendendo-se como tal a descarga atmosférica ocorrida entre nuvem e solo, consistindo em um ou mais impulsos de corrente, que conferem ao fenómeno uma luminosidade característica, raio, e que provocam danos permanentes no bem seguro;\n\nb) «Chuva persistente», entendendo-se como tal os efeitos mediata ou imediatamente resultantes de pluviosidade que, pela sua continuidade e quantidade, produza encharcamento do solo, causando danos na produção segura e, de uma forma generalizada, em todo o município de localização da cultura, com as seguintes consequências:\n\ni) Asfixia radicular, arrastamento, desenraizamento, enterramento e enlodamento da produção segura;\n\nii) Impossibilidade física de efetuar a colheita, devendo existir sinais evidentes de alagamento que impeça a realização da mesma até à data-limite da cobertura;\n\niii) Impossibilidade de prosseguir as operações culturais devido a prejuízos na própria parcela ou subparcela de cultura;\n\niv) Pragas e doenças devido à impossibilidade de realização de tratamentos sempre que estes sejam consequência do sinistro;\n\nc) «Desavinho», entendendo-se como tal o aborto da flor que causa a perda da produção média normal da videira, calculada na fase de maturação do cacho, se a sua ocorrência durante a floração for comprovadamente ocasionada por acidente climático adverso;\n\nd) «Escaldão ou insolação», entendendo-se como tal a destruição de folhas e cachos provocada por condições de temperatura elevada e humidade relativa baixa, e por radiação solar direta, causando o dessecamento das folhas e dos bagos;\n\ne) «Geada», entendendo-se como tal a formação de cristais de gelo nos tecidos celulares em consequência da sublimação do vapor de água ou arrefecimento abaixo de 0ºC da superfície das plantas, quando o ar adjacente, não tendo humidade suficiente para a formação de cristais de gelo, provoca a necrose dos tecidos vegetais por dissecação;\n\nf) «Granizo», entendendo-se como tal a precipitação de água em estado sólido sob a forma esferoide;\n\ng) «Incêndio», entendendo-se como tal a combustão acidental, com desenvolvimento de chamas, com origem em fenómeno climático, e que se pode propagar pelos próprios meios, provocando danos nos bens seguros;\n\nh) Pragas e doenças da vinha, desde que as condições climáticas sejam adversas à cultura e tecnicamente não seja possível controlar o seu aparecimento ou desenvolvimento, conduzindo a perdas médias, ao nível do concelho de implantação da parcela segura, superiores a 20 % da produção de uvas esperada na campanha vitivinícola, desde que devidamente atestados pelos serviços competentes do Ministério da Agricultura e Alimentação;\n\ni) «Queda de neve», entendendo-se como tal a queda de finos cristais de gelo, por vezes aglomerados em flocos;\n\nj) «Tornado», entendendo-se como tal a tempestade giratória muito violenta, sob a forma de coluna nebulosa projetada até ao solo, e ainda vento que no momento do sinistro tenha atingido velocidade instantânea superior a 80 km por hora ou cuja violência destrua ou derrube árvores num raio de 5 km envolventes dos bens seguros;\n\nk) «Tromba d'água», entendendo-se como tal os efeitos mediata ou imediatamente resultantes de queda pluviométrica igual ou superior a 10 mm em dez minutos no pluviómetro, incluindo os prejuízos resultantes de inundação, desde que a mesma resulte de queda pluviométrica ocorrida no próprio local.\n\n2 - Para além do referido no número anterior, podem ser cobertos outros riscos comprovadamente climáticos, a definir no contrato de seguro, desde que previamente reconhecido como tal pelo IVV, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2025/1 - Diário da República n.º 48/2025, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/92-2025-910130848), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+  },
+  "910149625": {
+   "fragment_id": "910176650",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 14 de dezembro de 2023."
+  }
+ }
+}

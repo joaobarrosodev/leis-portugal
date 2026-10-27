@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:472475:por
+title: Decreto-Lei n.º 45669
+short_title: null
+summary: Cria no concelho de Vila Nova de Ourém, distrito de Santarém a freguesia de Casal dos Bernardos, com sede na actual
+  povoação do mesmo nome
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Interior - Direcção-Geral de Administração Política e Civil
+proposing_entity: null
+official_number: '45669'
+official_date: null
+publication_date: '1964-04-18'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 93/1964, Série I de 1964-04-18
+  number: '93'
+  series: I
+  supplement: null
+  pages: 533 - 534
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/04/09300/05330534.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '472475'
+  dre_path: /dr/detalhe/decreto-lei/45669-1964-472475
+  internal: pt:dre:472475:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45669-1964-472475
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45669-1964-472475
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:48:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3a0a38986ef47d8eeb6d10db4bdbad02a794bf788f43fe24c69a1f9175460f0a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:48:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Freguesias
+- Vila Nova de Ourém
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:48:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45669
+
+Atendendo ao que representou a maioria absoluta dos chefes de família eleitores com residência habitual nas povoações de Cacinheira, Casal dos Bernardos, Casais Galegos, Casal dos Moleiros, Casalinho, Cova do Lobo, Estreito, Salgueira de Baixo, Salgueira de Cima, Valongo da Pederneira e Várzea da Cacinheira, pertencentes à freguesia de Freixianda, do concelho de Vila Nova de Ourém, no sentido de ser criada a freguesia de Casal dos Bernardos, com sede na povoação do mesmo nome;
+
+Considerando que as referidas povoações, cujos aglomerados totalizam cerca de 500 fogos, com mais de 2500 habitantes, distam da actual sede da freguesia entre 5 km e 12 km e não existem estradas que assegurem o acesso fácil das respectivas populações à dita sede de freguesia;
+
+Considerando que a circunscrição a criar possui igreja, cemitério, escolas e rede telefónica;
+
+Considerando que a autoridade eclesiástica se comprometeu a criar a correspondente paróquia religiosa, com os mesmos limites da nova freguesia;
+
+Considerando que se verificam as demais condições referidas no artigo 9.º do Código Administrativo e se cumpriram as formalidades exigidas pela mesma disposição legal;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É criada no concelho de Vila Nova de Ourém, distrito de Santarém, a freguesia de Casal dos Bernardos, com sede na actual povoação do mesmo nome.
+
+§ único. A freguesia de Casal dos Bernardos é classificada de 2.ª ordem.
+
+Art. 2.º Os limites da nova freguesia são definidos por uma linha que, partindo do cruzamento de dois caminhos, sem designação própria, com o que liga o Vale das Éguas (no concelho de Pombal) ao Vale Longo, situado próximo do local denominado Alto da Cascalheira, no limite norte do concelho de Vila Nova de Ourém, acompanha depois, para nordeste, a divisória comum dos concelhos de Pombal e de Vila Nova de Ourém, passando pelo marco geodésico da Malaguarda, até ao cruzamento com a estrada da Cartaria, ponto comum às freguesias de Albergaria dos Doze e de Freixianda; daqui prossegue, no sentido sueste, pelo eixo do caminho vertente, cruzando com a estrada que se dirige ao lugar da Ladeira do Fárrio, até alcançar o caminho de ligação do Vale dos Enxames às Levegadas, próximo do marco geodésico localizado no sítio dos Enxames; deste ponto progride em direcção a um pequeno ribeiro afluente da ribeira da Salgueira e, seguindo o seu curso, corta a estrada que vai do Vale Madeiro à Quinta do Fárrio, no lugar do baldio da Cacinheira, donde continua pelo caminho existente até chegar à estrada que dá acesso à lagoa do Grou, no sítio de Trás do Outeiro; em seguida, avança, em linha recta, para o marco geodésico situado no lugar da Aguda Alta, ponto comum às freguesias de Freixianda e de Rio de Couros; inflectindo para oés-noroeste, segue dali em direcção ao cruzamento do caminho do Vale da Estrada, continuando, em linha recta, até atingir a ponte da ribeira da Cacinheira, depois de passar junto à casa pertencente a Rosária Agulha; daqui segue, para sudoeste, pela estrada de acesso à que liga as povoações de Casal Ribeiro e Casal dos Bernardos, prosseguindo, em linha recta, pelo caminho existente até ao marco colocado na dita via, junto ao sítio do Pinhal do Costa, também conhecido por Relveiro, donde prossegue em direcção a outro marco colocado próximo da ribeira do Brejo, no caminho que liga os lugares de Carvalhal e Cova do Lobo, passando, mais adiante, pelo cruzamento da estrada do Carvalhal de Cima à Ladeira Grande com o caminho que leva ao lugar da Ladeira Pequena, atingindo seguidamente o marco colocado no sítio dos Olheiros, o qual, como os anteriormente citados, demarcam presentemente as freguesias de Freixianda e de Rio de Couros. Dali continua, em linha recta, na direcção do marco geodésico da Ameixoeira, ponto comum às freguesias de Caxarias, Urqueira e Freixianda, alcançando, no mesmo sentido, a estrada que divide a povoação do Estreito e as freguesias de Urqueira e de Freixianda, por cujo eixo segue, passando próximo da nova capela do Estreito, até ao seu cruzamento com a estrada que dá acesso à povoação de Valongo da Pederneira; prossegue pelo eixo do caminho do Vale Longo, que corre paralelamente à linha do caminho de ferro (linha do Norte), até junto da passagem de nível do Relveiro, ponto a partir do qual o dito caminho já é conhecido por caminho do Vale do Casal Jorge; segue por este caminho até ao ponto onde nasce a encosta da Cascalheira, pela qual segue até chegar ao alto do mesmo nome, onde se cruza com o caminho que vai morrer na estrada do Estremo; passado este cruzamento, a linha desce, em linha recta, na direcção do ponto onde se iniciou a descrição, comum à nova freguesia e às de Urqueira e Albergaria dos Doze.
+
+Art. 3.º A eleição da Junta de Freguesia de Casal dos Bernardos realizar-se-á no dia que for designado pelo presidente da Câmara Municipal de Vila Nova de Ourém e serão eleitores os chefes de família da respectiva área, inscritos no recenseamento eleitoral da freguesia de Freixianda.
+
+§ único. A Junta eleita nos termos deste artigo servirá até final do quadriénio em curso.
+
+Art. 4.º A competência atribuída pelo Código Administrativo ao presidente da Junta, no que se refere a eleição e votação, será exercida pelo presidente da Câmara Municipal de Vila Nova de Ourém.
+
+Art. 5.º A Câmara Municipal de Vila Nova de Ourém procederá, no prazo de 60 dias, a contar da publicação do presente decreto-lei, à colocação de marcos, por forma que fiquem bem patentes os limites fixados no artigo 2.º
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 18 de Abril de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

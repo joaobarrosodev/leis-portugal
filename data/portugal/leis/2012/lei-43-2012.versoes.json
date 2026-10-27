@@ -1,0 +1,328 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174573:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2012-105657348",
+ "dre_path": "/dr/detalhe/lei/43-2012-174573",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "105665477",
+    "105665478",
+    "105665479",
+    "105665480",
+    "105665481",
+    "105665482",
+    "105665483",
+    "105665484",
+    "105665485",
+    "105665486",
+    "105665487",
+    "105665488",
+    "105665489",
+    "105665490",
+    "105665491"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105637672:por",
+     "title": "Lei n.º 42/2016",
+     "published": "2016-12-28",
+     "dre_path": "/dr/detalhe/lei/42-2016-105637672"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "105665477",
+    "105665478",
+    "105665479",
+    "105665480",
+    "105665481",
+    "105665482",
+    "105665493",
+    "105665484",
+    "105665485",
+    "105665486",
+    "105665494",
+    "105665488",
+    "105665489",
+    "105665490",
+    "105665491",
+    "105665492"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "105665477",
+    "105665478",
+    "105665479",
+    "105665480",
+    "105665481",
+    "105665482",
+    "114431453",
+    "105665484",
+    "105665485",
+    "105665486",
+    "114431454",
+    "105665488",
+    "105665489",
+    "105665490",
+    "105665491",
+    "105665492"
+   ]
+  },
+  {
+   "date": "2021-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174480832:por",
+     "title": "Lei n.º 74/2021",
+     "published": "2021-11-18",
+     "dre_path": "/dr/detalhe/lei/74-2021-174480832"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "105665477",
+    "105665478",
+    "105665479",
+    "105665480",
+    "105665481",
+    "105665482",
+    "174594832",
+    "105665484",
+    "105665485",
+    "105665486",
+    "114431454",
+    "174594833",
+    "105665489",
+    "105665490",
+    "105665491",
+    "105665492"
+   ]
+  }
+ ],
+ "fragments": {
+  "105665477": {
+   "fragment_id": "105657349",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 43/2012\n\nde 28 de agosto\n\nCria o Programa de Apoio à Economia Local, com o objetivo de proceder à regularização do pagamento de dívidas dos municípios a fornecedores vencidas há mais de 90 dias\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "105665478": {
+   "fragment_id": "105657350",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - É criado o Programa de Apoio à Economia Local (PAEL), o qual tem por objeto a regularização do pagamento de dívidas dos municípios vencidas há mais de 90 dias, registadas na Direção-Geral das Autarquias Locais (DGAL) à data de 31 de março de 2012.\n\n2 - O PAEL abrange todos os pagamentos dos municípios em atraso há mais de 90 dias, independentemente da sua natureza comercial ou administrativa.\n\n3 - Os municípios aderentes ao PAEL são autorizados a celebrar um contrato de empréstimo com o Estado nos termos e condições definidos pela presente lei.\n\n4 - O limite legal de endividamento de médio e longo prazos não prejudica a contração de empréstimos ao abrigo da presente lei.\n\n5 - A celebração do contrato de empréstimo previsto no n.º 3 não pode conduzir ao aumento do endividamento líquido do município conforme estabelecido na Lei das Finanças Locais, aprovada pela Lei n.º 2/2007, de 15 de janeiro, alterada pelas Leis n.os 22-A/2007, de 29 de junho, 67-A/2007, de 31 de dezembro, 3-B/2010, de 28 de abril, 64-B/2011, de 30 de dezembro, e 22/2012, de 30 de maio.\n\n6 - As dívidas pagas no âmbito do PAEL não relevam para efeitos do cumprimento do disposto nos n.os 4 e 5 do artigo 65.º da Lei do Orçamento do Estado para 2012, aprovada pela Lei n.º 64-B/2011, de 30 de dezembro, alterada pela Lei n.º 20/2012, de 14 de maio.\n\n7 - Nos termos do n.º 10 do artigo 208.º da Lei do Orçamento do Estado para 2012, o fundo disponível para o financiamento do PAEL é de (euro) 1 000 000 000."
+  },
+  "105665479": {
+   "fragment_id": "105657351",
+   "type": 11,
+   "heading": "Artigo 2.º — Adesão e definição dos programas de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Adesão e definição dos programas de financiamento\n\n1 - Os municípios aderentes são enquadrados em dois programas, de acordo com a sua situação financeira.\n\n2 - O Programa I integra os municípios que:\n\na) Estejam abrangidos por um plano de reequilíbrio financeiro;\n\nb) A 31 de dezembro de 2011, se encontravam numa situação de desequilíbrio estrutural;\n\nc) Reunindo os pressupostos de adesão ao PAEL previstos no n.º 2 do artigo anterior, optem por aderir ao Programa I.\n\n3 - O Programa II integra os restantes municípios com pagamentos em atraso há mais de 90 dias a 31 de março de 2012, de acordo com o reporte efetuado no Sistema Integrado de Informação das Autarquias Locais (SIIAL).\n\n4 - Os programas previstos nos números anteriores são objeto de regulamentação em portaria dos membros do Governo responsáveis pelas áreas das finanças e das autarquias locais."
+  },
+  "105665480": {
+   "fragment_id": "105657352",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazo e montante de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prazo e montante de financiamento\n\n1 - O empréstimo contraído no âmbito do Programa I tem o prazo máximo de vigência de 20 anos, sem diferimento de início de período de amortização, sendo o montante máximo de financiamento obrigatório igual a 100 % do montante elegível.\n\n2 - O empréstimo contraído no âmbito do Programa II tem o prazo máximo de vigência de 14 anos, sem diferimento de início de período de amortização, sendo o montante mínimo de financiamento de 50 % e o montante máximo de financiamento de 90 % do montante elegível.\n\n3 - O montante elegível corresponde à diferença entre o montante dos pagamentos em atraso a 31 de março de 2012 e a soma dos montantes correspondentes à redução prevista nos n.os 3 e 4 do artigo 65.º da Lei do Orçamento do Estado para 2012 e às dívidas abatidas com a utilização de verbas do Fundo de Regularização Municipal (FRM).\n\n4 - Caso a dotação prevista no n.º 7 do artigo 1.º seja insuficiente para cumprir o disposto nos n.os 1 e 2 do presente artigo, é efetuado rateio entre os municípios que preencham as condições do Programa II, independentemente do programa que venham a integrar.\n\n5 - As regras do rateio referido no número anterior são definidas na portaria referida no n.º 4 do artigo 2.º"
+  },
+  "105665481": {
+   "fragment_id": "105657353",
+   "type": 11,
+   "heading": "Artigo 4.º — Comissão de Análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comissão de Análise\n\n1 - É criada a Comissão de Análise do PAEL, adiante abreviadamente designada por Comissão, constituída por:\n\na) Um representante a designar pelo membro do Governo responsável pela área das finanças, que preside;\n\nb) Um representante da DGAL;\n\nc) Um representante da Direção-Geral do Orçamento (DGO);\n\nd) Um representante da Direção-Geral do Tesouro e Finanças (DGTF);\n\ne) Um representante da Associação Nacional de Municípios Portugueses (ANMP).\n\n2 - A Comissão tem por missão dirigir a instrução do procedimento, incluindo a preparação da decisão final, e a elaboração da proposta de contrato entre o Estado e o município aderente."
+  },
+  "105665482": {
+   "fragment_id": "105657354",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento\n\n1 - A adesão do município ao respetivo Programa efetua-se através de pedido dirigido à Comissão, no prazo de 20 dias seguidos, após a publicação do formulário a aprovar mediante portaria dos membros do Governo responsáveis pela área das finanças e das autarquias locais.\n\n2 - O pedido de adesão é acompanhado do Plano de Ajustamento Financeiro, adiante abreviadamente designado por Plano, aprovado pela assembleia municipal, sob proposta da câmara municipal, a elaborar de acordo com o modelo constante da portaria referida no número anterior.\n\n3 - A decisão final é tomada por despacho dos membros do Governo responsáveis pela área das finanças e das autarquias locais, sob proposta da Comissão.\n\n4 - O contrato de empréstimo entre o Estado, através da DGTF, e o município é celebrado no prazo de cinco dias a contar da decisão final."
+  },
+  "105665483": {
+   "fragment_id": "105657355",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano de Ajustamento Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Plano de Ajustamento Financeiro\n\n1 - O Plano tem uma duração equivalente à do empréstimo a conceder pelo Estado, devendo conter um conjunto de medidas específicas e quantificadas, que evidenciem o restabelecimento da situação financeira do município, tendo em conta os seguintes objetivos:\n\na) Redução e racionalização da despesa corrente e de capital;\n\nb) Existência de regulamentos de controlo interno;\n\nc) Otimização da receita própria;\n\nd) Intensificação do ajustamento municipal nos primeiros cinco anos de vigência do PAEL.\n\n2 - Os Planos dos municípios que integrem o Programa I devem respeitar ainda as seguintes medidas mínimas:\n\na) Determinação da participação variável no imposto sobre o rendimento das pessoas singulares (IRS) à taxa máxima prevista nos termos do artigo 20.º da Lei das Finanças Locais;\n\nb) Fixação dos preços cobrados pelo município nos setores do saneamento, água e resíduos, nos termos definidos nas recomendações da Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR);\n\nc) Aperfeiçoamento dos processos e do controlo sobre os factos suscetíveis de gerarem a cobrança de taxas e preços municipais, bem como ao nível da aplicação de coimas e da promoção dos processos de execução fiscal a cargo do município;\n\nd) Restantes medidas previstas no artigo 11.º do Decreto-Lei n.º 38/2008, de 7 de março (densifica as regras referentes aos regimes de saneamento e de reequilíbrio financeiro municipal, bem como do Fundo de Regularização Municipal, previstos na Lei das Finanças Locais), alterado pelo Decreto-Lei n.º 120/2012, de 19 de junho.\n\n3 - Para efeitos do disposto na alínea d) do número anterior, a taxa máxima do imposto municipal sobre imóveis (IMI) é a fixada para efeitos de liquidação e cobrança no ano da celebração do contrato.\n\n4 - Em caso de incumprimento dos objetivos de reequilíbrio financeiro, deve o município, sob pena de resolução do contrato de empréstimo, aprovar a aplicação da taxa máxima do IMI em vigor à data do incumprimento.\n\n5 - Os objetivos e as medidas apresentadas no Plano são objeto de reanálise, pelo município e pelo Estado, com uma periodicidade anual."
+  },
+  "105665484": {
+   "fragment_id": "105657356",
+   "type": 11,
+   "heading": "Artigo 7.º — Intervenção dos órgãos municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Intervenção dos órgãos municipais\n\n1 - Em qualquer dos Programas, o Plano é aprovado pela assembleia municipal, sob proposta da câmara municipal, para posterior remessa à Comissão.\n\n2 - A deliberação da assembleia municipal deve incluir a autorização expressa para a contratação de um empréstimo de médio e longo prazos até ao limite máximo dos pagamentos em atraso constantes da lista dos pagamentos que integra o referido Plano."
+  },
+  "105665485": {
+   "fragment_id": "105657357",
+   "type": 11,
+   "heading": "Artigo 8.º — Tribunal de Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tribunal de Contas\n\nO contrato de empréstimo celebrado ao abrigo do PAEL é enviado para o Tribunal de Contas, para efeitos de fiscalização prévia, no prazo de cinco dias após a sua assinatura."
+  },
+  "105665486": {
+   "fragment_id": "105657358",
+   "type": 11,
+   "heading": "Artigo 9.º — Disponibilização do montante de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disponibilização do montante de financiamento\n\nA disponibilização do montante de financiamento aprovado é realizada em parcelas cujos termos e condições constam de portaria dos membros do Governo responsáveis pela área das finanças e das autarquias locais."
+  },
+  "105665487": {
+   "fragment_id": "105657359",
+   "type": 11,
+   "heading": "Artigo 10.º — Outras obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Outras obrigações\n\n1 - Os municípios que integrem o Programa I ficam obrigados a:\n\na) Submeter a autorização prévia da assembleia municipal, independentemente da sua inclusão no Plano Plurianual de Atividades, todas as novas despesas de caráter anual ou plurianual de montante superior ao menor dos seguintes valores: (euro) 500 000 ou 5 % das despesas orçamentadas relativamente ao capítulo do classificador económico em que a mesma se integra, no mínimo de (euro) 100 000;\n\nb) Submeter à DGAL, durante os cinco anos subsequentes à assinatura do contrato, os seus documentos previsionais, e eventuais revisões, para apreciação técnica, antes da sua apresentação, para aprovação, à assembleia municipal;\n\nc) Não promover quaisquer novas parcerias público-privadas.\n\n2 - Os municípios que integrem o Programa I ficam ainda obrigados a cumprir, com as devidas adaptações, as obrigações previstas na subalínea ii) da alínea d) do n.º 1 e nos n.os 2 e 3 do artigo 15.º do Decreto-Lei n.º 38/2008, de 7 de março."
+  },
+  "105665488": {
+   "fragment_id": "105657360",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções\n\n1 - A aprovação pelo município de quaisquer atos que violem o cumprimento do disposto no artigo 6.º é considerada como ilegalidade grave nos termos e para os efeitos da alínea i) do artigo 9.º da Lei n.º 27/96, de 1 de agosto (regime jurídico da tutela administrativa), alterada pela Lei Orgânica n.º 1/2011, de 30 de novembro.\n\n2 - Em caso de incumprimento de qualquer prestação do serviço da dívida do contrato de empréstimo, e pelo valor das prestações em atraso, independentemente dos limites previstos na Lei das Finanças Locais, a DGAL procede à retenção da receita não consignada proveniente das transferências do Orçamento do Estado e a Autoridade Tributária e Aduaneira (AT) à retenção de outras receitas de natureza fiscal, mediante comunicação da DGTF.\n\n3 - Sem prejuízo do disposto no número anterior, o incumprimento do pagamento de uma prestação do serviço da dívida do contrato de empréstimo constitui o município na obrigação de fixação da taxa máxima do IMI, em vigor à data do incumprimento, sob pena de resolução do contrato.\n\n4 - A violação das cláusulas previstas no contrato celebrado no âmbito do PAEL ou o incumprimento dos objetivos definidos constitui facto suscetível de responsabilidade financeira, nos termos previstos nas alíneas b), d) e f) do n.º 1 do artigo 65.º da Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 16 de agosto, alterada pelas Leis n.os 1/2001, de 4 de janeiro, 55-B/2004, de 30 de dezembro, 48/2006, de 29 de agosto, que a republicou, 35/2007, de 13 de agosto, 3-B/2010, de 28 de abril, 61/2011, de 7 de dezembro, e 2/2012, de 6 de janeiro."
+  },
+  "105665489": {
+   "fragment_id": "105657361",
+   "type": 11,
+   "heading": "Artigo 12.º — Monitorização e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Monitorização e acompanhamento\n\n1 - O acompanhamento do PAEL é efetuado nos seguintes termos:\n\na) Pela assembleia municipal, trimestralmente e através de informação prestada pela câmara municipal, que integra obrigatoriamente a avaliação do grau de execução dos objetivos previstos no Plano, bem como qualquer outra informação considerada pertinente;\n\nb) Pela DGAL, na sequência da prestação de informação nos termos que vierem a ser definidos por portaria dos membros do Governo responsáveis pela área das finanças e das autarquias locais;\n\nc) Pela Inspeção-Geral de Finanças (IGF), através da realização de auditorias sistemáticas aos municípios que integram o Programa I e regulares aos municípios que integram o Programa II.\n\n2 - Todos os municípios aderentes estão obrigados a incluir no relatório da conta de gerência um anexo relativo à execução do PAEL."
+  },
+  "105665490": {
+   "fragment_id": "105657362",
+   "type": 11,
+   "heading": "Artigo 13.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Publicidade\n\nO município divulga no sítio oficial da Internet, bem como em edital afixado nos lugares de estilo e, caso exista, no boletim da autarquia, os seguintes documentos:\n\na) Pedido de adesão ao Programa;\n\nb) Contrato celebrado com o Estado, incluindo todos os documentos anexos."
+  },
+  "105665491": {
+   "fragment_id": "105657363",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "105665493": {
+   "fragment_id": "105657355",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano de Ajustamento Financeiro",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 254.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Plano de Ajustamento Financeiro\n\n1 - O Plano tem uma duração equivalente à do empréstimo a conceder pelo Estado, devendo conter um conjunto de medidas específicas e quantificadas, que evidenciem o restabelecimento da situação financeira do município, tendo em conta os seguintes objetivos:\n\na) Redução e racionalização da despesa corrente e de capital;\n\nb) Existência de regulamentos de controlo interno;\n\nc) Otimização da receita própria;\n\nd) Intensificação do ajustamento municipal nos primeiros cinco anos de vigência do PAEL.\n\n2 - Os Planos dos municípios que integrem o Programa I devem respeitar ainda as seguintes medidas mínimas:\n\na) Determinação da participação variável no imposto sobre o rendimento das pessoas singulares (IRS) à taxa máxima prevista nos termos do artigo 20.º da Lei das Finanças Locais;\n\nb) Fixação dos preços cobrados pelo município nos setores do saneamento, água e resíduos, nos termos definidos nas recomendações da Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR);\n\nc) Aperfeiçoamento dos processos e do controlo sobre os factos suscetíveis de gerarem a cobrança de taxas e preços municipais, bem como ao nível da aplicação de coimas e da promoção dos processos de execução fiscal a cargo do município;\n\nd) Restantes medidas previstas no artigo 11.º do Decreto-Lei n.º 38/2008, de 7 de março, alterado pelo Decreto-Lei n.º 120/2012, de 19 de junho, e revogado pela Lei n.º 73/2013, de 3 de setembro, com exceção daquela a que se refere a alínea f) do respetivo n.º 1.\n\n3 - Para efeitos do disposto na alínea d) do número anterior, a taxa máxima do imposto municipal sobre imóveis (IMI) é a fixada para efeitos de liquidação e cobrança no ano da celebração do contrato.\n\n4 - Em caso de incumprimento dos objetivos de reequilíbrio financeiro, deve o município, sob pena de resolução do contrato de empréstimo, aprovar a aplicação da taxa máxima do IMI em vigor à data do incumprimento.\n\n5 - Os objetivos e as medidas apresentadas no Plano são objeto de reanálise, pelo município e pelo Estado, com uma periodicidade anual.\n\n6 - A aplicação do Plano é suspensa a partir da data da verificação do cumprimento do limite da dívida total, previsto no artigo 52.º da Lei n.º 73/2013, de 3 de setembro, na redação que lhe foi dada pela Lei n.º 7-A/2016, de 30 de março, voltando o Plano a vigorar em caso de incumprimento do referido limite.\n\n> Alterado pelo/a Artigo 254.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+  },
+  "105665494": {
+   "fragment_id": "105657359",
+   "type": 11,
+   "heading": "Artigo 10.º — Outras obrigações",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 254.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Outras obrigações\n\n1 - Os municípios que integrem o Programa I ficam obrigados a:\n\na) Submeter a autorização prévia da assembleia municipal, independentemente da sua inclusão no Plano Plurianual de Atividades, todas as novas despesas de caráter anual ou plurianual de montante superior ao menor dos seguintes valores: (euro) 500 000 ou 5 % das despesas orçamentadas relativamente ao capítulo do classificador económico em que a mesma se integra, no mínimo de (euro) 100 000;\n\nb) Submeter à DGAL, durante os cinco anos subsequentes à assinatura do contrato, os seus documentos previsionais, e eventuais revisões, para apreciação técnica, antes da sua apresentação, para aprovação, à assembleia municipal;\n\nc) Não promover quaisquer novas parcerias público-privadas.\n\n2 - Os municípios que integrem o Programa I ficam ainda obrigados a cumprir, com as devidas adaptações, as obrigações previstas na subalínea ii) da alínea d) do n.º 1 e nos n.os 2 e 3 do artigo 15.º do Decreto-Lei n.º 38/2008, de 7 de março.\n\n3 - As obrigações previstas nos n.os 2 e 3 do artigo 15.º do Decreto-Lei n.º 38/2008, de 7 de março, não se aplicam aos encargos ou investimentos com comparticipação dos Fundos Europeus Estruturais e de Investimento (FEEI) ou de outros fundos de apoio aos investimentos inscritos no orçamento da União Europeia, devendo os municípios, neste caso, proceder à comunicação dos mesmos aos membros do Governo responsáveis pelas áreas das finanças e das autarquias locais.\n\n> Alterado pelo/a Artigo 254.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+  },
+  "105665492": {
+   "fragment_id": "105657364",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 25 de julho de 2012.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 14 de agosto de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 17 de agosto de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "114431453": {
+   "fragment_id": "105657355",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano de Ajustamento Financeiro",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 297.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 254.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Plano de Ajustamento Financeiro\n\n1 - O Plano tem uma duração equivalente à do empréstimo a conceder pelo Estado, devendo conter um conjunto de medidas específicas e quantificadas, que evidenciem o restabelecimento da situação financeira do município, tendo em conta os seguintes objetivos:\n\na) Redução e racionalização da despesa corrente e de capital;\n\nb) Existência de regulamentos de controlo interno;\n\nc) Otimização da receita própria;\n\nd) Intensificação do ajustamento municipal nos primeiros cinco anos de vigência do PAEL.\n\n2 - Os Planos dos municípios que integrem o Programa I devem respeitar ainda as seguintes medidas mínimas:\n\na) Determinação da participação variável no imposto sobre o rendimento das pessoas singulares (IRS) à taxa máxima prevista nos termos do artigo 20.º da Lei das Finanças Locais;\n\nb) Fixação dos preços cobrados pelo município nos setores do saneamento, água e resíduos, nos termos definidos nas recomendações da Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR);\n\nc) Aperfeiçoamento dos processos e do controlo sobre os factos suscetíveis de gerarem a cobrança de taxas e preços municipais, bem como ao nível da aplicação de coimas e da promoção dos processos de execução fiscal a cargo do município;\n\nd) Restantes medidas previstas no artigo 11.º do Decreto-Lei n.º 38/2008, de 7 de março, alterado pelo Decreto-Lei n.º 120/2012, de 19 de junho, e revogado pela Lei n.º 73/2013, de 3 de setembro, com exceção daquela a que se refere a alínea f) do respetivo n.º 1.\n\n3 - Para efeitos do disposto na alínea d) do número anterior, a taxa máxima do imposto municipal sobre imóveis (IMI) é a fixada para efeitos de liquidação e cobrança no ano da celebração do contrato.\n\n4 - Em caso de incumprimento dos objetivos de reequilíbrio financeiro, deve o município, sob pena de resolução do contrato de empréstimo, aprovar a aplicação da taxa máxima do IMI em vigor à data do incumprimento.\n\n5 - Os objetivos e as medidas apresentadas no Plano são objeto de reanálise, pelo município e pelo Estado, com uma periodicidade anual.\n\n6 - A câmara municipal pode propor à assembleia municipal a suspensão da aplicação do Plano se, após a aprovação dos documentos de prestação de contas, verificar que o município cumpre, a 31 de dezembro do ano anterior, o limite da dívida total previsto no artigo 52.º da Lei n.º 73/2013, de 3 de setembro.\n\n7 - Em caso de aprovação pela assembleia municipal da proposta referida no número anterior, a suspensão do Plano produz efeitos a partir da data da receção pela DGAL da comunicação da deliberação a que se refere o número anterior, acompanhada de uma demonstração do cumprimento do limite da dívida total previsto no artigo 52.º da Lei n.º 73/2013, de 3 de setembro, voltando o Plano a vigorar em caso de incumprimento do referido limite.\n\n8 - O Plano, e todas as obrigações dele constantes, cessam no momento da liquidação completa, com recurso a fundos próprios ou alheios, do empréstimo vigente concedido pelo Estado.\n\n> Alterado pelo/a Artigo 297.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 254.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+  },
+  "114431454": {
+   "fragment_id": "105657359",
+   "type": 11,
+   "heading": "Artigo 10.º — Outras obrigações",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 297.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 254.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Outras obrigações\n\n1 - Os municípios que integrem o Programa I ficam obrigados a:\n\na) Submeter a autorização prévia da assembleia municipal, independentemente da sua inclusão no Plano Plurianual de Atividades, todas as novas despesas de caráter anual ou plurianual de montante superior ao menor dos seguintes valores: (euro) 500 000 ou 5 % das despesas orçamentadas relativamente ao capítulo do classificador económico em que a mesma se integra, no mínimo de (euro) 100 000;\n\nb) Submeter à DGAL, durante os cinco anos subsequentes à assinatura do contrato, os seus documentos previsionais, e eventuais revisões, para apreciação técnica, antes da sua apresentação, para aprovação, à assembleia municipal;\n\nc) Não promover quaisquer novas parcerias público-privadas.\n\n2 - Os municípios que integrem o Programa I ficam ainda obrigados a cumprir, com as devidas adaptações, as obrigações previstas na subalínea ii) da alínea d) do n.º 1 e nos n.os 2 e 3 do artigo 15.º do Decreto-Lei n.º 38/2008, de 7 de março.\n\n3 - As obrigações previstas nos n.os 2 e 3 do artigo 15.º do Decreto-Lei n.º 38/2008, de 7 de março, não se aplicam aos encargos ou investimentos com comparticipação dos Fundos Europeus Estruturais e de Investimento (FEEI) ou de outros fundos de apoio aos investimentos inscritos no orçamento da União Europeia, devendo os municípios, neste caso, proceder à comunicação dos mesmos aos membros do Governo responsáveis pelas áreas das finanças e das autarquias locais.\n\n4 - Não carecem de autorização prévia dos membros do Governo para assumir encargos ou realizar investimentos que não estejam previstos no respetivo Plano, desde que seja respeitado o limite global fixado nesse Plano para este tipo de despesas.\n\n> Alterado pelo/a Artigo 297.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 254.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+  },
+  "174594832": {
+   "fragment_id": "105657355",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano de Ajustamento Financeiro",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 74/2021 - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/lei/74-2021-174480832), em vigor a partir de 2021-11-19",
+    "Alterado pelo/a Artigo 297.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 254.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Plano de Ajustamento Financeiro\n\n1 - O Plano tem uma duração equivalente à do empréstimo a conceder pelo Estado, devendo conter um conjunto de medidas específicas e quantificadas, que evidenciem o restabelecimento da situação financeira do município, tendo em conta os seguintes objetivos:\n\na) Redução e racionalização da despesa corrente e de capital;\n\nb) Existência de regulamentos de controlo interno;\n\nc) Otimização da receita própria;\n\nd) Intensificação do ajustamento municipal nos primeiros cinco anos de vigência do PAEL.\n\n2 - Os Planos dos municípios que integrem o Programa I devem respeitar ainda as seguintes medidas mínimas:\n\na) Determinação da participação variável no imposto sobre o rendimento das pessoas singulares (IRS) à taxa máxima prevista nos termos do artigo 20.º da Lei das Finanças Locais;\n\nb) Fixação dos preços cobrados pelo município nos setores do saneamento, água e resíduos, nos termos definidos nas recomendações da Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR);\n\nc) Aperfeiçoamento dos processos e do controlo sobre os factos suscetíveis de gerarem a cobrança de taxas e preços municipais, bem como ao nível da aplicação de coimas e da promoção dos processos de execução fiscal a cargo do município;\n\nd) Restantes medidas previstas no artigo 11.º do Decreto-Lei n.º 38/2008, de 7 de março, alterado pelo Decreto-Lei n.º 120/2012, de 19 de junho, e revogado pela Lei n.º 73/2013, de 3 de setembro, com exceção daquela a que se refere a alínea f) do respetivo n.º 1.\n\n3 - Para efeitos do disposto na alínea d) do número anterior, a taxa máxima do imposto municipal sobre imóveis (IMI) é a fixada para efeitos de liquidação e cobrança no ano da celebração do contrato.\n\n4 - Em caso de incumprimento dos objetivos de reequilíbrio financeiro, deve o município, sob pena de resolução do contrato de empréstimo, aprovar a aplicação da taxa máxima do IMI em vigor à data do incumprimento, salvo se aprovar medidas alternativas com idêntico impacto que se concretizem em receita efetiva.\n\n5 - Os objetivos e as medidas apresentadas no Plano são objeto de reanálise, pelo município e pelo Estado, com uma periodicidade anual.\n\n6 - A câmara municipal pode propor à assembleia municipal a suspensão da aplicação do Plano se, após a aprovação dos documentos de prestação de contas, verificar que o município cumpre, a 31 de dezembro do ano anterior, o limite da dívida total previsto no artigo 52.º da Lei n.º 73/2013, de 3 de setembro.\n\n7 - Em caso de aprovação pela assembleia municipal da proposta referida no número anterior, a suspensão do Plano produz efeitos a partir da data da receção pela DGAL da comunicação da deliberação a que se refere o número anterior, acompanhada de uma demonstração do cumprimento do limite da dívida total previsto no artigo 52.º da Lei n.º 73/2013, de 3 de setembro, voltando o Plano a vigorar em caso de incumprimento do referido limite.\n\n8 - O Plano, e todas as obrigações dele constantes, cessam, com todos os seus efeitos, no momento da liquidação completa, com recurso a fundos próprios ou alheios, do empréstimo vigente concedido pelo Estado.\n\n9 - A cessação do Plano, nos termos do número anterior, obsta à aplicação de sanções ao abrigo do artigo 11.º, extinguindo quaisquer procedimentos sancionatórios pendentes àquela data.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 74/2021 - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/lei/74-2021-174480832), em vigor a partir de 2021-11-19\n\n> Alterado pelo/a Artigo 297.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 254.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+  },
+  "174594833": {
+   "fragment_id": "105657360",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 74/2021 - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/lei/74-2021-174480832), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 11.º — Sanções\n\n1 - A aprovação pelo município de quaisquer atos que violem o cumprimento do disposto no artigo 6.º é considerada como ilegalidade grave nos termos e para os efeitos da alínea i) do artigo 9.º da Lei n.º 27/96, de 1 de agosto, sem prejuízo do disposto no n.º 9 do artigo 6.º\n\n2 - Em caso de incumprimento de qualquer prestação do serviço da dívida do contrato de empréstimo, e pelo valor das prestações em atraso, independentemente dos limites previstos na Lei das Finanças Locais, a DGAL procede à retenção da receita não consignada proveniente das transferências do Orçamento do Estado e a Autoridade Tributária e Aduaneira (AT) à retenção de outras receitas de natureza fiscal, mediante comunicação da DGTF.\n\n3 - Sem prejuízo do disposto no número anterior, o incumprimento do pagamento de uma prestação do serviço da dívida do contrato de empréstimo constitui o município na obrigação de fixação da taxa máxima do IMI, em vigor à data do incumprimento, sob pena de resolução do contrato.\n\n4 - A violação das cláusulas previstas no contrato celebrado no âmbito do PAEL ou o incumprimento dos objetivos definidos constitui facto suscetível de responsabilidade financeira, nos termos previstos nas alíneas b), d) e f) do n.º 1 do artigo 65.º da Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 16 de agosto, alterada pelas Leis n.os 1/2001, de 4 de janeiro, 55-B/2004, de 30 de dezembro, 48/2006, de 29 de agosto, que a republicou, 35/2007, de 13 de agosto, 3-B/2010, de 28 de abril, 61/2011, de 7 de dezembro, e 2/2012, de 6 de janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 74/2021 - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/lei/74-2021-174480832), em vigor a partir de 2021-11-19"
+  }
+ }
+}

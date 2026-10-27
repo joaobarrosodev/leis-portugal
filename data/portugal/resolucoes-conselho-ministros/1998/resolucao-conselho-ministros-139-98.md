@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:222061:por
+title: Resolução do Conselho de Ministros n.º 139/98
+short_title: null
+summary: Prestação da garantia pessoal do Estado, no montante do empréstimo no valor de 818213000$00, a contrair pela BEIRAFRIO
+  - Indústria de Produtos Alimentares, S. A., junto do sindicato bancário liderado pelo Banco Totta & Açores, S. A.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 139/98
+official_date: null
+publication_date: '1998-12-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 280/1998, Série I-B de 1998-12-04
+  number: '280'
+  series: I
+  supplement: null
+  pages: 6692 - 6692
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/12/280b00/66926692.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/139/1998/12/04/p/dre/pt/html
+  oj: null
+  dre: '222061'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/139-1998-222061
+  internal: pt:dre:222061:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/139-1998-222061
+  metadata_url: https://data.dre.pt/eli/resolconsmin/139/1998/12/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/139-1998-222061
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:39:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 005e4b3bebdec1e9c33d5761bd867b23ac5cb393e93acf6b8656669654c0ec1f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:39:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Banco Totta e Açores
+- Crédito Bancário
+- Empresa
+- Empresa Privada
+- Financiamento
+- Gabinete de Coordenação para a Recuperação de Empresas
+- Garantia
+- Instituto de Gestão do Crédito Público
+- Recuperação de Empresas
+- Setor Empresarial
+- Sindicato
+- Situação Económica Dificil
+- Taxa
+- TAXA de JURO
+- TAXA Lisbor
+relationships:
+- type: cites
+  target: pt:dre:241644:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/160/1996/09/04/p/dre
+- type: cites
+  target: pt:dre:405685:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/1996/08/10/p/dre
+- type: cites
+  target: pt:dre:424145:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/100/1996/07/04/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:39:47Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 139/98
+
+A empresa BEIRAFRIO - Indústria de Produtos Alimentares, S. A., apresentou junto de um sindicato bancário liderado pelo Banco Totta & Açores, S. A., ao abrigo do [Decreto-Lei n.º 127/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1996-405685), de 10 de Agosto, a sua candidatura ao Sistema de Garantia do Estado a Empréstimos Bancários.
+
+O Gabinete de Coordenação para a Recuperação de Empresas (GACRE) aprovou, em 6 de Fevereiro de 1998, o projecto de consolidação financeira e reestruturação empresarial relativo à empresa e considerou reunidos os pressupostos para que o contrato de empréstimo a celebrar pela empresa com o sindicato bancário liderado pelo Banco Totta & Açores, S. A., beneficie de garantia do Estado.
+
+A deliberação do GACRE foi homologada pelo Secretário de Estado Adjunto do Ministro da Economia por despacho de 20 de Fevereiro de 1998.
+
+São pressupostos da concessão e manutenção da garantia o cumprimento do projecto de consolidação financeira e reestruturação empresarial aprovado e a partilha de riscos entre o Estado e as instituições de crédito, conforme previsto, designadamente, nos n.os 1 e 3 do artigo 10.º do [Decreto-Lei n.º 127/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1996-405685), de 10 de Agosto.
+
+As dívidas da empresa para com a administração fiscal ficarão regularizadas através da retenção de parte do empréstimo bancário, conforme previsto na alínea a) do artigo 13.º do [Decreto-Lei n.º 127/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1996-405685).
+
+O projecto reveste-se de manifesto interesse para a economia nacional, por se integrar nos objectivos do quadro de acção para a recuperação de empresas em situação financeira difícil (QARESD), aprovado pela [Resolução do Conselho de Ministros n.º 100/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-1996-424145), de 4 de Julho, contribuindo para reforçar a capacidade de gestão das empresas abrangidas e para a normalização das relações creditícias entre agentes económicos e entre agentes económicos e entes públicos.
+
+Foi ouvido o Instituto de Gestão do Crédito Público, nos termos do disposto na alínea n) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 160/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1996-241644), de 4 de Setembro.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolveu definir a seguinte orientação:
+
+Deverá ser prestada a garantia pessoal do Estado, na modalidade de fiança, à parcela do empréstimo equivalente de 33,33% do montante do empréstimo no valor de 818213000$00 a contrair pela BEIRAFRIO - Indústria de Produtos Alimentares, S. A., junto do sindicato bancário liderado pelo Banco Totta & Açores, S. A., cujas condições constam da ficha técnica anexa.
+
+Presidência do Conselho de Ministros, 13 de Novembro de 1998. - O
+
+Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+Ficha técnica
+
+Mutuário: BEIRAFRIO - Indústria de Produtos Alimentares, S. A.
+
+Mutuante: sindicato bancário liderado pelo Banco Totta & Açores, S. A.
+
+Montante: 818213000$00, dos quais:
+
+545475000$00 - dívida a consolidar;
+
+272738000$00 - financiamento adicional.
+
+Finalidade: cumprimento de projecto de consolidação financeira e reestruturação empresarial aprovado pelo Gabinete de Coordenação para a Recuperação de Empresas (GACRE) por deliberação de 6 de Fevereiro de 1998, homologada pelo Secretário de Estado Adjunto do Ministro da Economia em 20 de Fevereiro de 1998.
+
+Retenção para o Estado e outros entes públicos no montante de 45984000$00.
+
+Consolidação do passivo a IC subscritoras no montante de 545475000$00.
+
+Investimentos no montante de 157575000$00.
+
+Outros, montante de 69179000$00.
+
+Prazo: oito anos, com dois de carência.
+
+Taxa de juro: LISBOR a seis meses +2%, para a parte garantida pelo Estado.
+
+Pagamento de juros: semestral e postecipadamente.
+
+Garante: República Portuguesa.
+
+Montante máximo da garantia: 33,33% do capital do empréstimo bancário, abrangendo juros correspondentes até 10% do montante do capital garantido.
+
+Taxa-garantia: 0,2% ao ano.
+
+Contragarantias: iguais às exigidas no processo pela instituição de crédito líder para o sistema financeiro.

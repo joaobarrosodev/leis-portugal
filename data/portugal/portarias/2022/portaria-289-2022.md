@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:204234880:por
+title: Portaria n.º 289/2022
+short_title: null
+summary: Aprova a declaração modelo 39 (rendimentos e retenções a taxas liberatórias) e respetivas instruções de preenchimento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças
+proposing_entity: null
+official_number: 289/2022
+official_date: null
+publication_date: '2022-12-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/2022, Série I de 2022-12-02
+  number: '232'
+  series: I
+  supplement: null
+  pages: 44 - 53
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23200/0004400053.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/289/2022/12/02/p/dre/pt/html
+  oj: null
+  dre: '204234880'
+  dre_path: /dr/detalhe/portaria/289-2022-204234880
+  internal: pt:dre:204234880:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/289-2022-204234880
+  metadata_url: https://data.dre.pt/eli/port/289/2022/12/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/289-2022-204234880
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:58:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9dcad75c4e674be19606ae29f16a1e68defcaa93044a5d2001465983e17feffd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:58:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade Tributária e Aduaneira
+- Cobrança de Impostos
+- Código do IRS
+- Contribuições e Impostos
+- Declaração de Rendimentos
+- Documento Eletrónico
+- Formulário Eletrónico
+- Imposto sobre o Rendimento
+- Instruções de Utilização
+- IRS
+- Página na Internet
+- Pessoa Singular
+- Prazo
+- Regulamentação de Atos Legislativos
+relationships:
+- type: amended_by
+  target: pt:dre:836079147:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/31/2021/02/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/31/2021/02/10/p/dre
+- type: cites
+  target: pt:dre:156974205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2022/06/27/p/dre
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:836079147:por
+  label: Revogado, a partir de 1 de janeiro de 2024, o presente diploma pelo(a) Portaria n.º 3/2024 - Diário da República
+    n.º 2/2024, Série I de 2024-01-03, nos termos do artigo 4.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-2024-836079147
+  date: '2024-01-03'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:58:02Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 289/2022
+
+de 2 de dezembro
+
+A [Portaria n.º 31/2021](https://diariodarepublica.pt/dr/detalhe/portaria/31-2021-156974205), de 10 de fevereiro, aprovou a declaração modelo 39 destinada ao cumprimento da obrigação declarativa a que se refere a alínea b) do n.º 12 do artigo 119.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS) - e respetivas instruções de preenchimento, sendo de entrega obrigatória pelas entidades devedoras e pelas entidades que paguem ou coloquem à disposição os rendimentos de capitais sujeitos a retenção na fonte pelas taxas previstas no artigo 71.º do Código do IRS ou sujeitos a retenção na fonte a título definitivo, cujos titulares sejam residentes em território português e que não beneficiem de isenção, dispensa de retenção ou redução da taxa.
+
+Considerando que o artigo 334.º da [Lei n.º 12/2022](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), de 27 de junho (Lei do Orçamento do Estado para o ano de 2022), introduziu alterações ao artigo 12.º-A do Estatuto da Ordem dos Contabilistas Certificados, relativo ao justo impedimento de curta duração, mostra-se necessário proceder ao ajustamento da declaração modelo 39 - rendimentos e retenções a taxas liberatórias, e à respetiva adequação das instruções de preenchimento a vigorar no ano de 2023 e seguintes.
+
+Assim, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 8.º do [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de novembro, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - É aprovada a declaração modelo 39 e respetivas instruções de preenchimento, em anexo à presente portaria e da qual fazem parte integrante.
+
+2 - A declaração a que se refere o número anterior é destinada ao cumprimento da obrigação declarativa a que se refere a alínea b) do n.º 12 do artigo 119.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, sendo de entrega obrigatória pelas entidades devedoras e pelas entidades que paguem ou coloquem à disposição dos respetivos titulares, pessoas singulares residentes em território português e que não beneficiem de isenção, dispensa de retenção ou redução da taxa, rendimentos a que se refere o artigo 71.º do Código do IRS ou quaisquer rendimentos sujeitos a retenção na fonte a título definitivo de montante superior a (euro) 25.
+
+###### Artigo 2.º — Cumprimento da obrigação
+
+1 - A declaração modelo 39 é obrigatoriamente entregue por transmissão eletrónica de dados.
+
+2 - Para efeitos do disposto no número anterior, as entidades e o contabilista certificado, nos casos em que a declaração deva por este ser assinada, são identificados por senhas atribuídas pela Autoridade Tributária e Aduaneira.
+
+###### Artigo 3.º — Procedimento
+
+1 - As entidades, para utilização de transmissão eletrónica de dados, devem:
+
+a) Efetuar o registo, caso ainda não disponham de senha de acesso, através do Portal das Finanças, no endereço www.portaldasfinancas.gov.pt;
+
+b) Possuir um ficheiro com as caraterísticas e estrutura de informação, a disponibilizar no mesmo endereço;
+
+c) Efetuar o envio de acordo com os procedimentos indicados na mesma página.
+
+2 - A declaração considera-se apresentada na data em que é submetida, sob condição de correção de eventuais erros no prazo de 30 dias.
+
+3 - Findo o prazo referido no número anterior sem que se mostrem corrigidos os erros detetados, a declaração é considerada sem efeito.
+
+###### Artigo 4.º — Norma revogatória
+
+É revogada a [Portaria n.º 31/2021](https://diariodarepublica.pt/dr/detalhe/portaria/31-2021-156974205), de 10 de fevereiro.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor a 1 de janeiro de 2023.
+
+O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 25 de novembro de 2022.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23200/0004400053.pdf)
+
+115923178

@@ -1,0 +1,300 @@
+---
+schema_version: '1.0'
+id: pt:dre:1520782:por
+title: Portaria n.º 508/2012
+short_title: null
+summary: Promoção a capitão dos tenentes das diversas armas e serviços
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Exército - Comando do Pessoal - Direção de Administração de Recursos Humanos - Repartição
+  de Pessoal Militar
+proposing_entity: null
+official_number: 508/2012
+official_date: null
+publication_date: '2012-10-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 192/2012, Série II de 2012-10-03
+  number: '192'
+  series: II
+  supplement: null
+  pages: 33322 - 33323
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/10/192000000/3332233323.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1520782'
+  dre_path: /dr/detalhe/portaria/508-2012-1520782
+  internal: pt:dre:1520782:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/508-2012-1520782
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/508-2012-1520782
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:35:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: efc4ce428e8ced723fddaafd3434662c9d02e1df629ace1b92735e082c1f9604
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:35:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2950015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:35:32Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 508/2012
+
+Manda o General Chefe do Estado-Maior do Exército, por portaria de 26 de setembro de 20012, promover ao posto de Capitão, nos termos do n.º 1 do artigo 183.º e da alínea d) do artigo 216.º do EMFAR, por satisfazerem às condições gerais e especiais de promoção estabelecidas nos artigos 56.º e 239.º do referido Estatuto, os seguintes militares:
+
+Infantaria
+
+TEN 19220599 Paulo Alexandre Lourenço da Silva Gomes
+
+TEN 01945601 André Borges Martins
+
+TEN 09282200 Marco André Reis Silva
+
+TEN 02002000 Marco José Neves Sequeira
+
+TEN 02728501 Pedro Henrique Santos França
+
+TEN 06350496 António Manuel Matos Coelho Lopes
+
+TEN 08510798 Sérgio de Almeida Morais
+
+TEN 17367101 André Joaquim Teixeira Valente
+
+TEN 16115201 Nelson Filipe Neves Inácio
+
+TEN 18312799 Helder Clemente Rosa de Brito
+
+TEN 18787601 Duarte Miguel Gouveia Martins
+
+TEN 05082600 Nelson Miguel Gonçalves Ferreira
+
+TEN 15023101 Hugo Leandro Rodrigues Monteiro
+
+TEN 13849501 Miguel Maurício Leonor Fidalgo Pistola
+
+TEN 12892701 Nelson Miguel Oliveira de Sousa
+
+TEN 05054400 Tiago Fonseca Albuquerque
+
+TEN 09827799 Rui Miguel dos Santos Alves
+
+TEN 10020200 David Emanuel Magalhães Gonçalves
+
+TEN 19511399 Daniel Filipe Vasconcelos Pereira de Oliveira
+
+TEN 08580798 Xavier da Costa
+
+Artilharia
+
+TEN 17084001 Filipe Miguel Santos de Oliveira
+
+TEN 14757200 Cristina Maria Costa Pereira
+
+TEN 02194898 António Augusto da Silva de Almeida
+
+TEN 14539099 Carlos Filipe Montezo Casquinha
+
+TEN 09438897 Alexis da Fonseca Vicente
+
+TEN 15433596 Tiago Ramos da Graça Silva Páscoa
+
+TEN 16536297 Carlos Jorge Cid Figueira
+
+TEN 04235401 Bruno Miguel Lucas Machado
+
+TEN 04089999 Patrícia Gonçalves Pires
+
+TEN 04778796 António Joaquim Félix Almeida
+
+TEN 01521300 Telma Cecília Feitais da Silva
+
+Cavalaria
+
+TEN 05613296 Eduardo Jorge Pereira Gomes
+
+TEN 01385996 Flávio de Jesus da Graça Lima
+
+TEN 11718000 Miguel Ângelo da Costa Jorge
+
+TEN 05448998 Gonçalo Nuno Ascenso Silvestre
+
+TEN 18390799 André Filipe Capinha Maio
+
+TEN 11641300 Ricardo Filipe Ferreira Oliveira
+
+TEN 15746001 Gonçalo Nuno M. Carvalho Morais Medeiros
+
+Engenharia
+
+TEN 08284900 Luís Filipe Marques dos Santos Conceição
+
+TEN 09063901 José Pedro Pais de Oliveira Fernandes Basto
+
+TEN 19527999 Nuno Fernando Ramos Hinga Fernandes
+
+Transmissões
+
+TEN 11442101 Luís Filipe Xavier Cavaco de Mendonça Dias
+
+TEN 15506201 Tiago Filipe Abreu Moura Guedes
+
+TEN 04224400 Sílvia Andrea Teixeira Gomes
+
+Material
+
+TEN 04147601 Pedro da Silva Monteiro
+
+TEN 10212501 Júlio Alexandre Couto Carilho
+
+TEN 07670299 Isabel Maria Abreu Madeira de Faria
+
+Medicina
+
+TEN 11436200 Ágata Pimentel Areias
+
+TEN 09302701 Henrique Miguel do Rosário Delgado
+
+TEN 07995101 Clemente Henrique Silva Sousa
+
+TEN 15129399 Miguel Onofre da Maia Domingues
+
+TEN 03018101 Pedro Miguel Tomás Ananias
+
+TEN 14077099 Catarina Alexandra Valente Leitão
+
+TEN 06776101 Luís Marli Araújo Salgueiro Moreno
+
+TEN 06612401 Telmo Vitorino dos Santos Coelho
+
+TEN 01585200 Vitor Emanuel Varela de Freitas
+
+TEN 16549101 Tiago Manuel de Sousa Esteves Dias
+
+Farmácia
+
+TEN 06992101 João Filipe Farias Roseiro
+
+TEN 05640201 Sara Ferreira Santos Batalha
+
+Medicina veterinária
+
+TEN 11557401 Paulo Jorge Frade Morouco
+
+TEN 07637601 Carlos Eduardo de Sousa Alonso
+
+Administração militar
+
+TEN 02953301 Marco Paulo Castro Leite
+
+Técnicos de transportes
+
+TEN 39916691 Pedro Manuel Lourenço Fernandes
+
+TEN 11253490 Paulo Jorge Pereira Martins
+
+Técnicos de pessoal e secretariado
+
+TEN 19854392 Fernando Manuel de Figueiredo Correia
+
+TEN 20948191 Pedro Luís Peralta Carlos Amaro Delicado
+
+TEN 03899592 Carlos Manuel Fernandes Martins
+
+TEN 22734193 José Luís Matos Oliveira
+
+TEN 04271992 Miguel Ângelo Costa Branco
+
+TEN 01622792 Jorge Alexandre Oliveira Malheiro Macedo
+
+TEN 04120391 Vítor Manuel Faria Fernandes
+
+TEN 04639693 Rui Manuel Almeida da Silva Tomaz
+
+TEN 11528990 Luís Manuel Almeida Saraiva
+
+TEN 08598692 Nuno Filipe Franca da Silva Proença
+
+Chefes de banda de música
+
+TEN 15746191 Alexandre Lopes Coelho
+
+Técnicos de enfermagem diagnóstico e terapêutica
+
+TEN 39227392 Augusto Manuel Tavares Gurgo e Cirne
+
+TEN 21388293 Nelson Lopes Alfredo
+
+TEN 21207591 Marcelo de Sousa Vaz
+
+TEN 15824293 Luís Manuel Marques Oliveira
+
+Estes oficiais contam a antiguidade do novo posto desde 01 de outubro de 2012, nos termos do disposto na alínea a) do n.º 1 do artigo 175.º do EMFAR, ficando integrados na primeira posição da estrutura remuneratória do novo posto, conforme previsto no n.º 1 do artigo 8.º do [Decreto-Lei n.º 296/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2009-491439), de 14 de outubro.
+
+Têm direito ao vencimento pelo novo posto desde o dia seguinte ao da publicação do diploma de promoção no Diário da República, nos termos do n.º 3 do artigo 20.º-A da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro (Orçamento do Estado para 2012), aditado pelo artigo 4.º da [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), de 14 de maio.
+
+Ficam inscritos na lista geral de antiguidades do seu Quadro Especial nos termos do n.º 2 do artigo 177.º do EMFAR.
+
+A presente promoção é efetuada ao abrigo do disposto nos n.º 1 e 2 do artigo 20.º-A da [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, aditado pelo artigo 4.º da [Lei n.º 20/2012](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), de 14 de maio, e na sequência da autorização concedida pelo [Despacho n.º 9878-B/2012](https://diariodarepublica.pt/dr/detalhe/despacho/9878-b-2012-2950015), de 20 de julho, de Suas Excelências os Ministros de Estado e das Finanças e da Defesa Nacional, publicado no Diário da República, 2.ª série, n.º 140, de 20 de julho de 2012.
+
+26 de setembro de 2012. - O Chefe da RPM, José Domingos Sardinha Dias, cor art.
+
+206416653

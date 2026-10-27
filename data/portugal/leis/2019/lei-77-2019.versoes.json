@@ -1,0 +1,433 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124346828:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2019-171902488",
+ "dre_path": "/dr/detalhe/lei/77-2019-124346828",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-09-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "859867740",
+    "171929879",
+    "171929880",
+    "171929881",
+    "171929882",
+    "171929883",
+    "171929884",
+    "171929885",
+    "171929886",
+    "171929887",
+    "171929888"
+   ]
+  },
+  {
+   "date": "2021-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:171871496:por",
+     "title": "Decreto-Lei n.º 78/2021",
+     "published": "2021-09-24",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2021-171871496"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "171929878",
+    "171929890",
+    "171929891",
+    "171929892",
+    "171929893",
+    "171929894",
+    "171929895",
+    "171929896",
+    "171929897",
+    "171929898",
+    "171929899",
+    "171929900",
+    "171929901"
+   ]
+  },
+  {
+   "date": "2024-03-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:857366010:por",
+     "title": "Decreto-Lei n.º 24/2024",
+     "published": "2024-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/24-2024-857366010"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "859867740",
+    "859867741",
+    "859867742",
+    "859867743",
+    "859867744",
+    "859867745",
+    "859867746",
+    "859867747",
+    "859867748",
+    "859867749",
+    "859867750",
+    "859867751",
+    "859867752"
+   ]
+  }
+ ],
+ "fragments": {
+  "859867740": {
+   "fragment_id": "171902489",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-03-27",
+   "changed_by": [],
+   "markdown": "Lei n.º 77/2019\n\nde 2 de setembro\n\nSumário: Disponibilização de alternativas à utilização de sacos de plástico ultraleves e de cuvetes em plástico nos pontos de venda de pão, frutas e legumes.\n\nDisponibilização de alternativas à utilização de sacos de plástico ultraleves e de cuvetes em plástico nos pontos de venda de pão, frutas e legumes\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "171929879": {
+   "fragment_id": "171902490",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei determina a obrigatoriedade de disponibilização aos consumidores de alternativas à distribuição de sacos de plástico ultraleves e de cuvetes em plástico nos pontos de venda de pão, frutas e legumes."
+  },
+  "171929880": {
+   "fragment_id": "171902491",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Sacos de plástico ultraleves», os sacos de plástico com espessura inferior a 15 mícron, disponibilizados como embalagem primária para pão, frutas e legumes a granel;\n\nb) «Cuvete», embalagem ou recipiente descartável, geralmente envolvido em plástico ou em poliestireno expandido, destinado a agrupar ou acondicionar pão, frutas e legumes."
+  },
+  "171929881": {
+   "fragment_id": "171902492",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\nA presente lei aplica-se a todos os estabelecimentos comerciais que vendem pão, frutas e legumes."
+  },
+  "171929882": {
+   "fragment_id": "171902493",
+   "type": 11,
+   "heading": "Artigo 4.º — Impedimento de disponibilização de plástico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Impedimento de disponibilização de plástico\n\n1 - Os estabelecimentos comerciais ficam impedidos de disponibilizar sacos de plástico ultraleves para embalamento primário ou transporte de pão, frutas e legumes, a partir 1 de junho de 2023.\n\n2 - Os estabelecimentos comerciais ficam impedidos, igualmente, de vender pão, frutas e legumes acondicionados em cuvetes descartáveis que contenham plástico ou poliestireno expandido, a partir de 1 de junho de 2023.\n\n3 - Excecionam-se dos números anteriores os sacos e as embalagens 100 % biodegradáveis, de material de origem biológica e renovável, que sejam compostáveis por processos de compostagem doméstica, industrial ou em meio natural."
+  },
+  "171929883": {
+   "fragment_id": "171902494",
+   "type": 11,
+   "heading": "Artigo 5.º — Disponibilização de alternativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disponibilização de alternativa\n\nÉ obrigatória a disponibilização aos consumidores de alternativas aos sacos de plástico ultraleves e às cuvetes em plástico para embalagem primária de pão, frutas e legumes vendidos a granel, nos pontos de venda."
+  },
+  "171929884": {
+   "fragment_id": "171902495",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime contraordenacional\n\n1 - O incumprimento do disposto na presente lei constitui contraordenação.\n\n2 - A definição do regime contraordenacional, incluindo o montante das coimas a aplicar, o seu destino e processamento, é definido pelo Governo através de regulamentação específica."
+  },
+  "171929885": {
+   "fragment_id": "171902496",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fiscalização\n\nA fiscalização do cumprimento do disposto na pr3esente lei compete ao Governo, através do ministério que tutela a área da economia."
+  },
+  "171929886": {
+   "fragment_id": "171902497",
+   "type": 11,
+   "heading": "Artigo 8.º — Sensibilização dos consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sensibilização dos consumidores\n\n1 - O Governo deve promover campanhas de sensibilização dos consumidores para o uso de sacos próprios não descartáveis nos atos de compra de pão, frutas e legumes.\n\n2 - O Governo deve, igualmente, desenvolver ações de sensibilização dirigidas aos responsáveis dos estabelecimentos comerciais, para que estes se adaptem ao uso de sacos próprios não descartáveis por parte dos consumidores.\n\n3 - As campanhas e ações de sensibilização devem ter início no prazo definido para a regulamentação da presente lei."
+  },
+  "171929887": {
+   "fragment_id": "171902498",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\nO Governo procede à regulamentação da presente lei no prazo de 90 dias após a sua entrada em vigor."
+  },
+  "171929888": {
+   "fragment_id": "171902499",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor 120 dias após a sua publicação."
+  },
+  "171929878": {
+   "fragment_id": "171902489",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 77/2019\n\nde 2 de setembro\n\nSumário: Disponibilização de alternativas à utilização de sacos de plástico ultraleves e de cuvetes em plástico nos pontos de venda de pão, frutas e legumes.\n\nDisponibilização de alternativas à utilização de sacos de plástico ultraleves e de cuvetes em plástico nos pontos de venda de pão, frutas e legumes\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "171929890": {
+   "fragment_id": "171902490",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei determina a proibição da disponibilização de sacos de plástico muito leves e de recipientes de plástico de utilização única, na comercialização de produtos de panificação, frutas e produtos hortícolas, em estabelecimentos comerciais, e a obrigatoriedade de disponibilização, aos consumidores finais, de alternativas reutilizáveis ou feitas de um único material que não seja plástico.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171929891": {
+   "fragment_id": "171902491",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) 'Estabelecimento comercial', qualquer instalação com caráter fixo e permanente, abrangida pelo regime jurídico de acesso e exercício de atividades de comércio, serviços e restauração, aprovado pelo Decreto-Lei n.º 10/2015, de 16 de janeiro, na sua redação atual, onde o fornecedor de bens a retalho ou o prestador de serviços de restauração exerce a sua atividade de forma permanente;\n\nb) (Revogada.)\n\nc) 'Plástico', um material composto de um polímero na aceção do ponto 5 do artigo 3.º do Regulamento (CE) n.º 1907/2006, do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, ao qual podem ter sido acrescentados aditivos ou outras substâncias e que pode funcionar como principal componente estrutural de sacos ou recipientes, com exceção dos polímeros naturais que não tenham sido quimicamente modificados;\n\nd) 'Plástico biodegradável', plástico capaz de sofrer decomposição física e biológica da qual resulte a sua decomposição final em dióxido de carbono (CO(índice 2)), biomassa e água, e que é, em conformidade com as normas europeias para embalagens, recuperável através de compostagem e digestão anaeróbica;\n\ne) 'Recipientes de plástico de utilização única' os recipientes utilizados para acondicionamento de produtos de panificação, frutas e produtos hortícolas, tais como cuvetes e caixas, com ou sem tampa, fabricados total ou parcialmente a partir de plástico e que não são concebidos, projetados ou colocados no mercado para perfazer múltiplas viagens ou rotações no seu ciclo de vida mediante a sua devolução a um produtor para reenchimento ou a sua reutilização para o mesmo fim para o qual foram concebidos;\n\nf) 'Sacos de plástico muito leves', os sacos de plástico com uma parede de espessura inferior a 15 mícron, necessários para efeitos de higiene ou fornecidos como embalagem primária para pão, frutas e produtos hortícolas a granel.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171929892": {
+   "fragment_id": "171902492",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito\n\nA presente lei aplica-se a todos os estabelecimentos comerciais onde são comercializados produtos de panificação, frutas e produtos hortícolas.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171929893": {
+   "fragment_id": "171902493",
+   "type": 11,
+   "heading": "Artigo 4.º — Impedimento de disponibilização de plástico",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 4.º — Impedimento de disponibilização de plástico\n\n1 - A partir de 1 de junho de 2023, nos estabelecimentos comerciais é proibida:\n\na) A disponibilização de sacos de plástico muito leves e recipientes de plástico de utilização única para embalamento de produtos de panificação, frutas e produtos hortícolas;\n\nb) A comercialização de produtos de panificação, frutas e produtos hortícolas acondicionados em sacos de plástico muito leves e em recipientes de plástico de utilização única.\n\n2 - (Revogado.)\n\n3 - O disposto na alínea a) do n.º 1 não é aplicável aos sacos e recipientes que sejam fabricados a partir de plástico comprovadamente biodegradável e compostável de acordo com as respetivas normas vigentes, à data, desde que não sejam disponibilizados gratuitamente.\n\n4 - O disposto na alínea b) do n.º 1 não é aplicável aos sacos e recipientes que sejam fabricados a partir de plástico comprovadamente biodegradável e compostável de acordo com as respetivas normas vigentes, à data, e quando estes sejam necessários para efeitos de higiene e/ou segurança alimentar.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171929894": {
+   "fragment_id": "171902494",
+   "type": 11,
+   "heading": "Artigo 5.º — Disponibilização de alternativa",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 5.º — Disponibilização de alternativa\n\nA partir de 1 de janeiro de 2022, nos pontos de venda de produtos a granel, é obrigatória a disponibilização aos consumidores de alternativas reutilizáveis para acondicionamento de produtos de panificação, frutas e produtos hortícolas, ou, quando tal não for possível, alternativas feitas de um único material que não seja plástico.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171929895": {
+   "fragment_id": "171902495",
+   "type": 11,
+   "heading": "Artigo 6.º — Contraordenações",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 6.º — Contraordenações\n\n1 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), aprovado em anexo ao Decreto-Lei n.º 9/2021, de 29 de janeiro:\n\na) A disponibilização de sacos de plástico muito leves e a comercialização e produtos em sacos de plástico muito leves, nos termos da alínea a) do n.º 1 do artigo 4.º;\n\nb) A comercialização de produtos acondicionados em recipientes de plástico de utilização única como cuvetes e caixas, com ou sem tampa, nos termos da alínea b) do n.º 1 do artigo 4.º\n\n2 - A não disponibilização aos consumidores de alternativas reutilizáveis ou feitas de um único material, nos termos do artigo anterior.\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171929896": {
+   "fragment_id": "171902496",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização, instrução e decisão",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Fiscalização, instrução e decisão\n\n1 - A fiscalização do cumprimento do disposto na presente lei cabe, no âmbito das respetivas competências, à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo da competência das autoridades policiais e administrativas.\n\n2 - Compete à ASAE instruir os processos relativos às contraordenações referidas no artigo anterior e decidir a aplicação da coima.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171929897": {
+   "fragment_id": "171902501",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Produto das coimas",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações previstas no artigo 6.º é repartido nos termos do RJCE.\n\n> Aditado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "171929898": {
+   "fragment_id": "171902497",
+   "type": 11,
+   "heading": "Artigo 8.º — Sensibilização dos consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sensibilização dos consumidores\n\n1 - O Governo deve promover campanhas de sensibilização dos consumidores para o uso de sacos próprios não descartáveis nos atos de compra de pão, frutas e legumes.\n\n2 - O Governo deve, igualmente, desenvolver ações de sensibilização dirigidas aos responsáveis dos estabelecimentos comerciais, para que estes se adaptem ao uso de sacos próprios não descartáveis por parte dos consumidores.\n\n3 - As campanhas e ações de sensibilização devem ter início no prazo definido para a regulamentação da presente lei."
+  },
+  "171929899": {
+   "fragment_id": "171902498",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\nO Governo procede à regulamentação da presente lei no prazo de 90 dias após a sua entrada em vigor."
+  },
+  "171929900": {
+   "fragment_id": "171902499",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor 120 dias após a sua publicação."
+  },
+  "171929901": {
+   "fragment_id": "171902500",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de julho de 2019.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 6 de agosto de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 12 de agosto de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n112526434"
+  },
+  "859867741": {
+   "fragment_id": "171902490",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei determina a proibição da disponibilização de sacos de plástico muito leves e de recipientes de plástico de utilização única, na comercialização de produtos de panificação, frutas e produtos hortícolas, em estabelecimentos comerciais, e a obrigatoriedade de disponibilização, aos consumidores finais, de alternativas reutilizáveis ou feitas de um único material que não seja plástico.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "859867742": {
+   "fragment_id": "171902491",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) 'Estabelecimento comercial', qualquer instalação com caráter fixo e permanente, abrangida pelo regime jurídico de acesso e exercício de atividades de comércio, serviços e restauração, aprovado pelo Decreto-Lei n.º 10/2015, de 16 de janeiro, na sua redação atual, onde o fornecedor de bens a retalho ou o prestador de serviços de restauração exerce a sua atividade de forma permanente;\n\nb) (Revogada.)\n\nc) 'Plástico', um material composto de um polímero na aceção do ponto 5 do artigo 3.º do Regulamento (CE) n.º 1907/2006, do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, ao qual podem ter sido acrescentados aditivos ou outras substâncias e que pode funcionar como principal componente estrutural de sacos ou recipientes, com exceção dos polímeros naturais que não tenham sido quimicamente modificados;\n\nd) 'Plástico biodegradável', plástico capaz de sofrer decomposição física e biológica da qual resulte a sua decomposição final em dióxido de carbono (CO(índice 2)), biomassa e água, e que é, em conformidade com as normas europeias para embalagens, recuperável através de compostagem e digestão anaeróbica;\n\ne) 'Recipientes de plástico de utilização única' os recipientes utilizados para acondicionamento de produtos de panificação, frutas e produtos hortícolas, tais como cuvetes e caixas, com ou sem tampa, fabricados total ou parcialmente a partir de plástico e que não são concebidos, projetados ou colocados no mercado para perfazer múltiplas viagens ou rotações no seu ciclo de vida mediante a sua devolução a um produtor para reenchimento ou a sua reutilização para o mesmo fim para o qual foram concebidos;\n\nf) 'Sacos de plástico muito leves', os sacos de plástico com uma parede de espessura inferior a 15 mícron, necessários para efeitos de higiene ou fornecidos como embalagem primária para pão, frutas e produtos hortícolas a granel.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "859867743": {
+   "fragment_id": "171902492",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito\n\nA presente lei aplica-se a todos os estabelecimentos comerciais onde são comercializados produtos de panificação, frutas e produtos hortícolas.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "859867744": {
+   "fragment_id": "171902493",
+   "type": 11,
+   "heading": "Artigo 4.º — Impedimento de disponibilização de plástico",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 4.º — Impedimento de disponibilização de plástico\n\n1 - A partir de 1 de junho de 2023, nos estabelecimentos comerciais é proibida:\n\na) A disponibilização de sacos de plástico muito leves e recipientes de plástico de utilização única para embalamento de produtos de panificação, frutas e produtos hortícolas;\n\nb) A comercialização de produtos de panificação, frutas e produtos hortícolas acondicionados em sacos de plástico muito leves e em recipientes de plástico de utilização única.\n\n2 - (Revogado.)\n\n3 - O disposto na alínea a) do n.º 1 não é aplicável aos sacos e recipientes que sejam fabricados a partir de plástico comprovadamente biodegradável e compostável de acordo com as respetivas normas vigentes, à data, desde que não sejam disponibilizados gratuitamente.\n\n4 - O disposto na alínea b) do n.º 1 não é aplicável aos sacos e recipientes que sejam fabricados a partir de plástico comprovadamente biodegradável e compostável de acordo com as respetivas normas vigentes, à data, e quando estes sejam necessários para efeitos de higiene e/ou segurança alimentar.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "859867745": {
+   "fragment_id": "171902494",
+   "type": 11,
+   "heading": "Artigo 5.º — Disponibilização de alternativa",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 5.º — Disponibilização de alternativa\n\nA partir de 1 de janeiro de 2022, nos pontos de venda de produtos a granel, é obrigatória a disponibilização aos consumidores de alternativas reutilizáveis para acondicionamento de produtos de panificação, frutas e produtos hortícolas, ou, quando tal não for possível, alternativas feitas de um único material que não seja plástico.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "859867746": {
+   "fragment_id": "171902495",
+   "type": 11,
+   "heading": "Artigo 6.º — Contraordenações",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 6.º — Contraordenações\n\n1 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), aprovado em anexo ao Decreto-Lei n.º 9/2021, de 29 de janeiro:\n\na) A disponibilização de sacos de plástico muito leves e a comercialização e produtos em sacos de plástico muito leves, nos termos da alínea a) do n.º 1 do artigo 4.º;\n\nb) A comercialização de produtos acondicionados em recipientes de plástico de utilização única como cuvetes e caixas, com ou sem tampa, nos termos da alínea b) do n.º 1 do artigo 4.º\n\n2 - A não disponibilização aos consumidores de alternativas reutilizáveis ou feitas de um único material, nos termos do artigo anterior.\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "859867747": {
+   "fragment_id": "171902496",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização, instrução e decisão",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Fiscalização, instrução e decisão\n\n1 - A fiscalização do cumprimento do disposto na presente lei cabe, no âmbito das respetivas competências, à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo da competência das autoridades policiais e administrativas.\n\n2 - Compete à ASAE instruir os processos relativos às contraordenações referidas no artigo anterior e decidir a aplicação da coima.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "859867748": {
+   "fragment_id": "171902501",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Produto das coimas",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27",
+    "Aditado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações previstas no artigo 6.º é repartido nos termos do RJCE.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27\n\n> Aditado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 78/2021 - Diário da República n.º 187/2021, Série I de 2021-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2021-171871496), em vigor a partir de 2021-11-01"
+  },
+  "859867749": {
+   "fragment_id": "171902497",
+   "type": 11,
+   "heading": "Artigo 8.º — Sensibilização dos consumidores",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 8.º — Sensibilização dos consumidores\n\n1 - O Governo deve promover campanhas de sensibilização dos consumidores para o uso de sacos próprios não descartáveis nos atos de compra de pão, frutas e legumes.\n\n2 - O Governo deve, igualmente, desenvolver ações de sensibilização dirigidas aos responsáveis dos estabelecimentos comerciais, para que estes se adaptem ao uso de sacos próprios não descartáveis por parte dos consumidores.\n\n3 - As campanhas e ações de sensibilização devem ter início no prazo definido para a regulamentação da presente lei.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "859867750": {
+   "fragment_id": "171902498",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\nO Governo procede à regulamentação da presente lei no prazo de 90 dias após a sua entrada em vigor.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "859867751": {
+   "fragment_id": "171902499",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor 120 dias após a sua publicação.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  },
+  "859867752": {
+   "fragment_id": "171902500",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+   ],
+   "markdown": "Aprovada em 19 de julho de 2019.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 6 de agosto de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 12 de agosto de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n112526434\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 24/2024 - Diário da República n.º 61/2024, Série I de 2024-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), em vigor a partir de 2024-03-27"
+  }
+ }
+}

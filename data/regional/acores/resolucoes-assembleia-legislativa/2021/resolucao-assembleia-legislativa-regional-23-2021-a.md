@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:162067644:por
+title: Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 23/2021/A
+short_title: null
+summary: Alargamento da via verde do acidente vascular cerebral a toda a Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 23/2021/A
+official_date: null
+publication_date: '2021-04-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 80/2021, Série I de 2021-04-26
+  number: '80'
+  series: I
+  supplement: null
+  pages: 4 - 7
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/04/08000/0000400007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalraa/23/2021/04/26/a/dre/pt/html
+  oj: null
+  dre: '162067644'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/23-2021-162067644
+  internal: pt:dre:162067644:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/23-2021-162067644
+  metadata_url: https://data.dre.pt/eli/resolalraa/23/2021/04/26/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/23-2021-162067644
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:36:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bb3ddd1b1d7c911af31d63d811478087b47ec5e503eec13f951c5e754aea5628
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Aquisição de Equipamento
+- Assistência Médica
+- Assistência Medicamentosa
+- Doença
+- Governo Regional
+- Material Médico-Cirúrgico
+- Medicina de Urgência
+- Recomendação
+- Transporte de Doentes
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:36:10Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 23/2021/A
+
+Alargamento da via verde do acidente vascular cerebral a toda a Região Autónoma dos Açores
+
+Apesar dos óbitos terem vindo a decair nos últimos anos, Portugal tem a maior taxa de mortalidade por acidente vascular cerebral (AVC) entre todos os países da Europa Ocidental. Estima-se que a cada hora que passa três portugueses sofram de um AVC, em que um deles não sobrevive e, dos restantes, 50 % ficará com sequelas. O AVC é ainda hoje a principal causa de mortalidade em Portugal, com mais de 11 000 óbitos anuais, e de incapacidade física, para além de propiciar o aparecimento da demência, epilepsia e depressão.
+
+Ainda que possa afetar todas as idades, o pico de incidência situa-se entre os 50 e os 70 anos, levando à perda de anos e qualidade de vida. Principalmente a obesidade, a hipertensão arterial, a dislipidémia, a diabetes, a fibrilhação auricular e o tabagismo, bem como a não adoção de estilos de vida saudáveis, como más práticas alimentares, o sedentarismo, o consumo de certas drogas ilícitas e o excesso de álcool, agravam significativamente o risco de AVC. Nos Açores sabe-se que a prevalência destas situações é deveras elevada.
+
+Na Região Autónoma dos Açores (RAA) são internados, nos três hospitais, pelo menos 500 casos anuais de AVC e alguns casos possivelmente permanecem nas Unidades de Saúde de Ilha com internamento. Por esta causa morrem nos Açores anualmente, diretamente ou por complicações posteriores, mais de 250 pessoas, metade delas com menos de 85 anos, que é praticamente a atual esperança média de vida em Portugal.
+
+Cerca de 85 % dos AVC têm habitualmente natureza isquémica (trombose de um vaso) e, fundamentalmente nestes casos, o acesso rápido a uma instituição de saúde com tomografia axial computorizada (TAC) é crucial para que possa ser feito um diagnóstico seguro (após o despiste de hemorragia ou outra causa do quadro clínico), instituído um tratamento (reperfusão do vaso ocluído) e, desta forma, modificar o prognóstico vital ou funcional.
+
+Este tratamento de reperfusão, aplicável na grande maioria dos AVC isquémicos, passa pela administração de um fármaco capaz de dissolver o trombo (trombólise), devendo ser administrado preferencialmente nas primeiras três horas após o início objetivo dos sintomas, podendo a sua administração prolongar-se até às quatro ou cinco horas, se bem que com resultados menos satisfatórios, e/ou pela remoção mecânica do trombo através de uma angiografia terapêutica (trombectomia), quando a obstrução está num grande vaso e é acessível a esta técnica, sendo habitualmente mais eficaz nas primeiras seis horas, mas podendo esta janela prolongar-se até 24 horas em certos casos, sobretudo quando o método anterior não resulta.
+
+Existe uma via verde nacional do AVC, mas, infelizmente, a maioria dos afetados ainda acede numa fase tardia ao hospital (em 2018 apenas cerca de 30 % dos AVC em contexto domiciliário acederam por esta via a um hospital no território continental e nos grandes centros). Nos Açores o panorama é menos favorável e agravado ainda pela insularidade.
+
+De facto, na RAA existe também uma via verde do AVC, onde apenas a trombólise está disponível em caso de isquémia, mas, na realidade, limitado somente às ilhas com hospital, pelas dificuldades inerentes ao transporte inter-ilhas, o que gera uma desigualdade inaceitável entre cidadãos, até pelo facto de poder ser minorada com medidas exequíveis. As consequências desta desigualdade, causada pela impossibilidade de executar uma TAC em tempo útil e consequentemente iniciar de imediato um tratamento no AVC isquémico, agravam o deficit neurológico, o desempenho posterior nas atividades diárias e o prognóstico global.
+
+Está demonstrado que, aos três meses, os doentes submetidos a trombólise apresentam uma clara melhoria em 50 % dos casos, frente aos 38 % dos doentes não tratados. Da mesma forma, está demonstrado que doentes tratados com trombólise em tempo útil apresentam menor mortalidade ao fim de um ano e/ou de uma menor taxa de readmissão hospitalar. Mais ainda, sendo a rapidez com que é instituída a trombólise o fator prognóstico mais importante, por cada redução em 15 minutos no tempo de início da trombólise há uma melhoria cumulativa em cerca de 5 % nos seguintes itens: sobrevida antes da alta hospitalar; marcha independentemente aquando da alta hospitalar; e alta domiciliária em vez de uma instituição de saúde.
+
+Resta referir que hemorragia secundária à trombólise, também em parte relacionada com o atraso no início do tratamento, é infrequente e raramente fatal (1 %), podendo obrigar à evacuação do doente para um centro com neurocirurgia em certos casos, o que já ocorre na Região quando o mesmo é efetuado nos dois hospitais sem esta especialidade.
+
+Note-se que, independentemente desta questão neurológica, a existência de equipamentos de TAC em todas as ilhas é já um imperativo, com uma clara relação custo-benefício demonstrável. Atualmente, este exame é fundamental num sem número de situações e, na ausência de ecografia, é o único exame de imagem capaz de fazer determinados diagnósticos, sendo mesmo o de primeira escolha em determinadas patologias, para além do referido diagnóstico diferencial do AVC.
+
+Por outro lado, noutras patologias em geral, ao contrário da ecografia, um exame dinâmico que é interpretado por quem o executa naquele momento, a TAC é um exame estático passível de interpretação em momentos diferentes e por imagiologistas diferentes. Muitos hospitais do território continental, mesmo centrais, recorrem hoje em dia à telerradiologia por inexistência de médico radiologista, principalmente nos períodos noturnos. Inclusivamente foram desenvolvidos sistemas de manuseamento dos equipamentos e aquisição de imagens de forma remota, não sendo necessário localmente, na sala, um técnico de radiologia.
+
+Na nossa realidade arquipelágica, a TAC teria ainda, e fundamentalmente, a vantagem de, em determinadas situações, poder reduzir a mortalidade (por exemplo, atrasos dos diagnósticos e das evacuações), evitar evacuações desnecessárias (por exemplo, determinados traumatismos), deslocações desnecessárias de doentes a outras ilhas, sobretudo em períodos de pandemia (por exemplo, exames diagnósticos programados), reduzir listas de espera pela concentração de doentes para exames nos hospitais existentes (apenas no Faial, Terceira e São Miguel são realizadas TAC com contraste) ou permitir um transporte mais atempado e dirigido para hospitais com certas valências médico-cirúrgicas, evitando perdas de tempo por vezes fatais (por exemplo, neurocirurgia ou cirurgia vascular).
+
+Inclusivamente é possível, dispondo de uma bomba injetora e aplicando determinados protocolos de aquisição de imagens, realizar exames com contraste, em geral e mais concretamente aos vasos cerebrais para melhor localização da oclusão (angio-TAC cerebral e dos vasos do pescoço), bastando para tal que um médico presente, não radiologista, seja capaz de reconhecer e tratar uma reação alérgica (anafilaxia) ou mesmo um choque anafilático. Quanto ao manuseamento do aparelho, um técnico de radiologia está habilitado a fazê-lo, não sendo necessária a presença de qualquer médico se não há administração de contraste. A administração deste fármaco trombolítico seria feita localmente, de acordo com os melhores protocolos clínicos em vigor e eventualmente sob a supervisão por telemedicina de um médico hospitalar (internista ou neurologista).
+
+Atualmente, as ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo não dispõem deste equipamento e os seus habitantes são, seguramente, dos poucos cidadãos em Portugal sem acesso ao tratamento do AVC isquémico. A aquisição de cinco aparelhos de TAC de 32 cortes (o mínimo que neste momento é comercializado, podendo inclusivamente ser de 64 cortes) seria suficiente para os objetivos propostos.
+
+A título de referência, os custos diretos estimados de todo o investimento, apurados junto de uma casa comercial, para dotar as referidas ilhas da logística e destes equipamentos, está estimado em 5x400 000 (euro), ou seja 2 000 000 (euro) (isto se houver necessidade de uma construção nova para o aparelho de TAC, pois, de outra forma, em caso de adaptação do espaço existente, serão menos 75 000 (euro) por ilha, isto é, menos 375 000 (euro) do valor total):
+
+Equipamento de TAC (32 cortes): 180 000 (euro) (o custo de um equipamento de 64 cortes ascende a 200 000 (euro));
+
+Injetor de contraste: 14 500 (euro);
+
+Valor para construção de espaço: 190 600 (euro) (valor para adaptação de espaço: 115 327,08 (euro)).
+
+O contrato de manutenção anual completo sem riscos (inclui ampola, cujo valor unitário em caso de avaria ascende a cerca de 60 000 (euro)) é de 24 000 (euro) por unidade, ou seja, 120 000 (euro) anuais (26 000 (euro) para equipamentos de 64 cortes, num total de 130 000 (euro) anuais).
+
+No caso de aquisição de um sistema de visualização e aquisição remota de exames a subscrição anual é de 35 000 (euro) por equipamento, ou seja, 185 000 (euro). Este sistema é útil apenas nas ilhas sem técnico de radiologia, pois permite que o manuseamento e a aquisição de imagens sejam feitos remotamente, tendo sido desenvolvido para profissionais em regime de quarentena durante a pandemia.
+
+Note-se bem que a aquisição de cinco equipamentos a uma mesma casa comercial, o englobamento dos contratos de manutenção e, eventualmente, do sistema de visualização remota num único pacote reduz os custos finais apresentados.
+
+Por fim e uma vez concluído este processo, dever-se-ia investir em instalações e equipamentos de um centro de radiologia de intervenção para o AVC isquémico elegível para trombectomia no Hospital do Divino Espírito Santo de Ponta Delgada (HDES), através da celebração de protocolos com centros idóneos para formação de profissionais e criação de uma escala de deslocação de especialistas nesta área à RAA, mesmo que, a posteriori, alguns dos médicos locais venham a adquirir o suficiente conhecimento para a execução desta técnica, pois é um procedimento que exige uma prática continuada. Note-se que o HDES já dispõe de uma sala de angiografia para cirurgia vascular e/ou cardiologia de intervenção, que readaptada poderia eventualmente servir este propósito.
+
+Quer a aquisição e logística dos equipamentos acima mencionados, quer a instalação e aquisição de material para o centro de radiologia de intervenção para este fim poderiam vir a ser financiados por programas específicos de fundos europeus, cabendo ao Governo Regional a inscrição de 15 % do total do investimento no(s) seu(s) orçamento(s) anual(ais).
+
+Esta é, pois, uma proposta racional, tecnicamente inquestionável, financeiramente exequível e sustentável, que reduz as desigualdades geográficas, de enorme impacto na melhoria da qualidade de vida dos cidadãos, geradora de ganhos em saúde e um dever moral de quem governa para combater as iniquidades evitáveis do Serviço Regional de Saúde.
+
+Posto isto, e sendo um problema grave de saúde pública, é fundamental que o Governo Regional, designadamente a Secretaria Regional da Saúde e Desporto e a Direção Regional da Saúde, adote medidas enérgicas para combater esta situação e que cremos serem de primordial importância.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos termos regimentais aplicáveis e ao abrigo do disposto no n.º 3 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, recomendar ao Governo Regional o seguinte:
+
+1 - Instituir energicamente, na sociedade e sobretudo nas escolas, campanhas de informação e prevenção sobre os fatores de risco modificáveis da doença cerebrovascular (literacia em saúde).
+
+2 - Sensibilizar continuamente a classe médica para o controlo eficaz de fatores de risco da doença cerebrovascular e para a aplicação das melhores práticas clínicas de acordo com a medicina baseada na evidência.
+
+3 - Divulgar insistentemente, por todos os meios disponíveis à população, os sinais de alerta que devem fazer suspeitar de um AVC e que devem levar um doente a ser rapidamente atendido numa instituição de saúde.
+
+4 - Melhorar a comunicação entre as viaturas médicas de transporte destes doentes, médico regulador e médico hospitalar para um alerta atempado de ativação desta via verde, de modo a minimizar as perdas de tempo, que de outra forma são passíveis de ocorrer.
+
+5 - Facultar em todas as ilhas um equipamento de tomografia axial computorizada (TAC), com leitura por imagiologista, idealmente um neurorradiologista, presencialmente ou por telerradiologia, para permitir pelo menos a instituição de tratamento trombolítico dentro da janela terapêutica ideal e criar, posteriormente, um centro de referência regional para possibilitar a revascularização mecânica (trombectomia), nos casos elegíveis.
+
+6 - Após a implementação destas medidas, monitorizar o programa de prevenção, diagnóstico, acessibilidade e terapêutico do AVC e instituir um ciclo de melhoria contínua, de forma a alcançar os melhores resultados em termos de benchmarking.
+
+Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 26 de março de 2021.
+
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
+
+114163403

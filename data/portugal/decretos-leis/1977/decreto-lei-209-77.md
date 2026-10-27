@@ -1,0 +1,246 @@
+---
+schema_version: '1.0'
+id: pt:dre:252824:por
+title: Decreto-Lei n.º 209/77
+short_title: null
+summary: Procede à clarificação do conceito de desalojado e da situação de carência e estabelece orientações quanto a prestações
+  específicas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros - Comissariado para os Desalojados
+proposing_entity: null
+official_number: 209/77
+official_date: null
+publication_date: '1977-05-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/1977, Série I de 1977-05-26
+  number: '122'
+  series: I
+  supplement: null
+  pages: 1220 - 1222
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/05/12200/12201222.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '252824'
+  dre_path: /dr/detalhe/decreto-lei/209-1977-252824
+  internal: pt:dre:252824:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1977-252824
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1977-252824
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:03:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 556b3bf282b91d6821c2a8a13976138b5df615fffcc356b09980094a0f4a41a9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ALTO Comissário para os Desalojados
+- Assistência Médica
+- Assistência Medicamentosa
+- Comissariado para os Desalojados
+- Desalojado
+- Inserção Social
+- Integração de Trabalhadores
+- Prestações Pecuniárias
+- Realojamento
+relationships:
+- type: amended_by
+  target: pt:dre:324774:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:278258:por
+  label: "Alterados, por ratificação, os arts. 1º e 2º pela LEI.73/77.27.09.1977.AR, DR.IS [224] de 27.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/73-1977-278258
+  date: '1977-09-27'
+- type: cites
+  target: pt:dre:534386:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324774:por
+  label: "Revogado o presente diploma, com excepção do art. 1º (na redacção introduzida pela Lei 73/77 de 27-Set) e do nº\
+    \ 3 do art. 11º pelo DEC LEI.401/78.15.12.1978.MAI, DR.IS [287] de 15.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/401-1978-324774
+  date: '1978-12-15'
+article_structure:
+  article_count: 12
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:03:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 209/77
+
+de 26 de Maio
+
+O conceito de retornado assim como as diversas modalidades de assistência e apoio aos cidadãos regressados das ex-colónias em situação de carência encontra-se fixado na resolução do Conselho de Ministros de 5 de Maio do ano findo. Aí se determina que as modalidades estabelecidas serão obrigatoriamente revistas até 31 de Dezembro de 1976.
+
+A fase predominante assistencial, de atendimento e apoio em regime de emergência dos cidadãos vindos das ex-colónias, está de facto concluída:
+
+a) Várias formas de apoio organizado estão já programadas com vista à integração sócio-económica de desalojados na vida nacional - resolução do Conselho de Ministros de 21 de Outubro findo;
+
+b) O recenseamento da população desalojada, nos termos do [Decreto-Lei n.º 826-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/826-a-1976-534386), de 17 de Novembro, decorreu de 20 de Novembro a 6 de Dezembro. O tratamento automático da informação recebida vai permitir o melhor conhecimento do desalojado em situação de carência;
+
+c) O regime de protecção social a desalojados, que vai ser estabelecido em decreto-lei, determina a integração nas estruturas dos serviços de emprego, saúde e segurança social a partir de 1 de Janeiro de 1977 das seguintes prestações: subsídio de desemprego, assistência médica e medicamentosa, abono de família e prestações complementares, pensões de invalidez, velhice e sobrevivência.
+
+Em face do exposto, tendo em conta que a evolução verificada possibilita respostas concretas no que respeita à protecção social, a programas de habitação e ao crédito para projectos de actividade económica conducente à criação e manutenção de postos de trabalho, é necessário e oportuno proceder à clarificação do conceito de desalojado em vez de retornado e de situação de carência, assim como ao estabelecimento de orientação quanto a prestações específicas.
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — (Conceito de desalojado)
+
+1. São considerados desalojados todos os indivíduos de nacionalidade portuguesa vindos das ex-colónias posteriormente a 1 de Setembro de 1974 e anteriormente a 30 de Novembro de 1976 e que, numa destas, tivessem a residência habitual.
+
+2. São ainda considerados desalojados os indivíduos portugueses que satisfaçam os requisitos do número anterior e tenham vindo ou venham para Portugal até 31 de Julho de 1977, desde que provem terem sido impedidos de embarcar antes de 30 de Novembro de 1976 ou terem sido posteriormente forçados a abandonar o território por motivos independentes e estranhos à sua vontade.
+
+3. O disposto no número anterior não se aplica aos funcionários e agentes do Estado ou demais entidades públicas, nem aos cooperantes, quer sejam ou não funcionários.
+
+###### Artigo 2.º — (Direito a apoio por parte do Estado)
+
+1. Em geral poderão beneficiar de apoio por parte do Estado os desalojados em quem não concorram cumulativamente as seguintes condições:
+
+a) Alojamento em habitação própria em termos aceitáveis para o comum da sociedade portuguesa, o que inclui o aluguer de quartos ou partes de casa;
+
+b) Posto de trabalho estável por conta própria, que inclui os beneficiários de financiamentos específicos para desalojados, ou por conta de outrem, vencido que seja o período experimental aplicável à profissão.
+
+São considerados nesta situação os aposentados e os funcionários já integrados no quadro geral de adidos, mesmo na disponibilidade, e bem assim os desalojados que tenham recorrido à emigração, desde que esta se efective, ainda que temporariamente.
+
+2. O disposto no número anterior pode ser objecto de regime especial adaptado às finalidades da respectiva forma de apoio.
+
+3. Oportunamente serão fixados os prazos e regras a que há-de obedecer a total extinção do apoio a desalojados por parte do Estado.
+
+###### Artigo 3.º — (Situação de carência)
+
+1. Considera-se em situação de carência o desalojado que não aufira rendimentos de qualquer proveniência iguais ou superiores a 60% do salário mínimo nacional ou aquele cujo agregado familiar não atinja de rendimento per capita este valor.
+
+2. Para efeito do número anterior, o agregado familiar é constituído:
+
+a) Pelo desalojado e pelo cônjuge;
+
+b) Pelos descendentes em linha recta e equiparados menores de 18 anos ou incapazes;
+
+c) Pelos ascendentes e afins em linha recta e equiparados, sem direito a pensão, que vivam com o desalojado em economia conjunta e na sua dependência económica.
+
+### CAPÍTULO II — Prestações específicas
+
+###### Artigo 4.º — (Âmbito quanto às prestações específicas)
+
+1. Consideram-se prestações específicas a desalojados as formas de ajuda que, pelas suas características, pela sua dimensão ou pela urgência de resposta, não cabem por enquanto nas estruturas normais dos departamentos adequados. Respeitam predominantemente ao alojamento, à integração profissional por pequenas iniciativas e à adaptação social, devendo esta relacionar-se estreitamente com aquelas duas modalidades de prestação específica.
+
+2. São asseguradas pelo Comissariado para os Desalojados, através dos organismos ou serviços que dele dependam e dentro dos limites dos orçamentos aprovados.
+
+###### Artigo 5.º — (Alojamento individual)
+
+A ajuda para alojamento individual, limitada a aspectos não contemplados em programas para habitação de iniciativa do Comissariado ou de outros departamentos, tem por objectivos:
+
+a) Contribuir para a primeira instalação do desalojado em casa própria ou arrendada;
+
+b) Promover a colocação de idosos e menores privados de agregado familiar próprio em casas particulares
+
+###### Artigo 6.º — (Alojamentos colectivos)
+
+1. O recurso a alojamentos colectivos tem por objectivo:
+
+a) Assegurar a instalação da população activa a título muito transitório;
+
+b) Assegurar a instalação em lares, em condições de dignidade, a grupos de população desalojada socialmente mais desfavorecida, com prioridade para idosos e menores privados de agregado familiar.
+
+2. A instalação a que se refere a alínea a) do número anterior terá lugar em centros temporários de alojamento (CTA), caracterizados, fundamentalmente, pela finalidade de apoio à integração sócio-profissional dos utentes e por não prosseguirem fins lucrativos.
+
+3. Consideram-se equiparados a centros temporários de alojamento os estabelecimentos que, embora com fins lucrativos, se submetam a contratos especiais e sirvam a finalidade referida no número anterior.
+
+###### Artigo 7.º — (Orientações gerais)
+
+A instalação em alojamentos colectivos obedecerá aos princípios seguintes:
+
+a) Os alojamentos colectivos devem funcionar de preferência em regime de cooperação com entidades especialmente vocacionadas para o efeito e dispondo de equipamentos adequados, em conformidade com acordos ou contratos tipo;
+
+b) A intervenção dos utentes na gestão dos alojamentos colectivos deve ser estimulada e apoiada, tendo em vista promover a sua solidariedade actuante nos propósitos da integração e, bem assim, assegurar a melhoria de qualidade do serviço e a economia de custos;
+
+c) A permanência nos CTA deverá ser acompanhada de acções dirigidas à rápida integração sócio-profissional dos utentes na sociedade portuguesa;
+
+d) As despesas com a estada no CTA devem ser comparticipadas pelos utentes com importâncias variáveis segundo o grau de carência e crescentes em função do tempo de permanência;
+
+e) As despesas nos lares devem ser comparticipadas pelos próprios e pelos seus familiares com importâncias variáveis segundo o respectivo grau de carência.
+
+###### Artigo 8.º — (Ajuda à integração profissional)
+
+1. A ajuda à integração profissional por pequenas iniciativas tem por objectivo contribuir para a inserção do desalojado na actividade profissional e não poderá exceder o montante mínimo que estiver fixado para o sistema de crédito a desalojados.
+
+2. Não são considerados aqueles desalojados que tenham requerido e beneficiem de empréstimos de montante superior ao indicado, qualquer que tenha sido a entidade que o conceda.
+
+3. A prestação específica não excederá o limite de 15000$00 quando revestir a forma de subsídio e revestirá a forma de empréstimo, isento de juros, na parte que eventualmente exceda aquele montante.
+
+###### Artigo 9.º — (Protecção complementar na saúde)
+
+A comparticipação nas despesas com a assistência médico-social, que normalmente ficam a cargo dos beneficiários, será assegurada, em casos especiais, mediante estudo individualizado da situação.
+
+### CAPÍTULO III — Disposições finais e transitórias
+
+###### Artigo 10.º — (Normas regulamentares)
+
+1. As condições de atribuição de cada uma das prestações, a sua natureza e montantes, incluindo a comparticipação dos utentes, e o modo de funcionamento dos equipamentos, assim como a articulação das entidades intervenientes, deverão ser estabelecidos em normas regulamentares a elaborar com a participação de representantes dos utentes e a aprovar pelo Alto-Comissário.
+
+2. A aplicação destas normas deverá ser avaliada semestralmente de modo a permitir a sua revisão no sentido da integração progressiva das diversas prestações nas estruturas normais ou a sua oportuna cessação.
+
+###### Artigo 11.º — (Interpretação e integração)
+
+1. As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Alto-Comissário para os Desalojados.
+
+2. O Alto-Comissário poderá transitoriamente recorrer a formas de ajuda de carácter excepcional para integração sócio-económica do desalojado, desde que permitam a redução imediata de vultosos encargos economicamente inúteis.
+
+3. Para além do estabelecido no presente diploma, o Alto-Comissário poderá determinar o atendimento de casos excepcionais a fim de responder a situações não previstas neste diploma e que apresentem um carácter particular de gravidade ou de urgência.
+
+###### Artigo 12.º — (Revisão)
+
+O presente diploma será revisto um ano após a sua entrada em vigor.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Joaquim Jorge de Pinho Campinos.
+
+Promulgado em 16 de Maio de 1977.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

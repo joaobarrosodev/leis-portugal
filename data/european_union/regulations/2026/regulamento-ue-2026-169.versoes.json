@@ -1,0 +1,47 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R0169:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0169-20260127",
+ "dre_path": null,
+ "source_lastmod": "2026-01-27",
+ "versions": [
+  {
+   "date": "2026-01-27",
+   "future": false,
+   "celex": "02026R0169-20260127",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2cc44c929108077a",
+    "e6253b40ed4eb41c",
+    "b0ce9bbac2f125aa"
+   ]
+  }
+ ],
+ "fragments": {
+  "2cc44c929108077a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de janeiro de 2026\n\nque altera o anexo do Regulamento de Execução (UE) 2018/1882 no que diz respeito à categorização da infeção pelo vírus da febre catarral ovina (serótipos 1-24) como doença listada\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "e6253b40ed4eb41c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNo quadro do anexo do Regulamento de Execução (UE) 2018/1882, a linha referente à infeção pelo vírus da febre catarral ovina (serótipos 1-24) passa a ter a seguinte redação:\n\n| «Infeção pelo vírus da febre catarral ovina (serótipos 1-24) | D+E | Antilocapridae, Bovidae, Camelidae, Cervidae, Giraffidae, Moschidae, Tragulidae | *Culicoides* spp.». |\n| --- | --- | --- | --- |"
+  },
+  "b0ce9bbac2f125aa": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de novembro de 2026.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  }
+ }
+}

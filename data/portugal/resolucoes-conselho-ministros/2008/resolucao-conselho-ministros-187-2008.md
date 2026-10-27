@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:440090:por
+title: Resolução do Conselho de Ministros n.º 187/2008
+short_title: null
+summary: Aprova as minutas do contrato de investimento e respectivos anexos, a celebrar entre o Estado Português e a QIMONDA,
+  AG, a Centrosolar Group, AG, a Qimonda Solar, GmbH, e a Itarion Solar, Lda., que tem por objecto a construção de uma unidade
+  industrial desta última sociedade, localizada em Vila do Conde, para a produção de células fotovoltaicas
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 187/2008
+official_date: null
+publication_date: '2008-11-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/2008, Série I de 2008-11-25
+  number: '229'
+  series: I
+  supplement: null
+  pages: 8461 - 8461
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/11/22900/0846108461.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/187/2008/11/25/p/dre/pt/html
+  oj: null
+  dre: '440090'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/187-2008-440090
+  internal: pt:dre:440090:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/187-2008-440090
+  metadata_url: https://data.dre.pt/eli/resolconsmin/187/2008/11/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/187-2008-440090
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:17:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b0033e0e6b525a9310329860f60996726318badbbd9b38ceb8011403797744ab
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:17:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aicep
+- Benefícios Fiscais
+- Contrato de Concessão
+- Contrato de Investimento
+- Energia Solar
+- VILA do Conde
+relationships:
+- type: cites
+  target: pt:dre:452177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667137:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:17:16Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 187/2008
+
+As conceituadas empresas alemãs Qimonda, que actua na área de negócios das memórias DRAM, e CentroSolar, que se dedica à produção e comercialização de sistemas fotovoltaicos integrados, módulos fotovoltaicos e painéis solares, decidiram constituir, em joint venture, a Itarion Solar, Lda., com sede em Vila do Conde, tendo em vista a criação de uma unidade industrial, com uma capacidade instalada de 100 MW peak por ano e potencial para aumento até 250 MW peak por ano, para a produção de células fotovoltaicas a partir de silício.
+
+O projecto de investimento da Itarion Solar, Lda., é pioneiro em Portugal, representa uma forte aposta nas energias renováveis e potencia, a prazo, uma maior autonomia energética do País, contribuindo positivamente para a sua balança comercial energética.
+
+O investimento em causa ronda (euro) 99 766 250 e envolve a criação de 200 postos de trabalho, dos quais 142 com nível de qualificação superior, prevendo-se atingir um volume de vendas de (euro) 2 260 565 962 acumulado entre 2008 e 2017, ano do termo de vigência do contrato de investimento cuja minuta é aprovada pela presente resolução do Conselho de Ministros.
+
+A totalidade da produção da Itarion Solar, Lda., destina-se ao mercado externo, contribuindo assim este projecto para o aumento das exportações e melhoria do saldo da balança comercial portuguesa de produtos electrónicos.
+
+O projecto de investimento da Itarion Solar, Lda., foi objecto de candidatura a incentivos financeiros, ao abrigo da [Portaria n.º 1464/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1464-2007-628507), de 15 de Novembro, e a benefícios fiscais, ao abrigo do [Decreto-Lei n.º 409/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1999-667137), de 15 de Outubro, tendo, através da [Resolução do Conselho de Ministros n.º 143/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-2008-452177), de 30 de Setembro, sido declarado o seu interesse estratégico para a economia portuguesa e para a região onde se localiza, para efeitos de enquadramento nas tipologias de investimento susceptíveis de apoio no âmbito do Sistema de Incentivos à Inovação.
+
+Deste modo, considera-se que este projecto, pelo seu mérito, demonstra especial interesse para a economia nacional e reúne as condições necessárias à admissão ao regime contratual e à concessão de incentivos financeiros e fiscais previstos para grandes projectos de investimento.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar as minutas do contrato de investimento e respectivos anexos, a celebrar entre o Estado Português, representado pela Agência para o Investimento e Comércio Externo de Portugal, E. P. E., e a QIMONDA, AG, a Centrosolar Group, AG, a Qimonda Solar, GmbH, e a Itarion Solar, Lda., que tem por objecto a construção de uma unidade industrial desta última sociedade, localizada em Vila do Conde, para a produção de células fotovoltaicas.
+
+2 - Conceder os benefícios fiscais em sede de IRC e de imposto do selo que constam do contrato de investimento e do contrato de concessão de benefícios fiscais, sob proposta do Ministro de Estado e das Finanças, atento o disposto no n.º 1 do artigo 41.º do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, na sua actual redacção, e no [Decreto-Lei n.º 409/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1999-667137), de 15 de Outubro.
+
+3 - Determinar que o original do contrato referido no n.º 1 fique arquivado na Agência para o Investimento e Comércio Externo de Portugal, E. P. E.
+
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 30 de Outubro de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

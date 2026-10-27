@@ -1,0 +1,1585 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:499547:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-70381999",
+ "dre_path": "/dr/detalhe/lei/70-2013-499547",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-08-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70390127",
+    "70390128",
+    "70390129",
+    "70390130",
+    "70390131",
+    "70390132",
+    "70390133",
+    "70390134",
+    "70390135",
+    "70390136",
+    "70390137",
+    "70390138",
+    "70390139",
+    "70390140",
+    "70390141",
+    "70390142",
+    "70390143",
+    "70390144",
+    "70390145",
+    "70390146",
+    "70390147",
+    "70390148",
+    "70390149",
+    "70390150",
+    "70390151",
+    "70390152",
+    "70390153",
+    "70390154",
+    "70390155",
+    "70390156",
+    "70390157",
+    "70390158",
+    "70390159",
+    "70390160",
+    "70390161",
+    "70390162",
+    "70390163",
+    "70390164",
+    "70390165",
+    "70390166",
+    "70390167",
+    "70390168",
+    "70390169",
+    "70390170",
+    "70390171",
+    "70390172",
+    "70390173",
+    "70390174",
+    "70392875",
+    "70392876",
+    "70392877",
+    "70392878",
+    "70392879",
+    "70392880",
+    "70392881",
+    "70392882",
+    "70392883",
+    "70392884",
+    "70392885",
+    "70392886",
+    "70392887",
+    "70392888",
+    "70392889",
+    "70392890",
+    "70392891",
+    "70392892",
+    "70392893",
+    "70392894",
+    "70392895",
+    "70392896"
+   ]
+  },
+  {
+   "date": "2015-11-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70386137:por",
+     "title": "Decreto-Lei n.º 210/2015",
+     "published": "2015-09-25",
+     "dre_path": "/dr/detalhe/decreto-lei/210-2015-70386137"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 11.º-B",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 53.º"
+   ],
+   "fragments": [
+    "70390127",
+    "70390128",
+    "70390129",
+    "70392933",
+    "70390131",
+    "70390132",
+    "70390133",
+    "70390134",
+    "70390135",
+    "70390136",
+    "70392934",
+    "70390138",
+    "70390139",
+    "70392935",
+    "70392913",
+    "70392923",
+    "70392924",
+    "70392925",
+    "70392926",
+    "70392927",
+    "70392936",
+    "70392929",
+    "70392930",
+    "70392931",
+    "70392932",
+    "70390150",
+    "70390151",
+    "70390152",
+    "70390153",
+    "70390154",
+    "70390155",
+    "70390156",
+    "70390157",
+    "70390158",
+    "70390159",
+    "70390160",
+    "70390161",
+    "70390162",
+    "70390163",
+    "70392937",
+    "70390165",
+    "70390166",
+    "70390167",
+    "70390168",
+    "70390169",
+    "70390170",
+    "70390171",
+    "70390172",
+    "70390173",
+    "70390174",
+    "70392875",
+    "70392876",
+    "70392877",
+    "70392878",
+    "70392879",
+    "70392880",
+    "70392881",
+    "70392882",
+    "70392883",
+    "70392884",
+    "70392885",
+    "70392886",
+    "70392938",
+    "70392888",
+    "70392889",
+    "70392890",
+    "70392891",
+    "70392892",
+    "70392893",
+    "70392894",
+    "70392895",
+    "70392896",
+    "70392901"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205557192:por",
+     "title": "Lei n.º 24-D/2022",
+     "published": "2022-12-30",
+     "dre_path": "/dr/detalhe/lei/24-d-2022-205557192"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-C"
+   ],
+   "fragments": [
+    "70390127",
+    "70390128",
+    "70390129",
+    "70392933",
+    "70390131",
+    "70390132",
+    "70390133",
+    "70390134",
+    "70390135",
+    "70390136",
+    "70392934",
+    "70390138",
+    "70390139",
+    "70392935",
+    "70392913",
+    "70392923",
+    "221152275",
+    "221152276",
+    "221152277",
+    "221152278",
+    "221152279",
+    "221152280",
+    "221152281",
+    "221152282",
+    "221152283",
+    "221152284",
+    "70390150",
+    "70390151",
+    "70390152",
+    "70390153",
+    "70390154",
+    "70390155",
+    "70390156",
+    "70390157",
+    "70390158",
+    "70390159",
+    "70390160",
+    "70390161",
+    "70390162",
+    "70390163",
+    "70392937",
+    "70390165",
+    "70390166",
+    "70390167",
+    "70390168",
+    "70390169",
+    "70390170",
+    "70390171",
+    "70390172",
+    "70390173",
+    "70390174",
+    "70392875",
+    "70392876",
+    "70392877",
+    "70392878",
+    "70392879",
+    "70392880",
+    "70392881",
+    "70392882",
+    "70392883",
+    "70392884",
+    "70392885",
+    "70392886",
+    "70392938",
+    "70392888",
+    "70392889",
+    "70392890",
+    "70392891",
+    "70392892",
+    "70392893",
+    "70392894",
+    "70392895",
+    "70392896",
+    "70392901"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:261867080:por",
+     "title": "Decreto-Lei n.º 115/2023",
+     "published": "2023-12-15",
+     "dre_path": "/dr/detalhe/decreto-lei/115-2023-261867080"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 31.º-A",
+    "Adita Artigo 31.º-B",
+    "Adita Artigo 45.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 11.º-C",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 49.º",
+    "Altera Capítulo VI",
+    "Altera Artigo 51.º",
+    "Altera Artigo 53.º",
+    "Altera Artigo 56.º",
+    "Altera Artigo 57.º",
+    "Altera Artigo 58.º",
+    "Revoga Artigo 11.º-A",
+    "Revoga Artigo 11.º-B",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 50.º",
+    "Revoga Artigo 60.º"
+   ],
+   "fragments": [
+    "70390127",
+    "70390128",
+    "351301777",
+    "351301778",
+    "70390131",
+    "351301779",
+    "70390133",
+    "70390134",
+    "70390135",
+    "351301824",
+    "351301780",
+    "70390138",
+    "70390139",
+    "351301781",
+    "351301814",
+    "351301815",
+    "351301782",
+    "351301783",
+    "351301784",
+    "221152278",
+    "351301816",
+    "351301785",
+    "351301786",
+    "351301787",
+    "221152283",
+    "221152284",
+    "70390150",
+    "70390151",
+    "70390152",
+    "70390153",
+    "70390154",
+    "70390155",
+    "70390156",
+    "70390157",
+    "70390158",
+    "70390159",
+    "351301817",
+    "351301788",
+    "351301797",
+    "351301802",
+    "351301803",
+    "351301818",
+    "351301819",
+    "351301820",
+    "70390166",
+    "351301821",
+    "70390168",
+    "70390169",
+    "70390170",
+    "70390171",
+    "70390172",
+    "70390173",
+    "70390174",
+    "70392875",
+    "70392876",
+    "351301825",
+    "351301807",
+    "351301808",
+    "351301809",
+    "351301810",
+    "351301811",
+    "351301822",
+    "351301813",
+    "351301792",
+    "70392885",
+    "70392886",
+    "351301793",
+    "70392888",
+    "70392889",
+    "351301794",
+    "70392891",
+    "351301795",
+    "351301796",
+    "70392894",
+    "351301823",
+    "70392896",
+    "70392901"
+   ]
+  }
+ ],
+ "fragments": {
+  "70390127": {
+   "fragment_id": "70382000",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 70/2013\n\nde 30 de agosto\n\nEstabelece os regimes jurídicos do fundo de compensação do trabalho, do mecanismo equivalente e do fundo de garantia de compensação do trabalho\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70390128": {
+   "fragment_id": "70382001",
+   "type": 1,
+   "heading": "Capítulo I — Disposições iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições iniciais"
+  },
+  "70390129": {
+   "fragment_id": "70382002",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece os regimes jurídicos do fundo de compensação do trabalho (FCT), do mecanismo equivalente (ME) e do fundo de garantia de compensação do trabalho (FGCT)."
+  },
+  "70390130": {
+   "fragment_id": "70382003",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente lei é aplicável às relações de trabalho reguladas pelo Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, e alterado pelas Leis n.os 105/2009, de 14 de setembro, 53/2011, de 14 de outubro, 23/2012, de 25 de junho, e 47/2012, de 29 de agosto.\n\n2 - A presente lei aplica-se apenas aos contratos de trabalho celebrados após a sua entrada em vigor, tendo sempre por referência a antiguidade, contada a partir do momento da execução daqueles contratos.\n\n3 - As relações de trabalho emergentes de contratos de trabalho de muito curta duração, regulados no artigo 142.º do Código do Trabalho, estão excluídas do âmbito de aplicação da presente lei.\n\n4 - A referência, na presente lei, à compensação calculada nos termos do artigo 366.º do Código do Trabalho inclui todos os casos em que esta disposição resulte aplicável, diretamente ou por remissão legal, em caso de cessação do contrato de trabalho.\n\n5 - Ficam excluídas do âmbito de aplicação da presente lei as relações de trabalho com os serviços a que se referem os n.os 1 a 4 do artigo 3.º da Lei n.º 12-A/2008, de 27 de fevereiro, que estabelece os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66/2012, de 31 de dezembro, e 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 47/2013, de 5 de abril, incluindo os institutos públicos de regime especial.\n\n6 - As empresas de trabalho temporário ficam sujeitas ao regime previsto na presente lei, qualquer que seja a duração do contrato celebrado com trabalhador temporário.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto nos n.os 2, 3 e 6 do artigo 2.º, da Lei n.º 70/2013, de 30 de agosto, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O n.º 3 do artigo 2.º da Lei n.º 70/2013, de 30 de agosto, na redação dada pelo presente decreto-lei, entra em vigor no dia 26 de setembro de 2015."
+  },
+  "70390131": {
+   "fragment_id": "70382004",
+   "type": 1,
+   "heading": "Capítulo II — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições gerais"
+  },
+  "70390132": {
+   "fragment_id": "70382005",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza e finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza e finalidades\n\n1 - O FCT e o FGCT são fundos destinados a assegurar o direito dos trabalhadores ao recebimento efetivo de metade do valor da compensação devida por cessação do contrato de trabalho, calculada nos termos do artigo 366.º do Código do Trabalho.\n\n2 - O FCT e o FGCT são fundos autónomos, têm personalidade jurídica e não integram o perímetro de consolidação da segurança social nem o orçamento da segurança social.\n\n3 - O FCT e o FGCT são fundos de adesão individual e obrigatória, pelo empregador, podendo este, no entanto, aderir a ME, em alternativa à adesão ao FCT, nos termos do estabelecido no n.º 6 e no artigo 36.º\n\n4 - O FCT é um fundo de capitalização individual, que visa garantir o pagamento até metade do valor da compensação devida por cessação do contrato de trabalho, calculada nos termos do artigo 366.º do Código do Trabalho, e que responde até ao limite dos montantes entregues pelo empregador e eventual valorização positiva.\n\n5 - O FGCT é um fundo de natureza mutualista, que visa garantir o valor necessário à cobertura de metade do valor da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho, subtraído do montante já pago pelo empregador ao trabalhador.\n\n6 - O FGCT não responde por qualquer valor sempre que o empregador já tenha pago ao trabalhador valor igual ou superior a metade da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho.\n\n7 - O ME é um meio alternativo ao FCT, pelo qual o empregador fica vinculado a conceder ao trabalhador garantia igual à que resultaria da vinculação do empregador ao FCT, nos termos definidos no n.º 4."
+  },
+  "70390133": {
+   "fragment_id": "70382006",
+   "type": 11,
+   "heading": "Artigo 4.º — Património e valores afetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Património e valores afetos\n\n1 - O FCT e o FGCT têm património próprio e as entregas que são legalmente recebidas são valores a estes afetos, geridos pelas correspondentes entidades gestoras.\n\n2 - Na composição do património do FCT e do FGCT, as entidades gestoras devem ter em conta os objetivos e as finalidades a suportar pelos mesmos, assegurando a observância do princípio de dispersão de riscos, bem como a segurança, o rendimento e a liquidez das aplicações efetuadas.\n\n3 - O património do FCT e do FGCT deve ser constituído, nomeadamente, por depósitos bancários, valores mobiliários, instrumentos representativos de dívida de curto prazo, ou outros ativos de natureza monetária.\n\n4 - Os ativos referidos no número anterior estão sujeitos aos limites fixados nos respetivos regulamentos de gestão."
+  },
+  "70390134": {
+   "fragment_id": "70382007",
+   "type": 11,
+   "heading": "Artigo 5.º — Início, duração e extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Início, duração e extinção\n\n1 - O FCT e o FGCT iniciam a sua atividade, nos termos previstos na presente lei, na data da entrada em vigor dos respetivos regulamentos de gestão.\n\n2 - O FCT e o FGCT têm duração ilimitada.\n\n3 - O FCT e o FGCT extinguem-se quando, por qualquer causa, se esgotar o seu objeto, devendo proceder-se à liquidação do respetivo património."
+  },
+  "70390135": {
+   "fragment_id": "70382008",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime jurídico aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime jurídico aplicável\n\n1 - O FCT e o FGCT regem-se pelas regras previstas na presente lei, nos respetivos regulamentos de gestão e nos respetivos regulamentos internos.\n\n2 - A gestão financeira do FCT e do FGCT, incluindo a organização da sua contabilidade, rege-se pelas regras previstas nos respetivos regulamentos de gestão e regulamentos internos."
+  },
+  "70390136": {
+   "fragment_id": "70382009",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentos\n\n1 - Os regulamentos de gestão do FCT e do FGCT são elaborados pelo respetivo presidente do conselho de gestão e aprovados pelo respetivo conselho de gestão.\n\n2 - Os regulamentos de gestão do FCT e do FGCT contêm os elementos que caracterizam cada um dos fundos, designadamente:\n\na) Denominação, sede e funções da entidade gestora;\n\nb) Definição dos conceitos necessários ao adequado esclarecimento das condições de adesão;\n\nc) Políticas de investimento;\n\nd) Descrição dos critérios relativos a encargos a suportar;\n\ne) As regras e o método de cálculo do valor dos ativos.\n\n3 - O regulamento de gestão do FGCT deve ainda prever o seu valor global mínimo anual, para efeitos da alínea b) do n.º 1 do artigo 45.º, que nunca deve ser inferior ao custo dos valores pagos no ano anterior, acrescidos de 50 % do valor total remanescente, sem prejuízo do disposto no n.º 2 do artigo 45.º\n\n4 - Os regulamentos de gestão do FCT e do FGCT são publicados no Diário da República.\n\n5 - Os regulamentos internos do FCT e do FGCT são elaborados pelo presidente de cada conselho de gestão e sujeitos à aprovação do respetivo conselho de gestão."
+  },
+  "70390137": {
+   "fragment_id": "70382010",
+   "type": 11,
+   "heading": "Artigo 8.º — Adesão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Adesão\n\n1 - O empregador é obrigado a aderir ao FCT, salvo opção por adesão a ME.\n\n2 - A opção prevista no número anterior é efetuada em bloco, relativamente à totalidade dos trabalhadores ao serviço do respetivo empregador.\n\n3 - Com a celebração do primeiro contrato de trabalho abrangido pelo disposto na presente lei, e consequente comunicação de admissão do trabalhador ao FCT ou a ME, a adesão aos mesmos efetiva-se automaticamente, por via da inclusão do respetivo trabalhador naqueles.\n\n4 - O empregador deve incluir os trabalhadores no FCT ou em ME até à data do início de execução dos respetivos contratos de trabalho.\n\n5 - Após a celebração do primeiro contrato de trabalho abrangido pelo disposto na presente lei, o empregador procede à comunicação ao FCT e ao FGCT da admissão de novos trabalhadores, para efeitos da sua inclusão no FCT e no FGCT.\n\n6 - Com a adesão ao FCT é criada, pela entidade gestora, uma conta global, em nome do empregador, que prevê obrigatoriamente contas de registo individualizado, respeitantes a cada um dos seus trabalhadores.\n\n7 - A adesão ao FGCT opera de modo automático, com a adesão do empregador ao FCT ou a ME.\n\n8 - Sem prejuízo do disposto no número anterior, em caso de adesão a ME, a admissão de novos trabalhadores deve ser comunicada, pelo empregador, ao FGCT, até à data do início da execução dos respetivos contratos de trabalho.\n\n9 - Constitui contraordenação muito grave a violação do disposto nos n.os 1 a 5 e 8.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto n.os 5, 10 e 11 do artigo 8.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma."
+  },
+  "70390138": {
+   "fragment_id": "70382011",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação da adesão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cessação da adesão\n\nA adesão ao FCT e ao FGCT finda com a cessação da atividade do empregador no sistema de segurança social."
+  },
+  "70390139": {
+   "fragment_id": "70382012",
+   "type": 11,
+   "heading": "Artigo 10.º — Impenhorabilidade e intransmissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Impenhorabilidade e intransmissibilidade\n\nSalvo nos casos previstos na presente lei, o saldo da conta global do empregador no FCT, incluindo a totalidade do saldo das contas de registo individualizado, respeitantes a cada um dos seus trabalhadores, é intransmissível e impenhorável."
+  },
+  "70390140": {
+   "fragment_id": "70382013",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigação de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigação de pagamento\n\n1 - A adesão ao FCT determina, para o empregador, a obrigatoriedade do pagamento das respetivas entregas.\n\n2 - A adesão ao FCT ou a ME determina, para o empregador, a obrigatoriedade do pagamento de entregas para o FGCT.\n\n3 - As entregas a que se referem os números anteriores são devidas a partir do momento em que se inicia a execução de cada contrato de trabalho e até à sua cessação, salvo nos períodos em que inexista contagem de antiguidade.\n\n4 - No início da execução de cada contrato de trabalho o empregador deve declarar ao FGCT e, quando aplicável, ao FCT o valor da retribuição base do trabalhador, devendo esta declaração ser objeto de atualização sempre que se verifiquem alterações do seu montante ou das diuturnidades a que o trabalhador venha a ter direito.\n\n5 - Constitui contraordenação muito grave a violação do disposto nos n.os 3 e 4, no que respeita à falta de declaração inicial do valor da retribuição base do trabalhador.\n\n6 - Constitui contraordenação grave a violação do disposto no n.º 4, no que respeita à comunicação de atualização, sempre que devida.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 4 do artigo 11.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma."
+  },
+  "70390141": {
+   "fragment_id": "70382014",
+   "type": 11,
+   "heading": "Artigo 12.º — Montante das entregas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Montante das entregas\n\n1 - O valor das entregas da responsabilidade do empregador para o FCT corresponde a 0,925 % da retribuição base e diuturnidades devidas a cada trabalhador abrangido.\n\n2 - O valor das entregas da responsabilidade do empregador para o FGCT corresponde a 0,075 % da retribuição base e diuturnidades devidas a cada trabalhador abrangido pelo FCT ou ME."
+  },
+  "70390142": {
+   "fragment_id": "70382015",
+   "type": 11,
+   "heading": "Artigo 13.º — Formas de pagamento das entregas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Formas de pagamento das entregas\n\n1 - O pagamento das entregas ao FCT e ao FGCT é efetuado nos termos e através dos meios eletrónicos que forem definidos na portaria prevista no n.º 1 do artigo 59.º da presente lei.\n\n2 - As entregas são pagas 12 vezes por ano, mensalmente, nos prazos previstos para o pagamento de contribuições e quotizações à segurança social e respeitam a 12 retribuições base mensais e diuturnidades, por cada trabalhador.\n\n3 - Constitui contraordenação grave a violação do disposto no número anterior."
+  },
+  "70390143": {
+   "fragment_id": "70382016",
+   "type": 11,
+   "heading": "Artigo 14.º — Acionamento indevido do fundo de compensação do trabalho e do fundo de garantia de compensação do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acionamento indevido do fundo de compensação do trabalho e do fundo de garantia de compensação do trabalho\n\nQualquer comportamento, do empregador ou do trabalhador, conducente ao acionamento do FCT ou do FGCT fora das condições e fins previstos na presente lei determina a recusa de pagamento dos valores requeridos."
+  },
+  "70390144": {
+   "fragment_id": "70382017",
+   "type": 11,
+   "heading": "Artigo 15.º — Admissibilidade de transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Admissibilidade de transferência\n\n1 - A adesão ao FCT ou a ME não impede posterior transferência da totalidade dos trabalhadores ao serviço do empregador para ME ou FCT, respetivamente, contanto que tal transferência não prejudique, em caso algum, as garantias já conferidas e os valores já assegurados aos trabalhadores no que respeita ao período que antecede a transferência.\n\n2 - Em todas as situações previstas no Código do Trabalho, em que opere, a qualquer título, a transmissão da posição contratual do empregador a terceiro, por violação de normas legais, o empregador originário deve transferir para o novo empregador o saldo da conta de registo individualizado do respetivo trabalhador, incluindo a eventual valorização positiva.\n\n3 - Se, no caso previsto no número anterior, o trabalhador estiver incluído em ME, da referida transmissão para FCT ou para outro ME não pode resultar qualquer redução das garantias conferidas ao trabalhador pela presente lei.\n\n4 - Nos casos referidos nos n.os 2 e 3, tem aplicação o disposto nos n.os 2 a 7 do artigo seguinte, com as necessárias adaptações.\n\n5 - Constitui contraordenação muito grave a violação do disposto na parte final do n.º 1 e nos n.os 2 e 3."
+  },
+  "70390145": {
+   "fragment_id": "70382018",
+   "type": 11,
+   "heading": "Artigo 16.º — Transmissão de empresa ou de estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transmissão de empresa ou de estabelecimento\n\n1 - Em caso de transmissão, por qualquer título, da titularidade de empresa ou de estabelecimento ou ainda de parte de empresa ou de estabelecimento que constitua uma unidade económica, nos termos do artigo 285.º do Código do Trabalho, o transmissário assume a titularidade da conta global que pertencia ao transmitente.\n\n2 - Sempre que a transmissão referida no número anterior imponha que o transmitente mantenha a titularidade da conta global relativamente a trabalhadores não abrangidos pela transmissão, o saldo da conta de registo individualizado dos trabalhadores incluídos na transmissão, incluindo a eventual valorização positiva, deve ser transmitido para a conta global do transmissário, já existente à data da transmissão.\n\n3 - Se, no caso previsto no número anterior, o transmissário não dispuser ainda de conta global no FCT, a mesma deve ser constituída, por adesão do transmissário àquele, aplicando-se, com as necessárias adaptações, o previsto no artigo 8.º\n\n4 - A obrigação de adesão ao FCT referida no número anterior não é aplicável se o transmissário optar pela inclusão dos trabalhadores objeto da transmissão em ME.\n\n5 - Caso os trabalhadores se encontrem, à data da transmissão, incluídos em ME, a transmissão para o FCT ou para outro ME não pode, em caso algum, prejudicar as garantias já conferidas aos trabalhadores no que respeita ao período que antecede a transferência.\n\n6 - Se nos casos referidos nos n.os 1 a 3 e 5 resultar a vinculação do novo empregador ao FCT e a um ou mais mecanismos equivalentes, deve aquele, no prazo de seis meses, optar por uma destas alternativas.\n\n7 - O previsto na presente disposição não pode, em caso algum, prejudicar as garantias já conferidas aos trabalhadores no que respeita ao período que antecede a transferência.\n\n8 - Constitui contraordenação muito grave a violação do disposto nos n.os 1, 3 e 5 a 7 e no n.º 2, quanto ao transmitente.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 1 do artigo 16.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma."
+  },
+  "70390146": {
+   "fragment_id": "70382019",
+   "type": 11,
+   "heading": "Artigo 17.º — Despedimento ilícito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Despedimento ilícito\n\n1 - No seguimento de decisão judicial que, em caso de despedimento ilícito, imponha a reintegração do trabalhador, o empregador fica obrigado, no prazo de 30 dias contados a partir da data do trânsito em julgado daquela decisão, a nova inclusão do trabalhador no FCT e à consequente reposição do saldo da conta do registo individualizado do trabalhador à data do despedimento e às entregas que deixou de efetuar, relativamente a tal trabalhador, desde esta data.\n\n2 - O disposto do número anterior é aplicável, com as necessárias adaptações, ao FGCT e a ME.\n\n3 - No seguimento de decisão judicial transitada em julgado que declare o despedimento ilícito, caso o FGCT tenha sido acionado para pagamento de parte da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho, o trabalhador deve, no prazo de 30 dias, devolver ao FGCT os valores que por este tenham sido adiantados.\n\n4 - A devolução referida no número anterior pode ser efetuada pelo montante global da dívida ou em prestações, mediante acordo, a celebrar com o FGCT, nos termos e nas condições aprovados por deliberação do respetivo conselho de gestão.\n\n5 - Após o recebimento dos montantes referidos no n.º 3, o FGCT deve devolvê-los, no prazo de 15 dias, nas devidas proporções, ao FCT ou ao empregador, se aplicável.\n\n6 - Constitui contraordenação muito grave a violação do disposto nos n.os 1 a 3."
+  },
+  "70390147": {
+   "fragment_id": "70382020",
+   "type": 11,
+   "heading": "Artigo 18.º — Entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entidades gestoras\n\n1 - Os respetivos conselhos de gestão do FCT e do FGCT têm as competências previstas nos artigos 22.º e 38.º\n\n2 - As entidades gestoras do FCT e do FGCT são, respetivamente, o Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P. (IGFCSS, I. P.), e o Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.)\n\n3 - São atribuições gerais das entidades gestoras do FCT e do FGCT, designadamente:\n\na) Gerir o investimento, praticando os atos e operações necessários à boa concretização da política de investimento, nomeadamente:\n\ni) Selecionar os ativos;\n\nii) Adquirir e alienar os ativos, cumprindo as formalidades necessárias para a válida e regular transmissão dos mesmos;\n\niii) Exercer os direitos relacionados com os ativos;\n\nb) Administrar o FCT e o FGCT e valores a estes afetos, nomeadamente:\n\ni) Assegurar os serviços jurídicos e de contabilidade necessários à gestão dos fundos;\n\nii) Esclarecer e analisar as questões e reclamações;\n\niii) Cumprir e controlar a observância das normas aplicáveis, do regulamento de gestão, do regulamento interno e dos contratos celebrados no âmbito da atividade do FCT e do FGCT;\n\niv) Efetuar os procedimentos de liquidação e de compensação;\n\nv) Conservar documentos.\n\n4 - O IGFCSS, I. P., assegura ainda o funcionamento do FCT, celebrando, para o efeito, protocolos com o Instituto da Segurança Social, I. P. (ISS, I. P.), ou com as instituições de segurança social competentes das regiões autónomas.\n\n5 - O IGFSS, I. P., assegura ainda o funcionamento do FGCT, celebrando, para o efeito, protocolos com o ISS, I. P., ou com as instituições de segurança social competentes das regiões autónomas.\n\n6 - A gestão económica e financeira do FCT e do FGCT é disciplinada pelos respetivos planos de atividades, orçamentos, relatórios de contas e balanços anuais."
+  },
+  "70390148": {
+   "fragment_id": "70382021",
+   "type": 11,
+   "heading": "Artigo 19.º — Política de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Política de investimento\n\nA política de investimento do FCT e do FGCT, especificando os princípios aplicáveis em matéria de definição, implementação e controlo da mesma, encontra-se definida nos respetivos regulamentos de gestão."
+  },
+  "70390149": {
+   "fragment_id": "70382022",
+   "type": 11,
+   "heading": "Artigo 20.º — Despesas de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Despesas de funcionamento\n\n1 - As despesas de funcionamento do FCT e do FGCT apenas são cobertas por dedução aos rendimentos obtidos com a aplicação de capitais, não podendo essas deduções ultrapassar 25 % do rendimento gerado.\n\n2 - Em virtude de os custos iniciais de investimento poderem ser insuscetíveis de cobertura pelo valor disponibilizado para custear as despesas de funcionamento, pode o conselho de gestão, no terceiro ano de vigência dos respetivos fundos, aprovar acerto de contas, atendendo aos custos apurados e não cobertos até então."
+  },
+  "70390150": {
+   "fragment_id": "70382023",
+   "type": 1,
+   "heading": "Capítulo III — Fundo de Compensação do Trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fundo de Compensação do Trabalho"
+  },
+  "70390151": {
+   "fragment_id": "70382024",
+   "type": 11,
+   "heading": "Artigo 21.º — Conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Conselho de gestão\n\n1 - O FCT é gerido por um conselho de gestão composto por um presidente e 11 vogais.\n\n2 - O conselho de gestão integra:\n\na) O presidente do IGFCSS, I. P., que preside;\n\nb) Um representante designado pelo membro do Governo responsável pela área das finanças;\n\nc) Um representante designado pelo membro do Governo responsável pela área laboral;\n\nd) Um representante designado pelo membro do Governo responsável pela área da segurança social;\n\ne) Um representante de cada uma das confederações de empregadores com assento na Comissão Permanente de Concertação Social;\n\nf) Dois representantes de cada uma das confederações sindicais com assento na Comissão Permanente de Concertação Social.\n\n3 - Por cada membro efetivo é também designado um membro suplente.\n\n4 - Cabe às entidades indicadas no n.º 2 designar os respetivos representantes.\n\n5 - O presidente do conselho de gestão tem voto de qualidade.\n\n6 - A organização e o funcionamento do conselho de gestão regem-se pelo disposto no regulamento interno.\n\n7 - O presidente do IGFCSS, I. P., e os representantes designados pelos membros do Governo, bem como os seus suplentes, não são remunerados pelo exercício de funções como membros do conselho de gestão."
+  },
+  "70390152": {
+   "fragment_id": "70382025",
+   "type": 11,
+   "heading": "Artigo 22.º — Competências do conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competências do conselho de gestão\n\nCompete ao conselho de gestão:\n\na) A aprovação do plano de atividades e do orçamento;\n\nb) A aprovação do relatório de atividades e do relatório de contas e balanço anuais;\n\nc) Acompanhar as atividades do FCT, apresentando ao presidente propostas, sugestões, recomendações ou pedidos de esclarecimento que entender convenientes, bem como propor a adoção de medidas que julgue necessárias à realização dos seus fins;\n\nd) Aprovar o regulamento de gestão do FCT, devendo o mesmo ser publicado no Diário da República;\n\ne) Aprovar o regulamento interno do FCT, que deve ser publicitado no sítio na Internet."
+  },
+  "70390153": {
+   "fragment_id": "70382026",
+   "type": 11,
+   "heading": "Artigo 23.º — Reuniões do conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reuniões do conselho de gestão\n\n1 - O conselho de gestão reúne ordinariamente uma vez por mês e extraordinariamente sempre que o respetivo presidente o convoque, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n2 - Os membros do conselho de gestão podem delegar o seu voto dentro de cada representação."
+  },
+  "70390154": {
+   "fragment_id": "70382027",
+   "type": 11,
+   "heading": "Artigo 24.º — Competências do presidente do conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Competências do presidente do conselho de gestão\n\n1 - Compete ao presidente do conselho de gestão:\n\na) Dirigir a atividade do FCT, assegurando o desenvolvimento das suas atribuições;\n\nb) Gerir os recursos financeiros do FCT;\n\nc) Emitir as diretrizes de natureza interna adequadas ao bom funcionamento do FCT;\n\nd) Elaborar o regulamento interno necessário à organização e ao funcionamento do FCT, bem com o regulamento de gestão, submetendo-os à apreciação e aprovação do conselho de gestão;\n\ne) Executar e implementar, no âmbito da sua autonomia funcional, as orientações, as sugestões e as deliberações do conselho de gestão;\n\nf) Elaborar relatórios mensais da atividade desenvolvida, que incluam informação sobre o volume de solicitações, questões e reclamações apresentadas, o sentido das decisões, sobre as diligências de recuperação de créditos em curso, bem como informação referente às receitas arrecadadas e às despesas efetuadas, submetendo-os à apreciação do conselho de gestão;\n\ng) Elaborar o plano anual de atividades e o orçamento anual e submetê-los à apreciação e aprovação do conselho de gestão;\n\nh) Elaborar o relatório anual de atividades e o relatório de contas e balanço de cada exercício e submetê-los à apreciação e aprovação do conselho de gestão;\n\ni) Assegurar a representação do FCT em juízo ou fora dele, bem como conferir mandato para esse efeito;\n\nj) Autorizar despesas com a aquisição, alienação ou locação de bens e serviços e a realização de empreitadas, dentro dos limites fixados por lei e de acordo com o previsto no plano e no orçamento;\n\nk) Estabelecer relações com as instituições do sistema bancário;\n\nl) Assegurar o pagamento dos valores devidos aos empregadores;\n\nm) Exercer as demais competências que lhe sejam delegadas ou subdelegadas pelo conselho de gestão.\n\n2 - Nas suas ausências e impedimentos, o presidente é substituído por quem o conselho de gestão indicar.\n\n3 - Os documentos previstos nas alíneas f), g) e h) do n.º 1 devem ser publicitados no sítio na Internet."
+  },
+  "70390155": {
+   "fragment_id": "70382028",
+   "type": 11,
+   "heading": "Artigo 25.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Fiscal único\n\n1 - O fiscal único é designado, de entre revisores oficiais de contas, pelo conselho de gestão, do qual deve constar ainda a designação do fiscal suplente.\n\n2 - Os mandatos do fiscal único e do fiscal suplente têm a duração de três anos, podendo ser renovados por iguais períodos de tempo.\n\n3 - A remuneração do fiscal único é definida pelo conselho de gestão."
+  },
+  "70390156": {
+   "fragment_id": "70382029",
+   "type": 11,
+   "heading": "Artigo 26.º — Competências do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competências do fiscal único\n\nCompete ao fiscal único:\n\na) Acompanhar a gestão financeira do FCT;\n\nb) Emitir parecer sobre o orçamento, o plano anual de atividades, o relatório de contas e o balanço anuais;\n\nc) Fiscalizar a execução da contabilidade do FCT e o cumprimento dos normativos aplicáveis, informando o conselho de gestão de qualquer anomalia detetada;\n\nd) Fiscalizar a eficácia do sistema de gestão de riscos e do sistema de controlo interno;\n\ne) Solicitar ao conselho de gestão reuniões conjuntas quando, no âmbito das suas competências, o entender;\n\nf) Pronunciar-se sobre qualquer assunto de interesse para o FCT que seja submetido à sua apreciação pelo presidente do conselho de gestão;\n\ng) Elaborar relatórios trimestrais e relatório anual sobre a ação fiscalizadora exercida;\n\nh) Acompanhar as operações de satisfação de créditos dos empregadores e respetiva recuperação desenvolvidas pelo FCT."
+  },
+  "70390157": {
+   "fragment_id": "70382030",
+   "type": 11,
+   "heading": "Artigo 27.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Vinculação\n\n1 - O FCT obriga-se pela assinatura do presidente do conselho de gestão e de um dos outros membros do conselho de gestão, a definir no regulamento de gestão.\n\n2 - Os atos de mero expediente de que não resultem obrigações para o FCT podem ser assinados por aquele a quem tal poder tenha sido expressamente conferido pelo conselho de gestão."
+  },
+  "70390158": {
+   "fragment_id": "70382031",
+   "type": 11,
+   "heading": "Artigo 28.º — Receitas do fundo de compensação do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Receitas do fundo de compensação do trabalho\n\nConstituem receitas do FCT:\n\na) As entregas;\n\nb) Os proveitos derivados dos investimentos realizados;\n\nc) Os montantes resultantes das cobranças coercivas, respeitantes ao FCT, deduzidas as custas;\n\nd) As transferências dos excedentes dos saldos anuais do FGCT, quando a elas haja lugar;\n\ne) Outras receitas decorrentes da gestão do fundo."
+  },
+  "70390159": {
+   "fragment_id": "70382032",
+   "type": 11,
+   "heading": "Artigo 29.º — Despesas do fundo de compensação do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Despesas do fundo de compensação do trabalho\n\nConstituem despesas do FCT:\n\na) Os valores dos reembolsos pagos;\n\nb) As despesas de administração e de gestão;\n\nc) Outras despesas previstas no respetivo regulamento de gestão;\n\nd) Valores pagos ao FGCT."
+  },
+  "70390160": {
+   "fragment_id": "70382033",
+   "type": 11,
+   "heading": "Artigo 30.º — Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Contas\n\n1 - O montante das entregas é mensalmente creditado na conta global do empregador e alocado às contas de registo individualizado de cada trabalhador.\n\n2 - O saldo das contas de registo individualizado de cada trabalhador é, em cada momento, o resultado da valorização dos montantes alocados às mesmas, nos termos do respetivo regulamento de gestão, bem como da distribuição dos eventuais excedentes provenientes do FGCT."
+  },
+  "70390161": {
+   "fragment_id": "70382034",
+   "type": 11,
+   "heading": "Artigo 31.º — Saldo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Saldo\n\nO saldo global da conta do empregador traduz, em cada momento, o somatório do valor apurado em cada uma das contas de registo individualizado de cada trabalhador."
+  },
+  "70390162": {
+   "fragment_id": "70382035",
+   "type": 11,
+   "heading": "Artigo 32.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Informação\n\nA entidade gestora deve disponibilizar ao empregador, através de sítio na Internet, informação atualizada sobre o montante das entregas feitas e a valorização da conta do empregador e respetivas contas de registo individualizado de cada trabalhador, relativamente aos 12 meses anteriores."
+  },
+  "70390163": {
+   "fragment_id": "70382036",
+   "type": 11,
+   "heading": "Artigo 33.º — Pagamento ao trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Pagamento ao trabalhador\n\n1 - Em caso de cessação de contrato de trabalho que origine o direito à compensação calculada nos termos do artigo 366.º do Código do Trabalho, o empregador paga ao trabalhador a totalidade do valor da compensação, nos termos e nas condições previstas no Código do Trabalho, sem prejuízo do direito ao reembolso previsto no artigo seguinte.\n\n2 - Sempre que o empregador não efetue, total ou parcialmente, o pagamento previsto no número anterior, pode o trabalhador acionar o FGCT, pelo valor necessário à cobertura de metade do valor da compensação devida por cessação do contrato de trabalho, calculada nos termos do artigo 366.º do Código do Trabalho, subtraído do montante já pago pelo empregador ao trabalhador, nos termos dos artigos 46.º a 49.º da presente lei.\n\n3 - O FGCT não responde por qualquer valor sempre que o empregador já tenha pago ao trabalhador valor igual ou superior a metade da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho."
+  },
+  "70390164": {
+   "fragment_id": "70382037",
+   "type": 11,
+   "heading": "Artigo 34.º — Direito ao reembolso por parte do empregador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Direito ao reembolso por parte do empregador\n\n1 - Em qualquer caso de cessação do contrato de trabalho o empregador pode solicitar ao FCT, com uma antecedência máxima de 20 dias relativamente à data da cessação do contrato de trabalho, o reembolso do saldo da conta de registo individualizado do respetivo trabalhador, incluindo a eventual valorização positiva.\n\n2 - O reembolso previsto no número anterior deve ser efetuado pelo FCT ao empregador no prazo de máximo de 10 dias a contar da data do pedido de reembolso.\n\n3 - Caso a cessação do contrato de trabalho não determine a obrigação de pagamento de compensação calculada nos termos do artigo 366.º do Código do Trabalho, o valor reembolsado pelo FCT reverte para o empregador.\n\n4 - O FCT comunica à Autoridade para as Condições do Trabalho (ACT) e ao FGCT o reembolso efetuado nos termos dos números anteriores, no prazo máximo de quatro dias a contar da realização do mesmo.\n\n5 - Sem prejuízo do disposto no n.º 1 do artigo 17.º, sempre que, após apresentação de pedido de reembolso, pelo empregador ao FCT, a cessação do contrato de trabalho não venha a ocorrer, deve o empregador devolver ao FCT o valor reembolsado no prazo de 10 dias contados a partir da não verificação da cessação do contrato de trabalho.\n\n6 - Constitui contraordenação muito grave a não entrega, total ou parcial, pelo empregador ao trabalhador, em prazo igual ou inferior ao estabelecido no n.º 2 do artigo 56.º, do valor reembolsado pelo FCT, por conta da obrigação de pagamento de compensação calculada nos termos do artigo 366.º do Código do Trabalho.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 7 do artigo 34.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma. O disposto no n.º 8 do artigo 34.º da Lei n.º 70/2013, de 30 de agosto, com a redação dada pelo presente decreto-lei, apenas se aplica aos contratos de trabalho que cessem após a data da entrada em vigor do presente diploma."
+  },
+  "70390165": {
+   "fragment_id": "70382038",
+   "type": 11,
+   "heading": "Artigo 35.º — Incumprimento da entrega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Incumprimento da entrega\n\n1 - A falta de pagamento da entrega mensal devida ao FCT pelo empregador determina a não capitalização do respetivo montante em falta durante o período de incumprimento e a imputação na conta do empregador das despesas inerentes ao procedimento de regularização, bem como das despesas administrativas de manutenção da conta, nos termos descritos no regulamento de gestão.\n\n2 - Verificado o incumprimento, o empregador é notificado pela entidade gestora para proceder à respetiva regularização, constando da notificação as consequências do incumprimento estabelecidas no número anterior.\n\n3 - A falta de regularização voluntária dos valores devidos ao FCT determina a constituição de dívida, nos termos e para os efeitos do capítulo vi, sem prejuízo da contraordenação prevista no n.º 5 do artigo 11.º, na parte que respeita ao disposto no n.º 3 daquela disposição."
+  },
+  "70390166": {
+   "fragment_id": "70382039",
+   "type": 1,
+   "heading": "Capítulo IV — Mecanismo equivalente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Mecanismo equivalente"
+  },
+  "70390167": {
+   "fragment_id": "70382040",
+   "type": 11,
+   "heading": "Artigo 36.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Regime\n\n1 - Em alternativa ao FCT pode o empregador optar por ME, pelo qual o empregador fica vinculado a conceder ao trabalhador garantia igual à que resultaria da sua vinculação ao FCT.\n\n2 - Caso opte pelo ME, o empregador fica obrigado a subscrevê-lo e a mantê-lo em vigor desde o início da execução do contrato de trabalho até à cessação do mesmo, conferindo, por esta via, ao trabalhador a garantia prevista no número anterior, sem prejuízo do disposto nos números seguintes.\n\n3 - Sem prejuízo do disposto no n.º 2 do artigo 8.º, o empregador pode optar por aderir a diferentes mecanismos equivalentes relativamente aos seus trabalhadores desde que de tal não resulte prática discriminatória em relação a qualquer trabalhador.\n\n4 - O empregador pode transferir as obrigações garantidas por um ME para outro desde que de tal alteração não resulte qualquer prejuízo relativamente à cobertura garantida pelo ME inicial.\n\n5 - Na eventualidade de o ME, ainda que respeitando o disposto no n.º 1 do presente artigo, não assegurar a cobertura de montante correspondente a metade da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho, pode o trabalhador acionar o FGCT pelo valor necessário à cobertura de metade do valor daquela, subtraído do montante já pago pelo empregador ao trabalhador.\n\n6 - O FGCT não responde por qualquer valor sempre que o empregador já tenha pago ao trabalhador valor igual ou superior a metade da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho.\n\n7 - O ME apenas pode ser constituído pelo empregador junto de instituições sujeitas a supervisão do Banco de Portugal ou do Instituto de Seguros de Portugal desde que estejam legalmente autorizadas a exercer a gestão e comercialização desse instrumento, o qual deve ser identificado como ME.\n\n8 - No caso das empresas de trabalho temporário, não constitui ME a caução prevista no artigo 7.º do Decreto-Lei n.º 260/2009, de 25 de setembro.\n\n9 - O ME está sujeito a prévia comunicação às respetivas entidades competentes, tal qual referidas no n.º 7, que devem emitir parecer expresso de conformidade de tal instrumento com os objetivos e os interesses visados proteger, na presente lei, com o FCT.\n\n10 - Ao ME aplica-se, com as necessárias adaptações, o regime do FCT, em tudo o que não for incompatível com o disposto no presente capítulo.\n\n11 - Constitui contraordenação muito grave a violação do disposto no n.º 2, na parte final do n.º 3, na parte final do n.º 4 e a comunicação prévia prevista no n.º 9.\n\n12 - Constitui contraordenação muito grave a não entrega, total ou parcial, pelo empregador ao trabalhador, em prazo igual ou inferior ao estabelecido no n.º 2 do artigo 56.º, do valor reembolsado por ME, por conta da obrigação de pagamento de compensação calculada nos termos do artigo 366.º do Código do Trabalho."
+  },
+  "70390168": {
+   "fragment_id": "70382041",
+   "type": 1,
+   "heading": "Capítulo V — Fundo de Garantia de Compensação do Trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fundo de Garantia de Compensação do Trabalho"
+  },
+  "70390169": {
+   "fragment_id": "70382042",
+   "type": 11,
+   "heading": "Artigo 37.º — Conselho de gestão do fundo de garantia de compensação do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Conselho de gestão do fundo de garantia de compensação do trabalho\n\n1 - O FGCT é gerido por um conselho de gestão composto por um presidente e 11 vogais.\n\n2 - O conselho de gestão integra:\n\na) O presidente do IGFSS, I. P., que preside;\n\nb) Um representante designado pelo membro do Governo responsável pela área das finanças;\n\nc) Um representante designado pelo membro do Governo responsável pela área laboral;\n\nd) Um representante designado pelo membro do Governo responsável pela área da segurança social;\n\ne) Um representante de cada uma das confederações de empregadores com assento na Comissão Permanente de Concertação Social;\n\nf) Dois representantes de cada uma das confederações sindicais com assento na Comissão Permanente de Concertação Social.\n\n3 - Por cada membro efetivo é, também, designado um membro suplente.\n\n4 - Cabe às entidades indicadas no n.º 2 designar os respetivos representantes.\n\n5 - O presidente do conselho de gestão tem voto de qualidade.\n\n6 - A organização e o funcionamento do conselho de gestão regem-se pelo disposto no regulamento interno.\n\n7 - O presidente do IGFSS, I. P., e os representantes designados pelos membros do Governo, bem como os seus suplentes, não são remunerados pelo exercício de funções como membros do conselho de gestão."
+  },
+  "70390170": {
+   "fragment_id": "70382043",
+   "type": 11,
+   "heading": "Artigo 38.º — Competências do conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competências do conselho de gestão\n\n1 - Compete ao conselho de gestão:\n\na) A aprovação do plano de atividades e do orçamento;\n\nb) A aprovação do relatório de atividades e do relatório de contas e balanço anuais;\n\nc) Acompanhar as atividades do FGCT, apresentando ao presidente propostas, sugestões, recomendações ou pedidos de esclarecimento que entender convenientes, bem como propor a adoção de medidas que julgue necessárias à realização dos seus fins;\n\nd) Aprovar o regulamento de gestão do FGCT, devendo o mesmo ser publicado no Diário da República;\n\ne) Aprovar o regulamento interno do FGCT, que deve ser publicitado no sítio na Internet.\n\n2 - O conselho de gestão do FGCT pode ainda solicitar aos mecanismos equivalentes toda e qualquer informação que entenda essencial ao regular funcionamento do FGCT, devendo aqueles prestar tais esclarecimentos no prazo máximo de cinco dias."
+  },
+  "70390171": {
+   "fragment_id": "70382044",
+   "type": 11,
+   "heading": "Artigo 39.º — Reuniões do conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Reuniões do conselho de gestão\n\n1 - O conselho de gestão reúne ordinariamente uma vez por mês e extraordinariamente sempre que o respetivo presidente o convoque, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n2 - Os membros do conselho de gestão podem delegar o seu voto dentro de cada representação."
+  },
+  "70390172": {
+   "fragment_id": "70382045",
+   "type": 11,
+   "heading": "Artigo 40.º — Competências do presidente do conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Competências do presidente do conselho de gestão\n\n1 - Compete ao presidente do conselho de gestão:\n\na) Dirigir a atividade do FGCT, assegurando o desenvolvimento das suas atribuições;\n\nb) Gerir os recursos financeiros do FGCT;\n\nc) Emitir as diretrizes de natureza interna adequadas ao bom funcionamento do FGCT;\n\nd) Elaborar o regulamento interno necessário à organização e ao funcionamento do FGCT, bem como o regulamento de gestão, submetendo-os à apreciação e aprovação do conselho de gestão;\n\ne) Executar e implementar, no âmbito da sua autonomia funcional, as orientações, as sugestões e as deliberações formuladas pelo conselho de gestão;\n\nf) Elaborar relatórios mensais da atividade desenvolvida, que incluam informação sobre o volume de requerimentos apresentados, o sentido das decisões, o volume e a duração das pendências, bem como informação referente às receitas arrecadadas e às despesas efetuadas, submetendo-os à apreciação do conselho de gestão;\n\ng) Elaborar o plano anual de atividades e o orçamento anual e submetê-los à apreciação e aprovação do conselho de gestão;\n\nh) Elaborar o relatório anual de atividades e o relatório de contas e balanço de cada exercício e submetê-los à apreciação e aprovação do conselho de gestão;\n\ni) Assegurar a representação do FGCT, em juízo ou fora dele, bem como conferir mandato para esse efeito;\n\nj) Autorizar despesas com a aquisição, a alienação ou a locação de bens e serviços e a realização de empreitadas, dentro dos limites fixados por lei;\n\nk) Estabelecer relações com as instituições do sistema bancário;\n\nl) Assegurar o pagamento dos valores reclamados;\n\nm) Promover a recuperação dos créditos em que ficar sub-rogado por via da sua satisfação aos trabalhadores, desenvolvendo todas as diligências judiciais e extrajudiciais adequadas a tal fim;\n\nn) Exercer as demais competências que lhe sejam delegadas ou subdelegadas pelo conselho de gestão.\n\n2 - Nas suas ausências e impedimentos, o presidente é substituído por quem o conselho de gestão indicar."
+  },
+  "70390173": {
+   "fragment_id": "70382046",
+   "type": 11,
+   "heading": "Artigo 41.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Fiscal único\n\n1 - O fiscal único é designado, de entre revisores oficiais de contas, pelo conselho de gestão, do qual deve constar ainda a designação do fiscal suplente.\n\n2 - Os mandatos do fiscal único e do fiscal suplente têm a duração de três anos, podendo ser renovados por iguais períodos de tempo.\n\n3 - A remuneração do fiscal único é definida pelo conselho de gestão."
+  },
+  "70390174": {
+   "fragment_id": "70382047",
+   "type": 11,
+   "heading": "Artigo 42.º — Competências do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Competências do fiscal único\n\nCompete ao fiscal único:\n\na) Acompanhar a gestão financeira do FGCT;\n\nb) Emitir parecer sobre o orçamento, o plano anual de atividades, o relatório de contas e o balanço anuais;\n\nc) Fiscalizar a execução da contabilidade do FGCT e o cumprimento dos normativos aplicáveis, informando o conselho de gestão de qualquer anomalia detetada;\n\nd) Fiscalizar a eficácia do sistema de gestão de riscos e do sistema de controlo interno;\n\ne) Solicitar ao conselho de gestão reuniões conjuntas quando, no âmbito das suas competências, o entender;\n\nf) Pronunciar-se sobre qualquer assunto de interesse para o FGCT que seja submetido à sua apreciação pelo presidente do conselho de gestão;\n\ng) Elaborar relatórios trimestrais e relatório anual sobre a ação fiscalizadora exercida;\n\nh) Acompanhar as operações de satisfação de valores reclamados pelos trabalhadores e respetiva recuperação desenvolvidas pelo FGCT."
+  },
+  "70392875": {
+   "fragment_id": "70382048",
+   "type": 11,
+   "heading": "Artigo 43.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Vinculação\n\n1 - O FGCT obriga-se pela assinatura do presidente do conselho de gestão e de um dos outros membros do conselho de gestão, a definir no regulamento de gestão.\n\n2 - Os atos de mero expediente de que não resultem obrigações para o FGCT podem ser assinados por aquele a quem tal poder tenha sido expressamente conferido pelo conselho de gestão."
+  },
+  "70392876": {
+   "fragment_id": "70382049",
+   "type": 11,
+   "heading": "Artigo 44.º — Receitas do fundo de garantia de compensação do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Receitas do fundo de garantia de compensação do trabalho\n\nConstituem receitas do FGCT:\n\na) As entregas;\n\nb) Os proveitos derivados dos investimentos realizados;\n\nc) Os montantes resultantes das cobranças coercivas, respeitantes ao FGCT, deduzidas as custas;\n\nd) O valor das contraordenações cobradas no âmbito da presente lei, sem prejuízo do disposto no artigo 54.º;\n\ne) Outras receitas decorrentes da gestão do fundo;\n\nf) A receita gerada por juros de mora decorrentes de situações de incumprimento."
+  },
+  "70392877": {
+   "fragment_id": "70382050",
+   "type": 11,
+   "heading": "Artigo 45.º — Despesas do fundo de garantia de compensação do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Despesas do fundo de garantia de compensação do trabalho\n\n1 - Constituem despesas do FGCT:\n\na) Os valores pagos a título de compensação;\n\nb) As transferências do FGCT para o FCT, e para mecanismos equivalentes, de 50 % dos saldos anuais excedentários do fundo previstos no regulamento de gestão;\n\nc) As despesas de administração e de gestão;\n\nd) Outras despesas relacionadas com o Fundo e previstas no respetivo regulamento de gestão.\n\n2 - As transferências de saldos anuais do FGCT para o FCT, e para mecanismos equivalentes, previstas na alínea b) do número anterior só têm lugar decorridos três anos após a constituição do FGCT, excetuando verificação antecipada de saldos sustentáveis."
+  },
+  "70392878": {
+   "fragment_id": "70382051",
+   "type": 11,
+   "heading": "Artigo 46.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Procedimento\n\n1 - O trabalhador pode requerer ao FGCT o valor necessário à cobertura de metade do valor da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho, subtraído do montante já pago pelo empregador ao trabalhador.\n\n2 - O FGCT não responde por qualquer valor sempre que o empregador já tenha pago ao trabalhador valor igual ou superior a metade da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho.\n\n3 - O FGCT efetua o pagamento referido nos números anteriores mediante requerimento do trabalhador, no qual consta, designadamente, a identificação do requerente, do empregador e, sendo o caso, do ME.\n\n4 - Para pagamento ao trabalhador, o FGCT solicita ao FCT informação relativa:\n\na) Aos montantes pagos ao empregador;\n\nb) Aos montantes disponíveis na conta de registo individualizado do trabalhador.\n\n5 - Para pagamento ao trabalhador, o FGCT solicita ainda ao empregador informação relativa à cessação do contrato de trabalho, nomeadamente a que título esta operou, bem como relativa aos montantes eventualmente pagos pelo empregador ao trabalhador a título de compensação, devida por cessação do contrato de trabalho, calculada nos termos do artigo 366.º do Código do Trabalho.\n\n6 - O FCT e o empregador devem prestar a informação solicitada nos números anteriores no prazo de quatro dias.\n\n7 - Os montantes referidos na alínea b) do n.º 4 devem ser remetidos ao FGCT no prazo de 4 dias a contar da data do pedido de transferência dos montantes.\n\n8 - O disposto nos números anteriores é aplicável a ME, com as necessárias adaptações.\n\n9 - Constitui contraordenação grave o incumprimento, por parte do empregador, do disposto no n.º 6."
+  },
+  "70392879": {
+   "fragment_id": "70382052",
+   "type": 11,
+   "heading": "Artigo 47.º — Prazo de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Prazo de apreciação\n\n1 - O requerimento entregue ao FGCT pelo trabalhador deve ser objeto de decisão final, no prazo de 20 dias a contar da respetiva apresentação.\n\n2 - Sempre que a tanto haja lugar, o pagamento ao trabalhador deve ser efetuado pelo FGCT, dentro do prazo referido no número anterior."
+  },
+  "70392880": {
+   "fragment_id": "70382053",
+   "type": 11,
+   "heading": "Artigo 48.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Decisão\n\n1 - A decisão proferida é notificada ao trabalhador e ao empregador, com a indicação, em caso de deferimento total ou parcial, designadamente, do montante a pagar e da forma de pagamento.\n\n2 - Sempre que o Fundo de Garantia Salarial o requeira, a decisão deve ser-lhe notificada, com indicação dos valores eventualmente pagos pelo empregador."
+  },
+  "70392881": {
+   "fragment_id": "70382054",
+   "type": 11,
+   "heading": "Artigo 49.º — Incumprimento da entrega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Incumprimento da entrega\n\n1 - A falta de pagamento da entrega mensal devida ao FGCT pelo empregador determina a sua notificação pela entidade gestora para proceder à respetiva regularização, constando da notificação as consequências do incumprimento.\n\n2 - A falta de regularização voluntária dos valores devidos ao FGCT determina a constituição de dívida, nos termos e para os efeitos do disposto nos artigos 51.º e seguintes, sem prejuízo da contraordenação prevista no n.º 5 do artigo 11.º, na parte que respeita ao disposto no n.º 3 daquela disposição."
+  },
+  "70392882": {
+   "fragment_id": "70382055",
+   "type": 11,
+   "heading": "Artigo 50.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Regime subsidiário\n\nAo FGCT aplica-se, com as necessárias adaptações, o regime do FCT, em tudo o que não for incompatível com o disposto no presente capítulo."
+  },
+  "70392883": {
+   "fragment_id": "70382056",
+   "type": 1,
+   "heading": "Capítulo VI — Regularização da dívida ao Fundo de Compensação do Trabalho e ao Fundo de Garantia de Compensação do Trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regularização da dívida ao Fundo de Compensação do Trabalho e ao Fundo de Garantia de Compensação do Trabalho"
+  },
+  "70392884": {
+   "fragment_id": "70382057",
+   "type": 11,
+   "heading": "Artigo 51.º — Regularização da dívida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Regularização da dívida\n\n1 - A dívida pode ser regularizada através do seu pagamento voluntário.\n\n2 - O pagamento voluntário pode ser efetuado pelo montante global da dívida ou em prestações, mediante acordo, a celebrar com o FCT ou com o FGCT, nos casos e nas condições aprovadas por deliberação dos respetivos conselhos de gestão.\n\n3 - A falta de regularização voluntária da dívida determina a sua cobrança coerciva, sendo para tal a mesma equiparada a dívidas à segurança social.\n\n4 - A cobrança coerciva tem por base certidão emitida pelo presidente do conselho de gestão do respetivo fundo.\n\n5 - A certidão deve conter assinatura devidamente autenticada, a data em que foi emitida, o nome e o domicílio do devedor, a proveniência da natureza dos créditos e a indicação, por extenso, do seu montante, bem como a data a partir da qual são devidos juros de mora e sobre que importância estes incidem."
+  },
+  "70392885": {
+   "fragment_id": "70382058",
+   "type": 11,
+   "heading": "Artigo 52.º — Sub-rogação legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Sub-rogação legal\n\n1 - No referente aos valores da compensação legalmente devida, na parcela garantida pela presente lei, fica o FGCT sub-rogado nos direitos de crédito e respetivas garantias dos trabalhadores, incluindo privilégios creditórios, na medida dos pagamentos efetuados, acrescidos de juros de mora.\n\n2 - Sendo o património do empregador insuficiente para garantir o pagamento da totalidade dos créditos referidos no número anterior, designadamente os da massa insolvente, os créditos em que o FGCT ficou sub-rogado são pagos imediatamente após satisfeitos os créditos dos trabalhadores."
+  },
+  "70392886": {
+   "fragment_id": "70382059",
+   "type": 1,
+   "heading": "Capítulo VII — Responsabilidade criminal e contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Responsabilidade criminal e contraordenacional"
+  },
+  "70392887": {
+   "fragment_id": "70382060",
+   "type": 11,
+   "heading": "Artigo 53.º — Fiscalização e aplicação de coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Fiscalização e aplicação de coimas\n\n1 - A fiscalização e o procedimento de contraordenações previstas na presente lei relativas à conduta do empregador são da competência da ACT.\n\n2 - O FCT, o FGCT e os mecanismos equivalentes têm o dever de comunicar à ACT todo e qualquer incumprimento, pelo empregador, das obrigações previstas na presente lei.\n\n3 - Sem prejuízo do disposto no número anterior, o FCT, o FGCT e os mecanismos equivalentes têm o dever de prestar a informação necessária à ACT de modo que esta possa fiscalizar o cumprimento das obrigações previstas no presente diploma relativamente aos empregadores.\n\n4 - Sempre que existam fundadas dúvidas quanto ao cumprimento das obrigações, pelo empregador, o FCT e o FGCT podem solicitar à ACT as correspondentes ações inspetivas.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 2 do artigo 53.º, da Lei n.º 70/2013, de 30 de agosto, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma."
+  },
+  "70392888": {
+   "fragment_id": "70382061",
+   "type": 11,
+   "heading": "Artigo 54.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Destino das coimas\n\n1 - Nos processos de contraordenação previstos nesta lei, metade do produto da coima aplicada reverte para a ACT, a título de compensação de custos de funcionamento e de despesas processuais, constituindo o remanescente receita do FGCT.\n\n2 - A ACT transfere trimestralmente para o FGCT as importâncias a que este tem direito, nos termos do número anterior."
+  },
+  "70392889": {
+   "fragment_id": "70382062",
+   "type": 11,
+   "heading": "Artigo 55.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Regime subsidiário\n\nRelativamente às infrações praticadas pelo empregador, aplica-se subsidiariamente o regime de responsabilidades penal e contraordenacional previsto nos artigos 546.º a 565.º do Código do Trabalho, bem como o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro."
+  },
+  "70392890": {
+   "fragment_id": "70382063",
+   "type": 11,
+   "heading": "Artigo 56.º — Abuso de confiança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Abuso de confiança\n\n1 - O empregador que não entregue ao trabalhador, total ou parcialmente, o valor da compensação reembolsado pelo FCT ou pelo ME, que seja devido ao trabalhador, é punido com as penas previstas nos n.os 1 e 5 do artigo 105.º do Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho.\n\n2 - Os factos descritos no número anterior só são puníveis se tiverem decorrido mais de 90 dias sobre o termo do prazo estipulado para a efetivação do reembolso, pelo FCT ou pelo ME ao empregador."
+  },
+  "70392891": {
+   "fragment_id": "70382064",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais"
+  },
+  "70392892": {
+   "fragment_id": "70382065",
+   "type": 11,
+   "heading": "Artigo 57.º — Disposições fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Disposições fiscais\n\n1 - O FCT e o FGCT são equiparados a fundos de capitalização administrados pelas instituições da segurança social para efeitos do disposto na alínea d) do n.º 1 do artigo 9.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (IRC), aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro.\n\n2 - Os pagamentos aos trabalhadores, efetuados nos termos do n.º 2 do artigo 33.º, são enquadráveis no disposto nos n.os 4 a 7 do artigo 2.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro, com as necessárias adaptações.\n\n3 - As entregas efetuadas ao FGCT são consideradas gasto fiscal, nos termos da alínea d) do n.º 1 do artigo 23.º do IRC, no período de tributação em que são efetuadas.\n\n4 - O reembolso à entidade empregadora do saldo da conta de registo individualizado do respetivo trabalhador é considerado rendimento para efeitos fiscais, pelo montante correspondente à valorização positiva gerada pelas aplicações financeiras dos valores afetos ao FCT, deduzido das respetivas despesas administrativas."
+  },
+  "70392893": {
+   "fragment_id": "70382066",
+   "type": 11,
+   "heading": "Artigo 58.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Cooperação\n\nSem prejuízo do dever de sigilo a que estão obrigados, os conselhos de gestão e as entidades gestoras do FCT, do FGCT e dos mecanismos equivalentes, bem como as entidades competentes para a fiscalização e a supervisão, estão sujeitas ao dever de cooperação, devendo, nomeadamente, estabelecer mecanismos de troca de informação, com vista a garantir o desempenho eficiente das suas atribuições."
+  },
+  "70392894": {
+   "fragment_id": "70382067",
+   "type": 11,
+   "heading": "Artigo 59.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Regulamentação\n\n1 - Todas as matérias relativas ao modelo de operacionalização das relações entre empregador e os fundos, trabalhador e os fundos, bem como dos intervenientes no sistema com as entidades fiscalizadoras são objeto de portaria dos membros do Governo responsáveis pelas áreas das finanças, laboral e da segurança social, com prévia audição dos Parceiros Sociais com assento na Comissão Permanente de Concertação Social.\n\n2 - As aquisições necessárias à criação e à implementação do sistema de informação ficam dispensadas das regras gerais da contratação pública, sem prejuízo do acompanhamento e da aprovação do procedimento de aquisições pela Agência para a Modernização Administrativa, I. P., em coordenação com o Instituto de Informática, I. P."
+  },
+  "70392895": {
+   "fragment_id": "70382068",
+   "type": 11,
+   "heading": "Artigo 60.º — Avaliação da implementação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Avaliação da implementação\n\n1 - No prazo de três anos a contar da data de entrada em funcionamento do FCT, a implementação das medidas daqui decorrentes são objeto de avaliação em articulação com a Comissão Permanente de Concertação Social.\n\n2 - No prazo e no âmbito da avaliação referidos no número anterior, deve ser apreciada a possibilidade de, mediante alteração do regime jurídico previsto na presente lei, a gestão do FCT poder ser exercida também por entidades privadas, selecionadas mediante concurso público."
+  },
+  "70392896": {
+   "fragment_id": "70382069",
+   "type": 11,
+   "heading": "Artigo 61.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Entrada em vigor\n\n1 - A presente lei entra em vigor no dia 1 de outubro de 2013.\n\n2 - O n.º 2 do artigo 59.º da presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70392933": {
+   "fragment_id": "70382003",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2015-11-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente lei é aplicável às relações de trabalho reguladas pelo Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, e alterado pelas Leis n.os 105/2009, de 14 de setembro, 53/2011, de 14 de outubro, 23/2012, de 25 de junho, e 47/2012, de 29 de agosto.\n\n2 - A presente lei aplica-se apenas aos contratos de trabalho celebrados após a sua entrada em vigor, tendo sempre por referência a antiguidade contada a partir do momento da execução daqueles contratos, sem prejuízo do disposto no artigo 11.º-B.\n\n3 - As relações de trabalho emergentes de contratos de trabalho de duração inferior ou igual a dois meses estão excluídas do âmbito de aplicação da presente lei.\n\n4 - A referência, na presente lei, à compensação calculada nos termos do artigo 366.º do Código do Trabalho inclui todos os casos em que esta disposição resulte aplicável, diretamente ou por remissão legal, em caso de cessação do contrato de trabalho.\n\n5 - Ficam excluídas do âmbito de aplicação da presente lei as relações de trabalho com os serviços a que se referem os n.os 1 a 4 do artigo 3.º da Lei n.º 12-A/2008, de 27 de fevereiro, que estabelece os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66/2012, de 31 de dezembro, e 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 47/2013, de 5 de abril, incluindo os institutos públicos de regime especial.\n\n6 - As empresas de trabalho temporário ficam sujeitas ao regime previsto na presente lei, incluindo o disposto n.º 3.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto nos n.os 2, 3 e 6 do artigo 2.º, da Lei n.º 70/2013, de 30 de agosto, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O n.º 3 do artigo 2.º da Lei n.º 70/2013, de 30 de agosto, na redação dada pelo presente decreto-lei, entra em vigor no dia 26 de setembro de 2015.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "70392934": {
+   "fragment_id": "70382010",
+   "type": 11,
+   "heading": "Artigo 8.º — Adesão",
+   "in_force_from": "2015-11-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 8.º — Adesão\n\n1 - O empregador é obrigado a aderir ao FCT, salvo opção por adesão a ME.\n\n2 - A opção prevista no número anterior é efetuada em bloco, relativamente à totalidade dos trabalhadores ao serviço do respetivo empregador.\n\n3 - Com a celebração do primeiro contrato de trabalho abrangido pelo disposto na presente lei, e consequente comunicação de admissão do trabalhador ao FCT ou a ME, a adesão aos mesmos efetiva-se automaticamente, por via da inclusão do respetivo trabalhador naqueles.\n\n4 - O empregador deve incluir os trabalhadores no FCT ou em ME até à data do início de execução dos respetivos contratos de trabalho.\n\n5 - Nos casos previstos no artigo 16.º, o cumprimento da obrigação do novo empregador, prevista no número anterior, pode ter lugar até 15 dias após a transmissão.\n\n6 - Após a celebração do primeiro contrato de trabalho abrangido pelo disposto na presente lei, o empregador procede à comunicação ao FCT e ao FGCT da admissão de novos trabalhadores, para efeitos da sua inclusão no FCT e no FGCT.\n\n7 - Com a adesão ao FCT é criada, pela entidade gestora, uma conta global, em nome do empregador, que prevê obrigatoriamente contas de registo individualizado, respeitantes a cada um dos seus trabalhadores.\n\n8 - A adesão ao FGCT opera de modo automático, com a adesão do empregador ao FCT ou a ME.\n\n9 - Sem prejuízo do disposto no número anterior, em caso de adesão a ME, a admissão de novos trabalhadores deve ser comunicada, pelo empregador, ao FGCT, até à data do início da execução dos respetivos contratos de trabalho.\n\n10 - O disposto nos números anteriores aplica-se, com as devidas adaptações, sempre que o contrato de trabalho de duração inferior ou igual a dois meses seja sujeito a prorrogação, cuja duração, adicionada à duração inicial, ultrapasse aquele prazo, devendo para o efeito o empregador, nesse momento, indicar a data de início de execução do respetivo contrato de trabalho.\n\n11 - Constitui contraordenação muito grave a violação dos n.os 1 a 6, 9 e 10.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto n.os 5, 10 e 11 do artigo 8.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "70392935": {
+   "fragment_id": "70382013",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigação de pagamento",
+   "in_force_from": "2015-11-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 11.º — Obrigação de pagamento\n\n1 - A adesão ao FCT determina, para o empregador, a obrigatoriedade do pagamento das respetivas entregas.\n\n2 - A adesão ao FCT ou a ME determina, para o empregador, a obrigatoriedade do pagamento de entregas para o FGCT.\n\n3 - As entregas a que se referem os números anteriores são devidas a partir do momento em que se inicia a execução de cada contrato de trabalho e até à sua cessação, salvo nos períodos em que inexista contagem de antiguidade.\n\n4 - No início da execução de cada contrato de trabalho, ou nas situações previstas no n.º 10 do artigo 8.º, o empregador deve declarar ao FGCT e, quando aplicável, ao FCT o valor da retribuição base do trabalhador, devendo esta declaração ser objeto de atualização e comunicação no prazo de cinco dias, sempre que se verifiquem alterações ao respetivo montante ou às diuturnidades a que o trabalhador venha a ter direito.\n\n5 - Constitui contraordenação muito grave a violação do disposto nos n.os 3 e 4, no que respeita à falta de declaração inicial do valor da retribuição base do trabalhador.\n\n6 - Constitui contraordenação grave a violação do disposto no n.º 4, no que respeita à comunicação de atualização, sempre que devida.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 4 do artigo 11.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "70392913": {
+   "fragment_id": "70393084",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Suspensão das entregas",
+   "in_force_from": "2015-11-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24, produz efeitos a partir de 2013-10-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Suspensão das entregas\n\n1 - Quando o saldo da conta individualizada do trabalhador atingir metade dos valores limite de compensação previstos no n.º 2 do artigo 366.º do Código do Trabalho, suspende-se a obrigação do empregador fazer entregas ao FCT referentes a esse trabalhador.\n\n2 - Sempre que das comunicações referidas na segunda parte do n.º 4 do artigo 11.º, ou da atualização da RMMG, resultar para o FCT que o saldo da conta individualizada do trabalhador não garante metade dos valores limite de compensação previstos no n.º 2 do artigo 366.º do Código do Trabalho, o empregador é notificado para retomar as entregas nos termos dos artigos 12.º e 13.º da presente lei.\n\n3 - Constitui contraordenação grave a violação da retoma das entregas nos termos previstos na parte final do número anterior.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24, produz efeitos a partir de 2013-10-01"
+  },
+  "70392923": {
+   "fragment_id": "70393085",
+   "type": 11,
+   "heading": "Artigo 11.º-B — Dispensa de entregas ao Fundo de Compensação do Trabalho",
+   "in_force_from": "2015-11-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24, produz efeitos a partir de 2013-10-01"
+   ],
+   "markdown": "###### Artigo 11.º-B — Dispensa de entregas ao Fundo de Compensação do Trabalho\n\n1 - Sempre que o contrato de trabalho celebrado reconheça ao trabalhador antiguidade que lhe confira direito a compensação de valor superior ao dos limites de compensação previstos no n.º 2 do artigo 366.º do Código do Trabalho, o empregador fica dispensado, no âmbito do FCT, de fazer entregas na conta individual do respetivo trabalhador.\n\n2 - Sempre que das comunicações referidas na segunda parte do n.º 4 do artigo 11.º, ou da atualização da RMMG, resultar para o FCT que o saldo da conta individualizada do trabalhador não garante metade dos valores limite de compensação previstos no n.º 2 do artigo 366.º do Código do Trabalho, o empregador é notificado para retomar as entregas nos termos dos artigos 12.º e 13.º da presente lei.\n\n3 - Constitui contraordenação grave a violação da parte final do disposto no n.º 2.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24, produz efeitos a partir de 2013-10-01"
+  },
+  "70392924": {
+   "fragment_id": "70382014",
+   "type": 11,
+   "heading": "Artigo 12.º — Montante das entregas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Montante das entregas\n\n1 - O valor das entregas da responsabilidade do empregador para o FCT corresponde a 0,925 % da retribuição base e diuturnidades devidas a cada trabalhador abrangido.\n\n2 - O valor das entregas da responsabilidade do empregador para o FGCT corresponde a 0,075 % da retribuição base e diuturnidades devidas a cada trabalhador abrangido pelo FCT ou ME."
+  },
+  "70392925": {
+   "fragment_id": "70382015",
+   "type": 11,
+   "heading": "Artigo 13.º — Formas de pagamento das entregas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Formas de pagamento das entregas\n\n1 - O pagamento das entregas ao FCT e ao FGCT é efetuado nos termos e através dos meios eletrónicos que forem definidos na portaria prevista no n.º 1 do artigo 59.º da presente lei.\n\n2 - As entregas são pagas 12 vezes por ano, mensalmente, nos prazos previstos para o pagamento de contribuições e quotizações à segurança social e respeitam a 12 retribuições base mensais e diuturnidades, por cada trabalhador.\n\n3 - Constitui contraordenação grave a violação do disposto no número anterior."
+  },
+  "70392926": {
+   "fragment_id": "70382016",
+   "type": 11,
+   "heading": "Artigo 14.º — Acionamento indevido do fundo de compensação do trabalho e do fundo de garantia de compensação do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acionamento indevido do fundo de compensação do trabalho e do fundo de garantia de compensação do trabalho\n\nQualquer comportamento, do empregador ou do trabalhador, conducente ao acionamento do FCT ou do FGCT fora das condições e fins previstos na presente lei determina a recusa de pagamento dos valores requeridos."
+  },
+  "70392927": {
+   "fragment_id": "70382017",
+   "type": 11,
+   "heading": "Artigo 15.º — Admissibilidade de transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Admissibilidade de transferência\n\n1 - A adesão ao FCT ou a ME não impede posterior transferência da totalidade dos trabalhadores ao serviço do empregador para ME ou FCT, respetivamente, contanto que tal transferência não prejudique, em caso algum, as garantias já conferidas e os valores já assegurados aos trabalhadores no que respeita ao período que antecede a transferência.\n\n2 - Em todas as situações previstas no Código do Trabalho, em que opere, a qualquer título, a transmissão da posição contratual do empregador a terceiro, por violação de normas legais, o empregador originário deve transferir para o novo empregador o saldo da conta de registo individualizado do respetivo trabalhador, incluindo a eventual valorização positiva.\n\n3 - Se, no caso previsto no número anterior, o trabalhador estiver incluído em ME, da referida transmissão para FCT ou para outro ME não pode resultar qualquer redução das garantias conferidas ao trabalhador pela presente lei.\n\n4 - Nos casos referidos nos n.os 2 e 3, tem aplicação o disposto nos n.os 2 a 7 do artigo seguinte, com as necessárias adaptações.\n\n5 - Constitui contraordenação muito grave a violação do disposto na parte final do n.º 1 e nos n.os 2 e 3."
+  },
+  "70392936": {
+   "fragment_id": "70382018",
+   "type": 11,
+   "heading": "Artigo 16.º — Transmissão de empresa ou de estabelecimento",
+   "in_force_from": "2015-11-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 16.º — Transmissão de empresa ou de estabelecimento\n\n1 - Em caso de transmissão, por qualquer título, da titularidade de empresa ou de estabelecimento ou ainda de parte de empresa ou de estabelecimento que constitua uma unidade económica, nos termos do artigo 285.º do Código do Trabalho ou de Instrumentos de Regulamentação Coletiva de Trabalho, o transmissário assume a titularidade da conta global que pertencia ao transmitente.\n\n2 - Sempre que a transmissão referida no número anterior imponha que o transmitente mantenha a titularidade da conta global relativamente a trabalhadores não abrangidos pela transmissão, o saldo da conta de registo individualizado dos trabalhadores incluídos na transmissão, incluindo a eventual valorização positiva, deve ser transmitido para a conta global do transmissário, já existente à data da transmissão.\n\n3 - Se, no caso previsto no número anterior, o transmissário não dispuser ainda de conta global no FCT, a mesma deve ser constituída, por adesão do transmissário àquele, aplicando-se, com as necessárias adaptações, o previsto no artigo 8.º\n\n4 - A obrigação de adesão ao FCT referida no número anterior não é aplicável se o transmissário optar pela inclusão dos trabalhadores objeto da transmissão em ME.\n\n5 - Caso os trabalhadores se encontrem, à data da transmissão, incluídos em ME, a transmissão para o FCT ou para outro ME não pode, em caso algum, prejudicar as garantias já conferidas aos trabalhadores no que respeita ao período que antecede a transferência.\n\n6 - Se nos casos referidos nos n.os 1 a 3 e 5 resultar a vinculação do novo empregador ao FCT e a um ou mais mecanismos equivalentes, deve aquele, no prazo de seis meses, optar por uma destas alternativas.\n\n7 - O previsto na presente disposição não pode, em caso algum, prejudicar as garantias já conferidas aos trabalhadores no que respeita ao período que antecede a transferência.\n\n8 - Constitui contraordenação muito grave a violação do disposto nos n.os 1, 3 e 5 a 7 e no n.º 2, quanto ao transmitente.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 1 do artigo 16.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "70392929": {
+   "fragment_id": "70382019",
+   "type": 11,
+   "heading": "Artigo 17.º — Despedimento ilícito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Despedimento ilícito\n\n1 - No seguimento de decisão judicial que, em caso de despedimento ilícito, imponha a reintegração do trabalhador, o empregador fica obrigado, no prazo de 30 dias contados a partir da data do trânsito em julgado daquela decisão, a nova inclusão do trabalhador no FCT e à consequente reposição do saldo da conta do registo individualizado do trabalhador à data do despedimento e às entregas que deixou de efetuar, relativamente a tal trabalhador, desde esta data.\n\n2 - O disposto do número anterior é aplicável, com as necessárias adaptações, ao FGCT e a ME.\n\n3 - No seguimento de decisão judicial transitada em julgado que declare o despedimento ilícito, caso o FGCT tenha sido acionado para pagamento de parte da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho, o trabalhador deve, no prazo de 30 dias, devolver ao FGCT os valores que por este tenham sido adiantados.\n\n4 - A devolução referida no número anterior pode ser efetuada pelo montante global da dívida ou em prestações, mediante acordo, a celebrar com o FGCT, nos termos e nas condições aprovados por deliberação do respetivo conselho de gestão.\n\n5 - Após o recebimento dos montantes referidos no n.º 3, o FGCT deve devolvê-los, no prazo de 15 dias, nas devidas proporções, ao FCT ou ao empregador, se aplicável.\n\n6 - Constitui contraordenação muito grave a violação do disposto nos n.os 1 a 3."
+  },
+  "70392930": {
+   "fragment_id": "70382020",
+   "type": 11,
+   "heading": "Artigo 18.º — Entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entidades gestoras\n\n1 - Os respetivos conselhos de gestão do FCT e do FGCT têm as competências previstas nos artigos 22.º e 38.º\n\n2 - As entidades gestoras do FCT e do FGCT são, respetivamente, o Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P. (IGFCSS, I. P.), e o Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.)\n\n3 - São atribuições gerais das entidades gestoras do FCT e do FGCT, designadamente:\n\na) Gerir o investimento, praticando os atos e operações necessários à boa concretização da política de investimento, nomeadamente:\n\ni) Selecionar os ativos;\n\nii) Adquirir e alienar os ativos, cumprindo as formalidades necessárias para a válida e regular transmissão dos mesmos;\n\niii) Exercer os direitos relacionados com os ativos;\n\nb) Administrar o FCT e o FGCT e valores a estes afetos, nomeadamente:\n\ni) Assegurar os serviços jurídicos e de contabilidade necessários à gestão dos fundos;\n\nii) Esclarecer e analisar as questões e reclamações;\n\niii) Cumprir e controlar a observância das normas aplicáveis, do regulamento de gestão, do regulamento interno e dos contratos celebrados no âmbito da atividade do FCT e do FGCT;\n\niv) Efetuar os procedimentos de liquidação e de compensação;\n\nv) Conservar documentos.\n\n4 - O IGFCSS, I. P., assegura ainda o funcionamento do FCT, celebrando, para o efeito, protocolos com o Instituto da Segurança Social, I. P. (ISS, I. P.), ou com as instituições de segurança social competentes das regiões autónomas.\n\n5 - O IGFSS, I. P., assegura ainda o funcionamento do FGCT, celebrando, para o efeito, protocolos com o ISS, I. P., ou com as instituições de segurança social competentes das regiões autónomas.\n\n6 - A gestão económica e financeira do FCT e do FGCT é disciplinada pelos respetivos planos de atividades, orçamentos, relatórios de contas e balanços anuais."
+  },
+  "70392931": {
+   "fragment_id": "70382021",
+   "type": 11,
+   "heading": "Artigo 19.º — Política de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Política de investimento\n\nA política de investimento do FCT e do FGCT, especificando os princípios aplicáveis em matéria de definição, implementação e controlo da mesma, encontra-se definida nos respetivos regulamentos de gestão."
+  },
+  "70392932": {
+   "fragment_id": "70382022",
+   "type": 11,
+   "heading": "Artigo 20.º — Despesas de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Despesas de funcionamento\n\n1 - As despesas de funcionamento do FCT e do FGCT apenas são cobertas por dedução aos rendimentos obtidos com a aplicação de capitais, não podendo essas deduções ultrapassar 25 % do rendimento gerado.\n\n2 - Em virtude de os custos iniciais de investimento poderem ser insuscetíveis de cobertura pelo valor disponibilizado para custear as despesas de funcionamento, pode o conselho de gestão, no terceiro ano de vigência dos respetivos fundos, aprovar acerto de contas, atendendo aos custos apurados e não cobertos até então."
+  },
+  "70392937": {
+   "fragment_id": "70382037",
+   "type": 11,
+   "heading": "Artigo 34.º — Direito ao reembolso por parte do empregador",
+   "in_force_from": "2015-11-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 34.º — Direito ao reembolso por parte do empregador\n\n1 - Sem prejuízo do disposto no n.º 4, em qualquer caso de cessação do contrato de trabalho, o empregador pode solicitar ao FCT, com uma antecedência máxima de 20 dias relativamente à data da cessação do contrato de trabalho, o reembolso do saldo da conta de registo individualizado do respetivo trabalhador, incluindo eventual valorização positiva, informando o FCT da existência de obrigação do pagamento de compensação ao trabalhador.\n\n2 - O reembolso previsto no número anterior deve ser efetuado pelo FCT ao empregador no prazo de máximo de 10 dias a contar da data do pedido de reembolso.\n\n3 - Caso a cessação do contrato de trabalho não determine a obrigação de pagamento de compensação, calculada nos termos do artigo 366.º do Código do Trabalho, o valor reembolsado pelo FCT reverte para o empregador, sem prejuízo do disposto no número seguinte.\n\n4 - Nos casos de transmissão por Instrumento de Regulamentação Coletiva de Trabalho, previstas no artigo 16.º, o reembolso a que se refere o número anterior deve ser efetuado, por rateio, a todas as entidades empregadoras que tenham contribuído para essa conta individual, em função dos descontos que cada uma tenha efetuado, devendo o FCT, para o efeito, notificar cada uma delas, no prazo de 90 dias a contar da data em que o empregador tenha solicitado ao FCT o respetivo reembolso, ou comunicado a data da cessação do contrato, consoante a que ocorrer primeiro.\n\n5 - O FCT comunica à Autoridade para as Condições do Trabalho (ACT) e ao FGCT o reembolso efetuado nos termos dos números anteriores, no prazo máximo de quatro dias a contar da realização do mesmo.\n\n6 - Sem prejuízo do disposto no n.º 1 do artigo 17.º, sempre que, após apresentação de pedido de reembolso, pelo empregador ao FCT, a cessação do contrato de trabalho não venha a ocorrer, deve o empregador devolver ao FCT o valor reembolsado no prazo de 10 dias contados a partir da não verificação da cessação do contrato de trabalho.\n\n7 - O empregador que, após um ano contado da data da cessação do contrato de trabalho, não tenha solicitado ao FCT o reembolso do saldo da conta de registo individualizado do trabalhador e a eventual valorização positiva, é notificado pelo FCT para o efeito, fixando-lhe prazo não superior a 30 dias, a partir do qual não beneficia de eventuais valorizações positivas.\n\n8 - Constitui contraordenação grave a violação do disposto no n.º 6.\n\n9 - Constitui contraordenação muito grave a não entrega, total ou parcial, pelo empregador ao trabalhador, em prazo igual ou inferior ao estabelecido no n.º 2 do artigo 56.º, do valor reembolsado pelo FCT, por conta da obrigação de pagamento de compensação calculada nos termos do artigo 366.º do Código do Trabalho.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 7 do artigo 34.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma. O disposto no n.º 8 do artigo 34.º da Lei n.º 70/2013, de 30 de agosto, com a redação dada pelo presente decreto-lei, apenas se aplica aos contratos de trabalho que cessem após a data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "70392938": {
+   "fragment_id": "70382060",
+   "type": 11,
+   "heading": "Artigo 53.º — Fiscalização e aplicação de coimas",
+   "in_force_from": "2015-11-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 53.º — Fiscalização e aplicação de coimas\n\n1 - A fiscalização e o procedimento de contraordenações previstas na presente lei relativas à conduta do empregador são da competência da ACT.\n\n2 - O FCT, o FGCT e os mecanismos equivalentes têm o dever de comunicar à ACT todo e qualquer incumprimento, pelo empregador, das obrigações previstas na presente lei.\n\n3 - Sem prejuízo do disposto no número anterior, o FCT, o FGCT e os mecanismos equivalentes têm o dever de prestar a informação necessária à ACT de modo que esta possa fiscalizar o cumprimento das obrigações previstas no presente diploma relativamente aos empregadores.\n\n4 - Sempre que existam fundadas dúvidas quanto ao cumprimento das obrigações, pelo empregador, o FCT e o FGCT podem solicitar à ACT as correspondentes ações inspetivas.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 2 do artigo 53.º, da Lei n.º 70/2013, de 30 de agosto, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "70392901": {
+   "fragment_id": "70382072",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 29 de julho de 2013.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 22 de agosto de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 26 de agosto de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "221152275": {
+   "fragment_id": "221148592",
+   "type": 11,
+   "heading": "Artigo 11.º-C — Diferimento e suspensão de prazos",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 280.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 11.º-C — Diferimento e suspensão de prazos\n\nSem prejuízo das regras gerais e especiais de caducidade, as obrigações no âmbito da relação com o FCT, ME e o FGCT e de regularização de dívida aos referidos fundos cujo prazo termine no decurso do mês de agosto podem ser cumpridas até ao último dia desse mês, independentemente de ser útil, sem quaisquer acréscimos ou penalidades.\n\n> Aditado pelo/a Artigo 280.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "221152276": {
+   "fragment_id": "70382014",
+   "type": 11,
+   "heading": "Artigo 12.º — Montante das entregas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Montante das entregas\n\n1 - O valor das entregas da responsabilidade do empregador para o FCT corresponde a 0,925 % da retribuição base e diuturnidades devidas a cada trabalhador abrangido.\n\n2 - O valor das entregas da responsabilidade do empregador para o FGCT corresponde a 0,075 % da retribuição base e diuturnidades devidas a cada trabalhador abrangido pelo FCT ou ME."
+  },
+  "221152277": {
+   "fragment_id": "70382015",
+   "type": 11,
+   "heading": "Artigo 13.º — Formas de pagamento das entregas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Formas de pagamento das entregas\n\n1 - O pagamento das entregas ao FCT e ao FGCT é efetuado nos termos e através dos meios eletrónicos que forem definidos na portaria prevista no n.º 1 do artigo 59.º da presente lei.\n\n2 - As entregas são pagas 12 vezes por ano, mensalmente, nos prazos previstos para o pagamento de contribuições e quotizações à segurança social e respeitam a 12 retribuições base mensais e diuturnidades, por cada trabalhador.\n\n3 - Constitui contraordenação grave a violação do disposto no número anterior."
+  },
+  "221152278": {
+   "fragment_id": "70382016",
+   "type": 11,
+   "heading": "Artigo 14.º — Acionamento indevido do fundo de compensação do trabalho e do fundo de garantia de compensação do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acionamento indevido do fundo de compensação do trabalho e do fundo de garantia de compensação do trabalho\n\nQualquer comportamento, do empregador ou do trabalhador, conducente ao acionamento do FCT ou do FGCT fora das condições e fins previstos na presente lei determina a recusa de pagamento dos valores requeridos."
+  },
+  "221152279": {
+   "fragment_id": "70382017",
+   "type": 11,
+   "heading": "Artigo 15.º — Admissibilidade de transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Admissibilidade de transferência\n\n1 - A adesão ao FCT ou a ME não impede posterior transferência da totalidade dos trabalhadores ao serviço do empregador para ME ou FCT, respetivamente, contanto que tal transferência não prejudique, em caso algum, as garantias já conferidas e os valores já assegurados aos trabalhadores no que respeita ao período que antecede a transferência.\n\n2 - Em todas as situações previstas no Código do Trabalho, em que opere, a qualquer título, a transmissão da posição contratual do empregador a terceiro, por violação de normas legais, o empregador originário deve transferir para o novo empregador o saldo da conta de registo individualizado do respetivo trabalhador, incluindo a eventual valorização positiva.\n\n3 - Se, no caso previsto no número anterior, o trabalhador estiver incluído em ME, da referida transmissão para FCT ou para outro ME não pode resultar qualquer redução das garantias conferidas ao trabalhador pela presente lei.\n\n4 - Nos casos referidos nos n.os 2 e 3, tem aplicação o disposto nos n.os 2 a 7 do artigo seguinte, com as necessárias adaptações.\n\n5 - Constitui contraordenação muito grave a violação do disposto na parte final do n.º 1 e nos n.os 2 e 3."
+  },
+  "221152280": {
+   "fragment_id": "70382018",
+   "type": 11,
+   "heading": "Artigo 16.º — Transmissão de empresa ou de estabelecimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 16.º — Transmissão de empresa ou de estabelecimento\n\n1 - Em caso de transmissão, por qualquer título, da titularidade de empresa ou de estabelecimento ou ainda de parte de empresa ou de estabelecimento que constitua uma unidade económica, nos termos do artigo 285.º do Código do Trabalho ou de Instrumentos de Regulamentação Coletiva de Trabalho, o transmissário assume a titularidade da conta global que pertencia ao transmitente.\n\n2 - Sempre que a transmissão referida no número anterior imponha que o transmitente mantenha a titularidade da conta global relativamente a trabalhadores não abrangidos pela transmissão, o saldo da conta de registo individualizado dos trabalhadores incluídos na transmissão, incluindo a eventual valorização positiva, deve ser transmitido para a conta global do transmissário, já existente à data da transmissão.\n\n3 - Se, no caso previsto no número anterior, o transmissário não dispuser ainda de conta global no FCT, a mesma deve ser constituída, por adesão do transmissário àquele, aplicando-se, com as necessárias adaptações, o previsto no artigo 8.º\n\n4 - A obrigação de adesão ao FCT referida no número anterior não é aplicável se o transmissário optar pela inclusão dos trabalhadores objeto da transmissão em ME.\n\n5 - Caso os trabalhadores se encontrem, à data da transmissão, incluídos em ME, a transmissão para o FCT ou para outro ME não pode, em caso algum, prejudicar as garantias já conferidas aos trabalhadores no que respeita ao período que antecede a transferência.\n\n6 - Se nos casos referidos nos n.os 1 a 3 e 5 resultar a vinculação do novo empregador ao FCT e a um ou mais mecanismos equivalentes, deve aquele, no prazo de seis meses, optar por uma destas alternativas.\n\n7 - O previsto na presente disposição não pode, em caso algum, prejudicar as garantias já conferidas aos trabalhadores no que respeita ao período que antecede a transferência.\n\n8 - Constitui contraordenação muito grave a violação do disposto nos n.os 1, 3 e 5 a 7 e no n.º 2, quanto ao transmitente.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 1 do artigo 16.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "221152281": {
+   "fragment_id": "70382019",
+   "type": 11,
+   "heading": "Artigo 17.º — Despedimento ilícito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Despedimento ilícito\n\n1 - No seguimento de decisão judicial que, em caso de despedimento ilícito, imponha a reintegração do trabalhador, o empregador fica obrigado, no prazo de 30 dias contados a partir da data do trânsito em julgado daquela decisão, a nova inclusão do trabalhador no FCT e à consequente reposição do saldo da conta do registo individualizado do trabalhador à data do despedimento e às entregas que deixou de efetuar, relativamente a tal trabalhador, desde esta data.\n\n2 - O disposto do número anterior é aplicável, com as necessárias adaptações, ao FGCT e a ME.\n\n3 - No seguimento de decisão judicial transitada em julgado que declare o despedimento ilícito, caso o FGCT tenha sido acionado para pagamento de parte da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho, o trabalhador deve, no prazo de 30 dias, devolver ao FGCT os valores que por este tenham sido adiantados.\n\n4 - A devolução referida no número anterior pode ser efetuada pelo montante global da dívida ou em prestações, mediante acordo, a celebrar com o FGCT, nos termos e nas condições aprovados por deliberação do respetivo conselho de gestão.\n\n5 - Após o recebimento dos montantes referidos no n.º 3, o FGCT deve devolvê-los, no prazo de 15 dias, nas devidas proporções, ao FCT ou ao empregador, se aplicável.\n\n6 - Constitui contraordenação muito grave a violação do disposto nos n.os 1 a 3."
+  },
+  "221152282": {
+   "fragment_id": "70382020",
+   "type": 11,
+   "heading": "Artigo 18.º — Entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entidades gestoras\n\n1 - Os respetivos conselhos de gestão do FCT e do FGCT têm as competências previstas nos artigos 22.º e 38.º\n\n2 - As entidades gestoras do FCT e do FGCT são, respetivamente, o Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P. (IGFCSS, I. P.), e o Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.)\n\n3 - São atribuições gerais das entidades gestoras do FCT e do FGCT, designadamente:\n\na) Gerir o investimento, praticando os atos e operações necessários à boa concretização da política de investimento, nomeadamente:\n\ni) Selecionar os ativos;\n\nii) Adquirir e alienar os ativos, cumprindo as formalidades necessárias para a válida e regular transmissão dos mesmos;\n\niii) Exercer os direitos relacionados com os ativos;\n\nb) Administrar o FCT e o FGCT e valores a estes afetos, nomeadamente:\n\ni) Assegurar os serviços jurídicos e de contabilidade necessários à gestão dos fundos;\n\nii) Esclarecer e analisar as questões e reclamações;\n\niii) Cumprir e controlar a observância das normas aplicáveis, do regulamento de gestão, do regulamento interno e dos contratos celebrados no âmbito da atividade do FCT e do FGCT;\n\niv) Efetuar os procedimentos de liquidação e de compensação;\n\nv) Conservar documentos.\n\n4 - O IGFCSS, I. P., assegura ainda o funcionamento do FCT, celebrando, para o efeito, protocolos com o Instituto da Segurança Social, I. P. (ISS, I. P.), ou com as instituições de segurança social competentes das regiões autónomas.\n\n5 - O IGFSS, I. P., assegura ainda o funcionamento do FGCT, celebrando, para o efeito, protocolos com o ISS, I. P., ou com as instituições de segurança social competentes das regiões autónomas.\n\n6 - A gestão económica e financeira do FCT e do FGCT é disciplinada pelos respetivos planos de atividades, orçamentos, relatórios de contas e balanços anuais."
+  },
+  "221152283": {
+   "fragment_id": "70382021",
+   "type": 11,
+   "heading": "Artigo 19.º — Política de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Política de investimento\n\nA política de investimento do FCT e do FGCT, especificando os princípios aplicáveis em matéria de definição, implementação e controlo da mesma, encontra-se definida nos respetivos regulamentos de gestão."
+  },
+  "221152284": {
+   "fragment_id": "70382022",
+   "type": 11,
+   "heading": "Artigo 20.º — Despesas de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Despesas de funcionamento\n\n1 - As despesas de funcionamento do FCT e do FGCT apenas são cobertas por dedução aos rendimentos obtidos com a aplicação de capitais, não podendo essas deduções ultrapassar 25 % do rendimento gerado.\n\n2 - Em virtude de os custos iniciais de investimento poderem ser insuscetíveis de cobertura pelo valor disponibilizado para custear as despesas de funcionamento, pode o conselho de gestão, no terceiro ano de vigência dos respetivos fundos, aprovar acerto de contas, atendendo aos custos apurados e não cobertos até então."
+  },
+  "351301777": {
+   "fragment_id": "70382002",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece os regimes jurídicos do Fundo de Compensação do Trabalho (FCT) e do Fundo de Garantia de Compensação do Trabalho (FGCT).\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301778": {
+   "fragment_id": "70382003",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente lei é aplicável às relações de trabalho reguladas pelo Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\n2 - A presente lei aplica-se apenas aos contratos de trabalho celebrados após a sua entrada em vigor, tendo sempre por referência a antiguidade contada a partir do momento da execução daqueles contratos, sem prejuízo do disposto no artigo 11.º-B.\n\n3 - As relações de trabalho emergentes de contratos de trabalho de duração inferior ou igual a dois meses estão excluídas do âmbito de aplicação da presente lei.\n\n4 - A referência, na presente lei, à compensação calculada nos termos do artigo 366.º do Código do Trabalho inclui todos os casos em que esta disposição resulte aplicável, diretamente ou por remissão legal, em caso de cessação do contrato de trabalho.\n\n5 - Ficam excluídas do âmbito de aplicação da presente lei as relações de trabalho com os serviços a que se referem os n.os 2 a 5 do artigo 1.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual, incluindo os institutos públicos de regime especial.\n\n6 - As empresas de trabalho temporário ficam sujeitas ao regime previsto na presente lei, incluindo o disposto n.º 3.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O n.º 3 do artigo 2.º da Lei n.º 70/2013, de 30 de agosto, na redação dada pelo presente decreto-lei, entra em vigor no dia 26 de setembro de 2015.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto nos n.os 2, 3 e 6 do artigo 2.º, da Lei n.º 70/2013, de 30 de agosto, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "351301779": {
+   "fragment_id": "70382005",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza e finalidades",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Natureza e finalidades\n\n1 - O FCT é um fundo destinado a:\n\na) Apoiar os custos e investimentos com habitação dos trabalhadores;\n\nb) Apoiar outros investimentos realizados de comum acordo entre entidades empregadoras e estruturas representativas dos trabalhadores;\n\nc) Financiar a qualificação e a formação certificada dos trabalhadores;\n\nd) Assegurar o direito dos trabalhadores ao recebimento efetivo de metade do valor da compensação devida por cessação do contrato de trabalho, calculada nos termos do artigo 366.º do Código do Trabalho, para os casos em que os empregadores tenham contribuído para o FCT.\n\n2 - O FGCT é um fundo destinado a assegurar o direito dos trabalhadores ao recebimento efetivo de metade do valor da compensação devida por cessação do contrato de trabalho, calculada nos termos do artigo 366.º do Código do Trabalho.\n\n3 - O FCT e o FGCT são fundos autónomos, têm personalidade jurídica e não integram o perímetro de consolidação da segurança social nem o orçamento da segurança social.\n\n4 - O FCT é um fundo contabilisticamente fechado constituído pelos saldos das contas globais dos empregadores, correspondendo cada uma ao valor total dos saldos das contas de registo individualizado dos trabalhadores.\n\n5 - O FGCT é um fundo de adesão individual e obrigatória, pelo empregador.\n\n6 - O FGCT é um fundo de natureza mutualista, que visa garantir o valor necessário à cobertura de metade do valor da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho, subtraído do montante já pago pelo empregador ao trabalhador.\n\n7 - (Revogado.)\n\n8 - O FGCT não responde por qualquer valor sempre que o empregador já tenha pago ao trabalhador valor igual ou superior a metade da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301824": {
+   "fragment_id": "70382009",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080)"
+   ],
+   "markdown": "###### Artigo 7.º — Regulamentos\n\n1 - Os regulamentos de gestão do FCT e do FGCT são elaborados pelo respetivo presidente do conselho de gestão e aprovados pelo respetivo conselho de gestão.\n\n2 - Os regulamentos de gestão do FCT e do FGCT contêm os elementos que caracterizam cada um dos fundos, designadamente:\n\na) Denominação, sede e funções da entidade gestora;\n\nb) Definição dos conceitos necessários ao adequado esclarecimento das condições de adesão;\n\nc) Políticas de investimento;\n\nd) Descrição dos critérios relativos a encargos a suportar;\n\ne) As regras e o método de cálculo do valor dos ativos.\n\n3 - (Revogado.)\n\n4 - Os regulamentos de gestão do FCT e do FGCT são publicados no Diário da República.\n\n5 - Os regulamentos internos do FCT e do FGCT são elaborados pelo presidente de cada conselho de gestão e sujeitos à aprovação do respetivo conselho de gestão.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080)"
+  },
+  "351301780": {
+   "fragment_id": "70382010",
+   "type": 11,
+   "heading": "Artigo 8.º — Adesão",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 8.º — Adesão\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - Após a comunicação da admissão do trabalhador à Segurança Social pelo empregador, a Segurança Social comunica automaticamente a adesão do trabalhador ao FGCT.\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n9 - (Revogado.)\n\n10 - (Revogado.)\n\n11 - (Revogado.)\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto n.os 5, 10 e 11 do artigo 8.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "351301781": {
+   "fragment_id": "70382013",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigação de pagamento",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 11.º — Obrigação de pagamento\n\n1 - (Revogado.)\n\n2 - A adesão ao FGCT determina, para o empregador, a obrigatoriedade do pagamento das respetivas entregas.\n\n3 - As entregas a que se refere o número anterior são devidas a partir do momento em que se inicia a execução de cada contrato de trabalho e até à sua cessação.\n\n4 - No início da execução de cada contrato de trabalho é declarado ao FGCT o valor da retribuição base do trabalhador, devendo esta declaração ser objeto de atualização e comunicação no prazo de cinco dias, sempre que se verifiquem alterações ao respetivo montante ou às diuturnidades a que o trabalhador venha a ter direito.\n\n5 - As declarações referidas no número anterior são feitas automaticamente, por interoperabilidade entre os sistemas da segurança social e do FGCT, com a comunicação da admissão de trabalhadores pelo empregador à Segurança Social e das alterações ao valor da retribuição base do trabalhador ou às diuturnidades a que o trabalhador venha a ter direito.\n\n6 - Constitui contraordenação muito grave a violação do disposto nos n.os 3 e 4, no que respeita à falta de declaração inicial pelo empregador à segurança social do valor da retribuição base do trabalhador.\n\n7 - Constitui contraordenação grave a violação do disposto no n.º 4, no que respeita à comunicação de atualização, pelo empregador à segurança social, sempre que devida.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 4 do artigo 11.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "351301814": {
+   "fragment_id": "70393084",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Suspensão das entregas",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24, produz efeitos a partir de 2013-10-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Suspensão das entregas\n\n1 - Quando o saldo da conta individualizada do trabalhador atingir metade dos valores limite de compensação previstos no n.º 2 do artigo 366.º do Código do Trabalho, suspende-se a obrigação do empregador fazer entregas ao FCT referentes a esse trabalhador.\n\n2 - Sempre que das comunicações referidas na segunda parte do n.º 4 do artigo 11.º, ou da atualização da RMMG, resultar para o FCT que o saldo da conta individualizada do trabalhador não garante metade dos valores limite de compensação previstos no n.º 2 do artigo 366.º do Código do Trabalho, o empregador é notificado para retomar as entregas nos termos dos artigos 12.º e 13.º da presente lei.\n\n3 - Constitui contraordenação grave a violação da retoma das entregas nos termos previstos na parte final do número anterior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24, produz efeitos a partir de 2013-10-01"
+  },
+  "351301815": {
+   "fragment_id": "70393085",
+   "type": 11,
+   "heading": "Artigo 11.º-B — Dispensa de entregas ao Fundo de Compensação do Trabalho",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24, produz efeitos a partir de 2013-10-01"
+   ],
+   "markdown": "###### Artigo 11.º-B — Dispensa de entregas ao Fundo de Compensação do Trabalho\n\n1 - Sempre que o contrato de trabalho celebrado reconheça ao trabalhador antiguidade que lhe confira direito a compensação de valor superior ao dos limites de compensação previstos no n.º 2 do artigo 366.º do Código do Trabalho, o empregador fica dispensado, no âmbito do FCT, de fazer entregas na conta individual do respetivo trabalhador.\n\n2 - Sempre que das comunicações referidas na segunda parte do n.º 4 do artigo 11.º, ou da atualização da RMMG, resultar para o FCT que o saldo da conta individualizada do trabalhador não garante metade dos valores limite de compensação previstos no n.º 2 do artigo 366.º do Código do Trabalho, o empregador é notificado para retomar as entregas nos termos dos artigos 12.º e 13.º da presente lei.\n\n3 - Constitui contraordenação grave a violação da parte final do disposto no n.º 2.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24, produz efeitos a partir de 2013-10-01"
+  },
+  "351301782": {
+   "fragment_id": "221148592",
+   "type": 11,
+   "heading": "Artigo 11.º-C — Diferimento e suspensão de prazos",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01",
+    "Aditado pelo/a Artigo 280.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 11.º-C — Diferimento e suspensão de prazos\n\nSem prejuízo das regras gerais e especiais de caducidade, as obrigações no âmbito da relação com o FGCT e de regularização de dívida ao mesmo cujo prazo termine no decurso do mês de agosto podem ser cumpridas até ao último dia desse mês, independentemente de ser útil, sem quaisquer acréscimos ou penalidades.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01\n\n> Aditado pelo/a Artigo 280.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "351301783": {
+   "fragment_id": "70382014",
+   "type": 11,
+   "heading": "Artigo 12.º — Montante das entregas",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Montante das entregas\n\n1 - (Revogado.)\n\n2 - O valor das entregas da responsabilidade do empregador para o FGCT corresponde a 0,075 % da retribuição base e diuturnidades devidas a cada trabalhador abrangido.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301784": {
+   "fragment_id": "70382015",
+   "type": 11,
+   "heading": "Artigo 13.º — Formas de pagamento das entregas",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Formas de pagamento das entregas\n\n1 - O pagamento das entregas ao FGCT é efetuado nos termos e através dos meios eletrónicos que forem definidos na portaria prevista no n.º 1 do artigo 59.º\n\n2 - As entregas são pagas 12 vezes por ano, mensalmente, nos prazos previstos para o pagamento de contribuições e quotizações à segurança social e respeitam a 12 retribuições base mensais e diuturnidades, por cada trabalhador.\n\n3 - Constitui contraordenação grave a violação do disposto no número anterior.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301816": {
+   "fragment_id": "70382017",
+   "type": 11,
+   "heading": "Artigo 15.º — Admissibilidade de transferência",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Admissibilidade de transferência\n\n1 - A adesão ao FCT ou a ME não impede posterior transferência da totalidade dos trabalhadores ao serviço do empregador para ME ou FCT, respetivamente, contanto que tal transferência não prejudique, em caso algum, as garantias já conferidas e os valores já assegurados aos trabalhadores no que respeita ao período que antecede a transferência.\n\n2 - Em todas as situações previstas no Código do Trabalho, em que opere, a qualquer título, a transmissão da posição contratual do empregador a terceiro, por violação de normas legais, o empregador originário deve transferir para o novo empregador o saldo da conta de registo individualizado do respetivo trabalhador, incluindo a eventual valorização positiva.\n\n3 - Se, no caso previsto no número anterior, o trabalhador estiver incluído em ME, da referida transmissão para FCT ou para outro ME não pode resultar qualquer redução das garantias conferidas ao trabalhador pela presente lei.\n\n4 - Nos casos referidos nos n.os 2 e 3, tem aplicação o disposto nos n.os 2 a 7 do artigo seguinte, com as necessárias adaptações.\n\n5 - Constitui contraordenação muito grave a violação do disposto na parte final do n.º 1 e nos n.os 2 e 3.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301785": {
+   "fragment_id": "70382018",
+   "type": 11,
+   "heading": "Artigo 16.º — Transmissão de empresa ou de estabelecimento",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 16.º — Transmissão de empresa ou de estabelecimento\n\n1 - Em caso de transmissão, por qualquer título, da titularidade de empresa ou de estabelecimento ou ainda de parte de empresa ou de estabelecimento que constitua uma unidade económica, nos termos do artigo 285.º do Código do Trabalho ou de Instrumentos de Regulamentação Coletiva de Trabalho, o transmissário assume a titularidade da conta global que pertencia ao transmitente.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - Constitui contraordenação muito grave a violação do disposto no n.º 1, quanto ao transmitente.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 1 do artigo 16.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "351301786": {
+   "fragment_id": "70382019",
+   "type": 11,
+   "heading": "Artigo 17.º — Despedimento ilícito",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Despedimento ilícito\n\n1 - No seguimento de decisão judicial que, em caso de despedimento ilícito, imponha a reintegração do trabalhador, o empregador fica obrigado, no prazo de 30 dias contados a partir da data do trânsito em julgado daquela decisão, a nova inclusão do trabalhador no FGCT e ao pagamento das entregas que deixou de efetuar, relativamente a tal trabalhador, desde esta data, a este fundo.\n\n2 - (Revogado.)\n\n3 - No seguimento de decisão judicial transitada em julgado que declare o despedimento ilícito, caso o FGCT tenha sido acionado para pagamento de parte da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho, o trabalhador deve, no prazo de 30 dias, devolver ao FGCT os valores que por este tenham sido adiantados.\n\n4 - A devolução referida no número anterior pode ser efetuada pelo montante global da dívida ou em prestações, mediante acordo, a celebrar com o FGCT, nos termos e nas condições aprovados por deliberação do respetivo conselho de gestão.\n\n5 - (Revogado.)\n\n6 - Constitui contraordenação muito grave a violação do disposto nos n.os 1 a 3.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301787": {
+   "fragment_id": "70382020",
+   "type": 11,
+   "heading": "Artigo 18.º — Entidades gestoras",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Entidades gestoras\n\n1 - Os respetivos conselhos de gestão do FCT e do FGCT têm as competências previstas nos artigos 22.º e 38.º\n\n2 - As entidades gestoras do FCT e do FGCT são, respetivamente, o Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P. (IGFCSS, I. P.), e o Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.)\n\n3 - São atribuições gerais das entidades gestoras do FCT e do FGCT, designadamente:\n\na) Gerir o investimento, praticando os atos e operações necessários à boa concretização da política de investimento, nomeadamente:\n\ni) Selecionar os ativos;\n\nii) Adquirir e alienar os ativos, cumprindo as formalidades necessárias para a válida e regular transmissão dos mesmos;\n\niii) Exercer os direitos relacionados com os ativos;\n\nb) Administrar o FCT e o FGCT e valores a estes afetos, nomeadamente:\n\ni) Assegurar os serviços jurídicos e de contabilidade necessários à gestão dos fundos;\n\nii) Esclarecer e analisar as questões e reclamações;\n\niii) Cumprir e controlar a observância das normas aplicáveis, do regulamento de gestão, do regulamento interno e dos contratos celebrados no âmbito da atividade do FCT e do FGCT;\n\niv) Efetuar os procedimentos de liquidação e de compensação;\n\nv) Conservar documentos.\n\n4 - O IGFCSS, I. P., assegura ainda o funcionamento do FCT, celebrando, para o efeito, protocolos com o Instituto da Segurança Social, I. P. (ISS, I. P.), ou com as instituições de segurança social competentes das regiões autónomas.\n\n5 - O IGFSS, I. P., assegura ainda o funcionamento do FGCT, celebrando, para o efeito, protocolos com o ISS, I. P., ou com as instituições de segurança social competentes das regiões autónomas.\n\n6 - A gestão económica e financeira do FCT e do FGCT é disciplinada pelos respetivos planos de atividades, orçamentos, relatórios de contas e balanços anuais.\n\n7 - O IGFSS, I. P., pode, mediante protocolo aprovado pelo conselho de gestão do FGCT, proceder à contratualização da gestão de parte do património do fundo com o IGFCSS, I. P.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301817": {
+   "fragment_id": "70382033",
+   "type": 11,
+   "heading": "Artigo 30.º — Contas",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Contas\n\n1 - O montante das entregas é mensalmente creditado na conta global do empregador e alocado às contas de registo individualizado de cada trabalhador.\n\n2 - O saldo das contas de registo individualizado de cada trabalhador é, em cada momento, o resultado da valorização dos montantes alocados às mesmas, nos termos do respetivo regulamento de gestão, bem como da distribuição dos eventuais excedentes provenientes do FGCT.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301788": {
+   "fragment_id": "70382034",
+   "type": 11,
+   "heading": "Artigo 31.º — Saldo",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Saldo\n\nO saldo da conta global do empregador corresponde ao somatório do valor apurado em cada uma das contas de registo individualizado de cada trabalhador inscrito até à entrada em vigor da Lei n.º 13/2023, de 3 de abril, líquido dos valores em dívida ao FGCT e dos custos operacionais.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301797": {
+   "fragment_id": "351301730",
+   "type": 11,
+   "heading": "Artigo 31.º-A — Modelação do acesso aos saldos das contas globais do empregador",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 31.º-A — Modelação do acesso aos saldos das contas globais do empregador\n\n1 - O acesso pelos empregadores ao saldo das contas globais é feito tendo em conta o seu valor em euros à data da constituição das mesmas, podendo ser mobilizado a partir do último trimestre de 2023 e até 31 de dezembro de 2026.\n\n2 - Os saldos inferiores a (euro) 400 000,00 podem ser mobilizados até duas vezes, nos limites temporais previstos no número anterior.\n\n3 - Os saldos superiores a (euro) 400 000,00 podem ser mobilizados até quatro vezes, nos limites temporais previstos no n.º 1.\n\n4 - Sem prejuízo dos momentos de mobilização dos saldos das contas globais, a efetiva utilização dos valores pela entidade empregadora deve ocorrer, impreterivelmente, até à data de extinção do FCT.\n\n5 - O valor dos saldos das contas globais de cada entidade empregadora é reembolsado após dedução das verbas em dívida pela entidade empregadora ao FGCT.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301802": {
+   "fragment_id": "351301731",
+   "type": 11,
+   "heading": "Artigo 31.º-B — Mobilização do Fundo de Compensação do Trabalho",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 31.º-B — Mobilização do Fundo de Compensação do Trabalho\n\n1 - A mobilização dos montantes do FCT para as finalidades previstas no n.º 1 do artigo 3.º destina-se a todos os trabalhadores da empresa, salvo na situação prevista na alínea d) do n.º 1 do artigo 3.º, que é apenas aplicável aos trabalhadores incluídos no FCT até à data de entrada em vigor da Lei n.º 13/2023, de 3 de abril.\n\n2 - As finalidades previstas no n.º 1 do artigo 3.º são acumuláveis para qualquer momento de mobilização pela entidade empregadora.\n\n3 - Para efeitos de mobilização dos montantes do FCT, a entidade empregadora declara, sob compromisso de honra, no sítio da Internet dos fundos de compensação:\n\na) O montante e as finalidades da mobilização;\n\nb) Os trabalhadores beneficiários;\n\nc) O cumprimento do dever de auscultação e a não existência de oposição fundamentada ou, quando aplicável, o cumprimento da comunicação prévia aos trabalhadores, caso estejam em causa as finalidades previstas nas alíneas a) e c) do n.º 1 do artigo 3.º;\n\nd) Cópia do acordo celebrado com as estruturas representativas dos trabalhadores, caso esteja em causa a finalidade prevista na alínea b) do n.º 1 do artigo 3.º\n\n4 - O cumprimento do dever de auscultação previsto na alínea c) do número anterior é assegurado pela entidade empregadora mediante auscultação da comissão de trabalhadores ou, na sua falta, das comissões intersindicais, das comissões sindicais ou dos delegados sindicais.\n\n5 - Para efeitos do número anterior, a entidade auscultada tem um prazo de 10 dias consecutivos para se opor à mobilização dos montantes, apenas podendo a oposição ter como fundamento a utilização dos mesmos para finalidades diversas das previstas ou o desrespeito pelos princípios da equidade e da igualdade de oportunidades e de tratamento.\n\n6 - Caso não exista comissão de trabalhadores, comissões intersindicais, comissões sindicais e delegados sindicais, a intenção de mobilização dos montantes existentes na conta global pela entidade empregadora está apenas sujeita à comunicação aos trabalhadores, com uma antecedência de 10 dias consecutivos em relação à data de mobilização pretendida.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301803": {
+   "fragment_id": "70382035",
+   "type": 11,
+   "heading": "Artigo 32.º — Informação",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — Informação\n\nA entidade gestora deve disponibilizar ao empregador, através de sítio na Internet, informação atualizada sobre o montante das entregas feitas e a quantificação do valor disponível da conta global do empregador, relativamente aos 12 meses anteriores.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301818": {
+   "fragment_id": "70382036",
+   "type": 11,
+   "heading": "Artigo 33.º — Pagamento ao trabalhador",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 33.º — Pagamento ao trabalhador\n\n1 - Em caso de cessação de contrato de trabalho que origine o direito à compensação calculada nos termos do artigo 366.º do Código do Trabalho, o empregador paga ao trabalhador a totalidade do valor da compensação, nos termos e nas condições previstas no Código do Trabalho, sem prejuízo do direito ao reembolso previsto no artigo seguinte.\n\n2 - Sempre que o empregador não efetue, total ou parcialmente, o pagamento previsto no número anterior, pode o trabalhador acionar o FGCT, pelo valor necessário à cobertura de metade do valor da compensação devida por cessação do contrato de trabalho, calculada nos termos do artigo 366.º do Código do Trabalho, subtraído do montante já pago pelo empregador ao trabalhador, nos termos dos artigos 46.º a 49.º da presente lei.\n\n3 - O FGCT não responde por qualquer valor sempre que o empregador já tenha pago ao trabalhador valor igual ou superior a metade da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301819": {
+   "fragment_id": "70382037",
+   "type": 11,
+   "heading": "Artigo 34.º — Direito ao reembolso por parte do empregador",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 34.º — Direito ao reembolso por parte do empregador\n\n1 - Sem prejuízo do disposto no n.º 4, em qualquer caso de cessação do contrato de trabalho, o empregador pode solicitar ao FCT, com uma antecedência máxima de 20 dias relativamente à data da cessação do contrato de trabalho, o reembolso do saldo da conta de registo individualizado do respetivo trabalhador, incluindo eventual valorização positiva, informando o FCT da existência de obrigação do pagamento de compensação ao trabalhador.\n\n2 - O reembolso previsto no número anterior deve ser efetuado pelo FCT ao empregador no prazo de máximo de 10 dias a contar da data do pedido de reembolso.\n\n3 - Caso a cessação do contrato de trabalho não determine a obrigação de pagamento de compensação, calculada nos termos do artigo 366.º do Código do Trabalho, o valor reembolsado pelo FCT reverte para o empregador, sem prejuízo do disposto no número seguinte.\n\n4 - Nos casos de transmissão por Instrumento de Regulamentação Coletiva de Trabalho, previstas no artigo 16.º, o reembolso a que se refere o número anterior deve ser efetuado, por rateio, a todas as entidades empregadoras que tenham contribuído para essa conta individual, em função dos descontos que cada uma tenha efetuado, devendo o FCT, para o efeito, notificar cada uma delas, no prazo de 90 dias a contar da data em que o empregador tenha solicitado ao FCT o respetivo reembolso, ou comunicado a data da cessação do contrato, consoante a que ocorrer primeiro.\n\n5 - O FCT comunica à Autoridade para as Condições do Trabalho (ACT) e ao FGCT o reembolso efetuado nos termos dos números anteriores, no prazo máximo de quatro dias a contar da realização do mesmo.\n\n6 - Sem prejuízo do disposto no n.º 1 do artigo 17.º, sempre que, após apresentação de pedido de reembolso, pelo empregador ao FCT, a cessação do contrato de trabalho não venha a ocorrer, deve o empregador devolver ao FCT o valor reembolsado no prazo de 10 dias contados a partir da não verificação da cessação do contrato de trabalho.\n\n7 - O empregador que, após um ano contado da data da cessação do contrato de trabalho, não tenha solicitado ao FCT o reembolso do saldo da conta de registo individualizado do trabalhador e a eventual valorização positiva, é notificado pelo FCT para o efeito, fixando-lhe prazo não superior a 30 dias, a partir do qual não beneficia de eventuais valorizações positivas.\n\n8 - Constitui contraordenação grave a violação do disposto no n.º 6.\n\n9 - Constitui contraordenação muito grave a não entrega, total ou parcial, pelo empregador ao trabalhador, em prazo igual ou inferior ao estabelecido no n.º 2 do artigo 56.º, do valor reembolsado pelo FCT, por conta da obrigação de pagamento de compensação calculada nos termos do artigo 366.º do Código do Trabalho.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 7 do artigo 34.º, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma. O disposto no n.º 8 do artigo 34.º da Lei n.º 70/2013, de 30 de agosto, com a redação dada pelo presente decreto-lei, apenas se aplica aos contratos de trabalho que cessem após a data da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "351301820": {
+   "fragment_id": "70382038",
+   "type": 11,
+   "heading": "Artigo 35.º — Incumprimento da entrega",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 35.º — Incumprimento da entrega\n\n1 - A falta de pagamento da entrega mensal devida ao FCT pelo empregador determina a não capitalização do respetivo montante em falta durante o período de incumprimento e a imputação na conta do empregador das despesas inerentes ao procedimento de regularização, bem como das despesas administrativas de manutenção da conta, nos termos descritos no regulamento de gestão.\n\n2 - Verificado o incumprimento, o empregador é notificado pela entidade gestora para proceder à respetiva regularização, constando da notificação as consequências do incumprimento estabelecidas no número anterior.\n\n3 - A falta de regularização voluntária dos valores devidos ao FCT determina a constituição de dívida, nos termos e para os efeitos do capítulo vi, sem prejuízo da contraordenação prevista no n.º 5 do artigo 11.º, na parte que respeita ao disposto no n.º 3 daquela disposição.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301821": {
+   "fragment_id": "70382040",
+   "type": 11,
+   "heading": "Artigo 36.º — Regime",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 36.º — Regime\n\n1 - Em alternativa ao FCT pode o empregador optar por ME, pelo qual o empregador fica vinculado a conceder ao trabalhador garantia igual à que resultaria da sua vinculação ao FCT.\n\n2 - Caso opte pelo ME, o empregador fica obrigado a subscrevê-lo e a mantê-lo em vigor desde o início da execução do contrato de trabalho até à cessação do mesmo, conferindo, por esta via, ao trabalhador a garantia prevista no número anterior, sem prejuízo do disposto nos números seguintes.\n\n3 - Sem prejuízo do disposto no n.º 2 do artigo 8.º, o empregador pode optar por aderir a diferentes mecanismos equivalentes relativamente aos seus trabalhadores desde que de tal não resulte prática discriminatória em relação a qualquer trabalhador.\n\n4 - O empregador pode transferir as obrigações garantidas por um ME para outro desde que de tal alteração não resulte qualquer prejuízo relativamente à cobertura garantida pelo ME inicial.\n\n5 - Na eventualidade de o ME, ainda que respeitando o disposto no n.º 1 do presente artigo, não assegurar a cobertura de montante correspondente a metade da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho, pode o trabalhador acionar o FGCT pelo valor necessário à cobertura de metade do valor daquela, subtraído do montante já pago pelo empregador ao trabalhador.\n\n6 - O FGCT não responde por qualquer valor sempre que o empregador já tenha pago ao trabalhador valor igual ou superior a metade da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho.\n\n7 - O ME apenas pode ser constituído pelo empregador junto de instituições sujeitas a supervisão do Banco de Portugal ou do Instituto de Seguros de Portugal desde que estejam legalmente autorizadas a exercer a gestão e comercialização desse instrumento, o qual deve ser identificado como ME.\n\n8 - No caso das empresas de trabalho temporário, não constitui ME a caução prevista no artigo 7.º do Decreto-Lei n.º 260/2009, de 25 de setembro.\n\n9 - O ME está sujeito a prévia comunicação às respetivas entidades competentes, tal qual referidas no n.º 7, que devem emitir parecer expresso de conformidade de tal instrumento com os objetivos e os interesses visados proteger, na presente lei, com o FCT.\n\n10 - Ao ME aplica-se, com as necessárias adaptações, o regime do FCT, em tudo o que não for incompatível com o disposto no presente capítulo.\n\n11 - Constitui contraordenação muito grave a violação do disposto no n.º 2, na parte final do n.º 3, na parte final do n.º 4 e a comunicação prévia prevista no n.º 9.\n\n12 - Constitui contraordenação muito grave a não entrega, total ou parcial, pelo empregador ao trabalhador, em prazo igual ou inferior ao estabelecido no n.º 2 do artigo 56.º, do valor reembolsado por ME, por conta da obrigação de pagamento de compensação calculada nos termos do artigo 366.º do Código do Trabalho.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301825": {
+   "fragment_id": "70382050",
+   "type": 11,
+   "heading": "Artigo 45.º — Despesas do fundo de garantia de compensação do trabalho",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080)"
+   ],
+   "markdown": "###### Artigo 45.º — Despesas do fundo de garantia de compensação do trabalho\n\n1 - Constituem despesas do FGCT:\n\na) Os valores pagos a título de compensação;\n\nb)  [Revogada.]\n\nc) As despesas de administração e de gestão;\n\nd) Outras despesas relacionadas com o Fundo e previstas no respetivo regulamento de gestão.\n\n2 -  (Revogado.)\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080)"
+  },
+  "351301807": {
+   "fragment_id": "351301732",
+   "type": 11,
+   "heading": "Artigo 45.º-A — Pagamento ao trabalhador",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 45.º-A — Pagamento ao trabalhador\n\n1 - Sempre que o empregador não efetue, total ou parcialmente, o pagamento da compensação devida por cessação do contrato de trabalho, calculada nos termos do artigo 366.º do Código do Trabalho, pode o trabalhador acionar o FGCT, pelo valor necessário à cobertura de metade do valor da referida compensação, subtraído do montante já pago pelo empregador ao trabalhador, nos termos dos artigos 46.º a 49.º da presente lei.\n\n2 - Para efeitos do disposto no número anterior, são abrangidos pelo FGCT todos os contratos de trabalho celebrados a partir de 1 de outubro de 2013, incluindo os celebrados após a entrada em vigor da Lei n.º 13/2023, de 3 de abril.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301808": {
+   "fragment_id": "70382051",
+   "type": 11,
+   "heading": "Artigo 46.º — Procedimento",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 46.º — Procedimento\n\n1 - O trabalhador pode requerer ao FGCT o valor necessário à cobertura de metade do valor da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho, subtraído do montante já pago pelo empregador ao trabalhador.\n\n2 - O FGCT não responde por qualquer valor sempre que o empregador já tenha pago ao trabalhador valor igual ou superior a metade da compensação devida por cessação do contrato de trabalho calculada nos termos do artigo 366.º do Código do Trabalho.\n\n3 - O FGCT efetua o pagamento referido nos números anteriores mediante requerimento do trabalhador, no qual consta, designadamente, a identificação do requerente e do empregador.\n\n4 - (Revogado.)\n\n5 - Para pagamento ao trabalhador, o FGCT solicita ainda ao empregador informação relativa à cessação do contrato de trabalho, nomeadamente a que título esta operou, bem como relativa aos montantes eventualmente pagos pelo empregador ao trabalhador a título de compensação, devida por cessação do contrato de trabalho, calculada nos termos do artigo 366.º do Código do Trabalho.\n\n6 - O empregador deve prestar a informação solicitada no número anterior no prazo de quatro dias.\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n9 - O valor do património do FGCT corresponde ao montante máximo disponível para o pagamento das suas obrigações.\n\n10 - Constitui contraordenação grave o incumprimento, por parte do empregador, do disposto no n.º 6.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301809": {
+   "fragment_id": "70382052",
+   "type": 11,
+   "heading": "Artigo 47.º — Prazo de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Prazo de apreciação\n\n1 - O requerimento entregue ao FGCT pelo trabalhador deve ser objeto de decisão final, no prazo de 20 dias a contar da respetiva apresentação.\n\n2 - Sempre que a tanto haja lugar, o pagamento ao trabalhador deve ser efetuado pelo FGCT, dentro do prazo referido no número anterior."
+  },
+  "351301810": {
+   "fragment_id": "70382053",
+   "type": 11,
+   "heading": "Artigo 48.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Decisão\n\n1 - A decisão proferida é notificada ao trabalhador e ao empregador, com a indicação, em caso de deferimento total ou parcial, designadamente, do montante a pagar e da forma de pagamento.\n\n2 - Sempre que o Fundo de Garantia Salarial o requeira, a decisão deve ser-lhe notificada, com indicação dos valores eventualmente pagos pelo empregador."
+  },
+  "351301811": {
+   "fragment_id": "70382054",
+   "type": 11,
+   "heading": "Artigo 49.º — Incumprimento da entrega",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 49.º — Incumprimento da entrega\n\n1 - A falta de pagamento da entrega mensal devida ao FGCT pelo empregador determina a sua notificação pela entidade gestora para proceder à respetiva regularização, constando da notificação as consequências do incumprimento.\n\n2 - A falta de regularização voluntária dos valores devidos ao FGCT determina a constituição de dívida, nos termos e para os efeitos do disposto nos artigos 51.º e seguintes, sem prejuízo da contraordenação prevista no n.º 6 do artigo 11.º, na parte que respeita ao disposto no n.º 3 daquela disposição.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301822": {
+   "fragment_id": "70382055",
+   "type": 11,
+   "heading": "Artigo 50.º — Regime subsidiário",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 50.º — Regime subsidiário\n\nAo FGCT aplica-se, com as necessárias adaptações, o regime do FCT, em tudo o que não for incompatível com o disposto no presente capítulo.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301813": {
+   "fragment_id": "70382056",
+   "type": 1,
+   "heading": "Capítulo VI — Regularização da dívida ao Fundo de Garantia de Compensação do Trabalho",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "### Capítulo VI — Regularização da dívida ao Fundo de Garantia de Compensação do Trabalho\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301792": {
+   "fragment_id": "70382057",
+   "type": 11,
+   "heading": "Artigo 51.º — Regularização da dívida",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 51.º — Regularização da dívida\n\n1 - A dívida pode ser regularizada através do seu pagamento voluntário.\n\n2 - O pagamento voluntário pode ser efetuado pelo montante global da dívida ou em prestações, mediante acordo, a celebrar com o FGCT, nos casos e nas condições aprovadas por deliberação dos respetivos conselhos de gestão.\n\n3 - A falta de regularização voluntária da dívida determina a sua cobrança coerciva, sendo para tal a mesma equiparada a dívidas à segurança social.\n\n4 - A cobrança coerciva tem por base certidão emitida pelo presidente do conselho de gestão do respetivo fundo.\n\n5 - A certidão deve conter assinatura devidamente autenticada, a data em que foi emitida, o nome e o domicílio do devedor, a proveniência da natureza dos créditos e a indicação, por extenso, do seu montante, bem como a data a partir da qual são devidos juros de mora e sobre que importância estes incidem.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301793": {
+   "fragment_id": "70382060",
+   "type": 11,
+   "heading": "Artigo 53.º — Fiscalização e aplicação de coimas",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+   ],
+   "markdown": "###### Artigo 53.º — Fiscalização e aplicação de coimas\n\n1 - A fiscalização e o procedimento de contraordenações previstas na presente lei relativas à conduta do empregador são da competência da ACT.\n\n2 - O FCT e o FGCT têm o dever de comunicar à ACT, no prazo de 30 dias, todo e qualquer incumprimento, pelo empregador, das obrigações previstas na presente lei.\n\n3 - Sem prejuízo do disposto no número anterior, o FCT e o FGCT têm o dever de prestar a informação necessária à ACT de modo que esta possa fiscalizar o cumprimento das obrigações previstas no presente diploma relativamente aos empregadores.\n\n4 - Sempre que existam fundadas dúvidas quanto ao cumprimento das obrigações, pelo empregador, o FCT e o FGCT podem solicitar à ACT as correspondentes ações inspetivas.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137) O disposto no n.º 2 do artigo 53.º, da Lei n.º 70/2013, de 30 de agosto, com a redação dada pelo presente decreto-lei, apenas se aplica a contratos de trabalho celebrados após a data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 210/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2015-70386137), em vigor a partir de 2015-11-24"
+  },
+  "351301794": {
+   "fragment_id": "70382063",
+   "type": 11,
+   "heading": "Artigo 56.º — Abuso de confiança",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 56.º — Abuso de confiança\n\n1 - O empregador que não entregue ao trabalhador, total ou parcialmente, o valor da compensação reembolsado pelo FCT, que seja devido ao trabalhador, é punido com as penas previstas nos n.os 1 e 5 do artigo 105.º do Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho.\n\n2 - Os factos descritos no número anterior só são puníveis se tiverem decorrido mais de 90 dias sobre o termo do prazo estipulado para a efetivação do reembolso, pelo FCT ao empregador.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301795": {
+   "fragment_id": "70382065",
+   "type": 11,
+   "heading": "Artigo 57.º — Disposições fiscais",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 57.º — Disposições fiscais\n\n1 - O FCT e o FGCT são equiparados a fundos de capitalização administrados pelas instituições da segurança social para efeitos do disposto na alínea d) do n.º 1 do artigo 9.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (IRC), aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro.\n\n2 - Os pagamentos aos trabalhadores, efetuados nos termos do n.º 1 do artigo 45.º-A, são enquadráveis no disposto nos n.os 4 a 7 do artigo 2.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro, com as necessárias adaptações.\n\n3 - As entregas efetuadas ao FGCT são consideradas gasto fiscal, nos termos da alínea d) do n.º 1 do artigo 23.º do IRC, no período de tributação em que são efetuadas.\n\n4 - O reembolso à entidade empregadora do saldo da conta global é considerado rendimento para efeitos fiscais, pelo montante correspondente à valorização positiva gerada pelas aplicações financeiras dos valores afetos ao FCT, deduzido das respetivas despesas administrativas.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301796": {
+   "fragment_id": "70382066",
+   "type": 11,
+   "heading": "Artigo 58.º — Cooperação",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 58.º — Cooperação\n\nSem prejuízo do dever de sigilo a que estão obrigados, os conselhos de gestão e as entidades gestoras do FCT e do FGCT, bem como as entidades competentes para a fiscalização e a supervisão, estão sujeitas ao dever de cooperação, devendo, nomeadamente, estabelecer mecanismos de troca de informação, com vista a garantir o desempenho eficiente das suas atribuições.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  },
+  "351301823": {
+   "fragment_id": "70382068",
+   "type": 11,
+   "heading": "Artigo 60.º — Avaliação da implementação",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 60.º — Avaliação da implementação\n\n1 - No prazo de três anos a contar da data de entrada em funcionamento do FCT, a implementação das medidas daqui decorrentes são objeto de avaliação em articulação com a Comissão Permanente de Concertação Social.\n\n2 - No prazo e no âmbito da avaliação referidos no número anterior, deve ser apreciada a possibilidade de, mediante alteração do regime jurídico previsto na presente lei, a gestão do FCT poder ser exercida também por entidades privadas, selecionadas mediante concurso público.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 115/2023 - Diário da República n.º 241/2023, Série I de 2023-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080), em vigor a partir de 2024-01-01"
+  }
+ }
+}

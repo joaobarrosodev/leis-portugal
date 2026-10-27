@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:151543:por
+title: Despacho Normativo n.º 39/85
+short_title: null
+summary: Fixa os preços da ervilha verde em grão, a granel, em boas condições sanitárias e isenta de impurezas, a fornecer
+  à indústria transformadora à porta da fábrica ou no centro de desgranação, por quilograma e de acordo com o seu índice tenderométrico
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios da Agricultura e do Comércio e Turismo - Secretarias de Estado do Comércio e Indústria Agrícolas, da Produção
+  Agrícola e do Comércio Interno
+proposing_entity: null
+official_number: 39/85
+official_date: null
+publication_date: '1985-05-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/1985, Série I de 1985-05-22
+  number: '117'
+  series: I
+  supplement: null
+  pages: 1381 - 1382
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/05/11700/13811382.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '151543'
+  dre_path: /dr/detalhe/despacho-normativo/39-1985-151543
+  internal: pt:dre:151543:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1985-151543
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1985-151543
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:32:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a2655f77ea38cd7a2c2cb6fb0c82012602b0eb36bad1941e89a78038491aa5ed
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Leguminosas
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:296428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660519:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:32:32Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 39/85
+
+de 22 de Maio
+
+No presente despacho são fixados os preços da ervilha verde em grão produzida sob contrato a pagar aos agricultores pelas indústrias de congelação e enlatamento em função da sua qualidade, definida através da determinação do respectivo índice tenderométrico.
+
+À semelhança dos anos anteriores, os preços que agora são estabelecidos foram objecto de auscultação prévia junto de representantes da produção e da indústria e reflectem o aumento dos custos dos principais factores de produção em condições de produtividade consideradas normais.
+
+Nestes termos:
+
+Ao abrigo do n.º 3.º da [Portaria n.º 283/78](https://diariodarepublica.pt/dr/detalhe/portaria/283-1978-296428), de 24 de Maio, determina-se o seguinte:
+
+1.º - 1 - Os preços da ervilha verde em grão, a granel, em boas condições sanitárias e isenta de impurezas, a fornecer à indústria transformadora à porta da fábrica ou no centro de desgranação, por quilograma e de acordo com o seu índice tenderométrico, são os seguintes:
+
+a) Ervilha de índice até 115 - 46$00;
+
+b) Ervilha de índice de 116 a 130 - 41$50;
+
+c) Ervilha de índice de 131 a 145 - 33$50;
+
+d) Ervilha de índice superior a 145 - não tem preço fixado nem existe obrigatoriedade da sua aceitação pela indústria.
+
+2 - Os preços referidos no n.º 1.º poderão ser acrescidos de uma bonificação para transporte, até 2$50 por quilograma, consoante a distância do local de produção ao centro de desgranação.
+
+3 - Entende-se por índice tenderométrico, a pressão expressa em libras por polegada quadrada (psi) necessária para esmagar um volume definido de grão de ervilha verde.
+
+2.º - 1 - A Junta Nacional das Frutas e os serviços regionais do Ministério da Agricultura arbitrarão, quando solicitados para esse efeito, as dúvidas que surjam na execução das operações de recepção, amostragem e classificação da ervilha, designadamente na determinação do seu índice tenderométrico.
+
+2 - Às operações de amostragem e classificação deverá assistir o produtor, um seu representante ou ainda elementos da associação de agricultores a que pertença.
+
+3 - As operações de amostragem e classificação serão executadas em conformidade com as recomendações práticas divulgadas pela Junta Nacional das Frutas, tendo em vista a sua uniformização.
+
+3.º Este despacho aplica-se apenas ao continente.
+
+4.º Fica revogado o [Despacho Normativo n.º 34/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/34-1984-660519), de 9 de Fevereiro.
+
+5.º Este despacho entra em vigor no dia seguinte ao da sua publicação.
+
+Secretarias de Estado do Comércio e Indústria Agrícolas, da Produção Agrícola e do Comércio Interno, 7 de Maio de 1985. - O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado da Produção Agrícola, Joaquim António Rosado Gusmão. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade.

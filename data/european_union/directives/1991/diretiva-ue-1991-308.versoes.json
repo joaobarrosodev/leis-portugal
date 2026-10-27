@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0308:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0308-20051215",
+ "dre_path": null,
+ "source_lastmod": "2005-12-15",
+ "versions": [
+  {
+   "date": "1991-06-28",
+   "future": false,
+   "celex": "31991L0308",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b6479c1060d87075",
+    "caff0533f7202329",
+    "d0495e0dbcde56cd",
+    "fffe862498f70ab1",
+    "85a4119a001ee6ac",
+    "a3f0376cbc7fc692",
+    "0b58d7c6281b2296",
+    "240ea7e291180060",
+    "2c10d33b5b52f752",
+    "da9254b9535207be",
+    "eda240214837c7c9",
+    "3779d8d0417035d3",
+    "c194b2103a9c9888",
+    "541ee790bcbc43fb",
+    "b8f00dccc5c78364",
+    "ade64f6029b4e52e",
+    "264b7d64cbb7bdbe",
+    "b9a1589fcbf77a1d",
+    "c1299b1c1af5a7e2"
+   ]
+  },
+  {
+   "date": "2005-12-15",
+   "future": false,
+   "celex": "01991L0308-20051215",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1°",
+    "Suprime Artigo 2°",
+    "Suprime Artigo 3°",
+    "Suprime Artigo 4°",
+    "Suprime Artigo 5°",
+    "Suprime Artigo 6°",
+    "Suprime Artigo 7°",
+    "Suprime Artigo 8°",
+    "Suprime Artigo 9°",
+    "Suprime Artigo 10°",
+    "Suprime Artigo 11°",
+    "Suprime Artigo 12°",
+    "Suprime Artigo 13°",
+    "Suprime Artigo 14°",
+    "Suprime Artigo 15°",
+    "Suprime Artigo 16°",
+    "Suprime Artigo 17°",
+    "Suprime Artigo 18°"
+   ],
+   "fragments": [
+    "c4f2e370e7ea7eb1"
+   ]
+  }
+ ],
+ "fragments": {
+  "b6479c1060d87075": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 91/308/CEE do Conselho, de 10 de Junho de 1991, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais** *Jornal Oficial nº L 166 de 28/06/1991 p. 0077 - 0083 Edição especial finlandesa: Capítulo 10 Fascículo 1 p. 0068 Edição especial sueca: Capítulo 10 Fascículo 1 p. 0068*\n\nDIRECTIVA DO CONSELHO de 10 de Junho de 1991 relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais (91/308/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n° 2, primeiro e terceiro períodos, do seu artigo 57o, e o seu artigo 100oA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que quando os estabelecimentos de crédito ou outras instituições financeiras são utilizadas para o branqueamento do produto de actividades ilegais (adiante designado por « branqueamento de capitais ») a reputação e a estabilidade dos estabelecimentos e instituições em causa, bem como a fiabilidade do sistema financeiro em geral podem ficar seriamente comprometidas, perdendo assim a confiança do público;\n\nConsiderando que a falta de uma acção comunitária contra o branqueamento de capitais poderia levar os Estados-membros a adoptar, a fim de proteger os seus sistemas financeiros, medidas que poderiam ser incompatíveis com a realização do mercado único; que, para facilitar as suas actividades criminosas, os branqueadores de capitais poderiam tentar tirar partido da liberalização dos movimentos de capitais e da livre prestação de serviços financeiros que o espaço financeiro integrado implica, a menos que sejam adoptadas certas medidas de coordenação a nível comunitário;\n\nConsiderando que o branqueamento do produto de actividades criminosas tem uma nítida influência na expansão do crime organizado em geral e do tráfico de droga em particular; que existe uma tomada crescente de consciência de que o combate ao branqueamento de capitais constitui um dos meios mais eficazes para lutar contra essa forma de actividade criminosa, que representa uma especial ameaça para as sociedades dos Estados-membros;\n\nConsiderando que o branqueamento de capitais deve ser combatido, principalmente através de medidas de direito penal e no âmbito de uma cooperação internacional entre as autoridades judiciárias e policiais, tal como foi feito, no domínio da droga, pela Convenção das Nações Unidas contra o tráfico ilícito de estupefacientes e de substâncias psicotrópicas, aprovada em 19 de Dezembro de 1988 em Viena (adiante designada por « Convenção de Viena »), e tal como foi tornado extensivo a todas as actividades criminosas pela Convenção do Conselho da Europa relativa ao branqueamento, detecção, apreensão e confiscação dos produtos do crime, aberta à assinatura em 8 de Novembro de 1990 em Estrasburgo;\n\nConsiderando que a abordagem penal não deve, no entanto, ser a única estratégia para combater o branqueamento de capitais, uma vez que o sistema financeiro pode desempenhar um papel altamente eficaz; que deve fazer-se referência, neste contexto, à recomendação do Conselho da Europa de 27 de Junho de 1980 e à Declaração de Princípios adoptada em Basileia em Dezembro de 1988 pelas autoridades de fiscalização bancária do Grupo dos Dez, dois textos que constituem um passo importante no sentido de impedir a utilização do sistema financeiro para efeitos de branqueamento de capitais;\n\nConsiderando que o branqueamento de capitais se inscreve geralmente num contexto internacional que permite dissimular mais facilmente a origem criminosa dos fundos; que medidas adoptadas a nível exclusivamente nacional, sem contemplar uma coordenação e cooperação internacionais, teriam efeitos muito limitados;\n\nConsiderando que quaisquer medidas adoptadas pela Comunidade neste domínio devem coadunar-se com as acções levadas a cabo noutras instâncias internacionais; que, para este efeito, qualquer actuação da Comunidade deverá ter especialmente em conta as recomendações do Grupo de Acção Financeira sobre o Branqueamento de Capitais, instituído em Julho de 1989 pela cimeira de Paris dos sete países mais industrializados;\n\nConsiderando que o Parlamento Europeu solicitou, em diversas resoluções, o estabelecimento de um programa global comunitário de combate ao tráfico de droga, incluindo disposições sobre a prevenção de branqueamento de capitais;\n\nConsiderando que, para efeitos da presente directiva, a definição de branqueamento de capitais é extraída da contida na Convenção de Viena; que, no entanto, e uma vez que o fenómeno do branqueamento de capitais não se refere apenas ao produto de infracções relacionadas com o tráfico de estupefacientes, mas também ao produto de outras actividades criminosas (tais como o crime organizado e o terrorismo), é conveniente que os Estados-membros tornem extensivos, na acepção das respectivas legislações, os efeitos da presente directiva ao produto dessas actividades, desde que seja susceptível de ocasionar operações de branqueamento que justifiquem, por esse motivo, uma repressão;\n\nConsiderando que a proibição do branqueamento de capitais prevista na legislação dos Estados-membros, baseada em medidas apropriadas e em sanções, constitui uma condição necessária da luta contra este fenómeno;\n\nConsiderando que é necessário assegurar que os estabelecimentos de crédito e outras instituições financeiras exijam a identificação dos clientes que com elas estabeleçam relações comerciais ou realizem transacções que ultrapassem um certo montante, a fim de evitar que os branqueadores de capitais beneficiem do anonimato para desenvolver as suas actividades criminosas; que tais disposições devem também ser extensivas, tanto quanto possível, a quaisquer beneficiários económicos;\n\nConsiderando que, relativamente às transacções, os estabelecimentos de crédito e as instituições financeiras devem conservar, durante pelo menos cinco anos, cópia ou referências dos documentos de identificação exigidos, bem como os documentos comprovativos e registos, consistindo em documentos originais ou cópias com idêntica força probatória face à respectiva legislação nacional, para que estes possam servir de elemento de prova em qualquer inquérito em matéria de branqueamento de capitais;\n\nConsiderando que é necessário, a fim de preservar a reputação e a integridade do sistema financeiro e contribuir para a luta contra o branqueamento de capitais, garantir que os estabelecimentos de crédito e outras instituições financeiras examinem com especial atenção qualquer transacção que considerem especialmente susceptível, devido à sua natureza, de estar ligada ao branqueamento de capitais; que, para o efeito, aquelas instituições deverão dedicar especial atenção às transacções com países terceiros que não utilizem, na luta contra o branqueamento de capitais, normas comparáveis às estabelecidas pela Comunidade ou a outras normas equivalentes definidas por instâncias internacionais e que a Comunidade tenha feito suas;\n\nConsiderando que, para o efeito, os Estados-membros podem solicitar aos estabelecimentos de crédito e às instituições financeiras que consagrem por escrito os resultados da análise a que estão obrigadas e assegurem às autoridades responsáveis pela luta contra o branqueamento de capitais o acesso a esses elementos;\n\nConsiderando que a defesa do sistema financeiro contra o branqueamento de capitais é uma tarefa que não pode ser levada a bom termo pelas autoridades responsáveis pela luta contra este fenómeno sem a cooperação dos estabelecimentos de crédito e outras instituições financeiras e das respectivas autoridades de fiscalização; que, nestes casos, o sigilo bancário deve ser levantado; que um sistema obrigatório de comunicação das transacções suspeitas, que garanta que as informações sejam transmitidas às referidas autoridades sem alertar os clientes envolvidos, constitui a forma mais eficaz de realizar esta cooperação; que é necessária uma cláusula especial de protecção para isentar os estabelecimentos de crédito e outras instituições financeiras, bem como os respectivos funcionários e dirigentes da responsabilidade decorrente de uma violação das restrições à divulgação de informações;\n\nConsiderando que as informações recolhidas pelas autoridades nos termos da presente directiva só podem ser utilizadas para efeitos de luta contra o branqueamento de capitais; que os Estados-membros podem contudo prever que essas informações sirvam para outros fins;\n\nConsiderando que a adopção, por parte dos estabelecimentos de crédito e outras instituições financeiras, de procedimentos de controlo interno e de programas de formação neste campo constituem medidas complementares sem as quais as outras medidas contidas na presente directiva podem tornar-se ineficazes;\n\nConsiderando que, uma vez que o branqueamento de capitais pode ser efectuado não apenas através de estabelecimentos de crédito ou outras instituições financeiras mas igualmente através de outros tipos de profissões e categorias de empresas, os Estados-membros devem alargar todas as partes das disposições da presente directiva, de modo a incluir as profissões e empresas cujas actividades sejam especialmente susceptíveis de ser utilizadas para efeitos de branqueamento de capitais;\n\nConsiderando que convém que os Estados-membros zelem, muito especialmente, por que sejam tomadas medidas coordenadas a nível comunitário sempre que existam sérios indícios de que profissões ou actividades cujas condições de exercício tenham sido objecto de harmonização a nível comunitário são utilizadas para efeitos de branqueamento de capitais;\n\nConsiderando que a eficácia dos esforços desenvolvidos para eliminar o branqueamento dos capitais depende essencialmente da coordenação constante e da harmonização das medidas nacionais de aplicação; que essa coordenação e harmonização efectuadas nas diversas instâncias internacionais requerem, a nível comunitário, uma concertação entre os Estados-membros e a Comissão num comité de contacto;\n\nConsiderando que compete a cada Estado-membro tomar medidas apropriadas, assim como sancionar adequadamente as infracções às referidas medidas para garantir a plena aplicação das disposições da directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "caff0533f7202329": {
+   "fragment_id": "Artigo 1°",
+   "type": "artigo",
+   "heading": "Artigo 1°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°\n\nPara efeitos da presente directiva, entende-se por:\n\n- « Estabelecimento de crédito »: uma empresa na acepção do primeiro travessão do artigo 1° da Directiva 77/780/CEE (4), com a última redacção que lhe foi dada pela Directiva 89/646/CEE (5), bem como uma sucursal, tal como definida no terceiro travessão do artigo 1° da citada directiva, e situado na Comunidade, de um estabelecimento de crédito com sede social fora da Comunidade;\n\n- « Instituição financeira »: qualquer empresa que, não sendo instituição de crédito, tenha como actividade principal a execução de uma ou mais das operações enumeradas nos pontos 2 a 12 e 14 da lista anexa à Directiva 89/646/CEE, bem como qualquer empresa seguradora devidamente autorizada nos termos da Directiva 79/267/CEE (6), com a última redacção que lhe foi dada pela Directiva 90/619/CEE (7), na medida em que exerça actividades do âmbito da citada directiva; esta definição abrange igualmente as sucursais, situadas na Comunidade, de instituições financeiras que tenham a sua sede social fora da Comunidade;\n\n- « Branqueamento de capitais »: as seguintes operações, efectuadas intencionalmente:\n\n- conversão ou transferência de bens, com conhecimento por parte daquele que as efectua, de que esses bens provêm de uma actividade criminosa ou da participação numa actividade dessa natureza, com o fim de encobrir ou dissimular a origem ilícita dos mesmos ou de auxiliar quaisquer pessoas implicadas nessa actividade a furtar-se às consequências jurídicas dos seus actos,\n\n- dissimulação ou encobrimento da verdadeira natureza, origem, localização, utilização, circulação ou posse de determinados bens ou de direitos relativos a esses bens, com conhecimento pelo autor de que tais bens provêm de uma actividade criminosa ou da participação numa actividade dessa natureza,\n\n- aquisição, detenção ou utilização de bens, com conhecimento, quando da sua recepção, de que provêm de uma actividade criminosa ou da participação numa actividade dessa natureza,\n\n- a participação num dos actos referidos nos pontos anteriores, a associação para praticar o referido acto, as tentativas de o perpetrar, o facto de ajudar, incitar ou aconselhar alguém a praticá-lo ou o facto de facilitar a sua execução.\n\nO conhecimento, a intenção ou a motivação, que devem ser um elemento das actividades acima referidas, podem ser apurados com base em circunstâncias de facto objectivas.\n\nExiste branqueamento de capitais mesmo que as actividades que estão na origem dos bens a branquear se localizem no território de outro Estado-membro ou de um país terceiro;\n\n- « Bens »: activos de qualquer espécie, corpóreos ou incorpóreos, móveis ou imóveis, tangíveis ou intangíveis, bem como documentos legais ou outros instrumentos comprovativos da propriedade desses activos ou dos direitos a eles relativos;\n\n- « Actividade criminosa »: qualquer das infracções definidas no n° 1, alínea a), do artigo 3° da Convenção de Viena, bem como qualquer outra actividade criminosa definida como tal para efeitos da presente directiva por cada Estado-membro;\n\n- « Autoridades competentes »: as autoridades nacionais incumbidas, por lei ou por força de outra regulamentação, de fiscalizar os estabelecimentos de crédito ou as instituições financeiras."
+  },
+  "d0495e0dbcde56cd": {
+   "fragment_id": "Artigo 2°",
+   "type": "artigo",
+   "heading": "Artigo 2°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°\n\nCompete aos Estados-membros proibir o branqueamento de capitais, tal como definido na presente directiva."
+  },
+  "fffe862498f70ab1": {
+   "fragment_id": "Artigo 3°",
+   "type": "artigo",
+   "heading": "Artigo 3°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°\n\n1. Os Estados-membros assegurarão que os estabelecimentos de crédito e as instituições financeiras exijam a identificação dos seus clientes mediante um documento comprovativo, sempre que estabeleçam relações de negócios, em especial, quando abram uma conta ou caderneta de poupança ou ofereçam serviços de guarda de valores.\n\n2. A exigência de identificação aplica-se igualmente no caso das transacções com clientes que não sejam os referidos no n° 1 cujo montante atinja ou ultrapasse 15 000 ecus, quer sejam efectuadas numa só ou em várias operações que se afigure terem uma ligação entre si. No caso de o montante não ser conhecido no momento do início da transacção, o organismo em questão procederá à identificação a partir do momento em que tenha conhecimento desse montante e em que verifique que o limiar foi atingido.\n\n3. Em derrogação dos nos 1 e 2, não será requerida a exigência de identificação em relação a contratos de seguro celebrados por empresas de seguros na acepção da Directiva 79/267/CEE do Conselho, na medida em que essas empresas efectuem actividades do âmbito dessa directiva, quando o montante do ou dos prémios periódicos a pagar no decurso de um ano for igual ou inferior a 1 000 ecus ou quando foi pago um prémio único de um montante igual ou inferior a 2 500 ecus. Caso o ou os prémios periódicos a pagar no decurso de um ano sejam aumentados, ultrapassando o limiar de 1 000 ecus, será exigida a identificação.\n\n4. Os Estados-membros podem estabelecer que, relativamente aos contratos de seguro de pensão que decorram de um contrato de trabalho ou de actividade profissional do segurado, não é obrigatória a identificação, desde que esses contratos de seguro de pensão não contenham uma cláusula de resgate nem possam servir de garantia a um empréstimo.\n\n5. Caso suspeitem de que os clientes referidos nos números anteriores não actuam por conta própria ou em caso de certeza de que não actuam por conta própria, os estabelecimentos de crédito e as instituições financeiras tomarão medidas razoáveis para obter informações sobre a identidade real das pessoas por conta das quais esses clientes actuam.\n\n6. Os estabelecimentos de crédito e as instituições financeiras são obrigados a proceder a essa identificação sempre que exista uma suspeita de branqueamento de capitais, mesmo que o montante da transacção seja inferior aos níveis fixados.\n\n7. Os estabelecimentos de crédito e as instituições financeiras não ficam sujeitas às condições de identificação constantes do presente artigo no caso de o cliente ser igualmente um estabelecimento de crédito ou uma instituição financeira abrangida pela presente directiva.\n\n8. Os Estados-membros podem prever que a obrigação de identificação relativa às transacções a que se referem os nos 3 e 4 se encontra preenchida quando for estabelecido que o pagamento da transacção deva ser efectuado por débito de uma conta aberta em nome do cliente numa instituição de crédito sujeita à obrigação prevista no n° 1."
+  },
+  "85a4119a001ee6ac": {
+   "fragment_id": "Artigo 4°",
+   "type": "artigo",
+   "heading": "Artigo 4°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4°\n\nOs Estados-membros assegurarão que os estabelecimentos de crédito e as instituições financeiras conservem, para servirem de elemento de prova a qualquer inquérito em matéria de branqueamento de capitais:\n\n- relativamente à identificação, a cópia ou as referências dos documentos exigidos, durante um período de pelo menos cinco anos após o termo das relações com os respectivos clientes,\n\n- relativamente às transacções, os documentos comprovativos e registos, consistindo em documentos originais ou cópias com idêntica força probatória face à respectiva legislação nacional, durante um período de pelo menos cinco anos a contar da data de execução das transacções."
+  },
+  "a3f0376cbc7fc692": {
+   "fragment_id": "Artigo 5°",
+   "type": "artigo",
+   "heading": "Artigo 5°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5°\n\nOs Estados-membros assegurarão que os estabelecimentos de crédito e as instituições financeiras examinem com especial atenção qualquer transacção que considerem particularmente susceptível, pela sua natureza, de estar associada ao branqueamento de capitais."
+  },
+  "0b58d7c6281b2296": {
+   "fragment_id": "Artigo 6°",
+   "type": "artigo",
+   "heading": "Artigo 6°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6°\n\nOs Estados-membros velarão por que os estabelecimentos de crédito e as instituições financeiras, bem como os respectivos dirigentes e funcionários colaborem plenamente com as autoridades responsáveis pela luta contra o branqueamento:\n\n- informando-as, por iniciativa própria, de quaisquer factos que possam constituir indícios de operações de branqueamento de capitais,\n\n- facultando-lhes, a seu pedido, todas as informações necessárias, em conformidade com os procedimentos estabelecidos pela legislação aplicável.\n\nAs referidas informações serão enviadas às autoridades responsáveis pela luta contra o branqueamento do Estado-membro em cujo território está situada a instituição que enviou essas informações. Este envio é normalmente efectuado pela pessoa ou pessoas designadas pelos estabelecimentos de crédito e pelas instituições financeiras, em conformidade com os procedimentos previstos no n° 1 do artigo 11° As informações fornecidas às autoridades em aplicação do primeiro parágrafo só podem ser utilizadas para efeitos de luta contra o branqueamento de capitais. Contudo, os Estados-membros podem prever a possibilidade de essas informações serem utilizadas igualmente para outros fins."
+  },
+  "240ea7e291180060": {
+   "fragment_id": "Artigo 7°",
+   "type": "artigo",
+   "heading": "Artigo 7°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7°\n\nOs Estados-membros assegurarão que os estabelecimentos de crédito e as instituições financeiras se abstenham de executar as transacções que saibam ou suspeitem estar relacionadas com o branqueamento de capitais antes de avisarem as autoridades referidas no artigo 6° As autoridades podem, nas condições determinadas pela legislação nacional, dar instruções para que a operação não seja executada. No caso de se suspeitar que a operação em questão vai dar lugar a uma operação de branqueamento e de a abstenção não ser possível ou ser susceptível de impedir o procedimento judicial contra os beneficiários da operação suspeita de branqueamento, os estabelecimentos e instituições em questão fornecerão imediatamente as informações requeridas."
+  },
+  "2c10d33b5b52f752": {
+   "fragment_id": "Artigo 8°",
+   "type": "artigo",
+   "heading": "Artigo 8°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8°\n\nOs estabelecimentos de crédito e as instituições financeiras, os seus dirigentes e funcionários não podem comunicar ao cliente em causa ou a terceiros o facto de terem sido transmitidas informações às autoridades, em aplicação dos artigos 6° e 7o, nem que se encontra em curso uma investigação sobre o branqueamento de capitais."
+  },
+  "da9254b9535207be": {
+   "fragment_id": "Artigo 9°",
+   "type": "artigo",
+   "heading": "Artigo 9°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9°\n\nA divulgação, de boa-fé, às autoridades responsáveis pela luta contra o branqueamento, por parte de um empregado ou de um dirigente de um estabelecimento de crédito ou de uma instituição financeira, das informações referidas nos artigos 6° e 7° não constitui violação de qualquer restrição à divulgação de informações imposta por via contratual ou por qualquer disposição legislativa, regulamentar ou administrativa e não implica qualquer tipo de responsabilidade para o estabelecimento de crédito ou a instituição financeira, nem para os seus dirigentes ou funcionários."
+  },
+  "eda240214837c7c9": {
+   "fragment_id": "Artigo 10°",
+   "type": "artigo",
+   "heading": "Artigo 10°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10°\n\nOs Estados-membros assegurarão que as autoridades competentes informem as autoridades responsáveis pela luta contra o branqueamento se, nas inspecções levadas a cabo em estabelecimentos de crédito ou instituições financeiras ou por qualquer outra forma, vierem a descobrir factos susceptíveis de constituir prova de uma operação de branqueamento de capitais."
+  },
+  "3779d8d0417035d3": {
+   "fragment_id": "Artigo 11°",
+   "type": "artigo",
+   "heading": "Artigo 11°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11°\n\nOs Estados-membros assegurarão que os estabelecimentos de crédito e as instituições financeiras:\n\n1. Criem processos adequados de controlo interno e de comunicação para prevenir e impedir a realização de operações relacionadas com o branqueamento de capitais.\n\n2. Tomem as medidas adequadas para sensibilizar os seus funcionários para as disposições da presente directiva. Estas medidas incluirão a participação dos funcionários relacionados com estas questões em programas especiais de formação, a fim de os ajudar a reconhecer as operações que possam estar relacionadas com o braqueamento de capitais e de os instruir sobre a forma de actuar em tais casos."
+  },
+  "c194b2103a9c9888": {
+   "fragment_id": "Artigo 12°",
+   "type": "artigo",
+   "heading": "Artigo 12°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12°\n\nOs Estados-membros procurarão tornar a totalidade ou parte das disposições da presente directiva extensivas às profissões e categorias de empresas que, não sendo estabelecimentos de crédito nem instituições financeiras tal como referidas no artigo 1o, exercem actividades especialmente susceptíveis de ser utilizadas para efeitos de branqueamento de capitais."
+  },
+  "541ee790bcbc43fb": {
+   "fragment_id": "Artigo 13°",
+   "type": "artigo",
+   "heading": "Artigo 13°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13°\n\n1. É criado junto da Comissão um comité de contacto, seguidamente designado « comité », que tem por missão:\n\na) Facilitar, sem prejuízo dos artigos 169° e 170° do Tratado, uma aplicação harmonizada da presente directiva, através de uma concertação regular sobre os problemas concretos levantados pela sua aplicação e relativamente aos quais se julgue útil proceder a trocas de opiniões;\n\nb) Facilitar, uma concertação entre os Estados-membros relativamente a condições e obrigações mais rigorosas ou suplementares que os mesmos imponham no plano nacional;\n\nc) Aconselhar a Comissão, se necessário, relativamente aos aditamentos ou alterações a introduzir na presente directiva ou relativamente às adaptações consideradas necessárias, nomeadamente para harmonizar os efeitos do artigo 12°;\n\nd) Analisar a oportunidade de incluir, no âmbito de aplicação do artigo 12o, as profissões ou categorias de empresas que se verifique terem sido utilizadas, num dado Estado-membro, para efeitos de branqueamento de capitais.\n\n2. O comité não tem por missão apreciar o fundamento das decisões tomadas em casos individuais pelas autoridades competentes.\n\n3. O comité é composto por pessoas designadas pelos Estados-membros e por representantes da Comissão. Os serviços desta instituição assegurarão o respectivo secretariado. O comité será presidido por um representante da Comissão e reunir-se-á quer por iniciativa deste último quer a pedido da delegação de um Estado-membro."
+  },
+  "b8f00dccc5c78364": {
+   "fragment_id": "Artigo 14°",
+   "type": "artigo",
+   "heading": "Artigo 14°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14°\n\nCada um dos Estados-membros tomará medidas apropriadas para assegurar a plena aplicação de todas as disposições da presente directiva e estabelecerá, nomeadamente, as sanções a aplicar em caso de infracção às disposições adoptadas em execução da presente directiva."
+  },
+  "ade64f6029b4e52e": {
+   "fragment_id": "Artigo 15°",
+   "type": "artigo",
+   "heading": "Artigo 15°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15°\n\nOs Estados-membros podem adoptar ou manter, no domínio abrangido pela presente directiva, disposições mais severas para impedir o branqueamento de capitais."
+  },
+  "264b7d64cbb7bdbe": {
+   "fragment_id": "Artigo 16°",
+   "type": "artigo",
+   "heading": "Artigo 16°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16°\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, até 1 de Janeiro de 1993.\n\n2. Sempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência quando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "b9a1589fcbf77a1d": {
+   "fragment_id": "Artigo 17°",
+   "type": "artigo",
+   "heading": "Artigo 17°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17°\n\nA Comissão estabelecerá, um ano após 1 de Janeiro de 1993, e, seguidamente, sempre que tal se revelar necessário, e pelo menos uma vez em cada triénio, um relatório sobre a aplicação da presente directiva e apresentá-lo-á ao Parlamento Europeu e ao Conselho."
+  },
+  "c1299b1c1af5a7e2": {
+   "fragment_id": "Artigo 18°",
+   "type": "artigo",
+   "heading": "Artigo 18°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18°\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo, em 10 de Junho de 1991.\n\nPelo Conselho\n\nO Presidente\n\nJ.-C. JUNCKER\n\n(1) JO 06 de 28. 4. 1990, p. 6, e 319 de 19. 12. 1990, p. 9.\n\n(2) JO 24 de 24. 12. 1990, p. 264, e 129 de 20. 5. 1991.\n\n(3) JO n° C 332 de 31. 12. 1990, p. 86.\n\n(4) JO n° L 322 de 17. 12. 1977, p. 30.\n\n(5) JO n° L 386 de 30. 12. 1989, p. 1.\n\n(6) JO n° L 63 de 13. 3. 1979, p. 1.\n\n(7) JO n° L 330 de 29. 11. 1990, p. 50.\n\nDeclaração dos representantes dos governos dos Estados-membros reunidos no Conselho\n\n« Os representantes dos governos dos Estados-membros, reunidos no Conselho,\n\nRecordando que os Estados-membros assinaram a Convenção das Nações Unidas contra o tráfico ilícito de estupefacientes e de substâncias psicotrópicas celebrada em Viena em 19 de Dezembro de 1988;\n\nRecordando igualmente que, na sua maioria, já assinaram, em 8 de Novembro de 1990, em Estrasburgo, a Convenção do Conselho da Europa relativa ao branqueamento, detecção, apreensão e confiscação dos produtos do crime;\n\nConscientes de que a descrição de branqueamento incluída no artigo 1° da Directiva 91/308/CEE (1) se inspira na redacção das disposições correspondentes das convenções acima referidas;\n\nComprometem-se a tomar até 31 de Dezembro de 1992, o mais tardar, todas as medidas necessárias para pôr em vigor uma legislação penal que lhes permita respeitar as obrigações decorrentes dos referidos instrumentos. »\n\n(1) Ver página 77 do presente Jornal Oficial."
+  },
+  "c4f2e370e7ea7eb1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0308 — PT — 15.12.2005 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991L0308) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0308) [de 10 de Junho de 1991](http://publications.europa.eu/resource/celex/31991L0308) [relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais](http://publications.europa.eu/resource/celex/31991L0308) [(91/308/CEE)](http://publications.europa.eu/resource/celex/31991L0308) (JO L 166, 28.6.1991, p.77)\n\n**revogado por:**\n\n- [Directiva 2005/60/CE do Parlamento Europeu e do Conselho de 26 de Outubro de 2005](http://publications.europa.eu/resource/celex/32005L0060) — L 309 — 15 — 25.11.2005"
+  }
+ }
+}

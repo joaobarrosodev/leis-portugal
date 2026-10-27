@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:409078:por
+title: Decreto-Lei n.º 129-C/84
+short_title: null
+summary: Autoriza a atribuição de uma pensão do Tesouro, a abonar mensalmente, uma vez requerida, aos familiares que estavam
+  a cargo dos pilotos Jorge Manuel Moutinho de Albuquerque e Alfredo de Sousa, mortos no desastre de aviação de Camarate em
+  4 de Dezembro de 1980
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 129-C/84
+official_date: null
+publication_date: '1984-04-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/1984, 1º Suplemento, Série I de 1984-04-27
+  number: '98'
+  series: I
+  supplement: null
+  pages: 1420-(2) a 1420-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/04/09801/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '409078'
+  dre_path: /dr/detalhe/decreto-lei/129-c-1984-409078
+  internal: pt:dre:409078:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-c-1984-409078
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-c-1984-409078
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:56:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 98b21bcbf44b6ac5968d1e86392fc17dafe0286bcf50d17841352a247e843592
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:56:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acidente de Transporte
+- Pensão do Tesouro
+relationships:
+- type: cites
+  target: pt:dre:375189:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:56:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 129-C/84
+
+de 27 de Abril
+
+No dia 4 de Dezembro de 1980 morreram no desastre de aviação de Camarate o piloto Jorge Manuel Moutinho de Albuquerque e o co-piloto Alfredo de Sousa.
+
+Considerando que aos familiares que se encontravam a cargo das outras vítimas do referido acidente foi já concedida uma pensão do Tesouro;
+
+Considerando ser de justiça que aos familiares que estavam a cargo dos pilotos seja também atribuído idêntico benefício:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - Aos familiares que estavam a cargo de cada um dos pilotos Jorge Manuel Moutinho de Albuquerque e Alfredo de Sousa, e que a requeiram, será atribuída uma pensão do Tesouro, a abonar mensalmente, calculada nos termos do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, considerando-se, para base de cálculo, um vencimento correspondente ao da letra H da tabela de vencimentos do funcionalismo público.
+
+2 - Ao quantitativo obtido pelo cálculo referido no n.º 1 será deduzido o valor de quaisquer outras pensões auferidas pelos familiares, desde que tenham sido originadas pelo acidente que vitimou os referidos pilotos ou resultantes do seu falecimento.
+
+Art. 2.º O direito e a fruição destas pensões regula-se pelos princípios estabelecidos no [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro.
+
+Art. 3.º A pensão começa a vencer-se no início do mês seguinte ao da publicação do presente diploma desde que requerida no prazo de 180 dias e desde o primeiro dia imediato ao da entrega da petição quando esta for apresentada além daquele prazo.
+
+Visto e aprovado em Conselho de Ministros de 10 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Alípio Barrosa Pereira Dias.
+
+Promulgado em 23 de Abril de 1984.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 26 de Abril de 1984.
+
+O Primeiro-Ministro, Mário Soares.

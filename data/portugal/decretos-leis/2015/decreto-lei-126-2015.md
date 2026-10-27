@@ -1,0 +1,294 @@
+---
+schema_version: '1.0'
+id: pt:dre:69736207:por
+title: Decreto-Lei n.º 126/2015
+short_title: null
+summary: Transpõe a Diretiva n.º 2014/63/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014, que altera a Diretiva
+  n.º 2001/110/CE, de 20 de dezembro, relativa ao mel, e procede à primeira alteração ao Decreto-Lei n.º 214/2003, de 18 de
+  setembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura e do Mar
+proposing_entity: null
+official_number: 126/2015
+official_date: null
+publication_date: '2015-07-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 130/2015, Série I de 2015-07-07
+  number: '130'
+  series: I
+  supplement: null
+  pages: 4676 - 4678
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13000/0467604678.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/126/2015/07/07/p/dre/pt/html
+  oj: null
+  dre: '69736207'
+  dre_path: /dr/detalhe/decreto-lei/126-2015-69736207
+  internal: pt:dre:69736207:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207
+  metadata_url: https://data.dre.pt/eli/dec-lei/126/2015/07/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:26:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 05fdaf5e868e565cd2e49450036c1a9a08791b36a9d9754aae4bfc80cf55ec1f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alimentação
+- Aproximação das Legislações
+- ASAE
+- Contra-ordenação
+- Controlo Sanitário
+- Direção Geral de Alimentação e Veterinária
+- Fiscalização
+- Indústria Alimentar
+- MEL
+- Multa
+- Produto Alimentar
+relationships:
+- type: amended_by
+  target: pt:dre:992627248:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:32001L0110
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/110/oj
+- type: cites
+  target: celex:32003R1829
+  label: null
+  source: http://data.europa.eu/eli/reg/2003/1829/oj
+- type: cites
+  target: celex:32011R1169
+  label: null
+  source: http://data.europa.eu/eli/reg/2011/1169/oj
+- type: cites
+  target: celex:32014L0063
+  label: null
+  source: http://data.europa.eu/eli/dir/2014/63/oj
+- type: cites
+  target: pt:dre:497270:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/214/2003/09/18/p/dre
+- type: cites
+  target: pt:dre:498565:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/109/2013/08/01/p/dre
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/7/2012/01/17/p/dre
+- type: cites
+  target: pt:dre:553438:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/31/2012/03/13/p/dre
+- type: transposes
+  target: celex:32001L0110
+  label: null
+  source: null
+- type: transposes
+  target: celex:32014L0063
+  label: null
+  source: null
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:26:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 126/2015
+
+de 7 de julho
+
+O [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2003-497270), de 18 de setembro, que transpôs para a ordem jurídica interna a [Diretiva n.º 2001/110/CE](https://data.europa.eu/eli/dir/2001/110/oj?locale=pt), do Conselho, de 20 de dezembro de 2001, relativa ao mel, proibiu a adição, a esta substância açucarada natural produzida pelas abelhas Apis melífera, de qualquer ingrediente alimentar, incluindo aditivos alimentares, bem como, a remoção de qualquer dos componentes específicos do mel, incluindo pólen, exceto se essa remoção for inevitável aquando da eliminação de matérias estranhas.
+
+Estas proibições estão, aliás, em conformidade com a norma do Codex Alimentarius para o mel (Codex Stan 12-1981).
+
+De acordo com os dados disponíveis, o pólen adicional presente no mel pode advir do pólen presente na pelagem das abelhas, no ar dentro da colmeia e do pólen que as abelhas armazenam nos alvéolos e que é libertado em consequência da abertura acidental desses alvéolos durante a extração do mel pelos operadores de empresas do setor alimentar.
+
+O pólen entra na colmeia em resultado da atividade das abelhas e está naturalmente presente no mel, independentemente de o operador de uma empresa do setor alimentar o recolher ou não.
+
+Por esta razão, o [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2003-497270), de 18 de setembro, proíbe a adição intencional de pólen ao mel por parte dos operadores de empresas do setor alimentar.
+
+Tendo em conta o caráter natural do mel e, em particular, a origem natural da presença no mel dos seus componentes específicos, o pólen, sendo um componente natural específico do mel, não deve ser considerado um ingrediente do mel, na aceção do [Regulamento (UE) n.º 1169/2011](https://data.europa.eu/eli/reg/2011/1169/oj?locale=pt), do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à prestação de informação aos consumidores sobre géneros alimentícios.
+
+A [Diretiva n.º 2014/63/UE](https://data.europa.eu/eli/dir/2014/63/oj?locale=pt), do Parlamento Europeu e do Conselho, de 15 de maio de 2014, veio alterar a [Diretiva n.º 2001/110/CE](https://data.europa.eu/eli/dir/2001/110/oj?locale=pt) e não prejudica a aplicação do [Regulamento (CE) n.º 1829/2003](https://data.europa.eu/eli/reg/2003/1829/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de setembro de 2003, relativo ao mel que contém pólen geneticamente modificado, o qual deverá, por conseguinte, ser considerado «um género alimentício parcialmente produzido a partir de OGM», na aceção da alínea c) do n.º 1 do artigo 3.º do [Regulamento (CE) n.º 1829/2003](https://data.europa.eu/eli/reg/2003/1829/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de setembro de 2003.
+
+Por conseguinte, o mel que contém pólen geneticamente modificado está sujeito ao [Regulamento (CE) n.º 1829/2003](https://data.europa.eu/eli/reg/2003/1829/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de setembro de 2003, em especial aos seus requisitos referentes à autorização prévia de colocação no mercado, à supervisão e, se aplicável, à rotulagem.
+
+Nos termos do [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2003-497270), de 18 de setembro, caso o mel seja originário de vários Estados-Membros ou de países terceiros, a indicação obrigatória dos países de origem pode ser substituída por uma das seguintes indicações, consoante o caso: «mistura de méis CE», «mistura de méis não CE», «mistura de méis CE e não CE».
+
+Na sequência da entrada em vigor do Tratado de Lisboa, a União Europeia substituiu e sucedeu à Comunidade Europeia, sendo, por conseguinte, adequado substituir na rotulagem a referência à «CE» pela referência à «UE».
+
+Importa pois rever o [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2003-497270), de 18 de setembro, de forma a, por um lado, transpor para a ordem jurídica interna a [Diretiva n.º 2014/63/UE](https://data.europa.eu/eli/dir/2014/63/oj?locale=pt), do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e, por outro lado, acolher as alterações orgânicas introduzidas pelo [Decreto-Lei n.º 7/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2012-544386), de 17 de janeiro, conjugado com o [Decreto Regulamentar n.º 31/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-2012-553438), de 13 de março, alterado pelo [Decreto-Lei n.º 109/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2013-498565), de 1 de agosto, que designam a Direção-Geral de Alimentação e Veterinária como autoridade competente responsável pelas políticas de segurança alimentar.
+
+Foi promovida a audição ao Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei transpõe para a ordem jurídica interna a [Diretiva n.º 2014/63/UE](https://data.europa.eu/eli/dir/2014/63/oj?locale=pt) do Parlamento Europeu e do Conselho, de 15 de maio de 2014, que altera a [Diretiva n.º 2001/110/CE](https://data.europa.eu/eli/dir/2001/110/oj?locale=pt), de 20 de dezembro de 2001, relativa ao mel, e procede à primeira alteração do [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2003-497270), de 18 de setembro.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2003-497270), de 18 de setembro
+
+Os artigos 4.º, 6.º, 9.º e 10.º do [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2003-497270), de 18 de setembro, passam a ter a seguinte redação:
+
+«Artigo 4.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+8 - [...]:
+
+a) 'Mistura de méis UE';
+
+b) 'Mistura de méis não UE';
+
+c) 'Mistura de méis UE e não UE'.
+
+9 - [...].
+
+10 - O pólen, sendo um componente natural específico do mel, não deve ser considerado um ingrediente, na aceção da alínea f) do n.º 2 do artigo 2.º do [Regulamento (UE) n.º 1169/2011](https://data.europa.eu/eli/reg/2011/1169/oj?locale=pt), do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, dos produtos referidos no anexo I.
+
+Artigo 6.º
+
+Autoridades competentes
+
+1 - O acompanhamento e controlo da aplicação das normas previstas no presente diploma compete à Direção-Geral de Alimentação e Veterinária (DGAV), de acordo com a sua missão e legais atribuições estabelecidas no [Decreto Regulamentar n.º 31/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-2012-553438), de 13 de março, alterado pelo [Decreto-Lei n.º 109/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2013-498565), de 1 de agosto.
+
+2 - Sem prejuízo da competência atribuída por lei a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento do presente decreto-lei, bem como a instrução e decisão dos processos de contraordenação, nos termos do artigo 9.º
+
+Artigo 9.º
+
+Instrução e decisão dos processos de contraordenação
+
+1 - A entidade que levantar o auto de notícia remete o mesmo à ASAE para instrução do competente processo.
+
+2 - A aplicação das coimas e sanções acessórias compete ao Inspetor-Geral da ASAE.
+
+Artigo 10.º
+
+Destino das coimas
+
+O produto das coimas é repartido da seguinte forma:
+
+a) 60 % para o Estado;
+
+b) 10 % para a entidade que levantou o auto;
+
+c) 10 % para a entidade que procede à instrução;
+
+d) 20 % para a entidade que decide.»
+
+###### Artigo 3.º — Alteração ao anexo II ao [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2003-497270), de 18 de setembro
+
+O anexo II ao [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2003-497270), de 18 de setembro, é alterado com a redação constante do anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 4.º — Norma transitória
+
+Os produtos colocados no mercado ou rotulados em data anterior a 24 de junho de 2015, nos termos do [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2003-497270), de 18 de setembro, podem continuar a ser comercializados até ao esgotamento das existências.
+
+Visto e aprovado em Conselho de Ministros de 21 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+Promulgado em 26 de junho de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 1 de julho de 2015.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — (a que se refere o artigo 3.º)
+
+«ANEXO II
+
+[...]
+
+[...]
+
+[...]
+
+[...]
+
+[...]
+
+[...]
+
+[...]
+
+[...]
+
+Sem prejuízo do disposto na subalínea viii) da alínea b) do n.º 2 do anexo I, não pode ser retirado ao mel o pólen nem nenhum dos seus constituintes próprios, exceto quando tal for inevitável no processo de eliminação de matérias orgânicas ou inorgânicas estranhas.
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]».

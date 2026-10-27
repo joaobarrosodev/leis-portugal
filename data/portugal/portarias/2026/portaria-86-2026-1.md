@@ -1,0 +1,641 @@
+---
+schema_version: '1.0'
+id: pt:dre:1055043922:por
+title: Portaria n.º 86/2026/1
+short_title: null
+summary: Terceira alteração ao Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão, para o período
+  de programação 2021-2027.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Economia e Coesão Territorial
+proposing_entity: null
+official_number: 86/2026/1
+official_date: null
+publication_date: '2026-02-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 36/2026, Série I de 2026-02-20
+  number: '36'
+  series: I
+  supplement: null
+  pages: 94 - 105
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/02/03600/0009400105.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/86/2026/02/20/p/dre/pt/html
+  oj: null
+  dre: '1055043922'
+  dre_path: /dr/detalhe/portaria/86-2026-1055043922
+  internal: pt:dre:1055043922:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/86-2026-1055043922
+  metadata_url: https://data.dre.pt/eli/port/86/2026/02/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/86-2026-1055043922
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:32:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 718f26b3ca46223e9415cb314301ee72fd82e89175451020356706b00e229211
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CIC Portugal 2030
+- Comissão Interministerial
+- Desenvolvimento Económico
+- Desenvolvimento Social
+- Estratégia Portugal 2030
+- Fundo para Uma Transição Justa
+- Fundo Social Europeu Mais
+- Fundos CE
+- Política Social
+- Portugal 2030
+- Programa Temático Demografia Qualificações e Inclusão (PDQI)
+- Regulamentação de Atos Legislativos
+- Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão
+relationships:
+- type: amended_by
+  target: pt:dre:1074104063:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amends
+  target: pt:numero:portaria:325/2023
+  label: Altera, a partir de 21 de fevereiro de 2026, os artigos 22.º, 44.º, 49.º, 57.º-A, 57.º-B, 57.º-C e 57.º-D, 71.º,
+    111.º (as alterações aos dois últimos artigos produzem efeitos em 31 de outubro de 2023), 115.º, 230.º-C, 230.º-AAA (a
+    alteração a este artigo produz efeitos em 29 de março de 2025), 272.º-B, a designação da secção v do capítulo ii e da
+    secção xxxvi do capítulo iv, todos do título iii, o artigo 273.º do título iv e o anexo i (a alteração a este anexo produz
+    efeitos em 29 de março de 2025), bem como adita, com efeitos em 29 de março de 2025, a secção xxxix, no capítulo iv do
+    título iii, denominada «Aprender Mais Agora», que integra os artigos 230.º-EEEE, 230.º-FFFF, 230.º-GGGG, 230.º-HHHH e
+    230.º-IIII ao Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão, publicado em anexo à Portaria
+    n.º 325/2023, de 30 de outubro, Diário da República n.º 210/2023, Série I
+  source: null
+  date: '2023-10-30'
+- type: cites
+  target: pt:dre:141259624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141259625:por
+  label: null
+  source: http://data.dre.pt/eli/port/207/2020/08/27/p/dre
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/5/2023/01/25/p/dre
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/20-a/2023/03/22/p/dre
+- type: cites
+  target: pt:dre:215086004:por
+  label: null
+  source: http://data.dre.pt/eli/port/187/2023/07
+- type: cites
+  target: pt:dre:223473637:por
+  label: null
+  source: http://data.dre.pt/eli/port/325/2023/10/30/p/dre
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
+- type: cites
+  target: pt:dre:839926119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860806291:por
+  label: null
+  source: http://data.dre.pt/eli/port/152/2024/04/17/p/dre
+- type: cites
+  target: pt:dre:864060322:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/31/2024/05/08/p/dre
+- type: cites
+  target: pt:dre:868097436:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/39/2024/06/06/p/dre
+- type: cites
+  target: pt:dre:888585889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:888585890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:888585891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911089450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:924866617:por
+  label: null
+  source: http://data.dre.pt/eli/port/268/2025/07/15/p/dre
+- type: corrected_by
+  target: pt:dre:1074104063:por
+  label: Retificado o n.º 3 da presente portaria, pelo(a) Declaração de Retificação n.º 12/2026/1 - Diário da República n.º
+    55/2026, Série I de 2026-03-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/12-2026-1074104063
+  date: '2026-03-19'
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:32:53Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 86/2026/1
+
+de 20 de fevereiro
+
+O Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão, para o período de programação 2021-2027, aprovado pela deliberação n.º 34/2023/PL da Comissão Interministerial de Coordenação do Portugal 2030 (CIC Portugal 2030), de 19 de outubro, e adotado através da [Portaria n.º 325/2023](https://diariodarepublica.pt/dr/detalhe/portaria/325-2023-223473637), de 30 de outubro, foi objeto de duas alterações, a primeira introduzida pela [Portaria n.º 152/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/152-2024-860806291), de 17 de abril, e a segunda, efetuada mais recentemente, pela [Portaria n.º 268/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/268-2025-924866617), de 15 de julho, aprovadas, respetivamente, pelas deliberações n.os08/2024/PL, de 27 de março, e 16/2025/PL, de 4 de junho, ambas da CIC Portugal 2030.
+
+As alterações introduzidas ao referido regulamento específico justificaram-se em grande parte por ter sido assumido que, quer em face da sua abrangência temática quer do caráter inovador de algumas tipologias de operação nele reguladas, a sua consolidação far-se-ia de forma incremental. Na presente data, encontram-se reguladas as tipologias de operação que integram a área temática demografia, qualificações e inclusão.
+
+Sucede que por força da regulamentação europeia os programas financiadores dos apoios previstos no presente regulamento específico tiveram de apresentar, até 30 de março de 2025, uma revisão intercalar, a qual justificou a alteração dos textos programáticos nas versões anteriormente aprovadas pela Comissão Europeia. A presente alteração ao regulamento específico pretende adaptar as disposições específicas aplicáveis a algumas tipologias de operação em função dos ajustes que foram introduzidos no programa na sequência da aludida revisão intercalar, submetida à Comissão Europeia a 29 de março de 2025.
+
+Assim, adota-se, pela presente, a terceira alteração ao Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão, a qual foi aprovada pela deliberação n.º 03/2026/PL, da CIC Portugal 2030, em 20 de janeiro de 2026.
+
+Foram ouvidos os parceiros sociais com assento permanente na Concertação Social, os parceiros da economia social com assento no Conselho Nacional para a Economia Social e a Associação Nacional de Municípios Portugueses.
+
+Nos termos do n.º 7 do artigo 9.º do [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, alterado pelos Decretos-Leis n.os[31/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2024-864060322), de 8 de maio, e [39/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2024-868097436), de 6 de junho, as deliberações da CIC Portugal 2030, no exercício da aprovação de regulamentação específica, são adotadas por portaria do membro do Governo responsável pela gestão global dos fundos europeus.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Economia e da Coesão Territorial, o seguinte:
+
+1 - Adotar a terceira alteração ao Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão, em anexo à presente portaria, da qual faz parte integrante, aprovado pela deliberação n.º 03/2026/PL da CIC Portugal 2030, de 20 de janeiro de 2026.
+
+2 - Determinar, para efeitos do disposto no número anterior, que o Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão, publicado em anexo à [Portaria n.º 325/2023](https://diariodarepublica.pt/dr/detalhe/portaria/325-2023-223473637), de 30 de outubro, na versão adotada pela [Portaria n.º 268/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/268-2025-924866617), de 15 de julho, é alterado nos termos constantes do anexo i à presente portaria.
+
+3 - Determinar que a presente portaria entra em vigor no dia seguinte ao da sua publicação, sem prejuízo das alterações aos artigos 71.º e 111.º que produzem efeitos à data de entrada em vigor da [Portaria n.º 325/2023](https://diariodarepublica.pt/dr/detalhe/portaria/325-2023-223473637), de 30 de outubro, e das alterações ao artigo 230.º-AAA e ao anexo i relativa à tipologia de operação capacitação de públicos estratégicos para a cidadania e inclusão, com vista à inclusão de pessoas com deficiência e ou incapacidade, bem como aos artigos 230.º-EEEE, 230.º-FFFF, 230.º-GGGG, 230.º-HHHH e 230.º-IIII, aditados pelo artigo 2.º da presente portaria, que produzem efeitos a 29 de março de 2025.
+
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida, em 13 de fevereiro de 2026.
+
+## ANEXO I — (a que se refere o n.º 2)
+
+###### Artigo 1.º — Alteração ao Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão
+
+Os artigos 22.º, 44.º, 49.º, 57.º-A, 57.º-B, 57.º-C e 57.º-D, 71.º, 111.º, 115.º, 230.º-C, 230.º-AAA, 272.º-B, a designação da secção v do capítulo ii e da secção xxxvi do capítulo iv, todos do título iii, e artigo 273.º do título iv, do Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão, publicado em anexo à [Portaria n.º 325/2023](https://diariodarepublica.pt/dr/detalhe/portaria/325-2023-223473637), de 30 de outubro, com as alterações introduzidas pelas Portarias n.os[152/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/152-2024-860806291), de 17 de abril, e [268/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/268-2025-924866617), de 15 de julho, que procedeu à sua republicação, passam a ter a seguinte redação:
+
+«TÍTULO II
+
+[...]
+
+CAPÍTULO IV
+
+[...]
+
+Artigo 22.º
+
+1 - Sem prejuízo do período de elegibilidade previsto no n.º 2 do artigo 20.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, o período de elegibilidade das despesas está compreendido entre os 60 dias úteis anteriores à data da apresentação da candidatura e a data de submissão do pedido de pagamento de saldo final, nos termos definidos nos n.os6 e 7 do artigo 35.º do presente Regulamento.
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+TÍTULO III
+
+[...]
+
+CAPÍTULO II
+
+[...]
+
+SECÇÃO II
+
+[...]
+
+Artigo 44.º
+
+1 - [...]
+
+2 - Os apoios à contratação contribuem para a melhoria da qualidade do mercado de trabalho, fomentando a criação e a sustentabilidade do emprego, incentivando, em particular, a inserção profissional de públicos com maiores dificuldades de integração no mercado de trabalho, enquadrando-se nos programas de apoio à contratação definidos nos termos do [Decreto-Lei n.º 13/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2015-66325237), de 26 de janeiro, na sua atual redação, nomeadamente os definidos pelas Portarias n.os[207/2020](https://diariodarepublica.pt/dr/detalhe/portaria/207-2020-141259625), de 27 de agosto, [187/2023](https://diariodarepublica.pt/dr/detalhe/portaria/187-2023-215086004), de 3 de julho, [39-A/2024](https://diariodarepublica.pt/dr/detalhe/portaria/39-a-2024-839926119), de 1 de fevereiro, [220/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/220-2024-888585890), de 23 de setembro, e [Portaria n.º 221/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), de 23 de setembro, na sua atual redação.
+
+3 - [...]
+
+SECÇÃO III
+
+[...]
+
+Artigo 49.º
+
+[...]
+
+1 - A tipologia de operação prevista na presente secção visa possibilitar a realização de uma experiência prática em contexto de trabalho em entidades empregadoras, com o objetivo de promover a integração profissional de jovens no mercado de trabalho ou a reconversão profissional de desempregados, bem como potenciar o desenvolvimento das competências socioprofissionais, pessoais, sociais e básicas de grupos mais vulneráveis, incentivando a sua empregabilidade e o reforço das oportunidades para a sua integração socioprofissional e cultural, enquadrada nos programas de apoio à inserção definidos nos termos do [Decreto-Lei n.º 13/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2015-66325237), de 26 de janeiro, na sua atual redação, nomeadamente através das Portarias n.os[206/2020](https://diariodarepublica.pt/dr/detalhe/portaria/206-2020-141259624), de 27 de agosto, [219/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/219-2024-888585889), de 23 de setembro, e [Portaria n.º 221/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/221-2024-888585891), de 23 de setembro, na sua atual redação.
+
+2 - [...]
+
+SECÇÃO V
+
+REFORÇO DO SISTEMA DE AJUSTAMENTO DO MERCADO DE TRABALHO
+
+Artigo 57.º-A
+
+[...]
+
+1 - A tipologia de operação prevista na presente secção visa complementar e reforçar a ação do Serviço Público de Emprego (SPE), nomeadamente através da promoção de um serviço personalizado e de proximidade, apoiando estruturas locais, cuja capilaridade territorial complementa a sua ação, e da adoção de novas metodologias de intervenção, que promovam o ajustamento entre a oferta e a procura de emprego.
+
+2 - Constituem objetivos desta tipologia de operação:
+
+a) Reforçar o apoio aos desempregados e a outros grupos em situação de desfavorecimento, na definição ou no desenvolvimento do seu percurso de inserção ou reinserção no mercado de trabalho, através do apoio técnico e financeiro à prestação de serviços complementares ao SPE, por entidades credenciadas para o efeito;
+
+b) Potenciar no âmbito da intervenção do SPE a adoção de instrumentos e metodologias mais eficazes na promoção de um maior e melhor ajustamento entre a oferta e a procura de emprego, que incluam uma abordagem por competências;
+
+c) Suprimir carências identificadas na rede de respostas do SPE;
+
+d) Reforçar os instrumentos de diagnóstico das necessidades de qualificações e competências, em linha, designadamente, com as dinâmicas do mercado de trabalho, visando um maior e melhor ajustamento entre a oferta e a procura de formação;
+
+e) Promover o desenvolvimento de estratégias flexíveis de abordagem ao mercado de trabalho.
+
+3 - [Revogado.]
+
+Artigo 57.º-B
+
+[...]
+
+No âmbito da presente tipologia de operação, são elegíveis, nomeadamente, as seguintes ações:
+
+a) Implementação de uma nova geração de Gabinetes de Inserção Profissional (GIP), de acordo com o estabelecido na [Portaria n.º 117/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/117-2025-911089450), de 17 de março, serviços com capacidade de disseminação territorial e que complementam a ação das unidades locais da rede do SPE na definição ou desenvolvimento de percursos de (re)inserção no mercado de trabalho, através de atividades de apoio à procura ativa de emprego, de informação e acompanhamento personalizado, de captação e divulgação de ofertas de emprego, de encaminhamento para ofertas de qualificação e para medidas de apoio ao emprego e ao empreendedorismo, com base em sistemas de profilling e matching;
+
+b) Desenvolvimento da classificação ESCO - European Skills, Competences, Qualifications and Occupations no sistema informático de ajustamento entre oferta e procura de emprego do SPE, com a valorização da dimensão de competências (procuradas e oferecidas), a par das qualificações e profissões;
+
+c) Desenvolvimento e operacionalização de instrumentos de diagnóstico das necessidades de qualificações e competências e de apoio ao planeamento da oferta formativa.
+
+Artigo 57.º-C
+
+[...]
+
+São destinatários elegíveis na presente tipologia de operação as seguintes:
+
+a) As pessoas que pretendam recorrer aos apoios e serviços do SPE, nomeadamente os jovens, incluindo os jovens NEET (not in employment, education or training), dos 18 aos 29 anos,
+
+b) Os desempregados inscritos no SPE, entre os quais os desempregados em situação de particular desfavorecimento ou afastamento prolongado do mercado de trabalho;
+
+c) As entidades públicas com competência no desenvolvimento de instrumentos de diagnóstico das necessidades de qualificações e competências e de apoio ao planeamento da oferta formativa.
+
+Artigo 57.º-D
+
+[...]
+
+1 - Pode aceder aos apoios a conceder no âmbito da presente tipologia de operação:
+
+a) IEFP, IP, enquanto organismo responsável pela concretização do respetivo instrumento de política pública, assumindo perante a autoridade de gestão a qualidade de beneficiário, nos termos previstos no n.º 2 do artigo 13.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, para efeitos do disposto na alínea a) do artigo 57.º-B;
+
+b) IEFP, IP, tendo em conta a sua qualidade de serviço público de emprego nacional que tem por missão promover a criação e a qualidade do emprego e combater o desemprego, através da execução de políticas ativas de emprego, para efeitos do disposto na alínea b) do artigo 57.º-B;
+
+c) Entidades públicas com competência no desenvolvimento de instrumentos de diagnóstico das necessidades de qualificações e competências e de apoio ao planeamento da oferta formativa, para efeitos do disposto na alínea c) do artigo 57.º-B.
+
+CAPÍTULO III
+
+[...]
+
+SECÇÃO III
+
+[...]
+
+Artigo 71.º
+
+[...]
+
+No âmbito da presente tipologia de operação, são elegíveis as bolsas e outros subsídios para doutoramento, em ambiente académico e não académico, alinhados com as prioridades definidas no âmbito das políticas públicas nacionais e do Acordo de Parceria e com as prioridades da ENEI 2030 e das diferentes EREI, conforme aplicável.
+
+SECÇÃO X
+
+[...]
+
+Artigo 111.º
+
+[...]
+
+São destinatários elegíveis desta tipologia de operação os estudantes carenciados e ou com vulnerabilidades do ensino superior que cumpram os critérios definidos nos diplomas normativos aplicáveis à medida de política pública.
+
+SECÇÃO XI
+
+[...]
+
+Artigo 115.º
+
+[...]
+
+No âmbito da presente tipologia de operação são elegíveis as ações de reforço dos serviços de psicologia e orientação, nomeadamente através do aumento do número de psicólogos, enquadradas nos diplomas normativos reguladores da medida de política pública.
+
+CAPÍTULO IV
+
+[...]
+
+SECÇÃO XXIII
+
+Artigo 230.º-C
+
+[...]
+
+São destinatários elegíveis na presente tipologia de operação as pessoas que se enquadrem nos grupos-alvo de discriminação e em grupos específicos, nomeadamente a comunidade educativa, abrangidos pelas áreas de atuação dos beneficiários identificadas no artigo seguinte, bem como os seus colaboradores.
+
+SECÇÃO XXXIII
+
+AÇÕES NO ÂMBITO DO ENVELHECIMENTO ATIVO, SAUDÁVEL E DA LONGEVIDADE
+
+Artigo 230.º-AAA
+
+[...]
+
+São destinatários elegíveis na presente tipologia de operação pessoas com 55 ou mais anos e com vulnerabilidades sociais, residentes nas regiões elegíveis e a população em geral no que respeita às ações previstas na alínea c) do artigo 230.º-ZZ.
+
+SECÇÃO XXXVI
+
+REFORÇO E QUALIFICAÇÃO DO SISTEMA NACIONAL DE INTERVENÇÃO PRECOCE NA INFÂNCIA
+
+CAPÍTULO VII
+
+[...]
+
+SECÇÃO I
+
+[...]
+
+Artigo 272.º-B
+
+[...]
+
+No âmbito da presente tipologia de operação, são elegíveis ações que promovam a igualdade de género no trabalho, o combate à segregação profissional em razão do sexo e a mitigação das assimetrias remuneratórias entre mulheres e homens, designadamente as seguintes:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) Projetos que promovam a capacitação das mulheres e contribuam para o reforço do seu acesso a cargos de direção e administração.
+
+TÍTULO IV
+
+[...]
+
+Artigo 273.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - No que respeita a candidaturas relativas às tipologias de operação «Reforço do Sistema de Ajustamento do Mercado de Trabalho» e «Aprender mais Agora», previstas, respetivamente, na secção v do capítulo ii e na secção xxxix do capítulo iv, o disposto no n.º 1, sem prejuízo do estabelecido no n.º 2 do artigo 22.º, aplica-se a avisos para apresentação de candidaturas abertos ou a publicar até 30 de abril de 2026.
+
+4 - As candidaturas submetidas até ao limite dos prazos estabelecidos nos n.os2 e 3 não estão sujeitas ao período inicial de elegibilidade das despesas previsto no n.º 1 do artigo 22.º, desde que o período a considerar para este efeito seja estabelecido em sede de aviso para apresentação de candidaturas.»
+
+###### Artigo 2.º — Aditamento ao Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão
+
+É aditada ao Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão, publicado em anexo à [Portaria n.º 325/2023](https://diariodarepublica.pt/dr/detalhe/portaria/325-2023-223473637), de 30 de outubro, com as alterações introduzidas pelas Portarias n.os[152/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/152-2024-860806291), de 17 de abril, e [268/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/268-2025-924866617), de 15 de julho, a secção xxxix, no capítulo iv do título iii, denominada «Aprender Mais Agora», que integra os artigos 230.º-EEEE a 230.º-IIII.
+
+«CAPÍTULO IV
+
+[...]
+
+SECÇÃO XXXIX
+
+APRENDER MAIS AGORA
+
+Artigo 230.º-EEEE
+
+Âmbito e objetivos
+
+1 - A presente tipologia de operação é constituída por ações enquadradas no Plano «Aprender Mais Agora» (A+A), destinado à melhoria das aprendizagens dos alunos dos ensinos básico e secundário, sucedendo aos planos de recuperação das aprendizagens, procurando não apenas recuperar aprendizagens perdidas durante a pandemia de COVID-19, como reforçar estruturalmente a aquisição de competências essenciais e reduzir os riscos de insucesso, abandono escolar e, consequentemente, das baixas qualificações.
+
+2 - Constituem objetivos desta tipologia de operação apoiar a política de integração de populações migrantes e outros grupos vulneráveis em contexto escolar, apoiando o combate ao insucesso escolar de forma generalizada e a integração dos alunos migrantes e aceleração da aquisição de competências em língua portuguesa pelos alunos migrantes e pelas suas famílias, com vista a:
+
+a) Melhorar a aprendizagem, através de intervenções precoces e preventivas, reforço do apoio tutorial específico, promoção do estudo autónomo e do desenvolvimento de competências leitoras, assim como sociais e emocionais;
+
+b) Promover a inclusão e sucesso escolar de alunos migrantes, mediante medidas de integração linguística e cultural e envolvimento das famílias no percurso educativo dos seus filhos.
+
+Artigo 230.º-FFFF
+
+Ações
+
+No âmbito da presente tipologia de operação, são elegíveis as ações a desenvolver enquadradas no Plano «Aprender Mais Agora», designadamente:
+
+a) Reforço do apoio tutorial específico e das tutorias psicopedagógicas, através da contratação de especialistas;
+
+b) Desenvolvimento das competências cognitivas, nomeadamente as competências leitoras, por via da contratação de especialistas para apoio ao ensino da leitura;
+
+c) Contratação de mediadores linguísticos e culturais em escolas com um número significativo de alunos migrantes.
+
+Artigo 230.º-GGGG
+
+Destinatários
+
+São destinatários elegíveis da presente tipologia de operação:
+
+a) Alunos dos ensinos básico e secundário com dificuldades de aprendizagem identificadas, incluindo alunos que apresentem preditores de insucesso escolar ou de risco de abandono escolar;
+
+b) Alunos migrantes não falantes de português, oriundos de países cuja língua oficial não é o português e respetivas famílias.
+
+Artigo 230.º-HHHH
+
+Beneficiários
+
+Podem ter acesso aos apoios concedidos, no âmbito da presente tipologia de operação, as seguintes entidades:
+
+a) Instituto de Educação, Qualidade e Avaliação, I. P. (EduQA, I. P.);
+
+b) Agência para a Gestão do Sistema Educativo, I. P. (AGSE, I. P.).
+
+Artigo 230.º-IIII
+
+Modalidade de apresentação de candidaturas
+
+As candidaturas são apresentadas individualmente nos termos do n.º 1 e da alínea a) do n.º 2 do artigo 23.º do [Decreto-Lei n.º 20-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2023-210543862), de 22 de março, nos termos a definir nos avisos para apresentação de candidaturas.»
+
+###### Artigo 3.º — Alteração ao anexo i
+
+O anexo i do Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão para o período de programação 2021-2027, publicado em anexo à [Portaria n.º 325/2023](https://diariodarepublica.pt/dr/detalhe/portaria/325-2023-223473637), de 30 de outubro, na redação conferida pela [Portaria n.º 268/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/268-2025-924866617), de 15 de julho, é alterado com a seguinte redação:
+
+«ANEXO I
+
+(a que se referem os n.os5, 6 e 7 do artigo 2.º do Regulamento Específico da Área Temática Demografia, Qualificações e Inclusão para o período de programação 2021-2027)
+
+Emprego e empreendedorismo
+
+| Tipologia de operação | Programa | Área geográfica |
+| --- | --- | --- |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| Reforço do Sistema de Ajustamento do Mercado de Trabalho | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| [...] | [...] | [...] |
+| 1[...] | [...] | [...] |
+
+Qualificação
+
+| Tipologia de operação | Programa | Área geográfica |
+| --- | --- | --- |
+| [...] | [...] | [...] |
+|  |  | [...] |
+|  |  | [...] |
+| [...] | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| Formação Avançada | PESSOAS 2030 | [...] |
+| [...] |  |  |
+| Lisboa (*) |  |  |
+| [...] |  |  |
+| Algarve (*) |  |  |
+| [...] | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| [...] | [...] |  |
+| [...] | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| [...] | [...] |  |
+| [...] | [...] |  |
+| [...] | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| [...] | [...] |  |
+| [...] | [...] | [...] |
+| [...] | [...] |  |
+| [...] | [...] |  |
+| [...] | [...] |  |
+| [...] | [...] | [...] |
+|  | [...] | [...] |
+|  | [...] | [...] |
+|  | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| [...] | [...] | [...] |
+|  |  | [...] |
+|  |  | [...] |
+|  | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| [...] | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| [...] | [...] |  |
+| [...] | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| [...] | [...] |  |
+| [...] | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| [...] | [...] |  |
+| [...] | [...] | [...] |
+| [...] | [...] |  |
+| [...] | [...] |  |
+| [...] | [...] |  |
+| [...] | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| [...] | [...] | [...] |
+| [...] |  |  |
+| [...] |  |  |
+| [...] | [...] |  |
+
+(*) Elegibilidade de Lisboa e Algarve na TO formação avançada no âmbito do PESSOAS 2030 apenas para apoio a bolsas e outros subsídios para doutoramento em meio não académico.
+
+Inclusão Social
+
+| Tipologia de operação | Programa | Área geográfica |
+| --- | --- | --- |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| Capacitação de públicos estratégicos para a cidadania e inclusão, com vista à inclusão de PCDI | [...] | [...] |
+| [...] |  |  |
+| Lisboa |  |  |
+| [...] |  |  |
+| Algarve |  |  |
+| Estágios na iniciativa ALMA | [...] | [...] |
+|  |  | [...] |
+|  |  | Lisboa |
+|  |  | [...] |
+|  |  | Algarve |
+| Ações no âmbito do envelhecimento ativo, saudável e da longevidade | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| Reforço e qualificação do Sistema Nacional de Intervenção Precoce na Infância | [...] | [...] |
+| [...] | [...] | [...] |
+| [...] | [...] | [...] |
+| Aprender Mais Agora | PESSOAS 2030 | Norte |
+| Centro |  |  |
+| Alentejo | » |  |
+
+119947708
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:20px; } .Tbl10 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl22 { min-height:21px; } .Tbl23 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; background-color:none; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

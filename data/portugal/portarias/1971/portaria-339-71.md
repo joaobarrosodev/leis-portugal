@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:643150:por
+title: Portaria n.º 339/71
+short_title: null
+summary: Aumenta ao efectivo dos navios da Armada, na situação de armamento normal, a partir de 18 de Junho de 1971, a corveta
+  António Enes, a qual ficará a pertencer à classe João Coutinho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Estado-Maior da Armada
+proposing_entity: null
+official_number: 339/71
+official_date: null
+publication_date: '1971-06-25'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 148/1971, Série I de 1971-06-25
+  number: '148'
+  series: I
+  supplement: null
+  pages: 964 - 964
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/06/14800/09640964.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '643150'
+  dre_path: /dr/detalhe/portaria/339-1971-643150
+  internal: pt:dre:643150:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/339-1971-643150
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/339-1971-643150
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:30:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ba08d97986a15ee467ac4ff46757d86997daff70d102c3706ac327b062066767
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:1180341170:por
+  label: Abatido, com efeitos a partir de 9 de outubro de 2026, ao efetivo dos navios pelo(a) Portaria n.º 424/2026/2 - Diário
+    da República n.º 201/2026, Série II de 2026-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/424-2026-1180341170
+  date: '2026-10-16'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:30:32Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 339/71
+
+de 25 de Junho
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aumentar ao efectivo dos navios da Armada, na situação de armamento normal, a partir de 18 de Junho de 1971, a corveta António Enes, a qual ficará a pertencer à classe João Coutinho.
+
+O Ministro da Marinha, Manuel Pereira Crespo

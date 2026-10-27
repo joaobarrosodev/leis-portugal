@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:175348:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 34/2012/M
+short_title: null
+summary: Recomenda a alteração do Decreto-Lei n.º 15/93, de 22 de janeiro, que revê a legislação de combate à droga
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 34/2012/M
+official_date: null
+publication_date: '2012-08-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/2012, Série I de 2012-08-21
+  number: '161'
+  series: I
+  supplement: null
+  pages: 4595 - 4596
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/08/16100/0459504596.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/34/2012/08/21/m/dre/pt/html
+  oj: null
+  dre: '175348'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/34-2012-175348
+  internal: pt:dre:175348:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/34-2012-175348
+  metadata_url: https://data.dre.pt/eli/resolalram/34/2012/08/21/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/34-2012-175348
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:51:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c5abb3ad5ce81c6c32b462620d3bbeb9db4ddbeb5dfc492648f844974f957ca0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crime
+- Droga
+- Madeira.região Autónoma
+- Recomendação
+- Substância Estupefaciente ou Psicotrópica
+- Toxicodependente
+- Tráfico de Estupefacientes
+relationships:
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/1993/01/22/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:51:43Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 34/2012/M
+
+Alteração da legislação em vigor em Portugal ([Decreto-Lei n.º 15/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1993-585178), de 22 de janeiro) por um novo enquadramento legal em matéria de substâncias psicoativas
+
+A distinção entre o consumo de substâncias psicoativas lícitas e ilícitas está a tornar-se cada vez mais preocupante pela crescente dificuldade em conhecer, caracterizar e avaliar as diferentes substâncias existentes e emergentes. Tal dificuldade tem vindo a implicar um cada vez maior e mais preocupante consumo de várias e distintas substâncias, muitas delas combinadas e com efeitos colaterais tão prejudiciais quanto irreversíveis para a saúde - essencialmente no sistema nervoso central - daqueles que as consomem.
+
+Paralelamente ao consumo de substâncias ilícitas tradicionais como o álcool e a cocaína, os consumidores têm acesso a um cada vez maior número e a uma vasta gama de novos produtos, novas substâncias não regulamentadas e que estão desde há algum tempo a esta parte «na moda» entre os mais jovens. Referimo-nos às denominadas legal highs (que numa tradução livre se designam: drogas lícitas) que proliferam a um número e velocidade estonteante, sendo vendidas através da internet, por traficantes de rua, mas em cada vez maior número, das lojas especializadas apelidadas de smart shops. As substâncias em questão são comercializadas como drogas lícitas e estão no mercado, desta forma, pelo facto de estarmos perante um processo fácil de contornar e fácil de escapar aos controlos estabelecidos, às monitorizações e aos processos legais que as impediriam de ser comercializadas.
+
+As novas substâncias psicoativas exercem uma atração cada vez maior nos consumidores na medida em que são comercializadas como alternativas legais às drogas ilícitas e incrivelmente publicitadas com estratégias de marketing e comercialização agressivas, mas sobretudo sofisticadas. A esta realidade acresce o facto de, em muitos dos casos, estas serem rotuladas de forma enganosa mas intencional e com indicações de substâncias ou ingredientes diferentes da sua real composição.
+
+São feitas pequenas alterações em moléculas de substâncias classificadas, que são transformadas em novas substâncias que escapam ao controlo das entidades reguladoras, mesmo que as suas propriedades sejam muito similares. O caso torna-se ainda mais complexo quando aditado a este facto algumas destas substâncias estarem muito próximo de outras utilizadas para finalidades terapêuticas, o que as torna, neste aspeto, lícitas.
+
+Estamos perante uma situação deveras preocupante e que tem vindo ao longo dos tempos a ter uma maior atenção por parte das entidades reguladoras e dos centros de poder e decisão e dos responsáveis políticos. A União Europeia e os seus Estados membros debatem e discutem a legislação em vigor, nos respetivos Estados, mas o desafio torna-se eminente e premente a nível nacional para que se chegue a um consenso e a uma solução rápida mas sobretudo eficaz de combate a este flagelo.
+
+A própria Comissão Europeia num comunicado em 25 de outubro de 2011 deu nota da enorme gravidade desta situação:
+
+«De acordo com um recente inquérito Eurobarómetro, as novas drogas sintéticas, que podem ser tão perigosas como as substâncias proibidas, são cada vez mais populares, tendo 5 % dos jovens europeus afirmado que já as consumiram. Os dados relativos ao consumo são mais elevados na Irlanda (16 %), na Polónia (9 %), na Letónia (9 %), no Reino Unido (8 %) e no Luxemburgo (7 %). O referido inquérito revelou que em todos os 27 Estados membros da UE, uma grande maioria de jovens entre 15 e 24 anos é favorável à proibição destas substâncias.»
+
+Também no ano passado, surgiram novas drogas na União Europeia ao ritmo de cerca de uma por semana, segundo é possível aferir do relatório anual do OEDT-Europol 2011 sobre novas substâncias psicoativas. Em 2011, foram oficialmente notificadas, pela primeira vez, um total de 49 novas substâncias psicoativas, através do sistema de alerta rápido da UE (o sistema de alerta rápido dota os Estados membros da UE de um mecanismo de intercâmbio de informações para comunicar o aparecimento de novas substâncias psicoativas, que é um elemento fundamental do sistema acelerado de avaliação e combate às novas drogas. O sistema de alerta rápido possui «capacidades de comunicação» significativas que agilizam o intercâmbio e a triangulação de informações das fontes existentes), o que representa o maior número de substâncias alguma vez notificado num só ano e constitui um aumento em relação às 41 substâncias assinaladas em 2010 e às 24 assinaladas em 2009.
+
+Seja qual for a origem das drogas, a realidade é que aqueles que consomem uma crescente variedade de pós, comprimidos e misturas sem terem um conhecimento preciso sobre a composição dessas substâncias e sobre o potencial risco que estas podem causar à saúde estão a colocar em risco, na maior parte das vezes, as suas próprias vidas.
+
+A resposta existente em matéria de legislação para superar este fenómeno não é, de todo, compatível com o existente e vigente a nível nacional, que passa pelo aditar de novas substâncias, à medida que estas vão surgindo no mercado, à lista anexa do [Decreto-Lei n.º 15/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1993-585178), de 22 de janeiro.
+
+Convém, por isso, procurar novas estratégias de atuação que permitam uma inclusão destas substâncias na referida lista anexa de uma forma o mais abrangente possível.
+
+Apesar de estarmos atentos e continuarmos a insistir para que não se abandone o aditar, sempre que possível e de uma forma cada vez mais célere das novas substâncias que vão surgindo no mercado, estamos conscientes que vivemos num mundo e num plano muito cinzento no referente à legalidade onde são aproveitados «buracos legais» que, no fundo, acabam por permitir e promover o uso e comercialização de substâncias, muitas delas anunciadas e rotuladas de nocivas para a saúde e sob aviso de não serem utilizadas para consumo humano.
+
+Convém ainda recordar que diversos países da União Europeia têm dado diversos passos no sentido de uma célere avaliação das substâncias que vão surgindo a um elevado ritmo, mesmo que esta avaliação não tenha sido consensual - fazendo com que diferentes países classifiquem como ilegais diferentes substâncias.
+
+No entanto, e perante tais avanços, urge aproveitar o trabalho que tem sido realizado pelos países parceiros e pelas diferentes entidades públicas nacionais responsáveis pelo tema da droga e da toxicodependência.
+
+Em Portugal as leis das drogas são muito liberais e no último ano têm aberto várias lojas - smart shops - por todo o país, não estando a Região Autónoma de Madeira fora do território onde já foram abertas também algumas das referidas lojas. A cadeia mais conhecida é a Magic Mushroom, estando neste momento como líder no mercado. A situação é que em Portugal as lojas ainda continuam a vender todos os tipos de ervas, incensos e adubos diversificados e é precisamente neste sentido que urge debater, mas, sobretudo, encontrar, soluções rápidas em termos legais para pôr cobro ou minimizar os danos que esta atividade provoca na saúde de cada jovem consumidor, na saúde de cada português consumidor.
+
+Assim, nos termos constitucionais e regimentais aplicáveis, a Assembleia Legislativa da Região Autónoma da Madeira aprova a presente resolução, recomendando à Assembleia da República que:
+
+1 - Torne célere o processo de direito comparado com outras legislações em vigor em outros países, nomeadamente com o que está a ser estudado e aplicado na Polónia, na Dinamarca e em Inglaterra, no âmbito do grupo de trabalho criado para o efeito.
+
+2 - Procure adotar legislação com referência específica a «grupos de substâncias» e não a substâncias individualizadas.
+
+3 - Procure encontrar através de uma conjugação de esforços e trabalho conjunto com os diversos ministérios cujo assunto está sob a alçada dos mesmos - Ministérios da Saúde, da Justiça, da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e da Economia e do Emprego - um alinhamento de legislação em matéria de controlo de estupefacientes, segurança alimentar, defesa do consumidor e medicamentos de forma a abranger a grande variedade de substâncias que aparecem no mercado.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de julho de 2012.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.

@@ -1,0 +1,563 @@
+---
+schema_version: '1.0'
+id: pt:dre:518028:por
+title: Portaria n.º 178/2007
+short_title: null
+summary: Regulamenta o exercício das competências ou atribuições das diferentes entidades que participam na execução das intervenções
+  sanitárias do Programa Nacional de Saúde Animal bem como a modalidade de apoios do Estado às acções executadas pelas organizações
+  de produtores pecuários e, ainda, o pagamento pelos criadores das acções executadas pelos serviços oficiais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 178/2007
+official_date: null
+publication_date: '2007-02-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/2007, Série I de 2007-02-09
+  number: '29'
+  series: I
+  supplement: null
+  pages: 1031 - 1036
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/02/02900/10311036.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes:
+- O presente diploma é revogado pela Portaria n.º 239/2022, de 16 de setembro, com exceção dos seus artigos 12.º, 13.º, 16.º
+  e 17.º, os quais se mantêm em vigor até à data do termo dos protocolos celebrados para efeitos de execução do programa sanitário
+  de 2022.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-09-17'
+version_history:
+  file: portaria-178-2007.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-03-13'
+    amending: pt:dre:279425:por
+    amending_title: Portaria n.º 96/2011
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+  - date: '2022-07-07'
+    amending: pt:dre:185667613:por
+    amending_title: Portaria n.º 175/2022
+    changes:
+    - Altera Artigo 2.º
+  - date: '2022-09-17'
+    amending: pt:dre:201115523:por
+    amending_title: Portaria n.º 239/2022
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Anexo
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/178/2007/p/cons/20220916/pt/html
+  oj: null
+  dre: '518028'
+  dre_path: /dr/detalhe/portaria/178-2007-518028
+  internal: pt:dre:518028:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/178-2007-518028
+  metadata_url: https://data.dre.pt/eli/port/178/2007/p/cons/20220916/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-185719005
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-185719005
+  retrieved_at: '2026-10-22T12:51:20Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c2f7eac6880ad1441d3e71e337542ba7a59b47af00e511775421370c260e8619
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:51:20Z'
+  notes: 4 versão(ões); histórico completo em portaria-178-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Produção Animal
+- Financiamento
+- Doença Animal
+- Gado Caprino
+- Direção Geral de Veterinária
+- Definição de Competências
+- Controlo Sanitário
+- PNSA
+- Exploração Pecuária
+- Gado Bovino
+- Organização de Produtores
+- Gado Ovino
+- Pecuária
+- Veterinário
+relationships:
+- type: amended_by
+  target: pt:dre:342793:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793
+  date: '2010-10-01'
+- type: amended_by
+  target: pt:dre:279425:por
+  label: Altera Artigo 16.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/96-2011-279425
+  date: '2011-03-08'
+- type: amended_by
+  target: pt:dre:185667613:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/175-2022-185667613
+  date: '2022-07-06'
+- type: amended_by
+  target: pt:dre:201115523:por
+  label: Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 5.º; Revoga Artigo 6.º;
+    Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 14.º; Revoga
+    Artigo 15.º; Revoga Artigo 18.º; Revoga Artigo 19.º; Revoga Artigo 20.º; Revoga Artigo 21.º; Revoga Artigo 22.º; Revoga
+    Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523
+  date: '2022-09-16'
+- type: cites
+  target: pt:dre:200418:por
+  label: null
+  source: http://data.dre.pt/eli/port/122/2003/02/05/p/dre
+- type: cites
+  target: pt:dre:218308:por
+  label: null
+  source: http://data.dre.pt/eli/port/356/2004/04/05/p/dre
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/142/2006/07/27/p/dre
+- type: cites
+  target: pt:dre:667160:por
+  label: null
+  source: http://data.dre.pt/eli/port/266/2006/03/17/p/dre
+article_structure:
+  article_count: 22
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:51:20Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 178/2007
+
+Portaria n.º 178/2007
+
+de 9 de Fevereiro
+
+Portugal tem vindo a aplicar diferentes programas de erradicação e vigilância de doenças dos animais e acções de controlo para a prevenção das doenças constantes do Programa Nacional de Saúde Animal (PNSA), designadamente em bovinos, ovinos e caprinos, tendo como objectivo a classificação de explorações e áreas indemnes ou oficialmente indemnes das doenças.
+
+O PNSA, onde se incluem os planos de erradicação das doenças dos animais, é desenvolvido através da realização de um conjunto de acções de carácter profiláctico e sanitário, análises laboratoriais e abate sanitário dos animais, cujos custos são suportados pelo Estado e pelos criadores, essencialmente executadas mediante a celebração de acordos de cooperação entre os serviços veterinários oficiais e as organizações de produtores pecuários (OPP).
+
+As OPP, enquanto entidades que congregam um número representativo de criadores, justificam o papel que têm sido chamadas a desempenhar na aplicação do PNSA, pelo que entende o Governo continuar a assegurar a realização dos programas de erradicação através da manutenção de um sistema de celebração de protocolos com estas organizações.
+
+Embora actualmente os custos associados à execução do PNSA sejam suportados pelo Estado e, numa parcela menor, pelos criadores, no futuro, aqueles deverão ser tendencialmente assumidos pela produção, tendo como referência o princípio que se encontra subjacente na criação destas acções, que aponta para uma crescente responsabilização técnica e financeira quer das OPP quer dos produtores associados.
+
+O regime instituído pela Portaria n.º 122/2003, de 5 de Fevereiro, que permitiu a colaboração da autoridade sanitária veterinária nacional e das OPP, foi já alterado várias vezes, pelo que se entende proceder à sua revogação, criando um novo quadro de aplicação e de apoio à realização das intervenções sanitárias previstas no PNSA.
+
+O grupo de trabalho constituído pelo despacho n.º 9295/2006, de 10 de Abril, propôs alterações relativas à constituição e reconhecimento das OPP, bem como um modelo de financiamento, de forma a apoiar as acções constantes dos planos de erradicação em curso. Assim, o financiamento das OPP passa a ser feito com base na atribuição de uma subvenção uniforme e modulada por escalões de animais existentes nas explorações associadas e por ano, relativamente às quais as OPP tenham assegurado a execução da totalidade das acções sanitárias obrigatórias previstas no PNSA.
+
+De igual forma, para melhorar a implementação do PNSA, entendeu-se criar novas condições para a associação ou fusão de OPP, objectivo tido como determinante para a viabilidade económica destas organizações. O elevado número de OPP actualmente existente aconselha a que esta dinâmica de concentração seja aprofundada no futuro, de forma que o sector ganhe dimensão crítica, reduzindo os custos operacionais associados à defesa sanitária dos efectivos pecuários nacionais, mantendo simultaneamente uma prestação qualificada de serviços, num quadro de maior eficiência e racionalidade económica e menos gerador de assimetrias regionais.
+
+De igual forma, alteram-se a área e a dimensão mínimas das OPP para a celebração de protocolos de apoio.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 4.º do Decreto-Lei n.º 39209, de 14 de Maio de 1953, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A presente portaria regulamenta o exercício das competências ou atribuições das diferentes entidades que participam na execução das intervenções sanitárias do Programa Nacional de Saúde Animal (PNSA) bem como a modalidade de apoios do Estado às acções executadas pelas organizações de produtores pecuários (OPP) e ainda o pagamento pelos criadores das acções executadas pelos serviços oficiais.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+###### Artigo 2.º — Definições
+
+Para efeitos da presente portaria, entende-se por:
+
+a) «Animal de referência» um bovino ou cinco ovinos ou caprinos financeiramente elegíveis;
+
+b) «Animal elegível para intervenção sanitária» o que será intervencionado de acordo com os planos de erradicação aplicáveis e com a classificação sanitária da exploração e da região;
+
+c) «Animal financeiramente elegível» o que se encontre em exploração enquadrada nos planos de erradicação e vigilância quando seja efetuado o primeiro controlo sanitário anual e que, no caso dos:
+
+i) Bovinos, tenha mais de seis semanas;
+
+ii) Ovinos e caprinos, tenha identificação individual;
+
+d) «Animal reprodutor» o das espécies bovina, ovina ou caprina destinado a reprodução ou recria para reprodução;
+
+e) «Autoridade competente» a Direcção-Geral de Veterinária (DGV), enquanto autoridade sanitária veterinária nacional;
+
+f) «Cabeça normal» um bovino ou sete ovinos ou caprinos elegíveis;
+
+g) «Epidemiovigilância» processo desenvolvido anualmente, pelo médico veterinário executor em todas as explorações da área de actuação da OPP, com a finalidade de avaliar e classificar o risco sanitário das explorações de acordo com factores com relevância epidemiológica, tais como tipo de maneio, rotação do efectivo animal, proximidade de outras explorações ou contactos com outros efectivos, do qual deve ser produzido um relatório normalizado, sempre que os serviços veterinários regionais o determinem;
+
+h) «Exploração de risco» a exploração à qual os serviços veterinários, atendendo a acontecimentos sanitários excepcionais, determinem a realização de uma intervenção sanitária extraordinária ou não prevista;
+
+i) «Exploração elegível» exploração onde exista um efectivo de reprodutores ou animais em fase de recria destinados a reprodução, bem como as explorações de risco;
+
+j) «Exploração pecuária» o conjunto de efectivos das espécies pecuárias presentes numa mesma propriedade ou conjunto de propriedades, que partilham os meios de produção e estão agregadas num mesmo número de registo ou marca de exploração;
+
+l) «Organizações de produtores pecuários (OPP)» as organizações de criadores já existentes ou a criar que celebrem um protocolo com a autoridade competente para a realização de intervenções sanitárias no âmbito do PNSA;
+
+m) «Médicos veterinários coordenadores e médicos veterinários executores» os médicos veterinários ao serviço das OPP, acreditados pela DGV, responsáveis pela coordenação e pela realização das intervenções sanitárias, respectivamente;
+
+n) «Programa sanitário» o programa anual que estabelece as intervenções sanitárias a executar nas explorações, detalhado por espécie e de acordo com os programas de erradicação em vigor, baseado, nomeadamente, na classificação sanitária das explorações e das regiões envolvidas;
+
+o) «Protocolo» o documento pelo qual a DGV e as OPP estabelecem as cláusulas que regem os direitos e as obrigações de ambas as partes na execução das acções do programa sanitário anual.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 175/2022 - Diário da República n.º 129/2022, Série I de 2022-07-06](https://diariodarepublica.pt/dr/detalhe/portaria/175-2022-185667613), em vigor a partir de 2022-07-07
+
+###### Artigo 3.º — Entidades executoras
+
+1 - A execução das acções do PNSA compete:
+
+a) Às OPP, mediante o estabelecimento de protocolo com a autoridade competente;
+
+b) À DGV, relativamente às explorações dos criadores não aderentes a uma OPP e sempre que se verifique a suspensão do programa de uma OPP.
+
+2 - A DGV pode solicitar acções pontuais às OPP não previstas no âmbito dos protocolos sempre que ocorram inopinadamente surtos de doenças dos animais, nas condições que, em cada caso, forem definidas por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+3 - A DGV pode ainda solicitar às OPP a realização, em explorações de risco, de intervenções sanitárias extraordinárias ou não previstas nos programas aprovados.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+###### Artigo 4.º — Liberdade de escolha do médico veterinário
+
+1 - Os detentores das explorações pecuárias têm o direito de escolher o médico veterinário executor, bem como o direito de se associar a qualquer OPP da mesma região agrária.
+
+2 - Os direitos consagrados no número anterior não podem ser exercidos de forma a pôr em causa os programas sanitários aprovados oficialmente e desenvolvidos na área geográfica onde se localiza a exploração.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+###### Artigo 5.º — Reconhecimento das organizações de produtores pecuários
+
+1 - O reconhecimento de novas OPP é da competência do director-geral de Veterinária.
+
+2 - Os pedidos de reconhecimento das novas OPP devem ser dirigidos, ao director-geral de Veterinária, até ao dia 31 de Janeiro, acompanhados de cópia da respectiva escritura pública de constituição, dos estatutos, da identificação da área social e ainda dos seguintes elementos:
+
+a) Listagem dos criadores associados e dos respectivos efectivos de referência, segundo modelo a divulgar pela DGV;
+
+b) Identificação do médico veterinário coordenador e dos médicos veterinários executores;
+
+c) (Revogada.)
+
+3 - A DGV verifica a conformidade das listas e a representatividade dos associados da OPP e aprova o programa sanitário.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1004/2010 - Diário da República n.º 192/2010, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793), em vigor a partir de 2007-10-02
+
+###### Artigo 6.º — Requisitos do reconhecimento
+
+1 - Como condição para obter o respectivo reconhecimento, as novas OPP devem integrar, pelo menos, 80% dos criadores de uma área social que deve corresponder, no mínimo, a um concelho e a um efectivo mínimo de 10000 cabeças normais, do conjunto de bovinos, ovinos e caprinos existente na referida área.
+
+2 - As OPP já reconhecidas e que se encontram em funcionamento mantêm o seu reconhecimento enquanto representarem, pelo menos, 50 % dos criadores e dos efectivos na sua área social.
+
+3 - A mudança de OPP, por parte do criador, só pode ocorrer no período entre 1 e 31 de Dezembro, devendo aquele, para o efeito, remeter à DGV os seguintes documentos:
+
+a) Declaração, sob compromisso de honra, de adesão à OPP, manifestando a sua vontade em que seja esta a executar, no seu efectivo, o programa sanitário, da qual conste igualmente a aceitação por parte da OPP;
+
+b) Cópia da declaração de desvinculação da OPP onde o produtor pretende deixar de ser associado, bem como do comprovativo do respectivo envio;
+
+c) Cópia do documento de identificação.
+
+4 - Os modelos das declarações a que se referem as alíneas a) e b) do número anterior serão divulgados na página oficial electrónica da DGV.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1004/2010 - Diário da República n.º 192/2010, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793), em vigor a partir de 2007-10-02
+
+###### Artigo 7.º — Fusão ou associação de organizações de produtores pecuários
+
+1 - A fusão de duas ou mais OPP só é eficaz desde que seja cumprido o disposto no n.º 1 do artigo anterior, assegurada a continuidade dos programas anuais em curso e obtido o acordo prévio da DGV.
+
+2 - As OPP previamente reconhecidas podem agrupar-se para, de forma integrada, desenvolverem um protocolo comum e único sobre a totalidade dos criadores associados das OPP constituintes, sendo tal agrupamento para todos os efeitos equiparado a uma OPP.
+
+3 - As OPP que se agrupem nos termos do número anterior devem designar um representante responsável pela gestão e cumprimento, designadamente financeiro, do protocolo, bem como o médico veterinário coordenador responsável pela execução do programa sanitário.
+
+4 - Em caso de agrupamento, a responsabilidade das OPP é solidária.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+###### Artigo 8.º — Atribuições da Direcção-Geral de Veterinária
+
+Para efeitos do disposto na presente portaria, compete à DGV:
+
+a) A coordenação e controlo das intervenções sanitárias executadas nas explorações, no âmbito dos planos de erradicação em curso e do PNSA;
+
+b) Celebrar com cada OPP o protocolo para o desenvolvimento do programa sanitário anual a executar nas explorações dos seus associados;
+
+c) Definir os procedimentos para a execução dos programas sanitários, que incluem, entre outros, as acções de formação exigidas aos médicos veterinários-coordenadores e executores das OPP, os quais serão divulgados através do sítio da Internet da DGV;
+
+d) Avaliar e aprovar os programas sanitários anuais apresentados pelas OPP, podendo solicitar os esclarecimentos que considerar necessários;
+
+e) Proceder à avaliação das acções desenvolvidas pelas OPP verificando, nomeadamente, a sua compatibilidade com os programas aprovados;
+
+f) Assegurar a coordenação do sistema informático de suporte ao registo das acções de profilaxia médica e sanitária realizadas;
+
+g) Promover a acreditação dos médicos veterinários coordenadores e executores;
+
+h) Aplicar as eventuais sanções por incumprimento previsto na lei e nos protocolos de execução das acções de profilaxia médica e sanitária;
+
+i) Proceder à classificação sanitária de áreas com base na classificação sanitária das explorações.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1004/2010 - Diário da República n.º 192/2010, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793), em vigor a partir de 2007-10-02
+
+###### Artigo 9.º — Atribuições das organizações de produtores pecuários
+
+Para efeitos do disposto na presente portaria, compete às OPP:
+
+a) Colaborar com a Administração na execução do PNSA, na vigilância sanitária das explorações e na prevenção e controlo das doenças emergentes dos animais;
+
+b) Enviar atempadamente a calendarização das acções de profilaxia médica e sanitária que se propõe executar, de acordo com procedimentos a definir no protocolo com a DGV;
+
+c) Executar a totalidade das intervenções sanitárias do PNSA previstas, nos efectivos das explorações dos criadores seus associados;
+
+d) Proceder ao registo de todas as acções previstas no programa sanitário, executadas por animal;
+
+e) Disponibilizar, para efeitos de controlo, auditoria ou inspecção, toda a informação solicitada pela DGV ou por outros organismos da Administração Pública;
+
+f) Manter em funcionamento, devidamente actualizada, a aplicação informática indicada pela DGV para registo das intervenções sanitárias;
+
+g) Colocar à disposição do médico veterinário coordenador os meios indispensáveis à elaboração do relatório técnico, de forma a permitir a correcta avaliação da aplicação dos programas sanitários;
+
+h) Comunicar à DGV as irregularidades sanitárias observadas e zelar pela melhoria do estatuto sanitário das explorações e da sua área de intervenção, propondo medidas tendentes à melhoria da classificação sanitária da região.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+###### Artigo 10.º — Missão complementar das organizações de produtores pecuários
+
+Atendendo à sua experiência e implantação junto dos produtores pecuários, a missão das OPP deverá alargar-se às seguintes áreas:
+
+a) Organizar e executar planos colectivos de saneamento das explorações pecuárias;
+
+b) Informar e prestar a assistência necessária às explorações pecuárias para que estas cumpram os requisitos legais de gestão em matéria de saúde e bem-estar animal previstos no anexo III do Regulamento n.º 1782/2003, do Conselho, de 29 de Setembro, que estabelece regras para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores;
+
+c) Desenvolver programas de informação e de formação dos associados e outros serviços de assistência técnica no âmbito das actividades pecuárias.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+###### Artigo 11.º — Obrigações dos criadores associados
+
+Os criadores associados das OPP estão obrigados a:
+
+a) Colocar os meios indispensáveis para a execução das intervenções sanitárias obrigatórias à disposição dos médicos veterinários executores;
+
+b) Dar conhecimento ao médico veterinário executor ou coordenador de qualquer suspeita ou alteração sanitária observada nos animais da sua exploração que possa constituir um factor de risco sanitário;
+
+c) Só adquirir animais com origem em efectivos com classificações sanitárias iguais ou superiores à do seu efectivo;
+
+d) Reportar ao médico veterinário executor ou coordenador todos os abortos ocorridos nas espécies bovina, ovina e caprina da sua exploração.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+###### Artigo 12.º — Protocolo
+
+1 - As OPP tornam-se responsáveis pela realização das intervenções sanitárias mediante a aprovação do programa sanitário anual, após a qual será celebrado um protocolo, que inclui o programa sanitário bem como as condições de atribuição e valor previsível da subvenção.
+
+2 - Podem candidatar-se ao estabelecimento de um protocolo as OPP já reconhecidas pela DGV e outras que venham a constituir-se, desde que a sua actividade se enquadre no sector objecto das acções a desenvolver.
+
+3 - Para o estabelecimento do protocolo ou a sua renovação, a OPP deve apresentar um programa sanitário anual, a aprovar pela DGV, o qual deve ser entregue até 31 de Janeiro do ano a que respeita.
+
+4 - A entrega do programa sanitário a que se refere o número anterior deve ser precedida, até 31 de Dezembro, de um requerimento a manifestar a intenção de apresentação da candidatura a um programa sanitário para o ano subsequente.
+
+5 - O protocolo mencionado no n.º 1 será celebrado, com as OPP, no prazo de 30 dias após a publicação do despacho a que se refere o n.º 4 do artigo 16.º
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1004/2010 - Diário da República n.º 192/2010, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793), em vigor a partir de 2007-10-02
+
+###### Artigo 13.º — Programa sanitário
+
+1 - O programa sanitário deve considerar as disposições previstas nos diferentes planos de erradicação, com definição de objectivos e estratégias, devendo ser devidamente assinado pelo médico veterinário-coordenador.
+
+2 - O programa deve ainda prever as intervenções sanitárias a realizar nas explorações dos seus associados, com a indicação dos objectivos a alcançar.
+
+3 - Com o programa sanitário, a OPP deve juntar listagens dos médicos veterinários executores e das explorações/criadores aderentes e respectivos efectivos em suporte informático de modelo a definir pela DGV.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1004/2010 - Diário da República n.º 192/2010, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793), em vigor a partir de 2007-10-02
+
+###### Artigo 14.º — Médico veterinário coordenador
+
+1 - O médico veterinário coordenador de cada OPP é designado pela respectiva direcção, devendo estar acreditado pela DGV para a realização de acções sanitárias oficiais.
+
+2 - São competências do médico veterinário coordenador:
+
+a) Elaborar o programa anual e apresentá-lo à direcção da OPP;
+
+b) Coordenar, assegurar e avaliar a boa execução pelos médicos veterinários executores das acções previstas no programa sanitário aprovado;
+
+c) Elaborar os relatórios técnicos, segundo modelo definido pela DGV, bem como rever o programa, sempre que justificável, em função da evolução dos efectivos e das explorações associadas;
+
+d) Identificar e informar a DGV das suspeitas ou das situações de risco sanitário que sejam identificadas nas explorações associadas, nomeadamente no âmbito da movimentação animal.
+
+3 - Sempre que se verifique a suspensão ou demissão do médico veterinário coordenador no decurso do programa sanitário anual, a aplicação do programa sanitário será suspensa durante o prazo máximo de 30 dias, durante o qual a OPP deve proceder à sua substituição.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1004/2010 - Diário da República n.º 192/2010, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793), em vigor a partir de 2007-10-02
+
+###### Artigo 15.º — Médicos veterinários executores
+
+1 - Compete aos médicos veterinários executores:
+
+a) Executar as acções médico-veterinárias constantes do programa sanitário aprovado, sob a orientação do médico veterinário coordenador;
+
+b) Informar e prestar a assistência necessária às explorações pecuárias para que estas melhorem as condições higiossanitárias e de bem-estar animal, adequadas e previstas nos normativos legais;
+
+c) Informar o médico veterinário coordenador das dificuldades ou das irregularidades encontradas no desempenho das suas funções, bem como reportar as suspeitas sanitárias observadas, nomeadamente as que possam condicionar a classificação sanitária da exploração;
+
+d) A cada médico veterinário executor de uma OPP deve ser atribuído, pelo médico veterinário coordenador, um programa de intervenção sanitária próprio no qual devem estar identificadas as explorações ou as regiões sob a sua responsabilidade, os efectivos e os objectivos das acções sanitárias a desenvolver anualmente.
+
+2 - Os médicos veterinários executores, para exercerem as acções constantes de um programa sanitário, devem estar acreditados pela DGV para tal efeito.
+
+3 - O número máximo de animais por ano a considerar no programa de cada médico veterinário executor é determinado pela DGV, depois de consultadas as organizações representativas das OPP.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+###### Artigo 16.º — Condições de atribuição da subvenção
+
+1 - Para a execução das acções constantes nos programas sanitários das OPP é atribuída uma subvenção anual, destinada a apoiar a execução daquelas acções, tendo em consideração os efectivos elegíveis de cada exploração.
+
+2 - A subvenção referida no número anterior destina-se a apoiar a coordenação e a execução do programa sanitário aprovado no âmbito dos planos de erradicação bem como o aprovisionamento de meios técnicos e logísticos destinados à realização destas.
+
+3 - A subvenção é calculada através de um sistema de modulação dos animais elegíveis financeiramente por exploração e por ano, com valores diferenciados em função de escalões predefinidos de efectivos, de acordo com uma tabela nacional.
+
+4 - Os valores da tabela de modulação, referidos no número anterior, bem como o montante total a atribuir anualmente para a subvenção das OPP são fixados anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas a publicar no Diário da República.
+
+5 - A subvenção da OPP é determinada pelo somatório dos valores atribuíveis por exploração associada que, para o respectivo ano civil, tenha assegurado a realização de todas as intervenções sanitárias requeridas no âmbito dos planos de erradicação, para a espécie e para a região.
+
+6 - A subvenção é paga em parcelas, nas seguintes condições:
+
+a) 40 % do valor do programa sanitário anual após a sua aprovação;
+
+b) 25 % do valor do programa sanitário anual, desde que o cálculo do valor dos animais já controlados e justificados à data seja igual ou superior ao valor acumulado das parcelas emitidas e a OPP faça prova que executou pelo menos 60 % do programa sanitário em cada doença, até 30 de Novembro;
+
+c) Acerto final, após a conclusão do programa sanitário anual até 31 de Dezembro, tendo em consideração a taxa total de execução.
+
+d) Acerto final, após a conclusão do programa sanitário anual até 31 de Dezembro, tendo em consideração a taxa total de execução.
+
+7 - Após a primeira parcela, os restantes pagamentos têm por base o efectivo elegível já controlado e justificado, de acordo com as taxas de execução alcançadas, tendo por base as explorações propostas no programa sanitário.
+
+8 - Quando a OPP não cumpra o previsto na alínea b) do n.º 6, aplica-se apenas o disposto na alínea c) do mesmo número.
+
+9 - A apresentação do último pedido de pagamento referente ao acerto final referido na alínea c) do n.º 6 deverá ocorrer no prazo de 30 dias após a conclusão do programa sanitário, não podendo ultrapassar o dia 31 de Janeiro do ano civil seguinte.
+
+> Alterado pelo/a [Portaria n.º 96/2011 - Diário da República n.º 47/2011, Série I de 2011-03-08](https://diariodarepublica.pt/dr/detalhe/portaria/96-2011-279425), em vigor a partir de 2011-03-13
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1004/2010 - Diário da República n.º 192/2010, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793), em vigor a partir de 2007-10-02
+
+###### Artigo 17.º — Sanções
+
+1 - O não cumprimento pela OPP das obrigações constantes do programa sanitário e do protocolo estabelecido, nomeadamente no que se refere à execução das acções sanitárias para a manutenção ou melhoria do estatuto sanitário das explorações, ou ainda taxas de execução anuais inferiores a 75 % nos diferentes planos determinam a cessação do reconhecimento.
+
+2 - O disposto no número anterior não se aplica sempre que as acções sanitárias não tenham sido cumpridas, total ou parcialmente, por motivos de força maior, devidamente justificados.
+
+3 - O não cumprimento do prazo definido no n.º 9 do artigo 16.º implica uma redução no pagamento do acerto final, nos seguintes termos:
+
+a) 50 % se o envio do último pedido de pagamento ocorrer até 15 de Fevereiro do ano civil seguinte à execução do programa sanitário;
+
+b) 75 % se o envio do último pedido de pagamento ocorrer entre o dia 15 de Fevereiro e o último dia de Fevereiro do ano civil seguinte à execução do programa sanitário;
+
+c) 100 %, se o envio do último pedido de pagamento ocorrer após o final de Fevereiro do ano civil seguinte à execução do programa sanitário.
+
+> Alterado pelo/a [Portaria n.º 96/2011 - Diário da República n.º 47/2011, Série I de 2011-03-08](https://diariodarepublica.pt/dr/detalhe/portaria/96-2011-279425), em vigor a partir de 2011-03-13
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1004/2010 - Diário da República n.º 192/2010, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793), em vigor a partir de 2007-10-02
+
+###### Artigo 18.º — Acerto final da subvenção
+
+Caso seja observado, na contabilização global das subvenções calculadas para as OPP, no final de cada ano civil, valor superior ao determinado no despacho anual previsto no artigo 16.º, o valor da subvenção de cada OPP é sujeito a um rateio proporcional tendo por base o programa executado, até ao equilíbrio do valor determinado para o ano em curso.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1004/2010 - Diário da República n.º 192/2010, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793), em vigor a partir de 2007-10-02
+
+###### Artigo 19.º — Execução das acções pelos serviços oficiais
+
+Pela execução das intervenções sanitárias inerentes aos planos de erradicação, nos termos do disposto na alínea b) do n.º 1 do artigo 3.º, os criadores pagam ao serviço oficial executor os montantes determinados no anexo desta portaria.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+###### Artigo 20.º — Norma transitória
+
+1 - Para o ano de 2007, o prazo a que se refere o n.º 3 do artigo 12.º é fixado em 30 dias após a data da publicação desta portaria.
+
+2 - A DGV deve determinar durante o ano de 2007 o sistema de acreditação e de formação dos médicos veterinários coordenadores e executores das OPP, pelo que a obrigatoriedade de tal acreditação só é exigível na aprovação dos programas sanitários de 2008.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 1004/2010 - Diário da República n.º 192/2010, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793), em vigor a partir de 2007-10-02
+
+###### Artigo 21.º — Norma revogatória
+
+É revogada a Portaria n.º 122/2003, de 5 de Fevereiro, com a redacção que lhe foi dada pelas Portarias n.os 356/2004, de 5 de Abril, e 266/2006, de 17 de Março.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+###### Artigo 22.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 25 de Janeiro de 2007.
+
+## Anexo — (pagamento a que se refere o artigo 19.º)
+
+O valor a pagar aos serviços veterinários oficiais, de acordo com o artigo 19.º, pelos criadores não associados, por cada animal sujeito a intervenção sanitária obrigatória, de acordo com os planos de erradicação em curso é de:
+
+a) Por cada bovino - (euro) 12,50;
+
+b) Por cada ovino ou caprino - (euro) 2,50.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 239/2022 - Diário da República n.º 180/2022, Série I de 2022-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/239-2022-201115523), em vigor a partir de 2022-09-17
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1004/2010 - Diário da República n.º 192/2010, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1004-2010-342793), em vigor a partir de 2007-10-02

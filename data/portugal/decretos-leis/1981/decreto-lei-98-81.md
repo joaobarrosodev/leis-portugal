@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:573355:por
+title: Decreto-Lei n.º 98/81
+short_title: null
+summary: Dá nova redacção ao artigo 1.º do Decreto-Lei n.º 123/76, de 11 de Fevereiro (percentagens sobre a revenda de valores
+  selados)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 98/81
+official_date: null
+publication_date: '1981-05-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 101/1981, Série I de 1981-05-04
+  number: '101'
+  series: I
+  supplement: null
+  pages: 1039 - 1039
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/05/10100/10391039.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '573355'
+  dre_path: /dr/detalhe/decreto-lei/98-1981-573355
+  internal: pt:dre:573355:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1981-573355
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1981-573355
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:41:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 832d69e9447f5b042fd9fb0640a936a191f46b298dee45aa37b2f7d863d103f8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:41:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Valores Selados
+relationships:
+- type: cites
+  target: pt:dre:161312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506794:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:41:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 98/81
+
+de 4 de Maio
+
+A revenda de valores selados é uma actividade que, pelos riscos e encargos que comporta, deve ser convenientemente remunerada, até como forma de incentivar os interessados na manutenção e expansão de tal função, dada a vantagem que resulta para as tesourarias da Fazenda Pública e para o público da existência dos revendedores, pelo descongestionamento que provocam no serviço daquelas.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 123/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1976-506794), de 11 de Fevereiro, passa a ter a seguinte redacção:
+
+Artigo 1.º - 1 - Aos revendedores de valores selados de que trata o artigo 37.º do regulamento aprovado pelo [Decreto n.º 12700](https://diariodarepublica.pt/dr/detalhe/decreto/12700-1926-161312), de 20 de Novembro de 1926, será paga a comissão de 3% sobre a importância dos valores adquiridos nas tesourarias da Fazenda Pública, respeitantes às requisições apresentadas no decorrer de cada ano civil.
+
+2 - ...
+
+3 - Serão cassados definitivamente os alvarás aos revendedores que, sem motivo justificado, deixem de efectuar requisições de valores selados durante trinta dias consecutivos ou que durante um ano civil não atinjam no total das requisições efectuadas o montante de 60000$00, não podendo ser satisfeita mais de uma requisição diária por revendedor.
+
+Visto e aprovado em Conselho de Ministros de 7 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 21 de Abril de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

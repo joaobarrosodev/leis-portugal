@@ -1,0 +1,496 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:499202:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-70765743",
+ "dre_path": "/dr/detalhe/portaria/794-b-2007-499202",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70763828",
+    "70763829",
+    "70763830",
+    "70763831",
+    "70763832",
+    "70763833",
+    "70763834",
+    "70763835",
+    "70763836",
+    "70763837",
+    "70763838",
+    "70763839",
+    "70763840",
+    "70763841",
+    "70763842",
+    "70763843",
+    "70763844",
+    "70763845",
+    "70763846",
+    "70763847",
+    "70763848",
+    "70763849",
+    "70763850",
+    "70763851",
+    "70763852",
+    "70763853",
+    "70763854"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:444230:por",
+     "title": "Portaria n.º 1535/2008",
+     "published": "2008-12-30",
+     "dre_path": "/dr/detalhe/portaria/1535-2008-444230"
+    }
+   ],
+   "changes": [
+    "Revoga Secção III"
+   ],
+   "fragments": [
+    "70763828",
+    "70763829",
+    "70763830",
+    "70763831",
+    "70763832",
+    "70763833",
+    "70763834",
+    "70777795",
+    "70777796",
+    "70777797",
+    "70777798",
+    "70777799",
+    "70777800",
+    "70777801",
+    "70763842",
+    "70763843",
+    "70763844",
+    "70763845",
+    "70763846",
+    "70763847",
+    "70763848",
+    "70763849",
+    "70763850",
+    "70763851",
+    "70763852",
+    "70763853",
+    "70763854",
+    "70763855"
+   ]
+  },
+  {
+   "date": "2012-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176062:por",
+     "title": "Portaria n.º 286/2012",
+     "published": "2012-09-20",
+     "dre_path": "/dr/detalhe/portaria/286-2012-176062"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "70763828",
+    "70763829",
+    "70763830",
+    "70763831",
+    "70763832",
+    "70763833",
+    "70763834",
+    "70777795",
+    "70777796",
+    "70777797",
+    "70777798",
+    "70777799",
+    "70777800",
+    "70777801",
+    "70763842",
+    "70763843",
+    "70777802",
+    "70763845",
+    "70763846",
+    "70763847",
+    "70763848",
+    "70763849",
+    "70763850",
+    "70763851",
+    "70763852",
+    "70763853",
+    "70763854",
+    "70763855"
+   ]
+  },
+  {
+   "date": "2015-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70686128:por",
+     "title": "Portaria n.º 358/2015",
+     "published": "2015-10-14",
+     "dre_path": "/dr/detalhe/portaria/358-2015-70686128"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "70763828",
+    "70763829",
+    "70763830",
+    "70763831",
+    "70763832",
+    "70763833",
+    "70763834",
+    "70777795",
+    "70777796",
+    "70777797",
+    "70777798",
+    "70777799",
+    "70777800",
+    "70777801",
+    "70763842",
+    "70763843",
+    "70777806",
+    "70763845",
+    "70763846",
+    "70763847",
+    "70763848",
+    "70763849",
+    "70763850",
+    "70763851",
+    "70763852",
+    "70763853",
+    "70763854",
+    "70763855"
+   ]
+  }
+ ],
+ "fragments": {
+  "70763828": {
+   "fragment_id": "70765744",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 794-B/2007\n\nde 23 de Julho\n\nO Decreto-Lei n.º 263-A/2007, de 23 de Julho, veio criar um procedimento especial de transmissão, oneração e registo de imóveis, que tem dois objectivos principais: a eliminação de formalidades dispensáveis nos processos de transmissão e oneração de imóveis e a possibilidade de realizar todas as operações e actos necessários num único balcão, perante um único atendimento.\n\nNo procedimento especial de transmissão, oneração e registo de imóveis os cidadãos ou as empresas interessados passam a poder realizar um vasto conjunto de actos em atendimento presencial único, os quais implicavam várias deslocações a diferentes entidades. Passou a ser possível, designadamente, celebrar o contrato de alienação ou oneração do imóvel perante um oficial público, proceder ao pagamento dos impostos devidos, como o imposto municipal sobre as transmissões onerosas de imóveis (IMT), obter a realização imediata de todos os registos, solicitar a alteração da morada fiscal e a isenção do imposto municipal sobre imóveis (IMI) num único posto de atendimento.\n\nImporta agora regulamentar várias disposições do mencionado decreto-lei, nomeadamente quanto aos regimes da marcação prévia do procedimento especial de aquisição, oneração e registo de imóveis, da emissão e consulta da certidão online do registo predial, da manifestação da intenção de exercer o direito legal de preferência e do período experimental.\n\nAssim:\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do n.º 4 do artigo 13.º, do artigo 17.º e dos n.os 1 do artigo 18.º e 1 do artigo 26.º do Decreto-Lei n.º 263-A/2007, de 23 de Julho, o seguinte:"
+  },
+  "70763829": {
+   "fragment_id": "70765745",
+   "type": 1,
+   "heading": "Capítulo I — Regulamentação dos procedimentos especiais de aquisição, oneração e registo de imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Regulamentação dos procedimentos especiais de aquisição, oneração e registo de imóveis"
+  },
+  "70763830": {
+   "fragment_id": "70765746",
+   "type": 8,
+   "heading": "Secção I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposição geral"
+  },
+  "70763831": {
+   "fragment_id": "70765747",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regula:\n\na) A marcação prévia do procedimento especial de aquisição, oneração e registo de imóveis;\n\nb) A certidão online do registo predial;\n\nc) A manifestação da intenção de exercer o direito legal de preferência;\n\nd) O período experimental dos procedimentos especiais de aquisição, oneração e registo de imóveis."
+  },
+  "70763832": {
+   "fragment_id": "70765748",
+   "type": 8,
+   "heading": "Secção II — Marcação prévia do procedimento especial de aquisição, oneração e registo de imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Marcação prévia do procedimento especial de aquisição, oneração e registo de imóveis"
+  },
+  "70763833": {
+   "fragment_id": "70765749",
+   "type": 11,
+   "heading": "Artigo 2.º — Marcação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Marcação prévia\n\n1 - O procedimento especial de transmissão, oneração e registo de imóveis pode ser sujeito a agendamento da data de realização do negócio jurídico, nos termos do artigo 13.º do Decreto-Lei n.º 263-A/2007, de 23 de Julho.\n\n2 - A marcação prévia pode ser promovida por via electrónica ou por telefone, bem como solicitada ao balcão dos serviços competentes para a realização do procedimento referido no número anterior."
+  },
+  "70763834": {
+   "fragment_id": "70765750",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazo da marcação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prazo da marcação prévia\n\n1 - A data de realização do negócio jurídico apenas pode ser marcada para data posterior a cinco dias úteis relativamente à data do pedido se esta for a vontade do interessado.\n\n2 - Sem prejuízo do disposto no número anterior, os documentos necessários à apreciação da validade dos negócios jurídicos e à realização dos registos que tenham de ser apresentados pelos interessados devem ser disponibilizados aos serviços competentes pelo menos três dias úteis antes da data marcada para a celebração dos actos.\n\n3 - O envio em suporte electrónico dos documentos referidos no número anterior equivale à sua disponibilização ao serviço de registo, mas não dispensa a apresentação dos documentos originais na data de celebração do negócio jurídico.\n\n4 - Se os documentos referidos no número anterior forem enviados por correio, a data da expedição deve anteceder pelo menos seis dias úteis a data da celebração do negócio jurídico.\n\n5 - Se o disposto nos números anteriores não for respeitado, o procedimento deve ser remarcado, salvo se a sua realização não prejudicar o regular funcionamento do serviço competente.\n\n6 - A desmarcação da celebração de um negócio jurídico por motivos imputáveis aos interessados equivale, para efeitos emolumentares, à desistência do procedimento."
+  },
+  "70763835": {
+   "fragment_id": "70765751",
+   "type": 8,
+   "heading": "Secção III — Certidão online do registo predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Certidão online do registo predial"
+  },
+  "70763836": {
+   "fragment_id": "70765752",
+   "type": 11,
+   "heading": "Artigo 4.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definição\n\nDesigna-se por certidão online a disponibilização, em suporte electrónico e permanentemente actualizada, em sítio da Internet, da reprodução dos registos em vigor e da menção das apresentações de registo pendentes, respeitantes a prédio descrito no registo predial, que constitui prova do registo perante a entidade requerente."
+  },
+  "70763837": {
+   "fragment_id": "70765753",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido\n\n1 - O pedido de certidão online é efectuado com referência a cada prédio, mediante indicação da freguesia e do concelho e de um dos seguintes elementos:\n\na) Número da descrição;\n\nb) Artigo matricial;\n\nc) Situação do prédio com referência ao lugar, rua e números de polícia ou confrontações.\n\n2 - O pedido de certidão online pode ser efectuado através do sítio na Internet com o endereço www.casapronta.mj.pt."
+  },
+  "70763838": {
+   "fragment_id": "70765754",
+   "type": 11,
+   "heading": "Artigo 6.º — Código de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Código de acesso\n\nApós a solicitação do serviço, é disponibilizado ao requerente um código que permite a visualização da certidão online no sítio da Internet referido no n.º 2 do artigo anterior."
+  },
+  "70763839": {
+   "fragment_id": "70765755",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazo de duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prazo de duração\n\nA certidão online está disponível pelo prazo de um ano."
+  },
+  "70763840": {
+   "fragment_id": "70765756",
+   "type": 11,
+   "heading": "Artigo 8.º — Taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Taxa\n\nPor cada certidão online é devida a taxa de (euro) 30, que constitui receita do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)"
+  },
+  "70763841": {
+   "fragment_id": "70765757",
+   "type": 11,
+   "heading": "Artigo 9.º — Adesão ao serviço certidão online",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Adesão ao serviço certidão online\n\nDurante o período experimental, o serviço certidão online está disponível para as instituições de crédito ou sociedades financeiras que solicitem a adesão ao serviço."
+  },
+  "70763842": {
+   "fragment_id": "70765758",
+   "type": 8,
+   "heading": "Secção IV — Manifestação da intenção de exercer o direito legal de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Manifestação da intenção de exercer o direito legal de preferência"
+  },
+  "70763843": {
+   "fragment_id": "70765759",
+   "type": 11,
+   "heading": "Artigo 10.º — Envio da informação para exercício do direito legal de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Envio da informação para exercício do direito legal de preferência\n\n1 - O alienante pode remeter os elementos essenciais para o exercício do direito legal de preferência pelo Estado, Regiões Autónomas, municípios, outras pessoas colectivas públicas ou empresas públicas por via electrónica, mediante a inserção dos elementos essenciais da alienação no sítio da Internet www.casapronta.mj.pt.\n\n2 - Para os feitos referidos no número anterior, o alienante deve inserir os dados respeitantes à sua identificação, à identificação do comprador e à identificação do prédio, bem como os elementos respeitantes ao futuro negócio, designadamente o preço."
+  },
+  "70763844": {
+   "fragment_id": "70765760",
+   "type": 11,
+   "heading": "Artigo 11.º — Antecipação de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Antecipação de pagamento\n\n1 - Pela utilização do serviço previsto no artigo anterior é devida a quantia de (euro) 15, que constitui integralmente receita do IRN, I. P.\n\n2 - O valor dos emolumentos previstos nos n.os 1 a 3 do artigo 27.º-A do Regulamento Emolumentar dos Registos e do Notariado para os procedimentos especiais de aquisição, oneração e registo de imóveis é integralmente reduzido no montante referido no número anterior se o interessado praticar algum dos actos aí previstos antes de ter decorrido o prazo referido no artigo seguinte."
+  },
+  "70763845": {
+   "fragment_id": "70765761",
+   "type": 11,
+   "heading": "Artigo 12.º — Prazo de validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prazo de validade\n\nA informação relativa à manifestação da intenção de exercer o direito legal de preferência fica disponível durante o período de um ano a contar da data em que foi confirmado o pagamento do serviço."
+  },
+  "70763846": {
+   "fragment_id": "70765762",
+   "type": 11,
+   "heading": "Artigo 13.º — Acesso e consulta da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acesso e consulta da informação\n\n1 - O acesso ao sítio da Internet onde são inseridos os elementos essenciais da alienação pelo obrigado à preferência pode ser efectuado por este e pelas seguintes entidades:\n\na) Estado, Regiões Autónomas, municípios e outras pessoas colectivas públicas ou empresas públicas;\n\nb) Serviços com competência para a realização dos procedimentos especiais de aquisição, oneração e registo de imóveis.\n\n2 - O acesso ao sítio da Internet referido no número anterior por parte do Estado, Regiões Autónomas, municípios e outras pessoas colectivas públicas ou empresas públicas deve ser solicitado ao presidente do IRN, I. P."
+  },
+  "70763847": {
+   "fragment_id": "70765763",
+   "type": 11,
+   "heading": "Artigo 14.º — Manifestação da intenção de exercício do direito legal de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Manifestação da intenção de exercício do direito legal de preferência\n\n1 - A manifestação prévia da intenção de exercício do direito legal de preferência pelo Estado, Regiões Autónomas, municípios, outras pessoas colectivas públicas ou empresas públicas é efectuada no sítio da Internet referido no artigo 10.º\n\n2 - A ausência de manifestação expressa da intenção de exercer o direito legal de preferência no prazo previsto na lei determina a caducidade deste direito, nos termos do Decreto-Lei n.º 263-A/2007, de 23 de Julho.\n\n3 - Caso seja manifestada, de forma expressa, a intenção de não exercer o direito legal de preferência pelas entidades referidas no n.º 1, essa decisão não pode ser posteriormente alterada."
+  },
+  "70763848": {
+   "fragment_id": "70765764",
+   "type": 8,
+   "heading": "Secção V — Período experimental dos procedimentos especiais de aquisição, oneração e registo de imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Período experimental dos procedimentos especiais de aquisição, oneração e registo de imóveis"
+  },
+  "70763849": {
+   "fragment_id": "70765765",
+   "type": 11,
+   "heading": "Artigo 15.º — Locais e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Locais e duração\n\n1 - Os procedimentos previstos no Decreto-Lei n.º 263-A/2007, de 23 de Julho, estão disponíveis, a título experimental, nos seguintes serviços:\n\na) Conservatória do Registo Predial de Águeda;\n\nb) Conservatória do Registo Predial de Almeirim;\n\nc) 1.A Conservatória do Registo Predial de Braga;\n\nd) 2.ª Conservatória do Registo Predial de Braga;\n\ne) 1.A Conservatória do Registo Predial de Leiria;\n\nf) 2.ª Conservatória do Registo Predial de Leiria;\n\ng) Conservatória do Registo Predial de Mirandela.\n\n2 - O período experimental termina no dia 31 de Dezembro de 2007.\n\n3 - Por despacho do presidente do IRN, I. P., os procedimentos previstos no Decreto-Lei n.º 263-A/2007, de 23 de Julho, podem ser disponibilizados noutras conservatórias ou postos de atendimento de conservatórias durante o período experimental."
+  },
+  "70763850": {
+   "fragment_id": "70765766",
+   "type": 1,
+   "heading": "Capítulo II — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições finais e transitórias"
+  },
+  "70763851": {
+   "fragment_id": "70765767",
+   "type": 11,
+   "heading": "Artigo 16.º — Disponibilização de documentos por via electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disponibilização de documentos por via electrónica\n\nQualquer documento disponibilizado por via electrónica aos serviços de registo pelos municípios dispensa a entrega do respectivo original desde que sejam enviados pela Internet através do sítio www.casapronta.mj.pt."
+  },
+  "70763852": {
+   "fragment_id": "70765768",
+   "type": 11,
+   "heading": "Artigo 17.º — Extractação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Extractação\n\nPor despacho do presidente do IRN, I. P., são definidos os procedimentos a adoptar no caso de o pedido de certidão online respeitar a prédio que ainda não se encontre extractado para o Sistema Integrado do Registo Predial (SIRP)."
+  },
+  "70763853": {
+   "fragment_id": "70765769",
+   "type": 11,
+   "heading": "Artigo 18.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Produção de efeitos\n\nA presente portaria produz efeitos desde o dia 24 de Julho de 2007."
+  },
+  "70763854": {
+   "fragment_id": "70765770",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70777795": {
+   "fragment_id": "70765751",
+   "type": 8,
+   "heading": "Secção III — Certidão online do registo predial",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "#### Secção III — Certidão online do registo predial\n\n> Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+  },
+  "70777796": {
+   "fragment_id": "70765752",
+   "type": 11,
+   "heading": "Artigo 4.º — Definição",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Definição\n\nDesigna-se por certidão online a disponibilização, em suporte electrónico e permanentemente actualizada, em sítio da Internet, da reprodução dos registos em vigor e da menção das apresentações de registo pendentes, respeitantes a prédio descrito no registo predial, que constitui prova do registo perante a entidade requerente.\n\n> Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+  },
+  "70777797": {
+   "fragment_id": "70765753",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Pedido\n\n1 - O pedido de certidão online é efectuado com referência a cada prédio, mediante indicação da freguesia e do concelho e de um dos seguintes elementos:\n\na) Número da descrição;\n\nb) Artigo matricial;\n\nc) Situação do prédio com referência ao lugar, rua e números de polícia ou confrontações.\n\n2 - O pedido de certidão online pode ser efectuado através do sítio na Internet com o endereço www.casapronta.mj.pt.\n\n> Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+  },
+  "70777798": {
+   "fragment_id": "70765754",
+   "type": 11,
+   "heading": "Artigo 6.º — Código de acesso",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Código de acesso\n\nApós a solicitação do serviço, é disponibilizado ao requerente um código que permite a visualização da certidão online no sítio da Internet referido no n.º 2 do artigo anterior.\n\n> Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+  },
+  "70777799": {
+   "fragment_id": "70765755",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazo de duração",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Prazo de duração\n\nA certidão online está disponível pelo prazo de um ano.\n\n> Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+  },
+  "70777800": {
+   "fragment_id": "70765756",
+   "type": 11,
+   "heading": "Artigo 8.º — Taxa",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Taxa\n\nPor cada certidão online é devida a taxa de (euro) 30, que constitui receita do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)\n\n> Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+  },
+  "70777801": {
+   "fragment_id": "70765757",
+   "type": 11,
+   "heading": "Artigo 9.º — Adesão ao serviço certidão online",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Adesão ao serviço certidão online\n\nDurante o período experimental, o serviço certidão online está disponível para as instituições de crédito ou sociedades financeiras que solicitem a adesão ao serviço.\n\n> Revogado pelo/a Artigo 28.º do/a [Portaria n.º 1535/2008 - Diário da República n.º 251/2008, Série I de 2008-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), em vigor a partir de 2009-01-01"
+  },
+  "70763855": {
+   "fragment_id": "70765774",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 18 de Julho de 2007."
+  },
+  "70777802": {
+   "fragment_id": "70765760",
+   "type": 11,
+   "heading": "Artigo 11.º — Antecipação de pagamento",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Antecipação de pagamento\n\n1 - Pela utilização do serviço previsto no artigo anterior é devida a quantia de (euro) 15, que constitui integralmente receita do IRN, I. P.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 12.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "70777806": {
+   "fragment_id": "70765760",
+   "type": 11,
+   "heading": "Artigo 11.º — Antecipação de pagamento",
+   "in_force_from": "2015-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/358-2015-70686128), em vigor a partir de 2015-11-01",
+    "Alterado pelo/a Artigo 12.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Antecipação de pagamento\n\n1 - Pela utilização do serviço previsto no artigo anterior é devida a quantia de (euro) 15.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/358-2015-70686128), em vigor a partir de 2015-11-01\n\n> Alterado pelo/a Artigo 12.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  }
+ }
+}

@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:150901:por
+title: Portaria n.º 51/92
+short_title: null
+summary: Aprova o novo mapa do pessoal assalariado da Embaixada de Portugal no Cairo com efeitos a partir de 1 de Janeiro
+  de 1992
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 51/92
+official_date: null
+publication_date: '1992-01-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 25/1992, Série I-B de 1992-01-30
+  number: '25'
+  series: I
+  supplement: null
+  pages: 658 - 658
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/01/025b00/06580658.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/51/1992/01/30/p/dre/pt/html
+  oj: null
+  dre: '150901'
+  dre_path: /dr/detalhe/portaria/51-1992-150901
+  internal: pt:dre:150901:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-1992-150901
+  metadata_url: https://data.dre.pt/eli/port/51/1992/01/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-1992-150901
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:21:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 014cef01cba4a743d22da823a2b267fd7206bf27d7c16b24aa6669a65bee3349
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:21:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Egipto
+- Embaixada
+- Pessoal Assalariado
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:690465:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:21:55Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 51/92
+
+de 30 de Janeiro
+
+Manda o Governo, pelo Ministro dos Negócios Estrangeiros, nos termos do § 1.º do artigo 158.º do Regulamento do Ministério dos Negócios Estrangeiros, com a nova redacção dada pelo [Decreto n.º 433/72](https://diariodarepublica.pt/dr/detalhe/decreto/433-1972-690465), de 3 de Novembro, que o mapa do pessoal assalariado da Embaixada de Portugal no Cairo seja aumentado de uma unidade de auxiliar de serviço com efeitos a partir de 1 de Janeiro de 1992.
+
+Ministério dos Negócios Estrangeiros.
+
+Assinada em 30 de Outubro de 1991.
+
+Pelo Ministro dos Negócios Estrangeiros, Duarte Ivo Cruz, Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.

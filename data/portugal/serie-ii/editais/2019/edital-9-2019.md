@@ -1,0 +1,287 @@
+---
+schema_version: '1.0'
+id: pt:dre:117575052:por
+title: Edital n.º 9/2019
+short_title: null
+summary: Concurso internacional para ocupação de um posto de trabalho da carreira docente universitária, na categoria de Professor
+  Auxiliar, em regime de contrato de trabalho em funções públicas por tempo indeterminado, para a Faculdade de Farmácia da
+  Universidade de Coimbra, P053-18-7134
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Universidade de Coimbra
+proposing_entity: null
+official_number: 9/2019
+official_date: null
+publication_date: '2019-01-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 2/2019, Série II de 2019-01-03
+  number: '2'
+  series: II
+  supplement: null
+  pages: 199 - 201
+  pdf_url: https://files.diariodarepublica.pt/2s/2019/01/002000000/0019900201.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '117575052'
+  dre_path: /dr/detalhe/edital/9-2019-117575052
+  internal: pt:dre:117575052:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/9-2019-117575052
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/9-2019-117575052
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:07:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 09c94063eae6f00aa63197c3bf4b1bf984aef3b22dd1de2add78909557bf1392
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-26T12:07:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:452538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73981925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216371:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:07:47Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 9/2019
+
+Torna-se público que, por meu despacho exarado a 17/12/2018, se encontra aberto, pelo prazo de 30 dias úteis a contar do dia útil imediato ao da publicação do presente Edital no Diário da República, concurso internacional para ocupação de um posto de trabalho da carreira docente universitária, na categoria de Professor Auxiliar, em regime de contrato de trabalho em funções públicas por tempo indeterminado, para a área disciplinar de Ciências Farmacêuticas, especialidade de Bioquímica/Biologia Celular e Molecular, da Faculdade de Farmácia da Universidade de Coimbra, aberto no âmbito do Estatuto da Carreira Docente Universitária (ECDU), na sua redação atual e do Regulamento de Recrutamento e Contratação de Pessoal Docente da Universidade de Coimbra (RRCPDUC), [Regulamento n.º 330/2016](https://diariodarepublica.pt/dr/detalhe/regulamento/330-2016-73981925), de 29 de março, e demais legislação aplicável.
+
+I - Referência e local de trabalho:
+
+I.1 - Referência do concurso: P053-18-7134.
+
+I.2 - Local de trabalho: Universidade de Coimbra, Faculdade de Farmácia.
+
+II - Requisitos de Admissão:
+
+II.1 - Ter, à data do termo do prazo para apresentação de candidaturas, 18 anos de idade ou mais; não estar inibido para o exercício de funções públicas ou interdito para exercício das funções públicas que se propõe desempenhar; possuir robustez física e perfil psíquico indispensáveis ao exercício das funções e ter cumpridas as leis de vacinação obrigatória.
+
+II.2 - Ser, à data do termo do prazo para apresentação de candidaturas, titular do grau de doutor, válido em Portugal, na área ou em alguma das áreas disciplinares para as quais é aberto o concurso, ou em área conexa que, complementada com o percurso científico, mostre capacidade para trabalhar com centralidade em alguma das áreas disciplinares para as quais é aberto o concurso.
+
+II.3 - Caso não seja falante nativo da língua portuguesa ou inglesa, ser detentor das competências linguísticas ao nível C1 do Quadro Europeu Comum de Referência para as Línguas (QECR) em, pelo menos, uma das duas línguas.
+
+III - Formalização de candidaturas
+
+III.1 - Instrução da candidatura: cada candidato deve, sob pena de exclusão, entregar um exemplar em suporte de papel e um exemplar em suporte digital, exclusivamente no formato portable document format (pdf), os documentos listados a seguir, com exceção dos mencionados nos pontos III.1.5 a III.1.7., que devem ser entregues apenas em formato digital. Nos casos em que o candidato justifique a inviabilidade da entrega em papel ou em suporte digital, deverão ser entregues (8) oito) exemplares no formato físico mais adequado, salvo se essa duplicação for inviável, caso em que o número de exemplares, justificadamente, poderá ser inferior. Caso algum dos trabalhos mencionados no Curriculum Vitae contenha documento classificado, que revele segredo comercial ou industrial, ou segredo relativo à propriedade literária, artística ou científica, deverá o candidato, aquando da formalização da candidatura, indicar expressamente tal reserva, sob pena de o trabalho em causa ser livremente acedido por qualquer um dos demais candidatos, em sede de consulta de processo.
+
+III.1.1 - Requerimento de admissão ao concurso, no qual deve obrigatoriamente:
+
+a) Identificar o posto de trabalho (carreira, categoria e área ou áreas disciplinares) a que se candidata, mencionando a referência deste concurso indicada no ponto I.1 do Edital;
+
+b) Indicar o seu nome completo e morada;
+
+c) Indicar o seu endereço de correio eletrónico e telefone de contacto para notificações e eventuais comunicações do procedimento, em complemento à notificação por Edital;
+
+d) Declarar, sob compromisso de honra, que reúne os requisitos para a constituição de vínculo de emprego público enunciados no ponto II.1;
+
+e) Se residir a mais de 500 km de Coimbra, e caso o pretenda, requerer a possibilidade de a sua Audição Pública, a existir, ocorrer por teleconferência;
+
+f) Se não for nativo da língua portuguesa ou inglesa, declarar sob compromisso de honra que é detentor das competências linguísticas exigidas no ponto II.3;
+
+g) Declarar, sob compromisso de honra, de que é autêntica toda a informação e documentação incluída na candidatura, sem prejuízo da efetiva comprovação, sempre que solicitada.
+
+III.1.2 - Curriculum Vitae, devidamente datado e assinado.
+
+O Curriculum Vitae deve conter um preâmbulo do qual conste, se existir, o histórico de todas as relações contratuais do candidato até à data da candidatura em instituições do ensino superior, e respetivos períodos, identificando a categoria detida, a natureza do vínculo, a área disciplinar e a instituição de ensino superior onde exerce ou exerceu funções, explicitando, com exatidão, o vínculo laboral detido à data da candidatura. Deve ainda incluir uma sinopse fundamentada, que demonstre que o candidato possui especialidade adequada à área ou áreas disciplinares para as quais é aberto o concurso.
+
+O candidato deve ainda organizar o seu Curriculum Vitae de forma a responder separadamente a cada um dos critérios e subcritérios enunciados no ponto e subpontos do ponto IV.2., bem como, sob pena de exclusão, identificar e fundamentar, de entre os trabalhos por si produzidos, quais os 3 a 6 que considera melhor representarem as suas mais significativas contribuições para o avanço do conhecimento na área ou áreas para as quais é aberto o concurso.
+
+III.1.3 - Plano de desenvolvimento de carreira, relativo às linhas de investigação na área ou áreas disciplinares para as quais é aberto o concurso a que o candidato propõe dedicar-se na UC, obedecendo aos seguintes requisitos: Apresentação dos principais problemas aos quais pretende dedicar a sua investigação futura, contextualizando-os no atual estado da arte nessas áreas; Descrição, sistematizada e sucinta, das estratégias de investigação que o candidato se propõe adotar, para desenvolver a sua investigação e resolver ou contribuir para a resolução dos problemas por si enunciados; Explicitação das razões e motivações das suas escolhas.
+
+III.1.4 - Cópia dos certificados de habilitações. Os opositores ao concurso que sejam detentores do grau de doutor obtido no estrangeiro devem comprovar o respetivo reconhecimento ou a respetiva equivalência nos termos do [Decreto-Lei n.º 283/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1983-452538) de 21 de junho ou o respetivo registo nos termos do [Decreto-Lei n.º 341/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), de 12 de outubro, sob pena de exclusão. Os opositores ao concurso que se encontrem a exercer funções em regime de contrato de trabalho em funções públicas na Universidade de Coimbra estão dispensados da respetiva entrega, devendo solicitar a dispensa em virtude de tais documentos se encontrarem no seu processo individual.
+
+III.1.5 - Cópia autonomizada dos 3 a 6 trabalhos que o candidato considera melhor representarem as suas mais significativas contribuições para o avanço do conhecimento na área ou áreas para as quais é aberto o concurso.
+
+III.1.6 - Cópia de todos os demais trabalhos mencionados no Curriculum Vitae.
+
+III.1.7 - Quaisquer outros elementos que o candidato considere relevantes.
+
+III.2 - Todos os documentos de candidatura indicados no ponto III.1 devem ser apresentados em língua portuguesa ou inglesa, com exceção dos indicados em III.1.6 e III.1.7. que poderão ser entregues noutra língua, se deles não existir versão em português ou inglês. Sempre que os originais dos documentos referidos em III.1.4. e III.1.5. estejam produzidos em língua diferente, deve ser entregue documento de tradução para a língua portuguesa ou inglesa. Excetuam-se os diplomas, que podem estar escritos em latim, não sendo necessária tradução.
+
+III.3 - Entrega da candidatura: Pessoalmente no Serviço de Gestão de Recursos Humanos da Administração da Universidade de Coimbra, durante o respetivo horário de funcionamento disponível em http://www.uc.pt/drh/contactos, ou por correio registado a remeter para a Administração da Universidade de Coimbra - Serviço de Gestão de Recursos Humanos, Edifício da Faculdade de Medicina, Rua Larga, 3004-504 Coimbra, Portugal, identificando no sobrescrito da candidatura a referência do concurso constante no ponto I.1 do presente edital.
+
+III.4 - Não serão admitidas candidaturas que não estejam devidamente instruídas ou não preencham os critérios formais de admissão ao concurso, nos termos definidos na legislação vigente e no presente Edital. A apresentação dos documentos ou trabalhos exigidos fora do prazo estipulado determina igualmente a não admissão ao concurso.
+
+IV - Métodos e critérios de seleção:
+
+IV.1 - Métodos de seleção: Avaliação Curricular (50 %) + Audição Pública (50 %) + Aprovação em Mérito Absoluto (eliminatório), seguidos da ordenação final dos candidatos.
+
+IV.1.1 - Caso, por decisão excecional do júri, a tomar na sua primeira reunião, este decida pela não aplicação do método de seleção Audição Pública, a Avaliação Curricular terá uma ponderação de 100 %, seguida da Aprovação em Mérito Absoluto (eliminatório), sendo então os candidatos sujeitos à ordenação final.
+
+IV.2 - Critérios de seleção, comuns à Avaliação Curricular e à Audição Pública: desempenho científico e capacidade pedagógica dos candidatos, bem como outras atividades relevantes para a missão de uma universidade global, de acordo com a ponderação e parâmetros a seguir enunciados.
+
+IV.2.1 - Desempenho científico do candidato na área ou áreas para as quais é aberto o concurso, com uma ponderação de 80 %, considerando os seguintes parâmetros de avaliação:
+
+IV.2.1.1 - Produção científica: será considerada a relevância dos resultados obtidos pelos candidatos, com grande ênfase nos trabalhos indicados pelos candidatos como as suas mais significativas contribuições para o avanço do conhecimento na área ou áreas para as quais é aberto o concurso;
+
+IV.2.1.2 - Impacto e reconhecimento nacional e internacional da produção científica: será considerado o reconhecimento pela comunidade científica dos resultados obtidos pelos candidatos na área ou áreas para as quais é aberto o concurso;
+
+IV.2.1.3 - Perspetivas científicas futuras: será avaliada a capacidade de os candidatos terem no futuro uma produção científica muito relevante na Universidade de Coimbra, designadamente tendo em conta os planos de desenvolvimento de carreira apresentados;
+
+IV.2.1.4 - Coordenação e participação em projetos científicos: será considerada a experiência prévia evidenciada pelos candidatos e o seu potencial para coordenar e integrar construtiva e proficuamente projetos financiados de índole nacional e internacional, na área ou áreas para as quais é aberto o concurso;
+
+IV.2.1.5 - Intervenção na comunidade, quer universitária, quer exterior à universidade: será considerada a intervenção dos candidatos na comunidade, nomeadamente em tarefas organizativas e de gestão relacionadas com a atividade científica, bem como na transmissão de conhecimento para a sociedade e na participação em tarefas de avaliação, e em geral todas as atividades dos candidatos que demonstrem ser detentores das competências para desenvolver, com elevada qualidade, as atividades necessárias a uma universidade global que seja cientificamente muito produtiva e relevante.
+
+IV.2.2 - Capacidade pedagógica dos candidatos, com uma ponderação de 20 %, considerando os seguintes parâmetros de avaliação:
+
+IV.2.2.1 - Atividade letiva: sempre que exista, será avaliada a atividade letiva prévia do candidato, incluindo atividades de suporte à atividade letiva, bem como as evidências das competências detidas para o desenvolvimento futuro dessa atividade. Essa avaliação deverá ter em conta os mecanismos de avaliação pedagógica disponíveis, nomeadamente inquéritos pedagógicos, cujos resultados os candidatos têm obrigação de incluir no seu Curriculum Vitae, e outros indicadores de relevância, como prémios ou outras distinções.
+
+IV.2.2.2 - Atividade de orientação e de acompanhamento: será avaliada a atividade de orientação, de tutoria e de acompanhamento de estudantes levadas a cabo pelo candidato.
+
+IV.2.2.3 - Material Pedagógico produzido: será avaliada a qualidade e a quantidade do material pedagógico produzido pelo candidato, bem como a relevância e impacto de publicações de índole pedagógica, prémios ou outras distinções.
+
+IV.2.2.4 - Intervenção na comunidade, quer universitária, quer exterior à universidade: será considerada a intervenção dos candidatos na comunidade, nomeadamente em tarefas organizativas e de gestão relacionadas com atividade pedagógica e divulgação de conhecimento, e em geral todas as atividades dos candidatos que demonstrem ser detentores das competências para desempenhar com qualidade as tarefas necessárias a uma universidade global pedagogicamente muito eficaz.
+
+IV.2.3 - O desenvolvimento, pelos candidatos, de outras atividades relevantes para a missão de uma universidade global pode, justificadamente, reforçar a avaliação dos parâmetros previstos nos pontos IV.2.1. e IV.2.2., quando seja de dimensão que influencie o desempenho dos candidatos nesses fatores e o resultado destas atividades tenha qualidade que justifique esse reforço.
+
+IV.3 - Cada elemento do júri atribui a cada candidato admitido, em cada um dos métodos de seleção Avaliação Curricular e Audição Pública, uma classificação em cada critério de seleção (desempenho científico, capacidade pedagógica). A classificação global que cada elemento do júri atribui a cada candidato admitido, em cada um dos métodos de seleção, é a média ponderada das classificações que lhe atribuiu em cada critério de seleção, sendo os pesos os indicados em IV.2.1 e IV.2.2. A classificação final que cada elemento do júri atribuiu a cada candidato é média simples da classificação global que atribuiu a esse candidato em cada um dos métodos de seleção Avaliação Curricular e Audição Pública.
+
+Os candidatos são então sujeitos à aprovação em Mérito Absoluto e posterior ordenação nos termos do ponto VI. do presente Edital. Caso não haja lugar a Audição Pública, a classificação final será a atribuída em sede de Avaliação Curricular, sendo depois os candidatos sujeitos à aprovação em Mérito Absoluto e posterior ordenação nos termos do ponto VI. do presente Edital.
+
+IV.4 - Todos os candidatos que reúnam os requisitos de admissão são sujeitos à Avaliação Curricular a realizar de acordo com os critérios e ponderações definidas em IV.2. No entanto, apenas serão ordenados em sede de Avaliação Curricular e admitidos à Audição Pública, se existir, os cinco (5) candidatos melhor posicionados na ordenação, a efetuar nos termos do ponto VI. do presente Edital.
+
+IV.5 - São aprovados em mérito absoluto os candidatos que possam contribuir para que a UC tenha uma atividade de nível global, nos termos previstos no artigo 19.º do RRCPDUC, tendo esta apreciação em conta os critérios de seleção e os parâmetros de avaliação indicados no ponto IV.2., não ponderados quantitativamente. Os candidatos que, à data do seu recrutamento, não dominem a língua portuguesa, deverão encetar de imediato o respetivo processo de aprendizagem, com vista a garantir a sua capacidade de lecionar em português, constituindo o domínio da língua portuguesa ao nível C1 do QECR requisito indispensável à sua posterior aprovação no período experimental.
+
+V - Processo de seleção
+
+V.1 - Reunião preparatória
+
+Na primeira reunião, que é sempre preparatória, o júri decide sobre a admissão das candidaturas e sobre a realização ou não de Audição Pública, fundamentando neste último caso a sua decisão nos termos do n.º 2 do artigo 27.º do RRCPDUC. Caso decida pela existência de Audição Pública, ainda na primeira reunião, o júri procede igualmente à Avaliação Curricular dos candidatos e à sua ordenação nos termos definidos no ponto seguinte. No caso de incumprimento, ou cumprimento parcial, de algum dos requisitos definidos no ponto III do edital, o júri decide se essa insuficiência impede a consideração da candidatura, ou se, não tendo impacto relevante no processo de avaliação, a candidatura pode mesmo assim ser admitida.
+
+V.1.1 - A Avaliação Curricular obedece aos critérios de seleção, ponderação e parâmetros de avaliação descritos no ponto IV.2. Na Avaliação Curricular apenas será tido em conta o mérito e consequentemente valorada a experiência prévia do candidato na área ou áreas disciplinares para as quais o concurso é aberto, de acordo com os métodos e critérios de seleção e os parâmetros de avaliação enunciados no presente Edital, abstendo-se o júri de apreciar ou valorar o mérito e experiência do candidato noutras áreas. A ordenação dos candidatos em sede de Avaliação Curricular obedece à metodologia definida no ponto VI, até que se atinja o número de candidatos previsto no ponto IV.4. do presente Edital, considerando-se todos os demais candidatos excluídos.
+
+V.1.2 - A notificação dos candidatos excluídos e dos candidatos admitidos à Audição Pública é feita por Edital, nos termos previstos no ponto VII do presente Edital.
+
+V.2 - Reunião de avaliação e ordenação final dos candidatos
+
+V.2.1 - Na segunda reunião, o júri procede à aplicação dos critérios de seleção, ordena os candidatos e elabora o projeto de decisão final.
+
+Caso tenha decidido pela realização da Audição Pública, o júri procede então à Audição dos candidatos, avaliando-os nos termos dos critérios de seleção e dos parâmetros de avaliação descritos no ponto IV.2, sendo apenas tido em conta o mérito e consequentemente valorada a experiência prévia do candidato na área ou áreas disciplinares para as quais o concurso é aberto. A Audição Pública de cada candidato tem a duração máxima de uma hora, podendo, por decisão do Presidente do Júri, ser prolongada por mais meia hora. Compete ao Presidente do Júri conduzir a audição, sem prejuízo de, por decisão sua, poder haver intervenção dos demais elementos do júri na interação com o candidato. A Audição decorre em língua portuguesa, exceto se o candidato ou algum elemento do júri não a dominar, caso em que o Presidente do Júri pode decidir pelo uso da língua inglesa. A não comparência à Audição Pública na hora e local previamente marcados é motivo de exclusão do concurso. Os candidatos a quem tenha sido deferida a realização da audição por teleconferência e que na hora agendada não se encontrem disponíveis para o efeito por qualquer razão, consideram-se igualmente excluídos por não comparência.
+
+Caso o júri tenha decidido pela não realização da Audição Pública, procede então à Avaliação Curricular dos candidatos. A Avaliação Curricular obedece aos critérios de seleção, ponderação e parâmetros de avaliação descritos no ponto IV.2. Na avaliação curricular apenas será tido em conta o mérito e consequentemente valorada a experiência prévia do candidato na área ou áreas disciplinares para as quais o concurso é aberto, de acordo com os métodos e critérios de seleção e os parâmetros de avaliação enunciados no presente Edital, abstendo-se o júri de apreciar ou valorar o mérito e experiência do candidato noutras áreas. A ordenação dos candidatos em sede de Avaliação Curricular obedece à metodologia definida no ponto VI.
+
+V.2.2 - Em face da classificação final dos candidatos atribuída por cada elemento do júri, obtida nos termos do ponto IV.3. do presente Edital, o júri procede à apreciação do mérito absoluto dos candidatos admitidos a esta fase do processo de seleção.
+
+V.2.3 - São aprovados em mérito absoluto os candidatos que, fundamentadamente, a maioria dos membros do júri presentes na reunião considere atingirem o nível estabelecido no ponto IV.5., devendo, na votação, cada elemento do júri respeitar a ordenação prévia que estabeleceu na avaliação e ordenação individual de cada candidato.
+
+V.2.4 - Por fim, o júri procede à ordenação dos candidatos aprovados em mérito absoluto com recurso à metodologia definida no ponto VI e elabora o projeto de decisão final.
+
+V.2.5 - O concurso ficará deserto, nos casos em que o júri entenda que nenhum dos candidatos atinge o nível estabelecido no Edital.
+
+V.2.6 - A notificação do projeto de decisão final aos candidatos, que contém a lista com a proposta de ordenação dos candidatos selecionados, bem como a lista dos candidatos excluídos, é efetuada na data prevista para o efeito no calendário do procedimento, nos termos previstos no ponto VII. do presente Edital. Os candidatos podem, querendo, pronunciar-se em sede de audiência dos interessados sobre o projeto de decisão final, nos termos previstos no artigo 121.º do Código do Procedimento Administrativo (CPA). A contagem do prazo inicia-se na data da afixação e publicação do edital, nos termos previstos no n.º 8 do artigo 113.º do CPA.
+
+V.3 - Caso algum candidato exerça o seu direito de pronúncia em sede de audiência de interessados, o júri realiza uma terceira reunião onde apreciará as alegações apresentadas, sendo as deliberações do júri notificadas aos candidatos nos termos do ponto VII do presente Edital.
+
+V.3.1 - Caso o júri entenda que as alegações são procedentes, procederá em conformidade com as deliberações por si tomadas, disso notificando os candidatos nos termos do ponto VII.3.
+
+V.3.2 - Caso o júri entenda que as alegações são improcedentes, depois da notificação aos candidatos nos termos do ponto V.3., submeterá o processo a homologação Reitoral.
+
+V.4 - Todos os candidatos serão notificados da decisão de homologação nos termos previstos no ponto VII do presente Edital, podendo o processo de concurso ser consultado pelos candidatos, mediante prévio agendamento, no local referido no ponto III.3. do presente Edital, durante o respetivo horário de funcionamento (informação disponível em: http://www.uc.pt/drh/contactos).
+
+VI - Ordenação e metodologia de votação:
+
+VI.1 - Quando o debate sobre os vários candidatos em presença tiver permitido que todos os membros do júri estabilizem uma seriação dos candidatos, cada um deles apresenta, num documento escrito, que será anexado à ata, a sua proposta de ordenação dos candidatos, devidamente fundamentada nos métodos e critérios de seleção e parâmetros de avaliação enunciados no presente Edital. Nas várias votações cada membro do júri deve respeitar a ordenação que apresentou.
+
+VI.2 - A primeira votação destina-se a determinar o candidato a colocar em primeiro lugar. No caso de um candidato obter mais de metade dos votos, fica colocado em primeiro lugar. Se tal não acontecer, são retirados todos os candidatos que tiveram zero votos e é também eliminado o candidato menos votado na primeira votação que tenha obtido, pelo menos, um voto. No caso de haver mais do que um candidato na posição de menos votado com pelo menos um voto, faz-se uma votação apenas sobre esses que ficaram empatados em último, para decidir qual eliminar. Para esta votação os membros do júri votam no candidato que está mais baixo na sua seriação, o candidato com mais votos é eliminado. Se nesta votação persistir empate entre dois ou mais candidatos, o Presidente do Júri decide qual o candidato a eliminar, de entre eles.
+
+Depois desta eliminação volta-se à primeira votação, mas apenas com os candidatos restantes. O processo repete-se até que um candidato obtenha mais de metade dos votos, ficando este colocado em primeiro lugar.
+
+VI.3 - Retirado da votação o candidato selecionado em primeiro lugar, repete-se todo o processo para o segundo lugar, e assim sucessivamente, até se obter uma lista ordenada com o número de candidatos aprovados nos métodos de seleção.
+
+VI.4 - Nas votações do júri não são permitidas abstenções.
+
+VII - Calendário do concurso e Notificação dos candidatos
+
+VII.1 - O calendário do concurso é publicado no sítio institucional da UC, em http://www.uc.pt/drh/rm/pconcursais/pessoal_docente/A_decorrer/ff/P053-18-7134 até ao termo do prazo para apresentação das candidaturas. As notificações por edital, cujas datas de afixação constarão obrigatoriamente do calendário do concurso, são: a lista dos candidatos admitidos e excluídos; caso haja lugar a Audição Pública, a hora, local e a identificação dos candidatos admitidos a este método de seleção, bem como, de entre estes, a identificação dos candidatos aos quais o Presidente do Júri tenha deferido a prestação da prova por teleconferência; o projeto de decisão final do concurso; as decisões relativas a eventuais alegações dos candidatos; o resultado final do concurso, após homologação. A Audição Pública, a realizar-se, terá lugar na data 21/05/2019.
+
+VII.2 - Se, em qualquer fase do concurso, alguma das datas das notificações a efetuar por Edital não puder ser cumprida, o calendário do concurso será atualizado e republicado nessa mesma data e local, passando as novas datas publicadas a considerar-se as datas efetivas do calendário do concurso. Caso a data da Audição Pública inscrita no ponto anterior não puder ser cumprida, a nova data será divulgada no edital que confirme que ela se realiza e que indique a lista dos candidatos admitidos e não admitidos à audição pública.
+
+VII.3 - As notificações por edital previstas no ponto VII.1 são feitas por publicação no sítio institucional da UC, em http://www.uc.pt/drh/rm/pconcursais/pessoal_docente/A_decorrer/ff/P053-18-7134, nos termos da alínea d) do n.º 1 do artigo 112.º do CPA e do artigo 63.º do RRCPDUC, produzindo os seus efeitos nos termos do artigo 113.º do CPA.
+
+VII.4 - O processo integral do concurso pode ser consultado pelos candidatos, mediante prévio agendamento, no local referido no ponto III.3. do presente Edital, durante o respetivo horário de funcionamento (informação disponível em: http://www.uc.pt/drh/contactos).
+
+VIII - Júri do concurso:
+
+Presidente: Luís Filipe Menezes, Professor Catedrático e Vice-Reitor da Universidade de Coimbra;
+
+Vogais:
+
+Doutor António Muro Alvarez, Professor Catedrático da Universidade de Salamanca;
+
+Doutora Maria de Lurdes Pinho de Almeida Souteiro Bastos, Professora Catedrática da Faculdade de Farmácia da Universidade do Porto;
+
+Doutora Dora Maria Tuna de Oliveira Brites, Investigadora Coordenadora com Agregação e Professora Catedrática Convidada da Faculdade de Farmácia da Universidade do Porto;
+
+Doutora Cecília Maria Pereira Rodrigues, Professora Catedrática da Faculdade de Farmácia da Universidade do Porto;
+
+Doutor Francisco José de Baptista Veiga, Professor Catedrático da Faculdade de Farmácia da Universidade de Coimbra;
+
+Doutor João António Nave Laranjinha, Professor Catedrático da Faculdade de Farmácia da Universidade de Coimbra.
+
+Nas suas faltas e impedimentos, o Presidente do Júri será substituído pelo Doutor Francisco José de Baptista Veiga, Professor Catedrático da Faculdade de Farmácia da Universidade de Coimbra que, em igual caso de impedimento, será substituído pelo Vogal Doutor João António Nave Laranjinha, Professor Catedrático da Faculdade de Farmácia da Universidade de Coimbra.
+
+Para constar se lavrou o presente Edital, que vai ser publicado na 2.ª série do Diário da República, na Bolsa de Emprego Público (BEP), e em língua portuguesa e inglesa no sítio da Internet da Universidade de Coimbra, em http://www.uc.pt/emprego, e no pan-European Researcher's Mobility Portal, em http://www.eracareers.pt/.
+
+«Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove ativamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação.»
+
+Ao presente concurso devem ser opositores os investigadores doutorados que exerçam, ou tenham exercido, funções na universidade de Coimbra na área científica posta a concurso e se encontrem abrangidos pelo regime transitório previsto no [Decreto-Lei n.º 57/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2016-75216371), de 29 de agosto de 2016, na sua redação atual, e regulamentação conexa.
+
+17 de dezembro de 2018. - O Reitor, Prof. Doutor João Gabriel Silva.
+
+311926151

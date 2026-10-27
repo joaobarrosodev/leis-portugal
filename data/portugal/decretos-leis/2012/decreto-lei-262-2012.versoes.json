@@ -1,0 +1,728 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:189947:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-114074487",
+ "dre_path": "/dr/detalhe/decreto-lei/262-2012-189947",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-12-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114076489",
+    "114076490",
+    "114076491",
+    "114076492",
+    "114076493",
+    "114076494",
+    "114076495",
+    "114076496",
+    "114076497",
+    "114076498",
+    "114076499",
+    "114076500",
+    "114076501",
+    "114076502",
+    "114076503",
+    "114076504",
+    "114076505",
+    "114076506",
+    "114076507",
+    "114076508",
+    "114076509",
+    "114076510",
+    "114076511",
+    "114076512",
+    "114076513",
+    "114076514",
+    "114076515",
+    "114076516",
+    "114076517",
+    "114076518",
+    "114076519",
+    "114076520",
+    "114076521",
+    "114076522",
+    "114076523",
+    "114076524",
+    "114076525",
+    "114076526",
+    "114076527",
+    "114076528",
+    "114076529",
+    "114076530",
+    "114076531",
+    "114076532",
+    "114076533",
+    "114076534",
+    "114076535",
+    "114076536",
+    "114076537"
+   ]
+  },
+  {
+   "date": "2017-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108355494:por",
+     "title": "Decreto-Lei n.º 135/2017",
+     "published": "2017-10-20",
+     "dre_path": "/dr/detalhe/decreto-lei/135-2017-108355494"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 40.º"
+   ],
+   "fragments": [
+    "114076489",
+    "114076490",
+    "114076491",
+    "114076541",
+    "114076542",
+    "114076494",
+    "114076543",
+    "114076496",
+    "114076497",
+    "114076498",
+    "114076499",
+    "114076544",
+    "114076545",
+    "114076502",
+    "114076503",
+    "114076546",
+    "114076539",
+    "114076540",
+    "114076505",
+    "114076547",
+    "114076548",
+    "114076508",
+    "114076509",
+    "114076510",
+    "114076511",
+    "114076512",
+    "114076513",
+    "114076549",
+    "114076550",
+    "114076551",
+    "114076517",
+    "114076518",
+    "114076552",
+    "114076520",
+    "114076521",
+    "114076522",
+    "114076553",
+    "114076524",
+    "114076525",
+    "114076526",
+    "114076527",
+    "114076554",
+    "114076555",
+    "114076530",
+    "114076531",
+    "114076532",
+    "114076533",
+    "114076534",
+    "114076556",
+    "114076536",
+    "114076537",
+    "114076538"
+   ]
+  }
+ ],
+ "fragments": {
+  "114076489": {
+   "fragment_id": "114074488",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 262/2012\n\nde 17 de dezembro\n\nA Diretiva n.º <a href=\"eurlex.asp?ano=2009&id=309L0071\" title=\"Link para Directiva da Comunidade Europeia\">2009/71/EURATOM</a>, do Conselho, de 25 de junho de 2009, estabelece um quadro comunitário para a segurança nuclear das instalações nucleares, tendo em vista a garantia de um nível elevado de segurança para a proteção dos trabalhadores e do público em geral dos perigos decorrentes das radiações ionizantes produzidas pelas referidas instalações.\n\nUm dos princípios basilares enunciados é o da responsabilidade principal dos detentores das licenças pela segurança das instalações ao seu cuidado, segundo uma lógica de avaliação e melhoria contínua da segurança e de colaboração com a autoridade reguladora, a instituir por todos os Estados-Membros. É dado particular realce às vertentes da formação dos trabalhadores envolvidos e da informação ao público dos riscos associados às instalações nucleares.\n\nA referida Diretiva foi transposta para a ordem jurídica nacional pelo Decreto-Lei n.º 30/2012, de 9 de fevereiro, que, no n.º 1 do seu artigo 12.º, estabelece o princípio da principal responsabilidade do titular da licença pela segurança da instalação nuclear, a qual não pode ser delegada nem transferida.\n\nPor outro lado, os n.os 2 e 4 do referido artigo determinam que sejam fixados em diploma próprio os requisitos para que os titulares das licenças analisem, verifiquem e melhorem continuamente a segurança nuclear das suas instalações, de forma sistemática e verificável, na medida do razoável e sob a supervisão da Comissão Reguladora para a Segurança das Instalações Nucleares (COMRSIN) e, bem assim, as condições para que os titulares das licenças instituam e ponham em prática sistemas de gestão da segurança, que estabeleçam como prioridade a segurança nuclear e que sejam periodicamente verificados pela referida autoridade reguladora.\n\nCom o presente diploma visa-se, assim, especificar as obrigações dos titulares de instalações nucleares, dando cumprimento ao estabelecido no artigo 18.º do Decreto-Lei n.º 30/2012, de 9 de fevereiro.\n\nO presente diploma foi elaborado com base em proposta da COMRSIN, a qual teve em consideração as melhores práticas internacionais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114076490": {
+   "fragment_id": "114074489",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "114076491": {
+   "fragment_id": "114074490",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma estabelece as obrigações dos titulares de licenças de instalações nucleares, por forma a que verifiquem e melhorem continuamente a segurança das mesmas, sob a supervisão da autoridade reguladora criada pelo Decreto-Lei n.º 30/2012, de 9 de fevereiro."
+  },
+  "114076492": {
+   "fragment_id": "114074491",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente diploma aplica-se a qualquer instalação nuclear civil em território continental e nas regiões autónomas, explorada ao abrigo de uma licença tal como definida nos termos da alínea b) do artigo 3.º do Decreto-Lei n.º 30/2012, de 9 de fevereiro."
+  },
+  "114076493": {
+   "fragment_id": "114074492",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Abordagem graduada», o processo ou método, aplicado ao sistema regulador ou sistema de segurança, proporcional, tanto quanto possível, à probabilidade de ocorrência de um evento, suas possíveis consequências, e ao nível de risco associado, em caso de perda de controlo;\n\nb) «Acidente», qualquer evento inesperado que envolva uma instalação nuclear, conforme definida nos termos da alínea a) do artigo 3.º do Decreto-Lei n.º 30/2012, de 9 de fevereiro, incluindo erros de operação, falhas de equipamento e outro tipo de falhas cujas consequências ou potenciais consequências não sejam negligenciáveis do ponto de vista da proteção e segurança;\n\nc) «Acondicionamento», o conjunto de componentes necessários ao enclausuramento completo dos conteúdos radioativos;\n\nd) «Comissionamento», o processo durante o qual os sistemas e componentes das instalações, após construídos, são testados, sendo verificada a conformidade com as suas especificações e critérios de desempenho previamente definidos;\n\ne) «Condições de operação», o conjunto de regras, aprovadas pela autoridade reguladora, que determinam os limites de operação, as gamas de funcionamento e os níveis de desempenho referentes a equipamento e pessoal, para a operação segura da instalação nuclear;\n\nf) «Defesa em profundidade», a distribuição hierarquizada de diferentes níveis de equipamento e procedimentos diversificados para evitar a progressão de ocorrências de funcionamento previsíveis e manter a eficácia das barreiras físicas existentes entre uma fonte de radiação ou materiais radioativos e os trabalhadores, o público em geral e o ambiente em diferentes condições de operação e, para algumas barreiras, em condições de acidente;\n\ng) «Eliminação», a colocação de resíduos num depósito ou determinado local, sem intenção de reaproveitamento, abrangendo inclusivamente a descarga direta autorizada de resíduos no ambiente e a sua subsequente dispersão;\n\nh) «Emergência», uma situação fora da rotina que necessita de resposta pronta, para primeiramente mitigar uma ocorrência acidental ou consequência adversa para a saúde e segurança humanas, qualidade de vida, bens materiais ou o ambiente. Incluem-se não só emergências nucleares e radiológicas como emergências convencionais como fogos, tempestades, tremores de terra e tsunamis. Inclui, igualmente, situações em que uma rápida resposta é necessária para mitigar os efeitos de uma ocorrência acidental;\n\ni) «Estruturas, sistemas e componentes», elementos da instalação ou atividade que contribuem para a proteção e a segurança destas, com exceção dos recursos humanos;\n\nj) «Evento», qualquer ocorrência não intencional por parte do operador, incluindo erro de operação, falha do equipamento ou outro tipo de falha e ação deliberada por parte de outros, cujas consequências ou potenciais consequências não são negligenciáveis do ponto de vista da proteção e segurança;\n\nk) «Manutenção», a atividade organizada, administrativa e tecnicamente, com vista a manter as estruturas, os sistemas e os componentes em bom estado de funcionamento, incluindo aspetos de ação preventiva e corretiva;\n\nl) «Operação normal», a operação que decorre dentro de limites e condições de operação especificados;\n\nm) «Operador», o titular de uma licença emitida pela autoridade reguladora;\n\nn) «Sistema de gestão», o conjunto de elementos e procedimentos administrativos e técnicos inter-relacionados, utilizados para estabelecer planos e objetivos que permitem a implementação eficiente e eficaz da segurança nuclear."
+  },
+  "114076494": {
+   "fragment_id": "114074493",
+   "type": 1,
+   "heading": "Capítulo II — Responsabilidade da segurança nuclear e obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Responsabilidade da segurança nuclear e obrigações gerais"
+  },
+  "114076495": {
+   "fragment_id": "114074494",
+   "type": 11,
+   "heading": "Artigo 4.º — Segurança nuclear da instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Segurança nuclear da instalação\n\n1 - Ao operador incumbe a responsabilidade pela instalação nuclear, desde a escolha do local até ao seu desmantelamento.\n\n2 - Ao operador incumbe a principal responsabilidade pela segurança da instalação, sob o controlo da autoridade reguladora, a qual não pode ser delegada nem transferida."
+  },
+  "114076496": {
+   "fragment_id": "114074495",
+   "type": 11,
+   "heading": "Artigo 5.º — Segurança nuclear do combustível e dos resíduos radioativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Segurança nuclear do combustível e dos resíduos radioativos\n\nO operador é responsável pela gestão segura do combustível e dos resíduos radioativos, incluindo os que se encontrem nas instalações de armazenagem e de eliminação."
+  },
+  "114076497": {
+   "fragment_id": "114074496",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo de documentos\n\nTodos os documentos produzidos pelo operador são registados e arquivados por este, por forma a permitir, sempre que solicitado, a sua consulta pela autoridade reguladora."
+  },
+  "114076498": {
+   "fragment_id": "114074497",
+   "type": 11,
+   "heading": "Artigo 7.º — Deveres de cooperação com a autoridade reguladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Deveres de cooperação com a autoridade reguladora\n\n1 - O operador faculta à autoridade reguladora todos os documentos que constituam elementos do sistema de gestão da segurança nuclear e todos os relatórios de segurança sempre que aquela proceda a uma inspeção periódica da instalação nuclear.\n\n2 - O operador faculta à autoridade reguladora o acesso às instalações para realizar as devidas avaliações e inspeções regulamentares, a qualquer momento, anunciadas ou não, desde que não coloquem em causa a segurança da instalação nuclear.\n\n3 - O operador fornece à autoridade reguladora qualquer outra informação que esta solicite.\n\n4 - O operador notifica a autoridade reguladora de quaisquer modificações relevantes e ou eventos para a segurança nuclear, nomeadamente os constantes do n.º 2 do artigo 15.º, do n.º 4 do artigo 17.º, do n.º 3 do artigo 19.º, dos n.os 3 e 4 do artigo 21.º, dos n.os 3 e 4 do artigo 22.º, do n.º 6 do artigo 25.º, dos n.os 5 e 6 do artigo 27.º, e dos n.os 6 e 7 do artigo 30.º."
+  },
+  "114076499": {
+   "fragment_id": "114074498",
+   "type": 11,
+   "heading": "Artigo 8.º — Notificações e prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Notificações e prazos\n\n1 - As notificações referidas no artigo anterior são efetuadas, por escrito, à autoridade reguladora no prazo de 10 dias úteis, contados da data do evento, com exceção das referentes a situações de emergência, estabelecidas nos n.os 6 e 7 do artigo 25.º, e n.º 6 do artigo 27.º, as quais são efetuadas de imediato pela forma de comunicação mais expedita e, posteriormente, confirmadas por escrito à autoridade reguladora.\n\n2 - Sempre que a autoridade reguladora solicite informações ou a entrega de documentos ao operador, este dispõe de 10 dias úteis para dar satisfação à solicitação em causa, salvo em situações de emergência em que deve fazê-lo de imediato.\n\n3 - Os prazos referidos nos números anteriores podem ser alargados pela autoridade reguladora em função da complexidade da informação solicitada ou a pedido do operador.\n\n4 - A autoridade reguladora dispõe de 30 dias úteis para emitir a decisão de aprovação prevista no n.º 2 do artigo 15.º, no n.º 4 do artigo 17.º, no n.º 1 do artigo 27.º, no n.º 3 do artigo 28.º, e no n.º 6 do artigo 30.º.\n\n5 - A autoridade reguladora dispõe de um prazo de seis meses para emitir a decisão de certificação prevista no n.º 1 do artigo 38.º."
+  },
+  "114076500": {
+   "fragment_id": "114074499",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação aos trabalhadores e ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação aos trabalhadores e ao público\n\n1 - O operador faculta aos trabalhadores e ao público em geral as informações relevantes relacionadas com o cumprimento da segurança nuclear, em conformidade com a legislação nacional e as obrigações internacionais, sem prejuízo da salvaguarda de outros interesses, designadamente em matéria de segurança.\n\n2 - O operador informa o público em geral sobre os possíveis riscos associados a radiações resultantes do funcionamento da instalação nuclear ou da condução de uma atividade, de acordo com uma abordagem graduada."
+  },
+  "114076501": {
+   "fragment_id": "114074500",
+   "type": 11,
+   "heading": "Artigo 10.º — Plano de emergência externo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Plano de emergência externo\n\n1 - O operador fornece à Autoridade Nacional de Proteção Civil ou aos serviços regionais de proteção civil das regiões autónomas dos Açores ou da Madeira, a informação necessária à elaboração do plano de emergência externo, da responsabilidade da entidade territorialmente competente do sistema de proteção civil, nos termos do artigo 50.º da Lei n.º 27/2006, de 3 de julho, alterada pela Lei Orgânica n.º 1/2011, de 30 de novembro.\n\n2 - A entidade responsável pela elaboração do plano de emergência externo analisa a informação prestada, podendo solicitar informação complementar ao operador no prazo de 60 dias.\n\n3 - O operador atualiza a informação referida no n.º 1, sempre que ocorram alterações na instalação quer sejam relevantes para o plano de emergência externo."
+  },
+  "114076502": {
+   "fragment_id": "114074501",
+   "type": 1,
+   "heading": "Capítulo III — Requisitos gerais de segurança nuclear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Requisitos gerais de segurança nuclear"
+  },
+  "114076503": {
+   "fragment_id": "114074502",
+   "type": 8,
+   "heading": "Secção I — Conceção da instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conceção da instalação\n\nArtigo11.º\n\nProjeto da instalação\n\nO projeto de uma instalação nuclear atende a potenciais consequências radiológicas para o público, os trabalhadores e o ambiente, por forma a que estas não excedam os limites de dose previstos no Decreto-Lei n.º 222/2008, de 17 de novembro, e se mantenham tão baixas quanto razoavelmente possível."
+  },
+  "114076504": {
+   "fragment_id": "114074503",
+   "type": 11,
+   "heading": "Artigo 12.º — Defesa em profundidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Defesa em profundidade\n\nA defesa em profundidade deve ser considerada e implementada por forma a prevenir ou, em caso de impossibilidade de prevenção, limitar libertações de radiações na instalação e fora desta."
+  },
+  "114076505": {
+   "fragment_id": "114074504",
+   "type": 8,
+   "heading": "Secção II — Gestão de segurança nuclear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Gestão de segurança nuclear"
+  },
+  "114076506": {
+   "fragment_id": "114074505",
+   "type": 11,
+   "heading": "Artigo 15.º — Política de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Política de segurança\n\n1 - O operador estabelece a política de segurança nuclear da instalação, a qual é aprovada pela autoridade reguladora aquando do licenciamento.\n\n2 - Quaisquer alterações à política de segurança nuclear da instalação são sempre submetidas à aprovação da autoridade reguladora, no prazo previsto no n.º 1 do artigo 8.º, sem prejuízo do disposto no n.º 3 do mesmo artigo.\n\n3 - A política de segurança atribui importância primordial à segurança nuclear das atividades na instalação, em todas as fases desde a escolha do local ao respetivo desmantelamento.\n\n4 - A política de segurança inclui a responsabilidade do operador pela melhoria contínua da segurança nuclear.\n\n5 - A política de segurança é comunicada a todo o pessoal que exerce atividade numa base regular ou pontual na instalação nuclear.\n\n6 - A política de segurança e respetiva implementação são avaliadas e revistas pelo operador, sempre que tal se justifique, ou por recomendação da autoridade reguladora."
+  },
+  "114076507": {
+   "fragment_id": "114074506",
+   "type": 11,
+   "heading": "Artigo 16.º — Gestão da segurança nuclear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Gestão da segurança nuclear\n\n1 - O operador garante que a instalação é operada de forma segura, cumprindo os requisitos legais e regulamentares e as condições fixadas na licença, sob a supervisão da autoridade reguladora.\n\n2 - O operador assegura que todo e qualquer tratamento ou armazenamento de combustível e de resíduos diretamente relacionados com o funcionamento da instalação contemplam o respetivo acondicionamento e eliminação.\n\n3 - Sempre que o operador tome decisões relativas à operação deve fazê-lo com base numa abordagem graduada.\n\n4 - Todas as decisões tomadas pelo operador em matéria de segurança nuclear são precedidas por uma análise realizada por pessoal, qualificado e experiente, que garanta a verificação dos aspetos relevantes em matéria de segurança nuclear e radiológica.\n\n5 - As avaliações de segurança realizadas nos termos do número anterior são documentadas e registadas pelo operador.\n\n6 - O operador é responsável pela criação e pelo fornecimento de todos os meios e condições de trabalho necessários à execução das tarefas de forma segura.\n\n7 - O operador estabelece um sistema de monitorização adequado para garantir o cumprimento das regras de segurança em vigor e melhorar continuamente a segurança nuclear.\n\n8 - O operador estabelece, em particular, programas destinados a recolher e a analisar os dados relativos à experiência de funcionamento das instalações nucleares, a nível nacional e internacional, com vista a sistematizar os resultados obtidos e a retirar proveito da experiência adquirida.\n\n9 - O operador estabelece programas de investigação e desenvolvimento e de cooperação e partilha com organismos operacionais e reguladores, nacionais e internacionais, com o objectivo da melhoria contínua da segurança nuclear.\n\n10 - O operador toma em consideração as recomendações da Agência Internacional de Energia Atómica para a operação segura da instalação nuclear."
+  },
+  "114076508": {
+   "fragment_id": "114074507",
+   "type": 11,
+   "heading": "Artigo 17.º — Sistema de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Sistema de gestão\n\n1 - O operador estabelece e implementa um sistema de gestão que dê prioridade à segurança nuclear, o qual é aprovado pela autoridade reguladora aquando do licenciamento.\n\n2 - O sistema de gestão abrange todas as disposições relativas à organização, responsabilidades, recursos, processos e garantia de qualidade na exploração segura da instalação nuclear.\n\n3 - O sistema de gestão abrange ainda todas as disposições relativas à prevenção de eventos e minoração das suas consequências, que resultem na proteção dos trabalhadores e da população em geral dos perigos decorrentes das radiações ionizantes produzidas.\n\n4 - As alterações às disposições abrangidas pelo sistema de gestão previstas nos n.os 2 e 3 são sempre submetidas à aprovação da autoridade reguladora, no prazo previsto no n.º 1 do artigo 8.º, sem prejuízo do disposto no n.º 3 do mesmo artigo."
+  },
+  "114076509": {
+   "fragment_id": "114074508",
+   "type": 11,
+   "heading": "Artigo 18.º — Elementos do sistema de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Elementos do sistema de gestão\n\n1 - De acordo com uma abordagem graduada, são considerados, designadamente, elementos do sistema de gestão:\n\na) A importância e complexidade de cada atividade;\n\nb) O risco e o impacto potencial associado a cada atividade;\n\nc) As possíveis consequências de uma atividade realizada fora do procedimento habitual.\n\n2 - O operador estabelece um regulamento que contenha, nomeadamente, os seguintes aspetos:\n\na) As declarações da política de segurança;\n\nb) A descrição do sistema de gestão;\n\nc) A descrição da estrutura orgânica do operador, incluindo a equipa de operação e a equipa de proteção e segurança radiológica, previstas nos artigos 21.º e 22.º, respetivamente;\n\nd) A descrição das responsabilidades funcionais, níveis de hierarquia e interações entre aqueles que dirigem, executam e avaliam as tarefas;\n\ne) A descrição da interação com entidades externas relevantes;\n\nf) A identificação de outros requisitos a cumprir pelo operador, nomeadamente no que respeita à saúde e ao bem-estar dos trabalhadores durante a execução do seu trabalho;\n\ng) A descrição dos processos e informações associadas ao modo como as tarefas são preparadas, revistas, realizadas, registadas, avaliadas e melhoradas;\n\nh) As medidas para a prevenção de eventos, incluindo a definição das barreiras físicas e dos procedimentos administrativos de proteção que teriam que falhar para que os trabalhadores e a população em geral fossem significativamente afetados pelas radiações ionizantes.\n\n3 - Constitui, ainda, um elemento do sistema de gestão a manutenção e atualização dos registos e ou inventários relacionados com a segurança das instalações e atividades, as fontes radioativas, os resíduos radioativos, o combustível, as doses, as ocorrências de eventos e, ainda, qualquer registo que possa ser útil e ou necessário à desativação e desmantelamento da instalação.\n\n4 - Todos os documentos devem ser redigidos de forma a serem passíveis de compreensão para aqueles que os usam e devem encontrar-se atualizados, legíveis, prontamente identificáveis e disponíveis no local de utilização."
+  },
+  "114076510": {
+   "fragment_id": "114074509",
+   "type": 11,
+   "heading": "Artigo 19.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Organização\n\n1 - O operador define e fundamenta a sua estrutura orgânica, especificando, designadamente, as responsabilidades e funções atribuídas, bem como o número de recursos humanos a esta afetos com vista a implementar os requisitos gerais de segurança da instalação, tanto em operação normal como em situações de acidente.\n\n2 - O operador define e documenta as relações de subordinação e linhas hierárquicas de comunicação entre todos os responsáveis aprovadas pela autoridade reguladora aquando do licenciamento.\n\n3 - Qualquer alteração às relações de subordinação e linhas hierárquicas referidas no número anterior são notificadas à autoridade reguladora competente, no prazo previsto no n.º 1 do artigo 8.º, sem prejuízo do disposto no n.º 3 do mesmo artigo."
+  },
+  "114076511": {
+   "fragment_id": "114074510",
+   "type": 11,
+   "heading": "Artigo 20.º — Comissão de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comissão de segurança\n\nPara instalações nucleares de investigação, o operador constitui uma comissão de segurança com natureza consultiva e independente dos órgãos de gestão e operação da instalação nuclear."
+  },
+  "114076512": {
+   "fragment_id": "114074511",
+   "type": 11,
+   "heading": "Artigo 21.º — Equipa de operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Equipa de operação\n\n1 - Os deveres e responsabilidades dos membros da equipa de operação, no que respeita à segurança, são definidos, prosseguindo o disposto no n.º 3 do artigo 16.º.\n\n2 - Só o pessoal devidamente qualificado é autorizado a controlar e supervisionar a operação da instalação nuclear.\n\n3 - A lista com a constituição da equipa de operação e a especificação das suas funções deve estar sempre disponível junto do operador, sendo enviada uma cópia desta à autoridade reguladora, no prazo previsto no n.º 1 do artigo 8.º, sem prejuízo do disposto no n.º 3 do mesmo artigo.\n\n4 - As alterações à composição da equipa de operação e suas funções são notificadas à autoridade reguladora no prazo referido no número anterior."
+  },
+  "114076513": {
+   "fragment_id": "114074512",
+   "type": 11,
+   "heading": "Artigo 22.º — Equipa de proteção e segurança radiológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Equipa de proteção e segurança radiológica\n\n1 - O operador constitui uma equipa de proteção e segurança radiológica na instalação nuclear.\n\n2 - A equipa de proteção e segurança radiológica garante a proteção radiológica das pessoas que exercem atividade numa base regular ou pontual na instalação nuclear, a segurança radiológica das operações que envolvam risco, o controlo dos campos de radiação e das contaminações radioativas nos locais de trabalho e a gestão dos efluentes e resíduos radioativos.\n\n3 - A lista com a constituição da equipa de proteção e segurança radiológica e a especificação das suas funções deve estar sempre disponível junto do operador, sendo enviada uma cópia desta à autoridade reguladora, no prazo previsto no n.º 1 do artigo 8.º, sem prejuízo do disposto no n.º 3 do mesmo artigo.\n\n4 - As alterações à composição da equipa de segurança e proteção radiológica e suas funções são notificadas à autoridade reguladora no prazo referido no número anterior."
+  },
+  "114076514": {
+   "fragment_id": "114074513",
+   "type": 11,
+   "heading": "Artigo 23.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Recursos\n\n1 - O operador assegura que dispõe dos recursos financeiros, materiais e humanos suficientes e adequados para o desempenho das suas funções relativamente à segurança nuclear.\n\n2 - O operador desenvolve uma gestão de recursos humanos sistemática e documentada, vinculando-se a objetivos de longo prazo para antecipar as necessidades futuras de pessoal."
+  },
+  "114076515": {
+   "fragment_id": "114074514",
+   "type": 11,
+   "heading": "Artigo 24.º — Formação e treino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Formação e treino\n\n1 - O operador garante que os seus recursos humanos têm treino, formação e experiência necessária para a operação segura da instalação.\n\n2 - Em particular, cada membro da equipa de operação e da equipa de proteção e segurança radiológica é treinado continuamente e instruído por forma a enfrentar as situações normais e anormais de funcionamento, sendo periodicamente comprovado pelo menos a cada três anos, que cada um dispõe dos conhecimentos e capacidades apropriadas, mediante testes organizados pelo operador.\n\n3 - Para todo o pessoal, o operador elabora e implementa planos de formação adaptados às funções que exerçam na instalação nuclear.\n\n4 - Os planos realizados, nos termos do número anterior, são atualizados para atender às necessidades de operação e à evolução técnica e científica."
+  },
+  "114076516": {
+   "fragment_id": "114074515",
+   "type": 11,
+   "heading": "Artigo 25.º — Plano de emergência interno e notificações de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Plano de emergência interno e notificações de emergência\n\n1 - O operador elabora um plano de emergência interno para as instalações nucleares, adequado aos riscos potenciais previstos no relatório de análise de segurança, conforme o disposto no artigo 30.º, e que cubra todas as atividades a levar a cabo em caso de emergência.\n\n2 - O plano indica de forma clara os responsáveis pela notificação imediata de uma emergência às entidades competentes, nomeadamente à autoridade reguladora, à Autoridade Nacional de Proteção Civil ou aos serviços regionais de proteção civil das regiões autónomas dos Açores ou da Madeira, nos termos do artigo 50.º da Lei n.º 27/2006, de 3 de julho, alterada pela Lei Orgânica n.º 1/2011, de 30 de novembro.\n\n3 - Para qualquer instalação nuclear nova, o plano é preparado e testado antes desta entrar em funcionamento acima de um limiar de potência definido pela autoridade reguladora, o qual é necessariamente inferior à potência máxima de funcionamento.\n\n4 - Todo o pessoal deve ser informado sobre as disposições do plano de emergência interno e as medidas a serem tomadas quando tal aconteça.\n\n5 - O plano de emergência interno é testado com uma periodicidade não superior a um ano atendendo a vários cenários previsíveis, incluindo os que resultam da ação de agentes externos à instalação nuclear.\n\n6 - A autoridade reguladora é notificada de toda e qualquer situação de emergência verificada na instalação nuclear.\n\n7 - A Autoridade Nacional de Proteção Civil ou os serviços regionais de proteção civil das regiões autónomas dos Açores ou da Madeira, nos termos do artigo 50.º da Lei n.º 27/2006, de 3 de julho, alterada pela Lei Orgânica n.º 1/2011, de 30 de novembro, são notificadas da situação de emergência verificada, de acordo com os níveis de emergência definidos no plano de emergência interno."
+  },
+  "114076517": {
+   "fragment_id": "114074516",
+   "type": 8,
+   "heading": "Secção III — Operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Operação"
+  },
+  "114076518": {
+   "fragment_id": "114074517",
+   "type": 11,
+   "heading": "Artigo 26.º — Limites, níveis e condições de operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Limites, níveis e condições de operação\n\n1 - Os limites de segurança são os valores máximos ou mínimos atribuídos aos parâmetros ou variáveis mais importantes para evitar a libertação de quantidades indesejáveis de materiais radioativos e a exposição de pessoas.\n\n2 - Os níveis de segurança são os valores que ao serem atingidos acionam os sistemas automáticos, por forma a não ser excedido qualquer limite de segurança.\n\n3 - Na definição dos níveis de segurança devem ser consideradas as incertezas do equipamento de medição dos parâmetros ou variáveis, procurando minimizá-las ao longo da vida da instalação.\n\n4 - Os limites e níveis de segurança e as condições de operação são estabelecidos com base numa análise de segurança e constam do relatório de análise de segurança da instalação, de acordo com o disposto no n.º 3 do artigo 30.º.\n\n5 - Os limites relativos às doses de radiação para os trabalhadores expostos não devem exceder os valores previstos no Decreto-Lei n.º 222/2008, de 17 de novembro.\n\n6 - Os limites de libertação de efluentes radioativos provenientes de uma instalação nuclear são estabelecidos caso a caso com base numa análise de segurança, e constam do relatório de análise de segurança da instalação, de acordo com o disposto no n.º 3 do artigo 30.º"
+  },
+  "114076519": {
+   "fragment_id": "114074518",
+   "type": 11,
+   "heading": "Artigo 27.º — Violação dos limites e condições de operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Violação dos limites e condições de operação\n\n1 - Todas as modificações e experiências que envolvam alterações dos limites, níveis e condições de operação aprovados ou que possam interferir com os princípios básicos de segurança nuclear previstos, nomeadamente, no presente diploma e no Decreto-Lei n.º 30/2012, de 9 de fevereiro, e de proteção radiológica estabelecidos no Decreto-Lei n.º 165/2002, de 17 de julho, alterado pelos Decretos-Leis n.os 215/2008, de 10 de novembro, e 30/2012, de 9 de fevereiro, ou que possam acarretar riscos de natureza diferente, de maior amplitude ou com maior probabilidade de ocorrerem, carecem de aprovação prévia da autoridade reguladora.\n\n2 - Nas instalações nucleares de investigação, as modificações e experiências propostas, não abrangidas no número anterior, são objeto de parecer da comissão de segurança do operador antes de serem aprovados pelo operador.\n\n3 - Em caso de emergência e para garantir a segurança da instalação nuclear, o operador pode efetuar temporariamente modificações do tipo mencionado no n.º 1, sem aprovação prévia da autoridade reguladora.\n\n4 - As avarias de equipamento suscetíveis de provocar a diminuição da segurança da instalação e que eventualmente determinem a violação dos limites de segurança são avaliadas pelo operador, sendo as correções adequadas introduzidas, por forma a manter o nível de segurança adequado.\n\n5 - A operação da instalação é interrompida e a situação é revista pelo operador e notificada à autoridade reguladora, sempre que a avaria de um sistema de segurança provoque a violação de um limite de segurança.\n\n6 - Caso os limites relativos às doses de radiação e aos efluentes radioativos mencionados no artigo 26.º sejam excedidos, o operador notifica de imediato a autoridade reguladora, bem como a Autoridade Nacional de Proteção Civil ou os serviços regionais de proteção civil das regiões autónomas dos Açores ou da Madeira, nos termos do artigo 50.º da Lei n.º 27/2006, de 3 de julho, alterada pela Lei Orgânica n.º 1/2011, de 30 de novembro."
+  },
+  "114076520": {
+   "fragment_id": "114074519",
+   "type": 11,
+   "heading": "Artigo 28.º — Revisão dos limites e condições de operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Revisão dos limites e condições de operação\n\n1 - Os limites e condições de operação são revistos e modificados sempre que necessário atendendo, nomeadamente, à experiência de operação, às inspeções aos testes periódicos realizados, à evolução da tecnologia, às alterações decorrentes dos objetivos de segurança e sempre que efetuadas alterações na instalação.\n\n2 - Em particular, após a ocorrência de um acontecimento imprevisto conducente a uma quebra de segurança da instalação nuclear, o operador promove a revisão dos limites e condições de operação e reavalia as funções de segurança e integridade de qualquer estrutura, sistema ou componente.\n\n3 - O processo de modificação de um limite de operação é definido, justificado e organizado pelo operador e sujeito a aprovação pela autoridade reguladora."
+  },
+  "114076521": {
+   "fragment_id": "114074520",
+   "type": 11,
+   "heading": "Artigo 29.º — Planos de manutenção, inspeção em serviço e ensaios funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Planos de manutenção, inspeção em serviço e ensaios funcionais\n\n1 - O operador elabora e implementa planos de manutenção, inspeção em serviço e ensaios funcionais de estruturas, sistemas e componentes importantes para a segurança da instalação nuclear.\n\n2 - Os planos de manutenção, inspeção em serviço e ensaios funcionais garantem que os níveis de fiabilidade e segurança de todas estas estruturas, sistemas e componentes permanecem em conformidade com as condições de conceção da instalação durante a toda a vida da mesma.\n\n3 - Os planos de manutenção, inspeção em serviço e ensaios funcionais devem considerar os limites e condições de operação e quaisquer outros requisitos legais e regulamentares aplicáveis.\n\n4 - Os planos referidos nos números anteriores devem estabelecer os procedimentos para as tarefas de manutenção, testes, monitorização e inspeções das estruturas, sistemas e componentes que relevam para a segurança nuclear.\n\n5 - Os procedimentos previstos nos termos do número anterior são estabelecidos, revistos, validados e alterados em conformidade com o sistema de gestão.\n\n6 - O operador estabelece um plano de trabalho e controlo para garantir que as atividades de manutenção, testes, monitorização e inspeção são realizadas de acordo com aqueles procedimentos.\n\n7 - A duração da manutenção das estruturas, sistemas e componentes deve ser tão curta quanto razoavelmente possível.\n\n8 - O operador deve atender à importância das estruturas, sistemas e componentes na priorização da manutenção.\n\n9 - A frequência da manutenção, monitorização e inspeção de estruturas, sistemas e componentes é determinada tendo em consideração, nomeadamente:\n\na) A importância para a segurança nuclear destas estruturas, sistemas e componentes;\n\nb) A sua fiabilidade intrínseca;\n\nc) O desgaste potencial previsto;\n\nd) A experiência de exploração ou o resultado de estudos;\n\ne) As recomendações do fabricante;\n\nf) As normas em vigor.\n\n10 - O operador efetua um relatório detalhado sobre cada intervenção de manutenção prevista nos termos do n.º 1.\n\n11 - O plano e relatório de manutenção são apresentados à autoridade reguladora durante as inspeções ou sempre que esta o solicite."
+  },
+  "114076522": {
+   "fragment_id": "114074521",
+   "type": 1,
+   "heading": "Capítulo IV — Verificação da segurança nuclear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Verificação da segurança nuclear"
+  },
+  "114076523": {
+   "fragment_id": "114074522",
+   "type": 11,
+   "heading": "Artigo 30.º — Relatório de análise de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Relatório de análise de segurança\n\n1 - O operador elabora o relatório de análise de segurança da instalação nuclear, aprovado pela autoridade reguladora aquando do respetivo licenciamento, atendendo às boas práticas internacionais para a natureza e tipo de instalação em causa e reconhecidas pela Agência Internacional de Energia Atómica.\n\n2 - No relatório, o operador deve demonstrar a forma como cumpre os requisitos nacionais de segurança nuclear e controlo radiológico previstos no presente diploma e demais legislação vigente, os termos da licença, a política, o sistema e o regulamento da segurança nuclear na instalação e a gestão segura dos resíduos radioativos e do combustível.\n\n3 - O relatório de análise de segurança deve conter informação suficiente sobre a instalação nuclear e as suas condições de funcionamento, nomeadamente, o âmbito, termos e periodicidade da revisão periódica da instalação nuclear referida no artigo 32.º, e o plano de emergência interno referido no artigo 25.º, de modo a permitir a avaliação da segurança com base no mesmo.\n\n4 - O relatório de análise de segurança deve conter todas as medidas previstas para o desmantelamento da instalação referidas no n.º 2 do artigo 14.º.\n\n5 - O operador atualiza o relatório de análise de segurança sempre que necessário ou a autoridade reguladora o solicite com base no incumprimento do disposto no presente diploma e outra legislação vigente.\n\n6 - As alterações posteriores relevantes para a segurança da instalação nuclear são submetidas à aprovação da autoridade reguladora, no prazo previsto no n.º 1 do artigo 8.º, sem prejuízo do disposto no n.º 3 do mesmo artigo.\n\n7 - As alterações posteriores sem relevância para a segurança nuclear são notificadas à autoridade reguladora, no prazo previsto no número anterior, sendo que nas instalações nucleares de investigação, as referidas alterações são previamente aprovadas pela comissão de segurança."
+  },
+  "114076524": {
+   "fragment_id": "114074523",
+   "type": 11,
+   "heading": "Artigo 31.º — Relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Relatório anual\n\n1 - O operador elabora um relatório anual reportando detalhadamente qualquer tipo de ocorrência relevante ao funcionamento da instalação nuclear e contendo todas as informações relativas ao controlo radiológico da instalação, nomeadamente as descargas de efluentes radioativos e as doses recebidas pelos trabalhadores.\n\n2 - O relatório é remetido pelo operador à autoridade reguladora até 31 de março de cada ano, sendo acompanhado do parecer da comissão de segurança no caso de instalações nucleares de investigação."
+  },
+  "114076525": {
+   "fragment_id": "114074524",
+   "type": 11,
+   "heading": "Artigo 32.º — Revisões e inspeções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Revisões e inspeções\n\n1 - O operador tem a principal responsabilidade pela revisão periódica da instalação nuclear.\n\n2 - A autoridade reguladora procede a inspeções da instalação nuclear por forma a avaliar sistematicamente a segurança da instalação nuclear, bem como o cumprimento das obrigações estabelecidas no presente diploma.\n\n3 - A autoridade reguladora na inspeção deve atender, nomeadamente, aos seguintes aspetos de segurança:\n\na) Confirmar que a instalação nuclear se encontra a funcionar de forma tão segura quanto inicialmente ou desde a inspeção periódica anterior;\n\nb) Estabelecer o estado de desgaste da instalação e do seu regime de funcionamento, com especial atenção para as estruturas, sistemas e componentes mais sensíveis ao desgaste, a fim de identificar e avaliar todos os fatores que podem limitar a operação segura da instalação até a próxima inspeção periódica ou um fim de vida programado;\n\nc) Justificar o nível de segurança à data da inspeção periódica, atendendo às normas e práticas internacionais, e identificar melhorias de segurança sempre que razoavelmente possível.\n\n4 - Na inspeção, a autoridade reguladora deve atender à evolução das normas de segurança nuclear, à evolução tecnológica, à investigação e desenvolvimento, às recomendações internacionais, à história e experiência operacional nacional e internacional, ao desgaste da instalação, às alterações da instalação e às mudanças na estrutura orgânica do operador.\n\n5 - O operador é responsável pela correção de situações de incumprimento verificadas nas inspeções, dentro do prazo concedido, pela condução de ações de investigação sobre essas situações, dentro dos calendários fixados, e pela execução das medidas necessárias para prevenir a repetição dessas situações."
+  },
+  "114076526": {
+   "fragment_id": "114074525",
+   "type": 11,
+   "heading": "Artigo 33.º — Metodologia das inspeções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Metodologia das inspeções\n\nA metodologia das inspeções é definida pela autoridade reguladora."
+  },
+  "114076527": {
+   "fragment_id": "114074526",
+   "type": 1,
+   "heading": "Capítulo V — Medidas administrativas e contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Medidas administrativas e contraordenações"
+  },
+  "114076528": {
+   "fragment_id": "114074527",
+   "type": 11,
+   "heading": "Artigo 34.º — Medidas administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Medidas administrativas\n\n1 - À autoridade reguladora compete determinar a aplicação de medidas corretivas, a suspensão da exploração, a alteração ou revogação da licença, incluindo o encerramento temporário ou definitivo das instalações, quando detetar situações de incumprimento das normas constantes no presente diploma, demais requisitos de segurança definidos em disposições regulamentares, e na respetiva licença de exploração.\n\n2 - Em casos de manifesta urgência na decisão, nomeadamente em situações de risco para a saúde e segurança dos trabalhadores e do público em geral e para a preservação do ambiente, não há lugar à audição prévia dos titulares das licenças.\n\n3 - A imposição das medidas administrativas previstas neste artigo não exclui a responsabilidade contraordenacional, nem a efetivação da responsabilidade civil, criminal e disciplinar em que incorram os titulares das licenças nos termos do artigo seguinte e da demais legislação aplicável."
+  },
+  "114076529": {
+   "fragment_id": "114074528",
+   "type": 11,
+   "heading": "Artigo 35.º — Ilícitos de mera ordenação social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Ilícitos de mera ordenação social\n\n1 - Para efeitos do disposto no presente diploma, constitui contraordenação muito grave, punível com uma coima que pode variar entre dois terços do montante máximo da coima aplicável e o montante máximo previsto no regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pela Lei n.º 109/2001, de 24 de dezembro e pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro (regime geral do ilícito de mera ordenação social):\n\na) A operação da instalação sem licença de exploração ou com a licença caducada;\n\nb) A operação da instalação sem cumprimento de uma medida administrativa imposta nos termos do artigo anterior;\n\nc) A operação da instalação para além dos limites e dos níveis de segurança previstos na licença;\n\nd) O incumprimento dos deveres de notificação, em situações de emergência, à autoridade reguladora e entidades externas competentes.\n\n2 - Para efeitos do disposto no presente diploma, constitui contraordenação grave, punível com uma coima que pode variar entre metade do montante máximo da coima aplicável e dois terços do referido montante máximo previsto no regime geral do ilícito de mera ordenação social:\n\na) A inexistência de meios financeiros, humanos e materiais que permitam ao titular desempenhar as suas obrigações relativamente à segurança nuclear, bem como constituir, formar e treinar as equipas de operação e de proteção e segurança radiológica;\n\nb) O incumprimento das disposições relativas à conceção da instalação;\n\nc) O incumprimento das disposições relativas à organização, equipa de operação, equipa de proteção e segurança radiológica e formação e treino;\n\nd) A inexistência de uma comissão de segurança junto das instalações nucleares de investigação;\n\ne) O incumprimento das disposições relativas à política de segurança e ao sistema de gestão;\n\nf) A não previsão de medidas para o desmantelamento da instalação nuclear e registos complementares no relatório de análise de segurança;\n\ng) O incumprimento das disposições relativas à elaboração, implementação e teste do plano de emergência interno;\n\nh) O incumprimento das disposições relativas à elaboração do plano de emergência externo;\n\ni) O incumprimento das disposições relativas aos planos de manutenção e revisões periódicas;\n\nj) O incumprimento das disposições relativas à classificação das estruturas, sistemas e componentes;\n\nk) A não disponibilização, quando obrigatória, aos trabalhadores e ao público em geral, das disposições relacionadas com a segurança nuclear nos termos do presente diploma;\n\nl) A recusa de colaboração ou obstrução à atividade de fiscalização da autoridade reguladora competente;\n\nm) A não disponibilização de informação a prestar à autoridade reguladora ou a prestação de informações falsas ou erróneas.\n\n3 - Para efeitos do disposto no presente diploma, constituem contraordenação leve, punível com uma coima que pode variar entre o montante mínimo e metade do montante máximo da coima aplicável previsto no regime geral do ilícito de mera ordenação social:\n\na) O incumprimento dos deveres de notificação, em situações de não emergência, nos termos e prazos previstos no presente diploma;\n\nb) O incumprimento das disposições relativas ao registo e arquivo de documentos.\n\n4 - A negligência é punível, sendo os limites mínimo e máximo das coimas reduzidos para metade.\n\n5 - A tentativa é punível com coima aplicável à contraordenação consumada, especialmente atenuada.\n\n6 - Quando a infração constitua a omissão de um dever, a aplicação das sanções correspondentes não isenta o titular da licença de cumprir esse mesmo dever no prazo indicado pela autoridade reguladora."
+  },
+  "114076530": {
+   "fragment_id": "114074529",
+   "type": 11,
+   "heading": "Artigo 36.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Competência\n\n1 - Compete à autoridade reguladora, no decurso da sua atividade inspetiva, detetar, qualificar e participar eventuais ilícitos de mera ordenação social, tal como enumerados no artigo anterior.\n\n2 - A participação prevista no número anterior é efetuada para a autoridade inspetiva com competência para instruir os respetivos processos do ministério responsável pelo setor de atividade em que se insere a instalação nuclear.\n\n3 - A aplicação das coimas previstas no artigo anterior compete ao membro do Governo responsável pelo setor de atividade em que se insere a instalação nuclear."
+  },
+  "114076531": {
+   "fragment_id": "114074530",
+   "type": 11,
+   "heading": "Artigo 37.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Produto das coimas\n\nA afetação do produto das coimas faz-se da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 40% para a autoridade reguladora."
+  },
+  "114076532": {
+   "fragment_id": "114074531",
+   "type": 11,
+   "heading": "Artigo 38.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Regime subsidiário\n\nÀs contraordenações previstas no presente diploma é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pela Lei n.º 109/2001, de 24 de dezembro e pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro."
+  },
+  "114076533": {
+   "fragment_id": "114074532",
+   "type": 11,
+   "heading": "Artigo 39.º — Comunicação ao Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Comunicação ao Ministério Público\n\nAs infrações ao presente diploma são comunicadas ao Ministério Público quando existam indícios de as mesmas poderem ser alvo de procedimento criminal."
+  },
+  "114076534": {
+   "fragment_id": "114074533",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "114076535": {
+   "fragment_id": "114074534",
+   "type": 11,
+   "heading": "Artigo 40.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Norma transitória\n\n1 - Os titulares de uma licença emitida antes da entrada em vigor do presente diploma dispõem de um ano, a contar da data da sua entrada em vigor, para demonstrar à autoridade reguladora que cumprem os requisitos nele definidos, devendo esta emitir correspondente certificação.\n\n2 - Sem prejuízo do disposto no número anterior, os titulares acima mencionados estão, desde a entrada em vigor do presente diploma, sujeitos a todos os deveres de notificação e cooperação com a autoridade reguladora nele estipulados"
+  },
+  "114076536": {
+   "fragment_id": "114074535",
+   "type": 11,
+   "heading": "Artigo 41.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Norma revogatória\n\nÉ revogado o Despacho n.º 10A/MCT/96, de 13 de março de 1996, publicado no Diário na República, n.º 62, de 13 de março de 1996."
+  },
+  "114076537": {
+   "fragment_id": "114074536",
+   "type": 11,
+   "heading": "Artigo 42.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Entrada em vigor e produção de efeitos\n\n1 - Sem prejuízo do disposto no número seguinte, o presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O artigo anterior produz os seus efeitos após o termo do prazo previsto no n.º 1 do artigo 40.º."
+  },
+  "114076541": {
+   "fragment_id": "114074491",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente diploma aplica-se a qualquer instalação nuclear civil em território nacional sujeita a licença, tal como definida nos termos da alínea b) do artigo 3.º do Decreto-Lei n.º 30/2012, de 9 de fevereiro.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076542": {
+   "fragment_id": "114074492",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Abordagem graduada», o processo ou método, aplicado ao sistema regulador ou sistema de segurança, proporcional, tanto quanto possível, à probabilidade de ocorrência de um evento, suas possíveis consequências, e ao nível de risco associado, em caso de perda de controlo;\n\nb) 'Acidente', qualquer ocorrência não intencional cujas consequências ou potenciais consequências sejam significativas do ponto de vista da proteção contra radiações ou da segurança nuclear;\n\nc) 'Acidente de referência', situações de acidente tidas em conta na conceção de uma instalação nuclear de acordo com critérios de conceção predefinidos e nas quais a deterioração de combustível, se for caso disso, e a libertação de material radioativo são mantidos dentro de limites autorizados;\n\nd) «Acondicionamento», o conjunto de componentes necessários ao enclausuramento completo dos conteúdos radioativos;\n\ne) 'Anomalia de funcionamento', um processo operativo que se desvie do funcionamento normal, que se prevê ocorra, no mínimo, uma vez durante a vida útil de uma instalação, mas que, em virtude de disposições de conceção adequadas, não cause nenhum dano significativo aos elementos importantes para a segurança nem dê lugar a uma situação de acidente;\n\nf) 'Base de referência', a gama de situações e ocorrências tidas explicitamente em conta na conceção, incluindo as atualizações, de uma instalação nuclear, de acordo com critérios previamente definidos, de modo a que a instalação lhes possa resistir sem ultrapassar os limites autorizados pelo funcionamento projetado dos sistemas de segurança;\n\ng) «Comissionamento», o processo durante o qual os sistemas e componentes das instalações, após construídos, são testados, sendo verificada a conformidade com as suas especificações e critérios de desempenho previamente definidos;\n\nh) «Condições de operação», o conjunto de regras, aprovadas pela autoridade reguladora, que determinam os limites de operação, as gamas de funcionamento e os níveis de desempenho referentes a equipamento e pessoal, para a operação segura da instalação nuclear;\n\ni) 'Condições graves', as condições que excedem aquelas que são consideradas nos acidentes de referência; tais condições podem ser causadas por falhas múltiplas, tais como a perda total de todas as barreiras de um sistema de segurança, ou por uma ocorrência extremamente improvável;\n\nj) «Defesa em profundidade», a distribuição hierarquizada de diferentes níveis de equipamento e procedimentos diversificados para evitar a progressão de ocorrências de funcionamento previsíveis e manter a eficácia das barreiras físicas existentes entre uma fonte de radiação ou materiais radioativos e os trabalhadores, o público em geral e o ambiente em diferentes condições de operação e, para algumas barreiras, em condições de acidente;\n\nk) «Eliminação», a colocação de resíduos num depósito ou determinado local, sem intenção de reaproveitamento, abrangendo inclusivamente a descarga direta autorizada de resíduos no ambiente e a sua subsequente dispersão;\n\nl) «Emergência», uma situação fora da rotina que necessita de resposta pronta, para primeiramente mitigar uma ocorrência acidental ou consequência adversa para a saúde e segurança humanas, qualidade de vida, bens materiais ou o ambiente. Incluem-se não só emergências nucleares e radiológicas como emergências convencionais como fogos, tempestades, tremores de terra e tsunamis. Inclui, igualmente, situações em que uma rápida resposta é necessária para mitigar os efeitos de uma ocorrência acidental;\n\nm) «Estruturas, sistemas e componentes», elementos da instalação ou atividade que contribuem para a proteção e a segurança destas, com exceção dos recursos humanos;\n\nn) «Evento», qualquer ocorrência não intencional por parte do operador, incluindo erro de operação, falha do equipamento ou outro tipo de falha e ação deliberada por parte de outros, cujas consequências ou potenciais consequências não são negligenciáveis do ponto de vista da proteção e segurança;\n\no) 'Incidente', qualquer ocorrência não intencional cujas consequências ou potenciais consequências não sejam negligenciáveis do ponto de vista da proteção contra radiações ou da segurança nuclear;\n\np) «Manutenção», a atividade organizada, administrativa e tecnicamente, com vista a manter as estruturas, os sistemas e os componentes em bom estado de funcionamento, incluindo aspetos de ação preventiva e corretiva;\n\nq) «Operação normal», a operação que decorre dentro de limites e condições de operação especificados;\n\nr) «Operador», o titular de uma licença emitida pela autoridade reguladora;\n\ns) «Sistema de gestão», o conjunto de elementos e procedimentos administrativos e técnicos inter-relacionados, utilizados para estabelecer planos e objetivos que permitem a implementação eficiente e eficaz da segurança nuclear.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076543": {
+   "fragment_id": "114074494",
+   "type": 11,
+   "heading": "Artigo 4.º — Segurança nuclear da instalação",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 4.º — Segurança nuclear da instalação\n\n1 - Ao operador incumbe a responsabilidade pela instalação nuclear, desde a escolha do local até ao seu desmantelamento.\n\n2 - As instalações nucleares devem ser localizadas, projetadas, construídas, colocadas em serviço, exploradas e desmanteladas com o objetivo de prevenir os acidentes e, caso ocorra um acidente, de minimizar as respetivas consequências e evitar:\n\na) Libertações radioativas precoces, que requereriam medidas de emergência no exterior das instalações, sem que contudo haja tempo suficiente para as pôr em prática;\n\nb) Libertações radioativas substanciais, que requereriam medidas de proteção que não seria possível limitar no tempo ou no espaço.\n\n3 - Ao operador incumbe a principal responsabilidade pela segurança da instalação, incluindo a promoção e contínuo reforço de uma verdadeira cultura de segurança nuclear, sob o controlo da autoridade reguladora, a qual não pode ser delegada nem transferida e inclui a responsabilidade pelas atividades de contratantes e subcontratantes cujas atividades possam afetar a segurança nuclear de uma instalação nuclear.\n\n4 - A concessão de licença para a construção ou exploração de uma instalação nuclear baseia-se numa avaliação específica adequada do local e das instalações que compreenda a demonstração de segurança nuclear no que respeita às exigências nacionais em matéria de segurança nuclear baseada no objetivo definido no n.º 2.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076544": {
+   "fragment_id": "114074499",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação aos trabalhadores e ao público",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 9.º — Informação aos trabalhadores e ao público\n\n1 - O operador faculta aos trabalhadores e ao público em geral as informações relevantes relacionadas com a segurança nuclear, prestando particular atenção às autoridades locais, à população e às partes interessadas que se encontrem na proximidade de uma instalação nuclear, em conformidade com a legislação nacional e as obrigações internacionais, sem prejuízo da salvaguarda de outros interesses, designadamente em matéria de segurança.\n\n2 - O operador informa o público em geral sobre os possíveis riscos associados a radiações resultantes do funcionamento da instalação nuclear ou da condução de uma atividade, de acordo com uma abordagem graduada.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076545": {
+   "fragment_id": "114074500",
+   "type": 11,
+   "heading": "Artigo 10.º — Plano de emergência externo",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 10.º — Plano de emergência externo\n\n1 - O operador fornece à Autoridade Nacional de Proteção Civil, ou às entidades territorialmente competentes do sistema de proteção civil, a informação necessária à elaboração do plano de emergência externo a que se refere o artigo 10.º do Decreto-Lei n.º 174/2002, de 25 de julho, na sua redação atual.\n\n2 - As entidades referidas no número anterior analisam a informação prestada, podendo solicitar informação complementar ao operador.\n\n3 - O operador atualiza a informação referida no n.º 1, sempre que ocorram alterações na instalação quer sejam relevantes para o plano de emergência externo.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076546": {
+   "fragment_id": "114074503",
+   "type": 11,
+   "heading": "Artigo 12.º — Defesa em profundidade",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 12.º — Defesa em profundidade\n\n1 - A defesa em profundidade deve ser considerada e implementada com vista a garantir o objetivo de segurança nuclear estabelecido no artigo 4.º, de forma a prevenir ou, em caso de impossibilidade de prevenção, a limitar libertações de radiações na instalação e fora desta.\n\n2 - Para efeitos do disposto no número anterior, a defesa em profundidade deve garantir que:\n\na) É minimizado o impacto de perigos externos extremos de origem natural ou de origem humana não intencional;\n\nb) São evitadas as falhas e anomalias de funcionamento;\n\nc) São detetadas as falhas e controladas as anomalias de funcionamento;\n\nd) São controlados os acidentes de referência;\n\ne) São controladas as condições graves, incluindo a prevenção da progressão de acidentes e a atenuação das consequências de acidentes graves; e\n\nf) Existem as estruturas organizativas necessárias ao cumprimento das normas relativas à prevenção e reação a emergências.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076539": {
+   "fragment_id": "114074538",
+   "type": 11,
+   "heading": "Artigo 13.º — Classificação das estruturas, sistemas e componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Classificação das estruturas, sistemas e componentes\n\nTodas as estruturas, sistemas e componentes, incluindo software de controlo, são identificados e classificados de acordo com sua importância para a segurança nuclear."
+  },
+  "114076540": {
+   "fragment_id": "114074539",
+   "type": 11,
+   "heading": "Artigo 14.º — Desmantelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Desmantelamento\n\n1 - A conceção, construção e operação de uma instalação nuclear deve considerar o seu futuro desmantelamento.\n\n2 - O operador define as medidas e os procedimentos previstos para o desmantelamento, designadamente a sua relação com o projeto, desenho e funcionamento da instalação, as quais, de acordo com n.º 4 do artigo 30.º, são descritas e justificadas no relatório de análise de segurança, aprovado pela autoridade reguladora aquando do licenciamento.\n\n3 - As medidas e os procedimentos referidos no número anterior devem ser revistos e complementados em conformidade com os registos relevantes para o desmantelamento, nomeadamente os relativos a eventos ocorridos durante o período de vida da instalação, alterações produzidas na instalação, inventário de radionuclídeos, níveis de dose e de contaminação no interior da instalação."
+  },
+  "114076547": {
+   "fragment_id": "114074505",
+   "type": 11,
+   "heading": "Artigo 15.º — Política de segurança",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 15.º — Política de segurança\n\n1 - O operador estabelece a política de segurança nuclear da instalação, a qual é aprovada pela autoridade reguladora aquando do licenciamento.\n\n2 - Quaisquer alterações à política de segurança nuclear da instalação são sempre submetidas à aprovação da autoridade reguladora, no prazo previsto no n.º 1 do artigo 8.º, sem prejuízo do disposto no n.º 3 do mesmo artigo.\n\n3 - A política de segurança atribui importância primordial à segurança nuclear das atividades na instalação, em todas as fases desde a escolha do local ao respetivo desmantelamento.\n\n4 - A política de segurança inclui a responsabilidade do operador pela melhoria contínua da segurança nuclear.\n\n5 - A política de segurança é comunicada a todo o pessoal que exerce atividade numa base regular ou pontual na instalação nuclear.\n\n6 - A política de segurança e respetiva implementação são avaliadas e revistas de forma sistemática e regular pelo operador, pelo menos de 10 em 10 anos e sempre que tal se justifique, ou por indicação da autoridade reguladora, visando garantir o respeito pela atual base de referência e apontando os novos melhoramentos a realizar em matéria de segurança, tendo em conta os problemas ligados ao envelhecimento, a experiência de exploração, os mais recentes resultados da investigação e a evolução das normas internacionais, tomando por referência o objetivo fixado no artigo 4.º\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076548": {
+   "fragment_id": "114074506",
+   "type": 11,
+   "heading": "Artigo 16.º — Gestão da segurança nuclear",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 16.º — Gestão da segurança nuclear\n\n1 - O operador garante que a instalação é operada de forma segura, cumprindo os requisitos legais e regulamentares e as condições fixadas na licença, sob a supervisão da autoridade reguladora.\n\n2 - O operador assegura que todo e qualquer tratamento ou armazenamento de combustível e de resíduos diretamente relacionados com o funcionamento da instalação contemplam o respetivo acondicionamento e eliminação.\n\n3 - Sempre que o operador tome decisões relativas à operação deve fazê-lo com base numa abordagem graduada.\n\n4 - Todas as decisões tomadas pelo operador em matéria de segurança nuclear são precedidas por uma análise realizada por pessoal, qualificado e experiente, que garanta a verificação dos aspetos relevantes em matéria de segurança nuclear e radiológica.\n\n5 - As avaliações de segurança realizadas nos termos do número anterior são documentadas e registadas pelo operador.\n\n6 - O operador é responsável pela criação e pelo fornecimento de todos os meios e condições de trabalho necessários à execução das tarefas de forma segura.\n\n7 - O operador estabelece um sistema de monitorização adequado para garantir o cumprimento das regras de segurança em vigor, para avaliar e verificar regularmente e para melhorar continuamente, na medida do razoavelmente exequível, a segurança nuclear das suas instalações nucleares, de forma sistemática e verificável, incluindo a verificação das medidas existentes para a prevenção de acidentes e a minimização das suas consequências e da aplicação das disposições de defesa em profundidade.\n\n8 - O operador estabelece, em particular, programas destinados a recolher e a analisar os dados relativos à experiência de funcionamento das instalações nucleares, a nível nacional e internacional, com vista a sistematizar os resultados obtidos e a retirar proveito da experiência adquirida.\n\n9 - O operador estabelece programas de investigação e desenvolvimento e de cooperação e partilha com organismos operacionais e reguladores, nacionais e internacionais, com o objectivo da melhoria contínua da segurança nuclear.\n\n10 - O operador toma em consideração as recomendações da Agência Internacional de Energia Atómica para a operação segura da instalação nuclear.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076549": {
+   "fragment_id": "114074513",
+   "type": 11,
+   "heading": "Artigo 23.º — Recursos",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 23.º — Recursos\n\n1 - O operador assegura que dispõe dos recursos financeiros e materiais e os recursos humanos com as adequadas habilitações e competências, necessários para cumprir as suas obrigações relativamente à segurança nuclear da instalação nuclear, tal como previsto nos requisitos nacionais de segurança nuclear e na respetiva licença.\n\n2 - O operador desenvolve uma gestão de recursos humanos sistemática e documentada, vinculando-se a objetivos de longo prazo para antecipar as necessidades futuras de pessoal.\n\n3 - O operador assegura que os contratantes e subcontratantes sob a sua responsabilidade, e cujas atividades possam afetar a segurança nuclear de uma instalação nuclear, disponham dos recursos humanos necessários com as adequadas habilitações e competências para cumprirem as suas obrigações.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076550": {
+   "fragment_id": "114074514",
+   "type": 11,
+   "heading": "Artigo 24.º — Formação e treino",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 24.º — Formação e treino\n\n1 - O operador garante que os seus recursos humanos têm treino, formação e experiência necessária para a operação segura da instalação e preparação para situações de emergência in situ.\n\n2 - Em particular, cada membro da equipa de operação e da equipa de proteção e segurança radiológica é treinado continuamente e instruído por forma a enfrentar as situações normais e anormais de funcionamento, sendo periodicamente comprovado pelo menos a cada três anos, que cada um dispõe dos conhecimentos e capacidades apropriadas, mediante testes organizados pelo operador.\n\n3 - Para todo o pessoal, o operador elabora e implementa planos de formação adaptados às funções que exerçam na instalação nuclear.\n\n4 - Os planos realizados, nos termos do número anterior, são atualizados para atender às necessidades de operação e à evolução técnica e científica.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076551": {
+   "fragment_id": "114074515",
+   "type": 11,
+   "heading": "Artigo 25.º — Plano de emergência interno e notificações de emergência",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 25.º — Plano de emergência interno e notificações de emergência\n\n1 - Sem prejuízo do disposto no artigo 9.º do Decreto-Lei n.º 174/2002, de 25 de junho, na sua redação atual, o operador elabora um plano de emergência interno para as instalações nucleares, adequado aos riscos potenciais previstos no relatório de análise de segurança, conforme o disposto no artigo 30.º ou disposições equivalentes, e que cubra todas as atividades a levar a cabo em caso de emergência, incluindo orientações para a gestão e resposta eficaz a acidentes graves, a fim de prevenir ou atenuar as suas consequências, devendo o plano:\n\na) Ser coerente com outros procedimentos operativos e ser periodicamente objeto de exercícios para verificar a sua viabilidade;\n\nb) Destinar-se a fazer frente aos acidentes e acidentes graves que possam ocorrer em todos os modos de funcionamento e aos que impliquem ou afetem simultaneamente várias unidades;\n\nc) Prever dispositivos para receber assistência externa;\n\nd) Ser revisto e atualizado periódica e regularmente, tendo em conta a experiência dos exercícios e os ensinamentos retirados dos acidentes;\n\ne) Abranger a totalidade do perímetro da instalação nuclear sob a responsabilidade do operador;\n\nf) Ser redigido em português, podendo ser adicionalmente disponibilizado noutras línguas, se o operador o considerar relevante, tendo em consideração os objetivos do documento;\n\ng) Ser objeto de um processo de consulta interna dos trabalhadores e do demais pessoal que preste serviço no perímetro sob a responsabilidade do operador, para efeitos da sua elaboração e atualização.\n\n2 - O plano indica de forma clara os responsáveis pela notificação imediata de uma emergência às entidades competentes, nomeadamente à COMRSIN, à entidade responsável pelo plano de emergência externo e à Autoridade Nacional de Proteção Civil ou às entidades territorialmente competentes do sistema de proteção civil.\n\n3 - Para qualquer instalação nuclear nova, o plano é preparado e testado antes desta entrar em funcionamento acima de um limiar de potência definido pela autoridade reguladora, o qual é necessariamente inferior à potência máxima de funcionamento.\n\n4 - Todo o pessoal deve ser informado sobre as disposições do plano de emergência interno e as medidas a serem tomadas quando tal aconteça.\n\n5 - O plano de emergência interno é testado com uma periodicidade não superior a um ano atendendo a vários cenários previsíveis, incluindo os que resultam da ação de agentes externos à instalação nuclear.\n\n6 - A autoridade reguladora é notificada de toda e qualquer situação de emergência verificada na instalação nuclear.\n\n7 - A Autoridade Nacional de Proteção Civil ou as entidades territorialmente competentes do sistema de proteção civil, e a entidade responsável pelo plano de emergência externo, são notificadas da situação de emergência verificada, de acordo com os níveis de emergência definidos no plano de emergência interno.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076552": {
+   "fragment_id": "114074518",
+   "type": 11,
+   "heading": "Artigo 27.º — Violação dos limites e condições de operação",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 27.º — Violação dos limites e condições de operação\n\n1 - Todas as modificações e experiências que envolvam alterações dos limites, níveis e condições de operação aprovados ou que possam interferir com os princípios básicos de segurança nuclear previstos, nomeadamente, no presente diploma e no Decreto-Lei n.º 30/2012, de 9 de fevereiro, e de proteção radiológica estabelecidos no Decreto-Lei n.º 165/2002, de 17 de julho, alterado pelos Decretos-Leis n.os 215/2008, de 10 de novembro, e 30/2012, de 9 de fevereiro, ou que possam acarretar riscos de natureza diferente, de maior amplitude ou com maior probabilidade de ocorrerem, carecem de aprovação prévia da autoridade reguladora.\n\n2 - Nas instalações nucleares de investigação, as modificações e experiências propostas, não abrangidas no número anterior, são objeto de parecer da comissão de segurança do operador antes de serem aprovados pelo operador.\n\n3 - Em caso de emergência e para garantir a segurança da instalação nuclear, o operador pode efetuar temporariamente modificações do tipo mencionado no n.º 1, sem aprovação prévia da autoridade reguladora.\n\n4 - As avarias de equipamento suscetíveis de provocar a diminuição da segurança da instalação e que eventualmente determinem a violação dos limites de segurança são avaliadas pelo operador, sendo as correções adequadas introduzidas, por forma a manter o nível de segurança adequado.\n\n5 - A operação da instalação é interrompida e a situação é revista pelo operador e notificada à autoridade reguladora, sempre que a avaria de um sistema de segurança provoque a violação de um limite de segurança.\n\n6 - Caso os limites relativos às doses de radiação e aos efluentes radioativos mencionados no artigo 26.º sejam excedidos, o operador notifica de imediato a COMRSIN, bem como a entidade responsável pelo plano de emergência externo e a Autoridade Nacional de Proteção Civil ou as entidades territorialmente competentes do sistema de proteção civil.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076553": {
+   "fragment_id": "114074522",
+   "type": 11,
+   "heading": "Artigo 30.º — Relatório de análise de segurança",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 30.º — Relatório de análise de segurança\n\n1 - O operador elabora o relatório de análise de segurança da instalação nuclear, aprovado pela autoridade reguladora aquando do respetivo licenciamento, atendendo às boas práticas internacionais para a natureza e tipo de instalação em causa e reconhecidas pela Agência Internacional de Energia Atómica.\n\n2 - No relatório, o operador deve demonstrar a forma como cumpre os requisitos nacionais de segurança nuclear e controlo radiológico previstos no presente diploma e demais legislação vigente, os termos da licença, a política, o sistema e o regulamento da segurança nuclear na instalação e a gestão segura dos resíduos radioativos e do combustível.\n\n3 - O relatório de análise de segurança deve conter informação suficiente sobre a instalação nuclear e as suas condições de funcionamento, nomeadamente, o âmbito, termos e periodicidade da revisão periódica da instalação nuclear referida no artigo 32.º, a análise dos riscos de acidentes e acidentes com condições graves que possam ocorrer em todos os modos de funcionamento e da respetiva potencial exposição e contaminação radioativa e o plano de emergência interno referido no artigo 25.º, de modo a permitir a avaliação da segurança com base no mesmo.\n\n4 - O relatório de análise de segurança deve conter todas as medidas previstas para o desmantelamento da instalação referidas no n.º 2 do artigo 14.º.\n\n5 - O operador atualiza o relatório de análise de segurança sempre que necessário ou a autoridade reguladora o solicite com base no incumprimento do disposto no presente diploma e outra legislação vigente.\n\n6 - As alterações posteriores relevantes para a segurança da instalação nuclear são submetidas à aprovação da autoridade reguladora, no prazo previsto no n.º 1 do artigo 8.º, sem prejuízo do disposto no n.º 3 do mesmo artigo.\n\n7 - As alterações posteriores sem relevância para a segurança nuclear são notificadas à autoridade reguladora, no prazo previsto no número anterior, sendo que nas instalações nucleares de investigação, as referidas alterações são previamente aprovadas pela comissão de segurança.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076554": {
+   "fragment_id": "114074527",
+   "type": 11,
+   "heading": "Artigo 34.º — Medidas administrativas",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 34.º — Medidas administrativas\n\n1 - À autoridade reguladora compete determinar a aplicação de medidas corretivas, a suspensão da exploração, a alteração ou revogação da licença, incluindo o encerramento temporário ou definitivo das instalações, quando detetar situações de incumprimento das normas constantes no presente diploma, demais requisitos de segurança definidos em disposições regulamentares, e na respetiva licença de exploração, garantindo a eficácia e proporcionalidade das medidas impostas, em conformidade com o objetivo previsto no artigo 4.º\n\n2 - Em casos de manifesta urgência na decisão, nomeadamente em situações de risco para a saúde e segurança dos trabalhadores e do público em geral e para a preservação do ambiente, não há lugar à audição prévia dos titulares das licenças.\n\n3 - A imposição das medidas administrativas previstas neste artigo não exclui a responsabilidade contraordenacional, nem a efetivação da responsabilidade civil, criminal e disciplinar em que incorram os titulares das licenças nos termos do artigo seguinte e da demais legislação aplicável.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076555": {
+   "fragment_id": "114074528",
+   "type": 11,
+   "heading": "Artigo 35.º — Ilícitos de mera ordenação social",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 35.º — Ilícitos de mera ordenação social\n\n1 - Para efeitos do disposto no presente diploma, constitui contraordenação muito grave, punível com coima que pode variar entre dois terços do montante máximo da coima aplicável e o montante máximo previsto no regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual:\n\na) A operação da instalação sem licença de exploração ou com a licença caducada;\n\nb) A operação da instalação sem cumprimento de uma medida administrativa imposta nos termos do artigo anterior;\n\nc) A operação da instalação para além dos limites e dos níveis de segurança previstos na licença;\n\nd) O incumprimento dos deveres de notificação, em situações de emergência, à autoridade reguladora e entidades externas competentes.\n\ne) O incumprimento das disposições relativas à elaboração, implementação e teste do plano de emergência interno;\n\nf) O incumprimento das disposições relativas ao fornecimento da informação necessária à elaboração do plano de emergência externo.\n\n2 - Para efeitos do disposto no presente diploma, constitui contraordenação grave, punível com uma coima que pode variar entre metade do montante máximo da coima aplicável e dois terços do referido montante máximo previsto no regime geral do ilícito de mera ordenação social:\n\na) A inexistência de meios financeiros, humanos e materiais que permitam ao titular desempenhar as suas obrigações relativamente à segurança nuclear, bem como constituir, formar e treinar as equipas de operação e de proteção e segurança radiológica;\n\nb) O incumprimento das disposições relativas à conceção da instalação;\n\nc) O incumprimento das disposições relativas à organização, equipa de operação, equipa de proteção e segurança radiológica e formação e treino;\n\nd) A inexistência de uma comissão de segurança junto das instalações nucleares de investigação;\n\ne) O incumprimento das disposições relativas à política de segurança e ao sistema de gestão;\n\nf) A não previsão de medidas para o desmantelamento da instalação nuclear e registos complementares no relatório de análise de segurança;\n\ng) [Revogada.]\n\nh) [Revogada.]\n\ni) O incumprimento das disposições relativas aos planos de manutenção e revisões periódicas;\n\nj) O incumprimento das disposições relativas à classificação das estruturas, sistemas e componentes;\n\nk) A não disponibilização, quando obrigatória, aos trabalhadores e ao público em geral, das disposições relacionadas com a segurança nuclear nos termos do presente diploma;\n\nl) A recusa de colaboração ou obstrução à atividade de fiscalização da autoridade reguladora competente;\n\nm) A não disponibilização de informação a prestar à autoridade reguladora ou a prestação de informações falsas ou erróneas.\n\n3 - Para efeitos do disposto no presente diploma, constituem contraordenação leve, punível com uma coima que pode variar entre o montante mínimo e metade do montante máximo da coima aplicável previsto no regime geral do ilícito de mera ordenação social:\n\na) O incumprimento dos deveres de notificação, em situações de não emergência, nos termos e prazos previstos no presente diploma;\n\nb) O incumprimento das disposições relativas ao registo e arquivo de documentos.\n\n4 - A negligência é punível, sendo os limites mínimo e máximo das coimas reduzidos para metade.\n\n5 - A tentativa é punível com coima aplicável à contraordenação consumada, especialmente atenuada.\n\n6 - Quando a infração constitua a omissão de um dever, a aplicação das sanções correspondentes não isenta o titular da licença de cumprir esse mesmo dever no prazo indicado pela autoridade reguladora.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076556": {
+   "fragment_id": "114074534",
+   "type": 11,
+   "heading": "Artigo 40.º — Norma transitória",
+   "in_force_from": "2017-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+   ],
+   "markdown": "###### Artigo 40.º — Norma transitória\n\n1 - Os titulares de uma licença emitida antes da entrada em vigor do presente diploma dispõem de um ano, a contar da data da sua entrada em vigor, para demonstrar à autoridade reguladora que cumprem os requisitos nele definidos, devendo esta emitir correspondente certificação.\n\n2 - Sem prejuízo do disposto no número anterior, os titulares acima mencionados estão, desde a entrada em vigor do presente diploma, sujeitos a todos os deveres de notificação e cooperação com a autoridade reguladora nele estipulados\n\n3 - Excluindo as operações de desmantelamento, o disposto no n.º 4 do artigo 4.º só se aplica a instalações nucleares para as quais seja concedida licença de construção pela primeira vez após 14 de agosto de 2014, mas deverá ser utilizado como referência para a realização em tempo útil dos benefícios em matéria de segurança razoavelmente exequíveis nas instalações nucleares existentes, nomeadamente no quadro das revisões periódicas de segurança.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2017 - Diário da República n.º 203/2017, Série I de 2017-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494), em vigor a partir de 2017-10-21"
+  },
+  "114076538": {
+   "fragment_id": "114074537",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de outubro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Miguel Bento Martins Costa Macedo e Silva - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 10 de dezembro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de dezembro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

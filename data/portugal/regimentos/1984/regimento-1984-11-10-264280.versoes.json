@@ -1,0 +1,388 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:264280:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/regimento/1984-173909869",
+ "dre_path": "/dr/detalhe/regimento/1984-264280",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1984-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "173896139",
+    "1093634875",
+    "173896140",
+    "173896141",
+    "173896142",
+    "173896143",
+    "173896144",
+    "173896145",
+    "173896146",
+    "173896147",
+    "173896148",
+    "173896149",
+    "173896150",
+    "173896151",
+    "173896152",
+    "173896153",
+    "173896154",
+    "173896155",
+    "173896156",
+    "173896157",
+    "173896158",
+    "173896159",
+    "173896160",
+    "173896161"
+   ]
+  },
+  {
+   "date": "2001-04-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:313841:por",
+     "title": "Declaração de Rectificação n.º 13/2001",
+     "published": "2001-05-10",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/13-2001-313841"
+    },
+    {
+     "id": "pt:dre:165018:por",
+     "title": "Regimento do Conselho de Estado n.º 1/2001",
+     "published": "2001-04-26",
+     "dre_path": "/dr/detalhe/regimento-conselho-estado/1-2001-165018"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 13.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "173896139",
+    "173896140",
+    "173896141",
+    "173896142",
+    "173896143",
+    "173896144",
+    "173896145",
+    "173896146",
+    "173896147",
+    "173896148",
+    "173896149",
+    "173896150",
+    "173896151",
+    "173896152",
+    "173896153",
+    "173896154",
+    "173925452",
+    "173896156",
+    "173896157",
+    "173896158",
+    "173896159",
+    "173896160",
+    "173896161",
+    "173896162"
+   ]
+  },
+  {
+   "date": "2026-04-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1090808537:por",
+     "title": "Regimento do Conselho de Estado n.º 1-A/2026",
+     "published": "2026-04-23",
+     "dre_path": "/dr/detalhe/regimento-conselho-estado/1-a-2026-1090808537"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "173896139",
+    "1093634875",
+    "173896140",
+    "173896141",
+    "173896142",
+    "173896143",
+    "1093635175",
+    "173896145",
+    "173896146",
+    "173896147",
+    "173896148",
+    "173896149",
+    "173896150",
+    "173896151",
+    "173896152",
+    "1093635375",
+    "173896154",
+    "1093635575",
+    "173896156",
+    "173896157",
+    "173896158",
+    "173896159",
+    "1093635775",
+    "173896161",
+    "173896162"
+   ]
+  }
+ ],
+ "fragments": {
+  "173896139": {
+   "fragment_id": "173909870",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regimento\n\nO Regimento do Conselho de Estado até agora em vigor foi aprovado e publicado antes que a Assembleia da República houvesse, nos termos previstos nos artigos 120.º e 167.º, alínea g), da Constituição, emitido a lei respeitante ao estatuto dos membros do Conselho. Por tal razão, aquele Regimento qualificou-se a si próprio como Regimento Provisório do Conselho de Estado e determinou, no seu artigo 22.º, que fosse revisto no prazo de 60 dias contado da entrada em vigor da mencionada lei.\n\nA definição do estatuto dos membros do Conselho de Estado veio a ser efectuada pela Lei n.º 31/84, de 6 de Setembro, entrada em vigor a 10 do mesmo mês. Há assim, nos termos do artigo 22.º do Regimento Provisório, que proceder à revisão desse Regimento e à aprovação do regimento definitivo, que substitui o primeiro, contendo embora apenas as modificações resultantes da publicação da Lei n.º 31/84. Tais modificações traduziram-se designadamente na supressão de todos os preceitos regimentais atinentes a matérias que aquela lei regulou.\n\nAssim, o Conselho de Estado, nos termos do artigo 147.º, n.º 1, da Constituição, aprova o seguinte:\n\nREGIMENTO DO CONSELHO DE ESTADO"
+  },
+  "1093634875": {
+   "fragment_id": "1093634775",
+   "type": 4,
+   "heading": "REGIMENTO DO CONSELHO DE ESTADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## REGIMENTO DO CONSELHO DE ESTADO"
+  },
+  "173896140": {
+   "fragment_id": "173909871",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e composição"
+  },
+  "173896141": {
+   "fragment_id": "173909872",
+   "type": 11,
+   "heading": "Artigo 1.º — (Definição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Definição)\n\nO Conselho de Estado é o órgão político de consulta do Presidente da República."
+  },
+  "173896142": {
+   "fragment_id": "173909873",
+   "type": 11,
+   "heading": "Artigo 2.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Composição)\n\nO Conselho de Estado é presidido pelo Presidente da República e composto pelos seguintes membros:\n\na) O Presidente da Assembleia da República;\n\nb) O Primeiro-Ministro;\n\nc) O presidente do Tribunal Constitucional;\n\nd) O Provedor de Justiça;\n\ne) Os presidentes dos governos regionais;\n\nf) Os antigos presidentes da República eleitos na vigência da Constituição que não hajam sido destituídos do cargo;\n\ng) 5 cidadãos designados pelo Presidente da República pelo período correspondente à duração do seu mandato;\n\nh) 5 cidadãos eleitos pela Assembleia da República, de harmonia com o princípio da representação proporcional, pelo período correspondente à duração da legislatura."
+  },
+  "173896143": {
+   "fragment_id": "173909874",
+   "type": 1,
+   "heading": "Capítulo II — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Competência"
+  },
+  "173896144": {
+   "fragment_id": "173925175",
+   "type": 11,
+   "heading": "Artigo 3.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Competência)\n\n1 - Compete ao Conselho de Estado:\n\na) Pronunciar-se sobre a dissolução da Assembleia da República e dos órgãos das regiões autónomas;\n\nb) Pronunciar-se sobre a demissão do Governo, no caso previsto no n.º 2 do artigo 198.º da Constituição;\n\nc) Pronunciar-se sobre a nomeação e a exoneração dos ministros da República para as regiões autónomas;\n\nd) Pronunciar-se sobre a declaração da guerra e a feitura da paz;\n\ne) Pronunciar-se sobre as propostas de alteração ou substituição do estatuto do território de Macau, nos termos do n.º 2 do artigo 296.º da Constituição;\n\nf) Aconselhar o Presidente da República no exercício das suas funções, quando este lho solicitar;\n\ng) Aprovar e modificar o seu Regimento, interpretar as suas disposições e integrar as suas lacunas;\n\nh) Praticar os actos previstos na Lei n.º 31/84, de 6 de Setembro, e aqueles que o são no presente Regimento.\n\n2 - Durante o impedimento temporário do Presidente da República, bem como durante a vagatura do cargo até tomar posse o novo presidente eleito, compete ainda ao Conselho de Estado pronunciar-se sobre os seguintes actos do Presidente da República interino:\n\na) Marcação dos dias das eleições do Presidente da República e dos deputados à Assembleia da República e às assembleias regionais, de harmonia com a Lei Eleitoral;\n\nb) Convocação extraordinária da Assembleia da República;\n\nc) Nomeação do Primeiro-Ministro, nos termos do n.º 1 do artigo 190.º da Constituição;\n\nd) Nomeação e exoneração, sob proposta do Governo, do presidente do Tribunal de Contas e do procurador-geral da República;\n\ne) Nomeação e exoneração, sob proposta do Governo, do Chefe do Estado-Maior-General das Forças Armadas, do Vice-Chefe do Estado-Maior-General das Forças Armadas, quando exista, e dos chefes de estado-maior dos três ramos das Forças Armadas, ouvido, nestes dois últimos casos, o Chefe do Estado-Maior-General das Forças Armadas;\n\nf) Exercício das funções de comandante supremo das Forças Armadas;\n\ng) Nomeação dos embaixadores e dos enviados extraordinários, sob proposta do Governo, e aceitação de credenciais dos representantes diplomáticos estrangeiros."
+  },
+  "173896145": {
+   "fragment_id": "173925176",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento"
+  },
+  "173896146": {
+   "fragment_id": "173925177",
+   "type": 11,
+   "heading": "Artigo 4.º — (Iniciativa e presidência das reuniões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Iniciativa e presidência das reuniões)\n\n1 - O Conselho de Estado é presidido pelo Presidente da República, a quem compete a iniciativa de convocar as suas reuniões, a fixação da ordem de trabalhos e a direcção destes.\n\n2 - O Conselho de Estado não pode reunir sem a presença do Presidente da República."
+  },
+  "173896147": {
+   "fragment_id": "173925178",
+   "type": 11,
+   "heading": "Artigo 5.º — (Convocatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Convocatória)\n\n1 - As reuniões devem ser convocadas, salvo caso de excepcional urgência, com a antecedência mínima de 3 dias.\n\n2 - Também, salvo caso de excepcional urgência, a convocação será transmitida aos membros do Conselho por forma escrita, devendo da convocatória constar sempre o dia e a hora da reunião, bem como a respectiva ordem de trabalhos.\n\n3 - Cabe ao secretário do Conselho de Estado promover o envio das convocatórias para as reuniões com a antecedência necessária para assegurar o respeito do prazo previsto no n.º 1."
+  },
+  "173896148": {
+   "fragment_id": "173925179",
+   "type": 11,
+   "heading": "Artigo 6.º — (Local das reuniões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Local das reuniões)\n\nAs reuniões do Conselho de Estado terão lugar em instalações da Presidência da República ou no local que for designado pelo Presidente da República."
+  },
+  "173896149": {
+   "fragment_id": "173925180",
+   "type": 11,
+   "heading": "Artigo 7.º — (Forma das reuniões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Forma das reuniões)\n\nO Conselho de Estado funciona sempre em reuniões plenárias, ressalvado o disposto no n.º 2 do artigo 12.º"
+  },
+  "173896150": {
+   "fragment_id": "173925181",
+   "type": 11,
+   "heading": "Artigo 8.º — (Quórum de funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Quórum de funcionamento)\n\n1 - O Conselho de Estado só pode funcionar, em primeira convocação, estando presente a maioria do número dos seus membros em efectividade de funções.\n\n2 - Não se realizando reunião por inexistência de quórum, pode o Conselho, em nova convocação, com a mesma ordem de trabalhos e observados os termos do n.º 1 do artigo 5.º, funcionar com qualquer número de membros."
+  },
+  "173896151": {
+   "fragment_id": "173925182",
+   "type": 11,
+   "heading": "Artigo 9.º — (Audiência do Conselho de Estado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Audiência do Conselho de Estado)\n\n1 - Salvos os casos previstos na alínea f) do n.º 1 do artigo 3.º, o Conselho de Estado pronuncia-se sempre mediante votação.\n\n2 - Nos casos previstos na alínea f) do n.º 1 do artigo 3.º, o Presidente da República pode limitar-se a ouvir os membros do Conselho, sem proceder a votação."
+  },
+  "173896152": {
+   "fragment_id": "173925183",
+   "type": 11,
+   "heading": "Artigo 10.º — (Votação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Votação)\n\n1 - Os pareceres e deliberações do Conselho de Estado são tirados à pluralidade absoluta dos votos.\n\n2 - A votação será sempre nominal, ressalvado o disposto no artigo 12.º, n.º 3.\n\n3 - Não é admitida a abstenção."
+  },
+  "173896153": {
+   "fragment_id": "173925184",
+   "type": 11,
+   "heading": "Artigo 11.º — (Pareceres)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Pareceres)\n\n1 - Os pareceres do Conselho de Estado podem ser escritos ou verbais.\n\n2 - São necessariamente escritos os pareceres previstos nas alíneas a) a e) do n.º 1 e no n.º 2 do artigo 3.º\n\n3 - Os demais pareceres só terão forma escrita no caso de o Presidente da República assim o solicitar.\n\n4 - Quando houver lugar à elaboração de pareceres no exercício da competência referida na alínea e) do n.º 1 do artigo 3.º, o Conselho designará um relator.\n\n5 - Os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º serão emitidos na reunião que para o efeito tiver sido convocada, sem prejuízo da possibilidade de suspensão dos trabalhos pelo Presidente da República por razões que julgue fundadas."
+  },
+  "173896154": {
+   "fragment_id": "173925185",
+   "type": 11,
+   "heading": "Artigo 12.º — (Deliberações respeitantes a membros do Conselho de Estado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Deliberações respeitantes a membros do Conselho de Estado)\n\n1 - A deliberação sobre a declaração de impossibilidade física permanente de membro do Conselho de Estado, prevista no artigo 7.º, n.º 2, da Lei n.º 31/84, será necessariamente precedida de exame efectuado por ao menos 3 médicos designados pelo Conselho.\n\n2 - A deliberação sobre autorização para que um membro do Conselho de Estado seja perito, testemunha ou declarante, prevista no artigo 15.º, n.º 2, da Lei n.º 31/84, será necessariamente precedida de audiência do membro do Conselho em causa, efectuada pelo Presidente da República ou pelo próprio Conselho, podendo neste caso a vontade do órgão ser apurada através de consulta escrita dirigida a cada um dos seus membros.\n\n3 - A deliberação sobre a suspensão de membro do Conselho de Estado, prevista no artigo 14.º, n.º 2, da Lei n.º 31/84, será tomada por escrutíneo secreto.\n\n4 - Nas deliberações referidas no presente artigo o membro do Conselho de Estado a que respeitem não poderá votar."
+  },
+  "173896155": {
+   "fragment_id": "173925186",
+   "type": 11,
+   "heading": "Artigo 13.º — (Actas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Actas)\n\n1 - De tudo o que ocorrer nas reuniões do Conselho de Estado será lavrada acta em livro especial, cujos termos de abertura e encerramento serão assinados pelo Presidente da República.\n\n2 - O projecto de acta de cada reunião será redigido pelo secretário, que o remeterá aos membros do Conselho de Estado para ser submetida à aprovação deste no início da reunião seguinte, salvo se o Conselho deliberar a elaboração e aprovação da acta na própria reunião a que respeite.\n\n3 - As actas, depois de lançadas no livro respectivo, serão subscritas pelo secretário e assinadas pelo Presidente da República."
+  },
+  "173896156": {
+   "fragment_id": "173925187",
+   "type": 11,
+   "heading": "Artigo 14.º — (Serviços de expediente e apoio)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Serviços de expediente e apoio)\n\nOs serviços de expediente e apoio do Conselho de Estado serão assegurados pela Secretaria-Geral da Presidência da República, que, para o efeito, colocará à disposição do Conselho os meios necessários."
+  },
+  "173896157": {
+   "fragment_id": "173925188",
+   "type": 1,
+   "heading": "Capítulo IV — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Publicidade"
+  },
+  "173896158": {
+   "fragment_id": "173925189",
+   "type": 11,
+   "heading": "Artigo 15.º — (Natureza das reuniões e dever de sigilo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Natureza das reuniões e dever de sigilo)\n\n1 - As reuniões do Conselho de Estado não são públicas.\n\n2 - Os membros do Conselho de Estado e o secretário têm o dever de sigilo quanto ao objecto e conteúdo das reuniões e quanto às deliberações tomadas e pareceres emitidos, ressalvado o disposto nos artigos seguintes."
+  },
+  "173896159": {
+   "fragment_id": "173925190",
+   "type": 11,
+   "heading": "Artigo 16.º — (Divulgação do conteúdo das reuniões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Divulgação do conteúdo das reuniões)\n\nO Presidente e o Conselho poderão concordar na publicação, após as reuniões, de uma nota informativa, na qual se indique, de forma sucinta, a totalidade ou parte do objecto da reunião e dos seus resultados."
+  },
+  "173896160": {
+   "fragment_id": "173925191",
+   "type": 11,
+   "heading": "Artigo 17.º — (Publicação dos pareceres)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Publicação dos pareceres)\n\n1 - São obrigatoriamente publicados:\n\na) Os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º, se o Presidente da República praticar os actos de que constituem requisito;\n\nb) O parecer previsto na alínea e) do n.º 1 do artigo 3.º\n\n2 - A publicação dos pareceres referidos na alínea a) do número anterior será simultânea com a dos actos a que aqueles respeitem.\n\n3 - Os demais pareceres só serão publicados se o Presidente da República assim o determinar.\n\n4 - A publicação efectuar-se-á na 1.ª série do Diário da República."
+  },
+  "173896161": {
+   "fragment_id": "173925192",
+   "type": 11,
+   "heading": "Artigo 18.º — (Publicação da entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Publicação da entrada em vigor)\n\n1 - Este Regimento entra em vigor na data da sua publicação.\n\n2 - A publicação será efectuada na 1.ª série do Diário da República, por ordem do Presidente da República.\n\n3 - O texto remetido para publicação levará a indicação da aprovação pelo Conselho, com a respectiva data, e será assinado pelo Presidente da República.\n\n4 - Fica revogado o Regimento Provisório do Conselho de Estado, aprovado em 30 de Março e publicado em 18 de Abril de 1984."
+  },
+  "173925452": {
+   "fragment_id": "173925186",
+   "type": 11,
+   "heading": "Artigo 13.º — (Actas)",
+   "in_force_from": "2001-04-26",
+   "changed_by": [
+    "Alterado pelo/a [Regimento do Conselho de Estado n.º 1/2001 - Diário da República n.º 97/2001, Série I-A de 2001-04-26](https://diariodarepublica.pt/dr/detalhe/regimento-conselho-estado/1-2001-165018), em vigor a partir de 2001-04-26"
+   ],
+   "markdown": "###### Artigo 13.º — (Actas)\n\n1 - De tudo o que ocorrer nas reuniões do Conselho de Estado será lavrada acta em livro especial, cujos termos de abertura e encerramento serão assinados pelo Presidente da República.\n\n2 - O projecto de acta de cada reunião será redigido pelo secretário, que o remeterá aos membros do Conselho de Estado para ser submetida à aprovação deste no início da reunião seguinte, salvo se o Conselho deliberar a elaboração e aprovação da acta na própria reunião a que respeite.\n\n3 - As actas, depois de lançadas no livro respectivo, serão subscritas pelo secretário e assinadas pelo Presidente da República.\n\n4 - As actas do Conselho de Estado não podem ser consultadas nem divulgadas, durante um período de 30 anos a contar do final do mandato presidencial em que se realizaram as reuniões a que respeitam.\n\n5 - Ficam ressalvadas a consulta e divulgação das actas, no todo em parte, em casos excepcionais por decisão do Presidente da República.\n\n6 - Após o referido período de 30 anos, a consulta e a divulgação das actas podem ser efectuadas por solicitação dirigida ao Presidente da República.\n\n7 - A consulta ou divulgação das actas, nos termos dos números anteriores, será sempre assegurada pelo secretário do Conselho de Estado e pelos serviços da Presidência da República.\n\n> Alterado pelo/a [Regimento do Conselho de Estado n.º 1/2001 - Diário da República n.º 97/2001, Série I-A de 2001-04-26](https://diariodarepublica.pt/dr/detalhe/regimento-conselho-estado/1-2001-165018), em vigor a partir de 2001-04-26"
+  },
+  "173896162": {
+   "fragment_id": "173925193",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pelo Conselho de Estado em 7 de Novembro de 1984.\n\nAssinado em 10 de Novembro de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "1093635175": {
+   "fragment_id": "173925175",
+   "type": 11,
+   "heading": "Artigo 3 — (Competência)",
+   "in_force_from": "2026-04-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a , em vigor a partir de 2026-04-24, com efeitos a partir de 2026-03-09."
+   ],
+   "markdown": "###### Artigo 3 — (Competência)\n\n1 - Compete ao Conselho de Estado:\n\na) Pronunciar-se sobre a dissolução da Assembleia da República e das assembleias legislativas das regiões autónomas;\n\nb) Pronunciar-se sobre a demissão do Governo, no caso previsto no n.º 2 do artigo 195.º da Constituição;\n\nc) [Revogada.]\n\nd) Pronunciar-se sobre a declaração da guerra e a feitura da paz;\n\ne) [Revogada.]\n\nf) Aconselhar o Presidente da República no exercício das suas funções, quando este lho solicitar;\n\ng) Aprovar e modificar o seu Regimento, interpretar as suas disposições e integrar as suas lacunas;\n\nh) Praticar os atos previstos na Lei n.º 31/84, de 6 de Setembro, e aqueles que o são no presente Regimento.\n\n2 - Durante o impedimento temporário do Presidente da República, bem como durante a vagatura do cargo até tomar posse o novo presidente eleito, compete ainda ao Conselho de Estado pronunciar-se sobre os seguintes atos do Presidente da República interino:\n\na) Marcação dos dias das eleições do Presidente da República e dos deputados à Assembleia da República e às assembleias legislativas das regiões autónomas, de harmonia com a Lei Eleitoral;\n\nb) Convocação extraordinária da Assembleia da República;\n\nc) Nomeação do Primeiro-Ministro, nos termos do n.º 1 do artigo 187.º da Constituição;\n\nd) Nomeação e exoneração, sob proposta do Governo, do presidente do Tribunal de Contas e do procurador-geral da República;\n\ne) Nomeação e exoneração, sob proposta do Governo, do Chefe do Estado-Maior-General das Forças Armadas, do Vice-Chefe do Estado-Maior-General das Forças Armadas, quando exista, e dos chefes de estado-maior dos três ramos das Forças Armadas, ouvido, nestes dois últimos casos, o Chefe do Estado-Maior-General das Forças Armadas;\n\nf) Exercício das funções de comandante supremo das Forças Armadas;\n\ng) Nomeação dos embaixadores e dos enviados extraordinários, sob proposta do Governo, e aceitação de credenciais dos representantes diplomáticos estrangeiros.\n\n> Alterado pelo/a Artigo 1.º do/a , em vigor a partir de 2026-04-24, com efeitos a partir de 2026-03-09."
+  },
+  "1093635375": {
+   "fragment_id": "173925184",
+   "type": 11,
+   "heading": "Artigo 11 — (Pareceres)",
+   "in_force_from": "2026-04-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a , em vigor a partir de 2026-04-24, com efeitos a partir de 2026-03-09."
+   ],
+   "markdown": "###### Artigo 11 — (Pareceres)\n\n1 - Os pareceres do Conselho de Estado podem ser escritos ou verbais.\n\n2 - São necessariamente escritos os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º\n\n3 - Os demais pareceres só terão forma escrita no caso de o Presidente da República assim o solicitar.\n\n4 - [Revogado.]\n\n5 - Os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º serão emitidos na reunião que para o efeito tiver sido convocada, sem prejuízo da possibilidade de suspensão dos trabalhos pelo Presidente da República por razões que julgue fundadas.\n\n> Alterado pelo/a Artigo 1.º do/a , em vigor a partir de 2026-04-24, com efeitos a partir de 2026-03-09."
+  },
+  "1093635575": {
+   "fragment_id": "173925186",
+   "type": 11,
+   "heading": "Artigo 13 — (Atas)",
+   "in_force_from": "2026-04-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a , em vigor a partir de 2026-04-24, com efeitos a partir de 2026-03-09.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 13/2001 - Diário da República n.º 108/2001, Série I-A de 2001-05-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-2001-313841), em vigor a partir de 2001-04-26",
+    "Alterado pelo/a [Regimento do Conselho de Estado n.º 1/2001 - Diário da República n.º 97/2001, Série I-A de 2001-04-26](https://diariodarepublica.pt/dr/detalhe/regimento-conselho-estado/1-2001-165018), em vigor a partir de 2001-04-26"
+   ],
+   "markdown": "###### Artigo 13 — (Atas)\n\n1 - De tudo o que ocorrer nas reuniões do Conselho de Estado é lavrada ata, em formato eletrónico, arquivada em condições que garantam a sua confidencialidade.\n\n2 - O projeto de ata de cada reunião será redigido pelo secretário, que o remeterá aos membros do Conselho de Estado para ser submetida à aprovação deste no início da reunião seguinte, salvo se o Conselho deliberar a elaboração e aprovação da ata na própria reunião a que respeite.\n\n3 - As atas, depois de aprovadas, são assinadas digitalmente pelo secretário do Conselho de Estado, impressas, assinadas pelo Presidente da República e mantidas em arquivo que garanta a sua confidencialidade.\n\n4 - As atas do Conselho de Estado não podem ser consultadas nem divulgadas, durante um período de 30 anos a contar do final do mandato presidencial em que se realizaram as reuniões a que respeitam.\n\n5 - Ficam ressalvadas a consulta e divulgação das atas, no todo ou em parte, em casos excecionais por decisão do Presidente da República.\n\n6 - Após o referido período de 30 anos, a consulta e a divulgação das atas podem ser efetuadas por solicitação dirigida ao Presidente da República.\n\n7 - A consulta ou divulgação das atas, nos termos dos números anteriores, será sempre assegurada pelo secretário do Conselho de Estado e pelos serviços da Presidência da República.\n\n> Alterado pelo/a Artigo 1.º do/a , em vigor a partir de 2026-04-24, com efeitos a partir de 2026-03-09.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 13/2001 - Diário da República n.º 108/2001, Série I-A de 2001-05-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-2001-313841), em vigor a partir de 2001-04-26\n\n> Alterado pelo/a [Regimento do Conselho de Estado n.º 1/2001 - Diário da República n.º 97/2001, Série I-A de 2001-04-26](https://diariodarepublica.pt/dr/detalhe/regimento-conselho-estado/1-2001-165018), em vigor a partir de 2001-04-26"
+  },
+  "1093635775": {
+   "fragment_id": "173925191",
+   "type": 11,
+   "heading": "Artigo 17 — (Publicação dos pareceres)",
+   "in_force_from": "2026-04-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a , em vigor a partir de 2026-04-24, com efeitos a partir de 2026-03-09."
+   ],
+   "markdown": "###### Artigo 17 — (Publicação dos pareceres)\n\n1 - São obrigatoriamente publicados os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º se o Presidente da República praticar os atos de que constituem requisito.\n\n2 - A publicação dos pareceres referidos no número anterior é simultânea com a dos atos a que aqueles respeitem.\n\n3 - Os demais pareceres só serão publicados se o Presidente da República assim o determinar.\n\n4 - A publicação efectuar-se-á na 1.ª série do Diário da República.\n\n> Alterado pelo/a Artigo 1.º do/a , em vigor a partir de 2026-04-24, com efeitos a partir de 2026-03-09."
+  }
+ }
+}

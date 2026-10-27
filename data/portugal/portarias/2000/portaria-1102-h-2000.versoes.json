@@ -1,0 +1,712 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:284925:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-107716330",
+ "dre_path": "/dr/detalhe/portaria/1102-h-2000-284925",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-11-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "216056764",
+    "107693663",
+    "107693664",
+    "107693665",
+    "107693666",
+    "107693667",
+    "107693668",
+    "107693669",
+    "107693670",
+    "107693671",
+    "107693672",
+    "107693673",
+    "107717875",
+    "107717876"
+   ]
+  },
+  {
+   "date": "2001-04-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:356770:por",
+     "title": "Portaria n.º 386/2001",
+     "published": "2001-04-14",
+     "dre_path": "/dr/detalhe/portaria/386-2001-356770"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "107693662",
+    "107693663",
+    "107693664",
+    "107693665",
+    "107693666",
+    "107717881",
+    "107717882",
+    "107693669",
+    "107693670",
+    "107693671",
+    "107693672",
+    "107717883",
+    "107693674",
+    "107717884",
+    "107717885"
+   ]
+  },
+  {
+   "date": "2007-07-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:635816:por",
+     "title": "Portaria n.º 759/2007",
+     "published": "2007-07-03",
+     "dre_path": "/dr/detalhe/portaria/759-2007-635816"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "107693662",
+    "107693663",
+    "107693664",
+    "107693665",
+    "107693666",
+    "107717881",
+    "107717890",
+    "107693669",
+    "107693670",
+    "107693671",
+    "107693672",
+    "107717891",
+    "107693674",
+    "107717892",
+    "107717885"
+   ]
+  },
+  {
+   "date": "2009-09-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:489484:por",
+     "title": "Portaria n.º 983/2009",
+     "published": "2009-09-03",
+     "dre_path": "/dr/detalhe/portaria/983-2009-489484"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "107693662",
+    "107693663",
+    "107693664",
+    "107693665",
+    "107693666",
+    "107717881",
+    "107717897",
+    "107693669",
+    "107693670",
+    "107717898",
+    "107693672",
+    "107717899",
+    "107693674",
+    "107717892",
+    "107717900"
+   ]
+  },
+  {
+   "date": "2010-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:333869:por",
+     "title": "Portaria n.º 594/2010",
+     "published": "2010-07-29",
+     "dre_path": "/dr/detalhe/portaria/594-2010-333869"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "107693662",
+    "107693663",
+    "107693664",
+    "107693665",
+    "107693666",
+    "107717881",
+    "107717897",
+    "107693669",
+    "107693670",
+    "107717898",
+    "107693672",
+    "107717905",
+    "107693674",
+    "107717892",
+    "107717900"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:145188:por",
+     "title": "Portaria n.º 315/2011",
+     "published": "2011-12-29",
+     "dre_path": "/dr/detalhe/portaria/315-2011-145188"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "107693662",
+    "107693663",
+    "107693664",
+    "107693665",
+    "107693666",
+    "107717881",
+    "107717897",
+    "107693669",
+    "107693670",
+    "107717906",
+    "107693672",
+    "107717905",
+    "107693674",
+    "107717892",
+    "107717900"
+   ]
+  },
+  {
+   "date": "2017-07-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107714214:por",
+     "title": "Portaria n.º 220/2017",
+     "published": "2017-07-20",
+     "dre_path": "/dr/detalhe/portaria/220-2017-107714214"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "107693662",
+    "107693663",
+    "107693664",
+    "107693665",
+    "107693666",
+    "107717911",
+    "107717897",
+    "107693669",
+    "107693670",
+    "107717906",
+    "107693672",
+    "107717905",
+    "107693674",
+    "107717892",
+    "107717900"
+   ]
+  },
+  {
+   "date": "2023-07-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215980344:por",
+     "title": "Portaria n.º 227/2023",
+     "published": "2023-07-21",
+     "dre_path": "/dr/detalhe/portaria/227-2023-215980344"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "216056764",
+    "216056765",
+    "216056766",
+    "216056767",
+    "216056768",
+    "216056769",
+    "216056770",
+    "216056771",
+    "216056772",
+    "216056773",
+    "216056774",
+    "216055975",
+    "216055976",
+    "216055977",
+    "216055978"
+   ]
+  }
+ ],
+ "fragments": {
+  "216056764": {
+   "fragment_id": "107716331",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-26",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1102-H/2000\n\nde 22 de Novembro\n\nO Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que define as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, determina no seu artigo 3.º quais os métodos de pesca admitidos em águas oceânicas e em águas interiores marítimas, remetendo para portaria do membro do Governo responsável pelo sector das pescas o estabelecimento das disposições reguladoras das características das artes e condições de exercício da pesca por qualquer daqueles métodos.\n\nCom a presente portaria regulamenta-se o método de pesca denominado «pesca por rede de emalhar», dando cumprimento ao citado normativo.\n\nAssim, ao abrigo do disposto no artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o Regulamento da Pesca por Arte de Emalhar, que faz parte integrante da presente portaria.\n\n2.º É revogada a Portaria n.º 1243/92, de 31 de Dezembro.\n\n3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nREGULAMENTO DA PESCA POR ARTE DE EMALHAR"
+  },
+  "107693663": {
+   "fragment_id": "107716332",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de exercício da pesca por rede de emalhar."
+  },
+  "107693664": {
+   "fragment_id": "107716333",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição da arte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição da arte\n\nPor pesca por rede de emalhar entende-se qualquer método de pesca que utiliza estrutura de rede com forma rectangular, constituída por um, dois ou três panos de diferente malhagem, mantidos em posição vertical por meio de cabos de flutuação e cabos de lastros, que pode actuar isolada ou em «caçadas» (conjunto de redes ligadas entre si, ficando os espécimes presos na própria rede)."
+  },
+  "107693665": {
+   "fragment_id": "107716334",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipos\n\n1 - A pesca por rede de emalhar pode ser exercida com redes de emalhar que se integrem num dos seguintes grupos:\n\na) Redes de emalhar de um pano;\n\nb) Redes de emalhar de três panos justapostos ou redes de tresmalho.\n\n2 - As redes de emalhar podem ser fundeadas ou de deriva.\n\n3 - Só é permitido o uso de redes de emalhar de um pano de deriva na classe de malhagem de 35 mm a 40 mm.\n\n4 - É proibido o uso de redes de tresmalho de deriva.\n\n5 - É proibido o uso de redes de tresmalho e de emalhar de deriva nas águas da subárea da Madeira da zona económica exclusiva (ZEE)."
+  },
+  "107693666": {
+   "fragment_id": "107716335",
+   "type": 11,
+   "heading": "Artigo 4.º — Áreas de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Áreas de pesca\n\n1 - É proibido o exercício da pesca com redes de emalhar a uma distância inferior a um quarto de milha da linha de costa, com excepção do disposto no n.º 4 e da pesca com rede «majoeira».\n\n2 - Entre um quarto de milha e 1 milha de distância à linha de costa, a pesca com redes de emalhar só pode ser exercida por embarcações de comprimento de fora a fora (cff) não superior a 9 m.\n\n3 - É proibido o exercício da pesca com redes de emalhar a uma distância inferior a 1 milha da linha de costa, nas águas da subárea da Madeira da ZEE.\n\n4 - O disposto no n.º 1 não se aplica nas águas da subárea dos Açores da ZEE."
+  },
+  "107693667": {
+   "fragment_id": "107716336",
+   "type": 11,
+   "heading": "Artigo 5.º — Classes de malhagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Classes de malhagens\n\n1 - Sem prejuízo do disposto nos números seguintes e do estabelecido para a pesca com majoeira, as classes de malhagens das redes de emalhar de um pano são as fixadas no anexo I ao presente Regulamento.\n\n2 - Por fora das 15 milhas de distância à linha de costa, só é permitido utilizar tresmalhos de fundo com malhagem, no miúdo, superior a 240 mm.\n\n3 - Sem prejuízo do disposto no n.º 6, por dentro das 15 milhas de distância à linha de costa só é permitido utilizar tresmalhos de fundo com as seguintes classes de malhagens no miúdo:\n\na) Na zona delimitada a norte pela linha de costa, a sul e a leste pelo limite da subárea do continente da ZEE e a oeste pelo meridiano que passa pelo farol do cabo de São Vicente (8º 59' 8\" W.) - classes de 80 mm a 99 mm e maior ou igual a 100 mm;\n\nb) Nas restantes áreas da ZEE nacional - classe igual ou maior que 100 mm.\n\n4 - As capturas existentes a bordo, realizadas com rede de emalhar, devem obrigatoriamente incluir, em função da classe de malhagem, uma percentagem de espécies alvo, referidas no anexo I ao presente Regulamento, não inferior a 70%.\n\n5 - Nos tresmalhos de fundo a relação mínima entre a malhagem do miúdo e a das alvitanas é de 1 para 4.\n\n6 - Na subárea da Madeira da ZEE apenas podem ser licenciadas redes de emalhar com malhagem igual ou superior a 120 mm, com a qual se poderão capturar todas as espécies."
+  },
+  "107693668": {
+   "fragment_id": "107716337",
+   "type": 11,
+   "heading": "Artigo 6.º — Dimensões das redes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dimensões das redes\n\n1 - O comprimento máximo do conjunto de redes de emalhar que cada embarcação pode calar é determinado em função do comprimento de fora a fora da embarcação (cff), não podendo exceder os limites fixados no anexo II ao presente Regulamento.\n\n2 - Sem prejuízo do disposto no número anterior, cada caçada não pode exceder 4000 m.\n\n3 - A altura das redes de emalhar não pode exceder as medidas constantes do anexo II ao presente Regulamento.\n\n4 - O disposto nos números anteriores não se aplica às redes majoeiras."
+  },
+  "107693669": {
+   "fragment_id": "107716338",
+   "type": 11,
+   "heading": "Artigo 7.º — Distância entre redes caladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Distância entre redes caladas\n\n1 - A distância mínima de calagem entre caçadas é de um quarto de milha.\n\n2 - O disposto no número anterior não se aplica às redes majoeiras."
+  },
+  "107693670": {
+   "fragment_id": "107716339",
+   "type": 11,
+   "heading": "Artigo 8.º — Tempo de calagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tempo de calagem\n\nAs redes de emalhar não podem permanecer caladas por mais de vinte e quatro horas consecutivas, salvo em casos de força maior devidamente comprovados, ou setenta e duas horas se estiverem incluídas na classe de malhagem igual ou superior a 100 mm e operarem em profundidades superiores a 300 m."
+  },
+  "107693671": {
+   "fragment_id": "107716340",
+   "type": 11,
+   "heading": "Artigo 9.º — Espécies proibidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Espécies proibidas\n\n1 - Sem prejuízo do disposto no número seguinte é proibida a utilização de redes de emalhar na captura de crustáceos.\n\n2 - É permitida a captura acessória de um máximo de 5% de crustáceos, em peso vivo, por viagem."
+  },
+  "107693672": {
+   "fragment_id": "107716341",
+   "type": 11,
+   "heading": "Artigo 10.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Licenciamento\n\n1 - As embarcações com cff inferior ou igual a 9 m podem ser licenciadas, em simultâneo, para qualquer das classes de malhagem fixadas no anexo I ao presente Regulamento, para redes de emalhar de fundo de um pano.\n\n2 - As embarcações com cff superior a 9 m não poderão ser licenciadas para redes de emalhar de fundo na classe de malhagem de 60 mm a 79 mm, em simultâneo com qualquer outra classe de malhagem fixada no anexo I ao presente Regulamento para as redes de emalhar de fundo de um pano."
+  },
+  "107693673": {
+   "fragment_id": "107716342",
+   "type": 11,
+   "heading": "Artigo 11.º — Pesca com majoeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pesca com majoeiras\n\n1 - Nas áreas de jurisdição marítima das capitanias do porto do Douro até à da Nazaré inclusive, é permitida a pesca com redes de tresmalho fundeadas sem auxílio de embarcação, vulgarmente designadas por majoeiras, de acordo com as seguintes condicionantes:\n\na) Cada pescador só pode operar com um total de oito redes, com as quais poderá armar um máximo de quatro caçadas;\n\nb) Não é permitido calar as redes referidas neste artigo a uma distância inferior a 40 m entre caçadas;\n\nc) As dimensões máximas de cada rede são as seguintes:\n\ni) Comprimento - 10 m;\n\nii) Altura - 2 m.\n\nd) A malhagem mínima autorizada é de 110 mm no miúdo e de 500 mm nas alvitanas;\n\ne) As redes deverão ser identificadas e sinalizadas nos termos definidos na legislação em vigor, delas devendo constar o número de inscrito marítimo ou da licença, e cada extremo da rede deverá ser sinalizado com uma bóia de cor vermelha de pelo menos 20 cm de diâmetro;\n\nf) A utilização destas redes apenas é permitida entre 1 de Outubro e 30 de Abril de cada ano, com excepção dos sábados, domingos e feriados;\n\ng) O número máximo de licenças é estabelecido em 80, podendo ser alterado por despacho do membro do Governo responsável pelo sector das pescas;\n\nh) Os pescadores apenas poderão operar na área de jurisdição da capitania onde residem e nas zonas para o efeito demarcadas pela autoridade marítima.\n\n2 - Apenas serão licenciados para o uso desta arte os pescadores que façam parte das companhas de xávega, sendo dentre estes dada prioridade aos inscritos marítimos.\n\n3 - O pedido de licença, a ser apresentado à Direcção-Geral das Pescas e Aquicultura, deverá ser acompanhado de atestado de residência, documento emitido pela capitania certificando que o requerente faz parte de uma companha de xávega e de cópia da respectiva cédula marítima, para comprovação dos critérios de prioridade previstos no número anterior."
+  },
+  "107717875": {
+   "fragment_id": "107716344",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 5.º)\n\nClasses de malhagens e espécies alvo autorizadas\n\n(ver quadro no documento original)"
+  },
+  "107717876": {
+   "fragment_id": "107716345",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 6.º)\n\nDimensões das caçadas de redes de emalhar\n\n(ver quadro no documento original)"
+  },
+  "107693662": {
+   "fragment_id": "107716331",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1102-H/2000\n\nde 22 de Novembro\n\nO Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que define as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, determina no seu artigo 3.º quais os métodos de pesca admitidos em águas oceânicas e em águas interiores marítimas, remetendo para portaria do membro do Governo responsável pelo sector das pescas o estabelecimento das disposições reguladoras das características das artes e condições de exercício da pesca por qualquer daqueles métodos.\n\nCom a presente portaria regulamenta-se o método de pesca denominado «pesca por rede de emalhar», dando cumprimento ao citado normativo.\n\nAssim, ao abrigo do disposto no artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o Regulamento da Pesca por Arte de Emalhar, que faz parte integrante da presente portaria.\n\n2.º É revogada a Portaria n.º 1243/92, de 31 de Dezembro.\n\n3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nREGULAMENTO DA PESCA POR ARTE DE EMALHAR"
+  },
+  "107717881": {
+   "fragment_id": "107716336",
+   "type": 11,
+   "heading": "Artigo 5.º — Classes de malhagens",
+   "in_force_from": "2001-04-19",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 5.º — Classes de malhagens\n\n1 - Sem prejuízo do disposto nos números seguintes e do estabelecido para a pesca com majoeira, as classes de malhagens das redes de emalhar de um pano são as fixadas no anexo I ao presente Regulamento.\n\n2 - Na costa ocidental na zona delimitada a norte pelo paralelo que passa pelo Penedo da Saudade-São Pedro de Muel (39º 45' 8'' N.) e a sul pelo paralelo que passa pelo cabo de São Vicente (37º 01' 45'' N.), é proibido utilizar, calar, transportar ou ter a bordo redes de emalhar de um pano de fundo da classe de malhagem de 60 mm a 79 mm.\n\n3 - Por fora das 20 milhas de distância à linha da costa só é permitido utilizar tresmalhos de fundo com malhagem, no miúdo, igual ou superior a 220 mm.\n\n4 - Sem prejuízo do disposto no n.º 7, por dentro das 20 milhas de distância à linha da costa só é permitido utilizar tresmalhos de fundo com as seguintes classes de malhagens no miúdo:\n\na) Na zona delimitada a norte pela linha de costa, a sul e a leste pelo limite da subárea do continente da ZEE e a oeste pelo meridiano que passa pelo farol do cabo de São Vicente (8º 59' 8'' W.) - classes de 80 mm a 99 mm e maior ou igual a 100 mm;\n\nb) Nas restantes áreas da ZEE nacional - classe igual ou maior que 100 mm.\n\n5 - As capturas existentes a bordo, realizadas com rede de emalhar, devem obrigatoriamente incluir, em função da classe de malhagem, uma percentagem de espécies alvo, referidas no anexo I ao presente Regulamento, não inferior a 70%.\n\n6 - Nos tresmalhos de fundo a relação mínima entre a malhagem do miúdo e a das alvitanas é de 1 para 4.\n\n7 - Na subárea da Madeira da ZEE apenas podem ser licenciadas redes de emalhar com malhagem igual ou superior a 120 mm, com a qual se poderão capturar todas as espécies.\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107717882": {
+   "fragment_id": "107716337",
+   "type": 11,
+   "heading": "Artigo 6.º — Dimensões das redes",
+   "in_force_from": "2001-04-19",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 6.º — Dimensões das redes\n\n1 - O comprimento máximo do conjunto de redes de emalhar que cada embarcação pode calar ou ter a bordo é determinado em função do comprimento de fora a fora da embarcação (cff), não podendo exceder os limites fixados no anexo II ao presente Regulamento.\n\n2 - Sem prejuízo do disposto no número anterior, cada caçada não pode exceder 4000 m.\n\n3 - A altura das redes de emalhar não pode exceder as medidas constantes do anexo II ao presente Regulamento.\n\n4 - O disposto nos números anteriores não se aplica às redes majoeiras.\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107717883": {
+   "fragment_id": "107716342",
+   "type": 11,
+   "heading": "Artigo 11.º — Pesca com majoeiras",
+   "in_force_from": "2001-04-19",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 11.º — Pesca com majoeiras\n\n1 - Nas áreas de jurisdição das capitanias do porto do Douro até à da Nazaré, inclusive, é permitida a pesca com redes de tresmalho fundeadas sem auxílio de embarcação, vulgarmente designadas por majoeiras, de acordo com as seguintes condicionantes:\n\na) Cada pescador só pode operar com um total de oito redes, com as quais poderá armar um máximo de quatro caçadas;\n\nb) Não é permitido calar as redes referidas neste artigo a uma distância inferior a 40 m entre caçadas;\n\nc) As dimensões máximas de cada rede são as seguintes:\n\ni) Comprimento - 10 m;\n\nii) Altura - 2 m.\n\nd) A malhagem mínima autorizada é de 110 mm no miúdo e de 500 mm nas alvitanas;\n\ne) As redes deverão ser identificadas e sinalizadas nos termos definidos na legislação em vigor, delas devendo constar o número de inscrito marítimo ou da licença, e cada extremo da rede deverá ser sinalizado com uma bóia de cor vermelha de pelo menos 20 cm de diâmetro;\n\nf) A utilização destas redes apenas é permitida entre 1 de Outubro e 30 de Abril, sendo proibida a sua utilização aos sábados, domingos e feriados;\n\ng) O número máximo de licenças é estabelecido em 100, podendo ser alterado por despacho do membro do Governo responsável pelo sector das pescas;\n\nh) Os pescadores apenas poderão operar na área de jurisdição da capitania onde residem, excepto quando residam na praia de Mira, em que podem operar nas capitanias de Aveiro e da Figueira da Foz, mas sempre nas zonas para o efeito demarcadas pela autoridade marítima.\n\n2 - Apenas serão licenciados para o uso desta arte os pescadores que façam parte das companhas da xávega.\n\n3 - O pedido de licença, a ser apresentado à Direcção-Geral das Pescas e Aquicultura, deverá ser acompanhado de atestado de residência, documento emitido pela capitania certificando que o requerente faz parte de uma companha de xávega e de cópia da respectiva cédula marítima, para comprovação dos critérios de prioridade previstos no número anterior.\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107693674": {
+   "fragment_id": "107716343",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 22 de Novembro de 2000."
+  },
+  "107717884": {
+   "fragment_id": "107716344",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 5.º)",
+   "in_force_from": "2001-04-19",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 5.º)\n\nClasses de malhagens e espécies alvo autorizadas\n\n(ver quadro no documento original)\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107717885": {
+   "fragment_id": "107716345",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 6.º)",
+   "in_force_from": "2001-04-19",
+   "changed_by": [
+    "Alterado pelo/a Anexo II do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 6.º)\n\nDimensões das caçadas de redes de emalhar\n\n(ver quadro no documento original)\n\n> Alterado pelo/a Anexo II do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107717890": {
+   "fragment_id": "107716337",
+   "type": 11,
+   "heading": "Artigo 6.º — Dimensões das redes",
+   "in_force_from": "2007-07-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08",
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 6.º — Dimensões das redes\n\n1 - O comprimento máximo do conjunto de redes de emalhar que cada embarcação pode calar ou ter a bordo é determinado em função do comprimento de fora a fora da embarcação (cff), não podendo exceder os limites fixados no anexo II ao presente Regulamento.\n\n2 - Sem prejuízo do disposto no número anterior, cada caçada não pode exceder 4000 m.\n\n3 - A altura das redes de emalhar não pode exceder as medidas constantes do anexo II ao presente Regulamento.\n\n4 - O comprimento acumulado das caçadas e a altura máxima das redes de emalhar, quando utilizadas na classe de malhagem de 50 mm-59 mm, nas condições constantes da alínea b) do anexo I do presente diploma, não pode exceder, respectivamente, 1500 m de comprimento e 1,5 m em altura.\n\n5 - O disposto nos números anteriores não se aplica às redes majoeiras.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107717891": {
+   "fragment_id": "107716342",
+   "type": 11,
+   "heading": "Artigo 11.º — Pesca com majoeiras",
+   "in_force_from": "2007-07-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08",
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 11.º — Pesca com majoeiras\n\n1 - Nas áreas de jurisdição das capitanias do porto do Douro até à da Nazaré, inclusive, é permitida a pesca com redes de tresmalho fundeadas sem auxílio de embarcação, vulgarmente designadas por majoeiras, de acordo com as seguintes condicionantes:\n\na) Cada pescador só pode operar com um total de oito redes, com as quais poderá armar um máximo de quatro caçadas;\n\nb) Não é permitido calar as redes referidas neste artigo a uma distância inferior a 40 m entre caçadas;\n\nc) As dimensões máximas de cada rede são as seguintes:\n\ni) Comprimento - 10 m;\n\nii) Altura - 2 m.\n\nd) A malhagem mínima autorizada é de 110 mm no miúdo e de 500 mm nas alvitanas;\n\ne) As redes deverão ser identificadas e sinalizadas nos termos definidos na legislação em vigor, delas devendo constar o número de inscrito marítimo ou da licença, e cada extremo da rede deverá ser sinalizado com uma bóia de cor vermelha de pelo menos 20 cm de diâmetro;\n\nf) A utilização destas redes apenas é permitida entre 1 de Outubro e 30 de Abril, sendo proibida a sua utilização aos sábados, domingos e feriados;\n\ng) O número máximo de licenças é estabelecido em 100, podendo ser alterado por despacho do membro do Governo responsável pelo sector das pescas;\n\nh) Os pescadores apenas poderão operar nas áreas de jurisdição da capitania onde residem e das capitanias limítrofes, nas zonas para o efeito demarcadas pela autoridade marítima.\n\n2 - Apenas serão licenciados para o uso desta arte os pescadores que façam parte das companhas da xávega.\n\n3 - O pedido de licença, a ser apresentado à Direcção-Geral das Pescas e Aquicultura, deverá ser acompanhado de atestado de residência, documento emitido pela capitania certificando que o requerente faz parte de uma companha de xávega e de cópia da respectiva cédula marítima, para comprovação dos critérios de prioridade previstos no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107717892": {
+   "fragment_id": "107716344",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 5.º)",
+   "in_force_from": "2007-07-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08",
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 5.º)\n\nClasses de malhagens e espécies alvo autorizadas\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107717897": {
+   "fragment_id": "107716337",
+   "type": 11,
+   "heading": "Artigo 6.º — Dimensões das redes",
+   "in_force_from": "2009-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08",
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 6.º — Dimensões das redes\n\n1 - O comprimento máximo do conjunto de redes de emalhar que cada embarcação pode calar ou ter a bordo é determinado em função do comprimento de fora a fora da embarcação (cff), não podendo exceder os limites fixados no anexo II ao presente Regulamento.\n\n2 - Sem prejuízo do disposto no número anterior, cada 'caçada' não pode exceder 5000 m.\n\n3 - A altura das redes de emalhar não pode exceder as medidas constantes do anexo II ao presente Regulamento.\n\n4 - O comprimento acumulado das caçadas e a altura máxima das redes de emalhar, quando utilizadas na classe de malhagem de 50 mm-59 mm, nas condições constantes da alínea b) do anexo I do presente diploma, não pode exceder, respectivamente, 1500 m de comprimento e 1,5 m em altura.\n\n5 - O disposto nos números anteriores não se aplica às redes majoeiras.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107717898": {
+   "fragment_id": "107716340",
+   "type": 11,
+   "heading": "Artigo 9.º — Espécies proibidas",
+   "in_force_from": "2009-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08"
+   ],
+   "markdown": "###### Artigo 9.º — Espécies proibidas\n\n1 - Sem prejuízo do disposto no número seguinte é proibida a utilização de redes de emalhar na captura de crustáceos.\n\n2 - É permitida a captura acessória de um máximo de 5% de crustáceos, em peso vivo, por viagem.\n\n3 - Nos meses de Janeiro e Fevereiro não é autorizada a captura, a manutenção a bordo e o desembarque de tamboril, excepto como captura acessória, até 5 % das capturas totais mantidas a bordo e desembarcadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08"
+  },
+  "107717899": {
+   "fragment_id": "107716342",
+   "type": 11,
+   "heading": "Artigo 11.º — Pesca com majoeiras",
+   "in_force_from": "2009-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08",
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 11.º — Pesca com majoeiras\n\n1 - Nas áreas de jurisdição das capitanias do porto do Douro até à da Nazaré, inclusive, é permitida a pesca com redes de tresmalho fundeadas sem auxílio de embarcação, vulgarmente designadas por majoeiras, de acordo com as seguintes condicionantes:\n\na) Cada pescador só pode operar com um total de oito redes, com as quais poderá armar um máximo de quatro caçadas;\n\nb) Não é permitido calar as redes referidas neste artigo a uma distância inferior a 40 m entre caçadas;\n\nc) As dimensões máximas de cada rede são as seguintes:\n\ni) Comprimento - 10 m;\n\nii) Altura - 2 m.\n\nd) A malhagem mínima autorizada é de 110 mm no miúdo e de 500 mm nas alvitanas;\n\ne) As redes deverão ser identificadas e sinalizadas nos termos definidos na legislação em vigor, delas devendo constar o número de inscrito marítimo ou da licença, e cada extremo da rede deverá ser sinalizado com uma bóia de cor vermelha de pelo menos 20 cm de diâmetro;\n\nf) A utilização destas redes apenas é permitida entre 1 de Outubro e 30 de Abril, sendo proibida a sua utilização aos sábados, domingos e feriados;\n\ng) O número máximo de licenças é estabelecido em 100, podendo ser alterado por despacho do membro do Governo responsável pelo sector das pescas;\n\nh) Os pescadores apenas poderão operar nas áreas de jurisdição da capitania onde residem e das capitanias limítrofes, nas zonas para o efeito demarcadas pela autoridade marítima.\n\n2 - Os condicionalismos e os critérios para atribuição de licenças de pesca apeada para o uso desta arte serão fixados por despacho do membro de Governo responsável pelo sector das pescas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107717900": {
+   "fragment_id": "107716345",
+   "type": 14,
+   "heading": "Anexo II — (n.º 1 do artigo 6.º)",
+   "in_force_from": "2009-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08",
+    "Alterado pelo/a Anexo II do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "## Anexo II — (n.º 1 do artigo 6.º)\n\nDimensões das caçadas de redes de emalhar\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08\n\n> Alterado pelo/a Anexo II do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107717905": {
+   "fragment_id": "107716342",
+   "type": 11,
+   "heading": "Artigo 11.º — Pesca com majoeiras",
+   "in_force_from": "2010-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 594/2010 - Diário da República n.º 146/2010, Série I de 2010-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/594-2010-333869), em vigor a partir de 2010-07-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08",
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 11.º — Pesca com majoeiras\n\n1 - Nas áreas de jurisdição marítima das capitanias do porto do Douro até à da Nazaré inclusive, é permitida a pesca com redes de tresmalho fundeadas sem auxílio de embarcação, vulgarmente designadas por majoeiras, de acordo com as seguintes condicionantes:\n\na) Cada pescador só pode operar com um total de quatro ou oito redes, consoante especificado na licença de pesca, com as quais poderá armar, respectivamente, um máximo de duas ou quatro caçadas;\n\nb) Não é permitido calar as redes referidas neste artigo a uma distância inferior a 40 m entre caçadas;\n\nc) As dimensões máximas de cada rede são as seguintes:\n\ni) Comprimento - 10 m;\n\nii) Altura - 2 m;\n\nd) A malhagem mínima autorizada é de 110 mm no miúdo e de 500 mm nas alvitanas;\n\ne) As redes deverão ser identificadas e sinalizadas nos termos definidos na legislação em vigor, delas devendo constar o número de inscrito marítimo ou da licença, e cada extremo da rede deverá ser sinalizado com uma bóia de cor vermelha de pelo menos 20 cm de diâmetro;\n\nf) A utilização destas redes apenas é permitida entre 1 de Outubro e 30 de Abril de cada ano, com excepção dos sábados, domingos e feriados;\n\ng) O número máximo de licenças é estabelecido em 100 para o uso de até oito redes e em 60 para o uso de até quatro redes, podendo o número de licenças ser alterado por despacho do membro do Governo responsável pelo sector das pescas;\n\nh) Os pescadores apenas poderão operar na área de jurisdição da capitania onde residem e das capitanias limítrofes, mas sempre nas zonas para o efeito demarcadas pela autoridade marítima.\n\n2 - Os condicionalismos e os critérios para atribuição de licenças de pesca apeada para o uso desta arte serão fixados por despacho do membro de Governo responsável pelo sector das pescas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 594/2010 - Diário da República n.º 146/2010, Série I de 2010-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/594-2010-333869), em vigor a partir de 2010-07-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "107717906": {
+   "fragment_id": "107716340",
+   "type": 11,
+   "heading": "Artigo 9.º — Espécies proibidas",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 315/2011 - Diário da República n.º 249/2011, Série I de 2011-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/315-2011-145188), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08"
+   ],
+   "markdown": "###### Artigo 9.º — Espécies proibidas\n\n1 - Sem prejuízo do disposto no número seguinte é proibida a utilização de redes de emalhar na captura de crustáceos.\n\n2 - É permitida a captura acessória de um máximo de 5% de crustáceos, em peso vivo, por viagem.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 315/2011 - Diário da República n.º 249/2011, Série I de 2011-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/315-2011-145188), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08"
+  },
+  "107717911": {
+   "fragment_id": "107716336",
+   "type": 11,
+   "heading": "Artigo 5.º — Classes de malhagens",
+   "in_force_from": "2017-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 220/2017 - Diário da República n.º 139/2017, Série I de 2017-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/220-2017-107714214), em vigor a partir de 2017-07-21",
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 5.º — Classes de malhagens\n\n1 - Sem prejuízo do disposto nos números seguintes e do estabelecido para a pesca com majoeira, as classes de malhagens das redes de emalhar de um pano são as fixadas no anexo I ao presente Regulamento.\n\n2 - Na costa ocidental na zona delimitada a norte pelo paralelo que passa pelo Penedo da Saudade-São Pedro de Muel (39º 45' 8'' N.) e a sul pelo paralelo que passa pelo cabo de São Vicente (37º 01' 45'' N.), é proibido utilizar, calar, transportar ou ter a bordo redes de emalhar de um pano de fundo da classe de malhagem de 60 mm a 79 mm.\n\n3 - Em profundidades compreendidas entre os 200 os 600 m só é permitido utilizar tresmalhos de fundo com malhagem, no miúdo, igual ou superior a 220 mm, e com as características estabelecidas na alínea d) do n.º 2 do Artigo 34.º-B do Regulamento (CE) n.º 850/98, do Conselho, 30 de março de 1998, na sua redação atual.\n\n4 - Sem prejuízo do disposto no número anterior, só é permitido utilizar tresmalhos de fundo com as seguintes classes de malhagens no miúdo:\n\na) Na zona delimitada a norte pela linha de costa, a sul e a leste pelo limite da subárea do continente da ZEE e a oeste pelo meridiano que passa pelo farol do cabo de São Vicente (8º 59' 8'' W.) - classes de 80 mm a 99 mm e maior ou igual a 100 mm;\n\nb) Nas restantes áreas da ZEE nacional - classe igual ou maior que 100 mm.\n\n5 - As capturas existentes a bordo, realizadas com rede de emalhar, devem obrigatoriamente incluir, em função da classe de malhagem, uma percentagem de espécies alvo, referidas no anexo I ao presente Regulamento, não inferior a 70%.\n\n6 - Nos tresmalhos de fundo a relação mínima entre a malhagem do miúdo e a das alvitanas é de 1 para 4.\n\n7 - Na subárea da Madeira da ZEE apenas podem ser licenciadas redes de emalhar com malhagem igual ou superior a 120 mm, com a qual se poderão capturar todas as espécies.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 220/2017 - Diário da República n.º 139/2017, Série I de 2017-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/220-2017-107714214), em vigor a partir de 2017-07-21\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "216056765": {
+   "fragment_id": "107716332",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de exercício da pesca por rede de emalhar.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+  },
+  "216056766": {
+   "fragment_id": "107716333",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição da arte",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+   ],
+   "markdown": "###### Artigo 2.º — Definição da arte\n\nPor pesca por rede de emalhar entende-se qualquer método de pesca que utiliza estrutura de rede com forma rectangular, constituída por um, dois ou três panos de diferente malhagem, mantidos em posição vertical por meio de cabos de flutuação e cabos de lastros, que pode actuar isolada ou em «caçadas» (conjunto de redes ligadas entre si, ficando os espécimes presos na própria rede).\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+  },
+  "216056767": {
+   "fragment_id": "107716334",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipos",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+   ],
+   "markdown": "###### Artigo 3.º — Tipos\n\n1 - A pesca por rede de emalhar pode ser exercida com redes de emalhar que se integrem num dos seguintes grupos:\n\na) Redes de emalhar de um pano;\n\nb) Redes de emalhar de três panos justapostos ou redes de tresmalho.\n\n2 - As redes de emalhar podem ser fundeadas ou de deriva.\n\n3 - Só é permitido o uso de redes de emalhar de um pano de deriva na classe de malhagem de 35 mm a 40 mm.\n\n4 - É proibido o uso de redes de tresmalho de deriva.\n\n5 - É proibido o uso de redes de tresmalho e de emalhar de deriva nas águas da subárea da Madeira da zona económica exclusiva (ZEE).\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+  },
+  "216056768": {
+   "fragment_id": "107716335",
+   "type": 11,
+   "heading": "Artigo 4.º — Áreas de pesca",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+   ],
+   "markdown": "###### Artigo 4.º — Áreas de pesca\n\n1 - É proibido o exercício da pesca com redes de emalhar a uma distância inferior a um quarto de milha da linha de costa, com excepção do disposto no n.º 4 e da pesca com rede «majoeira».\n\n2 - Entre um quarto de milha e 1 milha de distância à linha de costa, a pesca com redes de emalhar só pode ser exercida por embarcações de comprimento de fora a fora (cff) não superior a 9 m.\n\n3 - É proibido o exercício da pesca com redes de emalhar a uma distância inferior a 1 milha da linha de costa, nas águas da subárea da Madeira da ZEE.\n\n4 - O disposto no n.º 1 não se aplica nas águas da subárea dos Açores da ZEE.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+  },
+  "216056769": {
+   "fragment_id": "107716336",
+   "type": 11,
+   "heading": "Artigo 5.º — Classes de malhagens",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 220/2017 - Diário da República n.º 139/2017, Série I de 2017-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/220-2017-107714214), em vigor a partir de 2017-07-21",
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 5.º — Classes de malhagens\n\n1 - Sem prejuízo do disposto nos números seguintes e do estabelecido para a pesca com majoeira, as classes de malhagens das redes de emalhar de um pano são as fixadas no anexo I ao presente Regulamento.\n\n2 - Na costa ocidental na zona delimitada a norte pelo paralelo que passa pelo Penedo da Saudade-São Pedro de Muel (39º 45' 8'' N.) e a sul pelo paralelo que passa pelo cabo de São Vicente (37º 01' 45'' N.), é proibido utilizar, calar, transportar ou ter a bordo redes de emalhar de um pano de fundo da classe de malhagem de 60 mm a 79 mm.\n\n3 - Em profundidades compreendidas entre os 200 os 600 m só é permitido utilizar tresmalhos de fundo com malhagem, no miúdo, igual ou superior a 220 mm, e com as características estabelecidas na alínea d) do n.º 2 do Artigo 34.º-B do Regulamento (CE) n.º 850/98, do Conselho, 30 de março de 1998, na sua redação atual.\n\n4 - Sem prejuízo do disposto no número anterior, só é permitido utilizar tresmalhos de fundo com as seguintes classes de malhagens no miúdo:\n\na) Na zona delimitada a norte pela linha de costa, a sul e a leste pelo limite da subárea do continente da ZEE e a oeste pelo meridiano que passa pelo farol do cabo de São Vicente (8º 59' 8'' W.) - classes de 80 mm a 99 mm e maior ou igual a 100 mm;\n\nb) Nas restantes áreas da ZEE nacional - classe igual ou maior que 100 mm.\n\n5 - As capturas existentes a bordo, realizadas com rede de emalhar, devem obrigatoriamente incluir, em função da classe de malhagem, uma percentagem de espécies alvo, referidas no anexo I ao presente Regulamento, não inferior a 70%.\n\n6 - Nos tresmalhos de fundo a relação mínima entre a malhagem do miúdo e a das alvitanas é de 1 para 4.\n\n7 - Na subárea da Madeira da ZEE apenas podem ser licenciadas redes de emalhar com malhagem igual ou superior a 120 mm, com a qual se poderão capturar todas as espécies.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 220/2017 - Diário da República n.º 139/2017, Série I de 2017-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/220-2017-107714214), em vigor a partir de 2017-07-21\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "216056770": {
+   "fragment_id": "107716337",
+   "type": 11,
+   "heading": "Artigo 6.º — Dimensões das redes",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08",
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 6.º — Dimensões das redes\n\n1 - O comprimento máximo do conjunto de redes de emalhar que cada embarcação pode calar ou ter a bordo é determinado em função do comprimento de fora a fora da embarcação (cff), não podendo exceder os limites fixados no anexo II ao presente Regulamento.\n\n2 - Sem prejuízo do disposto no número anterior, cada 'caçada' não pode exceder 5000 m.\n\n3 - A altura das redes de emalhar não pode exceder as medidas constantes do anexo II ao presente Regulamento.\n\n4 - O comprimento acumulado das caçadas e a altura máxima das redes de emalhar, quando utilizadas na classe de malhagem de 50 mm-59 mm, nas condições constantes da alínea b) do anexo I do presente diploma, não pode exceder, respectivamente, 1500 m de comprimento e 1,5 m em altura.\n\n5 - O disposto nos números anteriores não se aplica às redes majoeiras.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "216056771": {
+   "fragment_id": "107716338",
+   "type": 11,
+   "heading": "Artigo 7.º — Distância entre redes caladas",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+   ],
+   "markdown": "###### Artigo 7.º — Distância entre redes caladas\n\n1 - A distância mínima de calagem entre caçadas é de um quarto de milha.\n\n2 - O disposto no número anterior não se aplica às redes majoeiras.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+  },
+  "216056772": {
+   "fragment_id": "107716339",
+   "type": 11,
+   "heading": "Artigo 8.º — Tempo de calagem",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+   ],
+   "markdown": "###### Artigo 8.º — Tempo de calagem\n\nAs redes de emalhar não podem permanecer caladas por mais de vinte e quatro horas consecutivas, salvo em casos de força maior devidamente comprovados, ou setenta e duas horas se estiverem incluídas na classe de malhagem igual ou superior a 100 mm e operarem em profundidades superiores a 300 m.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+  },
+  "216056773": {
+   "fragment_id": "107716340",
+   "type": 11,
+   "heading": "Artigo 9.º — Espécies proibidas",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 315/2011 - Diário da República n.º 249/2011, Série I de 2011-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/315-2011-145188), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08"
+   ],
+   "markdown": "###### Artigo 9.º — Espécies proibidas\n\n1 - Sem prejuízo do disposto no número seguinte é proibida a utilização de redes de emalhar na captura de crustáceos.\n\n2 - É permitida a captura acessória de um máximo de 5% de crustáceos, em peso vivo, por viagem.\n\n3 - (Revogado.)\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 315/2011 - Diário da República n.º 249/2011, Série I de 2011-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/315-2011-145188), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08"
+  },
+  "216056774": {
+   "fragment_id": "107716341",
+   "type": 11,
+   "heading": "Artigo 10.º — Licenciamento",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+   ],
+   "markdown": "###### Artigo 10.º — Licenciamento\n\n1 - As embarcações com cff inferior ou igual a 9 m podem ser licenciadas, em simultâneo, para qualquer das classes de malhagem fixadas no anexo I ao presente Regulamento, para redes de emalhar de fundo de um pano.\n\n2 - As embarcações com cff superior a 9 m não poderão ser licenciadas para redes de emalhar de fundo na classe de malhagem de 60 mm a 79 mm, em simultâneo com qualquer outra classe de malhagem fixada no anexo I ao presente Regulamento para as redes de emalhar de fundo de um pano.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+  },
+  "216055975": {
+   "fragment_id": "107716342",
+   "type": 11,
+   "heading": "Artigo 11.º — Pesca com majoeiras",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 594/2010 - Diário da República n.º 146/2010, Série I de 2010-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/594-2010-333869), em vigor a partir de 2010-07-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08",
+    "Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "###### Artigo 11.º — Pesca com majoeiras\n\n1 - Nas áreas de jurisdição marítima das capitanias do porto do Douro até à da Nazaré inclusive, é permitida a pesca com redes de tresmalho fundeadas sem auxílio de embarcação, vulgarmente designadas por majoeiras, de acordo com as seguintes condicionantes:\n\na) Cada pescador só pode operar com um total de quatro ou oito redes, consoante especificado na licença de pesca, com as quais poderá armar, respectivamente, um máximo de duas ou quatro caçadas;\n\nb) Não é permitido calar as redes referidas neste artigo a uma distância inferior a 40 m entre caçadas;\n\nc) As dimensões máximas de cada rede são as seguintes:\n\ni) Comprimento - 10 m;\n\nii) Altura - 2 m;\n\nd) A malhagem mínima autorizada é de 110 mm no miúdo e de 500 mm nas alvitanas;\n\ne) As redes deverão ser identificadas e sinalizadas nos termos definidos na legislação em vigor, delas devendo constar o número de inscrito marítimo ou da licença, e cada extremo da rede deverá ser sinalizado com uma bóia de cor vermelha de pelo menos 20 cm de diâmetro;\n\nf) A utilização destas redes apenas é permitida entre 1 de Outubro e 30 de Abril de cada ano, com excepção dos sábados, domingos e feriados;\n\ng) O número máximo de licenças é estabelecido em 100 para o uso de até oito redes e em 60 para o uso de até quatro redes, podendo o número de licenças ser alterado por despacho do membro do Governo responsável pelo sector das pescas;\n\nh) Os pescadores apenas poderão operar na área de jurisdição da capitania onde residem e das capitanias limítrofes, mas sempre nas zonas para o efeito demarcadas pela autoridade marítima.\n\n2 - Os condicionalismos e os critérios para atribuição de licenças de pesca apeada para o uso desta arte serão fixados por despacho do membro de Governo responsável pelo sector das pescas.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 594/2010 - Diário da República n.º 146/2010, Série I de 2010-07-29](https://diariodarepublica.pt/dr/detalhe/portaria/594-2010-333869), em vigor a partir de 2010-07-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08\n\n> Alterado pelo/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "216055976": {
+   "fragment_id": "107716343",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+   ],
+   "markdown": "Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 22 de Novembro de 2000.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26"
+  },
+  "216055977": {
+   "fragment_id": "107716344",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 5.º)",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08",
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 5.º)\n\nClasses de malhagens e espécies alvo autorizadas\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 759/2007 - Diário da República n.º 126/2007, Série I de 2007-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/759-2007-635816), em vigor a partir de 2007-07-08\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  },
+  "216055978": {
+   "fragment_id": "107716345",
+   "type": 14,
+   "heading": "Anexo II — (n.º 1 do artigo 6.º)",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08",
+    "Alterado pelo/a Anexo II do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+   ],
+   "markdown": "## Anexo II — (n.º 1 do artigo 6.º)\n\nDimensões das caçadas de redes de emalhar\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 227/2023 - Diário da República n.º 141/2023, Série I de 2023-07-21](https://diariodarepublica.pt/dr/detalhe/portaria/227-2023-215980344), em vigor a partir de 2023-07-26\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 983/2009 - Diário da República n.º 171/2009, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/983-2009-489484), em vigor a partir de 2009-09-08\n\n> Alterado pelo/a Anexo II do/a [Portaria n.º 386/2001 - Diário da República n.º 88/2001, Série I-B de 2001-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/386-2001-356770), em vigor a partir de 2001-04-19"
+  }
+ }
+}

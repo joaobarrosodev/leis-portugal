@@ -1,0 +1,472 @@
+---
+schema_version: '1.0'
+id: pt:dre:278208:por
+title: Portaria n.º 110/2011
+short_title: null
+summary: Aprova o regulamento de fardamento do pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros
+  e Fronteiras (SEF)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 110/2011
+official_date: null
+publication_date: '2011-03-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/2011, Série I de 2011-03-16
+  number: '53'
+  series: I
+  supplement: null
+  pages: 1475 - 1483
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05300/0147501483.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-01-01'
+version_history:
+  file: portaria-110-2011.versoes.json
+  count: 1
+  source_lastmod: '2026-10-16'
+  versions:
+  - date: '2015-01-01'
+    amending: pt:dre:66012651:por
+    amending_title: Portaria n.º 285/2014
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/110/2011/03/16/p/dre/pt/html
+  oj: null
+  dre: '278208'
+  dre_path: /dr/detalhe/portaria/110-2011-278208
+  internal: pt:dre:278208:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-2011-278208
+  metadata_url: https://data.dre.pt/eli/port/110/2011/03/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-964512768
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-964512768
+  retrieved_at: '2026-10-22T14:01:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-16T00:00:00Z'
+integrity:
+  source_sha256: 7824734e5c1b98f80507bcf35c235154d7f5f728570a6bd8ca152e41cb827e12
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T14:01:56Z'
+  notes: 1 versão(ões); histórico completo em portaria-110-2011.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Serviço de Estrangeiros e Fronteiras
+- Regulamento
+- Fardamento
+relationships:
+- type: amended_by
+  target: pt:dre:66012651:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651
+  date: '2014-12-31'
+- type: cites
+  target: pt:dre:241633:por
+  label: null
+  source: http://data.dre.pt/eli/port/787/1998/09/21/p/dre
+- type: cites
+  target: pt:dre:541806:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/252/2000/10/16/p/dre
+article_structure:
+  article_count: 16
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T14:01:56Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 110/2011
+
+O Decreto-Lei n.º 252/2000, de 16 de Outubro, que aprova a estrutura orgânica e define as atribuições do Serviço de Estrangeiros e Fronteiras (SEF), determina no seu artigo 60.º que o pessoal da carreira de investigação e fiscalização do SEF, durante os períodos de prestação de serviço nos postos de fronteira e postos mistos de fronteira, fica obrigado ao uso do respectivo fardamento e distintivo de modelos aprovados por portaria do Ministro da Administração Interna.
+
+Pela Portaria n.º 787/98, de 21 de Setembro, foi aprovado o modelo de farda e distintivo actualmente em uso.
+
+Decorridos mais de 12 anos sobre aquela data, mostra-se necessário proceder à alteração de tal fardamento, uma vez que o mesmo já não se revela adequado à eficaz actuação no cenário de emprego operacional do serviço exigido ao pessoal da carreira de investigação e fiscalização do SEF.
+
+Opta-se pela manutenção do anterior fardamento exclusivamente para actos oficiais ou sociais cuja relevância assim o exija e cria-se um novo modelo, de características mais operacionais, que permite uma actuação mais consentânea nos diversos departamentos operacionais do SEF.
+
+Nestes termos, pela presente portaria procede-se à aprovação dos novos modelos e distintivos, bem como à definição das regras a que deverá obedecer a confecção de todos os artigos de fardamento, distintivos, equipamento e acessórios, quanto à espécie, qualidade, dimensão e cores.
+
+Por outro lado, estabelecem-se as regras de utilização, dotação e duração do fardamento.
+
+Assim:
+
+Em execução do artigo 60.º do Decreto-Lei n.º 252/2000, de 16 de Outubro, manda o Governo, pelo Ministro da Administração Interna, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A presente portaria aprova o regulamento de fardamento do pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras (SEF), anexo à presente portaria e que dela faz parte integrante.
+
+###### Artigo 2.º — Disposições gerais
+
+1 - Sem prejuízo das excepções previstas no regulamento em anexo, a atribuição e renovação do fardamento é encargo do SEF, salvo o disposto nos números seguintes.
+
+2 - A renovação, total ou parcial, do fardamento é da responsabilidade do funcionário sempre que não se encontre nas devidas condições de apresentação e utilização pelo qual foi atribuído, excepto se tal resultar de situações de caso fortuito ou de força maior ou de acidente, ocorrido no exercício das funções ou por causa destas, em qualquer dos casos mediante confirmação do respectivo superior hierárquico.
+
+3 - Verificando-se alguma das situações previstas no número anterior, deve o funcionário comunicá-la imediatamente ao respectivo superior hierárquico, que, no caso de a confirmar, providenciará pela requisição das peças a renovar.
+
+###### Artigo 3.º — Entrada em vigor
+
+1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+2 - Sem prejuízo do referido no número anterior, é fixado um período de transição de três anos, a contar daquela data, findo o qual não será permitido o uso de artigos não previstos no regulamento agora aprovado, sem prejuízo daqueles que venham a ser criados posteriormente por despacho do director nacional do SEF, conforme previsto no mesmo.
+
+3 - Havendo necessidade de flexibilizar a gestão de alguns artigos de fardamento específicos, aquele período poderá, na medida e nos casos estritamente necessários, ser alterado por despacho do director nacional do SEF.
+
+###### Artigo 4.º — Norma revogatória
+
+É revogada a Portaria n.º 787/98, de 21 de Setembro.
+
+Pelo Ministro da Administração Interna, Maria Dalila Correia Araújo Teixeira, Secretária de Estado da Administração Interna, em 3 de Março de 2011.
+
+## Anexo — REGULAMENTO DE FARDAMENTO DO PESSOAL DA CARREIRA DE INVESTIGAÇÃO E FISCALIZAÇÃO DO SERVIÇO DE ESTRANGEIROS E FRONTEIRAS
+
+### Capítulo I
+
+#### Secção I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente regulamento define os modelos e as regras a que devem obedecer os artigos de fardamento e distintivos do Serviço de Estrangeiros e Fronteiras (SEF), bem como à definição das regras a que deverá obedecer a confecção de todos os artigos de fardamento, distintivos, equipamento e acessórios, quanto à espécie, qualidade, dimensão e cores.
+
+2 - Os modelos de fardamento, cores, distintivos e sinais identificativos regulados na presente portaria são exclusivos do SEF, destinando-se a ser usados, nos termos do presente regulamento, pelo pessoal da carreira de investigação e fiscalização.
+
+###### Artigo 2.º — Condições do uso do fardamento
+
+1 - O pessoal da carreira de investigação e fiscalização do SEF está obrigado ao uso de fardamento durante os períodos de prestação de serviço nos postos de fronteira e nos Centros de Cooperação Policial e Aduaneira.
+
+2 - Para além do uso nos períodos e locais referidos no número anterior, o director nacional do SEF pode determinar o uso de fardamento sempre que certas e determinadas circunstâncias o aconselhem.
+
+3 - Aos funcionários referidos nos números anteriores não é permitido usar em traje civil qualquer artigo de fardamento em vigor que o identifique com o SEF.
+
+4 - Para alguns serviços, actividades ou funções, ou em condições excepcionais, o director nacional do SEF pode dispensar o uso de fardamento ou de qualquer artigo que o integra.
+
+5 - As peças de vestuário e acessórios designados para efeito de exercício de funções, em contexto operacional, são de utilização obrigatória sempre que determinado por despacho do diretor nacional do SEF, com possibilidade de delegação.
+
+6 - Ao fardamento de uso obrigatório em serviço não é permitido introduzir quaisquer modificações, acessórios, insígnias, emblemas, enfeites ou outras peças que não estejam previstos no presente regulamento ou em despacho do director nacional do SEF.
+
+7 - O uso do fardamento, designações, ou emblemas próprios do SEF não é permitido a cidadãos que não integrem a carreira de investigação e fiscalização do SEF, excepto mediante autorização expressa do director nacional do SEF, em casos devidamente fundamentados.
+
+8 - Para efeitos de utilização do fardamento, acessórios e peças de vestuário constantes nesta portaria, considera-se:
+
+a) Outro serviço operacional: todo o serviço operacional exercido pelos elementos da carreira de investigação e fiscalização, não inserido em contexto de uso obrigatório de fardamento;
+
+b) Época estival: o período correspondente aos meses de junho a setembro, inclusive;
+
+c) Uso obrigatório de gravata com as camisas de manga comprida quer no modelo de fardamento de cerimónia, quer no modelo de fardamento operacional;
+
+d) O uso de chapéus, barretes ou outras coberturas de cabeça, conforme modelo aprovado na presente portaria, é apenas admitido em situações de exercício das funções nos termos da alínea a) do presente número. Com exceção das situações devidamente autorizadas, por despacho do diretor nacional do SEF, o uso de chapéus, barretes ou outras coberturas de cabeça nas funções operacionais em posto de fronteira ou centro de cooperação policial e aduaneira é proibido nas áreas de controlo documental e áreas interiores de receção a passageiros ou público em geral.
+
+9 - Durante o período pré-natal as funcionárias da carreira de investigação e fiscalização do SEF podem, por despacho do diretor nacional do SEF, ser dispensadas do uso de fardamento, sempre que as condições físicas assim o exijam ou o uso de fardamento se mostrar inadequado.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651), em vigor a partir de 2015-01-01.
+
+###### Artigo 3.º — Interdição do uso de uniforme
+
+Ao pessoal abrangido pela presente portaria não é permitido o uso de fardamento nela previsto ou de qualquer das suas peças nas seguintes situações:
+
+a) Quando tome parte em reuniões ou manifestações públicas que não constituam actos de serviço;
+
+b) Suspensão do exercício de funções, em consequência de procedimento disciplinar ou penal nos termos previstos na lei;
+
+c) Inactividade resultante da aplicação de pena disciplinar;
+
+d) Prisão preventiva ou cumprimento de pena de prisão;
+
+e) Considerado incapaz para serviço por junta médica, desligado do serviço ou aposentado;
+
+f) Durante os períodos de férias e de licença sem vencimento de qualquer natureza;
+
+g) Fora do local de prestação de serviço, para além do tempo indispensável ao trajecto de ou para aquele local, salvo quando superiormente autorizado;
+
+h) Quando em comissão de serviço, requisitado ou destacado noutro organismo da Administração Pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651), em vigor a partir de 2015-01-01.
+
+#### Secção II — Artigos de fardamento
+
+###### Artigo 4.º — Especificações técnicas
+
+Sem prejuízo do artigo seguinte, as especificações e características técnicas dos artigos de fardamento são objecto de aprovação pelo director nacional do SEF.
+
+###### Artigo 5.º — Designação
+
+O fardamento do pessoal da carreira de investigação e fiscalização do SEF é constituído pelos seguintes artigos:
+
+1 - Modelo de fardamento de cerimónia (masculino):
+
+a) Casaco - confecionado em tecido de sarja de lã/poliéster, na cor azul-escuro, corte de blaser com dois botões metálicos com a esfera armilar e a inscrição «SEF», com forro de cetim preto. Bolso de peito esquerdo com o emblema/brasão de armas do SEF bordado em fio dourado (fig. 1);
+
+b) Calças - confeccionadas em tecido de sarja de lã/poliéster, na cor cinza-antracite-escuro. Corte direito, duas pinças na frente, bolsos metidos nas costuras laterais, com passadores médios para cinto e braguilha com fecho de correr (fig. 2);
+
+c) Camisa de mangas compridas - confecionada em algodão/poliéster, de cor branca, com punhos a abotoar com botões, bolso de peito esquerdo e colarinho clássico (fig. 3);
+
+d) Gravata - confeccionada em seda, fundo azul-marinho com uma lista de cor azul-petróleo larga e duas listas amarelas mais finas. Uma esfera armilar pequena ao fundo do lado direito, de cor dourada (fig. 5);
+
+e) Cinto - confeccionado em calfe preto com fivela dourada clássica (fig. 7);
+
+f) Sapatos - confeccionados em calfe preto, salto raso, com solas de couro, modelos de atacadores ou pala sem atavios, de acordo com a opção do funcionário (figs. 8 e 9);
+
+g) Meias - confeccionadas em malha lisa de algodão na cor preta.
+
+h) Meias - 'collants' cinza-escuro, azul-escuro ou preto, de uso obrigatório com saia e meias iguais às do fardamento masculino com o uso de calças.
+
+2 - Modelo de fardamento de cerimónia (feminino):
+
+a) Casaco - igual ao fardamento masculino, mas ligeiramente mais cintado (fig. 10);
+
+b) Saia - confeccionada em tecido de sarja de lã/poliéster, da cor cinza-antracite-escuro, com forro de cetim preto, com cós de 3 cm a 5 cm, apertando com fecho de correr. Corte direito com abertura na traseira sobreposta, não podendo a altura ultrapassar 5 cm acima do joelho (fig. 11);
+
+c) Calças - confeccionadas em tecido de sarja de lã/poliéster, na cor cinza-antracite-escuro. Corte direito, duas pinças na frente, com bolsos, com passadores médios para cinto e fecho de correr lateral (fig. 12);
+
+d) Camisa de mangas compridas - igual à do fardamento masculino, com as devidas adaptações;
+
+e) Camisa de mangas curtas - igual à do fardamento masculino, com as devidas adaptações;
+
+f) Gravata - igual à do fardamento masculino;
+
+g) Camisola - igual à do fardamento masculino;
+
+h) Blusão - igual ao do fardamento masculino;
+
+i) Cinto - igual ao do fardamento masculino;
+
+j) Sapatos - confeccionados em calfe preto, com solas de couro, salto raso, de modelo de atacadores ou pala sem atavios, de acordo com a opção da funcionária (figs. 13 e 14);
+
+l) Meias - collants cinza-claro ou bege e meias iguais às do fardamento masculino com o uso de calças.
+
+3 - Modelo de fardamento de serviço operacional (masculino e feminino):
+
+a) Camisa de mangas compridas Confecionada em algodão, de cor azul-claro, com costuras reforçadas; dois bolsos frontais com pala e fecho em velcro. No bolso esquerdo, terá uma abertura, com ponto reforçado nos seus limites, para transporte de canetas. Imediatamente acima do bolso direito é aplicado velcro da mesma cor do tecido, para colocação da placa de identificação. Por cima do bolso esquerdo é aplicado velcro para colocação do crachá. Na manga direita é aplicado velcro para colocação do emblema/brasão de armas do SEF e na manga esquerda é aplicado velcro para colocação de emblema/bandeira da União Europeia (fig. 11);
+
+b) Camisa de mangas curtas - com as mesmas características da camisa de mangas compridas;
+
+c) Calças com bolsos laterais - Confecionadas em tecido de polyester, rayon e lycra, com tratamento teflon, de cor azul-escuro; com dois bolsos frontais laterais tradicionais oblíquos, em faca; dois bolsos laterais com pala de fecho em velcro nas pernas. Na parte de trás dois bolsos em chapa com debruado com reforço lateral. Vincos permanentes à frente e atrás. Elástico duplo e de grandes dimensões no cós e acabamento em silicone. Gancho em forma de triângulo reforçado e com costuras triplas (fig. 12);
+
+d) Polo - Confecionado em tecido de algodão de cor azul-claro; bolso para canetas na manga esquerda. No peito, do lado direito, é aplicado platina amovível para colocação de distintivo correspondente à categoria, sobreposto à placa de identificação. No peito, do lado esquerdo, é aplicado velcro para colocação de crachá. Na manga direita é aplicado velcro para colocação do emblema/brasão de armas do SEF e na manga esquerda é aplicado velcro para colocação de emblema/bandeira da União Europeia. Nas costas os dizeres «SEF» e imediatamente por baixo «POLÍCIA», ambos em cor azul. (fig. 13);
+
+e) Casaco corta-vento - Casaco ligeiro de cor azul-escuro com camada exterior em microfibra de poliéster; forro interior em nylon tafetá. Abertura frontal com fecho de correr a todo o comprimento com acabamento em tira de tecido; dois bolsos com acesso horizontal no peito de fecho em velcro; dois bolsos frontais oblíquos em baixo, com fecho de correr recoberto com tecido; um bolso interior com acesso vertical e fecho em velcro; punhos de manga e laterais do cós do casaco com elástico interior. Tem aplicações de velcro na manga direita; manga esquerda; imediatamente acima do bolso direito e por cima o bolso esquerdo, para colocação do emblema com brasão do SEF, emblema/bandeira da União Europeia, placa de identificação distintivo de categoria e crachá, respetivamente (fig. 14);
+
+f) Anoraque para o frio - constituído por duas peças: blusão impermeável 100 % polyester de 140 g/m2 com casaco interior amovível em malha polar 100 % polyester:
+
+i) Blusão: constituído por dois bolsos frontais embutidos na horizontal, a fechar com fecho de correr, com painel interior para colocação insígnia do SEF. Dois bolsos verticais na zona central do peito, com fecho de Velcro. Dois bolsos frontais oblíquos e embutidos em baixo, com interior em malha polar, com fecho de correr. Dois bolsos internos embutidos no peito, do lado esquerdo. Superiormente, no peito, em ambos os lados, suporte em nylon do micro de comunicação rádio. Capuz integrado na gola, amovível e ocultáveis quando não em uso, com ajuste posterior com tira do mesmo tecido e Velcro macho e fêmea. Nas costas, superiormente, compartimento para painel identificativo SEF suportado com velcro. Aberturas laterais para acesso rápido ao coldre/rádio ou para ventilação, com fecho de correr de duplo sentido e presilha de segurança. Manga com badana e fecho com Velcro. Presilha interior para fixar a manga do casaco interior. Um bolso oblíquo em cada manga, embutidos, com fecho de correr recoberto com tecido. Tem aplicações de velcro na manga direita, manga esquerda, imediatamente acima do bolso direito e por cima o bolso esquerdo, para colocação do emblema com brasão do SEF, emblema/bandeira da União Europeia, placa de identificação distintivo de categoria e crachá, respetivamente;
+
+ii) Casaco interior de malha polar: constituído por dois bolsos frontais oblíquos e embutidos em baixo, com fecho de correr. Dois bolsos internos no peito. Aberturas laterais com fecho de correr e presilha de segurança. Com ajuste no cós através de elástico com regulador por pressão oculto nos bolsos. Recoberto na gola, cintura escapular, face externa do antebraço e face cubital do braço com tecido resistente a água. Debruado no colarinho e nas abas dos bolsos. Fecho de correr central;
+
+g) Cinto - em nylon, pele, ou outro material de cor preta;
+
+h) Calçado - Bota de modelo 'tático', de cano curto/médio, em pele ou outro material de cor preta, com sola de borracha antiderrapante e forro de proteção química/bacteriológica;
+
+i) Gravata de segurança - Gravata em polyester de cor azul-escuro, com fecho em velcro (fig. 16);
+
+j) Meias - Meias em tecido de algodão/poliéster de cor preta, sem padrões;
+
+4 - Os artigos referidos no número anterior poderão ser adaptados ao corte feminino sempre que se justifique.
+
+5 - [Revogado].
+
+6 - [Revogado].
+
+7 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651), em vigor a partir de 2015-01-01.
+
+###### Artigo 6.º — Outros artigos de fardamento
+
+a) Botas de segurança - confecionadas em calfe/nylon, cor preta, sola de borracha antiderrapante e proteção frontal com biqueira em aço (interna). Cano médio/curto, com fecho em atacadores ou fivela metálica/tira de velcro, em opção;
+
+b) Colete de identificação - Confecionado em tecido de polyester com tratamento teflon de cor azul-escuro de abertura frontal com fecho de correr a todo o comprimento com acabamento em tira de tecido. No plano frontal com 1 bolso no canto superior esquerdo, reforçado nos seus limites e dois bolsos retangulares com palas no plano inferior. Nas costas com dois bolsos retangulares com palas no plano inferior. Superiormente no peito do lado esquerdo com aplicação em velcro da mesma cor do tecido para aplicação de crachá. Nas costas em material refletor cinzento com a palavra 'SEF' e 'POLÍCIA'. Todo o colete tem nas cavas das mangas, na carcela junto ao fecho e no cós banda refletora cinzenta horizontal com 5 cm e 7 cm respetivamente. Imediatamente por cima dos bolsos frontais e das costas tem igualmente banda refletora cinzenta com 5 cm. Lateralmente em baixo do lado direito, o colete deverá ser ajustado através de tira em velcro ajustável horizontal com 18 cm (fig. 17);
+
+c) Colete balístico externo, com nível de proteção IIIA, anticorte/perfuração de arma branca, fornecida com placas de identificação (SEF - POLICIA) amovíveis, frontal e posterior e bolsas para a aposição de placas de proteção;
+
+d) Boné de pala - Confecionado em tecido de algodão de cor azul-escuro, com forro da mesma cor, possui à frente, uma pala rígida forrada do mesmo tecido. Atrás, possui abertura semicircular e cinta de ajustamento. Palavra 'SEF' bordada em fio de cor dourada, na parte frontal e na parte posterior a palavra 'POLÍCIA', bordada em fio de cor dourada, por cima da abertura semicircular, (fig. 18);
+
+e) Gorro térmico - Gorro de cor preta em lã. A sigla 'SEF' bordada em fio amarelo na parte frontal e a palavra 'POLÍCIA' bordada em fio dourado, na parte posterior (fig. 19);
+
+f) [Revogada];
+
+g) [Revogada].
+
+2 - Para situações operacionais específicas o director nacional do SEF poderá autorizar o uso de outros artigos não previstos no presente regulamento.
+
+3 - Os artigos a que se referem os números anteriores serão fornecidos mediante requisição fundamentada do superior hierárquico.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651), em vigor a partir de 2015-01-01.
+
+###### Artigo 7.º — Modelos de fardamento
+
+1 - O pessoal da carreira de investigação e fiscalização do SEF dispõe de dois modelos de fardamento: modelo de fardamento de cerimónia e modelo de fardamento de serviço operacional.
+
+2 - O modelo de fardamento de cerimónia é exclusivamente utilizado em atos oficiais e públicos ou outros atos sociais cuja relevância assim o exija, sempre por despacho do diretor nacional do SEF.
+
+3 - O modelo de fardamento de serviço operacional é utilizado com carácter geral, em todo o tipo de serviço, e sempre que o uso de fardamento seja obrigatório.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651), em vigor a partir de 2015-01-01.
+
+###### Artigo 8.º — Distribuição e duração do fardamento
+
+1 - A distribuição e a duração das peças do fardamento, bem como outras peças e acessórios, constam dos mapas i e ii anexos ao presente regulamento.
+
+2 - O modelo de fardamento de cerimónia é distribuído individualmente, por despacho do diretor nacional do SEF, considerando o interesse do serviço ou a missão do funcionário.
+
+3 - O modelo de fardamento de serviço operacional é distribuído individualmente ao funcionário que inicie funções de carácter permanente em unidade orgânica, em que o uso de fardamento seja de carácter obrigatório.
+
+4 - Nas unidades orgânicas onde o fardamento não seja utilizado com carácter permanente, a dotação será de um uniforme de serviço operacional completo, reduzido em metade nas quantidades previstas para as peças referidas nas alíneas a), b) e c) do n.º 3 do artigo 5.º, passando a duração das suas peças integrantes a ser prolongada por um período correspondente ao dobro dos prazos fixados nos mapas referidos no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651), em vigor a partir de 2015-01-01.
+
+### Capítulo II
+
+#### Secção I — Identificação, distintivos e acessórios
+
+###### Artigo 9.º — Elementos de identificação
+
+Os funcionários do SEF aos quais se aplica o presente regulamento são ainda obrigados a usar os seguintes elementos de identificação:
+
+1 - No modelo de fardamento de cerimónia (feminino e masculino):
+
+a) Placa de identificação, com as dimensões de 6,5 x 2,0cm, em metal ou liga leve, de cor cinza-metalizado, com letras em cor preta, em que conste a letra inicial do nome próprio do funcionário, assim como o apelido de família, por extenso. Por opção do funcionário ou necessidade do serviço, devidamente autorizado pelo diretor nacional do SEF, a letra inicial do nome próprio e o apelido de família, por extenso, podem ser substituídos por outros nomes que constem do nome completo do funcionário. Na linha inferior ao nome, será indicada a categoria do funcionário por extenso, em letra pequena. Aplicação no casaco por alfinete de segurança ou aplicação em 'pin' metálico;
+
+b) [Revogada].
+
+2 - No modelo de fardamento de serviço operacional:
+
+a) Crachá - O modelo de identificação por crachá é aprovado por portaria do membro do governo responsável pela área da administração interna;
+
+b) Placa de identificação - Placa em têxtil de algodão bordado de cor azul-escuro com rebordo e letras de cor branca onde conste a letra inicial do nome próprio do funcionário, assim como o apelido de família, por extenso. Por opção do funcionário ou necessidade do serviço, devidamente autorizado pelo diretor nacional do SEF, a letra inicial do nome próprio e o apelido de família, por extenso, podem ser substituídos por outros nomes que constem do nome completo do funcionário. A aplicação é feita em velcro (fig. 20);
+
+c) Emblema SEF - Em polímero termo-estampado, configuração em escudo século XIV com fundo azul-escuro, tendo na parte superior o logo 'SEF' em cor branca. Por baixo do logo a palavra 'POLÍCIA' na cor dourada e na parte de baixo a bandeira nacional estilizada. A aplicação é feita através de velcro. Dimensões 7 cm x 9,5 cm (fig. 21);
+
+d) Emblema correspondente à bandeira oficial da União Europeia, em têxtil bordado com as dimensões 4 cm x 3 cm e aplicação em velcro.
+
+3 - Em situação operacional, cujo contexto não implique o uso obrigatório de fardamento, por despacho do diretor nacional do SEF, podem ser utilizados os seguintes elementos identificativos:
+
+a) Braçal de identificação em território nacional - Braçal em tecido azul-escuro com banda refletora nos limites superior e inferior com a sigla 'SEF' colocado em linha superior à palavra 'POLÍCIA', ambos estampados/bordados em linha cor dourada e com alinhamento centrado. Dimensões exteriores 12 cm x 40 cm (fig. 22);
+
+b) Braçal de identificação para missões no estrangeiro - Braçal em tecido azul, com as mesmas dimensões do número anterior, com a palavra 'POLICE' em cor branca com bandeira Portuguesa e da União Europeia sobreposta à mesma (fig. 23).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651), em vigor a partir de 2015-01-01.
+
+###### Artigo 10.º — Distintivos por categoria
+
+Os funcionários serão identificados, em função da respectiva categoria, através dos seguintes distintivos:
+
+1 - Os funcionários serão identificados, em função da respetiva categoria, através de distintivo constituído por campo retangular azul-escuro, com um ramo de oliveira com fita, de cor dourada, colocada à esquerda e a categoria profissional indicada por esfera ou esferas armilar em cor dourada, com a palavra SEF colocada ao centro em cor branca. A esfera armilar mais afastada é posicionada à direita do ramo de oliveira, distanciada em 6 cm. As categorias são definidas por:
+
+a) Inspetor superior: quatro esferas armilares, colocadas em par;
+
+b) Inspetor: três esferas armilares, colocadas em linha;
+
+c) Inspetor-adjunto principal: duas esferas armilares, colocadas em linha;
+
+d) Inspetor-adjunto: uma esfera armilar.
+
+2 - No modelo de fardamento de cerimónia (Feminino e Masculino):
+
+a) Nas mangas do casaco, apostos à altura de 5,5 cm do extremo destas e equidistantes das costuras da folha superior:
+
+Inspetor superior (fig. 24);
+
+Inspetor (fig. 25);
+
+Inspetor-adjunto principal (fig. 26);
+
+Inspetor-adjunto (fig. 27);
+
+3 - No modelo de fardamento de serviço operacional:
+
+Inspetor superior (fig. 24);
+
+Inspetor (fig. 25);
+
+Inspetor-adjunto principal (fig. 26);
+
+Inspetor-adjunto (fig. 27).
+
+4 - [Revogado].
+
+5 - [Revogado].
+
+6 - [Revogado].
+
+7 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651), em vigor a partir de 2015-01-01.
+
+###### Artigo 11.º — Acessórios do fardamento
+
+São acessórios do fardamento:
+
+1) De uso obrigatório:
+
+a) Cinturão em nylon/cordura de cor preta, com fecho de segurança em plástico/liga metálica da mesma cor; com coldre de arma curta, confecionado em nylon/cordura ou material plástico rígido, de cor preta e respetiva arma;
+
+b) Carteira de identificação confecionada em pele de cor preta, contendo livre-trânsito do modelo aprovado e crachá metálico do modelo aprovado;
+
+2) De uso facultativo, a fornecer pelo Serviço:
+
+a) Porta-crachá confeccionado em pele de cor preta, com mola no verso e perfurada nos cantos superiores;
+
+b) Alfinete de gravata em metal dourado (fig. 43).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651), em vigor a partir de 2015-01-01.
+
+###### Artigo 12.º — Situações omissas
+
+As situações omissas serão objecto de despacho do director nacional do SEF.
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651), em vigor a partir de 2015-01-01.
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 285/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/285-2014-66012651), em vigor a partir de 2015-01-01.
+
+## Anexo
+
+(correspondente às figuras mencionadas)
+
+(ver documento original)

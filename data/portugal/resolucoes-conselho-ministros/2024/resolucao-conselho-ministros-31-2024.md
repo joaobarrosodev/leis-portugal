@@ -1,0 +1,178 @@
+---
+schema_version: '1.0'
+id: pt:dre:853939138:por
+title: Resolução do Conselho de Ministros n.º 31/2024
+short_title: null
+summary: Reprograma os encargos plurianuais relativos à expansão da Linha Vermelha do Metropolitano de Lisboa.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 31/2024
+official_date: null
+publication_date: '2024-03-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 44/2024, Série I de 2024-03-01
+  number: '44'
+  series: I
+  supplement: null
+  pages: 4 - 5
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04400/0000400005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/31/2024/03/01/p/dre/pt/html
+  oj: null
+  dre: '853939138'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/31-2024-853939138
+  internal: pt:dre:853939138:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-2024-853939138
+  metadata_url: https://data.dre.pt/eli/resolconsmin/31/2024/03/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/31-2024-853939138
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:32:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ab3119e4b832253e8ed238d3af0e29833a623249a1f85bd4e4547483f9fff9f4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização de Despesas
+- Despesas Públicas
+- Metropolitano
+- Metropolitano de Lisboa
+- Plano de Recuperação e Resiliência
+- Transporte Público
+relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:143/2022
+  label: Altera, a partir de 22 de fevereiro de 2024, os n.ºs 2 e 3 e revoga as alíneas a) e b) do n.º 2 e as subalíneas i)
+    e ii) da alínea a) do n.º 3 da Resolução do Conselho de Ministros n.º 143/2022, de 29 de dezembro, Diário da República
+    n.º 250/2022, Série I
+  source: null
+  date: '2022-12-29'
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:205450890:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/143/2022/12/29/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:32:36Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 31/2024
+
+Através da [Resolução do Conselho de Ministros n.º 143/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-2022-205450890), de 29 de dezembro, o Metropolitano de Lisboa, E. P. E., foi autorizado, na qualidade de beneficiário direto, a realizar as despesas com os encargos relativos ao investimento do Plano de Recuperação e Resiliência (PRR), TC-C15-i01 - Expansão da Rede do Metro de Lisboa - Linha Vermelha até Alcântara, até ao montante global de € 405 400 000,00.
+
+Atualmente, considerando que a conclusão da execução física e entrada em pleno funcionamento com serviço de transporte de passageiros do prolongamento da Linha Vermelha entre São Sebastião e Alcântara ocorrerá no ano de 2026, mas que os trabalhos de reposição da superfície urbana na zona envolvente das novas estações, constituindo-se estes como trabalhos auxiliares que não impedem nem condicionam a operação da Linha Vermelha, se prolongarão para além dessa data, torna-se necessário, sem alteração do valor global do investimento, reprogramar os encargos financeiros previstos na [Resolução do Conselho de Ministros n.º 143/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-2022-205450890), de 29 de dezembro.
+
+Por fim, dentro do valor global do investimento, são ainda ajustados os montantes respeitantes a cada uma das fontes de financiamento, tendo em conta a reprogramação do PRR aprovada em 2023, o que permitiu o incremento de financiamento europeu.
+
+Assim:
+
+Nos termos da alínea c) do n.º 1 do artigo 5.º e do n.º 1 do artigo 6.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Alterar os n.os2 e 3 da [Resolução do Conselho de Ministros n.º 143/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-2022-205450890), de 29 de dezembro, que passam a ter a seguinte redação:
+
+"2 - [...]
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) Até 2023: € 2 633 621,00;
+
+d) Em 2024: € 70 000 000,00;
+
+e) Em 2025: € 130 349 185,00;
+
+f) Em 2026: € 190 417 194,00;
+
+g) Em 2027: € 12 000 000,00.
+
+3 - [...]
+
+a) Verbas financiadas pelo PRR inscritas e a inscrever no orçamento de projetos do Metropolitano de Lisboa, E. P. E., no âmbito da componente C15 - Mobilidade Sustentável - Plano de Recuperação e Resiliência, Expansão da Rede do Metro de Lisboa - Linha Vermelha até Alcântara (TC-C15-i01), até ao montante global de € 357 509 619,00, sem prejuízo do disposto no artigo 16.º do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, repartidos da seguinte forma:
+
+i) (Revogada.)
+
+ii) (Revogada.)
+
+iii) Até 2023: € 2 633 621,00;
+
+iv) Em 2024: € 70 000 000,00;
+
+v) Em 2025: € 130 349 185,00;
+
+vi) Em 2026: € 154 526 813,00;
+
+b) Verba inscrita ou a inscrever, até ao montante global de € 47 890 381, repartida da seguinte forma:
+
+i) Verba inscrita ou a inscrever, até ao montante global de € 35 890 381,00, no ano de 2026;
+
+ii) Verba inscrita ou a inscrever, até ao montante global de € 12 000 000,00, no ano de 2027."
+
+2 - Revogar as alíneas a) e b) do n.º 2 e as subalíneas i) e ii) da alínea a) do n.º 3 da [Resolução do Conselho de Ministros n.º 143/2022](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-2022-205450890), de 29 de dezembro.
+
+3 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 22 de fevereiro de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+117408694

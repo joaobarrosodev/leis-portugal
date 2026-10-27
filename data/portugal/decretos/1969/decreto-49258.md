@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:214492:por
+title: Decreto n.º 49258
+short_title: null
+summary: Dá nova redacção aos artigos 482.º e 484.º do Decreto n.º 37029, que promulga o Estatuto do Ensino Profissional Industrial
+  e Comercial
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação Nacional - Direcção-Geral do Ensino Técnico Profissional
+proposing_entity: null
+official_number: '49258'
+official_date: null
+publication_date: '1969-09-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 224/1969, Série I de 1969-09-24
+  number: '224'
+  series: I
+  supplement: null
+  pages: 1290 - 1290
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/09/22400/12901290.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '214492'
+  dre_path: /dr/detalhe/decreto/49258-1969-214492
+  internal: pt:dre:214492:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/49258-1969-214492
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49258-1969-214492
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:09:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 03d99e7ec78427e9a0786ca396d4d0e8601a5aea160cab3b6a32796631889f6c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:09:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 49258
+
+Havendo necessidade de introduzir no Estatuto do Ensino Profissional Industrial e Comercial algumas alterações relativas às condições a observar na dispensa da prestação de exames finais e na utilização da época especial de Setembro-Outubro;
+
+Usando da faculdade conferida pelo n.º 3.ª do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo único. Os artigos 482.º e 484.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, passam a ter a seguinte redacção:
+
+Art. 482.º - 1. ...
+
+...
+
+7. O disposto no número anterior é aplicável aos alunos do ensino de aperfeiçoamento sempre que a aprovação no exame lhes permita concluir qualquer dos anos do plano de estudos por eles seguido ou o respectivo curso.
+
+...
+
+Art. 484.º Os alunos que nas escolas oficiais obtenham a classificação mínima de 14 valores na frequência do último ano de qualquer disciplina são dispensados do respectivo exame final, se assim o requererem e pagarem a propina que for devida.
+
+Marcello Caetano - José Hermano Saraiva.
+
+Promulgado em 15 de Setembro de 1969.
+
+Publique-se.
+
+Presidência da República, 24 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

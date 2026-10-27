@@ -1,0 +1,802 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011L0035:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011L0035-20170720",
+ "dre_path": null,
+ "source_lastmod": "2017-07-20",
+ "versions": [
+  {
+   "date": "2011-04-29",
+   "future": false,
+   "celex": "32011L0035",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f407f1bb76d5f67c",
+    "226c39ffd0a88dad",
+    "707b247288f2485e",
+    "ab5ec3b84d1fe1b8",
+    "f0f8c960bfdbce9b",
+    "3da0c3cec942eb44",
+    "b58af581209fbe24",
+    "84867d5e671d7d2a",
+    "09cac5e8282d2be9",
+    "1e7a0903d2eed348",
+    "4987425a505e0a78",
+    "e636d1b55420ab91",
+    "fa6157c91a54f2a4",
+    "eb9a0dbd1816dc66",
+    "e21b793cd5de5809",
+    "924abf5f3ff8162d",
+    "541d9cd5cef4be19",
+    "724c463c25a6252d",
+    "2c2f18c83da6b14e",
+    "15f36ec186dce6e1",
+    "6a5feb5969053c6b",
+    "0b0c32bd4a27b428",
+    "224527aea04660a7",
+    "0bf4bcf3a70bab35",
+    "7ee2e251d60c5cd3",
+    "9a196036e39b15d0",
+    "8ebfe8770f41a16b",
+    "b67846a61f61d9ce",
+    "da5ea9c9531dfc59",
+    "1ecfc79da3f1ac7f",
+    "fb34bb1c12e4f26b",
+    "b06956c38464be89",
+    "40ed6b62e188ac6f",
+    "a0ea5cb33fee41b6",
+    "366507d1afa5d70c",
+    "8891f64021d9dfe7",
+    "4551172e9bf5e836",
+    "06c4e4f65ed54a9b",
+    "47baf72a7dc9f016",
+    "4e3d799f33fdafa0",
+    "b76d202a844f758e",
+    "c09398e9353c4b67",
+    "16f7b9a793b8e984",
+    "f6410e031e55040a",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "f9fa278322df8a7c",
+    "1dc4a9ad230fec08",
+    "503c8b05edae2a59",
+    "65def73f1fa42eea"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02011L0035-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0024:por",
+     "title": "DIRETIVA 2013/24/UE DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013L0024"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 34.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita PARTE A",
+    "Adita PARTE B",
+    "Adita ANEXO II"
+   ],
+   "fragments": [
+    "f13fd5798e9e9dcc",
+    "226c39ffd0a88dad",
+    "707b247288f2485e",
+    "5e8eac708ba8b876",
+    "f0f8c960bfdbce9b",
+    "3da0c3cec942eb44",
+    "b58af581209fbe24",
+    "84867d5e671d7d2a",
+    "09cac5e8282d2be9",
+    "1e7a0903d2eed348",
+    "4987425a505e0a78",
+    "e636d1b55420ab91",
+    "fa6157c91a54f2a4",
+    "eb9a0dbd1816dc66",
+    "e21b793cd5de5809",
+    "924abf5f3ff8162d",
+    "541d9cd5cef4be19",
+    "b120c6330e88d11a",
+    "2c2f18c83da6b14e",
+    "15f36ec186dce6e1",
+    "6a5feb5969053c6b",
+    "0b0c32bd4a27b428",
+    "224527aea04660a7",
+    "0bf4bcf3a70bab35",
+    "7ee2e251d60c5cd3",
+    "9a196036e39b15d0",
+    "8ebfe8770f41a16b",
+    "b67846a61f61d9ce",
+    "da5ea9c9531dfc59",
+    "1ecfc79da3f1ac7f",
+    "fb34bb1c12e4f26b",
+    "b06956c38464be89",
+    "40ed6b62e188ac6f",
+    "a0ea5cb33fee41b6",
+    "366507d1afa5d70c",
+    "8891f64021d9dfe7",
+    "4551172e9bf5e836",
+    "06c4e4f65ed54a9b",
+    "47baf72a7dc9f016",
+    "4e3d799f33fdafa0",
+    "b76d202a844f758e",
+    "c09398e9353c4b67",
+    "16f7b9a793b8e984",
+    "f6410e031e55040a",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "f9fa278322df8a7c",
+    "1dc4a9ad230fec08",
+    "864e3ada1ca5836f",
+    "d664376e2a8dcecd",
+    "febcdde53097c2df",
+    "335a045599ba2910",
+    "e92775d1dd84bde1",
+    "40fd4849c4964fa1"
+   ]
+  },
+  {
+   "date": "2014-07-02",
+   "future": false,
+   "celex": "02011L0035-20140702",
+   "acts": [
+    {
+     "id": "eu:celex:32014L0059:por",
+     "title": "DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio de 2014",
+     "published": null,
+     "celex": "32014L0059"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 11.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "a9bf4a61297d38ba",
+    "226c39ffd0a88dad",
+    "707b247288f2485e",
+    "390581ebd809388e",
+    "f0f8c960bfdbce9b",
+    "3da0c3cec942eb44",
+    "b58af581209fbe24",
+    "84867d5e671d7d2a",
+    "09cac5e8282d2be9",
+    "1e7a0903d2eed348",
+    "4987425a505e0a78",
+    "e636d1b55420ab91",
+    "fa6157c91a54f2a4",
+    "eb9a0dbd1816dc66",
+    "e21b793cd5de5809",
+    "924abf5f3ff8162d",
+    "541d9cd5cef4be19",
+    "a5706608bc6d19a0",
+    "2c2f18c83da6b14e",
+    "15f36ec186dce6e1",
+    "6a5feb5969053c6b",
+    "0b0c32bd4a27b428",
+    "224527aea04660a7",
+    "0bf4bcf3a70bab35",
+    "7ee2e251d60c5cd3",
+    "9a196036e39b15d0",
+    "8ebfe8770f41a16b",
+    "b67846a61f61d9ce",
+    "da5ea9c9531dfc59",
+    "1ecfc79da3f1ac7f",
+    "fb34bb1c12e4f26b",
+    "b06956c38464be89",
+    "40ed6b62e188ac6f",
+    "a0ea5cb33fee41b6",
+    "366507d1afa5d70c",
+    "8891f64021d9dfe7",
+    "4551172e9bf5e836",
+    "06c4e4f65ed54a9b",
+    "47baf72a7dc9f016",
+    "4e3d799f33fdafa0",
+    "b76d202a844f758e",
+    "c09398e9353c4b67",
+    "16f7b9a793b8e984",
+    "f6410e031e55040a",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "f9fa278322df8a7c",
+    "1dc4a9ad230fec08",
+    "864e3ada1ca5836f",
+    "d664376e2a8dcecd",
+    "febcdde53097c2df",
+    "335a045599ba2910",
+    "e92775d1dd84bde1",
+    "e73c981cb0dacc1f"
+   ]
+  },
+  {
+   "date": "2017-07-20",
+   "future": false,
+   "celex": "02011L0035-20170720",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime ÂMBITO DE APLICAÇÃO",
+    "Suprime Artigo 1.º",
+    "Suprime CAPÍTULO II",
+    "Suprime REGIME DA FUSÃO MEDIANTE INCORPORAÇÃO DE UMA OU VÁRIAS SOCIEDADES NOUTRA SOCIEDADE E DA FUSÃO MEDIANTE A CONSTITUIÇÃO DE UMA NOVA SOCIEDADE",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime CAPÍTULO III",
+    "Suprime FUSÃO MEDIANTE INCORPORAÇÃO",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime FUSÃO MEDIANTE A CONSTITUIÇÃO DE UMA NOVA SOCIEDADE",
+    "Suprime Artigo 23.º",
+    "Suprime CAPÍTULO V",
+    "Suprime INCORPORAÇÃO DE UMA SOCIEDADE NOUTRA QUE POSSUA PELO MENOS 90 % DAS ACÇÕES DA PRIMEIRA",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime CAPÍTULO VI",
+    "Suprime OUTRAS OPERAÇÕES EQUIPARADAS À FUSÃO",
+    "Suprime Artigo 30.º",
+    "Suprime Artigo 31.º",
+    "Suprime CAPÍTULO VII",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 32.º",
+    "Suprime Artigo 33.º",
+    "Suprime Artigo 34.º",
+    "Suprime ANEXO I",
+    "Suprime PARTE A",
+    "Suprime PARTE B",
+    "Suprime ANEXO II",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "b2795ddab89ed7db"
+   ]
+  }
+ ],
+ "fragments": {
+  "f407f1bb76d5f67c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Abril de 2011\n\nrelativa à fusão das sociedades anónimas\n\n(codificação)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente a alínea g) do n.º 2 do artigo 50.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projecto de acto legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntr1-L_2011110PT.01000101-E0001),\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntr2-L_2011110PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) A Terceira Directiva 78/855/CEE do Conselho, de 9 de Outubro de 1978, fundada na alínea g) do n.º 3 do artigo 54.º do Tratado e relativa à fusão das sociedades anónimas [([^3])](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntr3-L_2011110PT.01000101-E0003), foi por várias vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntr4-L_2011110PT.01000101-E0004). Por razões de lógica e clareza, é conveniente proceder à codificação da referida directiva.\n\n(2) A coordenação prevista na alínea g) do n.º 2 do artigo 50.º do Tratado e no programa geral para a supressão das restrições à liberdade de estabelecimento [([^5])](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntr5-L_2011110PT.01000101-E0005) iniciou-se com a primeira Directiva 68/151/CEE do Conselho, de 9 de Março de 1968, tendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-Membros às sociedades, na acepção do segundo parágrafo do artigo 58.º do Tratado, a fim de tornar equivalentes essas garantias em toda a Comunidade [([^6])](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntr6-L_2011110PT.01000101-E0006).\n\n(3) Essa coordenação prosseguiu, no que respeita à constituição das sociedades anónimas e à conservação e modificação do seu capital, com a Segunda Directiva 77/91/CEE do Conselho, de 13 de Dezembro de 1976, tendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-Membros às sociedades, na acepção do segundo parágrafo do artigo 58.º do Tratado, no que respeita à constituição da sociedade anónima, bem como à conservação e às modificações do seu capital social, a fim de tornar equivalente essas garantias em toda a Comunidade [([^7])](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntr7-L_2011110PT.01000101-E0007), e, no que diz respeito às contas anuais de certos tipos de sociedades, com a Quarta Directiva 78/660/CEE do Conselho, de 25 de Julho de 1978, baseada na alínea g) do n.º 3 do artigo 54.º do Tratado e relativa às contas anuais de certas formas de sociedades [([^8])](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntr8-L_2011110PT.01000101-E0008).\n\n(4) A protecção dos interesses dos sócios e de terceiros requer uma coordenação da legislação dos Estados-Membros a respeito da fusão das sociedades anónimas, e é conveniente introduzir na legislação de todos os Estados-Membros o instituto da fusão.\n\n(5) No quadro dessa coordenação, é particularmente importante assegurar aos accionistas das sociedades participantes na fusão uma informação adequada, e tanto quanto possível objectiva, e garantir uma protecção apropriada dos seus direitos. Contudo, não é necessário exigir uma análise do projecto das condições da concentração por um perito independente para os accionistas se todos os accionistas concordarem em prescindir dessa análise.\n\n(6) A protecção dos direitos dos trabalhadores em caso de transmissão de empresas, de estabelecimentos ou de partes de empresas ou de estabelecimentos é actualmente regulada pela Directiva 2001/23/CE do Conselho, de 12 de Março de 2001, relativa à aproximação das legislações dos Estados-Membros respeitantes à manutenção dos direitos dos trabalhadores em caso de transferência de empresas ou de estabelecimentos, ou de partes de empresas ou de estabelecimentos [([^9])](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntr9-L_2011110PT.01000101-E0009).\n\n(7) Os credores, incluindo os obrigacionistas, e os portadores de outros títulos das sociedades participantes na fusão deverão ser protegidos de modo a evitar que a realização da fusão prejudique os seus interesses.\n\n(8) A publicidade prevista pela Directiva 2009/101/CE do Parlamento Europeu e do Conselho, de 16 de Setembro de 2009, relativa à coordenação das garantias que, para protecção dos interesses dos sócios e de terceiros são exigidas nos Estados-Membros às sociedades, na acepção do segundo parágrafo do artigo 48.º do Tratado, a fim de tornar equivalentes essas garantias [([^10])](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntr10-L_2011110PT.01000101-E0010), deverá ser extensiva às operações relativas à fusão, a fim de que os terceiros se mantenham adequadamente informados.\n\n(9) É necessário alargar as garantias previstas a favor dos sócios e de terceiros, no quadro do processo de fusão, a certas operações jurídicas que, em certos pontos essenciais, têm características análogas às da fusão, a fim de que esta protecção não possa ser iludida.\n\n(10) A fim de assegurar a segurança jurídica nas relações entre as sociedades interessadas, entre estas e terceiros, e entre os accionistas, é necessário limitar os casos de invalidade e estabelecer, por um lado, que os vícios do acto sejam sanáveis sempre que possível, encurtando, por outro lado, o prazo em que a invalidade pode ser invocada.\n\n(11) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional das directivas indicadas na parte B do anexo I,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "707b247288f2485e": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO"
+  },
+  "ab5ec3b84d1fe1b8": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As medidas de coordenação prescritas pela presente directiva aplicam-se às disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas aos seguintes tipos de sociedades:\n\n— para a Bélgica: — la société anonyme/de naamloze vennootschap;\n\n— la société anonyme/de naamloze vennootschap;\n\n— para a Bulgária: — акционерно дружество;\n\n— акционерно дружество;\n\n— para a República Checa: — akciová společnost;\n\n— akciová společnost;\n\n— para a Dinamarca: — aktieselskaber;\n\n— aktieselskaber;\n\n— para a Alemanha: — die Aktiengesellschaft;\n\n— die Aktiengesellschaft;\n\n— para a Estónia: — aktsiaselts;\n\n— aktsiaselts;\n\n— para a Irlanda: — public companies limited by shares, public companies limited by guarantee having a share capital;\n\n— public companies limited by shares, public companies limited by guarantee having a share capital;\n\n— para a Grécia: — ανώνυμη εταιρία;\n\n— ανώνυμη εταιρία;\n\n— para Espanha: — la sociedad anónima;\n\n— la sociedad anónima;\n\n— para a França: — la société anonyme;\n\n— la société anonyme;\n\n— para a Itália: — la società per azioni;\n\n— la società per azioni;\n\n— para Chipre: — Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές, δημόσιες εταιρείεςπεριορισμένης ευθύνης με εγγύηση που διαθέτουν μετοχικό κεφάλαιο;\n\n— Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές, δημόσιες εταιρείεςπεριορισμένης ευθύνης με εγγύηση που διαθέτουν μετοχικό κεφάλαιο;\n\n— para a Letónia: — akciju sabiedrība;\n\n— akciju sabiedrība;\n\n— para a Lituânia: — akcinė bendrovė;\n\n— akcinė bendrovė;\n\n— para o Luxemburgo: — la société anonyme;\n\n— la société anonyme;\n\n— para a Hungria: — részvénytársaság;\n\n— részvénytársaság;\n\n— para Malta: — kumpannija pubblika/public limited liability company, kumpannija privata/private limited liability company;\n\n— kumpannija pubblika/public limited liability company, kumpannija privata/private limited liability company;\n\n— para os Países Baixos: — de naamloze vennootschap;\n\n— de naamloze vennootschap;\n\n— para a Áustria: — die Aktiengesellschaft;\n\n— die Aktiengesellschaft;\n\n— para a Polónia: — spółka akcyjna;\n\n— spółka akcyjna;\n\n— para Portugal: — a sociedade anónima;\n\n— a sociedade anónima;\n\n— para a Roménia: — societate pe acțiuni;\n\n— societate pe acțiuni;\n\n— para a Eslovénia: — delniška družba,\n\n— delniška družba,\n\n— para a Eslováquia: — akciová spoločnosť;\n\n— akciová spoločnosť;\n\n— para a Finlândia: — julkinen osakeyhtiö/publikt aktiebolag;\n\n— julkinen osakeyhtiö/publikt aktiebolag;\n\n— para a Suécia: — aktiebolag;\n\n— aktiebolag;\n\n— para o Reino Unido: — public companies limited by shares, public companies limited by guarantee having a share capital.\n\n— public companies limited by shares, public companies limited by guarantee having a share capital.\n\n2. Os Estados-Membros podem não aplicar a presente directiva às sociedades cooperativas constituídas segundo um dos tipos de sociedades indicados no n.º 1. Caso a legislação dos Estados-Membros preveja esta opção, deve exigir-se que essas sociedades façam figurar o termo «cooperativa» em todos os documentos referidos no artigo 5.º da Directiva 2009/101/CE.\n\n3. Os Estados-Membros podem não aplicar a presente directiva caso uma ou várias das sociedades que são incorporadas ou que se extinguem sejam objecto de um processo de falência, de concordata, ou de um processo análogo."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "3da0c3cec942eb44": {
+   "fragment_id": "REGIME DA FUSÃO MEDIANTE INCORPORAÇÃO DE UMA OU VÁRIAS SOCIEDADES NOUTRA SOCIEDADE E DA FUSÃO MEDIANTE A CONSTITUIÇÃO DE UMA NOVA SOCIEDADE",
+   "type": "divisao",
+   "heading": "REGIME DA FUSÃO MEDIANTE INCORPORAÇÃO DE UMA OU VÁRIAS SOCIEDADES NOUTRA SOCIEDADE E DA FUSÃO MEDIANTE A CONSTITUIÇÃO DE UMA NOVA SOCIEDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGIME DA FUSÃO MEDIANTE INCORPORAÇÃO DE UMA OU VÁRIAS SOCIEDADES NOUTRA SOCIEDADE E DA FUSÃO MEDIANTE A CONSTITUIÇÃO DE UMA NOVA SOCIEDADE"
+  },
+  "b58af581209fbe24": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros regulamentam, para as sociedades reguladas pela sua legislação, a fusão mediante incorporação de uma ou várias sociedades noutra sociedade e a fusão mediante a constituição de uma nova sociedade."
+  },
+  "84867d5e671d7d2a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Para efeitos da presente directiva, entende-se por «fusão mediante incorporação» a operação pela qual uma ou várias sociedades, por meio de uma dissolução sem liquidação, transferem para outra todo o seu património activo e passivo, mediante a atribuição aos accionistas da sociedade ou sociedades incorporadas de acções da sociedade incorporante e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal das acções assim atribuídas ou, na falta de valor nominal, do seu valor contabilístico.\n\n2. A legislação de um Estado-Membro pode prever que a fusão mediante incorporação possa igualmente ser efectuada quando uma ou várias das sociedades incorporadas se encontrem em liquidação, desde que esta possibilidade seja dada apenas às sociedades que não tenham ainda iniciado a partilha dos activos entre os seus accionistas."
+  },
+  "09cac5e8282d2be9": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para os efeitos da presente directiva, entende-se por «fusão mediante a constituição de uma nova sociedade» a operação pela qual várias sociedades, por meio da sua dissolução sem liquidação, transferem para uma sociedade que elas constituem todo o seu património activo e passivo, mediante a atribuição aos seus accionistas de acções da nova sociedade e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal das acções atribuídas ou, na falta de valor nominal, do seu valor contabilístico.\n\n2. A legislação de um Estado-Membro pode prever que a fusão mediante a constituição de uma nova sociedade possa igualmente ser efectuada quando uma ou várias das sociedades que se extinguem se encontrem em liquidação, desde que esta possibilidade seja dada apenas às sociedades que não tenham ainda iniciado a partilha dos activos entre os seus accionistas."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "4987425a505e0a78": {
+   "fragment_id": "FUSÃO MEDIANTE INCORPORAÇÃO",
+   "type": "divisao",
+   "heading": "FUSÃO MEDIANTE INCORPORAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FUSÃO MEDIANTE INCORPORAÇÃO"
+  },
+  "e636d1b55420ab91": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os órgãos de administração ou de direcção das sociedades que participam na fusão elaboram um projecto escrito de fusão.\n\n2. O projecto de fusão deve indicar, pelo menos:\n\na) O tipo, a denominação e a sede social das sociedades participantes na fusão;\n\nb) A relação de troca das acções e, se for caso disso, a quantia em dinheiro atribuída aos accionistas;\n\nc) As modalidades de entrega das acções da sociedade incorporante;\n\nd) A data a partir da qual essas acções conferem o direito aos dividendos, bem como qualquer especialidade relativa a esse direito;\n\ne) A data a partir da qual as operações das sociedades incorporadas serão consideradas, do ponto de vista contabilístico, efectuadas por conta da sociedade incorporante;\n\nf) Os direitos assegurados pela sociedade incorporante aos accionistas que gozem de direitos especiais e aos portadores de títulos diferentes das acções, ou as medidas propostas relativamente a eles;\n\ng) Todas as vantagens especiais atribuídas aos peritos referidos no n.º 1 do artigo 10.º e aos membros dos órgãos de administração, de direcção, de vigilância ou de fiscalização das sociedades participantes na fusão."
+  },
+  "fa6157c91a54f2a4": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO projecto de fusão deve ser objecto de publicidade, segundo os modos previstos pela legislação de cada Estado-Membro, nos termos do artigo 3.º da Directiva 2009/101/CE, relativamente a cada uma das sociedades participantes, com uma antecedência mínima de um mês sobre a data da reunião da assembleia geral convocada para se pronunciar sobre o projecto de fusão.\n\nO requisito de publicação estabelecido no artigo 3.º da Directiva 2009/101/CE não se aplica a nenhuma das sociedades participantes na fusão que, num prazo contínuo, com uma antecedência mínima de um mês sobre a data da reunião da assembleia geral em que seja decidido o projecto de fusão e até à conclusão dessa reunião, coloque o projecto de fusão em causa à disposição no seu próprio sítio *web* ou no sítio *web* de outra entidade, de forma gratuita para o público. Os Estados-Membros não sujeitam essa isenção a requisitos ou condições para além dos necessários para garantir a segurança do sítio *web* e a autenticidade dos documentos, e podem impor tais requisitos ou condições apenas na medida em que forem proporcionais à concretização desses objectivos.\n\nNão obstante o disposto no segundo parágrafo, os Estados-Membros podem exigir que a publicação seja concretizada através da plataforma electrónica central a que se refere o n.º 5 do artigo 3.º da Directiva 2009/101/CE. Em alternativa, os Estados-Membros podem exigir que a essa publicação seja feita em qualquer outro sítio *web* para o efeito designado pelo Estado-Membro. Quando recorrerem a uma dessas possibilidades, os Estados-Membros devem garantir que não seja cobrada às sociedades uma taxa específica por tal publicação.\n\nQuando for utilizado um sítio *web* distinto da plataforma electrónica central, deve ser publicada na plataforma electrónica central uma menção que dê acesso a esse sítio *web* pelo menos um mês antes da data fixada para a assembleia geral. A referida menção deve incluir a data de publicação do projecto de fusão no sítio *web* e ser acessível ao público de forma gratuita. Não deve ser cobrada às sociedades uma taxa específica por tal publicação.\n\nA proibição prevista no terceiro e no quarto parágrafos, de cobrança às sociedades de uma taxa específica pela publicação, não afecta o direito que assiste aos Estados-Membros de repercutir sobre as sociedades os custos relacionados com a plataforma electrónica central.\n\nOs Estados-Membros podem exigir que as sociedades mantenham a informação durante um período específico após a assembleia geral no respectivo sítio *web* ou, se for o caso, na plataforma electrónica central designada pelo Estado-Membro interessado. Os Estados-Membros podem determinar as consequências da indisponibilidade temporária do acesso ao sítio *web* ou à plataforma electrónica central, por razões técnicas ou de outra natureza."
+  },
+  "eb9a0dbd1816dc66": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A fusão tem de ser aprovada, pelo menos, pela assembleia geral de cada uma das sociedades participantes. A legislação dos Estados-Membros determina que a deliberação de aprovação deve ser tomada com pelo menos uma maioria não inferior a dois terços dos votos correspondentes, quer aos títulos representados quer ao capital subscrito representado.\n\nContudo, a legislação de um Estado-Membro pode dispor que, estando representado, pelo menos, metade do capital subscrito, será suficiente a maioria simples dos votos indicados no primeiro parágrafo. Aplicam-se ainda, se for caso disso, as normas relativas à alteração dos estatutos.\n\n2. Se existirem várias categorias de acções, a deliberação de fusão deve ficar subordinada a uma votação separada, a efectuar, pelo menos, por cada uma das categorias de accionistas cujos direitos sejam afectados pela operação.\n\n3. A deliberação a tomar deve incidir sobre a aprovação do projecto de fusão e, se for caso disso, sobre as alterações dos estatutos necessárias à sua realização."
+  },
+  "e21b793cd5de5809": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA legislação de um Estado-Membro pode não exigir a aprovação da fusão pela assembleia geral da sociedade incorporante, desde que sejam observados os seguintes requisitos:\n\na) A publicidade prescrita no artigo 6.º deve ser efectuada relativamente à sociedade incorporante pelo menos um mês antes da data da reunião da assembleia geral da sociedade ou sociedades incorporadas convocada para se pronunciar sobre o projecto de fusão;\n\nb) Os accionistas da sociedade incorporante devem ter o direito de consultar, na sede social desta sociedade, pelo menos um mês antes da data indicada na alínea a), os documentos indicados no n.º 1 do artigo 11.º;\n\nc) Um ou vários accionistas da sociedade incorporante, que disponham de uma percentagem mínima do capital subscrito, devem ter o direito de exigir a convocação de uma assembleia geral da sociedade incorporante para esta se pronunciar sobre a aprovação da fusão; esta percentagem mínima não pode ser fixada em mais de 5 %. Contudo, os Estados-Membros podem dispor que as acções sem direito de voto sejam excluídas do cálculo dessa percentagem.\n\nPara efeitos da alínea b) do primeiro parágrafo, aplicam-se os n.^os^ 2, 3 e 4 do artigo 11.º."
+  },
+  "924abf5f3ff8162d": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os órgãos de administração ou de direcção de cada uma das sociedades participantes na fusão elaboram um relatório escrito pormenorizado, explicando e justificando do ponto de vista jurídico e económico o projecto de fusão e, em especial, a relação de troca das acções.\n\nO relatório deve indicar, além disso, as dificuldades especiais de avaliação, caso existam.\n\n2. Os órgãos de administração ou de direcção de cada uma das sociedades devem informar a assembleia geral da sua sociedade e os órgãos de administração ou de direcção das outras sociedades implicadas para que estes informem as assembleias gerais das suas sociedades de qualquer mudança importante do património activo e passivo ocorrida entre a data da elaboração do projecto de fusão e a data da reunião das assembleias gerais em que será decidido o projecto de fusão.\n\n3. Os Estados-Membros podem determinar que o relatório a que se refere o n.º 1 e/ou as informações a que se refere o n.º 2 deixem de ser obrigatórios se todos os accionistas e os portadores de outros títulos que confiram direito de voto de todas as sociedades que participam na fusão assim o decidirem."
+  },
+  "541d9cd5cef4be19": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Relativamente a cada uma das sociedades participantes na fusão, um ou mais peritos independentes destas, designados ou reconhecidos por uma autoridade judicial ou administrativa, examinam o projecto de fusão e redigem um relatório escrito, destinado aos accionistas. Contudo, a legislação de um Estado-Membro pode prever a nomeação de um ou vários peritos independentes para todas as sociedades participantes na fusão, se esta nomeação for feita por uma autoridade judicial ou administrativa, a pedido conjunto das sociedades. Estes peritos podem ser pessoas singulares ou colectivas ou sociedades, consoante a legislação de cada Estado-Membro.\n\n2. No relatório referido no n.º 1, os peritos devem sempre declarar se, em sua opinião, a relação de troca de acções é justa e razoável. Esta declaração deve, pelo menos:\n\na) Indicar o método ou métodos seguidos para a determinação da relação de troca proposta;\n\nb) Indicar se tal ou tais métodos são adequados ao caso concreto e mencionar os valores a que cada um desses métodos conduz, dando parecer sobre a importância relativa concedida a esses métodos na determinação do valor fixado.\n\nO relatório deve indicar, além disso, as dificuldades especiais de avaliação, caso existam.\n\n3. Cada perito tem o direito de obter das sociedades participantes na fusão todas as informações e documentos de que careça, e de proceder a todas as verificações necessárias.\n\n4. Não é exigida a análise do projecto de fusão nem um relatório de peritos se todos os accionistas e os portadores de outros títulos que confiram direito de voto das sociedades que participam na fusão a isso tiverem renunciado."
+  },
+  "724c463c25a6252d": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os accionistas têm o direito de consultar na sede social, com uma antecedência mínima de um mês relativamente à data da reunião da assembleia geral convocada para se pronunciar sobre o projecto de fusão, pelo menos os seguintes documentos:\n\na) O projecto de fusão;\n\nb) As contas anuais e os relatórios de gestão dos três últimos exercícios das sociedades participantes na fusão;\n\nc) Se for esse o caso, um balanço contabilístico reportado a uma data que não deve ser anterior ao primeiro dia do terceiro mês anterior à data do projecto de fusão, no caso de as últimas contas anuais se reportarem a um exercício cujo termo é anterior em mais de seis meses a essa data;\n\nd) Quando aplicável, os relatórios dos órgãos de administração ou de direcção das sociedades participantes na fusão previstos no artigo 9.º;\n\ne) Quando aplicável, os relatórios referidos no n.º 1 do artigo 10.º.\n\nPara efeitos da alínea c) do primeiro parágrafo, não é exigido um balanço contabilístico se a sociedade publicar um relatório financeiro semestral nos termos do artigo 5.º da Directiva 2004/109/CE do Parlamento Europeu e do Conselho, de 15 de Dezembro de 2004, relativa à harmonização dos requisitos de transparência no que se refere às informações respeitantes aos emitentes cujos valores mobiliários estão admitidos à negociação num mercado regulamentado [([^11])](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntr11-L_2011110PT.01000101-E0011), e o colocar à disposição dos accionistas nos termos do presente número. Além disso, os Estados-Membros podem determinar que não seja exigido um balanço contabilístico se todos os accionistas e os portadores de outros títulos que confiram direito de voto de todas as sociedades que participam na fusão assim o decidirem.\n\n2. O balanço contabilístico previsto na alínea c) do primeiro parágrafo do n.º 1 deve ser elaborado segundo os mesmos métodos e seguindo a mesma apresentação do último balanço anual.\n\nContudo, a legislação de um Estado-Membro pode estabelecer:\n\na) Que não é necessário proceder a um novo inventário físico;\n\nb) Que as avaliações que figuram no último balanço apenas devem ser alteradas em função dos lançamentos contabilísticos. Todavia, devem ser tomadas em conta: — as amortizações e provisões provisórias, — as modificações importantes do valor real que não apareçam na contabilidade.\n\n— as amortizações e provisões provisórias,\n\n— as modificações importantes do valor real que não apareçam na contabilidade.\n\n3. Os accionistas podem obter, sem encargos e através de simples pedido, cópias integrais ou, se o desejarem, parciais dos documentos referidos no n.º 1.\n\nCaso um accionista tenha dado consentimento à utilização, pela sociedade, de meios electrónicos para a comunicação de informações, essas cópias podem ser fornecidas por correio electrónico.\n\n4. As sociedades estão isentas do requisito de disponibilização, na sua sede social, dos documentos a que se refere o n.º 1 se, num prazo contínuo, com a antecedência mínima de um mês sobre a data da reunião da assembleia geral em que seja decidido o projecto de fusão e até à conclusão dessa reunião, os colocarem à disposição no seu sítio *web*. Os Estados-Membros não sujeitam essa isenção a requisitos ou condições para além dos que sejam necessários para garantir a segurança do sítio *web* e a autenticidade dos documentos, e podem impor tais requisitos ou condições apenas na medida em que forem proporcionais à concretização desses objectivos.\n\nO n.º 3 não se aplica se o sítio *web* conferir aos accionistas a possibilidade de descarregar e imprimir uma cópia electrónica dos documentos a que se refere o n.º 1, durante todo o período a que se refere o primeiro parágrafo do presente número. Não obstante, nesse caso os Estados-Membros podem determinar que a sociedade coloque à disposição esses documentos na sua sede social para consulta dos accionistas.\n\nOs Estados-Membros podem exigir que as sociedades mantenham a informação durante um período específico após a assembleia geral no respectivo sítio *web*. Os Estados-Membros podem determinar as consequências da indisponibilidade temporária do acesso ao sítio *web* por razões técnicas ou de outra natureza."
+  },
+  "2c2f18c83da6b14e": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA protecção dos direitos dos trabalhadores de cada uma das sociedades participantes na fusão é regulada nos termos da Directiva 2001/23/CE."
+  },
+  "15f36ec186dce6e1": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A legislação dos Estados-Membros deve prever um sistema adequado de protecção dos interesses dos credores das sociedades participantes na fusão relativamente aos créditos anteriores à publicação do projecto de fusão e ainda não vencidos no momento desta publicação.\n\n2. Para esse efeito, a legislação dos Estados-Membros deve prever, pelo menos, que os credores em causa tenham o direito de obter garantias adequadas caso a situação financeira das sociedades participantes numa fusão torne essa protecção necessária e esses credores não disponham já de tais garantias.\n\nOs Estados-Membros devem estabelecer as condições de protecção previstas no n.º 1 e no primeiro parágrafo do presente número. Em qualquer caso, os Estados-Membros devem assegurar que os credores sejam autorizados a recorrer à autoridade administrativa ou judicial competente para obter garantias adequadas, desde que possam demonstrar, de maneira credível, que a fusão compromete o exercício dos seus direitos e que a sociedade não lhes forneceu garantias adequadas.\n\n3. A protecção pode ser diferente para os credores da sociedade incorporante e para os da sociedade incorporada."
+  },
+  "6a5feb5969053c6b": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSem prejuízo das regras relativas ao exercício colectivo dos seus direitos, o artigo 13.º aplica-se aos obrigacionistas das sociedades participantes na fusão, salvo se a fusão tiver sido aprovada por uma assembleia dos obrigacionistas, caso a lei nacional preveja uma tal assembleia, ou pelos obrigacionistas individualmente."
+  },
+  "0b0c32bd4a27b428": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs portadores de títulos que não sejam acções, dotados de direitos especiais, devem beneficiar, na sociedade incorporante, de direitos pelo menos equivalentes àqueles de que beneficiavam na sociedade incorporada, salvo se a modificação desses direitos tiver sido aprovada por uma assembleia dos portadores desses títulos, caso a lei nacional preveja uma tal assembleia, ou pelos portadores dos títulos individualmente, ou ainda se esses portadores tiverem o direito de obter da sociedade incorporante o resgate dos seus títulos."
+  },
+  "224527aea04660a7": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Se a legislação de um Estado-Membro não previr para as fusões um controlo preventivo de legalidade, judicial ou administrativo, ou se esse controlo não incidir sobre todos os actos necessários à fusão, as actas das assembleias gerais que deliberam a fusão e, se for caso disso, o contrato de fusão posterior a essas assembleias gerais, devem revestir a forma de documento autêntico. Nos casos em que a fusão não tenha de ser aprovada pelas assembleias gerais de todas as sociedades participantes, o projecto de fusão deve revestir a forma de documento autêntico.\n\n2. O notário ou a autoridade competente para exarar o documento autêntico deve verificar e certificar a existência e a legalidade dos actos e das formalidades que incumbem à sociedade junto da qual ele actua, bem como do projecto de fusão."
+  },
+  "0bf4bcf3a70bab35": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA legislação dos Estados-Membros determina a data a partir da qual a fusão produz efeitos."
+  },
+  "7ee2e251d60c5cd3": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. A fusão deve ser objecto de publicidade efectuada segundo os modos previstos pela legislação de cada Estado-Membro, nos termos do artigo 3.º da Directiva 2009/101/CE, para cada uma das sociedades participantes.\n\n2. A sociedade incorporante pode proceder ela própria às formalidades de publicidade respeitantes à sociedade ou sociedades incorporadas."
+  },
+  "9a196036e39b15d0": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. A fusão produz *ipso iure* e simultaneamente os seguintes efeitos:\n\na) A transmissão universal do conjunto do património activo e passivo da sociedade incorporada para a sociedade incorporante, tanto no que a estas respeita como relativamente a terceiros;\n\nb) Os accionistas da sociedade incorporada tornam-se accionistas da sociedade incorporante;\n\nc) A sociedade incorporada extingue-se.\n\n2. Nenhuma acção da sociedade incorporante é dada em troca de acções da sociedade incorporada que sejam possuídas:\n\na) Pela própria sociedade incorporante ou por uma pessoa que actue em nome próprio, mas por conta da sociedade; ou\n\nb) Pela própria sociedade incorporada ou por uma pessoa que actue em nome próprio, mas por conta da sociedade.\n\n3. O número em causa não afecta as disposições legislativas dos Estados-Membros que exijam formalidades particulares para a oponibilidade a terceiros da transmissão de certos bens, direitos e obrigações provindos da sociedade incorporada. A sociedade incorporante pode efectuar ela própria estas formalidades; contudo, a legislação dos Estados-Membros pode permitir que a sociedade incorporada continue a efectuar essas formalidades durante um período limitado, que não pode ser fixado, salvo casos excepcionais, em mais de seis meses a contar da data em que a fusão se tornou eficaz."
+  },
+  "8ebfe8770f41a16b": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nA legislação dos Estados-Membros regula pelo menos a responsabilidade civil dos membros do órgão de administração ou de direcção da sociedade incorporada para com os accionistas desta sociedade, decorrente das irregularidades cometidas pelos membros desse órgão na preparação e realização da fusão."
+  },
+  "b67846a61f61d9ce": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nA legislação dos Estados-Membros regula pelo menos a responsabilidade civil, para com os accionistas da sociedade incorporada, dos peritos encarregados de elaborar para esta sociedade o relatório previsto no n.º 1 do artigo 10.º, decorrente das irregularidades cometidas no exercício das suas funções."
+  },
+  "da5ea9c9531dfc59": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A legislação dos Estados-Membros só pode disciplinar o regime da invalidade da fusão nas seguintes condições:\n\na) A invalidade deve ser reconhecida por decisão judicial;\n\nb) A invalidade de uma fusão, que se tornou eficaz nos termos do artigo 17.º, só pode ser reconhecida com fundamento na falta do controlo preventivo, judicial ou administrativo, de legalidade, ou de documento autêntico, ou se for decidido que a deliberação da assembleia geral é nula ou anulável em virtude do direito nacional;\n\nc) A acção de invalidade não pode ser intentada se a irregularidade já tiver sido sanada ou se já tiver o prazo de seis meses, a contar da data em que a fusão é oponível àquele que invoca a invalidade;\n\nd) No caso de ser possível sanar o vício susceptível de produzir a invalidade da fusão, o tribunal competente concederá às sociedades interessadas um prazo para regularizar a situação;\n\ne) A decisão que reconheça a invalidade da fusão deve ser objecto de publicidade a efectuar pelos modos previstos pela legislação de cada Estado-Membro, nos termos do artigo 3.º da Directiva 2009/101/CE;\n\nf) A oposição de terceiros, no caso de ser prevista pela legislação de um Estado-Membro, não pode ser admitida depois de decorridos seis meses a contar da publicidade da decisão, efectuada nos termos da Directiva 2009/101/CE;\n\ng) A decisão que reconheça a invalidade da fusão não afecta, por si só, a validade das obrigações nascidas, contra ou a favor da sociedade incorporante, anteriormente à publicidade da decisão, mas posteriormente à data a partir da qual a fusão produz efeitos;\n\nh) As sociedades participantes na fusão respondem solidariamente pelas obrigações da sociedade incorporante, referidas na alínea g).\n\n2. Não obstante o disposto na alínea a) do n.º 1, a legislação de um Estado-Membro pode também prever que a invalidade da fusão seja proferida por uma autoridade administrativa, desde que possa ser interposto recurso de tal decisão para uma autoridade judicial. As alíneas b) e d) a h) do n.º 1 aplicam-se, com as necessárias adaptações, em relação à autoridade administrativa. Este processo de invalidade não pode ser iniciado depois de decorridos mais de seis meses a contar da data em que a fusão produz efeitos.\n\n3. Fica ressalvada a legislação dos Estados-Membros relativa à invalidade de uma fusão proferida na sequência de um controlo desta diverso de um controlo preventivo de legalidade, judicial ou administrativo."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "fb34bb1c12e4f26b": {
+   "fragment_id": "FUSÃO MEDIANTE A CONSTITUIÇÃO DE UMA NOVA SOCIEDADE",
+   "type": "divisao",
+   "heading": "FUSÃO MEDIANTE A CONSTITUIÇÃO DE UMA NOVA SOCIEDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FUSÃO MEDIANTE A CONSTITUIÇÃO DE UMA NOVA SOCIEDADE"
+  },
+  "b06956c38464be89": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Os artigos 5.º, 6.º, 7.º e 9.º a 22.º da presente directiva aplicam-se, sem prejuízo dos artigos 11.º e 12.º da Directiva 2009/101/CE, à fusão mediante a constituição de uma nova sociedade. Para efeitos desta aplicação, as expressões «sociedades participantes na fusão» ou «sociedade incorporada» designam as sociedades que se extinguem, e a expressão «sociedade incorporante» designa a nova sociedade.\n\nAplica-se igualmente à nova sociedade o disposto na alínea a) do n.º 2 do artigo 5.º da presente directiva.\n\n2. O projecto de fusão e, se constarem de um acto separado, o acto constitutivo ou o projecto de acto constitutivo e os estatutos ou o projecto de estatutos da nova sociedade devem ser aprovados pela assembleia geral de cada uma das sociedades que se extinguem."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "a0ea5cb33fee41b6": {
+   "fragment_id": "INCORPORAÇÃO DE UMA SOCIEDADE NOUTRA QUE POSSUA PELO MENOS 90 % DAS ACÇÕES DA PRIMEIRA",
+   "type": "divisao",
+   "heading": "INCORPORAÇÃO DE UMA SOCIEDADE NOUTRA QUE POSSUA PELO MENOS 90 % DAS ACÇÕES DA PRIMEIRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INCORPORAÇÃO DE UMA SOCIEDADE NOUTRA QUE POSSUA PELO MENOS 90 % DAS ACÇÕES DA PRIMEIRA"
+  },
+  "366507d1afa5d70c": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs Estados-Membros regulam, para as sociedades sujeitas à sua legislação, a operação pela qual uma ou várias sociedades se dissolvem sem liquidação e transferem o conjunto do seu património activo e passivo para uma outra sociedade titular de todas as respectivas acções e dos títulos que confiram direito de voto na assembleia geral. Estas operações estão sujeitas às disposições do capítulo III. Contudo, os Estados-Membros não impõem os requisitos previstos nas alíneas b), c) e d) do n.º 2 do artigo 5.º, nos artigos 9.º e 10.º, nas alíneas d) e e) do n.º 1 do artigo 11.º, na alínea b) do n.º 1 do artigo 19.º e nos artigos 20.º e 21.º."
+  },
+  "8891f64021d9dfe7": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nOs Estados-Membros não aplicam o disposto no artigo 7.º às operações referidas no artigo 24.º se estiverem reunidas as seguintes condições:\n\na) A publicidade prescrita no artigo 6.º deve ser efectuada, relativamente a cada uma das sociedades participantes na operação, pelo menos um mês antes de a operação produzir efeitos;\n\nb) Os accionistas da sociedade incorporante devem ter o direito de consultar, na sede social desta sociedade, pelo menos um mês antes de a operação produzir efeitos, os documentos referidos nas alíneas a), b) e c) do n.º 1 do artigo 11.º;\n\nc) Aplica-se o disposto na alínea c) do primeiro parágrafo do artigo 8.º.\n\nPara efeitos da alínea b) do primeiro parágrafo do presente artigo, aplicam-se os n.^os^ 2, 3 e 4 do artigo 11.º."
+  },
+  "4551172e9bf5e836": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs Estados-Membros podem aplicar os artigos 24.º e 25.º a operações pelas quais uma ou várias sociedades se dissolvem sem liquidação e transferem o conjunto do seu património activo e passivo para outra sociedade se todas as acções e os outros títulos, indicados no artigo 24.º, da sociedade ou sociedades incorporadas pertencerem à sociedade incorporante e/ou a pessoas que detenham essas acções e esses títulos em nome próprio, mas por conta dessa sociedade."
+  },
+  "06c4e4f65ed54a9b": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nCaso uma fusão mediante incorporação seja realizada por uma sociedade titular de 90 % ou mais, mas não da totalidade, das acções e dos outros títulos que confiram direito de voto na assembleia geral da sociedade ou sociedades incorporadas, os Estados-Membros não impõem a aprovação da fusão pela assembleia geral da sociedade incorporante, se estiverem reunidas as seguintes condições:\n\na) A publicidade prescrita no artigo 6.º deve ser efectuada, relativamente à sociedade incorporante, pelo menos um mês antes da data da reunião da assembleia geral da sociedade ou sociedades incorporadas, convocada para se pronunciar sobre o projecto de fusão;\n\nb) Os accionistas da sociedade incorporante devem ter o direito de consultar, na sede social desta sociedade, pelo menos um mês antes da data indicada na alínea a), os documentos indicados nas alíneas a) e b) e, se for caso disso, c), d) e e) do n.º 1 do artigo 11.º;\n\nc) Aplica-se o disposto na alínea c) do artigo 8.º.\n\nPara efeitos da alínea b) do primeiro parágrafo do presente artigo, aplicam-se os n.^os^ 2, 3 e 4 do artigo 11.º."
+  },
+  "47baf72a7dc9f016": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs Estados-Membros não aplicam os requisitos estabelecidos nos artigos 9.º, 10.º e 11.º a uma fusão na acepção do artigo 27.º se estiverem reunidas as seguintes condições;\n\na) Os accionistas minoritários da sociedade incorporada têm o direito de exigir que a sociedade incorporante adquira as suas acções;\n\nb) Se o fizerem, têm o direito de obter uma contrapartida correspondente ao valor das suas acções;\n\nc) Em caso de desacordo sobre esta contrapartida, esta deve poder ser fixada por um tribunal ou por uma autoridade administrativa designada para esse efeito pelo Estado-Membro.\n\nOs Estados-Membros não têm de aplicar o primeiro parágrafo se a sua legislação permitir que a sociedade incorporante exija, sem uma oferta pública de aquisição prévia, que todos os titulares das participações restantes da sociedade ou sociedades a incorporar vendam as referidas participações antes da fusão a um preço justo."
+  },
+  "4e3d799f33fdafa0": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs Estados-Membros podem aplicar os artigos 27.º e 28.º a operações pelas quais uma ou várias sociedades se dissolvem sem liquidação e transferem o conjunto do seu património activo e passivo para outra sociedade se 90 % ou mais, mas não a totalidade, das acções e dos outros títulos referidos no artigo 27.º da sociedade ou sociedades incorporadas pertencerem à sociedade incorporante e/ou a pessoas que detenham essas acções e esses títulos em nome próprio mas por conta desta sociedade."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "c09398e9353c4b67": {
+   "fragment_id": "OUTRAS OPERAÇÕES EQUIPARADAS À FUSÃO",
+   "type": "divisao",
+   "heading": "OUTRAS OPERAÇÕES EQUIPARADAS À FUSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OUTRAS OPERAÇÕES EQUIPARADAS À FUSÃO"
+  },
+  "16f7b9a793b8e984": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nCaso a legislação de um Estado-Membro permita, para uma das operações referidas no artigo 2.º, que a quantia em dinheiro ultrapasse a percentagem de 10 %, aplicam-se os capítulos III e IV e os artigos 27.º, 28.º e 29.º."
+  },
+  "f6410e031e55040a": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nCaso a legislação de um Estado-Membro permita uma das operações referidas nos artigos 2.º, 24.º ou 30.º, sem que todas as sociedades transferentes cessem de existir, aplicam-se, conforme adequado, o capítulo III, com excepção da alínea c) do n.º 1 do artigo 19.º, o capítulo IV ou o capítulo V."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "f9fa278322df8a7c": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nA Directiva 78/855/CEE, com as alterações que lhe foram introduzidas pelos actos referidos na parte A do anexo I, é revogada, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional das directivas indicadas na parte B do anexo I.\n\nAs referências à directiva revogada devem entender-se como sendo feitas para a presente directiva e devem ser lidas de acordo com a tabela de correspondência constante do anexo II."
+  },
+  "1dc4a9ad230fec08": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nA presente directiva entra em vigor em 1 de Julho de 2011."
+  },
+  "503c8b05edae2a59": {
+   "fragment_id": "Artigo 34.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nOs destinatários da presente directiva são os Estados-Membros.\n\nFeito em Estrasburgo, em 5 de Abril de 2011.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**GYŐRI E.**\n\n---"
+  },
+  "65def73f1fa42eea": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntc1-L_2011110PT.01000101-E0001) [JO C 51 de 17.2.2011, p. 36](http://publications.europa.eu/resource/oj/JOC_2011_051_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntc2-L_2011110PT.01000101-E0002) Posição do Parlamento Europeu de 18 de Janeiro de 2011 (ainda não publicada no Jornal Oficial) e Decisão do Conselho de 21 de Março de 2011.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntc3-L_2011110PT.01000101-E0003) [JO L 295 de 20.10.1978, p. 36](http://publications.europa.eu/resource/oj/JOL_1978_295_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntc4-L_2011110PT.01000101-E0004) Ver parte A do anexo I.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntc5-L_2011110PT.01000101-E0005) [JO 2 de 15.1.1962, p. 36/62](http://publications.europa.eu/resource/oj/JOP_1962_002_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntc6-L_2011110PT.01000101-E0006) [JO L 65 de 14.3.1968, p. 8](http://publications.europa.eu/resource/oj/JOL_1968_065_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntc7-L_2011110PT.01000101-E0007) [JO L 26 de 31.1.1977, p. 1](http://publications.europa.eu/resource/oj/JOL_1977_026_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntc8-L_2011110PT.01000101-E0008) [JO L 222 de 14.8.1978, p. 11](http://publications.europa.eu/resource/oj/JOL_1978_222_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntc9-L_2011110PT.01000101-E0009) [JO L 82 de 22.3.2001, p. 16](http://publications.europa.eu/resource/oj/JOL_2001_082_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntc10-L_2011110PT.01000101-E0010) [JO L 258 de 1.10.2009, p. 11](http://publications.europa.eu/resource/oj/JOL_2009_258_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/ecdfa717-7ccc-41f2-842f-a028aeedb57b.0021.03/DOC_1#ntc11-L_2011110PT.01000101-E0011) [JO L 390 de 31.12.2004, p. 38](http://publications.europa.eu/resource/oj/JOL_2004_390_R_TOC)."
+  },
+  "f13fd5798e9e9dcc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Abril de 2011\n\nrelativa à fusão das sociedades anónimas\n\n(codificação)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente a alínea g) do n.º 2 do artigo 50.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projecto de acto legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#E0001)),\n\nDeliberando de acordo com o processo legislativo ordinário ([^2^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#E0002)),\n\n(1) A Terceira Directiva 78/855/CEE do Conselho, de 9 de Outubro de 1978, fundada na alínea g) do n.º 3 do artigo 54.º do Tratado e relativa à fusão das sociedades anónimas ([^3^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#E0003)), foi por várias vezes alterada de modo substancial ([^4^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#E0004)). Por razões de lógica e clareza, é conveniente proceder à codificação da referida directiva.\n\n(2) A coordenação prevista na alínea g) do n.º 2 do artigo 50.º do Tratado e no programa geral para a supressão das restrições à liberdade de estabelecimento ([^5^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#E0005)) iniciou-se com a primeira Directiva 68/151/CEE do Conselho, de 9 de Março de 1968, tendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-Membros às sociedades, na acepção do segundo parágrafo do artigo 58.º do Tratado, a fim de tornar equivalentes essas garantias em toda a Comunidade ([^6^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#E0006)).\n\n(3) Essa coordenação prosseguiu, no que respeita à constituição das sociedades anónimas e à conservação e modificação do seu capital, com a Segunda Directiva 77/91/CEE do Conselho, de 13 de Dezembro de 1976, tendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-Membros às sociedades, na acepção do segundo parágrafo do artigo 58.º do Tratado, no que respeita à constituição da sociedade anónima, bem como à conservação e às modificações do seu capital social, a fim de tornar equivalente essas garantias em toda a Comunidade ([^7^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#E0007)), e, no que diz respeito às contas anuais de certos tipos de sociedades, com a Quarta Directiva 78/660/CEE do Conselho, de 25 de Julho de 1978, baseada na alínea g) do n.º 3 do artigo 54.º do Tratado e relativa às contas anuais de certas formas de sociedades ([^8^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#E0008)).\n\n(4) A protecção dos interesses dos sócios e de terceiros requer uma coordenação da legislação dos Estados-Membros a respeito da fusão das sociedades anónimas, e é conveniente introduzir na legislação de todos os Estados-Membros o instituto da fusão.\n\n(5) No quadro dessa coordenação, é particularmente importante assegurar aos accionistas das sociedades participantes na fusão uma informação adequada, e tanto quanto possível objectiva, e garantir uma protecção apropriada dos seus direitos. Contudo, não é necessário exigir uma análise do projecto das condições da concentração por um perito independente para os accionistas se todos os accionistas concordarem em prescindir dessa análise.\n\n(6) A protecção dos direitos dos trabalhadores em caso de transmissão de empresas, de estabelecimentos ou de partes de empresas ou de estabelecimentos é actualmente regulada pela Directiva 2001/23/CE do Conselho, de 12 de Março de 2001, relativa à aproximação das legislações dos Estados-Membros respeitantes à manutenção dos direitos dos trabalhadores em caso de transferência de empresas ou de estabelecimentos, ou de partes de empresas ou de estabelecimentos ([^9^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#E0009)).\n\n(7) Os credores, incluindo os obrigacionistas, e os portadores de outros títulos das sociedades participantes na fusão deverão ser protegidos de modo a evitar que a realização da fusão prejudique os seus interesses.\n\n(8) A publicidade prevista pela Directiva 2009/101/CE do Parlamento Europeu e do Conselho, de 16 de Setembro de 2009, relativa à coordenação das garantias que, para protecção dos interesses dos sócios e de terceiros são exigidas nos Estados-Membros às sociedades, na acepção do segundo parágrafo do artigo 48.º do Tratado, a fim de tornar equivalentes essas garantias ([^10^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#E0010)), deverá ser extensiva às operações relativas à fusão, a fim de que os terceiros se mantenham adequadamente informados.\n\n(9) É necessário alargar as garantias previstas a favor dos sócios e de terceiros, no quadro do processo de fusão, a certas operações jurídicas que, em certos pontos essenciais, têm características análogas às da fusão, a fim de que esta protecção não possa ser iludida.\n\n(10) A fim de assegurar a segurança jurídica nas relações entre as sociedades interessadas, entre estas e terceiros, e entre os accionistas, é necessário limitar os casos de invalidade e estabelecer, por um lado, que os vícios do acto sejam sanáveis sempre que possível, encurtando, por outro lado, o prazo em que a invalidade pode ser invocada.\n\n(11) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional das directivas indicadas na parte B do anexo I,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "5e8eac708ba8b876": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As medidas de coordenação prescritas pela presente directiva aplicam-se às disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas aos seguintes tipos de sociedades:\n\n— para a Bélgica:\n\n— la société anonyme/de naamloze vennootschap;\n\n— para a Bulgária:\n\n— акционерно дружество;\n\n— para a República Checa:\n\n— akciová společnost;\n\n— para a Dinamarca:\n\n— aktieselskaber;\n\n— para a Alemanha:\n\n— die Aktiengesellschaft;\n\n— para a Estónia:\n\n— aktsiaselts;\n\n— para a Irlanda:\n\n— public companies limited by shares, public companies limited by guarantee having a share capital;\n\n— para a Grécia:\n\n— ανώνυμη εταιρία;\n\n— para Espanha:\n\n— la sociedad anónima;\n\n— para a França:\n\n— la société anonyme;\n\n— para a Croácia:\n\n— dioničko društvo;\n\n— para a Itália:\n\n— la società per azioni;\n\n— para Chipre:\n\n— Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές, δημόσιες εταιρείεςπεριορισμένης ευθύνης με εγγύηση που διαθέτουν μετοχικό κεφάλαιο;\n\n— para a Letónia:\n\n— akciju sabiedrība;\n\n— para a Lituânia:\n\n— akcinė bendrovė;\n\n— para o Luxemburgo:\n\n— la société anonyme;\n\n— para a Hungria:\n\n— részvénytársaság;\n\n— para Malta:\n\n— kumpannija pubblika/public limited liability company, kumpannija privata/private limited liability company;\n\n— para os Países Baixos:\n\n— de naamloze vennootschap;\n\n— para a Áustria:\n\n— die Aktiengesellschaft;\n\n— para a Polónia:\n\n— spółka akcyjna;\n\n— para Portugal:\n\n— a sociedade anónima;\n\n— para a Roménia:\n\n— societate pe acțiuni;\n\n— para a Eslovénia:\n\n— delniška družba,\n\n— para a Eslováquia:\n\n— akciová spoločnosť;\n\n— para a Finlândia:\n\n— julkinen osakeyhtiö/publikt aktiebolag;\n\n— para a Suécia:\n\n— aktiebolag;\n\n— para o Reino Unido:\n\n— public companies limited by shares, public companies limited by guarantee having a share capital.\n\n2. Os Estados-Membros podem não aplicar a presente directiva às sociedades cooperativas constituídas segundo um dos tipos de sociedades indicados no n.º 1. Caso a legislação dos Estados-Membros preveja esta opção, deve exigir-se que essas sociedades façam figurar o termo «cooperativa» em todos os documentos referidos no artigo 5.º da Directiva 2009/101/CE.\n\n3. Os Estados-Membros podem não aplicar a presente directiva caso uma ou várias das sociedades que são incorporadas ou que se extinguem sejam objecto de um processo de falência, de concordata, ou de um processo análogo."
+  },
+  "b120c6330e88d11a": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os accionistas têm o direito de consultar na sede social, com uma antecedência mínima de um mês relativamente à data da reunião da assembleia geral convocada para se pronunciar sobre o projecto de fusão, pelo menos os seguintes documentos:\n\na) O projecto de fusão;\n\nb) As contas anuais e os relatórios de gestão dos três últimos exercícios das sociedades participantes na fusão;\n\nc) Se for esse o caso, um balanço contabilístico reportado a uma data que não deve ser anterior ao primeiro dia do terceiro mês anterior à data do projecto de fusão, no caso de as últimas contas anuais se reportarem a um exercício cujo termo é anterior em mais de seis meses a essa data;\n\nd) Quando aplicável, os relatórios dos órgãos de administração ou de direcção das sociedades participantes na fusão previstos no artigo 9.º;\n\ne) Quando aplicável, os relatórios referidos no n.º 1 do artigo 10.º.\n\nPara efeitos da alínea c) do primeiro parágrafo, não é exigido um balanço contabilístico se a sociedade publicar um relatório financeiro semestral nos termos do artigo 5.º da Directiva 2004/109/CE do Parlamento Europeu e do Conselho, de 15 de Dezembro de 2004, relativa à harmonização dos requisitos de transparência no que se refere às informações respeitantes aos emitentes cujos valores mobiliários estão admitidos à negociação num mercado regulamentado ([^11^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#E0011)), e o colocar à disposição dos accionistas nos termos do presente número. Além disso, os Estados-Membros podem determinar que não seja exigido um balanço contabilístico se todos os accionistas e os portadores de outros títulos que confiram direito de voto de todas as sociedades que participam na fusão assim o decidirem.\n\n2. O balanço contabilístico previsto na alínea c) do primeiro parágrafo do n.º 1 deve ser elaborado segundo os mesmos métodos e seguindo a mesma apresentação do último balanço anual.\n\nContudo, a legislação de um Estado-Membro pode estabelecer:\n\na) Que não é necessário proceder a um novo inventário físico;\n\nb) Que as avaliações que figuram no último balanço apenas devem ser alteradas em função dos lançamentos contabilísticos. Todavia, devem ser tomadas em conta:\n\n— as amortizações e provisões provisórias,\n\n— as modificações importantes do valor real que não apareçam na contabilidade.\n\n3. Os accionistas podem obter, sem encargos e através de simples pedido, cópias integrais ou, se o desejarem, parciais dos documentos referidos no n.º 1.\n\nCaso um accionista tenha dado consentimento à utilização, pela sociedade, de meios electrónicos para a comunicação de informações, essas cópias podem ser fornecidas por correio electrónico.\n\n4. As sociedades estão isentas do requisito de disponibilização, na sua sede social, dos documentos a que se refere o n.º 1 se, num prazo contínuo, com a antecedência mínima de um mês sobre a data da reunião da assembleia geral em que seja decidido o projecto de fusão e até à conclusão dessa reunião, os colocarem à disposição no seu sítio *web*. Os Estados-Membros não sujeitam essa isenção a requisitos ou condições para além dos que sejam necessários para garantir a segurança do sítio *web* e a autenticidade dos documentos, e podem impor tais requisitos ou condições apenas na medida em que forem proporcionais à concretização desses objectivos.\n\nO n.º 3 não se aplica se o sítio *web* conferir aos accionistas a possibilidade de descarregar e imprimir uma cópia electrónica dos documentos a que se refere o n.º 1, durante todo o período a que se refere o primeiro parágrafo do presente número. Não obstante, nesse caso os Estados-Membros podem determinar que a sociedade coloque à disposição esses documentos na sua sede social para consulta dos accionistas.\n\nOs Estados-Membros podem exigir que as sociedades mantenham a informação durante um período específico após a assembleia geral no respectivo sítio *web*. Os Estados-Membros podem determinar as consequências da indisponibilidade temporária do acesso ao sítio *web* por razões técnicas ou de outra natureza."
+  },
+  "864e3ada1ca5836f": {
+   "fragment_id": "Artigo 34.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nOs destinatários da presente directiva são os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "febcdde53097c2df": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nDirectiva do Conselho 78/855/CEE (JO L 295 de 20.10.1978, p. 36)\n\nAnexo I, ponto III.C do Acto de Adesão de 1979 (JO L 291 de 19.11.1979, p. 89)\n\nAnexo I, ponto II.d) do Acto de Adesão de 1985 (JO L 302 de 15.11.1985, p. 157)\n\nAnexo I, ponto XI.A.3 do Acto de Adesão de 1994 (JO C 241 de 29.8.1994, p. 194)\n\nAnexo II, ponto 4.A.3 do Acto de Adesão de 2003 (JO L 236 de 23.9.2003, p. 338)\n\nDirectiva 2006/99/CE do Conselho (JO L 363 de 20.12.2006, p. 137) Apenas no que se refere à Directiva 78/855/CEE, no artigo 1.º e na Secção A.3 do anexo\n\nDirectiva 2007/63/CE do Parlamento Europeu e do Conselho (JO L 300 de 17.11.2007, p. 47) Apenas o artigo 2.º\n\nDirectiva 2009/109/CE do Parlamento Europeu e do Conselho (JO L 259 de 2.10.2009, p. 14) Apenas o artigo 2.º"
+  },
+  "335a045599ba2910": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\nDirectiva Prazo para transposição\n\n78/855/CEE 13 de Outubro de 1981\n\n2006/99/CE 1 de Janeiro de 2007\n\n2007/63/CE 31 de Dezembro de 2008\n\n2009/109/CE 30 de Junho de 2011"
+  },
+  "e92775d1dd84bde1": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nDirectiva 78/855/CEE Presente directiva\n\nArtigo 1.º Artigo 1.º\n\nArtigos 2.º a 4.º Artigos 2.º a 4.º\n\nArtigos 5.º a 22.º Artigos 5.º a 22.º\n\nN.º 1 do artigo 23.º Primeiro parágrafo do n.º 1 do artigo 23.º\n\nN.º 2 do artigo 23.º Segundo parágrafo do n.º 1 do artigo 23.º\n\nN.º 3 do artigo 23.º N.º 2 do artigo 23.º\n\nArtigos 24.º a 29.º Artigos 24.º a 29.º\n\nArtigos 30.º e 31.º Artigos 30.º e 31.º\n\nArtigo 32.º —\n\n— Artigo 32.º\n\n— Artigo 33.º\n\nArtigo 33.º Artigo 34.º\n\n— Anexo I\n\n— Anexo II\n\n---"
+  },
+  "40fd4849c4964fa1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#src.E0001)) JO C 51 de 17.2.2011, p. 36.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#src.E0002)) Posição do Parlamento Europeu de 18 de Janeiro de 2011 (ainda não publicada no Jornal Oficial) e Decisão do Conselho de 21 de Março de 2011.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#src.E0003)) JO L 295 de 20.10.1978, p. 36.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#src.E0004)) Ver parte A do anexo I.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#src.E0005)) JO 2 de 15.1.1962, p. 36/62.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#src.E0006)) JO L 65 de 14.3.1968, p. 8.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#src.E0007)) JO L 26 de 31.1.1977, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#src.E0008)) JO L 222 de 14.8.1978, p. 11.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#src.E0009)) JO L 82 de 22.3.2001, p. 16.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#src.E0010)) JO L 258 de 1.10.2009, p. 11.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/5dd7c3e9-b4d6-4d8d-998c-4e04ce0fd9bf.0018.03/DOC_1#src.E0011)) JO L 390 de 31.12.2004, p. 38."
+  },
+  "a9bf4a61297d38ba": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Abril de 2011\n\nrelativa à fusão das sociedades anónimas\n\n(codificação)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "390581ebd809388e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As medidas de coordenação prescritas pela presente directiva aplicam-se às disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas aos seguintes tipos de sociedades:\n\n— para a Bélgica:\n\n— la société anonyme/de naamloze vennootschap;\n\n— para a Bulgária:\n\n— акционерно дружество;\n\n— para a República Checa:\n\n— akciová společnost;\n\n— para a Dinamarca:\n\n— aktieselskaber;\n\n— para a Alemanha:\n\n— die Aktiengesellschaft;\n\n— para a Estónia:\n\n— aktsiaselts;\n\n— para a Irlanda:\n\n— public companies limited by shares, public companies limited by guarantee having a share capital;\n\n— para a Grécia:\n\n— ανώνυμη εταιρία;\n\n— para Espanha:\n\n— la sociedad anónima;\n\n— para a França:\n\n— la société anonyme;\n\n— para a Croácia:\n\n— dioničko društvo;\n\n— para a Itália:\n\n— la società per azioni;\n\n— para Chipre:\n\n— Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές, δημόσιες εταιρείεςπεριορισμένης ευθύνης με εγγύηση που διαθέτουν μετοχικό κεφάλαιο;\n\n— para a Letónia:\n\n— akciju sabiedrība;\n\n— para a Lituânia:\n\n— akcinė bendrovė;\n\n— para o Luxemburgo:\n\n— la société anonyme;\n\n— para a Hungria:\n\n— nyilvánosan működő részvénytársaság;\n\n— para Malta:\n\n— kumpannija pubblika ta' responsabbiltà limitata/public limited liability company;\n\n— para os Países Baixos:\n\n— de naamloze vennootschap;\n\n— para a Áustria:\n\n— die Aktiengesellschaft;\n\n— para a Polónia:\n\n— spółka akcyjna;\n\n— para Portugal:\n\n— a sociedade anónima;\n\n— para a Roménia:\n\n— societate pe acțiuni;\n\n— para a Eslovénia:\n\n— delniška družba,\n\n— para a Eslováquia:\n\n— akciová spoločnosť;\n\n— para a Finlândia:\n\n— julkinen osakeyhtiö/publikt aktiebolag;\n\n— para a Suécia:\n\n— aktiebolag;\n\n— para o Reino Unido:\n\n— public companies limited by shares, public companies limited by guarantee having a share capital.\n\n2. Os Estados-Membros podem não aplicar a presente directiva às sociedades cooperativas constituídas segundo um dos tipos de sociedades indicados no n.º 1. Caso a legislação dos Estados-Membros preveja esta opção, deve exigir-se que essas sociedades façam figurar o termo «cooperativa» em todos os documentos referidos no artigo 5.º da Directiva 2009/101/CE.\n\n3. Os Estados-Membros podem não aplicar a presente directiva caso uma ou várias das sociedades que são incorporadas ou que se extinguem sejam objecto de um processo de falência, de concordata, ou de um processo análogo.\n\n4. Os Estados-Membros asseguram que a presente diretiva não seja aplicável à empresa ou empresas que sejam objeto da aplicação dos instrumentos, poderes e mecanismos de resolução previstos no título IV da Diretiva 2014/59/UE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/81479984-f38f-47f1-b9c2-9b0b50fcbb40.0015.02/DOC_2#E0001))."
+  },
+  "a5706608bc6d19a0": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os accionistas têm o direito de consultar na sede social, com uma antecedência mínima de um mês relativamente à data da reunião da assembleia geral convocada para se pronunciar sobre o projecto de fusão, pelo menos os seguintes documentos:\n\na) O projecto de fusão;\n\nb) As contas anuais e os relatórios de gestão dos três últimos exercícios das sociedades participantes na fusão;\n\nc) Se for esse o caso, um balanço contabilístico reportado a uma data que não deve ser anterior ao primeiro dia do terceiro mês anterior à data do projecto de fusão, no caso de as últimas contas anuais se reportarem a um exercício cujo termo é anterior em mais de seis meses a essa data;\n\nd) Quando aplicável, os relatórios dos órgãos de administração ou de direcção das sociedades participantes na fusão previstos no artigo 9.º;\n\ne) Quando aplicável, os relatórios referidos no n.º 1 do artigo 10.º.\n\nPara efeitos da alínea c) do primeiro parágrafo, não é exigido um balanço contabilístico se a sociedade publicar um relatório financeiro semestral nos termos do artigo 5.º da Directiva 2004/109/CE do Parlamento Europeu e do Conselho, de 15 de Dezembro de 2004, relativa à harmonização dos requisitos de transparência no que se refere às informações respeitantes aos emitentes cujos valores mobiliários estão admitidos à negociação num mercado regulamentado ([^2^](http://publications.europa.eu/resource/cellar/81479984-f38f-47f1-b9c2-9b0b50fcbb40.0015.02/DOC_2#E0002)), e o colocar à disposição dos accionistas nos termos do presente número. Além disso, os Estados-Membros podem determinar que não seja exigido um balanço contabilístico se todos os accionistas e os portadores de outros títulos que confiram direito de voto de todas as sociedades que participam na fusão assim o decidirem.\n\n2. O balanço contabilístico previsto na alínea c) do primeiro parágrafo do n.º 1 deve ser elaborado segundo os mesmos métodos e seguindo a mesma apresentação do último balanço anual.\n\nContudo, a legislação de um Estado-Membro pode estabelecer:\n\na) Que não é necessário proceder a um novo inventário físico;\n\nb) Que as avaliações que figuram no último balanço apenas devem ser alteradas em função dos lançamentos contabilísticos. Todavia, devem ser tomadas em conta:\n\n— as amortizações e provisões provisórias,\n\n— as modificações importantes do valor real que não apareçam na contabilidade.\n\n3. Os accionistas podem obter, sem encargos e através de simples pedido, cópias integrais ou, se o desejarem, parciais dos documentos referidos no n.º 1.\n\nCaso um accionista tenha dado consentimento à utilização, pela sociedade, de meios electrónicos para a comunicação de informações, essas cópias podem ser fornecidas por correio electrónico.\n\n4. As sociedades estão isentas do requisito de disponibilização, na sua sede social, dos documentos a que se refere o n.º 1 se, num prazo contínuo, com a antecedência mínima de um mês sobre a data da reunião da assembleia geral em que seja decidido o projecto de fusão e até à conclusão dessa reunião, os colocarem à disposição no seu sítio *web*. Os Estados-Membros não sujeitam essa isenção a requisitos ou condições para além dos que sejam necessários para garantir a segurança do sítio *web* e a autenticidade dos documentos, e podem impor tais requisitos ou condições apenas na medida em que forem proporcionais à concretização desses objectivos.\n\nO n.º 3 não se aplica se o sítio *web* conferir aos accionistas a possibilidade de descarregar e imprimir uma cópia electrónica dos documentos a que se refere o n.º 1, durante todo o período a que se refere o primeiro parágrafo do presente número. Não obstante, nesse caso os Estados-Membros podem determinar que a sociedade coloque à disposição esses documentos na sua sede social para consulta dos accionistas.\n\nOs Estados-Membros podem exigir que as sociedades mantenham a informação durante um período específico após a assembleia geral no respectivo sítio *web*. Os Estados-Membros podem determinar as consequências da indisponibilidade temporária do acesso ao sítio *web* por razões técnicas ou de outra natureza."
+  },
+  "e73c981cb0dacc1f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/81479984-f38f-47f1-b9c2-9b0b50fcbb40.0015.02/DOC_2#src.E0001)) Diretiva 2014/59/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014, que estabelece um enquadramento para a recuperação e resolução de instituições de crédito e empresas de investimento e que altera a Diretiva 82/891/CEE do Conselho e as Diretivas 2001/24/CE, 2002/47/CE, 2004/25/CE, 2005/56/CE, 2007/36/CE, 2011/35/UE, 2012/30/UE e 2013/36/UE, e os Regulamentos (UE) n.º 1093/2010 e (UE) n.º 648/2012 do Parlamento Europeu e do Conselho (JO L 173 de 12.6.2014, p. 190).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/81479984-f38f-47f1-b9c2-9b0b50fcbb40.0015.02/DOC_2#src.E0002)) JO L 390 de 31.12.2004, p. 38."
+  },
+  "b2795ddab89ed7db": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02011L0035 — PT — 20.07.2017 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32011L0035) [DIRECTIVA 2011/35/UE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32011L0035) [de 5 de Abril de 2011](http://publications.europa.eu/resource/celex/32011L0035) [relativa à fusão das sociedades anónimas](http://publications.europa.eu/resource/celex/32011L0035) [(codificação)](http://publications.europa.eu/resource/celex/32011L0035) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32011L0035) (JO L 110, 29.4.2011, p.1)\n\n**revogado por:**\n\n- [Diretiva (UE) 2017/1132 do Parlamento Europeu e do Conselho de 14 de junho de 2017](http://publications.europa.eu/resource/celex/32017L1132) — L 169 — 46 — 30.6.2017"
+  }
+ }
+}

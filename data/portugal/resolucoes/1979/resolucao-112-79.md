@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:382636:por
+title: Resolução n.º 112/79
+short_title: null
+summary: Determina que a Administração-Geral do Porto de Lisboa e a EPAC promovam de imediato as acções necessárias, já determinadas
+  na Resolução n.º 154/77, relativamente à construção de obras marítimas e terrestres, bem como à aquisição de equipamento
+  para a criação de um terminal portuário e silo para cereais e oleaginosas na margem sul do Tejo - Palença
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 112/79
+official_date: null
+publication_date: '1979-04-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 93/1979, Série I de 1979-04-21
+  number: '93'
+  series: I
+  supplement: null
+  pages: 684 - 684
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/04/09300/06840684.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '382636'
+  dre_path: /dr/detalhe/resolucao/112-1979-382636
+  internal: pt:dre:382636:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/112-1979-382636
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/112-1979-382636
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:16:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ae7253898d1aa94abe23a72c88573389bdba96909eaa42976efe23dcb921fe35
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adjudicação
+- Armazenagem
+- Autorização de Despesas
+- Cereal
+- EPAC
+relationships:
+- type: amended_by
+  target: pt:dre:470268:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:250474:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:382784:por
+  label: Rectificada pela DECL.DD7316.23.05.1979.PCM, DR.IS [118] de 23.05.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-382784
+  date: '1979-05-23'
+- type: corrected_by
+  target: pt:dre:470268:por
+  label: "Ratificada pela RES.271/80.31.07.1980.PCM, DR.IS [175] de 31.07.1980\00"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/271-1980-470268
+  date: '1980-07-31'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:16:52Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 112/79
+
+A Resolução do Conselho de Ministros n.º 154/77, de 5 de Julho, determinava que a Administração-Geral do Porto de Lisboa e o Instituto de Cereais, actualmente Empresa Pública de Abastecimento de Cercais (EPAC) promovessem as acções necessárias à construção de obras marítimas e terrestres, bem como à aquisição de equipamento para a criação de um terminal portuário e silo para cereais e oleaginosas na margem sul do Tejo, no local de Palença.
+
+Os estudos entretanto levados a efeito vieram evidenciar aspectos menos favoráveis da localização do silo em Palença, mostrando ser mais vantajosa a sua localização na zona da Trafaria, também na margem sul do Tejo.
+
+Nestes termos, o Conselho de Ministros, reunido em 28 de Março de 1979, resolveu:
+
+1 - Que a Administração-Geral do Porto de Lisboa e a EPAC promovam de imediato as acções necessárias, já determinadas na [Resolução n.º 154/77](https://diariodarepublica.pt/dr/detalhe/resolucao/154-1977-250474), considerando, porém, a Localização do silo na zona da Trafaria;
+
+2 - Que pela Junta Autónoma de Estradas e pela Companhia Portuguesa dos Caminhos de Ferro sejam encetados os estudos tendentes à definição das ligações rodoviárias e ferroviárias ao previsto silo, as primeiras com prioridade sobre as segundas, pois que, numa primeira fase, não é de prever o desenvolvimento do terminal portuário de molde a exigir as ligações ferroviárias. A sua definição é necessária desde já, a fim de que, na devida oportunidade, se possa proceder à demarcação das correspondentes reservas de terrenos.
+
+Presidência do Conselho de Ministros, 28 de Março de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

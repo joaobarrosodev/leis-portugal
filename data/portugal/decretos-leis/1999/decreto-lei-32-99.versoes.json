@@ -1,0 +1,504 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:169005:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-220219293",
+ "dre_path": "/dr/detalhe/decreto-lei/32-1999-169005",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-02-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "220228882",
+    "220217732",
+    "220217733",
+    "220217734",
+    "220217735",
+    "220217736",
+    "220217737",
+    "220217738",
+    "220217739",
+    "220217740",
+    "220217741",
+    "220217742",
+    "220217743",
+    "220217744"
+   ]
+  },
+  {
+   "date": "1999-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:532440:por",
+     "title": "Lei n.º 131/99",
+     "published": "1999-08-28",
+     "dre_path": "/dr/detalhe/lei/131-1999-532440"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "220217731",
+    "220217732",
+    "220217746",
+    "220217747",
+    "220217748",
+    "220217760",
+    "220217761",
+    "220217762",
+    "220217763",
+    "220217753",
+    "220217764",
+    "220217755",
+    "220217756",
+    "220217757",
+    "220217758",
+    "220217759"
+   ]
+  },
+  {
+   "date": "2023-08-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220061174:por",
+     "title": "Lei Orgânica n.º 2/2023",
+     "published": "2023-08-18",
+     "dre_path": "/dr/detalhe/lei-organica/2-2023-220061174"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "220228882",
+    "220228883",
+    "220228884",
+    "220228885",
+    "220228886",
+    "220228887",
+    "220228888",
+    "220228889",
+    "220228890",
+    "220228891",
+    "220228892",
+    "220228893",
+    "220228894",
+    "220228895",
+    "220228896",
+    "220228897"
+   ]
+  }
+ ],
+ "fragments": {
+  "220228882": {
+   "fragment_id": "220219294",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-08-19",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 32/99\n\nde 5 de Fevereiro\n\nA desconstitucionalização do serviço militar obrigatório, a redefinição das missões, a alteração do conceito militar no quadro interno e internacional, a alteração do conceito estratégico militar, a introdução de novos equipamentos resultantes da evolução tecnológica, determinam alterações no sistema de forças e no dispositivo das Forças Armadas portuguesas.\n\nAssim, tem-se vindo a reequacionar a dimensão e localização do património imobiliário afecto às Forças Armadas, desenvolvida a consciência da necessidade da sua adequação a novas realidades, a novas concepções de defesa e das próprias Forças Armadas.\n\nGrande parte do património imobiliário das Forças Armadas, em resultado das suas características originárias ou da forma como foi adquirido, reveste-se de valor histórico, social, económico, ambiental ou urbanístico reconhecido, constituindo, no todo ou em parte, património de interesse público, algum dele elevado à categoria de monumento nacional.\n\nOra, consabidas as dificuldades orçamentais em afectar verbas adicionais para custear a manutenção e adaptação de semelhante património a fins diferentes, muitas vezes de mera fruição cultural pelos cidadãos, foi-se preferindo mantê-lo na esfera militar, já que a sua ocupação e utilização pelas Forças Armadas implicava também a sua reparação e manutenção, senão do ponto de vista estritamente monumental, pelo menos do ponto de vista da sua conservação infra-estrutural.\n\nA alienação e reafectação do património imobiliário afecto às Forças Armadas tem vindo a ser feita com suporte em normas e diplomas avulsos, tornando-se agora oportuna a sistematização em instrumento legal adequado do correspondente regime.\n\nImporta, pois, promover a elaboração do referido quadro legal que regule o processo de alienação ou reafectação do património imobiliário que, por desafectação dominial militar, esteja apto a integrar o domínio privado do Estado e, eventualmente, o comércio imobiliário.\n\nNa especialidade, pretende-se distinguir claramente a competência para a alienação e o modus faciendi desta, de forma a assegurar as necessidades de transparência do procedimento e a sua exequibilidade.\n\nDelimitam-se os casos de alienação e de desafectação do domínio público, dado que o procedimento de desafectação é lógica e necessariamente prévio à alienação.\n\nNo domínio da competência, assegura-se a inexistência de conflitos positivos e negativos, bem como a eficácia do procedimento, com a consequente desburocratização.\n\nQuanto à afectação das receitas geradas, estabelece-se o respectivo critério, em respeito dos objectivos que vêm a ser seguidos nesta matéria.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "220217732": {
+   "fragment_id": "220219295",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma tem por objecto estabelecer o regime da alienação dos imóveis excedentários ou desadequados pertencentes ao domínio privado do Estado afectos ao Ministério da Defesa Nacional, bem como o regime da afectação ou reafectação dos mesmos imóveis a um órgão ou serviço do Estado.\n\n2 - A constituição de direitos reais menores sobre os imóveis referidos no número anterior está sujeita ao disposto no presente diploma, com as necessárias adaptações."
+  },
+  "220217733": {
+   "fragment_id": "220219296",
+   "type": 11,
+   "heading": "Artigo 2.º — Alienação de imóveis pertencentes ao domínio público militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alienação de imóveis pertencentes ao domínio público militar\n\nOs imóveis integrados no domínio público militar só podem ser alienados após a sua integração no domínio privado do Estado por desafectação do domínio público."
+  },
+  "220217734": {
+   "fragment_id": "220219297",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Afectação ou reafectação - atribuição a um órgão ou serviço do Estado dos poderes de uso e fruição de imóvel pertencente ao Estado;\n\nb) Alienação - transmissão do direito de propriedade, ou de outro direito real, sobre imóvel objecto do presente diploma a favor de outra pessoa, singular ou colectiva, de direito público ou de direito privado;\n\nc) Desafectação do domínio público - acto que determina que os imóveis deixam de estar classificados como de domínio público militar;\n\nd) Domínio privado do Estado - acervo de bens pertencentes ao Estado, que estão na sua total disponibilidade em termos de direito privado."
+  },
+  "220217735": {
+   "fragment_id": "220219298",
+   "type": 11,
+   "heading": "Artigo 4.º — Desafectação do domínio público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Desafectação do domínio público\n\n1 - A desafectação de imóveis do domínio público militar e correspondente integração no domínio privado do Estado é feita por despacho do Ministro da Defesa Nacional, sem prejuízo do disposto no n.º 3 do artigo seguinte.\n\n2 - Compete ao Ministério da Defesa Nacional, através da Direcção-Geral de Infra-Estruturas, promover o processo de desafectação do domínio público militar dos imóveis considerados não adequados ou excedentários, procedendo à sua integração no domínio privado do Estado afecto ao Ministério da Defesa Nacional.\n\n3 - Os imóveis integrados no domínio privado do Estado nos termos dos números anteriores permanecem afectos ao Ministério da Defesa Nacional enquanto não forem alienados ou reafectados a outro órgão ou serviço."
+  },
+  "220217736": {
+   "fragment_id": "220219299",
+   "type": 11,
+   "heading": "Artigo 5.º — Autorização para alienação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autorização para alienação\n\n1 - A alienação dos imóveis do domínio privado do Estado afectos ao Ministério da Defesa Nacional está sujeita a autorização dos Ministros da Defesa Nacional e das Finanças, a conceder mediante despacho conjunto.\n\n2 - O despacho referido no número anterior deve identificar o imóvel ou imóveis cuja alienação é autorizada e a respectiva modalidade de alienação.\n\n3 - A autorização para alienação não impede que os imóveis venham a ser reintegrados no domínio público militar por despacho do Ministro da Defesa Nacional, ou objecto de reafectação a outro órgão ou serviço do Estado nos termos do presente diploma."
+  },
+  "220217737": {
+   "fragment_id": "220219300",
+   "type": 11,
+   "heading": "Artigo 6.º — Alienação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alienação\n\n1 - A alienação efectua-se através da celebração de negócio jurídico oneroso, tendo em conta a avaliação do imóvel em causa, sem prejuízo do disposto no n.º 3 do artigo 7.º\n\n2 - O processo e critérios gerais de alienação são regulados por portaria conjunta dos Ministros da Defesa Nacional e das Finanças.\n\n3 - Compete ao Ministro da Defesa Nacional proceder à alienação dos imóveis do domínio privado do Estado que lhe estejam afectos, bem como definir os termos e condições em que a mesma deverá ser promovida.\n\n4 - Para efeitos do disposto no número anterior, pode ser contratada entidade legalmente habilitada para o exercício da actividade de promoção ou mediação imobiliária."
+  },
+  "220217738": {
+   "fragment_id": "220219301",
+   "type": 11,
+   "heading": "Artigo 7.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Modalidades\n\n1 - A alienação de imóveis integrados no domínio privado do Estado afectos ao Ministério da Defesa Nacional poderá efectuar-se por uma das seguintes modalidades:\n\na) Concurso público;\n\nb) Negociação particular.\n\n2 - A modalidade de alienação dos imóveis a prosseguir é fixada pelo despacho previsto no artigo 5.º\n\n3 - A alienação de imóveis a favor de outras pessoas colectivas de direito público ou de entidades particulares de interesse público pode fazer-se mediante cessão a título definitivo, tendo em conta, para efeitos de determinação da contrapartida, a utilização do imóvel para actividades de interesse público, podendo ser dispensada a avaliação do imóvel nos termos da portaria a que se refere o n.º 2 do artigo 6.º"
+  },
+  "220217739": {
+   "fragment_id": "220219302",
+   "type": 11,
+   "heading": "Artigo 8.º — Reafectação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reafectação\n\n1 - A reafectação dos imóveis do domínio privado do Estado afectos ao Ministério da Defesa Nacional é decidida por despacho conjunto do Ministro da Defesa Nacional, do Ministro das Finanças e do ministro com tutela sobre o órgão ou serviço destinatário do uso e fruição do imóvel.\n\n2 - Compete à Direcção-Geral de Infra-Estruturas promover as diligências necessárias à selecção da entidade destinatária da reafectação, após a qual deve proceder à instrução e apresentação do processo ao Ministro da Defesa Nacional.\n\n3 - A Direcção-Geral do Património, do Ministério das Finanças, e o órgão ou serviço em causa celebram um auto de afectação e entrega, posteriormente comunicado à Direcção-Geral de Infra-Estruturas, do Ministério da Defesa Nacional."
+  },
+  "220217740": {
+   "fragment_id": "220219303",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - Revertem para o Ministério da Defesa Nacional 75% das receitas pecuniárias obtidas com a alienação dos imóveis, a totalidade das compensações pecuniárias advenientes da reafectação e as compensações em espécie que eventualmente sejam previstas nas alienações ou reafectações.\n\n2 - O produto das receitas pecuniárias do Ministério da Defesa Nacional será aplicado, de acordo com o fixado por despacho do Ministro da Defesa Nacional e do Ministro das Finanças, na constituição do capital inicial do Fundo de Pensões dos Militares das Forças Armadas, em despesas com construção e manutenção de infra-estruturas afectas ao Ministério da Defesa Nacional e para aquisição de equipamentos e bens necessários à modernização e operacionalidade das Forças Armadas.\n\n3 - São ainda consignados à Direcção-Geral de Infra-Estruturas, do Ministério da Defesa Nacional, nos termos do artigo 5.º da Lei n.º 8/90, de 20 de Fevereiro, 5% do valor líquido das alienações ou reafectações, para cobertura de despesas efectuadas com a gestão do património imobiliário afecto ao Ministério da Defesa Nacional, designadamente para pagamento de aquisições de bens e serviços necessários a avaliações de imóveis, inventariação e cadastro, matriciação e registo predial e despesas com a alienação ou reafectação de prédios, incluindo as respeitantes à selecção e pagamento de serviços de mediador imobiliário."
+  },
+  "220217741": {
+   "fragment_id": "220219304",
+   "type": 11,
+   "heading": "Artigo 10.º — Administração transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Administração transitória\n\n1 - Enquanto não estiverem concluídos os processos de desafectação do domínio público militar e de alienação ou reafectação dos prédios, incumbe ao Ministério da Defesa Nacional a sua conservação e manutenção.\n\n2 - Pode o Ministério da Defesa Nacional, designadamente para cumprimento das obrigações de conservação dos imóveis referidos no artigo anterior, promover protocolos ou acordos de utilização temporária que tenham por objecto os referidos imóveis, revertendo as contrapartidas, se as houver, para cobertura de despesas com a manutenção e gestão patrimonial dos mesmos.\n\n3 - Os protocolos ou acordos de utilização temporária previstos no número anterior serão celebrados por período não superior a um ano, prorrogável por iguais períodos, ouvido o Ministério das Finanças."
+  },
+  "220217742": {
+   "fragment_id": "220219305",
+   "type": 11,
+   "heading": "Artigo 11.º — Registo predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registo predial\n\n1 - Em caso de desactualização do registo predial por deficiência do trato sucessivo, pode a Direcção-Geral de Infra-Estruturas, do Ministério da Defesa Nacional, recorrer ao processo especial do respectivo suprimento, previsto nos artigos 3.º e seguintes do Decreto-Lei n.º 312/90, de 2 de Outubro, ou a outras formas previstas na lei.\n\n2 - A Direcção-Geral de Infra-Estruturas pode ainda recorrer, por intermédio da repartição de finanças competente em razão da localização do prédio, ao processo de justificação administrativa para registo e inscrição a favor do Estado, nos termos do Decreto-Lei n.º 34565, de 2 de Maio de 1945, ficando investida nos poderes para o efeito necessários.\n\n3 - Constituem documentos bastantes de prova de transferência da propriedade ou outro direito real, para efeitos de registo de inscrição predial a favor dos adquirentes, os documentos que concretizem a entrega do prédio alienado consoante as modalidades mencionadas no n.º 1 do artigo 7.º"
+  },
+  "220217743": {
+   "fragment_id": "220219306",
+   "type": 11,
+   "heading": "Artigo 12.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Processos pendentes\n\nO regime jurídico constante do presente diploma é aplicável aos prédios militares ainda não alienados que constam dos Decretos-Leis n.os 154/90, de 17 de Maio, 345/90, de 3 de Novembro, 201/91, de 29 de Maio, 419/91, de 29 de Outubro, 168/92, de 8 de Agosto, 62/93, de 5 de Março, 151/94, de 26 de Maio, 190/95, de 28 de Julho, e 318/97, de 25 de Novembro, sem prejuízo da completa execução das alienações e reafectações já decididas nos termos dos mesmos diplomas."
+  },
+  "220217744": {
+   "fragment_id": "220219307",
+   "type": 11,
+   "heading": "Artigo 13.º — Alteração ao Decreto-Lei n.º 419/91, de 29 de Outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração ao Decreto-Lei n.º 419/91, de 29 de Outubro\n\nO artigo 2.º do Decreto-Lei n.º 419/91, de 29 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\nÉ ainda autorizada a alienação, em regime de hasta pública, ou por cessão a título definitivo a pessoas colectivas de direito ou a instituições particulares de interesse público, dos seguintes imóveis:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) ...\n\ns) ...\n\nt) ...\n\nu) ...\n\nv) ...\n\nx) ...\n\nz) ...\n\naa) ...\n\nbb) ...»"
+  },
+  "220217731": {
+   "fragment_id": "220219294",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 32/99\n\nde 5 de Fevereiro\n\nA desconstitucionalização do serviço militar obrigatório, a redefinição das missões, a alteração do conceito militar no quadro interno e internacional, a alteração do conceito estratégico militar, a introdução de novos equipamentos resultantes da evolução tecnológica, determinam alterações no sistema de forças e no dispositivo das Forças Armadas portuguesas.\n\nAssim, tem-se vindo a reequacionar a dimensão e localização do património imobiliário afecto às Forças Armadas, desenvolvida a consciência da necessidade da sua adequação a novas realidades, a novas concepções de defesa e das próprias Forças Armadas.\n\nGrande parte do património imobiliário das Forças Armadas, em resultado das suas características originárias ou da forma como foi adquirido, reveste-se de valor histórico, social, económico, ambiental ou urbanístico reconhecido, constituindo, no todo ou em parte, património de interesse público, algum dele elevado à categoria de monumento nacional.\n\nOra, consabidas as dificuldades orçamentais em afectar verbas adicionais para custear a manutenção e adaptação de semelhante património a fins diferentes, muitas vezes de mera fruição cultural pelos cidadãos, foi-se preferindo mantê-lo na esfera militar, já que a sua ocupação e utilização pelas Forças Armadas implicava também a sua reparação e manutenção, senão do ponto de vista estritamente monumental, pelo menos do ponto de vista da sua conservação infra-estrutural.\n\nA alienação e reafectação do património imobiliário afecto às Forças Armadas tem vindo a ser feita com suporte em normas e diplomas avulsos, tornando-se agora oportuna a sistematização em instrumento legal adequado do correspondente regime.\n\nImporta, pois, promover a elaboração do referido quadro legal que regule o processo de alienação ou reafectação do património imobiliário que, por desafectação dominial militar, esteja apto a integrar o domínio privado do Estado e, eventualmente, o comércio imobiliário.\n\nNa especialidade, pretende-se distinguir claramente a competência para a alienação e o modus faciendi desta, de forma a assegurar as necessidades de transparência do procedimento e a sua exequibilidade.\n\nDelimitam-se os casos de alienação e de desafectação do domínio público, dado que o procedimento de desafectação é lógica e necessariamente prévio à alienação.\n\nNo domínio da competência, assegura-se a inexistência de conflitos positivos e negativos, bem como a eficácia do procedimento, com a consequente desburocratização.\n\nQuanto à afectação das receitas geradas, estabelece-se o respectivo critério, em respeito dos objectivos que vêm a ser seguidos nesta matéria.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "220217746": {
+   "fragment_id": "220219309",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Função preferencial",
+   "in_force_from": "1999-09-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 1.º-A — Função preferencial\n\nOs imóveis afectos à Defesa Nacional e que deixem do o estar devem ser preferencialmente afectos a outras funções do Estado e de outras pessoas colectivas públicas.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220217747": {
+   "fragment_id": "220219296",
+   "type": 11,
+   "heading": "Artigo 2.º — Alienação de imóveis pertencentes ao domínio público militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alienação de imóveis pertencentes ao domínio público militar\n\nOs imóveis integrados no domínio público militar só podem ser alienados após a sua integração no domínio privado do Estado por desafectação do domínio público."
+  },
+  "220217748": {
+   "fragment_id": "220219297",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Afectação ou reafectação - atribuição a um órgão ou serviço do Estado dos poderes de uso e fruição de imóvel pertencente ao Estado;\n\nb) Alienação - transmissão do direito de propriedade, ou de outro direito real, sobre imóvel objecto do presente diploma a favor de outra pessoa, singular ou colectiva, de direito público ou de direito privado;\n\nc) Desafectação do domínio público - acto que determina que os imóveis deixam de estar classificados como de domínio público militar;\n\nd) Domínio privado do Estado - acervo de bens pertencentes ao Estado, que estão na sua total disponibilidade em termos de direito privado."
+  },
+  "220217760": {
+   "fragment_id": "220219298",
+   "type": 11,
+   "heading": "Artigo 4.º — Desafectação do domínio público",
+   "in_force_from": "1999-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 4.º — Desafectação do domínio público\n\n1 - A desafectação de imóveis do domínio público militar e correspondente integração no domínio privado do Estado é feita por resolução do Conselho de Ministros, mediante proposta do Ministro da Defesa e Ministro das Finanças, sem prejuízo do disposto no n.º 3 do artigo seguinte.\n\n2 - A proposta referida no número anterior deve ser fundamentada, designadamente, com a informação sobre as possibilidades, de afectação a outras funções públicas e as razões para essa afectação não ser realizada.\n\n3 - Compete ao Ministério da Defesa Nacional, através da Direcção-Geral de Infra-Estruturas, promover o processo de desafectação do domínio público militar dos imóveis considerados não adequados ou excedentários, procedendo à sua integração no domínio privado do Estado afecto ao Ministério da Defesa Nacional.\n\n4 - Os imóveis integrados no domínio privado do Estado nos termos dos números anteriores permanecem afectos ao Ministério da Defesa Nacional enquanto não forem alienados ou reafectados a outro órgão ou serviço.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220217761": {
+   "fragment_id": "220219299",
+   "type": 11,
+   "heading": "Artigo 5.º — Proposta de alienação",
+   "in_force_from": "1999-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 5.º — Proposta de alienação\n\n1 - A proposta de alienação dos imóveis do domínio privado do Estado afectos ao Ministério da Defesa Nacional é formulada por despacho conjunto dos Ministros da Defesa Nacional e das Finanças.\n\n2 - O despacho referido no número anterior deve identificar o imóvel ou imóveis cuja alienação é proposta e a respectiva modalidade de alienação.\n\n3 - A proposta de alienação não impede que os imóveis venham a ser reintegrados no domínio público militar por despacho conjunto nos termos do n.º 1, ou objecto de reafectação a outro órgão ou serviço do Estado nos termos do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220217762": {
+   "fragment_id": "220219300",
+   "type": 11,
+   "heading": "Artigo 6.º — Alienação",
+   "in_force_from": "1999-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 6.º — Alienação\n\n1 - Os critérios gerais de alienação e o respectivo processo são regulados por decreto-lei.\n\n2 - A alienação efectua-se por negócio jurídico oneroso tendo em conta a avaliação do imóvel em causa, sem prejuízo do disposto no n.º 3 do artigo 7.º, com outorga do Estado, do Ministro da Defesa Nacional.\n\n3 - A decisão de alienação tem de ser ratificada pelo Conselho de Ministros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220217763": {
+   "fragment_id": "220219301",
+   "type": 11,
+   "heading": "Artigo 7.º — Modalidades",
+   "in_force_from": "1999-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 7.º — Modalidades\n\n1 - A alienação de imóveis integrados no domínio privado do Estado afectos ao Ministério da Defesa Nacional poderá efectuar-se por uma das seguintes modalidades:\n\na) Concurso público;\n\nb) Negociação particular.\n\n2 - A modalidade de alienação dos imóveis a prosseguir é fixada pelo despacho previsto no artigo 5.º\n\n3 - A alienação de imóveis a favor de outras pessoas colectivas de direito público ou de entidades particulares de interesse público pode fazer-se mediante cessão a título definitivo, tendo em conta, para efeitos de determinação da contrapartida, a utilização do imóvel para actividades de interesse público, podendo ser dispensada a avaliação do imóvel nos termos do decreto-lei a que se refere o n.º 1 do artigo 6.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220217753": {
+   "fragment_id": "220219302",
+   "type": 11,
+   "heading": "Artigo 8.º — Reafectação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reafectação\n\n1 - A reafectação dos imóveis do domínio privado do Estado afectos ao Ministério da Defesa Nacional é decidida por despacho conjunto do Ministro da Defesa Nacional, do Ministro das Finanças e do ministro com tutela sobre o órgão ou serviço destinatário do uso e fruição do imóvel.\n\n2 - Compete à Direcção-Geral de Infra-Estruturas promover as diligências necessárias à selecção da entidade destinatária da reafectação, após a qual deve proceder à instrução e apresentação do processo ao Ministro da Defesa Nacional.\n\n3 - A Direcção-Geral do Património, do Ministério das Finanças, e o órgão ou serviço em causa celebram um auto de afectação e entrega, posteriormente comunicado à Direcção-Geral de Infra-Estruturas, do Ministério da Defesa Nacional."
+  },
+  "220217764": {
+   "fragment_id": "220219303",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": "1999-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - Revertem para o Ministério da Defesa Nacional 75% das receitas pecuniárias obtidas com a alienação dos imóveis, a totalidade das compensações pecuniárias advenientes da reafectação e as compensações em espécie que eventualmente sejam previstas nas alienações ou reafectações.\n\n2 - O produto das receitas pecuniárias do Ministério da Defesa Nacional será aplicado, de acordo com o fixado por despacho do Ministro da Defesa Nacional e do Ministro das Finanças, na constituição do capital inicial do Fundo de Pensões dos Militares das Forças Armadas, em despesas com construção e manutenção de infra-estruturas afectas ao Ministério da Defesa Nacional e para aquisição de equipamentos e bens necessários à modernização e operacionalidade das Forças Armadas.\n\n3 - A aplicação referida no número anterior em infra-estruturas, equipamentos e bens não pode ser feita se expressamente prevista na Lei de Programação Militar como fonte de financiamento e para os programas nessa lei previstos.\n\n4 - São ainda consignados à Direcção-Geral de Infra-Estruturas, do Ministério da Defesa Nacional, nos termos do artigo 5.º da Lei n.º 8/90, de 20 de Fevereiro, 5% do valor líquido das alienações ou reafectações, para cobertura de despesas efectuadas com a gestão do património imobiliário afecto ao Ministério da Defesa Nacional, designadamente para pagamento de aquisições de bens e serviços necessários a avaliações de imóveis, inventariação e cadastro, matriciação e registo predial e despesas com a alienação ou reafectação de prédios, incluindo as respeitantes à selecção e pagamento de serviços de mediador imobiliário.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220217755": {
+   "fragment_id": "220219304",
+   "type": 11,
+   "heading": "Artigo 10.º — Administração transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Administração transitória\n\n1 - Enquanto não estiverem concluídos os processos de desafectação do domínio público militar e de alienação ou reafectação dos prédios, incumbe ao Ministério da Defesa Nacional a sua conservação e manutenção.\n\n2 - Pode o Ministério da Defesa Nacional, designadamente para cumprimento das obrigações de conservação dos imóveis referidos no artigo anterior, promover protocolos ou acordos de utilização temporária que tenham por objecto os referidos imóveis, revertendo as contrapartidas, se as houver, para cobertura de despesas com a manutenção e gestão patrimonial dos mesmos.\n\n3 - Os protocolos ou acordos de utilização temporária previstos no número anterior serão celebrados por período não superior a um ano, prorrogável por iguais períodos, ouvido o Ministério das Finanças."
+  },
+  "220217756": {
+   "fragment_id": "220219305",
+   "type": 11,
+   "heading": "Artigo 11.º — Registo predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registo predial\n\n1 - Em caso de desactualização do registo predial por deficiência do trato sucessivo, pode a Direcção-Geral de Infra-Estruturas, do Ministério da Defesa Nacional, recorrer ao processo especial do respectivo suprimento, previsto nos artigos 3.º e seguintes do Decreto-Lei n.º 312/90, de 2 de Outubro, ou a outras formas previstas na lei.\n\n2 - A Direcção-Geral de Infra-Estruturas pode ainda recorrer, por intermédio da repartição de finanças competente em razão da localização do prédio, ao processo de justificação administrativa para registo e inscrição a favor do Estado, nos termos do Decreto-Lei n.º 34565, de 2 de Maio de 1945, ficando investida nos poderes para o efeito necessários.\n\n3 - Constituem documentos bastantes de prova de transferência da propriedade ou outro direito real, para efeitos de registo de inscrição predial a favor dos adquirentes, os documentos que concretizem a entrega do prédio alienado consoante as modalidades mencionadas no n.º 1 do artigo 7.º"
+  },
+  "220217757": {
+   "fragment_id": "220219306",
+   "type": 11,
+   "heading": "Artigo 12.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Processos pendentes\n\nO regime jurídico constante do presente diploma é aplicável aos prédios militares ainda não alienados que constam dos Decretos-Leis n.os 154/90, de 17 de Maio, 345/90, de 3 de Novembro, 201/91, de 29 de Maio, 419/91, de 29 de Outubro, 168/92, de 8 de Agosto, 62/93, de 5 de Março, 151/94, de 26 de Maio, 190/95, de 28 de Julho, e 318/97, de 25 de Novembro, sem prejuízo da completa execução das alienações e reafectações já decididas nos termos dos mesmos diplomas."
+  },
+  "220217758": {
+   "fragment_id": "220219307",
+   "type": 11,
+   "heading": "Artigo 13.º — Alteração ao Decreto-Lei n.º 419/91, de 29 de Outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração ao Decreto-Lei n.º 419/91, de 29 de Outubro\n\nO artigo 2.º do Decreto-Lei n.º 419/91, de 29 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\nÉ ainda autorizada a alienação, em regime de hasta pública, ou por cessão a título definitivo a pessoas colectivas de direito ou a instituições particulares de interesse público, dos seguintes imóveis:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) ...\n\ns) ...\n\nt) ...\n\nu) ...\n\nv) ...\n\nx) ...\n\nz) ...\n\naa) ...\n\nbb) ...»"
+  },
+  "220217759": {
+   "fragment_id": "220219308",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 28 de Janeiro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Janeiro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "220228883": {
+   "fragment_id": "220219295",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma tem por objecto estabelecer o regime da alienação dos imóveis excedentários ou desadequados pertencentes ao domínio privado do Estado afectos ao Ministério da Defesa Nacional, bem como o regime da afectação ou reafectação dos mesmos imóveis a um órgão ou serviço do Estado.\n\n2 - A constituição de direitos reais menores sobre os imóveis referidos no número anterior está sujeita ao disposto no presente diploma, com as necessárias adaptações.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228884": {
+   "fragment_id": "220219309",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Função preferencial",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19",
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 1.º-A — Função preferencial\n\nOs imóveis afectos à Defesa Nacional e que deixem do o estar devem ser preferencialmente afectos a outras funções do Estado e de outras pessoas colectivas públicas.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220228885": {
+   "fragment_id": "220219296",
+   "type": 11,
+   "heading": "Artigo 2.º — Alienação de imóveis pertencentes ao domínio público militar",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 2.º — Alienação de imóveis pertencentes ao domínio público militar\n\nOs imóveis integrados no domínio público militar só podem ser alienados após a sua integração no domínio privado do Estado por desafectação do domínio público.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228886": {
+   "fragment_id": "220219297",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Afectação ou reafectação - atribuição a um órgão ou serviço do Estado dos poderes de uso e fruição de imóvel pertencente ao Estado;\n\nb) Alienação - transmissão do direito de propriedade, ou de outro direito real, sobre imóvel objecto do presente diploma a favor de outra pessoa, singular ou colectiva, de direito público ou de direito privado;\n\nc) Desafectação do domínio público - acto que determina que os imóveis deixam de estar classificados como de domínio público militar;\n\nd) Domínio privado do Estado - acervo de bens pertencentes ao Estado, que estão na sua total disponibilidade em termos de direito privado.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228887": {
+   "fragment_id": "220219298",
+   "type": 11,
+   "heading": "Artigo 4.º — Desafectação do domínio público",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 4.º — Desafectação do domínio público\n\n1 - A desafectação de imóveis do domínio público militar e correspondente integração no domínio privado do Estado é feita por resolução do Conselho de Ministros, mediante proposta do Ministro da Defesa e Ministro das Finanças, sem prejuízo do disposto no n.º 3 do artigo seguinte.\n\n2 - A proposta referida no número anterior deve ser fundamentada, designadamente, com a informação sobre as possibilidades, de afectação a outras funções públicas e as razões para essa afectação não ser realizada.\n\n3 - Compete ao Ministério da Defesa Nacional, através da Direcção-Geral de Infra-Estruturas, promover o processo de desafectação do domínio público militar dos imóveis considerados não adequados ou excedentários, procedendo à sua integração no domínio privado do Estado afecto ao Ministério da Defesa Nacional.\n\n4 - Os imóveis integrados no domínio privado do Estado nos termos dos números anteriores permanecem afectos ao Ministério da Defesa Nacional enquanto não forem alienados ou reafectados a outro órgão ou serviço.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220228888": {
+   "fragment_id": "220219299",
+   "type": 11,
+   "heading": "Artigo 5.º — Proposta de alienação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 5.º — Proposta de alienação\n\n1 - A proposta de alienação dos imóveis do domínio privado do Estado afectos ao Ministério da Defesa Nacional é formulada por despacho conjunto dos Ministros da Defesa Nacional e das Finanças.\n\n2 - O despacho referido no número anterior deve identificar o imóvel ou imóveis cuja alienação é proposta e a respectiva modalidade de alienação.\n\n3 - A proposta de alienação não impede que os imóveis venham a ser reintegrados no domínio público militar por despacho conjunto nos termos do n.º 1, ou objecto de reafectação a outro órgão ou serviço do Estado nos termos do presente diploma.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220228889": {
+   "fragment_id": "220219300",
+   "type": 11,
+   "heading": "Artigo 6.º — Alienação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 6.º — Alienação\n\n1 - Os critérios gerais de alienação e o respectivo processo são regulados por decreto-lei.\n\n2 - A alienação efectua-se por negócio jurídico oneroso tendo em conta a avaliação do imóvel em causa, sem prejuízo do disposto no n.º 3 do artigo 7.º, com outorga do Estado, do Ministro da Defesa Nacional.\n\n3 - A decisão de alienação tem de ser ratificada pelo Conselho de Ministros.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220228890": {
+   "fragment_id": "220219301",
+   "type": 11,
+   "heading": "Artigo 7.º — Modalidades",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 7.º — Modalidades\n\n1 - A alienação de imóveis integrados no domínio privado do Estado afectos ao Ministério da Defesa Nacional poderá efectuar-se por uma das seguintes modalidades:\n\na) Concurso público;\n\nb) Negociação particular.\n\n2 - A modalidade de alienação dos imóveis a prosseguir é fixada pelo despacho previsto no artigo 5.º\n\n3 - A alienação de imóveis a favor de outras pessoas colectivas de direito público ou de entidades particulares de interesse público pode fazer-se mediante cessão a título definitivo, tendo em conta, para efeitos de determinação da contrapartida, a utilização do imóvel para actividades de interesse público, podendo ser dispensada a avaliação do imóvel nos termos do decreto-lei a que se refere o n.º 1 do artigo 6.º\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220228891": {
+   "fragment_id": "220219302",
+   "type": 11,
+   "heading": "Artigo 8.º — Reafectação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 8.º — Reafectação\n\n1 - A reafectação dos imóveis do domínio privado do Estado afectos ao Ministério da Defesa Nacional é decidida por despacho conjunto do Ministro da Defesa Nacional, do Ministro das Finanças e do ministro com tutela sobre o órgão ou serviço destinatário do uso e fruição do imóvel.\n\n2 - Compete à Direcção-Geral de Infra-Estruturas promover as diligências necessárias à selecção da entidade destinatária da reafectação, após a qual deve proceder à instrução e apresentação do processo ao Ministro da Defesa Nacional.\n\n3 - A Direcção-Geral do Património, do Ministério das Finanças, e o órgão ou serviço em causa celebram um auto de afectação e entrega, posteriormente comunicado à Direcção-Geral de Infra-Estruturas, do Ministério da Defesa Nacional.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228892": {
+   "fragment_id": "220219303",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - Revertem para o Ministério da Defesa Nacional 75% das receitas pecuniárias obtidas com a alienação dos imóveis, a totalidade das compensações pecuniárias advenientes da reafectação e as compensações em espécie que eventualmente sejam previstas nas alienações ou reafectações.\n\n2 - O produto das receitas pecuniárias do Ministério da Defesa Nacional será aplicado, de acordo com o fixado por despacho do Ministro da Defesa Nacional e do Ministro das Finanças, na constituição do capital inicial do Fundo de Pensões dos Militares das Forças Armadas, em despesas com construção e manutenção de infra-estruturas afectas ao Ministério da Defesa Nacional e para aquisição de equipamentos e bens necessários à modernização e operacionalidade das Forças Armadas.\n\n3 - A aplicação referida no número anterior em infra-estruturas, equipamentos e bens não pode ser feita se expressamente prevista na Lei de Programação Militar como fonte de financiamento e para os programas nessa lei previstos.\n\n4 - São ainda consignados à Direcção-Geral de Infra-Estruturas, do Ministério da Defesa Nacional, nos termos do artigo 5.º da Lei n.º 8/90, de 20 de Fevereiro, 5% do valor líquido das alienações ou reafectações, para cobertura de despesas efectuadas com a gestão do património imobiliário afecto ao Ministério da Defesa Nacional, designadamente para pagamento de aquisições de bens e serviços necessários a avaliações de imóveis, inventariação e cadastro, matriciação e registo predial e despesas com a alienação ou reafectação de prédios, incluindo as respeitantes à selecção e pagamento de serviços de mediador imobiliário.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 131/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/131-1999-532440), em vigor a partir de 1999-09-02"
+  },
+  "220228893": {
+   "fragment_id": "220219304",
+   "type": 11,
+   "heading": "Artigo 10.º — Administração transitória",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 10.º — Administração transitória\n\n1 - Enquanto não estiverem concluídos os processos de desafectação do domínio público militar e de alienação ou reafectação dos prédios, incumbe ao Ministério da Defesa Nacional a sua conservação e manutenção.\n\n2 - Pode o Ministério da Defesa Nacional, designadamente para cumprimento das obrigações de conservação dos imóveis referidos no artigo anterior, promover protocolos ou acordos de utilização temporária que tenham por objecto os referidos imóveis, revertendo as contrapartidas, se as houver, para cobertura de despesas com a manutenção e gestão patrimonial dos mesmos.\n\n3 - Os protocolos ou acordos de utilização temporária previstos no número anterior serão celebrados por período não superior a um ano, prorrogável por iguais períodos, ouvido o Ministério das Finanças.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228894": {
+   "fragment_id": "220219305",
+   "type": 11,
+   "heading": "Artigo 11.º — Registo predial",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 11.º — Registo predial\n\n1 - Em caso de desactualização do registo predial por deficiência do trato sucessivo, pode a Direcção-Geral de Infra-Estruturas, do Ministério da Defesa Nacional, recorrer ao processo especial do respectivo suprimento, previsto nos artigos 3.º e seguintes do Decreto-Lei n.º 312/90, de 2 de Outubro, ou a outras formas previstas na lei.\n\n2 - A Direcção-Geral de Infra-Estruturas pode ainda recorrer, por intermédio da repartição de finanças competente em razão da localização do prédio, ao processo de justificação administrativa para registo e inscrição a favor do Estado, nos termos do Decreto-Lei n.º 34565, de 2 de Maio de 1945, ficando investida nos poderes para o efeito necessários.\n\n3 - Constituem documentos bastantes de prova de transferência da propriedade ou outro direito real, para efeitos de registo de inscrição predial a favor dos adquirentes, os documentos que concretizem a entrega do prédio alienado consoante as modalidades mencionadas no n.º 1 do artigo 7.º\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228895": {
+   "fragment_id": "220219306",
+   "type": 11,
+   "heading": "Artigo 12.º — Processos pendentes",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 12.º — Processos pendentes\n\nO regime jurídico constante do presente diploma é aplicável aos prédios militares ainda não alienados que constam dos Decretos-Leis n.os 154/90, de 17 de Maio, 345/90, de 3 de Novembro, 201/91, de 29 de Maio, 419/91, de 29 de Outubro, 168/92, de 8 de Agosto, 62/93, de 5 de Março, 151/94, de 26 de Maio, 190/95, de 28 de Julho, e 318/97, de 25 de Novembro, sem prejuízo da completa execução das alienações e reafectações já decididas nos termos dos mesmos diplomas.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228896": {
+   "fragment_id": "220219307",
+   "type": 11,
+   "heading": "Artigo 13.º — Alteração ao Decreto-Lei n.º 419/91, de 29 de Outubro",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 13.º — Alteração ao Decreto-Lei n.º 419/91, de 29 de Outubro\n\nO artigo 2.º do Decreto-Lei n.º 419/91, de 29 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\nÉ ainda autorizada a alienação, em regime de hasta pública, ou por cessão a título definitivo a pessoas colectivas de direito ou a instituições particulares de interesse público, dos seguintes imóveis:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) ...\n\ns) ...\n\nt) ...\n\nu) ...\n\nv) ...\n\nx) ...\n\nz) ...\n\naa) ...\n\nbb) ...»\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228897": {
+   "fragment_id": "220219308",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 28 de Janeiro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Janeiro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  }
+ }
+}

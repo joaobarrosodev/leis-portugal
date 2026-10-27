@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:694054:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-919971026",
+ "dre_path": "/dr/detalhe/aviso/216-2005-694054",
+ "source_lastmod": "2025-05-29",
+ "versions": [
+  {
+   "date": "2005-05-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919959937"
+   ]
+  },
+  {
+   "date": "2005-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243489:por",
+     "title": "Aviso n.º 296/2005",
+     "published": "2005-08-17",
+     "dre_path": "/dr/detalhe/aviso/296-2005-243489"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "919959937",
+    "919959934"
+   ]
+  }
+ ],
+ "fragments": {
+  "919959937": {
+   "fragment_id": "919971027",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2005-08-22",
+   "changed_by": [],
+   "markdown": "Aviso n.º 216/2005\n\nPor ordem superior se torna público que a Ucrânia depositou, em 6 de Agosto de 2004, o seu instrumento de aprovação dos seguintes Actos Finais do XXII Congresso da União Postal Universal (UPU), realizado de 23 de Agosto a 15 de Setembro de 1999:\n\nRegulamento Geral da União Postal Universal;\n\nConvenção Postal Universal e o seu Protocolo Final;\n\nassinados em Beijing, em 15 de Setembro de 1999.\n\nPortugal é Parte dos mesmos Actos, aprovados para ratificação pela Resolução da Assembleia da República n.º 36-A/2004, tendo sido ratificados pelo Decreto do Presidente da República n.º 26-A/2004, publicado no Diário da República, 1.ª série-A, n.º 110, suplemento, de 11 de Maio de 2004.\n\nOs Actos Finais do XXII Congresso da União Postal Universal (UPU) entraram em vigor em 1 de Janeiro de 2001."
+  },
+  "919959934": {
+   "fragment_id": "919971031",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Direcção-Geral dos Assuntos Multilaterais, 6 de Abril de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício."
+  }
+ }
+}

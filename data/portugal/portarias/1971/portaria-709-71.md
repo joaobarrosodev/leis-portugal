@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:632222:por
+title: Portaria n.º 709/71
+short_title: null
+summary: Introduz alterações nas tarifas de operações acessórias e de vagões particulares dos caminhos de ferro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Comunicações - Direcção-Geral de Transportes Terrestres - Direcção dos Serviços de Exploração e Material
+  - 3.ª Repartição
+proposing_entity: null
+official_number: 709/71
+official_date: null
+publication_date: '1971-12-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 297/1971, Série I de 1971-12-21
+  number: '297'
+  series: I
+  supplement: null
+  pages: 1983 - 1985
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/12/29700/19831985.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '632222'
+  dre_path: /dr/detalhe/portaria/709-1971-632222
+  internal: pt:dre:632222:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/709-1971-632222
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/709-1971-632222
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:39:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 595d55d06a17c26ad437ae5fa13b6c76531f105e8f4f0b2ab8e2cc7f1dec48de
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:419843:por
+  label: null
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:39:27Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 709/71
+
+de 21 de Dezembro
+
+Tendo em vista uma simplificação e sistematização do estacionamento de vagões, fazendo variar os prazos de estacionamento gratuito em função da carga transportada;
+
+Considerando a necessidade de diferenciar as taxas de estacionamento dos vagões de tipo especial e normal, por um lado, e dos vagões do caminho de ferro e particulares, por outro;
+
+Considerando ainda o que foi proposto pela Companhia dos Caminhos de Ferro Portugueses e pela Sociedade Estoril:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, nos termos do artigo 2.º do [Decreto-Lei n.º 27665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27665-1937-419843), de 24 de Abril de 1937, que seja alterada a redacção do artigo 13.º e intercalado o artigo 13.º-bis da tarifa de operações acessórias e eliminado o artigo 20.º da tarifa de vagões particulares:
+
+###### ARTIGO 13.º — Estacionamento de vagões
+
+1. Os vagões utilizados ou a utilizar no transporte de remessas de vagão completo podem estacionar nas estações de procedência e de destino para carga e descarga das respectivas remessas.
+
+2. Esse estacionamento é gratuito durante os prazos indicados no quadro seguinte:
+
+Prazos de estacionamento gratuito
+
+(Horas úteis)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29700/19831985.pdf)
+
+3. Os prazos estabelecidos no número anterior são interrompidos durante o período em que as estações estão encerradas para o serviço de mercadorias e durante o tempo que decorre desde a apresentação do pedido de repesagem até que termine essa operação, salvo se for devida taxa de repesagem, de harmonia com o disposto nos n.os 3 e 5 do artigo 15.º
+
+4. É sempre gratuito o estacionamento de vagões, desde que a carga ou descarga fique concluída no próprio dia em que os vagões são postos à disposição dos expedidores ou dos consignatários, independentemente de terem sido excedidos ou não os prazos previstos no n.º 2 do presente artigo.
+
+5. Os prazos de estacionamento gratuito contam-se a partir do momento em que os vagões são postos à disposição dos expedidores ou consignatários, nos locais designados pelo caminho de ferro para a efectivação das operações de carga ou de descarga das respectivas remessas.
+
+6. Para efeitos do número anterior, os vagões consideram-se postos à disposição dos consignatários para descarga das remessas:
+
+a) Quatro horas depois da entrega para transmissão, na estação telégrafo-postal, do aviso de chegada feito por telegrama;
+
+b) Duas horas depois da recepção do aviso de chegada feito pelo telefone ou feito pessoalmente por um empregado do caminho de ferro;
+
+c) A partir das 14 horas do primeiro dia útil seguinte ao da emissão do aviso de chegada feito por postal.
+
+7. No entanto, se por culpa do caminho de ferro os vagões não tiverem sido postos à disposição dos consignatários nos locais em que há-de efectuar-se a descarga, até ao termo dos prazos previstos no número anterior, a contagem dos prazos de estacionamento gratuito só começa a partir do momento em que, de facto, os vagões forem postos à disposição dos consignatários.
+
+8. Se os prazos referidos nas alíneas a) e b) do n.º 6 expirarem durante o período de encerramento das estações, os vagões só se consideram postos à disposição dos consignatários, para descarga das remessas, a partir da hora da reabertura das estações.
+
+9. Se os prazos referidos nas alíneas a), b) e c) expirarem no sábado, os vagões só se consideram postos à disposição dos consignatários, para descarga das remessas, a partir das 14 horas do primeiro dia útil seguinte.
+
+10. As disposições do presente artigo são aplicáveis aos vagões particulares e ao material de caminho de ferro circulando sobre as próprias rodas, com ressalva do disposto no número seguinte.
+
+11. Os prazos de estacionamento gratuito aplicáveis ao material do caminho de ferro circulando sobre as próprias rodas são os que, tendo em atenção a tonelagem de cada remessa, resultam de acordo com o n.º 2 do presente artigo, para as remessas a que foi afecto um único vagão.
+
+12. Quando o expedidor tenha requisitado vagão com encerado para cobrir a mercadoria que o não possa dispensar, não é obrigado a carregar enquanto lhe não for fornecido encerado.
+
+###### Artigo 13.º-bis — Taxas de estacionamento
+
+1. Pelo estacionamento de vagões e de outro material de caminho de ferro que exceder, nas estações de procedência ou de destino, os prazos de estacionamento gratuito, são devidas as taxas constantes do quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29700/19831985.pdf)
+
+2. São igualmente devidas as taxas estabelecidas no número anterior:
+
+a) Quando à passagem na fronteira luso-espanhola e para efeito de desembaraço alfandegário, qualquer vagão estiver retido mais de quarenta e oito horas, contadas a partir do momento em que é posto à disposição do encarregado desse desembaraço;
+
+b) Quando por vício próprio do objecto do transporte, defeito ou deficiência de embalagem ou impedimento estranho à responsabilidade do caminho de ferro, qualquer vagão sofrer retenção não prevista. Se a retenção se verificar nas estações de procedência ou de destino, as taxas de estacionamento são devidas a partir do momento em que expiram os prazos de estacionamento gratuito estabelecidos no artigo anterior; se se verificar no trajecto, essas taxas são devidas a partir do momento em que se torna efectiva a retenção do vagão.
+
+3. As taxas de estacionamento de vagões transportando remessas em regime de detalhe previstas no número anterior são devidas pela remessa que originar a retenção do vagão.
+
+4. As taxas são aplicadas por vagão e por períodos indivisíveis de vinte e quatro horas, contadas a partir das 0 horas. Exceptua-se o primeiro período de contagem que decorre desde o momento em que expira o prazo de estacionamento gratuito até às 24 horas desse mesmo dia.
+
+5. Quando os consignatários não tenham iniciado a descarga dos vagões dentro dos prazos gratuitos previstos no n.º 2 do artigo anterior, o caminho de ferro tem a faculdade de proceder à descarga na estação de destino, sendo neste caso devidas as taxas de descarga, de armazenagem e de estacionamento que corresponderem.
+
+6. São também devidas taxas de estacionamento, mas só depois de terem expirado os respectivos prazos de estacionamento gratuito, quando os expedidores desistirem tácita ou expressamente da utilização dos vagões postos à sua disposição.
+
+A desistência considera-se tácita quando decorridas vinte e quatro horas consecutivas, não contando domingos e feriados, após os vagões terem sido postos à disposição do expedidor, este não tiver iniciado o carregamento.
+
+7. Não são devidas quaisquer taxas pelo estacionamento de vagões particulares em ramais particulares.
+
+8. Ao estacionamento de material de caminho de ferro e circulando sobre as próprias rodas é aplicável o disposto nos n.os 1, 2, 3 e 4 do presente artigo, como se se tratasse de estacionamento de vagões.
+
+Nesta data é eliminado o artigo 20.º da tarifa de vagões particulares, ficando as suas disposições incluídas na tarifa de operações acessórias.
+
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

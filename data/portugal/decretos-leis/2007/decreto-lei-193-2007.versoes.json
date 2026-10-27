@@ -1,0 +1,411 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:520650:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-158213893",
+ "dre_path": "/dr/detalhe/decreto-lei/193-2007-520650",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-05-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "158213729",
+    "158213730",
+    "158213731",
+    "158213732",
+    "158213733",
+    "158213734",
+    "158213735",
+    "158213736",
+    "158213737",
+    "158213738",
+    "158213739",
+    "158213740",
+    "158213741",
+    "158213742",
+    "158213743",
+    "158213744",
+    "158213745",
+    "158213747",
+    "158213748"
+   ]
+  },
+  {
+   "date": "2009-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:489691:por",
+     "title": "Decreto-Lei n.º 236/2009",
+     "published": "2009-09-15",
+     "dre_path": "/dr/detalhe/decreto-lei/236-2009-489691"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "158213729",
+    "158213730",
+    "158213731",
+    "158213732",
+    "158213733",
+    "158213734",
+    "158213735",
+    "158213736",
+    "158213737",
+    "158213738",
+    "158213739",
+    "158213740",
+    "158213741",
+    "158213742",
+    "158213743",
+    "158213744",
+    "158213745",
+    "158213746",
+    "158239775",
+    "158213748"
+   ]
+  },
+  {
+   "date": "2010-06-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:335423:por",
+     "title": "Decreto-Lei n.º 67/2010",
+     "published": "2010-06-14",
+     "dre_path": "/dr/detalhe/decreto-lei/67-2010-335423"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "158213729",
+    "158213730",
+    "158213731",
+    "158213732",
+    "158213733",
+    "158213734",
+    "158213735",
+    "158213736",
+    "158213737",
+    "158213738",
+    "158213739",
+    "158213740",
+    "158213741",
+    "158213742",
+    "158213743",
+    "158213744",
+    "158213745",
+    "158213746",
+    "158239783",
+    "158213748"
+   ]
+  },
+  {
+   "date": "2011-01-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:306592:por",
+     "title": "Decreto-Lei n.º 139/2010",
+     "published": "2010-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/139-2010-306592"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "158213729",
+    "158213730",
+    "158213731",
+    "158213732",
+    "158213733",
+    "158213734",
+    "158213735",
+    "158213736",
+    "158213737",
+    "158213738",
+    "158213739",
+    "158213740",
+    "158213741",
+    "158213742",
+    "158213743",
+    "158213744",
+    "158213745",
+    "158213746",
+    "158239790",
+    "158213748"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "158213729",
+    "158213730",
+    "158213731",
+    "158213732",
+    "158213733",
+    "158213734",
+    "158213735",
+    "158213736",
+    "158213737",
+    "158239791",
+    "158213739",
+    "158213740",
+    "158239792",
+    "158239793",
+    "158213743",
+    "158213744",
+    "158213745",
+    "158213746",
+    "158239790",
+    "158213748"
+   ]
+  }
+ ],
+ "fragments": {
+  "158213729": {
+   "fragment_id": "158213894",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 193/2007\n\nde 14 de Maio\n\nA produção e a alimentação animal ocupam um lugar de destaque na agricultura da Comunidade Europeia, tendo implicações directas na saúde animal bem como na saúde humana e promovendo a deslocação de elevados montantes económicos.\n\nImporta, por isso, obter resultados satisfatórios em termos de saúde pública e animal, de bem estar animal, de protecção do ambiente e de salvaguarda da estabilidade financeira dos produtores, os quais dependem da utilização de alimentos para animais adequados e de boa qualidade.\n\nA regulamentação dos alimentos para animais é, pois, um factor essencial para garantir a produtividade agrícola, bem como o cumprimento das normas de higiene que assegurem em cada exploração agrícola alimentos para animais de boa qualidade.\n\nOs aditivos, enquanto produtos destinados à alimentação animal, podem conter substâncias indesejáveis susceptíveis de prejudicar a saúde animal ou, devido à sua presença nos produtos animais, a saúde humana ou o meio ambiente, sendo o presente decreto-lei, por conseguinte, extensivo a estas substâncias.\n\nUma vez que é impossível eliminar totalmente a presença de substâncias indesejáveis, é importante garantir que a sua concentração em produtos destinados à alimentação animal seja reduzida, tendo em devida conta a toxicidade aguda da substância em causa e a sua capacidade de bioacumulação e de degradação, por forma a evitar efeitos indesejáveis e prejudiciais.\n\nAssim, o presente decreto-lei aplica-se aos produtos destinados à alimentação animal, aplicando-se os limites máximos fixados para as substâncias indesejáveis, em geral, a partir da data de entrada em circulação ou da utilização dos produtos destinados à alimentação animal, em todas as fases, em especial a partir da data da sua importação.\n\nO presente decreto-lei estabelece como princípio que os produtos destinados à alimentação animal devem ser de qualidade sã e íntegra e, consequentemente, não devem representar, quando correctamente utilizados, qualquer perigo para a saúde humana ou animal ou para o ambiente, nem ser susceptíveis de afectar negativamente a produção pecuária.\n\nÉ, portanto, proibida a utilização ou a entrada em circulação de produtos destinados à alimentação animal com uma concentração de substâncias indesejáveis que exceda os limites máximos previstos no presente decreto-lei.\n\nAlém disso, as substâncias indesejáveis só podem estar presentes nos produtos destinados à alimentação animal nas condições fixadas no presente decreto-lei, não podendo ser usadas de nenhum outro modo na alimentação animal.\n\nEmbora em certos casos seja fixado um limite máximo, tendo em conta os teores de base, justifica-se que se continue o esforço para limitar ao mínimo possível a presença de determinadas substâncias indesejáveis nos produtos destinados à alimentação animal, a fim de reduzir a sua presença na cadeia alimentar, encontrando-se, por isso, prevista a possibilidade de estabelecer um limiar de intervenção claramente inferior aos limites máximos estabelecidos.\n\nSempre que esse limiar seja ultrapassado, devem ser efectuados inquéritos para identificar as fontes das substâncias indesejáveis, bem como adoptadas as medidas adequadas para reduzir ou eliminar as referidas substâncias.\n\nNo caso dos alimentos complementares, a presença de determinadas substâncias indesejáveis deve ser limitada através da fixação de limites máximos adequados.\n\nAs matérias supra-referidas encontram-se reguladas no Decreto-Lei n.º 235/2003, de 30 de Setembro, que transpôs para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0032\" title=\"Link para Directiva da Comunidade Europeia\">2002/32/CE</a>, do Parlamento Europeu e do Conselho, de 7 de Maio, relativa às substâncias indesejáveis nos alimentos para animais.\n\nPosteriormente, aquele diploma foi alterado pelo Decreto-Lei n.º 100/2004, de 4 de Maio, que transpôs as Directivas n.os <a href=\"eurlex.asp?ano=2003&id=303L0057\" title=\"Link para Directiva da Comunidade Europeia\">2003/57/CE</a> e <a href=\"eurlex.asp?ano=2003&id=303L0100\" title=\"Link para Directiva da Comunidade Europeia\">2003/100/CE</a>, ambas da Comissão, de 17 de Junho e de 31 de Outubro, respectivamente, as quais introduziram alterações à Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0032\" title=\"Link para Directiva da Comunidade Europeia\">2002/32/CE</a>.\n\nMais recentemente, a Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0032\" title=\"Link para Directiva da Comunidade Europeia\">2002/32/CE</a> foi alterada pelas Directivas n.os <a href=\"eurlex.asp?ano=2005&id=305L0008\" title=\"Link para Directiva da Comunidade Europeia\">2005/8/CE</a>, da Comissão, de 27 de Janeiro, <a href=\"eurlex.asp?ano=2005&id=305L0086\" title=\"Link para Directiva da Comunidade Europeia\">2005/86/CE</a>, da Comissão, de 5 de Dezembro, <a href=\"eurlex.asp?ano=2005&id=305L0087\" title=\"Link para Directiva da Comunidade Europeia\">2005/87/CE</a>, da Comissão, de 5 de Dezembro, <a href=\"eurlex.asp?ano=2006&id=306L0013\" title=\"Link para Directiva da Comunidade Europeia\">2006/13/CE</a>, da Comissão, de 3 de Fevereiro, e <a href=\"eurlex.asp?ano=2006&id=306L0077\" title=\"Link para Directiva da Comunidade Europeia\">2006/77/CE</a>, da Comissão, de 29 de Setembro, as quais importa agora transpor para a ordem jurídica nacional.\n\nO presente decreto-lei procede, assim, à transposição das Directivas n.os <a href=\"eurlex.asp?ano=2005&id=305L0008\" title=\"Link para Directiva da Comunidade Europeia\">2005/8/CE</a>, <a href=\"eurlex.asp?ano=2005&id=305L0086\" title=\"Link para Directiva da Comunidade Europeia\">2005/86/CE</a>, <a href=\"eurlex.asp?ano=2005&id=305L0087\" title=\"Link para Directiva da Comunidade Europeia\">2005/87/CE</a>, <a href=\"eurlex.asp?ano=2006&id=306L0013\" title=\"Link para Directiva da Comunidade Europeia\">2006/13/CE</a> e <a href=\"eurlex.asp?ano=2006&id=306L0077\" title=\"Link para Directiva da Comunidade Europeia\">2006/77/CE</a> e àrevogação do Decreto-Lei n.º 235/2003, de 30 de Setembro, bem como do Decreto-Lei n.º 100/2004, de 4 de Maio, que o alterou.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "158213730": {
+   "fragment_id": "158213895",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei transpõe para a ordem jurídica interna as Directivas n.os <a href=\"eurlex.asp?ano=2005&id=305L0008\" title=\"Link para Directiva da Comunidade Europeia\">2005/8/CE</a>, da Comissão, de 27 de Janeiro, <a href=\"eurlex.asp?ano=2005&id=305L0086\" title=\"Link para Directiva da Comunidade Europeia\">2005/86/CE</a>, da Comissão, de 5 de Dezembro, <a href=\"eurlex.asp?ano=2005&id=305L0087\" title=\"Link para Directiva da Comunidade Europeia\">2005/87/CE</a>, da Comissão, de 5 de Dezembro, <a href=\"eurlex.asp?ano=2006&id=306L0013\" title=\"Link para Directiva da Comunidade Europeia\">2006/13/CE</a>, da Comissão, de 3 de Fevereiro, e <a href=\"eurlex.asp?ano=2006&id=306L0077\" title=\"Link para Directiva da Comunidade Europeia\">2006/77/CE</a>, da Comissão, de 29 de Setembro, que alteram a Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0032\" title=\"Link para Directiva da Comunidade Europeia\">2002/32/CE</a>, do Parlamento Europeu e do Conselho, de 7 de Maio, relativa às substâncias indesejáveis nos alimentos para animais."
+  },
+  "158213731": {
+   "fragment_id": "158213896",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Aditivos» as substâncias, microrganismos ou preparados que não sejam matérias para a alimentação animal nem pré-misturas ou os seus preparados, que sejam intencionalmente aditados aos alimentos para animais ou à água, a fim de desempenharem pelo menos uma das seguintes funções:\n\ni) Alterar favoravelmente as características dos alimentos para animais;\n\nii) Alterar favoravelmente as características dos produtos de origem animal;\n\niii) Alterar favoravelmente a cor dos peixes e aves ornamentais;\n\niv) Satisfazer as necessidades nutricionais dos animais;\n\nv) Influenciar favoravelmente as consequências da produção animal sobre o ambiente;\n\nvi) Influenciar favoravelmente a produção, o rendimento ou o bem-estar dos animais, influenciando particularmente a flora gastrentestinal ou a digestibilidade dos alimentos para animais;\n\nvii) Produzir um efeito coccidiostático ou histomonostático;\n\nb) «Alimentos complementares» as misturas de alimentos com uma elevada concentração de determinadas substâncias e que, pela sua composição, apenas assegurem a ração diária, se forem associados a outros alimentos para animais;\n\nc) «Alimentos completos» as misturas de alimentos para animais que, pela sua composição, bastem para assegurar a ração diária;\n\nd) «Alimentos compostos para animais» as misturas de produtos de origem vegetal ou animal no estado natural, frescos ou conservados, ou os derivados da sua transformação industrial, ou de substâncias orgânicas e inorgânicas, contendo ou não aditivos, destinados à alimentação animal por via oral, sob a forma de alimentos completos ou de alimentos complementares;\n\ne) «Alimentos para animais» os produtos de origem vegetal ou animal no seu estado natural, frescos ou conservados, e os derivados da sua transformação industrial, bem como as substâncias orgânicas ou inorgânicas, simples ou em misturas, com ou sem aditivos, destinadas à alimentação animal por via oral;\n\nf) «Animais» os animais pertencentes a espécies normalmente alimentadas e detidas ou consumidas pelo homem, bem como os animais que vivem em liberdade na natureza que sejam alimentados com alimentos para animais;\n\ng) «Colocação em circulação» ou «circulação» a detenção de quaisquer produtos destinados à alimentação animal para efeitos de venda, incluindo a proposta de venda, ou de qualquer outra forma de transmissão para terceiros, a título gratuito ou oneroso, bem como a própria venda ou qualquer outra forma de transmissão;\n\nh) «Matérias-primas para alimentação animal» os vários produtos de origem vegetal ou animal no seu estado natural, frescos ou conservados, e os produtos derivados da sua transformação industrial, bem como as substâncias orgânicas ou inorgânicas, simples ou em misturas, com ou sem aditivos, destinadas à alimentação animal por via oral, quer directamente quer após transformação, para a preparação de alimentos compostos para animais ou como suporte em pré-misturas;\n\ni) «Pré-misturas» as misturas de aditivos para a alimentação animal, ou misturas de um ou mais desses aditivos com matérias-primas para a alimentação animal ou água usadas como excipiente, que não se destinam à alimentação directa dos animais;\n\nj) «Produtos destinados à alimentação animal» as matérias-primas para alimentação animal, as pré-misturas, os aditivos, os alimentos para animais e todos os restantes produtos destinados à utilização ou utilizados na alimentação animal;\n\nl) «Ração diária» a quantidade diária total de alimentos, calculada para um teor de humidade de 12%, necessária, em média, para um animal de uma determinada espécie, categoria, de idade e rendimento, para satisfação de todas as suas necessidades;\n\nm) «Substância indesejável» qualquer substância ou produto, com excepção de agentes patogénicos, que se encontre presente no produto destinado à alimentação animal e que constitua um perigo potencial para a saúde humana ou animal e o ambiente ou seja susceptível de afectar negativamente a produção pecuária."
+  },
+  "158213732": {
+   "fragment_id": "158213897",
+   "type": 11,
+   "heading": "Artigo 3.º — Substâncias indesejáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Substâncias indesejáveis\n\n1 - As substâncias indesejáveis, enumeradas no anexo I do presente decreto-lei, do qual faz parte integrante, só podem ser toleradas nos produtos destinados à alimentação animal, nas condições previstas no mesmo anexo.\n\n2 - A autoridade competente efectua, em cooperação com os agentes económicos, análises destinadas a determinar as fontes de substâncias indesejáveis nos produtos destinados à alimentação animal, a fim de as reduzir ou eliminar, nos casos em que aqueles limites máximos sejam ultrapassados e em que seja detectado um aumento dos teores dessas substâncias, tendo em conta os teores de base.\n\n3 - No anexo II do presente decreto-lei, do qual faz parte integrante, são fixados os limiares de intervenção para além dos quais se procede às análises referidas no número anterior, para uma abordagem uniforme em caso de aumento dos teores."
+  },
+  "158213733": {
+   "fragment_id": "158213898",
+   "type": 11,
+   "heading": "Artigo 4.º — Interdição de diluição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Interdição de diluição\n\nOs produtos destinados à alimentação animal com um teor de uma substância indesejável superior ao limite máximo fixado no anexo I do presente decreto-lei não podem ser misturados, para efeitos de diluição, com o mesmo produto ou com outros produtos destinados à alimentação animal."
+  },
+  "158213734": {
+   "fragment_id": "158213899",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de comercialização\n\n1 - Os produtos destinados à alimentação animal só podem ser utilizados, colocados em circulação ou entrar na Comunidade Europeia a partir de países terceiros, se a sua qualidade for sã, íntegra e comercializável, e não constituírem, quando correctamente utilizados, qualquer perigo para a saúde humana ou animal ou para o ambiente e não afectarem negativamente a produção pecuária.\n\n2 - Em especial, os produtos destinados à alimentação animal cujo teor em substâncias indesejáveis ultrapasse os limites máximos fixados no anexo I ao presente decreto-lei são considerados como não conformes com o número anterior."
+  },
+  "158213735": {
+   "fragment_id": "158213900",
+   "type": 11,
+   "heading": "Artigo 6.º — Exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exportação\n\n1 - As disposições previstas no presente decreto-lei são igualmente aplicáveis aos produtos destinados à alimentação animal produzidos na Comunidade Europeia para serem exportados para países terceiros.\n\n2 - O disposto no número anterior não prejudica o direito de os Estados membros da Comunidade Europeia autorizarem a exportação nas condições definidas no artigo 12.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R0178\" title=\"Link para Regulamento da Comunidade Europeia\">178/2002</a>, do Parlamento e do Conselho, de 28 de Janeiro, aplicando-se com as necessárias adaptações o disposto no artigo 20.º do mesmo regulamento."
+  },
+  "158213736": {
+   "fragment_id": "158213901",
+   "type": 11,
+   "heading": "Artigo 7.º — Alimentos complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alimentos complementares\n\nOs alimentos complementares, sempre que não sejam objecto de disposições legais específicas, não podem conter teores das substâncias enumeradas no anexo I do presente decreto-lei superiores aos fixados para os alimentos completos, considerando a proporção prescrita para utilização numa ração diária."
+  },
+  "158213737": {
+   "fragment_id": "158213902",
+   "type": 11,
+   "heading": "Artigo 8.º — Outras restrições à circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Outras restrições à circulação\n\nOs produtos destinados à alimentação animal não são sujeitos a outras restrições de circulação em virtude da presença de substâncias indesejáveis além das previstas no presente decreto-lei e no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0882\" title=\"Link para Regulamento da Comunidade Europeia\">882/2004/CE</a>, do Parlamento Europeu e do Conselho, de 29 de Abril."
+  },
+  "158213738": {
+   "fragment_id": "158213903",
+   "type": 11,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - Constituem contra-ordenações puníveis com coima, cujo montante mínimo é de (euro) 250 e o máximo de (euro) 3740 ou (euro) 44891, consoante o agente seja pessoa singular ou colectiva:\n\na) A introdução na Comunidade Europeia a partir de países terceiros e a colocação em circulação ou a utilização de produtos destinados à alimentação animal que não respeitem o disposto no n.º 1 do artigo 5.º;\n\nb) A colocação em circulação ou a utilização de produtos destinados à alimentação animal cujo teor em substâncias indesejáveis seja superior aos limites máximos estabelecidos no anexo I do presente decreto-lei;\n\nc) A exportação para países terceiros de produtos destinados à alimentação animal produzidos na Comunidade em desconformidade com as normas do presente decreto-lei;\n\nd) A mistura, para efeitos de diluição, de produtos destinados à alimentação animal com um teor de uma substância indesejável superior ao limite máximo fixado no anexo I com o mesmo produto ou com outros produtos destinados à alimentação animal;\n\ne) A detenção ou posse de alimentos complementares que contenham teores das substâncias enumeradas no anexo I superiores aos fixados para os alimentos completos, considerando a proporção prescrita para utilização numa ração diária.\n\n2 - A negligência é punível, sendo os montantes máximos das coimas previstas no número anterior reduzidos a metade."
+  },
+  "158213739": {
+   "fragment_id": "158213904",
+   "type": 11,
+   "heading": "Artigo 10.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções acessórias\n\nConsoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Apreensão de objectos, produtos e alimentos para animais;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorizações, licenças e alvarás."
+  },
+  "158213740": {
+   "fragment_id": "158213905",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização\n\nSem prejuízo da competência atribuída por lei a outras entidades, a fiscalização do cumprimento das normas do presente decreto-lei compete à Autoridade de Segurança Alimentar e Económica (ASAE)."
+  },
+  "158213741": {
+   "fragment_id": "158213906",
+   "type": 11,
+   "heading": "Artigo 12.º — Instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instrução e decisão\n\n1 - A instrução dos processos de contra-ordenação compete à ASAE.\n\n2 - A aplicação das coimas e sanções acessórias compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP)."
+  },
+  "158213742": {
+   "fragment_id": "158213907",
+   "type": 11,
+   "heading": "Artigo 13.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Destino das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 30% para a ASAE;\n\nb) 10% para a CACMEP;\n\nc) 60% para os cofres do Estado."
+  },
+  "158213743": {
+   "fragment_id": "158213908",
+   "type": 11,
+   "heading": "Artigo 14.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regiões Autónomas\n\nO presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações que sejam introduzidas através de diploma regional adequado, cabendo a sua execução administrativa aos serviços competentes das respectivas administrações regionais."
+  },
+  "158213744": {
+   "fragment_id": "158213909",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 235/2003, de 30 de Setembro."
+  },
+  "158213745": {
+   "fragment_id": "158213910",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "158213747": {
+   "fragment_id": "158213912",
+   "type": 14,
+   "heading": "Anexo I — Limites máximos toleráveis de substâncias indesejáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Limites máximos toleráveis de substâncias indesejáveis\n\n(ver documento original)"
+  },
+  "158213748": {
+   "fragment_id": "158213913",
+   "type": 14,
+   "heading": "Anexo II — Limiares de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Limiares de intervenção\n\n(ver documento original)"
+  },
+  "158213746": {
+   "fragment_id": "158213911",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Pereira Serrasqueiro - Jaime de Jesus Lopes Silva.\n\nPromulgado em 23 de Abril de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 24 de Abril de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "158239775": {
+   "fragment_id": "158213912",
+   "type": 14,
+   "heading": "Anexo I — Limites máximos toleráveis de substâncias indesejáveis",
+   "in_force_from": "2009-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2009 - Diário da República n.º 179/2009, Série I de 2009-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2009-489691), em vigor a partir de 2009-09-16"
+   ],
+   "markdown": "## Anexo I — Limites máximos toleráveis de substâncias indesejáveis\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2009 - Diário da República n.º 179/2009, Série I de 2009-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2009-489691), em vigor a partir de 2009-09-16"
+  },
+  "158239783": {
+   "fragment_id": "158213912",
+   "type": 14,
+   "heading": "Anexo I — Limites máximos toleráveis de substâncias indesejáveis",
+   "in_force_from": "2010-06-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2010 - Diário da República n.º 113/2010, Série I de 2010-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2010-335423), em vigor a partir de 2010-06-19",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2009 - Diário da República n.º 179/2009, Série I de 2009-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2009-489691), em vigor a partir de 2009-09-16"
+   ],
+   "markdown": "## Anexo I — Limites máximos toleráveis de substâncias indesejáveis\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2010 - Diário da República n.º 113/2010, Série I de 2010-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2010-335423), em vigor a partir de 2010-06-19\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2009 - Diário da República n.º 179/2009, Série I de 2009-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2009-489691), em vigor a partir de 2009-09-16"
+  },
+  "158239790": {
+   "fragment_id": "158213912",
+   "type": 14,
+   "heading": "Anexo I — Limites máximos toleráveis de substâncias indesejáveis",
+   "in_force_from": "2011-01-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2010 - Diário da República n.º 251/2010, Série I de 2010-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2010-306592), em vigor a partir de 2011-01-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2010 - Diário da República n.º 113/2010, Série I de 2010-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2010-335423), em vigor a partir de 2010-06-19",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2009 - Diário da República n.º 179/2009, Série I de 2009-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2009-489691), em vigor a partir de 2009-09-16"
+   ],
+   "markdown": "## Anexo I — Limites máximos toleráveis de substâncias indesejáveis\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2010 - Diário da República n.º 251/2010, Série I de 2010-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2010-306592), em vigor a partir de 2011-01-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2010 - Diário da República n.º 113/2010, Série I de 2010-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2010-335423), em vigor a partir de 2010-06-19\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 236/2009 - Diário da República n.º 179/2009, Série I de 2009-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2009-489691), em vigor a partir de 2009-09-16"
+  },
+  "158239791": {
+   "fragment_id": "158213903",
+   "type": 11,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 79.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A introdução na Comunidade Europeia a partir de países terceiros e a colocação em circulação ou a utilização de produtos destinados à alimentação animal que não respeitem o disposto no n.º 1 do artigo 5.º;\n\nb) A colocação em circulação ou a utilização de produtos destinados à alimentação animal cujo teor em substâncias indesejáveis seja superior aos limites máximos estabelecidos no anexo I do presente decreto-lei;\n\nc) A exportação para países terceiros de produtos destinados à alimentação animal produzidos na Comunidade em desconformidade com as normas do presente decreto-lei;\n\nd) A mistura, para efeitos de diluição, de produtos destinados à alimentação animal com um teor de uma substância indesejável superior ao limite máximo fixado no anexo I com o mesmo produto ou com outros produtos destinados à alimentação animal;\n\ne) A detenção ou posse de alimentos complementares que contenham teores das substâncias enumeradas no anexo I superiores aos fixados para os alimentos completos, considerando a proporção prescrita para utilização numa ração diária.\n\n2 - A negligência é punível nos termos do RJCE.\n\n> Alterado pelo/a Artigo 79.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "158239792": {
+   "fragment_id": "158213906",
+   "type": 11,
+   "heading": "Artigo 12.º — Instrução e decisão",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 79.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 12.º — Instrução e decisão\n\n1 - A instrução dos processos de contra-ordenação compete à ASAE.\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n> Alterado pelo/a Artigo 79.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "158239793": {
+   "fragment_id": "158213907",
+   "type": 11,
+   "heading": "Artigo 13.º — Destino das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 79.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 13.º — Destino das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 79.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

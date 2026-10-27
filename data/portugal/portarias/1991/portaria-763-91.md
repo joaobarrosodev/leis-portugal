@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:687581:por
+title: Portaria n.º 763/91
+short_title: null
+summary: Altera os anexos I e II à Portaria n.º 1103/89, de 27 de Dezembro, que aprova a lista de aditivos autorizados em
+  alimentação animal e respectivas condições de utilização
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 763/91
+official_date: null
+publication_date: '1991-08-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 178/1991, Série I-B de 1991-08-05
+  number: '178'
+  series: I
+  supplement: null
+  pages: 3849 - 3851
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/763/1991/08/05/p/dre/pt/html
+  oj: null
+  dre: '687581'
+  dre_path: /dr/detalhe/portaria/763-1991-687581
+  internal: pt:dre:687581:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/763-1991-687581
+  metadata_url: https://data.dre.pt/eli/port/763/1991/08/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/763-1991-687581
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:00:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 19acdee5770325ee055d51bda8ced9f65838eb069dfeae1b0a28739a4cdc2514
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aditivo Alimentar
+- Alimento para Animais
+relationships:
+- type: amended_by
+  target: pt:dre:346078:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31977R0368
+  label: null
+  source: http://data.europa.eu/eli/reg/1977/368/oj
+- type: cites
+  target: celex:31977R0443
+  label: null
+  source: http://data.europa.eu/eli/reg/1977/443/oj
+- type: cites
+  target: celex:31991L0249
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/249/oj
+- type: repealed_by
+  target: pt:dre:346078:por
+  label: "Revogada pelo DEC LEI.289/99.1999.07.29.MADRP DR.IS-A [175]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1999-346078
+  date: '1999-07-29'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:00:33Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 763/91
+
+de 5 de Agosto
+
+Considerando que a constante evolução dos conhecimentos científicos e técnicos exige a actualização da lista das substâncias aprovadas como aditivos, incluídas nos anexos I e II à Portaria n.º 1103/89, de 27 de Dezembro, e respectivas condições de utilização;
+
+Considerando que as alterações introduzidas respeitam as condições de admissibilidade estabelecidas no artigo 8.º do Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais, aprovado pelo Decreto-Lei n.º 440/89, de 27 de Dezembro;
+
+Considerando a necessidade de harmonizar a Directiva comunitária n.º [91/249/CEE](http://data.europa.eu/eli/dir/1991/249/oj?locale=pt), de 19 de Abril;
+
+Considerando, por último, que o Conselho Consultivo de Alimentação Animal foi ouvido sobre a matéria, nos termos do artigo 4.º do Decreto-Lei n.º 372/87, de 5 de Dezembro:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do artigo 2.º do Decreto-Lei n.º 440/89, que os anexos I e II à Portaria n.º 1103/89, de 27 de Dezembro, sejam alterados em conformidade com o anexo à presente portaria, da qual faz parte integrante.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+Assinada em 13 de Junho de 1991.
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
+
+## ANEXO
+
+1 - No anexo I:
+
+a) No grupo H «Vitaminas, provitaminas e substâncias de efeito análogo, quimicamente bem definidas», o texto relativo ao aditivo E672 «Vitamina A» passa a ter a seguinte redacção:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf)
+
+b) No grupo I «Oligoelementos», relativamente ao elemento E1 aditivo «Sulfato ferroso mono-hidratado», as indicações incluídas na col. «Outras disposições» são substituídas pelas seguintes:
+
+Admitido:
+
+i) No leite em pó desnatado e desnaturado e nos alimentos compostos fabricados a partir do leite em pó desnatado submetido a desnaturação.
+
+Respeitar as disposições pertinentes dos Regulamentos (CEE) n.os [368/77](http://data.europa.eu/eli/reg/1977/368/oj?locale=pt) e [443/77](http://data.europa.eu/eli/reg/1977/443/oj?locale=pt), da Comissão.
+
+Mencionar nos rótulos, nas embalagens ou nos recipientes do leite em pó desnatado e desnaturado a quantidade de ferro acrescentada enquanto elemento;
+
+ii) Nos alimentos compostos que não estejam referidos em i).
+
+2 - No anexo II:
+
+a) No grupo A «Antibióticos» é incluído o aditivo efrotomicina nas seguintes condições:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf)
+
+b) No grupo L: «Aglomerantes, antiespumantes e coagulantes» é incluído o aditivo aluminatos de cálcio sintéticos nas seguintes condições:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/178b00/38493851.pdf)

@@ -1,0 +1,269 @@
+---
+schema_version: '1.0'
+id: pt:dre:218538:por
+title: Decreto Legislativo Regional n.º 16/2004/A
+short_title: null
+summary: Estabelece o regime jurídico dos percursos pedestres classificados da Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 16/2004/A
+official_date: null
+publication_date: '2004-04-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 85/2004, Série I-A de 2004-04-10
+  number: '85'
+  series: I
+  supplement: null
+  pages: 2221 - 2224
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/04/085a00/22212224.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/16/2004/04/10/a/dre/pt/html
+  oj: null
+  dre: '218538'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/16-2004-218538
+  internal: pt:dre:218538:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2004-218538
+  metadata_url: https://data.dre.pt/eli/declegreg/16/2004/04/10/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2004-218538
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:19:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4027a59e5984a2b5dacba8b17654da2b0d1fb82bc2f0e437884bb779384bd5f7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Comissão de Acompanhamento
+- Interesse para o Turismo
+- Percurso Pedonal
+- Publicidade
+- Regime Jurídico
+- Sinalização
+relationships:
+- type: amended_by
+  target: pt:dre:178516:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: repealed_by
+  target: pt:dre:178516:por
+  label: "Revogado pelo DLR.30/2012/A.03.07.2012.AL-RAA, DR.IS [127] de 03.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-2012-178516
+  date: '2012-07-03'
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:19:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 16/2004/A
+
+Regime jurídico dos percursos pedestres classificados da Região Autónoma dos Açores
+
+A qualidade do ambiente, a beleza das paisagens, a diversidade da flora e da fauna e o património construído constituem nos Açores importantes recursos para o seu desenvolvimento turístico. Daí que, para os preservar, se torne urgente e necessário regulamentar o modo como podem ser fruídos pela população em geral e, particularmente, pelos turistas.
+
+Uma das actividades que se prende com a fruição destes mesmos recursos, e que em todas as ilhas dos Açores tem tido forte incremento, são os passeios a pé por veredas e atalhos, construídos ao longo de séculos pelas populações e outros abertos com esse propósito. Dada a importância económica, social e ambiental destes percursos, torna-se necessário estabelecer um sistema de sinalização uniforme, que permita a orientação e informação dos visitantes e utentes, identificando aspectos quanto à segurança e ao interesse paisagístico, ambiental, histórico e cultural. Por outro lado, na selecção dos trilhos turísticos que têm a designação de percursos pedestres recomendados da Região Autónoma dos Açores é necessária a intervenção de diversas entidades, não só para escolher aqueles que são os mais atractivos e representativos de cada ilha, em termos turísticos, como os que, em termos ambientais, suportam a utilização pretendida.
+
+Com o presente diploma definem-se ainda as entidades competentes para se pronunciarem, a título consultivo, sobre a qualificação dos trilhos turísticos como percursos pedestres recomendados da Região Autónoma dos Açores e para decidir sobre esta mesma qualificação. Houve a preocupação de envolver em todo o processo entidades representativas da administração regional, das autarquias locais, das associações ambientais e do sector empresarial.
+
+Finalmente, fixam-se regras para a manutenção, sinalização, fiscalização e promoção dos percursos pedestres recomendados da Região Autónoma dos Açores, por forma a definir-se com clareza as competências de cada entidade e a conseguir-se a melhor coordenação dos meios disponíveis.
+
+A Assembleia Legislativa Regional decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma tem por objecto o regime jurídico da classificação, identificação, sinalização, manutenção, utilização, fiscalização e promoção dos percursos pedestres da Região Autónoma dos Açores, adiante designados por percursos.
+
+2 - Consideram-se classificados os percursos que, obedecendo aos requisitos exigidos neste diploma e na legislação complementar, recebam aquela classificação por parte do departamento do Governo Regional competente em matéria de turismo.
+
+###### Artigo 2.º — Classificação
+
+1 - Os percursos pedestres da Região, independentemente do seu carácter público ou privado, são classificados como pequenas rotas e grandes rotas.
+
+2 - Consideram-se pequenas rotas os percursos com extensão inferior a 30 km e grandes rotas os restantes, que podem ser constituídas pelo conjunto de várias pequenas rotas.
+
+3 - Os percursos que começam e terminam no mesmo sítio designam-se, de acordo com o critério do número anterior, por pequenas rotas circulares e grandes rotas circulares.
+
+4 - As rotas são identificadas pela atribuição de um código sequencial, de acordo com as regras a adoptar por portaria do membro do Governo Regional competente em matéria de turismo.
+
+###### Artigo 3.º — Identificação
+
+Os percursos pedestres são identificados por forma que os utentes, à partida, tenham conhecimento da realidade que vão encontrar, nomeadamente as características da zona envolvente, os aspectos naturais, culturais e sociais, a extensão, a duração aproximada, os obstáculos, o grau de dificuldade, a perigosidade e a avaliação global.
+
+###### Artigo 4.º — Sinalização
+
+1 - A sinalização dos percursos processa-se através de painéis informativos, placas indicativas e placas informativas e de sinalética auxiliar.
+
+2 - A sinalização dos percursos compete aos respectivos promotores.
+
+###### Artigo 5.º — Painéis informativos
+
+Os painéis informativos são colocados no início de cada percurso, contendo o esquema do mesmo, a duração aproximada, os obstáculos, o grau de dificuldade, a perigosidade, informações dos locais por onde passa, designadamente os aspectos naturais, culturais e sociais, bem como a sua avaliação global.
+
+###### Artigo 6.º — Placas indicativas e placas informativas
+
+1 - As placas indicativas são colocadas no início de cada percurso e contêm o código do percurso, a extensão e a direcção a seguir.
+
+2 - As placas informativas são colocadas nos locais do percurso em que se justifique e contêm referências complementares das mencionadas no artigo anterior.
+
+###### Artigo 7.º — Sinalética auxiliar
+
+A sinalética auxiliar é colocada nos locais em que se justifique, de forma a facilitar a progressão e a orientação dos utentes, indicando a direcção da continuação do trajecto.
+
+###### Artigo 8.º — Modelos
+
+Os modelos dos painéis informativos, das placas indicativas, das placas informativas e da sinalética auxiliar são aprovados por portaria do membro do Governo Regional competente em matéria de turismo.
+
+###### Artigo 9.º — Utilização
+
+1 - A criação e utilização de percursos pedestres que atravessem áreas protegidas e classificadas ambientalmente, reservas florestais de recreio ou reservas florestais naturais, integrais e parciais, ficam sujeitas às normas constantes dos diplomas que as criam e à regulamentação a aprovar por portaria do membro do Governo que tutela a respectiva área de jurisdição.
+
+2 - A utilização dos restantes percursos será regulamentada por portaria do membro do Governo competente em matéria de turismo, mediante proposta da comissão a que se refere o artigo 12.º
+
+###### Artigo 10.º — Manutenção
+
+1 - A manutenção dos percursos pedestres fica a cargo dos respectivos promotores.
+
+2 - Os promotores que, nomeadamente por razões de segurança, decidam encerrar um percurso devem:
+
+a) Colocar sinalética alusiva ao encerramento, no percurso em causa;
+
+b) Comunicar o facto, por escrito, à Comissão de Acompanhamento dos Percursos Pedestres;
+
+c) Divulgar ao público o facto, em termos a definir pela Comissão de Acompanhamento dos Percursos Pedestres.
+
+###### Artigo 11.º — Promotores
+
+Para efeitos deste diploma, consideram-se promotores dos percursos pedestres as entidades, públicas ou privadas, que proponham à Comissão de Acompanhamento dos Percursos Pedestres, prevista no artigo seguinte, a classificação oficial de percursos pedestres novos ou que assumam, perante a mesma Comissão, a responsabilidade pela manutenção e sinalização de percursos pedestres.
+
+###### Artigo 12.º — Comissão de Acompanhamento dos Percursos Pedestres
+
+1 - Por despacho do membro do Governo Regional competente em matéria de turismo é constituída a Comissão de Acompanhamento dos Percursos Pedestres, com a seguinte composição:
+
+a) Um representante do departamento do Governo Regional competente em matéria de turismo, que preside;
+
+b) Um representante do departamento do Governo Regional competente em matéria de ordenamento do território;
+
+c) Um representante do departamento do Governo Regional competente em matéria de ambiente;
+
+d) Um representante do departamento do Governo Regional competente em matéria de florestas;
+
+e) Um representante do departamento do Governo Regional competente em matéria de agricultura;
+
+f) Um representante da Associação de Municípios da Região Autónoma dos Açores;
+
+g) Um representante da delegação regional da Associação Nacional das Freguesias;
+
+h) Um representante da Câmara de Comércio e Indústria dos Açores;
+
+i) Um representante das associações com actividade na Região na área do pedestrianismo, com dimensão de ilha e reconhecimento oficial, consideradas em conjunto e em sistema rotativo com mandato de um ano;
+
+j) Um representante das organizações não governamentais do ambiente com actividade na Região, com dimensão de ilha e reconhecimento oficial, consideradas em conjunto e em sistema rotativo com mandato de um ano.
+
+2 - Compete à Comissão de Acompanhamento dos Percursos Pedestres:
+
+a) Elaborar um relatório anual, tendo por base os elementos recolhidos pelas entidades representadas, sobre o estado de manutenção, fiscalização, utilização e sinalização dos percursos pedestres;
+
+b) Propor anualmente ao membro do Governo Regional competente em matéria de turismo as alterações a introduzir na listagem dos percursos pedestres classificados;
+
+c) Definir e notificar os promotores dos percursos pedestres das condições a cumprir, para efeitos da manutenção da respectiva classificação oficial;
+
+d) Propor a regulamentação da utilização dos percursos pedestres;
+
+e) Emitir parecer sobre as publicações promocionais dos percursos pedestres;
+
+f) Elaborar o regulamento interno da comissão;
+
+g) Emitir parecer sobre as questões que lhe sejam colocadas acerca dos percursos pedestres.
+
+3 - As deliberações da Comissão são tomadas por maioria simples, tendo o presidente voto de qualidade.
+
+4 - Podem participar e intervir nas reuniões da Comissão, a convite do seu presidente e sem direito a voto, entidades ou pessoas com especiais conhecimentos ou experiência na área do pedestrianismo.
+
+###### Artigo 13.º — Reconhecimento oficial
+
+Compete ao departamento do Governo Regional competente em matéria de turismo reconhecer oficialmente a idoneidade das publicações promocionais a que se faz referência na alínea e) do n.º 2 do artigo anterior, bem como dar publicidade à listagem dos percursos pedestres classificados.
+
+###### Artigo 14.º — Processo de classificação
+
+A instrução dos processos relativos à classificação oficial dos percursos pedestres é regulamentada por portaria do membro do Governo Regional competente em matéria de turismo.
+
+###### Artigo 15.º — Responsabilidade
+
+1 - Os utentes dos percursos pedestres classificados são pessoal e exclusivamente responsáveis pelos danos que ilicitamente causem a terceiros, durante a utilização dos percursos.
+
+2 - Os utentes assumem plenamente os riscos inerentes à utilização dos percursos pedestres, incluindo os classificados oficialmente, não podendo reclamar indemnização por danos eventualmente sofridos, salvo quando os mesmos são imputáveis a quem seja responsável pela sinalização ou manutenção dos percursos.
+
+###### Artigo 16.º — Fiscalização
+
+Sem prejuízo das competências atribuídas a outras entidades, mediante protocolos, a fiscalização dos percursos pedestres classificados compete à direcção regional competente em matéria do ambiente, à direcção regional competente em matéria dos recursos florestais e ao departamento do Governo Regional competente em matéria de turismo.
+
+###### Artigo 17.º — Regime sancionatório
+
+1 - Constitui contra-ordenação punível com coima, cujo montante mínimo é de (euro) 100 e o máximo de (euro) 4000 ou (euro) 45000, consoante o agente seja pessoa singular ou colectiva:
+
+a) A danificação, alteração, ocultação ou violação por qualquer forma dos meios de sinalização previstos no presente diploma;
+
+b) A violação das regras de utilização dos percursos pedestres estabelecidas ao abrigo do n.º 2 do artigo 9.º;
+
+c) A divulgação ao público de percursos pedestres, com alusão expressa a classificação oficial inexistente ou sugerindo, de algum modo, tal classificação.
+
+2 - A negligência é punível.
+
+###### Artigo 18.º — Instrução dos processos e aplicação das coimas
+
+Compete ao director regional competente em matéria do turismo aplicar as coimas, mediante proposta da Inspecção de Turismo, a quem cabe a instrução dos processos de contra-ordenação.
+
+###### Artigo 19.º — Destino das coimas
+
+As coimas constituem receita do Fundo Regional das Actividades Económicas, salvo quando protocolada a fiscalização com outras entidades nos termos do artigo 16.º, situação em que se destinam 50% das coimas para o Fundo e 50% para a entidade fiscalizadora.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 12 de Fevereiro de 2004.
+
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 16 de Março de 2004.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

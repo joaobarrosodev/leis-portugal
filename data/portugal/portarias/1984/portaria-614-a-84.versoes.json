@@ -1,0 +1,278 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:579340:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-889496549",
+ "dre_path": "/dr/detalhe/portaria/614-a-1984-579340",
+ "source_lastmod": "2024-09-30",
+ "versions": [
+  {
+   "date": "1984-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889498700"
+   ]
+  },
+  {
+   "date": "1984-09-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:308130:por",
+     "title": "Declaração",
+     "published": "1984-09-29",
+     "dre_path": "/dr/detalhe/declaracao/1984-308130"
+    }
+   ],
+   "changes": [
+    "Retifica 13.º",
+    "Retifica 14.º"
+   ],
+   "fragments": [
+    "889498700",
+    "889498702",
+    "889498703",
+    "889498704",
+    "889498705",
+    "889498706",
+    "889498707",
+    "889498708",
+    "889498709",
+    "889498710",
+    "889498731",
+    "889498712",
+    "889498713",
+    "889498732",
+    "889498733",
+    "889498716",
+    "889498717",
+    "889498718",
+    "889498719",
+    "889498720",
+    "889498721",
+    "889498722",
+    "889498723",
+    "889498724",
+    "889498701"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:399661:por",
+     "title": "Portaria n.º 761/84",
+     "published": "1984-09-26",
+     "dre_path": "/dr/detalhe/portaria/761-1984-399661",
+     "date": "1984-10-01"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "889498700": {
+   "fragment_id": "889496550",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 614-A/84\n\nde 20 de Agosto\n\nConsiderando a necessidade de harmonizar a regulamentação da garantia salarial com as alterações introduzidas na legislação aplicável ao sector portuário, que se espera irão permitir o ajustamento da mão-de-obra às necessidades reais dos portos nacionais;\n\nConsiderando que a remuneração é, por natureza, a contrapartida do trabalho prestado, sem prejuízo da conveniência de assegurar ao trabalhador bases mínimas de remuneração;\n\nConsiderando a necessidade de aplicar no sector portuário esquemas de remuneração que, repercutidos no preço das operações portuárias, não prejudiquem a competitividade dos portos nacionais;\n\nConsiderando que os esquemas de remuneração não devem ser tais que coloquem os trabalhadores de certos sectores de actividade em posição injustamente favorecida face aos trabalhadores de outros sectores que se encontrem em situação semelhante:\n\nAo abrigo do disposto no artigo 5.º do Decreto-Lei n.º 282-A/84, de 20 de Agosto:\n\nManda o Governo da República Portuguesa, pelos Ministros do Trabalho e Segurança Social e do Mar, o seguinte:"
+  },
+  "889498702": {
+   "fragment_id": "889496552",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nOs trabalhadores portuários que formam o contingente comum de cada porto, a que se refere o n.º 2 do artigo 3.º do Decreto-Lei n.º 282-A/84, de 20 de Agosto, beneficiam de uma garantia salarial, definida nos termos dos números seguintes."
+  },
+  "889498703": {
+   "fragment_id": "889496553",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA garantia salarial a que se refere o número anterior e o artigo 5.º do Decreto-Lei n.º 282-A/84, de 20 de Agosto, traduz-se:\n\na) Para os portos de Lisboa, Setúbal, Douro e Leixões, Figueira da Foz, Aveiro e Viana do Castelo:\n\n1) No direito dos trabalhadores a perceberem uma importância mensal correspondente a 75% da remuneração base mensal estabelecida no contrato colectivo de trabalho para a respectiva categoria, cujo valor será composto pelas retribuições efectivamente auferidas pelo trabalhador, por trabalho prestado, excluídos todos e quaisquer subsídios decorrentes do contrato colectivo de trabalho, e, caso aquelas retribuições não perfaçam a referida percentagem, também pelas verbas afectas para o efeito pelo Fundo de Garantia Salarial.\n\nPara efeitos de cálculo da retribuição diária, para apuramento das retribuições auferidas por trabalho efectivamente prestado, será utilizada a fórmula:\n\n8((rm x 12)/(40 x 52))\n\nem que rm é a remuneração base mensal;\n\n2) Num subsídio de Natal correspondente à média mensal das remunerações base efectivamente auferidas pelo trabalhador nesse ano, excluídos todos e quaisquer subsídios decorrentes do contrato colectivo de trabalho, mas nunca inferior à percentagem referida no n.º 1);\n\n3) Num subsídio de férias de valor correspondente à média mensal das remunerações base efectivamente auferidas pelo trabalhador no ano imediatamente anterior, excluídos todos e quaisquer subsídios decorrentes do contrato colectivo de trabalho, mas nunca inferior à percentagem referida no n.º 1);\n\nb) Para os portos de Sines, Faro e Portimão:\n\n1) No direito dos trabalhadores a perceberem um subsídio mensal de presença correspondente a 75% da remuneração base mensal estabelecida no contrato colectivo de trabalho para a respectiva categoria, cujo valor será composto e calculado nos termos definidos na alínea a), n.º 1), do n.º 2.º;\n\n2) Num subsídio de Natal correspondente à média mensal das remunerações base efectivamente auferidas pelo trabalhador nesse ano, excluídos todos e quaisquer subsídios decorrentes do contrato colectivo de trabalho, mas nunca inferior ao salário mínimo nacional;\n\n3) Num subsídio de férias de valor correspondente à média mensal das remunerações base efectivamente auferidas pelo trabalhador no ano imediatamente anterior, excluídos todos e quaisquer subsídios decorrentes do contrato colectivo de trabalho, mas nunca inferior ao salário mínimo nacional."
+  },
+  "889498704": {
+   "fragment_id": "889496554",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nO disposto na alínea a), n.º 1), do n.º 2.º não prejudica o regime retributivo fixado em instrumento de regulamentação colectiva de trabalho negociado entre os operadores portuários e as associações sindicais respectivas."
+  },
+  "889498705": {
+   "fragment_id": "889496555",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nO pagamento da garantia salarial prevista na presente portaria é assegurado pelo Fundo de Garantia Salarial, que é administrado directamente pelo Instituto do Trabalho Portuário (ITP), e será feito pelas competentes entidades gestoras do trabalho portuário previstas nos n.os 2 a 6 do artigo 2.º do Decreto-Lei n.º 282-A/84, de 20 de Agosto."
+  },
+  "889498706": {
+   "fragment_id": "889496556",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nO Fundo de Garantia Salarial será constituído pela receita resultante da incidência de taxas sobre o montante pago pelas entidades operadoras, a título de retribuição directa dos trabalhadores requisitados às entidades referidas no número anterior, excluídos todos e quaisquer subsídios decorrentes das convenções colectivas em vigor."
+  },
+  "889498707": {
+   "fragment_id": "889496557",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nSempre que o ITP preveja que as receitas resultantes da aplicação das taxas referidas no número anterior sejam globalmente insuficientes para assegurar o pagamento da garantia salarial, o Fundo de Desemprego, ou outros departamentos do Estado, nos termos da alínea c) do n.º 1 do artigo 5.º do Decreto-Lei n.º 282-C/84, de 20 de Agosto, poderão pôr à disposição do Fundo de Garantia Salarial, sem prejuízo de posterior reembolso, as quantias necessárias para o efectivo cumprimento do disposto na alínea f) do n.º 1 do artigo 4.º do mesmo decreto-lei."
+  },
+  "889498708": {
+   "fragment_id": "889496558",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nAs taxas a que se refere o número anterior serão fixadas por despacho conjunto dos Ministros do Trabalho e Segurança Social e da tutela, sob proposta do Instituto do Trabalho Portuário, e alteradas sempre que necessário."
+  },
+  "889498709": {
+   "fragment_id": "889496559",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nCompete às entidades gestoras do trabalho portuário previstas nos n.os 2 a 6 do artigo 2.º do Decreto-Lei n.º 282-A/84, de 20 de Agosto, proceder, na respectiva área, à cobrança das taxas estabelecidas e entregar o seu produto ao Instituto do Trabalho Portuário até ao dia 5 do mês seguinte àquele a que as remunerações digam respeito."
+  },
+  "889498710": {
+   "fragment_id": "889496560",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nPelas prestações pagas pelo Fundo de Garantia Salarial são devidas contribuições para o regime geral de previdência, as quais ficarão a cargo do Fundo e do trabalhador."
+  },
+  "889498731": {
+   "fragment_id": "889496561",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": "1984-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 761/84 - Diário da República n.º 224/1984, Série I de 1984-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/761-1984-399661), em vigor a partir de 1984-10-01"
+   ],
+   "markdown": "###### 10.º\n\nNos portos previstos na alínea a) do n.º 2.º, a importância mensal correspondente à garantia salarial será posta à disposição das entidades gestoras do trabalho portuário até ao dia 10 do mês seguinte àquele a que respeite.\n\n> Alterado pelo/a [Portaria n.º 761/84 - Diário da República n.º 224/1984, Série I de 1984-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/761-1984-399661), em vigor a partir de 1984-10-01"
+  },
+  "889498712": {
+   "fragment_id": "889496562",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º\n\nNos portos previstos na alínea b) do n.º 2.º, terão direito ao subsídio de presença os trabalhadores que, tendo comparecido ao primeiro e segundo contos diários, não tenham sido recrutados, desde que no período de cada mês civil hajam registado um mínimo de 20 dias de presença efectiva. Este subsídio será pago até ao dia 15 do mês seguinte àquele a que respeita."
+  },
+  "889498713": {
+   "fragment_id": "889496563",
+   "type": 11,
+   "heading": "12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º\n\nO subsídio de presença será posto à disposição das entidades gestoras do trabalho portuário até ao dia 10 do mês seguinte àquele a que respeita."
+  },
+  "889498732": {
+   "fragment_id": "889496564",
+   "type": 11,
+   "heading": "13.º",
+   "in_force_from": "1984-09-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 227/1984, 1º Suplemento, Série I de 1984-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-308130), em vigor a partir de 1984-09-29"
+   ],
+   "markdown": "###### 13.º\n\nPara efeitos do disposto no n.º 11.º, são equiparados a dias de presença efectiva os períodos de férias, os dias feriados e as faltas justificadas que, nos termos da legislação em vigor, não dêem lugar a perda do direito à remuneração, bem como as faltas motivadas por doença ou acidente que não dêem direito aos subsídios de previdência ou da companhia de seguros.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 227/1984, 1º Suplemento, Série I de 1984-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-308130), em vigor a partir de 1984-09-29"
+  },
+  "889498733": {
+   "fragment_id": "889496565",
+   "type": 11,
+   "heading": "14.º",
+   "in_force_from": "1984-09-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 227/1984, 1º Suplemento, Série I de 1984-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-308130), em vigor a partir de 1984-09-29"
+   ],
+   "markdown": "###### 14.º\n\nO subsídio a que se refere o n.º 11.º será calculado proporcionalmente ao número de dias de presença efectivamente registados, quando o trabalhador não tenha comparecido o mínimo de 20 dias por qualquer dos motivos que legalmente podem servir de fundamento a falta justificada sem direito a remuneração.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 227/1984, 1º Suplemento, Série I de 1984-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-308130), em vigor a partir de 1984-09-29"
+  },
+  "889498716": {
+   "fragment_id": "889496566",
+   "type": 11,
+   "heading": "15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 15.º\n\nOs trabalhadores que, atingidos pela escala, se recusam a trabalhar perdem o direito a marcar presença efectiva no dia da recusa e nos 3 dias imediatos em que, por força da escala, tenham direito ao trabalho."
+  },
+  "889498717": {
+   "fragment_id": "889496567",
+   "type": 11,
+   "heading": "16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 16.º\n\nA prova de presença aos contos é feita mediante documento a enviar ao Instituto do Trabalho Portuário pela entidade gestora do trabalho portuário até ao dia 5 do mês seguinte àquele a que respeita."
+  },
+  "889498718": {
+   "fragment_id": "889496568",
+   "type": 11,
+   "heading": "17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 17.º\n\nQualquer trabalhador que não compareça ao primeiro conto de cada dia não poderá ser considerado nos contos seguintes sem que o sejam todos os outros que tenham comparecido àquele e não tenham sido recrutados por falta de trabalho."
+  },
+  "889498719": {
+   "fragment_id": "889496569",
+   "type": 11,
+   "heading": "18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 18.º\n\nNenhum trabalhador poderá ser novamente recrutado enquanto as respectivas escalas não tiverem rodado totalmente."
+  },
+  "889498720": {
+   "fragment_id": "889496570",
+   "type": 11,
+   "heading": "19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 19.º\n\nA cobrança coerciva das taxas previstas no presente diploma será feita através dos tribunais das execuções fiscais."
+  },
+  "889498721": {
+   "fragment_id": "889496571",
+   "type": 11,
+   "heading": "20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 20.º\n\nA denúncia das infracções, acompanhada dos necessários elementos de prova, poderá ser feita, por escrito, por qualquer interessado ao ITP ou à Inspecção do Trabalho.\n\nDisposição transitória"
+  },
+  "889498722": {
+   "fragment_id": "889496572",
+   "type": 11,
+   "heading": "21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 21.º\n\n21.º Para o ano de 1984, as taxas a que se refere o presente diploma serão:\n\na) De 2,5% para os portos referidos na alínea a) do n.º 2.º da presente portaria;\n\nb) De 6% para os portos referidos na alínea b) do n.º 2.º da presente portaria.\n\nDisposições finais"
+  },
+  "889498723": {
+   "fragment_id": "889496573",
+   "type": 11,
+   "heading": "22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 22.º\n\nNas regiões autónomas poderá aplicar-se o presente diploma, com as alterações consideradas necessárias."
+  },
+  "889498724": {
+   "fragment_id": "889496574",
+   "type": 11,
+   "heading": "23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 23.º\n\nÉ revogada a Portaria n.º 26-U1/80, de 9 de Janeiro."
+  },
+  "889498701": {
+   "fragment_id": "889496551",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios do Trabalho e Segurança Social e do Mar.\n\nAssinada em 20 de Agosto de 1984.\n\nO Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo. - O Ministro do Mar, Carlos Montez Melancia."
+  }
+ }
+}

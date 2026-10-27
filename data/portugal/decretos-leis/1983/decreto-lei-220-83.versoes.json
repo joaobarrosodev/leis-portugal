@@ -1,0 +1,339 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:451825:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1983-890366127",
+ "dre_path": "/dr/detalhe/decreto-lei/220-1983-451825",
+ "source_lastmod": "2024-10-09",
+ "versions": [
+  {
+   "date": "1983-05-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890366231",
+    "890366232",
+    "890366233",
+    "890366234",
+    "890366235",
+    "890366236",
+    "890366237",
+    "890366238",
+    "890366239",
+    "890366240",
+    "890366241",
+    "890366242",
+    "890366243",
+    "890366244",
+    "890366245",
+    "890366246",
+    "890366247",
+    "890366248"
+   ]
+  },
+  {
+   "date": "1983-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:316326:por",
+     "title": "Declaração",
+     "published": "1983-06-30",
+     "dre_path": "/dr/detalhe/declaracao/1983-316326"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º",
+    "Retifica Artigo 5.º"
+   ],
+   "fragments": [
+    "890366231",
+    "890219063",
+    "890366233",
+    "890366234",
+    "890366235",
+    "890219064",
+    "890366237",
+    "890366238",
+    "890366239",
+    "890366240",
+    "890366241",
+    "890366242",
+    "890366243",
+    "890366244",
+    "890366245",
+    "890366246",
+    "890366247",
+    "890366248",
+    "890366249"
+   ]
+  },
+  {
+   "date": "1984-07-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:385387:por",
+     "title": "Decreto-Lei n.º 222/84",
+     "published": "1984-07-05",
+     "dre_path": "/dr/detalhe/decreto-lei/222-1984-385387"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "890366231",
+    "890219063",
+    "890366233",
+    "890366234",
+    "890366235",
+    "890219065",
+    "890366237",
+    "890366238",
+    "890366239",
+    "890366240",
+    "890366241",
+    "890366242",
+    "890366243",
+    "890366244",
+    "890366245",
+    "890366246",
+    "890366247",
+    "890366248",
+    "890366249"
+   ]
+  },
+  {
+   "date": "1997-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:383437:por",
+     "title": "Decreto-Lei n.º 109/97",
+     "published": "1997-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/109-1997-383437"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "890366231",
+    "890219063",
+    "890366233",
+    "890366234",
+    "890366235",
+    "890219065",
+    "890366237",
+    "890366238",
+    "890366239",
+    "890366240",
+    "890366241",
+    "890366242",
+    "890366243",
+    "890219066",
+    "890366245",
+    "890366246",
+    "890366247",
+    "890366248",
+    "890366249"
+   ]
+  }
+ ],
+ "fragments": {
+  "890366231": {
+   "fragment_id": "890366128",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 220/83\n\nde 26 de Maio\n\nA decisão de extinguir o Fundo de Fomento da Habitação, fundamentada no Decreto-Lei n.º 214/82, de 29 de Maio, pressupôs a implementação de todo um conjunto de medidas que permitissem uma mais adequada definição da intervenção dos vários entes, públicos e privados, no domínio da habitação.\n\nNesse sentido, foi criado o Fundo de Apoio ao Investimento para a Habitação, destinado a assumir as funções financeiras dos programas de habitação definidos pelo Governo.\n\nPor outro lado, têm-se apurado mecanismos jurídicos e técnicos susceptíveis de tornarem possível uma real descentralização de atribuições e competências.\n\nNeste quadro, o presente diploma vem criar um novo regime de crédito que possibilita às autarquias locais o lançamento de novos programas de construção de habitações com custos controlados.\n\nIgualmente o novo regime de crédito possibilitará aos municípios a promoção de obras de reparação e conservação de imóveis em estado de degradação de um modo mais célere e eficaz que o previsto no programa especial para reparação de fogos ou imóveis em degradação (PRID), a que se refere o Decreto-Lei n.º 704/76, de 30 de Setembro.\n\nReconhece-se ainda a vantagem do alargamento do acesso ao novo regime de crédito a outros entidades, por forma a obter-se um integral aproveitamento das suas potencialidades na solução das actuais carências habitacionais.\n\nDeste modo, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "890366232": {
+   "fragment_id": "890366129",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito)\n\n1 - O presente decreto-lei regula os empréstimos para casas de habitação, com as seguintes finalidades:\n\na) Construção e ampliação, desde que sob o regime de custos controlados, e ainda as respectivas infra-estruturas de ligação às redes gerais de abastecimento de água, gás e electricidade e às de esgotos;\n\nb) Obras de reparação e conservação motivadas por degradação, incluindo as relativas às\n\ntação, Obras Públicas e Transportes.\n\n2 - Consideram-se casas para habitação com custos controlados as que como tal forem classificadas pelo município com jurisdição na área de localização do imóvel, de acordo com portaria do Ministro da Habitação, Obras Públicas e Transportes."
+  },
+  "890366233": {
+   "fragment_id": "890366130",
+   "type": 11,
+   "heading": "Artigo 2.º — (Beneficiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Beneficiários)\n\n1 - Os empréstimos a que se refere o artigo anterior destinam-se às pessoas colectivas a seguir designadas:\n\na) Municípios;\n\nb) Associações de municípios;\n\nc) Empresas municipais ou intermunicipais;\n\nd) Instituições particulares de solidariedade social;\n\ne) Instituições de utilidade pública e de utilidade pública administrativa;\n\nf) Instituições públicas ou privadas sem fins lucrativos.\n\n2 - Porém, os empréstimos destinados às finalidades previstas na alínea b) do n.º 1 do artigo anterior só podem ser concedidos às pessoas indicadas nas alíneas a), b) e c) do presente artigo."
+  },
+  "890366234": {
+   "fragment_id": "890366131",
+   "type": 11,
+   "heading": "Artigo 3.º — (Instituições financiadoras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Instituições financiadoras)\n\n1 - Os empréstimos a que se refere o presente diploma podem ser concedidos pelo Fundo de Apoio ao Investimento para a Habitação (FAIH), Caixa Geral de Depósitos, Crédito Predial Português e Caixa Económica de Lisboa - Montepio Geral.\n\n2 - O Ministro de Estado e das Finanças e do Plano pode autorizar outras instituições a efectuar este tipo de empréstimos.\n\n3 - O FAIH deve articular com as restantes instituições previstas nos números anteriores a concessão dos empréstimos."
+  },
+  "890366235": {
+   "fragment_id": "890366132",
+   "type": 11,
+   "heading": "Artigo 4.º — (Condições de acesso aos empréstimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Condições de acesso aos empréstimos)\n\n1 - A concessão dos empréstimos fica subordinada às seguintes condições:\n\na) Valores máximos de custos fixados pela portaria referida no n.º 2 do artigo 1.º;\n\nb) Cumprimento de anteriores contratos que revistam natureza idêntica à dos previstos no presente diploma;\n\nc) Encontrarem-se regularizados os compromissos dos beneficiários relativamente ao Estado e a empresas públicas que assegurem serviços públicos essenciais.\n\n2 - Os municípios apenas podem beneficiar do acesso aos empréstimos desde que estes se conformem com a legislação geral que neste domínio seja aplicável, designadamente no que respeita aos limites de endividamento previstos na lei para os diversos beneficiários."
+  },
+  "890366236": {
+   "fragment_id": "890366133",
+   "type": 11,
+   "heading": "Artigo 5.º — (Critérios de apreciação dos pedidos de empréstimo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Critérios de apreciação dos pedidos de empréstimo)\n\n1 - Os pedidos de empréstimo são apreciados pelas instituições financeiras mediante avaliação, salvo se se tratar de fogos construídos ao abrigo de programas habitacionais da administração central ou local, casos em que aquelas instituições a podem dispensar, aceitando o valor atribuído pelo organismo promotor.\n\n2 - Os candidatos aos empréstimos devem facultar às instituições financiadoras os elementos que estas reputem necessários à análise dos pedidos.\n\n3 - A apreciação dos pedidos de empréstimo deve obedecer ainda às indispensáveis regras de gestão, designadamente as de segurança, estabelecidas pelas instituições financiadoras."
+  },
+  "890366237": {
+   "fragment_id": "890366134",
+   "type": 11,
+   "heading": "Artigo 6.º — (Montante dos empréstimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Montante dos empréstimos)\n\nO montante dos empréstimos é fixado pelas instituições financiadoras, não podendo ser superior a:\n\na) 100% do custo das obras a realizar e dos encargos indirectos, podendo aquele incluir as infra-estruturas que não se encontrem implantadas;\n\nb) 85% do valor de avaliação, nos casos de aquisição."
+  },
+  "890366238": {
+   "fragment_id": "890366135",
+   "type": 11,
+   "heading": "Artigo 7.º — (Prazo dos empréstimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Prazo dos empréstimos)\n\nO prazo dos empréstimos é fixado pelas instituições financiadoras tendo em conta a natureza e finalidade das operações e observados os limites legais existentes."
+  },
+  "890366239": {
+   "fragment_id": "890366136",
+   "type": 11,
+   "heading": "Artigo 8.º — (Taxa de juro dos empréstimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Taxa de juro dos empréstimos)\n\nA taxa de juro contratual é a máxima legal aplicável no momento da concessão dos empréstimos ou, em caso de alteração, na data do vencimento de cada prestação."
+  },
+  "890366240": {
+   "fragment_id": "890366137",
+   "type": 11,
+   "heading": "Artigo 9.º — (Bonificação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Bonificação)\n\n1 - Os empréstimos beneficiam de uma bonificação, deduzida a taxa de juro contratual, a suportar pelo Estado, nos termos a definir por portaria conjunta do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes.\n\n2 - O Estado deve reembolsar as instituições financiadoras da bonificação concedida após o vencimento das respectivas prestações e em condições a acordar.\n\n3 - A bonificação cessa logo que haja conhecimento da aplicação do empréstimo a fim diverso daquele para o qual tenha sido contratado, havendo lugar à reposição dos valores que, àquele título, foram entretanto concedidos, sem prejuízo do disposto no Decreto-Lei n.º 94/83, de 17 de Fevereiro.\n\n4 - A Direcção-Geral do Tesouro fica autorizada a fazer inserir no Orçamento do Estado as verbas necessárias para o fim indicado nos n.os 1 e 2."
+  },
+  "890366241": {
+   "fragment_id": "890366138",
+   "type": 11,
+   "heading": "Artigo 10.º — (Garantia dos empréstimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Garantia dos empréstimos)\n\n1 - A garantia dos empréstimos concedidos a municípios e associações de municípios é a consignação das suas receitas, de acordo com a legislação geral aplicável.\n\n2 - Os créditos emergentes dos empréstimos aos restantes beneficiários referidos no n.º 1 do artigo 2.º gozam de privilégio imobiliário, podendo as instituições financiadoras solicitar ainda outras garantias, nomeadamente a hipoteca."
+  },
+  "890366242": {
+   "fragment_id": "890366139",
+   "type": 11,
+   "heading": "Artigo 11.º — (Destino das casas de habitação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Destino das casas de habitação)\n\nAs casas de habitação construídas ou adquiridas através dos empréstimos previstos neste diploma destinam-se a arrendamento ou venda."
+  },
+  "890366243": {
+   "fragment_id": "890366140",
+   "type": 11,
+   "heading": "Artigo 12.º — (Atribuição das casas de habitação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Atribuição das casas de habitação)\n\nA atribuição das casas de habitação deve obedecer às normas e critérios regulamentares relativos à habitação social."
+  },
+  "890366244": {
+   "fragment_id": "890366141",
+   "type": 11,
+   "heading": "Artigo 13.º — (Segundas transmissões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Segundas transmissões)\n\nAs casas de habitação que hajam sido vendidas ao abrigo do artigo 11.º só podem ser alienadas decorridos 5 anos após a compra, sem prejuízo da execução das dívidas relacionadas com a aquisição das quais sejam garantia."
+  },
+  "890366245": {
+   "fragment_id": "890366142",
+   "type": 11,
+   "heading": "Artigo 14.º — (Registos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Registos)\n\n1 - A propriedade, o direito de superfície, as transmissões das casas de habitação construídas ou adquiridas ao abrigo deste diploma e, bem assim, o ónus da inalienabilidade referido no artigo anterior são objecto de inscrição no registo predial.\n\n2 - O ónus de inalienabilidade cessa quando ocorra a morte ou invalidez permanente e absoluta do adquirente ou do respectivo cônjuge.\n\n> Nota: [Artigo 9.º, Decreto-Lei n.º 109/97 - Diário da República n.º 106/1997, Série I-A de 1997-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1997-383437) É revogado o presente artigo na parte em que dispõe quanto ao ónus de inalienabilidade."
+  },
+  "890366246": {
+   "fragment_id": "890366143",
+   "type": 11,
+   "heading": "Artigo 15.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Entrada em vigor)\n\nO presente diploma pode aplicar-se aos pedidos de empréstimo que tenham sido entregues no extinto Fundo de Fomento da Habitação e cujos contratos de financiamento não tenham sido ainda celebrados."
+  },
+  "890366247": {
+   "fragment_id": "890366144",
+   "type": 11,
+   "heading": "Artigo 16.º — (Disposições transitórias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Disposições transitórias)\n\n1 - Enquanto não entrarem em vigor as novas disposições regulamentares relativas aos valores máximos de custos, de venda e de renda, previstos no presente diploma, aplicam-se as normas do Decreto-Lei n.º 608/73, de 14 de Novembro, e dos n.os 1 e 4 do artigo 10.º do Decreto-Lei n.º 344/79, de 28 de Agosto, na redacção do Decreto-Lei n.º 14/81, de 27 de Janeiro.\n\n2 - As atribuições cometidas ao Fundo de Fomento da Habitação no Decreto-Lei n.º 608/73, de 14 de Novembro, quanto à fixação do valor das rendas, passam a caber ao município em cuja área se localizem os fogos financiados ao abrigo deste diploma.\n\n3 - A atribuição, pelas pessoas referidas nas alíneas a), b) e c) do n.º 1 do artigo 2.º, das casas de habitação construídas ou adquiridas através dos empréstimos previstos nos termos deste diploma regula-se pelo Decreto-Lei n.º 608/73, de 14 de Novembro.\n\n4 - As casas construídas ao abrigo do presente diploma e destinadas à venda para habitação própria permanente são atribuídas a agregados familiares com rendimentos mensais brutos que não ultrapassem os limites máximos de rendimento determinados nos termos do artigo 17.º do Decreto Regulamentar n.º 50/77, de 11 de Agosto."
+  },
+  "890366248": {
+   "fragment_id": "890366145",
+   "type": 11,
+   "heading": "Artigo 17.º — (Norma revogatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Norma revogatória)\n\nSão revogados os Decretos-Leis n.os 658/74, 704/76 e 817/76, de 23 de Novembro, 30 de Setembro e 11 de Novembro, respectivamente."
+  },
+  "890219063": {
+   "fragment_id": "890366129",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito)",
+   "in_force_from": "1983-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 148/1983, 2º Suplemento, Série I de 1983-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-316326), em vigor a partir de 1983-06-30"
+   ],
+   "markdown": "###### Artigo 1.º — (Âmbito)\n\n1 - O presente decreto-lei regula os empréstimos para casas de habitação, com as seguintes finalidades:\n\na) Construção e ampliação, desde que sob o regime de custos controlados, e ainda as respectivas infra-estruturas de ligação às redes gerais de abastecimento de água, gás e electricidade e às de esgotos;\n\nb) Obras de reparação e conservação motivadas por degradação, incluindo as relativas às infra-estruturas referidas na alínea anterior.\n\n2 - Consideram-se casas para habitação com custos controlados as que como tal forem classificadas pelo município com jurisdição na área de localização do imóvel, de acordo com portaria do Ministro da Habitação, Obras Públicas e Transportes.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 148/1983, 2º Suplemento, Série I de 1983-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-316326), em vigor a partir de 1983-06-30"
+  },
+  "890219064": {
+   "fragment_id": "890366133",
+   "type": 11,
+   "heading": "Artigo 5.º — (Critérios de apreciação dos pedidos de empréstimo)",
+   "in_force_from": "1983-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 148/1983, 2º Suplemento, Série I de 1983-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-316326), em vigor a partir de 1983-06-30"
+   ],
+   "markdown": "###### Artigo 5.º — (Critérios de apreciação dos pedidos de empréstimo)\n\n1 - Os pedidos de empréstimo são apreciados pelas instituições financiadoras mediante avaliação, salvo se se tratar de fogos construídos ao abrigo de programas habitacionais da administração central ou local, casos em que aquelas instituições a podem dispensar, aceitando o valor atribuído pelo organismo promotor.\n\n2 - Os candidatos aos empréstimos devem facultar às instituições financiadoras os elementos que estas reputem necessários à análise dos pedidos.\n\n3 - A apreciação dos pedidos de empréstimo deve obedecer ainda às indispensáveis regras de gestão, designadamente as de segurança, estabelecidas pelas instituições financiadoras.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 148/1983, 2º Suplemento, Série I de 1983-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-316326), em vigor a partir de 1983-06-30"
+  },
+  "890366249": {
+   "fragment_id": "890366146",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Carlos Pinto Soromenho Viana Baptista.\n\nPromulgado em 11 de Maio de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 13 de Maio de 1983.\n\nPelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida."
+  },
+  "890219065": {
+   "fragment_id": "890366133",
+   "type": 11,
+   "heading": "Artigo 5.º — (Critérios de apreciação dos pedidos de empréstimo)",
+   "in_force_from": "1984-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 222/84 - Diário da República n.º 154/1984, Série I de 1984-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1984-385387), em vigor a partir de 1984-07-10",
+    "Retificado pelo/a [Declaração - Diário da República n.º 148/1983, 2º Suplemento, Série I de 1983-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-316326), em vigor a partir de 1983-06-30"
+   ],
+   "markdown": "###### Artigo 5.º — (Critérios de apreciação dos pedidos de empréstimo)\n\n1 - Os pedidos de empréstimo são apreciados pelas instituições financeiras, mediante avaliação, salvo se se tratar de fogos construídos ao abrigo de programas habitacionais da administração central, regional ou local, casos em que aquelas instituições a podem dispensar, aceitando o valor atribuído pelo organismo promotor.\n\n2 - Os candidatos aos empréstimos devem facultar às instituições financiadoras os elementos que estas reputem necessários à análise dos pedidos.\n\n3 - A apreciação dos pedidos de empréstimo deve obedecer ainda às indispensáveis regras de gestão, designadamente as de segurança, estabelecidas pelas instituições financiadoras.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 222/84 - Diário da República n.º 154/1984, Série I de 1984-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1984-385387), em vigor a partir de 1984-07-10\n\n> Retificado pelo/a [Declaração - Diário da República n.º 148/1983, 2º Suplemento, Série I de 1983-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-316326), em vigor a partir de 1983-06-30"
+  },
+  "890219066": {
+   "fragment_id": "890366141",
+   "type": 11,
+   "heading": "Artigo 13.º — (Segundas transmissões)",
+   "in_force_from": "1997-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 109/97 - Diário da República n.º 106/1997, Série I-A de 1997-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1997-383437), em vigor a partir de 1997-05-13"
+   ],
+   "markdown": "###### Artigo 13.º — (Segundas transmissões)\n\nAs casas de habitação que hajam sido vendidas ao abrigo do artigo 11.º só podem ser alienadas decorridos 5 anos após a compra, sem prejuízo da execução das dívidas relacionadas com a aquisição das quais sejam garantia.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 109/97 - Diário da República n.º 106/1997, Série I-A de 1997-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1997-383437), em vigor a partir de 1997-05-13"
+  }
+ }
+}

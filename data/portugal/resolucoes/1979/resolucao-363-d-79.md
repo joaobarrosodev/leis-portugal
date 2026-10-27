@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:157073:por
+title: Resolução n.º 363-D/79
+short_title: null
+summary: Autoriza a Direcção-Geral de Ordenamento e Gestão Florestal, através dos seus órgãos locais nas respectivas áreas
+  de actuação, a condicionar, relativamente às florestas sob administração ou gestão directa do Estado e até à data limite
+  de 31 de Maio de 1980, as operações de exploração do arvoredo não atingido pelos incêndios
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 363-D/79
+official_date: null
+publication_date: '1979-12-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 299/1979, 6º Suplemento, Série I de 1979-12-29
+  number: '299'
+  series: I
+  supplement: null
+  pages: 3446-(114) a 3446-(115)
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29906/01140115.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '157073'
+  dre_path: /dr/detalhe/resolucao/363-d-1979-157073
+  internal: pt:dre:157073:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/363-d-1979-157073
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/363-d-1979-157073
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:23:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3942cd3008a8c434c0fd0e3e49fdb44c0e80dc5b827aa45f3e6449928bb44bdf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:23:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Abate de Árvores
+- Comissão
+- Definição de Competências
+- Direcção Geral do Ordenamento e Gestão Florestal
+- Exploração Florestal
+- Gestão dos Recursos
+- Linha de Crédito
+relationships:
+- type: cites
+  target: pt:dre:687399:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:23:24Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 363-D/79
+
+A vaga de incêndios que, uma vez mais, percorreu no último Verão extensas áreas do património florestal português acarretou prejuízos materiais e sociais, directos e indirectos, de vária ordem, em especial nas zonas deprimidas de minifúndio florestal a norte do Tejo.
+
+Impõe-se, em consequência, o desencadeamento de um conjunto de acções, rápidas e realistas, tanto em ordem a minorar de modo justo tais prejuízos, como a desencorajar proveitos ilegítimos e especulativos e, até, a repetição em anos futuros de idênticas devastações, muitas delas de origem criminosa.
+
+Contudo, como condição fundamental potenciadora e enquadradora de todas as medidas, importa proceder à adequação de legislação florestal - cujos principais diplomas datam de há meio século - quer às actuais estruturas políticas, sociais e económicas, quer aos próprios sistemas da CEE.
+
+Mas há que, mesmo assim, e precedendo as medidas já em estudo, nomeadamente de reflorestação das áreas percorridas pelo fogo, da instalação da rede divisional, prevenção, detecções e combate aos incêndios e do fomento do associativismo florestal, acorrer de pronto ao abate e extracção do arvoredo atingido pelos fogos, de modo a evitar-se a sua rápida deterioração e os riscos de infestação dos povoamentos vizinhos pelas pragas e doenças que nesse material degradado virão a manifestar-se.
+
+De outra parte, a absorção dessa matéria-prima pelas unidades fabris transformadoras, se efectuada a curto prazo, evitará óbvias depreciações qualitativas, com reflexos negativos nos preços praticados na respectiva comercialização.
+
+Dá-se no entanto a circunstância da situação conjuntural de mercado das madeiras se manifestar favorável, pelo que se assiste no momento a um escoamento normal da toragem e rolaria de pinho proveniente das zonas flageladas. Tal escoamento só é dificultado ou impedido por carência de acessos a determinadas áreas, ou de equipamento material e humano necessário às operações de abate, extracção e transporte.
+
+A fixação de preços mínimos de aquisição ao produtor de material lenhoso atingido pelo fogo, embora à primeira vista se deparasse como caminho a seguir para obstar a oportunismos e especulação de vária ordem, não se afigura aconselhável pelas sequências negativas que poderia determinar no futuro, reactivando as ocorrências a que agora, exactamente, se pretende obviar.
+
+Há pois neste capítulo de preços que assegurar uma clara, extensa e contínua campanha de divulgação junto da lavoura florestal, dos preços mínimos legais fixados para o material lenhoso à entrada da fábrica, bem como dos valores médios correntes para o arvoredo em pé.
+
+Constituindo preocupação dominante a rápida retirada da mata do material afectado pelo fogo, haverá então que retrair, por tempo determinado, a oferta de madeiras provindas de matas não atingidas. Abre-se para tanto uma linha de crédito, refinanciada pelo Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, que encoraje os proprietários florestais a suspenderem, a exemplo da decisão tomada pela Administração, o abate dessas matas, até à previsível absorção do arvoredo queimado.
+
+Com idêntico objectivo, procurar-se-á fazer respeitar rigorosamente as leis e regulamentos em vigor no que se refere à defesa fitossanitária dos povoamentos, bem como providenciar pela abertura dos acessos imprescindíveis, cuja fundação poderá revestir aspectos sociais da maior relevância como vias (únicas) de penetração em áreas de patentes carências nesta matéria.
+
+Não obstante a boa compreensão encontrada junto das actividades grandes consumidoras, que se dispõem a absorver o material lenhoso proveniente das zonas afectadas e a colaborar no seu rápido parqueamento, a Administração poderá abrir estaleiros temporários de recepção nos locais onde a sua instalação se manifeste imprescindível.
+
+A dinamização e coordenação das acções emergentes desta resolução são conferidas a uma comissão a nomear para o efeito e à qual se assegurarão meios materiais e humanos para tanto necessários.
+
+Nestes termos, o Conselho de Ministros, reunido em 30 de Novembro de 1979, resolveu:
+
+1 - A Direcção-Geral de Ordenamento e Gestão Florestal, através dos seus órgãos locais nas respectivas áreas de actuação, poderá condicionar, relativamente às florestas sob administração ou gestão directa do Estado e até à data limite de 31 de Maio de 1980, as operações de exploração do arvoredo não atingido pelos incêndios, nomeadamente cortes rasos e culturais, sempre que se considere que o lançamento no mercado de material lenhoso daí decorrente é susceptível de prejudicar o escoamento do material lenhoso afectado pelos incêndios, salvaguardando-se sempre o cumprimento dos contratos em vigor.
+
+2 - As entidades privadas ou cooperativas que suspenderem os cortes e as extracções de arvoredo não atingido pelo fogo tecnicamente em estado de corte, enquanto se verificar o considerando do parágrafo anterior e até à data limite de 31 de Maio de 1980, poderão beneficiar de crédito especial, de valor equivalente a esse arvoredo não abatido, e a juro bonificado.
+
+3 - O crédito referido no número anterior será negociado na banca comercial, em título avalizado pela Direcção-Geral do Ordenamento e Gestão Florestal e refinanciado pelo Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, através da linha de crédito especificamente aberta para o efeito.
+
+4 - Os Ministérios das Finanças e da Agricultura e Pescas deverão promover, no prazo máximo de trinta dias a contar da data da publicação desta resolução, o estabelecimento de todas as medidas necessárias à execução do disposto nos n.os 2 e 3.
+
+5 - Por despacho conjunto do Ministro Adjunto para a Administração Interna e Ministros das Finanças, da Agricultura e Pescas, da Indústria e do Comércio e Turismo, a proferir no prazo máximo de quinze dias a contar da data da publicação desta resolução, será constituída uma comissão, a funcionar junto da Secretaria de Estado do Fomento Agrário, com a seguinte composição:
+
+Um representante do Ministério da Agricultura e Pescas, que presidirá;
+
+Um representante do Ministério das Finanças;
+
+Um representante da Direcção-Geral da Acção Regional e Local;
+
+Um representante da Direcção-Geral das Indústrias Transformadoras Ligeiras;
+
+Um representante da Direcção-Geral do Comércio não Alimentar.
+
+6 - No desenvolvimento da sua actividade a comissão poderá solicitar a colaboração de representantes qualificados de cada uma das actividades interessadas, a designar pelas associações profissionais de produção, indústria e comércio.
+
+7 - À comissão referida no n.º 5 incumbe, designadamente:
+
+a) Colaborar com os serviços da Administração Pública Central, Regional e Local interessados na pronta e ampla divulgação dos preços mínimos legais fixados para a rolaria de pinho e eucalipto à entrada das fábricas, dos valores médios correntes do material lenhoso em pé e, ainda, de quaisquer outras informações referentes à produção, industrialização ou comercialização do material lenhoso;
+
+b) Acompanhar a evolução do escoamento do material lenhoso afectado pelos incêndios e, com base no levantamento das áreas atingidas e inventariação dos volumes respectivos, propor as medidas convenientes à rápida efectivação das operações de corte e extracção do material lenhoso que, até 30 de Março de 1980, ainda se encontrem na floresta;
+
+c) Incentivar, pelos meios adequados, a abertura e ou beneficiação de vias de acesso as zonas afectadas pelos incêndios em que a extracção do material lenhoso esteja impossibilitada ou dificultada, tendo em conta o seu enquadramento na rede viária nacional e os objectivos sócio-florestais;
+
+d) Incentivar em colaboração com a Direcção-Geral do Ordenamento e Gestão Florestal e a indústria de celulose, a abertura de parques temporários de recepção e armazenamento de material lenhoso nos locais estratégicos das zonas afectadas pelos incêndios, sempre que as dificuldades do respectivo escoamento a venham justificar;
+
+e) Propor ao Governo, para obviar casos pontuais de eventual estrangulamento na saída do material lenhoso das matas atingidas pelo fogo, as medidas de excepção tidas por convenientes;
+
+f) Diligenciar, junto dos organismos competentes, pela aplicação da legislação de defesa fitossanitária, nomeadamente o disposto no [Decreto n.º 13658](https://diariodarepublica.pt/dr/detalhe/decreto/13658-1927-687399), de 23 de Maio de 1927, sempre que o arvoredo atingido pelos incêndios não seja retirado da mata a tempo de evitar a proliferação de pragas e doenças;
+
+g) Prestar colaboração, dentro da sua área de competência, à comissão de coordenação dos trabalhos de rearborização das zonas devastadas por incêndios, criada pelo despacho conjunto da Presidência do Conselho de Ministros e Ministérios das Finanças, da Agricultura e Pescas e da Habitação e Obras Públicas de 10 de Outubro de 1979, com vista à harmonização de um plano global de actividades;
+
+h) Informar o Governo acerca da evolução do processo de execução das medidas tomadas nesta resolução.
+
+8 - A comissão considerar-se-á extinta em 30 de Junho de 1980.
+
+Presidência do Conselho de Ministros, 30 de Novembro de 1979. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.

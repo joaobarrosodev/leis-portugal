@@ -1,0 +1,371 @@
+---
+schema_version: '1.0'
+id: pt:dre:69879390:por
+title: Portaria n.º 223/2015
+short_title: null
+summary: Regula o procedimento de pagamento da comparticipação do Estado no preço de venda ao público (PVP) dos medicamentos
+  dispensados a beneficiários do Serviço Nacional de Saúde (SNS)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 223/2015
+official_date: null
+publication_date: '2015-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 144/2015, Série I de 2015-07-27
+  number: '144'
+  series: I
+  supplement: null
+  pages: 5034 - 5037
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14400/0503405037.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-12-05'
+version_history:
+  file: portaria-223-2015.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-12-05'
+    amending: pt:dre:72812702:por
+    amending_title: Portaria n.º 417/2015
+    changes:
+    - Adita Artigo 9.º-A
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/223/2015/p/cons/20151204/pt/html
+  oj: null
+  dre: '69879390'
+  dre_path: /dr/detalhe/portaria/223-2015-69879390
+  internal: pt:dre:69879390:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/223-2015-69879390
+  metadata_url: https://data.dre.pt/eli/port/223/2015/p/cons/20151204/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-72816114
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-72816114
+  retrieved_at: '2026-10-22T12:04:34Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 71f74afa3d5229f4ac57ff1bbdfb48a9511821e088ca00b2c72408596f0ddfb1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:04:34Z'
+  notes: 2 versão(ões); histórico completo em portaria-223-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Beneficiário
+- Farmácia
+- Centro de Conferência de Facturas
+- Código do IVA
+- Comissão de Acompanhamento
+- Comparticipação do Estado
+- Administração Regional de Saúde
+- Serviço Nacional de Saúde
+- Factura
+- Medicamento
+- Embalagem
+- Administração Central do Sistema de Saúde
+- Serviços Partilhados do Ministério da Saúde
+- Página na Internet
+- Internet
+- Preço
+- Preço de Venda
+- Protecção na Doença
+- Receita Médica
+- Ministério da Saúde
+relationships:
+- type: amended_by
+  target: pt:dre:72812702:por
+  label: Adita Artigo 9.º-A; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/417-2015-72812702
+  date: '2015-12-04'
+- type: cites
+  target: pt:dre:197495:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/242-b/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:287808:por
+  label: null
+  source: http://data.dre.pt/eli/port/193/2011/05/13/p/dre
+- type: cites
+  target: pt:dre:570727:por
+  label: null
+  source: http://data.dre.pt/eli/port/24/2014/01/31/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:04:34Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 223/2015
+
+Portaria n.º 223/2015
+
+de 27 de julho
+
+A Portaria n.º 193/2011, de 13 de maio, no âmbito da reestruturação do processo de conferência de faturas do Serviço Nacional de Saúde veio introduzir processos de uniformização e melhoria no procedimento de pagamento da comparticipação do Estado às farmácias, com a finalidade de atingir os objetivos de reduzir custos de operação, de atingir elevados níveis de eficiência e controlo no ciclo de prescrição-prestação-conferência, de minimizar a ocorrência de fraude, de potenciar a generalização da prescrição eletrónica e da faturação eletrónica no sentido da desmaterialização de todo o ciclo de prescrição prestação-conferência e de produzir informação de gestão que permita o controlo rigoroso da despesa do SNS.
+
+Complementarmente, e como passo adicional do processo de desmaterialização da prescrição, dispensa e conferência de medicamentos, a Portaria n.º 24/2014, de 31 de janeiro, veio alterar a Portaria n.º 193/2011, de 13 de maio instituindo mecanismos eletrónicos no relacionamento entre farmácias e instituições do SNS responsáveis pela conferência e pagamento, nomeadamente através da obrigatoriedade de utilização de código bidimensional e faturação eletrónica, bem como comunicação através de portal eletrónico.
+
+Encontrando-se neste momento reunidas as condições operacionais necessárias que permitem proceder à generalização de um novo modelo de receita desmaterializada, importa rever o regime previsto na Portaria n.º 193/2011, de 13 de maio adaptando-o a esta nova realidade.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Saúde, em cumprimento do disposto no artigo 10.º do Decreto-Lei n.º 242-B/2006, de 29 de dezembro, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria regula o procedimento de pagamento da comparticipação do Estado no preço de venda ao público (PVP) dos medicamentos dispensados a beneficiários do Serviço Nacional de Saúde (SNS) e de subsistemas públicos que sejam da responsabilidade do SNS, ou que beneficiem de comparticipação em regime de complementaridade, abreviadamente designado procedimento de pagamento da comparticipação do Estado.
+
+2 - O pagamento, às farmácias, da comparticipação do Estado no PVP dos medicamentos dispensados aos beneficiários indicados no número anterior depende da observância das regras previstas na presente portaria.
+
+3 - O procedimento previsto na presente portaria pode ser adotado para pagamento de comparticipações de outras prestações de saúde.
+
+###### Artigo 2.º — Prazo de validade das receitas
+
+1 - Para efeitos do procedimento de pagamento da comparticipação do Estado, o prazo de validade das receitas médicas, nas quais sejam prescritos medicamentos comparticipados, é de 30 dias a contar, de forma contínua, da data da prescrição, sem prejuízo do disposto no número seguinte.
+
+2 - O prazo de validade das receitas médicas não se aplica a:
+
+a) Medicamentos prescritos em receita médica renovável;
+
+b) Medicamentos esgotados nos termos e de acordo com o previsto no Manual de Relacionamento de Farmácias.
+
+###### Artigo 3.º — Modo de fornecimento
+
+1 - Quando a receita médica não especifica a dimensão da embalagem do medicamento comparticipado, deve ser dispensada a embalagem de menor dimensão disponível no mercado.
+
+2 - Quando a embalagem prescrita se encontra esgotada, e desde que este facto seja justificado pela farmácia, de forma expressa, no verso da própria receita médica ou no registo informático de dispensa no caso da receita desmaterializada, apenas podem ser dispensadas embalagens que perfaçam quantidade equivalente, ou quantidade inferior, à do medicamento prescrito.
+
+3 - Excecionalmente, quando a embalagem prescrita se encontre esgotada e apenas estejam disponíveis no mercado embalagens de dimensão superior, a farmácia apenas pode dispensar a embalagem com a quantidade mínima imediatamente superior à prescrita, desde que este facto seja justificado pela farmácia, de forma expressa, no verso da própria receita médica ou no registo informático de dispensa no caso da receita desmaterializada.
+
+4 - São considerados os preços em vigor à data da dispensa e cuja vigência se iniciou desde o 1.º dia do 1.º mês do trimestre civil imediatamente anterior àquele em que ocorre a dispensa, quando se trate de medicamento prescrito ao abrigo de exceção legal, que permita incluir a denominação comercial do medicamento, por marca ou indicação do nome do titular da autorização de introdução no mercado, e destinado a assegurar a continuidade de um tratamento com duração estimada superior a 28 dias.
+
+5 - Quando seja prescrito medicamento ou produto de saúde que o utente não deseja adquirir, na sua presença, e em relação ao medicamento ou produto de saúde, consoante o caso:
+
+a) A respetiva prescrição deve ser inutilizada através de risco cruzado ou rasura da receita médica manual ou materializada;
+
+b) A respetiva linha de prescrição deve ser inativada.
+
+6 - A farmácia deve proceder à verificação do regime de comparticipação a que o utente tem direito, nos termos previstos no Manual de Relacionamento de Farmácias.
+
+###### Artigo 4.º — Portal do Centro de Conferência de Faturas
+
+O relacionamento entre as diferentes entidades é realizado através do portal eletrónico do Centro de Conferência de Faturas disponibilizado pela Administração Central do Sistema de Saúde, I. P., (ACSS, I.P), o qual contém os documentos eletrónicos referentes ao processo de conferência, ou por outros meios eletrónicos a definir pela ACSS, I.P.
+
+###### Artigo 5.º — Informação para conferência
+
+1 - A farmácia, ou a entidade por ela designada, envia, pela via indicada no Manual de Relacionamento de Farmácias, ao Centro de Conferência de Faturas da responsabilidade da ACSS, I. P., abreviadamente designado Centro de Conferência de Faturas, até ao dia 10 do mês seguinte ao do fornecimento, os seguintes documentos:
+
+a) As receitas médicas, manuais ou materializadas, onde estão prescritos os medicamentos comparticipados dispensados a beneficiários do SNS ou de subsistemas públicos cujo pagamento seja da responsabilidade do SNS, contendo impresso no verso da receita os elementos definidos no Manual de Relacionamento de Farmácias, a aprovar pela ACSS, I.P.;
+
+b) A informação de prestação decorrente da prescrição desmaterializada, de acordo com o definido no Manual de Relacionamento de Farmácias, a aprovar pela ACSS, IP;
+
+c) A fatura eletrónica mensal correspondente ao valor da comparticipação do Estado no PVP dos medicamentos dispensados, independentemente do suporte da receita, a beneficiários do SNS ou de subsistemas públicos cujo pagamento seja da responsabilidade do SNS e nos produtos e serviços objeto de contratualização;
+
+d) As notas de débito ou notas de crédito no caso de retificação de desconformidades detetadas em faturas anteriormente emitidas.
+
+2 - O valor da comparticipação do Estado no PVP dos medicamentos dispensados a beneficiários do SNS ou de subsistemas públicos cujo pagamento seja da responsabilidade do SNS e o valor da comparticipação do Estado nos produtos e serviços objeto de contratualização devem ser discriminados, de forma explícita e autónoma, na fatura mensal, observadas as especificações previstas no Manual de Relacionamento de Farmácias, a aprovar pela ACSS, I.P..
+
+3 - Os documentos, que devam ser remetidos em suporte de papel, são acomodados em invólucros nos quais é aposta uma etiqueta identificativa da farmácia e respetiva documentação, contendo o código da farmácia e o número do invólucro face ao número total de invólucros expedidos ou informação identificativa a estabelecer pela ACSS, I. P.
+
+4 - No topo do invólucro identificado com o n.º 1, devem ser colocados os seguintes documentos:
+
+a) Número da fatura eletrónica mensal;
+
+b) Relação-resumo de lotes;
+
+c) Número das notas de débito e crédito, caso existam.
+
+5 - A informação a que se refere o n.º 4 pode ser gerada com código de barras ou através de outro sistema que permita a recolha desta informação.
+
+6 - A prova da receção das faturas é efetuada da seguinte forma:
+
+a) No portal eletrónico do Centro de Conferência de Faturas, sendo enviada à farmácia uma mensagem eletrónica comprovativa da receção do ficheiro;
+
+b) Por troca de ficheiros eletrónicos.
+
+###### Artigo 6.º — Organização das receitas médicas
+
+1 - As receitas médicas, manuais ou materializadas, e a informação de prestação devem ser enviadas para o Centro de Conferência de Faturas agrupadas de acordo com o disposto no Manual de Relacionamento de Farmácias, a aprovar pela ACSS, I.P.
+
+2 - As linhas de prescrição dispensadas eletronicamente sem sucesso na validação, são verificadas pelo Centro de Conferência de Faturas, que identifica as desconformidades e informa as farmácias desse facto, para efeitos de correção, de acordo com as normas definidas no Manual de Relacionamento de Farmácias, a aprovar pela ACSS, I.P.
+
+3 - Uma vez implementadas as correções, preconizadas pelo Centro de Conferência de Faturas, as linhas de prescrição identificadas de acordo com o definido no número anterior passam a ser consideradas com sucesso na validação e em condições para serem faturadas.
+
+4 - As linhas de prescrição dispensadas eletronicamente com sucesso na validação consideram-se em condições para serem faturadas.
+
+###### Artigo 7.º — Fatura mensal
+
+1 - A fatura eletrónica mensal deverá conter as indicações definidas no Manual de Relacionamento de Farmácias.
+
+2 - A fatura mensal inclui apenas o valor da comparticipação do Estado no PVP dos medicamentos dispensados a beneficiários do SNS ou de subsistemas públicos cujo pagamento seja da responsabilidade do SNS e nos produtos e serviços objeto de contratualização.
+
+###### Artigo 8.º — Validação e contabilização da fatura mensal
+
+1 - A validação da fatura mensal envolve:
+
+a) A comprovação dos requisitos das receitas médicas, bem como a verificação dos documentos entregues pelas farmácias, quando se trate de receitas manuais ou materializadas;
+
+b) A comprovação dos requisitos das faturas mensais;
+
+c) A conferência entre os medicamentos prescritos e os medicamentos dispensados;
+
+e) A confirmação do número de receitas médicas, do PVP e da importância a pagar pelo Estado.
+
+2 - O Centro de Conferências de Faturas suspende a validação e contabilização da fatura mensal que não cumpra qualquer dos requisitos definidos na presente portaria ou no Manual de Relacionamento de Farmácias e informa a farmácia desse facto, mantendo os originais dos documentos na sua posse.
+
+3 - A farmácia dispõe do prazo de 60 dias, contados da informação prevista no número anterior, para corrigir a fatura mensal e apresentá-la ao Centro de Conferência de Faturas.
+
+4 - Quando se verifiquem desconformidades na receita, erros ou diferenças nos documentos conferidos, o Centro de Conferência de Faturas disponibiliza ou envia à farmácia, no dia 25 de cada mês ou até aos cinco dias úteis seguintes, sempre que possível por via eletrónica, os seguintes documentos:
+
+a) Uma relação-resumo contendo o valor das desconformidades;
+
+b) A justificação das desconformidades;
+
+c) Conforme aplicável, as receitas, as linhas de prescrição, as faturas, a relação-resumo de lote ou os verbetes de identificação de lote que correspondem às desconformidades;
+
+d) Não serão enviadas às farmácias as receitas ou linhas de prescrição, conforme aplicável, que, embora apresentem desconformidades, erros ou diferenças, tenham sido em parte comparticipadas pelo SNS e em que o erro apurado, para a totalidade da receita, seja inferior a (euro) 0,50.
+
+5 - No caso de desconformidades, as farmácias emitem as respetivas notas de crédito ou de débito e enviam-nas ao Centro de Conferência de Faturas, com a fatura mensal, até ao dia 10 do mês seguinte.
+
+6 - O Centro de Conferência de Faturas devolve à farmácia cópia das notas de crédito e débito, devidamente assinada, até ao dia 10 do 2.º mês seguinte.
+
+7 - As farmácias podem reclamar das desconformidades detetadas devendo fazê-lo em formulário, de modelo a definir no Manual de Relacionamento de Farmácias, e no prazo máximo de 40 dias contados a partir do dia de disponibilização ou envio dos documentos, conforme previsto no n.º 4.
+
+8 - Findo o prazo referido no número anterior sem que seja recebida no Centro de Conferência de Faturas qualquer reclamação em formulário próprio, a retificação considera-se aceite pela farmácia para efeitos da presente portaria.
+
+9 - A relação-resumo contendo o valor das retificações deve ser enviada à farmácia, ou disponibilizada no Portal do Centro de Conferência de Faturas, no prazo de 90 dias contados da data-limite para a entrega da fatura a que respeitam, decorrido o qual a fatura é considerada definitivamente aceite.
+
+10 - As desconformidades nas receitas médicas ou linhas de prescrição, devolvidas ou disponibilizadas por meios eletrónicos, devem ser corrigidas no prazo máximo de 60 dias contados da devolução ou disponibilização.
+
+###### Artigo 9.º — Pagamento
+
+1 - Concluídas as operações de validação referidas no n.º 1 do artigo 8.º, o Centro de Conferência de Faturas envia, ou disponibiliza no respetivo portal, à ARS competente, para efeitos de validação e pagamento, os seguintes elementos:
+
+a) Informação mensal das faturas recebidas;
+
+b) Resultado da conferência;
+
+c) Notas de crédito e notas de débito recebidas.
+
+2 - A ARS pode pedir elementos adicionais ao Centro de Conferência de Faturas ou à farmácia para efeitos de realização do pagamento.
+
+3 - No dia 10 do mês seguinte ao do envio da fatura mensal, o Estado, através da ARS ou de terceiro, procede ao pagamento dos montantes indicados no número seguinte, mediante transferência para uma conta bancária indicada pela farmácia ou por entidade por esta designada.
+
+4 - O valor a pagar corresponde ao valor da fatura mensal, entregue no mês anterior, corrigido do valor das retificações.
+
+5 - Para efeitos do disposto na alínea e) do n.º 1, nos casos em que não seja de imediato apurada a entidade financeira responsável distinta do SNS, nomeadamente por motivos de acidente ou ocorrência semelhante, os sistemas de prescrição eletrónica devem assegurar a sinalização dessa situação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 417/2015 - Diário da República n.º 238/2015, Série I de 2015-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/417-2015-72812702), em vigor a partir de 2015-12-05
+
+###### Artigo 9.º-A — Responsabilidade de terceiros
+
+1 - Nos casos previstos no n.º 5 do artigo 9.º da Portaria n.º 224/2015, de 27 de julho, na redação resultante deste diploma, e sempre que se apure a entidade financeira responsável pelo encargo com o medicamento, deve promover-se o ressarcimento do SNS, mediante cobrança das quantias devidas.
+
+2 - A Administração Central do Sistema de Saúde, I. P., define os procedimentos a adotar, tendo em vista o cumprimento do disposto no número anterior.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 417/2015 - Diário da República n.º 238/2015, Série I de 2015-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/417-2015-72812702), em vigor a partir de 2015-12-05
+
+###### Artigo 10.º — Receituário sinistrado e falência de sistemas
+
+1 - A liquidação de receituário, manual ou materializado, sinistrado, quando tal situação ocorra nos armazéns ou dependências utilizadas pelo transportador, é garantida, após 90 dias da data de comunicação do sinistro, mediante a apresentação dos quadruplicados das relações-resumo de lotes e das faturas mensais arquivadas pelas farmácias.
+
+2 - Caso o receituário seja sinistrado durante a operação de transporte, o seu pagamento é garantido, de acordo com o procedimento referido no número anterior.
+
+3 - Quando recuperado o receituário sinistrado a farmácia deverá enviá-lo ao Centro de Conferência de Faturas para que seja objeto de posterior conferência segundo as regras em vigor.
+
+4 - A liquidação de receituário eletrónico sinistrado far-se-á nos seguintes moldes:
+
+a) Caso a falência ocorra nos sistemas do Ministério da Saúde, o Serviço Nacional de Saúde aceitará como boa a fatura eletrónica transmitida pela farmácia;
+
+b) Caso a falência ocorra no sistema da farmácia, esta aceitará como bons os registos existentes na base de dados do Ministério da Saúde, devendo a farmácia emitir a fatura referente ao montante a considerar;
+
+c) Deve ser garantida pelo Ministério da Saúde e pelas farmácias a existência e manutenção de sistemas de salvaguarda da informação;
+
+d) Caso exista um problema de comunicações no período definido para envio da fatura eletrónica, a farmácia produzirá uma fatura impressa por computador, devendo no entanto transmitir a fatura eletrónica logo que haja condições técnicas para o efeito;
+
+5 - As situações referidas nos números anteriores e outras que venham a ser identificadas, assim como as regras de validação da informação enviada, são previstas no Manual de Relacionamento de Farmácias.
+
+###### Artigo 11.º — Instruções gerais
+
+1 - Para além do Manual de Relacionamento de Farmácias, a aplicação das regras da presente portaria pode ser objeto de instruções gerais a emitir pela ACSS, I. P.
+
+2 - A ACSS, I. P., deve, para efeitos do disposto no número anterior, solicitar parecer prévio à Comissão de Acompanhamento prevista no presente diploma.
+
+###### Artigo 12.º — Comissão de Acompanhamento
+
+1 - Para o acompanhamento de questões que se suscitem no âmbito do processo de faturação previsto na presente portaria, é criada uma Comissão com a seguinte constituição:
+
+a) Dois representantes da Administração Central do Sistema de Saúde, I. P., um dos quais coordena;
+
+b) Um representante do INFARMED - Autoridade Nacional do Medicamento e dos Produtos de Saúde, I. P.;
+
+c) Um representante das Administrações Regionais de Saúde;
+
+d) Um representante da Serviços Partilhados do Ministério da Saúde, E.P.E.;
+
+e) Dois representantes da Associação Nacional das Farmácias;
+
+f) Um representante da Associação de Farmácias de Portugal.
+
+2 - Cabe às entidades referidas no número anterior a designação dos seus representantes, sendo decidido entre as Administrações Regionais de Saúde o seu representante.
+
+3 - A ACSS, I. P., assegura o apoio logístico e administrativo necessário ao funcionamento da Comissão.
+
+###### Artigo 13.º — Disposições transitórias
+
+1 - A adaptação de todos os intervenientes do circuito do receituário às novas regras deve concretizar-se no prazo máximo de 60 dias após a entrada em vigor da presente portaria.
+
+2 - Enquanto não se efetivar esta adaptação as regras da Portaria n.º 193/2011, de 13 de maio, na redação dada pela Portaria n.º 24/2014, de 31 de janeiro, mantêm-se em vigor.
+
+###### Artigo 14.º — Norma revogatória
+
+São revogadas:
+
+a) A Portaria n.º 193/2011, de 13 de maio;
+
+b) A Portaria n.º 24/2014, de 31 de janeiro.
+
+###### Artigo 15.º — Entrada em vigor
+
+A presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 20 de julho de 2015.

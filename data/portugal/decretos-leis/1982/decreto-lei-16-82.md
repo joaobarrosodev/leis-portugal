@@ -1,0 +1,189 @@
+---
+schema_version: '1.0'
+id: pt:dre:601720:por
+title: Decreto-Lei n.º 16/82
+short_title: null
+summary: Define a competência para a fixação de tarifas e preços de certos transportes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Habitação, Obras Públicas e Transportes
+proposing_entity: null
+official_number: 16/82
+official_date: null
+publication_date: '1982-01-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 19/1982, Série I de 1982-01-23
+  number: '19'
+  series: I
+  supplement: null
+  pages: 176 - 178
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/01/01900/01760178.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '601720'
+  dre_path: /dr/detalhe/decreto-lei/16-1982-601720
+  internal: pt:dre:601720:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1982-601720
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1982-601720
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:42:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 966dc729adf4bdc0ceb61f840f93cf7a612f11459d37245a4007632eff3b4a55
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Empresa Pública
+- Preço
+- Transporte Público
+relationships:
+- type: amended_by
+  target: pt:dre:352316:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:599901:por
+  label: Rectificado pela DECL.DD2448.1982.02.18.PCM, DR.IS [52] de 04.03.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-599901
+  date: '1982-02-18'
+- type: repealed_by
+  target: pt:dre:352316:por
+  label: "Revogado pelo DEC LEI.415-A/86.17.12.1986.MOPTC, DR.IS [289]Supl de 17.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/415-a-1986-352316
+  date: '1986-12-17'
+article_structure:
+  article_count: 0
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:42:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 16/82
+
+de 23 de Janeiro
+
+O Regulamento de Transportes em Automóveis, aprovado pelo Decreto-Lei n.º 37272, de 31 de Dezembro de 1948, constituiu durante largo período de tempo a sede legal definidora da competência para a fixação de preços e tarifas para o transporte de passageiros e mercadorias, atribuída ao Ministro dos Transportes e Comunicações.
+
+A criação de um vasto sector público operando em todos os ramos de transporte e a necessidade de implantação de uma política geral de preços de bens e serviços, bem como a definição dos seus regimes, vieram alterar aquela competência.
+
+Assim, por força de disposições das bases gerais das empresas públicas, aprovadas pelo [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, na redacção que lhe foi dada pelo [Decreto-Lei n.º 25/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1979-393621), de 19 de Fevereiro, e por força, ainda, dos estatutos daquelas empresas e dos diplomas sobre preços - [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, e [Decreto-Lei n.º 75-G/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-g-1977-509017), de 28 de Fevereiro -, foi o expedito esquema inicial substituído por um outro mais apertado e moroso, que exige a intervenção conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes, tanto na aprovação da política de tarifas e preços dos transportes como na sua própria fixação.
+
+Por outro lado, a deficiente situação económico-financeira da maior parte das empresas de transportes aconselha a que se lhes atribua uma certa liberdade de actuação em matéria tarifária respeitante a serviços sem incidência social apreciável e em outros relativamente aos quais os utentes tenham ao seu dispor outros modos alternativos de transporte. Pretende-se deste modo, de acordo com o Programa do Governo, caminhar progressivamente para uma política de preços que reflicta os custos reais dos serviços prestados, com ressalva dos sectores em que a sua função social, devidamente delimitada e quantificada, justifique a imposição de preços que permitam uma melhor qualidade de vida e bem-estar da população.
+
+Consequentemente, deve o processo de aprovação e fixação de tarifas e preços tornar-se mais flexível e eficaz, intervindo o Governo só e obrigatoriamente na definição da política de tarifas e preços dos serviços com maior incidência social e sempre que a adopção de uma política anti-inflacionista a tanto obrigue.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Transporte de mercadorias
+
+Artigo 1.º Os preços da Tarifa Geral de Transportes e das tarifas especiais (operações acessórias) para o transportes ferroviário de mercadorias são fixados livremente pelos Caminhos de Ferro Portugueses, E. P., devendo reflectir, progressivamente, os custos reais.
+
+Art. 2.º Os preços do transporte de mercadorias nos serviços combinados entre o transporte ferroviário e o transporte rodoviário em veículos de aluguer são aprovados por despacho do Ministro da Habitação, Obras Públicas e Transportes.
+
+Art. 3.º Os preços do transporte de mercadorias em serviço combinado especial ao domicílio entre o transporte ferroviário e o transporte rodoviário em veículos de aluguer são livremente fixados pelas empresas transportadoras.
+
+Art. 4.º - 1 - Os preços do transporte ferroviário de produtos que tenham incidência marcadamente social são fixados por portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes.
+
+2 - A lista dos produtos considerados com incidência marcadamente social será objecto de despacho conjunto dos membros do Governo referidos no número anterior.
+
+Art. 5.º Os preços do transporte ferroviário internacional de mercadorias serão os resultantes das convenções celebradas entre os Caminhos de Ferro Portugueses, E. P., e as demais operadoras ferroviárias.
+
+Art. 6.º As tarifas do transporte colectivo ferroviário de mercadorias, de bagagens e de pequenos volumes e os preços do transporte fluvial de mercadorias e de veículos são fixados livremente pelos operadores.
+
+### CAPÍTULO II — Transporte de passageiros
+
+Art. 7.º Os preços da Tarifa Geral de Transportes para o transporte ferroviário de passageiros em 1.ª e 2.ª classes para os comboios suburbanos (regime de tranvias) e em 2.ª classe para todos os restantes, com excepção dos comboios rápidos, são aprovados por portaria do Ministro de Estado e das Finanças e do Plano e dos Ministros da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes.
+
+Art. 8.º Os preços para o transporte ferroviário de passageiros em 1.ª classe de todos os comboios em regime não suburbano, com excepção dos comboios rápidos, e em 2.ª classe dos comboios rápidos são fixados pelos Caminhos de Ferro Portugueses, E. P., dentro dos limites aprovados por despacho conjunto dos Ministros da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes.
+
+Art. 9.º Os preços da Tarifa Geral de Transportes para o transporte ferroviário de passageiros em 1.ª classe e em comboios rápidos e das taxas de operações acessórias e especiais que não colidam com o preceituado nos artigos 7.º e 8.º são fixados livremente pelos Caminhos de Ferro Portugueses, E. P.
+
+Art. 10.º As restantes tarifas do transporte colectivo de passageiros em autocarro, eléctrico, trolei-carro, metropolitano e ascensor são aprovadas por podaria dos Ministros da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes.
+
+Art. 11.º Compete às autarquias locais a fixação das tarifas dos transportes urbanos colectivos de passageiros que explorem directamente.
+
+Art. 12.º As tarifas de transporte referidas no artigo 10.º, quando circunscritas a áreas urbanas e sempre que os transportes não sejam operados por empresas exploradas directamente pelos municípios, são fixadas por portaria do Ministro da Habitação, Obras Públicas e Transportes, ouvidos previamente os municípios e operadores ou associações representativas interessadas.
+
+Art. 13.º - 1 - As tarifas dos serviços de aluguer em automóveis ligeiros - táxis e letra A - são aprovadas por despacho conjunto dos Ministros da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes.
+
+2 - Os preços dos serviços prestados em veículos de aluguer, com ou sem condutor, são livremente fixados pelos operadores.
+
+Art. 14.º Os preços e tarifas que pelo presente diploma podem ser fixados livremente e os que devam conter-se dentro dos limites determinados pelo Governo são obrigatoriamente comunicados ao Ministro da Habitação, Obras Públicas e Transportes com a antecedência mínima de 15 dias relativamente à sua entrada em vigor.
+
+Art. 15.º Os preços e tarifas estabelecidos livremente pelas empresas deverão reflectir, progressivamente, os custos reais, ficando sujeitos ao controle e correcção que o Ministro da Habitação, Obras Públicas e Transportes entenda dever introduzir na construção dos respectivos custos reais.
+
+Art. 16.º O Ministro de Estado e das Finanças e do Plano e os Ministros da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes podem, por portaria, de acordo com a situação económica do País, fazer depender da sua aprovação conjunta todas as tarifas e preços de transportes abrangidos pelo presente diploma.
+
+Art. 17.º Os preços, as tarifas e as condições de transporte em vigor em qualquer momento constam de publicação própria e deverão ter adequada divulgação.
+
+Art. 18.º Manter-se-ão válidas as disposições do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, e do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, que não colidam com o preceituado nos artigos anteriores do presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 9 de Janeiro de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -1,0 +1,185 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:229485:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-886722885",
+ "dre_path": "/dr/detalhe/decreto-lei/31-1998-229485",
+ "source_lastmod": "2024-09-03",
+ "versions": [
+  {
+   "date": "1998-02-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886819684",
+    "886819685",
+    "886819686",
+    "886819687",
+    "886819688",
+    "886819689",
+    "886819690",
+    "886819691",
+    "886819692",
+    "886819693",
+    "886819694",
+    "886819695",
+    "886819696"
+   ]
+  },
+  {
+   "date": "1998-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:276178:por",
+     "title": "Declaração de Rectificação n.º 7-E/98",
+     "published": "1998-03-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/7-e-1998-276178"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 11.º"
+   ],
+   "fragments": [
+    "886819684",
+    "886819685",
+    "886819686",
+    "886819687",
+    "886819688",
+    "886819689",
+    "886819690",
+    "886819691",
+    "886819692",
+    "886819693",
+    "886819694",
+    "886819748",
+    "886819696",
+    "886819697"
+   ]
+  }
+ ],
+ "fragments": {
+  "886819684": {
+   "fragment_id": "886722886",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 31/98\n\nde 11 de Fevereiro\n\nA última reavaliação dos elementos do activo imobilizado corpóreo das empresas, realizada ao abrigo do Decreto-Lei n.º 264/92, de 24 de Novembro, foi reportada, para os sujeitos passivos cujo período de tributação coincide com o ano civil, a 31 de Dezembro de 1992 e produziu efeitos, em termos de reintegrações, a partir do exercício de 1993.\n\nNão obstante a descida dos níveis de inflação verificada posteriormente, entende-se oportuno permitir nova reavaliação, embora limitada a bens cujo período mínimo de vida útil seja igual ou superior a cinco anos, reportada, em geral, a 31 de Dezembro de 1997, produzindo efeitos, relativamente às reintegrações a praticar, a partir do exercício de 1998.\n\nSeguem-se, neste diploma, e tal como tem vindo a ser orientação do legislador nesta matéria, as linhas gerais definidas nos diplomas anteriores que permitiram a reavaliação para efeitos fiscais.\n\nAtendendo a que, face ao novo regime contabilístico da locação financeira, os bens integram o activo imobilizado do locatário, permite-se a reavaliação de tais bens, embora se introduzam algumas especificidades nos casos em que o locatário não venha a adquirir a respectiva propriedade jurídica.\n\nAssim:\n\nNo uso da autorização legislativa conferida pela alínea a) do n.º 4 do artigo 30.º da Lei n.º 52-C/96, de 27 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886819685": {
+   "fragment_id": "886722887",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito da reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito da reavaliação\n\n1 - Os sujeitos passivos de IRC ou de IRS podem reavaliar os elementos das suas imobilizações corpóreas e investimentos financeiros em imóveis, afectos ao exercício de uma actividade comercial, industrial ou agrícola, cujo período mínimo de vida útil seja igual ou superior a cinco anos, existentes e em utilização na data da reavaliação.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) Os elementos completamente reintegrados na data da reavaliação e já reavaliados nessa qualidade ao abrigo de anterior legislação de carácter fiscal;\n\nb) Os elementos de reduzido valor cujo custo de aquisição ou de produção tenha sido deduzido num só exercício, nos termos do artigo 31.º do Código do IRC;\n\nc) Os imóveis que, nas empresas de seguros, estejam ou tenham estado a representar ou a caucionar provisões técnicas do ramo «Vida», respeitantes a contratos com participação nos resultados.\n\n3 - A reavaliação deve reportar-se a 31 de Dezembro de 1997 ou se o exercício económico não coincidir com o ano civil, nos termos previstos nos n.os 2 e 3 do artigo 7.º do Código do IRC:\n\na) À data do início do período de tributação em curso em 31 de Dezembro de 1997, se o respectivo termo ocorrer no 2.º semestre de 1998;\n\nb) À data do termo do período de tributação em curso em 31 de Dezembro de 1997, se o respectivo termo ocorrer no 1.º semestre de 1998.\n\n4 - A reavaliação deve constar do balanço referente ao termo do exercício em que se integra a data a que se reporta a reavaliação ou do balanço relativo ao termo do período de tributação seguinte, no caso de os sujeitos passivos não poderem efectuar a reavaliação em tempo útil."
+  },
+  "886819686": {
+   "fragment_id": "886722888",
+   "type": 11,
+   "heading": "Artigo 2.º — Valores base da reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Valores base da reavaliação\n\n1 - Tratando-se de elementos ainda não totalmente reintegrados à data da reavaliação, os valores a reavaliar são os seguintes:\n\na) No caso de elementos já reavaliados ao abrigo de outros diplomas legais, os valores que se obtiveram na última reavaliação efectuada;\n\nb) No caso de elementos ainda não reavaliados, os custos de aquisição ou de produção, se forem conhecidos, ou, não o sendo, os valores mais antigos constantes dos registos contabilísticos do sujeito passivo;\n\nc) No caso de venda de bens seguida de locação financeira, pelo vendedor, desses mesmos bens, os valores que este, na ausência desse contrato, poderia considerar nos termos das alíneas anteriores;\n\nd) No caso de entrega de um bem objecto de locação financeira ao locador seguida de relocação desse bem ao locatário, o valor inicial do contrato.\n\n2 - Tratando-se de elementos já totalmente reintegrados, não abrangidos pelo disposto no n.º 2 do artigo anterior, que possuam ainda aptidão para poderem utilmente desempenhar a sua função técnico-económica e sejam ainda efectivamente utilizados no processo produtivo, os valores a reavaliar são os referidos numa das alíneas do número anterior, conforme os casos.\n\n3 - Quanto aos bens a reavaliar que tenham sido transferidos para a empresa que os detém à data da reavaliação em consequência da entrada de activos, constituição, fusão ou cisão de sociedades, os valores a considerar para a reavaliação são os que lhes correspondem nos termos de uma das alíneas do n.º 1 ou os valores líquidos contabilísticos, se uns ou outros coincidirem com os valores por que os elementos transferidos estavam contabilizados na empresa originária."
+  },
+  "886819687": {
+   "fragment_id": "886722889",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo de reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Processo de reavaliação\n\n1 - Relativamente aos elementos não totalmente reintegrados, a reavaliação consiste na aplicação, aos valores referidos no artigo anterior e às correspondentes reintegrações acumuladas, dos coeficientes de actualização monetária referidos no n.º 3 que corresponderem aos anos a que se reportam os valores base da reavaliação.\n\n2 - Quanto aos elementos já totalmente reintegrados, a reavaliação consiste em:\n\na) Utilização do processo descrito no número anterior, quer em relação ao valor dos bens, quer relativamente às reintegrações acumuladas;\n\nb) Correcção das reintegrações acumuladas, actualizadas nos termos da alínea anterior, aplicando a este valor o produto do período de vida útil já decorrido pela taxa média de reintegração que resultar da soma do período de vida útil já decorrido com o período adicional de utilização futura.\n\n3 - Os coeficientes de actualização monetária a utilizar na reavaliação são os constantes da Portaria n.º 222/97, de 2 de Abril, multiplicados pelo factor 1,023, sendo o resultado arredondado, por excesso, até às centésimas."
+  },
+  "886819688": {
+   "fragment_id": "886722890",
+   "type": 11,
+   "heading": "Artigo 4.º — Valores máximos de reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Valores máximos de reavaliação\n\n1 - O valor líquido contabilístico dos elementos reavaliados que resultar da utilização dos processos de reavaliação mencionados no artigo anterior não poderá exceder, à data da reavaliação, o seu valor real actual.\n\n2 - Entende-se por valor real actual de um elemento reavaliado:\n\na) Relativamente aos activos detidos pelas empresas, aquele que tem em conta o seu estado de uso e a utilidade ainda esperada para o serviço da actividade desenvolvida pelo sujeito passivo;\n\nb) Relativamente aos activos detidos por empresas de seguros, sem prejuízo do diposto na alínea anterior, aquele que for determinado de acordo com as regras definidas para o efeito pelo Instituto de Seguros de Portugal.\n\n3 - Considera-se não estar excedido o valor real actual previsto no número anterior quando se observarem as seguintes regras:\n\na) Tratando-se de bens não totalmente reintegrados, o coeficiente de actualização aplicado não for superior ao que resultar da divisão do valor real actual do elemento reavaliado pelo valor líquido contabilístico antes da reavaliação;\n\nb) Tratando-se de bens totalmente reintegrados, as reintegrações acumuladas actualizadas forem corrigidas por forma que o valor líquido contabilístico após a reavaliação não ultrapasse o citado valor actual, aplicando-se nos exercícios seguintes, como taxa máxima de reintegração, a que resultar da divisão do mesmo valor real actual pelo produto do número de anos de utilidade esperada pelo valor do activo imobilizado bruto actualizado."
+  },
+  "886819689": {
+   "fragment_id": "886722891",
+   "type": 11,
+   "heading": "Artigo 5.º — Reserva de reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reserva de reavaliação\n\n1 - A reserva de reavaliação corresponderá ao saldo resultante dos movimentos contabilísticos inerentes aos processos de reavaliação, os quais serão registados, conforme os casos, a débito ou a crédito de uma conta denominada «Reserva de reavaliação - Decreto-Lei n.º...».\n\n2 - A reserva de reavaliação só pode ser movimentada quando se considerar realizada, total ou parcialmente, nos termos da regulamentação contabilística aplicável e de acordo com a seguinte ordem de prioridades: para corrigir as situações previstas no n.º 1 do artigo 4.º, para cobertura de prejuízos acumulados até à data a que se reporta a reavaliação, inclusive, e para incorporação no capital social, na parte remanescente."
+  },
+  "886819690": {
+   "fragment_id": "886722892",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime fiscal das reintegrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime fiscal das reintegrações\n\n1 - O regime fiscal das reintegrações dos elementos reavaliados ao abrigo deste diploma regular-se-á pelas disposições sobre reintegrações e amortizações do Código do IRC e do Decreto Regulamentar n.º 2/90, de 12 de Janeiro.\n\n2 - As reintegrações dos elementos do activo imobilizado só poderão calcular-se sobre os valores resultantes da reavaliação prevista neste diploma nos seguintes termos:\n\na) Para os sujeitos passivos cujo período de tributação coincida com o ano civil, a partir do exercício de 1998, inclusive;\n\nb) Para os sujeitos passivos cujo período de tributação em curso em 31 de Dezembro de 1997 termine no 2.º semestre de 1998, a partir deste mesmo período, inclusive;\n\nc) Para os sujeitos passivos cujo período de tributação em curso em 31 de Dezembro de 1997 termine no 1.º semestre de 1998, a partir do período de tributação imediatamente seguinte, inclusive."
+  },
+  "886819691": {
+   "fragment_id": "886722893",
+   "type": 11,
+   "heading": "Artigo 7.º — Custos ou perdas não dedutíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Custos ou perdas não dedutíveis\n\n1 - Não são dedutíveis para efeitos fiscais os seguintes custos ou perdas:\n\na) O produto de 0,4 pela importância do aumento das reintegrações anuais resultantes da reavaliação;\n\nb) A parte do valor líquido contabilístico dos elementos inutilizados ou destruídos que tenham sido reavaliados ao abrigo deste diploma, na parte que corresponde à reavaliação efectuada, observando-se, na parte restante, o disposto no n.º 1 do artigo 10.º do Decreto Regulamentar n.º 2/90.\n\n2 - Para efeitos do disposto na alínea a) do número anterior:\n\na) No caso de elementos não totalmente reintegrados, considera-se como aumento das reintegrações anuais o montante que se obtém aplicando as taxas de reintegração utilizadas no respectivo exercício ao acréscimo do valor do imobilizado proveniente da reavaliação;\n\nb) No caso de elementos já totalmente reintegrados à data da reavaliação, o aumento das reintegrações anuais correspondente à dotação que vier a ser contabilizada em cada exercício."
+  },
+  "886819692": {
+   "fragment_id": "886722894",
+   "type": 11,
+   "heading": "Artigo 8.º — Reinvestimento dos valores de realização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reinvestimento dos valores de realização\n\n1 - Os sujeitos passivos que tenham transmitido a título oneroso elementos reavaliados ao abrigo do presente diploma deverão efectuar o reinvestimento do valor total de realização de acordo com as condições fixadas no n.º 1 do artigo 44.º do Código do IRC, podendo, no caso de alienação de «Investimentos em imóveis», o reinvestimento efectuar-se em bens da mesma natureza.\n\n2 - Não se concretizando o reinvestimento nos termos previstos no número anterior, adicionar-se-á ao valor do IRC ou do IRS, liquidado relativamente ao terceiro exercício posterior ao da realização, o IRC ou IRS que em resultado da reavaliação dos bens transmitidos deixou de ser liquidado nos exercícios anteriores, acrescido dos juros compensatórios correspondentes."
+  },
+  "886819693": {
+   "fragment_id": "886722895",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrega de bens em regime de locação financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrega de bens em regime de locação financeira\n\nNo caso de entrega pelo locatário ao locador dos bens objecto de locação financeira, observar-se-á o seguinte:\n\n1) O resultado é apurado como se não tivesse havido reavaliação;\n\n2) Ao valor do IRC liquidado relativamente ao exercício da entrega dos bens adicionar-se-á o IRC que, em resultado da reavaliação dos bens entregues, deixou de ser liquidado nos exercícios anteriores, agravado de uma importância que resulta da aplicação ao IRC correspondente a cada um daqueles exercícios do produto de 10% pelo número de anos decorridos;\n\n3) Em sede de IRS, deverão ser acrescidas ao rendimento colectável do ano da entrega dos bens as importâncias correspondentes ao acréscimo das amortizações, majoradas em 10% por cada ano ou fracção decorrido desde aquele em que foi aceite o referido acréscimo."
+  },
+  "886819694": {
+   "fragment_id": "886722896",
+   "type": 11,
+   "heading": "Artigo 10.º — Mapas de reavaliação e das reintegrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mapas de reavaliação e das reintegrações\n\n1 - À declaração periódica de rendimentos a que se refere, conforme os casos, a alínea b) do n.º 1 do artigo 94.º do Código do IRC ou a alínea b) do n.º 1 do artigo 57.º do Código do IRS, relativa ao exercício em que deva ser contabilizada a reserva de reavaliação, de harmonia com o n.º 4 do artigo 1.º, deverão os sujeitos passivos juntar:\n\na) Mapas, de modelo oficial, demonstrativos da reavaliação efectuada;\n\nb) Os mapas das reintegrações efectuadas pela empresa originária relativamente ao exercício anterior ao da transferência dos bens, nos casos previstos no n.º 3 do artigo 2.º\n\n2 - Os elementos reavaliados ao abrigo deste diploma figurarão anualmente, a partir do exercício em que passarem a calcular-se as reintegrações sobre os novos valores, em mapas de reintegrações próprios, de modelo oficial, com a menção, na parte superior, do presente diploma, elaborados com observância do disposto no artigo 22.º do Decreto Regulamentar n.º 2/90, na parte aplicável."
+  },
+  "886819695": {
+   "fragment_id": "886722897",
+   "type": 11,
+   "heading": "Artigo 11.º — Utilização indevida da reserva de reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Utilização indevida da reserva de reavaliação\n\nA utilização da reserva de reavaliação para fins diferentes dos previstos no n.º 2 do artigo 5.º tem como consequências:\n\na) Considerar-se como nula, para efeitos fiscais, a reavaliação efectuada;\n\nb) Adicionar-se ao valor do IRC ou do IRS liquidado relativamente ao exercício em que tal utilização se verifique o IRC ou o IRS que em resultado da reavaliação deixou de ser liquidado nos exercícios anteriores, acrescido dos juros compensatórios correspondentes."
+  },
+  "886819696": {
+   "fragment_id": "886722898",
+   "type": 11,
+   "heading": "Artigo 12.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fiscalização\n\nA fiscalização do cumprimento das normas constantes do presente diploma compete à Direcção-Geral dos Impostos, à Inspecção-Geral de Finanças e ao Instituto de Seguros de Portugal, tendo os funcionários encarregados dessa fiscalização livre acesso a todas as instalações ou locais onde seja exercida a actividade dos sujeitos passivos, podendo ser solicitada a outros serviços públicos ou a quaisquer entidades a avaliação dos bens reavaliados ao abrigo deste diploma sempre que haja motivos fundamentados de que o respectivo valor real actual reportado à data da reavaliação é inferior ao respectivo valor líquido contabilístico resultante da mesma."
+  },
+  "886819748": {
+   "fragment_id": "886722897",
+   "type": 11,
+   "heading": "Artigo 11.º — Utilização indevida da reserva de reavaliação",
+   "in_force_from": "1998-03-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 7-E/98 - Diário da República n.º 76/1998, 3º Suplemento, Série I-A de 1998-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-e-1998-276178), em vigor a partir de 1998-03-31"
+   ],
+   "markdown": "###### Artigo 11.º — Utilização indevida da reserva de reavaliação\n\nA utilização da reserva de reavaliação, contrariamente ao previsto no n.º 2 do artigo 5.º, tem como consequências::\n\na) Considerar-se como nula, para efeitos fiscais, a reavaliação efectuada;\n\nb) Adicionar-se ao valor do IRC ou do IRS liquidado relativamente ao exercício em que tal utilização se verifique o IRC ou o IRS que em resultado da reavaliação deixou de ser liquidado nos exercícios anteriores, acrescido dos juros compensatórios correspondentes.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 7-E/98 - Diário da República n.º 76/1998, 3º Suplemento, Série I-A de 1998-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-e-1998-276178), em vigor a partir de 1998-03-31"
+  },
+  "886819697": {
+   "fragment_id": "886722899",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.\n\nPromulgado em 29 de Janeiro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Fevereiro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

@@ -1,0 +1,225 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:660716:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/1984-890084255",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/7-1984-660716",
+ "source_lastmod": "2024-10-07",
+ "versions": [
+  {
+   "date": "1984-02-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890198078",
+    "890198079",
+    "890198080",
+    "890198081",
+    "890198082",
+    "890198083",
+    "890198084",
+    "890198085",
+    "890198086",
+    "890198087",
+    "890198088",
+    "890198089",
+    "890198090",
+    "890198091",
+    "890198092",
+    "890198093",
+    "890198094"
+   ]
+  },
+  {
+   "date": "1984-02-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:347285:por",
+     "title": "Declaração",
+     "published": "1984-02-29",
+     "dre_path": "/dr/detalhe/declaracao/1984-347285"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º"
+   ],
+   "fragments": [
+    "890198078",
+    "890198079",
+    "890198098",
+    "890198081",
+    "890198082",
+    "890198083",
+    "890198084",
+    "890198085",
+    "890198086",
+    "890198087",
+    "890198088",
+    "890198089",
+    "890198090",
+    "890198091",
+    "890198092",
+    "890198093",
+    "890198094",
+    "890198095"
+   ]
+  }
+ ],
+ "fragments": {
+  "890198078": {
+   "fragment_id": "890084256",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 7/84/A\n\nNo cumprimento da sua política de apoio à melhoria das condições económico-sociais do pessoal da administração regional o Governo Regional tem apoiado nestes últimos anos os serviços sociais existentes em Angra do Heroísmo e na Horta e, até ao seu encerramento, a OSTRAP, em São Miguel e em Santa Maria.\n\nAquelas entidades, porém, não são associações nem tão-pouco serviços públicos personalizados, havendo, por isso, a necessidade de definir a sua natureza jurídica e estatuto.\n\nEntre as várias hipóteses possíveis, entendeu-se que seria preferível apoiar a de associações de funcionários, em vez de se criarem serviços sociais com a natureza de serviços públicos personalizados.\n\nAssim:\n\nO Governo Regional decreta, nos termos do artigo 229.º, alínea b), da Constituição, o seguinte:\n\n> Nota: [Declaração - Diário da República n.º 51/1984, 2º Suplemento, Série I de 1984-02-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-347285) No sumário, onde se lê «da Administração Pública da Região Autónoma dos Açores» deve ler-se «da Administração Regional Autónoma dos Açores»."
+  },
+  "890198079": {
+   "fragment_id": "890084257",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Âmbito"
+  },
+  "890198080": {
+   "fragment_id": "890084258",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nAs associações sem fins lucrativos de funcionários e agentes da Administração Pública da Região Autónoma dos Açores e dos institutos públicos regionais que prossigam fins sociais e culturais serão apoiadas pelo Governo Regional, nos termos do presente diploma."
+  },
+  "890198081": {
+   "fragment_id": "890084259",
+   "type": 1,
+   "heading": "Capítulo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II"
+  },
+  "890198082": {
+   "fragment_id": "890084260",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza dos apoios\n\n1 - Os apoios a conceder pela Secretaria Regional da Administração Pública poderão ser os seguintes:\n\na) Cedência de imóveis (a título precário);\n\nb) Comparticipação na aquisição, construção, reparação e conservação de imóveis para a instalação e funcionamento da associação;\n\nc) Subsídios para aquisição de material, nomeadamente destinado a refeitórios;\n\nd) Pagamento de salários e encargos sociais dos trabalhadores dos refeitórios;\n\ne) Pagamento das despesas correntes, designadamente as respeitantes a água, luz, combustível, telefone, material de expediente e limpeza.\n\n2 - Os apoios a conceder relativamente às alíneas d) e e) constarão de acordos de cooperação a estabelecer entre a Secretaria Regional da Administração Pública e as associações previstas neste diploma.\n\n3 - A Secretaria Regional dos Assuntos Sociais poderá apoiar técnica e financeiramente o funcionamento de creches ou jardins-de-infância, nos termos de acordo de cooperação a estabelecer."
+  },
+  "890198083": {
+   "fragment_id": "890084261",
+   "type": 1,
+   "heading": "Capítulo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III"
+  },
+  "890198084": {
+   "fragment_id": "890084262",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de apoios\n\nPara a concessão dos apoios referidos no artigo anterior é necessária a verificação das seguintes condições:\n\na) Que os estatutos sejam aprovados pelos Secretários Regionais da Administração Pública e dos Assuntos Sociais, quando se preveja o funcionamento de creches e jardins-de-infância;\n\nb) Que os associados sejam funcionários e agentes da Administração Pública da Região Autónoma dos Açores, no exercício de funções ou na situação de aposentação;\n\nc) Que as áreas de actividade das associações abranjam serviços de cantinas, refeitórios e creches/jardins-de-infância, cumulativa ou alternativamente;\n\nd) Que os preços de venda das refeições aos associados seja o equivalente ao subsídio de refeição constante do Decreto-Lei n.º 305/77, de 29 de Julho, com as alterações subsequentes;\n\ne) Que os preços dos restantes serviços sejam inferiores aos praticados pelos estabelecimentos comerciais da respectiva área."
+  },
+  "890198085": {
+   "fragment_id": "890084263",
+   "type": 1,
+   "heading": "Capítulo IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV"
+  },
+  "890198086": {
+   "fragment_id": "890084264",
+   "type": 11,
+   "heading": "Artigo 4.º — Controle dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Controle dos apoios\n\n1 - Dependerá da Secretaria Regional da Administração Pública:\n\na) A aprovação dos mapas de pessoal das associações;\n\nb) A aprovação do orçamento previsional;\n\nc) A aprovação dos balancetes trimestrais;\n\nd) A aprovação do balanço anual.\n\n2 - A admissão de pessoal para os lugares previstos nos mapas referidos na alínea a) do número anterior depende de parecer prévio da Secretaria Regional da Administração Pública."
+  },
+  "890198087": {
+   "fragment_id": "890084265",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSerão presentes à Secretaria Regional da Administração Pública:\n\na) Os balancetes trimestrais, sendo o primeiro referente ao 1.º trimestre do ano civil;\n\nb) O balanço anual, entre 31 de Março e 30 de Abril;\n\nc) O orçamento previsional, até 30 de Junho;\n\nd) Outros documentos, sempre que solicitados pela Secretaria Regional da Administração Pública."
+  },
+  "890198088": {
+   "fragment_id": "890084266",
+   "type": 11,
+   "heading": "Artigo 6.º — Dotação de verbas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dotação de verbas\n\nAs verbas aprovadas ou a aprovar serão inscritas nos orçamentos das Secretarias Regionais da Administração Pública e dos Assuntos Sociais.\n\n1 - As verbas concedidas a título de subsídio para despesas correntes previstas nas alíneas d) e e) do artigo 2.º do presente diploma serão atribuídas por duodécimos.\n\n2 - As verbas concebidas a título de subsídio para despesas de investimento serão atribuídas de acordo com a sua execução material."
+  },
+  "890198089": {
+   "fragment_id": "890084267",
+   "type": 1,
+   "heading": "Capítulo V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V"
+  },
+  "890198090": {
+   "fragment_id": "890084268",
+   "type": 11,
+   "heading": "Artigo 7.º — Cessação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cessação dos apoios\n\nO não cumprimento dos artigos 3.º, 4.º e 5.º implicará a suspensão da atribuição dos subsídios previstos no artigo 2.º"
+  },
+  "890198091": {
+   "fragment_id": "890084269",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA suspensão reconverte-se em cessação quando, apurados os motivos, tal medida se justifique."
+  },
+  "890198092": {
+   "fragment_id": "890084270",
+   "type": 11,
+   "heading": "Artigo 9.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cooperação\n\nAs associações poderão estabelecer protocolos tendentes à utilização dos seus serviços pelos funcionários e agentes das autarquias locais e serviços periféricos do Estado na Região, mediante prévio acordo da Secretaria Regional da Administração Pública."
+  },
+  "890198093": {
+   "fragment_id": "890084271",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Serviços Sociais de Angra do Heroísmo e da Horta disporão do prazo de 1 ano para se converterem em associações."
+  },
+  "890198094": {
+   "fragment_id": "890084272",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entrará em vigor à data da sua publicação."
+  },
+  "890198098": {
+   "fragment_id": "890084258",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "1984-02-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 51/1984, 2º Suplemento, Série I de 1984-02-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-347285), em vigor a partir de 1984-02-29"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nAs associações sem fins lucrativos de funcionários e agentes da Administração Regional Autónoma dos Açores e dos institutos públicos regionais que prossigam fins sociais e culturais serão apoiadas pelo Governo Regional, nos termos do presente diploma.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 51/1984, 2º Suplemento, Série I de 1984-02-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-347285), em vigor a partir de 1984-02-29"
+  },
+  "890198095": {
+   "fragment_id": "890084273",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 7 de Dezembro de 1983.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Angra do Heroísmo em 20 de Janeiro de 1984.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva."
+  }
+ }
+}

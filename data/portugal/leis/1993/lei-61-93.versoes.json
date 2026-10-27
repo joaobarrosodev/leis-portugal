@@ -1,0 +1,185 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:324486:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1993-945685877",
+ "dre_path": "/dr/detalhe/lei/61-1993-324486",
+ "source_lastmod": "2025-11-11",
+ "versions": [
+  {
+   "date": "1993-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "945686199",
+    "945686200",
+    "945686201",
+    "945686202",
+    "945686203",
+    "945686204",
+    "945686205",
+    "945686206",
+    "945686207",
+    "945686208",
+    "945686209",
+    "945686210",
+    "945686211"
+   ]
+  },
+  {
+   "date": "1993-09-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:661289:por",
+     "title": "Rectificação n.º 11/93",
+     "published": "1993-09-09",
+     "dre_path": "/dr/detalhe/rectificacao/11-1993-661289"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 4.º"
+   ],
+   "fragments": [
+    "945686199",
+    "945686200",
+    "945686201",
+    "945686202",
+    "945686215",
+    "945686204",
+    "945686205",
+    "945686206",
+    "945686207",
+    "945686208",
+    "945686209",
+    "945686210",
+    "945686211",
+    "945686212"
+   ]
+  }
+ ],
+ "fragments": {
+  "945686199": {
+   "fragment_id": "945685878",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 61/93\n\nde 20 de Agosto\n\nAutorização ao Governo para rever o Regime Jurídico das Infracções Fiscais não Aduaneiras, aprovado pelo Decreto-Lei n.º 20-A/90, de 15 de Janeiro.\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea e), 168.º, n.º 1, alíneas b), c), d) e i), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "945686200": {
+   "fragment_id": "945685879",
+   "type": 11,
+   "heading": "Artigo 1.º — Autorização legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Autorização legislativa\n\nÉ concedida ao Governo autorização legislativa para rever o Regime Jurídico das Infracções Fiscais não Aduaneiras, adiante abreviadamente designado por RJIFNA, aprovado pelo Decreto-Lei n.º 20-A/90, de 15 de Janeiro."
+  },
+  "945686201": {
+   "fragment_id": "945685880",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito da autorização legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito da autorização legislativa\n\nNo uso da autorização legislativa concedida pelo artigo 1.º, pode o Governo tipificar diferentemente os ilícitos penais previstos no RJIFNA, definir novas penas, alterar o regime de penas, alterar o regime de arquivamento do processo e isenção de pena e alterar o regime aplicável à responsabilidade por actuação em nome de outrem e à intervenção da administração fiscal constituída assistente."
+  },
+  "945686202": {
+   "fragment_id": "945685881",
+   "type": 11,
+   "heading": "Artigo 3.º — Sentido da autorização legislativa quanto aos novos ilícitos penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sentido da autorização legislativa quanto aos novos ilícitos penais\n\n1 - Pela autorização legislativa referida no artigo 1.º pode o Governo alterar a tipificação do crime de fraude fiscal com os seguintes sentido e extensão:\n\na) Inclusão no crime de fraude fiscal das condutas ilegítimas que visem a não liquidação, entrega ou pagamento do imposto ou a obtenção indevida de benefícios fiscais, reembolsos ou outras vantagens patrimoniais susceptíveis de causar diminuição de receitas tributáveis;\n\nb) A fraude fiscal pode ter lugar por ocultação ou alteração de factos ou valores que devam constar das declarações apresentadas ou prestadas a fim de que a administração fiscal especificamente fiscalize, determine, avalie ou controle a matéria colectável, quer por ocultação de factos ou valores não declarados e que devam ser revelados à administração fiscal e pela celebração de negócio simulado, quer quanto ao valor, quer quanto à natureza, quer por interposição, omissão ou substituição de pessoas;\n\nc) Tem lugar a ocultação de factos ou valores referidos nas alíneas a) e b) quando se verifique qualquer das seguintes circunstâncias: a vantagem patrimonial ilegítima pretendida for superior a 1000 contos para as pessoas singulares e 2000 contos para as pessoas colectivas, o agente for funcionário público e tiver gravemente abusado das suas funções, o agente se tiver socorrido de auxílio de funcionário público com grave abuso das suas funções, o agente se tiver conluiado com terceiros que estejam sujeitos a obrigações acessórias para efeitos de fiscalização tributária, o agente falsificar ou viciar, ocultar, destruir, inutilizar ou recusar entregar, exibir ou apresentar livros e quaisquer outros documentos ou elementos probatórios exigidos pela lei fiscal e o agente tiver usado livros ou quaisquer outros documentos ou elementos probatórios exigidos pela lei fiscal sabendo-os falsificados ou viciados por terceiros.\n\n2 - Pela autorização referida no artigo 1.º pode o Governo alterar a tipificação do crime de abuso de confiança fiscal no sentido da inclusão da apropriação total ou parcial de prestação tributária deduzida nos termos da lei e que o agente esteja legalmente obrigado a entregar ao credor tributário.\n\n3 - Pela autorização referida no artigo 1.º pode o Governo tipificar como crime fiscal a outorga em actos ou contratos que importem a transferência ou oneração de património com os efeitos previstos para o crime de frustração de créditos fiscais, desde que o agente saiba que o imposto já está liquidado ou em processo de liquidação e vise a frustração total ou parcial da sua cobrança.\n\n4 - Pela autorização referida no artigo 1.º pode o Governo alterar a tipificação do crime de segredo fiscal de modo a incluir separadamente a revelação ou aproveitamento sem justa causa e sem consentimento de quem de direito de segredo fiscal de que o agente tenha conhecimento em virtude do exercício das suas funções, se a revelação ou aproveitamento puderem causar prejuízo ao Estado ou a terceiros, e a revelação não devidamente autorizada, por funcionário, de segredo de que teve conhecimento ou lhe foi confiado no exercício das suas funções, com a intenção de obter para si ou para outrem um benefício ilegítimo ou de causar prejuízo de interesse público ou de terceiros."
+  },
+  "945686203": {
+   "fragment_id": "945685882",
+   "type": 11,
+   "heading": "Artigo 4.º — Sentido da autorização legislativa quanto à definição das novas penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sentido da autorização legislativa quanto à definição das novas penas\n\nNos termos da autorização legislativa referida no artigo 1.º, fica o Governo autorizado a definir para os crimes fiscais tipificados no artigo anterior ou constantes do RJIFNA, com carácter exclusivo, as seguintes penas principais:\n\na) Para a fraude fiscal, a prisão até três anos ou multa não inferior ao valor da vantagem patrimonial pretendida, nem superior ao dobro, sem que possa ultrapassar os limites máximos abstractamente estabelecidos, salvo se se verificar a acumulação de mais de um dos tipos de circunstâncias referidos na alínea c) do n.º 1 do artigo anterior, em que a pena aplicável é exclusivamente de prisão de um até cinco anos, ou salvo se a vantagem patrimonial pretendida não for superior a 100000$00, caso em que a pena será de multa até 60 dias;\n\nb) Para o abuso de confiança fiscal, prisão até três anos ou multa não inferior ao valor da prestação tributária em falta nem superior ao dobro sem que possa ultrapassar os limites máximos abstractamente estabelecidos, salvo se se verificar que a não entrega é superior a 5000 contos, em que a pena aplicável é de prisão de um até cinco anos, ou que a não entrega é inferior a 250000$00, caso em que a pena aplicável é de multa até 120 dias;\n\nc) Para a frustração de créditos fiscais, prisão até dois anos ou multa até 240 dias se o agente for pessoa singular ou até 700 dias se o agente for pessoa colectiva ou ente fiscalmente equiparado;\n\nd) Para a outorga em actos ou contratos que importem a transferência ou oneração do património nas circunstâncias referidas no n.º 3 do artigo anterior, prisão até um ano ou multa até 120 dias se for pessoa singular ou até 360 dias se for pessoa colectiva ou ente fiscalmente equiparado;\n\ne) Para a violação de segredo fiscal nas circunstâncias descritas no n.º 5 do artigo anterior, prisão até um ano ou multa até 240 dias ou prisão até três anos ou multa, conforme respectivamente o crime se dê pela revelação ou aproveitamento sem justa causa e sem consentimento de quem de direito de segredo fiscal de que o agente tenha conhecimento em virtude do exercício das suas funções, se a revelação ou aproveitamento puderem causar prejuízo ao Estado ou a terceiros ou pela revelação não devidamente autorizada, por funcionário, de segredo de que teve conhecimento ou lhe foi confiado no exercício das suas funções, com a intenção de obter para si ou para outrem um benefício ilegítimo ou de causar prejuízos de interesse público ou de terceiros."
+  },
+  "945686204": {
+   "fragment_id": "945685883",
+   "type": 11,
+   "heading": "Artigo 5.º — Sentido e extensão da autorização legislativa quanto às penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sentido e extensão da autorização legislativa quanto às penas\n\nPela autorização legislativa referida no artigo 1.º pode o Governo alterar o regime das penas com os seguintes sentido e extensão:\n\na) Aplicação aos crimes fiscais cometidos por pessoas singulares das penas de prisão até cinco anos ou multa, de 10 até 360 dias para as pessoas singulares e de 20 até 1000 dias para as pessoas colectivas;\n\nb) Cada dia de multa corresponde a uma quantia entre 2000$00 e 100000$00, tratando-se de pessoas singulares, e 5000$00 a 500000$00, tratando-se de pessoas colectivas ou entidades fiscalmente equiparadas, que o tribunal fixará em função da situação económica e financeira do condenado e dos seus encargos pessoais;\n\nc) Aplicação em caso de falta de pagamento dentro do prazo legal do disposto nos artigos 47.º do Código Penal, 26.º e 27.º do Decreto-Lei n.º 402/82, de 23 de Setembro, e 488.º e 489.º do Código de Processo Penal;\n\nd) Possibilidade de suspensão da pena de prisão nos termos do Código Penal mas ficando a suspensão sempre condicionada ao pagamento em prazo a fixar pelo juiz, do imposto e acréscimos legais ou do montante dos benefícios indevidamente auferidos, podendo igualmente o juiz também condicionar a suspensão ao pagamento, em prazo a fixar, de quantia até ao limite máximo estabelecido para a pena de multa, sendo aplicável, em caso de falta de cumprimento das condições, apenas o disposto nas alíneas b), c) e d) do artigo 50.º do Código Penal;\n\ne) Introdução da pena acessória da publicação da sentença condenatória, com o regime das demais penas acessórias do n.º 1 do artigo 12.º do RJIFNA, que será aplicada verificados os demais pressupostos previstos no Código Penal e quando o agente for condenado por crime fiscal em prisão efectiva ou em multa superior a 120 dias;\n\nf) Introdução da pena acessória de dissolução da pessoa colectiva em caso de se revelar que esta foi constituída a título exclusivo ou predominante para a prática de crimes fiscais ou tiver, pela prática destes, sido condenada nos últimos três anos pela autoria de dois ou mais desses crimes com pena igual ou superior a 700 dias de multa."
+  },
+  "945686205": {
+   "fragment_id": "945685884",
+   "type": 11,
+   "heading": "Artigo 6.º — Sentido e extensão da autorização legislativa quanto à responsabilidade civil subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sentido e extensão da autorização legislativa quanto à responsabilidade civil subsidiária\n\nAtravés da autorização legislativa referida no artigo 1.º pode o Governo instituir o regime da responsabilidade subsidiária dos administradores e gerentes das empresas e sociedades de responsabilidade limitada, em caso de insuficiência do património para o pagamento das multas ou coimas em que tiverem sido condenadas."
+  },
+  "945686206": {
+   "fragment_id": "945685885",
+   "type": 11,
+   "heading": "Artigo 7.º — Sentido e extensão da autorização legislativa quanto ao arquivamento do processo e redução de pena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sentido e extensão da autorização legislativa quanto ao arquivamento do processo e redução de pena\n\nAtravés da autorização legislativa referida no artigo 1.º fica o Governo autorizado a alterar o regime do arquivamento do processo e redução de pena com os seguintes sentido e extensão:\n\na) Restringir a possibilidade de arquivamento do processo sem aplicação da pena criminal à fase do processo anterior à sua remessa para julgamento, aos casos de crimes fiscais que não sejam exclusivamente puníveis com prisão, à inexistência de forte gravidade da conduta do agente e à satisfação das exigências de prevenção que no caso se façam sentir, ficando o arquivamento pelo Ministério Público condicionado à audiência do assistente e à concordância do juiz de instrução;\n\nb) Possibilidade de, verificados os requisitos referidos na alínea a), a pena ser reduzida para metade se o agente pagar o imposto em dívida e demais acréscimos até à sentença;\n\nc) Possibilidade de, verificados os requisitos da alínea a), a pena ser reduzida em um terço se o agente pagar o imposto em dívida e demais acréscimos em prazo a fixar pelo juiz na sentença;\n\nd) Impossibilidade de a circunstância do arquivamento do processo sem aplicação da pena criminal prejudicar a aplicação das sanções contra-ordenacionais que se mostrarem devidas, devendo o Ministério Público, após o arquivamento, remeter o processo à entidade competente para aplicação da coima."
+  },
+  "945686207": {
+   "fragment_id": "945685886",
+   "type": 11,
+   "heading": "Artigo 8.º — Sentido e extensão da autorização legislativa quanto à constituição da administração fiscal como assistente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sentido e extensão da autorização legislativa quanto à constituição da administração fiscal como assistente\n\nAtravés da autorização legislativa referida no artigo 1.º pode o Governo alterar o regime da constituição da administração fiscal como assistente com os seguintes sentido e extensão:\n\na) Constituição como assistente sem o ónus de declaração no processo;\n\nb) Possibilidade de a representação ser assegurada por advogado ou licenciado em Direito com funções de apoio jurídico que para o efeito for designado;\n\nc) Aplicação do regime de custas e taxa de justiça de que goza o Ministério Público em processo criminal."
+  },
+  "945686208": {
+   "fragment_id": "945685887",
+   "type": 11,
+   "heading": "Artigo 9.º — Lugar da prática da infracção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Lugar da prática da infracção\n\nPor força da autorização legislativa referida no artigo 1.º pode o Governo legislar no sentido de definir a competência para o conhecimento das infracções fiscais em função do domicílio ou sede do agente, quando as obrigações fiscais possam ser cumpridas em qualquer serviço da administração fiscal ou junto de outros organismos."
+  },
+  "945686209": {
+   "fragment_id": "945685888",
+   "type": 11,
+   "heading": "Artigo 10.º — Revogação do artigo 4.º do Decreto-Lei n.º 20-A/90",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revogação do artigo 4.º do Decreto-Lei n.º 20-A/90\n\nPor força da autorização legislativa referida no artigo 1.º fica o Governo autorizado a revogar o artigo 4.º do Decreto-Lei n.º 20-A/90, de 15 de Janeiro."
+  },
+  "945686210": {
+   "fragment_id": "945685889",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime das contra-ordenações\n\nFica o Governo autorizado a alterar o actual regime das contra-ordenações fiscais com os seguintes sentido e extensão:\n\na) Fixação do montante mínimo das coimas em 2000$00;\n\nb) Fixação do montante máximo das coimas em 20000000$00 em caso de dolo e 5000000$00 em caso de negligência, não podendo, em caso de pessoa singular, as coimas aplicáveis ultrapassar a metade daqueles valores;\n\nc) Consagração de novas penas acessórias da privação do direito de participação em arrematações e concursos promovidos por entidades ou serviços públicos, de obras públicas, de fornecimento de bens ou serviços, ou concessão de serviços, licenças ou alvarás e publicação da sentença condenatória;\n\nd) Introdução da responsabilidade solidária, pelo pagamento das coimas, dos titulares dos rendimentos deduzidos, dos adquirentes ou destinatários dos bens ou serviços ou das pessoas que recebam, utilizem ou passem documentos, livros ou papéis sem que tenha sido pago o imposto que sobre eles recaia, desde que dolosamente tenham contribuído para a prática da infracção;\n\ne) Introdução da responsabilidade solidária, pelo pagamento das coimas, de quem dolosamente intervier na declaração do negócio jurídico de que constem factos ou situações diferentes das reais e que devam ser declarados à administração fiscal."
+  },
+  "945686211": {
+   "fragment_id": "945685890",
+   "type": 11,
+   "heading": "Artigo 12.º — Duração da autorização legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Duração da autorização legislativa\n\nA presente autorização legislativa tem a duração de 90 dias contados a partir da sua entrada em vigor."
+  },
+  "945686215": {
+   "fragment_id": "945685882",
+   "type": 11,
+   "heading": "Artigo 4.º — Sentido da autorização legislativa quanto à definição das novas penas",
+   "in_force_from": "1993-09-09",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação n.º 11/93 - Diário da República n.º 212/1993, Série I-A de 1993-09-09](https://diariodarepublica.pt/dr/detalhe/rectificacao/11-1993-661289), em vigor a partir de 1993-09-09"
+   ],
+   "markdown": "###### Artigo 4.º — Sentido da autorização legislativa quanto à definição das novas penas\n\nNos termos da autorização legislativa referida no artigo 1.º, fica o Governo autorizado a definir para os crimes fiscais tipificados no artigo anterior ou constantes do RJIFNA, com carácter exclusivo, as seguintes penas principais:\n\na) Para a fraude fiscal, a prisão até três anos ou multa não inferior ao valor da vantagem patrimonial pretendida, nem superior ao dobro, sem que possa ultrapassar os limites máximos abstractamente estabelecidos, salvo se se verificar a acumulação de mais de um dos tipos de circunstâncias referidos na alínea c) do n.º 1 do artigo anterior, em que a pena aplicável é exclusivamente de prisão de um até cinco anos, ou salvo se a vantagem patrimonial pretendida não for superior a 100000$00, caso em que a pena será de multa até 60 dias;\n\nb) Para o abuso de confiança fiscal, prisão até três anos ou multa não inferior ao valor da prestação tributária em falta nem superior ao dobro sem que possa ultrapassar os limites máximos abstractamente estabelecidos, salvo se se verificar que a não entrega é superior a 5000 contos, em que a pena aplicável é de prisão de um até cinco anos, ou que a não entrega é inferior a 250000$00, caso em que a pena aplicável é de multa até 120 dias;\n\nc) Para a frustração de créditos fiscais, prisão até dois anos ou multa até 240 dias se o agente for pessoa singular ou até 700 dias se o agente for pessoa colectiva ou ente fiscalmente equiparado;\n\nd) Para a outorga em actos ou contratos que importem a transferência ou oneração do património nas circunstâncias referidas no n.º 3 do artigo anterior, prisão até um ano ou multa até 120 dias se for pessoa singular ou até 360 dias se for pessoa colectiva ou ente fiscalmente equiparado;\n\ne) Para a violação de segredo fiscal nas circunstâncias descritas no n.º 4 do artigo anterior, prisão até um ano ou multa até 240 dias ou prisão até três anos ou multa, conforme respectivamente o crime se dê pela revelação ou aproveitamento sem justa causa e sem consentimento de quem de direito de segredo fiscal de que o agente tenha conhecimento em virtude do exercício das suas funções, se a revelação ou aproveitamento puderem causar prejuízo ao Estado ou a terceiros ou pela revelação não devidamente autorizada, por funcionário, de segredo de que teve conhecimento ou lhe foi confiado no exercício das suas funções, com a intenção de obter para si ou para outrem um benefício ilegítimo ou de causar prejuízos de interesse público ou de terceiros.\n\n> Retificado pelo/a [Rectificação n.º 11/93 - Diário da República n.º 212/1993, Série I-A de 1993-09-09](https://diariodarepublica.pt/dr/detalhe/rectificacao/11-1993-661289), em vigor a partir de 1993-09-09"
+  },
+  "945686212": {
+   "fragment_id": "945685891",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 2 de Julho de 1993.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 28 de Julho de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 3 de Agosto de 1993.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  }
+ }
+}

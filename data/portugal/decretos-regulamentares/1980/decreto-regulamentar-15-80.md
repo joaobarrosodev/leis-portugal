@@ -1,0 +1,250 @@
+---
+schema_version: '1.0'
+id: pt:dre:474105:por
+title: Decreto Regulamentar n.º 15/80
+short_title: null
+summary: Define a estrutura orgânica e as atribuições da Comissão de Classificação de Espectáculos
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Presidência do Conselho de Ministros - Secretaria de Estado da Cultura
+proposing_entity: null
+official_number: 15/80
+official_date: null
+publication_date: '1980-05-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/1980, Série I de 1980-05-21
+  number: '117'
+  series: I
+  supplement: null
+  pages: 1093 - 1095
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11700/10931095.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '474105'
+  dre_path: /dr/detalhe/decreto-regulamentar/15-1980-474105
+  internal: pt:dre:474105:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1980-474105
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1980-474105
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:01:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 97da9d7cbbcd0ff99d77190168f1f548cae44057f2e445acc1067ec81dd79c07
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Classificação de Espectáculos
+- Comissão de Classificação de Espectáculos
+- Espetáculos e Divertimentos Públicos
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:599879:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:431005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:471757:por
+  label: Rectificado pela DECL.DD6960.08.07.1980.PCM, DR.IS [155] de 08.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-471757
+  date: '1980-07-08'
+- type: repealed_by
+  target: pt:dre:462058:por
+  label: "Revogado o art. 16º pelo DR.62/80.1980.10.15.PCM, DR.IS [239] de 15.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/62-1980-462058
+  date: '1980-10-15'
+- type: repealed_by
+  target: pt:dre:599879:por
+  label: "Revogado pelo DR.11/82.1982.03.05.MCCC, DR.IS [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-1982-599879
+  date: '1982-03-05'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:01:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 15/80
+
+de 21 de Maio
+
+Com o presente diploma e no sector a que se aplica pretende-se, no seguimento das medidas administrativas e orgânicas previstas no [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, completar com uma regulamentação adequada a reestruturação da Secretaria de Estado da Cultura.
+
+A Comissão de Classificação de Espectáculos concorre de uma forma decisiva para a preservação de valores culturais, educativos e sociais de grande importância, através da classificação etária e qualitativa dos espectáculos.
+
+Neste sentido, na referida Comissão tomam assento personalidades de algum modo representativas do fenómeno do espectáculo e das suas implicações na sociedade contemporânea.
+
+A estrutura, funcionamento e dependência orgânica da Comissão de Classificação de Espectáculos permitirão que a sua actividade seja independente e rigorosa segundo a lei e os critérios que a própria Comissão vier a estabelecer.
+
+Assim:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+Artigo 1.º A Comissão de Classificação de Espectáculos, adiante designada por Comissão, tem como atribuições classificar os espectáculos nos termos estabelecidos na legislação em vigor.
+
+Art. 2.º Compete à Comissão:
+
+a) A classificação etária dos espectáculos;
+
+b) A classificação qualitativa dos espectáculos;
+
+c) A sua classificação em pornográficos e não pornográficos e aqueles em escalões;
+
+d) Dar parecer sobre legislação relativa à classificação de espectáculos.
+
+Art. 3.º A Comissão é composta por um presidente, dois vice-presidentes e até quarenta e três vogais.
+
+Art. 4.º - 1 - Os membros da Comissão são designados da seguinte forma:
+
+a) O presidente, um vice-presidente e até nove vogais, pela Secretaria de Estado da Cultura;
+
+b) Dois vogais, pelo Ministério da Administração Interna;
+
+c) Três vogais, pelo Ministério da Justiça;
+
+d) Dois vogais, pelo Ministério dos Negócios Estrangeiros;
+
+e) Cinco vogais, pelo Ministério da Educação e Ciência;
+
+f) Três vogais, pelo Ministério dos Assuntos Sociais;
+
+g) Três vogais, pela Secretaria de Estado da Comunicação Social;
+
+h) Até catorze vogais cooptados pelos membros designados nas alíneas anteriores, de acordo com a votação segundo o sistema de maioria qualificada de dois terços, de entre pedagogos, psicólogos, psiquiatras, jornalistas e sociólogos e outros profissionais de reconhecida competência cujos sectores de actividade sejam reputados de interesse para o bom funcionamento da Comissão;
+
+i) Dois representantes da Associação Portuguesa de Empresas Cinematográficas.
+
+2 - O segundo vice-presidente é eleito de entre a totalidade dos membros referidos no número anterior.
+
+Art. 5.º Os membros da Comissão são nomeados por períodos de dois anos, renováveis, por despacho do membro do Governo que tiver a seu cargo a área da cultura, a publicar no Diário da República, onde se mencionará a forma de designação.
+
+Art. 6.º A Comissão funciona em grupos de classificação etários, grupos especiais para a classificação de pornografia e de qualidade, subcomissão de recurso e sessão plenária.
+
+Art. 7.º - 1 - Os grupos de classificação são constituídos por quatro a dez vogais, consoante as necessidades de serviço e a especialização da classificação a atribuir.
+
+2 - A subcomissão de recurso é constituída pelo presidente, vice-presidente e quatro vogais da Comissão, a saber, um dos vogais designado pela Secretaria de Estado da Cultura, um dos vogais designado pelo Ministério da Educação e Ciência, um dos vogais designado nos termos da alínea h) do n.º 1 do artigo 4.º do presente diploma e um dos vogais representante da Associação Portuguesa de Empresas Cinematográficas.
+
+3 - A sessão plenária é constituída por todos os membros da Comissão.
+
+Art. 8.º Aos grupos de classificação compete classificar os espectáculos segundo a lei e os critérios de classificação superiormente aprovados.
+
+Art. 9.º À subcomissão de recurso compete apreciar os recursos interpostos das deliberações dos grupos de classificação, mantendo ou alterando a classificação atribuída ao espectáculo.
+
+Art. 10.º - 1 - À sessão plenária compete:
+
+a) Formular orientações ou directivas para a classificação dos espectáculos;
+
+b) Acompanhar as classificações atribuídas pelos grupos de classificação;
+
+c) Aprovar o relatório anual das actividades da Comissão;
+
+d) Dar parecer sobre a regulamentação interna da Comissão;
+
+e) Pronunciar-se acerca da revisão da legislação sobre a classificação de espectáculos;
+
+f) Pronunciar-se sobre a manutenção ou alteração da classificação a atribuir a um espectáculo quando consultada nos termos do artigo 13.º ou da alínea j) do artigo 11.º
+
+2 - A sessão plenária reúne trimestralmente e sempre que convocada pelo presidente da Comissão.
+
+Art. 11.º Compete ao presidente da Comissão:
+
+a) Superintender na actividade da Comissão;
+
+b) Representar a Comissão;
+
+c) Convocar e presidir à sessão plenária e à subcomissão de recurso;
+
+d) Presidir facultativamente aos grupos de classificação;
+
+e) Designar os vice-presidentes e vogais que constituirão os grupos de classificação;
+
+f) Elaborar a regulamentação interna da Comissão;
+
+g) Propor critérios para a classificação de espectáculos;
+
+h) Elaborar o relatório anual da actividade da Comissão;
+
+i) Designar o vice-presidente que o substituirá nas suas ausências e impedimentos;
+
+j) Propor à subcomissão de recurso ou à sessão plenária a alteração de classificação de um espectáculo;
+
+k) Propor a criação de grupos de trabalho para elaboração dos pareceres ou propostas sobre assuntos de funcionamento interno ou outros de interesse da Comissão.
+
+Art. 12.º - 1 - Das deliberações dos grupos de classificação cabe recurso para a subcomissão de recurso a interpor:
+
+a) Pelo exibidor, distribuidor ou produtor do espectáculo, no prazo de dez dias a contar da notificação da deliberação do grupo de classificação;
+
+b) Por dois vogais que não tenham votado a classificação.
+
+2 - As deliberações da subcomissão de recurso devem ser fundamentadas.
+
+Art. 13.º - 1 - Das deliberações da subcomissão de recurso cabe recurso para o membro do Governo que tiver a seu cargo a área da cultura, que decidirá depois de ouvida a Comissão reunida em sessão plenária.
+
+2 - O recurso pode ser interposto pelo exibidor, distribuidor ou produtor do espectáculo no prazo de vinte dias a contar da notificação da deliberação da subcomissão de recurso.
+
+3 - A estreia do espectáculo no decurso do prazo referido no número anterior equivale à aceitação da deliberação da subcomissão de recurso.
+
+Art. 14.º As deliberações da sessão plenária, dos grupos de classificação e da subcomissão de recurso serão reduzidas a acta.
+
+Art. 15.º A regulamentação interna da Comissão e os critérios de classificação serão aprovados pelo membro do Governo que tiver a seu cargo a área da cultura.
+
+Art. 16.º Os membros da Comissão terão direito a senhas de presença, a abonar nos termos da lei geral.
+
+Art. 17.º A Comissão será apoiada administrativamente pela Direcção-Geral dos Serviços Centrais.
+
+Art. 18.º É revogada a [Portaria n.º 467/76](https://diariodarepublica.pt/dr/detalhe/portaria/467-1976-431005), de 31 de Julho.
+
+Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
+
+Promulgado em 9 de Maio de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -1,0 +1,213 @@
+---
+schema_version: '1.0'
+id: pt:dre:619168:por
+title: Decreto-Lei n.º 259/89
+short_title: null
+summary: Cria o Fundo de Estabilização Financeira da Segurança Social
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 259/89
+official_date: null
+publication_date: '1989-08-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 186/1989, Série I de 1989-08-14
+  number: '186'
+  series: I
+  supplement: null
+  pages: 3277 - 3279
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18600/32773279.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '619168'
+  dre_path: /dr/detalhe/decreto-lei/259-1989-619168
+  internal: pt:dre:619168:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1989-619168
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1989-619168
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:51:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 61c2ad7a16dcb47d9a0d0ae4c23545a1b5afa5db922675af48e0c73859bf14e4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento da Segurança Social
+- Fundo de Estabilização Financeira da Segurança Social
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:563417:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:563417:por
+  label: "Revogado pelo DEC LEI.399/90.13.12.1990.MESS, DR.IS [286] de 13.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/399-1990-563417
+  date: '1990-12-13'
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:51:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 259/89
+
+de 14 de Agosto
+
+O sistema da Segurança Social funciona actualmente em regime financeiro de distribuição, o que significa que as despesas com prestações a favor de gerações mais antigas são suportadas pelas contribuições das gerações mais novas. Este aspecto, conjugado com a evolução demográfica do País, traduzida no progressivo envelhecimento da população, tem determinado uma pressão constante sobre os encargos da Segurança Social.
+
+Face a estas dificuldades estruturais do sistema, impõe-se a adopção de medidas que possam introduzir maior flexibilidade, no sentido de se adoptarem formas mistas de financiamento da Segurança Social, em que se combinem modalidades de capitalização com o actual sistema distributivo. Assim, visando a estabilização financeira do sistema de segurança social e a instituição de uma garantia complementar de maior solidez, é criado o Fundo de Estabilização Financeira da Segurança Social.
+
+O Fundo será constituído por um património inicial - capital do Fundo -, cujo valor resultará do montante a transferir do Orçamento do Estado para 1989, em especial receitas fiscais de transição para o novo sistema tributário do IRS, assim como dos bens patrimoniais a transferir das instituições de segurança social.
+
+O Fundo de Estabilização Financeira da Segurança Social funcionará em regime de capitalização, com intervenção nos mercados monetário e financeiro, através do Fundo de Regularização da Dívida Pública, constituindo receitas próprias os rendimentos das aplicações financeiras e uma parte dos eventuais saldos de execução orçamental da Segurança Social.
+
+Um dos objectivos que o Fundo de Estabilização Financeira da Segurança Social deverá prosseguir será o apoio à compra de habitação através de empréstimos intercalares, exclusivamente destinados a titulares de conta poupança-habitação, cujo regime legal deverá ser reajustado em conformidade.
+
+De igual modo, sendo o Fundo um facto de garantia e de estabilização, os seus valores destinam-se a gerar rendimentos, que, na sua maioria, constituirão reservas financeiras.
+
+Por outro lado, os objectivos deste Fundo correspondem a preocupações e iniciativas análogas em matéria de financiamento da Segurança Social no âmbito das Comunidades Europeias.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Criação, natureza e sede
+
+1 - É criado, com sede no Porto, o Fundo de Estabilização Financeira da Segurança Social, designado abreviadamente por FEFSS, o qual goza de personalidade jurídica e autonomia administrativa e financeira, sendo os seus órgãos e objecto definidos nos termos dos artigos seguintes.
+
+2 - O FEFSS é tutelado pelo Ministro do Emprego e da Segurança Social.
+
+###### Artigo 2.º — Objecto
+
+O FEFSS fica afecto à estabilização estrutural do regime financeiro do sistema de segurança social.
+
+###### Artigo 3.º — Órgãos de gestão e fiscalização
+
+1 - O FEFSS é gerido por um presidente.
+
+2 - O presidente é nomeado por despacho conjunto dos Ministros das Finanças e do Emprego e da Segurança Social, que fixará o valor da respectiva remuneração.
+
+3 - As funções de fiscalização do FEFSS são exercidas por um auditor, designado pelo Ministro das Finanças.
+
+4 - Os direitos e obrigações inerentes ao cargo de presidente, bem como as funções de fiscalização cometidas ao auditor, serão definidos, no prazo de 90 dias, em diploma regulamentar.
+
+###### Artigo 4.º — Património inicial
+
+1 - Constituem capital do FEFSS:
+
+a) As receitas atribuídas nos termos do artigo 46.º da [Lei n.º 114/88](https://diariodarepublica.pt/dr/detalhe/lei/114-1988-401882), de 30 de Dezembro;
+
+b) Os valores patrimoniais, mobiliários e imobiliários, susceptíveis de capitalização, a transferir das instituições de segurança social.
+
+2 - A transferência a que se refere a alínea b) do número anterior será regulada por despacho do Ministro do Emprego e da Segurança Social.
+
+###### Artigo 5.º — Activo e despesas do Fundo
+
+1 - O activo do FEFSS é representado por valores de natureza vária, designadamente:
+
+a) Títulos de dívida pública ou outros garantidos pelo Estado;
+
+b) Obrigações, Títulos de participação ou outros Títulos negociáveis de dívida, incluindo as obrigações de caixa;
+
+c) Acções de sociedades cotadas nas bolsas de valores;
+
+d) Unidades de participação em fundos de investimento mobiliários ou imobiliários;
+
+e) Imóveis que não se destinem a utilização própria do Fundo;
+
+f) Depósitos à ordem ou a prazo;
+
+g) Créditos concedidos para habitação, a título intercalar, no quadro das contas poupança-habitação.
+
+2 - A composição do activo poderá ser regulamentada por portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social.
+
+3 - Quaisquer acções a financiar pelo FEFSS devem ser aprovadas em Conselho de Ministros, por proposta conjunta dos Ministros das Finanças e do Emprego e da Segurança Social.
+
+###### Artigo 6.º — Receitas do Fundo
+
+1 - Constituem receitas do FEFSS:
+
+a) Os rendimentos das aplicações que integrem o seu património;
+
+b) O produto de alienação e do reembolso de valores do seu património;
+
+c) A parte dos saldos de execução orçamental da Segurança Social que anualmente for definida por despacho conjunto dos Ministros das Finanças e do Emprego e da Segurança Social;
+
+d) Doações, legados e heranças;
+
+e) Outras receitas.
+
+2 - O FEFSS não pode contrair empréstimos.
+
+###### Artigo 7.º — Constituição de reserva
+
+1 - Os rendimentos das aplicações que integrem o património do FEFSS, a que se refere a alínea a) do artigo 6.º, depois de deduzidas as despesas de administração, destinam-se à constituição da reserva legal e da reserva especial de capitalização.
+
+2 - A reserva especial de capitalização será definida por despacho conjunto dos Ministros das Finanças e do Emprego e da Segurança Social.
+
+###### Artigo 8.º — Plano de contas
+
+Será elaborado um plano de contas próprio que permita a escrituração das operações realizadas pelo Fundo e que identifique claramente a sua estrutura patrimonial e funcionamento.
+
+###### Artigo 9.º — Orçamento
+
+O orçamento anual do FEFSS integra o Orçamento do Estado e constitui anexo do orçamento da Segurança Social.
+
+Visto e aprovado em Conselho de Ministros de 8 de Junho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
+
+Promulgado em 28 de Julho de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 3 de Agosto de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

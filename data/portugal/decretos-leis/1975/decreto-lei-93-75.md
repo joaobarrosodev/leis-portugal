@@ -1,0 +1,284 @@
+---
+schema_version: '1.0'
+id: pt:dre:175372:por
+title: Decreto-Lei n.º 93/75
+short_title: null
+summary: Revoga a competência transitoriamente delegada no Gabinete da Área de Sines, nos termos e com o âmbito do disposto
+  no artigo 40.º do Decreto-Lei n.º 270/71, de 19 de Junho, em determinadas áreas compreendidas dentro dos perímetros dos
+  aglomerados urbanos de Sines, Porto Covo e Sonega, do concelho de Sines, e Santiago do Cacém e Sonega, do concelho de Santiago
+  do Cacém, assim como nas áreas desses concelhos não abrangidas pela declaração de expropriação sistemática, publicada no
+  Diário do Governo, 2.ª série, de 12 de Julho de 1973
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 93/75
+official_date: null
+publication_date: '1975-02-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 50/1975, 1º Suplemento, Série I de 1975-02-28
+  number: '50'
+  series: I
+  supplement: 1º Suplemento
+  pages: 322-(1) a 322-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/02/05001/00010003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-06-03'
+version_history:
+  file: decreto-lei-93-75.versoes.json
+  count: 4
+  source_lastmod: '2025-05-26'
+  versions:
+  - date: '1975-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-03-15'
+    amending: pt:dre:161100:por
+    amending_title: Rectificação
+    changes:
+    - Adita Anexo
+  - date: '1977-11-10'
+    amending: pt:dre:277975:por
+    amending_title: Decreto-Lei n.º 458/77
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+  - date: '2019-06-03'
+    amending: pt:dre:122434535:por
+    amending_title: Lei n.º 36/2019
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/93/1975/p/cons/20190529/pt/html
+  oj: null
+  dre: '175372'
+  dre_path: /dr/detalhe/decreto-lei/93-1975-175372
+  internal: pt:dre:175372:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1975-175372
+  metadata_url: https://data.dre.pt/eli/dec-lei/93/1975/p/cons/20190529/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1975-177847603
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1975-177847603
+  retrieved_at: '2026-10-22T13:26:33Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-05-26T00:00:00Z'
+integrity:
+  source_sha256: 9b52e3e7a3d015bc51a81fab033fe41348fb162491b1e10a112af283bd214663
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:26:33Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-93-75.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Expropriação
+- Gabinete da Área de Sines
+- Sines
+relationships:
+- type: amended_by
+  target: pt:dre:161100:por
+  label: Adita Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-161100
+  date: '1975-03-15'
+- type: amended_by
+  target: pt:dre:277975:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1977-277975
+  date: '1977-11-05'
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535
+  date: '2019-05-29'
+article_structure:
+  article_count: 11
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:26:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 93/75
+
+Decreto-Lei n.º 93/75
+
+de 28 de Fevereiro
+
+1. O Decreto-Lei n.º 270/71, de 19 de Junho, que criou o Gabinete da Área de Sines, consagrou nos seus artigos 39.º e 40.º a delegação transitória no Gabinete da competência das câmaras municipais dos concelhos abrangidos pela sua zona de actuação directa, no que se refere à mesma zona, em matérias de urbanização e de licenciamento de obras e aprovação dos respectivos projectos. A posterior revogação do artigo 39.º veio criar algumas ambiguidades na situação que importa agora clarificar completamente. Por outro lado, a necessidade de conferir a indispensável participação às autarquias locais na defesa dos legítimos interesses das populações, dentro do programa de democratização em curso, torna indispensável a revogação daquelas disposições, tomando-se, no entanto, as medidas que permitam salvaguardar os interesses nacionais e regionais, que são dominantes num projecto como o de Sines.
+
+2. Assim, definem-se concretamente os perímetros dos aglomerados urbanos existentes dentro dos quais as câmaras municipais poderão retomar as suas funções de licenciamento e fiscalização de obras particulares dentro das regras que neste diploma se definem, bem como as áreas agrícolas em que retomam a actuação, com os condicionamentos necessários para evitar a adulteração dos objectivos nacionais a atingir.
+
+Assim, todas as áreas agrícolas exteriores ao perímetro de actuação directa do Gabinete da Área de Sines, legalmente definido como de expropriação sistemática, continuarão, em princípio, com esse carácter de exploração agrícola, pecuária ou florestal, não lhes podendo ser dada qualquer utilização urbanística.
+
+Toda a restante zona de actuação directa do Gabinete da Área de Sines continua sujeita ao já estabelecido no plano geral para o prosseguimento da realização do complexo urbano-industrial a seu cargo.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+## Anexo
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+> Aditado pelo/a [Rectificação - Diário do Governo n.º 63/1975, Série I de 1975-03-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-161100), em vigor a partir de 1975-03-15
+
+###### Artigo 1.º
+
+É revogada a competência transitoriamente delegada no Gabinete da Área de Sines, nos termos e com o âmbito do disposto no artigo 40.º do Decreto-Lei n.º 270/71, de 19 de Junho, nas áreas compreendidas dentro dos perímetros dos aglomerados urbanos de Sines, Porto Covo e Sonega, no concelho de Sines, e Santiago do Cacém e Sonega, do concelho de Santiago do Cacém, adiante delimitados, assim como nas áreas desses concelhos não abrangidas pela declaração de expropriação sistemática, definida pelo Conselho de Ministros restrito, publicada no Diário do Governo, 2.ª série, n.º 162, de 12 de Julho de 1973.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+###### Artigo 2.º
+
+Continua delegada no Gabinete da Área de Sines a competência em matéria de licenciamento e fiscalização de obras particulares mencionada no artigo 1.º, em relação à área delimitada como sujeita a expropriação sistemática referida no mesmo artigo.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+###### Artigo 3.º
+
+- 1. Para além do condicionalismo estabelecido no Plano Geral da Área de Sines, aprovado pelo Conselho de Ministros para os Assuntos Económicos, qualquer modificação dos planos de urbanização desses aglomerados urbanos fica sujeita aos licenciamentos legalmente estatuídos e a parecer meramente consultivo do Gabinete da Área de Sines, a solicitar pela Direcção-Geral dos Serviços de Urbanização.
+
+2. Fica além disso sujeita a aprovação do Gabinete da Área de Sines a instalação nesses perímetros urbanos de instalações industriais.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+###### Artigo 4.º
+
+O perímetro urbano do aglomerado urbano de Sines é o compreendido nos limites a seguir indicados e referenciados na planta anexa.
+
+Limites:
+
+Norte - linha partindo de um ponto situado no prolongamento S. E.-N. W. da Estrada dos Estaleiros e no limite de segurança sul dos oleodutos ao longo do qual segue até um ponto situado na perpendicular dos oleodutos em direcção ao arruamento 5 do Bairro das Índias, seguindo a citada perpendicular até à Estrada dos Estaleiros, continuando ao longo desta até ao entroncamento com a Estrada da Floresta e inflectindo daqui para um ponto 30 m a nascente do eixo da estrada da Costa Norte e 170 m a norte da plataforma da Estrada dos Estaleiros, seguindo paralelamente e a esta última distância até um ponto a 50 m da plataforma da via n.º R-52, continuando paralela a esta via e distância também à plataforma da Estrada da Ribeira dos Moinhos até um ponto situado 40 m a norte da via férrea, por onde segue paralela até um ponto situado 50 m a nascente da plataforma da Estrada da Ribeira dos Moinhos, continuando paralela a esta via e distância e também à plataforma da via n.º R-52 até encontrar o limite nascente da Baixa de S. Pedro.
+
+Nascente - linha ao longo do limite nascente da Baixa de S. Pedro, partindo de um ponto situado 50 m a sul da plataforma da via n.º R-52 até um ponto situado a 20 m do caminho de acesso quando este se encontra na direcção S. E.-N. W., continuando paralela àquela distância até encontrar a estrada nacional n.º 261-3, ao longo da qual segue até ao arruamento projectado entre a nova zona de expansão e a zona da indústria ligeira, continuando por aquele durante 340 m, donde inflecte rectilineamente até um ponto situado no eixo da estrada nacional n.º 120-1, a 440 m do limite do I. O. S., seguindo esta estrada até um ponto situado a 210 m daquele limite, inflectindo então, perpendicularmente à estrada nacional n.º 120-1, para sul durante 140 m e daqui rectilineamente até um ponto a 160 m do limite do I. O. S. (ponto na estrada nacional n.º 120-1 já considerado) e na Azinhaga de S. Sebastião, seguindo-a até ao largo do mesmo nome, donde segue perpendicularmente à via n.º R-53 até a encontrar.
+
+Sul - linha que margina imediatamente a norte a via n.º R-53, entre o ponto situado na perpendicular que passa pelo Largo de S. Sebastião e um ponto situado noutra perpendicular que contém também um ponto 50 m a poente do Largo da Senhora das Salvas e situado no eixo da Rua do Forte.
+
+Poente - linha definida pela perpendicular à via n.º R-53 que passa por um ponto 50 m a poente do Largo da Senhora das Salvas e situado no eixo da Rua do Forte, segue-o até encontrar o prolongamento das traseiras dos edifícios com fachada N. E. do Largo da Senhora das Salvas, segue o citado prolongamento, contorna as traseiras dos prédios de fachada S. E. do mesmo largo, continuando depois pela Estrada aos Estaleiros e seu prolongamento S. E.-N. W. até encontrar o limite de segurança sul dos oleodutos.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 458/77 - Diário da República n.º 256/1977, Série I de 1977-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1977-277975), em vigor a partir de 1977-11-10
+
+###### Artigo 5.º
+
+O perímetro urbano do aglomerado urbano de Porto Covo é o compreendido nos limites a seguir indicados e referenciados na planta anexa.
+
+Limites:
+
+Norte - linha partindo do limite norte das moradias turísticas, definido pela linha de água, rectilineamente até um ponto distante 90 m para norte do eixo da estrada municipal n.º 554 e situado no prolongamento do limite nascente da escola.
+
+Nascente - linha unindo dois pontos, distando 90 m para norte e sul do eixo da estrada municipal n.º 554 e que passa pelo limite nascente da escola.
+
+Sul - linha partindo de um ponto distante 90 m a sul do eixo da estrada municipal n.º 554, continuando paralela àquela distância para poente, depois seguindo a paralela a 40 m das traseiras dos prédios a sul da Rua de Cândido da Silva, em seguida acompanhando a encosta junto ao porto de pesca até à Travessa de Vasco da Gama.
+
+Poente - linha partindo da Travessa de Vasco da Gama e correspondente à faixa do domínio marítimo, a qual se passa a delimitar do seguinte modo, acompanha os limites sul e poente da parcela 1 do prédio rústico inscrito na matriz cadastral de Sines sob o artigo 32 da secção EE até ao eixo da Rua de Vasco da Gama, acompanha-o para poente, donde inflecte perpendicularmente para norte durante 50 m até encontrar um ponto distante 120 m a poente do caminho de acesso às moradias turísticas, permanecendo paralela a este acesso e distância, acompanhando depois o limite poente das moradias turísticas, ou dos seus logradouros, até encontrar a linha de água que as limita imediatamente a norte.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 458/77 - Diário da República n.º 256/1977, Série I de 1977-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1977-277975), em vigor a partir de 1977-11-10
+
+###### Artigo 6.º
+
+O perímetro urbano do aglomerado urbano de Santiago do Cacém é o compreendido nos limites a seguir indicados e referenciados na planta anexa.
+
+Limites:
+
+Norte - linha que passa pela linha de água a norte do Bairro de S. Vicente de Paula, no Vale de Pouca Terra, desde a sua intersecção com a linha de caminho de ferro do ramal de Sines, até à sua nascente, na estrada municipal de Santa Cruz, continuando até ao caminho das Cumeadas, por onde segue até a um caminho de direcção W.-E. entroncando na estrada nacional n.º 120.
+
+Nascente - linha, desde o ponto anteriormente encontrado, ao longo da estrada nacional n.º 120 até um ponto distando 70 m para nascente da intersecção com o eixo do caminho das Cumeadas, seguindo depois paralelamente à estrada municipal n.º 9 (estrada de Miróbriga) até à sua intersecção com uma linha paralela ao eixo da Rua do 1.º de Dezembro e distante desta 50 m para sul, por onde segue até um ponto 50 m a nascente do eixo da Rua de Ramos da Costa, continuando paralela a essa distância à via até ao ponto de encontro com a linha de água de direcção S. E.-N. W. seguindo até um ponto 50 m a nascente da estrada nacional n.º 120, continuando para sul paralelamente ao eixo desta estrada e à distância referida até um ponto 100 m para norte da estrada projectada Sines-Aljustrel.
+
+Sul - linha a partir de um ponto 100 m para norte da estrada projectada Sines-Aljustrel e 50 m para nascente do eixo da estrada nacional n.º 120-1, seguindo paralela à referida estrada projectada até um ponto 50 m a noroeste do eixo da estrada nacional n.º 261-3.
+
+Poente - linha paralela ao eixo da estrada nacional n.º 261-3, distando 50 m para noroeste e partindo de um ponto na continuação da estrada projectada Sines-Aljustrel paralelamente 100 m, para norte, até a paralela ao eixo da estrada municipal n.º 549, à distância de 50 m, por onde segue até encontrar a linha de água de sentido W.-E. imediatamente a norte da Fábrica Portugal e Colónias, continuando por aquela até à sua intersecção com a via férrea do ramal de Sines, seguindo-a depois até encontrar a intersecção com a linha de água do Vale de Pouca Terra.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 458/77 - Diário da República n.º 256/1977, Série I de 1977-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1977-277975), em vigor a partir de 1977-11-10
+
+###### Artigo 7.º
+
+O perímetro do aglomerado urbano da Sonega é o compreendido nos limites a seguir indicados e referenciados na planta anexa.
+
+Limites:
+
+Poente - por uma linha perpendicular à estrada nacional n.º 120-1, distando 100 m para ocidente do Caminho de Vale de Chiqueiros, que segue contornando o prédio rústico inscrito sob o artigo 83 até ao cruzamento com o referido caminho.
+
+Sul - pela linha paralela distando 60 m para ocidente da estrada nacional n.º 120-1 até ao limite sul da escola.
+
+Nascente - pela linha perpendicular à estrada nacional n.º 120-1 que contorna o limite sul da escola e os prédios fronteiros a ela, seguindo paralela à referida estrada, distando 40 m para nascente do seu eixo, e pelo limite leste das ditas casas de José Brás, seguindo finalmente paralela ao Caminho de Branquinho, distando 30 m para nascente do seu eixo, até às ditas casas de José Venâncio.
+
+Norte - pela linha perpendicular ao Caminho de Branquinho, contornando o limite norte do Campo da Feira e os prédios envolventes da Rua do Moinho, segundo uma paralela a esta distando 40 m para norte do seu eixo.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+###### Artigo 8.º
+
+Os perímetros urbanos definidos nos artigos 4.º a 7.º serão obrigatoriamente revistos e ampliados no prazo máximo de noventa dias, a contar da data da publicação do presente decreto.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+###### Artigo 9.º
+
+Fora das áreas dos perímetros urbanos definidos nos artigos anteriores e das abrangidas pela declaração de expropriação sistemática referida no artigo 1.º, só poderão ser licenciadas pelas câmaras municipais construções ligeiras ligadas a exploração agrícola ou pecuária, desde que a propriedade onde se localizem tenha uma área igual ou superior à área mínima de cultura legalmente definida para essa zona.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+###### Artigo 10.º
+
+- 1. Fica proibida na zona de actuação directa do G. A. S. e em toda a restante parte do concelho de Santiago do Cacém nela não compreendida a venda de qualquer parcela de terreno pertencente ao Estado, autarquias locais ou serviços autónomos.
+
+2. Para efeito do disposto no número anterior, considera-se como parcela de terreno mesmo a que nela tenha incorporado prédio urbano ou sirva de logradouro.
+
+3. Ficam as entidades referidas no n.º 1, e dentro da área nele demarcada, autorizadas a contratar, mediante simples ajuste directo, a constituição de direitos de superfície relativamente aos terrenos que lhe pertençam, nos termos do disposto no Decreto-Lei n.º 120/73, de 23 de Março, e na Portaria n.º 434/73, de 23 de Junho, com as necessárias adaptações.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+###### Artigo 11.º
+
+Este diploma entra imediatamente em vigor.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Victor Manuel Rodrigues Alves.
+
+Promulgado em 24 de Fevereiro de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03

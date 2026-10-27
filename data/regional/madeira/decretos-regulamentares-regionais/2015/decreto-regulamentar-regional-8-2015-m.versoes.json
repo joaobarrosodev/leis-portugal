@@ -1,0 +1,426 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:69951100:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2015-159304278",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/8-2015-69951100",
+ "source_lastmod": "2025-08-13",
+ "versions": [
+  {
+   "date": "2015-08-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "159303955",
+    "159303956",
+    "159303957",
+    "159303958",
+    "159303959",
+    "159303960",
+    "159303961",
+    "159303962",
+    "159303963",
+    "159303964",
+    "159303965",
+    "159303966",
+    "159303967",
+    "159303968",
+    "159303969",
+    "159303970",
+    "159303971",
+    "159303972",
+    "159303973",
+    "159303974",
+    "159305075",
+    "159305076",
+    "159305077",
+    "159305078",
+    "159305079",
+    "159305080",
+    "159305081",
+    "159305082",
+    "159305083",
+    "159305084",
+    "159305085",
+    "159305087",
+    "159305088",
+    "159305089"
+   ]
+  },
+  {
+   "date": "2017-12-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114344783:por",
+     "title": "Decreto Regulamentar Regional n.º 14/2017/M",
+     "published": "2017-12-13",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "159303955",
+    "159303956",
+    "159303957",
+    "159303958",
+    "159303959",
+    "159303960",
+    "159303961",
+    "928801553",
+    "159303963",
+    "159303964",
+    "928801554",
+    "159303966",
+    "159303967",
+    "159303968",
+    "159303969",
+    "159303970",
+    "159303971",
+    "928801555",
+    "159303973",
+    "159303974",
+    "159305075",
+    "159305076",
+    "159305077",
+    "159305078",
+    "159305079",
+    "159305080",
+    "159305081",
+    "159305082",
+    "159305083",
+    "159305084",
+    "159305085",
+    "159305086",
+    "159305087",
+    "928801556",
+    "159305089"
+   ]
+  }
+ ],
+ "fragments": {
+  "159303955": {
+   "fragment_id": "159304279",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 8/2015/M\n\nAprova a orgânica da Secretaria Regional do Ambiente e Recursos Naturais\n\nO Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, estabeleceu a estrutura orgânica do XII Governo Regional da Madeira, criando a Secretaria Regional do Ambiente e Recursos Naturais, enquanto departamento do Governo Regional com competência nos setores da água, do ambiente, da conservação da natureza, das florestas, da informação geográfica, cartográfica e cadastral, do litoral, do mar, do ordenamento do território, do parque natural, do saneamento básico e do urbanismo.\n\nDe entre as alterações com maior impacto realçamos a sucessão na então existente Secretaria Regional do Ambiente e dos Recursos Naturais, cuja orgânica foi aprovada pelo Decreto Regulamentar Regional n.º 2/2012/M, de 13 de março, e posteriormente alterada e republicada pelo Decreto Regulamentar Regional n.º 20/2012/M, de 22 de agosto, de duas secretarias regionais: a Secretaria Regional do Ambiente e Recursos Naturais e a Secretaria Regional de Agricultura e Pescas.\n\nEm consequência, torna-se premente criar as bases da orgânica da Secretaria Regional do Ambiente e Recursos Naturais adequando-a a esta nova realidade, assente na prossecução do interesse público e na promoção de uma administração pública baseada no trinómio economia, eficiência e eficácia.\n\nNesse sentido e em cumprimento do Programa do XII Governo Regional da Madeira, merece especial realce a criação de um novo modelo de gestão que permita a articulação e a implementação das medidas definidas para o ambiente e conservação da natureza, assente na criação do Instituto das Florestas e Conservação da Natureza, IP-RAM (IFCN,IP-RAM), estrutura aglutinadora da gestão integrada da paisagem, da floresta e dos espaços naturais da Madeira, Porto Santo, Desertas e Selvagens.\n\nA entidade a criar resulta da fusão do Serviço do Parque Natural da Madeira, dotado de autonomia administrativa e financeira, com a Direção Regional de Florestas e Conservação da Natureza, da qual resultará maior eficiência na prossecução das políticas públicas ambientais decorrentes sobretudo da racionalização dos recursos associados, da maior afetação de receitas e da autonomia na prossecução da sua missão.\n\nConcomitantemente, é reestruturada a Direção Regional do Ordenamento do Territorio e Ambiente, por forma a dinamizar e concretizar o potencial ambiental, social e económico do litoral, do mar territorial e Zona Económica Exclusiva (ZEE) associada.\n\nCom efeito, as fortes dinâmicas ligadas ao ordenamento do espaço marítimo e ao crescimento azul que se verificam no espaço europeu e que se têm traduzido em investimento estratégico, orgânico e estrutural, aos mais diversos níveis de governação, desafiam a criação de uma estrutura no Governo Regional responsável pela definição e execução de uma política integrada e intersetorial no domínio do mar, com particular enfoque nos domínios do conhecimento, proteção e valorização do mar e dos recursos naturais marinhos e costeiros.\n\nAssim:\n\nNos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º, ambos da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, na redação e numeração da Lei n.º 130/99, de 21 de agosto, e da Lei n.º 12/2000, de 21 de junho, do artigo 12.º do Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, o Governo Regional da Madeira decreta o seguinte:\n\n> Nota: [Artigo 23.º, Decreto Regulamentar Regional n.º 5/2020/M - Diário da República n.º 10/2020, Série I de 2020-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2020-128113537) O presente diploma encontra-se revogado, exceto no respeitante às normas que se prendam com as atribuições no setor do mar cuja revogação fica dependente da entrada em vigor do diploma que contenha a orgânica do departamento governamental responsável pelo referido setor."
+  },
+  "159303956": {
+   "fragment_id": "159304280",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, Missão, Atribuições e Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, Missão, Atribuições e Competências"
+  },
+  "159303957": {
+   "fragment_id": "159304281",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e Missão\n\nA Secretaria Regional do Ambiente e Recursos Naturais, abreviadamente designada por SRA, é o departamento do Governo Regional que define e executa, sob uma perspetiva global e de desenvolvimento sustentável, a política regional nos seguintes domínios:\n\na) Água;\n\nb) Ambiente;\n\nc) Conservação da natureza;\n\nd) Florestas;\n\ne) Informação geográfica, cartográfica e cadastral;\n\nf) Litoral;\n\ng) Mar;\n\nh) Ordenamento do território;\n\ni) Parque natural;\n\nj) Saneamento básico;\n\nk) Urbanismo."
+  },
+  "159303958": {
+   "fragment_id": "159304282",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNa prossecução da sua missão, são atribuições da SRA:\n\na) Conceber, desenvolver, coordenar e executar a política regional nos domínios da água, do ambiente, da conservação da natureza, das florestas, da informação geográfica, cartográfica e cadastral, do litoral, do mar, do ordenamento do território, do parque natural, do saneamento básico e do urbanismo;\n\nb) Gerir e conservar os recursos hídricos, florísticos, faunísticos e geológicos, bem como as áreas protegidas e classificadas da Região;\n\nc) Conciliar o progresso económico e social com uma política ambiental de qualidade, assente na preservação da bio e geodiversidade, da paisagem, dos ecossistemas, na qualidade da água e do ar, no respeito e na conservação do património ambiental nas suas variadas vertentes;\n\nd) Coordenar os instrumentos de gestão, monitorização ambiental, informação e participação públicas, enquanto contributos para a melhoria da qualidade de vida dos cidadãos;\n\ne) Assegurar uma política de qualidade na gestão dos resíduos e das águas residuais garantindo a eficiência e eficácia dos tratamentos e estimular políticas de redução e reutilização;\n\nf) Estudar, coordenar, fiscalizar e executar as ações de ordenamento territorial e planeamento urbanístico, na perspetiva da criação de condições para uma boa qualidade de vida da população, em articulação com as demais entidades com competência nesta matéria;\n\ng) Regular o exercício das atividades no âmbito da informação geográfica, da geodesia, da cartografia e do cadastro no que respeita a normas e especificações técnicas de produção e reprodução;\n\nh) Promover as atividades de experimentação, estudo, análise, desenvolvimento, investigação científica e demonstração, de acordo com a política definida para cada setor;\n\ni) Empreender as ações necessárias à conservação da biodiversidade, nomeadamente das espécies raras, ameaçadas ou vulneráveis;\n\nj) Preservar e valorizar os recursos hídricos, a racionalização das utilizações, a sustentabilidade económica do setor e a qualidade ambiental, em convergência com a União Europeia;\n\nk) Assegurar o exercício das competências de planeamento e gestão do mar e litoral, suportado no conhecimento, na proteção e na valorização, fomentando a cooperação institucional, numa abordagem intersetorial e numa lógica de exploração sustentada e sustentável;\n\nl) Promover a informação, sensibilização, educação e formação nos domínios sob a sua tutela;\n\nm) Planear, conceber, gerir e monitorizar os programas e os projetos da sua responsabilidade, financiados ou cofinanciados por instrumentos financeiros comunitários e relacionados com os domínios sob a sua tutela;\n\nn) Promover a adaptação às especificidades regionais das políticas comunitárias, designadamente das políticas comuns nos domínios sob a sua tutela;\n\no) Assegurar a cooperação com entidades públicas e privadas, regionais, nacionais e internacionais nos domínios sob a sua tutela;\n\np) Fiscalizar o cumprimento das normas legais e regulamentares definidas para cada setor;\n\nq) Emitir os pareceres técnicos necessários sobre pedidos que lhe sejam solicitados no âmbito das suas atribuições;\n\nr) Propor medidas legislativas e implementar ações no âmbito das atividades de cada setor;\n\ns) Fazer cumprir a legislação regional, nacional e da União Europeia para cada setor."
+  },
+  "159303959": {
+   "fragment_id": "159304283",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - A SRA é superiormente representada e dirigida pelo Secretário Regional do Ambiente e Recursos Naturais, designado no presente diploma abreviadamente por Secretário Regional, ao qual são genericamente cometidas as seguintes competências:\n\na) Promover e assegurar a execução do programa de governo da Região Autónoma da Madeira nos domínios referidos no artigo 1.º;\n\nb) Superintender e coordenar a ação dos vários órgãos e serviços da Secretaria Regional do Ambiente e Recursos Naturais;\n\nc) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe sejam delegadas pelo Presidente ou pelo Conselho do Governo Regional.\n\n2 - O Secretário Regional pode, nos termos da lei, delegar competências nos seus chefe do gabinete e adjuntos, bem como nos titulares de cargos de direção dos órgãos e serviços que integram a estrutura da SRA.\n\n3 - O Secretário Regional pode também avocar as competências referidas no número anterior."
+  },
+  "159303960": {
+   "fragment_id": "159304284",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura Orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura Orgânica"
+  },
+  "159303961": {
+   "fragment_id": "159304285",
+   "type": 8,
+   "heading": "Secção I — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Estrutura geral"
+  },
+  "159303962": {
+   "fragment_id": "159304286",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura geral\n\nA SRA prossegue as suas atribuições através de serviços integrados na administração direta e indireta da Região Autónoma da Madeira, bem como de uma entidade integrada no setor empresarial público da mesma."
+  },
+  "159303963": {
+   "fragment_id": "159304287",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços da administração direta\n\n1 - Integram a administração direta da Região Autónoma da Madeira, no âmbito da SRA, os seguintes serviços centrais:\n\na) O Gabinete do Secretário Regional;\n\nb) A Direção Regional do Ordenamento do Território e Ambiente.\n\n2 - O serviço indicado na alínea a) do número anterior é um serviço em que as funções dominantes são de apoio e de coordenação.\n\n3 - O serviço indicado na alínea b) do número anterior é um serviço em que as funções dominantes são executivas."
+  },
+  "159303964": {
+   "fragment_id": "159304288",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços da administração indireta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços da administração indireta\n\nIntegra a administração indireta da Região Autónoma da Madeira, no âmbito da SRA, o Instituto das Florestas e Conservação da Natureza, IP-RAM."
+  },
+  "159303965": {
+   "fragment_id": "159304289",
+   "type": 11,
+   "heading": "Artigo 7.º — Setor empresarial da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Setor empresarial da Região Autónoma da Madeira\n\nA SRA exerce a tutela e as competências no âmbito da função acionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente à sociedade comercial ARM - Águas e Resíduos da Madeira, S. A."
+  },
+  "159303966": {
+   "fragment_id": "159304290",
+   "type": 8,
+   "heading": "Secção II — Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Gabinete do Secretário Regional"
+  },
+  "159303967": {
+   "fragment_id": "159304291",
+   "type": 11,
+   "heading": "Artigo 8.º — Missão, atribuições e competências do Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Missão, atribuições e competências do Gabinete do Secretário Regional\n\n1 - O Gabinete do Secretário Regional, abreviadamente designado por Gabinete, tem por missão apoiar diretamente o Secretário Regional, especialmente em matérias de natureza organizacional, jurídica, financeira, de recursos humanos e de planeamento, bem como apoiar, no mesmo âmbito, as direções regionais, instituto, serviços e entidade empresarial tuteladas pela SRA.\n\n2 - O Gabinete coordena as funções da SRA nas seguintes matérias:\n\na) Planeamento estratégico, controlo e avaliação dos serviços da SRA;\n\nb) Elaboração e acompanhamento da execução do orçamento de funcionamento;\n\nc) Planeamento do investimento público e correspondente elaboração e acompanhamento da execução do seu orçamento;\n\nd) Gestão dos recursos humanos;\n\ne) Planeamento e gestão da formação dos trabalhadores da SRA;\n\nf) Planeamentos organizacionais e modernização administrativa.\n\n3 - O Gabinete prossegue as seguintes atribuições:\n\na) Preparar e coordenar todos os assuntos que devam ser submetidos a despacho do Secretário Regional;\n\nb) Emitir os pareceres necessários às tomadas de decisão;\n\nc) Apoiar técnica e juridicamente os organismos e serviços da SRA;\n\nd) Proceder ao enquadramento da proposta técnica de investimentos da SRA, no Plano e Programa de Investimentos e Despesas de Desenvolvimento da Região Autónoma da Madeira (PIDDAR);\n\ne) Assegurar as ligações entre os vários serviços e organismos da SRA e entre estes e o exterior;\n\nf) Organizar e manter permanentemente atualizados arquivos, ficheiros, estatísticas e informações com interesse para a prossecução dos objetivos da SRA;\n\ng) Assegurar o desenvolvimento das atribuições cometidas às Unidades de Gestão, a que se refere o n.º 3 do artigo 12.º do Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio.\n\n4 - O Gabinete é dirigido por um chefe do gabinete.\n\n5 - O chefe do gabinete será substituído nas suas ausências e impedimentos por um dos adjuntos do Gabinete ou por membro do Gabinete para o efeito designado pelo Secretário Regional.\n\n6 - Compete aos adjuntos do Gabinete prestar ao Secretário Regional o apoio político e técnico que lhe for determinado.\n\n7 - Compete aos técnicos especialistas prestar apoio na sua área de especialidade.\n\n8 - Compete aos secretários pessoais prestar apoio ao Secretário Regional e ao respetivo Gabinete."
+  },
+  "159303968": {
+   "fragment_id": "159304292",
+   "type": 11,
+   "heading": "Artigo 9.º — Estrutura do Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estrutura do Gabinete do Secretário Regional\n\nO Gabinete do Secretário Regional obedece a uma estrutura hierarquizada, que compreende as unidades nucleares e flexíveis a aprovar nos termos do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, e 2/2013/M, de 2 de janeiro."
+  },
+  "159303969": {
+   "fragment_id": "159304293",
+   "type": 8,
+   "heading": "Secção III — Missão do serviço da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Missão do serviço da administração direta"
+  },
+  "159303970": {
+   "fragment_id": "159304294",
+   "type": 11,
+   "heading": "Artigo 10.º — Direção Regional do Ordenamento do Território e Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direção Regional do Ordenamento do Território e Ambiente\n\n1 - A Direção Regional do Ordenamento do Território e Ambiente, abreviadamente designada por DROTA, tem por missão, executar e coordenar a política regional da gestão da qualidade do ambiente, do setor da água, do mar, do litoral, do ordenamento do território, do urbanismo e da informação geográfica, cartográfica e cadastral, contribuindo para um desenvolvimento sustentável e articulado entre as diversas políticas setoriais.\n\n2 - A DROTA é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau, coadjuvado por um Subdiretor Regional, cargo de direção superior de 2.º grau."
+  },
+  "159303971": {
+   "fragment_id": "159304295",
+   "type": 8,
+   "heading": "Secção IV — Missão do serviço da administração indireta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Missão do serviço da administração indireta"
+  },
+  "159303972": {
+   "fragment_id": "159304296",
+   "type": 11,
+   "heading": "Artigo 11.º — Instituto das Florestas e Conservação da Natureza, IP-RAM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Instituto das Florestas e Conservação da Natureza, IP-RAM\n\n1 - O Instituto das Florestas e Conservação da Natureza, IP-RAM, designado abreviadamente por IFCN, IP-RAM, a criar por decreto legislativo regional, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão promover a conservação da natureza, o ordenamento e a gestão sustentável da bio e geodiversidade, da paisagem e da floresta bem como dos recursos a ela associados e ainda a gestão das áreas protegidas.\n\n2 - O IFCN, IP-RAM é dirigido por um presidente, coadjuvado por um vice-presidente, cargos de direção superior de 1.º e de 2.º grau, respetivamente.\n\n> Nota: [Artigo 3.º, Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783) A alteração efetuada ao presente artigo produz efeitos com a entrada em vigor do diploma que proceder à correspondente alteração do Decreto Legislativo Regional n.º 21/2016/M, de 13 de maio."
+  },
+  "159303973": {
+   "fragment_id": "159304297",
+   "type": 1,
+   "heading": "Capítulo III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pessoal"
+  },
+  "159303974": {
+   "fragment_id": "159304298",
+   "type": 11,
+   "heading": "Artigo 12.º — Sistema centralizado de gestão de recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sistema centralizado de gestão de recursos humanos\n\n1 - A SRA adota o sistema centralizado de gestão de recursos humanos, doravante designado por sistema centralizado de gestão, nos seguintes órgãos e serviços da administração direta e indireta:\n\na) O Gabinete do Secretário Regional;\n\nb) A Direção Regional do Ordenamento do Território e Ambiente;\n\nc) O Instituto das Florestas e Conservação da Natureza, IP-RAM.\n\n2 - O sistema centralizado de gestão instituído pelo presente diploma é de tipo misto, organizado segundo dois regimes diferenciados, de acordo com o seguinte:\n\na) Regime centralizado, em relação aos trabalhadores dos serviços referidos no número anterior com relação jurídica de emprego público constituída por tempo indeterminado, integrados em carreiras e categorias gerais, bem como subsistentes e de regime especial, neste último caso, desde que o conteúdo funcional não respeite a atribuições próprias dos respetivos órgãos e serviços;\n\nb) Regime descentralizado, em relação aos trabalhadores dos serviços referidos no número anterior com relação jurídica de emprego público constituída por tempo indeterminado, integrados em carreiras e categorias especiais cujo conteúdo funcional respeite a atribuições desses serviços.\n\n3 - Os trabalhadores integrados no regime centralizado são concentrados na Secretaria Regional do Ambiente e Recursos Naturais, através de lista nominativa aprovada por despacho do Secretário Regional do Ambiente e Recursos Naturais, podendo ser afetos a qualquer dos serviços referidos no n.º 1 do presente artigo, consoante as necessidades de pessoal, nos termos do artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, alterado pelos Decretos Legislativos Regionais n.os 9/2010/M, de 4 de junho, e 26/2012/M, de 3 de setembro.\n\n4 - Os trabalhadores integrados no regime descentralizado permanecem inseridos nos mapas de pessoal dos respetivos serviços a que pertencem, não lhes sendo aplicável o disposto no número anterior.\n\n5 - O recrutamento de trabalhadores para postos de trabalho que se encontram abrangidos pelo regime centralizado é feito para a SRA, sem prejuízo de ser determinado no aviso de publicitação do procedimento ou no pedido de utilização de reservas de recrutamento, o órgão ou serviço ao qual o trabalhador ficará afeto, através da referência ao respetivo mapa de pessoal onde o posto de trabalho se encontra previsto.\n\n6 - A lista nominativa referida no n.º 3 será atualizada de acordo com o disposto no n.º 12 do artigo 5.º-A do Decreto Legislativo Regional n.º 1/2009/M, de 12 de janeiro, alterado pelos Decretos Legislativos Regionais n.os 9/2010/M, de 4 de junho, e 26/2012/M, de 3 de setembro, bem como sempre que haja saída definitiva de trabalhadores abrangidos no regime centralizado da SRA, procedendo-se, neste caso, à sua eliminação da referida lista."
+  },
+  "159305075": {
+   "fragment_id": "159304299",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e Finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e Finais"
+  },
+  "159305076": {
+   "fragment_id": "159304300",
+   "type": 11,
+   "heading": "Artigo 13.º — Dotação de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Dotação de cargos de direção\n\n1 - A dotação de cargos de direção superior da administração direta e indireta da Secretaria Regional do Ambiente e Recursos Naturais, consta dos anexos I e II ao presente diploma, do qual fazem parte integrante.\n\n2 - A dotação de lugares de cargos de direção intermédia de 1.º grau, das unidades orgânicas nucleares que funcionam sob a direta dependência do Gabinete do Secretário, consta do anexo III ao presente diploma, do qual faz parte integrante."
+  },
+  "159305077": {
+   "fragment_id": "159304301",
+   "type": 11,
+   "heading": "Artigo 14.º — Extinção, reestruturação e criação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Extinção, reestruturação e criação de serviços\n\n1 - São extintos, sendo objeto de fusão:\n\na) A Direção Regional de Florestas e Conservação da Natureza, sendo as suas atribuições integradas no Instituto das Florestas e Conservação da Natureza, IP-RAM.\n\nb) O Serviço do Parque Natural da Madeira, sendo as suas atribuições integradas no Instituto das Florestas e Conservação da Natureza, IP-RAM.\n\n2 - A Direção Regional do Ordenamento do Território e Ambiente é objeto de reestruturação."
+  },
+  "159305078": {
+   "fragment_id": "159304302",
+   "type": 11,
+   "heading": "Artigo 15.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Produção de efeitos\n\n1 - As fusões previstas nas alíneas a) e b) do n.º 1 do artigo anterior e o disposto nos artigos 6.º e 11.º, apenas produzem efeitos com a entrada em vigor do diploma que proceder à criação do Instituto das Florestas e Conservação da Natureza, IP-RAM.\n\n2 - A reestruturação da Direção Regional do Ordenamento do Território e Ambiente prevista no n.º 2 do artigo anterior produz efeitos com a entrada em vigor do respetivo diploma orgânico."
+  },
+  "159305079": {
+   "fragment_id": "159304303",
+   "type": 11,
+   "heading": "Artigo 16.º — Orgânica do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Orgânica do serviço\n\nO diploma orgânico da Direção Regional do Ordenamento do Território e Ambiente é aprovado no prazo de 45 dias a contar da entrada em vigor do presente diploma."
+  },
+  "159305080": {
+   "fragment_id": "159304304",
+   "type": 11,
+   "heading": "Artigo 17.º — Referências legais, regulamentares e contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Referências legais, regulamentares e contratuais\n\nTodas as referências, legais, regulamentares ou contratuais, feitas à Secretaria Regional do Ambiente e Recursos Naturais, criada pelo Decreto Regulamentar Regional n.º 2/2012/M, de 13 de março, retificado pela Declaração de retificação n.º 22/2012, de 30 de abril, alterada pelo Decreto Regulamentar Regional n.º 20/2012/M, de 22 de agosto, no âmbito das atribuições referidas no artigo 2.º devem ter-se por feitas à Secretaria Regional do Ambiente e Recursos Naturais."
+  },
+  "159305081": {
+   "fragment_id": "159304305",
+   "type": 11,
+   "heading": "Artigo 18.º — Transição do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Transição do pessoal\n\n1 - Até à entrada em vigor dos diplomas a que se refere o artigo 15.º, o sistema centralizado de gestão de recursos humanos da SRA previsto no artigo 12.º opera-se nos seguintes órgãos e serviços:\n\na) Gabinete do Secretário Regional;\n\nb) Direção Regional do Ordenamento do Território e Ambiente;\n\nc) Direção Regional de Florestas e Conservação da Natureza.\n\n2 - Os procedimentos concursais pendentes à data da entrada em vigor do presente diploma mantêm a sua validade, sendo os lugares a preencher os constantes dos mapas de pessoal dos respetivos serviços, sem prejuízo da integração dos trabalhadores no regime centralizado, se for o caso, e da sua inclusão na lista nominativa referida."
+  },
+  "159305082": {
+   "fragment_id": "159304306",
+   "type": 11,
+   "heading": "Artigo 19.º — Carreiras de coordenador e chefe de departamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Carreiras de coordenador e chefe de departamento\n\n1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador e de Chefe de Departamento é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26 de agosto, objeto da Declaração de Retificação n.º 15-I/99, de 30 de setembro, alterado pelos Decretos Legislativos Regionais n.os 16/2000/M, de 15 de julho, e 4/2005/M, de 15 de abril, sendo-lhes aplicável o disposto no artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66/2012 de 31 de dezembro, e 66-B/2012, de 31 de dezembro, pelo Decreto-Lei n.º 47/2013, de 5 de abril, e pela Lei n.º 35/2014, de 20 de junho.\n\n2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro."
+  },
+  "159305083": {
+   "fragment_id": "159304307",
+   "type": 11,
+   "heading": "Artigo 20.º — Transição e manutenção de serviços e de comissões de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transição e manutenção de serviços e de comissões de serviços\n\n1 - Em cumprimento com o disposto no artigo 14.º do Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, as unidades orgânicas nucleares, Gabinete Jurídico e Gabinete de Planeamento da Secretaria Regional do Ambiente e Recursos Naturais, transitam para a Secretaria Regional do Ambiente e Recursos Naturais.\n\n2 - Até à aprovação da organização interna dos serviços do Gabinete do Secretário Regional a que se refere o artigo 9.º, os serviços referidos no número anterior mantêm a mesma natureza jurídica, mantendo-se as comissões de serviço dos respetivos titulares de cargos dirigentes.\n\n3 - A transição de serviços a que se refere o n.º 1, será acompanhada pela correspondente transição do pessoal afeta aos mesmos, a aprovar por lista nominativa mediante despacho conjunto dos Secretários Regionais do Ambiente e Recursos Naturais e Agricultura e Pescas."
+  },
+  "159305084": {
+   "fragment_id": "159304308",
+   "type": 11,
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\n1 - É revogado o Decreto Regulamentar Regional n.º 2/2012/M, de 13 de março, alterado e republicado pelo Decreto Regulamentar Regional n.º 20/2012/M, de 22 de agosto, sem prejuízo do disposto no número seguinte.\n\n2 - A revogação do Decreto Regulamentar Regional n.º 2/2012/M, de 13 de março, alterado e republicado pelo Decreto Regulamentar Regional n.º 20/2012/M, de 22 de agosto, no respeitante às normas de qualquer natureza que se prendam com as atribuições nos setores da agricultura, agropecuária e desenvolvimento rural, artesanato e pescas depende da entrada em vigor do diploma que contenha a orgânica do departamento governamental responsável pelos referidos setores."
+  },
+  "159305085": {
+   "fragment_id": "159304309",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nSem prejuízo do disposto artigo 15.º, o presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "159305087": {
+   "fragment_id": "159304311",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 13.º)\n\nCargos de direção superior da administração direta\n\n(ver documento original)"
+  },
+  "159305088": {
+   "fragment_id": "159304312",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 13.º)\n\nCargos de direção superior da administração indireta\n\n(ver documento original)\n\n> Nota: [Artigo 3.º, Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783) A alteração efetuada ao presente anexo produz efeitos com a entrada em vigor do diploma que proceder à correspondente alteração do Decreto Legislativo Regional n.º 21/2016/M, de 13 de maio."
+  },
+  "159305089": {
+   "fragment_id": "159304313",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 2 do artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 2 do artigo 13.º)\n\nDotação de lugares de cargos de direção intermédia de 1.º grau dependentes do Gabinete do Secretário Regional\n\n(ver documento original)"
+  },
+  "928801553": {
+   "fragment_id": "159304286",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura geral",
+   "in_force_from": "2017-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783), em vigor a partir de 2017-12-14"
+   ],
+   "markdown": "###### Artigo 4.º — Estrutura geral\n\nA SRA prossegue as suas atribuições através de serviços integrados na administração direta e indireta da Região Autónoma da Madeira, bem como de uma entidade integrada no setor empresarial público da mesma e define a orientação da participação pública da Região Autónoma da Madeira em Agências Regionais que atuem nos domínios sob a sua tutela.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783), em vigor a partir de 2017-12-14"
+  },
+  "928801554": {
+   "fragment_id": "159304289",
+   "type": 11,
+   "heading": "Artigo 7.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas",
+   "in_force_from": "2017-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783), em vigor a partir de 2017-12-14"
+   ],
+   "markdown": "###### Artigo 7.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas\n\n1 - A SRA exerce a tutela e as competências no âmbito da função acionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente à sociedade comercial ARM - Águas e Resíduos da Madeira, S. A.\n\n2 - Compete à SRA definir a orientação da participação pública da Região Autónoma da Madeira na AREAM - Agência Regional da Energia e Ambiente da Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783), em vigor a partir de 2017-12-14"
+  },
+  "928801555": {
+   "fragment_id": "159304296",
+   "type": 11,
+   "heading": "Artigo 11.º — Instituto das Florestas e Conservação da Natureza, IP-RAM",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783)"
+   ],
+   "markdown": "###### Artigo 11.º — Instituto das Florestas e Conservação da Natureza, IP-RAM\n\n1 - O Instituto das Florestas e Conservação da Natureza, IP-RAM, designado abreviadamente por IFCN, IP-RAM, a criar por decreto legislativo regional, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão promover a conservação da natureza, o ordenamento e a gestão sustentável da bio e geodiversidade, da paisagem e da floresta bem como dos recursos a ela associados e ainda a gestão das áreas protegidas.\n\n2 - O IFCN, IP-RAM é dirigido por um conselho diretivo, composto por um Presidente e por dois Vogais, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau.\n\n> Nota: [Artigo 3.º, Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783) A alteração efetuada ao presente artigo produz efeitos com a entrada em vigor do diploma que proceder à correspondente alteração do Decreto Legislativo Regional n.º 21/2016/M, de 13 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783)"
+  },
+  "159305086": {
+   "fragment_id": "159304310",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 2 de julho de 2015.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 13 de julho de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "928801556": {
+   "fragment_id": "159304312",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783)"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 13.º)\n\nCargos de direção superior da administração indireta\n\n(ver documento original)\n\n> Nota: [Artigo 3.º, Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783) A alteração efetuada ao presente anexo produz efeitos com a entrada em vigor do diploma que proceder à correspondente alteração do Decreto Legislativo Regional n.º 21/2016/M, de 13 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 14/2017/M - Diário da República n.º 238/2017, Série I de 2017-12-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783)"
+  }
+ }
+}

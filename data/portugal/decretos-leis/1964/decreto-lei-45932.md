@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:537860:por
+title: Decreto-Lei n.º 45932
+short_title: null
+summary: Concede os meios indispensáveis ao funcionamento e manutenção do Planetário Calouste Gulbenkian, integrado no Museu
+  de Marinha, e introduz alterações na lotação do pessoal civil do mesmo Museu
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Marinha - Gabinete do Ministro
+proposing_entity: null
+official_number: '45932'
+official_date: null
+publication_date: '1964-09-18'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 220/1964, Série I de 1964-09-18
+  number: '220'
+  series: I
+  supplement: null
+  pages: 1193 - 1194
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/09/22000/11931194.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '537860'
+  dre_path: /dr/detalhe/decreto-lei/45932-1964-537860
+  internal: pt:dre:537860:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45932-1964-537860
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45932-1964-537860
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:50:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8e3d795ebe3127cade3077c3f848e485243a27b6ff993a63c1616df6df535b19
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Lugares
+- Diretor
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Gratificação
+- Ministério da Marinha
+- Pessoal Civil
+- Pessoal Dirigente
+- Planetário Calouste Gulbenkian
+- Quadro de Pessoal
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:383606:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:383606:por
+  label: "Extintas as gratificações previstas no § único do art. 1º pelo DEC LEI.253-A/79.27.07.1979.CR, DR.IS [172-Supl]\
+    \ de 27.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-a-1979-383606
+  date: '1979-07-27'
+- type: cites
+  target: pt:dre:148178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694009:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:50:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45932
+
+Considerando que no decurso do ano corrente o Ministério das Obras Públicas entregará ao da Marinha a obra que tem estado a executar para a instalação do planetário que, generosamente, a Fundação Calouste Gulbenkian doou ao Estado para ser integrado no Museu de Marinha, resultando assim a necessidade de se tomar desde já as medidas indispensáveis para garantirem o seu funcionamento;
+
+Considerando também que a instalação daquele Museu no Mosteiro dos Jerónimos e sua abertura ao público determinam dever atribuir-se-lhe mais pessoal, embora nem todo de carácter permanente;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Para funcionamento e manutenção do Planetário Calouste Gulbenkian, centro científico e cultural criado e integrado no Museu de Marinha pelo [Decreto-Lei n.º 45211](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45211-1963-694009), de 23 de Agosto de 1963, e cujo regulamento será estabelecido por portaria do Ministro da Marinha, é autorizado o mesmo Ministro a mandar contratar o necessário pessoal científico, técnico e auxiliar nas condições que forem fixadas com a concordância do Ministro das Finanças.
+
+§ único. As funções de director, de conferencistas-demonstradores e de outras inerentes à condução e conservação do equipamento do Planetário podem ser confiadas a pessoal do Ministério da Marinha ou de outros Ministérios, sendo neste caso remuneradas por gratificações a estabelecer em despacho conjunto dos Ministros das Finanças e da Marinha e consoante a natureza e duração dos serviços.
+
+Art. 2.º Com destino ao referido Museu é criado o lugar de pintor-restaurador a incluir no grupo O «Pessoal de outras categorias do mapa I anexo ao [Decreto-Lei n.º 41518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41518-1958-304075), de 4 de Fevereiro de 1958, e com o vencimento da letra J do mapa II anexo ao mesmo diploma.
+
+§ 1.º O provimento do lugar de que trata o presente artigo será feito por escolha do Ministro da Marinha e mediante contrato com artista de comprovado mérito e reconhecida competência em assuntos navais, embora não possuidor da habilitação literária exigida pelo artigo 21.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 28 de Novembro de 1935.
+
+§ 2.º Se o indivíduo a prover no lugar for já funcionário de nomeação vitalícia, ser-lhe-á mantida essa forma de provimento.
+
+Art. 3.º Os cinco lugares de guardas de museu incluídos no grupo O do mapa I anexo ao [Decreto-Lei n.º 41518](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41518-1958-304075), de 4 de Fevereiro de 1958, são transferidos para o grupo P do mesmo mapa, com a designação de «guardas de museu de 1.ª classe», categoria a que corresponde o vencimento da letra V e na qual se consideram providos os guardas actualmente já ao serviço do Museu de Marinha.
+
+§ único. Também com destino ao Museu é criada a categoria de guarda de museu de 2.ª classe, igualmente incluído no grupo P do mapa I, referido no corpo deste artigo, com o vencimento do grupo X e a lotação inicial de cinco unidades.
+
+Art. 4.º A lotação de pessoal civil do Museu de Marinha será estabelecida por despacho ministerial, de harmonia com o disposto no artigo 6.º do [Decreto-Lei n.º 36081](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36081-1946-148178), de 31 de Dezembro de 1946, e com prejuízo do referido artigo 10.º do [Decreto-Lei n.º 42412](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42412-1959-431780), de 24 de Julho de 1959.
+
+Art. 5.º O conselho administrativo do Museu de Marinha poderá, por conta das verbas para esse fim inscritas no orçamento para aplicação das suas receitas autorizadas pelo artigo 12.º do [Decreto-Lei n.º 42412](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42412-1959-431780), de 24 de Julho de 1959, e mediante autorização ministerial, contratar pessoas idóneas, nacionais ou estrangeiras, além do quadro, para a execução temporária de serviços técnicos, de investigação científica ou de outros especiais, e, bem assim, admitir e dispensar pessoal assalariado ou jornaleiro para a execução de trabalhos auxiliares, permanentes ou temporários. Quando a duração dos trabalhos não exceda 60 dias por cada assalariado ou jornaleiro, a admissão pode ser feita com dispensa de autorização ministerial e de quaisquer outras formalidades legais.
+
+Art. 6.º No corrente ano, os encargos que derivarem do presente diploma são limitados e custeados pelas disponibilidades da parcela destinada a alterações do quadro do pessoal civil do Ministério da Marinha e incluída na verba do capítulo 5.º, artigo 183.º, n.º 1), do respectivo orçamento.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 18 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

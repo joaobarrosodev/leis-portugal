@@ -1,0 +1,226 @@
+---
+schema_version: '1.0'
+id: pt:dre:444439:por
+title: Decreto-Lei n.º 439/83
+short_title: null
+summary: Cria a taxa municipal de transportes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Administração Interna, das Finanças e do Plano e do Equipamento Social
+proposing_entity: null
+official_number: 439/83
+official_date: null
+publication_date: '1983-12-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 293/1983, Série I de 1983-12-22
+  number: '293'
+  series: I
+  supplement: null
+  pages: 4085 - 4087
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/12/29300/40854087.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '444439'
+  dre_path: /dr/detalhe/decreto-lei/439-1983-444439
+  internal: pt:dre:444439:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1983-444439
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1983-444439
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:54:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6d069149448d00032e3516a7f89f01a8dcf22621fe5d90a2aa40592204318379
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:54:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autarquia Local
+- TAXA Municipal de Transportes
+- Transporte Público
+relationships:
+- type: cites
+  target: pt:dre:392388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439433:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:54:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 439/83
+
+de 22 de Dezembro
+
+1. O estabelecimento e a exploração dos sistemas de transportes colectivos urbanos de passageiros envolvem custos que devem ser suportados pelos vários beneficiários da sua existência.
+
+No passado, o preço de venda dos serviços prestados pelos transportadores era fixado de modo a cobrir todos os custos suportados pelos mesmos, sendo assim habitual a exploração dos referidos transportes por empresários privados.
+
+O contínuo acumular de erros em matéria de planeamento físico, de planeamento urbanístico e de gestão da via pública a par do aumento real dos factores de produção - nomeadamente de mão-de-obra, energia e equipamento - levaram a que as condições de exploração se tivessem agravado progressivamente, tendo como consequência que, para determinados serviços, o preço de venda comercialmente praticável passou a não cobrir os custos de produção, o que levou os empresários privados a abandonar cada vez mais a prestação desses serviços.
+
+2. Actualmente, os custos de exploração das redes de transportes colectivos urbanos de passageiros só em parte são pagos pelos utentes, aceitando o Estado, no âmbito de uma política de interesse social, suportar a diferença entre o custo real e as receitas directas obtidas na exploração.
+
+Na prática, todo o contribuinte, qualquer que seja a região onde resida, paga a existência destes transportes abaixo do seu custo real, quando na realidade os principais beneficiários (os utentes e também os seus empregadores) se circunscrevem aos grandes centros urbanos.
+
+3. Importa alterar esta situação criando condições de maior justiça e equidade na repartição de encargos decorrentes da existência dos sistemas de transportes colectivos urbanos de passageiros.
+
+Assim, no âmbito do presente decreto-lei, aponta-se para que a atribuição de indemnizações compensatórias a estes transportes passem a ser da competência dos municípios onde existam essas redes de transportes, criando-se, para o efeito, uma taxa municipal de transportes a ser suportada pelos empregadores. A taxa, a fixar de acordo com o presente diploma, poderá situar-se entre 0,5% e 1,5%, do valor dos salários pagos por cada entidade empregadora e será aplicada nos municípios, associações ou federações de municípios com população igual ou superior a 50000 habitantes e que disponham de redes de transportes colectivos urbanos de passageiros.
+
+4. Deste modo poderá reduzir-se, por um lado, a carga fiscal geral, ao mesmo tempo que se transfere para o poder local atribuições e recursos que lhe devem competir no âmbito da gestão do quadro de vida em que se insere a existência de transportes públicos.
+
+Assim, estes serviços de transportes passam a ser financiados pelos utentes, pelos municípios quer através dos recursos obtidos com a criação da taxa municipal de transportes quer de recursos das próprias colectividades locais atribuídos no âmbito da Lei das Finanças Locais e pelo Estado, em casos em que o interesse geral e colectivo o justifique.
+
+5. Em síntese, a criação de uma taxa municipal de transportes, objecto do presente decreto-lei, visa fundamentalmente possibilitar a melhoria dos serviços de transportes colectivos urbanos de passageiros através de uma mais justa repartição dos custos de financiamento da prestação das respectivas funções de serviço público.
+
+Assim:
+
+No uso da autorização conferida pela [Lei n.º 25/83](https://diariodarepublica.pt/dr/detalhe/lei/25-1983-439433), de 8 de Setembro:
+
+O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Art. 1.º - 1 - É criada a taxa municipal de transportes, adiante designada abreviadamente por TMT, a qual se destina ao financiamento dos sistemas de transportes colectivos urbanos de passageiros.
+
+2 - O produto da TMT constitui uma receita municipal consignada:
+
+a) Ao pagamento aos transportadores que operem nos referidos sistemas de indemnizações compensatórias resultantes de serviços neles prestados e a título de proveitos de exploração complementares;
+
+b) Ao financiamento de investimentos necessários ao desenvolvimento e à melhoria dos mesmos sistemas de transportes.
+
+3 - Os investimentos referidos na alínea b) do número anterior incluem:
+
+a) A aquisição de material circulante que se destine a ser cedido aos transportadores mediante contrato;
+
+b) O financiamento de infra-estruturas de longa duração, excepto a rede rodoviária, as quais, sem prejuízo de serem afectas à exploração dos sistemas referidos no n.º 1, poderão integrar o património dos municípios, suas associações ou federações, nos casos em que não devam pertencer nem ao transportador nem ao Estado;
+
+c) A elaboração de planos de transportes ou de outros estudos de reconhecido interesse para a melhoria e desenvolvimento dos sistemas referidos no n.º 1:
+
+d) As dotações de capital para serviços municipalizados e empresas municipais de transportes públicos urbanos;
+
+e) A subscrição de capital em sociedades de capitais públicos ou em sociedades de economia mista que tenham por objecto a exploração dos sistemas mencionados no n.º 1.
+
+4 - As transferências previstas na alínea a) do n.º 2 não poderão, em cada ano, ultrapassar 70% do produto da TMT cobrada na área do respectivo município, federação ou associação, nem representar, relativamente a cada um dos transportadores, mais de duas terças partes das respectivas receitas tarifárias.
+
+5 - Para as regiões de Lisboa e Porto o Ministro de Equipamento Social fixará anualmente, por despacho, critérios de repartição interoperadores das transferências previstas na alínea a) do n.º 2 e de realização dos investimentos previstos na alínea b) do mencionado n.º 2.
+
+Art. 2.º - 1 - A TMT pode ser lançada em municípios, associações ou federações de municípios em que se verifiquem cumulativamente as seguintes condições:
+
+a) Existir uma população igual ou superior a 50000 habitantes;
+
+b) Estar definida, nos termos do artigo 3.º, uma área de transportes urbanos e a sua população não ser inferior a 25000 habitantes;
+
+c) Existir na área referida na alínea anterior um sistema de transportes colectivos urbanos de passageiros em funcionamento ou um plano para a sua criação e implementação aprovado nos termos da legislação em vigor.
+
+2 - As associações e federações mencionadas no número anterior são as já constituídas ou que se venham a constituir desde que do seu objecto conste promover a organização e o bom funcionamento dos sistemas de transportes colectivos urbanos de passageiros quer através de exploração directa quer através do regime de concessão ou de outras formas de exploração directa.
+
+Art. 3.º - 1 - As áreas de transportes urbanos a que se refere a alínea b) do n.º 1 do artigo 2.º poderão incluir um único centro urbano ou integrar um conjunto de aglomerados populacionais geograficamente contíguos.
+
+2 - A delimitação das áreas de transportes urbanos deve constar dos planos directores municipais previstos no [Decreto-Lei n.º 208/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1982-392388), de 26 de Maio.
+
+3 - Caso os planos directores municipais não existam ou, existindo, não estejam devidamente aprovados, compete às assembleias municipais a delimitação das áreas de transportes urbanos.
+
+4 - As deliberações das assembleias municipais referidas no número anterior carecem de ratificação dos Ministros da Administração Interna, do Equipamento Social e da Qualidade de Vida, excepto quando tais deliberações fizerem coincidir as áreas de transportes urbanos com perímetros já legalmente definidos.
+
+5 - Exceptua-se do disposto nos n.os 3 e 4 deste artigo a delimitação das áreas de transportes urbanos nas regiões de Lisboa e Porto, as quais serão fixadas por portaria dos Ministros da Administração Interna, do Equipamento Social e da Qualidade de Vida, tendo em conta, designadamente, os limites geográficos dos sistemas tarifários integrados.
+
+Art. 4.º - 1 - Verificadas as condições referidas no artigo 2.º, compete às assembleias municipais deliberar sobre o lançamento da TMT.
+
+2 - No caso de associações e federações, as assembleias municipais dos municípios que as integrem deliberarão sob proposta dos órgãos para tanto competentes das referidas associações ou federações.
+
+Art. 5.º Ficam sujeitas ao pagamento da TMT as pessoas colectivas de direito público e as empresas privadas que tenham a sua sede, delegações, sucursais, filiais ou locais de trabalho na área de transportes urbanos referida na alínea b) do n.º 1 do artigo 2.º, desde que nesta disponham ao seu serviço, com carácter permanente ou não, de 10 ou mais trabalhadores, qualquer que seja o respectivo título.
+
+Art. 6.º - 1 - A TMT é calculada com base nos salários pagos pelas entidades referidas no artigo anterior.
+
+2 - Para os efeitos do número anterior, entende-se por salário a remuneração mensal de base, quer seja certa, variável ou mista, bem como as prestações complementares daquela atribuídas, a qualquer título, com carácter regular e permanente.
+
+Art. 7.º - 1 - Poderão ficar isentas do pagamento da TMT, por deliberação das assembleias municipais, as entidades referidas no artigo 5.º quanto àqueles dos seus trabalhadores relativamente a quem provem assegurar a disponibilidade de habitação junto ao local de trabalho ou transporte por meios próprios ou afretados entre este local e os respectivos domicílios.
+
+2 - As assembleias municipais poderão ainda, a título de incentivo à concretização de objectivos de ordenamento do espaço e de actividades em zonas urbanas previamente definidas, isentar do pagamento da TMT, pelo prazo máximo de 5 anos, as entidades empregadoras que nelas venham a localizar as suas instalações.
+
+3 - Os pedidos de isenção devem ser instruídos com todos os elementos necessários à sua apreciação e apresentados pelas respectivas entidades interessadas, às quais caberá igualmente o ónus de comunicar ao município, no prazo máximo de 30 dias, quaisquer alterações aos pressupostos de concessão da isenção.
+
+Art. 8.º - 1 - A deliberação da assembleia municipal que determinar o lançamento da TMT fixará igualmente a respectiva taxa entre um valor mínimo de 0,5% e um valor máximo de 1,5%.
+
+2 - A assembleia municipal pode igualmente deliberar no sentido de a taxa da TMT ser diferenciada dentro da mesma área de transportes urbanos, em função de zonas previamente definidas.
+
+Art. 9.º - 1 - Os estatutos das associações ou das federações de municípios constituídas para promover a organização e o bom funcionamento dos sistemas de transportes colectivos urbanos de passageiros preverão, obrigatoriamente, a existência de um órgão técnico denominado «comissão técnica de transportes urbanos» (CTU), que funcionará junto do órgão executivo da associação ou federação e que integrará entre 3 e 7 membros de reconhecida idoneidade e competência, provenientes das componentes significativas dos sistemas de transportes, os quais serão designados pelas assembleias municipais da respectiva área quando da deliberação do lançamento da TMT.
+
+2 - Nos municípios não integrados em associações ou federações existirá igualmente um órgão técnico denominado «comissão técnica de transportes urbanos», que funcionará junto da respectiva câmara municipal e que integrará entre 3 e 5 membros de reconhecida idoneidade e competência, provenientes das componentes significativas dos sistemas de transportes, os quais serão designados pela assembleia municipal quando da deliberação do lançamento da TMT.
+
+3 - Nos casos das regiões de Lisboa e Porto existirá junto da respectiva CTU um representante do Ministério do Equipamento Social, o qual não terá direito de voto.
+
+4 - Os membros das CTU exercerão as suas funções a título gracioso e escolherão de entre si o respectivo presidente.
+
+5 - Compete às CTU:
+
+a) Dar parecer sobre os processos de isenção requeridos pelas entidades empregadoras, nos termos do artigo 7.º, n.º 3;
+
+b) Propor anualmente a aplicação da receita proveniente da TMT, de harmonia com o disposto no presente diploma e demais normas aplicáveis, ouvidos os operadores de transportes e outras entidades intervenientes nos sistemas de transportes colectivos urbanos de passageiros;
+
+c) Dar parecer sobre o cumprimento da aplicação da receita proveniente da TMT, devendo, para o efeito, elaborar um relatório anual a ser submetido à assembleia municipal;
+
+d) Dar parecer sobre o que, em matéria de transportes urbanos, lhes for solicitado pelos órgãos municipais ou intermunicipais.
+
+6 - Às CTU deverá ser prestada toda a informação técnica que julguem necessária para o cabal desempenho das suas funções.
+
+Art. 10.º O processo de liquidação, cobrança e pagamento, fiscalização, reclamações, recursos e penalidades será regulado por diploma adequado.
+
+Art. 11.º - 1 - As pessoas colectivas de direito público, com excepção das empresas públicas, ficarão isentas do pagamento da TMT durante os anos de 1985 e 1986.
+
+2 - Os princípios constantes do presente diploma poderão aplicar-se às regiões autónomas, caso os respectivos órgãos competentes assim o deliberem.
+
+Art. 12.º O presente decreto-lei entra em vigor no dia seguinte ao da publicação do diploma referido no artigo 10.º, mas nunca antes de 1985.
+
+Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1983. - Mário Soares - Ernâni Rodrigues Lopes - Eduardo Ribeiro Pereira - Amândio Anes de Azevedo - João Rosado Correia - António d'Orey Capucho.
+
+Promulgado em 13 de Dezembro de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 14 de Dezembro de 1983.
+
+O Primeiro-Ministro, Mário Soares.

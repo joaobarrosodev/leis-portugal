@@ -1,0 +1,254 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:117047303:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2018-117049675",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/21-2018-117047303",
+ "source_lastmod": "2024-07-29",
+ "versions": [
+  {
+   "date": "2018-11-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117049775",
+    "117049776",
+    "117049777",
+    "117049778",
+    "117049779",
+    "117049780",
+    "117049782",
+    "117049783",
+    "117049784",
+    "117049785",
+    "117049786",
+    "117049787",
+    "117049788",
+    "117049789",
+    "117049790",
+    "117049791",
+    "117049792",
+    "117049793",
+    "117049794"
+   ]
+  },
+  {
+   "date": "2024-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:873755644:por",
+     "title": "Decreto Legislativo Regional n.º 6/2024/M",
+     "published": "2024-07-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2024-873755644"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A"
+   ],
+   "fragments": [
+    "117049775",
+    "117049776",
+    "117049777",
+    "117049778",
+    "117049779",
+    "117049780",
+    "117049781",
+    "117049782",
+    "117049783",
+    "117049784",
+    "117049785",
+    "117049786",
+    "117049787",
+    "117049788",
+    "117049789",
+    "117049790",
+    "117049791",
+    "117049792",
+    "117049793",
+    "873753622",
+    "873753623"
+   ]
+  }
+ ],
+ "fragments": {
+  "117049775": {
+   "fragment_id": "117049676",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 21/2018/M\n\nEstatuto Social do Bombeiro da Região Autónoma da Madeira\n\nO regime jurídico aplicável aos bombeiros portugueses determina um conjunto de deveres, direitos e regalias a que os bombeiros têm acesso e as condições em que esse acesso se concretiza, bem como as regras do exercício da função por parte dos bombeiros voluntários dos quadros de comando e ativo.\n\nForam já dados passos significativos aquando da adaptação à Região Autónoma da Madeira, do mencionado diploma, adaptando-se às entidades públicas regionais as atribuições e competências nele imputadas às diversas entidades nacionais, a fim de o tornar exequível e permitir que os bombeiros da região possam aceder ao conjunto de direitos e regalias consagrado no Decreto-Lei n.º 241/2007, de 21 de junho.\n\nApós a devida adaptação, que está plenamente implementada, entende-se que, por imperativo, urge diferenciar o tratamento concedido aos bombeiros madeirenses no acesso a esses mesmos direitos e regalias, adaptando-os à especificidade insular a que os nossos bombeiros se encontram sujeitos.\n\nAssim, a presente alteração pretende criar o «Estatuto Social do Bombeiro da Região Autónoma da Madeira» e, para o efeito, conceder novos benefícios de tarifas sociais aos nossos bombeiros, reforçar o apoio psicológico concedido às corporações, melhorar e regular o acesso prioritário dos bombeiros voluntários da região a lares de terceira idade, bem como o acesso a camas de cuidados continuados, valorizar a frequência destes bombeiros nos cursos de formação e, ainda, reforçar a isenção das taxas moderadoras previstas na região.\n\nForam auscultados o STAL - Sindicato dos Trabalhadores da Administração Local e Regional; o SINTAP - Sindicato dos Trabalhadores da Administração Pública e Entidades com Fins Públicos; o STFP - Sindicato dos Trabalhadores da Função Pública da Região Autónoma da Madeira; o STFPSSRA - Sindicato dos Trabalhadores em Funções Públicas e Sociais do Sul e Regiões Autónomas; a UGT - União Geral de Trabalhadores; a USAM - União dos Sindicatos da Região Autónoma da Madeira; a USI - União dos Sindicatos Independentes; a Liga dos Bombeiros Portugueses; a Associação Nacional de Bombeiros Portugueses; a Federação dos Bombeiros da Região Autónoma da Madeira e a AMRAM - Associação de Municípios da Região Autónoma da Madeira.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos das disposições conjugadas do n.º 4 do artigo 112.º e da alínea a) e do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º e alínea vv) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "117049776": {
+   "fragment_id": "117049677",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma cria o Estatuto Social do Bombeiro da Região Autónoma da Madeira e procede à segunda alteração ao Decreto Legislativo Regional n.º 21/2010/M, de 20 de agosto, alterado pelo Decreto Legislativo Regional n.º 12/2016/M, de 10 de março, que adapta à Região Autónoma da Madeira o Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, e pelo Decreto-Lei n.º 249/2012, de 21 de novembro, que define o regime jurídico aplicável aos bombeiros portugueses no território continental."
+  },
+  "117049777": {
+   "fragment_id": "117049678",
+   "type": 11,
+   "heading": "Artigo 2.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alterações\n\nOs artigos 4.º e 6.º do Decreto Legislativo Regional n.º 21/2010/M, de 20 de agosto, alterado pelo Decreto Legislativo Regional n.º 12/2016/M, de 10 de março, que adapta à Região Autónoma da Madeira o Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, e pelo Decreto-Lei n.º 249/2012, de 21 de novembro, que define o regime jurídico aplicável aos bombeiros portugueses no território continental, passam a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\nA Regulamentação do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, pelo Decreto-Lei n.º 249/2012, de 21 de novembro, e pela Lei n.º 38/2017, de 2 de junho, é aplicável à Região Autónoma da Madeira, em tudo o que não contrarie o disposto no presente diploma, e sem prejuízo da Região Autónoma da Madeira proceder à respetiva adaptação ou aprovação de regulamentação própria.\n\nArtigo 6.º\n\nBenefício de tarifas sociais\n\nAos direitos definidos no artigo 5.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua atual redação, é aditado o direito às tarifas sociais na eletricidade, de forma direta e inegável, relativamente aos bombeiros do quadro de ativos.»"
+  },
+  "117049778": {
+   "fragment_id": "117049679",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamentos\n\nSão aditados ao Decreto Legislativo Regional n.º 21/2010/M, de 20 de agosto, alterado pelo Decreto Legislativo n.º 12/2016/M, de 10 de março, que adapta à Região Autónoma da Madeira o Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, e pelo Decreto-Lei n.º 249/2012, de 21 de novembro, que define o regime jurídico aplicável aos bombeiros portugueses no território continental, os artigos 7.º, 8.º, 9.º, 10.º, 11.º e 12.º com a seguinte redação:\n\n«Artigo 7.º\n\nApoio psicológico\n\nNo âmbito do quadro da assistência médica e medicamentosa, os bombeiros da Região Autónoma beneficiam de acesso a apoio psicológico gratuito, inerente à sua atividade e para efeitos de acompanhamento.\n\nArtigo 8.º\n\nAcesso a lares de terceira idade e cuidados continuados\n\n1 - Compete ao Serviço Regional de Proteção Civil, IP-RAM, promover o acesso prioritário dos bombeiros voluntários da Região a lares de terceira idade, bem como o acesso a camas de cuidados continuados, nas condições que vierem a ser estabelecidas por protocolo com as secretarias regionais competentes.\n\n2 - Podem beneficiar do disposto no número anterior todos os bombeiros e titulares dos corpos gerentes das associações de bombeiros e dos órgãos sociais da Federação de Bombeiros da Região Autónoma da Madeira que tenham, no mínimo, quinze anos de bom comportamento e serviço efetivo e comprovem a sua situação social de carência material e familiar.\n\nArtigo 9.º\n\nIsenção de taxas moderadoras\n\nPara além das situações previstas no Decreto-Lei n.º 241/2007, de 21 de junho, na sua atual redação, os bombeiros beneficiam do estabelecido no Decreto Legislativo Regional n.º 4/2014/M, de 12 de maio, e demais legislação regional em vigor.\n\nArtigo 10.º\n\nFaltas para exercício de atividade operacional\n\n1 - Para além do que se encontra previsto no artigo 26.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua atual redação, consideram-se justificadas as faltas dadas pelos bombeiros voluntários pertencentes a corpos de bombeiros da Região Autónoma da Madeira, para efeitos da frequência de cursos de formação, reuniões e ações promovidas ou convocadas pelo Serviço Regional de Proteção Civil, IP-RAM.\n\n2 - Cabe ao Serviço Regional de Proteção Civil, IP-RAM, a autorização da frequência nas iniciativas referidas no número anterior.\n\nArtigo 11.º\n\nCumulação de benefícios e direitos\n\nO disposto no presente diploma não prejudica eventuais benefícios e direitos de natureza idêntica a que os bombeiros tenham já direito.\n\nArtigo 12.º\n\nEntrada em vigor\n\n(Anterior artigo 6.º)»"
+  },
+  "117049779": {
+   "fragment_id": "117049680",
+   "type": 11,
+   "heading": "Artigo 4.º — Republicação e renumeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Republicação e renumeração\n\n1 - As alterações ao Decreto Legislativo Regional n.º 21/2010/M, de 20 de agosto, alterado pelo Decreto Legislativo Regional n.º 12/2016/M, de 10 de março, que adapta à Região Autónoma da Madeira o Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, e pelo Decreto-Lei n.º 249/2012, de 21 de novembro, que define o regime jurídico aplicável aos bombeiros portugueses no território continental, introduzidas pelo presente diploma serão inscritas no lugar próprio mediante as substituições, aditamentos e devidas correções materiais.\n\n2 - O Decreto Legislativo Regional n.º 21/2010/M, de 20 de agosto, alterado pelo Decreto Legislativo Regional n.º 12/2016/M, de 10 de março, que adapta à Região Autónoma da Madeira o Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, e pelo Decreto-Lei n.º 249/2012, de 21 de novembro, retificado pelas Declarações de Retificação n.os 3/2013 e 4-A/2013, ambas de 18 de janeiro, e pela Lei n.º 38/2017, de 2 de junho, que define o regime jurídico aplicável aos bombeiros portugueses no território continental, no seu novo texto, é objeto de republicação e renumeração em anexo."
+  },
+  "117049780": {
+   "fragment_id": "117049681",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "117049782": {
+   "fragment_id": "117049683",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 4.º)\n\nRepublicação do Decreto Legislativo Regional n.º 21/2010/M, de 20 de agosto"
+  },
+  "117049783": {
+   "fragment_id": "117049684",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma adapta à Região Autónoma da Madeira o Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, pelo Decreto-Lei n.º 249/2012, de 21 de novembro, e pela Lei n.º 38/2017, de 2 de junho, que define o regime jurídico aplicável aos bombeiros portugueses."
+  },
+  "117049784": {
+   "fragment_id": "117049685",
+   "type": 11,
+   "heading": "Artigo 2.º — Recenseamento dos bombeiros da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Recenseamento dos bombeiros da Região Autónoma da Madeira\n\nO serviço regional competente, a que se refere o n.º 1 do artigo 1.º-A do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, pelo Decreto-Lei n.º 249/2012, de 21 de novembro, e pela Lei n.º 38/2014, de 2 de junho, para efetuar o recenseamento dos bombeiros na Região Autónoma da Madeira é o Serviço Regional de Proteção Civil, IP-RAM."
+  },
+  "117049785": {
+   "fragment_id": "117049686",
+   "type": 11,
+   "heading": "Artigo 3.º — Adaptações orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Adaptações orgânicas\n\n1 - As referências feitas à Autoridade Nacional de Proteção Civil no n.º 1 do artigo 3.º, no n.º 6 do artigo 10.º, na alínea b) do n.º 1 do artigo 14.º, no n.º 2 do artigo 15.º, no n.º 6 do artigo 26.º, na alínea a) do n.º 3 e no n.º 4, ambos do artigo 27.º, no n.º 2 do artigo 30.º, na alínea d) do n.º 1 do artigo 32.º, no n.º 1 do artigo 33.º, no n.º 6 do artigo 34.º, no artigo 42.º e no n.º 3 do artigo 43.º, todos do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, pelo Decreto-Lei n.º 249/2012, de 21 de novembro, e pela Lei n.º 38/2017, de 2 de junho, consideram-se reportadas na Região Autónoma da Madeira ao Serviço Regional de Proteção Civil, IP-RAM.\n\n2 - As referências feitas ao comando distrital de operações de socorro nos n.os 2 e 5 do artigo 16.º do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, pelo Decreto-Lei n.º 249/2012, de 21 de novembro, e pela Lei n.º 38/2017, de 2 de junho, consideram-se reportadas na Região Autónoma da Madeira ao Serviço Regional de Proteção Civil, IP-RAM.\n\n3 - As competências da Liga de Bombeiros Portugueses, previstas no n.º 1 do artigo 33.º do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, pelo Decreto-Lei n.º 249/2012, de 21 de novembro, e pela Lei n.º 38/2017, de 2 de junho, são exercidas na Região Autónoma da Madeira pela Federação de Bombeiros da Região Autónoma da Madeira.\n\n4 - A referência feita ao Conselho Nacional de Bombeiros no n.º 3 do artigo 43.º do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, pelo Decreto-Lei n.º 249/2012, de 21 de novembro, e pela Lei n.º 38/2017, de 2 de junho, considera-se reportada na Região Autónoma da Madeira à Federação de Bombeiros da Região Autónoma da Madeira.\n\n5 - A referência feita ao Comandante Operacional Distrital no n.º 3 do artigo 40.º do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, pelo Decreto-Lei n.º 249/2012, de 21 de novembro, e pela Lei n.º 38/2017, de 2 de junho, considera-se reportada na Região Autónoma da Madeira ao Presidente do Conselho Diretivo do Serviço Regional de Proteção Civil, IP-RAM.\n\n6 - A referência feita ao Presidente da Autoridade Nacional de Proteção Civil no n.º 3 do artigo 41.º do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, pelo Decreto-Lei n.º 249/2012, de 21 de novembro, e pela Lei n.º 38/2017, de 2 de junho, considera-se reportada na Região Autónoma da Madeira ao Conselho Diretivo do Serviço Regional de Proteção Civil, IP-RAM."
+  },
+  "117049786": {
+   "fragment_id": "117049687",
+   "type": 11,
+   "heading": "Artigo 4.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regulamentação\n\nA Regulamentação do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, pelo Decreto-Lei n.º 249/2012, de 21 de novembro, e pela Lei n.º 38/2017, de 2 de junho, é aplicável à Região Autónoma da Madeira, em tudo o que não contrarie o disposto no presente diploma, e sem prejuízo da Região Autónoma da Madeira proceder à respetiva adaptação ou aprovação de regulamentação própria."
+  },
+  "117049787": {
+   "fragment_id": "117049688",
+   "type": 11,
+   "heading": "Artigo 5.º — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — [...]\n\n(Revogado.)"
+  },
+  "117049788": {
+   "fragment_id": "117049689",
+   "type": 11,
+   "heading": "Artigo 6.º — Benefício de tarifas sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Benefício de tarifas sociais\n\nAos direitos definidos no artigo 5.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua atual redação, é aditado o direito às tarifas sociais na eletricidade, de forma direta e inegável, relativamente aos bombeiros do quadro de ativos."
+  },
+  "117049789": {
+   "fragment_id": "117049690",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio psicológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio psicológico\n\nNo âmbito do quadro da assistência médica e medicamentosa, os bombeiros da Região Autónoma beneficiam de acesso a apoio psicológico gratuito, inerente à sua atividade e para efeitos de acompanhamento."
+  },
+  "117049790": {
+   "fragment_id": "117049691",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso a lares de terceira idade e cuidados continuados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso a lares de terceira idade e cuidados continuados\n\n1 - Compete ao Serviço Regional de Proteção Civil, IP-RAM, promover o acesso prioritário dos bombeiros voluntários da Região a lares de terceira idade, bem como o acesso a camas de cuidados continuados, nas condições que vierem a ser estabelecidas por protocolo com as secretarias regionais competentes.\n\n2 - Podem beneficiar do disposto no número anterior todos os bombeiros e titulares dos corpos gerentes das associações de bombeiros e dos órgãos sociais da Federação de Bombeiros da Região Autónoma da Madeira que tenham, no mínimo, quinze anos de bom comportamento e serviço efetivo e comprovem a sua situação social de carência material e familiar."
+  },
+  "117049791": {
+   "fragment_id": "117049692",
+   "type": 11,
+   "heading": "Artigo 9.º — Isenção de taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Isenção de taxas moderadoras\n\nPara além das situações previstas no Decreto-Lei n.º 241/2007, de 21 de junho, na sua atual redação, os bombeiros beneficiam do estabelecido no Decreto Legislativo Regional n.º 4/2014/M, de 12 maio, e demais legislação regional em vigor."
+  },
+  "117049792": {
+   "fragment_id": "117049693",
+   "type": 11,
+   "heading": "Artigo 10.º — Faltas para exercício de atividade operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Faltas para exercício de atividade operacional\n\n1 - Para além do que se encontra previsto no artigo 26.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua atual redação, consideram-se justificadas as faltas dadas pelos bombeiros voluntários pertencentes a corpos de bombeiros da Região Autónoma da Madeira, para efeitos da frequência de cursos de formação, reuniões e ações promovidas ou convocadas pelo Serviço Regional de Proteção Civil, IP-RAM.\n\n2 - Cabe ao Serviço Regional de Proteção Civil, IP-RAM, a autorização da frequência nas iniciativas referidas no número anterior."
+  },
+  "117049793": {
+   "fragment_id": "117049694",
+   "type": 11,
+   "heading": "Artigo 11.º — Cumulação de benefícios e direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cumulação de benefícios e direitos\n\nO disposto no presente diploma não prejudica eventuais benefícios e direitos de natureza idêntica a que os bombeiros tenham já direito."
+  },
+  "117049794": {
+   "fragment_id": "117049695",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor com a entrada em vigor da Lei n.º 48/2009, de 4 de agosto.\n\n111824959"
+  },
+  "117049781": {
+   "fragment_id": "117049682",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em segunda deliberação na sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de outubro de 2018.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 6 de novembro de 2018.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "873753622": {
+   "fragment_id": "873920206",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Extensão dos benefícios",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Extensão dos benefícios\n\nOs benefícios referidos nos artigos 6.º, 7.º, 8.º, 9.º e 10.º do presente estatuto, aplicam-se aos elementos que prestam serviço voluntário na Coluna de Socorro Henry Dunant, da Cruz Vermelha Portuguesa - Delegação da Madeira, bem como aos operacionais do Sanas, em regime de voluntariado, nos termos a regulamentar por portaria do membro do Governo Regional responsável pela área da proteção civil.\n\n> Aditado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01"
+  },
+  "873753623": {
+   "fragment_id": "117049695",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor com a entrada em vigor da Lei n.º 48/2009, de 4 de agosto.\n\n111824959"
+  }
+ }
+}

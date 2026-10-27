@@ -1,0 +1,253 @@
+---
+schema_version: '1.0'
+id: pt:dre:408947:por
+title: Decreto-Lei n.º 717/76
+short_title: null
+summary: Modifica a estrutura dos comandos territoriais da Armada estabelecida pelo Decreto-Lei n.º 47815, de 26 de Julho
+  de 1967
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 717/76
+official_date: null
+publication_date: '1976-10-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 237/1976, Série I de 1976-10-09
+  number: '237'
+  series: I
+  supplement: null
+  pages: 2284 - 2285
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/10/23700/22842285.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '408947'
+  dre_path: /dr/detalhe/decreto-lei/717-1976-408947
+  internal: pt:dre:408947:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/717-1976-408947
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/717-1976-408947
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:58:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: cca2df364070a8009abf166ef3d1538ff20c2179185fff1a3c5fb9132feec601
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Chefe do Estado Maior da Armada
+- Comandante
+- Comando de Defesa Marítima
+- Comando de ZONA Marítima
+- Comando Naval
+- Comando Naval da Madeira
+- Comando Naval do Continente
+- Comando Naval dos Açores
+- Definição de Competências
+- Faro
+- Lisboa
+relationships:
+- type: amended_by
+  target: pt:dre:654536:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:654536:por
+  label: "Extintos os Comandos Navais do Continente, dos Açores e da Madeira, pelo DR.39/94.1994.09.01.MDN, DR.IS-B [202],\
+    \ e substituídos, respectivamente, pelo Conselho Naval , pelo Comando da Zona Marítima dos Açores (CZMA) e pelo Comando\
+    \ da Zona Marítima da Madeira (CZMM), e extintos os Comandos de Defesa Marítima de Portos, pelo mesmo diploma, transitando\
+    \ as suas competências, infra-estruturas e material para os comandos das zonas marítimas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/39-1994-654536
+  date: '1994-09-01'
+- type: cites
+  target: pt:dre:313456:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:407130:por
+  label: Rectificado pela DECL.DD8081.11.11.1976.CR, DR.IS [264] de 11.11.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-407130
+  date: '1976-11-11'
+- type: repealed_by
+  target: pt:dre:657439:por
+  label: "Revogado pelo DEC LEI.49/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1993-657439
+  date: '1993-02-26'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:58:01Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 717/76
+
+de 9 de Outubro
+
+Verificando-se a necessidade de modificar a estrutura dos comandos territoriais da Armada estabelecida pelo [Decreto-Lei n.º 47815](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47815-1967-313456), de 26 de Julho de 1967;
+
+Usando dos poderes conferidos pela alínea a) do n.º 1 do artigo 148.º da Constituição, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Os comandos da Armada instalados em terra e responsáveis pela condução das operações navais e pela defesa marítima do território nacional classificam-se nos seguintes tipos:
+
+a) Comandos navais;
+
+b) Comandos de zona marítima;
+
+e) Comandos de defesa marítima de portos.
+
+Art. 2.º Aos comandos navais compete:
+
+a) Dentro das respectivas áreas oceânicas:
+
+1) Condução das operações navais;
+
+2) Comando superior dos comandos de zona marítima;
+
+3) Protecção e Contrôle naval da navegação mercante em tempo de guerra ou situações de emergência e, em tempo de paz, preparação para o desempenho dessas funções;
+
+4) Cooperação com as forças terrestres e aéreas na defesa do território nacional;
+
+5) Condução das tarefas de salvaguarda da vida humana no mar, com a cooperação das entidades nacionais e, eventualmente, estrangeiras envolvidas nessas tarefas;
+
+6) Cooperação com as entidades nacionais envolvidas nas tarefas respeitantes à defesa do ambiente, dos recursos aquáticos e do fundo do mar;
+
+7) Fiscalização, no seu âmbito, das águas de jurisdição portuguesa, com vista à defesa dos interesses nacionais;
+
+b) Dentro das áreas resultantes de acordos internacionais em vigor:
+
+Colaboração com a entidade responsável pela condução das tarefas de busca e salvamento de aeronaves;
+
+c) Em casos de excepção:
+
+Cooperação com outras forças na manutenção da ordem interna.
+
+Art. 3.º Aos comandos de zona marítima compete:
+
+a) Dentro das respectivas áreas marítimas costeiras:
+
+1) Condução das operações navais, por delegação do comando superior;
+
+2) Comando superior dos comandos de defesa marítima de portos;
+
+3) Cooperação com as forças terrestres e aéreas na defesa do território nacional;
+
+4) Cooperação nas tarefas a que se referem as subalíneas 5), 6) e 7) da alínea a) do artigo 2.º
+
+b) Em casos de excepção:
+
+Cooperação com outras forças na manutenção da ordem interna.
+
+Art. 4.º Aos comandos de defesa marítima de portos compete:
+
+a) Preparação e utilização dos meios que lhes forem atribuídos para a defesa local dos portos e respectivas áreas de acesso contra acções vindas do mar;
+
+b) Cooperação nas tarefas a que se referem as subalíneas 5), 6) e 7) da alínea a) do artigo 2.º
+
+Art. 5.º - 1. Os comandos navais e respectivas sedes são os seguintes:
+
+a) Comando Naval do Continente (CNC), em Lisboa;
+
+b) Comando Naval dos Açores (CNA), em Ponta Delgada;
+
+c) Comando Naval da Madeira (CNM), no Funchal.
+
+Os limites das áreas oceânicas de responsabilidade dos comandos navais são estabelecidos por despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e do Chefe do Estado-Maior da Armada.
+
+Art. 6.º - 1. Os comandos de zona marítima e respectivas sedes são os seguintes:
+
+a) Comando da Zona Marítima do Norte (CZMN), em Leixões;
+
+b) Comando da Zona Marítima do Centro (CZMC), em Lisboa;
+
+c) Comando da Zona Marítima do Sul (CZMS), em Faro.
+
+2. Os comandos referidos no número anterior estão subordinados a Comando Naval do Continente.
+
+3. Por portaria do Chefe do Estado-Maior da Armada poderão ser criados outros comandos de zona marítima.
+
+4. Os limites das áreas marítimas costeiras de responsabilidade dos comandos de zona marítima são estabelecidos por despacho do Chefe do Estado-Maior da Armada.
+
+Art. 7.º Os comandos de defesa marítima de portos são estabelecidos por portaria do Chefe do Estado-Maior da Armada.
+
+Art. 8.º - 1. Os comandantes navais são oficiais generais da classe de marinha.
+
+2. Os comandos navais podem ser colocados sob o comando operacional de comandos interforças armadas no desempenho das funções correspondentes à subalínea 4) da alínea a) do artigo 2.º
+
+3. Para efeito de tarefas de busca e salvamento e outras missões específicas que obriguem a estreita colaboração de comandos navais, poderá ser designado um dos comandantes navais como comandante operacional de outros comandantes navais, durante o tempo necessário ao desempenho das respectivas missões.
+
+4. Um comandante naval pode exercer o comando operacional de unidades navais que actuem fora da sua área oceânica de responsabilidade, quando tal lhe for delegado pelo Chefe do Estado-Maior da Armada.
+
+5. O comandante naval dos Açores e o comandante naval da Madeira desempenharão, por inerência e cumulativamente, as funções de chefes dos departamentos marítimos das respectivas áreas.
+
+Art. 9.º - 1. Os comandantes de zona marítima são capitães-de-mar-e-guerra da classe de marinha e estão subordinados a um comandante naval.
+
+2. Os comandantes de zona marítima exercem, por inerência e cumulativamente, as funções de chefes dos departamentos marítimos das respectivas zonas.
+
+Art. 10.º - 1. Os comandantes de defesa marítima de portos são oficiais superiores ou primeiros-tenentes da classe de marinha e estão subordinados a um comandante de zona marítima, ou directamente a um comandante naval, se não existir comandante de zona marítima com jurisdição na sua área.
+
+2. Até que se proceda à sua reestruturação, os comandos de defesa marítima de portos são os que se encontram instituídos à data da publicação do presente diploma.
+
+3. Os comandantes de defesa marítima de portos exercem, por inerência e cumulativamente, as funções de capitães dos respectivos portos.
+
+Art. 11.º Aos comandos a que se refere o artigo 1.º pode ser atribuído, para o desempenho de tarefas que lhes incumbem, o comando operacional de forças ou unidades de outros ramos das forças armadas ou de forças militarizadas.
+
+Art. 12.º Os comandos a que se refere o artigo 1.º utilizam e controlam, como postos de vigilância, para fins operacionais, os faróis que servem as áreas de sua responsabilidade.
+
+Art. 13.º Os comandos a que se refere o artigo 1.º utilizam para fins operacionais, as estações e postos radionavais situados em locais adjacentes às áreas de sua responsabilidade, mesmo que lhes não estejam subordinadas.
+
+Art. 14.º Os comandos de zona marítima e de defesa marítima de portos farão uso das instalações, meios de apoio, redes de comunicações e outras facilidades da Marinha de que estão a utilizar-se cumulativamente os respectivos departamentos marítimos e capitanias de portos.
+
+Art. 15.º A estrutura interna e as lotações dos comandos referidos no artigo 1.º são estabelecidas por portaria do Chefe do Estado-Maior da Armada.
+
+Art. 16.º - 1. Os comandantes navais e de zona marítima têm a competência disciplinar designada na coluna III do quadro a que se refere o artigo 79.º do Regulamento de Disciplina Militar.
+
+2. Os comandantes da defesa marítima de portos têm a competência disciplinar designada na coluna IV do quadro referido no número anterior se forem oficiais superiores e na coluna V se forem primeiros-tenentes.
+
+Art. 17.º É revogado o [Decreto-Lei n.º 47815](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47815-1967-313456), de 26 de Julho de 1967.
+
+Visto e aprovado em Conselho da Revolução em 22 de Setembro de 1976.
+
+Promulgado em 28 de Setembro de 1976.
+
+Publique-se.
+
+O Presidente da República, António Ramalho Eanes.

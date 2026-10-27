@@ -1,0 +1,203 @@
+---
+schema_version: '1.0'
+id: pt:dre:210583:por
+title: Decreto-Lei n.º 422/86
+short_title: null
+summary: Altera o regime de acesso às operações de fretamento na qualidade de afretador
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 422/86
+official_date: null
+publication_date: '1986-12-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 294/1986, Série I de 1986-12-23
+  number: '294'
+  series: I
+  supplement: null
+  pages: 3798 - 3799
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29400/37983799.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '210583'
+  dre_path: /dr/detalhe/decreto-lei/422-1986-210583
+  internal: pt:dre:210583:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1986-210583
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1986-210583
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:16:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 51e24b7f19aa20382cc877534fdb7fb38aa1e04cb8d64fdb9b636effb55eda8b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fretamento
+- Marinha Mercante
+- Transporte Marítimo
+relationships:
+- type: amended_by
+  target: pt:dre:485060:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:640952:por
+  label: "Determinado que deixam de estar sujeitos a registo e comunicação ao Banco de Portugal os contratos de fretamento,\
+    \ pelo DEC LEI.176/91.14.05.1991.MF, DR.IS-A [110] de 14.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1991-640952
+  date: '1991-05-14'
+- type: cites
+  target: pt:dre:152366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485060:por
+  label: "Revogado pelo DEC LEI.196/98.1998.07.10.MEPAT, DR.IS-A [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-1998-485060
+  date: '1998-07-10'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:16:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 422/86
+
+de 23 de Dezembro
+
+A actividade de afretador deve considerar-se como um reforço efectivo da capacidade de transporte do armamento nacional e por tal razão, bem assim como pela natureza complementar que reveste relativamente à exploração de navios próprios no âmbito do exercício da indústria de transportes marítimos, deve em princípio ser reservada aos armadores. Esta é uma opção que se espera que contribua para o esforço de modernização e desenvolvimento da marinha de comércio portuguesa.
+
+No entanto, são previstas duas excepções: prevê-se que os carregadores possam afretar navios por viagem ou por duas viagens consecutivas para o transporte de mercadorias relacionadas com a sua actividade principal que se considerem liberadas nos termos da legislação vigente; mantém-se a possibilidade de os afretadores inscritos afretarem navios por viagem ou por duas viagens consecutivas.
+
+Estabelecem-se igualmente prazos objectivos de resposta da Administração Pública para diversos actos que esta tem de praticar neste regime dos contratos de fretamento, reforçando-se, assim, as garantias dos agentes económicos.
+
+Prevêem-se regras que visam estimular o investimento dos armadores em frota própria nacional.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Para os efeitos do presente diploma, considera-se:
+
+a) Afretador de navios em regime de casco nu, com ou sem opção de compra, o que toma de fretamento um navio de comércio por determinado período de tempo e que detém a respectiva gestão técnica, comercial e náutica;
+
+b) Afretador a tempo, o que toma de fretamento um navio de comércio por determinado período de tempo e que detém a gestão comercial do mesmo;
+
+c) Afretador de viagem, o que toma de fretamento a totalidade ou uma parte de um navio de comércio, tendo em vista a realização específica de uma ou mais viagens.
+
+Art. 2.º - 1 - Nos contratos de fretamento em casco nu, nos contratos de fretamento a tempo e nos contratos de fretamento por viagens consecutivas que obriguem à realização de três ou mais viagens, a posição de afretador só pode ser assumida por armadores que, no exercício da indústria de transportes marítimos, se encontrem inscritos nos termos da legislação em vigor.
+
+2 - Nos contratos de fretamento por viagem ou por duas viagens consecutivas a posição de afretador só pode ser assumida:
+
+a) Por armadores inscritos nos termos da legislação em vigor;
+
+b) Por carregadores que, para o efeito, se encontrem inscritos na Direcção-Geral da Marinha de Comércio, relativamente às mercadorias relacionadas com a sua actividade principal e que se encontrem liberadas, sem prejuízo da obrigatoriedade de consulta prévia aos armadores nacionais;
+
+c) Por afretadores inscritos nos termos do artigo 3.º
+
+Art. 3.º A inscrição como afretador é efectuada na Direcção-Geral da Marinha de Comércio e é limitada às entidades cuja actividade principal se possa qualificar de comércio marítimo.
+
+Art. 4.º Os afretamentos por viagem ou por duas vigens consecutivas destinam-se a dar satisfação a necessidades casuais das empresas cujas cargas são transportadas ou para o transporte de cargas que não possam, pelas contingências próprias da sua transacção, ser transportadas mediante o recurso a outras modalidades de fretamento.
+
+Art. 5.º - 1 - A tonelagem transportada por cada armador em navios afretados deve ser tida em conta para o dimensionamento da sua frota própria nacional.
+
+2 - Os armadores que durante dois anos transportem em navios afretados de bandeira estrangeira tonelagem superior à transportada em frota própria nacional devem promover nesta no decurso do ano seguinte os ajustamentos necessários, de modo a ser corrigida aquela situação.
+
+3 - A inobservância por um armador do disposto no n.º 2 pode determinar a suspensão da sua capacidade de afretamento durante um período até três anos.
+
+4 - A decisão prevista no número anterior compete à Direcção-Geral da Marinha de Comércio, que deve, para o efeito, ouvir o armador visado.
+
+Art. 6.º As entidades que pretendam, na qualidade de afretadores, celebrar contratos de fretamento devem dar conhecimento prévio dos mesmos à Direcção-Geral da Marinha de Comércio, confirmando-os posteriormente e indicando as respectivas condições contratuais.
+
+Art. 7.º - 1 - O ministro responsável pela marinha de comércio pode impedir a celebração ou execução de qualquer contrato de fretamento sempre que sejam tomadas medidas discriminatórias contra o pavilhão português ou se verifique que a celebração contínua de contratos de fretamento visa iludir o estipulado no presente diploma.
+
+2 - Para os efeitos do disposto no número anterior, o impedimento de qualquer contrato de fretamento deve ser comunicado ao afretador no prazo máximo de:
+
+a) Quatro dias úteis após a recepção da comunicação prévia na Direcção-Geral da Marinha de Comércio, se o contrato for de fretamento em casco nu, a tempo ou à viagem por mais de três viagens consecutivas;
+
+b) Um dia útil após a recepção da comunicação prévia na Direcção-Geral da Marinha de Comércio, nos restantes casos.
+
+3 - O disposto no n.º 1 não prejudica a aplicação de outras normas sancionatórias em vigor por infracções decorrentes do exercício da actividade prevista neste diploma.
+
+Art. 8.º - 1 - Os agentes económicos que violem o disposto nos artigos 2.º ou 4.º ou não respeitem as decisões previstas nos artigos 5.º, n.º 3, ou 7.º, n.º 1, praticam contra-ordenação sancionável com coima entre 150000$00 e 1500000$00.
+
+2 - A violação do disposto no artigo 6.º constitui igualmente contra-ordenação sancionável com coima de 100000$00 a 1000000$00.
+
+3 - Compete à Direcção-Geral da Marinha de Comércio o processamento das contra-ordenações e a aplicação das coimas, sem prejuízo do disposto nos artigos 38.º, n.os 1 e 2, e 39.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+
+Art. 9.º A inobservância reiterada pelos carregadores e pelos afretadores inscritos das disposições contidas no presente diploma pode acarretar o cancelamento da inscrição prevista, respectivamente, na alínea b) do n.º 2 do artigo 2.º e no artigo 3.º, devendo, para o efeito, ser ouvido o agente económico visado.
+
+Art. 10.º No âmbito do presente diploma, e para efeitos da sua normal execução, as entidades afretadoras devem prestar as informações necessárias que lhes forem solicitadas pelos organismos competentes da Administração Pública.
+
+Art. 11.º Ao ministro responsável pela marinha de comércio compete regulamentar o disposto no presente diploma.
+
+Art. 12.º São revogados os Decretos-Leis n.os [282/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1978-329829), de 8 de Setembro, e [150/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1985-152366), de 8 de Maio, e as Portarias n.os [531/78](https://diariodarepublica.pt/dr/detalhe/portaria/531-1978-329831), de 8 de Setembro, e [788/85](https://diariodarepublica.pt/dr/detalhe/portaria/788-1985-177669), de 18 de Outubro.
+
+Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1986. - Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins.
+
+Promulgado em 4 de Dezembro de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 10 de Dezembro de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

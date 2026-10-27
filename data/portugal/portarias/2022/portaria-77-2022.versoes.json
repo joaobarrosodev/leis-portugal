@@ -1,0 +1,451 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:178602021:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-178637962",
+ "dre_path": "/dr/detalhe/portaria/77-2022-178602021",
+ "source_lastmod": "2025-04-30",
+ "versions": [
+  {
+   "date": "2022-02-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "178637858",
+    "178637859",
+    "178637860",
+    "178637861",
+    "178637862",
+    "178637863",
+    "178637864",
+    "178637865",
+    "178637866",
+    "178637867",
+    "178637868",
+    "178637869",
+    "178637870",
+    "178637871",
+    "178637872",
+    "178637873",
+    "178637874",
+    "178640575",
+    "178640576",
+    "178640577",
+    "178640578",
+    "178640579",
+    "178640580",
+    "178640581",
+    "178640582",
+    "178640583",
+    "178640584",
+    "178640585",
+    "178640586",
+    "178640587",
+    "178640588",
+    "178640589",
+    "178640591"
+   ]
+  },
+  {
+   "date": "2025-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:916383943:por",
+     "title": "Portaria n.º 205/2025/1",
+     "published": "2025-04-30",
+     "dre_path": "/dr/detalhe/portaria/205-2025-916383943"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Anexo",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "178637858",
+    "178637859",
+    "178637860",
+    "178637861",
+    "178637862",
+    "178637863",
+    "178637864",
+    "178637865",
+    "178637866",
+    "178637867",
+    "916268446",
+    "916268452",
+    "178637870",
+    "178637871",
+    "916268447",
+    "916268448",
+    "178637874",
+    "178640575",
+    "178640576",
+    "178640577",
+    "178640578",
+    "178640579",
+    "178640580",
+    "178640581",
+    "178640582",
+    "916268449",
+    "916268450",
+    "178640585",
+    "178640586",
+    "178640587",
+    "178640588",
+    "178640589",
+    "178640590",
+    "916268451"
+   ]
+  }
+ ],
+ "fragments": {
+  "178637858": {
+   "fragment_id": "178637963",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 77/2022\n\nde 3 de fevereiro\n\nSumário: Estabelece as condições de instalação, organização e funcionamento a que deve obedecer a resposta social Residência de Autonomização e Inclusão.\n\nA Convenção sobre os Direitos das Pessoas com Deficiência da Organização das Nações Unidas (CNUDPCD), reconhece o direito de todas as pessoas com deficiência a viverem na comunidade, em igualdade de oportunidades com os demais cidadãos e cidadãs. Por seu turno, dando valor ao preconizado na Carta Social Europeia preconiza sobre o direito das pessoas com deficiência à autonomia, à integração social e à participação na vida da comunidade.\n\nNo âmbito do desenvolvimento das políticas de reabilitação e reforço da proteção e inclusão social na área da deficiência, e de acordo com o estatuído na Lei n.º 38/2004, de 18 de agosto, que define as bases gerais do regime jurídico da prevenção, habilitação, reabilitação e participação da pessoa com deficiência, o Estado tem vindo a assumir como prioridade a sua valorização pessoal e a inclusão social e profissional, valores que concorrem para o exercício da sua plena cidadania. A inclusão plena dos cidadãos e cidadãs com deficiência, bem como o reconhecimento e promoção dos seus direitos fundamentais, constitui uma prioridade assumida pelo XXII Governo Constitucional.\n\nNo quadro de referência definido na CNUDPCD, na Estratégia Europeia para os Direitos das Pessoas com Deficiência 2021-2030 e na Estratégia Nacional para a Inclusão das Pessoas com Deficiência (ENIPD 2021-2025), pretende-se aprofundar o exercício do direito das pessoas com deficiência a viver de forma autónoma e independente, a ser incluídas na comunidade, e a usufruir de serviços e cuidados de base comunitária, tais como habitação, cuidados de saúde, educação, emprego, cultura e lazer, acessíveis a todos, independentemente da natureza da sua deficiência ou do nível de apoio necessário.\n\nNo âmbito do Plano de Recuperação e Resiliência está previsto o investimento numa nova geração de equipamentos e respostas sociais, que tem como objetivo reforçar, adaptar, requalificar e inovar as respostas sociais dirigidas às pessoas com deficiência ou incapacidade e famílias, tendo em vista nomeadamente a promoção da autonomia e a inclusão.\n\nOs objetivos associados à promoção da autonomia e da vida independente trazem novos desafios ao funcionamento e adequação das atuais Residências Autónomas, no sentido de melhor se adequarem aos objetivos da Convenção sobre os Direitos das Pessoas com Deficiência, e a uma maior autonomia, cidadania e inclusão.\n\nNas últimas décadas, o novo paradigma de cuidados e de apoio colocou grandes desafios e exigiu uma mudança fundamental no modelo tradicional que implica afastar-se de um enfoque nos défices da pessoa com deficiência para abranger e ampliar outras facetas da vida, diretamente associadas ao desenvolvimento pessoal, autodeterminação, participação, inclusão e a assunção de papéis socialmente reconhecidos.\n\nA nova perspetiva de deficiência norteada pela matriz da Convenção sobre os Direitos das Pessoas com Deficiência, focada nos seus direitos, e o paradigma atual de apoio a estes cidadãos, baseado no direito à igualdade de oportunidades, no exercício dos direitos e deveres, na promoção da vida independente, participação e integração social plena, enfatizam a promoção das potencialidades pessoais, a promoção da qualidade de vida e participação das pessoas na definição das suas necessidades e apoios e na avaliação dos serviços.\n\nAssumindo uma perspetiva claramente inclusiva, assente no modelo residencial de habitação inclusiva, pretende-se proceder à criação da Residência de Autonomização e Inclusão (RAI), enquanto resposta social de natureza habitacional inserida na comunidade. Esta resposta habitacional é orientada pelo modelo de apoio centrado na pessoa com deficiência ou incapacidade que concentra a sua atuação nos princípios da autodeterminação, autonomia e inclusão, procurando identificar, responder e adequar o tipo e a intensidade do apoio às necessidades e aos diferentes contextos das áreas da vida dos residentes.\n\nDeste modo, procede-se no presente diploma à criação da Residência de Autonomização e Inclusão, que visa uma mudança no paradigma da estruturação do acolhimento residencial adaptado para pessoas com deficiência ou incapacidade, localizado em áreas residenciais na comunidade, com uma metodologia adequada à prestação de um atendimento e apoio personalizado, flexível e qualificado, proporcionando suporte às necessidades individuais e à criação de condições para a concretização de um projeto de vida sustentável, independente e inclusivo.\n\nForam ouvidas a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e a CONFECOOP - Confederação Cooperativa Portuguesa.\n\nAssim, manda o Governo, pela Secretária de Estado da Inclusão das Pessoas com Deficiência, ao abrigo do artigo 5.º do Decreto-Lei n.º 64/2007, de 14 de março, alterado e republicado pelo Decreto-Lei n.º 126-A/2021, de 31 de dezembro, e no uso das competências delegadas pelo Despacho n.º 892/2020, datado de 14 de janeiro, publicado no Diário da República, 2.ª série, n.º 15, de 22 de janeiro de 2020, o seguinte:"
+  },
+  "178637859": {
+   "fragment_id": "178637964",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece as condições de instalação, organização e funcionamento a que deve obedecer a resposta social Residência de Autonomização e Inclusão, adiante designada de RAI.\n\n2 - A Residência de Autonomização e Inclusão sucede e substitui a anterior Residência Autónoma, enquanto resposta social, devendo entender-se como realizada à RAI qualquer referência formal à Residência Autónoma em legislação dispersa ou documentação oficial.\n\n3 - O presente diploma procede ainda à alteração da Portaria n.º 59/2015, de 2 de março, que define as condições de organização, funcionamento e instalação de estabelecimentos residenciais destinados a pessoas com deficiência e incapacidade, designados por lar residencial e residência autónoma."
+  },
+  "178637860": {
+   "fragment_id": "178637965",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito\n\nA RAI é uma resposta de alojamento residencial temporário ou permanente, desenvolvida em apartamento, moradia ou outra tipologia de habitação similar, inserida em áreas residenciais na comunidade, destinada a pessoa com deficiência ou incapacidade, com capacidade de viver de forma autónoma, e tem por objetivo, mediante apoio individualizado, proporcionar condições para a concretização de um projeto de vida autónomo e inclusivo."
+  },
+  "178637861": {
+   "fragment_id": "178637966",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - As disposições constantes da presente portaria aplicam-se a RAI:\n\na) A implementar em edifícios a construir de raiz ou em edifícios já existentes a adaptar para o efeito;\n\nb) Com processo em curso, de licenciamento da construção ou de autorização de funcionamento ou de acordo de cooperação a celebrar com o Instituto da Segurança Social, I. P. (ISS, I. P.), à data da entrada em vigor do presente diploma;\n\nc) Com licença de funcionamento, ao abrigo do Decreto-Lei n.º 33/2014, de 4 de março, comunicação prévia ao abrigo do Decreto-Lei n.º 126-A/2021, de 31 de dezembro, ou, quando aplicável, acordo de cooperação celebrado com o ISS, I. P.\n\n2 - O disposto nos artigos 22.º a 25.º do presente diploma não é aplicável às RAI referidas nas alíneas b) e c) do número anterior."
+  },
+  "178637862": {
+   "fragment_id": "178637967",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios orientadores\n\nSão princípios orientadores do modelo de funcionamento da RAI:\n\na) O princípio da Individualidade - preconiza uma abordagem centrada na pessoa que reconhece e valoriza as suas necessidades, expectativas e preferências na construção do seu projeto de vida;\n\nb) O princípio da Privacidade - determina o direito a ver preservada e respeitada a sua vida pessoal e relacional, sem que outros interfiram em assuntos que lhes dizem exclusivamente respeito;\n\nc) O princípio da Autodeterminação - expressa o direito da pessoa com deficiência a decidir sobre a definição e a condução da sua própria vida, a exercer os mesmos direitos de todos os cidadãos e cidadãs, a liberdade de expressar as suas crenças, preferências e opiniões;\n\nd) O princípio da Autonomia - determina que a pessoa com deficiência tem o direito de decisão pessoal na definição e condução autónoma da sua vida e a ter a sua vontade respeitada, nas matérias que se referem a si própria;\n\ne) O princípio da Igualdade e não discriminação - estatui que nenhuma pessoa pode ser discriminada, direta ou indiretamente, por ação ou omissão, com base na saúde, dependência, deficiência e ou incapacidade, ou de não ter igual direito de acesso a serviços e apoios;\n\nf) O princípio da Participação na vida da comunidade - implica o direito das pessoas com deficiência a participarem de forma plena e efetiva na sociedade em condições de igualdade com os demais cidadãos e cidadãs;\n\ng) O princípio da Cidadania - implica que as pessoas com deficiência têm direito a usufruir das condições necessárias e suficientes para aceder a todos os bens, serviços e contextos de vida, em condições de equidade, bem como o direito e o dever de desempenhar um papel ativo no desenvolvimento da sociedade;\n\nh) O princípio da Inclusão - implica que a sociedade se organize para acolher todas e todos os cidadãos e cidadãs, independentemente das suas capacidades e da sua funcionalidade, de modo que as pessoas com deficiência possam viver integradas na comunidade, usufruindo de todos os recursos disponíveis em igualdade com os demais cidadãos e cidadãs."
+  },
+  "178637863": {
+   "fragment_id": "178637968",
+   "type": 11,
+   "heading": "Artigo 5.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objetivos\n\nA RAI prossegue, designadamente, os seguintes objetivos:\n\na) Disponibilizar alojamento e apoio residencial permanente ou temporário;\n\nb) Promover a igualdade de direitos e oportunidades de autodeterminação e participação plena nas várias esferas da vida em sociedade;\n\nc) Promover um modelo de funcionamento comunitário, com o objetivo de facilitar o aumento das relações sociais e os níveis de funcionamento na comunidade;\n\nd) Promover a construção progressiva da autonomia e independência no desenvolvimento das atividades da vida diária, e da participação social e comunitária;\n\ne) Desenvolver competências pessoais, sociais, escolares e profissionais através de programas de apoio individualizado e específicos;\n\nf) Promover um modelo de apoio centrado na pessoa, nas suas necessidades, na sua liberdade de escolha, na realização do seu potencial e na sua satisfação;\n\ng) Contribuir para o bem-estar físico e emocional e a melhoria da qualidade de vida nas suas diferentes dimensões;\n\nh) Proporcionar oportunidades dignificantes e significativas baseadas nas prioridades de cada pessoa e nos apoios de que verdadeiramente necessita para funcionar, o mais independentemente possível, nos seus contextos de vida;\n\ni) Promover um modelo de apoio integrado e holístico, orientado para as reais necessidades e focalizado na promoção da autonomia, da vida independente e da qualidade de vida;\n\nj) Promover a iniciativa e a responsabilização progressiva em relação às decisões e aos projetos individuais."
+  },
+  "178637864": {
+   "fragment_id": "178637969",
+   "type": 11,
+   "heading": "Artigo 6.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Destinatários\n\nA RAI destina-se a pessoas com deficiência, com idade igual ou superior a 18 anos que, mediante apoio no seu projeto de autonomização e inclusão, possam transitar, sempre que possível, para soluções alternativas de vida na comunidade."
+  },
+  "178637865": {
+   "fragment_id": "178637970",
+   "type": 11,
+   "heading": "Artigo 7.º — Capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Capacidade\n\n1 - A capacidade da RAI é, no máximo, de 5 pessoas com deficiência e incapacidade.\n\n2 - A tipologia e capacidade da RAI deve ser adequada ao perfil e necessidades dos seus residentes.\n\n3 - A RAI deve, sempre que possível, garantir condições para que sejam readmitidas pessoas com deficiência que já tenham residido na RAI, e que necessitem de apoio residencial para assegurar a sustentabilidade do seu projeto de vida independente e inclusivo."
+  },
+  "178637866": {
+   "fragment_id": "178637971",
+   "type": 11,
+   "heading": "Artigo 8.º — Modelo de apoio residencial inclusivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Modelo de apoio residencial inclusivo\n\n1 - A RAI desenvolve a sua intervenção através do modelo de apoio residencial inclusivo, sustentado nas seguintes áreas:\n\na) Promoção de um modelo de serviços de apoio baseado na matriz de direitos e princípios centrados na pessoa, suportado na rede de serviços de base comunitária, que permitem o exercício efetivo do direito à autonomia, à inclusão e à participação na vida da comunidade;\n\nb) Implementação de medidas que contribuam para a melhoria da qualidade de vida nas diferentes dimensões ou áreas da vida da pessoa, no bem-estar físico, emocional, material, no desenvolvimento pessoal e relações interpessoais;\n\nc) Promoção da autonomia e treino da capacidade de tomar decisões, mediante estratégias e práticas de resolução de problemas, centradas na participação;\n\nd) Participação na definição do percurso individual, resultando que os apoios a disponibilizar são definidos em função dos objetivos que cada pessoa própria fixou para o seu projeto de vida;\n\ne) Desenvolvimento de uma visão e planificação que tem em conta a situação específica de cada pessoa, focalizada na autodeterminação e na promoção da independência e aquisição de competências pessoais, relacionais e sociais;\n\nf) Criação de contextos, situações e oportunidades que permitam de forma eficaz a participação e o exercício efetivo do direito à plena cidadania em condições de igualdade.\n\n2 - As atividades desenvolvidas na habitação são planeadas e organizadas com a participação dos residentes, de forma individualizada, valorizando as suas escolhas, necessidades, interesses e vontades."
+  },
+  "178637867": {
+   "fragment_id": "178637972",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio e serviços\n\n1 - Os serviços a prestar no âmbito do modelo de apoio residencial inclusivo são, designadamente, os seguintes:\n\na) Alojamento e apoio residencial inclusivo, de tipo familiar, com condições de salubridade, conforto, segurança, privacidade, acessível e adaptado às necessidades dos seus residentes;\n\nb) Atendimento e acompanhamento psicossocial individualizado;\n\nc) Definição de um Plano Individual de Autonomização (PIA), a definir segundo os interesses, hábitos, necessidades e expectativas da pessoa residente.\n\n2 - O modelo de apoio residencial inclusivo compreende ainda o apoio:\n\na) Nas atividades domésticas, designadamente na alimentação com padrões nutricionais adequados e adaptados a necessidades específicas, no tratamento de roupa e na limpeza e higienização da habitação;\n\nb) Na saúde, higiene e cuidados pessoais, a título excecional, quando solicitados pelos próprios ou quando estes não possam ser realizados de forma totalmente autónoma;\n\nc) No desenvolvimento de competências necessárias para tomar parte ativa na planificação, programação e organização nas atividades que estruturam a vida na residência e na comunidade, tais como realização de compras, planificação de refeições, repartição de tarefas, deslocações e atividades de lazer;\n\nd) No acesso aos recursos da comunidade, facilitando a utilização eficiente dos serviços existentes;\n\ne) No acesso a produtos ou tecnologias de apoio à funcionalidade e à autonomia."
+  },
+  "178637868": {
+   "fragment_id": "178637973",
+   "type": 11,
+   "heading": "Artigo 10.º — Rede complementar de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Rede complementar de serviços\n\n1 - A RAI deve articular com outras entidades, serviços e programas da comunidade, designadamente com o Centro de Apoio à Vida Independente (CAVI), sempre que as condições de contexto pessoal, social e habitacional da pessoa possibilitem a transição para o serviço de assistência pessoal.\n\n2 - O residente na RAI pode, ainda, beneficiar de outros apoios e respostas sociais de natureza complementar e não residencial, nomeadamente do Centro de Atividades e Capacitação para a Inclusão (CACI), mediante o estabelecimento de protocolo de parceria, a celebrar entre a entidade gestora e a entidade legalmente habilitada para o desenvolvimento dos referidos serviços e atividades.\n\n3 - Fica dispensada a celebração de protocolo de parceria previsto no número anterior, sempre que as respostas sejam desenvolvidas pela mesma entidade.\n\n4 - A RAI deve cooperar, articular e complementar o seu apoio, de forma coordenada e em rede, com as entidades e serviços da comunidade, designadamente da área da educação, saúde, justiça, segurança social, habitação, emprego e formação profissional, proteção civil, cultura e lazer, promovendo a utilização eficaz dos recursos da comunidade."
+  },
+  "178637869": {
+   "fragment_id": "178637974",
+   "type": 11,
+   "heading": "Artigo 11.º — Protocolo de parceria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Protocolo de parceria\n\n1 - O protocolo de parceria previsto no artigo anterior é celebrado entre a entidade gestora da RAI e as entidades da comunidade, do qual consta designadamente:\n\na) A identificação das entidades outorgantes;\n\nb) As atividades a desenvolver e ou os serviços a prestar, respetivo local e horário;\n\nc) Os direitos e deveres;\n\nd) O montante financeiro assumido no âmbito do protocolo, quando aplicável;\n\ne) A vigência do protocolo de parceria.\n\n2 - A entidade gestora deve, no prazo de 30 dias, após a celebração do protocolo de parceria, dar conhecimento do mesmo aos serviços competentes do ISS, I. P."
+  },
+  "178637870": {
+   "fragment_id": "178640475",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Obrigações da entidade gestora\n\n1 - A entidade gestora da RAI obriga-se, designadamente, a:\n\na) Promover condições de vida que contribuam para o bem-estar e qualidade de vida adequadas às necessidades específicas;\n\nb) Elaborar, acompanhar e avaliar o Plano Individual de Autonomização;\n\nc) Definir, em conjunto com o residente, o tipo, a duração e os apoios adequados às suas capacidades, necessidades, preferências individuais e projeto de vida;\n\nd) Criar condições que permitam desenvolver, a vida diária em ambiente natural e a realização de atividades comunitárias que sejam significativas e ajudem a adquirir um sentimento de pertença à comunidade;\n\ne) Reduzir os fatores externos e de risco que dificultem a participação social, estabelecendo medidas eficazes para a redução do estigma e da discriminação;\n\nf) Promover a capacitação digital através da utilização e disponibilização de tecnologias, aplicações móveis e soluções digitais;\n\ng) Promover a instalação de uma comissão de residentes, constituída por um representante de cada RAI, nos termos a definir no Regulamento Interno, previsto na alínea f) do artigo 21.º\n\n2 - A entidade gestora da RAI deve conceber processos de avaliação sistemática, promovendo a participação de todos os intervenientes, residentes, famílias, técnicos e pessoal voluntário, com uma periodicidade mínima anual."
+  },
+  "178637871": {
+   "fragment_id": "178640476",
+   "type": 11,
+   "heading": "Artigo 13.º — Direitos e deveres da pessoa residente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direitos e deveres da pessoa residente\n\n1 - A pessoa que reside na RAI tem direito, designadamente, a:\n\na) Ver preservada a sua dignidade, privacidade, intimidade e individualidade;\n\nb) Ter um Plano Individual de Autonomização adaptado às necessidades, prioridades, capacidades, expectativas e preferências;\n\nc) Ver salvaguardado o seu conforto, bem-estar e segurança, no respeito pelas condições determinadas pela própria;\n\nd) Ver respeitada a sua integridade psicológica, psicossocial, física, ética e moral;\n\ne) Ser tratada com respeito, com correção e compreensão, tanto nas relações verbais como, quando necessário, no apoio físico para realizar as atividades da vida quotidiana;\n\nf) Ser informada e orientada no seu processo de autonomização sobre os direitos e deveres inerentes ao exercício da sua cidadania e participação social;\n\ng) Exprimir os seus pontos de vista livremente sobre todas as questões que a afetem, sendo as suas opiniões devidamente consideradas;\n\nh) Ser-lhe garantido o sigilo e a confidencialidade na prestação do apoio e dos serviços;\n\ni) Ter acesso a espaços habitacionais com padrões de qualidade, individualizados e personalizados;\n\nj) Participar diretamente em todas as decisões que lhe digam respeito, designadamente na gestão das atividades da vida diária, bem como a participar e ser auscultada no processo de admissão, sempre que a residência seja partilhada e funcione em regime de coabitação;\n\nk) Participar no planeamento, organização e gestão da residência;\n\nl) Ver respeitada, sempre que possível, a decisão de escolher o local e a tipologia da habitação, tendo em conta a realidade geográfica e o contexto sociocultural;\n\nm) Ver respeitado o seu estilo de vida, os seus interesses individuais, as suas necessidades e expectativas pessoais, sociais e profissionais;\n\nn) Tomar parte ativa nas atividades que estruturam a vida na residência, como forma de aprendizagem para a autonomia;\n\no) Ter acesso e receber informação que seja comunicada de forma compreensível e, quando apropriado, adaptada às suas necessidades particulares;\n\np) Propor ou indicar o/a técnico/a de referência responsável pelo acompanhamento do processo de autonomização, nos termos do n.º 4 do artigo 15.º, da presente portaria;\n\nq) Conhecer de forma acessível e compreensível o regulamento interno da RAI;\n\nr) Avaliar o serviço e apresentar críticas e sugestões relativas ao funcionamento e organização da RAI;\n\ns) Participar na designação do representante da RAI, a integrar a comissão de representantes dos residentes.\n\n2 - Constituem deveres da pessoa que reside na RAI, designadamente, os seguintes:\n\na) Permanecer na residência de forma responsável, ativa e participativa;\n\nb) Tratar com urbanidade e respeito os responsáveis e profissionais da equipa técnica;\n\nc) Respeitar a privacidade e intimidade dos outros residentes, sempre que a residência é partilhada e funcione em regime de coabitação;\n\nd) Preservar a conservação da residência e dos bens e equipamentos da mesma."
+  },
+  "178637872": {
+   "fragment_id": "178640477",
+   "type": 11,
+   "heading": "Artigo 14.º — Direção técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direção técnica\n\n1 - A direção técnica é assegurada por um técnico superior, com formação superior em ciências sociais e do comportamento, serviço social ou saúde, preferencialmente com experiência profissional ou formação específica na área da deficiência.\n\n2 - À direção técnica compete coordenar a RAI, assumindo a responsabilidade pela programação dos apoios e serviços, com vista a garantir um modelo de gestão e apoio residencial de qualidade e inclusivo, adequado ao processo de autonomização dos residentes.\n\n3 - Compete, ainda, à direção técnica:\n\na) A coordenação e orientação dos profissionais da equipa técnica;\n\nb) A programação e realização de reuniões periódicas com a equipa e outros profissionais;\n\nc) A realização de reuniões periódicas com os residentes, de modo a dinamizar atividades conjuntas de forma participada e auscultar a sua satisfação com a resposta;\n\nd) A promoção de ações de sensibilização dirigidas às famílias e agentes da comunidade;\n\ne) A promoção da articulação e o desenvolvimento de relações interinstitucionais com outras entidades que complementem o apoio e os serviços residenciais prestados;\n\nf) A conceção e implementação de metodologias de trabalho e de organização para proteger os direitos, a capacitação e autodeterminação do residente;\n\ng) O mapeamento da rede de serviços, programas, projetos e recursos existentes na comunidade local;\n\nh) A mobilização dos recursos da comunidade adequados à progressiva autonomia pessoal, social e profissional;\n\ni) A promoção de ações de formação dirigidas à equipa e voluntários;\n\nj) A avaliação da gestão e funcionamento da RAI, bem como a satisfação de todas as pessoas envolvidas, numa ótica de melhoria contínua.\n\n4 - Sempre que a entidade gestora disponha de três ou mais RAI, a direção técnica é assegurada a tempo inteiro, podendo a afetação ser a tempo parcial quando o número de RAI for inferior a três, sendo neste caso exercida por um dos técnicos superiores da equipa.\n\n5 - Para efeitos do número anterior, quando a entidade gestora disponha de uma RAI a direção técnica pode ser exercida com uma afetação de 25 %, quando a mesma entidade disponha de duas RAI essa afetação é de 50 %."
+  },
+  "178637873": {
+   "fragment_id": "178640478",
+   "type": 11,
+   "heading": "Artigo 15.º — Equipa técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Equipa técnica\n\n1 - A RAI dispõe de uma equipa de profissionais com formação específica adequada e definida em função do número e perfil dos residentes.\n\n2 - A RAI, com capacidade para cinco residentes, deve dispor de um mínimo, de:\n\na) Um psicólogo/a, a tempo parcial com uma afetação de 25 %;\n\nb) Um/a técnico/a superior de Serviço Social, a tempo parcial, com uma afetação de 25 %;\n\nc) Um/a técnico/a de reabilitação física, social ou profissional, a tempo parcial, com uma afetação de 25 %;\n\nd) Um/a ajudante de ação direta a tempo inteiro e um/a ajudante de ação direta, a tempo parcial, com uma afetação de 50 %, para cada residência.\n\n3 - Constituem atribuições e competências dos profissionais da equipa técnica:\n\na) Acompanhamento psicossocial e do desenvolvimento pessoal e funcional dos residentes;\n\nb) Elaboração com o residente, através de um processo colaborativo e participativo, do plano individual de autonomização;\n\nc) Apoio e incentivo ao restabelecimento e ou fortalecimento dos vínculos familiares da pessoa, sempre que tal se revele possível;\n\nd) Apoio e serviços personalizados orientados para atender às necessidades de cada residente;\n\ne) Supervisão da organização das atividades da vida diária dentro e fora do contexto habitacional, utilizando a rotina do quotidiano como instrumento de autonomia, independência e inclusão;\n\nf) Promoção da iniciativa e a responsabilização progressiva em relação às decisões e aos projetos individuais;\n\ng) Facilitação do acesso e a utilização dos serviços formais e informais, permitindo uma coordenação integrada dos serviços prestados e uma utilização eficiente dos recursos;\n\nh) Fornecimento de informações para apoiar a tomada esclarecida de decisão da pessoa respeitando a sua capacidade de autodeterminação;\n\ni) Apoio no planeamento da saída e no acompanhamento do processo de transição para o projeto residencial autónomo de vida independente, sempre que possível, e de acordo com a especificidade de cada pessoa.\n\n4 - Sempre que a RAI tenha uma capacidade inferior a 5 residentes, o número de profissionais previsto no n.º 2 é proporcionalmente redimensionado em função do número de residentes.\n\n5 - Os profissionais previstos nas alíneas a), b) e c) do n.º 2 são designados técnicos/as de referência de apoio ao processo de autonomização dos residentes, indicados pela direção técnica ou por solicitação do/a residente.\n\n6 - Compete ao técnico de referência de apoio ao processo de autonomização, apoiar e facilitar a mobilização dos recursos disponíveis, assegurando de forma global, coordenada e sistémica todos os apoios.\n\n7 - Sem prejuízo dos recursos humanos previstos no n.º 2, a RAI pode contar com a colaboração de voluntários, enquadrados nos termos da lei, não podendo ser considerados para efeito do disposto nos números anteriores."
+  },
+  "178637874": {
+   "fragment_id": "178640479",
+   "type": 11,
+   "heading": "Artigo 16.º — Condições de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Condições de admissão\n\n1 - As condições de admissão da RAI constam do Regulamento Interno da residência.\n\n2 - A admissão na RAI está sujeita à apresentação de um relatório social e clínico, que certifique a deficiência e o grau de incapacidade bem como a situação física, psíquica e social.\n\n3 - O planeamento do processo de admissão deve ser centrado na pessoa, com a participação da família, quando possível, ou da pessoa que legalmente a representa, de forma a salvaguardar, designadamente:\n\na) O direito a participar na avaliação global das suas necessidades, preferências e expectativas e na seleção da opção residencial mais apropriada, e que melhor se adapta às suas capacidades funcionais e necessidades;\n\nb) A admissão deve ser feita de maneira informada e consciente, de acordo com a preferência da pessoa, conciliando, sempre que possível, as necessidades pessoais de integração, participação e inclusão na comunidade, com a tipologia da residência;\n\nc) Deve ser feita uma avaliação diagnóstica que inclui uma visão holística e integrada da pessoa;\n\nd) A seleção da residência deve ter em conta a história de vida e o percurso pessoal, social e profissional da pessoa, bem como a sua realidade geográfica e sociocultural;\n\ne) A tipologia da habitação deve adequar-se a pessoas com mobilidade condicionada, garantindo as condições de acessibilidade.\n\n4 - Sempre que não se encontrem reunidos os critérios de admissibilidade na RAI, a pessoa deve ser informada sobre as razões da não admissão, devendo ser disponibilizada informação sobre outras alternativas possíveis existentes na comunidade e, se possível, estabelecer contactos, de forma a proporcionar a obtenção de resposta em tempo útil."
+  },
+  "178640575": {
+   "fragment_id": "178640480",
+   "type": 11,
+   "heading": "Artigo 17.º — Contrato de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contrato de prestação de serviços\n\n1 - No ato de admissão, é obrigatória a celebração, por escrito, de contrato de prestação de serviços com a pessoa ou com quem legalmente a represente, de onde constem, designadamente:\n\na) A identificação da pessoa admitida na residência;\n\nb) A identificação do/a representante legal, quando aplicável;\n\nc) Os direitos e obrigações das partes;\n\nd) As atividades, apoios e serviços contratualizados;\n\ne) As condições de permanência e de saída da residência;\n\nf) O montante da mensalidade ou da comparticipação familiar, quando aplicável;\n\ng) As condições de suspensão, cessação e rescisão do contrato.\n\n2 - Sempre que a RAI desenvolva ou preste serviços através de entidades parceiras, nos termos previstos no artigo 11.º, o contrato de prestação de serviços deve incluir o consentimento da pessoa para o seu desenvolvimento.\n\n3 - O contrato de prestação de serviços, o plano individual de autonomização e o regulamento interno devem garantir o cumprimento de todos os requisitos aplicáveis em matéria de acessibilidade no âmbito da comunicação.\n\n3 - É entregue um exemplar do contrato ao residente ou a quem legalmente o represente e o duplicado arquivado no respetivo processo individual.\n\n4 - Qualquer alteração ao contrato é efetuada por mútuo consentimento, datado e assinado pelas partes outorgantes."
+  },
+  "178640576": {
+   "fragment_id": "178640481",
+   "type": 11,
+   "heading": "Artigo 18.º — Processo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Processo individual\n\n1 - É obrigatória a elaboração de um processo individual da pessoa residente, do qual consta, designadamente:\n\na) Identificação da pessoa residente;\n\nb) Data de admissão;\n\nc) Ficha de inscrição com a identificação do médico assistente, da pessoa de referência ou representante legal, quando aplicável, e o respetivo contacto;\n\nd) Relatório clínico e ou da equipa multidisciplinar contendo as especificidades da situação de deficiência;\n\ne) Relatório social, o qual deve conter elementos de caraterização individual, familiar, profissional, económica e social;\n\nf) O Plano Individual de Autonomização, com registo da data de início e termo do mesmo;\n\ng) Exemplar do contrato de prestação de serviços;\n\nh) Cessação do contrato de prestação de serviços com a indicação da data e motivo;\n\ni) Registo de períodos de ausência, bem como de ocorrência de situações anómalas.\n\n2 - A informação clínica referenciada na alínea d) do número anterior é confidencial e de acesso restrito, garantindo-se que possa ser consultada de forma autónoma.\n\n3 - O processo individual deve estar atualizado, tem natureza confidencial e é de acesso restrito, nos termos da legislação em vigor."
+  },
+  "178640577": {
+   "fragment_id": "178640482",
+   "type": 11,
+   "heading": "Artigo 19.º — Plano Individual de Autonomização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Plano Individual de Autonomização\n\n1 - O Plano Individual de Autonomização (PIA) é um instrumento técnico norteador de apoio ao processo de autonomização, que contém os objetivos, as ações e as metas para o desenvolvimento e inclusão da pessoa, de acordo com os seus interesses pessoais, competências e nível de autonomia.\n\n2 - O PIA é de elaboração obrigatória e deve orientar-se pelos seguintes princípios e pressupostos:\n\na) Deve orientar-se pelos princípios da igualdade, da não-discriminação, autodeterminação, autonomia, independência, participação, cidadania e inclusão;\n\nb) Deve reafirmar a participação ativa e a autodeterminação como direitos fundamentais e prioritários para o exercício pleno dos direitos da pessoa residente;\n\nc) A metodologia que orienta o processo de autonomização é o planeamento centrado na pessoa, segundo a qual o importante é apoiar a pessoa a criar uma visão futura de um projeto de vida independente e inclusivo;\n\nd) O plano individual de autonomização tem um caráter dinâmico, reflete o projeto de vida da pessoa, as capacidades que possuiu, as aprendizagens contínuas e os apoios que necessita para o concretizar;\n\ne) Deve respeitar a individualização e personalização do suporte do apoio, respeitando os objetivos, valores e os interesses da pessoa residente;\n\nf) Deve privilegiar na sua elaboração e avaliação, a colaboração de outros serviços e estruturas da comunidade, nomeadamente de profissionais da área de saúde, educação, segurança social, justiça, habitação e emprego;\n\ng) Deve promover a criação de soluções de complementaridade e de respostas de natureza comunitária que contribuam efetivamente para a sua autonomia, valorização pessoal e desenvolvimento de competências;\n\nh) A avaliação sistemática das necessidades de apoio deve orientar o desenvolvimento e revisão do plano individual de autonomização;\n\ni) O plano individual de autonomização deve incluir e expressar a vontade do residente, relativamente ao planeamento da saída e transição para um projeto de vida alternativo;\n\nj) O trabalho colaborativo em rede e em parceria deve constituir-se uma estratégia à operacionalização do plano individual de autonomização.\n\n3 - O desenvolvimento do plano individual de autonomização deve ser acompanhado e avaliado de forma contínua, no mínimo a cada seis meses, sob a coordenação do técnico ou técnica de referência de apoio ao processo de autonomização designado/a, em colaboração e articulação com todos os profissionais que intervêm na sua execução.\n\n4 - O PIA deve ser redigido em linguagem de fácil compreensão, quando necessário, em linguagem acessível e adaptada às necessidades dos residentes.\n\n5 - O PIA deve ser datado e assinado pelo residente, ou por quem legalmente o represente, e por todos os profissionais que participam na sua definição, sendo o original destinado ao processo individual, e entregue uma cópia ao residente, ou a quem legalmente o represente."
+  },
+  "178640578": {
+   "fragment_id": "178640483",
+   "type": 11,
+   "heading": "Artigo 20.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acesso à informação\n\n1 - A RAI deve proceder à afixação, em local visível e de fácil acesso, dos seguintes documentos:\n\na) Cópia da autorização de funcionamento ou da comunicação prévia, quando aplicável;\n\nb) Identificação da direção técnica;\n\nc) Preçário e ou tabela da comparticipação familiar, quando aplicável;\n\nd) Publicação dos apoios financeiros da segurança social, quando aplicável;\n\ne) Referência à existência de livro de reclamações;\n\nf) Regulamento interno.\n\n2 - A entidade gestora da RAI pode disponibilizar, complementarmente, a minuta do contrato de prestação de serviços, quando solicitada e outra informação relevante na sua página da Internet, salvaguardando-se as relativas ao Regulamento Geral de Proteção de Dados."
+  },
+  "178640579": {
+   "fragment_id": "178640484",
+   "type": 11,
+   "heading": "Artigo 21.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regulamento interno\n\n1 - A RAI possui obrigatoriamente regulamento interno, o qual define os princípios e as condições gerais e específicas de funcionamento de cada residência, designadamente:\n\na) As condições, critérios e procedimentos de admissão dos residentes;\n\nb) Os cuidados, apoios e serviços a prestar;\n\nc) Os direitos e deveres dos residentes, bem como os deveres da entidade relativos à prestação de cuidados aos residentes e de informação à família;\n\nd) Os critérios para a determinação das comparticipações familiares, quando aplicável;\n\ne) Os termos e condições em que os/as residentes participam na gestão, planificação e avaliação das atividades diárias da residência;\n\nf) As condições de constituição e funcionamento da comissão de representantes dos residentes, designados por cada residência.\n\n2 - Um exemplar do regulamento interno é entregue à pessoa e ou seu representante legal, no ato de celebração do contrato de prestação de serviços.\n\n3 - A alteração do regulamento interno da residência deve ser efetuada com a participação e comunicada a todos/as os/as residentes.\n\n4 - Qualquer alteração ao regulamento interno deve ser comunicada ao ISS, I. P., até 30 dias antes da sua entrada em vigor."
+  },
+  "178640580": {
+   "fragment_id": "178640485",
+   "type": 11,
+   "heading": "Artigo 22.º — Condições de implantação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Condições de implantação\n\n1 - A RAI deve reunir as seguintes condições de implantação e localização:\n\na) Estar inserida em áreas residenciais na comunidade, de modo a permitir a participação, integração e inclusão dos/as residentes;\n\nb) Ter acesso facilitado, através da rede viária, pela proximidade de transportes públicos e permitir o acesso a pessoas e a viaturas;\n\nc) Ser assegurada a eliminação das barreiras físicas que dificultem ou impossibilitem a circulação na via pública envolvente e no acesso à residência, cumprindo todos os requisitos de acessibilidade regulados pela legislação em vigor;\n\nd) Ser assegurado que a RAI funciona em fração autónoma ao edifício de outras respostas sociais de natureza residencial.\n\n2 - Na implantação da RAI deve ter-se em conta a proximidade com os serviços e estabelecimentos da comunidade, designadamente de apoio social, de saúde, emprego, formação, educação, recreativo, cultural, desporto e lazer."
+  },
+  "178640581": {
+   "fragment_id": "178640486",
+   "type": 11,
+   "heading": "Artigo 23.º — Edifício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Edifício\n\n1 - As instalações da RAI devem cumprir as normas constantes do regime jurídico da urbanização e edificação, bem como as normas técnicas de construção aplicáveis às edificações em geral, designadamente em matéria de segurança contraincêndio, saúde, higiene, ruído e eficiência energética, sem prejuízo do disposto na presente portaria.\n\n2 - As instalações da RAI devem cumprir os requisitos de acessibilidade previstos na Secção 3.3 das Normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada para os edifícios de habitação.\n\n3 - Quando a RAI se localiza no primeiro andar ou superior de um edifício de habitação ou quando não exista percurso acessível entre o átrio de entrada e a porta de entrada na RAI, quando esta se localiza no piso térreo desse edifício, é obrigatório a existência de meios mecânicos de comunicação vertical alternativos às escadas, nomeadamente:\n\na) Plataformas elevatórias de escada ou outros meios mecânicos de comunicação vertical, no caso de edifícios com dois pisos;\n\nb) Ascensores de cabina que satisfaçam o especificado na secção 2.6 das Normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada.\n\n4 - Os meios mecânicos de comunicação vertical alternativos às escadas, referidos no número anterior, devem servir os pisos destinados a estacionamento, a arrecadações ou a outros espaços de uso comum (exemplo: sala de condóminos) do edifício.\n\n5 - As condições gerais do edificado e os requisitos das áreas funcionais da RAI constam do Anexo I à presente portaria."
+  },
+  "178640582": {
+   "fragment_id": "178640487",
+   "type": 11,
+   "heading": "Artigo 24.º — Acessos ao edifício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Acessos ao edifício\n\n1 - O edifício da RAI deve cumprir a legislação em vigor relativa às normas técnicas em matéria de acessibilidades.\n\n2 - Sem prejuízo do cumprimento dos regulamentos camarários relativos ao estacionamento, o edifício deve possuir, pelo menos, um lugar de estacionamento que garanta as condições de acessibilidade previstas na secção 2.8.2 do Anexo ao Decreto-Lei n.º 163/2006, de 8 de agosto, na sua atual redação.\n\n3 - Deve existir um percurso acessível que cumpra os requisitos de acessibilidade de acordo com a legislação em vigor, desde a via pública, o lugar de estacionamento referido no número anterior e área exterior afeta ao edifício, até à porta de entrada no interior da RAI."
+  },
+  "178640583": {
+   "fragment_id": "178640488",
+   "type": 11,
+   "heading": "Artigo 25.º — Áreas funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Áreas funcionais\n\n1 - As áreas funcionais da RAI, nos termos previstos no artigo 2.º, correspondem aos espaços próprios de uma habitação familiar, de acordo com a legislação em vigor.\n\n2 - Os compartimentos que integram a RAI obedecem, no mínimo, às exigências constantes do REGEU para os compartimentos de habitação, com as devidas adaptações, ou outras especificamente exigidas neste diploma.\n\n3 - A RAI deve dispor de áreas funcionais com um percurso acessível desde a porta de entrada, ou estacionamento, até aos compartimentos essenciais da habitação, designadamente:\n\na) Cozinha;\n\nb) Quartos;\n\nc) Instalações sanitárias;\n\nd) Salas.\n\n4 - A RAI possui, de acordo com a tipologia da habitação, quartos individuais e duplos, com a ocupação máxima de duas camas por quarto, casas de banho individualizadas, em que uma delas seja acessível a pessoas com mobilidade condicionada."
+  },
+  "178640584": {
+   "fragment_id": "178640489",
+   "type": 11,
+   "heading": "Artigo 26.º — Recursos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Recursos de apoio\n\n1 - A RAI deve assegurar no seu funcionamento, o seguinte:\n\na) Rede telefónica ou outro mecanismo eletrónico que permita assegurar, em condições de privacidade e segurança, a comunicação com o exterior;\n\nb) Rede de acesso e ligação à Internet;\n\nc) Produtos de apoio para adequação e prestação de apoio, com exceção dos produtos de apoio para uso pessoal financiados no âmbito do Sistema de Atribuição dos Produtos de Apoio."
+  },
+  "178640585": {
+   "fragment_id": "178640490",
+   "type": 11,
+   "heading": "Artigo 27.º — Acompanhamento, Avaliação e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Acompanhamento, Avaliação e fiscalização\n\n1 - O funcionamento da RAI está sujeito a acompanhamento, avaliação e fiscalização por parte dos serviços competentes do ISS, I. P., nos termos do Decreto-Lei n.º 64/2007, de 14 de março, na sua redação atual.\n\n2 - Para efeitos do disposto no número anterior, a entidade gestora da RAI deve facultar o acesso às instalações e à documentação tida por necessária."
+  },
+  "178640586": {
+   "fragment_id": "178640491",
+   "type": 11,
+   "heading": "Artigo 28.º — Adequação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Adequação\n\nAs RAI em atividade devem, no prazo máximo de 24 meses a contar da data de entrada em vigor da presente portaria, adequar o seu funcionamento às disposições nela constantes."
+  },
+  "178640587": {
+   "fragment_id": "178640492",
+   "type": 11,
+   "heading": "Artigo 29.º — Alteração à Portaria n.º 59/2015, de 2 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Alteração à Portaria n.º 59/2015, de 2 de março\n\nOs artigos 1.º, 2.º, 4.º, 6.º e 7.º da Portaria n.º 59/2015, de 2 de março, que define as condições de organização, funcionamento e instalação de estabelecimentos residenciais destinados a pessoas com deficiência e incapacidade, designados por lar residencial e residência autónoma, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\nA presente portaria define as condições de organização, funcionamento e instalação de estabelecimentos residenciais destinados a pessoas com deficiência e incapacidade, designados por lar residencial.\n\nArtigo 2.º\n\n[...]\n\n1 - [...]\n\n2 - (Revogado.)\n\nArtigo 4.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\n2 - (Revogado.)\n\nArtigo 6.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\n2 - [...]\n\n3 - (Revogado.)\n\nArtigo 7.º\n\n[...]\n\n1 - [...]\n\n2 - (Revogado.)»"
+  },
+  "178640588": {
+   "fragment_id": "178640493",
+   "type": 11,
+   "heading": "Artigo 30.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Norma revogatória\n\nSão revogados os artigos 18.º, 19.º e 20.º da Portaria n.º 59/2015, de 2 de março."
+  },
+  "178640589": {
+   "fragment_id": "178640494",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação."
+  },
+  "178640591": {
+   "fragment_id": "178640496",
+   "type": 14,
+   "heading": "Anexo — Áreas funcionais da Residência de Autonomização e Inclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Áreas funcionais da Residência de Autonomização e Inclusão\n\nA - Áreas Funcionais\n\n1 - As áreas funcionais da RAI, correspondem aos espaços próprios de uma habitação familiar, de acordo com a legislação em vigor, e podem estar inseridas em apartamento, moradia ou outra tipologia de habitação similar.\n\n2 - A capacidade da RAI é no máximo de 5 pessoas.\n\n3 - As áreas funcionais da RAI devem integrar, pelo menos, os seguintes espaços e compartimentos:\n\na) Quartos com uma capacidade para 1 e 2 pessoas, com a área útil mínima de 10m2 e de 16 m2, respetivamente;\n\nb) Duas instalações sanitárias sendo, pelo menos, uma delas completa;\n\nc) Sala comum com a área útil mínima de 16,0 m2, constituída por zona de estar e zona de refeições;\n\nd) Cozinha ou Kitchenette.\n\n4 - Se a RAI se organizar em mais de um nível, deve existir, pelo menos, um percurso que satisfaça o especificado no Capítulo 4 das Normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada entre a porta de entrada/saída e todos os compartimentos que a integram.\n\n5 - Os vãos de entrada/saída do fogo, bem como de acesso a compartimentos, varandas, terraços e arrecadações, satisfazem o especificado na secção 4.9 das Normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada anexas ao Decreto-Lei n.º 163/2006, de 8 de agosto, na sua atual redação.\n\n6 - Os espaços e compartimentos constantes do n.º 3 devem dispor de dimensões mínimas que assegurem espaço de circulação, zona de manobra e permanência de uma cadeira de rodas.\n\nB - Quartos\n\n1 - Pelo menos um dos quartos deve ser individual.\n\n2 - Nos quartos deve ficar garantida a acessibilidade aos equipamentos móveis.\n\n3 - Os quartos devem dispor de uma cama individual por pessoa, de medidas estandardizadas, um armário-roupeiro individual e um ponto de iluminação, por cada cama.\n\n4 - As camas devem ser colocadas de topo em relação a uma das paredes.\n\n5 - Nos quartos individuais, a distância entre um dos lados da cama e a parede, vão exterior ou armário roupeiro é igual ou superior a 0,9 m. Nos quartos duplos o distanciamento entre as camas deve ser, no mínimo, de 1,50 m, devendo ser considerado um espaço mínimo de 0,60 m entre o outro lado das camas e a parede/obstáculo lateral.\n\n6 - Em todos os quartos, no topo livre das camas, deve prever-se espaço de circulação com 0,90 m de largura, no mínimo.\n\nC - Instalações sanitárias\n\n1 - Cada apartamento ou moradia deve possuir, pelo menos, duas instalações sanitárias.\n\n2 - Pelo menos uma das instalações sanitárias referidas no n.º 1 deve ser completa, equipada com, pelo menos, um lavatório, uma sanita e uma banheira ou base de duche.\n\n3 - Pelo menos uma das instalações sanitárias referidas no n.º 1 deve ser acessível, equipada com aparelhos sanitários acessíveis, nomeadamente sanita, lavatório e duche embutido ou nivelado com o pavimento.\n\n4 - A sanita acessível referida no número anterior, quando seja a única, deve possuir zonas livres, que satisfaçam ao especificado no n.º 4.1.1 das Normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada, de ambos os lados e na parte frontal.\n\n5 - Na instalação sanitária, as paredes onde se encostam a sanita e a banheira ou base de duche, devem ser reforçadas, de forma a permitir a montagem de barras de apoio em caso de necessidade.\n\nD - Sala comum\n\n1 - A sala comum deve possuir uma zona de estar e uma zona para refeições com a área necessária para proporcionar um lugar sentado por cada residente.\n\n2 - Podem existir zonas comuns de acolhimento ou receção (hall de entrada) e de estar ou refeições, podendo estas funções coexistir no mesmo espaço.\n\nE - Cozinha ou Kitchenette\n\n1 - É permitida a instalação de módulo compacto de cocção e de outro equipamento de cozinha vulgarmente designado por Kitchenette, montado em espaço único e não autónomo.\n\n2 - Os autores dos projetos com o tipo de solução referida no n.º 1 devem demonstrar que são garantidos, no espaço único, adequados padrões de habitabilidade e conforto em matéria de iluminação e ventilação naturais.\n\n3 - Para um bom funcionamento da cozinha/Kitchenette será aconselhável que a mesma possua:\n\na) Ligação direta com a porta de entrada da habitação;\n\nb) Ligação direta com o espaço de refeições;\n\nc) Zona anexa para lavagens (lavar, secar e passar a ferro).\n\n4 - Os eletrodomésticos, lava-loiça e banca de apoio devem permitir a sua utilização por uma pessoa sentada numa cadeira de rodas.\n\n5 - Devem estar visíveis as instruções de uso dos equipamentos e as regras de utilização e de higiene a observar.\n\nF - Outros espaços\n\nÉ aconselhável a existência de um compartimento para arrumos.\n\nG - Revestimentos\n\nOs pisos e os revestimentos das habitações devem satisfazer o especificado na secção 4.7 e na secção 4.8 das Normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada, na sua atual redação.\n\nH - Sinalização\n\nSem prejuízo do cumprimento das regras de segurança contra riscos de incêndio, nos termos do disposto no Decreto-Lei n.º 220/2008, de 12 de novembro, e do regulamento técnico constante da Portaria n.º 1532/2008, de 29 de dezembro, aplicáveis, a RAI deve possuir pelo menos o seguinte equipamento:\n\na) Um extintor e manta de incêndio acessíveis aos utilizadores;\n\nb) Equipamento de primeiros socorros acessível aos utilizadores;\n\nc) Indicação do número nacional de emergência (112) em local visível aos utilizadores.\n\n114972498"
+  },
+  "916268446": {
+   "fragment_id": "178637973",
+   "type": 11,
+   "heading": "Artigo 10.º — Rede complementar de serviços",
+   "in_force_from": "2025-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+   ],
+   "markdown": "###### Artigo 10.º — Rede complementar de serviços\n\n1 - A RAI deve articular com outras entidades, serviços e programas da comunidade, designadamente com o Centro de Apoio à Vida Independente (CAVI), sempre que as condições de contexto pessoal, social e habitacional da pessoa possibilitem a transição para o serviço de assistência pessoal.\n\n2 - O residente na RAI pode, ainda, beneficiar de outros apoios e respostas sociais de natureza complementar e não residencial.\n\n3 - (Revogado.)\n\n4 - A RAI deve cooperar, articular e complementar o seu apoio, de forma coordenada e em rede, com as entidades e serviços da comunidade, designadamente da área da educação, saúde, justiça, segurança social, habitação, emprego e formação profissional, proteção civil, cultura e lazer, promovendo a utilização eficaz dos recursos da comunidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+  },
+  "916268452": {
+   "fragment_id": "178637974",
+   "type": 11,
+   "heading": "Artigo 11.º — Protocolo de parceria",
+   "in_force_from": "2025-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+   ],
+   "markdown": "###### Artigo 11.º — Protocolo de parceria\n\n1 - O protocolo de parceria previsto no artigo anterior é celebrado entre a entidade gestora da RAI e as entidades da comunidade, do qual consta designadamente:\n\na) A identificação das entidades outorgantes;\n\nb) As atividades a desenvolver e ou os serviços a prestar, respetivo local e horário;\n\nc) Os direitos e deveres;\n\nd) O montante financeiro assumido no âmbito do protocolo, quando aplicável;\n\ne) A vigência do protocolo de parceria.\n\n2 - A entidade gestora deve, no prazo de 30 dias, após a celebração do protocolo de parceria, dar conhecimento do mesmo aos serviços competentes do ISS, I. P.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+  },
+  "916268447": {
+   "fragment_id": "178640477",
+   "type": 11,
+   "heading": "Artigo 14.º — Direção técnica",
+   "in_force_from": "2025-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+   ],
+   "markdown": "###### Artigo 14.º — Direção técnica\n\n1 - A direção técnica é assegurada por um técnico superior, com formação superior em ciências sociais e do comportamento, serviço social ou saúde, preferencialmente com experiência profissional ou formação específica na área da deficiência.\n\n2 - À direção técnica compete coordenar a RAI, assumindo a responsabilidade pela programação dos apoios e serviços, com vista a garantir um modelo de gestão e apoio residencial de qualidade e inclusivo, adequado ao processo de autonomização dos residentes.\n\n3 - Compete, ainda, à direção técnica:\n\na) A coordenação e orientação dos profissionais da equipa técnica;\n\nb) A programação e realização de reuniões periódicas com a equipa e outros profissionais;\n\nc) A realização de reuniões periódicas com os residentes, de modo a dinamizar atividades conjuntas de forma participada e auscultar a sua satisfação com a resposta;\n\nd) A promoção de ações de sensibilização dirigidas às famílias e agentes da comunidade;\n\ne) A promoção da articulação e o desenvolvimento de relações interinstitucionais com outras entidades que complementem o apoio e os serviços residenciais prestados;\n\nf) A conceção e implementação de metodologias de trabalho e de organização para proteger os direitos, a capacitação e autodeterminação do residente;\n\ng) O mapeamento da rede de serviços, programas, projetos e recursos existentes na comunidade local;\n\nh) A mobilização dos recursos da comunidade adequados à progressiva autonomia pessoal, social e profissional;\n\ni) A promoção de ações de formação dirigidas à equipa e voluntários;\n\nj) A avaliação da gestão e funcionamento da RAI, bem como a satisfação de todas as pessoas envolvidas, numa ótica de melhoria contínua.\n\n4 - A afetação do diretor técnico da RAI é de 25 %, devendo ser aumentada de forma proporcional, conforme o número de residências que a entidade gere.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+  },
+  "916268448": {
+   "fragment_id": "178640478",
+   "type": 11,
+   "heading": "Artigo 15.º — Equipa técnica",
+   "in_force_from": "2025-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+   ],
+   "markdown": "###### Artigo 15.º — Equipa técnica\n\n1 - A RAI dispõe de uma equipa de profissionais com formação específica adequada e definida em função do número e perfil dos residentes.\n\n2 - A RAI, com capacidade para cinco residentes, deve dispor de um mínimo, de:\n\na) Um psicólogo, a tempo parcial com uma afetação de 25 %;\n\nb) Um técnico superior de serviço social, a tempo parcial, com uma afetação de 25 %;\n\nc) Um técnico superior de reabilitação ou equivalente, com uma afetação de 25 %;\n\nd) Uma ajudante de ação direta a tempo inteiro e um ajudante de ação direta com uma afetação de 50 %.\n\n3 - Constituem atribuições e competências dos profissionais da equipa técnica:\n\na) Acompanhamento psicossocial e do desenvolvimento pessoal e funcional dos residentes;\n\nb) Elaboração com o residente, através de um processo colaborativo e participativo, do plano individual de autonomização;\n\nc) Apoio e incentivo ao restabelecimento e ou fortalecimento dos vínculos familiares da pessoa, sempre que tal se revele possível;\n\nd) Apoio e serviços personalizados orientados para atender às necessidades de cada residente;\n\ne) Supervisão da organização das atividades da vida diária dentro e fora do contexto habitacional, utilizando a rotina do quotidiano como instrumento de autonomia, independência e inclusão;\n\nf) Promoção da iniciativa e a responsabilização progressiva em relação às decisões e aos projetos individuais;\n\ng) Facilitação do acesso e a utilização dos serviços formais e informais, permitindo uma coordenação integrada dos serviços prestados e uma utilização eficiente dos recursos;\n\nh) Fornecimento de informações para apoiar a tomada esclarecida de decisão da pessoa respeitando a sua capacidade de autodeterminação;\n\ni) Apoio no planeamento da saída e no acompanhamento do processo de transição para o projeto residencial autónomo de vida independente, sempre que possível, e de acordo com a especificidade de cada pessoa.\n\n4 - Sempre que a RAI tenha uma capacidade inferior a 5 residentes, o número de profissionais previsto no n.º 2 é proporcionalmente redimensionado em função do número de residentes.\n\n5 - Os profissionais previstos nas alíneas a), b) e c) do n.º 2 são designados técnicos/as de referência de apoio ao processo de autonomização dos residentes, indicados pela direção técnica ou por solicitação do/a residente.\n\n6 - Compete ao técnico de referência de apoio ao processo de autonomização, apoiar e facilitar a mobilização dos recursos disponíveis, assegurando de forma global, coordenada e sistémica todos os apoios.\n\n7 - Sem prejuízo dos recursos humanos previstos no n.º 2, a RAI pode contar com a colaboração de voluntários, enquadrados nos termos da lei, não podendo ser considerados para efeito do disposto nos números anteriores.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+  },
+  "916268449": {
+   "fragment_id": "178640488",
+   "type": 11,
+   "heading": "Artigo 25.º — Áreas funcionais",
+   "in_force_from": "2025-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+   ],
+   "markdown": "###### Artigo 25.º — Áreas funcionais\n\n1 - As áreas funcionais da RAI correspondem aos espaços próprios de uma habitação familiar, de acordo com a legislação em vigor.\n\n2 - Os compartimentos que integram a RAI obedecem, no mínimo, às exigências constantes do Regulamento Geral das Edificações Urbanas (RGEU) para os compartimentos de habitação, com as devidas adaptações, ou outras especificamente exigidas neste diploma.\n\n3 - A RAI deve dispor de áreas funcionais com um percurso acessível desde a porta de entrada, ou estacionamento, até aos compartimentos essenciais da habitação, designadamente:\n\na) Cozinha ou kitchenette;\n\nb) Quartos;\n\nc) Instalações sanitárias;\n\nd) Sala comum.\n\n4 - A RAI possui, de acordo com a tipologia de habitação, quartos individuais ou duplos, com a ocupação máxima de duas camas por quarto, e instalações sanitárias, em que pelo menos uma delas seja acessível a pessoas com mobilidade condicionada.\n\n5 - No caso de a tipologia de habitação ser constituída apenas por um espaço único, a ocupação deve ser individual ou de casal.\n\n6 - Sempre que a RAI possua apenas uma instalação sanitária esta deve ser sempre acessível.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+  },
+  "916268450": {
+   "fragment_id": "178640489",
+   "type": 11,
+   "heading": "Artigo 26.º — Recursos de apoio",
+   "in_force_from": "2025-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+   ],
+   "markdown": "###### Artigo 26.º — Recursos de apoio\n\nA RAI deve assegurar, no seu funcionamento, o seguinte:\n\na) Rede telefónica ou outro mecanismo eletrónico que permita assegurar, em condições de privacidade e segurança, a comunicação com o exterior;\n\nb) Rede de acesso e ligação à Internet;\n\nc) Produtos de apoio, com exceção dos produtos de uso pessoal, financiados no âmbito do Sistema de Atribuição dos Produtos de Apoio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+  },
+  "178640590": {
+   "fragment_id": "178640495",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Secretária de Estado da Inclusão das Pessoas com Deficiência, Ana Sofia Pedroso Lopes Antunes, em 28 de janeiro de 2022."
+  },
+  "916268451": {
+   "fragment_id": "178640496",
+   "type": 14,
+   "heading": "Anexo — Áreas funcionais da Residência de Autonomização e Inclusão",
+   "in_force_from": "2025-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+   ],
+   "markdown": "## Anexo — Áreas funcionais da Residência de Autonomização e Inclusão\n\nA - Áreas Funcionais\n\n1 - As áreas funcionais da RAI, correspondem aos espaços próprios de uma habitação familiar, de acordo com a legislação em vigor, e podem estar inseridas em apartamento, moradia ou outra tipologia de habitação similar.\n\n2 - (Revogado.)\n\n3 - As áreas funcionais da RAI devem integrar, de acordo com a respetiva tipologia de habitação e as exigências previstas no RGEU, pelo menos, os seguintes espaços e compartimentos:\n\na) Quartos com uma capacidade para 1 e ou 2 pessoas, com a área útil mínima de 10 m2 e de 16 m2, respetivamente, com exceção da tipologia constituída por um espaço único;\n\nb) Uma ou mais instalações sanitárias, consoante a tipologia da RAI, de acordo com o definido no ponto C;\n\nc) Sala comum com a área útil mínima de 16 m2, constituída por zona de estar e zona de refeições, às quais, na tipologia constituída por um espaço único, acresce a zona de dormir;\n\nd) Cozinha ou kitchenette.\n\n4 - Se a RAI se organizar em mais de um nível, deve existir, pelo menos, um percurso que satisfaça o especificado no Capítulo 4 das Normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada entre a porta de entrada/saída e todos os compartimentos que a integram.\n\n5 - Os vãos de entrada/saída do fogo, bem como de acesso a compartimentos, varandas, terraços e arrecadações, satisfazem o especificado na secção 4.9 das Normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada anexas ao Decreto-Lei n.º 163/2006, de 8 de agosto, na sua atual redação.\n\n6 - Os espaços e compartimentos constantes do n.º 3 devem dispor de dimensões mínimas que assegurem espaço de circulação, zona de manobra e permanência de uma cadeira de rodas.\n\nB - Quartos\n\n1 - (Revogado.)\n\n2 - Nos quartos deve ficar garantida a acessibilidade aos equipamentos móveis.\n\n3 - Os quartos devem dispor de uma cama individual por pessoa, de medidas estandardizadas, um armário-roupeiro individual e um ponto de iluminação, por cada cama.\n\n4 - As camas devem ser colocadas de topo em relação a uma das paredes.\n\n5 - Nos quartos individuais, a distância entre um dos lados da cama e a parede, vão exterior ou armário roupeiro é igual ou superior a 0,9 m. Nos quartos duplos o distanciamento entre as camas deve ser, no mínimo, de 1,50 m, devendo ser considerado um espaço mínimo de 0,60 m entre o outro lado das camas e a parede/obstáculo lateral.\n\n6 - Em todos os quartos, no topo livre das camas, deve prever-se espaço de circulação com 0,90 m de largura, no mínimo.\n\nC - Instalações sanitárias\n\n1 - Cada apartamento, moradia ou habitação de outra tipologia similar deve possuir, no mínimo, uma instalação sanitária completa e acessível, nomeadamente com sanita, lavatório e duche embutido ou nivelado com o pavimento.\n\n2 - Cada apartamento ou moradia com mais de três quartos deve possuir pelo menos duas instalações sanitárias completas, sendo uma delas acessível.\n\n3 - As instalações sanitárias completas são equipadas com, pelo menos, um lavatório, uma sanita e uma banheira ou base de duche.\n\n4 - A sanita acessível, quando seja única, deve possuir zonas livres, que satisfaçam o especificado no n.º 4.1.1 das normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada, de ambos os lados e na parte frontal.\n\n5 - Na instalação sanitária, as paredes onde se encostam a sanita e a banheira ou base de duche, devem ser reforçadas, de forma a permitir a montagem de barras de apoio em caso de necessidade.\n\nD - Sala comum\n\n1 - A sala comum deve possuir uma zona de estar e uma zona para refeições com a área necessária para proporcionar um lugar sentado por cada residente.\n\n2 - Podem existir zonas comuns de acolhimento ou receção (hall de entrada) e de estar ou refeições, podendo estas funções coexistir no mesmo espaço.\n\nE - Cozinha ou Kitchenette\n\n1 - É permitida a instalação de módulo compacto de cocção e de outro equipamento de cozinha vulgarmente designado por Kitchenette, montado em espaço único e não autónomo.\n\n2 - Os autores dos projetos com o tipo de solução referida no n.º 1 devem demonstrar que são garantidos, no espaço único, adequados padrões de habitabilidade e conforto em matéria de iluminação e ventilação naturais.\n\n3 - Para um bom funcionamento da cozinha/kitchenette pode a mesma ter:\n\na) Ligação direta com a porta de entrada da habitação;\n\nb) Ligação direta com o espaço de refeições;\n\nc) Zona para lavagens (lavar, secar e passar a ferro).\n\n4 - Os eletrodomésticos, lava-loiça e banca de apoio devem permitir a sua utilização por uma pessoa sentada numa cadeira de rodas.\n\n5 - Devem estar visíveis as instruções de uso dos equipamentos e as regras de utilização e de higiene a observar.\n\nF - Outros espaços\n\n(Revogado.)\n\nG - Revestimentos\n\nOs pisos e os revestimentos das habitações devem satisfazer o especificado na secção 4.7 e na secção 4.8 das Normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada, na sua atual redação.\n\nH - Sinalização\n\nSem prejuízo do cumprimento das regras de segurança contra riscos de incêndio aplicáveis, a RAI deve possuir pelo menos o seguinte equipamento:\n\na) Um extintor e manta de incêndio acessíveis aos utilizadores;\n\nb) Equipamento de primeiros socorros acessível aos utilizadores;\n\nc) Indicação do número nacional de emergência (112) em local visível aos utilizadores.\n\n114972498\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 205/2025/1 - Diário da República n.º 83/2025, Série I de 2025-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/205-2025-916383943), em vigor a partir de 2025-05-01"
+  }
+ }
+}

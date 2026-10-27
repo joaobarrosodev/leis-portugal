@@ -1,0 +1,461 @@
+---
+schema_version: '1.0'
+id: pt:dre:178716215:por
+title: Decreto-Lei n.º 22-A/2022
+short_title: null
+summary: Altera o regime jurídico aplicável à prestação de serviços postais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Infraestruturas e Habitação
+official_number: 22-A/2022
+official_date: null
+publication_date: '2022-02-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 26/2022, 1º Suplemento, Série I de 2022-02-07
+  number: '26'
+  series: I
+  supplement: null
+  pages: 23-(2) a 23-(8)
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/02/02601/0000200008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/22-a/2022/02/07/p/dre/pt/html
+  oj: null
+  dre: '178716215'
+  dre_path: /dr/detalhe/decreto-lei/22-a-2022-178716215
+  internal: pt:dre:178716215:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2022-178716215
+  metadata_url: https://data.dre.pt/eli/dec-lei/22-a/2022/02/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2022-178716215
+  consolidated_url: null
+  retrieved_at: '2026-10-27T01:28:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dbaadf8497fa17c7ffeb91b8bc2e7e00c9bdb5cf8e75442c551251ee1c1fc194
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T01:28:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acordo
+- Aproximação das Legislações
+- Autoridade Nacional de Comunicações
+- Contra-ordenação
+- Controlo de Qualidade
+- Direcção Geral do Consumidor
+- Estatuto
+- Financiamento
+- Fiscalização
+- Fixação de Preços
+- Página na Internet
+- Prestação de Serviços
+- Proteção do Consumidor
+- REDE Postal
+- Relatório
+- Serviço Postal Universal
+- Serviço Universal de Telecomunicações
+- União Europeia
+relationships:
+- type: cites
+  target: pt:dre:165036159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173732853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
+- type: transposes
+  target: celex:31997L0067
+  label: null
+  source: null
+- type: transposes
+  target: celex:32008L0006
+  label: null
+  source: null
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T01:28:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 22-A/2022
+
+de 7 de fevereiro
+
+Com a publicação da [Lei n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), de 26 de abril, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional, foi transposta para a ordem jurídica interna a [Diretiva n.º 2008/6/CE](https://data.europa.eu/eli/dir/2008/6/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de fevereiro de 2008, que altera, no respeitante à plena realização do mercado interno dos serviços postais da Comunidade, a [Diretiva n.º 97/67/CE](https://data.europa.eu/eli/dir/1997/67/oj?locale=pt), do Parlamento Europeu e do Conselho, de 15 de dezembro de 1997, relativa às regras comuns para o desenvolvimento do mercado interno dos serviços postais comunitários e a melhoria da qualidade de serviço.
+
+Volvidos mais de nove anos desde a instituição do regime jurídico aplicável à prestação de serviços postais, importa reavaliar a sua adequação às necessidades presentes. Por um lado, tendo em conta as mutações estruturais que se registam no setor, com a diminuição do tráfego postal por força do incremento das comunicações digitais e a emergência e vulgarização do comércio eletrónico; por outro, considerando a necessidade de garantir a manutenção da proximidade do serviço postal universal, principalmente nas áreas menos densamente povoadas, com o fito de promoção dos objetivos de coesão territorial e de valorização do interior.
+
+Acresce que, com a aproximação do termo do contrato de concessão do serviço postal universal, que foi objeto de prorrogação até 31 de dezembro de 2021, importa beneficiar da experiência adquirida durante a sua vigência nos últimos anos, bem como dos contributos dados pelos principais intervenientes do setor (utilizadores, prestador, reguladores e autarquias) no âmbito da consulta pública relativa à prestação do serviço postal universal (SPU) realizada em 2019 e do grupo de trabalho constituído pelo Governo para analisar a evolução do SPU.
+
+Nesse sentido, são alteradas as normas relativas ao modelo de definição dos critérios de formação de preços do SPU - que passarão a ser estabelecidos por convénio plurianual - e à fixação dos parâmetros de qualidade de serviço e dos objetivos de desempenho associados à prestação do SPU, atribuindo-se essa responsabilidade ao concedente.
+
+No que concerne à formação dos preços visa-se reforçar a necessária estabilidade e previsibilidade contratuais, bem como reforçar o diálogo entre as entidades relevantes, dotando-se, ao mesmo tempo, o prestador do SPU de capacidade negocial na matéria. Caso não seja possível atingir-se um acordo no âmbito do convénio, caberá ao Governo a decisão final.
+
+Também a matéria dos indicadores de qualidade e objetivos de desempenho assume grande importância, devendo a respetiva definição ter por objetivo a promoção da qualidade do serviço prestado, bem como a sua adequação às necessidades dos utilizadores e às novas dinâmicas do serviço postal. Neste contexto, o concedente assumirá a responsabilidade pela fixação daqueles parâmetros e objetivos associados à prestação do SPU.
+
+Em ambos os casos - preços e qualidade do serviço - continuará a caber ao regulador setorial, a Autoridade Nacional de Comunicações, a fiscalização do respetivo cumprimento.
+
+Prevê-se, ainda, a possibilidade de o eventual incumprimento dos objetivos de desempenho associados à prestação do SPU dar origem a mecanismos de compensação mais diversificados, nomeadamente que passem por obrigações de investimento do prestador do SPU no âmbito da prestação deste serviço, em benefício efetivo dos utilizadores.
+
+Finalmente, atualiza-se em todo o diploma a designação da Autoridade Nacional de Comunicações, bem como a referência aos seus estatutos, aprovados pelo [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), de 16 de março.
+
+Foi ouvida a Autoridade Nacional de Comunicações.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à quarta alteração à [Lei n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), de 26 de abril, alterada pelo [Decreto-Lei n.º 160/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), de 19 de novembro, pela [Lei n.º 16/2014](https://diariodarepublica.pt/dr/detalhe/lei/16-2014-25344738), de 4 de abril, e pelo [Decreto-Lei n.º 49/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2021-165036159), de 14 de junho, que estabelece o regime jurídico aplicável à prestação de serviços postais, em plena concorrência, no território nacional, bem como de serviços internacionais com origem ou destino no território nacional, transpondo para a ordem jurídica interna a [Diretiva n.º 2008/6/CE](https://data.europa.eu/eli/dir/2008/6/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de fevereiro de 2008.
+
+###### Artigo 2.º — Alteração à [Lei n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), de 26 de abril
+
+Os artigos 8.º, 13.º, 14.º, 14.º-A, 17.º, 43.º, 47.º, 49.º, 57.º e 60.º da [Lei n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), de 26 de abril, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 8.º
+
+[...]
+
+1 - A Autoridade Nacional de Comunicações (ANACOM) é a autoridade competente, nos termos da presente lei e dos seus estatutos, aprovados pelo [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), de 16 de março, para desempenhar as funções de regulação, supervisão e fiscalização no setor dos serviços postais.
+
+2 - Compete à ANACOM, nomeadamente:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) A fiscalização da prestação do serviço universal e, relativamente às atividades compreendidas nos contratos de concessão a que se refere o n.º 6 do artigo 17.º, a faculdade de, diretamente ou através de terceiros, proceder à correção de situações resultantes do não cumprimento de determinações por esta emitidas, correndo os correspondentes custos por conta da concessionária, sem prejuízo das sanções aplicáveis;
+
+f) ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+Artigo 13.º
+
+[...]
+
+1 - Os parâmetros de qualidade de serviço e os objetivos de desempenho associados à prestação do serviço universal, nomeadamente os respeitantes aos prazos de encaminhamento, à regularidade e à fiabilidade dos serviços, bem como as regras relativas à sua medição, monitorização e divulgação, são fixados por portaria do membro do Governo responsável pela área das comunicações para um período plurianual mínimo de três anos, mediante proposta da ANACOM, que deve ouvir os prestadores do serviço postal universal e as organizações representativas dos consumidores, nos termos do artigo 43.º
+
+2 - Os parâmetros de qualidade de serviço e os objetivos de desempenho referidos no número anterior devem ser compatíveis com os níveis de qualidade de serviço fixados para os serviços intracomunitários e para os restantes serviços internacionais e garantir elevados níveis de qualidade de serviço alinhados com as melhores práticas vigentes na União Europeia, bem como a importância relativa dos serviços postais que integram o serviço universal.
+
+3 - Os prestadores de serviço universal devem:
+
+a) Dispor de um sistema de medição dos níveis de qualidade de serviço efetivamente oferecidos, que respeite as normas aplicáveis à medição dos níveis de qualidade do serviço universal, nomeadamente dos serviços intracomunitários; e
+
+b) Efetuar a medição dos níveis de qualidade do serviço, pelo menos uma vez por ano, através do recurso a uma entidade externa independente, à qual devem prestar toda a informação e colaboração necessárias para a referida medição.
+
+4 - Os resultados da medição referida na alínea b) do número anterior são objeto de relatório publicado, pelo menos uma vez por ano, pelos prestadores de serviço universal e pela ANACOM nos respetivos sítios na Internet.
+
+5 - ...
+
+6 - Os resultados das auditorias ou dos outros mecanismos de controlo referidos no número anterior devem ser objeto de relatório, o qual é publicado no sítio na Internet da ANACOM.
+
+Artigo 14.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - Sem prejuízo da observância dos princípios previstos no n.º 1, a formação dos preços dos serviços que integram o serviço postal universal deve ter em conta a sustentabilidade e viabilidade económico-financeira da respetiva prestação, devendo ainda ser considerados, designadamente, a variação do tráfego, a variação real dos custos relevantes, a qualidade do serviço prestado e o incentivo à prestação eficiente do serviço universal.
+
+4 - Os critérios a que deve obedecer a formação dos preços dos serviços postais que compõem o serviço universal são estabelecidos, por um período de três anos, por convénio a celebrar entre os prestadores do serviço universal, a ANACOM e a Direção-Geral do Consumidor (Convénio).
+
+5 - Para efeitos do disposto no número anterior, a ANACOM coordena os trabalhos do Convénio, sendo responsável pela articulação das partes no contexto da negociação, bem como pela promoção das audições referidas no artigo 43.º
+
+6 - Quando haja lugar à celebração do Convénio, este deve ser concluído, assinado pelas partes e notificado ao membro do Governo responsável pela área das comunicações até ao dia 30 de julho do ano anterior àquele a que os critérios visam aplicar-se.
+
+7 - Em caso de impossibilidade de obtenção de um acordo no âmbito do Convénio, no prazo estabelecido no número anterior, cabe ao membro do Governo responsável pela área das comunicações, no prazo máximo de 20 dias, a definição dos critérios a que deve obedecer a formação dos preços dos serviços postais que compõem o serviço universal, a vigorar por um período de três anos.
+
+8 - Estabelecidos os critérios para a formação dos preços, os prestadores do serviço universal devem notificar a ANACOM dos preços a praticar em relação aos serviços postais que integram a oferta do serviço universal, incluindo qualquer alteração aos mesmos, fundamentando a proposta quanto ao cumprimento dos princípios estabelecidos no n.º 1 e quanto aos critérios de formação dos preços estabelecidos ao abrigo dos n.os 4 ou 7, com a antecedência mínima de 70 dias em relação à data da sua entrada em vigor.
+
+9 - Após a notificação a que se refere o número anterior, a ANACOM deve:
+
+a) No prazo máximo de 20 dias, remeter ao membro do Governo responsável pela área das comunicações e aos prestadores do serviço universal um relatório relativo à conformidade dos preços apresentados com os princípios estabelecidos no n.º 1 e com os critérios de formação dos preços estabelecidos ao abrigo dos n.os 4 ou 7; e
+
+b) Submeter ao membro do Governo responsável pela área das comunicações uma proposta de decisão sobre os preços.
+
+10 - Sem prejuízo do disposto nos n.os 9 e 14, a ANACOM pode solicitar esclarecimentos ou elementos adicionais aos prestadores do serviço universal, fixando um prazo razoável para o efeito, o qual não deve ser inferior a cinco dias nem superior a 10 dias.
+
+11 - A solicitação prevista no número anterior suspende a contagem dos prazos na data de receção pelos prestadores do serviço universal do pedido de esclarecimentos ou da solicitação de elementos adicionais.
+
+12 - O membro do Governo responsável pela área das comunicações deve, no prazo máximo de 10 dias, decidir sobre a proposta de preços apresentada.
+
+13 - Caso considere que os preços não respeitam os princípios estabelecidos no n.º 1 ou não cumprem os critérios de formação dos preços estabelecidos ao abrigo dos n.os 4 ou 7, o membro do Governo responsável pela área das comunicações deve notificar os prestadores do serviço universal para que estes procedam à submissão de nova proposta, com revisão de preços, no prazo de 10 dias.
+
+14 - Havendo lugar, nos termos do número anterior, à submissão pelos prestadores de serviço universal de uma nova proposta de preços, a ANACOM analisa essa nova proposta, devendo submeter, no prazo de 10 dias, um novo relatório e proposta de decisão ao membro do Governo responsável pela área das comunicações, o qual decide sobre a mesma no prazo de 10 dias.
+
+15 - No caso de os critérios de formação dos preços não serem definidos nos termos dos n.os 4 ou 7, os prestadores do serviço universal notificam o membro do Governo responsável pela área das comunicações dos preços que entendem dever praticar, juntamente com uma proposta de critérios devidamente fundamentada quanto ao cumprimento dos princípios estabelecidos no n.º 1, aplicando-se com as devidas adaptações o disposto nos n.os 9 a 14.
+
+16 - Caso o membro do Governo responsável pela área das comunicações não se pronuncie até ao final dos prazos referidos nos n.os 12 e 14, consoante aplicável, os prestadores do serviço universal podem praticar os preços notificados.
+
+17 - No âmbito dos serviços postais que integram a oferta do serviço universal, o membro do Governo responsável pela área das comunicações pode, sob proposta da ANACOM e após audição das demais entidades que integram o Convénio:
+
+a) Determinar, por motivos de interesse público devidamente fundamentados, que o preço do serviço postal de envios de correspondência cujo peso seja inferior a 50 g obedeça ao princípio da uniformidade tarifária, com a aplicação de um preço único em todo o território, sem prejuízo do direito de os prestadores de serviço universal celebrarem com os utilizadores acordos individuais em matéria de preços especiais;
+
+b) Impor mecanismos de controlo de preços, incluindo limites máximos de preços, na medida em que tal seja necessário para promover a concorrência ou defender os direitos e interesses dos utilizadores;
+
+c) Determinar que alguns serviços postais destinados a serem utilizados por cegos e amblíopes sejam prestados gratuitamente;
+
+d) Determinar a alteração dos preços dos serviços postais que integram a oferta do serviço universal, bem como a alteração ou eliminação das condições associadas aos preços, devidamente fundamentada em vista do cumprimento dos princípios previstos no n.º 1, tendo em conta a qualidade do serviço prestado, na medida em que tal seja necessário para promover a concorrência ou defender os direitos e interesses dos utilizadores.
+
+Artigo 14.º-A
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - No âmbito dos preços especiais, e após a sua entrada em vigor, pode o membro do Governo responsável pela área das comunicações, sob proposta da ANACOM, determinar a alteração dos mesmos, bem como a alteração ou eliminação das condições associadas aos preços, devidamente fundamentadas quanto ao cumprimento dos princípios previstos nos n.os 1 e 2, tendo em conta a qualidade do serviço prestado, na medida em que tal seja necessário para promover a concorrência ou defender os direitos e interesses dos utilizadores.
+
+Artigo 17.º
+
+[...]
+
+1 - A prestação do serviço universal pode ser assegurada através dos seguintes mecanismos:
+
+a) ...
+
+b) ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+Artigo 43.º
+
+[...]
+
+A definição pelo membro do Governo responsável pela área das comunicações dos parâmetros de qualidade de serviço e dos objetivos de desempenho, bem como das regras para a formação de preços dos serviços postais que compõem o serviço universal, de acordo com o previsto nos artigos 13.º e 14.º, é precedida de audição, pela ANACOM, das organizações representativas dos consumidores.
+
+Artigo 47.º
+
+[...]
+
+1 - Em caso de incumprimento dos objetivos de desempenho associados à prestação do serviço universal fixados nos termos do artigo 13.º, o membro do Governo responsável pela área das comunicações, sob proposta da ANACOM, deve, de acordo com os princípios da proporcionalidade, da adequação, da não discriminação e da transparência, aplicar mecanismos de compensação destinados aos utilizadores do serviço universal.
+
+2 - Os mecanismos de compensação a que se refere o número anterior podem consistir, designadamente, na determinação da revisão de preços ou de obrigações de investimento dos prestadores do serviço universal, no âmbito da prestação deste serviço, sendo especificados nos contratos a que se refere o n.º 6 do artigo 17.º
+
+Artigo 49.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) A violação dos princípios e dos critérios estabelecidos para a fixação dos preços dos serviços postais que compõem a oferta do serviço universal, determinados ao abrigo dos n.os 1 e 4 ou 7 do artigo 14.º;
+
+h) A violação da obrigação de notificação estabelecida no n.º 8 do artigo 14.º;
+
+i) O incumprimento das obrigações fixadas nos termos do n.º 17 do artigo 14.º;
+
+j) ...
+
+k) ...
+
+l) ...
+
+m)...
+
+n) ...
+
+o) ...
+
+p) ...
+
+q) ...
+
+r) ...
+
+s) ...
+
+t) ...
+
+u) ...
+
+v) ...
+
+w) ...
+
+x) ...
+
+y) ...
+
+z) ...
+
+aa) ...
+
+bb) ...
+
+cc) ...
+
+dd) A violação pela concessionária do disposto na parte final do n.º 8;
+
+ee) ...
+
+ff) ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - Sempre que a contraordenação resulte do não cumprimento de um dever jurídico ou de uma ordem emanada pelo membro do Governo responsável pela área das comunicações ou pela ANACOM, a aplicação das sanções ou o seu cumprimento não dispensam o infrator do cumprimento do dever ou da ordem, se este ainda for possível.
+
+10 - ...
+
+11 - ...
+
+Artigo 57.º
+
+[...]
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - O membro do Governo responsável pela área das comunicações pode, através do contrato de concessão do serviço postal universal, atribuir à respetiva concessionária a prestação em exclusivo das atividades e serviços reservados referidos na alínea b) do n.º 2 do artigo 3.º
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - A concessionária do serviço postal universal tem a faculdade de prestar os serviços postais não abrangidos pelo objeto da concessão com dispensa dos procedimentos previstos nos artigos 27.º e 34.º, devendo informar a ANACOM, previamente ao respetivo início, sempre que inicie a prestação de um desses serviços.
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+Artigo 60.º
+
+[...]
+
+À contagem de prazos previstos na presente lei aplicam-se as regras constantes do artigo 87.º do Código do Procedimento Administrativo.»
+
+###### Artigo 3.º — Regime transitório
+
+1 - Para o ano de 2022 vigoram os preços a definir no contrato de concessão a celebrar, nos termos estabelecidos na [Resolução do Conselho de Ministros n.º 144/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/144-2021-173732853), de 3 de novembro, os quais devem incentivar uma prestação eficiente e assegurar a sustentabilidade e a viabilidade económico-financeira da prestação do serviço postal universal.
+
+2 - Até à fixação pelo membro do Governo responsável pela área das comunicações dos parâmetros de qualidade de serviço e dos objetivos de desempenho associados à prestação do serviço universal, nos termos do disposto no artigo 13.º da [Lei n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), de 26 de abril, na redação que lhe é conferida pelo presente decreto-lei, mantém-se, transitoriamente, em vigor a decisão da Autoridade Nacional de Comunicações, de 29 de abril de 2021, relativa aos parâmetros de qualidade do serviço e aos objetivos de desempenho associados à prestação do serviço universal, sem prejuízo da aplicabilidade da prerrogativa do membro do Governo responsável pela área das comunicações prevista no n.º 2 do artigo 47.º da referida lei.
+
+###### Artigo 4.º — Referências legais
+
+Todas as referências feitas ao «ICP-ANACOM» na [Lei n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), de 26 de abril, na sua redação atual, consideram-se feitas à «ANACOM», em conformidade com os estatutos da Autoridade Nacional de Comunicações, aprovados pelo [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), de 16 de março.
+
+###### Artigo 5.º — Norma revogatória
+
+São revogados os n.os 1, 2, 4, 5, 6, 7, 9 e 10 do artigo 57.º da [Lei n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), de 26 de abril, na sua redação atual.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 23 de dezembro de 2021. - António Luís Santos da Costa - Miguel Jorge de Campos Cruz - Pedro Nuno de Oliveira Santos.
+
+Promulgado em 5 de fevereiro de 2022.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 5 de fevereiro de 2022.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114993363

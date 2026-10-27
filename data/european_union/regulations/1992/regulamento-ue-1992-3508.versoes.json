@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R3508:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3508-20031028",
+ "dre_path": null,
+ "source_lastmod": "2003-10-28",
+ "versions": [
+  {
+   "date": "1992-12-05",
+   "future": false,
+   "celex": "31992R3508",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "30bc8b727ce6bf58",
+    "b7d8a917af6bf057",
+    "0dfb86b4244c790c",
+    "9992f6562e362732",
+    "f9136fff4563cf88",
+    "b90defd3ac19c4a4",
+    "88eead7ef81a858e",
+    "e950c10f3b2b99f0",
+    "e74695b9756467a9",
+    "f7bb447bb4a05c47",
+    "20cb819eb4526586",
+    "cab1bb4f13b5561a",
+    "817ccb0400aece49",
+    "509354af678e4fb3",
+    "4c82750b0373536c"
+   ]
+  },
+  {
+   "date": "2003-10-28",
+   "future": false,
+   "celex": "01992R3508-20031028",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o"
+   ],
+   "fragments": [
+    "3ec64ec5e6e6154b"
+   ]
+  }
+ ],
+ "fragments": {
+  "30bc8b727ce6bf58": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3508/92 do Conselho, de 27 de Novembro de 1992, que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários** *Jornal Oficial nº L 355 de 05/12/1992 p. 0001 - 0005 Edição especial finlandesa: Capítulo 3 Fascículo 46 p. 0078 Edição especial sueca: Capítulo 3 Fascículo 46 p. 0078*\n\nREGULAMENTO (CEE) No 3508/92 DO CONSELHO de 27 de Novembro de 1992 que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, nos termos do artigo 8o do Regulamento (CEE) no 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (4), os Estados-membros tomarão as medidas necessárias para se assegurar da realidade e da regularidade das operações financiadas pelo Fundo Europeu de Orientação e de Garantia Agrícola (FEOGA) e para evitar irregularidades e proceder judicialmente contra as mesmas; que o artigo 23o do Regulamento (CEE) no 4253/88 do Conselho, de 19 de Dezembro de 1988, que estabelece as disposições de aplicação do Regulamento (CEE) no 2052/88 no que respeita à coordenação entre as intervenções dos diferentes fundos estruturais, por um lado, e entre estas e as do Banco Europeu de Investimento e dos outros instrumentos financeiros existentes, por outro (5), prevê o mesmo tipo de obrigação no sector da política das estruturas agrícolas;\n\nConsiderando que, até ao presente, e devido às estruturas heterogéneas dos diferentes regimes de ajuda, a sua gestão e o seu controlo pelos Estados-membros são efectuados segundo regras próprias a cada um desses regimes; que, todavia, no âmbito da reforma da política agrícola comum e da reorientação das medidas de mercado existentes, a Comunidade recorre, em larga medida, a ajudas directas ao produtor, tanto no sector da produção vegetal como no da produção animal;\n\nConsiderando que, com o objectivo de adaptar os mecanismos de gestão e de controlo à nova situação e de reforçar a sua eficácia e a sua rentabilidade, é necessário criar um novo sistema integrado de gestão e de controlo que abranja os regimes de apoio financeiro nos sectores das culturas arvenses e nos da carne de bovino, de ovino e de caprino, bem como medidas específicas a favor da agricultura de montanha e de certas zonas desfavorecidas; que é oportuno prever a possibilidade de incluir, numa fase posterior, outros regimes de ajuda ligados à superfície;\n\nConsiderando que os elementos do sistema integrado podem contribuir para tornar mais eficazes as actividades de gestão e de controlo no âmbito dos regimes comunitários não sujeitos ao presente regulamento; que, por conseguinte, é conveniente autorizar os Estados-membros a recorrerem a esses elementos, salvaguardando, porém, integralmente, o respeito das disposições em causa;\n\nConsiderando que, atendendo à complexidade de tal sistema e ao importante número de pedidos de ajuda a tratar, é indispensával utilizar meios técnicos e métodos de gestão e de controlo adequados; que, por conseguinte, o sistema integrado deve comportar, ao nível dos Estados-membros, uma base de dados informatizada, um sistema alfanumérico de indentificação das parcelas agrícolas, pedidos de ajuda dos agricultores, um sistema harmonizado de controlo e, no sector da produção animal, um sistema de identificação e registo dos animais;\n\nConsiderando que a gestão dos dados recolhidos e a respectiva exploração no âmbito da verificação dos pedidos de ajuda exigem a criação de bases de dados informatizadas suficientemente aperfeiçoadas, que permitam, designadamente, controlos cruzados;\n\nConsiderando que a identificação das parcelas agrícolas constitui um elemento-chave da correcta aplicação de um regime de ajuda ligado à superfície; que a experiência adquirida revelou determinadas insuficiências nos métodos existentes; que é, pois, necessário prever um sistema de identificação alfanumérico estabelecido, se for caso disso, com recurso à teledetecção;\n\nConsiderando que, para garantir a possibilidade de um controlo efectivo, o pedido de ajudas « superfícies » deve ser apresentado, o mais tardar, no primeiro trimestre do ano; que, todavia, o Estado-membro pode, em casos por ele justificados, ser autorizado a aplicar uma data posterior; que, para 1993 e perante as dificuldades de execução do sistema integrado, se admite uma data posterior;\n\nConsiderando que um controlo eficaz no sector da produção animal impõe a identificação e o registo dos animais; que a Directiva 92/102/CEE do Conselho, de 27 de Novembro de 1992, relativa à identificação e ao registo dos animais (6), prevê disposições nesta matéria; que é, pois, conveniente recorrer a essas disposições;\n\nConsiderando que as regras relativas aos pedidos de ajuda continuam a reger-se por disposições sectoriais; que por razões de simplicidade é, todavia, conveniente autorizar os Estados-membros a prever a apresentação de um único pedido para vários regimes de ajudas;\n\nConsiderando que uma das principais vantagens do novo sistema consiste na instituição de um sistema integrado de controlo em cada Estado-membro que evite a duplicação de controlos sectoriais do mesmo tipo; que, por isso, o reforço dos controlos imposto pela reforma da política agrícola comum deverá poder ser obtido sem um aumento significativo da quantidade de controlos; que os pedidos de ajuda apresentados devem ser sujeitos a um controlo administrativo alargado, efectuado com recurso às bases de dados informatizadas; que, até ao presente, os controlos administrativos têm sido completados por controlos no local; que, no que se refere às superfícies, os controlos no local podem, em larga medida, ser substituídos por controlos por teledetecção;\n\nConsiderando que o esforço financeiro que representa a instituição do sistema integrado pode constituir um importante encargo orçamental suplementar para os Estados-membros; que é, pois, conveniente prever uma participação financeira da Comunidade durante um determinado período; que a diversidade das estruturas de produção dos Estados-membros deve ser tomada em consideração; que é, por conseguinte, conveniente prever uma repartição da participação financeira de modo a ter em conta, nomeadamente, o número de explorações agrícolas, a importância dos efectivos e a superfície agrícola dos Estados-membros;\n\nConsiderando que convém prever um período de aplicação progressiva de todos os elementos do sistema integrado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b7d8a917af6bf057": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Cada Estado-membro criará um sistema integrado de gestão e de controlo, adiante designado « sistema integrado », aplicável:\n\na) No sector da produção vegetal:\n\n- ao regime de ajuda aos produtores de certas culturas arvenses instituído pelo Regulamento (CEE) no 1765/92 (7);\n\nb) No sector da produção animal:\n\n- aos regimes de prémio aos produtores de carne de bovino, instituído nas alíneas a) a h) do artigo 4o do Regulamento (CEE) no 805/68 (8),\n\n- ao regime de prémio aos produtores de carne de ovino, instituído pelo Regulamento (CEE) no 3013/89 (9),\n\n- às medidas específicas a favor da agricultura da montanha e de certas zonas desfavorecidas, instituídas pelo Regulamento (CEE) no 2328/91 (10), respeitantes à indemnização compensatória à produção de bovinos, ovinos ou caprinos, ou equídeos,\n\nadiante designados « regimes comunitários ».\n\n2. O Conselho, deliberando sob proposta da Comissão, por maioria qualificada, pode tornar o âmbito de aplicação do sistema integrado extensivo a outros regimes de ajuda comunitários.\n\n3. Para efeitos da aplicação dos regimes de ajuda comunitários não sujeitos ao presente regulamento e sem prejuízo das disposições especiais previstas nos referidos regimes, relativas, nomeadamente, às condições de concessão das ajudas, os Estados-membros podem incorporar nos seus mecanismos de gestão e de controlo um ou vários elementos administrativos, técnicos ou informáticos do sistema integrado.\n\nOs Estados-membros podem tornar esta possibilidade extensiva aos regimes nacionais. Os Estados-membros podem utilizar os dados do sistema integrado para fins estatísticos.\n\nAntes de recorrerem a estas possibilidades, os Estados-membros informarão do facto a Comissão em tempo útil.\n\nA Comissão providenciará para que o recurso a esta possibilidade não infrinja o disposto em regulamentos sectoriais e no presente regulamento.\n\n4. Sem prejuízo de disposições específicas previstas no âmbito dos regimes a que se refere o no 1, na acepção do presente regulamento entende-se por:\n\n- agricultor: o produtor agrícola individual, pessoa singular ou colectiva ou grupo de pessoas singulares ou colectivas, qualquer que seja o estatuto jurídico que a lei nacional confira ao grupo e aos seus membros, cuja exploração se situe no território da Comunidade,\n\n- exploração: o conjunto das unidades de produção geridas pelo agricultor e situadas no território de um Estado-membro,\n\n- parcela agrícola: uma porção contínua de terreno cultivado com uma única cultura e por um único agricultor. Nos termos do processo previsto no artigo 12o, a Comissão adoptará as regras de execução relativas a modos específicos de utilização de parcelas agrícolas, nomeadamente as que se referem às culturas mistas e às superfícies utilizadas em comum."
+  },
+  "0dfb86b4244c790c": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nO sistema integrado inclui os seguintes elementos:\n\na) Uma base de dados informatizada;\n\nb) Um sistema alfanumérico de identificação das parcelas agrícolas;\n\nc) Um sistema alfanumérico de identificação e registo dos animais;\n\nd) Pedidos de ajuda;\n\ne) Um sistema integrado de controlo."
+  },
+  "9992f6562e362732": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Na base de dados informatizada serão registados, em relação a cada exploração agrícola, os dados constantes dos pedidos de ajuda. Esta base de dados deve nomeadamente permitir a consulta directa e imediata, junto da autoridade competente do Estado-membro, dos dados relativos, pelo menos, aos três últimos anos civis e/ou campanhas consecutivas.\n\n2. Os Estados-membros podem criar bases de dados descentralizadas, desde que essas bases, bem como os processos administrativos relativos ao registo e à obtenção dos dados, sejam concebidos de forma homogénea em todo o território do Estado-membro em causa e sejam compatíveis entre si."
+  },
+  "f9136fff4563cf88": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nO sistema alfanumérico de identificação das parcelas agrícolas é constituído com base em planos e documentos cadastrais, em outras referências cartográficas, ou com base em fotografias aéreas ou imagens espaciais ou noutras referências justificativas equivalentes ou com base em vários destes elementos."
+  },
+  "b90defd3ac19c4a4": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nO sistema de identificação e de registo dos animais que entram em linha de conta para a concessão de uma ajuda sujeita ao disposto no presente regulamento será estabelecido nos termos dos artigos 4o, 5o, 6o e 8o da Directiva 92/102/CEE."
+  },
+  "88eead7ef81a858e": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Para poder beneficiar de um ou mais regimes comunitários sujeitos ao disposto no presente regulamento, cada agricultor apresentará, em relação a cada ano, um pedido de ajudas « superfícies » em que se indiquem:\n\n- as parcelas agrícolas, incluindo as superfícies forrageiras, as parcelas agrícolas sujeitas a uma medida de retirada de terras para culturas arvenses e as parcelas deixadas em pousio,\n\n- eventualmente, quaisquer outras informações necessárias, quer as previstas nos regulamentos relativos aos regimes comunitários quer as previstas pelo Estado-membro em questão.\n\n2. O pedido de ajudas « superfícies » deve ser apresentado no primeiro trimestre do ano, em data a fixar pelo Estado-membro. No entanto,\n\n- para 1993, o Estado-membro pode fixar uma data que não poderá ser posterior às datas referidas nos artigos 10o, 11o e 12o do Regulamento (CEE) no 1765/92,\n\n- para os anos seguintes, a Comissão pode, nos termos do processo previsto no artigo 12o, autorizar um Estado-membro a fixar uma data situada entre 1 de Abril e as datas referidas nos artigos 10o, 11o e 12o do Regulamento (CEE) no 1765/92, desde que este Estado-membro possa justificar a escolha de tal data, nomeadamente mediante a apresentação à Comissão de um plano de trabalho pormenorizado onde se demonstre que se encontram satisfeitas as exigências do parágrafo seguinte.\n\nDe qualquer modo, essa data será fixada em função, nomeadamente, do prazo necessário para que todos os dados estejam disponíveis para uma boa gestão administrativa e financeira das ajudas e para a execução dos controlos previstos no artigo 8o\n\n3. O Estado-membro pode decidir que o pedido de ajudas « superfícies » inclua apenas as alterações em relação ao pedido de ajudas « superfícies » do ano anterior.\n\n4. Podem ser introduzidas determinadas alterações no pedido de ajudas « superfícies », desde que as autoridades competentes as recebam o mais tardar nas datas referidas nos artigos 10o, 11o e 12o do Regulamento (CEE) no 1765/92.\n\n5. Considera-se o pedido de ajudas « superfícies », alterado se necessário nos termos do no 4, como sendo o pedido de ajudas previsto no regime referido no no 1, alínea a), do artigo 1o\n\n6. Em relação a cada uma das parcelas agrícolas declaradas, o agricultor indicará a sua superfície e localização, devendo estes elementos permitir a identificação da parcela no âmbito do sistema alfanumérico de identificação das parcelas agrícolas.\n\n7. Os agricultores que pretendam beneficiar apenas de um regime de ajuda que não se relacione directamente com a superfície agrícola podem ser dispensados da obrigação de apresentar o pedido de ajudas « superfícies ».\n\n8. Para poder beneficiar de um dos regimes comunitários mencionados no no 1, alínea b), do artigo 1o, cada agricultor apresentará um ou mais pedidos de ajudas « animais », o mais tardar, nas datas previstas para os respectivos regimes.\n\n9. Sempre que um pedido de ajudas ou as correspondentes alterações devam ser acompanhadas de documentos complementares, esses documentos serão considerados como fazendo parte do pedido.\n\n10. Respeitando embora as datas ou prazos previstos para a apresentação de pedidos na regulamentação comunitária, os Estados-membros podem decidir que um único pedido abranja:\n\n- vários pedidos de ajudas « animais »,\n\n- o pedido de ajudas « superfícies » e um ou mais pedidos de ajudas « animais »."
+  },
+  "e950c10f3b2b99f0": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO sistema integrado de controlo incidirá sobre a totalidade dos pedidos de ajuda apresentados, nomeadamente no que se refere aos controlos administrativos, aos controlos no local e, eventualmente, às verificações por teledetecção aérea ou espacial."
+  },
+  "e74695b9756467a9": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Os Estados-membros procederão a um controlo administrativo dos pedidos de ajudas.\n\n2. Os controlos administrativos serão completados por controlos no local, que incidirão sobre uma amostra das explorações agrícolas. Os Estados-membros estabelecerão um plano de amostragem para o conjunto desses controlos.\n\n3. Cada Estado-membro designará uma autoridade encarregada de garantir a coordenação dos controlos previstos no presente regulamento.\n\n4. As autoridades nacionais podem, em condições a definir, utilizar a teledetecção para determinar a superfície das parcelas agrícolas, identificar a sua utilização e verificar o seu estado.\n\n5. Quando as autoridades competentes do Estado-membro confiarem uma parte das tarefas a efectuar em execução do presente regulamento a organismos ou empresas especializados, devem manter o controlo e assumir a responsabilidade das mesmas."
+  },
+  "f7bb447bb4a05c47": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros tomarão as medidas necessárias para garantir a protecção dos dados recolhidos."
+  },
+  "20cb819eb4526586": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. A Comunidade participará nas despesas realizadas pelos Estados-membros em execução do presente regulamento, no que se refere à instalação das estruturas informáticas e de controlo e à aquisição e análise de fotografias aéreas ou de imagens espaciais.\n\nAs despesas de actualização dos planos cadastrais não serão objecto de co-financiamento comunitário.\n\n2. A participação financeira da Comunidade é concedida por um período de três anos, a partir de 1992, e até ao limite das dotações afectadas para esse efeito.\n\nO montante global é repartido entre os Estados-membros de acordo com as seguintes percentagens:\n\nBélgica 2,3\n\nDinamarca 2,4\n\nAlemanha 10,1\n\nGrécia 8,7\n\nEspanha 18,1\n\nFrança 14,6\n\nIrlanda 4,5\n\nItália 20,1\n\nLuxemburgo 0,6\n\nPaíses Baixos 3,0\n\nPortugal 5,7\n\nReino Unido 9,9.\n\nA participação financeira da Comunidade não pode ser superior a 50 % dos pagamentos efectuados pelo Estado-membro em causa a título do exercício orçamental e relativos às despesas elegíveis na acepção do no 1.\n\n3. A conversão dos montantes expressos em ecus e em moedas nacionais será efectuada mediante aplicação das taxas de câmbio em vigor no primeiro dia útil do ano civil em causa, publicadas na série C do Jornal Oficial das Comunidades Europeias."
+  },
+  "cab1bb4f13b5561a": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. A Comissão será regularmente informada da evolução dos trabalhos de implementação do sistema integrado, para o que organizará trocas de opiniões sobre o assunto com os Estados-membros.\n\n2. Depois de terem informado em tempo útil as autoridades competentes em causa, os agentes da Comissão podem efectuar:\n\n- quaisquer exames e controlos do somatório das medidas tomadas para a criação do sistema integrado e da elegibilidade das despesas declaradas no âmbito do co-financiamento comunitário previsto no artigo 10o,\n\n- controlos junto dos organismos e empresas especializados referidos no no 5 do artigo 8o\n\nNeste controlos podem participar agentes do Estado-membro em causa.\n\nOs poderes de controlo acima referidos não prejudicam a aplicação das disposições processuais penais nacionais que reservam certos actos a agentes especificamente designados pela legislação nacional. Os agentes da Comissão não participam, nomeadamente, nas visitas ao domicílio ou no interrogatório formal das pessoas no âmbito do direito penal do Estado-membro. Terão, no entanto, acesso às informações assim obtidas.\n\n3. Sem prejuízo das responsabilidades dos Estados-membros em matéria de implementação e aplicação do sistema integrado, a Comissão pode recorrer aos serviços de pessoas ou organismos especializados, para facilitar a realização, o acompanhamento e a exploração do sistema integrado e, nomeadamente, para dar conselhos técnicos às autoridades competentes dos Estados-membros, se estas o solicitarem."
+  },
+  "817ccb0400aece49": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nA Comissão adoptará as regras de execução do presente regulamento de acordo com o processo previsto no artigo 13o do Regulamento (CEE) no 729/70. Essas regras incidirão, designadamente, sobre:\n\na) Os elementos de base do sistema alfanumérico de identificação das parcelas agrícolas;\n\nb) As eventuais alterações que podem ser introduzidas nos pedidos de ajudas « superfícies » e a dispensa da obrigação de apresentar o pedido de ajudas « superfícies »;\n\nc) As indicações mínimas que devem constar dos pedidos de ajudas;\n\nd) Os controlos administrativos e os controlos no local e por teledetecção;\n\ne) A criação de um regime de adiantamentos no âmbito da participação financeira da Comunidade;\n\nf) As disposições transitórias aplicáveis durante o período de lançamento do sistema;\n\ng) As comunicações entre os Estados-membros e a Comissão;\n\nh) As medidas necessárias para poder resolver problemas práticos específicos. Estas medidas, se forem devidamente justificadas, poderão ser derrogatórias em relação a determinados elementos do presente regulamento."
+  },
+  "509354af678e4fb3": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. O sistema integrado é aplicável:\n\na) A partir de 1 de Fevereiro de 1993, no que se refere aos pedidos de ajudas, a um sistema alfanumérico de identificação e registo dos animais da espécie bovina e ao sistema integrado de controlo referido no artigo 7o;\n\nb) A partir de 1 de Janeiro de 1996, o mais tardar, no que se refere aos restantes elementos referidos no artigo 2o\n\n2. Tendo em vista a aplicação do sistema integrado, os Estados-membros:\n\n- adoptarão, até 1 de Fevereiro de 1993, as disposições legislativas, regulamentares e administrativas necessárias para efeitos do disposto no no 1, alínea a) e, até 1 de Junho de 1993, as necessárias para efeitos no disposto no no 1, alínea b),\n\n- tomarão as medidas administrativas, orçamentais e técnicas necessárias para que o sistema integrado esteja operacional nas datas indicadas no no 1.\n\nNo entanto, se um ou vários dos elementos do sistema integrado estiverem operacionais antes das datas indicadas no no 1, os Estados-membros utilizá-los-ao para as suas actividades de gestão e de controlo."
+  },
+  "4c82750b0373536c": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias. O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 27 de Novembro de 1992. Pelo Conselho\n\nO Presidente\n\nJ. PATTEN\n\n(1) JO no C 9 de 15. 1. 1992, p. 4. (2) Parecer dado em 17 de Novembro de 1992 (ainda não publicado no Jornal Oficial). (3) JO no C 98 de 21. 4. 1992, p. 29. (4) JO no L 94 de 28. 4. 1970, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no 2048/88 (JO no L 185 de 15. 7. 1988, p. 1). (5) JO no L 374 de 31. 12. 1988, p. 1. (6) Ver página 32 do presente Jornal Oficial. (7) JO no L 181 de 1. 7. 1992, p. 12. Regulamento com a redacção que lhe foi dada pelo Regulamento (CEE) no 2467/92 da Comissão (JO no L 246 de 27. 8. 1992, p. 11). (8) JO no L 148 de 28. 6. 1968, p. 24. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no 2066/92 (JO no L 215 de 30. 7. 1992, p. 49). (9) JO no L 289 de 7. 10. 1989, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no 2069/92 (JO no L 215 de 30. 7. 1992, p. 59). (10) JO no L 218 de 6. 8. 1991, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no 2080/92 (JO no L 215 de 30. 7. 1992, p. 96)."
+  },
+  "3ec64ec5e6e6154b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R3508 — PT — 28.10.2003 — 012.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R3508) [REGULAMENTO (CEE) N.º 3508/92 DO CONSELHO](http://publications.europa.eu/resource/celex/31992R3508) [de 27 de Novembro de 1992](http://publications.europa.eu/resource/celex/31992R3508) [que estabelece um sistema integrado de gestão e de controlo relativo a determinados regimes de ajudas comunitários](http://publications.europa.eu/resource/celex/31992R3508) (JO L 355, 5.12.1992, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1782/2003 do Conselho de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1782) — L 270 — 1 — 21.10.2003"
+  }
+ }
+}

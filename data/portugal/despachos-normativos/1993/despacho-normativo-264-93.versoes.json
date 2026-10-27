@@ -1,0 +1,427 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:661934:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1993-1037792988",
+ "dre_path": "/dr/detalhe/despacho-normativo/264-1993-661934",
+ "source_lastmod": "2026-02-09",
+ "versions": [
+  {
+   "date": "1993-09-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1037798988",
+    "1037798989",
+    "1037798990",
+    "1037798991",
+    "1037798992",
+    "1037798993",
+    "1037798994",
+    "1037798995",
+    "1037798996",
+    "1037798997",
+    "1037798998",
+    "1037798999",
+    "1037799000",
+    "1037799001",
+    "1037799002",
+    "1037799003",
+    "1037799004",
+    "1037799005",
+    "1037799006",
+    "1037799007",
+    "1037799008",
+    "1037799009",
+    "1037799010",
+    "1037799011",
+    "1037799012",
+    "1037799013",
+    "1037799014",
+    "1037799015",
+    "1037799016",
+    "1037799017",
+    "1037799018",
+    "1037799019",
+    "1037799020"
+   ]
+  },
+  {
+   "date": "1998-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:566636:por",
+     "title": "Despacho Normativo n.º 59/98",
+     "published": "1998-09-01",
+     "dre_path": "/dr/detalhe/despacho-normativo/59-1998-566636"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "1037798988",
+    "1037799022",
+    "1037799023",
+    "1037798989",
+    "1037798990",
+    "1037798991",
+    "1037798992",
+    "1037798993",
+    "1037798994",
+    "1037798995",
+    "1037799024",
+    "1037799025",
+    "1037798998",
+    "1037798999",
+    "1037799026",
+    "1037799001",
+    "1037799002",
+    "1037799003",
+    "1037799004",
+    "1037799005",
+    "1037799006",
+    "1037799007",
+    "1037799008",
+    "1037799009",
+    "1037799010",
+    "1037799011",
+    "1037799012",
+    "1037799013",
+    "1037799014",
+    "1037799015",
+    "1037799016",
+    "1037799017",
+    "1037799018",
+    "1037799019",
+    "1037799027"
+   ]
+  }
+ ],
+ "fragments": {
+  "1037798988": {
+   "fragment_id": "1037792989",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 264/93\n\nConsiderando que a Comissão das Comunidades Europeias, em 25 de Janeiro de 1991, decidiu aprovar, em conformidade com o disposto no artigo 11.º do Regulamento (CEE) n.º 4253/88, do Conselho, uma iniciativa comunitária designada por RETEX, relativa à modernização e diversificação das regiões têxteis;\n\nConsiderando que, no âmbito desta iniciativa, a contribuição comunitária poderá ser concedida para acções que visem promover as actividades económicas situadas nas regiões objectivo n.º 1 e elegíveis no quadro do RETEX e que constem de programas operacionais apresentados pelos Estados membros e aprovados pela Comissão das Comunidades Europeias;\n\nConsiderando que foi recentemente aprovado pela Comissão das Comunidades Europeias o programa operacional apresentado por Portugal e que se torna necessário regulamentar as medidas previstas no subprograma C do referido programa:\n\nDetermina-se que pelo presente despacho seja aprovado o Regulamento de Aplicação do Subprograma C do Programa Operacional RETEX e respectivos anexos."
+  },
+  "1037798989": {
+   "fragment_id": "1037792990",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objecto\n\nSão susceptíveis de apoio, no âmbito do Subprograma C do Programa Operacional RETEX:\n\na) Os projectos que visem a realização de estudos globais de diagnóstico e de formulação de estratégias de modernização e internacionalização das empresas ou o levantamento e análise de situações que afectam a produtividade e competitividade das mesmas em áreas específicas, bem como as acções de sensibilização conduzidas por equipas de animação nos domínios referidos (medida C1);\n\nb) Os projectos que visem a melhoria da produtividade das empresas sem modificação dos equipamentos produtivos principais, bem como a melhoria das condições de trabalho e de defesa do ambiente (medida C2)."
+  },
+  "1037798990": {
+   "fragment_id": "1037792991",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições gerais de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições gerais de acesso\n\n1 - Os promotores dos projectos deverão:\n\na) Demonstrar que possuem capacidade técnico-científica, económica, financeira, comercial e de gestão adequada à dimensão e características dos projectos propostos;\n\nb) Garantir que dispõem ou virão a dispor de recursos humanos adequados a dimensão e natureza dos projectos e indicar acções de formação profissional, quando detectadas como necessárias;\n\nc) Comprovar que dispõem de contabilidade adequada às análises requeridas para apreciação e acompanhamento dos projectos;\n\nd) Comprovar que não são devedores ao Estado e à segurança social de quaisquer contribuições, impostos, quotizações e outras importâncias ou que o seu pagamento está assegurado, sendo dispensados do cumprimento desta obrigação as entidades legalmente constituídas nos 90 dias anteriores à data de candidatura;\n\ne) Comprovar terem requerido o registo para efeitos do cadastro industrial ou comprometerem-se a requerê-lo no prazo de 30 dias, quando aplicável.\n\n2 - Os projectos a apoiar deverão:\n\na) Localizar-se numa das regiões NUTE III incluídas no anexo I;\n\nb) Ser enquadráveis e observar o disposto no Programa;\n\nc) Possuir interesse geral para a indústria portuguesa;\n\nd) Apresentar financiamento adequado, por forma que o equilíbrio financeiro do promotor não seja comprometido;\n\ne) Demonstrar o cumprimento das disposições legais em matéria de concursos públicos e ambiente, quando aplicável;\n\nf) Ter início após a data de apresentação da candidatura, com excepção de projectos que transitem para o presente regime nos termos do artigo 30.º e de estudos prévios realizados há menos de um ano.\n\n3 - Para os efeitos da alínea e) do número anterior, considera-se início do projecto a data da factura mais antiga relativa a pagamentos efectuados no âmbito do mesmo, sendo admitido o adiantamento para sinalização, até 25% do custo da despesa elegível a que diz respeito, sempre que os documentos justificativos desse adiantamento se refiram aos 90 dias que antecedem a data da entrega das candidaturas."
+  },
+  "1037798991": {
+   "fragment_id": "1037792992",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza da comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza da comparticipação\n\n1 - A comparticipação a conceder assumirá a forma de um apoio financeiro a fundo perdido, determinado pela aplicação de uma percentagem sobre cada tipo das despesas elegíveis que cada projecto envolve, nas condições previstas no anexo II ao presente Regulamento.\n\n2 - O cálculo das despesas elegíveis previstas no presente Regulamento será efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado (IVA), sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.\n\n3 - Para efeitos da determinação do montante da comparticipação a atribuir a cada projecto, os custos declarados para as despesas elegíveis serão considerados em função da sua correspondência com os respectivos custos médios de mercado."
+  },
+  "1037798992": {
+   "fragment_id": "1037792993",
+   "type": 11,
+   "heading": "Artigo 4.º — Limite da comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Limite da comparticipação\n\n1 - Para efeitos do artigo 3.º do presente Regulamento, a comparticipação a conceder por projecto ou por acção está sujeita aos limites máximos estabelecidos no anexo II ao presente Regulamento.\n\n2 - Do número anterior exceptuam-se os projectos que, pela sua relevância e mérito específicos, venham a ser objecto de despacho conjunto dos Ministros do Planeamento e da Administração do Território e da Indústria e Energia, o qual fixará o montante da comparticipação a atribuir.\n\nMedida C1 - Apoio a acções que visem o diagnóstico da situação das empresas e a formulação de estratégias"
+  },
+  "1037798993": {
+   "fragment_id": "1037792994",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipos de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipos de projectos\n\nSão susceptíveis de apoio, no âmbito da medida C1, as acções que visem:\n\na) Estudos de natureza global que incluam o diagnóstico da situação da empresa, a análise da sua envolvente, nomeadamente em termos de mercado, e o estudo de orientações estratégicas, cobrindo de uma forma integrada as diversas áreas funcionais, em particular a técnica e tecnológica, recursos humanos, capacidade de gestão, qualidade, ambiente, energia, qualidade, marketing e internacionalização (submedida C1a);\n\nb) Estudos de diagnóstico ou auditorias que visem o levantamento e análise de situações que afectam a produtividade e competitividade industrial, nas seguintes áreas específicas: concepção, desenvolvimento e projecto de produtos, produção, aprovisionamento, energia, ambiente, qualidade, segurança industrial e distribuição (submedida C1b);\n\nc) Criação de equipas de animação para a sensibilização e dinamização das PME para os objectivos e medidas do Programa (submedida C1c)."
+  },
+  "1037798994": {
+   "fragment_id": "1037792995",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis\n\nConsideram-se elegíveis, para efeitos de cálculo da comparticipação prevista para a medida C1, as despesas previstas no anexo II ao presente Regulamento."
+  },
+  "1037798995": {
+   "fragment_id": "1037792996",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidades beneficiárias\n\nSão entidades beneficiárias da medida C1:\n\na) Submedidas C1a e C1b - empresas ou grupos de empresas industriais;\n\nb) Submedida C1c - estruturas associativas ou outras entidades sem finalidade lucrativa."
+  },
+  "1037798996": {
+   "fragment_id": "1037792997",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições específicas de acesso\n\n1 - Os projectos inseridos nas submedidas C1a e C1b deverão:\n\na) Incluir uma fundamentação prévia da necessidade do diagnóstico ou auditoria nas áreas visadas, bem como o plano de trabalhos a executar e a respectiva metodologia;\n\nb) Os estudos deverão ser executados por entidades reconhecidas pela DGI como centros de competência nas áreas ou sectores em causa.\n\n2 - Os projectos inseridos na submedida C1c deverão obedecer às condições que vierem a ser definidas no aviso de abertura do concurso para selecção de equipas de animação, nomeadamente quanto à sua localização geográfica e plano de acções a desenvolver.\n\nMedida C2 - Apoio a acções que visem a melhoria da produtividade"
+  },
+  "1037798997": {
+   "fragment_id": "1037792998",
+   "type": 11,
+   "heading": "Artigo 9.º — Tipos de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Tipos de projectos\n\nSão susceptíveis de apoio, no âmbito da medida C2, as acções que visem:\n\na) O aumento da produtividade nas empresas sem modificações ou substituições dos equipamentos instalados, actuando, nomeadamente, nos seguintes domínios: concepção, desenvolvimento e capacidade de projecto, gestão e controlo da produção, melhoria do lay-out fabril, melhoria do fluxo, movimentação e armazenagem de materiais e produtos acabados, introdução de adaptações e pequenas alterações nos processos produtivos, manutenção preventiva, sistemas de controlo de qualidade, novas formas ou filosofias de organização do trabalho e melhoria das condições de trabalho (submedida C2a);\n\nb) Acções de demonstração de projectos com as características referidas na alínea anterior, bem como no domínio de projectos de defesa do ambiente, e que possuam carácter inovador e efeitos exemplares e disseminadores no sector ou região em que são desenvolvidos (submedida C2b)."
+  },
+  "1037798998": {
+   "fragment_id": "1037792999",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas elegíveis\n\nConsideram-se elegíveis, para efeitos de cálculo de comparticipação prevista para a medida C2, as despesas previstas no anexo II ao presente Regulamento."
+  },
+  "1037798999": {
+   "fragment_id": "1037793000",
+   "type": 11,
+   "heading": "Artigo 11.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entidades beneficiárias\n\nSão entidades beneficiárias da medida C2 as empresas ou grupos de empresas industriais."
+  },
+  "1037799000": {
+   "fragment_id": "1037793001",
+   "type": 11,
+   "heading": "Artigo 12.º — Condições específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condições específicas de acesso\n\n1 - Os projectos inseridos na medida C2 e os respectivos promotores deverão:\n\na) As empresas candidatas deverão demonstrar uma situação financeira equilibrada, para o que terão de verificar os seguintes requisitos:\n\nAutonomia financeira (capitas próprios/activo total) superior a 0,2;\n\nCobertura do imobilizado (capitais permanentes/activo imobilizado líquido) superior a 1;\n\nb) Os projectos deverão incluir uma fundamentação prévia da necessidade e viabilidade das acções propostas e precisar o plano de trabalhos a executar e a respectiva metodologia;\n\nc) O projecto deverá ser financiado por capitais próprios (incluindo o autofinanciamento da empresa sem projecto) em montante não inferior a 25% do custo total;\n\nd) A realização dos projectos deverá ser acompanhada por entidades reconhecidas pela DGI como centros de competência ou por outras entidades com capacidade demonstrada para o efeito.\n\n2 - Os projectos inseridos na submedida C2b e os respectivos promotores deverão ainda observar os seguintes requisitos:\n\na) O projecto deverá ter efeitos demonstradores no sector de actividade em que se insere, isto é, deverá permitir obter ganhos significativos de produtividade (pela inovação das soluções utilizadas) ou de resultados na área da defesa do ambiente e possuir potencialidades de repetição;\n\nb) O projecto deverá ser obrigatoriamente acompanhado por uma entidade reconhecida como centro de competência;\n\nc) As empresas promotoras deverão manifestar explicitamente o compromisso de aceitação de demonstração e divulgação do projecto, incluindo a permissão de visita aos locais em que o mesmo foi realizado."
+  },
+  "1037799001": {
+   "fragment_id": "1037793002",
+   "type": 11,
+   "heading": "Artigo 13.º — Quadro institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Quadro institucional\n\n1 - A responsabilidade pela gestão técnica, administrativa e financeira do Subprograma C do Programa Operational RETEX pertence à Comissão do RETEX, criada pelo despacho conjunto dos Ministros do Planeamento e da Administração do Território, da Indústria e Energia e do Comércio e Turismo publicado no Diário da República, 2.ª série, n.º 213, de 10 de Setembro de 1993.\n\n2 - Esta Comissão será coadjuvada, para efeitos da concessão dos apoios previstos no presente Regulamento, por uma equipa técnica de apreciação constituída no âmbito da DGI."
+  },
+  "1037799002": {
+   "fragment_id": "1037793003",
+   "type": 11,
+   "heading": "Artigo 14.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apresentação de candidaturas\n\nAs candidaturas aos apoios financeiros previstas no presente Regulamento são formalizadas através da apresentação na DGI do respectivo formulário normalizado de candidatura, acompanhado dos elementos referidos no artigo seguinte."
+  },
+  "1037799003": {
+   "fragment_id": "1037793004",
+   "type": 11,
+   "heading": "Artigo 15.º — Elementos a fornecer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Elementos a fornecer\n\n1 - Os formulários normalizados de candidatura deverão conter, obrigatoriamente, as seguintes informações:\n\na) Objectivo a atingir e seu enquadramento no Programa RETEX;\n\nb) Descrição da experiência do promotor na actividade a desenvolver ou em actividades afins;\n\nc) Balanços e demonstrações de resultados dos três últimos exercícios imediatamente anteriores à apresentação do projecto, quando aplicável;\n\nd) Cobertura financeira do projecto, incluindo as suas fontes de financiamento.\n\n2 - Os formulários de candidatura deverão ser acompanhados de:\n\na) Comprovação do cumprimento da condição de acesso prevista na alínea d) do n.º 1 do artigo 2.º;\n\nb) Comprovação do cumprimento da condição de acesso prevista na alínea e) do n.º 1 do artigo 2.º, quando aplicável;\n\nc) Memória descritiva, orçamento detalhado e respectivo cronograma de realização, bem como os curricula das entidades ou peritos contratados para a realização de acções integradas nos projectos de investimento, quando aplicável;\n\nd) Descrição das características técnicas dos equipamentos a adquirir, funções a executar e país de origem, quando aplicável.\n\n3 - Para além dos elementos referidos nos n.os 1 e 2, os Ministros do Planeamento e da Administração do Território e da Indústria e Energia poderão estabelecer, por despacho ou no aviso de abertura do concurso, a exigência de elementos adicionais necessários a uma adequada avaliação de determinadas candidaturas."
+  },
+  "1037799004": {
+   "fragment_id": "1037793005",
+   "type": 11,
+   "heading": "Artigo 16.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Financiamento\n\nPara efeitos da alínea d) do n.º 1 do artigo 15.º, a comparticipação a que o promotor se candidata é considerada como fonte de financiamento do projecto."
+  },
+  "1037799005": {
+   "fragment_id": "1037793006",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências e prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências e prazos\n\n1 - Compete à equipa técnica da DGI apreciar as candidaturas de sua responsabilidade, no prazo de 60 dias contados a partir da data de entrada do projecto, e apresentá-las para selecção pela Comissão do RETEX.\n\n2 - Poderão, no decurso da fase de análise, ser solicitados aos promotores esclarecimentos complementares, não devendo o tempo de resposta ultrapassar 15 dias, sob pena de anulação da candidatura. O tempo de resposta não é considerado para efeitos do decurso dos prazos referidos no número anterior e no n.º 2 do artigo 19.º\n\n3 - Poderão ainda ser solicitados pareceres a demais organismos dos Ministérios do Planeamento e da Administração do Território e da Indústria e Energia e, eventualmente, a peritos externos, os quais deverão ser emitidos no prazo de 15 dias.\n\n4 - Compete à Comissão do RETEX apreciar, no prazo de 15 dias, as propostas de decisão apresentadas pelas equipas técnicas e:\n\na) No caso de parecer favorável à concessão de apoios, submetê-las a homologação dos Ministros do Planeamento e da Administração do Território e da Indústria e Energia;\n\nb) No caso de parecer desfavorável, comunicar-se-á ao promotor a proposta de decisão da Comissão do RETEX, podendo este apresentar, no prazo de 30 dias, alegações contrárias, que, juntamente com a reapreciação da Comissão, serão submetidas a despacho ministerial nos termos referidos na alínea anterior, para decisão no prazo de 30 dias."
+  },
+  "1037799006": {
+   "fragment_id": "1037793007",
+   "type": 11,
+   "heading": "Artigo 18.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Critérios de selecção\n\n1 - Proceder-se-á à aprovação dos projectos de forma contínua, atendendo ao critério da data de entrada das candidaturas.\n\n2 - No caso de insuficiência de verbas para apoio a projectos aprovados e homologados, serão os mesmos inscritos numa lista de espera, ordenada cronologicamente em função da sua data de entrada, até que haja disponibilidade das mesmas, informando-se deste facto o promotor.\n\n3 - A lista de espera poderá ser ordenada de acordo com um sistema de prioridades por medida, a definir por despacho dos Ministros do Planeamento e da Administração do Território e da Indústria e Energia, em função do interesse dos projectos para a política industrial."
+  },
+  "1037799007": {
+   "fragment_id": "1037793008",
+   "type": 11,
+   "heading": "Artigo 19.º — Processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Processo de decisão\n\n1 - A decisão sobre os pedidos de concessão de apoios competirá aos Ministros do Planeamento e da Administração do Território e da Indústra e Energia, tendo em conta a proposta apresentada pela Comissão do RETEX.\n\n2 - A decisão será tomada no prazo de 120 dias a contar da data de apresentação da candidatura, tendo em conta o disposto no n.º 2 e na alínea b) do n.º 4 do artigo 18.º\n\n3 - A comunicação da decisão ao promotor deverá ser realizada no prazo de 15 dias."
+  },
+  "1037799008": {
+   "fragment_id": "1037793009",
+   "type": 11,
+   "heading": "Artigo 20.º — Contrato de concessão de apoios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contrato de concessão de apoios financeiros\n\n1 - A concessão dos apoios será formalizada por contrato, com minuta tipo previamente homologada pelos Ministros do Planeamento e da Administração do Território e da Indústria e Energia, a celebrar entre o IAPMEI e o promotor, podendo também integrar outras instituições que co-financiem o projecto.\n\n2 - O contrato poderá ser objecto de renegociação, mediante despacho dos Ministros do Planeamento e da Administração do Território e da Indústria e Energia, sob proposta devidamente fundamentada da Comissão do RETEX, no caso de alterações devidamente justificadas e que impliquem um acréscimo do montante da comparticipação atribuída."
+  },
+  "1037799009": {
+   "fragment_id": "1037793010",
+   "type": 11,
+   "heading": "Artigo 21.º — Rescisão do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Rescisão do contrato\n\nO contrato poderá ser rescindido, mediante despacho dos Ministros do Planeamento e Administração do Território e da Indústria e Energia, sob proposta devidamente fundamentada da Comissão do RETEX, designadamente nos seguintes casos:\n\na) Não cumprimento dos objectivos e obrigações nos prazos estabelecidos no contrato por facto imputável ao promotor;\n\nb) Não cumprimento atempado de obrigações fiscais e legais;\n\nc) Prestações de informações falsas sobre a situação do projecto ou da entidade promotora ou viciação dos documentos fornecidos nas fases de candidatura e de acompanhamento do projecto."
+  },
+  "1037799010": {
+   "fragment_id": "1037793011",
+   "type": 11,
+   "heading": "Artigo 22.º — Consequências da rescisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Consequências da rescisão\n\nA rescisão do contrato implicará a restituição da comparticipação recebida, por parte do beneficiário, no prazo de 60 dias a contar da data da sua notificação, podendo ser acrescida de juros calculados à taxa, a 180 dias, fixada pela Associação Portuguesa de Bancos (taxa APB) em vigor à data da notificação."
+  },
+  "1037799011": {
+   "fragment_id": "1037793012",
+   "type": 11,
+   "heading": "Artigo 23.º — Pagamento da comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Pagamento da comparticipação\n\n1 - O pagamento da comparticipação, que será feita de acordo com as cláusulas contratuais, estará a cargo do IAPMEI e ficará condicionado:\n\na) A realização integral do projecto;\n\nb) A verificação, pela equipa técnica da DGI, dos documentos justificativos das despesas, facturas e recibos, devidamente classificados em função do projecto.\n\n2 - Após o início da execução do projecto, poderão ser proporcionados adiantamentos sobre o valor global da comparticipação atribuída, em condições a estabelecer pela Comissão do RETEX."
+  },
+  "1037799012": {
+   "fragment_id": "1037793013",
+   "type": 11,
+   "heading": "Artigo 24.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cobertura orçamental\n\nOs encargos decorrenres, no que respeita à contrapartida nacional da aplicação do Programa Operacional, serão inscritos anualmente no capítulo 50 do orçamento próprio do PIDDAC."
+  },
+  "1037799013": {
+   "fragment_id": "1037793014",
+   "type": 11,
+   "heading": "Artigo 25.º — Contabilização da comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contabilização da comparticipação\n\nA comparticipação concedida será contabilizada de acordo com as exigências do Plano Oficial de Contabilidade em vigor e, quando não aplicável, serão criadas contas especiais para o seu registo, não sendo, em qualquer caso, susceptível de distribuição."
+  },
+  "1037799014": {
+   "fragment_id": "1037793015",
+   "type": 11,
+   "heading": "Artigo 26.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Obrigações dos promotores\n\n1 - As entidades que venham a beneficiar de qualquer apoio no âmbito deste Regulamento ficam sujeitas às seguintes obrigações:\n\na) Executar o projecto nos termos e prazos fixados no contrato;\n\nb) Cumprir os objectivos constantes da candidatura;\n\nc) Fornecer todos os elementos que lhes forem solicitados pela DGI ou pela Comissão do RETEX para efeitos de acompanhamento e fiscalização dos projectos.\n\n2 - Todas as entidades beneficiáras ficam sujeitas à verificação da utilização dos apoios concedidos, não podendo locar nem alienar, no todo ou em parte, sem autorização prévia da DGI, os bens adquiridos para a execução do projecto até que sejam atingidos os objectivos do mesmo."
+  },
+  "1037799015": {
+   "fragment_id": "1037793016",
+   "type": 11,
+   "heading": "Artigo 27.º — Fiscalização e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Fiscalização e acompanhamento\n\n1 - A Comissão do RETEX adoptará as medidas necessárias à fiscalização da realização dos projectos e demais requisitos contidos no presente Regulamento, sem prejuízo de outras disposições legais.\n\n2 - A DGI e a DGDR procederão ao acompanhamento e à fiscalização da realização dos projectos e acções apoiados, no âmbito das suas atribuições."
+  },
+  "1037799016": {
+   "fragment_id": "1037793017",
+   "type": 11,
+   "heading": "Artigo 28.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Avaliação\n\nA Comissão do RETEX elaborará, em colaboração com a equipa técnica da DGI, relatórios de avaliação das comparticipações concedidas e sua articulação com os objectivos do Programa, nos termos estabelecidos nos normativos comunitários."
+  },
+  "1037799017": {
+   "fragment_id": "1037793018",
+   "type": 11,
+   "heading": "Artigo 29.º — Concorrência de comparticipações financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Concorrência de comparticipações financeiras\n\n1 - As comparticipações previstas neste Regulamento não são acumuláveis com quaisquer outras, da mesma natureza ou finalidade, concedidas ao abrigo de outro regime legal nacional para as mesmas despesas elegíveis.\n\n2 - Os apoios previstos neste Regulamento poderão ser cumuláveis com os estabelecidos no Subprograma A do RETEX, desde que o montante total dos incentivos cumulados não ultrapasse 75% do valor do investimento."
+  },
+  "1037799018": {
+   "fragment_id": "1037793019",
+   "type": 11,
+   "heading": "Artigo 30.º — Situações transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Situações transitórias\n\n1 - Os projectos apresentados ao abrigo do Despacho Normativo n.º 213/92, de 26 de Outubro (Programa PRISMA), e para os quais não houve decisão relativamente à atribuição definitiva de comparticipação poderão ser apoiados no âmbito deste Subprograma do Programa RETEX, desde que nele enquadráveis.\n\n2 - As comparticipações ficam sujeitas aos limites previstos no anexo II ao presente Regulamento.\n\n3 - Os prazos de apreciação e decisão dos referidos projectos serão contados a partir da data da entrada em vigor do presente Regulamento."
+  },
+  "1037799019": {
+   "fragment_id": "1037793020",
+   "type": 14,
+   "heading": "Anexo I — Lista das regiões/municípios elegíveis do RETEX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Lista das regiões/municípios elegíveis do RETEX\n\nRegião Norte (NUTE II):\n\nMinho-Lima (NUTE III):\n\nArcos de Valdevez.\n\nCaminha.\n\nMelgaço.\n\nMonção.\n\nParedes de Coura.\n\nPonte da Barca.\n\nPonte de Lima.\n\nValença.\n\nViana do Castelo.\n\nVila Nova de Cerveira.\n\nCávado (NUTE III):\n\nAmares.\n\nBarcelos.\n\nBraga.\n\nEsposende.\n\nTerras de Bouro.\n\nVila Verde.\n\nAve (NUTE III):\n\nFafe.\n\nGuimarães.\n\nPóvoa de Lanhoso.\n\nSanto Tirso.\n\nVieira do Minho.\n\nVila Nova de Famalicão.\n\nGrande Porto (NUTE III):\n\nEspinho.\n\nGondomar.\n\nMaia.\n\nMatosinhos.\n\nPorto.\n\nPóvoa de Varzim.\n\nValongo.\n\nVila do Conde.\n\nVila Nova de Gaia.\n\nTâmega (NUTE III):\n\nAmarante.\n\nBaião.\n\nCabeceiras de Basto.\n\nCastelo de Paiva.\n\nCelorico de Basto.\n\nCinfães.\n\nFelgueiras.\n\nLousada.\n\nMarco de Canaveses.\n\nMondim de Basto.\n\nPaços de Ferreira.\n\nParedes.\n\nPenafiel.\n\nResende.\n\nRibeira de Pena.\n\nEntre Douro e Vouga (NUTE III):\n\nArouca.\n\nFeira.\n\nOliveira de Azeméis.\n\nSão João da Madeira.\n\nVale de Cambra.\n\nRegião Centro (NUTE II):\n\nBaixo Vouga (NUTE III):\n\nÁgueda.\n\nAlbergaria-a-Velha.\n\nAnadia.\n\nAveiro.\n\nEstarreja.\n\nÍlhavo.\n\nMealhada.\n\nMurtosa.\n\nOliveira do Bairro.\n\nOvar.\n\nSever do Vouga.\n\nVagos.\n\nBaixo Mondego (NUTE III):\n\nCantanhede.\n\nCoimbra.\n\nCondeixa-a-Nova.\n\nFigueira da Foz.\n\nMira.\n\nMontemor-o-Velho.\n\nPenacova.\n\nSoure.\n\nPinhal Litoral (NUTE III):\n\nBatalha.\n\nLeiria.\n\nMarinha Grande.\n\nPombal.\n\nPorto de Mós.\n\nPinhal Interior Norte (NUTE III):\n\nAlvaiázere.\n\nAnsião.\n\nArganil.\n\nCastanheira de Pêra.\n\nFigueiró dos Vinhos.\n\nGóis.\n\nLousã.\n\nMiranda do Corvo.\n\nOliveira do Hospital.\n\nPampilhosa da Serra.\n\nPedrógão Grande.\n\nPenela.\n\nTábua.\n\nVila Nova de Poiares.\n\nPinhal Interior Sul (NUTE III):\n\nMação.\n\nOleiros.\n\nProença-a-Nova.\n\nSertã.\n\nVila de Rei.\n\nDão-Lafões (NUTE III):\n\nAguiar da Beira.\n\nCarregal do Sal.\n\nCastro Daire.\n\nMangualde.\n\nMortágua.\n\nNelas.\n\nOliveira de Frades.\n\nPenalva do Castelo.\n\nSanta Comba Dão.\n\nSão Pedro do Sul.\n\nSátão.\n\nTondela.\n\nVila Nova de Paiva.\n\nViseu.\n\nVouzela.\n\nSerra da Estrela (NUTE III):\n\nForno de Algodres.\n\nGouveia.\n\nSeia.\n\nBeira Interior Norte (NUTE III):\n\nAlmeida.\n\nCelorico da Beira.\n\nFigueira de Castelo Rodrigo.\n\nGuarda.\n\nManteigas.\n\nMeda.\n\nPinhel.\n\nSabugal.\n\nTrancoso.\n\nBeira Interior Sul (NUTE III):\n\nCastelo Branco.\n\nIdanha-a-Nova.\n\nPenamacor.\n\nVila Velha de Ródão.\n\nCova da Beira (NUTE III):\n\nBelmonte.\n\nCovilhã.\n\nFundão.\n\nRegião de Lisboa e Vale do Tejo (NUTE II):\n\nMédio Tejo (NUTE III):\n\nAbrantes.\n\nAlcanena.\n\nConstância.\n\nEntroncamento.\n\nFerreira do Zêzere.\n\nGavião.\n\nSardoal.\n\nTomar.\n\nTorres Novas.\n\nVila Nova da Barquinha.\n\nOurém.\n\nLezíria do Tejo (NUTE III):\n\nAlmeirim.\n\nAlpiarça.\n\nAzambuja.\n\nBenavente.\n\nCartaxo.\n\nChamusca.\n\nCoruche.\n\nGolegã.\n\nRio Maior.\n\nSalvaterra de Magos.\n\nSantarém.\n\nRegião do Alentejo (NUTE II):\n\nAlto Alentejo (NUTE III):\n\nAlter do Chão.\n\nArronches.\n\nAvis.\n\nCampo Maior.\n\nCastelo de Vide.\n\nCrato.\n\nElvas.\n\nFronteira.\n\nMarvão.\n\nMonforte.\n\nMora.\n\nNisa.\n\nPonte de Sor.\n\nPortalegre."
+  },
+  "1037799020": {
+   "fragment_id": "1037793021",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n(ver documento original)"
+  },
+  "1037799022": {
+   "fragment_id": "1037793022",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios do Planeamento e da Administração do Território e da Indústria e Energia, 27 de Agosto de 1993. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral."
+  },
+  "1037799023": {
+   "fragment_id": "1037793023",
+   "type": 14,
+   "heading": "Anexo — Regulamento de Aplicação do Subprograma C do Programa Operacional RETEX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento de Aplicação do Subprograma C do Programa Operacional RETEX"
+  },
+  "1037799024": {
+   "fragment_id": "1037792997",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições específicas de acesso",
+   "in_force_from": "1998-09-06",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 59/98 - Diário da República n.º 201/1998, Série I-B de 1998-09-01](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-1998-566636), em vigor a partir de 1998-09-06"
+   ],
+   "markdown": "###### Artigo 8.º — Condições específicas de acesso\n\n1 - Os projectos inseridos nas submedidas C1a e C1b deverão:\n\na) Incluir uma fundamentação prévia da necessidade do diagnóstico ou auditoria nas áreas visadas, bem como o plano de trabalhos a executar e a respectiva metodologia;\n\nb) Os estudos devem ser executados por entidades externas com qualificação e experiência profissional adequadas.\n\n2 - Os projectos inseridos na submedida C1c deverão obedecer às condições que vierem a ser definidas no aviso de abertura do concurso para selecção de equipas de animação, nomeadamente quanto à sua localização geográfica e plano de acções a desenvolver.\n\nMedida C2 - Apoio a acções que visem a melhoria da produtividade\n\n> Alterado pelo/a [Despacho Normativo n.º 59/98 - Diário da República n.º 201/1998, Série I-B de 1998-09-01](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-1998-566636), em vigor a partir de 1998-09-06"
+  },
+  "1037799025": {
+   "fragment_id": "1037792998",
+   "type": 11,
+   "heading": "Artigo 9.º — Tipos de projectos",
+   "in_force_from": "1998-09-06",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 59/98 - Diário da República n.º 201/1998, Série I-B de 1998-09-01](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-1998-566636), em vigor a partir de 1998-09-06"
+   ],
+   "markdown": "###### Artigo 9.º — Tipos de projectos\n\nSão susceptíveis de apoio, no âmbito da medida C2, as acções que visem:\n\na) O aumento da produtividade nas empresas sem modificações ou substituições dos equipamentos instalados, actuando, nomeadamente, nos seguintes domínios: concepção, desenvolvimento e capacidade de projecto, gestão e controlo da produção, melhoria do lay-out fabril, melhoria do fluxo, movimentação e armazenagem de materiais e produtos acabados, introdução de adaptações e pequenas alterações nos processos produtivos, manutenção preventiva, sistemas de controlo de qualidade, novas formas ou filosofias de organização do trabalho e melhoria das condições de trabalho (submedida C2a) bem como alterações de processos ou de equipamentos específicos para adaptação das estruturas produtivas à legislação ambiental em vigor (submedida C2a).\n\nb) Acções de demonstração de projectos com as características referidas na alínea anterior, bem como no domínio de projectos de defesa do ambiente, e que possuam carácter inovador e efeitos exemplares e disseminadores no sector ou região em que são desenvolvidos (submedida C2b).\n\n> Alterado pelo/a [Despacho Normativo n.º 59/98 - Diário da República n.º 201/1998, Série I-B de 1998-09-01](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-1998-566636), em vigor a partir de 1998-09-06"
+  },
+  "1037799026": {
+   "fragment_id": "1037793001",
+   "type": 11,
+   "heading": "Artigo 12.º — Condições específicas de acesso",
+   "in_force_from": "1998-09-06",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 59/98 - Diário da República n.º 201/1998, Série I-B de 1998-09-01](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-1998-566636), em vigor a partir de 1998-09-06"
+   ],
+   "markdown": "###### Artigo 12.º — Condições específicas de acesso\n\n1 - Os projectos inseridos na medida C2 e os respectivos promotores deverão:\n\na) As empresas candidatas deverão demonstrar uma situação financeira equilibrada, para o que terão de verificar os seguintes requisitos:\n\nAutonomia financeira (capitas próprios/activo total) superior a 0,2;\n\nCobertura do imobilizado (capitais permanentes/activo imobilizado líquido) superior a 1;\n\nb) Os projectos deverão incluir uma fundamentação prévia da necessidade e viabilidade das acções propostas e precisar o plano de trabalhos a executar e a respectiva metodologia;\n\nc) O projecto deverá ser financiado por capitais próprios (incluindo o autofinanciamento da empresa sem projecto) em montante não inferior a 25% do custo total;\n\nd) A realização dos projectos deve ser acompanhada por entidades externas com qualificação e experiência profissional adequadas às necessidades de implementação do projecto.\n\n2 - Os projectos inseridos na submedida C2b e os respectivos promotores deverão ainda observar os seguintes requisitos:\n\na) O projecto deverá ter efeitos demonstradores no sector de actividade em que se insere, isto é, deverá permitir obter ganhos significativos de produtividade (pela inovação das soluções utilizadas) ou de resultados na área da defesa do ambiente e possuir potencialidades de repetição;\n\nb) O projecto deve ser obrigatoriamente acompanhado por uma entidade externa com qualificação e experiência profissional adequadas às necessidades do projecto e que é igualmente co-responsável, em conjunto com o promotor, pela fase de implementação e divulgação do projecto;\n\nc) As empresas promotoras deverão manifestar explicitamente o compromisso de aceitação de demonstração e divulgação do projecto, incluindo a permissão de visita aos locais em que o mesmo foi realizado.\n\n> Alterado pelo/a [Despacho Normativo n.º 59/98 - Diário da República n.º 201/1998, Série I-B de 1998-09-01](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-1998-566636), em vigor a partir de 1998-09-06"
+  },
+  "1037799027": {
+   "fragment_id": "1037793021",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "1998-09-06",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Despacho Normativo n.º 59/98 - Diário da República n.º 201/1998, Série I-B de 1998-09-01](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-1998-566636), em vigor a partir de 1998-09-06"
+   ],
+   "markdown": "## Anexo II\n\n(ver documento original)\n\n> Alterado pelo/a Anexo do/a [Despacho Normativo n.º 59/98 - Diário da República n.º 201/1998, Série I-B de 1998-09-01](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-1998-566636), em vigor a partir de 1998-09-06"
+  }
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:421775:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1987-34492675",
+ "dre_path": "/dr/detalhe/decreto-lei/215-1987-421775",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1987-05-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45310675",
+    "45310775",
+    "45310875",
+    "45310975",
+    "45311075",
+    "45311175",
+    "45311275",
+    "45311375",
+    "45311475",
+    "45311575",
+    "45311675",
+    "45311775",
+    "45311875",
+    "45311975",
+    "45312075",
+    "45312175",
+    "45312275",
+    "45312375",
+    "45312475",
+    "45312575"
+   ]
+  }
+ ],
+ "fragments": {
+  "45310675": {
+   "fragment_id": "35112475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. O Governo entende, como seu dever e para defesa do Estado de direito democrático, que lhe cabe desenvolver todos os esforços no sentido de dignificar e clarificar, no âmbito da sua competência legislativa, o quadro jurídico do que pode ser desingado como a «estrutura formal e material dos actos regulamentares e administrativos do Governo».\n\n2. O presente diploma entronca nessa preocupação, visando corresponder forma e conteúdo, no que tange a certos actos da competência do Governo, no âmbito da sua função administrativa [artigo 202.º, alíneas c), d), e) e g), da Constituição].\n\nFundamentalmente tem-se em vista disciplinar a utilização da forma da resolução do Conselho de Ministros ou do decreto aprovado também em Conselho de Ministros, ambos regulamentos que exigem para a sua aprovação o colectivo do Governo, por confronto com as restantes formas que podem revestir os actos regulamentares e administrativos do Governo (despachos normativos, portarias, despachos, despachos conjuntos, etc.).\n\nParalelamente, concebeu-se um modelo de repartição e desconcentração de competências, que torne mais eficaz o exercício das funções governativas, de âmbito essencialmente administrativo.\n\n3. Quanto ao primeiro aspecto - a clarificação da estrutura material e formal de certos actos regulamentares e administrativos -, importa ter presentes, no que aos regulamentos diz respeito, os preceitos constitucionais de referência e os princípios básicos que deles se extraem, a saber:\n\na) Princípios da preferência da lei e da complementaridade dos regulamentos (artigo 115.º, n.º 5, da Constituição);\n\nb) Princípio da precedência da lei (artigo 115.º, n.º 7, da Constituição).\n\nOra, neste campo, afiguram-se integralmente respeitadas as disposições constitucionais, na justa medida em que, tratando-se este diploma, como se trata, de um acto legislativo disciplinador da produção de normas regulamentares e o de actos administrativos, as matérias objecto dos respectivos instrumentos regulamentares e administrativos dimanam da função administrativa do Governo e têm, por força do própria decreto-lei aprovado, fundamento legal, quer quanto ao conteúdo, quer quanto à forma, quer quanto à entidade competente para as aprovar.\n\n4. Simultaneamente, e contribuindo para o saneamento do processo de decisão, consagram-se orientações que evitem a «subida» de determinadas matérias ao Conselho de Ministros, uma vez que podem, com melhores resultados em termos de eficácia, simplificação e desconcentração de competências, ser resolvidas pelos ministérios tutelares.\n\n5. Tem o Governo consciência de que a tarefa que agora começa se revela, em si mesma, árdua. Desde o 25 de Abril de 1974, nunca tal foi tentado, do que é testemunho bastante a degradada situação actual.\n\nPorém, dar este passo significa partilhar as regras básicas do processo de decisão que vêm sendo adoptadas, com sucesso, em países cujos ordenamentos jurídico-constitucionais quanto às funções governativas não se apartam significativamente do nosso e cujas orientações de técnica legislativa têm sido pautadas pela preocupação de «menos lei, mas melhor lei», como regra fundamental do ordenamento jurídico.\n\nNeste termos, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta:"
+  },
+  "45310775": {
+   "fragment_id": "35382075",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA concessão de pensões prevista nos artigos 27.º e 28.º do Decreto-Lei n.º 404/82, de 24 de Setembro, é efectuada por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças."
+  },
+  "45310875": {
+   "fragment_id": "35382175",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA concessão de pensões prevista no Decreto-Lei n.º 171/77, de 30 de Abril, é efectuada por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças."
+  },
+  "45310975": {
+   "fragment_id": "35382275",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA indemnização prevista no Decreto-Lei n.º 324/85, de 6 de Agosto, é fixada por despacho conjunto do Primeiro-Ministro, do Ministro das Finanças e do ministro proponente."
+  },
+  "45311075": {
+   "fragment_id": "35382375",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA constituição das servidões prevista no Decreto-Lei n.º 597/73, de 7 de Novembro, é efectuada por despacho conjunto do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações."
+  },
+  "45311175": {
+   "fragment_id": "35382475",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs concessões de prospecção, pesquisa, desenvolvimento e exploração de petróleo, bem como a transmissão e prorrogação, nomeadamente as previstas na Lei n.º 2080, de 21 de Março de 1956, no Decreto n.º 47973, de 30 de Setembro de 1967, no Decreto-Lei n.º 96/74, de 13 de Março, no Decreto-Lei n.º 543/74, de 16 de Outubro, no Decreto-Lei n.º 168/77, de 23 de Abril, e no Decreto-Lei n.º 174/85, de 21 de Maio, são efectuadas por despacho conjunto dos Ministros das Finanças e da Indústria e Comércio, os quais detêm competência administrativa sobre todo o processo."
+  },
+  "45311275": {
+   "fragment_id": "35382575",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nÉ aditado ao artigo 23.º do Decreto-Lei n.º 211/79, de 12 de Julho, o n.º 5, com a seguinte redacção:\n\nArtigo 23.º\n\n...\n\n5 - As competências atribuídas por disposições do presente decreto-lei ao Conselho de Ministros consideram-se delegadas no Primeiro-Ministro, que as poderá subdelegar, por acto expresso, no Ministro das Finanças."
+  },
+  "45311375": {
+   "fragment_id": "35382675",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA instituição de prémios escolares, ou prémios atribuídos por serviços públicos, é determinada por despacho dos membros do Governo que tenham sobre os serviços em causa poder hierárquico ou tutela."
+  },
+  "45311475": {
+   "fragment_id": "35382775",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - São alterados os artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, que passam a ter a seguinte redacção:\n\nArtigo 78.º\n\nIncompatibilidades\n\n1 - Os aposentados ou reservistas das Forças Armadas não podem exercer funções públicas ou a prestação de trabalho remunerado nas empresas públicas, excepto se se verificar algumas das seguintes circunstâncias:\n\na) Quando exerçam funções em regime de prestação de serviços nas condições previstas na alínea a) do n.º 2 do artigo 1.º;\n\nb) Quando haja lei que o permita;\n\nc) Quando, sob proposta do membro do Governo que tenha o poder hierárquico ou tutela sobre a entidade onde prestará o seu trabalho o aposentado ou reservista, o Primeiro-Ministro, por despacho, o autorize, constando do despacho o regime jurídico a que ficará sujeito e a remuneração atribuída.\n\nArtigo 79.º\n\nExercício de funções públicas por aposentados\n\nNos casos em que aos aposentados ou reservistas das Forças Armadas seja permitido, nos termos do artigo anterior, desempenhar funções públicas ou prestação de trabalho remunerado nas empresas públicas ou entidades equiparadas, é-lhes mantida a pensão de aposentação ou de reforma e abonada uma terça parte da remuneração que competir a essas funções, salvo se o Primeiro-Ministro, sob proposta do membro do Governo que tenha o poder hierárquico ou de tutela sobre a entidade onde prestará o seu trabalho o aposentado ou reservista, autorizar montante superior, até ao limite da mesma remuneração.\n\n2 - O artigo 79.º do Estatuto da Aposentação, na redaçcão que lhe é dada pelo presente decreto-lei, não se aplica aos reservistas das Forças Armadas, no caso da sua permanência ou convocação para regressarem à efectividade de serviço."
+  },
+  "45311575": {
+   "fragment_id": "35382875",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA criação de esquadras da Polícia de Segurança Pública é efectuada por portaria conjunta dos Ministros das Finanças e da Administração Interna, na qual será fixado o quadro de pessoal a acrescer ao já existente."
+  },
+  "45311675": {
+   "fragment_id": "35382975",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs membros do conselho directivo do Instituto de Seguros de Portugal, criado pelo Decreto-Lei n.º 302/82, de 30 de Julho, são nomeados por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças."
+  },
+  "45311775": {
+   "fragment_id": "35383075",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs membros do conselho directivo do Instituto do Investimento Estrangeiro, cujo estatuto foi aprovado pelo Decreto Regulamentar n.º 52/77, de 24 de Agosto, são nomeados por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças."
+  },
+  "45311875": {
+   "fragment_id": "35383175",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs membros das comissões de gestão a que alude o n.º 1 do artigo 3.º do Decreto-Lei n.º 572/76, de 20 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 240/77, de 8 de Junho, são nomeados por despacho conjunto do Primeiro-Ministro e do Ministro da Agricultura, Pescas e Alimentação.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 284/2007 - Diário da República n.º 158/2007, Série I de 2007-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-2007-636972) O disposto no Decreto-Lei n.º 284/2007, de 17 de agosto aplica-se imediatamente a todos os procedimentos de reconhecimento de fundações pendentes."
+  },
+  "45311975": {
+   "fragment_id": "35383275",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs actos de autorização, aprovação e homologação, relativos a actividade mineira, nomeadamente os previstos nos artigos 4.º, 20.º, 44.º, 49.º, 51.º, 58.º e 74.º do Decreto com força de lei n.º 18713, de 30 de Agosto de 1930, serão efectuados por despacho do Ministro da Indústria e Comércio."
+  },
+  "45312075": {
+   "fragment_id": "35383375",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs actos de autorização relativos à concessão e exploração de águas minerais e de mesa, nomeadamente os previstos nos artigos 16.º, 34.º, 35.º, 38.º, 39.º e 43.º do Decreto com força de lei n.º 15401, de 17 de Abril de 1928, serão efectuados por despacho do Ministro da Indústria e Comércio."
+  },
+  "45312175": {
+   "fragment_id": "35383475",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nÉ alterado o artigo 12.º, n.º 7, do Decreto-Lei n.º 41/84, de 3 de Fevereiro, que passa a ter a seguinte redacção:\n\nArtigo 12.º\n\n...\n\n7 - O regime previsto nos números anteriores não impede que, com carácter excepcional, demonstrada pelo ministério proponente a insuficiência ou imobilidade, possam ser descongeladas, no decurso de cada ano económico, admissões indispensáveis de pessoal não contempladas em despacho de descongelamento, mediante despacho conjunto do Primeiro-Ministro e do Ministro das Finanças."
+  },
+  "45312275": {
+   "fragment_id": "35383575",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA ratificação dos regulamentos de polícia a que se refere o § 7.º do artigo 408.º do Código Administrativo, na redacção que lhe foi dada pelo Decreto-Lei n.º 103/84, de 30 de Março, é efectuada por despacho do Ministro da Administração cuja competência poderá ser delegada."
+  },
+  "45312375": {
+   "fragment_id": "35383675",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nIndependentemente dos fins que prossigam, compete ao Ministro da Administração Interna, cuja competência pode ser delegada, o reconhecimento das fundações nos termos e para os efeitos dos artigos 158.º, n.º 2, e 188.º do Código Civil."
+  },
+  "45312475": {
+   "fragment_id": "35383775",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nA nomeação dos elementos do conselho distrital a que se refere a alínea c) do n.º 1 do artigo 88.º da Lei n.º 79/77, de 25 de Setembro, é efectuada por despacho conjunto dos Ministros da Administração Interna e do Plano e da Administração do Território."
+  },
+  "45312575": {
+   "fragment_id": "35383875",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO regime de transferência de verbas para as autarquias locais constantes do Decreto-Lei n.º 410-B/79, de 27 de Setembro, é aplicável a todas as eleições gerais, sendo os valores determinantes dos montantes das parcelas X, Y e Z a que se refere o seu artigo 1.º fixados por despacho conjunto dos Ministros das Finanças e da Administração Interna na 1.ª série do Diário da República, respeitando-se os critérios ali fixados."
+  }
+ }
+}

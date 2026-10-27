@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:836524294:por
+title: Portaria n.º 13/2024
+short_title: null
+summary: Louva e concede a Medalha da Defesa Nacional, 4.ª classe, à Sargento-Chefe Helena Sofia Ferreira da Silva
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Defesa Nacional - Gabinete da Ministra
+proposing_entity: null
+official_number: 13/2024
+official_date: null
+publication_date: '2024-01-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 8/2024, Série II de 2024-01-11
+  number: '8'
+  series: II
+  supplement: null
+  pages: 48 - 48
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/01/008000000/0004800048.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '836524294'
+  dre_path: /dr/detalhe/portaria/13-2024-836524294
+  internal: pt:dre:836524294:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/13-2024-836524294
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/13-2024-836524294
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8800f0a5476b08fcfc54df27a382bd24eb62b30f1b1bde701050c2a509ced03c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:52:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:404743:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:52:16Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 13/2024
+
+Louvo, por proposta do diretor-geral de Recursos da Defesa Nacional, a 111362-D, Sargento-Chefe, Secretariado e Apoio dos Serviços, Helena Sofia Ferreira da Silva, pela elevada competência técnico-profissional, extraordinárias e relevantes qualidades pessoais demonstradas, ao longo dos últimos 19 anos, nas funções que lhe foram confiadas na Direção-Geral de Recursos da Defesa Nacional.
+
+Possuidora de relevantes virtudes militares, que constituem garante da qualidade do seu extraordinário desempenho, a Sargento-Chefe Helena Silva tem-se afirmado como uma valiosa trabalhadora no âmbito da Profissionalização do Serviço Militar, designadamente nos processos relativos à área de pessoal e logística do Dia da Defesa Nacional, que devotadamente apoia, de forma metódica, sistemática, eficiente e inovadora, evidenciando espírito de sacrifício e uma inquestionável lealdade.
+
+Militar dinâmica e criativa na sua atividade, extremamente disciplinada e com espírito de obediência, exigente consigo própria e com os seus pares, a Sargento-Chefe Helena Silva soube, de igual modo, com capacidade de adaptação e invulgar abnegação, integrar-se com entusiasmo e proatividade na gestão de todos os processos relativos aos objetores de consciência, revelando um claro domínio técnico das matérias atinentes ao Dia da Defesa Nacional.
+
+Para além do seu extraordinário desempenho, a Sargento-Chefe Helena Silva soube promover excelentes relações humanas orientadas para a consecução dos objetivos e para a valorização de todos aqueles com quem trabalha, destacando-se, em todas as circunstâncias, pela afirmação constante de elevados dotes de caráter, razões pelas quais é merecedora de que os serviços por si prestados sejam considerados relevantes e de muito elevado mérito.
+
+Pelas razões expostas, manifesto o meu reconhecimento público pelas excecionais qualidades pessoais e profissionais evidenciadas no desempenho das suas funções pela Sargento-Chefe Helena Silva, que tem contribuído significativamente para a eficiência, prestígio e cumprimento da missão do Ministério da Defesa Nacional.
+
+Assim, nos termos da competência que me é conferida pelo n.º 3 do artigo 34.º, atento o disposto no artigo 25.º, na alínea a) do n.º 1 do artigo 26.º e no n.º 2 do artigo 27.º, todos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro, na sua atual redação, concedo a Medalha da Defesa Nacional, de 4.ª classe, à 111362-D, Sargento-Chefe, Secretariado e Apoio dos Serviços, Helena Sofia Ferreira da Silva.
+
+4 de dezembro de 2023. - A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras.
+
+317131251

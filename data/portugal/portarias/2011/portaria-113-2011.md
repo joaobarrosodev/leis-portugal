@@ -1,0 +1,461 @@
+---
+schema_version: '1.0'
+id: pt:dre:278772:por
+title: Portaria n.º 113/2011
+short_title: null
+summary: Aprova o Regulamento do Fundo Florestal Permanente
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 113/2011
+official_date: null
+publication_date: '2011-03-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 58/2011, Série I de 2011-03-23
+  number: '58'
+  series: I
+  supplement: null
+  pages: 1612 - 1616
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05800/0161201616.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/113/2011/03/23/p/dre/pt/html
+  oj: null
+  dre: '278772'
+  dre_path: /dr/detalhe/portaria/113-2011-278772
+  internal: pt:dre:278772:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-2011-278772
+  metadata_url: https://data.dre.pt/eli/port/113/2011/03/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-2011-278772
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 420de98a4acfe40f614defd2eb411a72a10735b090544bd294deb12ac15fd460
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade Florestal Nacional
+- Definição de Competências
+- Financiamento
+- Fundo Florestal Permanente
+- Garantia
+- IFAP
+- Pagamento
+- Proteção da Floresta
+- Regulamento
+- Relatório de Actividade
+- Relatório e Contas
+- Subsídio
+- Subsídio não Reembolsável
+- Unidade de Gestão
+relationships:
+- type: amended_by
+  target: pt:dre:66761451:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Determinada a reestruturação do Fundo Florestal Permanente, cujo regulamento consta deste diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012, nos termos do disposto no nº 4 do aseu art. 34º, passando a funcionar junto do Instituto da\
+    \ Conservação da Natureza e das Florestas, I.P.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:500217:por
+  label: "Alterados os arts 3.º, 4.º, 5.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º,\
+    \ 21.º, 22.º, 23.º, 24.º, 25.º e 26.º (este último na redação do Dec Lei 16/2013, de 28-jan), a organização sistemática\
+    \ da sec. II do cap. III, que passa a ser composta pelos arts 18.º a 20.º-A, aditados os arts 3.º-A e 20.º-A, bem como\
+    \ revogado o art. 6.º, o n.º 2 do art. 16.º, o n.º 3 do art. 24.º e a al. c) do n.º 1 do art. 26.º do Regulamento do Fundo\
+    \ Florestal Permanente, aprovado pelo presente diploma e republicado, pela PORT.296/2013.02.10.2013.MAGM, DR.IS [190]\
+    \ de 02.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-2013-500217
+  date: '2013-10-02'
+- type: cites
+  target: pt:dre:539852:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
+- type: cites
+  target: pt:dre:541375:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/63/2004/03/22/p/dre
+- type: repealed_by
+  target: pt:dre:257010:por
+  label: "Revogada a al. b) do nº 1 do art. 26º do Regulamento do Fundo Florestal Permanente, pelo DEC LEI.16/2013.28.01.2013.MAMAOT,\
+    \ DR.IS [19] de 28.01.2013, na parte em que contrarie o que ele dispõe.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2013-257010
+  date: '2013-01-28'
+- type: repealed_by
+  target: pt:dre:66761451:por
+  label: Revogada, sem prejuízo do disposto no art. 2º, a presente Portaria, na redação do Dec Lei 16/2013, de 28-jan, e na
+    redação e republicação da Port 296/2013, de 02-out, pelo(a) Portaria n.º 77/2015 - Diário da República n.º 52/2015, Série
+    I de 2015-03-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/77-2015-66761451
+  date: '2015-03-16'
+article_structure:
+  article_count: 29
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:50:45Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 113/2011
+
+de 23 de Março
+
+O actual Regulamento de Administração e Gestão do Fundo Florestal Permanente (FFP) foi aprovado pela Portaria n.º 287/2010, de 27 de Maio, tendo como objectivo, entre outros, criar um enquadramento mais preciso das responsabilidades de administração e gestão por parte do IFAP, I. P., e, ao mesmo tempo, assegurar uma participação mais activa da Autoridade Florestal Nacional (AFN) enquanto entidade executora da política florestal definida na Estratégia Nacional para as Florestas, aprovada pela [Resolução do Conselho de Ministros n.º 114/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/114-2006-539852), de 15 de Setembro.
+
+A experiência recolhida com o funcionamento do actual regulamento permitiu concluir que é possível aumentar a eficácia e a eficiência do funcionamento do FFP através de alguns ajustamentos ao Regulamento, mantendo-se, no entanto, os princípios que orientaram a sua aprovação.
+
+O Regulamento agora aprovado mantém as grandes linhas orientadoras do regulamento anterior, designadamente as relacionadas com a existência de um plano de actividades enquanto instrumento de planeamento e afectação de recursos, identificando, designadamente, os eixos de intervenção a financiar e as respectivas prioridades, a tipologia dos apoios a conceder e os recursos públicos a afectar.
+
+Assim, as alterações introduzidas com o novo regulamento agora aprovado têm como objectivo o aumento da eficácia do funcionamento do FFP através da obtenção de resultados mais efectivos em matéria de financiamento da política florestal. O alargamento até três anos do prazo de vigência dos contratos a celebrar com o FFP irá contribuir para garantir uma maior eficiência da utilização dos recursos financeiros, nomeadamente ao nível da investigação aplicada.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado das Florestas e Desenvolvimento Rural, no uso das competências delegadas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas através do despacho n.º 78/2010, de 5 de Janeiro, e ao abrigo do n.º 1 do artigo 3.º do [Decreto-Lei n.º 63/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2004-541375), de 22 de Março, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É aprovado o Regulamento do Fundo Florestal Permanente, em anexo à presente portaria, da qual faz parte integrante.
+
+###### Artigo 2.º — Norma revogatória
+
+É revogada a Portaria n.º 287/2010, de 27 de Maio, que aprovou o Regulamento de Administração e Gestão do Fundo Florestal Permanente, sem prejuízo da sua aplicação às candidaturas e aos protocolos celebrados até à data de entrada em vigor da presente portaria, com excepção do artigo 10.º daquele Regulamento.
+
+###### Artigo 3.º — Entrada em vigor e produção de efeitos
+
+1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+2 - Os artigos 22.º e 23.º, do Regulamento do Fundo Florestal Permanente, anexo à presente portaria, aplicam-se às candidaturas e aos protocolos celebrados até à data de entrada em vigor da presente portaria.
+
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 17 de Março de 2011.
+
+## ANEXO — REGULAMENTO DO FUNDO FLORESTAL PERMANENTE
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento estabelece o regime de administração do Fundo Florestal Permanente (FFP), doravante designado por Fundo, bem como o regime dos apoios a atribuir pelo mesmo.
+
+###### Artigo 2.º — Objectivos do Fundo
+
+1 - Os apoios financeiros a conceder pelo Fundo devem contribuir de forma adequada para a prossecução dos objectivos definidos no artigo 2.º do [Decreto-Lei n.º 63/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2004-541375), de 22 de Março.
+
+2 - Todas as acções apoiadas pelo Fundo devem cumprir obrigatoriamente os objectivos da Estratégia Nacional para as Florestas (ENF), aprovada pela [Resolução do Conselho de Ministros n.º 114/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/114-2006-539852), de 15 de Setembro.
+
+###### Artigo 3.º — Eixos de intervenção
+
+Os apoios financeiros a conceder pelo Fundo devem ser enquadrados nas áreas previstas no n.º 4 do artigo 3.º do [Decreto-Lei n.º 63/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2004-541375), de 22 de Março, através dos seguintes eixos de intervenção:
+
+a) Sensibilização e informação;
+
+b) Prevenção e protecção da floresta;
+
+c) Planeamento, gestão e intervenção florestal;
+
+d) Sustentabilidade da floresta;
+
+e) Investigação, experimentação e estudos.
+
+###### Artigo 4.º — Princípios gerais
+
+1 - O Fundo rege-se pelo princípio da igualdade nas suas relações com os beneficiários.
+
+2 - Os apoios atribuídos pelo Fundo devem cingir-se à imprescindibilidade na prossecução do interesse público, devendo ser apenas afectos os meios suficientes para o fim a atingir.
+
+3 - Não são concedidos apoios pelo Fundo a actividades que sejam objecto de apoio por parte de outros instrumentos financeiros, de âmbito nacional ou comunitário.
+
+4 - As operações do Fundo são contabilizadas autonomamente, de modo a permitir uma clara diferenciação entre estas e a restante contabilidade do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.).
+
+5 - Os documentos de contabilidade que suportam as contas do Fundo são mantidos em separado, de modo a poder fornecer às entidades competentes as informações obrigatórias e que sejam solicitadas.
+
+### CAPÍTULO II — Funcionamento
+
+#### SECÇÃO I — Administração
+
+###### Artigo 5.º — Competências do IFAP, I. P.
+
+Compete ao IFAP, I. P., a prática dos seguintes actos de administração e gestão do Fundo:
+
+a) Elaborar o plano anual de actividades, em colaboração com a Autoridade Florestal Nacional (AFN) e remetê-lo para aprovação pelo membro do Governo responsável pela área das florestas;
+
+b) Aprovar as normas técnicas dos apoios, sob proposta da AFN e mediante parecer prévio da unidade de gestão, prevista no artigo 7.º do presente Regulamento;
+
+c) Aprovar os apoios a conceder, mediante prévia cabimentação orçamental, por proposta da unidade de gestão e remeter para homologação do membro do Governo responsável pela área das florestas;
+
+d) Elaborar o relatório de actividades e contas, com a colaboração da AFN, e remete-lo para aprovação pelo membro do Governo responsável pela área das florestas;
+
+e) Decidir a aprovação das candidaturas após a emissão do parecer técnico pela AFN e da apreciação favorável da unidade de gestão;
+
+f) Aprovar o formulário de candidatura, o modelo do contrato de atribuição dos apoios e o modelo de plano de execução material e financeira;
+
+g) Celebrar, conjuntamente com a AFN e o beneficiário, o respectivo contrato de atribuição do apoio;
+
+h) Proceder ao pagamento dos apoios mediante a apresentação dos pedidos de pagamento, previamente validados pela AFN, nos termos previstos no n.º 1 do artigo 22.º do presente Regulamento.
+
+###### Artigo 6.º — Competências da AFN
+
+Compete à AFN a prática dos seguintes actos:
+
+a) Colaborar com o IFAP, I. P., na elaboração do plano anual de actividades e do relatório de actividades e contas;
+
+b) Elaborar e propor ao IFAP, I. P., para aprovação, as normas técnicas dos apoios;
+
+c) Recepcionar as candidaturas, proceder à análise técnica das mesmas e submetê-las à unidade de gestão para apreciação;
+
+d) Celebrar, conjuntamente com o IFAP, I. P. e o beneficiário, o respectivo contrato de atribuição do apoio;
+
+e) Realizar o controlo de 1.º nível nos termos do n.º 2 do artigo 24.º
+
+###### Artigo 7.º — Unidade de gestão
+
+1 - A unidade de gestão é constituída pelos seguintes elementos:
+
+a) Um membro do conselho directivo do IFAP, I. P., que preside;
+
+b) O presidente da AFN ou em quem este delegar;
+
+c) Um elemento designado pelo membro do Governo responsável pela área das florestas.
+
+2 - A unidade de gestão é secretariada pelo responsável da unidade do IFAP, I. P., que acompanha os assuntos do Fundo.
+
+###### Artigo 8.º — Competências da unidade de gestão
+
+Compete à unidade de gestão:
+
+a) Aprovar e divulgar o seu regulamento interno;
+
+b) Emitir parecer sobre as normas técnicas dos apoios, elaboradas pela AFN e a aprovar pelo IFAP, I. P.;
+
+c) Apreciar as candidaturas apresentadas junto da AFN, após a análise técnica das mesmas por esta Autoridade, propor a sua hierarquização em função do seu mérito para a execução da política florestal e submetê-las ao IFAP, I. P., para decisão;
+
+d) Proceder à análise técnica das candidaturas apresentadas pela AFN e submetê-las ao IFAP, I. P., para decisão;
+
+e) Recolher a informação prévia sobre o cabimento das despesas relativas aos pedidos de apoio.
+
+###### Artigo 9.º — Encargos
+
+Constituem encargos do Fundo financiamento dos apoios, nos termos estabelecidos no presente Regulamento, bem como outros encargos legalmente previstos.
+
+#### SECÇÃO II — Instrumentos de gestão
+
+###### Artigo 10.º — Plano anual de actividades
+
+O plano anual de actividades é o instrumento de planeamento de afectação dos recursos do Fundo às diferentes áreas e estabelece, nomeadamente, os eixos de intervenção a financiar por ordem de prioridade, a tipologia dos apoios a conceder, os montantes financeiros a afectar e a execução dos compromissos assumidos em anos anteriores.
+
+###### Artigo 11.º — Elaboração e aprovação do plano de actividades
+
+1 - O plano anual de actividades é elaborado pelo IFAP, I. P., em colaboração com a AFN, e remetido para aprovação pelo membro do Governo responsável pela área das florestas, até ao final do ano civil anterior ao que diz respeito.
+
+2 - Após a sua aprovação, o plano anual de actividades é divulgado na página da Internet do IFAP, I. P.
+
+###### Artigo 12.º — Relatório de actividades e contas
+
+1 - O relatório de actividades e contas é o instrumento que reporta a actividade realizada pelo Fundo no ano a que respeita e deve permitir a avaliação da eficácia e da eficiência da actividade desenvolvida.
+
+2 - O relatório de actividades e contas deve conter, nomeadamente, uma descrição financeira dos apoios atribuídos, bem como a apreciação da actividade do Fundo comparativamente com o previsto no plano anual de actividades do ano em questão.
+
+3 - O relatório de actividades e contas deve ainda incluir as contas do Fundo, nomeadamente o mapa de fluxos de caixa, o balanço e a demonstração de resultados.
+
+4 - As contas a que se refere o número anterior são publicadas em anexo às contas do IFAP, I. P., de modo a assegurar o princípio geral enunciado no n.º 4 do artigo 4.º do presente Regulamento.
+
+###### Artigo 13.º — Elaboração e aprovação do relatório de actividades e contas
+
+1 - O relatório de actividades e contas é elaborado pelo IFAP, I. P., em articulação com a AFN, e remetido para aprovação pelo membro do Governo responsável pela área das florestas até ao final do 1.º trimestre do ano civil seguinte.
+
+2 - Após a sua aprovação, o relatório de actividades e contas é divulgado na página da Internet do IFAP, I. P.
+
+### CAPÍTULO III — Regime dos apoios
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 14.º — Apoios
+
+1 - Os apoios financeiros a conceder pelo Fundo podem revestir a forma de subsídios reembolsáveis ou não reembolsáveis, em função dos critérios definidos no plano anual de actividades, e devem ter enquadramento nas áreas a que se refere o n.º 4 do artigo 3.º do [Decreto-Lei n.º 63/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2004-541375), de 22 de Março.
+
+2 - Os apoios financeiros não podem ultrapassar a percentagem que vier a ser definida no plano de actividades.
+
+3 - Os apoios financeiros são atribuídos através de contrato celebrado entre o IFAP, I. P., a AFN e o beneficiário, na sequência da aprovação de uma candidatura.
+
+4 - Por despacho do membro do Governo responsável pela área das florestas e mediante proposta fundamentada da AFN, podem excepcionalmente ser concedidos apoios financeiros do Fundo para investimento nas áreas previstas no n.º 4 do artigo 3.º do [Decreto-Lei n.º 63/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2004-541375), de 22 de Março.
+
+5 - A atribuição de apoios financeiros previsto no número anterior não pode exceder 10 % do orçamento aprovado para o respectivo exercício e fica sujeito às mesmas regras previstas para os apoios atribuídos por contrato, designadamente a celebração de contrato com a entidade beneficiária.
+
+###### Artigo 15.º — Duração dos apoios
+
+1 - Os apoios são concedidos pelo período máximo de três anos, por candidatura apresentada.
+
+2 - Sem prejuízo do disposto no número anterior, podem ser apresentadas candidaturas constituídas por mais do que uma fase de execução, sendo que a cada uma dessas fases deve corresponder um período máximo de execução de três anos.
+
+3 - Excepcionalmente, poderá ser concedida, mediante parecer favorável da AFN, uma prorrogação pelo período de seis meses.
+
+4 - O pedido de prorrogação, devidamente fundamentado, é entregue na AFN e segue o procedimento estabelecido para a aprovação das candidaturas.
+
+###### Artigo 16.º — Beneficiários
+
+1 - Podem ser beneficiários dos apoios concedidos pelo Fundo quaisquer pessoas singulares ou colectivas, de direito privado ou público.
+
+2 - Sem prejuízo do disposto no artigo 6.º, a AFN pode também apresentar pedidos de apoio ao Fundo.
+
+###### Artigo 17.º — Obrigações dos beneficiários
+
+Os beneficiários dos apoios comprometem-se, nomeadamente, a:
+
+a) Garantir a veracidade de todas as informações enviadas com a candidatura, bem como dos documentos anexos;
+
+b) Prestar todas as informações solicitadas pelo Fundo;
+
+c) Apresentar e respeitar o plano de execução da candidatura anexo ao contrato celebrado, do qual faz parte integrante, cujo modelo é aprovado pelo IFAP, I. P.;
+
+d) Manter uma conta específica para recepção dos apoios e pagamento das despesas relacionadas com a execução da candidatura;
+
+e) Conservar e manter à disposição do IFAP, I. P., e da AFN toda a documentação relativa às actividades desenvolvidas e respectivas despesas efectuadas, responsabilizando-se pelo adequado registo contabilístico e manutenção em arquivo dos originais ou cópias autenticadas, dos correspondentes documentos de suporte que digam respeito ao pagamento do apoio concedido, por um período de 10 anos, após o pagamento final;
+
+f) Sujeitar-se a quaisquer acções de controlo, quer físico, quer contabilístico, tendo em vista observar a regularidade da aplicação dos financiamentos concedidos;
+
+g) Cumprir as demais obrigações previstas no presente Regulamento e no contrato celebrado;
+
+h) Sem prejuízo do que vier a ser definido nas respectivas normas técnicas, entregar juntamente com o último pedido de pagamento um relatório final de execução, material e financeira, que justifique os montantes gastos e as acções realizadas.
+
+#### SECÇÃO II — Pedidos de apoio
+
+###### Artigo 18.º — Apresentação de candidaturas
+
+1 - Os pedidos de apoio do Fundo são apresentados através de uma candidatura formalizada junto da AFN, mediante o preenchimento de formulário próprio a aprovar pelo IFAP, I. P., em colaboração com a AFN.
+
+2 - Os pedidos de apoios são apresentados anualmente nos seguintes períodos:
+
+a) De 1 de Janeiro a 31 de Março;
+
+b) De 1 de Julho a 30 de Setembro.
+
+3 - Os prazos a que se refere o número anterior podem ser alterados por despacho do membro do Governo responsável pela área das florestas.
+
+###### Artigo 19.º — Análise das candidaturas
+
+1 - As candidaturas recepcionadas pela AFN são analisadas tecnicamente por esta Autoridade e remetidas à unidade de gestão para emissão de parecer e proposta de hierarquização, em função do seu mérito para a execução da política florestal e submetê-las ao IFAP, I. P., para decisão.
+
+2 - As candidaturas apresentadas pela AFN são analisadas tecnicamente pela Unidade de Gestão, seguindo-se os demais procedimentos previstos no número anterior para as restantes candidaturas.
+
+###### Artigo 20.º — Contrato
+
+1 - A atribuição do apoio é formalizada através de contrato escrito a celebrar entre o IFAP, I. P., a AFN e o beneficiário, cujo modelo é aprovado por aquele Instituto.
+
+2 - O contrato deve conter cláusulas que indiquem, nomeadamente, o montante do apoio a conceder, bem como o acompanhamento, o controlo e a verificação do cumprimento dos objectivos previstos.
+
+3 - O contrato deve ainda ter anexo, como parte integrante, um plano relativo à sua execução material e financeira, cujo modelo é aprovado pelo IFAP, I. P.
+
+#### SECÇÃO III — Financiamento
+
+###### Artigo 21.º — Elegibilidade das despesas
+
+1 - São elegíveis as despesas que, cumulativamente, reúnam os seguintes requisitos:
+
+a) Sejam enquadráveis nas áreas a que se refere o n.º 4 do artigo 3.º do [Decreto-Lei n.º 63/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2004-541375), de 22 de Março;
+
+b) Não sejam objecto de financiamento por parte de outro fundo ou instrumento financeiro, nacional, comunitário ou internacional;
+
+c) Estejam tipificadas nas normas técnicas aprovadas nos termos da alínea b) do artigo 5.º do presente Regulamento.
+
+2 - Sem prejuízo do disposto no número anterior, são ainda elegíveis as seguintes despesas:
+
+a) As despesas de funcionamento;
+
+b) As despesas relativas aos encargos decorrentes da constituição de garantias bancárias exigidas para efeitos de adiantamento dos apoios aprovados.
+
+###### Artigo 22.º — Pagamento
+
+1 - O pedido de pagamento acompanhado dos originais das facturas, ou documentos equivalentes, e respectiva quitação, bem como o recapitulativo das despesas, referenciando os correspondentes comprovativos, é entregue pelo beneficiário à AFN que, após proceder ao controlo estipulado nos n.os 2 e 3 do artigo 24.º do presente Regulamente, o remete ao IFAP, I. P., para validação e pagamento.
+
+2 - O pagamento dos apoios financeiros do Fundo é efectuado pelo IFAP, I. P., por transferência para o número de identificação bancária do beneficiário indicado no contrato.
+
+3 - O pagamento dos apoios financeiros deve ocorrer até 30 dias após a validação dos pedidos de pagamento pelo IFAP, I. P., e sempre mediante disponibilidade orçamental e financeira do Fundo.
+
+4 - Os pagamentos ficam, nos termos legais, condicionados à comprovação da regularidade da situação contributiva do beneficiário perante a segurança social e a administração fiscal.
+
+5 - O pagamento final de cada apoio fica condicionado à apresentação do relatório final de execução aprovado pela AFN.
+
+6 - O modelo de formulário de pedido de pagamento e de documento recapitulativo das despesas e respectiva quitação consta das normas técnicas a elaborar pela AFN.
+
+###### Artigo 23.º — Adiantamentos
+
+1 - Podem ser concedidos adiantamentos até 50 % do montante do apoio a conceder, sempre que previsto nas normas técnicas.
+
+2 - No caso de o beneficiário ser uma entidade privada, os pedidos de adiantamento só podem ser concedidos mediante a apresentação de uma garantia bancária no valor de 110 % do valor do adiantamento.
+
+3 - No caso de o beneficiário ser uma entidade pública, a garantia bancária a que se refere o número anterior é substituída por uma declaração emitida pelo respectivo órgão competente, reconhecendo o montante em dívida e da qual conste o compromisso de liquidação à primeira solicitação pelo IFAP, I. P.
+
+4 - Excepcionalmente, por manifesto interesse público, pode ser dispensada a garantia bancária a que se refere o n.º 2 do presente artigo, por despacho do membro do Governo responsável pela área das florestas devidamente fundamentado e mediante parecer prévio favorável da AFN.
+
+5 - Sem prejuízo de outras consequências ao caso aplicáveis, o beneficiário está obrigado a restituir ao IFAP, I. P., as verbas que lhes foram adiantadas e não justificadas.
+
+6 - Só podem ser concedidos novos adiantamentos se pelo menos 80 % do adiantamento anterior se encontrar justificado e validado pelo IFAP, I. P.
+
+###### Artigo 24.º — Controlos
+
+1 - As acções de controlo visam assegurar o cumprimento integral do estabelecido nos contratos, nomeadamente que as despesas declaradas pelos beneficiários dos apoios foram efectuadas.
+
+2 - A primeira fase de controlo, a realizar pela AFN, exerce-se com a apresentação do pedido de pagamento e consiste na verificação da adequabilidade da despesa apresentada pelos beneficiários face aos objectivos contratualizados.
+
+3 - Os originais das facturas, ou documento equivalente, e respectiva quitação, relativos a despesas elegíveis, enviadas pela AFN, são carimbados pelo IFAP, I. P., com a indicação «Financiado pelo Fundo Florestal Permanente».
+
+4 - A segunda fase de controlo, a realizar pelo departamento responsável pelo controlo do IFAP, I. P., consiste na verificação física da execução das candidaturas e realização da respectiva despesa.
+
+### CAPÍTULO IV — Disposições finais
+
+###### Artigo 25.º — Informação e publicidade
+
+Em todas as acções financiadas pelo Fundo, os beneficiários devem utilizar o logótipo do Ministério da Agricultura, Desenvolvimento Rural e das Pescas, bem como a menção «Financiado pelo Fundo Florestal Permanente», em condições que permitam uma identificação visual inequívoca.
+
+###### Artigo 26.º — Incumprimento e recuperação de verbas
+
+1 - O incumprimento das obrigações assumidas pelo beneficiário implica:
+
+a) A resolução imediata do contrato celebrado;
+
+b) A reposição do montante global do apoio recebido, acrescido de juros, à taxa legal em vigor, contados da data em que tais importâncias foram colocadas à sua disposição até ao efectivo e integral pagamento;
+
+c) A impossibilidade de o beneficiário se candidatar a novos apoios concedidos pelo Fundo;
+
+d) A perda de qualquer direito sobre os trabalhos executados, que devem prosseguir sob a responsabilidade de outra entidade para o efeito designada pela AFN.
+
+2 - Para efeitos do disposto na alínea b) do número anterior, o IFAP, I. P., promove a notificação do beneficiário para reposição dos valores recebidos no prazo máximo de 30 dias a contar da data em que for notificado ou coercivamente, caso decorrido aquele prazo se mantenha o incumprimento.

@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114582931:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2018-114582960",
+ "dre_path": "/dr/detalhe/lei/2-2018-114582931",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-01-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114582851",
+    "114582852",
+    "114582853",
+    "114582854",
+    "114582855"
+   ]
+  },
+  {
+   "date": "2020-08-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140431167:por",
+     "title": "Lei n.º 41/2020",
+     "published": "2020-08-18",
+     "dre_path": "/dr/detalhe/lei/41-2020-140431167"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "114582851",
+    "114582852",
+    "114582853",
+    "140626987",
+    "114582855",
+    "114582856"
+   ]
+  }
+ ],
+ "fragments": {
+  "114582851": {
+   "fragment_id": "114582961",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 2/2018\n\nde 29 de janeiro\n\nPrimeira alteração à Lei de Enquadramento Orçamental, aprovada em anexo à Lei n.º 151/2015, de 11 de setembro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "114582852": {
+   "fragment_id": "114582962",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à primeira alteração à Lei de Enquadramento Orçamental, aprovada em anexo à Lei n.º 151/2015, de 11 de setembro, atribuindo ao Governo o dever de informar a Assembleia da República sobre o volume e a evolução das cativações nos orçamentos das entidades que integram a administração direta e indireta do Estado."
+  },
+  "114582853": {
+   "fragment_id": "114582963",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei de Enquadramento Orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei de Enquadramento Orçamental\n\nOs artigos 37.º e 75.º da Lei de Enquadramento Orçamental, aprovada em anexo à Lei n.º 151/2015, de 11 de setembro, passam a ter a seguinte redação:\n\n«Artigo 37.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nk) Montantes das verbas sujeitas a cativação em cada programa orçamental, por classificação orgânica e funcional, discriminada por serviços integrados e serviços e fundos autónomos.\n\nArtigo 75.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) O volume e a evolução das cativações nos orçamentos das entidades que integram a administração direta e indireta do Estado, desagregados por ministério, por programa e por medida;\n\ne) [Anterior alínea d).]\n\nf) [Anterior alínea e).]\n\ng) [Anterior alínea f).]\n\nh) [Anterior alínea g).]\n\ni) [Anterior alínea h).]\n\n2 - Os elementos informativos a que se referem as alíneas a), b) e d) do número anterior são disponibilizados pelo Governo à Assembleia da República mensalmente, e os elementos referidos nas restantes alíneas do mesmo número são disponibilizados trimestralmente, devendo, em qualquer caso, o respetivo envio efetuar-se nos 60 dias seguintes ao período a que respeitam.\n\n3 - ...\n\n4 - ...\n\n5 - ...»"
+  },
+  "114582854": {
+   "fragment_id": "114582964",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\nA partir de maio de 2018 e até à produção de efeitos dos artigos 3.º e 20.º a 76.º da Lei de Enquadramento Orçamental, aprovada em anexo à Lei n.º 151/2015, de 11 de setembro, o Governo envia à Assembleia da República, trimestralmente, informação detalhada da utilização de cativações nos orçamentos das entidades que integram a administração direta e indireta do Estado, desagregados por ministério, por programa e por medida."
+  },
+  "114582855": {
+   "fragment_id": "114582965",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "140626987": {
+   "fragment_id": "114582964",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": "2020-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 41/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), em vigor a partir de 2020-08-23"
+   ],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\nA partir de maio de 2018 e até à produção de efeitos dos artigos 3.º e 20.º a 76.º da Lei de Enquadramento Orçamental, aprovada em anexo à Lei n.º 151/2015, de 11 de setembro, o Governo envia à Assembleia da República, trimestralmente, informação detalhada da utilização de cativações nos orçamentos das entidades que integram a administração direta e indireta do Estado, desagregados por ministério, por programa e por medida.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 41/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), em vigor a partir de 2020-08-23"
+  },
+  "114582856": {
+   "fragment_id": "114582966",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 21 de dezembro de 2017.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 18 de janeiro de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 23 de janeiro de 2018.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n111088596"
+  }
+ }
+}

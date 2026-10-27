@@ -1,0 +1,364 @@
+---
+schema_version: '1.0'
+id: pt:dre:288381:por
+title: Resolução do Conselho de Ministros n.º 86/2002
+short_title: null
+summary: Ratifica parcialmente o Plano de Pormenor da Zona Industrial de Tortosendo, no município da Covilhã
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 86/2002
+official_date: null
+publication_date: '2002-04-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 92/2002, Série I-B de 2002-04-19
+  number: '92'
+  series: I
+  supplement: null
+  pages: 3874 - 3877
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/04/092b00/38743877.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/86/2002/04/19/p/dre/pt/html
+  oj: null
+  dre: '288381'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/86-2002-288381
+  internal: pt:dre:288381:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2002-288381
+  metadata_url: https://data.dre.pt/eli/resolconsmin/86/2002/04/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/86-2002-288381
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:46:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3d901a2f179cecd7a14194e6256a070a118d43b883e04f7ac8b6509718fcd7f2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:46:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Covilhã
+- Plano de Pormenor
+- Zona Industrial
+relationships:
+- type: amended_by
+  target: pt:dre:75045482:por
+  label: Tornada pública a revogação do Plano de Pormenor da Zona Industrial do Tortosendo pelo(a) Aviso n.º 9341/2016 - Diário
+    da República n.º 143/2016, Série II de 2016-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9341-2016-75045482
+  date: '2016-07-27'
+- type: cites
+  target: pt:dre:188357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/282/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:365343:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/152/1997/06/19/p/dre
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/236/1998/08/01/p/dre
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:485448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634909:por
+  label: null
+  source: http://data.dre.pt/eli/port/286/1993/03/12/p/dre
+- type: cites
+  target: pt:dre:667567:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/124/1999/10/23/p/dre
+- type: cites
+  target: pt:dre:977507251:por
+  label: null
+  source: http://data.dre.pt/eli
+article_structure:
+  article_count: 37
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:46:56Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 86/2002
+
+A Assembleia Municipal da Covilhã aprovou, em 30 de Junho de 2000, o Plano de Pormenor da Zona Industrial de Tortosendo, no município da Covilhã.
+
+Foram cumpridas todas as formalidades legais, designadamente quanto ao inquérito público.
+
+Verifica-se a conformidade formal do Plano de Pormenor da Zona Industrial de Tortosendo com as disposições legais e regulamentares em vigor, com excepção do disposto nos artigos 16.º, 17.º, 21.º, 22.º e 23.º do Regulamento, por se tratar de matéria que não se enquadra no conteúdo material do Plano de Pormenor, de acordo com o disposto no artigo 91.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.
+
+Para a área de intervenção do Plano de Pormenor encontra-se em vigor o Plano Director Municipal da Covilhã, ratificado pela [Resolução do Conselho de Ministros n.º 124/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/124-1999-667567), publicada no Diário da República, 1.ª série-B, n.º 248, de 23 de Outubro de 1999.
+
+O Plano de Pormenor altera o Plano Director Municipal da Covilhã na medida em que prevê alterações ao respectivo zonamento, pelo que está sujeito a ratificação pelo Conselho de Ministros.
+
+Foi emitido parecer favorável pela Direcção Regional de Ambiente e do Ordenamento do Território - Centro.
+
+Considerando o disposto na alínea e) do n.º 3 e no n.º 8 do artigo 80.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro:
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Ratificar parcialmente o Plano de Pormenor da Zona Industrial de Tortosendo, no município da Covilhã, cujo Regulamento, planta de implantação e planta de condicionantes se publicam em anexo à presente resolução, dela fazendo parte integrante.
+
+2 - Excluir da ratificação os artigos 16.º, 17.º, 21.º, 22.º e 23.º do Regulamento.
+
+3 - Fica alterada a planta de ordenamento do Plano Director Municipal da Covilhã, no que diz respeito ao zonamento, na área de intervenção do Plano de Pormenor.
+
+Presidência do Conselho de Ministros, 28 de Março de 2002. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+REGULAMENTO DO PLANO DE PORMENOR DA ZONA INDUSTRIAL DE TORTOSENDO
+
+### CAPÍTULO I — Generalidades
+
+###### Artigo 1.º
+
+As disposições deste Regulamento aplicam-se a toda a área abrangida pelo Plano de Pormenor da Zona Industrial de Tortosendo, que tem por objectivo estabelecer as regras e orientações a que deverá obedecer a ocupação e uso do solo, cujos limites da área de intervenção estão devidamente assinalados na planta de síntese.
+
+###### Artigo 2.º
+
+Em toda a área do Plano só poderão ser abertos novos arruamentos ou consolidados os existentes de acordo com o presente Plano de Pormenor, não podendo utilizar-se para outros fins os espaços destinados a estacionamento público.
+
+###### Artigo 3.º
+
+As empresas ficam sujeitas às regras disciplinadoras do exercício da actividade industrial, conforme estipula o [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, com a redacção dada pelo [Decreto-Lei n.º 282/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987) e pelo [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), ambos de 17 de Agosto.
+
+###### Artigo 4.º
+
+A execução dos edifícios assim como de quaisquer obras de construção, ampliação ou demolição deverão respeitar os regulamentos gerais e específicos da construção, bem como os parâmetros definidos neste Regulamento.
+
+###### Artigo 5.º
+
+1 - Todas as parcelas se destinam à instalação de indústrias, nos termos do artigo 3.º deste Regulamento, exceptuando as situações referidas na planta de síntese e respectivo quadro.
+
+2 - A habitação é interdita, mesmo quando integrada em dependências ou edifícios, na unidade fabril.
+
+###### Artigo 6.º
+
+A implantação dos edifícios deverá ser feita de modo a satisfazer as prescrições regulamentares aplicáveis, nomeadamente o definido na planta de síntese.
+
+### CAPÍTULO II — Sistemas antipoluição
+
+###### Artigo 7.º
+
+Os estabelecimentos industriais devem ser providos de sistemas antipoluentes, quando exigíveis pela lei, por forma a evitar que os efluentes líquidos indevidamente tratados, poeiras leves, gases ou fumos tóxicos, ruídos em excesso ou odores demasiadamente incómodos sejam lançados na atmosfera, no solo ou nas linhas de água e para a rede de drenagem de águas residuais e rede de drenagem de águas pluviais.
+
+###### Artigo 8.º
+
+A instalação de sistemas despoluidores bem como o seu controlo serão feitos nos termos da legislação aplicável para efluentes gasosos, líquidos ou resíduos sólidos, devendo a caracterização e quantificação dos mesmos ser realizada de acordo com as exigências legalmente estabelecidas.
+
+###### Artigo 9.º
+
+1 - As empresas obrigam-se a realizar o pré-tratamento das águas residuais de modo que as características do efluente lançado na rede pública sejam compatíveis com o sistema geral e obedeçam aos parâmetros definidos pelos Decretos-Leis n.os [236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de Agosto, [46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro, e [152/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1997-365343), de 19 de Junho.
+
+2 - Fica reservado à Câmara Municipal o direito de não permitir a ligação à rede pública de águas residuais de determinadas indústrias poluidoras que possam comprometer o sistema geral de saneamento e depuração, ficando estas obrigadas a cumprir os parâmetros definidos pela legislação atrás indicada.
+
+3 - Não será permitida a entrada em laboração das unidades industriais sem que o sistema de tratamentos de águas residuais se encontre plenamente eficaz.
+
+###### Artigo 10.º
+
+As empresas obrigam-se a realizar o tratamento aos seus efluentes gasosos lançados na atmosfera de modo a obedecerem aos parâmetros definidos pela Lei do Ar, [Decreto-Lei n.º 352/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1990-566071), de 9 de Novembro, e pela [Portaria n.º 286/93](https://diariodarepublica.pt/dr/detalhe/portaria/286-1993-634909), de 12 de Março.
+
+###### Artigo 11.º
+
+As empresas deverão tomar as providências necessárias para que se respeitem os parâmetros definidos no Regulamento Geral sobre o Ruído, Decretos-Leis n.os [251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), de 24 de Junho, e [292/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1989-546986), de 2 de Setembro, seja para o interior ou para o exterior do edifício.
+
+###### Artigo 12.º
+
+O detentor de resíduos, qualquer que seja a sua natureza e origem, deve promover a sua recolha, armazenamento, transporte e eliminação ou utilização de tal forma que não ponham em perigo a saúde pública nem causem prejuízo ao ambiente, tal como se encontra estabelecido no [Decreto-Lei n.º 292/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1989-546986), de 25 de Setembro, e na [Portaria n.º 15/96](https://diariodarepublica.pt/dr/detalhe/portaria/15-1996-587011), de 23 de Janeiro.
+
+###### Artigo 13.º
+
+Os produtores de óleos usados deverão cumprir, no que respeita à sua recolha, armazenagem, transporte e eliminação, o constante no [Decreto-Lei n.º 88/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1991-485448) e na [Portaria n.º 240/92](https://diariodarepublica.pt/dr/detalhe/portaria/240-1992-188357), de 25 de Março.
+
+###### Artigo 14.º
+
+Tendo em vista a prevenção dos riscos de acidentes graves que possam ser causados por certas actividades industriais, bem como a limitação das suas consequências para o homem e o ambiente, todas as indústrias deverão dar cabal cumprimento ao referido nos Decretos-Leis n.os [280-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1987-409164), de 17 de Julho, e [204/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1993-257595), de 3 de Junho.
+
+###### Artigo 15.º
+
+Todos os sistemas antipoluentes devem ser apresentados sob a forma de projecto às entidades com competência nessa matéria, sendo a sua aprovação condição necessária para a concessão da licença de laboração.
+
+###### Artigo 16.º
+
+Os prejuízos causados pela suspensão obrigatória do funcionamento dos sistemas antipoluentes são da inteira responsabilidade da própria empresa proprietária.
+
+###### Artigo 17.º
+
+A empresa proprietária é responsável pelos danos causados a terceiros pelo funcionamento não eficaz dos sistemas antipoluentes.
+
+### CAPÍTULO III — Zonas verdes e outros espaços exteriores
+
+###### Artigo 18.º
+
+A Câmara Municipal deve assegurar o arranjo de zonas verdes públicas comuns. Essas zonas verdes não deverão ter outra finalidade que não seja a de função de protecção e de enquadramento paisagístico.
+
+###### Artigo 19.º
+
+Nestas áreas são proibidas as acções que se traduzam na construção de edifícios, aterros, escavações e destruição do coberto vegetal.
+
+### CAPÍTULO V — Diversos
+
+###### Artigo 20.º
+
+Os pavimentos descobertos deverão ser drenados por forma que as águas pluviais ou de limpeza sejam facilmente encaminhadas para as sarjetas que ligam à rede geral. Quando justificável, poderão ser exigidos tratamentos às águas de escorrência ou lavagem.
+
+###### Artigo 21.º
+
+A Câmara Municipal deve garantir a execução, a conservação e o bom funcionamento das infra-estruturas básicas.
+
+###### Artigo 22.º
+
+A Câmara Municipal deve assegurar a recolha de resíduos sólidos urbanos.
+
+###### Artigo 23.º
+
+A Câmara Municipal deve assegurar a inclusão desta zona em um ou mais circuitos de transportes públicos.
+
+###### Artigo 24.º
+
+1 - As parcelas poderão ser limitadas por meio de sebes arbóreas ou por muretes de alvenaria, não devendo a sua altura exceder 2m, podendo conjugar elementos vazados, nomeadamente gradeamentos em ferro, cimento ou vedações com rede metálica preenchidas com vegetação.
+
+2 - Quando a vedação confinar com zonas verdes, estas deverão ser em sebes vivas, postes de madeira, fiadas de arame ou rede.
+
+###### Artigo 25.º
+
+A cércea respeitará o dimensionamento indicado no quadro resumo.
+
+###### Artigo 26.º
+
+Todos os arruamentos definidos com faixa de estacionamento terão de integrar no futuro zonas de paragem de transportes públicos, a localizar após estudo da rede urbana de transportes.
+
+###### Artigo 27.º
+
+Para os efeitos do presente Regulamento, estipula-se que a cércea é a altura do edifício medida a partir da cota média do passeio que lhe é confinante e até ao topo das fachadas, incluindo-se nesta as platibandas, com exclusão de silos, depósitos de água, instalações especiais ou elementos decorativos.
+
+###### Artigo 28.º
+
+O carregamento, descarregamento ou depósito de matérias deverá efectuar-se no interior de cada parcela, de forma a evitar-se a deposição de materiais que possam ser arrastados para o exterior desta.
+
+###### Artigo 29.º
+
+Os projectos dos edifícios deverão ter qualidade nos aspectos construtivos e de integração paisagística.
+
+###### Artigo 30.º
+
+A instalação de estaleiros de obras deverá fazer-se por forma a não alterar a topografia local, bem como deverá ser assegurada a remoção dos produtos resultantes de terraplenagens e escavações.
+
+###### Artigo 31.º
+
+É expressamente proibida a instalação ou criação de qualquer tipo de lixeiras.
+
+###### Artigo 32.º
+
+O número de lugares de estacionamento de que cada parcela deverá dispor está definido no quadro resumo, devendo respeitar sempre a proporção que aí se verifica em função da evolução da construção, ou seja, a mesma relação área de construção/número de lugares de estacionamento.
+
+###### Artigo 33.º
+
+Os projectos das construções devem ser apresentados conjuntamente com os projectos de vedação da parcela.
+
+###### Artigo 34.º
+
+Nas parcelas em que não se preveja a implantação total, de acordo com o quadro da planta de síntese, a área máxima impermeabilizada é de 40%.
+
+###### Artigo 35.º
+
+As parcelas poderão ser agrupadas para uma única construção, desde que cumpra com o estipulado com cada parcela envolvida.
+
+###### Artigo 36.º
+
+1 - Toda a zona afecta à área industrial terá uma vedação envolvente, conforme indicado na planta de síntese, cuja execução deverá obedecer a um projecto tipo a fornecer pela Câmara Municipal, que deverá ser executada com sebes vivas, postes de madeira e fiadas de arame ou rede.
+
+2 - A execução desta vedação quando servir de vedação a uma parcela deverá ter lugar no prazo de 30 dias a contar da data da notificação por parte da Câmara Municipal ainda que a construção prevista não tenha lugar de imediato.
+
+###### Artigo 37.º
+
+A utilização de áreas do domínio hídrico carece de licenciamento prévio, nos termos dos Decretos-Leis n.os [468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, e [46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro.
+
+[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/38743877.pdf)

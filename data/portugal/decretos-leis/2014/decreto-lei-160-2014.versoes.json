@@ -1,0 +1,111 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:58644004:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-953846069",
+ "dre_path": "/dr/detalhe/decreto-lei/160-2014-58644004",
+ "source_lastmod": "2026-07-27",
+ "versions": [
+  {
+   "date": "2015-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67348943:por",
+     "title": "Decreto-Lei n.º 91/2015",
+     "published": "2015-05-29",
+     "dre_path": "/dr/detalhe/decreto-lei/91-2015-67348943"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4"
+   ],
+   "fragments": [
+    "955464875",
+    "955465075",
+    "955465275",
+    "955465475",
+    "1152427275",
+    "955465875",
+    "955466075",
+    "955466275",
+    "955466475"
+   ]
+  }
+ ],
+ "fragments": {
+  "955464875": {
+   "fragment_id": "955464775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Plano Estratégico dos Transportes e Infraestruturas, aprovado em abril de 2014, prevê a combinação entre a gestora das redes ferroviárias e da rede rodoviária, traduzida na criação de uma única empresa de gestão de infraestruturas de transportes em Portugal, denominada Infraestruturas de Portugal, que promoverá uma nova abordagem, privilegiando uma visão integrada das infraestruturas rodoviárias e ferroviárias.\n\nA prossecução de uma estratégia sustentável e eficiente que promova concomitantemente a obtenção de sinergias relevantes a nível operacional para os transportes perfila-se como o ponto fulcral para uma boa gestão das políticas públicas de transporte e, reflexamente, para uma correta formulação das soluções neste domínio.\n\nA fusão da REFER - Rede Ferroviária Nacional, E. P. E. (REFER, E. P. E.), e da EP - Estradas de Portugal, S. A., consubstancia uma operação complexa que, quer pela sua dimensão, quer pela sua natureza jurídica, torna premente uma estreita articulação das estruturas internas de ambas empresas em ordem a lograr a consecução de uma melhoria significativa da situação económico-financeira que hoje lhes está subjacente, prosseguindo o objetivo da sustentabilidade, com criação de valor acrescentado para o Estado e, consequentemente, para a economia nacional.\n\nNesta esteira, o Governo entende que é conveniente que os conselhos de administração da REFER, E. P. E., e da EP - Estradas de Portugal, S. A., sejam integrados pelos mesmos administradores, que exercem as suas funções em regime de acumulação.\n\nA identidade de administradores executivos permite uma otimização de soluções no âmbito do processo de fusão, conferindo-lhe, ao mesmo tempo, uma orientação centralizada, gerando os necessários consensos para a materialização das atribuições que lhes estão legalmente cometidas.\n\nEsta solução permite ainda uma redução significativa do número de administradores das referidas empresas, na medida em que de um total de nove se diminui para sete administradores, cumprindo-se também, desta forma, o desígnio da contenção e racionalização de custos nas empresas que compõem o setor público empresarial.\n\nO presente decreto-lei estabelece a designação, mediante Resolução do Conselho de Ministros, no caso da REFER, E. P. E., e de deliberação da assembleia geral, no caso da EP - Estradas de Portugal, S. A., para os respetivos conselhos de administração, em regime de acumulação e até à constituição da sociedade que resultar da fusão das duas empresas, dos mesmos administradores executivos, num total de sete administradores.\n\nO presente decreto-lei define, ainda, os termos do mandato e o regime remuneratório associados à acumulação de funções, deixando expressa a temporalidade da medida, que ocorre até à extinção das duas empresas, ou no prazo de três anos se aquela não se verificar entretanto, e estabelece que os administradores auferem apenas uma remuneração e não beneficiam de qualquer remuneração adicional, sendo remunerados como se de um único conselho de administração se tratasse.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "955465075": {
+   "fragment_id": "955464975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime de acumulação de funções dos membros executivos dos conselhos de administração da REFER - Rede Ferroviária Nacional, E. P. E. (REFER, E. P. E.), e da EP - Estradas de Portugal, S. A., para efeitos da concretização do processo de fusão das duas empresas."
+  },
+  "955465275": {
+   "fragment_id": "955465175",
+   "type": 11,
+   "heading": "Artigo 2.º — Acumulação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acumulação de funções\n\nOs conselhos de administração da REFER, E. P. E., e da EP - Estradas de Portugal, S. A., são integrados por sete administradores executivos, doravante designados por administradores, que são comuns às duas empresas e exercem as suas funções em regime de acumulação."
+  },
+  "955465475": {
+   "fragment_id": "955465375",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Designação\n\n1 - Os administradores são designados por Resolução do Conselho de Ministros, no caso da REFER, E. P. E., e por deliberação em reunião da assembleia geral, no caso da EP - Estradas de Portugal, S. A.\n\n2 - A designação dos administradores implica a imediata cessação do mandato dos membros dos conselhos de administração da REFER, E. P. E., e da EP - Estradas de Portugal, S. A., em exercício de funções à data da designação."
+  },
+  "1152427275": {
+   "fragment_id": "955465575",
+   "type": 11,
+   "heading": "Artigo 4 — Mandato",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 91/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2015-67348943), em vigor a partir de 2015-06-01."
+   ],
+   "markdown": "###### Artigo 4 — Mandato\n\n1 - O mandato dos administradores designados nos termos no n.º 1 do artigo anterior cessa com a extinção da REFER, E. P. E., e da EP - Estradas de Portugal, S. A., por fusão numa entidade empresarial a criar nos termos do Plano Estratégico dos Transportes e Infraestruturas, ou no prazo de três anos, se aquela fusão se não tiver entretanto concluído.\n\n2 - No caso de cessação do mandato dos administradores por decurso do prazo, pode haver lugar a nova designação, nos termos previstos no artigo anterior.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 91/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2015-67348943), em vigor a partir de 2015-06-01."
+  },
+  "955465875": {
+   "fragment_id": "955465775",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Remuneração\n\n1 - Os administradores auferem apenas uma remuneração e não beneficiam de qualquer abono adicional em virtude da acumulação de funções.\n\n2 - A remuneração dos administradores é determinada pela classificação decorrente da aplicação dos critérios previstos na Resolução do Conselho de Ministros n.º 16/2012, de 9 de fevereiro, ao resultado da agregação dos indicadores respeitantes à REFER, E. P. E., e à EP - Estradas de Portugal, S. A.\n\n3 - A remuneração dos administradores, bem como todos os encargos referentes aos mesmos, são suportados, em partes iguais, pela REFER, E. P. E., e pela EP - Estradas de Portugal, S. A.\n\n4 - Os contratos de gestão a celebrar com os administradores devem reportar-se ao exercício de funções na REFER, E. P. E., e na EP - Estradas de Portugal, S. A., e considerar as especificidades do mandato em causa, em especial, o seu caráter transitório."
+  },
+  "955466075": {
+   "fragment_id": "955465975",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma imperativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma imperativa\n\nO regime fixado no presente decreto-lei tem natureza imperativa, prevalecendo sobre quaisquer normas que disponham em sentido contrário, especiais ou excecionais, que resultem, nomeadamente, do Estatuto do Gestor Público, dos diplomas estatutários ou de qualquer outra legislação aplicável à REFER, E. P. E., e à EP - Estradas de Portugal, S. A., e não podendo ser por estes afastado ou modificado."
+  },
+  "955466275": {
+   "fragment_id": "955466175",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "955466475": {
+   "fragment_id": "955466375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima.\n\nPromulgado em 21 de outubro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 24 de outubro de 2014."
+  }
+ }
+}

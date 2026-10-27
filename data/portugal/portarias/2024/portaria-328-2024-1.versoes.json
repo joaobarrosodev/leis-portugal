@@ -1,0 +1,315 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:900516799:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-910746985",
+ "dre_path": "/dr/detalhe/portaria/328-2024-900516799",
+ "source_lastmod": "2025-03-13",
+ "versions": [
+  {
+   "date": "2024-12-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "910746656",
+    "910746657",
+    "910746658",
+    "910746659",
+    "910746660",
+    "910746661",
+    "910746662",
+    "910746663",
+    "910746664",
+    "910746665",
+    "910746666",
+    "910746667",
+    "910746668",
+    "910746669"
+   ]
+  },
+  {
+   "date": "2025-03-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:910702652:por",
+     "title": "Portaria n.º 108/2025/1",
+     "published": "2025-03-13",
+     "dre_path": "/dr/detalhe/portaria/108-2025-910702652"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "910746656",
+    "910746657",
+    "910746658",
+    "910780918",
+    "910746660",
+    "910746661",
+    "910746662",
+    "910746663",
+    "910746664",
+    "910746665",
+    "910746666",
+    "910746667",
+    "910746668",
+    "910746669",
+    "910746670"
+   ]
+  },
+  {
+   "date": "2025-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:935913497:por",
+     "title": "Portaria n.º 317/2025/1",
+     "published": "2025-09-19",
+     "dre_path": "/dr/detalhe/portaria/317-2025-935913497"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "910746656",
+    "935953284",
+    "935953285",
+    "935953286",
+    "910746660",
+    "910746661",
+    "935953287",
+    "935953288",
+    "935953289",
+    "910746665",
+    "935953290",
+    "910746667",
+    "935953291",
+    "910746669",
+    "910746670"
+   ]
+  }
+ ],
+ "fragments": {
+  "910746656": {
+   "fragment_id": "910746986",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 328/2024/1\n\nde 18 de dezembro\n\nO Decreto-Lei n.º 165/85, de 16 de maio, instituiu o regime de formação em cooperação entre o Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), e entidades do setor público, privado ou cooperativo que pretendam o desenvolvimento de ações de formação profissional.\n\nNo referido quadro legal, consagra-se que uma das formas através da qual aquela cooperação se concretiza consiste na celebração de protocolos com aquelas entidades tendo em vista a criação de centros de formação profissional com a finalidade de responder às necessidades permanentes de formação profissional, num ou em vários setores da economia.\n\nNessa conformidade, e ao abrigo daquele diploma legal, foram criados ao longo dos anos um conjunto de Centros de Formação Protocolares.\n\nNeste âmbito, através da Portaria n.º 492/87, de 12 de junho, e da Portaria n.º 559/87, de 6 de julho, ambas na sua atual redação, foram homologados os protocolos que criaram o Centro de Formação Profissional para o Sector da Construção Civil e Obras Públicas do Sul (CENFIC) e Centro de Formação Profissional da Indústria de Construção Civil e Obras Públicas do Norte (CICCOPN).\n\nAmbos os Centros são entidades criadas com a finalidade de promover atividades formativas vocacionadas para a valorização dos recursos humanos do setor da construção civil.\n\nO setor da construção civil constitui um dos pilares fundamentais do crescimento da economia portuguesa, constituindo, por outro lado, um incentivo da atividade e do emprego em muitos outros setores produtivos, que atuam como fornecedores de bens intermediários para o setor da construção.\n\nNeste quadro, considerando a necessidade de racionalizar, centralizar e enriquecer a resposta formativa no que respeita ao setor em apreço, com necessidades cada vez mais exigentes e em transformação acelerada, o IEFP, I. P., reconhecendo a convergência das vocações dos dois Centros no quadro da valorização dos recursos humanos e das respetivas atividades económicas de intervenção, promoveu a fusão do CENFIC com o CICCOPN, com o objetivo de potenciar os efeitos que os suprarreferidos Centros visavam prosseguir.\n\nDeste modo, as condições infraestruturais passarão a estar vocacionadas para uma ótica de complementaridade, em detrimento de lógica concorrencial, atribuindo mais eficiência e eficácia à atual rede de Centros de Gestão Direta e Participada do IEFP, I. P.\n\nA reestruturação agora levada a cabo, fortalecerá a capacidade de resposta de toda a rede de Centros do IEFP, I. P., e melhorará a identificação, a planificação e a execução das respostas e ofertas formativas onde são mais precisas no mercado de trabalho.\n\nUm estudo aprofundado sobre os Centros Protocolares - o seu funcionamento, potencialidades, ajustes e melhorias - apontou no sentido em que esta reforma agora se opera.\n\nAssim, ao abrigo do disposto no artigo 19.º do Decreto-Lei n.º 165/85, de 16 de maio, manda o Governo, pelo Secretário de Estado do Trabalho, sob proposta do IEFP, I. P., e no uso das competências delegadas pela Ministra do Trabalho, Solidariedade e Segurança Social através do Despacho n.º 5948/2024, publicado no Diário da República, 2.ª série, n.º 102, de 27 de maio de 2024, o seguinte:"
+  },
+  "910746657": {
+   "fragment_id": "910746987",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à fusão do Centro de Formação Profissional para o Sector da Construção Civil e Obras Públicas do Sul (CENFIC) com o Centro de Formação Profissional da Indústria de Construção Civil e Obras Públicas (CICCOPN)."
+  },
+  "910746658": {
+   "fragment_id": "910746988",
+   "type": 11,
+   "heading": "Artigo 2.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Denominação\n\nO Centro resultante da fusão adota a designação de «Centro de Formação Profissional da Indústria de Construção Civil e Obras Públicas» (CICCOP)."
+  },
+  "910746659": {
+   "fragment_id": "910746989",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo de fusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Processo de fusão\n\n1 - O processo de fusão compreende todas as operações e decisões que se mostrem necessárias à sucessão de atribuições para o CICCOP, incluindo a transferência das atividades, do respetivo pessoal, e à reafetação de todos os seus demais recursos financeiros e patrimoniais.\n\n2 - O processo de fusão decorre sob a responsabilidade do conselho diretivo do Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), e deverá estar concluído no prazo de 60 dias a contar da data de publicação da presente portaria.\n\n3 - Os membros dos órgãos do CENFIC e do CICCOPN cessam o mandato para o qual foram designados no dia 28 de fevereiro de 2025."
+  },
+  "910746660": {
+   "fragment_id": "910746990",
+   "type": 11,
+   "heading": "Artigo 4.º — Prazo e procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prazo e procedimento\n\nPara efeitos do disposto no artigo anterior, o IEFP, I. P., celebrará, no prazo máximo de 30 dias consecutivos, um protocolo resultante do processo de fusão, com a finalidade de responder às necessidades permanentes de formação profissional e valorização dos recursos humanos no setor da construção civil e obras públicas, sujeito a homologação por parte do membro do Governo responsável pela área do trabalho, solidariedade e segurança social."
+  },
+  "910746661": {
+   "fragment_id": "910746991",
+   "type": 11,
+   "heading": "Artigo 5.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Quadro de pessoal\n\nO Centro agora criado sucede nos contratos de trabalho celebrados entre o CENFIC e o CICCOPN e cada um dos respetivos trabalhadores, estando garantidos, designadamente, a remuneração auferida, a antiguidade e os demais direitos adquiridos."
+  },
+  "910746662": {
+   "fragment_id": "910746992",
+   "type": 11,
+   "heading": "Artigo 6.º — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Recursos financeiros\n\nOs recursos financeiros bem como os respetivos saldos orçamentais são reafetados à prossecução das atribuições e ao exercício das competências transferidas para o CICCOP."
+  },
+  "910746663": {
+   "fragment_id": "910746993",
+   "type": 11,
+   "heading": "Artigo 7.º — Direitos e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direitos e obrigações\n\nA titularidade dos direitos e obrigações, independentemente da sua origem ou natureza, transmitem-se para o CICCOP, após a respetiva conclusão do processo de fusão."
+  },
+  "910746664": {
+   "fragment_id": "910746994",
+   "type": 11,
+   "heading": "Artigo 8.º — Bens imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Bens imóveis\n\nOs bens imóveis, incluindo os arrendados, são reafetados ao CICCOP, com exceção dos cedidos gratuitamente pelo IEFP, I. P., ao CENFIC, por contrato de comodato outorgado em 18 de janeiro de 1990, que caduca."
+  },
+  "910746665": {
+   "fragment_id": "910746995",
+   "type": 11,
+   "heading": "Artigo 9.º — Bens móveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Bens móveis\n\nAos bens móveis, incluindo veículos, é dado o destino previsto no artigo anterior, com as necessárias adaptações."
+  },
+  "910746666": {
+   "fragment_id": "910746996",
+   "type": 11,
+   "heading": "Artigo 10.º — Bibliotecas, centros de documentação e arquivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Bibliotecas, centros de documentação e arquivos\n\nAs bibliotecas, centros de documentação e arquivos do CENFIC terão como destino o CICCOP."
+  },
+  "910746667": {
+   "fragment_id": "910746997",
+   "type": 11,
+   "heading": "Artigo 11.º — Procedimentos na reafetação do património, direitos e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimentos na reafetação do património, direitos e obrigações\n\nA transferência de património, direitos e obrigações, prevista nos artigos anteriores, efetua-se com dispensa de quaisquer formalidades, salvo de registo, nos casos aplicáveis, constituindo a presente portaria título bastante, para todos os efeitos legais, nomeadamente para efeitos de registo."
+  },
+  "910746668": {
+   "fragment_id": "910746998",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma transitória\n\n1 - Todos os protocolos celebrados pelo CENFIC e pelo CICCOPN, até à presente data, mantêm-se em vigor.\n\n2 - Sem prejuízo do disposto no número anterior, tais protocolos são objeto de avaliação pelo IEFP, I. P., a realizar no prazo máximo de 90 dias a contar da data de entrada em vigor da presente portaria.\n\n3 - Todas as referências expressas no quadro legal vigente ao CENFIC devem considerar-se feitas ao CICCOP."
+  },
+  "910746669": {
+   "fragment_id": "910746999",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "910780918": {
+   "fragment_id": "910746989",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo de fusão",
+   "in_force_from": "2025-03-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### Artigo 3.º — Processo de fusão\n\n1 - O processo de fusão compreende todas as operações e decisões que se mostrem necessárias à sucessão de atribuições para o CICCOP, incluindo a transferência das atividades, do respetivo pessoal, e à reafetação de todos os seus demais recursos financeiros e patrimoniais.\n\n2 - (Revogado.)\n\n3 - Os membros dos órgãos do CENFIC e do CICCOPN cessam o mandato para o qual foram designados no dia 28 de fevereiro de 2025, à exceção dos respetivos diretores, que se mantêm em funções, no novo Centro, até à respetiva conclusão do processo de fusão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "910746670": {
+   "fragment_id": "910747000",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Trabalho, Adriano Rafael Sousa Moreira, em 11 de dezembro de 2024.\n\n118466035"
+  },
+  "935953284": {
+   "fragment_id": "910746987",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à fusão por incorporação do Centro de Formação Profissional para o Sector da Construção Civil e Obras Públicas do Sul (CENFIC) no Centro de Formação Profissional da Indústria de Construção Civil e Obras Públicas do Norte (CICCOPN).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+  },
+  "935953285": {
+   "fragment_id": "910746988",
+   "type": 11,
+   "heading": "Artigo 2.º — Denominação",
+   "in_force_from": "2025-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+   ],
+   "markdown": "###### Artigo 2.º — Denominação\n\nO Centro resultante da fusão, por incorporação, adota a designação de ‘Centro de Formação Profissional da Indústria de Construção Civil e Obras Públicas’, mantendo a sigla CICCOPN.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+  },
+  "935953286": {
+   "fragment_id": "910746989",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo de fusão por incorporação",
+   "in_force_from": "2025-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+   ],
+   "markdown": "###### Artigo 3.º — Processo de fusão por incorporação\n\n1 - O processo de fusão compreende todas as operações e decisões que se mostrem necessárias à extinção, e subsequente fusão, por incorporação, do CENFIC no Centro de Formação Profissional da Indústria de Construção Civil e Obras Públicas do Norte, incluindo todas as operações e decisões indispensáveis à sucessão de atribuições para a entidade incorporante, ‘CICCOPN’, designadamente a transferência das atividades, do respetivo pessoal, e a reafetação de todos os demais recursos financeiros e patrimoniais, os quais acrescem ao património e aos recursos financeiros já existentes da entidade incorporante.\n\n2 - (Revogado.)\n\n3 - Os membros dos órgãos do CENFIC e do CICCOPN cessam o mandato para o qual foram designados no dia 28 de fevereiro de 2025, à exceção dos respetivos diretores, que se mantêm em funções, no novo Centro, até à respetiva conclusão do processo de fusão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 108/2025/1 - Diário da República n.º 51/2025, Série I de 2025-03-13](https://diariodarepublica.pt/dr/detalhe/portaria/108-2025-910702652), em vigor a partir de 2025-03-14"
+  },
+  "935953287": {
+   "fragment_id": "910746992",
+   "type": 11,
+   "heading": "Artigo 6.º — Recursos financeiros",
+   "in_force_from": "2025-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+   ],
+   "markdown": "###### Artigo 6.º — Recursos financeiros\n\nOs recursos financeiros bem como os respetivos saldos orçamentais são reafetados à prossecução das atribuições e ao exercício das competências transferidas para o CICCOPN.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+  },
+  "935953288": {
+   "fragment_id": "910746993",
+   "type": 11,
+   "heading": "Artigo 7.º — Direitos e obrigações",
+   "in_force_from": "2025-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+   ],
+   "markdown": "###### Artigo 7.º — Direitos e obrigações\n\nA titularidade dos direitos e obrigações, independentemente da sua origem ou natureza, transmitem-se para o CICCOPN, após a respetiva conclusão do processo de fusão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+  },
+  "935953289": {
+   "fragment_id": "910746994",
+   "type": 11,
+   "heading": "Artigo 8.º — Bens imóveis",
+   "in_force_from": "2025-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+   ],
+   "markdown": "###### Artigo 8.º — Bens imóveis\n\nOs bens imóveis, incluindo os arrendados, são reafetados ao CICCOPN, com exceção dos cedidos gratuitamente pelo IEFP, I. P., ao CENFIC, por contrato de comodato outorgado em 18 de janeiro de 1990, que caduca.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+  },
+  "935953290": {
+   "fragment_id": "910746996",
+   "type": 11,
+   "heading": "Artigo 10.º — Bibliotecas, centros de documentação e arquivos",
+   "in_force_from": "2025-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+   ],
+   "markdown": "###### Artigo 10.º — Bibliotecas, centros de documentação e arquivos\n\nAs bibliotecas, centros de documentação e arquivos do CENFIC terão como destino o CICCOPN.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+  },
+  "935953291": {
+   "fragment_id": "910746998",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma transitória",
+   "in_force_from": "2025-09-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+   ],
+   "markdown": "###### Artigo 12.º — Norma transitória\n\n1 - Todos os protocolos celebrados pelo CENFIC e pelo CICCOPN, até à presente data, mantêm-se em vigor.\n\n2 - Sem prejuízo do disposto no número anterior, tais protocolos são objeto de avaliação pelo IEFP, I. P., a realizar no prazo máximo de 90 dias a contar da data de entrada em vigor da presente portaria.\n\n3 - Todas as referências expressas no quadro legal vigente ao CENFIC devem considerar-se feitas ao CICCOPN.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2025/1 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/portaria/317-2025-935913497), em vigor a partir de 2025-09-20"
+  }
+ }
+}

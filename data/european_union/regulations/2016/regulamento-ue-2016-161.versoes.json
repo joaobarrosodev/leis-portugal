@@ -1,0 +1,1358 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32016R0161:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R0161-20220101",
+ "dre_path": null,
+ "source_lastmod": "2022-01-01",
+ "versions": [
+  {
+   "date": "2016-02-09",
+   "future": false,
+   "celex": "32016R0161",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0e2b9cfa09d95b9f",
+    "226c39ffd0a88dad",
+    "9d92b0bac179fd3b",
+    "2e52b5e7f18b52e9",
+    "b4a7167f8fbc5cb8",
+    "ff2e3a46ccafc406",
+    "f0f8c960bfdbce9b",
+    "c019196468ad65f8",
+    "2784ec9848250d36",
+    "4b99605fa2a283af",
+    "c4bb602ec3fcfabc",
+    "cea734898e5d7d6c",
+    "808c3668d4c1a882",
+    "bb0da7042e5b6155",
+    "1e7a0903d2eed348",
+    "21e8d8ef4feb8fb6",
+    "90ea7507ab740db0",
+    "07e2e0b0133c47c3",
+    "bc3227b8015a9d0c",
+    "5438d0ba8c3ad72f",
+    "1ecfc79da3f1ac7f",
+    "f2906218eeed53eb",
+    "2a4f1df5ab70532c",
+    "68af90d50d6c5a3b",
+    "87efc012d7b23c1a",
+    "bf96a7c1dcd2a15d",
+    "e331016fb445e60f",
+    "6f3f83c3b033a241",
+    "40ed6b62e188ac6f",
+    "ce03dfd226edf5ac",
+    "2f2d010f4b8a9dd9",
+    "d4e98bee7c03f823",
+    "f646c5baff81800d",
+    "966c3ea119815cc7",
+    "2cc80361d4961dc5",
+    "b76d202a844f758e",
+    "08eb25a936ab5a9f",
+    "7af975fdf1cb6edd",
+    "e7c4b7f73789dd9f",
+    "89eb3daea8841cda",
+    "8c0515ec589ff6d8",
+    "aa27f98c2832b800",
+    "6a79d0ee86637dbd",
+    "7fd045ac4f655f13",
+    "ff9755ddf6dea7c6",
+    "3e7eac2da2d9e24f",
+    "cf830907de409857",
+    "d4f8910b25c2924e",
+    "93e8e230a36762eb",
+    "fa87cc57d5eeb3c9",
+    "12d573909a71c355",
+    "0cf4e4ccb13b3d83",
+    "8cd6a28afa8df64a",
+    "fce5dabf86d32cba",
+    "99973826fcc02605",
+    "b8bec5b347cbf822",
+    "36d725a8a51e20ee",
+    "3169ac435eaa0919",
+    "e39c533fb7088473",
+    "066a8a7b3c446d0b",
+    "f06c15fc5939a59e",
+    "7e66bc4d95617769",
+    "e659895aff5dbb54",
+    "63e36e9fa428ed4b",
+    "2c963365f7bae3cd",
+    "1e48d49dc5eeeb3f",
+    "8d28d267e26f5457",
+    "9fdc7583d826b280",
+    "e04eea2e2268a242",
+    "572847dcb985aa8d",
+    "977442aa0afe66a5",
+    "694538da914397fa",
+    "8ba85e5b8804f197",
+    "6aec0961131e53cd"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "celex": "02016R0161-20210101",
+   "acts": [
+    {
+     "id": "eu:celex:32021R0457:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2021/457 DA COMISSÃO de 13 de janeiro de 2021",
+     "published": null,
+     "celex": "32021R0457"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º — Composição do identificador único",
+    "Altera Artigo 7.º — Formato legível por pessoas",
+    "Altera Artigo 12.º — Identificadores únicos desativados",
+    "Altera Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança",
+    "Altera Artigo 17.º — Identificador único equivalente",
+    "Altera Artigo 22.º — Desativação dos identificadores únicos pelos grossistas",
+    "Altera Artigo 26.º — Derrogações ao artigo 25.º",
+    "Altera Artigo 33.º — Introdução de informações no sistema de repositórios",
+    "Altera Artigo 35.º — Características do sistema de repositórios",
+    "Altera Artigo 39.º — Acesso pelas autoridades nacionais competentes",
+    "Altera Artigo 40.º — Produtos recolhidos, retirados ou roubados",
+    "Altera Artigo 42.º — Remoção de identificadores únicos do sistema de repositórios",
+    "Altera Artigo 43.º — Informações a prestar pelas autoridades nacionais competentes",
+    "Altera Artigo 50.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Lista de medicamentos ou categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 1",
+    "Adita ANEXO II",
+    "Adita Lista de medicamentos ou categorias de medicamentos não sujeitos a receita médica que devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 2",
+    "Adita ANEXO III",
+    "Adita ANEXO IV"
+   ],
+   "fragments": [
+    "f93d171a47650918",
+    "226c39ffd0a88dad",
+    "9d92b0bac179fd3b",
+    "2e52b5e7f18b52e9",
+    "c7a1ba285687c82a",
+    "5f9d6ecea5aeac8b",
+    "f0f8c960bfdbce9b",
+    "c019196468ad65f8",
+    "7865116b7dd5b76b",
+    "4b99605fa2a283af",
+    "7ee0b069d245043d",
+    "233b398d8b5ba196",
+    "808c3668d4c1a882",
+    "bb0da7042e5b6155",
+    "1e7a0903d2eed348",
+    "21e8d8ef4feb8fb6",
+    "90ea7507ab740db0",
+    "07e2e0b0133c47c3",
+    "89efbfd38e469fb0",
+    "af044fd9245ca01b",
+    "1ecfc79da3f1ac7f",
+    "f2906218eeed53eb",
+    "2a4f1df5ab70532c",
+    "68af90d50d6c5a3b",
+    "53fdb36c5d726c24",
+    "ed07859016f02da6",
+    "e331016fb445e60f",
+    "6f3f83c3b033a241",
+    "40ed6b62e188ac6f",
+    "ce03dfd226edf5ac",
+    "2f2d010f4b8a9dd9",
+    "d4e98bee7c03f823",
+    "4ec7c3552900e682",
+    "966c3ea119815cc7",
+    "2cc80361d4961dc5",
+    "b76d202a844f758e",
+    "08eb25a936ab5a9f",
+    "6e2b3a324edf5538",
+    "97527c2d6c488409",
+    "89eb3daea8841cda",
+    "8c0515ec589ff6d8",
+    "aa27f98c2832b800",
+    "6a79d0ee86637dbd",
+    "7fd045ac4f655f13",
+    "ff9755ddf6dea7c6",
+    "3e7eac2da2d9e24f",
+    "362c5e297baaa52f",
+    "bfa23962dcf4cf9a",
+    "93e8e230a36762eb",
+    "eb50639f1a35c65f",
+    "12d573909a71c355",
+    "0cf4e4ccb13b3d83",
+    "8cd6a28afa8df64a",
+    "9dafbe84746d300f",
+    "99973826fcc02605",
+    "b8bec5b347cbf822",
+    "db61697daa65cbc5",
+    "3169ac435eaa0919",
+    "857edafa745ec7ce",
+    "066a8a7b3c446d0b",
+    "f06c15fc5939a59e",
+    "a569442f1a915fbb",
+    "e659895aff5dbb54",
+    "63e36e9fa428ed4b",
+    "2c963365f7bae3cd",
+    "1e48d49dc5eeeb3f",
+    "8d28d267e26f5457",
+    "9fdc7583d826b280",
+    "e04eea2e2268a242",
+    "572847dcb985aa8d",
+    "977442aa0afe66a5",
+    "694538da914397fa",
+    "a64a371608a445a4",
+    "d664376e2a8dcecd",
+    "c5eabb63b420a808",
+    "852174729551523b",
+    "005b65fcecbc493b",
+    "9784a796b3b0faa1",
+    "72f112dd624595d3",
+    "2fbe90a353ab37c2"
+   ]
+  },
+  {
+   "date": "2021-10-11",
+   "future": false,
+   "celex": "02016R0161-20211011",
+   "acts": [
+    {
+     "id": "eu:celex:32021R1686:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2021/1686 DA COMISSÃO de 7 de julho de 2021",
+     "published": null,
+     "celex": "32021R1686"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança",
+    "Altera Artigo 22.º — Desativação dos identificadores únicos pelos grossistas",
+    "Altera Artigo 33.º — Introdução de informações no sistema de repositórios",
+    "Altera Artigo 47.º — Avaliação das notificações",
+    "Altera Lista de medicamentos ou categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 1",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "f93d171a47650918",
+    "226c39ffd0a88dad",
+    "9d92b0bac179fd3b",
+    "2e52b5e7f18b52e9",
+    "c7a1ba285687c82a",
+    "5f9d6ecea5aeac8b",
+    "f0f8c960bfdbce9b",
+    "c019196468ad65f8",
+    "7865116b7dd5b76b",
+    "4b99605fa2a283af",
+    "7ee0b069d245043d",
+    "233b398d8b5ba196",
+    "808c3668d4c1a882",
+    "bb0da7042e5b6155",
+    "1e7a0903d2eed348",
+    "21e8d8ef4feb8fb6",
+    "90ea7507ab740db0",
+    "07e2e0b0133c47c3",
+    "89efbfd38e469fb0",
+    "af044fd9245ca01b",
+    "1ecfc79da3f1ac7f",
+    "f2906218eeed53eb",
+    "2a4f1df5ab70532c",
+    "68af90d50d6c5a3b",
+    "f818e217c1b6d7a1",
+    "ed07859016f02da6",
+    "e331016fb445e60f",
+    "6f3f83c3b033a241",
+    "40ed6b62e188ac6f",
+    "ce03dfd226edf5ac",
+    "2f2d010f4b8a9dd9",
+    "d4e98bee7c03f823",
+    "013e1a15f7503895",
+    "966c3ea119815cc7",
+    "2cc80361d4961dc5",
+    "b76d202a844f758e",
+    "08eb25a936ab5a9f",
+    "6e2b3a324edf5538",
+    "97527c2d6c488409",
+    "89eb3daea8841cda",
+    "8c0515ec589ff6d8",
+    "aa27f98c2832b800",
+    "6a79d0ee86637dbd",
+    "7fd045ac4f655f13",
+    "ff9755ddf6dea7c6",
+    "3e7eac2da2d9e24f",
+    "362c5e297baaa52f",
+    "fbd45932c8700cb4",
+    "93e8e230a36762eb",
+    "eb50639f1a35c65f",
+    "12d573909a71c355",
+    "0cf4e4ccb13b3d83",
+    "8cd6a28afa8df64a",
+    "9dafbe84746d300f",
+    "99973826fcc02605",
+    "b8bec5b347cbf822",
+    "db61697daa65cbc5",
+    "3169ac435eaa0919",
+    "857edafa745ec7ce",
+    "066a8a7b3c446d0b",
+    "f06c15fc5939a59e",
+    "a569442f1a915fbb",
+    "e659895aff5dbb54",
+    "63e36e9fa428ed4b",
+    "2c963365f7bae3cd",
+    "1e48d49dc5eeeb3f",
+    "8d28d267e26f5457",
+    "63c8ca9dd641258e",
+    "e04eea2e2268a242",
+    "572847dcb985aa8d",
+    "977442aa0afe66a5",
+    "694538da914397fa",
+    "a64a371608a445a4",
+    "d664376e2a8dcecd",
+    "2ec9843bca950f37",
+    "852174729551523b",
+    "005b65fcecbc493b",
+    "9784a796b3b0faa1",
+    "72f112dd624595d3",
+    "59f0e02030f2ea79"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "celex": "02016R0161-20220101",
+   "acts": [
+    {
+     "id": "eu:celex:32022R0315:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2022/315 DA COMISSÃO de 17 de dezembro de 2021",
+     "published": null,
+     "celex": "32022R0315"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança",
+    "Altera Artigo 20.º — Verificação da autenticidade do identificador único pelos grossistas",
+    "Altera Artigo 22.º — Desativação dos identificadores únicos pelos grossistas",
+    "Altera Artigo 26.º — Derrogações ao artigo 25.º",
+    "Altera Artigo 32.º — Estrutura do sistema de repositórios",
+    "Altera Artigo 33.º — Introdução de informações no sistema de repositórios",
+    "Altera Artigo 36.º — Operações do sistema de repositórios",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "f93d171a47650918",
+    "226c39ffd0a88dad",
+    "9d92b0bac179fd3b",
+    "2e52b5e7f18b52e9",
+    "c7a1ba285687c82a",
+    "3d2dc2ec6a20406e",
+    "f0f8c960bfdbce9b",
+    "c019196468ad65f8",
+    "7865116b7dd5b76b",
+    "4b99605fa2a283af",
+    "7ee0b069d245043d",
+    "233b398d8b5ba196",
+    "808c3668d4c1a882",
+    "bb0da7042e5b6155",
+    "1e7a0903d2eed348",
+    "21e8d8ef4feb8fb6",
+    "90ea7507ab740db0",
+    "07e2e0b0133c47c3",
+    "89efbfd38e469fb0",
+    "af044fd9245ca01b",
+    "1ecfc79da3f1ac7f",
+    "f2906218eeed53eb",
+    "2a4f1df5ab70532c",
+    "68af90d50d6c5a3b",
+    "ee171af013c86fcc",
+    "ed07859016f02da6",
+    "e331016fb445e60f",
+    "6f3f83c3b033a241",
+    "40ed6b62e188ac6f",
+    "ce03dfd226edf5ac",
+    "6dcf1de76b0f129a",
+    "d4e98bee7c03f823",
+    "0a51e90f1a3e64bd",
+    "966c3ea119815cc7",
+    "2cc80361d4961dc5",
+    "b76d202a844f758e",
+    "08eb25a936ab5a9f",
+    "6e2b3a324edf5538",
+    "aba9a4f70ff98aa9",
+    "89eb3daea8841cda",
+    "8c0515ec589ff6d8",
+    "aa27f98c2832b800",
+    "6a79d0ee86637dbd",
+    "7fd045ac4f655f13",
+    "ff9755ddf6dea7c6",
+    "3e7eac2da2d9e24f",
+    "0ec2a07792d9caca",
+    "4b0dc26a6b4766a7",
+    "93e8e230a36762eb",
+    "eb50639f1a35c65f",
+    "61c90b3359ef1897",
+    "0cf4e4ccb13b3d83",
+    "8cd6a28afa8df64a",
+    "9dafbe84746d300f",
+    "99973826fcc02605",
+    "b8bec5b347cbf822",
+    "db61697daa65cbc5",
+    "3169ac435eaa0919",
+    "857edafa745ec7ce",
+    "066a8a7b3c446d0b",
+    "f06c15fc5939a59e",
+    "a569442f1a915fbb",
+    "e659895aff5dbb54",
+    "63e36e9fa428ed4b",
+    "2c963365f7bae3cd",
+    "1e48d49dc5eeeb3f",
+    "8d28d267e26f5457",
+    "63c8ca9dd641258e",
+    "e04eea2e2268a242",
+    "572847dcb985aa8d",
+    "977442aa0afe66a5",
+    "694538da914397fa",
+    "a64a371608a445a4",
+    "d664376e2a8dcecd",
+    "2ec9843bca950f37",
+    "852174729551523b",
+    "005b65fcecbc493b",
+    "9784a796b3b0faa1",
+    "72f112dd624595d3",
+    "f79bbe94ccf7e184"
+   ]
+  }
+ ],
+ "fragments": {
+  "0e2b9cfa09d95b9f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de outubro de 2015\n\nque complementa a Diretiva 2001/83/CE do Parlamento Europeu e do Conselho, estabelecendo regras pormenorizadas para os dispositivos de segurança que figuram nas embalagens dos medicamentos para uso humano\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano [([^1])](http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2016032PT.01000101-E0001), nomeadamente o artigo 54.º-A, n.º 2,\n\nConsiderando o seguinte:\n\n(1) A Diretiva 2001/83/CE, tal como alterada, prevê medidas para impedir a introdução de medicamentos falsificados na cadeia de abastecimento legal, exigindo a colocação de dispositivos de segurança constituídos por um identificador único e um dispositivo de prevenção de adulterações na embalagem de certos medicamentos para uso humano para efeitos de permitir a sua identificação e autenticação.\n\n(2) A existência de diferentes mecanismos de autenticação dos medicamentos baseados em diferentes requisitos de rastreabilidade nacionais ou regionais pode limitar a circulação dos medicamentos na União e aumentar os custos para todos os intervenientes na cadeia de abastecimento. Por conseguinte, é necessário estabelecer regras à escala da União relativas à aplicação dos dispositivos de segurança para os medicamentos para uso humano, dando especial destaque às características e especificações técnicas do identificador único, às modalidades de verificação dos dispositivos de segurança, bem como à criação e gestão do sistema de repositórios com informações sobre os dispositivos de segurança.\n\n(3) Em conformidade com o artigo 4.º da Diretiva 2011/62/UE do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2016032PT.01000101-E0002) e o artigo 54.º-A, n.^os^ 2 e 3, da Diretiva 2001/83/CE, a Comissão avaliou os benefícios, os custos e a relação custo-eficácia das diferentes opções estratégicas para as características e as especificações técnicas do identificador único, as modalidades de verificação dos dispositivos de segurança e a criação e gestão do sistema de repositórios. As opções estratégicas identificadas como tendo a melhor relação custo-eficácia foram introduzidas como elementos essenciais do presente regulamento.\n\n(4) O presente regulamento estabelece um sistema em que a identificação e a autenticação dos medicamentos são garantidas por uma verificação de extremo a extremo de todos os medicamentos dotados de dispositivos de segurança, completada pela verificação pelos grossistas de certos medicamentos em maior risco de falsificação. Na prática, a autenticidade e a integridade dos dispositivos de segurança colocados na embalagem de um medicamento no início da cadeia de abastecimento devem ser verificadas no momento em que o medicamento é fornecido ao público, embora possam ser aplicáveis certas derrogações. No entanto, os medicamentos em maior risco de falsificação devem ser também verificados pelos grossistas ao longo da cadeia de abastecimento, de forma a minimizar o risco de os medicamentos falsificados circularem durante muito tempo sem serem detetados. A verificação da autenticidade de um identificador único deve ser efetuada por comparação desse identificador único com os identificadores únicos legítimos armazenados num sistema de repositórios. Quando a embalagem é fornecida ao público ou é distribuída fora da União, ou noutras circunstâncias específicas, o identificador único nessa embalagem deve ser desativado no sistema de repositórios para que qualquer outra embalagem com o mesmo identificador único não possa ser verificada com êxito.\n\n(5) Deve ser possível identificar e verificar a autenticidade de cada embalagem de um medicamento durante todo o período em que o medicamento permanecer no mercado e o tempo adicional necessário para a devolução e a eliminação da embalagem depois de caducado o prazo de validade. Por este motivo, a sequência de carateres resultante da combinação do código do produto e da sequência do número de série deve ser única para uma determinada embalagem de um medicamento durante, pelo menos, um ano após o termo do prazo de validade da embalagem ou cinco anos depois de o medicamento ter sido libertado para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado.\n\n(6) A inclusão no identificador único do código do produto, do número nacional de reembolso e de identificação, do número do lote e do prazo de validade contribui para a segurança dos doentes ao facilitar os procedimentos de recolha, retirada e devolução, bem como a farmacovigilância neste setor.\n\n(7) A fim de reduzir ao mínimo a probabilidade de um número de série ser descoberto pelos falsificadores, o número de série deve ser gerado de acordo com regras de aleatorização específicas.\n\n(8) A conformidade com determinadas normas internacionais, embora não seja obrigatória, pode ser utilizada como prova de que determinados requisitos do presente regulamento são cumpridos. Quando não for possível provar a conformidade com as normas internacionais, deve caber às pessoas sujeitas a essas obrigações provar, por meios verificáveis, que cumprem esses requisitos.\n\n(9) O identificador único deve ser codificado utilizando uma estrutura e uma sintaxe de dados normalizadas para que possa ser corretamente reconhecido em toda a União e descodificado por equipamentos de leitura ótica comuns.\n\n(10) A unicidade a nível mundial do código do produto não só contribui para o caráter inequívoco do identificador único, mas também facilita a sua desativação, quando esta operação for efetuada num Estado-Membro diferente do Estado-Membro em que o medicamento estava inicialmente destinado a ser colocado no mercado. Um código do produto conforme com certas normas internacionais deve ser considerado único a nível mundial.\n\n(11) A fim de facilitar a verificação da autenticidade e a desativação de um identificador único por grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público, é necessário garantir que a estrutura e a qualidade da impressão do código de barras bidimensional que codifica o identificador único permitam a leitura a alta velocidade e a redução ao mínimo dos erros de leitura.\n\n(12) Os dados contidos no identificador único devem ser impressos na embalagem em formato legível para as pessoas, de modo a permitir a verificação da autenticidade do identificador único e a sua desativação caso o código de barras bidimensional esteja ilegível.\n\n(13) Um código de barras bidimensional pode armazenar mais informações do que os dados do identificador único. Deve ser possível utilizar essa capacidade de armazenamento residual para incluir mais informações e evitar a colocação de códigos de barras adicionais.\n\n(14) A presença de vários códigos de barras bidimensionais na embalagem pode dar azo a confusão quanto ao código de barras que deve ser lido para efeitos de verificação da autenticidade e identificação de um medicamento. Isto pode provocar erros na verificação da autenticidade dos medicamentos e o fornecimento inadvertido ao público de medicamentos falsificados. Por este motivo, deve evitar-se a presença de vários códigos de barras bidimensionais na embalagem de um medicamento para efeitos de identificação e verificação da autenticidade.\n\n(15) A verificação de ambos os dispositivos de segurança é necessária para garantir a autenticidade de um medicamento num sistema de verificação de extremo a extremo. A verificação da autenticidade do identificador único destina-se a garantir que o medicamento é proveniente do fabricante legítimo. A verificação da integridade do dispositivo de prevenção de adulterações revela se a embalagem foi aberta ou alterada desde que saiu das instalações do fabricante, assegurando assim que o conteúdo da embalagem é autêntico.\n\n(16) A verificação da autenticidade do identificador único é um passo essencial para garantir a autenticidade dos medicamentos dele dotados e deve basear-se exclusivamente na comparação com informações fiáveis sobre os identificadores únicos legítimos carregadas por utilizadores verificados num sistema de repositórios seguro.\n\n(17) Deve ser possível reverter o estado de um identificador único que foi desativado para evitar o desperdício desnecessário de medicamentos. No entanto, é necessário sujeitar a reversão do estado a condições rigorosas para minimizar a ameaça que esta operação poderia gerar para a segurança do sistema de repositórios em caso de utilização abusiva pelos contrafatores. Estas condições devem ser aplicáveis independentemente de a operação de desativação ter ocorrido no momento do fornecimento ao público ou numa data anterior.\n\n(18) As autoridades competentes devem poder aceder às informações sobre os dispositivos de segurança de um medicamento enquanto este produto estiver na cadeia de abastecimento ou depois de ter sido fornecido ao público, recolhido ou retirado do mercado. Para este efeito, os fabricantes devem conservar registos das operações com ou sobre o identificador único de um dado medicamento depois de o identificador ter sido desativado no sistema de repositórios durante, pelo menos, um ano após o termo do prazo de validade do medicamento ou cinco anos depois de a embalagem ter sido libertada para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado.\n\n(19) Incidentes de falsificação ocorridos no passado mostram que certos medicamentos, tal como os devolvidos por pessoas autorizadas ou habilitadas a fornecer medicamentos ao público ou grossistas, ou os medicamentos distribuídos por pessoas que não são nem o fabricante nem um grossista titular da autorização de introdução no mercado nem um grossista designado, correm maior risco de falsificação. A autenticidade desses medicamentos deve, por conseguinte, ser sujeita a verificações adicionais por grossistas ao longo de toda a cadeia de abastecimento, para minimizar o risco de os produtos falsificados que entram na cadeia de abastecimento legal circularem livremente no território da União até serem verificados no momento em que são fornecidos ao público.\n\n(20) A verificação por grossistas da autenticidade dos medicamentos em maior risco de falsificação seria igualmente eficaz sendo efetuada através da leitura dos identificadores únicos individuais ou de um código agregado que permita a verificação simultânea de vários identificadores únicos. Além disso, a verificação poderia ser efetuada a qualquer momento entre a receção do medicamento pelo grossista e a sua distribuição posterior, com resultados idênticos. Por estas razões, o grossista deve poder ter a escolha de fazer a leitura dos identificadores únicos individuais ou de códigos agregados, se disponíveis, e decidir o momento da verificação, desde que assegure a verificação de todos os identificadores únicos dos produtos em maior risco de falsificação que estejam na sua posse física, tal como exigido pelo presente regulamento.\n\n(21) Na complexa cadeia de abastecimento da União, pode acontecer que um medicamento mude de propriedade, mas permaneça na posse física do mesmo grossista, ou que um medicamento seja distribuído no território de um Estado-Membro entre dois entrepostos pertencentes ao mesmo grossista ou à mesma entidade legal, mas não se verifique qualquer venda. Nesses casos, os grossistas devem ser dispensados de efetuar uma verificação do identificador único, dado que o risco de falsificação é negligenciável.\n\n(22) Como princípio geral, num sistema de verificação de extremo a extremo, a desativação do identificador único no sistema de repositórios deve ser realizada no final da cadeia de abastecimento, quando o medicamento é fornecido ao público. Certas embalagens de medicamentos, no entanto, podem não vir a ser fornecidas ao público, sendo por conseguinte necessário assegurar a desativação dos respetivos identificadores únicos noutro ponto da cadeia de abastecimento. É este o caso dos medicamentos que, entre outras possibilidades, devam ser distribuídos fora da União, sejam destinados a ser destruídos, sejam solicitados como amostras pelas autoridades competentes ou sejam medicamentos devolvidos que não podem ser restituídos às existências comerciáveis.\n\n(23) Embora a Diretiva 2011/62/UE tenha introduzido disposições destinadas a regular a venda à distância de medicamentos ao público e mandatado a Comissão para estabelecer as modalidades da verificação dos dispositivos de segurança por pessoas autorizadas ou habilitadas a fornecer medicamentos ao público, o fornecimento de medicamentos ao público ainda é sobretudo regulado a nível nacional. O final da cadeia de abastecimento pode ser organizado de modo diferente nos diferentes Estados-Membros e envolver profissionais de saúde específicos. Os Estados-Membros devem ter a possibilidade de isentar determinadas instituições ou pessoas autorizadas ou habilitadas a fornecer medicamentos ao público da obrigação de verificação dos dispositivos de segurança, a fim de ter em conta as características específicas da cadeia de abastecimento no seu território e garantir que o impacto das medidas de verificação nessas partes interessadas é proporcionado.\n\n(24) A verificação da autenticidade de um identificador único não é apenas fundamental para a autenticação de um medicamento, mas também permite que a pessoa que executa a operação saiba se o medicamento está fora de prazo, foi recolhido, foi retirado ou está indicado como roubado. As pessoas autorizadas ou habilitadas a fornecer medicamentos ao público devem verificar a autenticidade e desativar o identificador único no momento em que o medicamento é fornecido ao público, de modo a aceder às informações mais atualizadas sobre o produto e evitar que os medicamentos fora de prazo, recolhidos, retirados ou indicados como roubados sejam fornecidos ao público.\n\n(25) A fim de evitar um impacto excessivo no funcionamento diário dos estabelecimentos de cuidados de saúde, os Estados-Membros deviam poder permitir que as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público e que exercem a sua atividade nos estabelecimentos de cuidados de saúde efetuem a verificação da autenticidade e a desativação de um identificador único antes de os medicamentos serem fornecidos ao público, ou isentá-las desta obrigação, sob certas condições.\n\n(26) Em certos Estados-Membros, as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público são autorizadas a abrir a embalagem de um medicamento, a fim de fornecer uma parte dessa embalagem ao público. Por conseguinte, é necessário regular a verificação dos dispositivos de segurança e a desativação do identificador único nesta situação específica.\n\n(27) A eficácia de um sistema de verificação de extremo a extremo em impedir que medicamentos falsificados cheguem ao público depende da verificação sistemática da autenticidade dos dispositivos de segurança e da subsequente desativação do identificador único de cada embalagem fornecida, de modo a que esse identificador único não possa voltar a ser utilizado por traficantes. Assim, é importante garantir que essas operações, caso não sejam realizadas no momento em que o medicamento é fornecido ao público devido a um problema técnico, sejam efetuadas posteriormente com a maior brevidade possível.\n\n(28) Um sistema de verificação de extremo a extremo exige igualmente a criação de um sistema de repositórios que armazene, entre outros elementos, informações sobre os identificadores únicos legítimos de um medicamento e que possa ser consultado para verificar a autenticidade de um identificador único e desativá-lo. Este sistema de repositórios deve ser criado e gerido pelos titulares das autorizações de introdução no mercado, uma vez que estes são responsáveis pela colocação do produto no mercado, e pelos fabricantes de medicamentos dotados de dispositivos de segurança, uma vez que estes suportam os custos do sistema de repositórios, em conformidade com o artigo 54.º-A, n.º 2, alínea e), da Diretiva 2001/83/CE. No entanto, os grossistas e as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público devem ter o direito de participar na criação e na gestão do sistema de repositórios, se assim o desejarem, uma vez que o seu trabalho diário dependerá do bom funcionamento do sistema de repositórios. Além disso, as autoridades nacionais competentes devem ser consultadas no âmbito da criação do sistema de repositórios, uma vez que a sua participação numa fase inicial será benéfica para as suas futuras atividades de supervisão.\n\n(29) A utilização do sistema de repositórios não deve ser restringida para efeitos de obtenção de vantagens comerciais. Por esta razão, a adesão a organizações específicas não deve constituir uma condição prévia para a utilização do sistema de repositórios.\n\n(30) A estrutura do sistema de repositórios deve ser de molde a garantir que a verificação dos medicamentos seja possível em toda a União. Isto pode exigir a transferência de dados e de informações sobre um identificador único entre repositórios dentro do sistema de repositórios. A fim de minimizar o número de ligações necessárias entre repositórios e assegurar a sua interoperabilidade, cada parte nacional e supranacional do sistema de repositórios deve ligar-se e trocar dados através de um repositório central que funciona como um encaminhador de informações e de dados.\n\n(31) O sistema de repositórios deve incluir as interfaces necessárias que facultem o acesso, quer diretamente quer através de *software*, aos grossistas, às pessoas autorizadas ou habilitadas a fornecer medicamentos ao público e às autoridades nacionais competentes, a fim de que estes intervenientes possam cumprir as suas obrigações ao abrigo do presente regulamento.\n\n(32) Dado o caráter sensível das informações sobre os identificadores únicos legítimos e o potencial impacto negativo na saúde pública se essas informações caírem nas mãos de traficantes, a responsabilidade de garantir a introdução dessas informações no sistema de repositórios deve caber ao titular da autorização de introdução no mercado ou à pessoa responsável pela colocação no mercado do produto dotado do identificador único. As informações devem ser conservadas durante um período suficientemente longo para permitir a investigação adequada de casos de falsificação.\n\n(33) A fim de harmonizar o formato dos dados e o intercâmbio de dados dentro do sistema de repositórios e garantir a interoperabilidade dos repositórios, bem como a legibilidade e a exatidão dos dados transferidos, cada repositório nacional e supranacional deve trocar informações e dados utilizando o formato de dados e as especificações de intercâmbio de dados definidos no repositório central.\n\n(34) A fim de garantir a verificação do medicamento sem prejudicar a circulação de medicamentos no mercado único, os grossistas e as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público devem poder verificar a autenticidade de um identificador único e desativá-lo em qualquer Estado-Membro, independentemente do país da União em que o medicamento com esse identificador único estava originalmente destinado a ser colocado no mercado. Para este efeito, o estado de um identificador único deve ser sincronizado entre repositórios e, se necessário, os pedidos de verificação devem ser redirecionados pelo repositório central para os repositórios ao serviço dos Estados-Membros em que o medicamento se destinava a ser colocado no mercado.\n\n(35) A fim de assegurar que o sistema de repositórios permite uma verificação de extremo a extremo da autenticidade dos medicamentos, é necessário definir as características e as operações do sistema de repositórios.\n\n(36) Para a investigação de incidentes de falsificação suspeitos ou confirmados, seria útil dispor do maior número possível de informações sobre o medicamento em causa. Por este motivo, os registos de todas as operações relacionadas com um identificador único, incluindo os utilizadores que efetuam essas operações e a natureza das operações, devem ser armazenados no sistema de repositórios, ser acessíveis para efeitos de investigação de casos assinalados como potenciais incidentes de falsificação no sistema de repositórios e ser imediatamente disponibilizados às autoridades competentes a pedido destas.\n\n(37) Em conformidade com o artigo 54.º-A, n.º 3, da Diretiva 2001/83/CE, é necessário garantir a proteção dos dados pessoais prevista na legislação da União, os interesses legítimos de proteção da informação de natureza comercial confidencial e a propriedade e confidencialidade dos dados gerados pela utilização dos dispositivos de segurança. Por esta razão, os fabricantes, os titulares de autorizações de introdução no mercado, os grossistas e as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público só devem ter a propriedade e o acesso aos dados que geram quando interagem com o sistema de repositórios. Embora o presente regulamento delegado não exija o armazenamento de dados pessoais no sistema de repositórios, a proteção dos dados pessoais deve ser assegurada caso os utilizadores dos repositórios utilizem o sistema de repositórios para fins que estão fora do âmbito de aplicação do presente regulamento.\n\n(38) As informações referidas no artigo 33.º, n.º 2, do presente regulamento e as informações sobre o estado de um identificador único devem permanecer acessíveis a todas as partes a quem cabe verificar a autenticidade dos medicamentos, uma vez que essas informações são necessárias para o desempenho adequado dessas verificações.\n\n(39) A fim de evitar eventuais ambiguidades e erros de autenticação, não devem coexistir no sistema de repositórios identificadores únicos com o mesmo código do produto e número de série.\n\n(40) Em conformidade com o artigo 54.º-A, n.º 1, da Diretiva 2001/83/CE, os medicamentos sujeitos a receita médica devem ser dotados de dispositivos de segurança, ao passo que os medicamentos não sujeitos a receita médica não podem sê-lo. No entanto, a decisão de sujeitar um medicamento a receita médica é tomada, na maior parte das vezes, a nível nacional e pode variar conforme os Estados-Membros. Além disso, os Estados-Membros podem alargar o âmbito de aplicação dos dispositivos de segurança em conformidade com o artigo 54.º-A, n.º 5, da Diretiva 2001/83/CE. Consequentemente, o mesmo medicamento pode ter de ser dotado de dispositivos de segurança num Estado-Membro, mas não noutro. A fim de assegurar a correta aplicação do presente regulamento, as autoridades nacionais competentes devem, a pedido, disponibilizar aos titulares de autorizações de introdução no mercado, aos fabricantes, aos grossistas e às pessoas autorizadas ou habilitadas a fornecer medicamentos ao público as informações sobre os medicamentos colocados no mercado no seu território que devem ser dotados dos dispositivos de segurança, incluindo aqueles relativamente aos quais o âmbito de aplicação do identificador único ou do dispositivo de prevenção de adulterações tiver sido alargado em conformidade com o artigo 54.º-A, n.º 5, da Diretiva 2001/83/CE.\n\n(41) Uma vez que um repositório pode utilizar servidores fisicamente localizados em Estados-Membros diferentes, ou pode estar fisicamente situado num Estado-Membro que não é o Estado-Membro que serve, as autoridades nacionais competentes devem ser autorizadas a efetuar ou observar as inspeções noutros Estados-Membros, mediantes determinadas condições.\n\n(42) As listas dos medicamentos ou das categorias de medicamentos que, no caso dos medicamentos sujeitos a receita médica, não devem ser dotados dos dispositivos de segurança e que, no caso dos medicamentos não sujeitos a receita médica, devem ser dotados dos dispositivos de segurança, devem ser elaboradas tendo em conta o risco de falsificação dos medicamentos ou das categorias de medicamentos e o risco decorrente dessa falsificação, em conformidade com o artigo 54.º-A, n.º 2, alínea b), da Diretiva 2001/83/UE, tal como alterada. Estes riscos devem ser avaliados com base nos critérios indicados no referido artigo.\n\n(43) A fim de evitar interrupções no abastecimento de medicamentos, são necessárias medidas transitórias para os medicamentos que tenham sido libertados para venda ou distribuição sem os dispositivos de segurança antes da data de aplicação do presente regulamento no Estado-Membro ou nos Estados-Membros em que os medicamentos são colocados no mercado.\n\n(44) Quando da entrada em vigor da Diretiva 2011/62/UE do Parlamento Europeu e do Conselho, a Bélgica, a Grécia e a Itália já tinham sistemas em vigor para verificar a autenticidade dos medicamentos e para identificar cada embalagem. A Diretiva 2011/62/UE concedeu a esses Estados-Membros um período de transição adicional para se adaptarem ao sistema harmonizado de dispositivos de segurança da União introduzido pela referida diretiva para os mesmos fins, permitindo-lhes diferir a aplicação da diretiva no que diz respeito a esse sistema. A fim de assegurar a coerência entre as medidas de transposição nacionais adotadas por força da diretiva, por um lado, e as regras do presente regulamento, por outro lado, esses Estados-Membros devem dispor do mesmo período transitório suplementar para a aplicação das disposições do presente regulamento relativas a esse sistema.\n\n(45) No interesse da segurança jurídica e da clareza jurídica relativamente às regras aplicáveis nos Estados-Membros que beneficiam de um período transitório adicional em conformidade com o presente regulamento, cada um desses Estados-Membros deve notificar à Comissão a data a partir da qual as disposições do presente regulamento, sujeitas ao período transitório adicional, se aplicam no seu território, para que a Comissão publique a data de aplicação nesse Estado-Membro no *Jornal Oficial da União Europeia* com uma antecedência suficiente,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "9d92b0bac179fd3b": {
+   "fragment_id": "OBJETO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJETO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJETO E DEFINIÇÕES"
+  },
+  "2e52b5e7f18b52e9": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece:\n\na) as características e as especificações técnicas do identificador único que permite verificar a autenticidade dos medicamentos e identificar cada embalagem;\n\nb) as modalidades para a verificação dos dispositivos de segurança;\n\nc) as disposições em matéria de criação, gestão e acessibilidade do sistema de repositórios que contêm as informações sobre os dispositivos de segurança;\n\nd) a lista de medicamentos e categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos de segurança;\n\ne) a lista de medicamentos e categorias de medicamentos não sujeitos a receita médica que devem ser dotados dos dispositivos de segurança;\n\nf) os processos de notificação à Comissão, pelas autoridades nacionais competentes, de medicamentos não sujeitos a receita médica considerados em risco de falsificação e de medicamentos sujeitos a receita médica não considerados em risco de falsificação, de acordo com os critérios estabelecidos no artigo 54.º-A, n.º 2, alínea b), da Diretiva 2001/83/CE;\n\ng) os procedimentos para uma avaliação e uma decisão rápidas sobre as notificações referidas na alínea f) do presente artigo."
+  },
+  "b4a7167f8fbc5cb8": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento é aplicável:\n\na) aos medicamentos sujeitos a receita médica que devem ser dotados de dispositivos de segurança na embalagem, em conformidade com o artigo 54.º-A, n.º 1, da Diretiva 2001/83/CE, salvo se estiverem incluídos na lista constante do anexo I do presente regulamento;\n\nb) aos medicamentos não sujeitos a receita médica incluídos na lista constante do anexo II do presente regulamento;\n\nc) aos medicamentos aos quais os Estados-Membros alargaram o âmbito de aplicação do identificador único ou do dispositivo de prevenção de adulterações em conformidade com o artigo 54.º-A, n.º 5, da Diretiva 2001/83/CE.\n\n2. Para efeitos do presente regulamento, sempre que se faça referência à embalagem numa disposição do presente regulamento, essa disposição aplica-se à embalagem exterior, ou ao acondicionamento primário se o medicamento não tiver uma embalagem exterior."
+  },
+  "ff2e3a46ccafc406": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1. Para efeitos do presente regulamento, são aplicáveis as definições constantes do artigo 1.º da Diretiva 2001/83/CE.\n\n2. São aplicáveis as seguintes definições:\n\na) «Identificador único», o dispositivo de segurança que permite a verificação da autenticidade e a identificação de uma embalagem individual de um medicamento;\n\nb) «Dispositivo de prevenção de adulterações», o dispositivo de segurança que permite verificar se a embalagem de um medicamento foi adulterada;\n\nc) «Desativação de um identificador único», a operação que altera o estado ativo de um identificador único armazenado no sistema de repositórios referido no artigo 31.º do presente regulamento, para um estado que impede qualquer nova verificação bem sucedida da autenticidade desse identificador único;\n\nd) «Identificador único ativo», um identificador único que não foi desativado ou que deixou de estar desativado;\n\ne) «Estado ativo», o estado de um identificador único ativo armazenado no sistema de repositórios referido no artigo 31.º;\n\nf) «Estabelecimento de cuidados de saúde», um hospital, uma clínica com regime de internamento ou ambulatório ou um centro de saúde."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "c019196468ad65f8": {
+   "fragment_id": "ESPECIFICAÇÕES TÉCNICAS DO IDENTIFICADOR ÚNICO",
+   "type": "divisao",
+   "heading": "ESPECIFICAÇÕES TÉCNICAS DO IDENTIFICADOR ÚNICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESPECIFICAÇÕES TÉCNICAS DO IDENTIFICADOR ÚNICO"
+  },
+  "2784ec9848250d36": {
+   "fragment_id": "Artigo 4.º — Composição do identificador único",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Composição do identificador único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição do identificador único\n\nO fabricante deve colocar na embalagem de um medicamento um identificador único que cumpra as seguintes especificações técnicas:\n\na) o identificador único deve ser uma sequência de carateres numéricos ou alfanuméricos que é única para uma determinada embalagem de um medicamento;\n\nb) o identificador único deve ser constituído pelos seguintes elementos informativos: i) um código que permita identificar, pelo menos, o nome, a denominação comum, a forma farmacêutica, a dosagem, o tamanho da embalagem e o tipo de embalagem do medicamento dotado do identificador único («código do produto»), ii) uma sequência numérica ou alfanumérica com, no máximo, 20 carateres, gerada por um algoritmo de aleatorização determinístico ou não determinístico («número de série»), iii) um número nacional de reembolso ou outro número nacional que identifique o medicamento, se exigido pelo Estado-Membro em que o produto se destina a ser colocado no mercado, iv) o número do lote, v) o prazo de validade;\n\ni) um código que permita identificar, pelo menos, o nome, a denominação comum, a forma farmacêutica, a dosagem, o tamanho da embalagem e o tipo de embalagem do medicamento dotado do identificador único («código do produto»),\n\nii) uma sequência numérica ou alfanumérica com, no máximo, 20 carateres, gerada por um algoritmo de aleatorização determinístico ou não determinístico («número de série»),\n\niii) um número nacional de reembolso ou outro número nacional que identifique o medicamento, se exigido pelo Estado-Membro em que o produto se destina a ser colocado no mercado,\n\niv) o número do lote,\n\nv) o prazo de validade;\n\nc) a probabilidade de o número de série poder ser adivinhado deve ser insignificante e, em qualquer caso, inferior a uma em dez mil;\n\nd) a sequência de carateres resultante da combinação do código do produto e do número de série deve ser única para uma determinada embalagem de um medicamento durante, pelo menos, um ano após o termo do prazo de validade da embalagem ou cinco anos depois de a embalagem ter sido libertada para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado;\n\ne) se o número nacional de reembolso ou outro número nacional que identifique o medicamento estiver contido no código do produto, não tem de ser repetido no identificador único."
+  },
+  "4b99605fa2a283af": {
+   "fragment_id": "Artigo 5.º — Suporte do identificador único",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Suporte do identificador único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Suporte do identificador único\n\n1. Os fabricantes devem codificar o identificador único num código de barras bidimensional.\n\n2. O código de barras deve ser uma matriz de dados legível por máquina e ter capacidade de deteção e correção de erros equivalente ou superior às da matriz de dados ECC200. Presume-se que os códigos de barras conformes com a norma da Organização Internacional de Normalização/Comissão Eletrotécnica Internacional (ISO/IEC) 16022:2006 cumprem os requisitos estabelecidos no presente número.\n\n3. Os fabricantes devem imprimir o código de barras na embalagem numa superfície lisa, uniforme e pouco refletora.\n\n4. Quando registada numa matriz de dados, a estrutura do identificador único deve seguir uma sintaxe e uma semântica de dados normalizadas e internacionalmente reconhecidas («sistema de codificação») que permitam a identificação e a descodificação exatas de cada elemento informativo de que o identificador único é composto, utilizando equipamentos de leitura ótica comuns. O sistema de codificação deve incluir identificadores de dados ou identificadores de aplicações ou outras sequências de carateres que identifiquem o início e o fim da sequência de cada elemento informativo individual do identificador único e definam a informação contida nesses elementos informativos. Considera-se que os identificadores únicos com um sistema de codificação em conformidade com a norma ISO/IEC 15418:2009 cumprem os requisitos estabelecidos no presente número.\n\n5. Quando registado numa matriz de dados como elemento informativo de um identificador único, o código do produto deve seguir um sistema de codificação e começar com carateres específicos do sistema de codificação utilizado. Deve igualmente conter carateres ou sequências de carateres que identifiquem o produto como medicamento. O código resultante deve ter menos de 50 carateres e ser único a nível mundial. Presume-se que os códigos dos produtos que estejam em conformidade com a norma ISO/IEC 15459-3:2014 e ISO/IEC 15459-4:2014 cumprem os requisitos estabelecidos no presente número.\n\n6. Se necessário, podem ser utilizados sistemas de codificação diferentes dentro do mesmo identificador único desde que a descodificação do identificador único não seja obstruída. Nesse caso, o identificador único deve conter carateres normalizados que permitam a identificação do início e do fim do identificador único, bem como o início e o fim de cada sistema de codificação. Quando contenham vários sistemas de codificação, presume-se que os identificadores únicos em conformidade com a norma ISO/IEC 15434:2006 cumprem os requisitos estabelecidos no presente número."
+  },
+  "c4bb602ec3fcfabc": {
+   "fragment_id": "Artigo 6.º — Qualidade da impressão do código de barras bidimensional",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Qualidade da impressão do código de barras bidimensional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Qualidade da impressão do código de barras bidimensional\n\n1. Os fabricantes devem avaliar a qualidade da impressão da matriz de dados examinando, pelo menos, os seguintes parâmetros da matriz:\n\na) o contraste entre as partes claras e escuras;\n\nb) a uniformidade da refletância das partes claras e escuras;\n\nc) a não uniformidade axial;\n\nd) a não uniformidade da grelha;\n\ne) a correção de erros não utilizada;\n\nf) os defeitos do padrão fixo;\n\ng) a capacidade do algoritmo de descodificação de referência para descodificar a matriz de dados.\n\n2. Os fabricantes devem identificar a qualidade mínima da impressão que assegure a legibilidade correta da matriz de dados ao longo da cadeia de abastecimento durante, pelo menos, um ano após o termo do prazo de validade da embalagem ou cinco anos depois de a embalagem ter sido libertada para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado.\n\n3. Ao imprimir a matriz dos dados, os fabricantes não devem usar uma qualidade de impressão inferior à qualidade mínima referida no n.º 2.\n\n4. Presume-se que uma qualidade de impressão de pelo menos 1,5 em conformidade com a norma ISO/IEC 15415:2011 cumpre os requisitos estabelecidos no presente número."
+  },
+  "cea734898e5d7d6c": {
+   "fragment_id": "Artigo 7.º — Formato legível por pessoas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Formato legível por pessoas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formato legível por pessoas\n\n1. Os fabricantes devem imprimir na embalagem, num formato legível por pessoas, os seguintes elementos informativos do identificador único:\n\na) O código do produto;\n\nb) O número de série;\n\nc) O número nacional de reembolso ou outro número nacional que identifique o medicamento, se exigido pelo Estado-Membro em que o medicamento se destina a ser colocado no mercado e se este número não estiver impresso noutra parte da embalagem.\n\n2. O n.º 1 não é aplicável quando a soma das duas dimensões mais longas da embalagem for igual ou inferior a 10 centímetros.\n\n3. Quando a dimensão da embalagem o permitir, os elementos informativos legíveis por pessoas devem ser colocados junto ao código de barras bidimensional que contém o identificador único."
+  },
+  "808c3668d4c1a882": {
+   "fragment_id": "Artigo 8.º — Informações adicionais no código de barras bidimensional",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Informações adicionais no código de barras bidimensional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Informações adicionais no código de barras bidimensional\n\nOs fabricantes podem incluir outras informações além do identificador único no código de barras bidimensional que contém o identificador único, se autorizado pela autoridade competente, em conformidade com o título V da Diretiva 2001/83/CE."
+  },
+  "bb0da7042e5b6155": {
+   "fragment_id": "Artigo 9.º — Códigos de barras nas embalagens",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Códigos de barras nas embalagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Códigos de barras nas embalagens\n\nOs medicamentos que tenham de ser dotados de dispositivos de segurança nos termos do artigo 54.º-A da Diretiva 2001/83/CE não podem ostentar nas suas embalagens, para efeitos da sua identificação e verificação da sua autenticidade, qualquer outro código de barras bidimensional visível além do código de barras bidimensional que contém o identificador único."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "21e8d8ef4feb8fb6": {
+   "fragment_id": "DISPOSIÇÕES GERAIS RELATIVAS À VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS RELATIVAS À VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS RELATIVAS À VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA"
+  },
+  "90ea7507ab740db0": {
+   "fragment_id": "Artigo 10.º — Verificação dos dispositivos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Verificação dos dispositivos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Verificação dos dispositivos de segurança\n\nAquando da verificação dos dispositivos de segurança, os fabricantes, os grossistas e as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público devem verificar o seguinte:\n\na) a autenticidade do identificador único;\n\nb) a integridade do dispositivo de prevenção de adulterações."
+  },
+  "07e2e0b0133c47c3": {
+   "fragment_id": "Artigo 11.º — Verificação da autenticidade do identificador único",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Verificação da autenticidade do identificador único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Verificação da autenticidade do identificador único\n\nAo verificar a autenticidade de um identificador único, os fabricantes, os grossistas e as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público devem verificar o identificador único comparando-o com os identificadores únicos armazenados no sistema de repositórios referido no artigo 31.º. Um identificador único deve ser considerado autêntico quando o sistema de repositórios contiver um identificador único ativo com o código do produto e o número de série idênticos aos do identificador único objeto de verificação."
+  },
+  "bc3227b8015a9d0c": {
+   "fragment_id": "Artigo 12.º — Identificadores únicos desativados",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Identificadores únicos desativados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Identificadores únicos desativados\n\nUm medicamento com um identificador único que tenha sido desativado não pode continuar a ser distribuído ou fornecido ao público, exceto em qualquer uma das seguintes situações:\n\na) o identificador único foi desativado em conformidade com o artigo 22.º, alínea a), e o medicamento é distribuído para efeitos de exportação para fora da União;\n\nb) o identificador único foi desativado antes de o medicamento ser fornecido ao público, nos termos dos artigos 23.º, 26.º, 28.º ou 41.º;\n\nc) o identificador único foi desativado em conformidade com o artigo 22.º, alíneas b) ou c), ou com o artigo 40.º, e o medicamento é fornecido à pessoa responsável pela sua eliminação;\n\nd) o identificador único foi desativado em conformidade com o artigo 22.º, alínea d), e o medicamento é fornecido às autoridades nacionais competentes;"
+  },
+  "5438d0ba8c3ad72f": {
+   "fragment_id": "Artigo 13.º — Reverter o estado de um identificador único desativado",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Reverter o estado de um identificador único desativado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reverter o estado de um identificador único desativado\n\n1. Os fabricantes, grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público só podem reverter o estado de um identificador único desativado para o estado ativo se forem cumpridas as seguintes condições:\n\na) a pessoa que efetua a operação de reversão é abrangida pela mesma autorização ou habilitação e exerce a sua atividade nas mesmas instalações que a pessoa que desativou o identificador único;\n\nb) a reversão do estado tem de ser feita no prazo de dez dias após o identificador único ter sido desativado;\n\nc) a embalagem de medicamento está dentro do prazo de validade;\n\nd) a embalagem de medicamento não foi registada no sistema de repositórios como recolhida, retirada, destinada a ser destruída ou roubada, e a pessoa que efetua a operação de reversão não tem conhecimento de que a embalagem tenha sido roubada;\n\ne) O medicamento não foi fornecido ao público.\n\n2. Os medicamentos com um identificador único cujo estado não pode ser revertido para o estado ativo porque as condições estabelecidas no n.º 1 não foram cumpridas não podem ser restituídos às existências comerciáveis."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "f2906218eeed53eb": {
+   "fragment_id": "MODALIDADES DE VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA E DE DESATIVAÇÃO DO IDENTIFICADOR ÚNICO PELOS FABRICANTES",
+   "type": "divisao",
+   "heading": "MODALIDADES DE VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA E DE DESATIVAÇÃO DO IDENTIFICADOR ÚNICO PELOS FABRICANTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODALIDADES DE VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA E DE DESATIVAÇÃO DO IDENTIFICADOR ÚNICO PELOS FABRICANTES"
+  },
+  "2a4f1df5ab70532c": {
+   "fragment_id": "Artigo 14.º — Verificação do código de barras bidimensional",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Verificação do código de barras bidimensional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Verificação do código de barras bidimensional\n\nO fabricante que coloca os dispositivos de segurança deve verificar se o código de barras bidimensional com o identificador único cumpre o disposto nos artigos 5.º e 6.º, é legível e contém as informações corretas."
+  },
+  "68af90d50d6c5a3b": {
+   "fragment_id": "Artigo 15.º — Manutenção de registos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Manutenção de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Manutenção de registos\n\nO fabricante que coloca os dispositivos de segurança deve manter registos de todas as operações que efetua sobre o identificador único numa embalagem de um medicamento durante, pelo menos, um ano após o termo do prazo de validade da embalagem ou cinco anos depois de a embalagem ter sido libertada para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, se este for o período mais alargado, e deve apresentar esses registos às autoridades competentes que os solicitem."
+  },
+  "87efc012d7b23c1a": {
+   "fragment_id": "Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança\n\n1. Antes de remover ou tapar, parcial ou completamente, os dispositivos de segurança em conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, o fabricante deve verificar o seguinte:\n\na) a integridade do dispositivo de prevenção de adulterações;\n\nb) a autenticidade do identificador único, devendo desativá-lo se for substituído.\n\n2. Os fabricantes titulares de uma autorização de fabrico em conformidade com o artigo 40.º da Diretiva 2001/83/CE e de uma autorização de fabrico ou importação de medicamentos experimentais para a União, tal como previsto no artigo 61.º do Regulamento (UE) n.º 536/2014 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2016032PT.01000101-E0003), devem verificar os dispositivos de segurança e desativar o identificador único de uma embalagem de medicamentos antes de esta ser reembalada ou novamente rotulada para efeitos da sua utilização como medicamento experimental autorizado ou como medicamento auxiliar autorizado."
+  },
+  "bf96a7c1dcd2a15d": {
+   "fragment_id": "Artigo 17.º — Identificador único equivalente",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Identificador único equivalente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Identificador único equivalente\n\nAo colocar um identificador único equivalente para efeitos de cumprimento do disposto no artigo 47.º-A, n.º 1, alínea b), da Diretiva 2001/83/CE, o fabricante deve verificar se a estrutura e composição do identificador único colocado na embalagem cumpre, no que diz respeito ao código do produto e ao número de nacional reembolso ou outro número nacional que identifique o medicamento, os requisitos do Estado-Membro em que o medicamento se destina a ser colocado no mercado, de modo a que o identificador único possa ser verificado em termos de autenticidade e desativado."
+  },
+  "e331016fb445e60f": {
+   "fragment_id": "Artigo 18.º — Ações a empreender pelos fabricantes em caso de adulteração ou suspeita de falsificação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Ações a empreender pelos fabricantes em caso de adulteração ou suspeita de falsificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Ações a empreender pelos fabricantes em caso de adulteração ou suspeita de falsificação\n\nSempre que um fabricante tenha motivos para crer que a embalagem do medicamento foi adulterada, ou a verificação dos dispositivos de segurança revelar que o produto pode não ser autêntico, o fabricante não deve libertar o medicamento para venda ou distribuição, devendo informar imediatamente as autoridades competentes."
+  },
+  "6f3f83c3b033a241": {
+   "fragment_id": "Artigo 19.º — Disposições aplicáveis aos fabricantes que distribuem os seus produtos por grosso",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Disposições aplicáveis aos fabricantes que distribuem os seus produtos por grosso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições aplicáveis aos fabricantes que distribuem os seus produtos por grosso\n\nSe um fabricante distribuir os seus produtos por grosso, são-lhe aplicáveis o artigo 20.º, alínea a), e os artigos 22.º, 23.º e 24.º, além dos artigos 14.º a 18.º."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "ce03dfd226edf5ac": {
+   "fragment_id": "MODALIDADES DE VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA E DE DESATIVAÇÃO DO IDENTIFICADOR ÚNICO PELOS GROSSISTAS",
+   "type": "divisao",
+   "heading": "MODALIDADES DE VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA E DE DESATIVAÇÃO DO IDENTIFICADOR ÚNICO PELOS GROSSISTAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODALIDADES DE VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA E DE DESATIVAÇÃO DO IDENTIFICADOR ÚNICO PELOS GROSSISTAS"
+  },
+  "2f2d010f4b8a9dd9": {
+   "fragment_id": "Artigo 20.º — Verificação da autenticidade do identificador único pelos grossistas",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Verificação da autenticidade do identificador único pelos grossistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Verificação da autenticidade do identificador único pelos grossistas\n\nUm grossista deve verificar a autenticidade do identificador único de pelo menos os seguintes medicamentos que estejam na sua posse física:\n\na) medicamentos que lhe são devolvidos por pessoas autorizadas ou habilitadas a fornecer medicamentos ao público ou por outro grossista;\n\nb) medicamentos que recebe de um grossista que não é nem o fabricante nem o grossista titular da autorização de introdução no mercado, nem um grossista designado pelo titular da autorização de introdução no mercado, através de um contrato escrito, para armazenar e distribuir em seu nome os medicamentos abrangidos pela sua autorização de introdução no mercado."
+  },
+  "d4e98bee7c03f823": {
+   "fragment_id": "Artigo 21.º — Derrogações ao artigo 20.º, alínea b)",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Derrogações ao artigo 20.º, alínea b)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Derrogações ao artigo 20.º, alínea b)\n\nA verificação da autenticidade do identificador único de um medicamento nos termos do artigo 20.º, alínea b), não é exigida em nenhuma das seguintes situações:\n\na) o medicamento em causa muda de proprietário, mas permanece na posse física do mesmo grossista;\n\nb) o medicamento em causa é distribuído no território de um Estado-Membro entre dois entrepostos pertencentes ao mesmo grossista ou à mesma entidade legal e não se verifica qualquer venda."
+  },
+  "f646c5baff81800d": {
+   "fragment_id": "Artigo 22.º — Desativação dos identificadores únicos pelos grossistas",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Desativação dos identificadores únicos pelos grossistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Desativação dos identificadores únicos pelos grossistas\n\nUm grossista deve verificar a autenticidade e desativar o identificador único dos seguintes medicamentos:\n\na) medicamentos que ele tenciona distribuir fora da União;\n\nb) medicamentos que lhe tenham sido devolvidos por pessoas autorizadas ou habilitadas a fornecer medicamentos ao público ou por outro grossista e que não podem ser restituídos às existências comerciáveis;\n\nc) medicamentos que se destinam a ser destruídos;\n\nd) medicamentos que, apesar de estarem na sua posse física, são solicitados como amostra pelas autoridades competentes;\n\ne) medicamentos que ele tenciona distribuir às pessoas ou instituições referidas no artigo 23.º, quando exigido pela legislação nacional em conformidade com o mesmo artigo."
+  },
+  "966c3ea119815cc7": {
+   "fragment_id": "Artigo 23.º — Disposições para ter em conta caraterísticas específicas da cadeia de abastecimento dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Disposições para ter em conta caraterísticas específicas da cadeia de abastecimento dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposições para ter em conta caraterísticas específicas da cadeia de abastecimento dos Estados-Membros\n\nOs Estados-Membros podem exigir, quando necessário para ter em conta as características específicas da cadeia de abastecimento no seu território, que o grossista verifique os dispositivos de segurança e desative o identificador único de um medicamento antes de fornecer esse medicamento às pessoas ou instituições seguintes:\n\na) pessoas autorizadas ou habilitadas a fornecer medicamentos ao público que não exercem a sua atividade no âmbito de um estabelecimento de cuidados de saúde ou numa farmácia;\n\nb) veterinários e retalhistas de medicamentos veterinários;\n\nc) dentistas;\n\nd) optometristas e técnicos de ótica;\n\ne) paramédicos e médicos dos cuidados de emergência;\n\nf) forças armadas, polícia e outras instituições governamentais que guardam reservas de medicamentos para efeitos de proteção civil e controlo de catástrofes;\n\ng) universidades e outros estabelecimentos de ensino superior que utilizem medicamentos para fins de investigação e de educação, com exceção dos estabelecimentos de cuidados de saúde;\n\nh) estabelecimentos prisionais;\n\ni) estabelecimentos de ensino;\n\nj) instituições de cuidados paliativos;\n\nk) estabelecimentos de cuidados residenciais."
+  },
+  "2cc80361d4961dc5": {
+   "fragment_id": "Artigo 24.º — Ações a empreender pelos grossistas em caso de adulteração ou suspeita de falsificação",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Ações a empreender pelos grossistas em caso de adulteração ou suspeita de falsificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Ações a empreender pelos grossistas em caso de adulteração ou suspeita de falsificação\n\nUm grossista não pode fornecer ou exportar um medicamento se tiver motivos para crer que a embalagem foi adulterada ou quando a verificação dos dispositivos de segurança do medicamento indicar que o produto pode não ser autêntico. O grossista deve informar imediatamente as autoridades competentes relevantes."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "08eb25a936ab5a9f": {
+   "fragment_id": "MODALIDADES DE VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA E DE DESATIVAÇÃO DO IDENTIFICADOR ÚNICO POR PESSOAS AUTORIZADAS OU HABILITADAS A FORNECER MEDICAMENTOS AO PÚBLICO",
+   "type": "divisao",
+   "heading": "MODALIDADES DE VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA E DE DESATIVAÇÃO DO IDENTIFICADOR ÚNICO POR PESSOAS AUTORIZADAS OU HABILITADAS A FORNECER MEDICAMENTOS AO PÚBLICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODALIDADES DE VERIFICAÇÃO DOS DISPOSITIVOS DE SEGURANÇA E DE DESATIVAÇÃO DO IDENTIFICADOR ÚNICO POR PESSOAS AUTORIZADAS OU HABILITADAS A FORNECER MEDICAMENTOS AO PÚBLICO"
+  },
+  "7af975fdf1cb6edd": {
+   "fragment_id": "Artigo 25.º — Obrigações das pessoas autorizadas ou habilitadas a fornecer medicamentos ao público",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Obrigações das pessoas autorizadas ou habilitadas a fornecer medicamentos ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Obrigações das pessoas autorizadas ou habilitadas a fornecer medicamentos ao público\n\n1. As pessoas autorizadas ou habilitadas a fornecer medicamentos ao público devem verificar os dispositivos de segurança e desativar o identificador único dos medicamentos dotados de dispositivos de segurança no momento em que os fornecem ao público.\n\n2. Não obstante o disposto no n.º 1, as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público que exercem a sua atividade no âmbito de um estabelecimento de cuidados de saúde podem efetuar essa verificação e a desativação a qualquer momento enquanto o medicamento estiver na posse física do estabelecimento de cuidados de saúde, desde que não haja venda do medicamento entre a entrega do medicamento ao estabelecimento de cuidados de saúde e o seu fornecimento ao público.\n\n3. A fim de verificar a autenticidade do identificador único de um medicamento e desativar esse identificador único, as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público devem ligar-se ao sistema de repositórios referido no artigo 31.º através do repositório nacional ou supranacional que serve o território do Estado-Membro em que estão autorizadas ou habilitadas.\n\n4. Também devem verificar os dispositivos de segurança e desativar o identificador único dos seguintes medicamentos dotados de dispositivos de segurança:\n\na) medicamentos na sua posse física que não podem ser devolvidos aos grossistas ou aos fabricantes;\n\nb) medicamentos que, embora na sua posse física, são solicitados como amostra pelas autoridades competentes, em conformidade com a legislação nacional;\n\nc) medicamentos que eles fornecem para utilização subsequente como medicamentos experimentais autorizados ou medicamentos auxiliares autorizados, tal como definidos no artigo 2.º, n.^os^ 2, 9 e 10, do Regulamento (UE) n.º 536/2014."
+  },
+  "e7c4b7f73789dd9f": {
+   "fragment_id": "Artigo 26.º — Derrogações ao artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Derrogações ao artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Derrogações ao artigo 25.º\n\n1. As pessoas autorizadas ou habilitadas a fornecer medicamentos ao público estão isentas da obrigação de verificar os dispositivos de segurança e desativar o identificador único dos medicamentos que lhes são fornecidos como amostras gratuitas em conformidade com o artigo 96.º da Diretiva 2001/83/CE.\n\n2. As pessoas autorizadas ou habilitadas a fornecer medicamentos ao público que não exercem a sua atividade no âmbito de estabelecimentos de cuidados de saúde ou de farmácias estão isentas da obrigação de verificar os dispositivos de segurança e desativar o identificador único de medicamentos quando essa obrigação tiver sido atribuída aos grossistas pela legislação nacional em conformidade com o artigo 23.º\n\n3. Sem prejuízo do disposto no artigo 25.º, os Estados-Membros podem, sempre que necessário para ter em conta as características específicas da cadeia de abastecimento no seu território, decidir dispensar uma pessoa autorizada ou habilitada a fornecer medicamentos ao público que exerça a sua atividade no âmbito de estabelecimentos de cuidados de saúde das obrigações de verificação e desativação do identificador único, desde que estejam reunidas as seguintes condições:\n\na) a pessoa autorizada ou habilitada a fornecer medicamentos ao público obtém o medicamento com o identificador único por intermédio de um grossista pertencente à mesma entidade legal que o estabelecimento de cuidados de saúde;\n\na) a verificação e a desativação do identificador único são efetuadas pelo grossista que fornece o medicamento ao estabelecimento de cuidados de saúde;\n\nb) não se verifica qualquer transação comercial do medicamento entre o grossista que o fornece e o estabelecimento de cuidados de saúde;\n\nc) o medicamento é fornecido ao público nesse estabelecimento de cuidados de saúde."
+  },
+  "89eb3daea8841cda": {
+   "fragment_id": "Artigo 27.º — Obrigações ao aplicar as derrogações",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Obrigações ao aplicar as derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Obrigações ao aplicar as derrogações\n\nSe a verificação da autenticidade e a desativação do identificador único forem realizadas mais cedo do que o previsto no artigo 25.º, n.º 1, nos termos dos artigos 23.º ou 26.º, a integridade do dispositivo de prevenção de adulterações deve ser verificada no momento em que o medicamento é fornecido ao público."
+  },
+  "8c0515ec589ff6d8": {
+   "fragment_id": "Artigo 28.º — Obrigações ao fornecer apenas uma parte de uma embalagem",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Obrigações ao fornecer apenas uma parte de uma embalagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Obrigações ao fornecer apenas uma parte de uma embalagem\n\nSem prejuízo do disposto no artigo 25.º, n.º 1, quando as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público fornecem apenas uma parte da embalagem de um medicamento cujo identificador único não está desativado, devem verificar os dispositivos de segurança e desativar o identificador único quando a embalagem for aberta pela primeira vez."
+  },
+  "aa27f98c2832b800": {
+   "fragment_id": "Artigo 29.º — Obrigações em caso de impossibilidade de verificar a autenticidade do identificador único e de o desativar",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Obrigações em caso de impossibilidade de verificar a autenticidade do identificador único e de o desativar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Obrigações em caso de impossibilidade de verificar a autenticidade do identificador único e de o desativar\n\nSem prejuízo do disposto no artigo 25.º, n.º 1, quando problemas técnicos impeçam as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público de verificar a autenticidade de um identificador único e de o desativar no momento em que o medicamento com esse identificador único é fornecido ao público, as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público devem registar o identificador único e, assim que os problemas técnicos estejam resolvidos, devem verificar a sua autenticidade e desativá-lo."
+  },
+  "6a79d0ee86637dbd": {
+   "fragment_id": "Artigo 30.º — Medidas a tomar por pessoas autorizadas ou habilitadas a fornecer medicamentos ao público em caso de suspeita de falsificação",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Medidas a tomar por pessoas autorizadas ou habilitadas a fornecer medicamentos ao público em caso de suspeita de falsificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Medidas a tomar por pessoas autorizadas ou habilitadas a fornecer medicamentos ao público em caso de suspeita de falsificação\n\nQuando as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público tenham motivos para crer que a embalagem do medicamento foi adulterada, ou a verificação dos dispositivos de segurança do medicamento indicar que o produto pode não ser autêntico, as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público não devem fornecer o medicamento e devem informar imediatamente as autoridades competentes relevantes."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "ff9755ddf6dea7c6": {
+   "fragment_id": "CRIAÇÃO, GESTÃO E ACESSIBILIDADE DO SISTEMA DE REPOSITÓRIOS",
+   "type": "divisao",
+   "heading": "CRIAÇÃO, GESTÃO E ACESSIBILIDADE DO SISTEMA DE REPOSITÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRIAÇÃO, GESTÃO E ACESSIBILIDADE DO SISTEMA DE REPOSITÓRIOS"
+  },
+  "3e7eac2da2d9e24f": {
+   "fragment_id": "Artigo 31.º — Criação do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Criação do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Criação do sistema de repositórios\n\n1. O sistema de repositórios onde as informações sobre os dispositivos de segurança devem estar contidas, em conformidade com o artigo 54.º-A, n.º 2, alínea e), da Diretiva 2001/83/CE, deve ser criado e gerido por uma ou várias entidades legais sem fins lucrativos estabelecidas na União pelos fabricantes e titulares de autorizações de introdução no mercado de medicamentos dotados de dispositivos de segurança.\n\n2. Ao criar o sistema de repositórios, a entidade ou entidades legais a que se refere o n.º 1 devem consultar, pelo menos, os grossistas, as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público e as autoridades nacionais competentes.\n\n3. Os grossistas e as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público têm o direito de integrar a entidade ou entidades legais a que se refere o n.º 1, numa base voluntária, sem custos.\n\n4. A entidade ou entidades legais referidas no n.º 1 não devem exigir que os titulares de autorizações de introdução no mercado, os fabricantes, os grossistas ou as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público sejam membros de uma determinada organização ou organizações para utilizarem o sistema de repositórios.\n\n5. Os custos do sistema de repositórios devem ser suportados pelos fabricantes de medicamentos dotados de dispositivos de segurança, em conformidade com o artigo 54.º-A, n.º 2, alínea e), da Diretiva 2001/83/CE."
+  },
+  "cf830907de409857": {
+   "fragment_id": "Artigo 32.º — Estrutura do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Estrutura do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Estrutura do sistema de repositórios\n\n1. O sistema de repositórios deve ser composto pelos seguintes repositórios eletrónicos:\n\na) um encaminhador central de dados e informações («plataforma»);\n\nb) repositórios que servem o território de um Estado-Membro («repositórios nacionais») ou o território de vários Estados-Membros («repositórios supranacionais»). Estes repositórios devem estar ligados à plataforma.\n\n2. O número de repositórios nacionais e supranacionais deve ser suficiente para garantir que o território de cada Estado-Membro é servido por um repositório nacional ou supranacional.\n\n3. O sistema de repositórios deve incluir as infraestruturas informáticas, o *hardware* e o software necessários para permitir a execução das seguintes tarefas:\n\na) carregar, coligir, processar, modificar e armazenar as informações sobre os dispositivos de segurança que permitem verificar a autenticidade e identificar os medicamentos;\n\nb) identificar cada embalagem de medicamentos dotados dos dispositivos de segurança, verificar a autenticidade do identificador único nessa embalagem e desativá-lo em qualquer ponto da cadeia de abastecimento legal.\n\n4. O sistema de repositórios deve incluir as interfaces de programação de aplicações que permitem que os grossistas ou as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público consultem o sistema de repositórios através do *software*, para efeitos de verificação da autenticidade dos identificadores únicos e da sua desativação no sistema de repositórios. As interfaces de programação de aplicações devem também permitir que as autoridades nacionais competentes acedam ao sistema de repositórios através de *software*, em conformidade com o artigo 39.º.\n\nO sistema de repositórios deve incluir igualmente interfaces gráficas de utilizador que deem acesso direto ao sistema de repositórios em conformidade com o artigo 35.º, n.º 1, alínea i).\n\nO sistema de repositórios não inclui o equipamento físico de leitura ótica utilizado para ler o identificador único."
+  },
+  "d4f8910b25c2924e": {
+   "fragment_id": "Artigo 33.º — Introdução de informações no sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Introdução de informações no sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Introdução de informações no sistema de repositórios\n\n1. O titular da autorização de introdução no mercado, ou, no caso de medicamentos importados ou distribuídos em paralelo dotados de um identificador único equivalente para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, a pessoa responsável pela colocação desses medicamentos no mercado, deve assegurar que as informações referidas no n.º 2 são carregadas no sistema de repositórios antes de o medicamento ser libertado para venda ou distribuição pelo fabricante e que são mantidas atualizadas a partir dessa altura.\n\nAs informações devem ser armazenadas em todos os repositórios nacionais ou supranacionais que servem o território do Estado-Membro ou Estados-Membros em que o medicamento com o identificador único se destina a ser colocado no mercado. As informações referidas no n.º 2, alíneas a) a d), do presente artigo, com exceção do número de série, devem também ser armazenadas na plataforma.\n\n2. Devem ser carregadas no sistema de repositórios pelo menos as seguintes informações relativas a um medicamento dotado de um identificador único:\n\na) os elementos informativos do identificador único em conformidade com o artigo 4.º, alínea b);\n\nb) o sistema de codificação do código do produto;\n\nc) o nome e a denominação comum do medicamento, a forma farmacêutica, a dosagem, o tipo de embalagem e o tamanho da embalagem do medicamento, em conformidade com a terminologia referida no artigo 25.º, n.º 1, alíneas b) e e) a g), do Regulamento de Execução (UE) n.º 520/2012 da Comissão [([^4])](http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2016032PT.01000101-E0004);\n\nd) o Estado-Membro ou os Estados-Membros onde o medicamento se destina a ser colocado no mercado;\n\ne) se for caso disso, o código que identifica a entrada correspondente ao medicamento dotado do identificador único na base de dados referida no artigo 57.º, n.º 1, alínea l), do Regulamento (UE) n.º 726/2004 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2016032PT.01000101-E0005);\n\nf) nome e endereço do fabricante que coloca os dispositivos de segurança;\n\ng) nome e endereço do titular da autorização de introdução no mercado;\n\nh) uma lista dos grossistas designados pelo titular da autorização de introdução no mercado, através de um contrato escrito, para armazenar e distribuir os medicamentos abrangidos pela sua autorização de introdução no mercado em seu nome.\n\n3. As informações referidas no n.º 2 devem ser carregadas no sistema de repositórios quer através da plataforma, quer através de um repositório nacional ou supranacional.\n\nNos casos em que o carregamento é efetuado através da plataforma, esta deve conservar uma cópia das informações referidas no n.º 2, alíneas a) a d), com exceção do número de série, e transferir as informações completas para todos os repositórios nacionais ou supranacionais que servem o território do Estado-Membro ou Estados-Membros em que o medicamento com o identificador único se destina a ser colocado no mercado.\n\nNos casos em que o carregamento é efetuado através de um repositório nacional ou supranacional, esse repositório deve transferir imediatamente para a plataforma uma cópia das informações referidas no n.º 2, alíneas a) a d), com exceção do número de série, utilizando o formato de dados e as especificações de intercâmbio de dados definidos pela plataforma.\n\n4. As informações referidas no n.º 2 devem ser armazenadas nos repositórios em que foram originalmente carregadas durante, pelo menos, um ano após o termo do prazo de validade do medicamento ou cinco anos depois de o medicamento ter sido libertado para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado."
+  },
+  "93e8e230a36762eb": {
+   "fragment_id": "Artigo 34.º — Funcionamento da plataforma",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Funcionamento da plataforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Funcionamento da plataforma\n\n1. Cada repositório nacional ou supranacional do sistema de repositórios deve proceder ao intercâmbio de dados com a plataforma utilizando o formato de dados e as modalidades de intercâmbio de dados definidos pela plataforma.\n\n2. Quando a autenticidade do identificador único não puder ser verificada porque um repositório nacional ou supranacional não contém um identificador único com o código do produto e o número de série idênticos aos do identificador único que está a ser verificado, o repositório nacional ou supranacional deve transferir o pedido para a plataforma a fim de verificar se esse identificador único está armazenado noutra parte do sistema de repositórios.\n\nQuando a plataforma recebe o pedido, deve identificar, com base nas informações nela contidas, todos os repositórios nacionais ou supranacionais que servem o território do Estado-Membro ou Estados-Membros em que o medicamento com o identificador único se destinava a ser colocado no mercado, e deve transferir o pedido para esses repositórios.\n\nEm seguida, a plataforma deve transferir a resposta daqueles repositórios para o repositório que lançou o pedido.\n\n3. Quando notificada por um repositório nacional ou supranacional da mudança de estado de um identificador único, a plataforma deve assegurar a sincronização daquele estado entre os repositórios nacionais ou supranacionais que servem o território do Estado-Membro ou Estados-Membros em que o medicamento com o identificador único se destinava a ser colocado no mercado.\n\n4. Quando receber as informações referidas no artigo 35.º, n.º 4, a plataforma deve assegurar a ligação eletrónica dos números de lote antes e depois das operações de reembalagem ou de nova rotulagem ao conjunto de identificadores únicos desativados e ao conjunto de identificadores únicos equivalentes colocados."
+  },
+  "fa87cc57d5eeb3c9": {
+   "fragment_id": "Artigo 35.º — Características do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Características do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Características do sistema de repositórios\n\n1. Cada repositório do sistema de repositórios deve satisfazer as seguintes condições:\n\na) deve estar situado, fisicamente, no território da União;\n\nb) deve ser criado e gerido por uma entidade legal sem fins lucrativos estabelecida na União por fabricantes e titulares de autorizações de introdução no mercado de medicamentos dotados de dispositivos de segurança e, caso decidam participar, por grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público;\n\nc) deve ser totalmente interoperável com os outros repositórios que compõem o sistema de repositórios; para efeitos do presente capítulo, entende-se por interoperabilidade a plena integração funcional dos repositórios e o intercâmbio eletrónico de dados entre eles, independentemente do prestador de serviços utilizado;\n\nd) deve permitir a identificação eletrónica e a autenticação fiáveis de embalagens individuais de medicamentos pelos fabricantes, grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público, em conformidade com os requisitos do presente regulamento;\n\ne) deve dispor de interfaces de programação de aplicações capazes de transferir e intercambiar dados com o software utilizado pelos grossistas, pelas pessoas autorizadas ou habilitadas a fornecer medicamentos ao público e, se for caso disso, pelas autoridades nacionais competentes;\n\nf) quando os grossistas e as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público consultam o repositório para efeitos de verificação da autenticidade e de desativação de um identificador único, o tempo de resposta do repositório, sem considerar a velocidade da ligação à Internet, deve ser inferior a 300 milésimos de segundo em, pelo menos, 95 % das consultas. O desempenho do repositório deve permitir que os grossistas e as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público possam realizar as suas operações sem uma demora significativa;\n\ng) deve manter um registo completo («pista de auditoria») de todas as operações relacionadas com um identificador único, dos utilizadores que efetuam essas operações e da natureza das operações; a pista de auditoria deve ser criada quando o identificador único é carregado no repositório e ser conservada durante, pelo menos, um ano após o termo do prazo de validade do medicamento dotado do identificador único ou cinco anos depois de o medicamento ter sido libertado para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado;\n\nh) em conformidade com o artigo 38.º, a sua estrutura deve ser de molde a garantir a proteção dos dados pessoais e das informações comerciais de natureza confidencial e a propriedade e a confidencialidade dos dados gerados quando os fabricantes, titulares de autorizações de introdução no mercado, grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público interagirem com o repositório;\n\ni) deve incluir interfaces gráficas de utilizador que permitam o acesso direto pelos seguintes utilizadores verificados em conformidade com o artigo 37.º, alínea b): i) grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público, para fins de verificação da autenticidade do identificador único e da sua desativação em caso de avaria do seu próprio software, ii) autoridades nacionais competentes, para os fins referidos no artigo 39.º\n\ni) grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público, para fins de verificação da autenticidade do identificador único e da sua desativação em caso de avaria do seu próprio software,\n\nii) autoridades nacionais competentes, para os fins referidos no artigo 39.º\n\n2. Sempre que o estado de um identificador único de um medicamento destinado a ser colocado no mercado em mais de um Estado-Membro mude num repositório nacional ou supranacional, esse repositório deve imediatamente notificar a mudança de estado à plataforma, exceto em caso de desativação por titulares de autorizações de introdução no mercado em conformidade com os artigos 40.º ou 41.º\n\n3. Os repositórios nacionais ou supranacionais não devem permitir o carregamento ou o armazenamento de um identificador único que contenha o mesmo código do produto e número de série de outro identificador único já neles armazenado.\n\n4. Para cada lote de embalagens reembaladas ou novamente rotuladas de um medicamento no qual foram colocados identificadores únicos equivalentes para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, a pessoa responsável pela colocação do medicamento no mercado deve informar a plataforma do número ou números de lote das embalagens que devem ser reembaladas ou novamente rotuladas e dos identificadores únicos nessas embalagens. Deve, adicionalmente, informar a plataforma do número do lote resultante das operações de reembalagem ou de nova rotulagem e dos identificadores únicos equivalentes nesse lote."
+  },
+  "12d573909a71c355": {
+   "fragment_id": "Artigo 36.º — Operações do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Operações do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Operações do sistema de repositórios\n\nO sistema de repositórios deve permitir, pelo menos, as seguintes operações:\n\na) a verificação repetida da autenticidade de um identificador único ativo em conformidade com o artigo 11.º;\n\nb) o desencadear de um alerta no sistema e no terminal em que a verificação da autenticidade de um identificador único se realiza se essa verificação não confirmar que o identificador único é autêntico em conformidade com o artigo 11.º. Este tipo de caso deve ser marcado no sistema como um potencial incidente de falsificação, exceto se o medicamente estiver indicado no sistema como recolhido, retirado ou destinado a ser destruído;\n\nc) a desativação de um identificador único em conformidade com os requisitos do presente regulamento;\n\nd) as operações combinadas de identificação de uma embalagem de um medicamento com um identificador único e a verificação da autenticidade e a desativação desse identificador único;\n\ne) a identificação de uma embalagem de um medicamento dotado de um identificador único e a verificação da autenticidade e a desativação desse identificador único num Estado-Membro que não seja o Estado-Membro em que o medicamento dotado desse identificador único foi colocado no mercado;\n\nf) a leitura da informação contida no código de barras bidimensional que codifica o identificador único, a identificação do medicamento que ostenta o código de barras e a verificação do estado do identificador único, sem desencadear o alerta a que se refere a alínea b) do presente artigo;\n\ng) sem prejuízo do disposto no artigo 35.º, n.º 1, alínea h), o acesso pelos grossistas verificados à lista de grossistas referida no artigo 33.º, n.º 2, alínea h), para determinar se têm de verificar o identificador único de um dado medicamento;\n\nh) a verificação da autenticidade de um identificador único e a sua desativação consultando manualmente o sistema com os elementos do identificador único;\n\ni) o fornecimento imediato de informações relativas a um determinado identificador único às autoridades nacionais competentes e à Agência Europeia de Medicamentos, a pedido;\n\nj) a criação de relatórios que permitam às autoridades competentes verificar se os titulares de autorizações de introdução no mercado, fabricantes, grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público cumprem os requisitos do presente regulamento ou investigar potenciais casos de falsificação;\n\nk) a reversão do estado de um identificador único de desativado para ativo, sob reserva das condições referidas no artigo 13.º;\n\nl) a indicação de que um identificador único foi desativado;\n\nm) a indicação de que um medicamento foi recolhido, retirado, roubado, exportado, solicitado como amostra pelas autoridades nacionais competentes, indicado como amostra gratuita pelo titular da autorização de introdução no mercado ou que se destina a ser destruído;\n\nn) a ligação, por lotes de medicamentos, da informação sobre identificadores únicos removidos ou tapados, à informação sobre os identificadores únicos equivalentes colocados nesses medicamentos para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE;\n\no) a sincronização do estado de um identificador único entre os repositórios nacionais ou supranacionais que servem o território dos Estados-Membros em que esse medicamento se destina a ser colocado no mercado."
+  },
+  "0cf4e4ccb13b3d83": {
+   "fragment_id": "Artigo 37.º — Obrigações das entidades legais que criam e gerem um repositório que faz parte do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Obrigações das entidades legais que criam e gerem um repositório que faz parte do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Obrigações das entidades legais que criam e gerem um repositório que faz parte do sistema de repositórios\n\nQualquer entidade legal responsável pela criação e gestão de um repositório que faz parte do sistema de repositórios deve executar as seguintes ações:\n\na) informar as autoridades nacionais competentes em causa da sua intenção de situar fisicamente o repositório ou parte dele no seu território e notificá-las assim que o repositório estiver operacional;\n\nb) pôr em prática procedimentos de segurança que garantam que só os utilizadores cuja identidade, papel e legitimidade foram verificados podem aceder ao repositório ou carregar as informações referidas no artigo 33.º, n.º 2;\n\nc) monitorizar continuamente o repositório para detetar alertas de potenciais incidentes de falsificação, em conformidade com o artigo 36.º, alínea b);\n\nd) providenciar a investigação imediata de todos os potenciais incidentes de falsificação assinalados no sistema em conformidade com o artigo 36.º, alínea b), e alertar as autoridades competentes nacionais, a Agência Europeia de Medicamentos e a Comissão caso a falsificação seja confirmada;\n\ne) realizar auditorias regulares ao repositório a fim de verificar a sua conformidade com os requisitos do presente regulamento. As auditorias devem ter lugar pelo menos uma vez por ano durante os primeiros cinco anos após a entrada em vigor do presente regulamento no Estado-Membro em que o repositório está localizado fisicamente e, em seguida, pelo menos de três em três anos. Os resultados dessas auditorias devem ser apresentados às autoridades competentes, a seu pedido;\n\nf) disponibilizar imediatamente às autoridades competentes, a seu pedido, a pista de auditoria referida no artigo 35.º, n.º 1, alínea g);\n\ng) disponibilizar imediatamente às autoridades competentes, a seu pedido, os relatórios referidos no artigo 36.º, alínea j)."
+  },
+  "8cd6a28afa8df64a": {
+   "fragment_id": "Artigo 38.º — Proteção de dados e propriedade dos dados",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Proteção de dados e propriedade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Proteção de dados e propriedade dos dados\n\n1. Os fabricantes, os titulares de autorizações de introdução no mercado, os grossistas e as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público são responsáveis por todos os dados gerados quando interagem com o sistema de repositórios e armazenados na pista de auditoria. Só são proprietários e só podem ter acesso a esses mesmos dados, com exceção das informações referidas no artigo 33.º, n.º 2, e das informações sobre o estado dos identificadores únicos.\n\n2. A entidade legal que gere o repositório onde a pista de auditoria é armazenado não pode ter acesso à pista de auditoria e aos dados nela contidos sem o acordo escrito dos legítimos proprietários dos dados, exceto para efeitos de investigação de incidentes potenciais de falsificação assinalados no sistema em conformidade com o artigo 36.º, alínea b)."
+  },
+  "fce5dabf86d32cba": {
+   "fragment_id": "Artigo 39.º — Acesso pelas autoridades nacionais competentes",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Acesso pelas autoridades nacionais competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Acesso pelas autoridades nacionais competentes\n\nUma entidade legal responsável pela criação e gestão de um repositório utilizado para verificar a autenticidade ou desativar os identificadores únicos dos medicamentos colocados no mercado de um Estado-Membro deve conceder acesso a esse repositório e às informações nele contidas às autoridades competentes desse Estado-Membro para os seguintes fins:\n\na) supervisão do funcionamento dos repositórios e investigação de eventuais casos de falsificação;\n\nb) reembolsos;\n\nc) farmacovigilância ou farmacoepidemiologia."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "b8bec5b347cbf822": {
+   "fragment_id": "OBRIGAÇÕES DOS TITULARES DE AUTORIZAÇÕES DE INTRODUÇÃO NO MERCADO, IMPORTADORES PARALELOS E DISTRIBUIDORES PARALELOS",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DOS TITULARES DE AUTORIZAÇÕES DE INTRODUÇÃO NO MERCADO, IMPORTADORES PARALELOS E DISTRIBUIDORES PARALELOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DOS TITULARES DE AUTORIZAÇÕES DE INTRODUÇÃO NO MERCADO, IMPORTADORES PARALELOS E DISTRIBUIDORES PARALELOS"
+  },
+  "36d725a8a51e20ee": {
+   "fragment_id": "Artigo 40.º — Produtos recolhidos, retirados ou roubados",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Produtos recolhidos, retirados ou roubados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Produtos recolhidos, retirados ou roubados\n\nO titular da autorização de introdução no mercado, ou, no caso de medicamentos importados ou distribuídos em paralelo e dotados de um identificador único equivalente para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, a pessoa responsável pela colocação desses medicamentos no mercado, deve, de imediato, tomar as seguintes medidas:\n\na) assegurar a desativação do identificador único de um medicamento que deve ser recolhido ou retirado, em cada repositório nacional ou supranacional que serve o território do Estado-Membro ou dos Estados-Membros em que a recolha ou a retirada tem lugar;\n\nb) assegurar a desativação do identificador único, quando for conhecido, de um medicamento que tenha sido roubado, em cada repositório nacional ou supranacional em que estejam armazenadas informações sobre esse produto;\n\nc) indicar nos repositórios referidos nas alíneas a) e b) que esse medicamento foi recolhido, retirado ou roubado, conforme o caso."
+  },
+  "3169ac435eaa0919": {
+   "fragment_id": "Artigo 41.º — Medicamentos a fornecer sob a forma de amostras gratuitas",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Medicamentos a fornecer sob a forma de amostras gratuitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Medicamentos a fornecer sob a forma de amostras gratuitas\n\nO titular da autorização de introdução no mercado que tencione fornecer qualquer dos seus medicamentos como amostra gratuita em conformidade com o artigo 96.º da Diretiva 2001/83/CE deve, quando o medicamento seja dotado de dispositivos de segurança, indicar que se trata de uma amostra grátis no sistema de repositórios e assegurar a desativação do identificador único antes de o fornecer às pessoas habilitadas a receitá-lo."
+  },
+  "e39c533fb7088473": {
+   "fragment_id": "Artigo 42.º — Remoção de identificadores únicos do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Remoção de identificadores únicos do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Remoção de identificadores únicos do sistema de repositórios\n\nO titular da autorização de introdução no mercado, ou, no caso de medicamentos importados ou distribuídos em paralelo e dotados de um identificador único equivalente para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, a pessoa responsável pela colocação desses medicamentos no mercado, não pode carregar identificadores únicos no sistema de repositórios antes de remover do sistema, quando presentes, indentificadores únicos mais antigos com o mesmo código do produto e número de série dos identificadores únicos a carregar."
+  },
+  "066a8a7b3c446d0b": {
+   "fragment_id": "CAPÍTULO IX",
+   "type": "divisao",
+   "heading": "CAPÍTULO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IX"
+  },
+  "f06c15fc5939a59e": {
+   "fragment_id": "OBRIGAÇÕES DAS AUTORIDADES NACIONAIS COMPETENTES",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DAS AUTORIDADES NACIONAIS COMPETENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DAS AUTORIDADES NACIONAIS COMPETENTES"
+  },
+  "7e66bc4d95617769": {
+   "fragment_id": "Artigo 43.º — Informações a prestar pelas autoridades nacionais competentes",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Informações a prestar pelas autoridades nacionais competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Informações a prestar pelas autoridades nacionais competentes\n\nAs autoridades nacionais competentes devem disponibilizar as seguintes informações aos titulares de autorizações de introdução no mercado, fabricantes, grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público, a seu pedido:\n\na) os medicamentos colocados no mercado no seu território que devem ser dotados dos dispositivos de segurança em conformidade com a artigo 54.º, alínea o), da Diretiva 2001/83/CE e com o presente regulamento;\n\nb) os medicamentos sujeitos a receita médica ou a reembolso relativamente aos quais o âmbito de aplicação do identificador único é alargado para efeitos de reembolso ou farmacovigilância, em conformidade com o artigo 54.º-A, n.º 5, da Diretiva 2001/83/CE;\n\nc) os medicamentos relativamente aos quais o âmbito de aplicação do dispositivo de prevenção de adulterações é alargado para efeitos de segurança dos doentes, em conformidade com o artigo 54.º-A, n.º 5, da Diretiva 2001/83/CE."
+  },
+  "e659895aff5dbb54": {
+   "fragment_id": "Artigo 44.º — Supervisão do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Supervisão do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Supervisão do sistema de repositórios\n\n1. As autoridades nacionais competentes devem supervisionar o funcionamento de qualquer repositório situado fisicamente no seu território, a fim de verificar, se necessário através de inspeções, que o repositório e a entidade legal responsável pela criação e gestão do mesmo cumprem os requisitos do presente regulamento.\n\n2. Uma autoridade competente nacional pode delegar qualquer uma das suas obrigações ao abrigo do presente artigo na autoridade competente de outro Estado-Membro ou num terceiro, através de um acordo escrito.\n\n3. Quando um repositório que não esteja situado fisicamente no território de um Estado-Membro for utilizado para verificar a autenticidade de medicamentos colocados no mercado desse Estado-Membro, a autoridade competente desse Estado-Membro pode observar uma inspeção do repositório ou realizar uma inspeção independente, sob reserva do acordo do Estado-Membro onde o repositório se situa fisicamente.\n\n4. Uma autoridade nacional competente deve transmitir relatórios das atividades de supervisão à Agência Europeia de Medicamentos, que os disponibilizará às restantes autoridades nacionais competentes e à Comissão.\n\n5. As autoridades nacionais competentes podem contribuir para a gestão de qualquer repositório utilizado para identificar medicamentos e verificar a autenticidade ou desativar os identificadores únicos dos medicamentos introduzidos no mercado no território do seu Estado-Membro.\n\nAs autoridades nacionais competentes podem participar no conselho de administração das entidades legais que gerem os repositórios até perfazerem um terço dos membros do conselho de administração."
+  },
+  "63e36e9fa428ed4b": {
+   "fragment_id": "CAPÍTULO X",
+   "type": "divisao",
+   "heading": "CAPÍTULO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO X"
+  },
+  "2c963365f7bae3cd": {
+   "fragment_id": "LISTAS DE DERROGAÇÕES E NOTIFICAÇÕES À COMISSÃO",
+   "type": "divisao",
+   "heading": "LISTAS DE DERROGAÇÕES E NOTIFICAÇÕES À COMISSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTAS DE DERROGAÇÕES E NOTIFICAÇÕES À COMISSÃO"
+  },
+  "1e48d49dc5eeeb3f": {
+   "fragment_id": "Artigo 45.º — Listas de derrogações à obrigação de estar ou não dotado de dispositivos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Listas de derrogações à obrigação de estar ou não dotado de dispositivos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Listas de derrogações à obrigação de estar ou não dotado de dispositivos de segurança\n\n1. A lista de medicamentos ou categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos de segurança constam do anexo I do presente regulamento.\n\n2. A lista de medicamentos ou categorias de medicamentos não sujeitos a receita médica que devem ser dotados dos dispositivos de segurança constam do anexo II do presente regulamento."
+  },
+  "8d28d267e26f5457": {
+   "fragment_id": "Artigo 46.º — Notificações à Comissão",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Notificações à Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Notificações à Comissão\n\n1. As autoridades nacionais competentes devem notificar à Comissão os medicamentos não sujeitos a receita médica que considerem estar em risco de falsificação logo que se apercebam desse risco. Para esse efeito, devem utilizar o formulário constante do anexo III do presente regulamento.\n\n2. As autoridades nacionais competentes podem informar a Comissão de medicamentos que considerem não estar em risco de falsificação. Para esse efeito, devem utilizar o formulário constante do anexo IV do presente regulamento.\n\n3. Para efeitos das notificações referidas nos n.^os^ 1 e 2, as autoridades nacionais competentes devem efetuar uma avaliação dos riscos de falsificação e dos riscos decorrentes da falsificação, tendo em conta os critérios enunciados no artigo 54.º-A, n.º 2, alínea b), da Diretiva 2001/83/CE.\n\n4. Ao submeter à Comissão a notificação referida no n.º 1, as autoridades nacionais competentes devem fornecer à Comissão elementos de prova e documentos comprovativos da presença de casos de falsificação."
+  },
+  "9fdc7583d826b280": {
+   "fragment_id": "Artigo 47.º — Avaliação das notificações",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Avaliação das notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Avaliação das notificações\n\nSe, após uma notificação referida no artigo 46.º, a Comissão ou um Estado-Membro considerar, com base em mortes ou hospitalizações de cidadãos da União devido à exposição a medicamentos falsificados, que é necessário tomar rapidamente medidas para proteger a saúde pública, a Comissão avalia a notificação sem demora e o mais tardar no prazo de 45 dias."
+  },
+  "e04eea2e2268a242": {
+   "fragment_id": "CAPÍTULO XI",
+   "type": "divisao",
+   "heading": "CAPÍTULO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO XI"
+  },
+  "572847dcb985aa8d": {
+   "fragment_id": "MEDIDAS TRANSITÓRIAS E ENTRADA EM VIGOR",
+   "type": "divisao",
+   "heading": "MEDIDAS TRANSITÓRIAS E ENTRADA EM VIGOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS TRANSITÓRIAS E ENTRADA EM VIGOR"
+  },
+  "977442aa0afe66a5": {
+   "fragment_id": "Artigo 48.º — Medidas transitórias",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Medidas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Medidas transitórias\n\nOs medicamentos que tenham sido libertados para venda ou distribuição sem os dispositivos de segurança num Estado-Membro antes da data de aplicação do presente regulamento no referido Estado-Membro, e não tenham sido posteriormente reembalados ou novamente rotulados, podem ser colocados no mercado, distribuídos e fornecidos ao público nesse Estado-Membro até ao respetivo prazo de validade."
+  },
+  "694538da914397fa": {
+   "fragment_id": "Artigo 49.º — Aplicação nos Estados-Membros que dispõem já de sistemas para verificar a autenticidade dos medicamentos e identificar embalagem individuais",
+   "type": "artigo",
+   "heading": "Artigo 49.º — Aplicação nos Estados-Membros que dispõem já de sistemas para verificar a autenticidade dos medicamentos e identificar embalagem individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Aplicação nos Estados-Membros que dispõem já de sistemas para verificar a autenticidade dos medicamentos e identificar embalagem individuais\n\n1. Todos os Estados-Membros referidos no artigo 2.º, n.º 2, segundo parágrafo, alínea b), segunda frase, da Diretiva 2011/62/UE devem notificar à Comissão a data a partir da qual os artigos 1.º a 48.º do presente regulamento são aplicáveis no seu território em conformidade com o artigo 50.º, terceiro parágrafo. A notificação deve ser feita o mais tardar seis meses antes daquela data.\n\n2. A Comissão publica no *Jornal Oficial da União Europeia* um aviso de cada uma das datas que lhe são notificadas em conformidade com o n.º 1."
+  },
+  "8ba85e5b8804f197": {
+   "fragment_id": "Artigo 50.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 9 de fevereiro de 2019.\n\nTodavia, os Estados-Membros referidos no artigo 2.º, n.º 2, segundo parágrafo, alínea b), segunda frase, da Diretiva 2011/62/UE devem aplicar os artigos 1.º a 48.º do presente regulamento o mais tardar a partir de 9 de fevereiro de 2025.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 2 de outubro de 2015.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**Jean-Claude JUNCKER**\n\n---"
+  },
+  "6aec0961131e53cd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2016032PT.01000101-E0001) [JO L 311 de 28.11.2001, p. 67](http://publications.europa.eu/resource/oj/JOL_2001_311_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2016032PT.01000101-E0002) Diretiva 2011/62/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011, que altera a Diretiva 2001/83/CE que estabelece um código comunitário relativo aos medicamentos para uso humano, para impedir a introdução na cadeia de abastecimento legal, de medicamentos falsificados ([JO L 174 de 1.7.2011, p. 74](http://publications.europa.eu/resource/oj/JOL_2011_174_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2016032PT.01000101-E0003) Regulamento (UE) n.º 536/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativo aos ensaios clínicos de medicamentos para uso humano e que revoga a Diretiva 2001/20/CE ([JO L 158 de 27.5.2014, p. 1](http://publications.europa.eu/resource/oj/JOL_2014_158_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2016032PT.01000101-E0004) Regulamento de Execução (UE) n.º 520/2012 da Comissão, de 19 de junho de 2012, relativo à realização das atividades de farmacovigilância previstas no Regulamento (CE) n.º 726/2004 do Parlamento Europeu e do Conselho e na Diretiva 2001/83/CE do Parlamento Europeu e do Conselho ([JO L 159 de 20.6.2012, p. 5](http://publications.europa.eu/resource/oj/JOL_2012_159_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2016032PT.01000101-E0005) Regulamento (CE) n.º 726/2004 do Parlamento Europeu e do Conselho, de 31 de março de 2004, que estabelece procedimentos comunitários de autorização e de fiscalização de medicamentos para uso humano e veterinário e que institui uma Agência Europeia de Medicamentos ([JO L 136 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_136_R_TOC))."
+  },
+  "f93d171a47650918": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de outubro de 2015\n\nque complementa a Diretiva 2001/83/CE do Parlamento Europeu e do Conselho, estabelecendo regras pormenorizadas para os dispositivos de segurança que figuram nas embalagens dos medicamentos para uso humano\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "c7a1ba285687c82a": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1.\n\nO presente regulamento é aplicável:\n\na) aos medicamentos sujeitos a receita médica que devem ser dotados de dispositivos de segurança na embalagem, em conformidade com o artigo 54.º-A, n.º 1, da Diretiva 2001/83/CE, salvo se estiverem incluídos na lista constante do anexo I do presente regulamento;\n\nb) aos medicamentos não sujeitos a receita médica incluídos na lista constante do anexo II do presente regulamento;\n\nc) aos medicamentos aos quais os Estados-Membros alargaram o âmbito de aplicação do identificador único ou do dispositivo de prevenção de adulterações em conformidade com o artigo 54.º-A, n.º 5, da Diretiva 2001/83/CE.\n\n2. Para efeitos do presente regulamento, sempre que se faça referência à embalagem numa disposição do presente regulamento, essa disposição aplica-se à embalagem exterior, ou ao acondicionamento primário se o medicamento não tiver uma embalagem exterior."
+  },
+  "5f9d6ecea5aeac8b": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1. Para efeitos do presente regulamento, são aplicáveis as definições constantes do artigo 1.º da Diretiva 2001/83/CE.\n\n2.\n\nSão aplicáveis as seguintes definições:\n\na) «Identificador único», o dispositivo de segurança que permite a verificação da autenticidade e a identificação de uma embalagem individual de um medicamento;\n\nb) «Dispositivo de prevenção de adulterações», o dispositivo de segurança que permite verificar se a embalagem de um medicamento foi adulterada;\n\nc) «Desativação de um identificador único», a operação que altera o estado ativo de um identificador único armazenado no sistema de repositórios referido no artigo 31.º do presente regulamento, para um estado que impede qualquer nova verificação bem sucedida da autenticidade desse identificador único;\n\nd) «Identificador único ativo», um identificador único que não foi desativado ou que deixou de estar desativado;\n\ne) «Estado ativo», o estado de um identificador único ativo armazenado no sistema de repositórios referido no artigo 31.º;\n\nf) «Estabelecimento de cuidados de saúde», um hospital, uma clínica com regime de internamento ou ambulatório ou um centro de saúde."
+  },
+  "7865116b7dd5b76b": {
+   "fragment_id": "Artigo 4.º — Composição do identificador único",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Composição do identificador único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição do identificador único\n\nO fabricante deve colocar na embalagem de um medicamento um identificador único que cumpra as seguintes especificações técnicas:\n\na) o identificador único deve ser uma sequência de carateres numéricos ou alfanuméricos que é única para uma determinada embalagem de um medicamento;\n\nb) o identificador único deve ser constituído pelos seguintes elementos informativos:\n\ni) um código que permita identificar, pelo menos, o nome, a denominação comum, a forma farmacêutica, a dosagem, o tamanho da embalagem e o tipo de embalagem do medicamento dotado do identificador único («código do produto»),\n\nii) uma sequência numérica ou alfanumérica com, no máximo, 20 carateres, gerada por um algoritmo de aleatorização determinístico ou não determinístico («número de série»),\n\niii) um número nacional de comparticipação ou outro número nacional que identifique o medicamento, se exigido pelo Estado-Membro em que o produto se destina a ser colocado no mercado,\n\niv) o número do lote,\n\nv) o prazo de validade;\n\nc) a probabilidade de o número de série poder ser adivinhado deve ser insignificante e, em qualquer caso, inferior a uma em dez mil;\n\nd) a sequência de carateres resultante da combinação do código do produto e do número de série deve ser única para uma determinada embalagem de um medicamento durante, pelo menos, um ano após o termo do prazo de validade da embalagem ou cinco anos depois de a embalagem ter sido libertada para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado;\n\ne) se o número nacional de comparticipação ou outro número nacional que identifique o medicamento estiver contido no código do produto, não tem de ser repetido no identificador único."
+  },
+  "7ee0b069d245043d": {
+   "fragment_id": "Artigo 6.º — Qualidade da impressão do código de barras bidimensional",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Qualidade da impressão do código de barras bidimensional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Qualidade da impressão do código de barras bidimensional\n\n1.\n\nOs fabricantes devem avaliar a qualidade da impressão da matriz de dados examinando, pelo menos, os seguintes parâmetros da matriz:\n\na) o contraste entre as partes claras e escuras;\n\nb) a uniformidade da refletância das partes claras e escuras;\n\nc) a não uniformidade axial;\n\nd) a não uniformidade da grelha;\n\ne) a correção de erros não utilizada;\n\nf) os defeitos do padrão fixo;\n\ng) a capacidade do algoritmo de descodificação de referência para descodificar a matriz de dados.\n\n2. Os fabricantes devem identificar a qualidade mínima da impressão que assegure a legibilidade correta da matriz de dados ao longo da cadeia de abastecimento durante, pelo menos, um ano após o termo do prazo de validade da embalagem ou cinco anos depois de a embalagem ter sido libertada para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado.\n\n3. Ao imprimir a matriz dos dados, os fabricantes não devem usar uma qualidade de impressão inferior à qualidade mínima referida no n.º 2.\n\n4. Presume-se que uma qualidade de impressão de pelo menos 1,5 em conformidade com a norma ISO/IEC 15415:2011 cumpre os requisitos estabelecidos no presente número."
+  },
+  "233b398d8b5ba196": {
+   "fragment_id": "Artigo 7.º — Formato legível por pessoas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Formato legível por pessoas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formato legível por pessoas\n\n1.\n\nOs fabricantes devem imprimir na embalagem, num formato legível por pessoas, os seguintes elementos informativos do identificador único:\n\na) O código do produto;\n\nb) O número de série;\n\nc) O número nacional de comparticipação ou outro número nacional que identifique o medicamento, se exigido pelo Estado-Membro em que o medicamento se destina a ser colocado no mercado e se este número não estiver impresso noutra parte da embalagem.\n\n2. O n.º 1 não é aplicável quando a soma das duas dimensões mais longas da embalagem for igual ou inferior a 10 centímetros.\n\n3. Quando a dimensão da embalagem o permitir, os elementos informativos legíveis por pessoas devem ser colocados junto ao código de barras bidimensional que contém o identificador único."
+  },
+  "89efbfd38e469fb0": {
+   "fragment_id": "Artigo 12.º — Identificadores únicos desativados",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Identificadores únicos desativados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Identificadores únicos desativados\n\nUm medicamento com um identificador único que tenha sido desativado não pode continuar a ser distribuído ou fornecido ao público, exceto nas seguintes situações:\n\na) o identificador único foi desativado em conformidade com o artigo 22.º, alínea a), e o medicamento é distribuído para efeitos de exportação para fora da União;\n\nb) o identificador único foi desativado antes de o medicamento ser fornecido ao público, nos termos dos artigos 23.º, 26.º, 28.º ou 41.º;\n\nc) o identificador único foi desativado em conformidade com o artigo 22.º, alíneas b) ou c), ou com o artigo 40.º, e o medicamento é fornecido à pessoa responsável pela sua eliminação;\n\nd) o identificador único foi desativado em conformidade com o artigo 22.º, alínea d), e o medicamento é fornecido às autoridades nacionais competentes;"
+  },
+  "af044fd9245ca01b": {
+   "fragment_id": "Artigo 13.º — Reverter o estado de um identificador único desativado",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Reverter o estado de um identificador único desativado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reverter o estado de um identificador único desativado\n\n1.\n\nOs fabricantes, grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público só podem reverter o estado de um identificador único desativado para o estado ativo se forem cumpridas as seguintes condições:\n\na) a pessoa que efetua a operação de reversão é abrangida pela mesma autorização ou habilitação e exerce a sua atividade nas mesmas instalações que a pessoa que desativou o identificador único;\n\nb) a reversão do estado tem de ser feita no prazo de dez dias após o identificador único ter sido desativado;\n\nc) a embalagem de medicamento está dentro do prazo de validade;\n\nd) a embalagem de medicamento não foi registada no sistema de repositórios como recolhida, retirada, destinada a ser destruída ou roubada, e a pessoa que efetua a operação de reversão não tem conhecimento de que a embalagem tenha sido roubada;\n\ne) O medicamento não foi fornecido ao público.\n\n2. Os medicamentos com um identificador único cujo estado não pode ser revertido para o estado ativo porque as condições estabelecidas no n.º 1 não foram cumpridas não podem ser restituídos às existências comerciáveis."
+  },
+  "53fdb36c5d726c24": {
+   "fragment_id": "Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança\n\n1.\n\nAntes de remover ou tapar, parcial ou completamente, os dispositivos de segurança em conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, o fabricante deve verificar o seguinte:\n\na) a integridade do dispositivo de prevenção de adulterações;\n\nb) a autenticidade do identificador único, devendo desativá-lo se for substituído.\n\n2. Os fabricantes titulares de uma autorização de fabrico em conformidade com o artigo 40.º da Diretiva 2001/83/CE e de uma autorização de fabrico ou importação de medicamentos experimentais para a União, tal como previsto no artigo 61.º do Regulamento (UE) n.º 536/2014 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/80c17061-9c66-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#E0001)), devem verificar os dispositivos de segurança e desativar o identificador único de uma embalagem de medicamentos antes de esta ser reembalada ou novamente rotulada para efeitos da sua utilização como medicamento experimental autorizado ou como medicamento auxiliar autorizado."
+  },
+  "ed07859016f02da6": {
+   "fragment_id": "Artigo 17.º — Identificador único equivalente",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Identificador único equivalente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Identificador único equivalente\n\nAo colocar um identificador único equivalente para efeitos de cumprimento do disposto no artigo 47.º-A, n.º 1, alínea b), da Diretiva 2001/83/CE, o fabricante deve verificar se a estrutura e composição do identificador único colocado na embalagem cumpre, no que diz respeito ao código do produto e ao número de nacional comparticipação ou outro número nacional que identifique o medicamento, os requisitos do Estado-Membro em que o medicamento se destina a ser colocado no mercado, de modo a que o identificador único possa ser verificado em termos de autenticidade e desativado."
+  },
+  "4ec7c3552900e682": {
+   "fragment_id": "Artigo 22.º — Desativação dos identificadores únicos pelos grossistas",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Desativação dos identificadores únicos pelos grossistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Desativação dos identificadores únicos pelos grossistas\n\nUm grossista deve verificar a autenticidade e desativar o identificador único dos seguintes medicamentos:\n\na) medicamentos que ele tenciona distribuir fora da União;\n\nb) medicamentos que lhe tenham sido devolvidos por pessoas autorizadas ou habilitadas a fornecer medicamentos ao público ou por outro grossista e que não podem ser restituídos às existências comerciáveis;\n\nc) medicamentos que se destinam a ser destruídos;\n\nd) medicamentos que, apesar de estarem na sua posse física, são solicitados como amostra pelas autoridades competentes;\n\ne) medicamentos que ele tenciona distribuir às pessoas ou instituições referidas no artigo 23.º, quando exigido pela legislação nacional em conformidade com o mesmo artigo.\n\nEm derrogação da alínea a), de 1 de janeiro de 2021 a 31 de dezembro de 2021, a obrigação de desativar o identificador único de medicamentos que o grossista tencione distribuir fora da União não se aplica aos produtos que este tencione distribuir no Reino Unido ([^2^](http://publications.europa.eu/resource/cellar/80c17061-9c66-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#E0002))."
+  },
+  "6e2b3a324edf5538": {
+   "fragment_id": "Artigo 25.º — Obrigações das pessoas autorizadas ou habilitadas a fornecer medicamentos ao público",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Obrigações das pessoas autorizadas ou habilitadas a fornecer medicamentos ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Obrigações das pessoas autorizadas ou habilitadas a fornecer medicamentos ao público\n\n1. As pessoas autorizadas ou habilitadas a fornecer medicamentos ao público devem verificar os dispositivos de segurança e desativar o identificador único dos medicamentos dotados de dispositivos de segurança no momento em que os fornecem ao público.\n\n2. Não obstante o disposto no n.º 1, as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público que exercem a sua atividade no âmbito de um estabelecimento de cuidados de saúde podem efetuar essa verificação e a desativação a qualquer momento enquanto o medicamento estiver na posse física do estabelecimento de cuidados de saúde, desde que não haja venda do medicamento entre a entrega do medicamento ao estabelecimento de cuidados de saúde e o seu fornecimento ao público.\n\n3. A fim de verificar a autenticidade do identificador único de um medicamento e desativar esse identificador único, as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público devem ligar-se ao sistema de repositórios referido no artigo 31.º através do repositório nacional ou supranacional que serve o território do Estado-Membro em que estão autorizadas ou habilitadas.\n\n4.\n\nTambém devem verificar os dispositivos de segurança e desativar o identificador único dos seguintes medicamentos dotados de dispositivos de segurança:\n\na) medicamentos na sua posse física que não podem ser devolvidos aos grossistas ou aos fabricantes;\n\nb) medicamentos que, embora na sua posse física, são solicitados como amostra pelas autoridades competentes, em conformidade com a legislação nacional;\n\nc) medicamentos que eles fornecem para utilização subsequente como medicamentos experimentais autorizados ou medicamentos auxiliares autorizados, tal como definidos no artigo 2.º, n.^os^ 2, 9 e 10, do Regulamento (UE) n.º 536/2014."
+  },
+  "97527c2d6c488409": {
+   "fragment_id": "Artigo 26.º — Derrogações ao artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Derrogações ao artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Derrogações ao artigo 25.º\n\n1. As pessoas autorizadas ou habilitadas a fornecer medicamentos ao público estão isentas da obrigação de verificar os dispositivos de segurança e desativar o identificador único dos medicamentos que lhes são fornecidos como amostras gratuitas em conformidade com o artigo 96.º da Diretiva 2001/83/CE.\n\n2. As pessoas autorizadas ou habilitadas a fornecer medicamentos ao público que não exercem a sua atividade no âmbito de estabelecimentos de cuidados de saúde ou de farmácias estão isentas da obrigação de verificar os dispositivos de segurança e desativar o identificador único de medicamentos quando essa obrigação tiver sido atribuída aos grossistas pela legislação nacional em conformidade com o artigo 23.º\n\n3.\n\nSem prejuízo do disposto no artigo 25.º, os Estados-Membros podem, sempre que necessário para ter em conta as características específicas da cadeia de abastecimento no seu território, decidir dispensar uma pessoa autorizada ou habilitada a fornecer medicamentos ao público que exerça a sua atividade no âmbito de estabelecimentos de cuidados de saúde das obrigações de verificação e desativação do identificador único, desde que estejam reunidas as seguintes condições:\n\na) a pessoa autorizada ou habilitada a fornecer medicamentos ao público obtém o medicamento com o identificador único por intermédio de um grossista pertencente à mesma entidade legal que o estabelecimento de cuidados de saúde;\n\nb) a verificação e a desativação do identificador único são efetuadas pelo grossista que fornece o medicamento ao estabelecimento de cuidados de saúde;\n\nc) não se verifica qualquer transação comercial do medicamento entre o grossista que o fornece e o estabelecimento de cuidados de saúde;\n\nd) o medicamento é fornecido ao público nesse estabelecimento de cuidados de saúde."
+  },
+  "362c5e297baaa52f": {
+   "fragment_id": "Artigo 32.º — Estrutura do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Estrutura do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Estrutura do sistema de repositórios\n\n1.\n\nO sistema de repositórios deve ser composto pelos seguintes repositórios eletrónicos:\n\na) um encaminhador central de dados e informações («plataforma»);\n\nb) repositórios que servem o território de um Estado-Membro («repositórios nacionais») ou o território de vários Estados-Membros («repositórios supranacionais»). Estes repositórios devem estar ligados à plataforma.\n\n2. O número de repositórios nacionais e supranacionais deve ser suficiente para garantir que o território de cada Estado-Membro é servido por um repositório nacional ou supranacional.\n\n3.\n\nO sistema de repositórios deve incluir as infraestruturas informáticas, o *hardware* e o software necessários para permitir a execução das seguintes tarefas:\n\na) carregar, coligir, processar, modificar e armazenar as informações sobre os dispositivos de segurança que permitem verificar a autenticidade e identificar os medicamentos;\n\nb) identificar cada embalagem de medicamentos dotados dos dispositivos de segurança, verificar a autenticidade do identificador único nessa embalagem e desativá-lo em qualquer ponto da cadeia de abastecimento legal.\n\n4. O sistema de repositórios deve incluir as interfaces de programação de aplicações que permitem que os grossistas ou as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público consultem o sistema de repositórios através do *software*, para efeitos de verificação da autenticidade dos identificadores únicos e da sua desativação no sistema de repositórios. As interfaces de programação de aplicações devem também permitir que as autoridades nacionais competentes acedam ao sistema de repositórios através de *software*, em conformidade com o artigo 39.º.\n\nO sistema de repositórios deve incluir igualmente interfaces gráficas de utilizador que deem acesso direto ao sistema de repositórios em conformidade com o artigo 35.º, n.º 1, alínea i).\n\nO sistema de repositórios não inclui o equipamento físico de leitura ótica utilizado para ler o identificador único."
+  },
+  "bfa23962dcf4cf9a": {
+   "fragment_id": "Artigo 33.º — Introdução de informações no sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Introdução de informações no sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Introdução de informações no sistema de repositórios\n\n1. O titular da autorização de introdução no mercado, ou, no caso de importação ou distribuição paralelas de medicamentos dotados de um identificador único equivalente para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, a pessoa responsável pela colocação desses medicamentos no mercado, deve assegurar que as informações referidas no n.º 2 são carregadas no sistema de repositórios antes de o medicamento ser libertado para venda ou distribuição pelo fabricante e que são mantidas atualizadas a partir dessa altura.\n\nAs informações devem ser armazenadas em todos os repositórios nacionais ou supranacionais que servem o território do Estado-Membro ou Estados-Membros em que o medicamento com o identificador único se destina a ser colocado no mercado. As informações referidas no n.º 2, alíneas a) a d), do presente artigo, com exceção do número de série, devem também ser armazenadas na plataforma.\n\n2.\n\nDevem ser carregadas no sistema de repositórios pelo menos as seguintes informações relativas a um medicamento dotado de um identificador único:\n\na) os elementos informativos do identificador único em conformidade com o artigo 4.º, alínea b);\n\nb) o sistema de codificação do código do produto;\n\nc) o nome e a denominação comum do medicamento, a forma farmacêutica, a dosagem, o tipo de embalagem e o tamanho da embalagem do medicamento, em conformidade com a terminologia referida no artigo 25.º, n.º 1, alíneas b) e e) a g), do Regulamento de Execução (UE) n.º 520/2012 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/80c17061-9c66-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#E0003));\n\nd) o Estado-Membro ou os Estados-Membros onde o medicamento se destina a ser colocado no mercado;\n\ne) se for caso disso, o código que identifica a entrada correspondente ao medicamento dotado do identificador único na base de dados referida no artigo 57.º, n.º 1, alínea l), do Regulamento (UE) n.º 726/2004 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/80c17061-9c66-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#E0004));\n\nf) nome e endereço do fabricante que coloca os dispositivos de segurança;\n\ng) nome e endereço do titular da autorização de introdução no mercado;\n\nh) uma lista dos grossistas designados pelo titular da autorização de introdução no mercado, através de um contrato escrito, para armazenar e distribuir os medicamentos abrangidos pela sua autorização de introdução no mercado em seu nome.\n\n3. As informações referidas no n.º 2 devem ser carregadas no sistema de repositórios quer através da plataforma, quer através de um repositório nacional ou supranacional.\n\nNos casos em que o carregamento é efetuado através da plataforma, esta deve conservar uma cópia das informações referidas no n.º 2, alíneas a) a d), com exceção do número de série, e transferir as informações completas para todos os repositórios nacionais ou supranacionais que servem o território do Estado-Membro ou Estados-Membros em que o medicamento com o identificador único se destina a ser colocado no mercado.\n\nNos casos em que o carregamento é efetuado através de um repositório nacional ou supranacional, esse repositório deve transferir imediatamente para a plataforma uma cópia das informações referidas no n.º 2, alíneas a) a d), com exceção do número de série, utilizando o formato de dados e as especificações de intercâmbio de dados definidos pela plataforma.\n\n4. As informações referidas no n.º 2 devem ser armazenadas nos repositórios em que foram originalmente carregadas durante, pelo menos, um ano após o termo do prazo de validade do medicamento ou cinco anos depois de o medicamento ter sido libertado para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado."
+  },
+  "eb50639f1a35c65f": {
+   "fragment_id": "Artigo 35.º — Características do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Características do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Características do sistema de repositórios\n\n1.\n\nCada repositório do sistema de repositórios deve satisfazer as seguintes condições:\n\na) deve estar situado, fisicamente, no território da União;\n\nb) deve ser criado e gerido por uma entidade legal sem fins lucrativos estabelecida na União por fabricantes e titulares de autorizações de introdução no mercado de medicamentos dotados de dispositivos de segurança e, caso decidam participar, por grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público;\n\nc) deve ser totalmente interoperável com os outros repositórios que compõem o sistema de repositórios; para efeitos do presente capítulo, entende-se por interoperabilidade a plena integração funcional dos repositórios e o intercâmbio eletrónico de dados entre eles, independentemente do prestador de serviços utilizado;\n\nd) deve permitir a identificação eletrónica e a autenticação fiáveis de embalagens individuais de medicamentos pelos fabricantes, grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público, em conformidade com os requisitos do presente regulamento;\n\ne) deve dispor de interfaces de programação de aplicações capazes de transferir e intercambiar dados com o software utilizado pelos grossistas, pelas pessoas autorizadas ou habilitadas a fornecer medicamentos ao público e, se for caso disso, pelas autoridades nacionais competentes;\n\nf) quando os grossistas e as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público consultam o repositório para efeitos de verificação da autenticidade e de desativação de um identificador único, o tempo de resposta do repositório, sem considerar a velocidade da ligação à Internet, deve ser inferior a 300 milésimos de segundo em, pelo menos, 95 % das consultas. O desempenho do repositório deve permitir que os grossistas e as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público possam realizar as suas operações sem uma demora significativa;\n\ng) deve manter um registo completo («pista de auditoria») de todas as operações relacionadas com um identificador único, dos utilizadores que efetuam essas operações e da natureza das operações; a pista de auditoria deve ser criada quando o identificador único é carregado no repositório e ser conservada durante, pelo menos, um ano após o termo do prazo de validade do medicamento dotado do identificador único ou cinco anos depois de o medicamento ter sido libertado para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado;\n\nh) em conformidade com o artigo 38.º, a sua estrutura deve ser de molde a garantir a proteção dos dados pessoais e das informações comerciais de natureza confidencial e a propriedade e a confidencialidade dos dados gerados quando os fabricantes, titulares de autorizações de introdução no mercado, grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público interagirem com o repositório;\n\ni) deve incluir interfaces gráficas de utilizador que permitam o acesso direto pelos seguintes utilizadores verificados em conformidade com o artigo 37.º, alínea b):\n\ni) grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público, para fins de verificação da autenticidade do identificador único e da sua desativação em caso de avaria do seu próprio software,\n\nii) autoridades nacionais competentes, para os fins referidos no artigo 39.º\n\n2. Sempre que o estado de um identificador único de um medicamento destinado a ser colocado no mercado em mais de um Estado-Membro mude num repositório nacional ou supranacional, esse repositório deve imediatamente notificar a mudança de estado à plataforma, exceto em caso de desativação por titulares de autorizações de introdução no mercado em conformidade com os artigos 40.º ou 41.º\n\n3. Os repositórios nacionais ou supranacionais não devem permitir o carregamento ou o armazenamento de um identificador único que contenha o mesmo código do produto e número de série de outro identificador único já neles armazenado.\n\n4. Para cada lote de embalagens reembaladas ou novamente rotuladas de um medicamento no qual foram colocados identificadores únicos equivalentes para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, a pessoa responsável pela colocação do medicamento no mercado deve informar a plataforma do número ou números de lote das embalagens que devem ser reembaladas ou novamente rotuladas e dos identificadores únicos nessas embalagens. Deve, adicionalmente, informar a plataforma do número do lote resultante das operações de reembalagem ou de nova rotulagem e dos identificadores únicos equivalentes nesse lote."
+  },
+  "9dafbe84746d300f": {
+   "fragment_id": "Artigo 39.º — Acesso pelas autoridades nacionais competentes",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Acesso pelas autoridades nacionais competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Acesso pelas autoridades nacionais competentes\n\nUma entidade legal responsável pela criação e gestão de um repositório utilizado para verificar a autenticidade ou desativar os identificadores únicos dos medicamentos colocados no mercado de um Estado-Membro deve conceder acesso a esse repositório e às informações nele contidas às autoridades competentes desse Estado-Membro para os seguintes fins:\n\na) supervisão do funcionamento dos repositórios e investigação de eventuais casos de falsificação;\n\nb) comparticipações;\n\nc) farmacovigilância ou farmacoepidemiologia."
+  },
+  "db61697daa65cbc5": {
+   "fragment_id": "Artigo 40.º — Produtos recolhidos, retirados ou roubados",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Produtos recolhidos, retirados ou roubados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Produtos recolhidos, retirados ou roubados\n\nO titular da autorização de introdução no mercado, ou, no caso de importação ou distribuição paralelas de medicamentos dotados de um identificador único equivalente para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, a pessoa responsável pela colocação desses medicamentos no mercado, deve, de imediato, tomar as seguintes medidas:\n\na) assegurar a desativação do identificador único de um medicamento que deve ser recolhido ou retirado, em cada repositório nacional ou supranacional que serve o território do Estado-Membro ou dos Estados-Membros em que a recolha ou a retirada tem lugar;\n\nb) assegurar a desativação do identificador único, quando for conhecido, de um medicamento que tenha sido roubado, em cada repositório nacional ou supranacional em que estejam armazenadas informações sobre esse produto;\n\nc) indicar nos repositórios referidos nas alíneas a) e b) que esse medicamento foi recolhido, retirado ou roubado, conforme o caso."
+  },
+  "857edafa745ec7ce": {
+   "fragment_id": "Artigo 42.º — Remoção de identificadores únicos do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Remoção de identificadores únicos do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Remoção de identificadores únicos do sistema de repositórios\n\nO titular da autorização de introdução no mercado, ou, no caso de importação ou distribuição paralelas de medicamentos dotados de um identificador único equivalente para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, a pessoa responsável pela colocação desses medicamentos no mercado, não pode carregar identificadores únicos no sistema de repositórios antes de remover do sistema, quando presentes, indentificadores únicos mais antigos com o mesmo código do produto e número de série dos identificadores únicos a carregar."
+  },
+  "a569442f1a915fbb": {
+   "fragment_id": "Artigo 43.º — Informações a prestar pelas autoridades nacionais competentes",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Informações a prestar pelas autoridades nacionais competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Informações a prestar pelas autoridades nacionais competentes\n\nAs autoridades nacionais competentes devem disponibilizar as seguintes informações aos titulares de autorizações de introdução no mercado, fabricantes, grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público, a seu pedido:\n\na) os medicamentos colocados no mercado no seu território que devem ser dotados dos dispositivos de segurança em conformidade com a artigo 54.º, alínea o), da Diretiva 2001/83/CE e com o presente regulamento;\n\nb) os medicamentos sujeitos a receita médica ou a comparticipação relativamente aos quais o âmbito de aplicação do identificador único é alargado para efeitos de comparticipação ou farmacovigilância, em conformidade com o artigo 54.º-A, n.º 5, da Diretiva 2001/83/CE;\n\nc) os medicamentos relativamente aos quais o âmbito de aplicação do dispositivo de prevenção de adulterações é alargado para efeitos de segurança dos doentes, em conformidade com o artigo 54.º-A, n.º 5, da Diretiva 2001/83/CE."
+  },
+  "a64a371608a445a4": {
+   "fragment_id": "Artigo 50.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 9 de fevereiro de 2019.\n\nTodavia, os Estados-Membros referidos no artigo 2.º, n.º 2, segundo parágrafo, alínea b), segunda frase, da Diretiva 2011/62/UE devem aplicar os artigos 1.º a 48.º do presente regulamento o mais tardar a partir de 9 de fevereiro de 2025.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "c5eabb63b420a808": {
+   "fragment_id": "Lista de medicamentos ou categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 1",
+   "type": "divisao",
+   "heading": "Lista de medicamentos ou categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de medicamentos ou categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 1\n\n| Nome da substância ativa ou categoria de medicamentos | Forma farmacêutica | Dosagem | Observações |\n| --- | --- | --- | --- |\n| Medicamentos homeopáticos | Qualquer | Qualquer |  |\n| Geradores de radionuclídeos | Qualquer | Qualquer |  |\n| Kits | Qualquer | Qualquer |  |\n| Precursores de radionuclídeos | Qualquer | Qualquer |  |\n| Medicamentos de terapia avançada que contêm ou consistem em tecidos ou células | Qualquer | Qualquer |  |\n| Gases medicinais | Gás medicinal | Qualquer |  |\n| Soluções para alimentação parenteral com um código ATC (Anatomical Therapeutical Chemical) que começa por B05BA | Solução para perfusão | Qualquer |  |\n| Soluções que afetam o equilíbrio dos eletrólitos com um código ATC que começa por B05BB | Solução para perfusão | Qualquer |  |\n| Soluções que produzem diurese osmótica com um código ATC que começa por B05BC | Solução para perfusão | Qualquer |  |\n| Aditivos de soluções intravenosas com um código ATC que começa por B05X | Qualquer | Qualquer |  |\n| Solventes e agentes de diluição, incluindo soluções de irrigação, com um código ATC que começa por V07AB | Qualquer | Qualquer |  |\n| Meios de contraste com um código ATC que começa por V08 | Qualquer | Qualquer |  |\n| Testes para doenças alérgicas com um código ATC que começa por V04CL | Qualquer | Qualquer |  |\n| Extratos de alergénios com um código ATC que começa por V01AA | Qualquer | Qualquer |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "005b65fcecbc493b": {
+   "fragment_id": "Lista de medicamentos ou categorias de medicamentos não sujeitos a receita médica que devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 2",
+   "type": "divisao",
+   "heading": "Lista de medicamentos ou categorias de medicamentos não sujeitos a receita médica que devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de medicamentos ou categorias de medicamentos não sujeitos a receita médica que devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 2\n\n| Nome da substância ativa ou categoria de medicamentos | Forma farmacêutica | Dosagem | Observações |\n| --- | --- | --- | --- |\n| omeprazole | cápsula gastro-resistente, dura | 20 mg |  |\n| omeprazole | cápsula gastro-resistente, dura | 40 mg |  |"
+  },
+  "9784a796b3b0faa1": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n| Notificação à Comissão Europeia de medicamentos não sujeitos a receita médica considerados como correndo o risco de falsificação, nos termos do artigo 54.º-A, n.º 4, da Diretiva 2001/83/CE |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Estado-Membro: | Nome da autoridade competente: |  |  |  |  |\n| Entrada n.º | Substância ativa (Denominação comum) | Forma farmacêutica | Dosagem | Código ATC (Anatomical Therapeutical Chemical) | Elementos comprovativos (fornecer provas de um ou mais casos de falsificação na cadeia de abastecimento legal e especificar a fonte da informação). |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n| 3 |  |  |  |  |  |\n| 4 |  |  |  |  |  |\n| 5 |  |  |  |  |  |\n| 6 |  |  |  |  |  |\n| 7 |  |  |  |  |  |\n| 8 |  |  |  |  |  |\n| 9 |  |  |  |  |  |\n| 10 |  |  |  |  |  |\n| 11 |  |  |  |  |  |\n| 12 |  |  |  |  |  |\n| 13 |  |  |  |  |  |\n| 14 |  |  |  |  |  |\n| 15 |  |  |  |  |  |\n| *Nota:* O número de entradas não é vinculativo. |  |  |  |  |  |"
+  },
+  "72f112dd624595d3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\n| Notificação à Comissão Europeia de medicamentos considerados como não correndo o risco de falsificação, nos termos do artigo 54.º-A, n.º 4, da Diretiva 2001/83/CE |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Estado-Membro: | Nome da autoridade competente: |  |  |  |  |\n| Entrada n.º | Substância ativa (Denominação comum) | Forma farmacêutica | Dosagem | Código ATC (Anatomical Therapeutical Chemical) | Comentários/informações complementares |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n| 3 |  |  |  |  |  |\n| 4 |  |  |  |  |  |\n| 5 |  |  |  |  |  |\n| 6 |  |  |  |  |  |\n| 7 |  |  |  |  |  |\n| 8 |  |  |  |  |  |\n| 9 |  |  |  |  |  |\n| 10 |  |  |  |  |  |\n| 11 |  |  |  |  |  |\n| 12 |  |  |  |  |  |\n| 13 |  |  |  |  |  |\n| 14 |  |  |  |  |  |\n| 15 |  |  |  |  |  |\n| *Nota:* O número de entradas não é vinculativo. |  |  |  |  |  |\n\n---"
+  },
+  "2fbe90a353ab37c2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/80c17061-9c66-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) n.º 536/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativo aos ensaios clínicos de medicamentos para uso humano e que revoga a Diretiva 2001/20/CE (JO L 158 de 27.5.2014, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/80c17061-9c66-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Em conformidade com o Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica, nomeadamente o artigo 5.º, n.º 4, do Protocolo relativo à Irlanda/Irlanda do Norte, em conjugação com o seu anexo 2, para efeitos do presente artigo, as referências ao Reino Unido não incluem a Irlanda do Norte.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/80c17061-9c66-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento de Execução (UE) n.º 520/2012 da Comissão, de 19 de junho de 2012, relativo à realização das atividades de farmacovigilância previstas no Regulamento (CE) n.º 726/2004 do Parlamento Europeu e do Conselho e na Diretiva 2001/83/CE do Parlamento Europeu e do Conselho (JO L 159 de 20.6.2012, p. 5).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/80c17061-9c66-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (CE) n.º 726/2004 do Parlamento Europeu e do Conselho, de 31 de março de 2004, que estabelece procedimentos comunitários de autorização e de fiscalização de medicamentos para uso humano e veterinário e que institui uma Agência Europeia de Medicamentos (JO L 136 de 30.4.2004, p. 1)."
+  },
+  "f818e217c1b6d7a1": {
+   "fragment_id": "Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança\n\n1.\n\nAntes de remover ou tapar, parcial ou completamente, os dispositivos de segurança em conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, o fabricante deve verificar o seguinte:\n\na) a integridade do dispositivo de prevenção de adulterações;\n\nb) a autenticidade do identificador único, devendo desativá-lo se for substituído.\n\n2. Os fabricantes titulares de uma autorização de fabrico em conformidade com o artigo 40.º da Diretiva 2001/83/CE e de uma autorização de fabrico ou importação de medicamentos experimentais para a União, tal como previsto no artigo 61.º do Regulamento (UE) n.º 536/2014 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/3c853113-2600-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0001)), devem verificar os dispositivos de segurança e desativar o identificador único de uma embalagem de medicamentos antes de esta ser reembalada ou novamente rotulada para efeitos da sua utilização como medicamento experimental autorizado ou como medicamento auxiliar autorizado."
+  },
+  "013e1a15f7503895": {
+   "fragment_id": "Artigo 22.º — Desativação dos identificadores únicos pelos grossistas",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Desativação dos identificadores únicos pelos grossistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Desativação dos identificadores únicos pelos grossistas\n\nUm grossista deve verificar a autenticidade e desativar o identificador único dos seguintes medicamentos:\n\na) medicamentos que ele tenciona distribuir fora da União;\n\nb) medicamentos que lhe tenham sido devolvidos por pessoas autorizadas ou habilitadas a fornecer medicamentos ao público ou por outro grossista e que não podem ser restituídos às existências comerciáveis;\n\nc) medicamentos que se destinam a ser destruídos;\n\nd) medicamentos que, apesar de estarem na sua posse física, são solicitados como amostra pelas autoridades competentes;\n\ne) medicamentos que ele tenciona distribuir às pessoas ou instituições referidas no artigo 23.º, quando exigido pela legislação nacional em conformidade com o mesmo artigo.\n\nEm derrogação da alínea a), de 1 de janeiro de 2021 a 31 de dezembro de 2021, a obrigação de desativar o identificador único de medicamentos que o grossista tencione distribuir fora da União não se aplica aos produtos que este tencione distribuir no Reino Unido ([^2^](http://publications.europa.eu/resource/cellar/3c853113-2600-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0002))."
+  },
+  "fbd45932c8700cb4": {
+   "fragment_id": "Artigo 33.º — Introdução de informações no sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Introdução de informações no sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Introdução de informações no sistema de repositórios\n\n1. O titular da autorização de introdução no mercado, ou, no caso de importação ou distribuição paralelas de medicamentos dotados de um identificador único equivalente para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, a pessoa responsável pela colocação desses medicamentos no mercado, deve assegurar que as informações referidas no n.º 2 são carregadas no sistema de repositórios antes de o medicamento ser libertado para venda ou distribuição pelo fabricante e que são mantidas atualizadas a partir dessa altura.\n\nAs informações devem ser armazenadas em todos os repositórios nacionais ou supranacionais que servem o território do Estado-Membro ou Estados-Membros em que o medicamento com o identificador único se destina a ser colocado no mercado. As informações referidas no n.º 2, alíneas a) a d), do presente artigo, com exceção do número de série, devem também ser armazenadas na plataforma.\n\n2.\n\nDevem ser carregadas no sistema de repositórios pelo menos as seguintes informações relativas a um medicamento dotado de um identificador único:\n\na) os elementos informativos do identificador único em conformidade com o artigo 4.º, alínea b);\n\nb) o sistema de codificação do código do produto;\n\nc) o nome e a denominação comum do medicamento, a forma farmacêutica, a dosagem, o tipo de embalagem e o tamanho da embalagem do medicamento, em conformidade com a terminologia referida no artigo 25.º, n.º 1, alíneas b) e e) a g), do Regulamento de Execução (UE) n.º 520/2012 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/3c853113-2600-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0003));\n\nd) o Estado-Membro ou os Estados-Membros onde o medicamento se destina a ser colocado no mercado;\n\ne) se for caso disso, o código que identifica a entrada correspondente ao medicamento dotado do identificador único na base de dados referida no artigo 57.º, n.º 1, alínea l), do Regulamento (UE) n.º 726/2004 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/3c853113-2600-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#E0004));\n\nf) nome e endereço do fabricante que coloca os dispositivos de segurança;\n\ng) nome e endereço do titular da autorização de introdução no mercado;\n\nh) uma lista dos grossistas designados pelo titular da autorização de introdução no mercado, através de um contrato escrito, para armazenar e distribuir os medicamentos abrangidos pela sua autorização de introdução no mercado em seu nome.\n\n3. As informações referidas no n.º 2 devem ser carregadas no sistema de repositórios quer através da plataforma, quer através de um repositório nacional ou supranacional.\n\nNos casos em que o carregamento é efetuado através da plataforma, esta deve conservar uma cópia das informações referidas no n.º 2, alíneas a) a d), com exceção do número de série, e transferir as informações completas para todos os repositórios nacionais ou supranacionais que servem o território do Estado-Membro ou Estados-Membros em que o medicamento com o identificador único se destina a ser colocado no mercado.\n\nNos casos em que o carregamento é efetuado através de um repositório nacional ou supranacional, esse repositório deve transferir imediatamente para a plataforma uma cópia das informações referidas no n.º 2, alíneas a) a d), com exceção do número de série, utilizando o formato de dados e as especificações de intercâmbio de dados definidos pela plataforma.\n\n4. As informações referidas no n.º 2 devem ser armazenadas nos repositórios em que foram originalmente carregadas durante, pelo menos, um ano após o termo do prazo de validade do medicamento ou cinco anos depois de o medicamento ter sido libertado para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado."
+  },
+  "63c8ca9dd641258e": {
+   "fragment_id": "Artigo 47.º — Avaliação das notificações",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Avaliação das notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Avaliação das notificações\n\nSe, após uma notificação referida no artigo 46.º, a Comissão ou um Estado-Membro considerar, com base em mortes ou hospitalizações de pessoas na União devido à exposição a medicamentos falsificados, que é necessário tomar rapidamente medidas para proteger a saúde pública, a Comissão avalia a notificação sem demora e o mais tardar no prazo de 45 dias."
+  },
+  "2ec9843bca950f37": {
+   "fragment_id": "Lista de medicamentos ou categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 1",
+   "type": "divisao",
+   "heading": "Lista de medicamentos ou categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de medicamentos ou categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos de segurança referidos no artigo 45.º, n.º 1\n\n| Nome da substância ativa ou categoria de medicamentos | Forma farmacêutica | Dosagem | Observações |\n| --- | --- | --- | --- |\n| Medicamentos homeopáticos | Qualquer | Qualquer |  |\n| Geradores de radionuclídeos | Qualquer | Qualquer |  |\n| Kits | Qualquer | Qualquer |  |\n| Precursores de radionuclídeos | Qualquer | Qualquer |  |\n| Medicamentos de terapia avançada que contêm ou consistem em tecidos ou células | Qualquer | Qualquer |  |\n| Gases medicinais | Gás medicinal | Qualquer |  |\n| Soluções para alimentação parenteral com um código ATC (Anatomical Therapeutical Chemical) que começa por B05BA | Solução para perfusão | Qualquer |  |\n| Soluções que afetam o equilíbrio dos eletrólitos com um código ATC que começa por B05BB | Solução para perfusão | Qualquer |  |\n| Soluções que produzem diurese osmótica com um código ATC que começa por B05BC | Solução para perfusão | Qualquer |  |\n| Aditivos de soluções intravenosas com um código ATC que começa por B05X | Qualquer | Qualquer |  |\n| Solventes e agentes de diluição, incluindo soluções de irrigação, com um código ATC que começa por V07AB | Qualquer | Qualquer |  |\n| Meios de contraste com um código ATC que começa por V08 | Qualquer | Qualquer |  |\n| Testes para doenças alérgicas com um código ATC que começa por V04CL | Qualquer | Qualquer |  |\n| Extratos de alergénios com um código ATC que começa por V01AA | Qualquer | Qualquer |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32021R1686) |  |  |  |\n| Cicatrizantes com o código ATC D03AX | Larvas de mosca |  |  |\n| [▼B](http://publications.europa.eu/resource/celex/32016R0161) |  |  |  |"
+  },
+  "59f0e02030f2ea79": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3c853113-2600-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) n.º 536/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativo aos ensaios clínicos de medicamentos para uso humano e que revoga a Diretiva 2001/20/CE (JO L 158 de 27.5.2014, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3c853113-2600-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Em conformidade com o Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica, nomeadamente o artigo 5.º, n.º 4, do Protocolo relativo à Irlanda/Irlanda do Norte, em conjugação com o seu anexo 2, para efeitos do presente artigo, as referências ao Reino Unido não incluem a Irlanda do Norte.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3c853113-2600-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento de Execução (UE) n.º 520/2012 da Comissão, de 19 de junho de 2012, relativo à realização das atividades de farmacovigilância previstas no Regulamento (CE) n.º 726/2004 do Parlamento Europeu e do Conselho e na Diretiva 2001/83/CE do Parlamento Europeu e do Conselho (JO L 159 de 20.6.2012, p. 5).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3c853113-2600-11ec-bd8e-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (CE) n.º 726/2004 do Parlamento Europeu e do Conselho, de 31 de março de 2004, que estabelece procedimentos comunitários de autorização e de fiscalização de medicamentos para uso humano e veterinário e que institui uma Agência Europeia de Medicamentos (JO L 136 de 30.4.2004, p. 1)."
+  },
+  "3d2dc2ec6a20406e": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1. Para efeitos do presente regulamento, são aplicáveis as definições constantes do artigo 1.º da Diretiva 2001/83/CE.\n\n2.\n\nSão aplicáveis as seguintes definições:\n\na) «Identificador único», o dispositivo de segurança que permite a verificação da autenticidade e a identificação de uma embalagem individual de um medicamento;\n\nb) «Dispositivo de prevenção de adulterações», o dispositivo de segurança que permite verificar se a embalagem de um medicamento foi adulterada;\n\nc) «Desativação de um identificador único», a operação que altera o estado ativo de um identificador único armazenado no sistema de repositórios referido no artigo 31.º do presente regulamento, para um estado que impede qualquer nova verificação bem sucedida da autenticidade desse identificador único;\n\nd) «Identificador único ativo», um identificador único que não foi desativado ou que deixou de estar desativado e que não foi identificado como «embalagem extra-União» conforme referido no artigo 36.º, alínea p);\n\ne) «Estado ativo», o estado de um identificador único ativo armazenado no sistema de repositórios referido no artigo 31.º;\n\nf) «Estabelecimento de cuidados de saúde», um hospital, uma clínica com regime de internamento ou ambulatório ou um centro de saúde."
+  },
+  "ee171af013c86fcc": {
+   "fragment_id": "Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança\n\n1.\n\nAntes de remover ou tapar, parcial ou completamente, os dispositivos de segurança em conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, o fabricante deve verificar o seguinte:\n\na) a integridade do dispositivo de prevenção de adulterações;\n\nb) a autenticidade do identificador único, devendo desativá-lo se for substituído.\n\n2. Os fabricantes titulares de uma autorização de fabrico em conformidade com o artigo 40.º da Diretiva 2001/83/CE e de uma autorização de fabrico ou importação de medicamentos experimentais para a União, tal como previsto no artigo 61.º do Regulamento (UE) n.º 536/2014 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/f81f868a-b51c-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0001)), devem verificar os dispositivos de segurança e desativar o identificador único de uma embalagem de medicamentos antes de esta ser reembalada ou novamente rotulada para efeitos da sua utilização como medicamento experimental autorizado ou como medicamento auxiliar autorizado."
+  },
+  "6dcf1de76b0f129a": {
+   "fragment_id": "Artigo 20.º — Verificação da autenticidade do identificador único pelos grossistas",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Verificação da autenticidade do identificador único pelos grossistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Verificação da autenticidade do identificador único pelos grossistas\n\nUm grossista deve verificar a autenticidade do identificador único de pelo menos os seguintes medicamentos que estejam na sua posse física:\n\na) medicamentos que lhe são devolvidos por pessoas autorizadas ou habilitadas a fornecer medicamentos ao público ou por outro grossista;\n\nb) medicamentos que recebe de um grossista que não é nem o fabricante nem o grossista titular da autorização de introdução no mercado, nem um grossista designado pelo titular da autorização de introdução no mercado, através de um contrato escrito, para armazenar e distribuir em seu nome os medicamentos abrangidos pela sua autorização de introdução no mercado.\n\nUm grossista estabelecido na Irlanda do Norte, em Chipre, na Irlanda ou em Malta deve efetuar verificações adequadas para assegurar que as remessas de medicamentos fabricados e rotulados para o mercado do Reino Unido cumprem o requisito de serem dotados de dispositivos de segurança nos termos do artigo 54.º-A, n.º 1, da Diretiva 2001/83/CE quando forem recebidas do fabricante, do titular da autorização de introdução no mercado ou de um grossista designado pelo titular da autorização de introdução no mercado, por meio de um contrato escrito, para armazenar e distribuir, em seu nome, os produtos abrangidos pela sua autorização de introdução no mercado."
+  },
+  "0a51e90f1a3e64bd": {
+   "fragment_id": "Artigo 22.º — Desativação dos identificadores únicos pelos grossistas",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Desativação dos identificadores únicos pelos grossistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Desativação dos identificadores únicos pelos grossistas\n\nUm grossista deve verificar a autenticidade e desativar o identificador único dos seguintes medicamentos:\n\na) medicamentos que ele tenciona distribuir fora da União;\n\nb) medicamentos que lhe tenham sido devolvidos por pessoas autorizadas ou habilitadas a fornecer medicamentos ao público ou por outro grossista e que não podem ser restituídos às existências comerciáveis;\n\nc) medicamentos que se destinam a ser destruídos;\n\nd) medicamentos que, apesar de estarem na sua posse física, são solicitados como amostra pelas autoridades competentes;\n\ne) medicamentos que ele tenciona distribuir às pessoas ou instituições referidas no artigo 23.º, quando exigido pela legislação nacional em conformidade com o mesmo artigo.\n\nEm derrogação da alínea a), até 31 de dezembro de 2024, a obrigação de desativar o identificador único de medicamentos que o grossista pretenda distribuir fora da União não deve ser aplicável aos medicamentos fabricados e rotulados para o mercado do Reino Unido, ou para o mercado do Reino Unido e os mercados de Chipre, Irlanda ou Malta que o grossista pretenda distribuir no Reino Unido."
+  },
+  "aba9a4f70ff98aa9": {
+   "fragment_id": "Artigo 26.º — Derrogações ao artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Derrogações ao artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Derrogações ao artigo 25.º\n\n1. As pessoas autorizadas ou habilitadas a fornecer medicamentos ao público estão isentas da obrigação de verificar os dispositivos de segurança e desativar o identificador único dos medicamentos que lhes são fornecidos como amostras gratuitas em conformidade com o artigo 96.º da Diretiva 2001/83/CE.\n\n2. As pessoas autorizadas ou habilitadas a fornecer medicamentos ao público que não exercem a sua atividade no âmbito de estabelecimentos de cuidados de saúde ou de farmácias estão isentas da obrigação de verificar os dispositivos de segurança e desativar o identificador único de medicamentos quando essa obrigação tiver sido atribuída aos grossistas pela legislação nacional em conformidade com o artigo 23.º\n\n3.\n\nSem prejuízo do disposto no artigo 25.º, os Estados-Membros podem, sempre que necessário para ter em conta as características específicas da cadeia de abastecimento no seu território, decidir dispensar uma pessoa autorizada ou habilitada a fornecer medicamentos ao público que exerça a sua atividade no âmbito de estabelecimentos de cuidados de saúde das obrigações de verificação e desativação do identificador único, desde que estejam reunidas as seguintes condições:\n\na) a pessoa autorizada ou habilitada a fornecer medicamentos ao público obtém o medicamento com o identificador único por intermédio de um grossista pertencente à mesma entidade legal que o estabelecimento de cuidados de saúde;\n\nb) a verificação e a desativação do identificador único são efetuadas pelo grossista que fornece o medicamento ao estabelecimento de cuidados de saúde;\n\nc) não se verifica qualquer transação comercial do medicamento entre o grossista que o fornece e o estabelecimento de cuidados de saúde;\n\nd) o medicamento é fornecido ao público nesse estabelecimento de cuidados de saúde.\n\n4. Até 31 de dezembro de 2024, as autoridades do Reino Unido no que diz respeito à Irlanda do Norte podem dispensar a obrigação de verificar os dispositivos de segurança e desativar o identificador único de um medicamento fornecido às pessoas ou instituições enumeradas no artigo 23.º para os produtos destinados ao mercado do Reino Unido no que diz respeito à Irlanda do Norte, fornecidos por grossistas localizados noutras partes do Reino Unido."
+  },
+  "0ec2a07792d9caca": {
+   "fragment_id": "Artigo 32.º — Estrutura do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Estrutura do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Estrutura do sistema de repositórios\n\n1.\n\nO sistema de repositórios deve ser composto pelos seguintes repositórios eletrónicos:\n\na) um encaminhador central de dados e informações («plataforma»);\n\nb) repositórios que servem o território de um Estado-Membro («repositórios nacionais») ou o território de vários Estados-Membros («repositórios supranacionais»). Estes repositórios devem estar ligados à plataforma. [**►M3**](http://publications.europa.eu/resource/celex/32022R0315) Os repositórios que servem territórios fora da União não devem estar ligados à plataforma.**◄**\n\n2. O número de repositórios nacionais e supranacionais deve ser suficiente para garantir que o território de cada Estado-Membro é servido por um repositório nacional ou supranacional.\n\n3.\n\nO sistema de repositórios deve incluir as infraestruturas informáticas, o *hardware* e o software necessários para permitir a execução das seguintes tarefas:\n\na) carregar, coligir, processar, modificar e armazenar as informações sobre os dispositivos de segurança que permitem verificar a autenticidade e identificar os medicamentos;\n\nb) identificar cada embalagem de medicamentos dotados dos dispositivos de segurança, verificar a autenticidade do identificador único nessa embalagem e desativá-lo em qualquer ponto da cadeia de abastecimento legal.\n\n4. O sistema de repositórios deve incluir as interfaces de programação de aplicações que permitem que os grossistas ou as pessoas autorizadas ou habilitadas a fornecer medicamentos ao público consultem o sistema de repositórios através do *software*, para efeitos de verificação da autenticidade dos identificadores únicos e da sua desativação no sistema de repositórios. As interfaces de programação de aplicações devem também permitir que as autoridades nacionais competentes acedam ao sistema de repositórios através de *software*, em conformidade com o artigo 39.º.\n\nO sistema de repositórios deve incluir igualmente interfaces gráficas de utilizador que deem acesso direto ao sistema de repositórios em conformidade com o artigo 35.º, n.º 1, alínea i).\n\nO sistema de repositórios não inclui o equipamento físico de leitura ótica utilizado para ler o identificador único."
+  },
+  "4b0dc26a6b4766a7": {
+   "fragment_id": "Artigo 33.º — Introdução de informações no sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Introdução de informações no sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Introdução de informações no sistema de repositórios\n\n1. O titular da autorização de introdução no mercado, ou, no caso de importação ou distribuição paralelas de medicamentos dotados de um identificador único equivalente para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE, a pessoa responsável pela colocação desses medicamentos no mercado, deve assegurar que as informações referidas no n.º 2 são carregadas no sistema de repositórios antes de o medicamento ser libertado para venda ou distribuição pelo fabricante e que são mantidas atualizadas a partir dessa altura.\n\nAs informações devem ser armazenadas em todos os repositórios nacionais ou supranacionais que servem o território do Estado-Membro ou Estados-Membros em que o medicamento com o identificador único se destina a ser colocado no mercado. As informações referidas no n.º 2, alíneas a) a d), do presente artigo, com exceção do número de série, devem também ser armazenadas na plataforma.\n\n2.\n\nDevem ser carregadas no sistema de repositórios pelo menos as seguintes informações relativas a um medicamento dotado de um identificador único:\n\na) os elementos informativos do identificador único em conformidade com o artigo 4.º, alínea b);\n\nb) o sistema de codificação do código do produto;\n\nc) o nome e a denominação comum do medicamento, a forma farmacêutica, a dosagem, o tipo de embalagem e o tamanho da embalagem do medicamento, em conformidade com a terminologia referida no artigo 25.º, n.º 1, alíneas b) e e) a g), do Regulamento de Execução (UE) n.º 520/2012 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/f81f868a-b51c-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0002));\n\nd) o Estado-Membro ou os Estados-Membros onde o medicamento se destina a ser colocado no mercado;\n\ne) se for caso disso, o código que identifica a entrada correspondente ao medicamento dotado do identificador único na base de dados referida no artigo 57.º, n.º 1, alínea l), do Regulamento (UE) n.º 726/2004 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/f81f868a-b51c-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#E0003));\n\nf) nome e endereço do fabricante que coloca os dispositivos de segurança;\n\ng) nome e endereço do titular da autorização de introdução no mercado;\n\nh) uma lista dos grossistas designados pelo titular da autorização de introdução no mercado, através de um contrato escrito, para armazenar e distribuir os medicamentos abrangidos pela sua autorização de introdução no mercado em seu nome.\n\n3. As informações referidas no n.º 2 devem ser carregadas no sistema de repositórios quer através da plataforma, quer através de um repositório nacional ou supranacional.\n\nNos casos em que o carregamento é efetuado através da plataforma, esta deve conservar uma cópia das informações referidas no n.º 2, alíneas a) a d), com exceção do número de série, e transferir as informações completas para todos os repositórios nacionais ou supranacionais que servem o território do Estado-Membro ou Estados-Membros em que o medicamento com o identificador único se destina a ser colocado no mercado.\n\nNos casos em que o carregamento é efetuado através de um repositório nacional ou supranacional, esse repositório deve transferir imediatamente para a plataforma uma cópia das informações referidas no n.º 2, alíneas a) a d), com exceção do número de série, utilizando o formato de dados e as especificações de intercâmbio de dados definidos pela plataforma.\n\n4. As informações referidas no n.º 2 devem ser armazenadas nos repositórios em que foram originalmente carregadas durante, pelo menos, um ano após o termo do prazo de validade do medicamento ou cinco anos depois de o medicamento ter sido libertado para venda ou distribuição em conformidade com o artigo 51.º, n.º 3, da Diretiva 2001/83/CE, conforme o período que for mais alargado."
+  },
+  "61c90b3359ef1897": {
+   "fragment_id": "Artigo 36.º — Operações do sistema de repositórios",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Operações do sistema de repositórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Operações do sistema de repositórios\n\nO sistema de repositórios deve permitir, pelo menos, as seguintes operações:\n\na) a verificação repetida da autenticidade de um identificador único ativo em conformidade com o artigo 11.º;\n\nb) o desencadear de um alerta no sistema e no terminal em que a verificação da autenticidade de um identificador único se realiza se essa verificação não confirmar que o identificador único é autêntico em conformidade com o artigo 11.º. Este tipo de caso deve ser marcado no sistema como um potencial incidente de falsificação, exceto se o medicamente estiver indicado no sistema como recolhido, retirado ou destinado a ser destruído;\n\nc) a desativação de um identificador único em conformidade com os requisitos do presente regulamento;\n\nd) as operações combinadas de identificação de uma embalagem de um medicamento com um identificador único e a verificação da autenticidade e a desativação desse identificador único;\n\ne) a identificação de uma embalagem de um medicamento dotado de um identificador único e a verificação da autenticidade e a desativação desse identificador único num Estado-Membro que não seja o Estado-Membro em que o medicamento dotado desse identificador único foi colocado no mercado;\n\nf) a leitura da informação contida no código de barras bidimensional que codifica o identificador único, a identificação do medicamento que ostenta o código de barras e a verificação do estado do identificador único, sem desencadear o alerta a que se refere a alínea b) do presente artigo;\n\ng) sem prejuízo do disposto no artigo 35.º, n.º 1, alínea h), o acesso pelos grossistas verificados à lista de grossistas referida no artigo 33.º, n.º 2, alínea h), para determinar se têm de verificar o identificador único de um dado medicamento;\n\nh) a verificação da autenticidade de um identificador único e a sua desativação consultando manualmente o sistema com os elementos do identificador único;\n\ni) o fornecimento imediato de informações relativas a um determinado identificador único às autoridades nacionais competentes e à Agência Europeia de Medicamentos, a pedido;\n\nj) a criação de relatórios que permitam às autoridades competentes verificar se os titulares de autorizações de introdução no mercado, fabricantes, grossistas e pessoas autorizadas ou habilitadas a fornecer medicamentos ao público cumprem os requisitos do presente regulamento ou investigar potenciais casos de falsificação;\n\nk) a reversão do estado de um identificador único de desativado para ativo, sob reserva das condições referidas no artigo 13.º;\n\nl) a indicação de que um identificador único foi desativado;\n\nm) a indicação de que um medicamento foi recolhido, retirado, roubado, exportado, solicitado como amostra pelas autoridades nacionais competentes, indicado como amostra gratuita pelo titular da autorização de introdução no mercado ou que se destina a ser destruído;\n\nn) a ligação, por lotes de medicamentos, da informação sobre identificadores únicos removidos ou tapados, à informação sobre os identificadores únicos equivalentes colocados nesses medicamentos para efeitos de conformidade com o artigo 47.º-A da Diretiva 2001/83/CE;\n\no) a sincronização do estado de um identificador único entre os repositórios nacionais ou supranacionais que servem o território dos Estados-Membros em que esse medicamento se destina a ser colocado no mercado;\n\np) é acionado um alerta identificado como «embalagem extra-União» no sistema de repositórios e no terminal onde é efetuada a verificação da autenticidade de um identificador único em conformidade com o artigo 11.º se estiverem preenchidas ambas as seguintes condições:\n\ni) a verificação conclui que o medicamento com o identificador único é fabricado e rotulado para o mercado do Reino Unido, ou para o mercado do Reino Unido e os mercados de Chipre, Irlanda ou Malta,\n\nii) a verificação não é efetuada na Irlanda do Norte, em Chipre, na Irlanda ou em Malta."
+  },
+  "f79bbe94ccf7e184": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f81f868a-b51c-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) n.º 536/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativo aos ensaios clínicos de medicamentos para uso humano e que revoga a Diretiva 2001/20/CE (JO L 158 de 27.5.2014, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f81f868a-b51c-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento de Execução (UE) n.º 520/2012 da Comissão, de 19 de junho de 2012, relativo à realização das atividades de farmacovigilância previstas no Regulamento (CE) n.º 726/2004 do Parlamento Europeu e do Conselho e na Diretiva 2001/83/CE do Parlamento Europeu e do Conselho (JO L 159 de 20.6.2012, p. 5).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f81f868a-b51c-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento (CE) n.º 726/2004 do Parlamento Europeu e do Conselho, de 31 de março de 2004, que estabelece procedimentos comunitários de autorização e de fiscalização de medicamentos para uso humano e veterinário e que institui uma Agência Europeia de Medicamentos (JO L 136 de 30.4.2004, p. 1)."
+  }
+ }
+}

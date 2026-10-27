@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:224074:por
+title: Resolução da Assembleia da República n.º 24/95
+short_title: null
+summary: Inquérito parlamentar sobre o eventual desvio de informações e documentos dos arquivos da PIDE/DGS para o KGB
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 24/95
+official_date: null
+publication_date: '1995-04-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 92/1995, Série I-A de 1995-04-19
+  number: '92'
+  series: I
+  supplement: null
+  pages: 2214 - 2214
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/04/092a00/22142214.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/24/1995/04/19/p/dre/pt/html
+  oj: null
+  dre: '224074'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/24-1995-224074
+  internal: pt:dre:224074:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-1995-224074
+  metadata_url: https://data.dre.pt/eli/resolassrep/24/1995/04/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-1995-224074
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:59:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e65bdb4c0ce33fdf3e31309e6a682b2442297559695d655d877e7906461110cc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:59:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arquivos da Pide-dgs e LP
+- Comissão Parlamentar
+- Inquérito Parlamentar
+relationships:
+- type: cites
+  target: pt:dre:626806:por
+  label: null
+  source: http://data.dre.pt/eli/lei/5/1993/03/01/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:59:57Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 24/95
+
+A Assembleia da República resolve, ao abrigo dos artigos 169.º, n.º 5, e 181.º, n.º 1, da Constituição e 1.º e 2.º, n.º 1, alínea a), da [Lei n.º 5/93](https://diariodarepublica.pt/dr/detalhe/lei/5-1993-626806), de 1 de Março, o seguinte:
+
+1 - É constituída uma comissão de inquérito parlamentar para averiguar:
+
+a) Do eventual desvio de informações e documentos dos arquivos da PIDE/DGS para o KGB;
+
+b) Que tipo de informações e quais os documentos que foram desviados;
+
+c) Quem foram os responsáveis pelo desvio desses documentos e informações;
+
+d) Quem foram os políticos e os militares sujeitos a chantagem, em consequência do desvio de tais documentos.
+
+2 - A comissão terá a seguinte composição:
+
+Partido Social-Democrata - 12 deputados;
+
+Partido Socialista - 7 deputados;
+
+Partido Comunista Português - 2 deputados;
+
+Centro Democrático Social - Partido Popular - 1 deputado;
+
+Partido Ecologista Os Verdes - 1 deputado.
+
+Aprovada em 2 de Março de 1995.
+
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.

@@ -1,0 +1,497 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:674430:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1991-58928557",
+ "dre_path": "/dr/detalhe/lei/108-1991-674430",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-08-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "58928652",
+    "58928653",
+    "58928654",
+    "58928655",
+    "58928656",
+    "58928657",
+    "58928658",
+    "58928659",
+    "58928660",
+    "58928661",
+    "58928662",
+    "58928663",
+    "58928664",
+    "58928665",
+    "58928666",
+    "58928667",
+    "58928668",
+    "58928669",
+    "58928670"
+   ]
+  },
+  {
+   "date": "1998-11-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216511:por",
+     "title": "Lei n.º 80/98",
+     "published": "1998-11-24",
+     "dre_path": "/dr/detalhe/lei/80-1998-216511"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "58928652",
+    "58928653",
+    "58928654",
+    "58929776",
+    "58929777",
+    "58928657",
+    "58928658",
+    "58928659",
+    "58928660",
+    "58928661",
+    "58928662",
+    "58928663",
+    "58928664",
+    "58928665",
+    "58928666",
+    "58928667",
+    "58928668",
+    "58928669",
+    "58928670",
+    "58928671"
+   ]
+  },
+  {
+   "date": "2004-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:508871:por",
+     "title": "Lei n.º 37/2004",
+     "published": "2004-08-13",
+     "dre_path": "/dr/detalhe/lei/37-2004-508871"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "58928652",
+    "58928653",
+    "58928654",
+    "58929790",
+    "58929791",
+    "58928657",
+    "58928658",
+    "58928659",
+    "58928660",
+    "58929784",
+    "58928662",
+    "58928663",
+    "58928664",
+    "58928665",
+    "58928666",
+    "58928667",
+    "58928668",
+    "58928669",
+    "58928670",
+    "58928671"
+   ]
+  },
+  {
+   "date": "2014-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:57701290:por",
+     "title": "Lei n.º 75-A/2014",
+     "published": "2014-09-30",
+     "dre_path": "/dr/detalhe/lei/75-a-2014-57701290"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "58928652",
+    "58928653",
+    "58928654",
+    "58929790",
+    "58929791",
+    "58928657",
+    "58928658",
+    "58928659",
+    "58928660",
+    "58929784",
+    "58928662",
+    "58929795",
+    "58928664",
+    "58928665",
+    "58928666",
+    "58928667",
+    "58928668",
+    "58928669",
+    "58928670",
+    "58928671"
+   ]
+  },
+  {
+   "date": "2015-09-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70196962:por",
+     "title": "Lei n.º 135/2015",
+     "published": "2015-09-07",
+     "dre_path": "/dr/detalhe/lei/135-2015-70196962"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "58928652",
+    "58928653",
+    "58928654",
+    "58929790",
+    "58929791",
+    "58928657",
+    "58928658",
+    "58928659",
+    "58928660",
+    "58929784",
+    "108024698",
+    "58929795",
+    "58928664",
+    "58928665",
+    "58928666",
+    "58928667",
+    "58928668",
+    "58928669",
+    "58928670",
+    "58928671"
+   ]
+  },
+  {
+   "date": "2017-09-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108021176:por",
+     "title": "Lei n.º 81/2017",
+     "published": "2017-08-18",
+     "dre_path": "/dr/detalhe/lei/81-2017-108021176"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "58928652",
+    "58928653",
+    "58928654",
+    "108024714",
+    "108024715",
+    "58928657",
+    "58928658",
+    "58928659",
+    "58928660",
+    "58929784",
+    "108024698",
+    "58929795",
+    "58928664",
+    "58928665",
+    "58928666",
+    "58928667",
+    "108025906",
+    "58928669",
+    "58928670",
+    "58928671"
+   ]
+  }
+ ],
+ "fragments": {
+  "58928652": {
+   "fragment_id": "58928558",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 108/91\n\nde 17 de Agosto\n\nConselho Económico e Social\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea m), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "58928653": {
+   "fragment_id": "58928559",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Conselho Económico e Social, previsto no artigo 95.º da Constituição, é o órgão de consulta e concertação no domínio das políticas económica e social e participa na elaboração dos planos de desenvolvimento económico e social."
+  },
+  "58928654": {
+   "fragment_id": "58928560",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência\n\n1 - Compete ao Conselho Económico e Social:\n\na) Pronunciar-se sobre os anteprojectos das grandes opções e dos planos de desenvolvimento económico e social, antes de aprovados pelo Governo, bem como sobre os relatórios da respectiva execução;\n\nb) Pronunciar-se sobre as políticas económica e social, bem como sobre a execução das mesmas;\n\nc) Apreciar as posições de Portugal nas instâncias das Comunidades Europeias, no âmbito das políticas económica e social, e pronunciar-se sobre a utilização nacional dos fundos comunitários, estruturais e específicos;\n\nd) Pronunciar-se sobre as propostas de planos sectoriais e espaciais de âmbito nacional e em geral sobre as políticas de reestruturação e de desenvolvimento sócio-económico que o Governo entenda submeter-lhe;\n\ne) Apreciar regularmente a evolução da situação económica e social do País;\n\nf) Apreciar os documentos que traduzam a política de desenvolvimento regional;\n\ng) Promover o diálogo e a concertação entre os parceiros sociais;\n\nh) Aprovar o seu regulamento interno.\n\n2 - O Conselho Económico e Social, no quadro das suas competências, tem também o direito de iniciativa nos termos do artigo 15.º desta lei."
+  },
+  "58928655": {
+   "fragment_id": "58928561",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho Económico e Social tem a seguinte composição:\n\na) Um presidente, eleito pela Assembleia da República nos termos da alínea h) do artigo 166.º da Constituição;\n\nb) Quatro vice-presidentes, eleitos pelo plenário do Conselho;\n\nc) Oito representantes do Governo, a designar por resolução do Conselho de Ministros;\n\nd) Oito representantes das organizações representativas dos trabalhadores, a designar pelas confederações respectivas;\n\ne) Oito representantes das organizações empresariais, a designar pelas associações de âmbito nacional;\n\nf) Dois representantes do sector cooperativo, a designar pelas confederações cooperativas;\n\ng) Dois representantes, a designar pelo Conselho Superior de Ciência e Tecnologia;\n\nh) Dois representantes das profissões liberais, a designar pelas associações do sector;\n\ni) Um representante do sector empresarial do Estado, a designar por resolução do Conselho de Ministros;\n\nj) Dois representantes de cada região autónoma, a designar pela respectiva assembleia regional;\n\nl) Oito representantes das autarquias locais do continente, eleitos pelos conselhos de região das áreas de cada comissão de coordenação regional, sendo um para a do Alentejo, outro para a do Algarve e dois para cada uma das restantes;\n\nm) Um representante das associações nacionais de defesa do ambiente;\n\nn) Um representante das associações nacionais de defesa dos consumidores;\n\no) Dois representantes das instituições particulares de solidariedade social;\n\np) Um representante das associações de família;\n\nq) Um representante das universidades, a designar pelo Conselho de Reitores;\n\nr) Um representante das associações de jovens empresários;\n\ns) Três personalidades de reconhecido mérito nos domínios económico e social, designadas pelo plenário.\n\n2 - A designação deve ter em conta a relevância dos interesses representados.\n\n3 - O mandato dos membros do Conselho Económico e Social corresponde ao período de legislatura da Assembleia da República e cessa com a tomada de posse dos novos membros.\n\n4 - Os vice-presidentes referidos na alínea b) do n.º 1 podem ser eleitos de entre os membros do plenário ou fora dele.\n\n5 - Para cada um dos sectores representados haverá um número de suplentes igual ao dos respectivos representantes no Conselho.\n\n6 - Os representantes dos trabalhadores e dos empregadores referidos nas alíneas d) e e) do n.º 1 incluem obrigatoriamente os respectivos representantes na Comissão de Concertação Social."
+  },
+  "58928656": {
+   "fragment_id": "58928562",
+   "type": 11,
+   "heading": "Artigo 4.º — Designação dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Designação dos membros\n\n1 - Dentro dos primeiros 15 dias após a sua posse, o presidente do Conselho Económico e Social dá início ao processo de designação dos membros das categorias referidas nas alíneas c) a r) do n.º 1 do artigo anterior.\n\n2 - Nos casos das alíneas c), d), g), i), j), l), p) e q) do n.º 1 do artigo anterior o presidente do Conselho Económico e Social dirige-se por carta aos presidentes ou outros responsáveis dos órgãos referidos solicitando a indicação, no prazo de 30 dias, dos membros que integrarão o Conselho.\n\n3 - Do início do processo de designação dos membros referidos nas alíneas e), f), h), m), n), o) e r) do n.º 1 do artigo anterior deve ser dada publicidade, pelo presidente do Conselho, através de edital publicado em três jornais de grande circulação nacional, fixando um prazo de 30 dias dentro do qual devem candidatar-se, juntando elementos justificativos do seu grau de representatividade, todas as entidades que se julguem representativas das categorias em causa.\n\n4 - No prazo de 15 dias após o termo do prazo fixado no número anterior, o presidente do Conselho Económico e Social convoca para uma reunião todas as entidades que se tenham candidatado, em que deve ser procurado consenso entre os candidatos de cada categoria em relação à designação dos membros que as representarão no Conselho.\n\n5 - Não se verificando consenso, compete ao presidente do Conselho Económico e Social, ouvido o conselho coordenador e tendo em conta a ponderação referida no n.º 2 do artigo anterior, decidir acerca da sua participação no Conselho.\n\n6 - No acto inicial da instituição do Conselho Económico e Social, não estando ainda eleitos os vice-presidentes e os coordenadores das comissões permanentes, a decisão do presidente referida no número anterior é tomada sem parecer do conselho coordenador a que se refere o artigo 10.º\n\n7 - Das decisões do presidente referidas nos números 5 e 6 cabe recurso, sem efeito suspensivo, para o plenário."
+  },
+  "58928657": {
+   "fragment_id": "58928563",
+   "type": 11,
+   "heading": "Artigo 5.º — Perda de mandato e substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Perda de mandato e substituição\n\n1 - Perdem o mandato os membros que:\n\na) Deixem de ser reconhecidos como tais pelas entidades que representam, devendo estas dar conhecimento do facto, por escrito, ao presidente do Conselho;\n\nb) Sejam representantes de entidades que deixem de ser participantes no Conselho Económico e Social;\n\nc) Não cumpram os requisitos de participação previstos no regimento.\n\n2 - Tendo conhecimento de qualquer renúncia ou perda de mandato pelos motivos referidos nas alíneas a) e b) do número anterior, o presidente do Conselho Económico e Social solicita à entidade de que esse membro faz parte que, no prazo de 30 dias, proceda à sua substituição.\n\n3 - Se esta solicitação não for correspondida ou se a perda de mandato se verificar pelo motivo indicado na alínea b) do n.º 1, o presidente do Conselho Económico e Social deve seguir, em relação à categoria em causa, os trâmites indicados nos n.os 3 a 5 do artigo 4.º"
+  },
+  "58928658": {
+   "fragment_id": "58928564",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgão do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgão do Conselho\n\nSão órgãos do Conselho:\n\na) O presidente;\n\nb) O plenário;\n\nc) A Comissão Permanente de Concertação Social;\n\nd) As comissões especializadas;\n\ne) O conselho coordenador;\n\nf) O conselho administrativo."
+  },
+  "58928659": {
+   "fragment_id": "58928565",
+   "type": 11,
+   "heading": "Artigo 7.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Presidente\n\n1 - Compete ao presidente:\n\na) Representar o Conselho;\n\nb) Convocar, elaborar a ordem de trabalhos e dirigir as reuniões do plenário, do conselho coordenador e do conselho administrativo;\n\nc) Solicitar às comissões especializadas a elaboração de estudos, pareceres, relatórios e informações no âmbito das suas competências;\n\nd) Convidar a participar nas reuniões do plenário, ouvido o conselho coordenador, quaisquer entidades cuja presença seja julgada útil;\n\ne) Celebrar com empresas ou entidades nacionais ou estrangeiras contratos para a elaboração de estudos e outros trabalhos cuja natureza específica o justifique;\n\nf) Submeter ao Governo, após aprovação pelo conselho coordenador, a proposta orçamental do Conselho Económico e Social;\n\ng) Fazer cumprir o presente diploma e o regulamento interno do Conselho;\n\nh) Exercer quaisquer outros poderes que lhe sejam especificamente atribuídos por lei.\n\n2 - O presidente do Conselho Económico e Social tem competência idêntica à de ministro no que respeita à autorização de despesas e prática de actos administrativos.\n\n3 - O presidente pode delegar, total ou parcialmente, em qualquer dos vice-presidentes a competência que lhe é conferida nos números anteriores.\n\n4 - O presidente é substituído, nas suas faltas ou impedimentos, por um vice-presidente, em sistema de rotação quadrimestral."
+  },
+  "58928660": {
+   "fragment_id": "58928566",
+   "type": 11,
+   "heading": "Artigo 8.º — Plenário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Plenário\n\n1 - O plenário é constituído por lodos os membros do Conselho Económico e Social referidos no n.º 1 do artigo 3.º\n\n2 - Cabe ao plenário exprimir as posições do Conselho, sem prejuízo do disposto no artigo 9.º\n\n3 - Até ao fim do primeiro semestre do ano seguinte, o Governo apresenta um relatório sobre o seguimento dado aos pareceres aprovados."
+  },
+  "58928661": {
+   "fragment_id": "58928567",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão Permanente de Concertação Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comissão Permanente de Concertação Social\n\n1 - Compete à Comissão Permanente de Concertação Social, em especial, promover o diálogo e a concertação entre os parceiros sociais, contribuir para a definição das políticas de rendimentos e preços, de emprego e formação profissional.\n\n2 - A Comissão Permanente de Concertação Social tem a seguinte composição:\n\ni) Seis membros do Governo, a designar por despacho do Primeiro-Ministro;\n\nii) Três representantes, a nível de direcção, da Confederação Geral dos Trabalhadores Portugueses - Intersindical Nacional, um dos quais o seu coordenador;\n\niii) Três representantes, a nível de direcção, da União Geral de Trabalhadores, um dos quais o seu secretário-geral;\n\niv) Dois representantes, a nível de direcção da Confederação dos Agricultores Portugueses, um dos quais o seu presidente;\n\nv) Dois representantes, a nível de direcção, da Confederação do Comércio Português, um dos quais o seu presidente;\n\nvi) Dois representantes, a nível de direcção, da Confederação da Indústria Portuguesa, um dos quais o seu presidente.\n\n3 - A Comissão Permanente de Concertação Social é presidida pelo Primeiro-Ministro ou por um ministro em quem ele delegar.\n\n4 - Os membros da Comissão podem fazer-se acompanhar de especialistas para os assistir nas reuniões da Comissão ou dos grupos de trabalho.\n\n5 - Em matéria de concertação social, não carecem de aprovação pelo plenário as deliberações tomadas pela respectiva comissão especializada.\n\n6 - Compete à Comissão Permanente de Concertação Social aprovar o seu regulamento específico."
+  },
+  "58928662": {
+   "fragment_id": "58928568",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissões especializadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comissões especializadas\n\n1 - Para além dos trabalhos em plenário, a actividade dos membros do Conselho desenvolve-se na Comissão Permanente de Concertação Social e nas comissões especializadas. As comissões especializadas são permanentes e temporárias.\n\n2 - São permanentes as comissões especializadas:\n\na) Da política económica e social;\n\nb) Do desenvolvimento regional e do ordenamento do território;\n\nc) Quaisquer outras que venham a ser decididas pelo plenário, por maioria qualificada de dois terços dos seus membros em efectividade de funções.\n\n3 - Sempre que se mostre necessário, o Conselho pode criar comissões especializadas de carácter temporário, com a composição, objectivos e modo de funcionamento que o próprio Conselho definir.\n\n4 - O plenário do Conselho Económico e Social designa os membros das comissões especializadas permanentes, tendo em atenção a natureza dos interesses representados.\n\n5 - Compete às comissões especializadas:\n\na) Elaborar estudos, pareceres, relatórios e informações a pedido de outros órgãos do Conselho ou por sua iniciativa;\n\nb) Propor ao presidente do Conselho a realização dos estudos que considerar necessários ao desempenho das suas funções;\n\nc) Requerer, através do presidente do Conselho, as informações, depoimentos ou esclarecimentos necessários aos seus trabalhos, nos termos previstos nos n.os 2 e 3 do artigo 13.º desta lei;\n\nd) Eleger de entre os seus membros um presidente, que assegurará a direcção e a condução dos trabalhos, tendo voto de qualidade nas deliberações a tomar, e que será o elemento de ligação com os restantes membros do Conselho, sendo ele próprio membro do conselho coordenador."
+  },
+  "58928663": {
+   "fragment_id": "58928569",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselho coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselho coordenador\n\n1 - O conselho coordenador é constituído pelo presidente do Conselho Económico e Social, pelos quatro vice-presidentes e pelos presidentes das comissões especializadas permanentes.\n\n2 - Compete ao conselho coordenador:\n\na) Coadjuvar o presidente no desempenho das suas funções;\n\nb) Aprovar a proposta orçamental e as suas alterações, bem como as contas do Conselho;\n\nc) Dar parecer sobre a participação de entidades que se candidatem a membros do Conselho, nos casos e nos termos referidos nos n.os 3 a 5 do artigo 4.º;\n\nd) Elaborar a ordem de trabalhos do plenário."
+  },
+  "58928664": {
+   "fragment_id": "58928570",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conselho administrativo\n\n1 - O conselho administrativo é constituído pelo presidente do Conselho Económico e Social, que a ele preside, pelos vice-presidentes, pelo secretário-geral e por um chefe de repartição.\n\n2 - Compete ao conselho administrativo:\n\na) Preparar as propostas orçamentais e as contas;\n\nb) Controlar a legalidade dos actos do Conselho nos domínios administrativo e financeiro;\n\nc) Autorizar a constituição do fundo de maneio e apreciar e controlar a sua utilização;\n\nd) Exercer as demais competências previstas nos diplomas legais reguladores das despesas públicas.\n\n3 - O presidente do Conselho Económico e Social pode delegar num dos vice-presidentes a competência que lhe é atribuída pelo n.º 1 deste artigo."
+  },
+  "58928665": {
+   "fragment_id": "58928571",
+   "type": 11,
+   "heading": "Artigo 13.º — Sede e apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sede e apoios\n\n1 - O Conselho Económico e Social dispõe de sede própria e de serviços de apoio técnico e administrativo.\n\n2 - Para o desempenho das suas atribuições, o Conselho Económico e Social pode dispor da informação estatística julgada necessária, designadamente a que é recolhida e tratada pelo Instituto Nacional de Estatística, pelo Departamento Central de Planeamento e pelo Banco de Portugal.\n\n3 - Pode ainda o Conselho Económico e Social solicitar outras informações ao Governo, incluindo a presença de pessoas que possam contribuir para o esclarecimento dos pontos em análise."
+  },
+  "58928666": {
+   "fragment_id": "58928572",
+   "type": 11,
+   "heading": "Artigo 14.º — Autonomia do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Autonomia do Conselho\n\n1 - O Conselho é dotado de autonomia administrativa.\n\n2 - Os meios financeiros necessários ao funcionamento do Conselho são inscritos no Orçamento do Estado."
+  },
+  "58928667": {
+   "fragment_id": "58928573",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\nA presente lei será regulamentada por decreto-lei no prazo de 90 dias."
+  },
+  "58928668": {
+   "fragment_id": "58928574",
+   "type": 11,
+   "heading": "Artigo 16.º — Organismos extintos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Organismos extintos\n\nTrinta dias após a entrada em vigor do decreto-lei referido no artigo anterior e da eleição e tomada de posse do presidente do Conselho Económico e Social são extintos o Conselho Nacional do Plano, o Conselho de Rendimentos e Preços e o Conselho Permanente de Concertação Social."
+  },
+  "58928669": {
+   "fragment_id": "58929675",
+   "type": 11,
+   "heading": "Artigo 17.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pessoal\n\n1 - Os serviços de apoio técnico e administrativo ao Conselho dispõem de pessoal constante de quadro próprio a fixar por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças.\n\n2 - O pessoal provido em lugares de quadro dos organismos referidos no artigo anterior transita para lugares do quadro do Conselho Económico e Social, na mesma categoria, nos termos da lei."
+  },
+  "58928670": {
+   "fragment_id": "58929676",
+   "type": 11,
+   "heading": "Artigo 18.º — Representação das regiões administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Representação das regiões administrativas\n\nA lei que criar as regiões administrativas, na sequência da lei quadro respectiva, instituirá o seu modo de representação no Conselho Económico e Social."
+  },
+  "58929776": {
+   "fragment_id": "58928561",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "1998-11-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho Económico e Social tem a seguinte composição:\n\na) Um presidente, eleito pela Assembleia da República nos termos da alínea h) do artigo 166.º da Constituição;\n\nb) Quatro vice-presidentes, eleitos pelo plenário do Conselho;\n\nc) Oito representantes do Governo, a designar por resolução do Conselho de Ministros;\n\nd) Oito representantes das organizações representativas dos trabalhadores, a designar pelas confederações respectivas;\n\ne) Oito representantes das organizações empresariais, a designar pelas associações de âmbito nacional;\n\nf) Dois representantes do sector cooperativo, a designar pelas confederações cooperativas;\n\ng) Dois representantes, a designar pelo Conselho Superior de Ciência e Tecnologia;\n\nh) Dois representantes das profissões liberais, a designar pelas associações do sector;\n\ni) Um representante do sector empresarial do Estado, a designar por resolução do Conselho de Ministros;\n\nj) Dois representantes de cada região autónoma, a designar pela respectiva assembleia regional;\n\nl) Oito representantes das autarquias locais do continente, eleitos pelos conselhos de região das áreas de cada comissão de coordenação regional, sendo um para a do Alentejo, outro para a do Algarve e dois para cada uma das restantes;\n\nm) Um representante das associações nacionais de defesa do ambiente;\n\nn) Um representante das associações nacionais de defesa dos consumidores;\n\no) Dois representantes das instituições particulares de solidariedade social;\n\np) Um representante das associações de família;\n\nq) Um representante das universidades, a designar pelo Conselho de Reitores;\n\nr) Um representante das associações de jovens empresários;\n\ns) Dois representantes de organizações representativas da agricultura familiar e do mundo rural;\n\nt) Um representante das associações representativas da área da igualdade de oportunidades para mulheres e homens;\n\nu) Dois representantes das organizações representativas do sector financeiro e segurador;\n\nv) Um representante das organizações representativas do sector do turismo;\n\nx) Cinco personalidades de reconhecido mérito nos domínios económico e social, designadas pelo plenário.\n\n2 - A designação deve ter em conta a relevância dos interesses representados, não podendo a mesma organização exercer a representação em mais de uma categoria.\n\n3 - O mandato dos membros do Conselho Económico e Social corresponde ao período de legislatura da Assembleia da República e cessa com a tomada de posse dos novos membros.\n\n4 - Os vice-presidentes referidos na alínea b) do n.º 1 podem ser eleitos de entre os membros do plenário ou fora dele.\n\n5 - Para cada um dos sectores representados haverá um número de suplentes igual ao dos respectivos representantes no Conselho.\n\n6 - Os representantes dos trabalhadores e dos empregadores referidos nas alíneas d) e e) do n.º 1 incluem obrigatoriamente os respectivos representantes na Comissão de Concertação Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+  },
+  "58929777": {
+   "fragment_id": "58928562",
+   "type": 11,
+   "heading": "Artigo 4.º — Designação dos membros",
+   "in_force_from": "1998-11-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+   ],
+   "markdown": "###### Artigo 4.º — Designação dos membros\n\n1 - Dentro dos primeiros 15 dias após a sua posse, o presidente do Conselho Económico e Social dá início ao processo de designação dos membros das categorias referidas nas alíneas c) a x) do n.º 1 do artigo anterior.\n\n2 - Nos casos das alíneas c), d), g), i), j), l), p) e q) do n.º 1 do artigo anterior o presidente do Conselho Económico e Social dirige-se por carta aos presidentes ou outros responsáveis dos órgãos referidos solicitando a indicação, no prazo de 30 dias, dos membros que integrarão o Conselho.\n\n3 - Do início do processo de designação dos membros referidos nas alíneas e), f), h), m), n), o), r), s), t), u) e v) do n.º 1 do artigo anterior deve ser dada publicidade, pelo presidente do Conselho, através de edital publicado em três jornais de grande circulação nacional, fixando um prazo de 30 dias dentro do qual devem candidatar-se, juntando elementos justificativos do seu grau de representatividade, todas as entidades que se julguem representativas das categorias em causa.\n\n4 - No prazo de 15 dias após o termo do prazo fixado no número anterior, o presidente do Conselho Económico e Social convoca para uma reunião todas as entidades que se tenham candidatado, em que deve ser procurado consenso entre os candidatos de cada categoria em relação à designação dos membros que as representarão no Conselho.\n\n5 - Não se verificando consenso, compete ao presidente do Conselho Económico e Social, ouvido o conselho coordenador e tendo em conta a ponderação referida no n.º 2 do artigo anterior, decidir acerca da sua participação no Conselho.\n\n6 - No acto inicial da instituição do Conselho Económico e Social, não estando ainda eleitos os vice-presidentes e os coordenadores das comissões permanentes, a decisão do presidente referida no número anterior é tomada sem parecer do conselho coordenador a que se refere o artigo 10.º\n\n7 - Das decisões do presidente referidas nos números 5 e 6 cabe recurso, sem efeito suspensivo, para o plenário.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+  },
+  "58928671": {
+   "fragment_id": "58929677",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de Junho de 1991.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 26 de Julho de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 31 de Julho de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "58929790": {
+   "fragment_id": "58928561",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2004-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 37/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/37-2004-508871), em vigor a partir de 2004-08-14",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 128/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/lei/128-1999-434006)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho Económico e Social tem a seguinte composição:\n\na) Um presidente, eleito pela Assembleia da República nos termos da alínea h) do artigo 166.º da Constituição;\n\nb) Quatro vice-presidentes, eleitos pelo plenário do Conselho;\n\nc) Oito representantes do Governo, a designar por resolução do Conselho de Ministros;\n\nd) Oito representantes das organizações representativas dos trabalhadores, a designar pelas confederações respectivas;\n\ne) Oito representantes das organizações empresariais, a designar pelas associações de âmbito nacional;\n\nf) Dois representantes do sector cooperativo, a designar pelas confederações cooperativas;\n\ng) Dois representantes, a designar pelo Conselho Superior de Ciência e Tecnologia;\n\nh) Dois representantes das profissões liberais, a designar pelas associações do sector;\n\ni) Um representante do sector empresarial do Estado, a designar por resolução do Conselho de Ministros;\n\nj) Dois representantes de cada região autónoma, a designar pela respectiva assembleia regional;\n\nl) Oito representantes das autarquias locais do continente, eleitos pelos conselhos de região das áreas de cada comissão de coordenação regional, sendo um para a do Alentejo, outro para a do Algarve e dois para cada uma das restantes;\n\nm) Um representante das associações nacionais de defesa do ambiente;\n\nn) Um representante das associações nacionais de defesa dos consumidores;\n\no) Dois representantes das instituições particulares de solidariedade social;\n\np) Um representante das associações de família;\n\nq) Um representante das universidades, a designar pelo Conselho de Reitores;\n\nr) Um representante das associações de jovens empresários;\n\ns) Dois representantes de organizações representativas da agricultura familiar e do mundo rural;\n\nt) Um representante das associações representativas da área da igualdade de oportunidades para mulheres e homens;\n\nu) Um representante de cada uma das associações de mulheres com representatividade genérica;\n\nv) Um representante das associações de mulheres representadas no conselho consultivo da Comissão para a Igualdade e os Direitos das Mulheres, colectivamente consideradas;\n\nx) Um representante das organizações representativas das pessoas com deficiência, a designar pelas associações respectivas;\n\nz) Dois representantes das organizações representativas do sector financeiro e segurador;\n\naa) Um representante das organizações representativas do sector do turismo;\n\nbb) Cinco personalidades de reconhecido mérito nos domínios económico e social, designadas pelo plenário.\n\n2 - A designação deve ter em conta a relevância dos interesses representados, não podendo a mesma organização exercer a representação em mais de uma categoria.\n\n3 - O mandato dos membros do Conselho Económico e Social corresponde ao período de legislatura da Assembleia da República e cessa com a tomada de posse dos novos membros.\n\n4 - Os vice-presidentes referidos na alínea b) do n.º 1 podem ser eleitos de entre os membros do plenário ou fora dele.\n\n5 - Para cada um dos sectores representados haverá um número de suplentes igual ao dos respectivos representantes no Conselho.\n\n6 - Os representantes dos trabalhadores e dos empregadores referidos nas alíneas d) e e) do n.º 1 incluem obrigatoriamente os respectivos representantes na Comissão de Concertação Social.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 37/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/37-2004-508871), em vigor a partir de 2004-08-14\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 128/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/lei/128-1999-434006)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+  },
+  "58929791": {
+   "fragment_id": "58928562",
+   "type": 11,
+   "heading": "Artigo 4.º — Designação dos membros",
+   "in_force_from": "2004-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 37/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/37-2004-508871), em vigor a partir de 2004-08-14",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 128/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/lei/128-1999-434006)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+   ],
+   "markdown": "###### Artigo 4.º — Designação dos membros\n\n1 - Dentro dos primeiros 15 dias após a sua posse, o presidente do Conselho Económico e Social dá início ao processo de designação dos membros das categorias referidas nas alíneas c) a bb) do n.º 1 do artigo anterior.\n\n2 - Nos casos das alíneas c), d), g), i), j), l), p), q), u) e v) do n.º 1 do artigo anterior o presidente do Conselho Económico e Social dirige-se, por carta, aos presidentes ou outros responsáveis dos órgãos referidos solicitando a indicação, no prazo de 30 dias, dos membros que integrarão o Conselho.\n\n3 - Do início do processo de designação dos membros referidos nas alíneas e), f), h), m), n), o), r), s), t), x), z) e aa) do n.º 1 do artigo anterior deve ser dada publicidade, pelo presidente do Conselho, através de edital publicado em três jornais de grande circulação nacional, fixando um prazo de 30 dias dentro do qual devem candidatar-se, juntando elementos justificativos do seu grau de representatividade, todas as entidades que se julguem representativas das categorias em causa.\n\n4 - No prazo de 15 dias após o termo do prazo fixado no número anterior, o presidente do Conselho Económico e Social convoca para uma reunião todas as entidades que se tenham candidatado, em que deve ser procurado consenso entre os candidatos de cada categoria em relação à designação dos membros que as representarão no Conselho.\n\n5 - Não se verificando consenso, compete ao presidente do Conselho Económico e Social, ouvido o conselho coordenador e tendo em conta a ponderação referida no n.º 2 do artigo anterior, decidir acerca da sua participação no Conselho.\n\n6 - No acto inicial da instituição do Conselho Económico e Social, não estando ainda eleitos os vice-presidentes e os coordenadores das comissões permanentes, a decisão do presidente referida no número anterior é tomada sem parecer do conselho coordenador a que se refere o artigo 10.º\n\n7 - Das decisões do presidente referidas nos números 5 e 6 cabe recurso, sem efeito suspensivo, para o plenário.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 37/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/37-2004-508871), em vigor a partir de 2004-08-14\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 128/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/lei/128-1999-434006)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+  },
+  "58929784": {
+   "fragment_id": "58928567",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão Permanente de Concertação Social",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2003 - Diário da República n.º 116/2003, Série I-A de 2003-05-20](https://diariodarepublica.pt/dr/detalhe/lei/12-2003-531429)"
+   ],
+   "markdown": "###### Artigo 9.º — Comissão Permanente de Concertação Social\n\n1 - Compete à Comissão Permanente de Concertação Social, em especial, promover o diálogo e a concertação entre os parceiros sociais, contribuir para a definição das políticas de rendimentos e preços, de emprego e formação profissional.\n\n2 - A Comissão Permanente de Concertação Social tem a seguinte composição:\n\ni) Quatro membros do Governo, a designar por despacho do Primeiro-Ministro;\n\nii) Dois representantes, a nível de direcção, da Confederação Geral dos Trabalhadores Portugueses - Intersindical Nacional, um dos quais o seu secretário-geral;\n\niii) Dois representantes, a nível de direcção, da União Geral de Trabalhadores, um dos quais o seu secretário-geral;\n\niv) O presidente da Confederação dos Agricultores Portugueses;\n\nv) O presidente da Confederação do Comércio e Serviços de Portugal;\n\nvi) O presidente da Confederação da Indústria Portuguesa;\n\nvii) O presidente da Confederação do Turismo Português.\n\n3 - A Comissão Permanente de Concertação Social é presidida pelo Primeiro-Ministro ou por um ministro em quem ele delegar.\n\n4 - Os membros da Comissão podem fazer-se acompanhar de especialistas para os assistir nas reuniões da Comissão ou dos grupos de trabalho.\n\n5 - Em matéria de concertação social, não carecem de aprovação pelo plenário as deliberações tomadas pela respectiva comissão especializada.\n\n6 - Compete à Comissão Permanente de Concertação Social aprovar o seu regulamento específico.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 12/2003 - Diário da República n.º 116/2003, Série I-A de 2003-05-20](https://diariodarepublica.pt/dr/detalhe/lei/12-2003-531429)"
+  },
+  "58929795": {
+   "fragment_id": "58928569",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselho coordenador",
+   "in_force_from": "2014-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), em vigor a partir de 2014-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Conselho coordenador\n\n1 - O conselho coordenador é constituído pelo presidente do Conselho Económico e Social, pelos quatro vice-presidentes e pelos presidentes das comissões especializadas permanentes.\n\n2 - Compete ao conselho coordenador:\n\na) Coadjuvar o presidente no desempenho das suas funções;\n\nb) Aprovar a proposta orçamental e as suas alterações, bem como as contas do Conselho;\n\nc) Dar parecer sobre a participação de entidades que se candidatem a membros do Conselho, nos casos e nos termos referidos nos n.os 3 a 5 do artigo 4.º;\n\nd) Elaborar a ordem de trabalhos do plenário.\n\ne) Regulamentar e conceder as contribuições financeiras a atribuir às organizações referidas no artigo 9.º, cuja dotação se encontra inscrita no orçamento do Conselho\n\n> Alterado pelo/a Artigo 18.º do/a [Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), em vigor a partir de 2014-10-01"
+  },
+  "108024698": {
+   "fragment_id": "58928568",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissões especializadas",
+   "in_force_from": "2015-09-12",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 135/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/135-2015-70196962), em vigor a partir de 2015-09-12"
+   ],
+   "markdown": "###### Artigo 10.º — Comissões especializadas\n\n1 - Para além dos trabalhos em plenário, a actividade dos membros do Conselho desenvolve-se na Comissão Permanente de Concertação Social e nas comissões especializadas. As comissões especializadas são permanentes e temporárias.\n\n2 - São permanentes as comissões especializadas:\n\na) Da política económica e social;\n\nb) Do desenvolvimento regional e do ordenamento do território;\n\nc) Interdisciplinar para a natalidade;\n\nd) Quaisquer outras que venham a ser decididas pelo plenário, por maioria qualificada de dois terços dos seus membros em efectividade de funções.\n\n3 - Sempre que se mostre necessário, o Conselho pode criar comissões especializadas de carácter temporário, com a composição, objectivos e modo de funcionamento que o próprio Conselho definir.\n\n4 - O plenário do Conselho Económico e Social designa os membros das comissões especializadas permanentes, tendo em atenção a natureza dos interesses representados.\n\n5 - Compete às comissões especializadas:\n\na) Elaborar estudos, pareceres, relatórios e informações a pedido de outros órgãos do Conselho ou por sua iniciativa;\n\nb) Propor ao presidente do Conselho a realização dos estudos que considerar necessários ao desempenho das suas funções;\n\nc) Requerer, através do presidente do Conselho, as informações, depoimentos ou esclarecimentos necessários aos seus trabalhos, nos termos previstos nos n.os 2 e 3 do artigo 13.º desta lei;\n\nd) Eleger de entre os seus membros um presidente, que assegurará a direcção e a condução dos trabalhos, tendo voto de qualidade nas deliberações a tomar, e que será o elemento de ligação com os restantes membros do Conselho, sendo ele próprio membro do conselho coordenador.\n\n> Alterado pelo/a [Lei n.º 135/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/135-2015-70196962), em vigor a partir de 2015-09-12"
+  },
+  "108024714": {
+   "fragment_id": "58928561",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2017-09-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 81/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/81-2017-108021176), em vigor a partir de 2017-09-17",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 37/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/37-2004-508871), em vigor a partir de 2004-08-14",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 128/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/lei/128-1999-434006)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho Económico e Social tem a seguinte composição:\n\na) Um presidente, eleito pela Assembleia da República nos termos da alínea h) do artigo 166.º da Constituição;\n\nb) Quatro vice-presidentes, eleitos pelo plenário do Conselho;\n\nc) Oito representantes do Governo, a designar por resolução do Conselho de Ministros;\n\nd) Oito representantes das organizações representativas dos trabalhadores, a designar pelas confederações respectivas;\n\ne) Oito representantes das organizações empresariais, a designar pelas associações de âmbito nacional;\n\nf) Dois representantes do sector cooperativo, a designar pelas confederações cooperativas;\n\ng) Dois representantes, a designar pelo Conselho Superior de Ciência e Tecnologia;\n\nh) Dois representantes das profissões liberais, a designar pelas associações do sector;\n\ni) Um representante do sector empresarial do Estado, a designar por resolução do Conselho de Ministros;\n\nj) Dois representantes de cada região autónoma, a designar pela respectiva assembleia regional;\n\nk) Oito representantes das autarquias locais do continente, eleitos pelos conselhos de região das áreas de cada comissão de coordenação regional, sendo um para a do Alentejo, outro para a do Algarve e dois para cada uma das restantes;\n\nl) Um representante das associações nacionais de defesa do ambiente;\n\nm) Um representante das associações nacionais de defesa dos consumidores;\n\nn) Três representantes do setor social, sendo um representante das Instituições Particulares de Solidariedade Social, um representante das Misericórdias e um representante das Mutualidades;\n\no) Um representante das associações de família;\n\np) Um representante das universidades, a designar pelo Conselho de Reitores;\n\nq) Um representante das associações de jovens empresários;\n\nr) Dois representantes de organizações representativas da agricultura familiar e do mundo rural;\n\ns) Um representante das associações representativas da área da igualdade de oportunidades para mulheres e homens;\n\nt) Um representante de cada uma das associações de mulheres com representatividade genérica;\n\nu) Um representante das associações de mulheres representadas no conselho consultivo da Comissão para a Cidadania e Igualdade de Género, coletivamente consideradas;\n\nv) Um representante das organizações representativas das pessoas com deficiência, a designar pelas associações respectivas;\n\nw) Dois representantes das organizações representativas do sector financeiro e segurador;\n\nx) Um representante da Confederação Portuguesa das Coletividades de Cultura, Recreio e Desporto;\n\ny) Um representante das organizações representativas de imigrantes;\n\nz) Dois representantes do Conselho das Comunidades Portuguesas;\n\naa) (Revogada.)\n\nbb) Cinco personalidades de reconhecido mérito nos domínios económico e social, designadas pelo plenário.\n\ncc) Um representante do Conselho Nacional de Juventude;\n\ndd) Um representante da Federação Nacional das Associações Juvenis;\n\nee) Dois representantes das organizações representativas dos reformados, pensionistas e aposentados.\n\n2 - A designação deve ter em conta a relevância dos interesses representados e sempre que a organização se faça representar por mais que uma pessoa deve ser observado o critério da paridade entre homens e mulheres, não podendo a mesma organização exercer a representação em mais de uma categoria.\n\n3 - O mandato dos membros do Conselho Económico e Social corresponde ao período de legislatura da Assembleia da República e cessa com a tomada de posse dos novos membros.\n\n4 - Os vice-presidentes referidos na alínea b) do n.º 1 podem ser eleitos de entre os membros do plenário ou fora dele.\n\n5 - Para cada um dos sectores representados haverá um número de suplentes igual ao dos respectivos representantes no Conselho.\n\n6 - Os representantes dos trabalhadores e empregadores referidos nas alíneas d) e e) do n.º 1 incluem obrigatoriamente os respetivos representantes na Comissão Permanente de Concertação Social.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 81/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/81-2017-108021176), em vigor a partir de 2017-09-17\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 37/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/37-2004-508871), em vigor a partir de 2004-08-14\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 128/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/lei/128-1999-434006)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+  },
+  "108024715": {
+   "fragment_id": "58928562",
+   "type": 11,
+   "heading": "Artigo 4.º — Designação dos membros",
+   "in_force_from": "2017-09-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 81/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/81-2017-108021176), em vigor a partir de 2017-09-17",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 37/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/37-2004-508871), em vigor a partir de 2004-08-14",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 128/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/lei/128-1999-434006)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+   ],
+   "markdown": "###### Artigo 4.º — Designação dos membros\n\n1 - Dentro dos primeiros 15 dias após a sua posse, o presidente do Conselho Económico e Social dá início ao processo de designação dos membros das categorias referidas nas alíneas c) a ee) do n.º 1 do artigo anterior.\n\n2 - Nos casos das alíneas c), d), g), i), j), k), p), t), u), x), z), cc) e dd) do n.º 1 do artigo anterior, o presidente do Conselho Económico e Social dirige-se por carta aos presidentes ou outros responsáveis dos órgãos referidos solicitando a indicação, no prazo de 30 dias, dos membros que devem integrar o Conselho.\n\n3 - Do início do processo de designação dos membros referidos nas alíneas e), f), h), l), m), n), o), q), r), s), v), w), y) e ee) do n.º 1 do artigo anterior deve ser dada publicidade, pelo presidente do Conselho, através de edital publicado em três jornais de grande circulação nacional, fixando um prazo de 30 dias dentro do qual devem candidatar-se, juntando elementos justificativos do seu grau de representatividade, todas as entidades que se julguem representativas das categorias em causa.\n\n4 - No prazo de 15 dias após o termo do prazo fixado no número anterior, o presidente do Conselho Económico e Social convoca para uma reunião todas as entidades que se tenham candidatado, em que deve ser procurado consenso entre os candidatos de cada categoria em relação à designação dos membros que as representarão no Conselho.\n\n5 - Não se verificando consenso, compete ao presidente do Conselho Económico e Social, ouvido o conselho coordenador e tendo em conta a ponderação referida no n.º 2 do artigo anterior, decidir acerca da sua participação no Conselho.\n\n6 - No ato inicial da instituição do Conselho Económico e Social, não estando ainda eleitos os vice-presidentes e os coordenadores das comissões permanentes, a decisão do presidente referida no número anterior é tomada sem parecer do conselho coordenador a que se refere o artigo 11.º\n\n7 - Das decisões do presidente referidas nos números 5 e 6 cabe recurso, sem efeito suspensivo, para o plenário.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 81/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/81-2017-108021176), em vigor a partir de 2017-09-17\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 37/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/37-2004-508871), em vigor a partir de 2004-08-14\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 128/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/lei/128-1999-434006)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 80/98 - Diário da República n.º 272/1998, Série I-A de 1998-11-24](https://diariodarepublica.pt/dr/detalhe/lei/80-1998-216511), em vigor a partir de 1998-11-25"
+  },
+  "108025906": {
+   "fragment_id": "58928574",
+   "type": 11,
+   "heading": "Artigo 16.º — Organismos extintos",
+   "in_force_from": "2017-09-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 81/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/81-2017-108021176), em vigor a partir de 2017-09-17"
+   ],
+   "markdown": "###### Artigo 16.º — Organismos extintos\n\nTrinta dias após a entrada em vigor do decreto-lei referido no artigo anterior e da eleição e tomada de posse do presidente do Conselho Económico e Social são extintos o Conselho Nacional do Plano, o Conselho de Rendimentos e Preços e o Conselho Permanente de Concertação Social.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 81/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/81-2017-108021176), em vigor a partir de 2017-09-17"
+  }
+ }
+}

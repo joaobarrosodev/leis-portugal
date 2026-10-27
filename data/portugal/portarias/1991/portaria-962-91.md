@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:301620:por
+title: Portaria n.º 962/91
+short_title: null
+summary: Altera o n.º 2.º da Portaria n.º 656/90, de 9 de Agosto, que sujeita ao regime cinegético especial as propriedades
+  denominadas «Herdade da Defesa de S. Brás e outras», situadas na freguesia de São João Baptista, concelho de Moura
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 962/91
+official_date: null
+publication_date: '1991-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/1991, Série I-B de 1991-09-20
+  number: '217'
+  series: I
+  supplement: null
+  pages: 4988 - 4988
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/09/217b00/49884988.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/962/1991/09/20/p/dre/pt/html
+  oj: null
+  dre: '301620'
+  dre_path: /dr/detalhe/portaria/962-1991-301620
+  internal: pt:dre:301620:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/962-1991-301620
+  metadata_url: https://data.dre.pt/eli/port/962/1991/09/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/962-1991-301620
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3ac0239f1d6488c251616531d79086c5aaac1af469245f4329497a0ce4969edb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:05:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- Moura
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573494:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:05:19Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 962/91
+
+de 20 de Setembro
+
+Com fundamento no disposto no artigo 19.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e no artigo 81.º, n.º 1, do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto;
+
+Ouvido o Conselho Nacional da Caça e Conservação da Fauna:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação que o n.º 2.º da [Portaria n.º 656/90](https://diariodarepublica.pt/dr/detalhe/portaria/656-1990-573494), de 9 de Agosto, passe a ter a seguinte redacção:
+
+2.º Nesta área, até ao dia 31 de Maio de 1998, é concessionada à Sociedade Dacaça - Desporto e Caça, Lda., a exploração de uma zona de caça turística (processo n.º 316 da Direcção-Geral das Florestas).
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+Assinada em 2 de Setembro de 1991.
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

@@ -1,0 +1,115 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:432458:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-865421428",
+ "dre_path": "/dr/detalhe/decreto-lei/218-1995-432458",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "865423270",
+    "865423271",
+    "865423272",
+    "865423273",
+    "865423274",
+    "865531775"
+   ]
+  },
+  {
+   "date": "2012-07-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179368:por",
+     "title": "Decreto-Lei n.º 159/2012",
+     "published": "2012-07-24",
+     "dre_path": "/dr/detalhe/decreto-lei/159-2012-179368"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "865423270",
+    "865531777",
+    "865423272",
+    "865423273",
+    "865423274",
+    "865531775",
+    "865531776"
+   ]
+  }
+ ],
+ "fragments": {
+  "865423270": {
+   "fragment_id": "865421429",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 218/95\n\nde 28 de Agosto\n\nO incremento das actividades de ocupação dos tempos livres e de lazer, em especial das que implicam a utilização de veículos automóveis, ciclomotores e todo-o-terreno, tem conduzido a uma crescente procura de terrenos do domínio público, como as praias e dunas.\n\nApesar do seu carácter meritório, estas iniciativas têm de ser prosseguidas de forma responsável, sem lesão abusiva do interesse público, por forma a alcançar um equilíbrio aceitável entre os interesses em presença.\n\nDe facto, a circulação de veículos automóveis e ciclomotores nas praias e dunas tem ocasionado com alguma frequência acidentes com danos pessoais para os cidadãos, que legitimamente exigem segurança na utilização daqueles locais.\n\nPor outro lado, a sensibilidade geomorfológica daquele tipo de solos, bem como a dificuldade e demora da recuperação do coberto vegetal, implica que aquela utilização se traduza numa desproporcionada lesão do interesse público ambiental.\n\nA salvaguarda da segurança dos cidadãos e a preservação ambiental daquelas zonas impõem, pois, que apenas se permita tal utilização nas situações em que a mesma seja essencial para o exercício de determinadas actividades profissionais, como a pesca e a agricultura.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "865423271": {
+   "fragment_id": "865421430",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É proibida a circulação de veículos automóveis e ciclomotores nas praias, dunas, falésias e reservas integrais pertencentes ao domínio público ou a áreas classificadas nos termos do Decreto-Lei n.º 19/93, de 23 de Janeiro, bem como nas zonas para o efeito definidas nos planos de ordenamento da orla costeira (POOC).\n\n2 - Exceptuam-se do âmbito de aplicação do presente diploma o exercício de actividades legalmente previstas, como as agrícolas, florestais e piscatórias, e a circulação de viaturas em missões de manutenção, urgência e socorro, fiscalização ou segurança, bem como a decorrente das actividades devidamente licenciadas, nos termos constantes das respectivas licenças."
+  },
+  "865423272": {
+   "fragment_id": "865421431",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Em áreas protegidas e zonas especiais de protecção só é permitida a prática de todo-o-terreno, como actividade de recreio e lazer, nos caminhos ou trilhos existentes e de acordo com as normas aplicáveis.\n\n2 - Em áreas protegidas e em zonas especiais de protecção, as provas e passeios organizados de todo-o-terreno apenas podem ter lugar quando devidamente autorizados pela autoridade administrativa com jurisdição na área.\n\n3 - Nas provas e passeios organizados de todo-o-terreno, a respectiva organização é responsável por:\n\na) Obter o prévio consentimento dos proprietários ou das entidades públicas que detenham jurisdição sobre a área a percorrer nos percursos adoptados;\n\nb) Retirar todas as marcas de presença, de passagem ou qualquer outro tipo de sinalização imediatamente após a conclusão do percurso delimitado;\n\nc) Providenciar no sentido de serem retirados todos os detritos resultantes da concentração dos participantes e espectadores."
+  },
+  "865423273": {
+   "fragment_id": "865421432",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - A fiscalização do cumprimento do presente diploma compete às direcções regionais do ambiente e recursos naturais (DRARN), às autoridades administrativas das áreas protegidas, às capitanias dos portos, à Direcção-Geral de Viação e às forças de segurança, que deverão lavrar os respectivos autos de notícia.\n\n2 - A competência para a instrução dos processos de contra-ordenação é da DRARN ou da autoridade administrativa da área protegida em cuja área de jurisdição se tenha verificado a infracção.\n\n3 - Finda a instrução, os processos são remetidos ao presidente do Instituto da Água (INAG) ou ao presidente do Instituto de Conservação da Natureza (ICN), conforme o caso, para decisão final."
+  },
+  "865423274": {
+   "fragment_id": "865421433",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - A violação do disposto no n.º 1 do artigo 1.º e no artigo 2.º constitui contra-ordenação punível com coima de 50000$00 a 500000$00.\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - As coimas aplicadas às pessoas colectivas podem elevar-se até ao montante de 6000000$00, em caso de dolo, e de 3000000$00, em caso de negligência.\n\n4 - A contra-ordenação prevista neste diploma corresponde, para efeitos do disposto no Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, a contra-ordenação grave."
+  },
+  "865531775": {
+   "fragment_id": "865421434",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA repartição do produto das coimas previstas no artigo anterior faz-se da seguinte forma:\n\na) 20% para a entidade que levantou o auto;\n\nb) 20% para a DRARN ou autoridade administrativa da área protegida que tiver instruído o processo;\n\nc) 60% para o Estado."
+  },
+  "865531777": {
+   "fragment_id": "865421430",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2012-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 159/2012 - Diário da República n.º 142/2012, Série I de 2012-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2012-179368), em vigor a partir de 2012-07-25"
+   ],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É proibida a circulação de veículos automóveis e ciclomotores nas praias, dunas, falésias e reservas integrais pertencentes ao domínio público ou a áreas classificadas nos termos do Decreto-Lei n.º 19/93, de 23 de Janeiro, bem como nas zonas para o efeito definidas nos planos de ordenamento da orla costeira (POOC).\n\n2 - Exceptuam-se do âmbito de aplicação do presente diploma o exercício de actividades legalmente previstas, como as agrícolas, florestais e piscatórias, e a circulação de viaturas em missões de manutenção, urgência e socorro, fiscalização ou segurança, bem como a decorrente das actividades devidamente licenciadas, nos termos constantes das respectivas licenças.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 159/2012 - Diário da República n.º 142/2012, Série I de 2012-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2012-179368), em vigor a partir de 2012-07-25"
+  },
+  "865531776": {
+   "fragment_id": "865421435",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Junho de 1995. - Aníbal António Cavaco Silva António Jorge de Figueiredo Lopes - Carlos Manuel Sousa Encarnação - Eduardo de Almeida Catroga António Duarte Silva - Maria Teresa Pinto Basto Gouveia - António Baptista Duarte Silva.\n\nPromulgado em 8 de Agosto de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Agosto de 1995.\n\nPelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna."
+  }
+ }
+}

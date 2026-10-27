@@ -1,0 +1,277 @@
+---
+schema_version: '1.0'
+id: pt:dre:253385:por
+title: Portaria n.º 360/77
+short_title: null
+summary: Estabelece o sistema tarifário da Empresa de Electricidade da Madeira
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Obras Públicas
+proposing_entity: null
+official_number: 360/77
+official_date: null
+publication_date: '1977-06-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 136/1977, Série I de 1977-06-15
+  number: '136'
+  series: I
+  supplement: null
+  pages: 1440 - 1443
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '253385'
+  dre_path: /dr/detalhe/portaria/360-1977-253385
+  internal: pt:dre:253385:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-1977-253385
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-1977-253385
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:20:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 367511cd396fb9a2a14520969ca869346c0e594bc5578fdbe56607dcb3b237f7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:20:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa de Electricidade da Madeira
+- Energia Elétrica
+- Madeira.região Autónoma
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:617282:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:20:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 360/77
+
+de 15 de Junho
+
+1 - Os acréscimos de preços verificados nos últimos anos em combustíveis, equipamentos, taxas de juro e salários têm provocado o elevado custo de produção de energia no arquipélago da Madeira, não tendo havido o correspondente aumento das tarifas em vigor, datadas de 1953, beneficiando unicamente em 1975 de um adicional de $14 e $17, respectivamente, para os consumidores não domésticos e domésticos do 2.º, 3.º e 4.º escalões, gerando-se, nos últimos anos, sucessivos deficits na exploração da Empresa de Electricidade da Madeira.
+
+2 - Através da Portaria de 3 de Junho de 1976 foi autorizado um novo adicional às tarifas em vigor nas empresas congéneres do continente e Açores que não foi extensivo à Empresa de Electricidade da Madeira.
+
+3 - Por decisão do Conselho de Ministros, na sua reunião de 10 de Maio, foi decidida a adopção pela Empresa de Electricidade da Madeira do tarifário da EDP, publicado na [Portaria n.º 31-A/77](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-1977-617282), de 21 de Janeiro, com os ajustamentos julgados adequados aos condicionalismos da Região Autónoma da Madeira, que se seguem:
+
+3.1 - A não consideração da tarifa de alta tensão, dado que a maior tensão utilizada é de 30 kV.
+
+3.2 - A tarifa a aplicar na média tensão será idêntica à tarifa de baixa tensão para consumidores não domésticos, com a bonificação de 10% quando a medição de energia é feita à tensão de entrega, de acordo com a prática em vigor na EEM e baseada nos níveis de consumo da generalidade dos consumidores de média tensão.
+
+3.3 - A modificação da fórmula de revisão automática das tarifas adoptadas pela EDP, em função do aumento do preço dos combustíveis, em virtude da diferente incidência da componente térmica na produção total e da utilização complementar dos combustíveis leves.
+
+3.4 - A aplicação da taxa de potência a todos os consumidores, independentemente da tarifa que anteriormente lhes era aplicada.
+
+3.5 - Extensão dos períodos de ponta a todo o ano, enquanto se justificar.
+
+4 - A extensão do tarifário da EDP à EEM visa uma uniformização de critério, apesar de as receitas previsíveis não serem de molde a satisfazerem o desejável equilíbrio económico da Empresa.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, ouvido o Governo Regional da Madeira e em conformidade com a resolução do Conselho de Ministros de 10 de Maio de 1977:
+
+1. Adoptar o novo sistema tarifário para a Empresa de Electricidade da Madeira publicado em anexo a este diploma e dele fazendo parte integrante.
+
+2. Entrar em vigor o tarifário referido em 1 a partir de 1 de Junho de 1977.
+
+Ministério das Obras Públicas, 17 de Maio de 1977. - O Ministro das Obras Públicas, João Orlindo de Almeida Pina.
+
+SISTEMA TARIFÁRIO DA EMPRESA DE ELECTRICIDADE DA MADEIRA ANEXO À PORTARIA DO MINISTRO DAS OBRAS PÚBLICAS
+
+ARTIGO 1.º
+
+(Âmbito e estrutura do sistema tarifário)
+
+1 - O sistema tarifário é o conjunto de regras utilizadas no cálculo do preço de venda de electricidade para os fornecimentos garantidos em média e baixa tensão.
+
+2 - Este sistema tarifário apresenta uma estrutura que considera como elementos intervenientes na facturação do fornecimento de energia eléctrica a potência e as energias activa e reactiva. Os preços a praticar dependem do nível de tensão e dos períodos de entrega da energia eléctrica e são apresentados nos quadros 1 e 2, que fazem parte integrante deste sistema tarifário.
+
+ARTIGO 2.º
+
+(Níveis de tensão)
+
+1 - Para efeitos de aplicação do sistema tarifário, consideram-se os seguintes níveis de tensão:
+
+Baixa tensão - tensão até 500 V;
+
+Média tensão - entre 500 V e 60000 V.
+
+2 - Os valores de tensão indicados referem-se a valores nominais de tensão entre fases.
+
+ARTIGO 3.º
+
+(Períodos tarifários)
+
+1 - Para efeitos deste sistema tarifário, consideram-se:
+
+Inverno - de 1 de Novembro a 30 de Abril;
+
+Verão - de 1 de Maio a 31 de Outubro;
+
+Horas de ponta - até seis horas por dia no período de Inverno e quatro horas por dia no período de Verão;
+
+Horas vazias - pelo menos oito horas por dia útil, abrangendo o período das 23 às 7 horas;
+
+Horas cheias - principal período de fornecimento, com excepção das horas de vazio e de ponta.
+
+2 - Os períodos tarifários foram definidos atendendo às condições climatéricas específicas do arquipélago da Madeira, podendo ser alterados, mediante aviso aos consumidores, com três meses de antecedência.
+
+3 - Para efeitos de facturação, as estações anuais terminam ou iniciam-se no momento das leituras ordinárias mais próximas das datas respectivas fixadas no n.º 1 anterior.
+
+4 - Sempre que a energia consumida não seja objecto de medições diferenciadas por postos horários será, em regra, facturada ao preço de horas cheias.
+
+ARTIGO 4.º
+
+(Potência a facturar em média tensão)
+
+1 - A potência tomada num mês é a maior potência média de qualquer período de quinze minutos solicitada pelo consumidor durante esse mês.
+
+2 - A potência a facturar é, em regra, a maior potência tomada pelo consumidor nos últimos doze meses.
+
+3 - Mediante requisição conveniente e pagamento das taxas de colocação de aparelhagem necessária, os consumidores podem dispor de medida separada de potência tomada nas horas de vazio, caso em que a potência a facturar é dada pela fórmula seguinte:
+
+P(índice f) = P(índice 2) + d x (P(índice 1) - P(índice 2))
+
+onde P(índice 1) é a maior potência tomada nos últimos doze meses, P(índice 2) é a maior potência tomada nos últimos doze meses fora das horas de vazio e d é um parâmetro fixado no quadro 1.
+
+4 - A potência a facturar a qualquer consumidor nunca será inferior ao valor do produto de d pela potência contratada.
+
+5 - A potência contratada em qualquer momento é igual ao valor que figura nas condições especiais do respectivo contrato ou é igual à maior potência tomada, quando esta lhe for superior.
+
+6 - Sempre que a medida da potência tomada for feita em baixa tensão, à potência medida será adicionada a potência de perdas no ferro dos transformadores e a soma será acrescida de 1% para atender às perdas nos enrolamentos.
+
+7 - A potência a facturar dá origem à cobrança mensal de uma taxa por kilowatt, definida no quadro 1, exigível enquanto durar o contrato de fornecimento.
+
+ARTIGO 5.º
+
+(Potência a facturar em baixa tensão)
+
+1 - Nas entregas de energia eléctrica em baixa tensão a potência tomada será considerada igual à potência contratada, uma e outra controladas por um disjuntor calibrado, instalado e selado pelo distribuidor. Para potências contratadas superiores a 13,2 kVA o disjuntor calibrado poderá ser substituído por um indicador de potência tomada.
+
+Aos consumidores domésticos com potência contratada até 13,2 kVA que, por razões regulamentares, foram forçados a adoptar instalações trifásicas será considerada uma redução de 3,3 kVA na facturação da potência, para atender à menor flexibilidade de carga existente nas suas instalações. Aquela redução de potência deixará de ser considerada se o distribuidor for impedido pelo consumidor de passar a alimentá-lo monofasicamente.
+
+Enquanto não for instalado o disjuntor calibrado ou qualquer outro meio de contrôle da potência tomada em baixa tensão, o distribuidor adoptará como potência de facturação a correspondente ao calibre de utilização do contador existente.
+
+2 - A potência a facturar em baixa tensão dá origem à cobrança de uma taxa mensal, variável por escalões, definida no quadro 2.
+
+3 - Os consumidores, mediante requisição e pagamento da taxa de colocação da aparelhagem necessária, poderão usufruir de potência suplementar interruptível durante as horas de ponta, sendo apenas facturados pela potência contratada não interruptível (que não pode ultrapassar 13,2 kVA, controlada pelo correspondente disjuntor calibrado) e pela utilização e conservação da aparelhagem suplementar necessária.
+
+Aos consumidores que já disponham de potência interruptível nas horas de ponta o distribuidor poderá facturar o correspondente suplemento de taxa fixa mensal enquanto não existir o disjuntor calibrado de contrôle da potência contratada não interruptível. Neste caso, será considerada como potência de facturação a correspondente ao escalão anterior ao calibre de utilização do contador existente, sem prejuízo do disposto no n.º 1 anterior, mas com um mínimo de 3,3 kVA. Este regime é aplicável aos novos consumidores que tenham solicitado fornecimentos de energia com potência interruptível, no caso de o distribuidor não colocar a aparelhagem necessária à interrupção da potência passados seis meses sobre a apresentação do respectivo pedido.
+
+4 - Os consumidores poderão pedir, por escrito, redução da potência contratada, desde que o justifiquem, devendo o distribuidor considerar a nova potência para efeitos de facturação a partir do mês seguinte ao da apresentação do respectivo pedido, independentemente de estar ou não colocado o disjuntor calibrado correspondente.
+
+A justificação referida deverá indicar a potência instalada e os consumos anteriores.
+
+O distribuidor poderá recusar a redução de potência solicitada sempre que a correspondente utilização da nova potência no mês de maior consumo verificado nos últimos doze meses seja superior a sessenta horas.
+
+ARTIGO 6.º
+
+(Energia activa a facturar)
+
+1 - A energia consumida em cada posto horário será facturada aos preços indicados nos quadros 1 e 2.
+
+2 - Relativamente aos consumidores de energia eléctrica em média tensão, em que a respectiva contagem seja efectuada em baixa tensão, à energia medida será adicionado o valor correspondente às perdas no ferro dos transformadores e à soma resultante será acrescido 1% para atender às perdas nos enrolamentos. As perdas no ferro serão consideradas como correspondentes a setecentas e vinte horas por mês, das quais trezentas e dez serão consideradas de vazio.
+
+3 - Aos consumidores que tenham solicitado há mais de seis meses contagem separada de energia em horas de vazio sem que o distribuidor tenha instalado os contadores apropriados para o efeito é considerada de vazio toda a energia eléctrica consumida que ultrapassar a correspondente à utilização de cem horas por mês e duzentas horas por mês da potência contratada, respectivamente em baixa e média tensão, com os consequentes reflexos tarifários e com a inclusão na tarifa tripla.
+
+4 - Para fazer face às alterações do preço dos combustíveis utilizados na produção termoeléctrica, e enquanto o presente sistema tarifário não for revisto, a EEM, depois de obtida a autorização necessária, aplicará às taxas de energia um adicional - A - calculado pela seguinte expressão:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf)
+
+O adicional será aplicado independentemente da tensão de entrega e do período tarifário considerado.
+
+ARTIGO 7.º
+
+(Energia reactiva a facturar)
+
+Quando a energia reactiva medida fora das horas de vazio for superior a 60% da energia activa consumida em igual período, o excedente será facturado a um preço por kilovolt-ampere reactivo-hora igual a um terço da taxa de energia activa de horas cheias correspondente à tensão de entrega.
+
+Nos fornecimentos em média tensão, em que a respectiva contagem seja efectuada em baixa tensão, à energia reactiva medida será adicionado o valor de 10% da energia activa medida no mesmo período, para atender à contribuição do transformador para o consumo de energia reactiva.
+
+ARTIGO 8.º
+
+(Disposições complementares)
+
+1 - O preço de energia de horas cheias que figura no quadro 2 será aumentado de $40 por kilowatt-hora para todos os consumidores não domésticos em baixa tensão aos quais à data da entrada em vigor deste tarifário correspondesse a aplicação de tarifas em que o preço mais elevado do último escalão de energia de horas cheias seja igual ou superior a 1$00 por kilowatt-hora. Este aumento não terá lugar sempre que ao consumidor seja aplicada a tarifa com horário de ponta.
+
+2 - A potência permanente de 1,1 kVA em fornecimentos de baixa tensão só será de considerar para consumidores domésticos ou para consumidores que sejam titulares de contratos especiais por avença.
+
+Os contratos especiais por avença são aqueles em que o consumo é determinado somente pelo horário de fornecimento e características de instalação.
+
+3 - Consumidores domésticos são os que utilizam a energia eléctrica exclusivamente na sua habitação.
+
+Os consumidores domésticos que exerçam uma pequena actividade profissional na sua habitação não têm acesso ao escalão de potência de 1,1 kVA.
+
+4 - O calibre de utilização de um contador corresponde ao valor da potência que consta da requisição do fornecimento de energia eléctrica ou ao valor aposto pelo distribuidor na caixa do contador em causa.
+
+5 - Aos consumidores de baixa tensão com mais de 13,2 kVA ainda sem indicador de potência tomada a taxa fixa mensal aplicável será de 20$00 por kilovolt-ampere, sendo dispensados do pagamento de energia reactiva.
+
+6 - O consumidor com habitação até três divisões e potência contratada até 1,1 kVA e que não consuma mais de 100 kWh por ano pode requerer um tratamento mais favorável, que corresponderá a pagar apenas metade da taxa fixa mensal.
+
+Todos os consumidores que actualmente são facturados pela tarifa doméstica especial serão considerados pelo distribuidor ao abrigo desta disposição, sem necessidade de o requererem.
+
+ARTIGO 9.º
+
+(Dúvidas)
+
+As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Secretário de Estado dos Recursos Hídricos e Saneamento Básico.
+
+Tarifas de energia eléctrica em média tensão
+
+QUADRO 1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf)
+
+Nota. - Às indústrias de moagem e outras do ramo alimentar, de laboração contínua e com consumos anuais superiores a 750000 kWh, poderá ser facturado o consumo de ponta pelas tarifas de consumo de horas cheias, desde que utilizem permanentemente a energia do distribuidor.
+
+Tarifas de energia eléctrica em baixa tensão
+
+QUADRO 2
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/13600/14401443.pdf)
+
+O Ministro das Obras Públicas, João Orlindo de Almeida Pina.

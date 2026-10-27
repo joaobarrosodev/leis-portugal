@@ -1,0 +1,224 @@
+---
+schema_version: '1.0'
+id: pt:dre:472689:por
+title: Decreto-Lei n.º 196/80
+short_title: null
+summary: Determina a transferência para o Estado das infra-estruturas de longa duração do Metropolitano de Lisboa, E. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano e dos Transportes e Comunicações
+proposing_entity: null
+official_number: 196/80
+official_date: null
+publication_date: '1980-06-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 140/1980, Série I de 1980-06-20
+  number: '140'
+  series: I
+  supplement: null
+  pages: 1430 - 1431
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14000/14301431.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '472689'
+  dre_path: /dr/detalhe/decreto-lei/196-1980-472689
+  internal: pt:dre:472689:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1980-472689
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1980-472689
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:28:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 96c6d4ce903bbc62dc8293a9e02748d0e25583039e0758cbd1c3eae36bb720ec
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa Pública
+- Financiamento
+- Metropolitano de Lisboa
+- Obras Públicas
+- Pagamento
+- Saneamento Económico e Financeiro
+- Setor Empresarial do Estado
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:240864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404479:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:28:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 196/80
+
+de 20 de Junho
+
+Pelo [Decreto-Lei n.º 353-T/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-t-1977-240864), de 29 de Agosto, foi estabelecido que as infra-estruturas de longa duração afectas a empresas públicas de transportes públicos colectivos urbanos de passageiros poderão ser total ou parcialmente financiadas a fundo perdido pelo Estado.
+
+Posteriormente, foi essa disciplina aplicada ao Metropolitano de Lisboa pelo [Decreto Regulamentar n.º 90/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/90-1977-404479), de 31 de Dezembro. Este diploma dispunha, nomeadamente, que até 31 de Dezembro de 1980 o esquema de financiamento nele previsto seria obrigatoriamente revisto.
+
+Entende-se que urge rever o referido esquema de financiamento quanto às condições de amortização da dívida assumida pelo Estado, as quais se devem aproximar das condições de amortização dos empréstimos obrigacionistas para saneamento financeiro previstas pelo [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho, entretanto publicado.
+
+Deve referir-se ainda que o presente diploma não só não constitui qualquer medida centralizadora - já que se reporta unicamente a relações entre o Estado e uma empresa pública estadual -, como irá permitir alcançar o saneamento económico-financeiro do Metropolitano de Lisboa em bases seguras.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - As infra-estruturas de longa duração do Metropolitano de Lisboa, E. P., serão financiadas integralmente a fundo perdido pelo Estado até ao fim de 1980.
+
+2 - O disposto no número precedente aplicar-se-á às infra-estruturas de longa duração já existentes à data da entrada em vigor do presente diploma.
+
+Art. 2.º - 1 - Para efeitos do presente diploma, consideram-se como encargos de infra-estruturas de longa duração as despesas de investimento resultantes de realização de:
+
+a) Estudos para o desenvolvimento da rede;
+
+b) Galerias, estações e demais construções acessórias ou complementares;
+
+c) Via férrea;
+
+d) Redes de baixa e alta tensão;
+
+e) Sistemas de telecomunicações e de contrôle;
+
+f) Equipamentos de ventilação e bombagem;
+
+g) Acessos mecânicos.
+
+2 - Os custos de conservação e reparação das infra-estruturas de longa duração indicadas no n.º 1 são de conta da empresa.
+
+3 - Os proveitos acessórios da exploração relativos à locação de espaços nas referidas infra-estruturas, obtidos até 31 de Dezembro de 1978, são deduzidos nos encargos financeiros vencidos nos termos do n.º 3 do artigo 4.º
+
+4 - Os proveitos acessórios obtidos a partir daquela data constituem receita da empresa.
+
+Art. 3.º - 1 - Em cumprimento do n.º 2 do artigo 1.º, o Estado assume perante as entidades credoras o pagamento da dívida correspondente aos encargos suportados com as infra-estruturas de longa duração indicadas no artigo 2.º, incluindo os encargos financeiros respectivos, vencidos e vincendos, deduzida das dotações atribuídas até 31 de Dezembro de 1978 ao Metropolitano de Lisboa, E. P., quer para financiamento de infra-estruturas de longa duração, quer para regularização de encargos financeiros com as mesmas.
+
+2 - A amortização da dívida referida efectuar-se-á nas sete prestações anuais seguintes, com início em 31 de Outubro de 1980:
+
+1980 - 450000000$00;
+
+1981 - 400000000$00;
+
+1982 - 350000000$00;
+
+1983 - 300000000$00;
+
+1984 - 250000000$00;
+
+1985 - 250000000$00;
+
+1986 - 191244220$82.
+
+3 - O pagamento dos encargos financeiros decorrentes do esquema constante do número anterior será efectuado em 31 de Dezembro de cada ano, a partir de 1980.
+
+4 - Os encargos financeiros vencidos até 31 de Dezembro de 1978, no montante de 233465999$51, serão pagos em 31 de Dezembro de 1980.
+
+Art. 4.º - 1 - O montante líquido exacto dos encargos cujo pagamento o Estado assume é, com referência a 31 de Dezembro de 1978, de 2424710220$33 e corresponde à soma do valor das infra-estruturas de longa duração, determinado de acordo com o n.º 1 do artigo 2.º, com o valor líquido dos encargos financeiros, conforme referido no n.º 3 do artigo 3.º
+
+2 - O valor das infra-estruturas de longa duração cujo pagamento o Estado assume é de 2191244220$82 e resulta da subtracção do montante de 50000000$00 à despesa de investimento das realizações referidas nas alíneas a) a g) do n.º 1 do artigo 2.º, totalizando 2241244220$82.
+
+3 - O valor líquido dos encargos financeiros é de 233465999$51 e corresponde a 708487163$91, relativos aos encargos financeiros totais com infra-estruturas de longa duração, depois de deduzidas as dotações atribuídas pelo OGE em 1977 e 1978, respectivamente de 294000 contos e 162000 contos, e os proveitos acessórios de exploração relativos à locação de espaços nas referidas infra-estruturas obtidos até 31 de Dezembro de 1978, no montante de 19021164$40.
+
+4 - O montante exacto da dívida cujo pagamento o Estado assume, relativamente a investimentos realizados a partir de 1 de Janeiro de 1979, será fixado por despacho conjunto dos Ministros das Finanças e do Plano e dos Transportes e Comunicações, discriminando capital e juros, após parecer da Inspecção-Geral de Finanças.
+
+5 - Relativamente ao disposto no número anterior, o Metropolitano de Lisboa, E. P., deverá apresentar trimestralmente a lista dos investimentos realizados, devidamente aprovados pelos Ministérios das Finanças e do Plano e dos Transportes e Comunicações, e que possam estar abrangidos pelo disposto no artigo 2.º deste diploma, indicando os seus valores sem qualquer dedução para efeitos de amortização ou reintegração.
+
+6 - Deverá igualmente o Metropolitano de Lisboa, E. P., apresentar o montante dos encargos financeiros suportados com o financiamento de investimentos em infra-estruturas que possam estar abrangidos pelo artigo 2.º e pelo n.º 1 do artigo 3.º
+
+Art. 5.º - 1 - Fica o Metropolitano de Lisboa, E. P., autorizado:
+
+a) A criar na sua escrita as seguintes contas de ordem:
+
+«Infra-estruturas de longa duração de conta do Estado» (Decreto-Lei n.º 196/80, de 20 de Junho), onde serão escriturados os valores referentes ao disposto no n.º 1 do artigo 4.º e, bem assim, os montantes que vierem a ser fixados nos termos do n.º 4 do mesmo artigo;
+
+«Encargos financeiros com o passivo a cargo do Estado» (Decreto-Lei n.º 196/80, de 20 de Junho), onde serão escriturados os encargos financeiros referentes aos créditos das entidades financiadoras de acordo com o montante global apurado nos termos dos n.os 5 e 6 do artigo 4.º;
+
+«Passivo a cargo do Estado» (Decreto-Lei n.º 196/80, de 20 de Junho), onde serão escriturados os créditos das entidades financiadoras, segundo o montante global apurado de acordo com o disposto no n.º 1 do artigo 3.º e n.º 4 do artigo 4.º;
+
+«Dotações para infra-estruturas de longa duração de conta do Estado» (Decreto-Lei n.º 196/80, de 20 de Junho), onde serão escriturados:
+
+Os valores resultantes das amortizações da dívida a processar nos termos do n.º 2 do artigo 3.º;
+
+As dotações para financiamento das infra-estruturas de longa duração de conta do Estado;
+
+«Dotações para encargos financeiros com o passivo a cargo do Estado» (Decreto-Lei n.º 196/80, de 20 de Junho), onde serão escrituradas as dotações atribuídas para reembolso das verbas escrituradas na conta «Encargos financeiros com o passivo a cargo do Estado» (Decreto-Lei n.º 196/80, de 20 de Junho);
+
+b) A proceder à correcção contabilística dos resultados acumulados, por contrapartida da anulação dos proveitos acessórios da exploração relativos à locação de espaços nas infra-estruturas de longa duração, das amortizações e reintegrações que os valores transferidos para a conta «Infra-estruturas de longa duração de conta do Estado» ([Decreto-Lei n.º 196/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1978-297416), de 20 de Junho) tenham sofrido no passado, bem como pela anulação em contrapartida da conta «Encargos financeiros de anos anteriores a reembolsar pelo Estado» dos encargos financeiros assumidos pelo Estado.
+
+Art. 6.º Este esquema será obrigatoriamente revisto em 31 de Dezembro de 1980, tendo em atenção as possibilidades económicas reveladas pela empresa e o alargamento projectado da sua rede.
+
+Art. 7.º Até 1986 serão inscritas no Orçamento Geral do Estado as verbas necessárias ao cumprimento do disposto nos n.os 2 e 3 do artigo 3.º
+
+Art. 8.º É revogado o [Decreto Regulamentar n.º 90/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/90-1977-404479), de 31 de Dezembro.
+
+Visto e aprovado em Conselho de Ministros de 27 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
+
+Promulgado em 6 de Junho de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

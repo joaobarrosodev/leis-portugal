@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:684775:por
+title: Portaria n.º 132/73
+short_title: null
+summary: Fixa o contingente de veículos automóveis ligeiros de aluguer, a taxímetro, de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Comunicações - Direcção-Geral de Transportes Terrestres
+proposing_entity: null
+official_number: 132/73
+official_date: null
+publication_date: '1973-02-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 47/1973, Série I de 1973-02-24
+  number: '47'
+  series: I
+  supplement: null
+  pages: 298 - 299
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/02/04700/02980299.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '684775'
+  dre_path: /dr/detalhe/portaria/132-1973-684775
+  internal: pt:dre:684775:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/132-1973-684775
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/132-1973-684775
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:59:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0367a8aec83ceb3ebccfbf48897c454cd6babf3759c52dc6c09939de689d6e8d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:59:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: corrected_by
+  target: pt:dre:202403:por
+  label: Rectificada a alínea c) do n.º 7.º pela DECL.DD9691.03.03.1973.PC, DG.IS [53]Supl de 03.03.1973
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-202403
+  date: '1973-03-03'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:59:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 132/73
+
+de 24 de Fevereiro
+
+Presentemente, na cidade de Lisboa, a oferta de serviços de transporte em regime de aluguer, a táxi, não possui elasticidade que lhe permita reagir adequadamente a uma procura em progressão.
+
+Torna-se, assim, necessário adoptar a oferta ao número crescente de solicitações da população urbana.
+
+Neste sentido, o contingente de veículos ligeiros de aluguer, a taxímetro, desta cidade, é, pela presente portaria, fixado em 3000 unidades, o que corresponde a um aumento de 580 licenças.
+
+No entanto, convindo examinar as reacções da procura face às novas condições que a alteração da tarifa introduzirá no mercado, o referido aumento processar-se-á em duas fases, a primeira das quais abrangerá 280 licenças.
+
+Nestes termos:
+
+Ouvidos o Conselho Superior de Obras Públicas e Transportes e a Câmara Municipal de Lisboa;
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, o seguinte:
+
+1.º O contingente de veículos automóveis ligeiros de aluguer, a taxímetro, de Lisboa é fixado em 3000 unidades.
+
+2.º O aumento a que se procede, de 580 unidades, efectuar-se-á em duas fases, a primeira das quais abrangerá 280 licenças.
+
+3.º As 280 licenças relativas à 1.ª fase serão atribuídas mediante concurso a abrir em 15 de Março próximo, em conformidade com as normas a que se referem os n.os 5.º e seguintes.
+
+4.º A atribuição das 300 licenças relativas à 2.ª fase far-se-á em data e nas condições a fixar por portaria do Ministro das Comunicações.
+
+5.º Poderão concorrer à atribuição das licenças a que se refere o n.º 3., mediante requerimento dirigido ao director-geral de Transportes Terrestres, os proprietários de um veículo de instrução licenciados para o exercício da actividade em Lisboa e os motoristas profissionais inscritos, há pelo menos um ano, como sócios efectivos do Sindicato Nacional dos Motoristas do Distrito de Lisboa.
+
+6.º Para efeitos de atribuição das licenças referidas no número anterior os proprietários de um veículo de instrução deverão requerer o cancelamento das licenças dos respectivos veículos.
+
+7.º As licenças poderão ser atribuídas a motoristas profissionais que obedeçam às seguintes condições:
+
+a) Não terem sido condenados por crime punido com prisão efectiva;
+
+b) Terem bom comportamento moral e civil;
+
+c) Não tenham sido inibidos do direito de conduzir nos últimos cinco anos, por mais de três vezes ou que não tenham qualquer infracção ao disposto na alínea c) do artigo 6.º do Código da Estrada.
+
+8.º A admissão definitiva a concurso dependerá da apresentação dos documentos que façam prova de que os requerentes obedecem aos requisitos exigidos nos números anteriores, segundo a forma prescrita no programa do concurso a que se refere o n.º 13.º
+
+9.º A cada requerente será concedida apenas uma licença.
+
+10.º A classificação dos requerentes obedecerá à seguinte ordem de prioridade:
+
+1) A proprietários de um veículo de instrução licenciados para o exercício da actividade em Lisboa;
+
+2) A motoristas de automóveis-táxi de Lisboa inscritos no Sindicato Nacional dos Motoristas do Distrito de Lisboa, como sócios efectivos, ininterruptamente, há mais de dez anos, e entre estes aos que exerçam a profissão há mais tempo, contado sem interrupção;
+
+3) A motoristas profissionais inscritos como sócios efectivos no Sindicato Nacional dos Motoristas do Distrito de Lisboa, por ordem de antiguidade, contada sem interrupção.
+
+11.º A Direcção-Geral de Transportes Terrestres promoverá a publicação de uma lista de classificação provisória dos requerentes, para efeitos de eventuais reclamações que deverão ser apresentadas no prazo máximo de quinze dias a contar da data daquela publicação.
+
+12.º Serão consideradas nulas e de nenhum efeito e consequentemente canceladas as licenças concedidas com fundamento em declarações falsas ou em pressupostos afectados por erro.
+
+13.º Para efeitos do disposto no n.º 3.º a Direcção-Geral de Transportes Terrestres promoverá a publicação do programa do concurso no Diário do Governo e em alguns dos jornais diários de maior difusão na cidade de Lisboa.
+
+Ministério das Comunicações, 16 de Fevereiro de 1973. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

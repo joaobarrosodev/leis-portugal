@@ -1,0 +1,244 @@
+---
+schema_version: '1.0'
+id: pt:dre:587383:por
+title: Decreto-Lei n.º 260/90
+short_title: null
+summary: Aprova a alienação de 51% do capital social da Companhia de Seguros Tranquilidade, S. A.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 260/90
+official_date: null
+publication_date: '1990-08-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1990, 2º Suplemento, Série I de 1990-08-17
+  number: '189'
+  series: I
+  supplement: 2º Suplemento
+  pages: 3356-(4) a 3356-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18902/00040005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1990-08-31'
+version_history:
+  file: decreto-lei-260-90.versoes.json
+  count: 2
+  source_lastmod: '2025-12-12'
+  versions:
+  - date: '1990-08-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-08-31'
+    amending: pt:dre:546239:por
+    amending_title: Declaração
+    changes:
+    - Retifica Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/260/1990/p/cons/19900831/pt/html
+  oj: null
+  dre: '587383'
+  dre_path: /dr/detalhe/decreto-lei/260-1990-587383
+  internal: pt:dre:587383:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1990-587383
+  metadata_url: https://data.dre.pt/eli/dec-lei/260/1990/p/cons/19900831/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-979311276
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-979311276
+  retrieved_at: '2026-10-22T13:38:20Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-12-12T00:00:00Z'
+integrity:
+  source_sha256: 39edf35e1f1d898462c63967428bdd4a95aaa057dc304df1d9fe39d98a993309
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:38:20Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-260-90.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de BENS
+- Companhia de Seguros Tranquilidade
+- Estatuto
+- Privatização
+- Sociedade Anónima
+relationships:
+- type: amended_by
+  target: pt:dre:546239:por
+  label: Retifica Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546239
+  date: '1990-08-31'
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:38:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 260/90
+
+Decreto-Lei n.º 260/90
+
+de 17 de Agosto
+
+Em execução do disposto no artigo 6.º do Decreto-Lei n.º 108/89, de 13 de Abril, e da Resolução do Conselho de Ministros n.º 38/89, de 12 de Outubro, o Estado alienou acções correspondentes a 49% do capital da Companhia de Seguros Tranquilidade, S. A.
+
+Resolveu o Estado alienar agora, com observância das disposições aplicáveis da Lei n.º 11/90, de 5 de Abril, as acções de que é titular, correspondentes a 51% do capital da mesma sociedade.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 11/90, de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+É aprovada a alienação das acções de que o Estado é titular, correspondentes a 51% do capital social da Companhia de Seguros Tranquilidade, S. A.
+
+###### Artigo 2.º
+
+1 - É reservado um lote de acções não inferior a 15% do total das participações sociais a alienar destinado à aquisição por parte de trabalhadores, pequenos subscritores e, eventualmente, emigrantes.
+
+2 - É reservado um lote de acções até 40% do total das participações sociais alienadas nos termos do Decreto-Lei n.º 108/89, de 13 de Abril, e da Resolução do Conselho de Ministros n.º 38/89, de 12 de Outubro, destinado à aquisição por parte de titulares de acções do tipo B.
+
+3 - As acções que não sejam reservadas nos termos dos números anteriores ou, destas, as que não forem adquiridas serão objecto de oferta pública de transacção em bolsas de valores.
+
+4 - Nenhuma pessoa singular ou colectiva poderá adquirir ao abrigo dos n.os 1 e 3 deste artigo um número de acções superior a 10% do capital da sociedade, sob pena de nulidade das aquisições que excederem tal limite.
+
+5 - As aquisições por entidades estrangeiras serão limitadas, globalmente, por forma a ser respeitado o limite definido na alínea b) do n.º 1 do artigo 8.º
+
+6 - Para efeitos do n.º 1 deste artigo entendem-se como trabalhadores as pessoas definidas pelo artigo 12.º da Lei n.º 11/90, de 5 de Abril.
+
+7 - Para efeitos do n.º 2 deste artigo entendem-se como titulares das acções de tipo B os que o forem no momento em que se perfizerem oito dias após a publicação da resolução do Conselho de Ministros a que se refere o artigo 10.º deste diploma.
+
+###### Artigo 3.º
+
+1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades individuais a fixar na resolução do Conselho de Ministros.
+
+2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas a fixar na resolução do Conselho de Ministros, procedendo-se a rateio em função do número de acções pretendidas de subscritores, se disso for caso.
+
+3 - As propostas de aquisição pelos titulares das acções do tipo B indicarão o preço máximo até ao qual mantêm a sua eficácia e serão sujeitas a uma quantidade mínima a fixar na resolução do Conselho de Ministros e a uma quantidade máxima proporcional ao número de acções de que cada um for titular, dentro da percentagem referida no n.º 2 do artigo 2.º, com arredondamento por defeito.
+
+4 - A aquisição pelo público será feita em leilão competitivo mediante propostas sujeitas a um mínimo de acções a fixar na resolução do Conselho de Ministros.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546239), em vigor a partir de 1990-08-31
+
+###### Artigo 4.º
+
+1 - Os preços de venda serão fixados pelo Conselho de Ministros, ponderando o preço médio de venda em leilão competitivo na primeira fase de reprivatização, os factores patrimoniais ou outros que tenham posteriormente influenciado a valia da empresa, as transacções posteriormente efectuadas e a cotação das acções na Bolsa.
+
+2 - O Conselho de Ministros estabelecerá preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes, nos termos do n.º 1 do artigo 2.º
+
+3 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções em condições a fixar na resolução do Conselho de Ministros.
+
+4 - O Conselho de Ministros fixará também o preço base para a aquisição pelo público no leilão competitivo referido no n.º 4 do artigo 3.º
+
+5 - O preço de aquisição das acções reservadas aos titulares das acções do tipo B será fixo e igual ao preço médio da oferta pública de venda a que se refere o n.º 4 do artigo 3.º, diminuído de 5%, sendo as propostas de aquisição satisfeitas desde que tenha sido oferecido um preço não inferior àquele.
+
+###### Artigo 5.º
+
+1 - Se não se verificar a alienação da totalidade das acções nos termos dos artigos anteriores, o Governo poderá:
+
+a) Sujeitar o lote de acções remanescente a nova oferta pública de transacção em bolsa ou a oferta de venda aos accionistas, no caso de aquele ser inferior a 5% do capital social;
+
+b) Aumentar até ao limite máximo de 30% a participação do Estado na sociedade, reduzindo em conformidade as propostas de aquisição, com respeito pelos lotes mínimos, no caso de o lote de acções remanescentes ser igual ou superior a 5% do capital social. Para este efeito será reduzido prioritariamente o lote de acções destinado à aquisição por parte dos titulares de acções do tipo B.
+
+2 - O lote de acções detidas pelo Estado ao abrigo da alínea b) do número anterior pode, em qualquer altura, ser alienado, total ou parcialmente, mediante oferta pública de transacção em bolsa de valores.
+
+###### Artigo 6.º
+
+1 - As acções adquiridas ao abrigo do n.º 1 do artigo 2.º não podem ser oneradas nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
+
+2 - As acções adquiridas por pequenos subscritores ou emigrantes ao abrigo do n.º 1 do artigo 2.º não conferem aos respectivos titulares o direito de voto na assembleia geral da sociedade durante o período de indisponibilidade previsto no número anterior.
+
+3 - As acções adquiridas por trabalhadores ao abrigo do n.º 1 do artigo 2.º não conferem aos respectivos titulares o direito de votar na assembleia geral por interposta pessoa durante o período de indisponibilidade previsto no n.º 1.
+
+4 - São nulos os acordos pelos quais os trabalhadores que tenham adquirido acções ao abrigo do n.º 1 do artigo 2.º se obriguem a votar em determinado sentido nas assembleias gerais a realizar durante o período de indisponibilidade previsto no n.º 1.
+
+###### Artigo 7.º
+
+1 - O direito de aquisição de acções conferido aos titulares de acções de tipo B pelo n.º 2 do artigo 2.º não pode ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, sob pena de nulidade do referido negócio.
+
+2 - Durante o período de cinco anos a contar da data da aquisição as acções adquiridas ao abrigo do n.º 2 do artigo 2.º, quando excederem 0,5% do capital social, não poderão ser oneradas nem alienadas entre vivos, por nenhum título.
+
+3 - O direito de voto inerente às acções sujeitas a indisponibilidade não poderá ser exercido por mandatário durante o período de cinco anos.
+
+4 - São nulos os acordos pelos quais os titulares das acções sujeitas a indisponibilidade nos termos do n.º 2 deste artigo se obriguem a votar em determinado sentido nas assembleias gerais a realizar durante o período de indisponibilidade nele previsto.
+
+###### Artigo 8.º
+
+1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e posse de acções da sociedade por parte de entidades estrangeiras ou de entidade cujo capital social ou correspondente direito de voto seja maioritariamente detido por entidades estrangeiras, observar-se-á o seguinte:
+
+a) Todas as acções da sociedade são nominativas ou ao portador, em regime de registo, podendo vir a converter-se em acções escriturais, mas sendo sempre insusceptíveis de conversão em acções ao portador;
+
+b) Não podem ser inscritas ou averbadas a favor do conjunto das mesmas entidades acções com direito de voto representativas de mais de 30% do capital social.
+
+2 - O conselho de administração da sociedade poderá solicitar ao requerente da inscrição ou do averbamento as informações e as provas que considere necessárias para o pleno cumprimento do disposto na alínea b) do número anterior.
+
+3 - São nulos os negócios jurídicos efectuados pelas entidades referidas no n.º 1 ou por entidades portuguesas em nome próprio, mas por conta daquelas, em violação do disposto no mesmo preceito.
+
+4 - As nulidades cominadas no número anterior podem ser judicialmente declaradas a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a sociedade.
+
+###### Artigo 9.º
+
+1 - Se e enquanto se verificar a situação prevista na alínea b) do n.º 1 do artigo 5.º, o representante do Estado na assembleia geral poderá sempre designar um dos membros do conselho de administração, independentemente do número de acções de que o Estado seja titular.
+
+2 - O administrador nomeado nos termos do número anterior tem a competência, direitos e deveres definidos na lei para os administradores por parte do Estado.
+
+3 - As deliberações da assembleia geral que tenham por objecto a fusão, a cisão, a transformação, a dissolução e a alteração de contrato, incluindo o aumento e a redução do capital, carecem do voto favorável do representante do Estado na assembleia geral.
+
+###### Artigo 10.º
+
+O Conselho de Ministros aprovará, mediante resolução, as condições finais para a concretização das operações de execução do presente diploma.
+
+###### Artigo 11.º
+
+O prazo previsto no n.º 2 do artigo 6.º do Decreto-Lei n.º 108/89, de 13 de Abril, é reduzido para um ano.
+
+###### Artigo 12.º
+
+A sociedade deve, no prazo máximo de 60 dias após a data da conclusão da reprivatização prevista pelo presente diploma, proceder às necessárias adaptações dos respectivos estatutos.
+
+###### Artigo 13.º
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de Julho de 1990. - Aníbal António Cavaco Silva - José Manuel Alves Elias da Costa.
+
+Promulgado em 10 de Agosto de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 16 de Agosto de 1990.
+
+Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

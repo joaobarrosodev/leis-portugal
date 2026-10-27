@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:157772254:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-185370579",
+ "dre_path": "/dr/detalhe/lei/4-c-2021-157772254",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-02-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "185370363",
+    "185370364",
+    "185370365",
+    "185370366"
+   ]
+  },
+  {
+   "date": "2022-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185224662:por",
+     "title": "Lei n.º 12/2022",
+     "published": "2022-06-27",
+     "dre_path": "/dr/detalhe/lei/12-2022-185224662"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "185370363",
+    "185370364",
+    "185370365",
+    "185370368",
+    "185370367"
+   ]
+  }
+ ],
+ "fragments": {
+  "185370363": {
+   "fragment_id": "185370580",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 4-C/2021\n\nde 17 de fevereiro\n\nSumário: Estabelece uma isenção do IVA aplicável às transmissões de dispositivos médicos para diagnóstico in vitro da COVID-19, às vacinas contra a mesma doença e às prestações de serviços relacionadas com esses produtos, transpondo a Diretiva (UE) 2020/2020 do Conselho, de 7 de dezembro de 2020.\n\nEstabelece uma isenção do IVA aplicável às transmissões de dispositivos médicos para diagnóstico in vitro da COVID-19, às vacinas contra a mesma doença e às prestações de serviços relacionadas com esses produtos, transpondo a Diretiva (UE) 2020/2020 do Conselho, de 7 de dezembro de 2020\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "185370364": {
+   "fragment_id": "185370581",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei:\n\na) Procede à transposição da Diretiva (UE) 2020/2020 do Conselho, de 7 de dezembro de 2020, que altera a Diretiva 2006/112/CE no que diz respeito a medidas temporárias relativas ao imposto sobre o valor acrescentado (IVA) aplicável às vacinas contra a COVID-19 e aos dispositivos médicos para diagnóstico in vitro desta doença em resposta à pandemia de COVID-19;\n\nb) Consagra, com efeitos temporários, uma isenção do IVA no âmbito de transmissões de dispositivos médicos para diagnóstico in vitro da COVID-19 e de vacinas contra a mesma doença, bem como em relação aos serviços que estejam estreitamente ligados àqueles produtos."
+  },
+  "185370365": {
+   "fragment_id": "185370582",
+   "type": 11,
+   "heading": "Artigo 2.º — Isenção temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Isenção temporária\n\n1 - Estão isentas do IVA:\n\na) As transmissões, aquisições intracomunitárias e importações de dispositivos médicos para diagnóstico in vitro da doença COVID-19 que estejam em conformidade com os requisitos aplicáveis, conforme estabelecido na Diretiva 98/79/CE, do Parlamento Europeu e do Conselho, de 27 de outubro de 1998, no Regulamento (UE) 2017/746, do Parlamento Europeu e do Conselho, de 5 de abril de 2017, e noutra legislação da União Europeia aplicável;\n\nb) As transmissões, aquisições intracomunitárias e importações de vacinas contra a doença COVID-19 autorizadas pela Comissão Europeia ou pelas autoridades de saúde nacionais;\n\nc) As prestações de serviços estreitamente ligadas com os dispositivos ou vacinas referidos nas alíneas anteriores.\n\n2 - As faturas que titulem as transmissões de bens ou as prestações de serviços isentas nos termos do número anterior devem conter menção à presente lei como motivo justificativo da não liquidação do imposto.\n\n3 - Pode deduzir-se, para efeitos do disposto na alínea b) do n.º 1 do artigo 20.º do Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro, o imposto que tenha incidido sobre os bens ou serviços adquiridos, importados ou utilizados pelo sujeito passivo para a realização das transmissões de bens ou prestações de serviços isentas nos termos do n.º 1."
+  },
+  "185370366": {
+   "fragment_id": "185370583",
+   "type": 11,
+   "heading": "Artigo 3.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Vigência\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2021."
+  },
+  "185370368": {
+   "fragment_id": "185370583",
+   "type": 11,
+   "heading": "Artigo 3.º — Vigência",
+   "in_force_from": "2022-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 318.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28"
+   ],
+   "markdown": "###### Artigo 3.º — Vigência\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2022.\n\n> Alterado pelo/a Artigo 318.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28"
+  },
+  "185370367": {
+   "fragment_id": "185370584",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 11 de fevereiro de 2021.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 12 de fevereiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 15 de fevereiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113985845"
+  }
+ }
+}

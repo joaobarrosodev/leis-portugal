@@ -1,0 +1,304 @@
+---
+schema_version: '1.0'
+id: pt:dre:181532082:por
+title: Portaria n.º 135/2022
+short_title: null
+summary: Procede à regulamentação dos deveres de recolha e comunicação de informação entre a Estrutura de Missão «Recuperar
+  Portugal» e a Autoridade Tributária e Aduaneira (AT), bem como das condições específicas do mecanismo de transferência do
+  montante equivalente ao imposto sobre o valor acrescentado (IVA)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Planeamento
+proposing_entity: null
+official_number: 135/2022
+official_date: null
+publication_date: '2022-04-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 65/2022, Série I de 2022-04-01
+  number: '65'
+  series: I
+  supplement: null
+  pages: 14 - 16
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/04/06500/0001400016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-02-15'
+version_history:
+  file: portaria-135-2022.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2022-04-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-11-11'
+    amending: pt:dre:224139032:por
+    amending_title: Portaria n.º 346-B/2023
+    changes:
+    - Adita Artigo 4.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+  - date: '2024-06-22'
+    amending: pt:dre:869771074:por
+    amending_title: Portaria n.º 170-A/2024/1
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+  - date: '2025-02-15'
+    amending: pt:dre:907471180:por
+    amending_title: Portaria n.º 37/2025/1
+    changes:
+    - Altera Artigo 2.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/135/2022/p/cons/20250214/pt/html
+  oj: null
+  dre: '181532082'
+  dre_path: /dr/detalhe/portaria/135-2022-181532082
+  internal: pt:dre:181532082:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/135-2022-181532082
+  metadata_url: https://data.dre.pt/eli/port/135/2022/p/cons/20250214/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-224163602
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-224163602
+  retrieved_at: '2026-10-22T13:00:22Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 83b5b6e0b8f57f3c895daccd6ecaf17b31b138592c81aec82470f5739e1fa125
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:00:22Z'
+  notes: 4 versão(ões); histórico completo em portaria-135-2022.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência para o Desenvolvimento e Coesão
+- Ajuda Comunitária
+- Autoridade Tributária e Aduaneira
+- Regulamentação de Atos Legislativos
+- União Europeia
+- Estrutura de Missão para a Gestão de Fundos Comunitários
+- Fundos CE
+- Gestão Orçamental
+- IVA
+- Agência de Gestão da Tesouraria e da Dívida Pública
+- Direção Geral do Orçamento
+- Orçamento Geral do Estado
+- Agência para a Modernização Administrativa
+- Plano de Recuperação e Resiliência
+relationships:
+- type: amended_by
+  target: pt:dre:224139032:por
+  label: Adita Artigo 4.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032
+  date: '2023-11-10'
+- type: amended_by
+  target: pt:dre:869771074:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2024-869771074
+  date: '2024-06-21'
+- type: amended_by
+  target: pt:dre:907471180:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/37-2025-907471180
+  date: '2025-02-14'
+- type: cites
+  target: pt:dre:107725088:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/84/2017/07/21/p/dre
+- type: cites
+  target: pt:dre:140013523:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/54/2020/08/11/p/dre
+- type: cites
+  target: pt:dre:152197933:por
+  label: null
+  source: http://data.dre.pt/eli/port/303/2020/12/28/p/dre
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/53-b/2021/06/23/p/dre
+- type: cites
+  target: pt:dre:174543:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/198/2012/08/24/p/dre
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: http://data.dre.pt/eli/lei/151/2015/09/11/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:00:22Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 135/2022
+
+Portaria n.º 135/2022
+
+de 1 de abril
+
+Sumário: Procede à regulamentação dos deveres de recolha e comunicação de informação entre a Estrutura de Missão «Recuperar Portugal» e a Autoridade Tributária e Aduaneira (AT), bem como das condições específicas do mecanismo de transferência do montante equivalente ao imposto sobre o valor acrescentado (IVA).
+
+O Decreto-Lei n.º 53-B/2021, de 23 de junho, aprovou, no seu artigo 16.º, um mecanismo excecional de transferência do montante equivalente ao imposto sobre o valor acrescentado (IVA) incorrido ou a incorrer por parte dos beneficiários diretos, intermediários ou finais, que assumam a natureza de entidades previstas no artigo 2.º da Lei de Enquadramento Orçamental (LEO), aprovada pela Lei n.º 151/2015, de 11 de setembro, na sua redação atual, a favor destes e que por si tenha que ser diretamente suportado em despesas de execução de projetos exclusivamente financiados pelo PRR devidamente contratualizados entre a «Recuperar Portugal» e os beneficiários diretos e intermediários, e entre estes últimos e os respetivos beneficiários finais.
+
+Sem prejuízo do mecanismo supracitado aplicável aos beneficiários diretos, intermediários ou finais, que assumam a natureza de entidades previstas no artigo 2.º da Lei de Enquadramento Orçamental (LEO), aprovada pela Lei n.º 151/2015, de 11 de setembro, na sua redação atual, entende-se ser possível considerar também aplicável idêntico mecanismo de financiamento para o IVA suportado nos projetos financiados pelo PRR, desenvolvidos pelas autarquias ou entidades intermunicipais que colaborem com a administração central na prossecução de objetivos, e os quais sejam da competência desta, a possibilidade de ser financiado o montante equivalente ao IVA que suportem, considerando-se para tal adequado o quadro legal a que se referem os artigos 22.º-A e 71.º da Lei n.º 73/2013, de 3 de setembro, na sua redação em vigor.
+
+No que se concerne ao mecanismo extraordinário a que se refere o artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, cabe aos beneficiários que tenham recebido o montante equivalente ao IVA comunicar à «Recuperar Portugal» as despesas de execução dos projetos exclusivamente financiados pelo PRR, e esta à Autoridade Tributária e Aduaneira (AT), nos termos definidos na presente portaria.
+
+Assim, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro do Planeamento, ao abrigo do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria procede à regulamentação dos deveres de recolha e comunicação de informação que incumbem aos beneficiários diretos, intermediários e finais que, nos termos do Decreto-Lei n.º 53-B/2021, de 23 de junho, e da lei do Orçamento do Estado, beneficiem do mecanismo da transferência do montante equivalente ao imposto sobre o valor acrescentado (IVA) efetivamente suportado no âmbito de projetos financiados, a título de subvenções ou empréstimos, exclusivamente pelo Plano de Recuperação e Resiliência (PRR), ao abrigo, quando aplicável com as necessárias adaptações, do disposto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho.
+
+2 - A presente portaria procede ainda à regulamentação dos deveres de recolha e comunicação entre a Estrutura de Missão «Recuperar Portugal» («Recuperar Portugal») e por parte desta a Autoridade Tributária e Aduaneira (AT), bem como das condições específicas de funcionamento e operacionalização do mecanismo de transferência do montante equivalente ao imposto sobre o valor acrescentado (IVA) previsto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11
+
+###### Artigo 2.º — Comunicação do montante equivalente ao IVA
+
+1 - A comunicação dos beneficiários à «Recuperar Portugal» para efeitos do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, é efetuada em simultâneo com o pedido de pagamento através do preenchimento do formulário eletrónico fornecido pela «Recuperar Portugal», o qual deve identificar, face aos dados das faturas comunicadas nos termos do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, bem como dos fornecedores estrangeiros, os seguintes dados:
+
+a) O número de identificação fiscal do beneficiário direto, intermediário ou final, consoante os casos;
+
+b) O número de identificação fiscal do fornecedor;
+
+c) O número da fatura e a data da sua emissão; e
+
+d) O valor total e o valor do IVA liquidado.
+
+e) O montante do IVA restituído, designadamente ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, ou do Decreto-Lei n.º 54/2020, de 11 de agosto, bem como o montante do IVA restituível que não tenha ainda sido restituído; e
+
+f) O montante do IVA deduzido pelo adquirente, bem como o montante do IVA dedutível ao abrigo da legislação fiscal ainda que não deduzido.
+
+2 - Para efeitos de preenchimento do formulário previsto no número anterior, os beneficiários devem recolher e remeter à «Recuperar Portugal» os seguintes elementos de suporte:
+
+a) Dados das faturas, nos termos definido no número anterior;
+
+b) Declarações aduaneiras de importação, quando aplicável;
+
+c) Documentos que titulem a liquidação do IVA quando esta compete ao adquirente dos bens ou serviços, quando aplicável;
+
+d) Documentos comprovativos de restituições ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, e do Decreto-Lei n.º 54/2020, de 11 de agosto, quando aplicável;
+
+e) Declaração de compromisso do beneficiário, subscrito pelo respetivo dirigente máximo, pelo órgão de administração, pela gerência ou equiparável, de que o montante solicitado, correspondente ao valor do IVA a transferir, não foi nem será deduzido ou restituído;
+
+f) Declaração de compromisso do beneficiário, subscrito pelo respetivo dirigente máximo, de que, em caso de emissão de nota de crédito, de anulação da fatura ou de devolução ou compensação do valor do IVA à entidade beneficiária a qualquer outro título, o correspondente montante será devolvido no prazo máximo de 10 dias úteis, à entidade que procedeu à transferência prevista no n.º 6 do artigo 4.º-A.
+
+3 - Até ao termo do mês de fevereiro do ano seguinte os beneficiários devem ainda comunicar à «Recuperar Portugal», para os efeitos previstos no n.º 2 do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, os dados referidos nos números anteriores com referência ao ano anterior e que não tenham sido comunicados anteriormente.
+
+4 - As comunicações referidas nos números anteriores, efetuadas por beneficiários que sejam sujeitos passivos de IVA, nos termos do artigo 2.º do Código do IVA, são acompanhadas de certificação por contabilista certificado, quer quanto ao montante equivalente ao IVA restituído ou restituível ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, e do Decreto-Lei n.º 54/2020, de 11 de agosto, como ainda ao imposto deduzido e ao imposto dedutível por documento de suporte e à conformidade legal dos respetivos documentos.
+
+5 - Os beneficiários integrados na administração central, regional e local que não tenham natureza, forma e designação de empresa, no subsetor da segurança social, e as entidades públicas reclassificadas, ficam dispensados de apresentação da certificação por contabilista certificado, prevista no número anterior, sendo a mesma substituída por certificação pelo respetivo contabilista público previsto no artigo 8.º do Decreto-Lei n.º 192/2015, de 11 de setembro, na sua redação atual, ou, quando não possuam contabilista público, pela entidade responsável pela regularidade técnica na prestação nas contas e na execução da contabilidade pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 37/2025/1 - Diário da República n.º 32/2025, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/37-2025-907471180), em vigor a partir de 2025-02-15
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2024/1 - Diário da República n.º 119/2024, Suplemento, Série I de 2024-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2024-869771074), em vigor a partir de 2024-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11
+
+###### Artigo 3.º — Comunicação entre a «Recuperar Portugal» e a AT
+
+1 - Após a comunicação prevista no n.º 2 do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, a "Recuperar Portugal" disponibiliza à AT para confirmação, face aos dados das faturas comunicadas nos termos do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, os dados referidos no n.º 1 do artigo anterior, sem prejuízo do previsto no número seguinte.
+
+2 - A AT pode ainda observar e controlar, em cumprimento das suas atribuições legalmente estabelecidas, as seguintes realidades tributárias:
+
+a) O valor do imposto deduzido por documento de suporte certificado, nos termos do n.º 4 do artigo anterior; e
+
+b) A conformidade legal dos documentos de suporte.
+
+3 - A pedido da "Recuperar Portugal" a AT disponibiliza informação sobre o enquadramento fiscal dos beneficiários relativamente ao IVA, para verificação das condições de acesso ao mecanismo.
+
+4 - As trocas de informação previstas no n.º 1 e no n.º 3 devem ser efetuadas por transmissão eletrónica de dados, no âmbito de um protocolo a celebrar entre a "Recuperar Portugal", a Agência para a Modernização Administrativa, I. P. (AMA, I. P.), e a AT.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2024/1 - Diário da República n.º 119/2024, Suplemento, Série I de 2024-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2024-869771074), em vigor a partir de 2024-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11
+
+###### Artigo 4.º — Conta-corrente de IVA e financiamento
+
+1 - É constituída uma conta-corrente entre a AT, a Agência, I. P., a DGO e a «Recuperar Portugal» e gerida por esta, que regista todos os pagamentos efetuados aos beneficiários, as transferências do Orçamento do Estado a favor da Agência, I. P., e de todos os restantes movimentos a crédito ou a débito, sendo neste último caso da responsabilidade da DGO.
+
+2 - Os montantes equivalentes ao IVA abrangidos pelo mecanismo previsto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, apurados no âmbito da conta-corrente a que se refere o número anterior, são financiados através de verbas do Orçamento do Estado e transferidos a favor da Agência, I. P., e por esta aos respetivos beneficiários, sem prejuízo do regime aplicável às transferências dos montantes equivalentes ao IVA efetivamente suportado no âmbito de projetos financiados a título de empréstimos, que são operacionalizadas diretamente através da Direção-Geral do Tesouro e Finanças (DGTF).
+
+3 - Sem prejuízo do disposto no número anterior, podem ainda ser assegurados os montantes equivalentes ao IVA abrangidos pelo mecanismo previsto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, mediante a inscrição do respetivo montante, apurado no âmbito da conta-corrente, no orçamento anual de cada beneficiário, em sede da respetiva Lei do Orçamento do Estado, mediante verificação da DGO.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11
+
+###### Artigo 4.º-A — Operacionalização
+
+1 - A operacionalização das transferências a efetuar pelo Orçamento do Estado nos termos do disposto no n.º 5 do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, é precedida de um pedido de alteração orçamental de reforço submetido pela Agência, I. P.
+
+2 - O pedido de alteração orçamental referido no número anterior é submetido com uma periodicidade mínima trimestral, de acordo com ordem de pagamento emitida pela «Recuperar Portugal» para um conjunto de beneficiários.
+
+3 - O reforço orçamental referido nos números anteriores é efetuado nos termos das instruções da DGO em matéria de alterações orçamentais, devendo ser instruído com os seguintes elementos:
+
+a) Ordem de pagamento com o apuramento do montante equivalente ao IVA, efetuado nos termos previstos no artigo 2.º, com indicação dos respetivos beneficiários;
+
+b) Confirmação, pela «Recuperar Portugal», com base nos dados fornecidos pelos beneficiários e confirmados pela AT, do montante equivalente ao IVA a transferir correspondente às quantias de imposto não elegíveis em sede de PRR e que não foi deduzido em sede de IVA.
+
+4 - Após decisão favorável do membro do Governo responsável pela área das finanças, proferida no prazo de 20 dias úteis após a data da submissão do pedido de alteração orçamental, os montantes equivalentes ao IVA são transferidos para a Agência, I. P., no prazo máximo de 10 dias úteis após a solicitação de transferência de fundos.
+
+5 - Os montantes equivalentes ao IVA efetivamente suportados no âmbito de projetos financiados a título de empréstimos são transferidos diretamente pela DGTF, após recebidas as instruções de pagamento da «Recuperar Portugal», relativamente aos montantes apurados nos termos dos números anteriores, com recurso a verbas inscritas ou a inscrever no capítulo 60 do Ministério das Finanças.
+
+6 - A Agência, I. P., no que respeita a subvenções a fundo perdido, ou a DGTF, no que respeita a empréstimos, procedem à transferência dos valores para os beneficiários, no prazo de dois dias úteis após o recebimento dos fundos, e registam nos sistemas contabilísticos respetivos as alterações orçamentais, as solicitações de transferências de fundos e os pagamentos a favor dos beneficiários, dando conhecimento desses registos à «Recuperar Portugal».
+
+7 - A informação aos beneficiários intermediários do montante dos pagamentos aos beneficiários finais é assegurada pela «Recuperar Portugal».
+
+8 - A transferência para os beneficiários do montante equivalente ao IVA está sujeita às regras gerais de movimentação da tesouraria do Estado, sem prejuízo do disposto no Decreto-Lei n.º 53-B/2021, de 23 de junho.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11
+
+###### Artigo 5.º — Transmissão eletrónica de dados
+
+Todas as comunicações entre a AT, a «Recuperar Portugal» e a Agência, I. P., são efetuadas por transmissão eletrónica de dados.
+
+###### Artigo 6.º — Entrada em vigor
+
+1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+2 - A comunicação prevista no artigo 2.º, n.º 3, dos documentos de suporte relativos ao período de 2021 é efetuada até ao termo do mês de junho de 2022.
+
+Em 24 de março de 2022.
+
+O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão. - O Ministro do Planeamento, Ângelo Nelson Rosário de Souza.
+
+115160335

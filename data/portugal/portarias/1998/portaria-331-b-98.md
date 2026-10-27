@@ -1,0 +1,298 @@
+---
+schema_version: '1.0'
+id: pt:dre:293132:por
+title: Portaria n.º 331-B/98
+short_title: null
+summary: Proíbe o trânsito de automóveis pesados afectos ao transporte de mercadorias perigosas que devam ser sinalizados
+  com painel laranja, entre as 18 e as 21 horas de sextas-feiras, de domingos, de feriados nacionais e de vésperas de feriados
+  nacionais. Revoga a Portaria n.º 552/87, de 3 de Julho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 331-B/98
+official_date: null
+publication_date: '1998-06-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 126/1998, 1º Suplemento, Série I-B de 1998-06-01
+  number: '126'
+  series: I
+  supplement: null
+  pages: 2524-(3) a 2524-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/06/126b01/00030005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/331-b/1998/06/01/p/dre/pt/html
+  oj: null
+  dre: '293132'
+  dre_path: /dr/detalhe/portaria/331-b-1998-293132
+  internal: pt:dre:293132:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-b-1998-293132
+  metadata_url: https://data.dre.pt/eli/port/331-b/1998/06/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-b-1998-293132
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:08:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9b4db3972e17c815bbc682c9438a86ef598c7063d7c4fc0b0ec22b5a9691ee42
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:08:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comunidade Europeia
+- Direcção Geral de Viação
+- Feriado
+- Fiscalização
+- Segurança Rodoviária
+- Transporte de Mercadorias
+- Transporte de Mercadorias Perigosas
+- Transporte Terrestre
+- Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:124324705:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:452881:por
+  label: "Alterada a redacção da al. a) do nº 1 e aditado um nº 1-A ao presente diploma, pela PORT.578-A/99.1999.07.28.MAI\
+    \ DR.IS-B [174]2ºSUPLi\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/578-a-1999-452881
+  date: '1999-07-28'
+- type: amended_by
+  target: pt:dre:683667:por
+  label: "Alterados os nºs 1º, 2º, 7º e 11º e revogados os nºs 4º, 5º e 6º do presente diploma, com a redacção dada pela Port\
+    \ 578-A/99 de 28-Jul, pela PORT.131/2006.16.02.2006.MAI, DR.IS-B [34] de 16.02.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/131-2006-683667
+  date: '2006-02-16'
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:420003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457066:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/77/1997/04/05/p/dre
+- type: cites
+  target: pt:dre:500406:por
+  label: null
+  source: http://data.dre.pt/eli/port/1196-c/1997/11/24/p/dre
+- type: repealed_by
+  target: pt:dre:124324705:por
+  label: Revogado, a partir de 28.12.2019, o presente diploma, na redação das Ports 578-A/99 de 28-jul e 131/2006 de 16-dez
+    pelo(a) Portaria n.º 281/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2019-124324705
+  date: '2019-08-30'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:08:10Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 331-B/98
+
+de 1 de Junho
+
+O regime de restrições à circulação de veículos que transportam mercadorias perigosas é actualmente o estabelecido na [Portaria n.º 552/87](https://diariodarepublica.pt/dr/detalhe/portaria/552-1987-420003), de 3 de Julho, que proíbe a circulação desses veículos em todas as vias públicas aos sábados, das 15 às 22 horas, e aos domingos e feriados nacionais, das 7 às 24 horas.
+
+As melhorias introduzidas na rede viária permitem, apesar do crescimento do parque automóvel, diminuir as restrições actualmente impostas, no que respeita quer às vias quer aos períodos em que são aplicáveis.
+
+Os factores atrás indicados aconselham a redefinir um novo regime de restrições à circulação para aqueles veículos que permita conciliar, nos períodos de maior densidade de tráfego, níveis ajustados de fluidez da circulação com condições de segurança adequadas.
+
+Por outro lado, tendo em conta a necessidade de reduzir os efeitos das medidas restritivas na actividade económica, permite-se a livre circulação de veículos afectos a transportes internacionais, bem como a utilização de auto-estradas e de itinerários principais. As restrições no troço do IP 1, entre Alcácer do Sal e a EN 125, e, às segundas-feiras de manhã, nos acessos aos principais aglomerados urbanos, incluindo algumas auto-estradas, decorre da grande intensidade de tráfego que se verifica nessas vias, principalmente nos períodos em que vão vigorar aquelas restrições.
+
+Assim, nos termos e ao abrigo do disposto no n.º 2 do artigo 10.º do Código da Estrada e na alínea b) do n.º 2 do artigo 6.º do [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de Maio, com a redacção dada pelo [Decreto-Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 3 de Janeiro, e ainda no artigo 6.º do [Decreto-Lei n.º 77/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1997-457066), de 5 de Abril:
+
+Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
+
+1.º É proibido o trânsito de automóveis pesados afectos ao transporte de mercadorias perigosas que, de acordo com a [Portaria n.º 1196-C/97](https://diariodarepublica.pt/dr/detalhe/portaria/1196-c-1997-500406), de 24 de Novembro, devam ser sinalizados com painel laranja, entre as 18 e as 21 horas de sextas-feiras, de domingos, de feriados nacionais e de vésperas de feriados nacionais, nas seguintes vias:
+
+a) Na área metropolitana de Lisboa:
+
+a.1) Ponte sobre o Tejo e seus acessos (Lisboa, nó de Almada, na AE 2);
+
+a.2) EN 6, entre Lisboa e Cascais;
+
+a.3) EN 10, entre o Infantado e Vila Franca de Xira;
+
+b) Na área metropolitana do Porto:
+
+b.1) EN 12, estrada da Circunvalação;
+
+b.2) EN 14, entre Porto e Braga;
+
+b.3) EN 15, entre Porto e Campo (A 4);
+
+b.4) EN 105, entre Porto e Alfena (nó com o IC 24);
+
+b.5) EN 109, entre Coimbrões e Miramar;
+
+b.6) EN 208, entre Alto da Maia e Valongo;
+
+b.7) EN 209, entre Porto, Gondomar e Valongo;
+
+c) EN 1, entre Vila Franca de Xira e Vila Nova de Gaia (Santo Ovídio);
+
+d) EN 4, entre Pegões e Montemor-o-Novo;
+
+e) EN 13, entre Porto e Viana do Castelo;
+
+f) EN 101, entre Braga e Vila Verde;
+
+g) EN 247, entre Cascais e Carvoeira;
+
+h) EN 109, entre Miramar e Leiria;
+
+i) EN 125, entre Lagos e Vila Real de Santo António;
+
+j) EN 222, entre Porto e a barragem de Crestuma/Lever;
+
+l) EN 366, entre o nó de Aveiras de Cima e Alcoentre;
+
+m) Variante à EN 366, entre Alcoentre e Quebradas (nó com o IC 2);
+
+n) IP 1, entre o nó de acesso a norte de Alcácer do Sal e a EN 125.
+
+2.º É também proibida a circulação dos veículos a que se refere o n.º 1.º, às segundas-feiras, entre as 7 e as 10 horas, salvo nos meses de Julho e Agosto, nas vias de acesso às cidades de Lisboa e Porto a seguir indicadas e apenas no sentido de entrada naquelas cidades:
+
+a) Acessos a Lisboa:
+
+1) A 1, entre Alverca e Lisboa;
+
+2) A 2, entre Almada e Lisboa;
+
+3) A 5, entre a ligação à CREL e Lisboa;
+
+4) A 8, entre Loures e Lisboa;
+
+5) A 12, entre o nó do Montijo e Lisboa;
+
+6) IC 19, entre o nó da CREL e Lisboa;
+
+7) EN 6, entre Cascais e Lisboa;
+
+8) EN 10, entre Vila Franca de Xira e Lisboa;
+
+b) Acessos ao Porto:
+
+1) A 1, entre Carvalhos e Porto;
+
+2) A 3, entre a ligação ao IC 24 e Porto;
+
+3) A 4, entre o nó com a A 3 e Porto;
+
+4) EN 13, entre Moreira e Porto;
+
+5) EN 14, entre Maia e Porto;
+
+6) EN 15, entre Valongo e Porto;
+
+7) EN 105, entre Alfena e Porto;
+
+8) EN 108, entre Gondomar (Ramalde) e Porto;
+
+9) EN 109, entre Miramar e Porto;
+
+10) EN 209, entre Gondomar e Porto;
+
+11) EN 222, entre Avintes e Porto.
+
+3.º É proibida a circulação dos veículos a que se refere o n.º 1.º no túnel da Gardunha, localizado no IP 2, entre Alpedrinha e Fundão.
+
+4.º Para efeitos do disposto na presente portaria, nos feriados municipais que, face à previsibilidade de grande intensidade de tráfego, determinem a adopção de restrições à circulação e que ocorram num dos dois dias imediatamente anteriores ou posteriores aos referidos no n.º 1.º são aplicáveis as restrições previstas no n.º 1.º da presente portaria.
+
+5.º As restrições previstas no número anterior podem abranger todas ou parte das vias referidas no n.º 1.º e são publicitadas por despacho do director-geral de Viação, a publicar durante o mês de Dezembro do ano anterior àquele em que se verificam.
+
+6.º As restrições previstas nos n.os 1.º e 2.º podem não ser aplicáveis se os dias a que respeitam ocorrerem imediatamente antes ou após um outro dia em que vigorem restrições à circulação, nos termos da presente portaria, e seja previsível uma reduzida intensidade de tráfego, o que será divulgado através do despacho referido no n.º 5.º
+
+7.º Ficam excepcionados das restrições previstas nos números anteriores, salvo das estabelecidas no n.º 3.º, os veículos que efectuem transportes internacionais e ainda os que transportem:
+
+a) Mercadorias perigosas destinadas a hospitais;
+
+b) Mercadorias perigosas destinadas às Forças Armadas, militarizadas e policiais;
+
+c) Combustíveis destinados ao abastecimento de aeroportos e portos marítimos;
+
+d) Mercadorias perigosas que provenham de navios ou se destinem ao respectivo carregamento.
+
+8.º A Direcção-Geral de Viação pode conceder autorizações especiais de circulação para veículos que:
+
+a) Efectuem carregamentos, durante os períodos previstos nos n.os 1.º e 2.º, desde que, cumulativamente:
+
+a.1) A unidade de produção ou de armazenamento onde é efectuado o carregamento seja servida unicamente por uma via sujeita a restrições;
+
+a.2) A utilização da via referida na alínea anterior permita o acesso directo a uma outra via não sujeita a restrições;
+
+b) Transportem mercadorias perigosas imprescindíveis à laboração contínua de unidades de produção.
+
+9.º O director-geral de Viação pode ainda autorizar excepcionalmente a circulação de veículos sujeitos a restrições, nos termos do presente diploma, quando a sua deslocação seja indispensável e urgente, atentas razões de interesse público que importe salvaguardar.
+
+10.º Para efeitos do disposto nos n.os 8.º e 9.º, a Direcção-Geral de Viação pode solicitar parecer de entidades oficiais competentes, quer quanto à indispensabilidade e urgência do transporte, quer quanto ao itinerário a percorrer.
+
+11.º Para efeitos de instrução do pedido de autorização, a entidade interessada no transporte deve, juntamente com fotocópia do livrete e do certificado de aprovação ADR do veículo, quando for o caso, apresentar requerimento fundamentado, onde conste:
+
+a) Identificação do transportador;
+
+b) Identificação das mercadorias a transportar, mencionando a classe ADR e o número de identificação ONU;
+
+c) Indicação do(s) dia(s), hora(s) e via(s) previsto(s) para a circulação.
+
+12.º Excepcionalmente, e em caso de não ser comprovadamente viável o recurso ao disposto no n.º 8.º, podem ser concedidas pelo posto policial mais próximo do local de início do transporte autorizações especiais, nos casos previstos naquele número.
+
+13.º Se o transporte que, em condições normais, seria concluído antes do início do período de restrição o não puder ser, por motivos imprevistos e de força maior, pode o posto policial mais próximo ou em melhores condições de verificar a ocorrência autorizar a conclusão desse transporte, em tempo devidamente determinado e nas condições que melhor acautelarem a segurança da circulação rodoviária.
+
+14.º Os modelos de autorização previstos nos n.os 8.º, 9.º, 12.º e 13.º são aprovados por despacho do director-geral de Viação.
+
+15.º É revogada a [Portaria n.º 552/87](https://diariodarepublica.pt/dr/detalhe/portaria/552-1987-420003), de 3 de Julho.
+
+16.º O presente diploma entra imediatamente em vigor.
+
+Ministério da Administração Interna.
+
+Assinada em 19 de Maio de 1998.
+
+Pelo Ministro da Administração Interna, Armando António Martins Vara, Secretário de Estado Adjunto do Ministro da Administração Interna.

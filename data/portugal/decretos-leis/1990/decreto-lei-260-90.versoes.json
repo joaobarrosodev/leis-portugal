@@ -1,0 +1,195 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:587383:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-979311276",
+ "dre_path": "/dr/detalhe/decreto-lei/260-1990-587383",
+ "source_lastmod": "2025-12-12",
+ "versions": [
+  {
+   "date": "1990-08-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "979311216",
+    "979311217",
+    "979311218",
+    "979311219",
+    "979311220",
+    "979311221",
+    "979311222",
+    "979311223",
+    "979311224",
+    "979311225",
+    "979311226",
+    "979311227",
+    "979311228",
+    "979311229"
+   ]
+  },
+  {
+   "date": "1990-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:546239:por",
+     "title": "Declaração",
+     "published": "1990-08-31",
+     "dre_path": "/dr/detalhe/declaracao/1990-546239"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º"
+   ],
+   "fragments": [
+    "979311216",
+    "979311217",
+    "979311218",
+    "979311233",
+    "979311220",
+    "979311221",
+    "979311222",
+    "979311223",
+    "979311224",
+    "979311225",
+    "979311226",
+    "979311227",
+    "979311228",
+    "979311229",
+    "979311230"
+   ]
+  }
+ ],
+ "fragments": {
+  "979311216": {
+   "fragment_id": "979311277",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 260/90\n\nde 17 de Agosto\n\nEm execução do disposto no artigo 6.º do Decreto-Lei n.º 108/89, de 13 de Abril, e da Resolução do Conselho de Ministros n.º 38/89, de 12 de Outubro, o Estado alienou acções correspondentes a 49% do capital da Companhia de Seguros Tranquilidade, S. A.\n\nResolveu o Estado alienar agora, com observância das disposições aplicáveis da Lei n.º 11/90, de 5 de Abril, as acções de que é titular, correspondentes a 51% do capital da mesma sociedade.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 11/90, de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "979311217": {
+   "fragment_id": "979311278",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovada a alienação das acções de que o Estado é titular, correspondentes a 51% do capital social da Companhia de Seguros Tranquilidade, S. A."
+  },
+  "979311218": {
+   "fragment_id": "979311279",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - É reservado um lote de acções não inferior a 15% do total das participações sociais a alienar destinado à aquisição por parte de trabalhadores, pequenos subscritores e, eventualmente, emigrantes.\n\n2 - É reservado um lote de acções até 40% do total das participações sociais alienadas nos termos do Decreto-Lei n.º 108/89, de 13 de Abril, e da Resolução do Conselho de Ministros n.º 38/89, de 12 de Outubro, destinado à aquisição por parte de titulares de acções do tipo B.\n\n3 - As acções que não sejam reservadas nos termos dos números anteriores ou, destas, as que não forem adquiridas serão objecto de oferta pública de transacção em bolsas de valores.\n\n4 - Nenhuma pessoa singular ou colectiva poderá adquirir ao abrigo dos n.os 1 e 3 deste artigo um número de acções superior a 10% do capital da sociedade, sob pena de nulidade das aquisições que excederem tal limite.\n\n5 - As aquisições por entidades estrangeiras serão limitadas, globalmente, por forma a ser respeitado o limite definido na alínea b) do n.º 1 do artigo 8.º\n\n6 - Para efeitos do n.º 1 deste artigo entendem-se como trabalhadores as pessoas definidas pelo artigo 12.º da Lei n.º 11/90, de 5 de Abril.\n\n7 - Para efeitos do n.º 2 deste artigo entendem-se como titulares das acções de tipo B os que o forem no momento em que se perfizerem oito dias após a publicação da resolução do Conselho de Ministros a que se refere o artigo 10.º deste diploma."
+  },
+  "979311219": {
+   "fragment_id": "979311280",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades individuais a fixar na resolução do Conselho de Ministros.\n\n2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas a fixar na resolução do Conselho de Ministros, procedendo-se a rateio em função do número de acções pretendidas por cada subscritor, se disso for caso.\n\n3 - As propostas de aquisição pelos titulares das acções do tipo B indicarão o preço máximo até ao qual mantêm a sua eficácia e serão sujeitas a uma quantidade mínima a fixar na resolução do Conselho de Ministros e a uma quantidade máxima proporcional ao número de acções de que cada um for titular, dentro da percentagem referida no n.º 2 do artigo 2.º, com arredondamento por defeito.\n\n4 - A aquisição pelo público será feita em leilão competitivo mediante propostas sujeitas a um mínimo de acções a fixar na resolução do Conselho de Ministros."
+  },
+  "979311220": {
+   "fragment_id": "979311281",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os preços de venda serão fixados pelo Conselho de Ministros, ponderando o preço médio de venda em leilão competitivo na primeira fase de reprivatização, os factores patrimoniais ou outros que tenham posteriormente influenciado a valia da empresa, as transacções posteriormente efectuadas e a cotação das acções na Bolsa.\n\n2 - O Conselho de Ministros estabelecerá preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes, nos termos do n.º 1 do artigo 2.º\n\n3 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções em condições a fixar na resolução do Conselho de Ministros.\n\n4 - O Conselho de Ministros fixará também o preço base para a aquisição pelo público no leilão competitivo referido no n.º 4 do artigo 3.º\n\n5 - O preço de aquisição das acções reservadas aos titulares das acções do tipo B será fixo e igual ao preço médio da oferta pública de venda a que se refere o n.º 4 do artigo 3.º, diminuído de 5%, sendo as propostas de aquisição satisfeitas desde que tenha sido oferecido um preço não inferior àquele."
+  },
+  "979311221": {
+   "fragment_id": "979311282",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Se não se verificar a alienação da totalidade das acções nos termos dos artigos anteriores, o Governo poderá:\n\na) Sujeitar o lote de acções remanescente a nova oferta pública de transacção em bolsa ou a oferta de venda aos accionistas, no caso de aquele ser inferior a 5% do capital social;\n\nb) Aumentar até ao limite máximo de 30% a participação do Estado na sociedade, reduzindo em conformidade as propostas de aquisição, com respeito pelos lotes mínimos, no caso de o lote de acções remanescentes ser igual ou superior a 5% do capital social. Para este efeito será reduzido prioritariamente o lote de acções destinado à aquisição por parte dos titulares de acções do tipo B.\n\n2 - O lote de acções detidas pelo Estado ao abrigo da alínea b) do número anterior pode, em qualquer altura, ser alienado, total ou parcialmente, mediante oferta pública de transacção em bolsa de valores."
+  },
+  "979311222": {
+   "fragment_id": "979311283",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - As acções adquiridas ao abrigo do n.º 1 do artigo 2.º não podem ser oneradas nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.\n\n2 - As acções adquiridas por pequenos subscritores ou emigrantes ao abrigo do n.º 1 do artigo 2.º não conferem aos respectivos titulares o direito de voto na assembleia geral da sociedade durante o período de indisponibilidade previsto no número anterior.\n\n3 - As acções adquiridas por trabalhadores ao abrigo do n.º 1 do artigo 2.º não conferem aos respectivos titulares o direito de votar na assembleia geral por interposta pessoa durante o período de indisponibilidade previsto no n.º 1.\n\n4 - São nulos os acordos pelos quais os trabalhadores que tenham adquirido acções ao abrigo do n.º 1 do artigo 2.º se obriguem a votar em determinado sentido nas assembleias gerais a realizar durante o período de indisponibilidade previsto no n.º 1."
+  },
+  "979311223": {
+   "fragment_id": "979311284",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O direito de aquisição de acções conferido aos titulares de acções de tipo B pelo n.º 2 do artigo 2.º não pode ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, sob pena de nulidade do referido negócio.\n\n2 - Durante o período de cinco anos a contar da data da aquisição as acções adquiridas ao abrigo do n.º 2 do artigo 2.º, quando excederem 0,5% do capital social, não poderão ser oneradas nem alienadas entre vivos, por nenhum título.\n\n3 - O direito de voto inerente às acções sujeitas a indisponibilidade não poderá ser exercido por mandatário durante o período de cinco anos.\n\n4 - São nulos os acordos pelos quais os titulares das acções sujeitas a indisponibilidade nos termos do n.º 2 deste artigo se obriguem a votar em determinado sentido nas assembleias gerais a realizar durante o período de indisponibilidade nele previsto."
+  },
+  "979311224": {
+   "fragment_id": "979311285",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e posse de acções da sociedade por parte de entidades estrangeiras ou de entidade cujo capital social ou correspondente direito de voto seja maioritariamente detido por entidades estrangeiras, observar-se-á o seguinte:\n\na) Todas as acções da sociedade são nominativas ou ao portador, em regime de registo, podendo vir a converter-se em acções escriturais, mas sendo sempre insusceptíveis de conversão em acções ao portador;\n\nb) Não podem ser inscritas ou averbadas a favor do conjunto das mesmas entidades acções com direito de voto representativas de mais de 30% do capital social.\n\n2 - O conselho de administração da sociedade poderá solicitar ao requerente da inscrição ou do averbamento as informações e as provas que considere necessárias para o pleno cumprimento do disposto na alínea b) do número anterior.\n\n3 - São nulos os negócios jurídicos efectuados pelas entidades referidas no n.º 1 ou por entidades portuguesas em nome próprio, mas por conta daquelas, em violação do disposto no mesmo preceito.\n\n4 - As nulidades cominadas no número anterior podem ser judicialmente declaradas a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a sociedade."
+  },
+  "979311225": {
+   "fragment_id": "979311286",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Se e enquanto se verificar a situação prevista na alínea b) do n.º 1 do artigo 5.º, o representante do Estado na assembleia geral poderá sempre designar um dos membros do conselho de administração, independentemente do número de acções de que o Estado seja titular.\n\n2 - O administrador nomeado nos termos do número anterior tem a competência, direitos e deveres definidos na lei para os administradores por parte do Estado.\n\n3 - As deliberações da assembleia geral que tenham por objecto a fusão, a cisão, a transformação, a dissolução e a alteração de contrato, incluindo o aumento e a redução do capital, carecem do voto favorável do representante do Estado na assembleia geral."
+  },
+  "979311226": {
+   "fragment_id": "979311287",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO Conselho de Ministros aprovará, mediante resolução, as condições finais para a concretização das operações de execução do presente diploma."
+  },
+  "979311227": {
+   "fragment_id": "979311288",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO prazo previsto no n.º 2 do artigo 6.º do Decreto-Lei n.º 108/89, de 13 de Abril, é reduzido para um ano."
+  },
+  "979311228": {
+   "fragment_id": "979311289",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA sociedade deve, no prazo máximo de 60 dias após a data da conclusão da reprivatização prevista pelo presente diploma, proceder às necessárias adaptações dos respectivos estatutos."
+  },
+  "979311229": {
+   "fragment_id": "979311290",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "979311233": {
+   "fragment_id": "979311280",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1990-08-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546239), em vigor a partir de 1990-08-31"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades individuais a fixar na resolução do Conselho de Ministros.\n\n2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas a fixar na resolução do Conselho de Ministros, procedendo-se a rateio em função do número de acções pretendidas de subscritores, se disso for caso.\n\n3 - As propostas de aquisição pelos titulares das acções do tipo B indicarão o preço máximo até ao qual mantêm a sua eficácia e serão sujeitas a uma quantidade mínima a fixar na resolução do Conselho de Ministros e a uma quantidade máxima proporcional ao número de acções de que cada um for titular, dentro da percentagem referida no n.º 2 do artigo 2.º, com arredondamento por defeito.\n\n4 - A aquisição pelo público será feita em leilão competitivo mediante propostas sujeitas a um mínimo de acções a fixar na resolução do Conselho de Ministros.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546239), em vigor a partir de 1990-08-31"
+  },
+  "979311230": {
+   "fragment_id": "979311291",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Julho de 1990. - Aníbal António Cavaco Silva - José Manuel Alves Elias da Costa.\n\nPromulgado em 10 de Agosto de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Agosto de 1990.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  }
+ }
+}

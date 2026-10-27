@@ -1,0 +1,860 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:199077:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-952948351",
+ "dre_path": "/dr/detalhe/decreto-lei/148-a-2009-199077",
+ "source_lastmod": "2025-11-25",
+ "versions": [
+  {
+   "date": "2009-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "952062591",
+    "952062592",
+    "952062593",
+    "952062594",
+    "952062595",
+    "952062596",
+    "952062597",
+    "952062598",
+    "952062599",
+    "952062600",
+    "952062601",
+    "952062602",
+    "952062603",
+    "952062604",
+    "952062605",
+    "952062606",
+    "952062607",
+    "952062608",
+    "952062610",
+    "952062611",
+    "952062612",
+    "952062613",
+    "952062614",
+    "952062615",
+    "952062616",
+    "952062617",
+    "952062618",
+    "952062619",
+    "952062620",
+    "952062621",
+    "952062622",
+    "952062623",
+    "952062624",
+    "952062625",
+    "952062626",
+    "952062627",
+    "952062628",
+    "952062629",
+    "952062630",
+    "952062631",
+    "952062632",
+    "952062633",
+    "952062634",
+    "952062635",
+    "952062636",
+    "952062637",
+    "952062638",
+    "952062639",
+    "952062640",
+    "952062641",
+    "952062642",
+    "952062643",
+    "952062644",
+    "952062645",
+    "952062646",
+    "952062647",
+    "952062648"
+   ]
+  },
+  {
+   "date": "2014-12-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:61725766:por",
+     "title": "Decreto-Lei n.º 175/2014",
+     "published": "2014-12-05",
+     "dre_path": "/dr/detalhe/decreto-lei/175-2014-61725766"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "952062591",
+    "952062592",
+    "952062593",
+    "952062594",
+    "952062595",
+    "952062596",
+    "952062649",
+    "952062598",
+    "952062650",
+    "952062651",
+    "952062652",
+    "952062653",
+    "952062654",
+    "952062604",
+    "952062605",
+    "952062606",
+    "952062607",
+    "952062608",
+    "952062609",
+    "952062610",
+    "952062611",
+    "952062612",
+    "952062613",
+    "952062614",
+    "952062615",
+    "952062616",
+    "952062617",
+    "952062618",
+    "952062619",
+    "952062620",
+    "952062621",
+    "952062622",
+    "952062623",
+    "952062624",
+    "952062625",
+    "952062626",
+    "952062627",
+    "952062628",
+    "952062629",
+    "952062630",
+    "952062631",
+    "952062632",
+    "952062633",
+    "952062634",
+    "952062635",
+    "952062636",
+    "952062637",
+    "952062638",
+    "952062639",
+    "952062640",
+    "952062641",
+    "952062642",
+    "952062643",
+    "952062644",
+    "952062645",
+    "952062646",
+    "952062647",
+    "952062648"
+   ]
+  },
+  {
+   "date": "2025-11-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:952096394:por",
+     "title": "Decreto-Lei n.º 124/2025",
+     "published": "2025-11-25",
+     "dre_path": "/dr/detalhe/decreto-lei/124-2025-952096394"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "952062591",
+    "952062592",
+    "952062593",
+    "952062594",
+    "952062595",
+    "952062596",
+    "952062649",
+    "952062598",
+    "952062650",
+    "952062651",
+    "952062652",
+    "952062653",
+    "952062654",
+    "952062604",
+    "952062605",
+    "952062606",
+    "952062607",
+    "952062608",
+    "952062609",
+    "952062610",
+    "952062611",
+    "952062612",
+    "952062613",
+    "952062614",
+    "952062615",
+    "953230178",
+    "952062617",
+    "952062618",
+    "952062619",
+    "952062620",
+    "952062621",
+    "952062622",
+    "952062623",
+    "952062624",
+    "952062625",
+    "952062626",
+    "952062627",
+    "952062628",
+    "952062629",
+    "952062630",
+    "952062631",
+    "952062632",
+    "952062633",
+    "952062634",
+    "952062635",
+    "952062636",
+    "952062637",
+    "952062638",
+    "952062639",
+    "952062640",
+    "952062641",
+    "952062642",
+    "952062643",
+    "952062644",
+    "952062645",
+    "952062646",
+    "952062647",
+    "952062648"
+   ]
+  },
+  {
+   "date": "2026-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1126675657:por",
+     "title": "Decreto-Lei n.º 106/2026",
+     "published": "2026-05-27",
+     "dre_path": "/dr/detalhe/decreto-lei/106-2026-1126675657"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "952062591",
+    "952062592",
+    "1127394575",
+    "952062594",
+    "952062595",
+    "952062596",
+    "952062649",
+    "952062598",
+    "952062650",
+    "952062651",
+    "952062652",
+    "952062653",
+    "952062654",
+    "952062604",
+    "952062605",
+    "952062606",
+    "952062607",
+    "952062608",
+    "952062609",
+    "952062610",
+    "952062611",
+    "952062612",
+    "1127398375",
+    "952062614",
+    "952062615",
+    "953230178",
+    "952062617",
+    "952062618",
+    "952062619",
+    "952062620",
+    "952062621",
+    "952062622",
+    "952062623",
+    "952062624",
+    "952062625",
+    "952062626",
+    "952062627",
+    "952062628",
+    "952062629",
+    "952062630",
+    "952062631",
+    "952062632",
+    "952062633",
+    "952062634",
+    "952062635",
+    "952062636",
+    "952062637",
+    "952062638",
+    "952062639",
+    "952062640",
+    "952062641",
+    "952062642",
+    "952062643",
+    "952062644",
+    "952062645",
+    "952062646",
+    "952062647",
+    "952062648"
+   ]
+  }
+ ],
+ "fragments": {
+  "952062591": {
+   "fragment_id": "952948352",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 148-A/2009\n\nde 26 de Junho\n\nCom o Decreto-Lei n.º 300/2007, de 23 de Agosto, que alterou o Decreto-Lei n.º 558/99, de 17 de Dezembro, o Governo procedeu a uma revisão profunda do regime jurídico do sector empresarial do Estado.\n\nFoi propósito deste novo regime simplificar o estatuto legal das entidades públicas empresariais e aproximá-lo, tanto quanto possível, dos paradigmas jurídico-privados, tentando assegurar, igualmente, a harmonia entre este regime jurídico e o novo estatuto do gestor público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de Março.\n\nDesde a publicação do Decreto-Lei n.º 439/78, de 30 de Dezembro, diploma através do qual o Metropolitano de Lisboa assumiu a forma de empresa pública e que aprovou os respectivos Estatutos, verificaram-se modificações relevantes das condições do exercício da sua actividade, nomeadamente em virtude do desenvolvimento tecnológico.\n\nPor outro lado, sendo actualmente inegável a relevância do transporte por metropolitano como factor de promoção de uma mobilidade urbana sustentada, o exercício desta actividade reclama a actualização de objectivos a alcançar, um novo enquadramento institucional e a definição de instrumentos legais adequados à prossecução dos fins do Metropolitano de Lisboa e à realização eficaz do serviço público de que está incumbido, no âmbito de uma perspectiva integrada de ordenamento do território e desenvolvimento económico.\n\nDesta forma, afigura-se, assim, adequado e imperioso proceder à revogação do Decreto-Lei n.º 439/78, de 30 de Dezembro, e aprovar um novo regime jurídico aplicável ao Metropolitano de Lisboa, E. P. E., enquanto entidade pública empresarial, conformando-o ao regime jurídico do sector empresarial do Estado, designadamente dando execução ao expressamente previsto no artigo 35.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e pelo Decreto-Lei n.º 64-A/2008, de 31 de Dezembro, e ao estatuto do gestor público e aprovando, igualmente, os respectivos Estatutos.\n\nConsagra-se, no presente decreto-lei, o enquadramento que permitirá a contratualização do serviço de transporte público por metropolitano de passageiros prestado pelo Metropolitano de Lisboa, E. P. E., estabelecendo-se que o respectivo instrumento contratual deve incluir disposições específicas sobre os serviços relativamente aos quais se justifica a existência de obrigações de serviço público.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "952062592": {
+   "fragment_id": "952948353",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei aprova o regime jurídico aplicável ao Metropolitano de Lisboa, E. P. E. (ML, E. P. E.).\n\n2 - São igualmente aprovados os Estatutos do ML, E. P. E., publicados no anexo i do presente decreto-lei e que dele fazem parte integrante.\n\n3 - O presente decreto-lei constitui título bastante para todos os efeitos legais, incluindo os de registo."
+  },
+  "952062593": {
+   "fragment_id": "952948354",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza e regime aplicável\n\n1 - O ML, E. P. E., é uma entidade pública empresarial com personalidade jurídica, dotada de autonomia administrativa e financeira e de património próprio.\n\n2 - O ML, E. P. E., rege-se pelo disposto no presente decreto-lei e nos seus Estatutos, pelos regulamentos internos, pelo disposto no regime jurídico do sector empresarial do Estado, constante do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e pelo Decreto-Lei n.º 64-A/2008, de 31 de Dezembro, bem como pelas normas legais que lhe sejam especialmente aplicáveis."
+  },
+  "952062594": {
+   "fragment_id": "952948355",
+   "type": 11,
+   "heading": "Artigo 3.º — Superintendência e tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Superintendência e tutela\n\nO ML, E. P. E., está sujeito ao poder de superintendência e de tutela do membro do Governo responsável pelo sector dos transportes e aos poderes de tutela conjunta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, nos termos e para os efeitos previstos no regime jurídico do sector empresarial do Estado."
+  },
+  "952062595": {
+   "fragment_id": "952948356",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital estatutário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital estatutário\n\n1 - O capital estatutário do ML, E. P. E., é de (euro) 603 750 000, parcialmente realizado no montante de (euro) 573 629 602,66, detido integralmente pelo Estado, e destina-se a responder às necessidades permanentes da empresa.\n\n2 - O capital estatutário do ML, E. P. E., é aumentado ou reduzido, mediante despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e dos transportes."
+  },
+  "952062596": {
+   "fragment_id": "952948357",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Financiamentos\n\nO ML, E. P. E., pode contrair os financiamentos, internos ou externos, necessários à prossecução das suas atribuições e competências, nos termos do Decreto-Lei n.º 558/99, de 27 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e pelo Decreto-Lei n.º 64-A/2008, de 31 de Dezembro."
+  },
+  "952062597": {
+   "fragment_id": "952948358",
+   "type": 11,
+   "heading": "Artigo 6.º — Contratualização do serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contratualização do serviço público\n\n1 - Sem prejuízo da celebração de contratos de concessão com o Estado, directamente ou com outra entidade pública legalmente competente, nos termos do n.º 2 do artigo 19.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e pelo Decreto-Lei n.º 64-A/2008, de 31 de Dezembro, e da demais legislação aplicável, compete ao ML, E. P. E., exercer a actividade de prestação de serviços de transporte por metropolitano de passageiros na cidade de Lisboa e zonas limítrofes.\n\n2 - Os contratos referidos no número anterior identificam os serviços cuja gestão e exploração é atribuída ao ML, E. P. E., com sujeição a obrigações de serviço público, nos termos da legislação aplicável.\n\n3 - Das disposições contratuais relativas à prestação de serviços públicos, tal como referido no número anterior, devem constar, designadamente:\n\na) Os direitos e deveres das partes, incluindo obrigações de serviço público, bem como o preço, a compensação e direitos exclusivos;\n\nb) Os critérios de cálculo das compensações das obrigações de serviço público;\n\nc) Os requisitos de qualidade e níveis de desempenho;\n\nd) As sanções e penalidades aplicáveis em caso de incumprimento ou de cumprimento defeituoso do contrato ou de falhas de desempenho;\n\ne) O prazo de duração do contrato.\n\n4 - Até à celebração dos contratos referidos nos números anteriores, aplicam-se as disposições gerais relativas à concessão de subvenções públicas, previstas no Decreto-Lei n.º 167/2008, de 20 de Agosto."
+  },
+  "952062598": {
+   "fragment_id": "952948359",
+   "type": 11,
+   "heading": "Artigo 7.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Património\n\n1 - O património do ML, E. P. E., é constituído pela universalidade dos direitos e bens adquiridos para o exercício da sua actividade, podendo administrá-lo e dele dispor livremente, sem sujeição às normas relativas ao domínio privado do Estado.\n\n2 - O ML, E. P. E., administra ainda os bens do domínio público afectos às suas actividades, nos termos da lei.\n\n3 - O ML, E. P. E, deve manter actualizados os registos referentes ao cadastro dos bens e direitos que integram o seu património e dos bens do domínio público que lhe estejam afectos."
+  },
+  "952062599": {
+   "fragment_id": "952948360",
+   "type": 11,
+   "heading": "Artigo 8.º — Infra-estruturas ferroviárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Infra-estruturas ferroviárias\n\n1 - Na construção, instalação e renovação das infra-estruturas ferroviárias afectas ao ML, E. P. E., são observadas as regras gerais sobre o regime financeiro a que estão sujeitas as infra-estruturas de longa duração (ILD).\n\n2 - Para os efeitos do disposto no número anterior, entende-se por «infra-estrutura ferroviária» o conjunto das infra-estruturas elencadas no anexo ii ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "952062600": {
+   "fragment_id": "952948361",
+   "type": 11,
+   "heading": "Artigo 9.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Poderes de autoridade\n\nSem prejuízo das competências atribuídas por lei a outras entidades, para a prossecução e desenvolvimento do serviço público que lhe está atribuído, o ML, E. P. E., detém os poderes, as prerrogativas e as obrigações, conferidos ao Estado pelas disposições legais e regulamentares aplicáveis, no que respeita:\n\na) À utilização e à gestão das infra-estruturas afectas ao serviço público;\n\nb) Aos processos de expropriação, nos termos do regime jurídico do sector empresarial do Estado e do Código das Expropriações;\n\nc) À ocupação de terrenos, implantação de traçados, constituição de servidões administrativas ou poderes relativos a medidas restritivas de utilização de solos;\n\nd) À protecção das instalações afectas ao serviço público;\n\ne) À definição dos direitos e deveres dos utentes, constantes de regulamento de exploração, aprovado pelo conselho de administração;\n\nf) À fiscalização dos títulos de transporte e à aplicação das respectivas sanções, nos termos da lei."
+  },
+  "952062601": {
+   "fragment_id": "952948362",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas parciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas parciais\n\n1 - As expropriações, servidões ou afectações dominiais podem incidir sobre parte do prédio ou sobre parte do subsolo do prédio, sempre que apenas essa parte seja necessária para a prossecução e desenvolvimento do serviço público.\n\n2 - O disposto no número anterior não prejudica o direito do particular, afectado pela expropriação, requerer que a mesma incida sobre a totalidade do prédio, nos termos definidos no Código das Expropriações para a expropriação parcial."
+  },
+  "952062602": {
+   "fragment_id": "952948363",
+   "type": 11,
+   "heading": "Artigo 11.º — Articulação com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Articulação com outras entidades\n\nO ML, E. P. E., deve promover a informação e a colaboração permanentes, nomeadamente, quanto ao desenvolvimento das linhas de metropolitano, execução de obras e ocupação temporária do espaço público, à requalificação do espaço urbano e da rede viária, bem como à manutenção e conservação das infra-estruturas de transporte público de uso partilhado, com outras entidades públicas com competências naquelas matérias ou em cuja área de influência geográfica se situam as linhas de transporte público de metropolitano."
+  },
+  "952062603": {
+   "fragment_id": "952948364",
+   "type": 11,
+   "heading": "Artigo 12.º — Pareceres e autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pareceres e autorizações\n\n1 - A instalação e exploração de novas linhas de metropolitano e o encerramento ou abertura de novas estações são objecto de parecer prévio dos municípios da área em que se realizem, bem como da Autoridade Metropolitana de Transportes de Lisboa, sempre que seja considerado necessário ou conveniente.\n\n2 - As obras que se realizem nas vias públicas dependem de prévia autorização do município da área em que se situem.\n\n3 - A apreciação de operações urbanísticas, incluindo escavações, e de obras de reconstrução ou ampliação de edifícios ou de outras construções, bem como a alteração da configuração geral de terrenos, carece de parecer prévio do ML, E. P. E., a solicitar pelo município da área em que se realizem, sempre que localizadas a menos de 25 m, em projecção horizontal e vertical do plano exterior das infra-estruturas do ML, E. P. E.\n\n4 - Sempre que se verifiquem efectivas interferências com as infra-estruturas de metropolitano, os projectos a submeter a apreciação do ML, E. P. E., devem ser instruídos com os seguintes elementos e informações complementares:\n\na) Descrição das implicações com a infra-estrutura do metropolitano e sua justificação;\n\nb) Estudo de interacção da obra com as infra-estruturas do metropolitano;\n\nc) Plano de instrumentação para controlo da obra.\n\n5 - As operações urbanísticas relativas a equipamentos e a infra-estruturas necessárias para a prossecução e desenvolvimento do serviço público de transporte efectuado pelo ML, E. P. E., são efectuadas em nome e por conta do Estado.\n\n6 - Os pareceres referidos no n.º 1 e a autorização municipal a que se reporta o n.º 2 do presente artigo consideram-se favoráveis se não for comunicada a respectiva deliberação no prazo de 30 dias a contar da data da recepção do correspondente pedido.\n\n7 - O ML, E. P. E., deve emitir o parecer a que se reporta o n.º 3 no prazo de 30 dias, após o recebimento de todos os elementos e informações necessárias para a apreciação do projecto."
+  },
+  "952062604": {
+   "fragment_id": "952948365",
+   "type": 11,
+   "heading": "Artigo 13.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Referências\n\n1 - Todas as referências constantes da lei ao ML, E. P., consideram-se feitas ao ML, E. P. E.\n\n2 - Quaisquer referências legais aos anteriores órgãos do ML, E. P., consideram-se feitas aos actuais órgãos do ML, E. P. E."
+  },
+  "952062605": {
+   "fragment_id": "952948366",
+   "type": 11,
+   "heading": "Artigo 14.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposições finais\n\n1 - Ao ML, E. P. E., aplicam-se todas as disposições relativas ao transporte colectivo de passageiros que sejam aplicáveis ao transporte por metropolitano.\n\n2 - Os agentes de fiscalização do ML, E. P. E., gozam de todos os direitos que lhes são aplicáveis e estão sujeitos aos deveres dos agentes de fiscalização das empresas exploradoras de serviços públicos de transporte colectivo de passageiros.\n\n3 - Sempre que situações de avaria ou de emergência nas infra-estruturas do ML, E. P. E., exijam a intervenção urgente de piquetes do ML, E. P. E., devem os agentes reguladores do trânsito facilitar a circulação e o estacionamento dos veículos afectos a esses serviços, devidamente identificados, desde que se revele necessário para aceder às instalações a intervencionar e não provoque inconvenientes para a segurança da circulação."
+  },
+  "952062606": {
+   "fragment_id": "952948367",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposição transitória\n\nOs membros dos órgãos do ML, E. P., mantêm-se em funções até à data da nomeação dos membros dos novos órgãos do ML, E. P. E., data em que cessam as respectivas funções."
+  },
+  "952062607": {
+   "fragment_id": "952948368",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 439/78, de 30 de Dezembro."
+  },
+  "952062608": {
+   "fragment_id": "952948369",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a sua publicação."
+  },
+  "952062610": {
+   "fragment_id": "952948371",
+   "type": 14,
+   "heading": "Anexo I — ESTATUTOS DO METROPOLITANO DE LISBOA, E. P. E.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — ESTATUTOS DO METROPOLITANO DE LISBOA, E. P. E.\n\n(a que se refere o n.º 2 do artigo 1.º)"
+  },
+  "952062611": {
+   "fragment_id": "952948372",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e objecto"
+  },
+  "952062612": {
+   "fragment_id": "952948373",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza, denominação, sede e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza, denominação, sede e duração\n\n1 - O Metropolitano de Lisboa, Entidade Pública Empresarial, doravante designada de ML, E. P. E., é uma entidade pública empresarial com personalidade jurídica, dotada de autonomia administrativa, financeira e patrimonial.\n\n2 - O ML, E. P. E., tem a sua sede em Lisboa, na Avenida de Fontes Pereira de Melo, 28, podendo deslocá-la para qualquer local concretamente definido, dentro do território nacional, por deliberação do conselho de administração.\n\n3 - A duração do ML, E. P. E., é por tempo indeterminado."
+  },
+  "952062613": {
+   "fragment_id": "952948374",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - Constitui objecto do ML, E. P. E., a exploração, em exclusividade e regime de serviço público, do transporte colectivo de passageiros fundado no aproveitamento do subsolo da cidade de Lisboa e dos concelhos limítrofes da Grande Lisboa, abrangidos pela respectiva área correspondente ao nível iii da Nomenclatura para Fins Territoriais e Estatísticos (NUTS).\n\n2 - Incluem-se, ainda, no objecto do ML, E. P. E., as seguintes actividades:\n\na) Assegurar, por delegação do Estado, a construção, a instalação, a renovação, a manutenção e a gestão das infra-estruturas ferroviárias que lhe estão afectas, incluindo a gestão da capacidade da infra-estrutura e a gestão dos respectivos sistemas de regulação e segurança;\n\nb) Assegurar a conservação e exploração de passagens subterrâneas ou à superfície, ou outras instalações que se encontram em correspondência directa com o seu sistema de transporte;\n\nc) Explorar directamente, em colaboração ou através de terceiros, quaisquer espaços comerciais no interior das suas instalações, designadamente estabelecimentos comerciais, salas de exposições, máquinas automáticas de venda de produtos e de prestação de serviços, bem como todas as formas de publicidade nas instalações fixas sob a sua gestão ou no material circulante;\n\nd) Agrupar-se, nos termos da lei, com outras empresas públicas ou sociedades concessionários de serviço de interesse público, participar em sociedades de qualquer natureza, em associações, agrupamentos complementares de empresas, agrupamentos europeus de interesse económico, ou outras formas de colaboração com terceiros, desde que associadas ao seu objecto ou em actividades que dele decorram;\n\ne) Assegurar a participação em associações ou organismos nacionais e internacionais, que prossigam fins semelhantes, relacionados ou complementares das actividades desenvolvidas pelo ML, E. P. E.;\n\nf) Assegurar a representação do Estado, a solicitação dos membros do Governo da tutela, junto de associações ou organismos internacionais.\n\n3 - O ML, E. P. E., pode, nos termos da lei, exercer directamente, ou em colaboração com terceiros, outras actividades complementares ou subsidiárias da exploração, bem como outros ramos de actividade comercial ou industrial, incluindo a prestação de serviços que não prejudiquem a prossecução do seu objecto principal e que tenham em vista a melhor realização dos fins sociais e a melhor utilização dos recursos disponíveis.\n\n4 - O ML, E. P. E., pode ainda desenvolver o transporte colectivo parcialmente à superfície, em trincheira, ao nível do solo ou em viaduto, designadamente em zonas limítrofes ou quando razões de ordem técnico-económica o justifiquem.\n\n5 - O ML, E. P. E., pode explorar novas modalidades de transporte público de passageiros, desde que as suas características próprias o justifiquem, quer pela identidade tecnológica, quer por contribuírem para a optimização e a racionalização do sistema de transportes."
+  },
+  "952062614": {
+   "fragment_id": "953229675",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos sociais"
+  },
+  "952062615": {
+   "fragment_id": "953229676",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos sociais do ML, E. P. E.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos sociais do ML, E. P. E.\n\nSão órgãos sociais do ML, E. P. E:\n\na) O conselho de administração;\n\nb) O conselho fiscal;\n\nc) O revisor oficial de contas ou uma sociedade de revisores oficiais de contas;\n\nd) O conselho consultivo."
+  },
+  "952062616": {
+   "fragment_id": "953229677",
+   "type": 11,
+   "heading": "Artigo 4.º — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conselho de administração\n\n1 - O conselho de administração é composto por um presidente e quatro vogais, nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.\n\n2 - Por deliberação do conselho de administração, podem ser indicados três membros executivos do conselho de administração para integrarem uma comissão executiva, a qual é presidida pelo presidente do conselho de administração, sendo os restantes membros do conselho de administração não executivos.\n\n3 - Nas suas faltas ou impedimentos, o presidente do conselho de administração é substituído pelo membro executivo por si indicado.\n\n4 - Caso exista comissão executiva, esta fica responsável pela gestão corrente do ML, E. P. E."
+  },
+  "952062617": {
+   "fragment_id": "953229678",
+   "type": 11,
+   "heading": "Artigo 5.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Mandato\n\n1 - O mandato dos membros do conselho de administração tem a duração de três anos e é renovável, até ao máximo de três renovações.\n\n2 - Embora designados por prazo certo, os administradores mantêm-se em funções até nova designação, sem prejuízo da dissolução, demissão ou renúncia.\n\n3 - Faltando definitivamente um administrador, o mesmo deve ser substituído, exercendo o novo membro funções até ao fim do período para o qual foram designados os membros em exercício."
+  },
+  "952062618": {
+   "fragment_id": "953229679",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime\n\n1 - Aos membros do conselho de administração é aplicável o regime constante do estatuto do gestor público.\n\n2 - Os membros do conselho de administração auferem a remuneração que seja fixada nos termos do artigo 28.º e 29.º do estatuto do gestor público."
+  },
+  "952062619": {
+   "fragment_id": "953229680",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência do conselho de administração\n\n1 - Ao conselho de administração compete, em geral, o exercício de todos os poderes necessários para assegurar a gestão e o desenvolvimento do ML, E. P. E., e a administração dos bens afectos à actividade do ML, E. P. E.\n\n2 - Compete, em especial, ao conselho de administração:\n\na) Elaborar e propor aos membros do Governos responsáveis pelas áreas das finanças e dos transportes os objectivos estratégicos e as políticas de gestão do ML, E. P. E., e controlar permanentemente a sua execução;\n\nb) Elaborar os planos de actividades e os planos de investimento e financeiros anuais e plurianuais, e os orçamentos anuais, de acordo com as orientações gerais e específicas definidas para o sector e para a empresa e os pressupostos macroeconómicos definidos pelo Governo, submetendo-os à aprovação dos membros do Governo responsáveis pelas áreas das finanças e dos transportes;\n\nc) Elaborar e remeter ao conselho fiscal, até 15 de Setembro de cada ano, o orçamento da empresa para o ano seguinte, a enviar, juntamente com o parecer do conselho fiscal, até 31 de Outubro, aos membros do Governo responsáveis pelas áreas das finanças e dos transportes;\n\nd) Elaborar relatórios de controlo orçamental adaptados às características da empresa e às necessidades do seu acompanhamento por parte dos membros do Governo responsáveis pelas áreas das finanças e dos transportes;\n\ne) Apresentar os documentos de prestação de contas anuais, que incluem o parecer do conselho fiscal e a certificação legal de contas, nos termos previstos na lei;\n\nf) Gerir a actividade do ML, E. P. E., e praticar as operações relativas à prossecução do seu objecto;\n\ng) Deliberar sobre o exercício, modificação ou cessação de actividades acessórias do objecto principal do ML, E. P. E;\n\nh) Propor a homologação de tarifas e preços a praticar na exploração da sua actividade;\n\ni) Celebrar contratos com o Estado, nos termos e para os efeitos referidos no artigo 21.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e pelo Decreto-Lei n.º 64-A/2008, de 31 de Dezembro, contemplando, designadamente, a atribuição de indemnizações compensatórias e o fornecimento de serviços públicos relativamente ao transporte de passageiros;\n\nj) Contrair empréstimos ou contratar outras formas de financiamento, podendo, para o efeito, constituir garantias, ónus ou encargos sobre os bens e direitos do património do ML, E. P. E., nos termos da lei;\n\nl) Requerer a declaração de utilidade pública das expropriações, a ocupação de terrenos, a definição de traçados e de medidas preventivas, estabelecimento de limitações ao uso de prédios, a definição de zonas de protecção e de exercício de servidões administrativas;\n\nm) Adquirir, vender, hipotecar ou por qualquer forma alienar ou onerar bens que integrem o património próprio do ML, E. P. E., nos termos da lei e dos seus Estatutos;\n\nn) Tomar de locação quaisquer bens e dar de locação os bens que integrem o património do ML, E. P. E.;\n\no) Aceitar doações, heranças e legados;\n\np) Aprovar a organização técnico-administrativa do ML, E. P. E., e as normas de funcionamento interno;\n\nq) Designar e exonerar os responsáveis da estrutura orgânica do ML, E. P. E.;\n\nr) Aprovar o regime retributivo, o regulamento de carreiras e demais regulamentos internos relativos às condições de prestação do trabalho, sem prejuízo dos direitos emergentes de convenções colectivas de trabalho;\n\ns) Exercer poderes de direcção, gestão e disciplina, nos termos da lei;\n\nt) Negociar convenções colectivas de trabalho;\n\nu) Representar o ML, E. P. E., em juízo ou fora dele, activa e passivamente, propor e prosseguir quaisquer acções, confessá-las ou delas transigir, ou comprometer-se em arbitragem;\n\nv) Constituir mandatários com poderes considerados convenientes;\n\nx) Deliberar sobre a participação do ML, E. P. E., na constituição de sociedades e na aquisição ou alienação de partes de capital de outras empresas ou sociedades, nos termos da lei;\n\nz) Assegurar, relativamente às actividades exercidas pelo ML, E. P. E., a participação em associações ou organismos internacionais relacionados com as mesmas, bem como assegurar ou garantir, junto daqueles ou em qualquer país, a representação do Estado Português, sempre que solicitada pelo membro do Governo da tutela;\n\naa) Submeter à aprovação dos membros do Governos responsáveis pelas áreas das finanças e dos transportes os actos que, nos termos da lei ou dos Estatutos, o devam ser.\n\n3 - O conselho de administração deve delegar na comissão executiva, caso esta exista, a gestão corrente da empresa, definindo em acta os limites e condições de tal delegação.\n\n4 - A deliberação do conselho de administração referida no número anterior deve estabelecer o modo de funcionamento da comissão executiva.\n\n5 - Sem prejuízo de outras restrições decorrentes da lei, constituem competência reservada do conselho de administração, não podendo ser objecto de delegação, as matérias sujeitas a autorização ou aprovação tutelar.\n\n6 - Os outros administradores são responsáveis, nos termos da lei, pela vigilância geral da actuação do administrador ou da comissão executiva e pelos prejuízos causados por actos e omissões destes, quando, tendo conhecimento de tais actos ou omissões ou do propósito de os praticar, não provoquem a intervenção do conselho para tomar as medidas adequadas."
+  },
+  "952062620": {
+   "fragment_id": "953229681",
+   "type": 11,
+   "heading": "Artigo 8.º — Delegação de poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Delegação de poderes\n\n1 - O conselho de administração pode:\n\na) Delegar, sob proposta do seu presidente, em um ou mais membros executivos do conselho de administração, ou em trabalhador do ML, E. P. E., a competência para a prática de actos ou competências de gestão pública ou privada inerentes à realização de quaisquer das suas atribuições;\n\nb) Fazer-se representar por procurador em actos ou contratos em que o ML, E. P. E., seja parte.\n\n2 - As deliberações que estabeleçam delegações de poderes definem obrigatoriamente os termos e os limites dos poderes delegados.\n\n3 - Só pode haver subdelegação de poderes quando expressamente autorizada pela entidade delegante.\n\n4 - A prova da delegação de poderes, bem como da representação em juízo e fora dele, salvo quanto ao patrocínio judiciário, pode ser feita por credencial assinada por quem, nos termos dos presentes Estatutos, tem competência para obrigar o ML, E. P. E., sendo estas assinaturas autenticadas com o selo branco da empresa.\n\n5 - A delegação de poderes não exclui a competência do conselho de administração de deliberar sobre os mesmos assuntos."
+  },
+  "952062621": {
+   "fragment_id": "953229682",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência do presidente do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência do presidente do conselho de administração\n\n1 - Compete ao presidente do conselho de administração a coordenação e a orientação geral das actividades do conselho de administração.\n\n2 - Compete, em especial, ao presidente do conselho de administração:\n\na) Convocar e presidir às reuniões do conselho de administração, coordenar a sua actividade e promover a execução das suas deliberações e velar pela execução e pelo cumprimento dos orçamentos e dos planos anuais e plurianuais;\n\nb) Representar o ML, E. P. E., em juízo e fora dele, quer no plano nacional, quer no plano internacional, quando outros representantes ou mandatários não hajam sido designados;\n\nc) Assegurar as relações do ML, E. P. E., com o Governo e apresentar aos membros do Governo responsáveis pelas áreas das finanças e dos transportes todos os assuntos que devam ser submetidos à sua apreciação;\n\nd) Convocar reuniões conjuntas do conselho de administração e do conselho fiscal, sempre que julgue necessário e a elas presidir.\n\n3 - Os vogais desempenham as funções que especialmente lhes sejam cometidas pelo conselho de administração.\n\n4 - Compete, em especial, ao presidente da comissão executiva, caso esta exista:\n\na) Assegurar que seja prestada toda a informação aos demais membros do conselho de administração relativamente à actividade da comissão executiva;\n\nb) Assegurar o cumprimento dos limites da delegação, da estratégia da empresa e dos deveres de colaboração, perante o presidente do conselho de administração."
+  },
+  "952062622": {
+   "fragment_id": "953229683",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funcionamento\n\n1 - O conselho de administração fixa, nos termos da lei, as datas ou a periodicidade das suas reuniões ordinárias, pelo menos mensal, e reúne extraordinariamente sempre que convocado pelo presidente ou por dois administradores.\n\n2 - A comissão executiva, caso esta exista, reúne por convocação do seu presidente sempre que o exijam os interesses da empresa e, pelo menos, de 15 em 15 dias.\n\n3 - O conselho de administração e a comissão executiva não podem funcionar sem a presença da maioria dos seus membros.\n\n4 - Os administradores podem fazer-se representar numa reunião por outro administrador, mediante carta dirigida ao respectivo presidente, mas cada instrumento de representação não pode ser utilizado mais de uma vez.\n\n5 - Para efeitos do número anterior, um administrador executivo não pode fazer-se representar por um administrador não executivo, caso exista comissão executiva.\n\n6 - As deliberações do conselho de administração e da comissão executiva constam sempre de acta e são tomadas por maioria dos votos expressos, dos administradores presentes ou representados.\n\n7 - O presidente do conselho de administração e da comissão executiva dispõe de voto de qualidade.\n\n8 - No caso de um membro do conselho de administração ou da comissão executiva, caso esta exista, faltar duas vezes seguidas ou quatro interpoladas em cada período de um ano, contado a partir da sua designação, sem que a justificação tenha sido aceite pelo conselho de administração, pode este órgão declarar a sua falta definitiva para todos os efeitos legais."
+  },
+  "952062623": {
+   "fragment_id": "953229684",
+   "type": 11,
+   "heading": "Artigo 11.º — Actas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Actas\n\n1 - Nas actas do conselho de administração e da comissão executiva, caso esta exista, mencionam-se, sumariamente, mas com clareza, todas as deliberações tomadas nas respectivas reuniões, bem como os votos de vencido.\n\n2 - As actas, registadas em livros próprios, são assinadas por todos os membros que participem na reunião.\n\n3 - Os participantes na reunião podem ditar para a acta a súmula das suas intervenções."
+  },
+  "952062624": {
+   "fragment_id": "953229685",
+   "type": 11,
+   "heading": "Artigo 12.º — Vinculação do ML, E. P. E.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Vinculação do ML, E. P. E.\n\n1 - O ML, E. P. E., obriga-se:\n\na) Pela assinatura conjunta de dois membros executivos do conselho de administração, sendo um deles o presidente ou o membro executivo do conselho de administração que o substitui;\n\nb) Pela assinatura de um membro executivo do conselho de administração que tenha recebido poderes delegados;\n\nc) Pela assinatura de mandatários, no âmbito dos poderes que lhe hajam sido conferidos.\n\n2 - Em assuntos de mero expediente, é suficiente a assinatura de um membro executivo do conselho de administração.\n\n3 - Tratando-se de títulos representativos de obrigações da empresa, de outros direitos de crédito sobre o ML, E. P. E., e de outros documentos emitidos em grande número, as assinaturas podem ser de chancela."
+  },
+  "952062625": {
+   "fragment_id": "953229686",
+   "type": 11,
+   "heading": "Artigo 13.º — Dos órgãos de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Dos órgãos de fiscalização\n\n1 - A fiscalização é exercida por um conselho fiscal e por um revisor oficial de contas ou por uma sociedade de revisores oficiais de contas que não seja membro daquele órgão.\n\n2 - O conselho fiscal é constituído por três membros efectivos e por um suplente, sendo um deles o presidente do órgão.\n\n3 - Os membros do conselho fiscal são nomeados por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, por um período de três anos, renovável até ao máximo de três vezes.\n\n4 - O revisor oficial de contas é nomeado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, tendo o mandato a duração de três anos, renovável por uma única vez.\n\n5 - Decorrido o período mínimo de dois anos sobre o termo do prazo da renovação, pode voltar a ser designado o mesmo revisor oficial de contas.\n\n6 - As reuniões do conselho fiscal são convocadas pelo respectivo presidente, por sua iniciativa ou a requerimento de qualquer dos seus membros, aplicando-se ainda o disposto no n.º 3 do artigo 4.º dos presentes Estatutos.\n\n7 - O presidente do conselho fiscal dispõe de voto de qualidade.\n\n8 - A remuneração dos membros do conselho fiscal é fixada nos mesmos termos do disposto no n.º 2 do artigo 6.º dos presentes Estatutos."
+  },
+  "952062626": {
+   "fragment_id": "953229687",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência dos órgãos de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência dos órgãos de fiscalização\n\n1 - Os órgãos de fiscalização são responsáveis pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do ML, E. P. E.\n\n2 - Compete ao conselho fiscal, sem prejuízo das demais competências que lhe são atribuídas por lei:\n\na) Fiscalizar a gestão e o cumprimento das normas reguladoras da actividade do ML, E. P. E., tendo em vista, nomeadamente, a realização dos objectivos fixados nos orçamentos anuais;\n\nb) Emitir parecer sobre os documentos de prestação de contas do ML, E. P. E., designadamente de resultados, da conta de exploração e dos restantes elementos a apresentar anualmente pelo conselho de administração, bem como sobre os planos anual e plurianual de actividades, na perspectiva da sua cobertura orçamental;\n\nc) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;\n\nd) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;\n\ne) Dar parecer sobre a subscrição de participações sociais em sociedades ou sobre as alterações de capital nas sociedades participadas do ML, E. P. E.;\n\nf) Pronunciar-se sobre qualquer assunto de interesse para o ML, E. P. E., que seja submetido à sua apreciação pelo conselho de administração;\n\ng) Propor aos membros do Governo responsáveis pelas áreas das finanças e dos transportes a nomeação do revisor oficial de contas.\n\n3 - Compete ao revisor oficial de contas o dever de proceder a todos os exames e verificações necessários à revisão e certificação legais de contas, bem como exercer as seguintes funções:\n\na) Verificar da regularidade dos livros, registos contabilísticos e documentos que lhe sirvam de suporte;\n\nb) Verificar, quando o julgue conveniente e pela forma que entenda adequada, a extensão da caixa e as existências de qualquer espécie de bens ou valores pertencentes ao ML, E. P. E., ou pela empresa recebidos em garantia, depósito ou outro título;\n\nc) Verificar a exactidão dos documentos de prestação de contas;\n\nd) Verificar se as políticas contabilísticas e os critérios valométricos adoptados pelo ML, E. P. E., conduzem a uma correcta avaliação do património e dos resultados;\n\ne) Participar nas reuniões do conselho fiscal, quando convocado pelo seu presidente.\n\n4 - Compete ainda aos membros dos órgãos de fiscalização:\n\na) Participar nas reuniões do conselho de administração para que o presidente do mesmo os convoque ou em que se apreciem as contas de exercício;\n\nb) Participar nas reuniões da comissão executiva, caso exista, onde se apreciem as contas de exercício;\n\nc) Registar por escrito todas as verificações, fiscalizações, denúncias recebidas e diligências que tenham sido efectuadas, e o resultado das mesmas;\n\nd) Participar aos órgãos competentes do ML, E. P. E., os factos de que tenham conhecimento, reveladores de dificuldades na prossecução do objecto social.\n\n5 - O conselho fiscal e o revisor oficial de contas devem enviar, trimestralmente, aos membros do Governo responsáveis pelas áreas das finanças e dos transportes, um relatório sucinto em que refira os controlos efectuados e as anomalias detectadas, assim como os desvios verificados em relação aos orçamentos e respectivas causas."
+  },
+  "952062627": {
+   "fragment_id": "953229688",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conselho consultivo\n\n1 - O conselho consultivo é composto por:\n\na) Dois representantes nomeados pelos membros do Governo responsáveis pelas áreas das finanças e dos transportes;\n\nb) Um representante indicado pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P.;\n\nc) Um representante indicado pela Área Metropolitana de Lisboa;\n\nd) Um representante indicado pela Autoridade Metropolitana de Transportes de Lisboa;\n\ne) Um representante indicado por cada uma das câmaras municipais onde se situe a rede de transporte público do ML, E. P. E.;\n\nf) Um representante eleito pelos trabalhadores do ML, E. P. E.;\n\ng) O provedor do Metropolitano de Lisboa;\n\nh) Um representante do Laboratório Nacional de Engenharia Civil, I. P.;\n\ni) Um representante da Autoridade Nacional de Protecção Civil.\n\n2 - O conselho consultivo é presidido pelo representante dos membros do Governo responsáveis pelas áreas das finanças e dos transportes que para tal seja designado, no respectivo despacho conjunto de nomeação.\n\n3 - O mandato dos membros do conselho consultivo é de três anos.\n\n4 - O conselho consultivo reúne pelo menos duas vezes por ano e as suas deliberações são tomadas por maioria simples, tendo o presidente voto de qualidade.\n\n5 - As reuniões são convocadas pelo presidente com a antecedência mínima de cinco dias, devendo a convocatória indicar a data, hora e local em que se realiza a reunião, bem como a respectiva ordem de trabalhos.\n\n6 - Devem ser lavradas actas de todas as reuniões, assinadas por todos os membros do conselho consultivo presentes.\n\n7 - O exercício do cargo de membro do conselho consultivo não é remunerado, sem prejuízo do pagamento de ajudas de custo, se forem devidas, as quais são suportadas pelas entidades públicas que designaram os seus representantes e, nos restantes casos, pelo ML, E. P. E."
+  },
+  "952062628": {
+   "fragment_id": "953229689",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências do conselho consultivo\n\nAo conselho consultivo compete:\n\na) Apreciar os planos de actividade de natureza anual e plurianual;\n\nb) Apreciar o relatório de actividades;\n\nc) Pronunciar-se sobre a expansão das linhas de metropolitano existentes;\n\nd) Pronunciar-se sobre a instalação e a exploração de novas linhas de metropolitano;\n\ne) Emitir recomendações tendo em vista a melhoria da prestação do serviço público de transporte por metropolitano;\n\nf) Pronunciar-se sobre outros assuntos, relacionados com a actividade do ML, E. P. E., que lhe sejam submetidos pelo presidente, pela maioria dos seus membros, ou cuja apreciação seja solicitada pelo conselho de administração."
+  },
+  "952062629": {
+   "fragment_id": "953229690",
+   "type": 1,
+   "heading": "Capítulo III — Intervenção do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Intervenção do Governo"
+  },
+  "952062630": {
+   "fragment_id": "953229691",
+   "type": 11,
+   "heading": "Artigo 17.º — Finalidade e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Finalidade e âmbito\n\n1 - Os objectivos a prosseguir pelo ML, E. P. E., são definidos através de despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, nos termos do disposto no Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e pelo Decreto-Lei n.º 64-A/2008, de 31 de Dezembro.\n\n2 - O Governo acompanha a evolução futura da situação do ML, E. P. E., de forma a salvaguardar o seu equilíbrio económico-financeiro, bem como o serviço das dívidas constituídas para a construção, instalação e renovação da infra-estrutura ferroviária de metropolitano, em termos que não importem prejuízo para a prossecução das adequadas políticas de desenvolvimento da rede de transporte público."
+  },
+  "952062631": {
+   "fragment_id": "953229692",
+   "type": 11,
+   "heading": "Artigo 18.º — Tutela económica e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Tutela económica e financeira\n\nA tutela económica e financeira do ML, E. P. E., é exercida pelos membros do Governo responsáveis pelas áreas das finanças e dos transportes e compreende:\n\na) A definição das orientações gerais e específicas a prosseguir pelo ML, E. P. E., designadamente, para efeitos de preparação dos planos de investimentos, financiamentos e dos orçamentos, nos termos da lei;\n\nb) O poder de exigir os documentos e informações julgados úteis para o acompanhamento da situação do ML, E. P. E., e da sua actividade;\n\nc) O poder de determinar inspecções ou inquéritos ao funcionamento da empresa ou a certos aspectos deste, independentemente da existência de indícios de prática de irregularidades;\n\nd) O poder de aprovar ou autorizar:\n\ni) Os planos anuais de exploração e de investimento e respectivos planos de financiamento;\n\nii) Os orçamentos anuais de exploração, de investimento e financeiros, bem como as respectivas actualizações que impliquem redução de resultados previsionais, acréscimo de despesas de investimento ou de necessidades de financiamento;\n\niii) Os documentos relativos à prestação de contas, aplicação de resultados e utilização de reservas;\n\niv) As dotações para capital e outras verbas a conceder pelo Orçamento do Estado e fundos autónomos;\n\nv) A homologação de tarifas e preços, a praticar na exploração da actividade do ML, E. P. E., nos termos de legislação especial;\n\nvi) Os contratos-programa e os contratos de gestão;\n\nvii) A contracção de empréstimos ou assunção de responsabilidades de natureza similar fora do balanço, de valor individual ou acumulado, superior a 30 % do capital estatutário, que não estejam previstos nos respectivos orçamento ou plano de investimentos e financiamentos aprovados;\n\nviii) A aquisição e venda de bens imóveis, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados;\n\nix) A constituição de sociedades ou a aquisição ou alienação de partes de capital;\n\nx) Os demais actos que, nos termos da legislação aplicável, necessitam de autorização tutelar."
+  },
+  "952062632": {
+   "fragment_id": "953229693",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Gestão patrimonial e financeira"
+  },
+  "952062633": {
+   "fragment_id": "953229694",
+   "type": 11,
+   "heading": "Artigo 19.º — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Princípios de gestão\n\n1 - Na gestão financeira e patrimonial, o ML, E. P. E., aplica as regras legais, os princípios orientadores referidos no artigo 20.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e pelo Decreto-Lei n.º 64-A/2008, de 31 de Dezembro, o disposto nos presentes Estatutos e os princípios de boa gestão empresarial.\n\n2 - A gestão do ML, E. P. E., deve realizar-se de forma a assegurar a sua viabilidade económica e o seu equilíbrio financeiro, com respeito pelos condicionalismos previstos na lei, ou decorrentes da imposição de obrigações de serviço público."
+  },
+  "952062634": {
+   "fragment_id": "953229695",
+   "type": 11,
+   "heading": "Artigo 20.º — Património e bens dominiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Património e bens dominiais\n\n1 - O património do ML, E. P. E., é constituído pela universalidade dos direitos e bens adquiridos para, ou, no exercício da sua actividade, podendo administrá-lo e dele dispor livremente, sem sujeição às normas relativas ao domínio privado do Estado.\n\n2 - O ML, E. P. E., administra os bens do domínio público afectos às suas actividades, devendo manter actualizado o respectivo cadastro.\n\n3 - A promoção, pelo ML, E. P. E., da expropriação de imóveis e de direitos, indispensáveis à construção, à conservação e à exploração da rede de metropolitano, é feita em nome e por conta do Estado.\n\n4 - O valor dos bens patrimoniais adquiridos pelo ML, E. P. E., a título oneroso, e que sejam afectados ao domínio público, bem como o valor das benfeitorias realizadas pelo ML, E. P. E., em bens do domínio público, que lhe estejam afectos ou por ele sejam administrados, deve ser reposto caso o ML, E. P. E., seja privado da sua administração ou exploração."
+  },
+  "952062635": {
+   "fragment_id": "953229696",
+   "type": 11,
+   "heading": "Artigo 21.º — Capital estatutário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Capital estatutário\n\n1 - O capital estatutário do ML, E. P. E., é de (euro) 603 750 000, parcialmente realizado no montante de (euro) 573 629 602,66, detido integralmente pelo Estado e destina-se a responder às necessidades permanentes da empresa.\n\n2 - O capital estatutário do ML, E. P. E., é aumentado ou reduzido, mediante despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e dos transportes."
+  },
+  "952062636": {
+   "fragment_id": "953229697",
+   "type": 11,
+   "heading": "Artigo 22.º — Reavaliação do activo imobilizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reavaliação do activo imobilizado\n\nO ML, E. P. E., procede periodicamente à reavaliação do activo imobilizado, próprio ou do domínio público, com o objectivo de obter uma mais correcta correspondência entre os seus valores a custos de substituição e os contabilísticos, nos termos da lei."
+  },
+  "952062637": {
+   "fragment_id": "953229698",
+   "type": 11,
+   "heading": "Artigo 23.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Receitas\n\nConstituem receitas do ML, E. P. E:\n\na) As resultantes da cobrança das tarifas e preços, a praticar na exploração da actividade do ML, E. P. E.;\n\nb) As provenientes de outras actividades do ML, E. P. E.;\n\nc) Os rendimentos de bens próprios;\n\nd) O produto da alienação de bens próprios e da constituição de direitos sobre eles;\n\ne) O produto de doações, heranças ou legados que lhe sejam destinados;\n\nf) As comparticipações, dotações, subsídios e compensações financeiras do Estado ou de outras entidades públicas a atribuir, em razão da assunção de obrigações de serviço público;\n\ng) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, devam pertencer-lhe."
+  },
+  "952062638": {
+   "fragment_id": "953229699",
+   "type": 11,
+   "heading": "Artigo 24.º — Financiamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Financiamentos\n\nSem prejuízo dos poderes tutelares a que está sujeito, o ML, E. P. E., pode contrair financiamentos, internos ou externos, a curto, médio ou longo prazos, em moeda nacional ou estrangeira, bem como emitir obrigações ou outros títulos representativos de direitos de créditos sobre o ML, E. P. E., em qualquer modalidade e forma legalmente admissíveis."
+  },
+  "952062639": {
+   "fragment_id": "953229700",
+   "type": 11,
+   "heading": "Artigo 25.º — Reservas e fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Reservas e fundos\n\n1 - O ML, E. P. E., deve fazer as reservas julgadas necessárias, sendo obrigatória a constituição de:\n\na) Reserva legal;\n\nb) Reserva para investimentos;\n\nc) Fundo para fins sociais.\n\n2 - Integram a reserva para investimentos as receitas provenientes de comparticipações, dotações, subsídios, subvenções ou quaisquer outras compensações financeiras de que o ML, E. P. E., seja beneficiário, destinados a financiar bens do domínio público.\n\n3 - Integram o fundo para fins sociais a parte dos resultados apurados em cada exercício que lhe seja anualmente destinada."
+  },
+  "952062640": {
+   "fragment_id": "953229701",
+   "type": 11,
+   "heading": "Artigo 26.º — Contabilidade e prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Contabilidade e prestação de contas\n\n1 - A contabilidade do ML, E. P. E., não estando sujeita às normas da contabilidade pública, deve responder às necessidades de gestão empresarial corrente e permitir um controlo orçamental permanente, bem como a fácil verificação da correspondência entre os valores patrimoniais e contabilísticos.\n\n2 - O ML, E. P. E., deve elaborar, com referência a 31 de Dezembro de cada ano, os documentos definidos na lei.\n\n3 - O balanço anual é organizado de forma a separar os bens dominiais e os bens patrimoniais, tendo em vista a identificação dos seus regimes e correspondentes responsabilidades."
+  },
+  "952062641": {
+   "fragment_id": "953229702",
+   "type": 1,
+   "heading": "Capítulo V — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Pessoal"
+  },
+  "952062642": {
+   "fragment_id": "953229703",
+   "type": 11,
+   "heading": "Artigo 27.º — Estatuto do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Estatuto do pessoal\n\n1 - Os trabalhadores do ML, E. P. E., estão sujeitos ao regime jurídico do contrato individual de trabalho.\n\n2 - A matéria relativa à contratação colectiva rege-se pela lei geral."
+  },
+  "952062643": {
+   "fragment_id": "953229704",
+   "type": 1,
+   "heading": "Capítulo VI — Agrupamento, fusão, cisão e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Agrupamento, fusão, cisão e liquidação"
+  },
+  "952062644": {
+   "fragment_id": "953229705",
+   "type": 11,
+   "heading": "Artigo 28.º — Fusão, cisão e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Fusão, cisão e liquidação\n\nA fusão, cisão ou liquidação do ML, E. P. E., rege-se pelo disposto no Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e pelo Decreto-Lei n.º 64-A/2008, de 31 de Dezembro."
+  },
+  "952062645": {
+   "fragment_id": "953229706",
+   "type": 11,
+   "heading": "Artigo 29.º — Agrupamento de empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Agrupamento de empresas\n\nO ML, E. P. E., pode agrupar-se com outras sociedades de tipo empresarial e estabelecer outras formas de cooperação, mediante autorização dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, nos termos do disposto no artigo 37.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e pelo Decreto-Lei n.º 64-A/2008, de 31 de Dezembro."
+  },
+  "952062646": {
+   "fragment_id": "953229707",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "952062647": {
+   "fragment_id": "953229708",
+   "type": 11,
+   "heading": "Artigo 30.º — Participação em organizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Participação em organizações\n\nO ML, E. P. E., pode fazer parte de associações ou organismos nacionais ou internacionais, e desempenhar neles os cargos para que for eleito ou designado."
+  },
+  "952062648": {
+   "fragment_id": "953229709",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 8.º)\n\nA infra-estrutura ferroviária do ML, E. P. E., além do conjunto de actividades necessárias à sua concretização, nomeadamente a realização de projectos e estudos para o desenvolvimento da rede e a aquisição de terrenos, de propriedade pública e ao serviço do sistema de metropolitano, desde que partes integrantes das vias principais de serviço, com excepção dos situados no interior das oficinas de reparação do material e dos depósitos de parqueamento do material circulante, bem como a bilhética e o material circulante, compõe-se dos seguintes elementos:\n\na) Subsolo onde se encontram construídas as galerias;\n\nb) Galerias, estações e demais construções acessórias ou complementares;\n\nc) Obras de arte: pontes, viadutos e túneis;\n\nd) Via-férrea, incluindo plataforma de via e respectiva superstrutura;\n\ne) Redes de baixa e alta tensão;\n\nf) Equipamentos de ventilação, exaustão e bombagem;\n\ng) Equipamentos e instalações de sinalização, segurança, telecomando, telecomunicações e de controlo;\n\nh) Plataformas das gares, incluindo os respectivos acessos;\n\ni) Acessos de tipo mecânico."
+  },
+  "952062649": {
+   "fragment_id": "952948358",
+   "type": 11,
+   "heading": "Artigo 6.º — Contratualização do serviço público",
+   "in_force_from": "2014-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+   ],
+   "markdown": "###### Artigo 6.º — Contratualização do serviço público\n\n1 - Sem prejuízo da celebração de contratos de concessão com o Estado, directamente ou com outra entidade pública legalmente competente, nos termos do n.º 2 do artigo 19.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e pelo Decreto-Lei n.º 64-A/2008, de 31 de Dezembro, e da demais legislação aplicável, compete ao ML, E. P. E., exercer a actividade de prestação de serviços de transporte por metropolitano de passageiros na cidade de Lisboa e zonas limítrofes.\n\n2 - Os contratos referidos no número anterior identificam os serviços cuja gestão e exploração é atribuída ao ML, E. P. E., com sujeição a obrigações de serviço público, nos termos da legislação aplicável.\n\n3 - Das disposições contratuais relativas à prestação de serviços públicos, tal como referido no número anterior, devem constar, designadamente:\n\na) Os direitos e deveres das partes, incluindo obrigações de serviço público, bem como o preço, a compensação e direitos exclusivos;\n\nb) Os critérios de cálculo das compensações das obrigações de serviço público;\n\nc) Os requisitos de qualidade e níveis de desempenho;\n\nd) As sanções e penalidades aplicáveis em caso de incumprimento ou de cumprimento defeituoso do contrato ou de falhas de desempenho;\n\ne) O prazo de duração do contrato.\n\n4 - Até à celebração dos contratos referidos nos números anteriores, aplicam-se as disposições gerais relativas à concessão de subvenções públicas, previstas no Decreto-Lei n.º 167/2008, de 20 de Agosto.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+  },
+  "952062650": {
+   "fragment_id": "952948360",
+   "type": 11,
+   "heading": "Artigo 8.º — Infra-estruturas ferroviárias",
+   "in_force_from": "2014-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+   ],
+   "markdown": "###### Artigo 8.º — Infra-estruturas ferroviárias\n\n1 - Na construção, instalação e renovação das infra-estruturas ferroviárias afectas ao ML, E. P. E., são observadas as regras gerais sobre o regime financeiro a que estão sujeitas as infra-estruturas de longa duração (ILD).\n\n2 - Para os efeitos do disposto no número anterior, entende-se por «infra-estrutura ferroviária» o conjunto das infra-estruturas elencadas no anexo ii ao presente decreto-lei, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+  },
+  "952062651": {
+   "fragment_id": "952948361",
+   "type": 11,
+   "heading": "Artigo 9.º — Poderes de autoridade",
+   "in_force_from": "2014-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+   ],
+   "markdown": "###### Artigo 9.º — Poderes de autoridade\n\nSem prejuízo das competências atribuídas por lei a outras entidades, para a prossecução e desenvolvimento do serviço público que lhe está atribuído, o ML, E. P. E., detém os poderes, as prerrogativas e as obrigações, conferidos ao Estado pelas disposições legais e regulamentares aplicáveis, no que respeita:\n\na) À utilização e à gestão das infra-estruturas afectas ao serviço público;\n\nb) Aos processos de expropriação, nos termos do regime jurídico do sector empresarial do Estado e do Código das Expropriações;\n\nc) À ocupação de terrenos, implantação de traçados, constituição de servidões administrativas ou poderes relativos a medidas restritivas de utilização de solos;\n\nd) À protecção das instalações afectas ao serviço público;\n\ne) À definição dos direitos e deveres dos utentes, constantes de regulamento de exploração, aprovado pelo conselho de administração;\n\nf) À fiscalização dos títulos de transporte e à aplicação das respectivas sanções, nos termos da lei.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+  },
+  "952062652": {
+   "fragment_id": "952948362",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas parciais",
+   "in_force_from": "2014-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+   ],
+   "markdown": "###### Artigo 10.º — Medidas parciais\n\n1 - As expropriações, servidões ou afectações dominiais podem incidir sobre parte do prédio ou sobre parte do subsolo do prédio, sempre que apenas essa parte seja necessária para a prossecução e desenvolvimento do serviço público.\n\n2 - O disposto no número anterior não prejudica o direito do particular, afectado pela expropriação, requerer que a mesma incida sobre a totalidade do prédio, nos termos definidos no Código das Expropriações para a expropriação parcial.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+  },
+  "952062653": {
+   "fragment_id": "952948363",
+   "type": 11,
+   "heading": "Artigo 11.º — Articulação com outras entidades",
+   "in_force_from": "2014-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+   ],
+   "markdown": "###### Artigo 11.º — Articulação com outras entidades\n\nO ML, E. P. E., deve promover a informação e a colaboração permanentes, nomeadamente, quanto ao desenvolvimento das linhas de metropolitano, execução de obras e ocupação temporária do espaço público, à requalificação do espaço urbano e da rede viária, bem como à manutenção e conservação das infra-estruturas de transporte público de uso partilhado, com outras entidades públicas com competências naquelas matérias ou em cuja área de influência geográfica se situam as linhas de transporte público de metropolitano.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+  },
+  "952062654": {
+   "fragment_id": "952948364",
+   "type": 11,
+   "heading": "Artigo 12.º — Pareceres e autorizações",
+   "in_force_from": "2014-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+   ],
+   "markdown": "###### Artigo 12.º — Pareceres e autorizações\n\n1 - A instalação e exploração de novas linhas de metropolitano e o encerramento ou abertura de novas estações são objecto de parecer prévio dos municípios da área em que se realizem, bem como da Autoridade Metropolitana de Transportes de Lisboa, sempre que seja considerado necessário ou conveniente.\n\n2 - As obras que se realizem nas vias públicas dependem de prévia autorização do município da área em que se situem.\n\n3 - A apreciação de operações urbanísticas, incluindo escavações, e de obras de reconstrução ou ampliação de edifícios ou de outras construções, bem como a alteração da configuração geral de terrenos, carece de parecer prévio do ML, E. P. E., a solicitar pelo município da área em que se realizem, sempre que localizadas a menos de 25 m, em projecção horizontal e vertical do plano exterior das infra-estruturas do ML, E. P. E.\n\n4 - Sempre que se verifiquem efectivas interferências com as infra-estruturas de metropolitano, os projectos a submeter a apreciação do ML, E. P. E., devem ser instruídos com os seguintes elementos e informações complementares:\n\na) Descrição das implicações com a infra-estrutura do metropolitano e sua justificação;\n\nb) Estudo de interacção da obra com as infra-estruturas do metropolitano;\n\nc) Plano de instrumentação para controlo da obra.\n\n5 - As operações urbanísticas relativas a equipamentos e a infra-estruturas necessárias para a prossecução e desenvolvimento do serviço público de transporte efectuado pelo ML, E. P. E., são efectuadas em nome e por conta do Estado.\n\n6 - Os pareceres referidos no n.º 1 e a autorização municipal a que se reporta o n.º 2 do presente artigo consideram-se favoráveis se não for comunicada a respectiva deliberação no prazo de 30 dias a contar da data da recepção do correspondente pedido.\n\n7 - O ML, E. P. E., deve emitir o parecer a que se reporta o n.º 3 no prazo de 30 dias, após o recebimento de todos os elementos e informações necessárias para a apreciação do projecto.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 175/2014 - Diário da República n.º 236/2014, Série I de 2014-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2014-61725766), em vigor a partir de 2014-12-06"
+  },
+  "952062609": {
+   "fragment_id": "952948370",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.\n\nPromulgado em 24 de Junho de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de Junho de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "953230178": {
+   "fragment_id": "953229677",
+   "type": 11,
+   "heading": "Artigo 4.º — Conselho de administração",
+   "in_force_from": "2025-11-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2025 - Diário da República n.º 228/2025, Série I de 2025-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2025-952096394), em vigor a partir de 2025-11-26"
+   ],
+   "markdown": "###### Artigo 4.º — Conselho de administração\n\n1 - O conselho de administração é composto por um presidente, um vice-presidente e três vogais, nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.\n\n2 - Por deliberação do conselho de administração, podem ser indicados três membros executivos do conselho de administração para integrarem uma comissão executiva, a qual é presidida pelo presidente do conselho de administração, sendo os restantes membros do conselho de administração não executivos.\n\n3 - Nas suas faltas ou impedimentos, o presidente do conselho de administração é substituído pelo vice-presidente, ou, nas faltas ou impedimentos deste, pelo vogal indicado, para esse efeito.\n\n4 - Caso exista comissão executiva, esta fica responsável pela gestão corrente do ML, E. P. E.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2025 - Diário da República n.º 228/2025, Série I de 2025-11-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2025-952096394), em vigor a partir de 2025-11-26"
+  },
+  "1127394575": {
+   "fragment_id": "952948354",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e regime aplicável",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2026-1126675657), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 2.º — Natureza e regime aplicável\n\n1 - O ML, E. P. E., é uma entidade pública empresarial com personalidade jurídica, dotada de autonomia administrativa e financeira e de património próprio.\n\n2 - O ML, E. P. E., rege-se pelo disposto no presente decreto-lei e nos seus Estatutos, pelos regulamentos internos, pelo disposto no regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, alterado pelas Leis n.os 75-A/2014, de 30 de setembro, 42/2016, de 28 de dezembro, e pelo Decreto-Lei n.º 124/2025, de 25 de novembro, bem como pelas normas legais que lhe sejam especialmente aplicáveis.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2026-1126675657), em vigor a partir de 2026-06-01."
+  },
+  "1127398375": {
+   "fragment_id": "952948374",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2026-1126675657), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - Constitui objeto do ML, E. P. E., a exploração, em exclusividade e regime de serviço público, do transporte coletivo de passageiros fundado no aproveitamento do subsolo do município de Lisboa e dos demais municípios da Área Metropolitana de Lisboa, bem como das expansões desse sistema que, pelas suas características próprias, sejam ou venham a ser realizadas através de sistemas de transporte coletivo em sítio próprio de elevada capacidade, designadamente na modalidade de metro ligeiro de superfície.\n\n2 - Incluem-se, ainda, no objecto do ML, E. P. E., as seguintes actividades:\n\na) Assegurar, por delegação do Estado, a construção, a instalação, a renovação, a manutenção e a gestão das infra-estruturas ferroviárias que lhe estão afectas, incluindo a gestão da capacidade da infra-estrutura e a gestão dos respectivos sistemas de regulação e segurança;\n\nb) Assegurar a conservação e exploração de passagens subterrâneas ou à superfície, ou outras instalações que se encontram em correspondência directa com o seu sistema de transporte;\n\nc) Explorar directamente, em colaboração ou através de terceiros, quaisquer espaços comerciais no interior das suas instalações, designadamente estabelecimentos comerciais, salas de exposições, máquinas automáticas de venda de produtos e de prestação de serviços, bem como todas as formas de publicidade nas instalações fixas sob a sua gestão ou no material circulante;\n\nd) Agrupar-se, nos termos da lei, com outras empresas públicas ou sociedades concessionários de serviço de interesse público, participar em sociedades de qualquer natureza, em associações, agrupamentos complementares de empresas, agrupamentos europeus de interesse económico, ou outras formas de colaboração com terceiros, desde que associadas ao seu objecto ou em actividades que dele decorram;\n\ne) Assegurar a participação em associações ou organismos nacionais e internacionais, que prossigam fins semelhantes, relacionados ou complementares das actividades desenvolvidas pelo ML, E. P. E.;\n\nf) Assegurar a representação do Estado, a solicitação dos membros do Governo da tutela, junto de associações ou organismos internacionais.\n\n3 - O ML, E. P. E., pode, nos termos da lei, exercer directamente, ou em colaboração com terceiros, outras actividades complementares ou subsidiárias da exploração, bem como outros ramos de actividade comercial ou industrial, incluindo a prestação de serviços que não prejudiquem a prossecução do seu objecto principal e que tenham em vista a melhor realização dos fins sociais e a melhor utilização dos recursos disponíveis.\n\n4 - O ML, E. P. E., pode ainda desenvolver o transporte coletivo parcialmente à superfície, em trincheira, ao nível do solo ou em viaduto no município de Lisboa e nos demais municípios da Área Metropolitana de Lisboa ou quando razões de ordem técnico-económica o justifiquem.\n\n5 - O ML, E. P. E., pode explorar novas modalidades de transporte público de passageiros, desde que as suas características próprias o justifiquem, quer pela identidade tecnológica, quer por contribuírem para a optimização e a racionalização do sistema de transportes.\n\n6 - O ML, E. P. E., pode, por delegação do Estado, nos termos do disposto no artigo 5.º do Decreto-Lei n.º 106/2026, de 27 de maio, assegurar a construção, a instalação, a renovação, a manutenção e a gestão de infraestruturas ferroviárias, de sistemas de transporte coletivo em sítio próprio de elevada capacidade, bem como do respetivo material circulante, que não estejam, nem venham a estar, afetas à sua atividade.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2026 - Diário da República n.º 102/2026, Série I de 2026-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2026-1126675657), em vigor a partir de 2026-06-01."
+  }
+ }
+}

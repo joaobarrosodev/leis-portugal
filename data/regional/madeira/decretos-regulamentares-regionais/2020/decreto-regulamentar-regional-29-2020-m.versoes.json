@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:133054720:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2020-207485788",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/29-2020-133054720",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-05-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "207417128",
+    "207417129",
+    "207417130",
+    "207417131"
+   ]
+  }
+ ],
+ "fragments": {
+  "207417128": {
+   "fragment_id": "207485789",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 29/2020/M\n\nSumário: Primeira alteração ao Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro, que aprova a estrutura orgânica e funcionamento da Secretaria Regional de Saúde e Proteção Civil.\n\nAltera o Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro, que aprova a orgânica da Secretaria Regional de Saúde e Proteção Civil\n\nCom a constituição do XIII Governo da Região Autónoma da Madeira, e aprovação da respetiva organização e funcionamento através do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, e a consequente aprovação da orgânica da Secretaria Regional de Saúde e Proteção Civil, adiante designada por SRS, através do Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro, previu-se a reestruturação da orgânica e atribuições do Instituto de Administração da Saúde, IP-RAM (IASAÚDE, IP-RAM), em face da criação da Direção Regional da Saúde, nos termos da qual deixam de ser acometidas àquele Instituto as atribuições em matéria de planeamento, saúde pública e do exercício dos poderes de autoridade de saúde.\n\nTal reestruturação implicou a reformulação da composição do conselho diretivo daquele Instituto de forma a dotá-lo da estrutura organizativa adequada ao exercício das suas novas competências, passando a ser composto por um presidente, um vice-presidente e dois vogais, o que, por lapso, não foi vertido no n.º 3 do artigo 12.º e no anexo i da estrutura orgânica e funcionamento da Secretaria Regional de Saúde e Proteção Civil, aprovada em anexo ao Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro.\n\nNeste contexto, e por forma a espelhar a realidade existente ao nível dos cargos de direção superior do IASAÚDE, IP-RAM, importa proceder à alteração do Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro.\n\nAssim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, do n.º 1 do artigo 21.º e artigo 24.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro, e do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, objeto da Declaração de Retificação n.º 59/2019, publicada no Diário da República, 1.ª série, n.º 234, de 5 de dezembro de 2019, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "207417129": {
+   "fragment_id": "207485790",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma procede à primeira alteração ao Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro, que aprova em anexo a estrutura orgânica e funcionamento da Secretaria Regional de Saúde e Proteção Civil."
+  },
+  "207417130": {
+   "fragment_id": "207485791",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro\n\nÉ alterado o artigo 12.º e o anexo i da estrutura orgânica e funcionamento da Secretaria Regional de Saúde e Proteção Civil, aprovada em anexo ao Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro, que passam a ter a seguinte redação:\n\n«Artigo 12.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O IASAÚDE, IP-RAM é dirigido por um conselho diretivo composto por um presidente, um vice-presidente e dois vogais, equiparados para todos os efeitos legais ao cargo de diretor regional e de subdiretor regional, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau.\n\nANEXO I\n\n(a que se refere o n.º 1 do artigo 16.º)\n\nDotação de lugares dos dirigentes superiores dos organismos da administração direta e indireta\n\n(ver documento original)"
+  },
+  "207417131": {
+   "fragment_id": "207485792",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

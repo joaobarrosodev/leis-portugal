@@ -1,0 +1,308 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977D0527:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977D0527-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01977D0527-20070101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "08b8ee39af921111",
+    "c923d75d60b6fb14",
+    "2be20998594e6e48",
+    "ee0d719bb7475225",
+    "981661c360572ceb",
+    "e1003cc90e087cc8",
+    "9eaefe17306f7bdb",
+    "c179a86fe7e126a7",
+    "d18b3e9100a0e6df",
+    "73e6738b933f81de",
+    "9d5228b13a593aac",
+    "3246230cca0272d6",
+    "b17a15555837fbb0",
+    "6916a0c5c8b1fdea",
+    "0d827359ef4783e9",
+    "57a64d596dd7fec0",
+    "2963dfdce3706215",
+    "9059ed18436948ef",
+    "5ffff964fa90a32a",
+    "7d68f5f1d1e76bb3",
+    "702ce4ff5046f5eb",
+    "400650f661259c6e",
+    "71cb6d941675ea76",
+    "0305288c41746269",
+    "9f7af943dfa3178e",
+    "784651515e42c59e",
+    "f5b3f0c48a4ddd7f",
+    "b09f9938fe6808a5",
+    "a93c6021d70f4d9b",
+    "98a73e5de303051f",
+    "9253e8752b0af1bd",
+    "e882fa789fd61a26"
+   ]
+  }
+ ],
+ "fragments": {
+  "08b8ee39af921111": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho de 1977\n\nque estabelece a lista das vias navegáveis de carácter marítimo para efeitos da aplicação da Directiva 76/135/CEE do Conselho\n\n(77/527/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 76/135/CEE do Conselho, de 20 de Janeiro de 1976, relativa ao reconhecimento recíproco dos certificados de navegabilidade emitidos para as embarcações de navegação interior ([^1^](http://publications.europa.eu/resource/cellar/303cb125-336b-4e4e-a1ca-51f7b6ffabef.0017.03/DOC_1#E0001)), e nomeadamente o n.º 6 do seu artigo 3.º,\n\nTendo em conta as comunicações dos Estados-membros,\n\nConsiderando que incumbe à Comissão elaborar a lista das vias navegáveis de carácter marítimo, tendo em conta as indicações que lhe foram comunicadas pelos Estados-membros,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "c923d75d60b6fb14": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA lista das vias navegáveis de carácter marítimo, referida no n.º 6 do artigo 3.º, da Directiva 76/135/CEE, é fixada em conformidade com o anexo da presente decisão."
+  },
+  "2be20998594e6e48": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros são destinatários da presente decisão."
+  },
+  "ee0d719bb7475225": {
+   "fragment_id": "BILAG — ANHANG — ANNEX[►A1](http://publications.europa.eu/resource/celex/11985I) — ANEXO◄ — ANNEXE — ALLEGATO — BIJLAGE — ANEXO[►A3](http://publications.europa.eu/resource/celex/12003T) — PŘÍLOHA — LISA — PIELIKUMS — PRIEDAS — MELLÉKLET — ANNESS — ZAŁĄCZNIK — PRILOGA — PRÍLOHA◄ [►M1](http://publications.europa.eu/resource/celex/32006R1792) — ПРИЛОЖЕНИЕ — ANEXĂ◄",
+   "type": "divisao",
+   "heading": "BILAG — ANHANG — ANNEX[►A1](http://publications.europa.eu/resource/celex/11985I) — ANEXO◄ — ANNEXE — ALLEGATO — BIJLAGE — ANEXO[►A3](http://publications.europa.eu/resource/celex/12003T) — PŘÍLOHA — LISA — PIELIKUMS — PRIEDAS — MELLÉKLET — ANNESS — ZAŁĄCZNIK — PRILOGA — PRÍLOHA◄ [►M1](http://publications.europa.eu/resource/celex/32006R1792) — ПРИЛОЖЕНИЕ — ANEXĂ◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## BILAG — ANHANG — ANNEX[►A1](http://publications.europa.eu/resource/celex/11985I) — ANEXO◄ — ANNEXE — ALLEGATO — BIJLAGE — ANEXO[►A3](http://publications.europa.eu/resource/celex/12003T) — PŘÍLOHA — LISA — PIELIKUMS — PRIEDAS — MELLÉKLET — ANNESS — ZAŁĄCZNIK — PRILOGA — PRÍLOHA◄ [►M1](http://publications.europa.eu/resource/celex/32006R1792) — ПРИЛОЖЕНИЕ — ANEXĂ◄"
+  },
+  "981661c360572ceb": {
+   "fragment_id": "Fortegnelse over indre vandveje af maritim karakter i henhold til artikel 3, stk. 6, i direktiv 76/135/EØF",
+   "type": "divisao",
+   "heading": "Fortegnelse over indre vandveje af maritim karakter i henhold til artikel 3, stk. 6, i direktiv 76/135/EØF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Fortegnelse over indre vandveje af maritim karakter i henhold til artikel 3, stk. 6, i direktiv 76/135/EØF"
+  },
+  "e1003cc90e087cc8": {
+   "fragment_id": "Liste der Seeschiffahrtsstraßen gemäß Artikel 3 Absatz 6 der Richtlinie Nr. 76/135/EWG",
+   "type": "divisao",
+   "heading": "Liste der Seeschiffahrtsstraßen gemäß Artikel 3 Absatz 6 der Richtlinie Nr. 76/135/EWG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Liste der Seeschiffahrtsstraßen gemäß Artikel 3 Absatz 6 der Richtlinie Nr. 76/135/EWG"
+  },
+  "9eaefe17306f7bdb": {
+   "fragment_id": "List of maritime shipping lanes established under Article 3 (6) of Directive 76/135/EEC",
+   "type": "divisao",
+   "heading": "List of maritime shipping lanes established under Article 3 (6) of Directive 76/135/EEC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### List of maritime shipping lanes established under Article 3 (6) of Directive 76/135/EEC"
+  },
+  "c179a86fe7e126a7": {
+   "fragment_id": "Lista de vías navegables marítimas de conformidad con el apartado 6 del artículo 3 de la Directiva 76/135/CEE",
+   "type": "divisao",
+   "heading": "Lista de vías navegables marítimas de conformidad con el apartado 6 del artículo 3 de la Directiva 76/135/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de vías navegables marítimas de conformidad con el apartado 6 del artículo 3 de la Directiva 76/135/CEE"
+  },
+  "d18b3e9100a0e6df": {
+   "fragment_id": "Liste des voies navigables à caractère maritime au titre de l'article 3 paragraphe 6 de la directive 76/135/CEE",
+   "type": "divisao",
+   "heading": "Liste des voies navigables à caractère maritime au titre de l'article 3 paragraphe 6 de la directive 76/135/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Liste des voies navigables à caractère maritime au titre de l'article 3 paragraphe 6 de la directive 76/135/CEE"
+  },
+  "73e6738b933f81de": {
+   "fragment_id": "Lista delle vie navigabili a carattere marittimo stabilita ai sensi dell'articolo 3 paragrafo 6 della Direttiva 76/135/CEE",
+   "type": "divisao",
+   "heading": "Lista delle vie navigabili a carattere marittimo stabilita ai sensi dell'articolo 3 paragrafo 6 della Direttiva 76/135/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista delle vie navigabili a carattere marittimo stabilita ai sensi dell'articolo 3 paragrafo 6 della Direttiva 76/135/CEE"
+  },
+  "9d5228b13a593aac": {
+   "fragment_id": "Lijst van de waterwegen waar maritieme omstandigheden kunnen heersen, overeenkomstig artikel 3, lid 6, van Richtlijn 76/135/EEG",
+   "type": "divisao",
+   "heading": "Lijst van de waterwegen waar maritieme omstandigheden kunnen heersen, overeenkomstig artikel 3, lid 6, van Richtlijn 76/135/EEG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lijst van de waterwegen waar maritieme omstandigheden kunnen heersen, overeenkomstig artikel 3, lid 6, van Richtlijn 76/135/EEG"
+  },
+  "3246230cca0272d6": {
+   "fragment_id": "Lista das vias marítimas navegáveis nos termos do n.º 6 do artigo 3.º da Directiva 76/135/CEE",
+   "type": "divisao",
+   "heading": "Lista das vias marítimas navegáveis nos termos do n.º 6 do artigo 3.º da Directiva 76/135/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista das vias marítimas navegáveis nos termos do n.º 6 do artigo 3.º da Directiva 76/135/CEE"
+  },
+  "b17a15555837fbb0": {
+   "fragment_id": "Seznam námořních plavebních cest vyhotovený podle čl. 3 odst. 6 směrnice 76/135/EHS",
+   "type": "divisao",
+   "heading": "Seznam námořních plavebních cest vyhotovený podle čl. 3 odst. 6 směrnice 76/135/EHS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Seznam námořních plavebních cest vyhotovený podle čl. 3 odst. 6 směrnice 76/135/EHS"
+  },
+  "6916a0c5c8b1fdea": {
+   "fragment_id": "Direktiivi 76/135/EMÜ artikli 3 (6) alusel rajatud mereteede nimekiri",
+   "type": "divisao",
+   "heading": "Direktiivi 76/135/EMÜ artikli 3 (6) alusel rajatud mereteede nimekiri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Direktiivi 76/135/EMÜ artikli 3 (6) alusel rajatud mereteede nimekiri"
+  },
+  "0d827359ef4783e9": {
+   "fragment_id": "Jūras kuģošanas līniju saraksts, kas izveidots atbilstoši Direktīvas 76/135/EEK 3. panta 6. punkta nosacījumiem",
+   "type": "divisao",
+   "heading": "Jūras kuģošanas līniju saraksts, kas izveidots atbilstoši Direktīvas 76/135/EEK 3. panta 6. punkta nosacījumiem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Jūras kuģošanas līniju saraksts, kas izveidots atbilstoši Direktīvas 76/135/EEK 3. panta 6. punkta nosacījumiem"
+  },
+  "57a64d596dd7fec0": {
+   "fragment_id": "Jūrinių laivybos kelių sąrašas, sudarytas pagal Direktyvos 76/135/EEB 3 (6) straipsnį",
+   "type": "divisao",
+   "heading": "Jūrinių laivybos kelių sąrašas, sudarytas pagal Direktyvos 76/135/EEB 3 (6) straipsnį",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Jūrinių laivybos kelių sąrašas, sudarytas pagal Direktyvos 76/135/EEB 3 (6) straipsnį"
+  },
+  "2963dfdce3706215": {
+   "fragment_id": "Tengerhajózási útvonalak listája a 76/135/EGK irányelv 3 Cikk (6) bekezdése alapján",
+   "type": "divisao",
+   "heading": "Tengerhajózási útvonalak listája a 76/135/EGK irányelv 3 Cikk (6) bekezdése alapján",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tengerhajózási útvonalak listája a 76/135/EGK irányelv 3 Cikk (6) bekezdése alapján"
+  },
+  "9059ed18436948ef": {
+   "fragment_id": "Lista ta' mogħdijiet marittimi skond l-artiklu 3(6) tad-Direttiva 76/135/KEE",
+   "type": "divisao",
+   "heading": "Lista ta' mogħdijiet marittimi skond l-artiklu 3(6) tad-Direttiva 76/135/KEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista ta' mogħdijiet marittimi skond l-artiklu 3(6) tad-Direttiva 76/135/KEE"
+  },
+  "5ffff964fa90a32a": {
+   "fragment_id": "Lista morskich dróg żeglugowych dla potrzeb art. 3 (6) dyrektywy 76/135/EWG",
+   "type": "divisao",
+   "heading": "Lista morskich dróg żeglugowych dla potrzeb art. 3 (6) dyrektywy 76/135/EWG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista morskich dróg żeglugowych dla potrzeb art. 3 (6) dyrektywy 76/135/EWG"
+  },
+  "7d68f5f1d1e76bb3": {
+   "fragment_id": "Seznam plovnih poti pomorskega značaja, sestavljen na podlagi člena 3(6) Direktive 76/135/EGS",
+   "type": "divisao",
+   "heading": "Seznam plovnih poti pomorskega značaja, sestavljen na podlagi člena 3(6) Direktive 76/135/EGS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Seznam plovnih poti pomorskega značaja, sestavljen na podlagi člena 3(6) Direktive 76/135/EGS"
+  },
+  "702ce4ff5046f5eb": {
+   "fragment_id": "Zoznam námorných plavebných trás podľa článku 3 ods. 6 smernice 76/135/EHS",
+   "type": "divisao",
+   "heading": "Zoznam námorných plavebných trás podľa článku 3 ods. 6 smernice 76/135/EHS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Zoznam námorných plavebných trás podľa článku 3 ods. 6 smernice 76/135/EHS"
+  },
+  "400650f661259c6e": {
+   "fragment_id": "Списък на вътрешните водни пътища с излаз на море съгласно чл.3 (6) от Директива 76/135/EИО",
+   "type": "divisao",
+   "heading": "Списък на вътрешните водни пътища с излаз на море съгласно чл.3 (6) от Директива 76/135/EИО",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Списък на вътрешните водни пътища с излаз на море съгласно чл.3 (6) от Директива 76/135/EИО"
+  },
+  "71cb6d941675ea76": {
+   "fragment_id": "Lista căilor navigabile cu caracter maritim stabilită conform art 3 alin.(6) din Directiva 76/135/CEE",
+   "type": "divisao",
+   "heading": "Lista căilor navigabile cu caracter maritim stabilită conform art 3 alin.(6) din Directiva 76/135/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista căilor navigabile cu caracter maritim stabilită conform art 3 alin.(6) din Directiva 76/135/CEE"
+  },
+  "0305288c41746269": {
+   "fragment_id": "ROYAUME DE BELGIQUE",
+   "type": "divisao",
+   "heading": "ROYAUME DE BELGIQUE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ROYAUME DE BELGIQUE\n\n— Les canaux maritimes:\n\n— de Bruxelles au Rupel\n\n— de Gand à Terneuzen\n\n— de Bruges à Zeebrugge\n\n— l'Escaut maritime inférieur du sud d'Anvers à la frontière néerlandaise\n\n— l'Escaut maritime supérieur en amont du sud d'Anvers jusqu'à l'aval du pont de Tamise"
+  },
+  "9f7af943dfa3178e": {
+   "fragment_id": "BUNDESREPUBLIK DEUTSCHLAND",
+   "type": "divisao",
+   "heading": "BUNDESREPUBLIK DEUTSCHLAND",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BUNDESREPUBLIK DEUTSCHLAND\n\n— Ems von Delfzyl/Knock bis Umschlagplatz Mövensteert\n\n— Ems von Emden bis Delfzyl/Knock\n\n— Jade\n\n— Weser unterhalb von Brake\n\n— Elbe unterhalb des Hamburger Hafens\n\n— Meldorfer Bucht\n\n— Flensburger Förde\n\n— Eckernförder Bucht\n\n— Kieler Förde seewärts des Nord-Ostsee-Kanals\n\n— Ems von Papenburg bis Emden\n\n— Weser von der Eisenbahnbrücke in Bremen bis Brake\n\n— Leda\n\n— Hunte\n\n— Lesum\n\n— Este\n\n— Lühe\n\n— Schwinge\n\n— Freiburger Hafenpriel\n\n— Oste\n\n— Pinnau\n\n— Krückau\n\n— Stör\n\n— Eider\n\n— Nord-Ostsee-Kanal\n\n— Kieler Förde binnenwärts Einfahrt Nord-Ostsee-Kanal\n\n— Trave\n\n— Schlei"
+  },
+  "784651515e42c59e": {
+   "fragment_id": "REPUBLIQUE FRANÇAISE",
+   "type": "divisao",
+   "heading": "REPUBLIQUE FRANÇAISE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REPUBLIQUE FRANÇAISE\n\n— Seine: à l'aval du pont Jeanne d'Arc à Rouen\n\n— Garonne et Gironde: à l'aval du pont de pierre à Bordeaux\n\n— Rhône: à l'aval du pont Trinquetaille à Arles au-delà vers Marseille"
+  },
+  "f5b3f0c48a4ddd7f": {
+   "fragment_id": "KONINKRIJK DER NEDERLANDEN",
+   "type": "divisao",
+   "heading": "KONINKRIJK DER NEDERLANDEN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### KONINKRIJK DER NEDERLANDEN\n\n— Dollard\n\n— Eems\n\n— Waddenzee met inbegrip van de verbindingen naar de Noordzee\n\n— IJsselmeer met inbegrip van het Markermeer en het ijmeer, met uitzondering evenwel van de Gouwzee\n\n— Hollandsch Diep\n\n— Haringvliet en Vuile Gat met inbegrip van alle vaarwateren tussen Goeree-Overflakkee enerzijds en Voorne-Putten en de Hoekse Waard anderzijds\n\n— Hellegat\n\n— Volkerak\n\n— Kramer\n\n— Grevelingen en Brouwershavensche Gat met inbegrip van alle vaarwateren tussen Schouwen-Duiveland enerzijds en Goeree-Overflakkee anderzijds\n\n— Keten\n\n— Mastgat\n\n— Zijpe\n\n— Krabbekreek\n\n— Oosterschelde en Roompot met inbegrip van alle vaarwateren tussen Walcheren, Noord- en Zuid-Beveland enerzijds en Schouwen-Duiveland en Tholen anderzijds\n\n— Schelde\n\n— Westerschelde en zijn uitmonding naar zee met inbegrip van alle vaarwateren tussen Zeeuws-Vlaanderen enerzijds en Walcheren en Zuid-Beveland anderzijds."
+  },
+  "b09f9938fe6808a5": {
+   "fragment_id": "SUOMI",
+   "type": "divisao",
+   "heading": "SUOMI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SUOMI\n\n— Saimaan kanavaSaima kanal\n\n— Saimaan vesistöSaimens vattendrag"
+  },
+  "a93c6021d70f4d9b": {
+   "fragment_id": "SVERIGE",
+   "type": "divisao",
+   "heading": "SVERIGE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SVERIGE\n\n— Canal de Trollhätte e rio Göta\n\n— Lago Vänern\n\n— Lago Mälaren\n\n— Canal de Södertälje\n\n— Canal de Falsterbo\n\n— Canal de Soten."
+  },
+  "98a73e5de303051f": {
+   "fragment_id": "POLSKA",
+   "type": "divisao",
+   "heading": "POLSKA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POLSKA\n\n1) część Jeziora Nowowarpieńskiego i część Zalewu Szczecińskiego wraz ze Świną i Dziwną oraz Zalewem Kamieńskim, znajdująca się na wschód od granicy państwowej między Rzecząpospolitą Polską a Republiką Federalną Niemiec, oraz rzeka Odra pomiędzy Zalewem Szczecińskim a wodami portu Szczecin,\n\n2) część Zatoki Gdańskiej zamknięta linią podstawową biegnącą od punktu o współrzędnych 54° 37′ 36″ szerokości geograficznej północnej i 18° 49′ 18″ długości geograficznej wschodniej (na Mierzei Helskiej) do punktu o współrzędnych 54° 22″ 12″ szerokości geograficznej północnej i 19° 21′ 00″ długości geograficznej wschodniej (na Mierzei Wiślanej),\n\n3) część Zalewu Wiślanego, znajdująca się na południowy zachód od granicy państwowej między Rzecząpospolitą Polską a Federacją Rosyjską na tym Zalewie,\n\n4) wody portów określone od strony morza linią łączącą najdalej wysunięte w morze stałe urządzenia portowe, stanowiące integralną część systemu portowego."
+  },
+  "9253e8752b0af1bd": {
+   "fragment_id": "ROMÂNIA",
+   "type": "divisao",
+   "heading": "ROMÂNIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ROMÂNIA\n\nDunărea: de la Brăila (km 175) până la Marea Neagră pe Brațul Sulina.\n\n---"
+  },
+  "e882fa789fd61a26": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/303cb125-336b-4e4e-a1ca-51f7b6ffabef.0017.03/DOC_1#src.E0001)) JO n.º L 21 de 29. 1. 1976, p. 10."
+  }
+ }
+}

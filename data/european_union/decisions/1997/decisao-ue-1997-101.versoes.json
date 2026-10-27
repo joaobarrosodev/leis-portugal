@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997D0101:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997D0101-20080611",
+ "dre_path": null,
+ "source_lastmod": "2008-06-11",
+ "versions": [
+  {
+   "date": "1997-02-05",
+   "future": false,
+   "celex": "31997D0101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2c49e1409612c04c",
+    "7e3d05e904d4452d",
+    "4e72f25b31972e5d",
+    "7b9a89a23b1a87e4",
+    "c7c728a7d4d92fe4",
+    "fcd22b6021792cae",
+    "411a5e53e3b35c48",
+    "e8739f1a29c8e7ce",
+    "b5d2833ae0adb44f",
+    "8aa74c76d61fa0ca",
+    "f6c5e676895acda2",
+    "e86fd420b3f6f7cb",
+    "c897ce8458344044",
+    "a3bb9b55f1a44e51",
+    "c154c60879c86c87"
+   ]
+  }
+ ],
+ "fragments": {
+  "2c49e1409612c04c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**97/101/CE: Decisão do Conselho de 27 de Janeiro de 1997 que estabelece um intercâmbio recíproco de informações e de dados provenientes das redes e estações individuais que medem a poluição atmosférica nos Estados-membros** *Jornal Oficial nº L 035 de 05/02/1997 p. 0014 - 0022*\n\nDECISÃO DO CONSELHO de 27 de Janeiro de 1997 que estabelece um intercâmbio recíproco de informações e de dados provenientes das redes e estações individuais que medem a poluição atmosférica nos Estados-membros (97/101/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 1 do seu artigo 130ºS,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºC do Tratado (3),\n\n(1) Considerando que o quinto programa de acção da Comunidade Europeia em matéria de ambiente (4) prevê a pesquisa dos dados de base no domínio do ambiente e a melhoria da sua compatibilidade, comparabilidade e transparência;\n\n(2) Considerando os objectivos e atribuições da Agência Europeia do Ambiente definidos no Regulamento (CEE) nº 1210/90 do Conselho, de 7 de Maio de 1990, que institui a Agência Europeia do Ambiente e a rede europeia de informação e de observação do ambiente (5);\n\n(3) Considerando que é necessário estabelecer um procedimento de intercâmbio de informações sobre a qualidade do ar para a luta contra a poluição e os efeitos nocivos, com vista à melhoria da qualidade de vida e do ambiente em toda a Comunidade, por meio do acompanhamento das tendências a longo prazo e dos melhoramentos resultantes das disposições nacionais e comunitárias de luta contra a poluição atmosférica;\n\n(4) Considerando que se deverá evitar a duplicação das transferências de informação, designadamente da informação a transmitir à Agência Europeia do Ambiente e à Comissão;\n\n(5) Considerando que a experiência adquirida graças ao intercâmbio de informações instituído pela Decisão 75/441/CEE do Conselho, de 24 de Junho de 1975, que estabelece um procedimento comum de troca de informações entre as redes de vigilância e de controlo no que diz respeito aos dados relativos à poluição atmosférica por determinados compostos e partículas em suspensão (6), e pela Decisão 82/459/CEE do Conselho, de 24 de Junho de 1982, que estabelece uma troca recíproca de informações e dados provenientes das redes e estações isoladas que medem a poluição atmosférica nos Estados-membros (7), permite estabelecer um intercâmbio de informações mais completo e mais representativo, aumentando o número de poluentes considerados e incluindo redes e estações individuais de medição da poluição do ar ambiente;\n\n(6) Considerando que deverá ser estabelecida uma distinção entre a informação que deverá obrigatoriamente ser transmitida, em especial a que se relaciona com a Directiva 96/62/CE do Conselho, de 27 de Setembro de 1996, relativa à gestão e avaliação da qualidade do ar ambiente (8), a seguir designada «directiva relativa à qualidade do ar», e a informação que deverá ser apresentada quando disponível;\n\n(7) Considerando que as informações recolhidas devem ser suficientemente representativas para permitir a elaboração da cartografia dos níveis de poluição no conjunto do território comunitário;\n\n(8) Considerando que a utilização de critérios comuns para a validação e tratamento dos resultados de medição aumenta a compatibilidade e a comparabilidade dos dados transmitidos,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "7e3d05e904d4452d": {
+   "fragment_id": "Artigo 1º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Objectivos\n\n1. É instituído um intercâmbio recíproco de informações e de dados provenientes das redes e das estações individuais que medem a poluição atmosférica, a seguir denominado «intercâmbio recíproco». Este intercâmbio recíproco diz respeito:\n\n- às redes e estações, abrangendo as informações pormenorizadas que descrevem as redes e estações de acompanhamento da poluição do ar que operam nos Estados-membros,\n\n- às medidas da qualidade do ar obtidas pelas estações, abrangendo os dados calculados em conformidade com os pontos 3 e 4 do anexo I obtidos a partir da medição da poluição do ar efectuada por estações nos Estados-membros.\n\n2. A Comissão e os organismos nacionais referidos no artigo 6º serão responsáveis pela realização do intercâmbio recíproco. A fim de beneficiar da experiência adquirida pela Agência Europeia do Ambiente e no âmbito da sua esfera de competência, a Comissão recorrerá à Agência Europeia do Ambiente, nomeadamente para o funcionamento e a aplicação prática do sistema de informações."
+  },
+  "4e72f25b31972e5d": {
+   "fragment_id": "Artigo 2º — Poluentes abrangidos",
+   "type": "artigo",
+   "heading": "Artigo 2º — Poluentes abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Poluentes abrangidos\n\n1. O intercâmbio recíproco abrange os poluentes do ar referidos no anexo I da directiva relativa à qualidade do ar.\n\n2. No âmbito do intercâmbio recíproco, os Estados-membros prestarão igualmente informações sobre os poluentes do ar enumerados no ponto 2 do anexo I, desde que os dados pertinentes se encontrem à disposição dos organismos mencionados no artigo 6º e sejam sujeitos a medição contínua por parte dos Estados-membros."
+  },
+  "7b9a89a23b1a87e4": {
+   "fragment_id": "Artigo 3º — Estações abrangidas",
+   "type": "artigo",
+   "heading": "Artigo 3º — Estações abrangidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Estações abrangidas\n\nO intercâmbio recíproco, na acepção do artigo 1º, diz respeito às estações:\n\n- que são exploradas no âmbito da execução das directivas adoptadas em conformidade com o artigo 4º da directiva relativa à qualidade do ar,\n\n- que, sem estarem abrangidas pelas directivas referidas no primeiro travessão, sejam seleccionadas para o efeito entre as estações existentes ao nível nacional pelos Estados-membros com vista a calcular os níveis de poluição local para os poluentes enumerados no ponto 2 do anexo I e de poluição regional (dita «de fundo») para todos os poluentes enumerados no anexo I,\n\n- na medida do possível, que tenham participado no intercâmbio recíproco de informações estabelecido pela Decisão 82/459/CEE, desde que não se encontrem abrangidas pelo segundo travessão."
+  },
+  "c7c728a7d4d92fe4": {
+   "fragment_id": "Artigo 4º — Informações necessárias sobre as redes e estações",
+   "type": "artigo",
+   "heading": "Artigo 4º — Informações necessárias sobre as redes e estações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Informações necessárias sobre as redes e estações\n\n1. As informações a comunicar à Comissão abrangerão as características das estações de medição, o material de medição e os procedimentos operacionais seguidos nestas estações, bem como a estrutura e organização das redes a que pertencem. Estas informações serão transmitidas à Comissão, a menos que tenham sido fornecidas no âmbito da legislação existente sobre a qualidade do ar. As informações necessárias são apresentadas a título indicativo no anexo II. A Comissão especificará, nos termos do procedimento previsto no artigo 7º, as informações mínimas que os Estados-membros devem transmitir.\n\n2. No que respeita às estações referidas no primeiro travessão do artigo 3º, o intercâmbio recíproco terá lugar logo que a legislação referida no artigo 4º da directiva relativa à qualidade do ar entrar em vigor.\n\n3. O mais tardar seis meses após a entrada em vigor da presente decisão, a Comissão porá à disposição dos Estados-membros a base de dados existente com as informações na matéria já recolhidas pelos seus serviços, bem como os programas informáticos necessários à sua exploração e actualização. Os Estados-membros corrigirão, alterarão e/ou completarão estas informações. Os ficheiros informáticos actualizados serão enviados à Comissão no segundo ano que se segue à entrada em vigor da presente decisão, o mais tardar até 1 de Outubro.\n\nEstas informações serão acessíveis ao público através de um sistema de informação criado pela Agência Europeia do Ambiente, podendo também ser fornecidas, a pedido, pela Agência ou pelos Estados-membros.\n\n4. A Comissão especificará, nos termos do procedimento previsto no artigo 7º, as normas técnicas para a transferência de informações, tendo em conta o disposto no nº 2 do artigo 1º\n\n5. Após o primeiro envio de informações pelos Estados-membros, a Comissão incluirá na sua base de dados as informações transmitidas e elaborará todos os anos um relatório técnico sobre as informações recolhidas; a Comissão porá à disposição dos Estados-membros, o mais tardar até 1 de Julho, a base de dados «redes-estações» actualizada. Os Estados-membros corrigirão, alterarão e/ou completarão essas informações. Os ficheiros informáticos actualizados serão enviados à Comissão o mais tardar até 1 de Outubro."
+  },
+  "fcd22b6021792cae": {
+   "fragment_id": "Artigo 5º — Informações a fornecer sobre os dados obtidos pelas estações",
+   "type": "artigo",
+   "heading": "Artigo 5º — Informações a fornecer sobre os dados obtidos pelas estações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Informações a fornecer sobre os dados obtidos pelas estações\n\n1. Os resultados a fornecer à Comissão são os seguintes:\n\na) Os dados definidos nos pontos 3 e 4 do anexo I para as estações referidas no primeiro travessão do artigo 3º e seleccionadas segundo os critérios especificados nas directivas adoptadas em conformidade com o artigo 4º da directiva relativa à qualidade do ar; na escolha destas estações ter-se-á em conta as diferentes situações da qualidade do ar em cada Estado-membro;\n\nb) Pelo menos, os dados anuais definidos no ponto 4 do anexo I para todas as outras estações referidas no segundo travessão do artigo 3º;\n\nc) Os dados definidos nos pontos 3 e 4 do anexo I para todas as estações referidas no terceiro travessão do artigo 3º\n\nEstes dados serão transmitidos à Comissão, a menos que tenham sido fornecidos no âmbito da legislação existente sobre a qualidade do ar.\n\n2. Os Estados-membros são responsáveis pela validação dos dados transmitidos ou utilizados para o cálculo dos valores comunicados segundo as regras gerais referidas no anexo III. Todas as agregações de dados e os cálculos estatísticos efectuados pelos Estados-membros devem satisfazer critérios pelo menos tão rigorosos quanto os indicados no anexo IV.\n\n3. Os Estados-membros comunicarão os resultados do ano civil em questão o mais tardar até 1 de Outubro do ano seguinte; a primeira transferência dirá respeito ao ano civil de 1997.\n\n4. Na medida do possível, os Estados-membros enviarão à Comissão as informações recolhidas entre 1 de Outubro de 1989 e a data de entrada em vigor da presente decisão pelas estações que tomaram parte no intercâmbio recíproco de informações instituído pela Decisão 82/459/CEE.\n\n5. A Comissão especificará, nos termos do procedimento previsto no artigo 7º, as normas técnicas para as transferências de resultados, tendo em conta o disposto no nº 2 do artigo 1º\n\n6. A Comissão incluirá na sua base de dados os dados transmitidos e elaborará todos os anos um relatório técnico sobre as informações recolhidas; a Comissão porá à disposição dos Estados-membros a base de dados «resultados» actualizada.\n\nEstas informações serão acessíveis ao público através de um sistema de informação criado pela Agência Europeia do Ambiente, podendo também ser fornecidas, a pedido, pela Agência.\n\nEstas informações, quer sejam acessíveis, fornecidas ou incluídas no relatório, basear-se-ão apenas em dados validados.\n\n7. A Comissão deverá preparar um relatório geral destinado ao público, em que se resumam os dados recolhidos e exponham as tendências fundamentais da qualidade do ar na União Europeia.\n\n8. A Comissão zelará, de acordo com os Estados-membros, pela transferência para organismos internacionais de dados seleccionados necessários para os efeitos de vários programas internacionais."
+  },
+  "411a5e53e3b35c48": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nCada Estado-membro designará um ou mais organismos responsáveis pela aplicação e funcionamento do intercâmbio recíproco e do facto informará imediatamente a Comissão."
+  },
+  "e8739f1a29c8e7ce": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nA Comissão especificará, nos termos do procedimento previsto no artigo 12º da directiva relativa à qualidade do ar, sempre que necessário:\n\n- a elaboração e a actualização das normas para a transferência de dados e de informações,\n\n- a ligação com as actividades desenvolvidas pela Agência Europeia do Ambiente no domínio da poluição atmosférica,\n\n- a alteração dos pontos 2, 3 e 4 do anexo I e dos anexos II, III e IV,\n\n- a tomada em consideração no procedimento de intercâmbio recíproco de novos conceitos de técnicas de medição,\n\n- a extensão do procedimento a dados e a informações provenientes de países terceiros."
+  },
+  "b5d2833ae0adb44f": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nO mais tardar no final do período de cinco anos que se segue à entrada em vigor da presente decisão, a Comissão apresentará ao Conselho um relatório sobre a sua execução. Esse relatório será acompanhado pelas propostas de alteração da presente decisão que a Comissão considere adequadas."
+  },
+  "8aa74c76d61fa0ca": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nA presente decisão é aplicável a partir de 1 de Janeiro de 1997."
+  },
+  "f6c5e676895acda2": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 27 de Janeiro de 1997.\n\nPelo Conselho\n\nO Presidente\n\nG. ZALM\n\n(1) JO nº C 281 de 7. 10. 1994, p. 9.\n\n(2) JO nº C 110 de 2. 5. 1995, p. 3.\n\n(3) Parecer do Parlamento Europeu de 16 de Junho de 1995 (JO nº C 166 de 3. 7. 1995, p. 177), posição comum do Conselho de 26 de Fevereiro de 1996 (JO nº C 219 de 27. 7. 1996, p. 1) e decisão do Parlamento Europeu de 18 de Setembro de 1996 (JO nº C 320 de 28. 10. 1996, p. 74).\n\n(4) JO nº C 138 de 17. 5. 1993, p. 5.\n\n(5) JO nº L 120 de 11. 5. 1990, p. 1.\n\n(6) JO nº L 194 de 25. 7. 1975, p. 32. Decisão revogada pela Decisão 82/459/CEE (JO nº L 210 de 19. 7. 1982, p. 1).\n\n(7) JO nº L 210 de 19. 7. 1982, p. 1.\n\n(8) JO nº L 296 de 21. 11. 1996, p. 55."
+  },
+  "e86fd420b3f6f7cb": {
+   "fragment_id": "ANEXO I — LISTA DOS POLUENTES, PARÂMETROS ESTATÍSTICOS E UNIDADES DE MEDIDA",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DOS POLUENTES, PARÂMETROS ESTATÍSTICOS E UNIDADES DE MEDIDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DOS POLUENTES, PARÂMETROS ESTATÍSTICOS E UNIDADES DE MEDIDA\n\n1. Poluentes enumerados no anexo I da directiva relativa à qualidade do ar\n\n2. Poluentes não enumerados no anexo I da directiva relativa à qualidade do ar\n\n>POSIÇÃO NUMA TABELA>\n\n3. Dados, unidades de medida e tempos médios recomendados\n\n>POSIÇÃO NUMA TABELA>\n\n4. Dados, calculados para cada ano civil, a enviar à Comissão:\n\n- para os poluentes 1 a 35:\n\na média aritmética, a mediana, os percentis 98 (e 99,9 que poderá ser transmitido numa base voluntária para os poluentes cuja média é calculada em 1 hora) e o máximo, calculado com base nos dados correspondentes ao tempo recomendado para o cálculo das médias indicado no quadro supra; para o poluente 7 (ozono), os parâmetros estatísticos serão igualmente calculado com base nos dados médios em 8 horas,\n\n- para os poluentes 2, 36 e 37:\n\na média aritmética calculada com base nos dados correspondentes ao tempo recomendado para o cálculo das médias indicado no quadro supra.\n\nO cálculo do percentil de ordem x deve ser efectuado a partir dos valores efectivamente medidos. Todos os valores serão incluídos numa lista elaborada por ordem crescente:\n\nX1 &le; = X2 &le; = X3 &le; =..................... &le; = Xk &le; =..................... &le; = XN-1 &le; = XN\n\nO percentil de ordem x é o valor do elemento de ordem k em que k é calculado com base na seguinte fórmula:\n\nk = (q * N)\n\nsendo q igual a x/100 e N o número de valores efectivamente medidos. O valor de (q * N) deve ser arredondado para o número inteiro mais próximo.\n\nTodos os resultados são expressos em microg/m³ (nas seguintes condições de temperatura e de pressão: 293 °K e 101,3 kPa) à excepção dos poluentes 2, 36 e 37, expressos em g/m² ou seja: g/m²/ano."
+  },
+  "c897ce8458344044": {
+   "fragment_id": "ANEXO II — INFORMAÇÕES SOBRE AS REDES, ESTAÇÕES E TÉCNICAS DE MEDIÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO II — INFORMAÇÕES SOBRE AS REDES, ESTAÇÕES E TÉCNICAS DE MEDIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — INFORMAÇÕES SOBRE AS REDES, ESTAÇÕES E TÉCNICAS DE MEDIÇÃO\n\nNa medida do possível, comunicar o máximo de informações possível sobre os seguintes pontos:\n\nI. INFORMAÇÕES SOBRE AS REDES\n\n- designação\n\n- abreviatura\n\n- cobertura territorial da rede (indústria local, município, aglomeração, distrito, região, nacional)\n\n- organismo responsável pela gestão da rede\n\n- designação\n\n- nome da pessoa responsável\n\n- endereço\n\n- telefone e telefax\n\n- referência de tempo (TMG, local)\n\nII. INFORMAÇÃO SOBRE AS ESTAÇÕES\n\n1. Informações gerais\n\n- designação\n\n- número de referência ou código\n\n- designação do organismo técnico responsável pela estação (se não for o responsável pela rede)\n\n- tipo de estação\n\n+ tráfego\n\n+ industrial\n\n+ geral\n\n- afectação da estação (local, nacional, directivas UE, GEMS, OCDE, EMEP,...)\n\n- coordenadas geográficas\n\n- altitude\n\n- nível III da NUTS\n\n- poluentes medidos\n\n- parâmetros meteorológicos medidos\n\n- outras informações pertinentes: direcção predominante dos ventos, relação distância/altura dos obstáculos mais próximos\n\n2. Ambiente local/Morfologia da paisagem\n\n- Tipo de zona\n\n+ urbana\n\n+ suburbana\n\n+ rural\n\n- Caracterização da zona\n\n+ residencial\n\n+ comercial\n\n+ industrial\n\n+ agrícola\n\n+ natureza\n\n- Número de habitantes da zona\n\n3. Principais fontes de emissão\n\n- centrais públicas, co-geradores e aquecimento urbano\n\n- combustão comercial, institucional e residencial\n\n- combustão industrial\n\n- processo de produção\n\n- extracção e distribuição de combustíveis fósseis\n\n- utilização de solventes\n\n- transporte rodoviário\n\n- outras fontes e máquinas móveis (a especificar)\n\n- tratamento e eliminação de resíduos\n\n- agricultura\n\n- natureza\n\n4. Caracterização do tráfego (apenas para estações dedicadas à poluição do tráfego automóvel)\n\n- via larga com\n\n+ tráfego intenso (superior a 10 000 veículos diários)\n\n+ tráfego médio (de 2 000 a 10 000 veículos diários)\n\n+ tráfego reduzido (inferior a 2 000 veículos diários)\n\n- via estreita com\n\n+ tráfego intenso (superior a 10 000 veículos diários)\n\n+ tráfego médio (de 2 000 a 10 000 veículos diários)\n\n+ tráfego reduzido (inferior a 2 000 veículos diários)\n\n- rua tipo «canyon» com\n\n+ tráfego intenso (superior a 10 000 veículos diários)\n\n+ tráfego médio (de 2 000 a 10 000 veículos diários)\n\n+ tráfego reduzido (inferior a 2 000 veículos diários)\n\n- estrada\n\n+ tráfego intenso (superior a 10 000 veículos diários)\n\n+ tráfego médio (de 2 000 a 10 000 veículos diários)\n\n+ tráfego reduzido (inferior a 2 000 veículos diários)\n\n- outros: cruzamentos, semáforos, parques de estacionamento, paragens de autocarro, praças de táxis,...\n\nIII. INFORMAÇÕES SOBRE AS TÉCNICAS DE MEDIÇÃO\n\n- Equipamento\n\n- nome\n\n- princípio analítico\n\n- Características da amostragem\n\n- localização do ponto de recolha das amostras [fachada de edifício, pavimento (passeio), traseiras de edifício]\n\n- altura de recolha das amostras\n\n- comprimento da linha de recolha das amostras\n\n- período de integração dos resultados\n\n- período de recolha\n\n- Calibração\n\n- tipo: automática, manual, automática e manual\n\n- método\n\n- frequência."
+  },
+  "a3bb9b55f1a44e51": {
+   "fragment_id": "ANEXO III — PROCESSO DE VALIDAÇÃO DOS DADOS E CÓDIGOS DE QUALIDADE",
+   "type": "divisao",
+   "heading": "ANEXO III — PROCESSO DE VALIDAÇÃO DOS DADOS E CÓDIGOS DE QUALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — PROCESSO DE VALIDAÇÃO DOS DADOS E CÓDIGOS DE QUALIDADE\n\n1. Processo de validação\n\nO processo de validação deverá:\n\n- tomar em consideração, por exemplo, perturbações devidas a manutenção, calibração ou problemas técnicos, medidas extra-escala e dados que representem variações rápidas, como quedas ou subidas excessivas.\n\nOs dados deverão também ser revistos segundo critérios baseados no conhecimento das influências climáticas e meteorológicas específicas do local durante o período de medição, e\n\n- permitir a detecção de medições erradas através de técnicas como a comparação com os meses anteriores e com outros poluentes bem como a análise do desvio-padrão.\n\nA lista de validação elaborada durante a marcação dos dados deverá também ser analisada e verificada.\n\n2. Códigos de qualidade\n\nTodos os dados transmitidos são considerados como válidos, excepto se forem acompanhados do código T ou do código N, assim definidos:\n\n- código T: corresponde a um dado que (ainda) não foi sujeito ao processo de validação descrito no ponto 1,\n\n- código N: corresponde a um dado identificado, aquando do processo de validação descrito no ponto 1, como incorrecto ou duvidoso."
+  },
+  "c154c60879c86c87": {
+   "fragment_id": "ANEXO IV — CRITÉRIOS PARA A AGREGAÇÃO DOS DADOS E PARA O CÁLCULO DOS PARÂMETROS ESTATÍSTICOS",
+   "type": "divisao",
+   "heading": "ANEXO IV — CRITÉRIOS PARA A AGREGAÇÃO DOS DADOS E PARA O CÁLCULO DOS PARÂMETROS ESTATÍSTICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — CRITÉRIOS PARA A AGREGAÇÃO DOS DADOS E PARA O CÁLCULO DOS PARÂMETROS ESTATÍSTICOS\n\na) Agregação dos dados\n\nOs critérios para o cálculo dos valores horários e diários a partir de dados com um tempo de média mais pequeno são:\n\n>POSIÇÃO NUMA TABELA>\n\nb) Cálculo dos parâmetros estatísticos\n\n>POSIÇÃO NUMA TABELA>\n\nA relação entre o número de dados válidos para as duas estações do ano em causa não pode ser superior a 2, sendo as duas estações o Inverno (de Janeiro a Março, inclusive, e de Outubro a Dezembro, inclusive) e o Verão (de Abril a Setembro, inclusive)."
+  }
+ }
+}

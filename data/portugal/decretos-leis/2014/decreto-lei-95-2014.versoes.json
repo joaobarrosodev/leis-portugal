@@ -1,0 +1,267 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25676942:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-156121957",
+ "dre_path": "/dr/detalhe/decreto-lei/95-2014-25676942",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-06-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156122022",
+    "156122023",
+    "156122024",
+    "156122025",
+    "156122026",
+    "156122027",
+    "156122028",
+    "156122029",
+    "156122030",
+    "156122031",
+    "156122032",
+    "156122033",
+    "156122034",
+    "156122035",
+    "156122036",
+    "156122037",
+    "156122038",
+    "156122039",
+    "156122040"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "156122022",
+    "156122023",
+    "156122024",
+    "156122025",
+    "156122026",
+    "156122027",
+    "156122028",
+    "156122029",
+    "156122030",
+    "156122031",
+    "156122032",
+    "156122033",
+    "156122042",
+    "156122035",
+    "156122036",
+    "156122043",
+    "156122044",
+    "156122039",
+    "156122040",
+    "156122041"
+   ]
+  }
+ ],
+ "fragments": {
+  "156122022": {
+   "fragment_id": "156121958",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 95/2014\n\nde 24 de junho\n\nNos últimos anos, tem vindo a registar-se uma procura crescente, por parte dos consumidores, de produtos de «porco preto». A referida procura deve-se essencialmente às características específicas da raça dos animais em causa e do seu maneio.\n\nVerifica-se, contudo, que a referência a «porco preto» é utilizada no mercado nacional de forma indiscriminada na carne fresca, nos preparados de carne e nos produtos à base de carne, não correspondendo, na maior parte dos casos, às características subjacentes àquela expressão. Do mesmo modo, no sector da restauração, constata-se igualmente a utilização, por vezes abusiva, da referência «porco preto».\n\nImporta, por isso, fixar as regras subjacentes ao uso facultativo da referência «porco preto» na rotulagem dos géneros alimentícios, evitando, deste modo, por um lado, que os consumidores sejam induzidos em erro e, por outro lado, situações de concorrência desleal entre os operadores económicos.\n\nTendo em conta a aplicação do princípio do reconhecimento mútuo, admite-se a utilização da referência «porco preto» em produtos produzidos em Espanha, atentas as semelhanças a nível genético e de maneio, nos termos dos acordos celebrados entre as autoridades de Portugal e de Espanha sobre a produção, a preparação, a comercialização e o controlo dos produtos ibéricos.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156122023": {
+   "fragment_id": "156121959",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece as regras a que deve obedecer a denominação de venda dos géneros alimentícios provenientes de «porco preto», em estado fresco ou transformado.\n\n2 - O disposto no presente decreto-lei não afasta o cumprimento da legislação geral e específica aplicável."
+  },
+  "156122024": {
+   "fragment_id": "156121960",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei abrange todos os produtos frescos e transformados, cuja rotulagem inclua a referência «porco preto» ou lhe faça qualquer tipo de alusão.\n\n2 - O presente decreto-lei é aplicável aos operadores das empresas do setor alimentar em todas as fases da cadeia alimentar, incluindo a restauração, sempre que as suas atividades impliquem a prestação de informações ao consumidor final sobre os géneros alimentícios.\n\n3 - À utilização da referência «porco preto» na denominação de venda dos produtos a que se refere o presente decreto-lei não se aplica o disposto no Decreto-Lei n.º 71/98, de 26 de março, que cria um sistema voluntário de rotulagem da carne de suíno destinada ao consumidor final e estabelece os princípios e regras gerais a que o mesmo deve obedecer."
+  },
+  "156122025": {
+   "fragment_id": "156121961",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeito do disposto no presente decreto-lei, entende-se por:\n\na) «Lote de abate», o conjunto de animais provenientes da mesma exploração suinícola, homogéneos quanto ao fator racial, regime alimentar e peso, abatidos no mesmo dia e no mesmo estabelecimento, mensurável pelo número e peso de carcaças;\n\nb) «Lote de desmancha», o conjunto de peças resultante da desmancha de carcaças de porcos pretos provenientes de um ou mais lotes de abate, mensurável por tipo e peso por tipo;\n\nc) «Lote de produção», o conjunto de ingredientes específicos para transformação, também constituído por matéria-prima cárnea pertencente a um ou vários lotes de abate ou de desmancha, mensurável por tipo e peso por tipo;\n\nd) «Marca», o código que permite individualizar, no território nacional, a exploração ou o centro de agrupamento autorizado, cuja atribuição é feita pela autoridade competente;\n\ne) «Operador do setor alimentar», a pessoa singular ou coletiva responsável pelo cumprimento da legislação em matéria alimentar na empresa do setor alimentar sob o seu controlo."
+  },
+  "156122026": {
+   "fragment_id": "156121962",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências e atribuições\n\n1 - Sem prejuízo das competências legalmente atribuídas às entidades intervenientes, cabe:\n\na) À Direção-Geral de Alimentação e Veterinária (DGAV), definir as medidas de política relativas à qualidade e segurança dos produtos abrangidos pelo presente decreto-lei;\n\nb) Ao Gabinete de Planeamento, Políticas e Administração Geral do Ministério da Agricultura e do Mar (GPP), no âmbito das suas atribuições em matéria de acompanhamento das medidas nacionais da regulação económica no setor agroalimentar, avaliar os resultados da aplicação do presente decreto-lei\n\n2 - Para efeito do disposto na alínea b) do número anterior, o GPP apresenta, ouvidas as entidades mais representativas da fileira, um relatório de impacto quando se completarem três anos de vigência do presente decreto-lei."
+  },
+  "156122027": {
+   "fragment_id": "156121963",
+   "type": 11,
+   "heading": "Artigo 5.º — Denominação de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Denominação de venda\n\n1 - Os produtos resultantes da desmancha e transformação da carne dos animais a que se referem os artigos 6.º e 7.º podem utilizar na sua denominação de venda a referência «porco preto».\n\n2 - Os produtos resultantes da desmancha e transformação da carne de animais a que se refere o artigo 8.º, que devem necessariamente respeitar o artigo seguinte, apenas podem ostentar a referência «porco preto de produção intensiva».\n\n3 - É proibida a utilização de designações «tipo preto», «pata negra» ou outras similares que, através de imagens ou menções, possam induzir em erro o consumidor.\n\n4 - Para efeitos de registo, as designações «porco preto» e «porco preto de produção intensiva» só podem integrar uma marca, um logótipo ou qualquer outra figura que confira direitos de propriedade industrial se forem cumpridos os requisitos previstos no presente decreto-lei."
+  },
+  "156122028": {
+   "fragment_id": "156121964",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições genéticas dos animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições genéticas dos animais\n\n1 - A denominação de venda associada à referência «porco preto» só pode ser utilizada nos animais ou nos produtos deles derivados que cumpram um dos seguintes requisitos:\n\na) «Animais de raça pura», porcos de raça alentejana, registados no Livro Genealógico Português de Suínos (LGPS) - secção raça alentejana, conforme o anexo II do Decreto-Lei n.º 79/2011, de 20 de junho, alterado pelo Decreto-Lei n.º 260/2012, de 12 de dezembro, inscritos no livro de nascimentos e filhos de progenitores inscritos no livro de adultos;\n\nb) «Animais resultantes de cruzamento de raças», suínos inscritos ou registados no livro de nascimentos de cruzados de alentejano, obtidos a partir do cruzamento de porcas puras e registadas no livro genealógico da raça «alentejana» com varrascos da raça «Duroc» em linha pura (100 %), ou cruzados de alentejano (50 % ou 75 %), inscritos no livro de cruzados, certificados como válidos pelas entidades gestoras do LGPS.\n\n2 - A denominação de venda associada à referência «porco preto» pode ser utilizada ainda em animais, ou nos produtos deles derivados, que sejam provenientes de «Cerdo Ibérico», desde que seja cumprido, com as necessárias adaptações, o disposto no número anterior."
+  },
+  "156122029": {
+   "fragment_id": "156121965",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de maneio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de maneio\n\n1 - A denominação de venda de produtos associada à referência «porco preto» deve ser proveniente de animais, que:\n\na) Tenham permanecido pelo menos 60 dias consecutivos antes do abate em explorações registadas na classe 2 - extensivo ou intensivo ao ar livre, ou na classe 3 - extensivo, em conformidade com o Decreto-Lei n.º 81/2013, de 14 de junho, e com a Portaria n.º 636/2009, de 9 de junho; e\n\nb) Cumpram os requisitos estabelecidos nos artigos 14.º a 18.º da Portaria n.º 636/2009, de 9 de junho, que estabelece as normas regulamentares aplicáveis à atividade de detenção e produção pecuária nas explorações e nos núcleos de produção de suínos (NPS).\n\n2 - Para efeito do disposto na alínea a) do número anterior, o período de permanência mínima dos leitões para abate pode ser inferior a 60 dias."
+  },
+  "156122030": {
+   "fragment_id": "156121966",
+   "type": 11,
+   "heading": "Artigo 8.º — Porco preto de produção intensiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Porco preto de produção intensiva\n\nPara a utilização da denominação de venda de produtos associada à referência «porco preto de produção intensiva», os animais devem ter um peso vivo superior a 110 kg, ser provenientes de explorações registadas na classe 1 ou numa categoria da classe 2 não prevista no n.º 1 do artigo anterior com uma superfície mínima de 2 m2 por animal na fase de engorda, em conformidade com o disposto no artigo 3.º do Decreto-Lei n.º 81/2013, de 14 de junho."
+  },
+  "156122031": {
+   "fragment_id": "156121967",
+   "type": 11,
+   "heading": "Artigo 9.º — Rastreabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rastreabilidade\n\n1 - Sem prejuízo do disposto nos Regulamentos (CE) n.os <a href=\"eurlex.asp?ano=2002&id=302R0178\" title=\"Link para Regulamento da Comunidade Europeia\">178/2002</a>, do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>, do Parlamento Europeu e do Conselho, de 29 de abril de 2004, e <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, do Parlamento Europeu e do Conselho, de 29 de abril de 2004, em matéria de rastreabilidade, os operadores do setor alimentar que produzam, abatam, transformem, armazenem, distribuam ou vendam animais ou produtos, frescos ou transformados, deles derivados cuja rotulagem inclua a referência «porco preto» ou «porco preto de produção intensiva» ou de qualquer forma façam alusão àquelas referências, devem possuir um sistema de rastreabilidade que permita comprovar que os mesmos respeitam o disposto no presente decreto-lei.\n\n2 - Para dar cumprimento ao disposto no número anterior, os operadores do setor alimentar devem evidenciar documentalmente, em termos de rastreabilidade, o lote de abate, o lote de desmancha e, quando aplicável, o lote de produção."
+  },
+  "156122032": {
+   "fragment_id": "156121968",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nCondições de utilização da referência «porco preto» na denominação de venda, na rotulagem e na publicidade\n\n1 - Os produtos resultantes de misturas cárneas provenientes de «porco preto» e de «porco preto de produção intensiva» só podem conter a referência «porco preto de produção intensiva».\n\n2 - É proibido o uso da referência «porco preto» ou «porco preto de produção intensiva» nos produtos resultantes de misturas cárneas, sempre que aquelas incluam carne que não cumpra os requisitos fixados no presente decreto-lei."
+  },
+  "156122033": {
+   "fragment_id": "156121969",
+   "type": 11,
+   "heading": "Artigo 11.º — Produtos provenientes de Espanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Produtos provenientes de Espanha\n\nÉ permitida a utilização de uma denominação de venda que inclua a referência «porco preto» ou «porco preto de produção intensiva» nos produtos legalmente produzidos em Espanha, desde que cumpram os requisitos previstos no presente decreto-lei, com as necessárias adaptações."
+  },
+  "156122034": {
+   "fragment_id": "156121970",
+   "type": 11,
+   "heading": "Artigo 12.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contraordenações\n\n1 - Constituem contraordenações, punidas com coima de (euro) 500 a (euro) 2 500, no caso de pessoa singular, e de (euro) 2 000 a (euro) 25 000, no caso de pessoa coletiva:\n\na) A utilização da referência «porco preto», ou equivalente, ou «porco preto de produção intensiva» nos produtos que não cumpram as condições exigidas no presente decreto-lei, em violação do disposto nos n.os 1 e 2 do artigo 5.º;\n\nb) A utilização de qualquer designação, imagem ou menção que possa induzir em erro o consumidor, em violação do disposto no n.º 3 do artigo 5.º;\n\nc) A falta de instalação de um sistema que permita comprovar o respeito pelo disposto no presente decreto-lei, em violação do disposto no artigo 9.º;\n\nd) A utilização da referência «porco preto», ou equivalente, ou «porco preto de produção intensiva» nos produtos resultantes de misturas cárneas, sempre que aquelas incluam carne que não cumpra os requisitos fixados no presente decreto-lei, em violação do disposto no n.º 2 do artigo 10.º\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada."
+  },
+  "156122035": {
+   "fragment_id": "156121971",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\n1 - Consoante a gravidade da contraordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objetos pertencentes ao agente, incluindo animais;\n\nb) Interdição do exercício de profissões ou atividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nd) Suspensão de autorizações, licenças e alvarás.\n\n2 - Sem prejuízo do prazo máximo previsto no número seguinte, quando seja aplicada a sanção acessória de encerramento de estabelecimento ou de suspensão de autorizações, a reabertura do estabelecimento e a emissão da referida autorização apenas devem ocorrer quando estiverem reunidas as condições legais e regulamentares para o seu normal funcionamento.\n\n3 - As sanções referidas nas alíneas b) a d) do n.º 1 têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva."
+  },
+  "156122036": {
+   "fragment_id": "156121972",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização, instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscalização, instrução e decisão\n\n1 - Sem prejuízo das competências atribuídas por lei a outras autoridades policiais e fiscalizadoras, a fiscalização do cumprimento do disposto no presente decreto-lei compete à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - Quando qualquer autoridade ou agente de autoridade, no exercício das suas funções de fiscalização, presenciar contraordenação por violação ao disposto no presente decreto-lei, levanta ou manda levantar o correspondente auto de notícia.\n\n3 - Quando o auto de notícia for levantado por entidade diversa da ASAE, o mesmo é-lhe remetido no prazo de 10 dias.\n\n4 - A instrução dos processos de contraordenação compete à ASAE, cabendo ao inspetor-geral da ASAE a aplicação das coimas e das sanções acessórias."
+  },
+  "156122037": {
+   "fragment_id": "156121973",
+   "type": 11,
+   "heading": "Artigo 15.º — Distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Distribuição do produto das coimas\n\nO produto da aplicação das coimas é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 30 % para a ASAE;\n\nc) 10 % para a autoridade que levantar o auto de notícia."
+  },
+  "156122038": {
+   "fragment_id": "156121974",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direito subsidiário\n\nÀs contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "156122039": {
+   "fragment_id": "156123675",
+   "type": 11,
+   "heading": "Artigo 17.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regiões autónomas\n\n1 - Nas regiões autónomas, a execução administrativa do presente decreto-lei, incluindo a fiscalização do seu cumprimento e a instrução e a decisão dos processos de contraordenação, cabe às entidades das respetivas administrações regionais autónomas com atribuições e competências em razão das matérias.\n\n2 - O produto das coimas, quando aplicadas nas regiões autónomas, constitui receita própria destas."
+  },
+  "156122040": {
+   "fragment_id": "156123676",
+   "type": 11,
+   "heading": "Artigo 18.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Disposição transitória\n\n1 - Os produtos resultantes dos abates realizados em data anterior à da entrada em vigor do presente decreto-lei podem ser comercializados até ao esgotamento das existências.\n\n2 - Os produtos associados a marca, a logótipo ou a qualquer outra figura que confira direitos de propriedade industrial que se encontrem registados na data da entrada em vigor do presente decreto-lei podem ser comercializados durante o prazo de um ano a contar dessa data."
+  },
+  "156122042": {
+   "fragment_id": "156121970",
+   "type": 11,
+   "heading": "Artigo 12.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 135.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 12.º — Contraordenações\n\n1 - Constitui contraordenação económica grave, nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A utilização da referência «porco preto», ou equivalente, ou «porco preto de produção intensiva» nos produtos que não cumpram as condições exigidas no presente decreto-lei, em violação do disposto nos n.os 1 e 2 do artigo 5.º;\n\nb) A utilização de qualquer designação, imagem ou menção que possa induzir em erro o consumidor, em violação do disposto no n.º 3 do artigo 5.º;\n\nc) A falta de instalação de um sistema que permita comprovar o respeito pelo disposto no presente decreto-lei, em violação do disposto no artigo 9.º;\n\nd) A utilização da referência «porco preto», ou equivalente, ou «porco preto de produção intensiva» nos produtos resultantes de misturas cárneas, sempre que aquelas incluam carne que não cumpra os requisitos fixados no presente decreto-lei, em violação do disposto no n.º 2 do artigo 10.º\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 135.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156122043": {
+   "fragment_id": "156121973",
+   "type": 11,
+   "heading": "Artigo 15.º — Distribuição do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 135.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 15.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 135.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156122044": {
+   "fragment_id": "156121974",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito subsidiário",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 135.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 16.º — Direito subsidiário\n\nÀs contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.\n\n> Alterado pelo/a Artigo 135.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156122041": {
+   "fragment_id": "156123677",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de maio de 2014. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - Manuel Pinto de Abreu.\n\nPromulgado em 17 de junho de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 19 de junho de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

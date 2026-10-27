@@ -1,0 +1,223 @@
+---
+schema_version: '1.0'
+id: pt:dre:152165519:por
+title: Decreto Regulamentar Regional n.º 28-B/2020/A
+short_title: null
+summary: Regulamenta a execução da alínea e) do n.º 1 do artigo 6.º do Decreto n.º 11/2020, de 6 de dezembro, alterado e republicado
+  pelo Decreto n.º 11-A/2020, de 21 de dezembro, nas deslocações por via aérea e marítima no território da Região Autónoma
+  dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 28-B/2020/A
+official_date: null
+publication_date: '2020-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 249/2020, 1º Suplemento, Série I de 2020-12-24
+  number: '249'
+  series: I
+  supplement: null
+  pages: 63-(2) a 63-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24901/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/28-b/2020/12/24/a/dre/pt/html
+  oj: null
+  dre: '152165519'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/28-b-2020-152165519
+  internal: pt:dre:152165519:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-b-2020-152165519
+  metadata_url: https://data.dre.pt/eli/decregulreg/28-b/2020/12/24/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-b-2020-152165519
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:31:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6143efdf72c8f6d07aea5a96e690a0925beb685c04114b5404962d9f25f4bdd0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Análise Laboratorial
+- Análises Clínicas
+- Circulação de Pessoas
+- Controlo Sanitário
+- Crime
+- Doença Infecciosa
+- Epidemia
+- Estado de Emergência
+- Isolamento Profiláctico
+- Laboratório de Análises e Ensaios
+- Polícia Marítima
+- Região Autónoma
+- SATA
+- Saúde Pública
+- Segurança Pública
+- Serviço Regional de Saúde
+- Transporte Aéreo
+- Transporte de Passageiros
+- Transporte Marítimo
+relationships:
+- type: amended_by
+  target: pt:dre:153341292:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:150509308:por
+  label: null
+  source: http://data.dre.pt/eli/dec/11/2020/12/06/p/dre
+- type: cites
+  target: pt:dre:151557411:por
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/66-a/2020/12/17/p/dre
+- type: cites
+  target: pt:dre:151904698:por
+  label: null
+  source: http://data.dre.pt/eli/dec/11-a/2020/12/21/p/dre
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:153341292:por
+  label: Revogado, a partir de 08.01.2021, pelo(a) Decreto Regulamentar Regional n.º 1-A/2021/A - Diário da República n.º
+    4/2021, 1º Suplemento, Série I de 2021-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-a-2021-153341292
+  date: '2021-01-07'
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:31:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 28-B/2020/A
+
+Regulamenta a execução da alínea e) do n.º 1 do artigo 6.º do [Decreto n.º 11/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-2020-150509308), de 6 de dezembro, alterado e republicado pelo [Decreto n.º 11-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), de 21 de dezembro, nas deslocações por via aérea e marítima no território da Região Autónoma dos Açores
+
+O [Decreto n.º 11/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-2020-150509308), de 6 de dezembro, alterado e republicado pelo [Decreto n.º 11-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), de 21 de dezembro, que procede à execução da declaração do estado de emergência efetuada pelo [Decreto do Presidente da República n.º 66-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-a-2020-151557411), de 17 de dezembro, prevê, na alínea e) do n.º 1 do artigo 6.º, a possibilidade de realização de testes de diagnóstico de SARS-CoV-2 a quem pretenda entrar ou sair do território nacional continental ou das Regiões Autónomas por via aérea ou marítima.
+
+O [Decreto n.º 11/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-2020-150509308), de 6 de dezembro, na sua redação atual, que procede à execução do [Decreto do Presidente da República n.º 66-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-a-2020-151557411), de 17 de dezembro, não tem aplicação na Região Autónoma dos Açores, pelo que se impõe adotar as medidas constantes do presente diploma no que respeita às deslocações entre as nove ilhas da Região Autónoma dos Açores.
+
+A existência de transmissão comunitária do vírus SARS-CoV-2 nas ilhas de São Miguel e Terceira faz com que não exista vantagem epidemiológica no controlo das viagens entre estas duas ilhas.
+
+No entanto, como estas duas ilhas concentram a quase totalidade dos casos ativos na Região Autónoma dos Açores, importa prevenir e/ou conter a propagação do vírus para as restantes ilhas da Região Autónoma dos Açores.
+
+Atendendo à evolução da situação epidemiológica na Região Autónoma dos Açores, nomeadamente nas ilhas de São Miguel e Terceira, bem como à descontinuidade territorial, às especificidades do Serviço Regional de Saúde e ao facto de as acessibilidades no território regional se fazerem exclusivamente pelas vias aérea e marítima, importa regulamentar a execução da referida disposição normativa nas deslocações interilhas, na Região Autónoma dos Açores.
+
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea d) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do artigo 7.º do [Decreto do Presidente da República n.º 66-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-a-2020-151557411), de 17 de dezembro, conjugado com o n.º 2 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, e com o n.º 1 do artigo 57.º do [Decreto n.º 11/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-2020-150509308), de 6 de dezembro, alterado e republicado pelo [Decreto n.º 11-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), de 21 de dezembro, o Governo Regional, em articulação com o Representante da República para a Região Autónoma dos Açores, decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma regulamenta a execução da alínea e) do n.º 1 do artigo 6.º do [Decreto n.º 11/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-2020-150509308), de 6 de dezembro, alterado e republicado pelo [Decreto n.º 11-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), de 21 de dezembro, nas deslocações por via aérea e por via marítima no território da Região Autónoma dos Açores.
+
+###### Artigo 2.º — Obrigatoriedade de testes de diagnóstico de SARS-CoV-2
+
+1 - Todos os passageiros que embarquem nos portos ou aeroportos das ilhas de São Miguel e Terceira com destino a qualquer das demais ilhas do arquipélago devem apresentar comprovativo, em suporte digital ou de papel, de documento emitido por laboratório nacional ou internacional devidamente certificado, que ateste a realização de teste de despiste ao SARS-CoV-2, realizado pela metodologia RT-PCR, nas 72 horas antes da partida do voo.
+
+2 - No documento referido no número anterior devem, obrigatoriamente, constar os elementos seguintes:
+
+a) Identificação do passageiro;
+
+b) Nome do laboratório onde o mesmo foi realizado, com menção à respetiva certificação;
+
+c) A referência à utilização da metodologia RT-PCR;
+
+d) Data de realização do teste;
+
+e) Resultado do teste como Negativo.
+
+3 - Nos casos referidos no número anterior, e prolongando-se a estada em qualquer ilha do arquipélago por sete ou mais dias, o passageiro deve, no 6.º dia a contar da data de realização do teste de despiste ao SARS-CoV-2, contactar a autoridade de saúde do concelho em que reside ou está alojado, com o objetivo de proceder à realização de novo teste de despiste ao SARS-CoV-2, a promover pela autoridade de saúde local, cujo resultado ser-lhe-á comunicado pelos meios assumidos por essa entidade.
+
+###### Artigo 3.º — Exceções
+
+1 - A obrigatoriedade referida no artigo anterior não é aplicável nas situações seguintes:
+
+a) Passageiros com idade igual ou inferior a 12 anos;
+
+b) Profissionais de saúde em serviço para transferência ou evacuação de doentes e que tenham o rastreio periódico de âmbito profissional atualizado, de acordo com a norma técnica da Autoridade de Saúde Regional em vigor à data;
+
+c) Passageiros com doença devidamente comprovada por declaração médica que ateste a incompatibilidade anatómica e/ou clínica para a realização de teste de diagnóstico SARS-CoV-2, através de colheita de material biológico pela nasofaringe, caso em que os passageiros devem submeter previamente à sua deslocação, com a antecedência mínima de dois dias úteis, a referida declaração à Autoridade de Saúde Regional para validação, sem prejuízo de realização de teste serológico à chegada à ilha de destino;
+
+d) Passageiros que apresentem declaração de alta clínica de vigilância e das medidas de isolamento emitida pelo serviço público de saúde relativa a SARS-CoV-2, a qual tem a validade de noventa dias;
+
+e) Passageiros que apresentem declaração de agência funerária com sede na ilha de destino, comprovando a morte de familiar nas últimas 72 horas, ficando obrigados a submeter-se a rastreio para SARS-CoV-2, pela metodologia RT-PCR, à chegada, bem como ao isolamento profilático, até lhes ser comunicado o resultado negativo, no prazo máximo de 24 horas;
+
+f) Passageiros com partida nas duas referidas ilhas em que, por motivos de atraso ou de cancelamento da viagem, no embarque ou na escala, sejam excedidas as 72 horas de validade do teste feito na origem, ficando obrigados a submeter-se a rastreio para SARS-CoV-2, pela metodologia RT-PCR, à chegada à ilha de destino, bem como ao isolamento profilático, até lhes ser comunicado o resultado negativo, no prazo máximo de 24 horas;
+
+g) Passageiros com partida numa das restantes sete ilhas e que, em trânsito para a ilha de destino final, aterrem nos aeroportos das ilhas de São Miguel e Terceira, desde que não circulem do lado «ar» para o lado «terra», na aceção em uso nos aeroportos nacionais;
+
+h) Passageiros com partida numa das restantes sete ilhas e que, em trânsito para a ilha de destino final, aterrem nos aeroportos das ilhas de São Miguel e Terceira, nestas circulando do lado «ar» para o lado «terra», na aceção em uso nos aeroportos nacionais, ficando obrigados a submeter-se a rastreio para SARS-CoV-2, pela metodologia RT-PCR, à chegada à ilha de destino, bem como ao isolamento profilático, até lhes ser comunicado o resultado negativo, no prazo máximo de 24 horas;
+
+i) Passageiros com partida do território continental e que, em trânsito para a ilha de destino final, aterrem nos aeroportos das ilhas de São Miguel e Terceira, nestas circulando do lado «ar» para o lado «terra», na aceção em uso nos aeroportos nacionais, ficando obrigados a submeter-se a rastreio para SARS-CoV-2, pela metodologia RT-PCR, à chegada à ilha de destino, bem como ao isolamento profilático, até lhes ser comunicado o resultado negativo, no prazo máximo de 24 horas;
+
+j) Tripulações de companhias aéreas que não circulem do lado «ar» para o lado «terra», na aceção em vigor nos aeroportos nacionais, bem como as que se desloquem em serviço, com partida em São Miguel ou na Terceira, e a estas regressem sem terem saído da aeronave;
+
+l) Passageiros que se desloquem de qualquer uma das outras sete ilhas com destino a São Miguel ou para a Terceira, regressando no período de até 48 horas, ficando, nesse momento, obrigados a submeter-se a rastreio para SARS-CoV-2, pela metodologia RT-PCR, bem como ao isolamento profilático, até lhes ser comunicado o resultado negativo, no prazo máximo de 24 horas.
+
+2 - As declarações de exceção previstas no número anterior apenas podem ser apresentadas em suporte de papel ou em suporte digital, excluindo-se o formato SMS.
+
+###### Artigo 4.º — Controlo
+
+Os serviços em terra do Grupo SATA ou da Polícia Marítima, consoante os casos, ficam obrigados, nos aeroportos e portos das ilhas de São Miguel e Terceira, a exigir aos embarcados com destino a qualquer uma das outras sete ilhas, em momento prévio ao embarque, a apresentação do documento comprovativo da realização do teste de diagnóstico, de SARS-CoV-2, com resultado negativo, ou documento comprovativo que excecione a sua apresentação, nos termos previstos no presente diploma.
+
+###### Artigo 5.º — Incumprimento
+
+O incumprimento do disposto no presente diploma, quer pelas companhias áreas que operam na Região Autónoma dos Açores quer pelos passageiros, determina a apresentação imediata, pela Autoridade de Saúde Regional, de queixa pela prática do crime de desobediência, bem como a aplicação ao passageiro, no desembarque, dos procedimentos de testagem ao SARS-CoV-2 estabelecidos pela mesma Autoridade.
+
+###### Artigo 6.º — Vigência
+
+O presente diploma vigora enquanto vigorar o estado de emergência, nos termos do [Decreto do Presidente da República n.º 66-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-a-2020-151557411), de 17 de dezembro, sem prejuízo de eventuais prorrogações do mesmo.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente diploma entra em vigor às 00h00 do dia 24 de dezembro.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 21 de dezembro de 2020.
+
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
+
+Assinado em Angra do Heroísmo em 23 de dezembro de 2020.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+113843527

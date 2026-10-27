@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977L0388:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0388-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1977-06-13",
+   "future": false,
+   "celex": "31977L0388",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01977L0388-20070101",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "2dbc50676f458e8e"
+   ]
+  }
+ ],
+ "fragments": {
+  "2dbc50676f458e8e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977L0388 — PT — 01.01.2007 — 014.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977L0388) [SEXTA DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31977L0388) [de 17 de Maio de 1977](http://publications.europa.eu/resource/celex/31977L0388) [relativa à harmonização das legislações dos Estados-membros respeitantes aos impostos sobre o volume de negócios — sistema comum do imposto sobre o valor acrescentado: matéria colectável uniforme](http://publications.europa.eu/resource/celex/31977L0388) [(77/388/CEE)](http://publications.europa.eu/resource/celex/31977L0388) (JO L 145, 13.6.1977, p.1)\n\n**revogado por:**\n\n- [Directiva 2006/112/CE do Conselho de 28 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0112) — L 347 — 1 — 11.12.2006"
+  }
+ }
+}

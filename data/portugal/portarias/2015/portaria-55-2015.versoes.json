@@ -1,0 +1,736 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66619894:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-115366813",
+ "dre_path": "/dr/detalhe/portaria/55-2015-66619894",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-02-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115364647",
+    "115364648",
+    "115364649",
+    "115364650",
+    "115364651",
+    "115364652",
+    "115364653",
+    "115364654",
+    "115364655",
+    "115364656",
+    "115364657",
+    "115364658",
+    "115364659",
+    "115364660",
+    "115364661",
+    "115364662",
+    "115364663",
+    "115364664",
+    "115364665",
+    "115364666",
+    "115364667",
+    "115364668",
+    "115364669",
+    "115364670",
+    "115364671",
+    "115364672",
+    "115364673",
+    "115374575",
+    "115374576",
+    "115374577"
+   ]
+  },
+  {
+   "date": "2015-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70748599:por",
+     "title": "Portaria n.º 374/2015",
+     "published": "2015-10-20",
+     "dre_path": "/dr/detalhe/portaria/374-2015-70748599"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "115364647",
+    "115364648",
+    "115364649",
+    "115364650",
+    "115364651",
+    "115364652",
+    "115364653",
+    "115364654",
+    "115364655",
+    "115364656",
+    "115364657",
+    "115364658",
+    "115364659",
+    "115374578",
+    "115364661",
+    "115364662",
+    "115364663",
+    "115364664",
+    "115364665",
+    "115364666",
+    "115364667",
+    "115364668",
+    "115364669",
+    "115364670",
+    "115364671",
+    "115364672",
+    "115364673",
+    "115364674",
+    "115374575",
+    "115374576",
+    "115374577"
+   ]
+  },
+  {
+   "date": "2016-01-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73163704:por",
+     "title": "Portaria n.º 4/2016",
+     "published": "2016-01-18",
+     "dre_path": "/dr/detalhe/portaria/4-2016-73163704"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "115364647",
+    "115364648",
+    "115364649",
+    "115364650",
+    "115364651",
+    "115364652",
+    "115364653",
+    "115364654",
+    "115364655",
+    "115364656",
+    "115364657",
+    "115364658",
+    "115364659",
+    "115374578",
+    "115364661",
+    "115364662",
+    "115364663",
+    "115364664",
+    "115364665",
+    "115374579",
+    "115364667",
+    "115364668",
+    "115364669",
+    "115364670",
+    "115364671",
+    "115364672",
+    "115364673",
+    "115364674",
+    "115374575",
+    "115374576",
+    "115374577"
+   ]
+  },
+  {
+   "date": "2016-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74590178:por",
+     "title": "Portaria n.º 154-A/2016",
+     "published": "2016-05-31",
+     "dre_path": "/dr/detalhe/portaria/154-a-2016-74590178"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "115364647",
+    "115364648",
+    "115364649",
+    "115364650",
+    "115364651",
+    "115364652",
+    "115364653",
+    "115364654",
+    "115364655",
+    "115364656",
+    "115364657",
+    "115364658",
+    "115364659",
+    "115374578",
+    "115364661",
+    "115364662",
+    "115364663",
+    "115364664",
+    "115364665",
+    "115374579",
+    "115364667",
+    "115364668",
+    "115364669",
+    "115364670",
+    "115364671",
+    "115374585",
+    "115364673",
+    "115364674",
+    "115374575",
+    "115374576",
+    "115374577"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105643559:por",
+     "title": "Portaria n.º 338-A/2016",
+     "published": "2016-12-28",
+     "dre_path": "/dr/detalhe/portaria/338-a-2016-105643559"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 10.º",
+    "Altera Anexo I",
+    "Revoga Artigo 21.º"
+   ],
+   "fragments": [
+    "115364647",
+    "115364648",
+    "115364649",
+    "115364650",
+    "115374586",
+    "115364652",
+    "115364653",
+    "115364654",
+    "115364655",
+    "115364656",
+    "115364657",
+    "115374587",
+    "115364659",
+    "115374578",
+    "115364661",
+    "115364662",
+    "115364663",
+    "115364664",
+    "115364665",
+    "115374579",
+    "115364667",
+    "115364668",
+    "115364669",
+    "115364670",
+    "115364671",
+    "115374589",
+    "115364673",
+    "115364674",
+    "115374588",
+    "115374576",
+    "115374577"
+   ]
+  },
+  {
+   "date": "2017-03-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106531325:por",
+     "title": "Portaria n.º 90/2017",
+     "published": "2017-03-01",
+     "dre_path": "/dr/detalhe/portaria/90-2017-106531325"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 21.º-A",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "115364647",
+    "115364648",
+    "115364649",
+    "115364650",
+    "115374586",
+    "115364652",
+    "115364653",
+    "115364654",
+    "115364655",
+    "115364656",
+    "115364657",
+    "115374587",
+    "115364659",
+    "115374578",
+    "115364661",
+    "115374596",
+    "115364663",
+    "115364664",
+    "115364665",
+    "115374597",
+    "115374598",
+    "115374599",
+    "115364669",
+    "115364670",
+    "115364671",
+    "115374589",
+    "115374600",
+    "115374601",
+    "115364674",
+    "115374588",
+    "115374576",
+    "115374577"
+   ]
+  },
+  {
+   "date": "2018-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115360040:por",
+     "title": "Portaria n.º 144/2018",
+     "published": "2018-05-21",
+     "dre_path": "/dr/detalhe/portaria/144-2018-115360040"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "115364647",
+    "115364648",
+    "115364649",
+    "115364650",
+    "115374586",
+    "115364652",
+    "115364653",
+    "115364654",
+    "115364655",
+    "115364656",
+    "115364657",
+    "115374587",
+    "115364659",
+    "115374578",
+    "115364661",
+    "115374596",
+    "115364663",
+    "115364664",
+    "115364665",
+    "115374602",
+    "115374598",
+    "115374599",
+    "115364669",
+    "115364670",
+    "115364671",
+    "115374589",
+    "115374600",
+    "115374601",
+    "115364674",
+    "115374588",
+    "115374576",
+    "115374577"
+   ]
+  }
+ ],
+ "fragments": {
+  "115364647": {
+   "fragment_id": "115366814",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 55/2015\n\nde 27 de fevereiro\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.\n\nO PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.\n\nNa arquitetura do PDR 2020, o apoio «Manutenção de raças autóctones em risco» integra a ação n.º 7.8, «Recursos genéticos», a qual se encontra inserida na medida n.º 7, «Agricultura e recursos naturais», da área n.º 3, «Ambiente, eficiência no uso dos recursos e clima».\n\nO apoio «Manutenção de raças autóctones em risco» visa contribuir para a melhoria da viabilidade das explorações em zonas rurais com poucas alternativas, para a melhoria do ambiente e da paisagem rural, tendo em conta os sistemas extensivos a que estão associadas. Estas explorações pecuárias são exemplo da multifuncionalidade na atividade agrícola e constituem um contributo indispensável para os sistemas de produção em equilíbrio com o ambiente, pelo que importa promover a conservação in situ destes recursos genéticos animais autóctones, designadamente os que estão em risco de extinção.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "115364648": {
+   "fragment_id": "115366815",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "115364649": {
+   "fragment_id": "115366816",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação do apoio «Manutenção de raças autóctones em risco», da ação 7.8, «Recursos genéticos», integrada na medida n.º 7, «Agricultura e recursos naturais», da área n.º 3, «Ambiente, eficiência no uso dos recursos e clima», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "115364650": {
+   "fragment_id": "115366817",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO apoio previsto na presente portaria visa promover a utilização sustentada in situ dos recursos genéticos animais autóctones, designadamente os que estão em risco de extinção."
+  },
+  "115364651": {
+   "fragment_id": "115366818",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Animais em pastoreio» ou «efetivo pecuário em pastoreio», os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;\n\nb) «Avaliação genética», a determinação do valor genético de um animal para uma ou várias características de acordo com os métodos aprovados pela Direção-Geral de Alimentação e Veterinária (DGAV);\n\nc) «Banco de germoplasma», a instalação constituída com o fim de preservar o património genético nacional, através da armazenagem de material genético, designadamente sémen, embriões, oócitos, células somáticas e ADN, proveniente de exemplares inscritos no livro genealógico ou registo fundador da raça respetiva e obtido com o consentimento do proprietário do animal, em quantidade e qualidade suficiente para garantir as finalidades que se pretendam, incluindo uso posterior à vida do próprio indivíduo;\n\nd) «Cabeça normal (CN)», a unidade padrão de equivalência usada para comparar e agregar números de animais de diferentes espécies ou categorias, tendo em consideração a espécie animal, a idade, o peso vivo e a vocação produtiva, relativamente às necessidades alimentares e à produção de efluentes pecuários;\n\ne) «Caraterização genética», a avaliação das características genéticas do animal ou de uma população, nomeadamente através de marcadores genéticos ou através de análise demográfica, de forma a estimar diversos parâmetros relacionados com a variabilidade genética, bem como a relação genética entre indivíduos ou entre e dentro das populações;\n\nf) «Conservação ex situ», a conservação de material genético animal ou de animais fora do ambiente natural ou zona de produção;\n\ng) «Conservação in situ», a conservação ou manutenção de animais no seu ambiente natural ou zona de produção;\n\nh) «Exploração agrícola», o conjunto de parcelas ou animais utilizados para atividades agrícolas, submetidos a uma gestão única;\n\ni) «Fêmeas reprodutoras exploradas em linha pura», as fêmeas que estejam inscritas no livro de adultos como reprodutoras da raça e o último parto seja de uma cria ou ninhada inscrita no livro genealógico ou registo fundador, ou que, não tendo ainda reproduzido, já estejam inscritas no livro de adultos e possuam, no início dos períodos de retenção definidos na alínea l), pelo menos, 12 meses para os equídeos, bovinos, ovinos e caprinos, e 6 meses para os suínos, galináceos e outras aves de capoeira;\n\nj) «Livro genealógico», o registo que tem por fim assegurar a identidade e preservação genética de uma raça, bem como concorrer para a sua promoção e melhoramento genético, favorecendo a difusão de reprodutores geneticamente superiores, devendo a inscrição dos animais, cuja ascendência é obrigatoriamente conhecida, obedecer aos respetivos regulamentos;\n\nk) «Machos reprodutores», os machos que estejam inscritos no livro de adultos como reprodutores da raça;\n\nl) «Período de retenção», o período durante o qual os animais têm de ser mantidos na exploração agrícola, compreendido entre, 1 de fevereiro e 31 de julho, para os bovinos, 1 de fevereiro e 31 de maio, para os ovinos e caprinos, e 1 de janeiro e 31 de dezembro, para o restante efetivo;\n\nm) «Prados e pastagens permanentes», as superfícies ocupadas com erva ou outras forrageiras herbáceas, quer semeadas quer espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração e as superfícies ocupadas com vegetação arbustiva;\n\nn) «Programa de conservação genética animal», o conjunto de ações devidamente planeadas e desenvolvidas de forma sistematizada, desde a recolha de dados genealógicos e produtivos, práticas reprodutivas, delineamento de acasalamentos, utilização de biotecnologias, recolha e preservação de material genético, bem como o tratamento e processamento de informação, com vista a promover a conservação da variabilidade genética de uma raça, ex situ, no banco de germoplasma animal, e in situ, nos locais de exploração;\n\no) «Programa de melhoramento genético animal», o conjunto de ações devidamente estruturadas e desenvolvidas de uma forma sistematizada em termos de planeamento e execução, com recurso a princípios de genética quantitativa e molecular que, através da seleção eficaz dos animais geneticamente superiores, proporcione o progresso genético de uma ou várias características importantes para determinada raça;\n\np) «Registo fundador», o registo que permite inscrever animais adultos, ainda que a ascendência seja desconhecida, desde que, para além das respetivas caraterísticas morfológicas serem compatíveis com o padrão da raça, respeitem as normas do regulamento do livro genealógico;\n\nq) «Superfície agrícola», qualquer subparcela de terras aráveis, prados, pastagens ou culturas permanentes;\n\nr) «Superfície forrageira», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes, e superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio;\n\ns) «Valor genético», o valor de um indivíduo para determinado carácter, como reprodutor ou num programa de seleção."
+  },
+  "115364652": {
+   "fragment_id": "115366819",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar do apoio previsto na presente portaria as pessoas singulares ou coletivas, de natureza pública ou privada, que exerçam atividade agrícola."
+  },
+  "115364653": {
+   "fragment_id": "115366820",
+   "type": 11,
+   "heading": "Artigo 5.º — Duração dos compromissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Duração dos compromissos\n\n1 - A ação prevista na presente portaria destina-se a apoiar os beneficiários que se comprometam, de forma voluntária, a respeitar compromissos de natureza agroambiental durante um período de cinco anos.\n\n2 - O período referido no número anterior pode ser prorrogado, até um máximo de dois anos, mediante requerimento do beneficiário e decisão da autoridade de gestão.\n\n3 - Os compromissos produzem efeitos a partir de 1 de janeiro do ano da candidatura e prolongam-se até 31 de dezembro de cada ano."
+  },
+  "115364654": {
+   "fragment_id": "115366821",
+   "type": 11,
+   "heading": "Artigo 6.º — Condicionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condicionalidade\n\nOs beneficiários devem cumprir na exploração agrícola objeto de apoio os requisitos legais de gestão e as boas condições agrícolas e ambientais, em conformidade com os artigos 93.º e 94.º e o anexo II do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e com a correspondente legislação nacional."
+  },
+  "115364655": {
+   "fragment_id": "115366822",
+   "type": 11,
+   "heading": "Artigo 7.º — Lista de raças autóctones em risco de extinção e respetivo grau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Lista de raças autóctones em risco de extinção e respetivo grau\n\n1 - As raças autóctones objeto do apoio previsto na presente portaria e respetiva classificação quanto ao grau de risco de extinção constam do anexo I à presente portaria, da qual faz parte integrante.\n\n2 - Para efeitos do disposto no número anterior, o risco de extinção é graduado, por ordem decrescente, nos graus A, B e C."
+  },
+  "115364656": {
+   "fragment_id": "115366823",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios de elegibilidade\n\nOs candidatos ao apoio previsto na presente portaria, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem ser detentores de um efetivo pecuário que reúna cumulativamente as seguintes condições:\n\na) Seja constituído, pelo menos, por uma fêmea reprodutora explorada em linha pura, ou por um macho reprodutor, no caso de efetivos constituídos exclusivamente por um máximo de dois machos reprodutores;\n\nb) Pertença a raça autóctone prevista na lista constante do anexo I à presente portaria, da qual faz parte integrante;\n\nc) Esteja registado no respetivo livro genealógico ou registo fundador."
+  },
+  "115364657": {
+   "fragment_id": "115366824",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de seleção das candidaturas\n\n1 - As candidaturas ao apoio previsto na presente portaria são selecionadas pela seguinte ordem:\n\na) Candidaturas que integram maior número de CN pertencentes à raça autóctone de grau de risco de extinção A;\n\nb) Candidaturas que integram maior número de CN pertencentes à raça autóctone de grau de risco de extinção B;\n\nc) Candidaturas que integram maior número de CN pertencentes à raça autóctone de grau de risco de extinção C.\n\n2 - Os critérios de desempate são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, e no portal do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em www.ifap.pt, aquando da abertura de candidaturas ao Pedido Único (PU)."
+  },
+  "115364658": {
+   "fragment_id": "115366825",
+   "type": 11,
+   "heading": "Artigo 10.º — Compromissos dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Compromissos dos beneficiários\n\n1 - Para além do disposto no artigo 6.º, os beneficiários do apoio previsto na presente portaria, durante todo o período do compromisso, são obrigados a:\n\na) Manter os critérios de elegibilidade em cada ano do compromisso;\n\nb) Manter, durante o período de retenção para cada espécie, um efetivo pecuário de equídeos, bovinos, ovinos, caprinos, suínos, galináceos ou outras aves de capoeira, em pastoreio, do próprio ou de outrem, expressos em CN por hectare (ha), com um encabeçamento igual ou inferior a:\n\ni) 3 CN/ha de superfície agrícola, no caso de explorações com dimensão igual ou inferior a 2 ha de superfície agrícola;\n\nii) 2 CN/ha de superfície agrícola, no caso de explorações em zona de montanha com dimensão superior a 2 ha de superfície agrícola;\n\niii) 2 CN/ha de superfície forrageira, no caso de explorações nas restantes zonas com dimensão superior a 2 ha de superfície agrícola.\n\nc) Manter durante o período de retenção para cada espécie, o número de CN declaradas na candidatura;\n\nd) Manter fora do período de retenção, no mínimo, uma fêmea reprodutora explorada em linha pura ou um macho reprodutor, no caso de efetivos constituídos exclusivamente por um máximo de dois machos reprodutores;\n\ne) Participar nas ações decorrentes das atividades diretamente relacionadas com a execução de um programa de conservação genética animal ou de um programa de melhoramento genético animal, sempre que solicitado pela respetiva associação de criadores oficialmente reconhecida ou pela DGAV;\n\nf) Comunicar à entidade responsável pela gestão do livro genealógico ou registo fundador todas as alterações do efetivo pecuário, de forma a assegurar que os animais detidos a 31 de maio de cada ano estão em conformidade com os registos mantidos pela entidade gestora;\n\ng) Cumprir as normas constantes do livro genealógico ou registo fundador;\n\nh) Disponibilizar a recolha de material genético, quando solicitado pelo Banco Português de Germoplasma Animal.\n\n2 - Para efeitos de aplicação da alínea b) do número anterior, a tabela de conversão das espécies animais em CN consta do anexo II à presente portaria, da qual faz parte integrante.\n\n3 - Para efeitos de aplicação das subalíneas ii) e iii) da alínea b) do n.º 1, as zonas de montanha e restantes zonas são as definidas na Portaria n.º 22/2015, de 5 de fevereiro."
+  },
+  "115364659": {
+   "fragment_id": "115366826",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Forma do apoio\n\nO apoio previsto na presente portaria assume a forma de subvenção anual, não reembolsável."
+  },
+  "115364660": {
+   "fragment_id": "115366827",
+   "type": 11,
+   "heading": "Artigo 12.º — Montantes e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Montantes e limites do apoio\n\n1 - Os montantes anuais de apoio por CN de fêmeas reprodutoras exploradas em linha pura ou machos reprodutores são os constantes do anexo III à presente portaria, da qual faz parte integrante.\n\n2 - Para efeitos de cálculo do apoio às fêmeas reprodutoras, consideram-se apenas aquelas cujo intervalo entre partos de animais registados no livro genealógico ou registo fundador ou entre a inscrição no livro de adultos e o primeiro parto da mesma raça, seja igual ou inferior a:\n\na) 36 meses, nos equídeos;\n\nb) 24 meses, nos bovinos;\n\nc) 18 meses, nos ovinos e caprinos;\n\nd) 16 meses, nos suínos.\n\n3 - O disposto no número anterior não é aplicável às fêmeas reprodutoras da raça equina Sorraia.\n\n4 - O montante de apoio à fêmea reprodutora é o dobro do previsto no n.º 1 aquando da inscrição da primeira cria no livro de nascimentos, nos casos da espécie bovina e dos equídeos, se cada um destes efetivos reprodutores presentes na exploração for inferior a 10 CN."
+  },
+  "115364661": {
+   "fragment_id": "115366828",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento"
+  },
+  "115364662": {
+   "fragment_id": "115366829",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação das candidaturas\n\n1 - As candidaturas ao apoio previsto na presente portaria são submetidas eletronicamente através do formulário relativo ao PU, disponível no portal do IFAP, I. P., em www.ifap.pt, ou no portal do Portugal 2020, em www.portugal2020.pt.\n\n2 - O Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a efetuar pelo IFAP, I. P., aprovado em anexo à Portaria n.º 86/2011, de 25 de fevereiro, em conformidade com o Sistema Integrado de Gestão e Controlo (SIGC) previsto nos artigos 67.º e seguintes do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, é aplicável às candidaturas apresentadas no âmbito da presente portaria."
+  },
+  "115364663": {
+   "fragment_id": "115366830",
+   "type": 11,
+   "heading": "Artigo 14.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Análise e decisão das candidaturas\n\n1 - As candidaturas são analisadas pelo IFAP, I. P., de acordo com os critérios de elegibilidade previstos no artigo 8.º\n\n2 - As candidaturas são aprovadas pela autoridade de gestão de acordo com os critérios de seleção previstos nos artigos 9.º e com a dotação orçamental deste regime de apoio.\n\n3 - A decisão é comunicada pelo IFAP, I. P., aos beneficiários na área reservada do respetivo portal, em www.ifap.pt.\n\n4 - O termo de aceitação é autenticado com a submissão da candidatura."
+  },
+  "115364664": {
+   "fragment_id": "115366831",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pagamento\n\n1 - Os pedidos de pagamento são submetidos em simultâneo com a candidatura ao PU do ano a que respeita o pagamento, competindo ao IFAP, I. P., proceder ao pagamento anual do apoio.\n\n2 - O pagamento é efetuado após conclusão dos controlos administrativos e in loco, podendo ser paga uma parte do apoio após a conclusão dos controlos administrativos nos termos do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, bem como do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, e do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014.\n\n3 - A não apresentação de pedido de pagamento referido no n.º 1 determina o não pagamento do apoio no ano em causa, sem prejuízo do disposto na alínea b) do n.º 2 do artigo 19.º e da obrigatoriedade de manutenção dos critérios de elegibilidade e dos compromissos assumidos."
+  },
+  "115364665": {
+   "fragment_id": "115366832",
+   "type": 1,
+   "heading": "Capítulo III — Alteração, extinção, transmissão, redução e exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Alteração, extinção, transmissão, redução e exclusão"
+  },
+  "115364666": {
+   "fragment_id": "115366833",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração da candidatura\n\n1 - Os beneficiários do apoio previsto na presente portaria podem, aquando da apresentação do pedido de pagamento anual, proceder ao aumento do efetivo pecuário objeto de apoio, desde que se encontrem reunidos os critérios de elegibilidade.\n\n2 - Salvo o disposto no número seguinte, os beneficiários podem, aquando da apresentação do pedido de pagamento anual, sem lugar à devolução dos apoios já recebidos, proceder à redução do efetivo pecuário objeto de apoio até ao limite máximo de 25 % do efetivo sob compromisso.\n\n3 - Caso o efetivo pecuário objeto de apoio seja inferior a quatro CN, pode o mesmo ser reduzido em 50 %.\n\n4 - Os beneficiários podem ainda proceder à redução do efetivo pecuário no pedido de pagamento anual, sem lugar à devolução dos apoios já recebidos, nos seguintes casos, desde que comunicados até 15 dias úteis após a ocorrência:\n\na) Sujeição de parte da exploração agrícola a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março;\n\nb) Expropriação de toda ou uma parte significativa da exploração agrícola, se essa expropriação não era previsível na data em que o compromisso foi assumido;\n\nc) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície agrícola da exploração ou do efetivo pecuário;\n\nd) Destruição parcial ou total de instalações pecuárias não imputável ao beneficiário;\n\ne) Epizootia que afete parte dos efetivos ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem de incúria do beneficiário;\n\nf) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou do rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível cumprir o compromisso de manter os animais objeto de apoio nem proceder à sua substituição."
+  },
+  "115364667": {
+   "fragment_id": "115366834",
+   "type": 11,
+   "heading": "Artigo 17.º — Extinção dos compromissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Extinção dos compromissos\n\n1 - Os compromissos assumidos extinguem-se, sem devolução dos apoios, nos casos de sujeição da exploração agrícola a emparcelamento integral ou intervenção pública de ordenamento fundiário similar, nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, desde que não seja possível a alteração da candidatura nos termos do n.º 4 do artigo anterior.\n\n2 - Sem prejuízo dos casos referidos no número anterior, os compromissos assumidos extinguem-se ainda, sem devolução dos apoios, nomeadamente nas seguintes situações de força maior:\n\na) Morte do beneficiário;\n\nb) Incapacidade profissional do beneficiário superior a três meses;\n\nc) Morte ou incapacidade profissional superior a três meses do cônjuge ou de outro membro do agregado familiar que coabite com o beneficiário, cujo trabalho na exploração represente parte significativa do trabalho total empregue na mesma, no caso de explorações familiares;\n\nd) Expropriação de toda ou uma parte significativa da exploração agrícola, se essa expropriação não era previsível na data em que o compromisso foi assumido;\n\ne) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície agrícola da exploração ou do efetivo pecuário;\n\nf) Destruição das instalações pecuárias não imputáveis ao beneficiário;\n\ng) Epizootia que afete a totalidade ou parte dos efetivos ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem de incúria do beneficiário;\n\nh) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou do rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível cumprir o compromisso de manter os animais objeto de apoio nem proceder à sua substituição.\n\n3 - Os casos de força maior e os respetivos comprovativos devem ser comunicados ao IFAP, I. P., pelo beneficiário ou pelo seu representante, por escrito e no prazo de 15 dias úteis a contar da data da ocorrência, podendo aquele prazo ser ultrapassado, desde que devidamente justificado e aceite pelo IFAP, I. P.\n\n4 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido aos casos referidos no n.os 1 e 2, mantém o direito à totalidade do pagamento do ano em que o facto ocorreu, desde que tenha sido apresentado o respetivo pedido de pagamento.\n\n5 - No caso de alteração das normas ou regras obrigatórias, nos termos do artigo 48.º do Regulamento (UE) n.º 1305/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, o beneficiário pode não aceitar a correspondente adaptação dos compromissos assumidos, cessando estes sem ser exigida devolução relativamente ao período em que os compromissos tenham sido cumpridos."
+  },
+  "115364668": {
+   "fragment_id": "115366835",
+   "type": 11,
+   "heading": "Artigo 18.º — Transmissão do efetivo pecuário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Transmissão do efetivo pecuário\n\n1 - Sem prejuízo do disposto nos n.os 4 e 5, o beneficiário pode, sem que haja lugar à devolução dos apoios, transmitir a totalidade ou parte do efetivo pecuário objeto de apoio durante o período de compromisso, e fora do período de retenção, salvo se este último tiver duração anual.\n\n2 - No caso previsto no número anterior, o novo titular pode, caso assim o entenda, assumir os compromissos respetivos pelo período remanescente, desde que se encontrem reunidos os critérios de elegibilidade.\n\n3 - A transmissão de parte do efetivo pecuário sujeito a compromisso obriga à correspondente alteração da candidatura, aquando da apresentação do pedido de pagamento anual, nos termos do disposto no n.º 1 do artigo 16.º\n\n4 - Caso um beneficiário transmita a sua titularidade está impedido, nesse mesmo ano, de aceitar a titularidade de outrem, para o mesmo compromisso.\n\n5 - No período de prolongamento, não são permitidas transferências de compromisso."
+  },
+  "115364669": {
+   "fragment_id": "115366836",
+   "type": 11,
+   "heading": "Artigo 19.º — Reduções ou exclusões do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reduções ou exclusões do apoio\n\n1 - Sem prejuízo do disposto no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, são aplicáveis as reduções e as exclusões previstas nos números seguintes.\n\n2 - É determinada a devolução total do apoio e a correspondente extinção do compromisso, nos seguintes casos:\n\na) Incumprimento de qualquer critério de elegibilidade;\n\nb) Não apresentação de pedido de pagamento em dois anos consecutivos.\n\n3 - O incumprimento dos requisitos relativos à condicionalidade previstos no artigo 6.º, determina a redução do montante do apoio nos termos da legislação comunitária e nacional aplicável.\n\n4 - O incumprimento dos compromissos dos beneficiários e respetivas reduções ou exclusões do apoio, são objeto de diploma próprio, a aprovar no prazo de 45 dias a contar da data de publicação da presente portaria."
+  },
+  "115364670": {
+   "fragment_id": "115366837",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "115364671": {
+   "fragment_id": "115366838",
+   "type": 11,
+   "heading": "Artigo 20.º — Transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transição\n\n1 - O disposto na presente portaria é aplicável aos compromissos assumidos em 2011, no âmbito da ação n.º 2.2.2, designada «Proteção da biodiversidade doméstica», ao abrigo do regulamento anexo à Portaria n.º 229-B/2008, de 6 de março, com última redação dada pela Portaria n.º 19/2014, de 29 de janeiro, até ao termo da duração dos mesmos, desde que o efetivo pecuário objeto de apoio não sofra uma redução superior a 10 % e seja apresentado o respetivo pedido de pagamento no PU de 2015.\n\n2 - A falta de apresentação do pedido de pagamento referido no número anterior, no PU de 2015, determina a cessação dos compromissos previstos no n.º 1, sem devolução dos apoios recebidos."
+  },
+  "115364672": {
+   "fragment_id": "115366839",
+   "type": 11,
+   "heading": "Artigo 21.º — Encabeçamento máximo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Encabeçamento máximo\n\nDe modo a permitir a adaptação ao limite de encabeçamento máximo, por se tratar de uma raça de pastoreio itinerante, no ano de 2015, o compromisso previsto na alínea b) do artigo 10.º não é aplicável à raça Serrana, da espécie caprina."
+  },
+  "115364673": {
+   "fragment_id": "115366840",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115374575": {
+   "fragment_id": "115366842",
+   "type": 14,
+   "heading": "Anexo I — Lista de raças autóctones e classificação quanto ao grau de risco de extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Lista de raças autóctones e classificação quanto ao grau de risco de extinção\n\n(a que se refere o n.º 1 do artigo 7.º)\n\n(ver documento original)"
+  },
+  "115374576": {
+   "fragment_id": "115366843",
+   "type": 14,
+   "heading": "Anexo II — Tabela de conversão em cabeças normais (CN)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Tabela de conversão em cabeças normais (CN)\n\n(a que se refere o n.º 2 do artigo 10.º)\n\n(ver documento original)"
+  },
+  "115374577": {
+   "fragment_id": "115366844",
+   "type": 14,
+   "heading": "Anexo III — Montantes do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Montantes do apoio\n\n(a que se refere o n.º 1 do artigo 12.º)\n\n(ver documento original)"
+  },
+  "115374578": {
+   "fragment_id": "115366827",
+   "type": 11,
+   "heading": "Artigo 12.º — Montantes e limites do apoio",
+   "in_force_from": "2015-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+   ],
+   "markdown": "###### Artigo 12.º — Montantes e limites do apoio\n\n1 - Os montantes anuais de apoio por CN de fêmeas reprodutoras exploradas em linha pura ou machos reprodutores são os constantes do anexo III à presente portaria, da qual faz parte integrante.\n\n2 - Consideram-se, para efeitos de cálculo do apoio às fêmeas reprodutoras, aquelas que se encontrem inscritas no livro de adultos:\n\na) Com pelo menos um filho registado no Livro de Nascimentos e nascido:\n\ni) Nos últimos 36 meses, no caso dos equídeos;\n\nii) Nos últimos 24 meses, no caso dos bovinos;\n\niii) Nos últimos 18 meses, no caso dos ovinos e caprinos;\n\niv) Nos últimos 16 meses, no caso dos suínos;\n\nb) Que ainda não se reproduziram e que tenham idade compreendida entre:\n\ni) Mais de 18 meses e menos de 54 meses registados no livro genealógico ou registo fundador, no caso dos equídeos;\n\nii) Mais de 12 meses e menos de 36 meses registados no livro genealógico ou registo fundador, no caso dos bovinos;\n\niii) Mais de 12 meses e menos de 27 meses registados no livro genealógico ou registo fundador, no caso dos ovinos e caprinos;\n\niv) Mais de 6 meses e menos de 24 meses registados no livro genealógico ou registo fundador, no caso dos suínos.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21"
+  },
+  "115364674": {
+   "fragment_id": "115366841",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 20 de fevereiro de 2015."
+  },
+  "115374579": {
+   "fragment_id": "115366833",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração da candidatura",
+   "in_force_from": "2016-01-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2016-01-19, produz efeitos a partir de 2015-02-10"
+   ],
+   "markdown": "###### Artigo 16.º — Alteração da candidatura\n\n1 - [Revogado].\n\n2 - Salvo o disposto no número seguinte, os beneficiários podem, aquando da apresentação do pedido de pagamento anual, sem lugar à devolução dos apoios já recebidos, proceder à redução do efetivo pecuário objeto de apoio até ao limite máximo de 25 % do efetivo sob compromisso.\n\n3 - Caso o efetivo pecuário objeto de apoio seja inferior a quatro CN, pode o mesmo ser reduzido em 50 %.\n\n4 - Os beneficiários podem ainda proceder à redução do efetivo pecuário no pedido de pagamento anual, sem lugar à devolução dos apoios já recebidos, nos seguintes casos, desde que comunicados até 15 dias úteis após a ocorrência:\n\na) Sujeição de parte da exploração agrícola a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março;\n\nb) Expropriação de toda ou uma parte significativa da exploração agrícola, se essa expropriação não era previsível na data em que o compromisso foi assumido;\n\nc) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície agrícola da exploração ou do efetivo pecuário;\n\nd) Destruição parcial ou total de instalações pecuárias não imputável ao beneficiário;\n\ne) Epizootia que afete parte dos efetivos ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem de incúria do beneficiário;\n\nf) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou do rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível cumprir o compromisso de manter os animais objeto de apoio nem proceder à sua substituição.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2016-01-19, produz efeitos a partir de 2015-02-10"
+  },
+  "115374585": {
+   "fragment_id": "115366839",
+   "type": 11,
+   "heading": "Artigo 21.º — Encabeçamento máximo",
+   "in_force_from": "2016-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154-A/2016 - Diário da República n.º 104/2016, 1º Suplemento, Série I de 2016-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-2016-74590178), em vigor a partir de 2016-06-01, produz efeitos a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Encabeçamento máximo\n\nDe modo a permitir a adaptação ao limite de encabeçamento máximo, por se tratar de uma raça de pastoreio itinerante, no ano de 2016, o compromisso previsto na alínea b) do artigo 10.º não é aplicável à raça Serrana, da espécie caprina.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154-A/2016 - Diário da República n.º 104/2016, 1º Suplemento, Série I de 2016-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-2016-74590178), em vigor a partir de 2016-06-01, produz efeitos a partir de 2016-01-01"
+  },
+  "115374586": {
+   "fragment_id": "115366818",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Animais em pastoreio» ou «efetivo pecuário em pastoreio», os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;\n\nb) «Avaliação genética», a determinação do valor genético de um animal para uma ou várias características de acordo com os métodos aprovados pela Direção-Geral de Alimentação e Veterinária (DGAV);\n\nc) «Banco de germoplasma», a instalação constituída com o fim de preservar o património genético nacional, através da armazenagem de material genético, designadamente sémen, embriões, oócitos, células somáticas e ADN, proveniente de exemplares inscritos no livro genealógico ou registo fundador da raça respetiva e obtido com o consentimento do proprietário do animal, em quantidade e qualidade suficiente para garantir as finalidades que se pretendam, incluindo uso posterior à vida do próprio indivíduo;\n\nd) «Cabeça normal (CN)», a unidade padrão de equivalência usada para comparar e agregar números de animais de diferentes espécies ou categorias, tendo em consideração a espécie animal, a idade, o peso vivo e a vocação produtiva, relativamente às necessidades alimentares e à produção de efluentes pecuários;\n\ne) «Caraterização genética», a avaliação das características genéticas do animal ou de uma população, nomeadamente através de marcadores genéticos ou através de análise demográfica, de forma a estimar diversos parâmetros relacionados com a variabilidade genética, bem como a relação genética entre indivíduos ou entre e dentro das populações;\n\nf) «Conservação ex situ», a conservação de material genético animal ou de animais fora do ambiente natural ou zona de produção;\n\ng) «Conservação in situ», a conservação ou manutenção de animais no seu ambiente natural ou zona de produção;\n\nh) «Exploração agrícola», o conjunto de parcelas ou animais utilizados para atividades agrícolas, submetidos a uma gestão única;\n\ni) «Fêmeas reprodutoras exploradas em linha pura», as fêmeas que estejam inscritas no livro de adultos como reprodutoras da raça e o último parto seja de uma cria ou ninhada inscrita no livro genealógico ou registo fundador, ou que, não tendo ainda reproduzido, já estejam inscritas no livro de adultos e possuam, no início dos períodos de retenção definidos na alínea l), pelo menos, 12 meses para os equídeos, bovinos, ovinos e caprinos, e 6 meses para os suínos, galináceos e outras aves de capoeira;\n\nj) «Livro genealógico», o registo que tem por fim assegurar a identidade e preservação genética de uma raça, bem como concorrer para a sua promoção e melhoramento genético, favorecendo a difusão de reprodutores geneticamente superiores, devendo a inscrição dos animais, cuja ascendência é obrigatoriamente conhecida, obedecer aos respetivos regulamentos;\n\nk) «Machos reprodutores», os machos que estejam inscritos no livro de adultos como reprodutores da raça;\n\nl) 'Período de retenção', o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de janeiro e 30 de abril de cada ano, para os bovinos, ovinos e caprinos e 1 de janeiro e 31 de dezembro, para o restante efetivo;\n\nm) «Prados e pastagens permanentes», as superfícies ocupadas com erva ou outras forrageiras herbáceas, quer semeadas quer espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração e as superfícies ocupadas com vegetação arbustiva;\n\nn) «Programa de conservação genética animal», o conjunto de ações devidamente planeadas e desenvolvidas de forma sistematizada, desde a recolha de dados genealógicos e produtivos, práticas reprodutivas, delineamento de acasalamentos, utilização de biotecnologias, recolha e preservação de material genético, bem como o tratamento e processamento de informação, com vista a promover a conservação da variabilidade genética de uma raça, ex situ, no banco de germoplasma animal, e in situ, nos locais de exploração;\n\no) «Programa de melhoramento genético animal», o conjunto de ações devidamente estruturadas e desenvolvidas de uma forma sistematizada em termos de planeamento e execução, com recurso a princípios de genética quantitativa e molecular que, através da seleção eficaz dos animais geneticamente superiores, proporcione o progresso genético de uma ou várias características importantes para determinada raça;\n\np) «Registo fundador», o registo que permite inscrever animais adultos, ainda que a ascendência seja desconhecida, desde que, para além das respetivas caraterísticas morfológicas serem compatíveis com o padrão da raça, respeitem as normas do regulamento do livro genealógico;\n\nq) «Superfície agrícola», qualquer subparcela de terras aráveis, prados, pastagens ou culturas permanentes;\n\nr) «Superfície forrageira», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes, e superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio;\n\ns) «Valor genético», o valor de um indivíduo para determinado carácter, como reprodutor ou num programa de seleção.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+  },
+  "115374587": {
+   "fragment_id": "115366825",
+   "type": 11,
+   "heading": "Artigo 10.º — Compromissos dos beneficiários",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Compromissos dos beneficiários\n\n1 - Para além do disposto no artigo 6.º, os beneficiários do apoio previsto na presente portaria, durante todo o período do compromisso, são obrigados a:\n\na) Manter os critérios de elegibilidade em cada ano do compromisso;\n\nb) Manter, em cada ano do compromisso, durante o período de retenção para cada espécie, exceto para a raça caprina Serrana, a exploração com um nível de encabeçamento de equídeos, bovinos, ovinos, caprinos, suínos, galináceos ou outras aves de capoeira, em pastoreio, do próprio ou de outrem, expressos em CN por hectare (ha), igual ou inferior a:\n\ni) 3 CN/ha de superfície agrícola, no caso de explorações com dimensão igual ou inferior a 2 ha de superfície agrícola;\n\nii) 2 CN/ha de superfície agrícola, no caso de explorações em zona de montanha com dimensão superior a 2 ha de superfície agrícola;\n\niii) 2 CN/ha de superfície forrageira, no caso de explorações nas restantes zonas com dimensão superior a 2 ha de superfície agrícola.\n\nc) Manter durante o período de retenção para cada espécie, o número de CN declaradas na candidatura;\n\nd) Manter fora do período de retenção, no mínimo, uma fêmea reprodutora explorada em linha pura ou um macho reprodutor, no caso de efetivos constituídos exclusivamente por um máximo de dois machos reprodutores;\n\ne) Participar nas ações decorrentes das atividades diretamente relacionadas com a execução de um programa de conservação genética animal ou de um programa de melhoramento genético animal, sempre que solicitado pela respetiva associação de criadores oficialmente reconhecida ou pela DGAV;\n\nf) Comunicar à entidade responsável pela gestão do livro genealógico ou registo fundador todas as alterações do efetivo pecuário, de forma a assegurar que os animais detidos até 30 de abril de cada ano estão em conformidade com os registos mantidos pela entidade gestora;\n\ng) Cumprir as normas constantes do livro genealógico ou registo fundador;\n\nh) Disponibilizar a recolha de material genético, quando solicitado pelo Banco Português de Germoplasma Animal.\n\n2 - Para efeitos de aplicação da alínea b) do número anterior, a tabela de conversão das espécies animais em CN consta do anexo II à presente portaria, da qual faz parte integrante.\n\n3 - Para efeitos de aplicação das subalíneas ii) e iii) da alínea b) do n.º 1, as zonas de montanha e restantes zonas são as definidas na Portaria n.º 22/2015, de 5 de fevereiro.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+  },
+  "115374589": {
+   "fragment_id": "115366839",
+   "type": 11,
+   "heading": "Artigo 21.º — Encabeçamento máximo",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154-A/2016 - Diário da República n.º 104/2016, 1º Suplemento, Série I de 2016-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-2016-74590178), em vigor a partir de 2016-06-01, produz efeitos a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Encabeçamento máximo\n\nDe modo a permitir a adaptação ao limite de encabeçamento máximo, por se tratar de uma raça de pastoreio itinerante, no ano de 2016, o compromisso previsto na alínea b) do artigo 10.º não é aplicável à raça Serrana, da espécie caprina.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154-A/2016 - Diário da República n.º 104/2016, 1º Suplemento, Série I de 2016-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/154-a-2016-74590178), em vigor a partir de 2016-06-01, produz efeitos a partir de 2016-01-01"
+  },
+  "115374588": {
+   "fragment_id": "115366842",
+   "type": 14,
+   "heading": "Anexo I — Lista de raças autóctones e classificação quanto ao grau de risco de extinção",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "## Anexo I — Lista de raças autóctones e classificação quanto ao grau de risco de extinção\n\n(a que se refere o n.º 1 do artigo 7.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2017-01-01"
+  },
+  "115374596": {
+   "fragment_id": "115366829",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação das candidaturas",
+   "in_force_from": "2017-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02"
+   ],
+   "markdown": "###### Artigo 13.º — Apresentação das candidaturas\n\n1 - As candidaturas ao apoio previsto na presente portaria são submetidas eletronicamente através do formulário relativo ao PU, disponível no portal do IFAP, I. P., em www.ifap.pt, ou no portal do Portugal 2020, em www.portugal2020.pt.\n\n2 - O Regulamento de candidatura e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), aprovado em anexo à Portaria n.º 58/2017, de 6 de fevereiro, em conformidade com o Sistema Integrado de Gestão e Controlo (SIGC) previsto nos artigos 67.º e seguintes do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, é aplicável às candidaturas apresentadas no âmbito da presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02"
+  },
+  "115374597": {
+   "fragment_id": "115366833",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração da candidatura",
+   "in_force_from": "2017-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2016-01-19, produz efeitos a partir de 2015-02-10"
+   ],
+   "markdown": "###### Artigo 16.º — Alteração da candidatura\n\n1 - (Revogado.)\n\n2 - Salvo o disposto no número seguinte, os beneficiários podem, aquando da apresentação do pedido de pagamento anual, sem lugar à devolução dos apoios já recebidos, proceder à redução do efetivo pecuário objeto de apoio até ao limite máximo de 25 % do efetivo sob compromisso.\n\n3 - Caso o efetivo pecuário objeto de apoio seja inferior a quatro CN, pode o mesmo ser reduzido em 50 %.\n\n4 - Os beneficiários podem ainda proceder à redução total ou parcial do efetivo pecuário no pedido de pagamento anual, sem devolução dos apoios já recebidos, quando não seja possível cumprir o compromisso de manter os animais objeto de apoio nem proceder à sua substituição, nas seguintes situações e desde que comunicado nos prazos estipulados na Portaria n.º 58/2017, de 6 de fevereiro:\n\na) Sujeição de parte da exploração agrícola a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março;\n\nb) Expropriação de toda ou uma parte significativa da exploração agrícola, se essa expropriação não era previsível na data em que o compromisso foi assumido;\n\nc) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície agrícola da exploração ou do efetivo pecuário;\n\nd) Destruição parcial ou total de instalações pecuárias não imputável ao beneficiário;\n\ne) Epizootia que afete parte dos efetivos ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem de incúria do beneficiário;\n\nf) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou do rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário.\n\n5 - Os beneficiários que à data da apresentação do pedido de pagamento tenham termo de aceitação assinado na Ação n.º 3.1, «Jovens Agricultores», do PDR 2020 podem, aquando da sua apresentação, proceder ao aumento do efetivo pecuário objeto de apoio, desde que estejam reunidos os critérios de elegibilidade.\n\n6 - O disposto no número anterior não se aplica aos beneficiários que tenham transmitido total ou parcialmente o compromisso previsto na alínea c) do n.º 1 do artigo 10.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2016-01-19, produz efeitos a partir de 2015-02-10"
+  },
+  "115374598": {
+   "fragment_id": "115366834",
+   "type": 11,
+   "heading": "Artigo 17.º — Extinção dos compromissos",
+   "in_force_from": "2017-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02"
+   ],
+   "markdown": "###### Artigo 17.º — Extinção dos compromissos\n\n1 - Os compromissos assumidos extinguem-se, sem devolução dos apoios, nos casos de sujeição da exploração agrícola a emparcelamento integral ou intervenção pública de ordenamento fundiário similar, nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, desde que não seja possível a alteração da candidatura nos termos do n.º 4 do artigo anterior.\n\n2 - Sem prejuízo dos casos referidos no número anterior, os compromissos assumidos extinguem-se ainda, sem devolução dos apoios, quando não seja possível cumprir o compromisso de manter os animais objeto de apoio nem proceder à sua substituição, nomeadamente nas seguintes situações de força maior:\n\na) Morte do beneficiário;\n\nb) Incapacidade profissional do beneficiário superior a três meses;\n\nc) Morte ou incapacidade profissional superior a três meses do cônjuge ou de outro membro do agregado familiar que coabite com o beneficiário, cujo trabalho na exploração represente parte significativa do trabalho total empregue na mesma, no caso de explorações familiares;\n\nd) Expropriação de toda ou uma parte significativa da exploração agrícola, se essa expropriação não era previsível na data em que o compromisso foi assumido;\n\ne) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície agrícola da exploração ou do efetivo pecuário;\n\nf) Destruição das instalações pecuárias não imputáveis ao beneficiário;\n\ng) Epizootia que afete a totalidade ou parte dos efetivos ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem de incúria do beneficiário;\n\nh) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou do rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário.\n\n3 - Os casos de força maior e os respetivos comprovativos devem ser comunicados ao IFAP, I. P., pelo beneficiário ou pelo seu representante, por escrito e no prazo de 15 dias úteis a contar da data da ocorrência, podendo aquele prazo ser ultrapassado, desde que devidamente justificado e aceite pelo IFAP, I. P.\n\n4 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido aos casos referidos no n.os 1 e 2, mantém o direito à totalidade do pagamento do ano em que o facto ocorreu, desde que tenha sido apresentado o respetivo pedido de pagamento.\n\n5 - No caso de alteração das normas ou regras obrigatórias, nos termos do artigo 48.º do Regulamento (UE) n.º 1305/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, o beneficiário pode não aceitar a correspondente adaptação dos compromissos assumidos, cessando estes sem ser exigida devolução relativamente ao período em que os compromissos tenham sido cumpridos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02"
+  },
+  "115374599": {
+   "fragment_id": "115366835",
+   "type": 11,
+   "heading": "Artigo 18.º — Transmissão do compromisso",
+   "in_force_from": "2017-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02"
+   ],
+   "markdown": "###### Artigo 18.º — Transmissão do compromisso\n\n1 - Sem prejuízo do disposto nos n.os 4 e 5, o beneficiário pode, sem que haja lugar à devolução dos apoios, transmitir a totalidade ou parte do compromisso, com ou sem o efetivo pecuário, durante o período de compromisso, e fora do período de retenção, salvo se este último tiver duração anual.\n\n2 - No caso previsto no número anterior:\n\na) Se a transmissão for acompanhada de efetivo pecuário, o novo titular pode, caso assim o entenda, assumir os compromissos respetivos para o período remanescente desde que se encontrem reunidos os critérios de elegibilidade;\n\nb) Se a transmissão não for acompanhada de efetivo pecuário, o novo titular assume os respetivos compromissos pelo período remanescente;\n\n3 - A transmissão do compromisso obriga à correspondente alteração da candidatura, aquando da apresentação do pedido de pagamento anual.\n\n4 - Caso um beneficiário transmita a sua titularidade está impedido, nesse mesmo ano, de aceitar a titularidade de outrem, para o mesmo compromisso.\n\n5 - No período de prolongamento, não são permitidas transferências de compromisso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02"
+  },
+  "115374600": {
+   "fragment_id": "115366858",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Novos compromissos",
+   "in_force_from": "2017-03-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02"
+   ],
+   "markdown": "###### Artigo 21.º-A — Novos compromissos\n\nExcecionalmente, e sem prejuízo do disposto no artigo 48.º do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, nos anos de 2017 a 2019, as pessoas singulares ou coletivas de natureza privada que exerçam a atividade agrícola e que à data da apresentação das candidaturas ao apoio objeto da presente portaria tenham termo de aceitação assinado na Ação n.º 3.1, «Jovens Agricultores» do PDR 2020, podem submeter candidaturas ao presente apoio, desde que não tenham transmitido total ou parcialmente o compromisso previsto na alínea c) do n.º 1 do artigo 10.º\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02"
+  },
+  "115374601": {
+   "fragment_id": "115366840",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115374602": {
+   "fragment_id": "115366833",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração da candidatura",
+   "in_force_from": "2018-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-05-22, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2016-01-19, produz efeitos a partir de 2015-02-10"
+   ],
+   "markdown": "###### Artigo 16.º — Alteração da candidatura\n\n1 - (Revogado.)\n\n2 - Salvo o disposto no número seguinte, os beneficiários podem, aquando da apresentação do pedido de pagamento anual, sem lugar à devolução dos apoios já recebidos, proceder à redução do efetivo pecuário objeto de apoio até ao limite máximo de 25 % do efetivo sob compromisso.\n\n3 - Caso o efetivo pecuário objeto de apoio seja inferior a quatro CN, pode o mesmo ser reduzido em 50 %.\n\n4 - Os beneficiários podem ainda proceder à redução total ou parcial do efetivo pecuário no pedido de pagamento anual, sem devolução dos apoios já recebidos, quando não seja possível cumprir o compromisso de manter os animais objeto de apoio nem proceder à sua substituição, nas seguintes situações e desde que comunicado nos prazos estipulados na Portaria n.º 58/2017, de 6 de fevereiro:\n\na) Sujeição de parte da exploração agrícola a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março;\n\nb) Expropriação de toda ou uma parte significativa da exploração agrícola, se essa expropriação não era previsível na data em que o compromisso foi assumido;\n\nc) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície agrícola da exploração ou do efetivo pecuário;\n\nd) Destruição parcial ou total de instalações pecuárias não imputável ao beneficiário;\n\ne) Epizootia que afete parte dos efetivos ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem de incúria do beneficiário;\n\nf) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou do rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário.\n\n5 - Os beneficiários que à data da apresentação do pedido de pagamento tenham termo de aceitação assinado na Ação n.º 3.1, «Jovens Agricultores», do PDR 2020 podem, aquando da sua apresentação, proceder ao aumento do efetivo pecuário objeto de apoio, desde que estejam reunidos os critérios de elegibilidade.\n\n6 - O disposto no número anterior não se aplica aos beneficiários que tenham transmitido total ou parcialmente o compromisso previsto na alínea c) do n.º 1 do artigo 10.º\n\n7 - Os beneficiários que pretendam repor o efetivo reduzido na sequência de situações de seca extrema ou severa, ou demais calamidades reconhecidas pelas autoridades nacionais competentes, podem proceder ao respetivo aumento de efetivo pecuário, expresso em CN.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-05-22, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2017 - Diário da República n.º 43/2017, Série I de 2017-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/90-2017-106531325), em vigor a partir de 2017-03-02\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2016-01-19, produz efeitos a partir de 2015-02-10"
+  }
+ }
+}

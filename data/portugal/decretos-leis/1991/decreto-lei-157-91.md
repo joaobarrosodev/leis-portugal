@@ -1,0 +1,289 @@
+---
+schema_version: '1.0'
+id: pt:dre:598333:por
+title: Decreto-Lei n.º 157/91
+short_title: null
+summary: Reestrutura a Direcção-Geral da Comunicação Social (revoga os Decretos-Leis n.os 420/82, de 12 de Outubro, e 390/84,
+  de 12 de Dezembro)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 157/91
+official_date: null
+publication_date: '1991-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/1991, Série I-A de 1991-04-24
+  number: '95'
+  series: I
+  supplement: null
+  pages: 2328 - 2330
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/04/095a00/23282330.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/157/1991/04/24/p/dre/pt/html
+  oj: null
+  dre: '598333'
+  dre_path: /dr/detalhe/decreto-lei/157-1991-598333
+  internal: pt:dre:598333:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1991-598333
+  metadata_url: https://data.dre.pt/eli/dec-lei/157/1991/04/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1991-598333
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:07:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 671eb6516bfa4a577c510194de9fdc74dfc84a052c0cbfc1ba9fe32805612d61
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Administrativo
+- Definição de Competências
+- Direcção Geral da Comunicação Social
+- Direcção Geral de Divulgação
+- Diretor Geral
+- Orgânica
+- Reestruturação de Serviços
+- Subdirector Geral
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:198546:por
+  label: "Extinta a Direcção Geral da Comunicação Social, criada pelo Dec Lei 420/82 de 12-Out, e reestruturada pelo presente\
+    \ diploma, pelo DEC LEI.48/92.1992.04.07.PCM, DR.IS-A [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1992-198546
+  date: '1992-04-07'
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401365:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:07:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 157/91
+
+de 24 de Abril
+
+No seguimento das medidas que o Governo vem tomando com vista à melhoria da qualidade dos serviços prestados pela administração central e à racionalização dos recursos humanos que a mesma utiliza, torna-se urgente proceder à reestruturação da Direcção-Geral da Comunicação Social.
+
+A nova estrutura orgânica, que se pretende mais leve e flexível, permite realizar eficazmente as tarefas de tratamento e difusão da informação oficial, para o que se liberta este organismo de atribuições que estão já cometidas a outros serviços.
+
+As novas tarefas exigidas à Direcção-Geral da Comunicação Social, reclamadas por alterações significativas ocorridas na comunicação social, de que são exemplos a abertura da televisão à iniciativa privada e a entrada em vigor do novo Código da Publicidade, conferem-lhe considerável relevância na modernização do sector, sensibilizando os órgãos da comunicação social e os seus agentes para os desafios das novas tecnologias da inovação e do desenvolvimento.
+
+Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - É reestruturada pelo presente diploma a Direcção-Geral da Comunicação Social, adiante designada DGCS.
+
+2 - A DGCS é um serviço dotado de autonomia administrativa.
+
+###### Artigo 2.º — Atribuições
+
+1 - A DGCS tem por atribuições gerais promover a recolha, o tratamento e a difusão da informação oficial, divulgando interna e externamente os factos mais relevantes da vida nacional, e zelar pelo cumprimento das exigências impostas pela lei na área da comunicação social.
+
+2 - Na prossecução das suas atribuições cabe à DGCS:
+
+a) Recolher o noticiário oficial e difundi-lo junto dos órgãos de comunicação social, com especial incidência junto da imprensa regional e das rádios locais e regionais;
+
+b) Realizar as acções e dar execução às medidas respeitantes aos apoios técnico, material e financeiro, à comunicação social e à formação profissional;
+
+c) Actuar na assistência aos jornalistas em geral e apoiar os correspondentes estrangeiros acreditados no País;
+
+d) Coordenar os contactos com entidades oficiais formulados por jornalistas nacionais e estrangeiros;
+
+e) Preparar e estruturar as acções de informação e de publicidade promovidas pela administração central e coordenar o lançamento das respectivas campanhas;
+
+f) Editar publicações e apoiar a produção editorial de outros departamentos públicos;
+
+g) Elaborar estudos respeitantes à comunicação social, promover a execução das orientações políticas e verificar os respectivos resultados, nomeadamente na área dos apoios à comunicação social;
+
+h) Proceder aos actos de registo previstos na lei, no domínio dos meios de comunicação social;
+
+i) Assegurar relações de cooperação de âmbito internacional, em articulação com os competentes serviços do Ministério dos Negócios Estrangeiros;
+
+j) Conceder estágios remunerados e bolsas nas áreas da formação profissional, nomeadamente decorrentes de acordos de cooperação;
+
+l) Assegurar o cumprimento do Estatuto da Imprensa Regional;
+
+m) Assegurar a fiscalização e o cumprimento da lei no exercício da actividade de radiodifusão, televisão, imprensa e publicidade.
+
+###### Artigo 3.º — Órgãos
+
+1 - São órgãos da DGCS:
+
+a) O director-geral;
+
+b) O conselho administrativo.
+
+2 - O director-geral é coadjuvado, no exercício das suas funções, por um subdirector-geral, que o substitui nos termos da lei geral.
+
+3 - O conselho administrativo é composto pelo director-geral, que presidirá, pelo subdirector-geral, pelo director do Departamento de Apoio aos Órgãos de Comunicação Social e pelo chefe da Repartição Administrativa.
+
+###### Artigo 4.º — Director-geral
+
+1 - Compete ao director-geral assegurar a prossecução das atribuições da DGCS, bem como praticar todas as acções de gestão geral, gestão de recursos humanos, gestão orçamental e realização de despesas, nos termos da lei geral.
+
+2 - Ao director-geral compete ainda convocar as reuniões do conselho administrativo, presidindo e orientando os respectivos trabalhos.
+
+###### Artigo 5.º — Conselho administrativo - Competências
+
+Compete ao conselho administrativo:
+
+a) Orientar a preparação dos projectos de orçamento e fiscalizar a respectiva execução;
+
+b) Deliberar sobre os ajustamentos que se torne necessário introduzir nos planos financeiros anuais e plurianuais;
+
+c) Verificar a legalidade das despesas e autorizar o respectivo pagamento;
+
+d) Proceder à verificação dos fundos em cofres e em depósito e fiscalizar a estruturação da contabilidade;
+
+e) Aprovar as contas anuais;
+
+f) Deliberar sobre o montante do fundo permanente do serviço;
+
+g) Apreciar os encargos decorrentes de contratos a celebrar com entidades oficiais ou particulares.
+
+###### Artigo 6.º — Funcionamento
+
+1 - O conselho administrativo reúne quinzenalmente, em sessão ordinária, e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.
+
+2 - As deliberações do conselho administrativo só são válidas quando estiver presente a maioria dos seus membros e desde que tomadas por maioria de votos dos membros presentes, tendo o presidente voto de qualidade.
+
+3 - A presença dos membros do conselho administrativo nas respectivas reuniões é obrigatória, sendo estes solidariamente responsáveis pelas deliberações tomadas, salvo se fizerem exarar em acta voto de vencido, devidamente fundamentado.
+
+4 - Sempre que o presidente o considere conveniente, pode convocar para participar nas reuniões do conselho administrativo, sem direito a voto, qualquer funcionário da DGCS.
+
+5 - De cada reunião é lavrada acta, assinada pelo presidente e pelos demais membros presentes.
+
+6 - O conselho administrativo é secretariado por um funcionário, a designar pelo presidente, sem direito a voto.
+
+###### Artigo 7.º — Serviços
+
+1 - Para o exercício das suas atribuições, a DGCS dispõe dos seguintes serviços centrais:
+
+a) Departamento de Estudos e Apoio Jurídico;
+
+b) Departamento de Informação;
+
+c) Departamento de Apoio aos Órgãos de Comunicação Social;
+
+d) Repartição Administrativa.
+
+2 - A DGCS disporá ainda de serviços desconcentrados, situados no Porto, em Coimbra e em Faro, dirigidos por um chefe de divisão.
+
+###### Artigo 8.º — Receitas
+
+1 - A DGCS tem como receitas:
+
+a) As importâncias provenientes da venda de publicações e de outros bens e serviços produzidos ou prestados no âmbito das suas atribuições;
+
+b) Quaisquer outras receitas permitidas por lei e, bem assim, as doações feitas por entidades públicas ou privadas.
+
+2 - As receitas consignadas referidas no número anterior são aplicadas mediante a inscrição orçamental de dotações com compensação em receita.
+
+3 - O preço de venda dos bens e serviços prestados pela DGCS é fixado por despacho do membro do Governo responsável pela área da comunicação social.
+
+###### Artigo 9.º — Pessoal
+
+1 - O pessoal que à data de entrada em vigor do presente diploma se encontre provido no quadro da DGCS transita para os lugares do novo quadro, nos termos da legislação aplicável e de acordo com as seguintes regras:
+
+a) Para a mesma carreira, categoria e escalão que o funcionário já possui;
+
+b) Sem prejuízo das habilitações exigíveis, para carreira e categoria que integre as funções efectivamente desempenhadas, em escalão a que corresponda o mesmo índice remuneratório ou, quando não se verifique coincidência de índice, em escalão a que corresponda o índice superior mais aproximado na estrutura da carreira para que se processa a transição;
+
+c) As correspondências de categoria fazem-se em função do índice remuneratório correspondente ao escalão 1 da categoria em que o funcionário se encontra e o escalão 1 da categoria da nova carreira, sem prejuízo da atribuição do índice nos termos da alínea anterior.
+
+2 - A correspondência entre as funções anteriormente exercidas e as do lugar para o qual se opera a transição é comprovada, para efeitos do disposto na alínea b) do número anterior, através de declaração do responsável do respectivo serviço, homologada pelo director-geral.
+
+3 - O tempo de serviço prestado na categoria de origem em funções idênticas às da categoria para a qual se processa a transição, nos termos da alínea b) do n.º 1, conta como prestado na nova categoria.
+
+4 - Os funcionários que se encontrem na situação de licença sem vencimento de longa duração, o pessoal requisitado e destacado que não se encontre abrangido pelo disposto no artigo seguinte, bem como aqueles que, de acordo com os n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro, não foram integrados nos termos do número precedente, serão constituídos em excedentes, atendendo às características e qualificações profissionais e às exigências inerentes ao posto de trabalho.
+
+###### Artigo 10.º — Pessoal requisitado e destacado
+
+1 - Os funcionários da DGCS que se encontrem nas situações de requisição ou de destacamento podem optar pela integração nos quadros dos organismos junto dos quais exercem funções, desde que estes manifestem o seu interesse.
+
+2 - Para efeitos do disposto no número anterior, a opção tem de ser tomada no prazo de 30 dias, podendo os quadros dos respectivos organismos ser alargados, mediante portaria, dos lugares necessários à integração, no caso de inexistência de vagas.
+
+3 - As requisições e os destacamentos de funcionários ou agentes que se encontram a exercer funções na DGCS são dados por findos a partir da data da entrada em vigor do presente diploma, regressando os mesmos aos respectivos lugares de origem.
+
+###### Artigo 11.º — Cessação de funções dirigentes
+
+A partir da data da entrada em vigor do presente diploma cessam todas as comissões de serviço do pessoal dirigente da DGCS.
+
+###### Artigo 12.º — Organização e pessoal
+
+As normas relativas à organização e competência dos serviços, bem como o quadro do pessoal e a forma de preenchimento dos respectivos lugares, são definidos em decreto regulamentar, a publicar no prazo de 30 dias contado a partir da data da entrada em vigor do presente diploma.
+
+###### Artigo 13.º — Revogação
+
+São revogados os Decretos-Leis n.os [420/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1982-376650), de 12 de Outubro, e [390/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1984-401365), de 12 de Dezembro.
+
+Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 1991. - Aníbal António Cavaco Silva - José Oliveira Costa - António Fernando Couto dos Santos.
+
+Promulgado em 9 de Abril de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 12 de Abril de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

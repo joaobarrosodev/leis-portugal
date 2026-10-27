@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:499176:por
+title: Portaria n.º 387/92
+short_title: null
+summary: Redistribui os montantes disponíveis dos contingentes pautais de direito nulo, instituídos pelo Decreto-Lei n.º 57/91,
+  de 30 de Janeiro, pelas empresas que em 1991 efectuaram importações de produtos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Indústria e Energia
+proposing_entity: null
+official_number: 387/92
+official_date: null
+publication_date: '1992-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 107/1992, Série I-B de 1992-05-09
+  number: '107'
+  series: I
+  supplement: null
+  pages: 2162 - 2165
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/05/107b00/21622165.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/387/1992/05/09/p/dre/pt/html
+  oj: null
+  dre: '499176'
+  dre_path: /dr/detalhe/portaria/387-1992-499176
+  internal: pt:dre:499176:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-1992-499176
+  metadata_url: https://data.dre.pt/eli/port/387/1992/05/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-1992-499176
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:18:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 83a4ec39014ed14586d4a0871d426e814a668a3064fe6d38201d8de0ea131998
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:18:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contingentação
+- Direitos de Importação
+- Empresa
+- Importação
+relationships:
+- type: cites
+  target: pt:dre:508979:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/57/1991/01/30/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:18:50Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 387/92
+
+de 9 de Maio
+
+Considerando que as quotas atribuídas a alguns dos importadores que se candidataram aos contingentes pautais de direito nulo instituídos pelo [Decreto-Lei n.º 57/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1991-508979), de 30 de Janeiro, não foram utilizadas na sua totalidade;
+
+Atendendo a que, por um lado, nem todas as empresas que importaram em 1991 produtos abrangidos por aquele decreto-lei puderam por ele ser contempladas ou usufruir, em toda a sua extensão, dos benefícios no mesmo consagrados e que, por outro lado, os montantes das quotas não utilizadas se situam a níveis que se consideram significativos face às necessidades destas empresas, importa proceder à redistribuição pelas mesmas dos montantes ainda disponíveis.
+
+Assim, ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 57/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1991-508979), de 30 de Janeiro:
+
+Manda o Governo, pelos Ministros das Finanças e da Indústria e Energia, o seguinte:
+
+1.º Os montantes disponíveis dos contingentes pautais de direito nulo, instituídos pelo [Decreto-Lei n.º 57/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1991-508979), de 30 de Janeiro, e que constam do anexo I à presente portaria, serão redistribuídos pelas empresas que em 1991 efectuaram importações de produtos contemplados naquele diploma legal.
+
+2.º - 1 - Só poderão beneficiar da redistribuição referida no número anterior os importadores que a ela se candidatarem.
+
+2 - As candidaturas deverão ser dirigidas ao director-geral da Indústria (DGI) remetidas sob registo e com aviso de recepção ou entregues, contra recibo, na Avenida do Conselheiro Fernando de Sousa, 11, 1092 Lisboa Codex, no prazo de 15 dias contados a partir da data da publicação da presente portaria.
+
+3.º - 1 - Os montantes disponíveis de cada um dos contingentes serão distribuídos pelos importadores proporcionalmente às importações por cada um deles realizadas no ano de 1991 de mercadorias que, estando incluídas no anexo ao [Decreto-Lei n.º 57/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1991-508979), de 30 de Janeiro, não beneficiaram da suspensão da cobrança dos respectivos direitos.
+
+2 - Para o efeito e sob pena de não serem consideradas, as candidaturas deverão fazer-se acompanhar de:
+
+a) Elementos relativos às importações efectuadas em 1991 dos produtos incluídos em cada um dos contingentes, de acordo com o mapa resumo indicado no anexo II;
+
+b) Facturas relativas a todas as importações referidas na alínea anterior, devidamente ordenadas e identificadas com os despachos respectivos;
+
+c) Boletins técnicos relativos aos produtos importados; no caso das fibras substandard, deverão ser apresentados boletins de análise emitidos pelas entidades competentes.
+
+4.º - 1 - A DGI procederá ao cálculo de montantes provisórios a atribuir a cada um dos candidatos, dando dos mesmos conhecimento aos interessados no prazo de 30 dias após a data da publicação da presente portaria.
+
+2 - Nos oito dias imediatos ao final do prazo referido no n.º 1 deste número, deverão dar entrada na DGI as reclamações, devidamente fundamentadas, sem o que não poderão ser consideradas.
+
+3 - A DGI disporá de oito dias contados a partir do final do prazo referido no número anterior para apreciação das reclamações, findos os quais os montantes provisórios a que se refere o n.º 1 deste número passarão a definitivos ou serão corrigidos, sendo, neste último caso, dado conhecimento aos interessados.
+
+4 - Em simultâneo, a DGI informará a Direcção-Geral das Alfândegas dos resultados definitivos da redistribuição efectuada.
+
+Ministérios das Finanças e da Indústria e Energia.
+
+Assinada em 14 de Abril de 1992.
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria.
+
+## ANEXO I — Lista a que se refere o n.º 1.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/107b00/21622165.pdf)
+
+## ANEXO II — Quadro a que se refere a alínea a) do n.º 2 do n.º 3.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/107b00/21622165.pdf)

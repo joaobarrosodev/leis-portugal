@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:419177:por
+title: Decreto-Lei n.º 235/87
+short_title: null
+summary: Integra no ordenamento jurídico nacional a Directiva 82/121/CEE, de 15 de Fevereiro de 1982 (informação periódica
+  a publicar por sociedades com acções cotadas)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 235/87
+official_date: null
+publication_date: '1987-06-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 134/1987, Série I de 1987-06-12
+  number: '134'
+  series: I
+  supplement: null
+  pages: 2299 - 2300
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/06/13400/22992300.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '419177'
+  dre_path: /dr/detalhe/decreto-lei/235-1987-419177
+  internal: pt:dre:419177:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1987-419177
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1987-419177
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 238743d68d81bb2712cf13e0f9cd097b26c3bbc813b06e78500a8274ba7d725b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:19:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acção Financeira
+- Aproximação das Legislações
+- Bolsa de Valores
+- Relatório e Contas
+- Sociedades
+relationships:
+- type: amended_by
+  target: pt:dre:322323:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: repealed_by
+  target: pt:numero:decreto-lei:142-A/91
+  label: REVOGADO PELO DECRETO-LEI NUMERO 142-A/91, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SERIE-A, NUMERO 83, SUPLEMENTO, DE
+    10/4/91. /4/91.
+  source: null
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogado pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.199, a partir da data de sua entrada em\
+    \ vigor, e sem prejuízo dos regimes transitórios nele previstos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:19:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 235/87
+
+de 12 de Junho
+
+O bom funcionamento do mercado de acções e das bolsas requer que os investidores disponham de informação qualificada e acessível, contendo os elementos essenciais sobre a situação financeira das sociedades cotadas.
+
+O presente decreto-lei vem definir o conteúdo e o modo de difusão dessa informação, dando, assim, cumprimento à Directiva [82/121/CEE](https://data.europa.eu/eli/dir/1982/121/oj?locale=pt), de 15 de Fevereiro de 1982.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Informação das actividades das sociedades cotadas no mercado oficial das bolsas
+
+1 - As sociedades cujas acções estejam admitidas à cotação oficial de uma bolsa de valores devem divulgar uma informação referente à sua actividade no 1.º semestre de cada exercício.
+
+2 - A informação deverá ser publicada, até 30 de Setembro do exercício a que se refere, nos boletins de cotações das bolsas em que acções da sociedade estejam cotadas e num jornal de grande circulação do País.
+
+###### Artigo 2.º — Teor da informação
+
+1 - A informação deverá incluir de forma sumária o seguinte:
+
+a) Denominação e sede da sociedade;
+
+b) Nome completo e funções das pessoas que assumem a responsabilidade da informação;
+
+c) Balanço consolidado referente a 30 de Junho do exercício a que se reporta a informação;
+
+d) Demonstração de resultados até 30 de Junho do exercício a que se refere a informação, evidenciando os dividendos provisórios antecipadamente pagos ou que a sociedade se propõe a pagar;
+
+e) Investimentos efectuados, montantes das vendas totais e descrição dos custos mais significativos verificados no período;
+
+f) Operações financeiras efectuadas durante o período, discriminando, nomeadamente, os empréstimos, emissões de obrigações e de acções efectuadas;
+
+g) Declaração dos responsáveis da informação, assegurando que os elementos inscritos nesta são verídicos e que não há omissões na mesma;
+
+h) Parecer do revisor oficial de contas sobre as contas publicadas;
+
+i) Perspectivas da actividade da sociedade para todo o exercício a que se refere a informação;
+
+j) Os elementos referidos nas alíneas c), d) e e) deverão ser comparados com os registados no 1.º semestre do exercício anterior e devidamente comentados.
+
+2 - Quando algum dos elementos estabelecidos no número anterior se revelar inadequado à actividade de uma sociedade, a comissão directiva da bolsa de valores poderá determinar as adaptações que considerar convenientes.
+
+###### Artigo 3.º — Divulgação da informação e dos relatórios e contas das sociedades cotadas oficialmente
+
+1 - As comissões directivas das bolsas de valores deverão, em conjunto, pôr à disposição do público, até 30 de Outubro do exercício a que se refere a informação, em condições a fixar por despacho do Ministro das Finanças, uma publicação que deverá incluir, pelo menos, as informações de todas as sociedades cotadas no mercado oficial daquelas bolsas.
+
+2 - Até 31 de Maio de cada ano, as comissões directivas das bolsas de valores deverão, em conjunto, pôr à disposição do público, em condições a fixar por despacho do Ministro das Finanças, uma publicação que deverá incluir os relatórios e contas das sociedades cotadas no mercado oficial, devidamente aprovados nos termos estabelecidos pela legislação em vigor, e referentes ao exercício que terminou em 31 de Dezembro do ano anterior.
+
+###### Artigo 4.º — Competências das comissões directivas da bolsa
+
+1 - Compete à comissão directiva da bolsa de valores onde as acções estejam admitidas à cotação dar cumprimento ao disposto no presente decreto-lei.
+
+2 - A comissão directiva pode dispensar a inclusão no relatório semestral de certas informações previstas no presente decreto-lei, quando considere que a divulgação destas informações pode ser contrária ao interesse público ou implicar grave prejuízo para a sociedade, desde que, neste último caso, a falta de publicação não seja susceptível de induzir o público em erro sobre os factos e as condições essenciais para a apreciação das acções em causa.
+
+3 - A sociedade e os seus representantes são responsáveis pela exactidão e pela pertinência dos factos em que se fundamenta o pedido de dispensa.
+
+###### Artigo 5.º — Sanções
+
+1 - Sem prejuízo das sanções previstas na lei geral, serão punidas com coimas de 10000$00 a 10000000$00, a aplicar pelo Banco de Portugal no âmbito da competência que lhe está cometida:
+
+a) A não divulgação da informação nos termos e prazo previstos nos artigos 1.º e 2.º do presente decreto-lei;
+
+b) A inexactidão de quaisquer elementos constantes da informação publicada nos termos do artigo 2.º do presente decreto-lei.
+
+2 - O produto das coimas aplicadas pelas infracções indicadas no número anterior reverterá a favor da bolsa de valores que participar o facto ilícito.
+
+Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
+
+Promulgado em 28 de Maio de 1987.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 30 de Maio de 1987.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

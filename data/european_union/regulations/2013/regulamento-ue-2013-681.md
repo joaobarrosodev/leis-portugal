@@ -1,0 +1,174 @@
+---
+schema_version: '1.0'
+id: eu:celex:32013R0681:por
+title: Regulamento (UE) n. ° 681/2013 da Comissão, de 17 de julho de 2013
+short_title: null
+summary: Regulamento (UE) n. ° 681/2013 da Comissão, de 17 de julho de 2013 , que altera a parte III do anexo II da Diretiva
+  2009/48/CE do Parlamento Europeu e do Conselho relativa à segurança dos brinquedos Texto relevante para efeitos do EEE
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2013/681
+official_date: null
+publication_date: '2013-07-18'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 195 de 18.7.2013
+  number: '195'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/24cae2c5-ef7e-11e2-a22e-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2013-07-20'
+end_of_validity_date: '2030-07-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32013R0681
+  eli: http://data.europa.eu/eli/reg/2013/681/oj
+  oj: oj:JOL_2013_195_R_0016_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32013R0681:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32013R0681
+  metadata_url: http://publications.europa.eu/resource/cellar/24cae2c5-ef7e-11e2-a22e-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/24cae2c5-ef7e-11e2-a22e-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T11:30:24Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-24T20:41:18.928+02:00'
+integrity:
+  source_sha256: 21121e63f874d6d7297ecdf45d47fe02c55551fa8cbcc748a2550010b896d408
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T11:30:24Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- indústria de brinquedos
+- metal
+- norma de comercialização
+- norma de segurança
+- norma técnica
+- proteção da infância
+- proteção do consumidor
+- substância tóxica
+relationships:
+- type: amends
+  target: celex:32009L0048
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ab7917e6-0d8a-42e4-b4df-0bbd7d927cc1
+  date: '2009-06-18'
+- type: based_on
+  target: celex:32009L0048
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ab7917e6-0d8a-42e4-b4df-0bbd7d927cc1
+  date: '2009-06-18'
+- type: repealed_by
+  target: celex:32025R2509
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f2294563-d703-11f0-8da2-01aa75ed71a1
+  date: '2025-12-12'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T11:30:24Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO (UE) N.º 681/2013 DA COMISSÃO
+
+de 17 de julho de 2013
+
+que altera a parte III do anexo II da Diretiva 2009/48/CE do Parlamento Europeu e do Conselho relativa à segurança dos brinquedos
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Diretiva 2009/48/CE do Parlamento Europeu e do Conselho, de 18 de junho de 2009, relativa à segurança dos brinquedos [([^1])](http://publications.europa.eu/resource/cellar/24cae2c5-ef7e-11e2-a22e-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2013195PT.01001601-E0001), nomeadamente o artigo 46.º, n.º 1, alínea b),
+
+Considerando o seguinte:
+
+(1) A Diretiva 2009/48/CE fixa valores-limite para o bário, com base nas recomendações que o Instituto Nacional de Saúde Pública e do Ambiente (RIVM) dos Países Baixos formulou no relatório de 2008 intitulado *Chemicals in Toys*. *A general methodology for assessment of chemical safety of toys with a focus on elements* (Produtos Químicos nos Brinquedos. Metodologia geral para a avaliação da segurança química dos brinquedos com especial enfoque nos elementos). As recomendações do RIVM baseiam-se no pressuposto de que a exposição das crianças aos produtos químicos nos brinquedos não pode exceder um determinado nível, a chamada «dose diária tolerável». Uma vez que as crianças estão expostas a produtos químicos provenientes de outras fontes para além dos brinquedos, só uma percentagem da dose diária tolerável deve ser atribuída aos brinquedos. O Comité Científico da Toxicidade, da Ecotoxicidade e do Ambiente (CCTEA) recomendou, no seu relatório de 2004, que fosse atribuído aos brinquedos um máximo de 10 % da dose diária tolerável. Este valor foi apoiado pelo Comité Científico dos Riscos para a Saúde e o Ambiente (CCRSA) no seu parecer intitulado «Avaliação dos limites de migração dos elementos químicos nos brinquedos» e aprovado em 1 de julho de 2010.
+
+(2) De acordo com as recomendações do RIVM, a percentagem máxima da dose diária tolerável deve ser multiplicada pelo peso da criança, estimado em 7,5 kg, e dividida pela quantidade de material do brinquedo ingerida, a fim de obter os valores-limite para as substâncias químicas enumeradas na Diretiva 2009/48/CE.
+
+(3) Para o bário, o RIVM utilizou uma dose diária tolerável de 0,6 mg/kg de peso corporal/dia, de acordo com a abordagem da Agência dos EUA para as substâncias tóxicas e o registo de doenças (US Agency for Toxic Substances and Disease Registry, ATSDR) no seu relatório de 2005 sobre o perfil toxicológico para o bário, com base em dados relativos a experiências em animais. O RIVM teve em consideração outros reexames do bário, baseados em dados humanos, mas não os utilizou para a determinação de bário da dose diária tolerável. Embora os dados humanos sejam considerados uma base mais adequada para definir uma dose diária tolerável, o RIVM considerou que os estudos que produziram estes dados enfermavam de insuficiências importantes. Por conseguinte, foram utilizados dados relativos a experiências em animais, mais fiáveis para a definição de uma dose diária tolerável.
+
+(4) A fim de definir os potenciais cenários de exposição a substâncias químicas, o RIVM estimou a quantidade de material do brinquedo ingerida por dia em 8 mg de material de brinquedo raspado, 100 mg de material de brinquedo quebradiço e 400 mg de material de brinquedo líquido ou viscoso. Estes limites aplicáveis à ingestão receberam o apoio do CCRSA no seu parecer intitulado «Riscos Decorrentes da Utilização de Substâncias CMR Orgânicas nos Brinquedos», aprovado em 18 de maio de 2010.
+
+(5) Partindo de 10 % da dose diária tolerável multiplicada pelo peso da criança e dividida pela quantidade de material de brinquedo ingerida, foram determinados os seguintes valores-limite para o bário: 56 000 mg/kg para material raspado, 4 500 mg/kg para material seco e 1 125 mg/kg para material líquido.
+
+(6) A Agência dos EUA para as substâncias tóxicas e o registo de doenças publicou em 2007 uma atualização do seu relatório sobre o perfil toxicológico do bário, no qual propôs uma dose diária tolerável de 0,2 mg/kg de peso corporal/dia. Esta atualização foi comunicada após a finalização do Relatório RIVM. Adicionalmente, na sequência de discussões com as partes interessadas, considerou-se que o relatório do IPCS de 2001 não foi devidamente levado em conta pelo RIVM.
+
+(7) Assim, a Comissão enviou um pedido de parecer ao CCRSA, a solicitar uma avaliação adicional dos limites de migração do bário e recomendações relativas à dose diária tolerável a ser utilizada, à luz dos documentos do IPCS e da ATSDR (2007).
+
+(8) No seu parecer, aprovado em 22 de março de 2012, o CCRSA concluiu que os dados humanos disponíveis não são adequados para a fixação de uma dose diária tolerável, e que estudos de boa qualidade realizados com animais são mais adequados para a definição de uma dose diária tolerável para o bário, a qual, no parecer do CCRSA, deve ser de 0,2 mg/kg de peso corporal/dia.
+
+(9) Este valor tem em conta a absorção gastrointestinal do bário. O CCRSA considera que as crianças com idade entre um e 15 anos têm uma absorção gastrointestinal de 30 %, ao passo que os lactentes absorvem 60 %. Todavia, o CCRSA baseia a dose diária tolerável de bário no «pior dos cenários possível», segundo o qual as crianças absorvem 100 % do bário a que estão expostos.
+
+(10) Partindo de 10 % da nova dose diária tolerável multiplicada pelo peso da criança e dividida pela quantidade de material do brinquedo ingerido, obtêm-se os seguintes valores-limite para o bário: 18 750 mg/kg para material raspado, 1 500 mg/kg para material seco e 375 mg/kg para material líquido.
+
+(11) A fim de assegurar a melhor proteção possível da saúde e da vida das pessoas, em particular das crianças, é necessário aplicar os limites de migração mais baixos para o bário o mais depressa possível. A diretiva deve, por conseguinte, ser alterada por um regulamento que entrará em vigor em 20 de julho de 2013, evitando-se assim um mais longo período de transposição de uma diretiva durante o qual se aplicariam limites de migração diferentes.
+
+(12) A Diretiva 2009/48/CE deve, portanto, ser alterada em conformidade.
+
+(13) As medidas previstas na presente regulamento estão em conformidade com o parecer do Comité para a Segurança dos Brinquedos,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+A parte III do anexo II da Diretiva 2009/48/CE é alterada em conformidade com o anexo do presente regulamento.
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor em 20 de julho de 2013.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 17 de julho de 2013.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**José Manuel BARROSO**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/24cae2c5-ef7e-11e2-a22e-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2013195PT.01001601-E0001) [JO L 170 de 30.6.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_170_R_TOC).

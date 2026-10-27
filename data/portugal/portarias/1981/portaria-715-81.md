@@ -1,0 +1,325 @@
+---
+schema_version: '1.0'
+id: pt:dre:575919:por
+title: Portaria n.º 715/81
+short_title: null
+summary: Aprova o programa dos concursos de admissão e selecção de pessoal para provimento dos lugares de ingresso e de acesso
+  do quadro geral administrativo dos serviços externos do Ministério da Administração Interna
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 715/81
+official_date: null
+publication_date: '1981-08-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 192/1981, Série I de 1981-08-22
+  number: '192'
+  series: I
+  supplement: null
+  pages: 2182 - 2183
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/08/19200/21822183.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '575919'
+  dre_path: /dr/detalhe/portaria/715-1981-575919
+  internal: pt:dre:575919:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/715-1981-575919
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/715-1981-575919
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:52:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0d88ec1101478b1316a2a5d6ce684e96528b5586591ba699091f28cbc76ae623
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:52:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Concurso
+- Concurso de Acesso
+- Concurso de Ingresso
+- Ministério da Administração Interna
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:457443:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:52:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 715/81
+
+de 22 de Agosto
+
+Estabelece o [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), de 4 de Novembro, no n.º 1 do seu artigo 3.º, que o recrutamento e selecção para provimento dos lugares de ingresso e de acesso dos quadros da administração local serão feitos mediante concurso, com as excepções previstas no n.º 2 do mesmo dispositivo legal, consignando-se no artigo 9.º que as matérias dos concursos serão objecto de portaria do Ministério da Administração Interna.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Administração Interna, o seguinte:
+
+1.º É aprovado o programa dos concursos de admissão e selecção de pessoal para provimento dos lugares de ingresso e de acesso do quadro geral administrativo dos serviços externos do Ministério da Administração Interna, cujo teor se indica:
+
+Programa dos concursos
+
+A) Organização político-administrativa do Estado
+
+1 - O Estado:
+
+1.1 - Conceito e funções.
+
+1.2 - Órgãos de soberania - competências.
+
+1.3 - Relações institucionais entre o Governo e outros órgãos de soberania.
+
+1.4 - Estatuto das regiões autónomas.
+
+2 - Administração central:
+
+2.1 - O Governo - conceito.
+
+2.2 - Processo de constituição do Governo.
+
+2.3 - Composição do Governo - categorias e competências dos seus membros.
+
+2.4 - Os Ministérios - estrutura orgânica do MAI.
+
+2.5 - Instâncias consultivas do Governo - a Procuradoria-Geral da República; os auditores jurídicos.
+
+2.6 - O Tribunal de Contas - competências.
+
+3 - Administração regional e local:
+
+3.1 - As autarquias locais - conceito e categorias.
+
+3.2 - As autarquias locais na Constituição.
+
+3.3 - A administração regional e local no quadro da Administração Pública.
+
+3.4 - Intervenção do Governo na administração regional e local - tutela administrativa.
+
+3.5 - Descentralização, desconcentração e regionalização.
+
+3.6 - Os tribunais administrativos - instâncias e competências.
+
+B) Organização e gestão das autarquias locais
+
+1 - Constituição e funcionamento:
+
+1.1 - Legislação e processo eleitoral.
+
+1.2 - Atribuições das autarquias e competências dos seus órgãos.
+
+1.3 - Composição e funcionamento dos seus órgãos.
+
+1.4 - Serviços municipais e municipalizados - organização e funcionamento.
+
+1.5 - Relações entre autarquias locais de diferentes níveis.
+
+1.6 - Cooperação intermunicipal - associações.
+
+1.7 - Legalidade dos actos administrativos e defesa dos administrados - contencioso administrativo.
+
+2 - Finanças locais:
+
+2.1 - Instrumentos de gestão - plano, orçamento, contabilidade.
+
+2.2 - Orçamento autárquico - princípios gerais, classificação orçamental, alterações e revisões.
+
+2.3 - Fontes de financiamento - receitas e empréstimos.
+
+2.4 - Gestão patrimonial.
+
+2.5 - Investimentos intermunicipais.
+
+3 - Gestão de pessoal autárquico:
+
+3.1 - Recrutamento e selecção - requisitos.
+
+3.2 - Provimento - requisitos.
+
+3.3 - Formalidades do provimento.
+
+3.4 - Estrutura e planificação de carreiras.
+
+3.5 - Deveres e direitos - responsabilidade disciplinar, faltas e licenças, vencimentos e outros benefícios.
+
+3.6 - Regime de aposentação.
+
+3.7 - Formação e aperfeiçoamento profissional.
+
+3.8 - Órgãos de gestão de pessoal.
+
+4 - Planeamento e desenvolvimento municipal:
+
+4.1 - Planeamento urbanístico - tipologia dos planos.
+
+4.2 - Gestão dos solos urbanos.
+
+4.3 - Regime das expropriações por utilidade pública.
+
+4.4 - Loteamentos e urbanizações.
+
+4.5 - Obras públicas - regimes de execução.
+
+4.6 - Obras particulares - licenciamento e fiscalização.
+
+4.7 - Habitação social - construção e gestão.
+
+4.8 - O município e a cultura e o ensino.
+
+4.9 - O município e a salubridade.
+
+4.10 - O município e o turismo.
+
+4.11 - O município e a segurança dos cidadãos - bombeiros, polícia e defesa civil do território.
+
+C) Princípios gerais de direito
+
+1 - Fontes de direito.
+
+2 - Normas jurídicas - conceito e classificação.
+
+3 - Hierarquia das leis.
+
+4 - Interpretação da lei.
+
+5 - Aplicação da lei no tempo e no espaço.
+
+6 - Princípio da não retroactividade da lei.
+
+7 - Personalidade e capacidade jurídica - pessoas de direito privado e de direito público.
+
+8 - Relação jurídica e seus elementos.
+
+D) Princípios de direito administrativo
+
+1 - Administração - sentidos material e orgânico.
+
+2 - A Administração Pública como poder - privilégio da execução prévia.
+
+3 - A execução das leis - vias jurisdicional e administrativa.
+
+4 - Princípio da legalidade.
+
+5 - Sujeição da administração aos tribunais.
+
+6 - Teoria da personalidade colectiva - criação e fins.
+
+7 - Delegação de poderes.
+
+8 - Serviços administrativos - noção, espécies e organização.
+
+9 - Regime das instituições privadas de solidariedade social.
+
+10 - Empresas públicas.
+
+11 - Actos administrativos - conceito e categorias.
+
+12 - Validade e eficácia dos actos administrativos.
+
+13 - Vícios e sanções do acto administrativo.
+
+14 - Extinção, alteração e suspensão do acto administrativo.
+
+15 - Contrato administrativo - conceito e formação.
+
+16 - Execução, modificação e extinção dos contratos administrativos.
+
+E) Princípios de direito civil
+
+1 - As coisas - conceito e classificação.
+
+2 - Direito de propriedade e compropriedade - princípios gerais.
+
+3 - Propriedade horizontal - princípios gerais.
+
+4 - Usufruto - direitos e obrigações do usufrutuário; extinção do usufruto.
+
+5 - Direito de superfície - constituição; direitos s encargos.
+
+6 - Servidões prediais - princípios gerais.
+
+7 - Obrigações - conceito.
+
+8 - Garantias das obrigações.
+
+9 - Responsabilidade civil.
+
+10 - Tipologia dos contratos - conceitos e princípios gerais.
+
+F) Princípios de direito fiscal
+
+1 - Poder tributário, capacidade tributária e competência tributária.
+
+2 - O tributo - conceito.
+
+3 - Impostos e taxas - conceitos.
+
+4 - Espécies de impostos.
+
+5 - Espécies de taxas.
+
+6- Preços e tarifas - conceitos.
+
+7 - Princípio da legalidade do imposto.
+
+8 - Isenção e não incidência.
+
+9 - Benefícios fiscais.
+
+10 - Incidência, lançamento, liquidação e cobrança.
+
+11 - Garantias graciosas do contribuinte - reclamação e recurso.
+
+12 - Garantias contenciosas do contribuinte - processos de transgressão, de execução e de impugnação.
+
+13 - Os tribunais fiscais.
+
+2.º O programa aprovado pela presente portaria aplica-se aos concursos para todas as categorias do quadro geral administrativo dos serviços externos do Ministério da Administração Interna, devendo, nos respectivos avisos de abertura, indicar-se especificadamente a matéria objecto de cada prova, escalonada de acordo com as exigências profissionais das funções e tarefas das categorias a que se destina.
+
+3.º No aviso de abertura de concurso será também indicada a duração das provas e a constituição do júri, assim como a data da realização dos cursos de formação.
+
+Ministério da Administração Interna, 31 de Julho de 1981. - O Ministro da Administração Interna, Fernando Monteiro do Amaral.

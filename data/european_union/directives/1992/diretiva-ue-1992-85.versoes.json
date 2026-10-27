@@ -1,0 +1,846 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0085:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0085-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "1992-11-28",
+   "future": false,
+   "celex": "31992L0085",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b307ae938bf0272f",
+    "9460b721a09b544c",
+    "3e04efeabada934e",
+    "1bd90f332389ba9d",
+    "5611791b3f5179e3",
+    "213258af3784cf44",
+    "a0d22354b3c0373a",
+    "539243bff902be41",
+    "1f4e9d407545723d",
+    "3f97479b3866d57c",
+    "f60edac5a668ac4a",
+    "fe3e9eebcc8149ce",
+    "fea33ccca410ee04",
+    "3a72f04ba0994c91",
+    "73d955532d53f46a",
+    "18379965261e49d6",
+    "a98ac8320796eb6d",
+    "f9fd4ad1378c6a68",
+    "1a7d4a7b758d5e87",
+    "979b75e9377f5266"
+   ]
+  },
+  {
+   "date": "2007-06-27",
+   "future": false,
+   "celex": "01992L0085-20070627",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0030:por",
+     "title": "DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007",
+     "published": null,
+     "celex": "32007L0030"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO II",
+    "Adita SECÇÃO I",
+    "Adita OBJECTO E DEFINIÇÕES",
+    "Adita Artigo 1.º — Objecto",
+    "Adita Artigo 2.º — Definições",
+    "Adita SECÇÃO II",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita Artigo 3.º — Directrizes",
+    "Adita Artigo 4.º — Avaliação e informação",
+    "Adita Artigo 5.º — Consequências dos resultados da avaliação",
+    "Adita Artigo 6.º — Proibições de exposição",
+    "Adita Artigo 7.º — Trabalho nocturno",
+    "Adita Artigo 8.º — Licença de maternidade",
+    "Adita Artigo 9.º — Dispensa de trabalho para exames pré-natais",
+    "Adita Artigo 10.º — Proibição de despedimento",
+    "Adita Artigo 11.º — Direitos decorrentes do contrato de trabalho",
+    "Adita Artigo 12.º — Defesa dos direitos",
+    "Adita Artigo 13.º — Alteração dos anexos",
+    "Adita Artigo 14.º — Disposições finais",
+    "Adita Artigo 15.º",
+    "Adita ANEXO I",
+    "Adita LISTA NÃO EXAUSTIVA DOS AGENTES, PROCESSOS E CONDIÇÕES DE TRABALHO",
+    "Adita a que se refere o n.º 1 do artigo 4.º",
+    "Adita A. Agentes",
+    "Adita B. Processos",
+    "Adita C. Condições de trabalho",
+    "Adita LISTA NÃO EXAUSTIVA DOS AGENTES E CONDIÇÕES DE TRABALHO",
+    "Adita a que se refere o artigo 6.º",
+    "Adita A. Trabalhadoras grávidas na acepção da alínea a) do artigo 2.º",
+    "Adita 1. Agentes",
+    "Adita a) Agentes físicos",
+    "Adita b) Agentes biológicos",
+    "Adita c) Agentes químicos",
+    "Adita 2. Condições de trabalho",
+    "Adita B. Mulheres lactantes na acepção da alínea c) do artigo 2.º",
+    "Adita a) Agentes químicos",
+    "Adita Declaração do Conselho e da Comissão relativa ao ponto 3 do artigo 11.º da Directiva 92/85/CEE, inscrita na acta da 1608.ª sessão do Conselho (Luxemburgo, 19 de Outubro de 1992)",
+    "Adita Notas",
+    "Suprime SECÇÃO I — OBJECTO E DEFINIÇÕES",
+    "Suprime Artigo 1o. — Objecto",
+    "Suprime Artigo 2o. — Definições",
+    "Suprime SECÇÃO II — DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 3o. — Directrizes",
+    "Suprime Artigo 4o. — Avaliação e informação",
+    "Suprime Artigo 5o. — Consequências dos resultados da avaliação",
+    "Suprime Artigo 6o. — Proibições de exposição",
+    "Suprime Artigo 7o. — Trabalho nocturno",
+    "Suprime Artigo 8o. — Licença de maternidade",
+    "Suprime Artigo 9o. — Dispensa de trabalho para exames pré-natais",
+    "Suprime Artigo 10o. — Proibição de despedimento",
+    "Suprime Artigo 11o. — Direitos decorrentes do contrato de trabalho",
+    "Suprime Artigo 12o. — Defesa dos direitos",
+    "Suprime Artigo 13o. — Alteração dos anexos",
+    "Suprime Artigo 14o. — Disposições finais",
+    "Suprime Artigo 15o.",
+    "Suprime ANEXO I — LISTA NÃO EXAUSTIVA DOS AGENTES, PROCESSOS E CONDIÇÕES DE TRABALHO"
+   ],
+   "fragments": [
+    "05c6cfd502cba8a0",
+    "19572906891c0646",
+    "65bfbfa6e1731d88",
+    "b7ac1921597d93c8",
+    "eb172c18c85ca9bd",
+    "0b50b9972a75b595",
+    "e17a2adcfbbdd4cc",
+    "0647bf7fa3dc01fd",
+    "9299ba5ee32fa2de",
+    "96c6f54c5326493a",
+    "66d45129e1aece38",
+    "5513930525b47430",
+    "ca089a0dcda7d01e",
+    "4d1c621ff294fafd",
+    "8d5d5377ea26e6be",
+    "0fd7760e0ab074f6",
+    "0d2e058cb96d3d33",
+    "6a66c6255360ffdd",
+    "695b506e0615e7fe",
+    "5459240020eddcf5",
+    "d664376e2a8dcecd",
+    "c066d24b90af31b9",
+    "1cbce3afdfa4449a",
+    "f99e73d5a2a18280",
+    "a124994063aa3cfc",
+    "3a2ca88d6f60268d",
+    "852174729551523b",
+    "8a532293b7ba85fb",
+    "8b957165e32269e2",
+    "fcd17ebf47e8eb12",
+    "68d2d731b8857fd3",
+    "ce3cd00a16689713",
+    "677cf5a8235d6912",
+    "daa421d8847eed80",
+    "0cea807756bf9077",
+    "682d6126961d70e5",
+    "68d2d731b8857fd3",
+    "d4593a7c3e3b992e",
+    "0cea807756bf9077",
+    "192996912077e4e2",
+    "dfa3aade338292fa"
+   ]
+  },
+  {
+   "date": "2014-03-25",
+   "future": false,
+   "celex": "01992L0085-20140325",
+   "acts": [
+    {
+     "id": "eu:celex:32014L0027:por",
+     "title": "DIRETIVA 2014/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014",
+     "published": null,
+     "celex": "32014L0027"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera A. Agentes",
+    "Altera B. Processos",
+    "Altera Notas",
+    "Adita A QUE SE REFERE O ARTIGO 6.º",
+    "Suprime a que se refere o artigo 6.º"
+   ],
+   "fragments": [
+    "03248592700b240d",
+    "19572906891c0646",
+    "65bfbfa6e1731d88",
+    "b7ac1921597d93c8",
+    "eb172c18c85ca9bd",
+    "0b50b9972a75b595",
+    "e17a2adcfbbdd4cc",
+    "0647bf7fa3dc01fd",
+    "9299ba5ee32fa2de",
+    "96c6f54c5326493a",
+    "66d45129e1aece38",
+    "5513930525b47430",
+    "ca089a0dcda7d01e",
+    "4d1c621ff294fafd",
+    "8d5d5377ea26e6be",
+    "0fd7760e0ab074f6",
+    "0d2e058cb96d3d33",
+    "6a66c6255360ffdd",
+    "695b506e0615e7fe",
+    "5459240020eddcf5",
+    "d664376e2a8dcecd",
+    "c066d24b90af31b9",
+    "1cbce3afdfa4449a",
+    "53153e8774583298",
+    "36adc4db3315f191",
+    "3a2ca88d6f60268d",
+    "852174729551523b",
+    "8a532293b7ba85fb",
+    "f30244f40f4973cb",
+    "fcd17ebf47e8eb12",
+    "68d2d731b8857fd3",
+    "ce3cd00a16689713",
+    "677cf5a8235d6912",
+    "daa421d8847eed80",
+    "0cea807756bf9077",
+    "682d6126961d70e5",
+    "68d2d731b8857fd3",
+    "d4593a7c3e3b992e",
+    "0cea807756bf9077",
+    "192996912077e4e2",
+    "6e76986c8de599ca"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "01992L0085-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera A. Agentes",
+    "Altera Notas",
+    "Adita Artigo 13.º — Alteração do anexo I",
+    "Adita Artigo 13.º-A — Exercício da delegação",
+    "Adita Artigo 13.º-B — Procedimento de urgência",
+    "Suprime Artigo 13.º — Alteração dos anexos"
+   ],
+   "fragments": [
+    "827a34b8d06e1e71",
+    "19572906891c0646",
+    "65bfbfa6e1731d88",
+    "b7ac1921597d93c8",
+    "eb172c18c85ca9bd",
+    "0b50b9972a75b595",
+    "e17a2adcfbbdd4cc",
+    "0647bf7fa3dc01fd",
+    "9299ba5ee32fa2de",
+    "96c6f54c5326493a",
+    "66d45129e1aece38",
+    "5513930525b47430",
+    "ca089a0dcda7d01e",
+    "4d1c621ff294fafd",
+    "8d5d5377ea26e6be",
+    "0fd7760e0ab074f6",
+    "0d2e058cb96d3d33",
+    "b274b7d2e8c77d83",
+    "7965e0ce721b3210",
+    "b58e6578151ae237",
+    "695b506e0615e7fe",
+    "5459240020eddcf5",
+    "d664376e2a8dcecd",
+    "c066d24b90af31b9",
+    "1cbce3afdfa4449a",
+    "a93d10088bf09e25",
+    "36adc4db3315f191",
+    "3a2ca88d6f60268d",
+    "852174729551523b",
+    "8a532293b7ba85fb",
+    "f30244f40f4973cb",
+    "fcd17ebf47e8eb12",
+    "68d2d731b8857fd3",
+    "ce3cd00a16689713",
+    "677cf5a8235d6912",
+    "daa421d8847eed80",
+    "0cea807756bf9077",
+    "682d6126961d70e5",
+    "68d2d731b8857fd3",
+    "d4593a7c3e3b992e",
+    "0cea807756bf9077",
+    "192996912077e4e2",
+    "860d53d262573ed1"
+   ]
+  }
+ ],
+ "fragments": {
+  "b307ae938bf0272f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/85/CEE do Conselho, de 19 de Outubro de 1992, relativa à implementação de medidas destinadas a promover a melhoria da segurança e da saúde das trabalhadoras grávidas, puérperas ou lactantes no trabalho (décima directiva especial na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE)** *Jornal Oficial nº L 348 de 28/11/1992 p. 0001 - 0008 Edição especial finlandesa: Capítulo 5 Fascículo 6 p. 0003 Edição especial sueca: Capítulo 5 Fascículo 6 p. 0003*\n\nDIRECTIVA 92/85/CEE DO CONSELHO de 19 de Outubro de 1992 relativa à implementação de medidas destinadas a promover a melhoria da segurança e da saúde das trabalhadoras grávidas, puérperas ou lactantes no trabalho (décima directiva especial na acepção do no. 1 do artigo 16o. da Directiva 89/391/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118o.A,\n\nTendo em conta a proposta da Comissão (1), elaborada após consulta ao Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho,\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o artigo 118o.A do Tratado prevê que o Conselho adopte por meio de directiva as prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, para proteger a segurança e a saúde dos trabalhadores;\n\nConsiderando que a presente directiva não pode justificar uma eventual diminuição dos níveis de protecção já atingidos em cada Estado-membro, estando os Estados-membros empenhados, por força do Tratado, em promover a melhoria das condições existentes neste domínio e tendo como objectivo a sua harmonização no progresso;\n\nConsiderando que, nos termos do artigo 118o.A, as directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas tais, que sejam contrárias à criação e desenvolvimento de pequenas e médias empresas;\n\nConsiderando que, por força da Decisão 74/325/CEE (4), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, o Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho é consultado pela Comissão com o objectivo de elaborar propostas neste domínio;\n\nConsiderando que a Carta Comunitária dos Direitos Sociais Fundamentais dos Trabalhadores, adoptada no Conselho Europeu de Estraburgo de 9 de Dezembro de 1989 pelos chefes de Estado ou de Governo de 11 Estados-membros da Comunidade Europeia, declara nomeadamente no seu ponto 19:\n\n«Todos os trabalhadores devem beneficiar de condições satisfatórias de protecção da saúde e da segurança no meio onde trabalham. Devem ser tomadas medidas adequadas para prosseguir a harmonização no progresso das condições existentes neste domínio»;\n\nConsiderando que a Comissão, no seu programa de acção relativo à aplicação da Carta Comunitária dos Direitos Sociais Fundamentais dos Trabalhadores, estabeleceu, entre outros objectivos, a adopção pelo Conselho de uma directiva relativa à protecção da mulher grávida no trabalho;\n\nConsiderando que a Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho (5), prevê, no seu artigo 15o., que os grupos sujeitos a riscos especialmente sensíveis devem ser protegidos contra os perigos que os afectam especificamente;\n\nConsiderando que as trabalhadoras grávidas, puérperas ou lactantes devem ser consideradas, sob diversos pontos de vista, como um grupo sujeito a riscos específicos e que devem ser tomadas medidas no que respeita à sua saúde e segurança;\n\nConsiderando que a protecção da segurança e da saúde das trabalhadoras grávidas, puérperas e lactantes não deve desfavorecer as mulheres no mercado de trabalho e não deve afectar as directivas em matéria de igualdade de tratamento entre homens e mulheres;\n\nComissão que certas actividades podem apresentar um risco específico de exposição da trabalhadora grávida, puérpera ou lactante a agentes, processos ou condições de trabalho perigosos e que, por isso, estes riscos devem ser avaliados e o resultado dessa avaliação comunicado às trabalhadoras e/ou aos seus representantes;\n\nConsiderando que, por outro lado, no caso dessa avaliação revelar um risco para a segurança ou a saúde da trabalhadora, deve ser previsto um dispositivo de protecção desta;\n\nConsiderando que as trabalhadoras grávidas e lactantes não devem exercer actividades cuja avaliação tenha revelado um risco de exposição, que coloque em perigo a segurança ou a saúde, a certos agentes ou condições de trabalho especialmente perigosos;\n\nConsiderando que é conveniente prever disposições para que as trabalhadoras grávidas, puérperas ou lactantes não sejam obrigadas a exercer trabalho nocturno, quando tal for necessário do ponto de vista da sua segurança ou a saúde;\n\nConsiderando que a vulnerabilidade da trabalhadora grávida, puérpera ou lactante torna necessário um direito a um período de licença de maternidade de pelo menos 14 semanas consecutivas, repartidas antes e/ou após o parto, e o carácter obrigatório de um período de licença de maternidade de pelo menos duas semanas, repartidas antes e/ou após o parto;\n\nConsiderando que o risco de serem despedidas por motivos relacionados com o seu estado pode ter efeitos prejudiciais no estado físico e psíquico das trabalhadoras grávidas, puérperas ou lactantes e que, por conseguinte, é necessário prever uma proibição de despedimento;\n\nConsiderando que as medidas de organização do trabalho destinadas à protecção da saúde das trabalhadoras grávidas, puérperas ou lactantes não teriam efeitos úteis se não fossem acompanhadas da manutenção dos direitos ligados ao contrato de trabalho, incluindo a manutenção de uma remuneração e/ou o benefício de uma prestação adequada;\n\nConsiderando, além disso, que as disposições relativas à licença de maternidade não teriam igualmente efeitos úteis se não fossem acompanhadas da manutenção dos direitos ligados ao contrato de trabalho e da manutenção de uma remuneração e/ou do benefício de uma prestação adequada,\n\nConsiderando que a noção de prestação adequada em caso de licença de maternidade deve ser considerada um ponto técnico de referência destinado a fixar o nível de protecção mínima e não deverá em caso algum ser interpretado como implicando uma analogia da gravidez à doença,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9460b721a09b544c": {
+   "fragment_id": "SECÇÃO I — OBJECTO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "SECÇÃO I — OBJECTO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — OBJECTO E DEFINIÇÕES"
+  },
+  "3e04efeabada934e": {
+   "fragment_id": "Artigo 1o. — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1o. — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o. — Objecto\n\n1. A presente directiva, que é a décima directiva especial na acepção do no. 1 do artigo 16o. da Directiva 89/391/CEE, tem por objecto a adopção de medidas tendentes a promover a melhoria da segurança e da saúde das trabalhadoras grávidas, puérperas ou lactantes no trabalho.\n\n2. O disposto na Directiva 89/391/CEE, com excepção do no.2 do artigo 2o., aplica-se integralmente à totalidade do domínio referido no no.1, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva.\n\n3. A presente directiva não pode ter por efeito a regressão do nível de protecção das trabalhadoras grávidas, puérperas ou lactantes em relação à situação existente em cada Estado-membro à data da sua adopção."
+  },
+  "1bd90f332389ba9d": {
+   "fragment_id": "Artigo 2o. — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2o. — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o. — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) Trabalhadora grávida: toda a trabalhadora grávida que informe o empregador do seu estado, em conformidade com as legislações e/ou práticas nacionais;\n\nb) Trabalhadora puérpera: toda a trabalhadora puérpera nos termos das legislações e/ou práticas nacionais que informe o empregador do seu estado, em conformidade com essas legislações e/ou práticas;\n\nc) Trabalhadora lactante: toda a trabalhadora lactante nos termos das legislações e/ou práticas nacionais que informe o empregador do seu estado, em conformidade com essas legislações e/ou práticas."
+  },
+  "5611791b3f5179e3": {
+   "fragment_id": "SECÇÃO II — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "SECÇÃO II — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — DISPOSIÇÕES GERAIS"
+  },
+  "213258af3784cf44": {
+   "fragment_id": "Artigo 3o. — Directrizes",
+   "type": "artigo",
+   "heading": "Artigo 3o. — Directrizes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o. — Directrizes\n\n1. A Comissão, em concertação com os Estados-membros e com a assistência do Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho estabelecerá directrizes relativas à avaliação dos agentes químicos, físicos e biológicos, bem como dos processos industriais que comportem riscos para a segurança ou a saúde das trabalhadoras referidas no artigo 2o.\n\nAs directrizes referidas no primeiro parágrafo abrangerão igualmente os movimentos e posturas, a fadiga mental e física e outras sobrecargas físicas e mentais ligadas à actividade das trabalhadoras referidas no artigo 2o.\n\n2. As directrizes referidas no no. 1 têm por objectivo servir de orientação à avaliação prevista no no. 1 do artigo 4o.\n\nPara o efeito, os Estados-membros darão a conhecer as referidas directrizes aos empregadores e às trabalhadoras e/ou aos seus representantes no respecitvo Estado-membro."
+  },
+  "a0d22354b3c0373a": {
+   "fragment_id": "Artigo 4o. — Avaliação e informação",
+   "type": "artigo",
+   "heading": "Artigo 4o. — Avaliação e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o. — Avaliação e informação\n\n1. Para toda a actividade susceptível de apresentar um risco específico de exposição a agentes, processos ou condições de trabalho, cuja lista não exaustiva consta do anexo I, a natureza, o grau e a duração da exposição, na empresa e/ou estabelecimento em causa, das trabalhadoras referidas no artigo 2o. deverão ser avaliados pelo empregador, quer directamente quer por intermédio dos serviços de protecção e prevenção referidos no artigo 7o. da Directiva 89/391/CEE, para que seja possível:\n\n- apreciar todo e qualquer risco para a segurança e/ou a saúde, bem como as repercussões sobre a gravidez ou a amamentação, das trabalhadoras referidas no artigo 2o.,\n\n- determinar as medidas a tomar.\n\n2. Sem prejuízo do artigo 10o. da Directiva 89/391/CEE, na empresa e/ou no estabelecimento, as trabalhadoras referidas no artigo 2o. e as que possam encontrar-se numa das situações referidas no artigo 2o. e/ou os seus representantes serão informados dos resultados da avaliação referida no no. 1, bem como de todas as medidas relativas à segurança e à saúde no local de trabalho."
+  },
+  "539243bff902be41": {
+   "fragment_id": "Artigo 5o. — Consequências dos resultados da avaliação",
+   "type": "artigo",
+   "heading": "Artigo 5o. — Consequências dos resultados da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o. — Consequências dos resultados da avaliação\n\n1. Sem prejuízo do artigo 6o. da Directiva 89/391/CEE, se os resultados da avaliação referida no no. 1 do artigo 4o. revelarem riscos para a segurança ou a saúde ou repercussões sobre a gravidez ou a amamentação de uma trabalhadora, na acepção do artigo 2o., o empregador tomará as medidas necessárias para evitar a exposição dessa trabalhadora àqueles riscos, adaptando temporariamente as condições de trabalho e/ou do tempo de trabalho da trabalhadora em questão.\n\n2. Se a adaptação das condições de trabalho e/ou do tempo de trabalho não for técnica e/ou objectivamente possível ou não constituir uma exigência aceitável, por razões devidamente justificadas, o empregador tomará as medidas necessárias para garantir uma mudança de posto de trabalho à trabalhadora em causa.\n\n3. Caso a mudança de posto de trabalho não seja técnica e/ou objectivamente possível ou não constitua uma exigência aceitável, por razões devidamente justificadas, a trabalhadora em questão será dispensada do trabalho durante todo o período necessário à protecção da sua segurança ou saúde, em conformidade com as legislações e/ou práticas nacionais.\n\n4. O disposto no presente artigo aplica-se mutatis mutandis ao caso em que uma trabalhadora que exerça uma actividade proibida por força do artigo 6o. fique grávida ou se torne lactante e do facto informe o seu empregador."
+  },
+  "1f4e9d407545723d": {
+   "fragment_id": "Artigo 6o. — Proibições de exposição",
+   "type": "artigo",
+   "heading": "Artigo 6o. — Proibições de exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o. — Proibições de exposição\n\nPara além das disposições gerais relativas à protecção dos trabalhadores e designadamente as respeitantes aos valores-limite de exposição profissional:\n\n1. As trabalhadoras grávidas, na acepção da alínea a) do artigo 2o., não poderão em caso algum ser obrigadas a exercer actividades cuja avaliação tenha revelado riscos de exposição aos agentes e condições de trabalho referidos na secção A do anexo II, que ponham em perigo a segurança ou a saúde;\n\n2. As trabalhadoras lactantes, na acepção da alínea a) do artigo 2o., não poderão em caso algum ser obrigadas a desempenhar actividades cuja avaliação tenha revelado riscos de exposição aos agentes e condições de trabalho referidos na seção B do anexo II, que ponham em perigo a segurança ou a saúde."
+  },
+  "3f97479b3866d57c": {
+   "fragment_id": "Artigo 7o. — Trabalho nocturno",
+   "type": "artigo",
+   "heading": "Artigo 7o. — Trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o. — Trabalho nocturno\n\n1. Os Estados-membros tomarão as medidas necessárias para que as trabalhadoras referidas no artigo 2o. não sejam obrigadas a efectuar trabalhos nocturnos durante a gravidez e durante um período consecutivo ao parto, que será determinado pela autoridade nacional competente em matéria de segurança e saúde, sob reserva da apresentação de um atestado médico que confirme essa necessidade por razões de segurança ou saúde da trabalhadora em questão de acordo com as regras estabelecidas pelos Estados-membros.\n\n2. As medidas referidas no no. 1 deverão, em conformidade com as legislações e/ou práticas nacionais, incluir a poossibilidade de:\n\na) Transferência para um trabalho diurno; ou\n\nb) Dispensa de trabalho ou prolongamento da licença de maternidade sempre que essa transferência não seja técnica e/ou objectivamente possível ou não constitua uma exigência aceitável por razões devidamente justificadas."
+  },
+  "f60edac5a668ac4a": {
+   "fragment_id": "Artigo 8o. — Licença de maternidade",
+   "type": "artigo",
+   "heading": "Artigo 8o. — Licença de maternidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o. — Licença de maternidade\n\n1. Os Estados-membros tomarão as medidas necessárias para que as trabalhadoras referidas no artigo 2o. beneficiem de uma licença de maternidade de, pelo menos, 14 semanas consecutivas, a gozar antes e/ou depois do parto em conformidade com as legislações e/ou práticas nacionais.\n\n2. A licença de maternidade prevista no no.1 deve incluir uma licença de maternidade obrigatória de, pelo menos, duas semanas, repartidas antes e/ou depois do parto, em conformidade com as legislações e/ou práticas nacionais."
+  },
+  "fe3e9eebcc8149ce": {
+   "fragment_id": "Artigo 9o. — Dispensa de trabalho para exames pré-natais",
+   "type": "artigo",
+   "heading": "Artigo 9o. — Dispensa de trabalho para exames pré-natais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o. — Dispensa de trabalho para exames pré-natais\n\nOs Estados-membros tomarão as medidas necessárias para que, em conformidade com as legislações e/ou práticas nacionais, as trabalhadoras grávidas, na acepção da alínea a) do artigo 2o., beneficiem de uma dispensa de trabalho sem perda de remuneração para efectuarem exames pré-natais, caso esses exames tenham de ser efectuados durante o horário de trabalho."
+  },
+  "fea33ccca410ee04": {
+   "fragment_id": "Artigo 10o. — Proibição de despedimento",
+   "type": "artigo",
+   "heading": "Artigo 10o. — Proibição de despedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o. — Proibição de despedimento\n\nA fim de garantir às trabalhadoras, na acepção do artigo 2o., o exercício dos direitos de protecção da sua segurança e saúde reconhecidos no presente artigo, prevê-se que:\n\n1. Os Estados-membros tomem as medidas necessárias para proibir que as trabalhadoras, na acepção do artigo 2o., sejam despedidas durante o período compreendido entre o início da gravidez e o termo da licença de maternidade referida no no. 1 do artigo 8o., salvo nos casos excepcionais não relacionados com o estado de gravidez admitidos pelas legislações e/ou práticas nacionais e, se for caso disso, na medida em que a autoridade competente tenha dado o seu acordo.\n\n2. Quando uma trabalhadora, na acepção do artigo 2o., for despedida durante o período referido no no. 1, o empregador deve justificar devidamente o despedimento por escrito.\n\n3. Os Estados-membros tomem as medidas necessárias para proteger as trabalhadoras, na acepção do artigo 2o., contra as consequências de um despedimento que fosse ilegal por força do no. 1."
+  },
+  "3a72f04ba0994c91": {
+   "fragment_id": "Artigo 11o. — Direitos decorrentes do contrato de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 11o. — Direitos decorrentes do contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o. — Direitos decorrentes do contrato de trabalho\n\nA fim de garantir às trabalhadoras, na acepção do artigo 2o., o exercício dos direitos de protecção da sua segurança e saúde reconhecidos pelo presente artigo, prevê-se que:\n\n1. Nos casos referidos nos artigos 5o., 6o., e 7o., os direitos decorrentes do contrato de trabalho das trabalhadoras referidas no artigo 2o. e a manutenção de uma remuneração e/ou o benefício de uma prestação adequada devem ficar assegurados em conformidade com as legislações e/ou práticas nacionais.\n\n2. N° caso referido no artigo 8o.:\n\na) Devem ser garantidos os direitos decorrentes do contrato de trabalho das trabalhadoras referidas no artigo 2o. não referidos na alínea b) do presente ponto;\n\nb) Devem ser garantidos a manutenção de uma remuneração e/ou o benefício de uma prestação adequada às trabalhadoras, na acepção do artigo 2o.\n\n3. A prestação referida na alínea b) do ponto 2 é considerada adequada quando garanta um rendimento pelo menos equivalente ao que a trabalhadora em causa receberia no caso de uma suspensão da sua actividade por razões relacionadas com o seu estado de saúde, eventualmente dentro de um limite determinado pelas legislações nacionais.\n\n4. Os Estados-membros dispõem da faculdade de submeter o direito à remuneração ou à prestação referida no ponto 1 e na alínea b) do ponto 2 à condição de a trabalhadora em questão preencher as condições de acesso ao direito a estas vantagens previstas nas legislações nacionais.\n\nEstas condições não podem prever em caso algum períodos de trabalho superiores a 12 meses imediatamente anteriores à data prevista para o parto."
+  },
+  "73d955532d53f46a": {
+   "fragment_id": "Artigo 12o. — Defesa dos direitos",
+   "type": "artigo",
+   "heading": "Artigo 12o. — Defesa dos direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o. — Defesa dos direitos\n\nOs Estados-membros introduzirão na sua ordem jurídica interna as medidas necessárias para permitir que qualquer trabalhador que se considere lesado pela não observância das obrigações decorrentes da presente directiva exerça os seus direitos por via judicial e/ou, consoante as legislações e/ou práticas nacionais, por recurso a outras instâncias competentes."
+  },
+  "18379965261e49d6": {
+   "fragment_id": "Artigo 13o. — Alteração dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 13o. — Alteração dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o. — Alteração dos anexos\n\n1. As adaptações de carácter exclusivamente técnico a introduzir no anexo I em função do progresso técnico, da evolução de regulamentações ou especificações internacionais e dos conhecimentos no domínio abrangido pela presente directiva serão adoptadas de acordo com o procedimento previsto no artigo 17o. da Directiva 89/391/CEE.\n\n2. O anexo II só poderá ser alterado nos termos do procedimento previsto no artigo 118o.A do Tratado."
+  },
+  "a98ac8320796eb6d": {
+   "fragment_id": "Artigo 14o. — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 14o. — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o. — Disposições finais\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar dois anos após a adopção desta, ou garantirão que, o mais tardar dois anos após a adopção da presente directiva, os parceiros sociais instituam, por acordo, as disposições necessárias, devendo os Estados-membros tomar todas as disposições necessárias para poderem, em qualquer momento, garantir os resultados impostos pela presente directiva. Do facto informarão imediatamente a Comissão.\n\n2. Ao adoptarem as disposições a que se refere o no. 1, os Estados-membros devem nelas incluir uma referência à presente directiva ou acompanhá-las dessa referência aquando da sua publicação oficial. As modalidades da referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno já adoptadas ou que venham a adoptar no domínio abrangido pela presente directiva.\n\n4. Os Estados-membros apresentarão quinquenalmente à Comissão um relatório sobre a aplicação prática da presente directiva, assinalando os pontos de vista dos parceiros sociais.\n\nContudo, os Estados-membros apresentarão pela primeira vez um relatório à Comissão sobre a aplicação prática da presente directiva, assinalando os pontos de vista dos parceiros sociais, quatro anos após a adopção desta.\n\nA Comissão informará desse relatório o Parlamento Europeu, o Conselho, o Comité Económico e Social e o Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho.\n\n5. A Comissão apresentará periodicamente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório sobre a aplicação da presente directiva, tendo em conta o disposto nos nos. 1, 2 e 3.\n\n6. O Conselho reanalisará com base numa avaliação efectuada com base nos relatórios a que se refere o segundo parágrafo do no. 4 e, se necessário, numa proposta, a apresentar pela Comissão, o mais tardar cinco anos após a adopção da directiva."
+  },
+  "f9fd4ad1378c6a68": {
+   "fragment_id": "Artigo 15o.",
+   "type": "artigo",
+   "heading": "Artigo 15o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 19 de Outubro de 1992.\n\nPelo Conselho\n\nO Presidente\n\nD. CURRY\n\n(1) JO no. C 281 de 9. 11. 1990, p. 3, e JO no. C 25 de 1. 2. 1991, p. 9.\n\n(2) JO no. C 19 de 28. 1. 1991, p. 177; e JO no. C 150 de 15. 6. 1992, p. 99.\n\n(3) JO no. C 41 de 18. 2. 1991, p. 29.\n\n(4) JO no. L 185 de 9. 7. 1974, p. 15.\n\n(5) JO no. L 183 de 29. 6. 1989, p. 1."
+  },
+  "1a7d4a7b758d5e87": {
+   "fragment_id": "ANEXO I — LISTA NÃO EXAUSTIVA DOS AGENTES, PROCESSOS E CONDIÇÕES DE TRABALHO",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA NÃO EXAUSTIVA DOS AGENTES, PROCESSOS E CONDIÇÕES DE TRABALHO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA NÃO EXAUSTIVA DOS AGENTES, PROCESSOS E CONDIÇÕES DE TRABALHO\n\na que se refere o no. 1 do artigo 4o.\n\nA. Agentes\n\n1. Agentes físicos quando considerados agentes que acarretem lesões fetais e/ou possam provocar o desprendimento da placenta, nomeadamente:\n\na) Choques, vibrações mecânicas ou movimentos;\n\nb) Manuseamento de cargas que comportem riscos, nomeadamente dorso-lombares;\n\nc) Ruído;\n\nd) Radiações ionizantes (*);\n\ne) Radiações não ionizantes;\n\nf) Temperaturas extremas;\n\ng) Movimentos e posturas, deslocações - dentro e fora do estabelecimento -, fadiga mental e física e outras sobrecargas físicas ligadas à actividade da trabalhadora, na acepção do artigo 2o.\n\n2. Agentes biológicos\n\nAgentes biológicos dos grupos de risco 2 e 4 na acepção dos nos. 2 a 4 da alínea d) do artigo 2o. da Directiva 90/679/CEE (¹), na medida em que é sabido que estes agentes, ou as medidas terapêuticas que implicam, fazem perigar a saúde das mulheres grávidas e da futura criança, e se ainda não constarem do anexo II.\n\n3. Agentes químicos\n\nOs seguintes agentes químicos, na medida em que é sabido que fazem perigar a saúde das mulheres grávidas e da futura crança e se ainda não constarem do anexo II:\n\na) Substâncias rotuladas R40, R45, R46 e R47 pela Directiva 67/548/CEE (²) se ainda não constarem do anexo II;\n\nb) Agentes químicos constantes do anexo I da Directiva 90/394/CEE (³);\n\nc) Mercúrio e seus derivados;\n\nd) Medicamentos antimitóticos;\n\ne) Monóxido de carbono;\n\nf) Agentes químicos perigosos de penetração cutânea formal.\n\nB. Processos\n\nOs processos industriais enumerados no anexo I da Directiva 90/394/CEE.\n\nC. Condições de trabalho\n\nTrabalhos mineiros subterrâneos.\n\n(*) Ver Directiva 80/836/Euratom (JO no. L 246 de 17. 9. 1980, p. 1).\n\n(¹) JO no. L 374 de 31. 12. 1990, p. 1.\n\n(²) JO no. L 196 de 16. 8. 1967, p. 1 Com a última redacção que lhe foi dada pela Directiva 90/517/CEE (JO no. L 287 de 19. 10. 1990, p. 37).\n\n(³) JO no. L 196 de 26. 7. 1990, p. 1."
+  },
+  "979b75e9377f5266": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nLISTA NÃO EXAUSTIVA DOS AGENTES E CONDIÇÕES DE TRABALHO A QUE SE REFERE O ARTIGO 6o.\n\nA. Trabalhadoras grávidas na acepção da alínea a) do artigo 2o.\n\n1. Agentes\n\na) Agentes físicos\n\nTrabalho em atmosfera com sobrepressão elevada, por exemplo, recintos sob pressão, mergulho submarino.\n\nb) Agentes biológicos\n\nOs seguintes agentes biológicos:\n\n- toxoplasma,\n\n- vírus da rubéola,\n\nsalvo se existirem provas de que a trabalhadora grávida, pelo seu estado imunitário, se encontra suficientemente protegida contra esses agentes.\n\nc) Agentes químicos\n\nChumbo e seus derivados, na medida em que esses agentes possam ser absorvidos pelo organismo humano.\n\n2. Condições de trabalho\n\nTrabalhos mineiros subterrâneos.\n\nB. Mulheres lactantes na acepção da alínea c) do artigo 2o.\n\n1. Agentes\n\na) Agentes químicos\n\nChumbo e seus derivados, na medida em que esses agentes possam ser absorvidos pelo organismo humano.\n\n2. Condições de trabalho\n\nTrabalhos mineiros subterrâneos.\n\nDeclaração do Conselho e da Comissão relativa ao ponto 3 do artigo 11o. da Directiva 92/85/CEE, inscrita na acta da 1608a. sessão do Conselho (Luxemburgo, 19 de Outubro de 1992)\n\nO CONSELHO E A COMISSÃO declararam:\n\n«Na determinação do nível de prestações a que se referem o ponto 2, alínea b), e o ponto 3 do artigo 11o., é mencionada, por razões puramente técnicas, a prestação que a trabalhadora receberia na eventualidade de interrupção das suas actividades por razões relacionadas com o seu estado de saúde. Essa referência não pretende em caso algum equiparar a gravidez e o parto a uma doença. Em todos os Estados-membros, a legislação nacional em matéria de segurança social prevê o benefício de uma prestação em caso de interrupção da actividade profissional por motivos de doença. N° dispositivo actual, o vínculo estabelecido com essa prestação tem simplesmente por objectivo indicar um montante de referência, concreto e fixo em todos os Estados-membros para a determinação do montante mínimo da prestação de maternidade a pagar. As prestações pagas num Estado-membro cujo montante seja superior ao previsto na directiva, serão evidentemente mantidos, como decorre claramento do no. 3 do artigo 1o. da directiva»."
+  },
+  "05c6cfd502cba8a0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Outubro de 1992\n\nrelativa à implementação de medidas destinadas a promover a melhoria da segurança e da saúde das trabalhadoras grávidas, puérperas ou lactantes no trabalho (décima directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118.º A,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#E0001)), elaborada após consulta ao Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho,\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#E0003)),\n\nConsiderando que o artigo 118.ºA do Tratado prevê que o Conselho adopte por meio de directiva as prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, para proteger a segurança e a saúde dos trabalhadores;\n\nConsiderando que a presente directiva não pode justificar uma eventual diminuição dos níveis de protecção já atingidos em cada Estado-membro, estando os Estados-membros empenhados, por força do Tratado, em promover a melhoria das condições existentes neste domínio e tendo como objectivo a sua harmonização no progresso;\n\nConsiderando que, nos termos do artigo 118.ºA, as directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas tais, que sejam contrárias à criação e desenvolvimento de pequenas e médias empresas;\n\nConsiderando que, por força da Decisão 74/325/CEE ([^4^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#E0004)), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, o Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho é consultado pela Comissão com o objectivo de elaborar propostas neste domínio;\n\nConsiderando que a Carta Comunitária dos Direitos Sociais Fundamentais dos Trabalhadores, adoptada no Conselho Europeu de Estraburgo de 9 de Dezembro de 1989 pelos chefes de Estado ou de Governo de 11 Estados-membros da Comunidade Europeia, declara nomeadamente no seu ponto 19:\n\n«Todos os trabalhadores devem beneficiar de condições satisfatórias de protecção da saúde e da segurança no meio onde trabalham. Devem ser tomadas medidas adequadas para prosseguir a harmonização no progresso das condições existentes neste domínio»;\n\nConsiderando que a Comissão, no seu programa de acção relativo à aplicação da Carta Comunitária dos Direitos Sociais Fundamentais dos Trabalhadores, estabeleceu, entre outros objectivos, a adopção pelo Conselho de uma directiva relativa à protecção da mulher grávida no trabalho;\n\nConsiderando que a Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^5^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#E0005)), prevê, no seu artigo 15.º, que os grupos sujeitos a riscos especialmente sensíveis devem ser protegidos contra os perigos que os afectam especificamente;\n\nConsiderando que as trabalhadoras grávidas, puérperas ou lactantes devem ser consideradas, sob diversos pontos de vista, como um grupo sujeito a riscos específicos e que devem ser tomadas medidas no que respeita à sua saúde e segurança;\n\nConsiderando que a protecção da segurança e da saúde das trabalhadoras grávidas, puérperas e lactantes não deve desfavorecer as mulheres no mercado de trabalho e não deve afectar as directivas em matéria de igualdade de tratamento entre homens e mulheres;\n\nComissão que certas actividades podem apresentar um risco específico de exposição da trabalhadora grávida, puérpera ou lactante a agentes, processos ou condições de trabalho perigosos e que, por isso, estes riscos devem ser avaliados e o resultado dessa avaliação comunicado às trabalhadoras e/ou aos seus representantes;\n\nConsiderando que, por outro lado, no caso dessa avaliação revelar um risco para a segurança ou a saúde da trabalhadora, deve ser previsto um dispositivo de protecção desta;\n\nConsiderando que as trabalhadoras grávidas e lactantes não devem exercer actividades cuja avaliação tenha revelado um risco de exposição, que coloque em perigo a segurança ou a saúde, a certos agentes ou condições de trabalho especialmente perigosos;\n\nConsiderando que é conveniente prever disposições para que as trabalhadoras grávidas, puérperas ou lactantes não sejam obrigadas a exercer trabalho nocturno, quando tal for necessário do ponto de vista da sua segurança ou a saúde;\n\nConsiderando que a vulnerabilidade da trabalhadora grávida, puérpera ou lactante torna necessário um direito a um período de licença de maternidade de pelo menos 14 semanas consecutivas, repartidas antes e/ou após o parto, e o carácter obrigatório de um período de licença de maternidade de pelo menos duas semanas, repartidas antes e/ou após o parto;\n\nConsiderando que o risco de serem despedidas por motivos relacionados com o seu estado pode ter efeitos prejudiciais no estado físico e psíquico das trabalhadoras grávidas, puérperas ou lactantes e que, por conseguinte, é necessário prever uma proibição de despedimento;\n\nConsiderando que as medidas de organização do trabalho destinadas à protecção da saúde das trabalhadoras grávidas, puérperas ou lactantes não teriam efeitos úteis se não fossem acompanhadas da manutenção dos direitos ligados ao contrato de trabalho, incluindo a manutenção de uma remuneração e/ou o benefício de uma prestação adequada;\n\nConsiderando, além disso, que as disposições relativas à licença de maternidade não teriam igualmente efeitos úteis se não fossem acompanhadas da manutenção dos direitos ligados ao contrato de trabalho e da manutenção de uma remuneração e/ou do benefício de uma prestação adequada,\n\nConsiderando que a noção de prestação adequada em caso de licença de maternidade deve ser considerada um ponto técnico de referência destinado a fixar o nível de protecção mínima e não deverá em caso algum ser interpretado como implicando uma analogia da gravidez à doença,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "65bfbfa6e1731d88": {
+   "fragment_id": "OBJECTO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJECTO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E DEFINIÇÕES"
+  },
+  "b7ac1921597d93c8": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva, que é a décima directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE, tem por objecto a adopção de medidas tendentes a promover a melhoria da segurança e da saúde das trabalhadoras grávidas, puérperas ou lactantes no trabalho.\n\n2. O disposto na Directiva 89/391/CEE, com excepção do n.º2 do artigo 2.º, aplica-se integralmente à totalidade do domínio referido no n.º1, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva.\n\n3. A presente directiva não pode ter por efeito a regressão do nível de protecção das trabalhadoras grávidas, puérperas ou lactantes em relação à situação existente em cada Estado-membro à data da sua adopção."
+  },
+  "eb172c18c85ca9bd": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) *Trabalhadora grávida*: toda a trabalhadora grávida que informe o empregador do seu estado, em conformidade com as legislações e/ou práticas nacionais;\n\nb) *Trabalhadora puérpera*: toda a trabalhadora puérpera nos termos das legislações e/ou práticas nacionais que informe o empregador do seu estado, em conformidade com essas legislações e/ou práticas;\n\nc) *Trabalhadora lactante*: toda a trabalhadora lactante nos termos das legislações e/ou práticas nacionais que informe o empregador do seu estado, em conformidade com essas legislações e/ou práticas."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "0647bf7fa3dc01fd": {
+   "fragment_id": "Artigo 3.º — Directrizes",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Directrizes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Directrizes\n\n1. A Comissão, em concertação com os Estados-membros e com a assistência do Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho estabelecerá directrizes relativas à avaliação dos agentes químicos, físicos e biológicos, bem como dos processos industriais que comportem riscos para a segurança ou a saúde das trabalhadoras referidas no artigo 2.º\n\nAs directrizes referidas no primeiro parágrafo abrangerão igualmente os movimentos e posturas, a fadiga mental e física e outras sobrecargas físicas e mentais ligadas à actividade das trabalhadoras referidas no artigo 2.º\n\n2. As directrizes referidas no n.º 1 têm por objectivo servir de orientação à avaliação prevista no n.º 1 do artigo 4.º\n\nPara o efeito, os Estados-membros darão a conhecer as referidas directrizes aos empregadores e às trabalhadoras e/ou aos seus representantes no respecitvo Estado-membro."
+  },
+  "9299ba5ee32fa2de": {
+   "fragment_id": "Artigo 4.º — Avaliação e informação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Avaliação e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação e informação\n\n1. Para toda a actividade susceptível de apresentar um risco específico de exposição a agentes, processos ou condições de trabalho, cuja lista não exaustiva consta do anexo I, a natureza, o grau e a duração da exposição, na empresa e/ou estabelecimento em causa, das trabalhadoras referidas no artigo 2.º deverão ser avaliados pelo empregador, quer directamente quer por intermédio dos serviços de protecção e prevenção referidos no artigo 7.º da Directiva 89/391/CEE, para que seja possível:\n\n— apreciar todo e qualquer risco para a segurança e/ou a saúde, bem como as repercussões sobre a gravidez ou a amamentação, das trabalhadoras referidas no artigo 2.º,\n\n— determinar as medidas a tomar.\n\n2. Sem prejuízo do artigo 10.º da Directiva 89/391//CEE, na empresa e/ou no estabelecimento, as trabalhadoras referidas no artigo 2.º e as que possam encontrar-se numa das situações referidas no artigo 2.º e/ou os seus representantes serão informados dos resultados da avaliação referida no n.º 1, bem como de todas as medidas relativas à segurança e à saúde no local de trabalho."
+  },
+  "96c6f54c5326493a": {
+   "fragment_id": "Artigo 5.º — Consequências dos resultados da avaliação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Consequências dos resultados da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Consequências dos resultados da avaliação\n\n1. Sem prejuízo do artigo 6.º da Directiva 89/391/CEE, se os resultados da avaliação referida no n.º 1 do artigo 4.º revelarem riscos para a segurança ou a saúde ou repercussões sobre a gravidez ou a amamentação de uma trabalhadora, na acepção do artigo 2.º, o empregador tomará as medidas necessárias para evitar a exposição dessa trabalhadora àqueles riscos, adaptando temporariamente as condições de trabalho e/ou do tempo de trabalho da trabalhadora em questão.\n\n2. Se a adaptação das condições de trabalho e/ou do tempo de trabalho não for técnica e/ou objectivamente possível ou não constituir uma exigência aceitável, por razões devidamente justificadas, o empregador tomará as medidas necessárias para garantir uma mudança de posto de trabalho à trabalhadora em causa.\n\n3. Caso a mudança de posto de trabalho não seja técnica e/ou objectivamente possível ou não constitua uma exigência aceitável, por razões devidamente justificadas, a trabalhadora em questão será dispensada do trabalho durante todo o período necessário à protecção da sua segurança ou saúde, em conformidade com as legislações e/ou práticas nacionais.\n\n4. O disposto no presente artigo aplica-se *mutatis mutandis* ao caso em que uma trabalhadora que exerça uma actividade proibida por força do artigo 6.º fique grávida ou se torne lactante e do facto informe o seu empregador."
+  },
+  "66d45129e1aece38": {
+   "fragment_id": "Artigo 6.º — Proibições de exposição",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Proibições de exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Proibições de exposição\n\nPara além das disposições gerais relativas à protecção dos trabalhadores e designadamente as respeitantes aos valores-limite de exposição profissional:\n\n1. As trabalhadoras grávidas, na acepção da alínea a) do artigo 2.º, não poderão em caso algum ser obrigadas a exercer actividades cuja avaliação tenha revelado riscos de exposição aos agentes e condições de trabalho referidos na secção A do anexo II, que ponham em perigo a segurança ou a saúde;\n\n2. As trabalhadoras lactantes, na acepção da alínea a) do artigo 2.º, não poderão em caso algum ser obrigadas a desempenhar actividades cuja avaliação tenha revelado riscos de exposição aos agentes e condições de trabalho referidos na seção B do anexo II, que ponham em perigo a segurança ou a saúde."
+  },
+  "5513930525b47430": {
+   "fragment_id": "Artigo 7.º — Trabalho nocturno",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Trabalho nocturno\n\n1. Os Estados-membros tomarão as medidas necessárias para que as trabalhadoras referidas no artigo 2.º não sejam obrigadas a efectuar trabalhos nocturnos durante a gravidez e durante um período consecutivo ao parto, que será determinado pela autoridade nacional competente em matéria de segurança e saúde, sob reserva da apresentação de um atestado médico que confirme essa necessidade por razões de segurança ou saúde da trabalhadora em questão de acordo com as regras estabelecidas pelos Estados-membros.\n\n2. As medidas referidas no n.º 1 deverão, em conformidade com as legislações e/ou práticas nacionais, incluir a poossibilidade de:\n\na) Transferência para um trabalho diurno; ou\n\nb) Dispensa de trabalho ou prolongamento da licença de maternidade sempre que essa transferência não seja técnica e/ou objectivamente possível ou não constitua uma exigência aceitável por razões devidamente justificadas."
+  },
+  "ca089a0dcda7d01e": {
+   "fragment_id": "Artigo 8.º — Licença de maternidade",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Licença de maternidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licença de maternidade\n\n1. Os Estados-membros tomarão as medidas necessárias para que as trabalhadoras referidas no artigo 2.º beneficiem de uma licença de maternidade de, pelo menos, 14 semanas consecutivas, a gozar antes e/ou depois do parto em conformidade com as legislações e/ou práticas nacionais.\n\n2. A licença de maternidade prevista no n.º1 deve incluir uma licença de maternidade obrigatória de, pelo menos, duas semanas, repartidas antes e/ou depois do parto, em conformidade com as legislações e/ou práticas nacionais."
+  },
+  "4d1c621ff294fafd": {
+   "fragment_id": "Artigo 9.º — Dispensa de trabalho para exames pré-natais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Dispensa de trabalho para exames pré-natais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dispensa de trabalho para exames pré-natais\n\nOs Estados-membros tomarão as medidas necessárias para que, em conformidade com as legislações e/ou práticas nacionais, as trabalhadoras grávidas, na acepção da alínea a) do artigo 2.º, beneficiem de uma dispensa de trabalho sem perda de remuneração para efectuarem exames pré-natais, caso esses exames tenham de ser efectuados durante o horário de trabalho."
+  },
+  "8d5d5377ea26e6be": {
+   "fragment_id": "Artigo 10.º — Proibição de despedimento",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Proibição de despedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Proibição de despedimento\n\nA fim de garantir às trabalhadoras, na acepção do artigo 2.º, o exercício dos direitos de protecção da sua segurança e saúde reconhecidos no presente artigo, prevê-se que:\n\n1. Os Estados-membros tomem as medidas necessárias para proibir que as trabalhadoras, na acepção do artigo 2.º, sejam despedidas durante o período compreendido entre o início da gravidez e o termo da licença de maternidade referida no n.º 1 do artigo 8.º, salvo nos casos excepcionais não relacionados com o estado de gravidez admitidos pelas legislações e/ou práticas nacionais e, se for caso disso, na medida em que a autoridade competente tenha dado o seu acordo.\n\n2. Quando uma trabalhadora, na acepção do artigo 2.º, for despedida durante o período referido no n.º 1, o empregador deve justificar devidamente o despedimento por escrito.\n\n3. Os Estados-membros tomem as medidas necessárias para proteger as trabalhadoras, na acepção do artigo 2.º, contra as consequências de um despedimento que fosse ilegal por força do n.º 1."
+  },
+  "0fd7760e0ab074f6": {
+   "fragment_id": "Artigo 11.º — Direitos decorrentes do contrato de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Direitos decorrentes do contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos decorrentes do contrato de trabalho\n\nA fim de garantir às trabalhadoras, na acepção do artigo 2.º, o exercício dos direitos de protecção da sua segurança e saúde reconhecidos pelo presente artigo, prevê-se que:\n\n1. Nos casos referidos nos artigos 5.º, 6.º, e 7.º, os direitos decorrentes do contrato de trabalho das trabalhadoras referidas no artigo 2.º e a manutenção de uma remuneração e/ou o benefício de uma prestação adequada devem ficar assegurados em conformidade com as legislações e/ou práticas nacionais.\n\n2. No caso referido no artigo 8.º:\n\na) Devem ser garantidos os direitos decorrentes do contrato de trabalho das trabalhadoras referidas no artigo 2.º não referidos na alínea b) do presente ponto;\n\nb) Devem ser garantidos a manutenção de uma remuneração e/ou o benefício de uma prestação adequada às trabalhadoras, na acepção do artigo 2.º\n\n3. A prestação referida na alínea b) do ponto 2 é considerada adequada quando garanta um rendimento pelo menos equivalente ao que a trabalhadora em causa receberia no caso de uma suspensão da sua actividade por razões relacionadas com o seu estado de saúde, eventualmente dentro de um limite determinado pelas legislações nacionais.\n\n4. Os Estados-membros dispõem da faculdade de submeter o direito à remuneração ou à prestação referida no ponto 1 e na alínea b) do ponto 2 à condição de a trabalhadora em questão preencher as condições de acesso ao direito a estas vantagens previstas nas legislações nacionais."
+  },
+  "0d2e058cb96d3d33": {
+   "fragment_id": "Artigo 12.º — Defesa dos direitos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Defesa dos direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Defesa dos direitos\n\nOs Estados-membros introduzirão na sua ordem jurídica interna as medidas necessárias para permitir que qualquer trabalhador que se considere lesado pela não observância das obrigações decorrentes da presente directiva exerça os seus direitos por via judicial e/ou, consoante as legislações e/ou práticas nacionais, por recurso a outras instâncias competentes."
+  },
+  "6a66c6255360ffdd": {
+   "fragment_id": "Artigo 13.º — Alteração dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração dos anexos\n\n1. As adaptações de carácter exclusivamente técnico a introduzir no anexo I em função do progresso técnico, da evolução de regulamentações ou especificações internacionais e dos conhecimentos no domínio abrangido pela presente directiva serão adoptadas de acordo com o procedimento previsto no artigo 17.º da Directiva 89/391/CEE.\n\n2. O anexo II só poderá ser alterado nos termos do procedimento previsto no artigo 118.ºA do Tratado."
+  },
+  "695b506e0615e7fe": {
+   "fragment_id": "Artigo 14.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposições finais\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar dois anos após a adopção desta, ou garantirão que, o mais tardar dois anos após a adopção da presente directiva, os parceiros sociais instituam, por acordo, as disposições necessárias, devendo os Estados-membros tomar todas as disposições necessárias para poderem, em qualquer momento, garantir os resultados impostos pela presente directiva. Do facto informarão imediatamente a Comissão.\n\n2. Ao adoptarem as disposições a que se refere o n.º 1, os Estados-membros devem nelas incluir uma referência à presente directiva ou acompanhá-las dessa referência aquando da sua publicação oficial. As modalidades da referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno já adoptadas ou que venham a- adoptar no domínio abrangido pela presente directiva."
+  },
+  "5459240020eddcf5": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "c066d24b90af31b9": {
+   "fragment_id": "LISTA NÃO EXAUSTIVA DOS AGENTES, PROCESSOS E CONDIÇÕES DE TRABALHO",
+   "type": "divisao",
+   "heading": "LISTA NÃO EXAUSTIVA DOS AGENTES, PROCESSOS E CONDIÇÕES DE TRABALHO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA NÃO EXAUSTIVA DOS AGENTES, PROCESSOS E CONDIÇÕES DE TRABALHO"
+  },
+  "1cbce3afdfa4449a": {
+   "fragment_id": "a que se refere o n.º 1 do artigo 4.º",
+   "type": "divisao",
+   "heading": "a que se refere o n.º 1 do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a que se refere o n.º 1 do artigo 4.º"
+  },
+  "f99e73d5a2a18280": {
+   "fragment_id": "A. Agentes",
+   "type": "divisao",
+   "heading": "A. Agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Agentes\n\n1. *Agentes físicos* quando considerados agentes que acarretem lesões fetais e/ou possam provocar o desprendimento da placenta, nomeadamente: a) Choques, vibrações mecânicas ou movimentos; b) Manuseamento de cargas que comportem riscos, nomeadamente dorso-lombares; c) Ruído; d) Radiações ionizantes ([^6^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#E0006)); e) Radiações não ionizantes; f) Temperaturas extremas; g) Movimentos e posturas, deslocações — dentro e fora do estabelecimento —, fadiga mental e física e outras sobrecargas físicas ligadas à actividade da trabalhadora, na acepção do artigo 2.º\n\n2. Agentes biológicosAgentes biológicos dos grupos de risco 2 e 4 na acepção dos n.^os^ 2 a 4 da alínea d) do artigo 2.º da Directiva 90/679/CEE ([^7^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#E0007)), na medida em que é sabido que estes agentes, ou as medidas terapêuticas que implicam, fazem perigar a saúde das mulheres grávidas e da futura criança, e se ainda não constarem do anexo II.\n\n3. Agentes químicosOs seguintes agentes químicos, na medida em que é sabido que fazem perigar a saúde das mulheres grávidas e da futura crança e se ainda não constarem do anexo II: a) Substâncias rotuladas R40, R45, R46 e R47 pela Directiva 67/548/CEE ([^8^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#E0008)) se ainda não constarem do anexo II; b) Agentes químicos constantes do anexo I da Directiva 90/394/CEE ([^9^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#E0009)); c) Mercúrio e seus derivados; d) Medicamentos antimitóticos; e) Monóxido de carbono; f) Agentes químicos perigosos de penetração cutânea formal."
+  },
+  "a124994063aa3cfc": {
+   "fragment_id": "B. Processos",
+   "type": "divisao",
+   "heading": "B. Processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Processos\n\nOs processos industriais enumerados no anexo I da Directiva 90/394/CEE."
+  },
+  "3a2ca88d6f60268d": {
+   "fragment_id": "C. Condições de trabalho",
+   "type": "divisao",
+   "heading": "C. Condições de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Condições de trabalho\n\nTrabalhos mineiros subterrâneos."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "8a532293b7ba85fb": {
+   "fragment_id": "LISTA NÃO EXAUSTIVA DOS AGENTES E CONDIÇÕES DE TRABALHO",
+   "type": "divisao",
+   "heading": "LISTA NÃO EXAUSTIVA DOS AGENTES E CONDIÇÕES DE TRABALHO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA NÃO EXAUSTIVA DOS AGENTES E CONDIÇÕES DE TRABALHO"
+  },
+  "8b957165e32269e2": {
+   "fragment_id": "a que se refere o artigo 6.º",
+   "type": "divisao",
+   "heading": "a que se refere o artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a que se refere o artigo 6.º"
+  },
+  "fcd17ebf47e8eb12": {
+   "fragment_id": "A. Trabalhadoras grávidas na acepção da alínea a) do artigo 2.º",
+   "type": "divisao",
+   "heading": "A. Trabalhadoras grávidas na acepção da alínea a) do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Trabalhadoras grávidas na acepção da alínea a) do artigo 2.º"
+  },
+  "68d2d731b8857fd3": {
+   "fragment_id": "1. Agentes",
+   "type": "divisao",
+   "heading": "1. Agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Agentes"
+  },
+  "ce3cd00a16689713": {
+   "fragment_id": "a) Agentes físicos",
+   "type": "divisao",
+   "heading": "a) Agentes físicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) Agentes físicos\n\nTrabalho em atmosfera com sobrepressão elevada, por exemplo, recintos sob pressão, mergulho submarino."
+  },
+  "677cf5a8235d6912": {
+   "fragment_id": "b) Agentes biológicos",
+   "type": "divisao",
+   "heading": "b) Agentes biológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) Agentes biológicos\n\nOs seguintes agentes biológicos:\n\n— toxoplasma,\n\n— vírus da rubéola,\n\nsalvo se existirem provas de que a trabalhadora grávida, pelo seu estado imunitário, se encontra suficientemente protegida contra esses agentes."
+  },
+  "daa421d8847eed80": {
+   "fragment_id": "c) Agentes químicos",
+   "type": "divisao",
+   "heading": "c) Agentes químicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### c) Agentes químicos\n\nChumbo e seus derivados, na medida em que esses agentes possam ser absorvidos pelo organismo humano."
+  },
+  "0cea807756bf9077": {
+   "fragment_id": "2. Condições de trabalho",
+   "type": "divisao",
+   "heading": "2. Condições de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Condições de trabalho\n\nTrabalhos mineiros subterrâneos."
+  },
+  "682d6126961d70e5": {
+   "fragment_id": "B. Mulheres lactantes na acepção da alínea c) do artigo 2.º",
+   "type": "divisao",
+   "heading": "B. Mulheres lactantes na acepção da alínea c) do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Mulheres lactantes na acepção da alínea c) do artigo 2.º"
+  },
+  "d4593a7c3e3b992e": {
+   "fragment_id": "a) Agentes químicos",
+   "type": "divisao",
+   "heading": "a) Agentes químicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) Agentes químicos\n\nChumbo e seus derivados, na medida em que esses agentes possam ser absorvidos pelo organismo humano."
+  },
+  "192996912077e4e2": {
+   "fragment_id": "Declaração do Conselho e da Comissão relativa ao ponto 3 do artigo 11.º da Directiva 92/85/CEE, inscrita na acta da 1608.ª sessão do Conselho (Luxemburgo, 19 de Outubro de 1992)",
+   "type": "divisao",
+   "heading": "Declaração do Conselho e da Comissão relativa ao ponto 3 do artigo 11.º da Directiva 92/85/CEE, inscrita na acta da 1608.ª sessão do Conselho (Luxemburgo, 19 de Outubro de 1992)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Declaração do Conselho e da Comissão relativa ao ponto 3 do artigo 11.º da Directiva 92/85/CEE, inscrita na acta da 1608.ª sessão do Conselho (Luxemburgo, 19 de Outubro de 1992)\n\nO CONSELHO E A COMISSÃO declararam:\n\n«Na determinação do nível de prestações a que se referem o ponto 2, alínea b), e o ponto 3 do artigo 11.º, é mencionada, por razões puramente técnicas, a prestação que a trabalhadora receberia na eventualidade de interrupção das suas actividades por razões relacionadas com o seu estado de saúde. Essa referência não pretende em caso algum equiparar a gravidez e o parto a uma doença. Em todos os Estados-membros, a legislação nacional em matéria de segurança social prevê o benefício de uma prestação em caso de interrupção da actividade profissional por motivos de doença. No dispositivo actual, o vínculo estabelecido com essa prestação tem simplesmente por objectivo indicar um montante de referência, concreto e fixo em todos os Estados-membros para a determinação do montante mínimo da prestação de maternidade a pagar. As prestações pagas num Estado-membro cujo montante seja superior ao previsto na directiva, serão evidentemente mantidos, como decorre claramento do n.º 3 do artigo 1.º da directiva».\n\n---"
+  },
+  "dfa3aade338292fa": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#src.E0001)) JO n.º C 281 de 9.11.1990, p. 3, e JO n.º C 25 de 1.2.1991, p. 9.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#src.E0002)) JO n.º C 19 de 28.1.1991, p. 177; e JO n.º C 150 de 15.6.1992, p. 99.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#src.E0003)) JO n.º C 41 de 18.2.1991, p. 29.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#src.E0004)) JO n.º L 185 de 9.7.1974, p. 15.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#src.E0005)) JO n.º L 183 de 29.6.1989, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#src.E0006)) Ver Directiva 80/836/Euratom (JO n.º L 246 de 17.9.1980, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#src.E0007)) JO n.º L 374 de 31.12.1990, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#src.E0008)) JO n.º 196 de 16.8.1967, p. 1 Com a última redacção que lhe foi dada pela Directiva 90/517/CEE (JO n.º L 287 de 19.10.1990, p. 37).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/8a7c642f-911c-4231-8917-66930f638e02.0019.03/DOC_1#src.E0009)) JO n.º L 196 de 26.7.1990, p. 1."
+  },
+  "03248592700b240d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Outubro de 1992\n\nrelativa à implementação de medidas destinadas a promover a melhoria da segurança e da saúde das trabalhadoras grávidas, puérperas ou lactantes no trabalho (décima directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118.º A,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0001)), elaborada após consulta ao Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho,\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0003)),\n\nConsiderando que o artigo 118.ºA do Tratado prevê que o Conselho adopte por meio de directiva as prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, para proteger a segurança e a saúde dos trabalhadores;\n\nConsiderando que a presente directiva não pode justificar uma eventual diminuição dos níveis de protecção já atingidos em cada Estado-membro, estando os Estados-membros empenhados, por força do Tratado, em promover a melhoria das condições existentes neste domínio e tendo como objectivo a sua harmonização no progresso;\n\nConsiderando que, nos termos do artigo 118.ºA, as directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas tais, que sejam contrárias à criação e desenvolvimento de pequenas e médias empresas;\n\nConsiderando que, por força da Decisão 74/325/CEE ([^4^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0004)), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, o Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho é consultado pela Comissão com o objectivo de elaborar propostas neste domínio;\n\nConsiderando que a Carta Comunitária dos Direitos Sociais Fundamentais dos Trabalhadores, adoptada no Conselho Europeu de Estraburgo de 9 de Dezembro de 1989 pelos chefes de Estado ou de Governo de 11 Estados-membros da Comunidade Europeia, declara nomeadamente no seu ponto 19:\n\n«Todos os trabalhadores devem beneficiar de condições satisfatórias de protecção da saúde e da segurança no meio onde trabalham. Devem ser tomadas medidas adequadas para prosseguir a harmonização no progresso das condições existentes neste domínio»;\n\nConsiderando que a Comissão, no seu programa de acção relativo à aplicação da Carta Comunitária dos Direitos Sociais Fundamentais dos Trabalhadores, estabeleceu, entre outros objectivos, a adopção pelo Conselho de uma directiva relativa à protecção da mulher grávida no trabalho;\n\nConsiderando que a Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^5^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0005)), prevê, no seu artigo 15.º, que os grupos sujeitos a riscos especialmente sensíveis devem ser protegidos contra os perigos que os afectam especificamente;\n\nConsiderando que as trabalhadoras grávidas, puérperas ou lactantes devem ser consideradas, sob diversos pontos de vista, como um grupo sujeito a riscos específicos e que devem ser tomadas medidas no que respeita à sua saúde e segurança;\n\nConsiderando que a protecção da segurança e da saúde das trabalhadoras grávidas, puérperas e lactantes não deve desfavorecer as mulheres no mercado de trabalho e não deve afectar as directivas em matéria de igualdade de tratamento entre homens e mulheres;\n\nComissão que certas actividades podem apresentar um risco específico de exposição da trabalhadora grávida, puérpera ou lactante a agentes, processos ou condições de trabalho perigosos e que, por isso, estes riscos devem ser avaliados e o resultado dessa avaliação comunicado às trabalhadoras e/ou aos seus representantes;\n\nConsiderando que, por outro lado, no caso dessa avaliação revelar um risco para a segurança ou a saúde da trabalhadora, deve ser previsto um dispositivo de protecção desta;\n\nConsiderando que as trabalhadoras grávidas e lactantes não devem exercer actividades cuja avaliação tenha revelado um risco de exposição, que coloque em perigo a segurança ou a saúde, a certos agentes ou condições de trabalho especialmente perigosos;\n\nConsiderando que é conveniente prever disposições para que as trabalhadoras grávidas, puérperas ou lactantes não sejam obrigadas a exercer trabalho nocturno, quando tal for necessário do ponto de vista da sua segurança ou a saúde;\n\nConsiderando que a vulnerabilidade da trabalhadora grávida, puérpera ou lactante torna necessário um direito a um período de licença de maternidade de pelo menos 14 semanas consecutivas, repartidas antes e/ou após o parto, e o carácter obrigatório de um período de licença de maternidade de pelo menos duas semanas, repartidas antes e/ou após o parto;\n\nConsiderando que o risco de serem despedidas por motivos relacionados com o seu estado pode ter efeitos prejudiciais no estado físico e psíquico das trabalhadoras grávidas, puérperas ou lactantes e que, por conseguinte, é necessário prever uma proibição de despedimento;\n\nConsiderando que as medidas de organização do trabalho destinadas à protecção da saúde das trabalhadoras grávidas, puérperas ou lactantes não teriam efeitos úteis se não fossem acompanhadas da manutenção dos direitos ligados ao contrato de trabalho, incluindo a manutenção de uma remuneração e/ou o benefício de uma prestação adequada;\n\nConsiderando, além disso, que as disposições relativas à licença de maternidade não teriam igualmente efeitos úteis se não fossem acompanhadas da manutenção dos direitos ligados ao contrato de trabalho e da manutenção de uma remuneração e/ou do benefício de uma prestação adequada,\n\nConsiderando que a noção de prestação adequada em caso de licença de maternidade deve ser considerada um ponto técnico de referência destinado a fixar o nível de protecção mínima e não deverá em caso algum ser interpretado como implicando uma analogia da gravidez à doença,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "53153e8774583298": {
+   "fragment_id": "A. Agentes",
+   "type": "divisao",
+   "heading": "A. Agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Agentes\n\n1. *Agentes físicos* quando considerados agentes que acarretem lesões fetais e/ou possam provocar o desprendimento da placenta, nomeadamente: a) Choques, vibrações mecânicas ou movimentos; b) Manuseamento de cargas que comportem riscos, nomeadamente dorso-lombares; c) Ruído; d) Radiações ionizantes ([^6^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0006)); e) Radiações não ionizantes; f) Temperaturas extremas; g) Movimentos e posturas, deslocações — dentro e fora do estabelecimento —, fadiga mental e física e outras sobrecargas físicas ligadas à actividade da trabalhadora, na acepção do artigo 2.º\n\n2. Agentes biológicosAgentes biológicos dos grupos de risco 2, 3 e 4 na aceção do artigo 2.º, segundo parágrafo, n.^os^ 2, 3 e 4, da Diretiva 2000/54/CE, do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0007)), na medida em que é sabido que estes agentes, ou as medidas terapêuticas que implicam, fazem perigar a saúde das mulheres grávidas e da futura criança, e se ainda não constarem do Anexo II.\n\n3. Agentes químicosOs seguintes agentes químicos, na medida em que é sabido que fazem perigar a saúde das mulheres grávidas e da futura crança e se ainda não constarem do anexo II: [▼M2](http://publications.europa.eu/resource/celex/32014L0027) a) Substâncias e misturas que preencham os critérios de classificação ao abrigo do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0008)) numa ou em várias das seguintes classes e categorias de perigo com uma ou várias das seguintes frases de perigo, e se ainda não constarem do Anexo II: — mutagenicidade em células germinativas, categoria 1A, 1B ou 2 (H340, H341), — carcinogenicidade, categoria 1A, 1B ou 2 (H350, H350i, H351), — toxicidade reprodutiva, categorias 1A, 1B ou 2, ou a categoria suplementar para efeitos sobre a lactação ou através dela (H360, H360D, H360FD, H360Fd, H360Df, H361, H361d, H361fd, H362), — toxicidade para órgãos-alvo específicos após exposição única, categoria 1 ou 2 (H370, H371); b) Agentes químicos constantes do Anexo I da Diretiva 2004/37/CE do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0009)); [▼B](http://publications.europa.eu/resource/celex/31992L0085) c) Mercúrio e seus derivados; d) Medicamentos antimitóticos; e) Monóxido de carbono; f) Agentes químicos perigosos de penetração cutânea formal."
+  },
+  "36adc4db3315f191": {
+   "fragment_id": "B. Processos",
+   "type": "divisao",
+   "heading": "B. Processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Processos\n\nOs processos industriais constantes do Anexo I da Diretiva 2004/37/CE."
+  },
+  "f30244f40f4973cb": {
+   "fragment_id": "A QUE SE REFERE O ARTIGO 6.º",
+   "type": "divisao",
+   "heading": "A QUE SE REFERE O ARTIGO 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A QUE SE REFERE O ARTIGO 6.º"
+  },
+  "6e76986c8de599ca": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0001)) JO n.º C 281 de 9.11.1990, p. 3, e JO n.º C 25 de 1.2.1991, p. 9.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0002)) JO n.º C 19 de 28.1.1991, p. 177; e JO n.º C 150 de 15.6.1992, p. 99.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0003)) JO n.º C 41 de 18.2.1991, p. 29.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0004)) JO n.º L 185 de 9.7.1974, p. 15.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0005)) JO n.º L 183 de 29.6.1989, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0006)) Ver Directiva 80/836/Euratom (JO n.º L 246 de 17.9.1980, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0007)) Diretiva 2000/54/CE do Parlamento Europeu e do Conselho, de 18 de setembro de 2000, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes biológicos durante o trabalho (sétima diretiva especial nos termos do n.º 1 do artigo 16.º da Diretiva 89/391/CEE) (JO L 262 de 17.10.2000, p. 21).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0008)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/dee9ad79-dd38-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0009)) Diretiva 2004/37/CE do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (sexta diretiva especial nos termos do n.º l do artigo 16.º da Diretiva 89/391/CEE do Conselho) (JO L 158 de 30.4.2004, p. 50)."
+  },
+  "827a34b8d06e1e71": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Outubro de 1992\n\nrelativa à implementação de medidas destinadas a promover a melhoria da segurança e da saúde das trabalhadoras grávidas, puérperas ou lactantes no trabalho (décima directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)"
+  },
+  "b274b7d2e8c77d83": {
+   "fragment_id": "Artigo 13.º — Alteração do anexo I",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração do anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração do anexo I\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 13.º-A, no que diz respeito a introduzir alterações de caráter exclusivamente técnico no anexo I, a fim de ter em conta o progresso técnico, a evolução das regulamentações e especificações internacionais e os novos conhecimentos.\n\nSempre que, em casos excecionais e devidamente justificados que comportam riscos iminentes, diretos e graves para a saúde e a segurança físicas dos trabalhadores e de outras pessoas, existam imperativos de urgência que exijam uma ação num prazo muito curto, aplica-se o procedimento previsto no artigo 13.º-B aos atos delegados adotados nos termos do presente artigo."
+  },
+  "7965e0ce721b3210": {
+   "fragment_id": "Artigo 13.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 13.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 13.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 13.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/8c38efd9-e083-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 13.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "b58e6578151ae237": {
+   "fragment_id": "Artigo 13.º-B — Procedimento de urgência",
+   "type": "artigo",
+   "heading": "Artigo 13.º-B — Procedimento de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-B — Procedimento de urgência\n\n1. Os atos delegados adotados nos termos do presente artigo entram em vigor sem demora e são aplicáveis desde que não tenha sido formulada qualquer objeção nos termos do n.º 2. Na notificação de um ato delegado ao Parlamento Europeu e ao Conselho devem expor-se os motivos que justificam o recurso ao procedimento de urgência.\n\n2. O Parlamento Europeu ou o Conselho podem formular objeções a um ato delegado de acordo com o procedimento a que se refere o artigo 13.º-A, n.º 6. Nesse caso, a Comissão revoga imediatamente o ato após a notificação da decisão pela qual o Parlamento Europeu ou o Conselho tiverem formulado objeções."
+  },
+  "a93d10088bf09e25": {
+   "fragment_id": "A. Agentes",
+   "type": "divisao",
+   "heading": "A. Agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Agentes\n\n1. *Agentes físicos* quando considerados agentes que acarretem lesões fetais e/ou possam provocar o desprendimento da placenta, nomeadamente: a) Choques, vibrações mecânicas ou movimentos; b) Manuseamento de cargas que comportem riscos, nomeadamente dorso-lombares; c) Ruído; d) Radiações ionizantes ([^*1^](http://publications.europa.eu/resource/cellar/8c38efd9-e083-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002)); e) Radiações não ionizantes; f) Temperaturas extremas; g) Movimentos e posturas, deslocações — dentro e fora do estabelecimento —, fadiga mental e física e outras sobrecargas físicas ligadas à actividade da trabalhadora, na acepção do artigo 2.º\n\n2. Agentes biológicosAgentes biológicos dos grupos de risco 2, 3 e 4 na aceção do artigo 2.º, segundo parágrafo, n.^os^ 2, 3 e 4, da Diretiva 2000/54/CE, do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/8c38efd9-e083-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003)), na medida em que é sabido que estes agentes, ou as medidas terapêuticas que implicam, fazem perigar a saúde das mulheres grávidas e da futura criança, e se ainda não constarem do Anexo II.\n\n3. Agentes químicosOs seguintes agentes químicos, na medida em que é sabido que fazem perigar a saúde das mulheres grávidas e da futura crança e se ainda não constarem do anexo II: [▼M2](http://publications.europa.eu/resource/celex/32014L0027) a) Substâncias e misturas que preencham os critérios de classificação ao abrigo do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/8c38efd9-e083-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0004)) numa ou em várias das seguintes classes e categorias de perigo com uma ou várias das seguintes frases de perigo, e se ainda não constarem do Anexo II: — mutagenicidade em células germinativas, categoria 1A, 1B ou 2 (H340, H341), — carcinogenicidade, categoria 1A, 1B ou 2 (H350, H350i, H351), — toxicidade reprodutiva, categorias 1A, 1B ou 2, ou a categoria suplementar para efeitos sobre a lactação ou através dela (H360, H360D, H360FD, H360Fd, H360Df, H361, H361d, H361fd, H362), — toxicidade para órgãos-alvo específicos após exposição única, categoria 1 ou 2 (H370, H371); b) Agentes químicos constantes do Anexo I da Diretiva 2004/37/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/8c38efd9-e083-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0005)); [▼B](http://publications.europa.eu/resource/celex/31992L0085) c) Mercúrio e seus derivados; d) Medicamentos antimitóticos; e) Monóxido de carbono; f) Agentes químicos perigosos de penetração cutânea formal."
+  },
+  "860d53d262573ed1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8c38efd9-e083-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/8c38efd9-e083-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) Ver Directiva 80/836/Euratom (JO n.º L 246 de 17.9.1980, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8c38efd9-e083-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0003)) Diretiva 2000/54/CE do Parlamento Europeu e do Conselho, de 18 de setembro de 2000, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes biológicos durante o trabalho (sétima diretiva especial nos termos do n.º 1 do artigo 16.º da Diretiva 89/391/CEE) (JO L 262 de 17.10.2000, p. 21).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8c38efd9-e083-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0004)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8c38efd9-e083-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0005)) Diretiva 2004/37/CE do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (sexta diretiva especial nos termos do n.º l do artigo 16.º da Diretiva 89/391/CEE do Conselho) (JO L 158 de 30.4.2004, p. 50)."
+  }
+ }
+}

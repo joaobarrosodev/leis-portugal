@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:472908:por
+title: Portaria n.º 21993
+short_title: null
+summary: Aumenta de vários lugares os quadros do pessoal auxiliar de diversos serviços dos registos e do notariado
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça - Direcção-Geral dos Registos e do Notariado
+proposing_entity: null
+official_number: '21993'
+official_date: null
+publication_date: '1966-05-12'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 112/1966, Série I de 1966-05-12
+  number: '112'
+  series: I
+  supplement: null
+  pages: 755 - 755
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/05/11200/07550755.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '472908'
+  dre_path: /dr/detalhe/portaria/21993-1966-472908
+  internal: pt:dre:472908:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21993-1966-472908
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21993-1966-472908
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:16:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2c86768c372c6b661dc02b3317011ea002a3e11c8b2b74d0bd435995d28e6b9b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:185295:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:16:04Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21993
+
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do n.º 3 do artigo 63.º do [Decreto n.º 44064](https://diariodarepublica.pt/dr/detalhe/decreto/44064-1961-185295), de 28 de Novembro de 1961, sejam aumentados os quadros do pessoal auxiliar dos serviços abaixo indicados mediante a criação dos seguintes lugares:
+
+Conservatórias do Registo Civil de Aveiro e de Vila Nova de Famalicão - um escriturária de 1.ª classe.
+
+Conservatória do Registo Civil do Funchal - um terceiro-ajudante.
+
+Conservatórias do Regista Civil de Portimão, Fundão e Monção - um escriturário de 2.ª classe.
+
+Serviços anexados do Registo Civil e Notariado de Sesimbra e Borba - um escriturário de 2.ª classe.
+
+Serviços anexados do Registo Civil e Predial de Vagos - um escriturário de 2.ª classe.
+
+Cartório notarial do Montijo - um escriturário de 2.ª classe.
+
+Conservatória do Registo de Automóveis de Lisboa - um primeiro-ajudante, dois segundos-ajudantes, três terceiros-ajudantes e sete escriturários de 1.ª classe.
+
+Ministério da Justiça, 12 de Maio de 1966. - O Ministro da Justiça, João de Matos Antunes Varela.

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:534674:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-920510266",
+ "dre_path": "/dr/detalhe/aviso/200-2005-534674",
+ "source_lastmod": "2025-07-02",
+ "versions": [
+  {
+   "date": "2005-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920636877"
+   ]
+  }
+ ],
+ "fragments": {
+  "920636877": {
+   "fragment_id": "920510267",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 200/2005\n\nPor ordem superior se torna público que o Comité Administrativo do Acordo Relativo à Adopção de Condições Uniformes da Homologação e de Reconhecimento Recíproco de Homologação dos Equipamentos e Peças de Veículos a Motor, assinado em Genebra em 20 de Março de 1958, comunicou ao Secretariado das Nações Unidas o ponto de situação do Acordo e seus Regulamentos à data de 16 de Junho de 2004.\n\nPortugal é Parte do mesmo Regulamento, aprovado pelo Decreto n.º 14/89, publicado no Diário da República, 1.ª série, n.º 90, de 18 de Abril de 1989, tendo entrado em vigor em 11 de Agosto de 1989 (fpropôs emendas ao Regulamento n.º 54, assinado em Genebra em 1 de Março de 1983, Relativo à Adopção de Condições Uniformes de Homologação de Pneus para Automóveis e Seus Reboques.Diário da República, 1.ª série, n.º 250, de 30 de Outubro de 1989)."
+  }
+ }
+}

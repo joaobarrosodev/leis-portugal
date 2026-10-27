@@ -1,0 +1,157 @@
+---
+schema_version: '1.0'
+id: pt:dre:241664:por
+title: Portaria n.º 798/98
+short_title: null
+summary: Fixa os preços a pagar pelas entidades interessadas pela inscrição e manutenção de uma variedade no Catálogo Nacional
+  de Variedades de Batata (CNVB)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 798/98
+official_date: null
+publication_date: '1998-09-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 219/1998, Série I-B de 1998-09-22
+  number: '219'
+  series: I
+  supplement: null
+  pages: 4930 - 4930
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/09/219b00/49304930.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/798/1998/09/22/p/dre/pt/html
+  oj: null
+  dre: '241664'
+  dre_path: /dr/detalhe/portaria/798-1998-241664
+  internal: pt:dre:241664:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/798-1998-241664
+  metadata_url: https://data.dre.pt/eli/port/798/1998/09/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/798-1998-241664
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 22c6e425775303a4274e8af50689505fc3f7c3b4e3b584bb83037895d76d3155
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Batata
+- Catálogo Nacional de Variedades de Batata
+- Preço
+- TAXA de Prestação de Serviços
+relationships:
+- type: amended_by
+  target: pt:dre:264144:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:531450:por
+  label: "Mantida em vigor pelo DEC LEI.268/2000.24.10.2000.MADRP, DR.IS-A [246] de 24.10.2000, até à publicação da portaria\
+    \ a que se refere o artigo 17.º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-2000-531450
+  date: '2000-10-24'
+- type: cites
+  target: pt:dre:370200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618540:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:264144:por
+  label: "Revogada pela PORT.288/2002.2002.03.18.MF DR.IS-B [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-2002-264144
+  date: '2002-03-18'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:11:11Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 798/98
+
+de 22 de Setembro
+
+Passados cerca de nove anos sobre a entrada em vigor da [Portaria n.º 709/89](https://diariodarepublica.pt/dr/detalhe/portaria/709-1989-618540), de 22 de Agosto, que estabelece os preços a pagar pela inscrição de variedades no Catálogo Nacional de Variedades de Batata (CNVB) ao ex-Centro Nacional de Protecção da Produção Agrícola, hoje Direcção-Geral de Protecção das Culturas, verifica-se que aqueles se encontram profundamente desajustados. Torna-se assim necessário proceder à sua actualização, em função das alterações de valor dos factores envolvidos.
+
+Nestes termos:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no n.º 2 do artigo 17.º do [Decreto-Lei n.º 311/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1988-370200), de 7 de Setembro, o seguinte:
+
+1.º Os preços a pagar pelas entidades interessadas, pela inscrição e manutenção de uma variedade no Catálogo Nacional de Variedades de Batata (CNVB) são os constantes da tabela anexa à presente portaria.
+
+2.º A desistência do pedido de inscrição de uma variedade no CNVB após a sua aceitação pela Direcção-Geral de Protecção das Culturas não dispensa a entidade proponente do pagamento do quantativo estipulado na mesma tabela.
+
+3.º Uma parte, a determinar anualmente, das quantias provenientes dos ensaios referidos no n.º 2 da referida tabela será atribuída às direcções regionais de agricultura, sendo a sua distribuição feita na proporção do número e validade dos ensaios que por estas tenham sido realizados.
+
+4.º Tendo em consideração o custo dos materiais e remunerações, o valor atribuído a cada ponto é de 1$50, a actualizar periodicamente em função das despesas inerentes.
+
+5.º É revogada a [Portaria n.º 709/89](https://diariodarepublica.pt/dr/detalhe/portaria/709-1989-618540), de 22 de Agosto.
+
+6.º Este diploma entra imediatamente em vigor.
+
+Ministério da Agricultura do Desenvolvimento Rural e das Pescas.
+
+Assinado em 3 de Setembro de 1998.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar.
+
+## ANEXO — Tabela de preços, para a inscrição de variedades no Catálogo Nacional de Variedades de Batata, a que se refere o n.º 1.º
+
+... Preço (pontos)
+
+1 - Pedido de inscrição de uma variedade ... 20000
+
+2 - Ensaios de valor agronómico (VA)(por cada ano de ensaio) ... 90000
+
+3 - Ensaios de valor de utilização (VU)(por cada ano de ensaio) ... 10000
+
+4 - Ensaios de distinção homogeneidade e estabilidade (DHE)(por cada ano de ensaio) ... 50000
+
+5 - Permanência da variedade no CNVB (anual):
+
+5.1 - No 2.º, 3.º e 4.º anos ... 16500
+
+5.2 - No 5.º, 6.º e 7.º anos ... 27500
+
+5.3 - No 8.º ano e seguintes ... 37500

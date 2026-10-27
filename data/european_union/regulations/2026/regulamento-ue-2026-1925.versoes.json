@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R1925:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R1925-20260807",
+ "dre_path": null,
+ "source_lastmod": "2026-08-07",
+ "versions": [
+  {
+   "date": "2026-08-07",
+   "future": false,
+   "celex": "02026R1925-20260807",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4eb78090f7ae9456",
+    "fc78e6acb022afac",
+    "cd826b900c604e32",
+    "afe3fce47eb94f71",
+    "3ea8a93764aa9c83",
+    "700a100c0b1ab97e"
+   ]
+  }
+ ],
+ "fragments": {
+  "4eb78090f7ae9456": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de agosto de 2026\n\nque inicia um inquérito sobre a eventual evasão às medidas *anti-dumping* instituídas pelo Regulamento de Execução (UE) 2024/357 sobre as importações de determinados tecidos de fibra de vidro de malha aberta originários da República Popular da China através de importações de determinados tecidos de fibra de vidro de malha aberta expedidos do Kosovo ([^*3^](http://publications.europa.eu/resource/cellar/ec50841d-b6ed-11f1-81de-01aa75ed71a1.0020.02/DOC_1#E0003)), da Moldávia, da Macedónia do Norte e da Sérvia, independentemente de serem ou não declarados originários do Kosovo, da Moldávia, da Macedónia do Norte e da Sérvia, e que torna obrigatório o registo dessas importações"
+  },
+  "fc78e6acb022afac": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ iniciado um inquérito nos termos do artigo 13.º, n.º 3, do Regulamento (UE) 2016/1036, a fim de determinar se as importações na União de tecidos de fibra de vidro de malha aberta, com células de dimensão superior a 1,8 mm, tanto em comprimento como em largura, e um peso superior a 35 g/m^2^, com exclusão de discos de fibra de vidro, atualmente classificados nos códigos NC ex 7019 63 00, ex 7019 64 00, ex 7019 65 00, ex 7019 66 00 e ex 7019 69 90, e expedidos do Kosovo, da Moldávia, da Macedónia do Norte e da Sérvia, independentemente de serem ou não declarados originários do Kosovo, da Moldávia, da Macedónia do Norte e da Sérvia (códigos TARIC 7019 63 00 16, 7019 63 00 17, 7019 63 00 18, 7019 63 00 21, 7019 64 00 16, 7019 64 00 17, 7019 64 00 18, 7019 64 00 21, 7019 65 00 16, 7019 65 00 17, 7019 65 00 22, 7019 65 00 23, 7019 66 00 16, 7019 66 00 17, 7019 66 00 22, 7019 66 00 23, 7019 69 90 16, 7019 69 90 17, 7019 69 90 18 e 7019 69 90 21 ), estão a evadir as medidas instituídas pelo Regulamento de Execução (UE) 2024/357 da Comissão."
+  },
+  "cd826b900c604e32": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As autoridades aduaneiras dos Estados-Membros adotam, nos termos do artigo 13.º, n.º 3, e do artigo 14.º, n.º 5, do Regulamento (UE) 2016/1036, as medidas adequadas no sentido de registar as importações na União identificadas no artigo 1.º do presente regulamento.\n\n2. O registo caduca nove meses após a data de entrada em vigor do presente regulamento."
+  },
+  "afe3fce47eb94f71": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As partes interessadas devem dar-se a conhecer contactando a Comissão no prazo de 15 dias a partir da data de entrada em vigor do presente regulamento.\n\n2. Salvo indicação em contrário, para que a sua posição seja tomada em consideração durante o inquérito, as partes interessadas devem apresentar as suas observações por escrito e enviar as respostas ao questionário, os pedidos de isenção ou quaisquer outras informações no prazo de 37 dias a partir da publicação do presente regulamento no *Jornal Oficial da União Europeia*.\n\n3. As partes interessadas podem igualmente solicitar uma audição à Comissão no mesmo prazo de 37 dias. Para as audições relativas à fase inicial do inquérito, o pedido deve ser apresentado no prazo de 15 dias a partir da data de entrada em vigor do presente regulamento. Os pedidos de audição devem ser apresentados por escrito e especificar as razões que os justificam."
+  },
+  "3ea8a93764aa9c83": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "700a100c0b1ab97e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/ec50841d-b6ed-11f1-81de-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Esta designação não prejudica as posições relativas ao estatuto e está conforme com a Resolução 1244/1999 do CSNU e com o parecer do TIJ sobre a declaração de independência do Kosovo.\n\n> ([^*2^](http://publications.europa.eu/resource/cellar/ec50841d-b6ed-11f1-81de-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Esta designação não prejudica as posições relativas ao estatuto e está conforme com a Resolução 1244/1999 do CSNU e com o parecer do TIJ sobre a declaração de independência do Kosovo.\n\n> ([^*3^](http://publications.europa.eu/resource/cellar/ec50841d-b6ed-11f1-81de-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Esta designação não prejudica as posições relativas ao estatuto e está conforme com a Resolução 1244/1999 do CSNU e com o parecer do TIJ sobre a declaração de independência do Kosovo."
+  }
+ }
+}

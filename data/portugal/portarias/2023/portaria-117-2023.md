@@ -1,0 +1,292 @@
+---
+schema_version: '1.0'
+id: pt:dre:212837359:por
+title: Portaria n.º 117/2023
+short_title: null
+summary: A Imprensa Nacional-Casa da Moeda, S. A. (INCM, S. A.), fica autorizada, no âmbito do Plano de Emissões de Moedas
+  Comemorativas para 2023, a cunhar e a comercializar dez moedas de coleção
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças
+proposing_entity: null
+official_number: 117/2023
+official_date: null
+publication_date: '2023-05-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 90/2023, Série I de 2023-05-10
+  number: '90'
+  series: I
+  supplement: null
+  pages: 16 - 21
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09000/0001600021.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-12-27'
+version_history:
+  file: portaria-117-2023.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2023-05-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-12-27'
+    amending: pt:dre:835674304:por
+    amending_title: Portaria n.º 452/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/117/2023/p/cons/20231226/pt/html
+  oj: null
+  dre: '212837359'
+  dre_path: /dr/detalhe/portaria/117-2023-212837359
+  internal: pt:dre:212837359:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/117-2023-212837359
+  metadata_url: https://data.dre.pt/eli/port/117/2023/p/cons/20231226/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-835804830
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-835804830
+  retrieved_at: '2026-10-22T13:01:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3907c728eeb196dfbdaa25d8f74d281892de26b6a209b1be2af39ba0d5dcad83
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:01:42Z'
+  notes: 2 versão(ões); histórico completo em portaria-117-2023.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Imprensa Nacional-Casa da Moeda
+- Moeda Comemorativa
+- Numismática
+relationships:
+- type: amended_by
+  target: pt:dre:835674304:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/452-2023-835674304
+  date: '2023-12-26'
+- type: cites
+  target: pt:dre:635850:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/246/2007/06/26/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:01:42Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 117/2023
+
+Portaria n.º 117/2023
+
+de 10 de maio
+
+Sumário: A Imprensa Nacional-Casa da Moeda, S. A. (INCM, S. A.), fica autorizada, no âmbito do Plano de Emissões de Moedas Comemorativas para 2023, a cunhar e a comercializar dez moedas de coleção.
+
+Nos termos do Plano de Emissões de Moedas Comemorativas para 2023, a Imprensa Nacional - Casa da Moeda, S. A., é autorizada a cunhar dez moedas de coleção comemorativas de vários eventos ou efemérides.
+
+No contexto da segunda série referente aos «Tesouros Numismáticos Portugueses», será emitida a quarta moeda designada «Moeda» alusiva à Moeda (4000 réis), uma das primeiras a serem produzidas através da cunhagem por balancé de parafuso, técnica introduzida em Portugal durante a regência do príncipe D. Pedro, que permitiu lavrar peças em série com acabamentos mais perfeitos.
+
+Com o intuito de assinalar a compreensão da influência recíproca entre o ser humano e os ecossistemas marinhos, e também como forma de sensibilização para o Objetivo de Desenvolvimento Sustentável n.º 14, da Agenda 2030 das Nações Unidas, será emitida uma moeda comemorativa alusiva à Literacia dos Mares, evidenciando a importância da sua preservação para o atual contexto mundial. Esta moeda surge no contexto da comemoração do 125.º aniversário do Aquário Vasco da Gama, um dos mais antigos aquários públicos do mundo. Na série de moedas alusivas ao tema dos «Dinossauros de Portugal», será emitida a terceira moeda - Miragaia longicollum - , uma espécie de estegossauro herbívoro do Jurássico Superior, identificada na região da Lourinhã.
+
+Na série de moedas comemorativas dedicada às relações entre «Portugal e o Oriente» sob o mote da «arte de contacto» será emitida a terceira moeda, alusiva às relações comerciais e culturais entre Portugal e a Índia, cujo testemunho mais expressivo é o Mobiliário Indo-Português, de elevada qualidade técnica e artística.
+
+No âmbito de um projeto de apoio e reforço da consciência social associado à preservação da natureza e da biodiversidade, desenvolvido com o apoio e colaboração do Instituto da Conservação da Natureza e das Florestas, I. P., é dado seguimento à série de moedas alusivas a «Espécies de plantas ameaçadas», com a emissão de uma moeda dedicada à Hortelã-brava-de-folha-longa (Mentha longifolia), existente no Parque Natural de Montesinho e sinalizada como espécie em perigo na Lista Vermelha da Flora Vascular de Portugal, contribuindo para a sensibilização do Objetivo de Desenvolvimento Sustentável n.º 15, da Agenda 2030 das Nações Unidas.
+
+Inserida na série dedicada aos Heróis e Criaturas da Mitologia, que celebra personagens transversais e intemporais da cultura universal, suscetíveis de constituir pontos de contacto entre as sucessivas gerações, será emitida a moeda comemorativa alusiva à figura imaginária do Unicórnio, ao qual se atribuiria a capacidade mágica de transformar qualquer tipo de substância impura em substância brilhante, cheia de luz e vida.
+
+Com o intuito de homenagear a música portuguesa e os seus mais ilustres representantes, dá-se início a uma nova série de moedas de coleção com a cunhagem de uma moeda alusiva ao cantor e compositor José Afonso, pioneiro de uma ideia de nova canção portuguesa, de cuja descendência nasceram obras de outros grandes cantautores das décadas de 1960 e 1970. A sua obra cruza-se com a história política e social do país, e ainda hoje gera descendências.
+
+Integrada na série que evidencia elementos da cultura tradicional e popular através de jogos de infância clássicos e antigos, será emitida a segunda moeda da coleção «Jogos de Infância», dedicada ao conhecido jogo eletrónico Pac-Man, que se tornou um ex libris da cultura popular da década de 1980.
+
+Na série de moedas alusivas à «Arte Contemporânea Urbana», será emitida a segunda moeda, representativa do trabalho de Bordalo II, nome pelo qual é conhecido o artista plástico Artur Bordalo, reconhecido nacional e internacionalmente pelas suas esculturas feitas a partir de lixo e desperdícios instaladas em diversos ambientes urbanos, contribuindo desta forma para promover o Objetivo de Desenvolvimento Sustentável n.º 13, da Agenda 2030 das Nações Unidas.
+
+Será ainda emitida uma moeda dedicada ao Mundo Digital, presença cada vez mais assídua e transformadora da vida nos nossos dias, cujo desenho foi gerado por inteligência artificial, representando uma realidade em que o biológico e o digital, o natural e o artificial se conciliam. Atendendo à génese computacional desta moeda justifica-se associar-lhe a emissão de ativos digitais (NFT - non-fungible tokens), no sentido de aproximar o colecionismo numismático do universo da arte digital.
+
+A emissão, cunhagem, colocação em circulação e comercialização das referidas moedas de coleção é regulada pelo disposto no Decreto-Lei n.º 246/2007, de 26 de junho, na sua redação atual, nos aspetos não regulamentados por normas comunitárias ou pela presente portaria.
+
+Foi ouvido o Banco de Portugal.
+
+Assim, ao abrigo do n.º 2 do artigo 5.º do Decreto-Lei n.º 246/2007, de 26 de junho, na sua redação atual, manda o Governo, pelo Secretário de Estado do Tesouro, no uso da competência delegada, nos termos da alínea a) do n.º 3 do Despacho n.º 2867/2023, de 22 de fevereiro, do Ministro das Finanças, publicado no Diário da República, 2.ª série, n.º 44, de 2 de março de 2023, o seguinte:
+
+###### Artigo 1.º — Aprovação da emissão
+
+A Imprensa Nacional-Casa da Moeda, S. A. (INCM, S. A.), fica autorizada, no âmbito do Plano de Emissões de Moedas Comemorativas para 2023, a cunhar e a comercializar as seguintes moedas de coleção:
+
+a) Uma moeda designada «Moeda», integrada na série «Tesouros Numismáticos Portugueses»;
+
+b) Uma moeda designada «Literacia dos Mares»;
+
+c) Uma moeda designada «Miragaia longicollum», integrada na série «Dinossauros de Portugal»;
+
+d) Uma moeda designada «Mobiliário Indo-Português», integrada na série «Portugal e o Oriente»;
+
+e) Uma moeda designada «Hortelã-brava-de-folha-longa», integrada na série «Espécies de plantas ameaçadas»;
+
+f) Uma moeda designada «Unicórnio», integrada na série «Heróis e Criaturas da Mitologia»;
+
+g) Uma moeda designada «José Afonso», integrada na série «Músicos Portugueses»;
+
+h) (Revogada.)
+
+i) Uma moeda designada «Bordalo II», integrada na série «Arte Contemporânea Urbana»;
+
+j) Uma moeda designada «Mundo Digital».
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 452/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/452-2023-835674304), em vigor a partir de 2023-12-27
+
+###### Artigo 2.º — Características e outros elementos da cunhagem
+
+1 - As características visuais das moedas de coleção referidas no artigo anterior são as seguintes:
+
+a) A moeda designada «Moeda» apresenta no anverso ao centro o Escudo de armas reais coroado, ladeado à esquerda pelo valor facial, à direita por quatro florões, e circundado na parte inferior pela legenda «REPÚBLICA PORTUGUESA»; no reverso ao centro apresenta-se a cruz da Ordem de Cristo cantonada por quatro florões, ladeada à esquerda pela legenda «Casa da Moeda», à direita pela identificação do autor e circundada pela legenda «IN HOC . SIGNO . VINCES . 2023» ficando o ano de emissão na parte superior da moeda;
+
+b) A moeda designada «Literacia dos Mares» apresenta no campo central do anverso o corpo de um ouriço-do-mar, circundado pela legenda «República Portuguesa», um escudete do escudo nacional, tendo à sua esquerda «2023», e à sua direita o valor facial; no reverso apresenta no campo central a figura de uma lula, circundada no campo superior pela legenda «Literacia dos Mares» e à direita pela legenda «Casa da Moeda» e a indicação da autora. A versão em prata com acabamento especial do tipo «Prova numismática» (proof) tem alguns apontamentos de cor;
+
+c) A moeda designada «Miragaia longicollum» apresenta no campo central do anverso o fóssil do dinossauro em espiral, ao centro o valor facial e o escudo nacional, e na parte central esquerda as legendas «Portugal» e «2023»; no reverso, apresenta no campo central o dinossauro em posição frontal com a cabeça e cauda viradas para o seu lado direito, na zona inferior em silhueta a representação do solo e de um arvoredo, na orla à esquerda a indicação da autora e a legenda «Casa da Moeda», e na orla do quadrante superior direito o nome científico da espécie Miragaia longicollum. A versão em prata com acabamento especial do tipo «Provas numismáticas» (proof) tem alguns apontamentos de cor;
+
+d) A moeda designada «Mobiliário Indo-Português» apresenta no anverso a representação de duas cabeças de leões, frente a frente, ao estilo do mobiliário indo-português, acima das quais ao centro está representado o escudo nacional, e abaixo o valor facial, na orla superior a legenda «Mobiliário Indo-Português» e na orla inferior ao centro a identificação da autora, as legendas «Casa da Moeda» à esquerda, e «Portugal» e «2023» à direita; no reverso, no campo central, uma estilização da árvore da vida, composta por um jarrão decorado do qual saem ramos de flores e folhagem, e um pássaro ao centro, de ambos os lados uma serpente, ao estilo do mobiliário indo-português. As versões em prata e ouro com acabamento especial do tipo «Prova numismática» (proof) têm apontamentos de cor;
+
+e) A moeda designada «Hortelã-brava-de-folha-longa» apresenta no anverso, ocupando quase todo o campo, alguns pés da planta em flor, em silhueta, do lado direito o escudo nacional encimado pelo valor facial, e na orla do quadrante superior direito a identificação da autora e a legenda «Casa da Moeda»; no reverso, no campo central, a representação de pés de hortelã em grande plano, na orla superior figura a legenda «Hortelã-brava-de-folha-longa» e na parte inferior esquerda as legendas «Portugal» e «2023». A versão em prata com acabamento especial do tipo «Prova numismática» (proof) tem alguns apontamentos de cor;
+
+f) A moeda designada «Unicórnio» apresenta na parte inferior do anverso a figura de um unicórnio deitado sobre ramos de uma romanzeira, encimado à esquerda por uma lua e à direita por um sol, no campo superior apresenta o valor facial, um escudete do escudo nacional e a legenda «Portugal», e na orla do quadrante superior esquerdo a legenda «Casa da Moeda»; o reverso apresenta no campo central a figura de um unicórnio em pé escondido entre ramos de uma romanzeira, por detrás dos quais se entreveem vários sóis, na orla superior a legenda «Unicórnio» e na orla inferior a identificação da autora e a legenda «2023». As versões em prata e em ouro com acabamento especial do tipo «Prova numismática» (proof) tem alguns apontamentos de cor;
+
+g) A moeda designada «José Afonso» apresenta na metade superior do anverso a representação de uma mão a tocar guitarra, e na orla inferior à esquerda as legendas «2023» e «José Afonso», um escudete do escudo nacional ao centro, e à direita a legenda «Portugal» e o valor facial; o reverso apresenta uma representação do perfil do cantautor José Afonso e na orla, sobre o pescoço, a legenda «Casa da Moeda» e a identificação do autor;
+
+h) (Revogada.)
+
+i) A moeda designada «Bordalo II» apresenta um recorte em forma semicircular, preenchido por um polímero de cor; no anverso ao centro três setas representando o símbolo internacional de reciclagem, o valor facial, a legenda «2023» e outra simbologia avulsa, na orla, a representação do escudo nacional e a legenda «Portugal» em baixo a legenda «dez paus», na orla que envolve a porção em polímero, a legenda «Casa da Moeda» alternando as letras com asteriscos; no reverso a figura esboçada de uma coruja, na orla em cima a identificação do autor, e na orla que circunda a porção polimérica em baixo a legenda «Artivist». A moeda apresenta apontamentos de cor;
+
+j) A moeda designada «Mundo Digital» apresenta no anverso, desenhado por humanos para máquinas, uma série de arcos concêntricos tracejados, que codificam a expressão matemática correspondente à imagem do reverso; junto ao bordo à esquerda alinham-se dois escudetes do escudo de Portugal, a legenda «Portugal», um escudete, «2023», dois escudetes, «Mundo Digital», o valor facial, e a legenda «Casa da Moeda» e a identificação da autoria «CISUC»; o reverso, criado por inteligência artificial com o objetivo de representar um «mundo digital» para um humano, representa uma imagem dividida em seis sectores circulares, e três camadas de estilo visual distinto: uma primeira camada lisa, a superfície; uma segunda com estruturas abstratas e padrões emergentes; uma terceira camada de linhas concêntricas com dois níveis de altura formando uma base binária.
+
+2 - O valor facial para a moeda de coleção indicada na alínea a) do artigo 1.º é de 2,50 (euro).
+
+3 - O valor facial para a moeda de coleção indicada na alínea b) do artigo 1.º é de 7,50 (euro).
+
+4 - O valor facial para as moedas de coleção indicadas nas alíneas c), d), e), f) e g) do artigo 1.º é de 5 (euro).
+
+5 - O valor facial para as moedas de coleção indicadas nas alíneas i) e j) do artigo 1.º é de 10 (euro).
+
+6 - As moedas indicadas nas alíneas b) a g) do artigo 1.º, produzidas ao abrigo da presente portaria, são cunhadas com acabamento normal e com acabamento especial do tipo «Provas numismáticas» (proof), de acordo com o disposto no artigo 4.º do Decreto-Lei n.º 246/2007, de 26 de junho, na sua redação atual.
+
+7 - As moedas referidas nas alíneas a), i) e j), do artigo 1.º, produzidas ao abrigo da presente portaria, são cunhadas apenas com acabamento especial do tipo «Provas numismáticas» (proof), de acordo com o disposto no artigo 4.º do Decreto-Lei n.º 246/2007, de 26 de junho, na sua redação atual.
+
+8 - As moedas com acabamento especial são devidamente protegidas e apresentadas em embalagens próprias.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 452/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/452-2023-835674304), em vigor a partir de 2023-12-27
+
+###### Artigo 3.º — Especificações técnicas
+
+1 - As moedas de coleção indicadas na alínea a), de valor facial 2,50 (euro), em acabamento especial do tipo «Prova numismática» (proof) são cunhadas em ouro com um teor mínimo de 99,9 %, têm 15,55 g de massa com uma tolerância de mais ou menos 2 %, o diâmetro de 28 mm e o bordo serrilhado.
+
+2 - As especificações técnicas das moedas de coleção indicadas na alínea b) do artigo 1.º, com o valor facial de 7,50 (euro), são as seguintes:
+
+a) As moedas com acabamento normal são cunhadas em liga de cuproníquel, com teor de níquel de 25 % com uma tolerância de mais ou menos 1,5 %, têm 18,5 g de massa com uma tolerância de mais ou menos 3 %, o diâmetro de 33 mm e o bordo serrilhado;
+
+b) As moedas com acabamento especial do tipo «Prova numismática» (proof) são cunhadas em liga de prata com teor de 92,5 % com uma tolerância de mais ou menos 1 %, têm 13,5 g de massa com uma tolerância de mais ou menos 1,5 %, o diâmetro de 33 mm e o bordo serrilhado.
+
+3 - As especificações técnicas das moedas de coleção indicadas nas alíneas c) e e) do artigo 1.º, com o valor facial de 5 (euro), são as seguintes:
+
+a) As moedas com acabamento normal são cunhadas em liga de cuproníquel, com teor de níquel de 25 % com uma tolerância de mais ou menos 1,5 %, têm 14 g de massa com uma tolerância de mais ou menos 3 %, o diâmetro de 30 mm e o bordo serrilhado;
+
+b) As moedas de prata com acabamento especial do tipo «Prova numismática» (proof) são cunhadas em liga de prata com teor de 92,5 % com uma tolerância de mais ou menos 1 %, têm 14 g de massa com uma tolerância de mais ou menos 1,5 %, o diâmetro de 30 mm e o bordo serrilhado.
+
+4 - As especificações técnicas das moedas de coleção indicadas na alínea d) do artigo 1.º, com o valor facial de 5 (euro), são as seguintes:
+
+a) As moedas com acabamento normal são cunhadas em liga de cuproníquel, com teor de níquel de 25 % com uma tolerância de mais ou menos 1,5 %, têm 14 g de massa com uma tolerância de mais ou menos 3 %, o diâmetro de 30 mm e o bordo liso;
+
+b) As moedas de prata com acabamento especial do tipo «Prova numismática» (proof) são cunhadas em liga de prata com teor de 92,5 % com uma tolerância de mais ou menos 1 %, têm 14 g de massa com uma tolerância de mais ou menos 1,5 %, o diâmetro de 30 mm e o bordo serrilhado;
+
+c) As moedas de ouro com acabamento especial do tipo «Prova numismática» (proof) são cunhadas em ouro com teor mínimo de 99,9 %, têm 15,55 g de massa com uma tolerância de mais ou menos 2 %, o diâmetro de 30 mm e o bordo serrilhado.
+
+5 - As especificações técnicas das moedas de coleção indicadas nas alíneas f) e g) do artigo 1.º, com o valor facial de 5 (euro), são as seguintes:
+
+a) As moedas de prata com acabamento normal são cunhadas em liga de cuproníquel, com teor de níquel de 25 % com uma tolerância de mais ou menos 1,5 %, têm 14 g de massa com uma tolerância de mais ou menos 3 %, o diâmetro de 30 mm e o bordo serrilhado;
+
+b) As moedas de prata com acabamento especial do tipo «Prova numismática» (proof) são cunhadas em liga de prata com teor de 92,5 % com uma tolerância de mais ou menos 1 %, têm 14 g de massa com uma tolerância de mais ou menos 1,5 %, o diâmetro de 30 mm e o bordo serrilhado;
+
+c) As moedas de ouro com acabamento especial do tipo «Prova numismática» (proof) são cunhadas em ouro com teor mínimo de 99,9 %, têm 15,55 g de massa com uma tolerância de mais ou menos 2 %, o diâmetro de 30 mm e o bordo serrilhado.
+
+6 - (Revogado.)
+
+7 - As moedas de coleção indicadas na alínea i) do artigo 1.º, com o valor facial de 10 (euro), do tipo «Provas numismáticas» (proof) são cunhadas em prata com um teor de 92,5 % com uma tolerância de mais ou menos 1 %, têm 19,3 g de massa com uma tolerância de mais ou menos 5 %, o diâmetro de 40 mm e o bordo serrilhado.
+
+8 - As moedas de coleção indicadas na alínea j) do artigo 1.º, com o valor facial de 10 (euro), do tipo «Provas numismáticas» (proof) são cunhadas em prata com um teor de 92,5 % com uma tolerância de mais ou menos 1 %, têm 27 g de massa com uma tolerância de mais ou menos 1,5 %, o diâmetro de 40 mm e o bordo serrilhado.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 452/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/452-2023-835674304), em vigor a partir de 2023-12-27
+
+###### Artigo 4.º — Limites de emissão
+
+Os limites de emissão das moedas de coleção a que se refere o artigo 1.º são fixados do seguinte modo:
+
+a) Relativamente à moeda designada «Moeda», o limite é de 6250 (euro) (seis mil e duzentos e cinquenta euros) e a INCM, S. A., é autorizada a cunhar até 2500 moedas em ouro com acabamento especial do tipo «Prova numismática» (proof);
+
+b) Relativamente à moeda «Literacia dos Mares», o limite é de 243 750 (euro) (duzentos e quarenta e três mil e setecentos e cinquenta euros) e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 2500 moedas em prata com acabamento especial do tipo «Prova numismática» (proof);
+
+c) Relativamente à moeda «Miragaia longicollum», o limite é de 165 000 (euro) (cento e sessenta e cinco mil euros) e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 3000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof);
+
+d) Relativamente à moeda «Mobiliário Indo-Português», o limite é 175 000 (euro) (cento e setenta e cinco mil euros) e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 3000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof) e 2000 moedas em ouro com acabamento especial do tipo «Prova numismática» (proof);
+
+e) Relativamente à moeda «Hortelã-brava-de-folha-longa», o limite é de 165 000 (euro) (cento e sessenta e cinco mil euros) e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 3000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof);
+
+f) Relativamente à moeda «Unicórnio», o limite é 175 000 (euro) (cento e setenta e cinco mil euros) e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 3000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof) e 2000 moedas em ouro com acabamento especial do tipo «Prova numismática» (proof);
+
+g) Relativamente à moeda «José Afonso», o limite é 175 000 (euro) (cento e setenta e cinco mil euros) e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 3000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof) e 2000 moedas em ouro com acabamento especial do tipo «Prova numismática» (proof);
+
+h) (Revogada.)
+
+i) Relativamente à moeda «Bordalo II», o limite é de 40 000 (euro) (quarenta mil euros) e a INCM, S. A., é autorizada a cunhar até 4000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof);
+
+j) Relativamente à moeda «Mundo Digital», o limite é de 40 000 (euro) (quarenta mil euros) e a INCM, S. A., é autorizada a cunhar até 4000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 452/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/452-2023-835674304), em vigor a partir de 2023-12-27
+
+###### Artigo 5.º — Curso legal e poder liberatório
+
+1 - Às moedas cunhadas ao abrigo da presente portaria é conferido poder liberatório apenas em Portugal.
+
+2 - Com exceção do Estado, através das Caixas do Tesouro, do Banco de Portugal e das instituições de crédito, cuja atividade consista em receber depósitos do público, ninguém pode ser obrigado a receber num único pagamento mais de 50 destas moedas.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado do Tesouro, Pedro Nuno Pereira de Sousa Rodrigues, em 5 de maio de 2023.
+
+116439942

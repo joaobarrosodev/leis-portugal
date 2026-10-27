@@ -1,0 +1,154 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:347766:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-947233423",
+ "dre_path": "/dr/detalhe/portaria/668-2001-347766",
+ "source_lastmod": "2025-11-19",
+ "versions": [
+  {
+   "date": "2001-07-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "947235088",
+    "947235090",
+    "947235091",
+    "947235092",
+    "947235093",
+    "947235094",
+    "947235095",
+    "947235096",
+    "947235097",
+    "947235098",
+    "947235099",
+    "947235100",
+    "947235101",
+    "947235102",
+    "947235103"
+   ]
+  }
+ ],
+ "fragments": {
+  "947235088": {
+   "fragment_id": "947233424",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 668/2001\n\nde 4 de Julho\n\nA necessidade de garantir a existência de estruturas dotadas da capacidade e conhecimentos específicos adequados às funções de prevenção dos incêndios florestais levou à publicação do Decreto-Lei n.º 179/99, de 21 de Junho, e à consequente criação de equipas de sapadores florestais.\n\nOs apoios do Estado nas áreas da formação, do equipamento e do funcionamento das equipas de sapadores florestais são concretizados, nos termos do artigo 8.º do referido decreto-lei, através do estabelecimento de protocolos específicos a celebrar entre as organizações ou entidades que constituam equipas de sapadores e o órgão nacional com competência para o planeamento e coordenação das acções da prevenção, detecção e apoio ao combate dos incêndios florestais.\n\nAté à instituição daquele órgão nacional, estipula a alínea d) do n.º 2 do artigo 10.º da Lei n.º 33/96, de 17 de Agosto, que as atribuições e competências que lhe são cometidas nos artigos 7.º, 14.º e 15.º do Decreto-Lei n.º 179/99 incumbem, a nível nacional, à Comissão Nacional Especializada de Fogos Florestais.\n\nÀ Direcção-Geral das Florestas, por seu lado, enquanto autoridade florestal nacional, incumbe um conjunto de outras atribuições, nomeadamente nas áreas de formação e reconhecimento das equipas a constituir (artigos 5.º e 7.º do referido Decreto-Lei n.º 179/99).\n\nAcresce ainda, nos termos do artigo 12.º do Decreto-Lei n.º 179/99, a necessidade de regulamentar o processo de candidatura e os critérios de decisão sobre as condições de atribuição dos apoios referidos nos artigos 9.º, 10.º e 11.º, ou seja, respectivamente, dos apoios à formação, ao equipamento e ao funcionamento das equipas.\n\nAssim, ao abrigo do n.º 1 do artigo 12.º do Decreto-Lei n.º 179/99, de 21 de Maio:\n\nManda o Governo, pelos Ministros da Administração Interna, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:"
+  },
+  "947235090": {
+   "fragment_id": "947233426",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nAs candidaturas à constituição de equipas de sapadores florestais podem ser apresentadas durante todo o ano, mediante requerimento das entidades referidas no n.º 2 do artigo 3.º do Decreto-Lei n.os 179/99, de 21 de Maio, na direcção regional de agricultura da área onde se situam os espaços florestais objecto de intervenção, em formulário próprio aprovado por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e acompanhado dos documentos nele referidos."
+  },
+  "947235091": {
+   "fragment_id": "947233427",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nApós a emissão de parecer das direcções regionais de agricultura, as candidaturas são enviadas à Direcção-Geral das Florestas para reconhecimento e registo."
+  },
+  "947235092": {
+   "fragment_id": "947233428",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nConsiderando as possibilidades de enquadramento na formação e de apoio ao equipamento e funcionamento das equipas, o número máximo de novas equipas a constituir será definido em cada ano, por despacho conjunto dos Ministros da Administração Interna e da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta conjunta da Direcção-Geral das Florestas e da Comissão Nacional Especializada de Fogos Florestais (CNEFF)."
+  },
+  "947235093": {
+   "fragment_id": "947233429",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nOs critérios de selecção e a prioridade das candidaturas serão definidos e divulgados, em cada ano, através de circular da Direcção-Geral das Florestas, ouvida a CNEFF, tendo em conta, nomeadamente:\n\na) A área ardida;\n\nb) O número de ocorrências de incêndios no último decénio;\n\nc) As características da área a intervencionar de acordo com o grau de sensibilidade ao risco de incêndio;\n\nd) A existência de projectos de investimento florestal;\n\ne) A sua inserção em zonas de especial sensibilidade, nomeadamente as áreas protegidas, sítios da Lista Nacional de Sítios, sítios de interesse comunitário, zonas especiais de conservação e zonas de protecção especial criadas nos termos das normas jurídicas aplicáveis."
+  },
+  "947235094": {
+   "fragment_id": "947233430",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nPara o ano de 2001, o número das novas equipas a constituir, em conjunto com as já constituídas nos anos anteriores, perfaz um limite máximo de 100."
+  },
+  "947235095": {
+   "fragment_id": "947233431",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nApós a decisão de constituição das equipas, os candidatos a sapador florestal são submetidos pela Direcção-Geral das Florestas a entrevista de selecção, que permite avaliar as suas capacidades para o exercício das funções."
+  },
+  "947235096": {
+   "fragment_id": "947233432",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nA qualificação de sapador florestal é atribuída após frequência e aprovação em curso de formação profissional específico, que incide sobre técnicas e acções de silvicultura preventiva e apoio ao combate aos incêndios e cujo programa consta de circular da Direcção-Geral das Florestas."
+  },
+  "947235097": {
+   "fragment_id": "947233433",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nA frequência no curso referido no número anterior é precedida de contrato de formação celebrado entre a Direcção-Geral das Florestas, as entidades que se candidataram à constituição de equipas e os candidatos a sapador florestal."
+  },
+  "947235098": {
+   "fragment_id": "947233434",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nNo início da formação é disponibilizado equipamento de protecção individual, o qual será devolvido pelo candidato em caso de não aprovação no curso ou da sua não integração em equipa de sapador florestal."
+  },
+  "947235099": {
+   "fragment_id": "947233435",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nNo início do curso de formação as entidades que constituam equipas devem apresentar contrato de trabalho celebrado com os candidatos a sapador, que englobe o período de formação e garanta a prestação de trabalho dos sapadores para além do referido período."
+  },
+  "947235100": {
+   "fragment_id": "947233436",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º\n\nEm caso de substituição de sapadores, a Direcção-Geral das Florestas suporta, em cada ano, apenas a formação de um elemento por equipa, cabendo à entidade detentora da equipa os encargos com a formação dos demais elementos que vierem a ser substituídos."
+  },
+  "947235101": {
+   "fragment_id": "947233437",
+   "type": 11,
+   "heading": "12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º\n\nOs encargos com a selecção dos candidatos e com a sua formação são suportados pela Direcção-Geral das Florestas, excepto na componente de funcionamento da equipa, que será suportado pela CNEFF."
+  },
+  "947235102": {
+   "fragment_id": "947233438",
+   "type": 11,
+   "heading": "13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 13.º\n\nNo final da formação é cedido às equipas de sapadores florestais, mediante contrato de comodato a celebrar entre as entidades que constituíram equipas e a Direcção-Geral das Florestas, equipamento colectivo e individual, cujas características, discriminação e especificações constam igualmente de circular daquela Direcção-Geral."
+  },
+  "947235103": {
+   "fragment_id": "947233439",
+   "type": 11,
+   "heading": "14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 14.º\n\nO funcionamento das equipas de sapadores florestais referidos no artigo 11.º do Decreto-Lei n.º 179/99, de 21 de Maio, é apoiado pela CNEFF através de protocolos específicos, a celebrar entre as entidades que tenham constituído equipas de sapadores florestais, a CNEFF e a Direcção-Geral das Florestas no início do curso de formação dos candidatos a sapador florestal."
+  }
+ }
+}

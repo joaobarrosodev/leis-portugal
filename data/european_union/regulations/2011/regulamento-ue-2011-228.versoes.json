@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011R0228:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0228-20110329",
+ "dre_path": null,
+ "source_lastmod": "2011-03-29",
+ "versions": [
+  {
+   "date": "2011-03-09",
+   "future": false,
+   "celex": "32011R0228",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e67cbd6e8378c9ce",
+    "14efbf8b4eb12c5b",
+    "0f4ec363d21c337f",
+    "8aaeb29535f20025"
+   ]
+  }
+ ],
+ "fragments": {
+  "e67cbd6e8378c9ce": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Março de 2011\n\nque altera o Regulamento (CE) n.º 1222/2009 do Parlamento Europeu e do Conselho no que se refere ao método de ensaio da aderência em pavimento molhado dos pneus da classe C1\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1222/2009 do Parlamento Europeu e do Conselho, de 25 de Novembro de 2009, relativo à rotulagem dos pneus no que respeita à eficiência energética e a outros parâmetros essenciais [([^1])](http://publications.europa.eu/resource/cellar/57fe9cac-ec68-404f-afc5-a2dfe0caab41.0015.03/DOC_1#ntr1-L_2011062PT.01000101-E0001), nomeadamente o artigo 11.º, alínea c),\n\nConsiderando o seguinte:\n\n(1) Em conformidade com o anexo I, parte B, do Regulamento (CE) n.º 1222/2009, o índice de aderência em pavimento molhado dos pneus da classe C1 deve ser determinado como definido no Regulamento n.º 117 da UNECE e nas suas alterações subsequentes. Contudo, os representantes da indústria desenvolveram um método de ensaio revisto da aderência em pavimento molhado com base no anexo 5 do Regulamento n.º 117 da UNECE, que melhora significativamente a exactidão dos resultados dos ensaios.\n\n(2) A exactidão dos resultados dos ensaios é um factor fundamental para a determinação das classes de aderência em pavimento molhado dos pneus. Assegura que a comparação entre pneus de fornecedores diferentes é imparcial. Além disso, a exactidão dos ensaios impede que um pneu possa ser classificado em mais de uma classe e reduz os riscos de que as autoridades de fiscalização do mercado obtenham resultados de ensaio diferentes dos declarados pelos fornecedores, apenas devido à inexactidão do método de ensaio.\n\n(3) Por conseguinte, é necessário actualizar o método de ensaio relativo à aderência em pavimento molhado, a fim de melhorar a exactidão dos resultados de ensaio dos pneus.\n\n(4) O Regulamento (CE) n.º 1222/2009 deve, portanto, ser alterado em conformidade.\n\n(5) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité instituído pelo artigo 13.º do Regulamento (CE) n.º 1222/2009,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "14efbf8b4eb12c5b": {
+   "fragment_id": "Artigo 1.º — Alterações ao Regulamento (CE) n.º 1222/2009",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Alterações ao Regulamento (CE) n.º 1222/2009",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alterações ao Regulamento (CE) n.º 1222/2009\n\nO Regulamento (CE) n.º 1222/2009 é alterado do seguinte modo:\n\n1. No anexo 1, parte B, o primeiro período passa a ter a seguinte redacção: «As classes de aderência em pavimento molhado dos pneus C1 devem ser determinadas com base no índice de aderência em pavimento molhado (G), de acordo com a escala de A a G a seguir especificada, e medida de acordo com o anexo V.».\n\n2. O texto constante do anexo do presente regulamento é aditado como anexo V."
+  },
+  "0f4ec363d21c337f": {
+   "fragment_id": "Artigo 2.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável nos Estados-Membros, em conformidade com os Tratados.\n\nFeito em Bruxelas, em 7 de Março de 2011.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "8aaeb29535f20025": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/57fe9cac-ec68-404f-afc5-a2dfe0caab41.0015.03/DOC_1#ntc1-L_2011062PT.01000101-E0001) [JO L 342 de 22.12.2009, p. 46](http://publications.europa.eu/resource/oj/JOL_2009_342_R_TOC)."
+  }
+ }
+}

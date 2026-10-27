@@ -1,0 +1,685 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0713:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0713-20190704",
+ "dre_path": null,
+ "source_lastmod": "2019-07-04",
+ "versions": [
+  {
+   "date": "2009-08-14",
+   "future": false,
+   "celex": "32009R0713",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "aff36ecbe3e153de",
+    "226c39ffd0a88dad",
+    "5e587506e4b69cac",
+    "14ddb80890270831",
+    "36ed82f320b8929b",
+    "567abcb1b578a54b",
+    "04fe36b0193237f7",
+    "f0f8c960bfdbce9b",
+    "c59c13eff8f56ada",
+    "1d7fb38f4e8008a2",
+    "3a0ab98aebdb33a9",
+    "75110381f4c28fec",
+    "3a482848d4434e2a",
+    "9d60b1647b352a8e",
+    "872687f6adf739b8",
+    "187f6c6fc5799002",
+    "1e7a0903d2eed348",
+    "72df27e7da70d025",
+    "fec491e091033979",
+    "a594fca7d608e547",
+    "50e590219a5aecc4",
+    "884851225b022fe7",
+    "cb3bd29a25c87e8d",
+    "be7ed76165834d01",
+    "b4644eff970d99a2",
+    "03dc87ce2561349c",
+    "714d34812f36f886",
+    "1ecfc79da3f1ac7f",
+    "6e028bd1d966d922",
+    "d38f258a9a5fc2c9",
+    "9ae92583e5353c0f",
+    "83ec53874c0e126f",
+    "56c42787735bf343",
+    "f9c35fb81e184e00",
+    "762f72d937fd4911",
+    "40ed6b62e188ac6f",
+    "e17a2adcfbbdd4cc",
+    "b92f90c23c90b9bd",
+    "e647995f71f2d5a0",
+    "583fd4403bc9ba06",
+    "62e7881abe63b123",
+    "ca3db64b0ea5938f",
+    "5653700261b67e74",
+    "74f5929468ba7aa8",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "cee16fbcac405c2d",
+    "50a96bb53f53cd5f",
+    "6dfed27aed498cf4"
+   ]
+  },
+  {
+   "date": "2013-06-01",
+   "future": false,
+   "celex": "02009R0713-20130601",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0347:por",
+     "title": "REGULAMENTO (UE) N. o 347/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2013",
+     "published": null,
+     "celex": "32013R0347"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto",
+    "Altera Artigo 4.º — Tipologia dos actos da Agência",
+    "Altera Artigo 22.º — Taxas",
+    "Altera Artigo 24.º — Execução e controlo orçamental",
+    "Altera Artigo 26.º — Medidas antifraude",
+    "Altera Artigo 30.º — Acesso aos documentos",
+    "Altera Artigo 33.º — Regime linguístico",
+    "Altera Artigo 35.º — Entrada em vigor e medidas transitórias",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "8e5fe0d8c0290f84",
+    "226c39ffd0a88dad",
+    "5e587506e4b69cac",
+    "4f5f54a3d0ffabaa",
+    "36ed82f320b8929b",
+    "567abcb1b578a54b",
+    "855113b4b270e0b9",
+    "f0f8c960bfdbce9b",
+    "c59c13eff8f56ada",
+    "1d7fb38f4e8008a2",
+    "3a0ab98aebdb33a9",
+    "75110381f4c28fec",
+    "3a482848d4434e2a",
+    "9d60b1647b352a8e",
+    "872687f6adf739b8",
+    "187f6c6fc5799002",
+    "1e7a0903d2eed348",
+    "72df27e7da70d025",
+    "fec491e091033979",
+    "a594fca7d608e547",
+    "50e590219a5aecc4",
+    "884851225b022fe7",
+    "cb3bd29a25c87e8d",
+    "be7ed76165834d01",
+    "b4644eff970d99a2",
+    "03dc87ce2561349c",
+    "714d34812f36f886",
+    "1ecfc79da3f1ac7f",
+    "6e028bd1d966d922",
+    "d38f258a9a5fc2c9",
+    "f5da53c6cfd067c4",
+    "83ec53874c0e126f",
+    "023cd49ca5f0567c",
+    "f9c35fb81e184e00",
+    "95f63b6f8cdc4cfb",
+    "40ed6b62e188ac6f",
+    "e17a2adcfbbdd4cc",
+    "b92f90c23c90b9bd",
+    "e647995f71f2d5a0",
+    "583fd4403bc9ba06",
+    "0998ba1f2997b067",
+    "ca3db64b0ea5938f",
+    "5653700261b67e74",
+    "e2d05a52acc08c11",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "cee16fbcac405c2d",
+    "aefde235965561f2",
+    "5ce2aabdf146864a"
+   ]
+  },
+  {
+   "date": "2019-07-04",
+   "future": false,
+   "celex": "02009R0713-20190704",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime CRIAÇÃO E ESTATUTO JURÍDICO",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Estatuto jurídico",
+    "Suprime Artigo 3.º — Composição",
+    "Suprime Artigo 4.º — Tipologia dos actos da Agência",
+    "Suprime CAPÍTULO II",
+    "Suprime FUNÇÕES",
+    "Suprime Artigo 5.º — Funções de carácter geral",
+    "Suprime Artigo 6.º — Funções relativas à cooperação dos operadores de redes de transporte",
+    "Suprime Artigo 7.º — Funções relativas às entidades reguladoras nacionais",
+    "Suprime Artigo 8.º — Tarefas relacionadas com termos e condições de acesso e de segurança de funcionamento da infra-estrutura de ligação transfronteiriça",
+    "Suprime Artigo 9.º — Outras funções",
+    "Suprime Artigo 10.º — Consultas e transparência",
+    "Suprime Artigo 11.º — Supervisão e informações sobre o sector da electricidade e do gás",
+    "Suprime CAPÍTULO III",
+    "Suprime ORGANIZAÇÃO",
+    "Suprime Artigo 12.º — Conselho de Administração",
+    "Suprime Artigo 13.º — Funções do Conselho de Administração",
+    "Suprime Artigo 14.º — Conselho de Reguladores",
+    "Suprime Artigo 15.º — Funções do Conselho de Reguladores",
+    "Suprime Artigo 16.º — Director",
+    "Suprime Artigo 17.º — Funções do Director",
+    "Suprime Artigo 18.º — Câmara de Recurso",
+    "Suprime Artigo 19.º — Recursos",
+    "Suprime Artigo 20.º — Recursos para o Tribunal de Primeira Instância e para o Tribunal de Justiça",
+    "Suprime CAPÍTULO IV",
+    "Suprime DISPOSIÇÕES FINANCEIRAS",
+    "Suprime Artigo 21.º — Orçamento da Agência",
+    "Suprime Artigo 22.º — Taxas",
+    "Suprime Artigo 23.º — Elaboração do orçamento",
+    "Suprime Artigo 24.º — Execução e controlo orçamental",
+    "Suprime Artigo 25.º — Disposições financeiras",
+    "Suprime Artigo 26.º — Medidas antifraude",
+    "Suprime CAPÍTULO V",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 27.º — Privilégios e imunidades",
+    "Suprime Artigo 28.º — Pessoal",
+    "Suprime Artigo 29.º — Responsabilidade da Agência",
+    "Suprime Artigo 30.º — Acesso aos documentos",
+    "Suprime Artigo 31.º — Participação de países terceiros",
+    "Suprime Artigo 32.º — Comité",
+    "Suprime Artigo 33.º — Regime linguístico",
+    "Suprime CAPÍTULO VI",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 34.º — Avaliação",
+    "Suprime Artigo 35.º — Entrada em vigor e medidas transitórias",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "68a5aedde585681e"
+   ]
+  }
+ ],
+ "fragments": {
+  "aff36ecbe3e153de": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Julho de 2009\n\nque institui a Agência de Cooperação dos Reguladores da Energia\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr1-L_2009211PT.01000101-E0001),\n\nTendo em conta o parecer do Comité das Regiões [([^2])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr2-L_2009211PT.01000101-E0002),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^3])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr3-L_2009211PT.01000101-E0003),\n\nConsiderando o seguinte:\n\n(1) A Comunicação da Comissão de 10 de Janeiro de 2007 intitulada «Uma política energética para a Europa» sublinhou a importância da realização do mercado interno da electricidade e do gás natural. A melhoria do quadro regulamentar a nível comunitário foi identificada como medida essencial para atingir este objectivo.\n\n(2) A Decisão 2003/796/CE da Comissão [([^4])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr4-L_2009211PT.01000101-E0004) estabeleceu um grupo consultivo independente para a electricidade e o gás designado «Grupo Europeu de Reguladores da Electricidade e do Gás» («ERGEG»), para facilitar a consulta, coordenação e cooperação entre os organismos reguladores nos Estados-Membros e entre esses organismos e a Comissão, com o objectivo de consolidar o mercado interno da electricidade e do gás natural. Este grupo é composto por representantes das entidades reguladoras nacionais estabelecidas nos termos da Directiva 2003/54/CE do Parlamento e do Conselho, de 26 de Junho de 2003, que estabelece regras comuns para o mercado interno da electricidade [([^5])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr5-L_2009211PT.01000101-E0005) e da Directiva 2003/55/CE do Parlamento Europeu e do Conselho, de 26 de Junho de 2003, que estabelece regras comuns para o mercado interno de gás natural [([^6])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr6-L_2009211PT.01000101-E0006).\n\n(3) O trabalho efectuado pelo ERGEG desde o seu estabelecimento prestou um contributo positivo ao mercado interno da electricidade e do gás natural. É, contudo, amplamente reconhecido pelo sector, e foi proposto pelo próprio ERGEG, que a cooperação voluntária entre as entidades reguladoras nacionais deverá ter agora lugar no âmbito de uma estrutura comunitária com competências claras e com poderes para tomar decisões regulamentares em certos casos específicos.\n\n(4) O Conselho Europeu de 8 e 9 Março de 2007 convidou a Comissão a propor medidas para o estabelecimento de um mecanismo independente em que cooperem os reguladores nacionais.\n\n(5) Os Estados-Membros deverão cooperar estreitamente entre si, removendo os obstáculos ao comércio transfronteiriço de electricidade e gás natural, a fim de alcançar os objectivos da política energética comunitária. Com base na avaliação de impacto dos recursos necessários para uma entidade central, concluiu-se que o estabelecimento de uma entidade central independente oferecia algumas vantagens a longo prazo sobre as outras opções. Deverá ser estabelecida uma Agência de Cooperação dos Reguladores da Energia («Agência») para colmatar a lacuna regulamentar existente a nível comunitário e contribuir para o funcionamento efectivo dos mercados internos da electricidade e do gás natural. A Agência deverá permitir igualmente às entidades reguladoras nacionais incrementarem a sua cooperação a nível comunitário e participarem, numa base mútua, no exercício de funções de dimensão comunitária.\n\n(6) A Agência deverá assegurar que as funções de regulação desempenhadas pelas entidades reguladoras nacionais nos termos da Directiva 2009/72/CE do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, que estabelece regras comuns para o mercado interno da electricidade [([^7])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr7-L_2009211PT.01000101-E0007) e da Directiva 2009/73/CE do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, que estabelece regras comuns para o mercado interno do gás natural [([^8])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr8-L_2009211PT.01000101-E0008) sejam correctamente coordenadas e, se necessário, completadas a nível comunitário. Para tal, é necessário garantir a independência da Agência em relação aos produtores de gás e electricidade, aos operadores de redes de transporte e distribuição, quer públicos, quer privados, e aos consumidores, bem como assegurar a conformidade da sua acção com a legislação comunitária, a sua elevada capacidade técnica e regulamentar, transparência, receptividade ao controlo democrático e eficiência.\n\n(7) A Agência deverá fiscalizar a cooperação regional entre os operadores de redes de transporte nos sectores do gás e da electricidade e a execução das actividades da rede europeia de operadores de redes de transporte de electricidade («REORT para a electricidade»), e da rede europeia de operadores de redes de transporte de gás («REORT para o gás»). A participação da Agência é essencial para assegurar que a cooperação entre os operadores de redes de transporte se processe de forma eficiente e transparente em benefício dos mercados internos da electricidade e do gás natural.\n\n(8) A Agência, em colaboração com a Comissão, os Estados-Membros e as autoridades nacionais competentes, deverá fiscalizar os mercados internos da electricidade e do gás e, sempre que for adequado, comunicar os dados ao Parlamento Europeu, à Comissão e às autoridades nacionais. Estas funções de fiscalização da Agência não deverão constituir uma duplicação nem prejudicar a fiscalização realizada pela Comissão ou pelas autoridades nacionais, em particular pelas autoridades da concorrência.\n\n(9) A Agência desempenha um papel importante na definição de orientações-quadro que, por natureza, não são vinculativas («orientações-quadro») e com as quais os códigos de rede devem estar em sintonia. Considera-se também conveniente, e coerente com o seu objectivo, que a Agência desempenhe um papel na análise dos projectos de códigos de rede (tanto na fase de criação como por ocasião de subsequentes alterações) a fim de assegurar que estão em sintonia com as orientações-quadro, antes de os recomendar para adopção pela Comissão.\n\n(10) Convém estabelecer uma estrutura integrada no âmbito da qual as entidades reguladoras nacionais possam participar e cooperar. Essa estrutura deverá facilitar a aplicação uniforme da legislação relativa ao mercado interno da electricidade e do gás natural em toda a Comunidade. No que respeita a situações que envolvam dois ou mais Estados-Membros, deverão ser conferidos à Agência poderes para aprovar decisões individuais. Tais poderes deverão abranger, mediante certas condições, questões técnicas, o regime regulador a aplicar às infra-estruturas da electricidade e do gás natural que ligam ou que podem ligar dois ou mais Estados-Membros e, como último recurso, as isenções às regras do mercado interno para as novas interligações de electricidade e as novas infra-estruturas de gás localizadas em dois ou mais Estados-Membros.\n\n(11) Dado que tem uma visão geral das entidades reguladoras nacionais, a Agência deverá assumir um papel de aconselhamento da Comissão, de outras instituições comunitárias e das entidades reguladoras nacionais sobre as questões relacionadas com os fins para que foi criada. Deverá também informar a Comissão sempre que considere que a cooperação entre operadores de redes de transporte não produz os resultados necessários ou que uma entidade reguladora nacional cuja decisão não esteja em conformidade com as orientações não dá o seguimento adequado ao parecer, recomendação ou decisão da Agência.\n\n(12) A Agência deverá também poder elaborar recomendações para ajudar as entidades reguladoras e os intervenientes no mercado a partilhar boas práticas.\n\n(13) A Agência deverá consultar os interessados e, se for caso disso, dar-lhes uma possibilidade razoável de apresentarem observações sobre as medidas propostas, tais como os códigos e as regras aplicáveis às redes.\n\n(14) A Agência deverá contribuir para a aplicação das orientações relativas às redes transeuropeias de energia nos moldes estabelecidos na Decisão n.º 1364/2006/CE do Parlamento Europeu e do Conselho, de 6 de Setembro de 2006, que estabelece orientações para as redes transeuropeias de energia [([^9])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr9-L_2009211PT.01000101-E0009), em particular quando da emissão do seu parecer sobre os planos decenais não vinculativos de desenvolvimento da rede à escala comunitária (planos de desenvolvimento da rede à escala comunitária), em conformidade com o n.º 3 do artigo 6.º do presente regulamento.\n\n(15) A Agência deverá contribuir para os esforços no sentido de reforçar a segurança energética.\n\n(16) A estrutura da Agência deverá ser adaptada de forma a corresponder às necessidades específicas da regulamentação no sector da energia. Em especial, é necessário ter plenamente em conta o papel específico das necessidades das entidades reguladoras nacionais e garantir a sua independência.\n\n(17) O Conselho de Administração deverá dispor dos poderes necessários para elaborar o orçamento, verificar a sua execução, elaborar o regulamento interno, aprovar regras financeiras e nomear o Director. Deverá utilizar-se um sistema de rotação para a renovação dos membros do Conselho de Administração que são nomeados pelo Conselho a fim de assegurar uma participação equilibrada dos Estados-Membros ao longo do tempo. O Conselho de Administração deverá actuar de forma independente e objectiva no interesse público e não poderá solicitar nem acatar instruções de ordem política.\n\n(18) A Agência deverá dispor dos poderes necessários para desempenhar as funções de regulamentação de forma eficiente, transparente, fundamentada e, sobretudo, independente. A independência da Agência em relação aos produtores de gás e electricidade e aos operadores de redes de transporte e distribuição constitui não só um princípio de base da boa governação, mas também uma condição fundamental para assegurar a confiança do mercado. Sem prejuízo da possibilidade de os seus membros agirem em nome das respectivas autoridades nacionais, o Conselho de Reguladores deverá, pois, agir independentemente de quaisquer interesses de mercado, deverá evitar conflitos de interesses e não deverá solicitar nem acatar instruções, nem aceitar recomendações de qualquer Governo de um Estado-Membro, da Comissão ou de qualquer outra entidade pública ou privada. As decisões do Conselho de Reguladores deverão, simultaneamente, cumprir a legislação comunitária em matéria de energia, mormente do mercado interno de energia, de ambiente e de concorrência e informar as instituições comunitárias dos seus pareceres, recomendações e decisões.\n\n(19) Nos casos em que a Agência tenha poderes de decisão, os interessados deverão, por razões de economia processual, ter o direito de interpor recurso junto da Câmara de Recurso, que deverá fazer parte da Agência, mas ser independente da sua estrutura administrativa e reguladora. Por uma questão de continuidade, a nomeação ou renovação dos membros da Câmara de Recurso deverá permitir a substituição parcial dos membros da Câmara de Recurso. As decisões da Câmara de Recurso podem ser recorríveis para o Tribunal de Justiça das Comunidades Europeias.\n\n(20) A Agência deverá ser financiada principalmente pelo orçamento geral da União Europeia, por taxas e por contribuições voluntárias. Em especial, os recursos actualmente reunidos em comum pelas entidades reguladoras para a respectiva cooperação a nível comunitário deverão permanecer à disposição da Agência. O processo orçamental da Comunidade permanece aplicável no que diz respeito a todas as subvenções a cargo do orçamento geral da União Europeia. Além disso, a auditoria das contas deverá ser efectuada pelo Tribunal de Contas, nos termos do artigo 91.º do Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^10])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr10-L_2009211PT.01000101-E0010).\n\n(21) Após a criação da Agência, o seu orçamento deverá ser objecto de avaliação contínua por parte da autoridade orçamental com base no volume de trabalho e no desempenho da Agência. A autoridade orçamental deverá assegurar o cumprimento dos melhores padrões de eficiência.\n\n(22) A Agência deverá dispor de pessoal altamente qualificado. Deverá beneficiar, em especial, da competência e experiência de pessoal destacado pelas entidades reguladoras nacionais, pela Comissão e pelos Estados-Membros. São aplicáveis ao pessoal da Agência o Estatuto dos Funcionários das Comunidades Europeias (Estatuto) e o Regime aplicável aos outros agentes das Comunidades Europeias (Regime) estabelecidos no Regulamento (CEE, Euratom, CECA) n.º 259/68 do Conselho [([^11])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr11-L_2009211PT.01000101-E0011), e as regras aprovadas conjuntamente pelas instituições das Comunidades Europeias para efeitos de aplicação desse estatuto e desse regime. O Conselho de Administração deverá aprovar, em concertação com a Comissão, as devidas disposições de execução.\n\n(23) A Agência deverá aplicar as regras gerais relativas ao acesso público aos documentos em poder dos organismos comunitários. O Conselho de Administração deverá estabelecer as medidas práticas para a protecção das informações comercialmente sensíveis e dos dados pessoais.\n\n(24) A Agência deverá ser responsável perante o Parlamento Europeu, o Conselho e a Comissão, sempre que adequado.\n\n(25) Os países que não sejam membros da Comunidade deverão poder participar nos trabalhos da Agência em conformidade com os acordos adequados a celebrar pela Comunidade.\n\n(26) As medidas necessárias para a execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^12])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr12-L_2009211PT.01000101-E0012).\n\n(27) Em especial, deverá ser atribuída à Comissão competência para definir orientações necessárias relativas a situações em que a Agência é competente para decidir sobre os termos e condições de acesso e de segurança de funcionamento da infra-estrutura de ligação transfronteiriça. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais do presente regulamento, completando-o, mediante o aditamento de novos elementos não essenciais, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(28) A Comissão deverá apresentar ao Parlamento Europeu e ao Conselho, até três anos após a entrada em funções do primeiro director e, em seguida, de quatro em quatro anos, um relatório de avaliação sobre as funções específicas da Agência e os resultados alcançados, acompanhado de eventuais propostas adequadas. Nesse relatório, a Comissão deverá apresentar sugestões relativas a funções adicionais para a Agência.\n\n(29) Atendendo a que os objectivos do presente regulamento, nomeadamente a participação e a cooperação entre as entidades reguladoras nacionais a nível comunitário, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, ser mais bem alcançados ao nível comunitário, a Comunidade pode adoptar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir esses objectivos,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "5e587506e4b69cac": {
+   "fragment_id": "CRIAÇÃO E ESTATUTO JURÍDICO",
+   "type": "divisao",
+   "heading": "CRIAÇÃO E ESTATUTO JURÍDICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRIAÇÃO E ESTATUTO JURÍDICO"
+  },
+  "14ddb80890270831": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O presente regulamento institui uma Agência de Cooperação dos Reguladores da Energia («a Agência»).\n\n2. O objectivo da Agência é assistir as entidades reguladoras referidas no artigo 35.º da Directiva 2009/72/CE do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, que estabelece regras comuns para o mercado interno da electricidade [([^7])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr7-L_2009211PT.01000101-E0007) e no artigo 39.º da Directiva 2009/73/CE do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, que estabelece regras comuns para o mercado interno do gás natural [([^8])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr8-L_2009211PT.01000101-E0008) no exercício, a nível comunitário, das funções de regulação desempenhadas nos Estados-Membros e, se necessário, coordenar a sua actuação.\n\n3. Enquanto as instalações da Agência não estiverem prontas, esta fica alojada em instalações da Comissão."
+  },
+  "36ed82f320b8929b": {
+   "fragment_id": "Artigo 2.º — Estatuto jurídico",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Estatuto jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estatuto jurídico\n\n1. A Agência é um organismo comunitário dotado de personalidade jurídica.\n\n2. Em todos os Estados-Membros, a Agência goza da mais ampla capacidade jurídica reconhecida pela legislação destes Estados às pessoas colectivas. Pode, nomeadamente, adquirir ou alienar bens móveis e imóveis e estar em juízo.\n\n3. A Agência é representada pelo seu Director."
+  },
+  "567abcb1b578a54b": {
+   "fragment_id": "Artigo 3.º — Composição",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\nA Agência é composta por:\n\na) Um Conselho de Administração, com as funções definidas no artigo 13.º;\n\nb) Um Conselho de Reguladores, com as funções definidas no artigo 15.º;\n\nc) Um Director, com as funções definidas no artigo 17.º; e\n\nd) Uma Câmara de Recurso, com as funções definidas no artigo 19.º."
+  },
+  "04fe36b0193237f7": {
+   "fragment_id": "Artigo 4.º — Tipologia dos actos da Agência",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Tipologia dos actos da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia dos actos da Agência\n\nA Agência deve:\n\na) Emitir pareceres e recomendações dirigidos aos operadores das redes de transporte;\n\nb) Emitir pareceres e recomendações dirigidos às entidades reguladoras;\n\nc) Emitir pareceres e recomendações dirigidos ao Parlamento Europeu, ao Conselho ou à Comissão;\n\nd) Aprovar decisões individuais nos casos específicos previstos nos artigos 7.º a 9.º; e\n\ne) Apresentar orientações-quadro não vinculativas («orientações-quadro») nos termos do artigo 6.º do Regulamento (CE) n.º 714/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, relativo às condições de acesso à rede para o comércio transfronteiriço de electricidade [([^13])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr13-L_2009211PT.01000101-E0013) e do artigo 6.º do Regulamento (CE) n.º 715/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, relativo às condições de acesso às redes de transporte de gás natural [([^14])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr14-L_2009211PT.01000101-E0014)."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "c59c13eff8f56ada": {
+   "fragment_id": "FUNÇÕES",
+   "type": "divisao",
+   "heading": "FUNÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FUNÇÕES"
+  },
+  "1d7fb38f4e8008a2": {
+   "fragment_id": "Artigo 5.º — Funções de carácter geral",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Funções de carácter geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funções de carácter geral\n\nA Agência pode, a pedido do Parlamento Europeu, do Conselho, da Comissão ou por iniciativa própria, emitir parecer ou recomendação ao Parlamento Europeu, ao Conselho e à Comissão sobre todas as questões relativas ao objectivo para o qual foi estabelecida."
+  },
+  "3a0ab98aebdb33a9": {
+   "fragment_id": "Artigo 6.º — Funções relativas à cooperação dos operadores de redes de transporte",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Funções relativas à cooperação dos operadores de redes de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funções relativas à cooperação dos operadores de redes de transporte\n\n1. A Agência dá parecer à Comissão sobre o projecto de estatutos, a lista de membros e o projecto de regulamento interno da REORT para a electricidade nos termos do n.º 2 do artigo 5.º do Regulamento (CE) n.º 714/2009 e da REORT para o gás nos termos do n.º 2 do artigo 5.º do Regulamento (CE) n.º 715/2009.\n\n2. A Agência fiscaliza a execução das funções da REORT para a electricidade, nos termos do artigo 9.º do Regulamento (CE) n.º 714/2009, e da REORT para o gás, nos termos do artigo 9.º do Regulamento (CE) n.º 715/2009.\n\n3. A Agência dá parecer:\n\na) À REORT para a electricidade, nos termos do n.º 2 do artigo 8.º do Regulamento (CE) n.º 714/2009, e à REORT para o gás, nos termos do n.º 2 do artigo 8.º do Regulamento (CE) n.º 715/2009 sobre os códigos de rede; e\n\nb) À REORT para a electricidade, nos termos do primeiro parágrafo do n.º 2 do artigo 9.º do Regulamento (CE) n.º 714/2009, e à REORT para o gás, nos termos do primeiro parágrafo do n.º 2 do artigo 9.º do Regulamento (CE) n.º 715/2009, sobre o projecto de programa de trabalho anual, o projecto de plano de desenvolvimento da rede à escala comunitária e outros documentos pertinentes referidos no n.º 3 do artigo 8.º do Regulamento (CE) n.º 714/2009 e n.º 3 do artigo 8.º do Regulamento (CE) n.º 715/2009 tendo em conta os objectivos de não discriminação, concorrência efectiva e funcionamento eficaz e seguro dos mercados internos da electricidade e do gás natural.\n\n4. Baseando-se em elementos de facto, a Agência apresenta um parecer devidamente fundamentado, bem como recomendações, à REORT para a electricidade, à REORT para o gás, ao Parlamento Europeu, ao Conselho e à Comissão, caso considere que o projecto de programa de trabalho anual ou o projecto de plano de desenvolvimento da rede à escala comunitária, apresentados nos termos do segundo parágrafo do n.º 2 do artigo 9.º do Regulamento (CE) n.º 714/2009, e do segundo parágrafo do n.º 2 do artigo 9.º do Regulamento (CE) n.º 715/2009, não contribuem para um tratamento não discriminatório, uma concorrência efectiva e um funcionamento eficaz do mercado ou um nível suficiente de interligação transfronteiriça aberta ao acesso de terceiros, ou não cumprem as disposições relevantes da Directiva 2009/72/CE e do Regulamento (CE) n.º 714/2009 ou da Directiva 2009/73/CE e do Regulamento (CE) n.º 715/2009.\n\nA Agência deve participar na elaboração de códigos de rede em conformidade com o artigo 6.º do Regulamento (CE) n.º 714/2009 e o artigo 6.º do Regulamento (CE) n.º 715/2009.\n\nA Agência apresenta à Comissão um orientação-quadro não vinculativa, quando tal lhe for solicitado nos termos do n.º 2 do artigo 6.º do Regulamento (CE) n.º 714/2009 e do n.º 2 do artigo 6.º do Regulamento (CE) n.º 715/2009. A Agência revê a orientação-quadro não vinculativa e volta a apresentá-la à Comissão, quando tal lhe for solicitado nos termos do n.º 4 do artigo 6.º do Regulamento (CE) n.º 714/2009 ou do n.º 4 do artigo 6.º do Regulamento (CE) n.º 715/2009.\n\nA Agência apresenta à REORT para a electricidade e à REORT para o gás um parecer fundamentado sobre o código de rede, nos termos do n.º 7 do artigo 6.º do Regulamento (CE) n.º 714/2009 ou do n.º 7 do artigo 6.º do Regulamento (CE) n.º 715/2009.\n\nA Agência apresenta à Comissão um projecto de código de rede e pode recomendar-lhe que o aprove nos termos do n.º 9 do artigo 6.º do Regulamento (CE) n.º 714/2009 ou do n.º 9 do artigo 6.º do Regulamento (CE) n.º 715/2009. A Agência elabora e apresenta à Comissão um projecto de código de rede, quando tal lhe for solicitado nos termos do n.º 10 do artigo 6.º do Regulamento (CE) n.º 714/2009 ou do n.º 10 do artigo 6.º do Regulamento (CE) n.º 715/2009.\n\n5. A Agência apresenta à Comissão um parecer fundamentado, nos termos do n.º 1 do artigo 9.º do Regulamento (CE) n.º 714/2009 ou do n.º 1 do artigo 9.º do Regulamento (CE) n.º 715/2009, sempre que a REORT para a electricidade ou a REORT para o gás não tenham aplicado um código de rede elaborado nos termos do n.º 2 do artigo 8.º do Regulamento (CE) n.º 714/2009 ou do n.º 2 do artigo 8.º do Regulamento (CE) n.º 715/2009, ou um código de rede elaborado nos termos dos n.^os^ 1 a 10 do artigo 6.º dos referidos regulamentos que não tenha sido aprovado pela Comissão nos termos do n.º 11 do artigo 6.º desses regulamentos.\n\n6. A Agência fiscaliza e analisa a aplicação dos códigos de rede e das orientações aprovados pela Comissão nos termos do n.º 11 do artigo 6.º do Regulamento (CE) n.º 714/2009 e do n.º 11 do artigo 6.º do Regulamento (CE) n.º 715/2009, assim como o seu efeito na harmonização das regras aplicáveis destinadas a facilitar a integração do mercado bem como a não discriminação, a concorrência efectiva e o funcionamento eficaz do mercado, e apresenta um relatório à Comissão.\n\n7. A Agência acompanha os progressos na implementação de projectos destinados a criar capacidade de interligação.\n\n8. A Agência acompanha a execução dos planos de desenvolvimento da rede à escala comunitária. Se identificar incoerências entre esses planos e a sua execução, a Agência investiga os motivos dessas incoerências e formula recomendações aos operadores de redes de transporte em causa e às entidades reguladoras nacionais ou a outros organismos competentes, para que os investimentos sejam aplicados em conformidade com os planos de desenvolvimento da rede à escala comunitária.\n\n9. A Agência acompanha a cooperação regional dos operadores das redes de transporte a que se referem o artigo 12.º do Regulamento (CE) n.º 714/2009 e o artigo 12.º do Regulamento (CE) n.º 715/2009, e tem devidamente em conta o resultado dessa cooperação quando emitir pareceres, recomendações e decisões."
+  },
+  "75110381f4c28fec": {
+   "fragment_id": "Artigo 7.º — Funções relativas às entidades reguladoras nacionais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Funções relativas às entidades reguladoras nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funções relativas às entidades reguladoras nacionais\n\n1. A Agência aprova decisões individuais sobre questões técnicas sempre que tais decisões estejam previstas na Directiva 2009/72/CE, na Directiva 2009/73/CE, no Regulamento (CE) n.º 714/2009 ou no Regulamento (CE) n.º 715/2009.\n\n2. A Agência pode, em conformidade com o seu programa de trabalho ou a pedido da Comissão, formular recomendações para ajudar as entidades reguladoras e os intervenientes no mercado na partilha de boas práticas.\n\n3. A Agência deve fornecer um quadro no âmbito do qual as entidades reguladoras nacionais possam cooperar. Deve promover a cooperação entre as entidades reguladoras nacionais e entre as entidades reguladoras a nível regional e comunitário e ter devidamente em conta o resultado dessa cooperação quando emitir pareceres, recomendações e decisões. Sempre que considere que são necessárias regras vinculativas relativamente a essa cooperação, a Agência deve apresentar recomendações adequadas à Comissão.\n\n4. Baseando-se em elementos de facto, a Agência dá parecer, a pedido de uma entidade reguladora ou da Comissão, sobre a conformidade de uma decisão aprovada por uma entidade reguladora com as orientações a que se referem a Directiva 2009/72/CE, na Directiva 2009/73/CE, no Regulamento (CE) n.º 714/2009 ou no Regulamento (CE) n.º 715/2009 ou com outras disposições relevantes dessas directivas e regulamentos.\n\n5. Se uma entidade reguladora nacional não respeitar o parecer da Agência tal como referido no n.º 4 no prazo de quatro meses a contar do dia da sua recepção, a Agência deve informar desse facto a Comissão e o Estado-Membro em questão.\n\n6. Quando uma entidade reguladora nacional tiver, num caso específico, dificuldade em aplicar as orientações a que se referem a Directiva 2009/72/CE, a Directiva 2009/73/CE, o Regulamento (CE) n.º 714/2009 ou o Regulamento (CE) n.º 715/2009, pode solicitar o parecer da Agência. Após consulta da Comissão, a Agência deve emitir parecer no prazo de três meses após a recepção do pedido.\n\n7. A Agência estabelece os termos e condições de acesso e de segurança de funcionamento da infra-estrutura de electricidade e gás que ligue ou possa ligar pelo menos dois Estados-Membros (infra-estrutura transfronteiriça), nos termos do artigo 8.º."
+  },
+  "3a482848d4434e2a": {
+   "fragment_id": "Artigo 8.º — Tarefas relacionadas com termos e condições de acesso e de segurança de funcionamento da infra-estrutura de ligação transfronteiriça",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Tarefas relacionadas com termos e condições de acesso e de segurança de funcionamento da infra-estrutura de ligação transfronteiriça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tarefas relacionadas com termos e condições de acesso e de segurança de funcionamento da infra-estrutura de ligação transfronteiriça\n\n1. No que se refere à infra-estrutura transfronteiriça, a Agência decide sobre as questões regulamentares que se inserem no âmbito de competências das entidades reguladoras nacionais, que podem incluir termos e condições de acesso e de segurança de funcionamento, unicamente:\n\na) Se, no prazo de seis meses a contar do dia em que o processo foi apresentado à última das entidades reguladoras nacionais competentes, estas não tiverem chegado a acordo; ou\n\nb) Mediante pedido conjunto das entidades reguladoras nacionais competentes.\n\nAs entidades reguladoras nacionais competentes podem solicitar conjuntamente que o prazo referido na alínea a) seja prorrogado por um período máximo de seis meses.\n\nQuando elaborar a sua decisão, a Agência deve consultar as entidades reguladoras nacionais e os operadores de redes de transporte em causa e deve ser informada das propostas e das observações de todos os operadores de redes de transporte envolvidos.\n\n2. Os termos e condições de acesso à infra-estrutura transfronteiriça devem abranger:\n\na) O procedimento para atribuição de capacidade;\n\nb) Os prazos de atribuição;\n\nc) A partilha das receitas associadas ao congestionamento; e\n\nd) A aplicação de tarifas aos utilizadores da infra-estrutura referidos na alínea d) do n.º 1 do artigo 17.º do Regulamento (CE) n.º 714/2009 ou na alínea d) do n.º 1 do artigo 36.º da Directiva 2009/73/CE.\n\n3. Quando um caso é apresentado à Agência nos termos do n.º 1, a Agência:\n\na) Deve apresentar a sua decisão num prazo de 6 meses a contar do dia de apresentação do pedido; e\n\nb) Pode, se necessário, tomar uma decisão provisória para garantir que a segurança de aprovisionamento ou a segurança de funcionamento da infra-estrutura em causa estão protegidas.\n\n4. A Comissão pode definir orientações sobre as situações em que a Agência é competente para decidir sobre os termos e condições de acesso e de segurança de funcionamento da infra-estrutura transfronteiriça. Estas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 32.º.\n\n5. Sempre que as questões regulamentares a que se refere o n.º 1 abranjam isenções na acepção do artigo 17.º do Regulamento (CE) n.º 714/2009 e do artigo 36.º da Directiva 2009/73/CE, os prazos definidos no presente regulamento não podem ser cumulados com os prazos previstos na referida disposição."
+  },
+  "9d60b1647b352a8e": {
+   "fragment_id": "Artigo 9.º — Outras funções",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Outras funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Outras funções\n\n1. A Agência pode tomar decisões relativas a isenções, tal como previsto no n.º 5 do artigo 17.º do Regulamento (CE) n.º 714/2009. A Agência pode também tomar decisões relativas a isenções nos termos do n.º 4 do artigo 36.º da Directiva 2009/73/CE se a infra-estrutura em causa estiver localizada no território de dois ou mais Estados-Membros.\n\n2. A Agência dá parecer, a pedido da Comissão nos termos do segundo parágrafo do n.º 1 do artigo 3.º do Regulamento (CE) n.º 714/2009 ou do segundo parágrafo do n.º 1 do artigo 3.º do Regulamento (CE) n.º 715/2009, sobre as decisões das entidades reguladoras nacionais relativas à certificação.\n\nPodem ser atribuídas à Agência, em circunstâncias claramente definidas pela Comissão nas orientações aprovadas ao abrigo do artigo 18.º do Regulamento (CE) n.º 714/2009 ou do artigo 23.º do Regulamento (CE) n.º 715/2009, e relativamente a questões relacionadas com a finalidade para a qual foi estabelecida, funções adicionais que não requeiram poder decisório."
+  },
+  "872687f6adf739b8": {
+   "fragment_id": "Artigo 10.º — Consultas e transparência",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Consultas e transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Consultas e transparência\n\n1. No desempenho das suas funções, em particular aquando da elaboração das orientações-quadro nos termos do artigo 6.º do Regulamento (CE) n.º 714/2009 ou do artigo 6.º do Regulamento (CE) n.º 715/2009, ou da apresentação de propostas de alteração dos códigos de rede ao abrigo do artigo 7.º dos referidos regulamentos, a Agência deve consultar exaustivamente e numa fase precoce os operadores de mercado, os operadores de redes de transporte, os consumidores, os utilizadores finais e, quando apropriado, as autoridades da concorrência, sem prejuízo das respectivas competências, de uma forma aberta e transparente, em especial quando as suas tarefas digam respeito aos operadores de redes de transporte.\n\n2. A Agência deve assegurar que o público e qualquer interessado receba, sempre que adequado, informações objectivas, fiáveis e facilmente acessíveis, nomeadamente no que respeita aos resultados da sua actividade.\n\nTodos os documentos e actas respeitantes a reuniões realizadas durante a elaboração das orientações-quadro nos termos do artigo 6.º do Regulamento (CE) n.º 714/2009 e do artigo 6.º do Regulamento (CE) n.º 715/2009 ou quando da modificação dos códigos de rede ao abrigo do artigo 7.º dos referidos regulamentos são tornados públicos.\n\n3. Antes da aprovação das orientações-quadro nos termos do artigo 6.º do Regulamento (CE) n.º 714/2009 ou do artigo 6.º do Regulamento (CE) n.º 715/2009 ou da apresentação de alterações dos códigos de rede ao abrigo do artigo 7.º dos referidos regulamentos, a Agência deve indicar como foram tidas em conta as observações recebidas durante a consulta e justificar o eventual não acolhimento destas observações.\n\n4. A Agência torna públicos, no seu sítio Internet, pelo menos a ordem de trabalhos, os documentos de apoio e, quando adequado, as actas das reuniões do Conselho de Administração, do Conselho de Reguladores e da Câmara de Recurso."
+  },
+  "187f6c6fc5799002": {
+   "fragment_id": "Artigo 11.º — Supervisão e informações sobre o sector da electricidade e do gás",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Supervisão e informações sobre o sector da electricidade e do gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Supervisão e informações sobre o sector da electricidade e do gás\n\n1. A Agência, em estreita colaboração com a Comissão, os Estados-Membros e as autoridades nacionais competentes, incluindo as entidades reguladoras nacionais, e sem prejuízo das competências das autoridades da concorrência, procede à supervisão dos mercados internos do gás natural e da electricidade, em particular os preços a retalho da electricidade e do gás natural, o acesso à rede, nomeadamente o acesso à electricidade produzida a partir de fontes de energia renováveis, e a observância dos direitos dos consumidores definidos na Directiva 2009/72/CE e na Directiva 2009/73/CE.\n\n2. A Agência publica um relatório anual sobre os resultados da sua actividade de supervisão referida no n.º 1. Nesse relatório, deve identificar os eventuais entraves à realização dos mercados internos da electricidade e do gás natural.\n\n3. Quando da publicação do seu relatório anual, a Agência pode apresentar ao Parlamento Europeu e à Comissão um parecer sobre as medidas susceptíveis de serem tomadas para eliminar os entraves referidos no n.º 2."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "72df27e7da70d025": {
+   "fragment_id": "ORGANIZAÇÃO",
+   "type": "divisao",
+   "heading": "ORGANIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ORGANIZAÇÃO"
+  },
+  "fec491e091033979": {
+   "fragment_id": "Artigo 12.º — Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conselho de Administração\n\n1. O Conselho de Administração é composto por nove membros. Cada membro tem um suplente. Dois membros e os respectivos suplentes são nomeados pela Comissão, dois membros e os respectivos suplentes são nomeados pelo Parlamento Europeu e cinco membros e os respectivos suplentes nomeados pelo Conselho. Os deputados ao Parlamento Europeu não podem ser membros do Conselho de Administração. O mandato dos membros do Conselho de Administração tem uma duração de quatro anos, renovável uma vez. No que diz respeito ao primeiro mandato, a duração é de seis anos para metade dos membros do Conselho de Administração e para os respectivos suplentes.\n\n2. O Conselho de Administração nomeia o seu Presidente e o seu Vice-Presidente de entre os seus membros. O Vice-presidente substitui automaticamente o Presidente sempre que este não possa exercer as suas funções. Os mandatos do Presidente e do Vice-presidente têm uma duração de dois anos, renovável uma vez. Os mandatos do Presidente e do Vice-presidente cessam no momento em que deixam de ser membros do Conselho de Administração.\n\n3. O Conselho de Administração reúne-se por convocação do seu Presidente. O Presidente do Conselho de Reguladores, ou o elemento do Conselho por este designado, e o Director participam, sem direito de voto, nas deliberações, salvo decisão em contrário do Conselho de Administração no que diz respeito ao Director. O Conselho de Administração reúne-se pelo menos duas vezes por ano em sessão ordinária. Reúne-se também por iniciativa do seu Presidente, a pedido da Comissão ou a pedido de, pelo menos, um terço dos seus membros. O Conselho de Administração pode convidar qualquer pessoa cuja opinião possa ser considerada de utilidade a assistir às suas reuniões na qualidade de observador. Os membros do Conselho de Administração podem, sob reserva do regulamento interno, ser assistidos por conselheiros ou por peritos. O secretariado do Conselho de Administração é assegurado pela Agência.\n\n4. O Conselho de Administração toma as suas decisões por maioria de dois terços dos membros presentes, salvo disposição em contrário do presente regulamento. A cada membro ou suplente cabe um voto.\n\n5. O regulamento interno deve estabelecer mais pormenorizadamente:\n\na) O processo de votação, nomeadamente as condições com base nas quais um membro pode agir em nome de outro e também, se adequado, as regras em matéria de quórum; e\n\nb) O processo de rotação aplicável à renovação dos membros do Conselho de Administração que são nomeados pelo Conselho de Administração, a fim de assegurar uma participação equilibrada dos Estados-Membros ao longo do tempo.\n\n6. Os membros do Conselho de Administração não devem ser membros do Conselho de Reguladores.\n\n7. Os membros do Conselho de Administração devem esforçar-se por agir com independência e objectividade no interesse público, não solicitando, nem acatando qualquer instrução de natureza política. Para o efeito, cada membro presta, por escrito, uma declaração de compromisso e uma declaração de interesses indicando quer a ausência de qualquer interesse que possa ser considerado prejudicial à sua independência, quer qualquer interesse directo ou indirecto que possa ser considerado prejudicial à sua independência. Estas declarações são publicadas anualmente."
+  },
+  "a594fca7d608e547": {
+   "fragment_id": "Artigo 13.º — Funções do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Funções do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Funções do Conselho de Administração\n\n1. O Conselho de Administração nomeia o Director nos termos do n.º 2 do artigo 16.º, após consulta ao Conselho de Reguladores e obtenção do respectivo parecer favorável nos termos do n.º 2 do artigo 15.º.\n\n2. O Conselho de Administração nomeia formalmente os membros do Conselho de Reguladores nos termos do n.º 1 do artigo 14.º.\n\n3. O Conselho de Administração nomeia formalmente os membros da Câmara de Recurso nos termos dos n.^os^ 1 e 2 do artigo 18.º.\n\n4. O Conselho de Administração assegura que a Agência desempenhe as suas funções e execute as tarefas que lhe sejam confiadas em conformidade com o presente regulamento.\n\n5. O Conselho de Administração aprova, até 30 de Setembro de cada ano, após consulta da Comissão e com a aprovação do Conselho de Reguladores nos termos do n.º 3 do artigo 15.º, o programa de trabalho da Agência para o ano seguinte e transmite-o ao Parlamento Europeu, ao Conselho e à Comissão. O programa de trabalho é aprovado sem prejuízo do processo orçamental anual e é publicado.\n\n6. O Conselho de Administração aprova e, se necessário, revê o programa plurianual. Esta revisão deve basear-se num relatório de avaliação, elaborado por um perito externo independente a pedido do Conselho de Administração. Esses documentos são publicados.\n\n7. O Conselho de Administração exerce as suas competências orçamentais nos termos dos artigos 21.º a 24.º.\n\n8. O Conselho de Administração decide, depois de obtido o acordo da Comissão, da aceitação de quaisquer legados, doações ou subvenções provenientes de outras fontes da Comunidade ou de contribuições voluntárias dos Estados-Membros ou das entidades reguladoras. O parecer emitido pelo Conselho de Administração nos termos do n.º 5 do artigo 24.º deve abordar explicitamente as fontes de financiamento enumeradas no presente número.\n\n9. O Conselho de Administração, em consulta com o Conselho de Reguladores, exerce autoridade disciplinar sobre o Director.\n\n10. O Conselho de Administração elabora, se necessário, as normas da Agência para a execução do Estatuto dos Funcionários das Comunidades Europeias, nos termos do n.º 2 do artigo 28.º.\n\n11. O Conselho de Administração aprova as disposições práticas tendo em vista o direito de acesso aos documentos da Agência, nos termos do artigo 30.º.\n\n12. Baseando-se no projecto de relatório anual referido no n.º 8 do artigo 17.º, o Conselho de Administração aprova e publica o relatório anual de actividades da Agência e transmite-o ao Parlamento Europeu, ao Conselho, à Comissão, ao Tribunal de Contas, ao Comité Económico e Social Europeu e ao Comité das Regiões até 15 de Junho de cada ano. O relatório anual de actividades da Agência deve conter uma secção distinta, aprovada pelo Conselho de Reguladores, relativa às actividades reguladoras da Agência no exercício de referência.\n\n13. O Conselho de Administração aprova e publica o seu regulamento interno."
+  },
+  "50e590219a5aecc4": {
+   "fragment_id": "Artigo 14.º — Conselho de Reguladores",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Conselho de Reguladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Conselho de Reguladores\n\n1. O Conselho de Reguladores é composto por:\n\na) Altos representantes das entidades reguladoras, nos termos do n.º 1 do artigo 35.º da Directiva 2009/72/CE e do n.º 1 do artigo 39.º da Directiva 2009/73/CE, e um suplente por Estado-Membro designado de entre os actuais quadros superiores dessas autoridades;\n\nb) Um representante da Comissão sem direito a voto.\n\nApenas um representante por Estado-Membro da entidade reguladora nacional pode ser admitido para o Conselho de Reguladores.\n\nCabe a cada entidade reguladora nacional nomear o suplente de entre os seus actuais funcionários.\n\n2. O Conselho de Reguladores elege um Presidente e um Vice-Presidente de entre os seus membros. O Vice-Presidente substitui o Presidente sempre que este não esteja em condições de exercer as suas funções. Os mandatos do Presidente e do Vice-Presidente têm uma duração de dois anos e meio e são renováveis. Os mandatos do Presidente e do Vice-Presidente cessam, para todos os efeitos, no momento em que deixem de ser membros do Conselho de Reguladores.\n\n3. O Conselho de Reguladores delibera por maioria de dois terços dos seus membros presentes. Cada membro ou suplente tem direito a um voto.\n\n4. O Conselho de Reguladores aprova e publica o seu regulamento interno, o qual estabelece mais pormenorizadamente o processo de votação, nomeadamente as condições em que um membro pode agir em nome de outro e também, se adequado, as regras em matéria de quórum. O regulamento interno pode prever métodos de trabalho específicos para o tratamento de questões que ocorram no âmbito de iniciativas em matéria de cooperação regional.\n\n5. No desempenho das funções que lhe são conferidas pelo presente regulamento e sem prejuízo da possibilidade de os seus membros agirem em nome das respectivas entidades reguladoras, o Conselho de Reguladores age com independência e não solicita nem recebe instruções de qualquer Governo de um Estado-Membro, da Comissão ou de qualquer outra entidade pública ou privada.\n\n6. O secretariado do Conselho de Reguladores é assegurado pela Agência."
+  },
+  "884851225b022fe7": {
+   "fragment_id": "Artigo 15.º — Funções do Conselho de Reguladores",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Funções do Conselho de Reguladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funções do Conselho de Reguladores\n\n1. O Conselho de Reguladores dá parecer ao Director sobre os pareceres, recomendações e decisões a que se referem os artigos 5.º a 9.º que estão a ser analisados tendo em vista a sua aprovação. Além disso, na sua esfera de competências, o Conselho de Reguladores dá instruções ao Director no que respeita à execução das funções de direcção.\n\n2. O Conselho de Reguladores emite um parecer dirigido ao Conselho de Administração sobre o candidato a nomear como Director nos termos do n.º 1 do artigo 13.º e do n.º 2 do artigo 16.º. Essa decisão é tomada por maioria de três quartos dos seus membros.\n\n3. O Conselho de Reguladores aprova, nos termos do n.º 5 do artigo 13.º e do n.º 6 do artigo 17.º e em consonância com o anteprojecto de orçamento elaborado nos termos do n.º 1 do artigo 23.º, o programa de trabalho da Agência para o ano seguinte e apresenta-o antes de 1 de Setembro de cada ano para adopção pelo Conselho de Administração.\n\n4. O Conselho de Reguladores aprova a secção distinta do relatório anual relativa às actividades reguladoras tal como previsto no n.º 12 do artigo 13.º e no n.º 8 do artigo 17.º.\n\n5. O Parlamento Europeu pode convidar, respeitando plenamente a sua independência, o Presidente do Conselho de Reguladores ou o seu adjunto a proferir uma declaração perante a sua comissão competente e a responder às perguntas dos respectivos membros."
+  },
+  "cb3bd29a25c87e8d": {
+   "fragment_id": "Artigo 16.º — Director",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Director\n\n1. A Agência é dirigida pelo seu Director, que age de acordo com as instruções a que se refere o segundo período do n.º 1 do artigo 15.º e, sempre que previsto no presente regulamento, com os pareceres do Conselho de Reguladores. Sem prejuízo das tarefas do Conselho de Administração e do Conselho de Reguladores em relação às funções do Director, este não solicita nem recebe instruções de qualquer Governo de um Estado-Membro, da Comissão ou de qualquer outra entidade pública ou privada.\n\n2. O Director é nomeado pelo Conselho de Administração após parecer favorável do Conselho de Reguladores, com base no seu mérito, competências e experiência relevante no sector da energia, a partir de uma lista de pelo menos três candidatos propostos pela Comissão, na sequência de um convite público à manifestação de interesse. Antes de ser nomeado, o candidato seleccionado pelo Conselho de Administração pode ser convidado a proferir uma declaração perante a comissão competente do Parlamento Europeu e a responder às perguntas formuladas pelos seus membros.\n\n3. O mandato do director é de cinco anos. No decurso dos nove meses que antecedem o termo desse período, a Comissão procede a uma avaliação, na qual analisa, em especial:\n\na) O desempenho do Director;\n\nb) As atribuições e necessidades da Agência nos anos seguintes.\n\nA avaliação relativa à alínea b) é realizada com a assistência de um perito externo independente.\n\n4. O Conselho de Administração, deliberando sob proposta da Comissão, e após ter consultado e concedido a máxima atenção à avaliação e ao parecer do Conselho de Reguladores sobre essa avaliação e apenas nos casos em que as atribuições e necessidades da Agência o justifiquem, pode prorrogar o mandato do Director uma vez por um período não superior a três anos.\n\n5. O Conselho de Administração informa o Parlamento Europeu da sua intenção de prorrogar o mandato do Director. Durante o mês que antecede a prorrogação do seu mandato, o Director pode ser convidado a proferir uma declaração perante a comissão competente do Parlamento e a responder às perguntas formuladas pelos membros dessa comissão.\n\n6. Se o mandato não for prorrogado, o Director permanece em funções até à nomeação do seu sucessor.\n\n7. O Director só pode ser demitido das suas funções por decisão do Conselho de Administração, após parecer favorável do Conselho de Reguladores. O Conselho de Administração aprova essa decisão por maioria de três quartos dos seus membros.\n\n8. O Parlamento Europeu e o Conselho podem convidar o Director a apresentar um relatório sobre o desempenho das suas funções. O Parlamento Europeu pode igualmente convidar o Director a proferir uma declaração perante a sua comissão competente e a responder às perguntas formuladas pelos membros dessa comissão."
+  },
+  "be7ed76165834d01": {
+   "fragment_id": "Artigo 17.º — Funções do Director",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Funções do Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funções do Director\n\n1. O Director representa a Agência e é responsável pela sua gestão.\n\n2. O Director prepara os trabalhos do Conselho de Administração. Participa, sem direito a voto, nos trabalhos do Conselho de Administração.\n\n3. O Director aprova e publica os pareceres, recomendações e decisões referidos nos artigos 5.º a 9.º que tenham merecido o parecer favorável do Conselho de Reguladores.\n\n4. O Director é responsável pela execução do programa de trabalho anual da Agência sob a orientação do Conselho de Reguladores e sob o controlo administrativo do Conselho de Administração.\n\n5. O Director toma as medidas necessárias, nomeadamente a aprovação de instruções administrativas internas e a publicação de comunicações, para assegurar o funcionamento da Agência em conformidade com o presente regulamento.\n\n6. O Director elabora anualmente um projecto de programa de trabalho da Agência para o ano seguinte e apresenta-o ao Conselho de Administração, ao Parlamento Europeu e à Comissão até 30 de Junho desse ano.\n\n7. O Director elabora um anteprojecto de orçamento da Agência nos termos do n.º 1 do artigo 23.º e executa o orçamento da Agência nos termos do artigo 24.º.\n\n8. O Director elabora anualmente um projecto de relatório anual contendo uma secção distinta relativa às actividades reguladoras da Agência e uma secção sobre as questões financeiras e administrativas.\n\n9. O Director exerce, relativamente ao pessoal da Agência, os poderes previstos no n.º 3 do artigo 28.º."
+  },
+  "b4644eff970d99a2": {
+   "fragment_id": "Artigo 18.º — Câmara de Recurso",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Câmara de Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Câmara de Recurso\n\n1. A Câmara de Recurso é composta por seis membros efectivos e seis suplentes seleccionados de entre os actuais ou antigos quadros superiores das entidades reguladoras nacionais, autoridades da concorrência ou outras instituições nacionais ou comunitárias com experiência relevante no sector da energia. A Câmara de Recurso designa o seu presidente. As decisões da Câmara de Recurso são aprovadas por maioria qualificada de, pelo menos, quatro dos seis membros que a compõem. A Câmara de Recurso é convocada sempre que necessário.\n\n2. Os membros da Câmara de Recurso são nomeados formalmente pelo Conselho de Administração, sob proposta da Comissão, na sequência de um convite público à manifestação de interesse, após consulta do Conselho de Reguladores.\n\n3. A duração do mandato dos membros da Câmara de Recurso é de cinco anos. Este mandato é renovável. Os membros da Câmara de Recurso tomam decisões com total independência e não aceitam quaisquer instruções. Não podem desempenhar nenhuma outra função na Agência, no seu Conselho de Administração ou no seu Conselho de Reguladores. Um membro da Câmara de Recurso não pode ser demitido das suas funções durante o mandato, excepto se tiver cometido uma falta grave e se o Conselho de Administração, após consulta do Conselho de Reguladores, tomar uma decisão nesse sentido.\n\n4. Os membros da Câmara de Recurso não podem participar num processo de recurso caso tenham nele qualquer interesse pessoal, caso tenham estado anteriormente envolvidos no processo na qualidade de representantes de uma das partes ou caso tenham participado na decisão que é objecto de recurso.\n\n5. Se, por uma das razões referidas no n.º 4 ou por qualquer outra razão, um membro de uma Câmara de Recurso considerar que outro membro não deve participar num processo de recurso, informa desse facto a Câmara de Recurso. Um membro da Câmara de Recurso pode ser recusado por qualquer das partes no processo de recurso, por uma das razões referidas no n.º 4, ou se for suspeito de parcialidade. A recusa é inadmissível se tiver por fundamento a nacionalidade dos membros ou se, tendo conhecimento de um motivo de recusa, a parte no processo de recurso tiver iniciado a tramitação processual com um passo que não seja o pedido de recusa atinente à composição da Câmara de Recurso.\n\n6. A Câmara de Recurso decide das medidas a tomar nas situações previstas nos n.^os^ 4 e 5 sem a participação do membro em causa. Para a adopção dessa decisão, o membro em causa é substituído na Câmara de Recurso pelo seu suplente, excepto se o suplente se encontrar em situação semelhante. Nesse caso, o Presidente designa um substituto de entre os suplentes disponíveis.\n\n7. Os membros da Câmara de Recurso devem esforçar-se por agir com independência no interesse público. Para o efeito, prestam, por escrito, uma declaração de compromisso e uma declaração de interesses indicando quer a ausência de qualquer interesse que possa ser considerado prejudicial à sua independência, quer qualquer interesse directo ou indirecto que possa ser considerado prejudicial à sua independência. Estas declarações são publicadas anualmente."
+  },
+  "03dc87ce2561349c": {
+   "fragment_id": "Artigo 19.º — Recursos",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Recursos\n\n1. Qualquer pessoa singular ou colectiva, incluindo as entidades reguladoras nacionais, pode recorrer das decisões a que se referem os artigos 7.º, 8.º ou 9.º de que seja destinatária, ou de uma decisão que, embora formalmente dirigida a outra pessoa, lhe diga directa e individualmente respeito.\n\n2. O recurso, juntamente com a respectiva fundamentação, deve ser apresentado por escrito na Agência no prazo de dois meses a contar do dia da notificação da decisão à pessoa em causa ou, na ausência de notificação, a contar do dia em que a Agência tiver publicado a sua decisão. A Câmara de Recurso aprova uma decisão sobre o recurso no prazo de dois meses a contar da apresentação do mesmo.\n\n3. Os recursos interpostos nos termos do n.º 1 não têm efeito suspensivo. No entanto, se considerar que as circunstâncias o exigem, a Câmara de Recurso pode suspender a aplicação da decisão que é objecto de recurso.\n\n4. Se o recurso for admissível, a Câmara de Recurso verifica se é fundamentado. A Câmara de Recurso convida as partes no processo de recurso, tantas vezes quantas forem necessárias, a apresentar, em prazos determinados, as suas observações sobre as notificações que lhes tiver enviado ou sobre as comunicações das outras partes no processo de recurso. As partes no processo de recurso podem prestar declarações oralmente.\n\n5. A Câmara de Recurso pode, nos termos do presente artigo, exercer todas as competências atribuídas à Agência ou remeter o processo para o órgão competente da Agência. Este órgão fica vinculado à decisão da Câmara de Recurso.\n\n6. A Câmara de Recurso aprova e publica o seu regulamento interno.\n\n7. As decisões tomadas pela Câmara de Recurso são publicadas pela Agência."
+  },
+  "714d34812f36f886": {
+   "fragment_id": "Artigo 20.º — Recursos para o Tribunal de Primeira Instância e para o Tribunal de Justiça",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Recursos para o Tribunal de Primeira Instância e para o Tribunal de Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Recursos para o Tribunal de Primeira Instância e para o Tribunal de Justiça\n\n1. Pode ser interposto recurso para o Tribunal de Primeira Instância ou para o Tribunal de Justiça, nos termos do artigo 230.º do Tratado, de decisões da Câmara de Recurso ou, nos casos em que a Câmara de Recurso não tenha competência para se pronunciar, da Agência.\n\n2. Na falta de decisão da Agência, pode ser interposto recurso por omissão para o Tribunal de Primeira Instância ou o Tribunal de Justiça, nos termos do artigo 232.º do Tratado.\n\n3. A Agência toma as medidas necessárias à execução do acórdão do Tribunal de Primeira Instância ou do Tribunal de Justiça."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "6e028bd1d966d922": {
+   "fragment_id": "DISPOSIÇÕES FINANCEIRAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINANCEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINANCEIRAS"
+  },
+  "d38f258a9a5fc2c9": {
+   "fragment_id": "Artigo 21.º — Orçamento da Agência",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Orçamento da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Orçamento da Agência\n\n1. As receitas da Agência provêm em especial de:\n\na) Subvenção da Comunidade, inscrita no orçamento geral da União Europeia (secção «Comissão»);\n\nb) Taxas pagas à Agência nos termos do artigo 22.º;\n\nc) Contribuições voluntárias dos Estados-Membros ou das entidades reguladoras, nos termos do n.º 8 do artigo 13.º;\n\nd) Legados, doações ou subvenções, nos termos do n.º 8 do artigo 13.º.\n\n2. As despesas da Agência incluem os encargos com o pessoal, as despesas administrativas, as despesas com as infra-estruturas e as despesas de funcionamento.\n\n3. As receitas da Agência e as despesas devem ser equilibradas.\n\n4. Todas as receitas e despesas da Agência são objecto de previsões para cada exercício orçamental, que coincide com o ano civil, e são inscritas no seu orçamento."
+  },
+  "9ae92583e5353c0f": {
+   "fragment_id": "Artigo 22.º — Taxas",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Taxas\n\n1. Sempre que seja solicitada uma decisão de isenção nos termos do n.º 1 do artigo 9.º, são devidas taxas à Agência.\n\n2. As taxas a que se refere o n.º 1 são fixadas pela Comissão."
+  },
+  "83ec53874c0e126f": {
+   "fragment_id": "Artigo 23.º — Elaboração do orçamento",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Elaboração do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Elaboração do orçamento\n\n1. Até 15 de Fevereiro de cada ano, o Director elabora um anteprojecto de orçamento, que inclui as despesas de funcionamento e o programa de trabalho previsto para o exercício seguinte, e envia-o ao Conselho de Administração, juntamente com o quadro dos efectivos previstos. O Conselho de Administração estabelece anualmente, com base no anteprojecto elaborado pelo Director, o mapa previsional das receitas e despesas da Agência para o exercício seguinte. Esse mapa previsional, que inclui um projecto de quadro de pessoal, é transmitido pelo Conselho de Administração à Comissão até 31 de Março. Antes da adopção do mapa previsional, o projecto elaborado pelo Director é transmitido ao Conselho de Reguladores, que pode emitir parecer fundamentado sobre o projecto.\n\n2. O mapa previsional referido no n.º 1 é transmitido pela Comissão ao Parlamento Europeu e ao Conselho (autoridade orçamental), juntamente com o anteprojecto de orçamento geral da União Europeia.\n\n3. Com base no mapa previsional, a Comissão inscreve no anteprojecto de orçamento geral da União Europeia as previsões que considera necessárias no que respeita ao quadro de pessoal e o montante da subvenção imputada ao orçamento geral nos termos do artigo 272.º do Tratado.\n\n4. A autoridade orçamental aprova o quadro de pessoal da Agência.\n\n5. O orçamento da Agência é elaborado pelo Conselho de Administração. Após a aprovação do orçamento geral da União Europeia, o orçamento é considerado definitivo. Se necessário, o orçamento é adaptado em conformidade.\n\n6. O Conselho de Administração notifica sem demora a autoridade orçamental da sua intenção de executar qualquer projecto que possa ter implicações financeiras significativas para o financiamento do orçamento da Agência, em especial projectos imobiliários, como o arrendamento ou a aquisição de imóveis. O Conselho de Administração informa a Comissão desse facto. Sempre que um ramo da autoridade orçamental tencione emitir um parecer, deve notificar a Agência, no prazo de duas semanas após a recepção da informação sobre o projecto, da sua intenção de emitir parecer. Na ausência de resposta, a Agência pode proceder à operação projectada."
+  },
+  "56c42787735bf343": {
+   "fragment_id": "Artigo 24.º — Execução e controlo orçamental",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Execução e controlo orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Execução e controlo orçamental\n\n1. O Director desempenha as funções de gestor orçamental e executa o orçamento da Agência.\n\n2. Até ao dia 1 de Março seguinte ao encerramento do exercício, o contabilista da Agência transmite ao contabilista da Comissão e ao Tribunal de Contas as contas provisórias, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Agência transmite também o relatório sobre a gestão orçamental e financeira ao Parlamento Europeu e ao Conselho até ao dia 31 de Março do ano seguinte ao do exercício encerrado. O contabilista da Comissão consolida então as contas provisórias das instituições e dos organismos descentralizados nos termos do artigo 128.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades [([^15])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr15-L_2009211PT.01000101-E0015) (Regulamento Financeiro).\n\n3. Até ao dia 31 de Março seguinte ao encerramento do exercício, o contabilista da Comissão transmite as contas provisórias da Agência, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício, ao Tribunal de Contas. O relatório sobre a gestão orçamental e financeira do exercício é igualmente transmitido ao Parlamento Europeu e ao Conselho.\n\n4. Após a recepção das observações do Tribunal de Contas sobre as contas provisórias da Agência, nos termos do disposto no artigo 129.º do Regulamento Financeiro, o Director, agindo sob a sua própria responsabilidade, elabora as contas definitivas da Agência e transmite-as ao Conselho de Administração para parecer.\n\n5. O Conselho de Administração emite um parecer sobre as contas definitivas da Agência.\n\n6. O Director transmite essas contas definitivas, acompanhadas do parecer do Conselho de Administração, até ao dia 1 de Julho seguinte ao encerramento do exercício, ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas.\n\n7. As contas definitivas são publicadas.\n\n8. O Director envia ao Tribunal de Contas uma resposta às observações deste último até 15 de Outubro. Envia também uma cópia dessa resposta ao Conselho de Administração e à Comissão.\n\n9. O Director apresenta ao Parlamento Europeu, a pedido deste, tal como previsto no n.º 3 do artigo 146.º do Regulamento Financeiro, qualquer informação necessária à boa aplicação do processo de quitação relativamente ao exercício em causa.\n\n10. Antes de 15 de Maio do ano N + 2, o Parlamento Europeu, sob recomendação do Conselho, que delibera por maioria qualificada, dá quitação ao Director quanto à execução do orçamento do exercício N."
+  },
+  "f9c35fb81e184e00": {
+   "fragment_id": "Artigo 25.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Disposições financeiras\n\nAs disposições financeiras aplicáveis à Agência são estabelecidas pelo Conselho de Administração após consulta da Comissão. Essas disposições podem divergir do Regulamento (CE, Euratom) n.º 2343/2002 se as exigências específicas do funcionamento da Agência a isso obrigarem e apenas com o acordo prévio da Comissão."
+  },
+  "762f72d937fd4911": {
+   "fragment_id": "Artigo 26.º — Medidas antifraude",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Medidas antifraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Medidas antifraude\n\n1. Para efeitos de luta contra a fraude, a corrupção e outras actividades ilegais, são aplicáveis à Agência, sem restrições, as disposições do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pela Organização Europeia de Luta Antifraude (OLAF) [([^16])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr16-L_2009211PT.01000101-E0016).\n\n2. A Agência adere ao Acordo Interinstitucional de 25 de Maio de 1999 entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias relativo aos inquéritos internos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) [([^17])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr17-L_2009211PT.01000101-E0017) e aprova imediatamente as disposições adequadas, que se aplicam a todos os seus agentes.\n\n3. As decisões de financiamento, os acordos e os instrumentos de execução deles decorrentes devem estipular explicitamente que o Tribunal de Contas e o OLAF podem, se necessário, efectuar um controlo no local junto dos beneficiários das dotações da Agência e junto dos agentes responsáveis pela atribuição dessas dotações."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "b92f90c23c90b9bd": {
+   "fragment_id": "Artigo 27.º — Privilégios e imunidades",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Privilégios e imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Privilégios e imunidades\n\nÉ aplicável à Agência o Protocolo relativo aos Privilégios e Imunidades das Comunidades Europeias."
+  },
+  "e647995f71f2d5a0": {
+   "fragment_id": "Artigo 28.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Pessoal\n\n1. São aplicáveis ao pessoal da Agência, incluindo o seu Director, o Estatuto dos Funcionários das Comunidades Europeias, o regime aplicável aos outros agentes das Comunidades Europeias e as regras aprovadas conjuntamente pelas instituições das Comunidades Europeias para efeitos de aplicação desse estatuto e desse regime.\n\n2. O Conselho de Administração aprova, com o acordo da Comissão, as normas de execução apropriadas, nos termos das disposições previstas no artigo 110.º do Estatuto dos Funcionários das Comunidades Europeias.\n\n3. Em relação ao seu pessoal, a Agência exerce os poderes conferidos à autoridade investida de poder de nomeação pelo Estatuto dos Funcionários das Comunidades Europeias e à entidade habilitada a celebrar contratos pelo Regime Aplicável aos Outros Agentes das Comunidades Europeias.\n\n4. O Conselho de Administração pode aprovar disposições destinadas a permitir que trabalhem na Agência, em regime de destacamento, peritos nacionais dos Estados-Membros."
+  },
+  "583fd4403bc9ba06": {
+   "fragment_id": "Artigo 29.º — Responsabilidade da Agência",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Responsabilidade da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Responsabilidade da Agência\n\n1. Em matéria de responsabilidade extracontratual, a Agência indemniza, de acordo com os princípios gerais comuns às legislações dos Estados-Membros, os danos causados por si ou pelo seu pessoal no exercício das suas funções. O Tribunal de Justiça é competente para conhecer dos litígios relativos à reparação de tais danos.\n\n2. A responsabilidade pessoal, a nível pecuniário e disciplinar, do pessoal perante a Agência rege-se pelas regras aplicáveis ao pessoal da Agência."
+  },
+  "62e7881abe63b123": {
+   "fragment_id": "Artigo 30.º — Acesso aos documentos",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Acesso aos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Acesso aos documentos\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão [([^18])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr18-L_2009211PT.01000101-E0018) é aplicável aos documentos na posse da Agência.\n\n2. O Conselho de Administração aprova as regras de execução do Regulamento (CE) n.º 1049/2001 até 3 de Março de 2010.\n\n3. As decisões tomadas pela Agência ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça ou ser impugnadas no Tribunal de Justiça, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado."
+  },
+  "ca3db64b0ea5938f": {
+   "fragment_id": "Artigo 31.º — Participação de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Participação de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Participação de países terceiros\n\n1. A Agência está aberta à participação de países terceiros que tenham celebrado acordos com a Comunidade, com base nos quais tenham aprovado e apliquem o direito comunitário no domínio da energia e, se for caso disso, nos domínios do ambiente e da concorrência.\n\n2. Ao abrigo das disposições aplicáveis desses acordos, são celebradas convenções que definam, nomeadamente, a natureza, o âmbito e as formas de participação desses países nos trabalhos da Agência, incluindo disposições relativas às contribuições financeiras e ao pessoal."
+  },
+  "5653700261b67e74": {
+   "fragment_id": "Artigo 32.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Comité\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "74f5929468ba7aa8": {
+   "fragment_id": "Artigo 33.º — Regime linguístico",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Regime linguístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regime linguístico\n\n1. É aplicável à Agência o disposto no Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia [([^19])](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntr19-L_2009211PT.01000101-E0019).\n\n2. O Conselho de Administração decide do regime linguístico interno da Agência.\n\n3. Os serviços de tradução necessários ao funcionamento da Agência são assegurados pelo Centro de Tradução dos Organismos da União Europeia."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "cee16fbcac405c2d": {
+   "fragment_id": "Artigo 34.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Avaliação\n\n1. A Comissão, assistida por um perito externo independente, leva a efeito uma avaliação das actividades da Agência. Essa avaliação incide nos resultados alcançados pela Agência e nos seus métodos de trabalho, em relação ao objectivo, mandato e funções definidos no presente regulamento e nos seus programas de trabalho anuais. A avaliação deve basear-se numa ampla consulta, em conformidade com o disposto no artigo 10.º.\n\n2. A Comissão deve apresentar a avaliação a que se refere o n.º 1 ao Conselho de Reguladores. Este deve apresentar à Comissão recomendações de alterações a introduzir no presente regulamento, na Agência e nos seus métodos de trabalho, recomendações essas que a Comissão pode transmitir, acompanhadas do seu próprio parecer e de propostas adequadas, ao Parlamento Europeu e ao Conselho.\n\n3. A primeira avaliação deve ser apresentada pela Comissão ao Parlamento Europeu e ao Conselho até três anos após a entrada em funções do primeiro Director. Em seguida, a Comissão deve apresentar um relatório de avaliação pelo menos de quatro em quatro anos."
+  },
+  "50a96bb53f53cd5f": {
+   "fragment_id": "Artigo 35.º — Entrada em vigor e medidas transitórias",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Entrada em vigor e medidas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor e medidas transitórias\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. Os artigos 5.º a 11.º são aplicáveis a partir de 3 de Março de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 13 de Julho de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**E. ERLANDSSON**\n\n---"
+  },
+  "6dfed27aed498cf4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc1-L_2009211PT.01000101-E0001) [JO C 211 de 19.8.2008, p. 23](http://publications.europa.eu/resource/oj/JOC_2008_211_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc2-L_2009211PT.01000101-E0002) [JO C 172 de 5.7.2008, p. 55](http://publications.europa.eu/resource/oj/JOC_2008_172_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc3-L_2009211PT.01000101-E0003) Parecer do Parlamento Europeu de 18 de Junho de 2008 (ainda não publicada no Jornal Oficial), posição comum do Conselho de 9 de Janeiro de 2009 ([JO C 75 E de 31.3.2009, p. 1](http://publications.europa.eu/resource/oj/JOC_2009_075_E_TOC)) e posição do Parlamento Europeu de 22 de Abril de 2009 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 25 de Junho de 2009.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc4-L_2009211PT.01000101-E0004) [JO L 296 de 14.11.2003, p. 34](http://publications.europa.eu/resource/oj/JOL_2003_296_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc5-L_2009211PT.01000101-E0005) [JO L 176 de 15.7.2003, p. 37](http://publications.europa.eu/resource/oj/JOL_2003_176_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc6-L_2009211PT.01000101-E0006) [JO L 176 de 15.7.2003, p. 57](http://publications.europa.eu/resource/oj/JOL_2003_176_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc7-L_2009211PT.01000101-E0007) Ver página 55 do presente Jornal Oficial.\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc8-L_2009211PT.01000101-E0008) Ver página 94 do presente Jornal Oficial.\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc9-L_2009211PT.01000101-E0009) [JO L 262 de 22.9.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_262_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc10-L_2009211PT.01000101-E0010) [JO L 357 de 31.12.2002, p. 72](http://publications.europa.eu/resource/oj/JOL_2002_357_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc11-L_2009211PT.01000101-E0011) [JO L 56 de 4.3.1968, p. 1](http://publications.europa.eu/resource/oj/JOL_1968_056_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc12-L_2009211PT.01000101-E0012) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc13-L_2009211PT.01000101-E0013) Ver página 15 do presente Jornal Oficial.\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc14-L_2009211PT.01000101-E0014) Ver página 36 do presente Jornal Oficial.\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc15-L_2009211PT.01000101-E0015) [JO L 248 de 16.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_248_R_TOC).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc16-L_2009211PT.01000101-E0016) [JO L 136 de 31.5.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_136_R_TOC).\n\n> [(^17^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc17-L_2009211PT.01000101-E0017) [JO L 136 de 31.5.1999, p. 15](http://publications.europa.eu/resource/oj/JOL_1999_136_R_TOC).\n\n> [(^18^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc18-L_2009211PT.01000101-E0018) [JO L 145 de 31.5.2001, p. 43](http://publications.europa.eu/resource/oj/JOL_2001_145_R_TOC).\n\n> [(^19^)](http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019.02/DOC_1#ntc19-L_2009211PT.01000101-E0019) [JO 17 de 6.10.1958, p. 385/58](http://publications.europa.eu/resource/oj/JOP_1958_017_R_TOC)."
+  },
+  "8e5fe0d8c0290f84": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Julho de 2009\n\nque institui a Agência de Cooperação dos Reguladores da Energia\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité das Regiões ([^2^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0003)),\n\n(1) A Comunicação da Comissão de 10 de Janeiro de 2007 intitulada «Uma política energética para a Europa» sublinhou a importância da realização do mercado interno da electricidade e do gás natural. A melhoria do quadro regulamentar a nível comunitário foi identificada como medida essencial para atingir este objectivo.\n\n(2) A Decisão 2003/796/CE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0004)) estabeleceu um grupo consultivo independente para a electricidade e o gás designado «Grupo Europeu de Reguladores da Electricidade e do Gás» («ERGEG»), para facilitar a consulta, coordenação e cooperação entre os organismos reguladores nos Estados-Membros e entre esses organismos e a Comissão, com o objectivo de consolidar o mercado interno da electricidade e do gás natural. Este grupo é composto por representantes das entidades reguladoras nacionais estabelecidas nos termos da Directiva 2003/54/CE do Parlamento e do Conselho, de 26 de Junho de 2003, que estabelece regras comuns para o mercado interno da electricidade ([^5^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0005)) e da Directiva 2003/55/CE do Parlamento Europeu e do Conselho, de 26 de Junho de 2003, que estabelece regras comuns para o mercado interno de gás natural ([^6^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0006)).\n\n(3) O trabalho efectuado pelo ERGEG desde o seu estabelecimento prestou um contributo positivo ao mercado interno da electricidade e do gás natural. É, contudo, amplamente reconhecido pelo sector, e foi proposto pelo próprio ERGEG, que a cooperação voluntária entre as entidades reguladoras nacionais deverá ter agora lugar no âmbito de uma estrutura comunitária com competências claras e com poderes para tomar decisões regulamentares em certos casos específicos.\n\n(4) O Conselho Europeu de 8 e 9 Março de 2007 convidou a Comissão a propor medidas para o estabelecimento de um mecanismo independente em que cooperem os reguladores nacionais.\n\n(5) Os Estados-Membros deverão cooperar estreitamente entre si, removendo os obstáculos ao comércio transfronteiriço de electricidade e gás natural, a fim de alcançar os objectivos da política energética comunitária. Com base na avaliação de impacto dos recursos necessários para uma entidade central, concluiu-se que o estabelecimento de uma entidade central independente oferecia algumas vantagens a longo prazo sobre as outras opções. Deverá ser estabelecida uma Agência de Cooperação dos Reguladores da Energia («Agência») para colmatar a lacuna regulamentar existente a nível comunitário e contribuir para o funcionamento efectivo dos mercados internos da electricidade e do gás natural. A Agência deverá permitir igualmente às entidades reguladoras nacionais incrementarem a sua cooperação a nível comunitário e participarem, numa base mútua, no exercício de funções de dimensão comunitária.\n\n(6) A Agência deverá assegurar que as funções de regulação desempenhadas pelas entidades reguladoras nacionais nos termos da Directiva 2009/72/CE do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, que estabelece regras comuns para o mercado interno da electricidade ([^7^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0007)) e da Directiva 2009/73/CE do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, que estabelece regras comuns para o mercado interno do gás natural ([^8^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0008)) sejam correctamente coordenadas e, se necessário, completadas a nível comunitário. Para tal, é necessário garantir a independência da Agência em relação aos produtores de gás e electricidade, aos operadores de redes de transporte e distribuição, quer públicos, quer privados, e aos consumidores, bem como assegurar a conformidade da sua acção com a legislação comunitária, a sua elevada capacidade técnica e regulamentar, transparência, receptividade ao controlo democrático e eficiência.\n\n(7) A Agência deverá fiscalizar a cooperação regional entre os operadores de redes de transporte nos sectores do gás e da electricidade e a execução das actividades da rede europeia de operadores de redes de transporte de electricidade («REORT para a electricidade»), e da rede europeia de operadores de redes de transporte de gás («REORT para o gás»). A participação da Agência é essencial para assegurar que a cooperação entre os operadores de redes de transporte se processe de forma eficiente e transparente em benefício dos mercados internos da electricidade e do gás natural.\n\n(8) A Agência, em colaboração com a Comissão, os Estados-Membros e as autoridades nacionais competentes, deverá fiscalizar os mercados internos da electricidade e do gás e, sempre que for adequado, comunicar os dados ao Parlamento Europeu, à Comissão e às autoridades nacionais. Estas funções de fiscalização da Agência não deverão constituir uma duplicação nem prejudicar a fiscalização realizada pela Comissão ou pelas autoridades nacionais, em particular pelas autoridades da concorrência.\n\n(9) A Agência desempenha um papel importante na definição de orientações-quadro que, por natureza, não são vinculativas («orientações-quadro») e com as quais os códigos de rede devem estar em sintonia. Considera-se também conveniente, e coerente com o seu objectivo, que a Agência desempenhe um papel na análise dos projectos de códigos de rede (tanto na fase de criação como por ocasião de subsequentes alterações) a fim de assegurar que estão em sintonia com as orientações-quadro, antes de os recomendar para adopção pela Comissão.\n\n(10) Convém estabelecer uma estrutura integrada no âmbito da qual as entidades reguladoras nacionais possam participar e cooperar. Essa estrutura deverá facilitar a aplicação uniforme da legislação relativa ao mercado interno da electricidade e do gás natural em toda a Comunidade. No que respeita a situações que envolvam dois ou mais Estados-Membros, deverão ser conferidos à Agência poderes para aprovar decisões individuais. Tais poderes deverão abranger, mediante certas condições, questões técnicas, o regime regulador a aplicar às infra-estruturas da electricidade e do gás natural que ligam ou que podem ligar dois ou mais Estados-Membros e, como último recurso, as isenções às regras do mercado interno para as novas interligações de electricidade e as novas infra-estruturas de gás localizadas em dois ou mais Estados-Membros.\n\n(11) Dado que tem uma visão geral das entidades reguladoras nacionais, a Agência deverá assumir um papel de aconselhamento da Comissão, de outras instituições comunitárias e das entidades reguladoras nacionais sobre as questões relacionadas com os fins para que foi criada. Deverá também informar a Comissão sempre que considere que a cooperação entre operadores de redes de transporte não produz os resultados necessários ou que uma entidade reguladora nacional cuja decisão não esteja em conformidade com as orientações não dá o seguimento adequado ao parecer, recomendação ou decisão da Agência.\n\n(12) A Agência deverá também poder elaborar recomendações para ajudar as entidades reguladoras e os intervenientes no mercado a partilhar boas práticas.\n\n(13) A Agência deverá consultar os interessados e, se for caso disso, dar-lhes uma possibilidade razoável de apresentarem observações sobre as medidas propostas, tais como os códigos e as regras aplicáveis às redes.\n\n(14) A Agência deverá contribuir para a aplicação das orientações relativas às redes transeuropeias de energia nos moldes estabelecidos na Decisão n.º 1364/2006/CE do Parlamento Europeu e do Conselho, de 6 de Setembro de 2006, que estabelece orientações para as redes transeuropeias de energia ([^9^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0009)), em particular quando da emissão do seu parecer sobre os planos decenais não vinculativos de desenvolvimento da rede à escala comunitária (planos de desenvolvimento da rede à escala comunitária), em conformidade com o n.º 3 do artigo 6.º do presente regulamento.\n\n(15) A Agência deverá contribuir para os esforços no sentido de reforçar a segurança energética.\n\n(16) A estrutura da Agência deverá ser adaptada de forma a corresponder às necessidades específicas da regulamentação no sector da energia. Em especial, é necessário ter plenamente em conta o papel específico das necessidades das entidades reguladoras nacionais e garantir a sua independência.\n\n(17) O Conselho de Administração deverá dispor dos poderes necessários para elaborar o orçamento, verificar a sua execução, elaborar o regulamento interno, aprovar regras financeiras e nomear o Director. Deverá utilizar-se um sistema de rotação para a renovação dos membros do Conselho de Administração que são nomeados pelo Conselho a fim de assegurar uma participação equilibrada dos Estados-Membros ao longo do tempo. O Conselho de Administração deverá actuar de forma independente e objectiva no interesse público e não poderá solicitar nem acatar instruções de ordem política.\n\n(18) A Agência deverá dispor dos poderes necessários para desempenhar as funções de regulamentação de forma eficiente, transparente, fundamentada e, sobretudo, independente. A independência da Agência em relação aos produtores de gás e electricidade e aos operadores de redes de transporte e distribuição constitui não só um princípio de base da boa governação, mas também uma condição fundamental para assegurar a confiança do mercado. Sem prejuízo da possibilidade de os seus membros agirem em nome das respectivas autoridades nacionais, o Conselho de Reguladores deverá, pois, agir independentemente de quaisquer interesses de mercado, deverá evitar conflitos de interesses e não deverá solicitar nem acatar instruções, nem aceitar recomendações de qualquer Governo de um Estado-Membro, da Comissão ou de qualquer outra entidade pública ou privada. As decisões do Conselho de Reguladores deverão, simultaneamente, cumprir a legislação comunitária em matéria de energia, mormente do mercado interno de energia, de ambiente e de concorrência e informar as instituições comunitárias dos seus pareceres, recomendações e decisões.\n\n(19) Nos casos em que a Agência tenha poderes de decisão, os interessados deverão, por razões de economia processual, ter o direito de interpor recurso junto da Câmara de Recurso, que deverá fazer parte da Agência, mas ser independente da sua estrutura administrativa e reguladora. Por uma questão de continuidade, a nomeação ou renovação dos membros da Câmara de Recurso deverá permitir a substituição parcial dos membros da Câmara de Recurso. As decisões da Câmara de Recurso podem ser recorríveis para o Tribunal de Justiça das Comunidades Europeias.\n\n(20) A Agência deverá ser financiada principalmente pelo orçamento geral da União Europeia, por taxas e por contribuições voluntárias. Em especial, os recursos actualmente reunidos em comum pelas entidades reguladoras para a respectiva cooperação a nível comunitário deverão permanecer à disposição da Agência. O processo orçamental da Comunidade permanece aplicável no que diz respeito a todas as subvenções a cargo do orçamento geral da União Europeia. Além disso, a auditoria das contas deverá ser efectuada pelo Tribunal de Contas, nos termos do artigo 91.º do Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^10^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0010)).\n\n(21) Após a criação da Agência, o seu orçamento deverá ser objecto de avaliação contínua por parte da autoridade orçamental com base no volume de trabalho e no desempenho da Agência. A autoridade orçamental deverá assegurar o cumprimento dos melhores padrões de eficiência.\n\n(22) A Agência deverá dispor de pessoal altamente qualificado. Deverá beneficiar, em especial, da competência e experiência de pessoal destacado pelas entidades reguladoras nacionais, pela Comissão e pelos Estados-Membros. São aplicáveis ao pessoal da Agência o Estatuto dos Funcionários das Comunidades Europeias (Estatuto) e o Regime aplicável aos outros agentes das Comunidades Europeias (Regime) estabelecidos no Regulamento (CEE, Euratom, CECA) n.º 259/68 do Conselho ([^11^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0011)), e as regras aprovadas conjuntamente pelas instituições das Comunidades Europeias para efeitos de aplicação desse estatuto e desse regime. O Conselho de Administração deverá aprovar, em concertação com a Comissão, as devidas disposições de execução.\n\n(23) A Agência deverá aplicar as regras gerais relativas ao acesso público aos documentos em poder dos organismos comunitários. O Conselho de Administração deverá estabelecer as medidas práticas para a protecção das informações comercialmente sensíveis e dos dados pessoais.\n\n(24) A Agência deverá ser responsável perante o Parlamento Europeu, o Conselho e a Comissão, sempre que adequado.\n\n(25) Os países que não sejam membros da Comunidade deverão poder participar nos trabalhos da Agência em conformidade com os acordos adequados a celebrar pela Comunidade.\n\n(26) As medidas necessárias para a execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^12^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0012)).\n\n(27) Em especial, deverá ser atribuída à Comissão competência para definir orientações necessárias relativas a situações em que a Agência é competente para decidir sobre os termos e condições de acesso e de segurança de funcionamento da infra-estrutura de ligação transfronteiriça. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais do presente regulamento, completando-o, mediante o aditamento de novos elementos não essenciais, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(28) A Comissão deverá apresentar ao Parlamento Europeu e ao Conselho, até três anos após a entrada em funções do primeiro director e, em seguida, de quatro em quatro anos, um relatório de avaliação sobre as funções específicas da Agência e os resultados alcançados, acompanhado de eventuais propostas adequadas. Nesse relatório, a Comissão deverá apresentar sugestões relativas a funções adicionais para a Agência.\n\n(29) Atendendo a que os objectivos do presente regulamento, nomeadamente a participação e a cooperação entre as entidades reguladoras nacionais a nível comunitário, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, ser mais bem alcançados ao nível comunitário, a Comunidade pode adoptar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir esses objectivos,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "4f5f54a3d0ffabaa": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O presente regulamento institui uma Agência de Cooperação dos Reguladores da Energia («a Agência»).\n\n2. O objectivo da Agência é assistir as entidades reguladoras referidas no artigo 35.º da Directiva 2009/72/CE do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, que estabelece regras comuns para o mercado interno da electricidade [(12)](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0007) e no artigo 39.º da Directiva 2009/73/CE do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, que estabelece regras comuns para o mercado interno do gás natural [(12)](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0008) no exercício, a nível comunitário, das funções de regulação desempenhadas nos Estados-Membros e, se necessário, coordenar a sua actuação.\n\n3. Enquanto as instalações da Agência não estiverem prontas, esta fica alojada em instalações da Comissão."
+  },
+  "855113b4b270e0b9": {
+   "fragment_id": "Artigo 4.º — Tipologia dos actos da Agência",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Tipologia dos actos da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia dos actos da Agência\n\nA Agência deve:\n\na) Emitir pareceres e recomendações dirigidos aos operadores das redes de transporte;\n\nb) Emitir pareceres e recomendações dirigidos às entidades reguladoras;\n\nc) Emitir pareceres e recomendações dirigidos ao Parlamento Europeu, ao Conselho ou à Comissão;\n\nd) Aprovar decisões individuais nos casos específicos previstos nos artigos 7.º a 9.º; e\n\ne) Apresentar orientações-quadro não vinculativas («orientações-quadro») nos termos do artigo 6.º do Regulamento (CE) n.º 714/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, relativo às condições de acesso à rede para o comércio transfronteiriço de electricidade ([^13^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0013)) e do artigo 6.º do Regulamento (CE) n.º 715/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, relativo às condições de acesso às redes de transporte de gás natural ([^14^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0014))."
+  },
+  "f5da53c6cfd067c4": {
+   "fragment_id": "Artigo 22.º — Taxas",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Taxas\n\n1. Devem ser pagas taxas à Agência para requerer uma decisão de isenção nos termos do artigo 9, n.º 1, e para decisões relativas à imputação de custos transfronteiriços pela Agência nos termos do artigo 12.º do Regulamento (UE) n.º 347/2013 do Parlamento Europeu e do Conselho, de 17 de abril de 2013, relativo às orientações para as infraestruturas energéticas transeuropeias ([^15^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0015)).\n\n2. As taxas a que se refere o n.º 1 são fixadas pela Comissão."
+  },
+  "023cd49ca5f0567c": {
+   "fragment_id": "Artigo 24.º — Execução e controlo orçamental",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Execução e controlo orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Execução e controlo orçamental\n\n1. O Director desempenha as funções de gestor orçamental e executa o orçamento da Agência.\n\n2. Até ao dia 1 de Março seguinte ao encerramento do exercício, o contabilista da Agência transmite ao contabilista da Comissão e ao Tribunal de Contas as contas provisórias, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Agência transmite também o relatório sobre a gestão orçamental e financeira ao Parlamento Europeu e ao Conselho até ao dia 31 de Março do ano seguinte ao do exercício encerrado. O contabilista da Comissão consolida então as contas provisórias das instituições e dos organismos descentralizados nos termos do artigo 128.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades ([^16^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0016)) (Regulamento Financeiro).\n\n3. Até ao dia 31 de Março seguinte ao encerramento do exercício, o contabilista da Comissão transmite as contas provisórias da Agência, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício, ao Tribunal de Contas. O relatório sobre a gestão orçamental e financeira do exercício é igualmente transmitido ao Parlamento Europeu e ao Conselho.\n\n4. Após a recepção das observações do Tribunal de Contas sobre as contas provisórias da Agência, nos termos do disposto no artigo 129.º do Regulamento Financeiro, o Director, agindo sob a sua própria responsabilidade, elabora as contas definitivas da Agência e transmite-as ao Conselho de Administração para parecer.\n\n5. O Conselho de Administração emite um parecer sobre as contas definitivas da Agência.\n\n6. O Director transmite essas contas definitivas, acompanhadas do parecer do Conselho de Administração, até ao dia 1 de Julho seguinte ao encerramento do exercício, ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas.\n\n7. As contas definitivas são publicadas.\n\n8. O Director envia ao Tribunal de Contas uma resposta às observações deste último até 15 de Outubro. Envia também uma cópia dessa resposta ao Conselho de Administração e à Comissão.\n\n9. O Director apresenta ao Parlamento Europeu, a pedido deste, tal como previsto no n.º 3 do artigo 146.º do Regulamento Financeiro, qualquer informação necessária à boa aplicação do processo de quitação relativamente ao exercício em causa.\n\n10. Antes de 15 de Maio do ano N + 2, o Parlamento Europeu, sob recomendação do Conselho, que delibera por maioria qualificada, dá quitação ao Director quanto à execução do orçamento do exercício N."
+  },
+  "95f63b6f8cdc4cfb": {
+   "fragment_id": "Artigo 26.º — Medidas antifraude",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Medidas antifraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Medidas antifraude\n\n1. Para efeitos de luta contra a fraude, a corrupção e outras actividades ilegais, são aplicáveis à Agência, sem restrições, as disposições do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pela Organização Europeia de Luta Antifraude (OLAF) ([^17^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0017)).\n\n2. A Agência adere ao Acordo Interinstitucional de 25 de Maio de 1999 entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias relativo aos inquéritos internos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^18^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0018)) e aprova imediatamente as disposições adequadas, que se aplicam a todos os seus agentes.\n\n3. As decisões de financiamento, os acordos e os instrumentos de execução deles decorrentes devem estipular explicitamente que o Tribunal de Contas e o OLAF podem, se necessário, efectuar um controlo no local junto dos beneficiários das dotações da Agência e junto dos agentes responsáveis pela atribuição dessas dotações."
+  },
+  "0998ba1f2997b067": {
+   "fragment_id": "Artigo 30.º — Acesso aos documentos",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Acesso aos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Acesso aos documentos\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^19^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0019)) é aplicável aos documentos na posse da Agência.\n\n2. O Conselho de Administração aprova as regras de execução do Regulamento (CE) n.º 1049/2001 até 3 de Março de 2010.\n\n3. As decisões tomadas pela Agência ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça ou ser impugnadas no Tribunal de Justiça, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado."
+  },
+  "e2d05a52acc08c11": {
+   "fragment_id": "Artigo 33.º — Regime linguístico",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Regime linguístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regime linguístico\n\n1. É aplicável à Agência o disposto no Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia ([^20^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#E0020)).\n\n2. O Conselho de Administração decide do regime linguístico interno da Agência.\n\n3. Os serviços de tradução necessários ao funcionamento da Agência são assegurados pelo Centro de Tradução dos Organismos da União Europeia."
+  },
+  "aefde235965561f2": {
+   "fragment_id": "Artigo 35.º — Entrada em vigor e medidas transitórias",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Entrada em vigor e medidas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor e medidas transitórias\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. Os artigos 5.º a 11.º são aplicáveis a partir de 3 de Março de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "5ce2aabdf146864a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0001)) JO C 211 de 19.8.2008, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0002)) JO C 172 de 5.7.2008, p. 55.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 18 de Junho de 2008 (ainda não publicada no Jornal Oficial), posição comum do Conselho de 9 de Janeiro de 2009 (JO C 75 E de 31.3.2009, p. 1) e posição do Parlamento Europeu de 22 de Abril de 2009 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 25 de Junho de 2009.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0004)) JO L 296 de 14.11.2003, p. 34.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0005)) JO L 176 de 15.7.2003, p. 37.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0006)) JO L 176 de 15.7.2003, p. 57.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0007)) Ver página 55 do presente Jornal Oficial.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0008)) Ver página 94 do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0009)) JO L 262 de 22.9.2006, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0010)) JO L 357 de 31.12.2002, p. 72.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0011)) JO L 56 de 4.3.1968, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0012)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0013)) Ver página 15 do presente Jornal Oficial.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0014)) Ver página 36 do presente Jornal Oficial.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0015)) JO L 115 de 25.4.2013, p. 39.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0016)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0017)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0018)) JO L 136 de 31.5.1999, p. 15.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0019)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^20^](http://publications.europa.eu/resource/cellar/de4147b1-0ee3-4275-a1c1-caccfd11744a.0019.03/DOC_1#src.E0020)) JO 17 de 6.10.1958, p. 385/58."
+  },
+  "68a5aedde585681e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02009R0713 — PT — 04.07.2019 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009R0713) [REGULAMENTO (CE) n.º 713/2009 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32009R0713) [de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0713) [que institui a Agência de Cooperação dos Reguladores da Energia](http://publications.europa.eu/resource/celex/32009R0713) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009R0713) (JO L 211, 14.8.2009, p.1)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/942 do Parlamento Europeu e do Conselho de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R0942) — L 158 — 22 — 14.6.2019"
+  }
+ }
+}

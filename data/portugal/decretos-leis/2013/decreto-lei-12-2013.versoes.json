@@ -1,0 +1,438 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:256985:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-115620698",
+ "dre_path": "/dr/detalhe/decreto-lei/12-2013-256985",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-01-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115568970",
+    "115568971",
+    "115568972",
+    "115568973",
+    "115568974",
+    "115625975",
+    "115625976",
+    "115625977",
+    "115625978",
+    "115625979",
+    "115625980",
+    "115625981",
+    "115625982",
+    "115625983",
+    "115625984",
+    "115625985",
+    "115625986",
+    "115625987",
+    "115625988",
+    "115625989",
+    "115625990"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:115620691:por",
+     "title": "Decreto-Lei n.º 53/2018",
+     "published": "2018-07-02",
+     "dre_path": "/dr/detalhe/decreto-lei/53-2018-115620691",
+     "date": "2018-07-01"
+    }
+   ]
+  },
+  {
+   "date": "2021-12-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175983734:por",
+     "title": "Decreto-Lei n.º 119/2021",
+     "published": "2021-12-16",
+     "dre_path": "/dr/detalhe/decreto-lei/119-2021-175983734"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A"
+   ],
+   "fragments": [
+    "115568970",
+    "115568971",
+    "115568972",
+    "115625994",
+    "115568974",
+    "115625975",
+    "115625992",
+    "115625977",
+    "115625978",
+    "115625993",
+    "115625980",
+    "115625981",
+    "176057028",
+    "176057029",
+    "176057030",
+    "176057031",
+    "176057032",
+    "176057033",
+    "176057034",
+    "176057035",
+    "176057036",
+    "176057037",
+    "176057038"
+   ]
+  },
+  {
+   "date": "2023-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225044391:por",
+     "title": "Decreto-Lei n.º 113/2023",
+     "published": "2023-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/113-2023-225044391"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "115568970",
+    "115568971",
+    "115568972",
+    "115625994",
+    "115568974",
+    "115625975",
+    "115625992",
+    "225024408",
+    "115625978",
+    "115625993",
+    "115625980",
+    "115625981",
+    "176057028",
+    "176057029",
+    "225024409",
+    "176057031",
+    "176057032",
+    "176057033",
+    "176057034",
+    "176057035",
+    "176057036",
+    "176057037",
+    "176057038"
+   ]
+  }
+ ],
+ "fragments": {
+  "115568970": {
+   "fragment_id": "115620699",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 12/2013\n\nde 25 de janeiro\n\nNo âmbito do Acordo Tripartido de Concertação Social, o Governo comprometeu-se a aprovar a atribuição de prestação por cessação da atividade profissional aos membros dos órgãos estatutários que exerçam funções de administração e gerência e aos trabalhadores independentes com atividade empresarial, comercial e industrial.\n\nO presente diploma tem por objetivo cumprir o referido compromisso, instituindo um regime jurídico de proteção na eventualidade desemprego de natureza contributiva.\n\nNo que respeita à sustentabilidade financeira da medida, e atenta a natureza previdencial da mesma, foram cumpridas as regras definidas no âmbito dos regimes de natureza previdencial, pelo que o alargamento da proteção nesta eventualidade tem como consequência a aplicação, a estes trabalhadores, da taxa contributiva resultante da consideração da garantia de proteção na totalidade das eventualidades definidas para o sistema.\n\nTendo em conta os riscos que se encontram sempre associados à implementação de uma medida de proteção social inovadora, como é o caso, decidiu-se que o regime jurídico a instituir devia ter como subsidiário o regime de proteção social no desemprego dos trabalhadores por conta de outrem previsto no Decreto-Lei n.º 220/2006, de 3 de novembro, regulando no presente diploma as matérias que atentas as especificidades próprias da atividade profissional necessitam de regras especiais face àquele regime, aliás à semelhança do que foi estabelecido para os trabalhadores independentes economicamente dependentes no Decreto-Lei n.º 65/2012, de 15 de março.\n\nDo exposto resultou a consagração de um prazo de garantia mais alargado e da impossibilidade de acesso ao regime de flexibilização da idade de acesso à pensão por velhice específico do regime de proteção social do desemprego dos trabalhadores por conta de outrem, bem como a reavaliação do regime no prazo de dois anos, com vista a adequá-lo às disfuncionalidades que, entretanto, venham a ser identificadas e que careçam de correção.\n\nForam ouvidos os parceiros sociais com assento na Comissão Permanente da Concertação Social.\n\nAssim:\n\nNo desenvolvimento da Lei n.º 4/2007, de 16 de janeiro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115568971": {
+   "fragment_id": "115620700",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma estabelece, no âmbito do sistema previdencial, o regime jurídico de proteção social na eventualidade de desemprego dos trabalhadores independentes com atividade empresarial e dos membros dos órgãos estatutários das pessoas coletivas."
+  },
+  "115568972": {
+   "fragment_id": "115620701",
+   "type": 11,
+   "heading": "Artigo 2.º — Caracterização da eventualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Caracterização da eventualidade\n\nPara efeitos do presente diploma é considerado desemprego toda a situação de perda de rendimentos decorrente de encerramento de empresa ou de cessação de atividade profissional de forma involuntária do beneficiário com capacidade e disponibilidade para o trabalho e inscrito para emprego no centro de emprego."
+  },
+  "115568973": {
+   "fragment_id": "115620702",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito pessoal\n\n1 - A proteção social regulada no presente diploma abrange:\n\na) Os trabalhadores independentes com atividade empresarial;\n\nb) Os membros dos órgãos estatutários das pessoas coletivas que exerçam funções de gerência ou de administração.\n\n2 - Consideram-se com atividade empresarial os trabalhadores independentes como tal enquadrados no respetivo regime que sejam:\n\na) Empresários em nome individual com rendimentos decorrentes do exercício de qualquer atividade comercial ou industrial, nos termos da alínea a) do n.º 1 do artigo 3.º do Código do Imposto sobre o Rendimento das Pessoas Singulares;\n\nb) Titulares de Estabelecimentos Individuais de Responsabilidade Limitada;\n\nc) Cônjuges dos trabalhadores independentes referidos nas alíneas anteriores que com eles exercem efetiva atividade profissional com caráter de regularidade e permanência.\n\n3 - Não são abrangidos pela proteção social regulada no presente diploma os produtores agrícolas que exerçam efetiva atividade profissional na exploração agrícola e respetivos cônjuges que exerçam efetiva e regularmente atividade na exploração, como tal enquadrados no respetivo regime."
+  },
+  "115568974": {
+   "fragment_id": "115620703",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito material\n\nA proteção social destes beneficiários efetiva-se mediante a atribuição do subsídio por cessação de atividade profissional e do subsídio parcial por cessação de atividade profissional, que visam compensar a perda de rendimentos dos trabalhadores independentes com atividade empresarial, bem como dos gerentes e dos administradores das pessoas coletivas, em consequência da cessação de atividade profissional por motivos justificados que determinam o encerramento da empresa."
+  },
+  "115625975": {
+   "fragment_id": "115620704",
+   "type": 11,
+   "heading": "Artigo 5.º — Titularidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Titularidade\n\nA titularidade do direito aos subsídios previstos no artigo anterior é reconhecida aos beneficiários que integram o âmbito pessoal do presente diploma que reúnam as respetivas condições de atribuição à data da cessação da atividade e residam em território nacional."
+  },
+  "115625976": {
+   "fragment_id": "115620705",
+   "type": 11,
+   "heading": "Artigo 6.º — Encerramento da empresa ou cessação da atividade profissional de forma involuntária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Encerramento da empresa ou cessação da atividade profissional de forma involuntária\n\n1 - O encerramento da empresa ou a cessação da atividade profissional considera-se involuntária sempre que decorra de:\n\na) Redução significativa do volume de negócios que determine o encerramento da empresa ou a cessação da atividade para efeitos de Imposto sobre o Valor Acrescentado;\n\nb) Sentença de declaração da insolvência nas situações em que seja determinada a cessação da atividade dos gerentes ou administradores ou em que o processo de insolvência culmine com o encerramento total e definitivo da empresa;\n\nc) Ocorrência de motivos económicos, técnicos, produtivos e organizativos que inviabilizem a continuação da atividade económica ou profissional;\n\nd) Motivos de força maior determinante da cessação da atividade económica ou profissional;\n\ne) Perda de licença administrativa sempre que esta seja exigida para o exercício da atividade e desde que essa perda não seja motivada por incumprimentos contratuais ou pela prática de infração administrativa ou delito imputável ao próprio.\n\n2 - Para efeitos do disposto na alínea a) do número anterior entende-se que existe redução significativa do volume de negócios quando se verifique:\n\na) Redução do volume de faturação da atividade igual ou superior a 60% no ano relevante e nos dois anos imediatamente anteriores;\n\nb) Apresentação de resultados negativos contabilísticos e fiscais no ano relevante e no ano imediatamente anterior.\n\n3 - Para efeitos do disposto na alínea b) do n.º 1, considera-se involuntária a cessação da atividade dos gerentes ou administradores ou a cessação da atividade da empresa desde que a insolvência não tenha sido qualificada como culposa em consequência de atuação dolosa ou com culpa grave dos gerentes ou administradores.\n\n4 - Para efeitos do disposto na alínea c) do n.º 1, considera-se existir ocorrência de motivos económicos, técnicos, produtivos e organizativos que inviabilizem a continuação da atividade económica ou profissional, nas situações de impossibilidade superveniente, prática ou legal, de continuação da atividade, que não sejam subsumíveis nas restantes alíneas do n.º 1.\n\n5 - Para efeitos do disposto na alínea d) do n.º 1, exige-se o encerramento do estabelecimento aberto ao público enquanto os beneficiários se encontrem a receber a prestação."
+  },
+  "115625977": {
+   "fragment_id": "115620706",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de atribuição\n\n1 - O reconhecimento do direito aos subsídios por cessação de atividade profissional depende do preenchimento cumulativo das seguintes condições:\n\na) Encerramento da empresa ou cessação da atividade profissional de forma involuntária;\n\nb) Cumprimento do prazo de garantia;\n\nc) Situação contributiva regularizada perante a segurança social, do próprio e da empresa;\n\nd) Perda de rendimentos que determine a cessação de atividade;\n\ne) Inscrição no centro de emprego da área de residência, para efeitos de emprego.\n\n2 - Na situação prevista na alínea a) do n.º 1 do artigo anterior, os membros dos órgãos estatutários devem ainda comprovar a cessação do respetivo enquadramento, nos termos e para os efeitos do n.º 2 do artigo 70.º do Código dos Regimes Contributivos.\n\n3 - Não é reconhecido o direito aos subsídios aos beneficiários que à data do encerramento da empresa ou cessação da atividade profissional de forma involuntária tenham idade legal de acesso à pensão de velhice, desde que se encontre cumprido o respetivo prazo de garantia."
+  },
+  "115625978": {
+   "fragment_id": "115620707",
+   "type": 11,
+   "heading": "Artigo 8.º — Data da cessação de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Data da cessação de atividade\n\nConsidera-se data da cessação de atividade o dia imediatamente subsequente àquele em que se verificou o encerramento da empresa ou a cessação da atividade profissional de forma involuntária."
+  },
+  "115625979": {
+   "fragment_id": "115620708",
+   "type": 11,
+   "heading": "Artigo 9.º — Prazos de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Prazos de garantia\n\nO prazo de garantia para atribuição dos subsídios por cessação de atividade profissional é de 720 dias de exercício de atividade profissional, com o correspondente registo de remunerações num período de 48 meses imediatamente anterior à data da cessação de atividade."
+  },
+  "115625980": {
+   "fragment_id": "115620709",
+   "type": 11,
+   "heading": "Artigo 10.º — Verificação dos prazos de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Verificação dos prazos de garantia\n\n1 - Os períodos de registo de remunerações correspondentes a situações de equivalência decorrentes da concessão do subsídio por cessação da atividade profissional não são relevantes para efeitos de verificação do prazo de garantia.\n\n2 - Os períodos de registo de remunerações relevantes para o preenchimento de um prazo de garantia com atribuição do subsídio por cessação da atividade profissional não são considerados para efeitos de prazo de garantia em nova situação de cessação de atividade profissional.\n\n3 - Os períodos de registo de remunerações decorrentes de coexistência de subsídio parcial por cessação de atividade profissional e exercício de atividade profissional por conta de outrem ou independente, nos termos previstos no presente diploma, não relevam para efeitos de prazo de garantia."
+  },
+  "115625981": {
+   "fragment_id": "115620710",
+   "type": 11,
+   "heading": "Artigo 11.º — Montante do subsídio por cessação da atividade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Montante do subsídio por cessação da atividade profissional\n\n1 - O montante diário do subsídio por cessação da atividade profissional é de 65% da remuneração de referência e calculado na base de 30 dias por mês.\n\n2 - A remuneração de referência corresponde à remuneração média diária definida por R/360, em que R representa o total das remunerações registadas nos 12 meses civis que precedem o 2.º mês anterior ao da data da cessação de atividade profissional."
+  },
+  "115625982": {
+   "fragment_id": "115620711",
+   "type": 11,
+   "heading": "Artigo 12.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requerimento\n\n1 - O requerimento para atribuição dos subsídios por cessação de atividade profissional deve ser apresentado no prazo de 90 dias consecutivos a contar da data do encerramento da empresa ou da cessação da atividade profissional e ser precedido de inscrição para emprego no centro de emprego.\n\n2 - O requerimento, de modelo próprio, é apresentado no centro de emprego da área da residência do beneficiário ou no sítio da segurança social na Internet."
+  },
+  "115625983": {
+   "fragment_id": "115620712",
+   "type": 11,
+   "heading": "Artigo 13.º — Elementos instrutórios do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Elementos instrutórios do requerimento\n\n1 - O requerimento dos subsídios por cessação de atividade profissional é instruído com documentos comprovativos da involuntariedade do encerramento da empresa ou da cessação da atividade profissional e da data a que se reporta, em modelo próprio.\n\n2 - Nas situações em que o requerimento seja apresentado no sítio da segurança social na Internet, os respetivos meios de prova podem ser apresentados pela mesma via desde que corretamente digitalizados e integralmente apreensíveis.\n\n3 - Os beneficiários têm o dever de conservar os originais dos meios de prova, pelo prazo de cinco anos, bem como o dever de os apresentar sempre que solicitados pelos serviços competentes."
+  },
+  "115625984": {
+   "fragment_id": "115620713",
+   "type": 11,
+   "heading": "Artigo 14.º — Meios de prova específicos do subsídio parcial por cessação de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Meios de prova específicos do subsídio parcial por cessação de atividade\n\nA atribuição do subsídio parcial por cessação de atividade profissional depende da prova das seguintes condições especiais:\n\na) Tipo de atividade exercida;\n\nb) Retribuição mensal do trabalho por conta de outrem a tempo parcial ou do montante ilíquido da atividade independente."
+  },
+  "115625985": {
+   "fragment_id": "115620714",
+   "type": 11,
+   "heading": "Artigo 15.º — Registo de equivalências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Registo de equivalências\n\n1 - O período de pagamento do subsídio por cessação de atividade dá lugar ao registo de remunerações por equivalência à entrada de contribuições pelo valor do subsídio, relevando para o prazo de garantia das prestações diferidas e imediatas, com exceção das prestações na eventualidade de desemprego.\n\n2 - Nas situações de atribuição de subsídio parcial de cessação de atividade, a remuneração a registar por equivalência à entrada de contribuições é igual à diferença entre a remuneração por trabalho por conta de outrem ou entre o rendimento relevante da atividade exercida como trabalho independente e o valor do subsídio por cessação de atividade."
+  },
+  "115625986": {
+   "fragment_id": "115620715",
+   "type": 11,
+   "heading": "Artigo 16.º — Exclusão do regime de flexibilização da idade de pensão por velhice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Exclusão do regime de flexibilização da idade de pensão por velhice\n\nO regime de flexibilização da idade de acesso à pensão por velhice previsto no regime jurídico de proteção no desemprego dos trabalhadores por conta de outrem não se aplica aos trabalhadores independentes com atividade empresarial e aos membros dos órgãos estatutários referidos no âmbito pessoal do presente diploma."
+  },
+  "115625987": {
+   "fragment_id": "115620716",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aplicação subsidiária\n\nEm tudo o que não se encontre especialmente previsto no presente diploma aplicam-se, subsidiariamente, as regras constantes do regime jurídico de proteção no desemprego dos trabalhadores por conta de outrem, com as devidas adaptações."
+  },
+  "115625988": {
+   "fragment_id": "115620717",
+   "type": 11,
+   "heading": "Artigo 18.º — Execução do diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Execução do diploma\n\n1 - Os procedimentos que venham a ser considerados necessários à execução do disposto no presente diploma são aprovados por portaria do membro do Governo responsável pelas áreas da solidariedade e da segurança social.\n\n2 - Os formulários relativos ao requerimento dos subsídios e respetivas declarações instrutórias são aprovados por despacho do membro do Governo responsável pelas áreas da solidariedade e da segurança social."
+  },
+  "115625989": {
+   "fragment_id": "115620718",
+   "type": 11,
+   "heading": "Artigo 19.º — Avaliação do regime instituído",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Avaliação do regime instituído\n\nO regime de proteção social no desemprego dos trabalhadores independentes com atividade empresarial e dos membros dos órgãos estatutários regulado no presente diploma é objeto de avaliação no prazo de dois anos após a data da sua entrada em vigor."
+  },
+  "115625990": {
+   "fragment_id": "115620719",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma entra em vigor no primeiro dia útil do mês subsequente ao da sua publicação."
+  },
+  "115625994": {
+   "fragment_id": "115620702",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito pessoal",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito pessoal\n\n1 - A proteção social regulada no presente diploma abrange:\n\na) Os trabalhadores independentes com atividade empresarial;\n\nb) Os membros dos órgãos estatutários das pessoas coletivas que exerçam funções de gerência ou de administração.\n\n2 - Consideram-se com atividade empresarial os trabalhadores independentes como tal enquadrados no respetivo regime que sejam:\n\na) Empresários em nome individual com rendimentos decorrentes do exercício de qualquer atividade comercial ou industrial, nos termos da alínea a) do n.º 1 do artigo 3.º do Código do Imposto sobre o Rendimento das Pessoas Singulares;\n\nb) Titulares de Estabelecimentos Individuais de Responsabilidade Limitada;\n\nc) Cônjuges dos trabalhadores independentes referidos nas alíneas anteriores que com eles exercem efetiva atividade profissional com caráter de regularidade e permanência.\n\n3 - (Revogado);\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01"
+  },
+  "115625992": {
+   "fragment_id": "115620705",
+   "type": 11,
+   "heading": "Artigo 6.º — Encerramento da empresa ou cessação da atividade profissional de forma involuntária",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Encerramento da empresa ou cessação da atividade profissional de forma involuntária\n\n1 - O encerramento da empresa ou a cessação da atividade profissional considera-se involuntária sempre que decorra de:\n\na) Redução significativa do volume de negócios que determine o encerramento da empresa ou a cessação da atividade para efeitos de Imposto sobre o Valor Acrescentado;\n\nb) Sentença de declaração da insolvência nas situações em que seja determinada a cessação da atividade dos gerentes ou administradores ou em que o processo de insolvência culmine com o encerramento total e definitivo da empresa;\n\nc) Ocorrência de motivos económicos, técnicos, produtivos e organizativos que inviabilizem a continuação da atividade económica ou profissional;\n\nd) Motivos de força maior determinante da cessação da atividade económica ou profissional;\n\ne) Perda de licença administrativa sempre que esta seja exigida para o exercício da atividade e desde que essa perda não seja motivada por incumprimentos contratuais ou pela prática de infração administrativa ou delito imputável ao próprio.\n\n2 - Para efeitos do disposto na alínea a) do número anterior entende-se que existe redução significativa do volume de negócios quando se verifique:\n\na) Redução do volume de faturação da atividade igual ou superior a 40 % nos dois anos imediatamente anteriores ao ano relevante;\n\nb) Apresentação de resultados negativos contabilísticos e fiscais no ano relevante e no ano imediatamente anterior.\n\n3 - Para efeitos do disposto na alínea b) do n.º 1, considera-se involuntária a cessação da atividade dos gerentes ou administradores ou a cessação da atividade da empresa desde que a insolvência não tenha sido qualificada como culposa em consequência de atuação dolosa ou com culpa grave dos gerentes ou administradores.\n\n4 - Para efeitos do disposto na alínea c) do n.º 1, considera-se existir ocorrência de motivos económicos, técnicos, produtivos e organizativos que inviabilizem a continuação da atividade económica ou profissional, nas situações de impossibilidade superveniente, prática ou legal, de continuação da atividade, que não sejam subsumíveis nas restantes alíneas do n.º 1.\n\n5 - Para efeitos do disposto na alínea d) do n.º 1, exige-se o encerramento do estabelecimento aberto ao público enquanto os beneficiários se encontrem a receber a prestação.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01"
+  },
+  "115625993": {
+   "fragment_id": "115620708",
+   "type": 11,
+   "heading": "Artigo 9.º — Prazos de garantia",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 9.º — Prazos de garantia\n\n1 - O prazo de garantia para atribuição dos subsídios por cessação de atividade profissional é de 720 dias de exercício de atividade profissional, com o correspondente registo de remunerações num período de 48 meses imediatamente anterior à data da cessação de atividade.\n\n2 - Para efeitos do disposto no número anterior, quando necessário, podem ainda ser considerados os períodos de registo de remunerações no âmbito do regime geral dos trabalhadores por conta de outrem e do regime dos trabalhadores independentes.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01"
+  },
+  "176057028": {
+   "fragment_id": "176057110",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Majoração do montante do subsídio por cessação de atividade profissional",
+   "in_force_from": "2021-12-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 119/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2021-175983734), em vigor a partir de 2021-12-17, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Majoração do montante do subsídio por cessação de atividade profissional\n\n1 - O montante diário do subsídio por cessação de atividade profissional, calculado nos termos do artigo anterior é majorado em 10 % quando, no mesmo agregado familiar, ambos os cônjuges ou pessoas que vivam em união de facto ou o parente único no agregado monoparental, tenham filhos ou equiparados a cargo e sejam titulares de uma das seguintes prestações:\n\na) Subsídio de desemprego;\n\nb) Subsídio por cessação de atividade;\n\nc) Subsídio por cessação de atividade profissional.\n\n2 - Tem ainda direito à majoração prevista no número anterior o titular do subsídio por cessação de atividade profissional quando o seu cônjuge ou pessoa que com ele viva em união de facto se encontre em situação de desemprego não subsidiado e tenham filhos ou equiparados a cargo.\n\n3 - Para efeitos do número anterior considera-se em situação de desemprego a pessoa inscrita para procura de emprego no serviço público de emprego.\n\n4 - Quando os beneficiários sejam casados ou vivam em união de facto a majoração é de 10 % para cada um deles.\n\n5 - Sempre que o cônjuge ou pessoa que vive em união de facto deixe de ser titular de subsídio de desemprego e lhe seja atribuído subsídio social de desemprego subsequente, ou deixe de ser titular do subsídio por cessação de atividade ou de subsídio por cessação de atividade profissional e permaneça em situação de desemprego sem auferir qualquer prestação social por essa eventualidade, mantém-se a majoração do subsídio por cessação de atividade profissional em relação ao beneficiário desta prestação social.\n\n6 - O conceito de agregado monoparental referido no n.º 1 obedece ao previsto no artigo 8.º-A do Decreto-Lei n.º 176/2003, de 2 de agosto, na sua redação atual, que institui o abono de família para crianças e jovens e define a proteção na eventualidade de encargos familiares no âmbito do subsistema de proteção familiar.\n\n7 - A majoração prevista no n.º 1 depende de requerimento e da prova das condições de atribuição.\n\n8 - A majoração do subsídio por cessação de atividade profissional aplica-se ainda aos beneficiários que, à data da entrada em vigor do presente decreto-lei, se encontrem a receber essa prestação ou cujos requerimentos para a sua atribuição estejam pendentes de decisão por parte dos serviços competentes.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 119/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2021-175983734), em vigor a partir de 2021-12-17, produz efeitos a partir de 2022-01-01"
+  },
+  "176057029": {
+   "fragment_id": "115620711",
+   "type": 11,
+   "heading": "Artigo 12.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requerimento\n\n1 - O requerimento para atribuição dos subsídios por cessação de atividade profissional deve ser apresentado no prazo de 90 dias consecutivos a contar da data do encerramento da empresa ou da cessação da atividade profissional e ser precedido de inscrição para emprego no centro de emprego.\n\n2 - O requerimento, de modelo próprio, é apresentado no centro de emprego da área da residência do beneficiário ou no sítio da segurança social na Internet."
+  },
+  "176057030": {
+   "fragment_id": "115620712",
+   "type": 11,
+   "heading": "Artigo 13.º — Elementos instrutórios do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Elementos instrutórios do requerimento\n\n1 - O requerimento dos subsídios por cessação de atividade profissional é instruído com documentos comprovativos da involuntariedade do encerramento da empresa ou da cessação da atividade profissional e da data a que se reporta, em modelo próprio.\n\n2 - Nas situações em que o requerimento seja apresentado no sítio da segurança social na Internet, os respetivos meios de prova podem ser apresentados pela mesma via desde que corretamente digitalizados e integralmente apreensíveis.\n\n3 - Os beneficiários têm o dever de conservar os originais dos meios de prova, pelo prazo de cinco anos, bem como o dever de os apresentar sempre que solicitados pelos serviços competentes."
+  },
+  "176057031": {
+   "fragment_id": "115620713",
+   "type": 11,
+   "heading": "Artigo 14.º — Meios de prova específicos do subsídio parcial por cessação de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Meios de prova específicos do subsídio parcial por cessação de atividade\n\nA atribuição do subsídio parcial por cessação de atividade profissional depende da prova das seguintes condições especiais:\n\na) Tipo de atividade exercida;\n\nb) Retribuição mensal do trabalho por conta de outrem a tempo parcial ou do montante ilíquido da atividade independente."
+  },
+  "176057032": {
+   "fragment_id": "115620714",
+   "type": 11,
+   "heading": "Artigo 15.º — Registo de equivalências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Registo de equivalências\n\n1 - O período de pagamento do subsídio por cessação de atividade dá lugar ao registo de remunerações por equivalência à entrada de contribuições pelo valor do subsídio, relevando para o prazo de garantia das prestações diferidas e imediatas, com exceção das prestações na eventualidade de desemprego.\n\n2 - Nas situações de atribuição de subsídio parcial de cessação de atividade, a remuneração a registar por equivalência à entrada de contribuições é igual à diferença entre a remuneração por trabalho por conta de outrem ou entre o rendimento relevante da atividade exercida como trabalho independente e o valor do subsídio por cessação de atividade."
+  },
+  "176057033": {
+   "fragment_id": "115620715",
+   "type": 11,
+   "heading": "Artigo 16.º — Exclusão do regime de flexibilização da idade de pensão por velhice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Exclusão do regime de flexibilização da idade de pensão por velhice\n\nO regime de flexibilização da idade de acesso à pensão por velhice previsto no regime jurídico de proteção no desemprego dos trabalhadores por conta de outrem não se aplica aos trabalhadores independentes com atividade empresarial e aos membros dos órgãos estatutários referidos no âmbito pessoal do presente diploma."
+  },
+  "176057034": {
+   "fragment_id": "115620716",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aplicação subsidiária\n\nEm tudo o que não se encontre especialmente previsto no presente diploma aplicam-se, subsidiariamente, as regras constantes do regime jurídico de proteção no desemprego dos trabalhadores por conta de outrem, com as devidas adaptações."
+  },
+  "176057035": {
+   "fragment_id": "115620717",
+   "type": 11,
+   "heading": "Artigo 18.º — Execução do diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Execução do diploma\n\n1 - Os procedimentos que venham a ser considerados necessários à execução do disposto no presente diploma são aprovados por portaria do membro do Governo responsável pelas áreas da solidariedade e da segurança social.\n\n2 - Os formulários relativos ao requerimento dos subsídios e respetivas declarações instrutórias são aprovados por despacho do membro do Governo responsável pelas áreas da solidariedade e da segurança social."
+  },
+  "176057036": {
+   "fragment_id": "115620718",
+   "type": 11,
+   "heading": "Artigo 19.º — Avaliação do regime instituído",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Avaliação do regime instituído\n\nO regime de proteção social no desemprego dos trabalhadores independentes com atividade empresarial e dos membros dos órgãos estatutários regulado no presente diploma é objeto de avaliação no prazo de dois anos após a data da sua entrada em vigor."
+  },
+  "176057037": {
+   "fragment_id": "115620719",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma entra em vigor no primeiro dia útil do mês subsequente ao da sua publicação."
+  },
+  "176057038": {
+   "fragment_id": "115620720",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 23 de janeiro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 24 de janeiro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "225024408": {
+   "fragment_id": "115620706",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de atribuição",
+   "in_force_from": "2023-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 113/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2023-225044391), em vigor a partir de 2023-12-01"
+   ],
+   "markdown": "###### Artigo 7.º — Condições de atribuição\n\n1 - O reconhecimento do direito aos subsídios por cessação de atividade profissional depende do preenchimento cumulativo das seguintes condições:\n\na) Encerramento da empresa ou cessação da atividade profissional de forma involuntária;\n\nb) Cumprimento do prazo de garantia;\n\nc) Situação contributiva regularizada perante a segurança social, do próprio e da empresa;\n\nd) Perda de rendimentos que determine a cessação de atividade;\n\ne) Inscrição no centro de emprego da área de residência, para efeitos de emprego.\n\n2 - Na situação prevista na alínea a) do n.º 1 do artigo anterior, os membros dos órgãos estatutários devem ainda comprovar a cessação do respetivo enquadramento, nos termos e para os efeitos do n.º 2 do artigo 70.º do Código dos Regimes Contributivos.\n\n3 - Considera-se 'cessação involuntária da atividade profissional' a cessação da atividade profissional por iniciativa dos beneficiários previstos no artigo 3.º, com o estatuto de vítima de violência doméstica.\n\n4 - Não é reconhecido o direito aos subsídios aos beneficiários que à data do encerramento da empresa ou cessação da atividade profissional de forma involuntária tenham idade legal de acesso à pensão de velhice, desde que se encontre cumprido o respetivo prazo de garantia.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 113/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2023-225044391), em vigor a partir de 2023-12-01"
+  },
+  "225024409": {
+   "fragment_id": "115620712",
+   "type": 11,
+   "heading": "Artigo 13.º — Elementos instrutórios do requerimento",
+   "in_force_from": "2023-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 113/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2023-225044391), em vigor a partir de 2023-12-01"
+   ],
+   "markdown": "###### Artigo 13.º — Elementos instrutórios do requerimento\n\n1 - O requerimento dos subsídios por cessação de atividade profissional é instruído com documentos comprovativos da involuntariedade do encerramento da empresa ou da cessação da atividade profissional e da data a que se reporta, em modelo próprio.\n\n2 - Nas situações em que o requerimento seja apresentado no sítio da segurança social na Internet, os respetivos meios de prova podem ser apresentados pela mesma via desde que corretamente digitalizados e integralmente apreensíveis.\n\n3 - Os beneficiários têm o dever de conservar os originais dos meios de prova, pelo prazo de cinco anos, bem como o dever de os apresentar sempre que solicitados pelos serviços competentes.\n\n4 - Na situação prevista no n.º 3 do artigo 7.º, o requerimento é ainda instruído com a declaração do estatuto de violência doméstica.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 113/2023 - Diário da República n.º 232/2023, Série I de 2023-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2023-225044391), em vigor a partir de 2023-12-01"
+  }
+ }
+}

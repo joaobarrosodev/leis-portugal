@@ -1,0 +1,583 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:332222:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-137618153",
+ "dre_path": "/dr/detalhe/decreto-lei/138-1990-332222",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-04-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "137703331",
+    "137703332",
+    "137703333",
+    "137703334",
+    "137703335",
+    "137703336",
+    "137703337",
+    "137703338",
+    "137703339",
+    "137703340",
+    "137703341",
+    "137703342",
+    "137703343",
+    "137703344",
+    "137703345",
+    "137703346",
+    "137703348",
+    "137703349"
+   ]
+  },
+  {
+   "date": "1999-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:321723:por",
+     "title": "Decreto-Lei n.º 162/99",
+     "published": "1999-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/162-1999-321723"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Revoga Anexo I",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "137703331",
+    "137703354",
+    "137703355",
+    "137703334",
+    "137703356",
+    "137703357",
+    "137703358",
+    "137703338",
+    "137703339",
+    "137703340",
+    "137703359",
+    "137703360",
+    "137703361",
+    "137703362",
+    "137703363",
+    "137703364",
+    "137703350",
+    "137703351",
+    "137703365",
+    "137703366"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "137703331",
+    "137703354",
+    "137703355",
+    "137703334",
+    "137703356",
+    "137703357",
+    "137703358",
+    "137703338",
+    "137703339",
+    "137703340",
+    "137703359",
+    "155905039",
+    "155905040",
+    "155905041",
+    "137703363",
+    "137703364",
+    "137703350",
+    "137703351",
+    "137703365",
+    "137703366"
+   ]
+  },
+  {
+   "date": "2022-05-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175744207:por",
+     "title": "Decreto-Lei n.º 109-G/2021",
+     "published": "2021-12-10",
+     "dre_path": "/dr/detalhe/decreto-lei/109-g-2021-175744207"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "137703331",
+    "175863301",
+    "175863302",
+    "137703334",
+    "175863303",
+    "137703357",
+    "137703358",
+    "137703338",
+    "137703339",
+    "137703340",
+    "175863304",
+    "155905039",
+    "155905040",
+    "155905041",
+    "137703363",
+    "137703364",
+    "137703350",
+    "137703351",
+    "137703365",
+    "137703366"
+   ]
+  },
+  {
+   "date": "2023-04-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:208124552:por",
+     "title": "Lei n.º 10/2023",
+     "published": "2023-03-03",
+     "dre_path": "/dr/detalhe/lei/10-2023-208124552"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "137703331",
+    "175863301",
+    "175863302",
+    "137703334",
+    "175863303",
+    "137703357",
+    "137703358",
+    "137703338",
+    "137703339",
+    "137703340",
+    "175863304",
+    "208203234",
+    "155905040",
+    "155905041",
+    "137703363",
+    "137703364",
+    "137703350",
+    "137703351",
+    "137703365",
+    "137703366"
+   ]
+  }
+ ],
+ "fragments": {
+  "137703331": {
+   "fragment_id": "137618154",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 138/90\n\nde 26 de Abril\n\nO Decreto-Lei n.º 533/75, de 26 de Setembro, regulou a indicação dos preços de venda a retalho de géneros alimentares e não alimentares e de serviços, tão necessária à protecção dos consumidores e a uma sã e leal concorrência empresarial.\n\nA evolução que o mercado sofreu, desde essa data, com reflexo numa cada vez maior exigência de transparência informativa, bem como as obrigações que para o Estado Português decorrem da adesão às Comunidades Europeias, justificam, no entanto, que se proceda à reformulação desse ordenamento jurídico, escopo que o presente diploma procura atingir.\n\nO novo ordenamento pretende ir ao encontro das orientações que, nesta matéria, vêm sendo tomadas pelas Comunidades Europeias, designadamente na Directiva do Conselho n.º <a href=\"eurlex.asp?ano=1988&id=388L0315\" title=\"Link para Directiva da Comunidade Europeia\">88/315/CEE</a>, de 7 de Junho, que, entretanto, alterou o quadro jurídico estabelecido na Directiva n.º <a href=\"eurlex.asp?ano=1979&id=379L0581\" title=\"Link para Directiva da Comunidade Europeia\">79/581/CEE</a>, de 19 de Junho, cujo prazo de concretização na ordem legislativa portuguesa, relativamente a esta matéria, foi dilatado.\n\nSem embargo, mantém-se o tratamento específico que o citado Decreto-Lei n.º 533/75 reservava a alguns aspectos, como, por exemplo, os preços das prestações de serviços.\n\nAo mesmo tempo, aproveitou-se a oportunidade para introduzir melhoramentos na definição das disciplinas consagradas e na redacção dos preceitos, por forma a conferir a umas e a outros maior simplicidade e clareza.\n\nAssim:\n\nOuvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "137703332": {
+   "fragment_id": "137618155",
+   "type": 11,
+   "heading": "Artigo 1.º — Indicação de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Indicação de preços\n\n1 - Todos os bens destinados à venda a retalho devem exibir o respectivo preço de venda ao consumidor.\n\n2 - Os géneros alimentícios e os produtos não alimentares postos à disposição do consumidor devem conter também o preço da unidade de medida, quer sejam comercializados a granel ou pré-embalados, em quantidades preestabelecidas ou em quantidades variáveis.\n\n3 - O preço de venda e o preço da unidade de medida, seja qual for o suporte utilizado para os indicar, referem-se ao preço total expresso em moeda portuguesa, devendo incluir todas as taxas, de modo que o consumidor possa conhecer o montante exacto que tem a pagar.\n\n4 - Os géneros alimentícios comercializados nos hotéis, estabelecimentos similares e cantinas, desde que sejam consumidos no local de venda, são objecto de disposições especiais."
+  },
+  "137703333": {
+   "fragment_id": "137618156",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) Género alimentício ou produto não alimentar comercializado à peça, um género ou produto que não pode ser objecto de fraccionamento sem que isso altere as respectivas natureza ou propriedades;\n\nb) Género alimentício ou produto não alimentar comercializado a granel, um género ou produto que não é objecto de qualquer acondicionamento prévio ou que só é medido ou pesado na presença do consumidor final;\n\nc) Género alimentício ou produto não alimentar pré-embalado, um género ou produto que é embalado fora da presença do consumidor, independentemente de ser inteira ou parcialmente envolvido pela respectiva embalagem;\n\nd) Género alimentício ou produto não alimentar pré-embalado em quantidades preestabelecidas, um género ou produto que é embalado de tal modo que a quantidade contida na embalagem corresponde a um valor previamente estabelecido;\n\ne) Género alimentício ou produto pré-embalado em quantidades variáveis, género ou produto que é pré-embalado de tal modo que a quantidade contida na embalagem não corresponde a um valor previamente estabelecido;\n\nf) Preço de venda, um preço válido para uma determinada quantidade do género alimentício ou do produto não alimentar;\n\ng) Preço da unidade de medida, o preço válido para uma quantidade de 1 kg ou de 1 l de género alimentício e de 1 kg, 1 l, 1 m, 1 m2, 1 m3 ou 1 t de produto não alimentar."
+  },
+  "137703334": {
+   "fragment_id": "137618157",
+   "type": 11,
+   "heading": "Artigo 3.º — Unidades de medida de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Unidades de medida de referência\n\n1 - Relativamente aos géneros alimentícios, o preço da unidade de medida referir-se-á:\n\na) Ao litro, no que diz respeito aos géneros alimentícios comercializados por volume;\n\nb) Ao quilograma, quando diz respeito aos géneros alimentícios comercializados a peso.\n\n2 - Relativamente aos produtos não alimentares, o preço da unidade de medida referir-se-á:\n\na) Ao litro ou ao metro cúbico, para os produtos vendidos a volume;\n\nb) Ao quilograma ou por tonelada, para os produtos vendidos a peso;\n\nc) Ao metro, para os produtos comercializados com base no comprimento;\n\nd) Ao metro quadrado, para os produtos comercializados com base na superfície.\n\n3 - O preço da unidade de medida dos géneros alimentícios e dos produtos não alimentares pré-embalados refere-se à quantidade declarada."
+  },
+  "137703335": {
+   "fragment_id": "137618158",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusão do âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exclusão do âmbito de aplicação\n\n1 - O disposto no presente diploma não se aplica:\n\na) Aos géneros alimentícios e produtos não alimentares adquiridos para utilização numa actividade profissional ou comercial;\n\nb) Aos géneros alimentícios e produtos não alimentares fornecidos por ocasião de uma prestação de serviços;\n\nc) Aos géneros alimentícios e produtos não alimentares vendidos directamente de particular a particular;\n\nd) Aos géneros alimentícios vendidos nos locais de produção agrícola;\n\ne) Aos produtos não alimentares vendidos em hasta pública, bem como à venda de objectos de arte e antiguidades.\n\n2 - A indicação do preço da unidade de medida a que se refere o n.º 2 do artigo 1.º não é aplicável:\n\na) Aos géneros alimentícios e produtos não alimentares comercializados através de distribuidor automático;\n\nb) Aos géneros alimentícios e produtos não alimentares comercializados à peça;\n\nc) Aos pratos confeccionados ou pratos a confeccionar que se encontrem numa mesma embalagem;\n\nd) Aos géneros alimentícios de fantasia;\n\ne) Aos géneros alimentícios ou produtos não alimentares diferentes comercializados numa mesma embalagem;\n\nf) Aos produtos não alimentares destinados a serem misturados para obter um preparado e colocados numa mesma embalagem;\n\ng) Aos géneros alimentícios comercializados em embalagens até 50 gramas ou mililitros ou com mais de 10 quilogramas ou litros;\n\nh) Aos géneros alimentícios pré-embalados constantes do anexo I ao presente diploma, do qual faz parte integrante, quando comercializados segundo as gamas nele referidas;\n\ni) Aos produtos não alimentares pré-embalados constantes do anexo II ao presente diploma, do qual faz parte integrante, quando comercializados segundo as gamas nele referidas;\n\nj) Aos géneros alimentícios e produtos não alimentares contidos em embalagens colectivas, quando constituídas por embalagens individuais correspondentes a alguma das seguintes gamas de quantidades: 0,025 l, 0,050 l, 0,075 l, 0,1 l, 0,125 l e 0,150 l;\n\nl) Aos géneros alimentícios, ou produtos não alimentares dispensados da indicação de peso ou volume, nos termos da legislação em vigor;\n\nm) Ao novo preço da unidade de medida dos géneros alimentícios facilmente perecíveis em caso de venda com desconto justificada pelo risco de alteração;\n\nn) Aos géneros alimentícios e produtos não alimentares mencionados nos anexos I e II ao presente diploma, quando comercializados em quantidades inferiores ao mais baixo, ou superiores ao mais elevado, dos valores que constam nas gamas naqueles referidas."
+  },
+  "137703336": {
+   "fragment_id": "137618159",
+   "type": 11,
+   "heading": "Artigo 5.º — Formas de indicação do preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formas de indicação do preço\n\n1 - A indicação dos preços de venda e da unidade de medida deve ser feita de modo inequívoco, fácil e perfeitamente legível, através da utilização de letreiros, etiquetas ou listas, por forma a alcançar-se a melhor informação para o consumidor.\n\n2 - Para efeitos do disposto no número anterior considera-se:\n\na) Letreiro, todo o suporte onde seja indicado o preço de um único bem ou serviço;\n\nb) Etiqueta, todo o suporte apenso ao próprio bem ou colocado sobre a embalagem em que este é vendido ao público, podendo, no entanto, ser substituída por inscrição sobre a embalagem, quando a natureza desta o permita;\n\nc) Lista, todo o suporte onde sejam indicados os preços de vários bens ou serviços.\n\n3 - Só podem ser usadas as listas quando a natureza dos bens ou serviços torne materialmente impossível o uso de letreiros e etiquetas ou como meio complementar de marcação de preços.\n\n4 - Em qualquer caso, a indicação do preço deve ser feita na proximidade do respectivo bem ou no local em que a prestação do serviço é proposta ao público, de modo a não suscitar qualquer dúvida ao consumidor.\n\n5 - Os bens ou prestações de serviço, vendidos ao mesmo preço e expostos ao público em conjunto, podem ser objecto de uma única marcação de preço.\n\n6 - Quando o preço indicado não compreender um elemento ou prestação de serviço indispensável ao emprego ou à finalidade do bem ou serviço proposto, essa particularidade deve estar explicitamente indicada."
+  },
+  "137703337": {
+   "fragment_id": "137618160",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Publicidade\n\nA publicidade escrita ou impressa e os catálogos, quando mencionem o preço de venda dos géneros alimentícios e produtos não alimentares referidos no n.º 1 do artigo 1.º, devem igualmente conter a indicação do preço da unidade de medida, excepto se, nos termos do presente diploma, o género ou produto publicitado ou constante do catálogo estiver dispensado dessa informação."
+  },
+  "137703338": {
+   "fragment_id": "137618161",
+   "type": 11,
+   "heading": "Artigo 7.º — Venda em conjunto e por lotes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Venda em conjunto e por lotes\n\n1 - Na venda em conjunto deve indicar-se o preço total, o número de peças e, quando seja possível a aquisição de peças isoladas, o preço de cada uma.\n\n2 - Na venda em lotes deve ser indicado o preço total, a composição do lote e o preço de cada uma das unidades."
+  },
+  "137703339": {
+   "fragment_id": "137618162",
+   "type": 11,
+   "heading": "Artigo 8.º — Montras e vitrinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Montras e vitrinas\n\n1 - Os bens expostos em montras ou vitrinas, visíveis pelo público do exterior do estabelecimento ou no seu interior, devem ser objecto de uma marcação complementar, quando as respectivas etiquetas não sejam perfeitamente visíveis, sem prejuízo do disposto no n.º 5 do artigo 5.º\n\n2 - Estão dispensados da indicação dos preços os produtos que se encontrem expostos em montras ou vitrinas afastadas dos lugares de venda que, estando colocadas em lugares públicos, tenham um carácter essencialmente publicitário."
+  },
+  "137703340": {
+   "fragment_id": "137618163",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentação especial\n\nRelativamente aos bens ou serviços para os quais exista regulamentação específica, prevalece essa regulamentação quando não contrarie o disposto no presente diploma e dela resulte uma melhor informação para o consumidor."
+  },
+  "137703341": {
+   "fragment_id": "137618164",
+   "type": 11,
+   "heading": "Artigo 10.º — Indicação dos preços dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Indicação dos preços dos serviços\n\n1 - Os preços de toda a prestação de serviços, seja qual for a sua natureza, devem constar de listas ou cartazes afixados no lugar onde os serviços são propostos ou prestados ao consumidor.\n\n2 - Sempre que sejam numerosos os serviços propostos e existam condições muito diversas que não permitam estabelecer uma afixação de preços prefeitamente clara, este documento pode ser substituído por um catálogo completo posto à disposição do público nos lugares em que aqueles são oferecidos.\n\n3 - Nos serviços prestados à hora, à percentagem, à tarefa ou segundo qualquer outro critério, os preços devem ser sempre indicados com referência ao critério utilizado; havendo taxas de deslocação ou outras previamente estabelecidas, devem as mesmas estar indicadas especificamente.\n\n4 - A aplicação do disposto no presente artigo e no n.º 1 do artigo 1.º deste diploma a serviços diferentes dos previstos no artigo anterior fica dependente de portaria conjunta dos Ministros do Ambiente e Recursos Naturais, do Comércio e Turismo e da tutela do respectivo sector de actividade."
+  },
+  "137703342": {
+   "fragment_id": "137618165",
+   "type": 11,
+   "heading": "Artigo 11.º — Infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Infracções\n\nA falta de indicação de preço de venda ou do preço da unidade de medida nos casos em que a lei o exija constitui contra-ordenação, punível nos termos do artigo 64.º do Decreto-Lei n.º 28/84, de 20 de Janeiro."
+  },
+  "137703343": {
+   "fragment_id": "137618166",
+   "type": 11,
+   "heading": "Artigo 12.º — Fiscalização, instrução dos processos e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fiscalização, instrução dos processos e aplicação das coimas\n\n1 - A fiscalização do disposto no presente diploma e a instrução dos respectivos processos por contra-ordenações são da competência da Direcção-Geral da Inspecção Económica, nos termos do artigo 73.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.\n\n2 - Finda a instrução, os processos devem ser remetidos à comissão a que se refere o n.º 2 do artigo 52.º do mesmo diploma, para efeitos de aplicação da coima."
+  },
+  "137703344": {
+   "fragment_id": "137618167",
+   "type": 11,
+   "heading": "Artigo 13.º — Aplicação às regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aplicação às regiões autónomas\n\nNas Regiões Autónomas dos Açores e da Madeira, as competências referidas no artigo anterior são exercidas pelos serviços e organismos competentes das respectivas administrações regionais."
+  },
+  "137703345": {
+   "fragment_id": "137618168",
+   "type": 11,
+   "heading": "Artigo 14.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Revogação\n\nÉ revogado o Decreto-Lei n.º 533/75, de 26 de Setembro."
+  },
+  "137703346": {
+   "fragment_id": "137618169",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1991."
+  },
+  "137703348": {
+   "fragment_id": "137618171",
+   "type": 14,
+   "heading": "Anexo I — Géneros alimentícios pré-embalados em quantidades preestabelecidas a que se refere o artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Géneros alimentícios pré-embalados em quantidades preestabelecidas a que se refere o artigo 4.º\n\n(ver documento original)"
+  },
+  "137703349": {
+   "fragment_id": "137618172",
+   "type": 14,
+   "heading": "Anexo II — Produtos não alimentares pré-embalados em quantidades preestabelecidas a que se refere o artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Produtos não alimentares pré-embalados em quantidades preestabelecidas a que se refere o artigo 4.º\n\n(ver documento original)"
+  },
+  "137703354": {
+   "fragment_id": "137618155",
+   "type": 11,
+   "heading": "Artigo 1.º — Indicação de preços",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 1.º — Indicação de preços\n\n1 - Todos os bens destinados à venda a retalho devem exibir o respectivo preço de venda ao consumidor.\n\n2 - Os géneros alimentícios e os produtos não alimentares postos à disposição do consumidor devem conter também o preço por unidade de medida.\n\n3 - Nos produtos vendidos a granel apenas deverá ser indicado o preço por unidade de medida.\n\n4 - Sempre que as disposições comunitárias ou nacionais exijam a indicação do peso líquido e do peso líquido escorrido para determinados produtos pré-embalados, será suficiente indicar o preço por unidade de medida do peso líquido escorrido.\n\n5 - O preço de venda e o preço por unidade de medida, seja qual for o suporte utilizado para os indicar, referem-se ao preço total expresso em moeda com curso legal em Portugal, devendo incluir todos os impostos, taxas e outros encargos que nele sejam repercutidos, de modo que o consumidor possa conhecer o montante exacto que tem a pagar.\n\n6 - Os géneros alimentícios comercializados nos hotéis, estabelecimentos similares e cantinas, desde que sejam consumidos no local da venda, são objecto de disposições especiais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703355": {
+   "fragment_id": "137618156",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) «Género alimentício ou produto não alimentar comercializado à peça» um género ou produto que não pode ser objecto de fraccionamento sem que isso altere a respectiva natureza ou propriedades;\n\nb) «Género alimentício ou produto não alimentar comercializado a granel» um género ou produto que não é objecto de qualquer acondicionamento prévio ou que só é medido ou pesado na presença do consumidor final;\n\nc) «Género alimentício ou produto não alimentar pré-embalado» um género ou produto que é embalado fora da presença do consumidor, independentemente de ser inteira ou parcialmente envolvido pela respectiva embalagem;\n\nd) «Preço de venda» um preço válido para uma determinada quantidade do género alimentício ou do produto não alimentar;\n\ne) «Preço por unidade de medida» o preço válido para uma quantidade de 1 kg ou de 1 l de género alimentício e de 1 kg, 1 l, 1 m, 1 m2, 1 m3 ou 1 t de produto não alimentar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703356": {
+   "fragment_id": "137618158",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusão do âmbito de aplicação",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 4.º — Exclusão do âmbito de aplicação\n\n1 - O disposto no presente diploma não se aplica:\n\na) Aos géneros alimentícios e produtos não alimentares adquiridos para utilização numa actividade profissional ou comercial;\n\nb) Aos géneros alimentícios e produtos não alimentares fornecidos por ocasião de uma prestação de serviços;\n\nc) Aos géneros alimentícios e produtos não alimentares vendidos directamente de particular a particular;\n\nd) Aos géneros alimentícios vendidos nos locais de produção agrícola;\n\ne) Aos produtos não alimentares vendidos em hasta pública, bem como à venda de objectos de arte e antiguidades.\n\n2 - A indicação do preço por unidade de medida a que se refere o n.º 2 do artigo 1.º não é aplicável:\n\na) Aos géneros alimentícios e produtos não alimentares comercializados através de distribuidor automático;\n\nb) Aos géneros alimentícios e produtos não alimentares comercializados à peça;\n\nc) Aos pratos confeccionados ou pratos a confeccionar que se encontrem numa mesma embalagem;\n\nd) Aos géneros alimentícios de fantasia;\n\ne) Aos géneros alimentícios ou produtos não alimentares diferentes comercializados numa mesma embalagem;\n\nf) Aos produtos não alimentares destinados a serem misturados para obter um preparado e colocados numa mesma embalagem;\n\ng) Aos géneros alimentícios comercializados em embalagens até 50 g ou 50 ml ou com mais de 10 kg ou 10 l;\n\nh) Aos géneros alimentícios ou produtos não alimentares dispensados da indicação de peso ou volume, nos termos da legislação em vigor;\n\ni) Ao novo preço da unidade de medida dos géneros alimentícios facilmente perecíveis em caso de venda com desconto justificada pelo risco de alteração;\n\nj) Aos géneros alimentícios e produtos não alimentares quando o seu preço for idêntico ao preço de venda.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703357": {
+   "fragment_id": "137618159",
+   "type": 11,
+   "heading": "Artigo 5.º — Formas de indicação do preço",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 5.º — Formas de indicação do preço\n\n1 - A indicação dos preços de venda e por unidade de medida deve ser feita em dígitos de modo visível, inequívoco, fácil e perfeitamente legível, através da utilização de letreiros, etiquetas ou listas, por forma a alcançar-se a melhor informação para o consumidor.\n\n2 - Para efeitos do disposto no número anterior considera-se:\n\na) Letreiro, todo o suporte onde seja indicado o preço de um único bem ou serviço;\n\nb) Etiqueta, todo o suporte apenso ao próprio bem ou colocado sobre a embalagem em que este é vendido ao público, podendo, no entanto, ser substituída por inscrição sobre a embalagem, quando a natureza desta o permita;\n\nc) Lista, todo o suporte onde sejam indicados os preços de vários bens ou serviços.\n\n3 - Só podem ser usadas as listas quando a natureza dos bens ou serviços torne materialmente impossível o uso de letreiros e etiquetas ou como meio complementar de marcação de preços.\n\n4 - Em qualquer caso, a indicação do preço deve ser feita na proximidade do respectivo bem ou no local em que a prestação do serviço é proposta ao público, de modo a não suscitar qualquer dúvida ao consumidor.\n\n5 - Os bens ou prestações de serviço, vendidos ao mesmo preço e expostos ao público em conjunto, podem ser objecto de uma única marcação de preço.\n\n6 - Quando o preço indicado não compreender um elemento ou prestação de serviço indispensável ao emprego ou à finalidade do bem ou serviço proposto, essa particularidade deve estar explicitamente indicada.\n\n7 - Sem prejuízo da informação relativa a outras formas de pagamento, deve ser indicado sempre o preço a pronto pagamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703358": {
+   "fragment_id": "137618160",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicidade",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 6.º — Publicidade\n\n1 - A publicidade, sempre que mencione preços de bens ou serviços, deve respeitar as regras referidas no presente diploma e indicar de forma clara e perfeitamente visível o preço total expresso em moeda com curso legal em Portugal, incluindo taxas e impostos.\n\n2 - A publicidade escrita ou impressa e os catálogos, quando mencionem o preço de venda dos géneros alimentares e produtos não alimentares referidos no n.º 1 do artigo 1.º, devem igualmente conter, nos mesmos termos do número anterior, a indicação do preço da unidade de medida, excepto se, por força do presente diploma, o género ou produto publicitado ou constante de catálogo estiver dispensado dessa informação.\n\n3 - Para os efeitos do n.º 1, sempre que se justifique, pode o Governo, através de portaria, regulamentar a publicitação dos preços dos bens e serviços.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703359": {
+   "fragment_id": "137618164",
+   "type": 11,
+   "heading": "Artigo 10.º — Indicação do preço dos serviços",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 10.º — Indicação do preço dos serviços\n\n1 - Os preços de toda a prestação de serviços, seja qual for a sua natureza, devem constar de listas ou cartazes afixados, de forma visível, no lugar onde os serviços são propostos ou prestados ao consumidor, sendo aplicável o n.º 5 do artigo 1.º\n\n2 - Sempre que sejam numerosos os serviços propostos e existam condições muito diversas que não permitam uma afixação de preços perfeitamente clara, este documento pode ser substituído por um catálogo completo, restringindo-se neste caso a obrigação de afixação em cartaz prevista no número anterior à informação de que tal catálogo se encontra à disposição do público.\n\n3 - Nos serviços prestados à hora, à percentagem, à tarefa ou segundo qualquer outro critério, os preços devem ser sempre indicados com referência ao critério utilizado; havendo taxas de deslocação ou outras previamente estabelecidas, devem as mesmas ser indicadas especificamente.\n\n4 - Sem prejuízo da obrigação de indicação de preços dos serviços prevista no presente artigo, sempre que se justifique, pode o Governo estabelecer, por portaria conjunta dos membros do Governo que tutelam as áreas de defesa do consumidor, do comércio e do sector de actividade em causa, os termos em que essa obrigação deve ser cumprida no que respeita a serviços diferentes dos previstos no artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703360": {
+   "fragment_id": "137618165",
+   "type": 11,
+   "heading": "Artigo 11.º — Infracções",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 11.º — Infracções\n\n1 - As infracções ao disposto nos artigos 1.º, 5.º, 6.º, 7.º, 8.º e 10.º do presente diploma constituem contra-ordenação punível com as seguintes coimas:\n\na) De 50000$00 a 750000$00 se o infractor for uma pessoa singular;\n\nb) De 500000$00 a 6000000$00 se o infractor for uma pessoa colectiva.\n\n2 - A negligência é punível.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703361": {
+   "fragment_id": "137618166",
+   "type": 11,
+   "heading": "Artigo 12.º — Fiscalização, instrução dos processos e aplicação das coimas",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 12.º — Fiscalização, instrução dos processos e aplicação das coimas\n\n1 - A fiscalização do disposto no presente diploma e a instrução dos respectivos processos por contra-ordenações são da competência da Inspecção-Geral das Actividades Económicas, nos termos do artigo 73.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.\n\n2 - Finda a instrução, os processos devem ser remetidos à comissão a que se refere o n.º 2 do artigo 52.º do mesmo diploma, para efeitos de aplicação da coima.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703362": {
+   "fragment_id": "137618167",
+   "type": 11,
+   "heading": "Artigo 13.º — Destino do montante das coimas",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 13.º — Destino do montante das coimas\n\nDo montante das coimas aplicadas pelas contra-ordenações previstas neste diploma serão destinados 40% para a Inspecção-Geral das Actividades Económicas, revertendo o restante para o Estado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703363": {
+   "fragment_id": "137618168",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação às Regiões Autónomas",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 14.º — Aplicação às Regiões Autónomas\n\nNas Regiões Autónomas dos Açores e da Madeira as competências referidas no artigo anterior são exercidas pelos serviços e organismos competentes das respectivas administrações regionais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703364": {
+   "fragment_id": "137618169",
+   "type": 11,
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 15.º — Revogação\n\nÉ revogado o Decreto-Lei n.º 533/75, de 26 de Setembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703350": {
+   "fragment_id": "137618173",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723)"
+   ],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1991.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723)"
+  },
+  "137703351": {
+   "fragment_id": "137618170",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Março de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Nunes Ferreira Real.\n\nPromulgado em 2 de Abril de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 5 de Abril de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "137703365": {
+   "fragment_id": "137618171",
+   "type": 14,
+   "heading": "Anexo I — Géneros alimentícios pré-embalados em quantidades preestabelecidas a que se refere o artigo 4.º",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "## Anexo I — Géneros alimentícios pré-embalados em quantidades preestabelecidas a que se refere o artigo 4.º\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "137703366": {
+   "fragment_id": "137618172",
+   "type": 14,
+   "heading": "Anexo II — Produtos não alimentares pré-embalados em quantidades preestabelecidas a que se refere o artigo 4.º",
+   "in_force_from": "1999-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "## Anexo II — Produtos não alimentares pré-embalados em quantidades preestabelecidas a que se refere o artigo 4.º\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "155905039": {
+   "fragment_id": "137618165",
+   "type": 11,
+   "heading": "Artigo 11.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 11.º — Contraordenações\n\n1 - As infrações ao disposto nos artigos 1.º, 5.º, 6.º, 7.º, 8.º e 10.º do presente diploma constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n2 - A negligência é punível nos termos do RJCE.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "155905040": {
+   "fragment_id": "137618166",
+   "type": 11,
+   "heading": "Artigo 12.º — Fiscalização, instrução dos processos e aplicação das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 12.º — Fiscalização, instrução dos processos e aplicação das coimas\n\n1 - A fiscalização do disposto no presente diploma e a instrução dos respetivos processos de contraordenação competem à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "155905041": {
+   "fragment_id": "137618167",
+   "type": 11,
+   "heading": "Artigo 13.º — Distribuição do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 13.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "175863301": {
+   "fragment_id": "137618155",
+   "type": 11,
+   "heading": "Artigo 1.º — Indicação de preços",
+   "in_force_from": "2022-05-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 1.º — Indicação de preços\n\n1 - Todos os bens destinados à venda a retalho devem exibir o respectivo preço de venda ao consumidor.\n\n2 - Qualquer informação relativa a uma prática comercial com redução de preço, independentemente do meio de comunicação, deve indicar o preço mais baixo anteriormente praticado, de acordo com o disposto no Decreto-Lei n.º 70/2007, de 26 de março, na sua redação atual.\n\n3 - Os géneros alimentícios e os produtos não alimentares postos à disposição do consumidor devem conter também o preço por unidade de medida.\n\n4 - Nos produtos vendidos a granel apenas deverá ser indicado o preço por unidade de medida.\n\n5 - Sempre que as disposições comunitárias ou nacionais exijam a indicação do peso líquido e do peso líquido escorrido para determinados produtos pré-embalados, será suficiente indicar o preço por unidade de medida do peso líquido escorrido.\n\n6 - O preço de venda e o preço por unidade de medida, seja qual for o suporte utilizado para os indicar, referem-se ao preço total expresso em moeda com curso legal em Portugal, devendo incluir todos os impostos, taxas e outros encargos que nele sejam repercutidos, de modo que o consumidor possa conhecer o montante exacto que tem a pagar.\n\n7 - Os géneros alimentícios comercializados nos hotéis, estabelecimentos similares e cantinas, desde que sejam consumidos no local da venda, são objecto de disposições especiais.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "175863302": {
+   "fragment_id": "137618156",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2022-05-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) «Género alimentício ou produto não alimentar comercializado à peça» um género ou produto que não pode ser objecto de fraccionamento sem que isso altere a respectiva natureza ou propriedades;\n\nb) «Género alimentício ou produto não alimentar comercializado a granel» um género ou produto que não é objecto de qualquer acondicionamento prévio ou que só é medido ou pesado na presença do consumidor final;\n\nc) «Género alimentício ou produto não alimentar pré-embalado» um género ou produto que é embalado fora da presença do consumidor, independentemente de ser inteira ou parcialmente envolvido pela respectiva embalagem;\n\nd) «Preço de venda» um preço válido para uma determinada quantidade do género alimentício ou do produto não alimentar;\n\ne) «Preço por unidade de medida» o preço válido para uma quantidade de 1 kg ou de 1 l de género alimentício e de 1 kg, 1 l, 1 m, 1 m2, 1 m3 ou 1 t de produto não alimentar.\n\nf) «Preço mais baixo anteriormente praticado», o preço mais baixo a que o produto foi vendido nos últimos 30 dias consecutivos anteriores à aplicação da redução do preço.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "175863303": {
+   "fragment_id": "137618158",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusão do âmbito de aplicação",
+   "in_force_from": "2022-05-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 4.º — Exclusão do âmbito de aplicação\n\n1 - O disposto no presente diploma não se aplica:\n\na) Aos géneros alimentícios e produtos não alimentares adquiridos para utilização numa actividade profissional ou comercial;\n\nb) Aos géneros alimentícios e produtos não alimentares fornecidos por ocasião de uma prestação de serviços;\n\nc) Aos géneros alimentícios e produtos não alimentares vendidos directamente de particular a particular;\n\nd) Aos géneros alimentícios vendidos nos locais de produção agrícola;\n\ne) Aos produtos não alimentares vendidos em hasta pública, bem como à venda de objectos de arte e antiguidades.\n\n2 - A indicação do preço por unidade de medida a que se refere o n.º 3 do artigo 1.º não é aplicável:\n\na) Aos géneros alimentícios e produtos não alimentares comercializados através de distribuidor automático;\n\nb) Aos géneros alimentícios e produtos não alimentares comercializados à peça;\n\nc) Aos pratos confeccionados ou pratos a confeccionar que se encontrem numa mesma embalagem;\n\nd) Aos géneros alimentícios de fantasia;\n\ne) Aos géneros alimentícios ou produtos não alimentares diferentes comercializados numa mesma embalagem;\n\nf) Aos produtos não alimentares destinados a serem misturados para obter um preparado e colocados numa mesma embalagem;\n\ng) Aos géneros alimentícios comercializados em embalagens até 50 g ou 50 ml ou com mais de 10 kg ou 10 l;\n\nh) Aos géneros alimentícios ou produtos não alimentares dispensados da indicação de peso ou volume, nos termos da legislação em vigor;\n\ni) Ao novo preço da unidade de medida dos géneros alimentícios facilmente perecíveis em caso de venda com desconto justificada pelo risco de alteração;\n\nj) Aos géneros alimentícios e produtos não alimentares quando o seu preço for idêntico ao preço de venda.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "175863304": {
+   "fragment_id": "137618164",
+   "type": 11,
+   "heading": "Artigo 10.º — Indicação do preço dos serviços",
+   "in_force_from": "2022-05-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 10.º — Indicação do preço dos serviços\n\n1 - Os preços de toda a prestação de serviços, seja qual for a sua natureza, devem constar de listas ou cartazes afixados, de forma visível, no lugar onde os serviços são propostos ou prestados ao consumidor, sendo aplicável o n.º 6 do artigo 1.º\n\n2 - Sempre que sejam numerosos os serviços propostos e existam condições muito diversas que não permitam uma afixação de preços perfeitamente clara, este documento pode ser substituído por um catálogo completo, restringindo-se neste caso a obrigação de afixação em cartaz prevista no número anterior à informação de que tal catálogo se encontra à disposição do público.\n\n3 - Nos serviços prestados à hora, à percentagem, à tarefa ou segundo qualquer outro critério, os preços devem ser sempre indicados com referência ao critério utilizado; havendo taxas de deslocação ou outras previamente estabelecidas, devem as mesmas ser indicadas especificamente.\n\n4 - Sem prejuízo da obrigação de indicação de preços dos serviços prevista no presente artigo, sempre que se justifique, pode o Governo estabelecer, por portaria conjunta dos membros do Governo que tutelam as áreas de defesa do consumidor, do comércio e do sector de actividade em causa, os termos em que essa obrigação deve ser cumprida no que respeita a serviços diferentes dos previstos no artigo anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 109-G/2021 - Diário da República n.º 238/2021, 1º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-g-2021-175744207), em vigor a partir de 2022-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  },
+  "208203234": {
+   "fragment_id": "137618165",
+   "type": 11,
+   "heading": "Artigo 11.º — Contraordenações",
+   "in_force_from": "2023-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 10/2023 - Diário da República n.º 45/2023, Série I de 2023-03-03](https://diariodarepublica.pt/dr/detalhe/lei/10-2023-208124552), em vigor a partir de 2023-04-03",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+   ],
+   "markdown": "###### Artigo 11.º — Contraordenações\n\n1 - As infrações ao disposto nos artigos 1.º, 5.º, 6.º, 7.º, 8.º e 10.º do presente diploma constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n2 - Na determinação da coima a aplicar pela prática das contraordenações previstas no presente decreto-lei, o decisor tem em conta, para além do disposto no RJCE:\n\na) A natureza, gravidade, dimensão e duração da infração cometida;\n\nb) As medidas eventualmente adotadas pelo infrator para atenuar ou reparar os danos causados aos consumidores;\n\nc) As eventuais infrações cometidas anteriormente pelo infrator em causa;\n\nd) Os benefícios financeiros obtidos ou os prejuízos evitados pelo infrator em virtude da infração cometida, se os dados em causa estiveram disponíveis;\n\ne) Nas situações transfronteiriças, as sanções impostas ao infrator pela mesma infração noutros Estados-Membros, caso a informação sobre essas sanções esteja disponível ao abrigo do mecanismo estabelecido no Regulamento (UE) 2017/2394, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017, relativo à cooperação entre as autoridades nacionais responsáveis pela aplicação da legislação de proteção dos consumidores e que revoga o Regulamento (CE) n.º 2006/2004.\n\n3 - A negligência é punível nos termos do RJCE.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 10/2023 - Diário da República n.º 45/2023, Série I de 2023-03-03](https://diariodarepublica.pt/dr/detalhe/lei/10-2023-208124552), em vigor a partir de 2023-04-03\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 162/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1999-321723), em vigor a partir de 1999-05-18"
+  }
+ }
+}

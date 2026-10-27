@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:335238:por
+title: Decreto-Lei n.º 31/90
+short_title: null
+summary: Estabelece o regime jurídico a que fica sujeita a exploração, pela Empresa Nacional de Urânio, E. P., dos jazigos
+  nacionais de minérios radioactivos, anteriormente sob o domínio da ex-Junta de Energia Nuclear
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 31/90
+official_date: null
+publication_date: '1990-01-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/1990, Série I de 1990-01-24
+  number: '20'
+  series: I
+  supplement: null
+  pages: 334 - 334
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/01/02000/03340334.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '335238'
+  dre_path: /dr/detalhe/decreto-lei/31-1990-335238
+  internal: pt:dre:335238:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1990-335238
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1990-335238
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:02:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3b163b920d91f9c51b9de0e4ac30ea7eee2567c1892075c431bd8a5cd4f78f71
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Junta de Energia Nuclear
+- Regime Jurídico
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:141025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224619:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:02:35Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 31/90
+
+de 24 de Janeiro
+
+Considerando que, por via do [Decreto-Lei n.º 105/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1977-141025), de 22 de Março, e de acordo com o artigo 2.º do Decreto n.º 67/77, de 6 de Maio, o qual criou a Empresa Nacional de Urânio, E. P., foram transmitidos para o domínio desta Empresa todos os bens, móveis e imóveis, concessões, direitos e obrigações a eles inerentes e que, na Junta de Energia Nuclear, estivessem afectos à exploração mineira de urânio;
+
+Verificando-se ainda que aquele primeiro diploma constitui título bastante para todos os efeitos legais, incluindo os de registo;
+
+Tendo de considerar-se que a Junta de Energia Nuclear integrava legalmente, no âmbito das suas competências, o direito de superintender na concessão, transmissão e exploração de jazigos portugueses de minérios radioactivos e que, por essa razão e em relação ao urânio, adquiriu direitos de exploração cuja tramitação processual, conducente ao seu exercício, não ficou definida no [Decreto-Lei n.º 105/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1977-141025);
+
+Tornando-se, por isso, conveniente uma definição ajustada do regime a que ficaram sujeitos aqueles bens, direitos e concessões, que foram transferidos da Junta de Energia Nuclear para a Empresa Nacional de Urânio, E. P., em ordem à sua harmonização com a legislação mineira nacional:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º Constitui direito da Empresa Nacional de Urânio, E. P., a exploração dos jazigos ou ocorrências de urânio descobertos pela Junta de Energia Nuclear e que constam do cadastro entregue na Direcção-Geral de Geologia e Minas.
+
+Art. 2.º - 1 - A Empresa Nacional de Urânio, E. P., fica obrigada, relativamente aos jazigos e ocorrências referidos no artigo anterior, cuja exploração seja economicamente relevante, a iniciar os trabalhos de lavra de acordo com o plano ou planos de exploração que serão função da evolução do mercado nacional e internacional de urânio.
+
+2 - Os planos referidos no número anterior ficarão sujeitos a aprovação pela Direcção-Geral de Geologia e Minas.
+
+Art. 3.º - 1 - O início dos trabalhos de lavra fica dependente da conclusão do processo a que se refere o artigo 31.º do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619), de 1 de Agosto de 1930.
+
+2 - De acordo com o que fica estabelecido no presente diploma, a demarcação dos jazigos será feita com base em proposta a apresentar pela Empresa Nacional de Urânio, E. P.
+
+3 - A proposta mencionada no número anterior será elaborada tendo em atenção o valor económico dos jazigos e ocorrências a integrar na mesma.
+
+Art. 4.º A exploração dos jazigos e ocorrências a que se refere o presente diploma fica sujeita a fiscalização da Direcção-Geral de Geologia e Minas.
+
+Art. 5.º - 1 - Sem prejuízo dos direitos adquiridos pela Empresa Nacional de Urânio, E. P., em virtude da transferência operada pelo [Decreto-Lei n.º 105/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1977-141025), de 22 de Março, os direitos sobre os jazigos ou ocorrências, a que se refere o presente diploma, que não tiverem sido objecto de demarcação até à publicação de nova legislação sobre recursos geológicos regular-se-ão pelo regime que nela vier a ser consagrado.
+
+2 - De acordo com o disposto no número anterior, aos recursos já demarcados à data da publicação de nova legislação sobre recursos geológicos será aplicável o regime transitório que nela vier a ser definido para os direitos constituídos.
+
+Art. 6.º Exceptuados os casos específicos abrangidos na transferência determinada pelo Decrto-Lei n.º 105/77, de 22 de Março, é aplicável à exploração de jazigos ou ocorrências de urânio a demais legislação mineira em vigor.
+
+Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1989. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Luís Fernandes Mira Amaral.
+
+Promulgado em 13 de Janeiro de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 15 de Janeiro de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

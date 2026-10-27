@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:293924:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1991-1047508784",
+ "dre_path": "/dr/detalhe/portaria/1006-1991-293924",
+ "source_lastmod": "2026-10-14",
+ "versions": [
+  {
+   "date": "2014-01-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:606159:por",
+     "title": "Decreto-Lei n.º 6/2014",
+     "published": "2014-01-14",
+     "dre_path": "/dr/detalhe/decreto-lei/6-2014-606159"
+    }
+   ],
+   "changes": [
+    "Revoga 1.º"
+   ],
+   "fragments": [
+    "1048672275",
+    "1179969875",
+    "1179966875",
+    "1179967075",
+    "1179968975",
+    "1179967275",
+    "1048672475",
+    "1048672675",
+    "1179967475",
+    "1179969175",
+    "1179969375",
+    "1179967675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1048672275": {
+   "fragment_id": "1048672175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A requerimento da Maiêutica - Cooperativa de Ensino Superior, C. R. L., com sede na freguesia de Vermoim, concelho da Maia;\n\nInstruído e analisado o respectivo processo nos termos do Estatuto do Ensino Superior Particular e Cooperativo (Decreto-Lei n.º 271/89, de 19 de Agosto);\n\nNos termos e ao abrigo dos artigos 18.º, 19.º e 21.º, n.º 1, e com base no n.º 1 do artigo 25.º do Decreto-Lei n.º 271/89, de 19 de Agosto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:"
+  },
+  "1179969875": {
+   "fragment_id": "1179968675",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2014-01-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6/2014 - Diário da República n.º 9/2014, Série I de 2014-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2014-606159), em vigor a partir de 2014-01-15."
+   ],
+   "markdown": "###### 1.º\n\nÉ reconhecido o Instituto Superior da Maia - ISMAI, de que é titular a Maiêutica - Cooperativa de Ensino Superior, C. R. L., a funcionar nas instalações que possui na Maia, como estabelecimento de ensino superior.\n\n> Nota: [Artigo 8.º, Decreto-Lei n.º 6/2014 - Diário da República n.º 9/2014, Série I de 2014-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2014-606159) A revogação do presente número produz efeitos a partir do ano letivo de 2013-2014.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6/2014 - Diário da República n.º 9/2014, Série I de 2014-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2014-606159), em vigor a partir de 2014-01-15."
+  },
+  "1179966875": {
+   "fragment_id": "1179966775",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nÉ autorizado o início de funcionamento no Instituto Superior da Maia - ISMAI dos seguintes cursos, de acordo com os planos de estudos publicados em anexo à presente portaria:\n\nCurso superior de Gestão de Pequenas e Médias Empresas;\n\nCurso superior de Gestão de Recursos Humanos:\n\nCurso superior de Contabilidade;\n\nCurso superior de Relações Públicas;\n\nCurso superior de Solicitadoria e Assessoria Jurídica."
+  },
+  "1179967075": {
+   "fragment_id": "1179966975",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nAos cursos referidos no número anterior é reconhecido o grau de bacharelato."
+  },
+  "1179968975": {
+   "fragment_id": "1179968875",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nAs habilitações mínimas que permitem o ingresso nos cursos atrás referidos são as exigidas para os mesmos ou similares cursos do ensino público, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno do Instituto Superior da Maia - ISMAI."
+  },
+  "1179967275": {
+   "fragment_id": "1179967175",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nO reconhecimento e a autorização estabelecidos na presente portaria não prejudicam, sob pena de revogação, a obrigação do cumprimento de eventuais adaptações ou correcções que sejam determinadas pela Direcção-Geral do Ensino Superior, quer em resultado da análise do processo que fundamenta a presente portaria, quer de futuras informações dos serviços de inspecção daquele departamento, de acordo com a legislação vigente."
+  },
+  "1048672475": {
+   "fragment_id": "1048672375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Educação.\n\nAssinada em 12 de Setembro de 1991.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior."
+  },
+  "1048672675": {
+   "fragment_id": "1048672575",
+   "type": 14,
+   "heading": "Anexo I — Curso superior de Gestão de Pequenas e Médias Empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Curso superior de Gestão de Pequenas e Médias Empresas\n\nInstituto Superior da Maia - ISMAI\n\n(ver documento original)"
+  },
+  "1179967475": {
+   "fragment_id": "1179967375",
+   "type": 14,
+   "heading": "Anexo II — Curso superior de Gestão de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Curso superior de Gestão de Recursos Humanos\n\nInstituto Superior da Maia - ISMAI\n\n(ver documento original)"
+  },
+  "1179969175": {
+   "fragment_id": "1179969075",
+   "type": 14,
+   "heading": "Anexo III — Curso superior de Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Curso superior de Contabilidade\n\nInstituto Superior da Maia- ISMAI\n\n(ver documento original)"
+  },
+  "1179969375": {
+   "fragment_id": "1179969275",
+   "type": 14,
+   "heading": "Anexo IV — Curso superior de Relações Públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Curso superior de Relações Públicas\n\nInstituto Superior da Maia ISMAI\n\n(ver documento original)"
+  },
+  "1179967675": {
+   "fragment_id": "1179967575",
+   "type": 14,
+   "heading": "Anexo V — Curso superior de Solicitadoria e Assessoria Juridica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Curso superior de Solicitadoria e Assessoria Juridica\n\nInstituto Superior da Maia - ISMAI\n\n(ver documento original)"
+  }
+ }
+}

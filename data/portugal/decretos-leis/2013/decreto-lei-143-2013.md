@@ -1,0 +1,434 @@
+---
+schema_version: '1.0'
+id: pt:dre:503035:por
+title: Decreto-Lei n.º 143/2013
+short_title: null
+summary: Procede à segunda alteração ao Decreto-Lei n.º 228/2000, de 23 de setembro, que cria o Conselho Nacional de Supervisores
+  Financeiros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 143/2013
+official_date: null
+publication_date: '2013-10-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/2013, Série I de 2013-10-18
+  number: '202'
+  series: I
+  supplement: null
+  pages: 6161 - 6165
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/10/20200/0616106165.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/143/2013/10/18/p/dre/pt/html
+  oj: null
+  dre: '503035'
+  dre_path: /dr/detalhe/decreto-lei/143-2013-503035
+  internal: pt:dre:503035:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035
+  metadata_url: https://data.dre.pt/eli/dec-lei/143/2013/10/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:21:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: aa597cacb83909894f53780a8868ff0727b58a8c3bd59faaf60aed680e9e7457
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Banco de Portugal
+- Conselho de Administração
+- Conselho Nacional de Supervisores Financeiros
+- Definição de Competências
+- Instituto de Seguros de Portugal
+- Mercado Financeiro
+- Orgânica
+- Supervisão Financeira
+relationships:
+- type: amended_by
+  target: pt:dre:70139954:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:70139954:por
+  label: Alterados os arts. 2.º e 4.º do Dec Lei 228/2000, de 23-set, na redação do presente diploma pelo(a) Lei n.º 118/2015
+    - Diário da República n.º 169/2015, Série I de 2015-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-2015-70139954
+  date: '2015-08-31'
+- type: cites
+  target: celex:32010R1092
+  label: null
+  source: http://data.europa.eu/eli/reg/2010/1092/oj
+- type: cites
+  target: pt:dre:558978:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/228/2000/09/23/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:21:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 143/2013
+
+de 18 de outubro
+
+A crescente integração e interdependência entre os diversos setores da atividade financeira veio reforçar a necessidade de uma maior coordenação e articulação entre as três autoridades de supervisão financeira, designadamente através de uma abordagem comum de questões intersectoriais, do estabelecimento de canais de comunicação estruturados entre as referidas autoridades e da eliminação de potenciais conflitos de competências ou lacunas regulamentares. Com estes objetivos, foi criado, através do Decreto-Lei n.º 228/2000, de 23 de setembro, alterado pelo Decreto-Lei n.º 211-A/2008, de 3 de novembro, o Conselho Nacional de Supervisores Financeiros (CNSF), tendo como membros permanentes o governador do Banco de Portugal, que preside, o membro do Conselho de Administração do Banco de Portugal com o pelouro da supervisão das instituições de crédito e das sociedades financeiras, o Presidente da Comissão do Mercado de Valores Mobiliários e o Presidente do Instituto de Seguros de Portugal.
+
+Entre outras funções, o CNSF é responsável pela coordenação da atuação das três autoridades de supervisão financeira, as quais são exercidas sem prejuízo das competências e autonomia das autoridades que o compõem.
+
+Em 24 de novembro de 2010, o Regulamento (UE) n.º [1092/2010](http://data.europa.eu/eli/reg/2010/1092/oj?locale=pt), do Parlamento Europeu e do Conselho, relativo à supervisão macroprudencial do sistema financeiro na União Europeia, criou o Comité Europeu do Risco Sistémico (CERS), que constitui um dos pilares essenciais sobre os quais assenta o novo sistema europeu de supervisão financeira. A criação deste Comité radica no reconhecimento generalizado da necessidade de implementar um sistema de supervisão, de dimensão macroprudencial, especificamente orientado para a prevenção e mitigação dos riscos sistémicos suscetíveis de afetar a estabilidade financeira da União Europeia.
+
+Em 22 de dezembro de 2011, o CERS aprovou uma Recomendação relativa ao mandato macroprudencial das autoridades nacionais, nos termos da qual se reconhece que a eficácia de uma política macroprudencial a nível europeu depende, em grande medida, das regras macroprudenciais vigentes em cada um dos Estados-Membros. Assim, o documento inclui recomendações muito precisas no sentido da designação, em cada Estado-Membro, da autoridade responsável pela execução da política macroprudencial, que deve exercer funções de identificação, acompanhamento e avaliação dos riscos para a estabilidade financeira e, ainda, de execução das políticas tendentes à consecução do seu objetivo, mediante a prevenção e atenuação desses riscos. A Recomendação do CERS estabelece ainda que, quando seja designada como autoridade macroprudencial uma instituição única, sejam estabelecidos mecanismos de cooperação entre todas as autoridades cujos atos tenham impacto significativo na estabilidade financeira, sem prejuízo dos respetivos mandatos. Adicionalmente, a Recomendação determina que as diretrizes dela constantes sejam acolhidas na legislação nacional de todos os Estados-Membros, devendo entrar em vigor até 1 de julho de 2013.
+
+No ordenamento jurídico português, as funções de autoridade macroprudencial nacional são exercidas pelo Banco de Portugal, conforme decorre da Lei n.º 5/98, de 31 de janeiro, alterada pelos Decretos-Leis n.os 118/2001, de 17 de abril, 50/2004, de 10 de março, 39/2007, de 20 de fevereiro, e 31-A/2012, de 10 de fevereiro, sendo-lhe atribuídas as funções da condução da política macroprudencial, isto é, a identificação, acompanhamento e avaliação dos riscos para a estabilidade financeira, a identificação dos instrumentos a operacionalizar e a execução da política macroprudencial, designadamente através da emissão de recomendações ou alertas.
+
+Porém, os mandatos da Comissão do Mercado de Valores Mobiliários e do Instituto de Seguros de Portugal, designadamente em matéria de supervisão microprudencial, bem como as responsabilidades do Ministério das Finanças, em particular num contexto de gestão de crises, recomendam que o modelo institucional para a política macroprudencial seja capaz de traduzir um equilíbrio adequado entre as diversas responsabilidades institucionais, aproveitando, ao mesmo tempo, a capacidade e a experiência específicas de cada uma das autoridades de supervisão microprudencial.
+
+Assim, atendendo à significativa interação que existe entre as componentes macro e micro da regulação e da supervisão financeiras, o presente decreto-lei vem ampliar as funções do CNSF, atribuindo-lhe expressamente funções consultivas para com o Banco de Portugal no contexto da definição e execução da política macroprudencial para o sistema financeiro nacional.
+
+No exercício de tais funções consultivas, o CNSF deve reunir com vista a contribuir para a identificação, acompanhamento e avaliação dos riscos para a estabilidade do sistema financeiro e analisar propostas concretas de política macroprudencial, com o objetivo, nomeadamente, de mitigar ou reduzir os riscos sistémicos, com vista a reforçar a estabilidade do sistema financeiro, sem prejuízo da possibilidade de tomar a iniciativa de emitir pareceres ou formular recomendações concretas sobre quaisquer assuntos da sua competência.
+
+Importa assegurar que existem mecanismos adequados e eficazes de troca de informação entre as autoridades de supervisão, para que o Banco de Portugal realize uma análise e avaliação adequadas dos riscos e das interdependências do setor financeiro. Por outro lado, as autoridades de supervisão devem prestar a colaboração e assistência que seja solicitada pelo CNSF com vista à prossecução das suas funções.
+
+De referir ainda que, por força da atribuição destas novas funções ao CNSF, este Conselho passará a reunir com uma composição diferenciada consoante estejam em causa matérias relacionadas com a supervisão micro ou macroprudencial, uma vez que, no exercício das suas funções consultivas para com o Banco de Portugal, enquanto autoridade macroprudencial nacional, deverão participar como observadores nas reuniões do Conselho, sem direito de voto, um representante do membro do Governo responsável pela área das finanças e o membro do conselho de administração do Banco de Portugal com o pelouro da política macroprudencial.
+
+Por outro lado, o presente decreto-lei vem prever que a súmula das deliberações do Conselho em matéria macroprudencial seja enviada ao membro do Governo responsável pela área das finanças.
+
+Foi ouvido o Banco Central Europeu, o Banco de Portugal e o Conselho Nacional de Supervisores Financeiros.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à segunda alteração ao Decreto-Lei n.º 228/2000, de 23 de setembro, alterado pelo Decreto-Lei n.º 211-A/2008, de 3 de novembro, que cria o Conselho Nacional de Supervisores Financeiros.
+
+###### Artigo 2.º — Alteração ao Decreto-Lei n.º 228/2000, de 23 de setembro
+
+Os artigos 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 9.º e 10.º do Decreto-Lei n.º 228/2000, de 23 de setembro, alterado pelo Decreto-Lei n.º 211-A/2008, de 3 de novembro, passam a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+1 - O Conselho exerce funções de coordenação entre as autoridades de supervisão do sistema financeiro no exercício das respetivas competências de regulação e supervisão das entidades e atividades financeiras e assume funções consultivas para com o Banco de Portugal, enquanto autoridade macroprudencial nacional, no contexto da definição e execução da política macroprudencial para o sistema financeiro nacional.
+
+2 - No exercício de funções de coordenação em matéria de regulação e supervisão das entidades e atividades financeiras, compete ao Conselho:
+
+a) [Anterior alínea a) do n.º 1];
+
+b) [Anterior alínea b) do n.º 1];
+
+c) [Anterior alínea c) do n.º 1];
+
+d) [Anterior alínea d) do n.º 1];
+
+e) [Anterior alínea e) do n.º 1];
+
+f) [Anterior alínea f) do n.º 1];
+
+g) [Anterior alínea g) do n.º 1];
+
+h) [Anterior alínea h) do n.º 1];
+
+i) [Anterior alínea i) do n.º 1];
+
+j) [Anterior alínea j) do n.º 1].
+
+3 - No exercício de funções consultivas para com a autoridade macroprudencial nacional, compete designadamente ao Conselho:
+
+a) Contribuir para a identificação, acompanhamento e avaliação dos riscos para a estabilidade do sistema financeiro;
+
+b) Analisar propostas concretas de política macroprudencial, com o objetivo, nomeadamente, de mitigar ou reduzir os riscos sistémicos, com vista a reforçar a estabilidade do sistema financeiro.
+
+4 - Para efeitos do exercício das funções previstas no número anterior, o Conselho define mecanismos adequados e eficazes de troca de informação entre as autoridades de supervisão, de forma a permitir realizar uma análise e avaliação adequadas e atempadas dos riscos e das interdependências do sistema financeiro.
+
+5 - As autoridades de supervisão prestam a colaboração e assistência que seja solicitada pelo Conselho com vista à prossecução das suas funções.
+
+6 - Para efeitos do disposto no n.º 3, o Conselho emite o seu parecer num prazo razoável, podendo, em casos excecionais justificados por razões de estabilidade financeira, esse parecer ser emitido no prazo definido pela autoridade macroprudencial nacional.
+
+7 - [Anterior n.º 3].
+
+8 - O Conselho elabora um relatório anual de atividades, que é enviado ao membro do Governo responsável pela área das finanças e publicado até ao dia 31 de março de cada ano.
+
+Artigo 3.º
+
+[...]
+
+Para efeitos do disposto no presente decreto-lei, são considerados:
+
+a) Autoridades de supervisão do sistema financeiro, as autoridades nacionais a quem compete, em Portugal, a supervisão:
+
+i) [...];
+
+ii) [...];
+
+iii) [...];
+
+b) Entidades e atividades financeiras, as entidades e atividades sujeitas à regulação e supervisão das autoridades identificadas na alínea anterior;
+
+c) Conglomerados financeiros, grupos de empresas que abranjam, simultaneamente, entidades sujeitas a supervisão do Banco de Portugal e do Instituto de Seguros de Portugal.
+
+Artigo 4.º
+
+[...]
+
+1 - [...].
+
+2 - No exercício das funções previstas no n.º 3 do artigo 2.º, participam como observadores nas reuniões do Conselho, sem direito de voto, um representante do membro do Governo responsável pela área das finanças e o membro do conselho de administração do Banco de Portugal com o pelouro da política macroprudencial.
+
+3 - O representante do membro do Governo responsável pela área das finanças encontra-se sujeito ao dever legal de segredo sobre todos os assuntos de que tenha tomado conhecimento ou que lhe tenham sido confiados no exercício das suas funções.
+
+4 - Na ausência ou impedimento do presidente, os trabalhos são coordenados por um dos restantes membros do Conselho, que servirá de suplente.
+
+5 - As funções de suplente, a que se refere o número anterior, são exercidas rotativamente, por períodos de um ano, coincidentes com o ano civil.
+
+6 - Em caso de ausência, por motivos justificados, os membros permanentes referidos nas alíneas b), c) e d) do n.º 1 podem fazer-se representar pelos substitutos legais ou estatutários, os quais têm todos os direitos e obrigações dos representados.
+
+7 - Podem ser convidados a participar nos trabalhos do Conselho outras entidades públicas ou privadas, designadamente representantes do Fundo de Garantia de Depósitos, do Fundo de Garantia do Crédito Agrícola Mútuo, do Sistema de Indemnização aos Investidores, do Fundo de Resolução, das entidades gestoras de mercados regulamentados, das contrapartes centrais e das entidades gestoras de sistemas de liquidação, de associações representativas de quaisquer categorias de instituições sujeitas a supervisão, bem como individualidades pertencentes ao universo académico ou outros peritos nas matérias objeto da atividade do Conselho.
+
+Artigo 6.º
+
+[...]
+
+1 - As deliberações do Conselho são objeto de uma súmula, que deve ser apresentada, para informação, em sessão do órgão de administração de cada uma das autoridades de supervisão do sistema financeiro representadas.
+
+2 - Em matéria macroprudencial, a súmula referida no número anterior é enviada ao membro do Governo responsável pela área das finanças.
+
+3 - As deliberações consensuais do Conselho que não contenham elementos sujeitos por lei a sigilo podem ser levadas ao conhecimento de quaisquer entidades do setor público ou privado, bem como do público em geral, se tal for consensualmente considerado conveniente.
+
+4 - As reuniões do Conselho podem realizar-se através do recurso a meios telemáticos, desde que com o consentimento prévio de todos os seus membros.
+
+Artigo 7.º
+
+[...]
+
+1 - O membro do Governo responsável pela área das finanças e o governador do Banco de Portugal, este em representação do Banco enquanto autoridade responsável pela estabilidade do sistema financeiro nacional, podem solicitar pareceres ao Conselho ou enviar-lhe comunicações sobre quaisquer assuntos do seu âmbito de atribuições.
+
+2 - O Conselho pode tomar a iniciativa de emitir pareceres ou formular recomendações concretas sobre quaisquer assuntos do seu âmbito de atribuições.
+
+3 - No exercício das suas funções consultivas no plano macroprudencial, o Conselho emite pareceres não vinculativos dirigidos ao Banco de Portugal, enquanto autoridade macroprudencial nacional.
+
+4 - Os representantes das autoridades de supervisão do sistema financeiro podem tomar a iniciativa de submeter ao Conselho quaisquer assuntos da sua competência que sejam suscetíveis de afetar a estabilidade do sistema financeiro.
+
+Artigo 8.º
+
+[...]
+
+1 - As sessões têm uma periodicidade mínima trimestral, devendo realizar-se em separado, de acordo com uma ordem de trabalhos específica, as sessões que tenham como objeto o exercício das suas atribuições previstas nos n.os 2 e 3 do artigo 2.º
+
+2 - A data das sessões é marcada pelo presidente do Conselho com uma antecedência mínima de 15 dias.
+
+3 - [Anterior n.º 2].
+
+Artigo 9.º
+
+[...]
+
+1 - [Anterior corpo do artigo].
+
+2 - O Banco de Portugal assegura o secretariado indispensável ao bom funcionamento do Conselho.
+
+Artigo 10.º
+
+[...]
+
+Os membros do Conselho e os observadores referidos no n.º 2 do artigo 4.º, bem como todas as outras pessoas que com eles colaborem, ficam sujeitos ao dever de segredo, relativamente a todas as matérias de que tomem conhecimento no exercício das funções previstas no presente decreto-lei, nos termos previstos na lei que lhes seja aplicável.»
+
+###### Artigo 3.º — Norma revogatória
+
+É revogado o artigo 5.º do Decreto-Lei n.º 228/2000, de 23 de setembro, alterado pelo Decreto-Lei n.º 211-A/2008, de 3 de novembro.
+
+###### Artigo 4.º — Republicação
+
+É republicado no anexo ao presente decreto-lei, do qual faz parte integrante, o Decreto-Lei n.º 228/2000, de 23 de setembro, com a redação atual.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de setembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque.
+
+Promulgado em 15 de outubro de 2013.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 17 de outubro de 2013.
+
+Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
+
+## ANEXO — (a que se refere o artigo 4.º)
+
+Republicação do Decreto-Lei n.º 228/2000, de 23 de setembro
+
+###### Artigo 1.º — Criação
+
+É criado o Conselho Nacional de Supervisores Financeiros (CNSF), adiante designado por Conselho, com as finalidades a seguir definidas, sem prejuízo das competências e autonomia das diferentes autoridades que o compõem.
+
+###### Artigo 2.º — Competência
+
+1 - O Conselho exerce funções de coordenação entre as autoridades de supervisão do sistema financeiro no exercício das respetivas competências de regulação e supervisão das entidades e atividades financeiras e assume funções consultivas para com o Banco de Portugal, enquanto autoridade macroprudencial nacional, no contexto da definição e execução da política macroprudencial para o sistema financeiro nacional.
+
+2 - No exercício de funções de coordenação em matéria de regulação e supervisão das entidades e atividades financeiras, compete ao Conselho:
+
+a) Coordenar a atuação das autoridades de supervisão do sistema financeiro (autoridades de supervisão);
+
+b) Coordenar o intercâmbio de informações entre autoridades de supervisão;
+
+c) Coordenar a realização conjunta de ações de supervisão presencial junto das entidades supervisionadas;
+
+d) Desenvolver regras e mecanismos de supervisão de conglomerados financeiros;
+
+e) Formular propostas de regulamentação em matérias conexas com a esfera de atuação de mais de uma das autoridades de supervisão;
+
+f) Emitir pareceres e formular recomendações concretas no âmbito das respetivas competências, nos termos do artigo 7.º;
+
+g) Coordenar a atuação conjunta das autoridades de supervisão junto quer de entidades nacionais, quer de entidades estrangeiras ou organizações internacionais;
+
+h) Acompanhar e avaliar os desenvolvimentos em matéria de estabilidade financeira, assegurar a troca de informação relevante neste domínio entre as autoridades de supervisão, estabelecendo os mecanismos adequados para o efeito, e decidir atuações coordenadas no âmbito das respetivas competências;
+
+i) Realizar quaisquer ações que, consensualmente, sejam consideradas, pelos seus membros, adequadas às finalidades indicadas nas alíneas anteriores e que estejam compreendidas na esfera de competências de qualquer das autoridades de supervisão;
+
+j) Elaborar as linhas de orientação estratégica da atividade do Conselho.
+
+3 - No exercício de funções consultivas para com a autoridade macroprudencial nacional, compete designadamente ao Conselho:
+
+a) Contribuir para a identificação, acompanhamento e avaliação dos riscos para a estabilidade do sistema financeiro;
+
+b) Analisar propostas concretas de política macroprudencial, com o objetivo, nomeadamente, de mitigar ou reduzir os riscos sistémicos, com vista a reforçar a estabilidade do sistema financeiro.
+
+4 - Para efeitos do exercício das funções previstas no número anterior, o Conselho define mecanismos adequados e eficazes de troca de informação entre as autoridades de supervisão, de forma a permitir realizar uma análise e avaliação adequadas e atempadas dos riscos e das interdependências do sistema financeiro.
+
+5 - As autoridades de supervisão prestam a colaboração e assistência que seja solicitada pelo Conselho com vista à prossecução das suas funções.
+
+6 - Para efeitos do disposto no n.º 3, o Conselho emite o seu parecer num prazo razoável, podendo, em casos excecionais justificados por razões de estabilidade financeira, esse parecer ser emitido no prazo definido pela autoridade macroprudencial nacional.
+
+7 - As informações trocadas ao abrigo dos números anteriores estão abrangidas pelo dever de segredo que vincula legalmente as pessoas e entidades aí identificadas.
+
+8 - O Conselho elabora um relatório anual de atividades, que é enviado ao membro do Governo responsável pela área das finanças e publicado até ao dia 31 de março de cada ano.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do disposto no presente decreto-lei, são considerados:
+
+a) Autoridades de supervisão do sistema financeiro, as autoridades nacionais a quem compete, em Portugal, a supervisão:
+
+i) Das instituições de crédito e sociedades financeiras, incluindo as empresas de investimento, na aceção do Regime Geral das Instituições de Crédito e Sociedades Financeiras;
+
+ii) Da atividade seguradora, resseguradora e de intermediação de seguros, das empresas conexas ou complementares daquelas e das atividades dos fundos de pensões;
+
+iii) Do mercado de valores mobiliários;
+
+b) Entidades e atividades financeiras, as entidades e atividades sujeitas à regulação e supervisão das autoridades identificadas na alínea anterior;
+
+c) Conglomerados financeiros, grupos de empresas que abranjam, simultaneamente, entidades sujeitas a supervisão do Banco de Portugal e do Instituto de Seguros de Portugal.
+
+###### Artigo 4.º — Composição
+
+1 - São membros permanentes do Conselho:
+
+a) O governador do Banco de Portugal, que preside;
+
+b) O membro do conselho de administração do Banco de Portugal com o pelouro da supervisão das instituições de crédito e das sociedades financeiras;
+
+c) O presidente do Instituto de Seguros de Portugal;
+
+d) O presidente da Comissão do Mercado de Valores Mobiliários.
+
+2 - No exercício das funções previstas no n.º 3 do artigo 2.º, participam como observadores nas reuniões do Conselho, sem direito de voto, um representante do membro do Governo responsável pela área das finanças e o membro do conselho de administração do Banco de Portugal com o pelouro da política macroprudencial.
+
+3 - O representante do membro do Governo responsável pela área das finanças encontra-se sujeito ao dever legal de segredo sobre todos os assuntos de que tenha tomado conhecimento ou que lhe tenham sido confiados no exercício das suas funções.
+
+4 - Na ausência ou impedimento do presidente, os trabalhos são coordenados por um dos restantes membros do Conselho, que servirá de suplente.
+
+5 - As funções de suplente, a que se refere o número anterior, são exercidas rotativamente, por períodos de um ano, coincidentes com o ano civil.
+
+6 - Em caso de ausência, por motivos justificados, os membros permanentes referidos nas alíneas b), c) e d) do n.º 1 podem fazer-se representar pelos substitutos legais ou estatutários, os quais têm todos os direitos e obrigações dos representados.
+
+7 - Podem ser convidados a participar nos trabalhos do Conselho outras entidades públicas ou privadas, designadamente representantes do Fundo de Garantia de Depósitos, do Fundo de Garantia do Crédito Agrícola Mútuo, do Sistema de Indemnização aos Investidores, do Fundo de Resolução, das entidades gestoras de mercados regulamentados, das contrapartes centrais e das entidades gestoras de sistemas de liquidação, de associações representativas de quaisquer categorias de instituições sujeitas a supervisão, bem como individualidades pertencentes ao universo académico ou outros peritos nas matérias objeto da atividade do Conselho.
+
+###### Artigo 5.º — [Revogado]
+
+###### Artigo 6.º — Deliberações
+
+1 - As deliberações do Conselho são objeto de uma súmula, que deve ser apresentada, para informação, em sessão do órgão de administração de cada uma das autoridades de supervisão do sistema financeiro representadas.
+
+2 - Em matéria macroprudencial, a súmula referida no número anterior é enviada ao membro do Governo responsável pela área das finanças.
+
+3 - As deliberações consensuais do Conselho que não contenham elementos sujeitos por lei a sigilo podem ser levadas ao conhecimento de quaisquer entidades do setor público ou privado, bem como do público em geral, se tal for consensualmente considerado conveniente.
+
+4 - As reuniões do Conselho podem realizar-se através do recurso a meios telemáticos, desde que com o consentimento prévio de todos os seus membros.
+
+###### Artigo 7.º — Pareceres e recomendações
+
+1 - O membro do Governo responsável pela área das finanças e o governador do Banco de Portugal, este em representação do Banco enquanto autoridade responsável pela estabilidade do sistema financeiro nacional, podem solicitar pareceres ao Conselho ou enviar-lhe comunicações sobre quaisquer assuntos do seu âmbito de atribuições.
+
+2 - O Conselho pode tomar a iniciativa de emitir pareceres ou formular recomendações concretas sobre quaisquer assuntos do seu âmbito de atribuições.
+
+3 - No exercício das suas funções consultivas no plano macroprudencial, o Conselho emite pareceres não vinculativos dirigidos ao Banco de Portugal, enquanto autoridade macroprudencial nacional.
+
+4 - Os representantes das autoridades de supervisão do sistema financeiro podem tomar a iniciativa de submeter ao Conselho quaisquer assuntos da sua competência que sejam suscetíveis de afetar a estabilidade do sistema financeiro.
+
+###### Artigo 8.º — Sessões
+
+1 - As sessões têm uma periodicidade mínima trimestral, devendo realizar-se em separado, de acordo com uma ordem de trabalhos específica, as sessões que tenham como objeto o exercício das suas atribuições previstas nos n.os 2 e 3 do artigo 2.º
+
+2 - A data das sessões é marcada pelo presidente do Conselho com uma antecedência mínima de 15 dias.
+
+3 - Podem ser realizadas sessões extraordinárias em qualquer momento por iniciativa do presidente ou mediante solicitação de qualquer dos restantes membros permanentes do Conselho, sem a antecedência referida no número anterior.
+
+###### Artigo 9.º — Apoio técnico
+
+1 - Mediante prévio acordo entre os membros do Conselho, os mesmos podem fazer-se acompanhar por colaboradores, que terão o estatuto de observadores, ou determinar a criação de grupos de trabalho para o estudo de questões comuns às autoridades que integram o Conselho.
+
+2 - O Banco de Portugal assegura o secretariado indispensável ao bom funcionamento do Conselho.
+
+###### Artigo 10.º — Dever de segredo
+
+Os membros do Conselho e os observadores referidos no n.º 2 do artigo 4.º, bem como todas as outras pessoas que com eles colaborem, ficam sujeitos ao dever de segredo, relativamente a todas as matérias de que tomem conhecimento no exercício das funções previstas no presente decreto-lei, nos termos previstos na lei que lhes seja aplicável.
+
+###### Artigo 11.º — Entrada em vigor
+
+Este diploma entra em vigor no dia imediato ao da respetiva publicação.

@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:271981:por
+title: Decreto n.º 48379
+short_title: null
+summary: Autoriza as repartições da Direcção-Geral da Contabilidade Pública junto de vários Ministérios e o Centro Nacional
+  da Gripe a mandarem satisfazer diversas quantias em conta da verba de despesas de anos económicos findos inscrita nos orçamentos
+  do actual ano económico - Autoriza igualmente a 9.ª Repartição da referida Direcção-Geral a mandar satisfazer uma quantia
+  com o encargo proveniente das despesas com a recepção, manutenção e colocação dos indivíduos nacionais que residiam na Índia
+  Portuguesa, do ano de 1967
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '48379'
+official_date: null
+publication_date: '1968-05-11'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 113/1968, Série I de 1968-05-11
+  number: '113'
+  series: I
+  supplement: null
+  pages: 695 - 696
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/05/11300/06950696.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '271981'
+  dre_path: /dr/detalhe/decreto/48379-1968-271981
+  internal: pt:dre:271981:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48379-1968-271981
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48379-1968-271981
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 984644c903e974f7385e569fb08d4c7b02cf8884035c6d80ef3df594d5d740e2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570080:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:02:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48379
+
+Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, e mediante propostas aprovadas pelo Ministro das Finanças, nos termos do mesmo artigo;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São autorizadas as repartições da Direcção Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+
+Encargos Gerais da Nação
+
+Encargos dos anos de 1963, 1964, 1965, 1966 e 1967 respeitantes a vencimentos, ajudas de custo, subsídio eventual de custo de vida, gratificações, pensão de invalidez, pertencentes ao Secretariado Nacional da Informação, Cultura Popular e Turismo, conselhos administrativos das Bases Aéreas n.os 3, 4 e 7, Direcção do Serviço de Intendência e Contabilidade da Força Aérea, Comando da 1.ª Região Aérea e Regimento de Caçadores Pára-Quedistas ... 22816$70
+
+Ministério das Finanças
+
+Despesas resultantes dos juros vencidos no período compreendido entre 5 de Novembro de 1964 e 25 de Novembro de 1967 respeitantes à Guarda Fiscal ... 19279$80
+
+Ministério do Interior
+
+Encargo resultante da indemnização arbitrada pelo Tribunal da Relação do Porto, por acidente de viação ocorrido em 15 de Dezembro de 1962, a liquidar pela Guarda Nacional Republicana ... 92523$00
+
+Ministério da Justiça
+
+Encargos dos anos de 1966 e 1967 referentes a vencimentos, gratificações, ajudas de custo, subsídios de residência e de alimentação, e a magistrados do Ministério Público, serviços clínicos e de hospitalização, alimentação, vestuário e calçado, transportes de matérias para análises toxicológicas, e requisitados nos termos do [Decreto n.º 8023](https://diariodarepublica.pt/dr/detalhe/decreto/8023-1922-570080), contraídos pelas Direcções-Gerais dos Serviços Prisionais e da Justiça, Instituto de Medicina Legal de Coimbra, Subinspecção do Funchal da Polícia Judiciária, Prisão-Hospital de S. João de Deus, Cadeia do Forte de Peniche, Instituto de Reeducação de S. Bernardino e Ministério Público nas comarcas ... 200214$60
+
+Despesas do ano de 1967 respeitantes a aquisições de móveis, conservação de imóveis e de móveis, conservação de veículos com motor, artigos de expediente, impressos, transportes, força motriz, luz, aquecimento, água, lavagem e limpeza, correios e telégrafos, telefones, transportes de matérias, remunerações por horas extraordinárias, gratificações aos serventuários do necrotério, alimentação, vestuário e calçado, pertencentes à Subinspecção do Funchal da Polícia Judiciária, Institutos de Medicina Legal de Lisboa, Porto e Coimbra, Relação de Lisboa, Direcção dos Serviços de Identificação, Direcções-Gerais da Justiça, dos Serviços Tutelares de Menores e dos Serviços Prisionais, Cadeias Penitenciária de Lisboa e do Forte de Peniche, Directoria e Subdirectoria de Lisboa da Polícia Judiciária, Prisão-Hospital de S. João de Deus, Procuradoria-Geral da República e Secretaria-Geral do Ministério ... 337412$10
+
+... 537626$70
+
+Ministério dos Negócios Estrangeiros
+
+Encargos diversos do Ministério referentes aos anos de 1955, 1958 e 1963 a 1966 ... 11558156$20
+
+Ministério das Obras Públicas
+
+Encargos dos anos de 1966 e 1967 referentes a ajudas de custo, subsídios de marcha, conservação de veículos com motor, pagamento de serviços e encargos não especificados, rendas de casa, pertencentes, respectivamente, à Direcção-Geral dos Serviços Hidráulicos e Secretaria-Geral do Ministério ... 54823$60
+
+Transportes do ano de 1966 da Direcção-Geral dos Serviços Hidráulicos, a liquidar na seguinte conformidade:
+
+Pela verba de anos económicos findos ... 26065$70
+
+Despesas a reembolsar ... 1358$90
+
+Despesas extraordinárias ... 10992$40
+
+... 38417$00
+
+... 93240$60
+
+Ministério do Ultramar
+
+Despesas do ano de 1967 referentes a luz, aquecimento, água, lavagem e limpeza contraídas pelo Instituto Superior de Ciências Sociais e Política Ultramarina ... 18496$20
+
+Ministério da Educação Nacional
+
+Encargos do ano de 1967 referentes a vencimentos e telefones contraídos pelo Instituto Nacional de Educação Física e Liceus de Portalegre e Viana do Castelo ... 18494$90
+
+Encargo do ano de 1967 respeitante a aquisições de móveis da Direcção do Distrito Escolar de Beja ... 108$60
+
+... 18603$50
+
+Ministério das Comunicações
+
+Despesas do ano de 1967 referentes a luz, aquecimento, água, lavagem, limpeza e telefones pertencentes à Secretaria-Geral do Ministério e Conselho Superior dos Transportes Terrestres ... 2052$40
+
+Ministério das Corporações e Previdência Social
+
+Encargo do ano de 1966 referente a transportes da Inspecção do Trabalho ... 1143$30
+
+Art. 2.º É autorizada a 9.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer em conta da dotação descrita no capítulo 19.º, artigo 128.º, n.º 2) «Despesa extraordinária», do actual orçamento do Ministério do Ultramar o encargo de 278985$60, proveniente das despesas com a recepção, manutenção e colocação dos indivíduos nacionais que residiam na Índia Portuguesa, do ano de 1967.
+
+Art. 3.º Fica igualmente autorizado o Centro Nacional da Gripe a satisfazer, em conta da verba de despesas de anos económicos findos, inscrita no seu actual orçamento privativo, a quantia de 2300$00, respeitante à gratificação de um director e ao vencimento de um preparador.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 11 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

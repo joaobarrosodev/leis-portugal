@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:1246549:por
+title: Portaria n.º 386/2013
+short_title: null
+summary: Classifica como sítio de interesse público o Complexo Mineiro do Vale Superior do Rio Terva (núcleos de Poço das
+  Freitas, Batocas e Brejo), nas freguesias de Ardãos e Bobadela, concelho de Boticas, distrito de Vila Real, e fixa a zona
+  especial de proteção do referido sítio
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Secretário de Estado da Cultura
+proposing_entity: null
+official_number: 386/2013
+official_date: null
+publication_date: '2013-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/2013, Série II de 2013-06-18
+  number: '115'
+  series: II
+  supplement: null
+  pages: 19368 - 19369
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/06/115000000/1936819369.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1246549'
+  dre_path: /dr/detalhe/portaria/386-2013-1246549
+  internal: pt:dre:1246549:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/386-2013-1246549
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/386-2013-1246549
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:39:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e3cca00ceb6da129056d2f4dd1e18c792df47dc1d9cc50b35a7af7943f921657
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:39:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Boticas
+- Imóvel Classificado
+- Interesse Público
+- Protecção do Património
+- Vila Real
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:39:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 386/2013
+
+O Complexo Mineiro do Vale Superior do Rio Terva corresponde a um dos mais notáveis e extensos complexos mineiros romanos em território nacional. Situado nas imediações da estrada romana que ligava Chaves a Braga, a sua considerável área estrutura-se em três núcleos: a ampla cratera do Poço das Freitas, no limite sul do conjunto, constituindo o mais importante ponto de extração do ouro, e as minas de Batocas e do Brejo. A exploração aurífera poderá remontar à proto-história, sendo no período romano (séculos I a IV) que assume particular importância, ainda hoje atestada pela radical transformação da paisagem e da topografia então operada. Embora tenha sido provavelmente abandonado na Alta Idade Média, o conjunto mineiro encontra-se ainda citado em documentação do século XVIII.
+
+Estão identificadas, nos três núcleos, diversos cortes de extração do ouro a céu aberto, bem como algumas galerias auxiliares. Regista-se igualmente a profusão de sítios arqueológicos identificados na área, com cronologias desde o Calcolítico até à Idade Moderna, testemunhando uma longa ocupação humana relacionada com a exploração aurífera no concelho de Boticas. Destacam-se, neste contexto, os povoados situados junto das principais zonas de mineração, como o habitat do Carregal, revelado pelo espólio de superfície encontrado imediatamente abaixo do Poço das Freitas.
+
+Seja pela grandiosidade e estado de conservação das suas várias estruturas, seja pelas características únicas de autenticidade, originalidade e monumentalidade que detém, de resto sem paralelo regional, este conjunto constitui um dos mais importantes complexos mineiros antigos nacionais e uma estrutura notável no âmbito dos processos de indústria extrativa da Antiguidade, afirmando-se pela tipologia da exploração, pela amplitude e pela qualidade do seu enquadramento e envolvente paisagística.
+
+A classificação do Complexo Mineiro do Vale Superior do Rio Terva reflete os critérios constantes do artigo 17.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, relativos ao valor técnico e material intrínseco do bem, à sua conceção arquitetónica, urbanística e paisagística, à sua importância do ponto de vista da investigação histórica ou científica e às circunstâncias suscetíveis de acarretarem diminuição ou perda da sua perenidade ou integridade.
+
+Tendo em vista a necessidade de manter o sítio como testemunho de vivências e do que representa para a memória coletiva, e nos termos da alínea c) do n.º 1 do artigo 54.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelos Decretos-Leis n.º 115/2011, de 5 de dezembro, e n.º 265/2012, de 28 de dezembro, é fixada uma restrição quanto ao tipo de procedimento de salvaguarda de carácter preventivo.
+
+A zona especial de proteção (ZEP) inclui os três núcleos (Batocas, Poços das Freitas e Brejo), tendo em consideração a paisagem envolvente e os seus limites físicos e geográficos, e a sua fixação visa salvaguardar enquadramento presente do sítio. É igualmente fixada uma restrição quanto ao tipo de procedimento de salvaguarda de carácter preventivo.
+
+Procedeu-se à audiência escrita dos interessados, nos termos gerais do artigo 101.º do Código do Procedimento Administrativo e de acordo com o previsto nos artigos 25.º e 45.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelos Decretos-Leis n.º 115/2011, de 5 de dezembro, e n.º 265/2012, de 28 de dezembro.
+
+Foi igualmente promovida a audiência prévia da Câmara Municipal de Boticas.
+
+Assim:
+
+Sob proposta dos serviços competentes, nos termos do disposto no artigo 15.º, no n.º 1 do artigo 18.º, no n.º 2 do artigo 28.º e no artigo 43.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, conjugado com o disposto no n.º 2 do artigo 30.º e no n.º 1 do artigo 48.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelos Decretos-Leis n.º 115/2011, de 5 de dezembro, e n.º 265/2012, de 28 de dezembro, e no uso das competências conferidas pelo n.º 11 do artigo 10.º do [Decreto-Lei n.º 86-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2011-622306), de 12 de julho, manda o Governo, pelo Secretário de Estado da Cultura, o seguinte:
+
+###### Artigo 1.º — Classificação
+
+1 - É classificado como sítio de interesse público o Complexo Mineiro do Vale Superior do Rio Terva (núcleos de Poço das Freitas, Batocas e Brejo), nas freguesias de Ardãos e Bobadela, concelho de Boticas, distrito de Vila Real, conforme planta constante do anexo à presente portaria, da qual faz parte integrante.
+
+2 - Nos termos da alínea c) do n.º 1 do artigo 54.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelos Decretos-Lei n.º 115/2011, de 5 de dezembro, e n.º 265/2012, de 28 de dezembro, qualquer intervenção no solo carece de parecer prévio da administração cultural competente, que determinará as medidas de proteção e valorização do sítio.
+
+###### Artigo 2.º — Zona especial de proteção
+
+1 - É fixada a zona especial de proteção do sítio referido no artigo anterior, conforme planta constante do anexo à presente portaria, da qual é parte integrante.
+
+2 - Nos termos da alínea b) do n.º 1 do artigo 43.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelos Decretos-Leis n.º 115/2011, de 5 de dezembro, e n.º 265/2012, de 28 de dezembro, qualquer ação que implique o revolvimento do solo deve ser objeto de intervenção arqueológica nos termos da lei.
+
+5 de junho de 2013. - O Secretário de Estado da Cultura, Jorge Barreto Xavier.
+
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2013/06/115000000/1936819369.pdf)
+
+13752013

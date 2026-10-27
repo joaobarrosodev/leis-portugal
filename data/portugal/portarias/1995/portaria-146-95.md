@@ -1,0 +1,130 @@
+---
+schema_version: '1.0'
+id: pt:dre:197693:por
+title: Portaria n.º 146/95
+short_title: null
+summary: Cria no quadro de pessoal não docente do Instituto Superior de Agronomia um lugar de auxiliar técnico administrativo,
+  a extinguir quando vagar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Educação
+proposing_entity: null
+official_number: 146/95
+official_date: null
+publication_date: '1995-02-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 38/1995, Série I-B de 1995-02-14
+  number: '38'
+  series: I
+  supplement: null
+  pages: 954 - 954
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/02/038b00/09540954.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/146/1995/02/14/p/dre/pt/html
+  oj: null
+  dre: '197693'
+  dre_path: /dr/detalhe/portaria/146-1995-197693
+  internal: pt:dre:197693:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/146-1995-197693
+  metadata_url: https://data.dre.pt/eli/port/146/1995/02/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/146-1995-197693
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:54:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ea48f32871b3305b177c890b8f538e45418153ec2b3801de721cfd4138550b18
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:54:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Lugares
+- Instituto Superior de Agronomia
+- Pessoal Auxiliar
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:332911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626414:por
+  label: null
+  source: http://data.dre.pt/eli/port/251/1993/03/05/p/dre
+- type: cites
+  target: pt:dre:659555:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/35/1991/06/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:54:30Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 146/95
+
+de 14 de Fevereiro
+
+Considerando que um auxiliar técnico administrativo do quadro de pessoal não docente do Instituto Superior de Agronomia, a usufruir de licença sem vencimento de longa duração desde 8 de Fevereiro de 1990, pretende regressar à actividade, tendo, para tanto, requerido a sua integração no referido quadro;
+
+Considerando que, face ao disposto no n.º 1 do artigo 82.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, lhe assiste o direito de ocupar uma das vagas existentes ou a primeira da sua categoria que venha a ocorrer;
+
+Considerando que o quadro do Instituto Superior de Agronomia não dispõe nem virá a dispor de lugares na categoria de auxiliar técnico administrativo, pois todos se encontram providos e os que vagarem serão extintos e à requerente não pode ser negado o direito legalmente conferido;
+
+Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:
+
+Manda o Governo, pelos Ministros das Finanças e da Educação, que seja criado no quadro de pessoal não docente do Instituto Superior de Agronomia, aprovado pela [Portaria n.º 143/90](https://diariodarepublica.pt/dr/detalhe/portaria/143-1990-332911), de 21 de Fevereiro, com as alterações introduzidas através do [Decreto Regulamentar n.º 35/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1991-659555), de 20 de Junho, dos despachos reitorais de 19 de Julho de 1990, publicado no Diário da República, 2.ª série, n.º 176, de 1 de Agosto de 1990, de 9 de Julho de 1991, publicado no Diário da República, 2.ª série, n.º 214, 2.º suplemento, de 17 de Setembro de 1991, e rectificado no Diário da República, 2.ª série, n.º 290, 2.º suplemento, de 17 de Dezembro de 1991, 16/S.Ad./UTL/92, de 20 de Novembro de 1992, publicado no Diário da República, 2.ª série, n.º 288, de 15 de Dezembro de 1992, e rectificado no Diário da República, 2.ª série, n.º 44, suplemento, de 22 de Fevereiro de 1993, da [Portaria n.º 251/93](https://diariodarepublica.pt/dr/detalhe/portaria/251-1993-626414), de 5 de Março, e do despacho 10/S.Ad./UTL/93, de 25 de Março de 1993, publicado no Diário da República, 2.ª série, n.º 98, de 27 de Abril de 1993, um lugar de auxiliar técnico administrativo, a extinguir quando vagar.
+
+Ministérios das Finanças e da Educação.
+
+Assinada em 23 de Janeiro de 1995.
+
+Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite.
+
+MAPA ANEXO
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/038b00/09540954.pdf)

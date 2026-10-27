@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:219163:por
+title: Resolução da Assembleia da República n.º 66/98
+short_title: null
+summary: Recentes acontecimentos em Timor Leste
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 66/98
+official_date: null
+publication_date: '1998-12-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 289/1998, Série I-A de 1998-12-16
+  number: '289'
+  series: I
+  supplement: null
+  pages: 6849 - 6850
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/12/289a00/68496850.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/66/1998/12/16/p/dre/pt/html
+  oj: null
+  dre: '219163'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/66-1998-219163
+  internal: pt:dre:219163:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/66-1998-219163
+  metadata_url: https://data.dre.pt/eli/resolassrep/66/1998/12/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/66-1998-219163
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:04:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: faae3609a0d590654b10f333fe61d3122c5806b50f41222d7bcac0fb4a02ff8b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:04:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia da República
+- Direitos do Homem
+- Indonésia
+- Liberdades Fundamentais
+- ONU
+- Portugal
+- Preso Político
+- Secretário Geral
+- Timor Leste
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:04:45Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 66/98
+
+Recentes acontecimentos em Timor Leste
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, o seguinte:
+
+1 - Manifestar mais uma vez a sua enorme admiração pela coragem com que o povo de Timor enfrenta todas as prepotências que lhe são impostas e continua lutando, sem hesitações, pelo seu legítimo direito à autodeterminação.
+
+2 - Denunciar a duplicidade com que a Indonésia simula, por um lado, empenhamento, perante as Nações Unidas e as grandes potências mundiais, na busca de soluções internacionalmente aceitáveis para o caso de Timor e, por outro, prende e tortura populações civis indefesas, não cumpre as promessas de retirada de tropas ou de libertação de prisioneiros, como claramente se testemunha nas recentes declarações do embaixador indonésio, delegado às negociações de Nova Iorque.
+
+3 - Reafirmar a determinação com que vem apoiando a luta do povo timorense pela autodeterminação, pela liberdade e pelo direito ao respeito à sua própria dignidade e afirmar, sem tibiezas, que essa luta só terminará quando se atingirem tais objectivos.
+
+4 - Afirmar, sem rodeios, que Portugal se mantém nas negociações, sob os auspícios do Secretário-Geral das Nações Unidas, da forma clara e leal que sempre adoptou, não por pretender melhorar as suas próprias relações com a Indonésia mas, única e exclusivamente, porque não desiste de lutar pelos direitos, pela dignidade e pela liberdade dos Timorenses.
+
+5 - Solicitar que o Secretário-Geral das Nações Unidas, no exercício das funções que lhe são próprias, e entre elas a de garante do respeito pelos direitos do homem, designe sem mais demoras, sob a forma que entender preferível, uma delegação permanente das Nações Unidas em Timor, com capacidade tanto para investigar situações passadas, como para impedir a ocorrência de outros atentados contra a Humanidade, como os que as forças de ocupação vêm cometendo impunemente, mau grado a condenação de todas as forças democráticas do mundo livre.
+
+6 - Solicitar ao Governo Português que, mais uma vez, torne claro que as negociações de Nova Iorque se destinam a encontrar uma solução internacionalmente aceitável e justa para Timor e não para melhorar o nível de relações entre Portugal e Indonésia.
+
+Aprovada em 2 de Dezembro de 1998.
+
+O Presidente da Assembleia da República, António de Almeida Santos.

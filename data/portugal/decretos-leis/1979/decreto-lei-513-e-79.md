@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:393781:por
+title: Decreto-Lei n.º 513-E/79
+short_title: null
+summary: Define o regime de instalação do jovem agricultor
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Agricultura e Pescas
+proposing_entity: null
+official_number: 513-E/79
+official_date: null
+publication_date: '1979-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 295/1979, 3º Suplemento, Série I de 1979-12-24
+  number: '295'
+  series: I
+  supplement: null
+  pages: 3334-(66) a 3334-(67)
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29503/00660067.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '393781'
+  dre_path: /dr/detalhe/decreto-lei/513-e-1979-393781
+  internal: pt:dre:393781:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-e-1979-393781
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-e-1979-393781
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:24:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 498c5eaa3905680b968dfcda10eaaef03b2cfa51b51f6bc1982cea5042e6be16
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agricultura
+- Exploração Agrícola
+- Jovem Agricultor
+- Política Agrícola
+relationships:
+- type: amended_by
+  target: pt:dre:518816:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:470624:por
+  label: "Alterados os nº 2 e 4 do art. 3º, a al. b) do nº 3 do art. 5º, os nº 1, 2 e 6 do art. 6º, o art. 10º e aditado um\
+    \ nº 4 ao art. 5º pela LEI.42/80.1980.08.13.AR, DR.IS [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-1980-470624
+  date: '1980-08-13'
+- type: repealed_by
+  target: pt:dre:177664:por
+  label: Revogado o art. 8.º pelo(a) Decreto-Lei n.º 417/85 - Diário da República n.º 240/1985, Série I de 1985-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/417-1985-177664
+  date: '1985-10-18'
+- type: repealed_by
+  target: pt:dre:518816:por
+  label: Revogado o presente diploma, ratificado com emendas pela Lei 42/80 de 13-ago, pelo(a) Decreto-Lei n.º 172-G/86 -
+    Diário da República n.º 147/1986, 1º Suplemento, Série I de 1986-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-g-1986-518816
+  date: '1986-06-30'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:24:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 513-E/79
+
+de 24 de Dezembro
+
+Entre as medidas que hoje assumem grande relevância para promover o desenvolvimento do sector agrícola e a dignificação do mundo rural, avultam as que visam facilitar o acesso dos jovens à empresa agrícola, respondendo, assim, às ansiedades e interrogações da juventude face ao seu futuro.
+
+Com efeito, o envelhecimento da população activa agrícola portuguesa, evidente sobretudo no grupo dos empresários agrícolas (cerca de 27% da população activa agrícola está compreendida no grupo etário até 35 anos, mas não representa mais do que 11% dos empresários agrícolas), pode comprometer o esforço de aumento da produção e da produtividade e, consequentemente, afectar a melhoria das condições de vida dos rurais com o risco de um desfasamento cada vez maior face ao meio urbano.
+
+Justifica-se, por isso, a criação de condições que possibilitem a preparação profissional e a integração na empresa agrícola, individual ou associativa, dos jovens que optem pela actividade agrícola.
+
+São, por isso, criados o subsídio e o crédito de instalação abertos aos jovens que pretendam estabelecer-se como agricultores, com base, designadamente, em património familiar.
+
+Dado que é pela sucessão hereditária que os jovens, mais usualmente, ascendem à responsabilidade da empresa agrícola, reconhece-se que seria útil estabelecer mecanismos, como uma reforma digna e antecipada, que incentivasse os pais a entregar aos filhos a responsabilidade de gestão; contudo, a complexidade das medidas legislativas e os avultados meios financeiros necessários para o efeito levam a que, por ora apenas fique registada tal preocupação, a ser estudada oportunamente.
+
+Finalmente, o processo de integração dos jovens na empresa agrícola virá empenhar mais vivamente os serviços do Ministério da Agricultura e Pescas, em especial os serviços regionais e os de extensão rural, aos quais competirão acções de apoio, acompanhamento, divulgação e formação junto dos agricultores e suas famílias.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - O jovem que, mediante um acordo familiar ou sob forma autónoma, pretenda vir a instalar-se individualmente como empresário agrícola, ou que já o esteja há menos de cinco anos, poderá obter os benefícios previstos no presente diploma.
+
+2 - Os jovens que se associem em agricultura de grupo, em cooperativa de produção ou noutra forma associativa, poderão, desde que todos os associados sejam jovens, igualmente recorrer ao mesmo regime.
+
+3 - Para os efeitos deste decreto-lei, considera-se jovem o indivíduo com idade inferior a 35 anos.
+
+Art. 2.º - 1 - O jovem que deseje instalar-se em empresa agrícola sem recorrer a acordo familiar terá de assegurar o acesso a uma exploração agrícola.
+
+2 - Se este acesso se verificar através de arrendamento, não poderá o respectivo contrato ser por prazo inferior ao da amortização do empréstimo que vier a contrair nos termos previstos no presente diploma.
+
+Art. 3.º - 1 - Para se candidatar aos benefícios previstos neste regime de instalação, o jovem terá de satisfazer as duas condições seguintes:
+
+a) Possuir qualificação profissional adequada;
+
+b) Apresentar um projecto de exploração agrícola economicamente viável, aprovado pelo respectivo serviço regional do Ministério da Agricultura e Pescas.
+
+2 - Considera-se qualificação profissional adequada a decorrente de cursos ou actividades de formação profissional de, pelo menos, quatrocentas horas, da responsabilidade do Ministério da Agricultura e Pescas, ou do Ministério de Educação através das explorações agrícolas dos estabelecimentos de ensino, bem como a de outros cursos que sejam considerados adequados para o efeito por estes dois Ministérios.
+
+3 - Durante os dois primeiros anos de vigência deste diploma poderão os serviços regionais do Ministério da Agricultura e Pescas ou o Ministério da Educação, através dos estabelecimentos de ensino com exploração agrícola, atestar a qualificação profissional adequada de um jovem, com base na sua capacidade prática empresarial e através de proposta subscrita por dois técnicos agrários do Ministério da Agricultura e Pescas ou pelo conselho técnico da exploração agrícola do estabelecimento de ensino.
+
+4 - A exploração agrícola será tida como economicamente viável desde que assegure ao jovem agricultor uma receita do empresário igual ou superior ao dobro da remuneração mínima garantida no sector da agricultura, silvicultura e pecuária, não podendo, no entanto, o número de unidades de trabalho assalariadas ultrapassar o das familiares.
+
+Art. 4.º Os jovens agricultores que queiram beneficiar do regime de instalação, nomeadamente da atribuição do subsídio de instalação e do acesso à linha especial de crédito, deverão dirigir-se aos serviços regionais do Ministério da Agricultura e Pescas, junto dos quais formularão os pedidos necessários.
+
+Art. 5.º No momento de solicitar a aplicação do regime de instalação, o jovem agricultor deverá apresentar:
+
+1 - Um projecto de exploração agrícola em que se descreva o estado actual da exploração e de que conste a explanação suficiente das transformações, se forem previstas;
+
+2 - Documentos comprovativos da sua qualificação profissional, segundo o disposto nos n.os 2 e 3 do artigo 3.º, ou da sua inscrição em cursos ou actividades formativas previstos no n.º 2 do mesmo artigo, com o compromisso, neste caso, de os concluir no prazo máximo de um ano;
+
+3 - a) Um acordo familiar, por escrito, de que constem as condições de acesso do jovem à posição de responsável pela exploração agrícola familiar, relativamente ao todo ou parte do património desta;
+
+b) No caso de arrendamento rural, cópia do respectivo contrato ou declaração por parte do arrendatário, sempre que a lei não exija contrato escrito;
+
+c) No caso de outras formas de acesso a bens fundiários, documento que assegure o respectivo direito de exploração.
+
+Art. 6.º - 1 - Poderá ser concedido pelo Estado aos jovens agricultores que o solicitarem um subsídio de instalação na empresa agrícola, que poderá atingir 200000$00, reembolsável ou não, o qual será coberto por verbas a inserir no orçamento do Ministério da Agricultura e Pescas.
+
+2 - A concessão do subsídio será escalonada ao longo de dezoito meses, pela forma seguinte:
+
+a) No momento inicial da concessão do subsídio, até 40% do total atribuído;
+
+b) Ao 6.º mês da concessão do subsídio, até 20% do total atribuído;
+
+c) Ao 12.º mês da concessão do subsídio, até 20% do total atribuído;
+
+d) Ao 18.º mês da concessão do subsídio, até 20% do total atribuído ou o remanescente.
+
+3 - No momento da concessão de cada escalão do subsídio, os serviços regionais do Ministério da Agricultura e Pescas informarão, com base em dados actuais da execução do projecto de exploração aprovado, se continuam ou não a verificar-se as condições que levaram à sua atribuição; em caso negativo, o subsídio deverá considerar-se suspenso.
+
+4 - A alteração do montante do subsídio de instalação será feita por portaria dos Ministros das Finanças e da Agricultura e Pescas, podendo a alteração comportar subsídios de montante diferenciado, conforme o grau de envelhecimento dos estratos etários das respectivas regiões.
+
+5 - Por portaria dos Ministros das Finanças e da Agricultura e Pescas serão fixadas as condições da atribuição de subsídios.
+
+6 - Para o ano de 1980 será fixada em 12000 contos a dotação orçamental a que se refere o n.º 1.
+
+Art. 7.º - 1 - A concessão do subsídio de instalação depende de aceitação, por parte do jovem agricultor, do compromisso de cumprimento, na qualidade de empresário agrícola, ao longo de um mínimo de cinco anos, do projecto de exploração aprovado pelo Ministério da Agricultura e Pescas.
+
+2 - Em caso de incumprimento do compromisso, ficará o jovem agricultor obrigado à devolução do subsídio efectivamente recebido.
+
+Art. 8.º A linha de crédito bonificada, criada pela Resolução do Conselho de Ministros n.º 216-A/79, de 18 de Julho, será prioritariamente destinada ao financiamento de projectos de exploração agrícola, de acordo com a alínea b) do n.º 1 do artigo 3.º
+
+Art. 9.º - 1 - Os jovens individualmente instalados nos termos deste diploma, que venham a associar-se em agricultura de grupo, em cooperativa de produção ou noutra forma associativa, manterão o direito aos benefícios adquiridos.
+
+2 - Os jovens associados em agricultura de grupo, em cooperativa de produção ou noutra forma associativa, nos termos do n.º 2 do artigo 1.º, só poderão beneficiar do regime de instalação se tiverem como ocupação profissional exclusiva a actividade agrícola desenvolvida na exploração a que respeita o projecto aprovado.
+
+Art. 10.º As explorações agrícolas dos estabelecimentos de ensino apoiarão, na respectiva área, o jovem agricultor, para efeitos do disposto no presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Joaquim da Silva Lourenço.
+
+Promulgado em 20 de Dezembro de 1979.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

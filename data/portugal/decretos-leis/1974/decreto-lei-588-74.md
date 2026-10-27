@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:471518:por
+title: Decreto-Lei n.º 588/74
+short_title: null
+summary: Desvincula do Centro Hospitalar de Coimbra o Hospital Ortopédico e de Recuperação da Gala e converte-o em hospital
+  distrital polivalente
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Assuntos Sociais
+proposing_entity: null
+official_number: 588/74
+official_date: null
+publication_date: '1974-11-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 258/1974, Série I de 1974-11-06
+  number: '258'
+  series: I
+  supplement: null
+  pages: 1337 - 1338
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/11/25800/13371338.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471518'
+  dre_path: /dr/detalhe/decreto-lei/588-1974-471518
+  internal: pt:dre:471518:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1974-471518
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1974-471518
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:35:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 18d29897315c94464f7f13d0678b296accc0cbcb3b5abc14e3e3a19dd6867c3b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estabelecimento Hospitalar
+- Figueira da Foz
+- Hospital Distrital
+- Hospital Ortopédico e de Recuperação
+- Instalação de Serviços
+- Integração de Trabalhadores
+relationships:
+- type: amended_by
+  target: pt:dre:670001:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:35:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 588/74
+
+de 6 de Novembro
+
+1. O Hospital Distrital da Figueira da Foz está instalado em edifício que não reúne condições para um regular funcionamento e cuja remodelação, além de muito onerosa, não constituiria solução inteiramente satisfatória para o futuro.
+
+2. Por sua vez, a Casa da Mãe da mesma cidade, onde funciona a maternidade local, também não reúne as condições exigidas para conveniente cumprimento de todo o serviço que lhe incumbe, importando a sua remodelação, com vista à melhoria das condições existentes, em verbas que se calcula representarem um investimento pouco aconselhável.
+
+3. Acontece que existe, na proximidade imediata da Figueira da Foz, o Hospital Ortopédico e de Recuperação da Gala, completamente equipado desde há alguns anos, mas que não foi possível fazer entrar em actividade por dificuldades de recrutamento de pessoal especializado.
+
+4. A dificuldade referida no número anterior persistirá por período imprevisível e, além disso, de acordo com as orientações actuais em matéria de planeamento hospitalar, o estabelecimento localizado na Gala não convém para o fim a que foi destinado, dado o seu afastamento do eixo rodoviário e dos grandes centros populacionais.
+
+5. Considerando os factos anteriormente enunciados, a solução mais conveniente para satisfazer, a médio prazo e de forma racional, as carências de prestação de cuidados médicos na região em causa consistirá em transferir o Hospital Distrital da Figueira da Foz para a unidade hospitalar devoluta e instalar na mesma os serviços que actualmente funcionam na Casa da Mãe.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. O Hospital Ortopédico e de Recuperação da Gala é desvinculado do Centro Hospitalar de Coimbra e convertido em hospital distrital polivalente, com área de influência a definir oportunamente, e passa a ter a designação de Hospital Distrital da Figueira da Foz.
+
+2. O estabelecimento hospitalar pertencente à Santa Casa da Misericórdia da Figueira da Foz deixa de desempenhar as funções de hospital distrital logo que para o novo estabelecimento sejam transferidos todos os serviços.
+
+3. Para o novo Hospital Distrital transitam igualmente todos os serviços que funcionam na Casa da Mãe da Figueira da Foz.
+
+Art. 2.º - 1. O novo Hospital Distrital da Figueira da Foz é dotado de personalidade jurídica e de autonomia administrativa nos termos do n.º 1 do artigo 27.º do Estatuto Hospitalar.
+
+2. O esquema de serviço do novo Hospital será elaborado tendo em conta o seu carácter polivalente e de harmonia com os padrões gerais definidos para os hospitais distritais.
+
+Art. 3.º - 1. O Hospital Distrital da Figueira da Foz entra em regime de instalação nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+
+2. Até que sejam publicadas normas definitivas de funcionamento, serão aprovados, por despacho ministerial, os regulamentos parcelares que se revelem necessários.
+
+Art. 4.º Constituem património do novo Hospital:
+
+a) O activo e passivo do Hospital Ortopédico e de Recuperação da Gala, incluindo os subsídios expressamente atribuídos ao Centro Hospitalar de Coimbra e consignados ao referido estabelecimento;
+
+b) O activo e passivo da Casa da Mãe.
+
+Art. 5.º O regime financeiro é o aplicável aos demais hospitais distritais oficiais.
+
+Art. 6.º - 1. O pessoal que presta serviço no Hospital da Santa Casa da Misericórdia da Figueira da Foz poderá ser admitido em lugares do mapa do pessoal do novo Hospital desde que habilitado com os requisitos legais indispensáveis, à excepção do da idade.
+
+2. Ao pessoal integrado no novo estabelecimento ao abrigo do número anterior será contado, para efeitos de antiguidade e acesso, o serviço anteriormente prestado.
+
+3. O pessoal que presta serviço na Casa da Mãe da Figueira da Foz transita, sem interrupção de direitos e obrigações, para lugares idênticos do novo Hospital Distrital.
+
+4. O pessoal que presta serviço no Centro Hospitalar de Coimbra e que, encontrando-se no Hospital Ortopédico e de Recuperação, desejar prestar serviço no Hospital Distrital trasita para os lugares idênticos do mapa deste último, sem interrupção de direitos e obrigações.
+
+Art. 7.º O pessoal manter-se-á inscrito na Caixa de Previdência dos Empregados de Assistência, salvo se, não se achando abrangido pelo disposto no artigo 58.º do Estatuto Hospitalar e preenchendo os requisitos de inscrição na Caixa Geral de Aposentações, optar por esta, no prazo de noventa dias, a partir da admissão no novo Hospital.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Maria de Lourdes Pintasilgo.
+
+Promulgado em 21 de Outubro de 1974.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

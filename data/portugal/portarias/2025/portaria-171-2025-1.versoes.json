@@ -1,0 +1,325 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:914597192:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-914632153",
+ "dre_path": "/dr/detalhe/portaria/171-2025-914597192",
+ "source_lastmod": "2025-05-30",
+ "versions": [
+  {
+   "date": "2025-04-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "914666402",
+    "914666403",
+    "914666404",
+    "914666405",
+    "914666406",
+    "914666407",
+    "914666408",
+    "914666409",
+    "914666410",
+    "914666411",
+    "914666412",
+    "914666413",
+    "914666414",
+    "914666415",
+    "914666416",
+    "914666417",
+    "914666418",
+    "914666419",
+    "914666420",
+    "914666421",
+    "914666422",
+    "914666423",
+    "914666424",
+    "914666425",
+    "914666426",
+    "914666427",
+    "914666428",
+    "914666429",
+    "914666430",
+    "914666431",
+    "914666432",
+    "914666433",
+    "914666434",
+    "914666436"
+   ]
+  }
+ ],
+ "fragments": {
+  "914666402": {
+   "fragment_id": "914632154",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 171/2025/1, de 10 de abril\n\nO Programa do XXIV Governo Constitucional prevê a revisão das medidas dirigidas a pessoas com deficiência ou incapacidade, tendo em vista potenciar a sua autonomia, inclusão e defesa dos seus direitos, elementos fundamentais à coesão social.\n\nNo contexto do regime de avaliação de incapacidade das pessoas com deficiência, para efeitos de acesso às medidas e benefícios legalmente previstos, torna-se necessária a adoção de novas disposições relativas à junta médica de avaliação de incapacidade (JMAI), agilizando e simplificando a capacidade de resposta do Serviço Nacional de Saúde (SNS) a este tipo de solicitações.\n\nAcresce ainda que o Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual, prevê a desmaterialização de procedimentos no âmbito das JMAI, havendo que regular a sua tramitação, para garantir uma resposta ágil e rápida aos respetivos requerimentos.\n\nSem prejuízo de a Portaria n.º 151/2024/1, de 8 de abril, ter estabelecido a lista de patologias que podem ser objeto de emissão de atestado médico de incapacidade multiúso, no âmbito da avaliação de incapacidade, com dispensa de JMAI, existem também outras patologias para as quais a atual tabela nacional de incapacidades (TNI), aprovada em anexo ao Decreto-Lei n.º 352/2007, de 23 de outubro, permite a atribuição de 60 % ou mais de incapacidade.\n\nNeste contexto, a aprovação da presente portaria e das alterações nela preconizadas revela-se urgente e inadiável, por existir um elevado número de pessoas a aguardar a realização de JMAI para poderem aceder a determinados benefícios, designadamente apoios sociais, que dependem da comprovação da sua deficiência ou incapacidade.\n\nPela área governativa da saúde foram ouvidas a Direção Executiva do Serviço Nacional de Saúde, I. P., a Administração Central do Sistema de Saúde, I. P., a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., e a Direção-Geral da Saúde.\n\nPela área governativa do trabalho, solidariedade e segurança social foi ouvido o Instituto Nacional para a Reabilitação, I. P.\n\nFoi ainda consultado o Mecanismo Nacional de Monitorização da Implementação da Convenção sobre os Direitos das Pessoas com Deficiência.\n\nAssim:\n\nAo abrigo do disposto no n.º 11 do artigo 2.º e no n.º 1 do artigo 4.º-B do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual, e no n.º 5 do artigo 27.º-A da Lei n.º 15/2014, de 21 de março, na sua redação atual:\n\nManda o Governo, pela Secretária de Estado da Gestão da Saúde, no uso dos poderes que lhe foram delegados pelo Despacho n.º 5884-A/2024, publicado no Diário da República, 2.ª série, n.º 100, suplemento, de 23 de maio de 2024, na sua redação atual, e pela Secretária de Estado da Ação Social e da Inclusão, no uso dos poderes que lhe foram delegados pelo Despacho n.º 2577/2025, de 19 de fevereiro, publicado no Diário da República, 2.ª série, n.º 39, de 25 de fevereiro de 2025, o seguinte:"
+  },
+  "914666403": {
+   "fragment_id": "914632155",
+   "type": 1,
+   "heading": "Capítulo I — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto e âmbito de aplicação"
+  },
+  "914666404": {
+   "fragment_id": "914632156",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria determina a desmaterialização do processo de junta médica de avaliação de incapacidade (JMAI), definindo os procedimentos a aplicar.\n\n2 - A presente portaria aprova, também, a lista de patologias que são objeto de emissão de atestado médico de incapacidade multiúso (AMIM), no âmbito da avaliação de incapacidade, com dispensa de JMAI, e emite novas disposições relativas às JMAI, estabelecendo os procedimentos aplicáveis."
+  },
+  "914666405": {
+   "fragment_id": "914632157",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO disposto na presente portaria aplica-se:\n\na) Aos processos de JMAI, incluindo aqueles que não estejam concluídos à data de entrada em vigor da presente portaria;\n\nb) Às situações clínicas que, nos termos do n.º 11 do artigo 2.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual, beneficiam da emissão de AMIM, com dispensa de JMAI."
+  },
+  "914666406": {
+   "fragment_id": "914632158",
+   "type": 1,
+   "heading": "Capítulo II — Processo de junta médica de avaliação de incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Processo de junta médica de avaliação de incapacidade"
+  },
+  "914666407": {
+   "fragment_id": "914632159",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Processo\n\n1 - O processo de JMAI é constituído pelos seguintes documentos:\n\na) Requerimento de JMAI e respetiva documentação anexa, nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual, e dos documentos constantes do anexo à presente portaria, da qual é parte integrante;\n\nb) Documentação que resulta da avaliação prévia, prevista no artigo 5.º da presente portaria;\n\nc) Documentação que resulta da realização da JMAI, nos termos do n.º 1 e do n.º 2 do artigo 4.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual.\n\n2 - O processo de JMAI é desmaterializado, através de suporte informático a disponibilizar pela SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS, E. P. E.)."
+  },
+  "914666408": {
+   "fragment_id": "914632160",
+   "type": 11,
+   "heading": "Artigo 4.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requerimento\n\n1 - O requerimento para solicitação de JMAI é submetido pelo interessado, independentemente da unidade funcional de inscrição no Serviço Nacional de Saúde (SNS), por uma das seguintes formas:\n\na) No Portal Único dos Serviços Digitais (Gov.pt);\n\nb) Nos canais do SNS24, preferencialmente através dos seus canais digitais (App ou Portal SNS24);\n\nc) Através do atendimento administrativo presencial em entidade que disponha de acordo previsto no Decreto-Lei n.º 138/2013, de 9 de outubro;\n\nd) Através do atendimento administrativo presencial, no SNS, em qualquer das unidades funcionais dos cuidados de saúde primários ou das unidades hospitalares.\n\n2 - Nos casos das alíneas c) e d) do número anterior, o requerimento é submetido no sistema referido no n.º 2 do artigo anterior."
+  },
+  "914666409": {
+   "fragment_id": "914632161",
+   "type": 11,
+   "heading": "Artigo 5.º — Análise prévia dos requerimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Análise prévia dos requerimentos\n\n1 - Sem prejuízo de bolsa nacional de médicos, a constituir para o efeito, através de despacho do membro do Governo responsável pela área da saúde, os médicos especialistas que compõem as JMAI previstas no n.º 5 do artigo 2.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual, efetuam uma análise prévia dos requerimentos para solicitação de JMAI.\n\n2 - A análise prévia tem por objetivo verificar a possibilidade de atribuição de incapacidade ao interessado com dispensa de JMAI, através da aplicação dos coeficientes que se encontram no anexo à presente portaria e da qual é parte integrante, e:\n\na) É fundamentada em função dos resultados dos meios complementares de diagnóstico e terapêutica, desde que realizados, preferencialmente, há menos de um ano, e do relatório do médico especialista responsável pelo diagnóstico;\n\nb) É realizada através de avaliação médica singular;\n\nc) Não obriga à presença física do interessado nem a nenhum contacto com o médico que efetua a análise prévia, salvo nas situações previstas no n.º 4.\n\n3 - Nas situações em que for possível atribuir a incapacidade tendo em conta os coeficientes referidos no anexo à presente portaria, da qual é parte integrante, o médico que efetuar a análise prévia emite o respetivo AMIM, recorrendo às ferramentas digitais disponibilizadas pela SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS, E. P. E.), para esse efeito.\n\n4 - Sem prejuízo do disposto no número anterior, o médico, no decurso da análise prévia, ao efetuar a avaliação singular, contacta o interessado quando:\n\na) Seja previsível que a JMAI não venha a atribuir percentagem total de incapacidade igual ou superior a 60 %;\n\nb) Seja previsível que a JMAI venha a atribuir percentagem total de incapacidade igual ou superior a 80 %.\n\n5 - Nas situações previstas no número anterior o interessado informa o médico se pretende desistir ou prosseguir com a remessa do seu processo a JMAI.\n\n6 - Os AMIM emitidos nos termos do n.º 3 são válidos pelo período de cinco anos a contar da data da sua emissão, devendo o interessado requerer a realização de uma nova JMAI, até à data de validade do AMIM ou posteriormente, quando tal não tenha sido possível por motivo de doença, devidamente justificado.\n\n7 - O interessado pode solicitar uma reavaliação do seu grau de incapacidade antes do final do prazo referido no número anterior, sempre que considere que existiu um agravamento do seu estado de saúde.\n\n8 - Sem prejuízo do disposto nos n.<sup>os </sup>6 e 7, o médico que emite o AMIM pode, em situações comprovadas de doença em que não seja previsível a sua evolução, definir que o mesmo é vitalício."
+  },
+  "914666410": {
+   "fragment_id": "914632162",
+   "type": 11,
+   "heading": "Artigo 6.º — Realização de junta médica de avaliação de incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Realização de junta médica de avaliação de incapacidade\n\nApós a análise prévia do processo de JMAI referida no artigo anterior, para as situações que não estejam enquadradas nas disposições constantes nos n.<sup>os </sup>10 e 11 do artigo 2.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual, é constituída a JMAI, no estabelecimento de saúde da área da residência habitual do interessado, sem prejuízo do disposto no n.º 6 do artigo 3.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual."
+  },
+  "914666411": {
+   "fragment_id": "914632163",
+   "type": 11,
+   "heading": "Artigo 7.º — Organização dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organização dos processos\n\n1 - Os processos de JMAI são organizados respeitando a antiguidade.\n\n2 - Sem prejuízo do disposto no número anterior, são considerados prioritários, no âmbito da análise prévia e da realização de JMAI:\n\na) Os requerimentos de interessados com idade inferior a 18 anos;\n\nb) Os requerimentos de interessados com idade igual ou superior a 18 anos que não correspondam a pedidos de reavaliação;\n\nc) Excecionalmente outros requerimentos, desde que devidamente fundamentados."
+  },
+  "914666412": {
+   "fragment_id": "914632164",
+   "type": 11,
+   "heading": "Artigo 8.º — Preço do atestado médico de incapacidade multiúsos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Preço do atestado médico de incapacidade multiúsos\n\n1 - A emissão do AMIM no decurso da análise prévia referida no artigo 5.º é gratuita.\n\n2 - A emissão do AMIM que resulte de JMAI, nos termos do artigo 6.º, tem o preço de 12,50 €.\n\n3 - Nas situações de reavaliação, em caso de constituição de JMAI, a emissão do AMIM tem o preço de 5 €.\n\n4 - A emissão do AMIM aos interessados que estejam isentos do pagamento de taxa moderadora nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 113/2011, de 29 de novembro, na sua redação atual, é gratuita.\n\n5 - Os preços referidos nos n.<sup>os</sup> 2 e 3 são atualizados, de forma automática, no início de cada ano civil a que se reporta a atualização, mediante a aplicação de um coeficiente resultante da variação média do índice de preços no consumidor, correspondente aos últimos 12 meses para os quais existam valores disponíveis."
+  },
+  "914666413": {
+   "fragment_id": "914632165",
+   "type": 1,
+   "heading": "Capítulo III — Atestado médico de incapacidade multiúsos com dispensa de junta médica de avaliação de incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Atestado médico de incapacidade multiúsos com dispensa de junta médica de avaliação de incapacidade"
+  },
+  "914666414": {
+   "fragment_id": "914632166",
+   "type": 11,
+   "heading": "Artigo 9.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aplicação\n\nAs disposições constantes do presente capítulo aplicam-se às situações previstas no n.º 11 do artigo 2.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual."
+  },
+  "914666415": {
+   "fragment_id": "914632167",
+   "type": 11,
+   "heading": "Artigo 10.º — Lista de patologias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Lista de patologias\n\n1 - A lista de patologias que beneficiam da emissão de AMIM com dispensa de JMAI é aprovada em anexo à presente portaria, que faz parte integrante da mesma.\n\n2 - A lista de patologias referida no número anterior é revista quando existirem alterações à tabela prevista no n.º 1 do artigo 4.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual."
+  },
+  "914666416": {
+   "fragment_id": "914632168",
+   "type": 11,
+   "heading": "Artigo 11.º — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Emissão\n\n1 - A emissão de AMIM compete a médico do SNS diferente daquele que diagnosticou a patologia, no prazo de 10 dias úteis seguidos contados do pedido de emissão.\n\n2 - A emissão de AMIM para as patologias referidas no anexo à presente portaria, da qual é parte integrante, ocorre em todos os estabelecimentos de saúde do SNS, bem como em instituições que disponham de uma forma de articulação com o SNS, prevista no artigo 2.º do Decreto-Lei n.º 138/2013, de 9 de outubro.\n\n3 - Em caso de impossibilidade de emissão de AMIM pelo médico referenciado e no prazo referido no n.º 1, o processo será referenciado a outro médico que concluirá o processo, emitindo o AMIM, no prazo de 10 dias seguidos.\n\n4 - Os médicos especialistas que compõem as JMAI previstas no n.º 5 do artigo 2.º e no n.º 2 do artigo 5.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual, apenas emitem os AMIM para as patologias referidas no anexo à presente portaria, da qual é parte integrante, no âmbito da avaliação prévia de um processo de JMAI.\n\n5 - A avaliação é fundamentada em função dos resultados dos meios complementares de diagnóstico e terapêutica, desde que realizados há menos de um ano, e do relatório do médico especialista responsável pelo diagnóstico.\n\n6 - Em caso de dúvida, desde que fundamentado, pode ser requerido o apoio da JMAI competente ou solicitado o parecer da comissão de normalização prevista no artigo 6.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual.\n\n7 - Em situações de doença ou deficiência suscetível de afetar a segurança na condução e implicar a referenciação pela JMAI para a autoridade de saúde territorialmente competente, é aplicado o disposto no Decreto-Lei n.º 138/2012, de 5 de julho, na sua redação atual.\n\n8 - O AMIM é emitido, informaticamente, através de sistema disponibilizado pela SPMS, E. P. E.\n\n9 - Os AMIM emitidos nos termos dos números anteriores são válidos pelo período de cinco anos a contar da data da sua emissão, devendo o interessado requerer a realização de JMAI, para reavaliação, até à data de validade do AMIM ou posteriormente, quando tal não tenha sido possível por motivo de doença, devidamente justificado.\n\n10 - Sem prejuízo do disposto no número anterior, o médico que emite o AMIM pode, em situações comprovadas de doença em que não seja previsível a sua evolução, definir que o mesmo é vitalício.\n\n11 - A emissão do AMIM nos termos do presente artigo é gratuita."
+  },
+  "914666417": {
+   "fragment_id": "914632169",
+   "type": 1,
+   "heading": "Capítulo IV — Garantias administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Garantias administrativas"
+  },
+  "914666418": {
+   "fragment_id": "914632170",
+   "type": 11,
+   "heading": "Artigo 12.º — Recurso da avaliação de incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Recurso da avaliação de incapacidade\n\n1 - Sem prejuízo do disposto no n.º 5, às situações de recurso de avaliação da incapacidade atribuídas nos termos dos capítulos ii e iii aplica-se o disposto no artigo 5.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual, com as necessárias adaptações.\n\n2 - A emissão de AMIM em JMAI de recurso tem um preço de 25 €.\n\n3 - Sem prejuízo do disposto no número anterior, a emissão do AMIM aos interessados que estejam isentos do pagamento de taxa moderadora nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 113/2011, de 29 de novembro, na sua redação atual, é gratuita.\n\n4 - O preço referido no n.º 2 é atualizado, de forma automática, no início de cada ano civil a que se reporta a atualização, mediante a aplicação de um coeficiente resultante da variação média do índice de preços no consumidor, correspondente aos últimos 12 meses para os quais existam valores disponíveis.\n\n5 - Por forma a garantir o cumprimento do disposto no artigo 5.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual, os estabelecimentos de saúde do SNS devem articular-se, criando JMAI comuns de recurso.\n\n6 - Para os efeitos previstos no número anterior, devem os estabelecimentos de saúde celebrar protocolos, a homologar pelo membro do Governo responsável pela área da saúde."
+  },
+  "914666419": {
+   "fragment_id": "914632171",
+   "type": 1,
+   "heading": "Capítulo V — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições transitórias"
+  },
+  "914666420": {
+   "fragment_id": "914632172",
+   "type": 11,
+   "heading": "Artigo 13.º — Processos não desmaterializados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Processos não desmaterializados\n\nSem prejuízo do disposto nos artigos seguintes, aplica-se, com as devidas adaptações, o constante nos artigos 5.º a 8.º e 12.º da presente portaria aos processos de JMAI não concluídos à data de entrada em vigor da presente portaria, bem como aos requerimentos de JMAI registados entre a entrada em vigor da presente portaria e o momento da operacionalização da desmaterialização do processo de JMAI."
+  },
+  "914666421": {
+   "fragment_id": "914632173",
+   "type": 11,
+   "heading": "Artigo 14.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Revisão\n\n1 - Denomina-se por «revisão» a análise prévia referida no artigo 5.º, quando aplicada a processos não concluídos à data de entrada em vigor da presente portaria.\n\n2 - A revisão dos processos:\n\na) Ocorre até seis meses após a entrada em vigor da presente portaria e exclusivamente através dos médicos especialistas que compõem as JMAI previstas no n.º 5 do artigo 2.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual;\n\nb) É fundamentada em função dos resultados dos meios complementares de diagnóstico e terapêutica, desde que realizados até um ano anterior à data de entrada do pedido, e do relatório do médico especialista responsável pelo diagnóstico."
+  },
+  "914666422": {
+   "fragment_id": "914632174",
+   "type": 11,
+   "heading": "Artigo 15.º — Preço da revisão de processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Preço da revisão de processos pendentes\n\nAo médico é pago o valor de 5 € pela revisão de cada processo de atribuição de incapacidade que esteja pendente nos termos da presente portaria, quando realizado em produção adicional."
+  },
+  "914666423": {
+   "fragment_id": "914673975",
+   "type": 11,
+   "heading": "Artigo 16.º — Requerimentos até à desmaterialização do processo de junta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Requerimentos até à desmaterialização do processo de junta\n\n1 - Até à operacionalização da desmaterialização prevista no artigo 3.º, os requerimentos de JMAI são submetidos pelo interessado nos termos da alínea d) do n.º 1 do artigo 4.º da presente portaria.\n\n2 - O processo de JMAI é enviado ao presidente do conselho de administração da unidade local de saúde de residência do cidadão, nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual, sem prejuízo do disposto no n.º 6 do mesmo artigo, no prazo máximo de 72 horas úteis."
+  },
+  "914666424": {
+   "fragment_id": "914673976",
+   "type": 1,
+   "heading": "Capítulo VI — Outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Outras disposições"
+  },
+  "914666425": {
+   "fragment_id": "914673977",
+   "type": 11,
+   "heading": "Artigo 17.º — Entidade responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entidade responsável\n\nA SPMS, E. P. E., é a entidade responsável pela operacionalização do processo de desmaterialização de JMAI previsto no artigo 3.º, que ocorre até ao final do ano de 2025, articulando-se, sempre que necessário, com outras entidades."
+  },
+  "914666426": {
+   "fragment_id": "914673978",
+   "type": 11,
+   "heading": "Artigo 18.º — Utilização de meios telemáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Utilização de meios telemáticos\n\n1 - O médico responsável pela revisão ou pela análise prévia do processo de JMAI pode propor que a JMAI se efetue por meios telemáticos.\n\n2 - As JMAI efetuadas por meios telemáticos ocorrem através de plataforma digital disponibilizada pela SPMS, E. P. E."
+  },
+  "914666427": {
+   "fragment_id": "914673979",
+   "type": 11,
+   "heading": "Artigo 19.º — Gestão dos processos de junta médica de avaliação de incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Gestão dos processos de junta médica de avaliação de incapacidade\n\nCabe à Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.), e aos estabelecimentos de saúde do SNS gerir, monitorizar e auditar regularmente os processos de JMAI, garantindo o cumprimento dos prazos definidos no Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual."
+  },
+  "914666428": {
+   "fragment_id": "914673980",
+   "type": 11,
+   "heading": "Artigo 20.º — Pedido de parecer ao Instituto Nacional para a Reabilitação, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pedido de parecer ao Instituto Nacional para a Reabilitação, I. P.\n\n1 - As entidades referidas no artigo anterior podem solicitar parecer ao Instituto Nacional para a Reabilitação, I. P. (INR, I. P.), sobre a aplicação da presente portaria sempre que considerarem necessário.\n\n2 - O INR, I. P., deve pronunciar-se no prazo de 45 dias seguidos."
+  },
+  "914666429": {
+   "fragment_id": "914673981",
+   "type": 11,
+   "heading": "Artigo 21.º — Impossibilidade de emissão informática de atestado médico de incapacidade multiúsos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Impossibilidade de emissão informática de atestado médico de incapacidade multiúsos\n\n1 - Nas situações previstas no n.º 2 do artigo 4.º-B do Decreto-Lei n.º 202/96, de 23 de outubro, na sua redação atual, o AMIM é emitido por via manual, sem prejuízo do seu registo posterior obrigatório na plataforma disponibilizada pela SPMS, E. P. E.\n\n2 - O registo referido no número anterior é efetuado no prazo de três dias úteis pelo médico que emitiu o AMIM por via manual."
+  },
+  "914666430": {
+   "fragment_id": "914673982",
+   "type": 11,
+   "heading": "Artigo 22.º — Responsável pelo tratamento de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Responsável pelo tratamento de dados\n\nA entidade responsável pelo tratamento de dados dos AMIM emitidos no âmbito da presente portaria é a DE-SNS, I. P., sem prejuízo das competências legalmente atribuídas à SPMS, E. P. E."
+  },
+  "914666431": {
+   "fragment_id": "914673983",
+   "type": 11,
+   "heading": "Artigo 23.º — Arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Arquivo\n\nOs AMIM são registados em bases de dados centralizadas na SPMS, E. P. E."
+  },
+  "914666432": {
+   "fragment_id": "914673984",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "914666433": {
+   "fragment_id": "914673985",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Norma revogatória\n\nÉ revogada a Portaria n.º 151/2024/1, de 8 de abril."
+  },
+  "914666434": {
+   "fragment_id": "914673986",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "914666436": {
+   "fragment_id": "914673988",
+   "type": 14,
+   "heading": "Anexo — [a que se refere a alínea a) do n.º 1 do artigo 3.º, os n.os 2 e 3 do artigo 5.º, o n.º 1 do artigo 10.º e os n.os 2 e 4 do artigo 11.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — [a que se refere a alínea a) do n.º 1 do artigo 3.º, os n.os 2 e 3 do artigo 5.º, o n.º 1 do artigo 10.º e os n.os 2 e 4 do artigo 11.º]\n\nA(s) sequela(s) de(as) doença(s) descrita(s) nos relatórios médicos apresentados pelo requerente dispensa(m) a avaliação em JMAI, desde que permita(m) uma atribuição de desvalorização com base na desvalorização prevista na Tabela Nacional de Incapacidades (TNI) aprovada pelo anexo i do Decreto-Lei n.º 352/2007, de 23 de outubro, em função dos resultados dos meios complementares de diagnóstico e terapêutica, nas seguintes patologias:\n\n| Capítulo | Número | Alínea | Designação | Coeficiente a atribuir | Documentos obrigatórios |\n| --- | --- | --- | --- | --- | --- |\n| I | 3.3.1 | n.a. | Perda de segmentos (amputações) - Desarticulação inter-escápulo-torácica | 0,70 (no membro ativo)0,65 (no membro não ativo) | Relatório médico de cirurgia ou médico assistente |\n| I | 3.3.2 | n.a. | Perda de segmentos (amputações) - Desarticulação escapulo-umeral | 0,65 (no membro ativo)0,60 (no membro não ativo) | Relatório médico de cirurgia ou médico assistente |\n| I | 4.3 | a) | Perda de segmentos (amputações) pelo colo cirúrgico ou terço superior do úmero | 0,60 (no membro ativo) | Relatório médico de cirurgia ou médico assistente |\n| I | 5.2.7 | a) | Prótese total (endoprótese) do cotovelo | 0,60 (no membro ativo) | Relatório médico de cirurgia ou médico assistente |\n| I | 6.2.10 | n.a. | Perda de segmentos (amputações) - antebraço | 0,60 (no membro ativo) | Relatório médico de cirurgia ou médico assistente |\n| I | 6.2.11 | a) | Prótese Cosmética | 0,60 (no membro ativo) | Relatório médico de cirurgia ou médico assistente |\n| I | 7.2.3.5 | n.a. | Desarticulação da mão pelo punho | 0,60 (no membro ativo) | Relatório médico de cirurgia ou médico assistente |\n| I | 8.5.7.1 | n.a. | Perda dos cinco dedos, com ou sem metacárpicos (equivalente à perda total da função da mão) | 0,60 (no membro ativo) | Relatório médico de cirurgia ou médico assistente |\n| I | 10.2.4 | a) | Perda de segmentos (resseção ou amputação): Remoção da cabeça e colo do fémur (operação de Girdlestone) esta incapacidade já engloba o encurtamento do membro | 0,60 | Relatório médico de cirurgia ou médico assistente |\n| I | 10.2.4 | c) | Perda de segmentos (resseção ou amputação): Amputação inter-ilio-abdominal | 0,70 | Relatório médico de cirurgia ou médico assistente |\n| I | 10.2.4 | d) | Perda de segmentos (resseção ou amputação): Desarticulação da anca | 0,65 | Relatório médico de cirurgia ou médico assistente |\n| I | 11.2.4 | a) | Perda de segmentos (amputação): Amputação subcontrantérica | 0,65 | Relatório médico de cirurgia ou médico assistente |\n| I | 11.2.4 | b) | Perda de segmentos (amputação): Amputação pelo terço médio ou inferior | 0,60 | Relatório médico de cirurgia ou médico assistente |\n| I | 12.3 | b) | Perda de segmentos (amputação ou desarticulação): Desarticulação unilateral pelo joelho | 0,60 | Relatório médico de cirurgia ou médico assistente |\n| III | 2.1 | n.a. | Estado vegetativo persistente | 1,00 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 2.3.1 | c) | Epilepsia generalizada não controlável e tornando impossível a atividade profissional | 0,60 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 2.7 | c) | Síndrome cerebelosa (ataxia geralmente associada a outras sequelas), global: impossibilidade de marcha e tornando o trabalho ou vida de relação impossível | 0,80 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 2.10 | n.a. | Apraxia e agnosia | 0,60 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 2.12.1 | b) | Tetraplegia completa | 0,95 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 2.12.2.1 | n.a. | Hemiparésia com marcha possível sem utilização de auxiliares, membro superior utilizável com descoordenação de movimentos, sem ou com ligeiras alterações da linguagem | 0,60 (no membro ativo) | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 2.12.2.2 | a) | Hemiplegia com marcha possível com auxiliares, membro superior inutilizável, sem ou com afasia | 0,80 (no membro ativo)0,60 (no membro não ativo) | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 2.12.2.2 | b) | Hemiplegia com marcha impossível e com alterações dos esfíncteres | 0,80 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 5.1 | a) | Lesões hemimedulares (síndrome de Brown-Sequard) com tradução clínica nos membros superior e inferior (conservação de uma atividade reduzida, com marcha possível, sem alterações dos esfíncteres e persistência de uma certa autonomia) | 0,60 (no membro ativo) | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 5.1 | b) | Lesões hemimedulares (síndrome de Brown-Sequard): paralisia completa, com alterações dos esfíncteres | 0,80 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 5.2.1.1 | b) | Lesões medulares (com secção anatómica ou alteração funcional, parcial ou total): paraparesia crural com marcha paraparética, com ou sem espasticidade, com alteração dos esfíncteres | 0,60 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 5.2.1.2 | a) | Lesões medulares (com secção anatómica ou alteração funcional, parcial ou total): paraplegia (força muscular de grau 0 ou 1): sem alteração dos esfíncteres | 0,60 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 5.2.1.2 | b) | Lesões medulares (com secção anatómica ou alteração funcional, parcial ou total): paraplegia (força muscular de grau 0 ou 1): com alteração dos esfíncteres | 0,80 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 5.2.3.1 | b) | Lesões medulares (com secção anatómica ou alteração funcional, parcial ou total): Tetraplegia ou tetraparesia com alguma capacidade funcional (força de grau 4): com alteração dos esfíncteres | 0,80 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 5.2.3.2 | a) | Lesões medulares (com secção anatómica ou alteração funcional, parcial ou total): Tetraplegia ou tetraparesia sem capacidade funcional (força de grau 0 a 3): sem alteração dos esfíncteres | 0,80 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| III | 5.2.3.2 | b) | Lesões medulares (com secção anatómica ou alteração funcional, parcial ou total): Tetraplegia ou tetraparesia sem capacidade funcional (força de grau 0 a 3): com alteração dos esfíncteres | 0,91 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| IV | 5 | d) | Laringe: Estenose total (traqueostomia) | 0,80 | Relatório médico de cirurgia ou médico assistente |\n| IV | 5 | e) | Laringe: Laringectomia ou cânula permanente de traqueostomia | 0,85 | Relatório médico de cirurgia ou médico assistente |\n| IV | 6.5 | b) | Maxilar inferior: perda ou deformação com alteração da palavra ou da mastigação, com grave dificuldade na ingestão de alimentos | 0,60 | Relatório médico de cirurgia ou médico assistente |\n| IV | 8.1 | n.a. | Hipoacusia, com ouvido direito e ouvido esquerdo > a 80 dB | 0,60 | Relatório médico e audiograma bitonal |\n| V | 2.5 | e) | Hipovisão, de um lado, visão de 0,2, do outro 0 | 0,60 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 2.6 | a) | Hipovisão, de um lado, visão de 0,1, do outro 0,1 | 0,63 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 2.6 | b) | Hipovisão, de um lado, visão de 0,1, do outro 0,05 | 0,68 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 2.6 | c) | Hipovisão, de um lado, visão de 0,1, do outro 0 | 0,72 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 2.7 | n.a. | Hipovisão, de um lado, visão de 0,05, do outro visão de 0,05 ou inferior | 0,95 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 3.2.4 | a) | Alterações do campo visual: um campo entre 10.º e 20.º, o outro de 10.º a 20.º | 0,60 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 3.2.4 | b) | Alterações do campo visual: um campo entre 10.º e 20.º, o outro inferior a 10.º | 0,66 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 3.2.5 | n.a. | Alterações do campo visual: os dois campos inferiores a 10.º | 0,80 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 3.4 | b) | Alterações do campo visual: defeitos hemianópsicos horizontal inferior | 0,60 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 3.4 | e) | Alterações do campo visual: defeitos hemianópsicos bitemporal | 0,60 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 3.6 | b) | Alterações do campo visual: defeitos hemianópsicos num único olho: nasal | 0,60 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 3.6 | c) | Alterações do campo visual: defeitos hemianópsicos num único olho: inferior | 0,70 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| V | 3.6 | d) | Alterações do campo visual: defeitos hemianópsicos num único olho: temporal | 0,80 | Relatório médico de oftalmologia onde conste a verificação da acuidade visual binocular e dos campos visuais (com e sem correção). |\n| VII | n.a. | n.a. | Grau IV Função Respiratória | 0,80 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| VIII | 1.1 | e) | Insuficiência renal crónica que implica sob hemodiálise | 0,70 | Relatório médico e evidência que se encontra a realizar hemodiálise |\n| VIII | 3.5 | b) | Bexiga: Fístulas vesicais, não curáveis por tratamento médico ou cirúrgico: fístula vesico-intestinal | 0,60 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| VIII | 3.5 | c) | Bexiga: Fístulas vesicais, não curáveis por tratamento médico ou cirúrgico: fístula vesico-retal | 0,65 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| VIII | 3.5 | e) | Bexiga: Fístulas vesicais, não curáveis por tratamento médico ou cirúrgico: fístula vesico-vaginal, com graves fenómenos infiltrativos | 0,70 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| IX | n.a. | n.a. | Grau IV | 0,70 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| X | Grau IV | n.a. | Perturbações funcionais importantes, com acentuada modificação dos padrões de atividade diária, nas situações de autismo, outras perturbações do desenvolvimento que exijam apoio complementar, demências ligeiras ou moderadas ou perturbações mentais que impliquem cuidados de terceira pessoa | 0,60 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes, onde se incluem, entre outros, se necessário, testes psicológicos e exames periciais. |\n| X | Grau V | n.a. | Perturbações funcionais muito graves, envolvendo uma importante regressão da personalidade e profunda modificação dos padrões de comportamento, no que respeita a esquizofrenias ou demências graves | 0,80 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes, onde se incluem, entre outros, se necessário, testes psicológicos e exames periciais. |\n| XIII | 3.1 | c) | Leucemia linfática crónica incurável: Estadio C - com anemia, trombocitopenia e outros sintomas | 0,80 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| XIII | 3.2 | b) | Leucemia mieloide crónica: Estadio B - com anemia variável, diátese hemorrágica e leucócitos > 100 000, apesar de tratamento | 0,60 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| XIII | 3.3 | n.a. | Leucemia em fase aguda | 0,80 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| XIII | 4 | n.a. | Neutropenias com granulócitos <2000/mm | 0,60 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| XIII | 5.1 | n.a. | Trombocitopenias com plaquetas < 50 000 | 0,60 | Relatório médico e meios complementares de diagnóstico e terapêutica relevantes |\n| XVI | IV | 3) | Nos tumores malignos sem metástases e permitindo uma vida de relação | 0,60 | Relatório médico e relatório anatomopatológico |\n| XVI | IV | 4) | Nos tumores malignos com insucessos terapêuticos e com curta esperança de vida | 0,80 | Relatório médico e relatório anatomopatológico |\n\nn.a. - Não aplicável.\n118923353"
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984R2108:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984R2108-20030214",
+ "dre_path": null,
+ "source_lastmod": "2003-02-14",
+ "versions": [
+  {
+   "date": "1984-07-24",
+   "future": false,
+   "celex": "31984R2108",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5fc5f9de61959bc6",
+    "8bed2c162c697f8b",
+    "2608f2690581e754",
+    "3d5af990c16518cd",
+    "bd44211747f05990",
+    "3094c1db91db0718",
+    "06aa2865575d8975",
+    "96692ddee290d715"
+   ]
+  },
+  {
+   "date": "2003-02-14",
+   "future": false,
+   "celex": "01984R2108-20030214",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o — Descrição das bitolas",
+    "Suprime Artigo 2o — Utilização da bitola",
+    "Suprime Artigo 3o — Escolha das malhas a medir",
+    "Suprime Artigo 4o — Medida de cada malha",
+    "Suprime Artigo 5o — Determinação da malhagem",
+    "Suprime Artigo 6o — Desenrolar do procedimento de controlo",
+    "Suprime Artigo 7o"
+   ],
+   "fragments": [
+    "47dc98d69a273c15"
+   ]
+  }
+ ],
+ "fragments": {
+  "5fc5f9de61959bc6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2108/84 da Comissão, de 23 de Julho de 1984, que prevê regras pormenorizadas para a determinação da malhagem das redes de pesca** *Jornal Oficial nº L 194 de 24/07/1984 p. 0022 - 0023 Edição especial finlandesa: Capítulo 4 Fascículo 2 p. 0019 Edição especial espanhola: Capítulo 04 Fascículo 3 p. 0060 Edição especial sueca: Capítulo 4 Fascículo 2 p. 0019 Edição especial portuguesa: Capítulo 04 Fascículo 3 p. 0060*\n\nREGULAMENTO (CEE) No 2108/84 DA COMISSÃO de 23 de Julho de 1984 que prevê regras pormenorizadas para a determinação da malhagem das redes de pesca\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 171/83 do Conselho, de 25 de Janeiro de 1983, que prevê certas medidas técnicas de conservação dos recursos da pesca (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1637/84 (2) e, nomeadamente, o seu artigo 6o,\n\nConsiderando que é necessário, para assegurar o respeito das medidas técnicas de conservação dos recursos de pesca, prever regras pormenorizadas para a determinação da malhagem;\n\nConsiderando que é necessário para esse efeito definir os tipos de bitolas, o seu método de utilização, a escolha das malhas a meda, a técnica de medida de una malha, e o método de cálculo da malhagem, bem como descrever o desenrola do procedimento de controlo;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Recursos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "8bed2c162c697f8b": {
+   "fragment_id": "Artigo 1o — Descrição das bitolas",
+   "type": "artigo",
+   "heading": "Artigo 1o — Descrição das bitolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o — Descrição das bitolas\n\n1. A bitola utilizada para determinar a malhagem é um instrumento chato de 2 milímetros de espessura, constituído por uma matéria inalterável e indeformável que apresenta quer uma sucessão de zonas de bordos paralelos e de zonas intermédias de bordos oblíquos que apresentem uma inclinação de 1 a 8 de uma parte à outra, quer apenas de zonas de bordos oblíquos que apresentem a inclinação referida. Cada bitola é perfurada na sua parte mais estreita.\n\n2. Todas as bitolas têm a menção «bitola CEE». A largura em milímetros será inscrita na eventual secção de bordos paralelos e sobre a secção oblíqua de cada bitola; a secção oblíqua será graduada de milímetro a milímetro e a largura será indicada com intervalos regulares."
+  },
+  "2608f2690581e754": {
+   "fragment_id": "Artigo 2o — Utilização da bitola",
+   "type": "artigo",
+   "heading": "Artigo 2o — Utilização da bitola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o — Utilização da bitola\n\n1. A rede é estendida no sentido da grande diagonal das malhas.\n\n2. Uma bitola descrita no artigo 1o será introduzida pela sua pequena extremidade na abertura da malha, perpendicularmente ao plano da rede.\n\n3. A bitola é inserida na abertura da malha, quer à mão, quer com o auxílio de um peso ou de um dinamómetro, até que seja presa pela resistência da malha ao nível dos lados oblíquos."
+  },
+  "3d5af990c16518cd": {
+   "fragment_id": "Artigo 3o — Escolha das malhas a medir",
+   "type": "artigo",
+   "heading": "Artigo 3o — Escolha das malhas a medir",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o — Escolha das malhas a medir\n\n1. As malhas a medir formam uma série de vinte malhas consecutivas, escolhidas no sentido do grande eixo da rede.\n\n2. Não se medem as malhas situadas a menos de 50 centímetros de uma laçada, de um laracho ou de um estopro do cu do saco; a distância é medida perpendicularmente a estes últimos, sendo a rede esticada no sentido da medida. As malhas que são apanhadas ou remendadas ou as que têm dispositivos de fixação não são medidas.\n\n3. Em derrogação do no 1, as malhas a medir não têm necessidade de ser consecutivas se a aplicação do no 2 impedir que o sejam.\n\n4. Mede-se exclusivamente as redes molhadas, mas não geladas."
+  },
+  "bd44211747f05990": {
+   "fragment_id": "Artigo 4o — Medida de cada malha",
+   "type": "artigo",
+   "heading": "Artigo 4o — Medida de cada malha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o — Medida de cada malha\n\nO tamanho de cada malha é o que corresponde à largura da bitola na sua posição de paragem, sempre que a bitola for utilizada de acordo com o disposto no artigo 2o."
+  },
+  "3094c1db91db0718": {
+   "fragment_id": "Artigo 5o — Determinação da malhagem",
+   "type": "artigo",
+   "heading": "Artigo 5o — Determinação da malhagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o — Determinação da malhagem\n\nA malhagem da rede é um número expresso em milímetros, correspondente à média aritmética das medidas do número total das malhas escolhidas e medidas de acordo com o disposto nos artigos 3o e 4o arredondado ao milímetro superior.\n\nO número total das malhas a medir é definido no artigo 6o."
+  },
+  "06aa2865575d8975": {
+   "fragment_id": "Artigo 6o — Desenrolar do procedimento de controlo",
+   "type": "artigo",
+   "heading": "Artigo 6o — Desenrolar do procedimento de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o — Desenrolar do procedimento de controlo\n\n1. O inspector mede uma série de vinte malhas escolhidas em conformidade com o artigo 3o, inserindo a bitola com a mão sem utilizar pesos nem dinamómetro.\n\nA malhagem da rede é em seguida determinada de acordo com o disposto no artigo 5o.\n\nSe do cálculo resultar uma malhagem não conforme aos regulamentos em vigor, medir-se-ao duas séries suplementares de vinte malhas escolhidas de acordo com o disposto no artigo 3o.\n\nA malhagem é em seguida recalculada em conformidade com o artigo 5o com base nas sessenta malhas já medidas. Sem prejuízo do disposto no no 2, a malhagem será indicada pelo número assim obtido.\n\n2. Se o capitão do barco contestar a malhagem determinada em conformidade com as disposições do no 1, essa medida não será tida em conta para a determinação da malhagem e proceder-se-á a uma nova medição da rede. A nova medição da rede efectuar-se-á atando um peso ou um dinamómetro à bitola.\n\nA escolha do peso ou do dinamómetro é deixada à discrição do inspector.\n\nO peso é atado por meio de um gancho ao orifício existente na parte mais estreita da bitola. O dinamómetro pode ser fixado ao orifício existente na parte mais estreita da bitola ou aplicado na extremidade mais larga da bitola.\n\nA medida do peso ou do dinamómetro é certificada pela autoridade nacional competente.\n\nAplica-se uma força de 19,61 newtons (equivalente a uma massa de 2 quilogramas) em relação às redes cuja malhagem, determinada de acordo com o no 1 anterior, seja igual ou inferior a 35 milímetros, e uma força de 49,03 newtons (equivalente a uma massa de 5 quilogramas) em relação às outras redes.\n\nPara determinar a malhagem em conformidade com o artigo 5o, utilizando um peso ou um dinamómetro, apenas se mede uma única série de vinte malhas,"
+  },
+  "96692ddee290d715": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO presente regulamento entra em vigor no octagésimo segundo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 23 de Julho de 1984.\n\nPela Comissão\n\nGiorgios CONTOGEORGIS\n\nMembro da Comissão\n\n(1) JO no L 24 de 27. 1. 1983, p. 14.(2) JO no L 156 de 13. 6. 1984, p. 1."
+  },
+  "47dc98d69a273c15": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984R2108 — PT — 14.02.2003 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31984R2108) [REGULAMENTO (CEE) N.º 2108/84 DA COMISSÃO](http://publications.europa.eu/resource/celex/31984R2108) [de 23 de Julho de 1984](http://publications.europa.eu/resource/celex/31984R2108) [que prevê regras pormenorizadas para a determinação da malhagem das redes de pesca](http://publications.europa.eu/resource/celex/31984R2108) (JO L 194, 24.7.1984, p.22)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 129/2003 da Comissão de 24 de Janeiro de 2003](http://publications.europa.eu/resource/celex/32003R0129) — L 22 — 5 — 25.1.2003"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:482140:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao-rectificacao/2009-968178617",
+ "dre_path": "/dr/detalhe/declaracao-rectificacao/95-2009-482140",
+ "source_lastmod": "2025-12-15",
+ "versions": [
+  {
+   "date": "2009-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "983592682",
+    "968671375"
+   ]
+  }
+ ],
+ "fragments": {
+  "983592682": {
+   "fragment_id": "968671075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ao abrigo da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 162/2007, de 3 de Maio, declara-se que a Portaria n.º 1398/2009, de 7 de Dezembro, publicada no Diário da República, 1.ª série, n.º 236, de 7 de Dezembro de 2009, saiu com a seguinte inexactidão que, mediante declaração da entidade emitente, assim se rectifica:\n\nNo n.º 2 do artigo 1.º do Regulamento do Regime de Apoio à Imobilização Definitiva de Embarcações de Pesca Licenciadas para a Arte do Cerco, onde se lê «na página electrónica da Direcção-Geral das Pescas e Aquicultura (www.minagricultura.pt)» deve ler-se «na página electrónica da Direcção-Geral das Pescas e Aquicultura (www.dgpa.min-agricultura.pt)»."
+  },
+  "968671375": {
+   "fragment_id": "968671275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Centro Jurídico, 18 de Dezembro de 2009. - A Directora, Susana de Meneses Brasil de Brito."
+  }
+ }
+}

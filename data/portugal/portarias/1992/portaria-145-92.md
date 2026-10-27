@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:168203:por
+title: Portaria n.º 145/92
+short_title: null
+summary: Define os contingentes de importação de veículos automóveis das posições 8702, 8703 e 8704 originários de terceiros
+  países
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, da Indústria e Energia e do Comércio e Turismo
+proposing_entity: null
+official_number: 145/92
+official_date: null
+publication_date: '1992-03-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 55/1992, Série I-B de 1992-03-06
+  number: '55'
+  series: I
+  supplement: null
+  pages: 1184 - 1184
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/03/055b00/11841184.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/145/1992/03/06/p/dre/pt/html
+  oj: null
+  dre: '168203'
+  dre_path: /dr/detalhe/portaria/145-1992-168203
+  internal: pt:dre:168203:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/145-1992-168203
+  metadata_url: https://data.dre.pt/eli/port/145/1992/03/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/145-1992-168203
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:12:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f15e3a9c89030cecf97078fcf93a81770818e6067aa34da0341ee731767f0e44
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CEE
+- Contingentação
+- Direcção Geral do Comércio Externo
+- Importação
+- Regulamento CE
+- Restrição à Importação
+- Veículo
+relationships:
+- type: cites
+  target: celex:31982R0288
+  label: null
+  source: http://data.europa.eu/eli/reg/1982/288/oj
+- type: cites
+  target: celex:31991R0196
+  label: null
+  source: http://data.europa.eu/eli/reg/1991/196/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:12:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 145/92
+
+de 6 de Março
+
+As restrições quantitativas à importação de veículos automóveis das posições 8702, 8703 e 8704 (Nomenclatura Combinada) originários de terceiros países, com exclusão dos países preferenciais, dos da Europa Central e Oriental, das Repúblicas que integravam a União das Repúblicas Socialistas Soviéticas e dos de comércio de Estado, enquadram-se nos regimes em vigor na política comercial comunitária, uma vez que estes produtos estão incluídos no anexo I do Regulamento (CEE) n.º [288/82](http://data.europa.eu/eli/reg/1982/288/oj?locale=pt) do Conselho, de 5 de Fevereiro, com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º [196/91](http://data.europa.eu/eli/reg/1991/196/oj?locale=pt) do Conselho, de 21 de Janeiro.
+
+Compete exclusivamente às autoridades portuguesas definir as regras de gestão interna das referidas restrições quantitativas.
+
+Em virtude de 1992 se constituir no último ano de aplicação do presente regime, pequenas alterações em relação ao passado são introduzidas para assegurar uma transição progressiva para o regime que vigorará no pós-1993.
+
+Assim, nos termos do artigo 2.º do Decreto-Lei n.º 406/87, de 31 de Dezembro, com a última redacção que lhe foi dada pelo Decreto-Lei n.º 92/91, de 23 de Fevereiro:
+
+Manda o Governo, pelos Ministros das Finanças, da Indústria e Energia e do Comércio e Turismo, o seguinte:
+
+1.º É aberto, para o período que decorre de 1 de Janeiro a 31 de Dezembro de 1992, um contingente para a importação de 10 veículos automóveis da posição 8702 originários de terceiros países com exclusão dos países preferenciais, dos da Europa Central e Oriental, das Repúblicas que integravam a União das Repúblicas Socialistas Soviéticas e dos países de comércio de Estado.
+
+2.º É aberto, para o período que decorre de 1 de Janeiro a 31 de Dezembro de 1992, um contingente para a importação de 20000 veículos automóveis da posição 8703, com exclusão dos todo o terreno e dos classificados pelo código 8703.10, originários de terceiros países com exclusão dos países preferenciais, dos da Europa Central e Oriental, das Repúblicas que integravam a União das Repúblicas Socialistas Soviéticas e dos países de comércio de Estado.
+
+3.º É aberto, para o período que decorre de 1 de Janeiro a 31 de Dezembro de 1992, um contingente para a importação de 120 veículos todo o terreno da posição 8703 e veículos automóveis da posição 8704, com exclusão dos códigos 8704.10, 8704.21.10, 8704.22.10, 8704.23.10, 8704.31.10 e 8704.32.10, originários de terceiros países com exclusão dos países preferenciais, dos da Europa Central e Oriental, das Repúblicas que integravam a União das Repúblicas Socialistas Soviéticas e dos países de comércio de Estado.
+
+4.º Compete à Direcção-Geral do Comércio Externo (DGCE) proceder à distribuição dos contingentes fixados nos n.os 1.º, 2.º e 3.º
+
+5.º - a) O contingente estabelecido no n.º 1.º será rateado em partes iguais pelas empresas que a ele se candidatarem.
+
+b) Os contingentes estabelecidos nos n.os 2.º e 3.º da presente portaria serão repartidos em duas parcelas, sendo uma correspondente a 97% do seu montante destinada a ser distribuída pelos importadores tradicionais e outra de 3% desse mesmo montante a ser distribuída pelos novos importadores.
+
+c) Relativamente a cada um dos contingentes referidos na alínea anterior, consideram-se como importadores tradicionais as empresas que efectuaram consecutivamente importações dos produtos em causa em cada um dos anos de 1989, 1990 e 1991.
+
+d) A parcela a repartir pelos importadores tradicionais será distribuída proporcionalmente ao número total de veículos automóveis das posições abrangidas pelo contingente em causa por eles importados em 1989, 1990 e 1991, tendo ainda em consideração a viabilidade económica da actividade de importação, potenciada pela existência de unidades de montagem, rede de distribuição e serviços pós-venda.
+
+e) A parcela a ratear pelos novos importadores será distribuída tendo também em consideração a viabilidade económica da actividade.
+
+6.º Nos contingentes em que a parcela dos 3% referida na alínea b) do n.º 5.º não venha a ser totalmente distribuída pelos novos importadores, quer por aplicação do disposto na alínea e) do n.º 5.º, quer por não se terem apresentado candidatos à mesma, o montante que restar será distribuído pelos importadores tradicionais proporcionalmente às quotas que lhes foram atribuídas.
+
+7.º - a) Só poderão ser contempladas na distribuição dos contingentes as empresas que a eles formalmente se candidatarem.
+
+b) As candidaturas deverão fazer-se acompanhar do adequado documento aduaneiro comprovativo das importações efectuadas nos anos de 1989, 1990 e 1991, expressas em número de veículos automóveis a que o contingente se refere.
+
+8.º - a) As candidaturas referidas na alínea a) do n.º 7.º deverão ser apresentadas até ao 15.º dia após a publicação da presente portaria.
+
+b) As candidaturas das empresas sediadas nas Regiões Autónomas dos Açores e da Madeira serão comunicadas à DGCE pelas entidades competentes daquelas Regiões no prazo de dois dias úteis a partir do termo do período para a sua apresentação, com a indicação dos seguintes elementos:
+
+Identificação das empresas concorrentes;
+
+Montante das importações efectuadas por cada uma delas em 1989, 1990 e 1991, sua classificação pautal (Nomenclatura Combinada) e país de origem, de acordo com o documento aduaneiro de prova que apresentarem.
+
+c) A DGCE comunicará às entidades competentes das Regiões Autónomas as quotas que na distribuição geral foram atribuídas às empresas que ali se candidataram.
+
+Ministérios das Finanças, da Indústria e Energia e do Comércio e Turismo.
+
+Assinada em 17 de Fevereiro de 1992.
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado do Comércio Externo.

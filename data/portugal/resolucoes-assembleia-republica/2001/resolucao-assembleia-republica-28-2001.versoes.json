@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:361909:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/2001-957618058",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/28-2001-361909",
+ "source_lastmod": "2025-11-28",
+ "versions": [
+  {
+   "date": "2001-04-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "957668116"
+   ]
+  }
+ ],
+ "fragments": {
+  "957668116": {
+   "fragment_id": "957618059",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 28/2001\n\nCriação de um programa especial de apoio aos municípios de Castelo de Paiva e Penafiel\n\nA Assembleia da República, considerando o trágico acidente ocorrido na Ponte sobre o rio Douro no passado dia 4 de Março, resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo:\n\n1 - A criação de um programa especial de apoio aos Municípios de Castelo de Paiva, Penafiel e Cinfães, destinado a fazer face às despesas, encargos e prejuízos decorrentes da queda da Ponte Hintze Ribeiro.\n\n2 - Que o programa a criar seja mobilizado, a fundo perdido, mediante a apresentação de projectos por parte das autarquias locais envolvidas.\n\n3 - Que seja considerado prioritário o financiamento das despesas relativas a:\n\na) Protecção e apoio social de crianças e idosos;\n\nb) Cuidados de saúde;\n\nc) Apoio psicológico nas escolas;\n\nd) Beneficiação, alargamento e reparação de estradas e caminhos;\n\ne) Infra-estruturas e equipamentos dos corpos de bombeiros;\n\nf) Apoio jurídico às famílias das vítimas do acidente.\n\n4 - A criação de uma linha de crédito com juro bonificado para apoio aos agentes económicos dos concelhos envolvidos que demonstrem prejuízos, lucros cessantes ou encargos adicionais decorrentes da queda da Ponte.\n\n5 - A tomada de decisão imediata, com carácter de prioridade absoluta, quanto ao lançamento das seguintes obras:\n\na) Travessia provisória do rio Douro entre Castelo de Paiva e Entre-os-Rios;\n\nb) Construção da nova ponte e respectivos acessos;\n\nc) Construção do troço Pedorido-Cruz da Carreira, na EN 222;\n\nd) Construção do IC 35;\n\ne) Beneficiação da EN 224 entre Sobrado e Entre-os-Rios;\n\nf) Beneficiação da EN 221-1 entre Cruz da Carreira e Greire."
+  }
+ }
+}

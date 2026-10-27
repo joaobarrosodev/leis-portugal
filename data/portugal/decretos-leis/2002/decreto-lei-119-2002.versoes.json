@@ -1,0 +1,326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:288443:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-835638775",
+ "dre_path": "/dr/detalhe/decreto-lei/119-2002-288443",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-04-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "835634318",
+    "835634319",
+    "835634320",
+    "835634321",
+    "835634322",
+    "835634323",
+    "835634324",
+    "835634325",
+    "835634326",
+    "835634327",
+    "835634328",
+    "835634329"
+   ]
+  },
+  {
+   "date": "2005-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:248263:por",
+     "title": "Decreto-Lei n.º 152/2005",
+     "published": "2005-08-31",
+     "dre_path": "/dr/detalhe/decreto-lei/152-2005-248263"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "835634318",
+    "835634319",
+    "835634320",
+    "835634321",
+    "835634322",
+    "835634331",
+    "835634324",
+    "835634325",
+    "835634332",
+    "835634327",
+    "835634328",
+    "835634329",
+    "835634330"
+   ]
+  },
+  {
+   "date": "2014-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345968:por",
+     "title": "Decreto-Lei n.º 85/2014",
+     "published": "2014-05-27",
+     "dre_path": "/dr/detalhe/decreto-lei/85-2014-25345968"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "835634318",
+    "835634339",
+    "835634340",
+    "835634341",
+    "835634342",
+    "835634331",
+    "835634343",
+    "835634344",
+    "835634345",
+    "835634346",
+    "835634347",
+    "835634348",
+    "835634330"
+   ]
+  }
+ ],
+ "fragments": {
+  "835634318": {
+   "fragment_id": "835638776",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 119/2002\n\nde 20 de Abril\n\nResultado do consenso generalizado de que a manutenção das emissões que empobrecem a camada de ozono aos níveis actuais continua a provocar danos importantes à camada de ozono, e fruto das responsabilidades assumidas pela Comunidade Europeia, enquanto parte na Convenção de Viena para a protecção da camada de ozono e no Protocolo de Montreal, relativo às substâncias que empobrecem a camada de ozono, no sentido da adopção de medidas, ao nível comunitário, para assegurar o efectivo cumprimento dos objectivos visados nos referidos instrumentos jurídicos internacionais, foi publicado o Regulamento (CE) n.º 2037/2000, do Parlamento Europeu e do Conselho, de 29 de Junho, relativo às substâncias que empobrecem a camada de ozono, e que revoga o Regulamento (CE) n.º 3093/94, do Conselho, de 15 de Dezembro, sobre a mesma matéria.\n\nO Regulamento (CE) n.º 2037/2000 estabelece novas regras para o controlo da utilização e eliminação da produção e da colocação no mercado de brometo de metilo, bem como para a definição de um sistema de licenciamento das importações e exportações de substâncias que empobrecem a camada de ozono, promovendo o uso de tecnologias de substituição e de produtos alternativos.\n\nNo âmbito do Regulamento (CE) n.º 2037/2000, merecem igual destaque as regras, da maior importância, em sede de recuperação, reciclagem, valorização e destruição de substâncias que empobrecem a camada de ozono.\n\nMas, a aplicação do Regulamento (CE) n.º 2037/2000, na ordem interna, carece da necessária adequação ao nível dos procedimentos de execução, sob pena de não ser possível garantir o cumprimento das obrigações decorrentes daquele normativo comunitário.\n\nO presente diploma visa, assim, dar resposta à necessidade inadiável de garantir a eficácia da aplicação dos conteúdos impostos no regulamento, pela designação da autoridade competente para o exercício das funções previstas no regulamento, identificação dos organismos sectorialmente habilitados a pronunciar-se no âmbito da aplicação do regulamento, bem como ao nível da clarificação dos procedimentos a adoptar pelo agentes económicos, e da previsão das consequências jurídicas do incumprimento das obrigações fixadas no regulamento em sede de ilícito de mera ordenação social.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "835634319": {
+   "fragment_id": "835638777",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma visa assegurar a execução e garantir o cumprimento, na ordem jurídica interna, das obrigações decorrentes para o Estado Português do Regulamento (CE) n.º 2037/2000, do Parlamento Europeu e do Conselho, de 29 de Junho, relativo às substâncias que empobrecem a camada de ozono, adiante designado por regulamento."
+  },
+  "835634320": {
+   "fragment_id": "835638778",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autoridade competente\n\nPara efeitos da aplicação das disposições do regulamento, o Instituto do Ambiente (IA) é a autoridade competente nele prevista, cabendo-lhe o exercício das funções a esta cometidas pelo mesmo regulamento."
+  },
+  "835634321": {
+   "fragment_id": "835638779",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorização de produção, importação e utilização de substâncias regulamentadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autorização de produção, importação e utilização de substâncias regulamentadas\n\n1 - As autorizações de produção a que se referem os n.os 5, 6, 7 e 8 do artigo 3.º do regulamento carecem do parecer prévio da Direcção-Geral da Indústria (DGI), que deve ser comunicado ao IA no prazo máximo de 20 dias úteis.\n\n2 - Para efeitos da aplicação do disposto nos n.os 9 e 10 do artigo 3.º do regulamento, compete à DGI emitir um parecer, que deve ser comunicado ao IA no prazo referido no número anterior.\n\n3 - Os pedidos de autorização para utilização crítica e temporária de brometo de metilo, a que se refere a alínea ii) do n.º 2 do artigo 3.º do regulamento, devem ser apresentados ao IA, pela Direcção-Geral da Protecção das Culturas (DGPC).\n\n4 - Os pedidos de isenção temporária para permitir a utilização de clorofluorocarbonos em aplicações médicas ou militares, a que se refere o n.º 1 do artigo 4.º do regulamento, devem ser apresentados ao IA pelas entidades competentes do Ministério da Saúde ou do Ministério da Defesa Nacional.\n\n5 - Para efeito de decisão, compete ao IA promover o encaminhamento dos pedidos referidos nos n.os 3 e 4 para a Comissão Europeia."
+  },
+  "835634322": {
+   "fragment_id": "835638780",
+   "type": 11,
+   "heading": "Artigo 4.º — Recuperação de substâncias regulamentadas usadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recuperação de substâncias regulamentadas usadas\n\n1 - Compete ao Instituto dos Resíduos (INR) estabelecer planos de acção destinados à recuperação, à reciclagem, à valorização e à destruição de substâncias regulamentadas, nos termos do regulamento.\n\n2 - Os planos de acção referidos no número anterior devem, designadamente, criar sistemas que assegurem a recuperação, a reciclagem, a valorização e a destruição das substâncias regulamentadas.\n\n3 - O INR deve informar o IA dos planos de acção estabelecidos nos termos do presente artigo.\n\n4 - Ao IA compete assegurar a comunicação à Comissão Europeia dos planos previstos no número anterior."
+  },
+  "835634323": {
+   "fragment_id": "835638781",
+   "type": 11,
+   "heading": "Artigo 5.º — Qualificações mínimas do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Qualificações mínimas do pessoal\n\n1 - Compete aos organismos próprios do Ministério do Trabalho e da Solidariedade dar cumprimento ao disposto no n.º 1 do artigo 17.º do regulamento no que respeita ao estabelecimento das qualificações mínimas do pessoal envolvido em operações de controlo de fugas e recuperação de fugas de equipamento comercial e industrial de ar condicionado e refrigeração, de sistemas de protecção contra incêndios, bem como de equipamentos que contenham solventes.\n\n2 - Para efeitos do cumprimento do disposto no n.º 2 do artigo 17.º do regulamento, o pessoal envolvido na utilização de brometo de metilo em instalações de fumigação, e em operações associadas à fumigação de solos, deve cumprir rigorosamente as condições de utilização específicas para esta substância activa, bem como as precauções toxicológicas e ambientais aprovadas pela DGPC, as quais se encontram apostas nos rótulos das respectivas embalagens.\n\n3 - Todos os trabalhadores envolvidos nas utilizações referidas no número anterior devem ser titulares de um certificado de frequência, com aproveitamento, no curso de formação de aplicador de produtos fitofarmacêuticos de elevado risco, a reconhecer pela DGPC."
+  },
+  "835634324": {
+   "fragment_id": "835638782",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicação de dados\n\n1 - Sem prejuízo do disposto no artigo 19.º do regulamento, compete à DGPC transmitir ao IA os dados referidos no segundo parágrafo da alínea iii) do n.º 2 do artigo 4.º do regulamento, relativos ao brometo de metilo.\n\n2 - As entidades responsáveis pelas utilizações críticas enumeradas no anexo VII ao regulamento têm a obrigação de fornecer ao IA os dados referidos na alínea iv) do n.º 4 do artigo 4.º do regulamento.\n\n3 - As entidades responsáveis pela utilização de hidroclorofluorocarbonos que recorram à derrogação prevista no n.º 3 do artigo 5.º do regulamento devem comunicar ao IA os dados referidos nessa disposição.\n\n4 - Todos os produtores, importadores e exportadores de substâncias regulamentadas, abrangidas pela aplicação do regulamento, devem remeter ao IA uma cópia dos dados referidos no artigo 19.º do regulamento.\n\n5 - O IA deve assegurar a comunicação dos dados a que se reportam os números anteriores à Comissão Europeia."
+  },
+  "835634325": {
+   "fragment_id": "835638783",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fiscalização\n\nA fiscalização do cumprimento das disposições constantes do presente diploma e do regulamento incumbe à Inspecção-Geral do Ambiente, à Inspecção-Geral das Actividades Económicas, à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo e às demais entidades competentes em razão da matéria."
+  },
+  "835634326": {
+   "fragment_id": "835638784",
+   "type": 11,
+   "heading": "Artigo 8.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sanções\n\n1 - Constituem contra-ordenações graves, puníveis com coima de (euro) 1246,99 a (euro) 3740,98, quando praticadas por pessoas singulares, e de (euro) 2493,99 a (euro) 44891,81, quando praticadas por pessoas colectivas:\n\na) A violação do disposto no n.º 1 do artigo 3.º do regulamento;\n\nb) A inobservância dos limites de produção de substâncias regulamentadas previstos na alínea i) do n.º 2 e no n.º 3, ambos do artigo 3.º do regulamento;\n\nc) O incumprimento do disposto nas licenças ou autorizações de produção a que se referem os n.os 5 a 10 do artigo 3.º do regulamento;\n\nd) A violação do disposto no n.º 1, na alínea ii) do n.º 2 e no n.º 6, todos do artigo 4.º do regulamento;\n\ne) A inobservância dos limites de colocação no mercado ou de utilização de substâncias regulamentadas previstos nas alíneas i), iii) e iv) do n.º 2 e nos n.os 3 e 4, todos do artigo 4.º do regulamento;\n\nf) A violação do disposto no artigo 5.º do regulamento;\n\ng) A violação da proibição de importação ou de exportação de substâncias regulamentadas ou de produtos que as contenham, prevista nos artigos 8.º, 9.º e 11.º do regulamento;\n\nh) A importação ou a exportação de substâncias regulamentadas ou de produtos que as contenham sem as licenças exigíveis, a que se referem os artigos 6.º, 12.º e 13.º, ou sem a observância dos limites previstos no artigo 7.º, todos do regulamento;\n\ni) A violação das disposições sobre recuperação de substâncias regulamentadas usadas previstas no artigo 16.º do regulamento, bem como das regras estabelecidas nos sistemas a que se refere o artigo 4.º do presente diploma;\n\nj) A violação do disposto no artigo 17.º do regulamento;\n\nk) A violação do disposto no n.º 1 do artigo 22.º do regulamento.\n\n2 - Constituem, ainda, contra-ordenações, puníveis com coima de (euro) 498,80 a (euro) 2493,99, quando praticadas por pessoas singulares, e de (euro) 1246,99 a (euro) 24939,99, quando praticadas por pessoas colectivas:\n\na) A violação dos requisitos mínimos de qualificação do pessoal envolvido nas acções de manutenção previstos no artigo 17.º do regulamento;\n\nb) O incumprimento da obrigação de comunicação de dados prevista no artigo 19.º do regulamento;\n\nc) O incumprimento da obrigação de comunicação de dados prevista nos n.os 2, 3 e 4 do artigo 6.º do presente diploma.\n\n3 - A negligência é punível.\n\n4 - Em função da natureza e da gravidade da infracção, a autoridade competente para a aplicação da coima pode determinar a aplicação de sanções acessórias, nos termos da lei geral."
+  },
+  "835634327": {
+   "fragment_id": "835638785",
+   "type": 11,
+   "heading": "Artigo 9.º — Processamento e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Processamento e aplicação das coimas\n\n1 - O processamento das contra-ordenações é da competência da entidade fiscalizadora que lavrou o auto de notícia da infracção.\n\n2 - A aplicação das coimas e das sanções acessórias é da competência do inspector-geral do Ambiente."
+  },
+  "835634328": {
+   "fragment_id": "835638786",
+   "type": 11,
+   "heading": "Artigo 10.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Produto das coimas\n\nO produto das coimas previstas no artigo 8.º é afectado, independentemente da fase processual em que estas forem liquidadas, da seguinte forma:\n\na) 20% para a entidade que lavra o auto e processa a contra-ordenação;\n\nb) 20% para a Inspecção-Geral do Ambiente;\n\nc) 60% para o Estado."
+  },
+  "835634329": {
+   "fragment_id": "835638787",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação às Regiões Autónomas\n\n1 - As disposições do presente diploma e do regulamento aplicam-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir em diploma regional adequado.\n\n2 - Os serviços e organismos das respectivas administrações regionais autónomas devem remeter ao IA os dados a que se refere o artigo 6.º do presente diploma."
+  },
+  "835634331": {
+   "fragment_id": "835638781",
+   "type": 11,
+   "heading": "Artigo 5.º — Qualificações mínimas do pessoal",
+   "in_force_from": "2005-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 152/2005 - Diário da República n.º 167/2005, Série I-A de 2005-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2005-248263), em vigor a partir de 2005-09-05"
+   ],
+   "markdown": "###### Artigo 5.º — Qualificações mínimas do pessoal\n\n1 - Compete aos organismos próprios do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional dar cumprimento ao disposto no n.º 5 do artigo 16.º e no n.º 1 do artigo 17.º do Regulamento (CE) n.º 2037/2000, do Parlamento Europeu e do Conselho, de 29 de Junho, no que respeita às qualificações mínimas do pessoal envolvido nas operações de recuperação, reciclagem, valorização e destruição de substâncias que empobrecem a camada de ozono contidas em equipamentos de refrigeração e de ar condicionado, bombas de calor, sistemas de protecção contra incêndios e extintores, bem como em equipamento que contenha solventes, e nas operações de manutenção e de assistência desses mesmos equipamentos, incluindo a detecção de eventuais fugas das referidas substâncias.\n\n2 - Para efeitos do cumprimento do disposto no n.º 2 do artigo 17.º do regulamento, o pessoal envolvido na utilização de brometo de metilo em instalações de fumigação, e em operações associadas à fumigação de solos, deve cumprir rigorosamente as condições de utilização específicas para esta substância activa, bem como as precauções toxicológicas e ambientais aprovadas pela DGPC, as quais se encontram apostas nos rótulos das respectivas embalagens.\n\n3 - Todos os trabalhadores envolvidos nas utilizações referidas no número anterior devem ser titulares de um certificado de frequência, com aproveitamento, no curso de formação de aplicador de produtos fitofarmacêuticos de elevado risco, a reconhecer pela DGPC.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 152/2005 - Diário da República n.º 167/2005, Série I-A de 2005-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2005-248263), em vigor a partir de 2005-09-05"
+  },
+  "835634332": {
+   "fragment_id": "835638784",
+   "type": 11,
+   "heading": "Artigo 8.º — Sanções",
+   "in_force_from": "2005-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 152/2005 - Diário da República n.º 167/2005, Série I-A de 2005-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2005-248263), em vigor a partir de 2005-09-05"
+   ],
+   "markdown": "###### Artigo 8.º — Sanções\n\n1 - Constituem contra-ordenações graves, puníveis com coima de (euro) 1246,99 a (euro) 3740,98, quando praticadas por pessoas singulares, e de (euro) 2493,99 a (euro) 44891,81, quando praticadas por pessoas colectivas:\n\na) A violação do disposto no n.º 1 do artigo 3.º do regulamento;\n\nb) A inobservância dos limites de produção de substâncias regulamentadas previstos na alínea i) do n.º 2 e no n.º 3, ambos do artigo 3.º do regulamento;\n\nc) O incumprimento do disposto nas licenças ou autorizações de produção a que se referem os n.os 5 a 10 do artigo 3.º do regulamento;\n\nd) A violação do disposto no n.º 1, na alínea ii) do n.º 2 e no n.º 6, todos do artigo 4.º do regulamento;\n\ne) A inobservância dos limites de colocação no mercado ou de utilização de substâncias regulamentadas previstos nas alíneas i), iii) e iv) do n.º 2 e nos n.os 3 e 4, todos do artigo 4.º do regulamento;\n\nf) A violação do disposto no artigo 5.º do regulamento;\n\ng) A violação da proibição de importação ou de exportação de substâncias regulamentadas ou de produtos que as contenham, prevista nos artigos 8.º, 9.º e 11.º do regulamento;\n\nh) A importação ou a exportação de substâncias regulamentadas ou de produtos que as contenham sem as licenças exigíveis, a que se referem os artigos 6.º, 12.º e 13.º, ou sem a observância dos limites previstos no artigo 7.º, todos do regulamento;\n\ni) [Revogada.]\n\nj) [Revogada.]\n\nk) A violação do disposto no n.º 1 do artigo 22.º do regulamento.\n\n2 - Constituem, ainda, contra-ordenações, puníveis com coima de (euro) 498,80 a (euro) 2493,99, quando praticadas por pessoas singulares, e de (euro) 1246,99 a (euro) 24939,99, quando praticadas por pessoas colectivas:\n\na) A violação dos requisitos mínimos de qualificação do pessoal envolvido nas acções de manutenção previstos no artigo 17.º do regulamento;\n\nb) O incumprimento da obrigação de comunicação de dados prevista no artigo 19.º do regulamento;\n\nc) O incumprimento da obrigação de comunicação de dados prevista nos n.os 2, 3 e 4 do artigo 6.º do presente diploma.\n\n3 - A negligência é punível.\n\n4 - Em função da natureza e da gravidade da infracção, a autoridade competente para a aplicação da coima pode determinar a aplicação de sanções acessórias, nos termos da lei geral.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 152/2005 - Diário da República n.º 167/2005, Série I-A de 2005-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2005-248263), em vigor a partir de 2005-09-05"
+  },
+  "835634330": {
+   "fragment_id": "835638788",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Março de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa - Luís Garcia Braga da Cruz - Luís Manuel Capoulas Santos - António Fernando Correia de Campos - Paulo José Fernandes Pedroso - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 3 de Abril de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Abril de 2002.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "835634339": {
+   "fragment_id": "835638777",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma visa assegurar a execução e garantir o cumprimento, na ordem jurídica interna, das obrigações decorrentes para o Estado Português do Regulamento (CE) n.º 2037/2000, do Parlamento Europeu e do Conselho, de 29 de Junho, relativo às substâncias que empobrecem a camada de ozono, adiante designado por regulamento.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+  },
+  "835634340": {
+   "fragment_id": "835638778",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridade competente",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Autoridade competente\n\nPara efeitos da aplicação das disposições do regulamento, o Instituto do Ambiente (IA) é a autoridade competente nele prevista, cabendo-lhe o exercício das funções a esta cometidas pelo mesmo regulamento.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+  },
+  "835634341": {
+   "fragment_id": "835638779",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorização de produção, importação e utilização de substâncias regulamentadas",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Autorização de produção, importação e utilização de substâncias regulamentadas\n\n1 - As autorizações de produção a que se referem os n.os 5, 6, 7 e 8 do artigo 3.º do regulamento carecem do parecer prévio da Direcção-Geral da Indústria (DGI), que deve ser comunicado ao IA no prazo máximo de 20 dias úteis.\n\n2 - Para efeitos da aplicação do disposto nos n.os 9 e 10 do artigo 3.º do regulamento, compete à DGI emitir um parecer, que deve ser comunicado ao IA no prazo referido no número anterior.\n\n3 - Os pedidos de autorização para utilização crítica e temporária de brometo de metilo, a que se refere a alínea ii) do n.º 2 do artigo 3.º do regulamento, devem ser apresentados ao IA, pela Direcção-Geral da Protecção das Culturas (DGPC).\n\n4 - Os pedidos de isenção temporária para permitir a utilização de clorofluorocarbonos em aplicações médicas ou militares, a que se refere o n.º 1 do artigo 4.º do regulamento, devem ser apresentados ao IA pelas entidades competentes do Ministério da Saúde ou do Ministério da Defesa Nacional.\n\n5 - Para efeito de decisão, compete ao IA promover o encaminhamento dos pedidos referidos nos n.os 3 e 4 para a Comissão Europeia.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+  },
+  "835634342": {
+   "fragment_id": "835638780",
+   "type": 11,
+   "heading": "Artigo 4.º — Recuperação de substâncias regulamentadas usadas",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+   ],
+   "markdown": "###### Artigo 4.º — Recuperação de substâncias regulamentadas usadas\n\n1 - Compete ao Instituto dos Resíduos (INR) estabelecer planos de acção destinados à recuperação, à reciclagem, à valorização e à destruição de substâncias regulamentadas, nos termos do regulamento.\n\n2 - Os planos de acção referidos no número anterior devem, designadamente, criar sistemas que assegurem a recuperação, a reciclagem, a valorização e a destruição das substâncias regulamentadas.\n\n3 - O INR deve informar o IA dos planos de acção estabelecidos nos termos do presente artigo.\n\n4 - Ao IA compete assegurar a comunicação à Comissão Europeia dos planos previstos no número anterior.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+  },
+  "835634343": {
+   "fragment_id": "835638782",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação de dados",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+   ],
+   "markdown": "###### Artigo 6.º — Comunicação de dados\n\n1 - Sem prejuízo do disposto no artigo 19.º do regulamento, compete à DGPC transmitir ao IA os dados referidos no segundo parágrafo da alínea iii) do n.º 2 do artigo 4.º do regulamento, relativos ao brometo de metilo.\n\n2 - As entidades responsáveis pelas utilizações críticas enumeradas no anexo VII ao regulamento têm a obrigação de fornecer ao IA os dados referidos na alínea iv) do n.º 4 do artigo 4.º do regulamento.\n\n3 - As entidades responsáveis pela utilização de hidroclorofluorocarbonos que recorram à derrogação prevista no n.º 3 do artigo 5.º do regulamento devem comunicar ao IA os dados referidos nessa disposição.\n\n4 - Todos os produtores, importadores e exportadores de substâncias regulamentadas, abrangidas pela aplicação do regulamento, devem remeter ao IA uma cópia dos dados referidos no artigo 19.º do regulamento.\n\n5 - O IA deve assegurar a comunicação dos dados a que se reportam os números anteriores à Comissão Europeia.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+  },
+  "835634344": {
+   "fragment_id": "835638783",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Fiscalização\n\nA fiscalização do cumprimento das disposições constantes do presente diploma e do regulamento incumbe à Inspecção-Geral do Ambiente, à Inspecção-Geral das Actividades Económicas, à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo e às demais entidades competentes em razão da matéria.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+  },
+  "835634345": {
+   "fragment_id": "835638784",
+   "type": 11,
+   "heading": "Artigo 8.º — Sanções",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 152/2005 - Diário da República n.º 167/2005, Série I-A de 2005-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2005-248263), em vigor a partir de 2005-09-05"
+   ],
+   "markdown": "###### Artigo 8.º — Sanções\n\n1 - Constituem contra-ordenações graves, puníveis com coima de (euro) 1246,99 a (euro) 3740,98, quando praticadas por pessoas singulares, e de (euro) 2493,99 a (euro) 44891,81, quando praticadas por pessoas colectivas:\n\na) A violação do disposto no n.º 1 do artigo 3.º do regulamento;\n\nb) A inobservância dos limites de produção de substâncias regulamentadas previstos na alínea i) do n.º 2 e no n.º 3, ambos do artigo 3.º do regulamento;\n\nc) O incumprimento do disposto nas licenças ou autorizações de produção a que se referem os n.os 5 a 10 do artigo 3.º do regulamento;\n\nd) A violação do disposto no n.º 1, na alínea ii) do n.º 2 e no n.º 6, todos do artigo 4.º do regulamento;\n\ne) A inobservância dos limites de colocação no mercado ou de utilização de substâncias regulamentadas previstos nas alíneas i), iii) e iv) do n.º 2 e nos n.os 3 e 4, todos do artigo 4.º do regulamento;\n\nf) A violação do disposto no artigo 5.º do regulamento;\n\ng) A violação da proibição de importação ou de exportação de substâncias regulamentadas ou de produtos que as contenham, prevista nos artigos 8.º, 9.º e 11.º do regulamento;\n\nh) A importação ou a exportação de substâncias regulamentadas ou de produtos que as contenham sem as licenças exigíveis, a que se referem os artigos 6.º, 12.º e 13.º, ou sem a observância dos limites previstos no artigo 7.º, todos do regulamento;\n\ni) [Revogada.]\n\nj) [Revogada.]\n\nk) A violação do disposto no n.º 1 do artigo 22.º do regulamento.\n\n2 - Constituem, ainda, contra-ordenações, puníveis com coima de (euro) 498,80 a (euro) 2493,99, quando praticadas por pessoas singulares, e de (euro) 1246,99 a (euro) 24939,99, quando praticadas por pessoas colectivas:\n\na) A violação dos requisitos mínimos de qualificação do pessoal envolvido nas acções de manutenção previstos no artigo 17.º do regulamento;\n\nb) O incumprimento da obrigação de comunicação de dados prevista no artigo 19.º do regulamento;\n\nc) O incumprimento da obrigação de comunicação de dados prevista nos n.os 2, 3 e 4 do artigo 6.º do presente diploma.\n\n3 - A negligência é punível.\n\n4 - Em função da natureza e da gravidade da infracção, a autoridade competente para a aplicação da coima pode determinar a aplicação de sanções acessórias, nos termos da lei geral.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 152/2005 - Diário da República n.º 167/2005, Série I-A de 2005-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2005-248263), em vigor a partir de 2005-09-05"
+  },
+  "835634346": {
+   "fragment_id": "835638785",
+   "type": 11,
+   "heading": "Artigo 9.º — Processamento e aplicação das coimas",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+   ],
+   "markdown": "###### Artigo 9.º — Processamento e aplicação das coimas\n\n1 - O processamento das contra-ordenações é da competência da entidade fiscalizadora que lavrou o auto de notícia da infracção.\n\n2 - A aplicação das coimas e das sanções acessórias é da competência do inspector-geral do Ambiente.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+  },
+  "835634347": {
+   "fragment_id": "835638786",
+   "type": 11,
+   "heading": "Artigo 10.º — Produto das coimas",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+   ],
+   "markdown": "###### Artigo 10.º — Produto das coimas\n\nO produto das coimas previstas no artigo 8.º é afectado, independentemente da fase processual em que estas forem liquidadas, da seguinte forma:\n\na) 20% para a entidade que lavra o auto e processa a contra-ordenação;\n\nb) 20% para a Inspecção-Geral do Ambiente;\n\nc) 60% para o Estado.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+  },
+  "835634348": {
+   "fragment_id": "835638787",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicação às Regiões Autónomas",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+   ],
+   "markdown": "###### Artigo 11.º — Aplicação às Regiões Autónomas\n\n1 - As disposições do presente diploma e do regulamento aplicam-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir em diploma regional adequado.\n\n2 - Os serviços e organismos das respectivas administrações regionais autónomas devem remeter ao IA os dados a que se refere o artigo 6.º do presente diploma.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 85/2014 - Diário da República n.º 101/2014, Série I de 2014-05-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2014-25345968), em vigor a partir de 2014-06-01"
+  }
+ }
+}

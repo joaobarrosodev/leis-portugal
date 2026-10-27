@@ -1,0 +1,433 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:130350400:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2020-185654363",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/23-2020-130350400",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-03-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "900168410",
+    "185654403",
+    "185654404",
+    "185654405",
+    "185654406",
+    "185654407",
+    "185654408",
+    "185654409",
+    "185654410",
+    "185654411",
+    "185654412",
+    "185654413",
+    "185654414",
+    "185654415",
+    "185654417"
+   ]
+  },
+  {
+   "date": "2022-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185601685:por",
+     "title": "Decreto Regulamentar Regional n.º 11/2022/M",
+     "published": "2022-07-04",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "185654402",
+    "185654403",
+    "185654418",
+    "185654405",
+    "185654419",
+    "185654420",
+    "185654421",
+    "185654409",
+    "185654410",
+    "185654411",
+    "185654412",
+    "185654413",
+    "185654414",
+    "185654415",
+    "185654416",
+    "185654417"
+   ]
+  },
+  {
+   "date": "2024-12-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:900164437:por",
+     "title": "Decreto Regulamentar Regional n.º 40/2024/M",
+     "published": "2024-12-16",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "900168410",
+    "900168411",
+    "900168412",
+    "900168413",
+    "900168414",
+    "900168415",
+    "900168416",
+    "900168417",
+    "900168418",
+    "900168419",
+    "900168420",
+    "900168421",
+    "900168422",
+    "900168423",
+    "900168424",
+    "900168425"
+   ]
+  }
+ ],
+ "fragments": {
+  "900168410": {
+   "fragment_id": "185654364",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-12-17",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 23/2020/M\n\nSumário: Aprova a orgânica da Direção Regional dos Assuntos Sociais da Região Autónoma da Madeira.\n\nAprova a orgânica da Direção Regional dos Assuntos Sociais\n\nO Decreto Regulamentar Regional n.º 10/2020/M, de 21 de janeiro, que aprovou a orgânica da Secretaria Regional de Inclusão Social e Cidadania, prevê, na alínea c) do n.º 1 do artigo 6.º, a Direção Regional dos Assuntos Sociais, serviço da administração direta da Região Autónoma da Madeira.\n\nTal como decorre do artigo 12.º do mencionado Decreto Regulamentar Regional, a Direção Regional dos Assuntos Sociais terá por missão apoiar a definição e execução das políticas do Governo Regional em matéria de cidadania e responsabilidade social, de relações com as instituições da economia social, de inclusão e apoio social, igualdade de género, igualdade perante o trabalho e combate às discriminações, defesa do consumidor e voluntariado.\n\nNesta senda, urge, assim, aprovar a orgânica da Direção Regional dos Assuntos Sociais.\n\nAssim, ao abrigo do disposto na alínea d) do n.º 1 do artigo 227.º e no n.º 6 do artigo 231.º da Constituição da República Portuguesa, nas alíneas c) e d) do artigo 69.º e no n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, no n.º 1 do artigo 24.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro, e no artigo 12.º do Decreto Regulamentar Regional n.º 10/2020/M, de 21 de janeiro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "185654403": {
+   "fragment_id": "185654365",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão, atribuições e órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, missão, atribuições e órgãos"
+  },
+  "185654404": {
+   "fragment_id": "185654366",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovada, pelo presente diploma, a orgânica da Direção Regional dos Assuntos Sociais, adiante designada abreviadamente por DRAS."
+  },
+  "185654405": {
+   "fragment_id": "185654367",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nA DRAS é um serviço da administração direta da Região Autónoma da Madeira, integrado na estrutura da Secretaria Regional de Inclusão Social e Cidadania, a que se refere a alínea c) do n.º 1 do artigo 6.º do Decreto Regulamentar Regional n.º 10/2020/M, de 21 de janeiro."
+  },
+  "185654406": {
+   "fragment_id": "185654368",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\nA DRAS tem por missão apoiar a definição e execução das políticas do Governo Regional em matéria de cidadania e responsabilidade social, de relações com as instituições da economia social, de inclusão e apoio social, igualdade de género, igualdade perante o trabalho e combate às discriminações, defesa do consumidor e voluntariado."
+  },
+  "185654407": {
+   "fragment_id": "185654369",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\nPara a prossecução da sua missão, a DRAS tem como atribuições:\n\na) Coadjuvar e apoiar o Secretário Regional na definição, implementação e estruturação das políticas, prioridades e objetivos da SRIC, em matéria de cidadania e responsabilidade social, inclusão e apoio social, igualdade de género, igualdade perante o trabalho e combate às discriminações, defesa do consumidor e do voluntariado;\n\nb) Propor, executar e apoiar iniciativas que promovam a cidadania e a consciencialização cívica nos seus vários domínios, a inclusão e o apoio social, bem como a igualdade de oportunidades;\n\nc) Estudar e propor medidas orientadas para a promoção da economia social, bem como assegurar a cooperação e o apoio às respetivas instituições;\n\nd) Promover, coordenar e dinamizar as ações tendentes à concretização das políticas de defesa dos consumidores, nas suas várias vertentes, no âmbito regional, nacional e europeu;\n\ne) Apoiar o desenvolvimento das ações indispensáveis à promoção e qualificação do voluntariado;\n\nf) Propor e elaborar projetos e propostas de diplomas legais ou regulamentares, no âmbito das suas atribuições ou emitir parecer sobre os mesmos;\n\ng) Emitir pareceres no âmbito das suas atribuições quando solicitado pelas entidades públicas ou privadas ou por imperativo legal;\n\nh) Elaborar, difundir e apoiar a criação de estudos e documentos de planeamento e de informação no âmbito das suas atribuições;\n\ni) Promover formas de cooperação, no âmbito das suas atribuições, em matérias de interesse comum, com entidades públicas e privadas, de âmbito regional, nacional e internacional;\n\nj) Prosseguir as demais atribuições que lhe forem conferidas por lei ou regulamento."
+  },
+  "185654408": {
+   "fragment_id": "185654370",
+   "type": 11,
+   "heading": "Artigo 5.º — Diretor regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Diretor regional\n\n1 - A DRAS é dirigida pelo Diretor Regional dos Assuntos Sociais, adiante designado abreviadamente por diretor regional, cargo de direção superior de 1.º grau.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei, ou que nele sejam delegadas ou subdelegadas, compete ao diretor regional designadamente:\n\na) Representar a DRAS;\n\nb) Coadjuvar o Secretário Regional na execução da política e na prossecução dos objetivos definidos pelo Governo Regional em matéria de cidadania e responsabilidade social, inclusão e apoio social, igualdade de género, igualdade perante o trabalho e combate às discriminações, defesa do consumidor e do voluntariado;\n\nc) Desenvolver as iniciativas tendentes à prossecução das atribuições e objetivos da DRAS;\n\nd) Exercer, por inerência ou em representação da DRAS, funções em conselhos consultivos, comissões ou outros órgãos colegiais no âmbito das suas atribuições;\n\ne) Coordenar e dirigir os serviços da DRAS, bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;\n\nf) Exercer as competências que lhe são conferidas pelo Estatuto do Pessoal Dirigente e as conferidas por lei ou que nele forem delegadas;\n\ng) Executar o mais que lhe for expressamente cometido por diploma regional ou que decorra do normal desempenho das suas funções.\n\n3 - O diretor regional pode, nos termos da lei, delegar ou subdelegar competências em titulares de cargos de direção intermédia de 1.º grau e 2.º grau.\n\n4 - O diretor regional é substituído, nas suas ausências, faltas e impedimentos, pelo titular de cargo de direção intermédia de 1.º grau."
+  },
+  "185654409": {
+   "fragment_id": "185654371",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "185654410": {
+   "fragment_id": "185654372",
+   "type": 11,
+   "heading": "Artigo 6.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Organização interna\n\n1 - A organização interna da DRAS obedece ao modelo de estrutura hierarquizada.\n\n2 - A organização interna a que se refere o número anterior é aprovada nos termos do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro."
+  },
+  "185654411": {
+   "fragment_id": "185654373",
+   "type": 11,
+   "heading": "Artigo 7.º — Dotação de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dotação de cargos de direção\n\nA dotação de cargos de direção superior de 1.º grau e de direção intermédia de 1.º grau consta do mapa anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "185654412": {
+   "fragment_id": "185654374",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "185654413": {
+   "fragment_id": "185656675",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma transitória\n\nAté à entrada em vigor do diploma que aprova a estrutura nuclear da DRAS, as unidades orgânicas previstas nas alíneas a) e d) do n.º 1 do artigo 9.º da Portaria n.º 79/2016, de 26 de fevereiro, da então Secretaria Regional da Inclusão e Assuntos Sociais, mantêm a mesma natureza jurídica."
+  },
+  "185654414": {
+   "fragment_id": "185656676",
+   "type": 11,
+   "heading": "Artigo 9.º — Manutenção da comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Manutenção da comissão de serviço\n\nA comissão de serviço do atual titular do cargo de direção intermédia de 1.º grau do Serviço de Defesa do Consumidor mantém-se, nos termos da alínea c) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de janeiro, com a redação dada pela Lei n.º 128/2015, de 3 de setembro, e adaptada à RAM pelo Decreto Legislativo Regional n.º 5/2004/M, de 22 de abril, na redação dada pelo Decreto Legislativo Regional n.º 27/2016/M, de 6 de julho."
+  },
+  "185654415": {
+   "fragment_id": "185656677",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "185654417": {
+   "fragment_id": "185656679",
+   "type": 14,
+   "heading": "Anexo — Mapa de cargos dirigentes a que se refere o artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa de cargos dirigentes a que se refere o artigo 7.º\n\n(ver documento original)\n\n113096707"
+  },
+  "185654402": {
+   "fragment_id": "185654364",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 23/2020/M\n\nSumário: Aprova a orgânica da Direção Regional dos Assuntos Sociais da Região Autónoma da Madeira.\n\nAprova a orgânica da Direção Regional dos Assuntos Sociais\n\nO Decreto Regulamentar Regional n.º 10/2020/M, de 21 de janeiro, que aprovou a orgânica da Secretaria Regional de Inclusão Social e Cidadania, prevê, na alínea c) do n.º 1 do artigo 6.º, a Direção Regional dos Assuntos Sociais, serviço da administração direta da Região Autónoma da Madeira.\n\nTal como decorre do artigo 12.º do mencionado Decreto Regulamentar Regional, a Direção Regional dos Assuntos Sociais terá por missão apoiar a definição e execução das políticas do Governo Regional em matéria de cidadania e responsabilidade social, de relações com as instituições da economia social, de inclusão e apoio social, igualdade de género, igualdade perante o trabalho e combate às discriminações, defesa do consumidor e voluntariado.\n\nNesta senda, urge, assim, aprovar a orgânica da Direção Regional dos Assuntos Sociais.\n\nAssim, ao abrigo do disposto na alínea d) do n.º 1 do artigo 227.º e no n.º 6 do artigo 231.º da Constituição da República Portuguesa, nas alíneas c) e d) do artigo 69.º e no n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, no n.º 1 do artigo 24.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro, e no artigo 12.º do Decreto Regulamentar Regional n.º 10/2020/M, de 21 de janeiro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "185654418": {
+   "fragment_id": "185654366",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovada, pelo presente diploma, a orgânica da Direção Regional da Cidadania e dos Assuntos Sociais, adiante designada abreviadamente por DRAS.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654419": {
+   "fragment_id": "185654368",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Missão\n\nA DRAS, tem por missão apoiar a definição e execução das políticas do Governo Regional em matéria de cidadania e responsabilidade social, de inclusão e apoio social, na relação com as instituições da economia social e do desenvolvimento local, nos domínios da igualdade de género e combate às discriminações, defesa do consumidor, voluntariado e desenvolvimento local.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654420": {
+   "fragment_id": "185654369",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\nPara a prossecução da sua missão, a DRAS tem como atribuições:\n\na) Coadjuvar e apoiar o Secretário Regional na definição, implementação e estruturação das políticas, prioridades e objetivos da SRIC, em matéria de cidadania e responsabilidade social, de inclusão e apoio social, na relação com as instituições da economia social e do desenvolvimento local, nos domínios da igualdade de género e combate às discriminações, defesa do consumidor, voluntariado e desenvolvimento local;\n\nb) Propor, executar e apoiar iniciativas que promovam a cidadania e a consciencialização cívica nos seus vários domínios, a inclusão e o apoio social, bem como a igualdade de oportunidades;\n\nc) Estudar e propor medidas orientadas para a promoção da economia social e do desenvolvimento local, bem como assegurar a cooperação e o apoio às respetivas instituições;\n\nd) Promover, coordenar e dinamizar as ações tendentes à concretização das políticas de defesa dos consumidores, nas suas várias vertentes, no âmbito regional, nacional e europeu;\n\ne) Apoiar o desenvolvimento das ações indispensáveis à promoção e qualificação do voluntariado;\n\nf) Apoiar o funcionamento e o exercício das atividades das casas do povo, das suas associações e de outras entidades sem fins lucrativos numa perspetiva integrada de desenvolvimento local e coesão social;\n\ng) Propor e elaborar projetos e propostas de diplomas legais ou regulamentares, no âmbito das suas atribuições ou emitir parecer sobre os mesmos;\n\nh) Emitir pareceres no âmbito das suas atribuições quando solicitado pelas entidades públicas ou privadas ou por imperativo legal;\n\ni) Elaborar, difundir e apoiar a criação de estudos e documentos de planeamento e de informação no âmbito das suas atribuições;\n\nj) Promover formas de cooperação, no âmbito das suas atribuições, em matérias de interesse comum, com entidades públicas e privadas, de âmbito regional, nacional e internacional;\n\nk) Prosseguir as demais atribuições que lhe forem conferidas por lei ou regulamento.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654421": {
+   "fragment_id": "185654370",
+   "type": 11,
+   "heading": "Artigo 5.º — Diretor regional",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 5.º — Diretor regional\n\n1 - A DRAS é dirigida pelo Diretor Regional da Cidadania e dos Assuntos Sociais, adiante designado abreviadamente por diretor regional, cargo de direção superior de 1.º grau.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei, ou que nele sejam delegadas ou subdelegadas, compete ao diretor regional designadamente:\n\na) Representar a DRAS;\n\nb) Coadjuvar o Secretário Regional na execução da política e na prossecução dos objetivos definidos pelo Governo regional em matéria de cidadania e responsabilidade social, de inclusão e apoio social, na relação com as instituições da economia social e do desenvolvimento local, nos domínios da igualdade de género e combate às discriminações, defesa do consumidor, voluntariado e desenvolvimento local;\n\nc) Desenvolver as iniciativas tendentes à prossecução das atribuições e objetivos da DRAS;\n\nd) Exercer, por inerência ou em representação da DRAS, funções em conselhos consultivos, comissões ou outros órgãos colegiais no âmbito das suas atribuições;\n\ne) Coordenar e dirigir os serviços da DRAS, bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;\n\nf) Autorizar a realização de despesas e celebrar contratos no seu âmbito de atuação e de acordo com as competências e limites fixados por lei;\n\ng) Exercer as competências que lhe são conferidas pelo Estatuto do Pessoal Dirigente e as conferidas por lei ou que nele forem delegadas;\n\nh) Executar o mais que lhe for expressamente cometido por diploma regional ou que decorra do normal desempenho das suas funções.\n\n3 - O diretor regional pode, nos termos da lei, delegar ou subdelegar competências em titulares de cargos de direção intermédia de 1.º grau e 2.º grau.\n\n4 - O diretor regional é substituído, nas suas ausências, faltas e impedimentos, pelo titular de cargo de direção intermédia de 1.º grau.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654416": {
+   "fragment_id": "185656678",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 20 de fevereiro de 2020.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 3 de março de 2020.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "900168411": {
+   "fragment_id": "185654365",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão, atribuições e órgãos",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+   ],
+   "markdown": "### Capítulo I — Natureza, missão, atribuições e órgãos\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+  },
+  "900168412": {
+   "fragment_id": "185654366",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovada, pelo presente diploma, a orgânica da Direção Regional da Cidadania e dos Assuntos Sociais, adiante designada abreviadamente por DRAS.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "900168413": {
+   "fragment_id": "185654367",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza\n\nA DRAS é um serviço da administração direta da Região Autónoma da Madeira, integrado na estrutura da Secretaria Regional de Inclusão Social e Cidadania, a que se refere a alínea c) do n.º 1 do artigo 6.º do Decreto Regulamentar Regional n.º 10/2020/M, de 21 de janeiro.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+  },
+  "900168414": {
+   "fragment_id": "185654368",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Missão\n\nA DRAS, tem por missão apoiar a definição e execução das políticas do Governo Regional em matéria de cidadania e responsabilidade social, de inclusão e apoio social, na relação com as instituições da economia social e do desenvolvimento local, nos domínios da igualdade de género e combate às discriminações, defesa do consumidor, voluntariado e desenvolvimento local.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "900168415": {
+   "fragment_id": "185654369",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\nPara a prossecução da sua missão, a DRAS tem como atribuições:\n\na) Coadjuvar e apoiar o Secretário Regional na definição, implementação e estruturação das políticas, prioridades e objetivos da SRIC, em matéria de cidadania e responsabilidade social, de inclusão e apoio social, na relação com as instituições da economia social e do desenvolvimento local, nos domínios da igualdade de género e combate às discriminações, defesa do consumidor, voluntariado e desenvolvimento local;\n\nb) Propor, executar e apoiar iniciativas que promovam a cidadania e a consciencialização cívica nos seus vários domínios, a inclusão e o apoio social, bem como a igualdade de oportunidades;\n\nc) Estudar e propor medidas orientadas para a promoção da economia social e do desenvolvimento local, bem como assegurar a cooperação e o apoio às respetivas instituições;\n\nd) Promover, coordenar e dinamizar as ações tendentes à concretização das políticas de defesa dos consumidores, nas suas várias vertentes, no âmbito regional, nacional e europeu;\n\ne) Apoiar o desenvolvimento das ações indispensáveis à promoção e qualificação do voluntariado;\n\nf) Apoiar o funcionamento e o exercício das atividades das casas do povo, das suas associações e de outras entidades sem fins lucrativos numa perspetiva integrada de desenvolvimento local e coesão social;\n\ng) Propor e elaborar projetos e propostas de diplomas legais ou regulamentares, no âmbito das suas atribuições ou emitir parecer sobre os mesmos;\n\nh) Emitir pareceres no âmbito das suas atribuições quando solicitado pelas entidades públicas ou privadas ou por imperativo legal;\n\ni) Elaborar, difundir e apoiar a criação de estudos e documentos de planeamento e de informação no âmbito das suas atribuições;\n\nj) Promover formas de cooperação, no âmbito das suas atribuições, em matérias de interesse comum, com entidades públicas e privadas, de âmbito regional, nacional e internacional;\n\nk) Prosseguir as demais atribuições que lhe forem conferidas por lei ou regulamento.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "900168416": {
+   "fragment_id": "185654370",
+   "type": 11,
+   "heading": "Artigo 5.º — Diretor regional",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 5.º — Diretor regional\n\n1 - A DRAS é dirigida pelo Diretor Regional da Cidadania e dos Assuntos Sociais, adiante designado abreviadamente por diretor regional, cargo de direção superior de 1.º grau.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei, ou que nele sejam delegadas ou subdelegadas, compete ao diretor regional designadamente:\n\na) Representar a DRAS;\n\nb) Coadjuvar o Secretário Regional na execução da política e na prossecução dos objetivos definidos pelo Governo regional em matéria de cidadania e responsabilidade social, de inclusão e apoio social, na relação com as instituições da economia social e do desenvolvimento local, nos domínios da igualdade de género e combate às discriminações, defesa do consumidor, voluntariado e desenvolvimento local;\n\nc) Desenvolver as iniciativas tendentes à prossecução das atribuições e objetivos da DRAS;\n\nd) Exercer, por inerência ou em representação da DRAS, funções em conselhos consultivos, comissões ou outros órgãos colegiais no âmbito das suas atribuições;\n\ne) Coordenar e dirigir os serviços da DRAS, bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;\n\nf) Autorizar a realização de despesas e celebrar contratos no seu âmbito de atuação e de acordo com as competências e limites fixados por lei;\n\ng) Exercer as competências que lhe são conferidas pelo Estatuto do Pessoal Dirigente e as conferidas por lei ou que nele forem delegadas;\n\nh) Executar o mais que lhe for expressamente cometido por diploma regional ou que decorra do normal desempenho das suas funções.\n\n3 - O diretor regional pode, nos termos da lei, delegar ou subdelegar competências em titulares de cargos de direção intermédia de 1.º grau e 2.º grau.\n\n4 - O diretor regional é substituído, nas suas ausências, faltas e impedimentos, pelo titular de cargo de direção intermédia de 1.º grau.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "900168417": {
+   "fragment_id": "185654371",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+   ],
+   "markdown": "### Capítulo II — Estrutura orgânica\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+  },
+  "900168418": {
+   "fragment_id": "185654372",
+   "type": 11,
+   "heading": "Artigo 6.º — Organização interna",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+   ],
+   "markdown": "###### Artigo 6.º — Organização interna\n\n1 - A organização interna da DRAS obedece ao modelo de estrutura hierarquizada.\n\n2 - A organização interna a que se refere o número anterior é aprovada nos termos do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+  },
+  "900168419": {
+   "fragment_id": "185654373",
+   "type": 11,
+   "heading": "Artigo 7.º — Dotação de cargos de direção",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+   ],
+   "markdown": "###### Artigo 7.º — Dotação de cargos de direção\n\nA dotação de cargos de direção superior de 1.º grau e de direção intermédia de 1.º grau consta do mapa anexo ao presente diploma, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+  },
+  "900168420": {
+   "fragment_id": "185654374",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+   ],
+   "markdown": "### Capítulo III — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+  },
+  "900168421": {
+   "fragment_id": "185656675",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma transitória",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+   ],
+   "markdown": "###### Artigo 8.º — Norma transitória\n\nAté à entrada em vigor do diploma que aprova a estrutura nuclear da DRAS, as unidades orgânicas previstas nas alíneas a) e d) do n.º 1 do artigo 9.º da Portaria n.º 79/2016, de 26 de fevereiro, da então Secretaria Regional da Inclusão e Assuntos Sociais, mantêm a mesma natureza jurídica.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+  },
+  "900168422": {
+   "fragment_id": "185656676",
+   "type": 11,
+   "heading": "Artigo 9.º — Manutenção da comissão de serviço",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+   ],
+   "markdown": "###### Artigo 9.º — Manutenção da comissão de serviço\n\nA comissão de serviço do atual titular do cargo de direção intermédia de 1.º grau do Serviço de Defesa do Consumidor mantém-se, nos termos da alínea c) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de janeiro, com a redação dada pela Lei n.º 128/2015, de 3 de setembro, e adaptada à RAM pelo Decreto Legislativo Regional n.º 5/2004/M, de 22 de abril, na redação dada pelo Decreto Legislativo Regional n.º 27/2016/M, de 6 de julho.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+  },
+  "900168423": {
+   "fragment_id": "185656677",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+  },
+  "900168424": {
+   "fragment_id": "185656678",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional em 20 de fevereiro de 2020.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 3 de março de 2020.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+  },
+  "900168425": {
+   "fragment_id": "185656679",
+   "type": 14,
+   "heading": "Anexo — Mapa de cargos dirigentes a que se refere o artigo 7.º",
+   "in_force_from": "2024-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+   ],
+   "markdown": "## Anexo — Mapa de cargos dirigentes a que se refere o artigo 7.º\n\n(ver documento original)\n\n113096707\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 40/2024/M - Diário da República n.º 243/2024, Série I de 2024-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2024-900164437), em vigor a partir de 2024-12-17, produz efeitos a partir de 2024-07-12"
+  }
+ }
+}

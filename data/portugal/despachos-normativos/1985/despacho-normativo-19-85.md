@@ -1,0 +1,204 @@
+---
+schema_version: '1.0'
+id: pt:dre:325076:por
+title: Despacho Normativo n.º 19/85
+short_title: null
+summary: Estabelece os preços e demais condições de intervenção para o milho e sorgo a praticar pela EPAC - Empresa Pública
+  de Abastecimento de Cereais na campanha 1985
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Agricultura e do Comércio e Turismo - Secretarias de Estado do Orçamento, do Comércio
+  e Indústria Agrícolas, da Produção Agrícola e do Comércio Interno
+proposing_entity: null
+official_number: 19/85
+official_date: null
+publication_date: '1985-04-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 79/1985, Série I de 1985-04-04
+  number: '79'
+  series: I
+  supplement: null
+  pages: 939 - 940
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/04/07900/09390940.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '325076'
+  dre_path: /dr/detalhe/despacho-normativo/19-1985-325076
+  internal: pt:dre:325076:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-1985-325076
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-1985-325076
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 043e123f6cdc926a3e57edaba0116472c81ff93313e77d27074a9a856d09bf24
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- EPAC
+- Milho
+- Preço
+- Preço de Intervenção
+- Sorgo
+relationships:
+- type: cites
+  target: pt:dre:661330:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:32:02Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 19/85
+
+Considerando a conveniência de, em tempo útil, se proporcionarem à agricultura os instrumentos de decisão necessários quanto às suas opções culturais, são agora estabelecidos os preços e demais condições de intervenção para o milho e sorgo a praticar pela EPAC - Empresa Pública de Abastecimento de Cereais na campanha de produção de 1985.
+
+Estes preços têm em conta os agravamentos dos custos dos factores de produção para a mesma campanha. Por outro lado, é abolida a diferenciação entre o preço dos milhos amarelo e branco, tendo em consideração que este último se destina, prioritariamente, à alimentação humana, pelo que não deve sofrer um tratamento desfavorável.
+
+Nestes termos, ao abrigo do disposto na alínea a) do artigo 14.º do [Decreto-Lei n.º 67/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1984-661330), de 24 de Fevereiro, determina-se o seguinte:
+
+I
+
+Milho
+
+1 - O preço de intervenção à produção do milho nacional a praticar pela EPAC na campanha de 1985 é fixado em 38$50/kg e aplica-se ao cereal que se apresente são, isento de cheiros estranhos e de depredadores vivos, com coloração própria e mais as seguintes características para a qualidade tipo:
+
+Teor de humidade - 14%;
+
+Teores máximos em elementos não considerados cereal base de qualidade irrepreensível - 8%;
+
+Grãos partidos - 4%;
+
+Grãos germinados - 2,5%;
+
+Impurezas:
+
+1) Constituídas por grãos - 4%;
+
+2) Outras - 1%.
+
+2 - As tolerâncias para a qualidade mínima são as seguintes:
+
+Teor de humidade - 16%;
+
+Teor máximo em elementos não considerados cereal base de qualidade irrepreensível - 20%;
+
+Grãos partidos - 10%;
+
+Grãos germinados - 8%;
+
+Impurezas:
+
+1) Constituídas por grãos - 8% (ver nota a);
+
+2) Outras - 3
+
+3 - Entende-se por:
+
+3.1 - Grãos partidos - os fragmentos de grão de milho que passam através de um peneiro de orifícios circulares de 4,5 mm de diâmetro (NP-1591);
+
+3.2 - Grãos germinados - os grãos em que se vê nitidamente a olho nu a radícula ou plúmula;
+
+3.3 - Impurezas constituídas por grãos - os grãos de outros cereais e os grãos danificados:
+
+Grãos danificados - os grãos ou fracções de grão que se apresentem alterados pelo calor ou condições atmosféricas ou fermentados ou atacados por depredadores;
+
+3.4 - Outras impurezas - as substâncias estranhas ao cereal em grão.
+
+4 - O cálculo de todas as percentagens é baseado no peso.
+
+5 - Quando o cereal apresentar um teor de humidade entre 14% e 16% terá a depreciação correspondente à percentagem que exceda os 14%. Se o cereal tiver um teor de humidade inferior a 14% e até 10% terá uma bonificação correspondente à percentagem abaixo dos 14%.
+
+6 - Quando a percentagem de grãos partidos ou germinados ou de impurezas constituídas por grãos exceda os limites propostos para a qualidade tipo, aplica-se, em qualquer dos casos, ao preço de intervenção a depreciação de 0,5% por cada 1% excedente.
+
+7 - Quando a percentagem de outras impurezas, ou seja, as não constituídas por grãos, exceda os teores estabelecidos para a qualidade tipo descontar-se-á no preço de intervenção do cereal a percentagem equivalente ao excedente verificado.
+
+8 - O milho cujas características excedam os limites fixados para a qualidade mínima poderá ser recebido pela EPAC segundo condições a estabelecer.
+
+9 - O preço de intervenção referido no n.º 1 deste despacho será acrescido de uma majoração de preço, a praticar de 1 de Dezembro de 1985 a 30 de Junho de 1986, no montante de 632$00 por tonelada e por mês.
+
+II
+
+Sorgo
+
+10 - A EPAC adquirirá ao preço de 36$20/kg o sorgo de produção nacional, da campanha de 1985, que se encontre são, isento de cheiros estranhos e de depredadores vivos, com coloração própria e mais as seguintes características:
+
+Humidade - máximo 14%;
+
+Peso específico - mínimo 71 kg/hl;
+
+Grãos danificados (total) - máximo 5%;
+
+Grãos danificados pelo calor - máximo 0,5%;
+
+Grãos partidos e impurezas - máximo 8%.
+
+11 - Entende-se por:
+
+11.1 - Grãos danificados - os grãos ou fragmentos de grão de sorgo que se apresentem alterados pelo calor, germinados, fermentados, engelhados ou atacados por depredadores;
+
+11.2 - Grãos danificados pelo calor - os grãos e fragmentos de grão de sorgo que se encontrem danificados devido a aquecimento;
+
+11.3 - Grãos partidos - os fragmentos de grão que, pelas suas dimensões, passem através de um peneiro de orifícios triangulares equiláteros inscritos em círculos com 1,98 mm de diâmetro;
+
+11.4 - Impurezas - todas as substâncias estranhas ao grão de sorgo.
+
+12 - O cálculo de todas as percentagens é baseado no peso.
+
+13 - Quando o teor de humidade for superior a 14% e até 16%, o cereal sofrerá a depreciação correspondente à percentagem que exceda os 14%.
+
+14 - Se o sorgo apresentar um teor de humidade inferior a 14% e até 10% terá uma valorização equivalente à percentagem abaixo dos 14%.
+
+15 - O sorgo cujas características sejam de qualidade inferior aos valores indicados no n.º 10 poderá ser recebido pela EPAC segundo condições a estabelecer.
+
+III
+
+Disposições gerais
+
+16 - Por aviso à lavoura, a EPAC informará oportunamente as condições de entrega dos cereais nos seus silos, celeiros ou armazéns, assim como as datas da sua abertura e encerramento.
+
+17 - A EPAC só receberá cereal quando as entregas se processem através dos produtores possuidores do respectivo cartão de produtor passado por esta empresa.
+
+Secretarias de Estado do Orçamento, do Comércio e Indústria Agrícolas, da Produção Agrícola e do Comércio Interno, 11 de Março de 1985. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio e Indústria Agrícolas, Carlos Alberto Antunes Filipe. - O Secretário de Estado da Produção Agrícola, Joaquim António Rosado Gusmão. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade.

@@ -1,0 +1,174 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:181441:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1985-890486323",
+ "dre_path": "/dr/detalhe/portaria/369-1985-181441",
+ "source_lastmod": "2024-10-10",
+ "versions": [
+  {
+   "date": "1985-06-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890485758"
+   ]
+  },
+  {
+   "date": "1985-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:650117:por",
+     "title": "Declaração",
+     "published": "1985-07-31",
+     "dre_path": "/dr/detalhe/declaracao/1985-650117"
+    }
+   ],
+   "changes": [
+    "Retifica 8.º"
+   ],
+   "fragments": [
+    "890485758",
+    "890485772",
+    "890485771",
+    "890485770",
+    "890485769",
+    "890485768",
+    "890485767",
+    "890485766",
+    "890518475",
+    "890485764",
+    "890485763",
+    "890485762",
+    "890485761",
+    "890485760",
+    "890485759"
+   ]
+  }
+ ],
+ "fragments": {
+  "890485758": {
+   "fragment_id": "890486324",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 369/85\n\nde 15 de Junho\n\nSob proposta do conselho científico da Faculdade de Letras da Universidade do Porto:\n\nAo abrigo do disposto nos Decretos-Leis n.os 173/80, de 29 de Maio, e 263/80, de 7 de Agosto, e no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:"
+  },
+  "890485772": {
+   "fragment_id": "890486338",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\n(Criação)\n\nA Universidade do Porto, através da Faculdade de Letras, concede o grau de mestre em Ensino da Língua Portuguesa."
+  },
+  "890485771": {
+   "fragment_id": "890486337",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\n(Organização do curso)\n\nO curso especializado conducente ao mestrado referido no n.º 1.º, adiante simplesmente designado por curso, organiza-se pelo sistema de unidades de crédito."
+  },
+  "890485770": {
+   "fragment_id": "890486336",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\n(Área científica)\n\nAs áreas científicas do curso são as seguintes:\n\na) Ciências da Linguagem;\n\nb) Educação."
+  },
+  "890485769": {
+   "fragment_id": "890486335",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\n(Estrutura curricular)\n\nAs áreas científicas e unidades de crédito necessárias à conclusão do curso são as seguintes:\n\n1) Fundamentos da Educação ... 4\n\n2) Metodologia Educativa (Psicopedagogia e Tecnologia Educativa) ... 4\n\n3) Didáctica da Língua ... 6\n\n4) Didáctica do Texto ... 6\n\nTotal ... 20"
+  },
+  "890485768": {
+   "fragment_id": "890486334",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\n(Duração normal do curso)\n\nA duração normal do curso é de 2 anos lectivos."
+  },
+  "890485767": {
+   "fragment_id": "890486333",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\n(Precedências)\n\nAs tabelas e regime de precedências serão fixados pelo conselho científico."
+  },
+  "890485766": {
+   "fragment_id": "890486332",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula no curso os titulares das licenciaturas em Filologia Românica, Filologia Clássica, Estudos Portugueses, Estudos Portugueses e Franceses e Estudos Clássicos e Portugueses ou habilitações legalmente equivalentes, com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico pode admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, em casos devidamente justificados e nos termos do n.º 4 do n.º 9.º, o conselho científico poderá admitir à candidatura titulares de outra licenciatura pelas universidades portuguesas ou habilitação legalmente equivalente cujo currículo demonstre uma adequada preparação científica de base."
+  },
+  "890518475": {
+   "fragment_id": "890486331",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": "1985-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 174/1985, 2º Suplemento, Série I de 1985-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-650117), em vigor a partir de 1985-07-31"
+   ],
+   "markdown": "###### 8.º\n\n(«Numerus clausus»)\n\n1 - A matrícula e a inscrição no curso estão sujeitas a limitações quantitativas a fixar anualmente por despacho do reitor da Universidade do Porto, ao abrigo do disposto na alínea e) do artigo 2.º do Decreto-Lei n.º 323/84, de 9 de Outubro, sob proposta do conselho científico.\n\n2 - O despacho a que se refere o n.º 1 estabelecerá ainda:\n\na) Qual a percentagem do numerus clausus que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;\n\nb) Qual o número mínimo de inscrições indispensável ao funcionamento do curso.\n\n3 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 174/1985, 2º Suplemento, Série I de 1985-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-650117), em vigor a partir de 1985-07-31"
+  },
+  "890485764": {
+   "fragment_id": "890486330",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico, tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 7.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente;\n\nd) Conhecimento passivo de outras línguas estrangeiras para além das que figuram no currículo das licenciaturas a que se refere o n.º 7.º\n\n2 - Será igualmente tida em consideração uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino.\n\n3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para a avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras como condição prévia para a candidatura à matrícula no curso.\n\n4 - Os candidatos a que se refere o n.º 3 do n.º 7.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n5 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma."
+  },
+  "890485763": {
+   "fragment_id": "890486329",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de faltas e de avaliação de conhecimento para as disciplinas que integram o curso, serão as previstas na lei para os cursos de licenciatura naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza do curso."
+  },
+  "890485762": {
+   "fragment_id": "890486328",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º\n\n(Prazos e calendário lectivo)\n\nOs prazos de candidatura e matrícula e inscrição, bem como o calendário lectivo, serão fixados pelo reitor através do despacho a que se refere o n.º 1 do n.º 8.º"
+  },
+  "890485761": {
+   "fragment_id": "890486327",
+   "type": 11,
+   "heading": "12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º\n\n(Dispensa das provas complementares de doutoramento)\n\nOs titulares de aprovação em cada curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do Decreto-Lei n.º 388/70, de 18 de Agosto, para a obtenção do grau de doutor nas especialidades correspondentes."
+  },
+  "890485760": {
+   "fragment_id": "890486326",
+   "type": 11,
+   "heading": "13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 13.º\n\n(Início do funcionamento)\n\nO início do funcionamento do curso ficará dependente da reunião pela Universidade dos recursos humanos e materiais adequados à sua completa concretização e ficará dependente de autorização expressa do Ministro da Educação face a relatório demonstrativo da satisfação daqueles requisitos.\n\nMinistério da Educação."
+  },
+  "890485759": {
+   "fragment_id": "890486325",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 23 de Maio de 1985.\n\nO Ministro da Educação, João de Deus Rogado Sa"
+  }
+ }
+}

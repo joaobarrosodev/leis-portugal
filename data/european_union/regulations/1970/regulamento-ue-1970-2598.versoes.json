@@ -1,0 +1,79 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31970R2598:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01970R2598-20060630",
+ "dre_path": null,
+ "source_lastmod": "2006-06-30",
+ "versions": [
+  {
+   "date": "1970-12-23",
+   "future": false,
+   "celex": "31970R2598",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "479b6889576f9930",
+    "258fcfa1a44ebd66",
+    "488f89a084fcd479",
+    "613ad0a4d0f18223"
+   ]
+  },
+  {
+   "date": "2006-06-30",
+   "future": false,
+   "celex": "01970R2598-20060630",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo único",
+    "Suprime ANEXO I — DELIMITAÇÃO DA NOÇÃO DE INFRA-ESTRUTURA DE TRANSPORTE",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "6630678b38507de7"
+   ]
+  }
+ ],
+ "fragments": {
+  "479b6889576f9930": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2598/70 da Comissão, de 18 de Dezembro de 1970, relativo à fixação do conteúdo das diferentes rubricas dos esquemas de contabilização do Anexo I do Regulamento (CEE) nº 1108/70 do Conselho de 4 de Junho de 1970** *Jornal Oficial nº L 278 de 23/12/1970 p. 0001 - 0005 Edição especial finlandesa: Capítulo 7 Fascículo 1 p. 0110 Edição especial dinamarquesa: Série I Capítulo 1970(III) p. 0796 Edição especial sueca: Capítulo 7 Fascículo 1 p. 0110 Edição especial inglesa: Série I Capítulo 1970(III) p. 0899 Edição especial grega: Capítulo 07 Fascículo 1 p. 0165 Edição especial espanhola: Capítulo 07 Fascículo 1 p. 0161 Edição especial portuguesa: Capítulo 07 Fascículo 1 p. 0161*\n\nREGULAMENTO (CEE) No 2598/70 DA COMISSÃO de 18 de Dezembro de 1970 relativo à fixação do conteúdo das diferentes rubricas dos esquemas de contabilização do Anexo I do Regulamento (CEE) No 1108/70 do Conselho de 4 de Junho de 1970\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 1108/70 do Conselho, de 4 de Junho de 1970, que introduz um sistema de contabilidade das despesas referentes às infra-estruturas de transportes ferroviários, rodoviários e por via navegável (1) e, nomeadamente, o no 1 do seu artigo 9o,\n\nTendo em conta os pareceres formulados pelos membros do Comité de Peritos Governamentais,\n\nConsiderando que a Comissão assegura a coordenação do conjunto dos trabalhos implicados pelo citado regulamento; que, em particular, lhe incumbe fixar o conteúdo das diferentes rubricas dos esquemas de contabilização do Anexo I do regulamento; que a introdução efectiva de um sistema de contabilidade uniforme e permanente das despesas de infra-estruturas deve ter lugar a 1 de Janeiro de 1971; que importa que as disposições correspondentes sejam adoptadas em tempo útil para assegurar, à partida, uma aplicação homogénea dos esquemas de contabilização nos diversos Estados-membros e para o conjunto dos modos de transporte;\n\nConsiderando que o método a seguir deve compreender ao mesmo tempo a delimitação da noção de infra-estrutura, precisando para cada modo de transporte as instalações, obras e equipamentos abrangidos por esta noção, e a definição da natureza das despesas a registar nas diferentes rubricas dos esquemas de contabilização,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "258fcfa1a44ebd66": {
+   "fragment_id": "Artigo único",
+   "type": "artigo",
+   "heading": "Artigo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único\n\nO conteúdo das diferentes rubricas dos esquemas de contabilização do Anexo I do Regulamento (CEE) no 1108/70, do Conselho de 4 de Junho de 1970, é fixado em conformidade com os Anexos 1 e 2 do presente regulamento de que fazem parte integrante.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 18 de Dezembro de 1970.\n\nPela Comissão\n\nO Presidente\n\nFranco M. MALFATTI\n\n(1) JO no L 130 de 15. 6. 1970, p. 4."
+  },
+  "488f89a084fcd479": {
+   "fragment_id": "ANEXO I — DELIMITAÇÃO DA NOÇÃO DE INFRA-ESTRUTURA DE TRANSPORTE",
+   "type": "divisao",
+   "heading": "ANEXO I — DELIMITAÇÃO DA NOÇÃO DE INFRA-ESTRUTURA DE TRANSPORTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DELIMITAÇÃO DA NOÇÃO DE INFRA-ESTRUTURA DE TRANSPORTE\n\nPor infra-estrutura de transporte, na acepção do artigo 1o do Regulamento (CEE) no 1108/70 do Conselho, de 4 de Junho de 1970, deve entender-se a totalidade das vias e instalações fixas dos três modos de transporte que sejam necessárias para assegurar a circulação dos veículos e a segurança desta circulação.\n\nA. CAMINHO DE FERRO\n\nA infra-estrutura ferroviária compõe-se dos seguintes elementos, desde que façam parte das vias principais e de serviço, com excepção das situadas no interior das oficinas de reparação do material e dos depósitos ou resguardos das unidades de tracção, assim como dos ramais particulares;\n\n- Terrenos;\n\n- Estrutura e plataforma da via, nomeadamente aterros, trincheiras, drenos, valas, valetas de alvenaria, aquedutos, muros de revestimento, plantações para protecção dos taludes, etc;\n\ncais de passageiros e de mercadorias;\n\nbermas e pistas;\n\nmuros de vedação, sebes vivas, paliçadas;\n\nfaixas protectoras contra o fogo;\n\ndispositivos para aquecimento das agulhas;\n\nanteparos contra a neve;\n\n- Obras de arte:\n\npontes, pontões e outras passagens superiores, túneis, valas cobertas e outras passagens inferiores;\n\nmuros de suporte e obras de protecção contra avalanches, quedas de pedras, etc.;\n\n- Passagens de nível, incluíndo as instalações destinadas a garantir a segurança da circulação rodoviária;\n\n- Superestrutura, nomeadamente:\n\ncarris, carris de gola e contracarris;\n\ntravessas e longarinas, pequenas peças de ligação;\n\nbalastro, incluindo gravilha e areia;\n\naparelhos de via;\n\nplacas giratórias e carros transbordadores (com excepção dos exclusivamente reservados às unidade de tracção);\n\n- Pátios das gares de passageiros e mercadorias, incluindo os acessos por estrada;\n\n- Instalações de segurança, sinalização e telecomunicações das vias propriamente ditas, das gares e das triagens, incluindo instalações de produção, transformação e distribuição da corrente eléctrica para sinalização e telecomunicações;\n\nedifícios afectos às referidas instalações;\n\nfreios de via;\n\n- Instalações de iluminação destinadas a assegurar a circulação dos veículos e a respectiva segurança;\n\n- Instalações de transformação e de transporte da corrente eléctrica para a tracção dos comboios: subestações, linhas de alimentação entre as subestações e os fios de contacto, catenárias e suportes; carril de transmissão (terceiro carril) e seus suportes;\n\n- Edifícios afectos ao serviço das infra-estruturas, incluindo a parte relativa às instalações de cobrança dos bilhetes de transporte.\n\nB. ESTRADA\n\nA infra-estrutura rodoviária compõe-se dos seguintes elementos:\n\n- Terrenos;\n\n- Estruturas de apoio às faixas de rodagem:\n\ntrincheiras, aterros, obras de drenagem, etc.;\n\nobras de suporte e consolidação;\n\n- Faixas de rodagem propriamente ditas e obras acessórias: camadas constitutivas do pavimento incluindo as subcamadas de protecção, bermas, faixas separadoras centrais, obras de escoamento de águas, zonas de estacionamento para veículos em dificuldades, áreas de repouso e parques de estacionamento em zona rural (vias de acesso e estacionamento, sinalizações), parques de estacionamento nas localidades, situados em terrenos sob domínio público, plantações diversas, instalações de segurança, etc.;\n\n- Obras de arte:\n\npontes, pontões, viadutos, túneis, galerias contra avalanches e quedas de pedras, anteparos contra a neve, etc.;\n\n- Passagens de nível;\n\n- Instalações de sinalização e telecomunicação;\n\n- Instalações de iluminação;\n\n- Postos de portagem, parquímetros;\n\n- Edifícios afectos ao serviço das infra-estruturas.\n\nC. VIA NAVEGÁVEL\n\nA infra-estrutura da via navegável compõe-se dos seguintes elementos:\n\n- Terrenos;\n\n- Canal (movimento de terras), revestimento e impermeabilização dos canais, soleiras de fundos, espigões, bermas, caminhos de sirga e de serviço), protecções das margens, pontes-canais, sifões e aquedutos, túneis para canais, portos que servem exclusivamente de abrigo às embarcações;\n\n- Obras de fecho e protecção, obras destinadas à evacuação por gravidade da água de uma represa e reservatórios tendo por função armazenar água destinada à alimentação e regularização do nível de água, instalações de regularização das águas, escalas fluviais, fluviógrafos e dispositivos de alerta;\n\n- Barragens (obras construídas transversalmente ao leito de um curso de água com vista a assegurar, para a navegação, uma profundidade de água suficiente e a reduzir a velocidade da corrente pela criação de canais de derivação), instalações anexas (eclusas para peixes, canais de protecção);\n\n- Eclusa de navegação, elevadores e planos inclinados, incluíndo bacias de espera e de redução do consumo de água;\n\n- Dispositivos de amarração e estacas guia (bóias de amarração, feixes de estacas, (duques d'Alba), abitas, cabeços de amarração, armadoiras e defensas);\n\n- Pontes móveis;\n\n- Instalações de sinalização e balizagem, de segurança, de telecomunicação e de iluminação;\n\n- Instalações de regulação de circulação;\n\n- Posto de cobrança de portagens;\n\n- Edifícios afectos ao serviço de infra-estruturas."
+  },
+  "613ad0a4d0f18223": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nDEFINIÇÃO DAS DESPESAS A REGISTAR NAS DIFERENTES RUBRICAS DOS ESQUEMAS DE CONTABILIZAÇÃO DO ANEXO I DO REGULAMENTO (CEE) No 1108/70 DO CONSELHO DE 4 DE JUNHO DE 1970\n\nA. OBSERVAÇÕES GERAIS\n\n1. O disposto no no 2 do artigo 2o do regulamento acima referido significa que as despesas a registar na contabilidade são as efectuadas directamente para cobrir o custo dos trabalhos, serviços e fornecimentos relativos à construção, à conservação, ao funcionamento e à gestão das infra-estruturas. Estas disposições excluem, portanto, o registo, nesta contabilidade, das provisões anuais para fundos de renovação, de seguro ou de reserva constituídos tendo em vista fazer face a despesas ulteriores.\n\n2. Para uma determinada infra-estrutura, as despesas a considerar nas diferentes rubricas dos esquemas de contabilização são as despesas totais efectuadas em relação a esta infra-estrutura, qualquer que seja o modo como estas despesas são financiadas.\n\n3. O valor das instalações ou dos materiais desmontados, quer sejam vendidos ou reutilizados, deve ser deduzido das despesas respeitantes às rubricas correspondentes dos esquemas de contabilização, sob reserva, no que respeita ao caminho-de-ferro, das disposições especiais eventualmente constantes a este respeito das convenções celebradas entre as companhias ferroviárias e os poderes públicos.\n\n4. As despesas relativas à aquisição, conservação e funcionamento do material especializado e das ferramentas destinados ao serviço das infra-estruturas, assim como as relativas aos transportes em serviço para as necessidades desse serviço, serão registadas nas rubricas correspondentes aos esquemas de contabilização ou, na sua falta, na rubrica «Despesas Gerais».\n\n5. As despesas das oficinas e armazéns serão, em princípio, de incluir nos preços de facturação das peças e materiais fornecidos ao serviço da infra-estrutura. No caso de não ser possível tal imputação directa estas despesas devem ser registadas na rubrica «Despesas Gerais».\n\nB. DEFINIÇÃO DO CONTÉUDO DAS DIFERENTES RUBRICAS\n\n1. Rubricas comuns aos três modos de transporte\n\n- Despesas de investimento (rubricas A 1, B 1, C 1)\n\nAs despesas de investimento incluem o conjunto das despesas (de pessoal, fornecimentos e serviços de terceiros) relativas a construção nova, ampliação reconstrução e renovação de instalações de infra-estruturas, incluindo as despesas acessórias e as despesas de estudo ligadas a estes trabalhos. Todavia, esta definição não obsta à contabilização, em aplicação de disposições nacionais, de certas despesas de investimento de pequena importância na rubrica «Despesas correntes».\n\n- Despesas correntes (rubricas A 2, B 2, C 2)\n\nAs despesas gerais incluem o conjunto das despesas dos serviços administrativos, de controlo e inspecção especialmente encarregados de colocarem à disposição e gerirem as infra-estruturas, assim como a parte imputável às infra-estruturas das despesas dos serviços administrativos gerais directamente interessados. Incluem, além disso, todas as outras despesas que não tenham sido tomadas em consideração directamente nas outras rubricas dos esquemas de contabilização.\n\nTrata-se mais especificamente das despesas seguintes:\n\n- renumerações do pessoal e despesas de funcionamento dos serviços administrativos e técnicos centrais, regionais e locais, despesas dos serviços de controlo e de recepção dos trabalhos;\n\n- encargos de reforma para o pessoal estatutário e outros encargos patronais (abono de família, constituições patronais para as caixas de seguro de doença, prémios de seguro de acidentes, contribuições para os regimes de pensão do pessoal fora do quadro, etc.);\n\n- despesas para alojamentos de serviço colocados à disposição do pessoal afecto ao serviço das infra-estruturas, deduzidos os alugueres eventualmente cobrados; despesas relativas aos edifícios dos serviços de reparação e conservação (designadamente abrigos, depósitos de ferramentas), desde que não tenham sido considerados directamente noutras rubricas dos esquemas de contabilização.\n\n2. Rubricas específicas das estradas\n\n- Despesas de conservação das camadas superficiais das faixas de rodagem (rubrica B 20)\n\nEstas despesas são essencialmente as relativas aos trabalhos que respeitam à resistência mecânica do pavimento às cargas que lhe são aplicadas. Incluem as despesas relativas à reparação das camadas superficiais para os pavimentos flexíveis e à conservação das lajes para os pavimentos rígidos.\n\n- Polícia de trânsito (rubrica B 3)\n\nAs despesas da polícia de trânsito incluem o conjunto das despesas dos serviços de polícia imputáveis à actividade que esta exerce no controlo e regularização do tráfego, incluíndo as despesas em edifícios, veículos e equipamentos especialmente afectos àqueles serviços.\n\n3. Rubrica específica da via navegável\n\n- Polícia da navegação (rubrica C 3)\n\nAs despesas da polícia da navegação incluem o conjunto das despesas relativas ao serviço da polícia da navegação, incluindo as despesas em edifícios, cais e embarcações especialmente afectas àquele serviço."
+  },
+  "6630678b38507de7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1970R2598 — PT — 30.06.2006 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31970R2598) [REGULAMENTO (CEE) N.º 2598/70 DA COMISSÃO](http://publications.europa.eu/resource/celex/31970R2598) [de 18 de Dezembro de 1970](http://publications.europa.eu/resource/celex/31970R2598) [relativo à fixação do conteúdo das diferentes rubricas dos esquemas de contabilização do Anexo I do Regulamento (CEE) N.º 1108/70 do Conselho de 4 de Junho de 1970](http://publications.europa.eu/resource/celex/31970R2598) (JO L 278, 23.12.1970, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 851/2006 da Comissão de 9 de Junho de 2006](http://publications.europa.eu/resource/celex/32006R0851) — L 158 — 3 — 10.6.2006"
+  }
+ }
+}

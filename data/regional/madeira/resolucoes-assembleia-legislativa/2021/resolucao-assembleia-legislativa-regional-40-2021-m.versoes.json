@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176714561:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-legislativa-regiao-autonoma-madeira/2021-178727836",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/40-2021-176714561",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "178696164"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:178714901:por",
+     "title": "Declaração de Retificação n.º 1/2022/M",
+     "published": "2022-02-07",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/1-2022-178714901",
+     "date": "2022-01-03"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "178696164": {
+   "fragment_id": "178727837",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 40/2021/M\n\nSumário: Aprova o Orçamento da Assembleia Legislativa da Região Autónoma da Madeira para o ano 2022.\n\nAprova o Orçamento da Assembleia Legislativa da Região Autónoma da Madeira para o ano de 2022\n\nA Assembleia Legislativa da Região Autónoma da Madeira, nos termos do disposto no artigo 63.º do Decreto Legislativo Regional n.º 24/89/M, de 7 de setembro, na redação republicada e renumerada em anexo ao Decreto Legislativo Regional n.º 13/2017/M, de 23 de maio, resolve aprovar o Orçamento da Assembleia Legislativa da Região Autónoma da Madeira para o ano de 2022, constante dos mapas em anexo."
+  }
+ }
+}

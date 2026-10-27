@@ -1,0 +1,276 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:439403:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-156465109",
+ "dre_path": "/dr/detalhe/decreto-lei/216-2008-439403",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156459419",
+    "156459420",
+    "156459421",
+    "156459422",
+    "156459423",
+    "156459424",
+    "156459425",
+    "156459426",
+    "156459427",
+    "156459428",
+    "156459429",
+    "156459430",
+    "156459431",
+    "156459432",
+    "156459433",
+    "156459434",
+    "156459435",
+    "156459436",
+    "156459437",
+    "156459438",
+    "156459440"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "156459419",
+    "156459420",
+    "156459421",
+    "156459422",
+    "156459423",
+    "156459424",
+    "156459425",
+    "156459426",
+    "156459427",
+    "156459428",
+    "156459441",
+    "156459430",
+    "156459431",
+    "156459442",
+    "156459433",
+    "156459434",
+    "156459435",
+    "156459436",
+    "156459437",
+    "156459438",
+    "156459439",
+    "156459440"
+   ]
+  }
+ ],
+ "fragments": {
+  "156459419": {
+   "fragment_id": "156465110",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 216/2008\n\nde 11 de Novembro\n\nO Decreto-Lei n.º 212/2000, de 2 de Setembro, estabeleceu o regime específico aplicável a alimentos dietéticos destinados a fins medicinais específicos que como tal são apresentados ao consumidor, transpondo para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0021\" title=\"Link para Directiva da Comunidade Europeia\">1999/21/CE</a> , da Comissão, de 25 de Março.\n\nA Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0141\" title=\"Link para Directiva da Comunidade Europeia\">2006/141/CE</a> , da Comissão, de 22 de Dezembro, regulamentou matérias distintas, por um lado, revogou a Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0321\" title=\"Link para Directiva da Comunidade Europeia\">91/321/CEE</a> , e suas alterações, relativa às fórmulas para latentes e fórmulas de transição, e, por outro, alterou a Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0021\" title=\"Link para Directiva da Comunidade Europeia\">1999/21/CE</a> , da Comissão, de 25 de Março, relativa aos alimentos dietéticos destinados a fins medicinais específicos.\n\nAs directivas relativas aos alimentos dietéticos destinados a fins medicinais específicos, designadamente a Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0141\" title=\"Link para Directiva da Comunidade Europeia\">2006/141/CE</a> , da Comissão, de 22 de Dezembro, são directivas específicas, nos termos da Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0398\" title=\"Link para Directiva da Comunidade Europeia\">89/398/CEE</a>, do Conselho, de 3 de Maio, alterada pela Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0084\" title=\"Link para Directiva da Comunidade Europeia\">96/84/CE</a>, do Parlamento Europeu e do Conselho, de 19 de Dezembro, relativa à aproximação das legislações dos Estados membros respeitantes aos géneros alimentícios destinados a uma alimentação especial, transpostas para o direito interno pelo Decreto-Lei n.º 227/99, de 22 de Junho.\n\nRelativamente às fórmulas para latentes e fórmulas de transição, estas têm o seu regime consagrado em diploma próprio, pelo que o presente decreto-lei apenas cuida do regime especial aplicável aos alimentos dietéticos destinados a fins medicinais específicos.\n\nO Decreto-Lei n.º 212/2000, de 2 de Setembro, fixou valores relativos a vitaminas, minerais e oligoelementos em produtos alimentares nutricionalmente completos destinados a lactentes.\n\nEntretanto, foram emitidos novos pareceres científicos sobre o nível mínimo de manganésio nos alimentos para lactentes, tornando-se necessário alterar os níveis de manganésio estabelecidos no referido decreto-lei, de acordo com a Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0141\" title=\"Link para Directiva da Comunidade Europeia\">2006/141/CE</a> , da Comissão, de 22 de Dezembro.\n\nA fim de evitar a dispersão das normas relativas a esta matéria, este decreto-lei consolida a disciplina jurídica relativa a alimentos dietéticos destinados a fins medicinais específicos, transpondo para o direito interno a Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0021\" title=\"Link para Directiva da Comunidade Europeia\">1999/21/CE</a>, da Comissão, de 25 de Março, relativa aos alimentos dietéticos destinados a fins medicinais específicos, alterada pela Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0141\" title=\"Link para Directiva da Comunidade Europeia\">2006/141/CE</a> , da Comissão, de 22 de Dezembro, e revoga o Decreto-Lei n.º 212/2000, de 2 de Setembro.\n\nFinalmente, importa realçar que, na sequência das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE), as competências relativas às medidas de política no âmbito da qualidade e segurança alimentar, nomeadamente a regulamentação e coordenação do controlo oficial dos géneros alimentícios, foram atribuídas ao Gabinete de Planeamento e Políticas (GPP) do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156459420": {
+   "fragment_id": "156465111",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0021\" title=\"Link para Directiva da Comunidade Europeia\">1999/21/CE</a>, da Comissão, de 25 de Março, relativa aos alimentos dietéticos destinados a fins medicinais específicos, alterada pela Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0141\" title=\"Link para Directiva da Comunidade Europeia\">2006/141/CE</a>, da Comissão, de 22 de Dezembro, e estabelece o respectivo regime jurídico."
+  },
+  "156459421": {
+   "fragment_id": "156465112",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Lactente» a criança com idade inferior a 12 meses;\n\nb) «Alimentos dietéticos destinados a fins medicinais específicos» uma categoria de géneros alimentícios destinados a uma alimentação especial, sujeitos a processamento ou formulação especial, com vista a satisfazer as necessidades nutricionais de pacientes e para consumo sob supervisão médica, destinando-se à alimentação exclusiva ou parcial de pacientes com capacidade limitada, diminuída ou alterada para ingerir, digerir, absorver, metabolizar ou excretar géneros alimentícios correntes ou alguns dos nutrientes neles contidos ou seus metabólicos, ou cujo estado de saúde determina necessidades nutricionais particulares que não géneros alimentícios destinados a uma alimentação especial ou por uma combinação de ambos."
+  },
+  "156459422": {
+   "fragment_id": "156465113",
+   "type": 11,
+   "heading": "Artigo 3.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridade competente\n\nO GPP é a autoridade competente pela execução das medidas de política relativas à qualidade e segurança dos produtos abrangidos pelo presente decreto-lei, competindo-lhe, designadamente:\n\na) Seleccionar e aplicar as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R0178\" title=\"Link para Regulamento da Comunidade Europeia\">178/2002</a>, do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Recolher as informações e documentos necessários para os efeitos previstos no artigo 9.º e exigir, se necessário, esclarecimentos suplementares aos fabricantes ou importadores;\n\nc) Comunicar às instâncias comunitárias e aos restantes Estados membros da União Europeia as decisões tomadas ao abrigo do artigo 9.º"
+  },
+  "156459423": {
+   "fragment_id": "156465114",
+   "type": 11,
+   "heading": "Artigo 4.º — Categorias de alimentos dietéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Categorias de alimentos dietéticos\n\n1 - Os alimentos dietéticos destinados a fins medicinais específicos são classificados de acordo com as três categorias seguintes:\n\na) Produtos alimentares nutricionalmente completos, com fórmula dietética padrão, os quais, consumidos em conformidade com as instruções do fabricante, podem constituir a única fonte alimentar para as pessoas a que se destinam;\n\nb) Produtos alimentares nutricionalmente completos, com fórmula dietética adaptada a uma doença, anomalia ou situação sanitária específica, os quais, consumidos em conformidade com as instruções do fabricante, podem constituir a única fonte alimentar para as pessoas a quem se destinam;\n\nc) Produtos alimentares nutricionalmente incompletos, com fórmula dietética padrão ou fórmula dietética adaptada a uma doença, anomalia ou situação sanitária específica, os quais não são adequados a uma utilização como fonte alimentar única.\n\n2 - Os produtos alimentares referidos nas alíneas a) e b) do número anterior podem também ser consumidos como substituto parcial ou suplemento da dieta do paciente."
+  },
+  "156459424": {
+   "fragment_id": "156465115",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição\n\n1 - A fórmula dos alimentos dietéticos destinados a fins medicinais específicos deve basear-se em princípios médicos e nutricionais sólidos.\n\n2 - A sua utilização, segundo as instruções do fabricante, deve ser segura, benéfica e eficaz no que respeita à satisfação das necessidades nutricionais particulares das pessoas às quais estes produtos se destinam, em conformidade com dados científicos geralmente aceites.\n\n3 - Os produtos devem cumprir os critérios de composição especificados no anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "156459425": {
+   "fragment_id": "156465116",
+   "type": 11,
+   "heading": "Artigo 6.º — Rotulagem, apresentação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Rotulagem, apresentação e publicidade\n\nA rotulagem, apresentação e publicidade dos produtos abrangidos pelo presente decreto-lei regem-se pela legislação geral em vigor sobre estas matérias e pelas normas especiais estabelecidas nos artigos seguintes."
+  },
+  "156459426": {
+   "fragment_id": "156465117",
+   "type": 11,
+   "heading": "Artigo 7.º — Denominação de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Denominação de venda\n\nA denominação de venda dos produtos definidos na alínea b) do artigo 2.º é «Alimento dietético para fins medicinais específicos»."
+  },
+  "156459427": {
+   "fragment_id": "156465118",
+   "type": 11,
+   "heading": "Artigo 8.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Rotulagem\n\n1 - A rotulagem de alimentos dietéticos destinados a fins medicinais específicos deve obrigatoriamente mencionar o seguinte:\n\na) O valor energético disponível, expresso em quilojoule e quilocaloria, o teor em proteínas, hidratos de carbono e lípidos, expresso sob forma numérica, por 100 g ou 100 ml do produto tal como é vendido e, conforme aplicável, por 100 g ou 100 ml do produto pronto a ser consumido em conformidade com as instruções do fabricante, podendo esta informação também ser fornecida em função da dose quantificada no rótulo ou por porção, desde que se especifique o número de porções contidas na embalagem;\n\nb) A quantidade média de cada substância mineral e de cada vitamina mencionadas no anexo ao presente decreto-lei, do qual faz parte integrante, presentes no produto, sendo essa quantidade expressa sob forma numérica, por 100 g ou 100 ml do produto tal como é vendido e, quando apropriado, por 100 g ou 100 ml do produto pronto a ser consumido em conformidade com as instruções do fabricante, podendo esta informação também ser fornecida em função da dose quantificada no rótulo ou porção, desde que se especifique o número de porções contidas na embalagem;\n\nc) Selectivamente, o teor de componentes das proteínas, hidratos de carbono e lípidos e ou de outros nutrientes e seus componentes, cuja declaração seja necessária para a adequada utilização prevista para o produto, sendo esse teor expresso sob forma numérica, por 100 g ou 100 ml do produto tal como é vendido e, quando apropriado, por 100 g ou 100 ml do produto pronto a ser consumido em conformidade com as instruções do fabricante, podendo esta informação também ser fornecida em função da dose quantificada no rótulo ou porção, desde que se especifique o número de porções contidas na embalagem;\n\nd) Informação sobre a osmolalidade ou a osmolaridade do produto, conforme aceitável;\n\ne) Informação sobre a origem e a natureza das proteínas e ou dos hidrolisados proteicos contidos no produto.\n\n2 - A rotulagem deve ainda comportar as seguintes menções obrigatórias, precedidas das palavras «Nota importante» ou de menção equivalente:\n\na) Menção em como o produto deve ser consumido sob supervisão médica;\n\nb) Menção sobre a adequação do produto a uma utilização como fonte alimentar única;\n\nc) Menção em como o produto se destina a um grupo etário específico, quando apropriado;\n\nd) Quando apropriado, menção em como o produto representa um risco sanitário se consumido por pessoas não afectadas pela(s) doença(s), anomalia(s) ou situação(ões) sanitária(s) a que se destina.\n\n3 - A rotulagem deve também incluir:\n\na) A menção «Para satisfação das necessidades nutricionais de ...», com indicação da(s) doença(s), anomalia(s) ou situação(ões) sanitária(s) a que o produto se destina;\n\nb) Quando apropriado, uma menção relativa às adequadas precauções e contra-indicações;\n\nc) Uma descrição das propriedades e ou características que tornam necessária a utilização do produto, nomeadamente em relação aos nutrientes que foram aumentados, reduzidos, eliminados ou por outra forma modificados, consoante o caso, e a justificação para utilização do produto;\n\nd) Se apropriado, uma advertência em como o produto não se destina a ser utilizado por via parentérica.\n\n4 - A rotulagem deve conter instruções para preparação, utilização e armazenamento adequados do produto após a abertura da embalagem, quando apropriado."
+  },
+  "156459428": {
+   "fragment_id": "156465119",
+   "type": 11,
+   "heading": "Artigo 9.º — Comercialização e notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comercialização e notificação\n\n1 - É proibida a comercialização de alimentos dietéticos destinados a fins medicinais específicos que não cumpram o disposto no presente decreto-lei.\n\n2 - A autoridade competente pode exigir, a todo o tempo, ao comerciante ou importador a apresentação de trabalhos científicos e dos dados que comprovam a conformidade dos produtos com as regras estabelecidas neste decreto-lei.\n\n3 - Se se tratar da primeira comercialização do produto na Comunidade, o fabricante, se o produto tiver origem num dos Estados membros, ou o importador, se o produto tiver origem em país terceiro, notifica a autoridade competente, para efeitos de comercialização, enviando o rótulo adoptado.\n\n4 - Se o produto já tiver sido comercializado na Comunidade, o fabricante ou o importador, para além do rótulo adoptado, informa a entidade destinatária da primeira notificação de comercialização."
+  },
+  "156459429": {
+   "fragment_id": "156465120",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima mínima de (euro) 100 e máxima de (euro) 3740,98 ou de (euro) 14 963,91, consoante se trate de pessoa singular ou colectiva:\n\na) O fabrico ou a comercialização de alimentos dietéticos destinados a fins medicinais específicos cuja composição não obedeça ao disposto no artigo 5.º;\n\nb) A comercialização de alimentos dietéticos destinados a fins medicinais específicos cuja rotulagem não cumpra o disposto nos artigos 6.º a 8.º;\n\nc) As faltas de notificação e de informação exigidas nos termos dos n.os 3 e 4 do artigo 9.º;\n\nd) A falta de apresentação dos meios de prova suplementares ou dos trabalhos científicos que comprovem a conformidade do produto com as regras constantes deste decreto-lei.\n\n2 - A negligência é punível, sendo os limites máximo e mínimo das coimas reduzidos para metade."
+  },
+  "156459430": {
+   "fragment_id": "156465121",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções acessórias\n\nConsoante a gravidade da contra-ordenação e a culpa do agente podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) A perda de objectos pertencentes ao agente;\n\nb) A suspensão da comercialização do produto."
+  },
+  "156459431": {
+   "fragment_id": "156465122",
+   "type": 11,
+   "heading": "Artigo 12.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fiscalização\n\nSem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente decreto-lei compete à Autoridade de Segurança Alimentar e Económica (ASAE)."
+  },
+  "156459432": {
+   "fragment_id": "156465123",
+   "type": 11,
+   "heading": "Artigo 13.º — Tramitação processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Tramitação processual\n\n1 - O levantamento dos autos de notícia compete à ASAE, assim como às entidades policiais no âmbito das suas competências.\n\n2 - A instrução dos processos de contra-ordenação compete à ASAE.\n\n3 - A aplicação das coimas e sanções acessórias compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP).\n\n4 - O produto da aplicação das coimas reverte a favor das seguintes entidades:\n\na) 60 % para o Estado;\n\nb) 10 % para a entidade autuante;\n\nc) 20 % para a entidade que instruiu o processo;\n\nd) 10 % para a CACMEP."
+  },
+  "156459433": {
+   "fragment_id": "156465124",
+   "type": 11,
+   "heading": "Artigo 14.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regiões Autónomas\n\nO disposto no presente decreto-lei aplica-se às Regiões Autónomas, sendo as competências cometidas a serviços ou organismos da administração do Estado exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas atribuições e competências."
+  },
+  "156459434": {
+   "fragment_id": "156465125",
+   "type": 11,
+   "heading": "Artigo 15.º — Recurso hierárquico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Recurso hierárquico\n\nDa decisão proferida pela autoridade competente, nos termos do n.º 3 do artigo 9.º, cabe recurso para o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, a interpor no prazo de 20 dias a contar da notificação da decisão."
+  },
+  "156459435": {
+   "fragment_id": "156465126",
+   "type": 11,
+   "heading": "Artigo 16.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Taxas\n\n1 - Pela apreciação dos documentos e informações exigidas pelo artigo 9.º são cobradas taxas a pagar pelos utentes dos serviços prestados pela autoridade competente, cujos quantitativos são fixados por portaria do membro do Governo responsável pela área da agricultura.\n\n2 - As receitas previstas no número anterior destinam-se a pagar as despesas decorrentes da prestação do serviço respectivo e constituem receita do GPP."
+  },
+  "156459436": {
+   "fragment_id": "156465127",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\n1 - É revogado o Decreto-Lei n.º 212/2000, de 2 de Setembro.\n\n2 - A Portaria n.º 609/2001, de 20 de Junho, mantém-se em vigor enquanto não for publicada a portaria prevista no artigo anterior."
+  },
+  "156459437": {
+   "fragment_id": "156465128",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma transitória\n\nÉ permitida a comercialização de produtos não conformes com o presente decreto-lei até 31 de Dezembro de 2009, desde que estejam em conformidade com o Decreto-Lei n.º 212/2000, de 2 de Setembro."
+  },
+  "156459438": {
+   "fragment_id": "156465129",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "156459440": {
+   "fragment_id": "156465131",
+   "type": 14,
+   "heading": "Anexo — Composição essencial dos alimentos dietéticos para fins medicinais específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Composição essencial dos alimentos dietéticos para fins medicinais específicos\n\nEstas especificações referem-se aos produtos para consumo, comercializados como tais ou reconstituídos em conformidade com as instruções do fabricante.\n\n1 - Os produtos referidos na alínea a) do n.º 1 do artigo 4.º destinados especificamente a lactentes devem conter as vitaminas e minerais indicados no quadro n.º 1.\n\n2 - Os produtos referidos na alínea b) do n.º 1 do artigo 4.º destinados especificamente a lactentes devem conter as vitaminas e minerais indicados no quadro n.º 1, sem prejuízo da alteração de um ou mais destes nutrientes, tornada necessária pela utilização prevista para o produto.\n\n3 - Os níveis máximos das vitaminas e minerais presentes nos produtos referidos na alínea c) do n.º 1 do artigo 4.º destinados especificamente a lactentes não devem exceder os indicados no quadro n.º 1, sem prejuízo da alteração de um ou mais destes nutrientes, tornada necessária pela utilização prevista para o produto.\n\n4 - Se tal não for contrário às exigências ditadas pela utilização prevista, os alimentos dietéticos para fins medicinais específicos destinados especificamente a lactentes devem cumprir as disposições relativas a outros nutrientes, aplicáveis às fórmulas para lactentes e às fórmulas de transição, consoante os casos.\n\n5 - Os produtos referidos na alínea a) do n.º 1 do artigo 4.º diversos dos especificamente destinados a lactentes devem conter as vitaminas e minerais indicados no quadro n.º 2.\n\n6 - Os produtos referidos na alínea b) do n.º 1 do artigo 4.º diversos dos especificamente destinados a lactentes devem conter as vitaminas e minerais indicados no quadro n.º 2, sem prejuízo da alteração de um ou mais nutrientes, tornada necessária pela utilização prevista para o produto.\n\n7 - Os níveis máximos das vitaminas e minerais presentes nos produtos referidos na alínea c) do n.º 1 do artigo 4.º diversos dos especificamente destinados a lactentes não devem exceder os indicados no quadro n.º 2, sem prejuízo da alteração de um ou mais destes nutrientes, tornada necessária pela utilização prevista para o produto.\n\nQUADRO N.º 1\n\nValores relativos a vitaminas, minerais e oligoelementos em produtos alimentares nutricionalmente completos destinados a lactentes\n\n(ver documento original)\n\nQUADRO N.º 2\n\nValores relativos a vitaminas, minerais e oligoelementos em produtos alimentares nutricionalmente completos, diversos dos destinados a lactentes\n\n(ver documento original)"
+  },
+  "156459441": {
+   "fragment_id": "156465120",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 93.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 10.º — Contra-ordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) O fabrico ou a comercialização de alimentos dietéticos destinados a fins medicinais específicos cuja composição não obedeça ao disposto no artigo 5.º;\n\nb) A comercialização de alimentos dietéticos destinados a fins medicinais específicos cuja rotulagem não cumpra o disposto nos artigos 6.º a 8.º;\n\nc) As faltas de notificação e de informação exigidas nos termos dos n.os 3 e 4 do artigo 9.º;\n\nd) A falta de apresentação dos meios de prova suplementares ou dos trabalhos científicos que comprovem a conformidade do produto com as regras constantes deste decreto-lei.\n\n2 - A negligência é punível nos termos do RJCE.\n\n> Alterado pelo/a Artigo 93.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156459442": {
+   "fragment_id": "156465123",
+   "type": 11,
+   "heading": "Artigo 13.º — Tramitação processual",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 93.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 13.º — Tramitação processual\n\n1 - O levantamento dos autos de notícia compete à ASAE, assim como às entidades policiais no âmbito das suas competências.\n\n2 - A instrução dos processos de contra-ordenação compete à ASAE.\n\n3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 93.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156459439": {
+   "fragment_id": "156465130",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - António José de Castro Guerra - Ascenso Luís Seixas Simões - Ana Maria Teodoro Jorge.\n\nPromulgado em 21 de Outubro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de Outubro de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

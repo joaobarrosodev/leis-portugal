@@ -1,0 +1,271 @@
+---
+schema_version: '1.0'
+id: pt:dre:226861:por
+title: Despacho Normativo n.º 46/86
+short_title: null
+summary: Regulamenta a concessão de apoios à dinamização sócio-económica a nível local, fomentando projectos geradores de
+  emprego
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 46/86
+official_date: null
+publication_date: '1986-06-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 127/1986, Série I de 1986-06-04
+  number: '127'
+  series: I
+  supplement: null
+  pages: 1323 - 1326
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/06/12700/13231326.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '226861'
+  dre_path: /dr/detalhe/despacho-normativo/46-1986-226861
+  internal: pt:dre:226861:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1986-226861
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1986-226861
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:35:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: da6470467b2dd0db7f65fabbd7d02062d17fe2a18c30ca378b1ec4175cef6d0e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:35:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio Técnico
+- Desenvolvimento Regional
+- Financiamento
+- Iniciativa Local de Emprego
+- Instituto do Emprego e Formação Profissional
+- Política de Emprego
+- Posto de Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:517403:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:180618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462066:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348109:por
+  label: Rectificado pela DECL.DD4623.07.08.1986.PCM, DR.IS [199]Supl de 30.08.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-348109
+  date: '1986-08-07'
+- type: repealed_by
+  target: pt:dre:620336:por
+  label: "Revogados os n.ºs 6, 6.1, 7, 7.1, 7.2, 7.3, 7.6 e 8.3, pelo DN.51/89.17.05.1989.MESS, DR.IS [136] de 16.06.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/51-1989-620336
+  date: '1989-05-17'
+- type: repealed_by
+  target: pt:dre:517403:por
+  label: "Revogado pela RES.57/95.18.05.1995.PCM, DR.IS-B [138] de 17.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/57-1995-517403
+  date: '1995-05-18'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:35:28Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 46/86
+
+No âmbito dos programas da OCDE e da CEE sobre iniciativas locais de criação de empregos (ILEs), vem sendo recomendada a adopção de medidas que estimulem esta via complementar de fomento do emprego. E tais recomendações baseiam-se na debilidade económico-empresarial que, por via de regra, caracteriza as ILEs na sua fase inicial. Por esse motivo, os apoios a conceder só deverão ter lugar na medida em que se verifiquem perspectivas de viabilidade normal depois de superadas as limitações do arranque.
+
+Dentro desta orientação, o Programa do Governo prevê exactamente o fomento de «iniciativas locais de emprego viáveis», o qual é agora objecto da primeira regulamentação.
+
+Optou-se pela adopção de um despacho normativo, atendendo a que já existe base legal adequada e ponderando o carácter experimental deste regulamento. Não se exclui, no entanto, obviamente, a hipótese de consagração posterior de apoios mais diversificados e favoráveis através de novo suporte legal.
+
+Nestes termos, determina-se:
+
+1 - Com base nas alíneas c), e) e f) do n.º 3 do artigo 1.º, no n.º 1 do artigo 3.º e nas alíneas b) a e) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 445/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1980-462066), de 4 de Outubro, e bem assim na alínea e) do artigo 4.º do Estatuto do Instituto do Emprego e Formação Profissional (IEFP), aprovado pelo [Decreto-Lei n.º 247/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1985-182655), de 12 de Julho, e tendo ainda em conta a alínea p) do n.º 1 do artigo 5.º do Decreto-Lei n.º 165/85, de 16 de Maio, o presente despacho normativo destina-se a regulamentar a concessão de apoios à dinamização sócio-económica a nível local, fomentando projectos geradores de emprego.
+
+1.1 - Para efeitos de acesso ao apoio do IEFP, entende-se por iniciativas locais de criação de empregos (ILEs) as entidades, de natureza privada, associativas, cooperativas, incluindo régies societárias ou singulares, já existentes ou a criar, que sirvam de suporte jurídico a actividades que se caracterizem, cumulativamente:
+
+a) Pela capacidade empresarial e viabilidade económica e social;
+
+b) Pela inserção em dinamismos comunitários ou associativos da população ou grupos sociais a que respeitam e a cujas necessidades procuram responder, tendo em conta o processo de desenvolvimento local;
+
+c) Pelo objectivo de reduzir o desemprego, actual ou previsível, criando novos postos de trabalho.
+
+1.2 - A viabilidade económica a que se refere a alínea a) do número anterior poderá afirmar-se em termos de mercado ou contratuais.
+
+1.3 - A viabilidade económica em termos de mercado, referida no n.º 1.2, deverá medir-se:
+
+a) Pelo realismo das metas de produção previsionais, pela natureza dos produtos e pela capacidade de produção em ano de cruzeiro;
+
+b) Pela capacidade de geração de resultados positivos sem necessidade de recorrer a apoios estatais para além dos que se justifiquem, nos termos deste diploma, na fase de arranque do projecto.
+
+1.4 - A viabilidade social a que se refere a alínea a) do n.º 1.1 implica, designadamente, a capacidade da ILE para assegurar o cumprimento das normas constantes dos instrumentos de regulamentação colectiva de trabalho aplicáveis.
+
+2 - Podem existir ILEs de base e de apoio.
+
+2.1 - A ILE de base é uma unidade de produção de bens ou de serviços de qualquer espécie.
+
+2.2 - A ILE de apoio destina-se à prestação de serviços a ILEs de base.
+
+2.3 - A ILE de apoio pode resultar ou não da associação de ILEs de base.
+
+2.4 - Poderão também considerar-se como ILEs em sentido mais alargado os processos locais de animação e desenvolvimento, desde que promovam a criação de postos de trabalho.
+
+2.5 - Para efeitos de acesso a incentivos a conceder pelo Estado compete ao IEFP, através dos respectivos serviços locais e regionais, proceder ao reconhecimento das ILEs, de acordo com o disposto nos números anteriores.
+
+3 - Entende-se por rede de ILEs o conjunto de ILEs e das organizações próprias que eventualmente constituam, bem como as relações que estabeleçam entre si.
+
+3.1 - A política de apoio às ILEs terá em conta a criação e desenvolvimento da respectiva rede, bem como a articulação em redes de outros países, designadamente no âmbito dos programas em curso lançados pelas Comunidades Europeias e pela OCDE.
+
+4 - A animação local, visando o aparecimento e desenvolvimento de ILEs, efectuar-se-á pelos agentes e meios que forem escolhidos a nível local, com destaque para os agentes de desenvolvimento a que se refere o [Despacho Normativo n.º 72/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/72-1985-180618), de 10 de Agosto.
+
+4.1 - Na actividade do agente de desenvolvimento, com especial relevância em termos de promoção do emprego, destaca-se a acção local tendente a suscitar novas ILEs, a intervenção junto de centros de decisão ou outras entidades, com vista ao mesmo objectivo, e a prestação do apoio técnico que estiver ao seu alcance.
+
+4.2 - O agente de desenvolvimento, considerado para efeitos deste diploma, poderá exercer as suas funções, independentemente da designação que se lhe atribua, no âmbito de uma ILE de apoio ou mesmo de base e, bem assim, por conta própria ou de uma outra entidade de qualquer natureza.
+
+5 - O papel do IEFP no fomento de ILEs consiste na:
+
+a) Difusão de informações às comunidades locais, autarquias, grupos especiais da população e às entidades promotoras de ILEs, tentando sensibilizá-las para esta via de solução dos problemas de emprego e, ao mesmo tempo, suscitar ou reforçar o espírito de iniciativa;
+
+b) Prestação de apoios diversos às ILEs e à animação local que vise o seu aparecimento e desenvolvimento;
+
+c) Inclusão das ILEs nas medidas de política de emprego, formação profissional e desenvolvimento.
+
+5.1 - Para efeitos de difusão de informações e sensibilização, serão privilegiados os contactos directos e a divulgação de documentação ILE, sem prejuízos do recurso a outros meios de comunicação.
+
+6 - Pelo IEFP poderão ser concedidos às ILEs apoios específicos de natureza técnica, técnico-financeira ou, simplesmente, financeira.
+
+a) O apoio técnico consiste na prestação de serviços próprios do IEFP.
+
+b) O apoio técnico-financeiro consiste no financiamento da prestação de serviços por outras entidades.
+
+c) O apoio financeiro traduz-se na concessão de subsídios não reembolsáveis ou de empréstimos sem juros.
+
+6.1 - Os agentes de desenvolvimento, a que se refere o n.º 4, poderão ter acesso directo aos apoios previstos neste diploma quando não exista ILE ou outra entidade através da qual os possam receber.
+
+7 - A natureza e os montantes dos apoios referidos no n.º 6, alíneas b) e c), são os seguintes:
+
+7.1 - O apoio técnico-financeiro reveste a forma de subsídio não reembolsável ou de empréstimo sem juros.
+
+7.2 - O apoio financeiro a conceder a ILEs de base pode destinar-se a capital de risco ou fundo de maneio, incluindo o pagamento de remunerações (por prestações de trabalho) durante um período de tempo limitado, reveste a forma de subsídio não reembolsável ou de empréstimo sem juros e o respectivo montante não poderá ultrapassar 75% do investimento previsto nem o equivalente a 36 vezes o quantitativo mensal mais elevado do subsídio social de desemprego por cada posto de trabalho a criar, não se considerando mais de vinte postos de trabalho em cada processo.
+
+7.3 - Os despachos de concessão dos apoios previstos nos números anteriores deverão cativar, a favor do IEFP, 3% do montante do financiamento concedido, destinados a suportar os encargos com o controle da correcta aplicação até ao reembolso integral.
+
+7.4 - A ajuda financeira específica a conceder a ILEs de apoio e a agentes de desenvolvimento, por conta própria ou de outra entidade, destina-se ao pagamento de remunerações, reveste a forma de subsídio não reembolsável e obedece às seguintes condições:
+
+a) O valor das remunerações será aferido pelo dos vencimentos da função pública;
+
+b) O período de subsídio atribuído a cada pessoa remunerada só poderá ultrapassar dois anos se se verificarem cumulativamente os seguintes requisitos:
+
+i) Tenham sido alcançados os objectivos visados com a concessão dos apoios anteriores;
+
+ii) Exista provada necessidade de se prosseguir seguir ou alargar o trabalho já realizado, com previsíveis resultados positivos;
+
+iii) Não existam hipóteses alternativas de financiamento;
+
+c) O número de pessoas a contemplar simultaneamente, em cada ILE de apoio ou outra entidade, não poderá ser superior a cinco;
+
+d) Deverá ser apresentado um programa de trabalho que tenha em conta o disposto nos n.os 2 e 7 do [Despacho Normativo n.º 72/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/72-1985-180618), de 10 de Agosto, com reflexos positivos na criação de novos empregos.
+
+7.5 - Para efeitos de criação dos postos de trabalho que subsistam independentemente dos subsídios referidos no n.º 7.4, as ILEs de apoio e os agentes de desenvolvimento por conta própria poderão beneficiar das ajudas previstas no n.º 7.2.
+
+7.6 - As ajudas referidas nos n.os 7.1 e 7.2 só serão concedidas como subsídio não reembolsável até ao montante de 500000$00, revestindo a parte restante do apoio a forma de empréstimo sem juros.
+
+7.7 - O prazo máximo normal de reembolso é de sete anos, incluindo dois anos de carência, tendo em conta o disposto nos n.os 1 a 3 do artigo 9.º do [Decreto-Lei n.º 445/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1980-462066), de 4 de Outubro.
+
+8 - Os apoios previstos neste despacho normativo são concedidos por despacho da comissão executiva do IEFP, que poderá delegar esta competência, com ou sem a faculdade de subdelegação.
+
+8.1 - Os pedidos de apoio são apresentados nos centros de emprego das respectivas áreas.
+
+8.2 - Os projectos de fundamentação de pedidos, elaborados por entidades reconhecidas como idóneas pelos dirigentes do IEFP que intervenham nos respectivos processos, tornam dispensáveis os pareceres técnico-económico-financeiros do mesmo Instituto.
+
+8.3 - Com vista à elaboração dos projectos referidos no número anterior, poderão ser concedidos empréstimos sem juros, até ao limite máximo de doze vezes o montante mais elevado do subsídio social de desemprego, apresentando-se como fundamentação bastante um documento comprovativo da encomenda do projecto em que se indique, nomeadamente, o respectivo custo, o prazo de entrega, a natureza das actividades a lançar e a sua incidência previsível na criação de novos empregos.
+
+8.4 - Para efeitos de pagamento dos subsídios e empréstimos previstos neste despacho normativo poderão ser abertas contas bancárias autónomas do IEFP, com possibilidade de serem movimentadas pelos delegados regionais ou directores de centro de emprego e, se necessário, de outros funcionários, tendo em conta o disposto no n.º 2 do artigo 29.º do supracitado [Decreto-Lei n.º 247/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1985-182655), de 12 de Julho.
+
+9 - Na apreciação dos pedidos de apoio a favor de ILEs de base, atribuirá-se-á prioridade aos projectos em que se verifiquem as seguintes situações:
+
+a) A percentagem mais elevada de candidatos ao primeiro emprego e desempregados a admitir mediante o projecto da ILE;
+
+b) A percentagem mais elevada de cooperadores, associados ou sócios no total de indivíduos a empregar na iniciativa;
+
+c) A localização da iniciativa em zona geográfica mais atingida pelo desemprego ou mais desfavorecida em termos de desenvolvimento económico e social;
+
+d) A menor intensidade, em capital, do investimento previsto.
+
+9.1 - Atribuir-se-á prioridade absoluta aos projectos em que se preveja que os candidatos ao primeiro emprego e desempregados constituam as percentagens mais elevadas, simultaneamente, de pessoas a admitir e de associados, cooperadores ou sócios.
+
+10 - Os centros de emprego do IEFP darão conhecimento dos pedidos de apoio, que neles dêem entrada, às autarquias das localidades em que se situem as respectivas entidades promotoras e em que se preveja o funcionamento das ILEs respectivas, aguardando durante um mês os pareceres que as autarquias entenderem conveniente transmitir-lhes.
+
+10.1 - Mediante acordos celebrados entre o IEFP, a nível local, regional ou central, e as autarquias locais, poderão ser estabelecidas outras formas de articulação.
+
+11 - A articulação entre o IEFP e os parceiros sociais e, eventualmente, outras entidades será definida mediante acordo a celebrar a nível local, regional ou central, sendo recomendável a adopção de esquemas análogos ao previsto no n.º 10, sem prejuízo de outras hipóteses.
+
+12 - Aplicam-se aos apoios financeiros previstos neste despacho normativo as disposições sobre garantias especiais e cobranças coercivas constantes da legislação relativa aos apoios concedidos através do IEFP para a criação de postos de trabalho.
+
+12.1 - O não cumprimento injustificado das obrigações assumidas implica a determinação do reembolso imediato das verbas envolvidas, sem prejuízo do eventual procedimento disciplinar, civil ou criminal.
+
+12.2 - Salvo em casos devidamente justificados, as entidades reconhecidas como idónea, nos termos do n.º 8.2, perdem essa qualidade sempre que os factos venham a provar a inconsistência ou insuficiência dos respectivos estudos ou pareceres.
+
+13 - Cada entidade beneficiária de apoios do IEFP deverá elaborar anualmente um relatório acerca das actividades desenvolvidas e respectivos resultados, efectuando o necessário confronto com a acção programada, os compromissos e os resultados inicialmente previstos, apresentando a justificação dos desvios apurados na execução técnica e financeira e no cumprimento dos prazos.
+
+13.1 - Sem prejuízo do disposto no n.º 13, será elaborado por cada entidade beneficiária, no prazo de seis meses após a concessão de apoio pelo IEFP, um relatório preliminar que proporcione uma primeira apreciação da realização das acções previstas e a introdução, em tempo oportuno, de eventuais rectificações.
+
+13.2 - Os relatórios referidos nos n.os 13 e 13.1 deverão identificar os postos de trabalho criados ao longo do ano, a movimentação das verbas, a situação dos respectivos reembolsos e as perspectivas abertas para os anos subsequentes.
+
+13.3 - Os relatórios serão acompanhados de pareceres emitidos pelas entidades referidas no n.º 8.2.
+
+13.4 - Pelo menos uma vez por ano, os serviços locais e regionais do IEFP promoverão a realização de encontros, com representantes das ILEs das respectivas zonas, para avaliação da acção desenvolvida, aprofundamento desta via de actuação e recolha de pontos de vista e de propostas.
+
+13.5 - Com base nos relatórios e nos encontros referidos nos números anteriores, a estrutura de coordenação do programa ILE submeterá anualmente, à comissão executiva do IEFP, um documento síntese com a súmula de resultados e propostas.
+
+Ministério do Trabalho e Segurança Social, 29 de Abril de 1986. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.

@@ -1,0 +1,249 @@
+---
+schema_version: '1.0'
+id: pt:dre:522863:por
+title: Decreto Legislativo Regional n.º 15/2001/A
+short_title: null
+summary: Estabelece normas relativas à organização e gestão curricular dos ensinos básico e secundário na Região Autónoma
+  dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 15/2001/A
+official_date: null
+publication_date: '2001-08-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 180/2001, Série I-A de 2001-08-04
+  number: '180'
+  series: I
+  supplement: null
+  pages: 4790 - 4791
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/08/180a00/47904791.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/15/2001/08/04/a/dre/pt/html
+  oj: null
+  dre: '522863'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/15-2001-522863
+  internal: pt:dre:522863:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2001-522863
+  metadata_url: https://data.dre.pt/eli/declegreg/15/2001/08/04/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2001-522863
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:19:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4bd96727bb155684e783d3e5a215e50078afabb4ad85955b8fe07053cca41d4b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Avaliação de Conhecimentos
+- Educação Especial
+- Ensino Básico
+- Formação de Professores
+- Gestão Escolar
+- Plano de Estudos
+- Sistema Educativo
+relationships:
+- type: amended_by
+  target: pt:dre:652897:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:178092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6/2001/01/18/p/dre
+- type: cites
+  target: pt:dre:338987:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/7/2001/01/18/p/dre
+- type: cites
+  target: pt:dre:448681:por
+  label: null
+  source: http://data.dre.pt/eli/lei/61/1998/08/27/p/dre
+- type: repealed_by
+  target: pt:dre:241856:por
+  label: "Revogado o art. 8.º, pelo DLR.22/2005/A.18.07.2005.AL-RAA, DR.IS-A [150] de 05.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-2005-241856
+  date: '2005-07-18'
+- type: repealed_by
+  target: pt:dre:489560:por
+  label: "Revogado o nº 3 do art. 11º pelo DLR.29/2005/A.16.11.2005.AL-RAA, DR.IS-A [233] de 06.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2005-489560
+  date: '2005-11-16'
+- type: repealed_by
+  target: pt:dre:652897:por
+  label: "Revogado o art. 7º pelo DLR.15/2006/A.20.03.2006.AL-RAA, DR.IS-A [70] de 07.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2006-652897
+  date: '2006-03-20'
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:19:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 15/2001/A
+
+Organização e gestão curricular dos ensinos básico e secundário na Região Autónoma dos Açores
+
+Pelos Decretos-Leis n.os [6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986) e [7/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2001-338987), ambos de 18 de Janeiro, foram introduzidas alterações profundas à organização e gestão curricular dos ensinos básico e secundário, com particular destaque para a introdução de um currículo nacional, entendido como o conjunto de aprendizagens e competências a desenvolver pelos alunos ao longo do seu percurso escolar e elemento unificador do sistema educativo, nos termos da respectiva lei de bases.
+
+A definição do currículo nacional abre naturalmente espaço para a introdução nos currículos escolares de componentes de índole regional e local que, sem prejuízo da unicidade curricular do sistema educativo, melhorem a integração da escola no meio social onde se insere. Ficam assim criadas condições para que as escolas da Região Autónoma dos Açores introduzam nos seus currículos matérias relevantes para um melhor conhecimento da realidade açoriana e para o reforço da identidade cultural dos seus alunos, dando assim satisfação a uma reivindicação secular.
+
+Por outro lado, face às condições de deficiente escolaridade entre alguns grupos sócio-profissionais, que já levaram à publicação do [Decreto Legislativo Regional n.º 13/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1985-178092), de 23 de Outubro, interessa assegurar a existência de modalidades dotadas de suficiente flexibilidade e diversificação curricular que permitam encontrar as respostas educativas, particularmente em termos de escolaridade de segunda oportunidade, que propiciem a esses grupos a conclusão da escolaridade obrigatória.
+
+Com o presente diploma pretende ainda estabelecer-se um regime que permita aos alunos com necessidades educativas especiais o cumprimento da escolaridade obrigatória, a definição de regras e normas para a matrícula e controlo de assiduidade, na sua vertente de gestão pedagógica, o calendário escolar, a avaliação das aprendizagens e sua certificação, bem como a formação contínua e aperfeiçoamento profissional do pessoal docente e não docente das escolas.
+
+As condições adequadas à operacionalização do presente diploma, tendo em conta a criação do currículo regional, as medidas estruturais que implementa e a formação profissional que envolve, serão concretizadas através de um processo gradual que exigirá a colaboração e participação de todos os parceiros educativos.
+
+Assim, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 31.º da [Lei n.º 61/98](https://diariodarepublica.pt/dr/detalhe/lei/61-1998-448681), de 27 de Agosto, Estatuto Político-Administrativo da Região Autónoma dos Açores, a Assembleia Legislativa Regional decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma dispõe na Região Autónoma dos Açores sobre os aspectos de organização e gestão curricular dos ensinos básico e secundário que, dada a especificidade do seu sistema educativo, devem ser objecto de intervenção da administração regional autónoma.
+
+2 - O presente diploma introduz no ensino básico o conceito de currículo regional e estabelece os princípios orientadores a que se deve subordinar a sua fixação, bem como a sua coordenação com os currículos nacional e de escola.
+
+3 - O presente diploma aplica-se aos ensinos básico e secundário em todas as suas modalidades, incluindo os ensinos recorrente, profissionalizante e profissional.
+
+###### Artigo 2.º — Currículo regional
+
+1 - Para efeitos do presente diploma, entende-se como currículo regional o conjunto de aprendizagens e competências a desenvolver pelos alunos que se fundamentam nas características geográficas, económicas, sociais, culturais e político-administrativas dos Açores.
+
+2 - No ensino secundário poderão, sem prejuízo do que estiver estabelecido para ingresso no ensino superior, e sempre que relevante para a formação científica e cultural do aluno, ser incluídas componentes regionais nos planos curriculares.
+
+3 - A introdução do currículo regional faz-se sempre sem prejuízo do cumprimento integral dos objectivos em termos de aquisição de aprendizagens e competências estabelecidos no currículo nacional.
+
+4 - O currículo regional não prejudica os alunos sujeitos a mobilidade e não releva para efeitos de acesso ao ensino superior.
+
+###### Artigo 3.º — Princípios orientadores
+
+A organização e a gestão do currículo regional subordinam-se aos seguintes princípios orientadores:
+
+a) Respeito integral pelo currículo nacional correspondente;
+
+b) Relevância em termos das aprendizagens e competências para o reforço da identidade cultural dos alunos;
+
+c) Respeito pelas competências essenciais estabelecidas a nível nacional para cada ciclo de ensino;
+
+d) Articulação, coerência e sequencialidade entre as componentes curriculares nacional e regional;
+
+e) Respeito pela autonomia pedagógica da escola, privilegiando a integração entre todas as componentes curriculares e o seu projecto educativo;
+
+f) Contextualização regional e local dos saberes;
+
+g) Diversidade da oferta educativa por forma a responder às necessidades específicas das comunidades e dos grupos sócio-profissionais servidos pela escola.
+
+###### Artigo 4.º — Organização e gestão dos currículos
+
+As áreas curriculares disciplinares e não disciplinares, os limites da respectiva carga horária e as orientações gerais para as diversas áreas curriculares dos três ciclos do ensino básico são fixadas por decreto legislativo regional.
+
+###### Artigo 5.º — Oferta de cursos
+
+1 - A criação de qualquer curso geral ou tecnológico do ensino secundário, para além dos existentes a nível nacional, é feita por decreto regulamentar regional.
+
+2 - O número mínimo de alunos e as normas a seguir na oferta por cada escola de cursos gerais e tecnológicos são estabelecidos por portaria do secretário regional competente em matéria de educação.
+
+###### Artigo 6.º — Diversificação curricular
+
+1 - Tendo em conta as necessidades específicas de grupos populacionais ou profissionais, bem como as características das escolas e a necessidade de combater o abandono precoce e o insucesso escolar, podem ser criados mecanismos de diversificação curricular.
+
+2 - As orientações relativas à diversificação das ofertas curriculares, incluindo as situações que confiram também um certificado de qualificação profissional, são fixadas por portaria do secretário regional competente em matéria de educação.
+
+###### Artigo 7.º — Educação especial
+
+1 - Ouvidos os parceiros educativos, por decreto regulamentar regional, são fixadas as normas necessárias para permitir aos alunos com necessidades educativas especiais de carácter permanente o acesso aos ensinos básico e secundário, criando um regime educativo especial com as necessárias adaptações curriculares e materiais.
+
+2 - Para satisfazer as necessidades específicas dos alunos do ensino básico que não possam ser integrados no currículo educativo comum, por portaria do secretário regional competente em matéria de educação, podem ser criados programas específicos de escolaridade.
+
+###### Artigo 8.º — Matrícula e controlo da assiduidade
+
+1 - As regras a seguir na matrícula, na renovação da matrícula e no controlo da assiduidade dos alunos dos ensinos básico e secundário, em qualquer das suas modalidades, são fixadas por portaria do secretário regional competente em matéria de educação.
+
+2 - O Governo Regional adoptará as medidas necessárias ao efectivo cumprimento da escolaridade obrigatória.
+
+###### Artigo 9.º — Calendário escolar
+
+A fixação do calendário escolar é regulamentada por portaria do secretário regional competente em matéria de educação.
+
+###### Artigo 10.º — Avaliação das aprendizagens e certificação
+
+1 - Por portaria do secretário regional competente em matéria de educação, são regulamentadas, para cada modalidade de ensino básico, as normas a seguir na avaliação das aprendizagens.
+
+2 - Por decreto regulamentar regional são fixadas as normas a seguir na certificação de qualquer das modalidades dos ensinos básico e secundário.
+
+###### Artigo 11.º — Provas de aferição e avaliação da qualidade
+
+1 - Para além das provas de aferição nacionais, poderão ser criadas provas de índole regional destinadas a avaliar o desenvolvimento do currículo regional.
+
+2 - As provas a que se refere o número anterior, bem como o enquadramento do processo de realização das provas nacionais, serão regulamentadas por portaria do secretário regional competente em matéria de educação.
+
+3 - Ouvidos os parceiros educativos, por decreto regulamentar regional são fixadas as normas a seguir na avaliação interna e externa da qualidade do sistema educativo e das escolas, no que respeita às diversas modalidades dos ensinos básico e secundário.
+
+###### Artigo 12.º — Formação profissional
+
+A administração regional autónoma organizará o seu dispositivo de formação contínua e aperfeiçoamento profissional do pessoal docente e não docente das escolas de acordo com os princípios orientadores e os objectivos e conteúdos dos currículos nacional e regional.
+
+###### Artigo 13.º — Correspondência orgânica
+
+As competências em matéria de organização e gestão curricular dos ensinos básico e secundário atribuídas aos serviços centrais e regionais do Ministério da Educação consideram-se atribuídas na Região Autónoma dos Açores aos serviços da Direcção Regional de Educação.
+
+###### Artigo 14.º — Norma revogatória
+
+É revogado o [Decreto Legislativo Regional n.º 13/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1985-178092), de 23 de Outubro.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 21 de Junho de 2001.
+
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 16 de Julho de 2001.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

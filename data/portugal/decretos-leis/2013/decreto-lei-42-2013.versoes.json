@@ -1,0 +1,196 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:259405:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-155903217",
+ "dre_path": "/dr/detalhe/decreto-lei/42-2013-259405",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-03-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "155904977",
+    "155904978",
+    "155904979",
+    "155904980",
+    "155904981",
+    "155904982",
+    "155904983",
+    "155904984",
+    "155904985",
+    "155904986",
+    "155904987",
+    "155904988",
+    "155904989"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "155904977",
+    "155904978",
+    "155904979",
+    "155904980",
+    "155904981",
+    "155904982",
+    "155904983",
+    "155904984",
+    "155904991",
+    "155904986",
+    "155904992",
+    "155904988",
+    "155904989",
+    "155904990"
+   ]
+  }
+ ],
+ "fragments": {
+  "155904977": {
+   "fragment_id": "155903218",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 42/2013\n\nde 22 de março\n\nO Regulamento (UE) n.º <a href=\"eurlex.asp?ano=2012&id=312R0261\" title=\"Link para Regulamento da Comunidade Europeia\">261/2012</a>, do Parlamento Europeu e do Conselho, de 14 de março de 2012, altera o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas, no que diz respeito às relações contratuais no setor do leite e dos produtos lácteos.\n\nEfetivamente, e na sequência, designadamente, das recomendações formuladas pelo Grupo de Peritos de Alto Nível para o Setor Leiteiro, o Regulamento (UE) n.º <a href=\"eurlex.asp?ano=2012&id=312R0261\" title=\"Link para Regulamento da Comunidade Europeia\">261/2012</a>, do Parlamento Europeu e do Conselho, de 14 de março de 2012, adota diversas medidas com os objetivos de reforçar a regulação e a transparência, a estabilização do mercado e a sustentabilidade do mencionado setor, tendo em conta o fim do regime de quotas previsto para o ano de 2015.\n\nDe entre as referidas medidas, são definidas regras harmonizadas para o estabelecimento de relações contratuais para a compra e venda de leite cru, tendo os Estados-Membros a faculdade de prever a obrigatoriedade de as entregas de leite cru, efetuadas nos respetivos territórios entre produtores, intermediários e transformadores, serem objeto de contratos reduzidos a escrito.\n\nO Governo promoveu a consulta às entidades representativas do setor, que, de forma unânime, manifestaram o interesse na consagração, a nível nacional, da obrigatoriedade da celebração de contratos escritos para todas as transações de leite cru de vaca, como instrumento de estabilização do mercado.\n\nCom efeito, esta medida pode constituir uma importante ferramenta de regulação, contribuindo para uma maior responsabilização dos diferentes operadores na gestão interna da oferta e na adaptação à procura.\n\nNeste sentido, importa tornar obrigatória a redução a escrito dos contratos de compra e venda de leite cru de vaca, definindo os elementos essenciais dos contratos, bem como as disposições associadas ao acompanhamento e à monitorização, à fiscalização e ao regime sancionatório do disposto no presente decreto-lei.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "155904978": {
+   "fragment_id": "155903219",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente decreto-lei estabelece o regime aplicável a todos os contratos de compra e venda de leite cru de vaca, adiante designado leite, proveniente de qualquer Estado-Membro da União Europeia, celebrados entre produtores, intermediários e transformadores.\n\n2 - Para efeito do disposto no presente decreto-lei, considera-se «intermediário» toda a empresa que, independentemente da sua forma jurídica, transporte leite de um produtor ou de outro intermediário para um transformador de leite ou para outro intermediário, em que tenha lugar a transferência da propriedade do leite."
+  },
+  "155904979": {
+   "fragment_id": "155903220",
+   "type": 11,
+   "heading": "Artigo 2.º — Obrigatoriedade de celebração de contrato escrito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Obrigatoriedade de celebração de contrato escrito\n\n1 - É obrigatória a celebração de contrato escrito, que contenha os elementos referidos no artigo seguinte, para a compra e venda de leite:\n\na) Entre produtor e intermediário;\n\nb) Entre produtor e transformador;\n\nc) Entre intermediário e transformador;\n\nd) Entre intermediários;\n\ne) Entre transformadores.\n\n2 - A entrega e a receção do leite pelos produtores, intermediários e transformadores estão condicionadas à prévia celebração de contrato escrito."
+  },
+  "155904980": {
+   "fragment_id": "155903221",
+   "type": 11,
+   "heading": "Artigo 3.º — Elementos do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Elementos do contrato\n\n1 - Do contrato de compra e venda de leite devem constar os seguintes elementos:\n\na) A identificação das partes;\n\nb) O preço;\n\nc) A quantidade do leite;\n\nd) A calendarização do fornecimento;\n\ne) As modalidades de entrega ou recolha do leite;\n\nf) Os prazos, as condições e os procedimentos de pagamento;\n\ng) A duração do contrato e as respetivas causas de cessação, designadamente por denúncia;\n\nh) As regras aplicáveis em caso de força maior.\n\n2 - Para efeito do disposto na alínea b) do número anterior, no contrato as partes podem estabelecer um preço fixo ou, em alternativa, um preço variável, devendo, neste último caso, indicar a combinação de fatores de cálculo do preço, que podem incluir indicadores que reflitam as alterações das condições de mercado, o volume entregue e a qualidade ou composição do leite entregue.\n\n3 - Os termos e as condições dos elementos do contrato referidos nos números anteriores são regulados por portaria do membro do Governo responsável pela área da agricultura."
+  },
+  "155904981": {
+   "fragment_id": "155903222",
+   "type": 11,
+   "heading": "Artigo 4.º — Contrato-tipo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Contrato-tipo\n\n1 - O contrato-tipo de compra e venda de leite é aprovado por portaria do membro do Governo responsável pela área da agricultura.\n\n2 - A utilização do contrato-tipo, a que se refere o número anterior, é facultativa."
+  },
+  "155904982": {
+   "fragment_id": "155903223",
+   "type": 11,
+   "heading": "Artigo 5.º — Proposta contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Proposta contratual\n\nA celebração do contrato escrito de compra e venda de leite, quando o vendedor for um produtor, é precedida de uma proposta escrita apresentada pelo primeiro comprador, a qual deve conter os elementos referidos no artigo 3.º."
+  },
+  "155904983": {
+   "fragment_id": "155903224",
+   "type": 11,
+   "heading": "Artigo 6.º — Cooperativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cooperativas\n\nO disposto nos artigos 2.º e 5.º não é aplicável à entrega de leite por um produtor a uma cooperativa, da qual o produtor seja membro, desde que os estatutos ou o regulamento interno da cooperativa contenham disposições que permitam dar cumprimento ao disposto no artigo 3.º."
+  },
+  "155904984": {
+   "fragment_id": "155903225",
+   "type": 11,
+   "heading": "Artigo 7.º — Acompanhamento e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acompanhamento e monitorização\n\n1 - Sem prejuízo de delegação nas organizações interprofissionais do setor do leite ou nas entidades das administrações das Regiões Autónomas, compete ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), acompanhar e monitorizar a aplicação do disposto no presente decreto-lei e na respetiva regulamentação.\n\n2 - Compete, ainda, ao IFAP, I. P., proceder às notificações previstas no n.º 5 do artigo 185.º-F do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de outubro de 2007, na redação que lhe foi conferida pelo Regulamento (UE) n.º <a href=\"eurlex.asp?ano=2012&id=312R0261\" title=\"Link para Regulamento da Comunidade Europeia\">261/2012</a>, do Parlamento Europeu e do Conselho, de 14 de março de 2012.\n\n3 - Os compradores de leite devem prestar ao IFAP, I. P., ou às entidades nas quais tenha sido delegada a competência de acompanhamento e monitorização nos termos do n.º 1, a informação necessária ao acompanhamento e à monitorização dos contratos celebrados, de acordo com modelo a aprovar pelo IFAP, I. P., e disponível no seu sítio na Internet.\n\n4 - O disposto no número anterior aplica-se às cooperativas que se prevaleçam da faculdade prevista no artigo anterior."
+  },
+  "155904985": {
+   "fragment_id": "155903226",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime sancionatório\n\n1 - Constitui contraordenação, punível com coima de (euro) 150 a (euro) 3 740, no caso de pessoa singular, e de (euro) 500 a (euro) 44 891, no caso de pessoa coletiva:\n\na) A não celebração de contrato escrito de compra e venda de leite, em violação do disposto no n.º 1 do artigo 2.º;\n\nb) A entrega ou a receção de leite sem prévia celebração de contrato escrito, em violação do disposto no n.º 2 do artigo 2.º;\n\nc) A celebração de um contrato de compra e venda de leite sem um ou mais elementos obrigatórios, em violação do disposto no n.º 1 do artigo 3.º;\n\nd) A falta de indicação no contrato da combinação dos fatores de cálculo do preço, quando este seja variável, em violação do disposto no n.º 2 do artigo 3.º;\n\ne) A celebração de um contrato de compra e venda de leite em violação dos termos e das condições dos elementos do contrato regulados na portaria prevista no n.º 3 do artigo 3.º;\n\nf) O incumprimento das obrigações de prestação de informação por parte dos compradores de leite, em violação do disposto nos n.os 3 e 4 do artigo anterior.\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.\n\n4 - Consoante a gravidade da contraordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objetos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou atividades cujo exercício dependa de título público ou autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Suspensão de autorizações, licenças e alvarás.\n\n5 - Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "155904986": {
+   "fragment_id": "155903227",
+   "type": 11,
+   "heading": "Artigo 9.º — Fiscalização, instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fiscalização, instrução e decisão\n\n1 - Sem prejuízo das competências atribuídas por lei a outras autoridades policiais e fiscalizadoras, a fiscalização do cumprimento do disposto no presente decreto-lei compete, no âmbito das suas atribuições, à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - Quando qualquer autoridade referida no número anterior ou agente de autoridade, no exercício das suas funções de fiscalização, presenciar contraordenação por violação ao disposto no presente decreto-lei, levanta ou manda levantar o correspondente auto de notícia.\n\n3 - Quando o auto de notícia for levantado por entidade diversa da ASAE, o mesmo é-lhe remetido no prazo de 10 dias.\n\n4 - A instrução dos processos de contraordenação compete à ASAE, cabendo ao Inspetor-Geral da ASAE a aplicação das coimas e das sanções acessórias."
+  },
+  "155904987": {
+   "fragment_id": "155903228",
+   "type": 11,
+   "heading": "Artigo 10.º — Distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Distribuição do produto das coimas\n\n1 - O produto da aplicação das coimas é distribuído do seguinte modo:\n\na) 10% para a entidade que levantar o auto de notícia;\n\nb) 30% para a entidade que instruir o processo;\n\nc) 60% para os cofres do Estado.\n\n2 - O produto das coimas, quando aplicadas nas Regiões Autónomas, constitui receita própria destas."
+  },
+  "155904988": {
+   "fragment_id": "155903229",
+   "type": 11,
+   "heading": "Artigo 11.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regiões Autónomas\n\nO presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sendo as competências de fiscalização, instrução e decisão, previstas no artigo 9.º, exercidas pelas entidades das respetivas administrações regionais com atribuições e competências na matéria."
+  },
+  "155904989": {
+   "fragment_id": "155903230",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor em 1 de junho de 2013."
+  },
+  "155904991": {
+   "fragment_id": "155903226",
+   "type": 11,
+   "heading": "Artigo 8.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 126.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 8.º — Contraordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A não celebração de contrato escrito de compra e venda de leite, em violação do disposto no n.º 1 do artigo 2.º;\n\nb) A entrega ou a receção de leite sem prévia celebração de contrato escrito, em violação do disposto no n.º 2 do artigo 2.º;\n\nc) A celebração de um contrato de compra e venda de leite sem um ou mais elementos obrigatórios, em violação do disposto no n.º 1 do artigo 3.º;\n\nd) A falta de indicação no contrato da combinação dos fatores de cálculo do preço, quando este seja variável, em violação do disposto no n.º 2 do artigo 3.º;\n\ne) A celebração de um contrato de compra e venda de leite em violação dos termos e das condições dos elementos do contrato regulados na portaria prevista no n.º 3 do artigo 3.º;\n\nf) O incumprimento das obrigações de prestação de informação por parte dos compradores de leite, em violação do disposto nos n.os 3 e 4 do artigo anterior.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n3 - (Revogado.)\n\n4 - Consoante a gravidade da contraordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objetos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou atividades cujo exercício dependa de título público ou autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Suspensão de autorizações, licenças e alvarás.\n\n5 - Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.\n\n> Alterado pelo/a Artigo 126.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155904992": {
+   "fragment_id": "155903228",
+   "type": 11,
+   "heading": "Artigo 10.º — Distribuição do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 126.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 10.º — Distribuição do produto das coimas\n\n1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas neste diploma é repartido nos termos do RJCE.\n\n2 - O produto das coimas, quando aplicadas nas Regiões Autónomas, constitui receita própria destas.\n\n> Alterado pelo/a Artigo 126.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155904990": {
+   "fragment_id": "155903231",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de fevereiro de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 12 de março de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 18 de março de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

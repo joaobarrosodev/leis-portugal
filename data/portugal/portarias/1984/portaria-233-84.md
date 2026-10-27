@@ -1,0 +1,244 @@
+---
+schema_version: '1.0'
+id: pt:dre:654688:por
+title: Portaria n.º 233/84
+short_title: null
+summary: Cria o curso de superior de Enologia no Instituto Universitário de Trás-os-Montes e Alto Douro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 233/84
+official_date: null
+publication_date: '1984-04-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 88/1984, Série I de 1984-04-13
+  number: '88'
+  series: I
+  supplement: null
+  pages: 1214 - 1215
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/04/08800/12141215.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '654688'
+  dre_path: /dr/detalhe/portaria/233-1984-654688
+  internal: pt:dre:654688:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-1984-654688
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-1984-654688
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 69268afecf07e13bee702595905f86a7b2625850ad27fa0e01bc83b6baff0540
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:59:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Curso de Enologia
+- Instituto Universitário de Trás-os-montes e ALTO Douro
+- Plano de Estudos
+relationships:
+- type: amended_by
+  target: pt:numero:portaria:628/89
+  label: EXTINTO PELA PORTARIA NUMERO 628/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 180, DE 7/8/89. /8/89.
+  source: null
+- type: cites
+  target: pt:dre:370006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:59:34Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 233/84
+
+de 13 de Abril
+
+Sob proposta do Instituto Universitário de Trás-os-Montes e Alto Douro;
+
+Tendo em vista o disposto no artigo 2.º da [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), de 14 de Setembro;
+
+Ao abrigo do capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+
+1.º
+
+(Curso superior de Enologia)
+
+O Instituto Universitário de Trás-os-Montes e Alto Douro passa a ministrar, nos termos da presente portaria, o curso superior de Enologia.
+
+2.º
+
+(Nível)
+
+O curso Superior de Enologia, adiante simplesmente designado por «curso», é um curso superior para todos os efeitos legais, não conferindo, porém, qualquer grau académico.
+
+3.º
+
+(Habilitação de acesso)
+
+É habilitação de acesso ao curso o 1.º curso da via de ensino do 12.º ano de escolaridade, conjugado com um curso complementar do ensino secundário com as disciplinas de Ciências Naturais e Ciências Físico-Químicas, ou a área A do 11.º ano de escolaridade do ensino secundário.
+
+4.º
+
+(Candidatura)
+
+1 - A inscrição no curso estará sujeita a numerus clausus.
+
+2 - O número de vagas a abrir em cada ano lectivo, bem como o prazo em que decorrerá a candidatura, os critérios a empregar para a selecção dos candidatos e o prazo de inscrição serão fixados por despacho do reitor, sob proposta do conselho científico, ouvido o conselho pedagógico.
+
+3 - O despacho a que se refere o n.º 2 será publicado no Diário da República, 2.ª série.
+
+4 - A decisão sobre os pedidos de admissão é da competência do reitor.
+
+5 - A decisão da aceitação ou rejeição será comunicada por escrito ao interessado e tornada pública através de edital.
+
+6 - Da decisão prevista no n.º 4 poderão os interessados apresentar reclamações, devidamente fundamentadas, no prazo de 7 dias sobre a afixação do edital referido no n.º 5.
+
+7 - As decisões sobre as reclamações serão da competência do reitor, sendo proferidas no prazo de 15 dias e comunicadas por escrito aos reclamantes.
+
+8 - Os requerentes deverão proceder à inscrição no prazo de 7 dias sobre a afixação do edital referido no n.º 5.
+
+9 - A decisão apenas tem efeito para o ano lectivo a que se refere.
+
+10 - Sempre que um candidato não proceda à inscrição no prazo estabelecido, será chamado, por via postal, à realização desta o candidato seguinte da lista ordenada resultante da aplicação dos critérios de selecção até à efectiva ocupação da vaga ou esgotamento dos candidatos.
+
+5.º
+
+(Propinas)
+
+A propina de matrícula e as propinas de inscrição semestral serão no montante respectivamente de 2500$00 e 5000$00 e serão liquidadas em estampilhas fiscais nos boletins respectivos.
+
+6.º
+
+(Plano de estudos)
+
+O plano de estudos da parte escolar do curso é o constante do anexo I a esta portaria.
+
+7.º
+
+(Estágios)
+
+O curso integra um conjunto de estágios (de pré-formação e final) a realizar nos termos que forem fixados em regulamento a aprovar pelo reitor, sob proposta do conselho científico, ouvido o conselho pedagógico.
+
+8.º
+
+(Precedências)
+
+A tabela e o regime de precedências serão fixados por despacho do reitor, sob proposta do conselho científico, ouvido o conselho pedagógico.
+
+9.º
+
+(Diploma)
+
+Aos alunos que hajam concluído com aproveitamento a parte escolar do curso a que se refere o n.º 5.º e os estágios a que se refere o n.º 6.º será conferido o diploma do curso superior de Enologia.
+
+10.º
+
+(Classificação final)
+
+1 - A classificação final do curso é a média aritmética ponderada arredondada (considerando como unidade a fracção não inferior a cinco décimas) das classificações das disciplinas e estágios que o integram, nos termos do n.º 8.º
+
+2 - Os coeficientes de ponderação serão fixados por despacho do reitor, sob proposta do conselho científico, ouvido o conselho pedagógico.
+
+11.º
+
+(Modelo de diploma)
+
+O modelo de diploma é o constante do anexo II a esta portaria.
+
+12.º
+
+(Abertura de candidaturas)
+
+O curso abrirá candidaturas nos anos em que tal for determinado por despacho do reitor, ouvidos a comissão instaladora, o conselho científico e o conselho pedagógico.
+
+Ministério da Educação.
+
+Assinada em 16 de Março de 1984.
+
+O Ministro da Educação, José Augusto Seabra.
+
+## ANEXO I — Curso superior de Enologia
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/04/08800/12141215.pdf)
+
+## ANEXO II — DIPLOMA
+
+República (ver nota*) Portuguesa
+
+(ver nota a) ..., reitor do Instituto Universitário de Trás-os-Montes e Alto Douro:
+
+Faz saber que (ver nota b) ..., filho(ver nota a) de (ver nota c) ..., natural de (ver nota d) ..., concluiu o curso superior de Enologia regulado pela Portaria n.º 233/84, de 13 de Abril, aos ... de ... de ... (ver nota e), com a classificação de ... (ver nota f), pelo que lhe mandei passar o presente diploma.
+
+Vila Real, ... de ... de ... (ver nota g)
+
+O Reitor,
+
+...
+
+O Administrador,
+
+...
+
+(nota *) Lugar do emblema da Universidade.
+
+(nota a) Nome do reitor do Instituto Universitário de Trás-os-Montes e Alto Douro.
+
+(nota b) Nome do titular do diploma.
+
+(nota c) Nome do pai e da mãe do titular do diploma.
+
+(nota d) Naturalidade do titular do diploma.
+
+(nota e) Data da conclusão do curso.
+
+(nota f) Classificação calculada nos termos do n.º 10.º
+
+(nota g) Data da emissão do diploma.

@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105276965:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-211131320",
+ "dre_path": "/dr/detalhe/portaria/300-2016-105276965",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "211171779",
+    "211171780",
+    "211171781",
+    "211171782",
+    "211171783",
+    "211171784",
+    "211171785"
+   ]
+  },
+  {
+   "date": "2023-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211131300:por",
+     "title": "Portaria n.º 93/2023",
+     "published": "2023-03-29",
+     "dre_path": "/dr/detalhe/portaria/93-2023-211131300"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "211171779",
+    "211171780",
+    "211171787",
+    "211171788",
+    "211171783",
+    "211171784",
+    "211171785",
+    "211171786"
+   ]
+  }
+ ],
+ "fragments": {
+  "211171779": {
+   "fragment_id": "211131321",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 300/2016\n\nde 29 de novembro\n\nO Estatuto dos Militares das Forças Armadas (EMFAR) aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, estabelece os critérios gerais para ingresso nas várias categorias dos quadros permanentes (QP) das Forças Armadas, prevendo o n.º 1 do artigo 246.º as condições gerais para o ingresso na categoria de praças da Marinha, sendo o recrutamento realizado por concurso, na modalidade de recrutamento especial nos termos do n.º 1 do artigo 131.º do EMFAR.\n\nPassados cerca de 5 anos da aplicação das normas de regulamentação sobre o recrutamento especial estabelecida pela Portaria n.º 50/2011, de 27 de janeiro e alterada pela Portaria n.º 110/2012, de 26 de abril, entende-se que existe a necessidade de ajustar a condição especial referente à idade máxima para admissão aos concursos para ingresso nos QP, em todas as modalidades, na categoria de praças da Marinha.\n\nEsta medida tem como objetivo garantir condições de equidade entre os militares em regime de contrato, durante toda a extensão do seu contrato, congruente com a idade limite de candidatura a concurso para a categoria de praças, bem como aumentar o universo de recrutamento de militares nos QP da categoria de praças e, assim, potenciar a retenção de militares que se encontram em regime de contrato, contribuindo para o incremento do recrutamento na área da Defesa.\n\nNesta conformidade, e dada a necessidade de reajustar os procedimentos estabelecidos face ao novo normativo estatutário, torna-se necessário ajustar as condições de admissão ao concurso para ingresso nos QP, em todas as modalidades da categoria de praças da Marinha.\n\nAssim, ao abrigo do disposto no n.º 3 do artigo 7.º da Lei do Serviço Militar, aprovada pela Lei n.º 174/99, de 21 de setembro, alterada pela Lei Orgânica n.º 1/2008, de 6 de maio e do disposto no n.º 1 do artigo 131.º do EMFAR, manda o Governo, pelo Secretário de Estado da Defesa Nacional, o seguinte:"
+  },
+  "211171780": {
+   "fragment_id": "211131322",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as condições especiais para admissão a concurso de ingresso nos quadros permanentes (QP) na categoria de praças da Marinha."
+  },
+  "211171781": {
+   "fragment_id": "211131323",
+   "type": 11,
+   "heading": "Artigo 2.º — Concurso de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Concurso de ingresso\n\n1 - O concurso para ingresso na categoria de praças dos QP da Marinha, a que se refere o n.º 1 do artigo 131.º do Estatuto dos Militares das Forças Armadas, aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, reveste as seguintes modalidades:\n\na) Concurso interno limitado;\n\nb) Concurso interno geral;\n\nc) Concurso externo.\n\n2 - Ao concurso interno limitado podem candidatar-se os militares da Armada e os cidadãos na situação de reserva de disponibilidade (RD) abrangidos pelo Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Contrato e de Voluntariado que reúnam as condições especiais de admissão.\n\n3 - Ao concurso interno geral podem candidatar-se militares de qualquer ramo das Forças Armadas que reúnam as condições especiais de admissão.\n\n4 - Ao concurso externo podem candidatar-se, para além dos cidadãos abrangidos pelos números 2 e 3 do presente artigo, todos os civis que reúnam as condições especiais de admissão.\n\n5 - A atribuição das vagas autorizadas às diferentes modalidades de concurso é definida por despacho do Chefe de Estado-Maior da Armada."
+  },
+  "211171782": {
+   "fragment_id": "211131324",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições para admissão a concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições para admissão a concurso\n\n1 - São condições comuns aos candidatos a todas as modalidades de concurso:\n\na) Possuir o curso do ensino secundário ou habilitação legalmente equivalente certificada pelo Ministério da Educação;\n\nb) Preencher os requisitos especiais estabelecidos em disposições próprias constantes dos avisos de abertura dos concursos de admissão, designadamente:\n\ni) Parâmetros médicos, físicos e psicológicos de seleção;\n\nii) Provas físicas e psicológicas de seleção;\n\niii) Outros requisitos específicos.\n\n2 - São condições especiais para a modalidade de concurso interno limitado:\n\na) Ser primeiro-marinheiro, ou segundo-marinheiro com o mínimo de três anos de posto e possuir o curso de promoção de marinheiros; ou, no caso de candidatos na RD, ter sido primeiro-marinheiro ou ter cumprido três anos de posto de segundo-marinheiro e possuir o curso de promoção de marinheiros;\n\nb) Possuir idade não superior a 31 anos no ano civil de abertura do concurso para ingresso no QP.\n\n3 - São condições especiais para a modalidade de concurso interno geral:\n\na) Para militares do Exército e da Força Aérea:\n\ni) Cumprir três anos de serviço efetivo, no ano civil de abertura do concurso;\n\nii) Possuir idade não superior a 29 anos, no ano civil de abertura do concurso;\n\niii) Possuir a avaliação de mérito favorável, relativa ao período de serviço efetivo prestado;\n\niv) Possuir a autorização do chefe do estado-maior do ramo a que pertence, para ser oponente ao concurso e ingressar na categoria de praças dos QP da Marinha;\n\nb) Para militares da Marinha:\n\ni) Cumprir três anos de serviço efetivo, no ano civil de abertura do concurso;\n\nii) Possuir idade não superior a 31 anos, ou 30 anos caso, à data do concurso, ainda não esteja habilitado com o curso de promoção de marinheiros, no ano civil de abertura do concurso;\n\niii) Possuir avaliação de mérito favorável, relativa ao período de serviço efetivo prestado.\n\n4 - Para a modalidade de concurso externo, devem:\n\na) No caso de militares, verificarem-se as condições especiais previstas no número anterior;\n\nb) No caso de civis, possuir idade mínima de 18 anos e não superior a 23 anos, no ano civil de abertura do concurso."
+  },
+  "211171783": {
+   "fragment_id": "211131325",
+   "type": 11,
+   "heading": "Artigo 4.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Revisão\n\nA presente portaria deve ser objeto de revisão no prazo de dois anos a contar da data de entrada em vigor."
+  },
+  "211171784": {
+   "fragment_id": "211131326",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nÉ revogada a Portaria n.º 50/2011, de 27 de janeiro, alterada pela Portaria n.º 110/2012, de 26 de abril."
+  },
+  "211171785": {
+   "fragment_id": "211131327",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "211171787": {
+   "fragment_id": "211131323",
+   "type": 11,
+   "heading": "Artigo 2.º — Concurso de ingresso",
+   "in_force_from": "2023-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 93/2023 - Diário da República n.º 63/2023, Série I de 2023-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/93-2023-211131300), em vigor a partir de 2023-03-30"
+   ],
+   "markdown": "###### Artigo 2.º — Concurso de ingresso\n\n1 - O concurso para ingresso na categoria de praças dos QP da Marinha, a que se refere o n.º 1 do artigo 131.º do Estatuto dos Militares das Forças Armadas, aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, reveste as seguintes modalidades:\n\na) Concurso interno limitado;\n\nb) Concurso interno geral;\n\nc) Concurso externo.\n\n2 - Ao concurso interno limitado podem candidatar-se os militares da Armada e os cidadãos na situação de reserva de disponibilidade (RD) abrangidos pelo Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Contrato e de Voluntariado que reúnam as condições especiais de admissão.\n\n3 - Ao concurso interno geral podem candidatar-se militares de qualquer ramo das Forças Armadas e os cidadãos na situação de reserva de disponibilidade (RD) abrangidos pelo Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Contrato e de Voluntariado que reúnam as condições especiais de admissão.\n\n4 - Ao concurso externo podem candidatar-se, para além dos cidadãos abrangidos pelos números 2 e 3 do presente artigo, todos os civis que reúnam as condições especiais de admissão.\n\n5 - A atribuição das vagas autorizadas às diferentes modalidades de concurso é definida por despacho do Chefe de Estado-Maior da Armada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 93/2023 - Diário da República n.º 63/2023, Série I de 2023-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/93-2023-211131300), em vigor a partir de 2023-03-30"
+  },
+  "211171788": {
+   "fragment_id": "211131324",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições para admissão a concurso",
+   "in_force_from": "2023-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 93/2023 - Diário da República n.º 63/2023, Série I de 2023-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/93-2023-211131300), em vigor a partir de 2023-03-30"
+   ],
+   "markdown": "###### Artigo 3.º — Condições para admissão a concurso\n\n1 - São condições comuns aos candidatos a todas as modalidades de concurso:\n\na) Possuir o curso do ensino secundário ou habilitação legalmente equivalente certificada pelo Ministério da Educação;\n\nb) Preencher os requisitos especiais estabelecidos em disposições próprias constantes dos avisos de abertura dos concursos de admissão, designadamente:\n\ni) Parâmetros médicos, físicos e psicológicos de seleção;\n\nii) Provas físicas e psicológicas de seleção;\n\niii) Outros requisitos específicos.\n\n2 - São condições especiais para a modalidade de concurso interno limitado:\n\na) Ser militar da Marinha em RC ou a frequentar a formação que habilita ao ingresso no RC, ou, no caso de candidatos na RD, ter cumprido três anos de serviço efetivo na Marinha;\n\nb) Possuir idade não superior a 31 anos, no ano civil de abertura do concurso.\n\n3 - São condições especiais para a modalidade de concurso interno geral:\n\na) Para militares do Exército e da Força Aérea:\n\ni) Ser militar em RC ou a frequentar a formação que habilita ao ingresso no RC ou, no caso de candidatos na RD, ter cumprido três anos de serviço efetivo;\n\nii) Possuir idade não superior a 29 anos, no ano civil de abertura do concurso;\n\niii) Possuir a avaliação de mérito favorável, relativa ao período de serviço efetivo prestado;\n\niv) Possuir a autorização do chefe do estado-maior do ramo a que pertence, para ser oponente ao concurso e ingressar na categoria de praças dos QP da Marinha;\n\nb) Para militares da Marinha:\n\ni) Ser militar em RC ou a frequentar a formação que habilita ao ingresso no RC ou, no caso de candidatos na RD, ter cumprido três anos de serviço efetivo;\n\nii) Possuir idade não superior a 31 anos, ou 30 anos caso, à data do concurso, ainda não esteja habilitado com o curso de promoção de marinheiros, no ano civil de abertura do concurso;\n\niii) Possuir avaliação de mérito favorável, relativa ao período de serviço efetivo prestado.\n\n4 - Para a modalidade de concurso externo, devem:\n\na) No caso de militares, verificarem-se as condições especiais previstas no número anterior;\n\nb) No caso de civis, possuir idade mínima de 18 anos e não superior a 24 anos, no ano civil de abertura do concurso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 93/2023 - Diário da República n.º 63/2023, Série I de 2023-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/93-2023-211131300), em vigor a partir de 2023-03-30"
+  },
+  "211171786": {
+   "fragment_id": "211131328",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Defesa Nacional, Marcos da Cunha e Lorena Perestrello de Vasconcellos, em 17 de novembro de 2016."
+  }
+ }
+}

@@ -1,0 +1,395 @@
+---
+schema_version: '1.0'
+id: pt:dre:166158055:por
+title: Portaria n.º 138-C/2021
+short_title: null
+summary: Define o modelo e os elementos complementares a que devem obedecer as candidaturas, para financiar o Programa de
+  Apoio ao Acesso à Habitação e a Bolsa Nacional de Alojamento Urgente e Temporário
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Infraestruturas e Habitação
+proposing_entity: null
+official_number: 138-C/2021
+official_date: null
+publication_date: '2021-06-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 125/2021, 2º Suplemento, Série I de 2021-06-30
+  number: '125'
+  series: I
+  supplement: 2º Suplemento
+  pages: 67-(5) a 67-(9)
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12502/0000500009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-04-15'
+version_history:
+  file: portaria-138-c-2021.versoes.json
+  count: 4
+  source_lastmod: '2025-12-16'
+  versions:
+  - date: '2021-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-06-08'
+    amending: pt:dre:868245270:por
+    amending_title: Portaria n.º 160-A/2024/1
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Anexo
+    - Adita Anexo I
+  - date: '2025-12-17'
+    amending: pt:dre:986558788:por
+    amending_title: Portaria n.º 446/2025/1
+    changes:
+    - Adita Artigo 3.º-B
+    - Altera Artigo 3.º-A
+    - Altera Anexo
+    - Altera Anexo I
+  - date: '2026-04-15'
+    amending: pt:dre:1085062657:por
+    amending_title: Portaria n.º 158-A/2026/1
+    changes:
+    - Altera Artigo 3.º-A
+    - Altera Anexo
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/138-c/2021/p/cons/20260414/pt/html
+  oj: null
+  dre: '166158055'
+  dre_path: /dr/detalhe/portaria/138-c-2021-166158055
+  internal: pt:dre:166158055:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/138-c-2021-166158055
+  metadata_url: https://data.dre.pt/eli/port/138-c/2021/p/cons/20260414/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-947392600
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-947392600
+  retrieved_at: '2026-10-22T13:38:33Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-12-16T00:00:00Z'
+integrity:
+  source_sha256: 367cb85929571e98af35d254cf2b49493b031e8a5762a20e16c2a3e129b672b4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:38:33Z'
+  notes: 4 versão(ões); histórico completo em portaria-138-c-2021.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto da Segurança Social
+- Financiamento
+- Ministério da Administração Interna
+- Definição de Competências
+- Regulamentação de Atos Legislativos
+- Secretaria Geral
+- Instituto da Habitação e da Reabilitação Urbana
+- Página na Internet
+- Habitação
+- Subsídio
+- Plataforma Eletrónica
+- Programa de Apoio ao Acesso à Habitação-1.º Direito
+- Direito à Habitação
+- Plano de Recuperação e Resiliência
+- Bolsa Nacional de Alojamento Urgente e Temporário
+relationships:
+- type: amended_by
+  target: pt:dre:868245270:por
+  label: Adita Artigo 3.º-A; Adita Anexo; Adita Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/160-a-2024-868245270
+  date: '2024-06-07'
+- type: amended_by
+  target: pt:dre:986558788:por
+  label: Adita Artigo 3.º-B; Altera Artigo 3.º-A; Altera Anexo; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/446-2025-986558788
+  date: '2025-12-16'
+- type: amended_by
+  target: pt:dre:1085062657:por
+  label: Altera Artigo 3.º-A; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/158-a-2026-1085062657
+  date: '2026-04-14'
+- type: cites
+  target: celex:32021R0241
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/241/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/120/2021/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/120/2021/06/08/p/dre
+- type: cites
+  target: pt:dre:115440317:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/37/2018/06/04/p/dre
+- type: cites
+  target: pt:dre:116090203:por
+  label: null
+  source: http://data.dre.pt/eli/port/230/2018/08/17/p/dre
+- type: cites
+  target: pt:dre:144454578:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/81/2020/10/02/p/dre
+- type: cites
+  target: pt:dre:160631105:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/26/2021/03/31/p/dre
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/135/1999/04/22/p/dre
+article_structure:
+  article_count: 13
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:38:33Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 138-C/2021
+
+Sumário: Define o modelo e os elementos complementares a que devem obedecer as candidaturas, para financiar o Programa de Apoio ao Acesso à Habitação e a Bolsa Nacional de Alojamento Urgente e Temporário.
+
+A situação epidemiológica causada pelo vírus SARS-CoV-2 constitui uma emergência de saúde pública com impactos ao nível social e económico, aos quais foi necessário dar uma resposta imediata no plano sanitário, bem como através de um conjunto significativo de medidas de salvaguarda do emprego, dos rendimentos e dos direitos sociais dos cidadãos.
+
+As respostas desencadeadas para mitigar os impactos da pandemia foram sendo estabilizadas, aprofundadas e complementadas por novas medidas, porém, urge agora implementar um conjunto de reformas e de investimentos que permitirá ao país retomar o crescimento económico sustentado, reforçando o objetivo de convergência com a Europa ao longo da próxima década.
+
+O Plano de Recuperação e Resiliência (PRR) vem, assim, promover uma resposta mais estrutural e dilatada no tempo, tendo em consideração a necessidade de uma resposta coletiva e concertada pelos Estados-Membros da União Europeia, assente em pilares como a transição climática e a transição digital, na competitividade e coesão territorial, aposta no potencial produtivo e, em particular, no combate às vulnerabilidades sociais.
+
+O PRR configura um desafio sem precedentes no nosso país, ao nível da programação e da compatibilização dos mecanismos previstos, pelo que, no caso concreto da Componente 2. Habitação, importa dotá-la dos instrumentos que permitam a execução de despesa por conta dos programas que abrange, sendo os seus procedimentos definidos através de portaria.
+
+Assim, a presente portaria define o modelo e os elementos essenciais a que obedecem as candidaturas ao apoio financeiro não reembolsável disponibilizado para a Componente 2. Habitação, pelo Plano de Recuperação e Resiliência (PRR), no âmbito do Mecanismo de Recuperação e Resiliência (MRR) da União Europeia para o período 2021-2026, para financiar os seguintes investimentos:
+
+a) Programa de Apoio ao Acesso à Habitação, para soluções habitacionais promovidas ao abrigo do 1.º Direito - Programa de Apoio ao Acesso à Habitação, regulado pelo Decreto-Lei n.º 37/2018, de 4 de junho, na sua atual redação; e
+
+b) Bolsa Nacional de Alojamento Urgente e Temporário, doravante designada «Bolsa de Alojamento» para soluções de alojamento urgente e temporário promovidas ao abrigo do Decreto-Lei n.º 26/2021, de 31 de março.
+
+Assim, em execução do disposto n.º 4 do artigo 63.º do Decreto-Lei n.º 37/2018, de 4 de junho, na redação dada pelo Decreto-Lei n.º 81/2020, de 2 de outubro, e nos n.os 2 e 7 do artigo 13.º do Decreto-Lei n.º 26/2021, de 31 de março, manda o Governo, pela Secretária de Estado da Habitação, no uso das competências delegadas pelo Ministro das Infraestruturas e da Habitação, através do Despacho n.º 11146/2020, de 2 de novembro, publicado no Diário da República, 2.ª série, n.º 221, de 11 de novembro de 2020, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+Sem prejuízo dos critérios e procedimentos estabelecidos nos avisos de abertura de concurso pelo IHRU - Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), e validados pela Estrutura de Missão «Recuperar Portugal» ou por orientação Técnica desta última entidade, que fixarão as condições de atribuição do apoio financeiro não reembolsável disponibilizado para a Componente 2. Habitação, pelo Plano de Recuperação e Resiliência (PRR), no âmbito do Mecanismo de Recuperação e Resiliência (MRR) da União Europeia para o período 2021-2026, a presente portaria define o modelo e os elementos complementares a que devem obedecem as candidaturas, para financiar os seguintes investimentos:
+
+a) Programa de Apoio ao Acesso à Habitação, para soluções habitacionais promovidas ao abrigo do 1.º Direito - Programa de Apoio ao Acesso à Habitação, regulado pelo Decreto-Lei n.º 37/2018, de 4 de junho, na sua atual redação; e
+
+b) Bolsa Nacional de Alojamento Urgente e Temporário, doravante designada «Bolsa de Alojamento» para soluções de alojamento urgente e temporário promovidas ao abrigo do Decreto-Lei n.º 26/2021, de 31 de março.
+
+###### Artigo 2.º — Âmbito
+
+1 - Sem prejuízo do disposto nos n.os 2 e 3 do presente artigo, o financiamento com as verbas do PRR referido no artigo anterior tem por objeto o investimento total relativo a:
+
+a) No caso do Programa de Apoio ao Acesso à Habitação, as despesas elegíveis no âmbito do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, previstas no artigo 14.º e as relativas aos serviços para apoio técnico a que se refere o artigo 16.º daquele decreto-lei e às soluções habitacionais a que se referem os seus artigos 27.º, 28.º e 29.º, quando promovidas pelas pessoas e entidades indicadas nos artigos 25.º e 26.º do mesmo diploma;
+
+b) No caso da Bolsa de Alojamento, as despesas elegíveis com as soluções de alojamento a que se refere o n.º 4 do artigo 4.º do Decreto-Lei n.º 26/2021, de 31 de março, com exceção do arrendamento, quando promovidas pelas entidades indicadas no n.º 1 do artigo 12.º do mesmo diploma.
+
+2 - No âmbito das candidaturas à construção de novos edifícios com apoio financeiro não reembolsável nos termos do PRR são elegíveis, além das despesas indicadas no artigo 14.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, as despesas relativas ao cumprimento de critérios de eficiência energética e de procura de energia primária inferior em, pelo menos, 20 % ao requisito NZEB (edifícios com necessidades quase nulas de energia), incluindo a respetiva certificação, conformes aos objetivos do Regulamento (EU) 2021/241, do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que criou o MRR, doravante designado por Regulamento (EU) 2021/241.
+
+3 - Para efeito do respetivo financiamento, as candidaturas devem conter o valor estimado do acréscimo de custos decorrente das exigências de eficiência energética e de procura de energia primária a que se refere o número anterior, que não decorram da legislação nacional, não sendo, porém, esse acréscimo considerado para efeito de aferição do cumprimento dos limites máximos do regime de habitação a custos controlados e dos valores de referência para financiamento no âmbito do programa 1.º Direito.
+
+4 - No caso de candidaturas aprovadas relativas a soluções habitacionais que incluam a aquisição de imóveis cujo preço corresponda ao valor de uma obrigação de facere de montante determinável, o financiamento relativo a essa aquisição é contratualizado pelo valor previsto na candidatura, só sendo, porém, totalmente disponibilizado mediante comprovativo do valor efetivo do cumprimento dessa obrigação.
+
+###### Artigo 3.º — Apresentação das candidaturas
+
+1 - As candidaturas a apoio para as soluções habitacionais previstas no artigo anterior são apresentadas através do município competente ou junto do IHRU, I. P., conforme estiver previsto legalmente, e são por este aprovadas de acordo com a análise a que se referem os artigos 62.º e 63.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, e com o cumprimento das condições próprias do PRR, designadamente as constantes das correspondentes orientações técnicas ou avisos de abertura de concursos, consoante for o caso.
+
+2 - As candidaturas são instruídas nos termos previstos na Portaria n.º 230/2018, de 17 de agosto, na sua redação atual, com as adaptações decorrentes da concessão do apoio não reembolsável do PRR ao investimento na solução habitacional, correspondendo este ao menor dos valores entre as despesas elegíveis dessa solução e os valores de referência que lhe são aplicáveis nos termos do Decreto-Lei n.º 37/2018, de 4 de junho, na redação atual, ou, no caso de obras, o custo de promoção (CP), calculado nos termos do regime de habitação de custos controlados, se este for superior.
+
+3 - São nomeadamente consideradas como necessárias no âmbito e para efeito do disposto no número anterior, as adaptações relativas à entrega diferida de elementos instrutórios de candidaturas ou à entrega de elementos probatórios de despesas já realizadas, que sejam consideradas elegíveis de acordo com o disposto artigo anterior e no artigo 10.º da presente portaria.
+
+4 - No caso de contratos já celebrados nos termos do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, relativos a investimentos abrangidos pelo disposto no artigo 10.º da presente portaria, é dispensada a apresentação de nova candidatura, devendo, porém, os referidos instrumentos contratuais ser objeto de aditamento com as condições próprias do financiamento do PRR após a divulgação das orientações técnicas aplicáveis.
+
+5 - Podem ser solicitados pelo IHRU, I. P., enquanto beneficiário intermediário, aos beneficiários dos financiamentos os elementos instrutórios adicionais que sejam necessários nos termos do regime excecional de execução orçamental e de simplificação de procedimentos do PRR, bem como da contratualização com a Estrutura de Missão «Recuperar Portugal», incluindo, no caso dos beneficiários a que se refere o artigo 25.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, as autorizações para acesso e tratamento dos dados necessários ao cumprimento das regras de gestão e de monitorização das verbas do PRR.
+
+###### Artigo 3.º-A — Candidaturas pelas entidades beneficiárias ao Programa de Apoio ao Acesso à Habitação
+
+1 - As candidaturas a apoio para as soluções habitacionais previstas na alínea a) do n.º 1 do artigo 2.º apresentadas pelas entidades beneficiárias, constantes do artigo 26.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, são aprovadas pelo IHRU, I. P., nos exatos termos constantes dos formulários por aquelas preenchidos e entregues, e desde que entregue ao IHRU, I. P., a aceitação do respetivo termo de responsabilidade e de aceitação da candidatura, que constitui o anexo à presente portaria, no prazo de cinco dias úteis, a contar da data da notificação enviada pelo IHRU, I. P., através da Plataforma do 1.º Direito, até à existência da necessária dotação do fundo do Programa, nos termos constantes dos avisos de publicitação n.º 01/C02-i01/2021 e n.º 29/C02-i01/2026 - Componente 02 - Habitação - Programa de Apoio ao Acesso à Habitação.
+
+2 - Após a notificação da aprovação da candidatura, as entidades beneficiárias e o IHRU, I. P., assinam o respetivo termo de responsabilidade e de aceitação, sujeito a homologação por parte dos membros do Governo responsáveis pelas áreas das autarquias locais e da habitação, que constitui o contrato de comparticipação, para todos os efeitos legais, nomeadamente os previstos no artigo 70.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, no artigo 14.º da Portaria n.º 230/2018, de 17 de agosto, na sua redação atual, e no ponto 6 dos avisos de publicitação n.º 01/C02-i01/2021 e n.º 29/C02-i01/2026 - Componente 02 - Habitação - Programa de Apoio ao Acesso à Habitação.
+
+3 - Celebrado o termo de responsabilidade e de aceitação, o IHRU, I. P., assegura a libertação da primeira prestação, que assume a natureza de adiantamento, correspondente a 25 % do financiamento das despesas elegíveis, podendo ser, nos termos do disposto no n.º 12 do artigo 22.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, de valor superior, até 95 % do financiamento, quando as obras forem promovidas pelas entidades beneficiárias previstas nas alíneas a) e b) do artigo 26.º do decreto-lei referido, aplicando-se o disposto nos n.os 13 e 14 do artigo 22.º do mesmo decreto-lei.
+
+4 - O valor da comparticipação financeira não reembolsável a financiar pelo IHRU, I. P., corresponderá transitoriamente, até à conclusão da análise da candidatura prevista no número seguinte, ao valor de investimento indicado pelas entidades beneficiárias no formulário e no termo de responsabilidade e de aceitação.
+
+5 - A análise das candidaturas a que se referem os artigos 62.º e 63.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, e o cumprimento das condições próprias do PRR, designadamente as constantes das correspondentes orientações técnicas ou dos avisos de publicitação n.º 01/CO2-i01/2021 e n.º 29/C02-i01/2026 - Componente 02 - Habitação - Programa de Apoio ao Acesso à Habitação, será efetuada pelo IHRU, I. P., em momento posterior ao da aprovação das candidaturas.
+
+6 - O valor da comparticipação financeira não reembolsável a financiar efetivamente pelo IHRU, I. P., apurado após a análise prevista no número anterior, é comunicado às entidades beneficiárias, nos termos previstos no artigo 19.º do Decreto-Lei n.º 175/2012, de 2 de agosto, na sua redação atual, por simples troca de correspondência.
+
+7 - O não cumprimento dos requisitos, ou das condições de acesso ou de elegibilidade ou das condições técnicas exigidas no âmbito dos avisos n.º 01/CO2-i01/2021 e n.º 29/C02-i01/2026 - Componente 02 - Habitação - Programa de Apoio ao Acesso à Habitação, constitui fundamento da anulação da decisão de aprovação da candidatura.
+
+8 - Em tudo o que não contrarie os números anteriores, é aplicável a estas candidaturas o disposto nos n.os 2, 3 e 5 do artigo 3.º
+
+9 - O anexo a que se refere este artigo passa a ter a redação constante do anexo à presente portaria.
+
+> Nota: [Artigo 2.º, Portaria n.º 158-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/158-a-2026-1085062657) As alterações introduzidas pela Portaria n.º 158-A/2026/1, de 14 de abril são aplicáveis às candidaturas submetidas ao abrigo dos Avisos n.º 01/C02-i01/2021 e n.º 29/C02-i01/2026, bem como às relações jurídicas já constituídas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/158-a-2026-1085062657), em vigor a partir de 2026-04-15.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 446/2025/1 - Diário da República n.º 241/2025, Série I de 2025-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/446-2025-986558788), em vigor a partir de 2025-12-17
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 160-A/2024/1 - Diário da República n.º 110/2024, Suplemento, Série I de 2024-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/160-a-2024-868245270), em vigor a partir de 2024-06-08
+
+###### Artigo 3.º-B — Candidaturas de beneficiários diretos com acordo de representação
+
+O disposto no artigo anterior é aplicável ao apoio para as soluções habitacionais previstas na alínea a) do n.º 1 do artigo 2.º, apresentadas pelos beneficiários diretos, constantes do artigo 25.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, desde que seja:
+
+a) Comprovada a condição de indignidade, nos termos do artigo 5.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual;
+
+b) Comprovado o disposto no n.º 4 do artigo 32.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual;
+
+c) Celebrado o acordo de representação, ao abrigo dos artigos 60.º e 61.º do Decreto-Lei n.º 37/2018, de 4 de junho, e do artigo 16.º da Portaria n.º 230/2018, de 17 de agosto, na sua redação atual, e o mesmo preveja que o município tem poderes de representação para, em nome e no interesse do beneficiário direto, outorgar o contrato de financiamento com o IHRU, I. P., e celebrar o contrato de empreitada, bem como os conexos com esta que se revelem necessários para a concretização da solução habitacional.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 446/2025/1 - Diário da República n.º 241/2025, Série I de 2025-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/446-2025-986558788), em vigor a partir de 2025-12-17
+
+###### Artigo 4.º — Modelo de candidaturas ao Programa de Apoio ao Acesso à Habitação
+
+1 - Sem prejuízo dos procedimentos próprios do desembolso das verbas do PRR nos termos contratualizados com a Estrutura de Missão «Recuperar Portugal», cabe ao IHRU, I. P., enquanto uma das entidades responsáveis pelo Programa de Apoio ao Acesso à Habitação da Componente 2. Habitação, gerir e monitorizar as candidaturas que lhe são apresentadas para financiamento de soluções habitacionais no âmbito do PRR, por forma a assegurar o cumprimento das metas e do prazo neste definidos para o referido Programa.
+
+2 - Para efeito do disposto no número anterior, o IHRU, I. P., com base nos dados da Estratégia Local de Habitação (ELH) aprovada ao abrigo do programa 1.º Direito, de acordo com as orientações técnicas, a serem aprovadas pela Estrutura de Missão «Recuperar Portugal», verifica e define os investimentos que, em função do respetivo estado de desenvolvimento, são abrangidos por financiamento com as verbas provenientes do PRR, sendo considerados como tal os investimentos relativos a soluções habitacionais e cujo plano de execução tenha um termo compatível com a entrega das mesmas aos respetivos destinatários até ao termo do período de aplicação do PRR.
+
+3 - No caso de questões relativas a vicissitudes ou atrasos na execução das soluções habitacionais, o IHRU, I. P., promove a renegociação dos correspondentes contratos nos casos em que a reformulação daí decorrente permita viabilizar o enquadramento daquelas soluções com o cumprimento das metas e prazos do PRR.
+
+4 - Sempre que o IHRU, I. P., conclua existirem vicissitudes ou atrasos na execução das soluções habitacionais financiadas pelo PRR com reflexo no cumprimento das metas deste Plano ou do respetivo prazo, deve propor à tutela setorial, após audição do beneficiário, a substituição daquela solução por outra constante da candidatura do mesmo ou de outro beneficiário.
+
+5 - A solução habitacional que seja substituída nos termos do número anterior pode ser objeto de candidatura a financiamento nos termos referidos no artigo 9.º da presente portaria.
+
+###### Artigo 5.º — Modelo de candidaturas à Bolsa de Alojamento
+
+1 - O IHRU, I. P., enquanto entidade corresponsável pela concessão dos apoios no âmbito da Bolsa de Alojamento Urgente e Temporário da Componente 2. Habitação do PRR, receciona e aprova as candidaturas que lhe são entregues nos termos do n.º 3 do artigo 6.º e do artigo 13.º do Decreto-Lei n.º 26/2021, de 31 de março, bem como dos correspondentes avisos de abertura de concurso validados pela Estrutura de Missão «Recuperar Portugal» ou orientações técnicas aprovadas por esta, constituindo o parecer do Instituto da Segurança Social, I. P. (ISS, I. P.), referido no n.º 4 do artigo 13.º e os protocolos a que se refere o artigo 13.º da Portaria n.º 120/2021, de 8 de junho, elementos instrutórios dessas candidaturas.
+
+2 - As prioridades e a monitorização das candidaturas a financiamento de soluções habitacionais no âmbito do PRR são asseguradas em articulação entre o IHRU, I. P., e o ISS, I. P., de acordo com aviso de concurso ou orientações técnicas previstas no número anterior, nos termos do Plano Nacional de Alojamento Urgente, por forma a garantir o cumprimento das metas e dos prazos definidos no PRR.
+
+3 - No caso de candidaturas a apoio para as soluções habitacionais a que se referem os n.os 3 e 4 do artigo 11.º do Decreto-Lei n.º 26/2021, de 31 de março, não é exigível o parecer referido no n.º 1 do presente artigo e a articulação a que se refere o número anterior é assegurada nos termos do protocolo celebrado entre o IHRU, I. P., e a Secretaria-Geral do Ministério da Administração Interna (SGMAI) previsto no n.º 3 do mesmo artigo 11.º, à qual, no âmbito e para efeito do disposto nos n.os 3 e 4 do artigo 4.º da presente portaria, cabe propor à respetiva tutela setorial a substituição de candidaturas.
+
+###### Artigo 6.º — Garantia de coesão territorial
+
+1 - No âmbito dos investimentos apoiados com verbas do PRR, previstos na alínea a) do artigo 1.º, são afetos, a cada uma das sete Unidades Territoriais para Fins Estatísticos de nível ii (NUTS II), 5 % do valor total do montante disponível.
+
+2 - A afetação referida no número anterior cessa a partir de 1 de julho de 2024, sem prejuízo da sua manutenção relativamente às verbas que estejam devidamente comprometidas, através de contrato de financiamento celebrado até àquela data entre beneficiários e IHRU, I. P.
+
+3 - No âmbito dos investimentos apoiados com verbas do PRR, previstos na alínea b) do artigo 1.º, aplica-se a afetação, por Unidade Territorial para Fins Estatísticos de nível ii (NUTS II), prevista no Plano Nacional de Alojamento Urgente e Temporário 2021-2026.
+
+###### Artigo 7.º — Plataforma eletrónica
+
+1 - Os atos e comunicações referentes às candidaturas a apoio financiado com verbas do PRR são realizados de forma desmaterializada na plataforma eletrónica do programa 1.º Direito, no Portal da Habitação.
+
+2 - Quando, designadamente por razões técnicas ou relacionadas com a natureza do ato, a utilização da plataforma se revelar inviável, os atos e comunicações podem ser realizados por correio eletrónico ou por via postal, sem prejuízo de a situação dever ser regularizada na plataforma quando, de acordo com indicação do IHRU, I. P., existam condições para o efeito.
+
+3 - No caso de atos e comunicações realizados por via eletrónica, devem ser utilizados os sistemas de autenticação e assinatura eletrónica, como o cartão de cidadão, a chave móvel digital e o sistema de certificação de atributos profissionais, sem prejuízo do disposto no artigo 24.º do Decreto-Lei n.º 135/99, de 22 de abril, na sua redação atual.
+
+###### Artigo 8.º — Financiamento complementar
+
+Conforme resulta da aplicação conjugada do artigo 9.º do Regulamento (EU) 2021/241 e do artigo 21.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, os projetos apoiados com verbas do PRR podem ser financiados por outros programas e instrumentos da União, desde que este financiamento não cubra os mesmos custos, como nos casos de custos com áreas não habitacionais que integrem o projeto da solução habitacional.
+
+###### Artigo 9.º — Candidaturas não abrangidas
+
+1 - O disposto na presente portaria não prejudica a apresentação de candidaturas relativas a soluções habitacionais ou de alojamento no âmbito do programa 1.º Direito ou da Bolsa de Alojamento que não sejam abrangidas por financiamento com verbas do PRR, mantendo-se nesses casos o financiamento nos termos dos artigos 17.º a 20.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, em função do disposto no artigo 82.º deste diploma.
+
+2 - As candidaturas referidas no número anterior devem conter todos os elementos previstos na Portaria n.º 230/2018, de 17 de agosto, na sua redação atual, incluindo a informação necessária para efeito de financiamento nos termos do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, designadamente sobre a intenção de recorrer, ou não, à contratação de empréstimos para a parte não comparticipada do mesmo, bem como sobre a capacidade financeira do candidato para, se for caso, suportar a parcela dos capitais próprios e o serviço da dívida.
+
+###### Artigo 10.º — Aplicação
+
+1 - A presente portaria aplica-se a operações iniciadas após 1 de fevereiro de 2020, relativos a soluções de alojamento em curso ou a promover dentro daquele período ao abrigo do Decreto-Lei n.º 26/2021, de 31 de março, ou a soluções habitacionais contratadas ou a contratar dentro do mesmo período no âmbito de ELH cuja concordância com o programa 1.º Direito tenha sido aprovada pelo IHRU, I. P.
+
+2 - A presente portaria cessa a sua vigência em relação a candidaturas ao Programa de Apoio ou à Bolsa de Alojamento quando for atingido o valor total das verbas da Componente 2. Habitação do PRR destinadas a cada um desses investimentos e, em qualquer dos casos, na data do termo do período de aplicação do PRR.
+
+###### Artigo 11.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+A Secretária de Estado da Habitação, Marina Sola Gonçalves, em 29 de junho de 2021.
+
+## Anexo — Termo de responsabilidade e aceitação
+
+(a que se refere o artigo 3.º-A)
+
+..., com o número de identificação fiscal n.º ..., aqui representado por ... (nome completo), ao abrigo ..., na qualidade de beneficiário final da candidatura submetida no âmbito do aviso de publicitação n.º ... - Programa de Apoio ao Acesso à Habitação, Componente 02 - Habitação, do Plano de Recuperação e Resiliência (PRR), junto do IHRU, I. P., cujo formulário constitui o anexo i do presente termo de responsabilidade, de ora em diante designada por Candidatura, com o SIGA n.º ..., declara, sob compromisso de honra e para os devidos e legais efeitos, que:
+
+a) A Candidatura cumpre todos os requisitos, condições de acesso e de elegibilidade, bem como as condições técnicas exigidas ou exigíveis no âmbito do aviso de publicitação n.º ..., na sua redação atual;
+
+b) Tem conhecimento de que o valor da comparticipação financeira não reembolsável a financiar pelo IHRU, I. P., corresponderá, transitoriamente, até à conclusão da análise da candidatura, ao valor de investimento de ..., podendo vir a ser ajustado pelo IHRU, I. P., em conformidade com as regras do concurso, mediante simples troca de correspondência;
+
+c) Tem conhecimento de que o presente termo de aceitação substitui o contrato de comparticipação, para todos os efeitos legais, nomeadamente os previstos no artigo 70.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, no artigo 14.º da Portaria n.º 230/2018, de 17 de agosto, na sua redação atual, e no ponto 6 do aviso de publicitação n.º ... - Componente 02 - Habitação - Programa de Apoio ao Acesso à Habitação;
+
+d) A situação contributiva e tributária da entidade se encontra regularizada;
+
+e) Se compromete a dirimir e a esclarecer quaisquer questões relativas aos requisitos, condições de acesso e de elegibilidade da Candidatura que venham a ser colocadas pelo IHRU, I. P., no prazo de 10 dias úteis, sob pena de incumprimento e de recuperação dos montantes disponibilizados, nos termos previstos no Decreto-Lei n.º 29-B/2021, de 4 de maio, na sua redação atual, através de compensação com créditos já apurados ou da restituição de tais montantes;
+
+f) Tem conhecimento e se obriga a cumprir as normas legais e regulamentares, nacionais e europeias aplicáveis à Candidatura, nomeadamente, o Decreto-Lei n.º 37/2018, de 4 de junho, as Portarias n.º 230/2018, de 17 de agosto, e n.º 138-C/2021, de 30 de junho, nas suas redações atuais, o normativo europeu aplicável ao Plano de Recuperação e Resiliência, o Aviso n.º ..., as orientações técnicas da Estrutura de Missão Recuperar Portugal e as do IHRU, I. P., bem como se obriga, especialmente, a:
+
+i) Comunicar as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à aprovação do Projeto constante da Candidatura;
+
+ii) Aceitar, sem prejuízo de outros mecanismos de acompanhamento e controlo que venham a ser adotados, o acompanhamento e controlo, por parte das entidades nacionais e comunitárias competentes no âmbito do PRR, para verificação da boa execução e legalidade do Projeto constante da Candidatura e do cumprimento dos objetivos e das obrigações resultantes deste contrato;
+
+iii) Repor os montantes indevidamente recebidos;
+
+iv) Utilizar e tratar os dados pessoais relativos à informação a recolher apenas para os fins do presente termo, pela duração das auditorias de quitação e dos processos de controlo relacionados com a utilização dos fundos;
+
+v) Adotar as medidas adequadas no que respeita à prevenção, deteção e correção de fraudes, corrupção, conflito de interesses e duplo financiamento;
+
+vi) Cumprir os normativos em matéria de contratação pública relativamente à execução do projeto, disponibilizando ao IHRU, I. P., toda a documentação necessária ou por este solicitada para comprovar o respetivo cumprimento;
+
+g) Se responsabiliza pela execução da Candidatura até ..., incluindo a celebração dos contratos de arrendamento ou de subarrendamento com os agregados destinatários das habitações financiadas;
+
+h) Tem conhecimento de que o IHRU, I. P., tem o direito de suspender a disponibilização dos montantes da comparticipação, nomeadamente, nos seguintes casos:
+
+i) Não cumprimento pontual, pela entidade beneficiária, das obrigações legais constantes do Decreto-Lei n.º 37/2018, de 4 de junho, da Portaria n.º 230/2018, de 17 de agosto, da Portaria n.º 138-C/2021, de 30 de junho, nas suas redações atuais, do Aviso n.º ..., das OT aplicáveis ao Projeto e ao Programa, e contratuais decorrentes do presente contrato;
+
+ii) Alterações aos elementos determinantes da decisão de aprovação que ponham em causa o mérito da operação;
+
+iii) Não envio pela entidade beneficiária, no prazo determinado, de elementos solicitados, salvo se for aceite a justificação que venha, eventualmente, a ser apresentada;
+
+i) Tem conhecimento de que constitui fundamento suscetível de determinar a resolução e a devolução das quantias indevidamente recebidas, a verificação, entre outras, das seguintes situações:
+
+i) Investimento não executado ou concluído em violação das condições estabelecidas no presente contrato, no Aviso n.º ... e na legislação nacional e comunitária aplicável ao financiamento do Programa;
+
+ii) Não celebração dos contratos de arrendamento ou de subarrendamento com os agregados destinatários das habitações financiadas até ..., nos casos aplicáveis;
+
+iii) A imputação de despesas no Projeto não relacionadas com a execução da operação;
+
+iv) Ocorrência de situações de fraude, de corrupção ou duplo financiamento;
+
+j) Tem conhecimento de que se receber apoio financeiro por parte de outra entidade, contra o disposto no artigo 9.º do Regulamento (UE) 2021/241, do Parlamento Europeu e do Conselho, de 12 de fevereiro, conjugado com o artigo 21.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, deve restituir ao IHRU, I. P., a parte da comparticipação por este concedida de valor igual ao do outro apoio, sem prejuízo de, no caso da atuação da entidade beneficiária configurar a violação de outras normas legais e contratuais aplicáveis, ser exigível a totalidade da comparticipação concedida;
+
+k) Declara que todos os movimentos relativos ao financiamento devem ser efetuados através da conta bancária específica, aberta no Banco: ... ... IBAN ...
+
+(Assinatura)
+
+> Nota: [Artigo 3.º, Portaria n.º 158-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/158-a-2026-1085062657) As alterações introduzidas pela Portaria n.º 158-A/2026/1, de 14 de abril são aplicáveis às candidaturas submetidas ao abrigo dos Avisos n.º 01/C02-i01/2021 e n.º 29/C02-i01/2026, bem como às relações jurídicas já constituídas.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 158-A/2026/1 - Diário da República n.º 72/2026, Suplemento, Série I de 2026-04-14](https://diariodarepublica.pt/dr/detalhe/portaria/158-a-2026-1085062657), em vigor a partir de 2026-04-15.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 446/2025/1 - Diário da República n.º 241/2025, Série I de 2025-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/446-2025-986558788), em vigor a partir de 2025-12-17
+
+> Retificado pelo/a [Declaração de Retificação n.º 28/2024/1 - Diário da República n.º 135/2024, Série I de 2024-07-15](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/28-2024-871917723), produz efeitos a partir de 2024-06-08
+
+> Aditado pelo/a Anexo do/a [Portaria n.º 160-A/2024/1 - Diário da República n.º 110/2024, Suplemento, Série I de 2024-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/160-a-2024-868245270), em vigor a partir de 2024-06-08
+
+## Anexo I — (Formulário da Candidatura)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 446/2025/1 - Diário da República n.º 241/2025, Série I de 2025-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/446-2025-986558788), em vigor a partir de 2025-12-17
+
+> Aditado pelo/a Anexo I do/a [Portaria n.º 160-A/2024/1 - Diário da República n.º 110/2024, Suplemento, Série I de 2024-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/160-a-2024-868245270), em vigor a partir de 2024-06-08

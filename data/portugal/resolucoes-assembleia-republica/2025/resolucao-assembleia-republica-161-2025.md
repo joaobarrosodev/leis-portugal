@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:941547427:por
+title: Resolução da Assembleia da República n.º 161/2025
+short_title: null
+summary: Recomenda ao Governo a adoção de medidas reforçadas em matéria de proteção dos consumidores, combate ao jogo ilegal,
+  modernização da regulação e mais investimento no Interior.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 161/2025
+official_date: null
+publication_date: '2025-10-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 204/2025, Série I de 2025-10-22
+  number: '204'
+  series: I
+  supplement: null
+  pages: 18 - 18
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/10/20400/0001800018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/161/2025/10/22/p/dre/pt/html
+  oj: null
+  dre: '941547427'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/161-2025-941547427
+  internal: pt:dre:941547427:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/161-2025-941547427
+  metadata_url: https://data.dre.pt/eli/resolassrep/161/2025/10/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/161-2025-941547427
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:23:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0e4b6fc38b04013effb25cf0fbaad239a43fd858f8625f2f97a47d49892687ff
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:23:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo
+- Jogos de Fortuna e Azar
+- Jogos e Apostas Online
+- Proteção do Consumidor
+- Recomendação
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:23:40Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 161/2025
+
+Recomenda ao Governo a adoção de medidas reforçadas em matéria de proteção dos consumidores, combate ao jogo ilegal, modernização da regulação e mais investimento no Interior
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Dê continuidade ao processo de revisão legislativa em curso em matéria de jogo, nomeadamente o que respeita ao Regime Jurídico dos Jogos e Apostas Online, adequando o quadro regulatório aos novos fenómenos do mercado.
+
+2 - Reforce os mecanismos de autoexclusão através da:
+
+a) Unificação e simplificação dos mesmos, assegurando a integração e interoperabilidade entre plataformas, bem como a garantia de aplicação imediata em todo o ecossistema de jogo;
+
+b) Disponibilização de soluções tecnológicas de bloqueio voluntário, que permitam impedir o acesso a qualquer site ou aplicação de jogo.
+
+3 - Promova uma revisão do quadro regulatório da publicidade e de patrocínios, com especial proteção dos menores, jovens e públicos mais vulneráveis.
+
+4 - Reforce o combate ao jogo ilegal, avaliando formas de bloqueio célere de domínios, páginas de promoção e conteúdos em redes sociais, estabelecendo também medidas de limitação aos processadores de pagamento que operam com sites ilegais.
+
+5 - Garanta que as estruturas inspetivas, face à dimensão e progressiva mutação do fenómeno do jogo, se encontrem dotadas dos meios e competências necessárias à sua atuação, sobretudo na prevenção e combate ao jogo ilegal, branqueamento de capitais e financiamento do terrorismo.
+
+6 - Assegure que as receitas do jogo afetas ao turismo promovem uma diferenciação positiva do Interior, para um desenvolvimento mais equilibrado do turismo e do País.
+
+7 - Fortaleça os mecanismos de transparência através da criação de um portal da transparência do mercado do jogo, de acesso público, que disponibilize informação detalhada sobre as receitas e respetivas origens, critérios e mecanismos de afetação, e distribuição e aplicação de fundos provenientes do jogo.
+
+Aprovada em 26 de setembro de 2025.
+
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+
+119677018

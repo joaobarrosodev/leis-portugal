@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:533420:por
+title: Resolução do Conselho de Ministros n.º 4/2006
+short_title: null
+summary: Cria a Estrutura de Missão para a Presidência Portuguesa do Conselho da União Europeia, no 2.º semestre de 2007
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 4/2006
+official_date: null
+publication_date: '2006-01-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 11/2006, Série I-B de 2006-01-16
+  number: '11'
+  series: I
+  supplement: null
+  pages: 379 - 380
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/01/011b00/03790380.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/4/2006/01/16/p/dre/pt/html
+  oj: null
+  dre: '533420'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/4-2006-533420
+  internal: pt:dre:533420:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2006-533420
+  metadata_url: https://data.dre.pt/eli/resolconsmin/4/2006/01/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2006-533420
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:00:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2a31c89f8a11d8d607a525ac0a0537df0a8884ddc263d7faf206d071d48a2228
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:00:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Deslocação em Serviço
+- Encarregado de Missão
+- Equipa de Missão
+- Estrutura de Missão para a Presidência Portuguesa do Conselho da União Europeia
+- Ministério dos Negócios Estrangeiros
+- Ministro de Estado e dos Negócios Estrangeiros
+- Pessoal Diplomático
+- Pessoal Especializado
+- Pessoal Técnico
+- Presidência Portuguesa
+- Recursos Humanos
+- Representação Permanente de Portugal Junto das Comunidades Europeias
+- Secretaria Geral
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:541255:por
+  label: Alterado o n.º 5 pela RES.128/2006.21.09.2006.PCM, DR.IS [195] de 10.10.2006
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/128-2006-541255
+  date: '2006-09-21'
+- type: amended_by
+  target: pt:dre:386862:por
+  label: Alterados os nºs 3 e 5 (o último na redacção da Res 128/2006, de 10-Out, da PCM) pela RES.3/2008.08.01.2008.PCM,
+    DR.IS [5] de 08.01.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/3-2008-386862
+  date: '2008-01-08'
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:00:56Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 4/2006
+
+Considerando que Portugal irá exercer no 2.º semestre de 2007 a presidência do Conselho da União Europeia, cabe ao Ministério dos Negócios Estrangeiros, enquanto departamento do Estado responsável pela formulação e execução da política externa de Portugal, levar a cabo as tarefas de coordenação da presidência portuguesa do Conselho da União Europeia.
+
+Importa, assim, prever, desde já, a constituição de uma estrutura que permita preparar e, posteriormente, acompanhar, de um ponto de vista logístico e organizativo, a futura presidência portuguesa do Conselho da União Europeia.
+
+Cumpre assegurar que essa estrutura seja dotada de recursos humanos adequados às funções a desempenhar, tanto em número quanto em competência, tendo, no entanto, em atenção as características inerentes desta estrutura e ainda a incerteza que paira sobre as modalidades concretas de que se revestirão as futuras presidências da UE, que aconselham que mesma disponha da necessária flexibilidade estrutural e temporal.
+
+A diversidade, a natureza e a dimensão das acções a desenvolver assumem um carácter interdepartamental, dado que estão envolvidos diversos departamentos sectoriais e vários ministérios. Tendo em conta o objectivo comum a atingir, a estrutura a estabelecer deverá ser dinâmica e flexível, no quadro de uma adequada e permanente coordenação que incumbe ao secretário-geral do Ministério dos Negócios Estrangeiros.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição e do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, com as alterações introduzidas pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, o Conselho de Ministros resolve:
+
+1 - Criar na Secretaria-Geral do Ministério dos Negócios Estrangeiros, na dependência do Ministro de Estado e dos Negócios Estrangeiros, uma estrutura de missão designada por Estrutura de Missão para a Presidência Portuguesa do Conselho da União Europeia, doravante referida como Estrutura de Missão.
+
+2 - Determinar que a Estrutura de Missão visa a preparação e o exercício da presidência portuguesa do Conselho da União Europeia (UE), no 2.º semestre de 2007, garantindo os recursos humanos necessários, designadamente nas áreas diplomática, técnica e especializada, para coordenar e assegurar a referida presidência.
+
+3 - Determinar que o mandato da Estrutura de Missão tem início no dia 1 de Dezembro de 2005 e terminará em 1 de Fevereiro de 2008, competindo-lhe:
+
+a) Assegurar que os locais escolhidos para as reuniões a nível político e técnico que se realizem durante a presidência estejam dotados de condições adequadas ao fim em vista, no que respeita, nomeadamente, à dimensão e estrutura dos espaços, aos meios e redes de comunicação, ao mobiliário, ao material de trabalho e secretaria e outro equipamento administrativo, à segurança, à comunicação social e à restauração, garantindo o respectivo funcionamento;
+
+b) Organizar, coordenar e assegurar o alojamento e o transporte das delegações estrangeiras e da comunicação social, bem como o acompanhamento devido às diversas categorias de participantes;
+
+c) Conceber e centralizar o processo de acreditação das delegações e da comunicação social;
+
+d) Coordenar quaisquer outras acções inerentes à organização da presidência, no âmbito das suas funções;
+
+e) Assegurar a transmissão da informação relativa às actividades da presidência às instituições comunitárias, aos restantes Estados membros e aos Estados terceiros relevantes;
+
+f) Adquirir os bens e serviços necessários à realização dos eventos relacionados com a presidência.
+
+4 - Determinar que a Estrutura de Missão é coordenada por um encarregado, nomeado por despacho do Ministro de Estado e dos Negócios Estrangeiros e equiparado, para todos os efeitos legais, a subdirector-geral, salvo para efeitos de autorização de despesas, matéria em que é equiparado a director-geral.
+
+5 - Estipular que, na directa dependência do encarregado de missão, a Estrutura de Missão tem um núcleo permanente e duas unidades de apoio administrativo, sendo aquela constituída por três funcionários provenientes dos quadros da Administração Pública, responsáveis pelo desempenho das seguintes funções:
+
+a) Um adjunto do encarregado de missão, equiparado, para efeitos remuneratórios, a director de serviços;
+
+b) Dois coordenadores de projecto, equiparados, para efeitos remuneratórios, a chefe de divisão.
+
+6 - Determinar que os elementos da Estrutura de Missão são nomeados por despacho do Ministro de Estado e dos Negócios Estrangeiros, caso sejam funcionários ou agentes provenientes dos quadros do Ministério dos Negócios Estrangeiros, ou por despacho conjunto com o membro do Governo de que depende o serviço no qual se integram, caso provenham de outro serviço ou organismo do Estado.
+
+7 - Estipular que a Estrutura de Missão pode vir a ser ajustada, em termos de recursos humanos, à medida que se conhecerem as modalidades de que se revestirão as futuras presidências da União Europeia.
+
+8 - Determinar que o exercício de funções na Estrutura de Missão pode efectuar-se ao abrigo dos seguintes regimes:
+
+a) Comissão de serviço por tempo indeterminado, para os funcionários diplomáticos;
+
+b) Comissão de serviço, destacamento ou requisição, para os restantes casos de funcionários com vínculo à função pública, a institutos públicos, a empresas públicas ou a outros organismos do sector público;
+
+c) Requisição a entidades do sector privado;
+
+d) Contrato individual de trabalho a termo, em casos especiais, devidamente fundamentados;
+
+e) Contrato de prestação de serviços.
+
+9 - Estipular que os contratos referidos no número anterior não conferem ao particular outorgante a qualidade de agente ou funcionário público e caducam automática e necessariamente com a extinção da Estrutura de Missão.
+
+10 - Estipular que o pessoal afecto à Estrutura de Missão está sujeito aos deveres gerais que impendem sobre os funcionários e agentes da Administração Pública e exerce funções com isenção de horário de trabalho, não lhe sendo por isso devida qualquer remuneração ou compensação por trabalho prestado fora do horário normal.
+
+11 - Determinar que a afectação do pessoal do quadro I do Ministério dos Negócios Estrangeiros à Estrutura de Missão é efectuada por despacho do Ministro de Estado e dos Negócios Estrangeiros, sob proposta do secretário-geral.
+
+12 - Determinar que os membros da Estrutura de Missão que sejam contratados a termo vencem uma remuneração base mensal fixada por referência às escalas salariais das carreiras e categorias correspondentes às funções que vão desempenhar, definindo-se contratualmente os escalões e índices em que se integrarão.
+
+13 - Estipular que, por despacho do Ministro de Estado e dos Negócios Estrangeiros, e desde que a situação de colocação ou permanência no estrangeiro assim o justifique, o pessoal a integrar na Representação Permanente de Portugal junto da União Europeia ou noutras representações diplomáticas de Portugal no estrangeiro pode auferir dos direitos previstos no artigo 61.º e nos n.os 1 e 2 do artigo 67.º do [Decreto-Lei n.º 40-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1998-399178), de 27 de Fevereiro.
+
+14 - Estipular que o pessoal integrado na Estrutura de Missão, sempre que se desloque em missão de serviço público, tem direito a ajudas de custo e a abono para despesas de transporte, nos termos da lei geral.
+
+15 - Determinar que são inscritos em divisão própria do orçametno do Ministério dos Negócios Estrangeiros e isentos de formalidades legais os encargos orçamentais decorrentes da criação e funcionamento da presente Estrutura de Missão.
+
+16 - Para o efeito, é o orçamento do Ministério dos Negócios Estrangeiros para 2006 reforçado, no montante de (euro) 1739000, em conta da dotação provisional do Ministério das Finanças e da Administração Pública.
+
+17 - Determinar que a presente resolução produz efeitos a partir de 1 de Dezembro de 2005.
+
+Presidência do Conselho de Ministros, 29 de Dezembro de 2005. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

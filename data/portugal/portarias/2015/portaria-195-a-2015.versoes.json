@@ -1,0 +1,328 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67644324:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-70902295",
+ "dre_path": "/dr/detalhe/portaria/195-a-2015-67644324",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-06-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70902235",
+    "70902236",
+    "70902237",
+    "70902238",
+    "70902239",
+    "70902240",
+    "70902241",
+    "70902242",
+    "70902243",
+    "70902244",
+    "70902245",
+    "70902246",
+    "70902247",
+    "70902248",
+    "70902249",
+    "70902250",
+    "70902251",
+    "70902252",
+    "70902253",
+    "70902254",
+    "70902255",
+    "70902256"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:70139934:por",
+     "title": "Declaração de Retificação n.º 37-A/2015",
+     "published": "2015-08-28",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/37-a-2015-70139934",
+     "date": "2015-07-01"
+    }
+   ]
+  },
+  {
+   "date": "2017-09-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108132046:por",
+     "title": "Portaria n.º 270/2017",
+     "published": "2017-09-12",
+     "dre_path": "/dr/detalhe/portaria/270-2017-108132046"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "70902235",
+    "70902236",
+    "70902237",
+    "70902238",
+    "70902239",
+    "70902240",
+    "70902241",
+    "108124940",
+    "70902243",
+    "70902244",
+    "108124941",
+    "108124942",
+    "70902265",
+    "70902248",
+    "70902249",
+    "70902250",
+    "70902251",
+    "70902252",
+    "70902253",
+    "108124943",
+    "70902255",
+    "70902256",
+    "70902257"
+   ]
+  }
+ ],
+ "fragments": {
+  "70902235": {
+   "fragment_id": "70902296",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 195-A/2015\n\nde 30 de junho\n\nO Decreto-Lei n.º 97/2015, de 1 de junho, criou o Sistema Nacional de Avaliação de Tecnologias da saúde e estabeleceu um novo enquadramento jurídico para a comparticipação e avaliação prévia de medicamentos.\n\nDe acordo com o referido diploma, o procedimento administrativo que conduz à comparticipação e à avaliação prévia é regulado por portaria. Verifica-se uma identidade na tramitação quanto aos requerimentos de comparticipação e de avaliação prévia que justifica que se estabeleça apenas um procedimento comum para ambos os casos com as inerentes vantagens do ponto de vista da uniformidade da atividade administrativa e de não dispersão normativa.\n\nO presente regulamento estabelece uma tramitação ajustada à prática administrativa em matéria de comparticipação e avaliação prévia, com o objetivo de simplificação mas simultaneamente de obtenção de certeza jurídica. Para o efeito estabelecem-se os prazos dos diferentes atos procedimentais, as consequências para o não cumprimento do ónus de instrução e bem assim a intervenção de outras entidades.\n\nAo abrigo da alínea b) do n.º 4 do artigo 5.º do Decreto-Lei n.º 97/2015, de 1 de junho, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "70902236": {
+   "fragment_id": "70902297",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria aprova o procedimento comum de comparticipação e de avaliação prévia de medicamentos."
+  },
+  "70902237": {
+   "fragment_id": "70902298",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência instrutória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência instrutória\n\nÉ da competência do INFARMED, I.P., a instrução do procedimento de comparticipação, de avaliação prévia e de reavaliação de medicamentos."
+  },
+  "70902238": {
+   "fragment_id": "70902299",
+   "type": 11,
+   "heading": "Artigo 3.º — Legitimidade procedimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Legitimidade procedimental\n\n1 - O titular da autorização de introdução no mercado válida de um medicamento pode requerer a comparticipação do medicamento para o qual exista um preço máximo de venda ao público ou para o qual, em simultâneo, seja requerida a fixação de um preço máximo de venda ao público.\n\n2 - O titular da autorização de introdução no mercado válida de um medicamento pode igualmente requerer a avaliação prévia para efeitos de aquisição pelas instituições e serviços sob tutela do membro do Governo responsável pela área da saúde.\n\n3 - O disposto no presente artigo pode, por razões de saúde pública, de melhoria da acessibilidade ou vantagem económica para o Serviço Nacional de Saúde e para o cidadão, ser ainda aplicável ao titular de autorização de comercialização de medicamentos sem autorização ou registo válidos em Portugal ou ao titular de autorização de importação paralela, nos termos do Decreto-Lei n.º 176/2006, de 30 de agosto, na sua redação atual."
+  },
+  "70902239": {
+   "fragment_id": "70902300",
+   "type": 11,
+   "heading": "Artigo 4.º — Instrução do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Instrução do pedido\n\n1 - O requerimento deve ser instruído com as indicações terapêuticas e outros elementos considerados úteis à apreciação do processo, nomeadamente informação de natureza técnico-científica sobre o medicamento que evidencie a sua eficácia, segurança e efetividade para as indicações terapêuticas reclamadas e ainda informação sobre a patologia a que se destina o medicamento.\n\n2 - O requerimento pode ainda ser acompanhado de um estudo de avaliação económica.\n\n3 - As comunicações do presente procedimento devem ser feitas por meios eletrónicos.\n\n4 - O INFARMED, I.P., pode estabelecer recomendações ou modelos de documentos para efeitos de submissão dos pedidos pelos requerentes."
+  },
+  "70902240": {
+   "fragment_id": "70902301",
+   "type": 11,
+   "heading": "Artigo 5.º — Aperfeiçoamento e indeferimento liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aperfeiçoamento e indeferimento liminar\n\n1 - O INFARMED, I.P., deve, no prazo de 20 dias úteis, apreciar a regularidade do requerimento e/ou solicitar elementos ou esclarecimentos adicionais.\n\n2 - O requerente deve entregar ou prestar os elementos adicionais no prazo de 10 dias úteis a contar da data notificação.\n\n3 - O pedido é liminarmente indeferido quando:\n\na) Não tenham sido prestados os esclarecimentos ou apresentados os elementos adicionais no prazo referido no número anterior;\n\nb) O requerimento não seja aperfeiçoado após notificação do INFARMED, I.P., para o efeito;\n\nc) Não tenham sido utilizados os modelos de documentos indicados pelo INFARMED, I.P.\n\n4 - O requerente deve ser notificado da decisão de indeferimento liminar e dos respetivos fundamentos."
+  },
+  "70902241": {
+   "fragment_id": "70902302",
+   "type": 11,
+   "heading": "Artigo 6.º — Instrução complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Instrução complementar\n\n1 - No decurso da instrução do procedimento, o INFARMED, I.P., pode ainda solicitar ao requerente os elementos e esclarecimentos necessários à decisão do pedido, incluindo a apresentação de um estudo de avaliação económica, elaborado de acordo com as orientações metodológicas aplicáveis, fixando um prazo máximo de 180 dias úteis para a sua apresentação de acordo com a complexidade dos elementos solicitados.\n\n2 - O não cumprimento pelo requerente da solicitação prevista nos termos do número anterior no prazo fixado é fundamento de extinção do procedimento."
+  },
+  "70902242": {
+   "fragment_id": "70902303",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Avaliação\n\n1 - Na avaliação dos medicamentos para efeitos de comparticipação e de avaliação prévia só há lugar à avaliação económica se a avaliação farmacoterapêutica não for desfavorável.\n\n2 - A avaliação farmacoterapêutica é objeto de deliberação da Comissão de Avaliação de Tecnologias de Saúde (CATS) no caso de se tratar de medicamento cuja denominação comum internacional ou indicação terapêutica ainda não esteja comparticipada ou sem autorização de utilização nas instituições e serviços tutelados pelo membro do Governo responsável pela área da saúde.\n\n3 - O parecer para efeitos de avaliação económica é objeto de deliberação pela CATS quando o requerente apresente estudo de avaliação fármaco-económica.\n\n4 - Fora dos casos previstos nos n.os 2 e 3, compete aos serviços competentes do INFARMED, I.P., a responsabilidade pela emissão dos pareceres de avaliação dos medicamentos para efeitos de comparticipação e de avaliação prévia, podendo a mesma ser submetida à CATS, sempre que necessário e mediante solicitação.\n\n5 - No caso de medicamentos com denominação comum internacional, ou cuja indicação terapêutica, ainda não esteja comparticipada ou sem autorização de utilização nas instituições e serviços tutelados pelo membro do Governo responsável pela área da saúde, ou sempre que considerado necessário, o parecer de avaliação farmacoterapêutica favorável, deve ser enviado à Comissão Nacional de Farmácia e Terapêutica (CNFT) para que esta se pronuncie sobre a inclusão ou não do medicamento no Formulário Nacional de Medicamentos (FNM).\n\n6 - A CNFT deve emitir parecer devidamente fundamentado quanto à inclusão ou não do medicamento no FNM no prazo de 30 dias úteis, condicionado à avaliação económica posterior favorável, devendo o mesmo ser ponderado no projeto de decisão.\n\n7 - Os pareceres de avaliação económica devem ser enviados à CNFT para conhecimento.\n\n8 - Os pareceres de avaliação farmacoterapêutica e económica favoráveis são enviados aos requerentes para conhecimento, podendo ser solicitados esclarecimentos ou apresentadas objeções no prazo máximo de 10 dias úteis."
+  },
+  "70902243": {
+   "fragment_id": "70902304",
+   "type": 11,
+   "heading": "Artigo 8.º — Projeto de decisão e audiência prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Projeto de decisão e audiência prévia\n\n1 - O projeto de decisão sobre o requerimento apresentado pode revestir as seguintes modalidades:\n\na) Indeferimento do pedido por não se verificarem os pressupostos legais para o efeito ou se verifique a insuficiência de elementos e/ou esclarecimentos solicitados;\n\nb) Deferimento do pedido;\n\nc) Proposta de celebração de contrato.\n\n2 - O projeto de decisão deve propor o prazo para se proceder à reavaliação da autorização concedida ou de duração do contrato, se considerado adequado.\n\n3 - O projeto de decisão elaborado pelo INFARMED, I.P., é objeto de audiência prévia, salvo situações de dispensa nos termos gerais.\n\n4 - O requerente pode propor a celebração de contrato ou de condições contratuais em sede de audiência prévia.\n\n5 - Após a audiência prévia, o INFARMED, I.P., elabora o projeto de decisão definitiva e submete-o ao órgão com competência decisória."
+  },
+  "70902244": {
+   "fragment_id": "70902305",
+   "type": 11,
+   "heading": "Artigo 9.º — Negociação do contrato de comparticipação e de avaliação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Negociação do contrato de comparticipação e de avaliação prévia\n\n1 - Nos casos em que o INFARMED, I.P., proponha a celebração de um contrato ou o requerente o faça em sede audiência prévia, as negociações devem decorrer no prazo de 30 dias úteis.\n\n2 - A duração da negociação suspende o prazo de decisão.\n\n3 - Findo o prazo a que se refere o n.º 1, o INFARMED, I.P., deve propor ao órgão com competência decisória a celebração do contrato ou decisão de não celebração do mesmo."
+  },
+  "70902245": {
+   "fragment_id": "70902306",
+   "type": 11,
+   "heading": "Artigo 10.º — Decisão de comparticipação e avaliação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Decisão de comparticipação e avaliação prévia\n\n1 - O órgão com competência decisória pode concordar com a proposta ou fundamentadamente indeferir o pedido ou solicitar a reapreciação.\n\n2 - No caso de não concordância com a proposta do órgão instrutor há lugar a audiência prévia nos termos gerais."
+  },
+  "70902246": {
+   "fragment_id": "70902307",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prazo de decisão\n\n1 - A decisão de comparticipação e de avaliação prévia deve ser proferida no prazo de:\n\na) 30 dias para a comparticipação de medicamentos genéricos;\n\nb) 75 dias para a comparticipação de medicamentos não genéricos e para avaliação prévia de medicamentos.\n\n2 - O prazo suspende-se nos casos em que o requerente seja notificado para apresentar os elementos e esclarecimentos previstos nos artigos 5.º, 6º e 9.º\n\n3 - O prazo de decisão final suspende-se durante o período referido nos n.os 6 e 7 do artigo 7.º"
+  },
+  "70902247": {
+   "fragment_id": "70902308",
+   "type": 11,
+   "heading": "Artigo 12.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Notificação\n\n1 - A decisão sobre o pedido no âmbito deste procedimento é feita por via eletrónica.\n\n2 - No caso de haver lugar à celebração de um contrato de comparticipação ou de avaliação prévia, a notificação da decisão é acompanhada do contrato assinado pelo órgão competente do INFARMED, I.P.\n\n3 - A decisão de indeferimento do pedido é notificada ao requerente com todos os elementos que serviram de base à decisão e contém a indicação sobre os meios de reação contenciosa do ato e respetivos prazos.\n\n4 - Em caso de indeferimento, o pedido só poderá voltar a ser submetido ao INFARMED, I.P., após o prazo de 6 meses, exceto quando os motivos de indeferimento tenham sido não demonstração de vantagem económica e/ou comportabilidade financeira, e o titular de AIM pretenda apresentar nova proposta de preço ou condições contratuais."
+  },
+  "70902248": {
+   "fragment_id": "70902309",
+   "type": 11,
+   "heading": "Artigo 13.º — Publicitação da comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Publicitação da comparticipação\n\n1 - Após as comunicações de início, suspensão ou cessação da comercialização do medicamento comparticipado feita pelo requerente nos termos legais, o medicamento é incluído nas listas e ficheiros de medicamentos comparticipados, ou deles excluído.\n\n2 - Sem prejuízo do disposto no número anterior, a aplicação do PVP máximo resultante do procedimento de comparticipação, produz imediatamente efeitos após a decisão de comparticipação.\n\n3 - A lista dos medicamentos comparticipados pelo SNS é atualizada periodicamente pelo INFARMED, I.P., e divulgada pelos meios considerados mais adequados, nomeadamente através da página eletrónica desta entidade.\n\n4 - O INFARMED, I.P., pode estabelecer recomendações ou modelos de documentos para efeitos de comunicação e publicitação das decisões.\n\n5 - Os ficheiros de medicamentos, devidamente atualizados, são disponibilizados pelo INFARMED, I. P., às entidades competentes.\n\n6 - Das listas e ficheiros referidos nos números anteriores devem constar o nome do medicamento, a denominação comum internacional da substância ativa, a dosagem, a forma farmacêutica, a apresentação, o preço, o escalão e o valor da comparticipação, bem como as informações relativas a quaisquer condições especiais dessa comparticipação.\n\n7 - A inclusão ou exclusão das listas resultante da comunicação a que se refere o n.º 1 produz efeitos nos termos legais definidos."
+  },
+  "70902249": {
+   "fragment_id": "70902310",
+   "type": 11,
+   "heading": "Artigo 14.º — Publicitação da avaliação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Publicitação da avaliação prévia\n\n1 - A decisão é comunicada ao requerente, às comissões de farmácia e terapêutica dos hospitais, sendo igualmente publicada na página eletrónica do INFARMED, I.P.\n\n2 - O INFARMED, I.P., pode estabelecer recomendações ou modelos de documentos para efeitos de comunicação e publicitação das decisões.\n\n3 - Em caso de decisão de indeferimento, a comunicação referida no n.º 1 do presente artigo é realizada também a todas as Administrações Regionais da Saúde."
+  },
+  "70902250": {
+   "fragment_id": "70902311",
+   "type": 11,
+   "heading": "Artigo 15.º — Pedido de exclusão de medicamento da comparticipação a pedido do titular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pedido de exclusão de medicamento da comparticipação a pedido do titular\n\nO disposto na presente portaria é aplicável aos pedidos de exclusão do medicamento da comparticipação, com as devidas adaptações."
+  },
+  "70902251": {
+   "fragment_id": "70902312",
+   "type": 11,
+   "heading": "Artigo 16.º — Procedimento simplificado de comparticipação e avaliação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimento simplificado de comparticipação e avaliação prévia\n\n1 - A comparticipação de um medicamento com autorização de introdução no mercado relativo a um número de registo pode ser transferida para outro número de registo do mesmo medicamento, mediante deliberação do Conselho Diretivo do INFARMED, I.P., desde que se mantenham as seguintes características:\n\na) Nome comercial\n\nb) Classificação farmacoterapêutica/classificação ATC (Anatomical Therapeutic Chemical) da Organização Mundial de Saúde;\n\nc) Composição qualitativa da substância ativa;\n\nd) Dosagem;\n\ne) Dimensão de embalagem;\n\nf) Forma farmacêutica;\n\ng) Condições de conservação e prazos de validade após abertura ou reconstituição;\n\nh) Indicações terapêuticas aprovadas;\n\ni) Classificação quanto à dispensa;\n\nj) Titular da AIM;\n\nk) Prova de divisibilidade e uniformidade de massa e teor da substância ativa das metades (caso aplicável);\n\nl) PVP máximo igual ou inferior, sem prejuízo do disposto no n.º 5.\n\n2 - A comparticipação é feita mediante requerimento do titular da AIM e o deferimento depende apenas da verificação dos requisitos do n.º 1.\n\n3 - A comparticipação nos termos do presente artigo determina a exclusão da comparticipação relativamente ao número de registo anterior, na data da efetiva comercialização notificada nos termos do artigo 17.º do Decreto-Lei n.º 97/2015, de 1 de junho.\n\n4 - As alterações aos termos da AIM devem ser prévias ao pedido de comparticipação nos termos do presente artigo para que permitam o cumprimento das condições previstas no n.º 1.\n\n5 - O PVP aprovado para o número de registo anterior pode ser aplicado ao novo número de registo para o qual se requer a comparticipação.\n\n6 - Para efeitos de aplicação da caducidade da comparticipação por não comercialização é considerada a data de notificação de autorização de comparticipação inicial.\n\n7 - O disposto no presente artigo é aplicável com as necessárias adaptações ao procedimento de avaliação prévia."
+  },
+  "70902252": {
+   "fragment_id": "70902313",
+   "type": 11,
+   "heading": "Artigo 17.º — Dispensa de avaliação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Dispensa de avaliação prévia\n\n1 - Estão dispensados de avaliação prévia:\n\na) Medicamentos sujeitos a receita médica comparticipados;\n\nb) Medicamentos sujeitos a receita médica restrita previstos na alínea b) ou c) do artigo 118.º do Decreto-Lei n.º 176/2006, de 30 de agosto, comparticipados.\n\n2 - Mediante decisão do membro do Governo responsável pela área da saúde, com faculdade de delegação no Conselho Diretivo do INFARMED, I.P., podem ser sujeitos a avaliação prévia medicamentos abrangidos no número anterior contendo determinada denominação comum internacional."
+  },
+  "70902253": {
+   "fragment_id": "70902314",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nReavaliação no âmbito do contrato de comparticipação ou de avaliação prévia ou no ato de comparticipação\n\n1 - No prazo fixado no contrato de comparticipação ou de avaliação prévia ou no ato de comparticipação, os medicamentos podem ser sujeitos a reavaliação farmacoterapêutica e/ou económica.\n\n2 - Só há lugar a reavaliação se existirem informações relevantes que determinem a mesma.\n\n3 - Sempre que se inicie um processo de reavaliação, o titular da autorização de introdução no mercado é notificado para apresentar os elementos necessários para a reavaliação.\n\n4 - A não apresentação dos elementos necessários para a reavaliação determina a caducidade da autorização de comparticipação ou do contrato de comparticipação ou de avaliação prévia no prazo fixado na notificação ou a alteração de forma administrativa e imediata das condições de utilização ou de aquisição.\n\n5 - Após submissão dos elementos necessários à reavaliação pelo requerente segue-se a tramitação prevista nos artigos 6.º a 12.º\n\n6 - A decisão de reavaliação no caso de comparticipação pode ser, designadamente, excluir o medicamento da comparticipação ou mantê-la com novo prazo para reavaliação ou a celebração, modificação e/ou cessação de contrato.\n\n7 - A reavaliação pode levar à modificação ou cessação do contrato de avaliação prévia."
+  },
+  "70902254": {
+   "fragment_id": "70902315",
+   "type": 11,
+   "heading": "Artigo 19.º — Avaliação ou reavaliação oficiosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Avaliação ou reavaliação oficiosa\n\n1 - O plano anual de atividades do SINATS determina as patologias e/ou indicações terapêuticas que são objeto de avaliação ou reavaliação oficiosa do INFARMED, I.P., nos termos do n.º 3 do artigo 5.º do Decreto-Lei n.º 97/2015, de 1 de junho.\n\n2 - A avaliação ou reavaliação oficiosa requer aprovação de protocolo pela CATS o qual define:\n\na) Âmbito e objeto da avaliação ou reavaliação;\n\nb) Medicamentos alvo de avaliação/reavaliação;\n\nc) Informação/documentação a enviar pelos titulares de AIM;\n\nd) Critérios de análise.\n\n3 - O disposto nos n.os 3 a 7 do artigo anterior é aplicável à avaliação ou reavaliação oficiosa, com as devidas adaptações."
+  },
+  "70902255": {
+   "fragment_id": "70902316",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma transitória\n\nOs medicamentos sujeitos a receita médica não comparticipados, que se encontrem comercializados e com vendas efetivas no mercado hospitalar antes da entrada em vigor do Decreto-Lei n.º 97/2015, de 1 de junho, podem continuar a ser adquiridos pelas entidades tuteladas pelo membro do Governo responsável pela área da Saúde, até que seja feita a respetiva avaliação prévia a requerimento do titular de AIM ou por iniciativa do INFARMED, I.P."
+  },
+  "70902256": {
+   "fragment_id": "70902317",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nA presente portaria entre em vigor no dia 1 de julho de 2015."
+  },
+  "108124940": {
+   "fragment_id": "70902303",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação",
+   "in_force_from": "2017-09-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2017 - Diário da República n.º 176/2017, Série I de 2017-09-12](https://diariodarepublica.pt/dr/detalhe/portaria/270-2017-108132046), em vigor a partir de 2017-09-13"
+   ],
+   "markdown": "###### Artigo 7.º — Avaliação\n\n1 - Na avaliação dos medicamentos para efeitos de comparticipação e de avaliação prévia só há lugar à avaliação económica se a avaliação farmacoterapêutica não for desfavorável.\n\n2 - A avaliação farmacoterapêutica é objeto de parecer da Comissão de Avaliação de Tecnologias de Saúde (CATS) no caso de se tratar de medicamento cuja denominação comum internacional ou indicação terapêutica ainda não esteja comparticipada ou sem autorização de utilização nas instituições e serviços tutelados pelo membro do Governo responsável pela área da saúde.\n\n3 - O parecer para efeitos de avaliação económica é objeto de parecer pela CATS quando o requerente apresente estudo de avaliação fármaco-económica.\n\n4 - Fora dos casos previstos nos n.os 2 e 3, compete aos serviços competentes do INFARMED, I.P., a responsabilidade pela emissão dos pareceres de avaliação dos medicamentos para efeitos de comparticipação e de avaliação prévia, podendo a mesma ser submetida à CATS, sempre que necessário e mediante solicitação.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - Os pareceres de avaliação farmacoterapêutica e económica devem ser enviados à Comissão Nacional de Farmácia e Terapêutica (CNFT) para conhecimento.\n\n8 - Os pareceres de avaliação farmacoterapêutica e económica favoráveis são enviados aos requerentes para conhecimento, podendo ser solicitados esclarecimentos ou apresentadas objeções no prazo máximo de 10 dias úteis.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2017 - Diário da República n.º 176/2017, Série I de 2017-09-12](https://diariodarepublica.pt/dr/detalhe/portaria/270-2017-108132046), em vigor a partir de 2017-09-13"
+  },
+  "108124941": {
+   "fragment_id": "70902306",
+   "type": 11,
+   "heading": "Artigo 10.º — Decisão de comparticipação e avaliação prévia",
+   "in_force_from": "2017-09-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2017 - Diário da República n.º 176/2017, Série I de 2017-09-12](https://diariodarepublica.pt/dr/detalhe/portaria/270-2017-108132046), em vigor a partir de 2017-09-13"
+   ],
+   "markdown": "###### Artigo 10.º — Decisão de comparticipação e avaliação prévia\n\n1 - O órgão com competência decisória pode concordar com a proposta ou fundamentadamente indeferir o pedido ou solicitar a reapreciação.\n\n2 - No caso de não concordância com a proposta do órgão instrutor há lugar a audiência prévia nos termos gerais.\n\n3 - Da decisão é dado conhecimento à CNFT.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2017 - Diário da República n.º 176/2017, Série I de 2017-09-12](https://diariodarepublica.pt/dr/detalhe/portaria/270-2017-108132046), em vigor a partir de 2017-09-13"
+  },
+  "108124942": {
+   "fragment_id": "70902307",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazo de decisão",
+   "in_force_from": "2017-09-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2017 - Diário da República n.º 176/2017, Série I de 2017-09-12](https://diariodarepublica.pt/dr/detalhe/portaria/270-2017-108132046), em vigor a partir de 2017-09-13",
+    "Rectificado pelo/a [Declaração de Retificação n.º 37-A/2015 - Diário da República n.º 168/2015, 2º Suplemento, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-a-2015-70139934), em vigor a partir de 2015-07-01"
+   ],
+   "markdown": "###### Artigo 11.º — Prazo de decisão\n\n1 - A decisão de comparticipação e de avaliação prévia é de:\n\na) 30 dias de calendário para os medicamentos genéricos e medicamentos biológicos similares;\n\nb) 75 dias de calendário para os medicamentos não genéricos cuja denominação comum internacional ou indicação terapêutica já se encontre comparticipada ou com autorização de utilização nas instituições e serviços tutelados pelo membro do Governo responsável pela área da saúde mediante avaliação prévia;\n\nc) 180 dias de calendário para os medicamentos cuja denominação comum internacional ou indicação terapêutica ainda não esteja comparticipada ou sem autorização de utilização nas instituições e serviços tutelados pelo membro do Governo responsável pela área da saúde, mediante avaliação prévia.\n\n2 - O prazo suspende-se nos casos em que o requerente seja notificado para apresentar os elementos e esclarecimentos previstos nos artigos 5.º, 6º e 9.º\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2017 - Diário da República n.º 176/2017, Série I de 2017-09-12](https://diariodarepublica.pt/dr/detalhe/portaria/270-2017-108132046), em vigor a partir de 2017-09-13\n\n> Rectificado pelo/a [Declaração de Retificação n.º 37-A/2015 - Diário da República n.º 168/2015, 2º Suplemento, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-a-2015-70139934), em vigor a partir de 2015-07-01"
+  },
+  "70902265": {
+   "fragment_id": "70902308",
+   "type": 11,
+   "heading": "Artigo 12.º — Notificação",
+   "in_force_from": "2015-07-01",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Retificação n.º 37-A/2015 - Diário da República n.º 168/2015, 2º Suplemento, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-a-2015-70139934), em vigor a partir de 2015-07-01"
+   ],
+   "markdown": "###### Artigo 12.º — Notificação\n\n1 - A notificação da decisão sobre o pedido no âmbito deste procedimento é feita por via eletrónica.\n\n2 - No caso de haver lugar à celebração de um contrato de comparticipação ou de avaliação prévia, a notificação da decisão é acompanhada do contrato assinado pelo órgão competente do INFARMED, I.P.\n\n3 - A decisão de indeferimento do pedido é notificada ao requerente com todos os elementos que serviram de base à decisão e contém a indicação sobre os meios de reação contenciosa do ato e respetivos prazos.\n\n4 - Em caso de indeferimento, o pedido só poderá voltar a ser submetido ao INFARMED, I.P., após o prazo de 6 meses, exceto quando os motivos de indeferimento tenham sido não demonstração de vantagem económica e/ou comportabilidade financeira, e o titular de AIM pretenda apresentar nova proposta de preço ou condições contratuais.\n\n> Rectificado pelo/a [Declaração de Retificação n.º 37-A/2015 - Diário da República n.º 168/2015, 2º Suplemento, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-a-2015-70139934), em vigor a partir de 2015-07-01"
+  },
+  "108124943": {
+   "fragment_id": "70902315",
+   "type": 11,
+   "heading": "Artigo 19.º — Avaliação ou reavaliação oficiosa",
+   "in_force_from": "2017-09-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2017 - Diário da República n.º 176/2017, Série I de 2017-09-12](https://diariodarepublica.pt/dr/detalhe/portaria/270-2017-108132046), em vigor a partir de 2017-09-13"
+   ],
+   "markdown": "###### Artigo 19.º — Avaliação ou reavaliação oficiosa\n\n1 - A avaliação ou a reavaliação oficiosa é realizada nos termos previstos nos n.os 4 e 5 do artigo 5.º do Decreto-Lei n.º 97/2015, de 1 de junho, alterado pelo Decreto-Lei n.º 115/2017, de 7 de setembro, de acordo com protocolo elaborado pela CATS e aprovado pelo Conselho Diretivo do INFARMED, I. P.\n\n2 - O protocolo referido no número anterior deverá conter, designadamente:\n\na) Âmbito e objeto da avaliação ou reavaliação;\n\nb) Medicamentos alvo de avaliação/reavaliação;\n\nc) Informação e ou documentação a enviar pelos titulares de AIM;\n\nd) Critérios de análise.\n\n3 - O disposto nos n.os 3 a 7 do artigo anterior é aplicável à avaliação ou reavaliação oficiosa, com as devidas adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2017 - Diário da República n.º 176/2017, Série I de 2017-09-12](https://diariodarepublica.pt/dr/detalhe/portaria/270-2017-108132046), em vigor a partir de 2017-09-13"
+  },
+  "70902257": {
+   "fragment_id": "70902318",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 29 de junho de 2015."
+  }
+ }
+}

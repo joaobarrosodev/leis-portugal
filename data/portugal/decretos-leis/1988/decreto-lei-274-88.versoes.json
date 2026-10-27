@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:378092:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-885806212",
+ "dre_path": "/dr/detalhe/decreto-lei/274-1988-378092",
+ "source_lastmod": "2024-08-27",
+ "versions": [
+  {
+   "date": "1988-08-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885780660",
+    "885780661",
+    "885780662",
+    "885780663",
+    "885780664",
+    "885780665",
+    "885780666"
+   ]
+  }
+ ],
+ "fragments": {
+  "885780660": {
+   "fragment_id": "885806213",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 274/88\n\nde 3 de Agosto\n\nTerminando em 31 de Dezembro do ano em curso os prazos das actuais concessões das zonas de jogo de Espinho e da Póvoa de Varzim, o Conselho de Ministros, por resolução tomada em reunião de 17 de Dezembro último, deliberou que a adjudicação das próximas concessões daquelas zonas de jogo se faça mediante concurso público, em condições a estabelecer.\n\nNeste sentido, o presente diploma estabelece, para além do estatuído no Decreto-Lei n.º 48912, de 18 de Março de 1969, aplicável à generalidade dos concursos para adjudicação das zonas de jogo, alguns requisitos especiais, que terão de ser satisfeitos pelos candidatos aos concursos em causa.\n\nPara além das preocupações respeitantes aos montantes do capital social das futuras empresas concessionárias, à sua titularidade e ao controle da transferência da respectiva propriedade, tomam-se ainda algumas medidas com vista a evitar o controle de mais de uma concessionária de zona de jogo por parte de um mesmo indivíduo ou empresa.\n\nMediante decreto regulamentar, nos termos do artigo 15.º do citado Decreto-Lei n.º 48912, serão fixadas as obrigações mínimas a que devem sujeitar-se as futuras empresas concessionárias e os períodos de duração das concessões, bem como o processo atinente aos concursos públicos a realizar.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "885780661": {
+   "fragment_id": "885806214",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - As novas concessões para exploração de jogos de fortuna ou azar das zonas de Espinho ou da Póvoa de Varzim terão início em 1 de Janeiro de 1989 e serão adjudicadas mediante concurso público.\n\n2 - As concessões referidas no número anterior ficarão sujeitas às normas constantes do Decreto-Lei n.º 48912, de 18 de Março de 1969, sem prejuízo do disposto no presente diploma.\n\n3 - Aos concursos só podem ser admitidas entidades que se comprometam a dar satisfação aos requisitos constantes dos n.os 2 e 4 do artigo 2.º e do artigo 5.º do presente diploma."
+  },
+  "885780662": {
+   "fragment_id": "885806215",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - O capital social das empresas concessionárias a quem forem adjudicadas as concessões deve estar integralmente realizado no momento da assinatura do contrato de concessão e não poderá ser inferior a 2000000 de contos quanto à zona de jogo de Espinho e a 1500000 contos quanto à zona de jogo da Póvoa de Varzim.\n\n2 - Pelo menos 60% do capital social das empresas concessionárias serão representados por acções nominativas ou ao portador registadas, sendo obrigatória a comunicação à Inspecção-Geral de Jogos de todas as transferências entre vivos da respectiva propriedade.\n\n3 - Os novos proprietários devem comunicar a transmissão no prazo de 30 dias sobre a efectuação da mesma, sob pena de não poderem exercer quaisquer dos seus direitos sociais.\n\n4 - Sem prejuízo do disposto em normas constantes de convenções internacionais, pelo menos 60% do capital social das empresas concessionárias deverão pertencer a portugueses ou a pessoas colectivas portuguesas em que igual percentagem do respectivo capital pertença a portugueses."
+  },
+  "885780663": {
+   "fragment_id": "885806216",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSalvo autorização prévia da Inspecção-Geral de Jogos, são da exclusiva responsabilidade das actuais empresas concessionárias, não se transmitindo às adjudicatárias das novas concessões, as consequências jurídicas ou patrimoniais resultantes de alterações que se verifiquem a partir da data de entrada em vigor do presente diploma, em relação ao pessoal afecto à exploração dos estabelecimentos pertencentes ao Estado ou para ele reversíveis no final das actuais concessões, e respeitantes a actos de:\n\na) Admissão;\n\nb) Transferência de estabelecimento;\n\nc) Promoção, melhoria salarial ou regalias sociais que não decorram necessariamente da lei ou de contrato colectivo de trabalho."
+  },
+  "885780664": {
+   "fragment_id": "885806217",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nDurante os prazos das concessões não serão consentidas novas explorações de jogos de fortuna ou azar a menos de 150 km dos locais onde se situam os casinos de Espinho e da Póvoa de Varzim, com excepção de salas de jogo do bingo, as quais, no entanto, não poderão ser criadas nos referidos municípios e nos que com estes confinem."
+  },
+  "885780665": {
+   "fragment_id": "885806218",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - A nenhuma empresa, incluindo as actuais concessionárias, é permitida a exploração de mais de uma zona de jogo.\n\n2 - As empresas concessionárias de qualquer zona de jogo, bem como os seus accionistas com mais de 10% do respectivo capital social, não podem ser proprietários de percentagem superior a 10% do capital social das concessionárias das zonas de jogo de Espinho e da Póvoa de Varzim.\n\n3 - A empresa à qual venha a ser adjudicada a concessão da zona de jogo de Espinho ou da zona de jogo da Póvoa de Varzim, bem como os seus accionistas com mais de 10% do respectivo capital social, não podem ser proprietários de percentagem igual ou superior do capital social de qualquer outra empresa concessionária de zona de jogo."
+  },
+  "885780666": {
+   "fragment_id": "885806219",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA infracção ao disposto nos n.os 2 e 4 do artigo 2.º e no artigo 5.º constitui fundamento de rescisão do contrato de concessão."
+  }
+ }
+}

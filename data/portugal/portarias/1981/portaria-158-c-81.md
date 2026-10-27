@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:258527:por
+title: Portaria n.º 158-C/81
+short_title: null
+summary: Autoriza que excepcionalmente o lugar de chefe da Divisão de Licenciamento e Controle do quadro de pessoal dirigente
+  da Direcção-Geral da Aviação Civil possa ser provido com dispensa do requisito de licenciatura
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério dos Transportes e Comunicações
+proposing_entity: null
+official_number: 158-C/81
+official_date: null
+publication_date: '1981-01-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 26/1981, 2º Suplemento, Série I de 1981-01-31
+  number: '26'
+  series: I
+  supplement: null
+  pages: 332-(33) a 332-(34)
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02602/00330034.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '258527'
+  dre_path: /dr/detalhe/portaria/158-c-1981-258527
+  internal: pt:dre:258527:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-c-1981-258527
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-c-1981-258527
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:39:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: daaf81e92c920c2a90d9f7984d95be11d559238b5d6cee958681f89b1a3568c1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:39:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Chefe de Divisão
+- Direcção Geral da Aviação Civil
+- Habilitações Literárias
+- Pessoal Dirigente
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:381286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:39:04Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 158-C/81
+
+de 31 de Janeiro
+
+Considerando que com a publicação do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), de 25 de Julho, foi criada a Direcção-Geral da Aviação Civil, entidade para que transitaram as atribuições de orientação, regulamentação e fiscalização da antecedente estrutura orgânica do subsector da aviação civil;
+
+Considerando que nessas atribuições se contam as da emissão de licenças ou autorizações de transporte e trabalho aéreos e a fiscalização das condições da respectiva concessão, as quais constituem domínio de competência atribuído à Divisão de Licenciamento e Controle da Direcção do Transporte Aéreo;
+
+Considerando que, decorrido mais de um ano após a publicação do citado diploma orgânico, urge dar plena concretização às tribuições daquela Divisão e que, com este objectivo, é indispensável prover o correspondente lugar de chefia;
+
+Considerando que para o exercício deste cargo se exige, necessariamente, do respectivo titular, além de conhecimentos específicos do quadro operacional do transporte aéreo, uma sólida experiência, sendo perfeitamente justificado que a escolha recaia em técnico superior de comprovada experiência em matéria de licenciamento e controle, cuja aptidão e competência já tenham sido reconhecidas pelo exercício informal das respectivas funções:
+
+Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações e pelo Secretário de Estado da Reforma Administrativa, nos termos do disposto no n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, o seguinte:
+
+1.º Autorizar que excepcionalmente o lugar de chefe da Divisão de Licenciamento e Controle do quadro de pessoal dirigente da Direcção-Geral da Aviação Civil, a que se refere o n.º 1 do artigo 16.º do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), de 25 de Julho, possa ser provido, com dispensa do requisito de licenciatura, por técnico de aviação civil principal do quadro anexo ao [Decreto-Lei n.º 333/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1980-469664), de 29 de Agosto, que tenha exercido de facto as correspondentes funções.
+
+2.º O perfil do cargo a prover nos termos do número anterior impõe a posse de experiência vivida nas áreas seguintes:
+
+Emissão de licenças e autorizações de transporte e trabalho aéreos;
+
+Controle do exercício de direitos de exploração e respectivas condições;
+
+Implementação e fiscalização de medidas de facilitação do tráfego nos terminais aeroportuários.
+
+3.º O despacho de nomeação será acompanhado, para publicação, do curriculum do nomeado.
+
+Presidência do Conselho de Ministros e Ministério dos Transportes e Comunicações, 8 de Janeiro de 1981. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.

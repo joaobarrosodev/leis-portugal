@@ -1,0 +1,993 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:661769:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34569675",
+ "dre_path": "/dr/detalhe/decreto-lei/565-1999-661769",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-12-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "146892217",
+    "44348175",
+    "44348275",
+    "44348375",
+    "44348475",
+    "44348575",
+    "44348675",
+    "44348775",
+    "44348875",
+    "44348975",
+    "44349075",
+    "44349175",
+    "44349275",
+    "44349375",
+    "44349475",
+    "44349575",
+    "44349675",
+    "44349775",
+    "44349875",
+    "44349975",
+    "44350075",
+    "44350175",
+    "44350275",
+    "44350375",
+    "44350475",
+    "44350575",
+    "44350675",
+    "44350775",
+    "44350875",
+    "44350975",
+    "44351075",
+    "44351175",
+    "44351275",
+    "44351375",
+    "44351475",
+    "44351575",
+    "44351675",
+    "44351775"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:596727:por",
+     "title": "Declaração de Rectificação n.º 4-E/2000",
+     "published": "2000-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/4-e-2000-596727",
+     "date": "1999-12-26"
+    }
+   ]
+  },
+  {
+   "date": "2003-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:505211:por",
+     "title": "Decreto-Lei n.º 205/2003",
+     "published": "2003-09-12",
+     "dre_path": "/dr/detalhe/decreto-lei/205-2003-505211"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "44926775",
+    "44348175",
+    "44348275",
+    "44348375",
+    "44348475",
+    "44348575",
+    "44812775",
+    "44348775",
+    "44348875",
+    "44348975",
+    "44349075",
+    "44926675",
+    "44349275",
+    "44349375",
+    "44813175",
+    "44349575",
+    "44349675",
+    "44349775",
+    "44349875",
+    "44349975",
+    "44350075",
+    "44350175",
+    "44350275",
+    "44350375",
+    "44350475",
+    "44350575",
+    "44350675",
+    "44829775",
+    "44350875",
+    "44350975",
+    "44351075",
+    "44351175",
+    "44351275",
+    "44351375",
+    "44351875",
+    "44351475",
+    "44351575",
+    "44351675",
+    "44351775"
+   ]
+  },
+  {
+   "date": "2017-04-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106824982:por",
+     "title": "Decreto-Lei n.º 40/2017",
+     "published": "2017-04-04",
+     "dre_path": "/dr/detalhe/decreto-lei/40-2017-106824982"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "44926775",
+    "44348175",
+    "44348275",
+    "44348375",
+    "44348475",
+    "44348575",
+    "44812775",
+    "44348775",
+    "44348875",
+    "44348975",
+    "44349075",
+    "44926675",
+    "114190058",
+    "44349375",
+    "44813175",
+    "44349575",
+    "44349675",
+    "44349775",
+    "44349875",
+    "44349975",
+    "44350075",
+    "44350175",
+    "44350275",
+    "44350375",
+    "44350475",
+    "44350575",
+    "44350675",
+    "44829775",
+    "44350875",
+    "44350975",
+    "44351075",
+    "44351175",
+    "44351275",
+    "44351375",
+    "44351875",
+    "44351475",
+    "44351575",
+    "44351675",
+    "44351775"
+   ]
+  },
+  {
+   "date": "2019-07-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123025739:por",
+     "title": "Decreto-Lei n.º 92/2019",
+     "published": "2019-07-10",
+     "dre_path": "/dr/detalhe/decreto-lei/92-2019-123025739"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "146892217",
+    "146892218",
+    "146892219",
+    "146892220",
+    "146892221",
+    "146892222",
+    "146892223",
+    "146892224",
+    "146892225",
+    "146892226",
+    "146892227",
+    "146892228",
+    "146892229",
+    "146892230",
+    "146892231",
+    "146892232",
+    "146892233",
+    "146892234",
+    "146892235",
+    "146892236",
+    "146892237",
+    "146892238",
+    "146892239",
+    "146892240",
+    "146892241",
+    "146892242",
+    "146892243",
+    "146892244",
+    "146892245",
+    "146892246",
+    "146892247",
+    "146892248",
+    "146892249",
+    "146892250",
+    "146892251",
+    "146892252",
+    "146892253",
+    "146892254",
+    "146892255"
+   ]
+  }
+ ],
+ "fragments": {
+  "146892217": {
+   "fragment_id": "35189475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-07-11",
+   "changed_by": [],
+   "markdown": "A introdução de espécies não indígenas na Natureza pode originar situações de predação ou competição com espécies nativas, a transmissão de agentes patogénicos ou de parasitas e afectar seriamente a diversidade biológica, as actividades económicas ou a saúde pública, com prejuízos irreversíveis e de difícil contabilização. Acresce que, quando necessário, o controlo ou a erradicação de uma espécie introduzida, que se tornou invasora, são especialmente complexos e onerosos.\n\nNo entanto, a introdução de algumas espécies não indígenas e a sua exploração revelaram-se como factores importantes para o desenvolvimento da economia nacional, nomeadamente para o aumento da variedade e disponibilidade dos recursos alimentares, como são exemplos históricos a batata e o milho.\n\nConscientes destes factos, pretendeu-se condicionar a introdução na Natureza de espécies não indígenas, com excepção das destinadas à exploração agrícola.\n\nMas, porque existe o equívoco generalizado de que a um maior número de espécies na Natureza corresponde, no imediato e a longo prazo, uma maior diversidade biológica, pretendeu-se ainda acentuar a dimensão pedagógica necessária à aplicação de princípios de conservação da integridade genética do património biológico autóctone e de prevenção das libertações intencionais ou acidentais de espécimes de espécies não indígenas potencialmente causadores de alterações negativas nos sistemas ecológicos.\n\nNesse sentido, interdita-se genericamente a introdução intencional de espécies não indígenas na Natureza, visando-se assim promover também o recurso a espécies autóctones aptas para os mesmos fins. Quanto às introduções acidentais, definem-se medidas relativas à exploração de espécies não indígenas em local confinado, sujeitando-se os estabelecimentos ou as entidades que as detenham a licenciamento e ao cumprimento de normas mínimas de segurança como forma de prevenção.\n\nEsta regulamentação vem atender às obrigações internacionalmente assumidas por Portugal, ao aprovar, para ratificação, através do Decreto n.º 95/81, de 23 de Julho, a Convenção de Berna, pelo Decreto n.º 103/80, de 11 de Outubro, a Convenção de Bona, e pelo Decreto n.º 21/93, de 21 de Junho, a Convenção da Biodiversidade, que preconizam a adopção de medidas que condicionem as introduções intencionais e evitem as introduções acidentais, bem como o controlo ou a erradicação das espécies já introduzidas. Também a Lei de Bases do Ambiente, Lei n.º 11/87, de 7 de Abril, no seu artigo 15.º, n.º 6, preconiza a elaboração de legislação adequada à introdução de exemplares exóticos da flora e, no seu artigo 16.º, n.º 3, a adopção de medidas de controlo efectivo, severamente restritivas, no âmbito da introdução de qualquer espécie animal selvagem, aquática ou terrestre.\n\nOuvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira:\n\nNos termos do n.º 6 do artigo 15.º e do n.º 3 do artigo 16.º da Lei n.º 11/87, de 7 de Abril, e da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "44348175": {
+   "fragment_id": "35295175",
+   "type": 1,
+   "heading": "Capítulo I — Disposições introdutórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições introdutórias"
+  },
+  "44348275": {
+   "fragment_id": "36571275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma regula a introdução na Natureza de espécies não indígenas da flora e da fauna.\n\n2 - A introdução, utilização e detenção de organismos geneticamente modificados, ou de produtos que os contenham, é regulado por legislação própria.\n\n3 - As espécies não indígenas constantes do anexo I, que faz parte integrante deste diploma, com excepção das indicadas como invasoras, são consideradas para efeitos deste diploma, em cada um dos territórios em que estejam referenciadas, como espécies indígenas.\n\n4 - As espécies não indígenas constantes do anexo II, que faz parte integrante deste diploma, são consideradas para efeitos deste diploma como espécies indígenas."
+  },
+  "44348375": {
+   "fragment_id": "36571375",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Espécie - conjunto de indivíduos inter-reprodutores com a mesma morfologia hereditária e um ciclo de vida comum, incluindo quaisquer subespécies ou as suas populações geograficamente isoladas;\n\nb) Espécime - qualquer indivíduo vivo de uma espécie da flora ou da fauna, incluindo propágulos, sementes e ovos;\n\nc) Não indígena - qualquer espécie, da flora ou da fauna, não originária de um determinado território e nunca aí registada como ocorrendo naturalmente e com populações auto-sustentadas durante os tempos históricos;\n\nd) Território - unidade geográfica equivalente ao continente ou a cada uma das ilhas das Regiões Autónomas dos Açores e da Madeira ou, no caso de espécies aquáticas dulciaquícolas, equivalente a cada uma das bacias hidrográficas;\n\ne) Habitat - conjunto dos elementos físicos e biológicos que uma determinada espécie utiliza para desenvolver o seu ciclo de vida;\n\nf) Introdução na Natureza - estabelecimento de populações selvagens num local não confinado, através de um acto de disseminação ou de libertação, intencional ou acidental, de um ou mais espécimes de uma espécie não indígena;\n\ng) Local confinado - espaço demarcado e cercado por barreiras físicas, químicas ou biológicas, destinado ao cultivo ou criação de uma ou mais espécies ou onde as mesmas são mantidas apenas por acção do Homem, incluindo os campos agrícolas e excluindo as explorações de aquacultura;\n\nh) Evadido - espécime de uma espécie não indígena importado e detido legalmente, ou um seu descendente, e disseminado ou posto em liberdade, acidental ou intencionalmente, mas sem vontade deliberada de efectuar uma introdução;\n\ni) Clandestino - espécime de uma espécie não indígena importado acidentalmente, associado a um espécime de uma espécie não indígena importado e detido legalmente ou aos seus produtos e embalagens;\n\nj) Repovoamento - disseminação ou libertação, num determinado território, de um ou mais espécimes de uma espécie indígena ou de uma espécie não indígena aí previamente introduzida;\n\nl) Risco ecológico - impacte negativo potencial, susceptível de causar uma modificação significativa nos ecossistemas de um dado território;\n\nm) Animal de companhia - qualquer animal detido ou destinado a ser detido pelo Homem, designadamente em sua casa, para seu entretenimento e enquanto companhia;\n\nn) Planta ornamental - qualquer planta detida ou destinada a ser detida pelo Homem, designadamente em sua casa e respectivos anexos, com fins estéticos;\n\no) Espécie invasora - espécie susceptível de, por si própria, ocupar o território de uma forma excessiva, em área ou em número de indivíduos, provocando uma modificação significativa nos ecossistemas;\n\np) Anexo I - anexo a este diploma que inclui as espécies da flora e da fauna não indígenas, com a discriminação, para o caso das espécies aquáticas, dos territórios onde se estabeleceram e a sua classificação, quando apropriado, como espécie invasora;\n\nq) Anexo II - anexo a este diploma que inclui as espécies não indígenas com interesse para a arborização;\n\nr) Anexo III - anexo a este diploma que inclui as espécies da flora e da fauna não indígenas que comportam risco ecológico conhecido;\n\ns) Anexo IV - anexo a este diploma que contém o modelo do extracto-resumo do presente diploma, destinado a ser afixado pelos comerciantes de plantas ornamentais e animais de companhia."
+  },
+  "44348475": {
+   "fragment_id": "35295275",
+   "type": 1,
+   "heading": "Capítulo II — Introdução intencional na Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Introdução intencional na Natureza"
+  },
+  "44348575": {
+   "fragment_id": "36571475",
+   "type": 11,
+   "heading": "Artigo 3.º — Interdição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Interdição\n\nSem prejuízo do disposto no artigo seguinte, é proibida a disseminação ou libertação na Natureza de espécimes de espécies não indígenas visando o estabelecimento de populações selvagens."
+  },
+  "44348675": {
+   "fragment_id": "36571575",
+   "type": 11,
+   "heading": "Artigo 4.º — Excepções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Excepções\n\n1 - Mediante despacho conjunto dos membros do Governo com a tutela do ambiente, da saúde e da actividade económica ou científica em causa, sob proposta do Instituto da Conservação da Natureza (ICN), e ouvida a Direcção-Geral das Florestas (DGF), pode excepcionalmente ser permitida uma introdução na Natureza, verificadas cumulativamente as seguintes situações:\n\na) Existam vantagens inequívocas para o Homem ou para as biocenoses naturais;\n\nb) Não haja nenhuma espécie indígena apta para o fim pretendido;\n\nc) Seja precedida da elaboração de um estudo de impacte aprofundado e minuciosamente planificado, cujas conclusões são relevantes para a autorização.\n\n2 - Sempre que esteja em causa a introdução de espécies para fins florestais, cinegéticos ou aquícolas, a proposta referida no artigo anterior é da competência da DGF, ouvido o ICN, com excepção das áreas referidas no n.º 4 do presente artigo.\n\n3 - O estudo de impacte referido na alínea c) do n.º 1 é da responsabilidade do interessado e deve conter elementos sobre:\n\na) A taxonomia, teologia e ecologia, nomeadamente habitat, dieta e relações interespecíficas, da espécie em causa;\n\nb) A biologia da reprodução, as patologias, a capacidade de dispersão e os riscos de hibridação com espécies indígenas;\n\nc) O habitat de suporte, compreendendo a avaliação das consequências da introdução sobre esse habitat e os circundantes e das medidas apropriadas para reduzir ou minimizar os seus efeitos negativos;\n\nd) Os riscos da introdução em causa, bem como das medidas que possam ser tomadas para eliminar ou controlar a população introduzida, caso surjam efeitos imprevistos e danosos dessa introdução;\n\ne) As introduções da espécie em causa noutros locais, quando existam, e as suas consequências;\n\nf) A identificação da entidade responsável pelo processo de introdução em causa e a descrição dos métodos a utilizar.\n\n4 - A excepção referida no n.º 1, quando referente a introduções em áreas protegidas, zonas de protecção especial, sítios da lista nacional de sítios, ilhas sem população humana residente, lagoas e lagunas naturais, só é aplicável no caso de essa introdução ser a única acção eficaz para a conservação da Natureza ou para a salvaguarda da saúde ou segurança públicas."
+  },
+  "44348775": {
+   "fragment_id": "36571675",
+   "type": 11,
+   "heading": "Artigo 5.º — Ensaio controlado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ensaio controlado\n\n1 - O despacho conjunto previsto no n.º 1 do artigo anterior pode fazer depender essa autorização da realização de um ensaio controlado, com espécimes da espécie em causa, em local confinado com características ecológicas idênticas às do território onde se pretende efectuar a introdução.\n\n2 - Para efeitos do número anterior, o despacho conjunto identifica as entidades administrativas responsáveis pelo acompanhamento do ensaio, dependendo a autorização da apreciação positiva do seu resultado."
+  },
+  "44348875": {
+   "fragment_id": "36571775",
+   "type": 11,
+   "heading": "Artigo 6.º — Quarentena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Quarentena\n\nComo prevenção de introduções acidentais através de clandestinos, os espécimes da flora e da fauna a introduzir na natureza são sujeitos a um período de uma quarentena específica para estas situações, em condições a definir nas propostas do ICN ou da DGF referidas, respectivamente, nos n.os 1 e 2 do artigo 4.º"
+  },
+  "44348975": {
+   "fragment_id": "35295375",
+   "type": 1,
+   "heading": "Capítulo III — Introdução acidental na Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Introdução acidental na Natureza"
+  },
+  "44349075": {
+   "fragment_id": "36571875",
+   "type": 11,
+   "heading": "Artigo 7.º — Interdição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Interdição\n\n1 - É proibida a disseminação ou libertação na Natureza de espécimes de espécies não indígenas, ainda que sem vontade deliberada de provocar uma introdução na Natureza, como forma de prevenir o estabelecimento acidental de populações selvagens.\n\n2 - O disposto nos artigos 4.º a 6.º do presente diploma é aplicável à exploração económica de espécies não indígenas em espaço não confinado, nomeadamente aquacultura e apicultura."
+  },
+  "44349175": {
+   "fragment_id": "36571975",
+   "type": 11,
+   "heading": "Artigo 8.º — Espécies invasoras e de risco ecológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Espécies invasoras e de risco ecológico\n\n1 - As espécies invasoras e as espécies que comportam risco ecológico encontram-se classificadas, respectivamente, nos anexos I e III, os quais fazem parte integrante do presente diploma.\n\n2 - É proibido o cultivo, a criação ou a detenção em local confinado e a utilização como planta ornamental ou animal de companhia de espécimes das espécies constantes do anexo I identificadas como invasoras; a cedência, a compra, a venda, a oferta de venda e o transporte de espécimes das espécies constantes do anexo I identificadas como invasoras fica restrita a espécimes ou partes de espécimes não-vivos e sem propágulos viáveis, como forma de prevenir a possibilidade de introdução ou de repovoamento através de evadidos.\n\n3 - É proibida a cedência, a compra, a venda, a oferta de venda, o transporte, o cultivo, a criação ou a detenção em local confinado, a exploração económica e a utilização como planta ornamental ou animal de companhia de espécimes das espécies constantes do anexo III consideradas como comportando risco ecológico, como forma de prevenir a possibilidade de introdução na Natureza ou de repovoamento a partir de evadidos.\n\n4 - O disposto nos números anteriores não é aplicável à cedência, compra, venda, transporte, cultivo, criação e detenção em local confinado, quando praticados para fins científicos e educativos por entidades devidamente licenciadas, nos termos dos artigos seguintes, desde que cumpridas as particulares condições de segurança exigidas, atendendo ao risco específico de cada uma das espécies em causa."
+  },
+  "44349275": {
+   "fragment_id": "36572075",
+   "type": 11,
+   "heading": "Artigo 9.º — Estabelecimentos de detenção de espécies não indígenas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estabelecimentos de detenção de espécies não indígenas\n\n1 - Os jardins botânicos, estufas, viveiros, hortos, lojas de plantas, jardins e parques zoológicos, safaris, circos e outras actividades de exibição de animais selvagens, aquários ou lojas de animais que detenham espécimes de espécies não indígenas, sem prejuízo de outras licenças legalmente exigidas e do disposto no n.º 3 e no artigo 14.º, necessitam de uma licença para deter espécies não indígenas, especificando quais as espécies detidas.\n\n2 - A licença para detenção de espécies não indígenas é concedida pelo ICN.\n\n3 - O disposto nos números anteriores não se aplica às espécies objecto de exploração agrícola, desde que incluídas nos catálogos comuns de variedades de espécies agrícolas e hortícolas, nem às espécies objecto de exploração zootécnica."
+  },
+  "44349375": {
+   "fragment_id": "36572175",
+   "type": 11,
+   "heading": "Artigo 10.º — Condições de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Condições de licenciamento\n\n1 - A licença referida no artigo anterior só pode ser concedida aos estabelecimentos que apresentem instalações com condições de segurança adequadas às espécies não indígenas que detenham ou pretendam deter, de acordo com a legislação específica em vigor.\n\n2 - As licenças são revogadas se os titulares dos estabelecimentos não derem cumprimento às seguintes obrigações e, no caso de comerciantes de plantas ornamentais ou de animais de companhia, às constantes do artigo 15.º:\n\na) Manter as instalações nas condições sanitárias e de segurança e adequadas às espécies não indígenas que detenham, de acordo com a legislação específica em vigor, podendo as mesmas ser vistoriadas, a todo o tempo, pelos serviços do ministério com a tutela do ambiente e pelos demais com competência específica;\n\nb) Organizar e manter actualizado um registo dos espécimes das espécies não indígenas que detenham e apresentar ao ICN, quando solicitado, um relatório circunstanciado sobre o número de espécimes de cada espécie não indígena comercializada;\n\nc) Fazer a marcação dos espécimes de espécies da fauna não indígenas que detenham, nos termos da legislação aplicável ou da forma preconizada no licenciamento, de modo a poder ser identificada a sua origem em caso de evasão;\n\nd) Comunicar ao ICN, logo que detectada, a evasão ou disseminação acidental de qualquer espécime de uma espécie não indígena, para que possam ser avaliados os riscos de introdução e accionados, se necessário, mecanismos de controlo."
+  },
+  "44349475": {
+   "fragment_id": "36572275",
+   "type": 11,
+   "heading": "Artigo 11.º — Requisitos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Requisitos de segurança\n\n1 - As instalações destinadas a deter espécimes de espécies não indígenas devem obedecer a requisitos mínimos de segurança que impeçam a sua evasão ou disseminação.\n\n2 - Os requisitos mínimos referidos no número anterior são definidos por portaria conjunta dos membros do Governo com a tutela do ambiente, da ciência e da actividade económica em causa.\n\n3 - Sem prejuízo dos requisitos mínimos referidos nos números anteriores, a detenção, cultivo, criação e transporte, ao abrigo da excepção prevista no n.º 2 do artigo 8.º, de espécies identificadas como invasoras ou consideradas como comportando risco ecológico estão sujeitos a condições de segurança particulares definidas na licença prevista no artigo 9.º, em função do risco específico das espécies em causa."
+  },
+  "44349575": {
+   "fragment_id": "36572375",
+   "type": 11,
+   "heading": "Artigo 12.º — Estabelecimentos existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estabelecimentos existentes\n\n1 - Os estabelecimentos já existentes que detenham espécies não indígenas devem, no prazo de seis meses a contar da data de entrada em vigor do presente diploma, requerer o seu licenciamento, enviando uma lista dos espécimes de espécies não indígenas que detenham nessa data, das espécies que habitualmente detêm ou pretendem deter e um comprovativo de que as condições sanitárias e de segurança das instalações em que os mesmos são mantidos estão de acordo com o previsto na legislação referida na alínea a) do n.º 2 do artigo 10.º\n\n2 - As licenças são concedidas nos termos e condições referidos nos artigos 9.º e 10.º\n\n3 - As instalações podem ser vistoriadas, a todo o tempo, pelos serviços do ministério com a tutela do ambiente e pelos demais com competência específica.\n\n4 - A entidade que efectua a vistoria elabora um relatório sobre a mesma, o qual deve ser presente às entidades com competência nas respectivas matérias para parecer vinculativo e, se for caso disso, propõe alterações a introduzir nas instalações e o prazo em que devem ser executadas, sob pena de revogação da licença, nos termos do n.º 2 do artigo 10.º\n\n5 - Caso a licença tenha sido concedida com base em falsas declarações do requerente, a licença é considerada como não válida para todos os efeitos legais."
+  },
+  "44349675": {
+   "fragment_id": "36572475",
+   "type": 11,
+   "heading": "Artigo 13.º — Prazo do licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prazo do licenciamento\n\n1 - A licença para detenção de espécies não indígenas é concedida no prazo de 30 dias após a entrada do requerimento para a mesma nos serviços do ICN.\n\n2 - Caso o ICN não responda ao pedido de licenciamento no prazo referido no número anterior, há lugar a deferimento tácito.\n\n3 - A licença será válida por um período de dois anos, findo o qual deverá ser requerida a sua renovação."
+  },
+  "44349775": {
+   "fragment_id": "36572575",
+   "type": 11,
+   "heading": "Artigo 14.º — Espécies protegidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Espécies protegidas\n\nA necessidade de licenças e autorizações para a detenção de espécimes de espécies não indígenas, referidas nos artigos 9.º e 12.º, não se aplica aos espécimes de espécies incluídas nos anexos ao Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1997&id=397R0338\" title=\"Link para Regulamento da Comunidade Europeia\">338/97</a>, do Conselho, de 9 de Dezembro de 1996, objecto de lei especial."
+  },
+  "44349875": {
+   "fragment_id": "36572675",
+   "type": 11,
+   "heading": "Artigo 15.º — Plantas ornamentais e animais de companhia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Plantas ornamentais e animais de companhia\n\n1 - Os comerciantes de plantas ornamentais ou de animais de companhia devem afixar em local bem visível do seu estabelecimento um extracto-resumo, conforme modelo constante do anexo IV, o qual faz parte integrante do presente diploma.\n\n2 - Os comerciantes de plantas ornamentais ou de animais de companhia devem indicar, no requerimento de licenciamento para a detenção de espécies não indígenas, referido nos artigos 10.º e 12.º, o destino dos espécimes detidos dessas espécies, em caso de cessação da actividade."
+  },
+  "44349975": {
+   "fragment_id": "36572775",
+   "type": 11,
+   "heading": "Artigo 16.º — Águas de lastro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Águas de lastro\n\nAo enchimento e despejo das águas de lastro dos navios são aplicáveis as regras definidas nas linhas orientadoras da Organização Marítima Internacional (IMO) e do Conselho Internacional para a Exploração do Mar (ICES)."
+  },
+  "44350075": {
+   "fragment_id": "35295475",
+   "type": 1,
+   "heading": "Capítulo IV — Repovoamento, controlo e erradicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Repovoamento, controlo e erradicação"
+  },
+  "44350175": {
+   "fragment_id": "36572875",
+   "type": 11,
+   "heading": "Artigo 17.º — Repovoamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Repovoamento\n\nÉ interdito o repovoamento das espécies incluídas no anexo I classificadas como invasoras."
+  },
+  "44350275": {
+   "fragment_id": "36572975",
+   "type": 11,
+   "heading": "Artigo 18.º — Controlo de espécies invasoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Controlo de espécies invasoras\n\n1 - As espécies não indígenas invasoras já introduzidas na Natureza são objecto de um plano nacional com vista ao seu controlo ou erradicação, promovido pelo Ministério do Ambiente, em articulação com o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a aprovar por resolução do Conselho de Ministros.\n\n2 - O plano nacional referido no número anterior abarca igualmente as espécies constantes do anexo III, introduzidas na Natureza em infracção ao presente diploma."
+  },
+  "44350375": {
+   "fragment_id": "35295575",
+   "type": 1,
+   "heading": "Capítulo V — Funções administrativas e científicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Funções administrativas e científicas"
+  },
+  "44350475": {
+   "fragment_id": "36573075",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências\n\nCompete ao ICN assegurar as funções administrativas e técnico-científicas necessárias à aplicação do presente diploma, nomeadamente:\n\na) Apreciar os pedidos de introdução e os estudos de impacte referidos no artigo 4.º;\n\nb) Propor a revisão dos anexos I, II e III, em articulação com a Direcção-Geral das Florestas;\n\nc) Apreciar os programas definidos no plano nacional de controlo de espécies invasoras referido no artigo 18.º"
+  },
+  "44350575": {
+   "fragment_id": "36573175",
+   "type": 11,
+   "heading": "Artigo 20.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Conselho consultivo\n\n1 - Para aconselhar o ICN nas funções técnico-científicas relativas à aplicação do presente diploma é instituído um conselho consultivo que integra peritos nomeados por despacho do ministro com a tutela do ambiente e um representante do ICN, que preside.\n\n2 - O conselho consultivo tem um número máximo de sete membros, incluindo o representante do ICN referido no número anterior, e reúne sempre que convocado pelo ICN.\n\n3 - Os peritos são pagos por senhas de presença nos termos a determinar por portaria conjunta dos Ministros das Finanças e do Ambiente."
+  },
+  "44350675": {
+   "fragment_id": "35295675",
+   "type": 1,
+   "heading": "Capítulo VI — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Contra-ordenações"
+  },
+  "44350775": {
+   "fragment_id": "36573275",
+   "type": 11,
+   "heading": "Artigo 21.º — Contra-ordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contra-ordenações e coimas\n\n1 - As infracções ao disposto no presente diploma constituem contra-ordenações puníveis, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, com uma coima:\n\na) De 350000$00 a 750000$00, em caso de disseminação ou libertação intencional na Natureza de espécimes de espécies não indígenas, com vontade deliberada de efectuar uma introdução não autorizada, por violação do disposto no artigo 3.º, ou para a exploração em local não confinado, por violação do disposto no n.º 2 do artigo 7.º;\n\nb) De 300000$00 a 700000$00, em caso de repovoamento de espécies invasoras, por violação do disposto no artigo 17.º;\n\nc) De 250000$00 a 650000$00, em caso de disseminação ou libertação intencional na Natureza de espécimes de espécies não indígenas, sem vontade deliberada de provocar uma introdução, por violação do disposto no n.º 1 do artigo 7.º;\n\nd) De 200000$00 a 600000$00, em caso de prática de actos ou actividades proibidas quando tenham por objecto espécies invasoras ou que comportam risco ecológico, por violação do disposto no n.º 2 do artigo 8.º;\n\ne) De 150000$00 a 550000$00, em caso de falta de licença para deter espécies não indígenas ou de falta de licença específica para as espécies não indígenas detidas, por violação do disposto no n.º 1 do artigo 9.º e do n.º 5 do artigo 12.º;\n\nf) De 150000$00 a 500000$00, em caso de falsas declarações para obtenção de licença para deter espécies não indígenas;\n\ng) De 100000$00 a 450000$00, em caso de não cumprimento de alguma das obrigações dos estabelecimentos que detêm espécimes de espécies não indígenas, por violação do disposto no n.º 3 do artigo 8.º, nas alíneas a), b), c) ou d) do n.º 2 do artigo 10.º, no n.º 2 do artigo 12.º ou no n.º 1 do artigo 15.º;\n\nh) De 100000$00 a 400000$00, em caso de não sujeição a quarentena, ou de desrespeito das condições a observar para a mesma, dos espécimes de espécies não indígenas cuja introdução tenha sido autorizada, por violação do disposto no artigo 6.º;\n\ni) De 30000$00 a 100000$00, em caso de não requerimento atempado do licenciamento dos estabelecimentos existentes que detêm espécimes de espécies não indígenas, por violação do disposto no n.º 1 do artigo 12.º\n\n2 - Se o infractor for uma pessoa colectiva, os montantes mínimos e máximos previstos no número anterior podem ser multiplicados até 12 vezes.\n\n3 - A tentativa e a negligência são sempre puníveis."
+  },
+  "44350875": {
+   "fragment_id": "36573375",
+   "type": 11,
+   "heading": "Artigo 22.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Sanções acessórias\n\nCumulativamente com as coimas previstas no artigo anterior, e nos termos da lei, podem ser aplicadas as seguintes sanções acessórias:\n\na) Perda dos espécimes que estejam na origem da infracção, bem como do equipamento utilizado, que revertem a favor do Estado;\n\nb) Interdição do exercício da profissão ou da actividade;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participação ou arrematação a concursos promovidos por entidades ou serviços públicos, de obras públicas, de fornecimento de bens e serviços, ou concessão de serviços, licenças ou alvarás;\n\ne) Encerramento do estabelecimento;\n\nf) Suspensão de autorizações e licenças."
+  },
+  "44350975": {
+   "fragment_id": "36573475",
+   "type": 11,
+   "heading": "Artigo 23.º — Afectação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Afectação das coimas\n\nA receita das coimas previstas no artigo 21.º reverte:\n\na) 60% para o Estado;\n\nb) 40% para o ICN."
+  },
+  "44351075": {
+   "fragment_id": "36573575",
+   "type": 11,
+   "heading": "Artigo 24.º — Fiscalização, instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Fiscalização, instrução e decisão\n\n1 - As funções de fiscalização, para efeitos deste diploma, competem especialmente aos funcionários e agentes do ICN, da Inspecção-Geral do Ambiente, das direcções regionais do ambiente, das direcções regionais de agricultura, da Direcção-Geral das Florestas, da Direcção-Geral de Veterinária, da Direcção-Geral das Pescas e Aquicultura, do Instituto de Investigação das Pescas e do Mar e da Guarda Nacional Republicana e demais autoridades policiais.\n\n2 - Compete ao ICN o processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias previstas nos artigos 21.º e 22.º deste diploma."
+  },
+  "44351175": {
+   "fragment_id": "36573675",
+   "type": 11,
+   "heading": "Artigo 25.º — Reposição da situação anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Reposição da situação anterior\n\n1 - Independentemente da aplicação da coima e das sanções acessórias, o ICN, ouvidas as entidades competentes em matéria de sanidade e de bem-estar animal, pode intimar o infractor a proceder à reposição da situação anterior à infracção, fixando-lhe as acções necessárias, nomeadamente para a erradicação da espécie introduzida e o respectivo prazo de execução.\n\n2 - Após a notificação para que proceda à erradicação da espécie introduzida, se a obrigação não for cumprida no prazo fixado, o ICN procede ou manda proceder às acções necessárias para essa erradicação, por conta do infractor."
+  },
+  "44351275": {
+   "fragment_id": "35295775",
+   "type": 1,
+   "heading": "Capítulo VII — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposição final"
+  },
+  "44351375": {
+   "fragment_id": "36573775",
+   "type": 11,
+   "heading": "Artigo 26.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regiões Autónomas\n\nO regime previsto no presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir por diploma regional adequado."
+  },
+  "44351475": {
+   "fragment_id": "35295875",
+   "type": 14,
+   "heading": "Anexo I — Espécies introduzidas em Portugal continental - (I) Invasoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Espécies introduzidas em Portugal continental - (I) Invasoras\n\nFauna\n\nInvertebrados:\n\nPhoracantha semipunctata;\n\nIridomyrmex humilis - formiga argentina;\n\nLeptinotarsa decenlineata - escaravelho da batata;\n\nLysiphlebus testaceipes (Cresson).\n\nRépteis:\n\nChamaeleo chamaeleon - camaleão;\n\nLacerta dugesii - lagartixa-da-madeira.\n\nAves (espécies cuja nidificação é provável ou confirmada):\n\nFrancolinus francolinus - francolim-negro;\n\nPhasianus colchinus - Faisão;\n\nPsitacula krameri - periquito-de-colar;\n\nMyiopsitta monachus - periquito-monge;\n\nColumbina passerina - rolinha-americana;\n\nPloceus cucullatus - tecelão-de-dorso-malhado;\n\nPloceus melanocephalus - tecelão-de-cabeça-preta;\n\nQuelea quelea - Tecelão-de-bico-vermelho;\n\nEuplectes afer - bispo-de-coroa-amarela;\n\nEuplectes hordeaceus - bispo-vermelho-d'asa-negra;\n\nEuplectes franciscanus - bispo-laranja;\n\nEuplectes orix - bispo-vermelho;\n\nEstrilda melpoda - faces-laranja;\n\nEstrilda troglodytes - bico-de-lacre-de-cauda-preta;\n\nEstrilda astrild - bico-de-lacre;\n\nAmandava amandava - bengali-vermelho;\n\nAmandava subflava - ventre-laranja;\n\nPoephila guttata - mandarim;\n\nLonchura cantans - bico-de-chumbo-africano;\n\nLonchura mallaca - bico-de-chumbo-de-cabeça-negra;\n\nLonchura maja - bico-de-chumbo-de-cabeça-branca;\n\nAmadina fasciata - degolado.\n\nMamíferos:\n\nRattus rattus - rato-preto;\n\nRattus norvegicus - ratazana.\n\nFauna aquática dulciaquícola\n\nBacia do Minho\n\nPeixes:\n\nMicropterus salmoides - achigã;\n\nOncorhynchus mykiss - truta-arco-íris.\n\nBacia do Lima\n\nPeixes:\n\nCarassius auratus - pimpão;\n\nCyprinus carpio - carpa.\n\nBacia do Cávado\n\nPeixes:\n\nCarassius auratus - pimpão;\n\nCyprinus carpio - carpa;\n\nOncorhynchus mykiss - truta-arco-íris;\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã;\n\nEsox lucius - lúcio.\n\nBacia do Ave\n\nPeixes:\n\nCyprinus carpio - carpa;\n\nOncorhynchus myriss - truta-arco-íris;\n\nMicropterus salmoides - achigã;\n\nSander lucioperca - lucioperca.\n\nBacia do Douro\n\nInvertebrados:\n\nCorbicula fluminea;\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana;\n\nPacifastacus leniusculus.\n\nPeixes:\n\nCarassius auratus - pimpão;\n\nCyprinus carpio - carpa;\n\nGobio gobio - góbio;\n\nEsox lucius - lúcio;\n\nOncorhynchus mykiss - truta-arco-íris;\n\nGambusia holbrooki - gambúsia (I);\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã.\n\nBacia do Leça\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nGobio gobio - góbio.\n\nBacia do Vouga\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCarassius auratus - peixe-vermelho;\n\nCyprinus carpio - carpa;\n\nGobio gobio - góbio;\n\nOncorhynchus mykiss - truta-arco-íris;\n\nGambusia holbrooki - gambúsia (I);\n\nMicropterus salmoides - achigã.\n\nBacia do Mondego\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCarassius auratus - peixe-vermelho;\n\nCyprinus carpio - carpa;\n\nGobio gobio - góbio;\n\nOncorhynchus mykiss - truta-arco-íris;\n\nGambusia holbrooki - gambúsia (I);\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã.\n\nBacia do Lis\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nBacia das ribeiras do Oeste\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nBacia do Tejo\n\nInvertebrados:\n\nCorbicula fluminea;\n\nEriocheir sinensis - caranguejo-peludo-chinês (I);\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana;\n\nPotamopyrgus jenkinsi.\n\nPeixes:\n\nCarassius auratus - peixe-vermelho;\n\nCyprinus carpio - carpa;\n\nGobio gobio - góbio;\n\nEsox lucius - lúcio;\n\nOncorhynchus mykiss - truta-arco-íris;\n\nGambusia holbrooki - gambúsia (I);\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã.\n\nBacia do Sado\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCarassius auratus - peixe-vermelho;\n\nCyprinus carpio - carpa;\n\nGambusia holbrooki - gambúsia (I);\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã;\n\nCichlasoma facetum - chanchito;\n\nIctalurus meles - peixe-gato.\n\nBacia do Mira\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCyprinus carpio - carpa;\n\nMicropterus salmoides - achigã;\n\nCichlasoma facetum - chanchito.\n\nBacia das ribeiras do Algarve\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCarassius auratus - pimpão;\n\nCyprinus carpio - carpa;\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã.\n\nBacia do Guadiana\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCarassius auratus - pimpão;\n\nCyprinus carpio - carpa;\n\nEsox lucius - lúcio;\n\nFundulus heteroclitus - fundulo;\n\nGambusia holbrooki - gambúsia (I);\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã;\n\nCichlasoma facetum - chanchito.\n\nFlora\n\nPteridophyta\n\nSelaginellaceae:\n\nSelaginella kraussiana (G. Kunze) A. Braun.\n\nAzollaceae:\n\nAzolla filiculoides Lam. (I);\n\nAzolla caroliniana Willd. (I).\n\nGymnospermae\n\nCupressaceae:\n\nChamaecyparis lawsoniana (A. Murray.) Parl. - camecípare-de-lawson;\n\nCupressus lusitanica Miller - cipreste-do-buçaco;\n\nCupressus macrocarpa Hartw. - cipreste-da-califórnia;\n\nCupressus sempervirens L. - cipreste-comum.\n\nPinaceae:\n\nAbies alba Miller - abeto-branco;\n\nCedrus atlantica (Endl.) Carriére - cedro-do-atlas;\n\nCedrus deodara Loud. - cedro-do-himalaia;\n\nPinus halepensis Miller - pinheiro-de-alepo;\n\nPinus nigra Arn. - pinheiro-larício;\n\nPseudotsuga menziesii (Mirbel) Franco - pseudotsuga.\n\nAngiospermae\n\nSalicaceae:\n\nSalix babylonica L.;\n\nSalix canescens (Aitur) Marshall;\n\nSalix x rubens Schrank;\n\nSalix viminalis L.;\n\nPopulus deltoides Marshall - choupo-americano;\n\nPopulus alba L. - álamo;\n\nPopulus nigra L. subsp. caudina (Ten.) Bug.;\n\nPopulus x canadensis Moench (P. deltoides x nigra).\n\nUrticaceae:\n\nSoleirolia soleirolii (Req.) Dandy - lágrimas-de-anjo.\n\nProteaceae:\n\nHakea sericea Schrader (I);\n\nHakea salicifolia (Vent.) B. L. Burtt (I);\n\nGrevillia robusta L. - grevília.\n\nPolygonaceae:\n\nFallopia baldschuanica (Regel) J. Holub (F. aubertii, Polygonum aubertii);\n\nPolygonum capitatum D. Don;\n\nPolygonum minus Huds;\n\nPolygonum orientale L.;\n\nReynoutria japonica Houtt. - sanguinária-do-japão;\n\nRumex frutescens Thouars.\n\nChenopodiaceae:\n\nBeta vulgaris L. subsp. vulgaris;\n\nChenopodium multifidum L.;\n\nChenopodium ambrosoides L. - ambrósia-do-méxico.\n\nAmaranthaceae:\n\nAmaranthus muricatus (Mocq.) Hicken - bredo-da-golegã;\n\nAmaranthus caudatus L. - moncos-de-peru; cauda-de-raposa;\n\nAmaranthus cruentus L.;\n\nAmaranthus paniculatus L.;\n\nAmaranthus blitoides S. Watson - erva-aranha;\n\nAmaranthus albus L. - bredos-brancos;\n\nAmaranthus deflexus L. - bredo-perene.\n\nPhytolaccaceae:\n\nPhytolacca americana L. - tintureira; erva-da-américa.\n\nAizoaceae:\n\nSesuvium portulacastrum (L.) L.;\n\nDrosanthemum candens (Haw.) Schwantes;\n\nAptenia cordifolia (L. fil) N. E. Br.;\n\nDisphyma crassifolium (L.) L. Bolus;\n\nLampranthus multiradiatus (Jacq.) N. E. Br.;\n\nCarpobrotus edulis (L.) N. E. Br. - chorão (I);\n\nCarpobrotus acinaformis (L.) L. Bolus;\n\nMesembryanthemum nodiflorum L. - erva-do-orvalho;\n\nMesembryanthemum crystallinum L. - erva-gelada.\n\nMolluginaceae:\n\nMollugo verticillata L.\n\nTetragoniaceae:\n\nTetragonia tetragonoides (Palas) O. Kuntze.\n\nPortulacaceae:\n\nPortulaca oleraceae L. subsp. stellata Danin & H. G. Baker;\n\nPortulaca oleraceae L. subsp. papillastellulata Danin & H. G. Baker;\n\nPortulaca oleraceae L. subsp. nitida Danin & H. G. Baker;\n\nMontia perfoliata (Donn ex. Wild) Howell.\n\nBasellaceae:\n\nBoussingaultia cordifolia Ten. - parra-de-madeira.\n\nCaryophyllaceae:\n\nSilene cretica L.;\n\nDianthus tripunctatus Silth.\n\nPapaveraceae:\n\nPapaver somniferum L. subsp. setigerum (DC.) Corb. - dormideira-brava;\n\nArgemone mexicana L.;\n\nEschscholzia californica Cham. - papoila-da-califórnia.\n\nFagaceae:\n\nQuercus rubra L. - carvalho-vermelho-americano.\n\nCruciferae:\n\nLunaria annua L.;\n\nSisymbrium polyceratium L.;\n\nSisymbrium erysimoides Desf.;\n\nIsatis tinetoria L.;\n\nLepidium campestre (L.) R. Br.;\n\nLepidium grandifolium L. subsp. grandifolium;\n\nLepidium ruderale L.;\n\nLepidium sativum L.;\n\nLepidium virginicum L. - mentruz;\n\nCoronopus didymus (L.) Sm.;\n\nRapistrum rugosum (L.) All. subsp. orientale (L.) Arcangeli.\n\nCrassulaceae:\n\nBryophylum pinnatum (Lam.) Oken;\n\nCrassula aquatica (L.) Schonl.;\n\nCrassula bonariensis (DC) Crambe;\n\nAichryson dichotomum (DC) Webb & Berth;\n\nAeonium arboreum (L.) Webb & Berth - saião.\n\nHydrangeae:\n\nHydrangea macrophylla (Thunb.) Seringe - hortênsia.\n\nPittosporaceae:\n\nPittosporum crassifolium Banks & Sol. ex. Cunningham;\n\nPittosporum undulatum Vent. - incenso (I);\n\nPittosporum tobira (Thunb.) Dryander.\n\nPlatanaceae:\n\nPlatanus hispanica Miller.\n\nRosaceae:\n\nRubus idaeus L.;\n\nRubus x loganobaccus L. H. Bailey;\n\nRosa moschata J. Hermam;\n\nRosa odorata var. gigantea (Crepin) Rehder & Wilson;\n\nRosa multiflora Thumb.;\n\nRosa wichuraiana Crépin;\n\nRosa gallica L. - rosa-da-provença;\n\nCydonia oblonga Miller - marmeleiro.\n\nLeguminosae:\n\nAcacia karroo Hayne (I);\n\nAcacia dealbata Link - mimosa (I);\n\nAcacia mearnsii De Wild. (I);\n\nAcacia longifolia - acácia-de-espigas (Andrews) Willd. (I);\n\nAcacia cyclops G. Don fil.;\n\nAcacia melanoxylon R. Br. - codeço-alto (I);\n\nAcaciapycnantha Bentham (I);\n\nAcacia cyanophylla Lindley (I);\n\nAcacia retinodes Sclecht. (I);\n\nAcacia decurrens (J. C. Wendl.) Willd.;\n\nAcacia farnesiana (L.) Willd.;\n\nAcacia molissima Willd.;\n\nVicia articulata Hornem.;\n\nVicia sativa L. subsp. macrocarpa (Moris) Arcangelli;\n\nVicia sativa L. subsp. sativa - ervilhaca;\n\nLathyrus sativus L. - chícharo;\n\nMelilotus italica (L.) Lam. - anafe-de-itália;\n\nMelilotus indica (L.) Lam.;\n\nMelilotus infesta Guss. - anafe-da-china;\n\nTrigonellafoenum-graecum L. - feno-galego;\n\nMedicago blancheana Boiss.;\n\nMedicago rugosa Desr. - luzerna-rugosa;\n\nRobinia pseudoacacia L. - falsa-acácia (I);\n\nHedysarum coronarium L. - sanfeno-de-espanha;\n\nCercis siliquastrum L. - olaia;\n\nGleditsia triacanthos L. - espinheiro-da-virgínia.\n\nOxalidaceae:\n\nOxalis articulata Savigny;\n\nOxalis corymbosa DC.;\n\nOxalis latifolia Kunth;\n\nOxalis pes-capraea L. - erva-canária (I);\n\nOxalis purpurea L.\n\nGeraniaceae:\n\nPelargonium radula (Cav.) L'Hér.\n\nTropaeolaceae:\n\nTropaelum majus L. - chagas.\n\nEuphorbiaceae:\n\nRicinus communis L. - bafureira;\n\nEuphorbia nutans Lag.;\n\nEuphorbia serpens Kunth;\n\nEuphorbia maculata L.;\n\nEuphorbia prostrata Aiton;\n\nEuphorbia lathyris L.\n\nSimaroubaceae:\n\nAilanthus altissima (Miller) Swingle - ailanto (I).\n\nAnacardiaceae:\n\nSchinus molle L.;\n\nSchinus terebinthifolia Raddi;\n\nRhus coriaria L. - sumagre.\n\nCactaceae:\n\nOpuntia ficus-indica (L.) Miller - figueira-da-índia.\n\nMyrtaceae:\n\nEucalyptus globulus Labill. - eucalipto;\n\nEucalyptus camalduensis Labill. - eucalipto.\n\nHaloragraceae:\n\nMyriophyllum brasiliensis Camb. - pinheirinho-de-água (I).\n\nTeligonaceae:\n\nHippuris vulgaris L.\n\nUmbelliferae:\n\nHydrocotyle bonariensis Lam. - chapéus;\n\nEryngium pandanifolium Cham. & Schlecht. (I);\n\nLilaeopsis atenuata (Hooker & Arnott) Fernald;\n\nApium leptophyllum (Pers.) Benth.\n\nAceraceae:\n\nAcer platanoides L.;\n\nAcer negundo L.\n\nOleaceae:\n\nLigustrum ovalifolium Hassk - alfanheiro-oval;\n\nLigustrum lucidum Aiton - alfanheiro-do-japão.\n\nAsclepidaceae:\n\nAraujia sericifera Brot.;\n\nGomphocarpus fruticosus (L.) Aiton fil. - sumauma.\n\nRubiaceae:\n\nRubia tinctorum L.\n\nConvolvulaceae:\n\nDichondra micranitha Urban;\n\nCuscuta campestris Yuncker;\n\nCuscuta suaveolens Ser. - cabelos;\n\nCalystegia sylvatica (Kit) Griseb.;\n\nConvolvulus farinosus L.;\n\nIpomaea acuminata (Vahl) Roemer & Schultes (I).\n\nHydrophyllaceae:\n\nPhacelia tanacetifolia Bentham;\n\nWigandia caracasana Kunth.\n\nBoraginaceae:\n\nHeliotropium curassavicum L.;\n\nAnchusa arvensis (L.) Bieb. subsp. orientalis (L.) Nordh;\n\nMyosotis latifolia Poiret.\n\nVerbenaceae:\n\nVerbena bonariensis L.;\n\nVerbena canadensis L.;\n\nLantana camara L.;\n\nLippia canescens Kurith.\n\nCallitrichaceae:\n\nCallitriche cribrosa Schotsman.\n\nLabiatae:\n\nMelissa officinalis L. subsp. officinalis;\n\nMentha requienii Bentham;\n\nMentha spicata L.;\n\nSalvia triloba L. fil.;\n\nSalvia sclarea L.\n\nSolanaceae:\n\nNicandra physalodes (L.) Gaertner;\n\nLycium barbarum L.;\n\nLycium chinense Miller;\n\nAtropa bella-dona L. - bela-dona;\n\nPhysalis ixocarpa Brot.;\n\nPhysalis peruviana L.;\n\nSalpichroa origanifolia (Lam.) Baillon;\n\nCapsicum frutescens L.;\n\nSolanum pseudocapsicum L. - erva-moira;\n\nSolanum capsicastrum Schauer - cereja-de-inverno;\n\nSolanum marginatum L. fil.;\n\nSolanum melongena L.;\n\nSolanum sublobatum Roemer & Schultes;\n\nSolanum sodomaeus L.;\n\nSolanum citrulifolium A. Braun;\n\nDatura stramonium L. - figueira-do-inferno (I);\n\nDatura innoxia Miller;\n\nNicotiana rustica L.;\n\nNicotiana glauca R. C. Graham - charuto-do-rei.\n\nScrophulariaceae:\n\nLindernia procumbens (Krocker) Philcox;\n\nLindernia dubia (L.) Pennell - manjerico;\n\nBacopa monnieri (L.) Pennell;\n\nVerbascum levanticum I. K. Ferguson;\n\nCymbalaria muralis P. Gaertner, B. Meyer & Schreb.;\n\nVeronicapersica Poiret;\n\nHebe x andersonii;\n\nSibthorpia peregrina L.;\n\nMimulus moschatus Douglas ex Lindley.\n\nMartyniaceae:\n\nProboscidea louisianica (Miller) Thell.\n\nMyoporaceae:\n\nMyoporum tenuifolium G. Foster - mioporum;\n\nMyoporuni acuminatum R. Br. - mulatas;\n\nMyoporum tetrandrum (Labill.) Domin.\n\nCaprifoliaceae:\n\nLonicera japonica Thurb. - madressilva;\n\nSymphoricarpus albus (L.) S. F. Blake.\n\nValerianaceae:\n\nFedia scorpioides Dufresne.\n\nDipsacaceae:\n\nDipsacus sativus (L.) Honckeny - cardo-penteador.\n\nCampanulaceae:\n\nLegousia speculum-veneris (L.) Chaix.\n\nComposiatae:\n\nEupatorium adenophorum Sprengel - abundância;\n\nAster lanceolatus Willd. - mata-jornaleiros;\n\nAster squamatus (Sprengel) Hieron.;\n\nErigeron karvinskianus DC. - vitadínia-das-floristas (I);\n\nConyza ivifolia (L.) Less.;\n\nConyza canadensis (L.) Cronq. - avoadinha; erva-pau;\n\nConyza albida Sprengel;\n\nConyza x rouyana Sennen (Conyza albida x canadensis);\n\nConyza bonariensis (L.) Cronq. - avoadinha-peluda (I);\n\nConyza x mixta Fouc. & Neyr. (Conyza bonariensis x canadensis);\n\nGamochaeta subfalcata (Cabrera) Cabrera;\n\nGamochaeta calviceps (Fernald) Cabrera;\n\nGamochaeta pensylvanica (Willd.) Cabrera;\n\nGamochaeta spicata (Lam.) Cabrera;\n\nHelichrysum petiolare Hillard & B. L. Burtt - sempre-noiva-das-floristas;\n\nHelichrysum foetidum (L.) Cass. - perpétua-fétida;\n\nPlecostachys serpyllifolia (Berg.) Hilliard;\n\nBidens aurea (Aiton) Sherff - chá-de-marrocos;\n\nBidens frondosa L. - erva-rapa;\n\nBidens pilosa L. - amor-de-burro;\n\nEclipta prostrata (L.) L. - verbesina;\n\nHelianthus anuus L. - girassol;\n\nAmbrosia artemisifolia L. - ambrósia;\n\nAgeralum houstonianum Miller;\n\nGalinsoga parviflora Cav. - erva-da-moda (I);\n\nGalinsoga ciliata (Rafin) S. F. Blake;\n\nSantolina chamaecyparissus L.;\n\nChamomilla suaveolens (Pursh) Rydb.;\n\nChrysanthemum segetum L.;\n\nTanacetum vulgare L.;\n\nTanacetum parthenicum (L.) Schultz Bip.;\n\nLeucanthemum paludosum (Poiret) Bonnet & Banatte;\n\nCotula coronopifolia L. - botões-de-latão;\n\nCotula australis (Sprengel) Hooker fil.;\n\nSoliva pterosperma (Juss.) Less.;\n\nGymnostyles stolonifera (Brot.) Tutin;\n\nArtemisia verlotiorum Lamotte:\n\nPetasites fragrans (Vill.) C. Presl;\n\nSenecio elegans L.;\n\nSenecio mikanioides Walpers;\n\nSenecio angulatus L. fil.;\n\nSenecio bicolor (Willd.) Tod. subsp. cinerea (DC.) Chater (I);\n\nSenecio leucanthemifolius Poiret;\n\nArctotheca calendula (L.) Levyns - erva-gorda (I);\n\nGazania rigens (L.) Gaertner;\n\nPtilostemon casabonae (L.) W. Greuter;\n\nLeontodon muelleri (Schultz Bip) Fiori.\n\nHydrocharitaceae:\n\nElodea canadensis Mich - estrume-novo (I);\n\nBlyxa japonica (Miq.) Maxim.\n\nJuncaginaceae:\n\nTriglochin striata Ruiz & Pavón.\n\nLilaeaceae:\n\nLilaea scilloides (Poiret) Hauman.\n\nLiliaceae:\n\nAloe vera (L.) Bum. fil. - aloé;\n\nAloe arborescens Miller;\n\nTulipa clusiana DC. - marquesinhas;\n\nTulipa praecox Ten.;\n\nOrnithogalum arabicum L.;\n\nAllium triquetrum L. - alho-bravo;\n\nNothoscordum gracile (Aiton) Stearn;\n\nAsparagus asparagoides (L.) Druce - alegra-campo;\n\nLilium candidum L. - açucena; cajado-de-são-josé.\n\nAgavaceae:\n\nAgave atrovirens Salm-Dyck;\n\nAgave americana L. - piteira.\n\nAmaryllidaceae:\n\nAmaryllis bella-dona L. - bordão-de-são-josé.\n\nPontederiaceae:\n\nHeteranthera reniformis Ruiz & Pavón - espiga-azul-de-folha-redonda;\n\nHeteranthera rotundifolia (Kunth) Griseb.;\n\nEichornia crassipes (C. F. P. Mart.) Solms. - Laub. - jacinto-de-água (I).\n\nIridaceae:\n\nIris germanica L. - lírio-roxo;\n\nIris albicans Lange - lírio-branco;\n\nFerraria crispa Burm.;\n\nIxya paniculata Delaroche - alfenim;\n\nWatsonia bulbilifera Mathews & L. Bolus;\n\nFreesia refracta (Jacq.) Klatt - frésia;\n\nTritonia x crocosmifolia (Lemoine) Nicholson;\n\nSparaxis bulbifera (L.) Ker-Gawler;\n\nSparaxis tricolor (Curtis) Ker-Gawler;\n\nGladiolus undulatus L.\n\nCommelinaceae:\n\nTrandescantia fluminensis Velloso - erva-da-fortuna (I).\n\nGraminae:\n\nBromus secalinus L.;\n\nBromus catharticus Vahl;\n\nHordeum bulbosum L.;\n\nGastridium phleoides (Nees & Meyen) C. E. Hubbard;\n\nPhalaris canariensis L. - alpista;\n\nArundo donax L. - cana;\n\nSporobolus indicus (L.) R. Br.;\n\nEleusine indica (L.) Gaertner - pé-de-galo;\n\nSpartina densiflora Brongn. (I);\n\nEhrharta calycina Sm.;\n\nEhrharta erecta Lam.;\n\nPanicum miliaceum L. - milho-miúdo;\n\nPanicum capillare L.;\n\nPanicum dicholomiflorum Michx;\n\nEchinochloa colonum (L.) Link;\n\nEchinochloa oryzicola (Vasinger) Vasinger - milhã-do-arroz;\n\nPaspalum dilatatum Poiret in Lam.;\n\nPaspalum urvillei Steudel;\n\nPaspalum paspalodes (Michx) Scribne - alcanache;\n\nPaspalum vaginatum Swartz. - gramão;\n\nStenotaphrum secundatum (Walter) O. Kuntze;\n\nSetaria parviflora (Poiret) Kerguélen;\n\nSetaria adhaerens (Forskal) Chiov.;\n\nSetaria faberi (L.) Beauv.;\n\nSetaria italica (L.) Beauv.;\n\nPennisetum villosum Fresen;\n\nCortaderia selloana (J. A. & J. H. Schultes) Aschers & Graebner.\n\nCyperaceae:\n\nEleocharis flacescens (Poir.) Urban;\n\nCyperus alterniflorus L. - papiro."
+  },
+  "44351575": {
+   "fragment_id": "35295975",
+   "type": 14,
+   "heading": "Anexo II — Espécies não indígenas com interesse para a arborização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Espécies não indígenas com interesse para a arborização\n\nGymnospermae\n\nPodocarpaceae:\n\nPodocarpus totara D. Don ex Lambert.\n\nAraucariaceae:\n\nAraucaria heterophylla (Salisbury) Franco.\n\nPinaceae:\n\nAbies nordmanniana (Steven) Spach;\n\nAbies pinsapo Boissier;\n\nLarix decidua Miller;\n\nLarix x eurolepis A. Henry;\n\nPicea abies (L.) Link;\n\nPicea sitchensis (Bongard) Carrière;\n\nPinus brutia Tenot;\n\nPinus canariensis C. Smith;\n\nPinus eldarica Medwedew;\n\nPinus muricata D. Don;\n\nPinus radiata D. Don;\n\nPinus uncinata Miller ex Mirbel;\n\nPinus wallichiana Jackson;\n\nTaxodiacea:\n\nCryptomeria japonica (L. f.) D. Don;\n\nSequoia sempervirens (D. Don) Endl.;\n\nTaxodium distichum (L.) Richards.\n\nCupressaceae:\n\nCalocedrus decurrens (Torrey) Florin;\n\nChamaecyparis obtusa (Siebold & Zuccarini) Endi.;\n\nCupressus arizonica Greene;\n\nJuniperus virginiana L.;\n\nThuja plicata D. Don.\n\nAngiospermae\n\nAceraceae:\n\nAcer campestre L. - bordo.\n\nBetulaceae:\n\nAlnus cordata Desfontaines - amieiro-napolitano;\n\nBetula pendula Rothwell - vidoeiro.\n\nBignoniaceae:\n\nCatalpa bignonioides Walter - catalpa.\n\nCasuarinaceae:\n\nCasuarina cunninghamiana Miquel - casuarina-ténue;\n\nCasuarina equisetifolia L. - casuarina-cavalinha.\n\nFagaceae:\n\nCastanea crenata Siebold & Zuccarini - castanheiro-do-japão,\n\nNothofagus obliqua (Mirbel) Blume - roble-do-chile;\n\nQuercus cerris L. - carvalho-turco;\n\nQuercus coccinea Muenchhausen - carvalho-vermelho-americano;\n\nQuercus palustris Muenchhausen - carvalho-vermelho-americano.\n\nHammamelidaceae:\n\nLiquidambar styraciflua L. - liquidâmbar.\n\nHippocastanaceae:\n\nAesculus hippocastanum L. - castanheiro-da-índia;\n\nAesculus x carnea Hayne - castanheiro-da-índia.\n\nJunglandaceae:\n\nCarya illioinensis (Wangenheim) K. Koch - cária-branca;\n\nJunglans nigra L. - nogueira-preta;\n\nJunglans regia L. - nogueira.\n\nLauraceae:\n\nCinnamomum camphora (L.) Siebold - canforeira.\n\nLeguminosae:\n\nAlbizzia julibrissin Durazz. - albízia-de-constantinopla;\n\nAIbizzia lophanta (Will.) Benth - albízia;\n\nSophora japonica L. - sófora-do-japão.\n\nMagnoliaceae:\n\nLiriodendron tulipiferum L. - tulipeiro.\n\nMoraceae:\n\nMorus alba L. - amoreira-branca;\n\nMorus nigra L. - amoreira-negra.\n\nMyrtaceae:\n\nEucaliptus x algeriensis Trabut. - eucalipto;\n\nEucaliptus botryoides Smith - eucalipto;\n\nEucaliptus cladocalyx Muller - eucalipto;\n\nEucaliptus cornuta Labill. - eucalipto;\n\nEucaliptus dalrympleana Maiden - eucalipto;\n\nEucaliptus diversicolor Muller - eucalipto;\n\nEucaliptus gomphocephala De Candolle - eucalipto;\n\nEucaliptus grandis (Hill.) Maiden - eucalipto;\n\nEucaliptus gunnii Hoker f. - eucalipto;\n\nEucaliptus rirtoniana Muiler - eucalipto;\n\nEucaliptus maideni Muller - eucalipto;\n\nEucaliptus nitens Maiden - eucalipto;\n\nEucaliptus obliqua L'Hérit. - eucalipto;\n\nEucaliptus polyanthemos Schauer - eucalipto;\n\nEucaliptus resinifera Smith - eucalipto;\n\nEucaliptus robusta Smith - eucalipto;\n\nEucaliptus rudis Endl. - eucalipto;\n\nEucaliptus sideroxylon (A. Cunn.) - eucalipto;\n\nEucaliptus smithii R. T. Baker - eucalipto;\n\nEucaliptus tereticornis Smith - eucalipto;\n\nEucaliptus x trabuti Vilmorin ex Trabut - eucalipto;\n\nMelaleuca armilaris Smith - melaleuca;\n\nMetrosiderus excelsa Soland ex Gaertn. - metrosídero;\n\nMetrosiderus robustus A. Cunn. - metrosídero-robusto.\n\nOleaceae:\n\nFraxinus americana L. - freixo-americano;\n\nFraxinus excelsior L. - freixo-europeu;\n\nFraxinus pennsylvanica Marsh - freixo-americano;\n\nLigustrum lucidum Aiton fil. - alfenheiro-da-china.\n\nScrophullariaceae:\n\nPaulownia tomentosa (Thunberg) Steudel - paulónia.\n\nTiliaceae:\n\nTilia cordata Miller - tília-de-folhas-pequenas;\n\nTilia platyphyllos Scopoli - tília-de-folhas-grandes;\n\nTilia tomentosa Moench - tília-prateada."
+  },
+  "44351675": {
+   "fragment_id": "35296075",
+   "type": 14,
+   "heading": "Anexo III — Espécies não indígenas com risco ecológico conhecido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Espécies não indígenas com risco ecológico conhecido\n\nFauna\n\nInvertebrados\n\nCrustáceos:\n\nProcambarus clarckii.\n\nMoluscos:\n\nDreissena polymorpha;\n\nDreissena bugensis.\n\nVertebrados\n\nPeixes dulciaquícolas:\n\nPerca fluviatilis;\n\nLepomys cyanellus;\n\nLepomys gibbosus;\n\nLates niloticus;\n\nOreochromis niloticus;\n\nOreochromis leucocistus;\n\nTilapia zilli;\n\nTilapia melanopleura;\n\nStizostedion vitreum;\n\nStizostedion lucioperca;\n\nGymnocephalus cernuus;\n\nHypophthalmickthys molitrix;\n\nOsmerus mordax;\n\nMisgurnus anguillicaudatus;\n\nGambusia holbrooki;\n\nSiluros glanis.\n\nAnfíbios:\n\nRana catesbeiana.\n\nRépteis:\n\nChrysemys picta;\n\nTrachemys scrypla;\n\nChelydra serpentina;\n\nMacroclemys temminckii.\n\nAves:\n\nOxyura jamaicensis.\n\nMamíferos:\n\nRodentia:\n\nSciurus carolinensis;\n\nMyocastor coypus;\n\nOndatra zibethicus;\n\nCastor fiber;\n\nCastor canadensis;\n\nCarnivora:\n\nMustela vison;\n\nProcyon lotor;\n\nNyctereutes procyonoides.\n\nFlora\n\nPteridophyta\n\nFilicopsida:\n\nAzollaceae:\n\nAzolla spp.\n\nDicotiledoneae\n\nAmaranthaceae:\n\nAlternanthera philoxeroides (C. Martius) Griseb;\n\nAlternanthera caracasana;\n\nAlternanthera nodiflora;\n\nAlternanthera herapungens Kunth.\n\nPolygonaceae:\n\nReynoutria japonica Houtt. (Fallopia japonica, Polygonum cuspidatum).\n\nLeguminosae:\n\nAcacia farnesiana (L.) Willd.;\n\nPueraria lobata (Willd.) Maesen & S. Almeida.\n\nOnagraceae:\n\nLudwigia peploides;\n\nLudwigia uruguayensis.\n\nBalsaminaceae:\n\nImpatiens glandulifera Royle.\n\nCompositae:\n\nSenecio inaequidens DC.\n\nMonocotiledoneae\n\nAlismataceae:\n\nSagittaria latifolia Willd.\n\nHydrocharitaceae:\n\nHydrilla certicillata (L. f.) C. Presl.\n\nAraceae:\n\nPistia stratioides L."
+  },
+  "44351775": {
+   "fragment_id": "35296175",
+   "type": 14,
+   "heading": "Anexo IV — Modelo do extracto-resumo a afixar pelos comerciantes nos estabelecimentos de plantas ornamentais e animais de companhia conforme preconizado pelo n.º 1 do artigo 15.º Espécies não indígenas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Modelo do extracto-resumo a afixar pelos comerciantes nos estabelecimentos de plantas ornamentais e animais de companhia conforme preconizado pelo n.º 1 do artigo 15.º Espécies não indígenas\n\nUma espécie não indígena (ou espécie exótica) é uma espécie da flora ou da fauna não originária de Portugal e nunca registada como tendo ocorrido naturalmente no nosso país. No caso das espécies aquáticas, considera-se que uma espécie é não indígena se não for originária de uma bacia hidrográfica.\n\nMuitas espécies não indígenas foram introduzidas em Portugal com particulares benefícios (por exemplo, a batata). Contudo, muitas outras podem ser muito prejudiciais, como é o caso do jacinto-d'água e da perca-sol.\n\nO Decreto-Lei n.º 565/99, de 21 de Dezembro, pretende regulamentar a introdução intencional ou acidental de espécies não indígenas em Portugal continental e nas suas bacias hidrográficas.\n\nPara isso, considera que uma introdução é o estabelecimento de populações selvagens de uma espécie não indígena em local não confinado. Uma introdução pode originar situações de predação ou competição com espécies nativas e a transmissão de agentes patogénicos ou de parasitas e afectar seriamente a diversidade biológica, as actividades económicas ou a saúde pública. Uma introdução pode causar prejuízos irreversíveis e de difícil contabilização, tanto mais que o controlo ou erradicação de uma espécie introduzida é especialmente complexo e oneroso.\n\nPor esse motivo são proibidas a disseminação ou libertação na Natureza de espécimes de espécies não indígenas, com ou sem o propósito de estabelecer populações selvagens.\n\nA única excepção, sujeita a autorização, é a disseminação ou a libertação na Natureza de espécimes de espécies não indígenas, visando o estabelecimento de populações selvagens, quando existam vantagens inequívocas para o Homem ou para as biocenoses naturais, desde que não haja nenhuma espécie indígena apta para o mesmo fim e seja elaborado um estudo do impacte da introdução. É abrangida por esta excepção a utilização de espécies não indígenas para aquicultura ou apicultura.\n\nPara prevenir as introduções acidentais são proibidos a cedência, a compra, a venda, a oferta de venda, o transporte, o cultivo, criação ou detenção em local confinado, a exploração económica e a utilização como planta ornamental ou animal de companhia de espécies identificadas como invasoras e de espécies consideradas como comportando risco ecológico, salvo, quando autorizado, para fins científicos e educativos.\n\nAinda como prevenção de introduções acidentais os estabelecimentos que detêm espécimes de espécies não indígenas, salvo se forem espécies de exploração agrícola ou zootécnica, estão sujeitos a licenciamento específico, dependente das suas condições sanitárias e de segurança e do registo dos espécimes comercializados.\n\nAs infracções a estas proibições e condições constituem contra-ordenações puníveis com coimas que podem ir de 30000$00 a 750000$00, multiplicáveis até 12 vezes se praticadas por pessoas colectivas, e com sanções acessórias como a apreensão dos espécimes, a interdição do exercício da actividade, o encerramento do estabelecimento ou a suspensão de autorizações e licenças.\n\nEste extracto-resumo deve ser afixado pelos comerciantes de plantas ornamentais ou de animais de companhia em local bem visível do seu estabelecimento."
+  },
+  "44926775": {
+   "fragment_id": "35189475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2003-10-12",
+   "changed_by": [
+    "Alterado pelo/a Assinatura do/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727), em vigor a partir de 1999-12-26",
+    "Alterado pelo/a Artigo 56.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-12"
+   ],
+   "markdown": "A introdução de espécies não indígenas na Natureza pode originar situações de predação ou competição com espécies nativas, a transmissão de agentes patogénicos ou de parasitas e afectar seriamente a diversidade biológica, as actividades económicas ou a saúde pública, com prejuízos irreversíveis e de difícil contabilização. Acresce que, quando necessário, o controlo ou a erradicação de uma espécie introduzida, que se tornou invasora, são especialmente complexos e onerosos.\n\nNo entanto, a introdução de algumas espécies não indígenas e a sua exploração revelaram-se como factores importantes para o desenvolvimento da economia nacional, nomeadamente para o aumento da variedade e disponibilidade dos recursos alimentares, como são exemplos históricos a batata e o milho.\n\nConscientes destes factos, pretendeu-se condicionar a introdução na Natureza de espécies não indígenas, com excepção das destinadas à exploração agrícola.\n\nMas, porque existe o equívoco generalizado de que a um maior número de espécies na Natureza corresponde, no imediato e a longo prazo, uma maior diversidade biológica, pretendeu-se ainda acentuar a dimensão pedagógica necessária à aplicação de princípios de conservação da integridade genética do património biológico autóctone e de prevenção das libertações intencionais ou acidentais de espécimes de espécies não indígenas potencialmente causadores de alterações negativas nos sistemas ecológicos.\n\nNesse sentido, interdita-se genericamente a introdução intencional de espécies não indígenas na Natureza, visando-se assim promover também o recurso a espécies autóctones aptas para os mesmos fins. Quanto às introduções acidentais, definem-se medidas relativas à exploração de espécies não indígenas em local confinado, sujeitando-se os estabelecimentos ou as entidades que as detenham a licenciamento e ao cumprimento de normas mínimas de segurança como forma de prevenção.\n\nEsta regulamentação vem atender às obrigações internacionalmente assumidas por Portugal, ao aprovar, para ratificação, através do Decreto n.º 95/81, de 23 de Julho, a Convenção de Berna, pelo Decreto n.º 103/80, de 11 de Outubro, a Convenção de Bona, e pelo Decreto n.º 21/93, de 21 de Junho, a Convenção da Biodiversidade, que preconizam a adopção de medidas que condicionem as introduções intencionais e evitem as introduções acidentais, bem como o controlo ou a erradicação das espécies já introduzidas. Também a Lei de Bases do Ambiente, Lei n.º 11/87, de 7 de Abril, no seu artigo 15.º, n.º 6, preconiza a elaboração de legislação adequada à introdução de exemplares exóticos da flora e, no seu artigo 16.º, n.º 3, a adopção de medidas de controlo efectivo, severamente restritivas, no âmbito da introdução de qualquer espécie animal selvagem, aquática ou terrestre.\n\nOuvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira:\n\nNos termos do n.º 6 do artigo 15.º e do n.º 3 do artigo 16.º da Lei n.º 11/87, de 7 de Abril, e da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:\n\n> Alterado pelo/a Assinatura do/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727), em vigor a partir de 1999-12-26\n\n> Alterado pelo/a Artigo 56.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-12"
+  },
+  "44812775": {
+   "fragment_id": "36571575",
+   "type": 11,
+   "heading": "Artigo 4.º — Excepções",
+   "in_force_from": "1999-12-26",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+   ],
+   "markdown": "###### Artigo 4.º — Excepções\n\n1 - Mediante despacho conjunto dos membros do Governo com a tutela do ambiente, da saúde e da actividade económica ou científica em causa, sob proposta do Instituto da Conservação da Natureza (ICN), e ouvida a Direcção-Geral das Florestas (DGF), pode excepcionalmente ser permitida uma introdução na Natureza, verificadas cumulativamente as seguintes situações:\n\na) Existam vantagens inequívocas para o Homem ou para as biocenoses naturais;\n\nb) Não haja nenhuma espécie indígena apta para o fim pretendido;\n\nc) Seja precedida da elaboração de um estudo de impacte aprofundado e minuciosamente planificado, cujas conclusões são relevantes para a autorização.\n\n2 - Sempre que esteja em causa a introdução de espécies para fins florestais, cinegéticos ou aquícolas, a proposta referida no artigo anterior é da competência da DGF, ouvido o ICN, com excepção das áreas referidas no n.º 4 do presente artigo.\n\n3 - O estudo de impacte referido na alínea c) do n.º 1 é da responsabilidade do interessado e deve conter elementos sobre:\n\na) A taxonomia, etologia e ecologia, nomeadamente habitat, dieta e relações interespecíficas, da espécie em causa;\n\nb) A biologia da reprodução, as patologias, a capacidade de dispersão e os riscos de hibridação com espécies indígenas;\n\nc) O habitat de suporte, compreendendo a avaliação das consequências da introdução sobre esse habitat e os circundantes e das medidas apropriadas para reduzir ou minimizar os seus efeitos negativos;\n\nd) Os riscos da introdução em causa, bem como das medidas que possam ser tomadas para eliminar ou controlar a população introduzida, caso surjam efeitos imprevistos e danosos dessa introdução;\n\ne) As introduções da espécie em causa noutros locais, quando existam, e as suas consequências;\n\nf) A identificação da entidade responsável pelo processo de introdução em causa e a descrição dos métodos a utilizar.\n\n4 - A excepção referida no n.º 1, quando referente a introduções em áreas protegidas, zonas de protecção especial, sítios da lista nacional de sítios, ilhas sem população humana residente, lagoas e lagunas naturais, só é aplicável no caso de essa introdução ser a única acção eficaz para a conservação da Natureza ou para a salvaguarda da saúde ou segurança públicas.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+  },
+  "44926675": {
+   "fragment_id": "36571975",
+   "type": 11,
+   "heading": "Artigo 8.º — Espécies invasoras e de risco ecológico",
+   "in_force_from": "2003-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-12, produz efeitos a partir de 2003-10-12"
+   ],
+   "markdown": "###### Artigo 8.º — Espécies invasoras e de risco ecológico\n\n1 - As espécies invasoras e as espécies que comportam risco ecológico encontram-se classificadas, respectivamente, nos anexos I e III, os quais fazem parte integrante do presente diploma.\n\n2 - É proibido o cultivo, a criação ou a detenção em local confinado e a utilização como planta ornamental ou animal de companhia de espécimes das espécies constantes do anexo I identificadas como invasoras; a cedência, a compra, a venda, a oferta de venda e o transporte de espécimes das espécies constantes do anexo I identificadas como invasoras fica restrita a espécimes ou partes de espécimes não-vivos e sem propágulos viáveis, como forma de prevenir a possibilidade de introdução ou de repovoamento através de evadidos.\n\n3 - É proibida a cedência, a compra, a venda, a oferta de venda, o transporte, o cultivo, a criação ou a detenção em local confinado, a exploração económica e a utilização como planta ornamental ou animal de companhia de espécimes das espécies constantes do anexo III consideradas como comportando risco ecológico, como forma de prevenir a possibilidade de introdução na Natureza ou de repovoamento a partir de evadidos.\n\n4 - O disposto nos números anteriores não é aplicável à cedência, compra, venda, transporte, cultivo, criação e detenção em local confinado, quando praticados para fins científicos e educativos por entidades devidamente licenciadas, nos termos dos artigos seguintes, desde que cumpridas as particulares condições de segurança exigidas, atendendo ao risco específico de cada uma das espécies em causa.\n\n> Alterado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-12, produz efeitos a partir de 2003-10-12"
+  },
+  "44813175": {
+   "fragment_id": "36572275",
+   "type": 11,
+   "heading": "Artigo 11.º — Requisitos de segurança",
+   "in_force_from": "1999-12-26",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+   ],
+   "markdown": "###### Artigo 11.º — Requisitos de segurança\n\n1 - As instalações destinadas a deter espécimes de espécies não indígenas devem obedecer a requisitos mínimos de segurança que impeçam a sua evasão ou disseminação.\n\n2 - Os requisitos mínimos referidos no número anterior são definidos por portaria conjunta dos membros do Governo com a tutela do ambiente, da ciência e da actividade económica em causa.\n\n3 - Sem prejuízo dos requisitos mínimos referidos nos números anteriores, a detenção, cultivo, criação e transporte, ao abrigo da excepção prevista no n.º 4 do artigo 8.º, de espécies identificadas como invasoras ou consideradas como comportando risco ecológico estão sujeitos a condições de segurança particulares definidas na licença prevista no artigo 9.º, em função do risco específico das espécies em causa.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+  },
+  "44829775": {
+   "fragment_id": "36573275",
+   "type": 11,
+   "heading": "Artigo 21.º — Contra-ordenações e coimas",
+   "in_force_from": "1999-12-26",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+   ],
+   "markdown": "###### Artigo 21.º — Contra-ordenações e coimas\n\n1 - As infracções ao disposto no presente diploma constituem contra-ordenações puníveis, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, com uma coima:\n\na) De 350000$00 a 750000$00, em caso de disseminação ou libertação intencional na Natureza de espécimes de espécies não indígenas, com vontade deliberada de efectuar uma introdução não autorizada, por violação do disposto no artigo 3.º, ou para a exploração em local não confinado, por violação do disposto no n.º 2 do artigo 7.º;\n\nb) De 300000$00 a 700000$00, em caso de repovoamento de espécies invasoras, por violação do disposto no artigo 17.º;\n\nc) De 250000$00 a 650000$00, em caso de disseminação ou libertação intencional na Natureza de espécimes de espécies não indígenas, sem vontade deliberada de provocar uma introdução, por violação do disposto no n.º 1 do artigo 7.º;\n\nd) De 200000$00 a 600000$00, em caso de prática de actos ou actividades proibidas quando tenham por objecto espécies invasoras ou que comportam risco ecológico, por violação do disposto nos n.os 2 e 3 do artigo 8.º;\n\ne) De 150000$00 a 550000$00, em caso de falta de licença para deter espécies não indígenas ou de falta de licença específica para as espécies não indígenas detidas, por violação do disposto no n.º 1 do artigo 9.º e do n.º 5 do artigo 12.º;\n\nf) De 150000$00 a 500000$00, em caso de falsas declarações para obtenção de licença para deter espécies não indígenas;\n\ng) De 100000$00 a 450000$00, em caso de não cumprimento de alguma das obrigações dos estabelecimentos que detêm espécimes de espécies não indígenas, por violação do disposto no n.º 3 do artigo 11.º, nas alíneas a), b), c) ou d) do n.º 2 do artigo 10.º, no n.º 2 do artigo 12.º ou no n.º 1 do artigo 15.º;\n\nh) De 100000$00 a 400000$00, em caso de não sujeição a quarentena, ou de desrespeito das condições a observar para a mesma, dos espécimes de espécies não indígenas cuja introdução tenha sido autorizada, por violação do disposto no artigo 6.º;\n\ni) De 30000$00 a 100000$00, em caso de não requerimento atempado do licenciamento dos estabelecimentos existentes que detêm espécimes de espécies não indígenas, por violação do disposto no n.º 1 do artigo 12.º\n\n2 - Se o infractor for uma pessoa colectiva, os montantes mínimos e máximos previstos no número anterior podem ser multiplicados até 12 vezes.\n\n3 - A tentativa e a negligência são sempre puníveis.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+  },
+  "44351875": {
+   "fragment_id": "35296275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.\n\nPromulgado em 29 de Novembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Dezembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "114190058": {
+   "fragment_id": "36572075",
+   "type": 11,
+   "heading": "Artigo 9.º — Estabelecimentos de detenção de espécies não indígenas",
+   "in_force_from": "2017-04-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05"
+   ],
+   "markdown": "###### Artigo 9.º — Estabelecimentos de detenção de espécies não indígenas\n\n1 - Os jardins botânicos, estufas, viveiros, hortos, lojas de plantas, jardins e parques zoológicos, safaris, circos e outras actividades de exibição de animais selvagens, aquários ou lojas de animais que detenham espécimes de espécies não indígenas, sem prejuízo de outras licenças legalmente exigidas e do disposto no n.º 3 e no artigo 14.º, necessitam de uma licença para deter espécies não indígenas, especificando quais as espécies detidas.\n\n2 - A licença para detenção de espécies não indígenas é concedida pelo ICN.\n\n3 - No caso dos procedimentos de instalação e exploração de estabelecimentos em águas interiores e estabelecimentos conexos, o ICNF emite parecer obrigatório e vinculativo, sem prejuízo do cumprimento dos requisitos de licenciamento previsto no presente diploma.\n\n4 - O disposto nos números anteriores não se aplica às espécies objecto de exploração agrícola, desde que incluídas nos catálogos comuns de variedades de espécies agrícolas e hortícolas, nem às espécies objecto de exploração zootécnica.\n\n> Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05"
+  },
+  "146892218": {
+   "fragment_id": "35295175",
+   "type": 1,
+   "heading": "Capítulo I — Disposições introdutórias",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "### Capítulo I — Disposições introdutórias\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892219": {
+   "fragment_id": "36571275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma regula a introdução na Natureza de espécies não indígenas da flora e da fauna.\n\n2 - A introdução, utilização e detenção de organismos geneticamente modificados, ou de produtos que os contenham, é regulado por legislação própria.\n\n3 - As espécies não indígenas constantes do anexo I, que faz parte integrante deste diploma, com excepção das indicadas como invasoras, são consideradas para efeitos deste diploma, em cada um dos territórios em que estejam referenciadas, como espécies indígenas.\n\n4 - As espécies não indígenas constantes do anexo II, que faz parte integrante deste diploma, são consideradas para efeitos deste diploma como espécies indígenas.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892220": {
+   "fragment_id": "36571375",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Espécie - conjunto de indivíduos inter-reprodutores com a mesma morfologia hereditária e um ciclo de vida comum, incluindo quaisquer subespécies ou as suas populações geograficamente isoladas;\n\nb) Espécime - qualquer indivíduo vivo de uma espécie da flora ou da fauna, incluindo propágulos, sementes e ovos;\n\nc) Não indígena - qualquer espécie, da flora ou da fauna, não originária de um determinado território e nunca aí registada como ocorrendo naturalmente e com populações auto-sustentadas durante os tempos históricos;\n\nd) Território - unidade geográfica equivalente ao continente ou a cada uma das ilhas das Regiões Autónomas dos Açores e da Madeira ou, no caso de espécies aquáticas dulciaquícolas, equivalente a cada uma das bacias hidrográficas;\n\ne) Habitat - conjunto dos elementos físicos e biológicos que uma determinada espécie utiliza para desenvolver o seu ciclo de vida;\n\nf) Introdução na Natureza - estabelecimento de populações selvagens num local não confinado, através de um acto de disseminação ou de libertação, intencional ou acidental, de um ou mais espécimes de uma espécie não indígena;\n\ng) Local confinado - espaço demarcado e cercado por barreiras físicas, químicas ou biológicas, destinado ao cultivo ou criação de uma ou mais espécies ou onde as mesmas são mantidas apenas por acção do Homem, incluindo os campos agrícolas e excluindo as explorações de aquacultura;\n\nh) Evadido - espécime de uma espécie não indígena importado e detido legalmente, ou um seu descendente, e disseminado ou posto em liberdade, acidental ou intencionalmente, mas sem vontade deliberada de efectuar uma introdução;\n\ni) Clandestino - espécime de uma espécie não indígena importado acidentalmente, associado a um espécime de uma espécie não indígena importado e detido legalmente ou aos seus produtos e embalagens;\n\nj) Repovoamento - disseminação ou libertação, num determinado território, de um ou mais espécimes de uma espécie indígena ou de uma espécie não indígena aí previamente introduzida;\n\nl) Risco ecológico - impacte negativo potencial, susceptível de causar uma modificação significativa nos ecossistemas de um dado território;\n\nm) Animal de companhia - qualquer animal detido ou destinado a ser detido pelo Homem, designadamente em sua casa, para seu entretenimento e enquanto companhia;\n\nn) Planta ornamental - qualquer planta detida ou destinada a ser detida pelo Homem, designadamente em sua casa e respectivos anexos, com fins estéticos;\n\no) Espécie invasora - espécie susceptível de, por si própria, ocupar o território de uma forma excessiva, em área ou em número de indivíduos, provocando uma modificação significativa nos ecossistemas;\n\np) Anexo I - anexo a este diploma que inclui as espécies da flora e da fauna não indígenas, com a discriminação, para o caso das espécies aquáticas, dos territórios onde se estabeleceram e a sua classificação, quando apropriado, como espécie invasora;\n\nq) Anexo II - anexo a este diploma que inclui as espécies não indígenas com interesse para a arborização;\n\nr) Anexo III - anexo a este diploma que inclui as espécies da flora e da fauna não indígenas que comportam risco ecológico conhecido;\n\ns) Anexo IV - anexo a este diploma que contém o modelo do extracto-resumo do presente diploma, destinado a ser afixado pelos comerciantes de plantas ornamentais e animais de companhia.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892221": {
+   "fragment_id": "35295275",
+   "type": 1,
+   "heading": "Capítulo II — Introdução intencional na Natureza",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "### Capítulo II — Introdução intencional na Natureza\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892222": {
+   "fragment_id": "36571475",
+   "type": 11,
+   "heading": "Artigo 3.º — Interdição",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 3.º — Interdição\n\nSem prejuízo do disposto no artigo seguinte, é proibida a disseminação ou libertação na Natureza de espécimes de espécies não indígenas visando o estabelecimento de populações selvagens.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892223": {
+   "fragment_id": "36571575",
+   "type": 11,
+   "heading": "Artigo 4.º — Excepções",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+   ],
+   "markdown": "###### Artigo 4.º — Excepções\n\n1 - Mediante despacho conjunto dos membros do Governo com a tutela do ambiente, da saúde e da actividade económica ou científica em causa, sob proposta do Instituto da Conservação da Natureza (ICN), e ouvida a Direcção-Geral das Florestas (DGF), pode excepcionalmente ser permitida uma introdução na Natureza, verificadas cumulativamente as seguintes situações:\n\na) Existam vantagens inequívocas para o Homem ou para as biocenoses naturais;\n\nb) Não haja nenhuma espécie indígena apta para o fim pretendido;\n\nc) Seja precedida da elaboração de um estudo de impacte aprofundado e minuciosamente planificado, cujas conclusões são relevantes para a autorização.\n\n2 - Sempre que esteja em causa a introdução de espécies para fins florestais, cinegéticos ou aquícolas, a proposta referida no artigo anterior é da competência da DGF, ouvido o ICN, com excepção das áreas referidas no n.º 4 do presente artigo.\n\n3 - O estudo de impacte referido na alínea c) do n.º 1 é da responsabilidade do interessado e deve conter elementos sobre:\n\na) A taxonomia, etologia e ecologia, nomeadamente habitat, dieta e relações interespecíficas, da espécie em causa;\n\nb) A biologia da reprodução, as patologias, a capacidade de dispersão e os riscos de hibridação com espécies indígenas;\n\nc) O habitat de suporte, compreendendo a avaliação das consequências da introdução sobre esse habitat e os circundantes e das medidas apropriadas para reduzir ou minimizar os seus efeitos negativos;\n\nd) Os riscos da introdução em causa, bem como das medidas que possam ser tomadas para eliminar ou controlar a população introduzida, caso surjam efeitos imprevistos e danosos dessa introdução;\n\ne) As introduções da espécie em causa noutros locais, quando existam, e as suas consequências;\n\nf) A identificação da entidade responsável pelo processo de introdução em causa e a descrição dos métodos a utilizar.\n\n4 - A excepção referida no n.º 1, quando referente a introduções em áreas protegidas, zonas de protecção especial, sítios da lista nacional de sítios, ilhas sem população humana residente, lagoas e lagunas naturais, só é aplicável no caso de essa introdução ser a única acção eficaz para a conservação da Natureza ou para a salvaguarda da saúde ou segurança públicas.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+  },
+  "146892224": {
+   "fragment_id": "36571675",
+   "type": 11,
+   "heading": "Artigo 5.º — Ensaio controlado",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 5.º — Ensaio controlado\n\n1 - O despacho conjunto previsto no n.º 1 do artigo anterior pode fazer depender essa autorização da realização de um ensaio controlado, com espécimes da espécie em causa, em local confinado com características ecológicas idênticas às do território onde se pretende efectuar a introdução.\n\n2 - Para efeitos do número anterior, o despacho conjunto identifica as entidades administrativas responsáveis pelo acompanhamento do ensaio, dependendo a autorização da apreciação positiva do seu resultado.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892225": {
+   "fragment_id": "36571775",
+   "type": 11,
+   "heading": "Artigo 6.º — Quarentena",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 6.º — Quarentena\n\nComo prevenção de introduções acidentais através de clandestinos, os espécimes da flora e da fauna a introduzir na natureza são sujeitos a um período de uma quarentena específica para estas situações, em condições a definir nas propostas do ICN ou da DGF referidas, respectivamente, nos n.os 1 e 2 do artigo 4.º\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892226": {
+   "fragment_id": "35295375",
+   "type": 1,
+   "heading": "Capítulo III — Introdução acidental na Natureza",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "### Capítulo III — Introdução acidental na Natureza\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892227": {
+   "fragment_id": "36571875",
+   "type": 11,
+   "heading": "Artigo 7.º — Interdição",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 7.º — Interdição\n\n1 - É proibida a disseminação ou libertação na Natureza de espécimes de espécies não indígenas, ainda que sem vontade deliberada de provocar uma introdução na Natureza, como forma de prevenir o estabelecimento acidental de populações selvagens.\n\n2 - O disposto nos artigos 4.º a 6.º do presente diploma é aplicável à exploração económica de espécies não indígenas em espaço não confinado, nomeadamente aquacultura e apicultura.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892228": {
+   "fragment_id": "36571975",
+   "type": 11,
+   "heading": "Artigo 8.º — Espécies invasoras e de risco ecológico",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11",
+    "Alterado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-12, produz efeitos a partir de 2003-10-12"
+   ],
+   "markdown": "###### Artigo 8.º — Espécies invasoras e de risco ecológico\n\n1 - As espécies invasoras e as espécies que comportam risco ecológico encontram-se classificadas, respectivamente, nos anexos I e III, os quais fazem parte integrante do presente diploma.\n\n2 - É proibido o cultivo, a criação ou a detenção em local confinado e a utilização como planta ornamental ou animal de companhia de espécimes das espécies constantes do anexo I identificadas como invasoras; a cedência, a compra, a venda, a oferta de venda e o transporte de espécimes das espécies constantes do anexo I identificadas como invasoras fica restrita a espécimes ou partes de espécimes não-vivos e sem propágulos viáveis, como forma de prevenir a possibilidade de introdução ou de repovoamento através de evadidos.\n\n3 - É proibida a cedência, a compra, a venda, a oferta de venda, o transporte, o cultivo, a criação ou a detenção em local confinado, a exploração económica e a utilização como planta ornamental ou animal de companhia de espécimes das espécies constantes do anexo III consideradas como comportando risco ecológico, como forma de prevenir a possibilidade de introdução na Natureza ou de repovoamento a partir de evadidos.\n\n4 - O disposto nos números anteriores não é aplicável à cedência, compra, venda, transporte, cultivo, criação e detenção em local confinado, quando praticados para fins científicos e educativos por entidades devidamente licenciadas, nos termos dos artigos seguintes, desde que cumpridas as particulares condições de segurança exigidas, atendendo ao risco específico de cada uma das espécies em causa.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11\n\n> Alterado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 205/2003 - Diário da República n.º 211/2003, Série I-A de 2003-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), em vigor a partir de 2003-10-12, produz efeitos a partir de 2003-10-12"
+  },
+  "146892229": {
+   "fragment_id": "36572075",
+   "type": 11,
+   "heading": "Artigo 9.º — Estabelecimentos de detenção de espécies não indígenas",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11",
+    "Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05"
+   ],
+   "markdown": "###### Artigo 9.º — Estabelecimentos de detenção de espécies não indígenas\n\n1 - Os jardins botânicos, estufas, viveiros, hortos, lojas de plantas, jardins e parques zoológicos, safaris, circos e outras actividades de exibição de animais selvagens, aquários ou lojas de animais que detenham espécimes de espécies não indígenas, sem prejuízo de outras licenças legalmente exigidas e do disposto no n.º 3 e no artigo 14.º, necessitam de uma licença para deter espécies não indígenas, especificando quais as espécies detidas.\n\n2 - A licença para detenção de espécies não indígenas é concedida pelo ICN.\n\n3 - No caso dos procedimentos de instalação e exploração de estabelecimentos em águas interiores e estabelecimentos conexos, o ICNF emite parecer obrigatório e vinculativo, sem prejuízo do cumprimento dos requisitos de licenciamento previsto no presente diploma.\n\n4 - O disposto nos números anteriores não se aplica às espécies objecto de exploração agrícola, desde que incluídas nos catálogos comuns de variedades de espécies agrícolas e hortícolas, nem às espécies objecto de exploração zootécnica.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11\n\n> Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05"
+  },
+  "146892230": {
+   "fragment_id": "36572175",
+   "type": 11,
+   "heading": "Artigo 10.º — Condições de licenciamento",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 10.º — Condições de licenciamento\n\n1 - A licença referida no artigo anterior só pode ser concedida aos estabelecimentos que apresentem instalações com condições de segurança adequadas às espécies não indígenas que detenham ou pretendam deter, de acordo com a legislação específica em vigor.\n\n2 - As licenças são revogadas se os titulares dos estabelecimentos não derem cumprimento às seguintes obrigações e, no caso de comerciantes de plantas ornamentais ou de animais de companhia, às constantes do artigo 15.º:\n\na) Manter as instalações nas condições sanitárias e de segurança e adequadas às espécies não indígenas que detenham, de acordo com a legislação específica em vigor, podendo as mesmas ser vistoriadas, a todo o tempo, pelos serviços do ministério com a tutela do ambiente e pelos demais com competência específica;\n\nb) Organizar e manter actualizado um registo dos espécimes das espécies não indígenas que detenham e apresentar ao ICN, quando solicitado, um relatório circunstanciado sobre o número de espécimes de cada espécie não indígena comercializada;\n\nc) Fazer a marcação dos espécimes de espécies da fauna não indígenas que detenham, nos termos da legislação aplicável ou da forma preconizada no licenciamento, de modo a poder ser identificada a sua origem em caso de evasão;\n\nd) Comunicar ao ICN, logo que detectada, a evasão ou disseminação acidental de qualquer espécime de uma espécie não indígena, para que possam ser avaliados os riscos de introdução e accionados, se necessário, mecanismos de controlo.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892231": {
+   "fragment_id": "36572275",
+   "type": 11,
+   "heading": "Artigo 11.º — Requisitos de segurança",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+   ],
+   "markdown": "###### Artigo 11.º — Requisitos de segurança\n\n1 - As instalações destinadas a deter espécimes de espécies não indígenas devem obedecer a requisitos mínimos de segurança que impeçam a sua evasão ou disseminação.\n\n2 - Os requisitos mínimos referidos no número anterior são definidos por portaria conjunta dos membros do Governo com a tutela do ambiente, da ciência e da actividade económica em causa.\n\n3 - Sem prejuízo dos requisitos mínimos referidos nos números anteriores, a detenção, cultivo, criação e transporte, ao abrigo da excepção prevista no n.º 4 do artigo 8.º, de espécies identificadas como invasoras ou consideradas como comportando risco ecológico estão sujeitos a condições de segurança particulares definidas na licença prevista no artigo 9.º, em função do risco específico das espécies em causa.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+  },
+  "146892232": {
+   "fragment_id": "36572375",
+   "type": 11,
+   "heading": "Artigo 12.º — Estabelecimentos existentes",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 12.º — Estabelecimentos existentes\n\n1 - Os estabelecimentos já existentes que detenham espécies não indígenas devem, no prazo de seis meses a contar da data de entrada em vigor do presente diploma, requerer o seu licenciamento, enviando uma lista dos espécimes de espécies não indígenas que detenham nessa data, das espécies que habitualmente detêm ou pretendem deter e um comprovativo de que as condições sanitárias e de segurança das instalações em que os mesmos são mantidos estão de acordo com o previsto na legislação referida na alínea a) do n.º 2 do artigo 10.º\n\n2 - As licenças são concedidas nos termos e condições referidos nos artigos 9.º e 10.º\n\n3 - As instalações podem ser vistoriadas, a todo o tempo, pelos serviços do ministério com a tutela do ambiente e pelos demais com competência específica.\n\n4 - A entidade que efectua a vistoria elabora um relatório sobre a mesma, o qual deve ser presente às entidades com competência nas respectivas matérias para parecer vinculativo e, se for caso disso, propõe alterações a introduzir nas instalações e o prazo em que devem ser executadas, sob pena de revogação da licença, nos termos do n.º 2 do artigo 10.º\n\n5 - Caso a licença tenha sido concedida com base em falsas declarações do requerente, a licença é considerada como não válida para todos os efeitos legais.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892233": {
+   "fragment_id": "36572475",
+   "type": 11,
+   "heading": "Artigo 13.º — Prazo do licenciamento",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 13.º — Prazo do licenciamento\n\n1 - A licença para detenção de espécies não indígenas é concedida no prazo de 30 dias após a entrada do requerimento para a mesma nos serviços do ICN.\n\n2 - Caso o ICN não responda ao pedido de licenciamento no prazo referido no número anterior, há lugar a deferimento tácito.\n\n3 - A licença será válida por um período de dois anos, findo o qual deverá ser requerida a sua renovação.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892234": {
+   "fragment_id": "36572575",
+   "type": 11,
+   "heading": "Artigo 14.º — Espécies protegidas",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 14.º — Espécies protegidas\n\nA necessidade de licenças e autorizações para a detenção de espécimes de espécies não indígenas, referidas nos artigos 9.º e 12.º, não se aplica aos espécimes de espécies incluídas nos anexos ao Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1997&id=397R0338\" title=\"Link para Regulamento da Comunidade Europeia\">338/97</a>, do Conselho, de 9 de Dezembro de 1996, objecto de lei especial.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892235": {
+   "fragment_id": "36572675",
+   "type": 11,
+   "heading": "Artigo 15.º — Plantas ornamentais e animais de companhia",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 15.º — Plantas ornamentais e animais de companhia\n\n1 - Os comerciantes de plantas ornamentais ou de animais de companhia devem afixar em local bem visível do seu estabelecimento um extracto-resumo, conforme modelo constante do anexo IV, o qual faz parte integrante do presente diploma.\n\n2 - Os comerciantes de plantas ornamentais ou de animais de companhia devem indicar, no requerimento de licenciamento para a detenção de espécies não indígenas, referido nos artigos 10.º e 12.º, o destino dos espécimes detidos dessas espécies, em caso de cessação da actividade.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892236": {
+   "fragment_id": "36572775",
+   "type": 11,
+   "heading": "Artigo 16.º — Águas de lastro",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 16.º — Águas de lastro\n\nAo enchimento e despejo das águas de lastro dos navios são aplicáveis as regras definidas nas linhas orientadoras da Organização Marítima Internacional (IMO) e do Conselho Internacional para a Exploração do Mar (ICES).\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892237": {
+   "fragment_id": "35295475",
+   "type": 1,
+   "heading": "Capítulo IV — Repovoamento, controlo e erradicação",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "### Capítulo IV — Repovoamento, controlo e erradicação\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892238": {
+   "fragment_id": "36572875",
+   "type": 11,
+   "heading": "Artigo 17.º — Repovoamento",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 17.º — Repovoamento\n\nÉ interdito o repovoamento das espécies incluídas no anexo I classificadas como invasoras.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892239": {
+   "fragment_id": "36572975",
+   "type": 11,
+   "heading": "Artigo 18.º — Controlo de espécies invasoras",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 18.º — Controlo de espécies invasoras\n\n1 - As espécies não indígenas invasoras já introduzidas na Natureza são objecto de um plano nacional com vista ao seu controlo ou erradicação, promovido pelo Ministério do Ambiente, em articulação com o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a aprovar por resolução do Conselho de Ministros.\n\n2 - O plano nacional referido no número anterior abarca igualmente as espécies constantes do anexo III, introduzidas na Natureza em infracção ao presente diploma.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892240": {
+   "fragment_id": "35295575",
+   "type": 1,
+   "heading": "Capítulo V — Funções administrativas e científicas",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "### Capítulo V — Funções administrativas e científicas\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892241": {
+   "fragment_id": "36573075",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 19.º — Competências\n\nCompete ao ICN assegurar as funções administrativas e técnico-científicas necessárias à aplicação do presente diploma, nomeadamente:\n\na) Apreciar os pedidos de introdução e os estudos de impacte referidos no artigo 4.º;\n\nb) Propor a revisão dos anexos I, II e III, em articulação com a Direcção-Geral das Florestas;\n\nc) Apreciar os programas definidos no plano nacional de controlo de espécies invasoras referido no artigo 18.º\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892242": {
+   "fragment_id": "36573175",
+   "type": 11,
+   "heading": "Artigo 20.º — Conselho consultivo",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 20.º — Conselho consultivo\n\n1 - Para aconselhar o ICN nas funções técnico-científicas relativas à aplicação do presente diploma é instituído um conselho consultivo que integra peritos nomeados por despacho do ministro com a tutela do ambiente e um representante do ICN, que preside.\n\n2 - O conselho consultivo tem um número máximo de sete membros, incluindo o representante do ICN referido no número anterior, e reúne sempre que convocado pelo ICN.\n\n3 - Os peritos são pagos por senhas de presença nos termos a determinar por portaria conjunta dos Ministros das Finanças e do Ambiente.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892243": {
+   "fragment_id": "35295675",
+   "type": 1,
+   "heading": "Capítulo VI — Contra-ordenações",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "### Capítulo VI — Contra-ordenações\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892244": {
+   "fragment_id": "36573275",
+   "type": 11,
+   "heading": "Artigo 21.º — Contra-ordenações e coimas",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+   ],
+   "markdown": "###### Artigo 21.º — Contra-ordenações e coimas\n\n1 - As infracções ao disposto no presente diploma constituem contra-ordenações puníveis, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, com uma coima:\n\na) De 350000$00 a 750000$00, em caso de disseminação ou libertação intencional na Natureza de espécimes de espécies não indígenas, com vontade deliberada de efectuar uma introdução não autorizada, por violação do disposto no artigo 3.º, ou para a exploração em local não confinado, por violação do disposto no n.º 2 do artigo 7.º;\n\nb) De 300000$00 a 700000$00, em caso de repovoamento de espécies invasoras, por violação do disposto no artigo 17.º;\n\nc) De 250000$00 a 650000$00, em caso de disseminação ou libertação intencional na Natureza de espécimes de espécies não indígenas, sem vontade deliberada de provocar uma introdução, por violação do disposto no n.º 1 do artigo 7.º;\n\nd) De 200000$00 a 600000$00, em caso de prática de actos ou actividades proibidas quando tenham por objecto espécies invasoras ou que comportam risco ecológico, por violação do disposto nos n.os 2 e 3 do artigo 8.º;\n\ne) De 150000$00 a 550000$00, em caso de falta de licença para deter espécies não indígenas ou de falta de licença específica para as espécies não indígenas detidas, por violação do disposto no n.º 1 do artigo 9.º e do n.º 5 do artigo 12.º;\n\nf) De 150000$00 a 500000$00, em caso de falsas declarações para obtenção de licença para deter espécies não indígenas;\n\ng) De 100000$00 a 450000$00, em caso de não cumprimento de alguma das obrigações dos estabelecimentos que detêm espécimes de espécies não indígenas, por violação do disposto no n.º 3 do artigo 11.º, nas alíneas a), b), c) ou d) do n.º 2 do artigo 10.º, no n.º 2 do artigo 12.º ou no n.º 1 do artigo 15.º;\n\nh) De 100000$00 a 400000$00, em caso de não sujeição a quarentena, ou de desrespeito das condições a observar para a mesma, dos espécimes de espécies não indígenas cuja introdução tenha sido autorizada, por violação do disposto no artigo 6.º;\n\ni) De 30000$00 a 100000$00, em caso de não requerimento atempado do licenciamento dos estabelecimentos existentes que detêm espécimes de espécies não indígenas, por violação do disposto no n.º 1 do artigo 12.º\n\n2 - Se o infractor for uma pessoa colectiva, os montantes mínimos e máximos previstos no número anterior podem ser multiplicados até 12 vezes.\n\n3 - A tentativa e a negligência são sempre puníveis.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 4-E/2000 - Diário da República n.º 25/2000, Suplemento n.º 1, Série I-A de 2000-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-e-2000-596727)"
+  },
+  "146892245": {
+   "fragment_id": "36573375",
+   "type": 11,
+   "heading": "Artigo 22.º — Sanções acessórias",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 22.º — Sanções acessórias\n\nCumulativamente com as coimas previstas no artigo anterior, e nos termos da lei, podem ser aplicadas as seguintes sanções acessórias:\n\na) Perda dos espécimes que estejam na origem da infracção, bem como do equipamento utilizado, que revertem a favor do Estado;\n\nb) Interdição do exercício da profissão ou da actividade;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participação ou arrematação a concursos promovidos por entidades ou serviços públicos, de obras públicas, de fornecimento de bens e serviços, ou concessão de serviços, licenças ou alvarás;\n\ne) Encerramento do estabelecimento;\n\nf) Suspensão de autorizações e licenças.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892246": {
+   "fragment_id": "36573475",
+   "type": 11,
+   "heading": "Artigo 23.º — Afectação das coimas",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 23.º — Afectação das coimas\n\nA receita das coimas previstas no artigo 21.º reverte:\n\na) 60% para o Estado;\n\nb) 40% para o ICN.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892247": {
+   "fragment_id": "36573575",
+   "type": 11,
+   "heading": "Artigo 24.º — Fiscalização, instrução e decisão",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 24.º — Fiscalização, instrução e decisão\n\n1 - As funções de fiscalização, para efeitos deste diploma, competem especialmente aos funcionários e agentes do ICN, da Inspecção-Geral do Ambiente, das direcções regionais do ambiente, das direcções regionais de agricultura, da Direcção-Geral das Florestas, da Direcção-Geral de Veterinária, da Direcção-Geral das Pescas e Aquicultura, do Instituto de Investigação das Pescas e do Mar e da Guarda Nacional Republicana e demais autoridades policiais.\n\n2 - Compete ao ICN o processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias previstas nos artigos 21.º e 22.º deste diploma.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892248": {
+   "fragment_id": "36573675",
+   "type": 11,
+   "heading": "Artigo 25.º — Reposição da situação anterior",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 25.º — Reposição da situação anterior\n\n1 - Independentemente da aplicação da coima e das sanções acessórias, o ICN, ouvidas as entidades competentes em matéria de sanidade e de bem-estar animal, pode intimar o infractor a proceder à reposição da situação anterior à infracção, fixando-lhe as acções necessárias, nomeadamente para a erradicação da espécie introduzida e o respectivo prazo de execução.\n\n2 - Após a notificação para que proceda à erradicação da espécie introduzida, se a obrigação não for cumprida no prazo fixado, o ICN procede ou manda proceder às acções necessárias para essa erradicação, por conta do infractor.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892249": {
+   "fragment_id": "35295775",
+   "type": 1,
+   "heading": "Capítulo VII — Disposição final",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "### Capítulo VII — Disposição final\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892250": {
+   "fragment_id": "36573775",
+   "type": 11,
+   "heading": "Artigo 26.º — Regiões Autónomas",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 26.º — Regiões Autónomas\n\nO regime previsto no presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir por diploma regional adequado.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892251": {
+   "fragment_id": "35296275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.\n\nPromulgado em 29 de Novembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Dezembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892252": {
+   "fragment_id": "35295875",
+   "type": 14,
+   "heading": "Anexo I — Espécies introduzidas em Portugal continental - (I) Invasoras",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "## Anexo I — Espécies introduzidas em Portugal continental - (I) Invasoras\n\nFauna\n\nInvertebrados:\n\nPhoracantha semipunctata;\n\nIridomyrmex humilis - formiga argentina;\n\nLeptinotarsa decenlineata - escaravelho da batata;\n\nLysiphlebus testaceipes (Cresson).\n\nRépteis:\n\nChamaeleo chamaeleon - camaleão;\n\nLacerta dugesii - lagartixa-da-madeira.\n\nAves (espécies cuja nidificação é provável ou confirmada):\n\nFrancolinus francolinus - francolim-negro;\n\nPhasianus colchinus - Faisão;\n\nPsitacula krameri - periquito-de-colar;\n\nMyiopsitta monachus - periquito-monge;\n\nColumbina passerina - rolinha-americana;\n\nPloceus cucullatus - tecelão-de-dorso-malhado;\n\nPloceus melanocephalus - tecelão-de-cabeça-preta;\n\nQuelea quelea - Tecelão-de-bico-vermelho;\n\nEuplectes afer - bispo-de-coroa-amarela;\n\nEuplectes hordeaceus - bispo-vermelho-d'asa-negra;\n\nEuplectes franciscanus - bispo-laranja;\n\nEuplectes orix - bispo-vermelho;\n\nEstrilda melpoda - faces-laranja;\n\nEstrilda troglodytes - bico-de-lacre-de-cauda-preta;\n\nEstrilda astrild - bico-de-lacre;\n\nAmandava amandava - bengali-vermelho;\n\nAmandava subflava - ventre-laranja;\n\nPoephila guttata - mandarim;\n\nLonchura cantans - bico-de-chumbo-africano;\n\nLonchura mallaca - bico-de-chumbo-de-cabeça-negra;\n\nLonchura maja - bico-de-chumbo-de-cabeça-branca;\n\nAmadina fasciata - degolado.\n\nMamíferos:\n\nRattus rattus - rato-preto;\n\nRattus norvegicus - ratazana.\n\nFauna aquática dulciaquícola\n\nBacia do Minho\n\nPeixes:\n\nMicropterus salmoides - achigã;\n\nOncorhynchus mykiss - truta-arco-íris.\n\nBacia do Lima\n\nPeixes:\n\nCarassius auratus - pimpão;\n\nCyprinus carpio - carpa.\n\nBacia do Cávado\n\nPeixes:\n\nCarassius auratus - pimpão;\n\nCyprinus carpio - carpa;\n\nOncorhynchus mykiss - truta-arco-íris;\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã;\n\nEsox lucius - lúcio.\n\nBacia do Ave\n\nPeixes:\n\nCyprinus carpio - carpa;\n\nOncorhynchus myriss - truta-arco-íris;\n\nMicropterus salmoides - achigã;\n\nSander lucioperca - lucioperca.\n\nBacia do Douro\n\nInvertebrados:\n\nCorbicula fluminea;\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana;\n\nPacifastacus leniusculus.\n\nPeixes:\n\nCarassius auratus - pimpão;\n\nCyprinus carpio - carpa;\n\nGobio gobio - góbio;\n\nEsox lucius - lúcio;\n\nOncorhynchus mykiss - truta-arco-íris;\n\nGambusia holbrooki - gambúsia (I);\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã.\n\nBacia do Leça\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nGobio gobio - góbio.\n\nBacia do Vouga\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCarassius auratus - peixe-vermelho;\n\nCyprinus carpio - carpa;\n\nGobio gobio - góbio;\n\nOncorhynchus mykiss - truta-arco-íris;\n\nGambusia holbrooki - gambúsia (I);\n\nMicropterus salmoides - achigã.\n\nBacia do Mondego\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCarassius auratus - peixe-vermelho;\n\nCyprinus carpio - carpa;\n\nGobio gobio - góbio;\n\nOncorhynchus mykiss - truta-arco-íris;\n\nGambusia holbrooki - gambúsia (I);\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã.\n\nBacia do Lis\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nBacia das ribeiras do Oeste\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nBacia do Tejo\n\nInvertebrados:\n\nCorbicula fluminea;\n\nEriocheir sinensis - caranguejo-peludo-chinês (I);\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana;\n\nPotamopyrgus jenkinsi.\n\nPeixes:\n\nCarassius auratus - peixe-vermelho;\n\nCyprinus carpio - carpa;\n\nGobio gobio - góbio;\n\nEsox lucius - lúcio;\n\nOncorhynchus mykiss - truta-arco-íris;\n\nGambusia holbrooki - gambúsia (I);\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã.\n\nBacia do Sado\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCarassius auratus - peixe-vermelho;\n\nCyprinus carpio - carpa;\n\nGambusia holbrooki - gambúsia (I);\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã;\n\nCichlasoma facetum - chanchito;\n\nIctalurus meles - peixe-gato.\n\nBacia do Mira\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCyprinus carpio - carpa;\n\nMicropterus salmoides - achigã;\n\nCichlasoma facetum - chanchito.\n\nBacia das ribeiras do Algarve\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCarassius auratus - pimpão;\n\nCyprinus carpio - carpa;\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã.\n\nBacia do Guadiana\n\nInvertebrados:\n\nProcambarus clarkii - lagostim-vermelho-da-louisiana.\n\nPeixes:\n\nCarassius auratus - pimpão;\n\nCyprinus carpio - carpa;\n\nEsox lucius - lúcio;\n\nFundulus heteroclitus - fundulo;\n\nGambusia holbrooki - gambúsia (I);\n\nLepomis gibbosus - perca-sol (I);\n\nMicropterus salmoides - achigã;\n\nCichlasoma facetum - chanchito.\n\nFlora\n\nPteridophyta\n\nSelaginellaceae:\n\nSelaginella kraussiana (G. Kunze) A. Braun.\n\nAzollaceae:\n\nAzolla filiculoides Lam. (I);\n\nAzolla caroliniana Willd. (I).\n\nGymnospermae\n\nCupressaceae:\n\nChamaecyparis lawsoniana (A. Murray.) Parl. - camecípare-de-lawson;\n\nCupressus lusitanica Miller - cipreste-do-buçaco;\n\nCupressus macrocarpa Hartw. - cipreste-da-califórnia;\n\nCupressus sempervirens L. - cipreste-comum.\n\nPinaceae:\n\nAbies alba Miller - abeto-branco;\n\nCedrus atlantica (Endl.) Carriére - cedro-do-atlas;\n\nCedrus deodara Loud. - cedro-do-himalaia;\n\nPinus halepensis Miller - pinheiro-de-alepo;\n\nPinus nigra Arn. - pinheiro-larício;\n\nPseudotsuga menziesii (Mirbel) Franco - pseudotsuga.\n\nAngiospermae\n\nSalicaceae:\n\nSalix babylonica L.;\n\nSalix canescens (Aitur) Marshall;\n\nSalix x rubens Schrank;\n\nSalix viminalis L.;\n\nPopulus deltoides Marshall - choupo-americano;\n\nPopulus alba L. - álamo;\n\nPopulus nigra L. subsp. caudina (Ten.) Bug.;\n\nPopulus x canadensis Moench (P. deltoides x nigra).\n\nUrticaceae:\n\nSoleirolia soleirolii (Req.) Dandy - lágrimas-de-anjo.\n\nProteaceae:\n\nHakea sericea Schrader (I);\n\nHakea salicifolia (Vent.) B. L. Burtt (I);\n\nGrevillia robusta L. - grevília.\n\nPolygonaceae:\n\nFallopia baldschuanica (Regel) J. Holub (F. aubertii, Polygonum aubertii);\n\nPolygonum capitatum D. Don;\n\nPolygonum minus Huds;\n\nPolygonum orientale L.;\n\nReynoutria japonica Houtt. - sanguinária-do-japão;\n\nRumex frutescens Thouars.\n\nChenopodiaceae:\n\nBeta vulgaris L. subsp. vulgaris;\n\nChenopodium multifidum L.;\n\nChenopodium ambrosoides L. - ambrósia-do-méxico.\n\nAmaranthaceae:\n\nAmaranthus muricatus (Mocq.) Hicken - bredo-da-golegã;\n\nAmaranthus caudatus L. - moncos-de-peru; cauda-de-raposa;\n\nAmaranthus cruentus L.;\n\nAmaranthus paniculatus L.;\n\nAmaranthus blitoides S. Watson - erva-aranha;\n\nAmaranthus albus L. - bredos-brancos;\n\nAmaranthus deflexus L. - bredo-perene.\n\nPhytolaccaceae:\n\nPhytolacca americana L. - tintureira; erva-da-américa.\n\nAizoaceae:\n\nSesuvium portulacastrum (L.) L.;\n\nDrosanthemum candens (Haw.) Schwantes;\n\nAptenia cordifolia (L. fil) N. E. Br.;\n\nDisphyma crassifolium (L.) L. Bolus;\n\nLampranthus multiradiatus (Jacq.) N. E. Br.;\n\nCarpobrotus edulis (L.) N. E. Br. - chorão (I);\n\nCarpobrotus acinaformis (L.) L. Bolus;\n\nMesembryanthemum nodiflorum L. - erva-do-orvalho;\n\nMesembryanthemum crystallinum L. - erva-gelada.\n\nMolluginaceae:\n\nMollugo verticillata L.\n\nTetragoniaceae:\n\nTetragonia tetragonoides (Palas) O. Kuntze.\n\nPortulacaceae:\n\nPortulaca oleraceae L. subsp. stellata Danin & H. G. Baker;\n\nPortulaca oleraceae L. subsp. papillastellulata Danin & H. G. Baker;\n\nPortulaca oleraceae L. subsp. nitida Danin & H. G. Baker;\n\nMontia perfoliata (Donn ex. Wild) Howell.\n\nBasellaceae:\n\nBoussingaultia cordifolia Ten. - parra-de-madeira.\n\nCaryophyllaceae:\n\nSilene cretica L.;\n\nDianthus tripunctatus Silth.\n\nPapaveraceae:\n\nPapaver somniferum L. subsp. setigerum (DC.) Corb. - dormideira-brava;\n\nArgemone mexicana L.;\n\nEschscholzia californica Cham. - papoila-da-califórnia.\n\nFagaceae:\n\nQuercus rubra L. - carvalho-vermelho-americano.\n\nCruciferae:\n\nLunaria annua L.;\n\nSisymbrium polyceratium L.;\n\nSisymbrium erysimoides Desf.;\n\nIsatis tinetoria L.;\n\nLepidium campestre (L.) R. Br.;\n\nLepidium grandifolium L. subsp. grandifolium;\n\nLepidium ruderale L.;\n\nLepidium sativum L.;\n\nLepidium virginicum L. - mentruz;\n\nCoronopus didymus (L.) Sm.;\n\nRapistrum rugosum (L.) All. subsp. orientale (L.) Arcangeli.\n\nCrassulaceae:\n\nBryophylum pinnatum (Lam.) Oken;\n\nCrassula aquatica (L.) Schonl.;\n\nCrassula bonariensis (DC) Crambe;\n\nAichryson dichotomum (DC) Webb & Berth;\n\nAeonium arboreum (L.) Webb & Berth - saião.\n\nHydrangeae:\n\nHydrangea macrophylla (Thunb.) Seringe - hortênsia.\n\nPittosporaceae:\n\nPittosporum crassifolium Banks & Sol. ex. Cunningham;\n\nPittosporum undulatum Vent. - incenso (I);\n\nPittosporum tobira (Thunb.) Dryander.\n\nPlatanaceae:\n\nPlatanus hispanica Miller.\n\nRosaceae:\n\nRubus idaeus L.;\n\nRubus x loganobaccus L. H. Bailey;\n\nRosa moschata J. Hermam;\n\nRosa odorata var. gigantea (Crepin) Rehder & Wilson;\n\nRosa multiflora Thumb.;\n\nRosa wichuraiana Crépin;\n\nRosa gallica L. - rosa-da-provença;\n\nCydonia oblonga Miller - marmeleiro.\n\nLeguminosae:\n\nAcacia karroo Hayne (I);\n\nAcacia dealbata Link - mimosa (I);\n\nAcacia mearnsii De Wild. (I);\n\nAcacia longifolia - acácia-de-espigas (Andrews) Willd. (I);\n\nAcacia cyclops G. Don fil.;\n\nAcacia melanoxylon R. Br. - codeço-alto (I);\n\nAcaciapycnantha Bentham (I);\n\nAcacia cyanophylla Lindley (I);\n\nAcacia retinodes Sclecht. (I);\n\nAcacia decurrens (J. C. Wendl.) Willd.;\n\nAcacia farnesiana (L.) Willd.;\n\nAcacia molissima Willd.;\n\nVicia articulata Hornem.;\n\nVicia sativa L. subsp. macrocarpa (Moris) Arcangelli;\n\nVicia sativa L. subsp. sativa - ervilhaca;\n\nLathyrus sativus L. - chícharo;\n\nMelilotus italica (L.) Lam. - anafe-de-itália;\n\nMelilotus indica (L.) Lam.;\n\nMelilotus infesta Guss. - anafe-da-china;\n\nTrigonellafoenum-graecum L. - feno-galego;\n\nMedicago blancheana Boiss.;\n\nMedicago rugosa Desr. - luzerna-rugosa;\n\nRobinia pseudoacacia L. - falsa-acácia (I);\n\nHedysarum coronarium L. - sanfeno-de-espanha;\n\nCercis siliquastrum L. - olaia;\n\nGleditsia triacanthos L. - espinheiro-da-virgínia.\n\nOxalidaceae:\n\nOxalis articulata Savigny;\n\nOxalis corymbosa DC.;\n\nOxalis latifolia Kunth;\n\nOxalis pes-capraea L. - erva-canária (I);\n\nOxalis purpurea L.\n\nGeraniaceae:\n\nPelargonium radula (Cav.) L'Hér.\n\nTropaeolaceae:\n\nTropaelum majus L. - chagas.\n\nEuphorbiaceae:\n\nRicinus communis L. - bafureira;\n\nEuphorbia nutans Lag.;\n\nEuphorbia serpens Kunth;\n\nEuphorbia maculata L.;\n\nEuphorbia prostrata Aiton;\n\nEuphorbia lathyris L.\n\nSimaroubaceae:\n\nAilanthus altissima (Miller) Swingle - ailanto (I).\n\nAnacardiaceae:\n\nSchinus molle L.;\n\nSchinus terebinthifolia Raddi;\n\nRhus coriaria L. - sumagre.\n\nCactaceae:\n\nOpuntia ficus-indica (L.) Miller - figueira-da-índia.\n\nMyrtaceae:\n\nEucalyptus globulus Labill. - eucalipto;\n\nEucalyptus camalduensis Labill. - eucalipto.\n\nHaloragraceae:\n\nMyriophyllum brasiliensis Camb. - pinheirinho-de-água (I).\n\nTeligonaceae:\n\nHippuris vulgaris L.\n\nUmbelliferae:\n\nHydrocotyle bonariensis Lam. - chapéus;\n\nEryngium pandanifolium Cham. & Schlecht. (I);\n\nLilaeopsis atenuata (Hooker & Arnott) Fernald;\n\nApium leptophyllum (Pers.) Benth.\n\nAceraceae:\n\nAcer platanoides L.;\n\nAcer negundo L.\n\nOleaceae:\n\nLigustrum ovalifolium Hassk - alfanheiro-oval;\n\nLigustrum lucidum Aiton - alfanheiro-do-japão.\n\nAsclepidaceae:\n\nAraujia sericifera Brot.;\n\nGomphocarpus fruticosus (L.) Aiton fil. - sumauma.\n\nRubiaceae:\n\nRubia tinctorum L.\n\nConvolvulaceae:\n\nDichondra micranitha Urban;\n\nCuscuta campestris Yuncker;\n\nCuscuta suaveolens Ser. - cabelos;\n\nCalystegia sylvatica (Kit) Griseb.;\n\nConvolvulus farinosus L.;\n\nIpomaea acuminata (Vahl) Roemer & Schultes (I).\n\nHydrophyllaceae:\n\nPhacelia tanacetifolia Bentham;\n\nWigandia caracasana Kunth.\n\nBoraginaceae:\n\nHeliotropium curassavicum L.;\n\nAnchusa arvensis (L.) Bieb. subsp. orientalis (L.) Nordh;\n\nMyosotis latifolia Poiret.\n\nVerbenaceae:\n\nVerbena bonariensis L.;\n\nVerbena canadensis L.;\n\nLantana camara L.;\n\nLippia canescens Kurith.\n\nCallitrichaceae:\n\nCallitriche cribrosa Schotsman.\n\nLabiatae:\n\nMelissa officinalis L. subsp. officinalis;\n\nMentha requienii Bentham;\n\nMentha spicata L.;\n\nSalvia triloba L. fil.;\n\nSalvia sclarea L.\n\nSolanaceae:\n\nNicandra physalodes (L.) Gaertner;\n\nLycium barbarum L.;\n\nLycium chinense Miller;\n\nAtropa bella-dona L. - bela-dona;\n\nPhysalis ixocarpa Brot.;\n\nPhysalis peruviana L.;\n\nSalpichroa origanifolia (Lam.) Baillon;\n\nCapsicum frutescens L.;\n\nSolanum pseudocapsicum L. - erva-moira;\n\nSolanum capsicastrum Schauer - cereja-de-inverno;\n\nSolanum marginatum L. fil.;\n\nSolanum melongena L.;\n\nSolanum sublobatum Roemer & Schultes;\n\nSolanum sodomaeus L.;\n\nSolanum citrulifolium A. Braun;\n\nDatura stramonium L. - figueira-do-inferno (I);\n\nDatura innoxia Miller;\n\nNicotiana rustica L.;\n\nNicotiana glauca R. C. Graham - charuto-do-rei.\n\nScrophulariaceae:\n\nLindernia procumbens (Krocker) Philcox;\n\nLindernia dubia (L.) Pennell - manjerico;\n\nBacopa monnieri (L.) Pennell;\n\nVerbascum levanticum I. K. Ferguson;\n\nCymbalaria muralis P. Gaertner, B. Meyer & Schreb.;\n\nVeronicapersica Poiret;\n\nHebe x andersonii;\n\nSibthorpia peregrina L.;\n\nMimulus moschatus Douglas ex Lindley.\n\nMartyniaceae:\n\nProboscidea louisianica (Miller) Thell.\n\nMyoporaceae:\n\nMyoporum tenuifolium G. Foster - mioporum;\n\nMyoporuni acuminatum R. Br. - mulatas;\n\nMyoporum tetrandrum (Labill.) Domin.\n\nCaprifoliaceae:\n\nLonicera japonica Thurb. - madressilva;\n\nSymphoricarpus albus (L.) S. F. Blake.\n\nValerianaceae:\n\nFedia scorpioides Dufresne.\n\nDipsacaceae:\n\nDipsacus sativus (L.) Honckeny - cardo-penteador.\n\nCampanulaceae:\n\nLegousia speculum-veneris (L.) Chaix.\n\nComposiatae:\n\nEupatorium adenophorum Sprengel - abundância;\n\nAster lanceolatus Willd. - mata-jornaleiros;\n\nAster squamatus (Sprengel) Hieron.;\n\nErigeron karvinskianus DC. - vitadínia-das-floristas (I);\n\nConyza ivifolia (L.) Less.;\n\nConyza canadensis (L.) Cronq. - avoadinha; erva-pau;\n\nConyza albida Sprengel;\n\nConyza x rouyana Sennen (Conyza albida x canadensis);\n\nConyza bonariensis (L.) Cronq. - avoadinha-peluda (I);\n\nConyza x mixta Fouc. & Neyr. (Conyza bonariensis x canadensis);\n\nGamochaeta subfalcata (Cabrera) Cabrera;\n\nGamochaeta calviceps (Fernald) Cabrera;\n\nGamochaeta pensylvanica (Willd.) Cabrera;\n\nGamochaeta spicata (Lam.) Cabrera;\n\nHelichrysum petiolare Hillard & B. L. Burtt - sempre-noiva-das-floristas;\n\nHelichrysum foetidum (L.) Cass. - perpétua-fétida;\n\nPlecostachys serpyllifolia (Berg.) Hilliard;\n\nBidens aurea (Aiton) Sherff - chá-de-marrocos;\n\nBidens frondosa L. - erva-rapa;\n\nBidens pilosa L. - amor-de-burro;\n\nEclipta prostrata (L.) L. - verbesina;\n\nHelianthus anuus L. - girassol;\n\nAmbrosia artemisifolia L. - ambrósia;\n\nAgeralum houstonianum Miller;\n\nGalinsoga parviflora Cav. - erva-da-moda (I);\n\nGalinsoga ciliata (Rafin) S. F. Blake;\n\nSantolina chamaecyparissus L.;\n\nChamomilla suaveolens (Pursh) Rydb.;\n\nChrysanthemum segetum L.;\n\nTanacetum vulgare L.;\n\nTanacetum parthenicum (L.) Schultz Bip.;\n\nLeucanthemum paludosum (Poiret) Bonnet & Banatte;\n\nCotula coronopifolia L. - botões-de-latão;\n\nCotula australis (Sprengel) Hooker fil.;\n\nSoliva pterosperma (Juss.) Less.;\n\nGymnostyles stolonifera (Brot.) Tutin;\n\nArtemisia verlotiorum Lamotte:\n\nPetasites fragrans (Vill.) C. Presl;\n\nSenecio elegans L.;\n\nSenecio mikanioides Walpers;\n\nSenecio angulatus L. fil.;\n\nSenecio bicolor (Willd.) Tod. subsp. cinerea (DC.) Chater (I);\n\nSenecio leucanthemifolius Poiret;\n\nArctotheca calendula (L.) Levyns - erva-gorda (I);\n\nGazania rigens (L.) Gaertner;\n\nPtilostemon casabonae (L.) W. Greuter;\n\nLeontodon muelleri (Schultz Bip) Fiori.\n\nHydrocharitaceae:\n\nElodea canadensis Mich - estrume-novo (I);\n\nBlyxa japonica (Miq.) Maxim.\n\nJuncaginaceae:\n\nTriglochin striata Ruiz & Pavón.\n\nLilaeaceae:\n\nLilaea scilloides (Poiret) Hauman.\n\nLiliaceae:\n\nAloe vera (L.) Bum. fil. - aloé;\n\nAloe arborescens Miller;\n\nTulipa clusiana DC. - marquesinhas;\n\nTulipa praecox Ten.;\n\nOrnithogalum arabicum L.;\n\nAllium triquetrum L. - alho-bravo;\n\nNothoscordum gracile (Aiton) Stearn;\n\nAsparagus asparagoides (L.) Druce - alegra-campo;\n\nLilium candidum L. - açucena; cajado-de-são-josé.\n\nAgavaceae:\n\nAgave atrovirens Salm-Dyck;\n\nAgave americana L. - piteira.\n\nAmaryllidaceae:\n\nAmaryllis bella-dona L. - bordão-de-são-josé.\n\nPontederiaceae:\n\nHeteranthera reniformis Ruiz & Pavón - espiga-azul-de-folha-redonda;\n\nHeteranthera rotundifolia (Kunth) Griseb.;\n\nEichornia crassipes (C. F. P. Mart.) Solms. - Laub. - jacinto-de-água (I).\n\nIridaceae:\n\nIris germanica L. - lírio-roxo;\n\nIris albicans Lange - lírio-branco;\n\nFerraria crispa Burm.;\n\nIxya paniculata Delaroche - alfenim;\n\nWatsonia bulbilifera Mathews & L. Bolus;\n\nFreesia refracta (Jacq.) Klatt - frésia;\n\nTritonia x crocosmifolia (Lemoine) Nicholson;\n\nSparaxis bulbifera (L.) Ker-Gawler;\n\nSparaxis tricolor (Curtis) Ker-Gawler;\n\nGladiolus undulatus L.\n\nCommelinaceae:\n\nTrandescantia fluminensis Velloso - erva-da-fortuna (I).\n\nGraminae:\n\nBromus secalinus L.;\n\nBromus catharticus Vahl;\n\nHordeum bulbosum L.;\n\nGastridium phleoides (Nees & Meyen) C. E. Hubbard;\n\nPhalaris canariensis L. - alpista;\n\nArundo donax L. - cana;\n\nSporobolus indicus (L.) R. Br.;\n\nEleusine indica (L.) Gaertner - pé-de-galo;\n\nSpartina densiflora Brongn. (I);\n\nEhrharta calycina Sm.;\n\nEhrharta erecta Lam.;\n\nPanicum miliaceum L. - milho-miúdo;\n\nPanicum capillare L.;\n\nPanicum dicholomiflorum Michx;\n\nEchinochloa colonum (L.) Link;\n\nEchinochloa oryzicola (Vasinger) Vasinger - milhã-do-arroz;\n\nPaspalum dilatatum Poiret in Lam.;\n\nPaspalum urvillei Steudel;\n\nPaspalum paspalodes (Michx) Scribne - alcanache;\n\nPaspalum vaginatum Swartz. - gramão;\n\nStenotaphrum secundatum (Walter) O. Kuntze;\n\nSetaria parviflora (Poiret) Kerguélen;\n\nSetaria adhaerens (Forskal) Chiov.;\n\nSetaria faberi (L.) Beauv.;\n\nSetaria italica (L.) Beauv.;\n\nPennisetum villosum Fresen;\n\nCortaderia selloana (J. A. & J. H. Schultes) Aschers & Graebner.\n\nCyperaceae:\n\nEleocharis flacescens (Poir.) Urban;\n\nCyperus alterniflorus L. - papiro.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892253": {
+   "fragment_id": "35295975",
+   "type": 14,
+   "heading": "Anexo II — Espécies não indígenas com interesse para a arborização",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "## Anexo II — Espécies não indígenas com interesse para a arborização\n\nGymnospermae\n\nPodocarpaceae:\n\nPodocarpus totara D. Don ex Lambert.\n\nAraucariaceae:\n\nAraucaria heterophylla (Salisbury) Franco.\n\nPinaceae:\n\nAbies nordmanniana (Steven) Spach;\n\nAbies pinsapo Boissier;\n\nLarix decidua Miller;\n\nLarix x eurolepis A. Henry;\n\nPicea abies (L.) Link;\n\nPicea sitchensis (Bongard) Carrière;\n\nPinus brutia Tenot;\n\nPinus canariensis C. Smith;\n\nPinus eldarica Medwedew;\n\nPinus muricata D. Don;\n\nPinus radiata D. Don;\n\nPinus uncinata Miller ex Mirbel;\n\nPinus wallichiana Jackson;\n\nTaxodiacea:\n\nCryptomeria japonica (L. f.) D. Don;\n\nSequoia sempervirens (D. Don) Endl.;\n\nTaxodium distichum (L.) Richards.\n\nCupressaceae:\n\nCalocedrus decurrens (Torrey) Florin;\n\nChamaecyparis obtusa (Siebold & Zuccarini) Endi.;\n\nCupressus arizonica Greene;\n\nJuniperus virginiana L.;\n\nThuja plicata D. Don.\n\nAngiospermae\n\nAceraceae:\n\nAcer campestre L. - bordo.\n\nBetulaceae:\n\nAlnus cordata Desfontaines - amieiro-napolitano;\n\nBetula pendula Rothwell - vidoeiro.\n\nBignoniaceae:\n\nCatalpa bignonioides Walter - catalpa.\n\nCasuarinaceae:\n\nCasuarina cunninghamiana Miquel - casuarina-ténue;\n\nCasuarina equisetifolia L. - casuarina-cavalinha.\n\nFagaceae:\n\nCastanea crenata Siebold & Zuccarini - castanheiro-do-japão,\n\nNothofagus obliqua (Mirbel) Blume - roble-do-chile;\n\nQuercus cerris L. - carvalho-turco;\n\nQuercus coccinea Muenchhausen - carvalho-vermelho-americano;\n\nQuercus palustris Muenchhausen - carvalho-vermelho-americano.\n\nHammamelidaceae:\n\nLiquidambar styraciflua L. - liquidâmbar.\n\nHippocastanaceae:\n\nAesculus hippocastanum L. - castanheiro-da-índia;\n\nAesculus x carnea Hayne - castanheiro-da-índia.\n\nJunglandaceae:\n\nCarya illioinensis (Wangenheim) K. Koch - cária-branca;\n\nJunglans nigra L. - nogueira-preta;\n\nJunglans regia L. - nogueira.\n\nLauraceae:\n\nCinnamomum camphora (L.) Siebold - canforeira.\n\nLeguminosae:\n\nAlbizzia julibrissin Durazz. - albízia-de-constantinopla;\n\nAIbizzia lophanta (Will.) Benth - albízia;\n\nSophora japonica L. - sófora-do-japão.\n\nMagnoliaceae:\n\nLiriodendron tulipiferum L. - tulipeiro.\n\nMoraceae:\n\nMorus alba L. - amoreira-branca;\n\nMorus nigra L. - amoreira-negra.\n\nMyrtaceae:\n\nEucaliptus x algeriensis Trabut. - eucalipto;\n\nEucaliptus botryoides Smith - eucalipto;\n\nEucaliptus cladocalyx Muller - eucalipto;\n\nEucaliptus cornuta Labill. - eucalipto;\n\nEucaliptus dalrympleana Maiden - eucalipto;\n\nEucaliptus diversicolor Muller - eucalipto;\n\nEucaliptus gomphocephala De Candolle - eucalipto;\n\nEucaliptus grandis (Hill.) Maiden - eucalipto;\n\nEucaliptus gunnii Hoker f. - eucalipto;\n\nEucaliptus rirtoniana Muiler - eucalipto;\n\nEucaliptus maideni Muller - eucalipto;\n\nEucaliptus nitens Maiden - eucalipto;\n\nEucaliptus obliqua L'Hérit. - eucalipto;\n\nEucaliptus polyanthemos Schauer - eucalipto;\n\nEucaliptus resinifera Smith - eucalipto;\n\nEucaliptus robusta Smith - eucalipto;\n\nEucaliptus rudis Endl. - eucalipto;\n\nEucaliptus sideroxylon (A. Cunn.) - eucalipto;\n\nEucaliptus smithii R. T. Baker - eucalipto;\n\nEucaliptus tereticornis Smith - eucalipto;\n\nEucaliptus x trabuti Vilmorin ex Trabut - eucalipto;\n\nMelaleuca armilaris Smith - melaleuca;\n\nMetrosiderus excelsa Soland ex Gaertn. - metrosídero;\n\nMetrosiderus robustus A. Cunn. - metrosídero-robusto.\n\nOleaceae:\n\nFraxinus americana L. - freixo-americano;\n\nFraxinus excelsior L. - freixo-europeu;\n\nFraxinus pennsylvanica Marsh - freixo-americano;\n\nLigustrum lucidum Aiton fil. - alfenheiro-da-china.\n\nScrophullariaceae:\n\nPaulownia tomentosa (Thunberg) Steudel - paulónia.\n\nTiliaceae:\n\nTilia cordata Miller - tília-de-folhas-pequenas;\n\nTilia platyphyllos Scopoli - tília-de-folhas-grandes;\n\nTilia tomentosa Moench - tília-prateada.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892254": {
+   "fragment_id": "35296075",
+   "type": 14,
+   "heading": "Anexo III — Espécies não indígenas com risco ecológico conhecido",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "## Anexo III — Espécies não indígenas com risco ecológico conhecido\n\nFauna\n\nInvertebrados\n\nCrustáceos:\n\nProcambarus clarckii.\n\nMoluscos:\n\nDreissena polymorpha;\n\nDreissena bugensis.\n\nVertebrados\n\nPeixes dulciaquícolas:\n\nPerca fluviatilis;\n\nLepomys cyanellus;\n\nLepomys gibbosus;\n\nLates niloticus;\n\nOreochromis niloticus;\n\nOreochromis leucocistus;\n\nTilapia zilli;\n\nTilapia melanopleura;\n\nStizostedion vitreum;\n\nStizostedion lucioperca;\n\nGymnocephalus cernuus;\n\nHypophthalmickthys molitrix;\n\nOsmerus mordax;\n\nMisgurnus anguillicaudatus;\n\nGambusia holbrooki;\n\nSiluros glanis.\n\nAnfíbios:\n\nRana catesbeiana.\n\nRépteis:\n\nChrysemys picta;\n\nTrachemys scrypla;\n\nChelydra serpentina;\n\nMacroclemys temminckii.\n\nAves:\n\nOxyura jamaicensis.\n\nMamíferos:\n\nRodentia:\n\nSciurus carolinensis;\n\nMyocastor coypus;\n\nOndatra zibethicus;\n\nCastor fiber;\n\nCastor canadensis;\n\nCarnivora:\n\nMustela vison;\n\nProcyon lotor;\n\nNyctereutes procyonoides.\n\nFlora\n\nPteridophyta\n\nFilicopsida:\n\nAzollaceae:\n\nAzolla spp.\n\nDicotiledoneae\n\nAmaranthaceae:\n\nAlternanthera philoxeroides (C. Martius) Griseb;\n\nAlternanthera caracasana;\n\nAlternanthera nodiflora;\n\nAlternanthera herapungens Kunth.\n\nPolygonaceae:\n\nReynoutria japonica Houtt. (Fallopia japonica, Polygonum cuspidatum).\n\nLeguminosae:\n\nAcacia farnesiana (L.) Willd.;\n\nPueraria lobata (Willd.) Maesen & S. Almeida.\n\nOnagraceae:\n\nLudwigia peploides;\n\nLudwigia uruguayensis.\n\nBalsaminaceae:\n\nImpatiens glandulifera Royle.\n\nCompositae:\n\nSenecio inaequidens DC.\n\nMonocotiledoneae\n\nAlismataceae:\n\nSagittaria latifolia Willd.\n\nHydrocharitaceae:\n\nHydrilla certicillata (L. f.) C. Presl.\n\nAraceae:\n\nPistia stratioides L.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  },
+  "146892255": {
+   "fragment_id": "35296175",
+   "type": 14,
+   "heading": "Anexo IV — Modelo do extracto-resumo a afixar pelos comerciantes nos estabelecimentos de plantas ornamentais e animais de companhia conforme preconizado pelo n.º 1 do artigo 15.º Espécies não indígenas",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "## Anexo IV — Modelo do extracto-resumo a afixar pelos comerciantes nos estabelecimentos de plantas ornamentais e animais de companhia conforme preconizado pelo n.º 1 do artigo 15.º Espécies não indígenas\n\nUma espécie não indígena (ou espécie exótica) é uma espécie da flora ou da fauna não originária de Portugal e nunca registada como tendo ocorrido naturalmente no nosso país. No caso das espécies aquáticas, considera-se que uma espécie é não indígena se não for originária de uma bacia hidrográfica.\n\nMuitas espécies não indígenas foram introduzidas em Portugal com particulares benefícios (por exemplo, a batata). Contudo, muitas outras podem ser muito prejudiciais, como é o caso do jacinto-d'água e da perca-sol.\n\nO Decreto-Lei n.º 565/99, de 21 de Dezembro, pretende regulamentar a introdução intencional ou acidental de espécies não indígenas em Portugal continental e nas suas bacias hidrográficas.\n\nPara isso, considera que uma introdução é o estabelecimento de populações selvagens de uma espécie não indígena em local não confinado. Uma introdução pode originar situações de predação ou competição com espécies nativas e a transmissão de agentes patogénicos ou de parasitas e afectar seriamente a diversidade biológica, as actividades económicas ou a saúde pública. Uma introdução pode causar prejuízos irreversíveis e de difícil contabilização, tanto mais que o controlo ou erradicação de uma espécie introduzida é especialmente complexo e oneroso.\n\nPor esse motivo são proibidas a disseminação ou libertação na Natureza de espécimes de espécies não indígenas, com ou sem o propósito de estabelecer populações selvagens.\n\nA única excepção, sujeita a autorização, é a disseminação ou a libertação na Natureza de espécimes de espécies não indígenas, visando o estabelecimento de populações selvagens, quando existam vantagens inequívocas para o Homem ou para as biocenoses naturais, desde que não haja nenhuma espécie indígena apta para o mesmo fim e seja elaborado um estudo do impacte da introdução. É abrangida por esta excepção a utilização de espécies não indígenas para aquicultura ou apicultura.\n\nPara prevenir as introduções acidentais são proibidos a cedência, a compra, a venda, a oferta de venda, o transporte, o cultivo, criação ou detenção em local confinado, a exploração económica e a utilização como planta ornamental ou animal de companhia de espécies identificadas como invasoras e de espécies consideradas como comportando risco ecológico, salvo, quando autorizado, para fins científicos e educativos.\n\nAinda como prevenção de introduções acidentais os estabelecimentos que detêm espécimes de espécies não indígenas, salvo se forem espécies de exploração agrícola ou zootécnica, estão sujeitos a licenciamento específico, dependente das suas condições sanitárias e de segurança e do registo dos espécimes comercializados.\n\nAs infracções a estas proibições e condições constituem contra-ordenações puníveis com coimas que podem ir de 30000$00 a 750000$00, multiplicáveis até 12 vezes se praticadas por pessoas colectivas, e com sanções acessórias como a apreensão dos espécimes, a interdição do exercício da actividade, o encerramento do estabelecimento ou a suspensão de autorizações e licenças.\n\nEste extracto-resumo deve ser afixado pelos comerciantes de plantas ornamentais ou de animais de companhia em local bem visível do seu estabelecimento.\n\n> Revogado pelo/a Artigo 46.º do/a [Decreto-Lei n.º 92/2019 - Diário da República n.º 130/2019, Série I de 2019-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), em vigor a partir de 2019-07-11"
+  }
+ }
+}

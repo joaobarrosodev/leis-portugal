@@ -1,0 +1,586 @@
+---
+schema_version: '1.0'
+id: pt:dre:301011:por
+title: Decreto-Lei n.º 359/91
+short_title: null
+summary: Estabelece normas relativas ao crédito ao consumo. Transpõe para a ordem jurídica interna as Directivas n.os 87/102/CEE,
+  de 22 de Dezembro de 1986, e 90/88/CEE, de 22 de Fevereiro de 1990
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 359/91
+official_date: null
+publication_date: '1991-09-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 218/1991, Série I-A de 1991-09-21
+  number: '218'
+  series: I
+  supplement: null
+  pages: 4998 - 5003
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/09/218a00/49985003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2009-07-01'
+version_history:
+  file: decreto-lei-359-91.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1991-09-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-06-03'
+    amending: pt:dre:291653:por
+    amending_title: Decreto-Lei n.º 101/2000
+    changes:
+    - Altera Anexo N.º 1
+    - Altera Anexo N.º 2
+  - date: '2006-07-02'
+    amending: pt:dre:660328:por
+    amending_title: Decreto-Lei n.º 82/2006
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 17.º
+  - date: '2009-07-01'
+    amending: pt:dre:494264:por
+    amending_title: Decreto-Lei n.º 133/2009
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/359/1991/p/cons/20090602/pt/html
+  oj: null
+  dre: '301011'
+  dre_path: /dr/detalhe/decreto-lei/359-1991-301011
+  internal: pt:dre:301011:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1991-301011
+  metadata_url: https://data.dre.pt/eli/dec-lei/359/1991/p/cons/20090602/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-34468375
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-34468375
+  retrieved_at: '2026-10-22T11:43:29Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d2e4aae106c1b315a91d021fd85d04c4fde5c72dd77e495c67267078f1082a7a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:43:29Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-359-91.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Moeda Eletrónica
+- CEE
+- Crédito ao Consumo
+- Informação do Consumidor
+- Proteção do Consumidor
+- TAXA Anual de Encargos Efectiva Global
+- Venda a Prestações
+relationships:
+- type: amended_by
+  target: pt:dre:291653:por
+  label: Altera Anexo N.º 1; Altera Anexo N.º 2
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2000-291653
+  date: '2000-06-02'
+- type: amended_by
+  target: pt:dre:660328:por
+  label: Altera Artigo 5.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2006-660328
+  date: '2006-05-03'
+- type: amended_by
+  target: pt:dre:494264:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264
+  date: '2009-06-02'
+- type: cites
+  target: celex:31987L0102
+  label: null
+  source: http://data.europa.eu/eli/dir/1987/102/oj
+- type: cites
+  target: celex:31990L0088
+  label: null
+  source: http://data.europa.eu/eli/dir/1990/88/oj
+article_structure:
+  article_count: 23
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:43:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 359/91
+
+Tem-se registado nos últimos anos um significativo desenvolvimento do fenómeno do crédito ao consumo, a que correspondem um crescimento notório da oferta e a adopção de novas formas de crédito.
+
+Não raro, certas modalidades de crédito ao consumo têm associadas, de modo mais ou menos explícito, condições abusivas, pelo que se mostra necessário instituir regras mínimas de funcionamento, de modo a assegurar o cumprimento do objectivo constitucional e legalmente fixado de protecção dos direitos dos consumidores.
+
+Desde logo importa garantir uma informação completa e verdadeira, susceptível de contribuir para uma correcta formação da vontade de contratar. Para o efeito, afigura-se imprescindível regular as condições em que se realiza a publicitação do crédito, sendo igualmente necessário estabelecer mecanismos que permitam ao consumidor conhecer o verdadeiro custo total do crédito que lhe é oferecido.
+
+Foi com estes objectivos que a nível comunitário foram aprovadas as Directivas n.os <a href="eurlex.asp?ano=1987&id=387L0102" title="Link para Directiva da Comunidade Europeia">87/102/CEE</a>, de 22 de Dezembro de 1986, e <a href="eurlex.asp?ano=1990&id=390L0088" title="Link para Directiva da Comunidade Europeia">90/88/CEE</a>, de 22 de Fevereiro de 1990, transpostas para o direito interno pelo presente diploma, as quais, procurando harmonizar a legislação vigente nos diferentes Estados membros, contribuem para a eliminação de fenómenos indesejáveis de distorção da concorrência no espaço comunitário.
+
+Decorre dos mencionados diplomas comunitários a adopção da taxa anual de encargos efectiva global, com base na qual será calculado o referido custo do crédito, tendo em atenção os encargos a suportar e o crédito a conceder, no contexto de uma mesma operação, em momentos diversos, permitindo-se, deste modo, uma análise comparativa de ofertas afins em todo o espaço comunitário.
+
+A uniformização, no quadro da Comunidade Europeia, do método de cálculo desta taxa obrigou a que figurassem num anexo ao diploma, a título meramente indicativo, alguns exemplos da sua aplicação, reputados indispensáveis para a correcta utilização da mesma por parte dos destinatários do diploma ora publicado.
+
+São igualmente definidos os requisitos do contrato de crédito, que constituirão um conjunto de garantias adicionais para o consumidor.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+### Capítulo I — Âmbito de aplicação
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 1.º — Objecto
+
+O presente diploma aplica-se aos contratos de crédito ao consumo e procede à transposição para o direito interno das Directivas do Conselho das Comunidades Europeias n.os <a href="eurlex.asp?ano=1987&id=387L0102" title="Link para Directiva da Comunidade Europeia">87/102/CEE</a>, de 22 de Dezembro de 1986, e <a href="eurlex.asp?ano=1990&id=390L0088" title="Link para Directiva da Comunidade Europeia">90/88/CEE</a>, de 22 de Fevereiro de 1990.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 2.º — Definições
+
+1 - Para os efeitos da aplicação deste diploma entende-se por:
+
+a) «Contrato de crédito», o contrato por meio do qual um credor concede ou promete conceder a um consumidor um crédito sob a forma de diferimento de pagamento, mútuo, utilização de cartões de crédito ou qualquer outro acordo de financiamento semelhante;
+
+b) «Consumidor», a pessoa singular que, nos negócios jurídicos abrangidos pelo presente diploma, actua com objectivos alheios à sua actividade comercial ou profissional;
+
+c) «Credor», a pessoa singular ou colectiva que, no exercício da sua actividade comercial ou profissional, concede o crédito;
+
+d) «Custo total do crédito para o consumidor», a totalidade dos custos do crédito, incluindo juros e outras despesas que o consumidor deva pagar pelo crédito;
+
+e) «Taxa anual de encargos efectiva global», o custo total do crédito para o consumidor, expresso em percentagem anual do montante do crédito concedido.
+
+2 - Não é considerado contrato de crédito o contrato de prestação de serviço com carácter de continuidade, em que o consumidor tenha o direito de efectuar pagamentos parciais durante o período de prestação do serviço.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 3.º — Operações excluídas
+
+O presente decreto-lei não se aplica aos contratos em que:
+
+a) Uma das partes se obriga, contra retribuição, a conceder à outra o gozo temporário de uma coisa móvel de consumo duradouro, excepto se o locatário tiver o direito de adquirir a coisa locada, num prazo convencionado, eventualmente mediante o pagamento de um preço determinado ou determinável nos termos do próprio contrato;
+
+b) O crédito concedido se destine predominantemente à aquisição, construção, beneficiação, recuperação ou ampliação de edifícios ou à aquisição de terrenos;
+
+c) O montante do crédito concedido seja inferior a 30000$00 ou superior a 6000000$00;
+
+d) O crédito seja concedido ou posto à disposição do consumidor sem juros ou outros encargos;
+
+e) Não sejam cobrados juros, mas existam outros encargos, se o reembolso do crédito se efectuar numa só prestação;
+
+f) O prazo de reembolso do crédito não ultrapasse três meses e o credor não seja uma instituição de crédito.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+### Capítulo II — Regime geral
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 4.º — Taxa anual de encargos efectiva global
+
+1 - A taxa que torna equivalentes, numa base anual, os valores actualizados do conjunto dos empréstimos realizados ou a realizar pelo credor, por um lado, e dos reembolsos e encargos realizados ou a realizar pelo consumidor, por outro, designa-se taxa anual de encargos efectiva global, abreviadamente TAEG, e é calculada de acordo com a expressão matemática constante do anexo n.º 1 ao presente diploma, que dele faz parte integrante.
+
+2 - A TAEG é calculada no momento da celebração do contrato de crédito, sem prejuízo do disposto no artigo 5.º
+
+3 - O cálculo é efectuado no pressuposto de que o contrato de crédito vigorará pelo período de tempo acordado e de que as respectivas obrigações serão cumpridas nos prazos e datas convencionados.
+
+4 - Sempre que na concessão de crédito haja intervenção de terceiro que, por qualquer modo, actue como intermediário do credor, os custos eventualmente cobrados a título de intermediação serão incluídos no cálculo da TAEG.
+
+5 - No cálculo da TAEG não são incluídas as seguintes despesas:
+
+a) As importâncias a pagar pelo consumidor em consequência do incumprimento de alguma das obrigações que lhe incumbem por força do contrato de crédito;
+
+b) As despesas, diversas do preço, que, independentemente de se tratar de negócio celebrado a pronto ou a crédito, sejam suportadas pelo consumidor aquando da aquisição de bens ou serviços;
+
+c) As despesas de transferência de fundos, bem como os encargos relativos à manutenção de uma conta destinada a receber os montantes debitados a título de reembolso do crédito, de pagamento dos juros e dos outros encargos, excepto se, não dispondo o consumidor de liberdade de escolha para o efeito, tais despesas forem anormalmente elevadas, sem prejuízo do disposto na alínea a) do número seguinte;
+
+d) As quotizações devidas a título de inscrição em associações ou grupos e decorrentes de acordos distintos do contrato de crédito, embora tenham incidência sobre as condições do crédito;
+
+e) As despesas de seguro ou de garantia, salvo o disposto na alínea b) do número seguinte.
+
+6 - Incluem-se igualmente no cálculo da TAEG:
+
+a) As despesas de cobrança dos reembolsos e pagamentos referidos na alínea c) do número anterior;
+
+b) As despesas de seguro ou de garantia que se destinem a assegurar ao credor, em caso de morte, invalidez, doença ou desemprego do consumidor, o reembolso de uma quantia igual ou inferior ao montante total do crédito, incluindo os juros e outras despesas, e que sejam exigidas pelo credor como condição para a concessão do crédito.
+
+7 - Sempre que os contratos de crédito contenham cláusulas que permitam alterar a taxa de juro e o montante ou o nível das outras despesas incluídas no cálculo da TAEG, mas não quantificáveis no momento do respectivo cálculo, a TAEG é calculada no pressuposto de que a taxa de juro e as outras despesas se manterão fixas relativamente ao nível inicial e de que serão aplicáveis até ao termo do contrato de crédito.
+
+8 - No cálculo da TAEG procede-se supletivamente do seguinte modo:
+
+a) Se o contrato não previr qualquer limite ao crédito, presume-se que o crédito concedido é de 300000$00;
+
+b) Se não forem fixados nem resultarem das cláusulas do contrato ou do meio de pagamento prazos para o reembolso do crédito concedido, presume-se que a sua duração é de um ano, com um único reembolso no final do prazo;
+
+c) Se o contrato admitir várias datas de reembolso, presume-se que o crédito será posto à disposição e os reembolsos serão efectuados na data mais próxima prevista no contrato.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 5.º — Comunicações comerciais
+
+1 - Sem prejuízo das normas aplicáveis em geral à actividade publicitária, toda a comunicação comercial, incluindo a publicidade, em que um agente económico se proponha conceder crédito ou servir de intermediário para a celebração de contratos de crédito deve indicar sempre a TAEG para cada modalidade de crédito a que essa comunicação se refere, mesmo que apresente o crédito como gratuito, sem juros ou utilize expressões equivalentes.
+
+2 - Se, em função das condições concretas do crédito, houver lugar à aplicação de diferentes TAEG, devem ser indicadas todas as TAEG aplicáveis.
+
+3 - A indicação da TAEG que, pelo seu tratamento gráfico ou áudio-visual, não seja facilmente legível ou perceptível pelo consumidor não cumpre o disposto nos números anteriores.
+
+4 - A TAEG será indicada, se não for possível outro meio, através de um exemplo representativo, como é ilustrado no anexo n.º 2 ao presente diploma e que dele faz parte integrante.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2006 - Diário da República n.º 85/2006, Série I-A de 2006-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2006-660328), em vigor a partir de 2006-07-02
+
+###### Artigo 6.º — Requisitos do contrato de crédito
+
+1 - O contrato de crédito deve ser reduzido a escrito e assinado pelos contraentes, sendo obrigatoriamente entregue um exemplar ao consumidor no momento da respectiva assinatura.
+
+2 - Para além dos requisitos exigidos em geral para os negócios jurídicos, do contrato de crédito devem constar também os seguintes elementos:
+
+a) A TAEG;
+
+b) Os elementos de custo referidos no artigo 4.º que não tenham sido incluídos no cálculo da TAEG, mas que devam ser suportados pelo consumidor;
+
+c) As condições em que pode ser alterada a TAEG;
+
+d) As condições de reembolso do crédito;
+
+e) A possibilidade de exercício do direito de cumprimento antecipado do contrato por parte do consumidor e o método de cálculo da correspondente redução do custo do crédito, nas condições previstas no artigo 8.º;
+
+f) O período de reflexão a que se refere o artigo 8.º;
+
+g) As garantias, incluindo as suas condições de utilização e o respectivo custo para o consumidor;
+
+h) O seguro exigido, se for o caso, e o respectivo custo, quando o consumidor não puder escolher a entidade seguradora.
+
+3 - O contrato de crédito que tenha por objecto o financiamento da aquisição de bens ou serviços mediante pagamento em prestações deve indicar ainda:
+
+a) A descrição do bem ou serviço;
+
+b) A identificação do fornecedor do bem ou serviços;
+
+c) O preço a contado;
+
+d) O valor total das prestações, entendendo-se como tal a soma de todos os pagamentos que o consumidor deva efectuar nos termos do contrato;
+
+e) O número, o montante e a data de vencimento das prestações;
+
+f) O acordo sobre a reserva de propriedade.
+
+4 - Para além dos elementos mencionados no n.º 2, os contratos de crédito que permitem a utilização de cartões de crédito devem ainda indicar:
+
+a) O limite máximo do crédito concedido;
+
+b) O modo de determinar as condições de reembolso quando não for possível fixá-las.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 7.º — Invalidade do contrato de crédito
+
+1 - O contrato de crédito é nulo quando não for observado o prescrito no n.º 1 ou quando faltar algum dos elementos referidos nas alíneas a), c) e d) do n.º 2, nas alíneas a) a e) do n.º 3 e no n.º 4 do artigo anterior.
+
+2 - O contrato de crédito é anulável quando faltar algum dos elementos referidos nas alíneas b), e), f) e h) do n.º 2 do artigo anterior.
+
+3 - A não inclusão dos elementos referidos nas alíneas g) do n.º 2 e f) do n.º 3 do artigo anterior determina a respectiva inexigibilidade.
+
+4 - A inobservância dos requisitos constantes do artigo anterior presume-se imputável ao credor e a invalidade do contrato só pode ser invocada pelo consumidor.
+
+5 - O consumidor pode provar a existência do contrato por qualquer meio, desde que não tenha invocado a nulidade.
+
+6 - Se o consumidor fizer uso da faculdade prevista no número anterior, é aplicável o disposto nas alíneas seguintes:
+
+a) Tratando-se de contrato de crédito para financiamento da aquisição de bens ou serviços mediante pagamento a prestações, a obrigação do consumidor quanto ao pagamento será reduzida ao preço a contado e o consumidor manterá o direito de realizar tal pagamento nos prazos convencionados;
+
+b) Nos restantes contratos, a obrigação do consumidor quanto ao pagamento será reduzida ao montante do crédito concedido e o consumidor manterá o direito a realizar o pagamento nas condições que tenham sido acordadas ou que resultem dos usos.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 8.º — Período de reflexão
+
+1 - Com excepção dos casos previstos no n.º 5, a declaração negocial do consumidor relativa à celebração de um contrato de crédito só se torna eficaz se o consumidor não a revogar, em declaração enviada ao credor por carta registada com aviso de recepção e expedida no prazo de sete dias úteis a contar da assinatura do contrato, ou em declaração notificada ao credor, por qualquer outro meio, no mesmo prazo.
+
+2 - A fim de facilitar o exercício do direito de revogação previsto no presente artigo, é anexado ao contrato de crédito um formulário da declaração de revogação, a subscrever, se for caso disso, pelo consumidor.
+
+3 - A revogação efectuada nos termos do n.º 1 não envolve qualquer encargo ou obrigação para o consumidor, tendo este o direito à restituição de qualquer quantia que tenha pago, depois de deduzidas as importâncias desembolsadas pelo credor a título de impostos.
+
+4 - O cumprimento do contrato de crédito por parte do credor e a entrega, por parte do vendedor, do bem objecto do respectivo financiamento, nos termos do n.º 1 do artigo 12.º, não são exigíveis enquanto se não tornar eficaz a declaração negocial do consumidor.
+
+5 - Sem prejuízo do disposto no n.º 2, pode o consumidor, em caso de entrega imediata do bem, renunciar, através de declaração separada e exclusiva para o efeito, ao exercício do direito de revogação previsto no presente artigo.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 9.º — Cumprimento antecipado
+
+1 - O consumidor tem direito de cumprir antecipadamente, parcial ou totalmente, o contrato de crédito, sendo-lhe calculado o valor do pagamento antecipado do montante em dívida com base numa taxa de actualização, que corresponderá a uma percentagem mínima de 90% da taxa de juro em vigor no momento da antecipação para o contrato em causa.
+
+2 - No caso de cumprimento antecipado parcial, o direito consagrado no número anterior só pode ser exercido uma vez, se as partes não acordarem em sentido diverso no próprio contrato.
+
+3 - O consumidor que pretender efectuar o cumprimento antecipado do contrato deve avisar o credor com a antecedência mínima de 15 dias.
+
+4 - O credor pode, todavia, exigir os juros e outros encargos correspondentes a um período convencionado que não exceda a primeira quarta parte do prazo inicialmente previsto, quando o consumidor cumprir as suas obrigações antes do decurso daquele período.
+
+5 - Tratando-se de contrato de crédito que tenha como objecto a venda de uma coisa ou o fornecimento de um serviço mediante pagamento em prestações, a antecipação entende-se sempre reportada à última ou às últimas prestações vincendas e não pode em caso algum implicar redução de custos relativamente à primeira prestação vincenda.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 10.º — Cessão de créditos
+
+1 - À cessão de créditos é aplicável o regime constante dos artigos 577.º e seguintes do Código Civil.
+
+2 - O consumidor pode opor ao cessionário todos os meios de defesa que lhe seria lícito invocar contra o cedente, nos termos do artigo 585.º do Código Civil, incluindo o direito à compensação.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 11.º — Utilização de títulos de crédito com função de garantia
+
+1 - Se, em relação a um contrato de crédito ao consumo, o consumidor subscrever letras ou livranças com função de garantia, deve ser aposta naqueles títulos a expressão «não à ordem», ou outra equivalente, nos termos e com os efeitos previstos na legislação especial aplicável.
+
+2 - A inobservância do disposto no número anterior presume-se imputável ao credor que, salvo o caso de culpa do consumidor, será responsável face a terceiros.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 12.º — Venda de bens ou prestação de serviços por terceiro
+
+1 - Se o crédito for concedido para financiar o pagamento de um bem vendido por terceiro, a validade e eficácia do contrato de compra e venda depende da validade e eficácia do contrato de crédito, sempre que exista qualquer tipo de colaboração entre o credor e o vendedor na preparação ou na conclusão do contrato de crédito.
+
+2 - O consumidor pode demandar o credor em caso de incumprimento ou de cumprimento defeituoso do contrato de compra e venda por parte do vendedor desde que, não tendo obtido do vendedor a satisfação do seu direito, se verifiquem cumulativamente as seguintes condições:
+
+a) Existir entre o credor e o vendedor um acordo prévio por força do qual o crédito é concedido exclusivamente pelo mesmo credor aos clientes do vendedor para a aquisição de bens fornecidos por este último;
+
+b) Ter o consumidor obtido o crédito no âmbito do acordo prévio referido na alínea anterior.
+
+3 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, aos créditos concedidos para financiar o pagamento do preço de um serviço prestado por terceiro.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+### Capítulo III — Regimes especiais
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 13.º — Concessão de crédito em conta corrente
+
+1 - Nos contratos celebrados por instituições de crédito ou outras instituições financeiras e um consumidor para a concessão de crédito em conta corrente, independentemente da forma que assumam, o consumidor será informado por escrito, no momento da celebração do contrato ou em momento anterior, dos seguintes elementos:
+
+a) O eventual limite do crédito ou a forma de o determinar;
+
+b) A taxa de juro anual, os encargos aplicáveis aquando da celebração do contrato e as condições em que a taxa de juro e os encargos podem ser alterados;
+
+c) O período de reflexão, caso seja aplicável;
+
+d) Os termos de utilização do crédito e as condições de reembolso;
+
+e) As condições de cessação do contrato.
+
+2 - Durante a vigência do contrato, o consumidor será informado por escrito de qualquer alteração da taxa de juro anual ou dos encargos aplicáveis, no momento em que se verificar tal alteração, podendo a informação ser prestada através de extracto de conta.
+
+3 - As alterações referidas no número anterior só podem ser aplicadas a partir da data da comunicação ao consumidor.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 14.º — Concessão de crédito sob a forma de descoberto
+
+1 - Na concessão de crédito sob a forma de descoberto susceptível de se prolongar por um período superior a três meses, o consumidor será informado da taxa de juro anual e dos encargos aplicáveis, bem como das condições em que a taxa de juro e os encargos podem ser alterados.
+
+2 - A concessão de crédito através de contas de depósito que sejam configuradas de modo a conceder a possibilidade de o consumidor realizar levantamentos de fundos a descoberto por prazo superior a três meses fica sujeita ao regime constante do artigo anterior.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 15.º — Contratos de crédito celebrados por documento autêntico
+
+Não são aplicáveis os artigos 8.º e 10.º a 12.º aos contratos de crédito celebrados por documento autêntico.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 16.º — Contratos de crédito garantidos por hipoteca sobre imóveis
+
+Não são aplicáveis os artigos 8.º a 11.º aos contratos de crédito garantidos por hipoteca sobre imóveis que estejam abrangidos no âmbito de aplicação do presente decreto-lei.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+### Capítulo IV — Disposições finais
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 17.º — Contra-ordenações
+
+1 - A infracção ao disposto no artigo 5.º constitui contra-ordenação punível com coima de (euro) 1746 a (euro) 3740 ou de (euro) 5000 a (euro) 40000, consoante o infractor seja pessoa singular ou colectiva.
+
+2 - Às contra-ordenações previstas no presente diploma aplicam-se as normas constantes do Código da Publicidade referentes à negligência, co-autoria, sanções acessórias, fiscalização, instrução de processos, aplicação de sanções e destino das receitas das coimas.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2006 - Diário da República n.º 85/2006, Série I-A de 2006-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2006-660328), em vigor a partir de 2006-07-02
+
+###### Artigo 18.º — Carácter injuntivo
+
+1 - É nula qualquer convenção que exclua ou restrinja os direitos atribuídos ao consumidor pelo presente decreto-lei.
+
+2 - O consumidor pode optar pela manutenção do contrato quando algumas das suas cláusulas for nula nos termos do número anterior.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 19.º — Fraude à lei
+
+São irrelevantes as situações criadas com o intuito fraudulento de evitar a aplicação do disposto no presente diploma, designadamente as que consistam no fraccionamento do montante do crédito por contratos distintos.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 20.º — Aplicação no espaço
+
+O disposto no presente diploma aplica-se, seja qual for a lei reguladora do contrato, se o consumidor tiver a sua residência habitual em Portugal, desde que a celebração do contrato tenha sido precedida de uma oferta ou de publicidade feita em Portugal e o consumidor tenha emitido no País a sua declaração negocial.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 21.º — Aplicação no tempo
+
+O disposto no presente diploma aplica-se aos contratos de crédito que se celebrem ou renovem após a data da sua entrada em vigor.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+###### Artigo 22.º — Disposição revogatória
+
+São revogados os artigos 2.º e 3.º, 5.º a 7.º, 11.º e 12.º e os n.os 4 e 6 do artigo 13.º do Decreto-Lei n.º 457/79, de 21 de Novembro, bem como quaisquer outras normas que contrariem o disposto no presente diploma.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 199-B/91 - Diário da República n.º 218/1991, 1º Suplemento, Série I-A de 1991-09-21](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/199-b-1991-641083), produz efeitos a partir de 1991-10-21
+
+###### Artigo 23.º — Entrada em vigor
+
+1 - O presente decreto-lei entra em vigor 30 dias após a data da sua publicação, com excepção do artigo 4.º, o qual produz efeitos 120 dias após a mesma data.
+
+2 - Enquanto não entrar em vigor o artigo 4.º, as exigências contidas nos artigos 5.º e 6.º, n.º 2, alínea a), quanto à menção da taxa anual de encargos efectiva global, devem entender-se como referidas ao custo total do crédito para o consumidor.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+Visto e aprovado em Conselho de Ministros de 25 de Julho de 1991. - Aníbal António Cavaco Silva - José Oliveira Costa - José António Leite de Araújo - Carlos Alberto Diogo Soares Borrego.
+
+Promulgado em 6 de Setembro de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 10 de Setembro de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+## Anexo I — Expressão matemática a utilizar no cálculo da taxa anual de encargos efectiva global
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2000 - Diário da República n.º 128/2000, Série I-A de 2000-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2000-291653), em vigor a partir de 2000-06-03
+
+## Anexo II — Exemplos de cálculo
+
+1 - Primeiro exemplo. - A soma emprestada é de 150000$00.
+
+Esta soma é reembolsada num único pagamento de 180000$00, efectuado 18 meses após a data do empréstimo.
+
+A equação neste caso é a seguinte:
+
+150000 = 180000/(1 + i)(elevado a 1,5)
+
+ou seja:
+
+(1 + i)(elevado a 1,5) = 1,2
+
+1 + i = 1,2(elevado a 1/1,5)
+
+i = 0,129243 ...
+
+A taxa anual de encargos efectiva global será arredondada para 12,9%.
+
+2 - Segundo exemplo. - A soma emprestada é de 150000$00.
+
+O mutuante retém 2500$00 para despesas de inquérito e de dossier, de modo que o empréstimo diz na realidade respeito apenas a 147500$00.
+
+O reembolso de 180000 é efectuado 18 meses após a data do empréstimo.
+
+A equação neste caso é a seguinte:
+
+147500 = 180000/(1 + i)(elevado a 1,5)
+
+ou seja:
+
+(1 + i)(elevado a 1,5) = 180000/1475000 = 1,22033
+
+1 + i = 1,141967
+
+i = 0,14197
+
+A taxa anual de encargos efectiva global será arredondada para 14,2%.
+
+3 - Terceiro exemplo. - A soma emprestada é de 150000$00.
+
+O reembolso é efectuado em dois pagamentos de 90000$00 cada um, efectuados, respectivamente, um ano e dois anos depois.
+
+A equação neste caso é a seguinte:
+
+150000 = (90000/(1 + i)(elevado a 1)) + (90000/(1 + i)(elevado a 2))
+
+Resolvendo algebricamente, teremos i = 0,1306623.
+
+A taxa anual de encargos efectiva global será arredondada para 13,1%.
+
+4 - Quarto exemplo. - A soma emprestada é de 150000$00.
+
+Os reembolsos são efectuados da seguinte forma:
+
+3 meses depois (0,25 ano) ... 40800$00
+
+6 meses depois (0,50 ano) ... 40800$00
+
+12 meses depois (um ano) ... 81600$00
+
+Total ... 163200$00
+
+A equação neste caso é a seguinte:
+
+150000 = (40800/(1 + i)(elevado a 0,25)) + (40800/(1 + i)(elevado a 0,50)) + (81600/(1 + i)(elevado 1))
+
+Por aproximações sucessivas, obtém-se i = 0,131855. A solução pode ser facilmente obtida usando uma calculadora financeira de bolso.
+
+A taxa anual de encargos efectiva global será arredondada para 13,2%.
+
+> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 133/2009 - Diário da República n.º 106/2009, Série I de 2009-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2009-494264), em vigor a partir de 2009-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2000 - Diário da República n.º 128/2000, Série I-A de 2000-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2000-291653), em vigor a partir de 2000-06-03

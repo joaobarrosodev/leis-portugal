@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012L0001:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012L0001-20120114",
+ "dre_path": null,
+ "source_lastmod": "2012-01-14",
+ "versions": [
+  {
+   "date": "2012-01-07",
+   "future": false,
+   "celex": "32012L0001",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f0174bf9175f50a9",
+    "6984f15d7be8047e",
+    "2d73c13f789c1791",
+    "2e387ba46e6e8dc5",
+    "ae087a9d88f31ebb",
+    "1e7b65f47b3bbb65"
+   ]
+  }
+ ],
+ "fragments": {
+  "f0174bf9175f50a9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de janeiro de 2012\n\nque altera o anexo I da Diretiva 66/402/CEE do Conselho no que se refere às condições a que deve obedecer a cultura Oryza sativa\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 66/402/CEE do Conselho, de 14 de junho de 1966, relativa à comercialização de sementes de cereais [([^1])](http://publications.europa.eu/resource/cellar/9d6f1a0b-1753-4a9d-bd16-3a4ea2354f8d.0007.03/DOC_1#ntr1-L_2012004PT.01000801-E0001), nomeadamente o artigo 21.ºA,\n\nConsiderando o seguinte:\n\n(1) Estudos e informações recentes com origem nos Estados-Membros dão conta da necessidade de introduzir um limiar para a presença de plantas infectadas por *Fusarium fujikuroi* em campos de produção de sementes de *Oryza sativa*, uma vez que o *Fusarium fujikuroi* provoca danos no arroz e não é passível de tratamento eficaz com os produtos fitofarmacêuticos disponíveis. Esses estudos também revelaram a necessidade de reduzir a presença de plantas bravias ou de plantas de grão vermelho nos campos de produção de sementes de *Oryza sativa*, dado que, com o limiar actual, o rendimento e a qualidade das sementes de arroz são significativamente diminuídos.\n\n(2) Nesta óptica, afigura-se adequado introduzir um limiar para a presença de plantas infectadas por *Fusarium fujikuroi* nos campos de produção de sementes de *Oryza sativa*, bem como reduzir o limiar estabelecido para a presença de plantas bravias ou de plantas de grão vermelho nos campos de produção de sementes de *Oryza sativa*, no que se refere à produção da categoria de sementes certificadas. Os referidos limiares devem ser fixados com base nos estudos efectuados pelos Estados-Membros.\n\n(3) A Diretiva 66/402/CEE deve, por conseguinte, ser alterada em conformidade.\n\n(4) As medidas previstas na presente diretiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRETIVA:"
+  },
+  "6984f15d7be8047e": {
+   "fragment_id": "Artigo 1.º — Alterações à Diretiva 66/402/CEE",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Alterações à Diretiva 66/402/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alterações à Diretiva 66/402/CEE\n\nNo anexo I da Diretiva 66/402/CEE, a letra A do ponto 3 passa a ter a seguinte redacção:\n\n«A. Oryza sativa: O número de plantas reconhecíveis como estando manifestamente infectadas por *Fusarium fujikuroi* não excederá: — 2 por 200 m^2^, em relação à produção de sementes de base, — 4 por 200 m^2^, em relação à produção de sementes certificadas, primeira geração, — 8 por 200 m^2^, em relação à produção de sementes certificadas, segunda geração. O número de plantas reconhecíveis como sendo manifestamente plantas bravias ou plantas de grão vermelho não excederá: — 0, em relação à produção de sementes de base, — 1 por 100 m^2^, em relação à produção de sementes certificadas, primeira e segunda gerações.»\n\n— 2 por 200 m^2^, em relação à produção de sementes de base,\n\n— 4 por 200 m^2^, em relação à produção de sementes certificadas, primeira geração,\n\n— 8 por 200 m^2^, em relação à produção de sementes certificadas, segunda geração.\n\n— 0, em relação à produção de sementes de base,\n\n— 1 por 100 m^2^, em relação à produção de sementes certificadas, primeira e segunda gerações.»"
+  },
+  "2d73c13f789c1791": {
+   "fragment_id": "Artigo 2.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor, até 31 de maio de 2012, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições, bem como um quadro de correspondência entre as mesmas e a presente diretiva.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades da referência são adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente diretiva."
+  },
+  "2e387ba46e6e8dc5": {
+   "fragment_id": "Artigo 3.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente diretiva entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "ae087a9d88f31ebb": {
+   "fragment_id": "Artigo 4.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito em Bruxelas, em 6 de janeiro de 2012.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "1e7b65f47b3bbb65": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/9d6f1a0b-1753-4a9d-bd16-3a4ea2354f8d.0007.03/DOC_1#ntc1-L_2012004PT.01000801-E0001) [JO L 125 de 11.7.1966, p. 2309/66](http://publications.europa.eu/resource/oj/JOL_1966_125_R_TOC)."
+  }
+ }
+}

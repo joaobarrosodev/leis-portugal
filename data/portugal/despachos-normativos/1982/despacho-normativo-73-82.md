@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:392996:por
+title: Despacho Normativo n.º 73/82
+short_title: null
+summary: Fixa o limite do montante das garantias prestadas a uma só entidade pelas sociedades de investimento
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças e do Plano - Gabinete do Ministro
+proposing_entity: null
+official_number: 73/82
+official_date: null
+publication_date: '1982-05-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/1982, Série I de 1982-05-11
+  number: '108'
+  series: I
+  supplement: null
+  pages: 1229 - 1229
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10800/12291229.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '392996'
+  dre_path: /dr/detalhe/despacho-normativo/73-1982-392996
+  internal: pt:dre:392996:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/73-1982-392996
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/73-1982-392996
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:21:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a007cb4ee6d9d9f5ff12f91e937249685f4509743955de3f64d258302860c77e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:21:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Investimento
+- Sociedade de Investimento
+relationships:
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564030:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:21:27Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 73/82
+
+Tendo em conta o estabelecido no artigo 65.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 362/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1980-464022), de 9 de Setembro, e no n.º 1 do artigo 10.º do [Decreto-Lei n.º 342/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1980-463994), de 2 de Setembro, na redacção dada pelo [Decreto-Lei n.º 280/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1981-564030), de 6 de Outubro, e atendendo a que o montante das garantias prestadas a uma só entidade pelas sociedades de investimento tem os limites fixados no n.º 2 do artigo 12.º do mencionado [Decreto-Lei n.º 342/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1980-463994) e, ainda, que essas instituições parabancárias não podem receber depósitos, esclareço, ao abrigo do n.º 2 do artigo 19.º do referido [Decreto-Lei n.º 342/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1980-463994), que:
+
+As sociedades de investimento podem conceder a uma só entidade crédito directo até ao montante de 10% do seu capital e reservas, independentemente do valor das garantias que, dentro dos limites fixados no n.º 2 do artigo 12.º do [Decreto-Lei n.º 342/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1980-463994), de 2 de Setembro, lhe hajam prestado.
+
+Ministério das Finanças e do Plano, 23 de Abril de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.

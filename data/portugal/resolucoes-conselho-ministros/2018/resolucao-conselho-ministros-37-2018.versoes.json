@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114866943:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2018-919523487",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/37-2018-114866943",
+ "source_lastmod": "2025-05-26",
+ "versions": [
+  {
+   "date": "2018-03-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919442510"
+   ]
+  }
+ ],
+ "fragments": {
+  "919442510": {
+   "fragment_id": "919523488",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 37/2018\n\nO setor da saúde enfrenta um conjunto de pressões decorrentes de diferentes fatores, de entre os quais se destacam a inovação terapêutica e tecnológica, a evolução demográfica traduzida no significativo envelhecimento da população a que se associa o impacto progressivo do peso das doenças crónicas. Estes fatores têm como consequência natural um aumento da procura de cuidados de saúde cuja resposta terá de ser garantida em condições adequadas de acesso e de qualidade.\n\nEm diferentes exercícios tem ocorrido situações em que os valores orçamentados se mostram insuficientes para o conjunto das necessidades gerando desequilíbrios. A consequência direta destes desequilíbrios tem sido traduzida num indesejável processo de geração de pagamentos em atraso que cumpre evitar, tendo em vista um indispensável quadro de sustentabilidade do sistema.\n\nA estabilidade da situação financeira do Programa Orçamental da Saúde reveste-se de uma importância essencial, tendo em vista garantir as respostas em saúde indispensáveis e o adequado funcionamento do Serviço Nacional de Saúde num contexto do indispensável equilíbrio do desempenho global orçamental.\n\nNeste sentido, entende-se ser útil reforçar o modelo de acompanhamento do desempenho financeiro das entidades abrangidas pelo Programa Orçamental da Saúde bem com das entidades integradas no setor empresarial do Estado no setor da saúde.\n\nEsta tarefa, revestindo especial relevância e complexidade, requer capacidades técnicas multidisciplinares resultantes da cooperação entre o Ministério das Finanças e o Ministério da Saúde.\n\nComo tal, entende-se por benéfica a criação de uma estrutura específica, adequada aos fins que se pretende atingir, integrando elementos com experiência nesta matéria, designados pelos membros do Governo responsáveis pelas áreas das finanças e da saúde. Esta estrutura trabalhará em estreita articulação com as entidades de ambos os Ministérios.\n\nTratando-se de uma estrutura que visa o acompanhamento do Programa Orçamental da Saúde do XXI Governo Constitucional entende-se adequado que a sua duração coincida com o mandato deste Governo.\n\nAssim:\n\nNos termos do artigo 28.º da Lei n.º 4/2004, de 15 de janeiro, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:"
+  }
+ }
+}

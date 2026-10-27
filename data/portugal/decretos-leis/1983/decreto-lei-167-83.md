@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:311601:por
+title: Decreto-Lei n.º 167/83
+short_title: null
+summary: Regulamenta diversas questões de índole pedagógica e administrativa referentes ao Instituto Superior de Ciências
+  do Trabalho e da Empresa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 167/83
+official_date: null
+publication_date: '1983-04-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/1983, Série I de 1983-04-29
+  number: '98'
+  series: I
+  supplement: null
+  pages: 1526 - 1527
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/04/09800/15261527.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '311601'
+  dre_path: /dr/detalhe/decreto-lei/167-1983-311601
+  internal: pt:dre:311601:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1983-311601
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1983-311601
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:50:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 192628de911fcda0f7e5531daa9a9c97d551af46dc42ae598a21562d1e995017
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Superior
+- Equivalência de Habilitações Literárias
+- Iscte
+- Pessoal Docente
+- Quadro de Pessoal
+- Universidade Técnica de Lisboa
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:404483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685448:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:50:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 167/83
+
+de 29 de Abril
+
+Pelo [Decreto-Lei n.º 522/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1972-685448), de 15 de Dezembro, foi criado o Instituto Superior de Ciências do Trabalho e da Empresa.
+
+Destinado inicialmente ao ensino da gestão e das ciências do trabalho, o Instituto tem vindo a alargar o seu âmbito de actividade no domínio das ciências sociais, aprovado que foi, em 1978, o curso de licenciatura em Sociologia e, em 1982, o curso de licenciatura em Antropologia Social.
+
+Escola de índole universitária, o ISCTE encontra-se a aguardar a sua integração numa das universidades de Lisboa.
+
+Torna-se, porém, necessário que, até à integração, o ISCTE disponha dos instrumentos legais que lhe permitam viver plenamente a sua vocação universitária.
+
+Há, por outro lado, que esclarecer dúvidas que se têm levantado acerca da concessão do grau de doutor no quadro do disposto no artigo 3.º do [Decreto-Lei n.º 520/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1972-685446) e no artigo 4.º do [Decreto Regulamentar n.º 10/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1978-446945), de 5 de Abril, bem como salvaguardar os efeitos de actos praticados nos termos de uma diferente interpretação das referidas disposições legais.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º O Instituto Superior de Ciências do Trabalho e da Empresa (ISCTE) é um estabelecimento de ensino superior universitário.
+
+Art. 2.º A Universidade Técnica de Lisboa confere, através do ISCTE, o grau de doutor em Organização e Gestão de Empresas, em Sociologia e em Antropologia Social.
+
+Art. 3.º A Universidade Técnica de Lisboa confere, através do ISCTE, o grau de mestre nas especialidades que venham a ser autorizadas nos termos do [Decreto-Lei n.º 263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446), de 7 de Agosto.
+
+Art. 4.º Os planos e regimes de estudos dos cursos de licenciatura ministrados no ISCTE serão aprovados por portaria do Ministro da Educação.
+
+Art. 5.º São reconhecidas como válidas as equivalências ao grau de doutor conferidas nos termos do [Decreto-Lei n.º 555/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1977-404483), de 31 de Dezembro, em cujo processo o presidente do conselho científico do ISCTE exerceu as competências que, face ao disposto no artigo 3.º do [Decreto-Lei n.º 520/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1972-685446), de 15 de Dezembro, cabem ao reitor da Universidade Técnica de Lisboa.
+
+Art. 6.º - 1 - É extinto o curso de Ciências do Trabalho do ISCTE, deixando, em consequência, de ser conferidos os graus de bacharel e de licenciado em Ciências do Trabalho.
+
+2 - É extinto o grau de bacharel em Organização e Gestão de Empresas pelo ISCTE.
+
+Art. 7.º A estrutura orgânica do quadro de professores catedráticos e associados do Instituto Superior de Ciências do Trabalho e da Empresa será fixada por portaria do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa.
+
+Visto e aprovado em Conselho de Ministros de 10 de Março de 1983. - Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva.
+
+Promulgado em 12 de Abril de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 14 de Abril de 1983.
+
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

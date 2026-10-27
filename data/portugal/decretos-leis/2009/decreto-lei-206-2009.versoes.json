@@ -1,0 +1,380 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:488492:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-161587682",
+ "dre_path": "/dr/detalhe/decreto-lei/206-2009-488492",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "161627579",
+    "161627580",
+    "161627581",
+    "161627582",
+    "161627583",
+    "161627584",
+    "161627585",
+    "161627586",
+    "161627587",
+    "161627588",
+    "161627589",
+    "161627590",
+    "161627591",
+    "161627592",
+    "161627593",
+    "161627594",
+    "161627595",
+    "161627596",
+    "161627597",
+    "161627598",
+    "161627599",
+    "161627600",
+    "161627601",
+    "161627602",
+    "161627603",
+    "161627604",
+    "161627605"
+   ]
+  },
+  {
+   "date": "2021-04-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:161518656:por",
+     "title": "Decreto-Lei n.º 27/2021",
+     "published": "2021-04-16",
+     "dre_path": "/dr/detalhe/decreto-lei/27-2021-161518656"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "161627579",
+    "161627580",
+    "161627581",
+    "161627582",
+    "161627583",
+    "161627584",
+    "161627585",
+    "161627607",
+    "161627608",
+    "161627588",
+    "161627612",
+    "161627590",
+    "161627609",
+    "161627592",
+    "161627593",
+    "161627594",
+    "161627610",
+    "161627596",
+    "161627597",
+    "161627598",
+    "161627599",
+    "161627600",
+    "161627611",
+    "161627602",
+    "161627603",
+    "161627604",
+    "161627605",
+    "161627606"
+   ]
+  }
+ ],
+ "fragments": {
+  "161627579": {
+   "fragment_id": "161587683",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 206/2009\n\nde 31 de Agosto\n\nNos termos do artigo 48.º da Lei n.º 62/2007, de 10 de Setembro, que aprovou o regime jurídico das instituições de ensino superior, no âmbito do ensino politécnico é conferido o título de especialista, o qual comprova a qualidade e a especial relevância do currículo profissional numa determinada área para o exercício de funções docentes no ensino superior politécnico.\n\nAinda nos termos da mesma norma legal, conjugada com o disposto na alínea d) do n.º 5 do artigo 9.º da referida lei, as condições de atribuição do título de especialista são reguladas por decreto-lei.\n\nForam ouvidos o Conselho Coordenador dos Institutos Superiores Politécnicos, o Conselho de Reitores das Universidades Portuguesas, a Associação Portuguesa do Ensino Superior Privado e as associações públicas profissionais das áreas de formação do âmbito do ensino politécnico.\n\nAssim:\n\nAo abrigo da alínea d) do n.º 5 do artigo 9.º e do artigo 48.º da Lei n.º 62/2007, de 10 de Setembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "161627580": {
+   "fragment_id": "161587684",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "161627581": {
+   "fragment_id": "161587685",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei aprova o regime jurídico do título de especialista a que se refere o artigo 48.º da Lei n.º 62/2007, de 10 de Setembro."
+  },
+  "161627582": {
+   "fragment_id": "161587686",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO disposto no presente decreto-lei aplica-se, nos termos neste previstos:\n\na) Aos institutos politécnicos e às universidades que integram unidades orgânicas de ensino politécnico, nos termos do n.º 6 do artigo 13.º da Lei n.º 62/2007, de 10 de Setembro, em relação às áreas de formação destas unidades orgânicas, adiante genericamente designados por estabelecimentos de ensino;\n\nb) Às escolas de ensino politécnico não integradas, adiante genericamente designadas por escolas;\n\nc) Aos consórcios de institutos politécnicos."
+  },
+  "161627583": {
+   "fragment_id": "161587687",
+   "type": 1,
+   "heading": "Capítulo II — Título de especialista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Título de especialista"
+  },
+  "161627584": {
+   "fragment_id": "161587688",
+   "type": 11,
+   "heading": "Artigo 3.º — Título",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Título\n\n1 - O título de especialista comprova a qualidade e a especial relevância do currículo profissional numa determinada área para os efeitos previstos no número seguinte.\n\n2 - O título de especialista previsto no presente decreto-lei releva para efeitos da composição do corpo docente das instituições de ensino superior e para a carreira docente do ensino superior politécnico, não sendo confundível com, nem se substituindo, aos títulos atribuídos pelas associações públicas profissionais."
+  },
+  "161627585": {
+   "fragment_id": "161587689",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuição do título de especialista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuição do título de especialista\n\n1 - O título de especialista é atribuído mediante a aprovação em provas públicas, adiante designadas por provas:\n\na) Por um conjunto de, pelo menos, três estabelecimentos de ensino ou de dois estabelecimentos de ensino e uma escola que ministrem formação na área de atribuição do título;\n\nb) Por consórcios de institutos politécnicos que integrem, pelo menos, três institutos que ministrem formação na área de atribuição do título.\n\n2 - Quando não existam três estabelecimentos de ensino, ou dois estabelecimentos de ensino e uma escola, que ministrem formação na área da atribuição do título, dois deles podem ser substituídos, na estrita medida da necessidade, através do recurso a estabelecimentos de ensino que ministrem formação em áreas afins da área da atribuição do título."
+  },
+  "161627586": {
+   "fragment_id": "161587690",
+   "type": 11,
+   "heading": "Artigo 5.º — Provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Provas\n\nAs provas para a atribuição do título de especialista são públicas e constituídas:\n\na) Pela apreciação e discussão do currículo profissional do candidato;\n\nb) Pela apresentação, apreciação crítica e discussão de um trabalho de natureza profissional no âmbito da área em que são prestadas as provas, preferencialmente sobre um trabalho ou obra constante do seu currículo profissional."
+  },
+  "161627587": {
+   "fragment_id": "161587691",
+   "type": 11,
+   "heading": "Artigo 6.º — Certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Certificado\n\nO título de especialista é titulado por certificado emitido pelos órgãos legal e estatutariamente competentes das instituições de ensino superior ou do consórcio."
+  },
+  "161627588": {
+   "fragment_id": "161587692",
+   "type": 1,
+   "heading": "Capítulo III — Admissão às provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Admissão às provas"
+  },
+  "161627589": {
+   "fragment_id": "161587693",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de admissão às provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de admissão às provas\n\nPode requerer a realização das provas quem satisfaça, cumulativamente, as seguintes condições:\n\na) Deter formação inicial superior e, no mínimo, 10 anos de experiência profissional no âmbito da área para que são requeridas as provas;\n\nb) Deter um currículo profissional de qualidade e relevância comprovadas para o exercício da profissão na área em causa."
+  },
+  "161627590": {
+   "fragment_id": "161587694",
+   "type": 11,
+   "heading": "Artigo 8.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requerimento\n\n1 - Os candidatos à realização das provas de atribuição do título de especialista devem apresentar um requerimento nesse sentido, dirigido ao presidente ou reitor do estabelecimento de ensino ou ao presidente do consórcio.\n\n2 - Quando o requerimento é dirigido ao estabelecimento de ensino, compete a esse estabelecimento, adiante designado por instituição instrutora, convidar e indicar as restantes instituições que vão integrar o conjunto."
+  },
+  "161627591": {
+   "fragment_id": "161587695",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Instrução\n\n1 - O requerimento referido no artigo anterior deve indicar a área de realização das provas e ser acompanhado de um exemplar dos seguintes elementos:\n\na) Currículo, com indicação do percurso profissional, das obras e dos trabalhos efectuados e, quando seja o caso, das actividades científicas, tecnológicas e pedagógicas desenvolvidas;\n\nb) Trabalho de natureza profissional a que se refere a alínea b) do artigo 5.º;\n\nc) Obras mencionadas no currículo que o candidato considere relevante apresentar.\n\n2 - Dos elementos a que se referem as alíneas a) e b) do número anterior é ainda entregue um exemplar em formato digital.\n\n3 - O requerimento é indeferido liminarmente por despacho da entidade a quem foi apresentado sempre que o candidato não satisfaça a condição a que se refere a alínea a) do artigo 7.º"
+  },
+  "161627592": {
+   "fragment_id": "161587696",
+   "type": 1,
+   "heading": "Capítulo IV — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Júri"
+  },
+  "161627593": {
+   "fragment_id": "161587697",
+   "type": 11,
+   "heading": "Artigo 10.º — Composição do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição do júri\n\n1 - O júri das provas é constituído:\n\na) Pelo presidente ou reitor da instituição instrutora ou pelo presidente do consórcio, que preside;\n\nb) Por cinco vogais.\n\n2 - Para efeitos da alínea b) do número anterior:\n\na) Dois vogais devem exercer a profissão na área para que são prestadas provas e ser individualidades de público e reconhecido mérito nessa área;\n\nb) Três vogais devem ser professores, investigadores ou especialistas de reconhecido mérito, nacionais ou estrangeiros, docentes em áreas do conhecimento relevantes para o exercício na área para que são requeridas as provas.\n\n3 - Os vogais são propostos pelos órgãos estatutariamente competentes das instituições ou do consórcio, sem prejuízo de os vogais a que se refere a alínea a) do número anterior serem preferencialmente indicados por organismos profissionais, antepondo as associações públicas profissionais, quando existam."
+  },
+  "161627594": {
+   "fragment_id": "161587698",
+   "type": 11,
+   "heading": "Artigo 11.º — Nomeação do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Nomeação do júri\n\n1 - O júri das provas é nomeado pelo presidente ou reitor da instituição instrutora, ou pelo presidente do consórcio, nos 30 dias úteis subsequentes à recepção do requerimento de candidatura.\n\n2 - O despacho de nomeação do júri é, no prazo máximo de cinco dias úteis, notificado ao candidato e aos membros, neste caso acompanhado de cópia dos documentos a que se refere o n.º 1 do artigo 9.º, a qual pode ser em formato digital."
+  },
+  "161627595": {
+   "fragment_id": "161587699",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento do júri\n\n1 - O júri delibera através de votação nominal fundamentada, não sendo permitidas abstenções.\n\n2 - O júri só pode deliberar quando estiverem presentes e puderem votar pelo menos dois terços dos seus vogais.\n\n3 - Na reunião do júri para deliberar sobre o resultado final só votam os membros que tenham estado presentes em todas as provas.\n\n4 - O presidente do júri pode delegar a sua competência e só vota:\n\na) Quando seja professor em áreas do conhecimento relevantes para o exercício na área profissional em que são realizadas as provas, caso em que tem voto de qualidade; ou\n\nb) Em caso de empate.\n\n5 - Das reuniões do júri são lavradas actas, devendo ser claramente exposta a fundamentação dos votos emitidos por cada um dos seus membros.\n\n6 - As reuniões do júri anteriores às provas podem ser realizadas por teleconferência e, sempre que entenda necessário, o júri pode solicitar ao candidato a apresentação de outros trabalhos mencionados no currículo."
+  },
+  "161627596": {
+   "fragment_id": "161587700",
+   "type": 1,
+   "heading": "Capítulo V — Provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Provas"
+  },
+  "161627597": {
+   "fragment_id": "161587701",
+   "type": 11,
+   "heading": "Artigo 13.º — Apreciação preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apreciação preliminar\n\n1 - A admissão às provas é precedida de uma apreciação preliminar de carácter eliminatório que tem por objecto verificar:\n\na) Se o candidato satisfaz as condições de admissão às provas;\n\nb) Se o trabalho apresentado se insere na área para que foram requeridas as provas.\n\n2 - A apreciação preliminar é realizada pelo júri no prazo de 15 dias úteis após a sua nomeação, sendo objecto de um relatório fundamentado, subscrito por todos os membros, onde se conclui pela admissão ou não admissão do candidato.\n\n3 - No caso de o júri concluir pela não admissão do candidato, há lugar a audiência prévia dos interessados nos termos previstos no Código do Procedimento Administrativo, independentemente da natureza pública ou privada da instituição ou instituições em causa.\n\n4 - A deliberação final é notificada ao candidato no prazo máximo de cinco dias úteis."
+  },
+  "161627598": {
+   "fragment_id": "161587702",
+   "type": 11,
+   "heading": "Artigo 14.º — Realização das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Realização das provas\n\n1 - As provas têm lugar no prazo máximo de 30 dias úteis após a decisão de admissão.\n\n2 - As provas são realizadas no mesmo dia, com um intervalo de duas horas.\n\n3 - A apreciação e a discussão do currículo profissional são feitas por dois membros do júri, em separado, seguida de discussão, e têm a duração máxima de duas horas.\n\n4 - A apresentação do trabalho tem a duração máxima de sessenta minutos, sendo seguida da discussão com igual duração máxima.\n\n5 - Nas discussões referidas nos números anteriores podem intervir todos os membros do júri e o candidato dispõe de tempo igual ao utilizado pelos membros do júri."
+  },
+  "161627599": {
+   "fragment_id": "161587703",
+   "type": 11,
+   "heading": "Artigo 15.º — Resultado final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Resultado final\n\nConcluídas as provas, o júri reúne para apreciação e deliberação final sobre a atribuição do título, comunicando pessoalmente o resultado ao candidato."
+  },
+  "161627600": {
+   "fragment_id": "161587704",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "161627601": {
+   "fragment_id": "161587705",
+   "type": 11,
+   "heading": "Artigo 16.º — Detentores do título de especialista atribuído por associação pública profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Detentores do título de especialista atribuído por associação pública profissional\n\nO candidato que seja detentor de título de especialista atribuído por associação pública profissional, nos termos dos seus estatutos, pode, se assim o requerer, ser dispensado da realização da prova a que se refere a alínea b) do artigo 5.º, caso em que apenas há lugar à discussão do currículo profissional e à sua apreciação para o exercício de funções docentes."
+  },
+  "161627602": {
+   "fragment_id": "161587706",
+   "type": 11,
+   "heading": "Artigo 17.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Divulgação\n\nA nomeação do júri, o resultado da apreciação preliminar e o resultado das provas públicas são obrigatoriamente divulgados no sítio da Internet da instituição instrutora ou do consórcio."
+  },
+  "161627603": {
+   "fragment_id": "161587707",
+   "type": 11,
+   "heading": "Artigo 18.º — Línguas estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Línguas estrangeiras\n\nA instituição instrutora ou o consórcio podem autorizar a utilização de línguas estrangeiras na redacção dos documentos a que se refere o n.º 1 do artigo 9.º e nas provas."
+  },
+  "161627604": {
+   "fragment_id": "161587708",
+   "type": 11,
+   "heading": "Artigo 19.º — Depósito legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Depósito legal\n\n1 - O trabalho a que se refere a alínea b) do artigo 5.º está sujeito a depósito legal:\n\na) De um exemplar em papel e em formato digital na Biblioteca Nacional;\n\nb) De um exemplar em formato digital no Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério da Ciência, Tecnologia e Ensino Superior.\n\n2 - O depósito é da responsabilidade do consórcio ou do instituto politécnico instrutor."
+  },
+  "161627605": {
+   "fragment_id": "161587709",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "161627607": {
+   "fragment_id": "161587690",
+   "type": 11,
+   "heading": "Artigo 5.º — Provas",
+   "in_force_from": "2021-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+   ],
+   "markdown": "###### Artigo 5.º — Provas\n\n1- As provas para a atribuição do título de especialista são públicas e constituídas:\n\na) Pela apreciação e discussão do currículo profissional do candidato;\n\nb) Pela apresentação, apreciação crítica e discussão de um trabalho de natureza profissional no âmbito da área em que são prestadas as provas, preferencialmente sobre um trabalho ou obra constante do seu currículo profissional.\n\n2 - O trabalho referido na alínea b) do número anterior não poderá ser de natureza académica ou científica, nem ter já sido objeto de avaliação ou de defesa para efeitos de obtenção de grau académico ou diploma.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+  },
+  "161627608": {
+   "fragment_id": "161587691",
+   "type": 11,
+   "heading": "Artigo 6.º — Certificado",
+   "in_force_from": "2021-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+   ],
+   "markdown": "###### Artigo 6.º — Certificado\n\n1- O título de especialista é titulado por certificado emitido pelos órgãos legal e estatutariamente competentes das instituições de ensino superior ou do consórcio.\n\n2 - O certificado deverá identificar todas as instituições de ensino superior que integraram o consórcio e ser subscrito pelos órgãos legais e estatutariamente competentes de cada uma destas instituições.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+  },
+  "161627612": {
+   "fragment_id": "161587693",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de admissão às provas",
+   "in_force_from": "2021-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+   ],
+   "markdown": "###### Artigo 7.º — Condições de admissão às provas\n\n1- Pode requerer a realização das provas quem satisfaça, cumulativamente, as seguintes condições:\n\na) Deter um grau académico e, no mínimo, 10 anos de experiência profissional, no âmbito da área para que são requeridas as provas, com exercício efetivo durante, pelo menos, 5 anos nos últimos 10 anos;\n\nb) Deter um currículo profissional de qualidade e relevância comprovadas para o exercício da profissão na área em causa.\n\n2 - Para efeitos da avaliação da experiência profissional, referida no número anterior, apenas é considerada a experiência profissional obtida após a conclusão do grau académico e em contextos distintos da docência no ensino superior.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+  },
+  "161627609": {
+   "fragment_id": "161587695",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução",
+   "in_force_from": "2021-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+   ],
+   "markdown": "###### Artigo 9.º — Instrução\n\n1 - O requerimento referido no artigo anterior deve indicar a área de realização das provas e ser acompanhado de um exemplar dos seguintes elementos:\n\na) Currículo, com indicação do percurso profissional, das obras e dos trabalhos efectuados e, quando seja o caso, das actividades científicas, tecnológicas e pedagógicas desenvolvidas;\n\nb) Trabalho de natureza profissional a que se refere a alínea b) do artigo 5.º;\n\nc) Obras mencionadas no currículo que o candidato considere relevante apresentar.\n\n2 - Dos elementos a que se referem as alíneas a) e b) do número anterior é ainda entregue um exemplar em formato digital.\n\n3 - O requerimento é indeferido liminarmente por despacho da entidade a quem foi apresentado sempre que o candidato não satisfaça a condição a que se refere a alínea a) do artigo 7.º\n\n4 - O requerimento e todos os respetivos elementos poderão ser entregues através de formato digital.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+  },
+  "161627610": {
+   "fragment_id": "161587699",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento do júri",
+   "in_force_from": "2021-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+   ],
+   "markdown": "###### Artigo 12.º — Funcionamento do júri\n\n1 - O júri delibera através de votação nominal fundamentada, não sendo permitidas abstenções.\n\n2 - O júri só pode deliberar quando estiverem presentes e puderem votar pelo menos dois terços dos seus vogais.\n\n3 - Na reunião do júri para deliberar sobre o resultado final só votam os membros que tenham estado presentes em todas as provas.\n\n4 - O presidente do júri pode delegar a sua competência e só vota:\n\na) Quando seja professor em áreas do conhecimento relevantes para o exercício na área profissional em que são realizadas as provas, caso em que tem voto de qualidade; ou\n\nb) Em caso de empate.\n\n5 - Das reuniões do júri são lavradas actas, devendo ser claramente exposta a fundamentação dos votos emitidos por cada um dos seus membros.\n\n6 - As reuniões do júri anteriores às provas podem ser realizadas por teleconferência e, sempre que entenda necessário, o júri pode solicitar ao candidato a apresentação de outros trabalhos mencionados no currículo.\n\n7 - Nas provas públicas a que se refere o artigo 14.º, o presidente do júri pode autorizar a participação de vogais por teleconferência em qualquer número, bem como do candidato, desde que haja condições técnicas para a sua plena participação nos trabalhos.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+  },
+  "161627611": {
+   "fragment_id": "161587705",
+   "type": 11,
+   "heading": "Artigo 16.º — Detentores do título de especialista atribuído por associação pública profissional",
+   "in_force_from": "2021-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+   ],
+   "markdown": "###### Artigo 16.º — Detentores do título de especialista atribuído por associação pública profissional\n\n1- O candidato que seja detentor de título de especialista atribuído por associação pública profissional, nos termos dos seus estatutos, pode, se assim o requerer, ser dispensado da realização da prova a que se refere a alínea b) do artigo 5.º, caso em que apenas há lugar à discussão do currículo profissional e à sua apreciação para o exercício de funções docentes.\n\n2 - Para efeitos do previsto no número anterior, o especialista que seja detentor de título de especialista atribuído por associação pública profissional e não tenha realizado a prova prevista na alínea b) do artigo 5.º tem de apresentar, anualmente, comprovativo da renovação do título ou documento comprovativo de que continua inscrito como especialista na respetiva associação pública profissional.\n\n3 - O candidato que venha a perder ou não obtenha a renovação de título de especialista atribuído por associação pública profissional, nos termos dos respetivos estatutos, perde o título de especialista atribuído para o exercício de funções docentes, tendo de requerer a realização da prova a que se refere a alínea b) do artigo 5.º para atribuição, em caso de aprovação, de título de especialista.\n\n4 - O disposto nos n.os 2 e 3 não é aplicável aos titulares do título de especialista que sejam titulares de contrato de trabalho em funções públicas na modalidade de contrato por tempo indeterminado para o exercício de funções docentes.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+  },
+  "161627606": {
+   "fragment_id": "161587710",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.\n\nPromulgado em 25 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de Agosto de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

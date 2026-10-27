@@ -1,0 +1,256 @@
+---
+schema_version: '1.0'
+id: pt:dre:141606:por
+title: Decreto-Lei n.º 334/70
+short_title: null
+summary: Introduz alterações na organização dos serviços das contrastarias - Revoga os artigos 119.º, 125.º, 126.º e 129.º
+  do Regulamento das Contrastarias, aprovado pelo Decreto n.º 20740
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro - Casa da Moeda
+proposing_entity: null
+official_number: 334/70
+official_date: null
+publication_date: '1970-07-15'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 163/1970, Série I de 1970-07-15
+  number: '163'
+  series: I
+  supplement: null
+  pages: 928 - 929
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/07/16300/09280929.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '141606'
+  dre_path: /dr/detalhe/decreto-lei/334-1970-141606
+  internal: pt:dre:141606:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1970-141606
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1970-141606
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:14:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f2c575b68028baa383e768d1f6a1fd2a96a56bef71428d1794e6e885750068fa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Contrastaria
+- Contravenção
+- Emolumento
+- Importação
+- Indústria de Ourivesaria e Relojoaria
+- Joalharia e Ourivesaria
+- Licenciamento
+- Multa
+- Regulamento das Contrastarias
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:369812:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:484461:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:369812:por
+  label: "Revogado, a partir de 25.09.1979, pelo DEC LEI.391/79.20.09.1979.MFP, DR.IS [218] de 20.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-1979-369812
+  date: '1979-09-20'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:14:23Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 334/70
+
+Os emolumentos de ensaio e marca cobrados pelas repartições de contrastaria, e actualmente em vigor, foram fixados em 1924 e 1932, pelo que se encontram já profundamente desactualizados.
+
+Na realidade, considerando apenas o período decorrido desde 1932, verifica-se que a cotação do ouro é hoje dupla da de então e os preços da platina e da prata encontram-se multiplicados, respectivamente, por cinco e por seis.
+
+Por outro lado, as remunerações pagas pelo Estado ao pessoal das contrastarias foram sendo sucessivamente actualizadas, sem que os utentes dos respectivos serviços participassem, como era natural, no agravamento dos referidos encargos.
+
+A obrigação que ao Estado incumbe de proceder à actualização das condições de trabalho das contrastarias, com a necessária reforma dos quadros, impõe que se caminhe no sentido de repor nos seus justos termos uma situação que se apresenta gravemente desequilibrada, com nítido prejuízo para o erário público.
+
+Apesar disso, a actualização a que agora se procede é muito moderada, porque se fixa sensìvelmente abaixo da referida alteração do valor dos metais e está longe de acompanhar quer o índice de evolução das remunerações pagas, quer a simples variação do poder aquisitivo da moeda. Por outro lado, não poderá deixar de se registar aqui que, por portaria desta mesma data, o Governo manda extinguir a taxa de compensação da prata criada nas condições anormais prevalecentes durante o período da II Guerra Mundial, e cuja cobrança não encontra hoje justificação.
+
+Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Os emolumentos de ensaio e marca a cobrar nas repartições de contrastaria do País serão os constantes da seguinte tabela:
+
+Artefactos de joalharia de platina ou platina e ouro:
+
+Cada quilograma - 3500$00.
+
+Taxa mínima, até 1 g - 3$50.
+
+Artefactos de joalharia de ouro ou ouro e prata:
+
+Cada quilograma - 2000$00.
+
+Taxa mínima, até 1 g - 2$00.
+
+Artefactos de joalharia de prata:
+
+Cada quilograma - 1200$00.
+
+Taxa mínima, até 1 g - 1$20.
+
+Artefactos de ouro:
+
+Cada quilograma - 400$00.
+
+Taxa mínima, até 1 g - $40.
+
+Artefactos de prata:
+
+Cada quilograma - 50$00.
+
+Taxa mínima, até 10 g - $50.
+
+Relógios ou caixas de relógio de platina, cada - 100$00.
+
+Relógios ou caixas de relógio de ouro, cada - 40$00.
+
+Relógios ou caixas de relógio de prata, ou plaqué, nos termos do § único do artigo 36.º de Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932, cada - 6$00.
+
+Relógios ou caixas de relógio de outro qualquer metal não especificado - 4$00.
+
+Lorgnons, óculos ou lunetas de platina, cada - 60$00.
+
+Óculos ou lunetas de platina, sem aro, cada - 40$00.
+
+Lorgnons, óculos ou lunetas com aro de ouro cada - 10$00.
+
+Óculos ou lunetas de ouro, sem aro, cada - 8$00.
+
+Lorgnons, óculos ou lunetas de prata, cada - 5$00.
+
+Óculos ou lunetas de prata, sem aro, cada - 2$50.
+
+Barras de platina até 50 g - 60$00.
+
+Barras de platina por cada 50 g ou fracção a mais - 6$00.
+
+Barras de ouro até 50 g - 20$00.
+
+Barras de ouro, por cada 50 g ou fracção a mais - 5$00.
+
+Barras de prata até 1000 g - 20$00.
+
+Barras de prata, por cada 500 g ou fracção a mais - 2$50.
+
+Barras de ouro e prata, quando se determine o quantitativo de prata e ouro, até 50 g - 25$00.
+
+Barras de ouro e prata, por cada fracção de 50 g a mais - 3$00.
+
+Art. 2.º O emolumento de 2$50, constante do § único do artigo 120.º do Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932, passa a ser de 5$00.
+
+Art. 3.º As taxas de matrícula inicial para efeitos das licenças a conceder pelas repartições de contrastaria, segundo a sua classificação, serão as seguintes:
+
+Ourives e relojoeiros fornecedores, ourivesarias, relojoarias, estabelecimentos especiais ou mistos autorizados à venda de artefactos de ourivesaria, negociantes de pedras finas, importadores, compra e venda de barras de metais nobres e laboratórios de ensaios comerciais - 400$00.
+
+Oficina de fabrico de ourivesaria e oficinas de relojoaria - 100$00.
+
+Art. 4.º Pelas licenças passadas nas repartições de contrastaria serão cobradas as seguintes taxas:
+
+Ourives e relojoeiros fornecedores, ourivesarias, relojoarias, estabelecimentos especiais ou mistos autorizados à venda de artefactos de ourivesaria, negociantes de pedras finas, importadores, compra e venda de barras de metais nobres e laboratórios de ensaios comerciais - 200$00.
+
+Oficinas para fabrico de ourivesaria e relojoaria - 50$00; e por cada operário além de três, mais 10$00.
+
+Para negociantes matriculados que requeiram licença especial para venda ambulante, ou em feiras e mercados, não tendo estabelecimento fixo - 100$00.
+
+Para promover vendas nos termos do artigo 72.º do Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932 - 50$00.
+
+Propinas para admissão aos exames de capacidade para ensaiadores comerciais, a pagar por meio de guia junta ao requerimento - 300$00.
+
+Art. 5.º As multas correspondentes a infracções previstas no Regulamento das Contrastarias serão as seguintes:
+
+a) Por falta de matrícula inicial - 750$00;
+
+b) Por falta de licença anual ou da sua renovação, o dobro da licença;
+
+c) Por falta de marcas legais em objectos expostos à venda, dez vezes a importância do emolumento que fosse devido, não podendo a multa ser inferior a 100$00;
+
+d) Pela passagem de marcas, seja qual for o processo empregado - 2000$00;
+
+e) Por falsificação do punção do Estado, seu uso ou aproveitamento, além da baixa da matrícula ao transgressor, que não poderá ser renovada - 10000$00;
+
+f) Pela exposição ou venda de relógios que não tenham a marca legal - 400$00;
+
+g) Pela aplicação do punção de fabricante ou importador em obras introduzidas em Portugal sem as formalidades legais - 2000$00;
+
+h) Pela transgressão do disposto no artigo 67.º do Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932 - 100$00;
+
+i) Pela transgressão do disposto no artigo 70.º e seus parágrafos do Regulamento referido na alínea anterior, pagarão os importadores ou negociantes a multa de 500$00;
+
+j) Pela transgressão do disposto no § 2.º do artigo 63.º do Regulamento referido nas alíneas anteriores, pagarão os fabricantes a multa de 400$00;
+
+k) Pelos erros cometidos nos ensaios pelos ensaiadores comerciais, pagarão estes 300$00;
+
+l) Pela transgressão do artigo 69.º do Regulamento referido nas alíneas anteriores, pagarão os fabricantes a multa de 50$00;
+
+m) Pela introdução no continente e ilhas adjacentes de caixas para relógios de fabrico estrangeiro sem as formalidades legais, pagará o transgressor a multa de 5000$00 a 10000$00.
+
+Art. 6.º - 1. Os serviços de contrastaria de Lisboa e Porto ficam autorizados a fazer, em processo sumário, as compensações dos erros referentes à liquidação de emolumentos devidos por ensaio e marcação de objectos apresentados para contraste.
+
+2. Se o erro for por excesso, a compensação será levada em conta, em obras, apresentadas posteriormente pelo mesmo utente, cujos emolumentos sejam de valor igual ou superior ao erro cometido e se o erro for por defeito será processada guia adicional.
+
+Art. 7.º As contrastarias, quando solicitadas, procederão à identificação das marcas existentes em artefactos de ourivesaria, cobrando 5$00 pela identificação de cada artefacto.
+
+Art. 8.º A multa constante do artigo 131.º do Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932, passa a ser de 50$00.
+
+Art. 9.º São revogados os artigos 119.º, 125.º, 126.º e 129.º do Regulamento das Contrastarias, aprovado pelo [Decreto n.º 20740](https://diariodarepublica.pt/dr/detalhe/decreto/20740-1932-484461), de 11 de Janeiro de 1932.
+
+Art. 10.º As determinações constantes deste decreto-lei entram imediatamente em vigor.
+
+Visto e aprovado pelo Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+Promulgado em 1 de Julho de 1970.
+
+Publique-se.
+
+Presidência da República, 15 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

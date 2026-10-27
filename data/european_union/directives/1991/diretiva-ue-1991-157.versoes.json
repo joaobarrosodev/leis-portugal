@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0157:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0157-20080926",
+ "dre_path": null,
+ "source_lastmod": "2008-09-26",
+ "versions": [
+  {
+   "date": "1991-03-26",
+   "future": false,
+   "celex": "31991L0157",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2008-09-26",
+   "future": false,
+   "celex": "01991L0157-20080926",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "25fc7536ded2c39d"
+   ]
+  }
+ ],
+ "fragments": {
+  "25fc7536ded2c39d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0157 — PT — 26.09.2008 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31991L0157) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0157) [de 18 de Março de 1991](http://publications.europa.eu/resource/celex/31991L0157) [relativa às pilhas e acumuladores contendo determinadas matérias perigosas](http://publications.europa.eu/resource/celex/31991L0157) [(91/157/CEE)](http://publications.europa.eu/resource/celex/31991L0157) (JO L 078, 26.3.1991, p.38)\n\n**revogado por:**\n\n- [Directiva 2006/66/CE do Parlamento Europeu e do Conselho de 6 de Setembro de 2006](http://publications.europa.eu/resource/celex/32006L0066) — L 266 — 1 — 26.9.2006"
+  }
+ }
+}

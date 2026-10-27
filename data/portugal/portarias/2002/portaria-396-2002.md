@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:303843:por
+title: Portaria n.º 396/2002
+short_title: null
+summary: Estabelece os termos e as condições do direito à bonificação das pensões de invalidez e velhice a atribuir aos bombeiros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Administração Interna e do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 396/2002
+official_date: null
+publication_date: '2002-04-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 88/2002, Série I-B de 2002-04-15
+  number: '88'
+  series: I
+  supplement: null
+  pages: 3684 - 3686
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/04/088b00/36843686.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/396/2002/04/15/p/dre/pt/html
+  oj: null
+  dre: '303843'
+  dre_path: /dr/detalhe/portaria/396-2002-303843
+  internal: pt:dre:303843:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/396-2002-303843
+  metadata_url: https://data.dre.pt/eli/port/396/2002/04/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/396-2002-303843
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4a1c8514d20eeba9b8124817e1162521352517840066caae9e0720769f4d53fe
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aposentação Bonificada
+- Bombeiro
+- Bonificação de Pensões
+- Contribuições da Segurança Social
+- Liga dos Bombeiros Portugueses
+- Órgãos Sociais
+- Pensão de Invalidez
+- Pensão de Velhice
+- TAXA Contributiva
+relationships:
+- type: cites
+  target: pt:dre:216321:por
+  label: null
+  source: http://data.dre.pt/eli/port/987/1998/11/24/p/dre
+- type: cites
+  target: pt:dre:234903:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/308/1998/10/14/p/dre
+- type: cites
+  target: pt:dre:278032:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/35/2002/02/19/p/dre
+- type: cites
+  target: pt:dre:311258:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/199/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:419274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434628:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1995/08/18/p/dre
+- type: cites
+  target: pt:dre:594077:por
+  label: null
+  source: http://data.dre.pt/eli/port/1105/2000/11/25/p/dre
+- type: cites
+  target: pt:dre:616188:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/297/2000/11/17/p/dre
+- type: cites
+  target: pt:dre:618772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:40:56Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 396/2002
+
+de 15 de Abril
+
+O Estatuto Social do Bombeiro, aprovado pela [Lei n.º 21/87](https://diariodarepublica.pt/dr/detalhe/lei/21-1987-419274), de 20 de Junho, com as alterações que lhe foram introduzidas pela [Lei n.º 23/95](https://diariodarepublica.pt/dr/detalhe/lei/23-1995-434628), de 18 de Agosto, consagrou um elenco de direitos e regalias, aplicáveis a todos os bombeiros portugueses inseridos em quadros de pessoal homologados pelo Serviço Nacional de Bombeiros, bem como, em determinados casos, aos próprios titulares dos órgãos das respectivas associações.
+
+O referido Estatuto foi objecto de adequado desenvolvimento normativo, tendo sido regulamentado pelo [Decreto-Lei n.º 241/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1989-618903), de 3 de Agosto, ulteriormente alterado pelo [Decreto-Lei n.º 308/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1998-234903), de 14 de Outubro. Os termos e as condições do exercício dos direitos consagrados nos referidos diplomas, em matéria de regimes de segurança social, foram fixados pela [Portaria n.º 621/89](https://diariodarepublica.pt/dr/detalhe/portaria/621-1989-618772), de 5 de Agosto, ulteriormente alterada pelas Portarias n.os [987/98](https://diariodarepublica.pt/dr/detalhe/portaria/987-1998-216321), de 24 Novembro, e [1105/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1105-2000-594077), de 25 de Novembro.
+
+Tendo em consideração a relevância das acções desempenhadas pelas associações de bombeiros junto das populações e por objectivo o apoio, promoção e dignificação do voluntariado e da função social do bombeiro, foi publicado o [Decreto-Lei n.º 297/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-2000-616188), de 17 de Novembro, que veio reforçar o quadro dos benefícios existentes, revogando os decretos-leis acima referidos, mantendo-se, todavia, o mesmo quadro de protecção social conferida pelos regimes de segurança social.
+
+Com efeito, o referido diploma, para além de prever a possibilidade de os bombeiros beneficiarem, em certas condições, do seguro social voluntário, manteve o direito à bonificação das pensões de invalidez e velhice dos bombeiros, quando estejam abrangidos pelos regimes contributivos de segurança social. De igual modo e nas mesmas circunstâncias, manteve a referida bonificação para os titulares dos órgãos executivos das associações de bombeiros e dos órgãos sociais da Liga dos Bombeiros Portugueses com, pelo menos, 15 anos de bom e efectivo serviço.
+
+Nos termos do disposto no artigo 23.º, a bonificação é determinada, em função do tempo de serviço prestado na qualidade de bombeiro ou como titular dos órgãos referidos, em quantitativo equivalente à bonificação, prevista no artigo 22.º do referido diploma, por aumento do tempo de serviço para efeitos de aposentação dos subscritores da Caixa Geral de Aposentações.
+
+A bonificação está sujeita ao pagamento de contribuições, por aplicação da taxa fixada no n.º 1 do artigo 23.º do [Decreto-Lei n.º 199/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1999-311258), de 8 de Junho, sendo os termos e condições, necessários para a concretização do direito, estabelecidos por portaria. Este o objectivo do presente diploma, que, no essencial, não se afasta da disciplina que vem sendo aplicada desde 1989. Aproveita-se, todavia, a oportunidade legislativa para compatibilizar a protecção social conferida com a sustentabilidade financeira do sistema de solidariedade e segurança social e harmonizar os termos e as condições do exercício do direito à bonificação com as regras do regime de protecção nas eventualidades de velhice e invalidez, entretanto, instituído pelo [Decreto-Lei n.º 329/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1993-653127), de 25 de Setembro, as quais, no que releva para efeitos da presente portaria, não foram postas em causa pelo [Decreto-Lei n.º 35/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2002-278032), de 19 de Fevereiro.
+
+Assim, ao abrigo do n.º 2 do artigo 23.º do [Decreto-Lei n.º 297/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-2000-616188), de 17 de Novembro:
+
+Manda o Governo, pelos Ministros da Administração Interna e do Trabalho e da Solidariedade, o seguinte:
+
+1.º O direito à bonificação das pensões de invalidez e velhice, consagrado no artigo 23.º do [Decreto-Lei n.º 297/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-2000-616188), de 17 de Novembro, a atribuir aos bombeiros, bem como aos titulares dos órgãos executivos das associações de bombeiros e dos órgãos sociais da Liga dos Bombeiros Portugueses com, pelo menos, 15 anos de bom e efectivo serviço, quando estejam abrangidos por regimes contributivos de segurança social, fica subordinado aos termos e condições da presente portaria.
+
+2.º O direito à bonificação das pensões é extensivo ao conjunto dos familiares de beneficiário falecido que tenham direito à pensão de sobrevivência, desde que exercido por todos eles, sendo-lhes aplicável, com as devidas adaptações, o disposto nos números seguintes.
+
+3.º A bonificação das pensões é determinada pelo acréscimo, à respectiva carreira contributiva, de 25% do tempo de serviço prestado, expresso em meses, como bombeiro ou como titular dos órgãos referidos no n.º 1.º, desde que, simultaneamente, tenham estado enquadrados em regime contributivo de segurança social.
+
+4.º Para efeitos do disposto no número anterior, é considerado o tempo de serviço prestado:
+
+a) Na situação de actividade no quadro, relativamente aos bombeiros voluntários;
+
+b) A tempo inteiro, relativamente aos bombeiros em regime profissionalizado;
+
+c) Em efectividade de funções, relativamente aos titulares dos órgãos referidos no n.º 1.º
+
+5.º O cômputo do período de acréscimo à carreira contributiva inclui apenas o número de meses completos resultante da aplicação da percentagem de 25% ao tempo de serviço prestado cuja contagem seja considerada para a referida bonificação.
+
+6.º O período de acréscimo à carreira contributiva releva:
+
+a) Para preenchimento do prazo de garantia em vigor à data do requerimento a que se refere o n.º 8.º;
+
+b) Para determinação da taxa global de formação da pensão, por aplicação da taxa anual de formação a cada período de 12 meses, sem prejuízo do disposto no número seguinte.
+
+7.º A taxa global de formação da pensão não pode exceder o limite máximo que, nos termos das disposições legais aplicáveis, deva ser observada no cálculo da pensão.
+
+8.º A contagem do tempo de serviço, para os efeitos estabelecidos nos números anteriores, depende da apresentação de requerimento e do pagamento integral das correspondentes contribuições adicionais.
+
+9.º Para efeitos do disposto na presente portaria, os interessados podem restringir o pedido de contagem a uma determinada parcela do tempo de serviço prestado.
+
+10.º O requerimento não está sujeito a prazo de apresentação e é dirigido ao centro distrital de solidariedade e segurança social pelo qual esteja abrangido o beneficiário, acompanhado de documento comprovativo do tempo de serviço prestado, objecto de certificação, quando necessário, pelos organismos competentes.
+
+11.º Quando o requerimento, para contagem do tempo de serviço prestado, seja apresentado em simultâneo ou em data posterior ao requerimento para atribuição da pensão, bem como nos casos em que seja apresentado pelo conjunto dos familiares com direito à pensão de sobrevivência, o pedido considera-se limitado ao tempo de serviço necessário para perfazer o limite máximo da taxa global de formação da pensão.
+
+12.º O montante das contribuições adicionais a pagar, para efeitos da bonificação da pensão, é apurado por aplicação da taxa de 4% à remuneração mínima mensal garantida para a generalidade dos trabalhadores, em vigor à data do respectivo requerimento, e incide sobre o número de meses que acrescem à respectiva carreira contributiva resultantes da aplicação da percentagem de 25% referida no n.º 3.º
+
+13.º O pagamento das contribuições pode ser efectuado de uma só vez ou em prestações mensais, até trinta e seis, de igual montante, vencendo-se a primeira no mês imediatamente seguinte ao do deferimento do requerimento e as restantes, sucessivamente, em cada um dos meses seguintes.
+
+14.º No caso de as prestações não serem pontualmente pagas, são devidos juros de mora, nos termos da legislação aplicável às contribuições devidas à segurança social.
+
+15.º O pagamento das contribuições em prestações não impede o reconhecimento do direito à pensão, se preenchidas as condições legais exigidas, mas o respectivo montante, recalculado com a bonificação prevista na presente portaria, apenas é devido a partir do dia 1 do mês seguinte àquele em que tiver sido paga a totalidade das contribuições e dos juros de mora, se a estes houver lugar.
+
+16.º São revogadas as Portarias n.os [621/89](https://diariodarepublica.pt/dr/detalhe/portaria/621-1989-618772), [987/98](https://diariodarepublica.pt/dr/detalhe/portaria/987-1998-216321) e [1105/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1105-2000-594077), respectivamente de 5 de Agosto, 24 de Novembro e 25 de Novembro.
+
+17.º O disposto na presente portaria aplica-se aos pedidos de bonificação requeridos a partir da data da sua publicação.
+
+Em 4 de Abril de 2002.
+
+Pelo Ministro da Administração Interna, José Carlos das Dores Zorrinho, Secretário de Estado Adjunto do Ministro da Administração Interna. - Pelo Ministro do Trabalho e da Solidariedade, José Manuel Simões de Almeida, Secretário de Estado da Solidariedade e da Segurança Social.

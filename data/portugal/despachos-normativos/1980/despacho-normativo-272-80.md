@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:471101:por
+title: Despacho Normativo n.º 272/80
+short_title: null
+summary: Esclarece dúvidas surgidas na aplicação da legislação existente sobre horários de trabalho do pessoal médico hospitalar
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério dos Assuntos Sociais
+proposing_entity: null
+official_number: 272/80
+official_date: null
+publication_date: '1980-08-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 190/1980, Série I de 1980-08-19
+  number: '190'
+  series: I
+  supplement: null
+  pages: 2248 - 2249
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19000/22482249.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471101'
+  dre_path: /dr/detalhe/despacho-normativo/272-1980-471101
+  internal: pt:dre:471101:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/272-1980-471101
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/272-1980-471101
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:02:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 712b5e68ea3bec7fcf7a9ec4a6b54c0f02bf2eef634b9b6e8f64b850f85a34c1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:02:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estabelecimento Hospitalar
+- Horário de Trabalho
+- Médico
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:290671:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:139718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382997:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:02:49Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 272/80
+
+O [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, veio estabelecer modalidades específicas de regime de trabalho hospitalar devidamente remuneradas. De entre elas, destaca-se o trabalho em serviços de urgência, o trabalho nocturno, em dias de descanso, nos domingos e feriados, o sistema de horas extraordinárias e os regimes de prevenção e de chamada.
+
+Na aplicação desse diploma verificaram-se algumas distorções que a prática colhida durante a sua vigência permite diagnosticar e corrigir. Efectivamente, o [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997) não deve ser considerado como uma forma de empolar honorários e vencimentos, mas antes como um meio correcto de remunerar devidamente o trabalho extraordinário, quando justificado e efectivamente prestado.
+
+O artigo 4.º desse diploma foi inexactamente tomado como uma regra impositiva de horários; ora, não é o trabalho hospitalar que se deve subordinar a horários, mas antes estes é que devem moldar-se à realidade das prestações hospitalares: a grande importância social e os elevados custos do sector assim o exigem. De facto, os conselhos de gerência e as direcções de serviços poderiam ter aproveitado as potencialidades que essa disposição confere, adoptando horários diversificados com períodos variáveis para cada dia, de tal forma que o serviço trabalhe, em globo, mais horas por dia, sem a necessidade da presença simultânea de todos os profissionais no local de trabalho. Evitar-se-ia assim a presença de médicos e enfermeiros em períodos de falta de trabalho e a ncessidade do recurso a horas extraordinárias em períodos de mais labor.
+
+Pretende-se que as horas extraordinárias e outros esquemas de trabalho anómalos, quando necessários, sejam justamente retribuídos, mas isso apenas quando necessário, em nome de uma boa gestão dos recursos humanos e financeiros existentes, evitando-se para os profissionais de saúde uma sobrecarga de trabalho desnecessária.
+
+Por outro lado, o [Decreto-Lei n.º 373/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1979-370639), de 8 de Setembro, veio introduzir a modalidade de trabalho em regime de tempo completo prolongado, que deve ser concatenada com disposições do [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997).
+
+Tornando-se necessário garantir essa concatenação, vincar a excepcionalidade das horas extraordinárias e regimes similares e permitir o máximo aproveitamento das instalações hospitalares existentes, entende-se útil proferir despacho que resolva dúvidas surgidas na aplicação da legislação em vigor e que, acompanhado das normas a emitir pela Direcção-Geral dos Hospitais, passará a regular, com aquela legislação, o trabalho nos hospitais.
+
+Assim, ao abrigo do artigo 3.º, alíneas a), c) e g), do [Decreto-Lei n.º 129/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1977-139718), de 2 de Abril, determino:
+
+1 - Os horários de trabalho do pessoal médico hospitalar implicam uma prestação média de serviço semanal de trinta e seis horas e devem ser aprovados pelos órgãos de gestão hospitalar, sob proposta dos órgãos de direcção médica respectivos, ouvidas as chefias de serviço, nos termos do artigo 4.º do [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, e do artigo 14.º, n.os 1 e 2, do [Decreto-Lei n.º 373/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1979-370639), de 8 de Setembro.
+
+2 - Os horários de trabalho referidos no número anterior devem compreender o exercício de funções em serviços de urgência, integradas, para todos os efeitos, no período normal de trabalho, nos termos do artigo 2.º, n.º 4, do [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), mas sem prejuízo do disposto no artigo 8.º, n.º 2, do mesmo decreto-lei.
+
+3 - Nos casos excepcionais em que em certas especialidades menos providas seja necessária a prestação de trabalho em serviço de urgência para além do período normal de trabalho semanal, não deverá ser ultrapassado o limite máximo de vinte e quatro horas por semana.
+
+4 - Os órgãos de gestão dos serviços hospitalares podem propor, na insuficiência do regime de tempo completo, face a necessidades permanentes, a passagem de profissionais ao regime de tempo completo prolongado.
+
+5 - As propostas de passagem ao regime de tempo completo prolongado devem ser enviadas à Direcção-Geral dos Hospitais, devidamente fundamentadas, e serão submetidas, depois de informadas, a autorização do Ministro dos Assuntos Sociais.
+
+6 - O recurso a trabalho extraordinário com carácter de regularidade só pode ser proposto para ocorrer a necessidades imperiosas dos serviços e depois de se terem esgotado as possibilidades decorrentes da passagem de profissionais a tempo completo prolongado.
+
+7 - O trabalho em regime de chamada e de prevenção só pode ser autorizado em circunstâncias excepcionais e quando se verifiquem os condicionalismos técnicos constantes das normas genéricas que a Direcção-Geral dos Hospitais emitirá no prazo de oito dias.
+
+8 - As autorizações a que se referem os artigos 7.º, n.os 1 e 7, e 9.º, n.º 1, do [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), só podem ser concedidas pelas administrações distritais dos serviços de saúde, depois de prévia aprovação, por despacho do Ministro dos Assuntos Sociais.
+
+9 - Só haverá lugar às remunerações complementares devidas por modalidades específicas de trabalho do pessoal hospitalar depois de concedidas as autorizações referidas no número anterior.
+
+10 - Na insuficiência comprovada dos quadros hospitalares, pode ser autorizado, por despacho do Ministro dos Assuntos Sociais, o recurso a tarefeiros, remunerados de acordo com a categoria que possuam, em função do número de horas de trabalho prestado por dia no próprio estabelecimento.
+
+11 - Sem prejuízo para o serviço e mediante acordo entre o profissional de saúde e os órgãos de direcção técnica respectivos, com aprovação do conselho de gerência, os períodos de descanso semanal e de compensação podem ser acumulados e gozados em qualquer altura, excepto em continuidade com o período de férias.
+
+12 - Os hospitais devem enviar à Direcção-Geral dos Hospitais, com conhecimento às administrações distritais dos serviços de saúde, no prazo de trinta dias, relação pormenorizada das situações existentes de prestação regular de trabalho extraordinário e de prevenção, devidamente justificadas, as quais são submetidas, no prazo de trinta dias, a despacho do Ministro dos Assuntos Sociais, com as devidas propostas de ratificação, modificação ou revogação das autorizações concedidas.
+
+13 - Uma vez proferidos os despachos referidos no número anterior, os órgãos de gestão hospitalar deverão organizar os horários dos diversos serviços e os das equipas deles integrantes nos termos deste despacho e demais legislação em vigor, de modo a começarem a produzir efeitos plenos a partir de 1 de Novembro próximo.
+
+14 - Todas as remunerações que venham a ser percebidas em violação das normas estabelecidas devem ser repostas.
+
+Ministério dos Assuntos Sociais, 31 de Julho de 1983. - O Ministro dos Assuntos Sociais, João António Morais Leitão.

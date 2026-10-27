@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008L0109:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0109-20081202",
+ "dre_path": null,
+ "source_lastmod": "2008-12-02",
+ "versions": [
+  {
+   "date": "2008-11-29",
+   "future": false,
+   "celex": "32008L0109",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0a56bfbfbeed77e8",
+    "2595292b5a061c2b",
+    "bc606dbe1bc7226a",
+    "467940ee104d40da",
+    "0e11badd7e20f35f",
+    "7a7c276b88325fd7"
+   ]
+  }
+ ],
+ "fragments": {
+  "0a56bfbfbeed77e8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Novembro de 2008\n\nque altera o anexo IV da Directiva 2000/29/CE do Conselho relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade [([^1])](http://publications.europa.eu/resource/cellar/f721b8d6-6bec-4f02-beb2-994d31968e10.0018.03/DOC_1#ntr1-L_2008319PT.01006801-E0001), nomeadamente o segundo parágrafo, alínea d), do artigo 14.º,\n\nConsiderando o seguinte:\n\n(1) O anexo IV da Directiva 2000/29/CE estabelece exigências particulares aplicáveis aos materiais de embalagem de madeira e à madeira utilizada para calçar ou suportar carga que não seja de madeira, quando da sua introdução na Comunidade. Tais exigências baseiam-se na Norma Internacional para Medidas Fitossanitárias (ISPM) n.º 15 da FAO, «Directrizes para a regulamentação dos materiais de embalagem de madeira no comércio internacional» [([^2])](http://publications.europa.eu/resource/cellar/f721b8d6-6bec-4f02-beb2-994d31968e10.0018.03/DOC_1#ntr2-L_2008319PT.01006801-E0002).\n\n(2) Para além das exigências aprovadas ao abrigo da ISPM n.º 15, a Directiva 2000/29/CE inclui uma disposição segundo a qual os materiais de embalagem de madeira importados devem ser feitos de madeira descascada. A aplicação desta última exigência foi adiada por duas vezes.\n\n(3) A Comunidade solicitou a revisão da ISPM n.º 15, no sentido de incluir uma exigência que abordasse a preocupação da Comunidade acerca do risco associado à presença de casca nesses materiais de embalagem de madeira no comércio internacional.\n\n(4) O painel técnico sobre quarentena florestal (TPFQ) criado no âmbito da Convenção Fitossanitária Internacional (CFI), constituído por peritos florestais reconhecidos internacionalmente, analisou os dados disponíveis da investigação sobre o risco fitossanitário decorrente da presença de casca nos materiais de embalagem de madeira. O referido painel concluiu que existe fundamentação técnica para exigir que os materiais de embalagem de madeira no comércio internacional estejam isentos de casca, definindo-se com precisão um limite de tolerância para a presença de pequenos pedaços de casca a fim de reduzir o risco fitossanitário a um nível aceitável, e para a inclusão desta exigência na ISPM n.º 15 revista.\n\n(5) Para proteger o território da Comunidade contra a introdução de organismos prejudiciais, importa adaptar as exigências comunitárias respeitantes à presença de casca nos materiais de embalagem de madeira e esteiras às conclusões técnicas do referido painel, sem aguardar a adopção de uma ISPM n.º 15 revista por parte da Comissão das Medidas Fitossanitárias da CFI.\n\n(6) Convém, por conseguinte, adaptar a exigência de descasque ao referido nível de tolerância para a presença de casca justificado do ponto de vista técnico.\n\n(7) Por conseguinte, é conveniente alterar em conformidade o anexo IV da Directiva 2000/29/CE.\n\n(8) A exigência de que os materiais de embalagem de madeira sejam feitos de madeira redonda descascada introduzida pela Directiva 2006/14/CE da Comissão [([^3])](http://publications.europa.eu/resource/cellar/f721b8d6-6bec-4f02-beb2-994d31968e10.0018.03/DOC_1#ntr3-L_2008319PT.01006801-E0003), que altera o anexo IV da Directiva 2000/29/CE, será aplicável a partir de 1 de Janeiro de 2009. Assim, é necessário que as medidas previstas na presente directiva se apliquem também a partir de 1 de Janeiro de 2009. No entanto, para que os países terceiros possam proceder às adaptações que se impõem, é adequado prever que as exigências relativas à presença de casca se apliquem a partir de 1 de Julho de 2009.\n\n(9) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2595292b5a061c2b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo IV da Directiva 2000/29/CE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "bc606dbe1bc7226a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros adoptarão e publicarão, o mais tardar em 31 de Dezembro de 2008, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicarão imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros aplicarão tais disposições a partir de 1 de Janeiro de 2009.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "467940ee104d40da": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "0e11badd7e20f35f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 28 de Novembro de 2008.\n\n***Pela Comissão***\n\n**Androulla VASSILIOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "7a7c276b88325fd7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/f721b8d6-6bec-4f02-beb2-994d31968e10.0018.03/DOC_1#ntc1-L_2008319PT.01006801-E0001) [JO L 169 de 10.7.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_169_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/f721b8d6-6bec-4f02-beb2-994d31968e10.0018.03/DOC_1#ntc2-L_2008319PT.01006801-E0002) ISPM n.º 15, Março de 2002, FAO, Roma.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/f721b8d6-6bec-4f02-beb2-994d31968e10.0018.03/DOC_1#ntc3-L_2008319PT.01006801-E0003) [JO L 34 de 7.2.2006, p. 24](http://publications.europa.eu/resource/oj/JOL_2006_034_R_TOC)."
+  }
+ }
+}

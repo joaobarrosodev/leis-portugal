@@ -1,0 +1,253 @@
+---
+schema_version: '1.0'
+id: pt:dre:413179:por
+title: Decreto-Lei n.º 520/73
+short_title: null
+summary: Define a estrutura e funções dos serviços do Secretariado para a Juventude e a forma de recrutamento e provimento
+  do seu pessoal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 520/73
+official_date: null
+publication_date: '1973-10-12'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 239/1973, Série I de 1973-10-12
+  number: '239'
+  series: I
+  supplement: null
+  pages: 1821 - 1824
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/10/23900/18211824.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '413179'
+  dre_path: /dr/detalhe/decreto-lei/520-1973-413179
+  internal: pt:dre:413179:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1973-413179
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1973-413179
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:28:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 48dc39d759dc7c14c1cb78e5e6d7ecdf5ef7dc2cfcac127e520eb13d3bf6f8f5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Juventude
+- Formas de Provimento
+- Ministério da Educação Nacional
+- Orgânica
+- Recrutamento de Pessoal
+- Secretariado para a Juventude
+relationships:
+- type: cites
+  target: pt:dre:396966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:412591:por
+  label: Rectificado pela DECL.DD9209.25.10.1973.PC, DG.IS [250] de 25.10.1973
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-412591
+  date: '1973-10-25'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:28:35Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 520/73
+
+de 12 de Outubro
+
+Em seguimento do [Decreto-Lei n.º 446/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1971-633919), de 25 de Outubro, que criou o Secretariado para a Juventude, são agora definidas a estrutura e funções dos respectivos serviços, bem como as normas a que deverão obedecer o recrutamento e o provimento do seu pessoal.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+I - Estrutura e funções dos serviços
+
+Artigo 1.º - 1. O Secretariado para a Juventude - adiante designado abreviadamente por Secretariado - compreende os seguintes serviços:
+
+a) Divisão de Formação de Quadros;
+
+b) Divisão de Actividades de Férias e de Ar Livre;
+
+c) Divisão de Actividades Culturais;
+
+d) Divisão de Apoio aos Organismos e Centros de Juventude;
+
+e) Repartição Administrativa;
+
+f) Gabinete de Estudos e Relações Internacionais;
+
+g) Delegações regionais.
+
+2. Poderão ser criados por despacho ministerial outros serviços que não devam ficar integrados nas divisões referidas nas alíneas a) a d) do número anterior.
+
+3. As delegações regionais terão âmbito distrital e obedecerão às regras de funcionamento que forem definidas em portaria do Ministro da Educação Nacional.
+
+Art. 2.º - 1. Compete à Divisão de Formação de Quadros:
+
+a) Elaborar os programas de formação de animadores de juventude, em cooperação com os demais serviços do Secretariado;
+
+b) Organizar e manter escolas de formação de animadores de juventude, em que sejam ministrados cursos para a preparação dos quadros de animadores necessários às actividades orientadas ou coordenadas pelo Secretariado.
+
+Art. 3.º Compete à Divisão de Actividades de Férias e de Ar Livre:
+
+a) Promover, apoiar e coordenar a realização de actividades de férias, nomeadamente campos e colónias de férias e campos de trabalho;
+
+b) Apoiar, promover e coordenar realizações no âmbito do intercâmbio cultural entre jovens e do turismo juvenil;
+
+c) Organizar e manter pousadas de juventude;
+
+d) Informar todos os pedidos de autorização para visitas de estudo ou excursões de estudantes não integradas nas actividades escolares e que careçam de autorização ministerial;
+
+e) Promover e apoiar actividades juvenis de exploração da natureza e de carácter gimnodesportivo;
+
+f) Organizar festivais nacionais da juventude, bem como demonstrações colectivas de actividades juvenis de ar livre.
+
+Art. 4.º Compete à Divisão de Actividades Culturais a promoção, o apoio e a coordenação de actividades de valorização cultural e artística, realizadas por jovens ou para jovens, nomeadamente nos domínios da música, do teatro, das artes plásticas, da leitura, da literatura e imprensa juvenil, da arqueologia, do cinema e da fotografia, do jornalismo, da história, da etnografia e do xadrez.
+
+Art. 5.º Compete à Divisão de Apoio aos Organismos e Centros de Juventude:
+
+a) Promover e coordenar o estabelecimento de contactos e a prestação de apoio a todas as organizações juvenis independentes do Secretariado, quer se trate de organismos especificadamente constituídos por ou para jovens, quer se trate de grupos juvenis existentes em organismos públicos ou privados de âmbito geral;
+
+b) Promover, coordenar e centralizar todo o apoio a prestar pelo Secretariado aos centros de juventude cuja constituição deva apoiar, nos termos do [Decreto-Lei n.º 446/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1971-633919), de 25 de Outubro;
+
+c) Apoiar e orientar as iniciativas conducentes à realização de jogos juvenis.
+
+Art. 6.º À Repartição Administrativa compete:
+
+a) Assegurar os serviços de expediente geral, contabilidade, inspecção e verificação de contas, economato, património e de administração do pessoal do Secretariado, sem prejuízo da competência da Secretaria-Geral;
+
+b) Prestar apoio administrativo aos restantes serviços do Secretariado.
+
+Art. 7.º Na directa dependência da Direcção do Secretariado funcionará um Gabinete de Estudos e Relações Internacionais, ao qual competirá:
+
+a) Proceder a estudos e inquéritos acerca dos problemas da juventude;
+
+b) Organizar e manter actualizado um centro de documentação sobre questões da juventude;
+
+c) Proceder à divulgação, mediante publicações que organizará, de estudos e documentação sobre assuntos juvenis;
+
+d) Coordenar a participação dos movimentos ou organismos portugueses de juventude nas reuniões internacionais e assegurar, em geral, a representação de Portugal em reuniões juvenis internacionais, em colaboração com o Ministério dos Negócios Estrangeiros.
+
+Art. 8.º As delegações regionais constituem os órgãos locais do Secretariado, sendo o respectivo funcionamento regulado por portaria, nos termos do disposto no artigo 11.º do [Decreto-Lei n.º 446/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1971-633919), sem prejuízo do que vier a ser definido relativamente aos órgãos e serviços externos do Ministério, previstos no artigo 24.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+
+Art. 9.º - 1. Junto dos serviços do Secretariado poderão ser criados centros de juventude que terão por missão constituir núcleos de preparação e irradiação de actividades juvenis.
+
+2. Com o objectivo de conjugar as actividades dos centros a que se refere o número anterior com as que, na mesma matéria, sejam desenvolvidas pelos demais centros de juventude e organismos ou grupos juvenis, poderão ser criados, em cada região ou a nível nacional, conselhos com funções coordenadoras e consultivas, nos termos que vierem a ser aprovados por despacho do Ministro da Educação Nacional.
+
+II - Do pessoal
+
+Art. 10.º - 1. O Secretariado terá o pessoal dirigente, técnico, administrativo e auxiliar constante do mapa anexo ao presente decreto-lei, o qual será acrescentado aos quadros únicos do Ministério a que se referem os artigos 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, e o n.º 3.º do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
+
+2. O quadro referido no número anterior poderá ser alterado por decreto referendado pelos Ministros das Finanças e da Educação Nacional.
+
+3. O Ministro da Educação Nacional pode autorizar que o pessoal do Secretariado preste serviço nas delegações regionais.
+
+4. O pessoal será distribuído pelos respectivos serviços mediante despacho do director do Secretariado.
+
+Art. 11.º As normas de recrutamento e os regimes de provimento do pessoal do Secretariado são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), sem prejuízo do disposto nas alíneas seguintes:
+
+a) O lugar de director será provido em regime de contrato ou de comissão de serviço por escolha do Presidente do Conselho e do Ministro da Educação Nacional de entre diplomados com curso superior adequado e de reconhecida competência;
+
+b) Os lugares de subdirector serão providos por escolha do Ministro da Educação Nacional de entre diplomados com curso superior adequado;
+
+c) O lugar de tesoureiro de 1.ª classe será provido por escolha do Ministro da Educação Nacional de entre primeiros-oficiais ou técnicos auxiliares contabilistas do quadro único do Ministério.
+
+Art. 12.º - 1. Os delegados regionais serão nomeados, mediante despacho ministerial, em regime de comissão de serviço ou contratados, em qualquer dos casos por um ano, renovável por iguais períodos.
+
+2. Aos delegados regionais será abonado o vencimento correspondente a técnico de 1.ª classe ou gratificação mensal entre 5000$00 e 3000$00, a fixar por despacho ministerial, conforme exerçam as suas funções em regime de tempo integral ou em tempo parcial, respectivamente.
+
+Art. 13.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado além dos quadros pessoal técnico e administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+
+2. A utilização das disponibilidades de vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de autorização do Ministro das Finanças.
+
+Art. 14.º O director do Secretariado poderá propor superiormente a admissão de pessoal em regime de prestação de serviços, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao Secretariado, nos termos do artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
+
+III - Disposições finais e transitórias
+
+Art. 15.º O Secretariado poderá efectuar contratos de seguro contra acidentes em serviço do pessoal que, em qualquer regime, presta colaboração nas actividades por ele promovidas.
+
+Art. 16.º O Secretariado poderá instituir prémios pecuniários ou de outra natureza para fomentar o interesse da juventude por actividades adequadas à prossecução dos seus fins.
+
+Art. 17.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço no Secretariado será provido em lugares idênticos, ou de categoria equivalente, do quadro anexo ao presente diploma, nos termos das regras estabelecidas no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
+
+2. O disposto no número anterior é extensivo ao pessoal transferido para o Secretariado, nos termos do artigo 13.º do [Decreto-Lei n.º 446/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1971-633919).
+
+3. O disposto no n.º 1 deste artigo poderá, igualmente ser extensivo ao pessoal contratado para o Secretariado ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril.
+
+4. O pessoal que actualmente presta serviço no Secretariado, nas condições do número anterior, e que não for possível prover nos termos previstos no mesmo, transita para o Secretariado na situação em que se encontrar à data da publicação deste decreto.
+
+Art. 18.º Os encargos resultantes da execução do presente diploma serão suportados por força das dotações inscritas no orçamento privativo do Secretariado.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
+
+Promulgado em 7 de Setembro de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Quadro do pessoal do Secretariado para a Juventude, a que se refere o n.º 1 do artigo 10.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23900/18211824.pdf)
+
+Nota. - Ao funcionário encarregado de secretariar o director do Secretariado, designado por despacho do Ministério da Educação Nacional, será abonada a gratificação mensal de 1000$00.
+
+Manuel Artur Cotta Agostinho Dias - José Veiga Simão.

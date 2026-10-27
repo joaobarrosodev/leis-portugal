@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:182015:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-896262697",
+ "dre_path": "/dr/detalhe/decreto-lei/206-1985-182015",
+ "source_lastmod": "2024-11-11",
+ "versions": [
+  {
+   "date": "1985-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "896262821"
+   ]
+  },
+  {
+   "date": "1985-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:267830:por",
+     "title": "Declaração",
+     "published": "1985-08-31",
+     "dre_path": "/dr/detalhe/declaracao/1985-267830"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "896262821",
+    "896262798",
+    "896262797"
+   ]
+  }
+ ],
+ "fragments": {
+  "896262821": {
+   "fragment_id": "896262698",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1985-08-31",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 206/85\n\nde 28 de Junho\n\nA necessidade de resolver os problemas mais prementes relacionados com a salvaguarda dos fundos arquivísticos e bibliográficos do País conduziu à publicação do Decreto-Lei n.º 149/83, de 5 de Abril.\n\nDecorridos cerca de dois anos sobre a entrada em vigor daquele diploma, verificam-se ainda dificuldades na concretização do objectivo atrás referido, nomeadamente na implementação do funcionamento das instituições que o materializam. Com efeito, apesar dos esforços do Instituto Português do Património Cultural, por um lado, e dos governos civis, assembleias distritais e câmaras municipais, por outro, não tem sido possível proceder à reorganização das bibliotecas públicas e arquivos distritais, tal como se indiciava, em especial devido à carência de meios financeiros para a aquisição ou recuperação dos edifícios nos quais aquelas instituições estão ou deverão vir a estar sediadas.\n\nTentando ultrapassar tais dificuldades, e atendendo ao elevado interesse para o País desta acção, considera viável o Ministério da Cultura, através do Instituto Português do Património Cultural, vir a comparticipar nos encargos que a mesma determina.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "896262798": {
+   "fragment_id": "896262701",
+   "type": 11,
+   "heading": "Artigo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único\n\nO artigo 10.º do Decreto-Lei n.º 149/83, de 5 de Abril, passa a ter a seguinte redacção:\n\nArtigo 10.º\n\n1 - Compete às assembleias distritais:\n\na) Pronunciar-se sobre a nomeação do director;\n\nb) Participar, através de um representante, no conselho técnico consultivo previsto no artigo 12.º deste diploma;\n\nc) Arrecadar as receitas do respectivo arquivo distrital ou biblioteca pública e arquivo distrital;\n\nd) Assumir os encargos com a aquisição e conservação das instalações, bem como a manutenção dos arquivos distritais e bibliotecas públicas e arquivos distritais.\n\n2 - Poderão os encargos referidos na alínea d) do número anterior ser excepcionalmente suportados pelo Instituto Português do Património Cultural, desde que as instalações ou os terrenos necessários à sua construção sejam propriedade do Estado.\n\n3 - Compete ao Ministro da Cultura definir, por despacho, os casos de excepção previstos no presente artigo."
+  },
+  "896262797": {
+   "fragment_id": "896262700",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - António Antero Coimbra Martins - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 4 de Junho de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 7 de Junho de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

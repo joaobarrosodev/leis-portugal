@@ -1,0 +1,472 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0022:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0022-20081218",
+ "dre_path": null,
+ "source_lastmod": "2008-12-18",
+ "versions": [
+  {
+   "date": "1996-05-23",
+   "future": false,
+   "celex": "31996L0022",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5a7e660ad0118281",
+    "9ea50d0829132e30",
+    "fb46f331c7637515",
+    "aab75a5a4be45cd5",
+    "9788f8323ccf8299",
+    "6ff0a80d3a03ab4c",
+    "afffc2f99daf0669",
+    "b0ead4c923df6dc8",
+    "295411d4d79efd2d",
+    "510ccf7b7b502674",
+    "616c0a69a4d29579",
+    "160624b6eb001504",
+    "23476a2c30122872",
+    "27c34e54355c2db1",
+    "9a6e26b393c272cd",
+    "d4206aa426681c12",
+    "1b7cffb8e776dc83",
+    "8cb2d838f9b75997"
+   ]
+  },
+  {
+   "date": "2008-12-18",
+   "future": false,
+   "celex": "01996L0022-20081218",
+   "acts": [
+    {
+     "id": "eu:celex:32003L0074:por",
+     "title": "DIRECTIVA 2003/74/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2003",
+     "published": null,
+     "celex": "32003L0074"
+    },
+    {
+     "id": "eu:celex:32008L0097:por",
+     "title": "DIRECTIVA 2008/97/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 19 de Novembro de 2008",
+     "published": null,
+     "celex": "32008L0097"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 11.º-B",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 14.ºA",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita ANEXO[►M1](http://publications.europa.eu/resource/celex/32003L0074) I◄",
+    "Adita Quadro de correspondência",
+    "Adita ANEXO II",
+    "Adita ANEXO III",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime ANEXO — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "99e0b656c17806d3",
+    "5fd05fdc28b6deaa",
+    "8a53cfe5918034bb",
+    "f580b8ceaa0f19b3",
+    "64f29cd56e0042ab",
+    "b4d74c5edc126f2d",
+    "3114fab2672f6468",
+    "a2618b9dcb220a4a",
+    "638a8e8456941508",
+    "835638477c6476bd",
+    "6573fba48a13256e",
+    "405a8a84aa782e98",
+    "210a026e1353b432",
+    "6477f9733707222b",
+    "cfff69eb95f90d1e",
+    "cecaff7b866feb8f",
+    "dc5ed6cf3499a18a",
+    "53a3c1aa68988d72",
+    "c9a48e2e47ca2101",
+    "cab2ddd4b4a242d3",
+    "61770090983bbe0e",
+    "a8c64da8fd61b684",
+    "5b7bdbdcf40a45d6",
+    "4ae90bf8c7d98166",
+    "74ec32fe1e5c4c82"
+   ]
+  }
+ ],
+ "fragments": {
+  "5a7e660ad0118281": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/22/CE do Conselho, de 29 Abril de 1996, relativa à proibição de utilização de certas substâncias com efeitos hormonais ou tireostáticos e de substâncias ß-agonistas em produção animal e que revoga as Directivas 81/602/CEE, 88/146/CEE e 88/299/CEE** *Jornal Oficial nº L 125 de 23/05/1996 p. 0003 - 0009*\n\nDIRECTIVA 96/22/CE DO CONSELHO de 29 de Abril de 1996 relativa à proibição de utilização de certas substâncias com efeitos hormonais ou tireostáticos e de substâncias â-agonistas em produção animal e que revoga as Directivas 81/602/CEE, 88/146/CEE e 88/299/CEE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\n(1) Considerando que a Directiva 81/602/CEE (4) proibiu certas substâncias com efeitos hormonais e as substâncias com efeitos tireostáticos e que a Directiva 88/146/CEE (5) proibiu a utilização de certas substâncias com efeitos hormonais em especulações animais prevendo, porém, certas derrogações;\n\n(2) Considerando que a Directiva 88/299/CEE do Conselho (6) estabelece as condições de aplicação das derrogações à proibição do comércio de determinadas categorias de animais, definidas no artigo 7º da Directiva 88/146/CEE, bem como da carne proveniente desses animais;\n\n(3) Considerando que, devido aos resíduos que deixam na carne e noutros géneros alimentícios de origem animal, certas substâncias com efeitos tireostáticos ou estrogénicos, androgénicos ou gestagénicos podem ser perigosas para os consumidores, podendo igualmente afectar a qualidade dos géneros alimentícios de origem animal;\n\n(4) Considerando que na criação de animais são utilizadas ilegalmente novas substâncias de efeito anabolizante, tais como os â-agonistas, destinadas a estimular o seu crescimento e produtividade;\n\n(5) Considerando que os resultados do inquérito realizado pela Comissão entre 1990 e 1992 nos Estados-membros revelam que existe uma grande disponibilidade de â-agonistas no sector da criação de animais, o que favorece a sua utilização ilegal;\n\n(6) Considerando que a utilização incorrecta de substâncias â-agonistas pode constituir um perigo sério para a saúde humana; que, no interesse do consumidor, se deve proibir a detenção, administração a todos os animais e colocação no mercado de substâncias â-agonistas para esse efeito; que, além disso, é necessário proibir a detenção, administração aos animais de todas as espécies e colocação no mercado dos estilbenos e tireostáticos e, por outro lado, regulamentar a utilização das outras substâncias;\n\n(7) Considerando, porém, que a administração de medicamentos à base de substâncias â-agonistas pode ser autorizada para fins terapêuticos perfeitamente definidos, em algumas categorias de bovinos, equídeos e animais de companhia;\n\n(8) Considerando, além disso, que é necessário garantir a todos os consumidores as mesmas condições de abastecimento de carne e géneros alimentícios derivados, fornecendo-lhes ao mesmo tempo um produto que satisfaça o melhor possível as suas preocupações e expectativas; que, atendendo à sensibilidade dos consumidores, tais medidas só poderão facilitar as possibilidades de escoamento dos produtos em questão;\n\n(9) Considerando que é necessário manter a proibição das substâncias hormonais para fins de engorda; que, ainda que a administração de certas substâncias possa ser autorizada para fins terapêuticos ou zootécnicos, deve ser estritamente controlada para evitar qualquer utilização indevida;\n\n(10) Considerando a ausência de harmonização dos intervalos de segurança a nível comunitário e as diferenças consideráveis existentes entre Estados-membros, nomeadamente no que se refere aos medicamentos veterinários autorizados que contêm substâncias hormonais ou â-agonistas; que, por conseguinte, para efeitos de harmonização, é necessário fixar intervalos de segurança máximos para esses medicamentos;\n\n(11) Considerando, além disso, que os animais vivos assim tratados para fins terapêuticos ou zootécnicos e as carnes deles provenientes não podem, em princípio, ser comercializados, dados os riscos que daí decorreriam para a eficácia do controlo de todo o regime; que podem, porém, ser previstas derrogações a essa proibição, em determinadas condições, no que diz respeito ao comércio intracomunitário e à importação de países terceiros de animais destinados à reprodução e de animais reprodutores em fim de carreira;\n\n(12) Considerando que essas derrogações podem ser permitidas se forem dadas garantias suficientes de forma a evitar distorções comerciais; que essas garantias devem incidir nos produtos que podem ser utilizados, nas suas condições de utilização e no controlo dessas condições, nomeadamente no que se refere ao respeito pelo intervalo de segurança necessário;\n\n(13) Considerando que é conveniente assegurar um controlo eficaz da aplicação das disposições decorrentes da presente directiva;\n\n(14) Considerando que as Directivas 81/602/CEE, 88/146/CEE e 88/299/CEE devem ser revogadas;\n\n(15) Considerando que, para lutar eficazmente em todos os Estados-membros contra a utilização ilegal de factores de crescimento e de produtividade na criação de animais, a acção a realizar deve ser organizada a nível comunitário;\n\n(16) Considerando que, em 18 de Janeiro de 1996, o Parlamento Europeu convidou a Comissão e o Conselho a continuarem a opor-se à importação de carnes tratadas com hormonas e que manifestou o desejo de que se mantenha a proibição total da utilização de activadores do crescimento na criação de animais; que, para o efeito, o Parlamento Europeu convidou o Conselho a adoptar sem demora a proposta da Comissão sobre a qual tinha dado parecer em 19 de Abril de 1994,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9ea50d0829132e30": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Para efeitos da presente directiva, são aplicáveis as definições das carnes e produtos à base de carne das Directivas 64/433/CEE (7), 71/118/CEE (8), 77/99/CEE (9), 91/495/CEE (10), dos produtos de aquicultura da Directiva 91/493/CEE (11) e de medicamentos veterinários das Directivas 81/851/CEE (12) e 81/852/CEE (13).\n\n2. Além disso, entende-se por:\n\na) Animais de exploração, os animais domésticos das espécies bovina, suína, ovina e caprina, os solípedes, as aves de capoeira e os coelhos domésticos, bem como os animais selvagens das espécies acima referidas e os ruminantes selvagens, desde que tenham sido criados numa exploração;\n\nb) Tratamento terapêutico, a administração - em execução do artigo 4º da presente directiva -, a título individual, a um animal de exploração, de uma das substâncias autorizadas, tendo em vista o tratamento de um problema de fecundidade detectado durante um exame desse animal efectuado por um veterinário, incluindo a interrupção de uma gestação não desejada e, no que se refere aos â-agonistas, tendo em vista a indução da tocólise nas vacas parturientes, bem como o tratamento das perturbações respiratórias e a indução da tocólise nos equídeos criados para fins diferentes da produção de carne;\n\nc) Tratamento zootécnico, a administração:\n\ni) a título individual, a um animal de exploração, de uma das substâncias autorizadas em execução do artigo 5º da presente directiva, tendo em vista a sincronização do ciclo éstrico e a preparação das dadoras e das receptoras para a implantação de embriões, após exame do animal efectuado por um veterinário ou, nos termos do segundo parágrafo do artigo 5º, sob a sua responsabilidade,\n\nii) aos animais de aquicultura, a um grupo de reprodutores, tendo em vista a sua inversão sexual, por prescrição de um veterinário e sob a sua responsabilidade;\n\nd) Tratamento ilegal, a utilização de substâncias ou produtos não autorizados ou a utilização de substâncias ou produtos autorizados pela legislação comunitária para outros fins ou em condições que não as previstas na legislação comunitária."
+  },
+  "fb46f331c7637515": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros assegurarão a proibição de colocação no mercado de:\n\na) Estilbenos, derivados de estilbenos, seus sais e ésteres, bem como de tireostáticos, destinados a serem administrados a animais de todas as espécies;\n\nb) â-agonistas destinados a serem administrados aos animais cuja carne e produtos se destinem a consumo humano, para fins que não os previstos no nº 2 do artigo 4º"
+  },
+  "aab75a5a4be45cd5": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros assegurarão igualmente a proibição de:\n\na) Administração, por qualquer meio, aos animais de exploração e aos animais de aquicultura de substâncias com efeitos tireostáticos, estrogénicos, androgénicos ou gestagénicos, bem como de substâncias â-agonistas;\n\nb) Detenção numa exploração, excepto sob controlo oficial, dos animais referidos na alínea a), colocação no mercado ou abate, para consumo humano, de animais de exploração e de animais de aquicultura que contenham as substâncias referidas na alínea a) ou nos quais se detectou a sua presença, excepto se se provar que os referidos animais foram tratados nos termos dos artigos 4º ou 5º;\n\nc) Colocação no mercado, para consumo humano, de animais de aquicultura a que tenham sido administradas as substâncias referidas na alínea a), bem como de produtos transformados provenientes desses animais;\n\nd) Colocação no mercado da carne dos animais referidos na alínea b);\n\ne) Transformação da carne referida na alínea d)."
+  },
+  "9788f8323ccf8299": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nEm derrogação aos artigos 2º e 3º, os Estados-membros podem autorizar:\n\n1. A administração a animais de exploração, com fins terapêuticos, de estradiol 17 â, de testosterona, de progesterona ou de derivados que, após reabsorção no local de aplicação, libertem facilmente o composto inicial por hidrólise. Os medicamentos veterinários utilizados para tratamento terapêutico devem preencher os requisitos de colocação no mercado previstos na Directiva 81/851/CEE e apenas podem ser administrados por um veterinário, sob forma de injecção ou, para tratamento da disfunção ovariana, sob forma de espirais vaginais, com exclusão de implantes, a animais de exploração que tenham sido claramente identificados. O tratamento dos animais identificados deve ser registado pelo veterinário responsável, que deve anotar num registo, que pode ser o registo previsto na Directiva 81/851/CEE, pelo menos, as seguintes informações:\n\n- natureza do tratamento,\n\n- natureza dos produtos autorizados,\n\n- data do tratamento,\n\n- identificação dos animais tratados.\n\nEste registo deve ser posto à disposição das autoridades competentes, a seu pedido.\n\n2. A administração para fins terapêuticos de medicamentos veterinários autorizados que contenham:\n\ni) Alilotrembolona a administrar por via oral, ou substâncias â-agonistas, a equídeos e a animais de companhia, desde que sejam utilizados de acordo com as especificações do fabricante;\n\nii) â-agonistas, sob forma de uma injecção para a indução da tocólise nas vacas parturientes.\n\nEssa administração deve ser efectuada por um veterinário ou, no caso de medicamentos veterinários referidos na alínea i), sob a sua responsabilidade directa. O tratamento deve ser registado pelo veterinário responsável, que especificará, pelo menos, as informações referidas no nº 1 do presente artigo.\n\nÉ proibida ao produtor a posse de medicamentos veterinários com substâncias â-agonistas susceptíveis de serem utilizados para fins de indução da tocólise.\n\nTodavia, sem prejuízo do disposto na alínea ii) do ponto 2, é proibido o tratamento terapêutico de animais de rendimento, incluindo o de animais reprodutores em fim de carreira."
+  },
+  "6ff0a80d3a03ab4c": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nEm derrogação do disposto na alínea a) do artigo 3º, e sem prejuízo do artigo 2º, os Estados-membros podem autorizar a administração a animais de exploração, para um tratamento zootécnico, de medicamentos veterinários com efeitos estrogénicos, androgénicos ou gestagénicos, autorizados nos termos das Directivas 81/851/CEE e 81/852/CEE. Essa administração deve ser efectuada por um veterinário a animais claramente identificados, devendo o tratamento ser registado pelo veterinário responsável, nos termos do nº 1 do artigo 4º\n\nNo entanto, os Estados-membros podem permitir que a sincronização do ciclo éstrico e a preparação das dadoras e receptoras para a implantação de embriões sejam efectuadas, não pelo veterinário, mas sob a sua responsabilidade.\n\nNo que se refere aos animais de aquicultura, os alevinos podem ser tratados durante os três primeiros meses, para efeitos de inversão sexual, com medicamentos veterinários com efeitos androgénicos, autorizados nos termos das Directivas 81/851/CEE e 81/852/CEE.\n\nNos casos previstos no presente artigo, o veterinário passará uma receita não renovável, na qual especificará o tratamento em questão e a quantidade de produto necessária e registará os produtos receitados.\n\nÉ, todavia, proibido o tratamento zootécnico de animais de rendimento, incluindo o de animais reprodutores em fim de carreira durante o período de engorda."
+  },
+  "afffc2f99daf0669": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os produtos hormonais e as substâncias â-agonistas cuja administração aos animais de exploração esteja autorizada nos termos dos artigos 4º e 5º devem satisfazer as exigências das Directivas 81/851/CEE e 81/852/CEE.\n\n2. Todavia, não podem ser autorizados, nos termos do nº 1:\n\na) Os seguintes produtos hormonais:\n\ni) produtos que se depositem,\n\nii) produtos cujo intervalo de segurança seja superior a 15 dias após o fim do tratamento,\n\niii) Produtos:\n\n- autorizados ao abrigo de normas anteriores à alteração introduzida pelo Regulamento (CEE) nº 2309/93 (14),\n\n- cujas condições de utilização não sejam conhecidas,\n\n- para os quais não existam reagentes, nem o material de análise necessário para permitir detectar a presença de resíduos que ultrapassem os limites autorizados;\n\nb) Medicamentos veterinários que contenham substâncias â-agonistas cujo intervalo de segurança seja superior a 28 dias após o fim do tratamento."
+  },
+  "b0ead4c923df6dc8": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Para fins de comércio, os Estados-membros podem autorizar a colocação no mercado de animais destinados à reprodução ou de animais reprodutores em fim de carreira que, no decurso da sua carreira de reprodutores, tenham sido sujeitos a um dos tratamentos referidos nos artigos 4º e 5º, e autorizar a aposição do selo comunitário na carne proveniente desses animais, se tiverem sido respeitadas as condições previstas nos artigos 4º e 5º e os intervalos de segurança mínimos previstos no nº 2, alínea a), subalínea ii), ou alínea b), do artigo 6º, ou os intervalos de segurança previstos na autorização de colocação no mercado.\n\nNo entanto, o comércio de cavalos de elevado valor, nomeadamente de cavalos de corrida, concurso ou circo, ou de cavalos de sela ou destinados a exposições, incluindo os equídeos registados, a que tenham sido administrados medicamentos veterinários que contenham alilotrembolona ou â-agonistas para os fins indicados no artigo 4º pode efectuar-se antes do final do intervalo de segurança, desde que sejam preenchidas as condições de administração e que a natureza e a data do tratamento sejam mencionadas no certificado ou passaporte que acompanha esses animais.\n\n2. A carne ou os produtos provenientes de animais a que tenham sido administradas substâncias com efeitos estrogénicos, androgénicos, gestagénicos ou substâncias â-agonistas, de acordo com as disposições derrogatórias da presente directiva, só podem ser colocados no mercado para consumo humano se os animais em questão tiverem sido tratados com medicamentos veterinários que preencham os requisitos do artigo 6º e na medida em que tenha sido respeitado o intervalo de segurança previsto antes do abate dos animais."
+  },
+  "295411d4d79efd2d": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nOs Estados-membros garantirão que:\n\n1. A detenção das substâncias referidas no artigo 2º e na alínea a) do artigo 3º se limite às pessoas autorizadas pela legislação nacional, nos termos do artigo 1º da Directiva 90/676/CEE (15), aquando da sua importação, fabrico, armazenagem, distribuição, venda ou utilização.\n\n2. Para além dos controlos previstos nas directivas que regulamentam a colocação no mercado dos diferentes produtos em questão, os controlos oficiais previstos no artigo 11º da Directiva 96/23/CE (16) sejam efectuados pelas autoridades nacionais competentes sem aviso prévio a fim de verificar:\n\na) A detenção ou a presença de substâncias ou produtos proibidos, nos termos do artigo 2º, destinados a serem administrados a animais para fins de engorda;\n\nb) O tratamento ilegal dos animais;\n\nc) O não cumprimento dos intervalos de segurança previstos no artigo 6º;\n\nd) O não cumprimento das restrições previstas nos artigos 4º e 5º para a utilização de determinadas substâncias ou produtos\n\n3. A pesquisa da presença:\n\na) Das substâncias referidas no ponto 1 nos animais e nas águas para abeberamento dos animais, bem como em todos os locais em que são criados ou mantidos animais;\n\nb) De resíduos das substâncias acima referidas nos animais vivos, ou nos seus excrementos e líquidos biológicos, bem como nos tecidos e produtos animais,\n\nseja efectuada nos termos do disposto nos anexos III e IV da Directiva 96/23/CE.\n\n4. Sempre que os controlos previstos nos pontos 2 e 3 revelarem:\n\na) A presença de substâncias ou produtos cuja utilização ou detenção sejam proibidas ou a presença de resíduos de substâncias cuja administração seja considerada tratamento ilegal, essas substâncias ou produtos sejam apreendidos e os animais eventualmente tratados ou a respectiva carne sejam colocados sob controlo oficial até serem aplicadas as sanções necessárias;\n\nb) O não cumprimento das exigências previstas nas alíneas b) e c) do ponto 2, a autoridade competente tome as medidas adequadas em função da gravidade da infracção verificada."
+  },
+  "510ccf7b7b502674": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nSem prejuízo do disposto na Directiva 81/851/CEE, as empresas que comprem ou produzam substâncias com efeitos tireostáticos, estrogénicos, androgénicos, gestagénicos e substâncias â-agonistas e as empresas autorizadas, seja a que título for, a comercializarem as referidas substâncias, bem como as empresas que comprem ou produzam produtos farmacêuticos e medicamentos veterinários a partir dessas substâncias, devem possuir um registo no qual se consignem, por ordem cronológica, as quantidades produzidas ou adquiridas e as cedidas ou utilizadas para produção de produtos farmacêuticos e medicamentos veterinários e a quem foram cedidas ou compradas.\n\nAs informações referidas no primeiro parágrafo devem ser postas à disposição da autoridade competente, a seu pedido, e, no caso de ficheiros informatizados, sob forma impressa."
+  },
+  "616c0a69a4d29579": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nQuando os resultados dos controlos efectuados num Estado-membro revelarem o não cumprimento das exigências da presente directiva no país de origem dos animais ou dos produtos, a autoridade competente desse Estado-membro recorrerá às disposições da Directiva 89/608/CEE do Conselho, de 21 de Novembro de 1989, relativa à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das legislações veterinária e zootécnica (17)."
+  },
+  "160624b6eb001504": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Os países terceiros cuja legislação autorize a colocação no mercado e a administração a animais de todas as espécies de estilbenos, de derivados de estilbenos, dos respectivos sais ou ésteres, bem como de tireostáticos não podem constar de uma das listas de países previstos na legislação comunitária a partir dos quais os Estados-membros estão autorizados a importar animais de exploração ou de aquicultura ou carne ou produtos obtidos a partir dos referidos animais.\n\n2. Além disso, os Estados-membros garantirão a proibição da importação proveniente de países terceiros, que constem de uma das listas referidas no nº 1, de:\n\na) Animais de exploração ou de aquicultura\n\ni) a que tenham sido administrados, por qualquer meio, produtos ou substâncias referidos na alínea a) do artigo 2º,\n\nii) a que tenham sido administrados substâncias ou produtos referidos na alínea a) do artigo 3º, excepto se essa administração obedecer às disposições e exigências previstas nos artigos 4º, 5º e 7º da presente directiva e se forem respeitados os intervalos de segurança previstos nas recomendações internacionais;\n\nb) Carne ou produtos obtidos a partir de animais cuja importação seja proibida nos termos da alínea a).\n\n3. Os animais destinados à reprodução, os animais reprodutores em fim de carreira ou a sua carne, provenientes de países terceiros, podem ser importados desde que ofereçam garantias pelo menos equivalentes às previstas na presente directiva e que tenham sido estabelecidas através do procedimento previsto no artigo 33º, da Directiva 96/23/CE, para efeitos do capítulo V da referida directiva.\n\n4. Os controlos relativos às importações em proveniência de países terceiros serão efectuados nos termos do nº 2, alínea c), do artigo 4º da Directiva 91/496/CEE do Conselho, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade (18), e do nº 2 do artigo 8º da Directiva 90/675/CEE, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade (19)."
+  },
+  "23476a2c30122872": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode adoptar as medidas transitórias necessárias à aplicação do regime previsto na presente directiva."
+  },
+  "27c34e54355c2db1": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. As Directivas 81/602/CEE, 88/146/CEE e 88/299/CEE são revogadas com efeitos a partir de 1 de Julho de 1997.\n\n2. As referências a essas directivas revogadas considerar-se-ão como sendo feitas à presente directiva e segundo o quadro de correspondência em anexo."
+  },
+  "9a6e26b393c272cd": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas, incluindo eventuais sanções, necessárias para dar cumprimento à presente directiva em 1 de Julho de 1997 e, no que se refere às substâncias â-agonistas, o mais tardar em 1 de Julho de 1997. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptarem nas matérias reguladas pela presente directiva.\n\n3. Enquanto se aguarda a aplicação das disposições previstas na presente directiva no que se refere às substâncias â-agonistas, continuam a ser aplicáveis as normas nacionais, na observância das disposições gerais do Tratado."
+  },
+  "d4206aa426681c12": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "1b7cffb8e776dc83": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 29 de Abril de 1996.\n\nPelo Conselho\n\nO Presidente\n\nW. LUCHETTI\n\n(1) JO nº C 302 de 9. 11. 1993, p. 8 e JO nº C 222 de 10. 8. 1994, p. 16.\n\n(2) JO nº C 128 de 9. 5. 1994, p. 107.\n\n(3) JO nº C 52 de 19. 2. 1994, p. 30.\n\n(4) JO nº L 222 de 7. 8. 1981, p. 32. Directiva alterada pela Directiva 85/358/CEE (JO nº L 191 de 23. 7. 1985, p. 46).\n\n(5) JO nº L 70 de 16. 3. 1988, p. 16. Directiva alterada pelo Acto de Adesão de 1994.\n\n(6) JO nº L 128 de 21. 5. 1988, p. 36.\n\n(7) JO nº 121 de 29. 7. 1964, p. 2012. Directiva com a última redacção que lhe foi dada pela Directiva 95/23/CE (JO nº L 243 de 11. 10. 1995, p. 7).\n\n(8) JO nº L 55 de 8. 3. 1971, p. 23. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(9) JO nº L 26 de 31. 1. 1977, p. 85. Directiva com a última redacção que lhe foi dada pela Directiva 95/68/CE (JO nº L 332 de 30. 12. 1995, p. 10).\n\n(10) JO nº L 268 de 24. 9. 1991, p. 41. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(11) JO nº L 268 de 24. 9. 1991, p. 15. Directiva com a última redacção que lhe foi dada pela Directiva 95/71/CE (JO nº L 332 de 30. 12. 1995, p. 40).\n\n(12) JO nº L 317 de 6. 11. 1981, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 93/40/CEE (JO nº L 214 de 24. 8. 1993, p. 31).\n\n(13) JO nº L 317 de 6. 11. 1981, p. 16. Directiva com a última redacção que lhe foi dada pela Directiva 93/40/CEE (JO nº L 214 de 24. 8. 1993, p. 31).\n\n(14) JO nº L 214 de 24. 8. 1993, p. 1.\n\n(15) JO nº L 373 de 31. 12. 1990, p. 15.\n\n(16) Ver página 10 do presente Jornal Oficial.\n\n(17) JO nº L 351 de 2. 12. 1989, p. 34.\n\n(18) JO nº L 268 de 24. 9. 1991, p. 56. Directiva com a última redacção que lhe foi dada pela Decisão nº 95/157/CE da Comissão (JO nº L 103 de 6. 5. 1995, p. 40).\n\n(19) JO nº L 373 de 31. 12. 1990, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 95/52/CE (JO nº L 265 de 8. 11. 1995, p. 16)."
+  },
+  "8cb2d838f9b75997": {
+   "fragment_id": "ANEXO — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — >POSIÇÃO NUMA TABELA>"
+  },
+  "99e0b656c17806d3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 1996\n\nrelativa à proibição de utilização de certas substâncias com efeitos hormonais ou tireostáticos e de substâncias *β*-agonistas em produção animal e que revoga as Directivas 81/602/CEE, 88/146/CEE e 88/299/CEE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0003)),\n\n(1) Considerando que a Directiva 81/602/CEE ([^4^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0004)) proibiu certas substâncias com efeitos hormonais e as substâncias com efeitos tireostáticos e que a Directiva 88/146/CEE ([^5^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0005)) proibiu a utilização de certas substâncias com efeitos hormonais em especulações animais prevendo, porém, certas derrogações;\n\n(2) Considerando que a Directiva 88/299/CEE do Conselho ([^6^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0006)) estabelece as condições de aplicação das derrogações à proibição do comércio de determinadas categorias de animais, definidas no artigo 7.º da Directiva 88/146/CEE, bem como da carne proveniente desses animais;\n\n(3) Considerando que, devido aos resíduos que deixam na carne e noutros géneros alimentícios de origem animal, certas substâncias com efeitos tireostáticos ou estrogénicos, androgénicos ou gestagénicos podem ser perigosas para os consumidores, podendo igualmente afectar a qualidade dos géneros alimentícios de origem animal;\n\n(4) Considerando que na criação de animais são utilizadas ilegalmente novas substâncias de efeito anabolizante, tais como os *β*-agonistas, destinadas a estimular o seu crescimento e produtividade;\n\n(5) Considerando que os resultados do inquérito realizado pela Comissão entre 1990 e 1992 nos Estados-membros revelam que existe uma grande disponibilidade de *β*-agonistas no sector da criação de animais, o que favorece a sua utilização ilegal;\n\n(6) Considerando que a utilização incorrecta de substâncias *β*-agonistas pode constituir um perigo sério para a saúde humana; que, no interesse do consumidor, se deve proibir a detenção, administração a todos os animais e colocação no mercado de substâncias *β*-agonistas para esse efeito; que, além disso, é necessário proibir a detenção, administração aos animais de todas as espécies e colocação no mercado dos estilbenos e tireostáticos e, por outro lado, regulamentar a utilização das outras substâncias;\n\n(7) Considerando, porém, que a administração de medicamentos à base de substâncias *β*-agonistas pode ser autorizada para fins terapêuticos perfeitamente definidos, em algumas categorias de bovinos, equídeos e animais de companhia;\n\n(8) Considerando, além disso, que é necessário garantir a todos os consumidores as mesmas condições de abastecimento de carne e géneros alimentícios derivados, fornecendo-lhes ao mesmo tempo um produto que satisfaça o melhor possível as suas preocupações e expectativas; que, atendendo à sensibilidade dos consumidores, tais medidas só poderão facilitar as possibilidades de escoamento dos produtos em questão;\n\n(9) Considerando que é necessário manter a proibição das substâncias hormonais para fins de engorda; que, ainda que a administração de certas substâncias possa ser autorizada para fins terapêuticos ou zootécnicos, deve ser estritamente controlada para evitar qualquer utilização indevida;\n\n(10) Considerando a ausência de harmonização dos intervalos de segurança a nível comunitário e as diferenças consideráveis existentes entre Estados-membros, nomeadamente no que se refere aos medicamentos veterinários autorizados que contêm substâncias hormonais ou *β*-agonistas; que, por conseguinte, para efeitos de harmonização, é necessário fixar intervalos de segurança máximos para esses medicamentos;\n\n(11) Considerando, além disso, que os animais vivos assim tratados para fins terapêuticos ou zootécnicos e as carnes deles provenientes não podem, em princípio, ser comercializados, dados os riscos que daí decorreriam para a eficácia do controlo de todo o regime; que podem, porém, ser previstas derrogações a essa proibição, em determinadas condições, no que diz respeito ao comércio intracomunitário e à importação de países terceiros de animais destinados à reprodução e de animais reprodutores em fim de carreira;\n\n(12) Considerando que essas derrogações podem ser permitidas se forem dadas garantias suficientes de forma a evitar distorções comerciais; que essas garantias devem incidir nos produtos que podem ser utilizados, nas suas condições de utilização e no controlo dessas condições, nomeadamente no que se refere ao respeito pelo intervalo de segurança necessário;\n\n(13) Considerando que é conveniente assegurar um controlo eficaz da aplicação das disposições decorrentes da presente directiva;\n\n(14) Considerando que as Directivas 81/602/CEE, 88/146/CEE e 88/299/CEE devem ser revogadas;\n\n(15) Considerando que, para lutar eficazmente em todos os Estados-membros contra a utilização ilegal de factores de crescimento e de produtividade na criação de animais, a acção a realizar deve ser organizada a nível comunitário;\n\n(16) Considerando que, em 18 de Janeiro de 1996, o Parlamento Europeu convidou a Comissão e o Conselho a continuarem a opor-se à importação de carnes tratadas com hormonas e que manifestou o desejo de que se mantenha a proibição total da utilização de activadores do crescimento na criação de animais; que, para o efeito, o Parlamento Europeu convidou o Conselho a adoptar sem demora a proposta da Comissão sobre a qual tinha dado parecer em 19 de Abril de 1994,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5fd05fdc28b6deaa": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para efeitos da presente directiva, são aplicáveis as definições das carnes e produtos à base de carne das Directivas 64/433/CEE ([^7^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0007)), 71/118/CEE ([^8^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0008)), 77/99/CEE ([^9^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0009)), 91/495/CEE ([^10^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0010)), dos produtos de aquicultura da Directiva 91/493/CEE ([^11^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0011)) e de medicamentos veterinários das Directivas 81/851/CEE ([^12^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0012)) e 81/852/CEE ([^13^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0013)).\n\n2. Além disso, entende-se por:\n\na) *Animais de exploração*, os animais domésticos das espécies bovina, suína, ovina e caprina, os solípedes, as aves de capoeira e os coelhos domésticos, bem como os animais selvagens das espécies acima referidas e os ruminantes selvagens, desde que tenham sido criados numa exploração;\n\nb) Tratamento terapêutico, a administração — em cumprimento do artigo 4.º da presente directiva — a título individual, a um animal de exploração, de uma das substâncias autorizadas, tendo em vista o tratamento de um problema de fecundidade detectado durante um exame desse animal efectuado por um veterinário, incluindo a interrupção de uma gestação não desejada e, no que se refere aos β-agonistas, tendo em vista a indução da tocólise nas vacas parturientes, bem como o tratamento das perturbações respiratórias, da doença do navicular e da laminite e a indução da tocólise nos equídeos;\n\nc) *Tratamento zootécnico*, a administração:\n\ni) a título individual, a um animal de exploração, de uma das substâncias autorizadas em execução do artigo 5.º da presente directiva, tendo em vista a sincronização do ciclo éstrico e a preparação das dadoras e das receptoras para a implantação de embriões, após exame do animal efectuado por um veterinário ou, nos termos do segundo parágrafo do artigo 5.º, sob a sua responsabilidade,\n\nii) aos animais de aquicultura, a um grupo de reprodutores, tendo em vista a sua inversão sexual, por prescrição de um veterinário e sob a sua responsabilidade;\n\nd) *Tratamento ilegal*, a utilização de substâncias ou produtos não autorizados ou a utilização de substâncias ou produtos autorizados pela legislação comunitária para outros fins ou em condições que não as previstas na legislação comunitária."
+  },
+  "8a53cfe5918034bb": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros proíbem a colocação no mercado, para fins diversos dos referidos no n.º 2 do artigo 4.º, das substâncias incluídas no anexo II, para administração a quaisquer animais cuja carne ou produtos derivados se destinem ao consumo humano."
+  },
+  "f580b8ceaa0f19b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros proibirão, no que respeita às substâncias enumeradas no anexo II, e proibirão provisoriamente, no que respeita às substâncias enumeradas no anexo III:\n\na) A administração dessas substâncias, por quaisquer meios, a animais de exploração ou de aquicultura;\n\nb) A detenção numa exploração, excepto sob controlo oficial, dos animais referidos na alínea a), a colocação no mercado ou o abate, para consumo humano, de animais de exploração que contenham ou em que tenham sido detectadas as substâncias incluídas nos anexos II e III, excepto no caso de poder provar-se que os animais em causa foram tratados em conformidade com os artigos 4.º, 5.º ou [**►M2**](http://publications.europa.eu/resource/celex/32008L0097) —————º—————**◄**;\n\nc) A colocação no mercado, para consumo humano, de animais de aquicultura a que tenham sido administradas as substâncias acima referidas, bem como de produtos transformados derivados desses animais;\n\nd) A colocação no mercado de carne de animais referidos na alínea b);\n\ne) A transformação da carne referida na alínea d)."
+  },
+  "64f29cd56e0042ab": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nEm derrogação aos artigos 2.º e 3.º, os Estados-membros podem autorizar:\n\n1. A administração a animais de exploração, com fins terapêuticos, [**►M1**](http://publications.europa.eu/resource/celex/32003L0074) —————*β*—————**◄**de testosterona, de progesterona ou de derivados que, após reabsorção no local de aplicação, libertem facilmente o composto inicial por hidrólise. Os medicamentos veterinários utilizados para tratamento terapêutico devem preencher os requisitos de colocação no mercado previstos na Directiva 81/851/CEE e apenas podem ser administrados por um veterinário, sob forma de injecção ou, para tratamento da disfunção ovariana, sob forma de espirais vaginais, com exclusão de implantes, a animais de exploração que tenham sido claramente identificados. O tratamento dos animais identificados deve ser registado pelo veterinário responsável, que deve anotar num registo, que pode ser o registo previsto na Directiva 81/851/CEE, pelo menos, as seguintes informações:\n\n— natureza do tratamento,\n\n— natureza dos produtos autorizados,\n\n— data do tratamento,\n\n— identificação dos animais tratados.\n\n2. A administração para fins terapêuticos de medicamentos veterinários autorizados que contenham:\n\ni) Alilotrembolona a administrar por via oral, ou substâncias β-agonistas, a equídeos, desde que sejam utilizados de acordo com as especificações do fabricante;\n\nii) *β*-agonistas, sob forma de uma injecção para a indução da tocólise nas vacas parturientes.\n\nTodavia, sem prejuízo do disposto na alínea ii) do ponto 2, é proibido o tratamento terapêutico de animais de rendimento, incluindo o de animais reprodutores em fim de carreira."
+  },
+  "b4d74c5edc126f2d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n[**►M1**](http://publications.europa.eu/resource/celex/32003L0074) Em derrogação da alínea a) do artigo 3.º, e sem prejuízo do artigo 2.º, os Estados-Membros podem autorizar a administração a animais de exploração, para um tratamento zootécnico, de medicamentos veterinários com efeitos estrogénicos (à excepção do estradiol 17ß e dos seus ésteres), androgénicos ou gestagénicos, autorizados nos termos da Directiva 2001/82/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos veterinários ([^14^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0014)).**◄** Essa administração deve ser efectuada por um veterinário a animais claramente identificados, devendo o tratamento ser registado pelo veterinário responsável, nos termos do n.º 1 do artigo 4.º\n\nNo entanto, os Estados-membros podem permitir que a sincronização do ciclo éstrico e a preparação das dadoras e receptoras para a implantação de embriões sejam efectuadas, não pelo veterinário, mas sob a sua responsabilidade.\n\nNo que se refere aos animais de aquicultura, os alevinos podem ser tratados durante os três primeiros meses, para efeitos de inversão sexual, com medicamentos veterinários com efeitos androgénicos, autorizados nos termos das Directivas 81/851/CEE e 81/852/CEE.\n\nNos casos previstos no presente artigo, o veterinário passará uma receita não renovável, na qual especificará o tratamento em questão e a quantidade de produto necessária e registará os produtos receitados.\n\nÉ, todavia, proibido o tratamento zootécnico de animais de rendimento, incluindo o de animais reprodutores em fim de carreira durante o período de engorda."
+  },
+  "3114fab2672f6468": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os produtos hormonais e as substâncias ß-agonistas cuja administração aos animais de exploração esteja autorizada nos termos dos artigos 4.º, 5.º ou [**►M2**](http://publications.europa.eu/resource/celex/32008L0097) —————**◄** devem satisfazer as exigências da Directiva 2001/82/CE.\n\n2. Todavia, não podem ser autorizados, nos termos do n.º 1:\n\na) Os seguintes produtos hormonais:\n\ni) produtos que se depositem,\n\nii) produtos cujo intervalo de segurança seja superior a 15 dias após o fim do tratamento,\n\niii) Produtos:\n\n— autorizados ao abrigo de normas anteriores à alteração introduzida pelo Regulamento (CEE) n.º 2309/93 ([^15^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0015)),\n\n— cujas condições de utilização não sejam conhecidas,\n\n— para os quais não existam reagentes, nem o material de análise necessário para permitir detectar a presença de resíduos que ultrapassem os limites autorizados;\n\nb) Medicamentos veterinários que contenham substâncias *β*-agonistas cujo intervalo de segurança seja superior a 28 dias após o fim do tratamento."
+  },
+  "a2618b9dcb220a4a": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Para fins de trocas comerciais, os Estados-Membros podem autorizar a colocação no mercado de animais destinados à reprodução ou de animais reprodutores em fim de carreira que, no decurso da sua carreira de reprodutores, tenham sido sujeitos a um dos tratamentos referidos nos artigos 4.º, 5.º ou [**►M2**](http://publications.europa.eu/resource/celex/32008L0097) —————**◄**, e autorizar a aposição do selo comunitário nas carnes provenientes desses animais, se tiverem sido respeitadas as condições previstas nos artigos 4.º, 5.º ou [**►M2**](http://publications.europa.eu/resource/celex/32008L0097) —————**◄** e os intervalos de segurança mínimos previstos na autorização de colocação no mercado.\n\nNo entanto, o comércio de cavalos de elevado valor, nomeadamente de cavalos de corrida, concurso ou circo, ou de cavalos de sela ou destinados a exposições, incluindo os equídeos registados, a que tenham sido administrados medicamentos veterinários que contenham alilotrembolona ou *β*-agonistas para os fins indicados no artigo 4.º pode efectuar-se antes do final do intervalo de segurança, desde que sejam preenchidas as condições de administração e que a natureza e a data do tratamento sejam mencionadas no certificado ou passaporte que acompanha esses animais.\n\n2. A carne ou os produtos provenientes de animais a que tenham sido administradas substâncias com efeitos estrogénicos, androgénicos, gestagénicos ou substâncias *β*-agonistas, de acordo com as disposições derrogatórias da presente directiva, só podem ser colocados no mercado para consumo humano se os animais em questão tiverem sido tratados com medicamentos veterinários que preencham os requisitos do artigo 6.º e na medida em que tenha sido respeitado o intervalo de segurança previsto antes do abate dos animais."
+  },
+  "638a8e8456941508": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros garantirão que:\n\n1. A detenção das substâncias referidas nos artigos 2.º e 3.º se limite às pessoas autorizadas pela legislação nacional, nos termos do artigo 68.º da Directiva 2001/82/CE, aquando da sua importação, fabrico, armazenagem, distribuição, venda ou utilização.\n\n2. Para além dos controlos previstos nas directivas que regulamentam a colocação no mercado dos diferentes produtos em questão, os controlos oficiais previstos no artigo 11.º da Directiva 96/23/CE ([^16^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0016)) sejam efectuados pelas autoridades nacionais competentes sem aviso prévio a fim de verificar:\n\na) A detenção ou a presença de substâncias ou produtos proibidos, nos termos [**►M1**](http://publications.europa.eu/resource/celex/32003L0074) dos artigos 2.º e 3.º **◄**, destinados a serem administrados a animais para fins de engorda;\n\nb) O tratamento ilegal dos animais;\n\nc) O não cumprimento dos intervalos de segurança previstos no artigo 6.º;\n\nd) O não cumprimento das restrições previstas [**►M1**](http://publications.europa.eu/resource/celex/32003L0074) nos artigos 4.º, 5.º e [**►M2**](http://publications.europa.eu/resource/celex/32008L0097) —————**◄** **◄** para a utilização de determinadas substâncias ou produtos\n\n3. A pesquisa da presença:\n\na) Das substâncias referidas no ponto 1 nos animais e nas águas para abeberamento dos animais, bem como em todos os locais em que são criados ou mantidos animais;\n\nb) De resíduos das substâncias acima referidas nos animais vivos, ou nos seus excrementos e líquidos biológicos, bem como nos tecidos e produtos animais,\n\n4. Sempre que os controlos previstos nos pontos 2 e 3 revelarem:\n\na) A presença de substâncias ou produtos cuja utilização ou detenção sejam proibidas ou a presença de resíduos de substâncias cuja administração seja considerada tratamento ilegal, essas substâncias ou produtos sejam apreendidos e os animais eventualmente tratados ou a respectiva carne sejam colocados sob controlo oficial até serem aplicadas as sanções necessárias;\n\nb) O não cumprimento das exigências previstas nas alíneas b) e c) do ponto 2, a autoridade competente tome as medidas adequadas em função da gravidade da infracção verificada."
+  },
+  "835638477c6476bd": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSem prejuízo do disposto na Directiva 81/851/CEE, as empresas que comprem ou produzam substâncias com efeitos tireostáticos, estrogénicos, androgénicos, gestagénicos e substâncias *β*-agonistas e as empresas autorizadas, seja a que título for, a comercializarem as referidas substâncias, bem como as empresas que comprem ou produzam produtos farmacêuticos e medicamentos veterinários a partir dessas substâncias, devem possuir um registo no qual se consignem, por ordem cronológica, as quantidades produzidas ou adquiridas e as cedidas ou utilizadas para produção de produtos farmacêuticos e medicamentos veterinários e a quem foram cedidas ou compradas.\n\nAs informações referidas no primeiro parágrafo devem ser postas à disposição da autoridade competente, a seu pedido, e, no caso de ficheiros informatizados, sob forma impressa."
+  },
+  "6573fba48a13256e": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nQuando os resultados dos controlos efectuados num Estado-membro revelarem o não cumprimento das exigências da presente directiva no país de origem dos animais ou dos produtos, a autoridade competente desse Estado-membro recorrerá às disposições da Directiva 89/608/CEE do Conselho, de 21 de Novembro de 1989, relativa à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das legislações veterinária e zootécnica ([^17^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0017))."
+  },
+  "405a8a84aa782e98": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os países terceiros cuja legislação autorize a colocação no mercado e a administração de estilbenos, seus derivados, sais e ésteres, bem como de tireostáticos a animais de todas as espécies cuja carne e produtos derivados se destinem ao consumo humano, não podem constar de nenhuma das listas de países previstas na legislação comunitária a partir dos quais os Estados-Membros estão autorizados a importar animais de criação ou de aquicultura ou carne ou produtos obtidos a partir dos referidos animais.\n\n2. Além disso, os Estados-membros garantirão a proibição da importação proveniente de países terceiros, que constem de uma das listas referidas no n.º 1, de:\n\na) Animais de exploração ou de aquicultura\n\ni) a que tenham sido administrados, por qualquer meio, produtos ou substâncias referidos [**►M1**](http://publications.europa.eu/resource/celex/32003L0074) no anexo II, lista A**◄**,\n\nii) a que tenham sido administrados substâncias ou produtos referidos na lista B do anexo II e no anexo III, excepto se essa administração obedecer às disposições e exigências previstas nos artigos 4.º, 5.º [**►M2**](http://publications.europa.eu/resource/celex/32008L0097) —————**◄** e 7.º e se forem respeitados os intervalos de segurança previstos nas recomendações internacionais;\n\nb) Carne ou produtos obtidos a partir de animais cuja importação seja proibida nos termos da alínea a).\n\n3. Os animais destinados à reprodução, os animais reprodutores em fim de carreira ou a sua carne, provenientes de países terceiros, podem ser importados desde que ofereçam garantias pelo menos equivalentes às previstas na presente directiva e que tenham sido estabelecidas através do procedimento previsto no artigo 33.º, da Directiva 96/23/CE, para efeitos do capítulo V da referida directiva.\n\n4. Os controlos relativos às importações em proveniência de países terceiros serão efectuados nos termos do n.º 2, alínea c), do artigo 4.º da Directiva 91/496/CEE do Conselho, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade ([^18^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0018)), e do n.º 2 do artigo 8.º da Directiva 90/675/CEE, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade ([^19^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#E0019))."
+  },
+  "210a026e1353b432": {
+   "fragment_id": "Artigo 11.º-A",
+   "type": "artigo",
+   "heading": "Artigo 11.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A\n\nNo que respeita às substâncias incluídas no anexo III, a Comissão deve procurar dados complementares, tendo em conta os dados científicos recentes provenientes de quaisquer fontes, e proceder periodicamente à análise da aplicação das medidas aprovadas, tendo em vista a apresentação oportuna ao Parlamento Europeu e ao Conselho de propostas eventualmente necessárias."
+  },
+  "6477f9733707222b": {
+   "fragment_id": "Artigo 11.º-B",
+   "type": "artigo",
+   "heading": "Artigo 11.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-B\n\nA Comissão, em colaboração com os Estados-Membros, organiza uma campanha de informação e sensibilização sobre a proibição total da utilização de estradiol 17 β nos animais para produção de alimentos, destinada às organizações de agricultores e veterinários na União Europeia, bem como às organizações fora do território da União Europeia que estejam directa ou indirectamente envolvidas na exportação para esta de alimentos de origem animal abrangidos pelo âmbito de aplicação da presente directiva."
+  },
+  "cfff69eb95f90d1e": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode adoptar as medidas transitórias necessárias à aplicação do regime previsto na presente directiva."
+  },
+  "cecaff7b866feb8f": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. As Directivas 81/602/CEE, 88/146/CEE e 88/299/CEE são revogadas com efeitos a partir de 1 de Julho de 1997.\n\n2. As referências a essas directivas revogadas considerar-se-ão como sendo feitas à presente directiva e segundo o quadro de correspondência em anexo."
+  },
+  "dc5ed6cf3499a18a": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas, incluindo eventuais sanções, necessárias para dar cumprimento à presente directiva em 1 de Julho de 1997 e, no que se refere às substâncias *β*-agonistas, o mais tardar em 1 de Julho de 1997. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptarem nas matérias reguladas pela presente directiva.\n\n3. Enquanto se aguarda a aplicação das disposições previstas na presente directiva no que se refere às substâncias *β*-agonistas, continuam a ser aplicáveis as normas nacionais, na observância das disposições gerais do Tratado."
+  },
+  "53a3c1aa68988d72": {
+   "fragment_id": "Artigo 14.ºA",
+   "type": "artigo",
+   "heading": "Artigo 14.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.ºA\n\nEm derrogação ao disposto nos artigos 3.ºe [**►M2**](http://publications.europa.eu/resource/celex/32008L0097) —————**◄**, e sem prejuízo do artigo 2.º, os animais de exploração relativamente aos quais se possa certificar a administração de estradiol 17ß ou dos seus ésteres para fins terapêuticos ou zootécnicos antes de 14 de Outubro de 2004 ficarão sujeitos às mesmas disposições previstas para as substâncias autorizadas em conformidade com o n.º 1 do artigo 4.º, no que se refere à utilização terapêutica, e com o artigo 5.º, no que se refere à utilização zootécnica."
+  },
+  "c9a48e2e47ca2101": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "cab2ddd4b4a242d3": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "61770090983bbe0e": {
+   "fragment_id": "ANEXO[►M1](http://publications.europa.eu/resource/celex/32003L0074) I◄",
+   "type": "divisao",
+   "heading": "ANEXO[►M1](http://publications.europa.eu/resource/celex/32003L0074) I◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO[►M1](http://publications.europa.eu/resource/celex/32003L0074) I◄"
+  },
+  "a8c64da8fd61b684": {
+   "fragment_id": "Quadro de correspondência",
+   "type": "divisao",
+   "heading": "Quadro de correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro de correspondência\n\n| Presente directiva | Directivas 81/602/CEE, 88/146/CEE e 88/299/CEE |  |\n| --- | --- | --- |\n| Artigo 1.º, n.º 1 | Artigo 1.º, n.º 1 | 81/602/CEE |\n| Artigo 1.º, n.º 1 | 88/146/CEE |  |\n| Artigo 1.º, n.º 2, alíneas a) e b) | Artigo 1.º, n.º 2 | 81/602/CEE |\n| Artigo 1.º, n.º 2 | 88/146/CEE |  |\n| Artigo 2.º, n.º 1, alínea b) | 88/299/CEE |  |\n| Artigo 2.º, alínea a) | Artigo 3.º | 81/602/CEE |\n| Artigo 2.º, alínea b) | — |  |\n| Artigo 3.º | Artigo 2.º | 81/602/CEE |\n| Artigo 4.º, n.º 1 | Artigo 4.º | 81/602/CEE |\n| Artigo 2.º e artigo 3.º, alínea b) | 88/146/CEE |  |\n| Artigo 2.º, n.º 1, alínea a), e n.º 4 | 88/299/CEE |  |\n| Artigo 4.º, n.º 2 | — |  |\n| Artigo 5.º | Artigo 4.º | 81/602/CEE |\n| Artigo 2.º, n.º 1, alínea b) e ponto 4 | 88/299/CEE |  |\n| Artigo 6.º | Artigo 2.º, n.º 3 | 88/299/CEE |\n| Artigo 7.º, n.º 1 | Artigo 7.º | 88/146/CEE |\n| Artigos 2.º e 3.º | 88/299/CEE |  |\n| Artigo 7.º, n.º 2 | Artigo 4.º | 88/299/CEE |\n| Artigo 8.º | Artigo 7.º | 81/602/CEE |\n| Artigo 9.º | Artigo 4.º | 88/146/CEE |\n| Artigo 10.º | — |  |\n| Artigo 11.º, n.º 1 | — |  |\n| Artigo 11.º, n.º 2 | Artigo 6.º, n.^os^ 1 e 2 | 88/146/CEE |\n| Artigo 11.º, n.º 3 | Artigo 5.º | 88/299/CEE |\n| Artigo 11.º, n.º 4 | Artigo 6.º, n.º 7 | 88/146/CEE |\n| Artigo 12.º | — |  |\n| Artigo 13.º | — |  |\n| Artigo 14.º | — |  |\n| Artigo 15.º | — |  |\n| Artigo 16.º | — |  |\n| Anexo | — |  |"
+  },
+  "5b7bdbdcf40a45d6": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nLista de substâncias proibidas:\n\nLista A: substâncias proibidas:\n\n— Tireostáticos,\n\n— Estilbenos, seus derivados, sais e ésteres,\n\n— Estradiol 17β e seus ésteres.\n\nLista B: substâncias proibidas, com derrogações:\n\n— β-agonistas."
+  },
+  "4ae90bf8c7d98166": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nLista das substâncias proibidas provisoriamente:\n\nSubstâncias com efeitos estrogénicos (à excepção do estradiol 17ß e seus ésteres), androgénicos ou gestagénicos.\n\n---"
+  },
+  "74ec32fe1e5c4c82": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0001)) JO n.º C 302 de 9.11.1993, p. 8 e JO n.º C 222 de 10.8.1994, p. 16.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0002)) JO n.º C 128 de 9.5.1994, p. 107.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0003)) JO n.º C 52 de 19.2.1994, p. 30.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0004)) JO n.º L 222 de 7.8.1981, p. 32. Directiva alterada pela Directiva 85/358/CEE (JO n.º L 191 de 23.7.1985, p. 46).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0005)) JO n.º L 70 de 16.3.1988, p. 16. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0006)) JO n.º L 128 de 21.5.1988, p. 36.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0007)) JO n.º 121 de 29. 7. 1964, p. 2012. Directiva com a última redacção que lhe foi dada pela Directiva 95/23/CE (JO n.º L 243 de 11.10.1995, p. 7).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0008)) JO n.º L 55 de 8.3.1971, p. 23. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0009)) JO n.º L 26 de 31.1.1977, p. 85. Directiva com a última redacção que lhe foi dada pela Directiva 95/68/CE (JO n.º L 332 de 30.12.1995, p. 10).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0010)) JO n.º L 268 de 24.9.1991, p. 41. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0011)) JO n.º L 268 de 24.9.1991, p. 15. Directiva com a última redacção que lhe foi dada pela Directiva 95/71/CE (JO n.º L 332 de 30.12.1995, p. 40).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0012)) JO n.º L 317 de 6.11.1981, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 93/40/CEE (JO n.º L 214 de 24.8.1993, p. 31).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0013)) JO n.º L 317 de 6.11.1981, p. 16. Directiva com a última redacção que lhe foi dada pela Directiva 93/40/CEE (JO n.º L 214 de 24.8.1993, p. 31).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0014)) JO L 311 de 28.11.2001, p. 1.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0015)) JO n.º L 214 de 24.8.1993, p. 1.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0016)) Ver página 10 do presente Jornal Oficial.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0017)) JO n.º L 351 de 2.12.1989, p. 34.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0018)) JO n.º L 268 de 24.9.1991, p. 56. Directiva com a última redacção que lhe foi dada pela Decisão n.º 95/157/CE da Comissão (JO n.º L 103 de 6.5.1995, p. 40).\n\n> ([^19^](http://publications.europa.eu/resource/cellar/20971027-b51c-47f7-b9d7-73ae45fa0a0b.0018.03/DOC_1#src.E0019)) JO n.º L 373 de 31.12.1990, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 95/52/CE (JO n.º L 265 de 8.11.1995, p. 16)."
+  }
+ }
+}

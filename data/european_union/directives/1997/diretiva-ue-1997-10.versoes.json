@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997L0010:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997L0010-19970328",
+ "dre_path": null,
+ "source_lastmod": "1997-03-28",
+ "versions": [
+  {
+   "date": "1997-03-08",
+   "future": false,
+   "celex": "31997L0010",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "89c0321a59bd22b2",
+    "5a4f7b31b09c5628",
+    "2c160d0b90278d4a",
+    "050e0af6df9c4399",
+    "716d003df5fb7cdd"
+   ]
+  }
+ ],
+ "fragments": {
+  "89c0321a59bd22b2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 97/10/CE da Comissão de 26 de Fevereiro de 1997 que adapta pela terceira vez ao progresso técnico o anexo I da Directiva 76/769/CEE do Conselho, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 068 de 08/03/1997 p. 0024 - 0026*\n\nDIRECTIVA 97/10/CE DA COMISSÃO de 26 de Fevereiro de 1997 que adapta pela terceira vez ao progresso técnico o anexo I da Directiva 76/769/CEE do Conselho, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta a Directiva 76/769/CEE do Conselho relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas (1), com a última redacção que lhe foi dada pela Directiva 96/55/CE da Comissão (2) e, nomeadamente o seu artigo 2ºA, introduzido pela Directiva 89/678/CEE do Conselho (3),\n\nConsiderando que o Conselho e os representantes dos governos dos Estados-membros reunidos no Conselho adoptaram a Decisão 90/238/Euratom, CECA, CEE (4), que adopta um plano de acção para 1990-1994 no âmbito do programa «A Europa contra o cancro»;\n\nConsiderando que a Directiva 94/60/CE do Parlamento Europeu e do Conselho (5), que altera pela décima quarta vez a Directiva 76/769/CEE, proíbe, com algumas derrogações, a colocação no mercado para utilização pelo público em geral de substâncias classificadas como carcinogénicas, mutagénicas e tóxicas para a reprodução das categorias 1 ou 2 (CMR), através do seu aditamento ao anexo I da Directiva 76/769/CEE;\n\nConsiderando que o anexo I da Directiva 76/769/CEE já enumerava substâncias classificadas como CMR que a Directiva 94/60/CE não abrangia;\n\nConsiderando que a colocação no mercado para utilização pelo público em geral destas CMR e das preparações que as contenham deve ser proibida, com algumas excepções;\n\nConsiderando que as restrições previstas na presente directiva têm em conta o estado actual do conhecimento, bem como técnicas relativas a alternativas mais seguras;\n\nConsiderando que a presente directiva não prejudica a legislação comunitária que estabelece os requisitos mínimos de protecção dos trabalhadores, a qual inclui a Directiva 89/391/CEE do Conselho (6) e directivas específicas nela baseadas, nomeadamente a Directiva 90/394/CEE do Conselho (7);\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do Comité de adaptação ao progresso técnico das directivas que visam a eliminação dos entraves técnicos ao comércio de substâncias e preparações perigosas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5a4f7b31b09c5628": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO anexo I da Directiva 76/769/CEE é adaptado ao progresso técnico em conformidade com o texto do anexo da presente directiva."
+  },
+  "2c160d0b90278d4a": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros adoptarão e publicarão as disposições necessárias para dar cumprimento à presente directiva até 31 de Dezembro de 1997. Do facto informarão imediatamente a Comissão. Os Estados-membros aplicarão essas disposições a partir de 30 de Junho de 1998.\n\nQuando os Estados-membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "050e0af6df9c4399": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 26 de Fevereiro de 1997.\n\nPela Comissão\n\nMartin BANGEMANN\n\nMembro da Comissão\n\n(1) JO nº L 262 de 27. 9. 1976, p. 201.\n\n(2) JO nº L 231 de 12. 9. 1996, p. 20.\n\n(3) JO nº L 398 de 30. 12. 1989, p. 24.\n\n(4) JO nº L 137 de 30. 5. 1990, p. 31.\n\n(5) JO nº L 365 de 31. 12. 1994, p. 1.\n\n(6) JO nº L 183 de 29. 6. 1989, p. 1.\n\n(7) JO nº L 196 de 26. 7. 1990, p. 1."
+  },
+  "716d003df5fb7cdd": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nNo anexo I da Directiva 76/769/CEE, os pontos 29, 30 e 31 passam a ter a seguinte redacção:\n\n>POSIÇÃO NUMA TABELA>"
+  }
+ }
+}

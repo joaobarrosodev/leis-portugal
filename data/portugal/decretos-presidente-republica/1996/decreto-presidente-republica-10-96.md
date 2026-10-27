@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:457059:por
+title: Decreto do Presidente da República n.º 10/96
+short_title: null
+summary: Nomeia, sob proposta do Governo, o brigadeiro José Alberto Caldeira Rino para o cargo de comandante da Brigada Mecanizada
+  Independente
+jurisdiction: portugal
+territory: null
+document_type: decreto-presidente-republica
+document_type_label: Decreto do Presidente da República
+issuing_authority:
+- Presidência da República
+proposing_entity: null
+official_number: 10/96
+official_date: null
+publication_date: '1996-05-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/1996, Série I-A de 1996-05-18
+  number: '116'
+  series: I
+  supplement: null
+  pages: 1184 - 1184
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/05/116a00/11841184.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decpresrep/10/1996/05/18/p/dre/pt/html
+  oj: null
+  dre: '457059'
+  dre_path: /dr/detalhe/decreto-presidente-republica/10-1996-457059
+  internal: pt:dre:457059:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/10-1996-457059
+  metadata_url: https://data.dre.pt/eli/decpresrep/10/1996/05/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/10-1996-457059
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:21:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fa40fb7fbe9eda0607ea29dc6f3552be0ba9dca7d4024e74dc46c6afd38587e1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:21:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Brigada Mecanizada Independente
+- Comandante
+- Nomeação
+relationships:
+- type: amended_by
+  target: pt:dre:219164:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:219164:por
+  label: "Exonerado o brigadeiro José Alberto Caldeira Rino pelo DEC.59/98.1998.12.16.PR DR.IS-A [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/59-1998-219164
+  date: '1998-12-16'
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461220:por
+  label: null
+  source: http://data.dre.pt/eli/lei/18/1995/07/13/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:21:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Presidente da República n.º 10/96
+
+de 18 de Maio
+
+O Presidente da República decreta, nos termos da alínea c) do 2 do artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei n.º 18/95](https://diariodarepublica.pt/dr/detalhe/lei/18-1995-461220), de 13 de Julho, o seguinte:
+
+É nomeado, sob proposta do Governo, formulada após iniciativa do Chefe do Estado-Maior-General das Forças Armadas e aprovada pelo Conselho Superior de Defesa Nacional, o brigadeiro José Alberto Caldeira Rino para o cargo de comandante da Brigada Mecanizada Independente.
+
+Assinado em 9 de Maio de 1996.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.

@@ -1,0 +1,280 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:456568:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-160585717",
+ "dre_path": "/dr/detalhe/portaria/621-2008-456568",
+ "source_lastmod": "2025-09-23",
+ "versions": [
+  {
+   "date": "2008-07-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160585624",
+    "160585625",
+    "160585626",
+    "160585627",
+    "160585628",
+    "160585629",
+    "160585630",
+    "160585631",
+    "160585632",
+    "160585633",
+    "160585634",
+    "160585635",
+    "160585636",
+    "160585637",
+    "160585638",
+    "160585639",
+    "160585640"
+   ]
+  },
+  {
+   "date": "2013-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499548:por",
+     "title": "Portaria n.º 283/2013",
+     "published": "2013-08-30",
+     "dre_path": "/dr/detalhe/portaria/283-2013-499548"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "160585624",
+    "160585625",
+    "936214152",
+    "160585627",
+    "936214148",
+    "936214149",
+    "936214150",
+    "936214151",
+    "936214153",
+    "160585633",
+    "160585634",
+    "160585635",
+    "160585636",
+    "160585637",
+    "160585638",
+    "160585639",
+    "160585640",
+    "160585641"
+   ]
+  }
+ ],
+ "fragments": {
+  "160585624": {
+   "fragment_id": "160585718",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 621/2008\n\nde 18 de Julho\n\nO Decreto-Lei n.º 116/2008, de 4 de Julho, aprovou diversas medidas de simplificação, desmaterialização e desformalização de actos e processos na área do registo predial. Estão em causa actos muito frequentes na vida das pessoas e das empresas como, por exemplo, a compra e venda de imóveis, com ou sem financiamento bancário, hipotecas sobre imóveis ou doações de imóveis.\n\nAs medidas aprovadas, integradas no âmbito do programa SIMPLEX, visam reduzir obstáculos burocráticos e formalidades dispensáveis nas áreas do registo predial e dos actos notariais conexos, tendo em vista promover a melhoria da qualidade de vida dos cidadãos e o aumento da competitividade das empresas, através da redução dos custos de contexto.\n\nAs medidas aprovadas não constituem um exercício isolado de simplificação no sector da justiça. Fazem antes parte de um vasto conjunto de medidas já em vigor, que incluem a criação de serviços de «balcão único», a eliminação de formalidades e simplificação de procedimentos e a disponibilização de novos serviços através da Internet.\n\nDe entre as medidas ora aprovadas destaca-se a prestação de serviços em regime de «balcão único» relativamente a actos sobre imóveis, por advogados, câmaras de comércio e indústria, notários e solicitadores, a simplificação de actos e processos e eliminação de formalidades desnecessárias, a criação de novos serviços online e a fixação de preços mais claros e transparentes.\n\nUma das alterações significativas que viabiliza a realização destes serviços em regime de «balcão único» refere-se às normas que regulam o pedido de registo predial. Com efeito, estabelece-se que as entidades habilitadas a praticar actos relativos a imóveis por escritura pública ou documento particular autenticado passam a ter de promover o registo predial, no prazo legalmente fixado. Deste modo, visa-se simplificar actos e processos e eliminar formalidades desnecessárias, e evitar que cidadãos e empresas sejam onerados com deslocações a diversos serviços públicos e privados, com aumento da segurança jurídica.\n\nO Decreto-Lei n.º 116/2008, de 4 de Julho, alterou ainda o regime de suprimento, rectificação e de reconstituição do registo. Prevê-se, neste âmbito, que a publicação de notificações editais no âmbito dos processos de justificação e de rectificação e as publicações das decisões do processo de justificação sejam efectuadas em sítio da Internet de acesso público.\n\nA presente portaria destina-se, assim, a regulamentar os elementos que devem constar do pedido de registo predial, os termos da realização do pedido de registo predial por telecópia por advogados, câmaras de comércio e indústria, notários e solicitadores, a forma de realização das notificações editais em sítio da Internet no âmbito dos processos de justificação e de rectificação e a publicação da decisão do processo de justificação em sítio da Internet.\n\nAssim:\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do n.º 2 do artigo 41.º-C, do n.º 1 do artigo 42.º, do n.º 7 do artigo 117.º-G, do n.º 7 do artigo 117.º-H e do n.º 7 do artigo 129.º do Código do Registo Predial, do n.º 3 do artigo 90.º do Código do Registo Comercial e do n.º 2 do artigo 1.º do Decreto-Lei n.º 363/97, de 20 de Dezembro, o seguinte:"
+  },
+  "160585625": {
+   "fragment_id": "160585719",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "160585626": {
+   "fragment_id": "160585720",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regulamenta:\n\na) Os elementos que devem constar do pedido de registo predial;\n\nb) A realização do pedido de registo predial por telecópia por advogados, câmaras de comércio e indústria, notários e solicitadores;\n\nc) A publicação de notificações editais e decisões em sítio da Internet, no âmbito dos processos de justificação e de rectificação."
+  },
+  "160585627": {
+   "fragment_id": "160585721",
+   "type": 1,
+   "heading": "Capítulo II — Pedido de registo predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Pedido de registo predial"
+  },
+  "160585628": {
+   "fragment_id": "160585722",
+   "type": 11,
+   "heading": "Artigo 2.º — Pedido presencial, por via postal e por via imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pedido presencial, por via postal e por via imediata\n\n1 - O pedido de registo efectuado presencialmente em serviço de registo por pessoa com legitimidade para o efeito pode revestir a forma verbal.\n\n2 - O pedido de registo por via postal e por via imediata é efectuado pela forma escrita, de acordo com modelos aprovados por despacho do presidente do Instituto dos Registos e do Notariado, I. P.\n\n3 - Os pedidos de registo efectuados por escrito por entidades públicas que intervenham como sujeitos passivos ou activos nos actos, pelos tribunais, pelo Ministério Público, pelos administradores de insolvência ou pelos agentes de execução, quer sejam apresentados presencialmente, por correio ou por via imediata, não carecem de utilizar o modelo referido no número anterior.\n\n4 - O disposto no número anterior não dispensa a indicação dos elementos referidos no artigo 3.º\n\n5 - Sendo seguida a modalidade de pedido de registo por via imediata, prevista no artigo 41.º-E do Código do Registo Predial, o pedido e os respectivos documentos são apresentados mediante depósito imediato, em envelope, em caixa própria para o efeito existente no serviço de registo.\n\n6 - Por cada pedido de registo é sempre emitido, nos termos do artigo 64.º do Código do Registo Predial, um comprovativo do qual consta:\n\na) A identificação do apresentante;\n\nb) O número de ordem;\n\nc) A data e a hora das respectivas apresentações;\n\nd) Os factos pedidos; e\n\ne) Os documentos e as quantias entregues.\n\n7 - O comprovativo referido no número anterior deve ser assinado pelo funcionário e pelo apresentante sempre que o pedido não revista a forma escrita.\n\n8 - O comprovativo referido nos n.os 6 e 7 é arquivado de forma electrónica e devolvido ao interessado, nos termos do artigo 26.º do Código do Registo Predial.\n\n9 - O pedido de registo efectuado verbalmente não dispensa a apresentação das declarações para registo, nos termos do artigo 45.º do Código do Registo Predial, sempre que estas se revelem necessárias para a feitura do mesmo."
+  },
+  "160585629": {
+   "fragment_id": "160585723",
+   "type": 11,
+   "heading": "Artigo 3.º — Elementos do pedido de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Elementos do pedido de registo\n\nO pedido de registo deve conter a indicação do apresentante, dos factos e prédios a que respeita, o pedido e a indicação dos documentos entregues, devendo ser assinado quando revista a forma escrita."
+  },
+  "160585630": {
+   "fragment_id": "160585724",
+   "type": 11,
+   "heading": "Artigo 4.º — Identificação do apresentante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Identificação do apresentante\n\n1 - A identificação do apresentante é feita pelo nome, residência habitual ou domicílio profissional e do cargo, quando o pedido seja efectuado por entidades públicas.\n\n2 - A identificação do apresentante é confirmada através:\n\na) Do número de identificação civil ou carta de condução nacional;\n\nb) Do número e da entidade emitente de passaporte nacional;\n\nc) Do número e da entidade emitente de documentos de identificação civil, de passaporte ou de carta de condução emitidos por autoridade estrangeira competente; ou\n\nd) Por comparação com a assinatura que conste de documento autêntico ou autenticado que instrua o pedido.\n\n3 - Quando o apresentante for advogado ou solicitador, a identificação é confirmada pela indicação do número da respectiva cédula profissional.\n\n4 - Quando o registo for apresentado por câmara de comércio e indústria, é suficiente a indicação da qualidade dessa entidade, cabendo aos serviços de registo verificar o reconhecimento legal dessa qualidade.\n\n5 - Quando o pedido de registo for apresentado por escrito, a assinatura das entidades oficiais e dos notários deve ser autenticada com selo branco."
+  },
+  "160585631": {
+   "fragment_id": "160585725",
+   "type": 11,
+   "heading": "Artigo 5.º — Indicação dos factos, prédios e documentos entregues",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Indicação dos factos, prédios e documentos entregues\n\n1 - Os factos de registo não oficioso são indicados, com referência aos respectivos prédios, pela ordem resultante da sua dependência ou, sendo independentes, segundo a sua antiguidade.\n\n2 - A indicação dos prédios faz-se pelo número da descrição, freguesia e concelho ou, quando não descritos, pelo número da inscrição matricial, natureza, freguesia e concelho a que pertence.\n\n3 - A indicação das parcelas a desanexar faz-se pelo número da descrição predial e da freguesia e concelho a que pertence o prédio do qual se pretende desanexar uma ou várias parcelas.\n\n4 - A identificação pelo interessado dos documentos entregues no pedido de registo só é exigível nos casos em que o pedido se efectue por via postal, imediata ou por telecópia.\n\n5 - Os documentos entregues nos termos do número anterior são identificados por referência à sua natureza e data."
+  },
+  "160585632": {
+   "fragment_id": "160585726",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido de registo por telecópia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pedido de registo por telecópia\n\n1 - O pedido de registo predial efectuado por advogados, câmaras de comércio e indústria, notários e solicitadores pode ser enviado por telecópia.\n\n2 - Os advogados, câmaras de comércio e indústria, notários e solicitadores devem indicar no pedido de registo que os documentos transmitidos estão conformes com o respectivo original.\n\n3 - O pedido de registo deve ser assinado pelo advogado, notário, solicitador ou representante da câmara de comércio e indústria que o subscreve e conter o respectivo carimbo.\n\n4 - Com o pedido de registo e os documentos deve ser remetido o comprovativo do pagamento das quantias devidas pelo registo, efectuado por transferência bancária, para a conta indicada no sítio www.predialonline.mj.pt, do qual conste a identificação do requerente e, no descritivo do movimento, o número da descrição do prédio ou, se estiver omisso, o artigo matricial.\n\n5 - O funcionário do serviço de registo que receber o pedido e os documentos procede ao respectivo arquivamento em suporte electrónico.\n\n6 - Os advogados, as câmaras de comércio e indústria, os notários e os solicitadores requerentes do registo por telecópia devem manter arquivados os originais do requerimento e dos documentos transmitidos.\n\n7 - O pedido de registo predial efectuado por telecópia deve ainda respeitar o disposto no n.º 2 do artigo 2.º, no artigo 3.º, nos n.os 1 a 4 do artigo 4.º e no artigo 5.º"
+  },
+  "160585633": {
+   "fragment_id": "160585727",
+   "type": 1,
+   "heading": "Capítulo III — Publicações electrónicas em processos de justificação e rectificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Publicações electrónicas em processos de justificação e rectificação"
+  },
+  "160585634": {
+   "fragment_id": "160585728",
+   "type": 11,
+   "heading": "Artigo 7.º — Publicações electrónicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Publicações electrónicas\n\nSão publicadas electronicamente, em sítio da Internet de acesso público com o endereço electrónico www.predialonline.mj.pt, mantido pelo Instituto dos Registos e do Notariado, I. P:\n\na) As notificações editais nos processos de justificação e rectificação;\n\nb) A decisão do processo de justificação."
+  },
+  "160585635": {
+   "fragment_id": "160585729",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicação de notificações editais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Publicação de notificações editais\n\n1 - As notificações editais referidas no n.º 6 do artigo 117.º-G e no n.º 6 do artigo 129.º do Código do Registo Predial são igualmente publicadas, na data da sua afixação no serviço de registo, no sítio da Internet referido no artigo 7.º\n\n2 - Da publicação a que se refere o n.º 7 do artigo 117.º-G devem constar, nomeadamente, os seguintes elementos:\n\na) A identificação do justificante, nos termos da alínea e) do n.º 1 do artigo 93.º do Código do Registo Predial;\n\nb) A identificação dos notificandos, com os elementos disponíveis;\n\nc) A indicação do serviço de registo onde corre o processo;\n\nd) A identificação do processo;\n\ne) A identificação do prédio, por referência ao número da descrição, caso o prédio se encontre descrito;\n\nf) A indicação da freguesia e concelho, natureza, área e composição do prédio, bem como artigo matricial, incluindo natureza e freguesia constantes da matriz, se o prédio se encontrar omisso;\n\ng) A pretensão do justificante;\n\nh) A data da publicação;\n\ni) O prazo para a dedução de oposição, indicando-se a partir de que momento este prazo começa a contar;\n\nj) A referência à impugnação que venha eventualmente a ser deduzida no caso previsto no n.º 6 do artigo 117.º-F do Código do Registo Predial.\n\n3 - Da publicação a que se refere o n.º 7 do artigo 129.º do Código do Registo Predial devem constar, nomeadamente, os seguintes elementos:\n\na) A identificação dos requerentes ou a menção da circunstância de o processo ter sido oficiosamente instaurado;\n\nb) A identificação dos notificandos, com os elementos disponíveis;\n\nc) A indicação do serviço de registo onde corre o processo;\n\nd) A identificação do processo;\n\ne) A identificação do prédio, por referência ao número da descrição, caso o prédio se encontre descrito;\n\nf) A indicação da freguesia e concelho, natureza, área e composição do prédio, bem como artigo matricial, incluindo natureza e freguesia constantes da matriz, se o prédio se encontrar omisso;\n\ng) O fundamento da rectificação, com referência à inexactidão verificada ou cometida e indicação da forma como a mesma vai ser rectificada;\n\nh) A data da publicação;\n\ni) O prazo para a dedução de oposição, indicando-se a partir de que momento este prazo começa a contar.\n\n4 - A informação objecto de publicidade no sítio da Internet referido no artigo 7.º deve poder ser acedida, designadamente por ordem cronológica e por outros elementos identificativos, como o número da descrição predial, respectiva freguesia e concelho, o número da inscrição matricial, natureza, freguesia e concelho do prédio.\n\n5 - A publicação dos editais e o acesso à informação no sítio da Internet referido no artigo 7.º são gratuitos."
+  },
+  "160585636": {
+   "fragment_id": "160585730",
+   "type": 11,
+   "heading": "Artigo 9.º — Publicação das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Publicação das decisões\n\n1 - A decisão do processo de justificação é publicada, oficiosa e imediatamente, no sítio da Internet referido no artigo 7.º\n\n2 - À publicação prevista no presente artigo aplica-se o disposto nos n.os 4 e 5 do artigo 8.º"
+  },
+  "160585637": {
+   "fragment_id": "160585731",
+   "type": 1,
+   "heading": "Capítulo IV — Publicações electrónicas obrigatórias de registo comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Publicações electrónicas obrigatórias de registo comercial"
+  },
+  "160585638": {
+   "fragment_id": "160585732",
+   "type": 11,
+   "heading": "Artigo 10.º — Aditamento à portaria n.º 590-A/2005",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aditamento à portaria n.º 590-A/2005\n\nÉ aditado à portaria n.º 590-A/2005, de 14 de Julho, o seguinte artigo:\n\n«Artigo 3.º-A\n\nNotificações electrónicas no processo de rectificação\n\n1 - As notificações por via electrónica referidas no n.º 3 do artigo 90.º do Código do Registo Comercial são efectuadas mediante aviso publicado, nos termos do n.º 1 do artigo 167.º do Código das Sociedades Comerciais.\n\n2 - Do aviso referido no número anterior devem constar, nomeadamente, os seguintes elementos:\n\na) A identificação dos requerentes ou a menção da circunstancia de o processo ter sido oficiosamente instaurado;\n\nb) A identificação dos notificandos, com os elementos disponíveis;\n\nc) A indicação do serviço de registo onde corre o processo;\n\nd) A identificação do processo;\n\ne) A identificação da entidade comercial, com indicação do número de identificação de pessoa colectiva;\n\nf) O fundamento da rectificação, com referência à inexactidão verificada ou cometida e indicação da forma como a mesma vai ser rectificada;\n\ng) A data da publicação;\n\nh) O prazo para a dedução de oposição, indicando-se a partir de que momento este prazo começa a contar.\n\n3 - A publicação do aviso nos termos do n.º 1 é gratuita.»"
+  },
+  "160585639": {
+   "fragment_id": "160585733",
+   "type": 1,
+   "heading": "Capítulo V — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposição final"
+  },
+  "160585640": {
+   "fragment_id": "160585734",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 21 de Julho de 2008."
+  },
+  "936214152": {
+   "fragment_id": "160585720",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regulamenta:\n\na) Os elementos que devem constar do pedido de registo predial;\n\nb) (Revogado);\n\nc) A publicação de notificações editais e decisões em sítio da Internet, no âmbito dos processos de justificação e de rectificação.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+  },
+  "936214148": {
+   "fragment_id": "160585722",
+   "type": 11,
+   "heading": "Artigo 2.º — Pedido presencial e por via postal",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Pedido presencial e por via postal\n\n1 - O pedido de registo efectuado presencialmente em serviço de registo por pessoa com legitimidade para o efeito pode revestir a forma verbal.\n\n2 - O pedido de registo por via postal é efetuado pela forma escrita, de acordo com modelos aprovados por deliberação do conselho diretivo do Instituto dos Registos e do Notariado, I.P..\n\n3 - Os pedidos de registo efetuados por escrito por entidades públicas que intervenham como sujeitos ativos ou passivos nos atos, pelos tribunais, pelo Ministério Público, pelos administradores judiciais, pelos agentes de execução ou pelos oficiais de justiça a realizar diligências próprias do agente de execução, quer sejam apresentados presencialmente ou por correio, não carecem de utilizar o modelo referido no número anterior.\n\n4 - O disposto no número anterior não dispensa a indicação dos elementos referidos no artigo 3.º\n\n5 - [Revogado].\n\n6 - Por cada pedido de registo é sempre emitido, nos termos do artigo 64.º do Código do Registo Predial, um comprovativo do qual consta:\n\na) A identificação do apresentante;\n\nb) O número de ordem;\n\nc) A data e a hora das respectivas apresentações;\n\nd) Os factos pedidos; e\n\ne) Os documentos e as quantias entregues.\n\n7 - O comprovativo referido no número anterior deve ser assinado pelo funcionário e pelo apresentante sempre que o pedido não revista a forma escrita.\n\n8 - O comprovativo referido nos n.os 6 e 7 é arquivado de forma electrónica e devolvido ao interessado, nos termos do artigo 26.º do Código do Registo Predial.\n\n9 - O pedido de registo efectuado verbalmente não dispensa a apresentação das declarações para registo, nos termos do artigo 45.º do Código do Registo Predial, sempre que estas se revelem necessárias para a feitura do mesmo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+  },
+  "936214149": {
+   "fragment_id": "160585723",
+   "type": 11,
+   "heading": "Artigo 3.º — Elementos do pedido de registo",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Elementos do pedido de registo\n\n1 - O pedido de registo deve conter a indicação do apresentante, dos factos e prédios a que respeita, o pedido e a indicação dos documentos entregues, devendo ser assinado quando revista a forma escrita.\n\n2 - Quando o pedido de registo seja efetuado por advogado, notário ou solicitador nos termos da alínea b) do n.º 2 do artigo 39.º do Código do Registo Predial, deve ser indicado o nome da pessoa representada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+  },
+  "936214150": {
+   "fragment_id": "160585724",
+   "type": 11,
+   "heading": "Artigo 4.º — Identificação do apresentante",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Identificação do apresentante\n\n1 - A identificação do apresentante é feita pelo nome, número de identificação fiscal, residência habitual ou domicílio profissional e do cargo, quando o pedido seja efetuado por entidades públicas.\n\n2 - A identificação do apresentante é confirmada através:\n\na) Do número de identificação civil ou carta de condução nacional;\n\nb) Do número e da entidade emitente de passaporte nacional;\n\nc) Do número e da entidade emitente de documentos de identificação civil, de passaporte ou de carta de condução emitidos por autoridade estrangeira competente; ou\n\nd) Por comparação com a assinatura que conste de documento autêntico ou autenticado que instrua o pedido.\n\n3 - Quando o apresentante for advogado ou solicitador, a identificação é confirmada pela indicação do número da respectiva cédula profissional.\n\n4 - Quando o registo for apresentado por câmara de comércio e indústria, é suficiente a indicação da qualidade dessa entidade, cabendo aos serviços de registo verificar o reconhecimento legal dessa qualidade.\n\n5 - Quando o pedido de registo for apresentado por escrito, a assinatura das entidades oficiais e dos notários deve ser autenticada com selo branco.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+  },
+  "936214151": {
+   "fragment_id": "160585725",
+   "type": 11,
+   "heading": "Artigo 5.º — Indicação dos factos, prédios e documentos entregues",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### Artigo 5.º — Indicação dos factos, prédios e documentos entregues\n\n1 - Os factos de registo não oficioso são indicados, com referência aos respectivos prédios, pela ordem resultante da sua dependência ou, sendo independentes, segundo a sua antiguidade.\n\n2 - A indicação dos prédios faz-se pelo número da descrição, freguesia e concelho ou, quando não descritos, pelo número da inscrição matricial, natureza, freguesia e concelho a que pertence.\n\n3 - A indicação das parcelas a desanexar faz-se pelo número da descrição predial e da freguesia e concelho a que pertence o prédio do qual se pretende desanexar uma ou várias parcelas.\n\n4 - A identificação pelo interessado dos documentos entregues no pedido de registo só é exigível nos casos em que o pedido se efetue por via postal, salvo quando se trate de documento arquivado eletronicamente.\n\n5 - Os documentos entregues nos termos do número anterior são identificados por referência à sua natureza e data ou ao respetivo código de identificação, se arquivados eletronicamente.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+  },
+  "936214153": {
+   "fragment_id": "160585726",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido de registo por telecópia",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Pedido de registo por telecópia\n\n1 - O pedido de registo predial efectuado por advogados, câmaras de comércio e indústria, notários e solicitadores pode ser enviado por telecópia.\n\n2 - Os advogados, câmaras de comércio e indústria, notários e solicitadores devem indicar no pedido de registo que os documentos transmitidos estão conformes com o respectivo original.\n\n3 - O pedido de registo deve ser assinado pelo advogado, notário, solicitador ou representante da câmara de comércio e indústria que o subscreve e conter o respectivo carimbo.\n\n4 - Com o pedido de registo e os documentos deve ser remetido o comprovativo do pagamento das quantias devidas pelo registo, efectuado por transferência bancária, para a conta indicada no sítio www.predialonline.mj.pt, do qual conste a identificação do requerente e, no descritivo do movimento, o número da descrição do prédio ou, se estiver omisso, o artigo matricial.\n\n5 - O funcionário do serviço de registo que receber o pedido e os documentos procede ao respectivo arquivamento em suporte electrónico.\n\n6 - Os advogados, as câmaras de comércio e indústria, os notários e os solicitadores requerentes do registo por telecópia devem manter arquivados os originais do requerimento e dos documentos transmitidos.\n\n7 - O pedido de registo predial efectuado por telecópia deve ainda respeitar o disposto no n.º 2 do artigo 2.º, no artigo 3.º, nos n.os 1 a 4 do artigo 4.º e no artigo 5.º\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2013-09-01"
+  },
+  "160585641": {
+   "fragment_id": "160585735",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 14 de Julho de 2008."
+  }
+ }
+}

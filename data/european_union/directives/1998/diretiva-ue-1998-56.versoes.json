@@ -1,0 +1,1084 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0056:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0056-20140630",
+ "dre_path": null,
+ "source_lastmod": "2014-06-30",
+ "versions": [
+  {
+   "date": "1998-08-13",
+   "future": false,
+   "celex": "31998L0056",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e6662d8b918338a9",
+    "2262a7e806329462",
+    "8c3314916bf515e1",
+    "5bfb934b484113e6",
+    "7af01064dcf99464",
+    "8f35ffd8f58806ac",
+    "d47aa23dfcfe6e5f",
+    "add8cd678f99bb33",
+    "173ff2207353b829",
+    "df8de3ae7ecfa237",
+    "44fc6fcf9cec90ff",
+    "41e2b331aa41778c",
+    "10607b8b80f5ce57",
+    "1bd920efa1b0a0f5",
+    "d6db1e382aaf3a3f",
+    "bcfeada49a255a2e",
+    "4f437fd92b76efda",
+    "35f981ed5d7fde9f",
+    "823b1a5e2ffd5d7a",
+    "c39cb73a5c2a6914",
+    "79f16048c8c40779",
+    "7c223f71b0c5cc4a",
+    "bdc79b5912118f7d",
+    "5dee499d19e753e7",
+    "be503658a812496b",
+    "6264f10b4de99e00",
+    "122502477698d2fe",
+    "22ba87efbd547d9b",
+    "0f50c6788a96179c",
+    "65017dfb5b586060",
+    "7362349f7e88b8e3",
+    "ab0e2bbc59b84229",
+    "50f99bed4c4752b2",
+    "43047ca1bb419b4b"
+   ]
+  },
+  {
+   "date": "2003-07-10",
+   "future": false,
+   "celex": "01998L0056-20030710",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera TÍTULO IX — COMITOLOGIA",
+    "Altera ANEXO — PARTE A",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita PARTE B — Quadro de correspondências",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Artigo 21º",
+    "Suprime PARTE B — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "dae0a01b5c735f80",
+    "2262a7e806329462",
+    "8f06cf940bee34a7",
+    "5bfb934b484113e6",
+    "74fc27cb000ff480",
+    "8f35ffd8f58806ac",
+    "944e8f456e0541ac",
+    "3adfee44a51d7931",
+    "73b2b34d70f5f28c",
+    "df8de3ae7ecfa237",
+    "f97c55fba988b748",
+    "0e9cfa186260c32e",
+    "10607b8b80f5ce57",
+    "d6da0e6324a1456b",
+    "26506b348cd0c758",
+    "bcfeada49a255a2e",
+    "ed3700ce92ec49d0",
+    "35f981ed5d7fde9f",
+    "6a8092ed236201eb",
+    "c39cb73a5c2a6914",
+    "098387160106ebe2",
+    "f6b8fecde4b9ddf6",
+    "1eea489cfa757537",
+    "46af9c74fae91f6f",
+    "1f33e801750f2df3",
+    "5864a840726eca35",
+    "a24ac6fec95debef",
+    "5f396361b66d7d22",
+    "0f50c6788a96179c",
+    "95deaf0dcb215b1c",
+    "138b91e40d188912",
+    "2f63a689be3366d5",
+    "ddcaa077f88d65b5",
+    "1909d54493c44e95"
+   ]
+  },
+  {
+   "date": "2014-06-30",
+   "future": false,
+   "celex": "01998L0056-20140630",
+   "acts": [
+    {
+     "id": "eu:celex:32003R0806:por",
+     "title": "REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0806"
+    },
+    {
+     "id": "eu:celex:32003L0061:por",
+     "title": "DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003",
+     "published": null,
+     "celex": "32003L0061"
+    },
+    {
+     "id": "eu:celex:32014R0652:por",
+     "title": "REGULAMENTO (UE) N. o 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014",
+     "published": null,
+     "celex": "32014R0652"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Adita TÍTULO I",
+    "Adita ÂMBITO DE APLICAÇÃO",
+    "Adita TÍTULO II",
+    "Adita DEFINIÇÕES",
+    "Adita TÍTULO III",
+    "Adita REQUISITOS PARA O MATERIAL DE PROPAGAÇÃO",
+    "Adita TÍTULO IV",
+    "Adita REQUISITOS PARA OS FORNECEDORES DE MATERIAL DE PROPAGAÇÃO",
+    "Adita TÍTULO V",
+    "Adita COMERCIALIZAÇÃO E ETIQUETAGEM DO MATERIAL DE PROPAGAÇÃO",
+    "Adita TÍTULO VI",
+    "Adita MATERIAL DE PROPAGAÇÃO QUE PREENCHE REQUISITOS MENOS RIGOROSOS",
+    "Adita TÍTULO VII",
+    "Adita MATERIAL DE PROPAGAÇÃO PRODUZIDO EM PAÍSES TERCEIROS",
+    "Adita TÍTULO VIII",
+    "Adita MEDIDAS DE CONTROLO E DISPOSIÇÕES GERAIS",
+    "Adita TÍTULO IX",
+    "Adita COMITOLOGIA",
+    "Adita TÍTULO X",
+    "Adita DISPOSIÇÕES FINAIS",
+    "Adita ANEXO",
+    "Adita PARTE A",
+    "Adita Prazos de transposição para o direito interno e execução",
+    "Adita PARTE B",
+    "Adita Quadro de correspondências",
+    "Adita Notas",
+    "Suprime TÍTULO I — ÂMBITO DE APLICAÇÃO",
+    "Suprime TÍTULO II — DEFINIÇÕES",
+    "Suprime TÍTULO III — REQUISITOS PARA O MATERIAL DE PROPAGAÇÃO",
+    "Suprime TÍTULO IV — REQUISITOS PARA OS FORNECEDORES DE MATERIAL DE PROPAGAÇÃO",
+    "Suprime TÍTULO V — COMERCIALIZAÇÃO E ETIQUETAGEM DO MATERIAL DE PROPAGAÇÃO",
+    "Suprime TÍTULO VI — MATERIAL DE PROPAGAÇÃO QUE PREENCHE REQUISITOS MENOS RIGOROSOS",
+    "Suprime TÍTULO VII — MATERIAL DE PROPAGAÇÃO PRODUZIDO EM PAÍSES TERCEIROS",
+    "Suprime TÍTULO VIII — MEDIDAS DE CONTROLO E DISPOSIÇÕES GERAIS",
+    "Suprime TÍTULO IX — COMITOLOGIA",
+    "Suprime TÍTULO X — DISPOSIÇÕES FINAIS",
+    "Suprime ANEXO — PARTE A",
+    "Suprime PARTE B — Quadro de correspondências"
+   ],
+   "fragments": [
+    "589b81e60145bfb7",
+    "ffc348f463b781ad",
+    "707b247288f2485e",
+    "6b2df63d1c948b80",
+    "4c8bdeab3d91ec7d",
+    "8cf04030ac5dedfa",
+    "c32a60534a8e5d26",
+    "9db704600627e53c",
+    "dec5b7a2093faaae",
+    "15ff3f7150a9a596",
+    "3adfee44a51d7931",
+    "413b3e9824a5424f",
+    "662cf62f00c33127",
+    "e072b4e3efd37bb6",
+    "805df692f4f61552",
+    "b907d5fc5376b104",
+    "4f8efffddfe96470",
+    "fa8313b742013a93",
+    "fbe45c7be9253193",
+    "7f25585490c05962",
+    "fd1f6efdb97a73cb",
+    "b0b927ce8d44e7c2",
+    "e312b23cd5139ddc",
+    "b10288b67f8e014f",
+    "4e7a51a526f8b8db",
+    "6c9a6b3edec25d25",
+    "e1c7c926ca3c4072",
+    "c0c09316e284b9d1",
+    "50a8fa816545576e",
+    "aad6bb51bab2f4f4",
+    "c30f9a125f917e0e",
+    "46af9c74fae91f6f",
+    "804e05a0e96b12a5",
+    "54f57143a0397c91",
+    "4704d57040f6a3e5",
+    "002932ab567c53a5",
+    "424c03d3cbb3f736",
+    "d56623e392b11200",
+    "dde9cf53e9ae6c9a",
+    "95deaf0dcb215b1c",
+    "138b91e40d188912",
+    "2f63a689be3366d5",
+    "10220b9774fa9034",
+    "87cee521b2f0bb1e",
+    "118dfbd2a4c9baec",
+    "6041be3baf7dcb43",
+    "b90f7cb51a7ee11c",
+    "fb2e512d7167eeaa"
+   ]
+  }
+ ],
+ "fragments": {
+  "e6662d8b918338a9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 98/56/CE do Conselho de 20 de Julho de 1998 relativa à comercialização de materiais de propagação de plantas ornamentais** *Jornal Oficial nº L 226 de 13/08/1998 p. 0016 - 0023*\n\nDIRECTIVA 98/56/CE DO CONSELHO de 20 de Julho de 1998 relativa à comercialização de materiais de propagação de plantas ornamentais\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\n(1) Considerando que a produção de plantas ornamentais ocupa um lugar importante na agricultura da Comunidade;\n\n(2) Considerando que a obtenção de resultados satisfatórios na cultura de plantas ornamentais depende em larga medida da qualidade e estado sanitário dos materiais de propagação utilizados;\n\n(3) Considerando que o estabelecimento de condições harmonizadas a nível comunitário irá garantir que, em toda a Comunidade, os compradores recebam materiais de propagação em bom estado fitossanitário e de boa qualidade;\n\n(4) Considerando que, na medida em que digam respeito aos aspectos fitossanitários, as referidas condições harmonizadas devem ser conformes à Directiva 77/93/CEE do Conselho, de 21 de Dezembro de 1976, relativa a medidas de protecção contra a introdução na Comunidade de organismos prejudiciais às plantas e produtos vegetais e contra a sua propagação no interior da Comunidade (4);\n\n(5) Considerando que é conveniente estabelecer normas comunitárias para todos os géneros e espécies de plantas ornamentais na Comunidade, com excepção dos abrangidos pelo Regulamento (CE) nº 338/97 do Conselho, de 9 de Dezembro de 1996, relativo à protecção de espécies da fauna e flora selvagens através do controlo do seu comércio (5);\n\n(6) Considerando que, sem prejuízo das disposições fitossanitárias contidas na Directiva 77/93/CEE, é conveniente não aplicar as citadas normas comunitárias relativas à comercialização de materiais de propagação quando se provar que esses materiais e plantas se destinam à exportação para países terceiros, uma vez que as disposições em vigor nesses países podem ser diferentes das previstas na presente directiva;\n\n(7) Considerando que o estabelecimento de normas fitossanitárias e de qualidade para determinados géneros e espécies de plantas ornamentais exige uma longa e pormenorizada análise técnica e científica; que consequentemente deve ser definido um procedimento para o estabelecimento das referidas normas;\n\n(8) Considerando que compete em primeiro lugar aos fornecedores de materiais de propagação garantir que os seus produtos preenchem as condições previstas na presente directiva;\n\n(9) Considerando que, ao efectuarem os controlos e inspecções, as autoridades competentes dos Estados-membros devem garantir que os fornecedores satisfazem as referidas condições;\n\n(10) Considerando que devem ser introduzidas medidas comunitárias de controlo que garantam uma aplicação uniforme em todos os Estados-membros das normas estabelecidas na presente directiva;\n\n(11) Considerando que o comprador de materiais de propagação tem interesse em que seja conhecida a denominação da variedade ou do grupo de plantas e em que seja salvaguardada a sua identidade;\n\n(12) Considerando que as características específicas da indústria que opera no sector das plantas ornamentais constituem um factor de complicação; que, por esse motivo, o objectivo acima enunciado pode ser melhor concretizado, quer por um conhecimento comum da variedade, quer, no caso de variedades ou grupos de plantas, pela disponibilidade de uma descrição feita e conservada pelos fornecedores;\n\n(13) Considerando que, para garantir a identidade e a comercialização disciplinada dos materiais de propagação, devem ser estabelecidas normas comunitárias relativamente à separação dos lotes e à comercialização; que as etiquetas devem fornecer as indicações necessárias para o controlo oficial e para a informação do cultivador;\n\n(14) Considerando que devem ser estabelecidas regras que, em caso de dificuldades temporárias de abastecimento, permitam a comercialização de materiais de propagação sujeitos a requisitos menos rigorosos do que os previstos na presente directiva;\n\n(15) Considerando que deve ser prevista a autorização de comercialização na Comunidade de materiais de propagação produzidos em países terceiros, desde que estes ofereçam as mesmas garantias que os materiais de propagação produzidos na Comunidade, segundo as normas comunitárias;\n\n(16) Considerando que, a fim de harmonizar as técnicas de exame utilizadas nos Estados-membros e de comparar os materiais de propagação produzidos na Comunidade com os produzidos em países terceiros, devem ser efectuados ensaios comparativos que permitam verificar a conformidade dos materiais de propagação com os requisitos da presente directiva;\n\n(17) Considerando que, para facilitar a aplicação eficaz da presente directiva, a Comissão deve ser incumbida da adopção de medidas com esse objectivo; que essas medidas devem ser adoptadas por um processo que implique uma colaboração estreita entre a Comissão e os Estados-membros no âmbito do Comité Permanente dos Materiais de Propagação e das Plantas Ornamentais;\n\n(18) Considerando que a Directiva 91/682/CEE do Conselho, de 19 de Dezembro de 1991, relativa à comercialização de plantas ornamentais e materiais de propagação de plantas ornamentais (6) estabeleceu condições harmonizadas a nível comunitário destinadas a assegurar que os compradores recebem, em toda a Comunidade, materiais de propagação e plantas ornamentais sãos e de boa qualidade;\n\n(19) Considerando que os Estados-membros tiveram dificuldades na interpretação e transposição dessa directiva;\n\n(20) Considerando que essa directiva foi considerada adequada para inclusão na iniciativa SLIM (simplificação da legislação do mercado interno) lançada pela Comissão em Maio de 1996;\n\n(21) Considerando que a equipa SLIM - Plantas ornamentais fez várias recomendações destinadas a simplificar a directiva em questão; que essas recomendações constam da comunicação da Comissão ao Conselho e ao Parlamento Europeu sobre a iniciativa SLIM;\n\n(22) Considerando que essas recomendações diziam respeito às pessoas a ser controladas pela directiva, às espécies a incluir no âmbito da directiva, à autenticidade varietal, às inter-relações com a Directiva 77/93/CEE, e à equivalência de países terceiros;\n\n(23) Considerando que, ponderadas essas recomendações, é conveniente alterar certas disposições da Directiva 91/682/CEE; que, dado o número dessas alterações, a directiva deve, por razões de clareza, ser reformulada,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2262a7e806329462": {
+   "fragment_id": "TÍTULO I — ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "TÍTULO I — ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — ÂMBITO DE APLICAÇÃO"
+  },
+  "8c3314916bf515e1": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva é aplicável à comercialização de materiais de propagação de plantas ornamentais na Comunidade, sem prejuízo das normas de protecção da flora selvagem definidas no Regulamento (CE) nº 338/97, das normas sobre embalagens e resíduos de embalagens previstas na Directiva 94/62/CE do Parlamento Europeu e do Conselho (7), nem, salvo disposição em contrário da presente directiva ou com base na mesma, as normas fitossanitárias definidas na Directiva 77/93/CEE.\n\n2. A presente directiva não é aplicável a:\n\n- materiais comprovadamente destinados a exportação para países terceiros, devidamente identificados e suficientemente isolados,\n\n- materiais cujos produtos não se destinem a fins ornamentais, se forem abrangidos por outra legislação comunitária sobre a comercialização desses materiais.\n\n3. Pode ser decidido nos termos do artigo 17º, que todos ou parte dos requisitos da presente directiva não são aplicáveis a sementes de determinadas espécies ou grupos de plantas, quando se destinem à produção de outros materiais de propagação e quando não haja uma relação significativa entre a qualidade dessas sementes e a qualidade dos materiais obtidos a partir delas."
+  },
+  "5bfb934b484113e6": {
+   "fragment_id": "TÍTULO II — DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "TÍTULO II — DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — DEFINIÇÕES"
+  },
+  "7af01064dcf99464": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Materiais de propagação»: materiais provenientes de plantas destinados a:\n\n- propagação de plantas ornamentais, ou\n\n- produção de plantas ornamentais; todavia, em caso de produção a partir de plantas completas, esta definição é aplicável apenas na medida em que a planta ornamental resultante se destine a ser comercializada posteriormente.\n\n«Propagação»: reprodução vegetativa ou por outros meios;\n\n2. «Fornecedor»: qualquer pessoa singular ou colectiva que se dedique profissionalmente à comercialização ou importação de materiais de propagação;\n\n3. «Comercialização»: venda ou entrega por um fornecedor a outra pessoa. «Venda»: inclui a manutenção à disposição ou em stock, a exposição para venda, a oferta para venda;\n\n4. «Organismo oficial responsável»:\n\na) A autoridade, criada ou designada pelo Estado-membro, sob controlo do governo central e responsável pela qualidade;\n\nb) Qualquer autoridade pública criada:\n\n- quer a nível nacional,\n\n- quer a nível regional, sob o controlo das autoridades nacionais, dentro dos limites fixados pela Constituição do respectivo Estado-membro.\n\nOs organismos atrás referidos podem, nos termos da legislação nacional, delegar as funções que lhes são conferidas pela presente directiva, para serem desempenhadas sob a sua autoridade e controlo, em pessoas colectivas, de direito público ou privado que, nos termos dos seus estatutos oficialmente aprovados, desempenhem exclusivamente funções específicas de interesse público, desde que nem essas pessoas colectivas nem os seus membros tirem qualquer proveito pessoal do resultado das medidas que tomem.\n\nAlém disso, nos termos do artigo 17º, podem ser aprovadas outras pessoas colectivas criadas por conta do organismo referido na alínea a) que actuem sob a sua autoridade e controlo, desde que essas pessoas colectivas não tirem qualquer proveito pessoal do resultado das medidas que tomem.\n\nOs Estados-membros comunicarão à Comissão os seus organismos oficiais responsáveis.\n\nA Comissão transmitirá essa informação aos outros Estados-membros;\n\n5. «Lote»: o conjunto de unidades de uma única mercadoria, identificável pela sua homogeneidade de composição e origem."
+  },
+  "8f35ffd8f58806ac": {
+   "fragment_id": "TÍTULO III — REQUISITOS PARA O MATERIAL DE PROPAGAÇÃO",
+   "type": "divisao",
+   "heading": "TÍTULO III — REQUISITOS PARA O MATERIAL DE PROPAGAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — REQUISITOS PARA O MATERIAL DE PROPAGAÇÃO"
+  },
+  "d47aa23dfcfe6e5f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os fornecedores só podem comercializar material de propagação que preencha os requisitos da presente directiva.\n\n2. O disposto no nº 1 não é aplicável ao material de propagação destinado a:\n\na) ensaios ou fins científicos;\n\nb) trabalhos de selecção ou\n\nc) conservação da diversidade genética.\n\n3. As regras de execução do nº 2 podem ser adoptadas nos termos do artigo 17º"
+  },
+  "add8cd678f99bb33": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nO material de propagação deve, quando for caso disso, obedecer às condições fitossanitárias aplicáveis previstas na Directiva 77/93/CEE."
+  },
+  "173ff2207353b829": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Sem prejuízo do disposto nos artigos 1º e 4º, o material de propagação, quando comercializado, deve:\n\n- pelo menos com base em inspecções visuais, encontrar-se substancialmente isento de quaisquer organismos prejudiciais que afectem a qualidade ou de quaisquer sinais ou sintomas dos mesmos que reduzam a sua utilidade,\n\n- estar substancialmente isento de quaisquer defeitos que afectem a sua qualidade como material de propagação,\n\n- apresentar vigor e dimensões satisfatórios relativamente à sua utilidade como material de propagação,\n\n- no caso das sementes, ter capacidade germinativa satisfatória,\n\n- se forem comercializados com referência a uma variedade nos termos do artigo 9º, ter uma identidade e pureza varietais satisfatórias.\n\n2. Todo o material de propagação que, com base em sintomas ou sinais visíveis, não esteja substancialmente isento de organismos prejudiciais, será adequadamente tratado, ou, se necessário, removido.\n\n3. Os materiais de citrinos devem preencher igualmente os seguintes requisitos:\n\na) Ser derivados de materiais iniciais submetidos a controlo, sem sintomas de quaisquer vírus e organismos similares ou doenças;\n\nb) Ter sido submetidos a controlo, encontrando-se substancialmente isentos desses vírus, organismos similares ou doenças desde o início do último ciclo vegetativo, e\n\nc) Em caso de enxertia, ter sido enxertados em porta-enxertos que não os predispostos a viróides.\n\n4. Os bolbos de flores devem preencher também o seguinte requisito:\n\n- o material de propagação deve ser directamente derivado de materiais que, na fase de crescimento da planta, tenham sido submetidos a controlo, encontrando-se substancialmente isentos de quaisquer organismos prejudiciais e doenças e dos sinais ou sintomas destes.\n\n5. Nos termos do artigo 18º, pode ser elaborada, para um determinado género ou espécie, uma ficha que estabeleça condições adicionais relativas à qualidade a satisfazer pelo material de propagação, quando comercializado. Um género ou uma espécie só será incluído nessa ficha se houver necessidade comprovada dessas regras adicionais. Para determinar essa necessidade, aplicar-se-ão os seguintes critérios:\n\n- existência de problemas relativamente à qualidade do material de propagação da espécie ou género em causa, que só possam ser resolvidos satisfatoriamente através de meios legislativos,\n\n- importância económica do material de propagação da espécie ou género em causa;\n\n- conformidade com quaisquer normas internacionais sobre doenças que não exijam quarentena legal."
+  },
+  "df8de3ae7ecfa237": {
+   "fragment_id": "TÍTULO IV — REQUISITOS PARA OS FORNECEDORES DE MATERIAL DE PROPAGAÇÃO",
+   "type": "divisao",
+   "heading": "TÍTULO IV — REQUISITOS PARA OS FORNECEDORES DE MATERIAL DE PROPAGAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — REQUISITOS PARA OS FORNECEDORES DE MATERIAL DE PROPAGAÇÃO"
+  },
+  "44fc6fcf9cec90ff": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Sem prejuízo do disposto no nº 2, os fornecedores devem ser oficialmente registados para as actividades que pratiquem nos termos da presente directiva. O organismo oficial responsável pode considerar os fornecedores que já estejam registados ao abrigo da Directiva 77/93/CEE como registados para efeitos da presente directiva. Esses fornecedores devem no entanto cumprir os requisitos da presente directiva.\n\n2. O nº 1 não é aplicável a fornecedores que vendam apenas a pessoas que não produzam ou vendam plantas ornamentais ou material de propagação a título profissional. Esses fornecedores devem, todavia, cumprir os requisitos da presente directiva."
+  },
+  "41e2b331aa41778c": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os fornecedores que se dediquem à produção de material de propagação devem:\n\n- identificar e controlar os pontos críticos do seu processo de produção que influenciem a qualidade do material,\n\n- conservar informações para exame, a pedido do organismo oficial responsável, sobre os controlos a que se refere o primeiro travessão,\n\n- recolher amostras, sempre que necessário, para análise num laboratório com equipamento e competência adequados,\n\n- garantir que, ao longo da produção, os lotes de material de propagação se mantenham identificáveis separadamente.\n\n2. Se nas instalações de um fornecedor que se dedique à produção de material de propagação, surgir um organismo prejudicial enunciado na Directiva 77/93/CEE ou em quaisquer medidas tomadas ao abrigo do nº 5 do artigo 5º, o fornecedor deverá comunicar esse facto ao organismo oficial responsável e aplicar todas as medidas prescritas por aquele organismo.\n\n3. Quando os materiais de propagação forem comercializados, os fornecedores registados deverão conservar os registos das suas vendas ou compras durante pelo menos doze meses.\n\n4. As regras de execução do nº 1 podem ser adoptadas nos termos do artigo 17º"
+  },
+  "10607b8b80f5ce57": {
+   "fragment_id": "TÍTULO V — COMERCIALIZAÇÃO E ETIQUETAGEM DO MATERIAL DE PROPAGAÇÃO",
+   "type": "divisao",
+   "heading": "TÍTULO V — COMERCIALIZAÇÃO E ETIQUETAGEM DO MATERIAL DE PROPAGAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — COMERCIALIZAÇÃO E ETIQUETAGEM DO MATERIAL DE PROPAGAÇÃO"
+  },
+  "1bd920efa1b0a0f5": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. O material de propagação deve ser comercializado em lotes. No entanto, o material de propagação de lotes diferentes pode ser comercializado numa única remessa, desde que o fornecedor conserve registos da composição e da origem dos diferentes lotes.\n\n2. Quando comercializado, o material de propagação deve ser acompanhado de uma etiqueta ou de outro documento redigido pelo fornecedor.\n\n3. Os requisitos relativos à etiqueta ou ao documento referidos no nº 2 devem ser definidos nos termos do artigo 17º Em caso de comercialização de material de propagação junto de pessoas que não produzam ou vendam plantas ornamentais ou material de propagação a título profissional, os requisitos de etiquetagem devem-se limitar a uma informação adequada sobre o produto. Os requisitos relativos à embalagem dos materiais de propagação podem ser adoptados segundo o mesmo artigo.\n\n4. O nº 1 não é aplicável a material de propagação comercializado junto de pessoas que não produzam ou vendam plantas ornamentais ou material de propagação a título profissional."
+  },
+  "d6db1e382aaf3a3f": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. O material de propagação só pode ser comercializado com uma referência a uma variedade, se a variedade em questão for:\n\n- legalmente protegida por um direito de obtenção segundo as disposições relativas à protecção das novas variedades, ou\n\n- oficialmente registada, ou\n\n- do conhecimento comum, ou\n\n- inscrita numa lista mantida por um fornecedor, da qual constem a sua descrição pormenorizada e a sua denominação. Essas listas devem ser elaboradas segundo directrizes internacionais aceites, sempre que estas forem aplicáveis. As listas devem ser facultadas ao organismo oficial responsável do Estado-membro em causa, a seu pedido.\n\n2. Na medida do possível, todas as variedades devem ter a mesma denominação em todos os Estados-membros, segundo medidas de execução que podem ser adoptadas nos termos do artigo 17º ou, na sua falta, segundo directrizes internacionais aceites.\n\n3. Sempre que for comercializado material de propagação com referência a um grupo de plantas e não a uma variedade como referido no nº 1, o fornecedor deve indicar o grupo de plantas de forma a evitar qualquer confusão com uma denominação varietal.\n\n4. Podem ser adoptadas disposições de execução adicionais para o quarto travessão do nº 1, nos termos do artigo 17º"
+  },
+  "bcfeada49a255a2e": {
+   "fragment_id": "TÍTULO VI — MATERIAL DE PROPAGAÇÃO QUE PREENCHE REQUISITOS MENOS RIGOROSOS",
+   "type": "divisao",
+   "heading": "TÍTULO VI — MATERIAL DE PROPAGAÇÃO QUE PREENCHE REQUISITOS MENOS RIGOROSOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — MATERIAL DE PROPAGAÇÃO QUE PREENCHE REQUISITOS MENOS RIGOROSOS"
+  },
+  "4f437fd92b76efda": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nSe, no fornecimento de material de propagação que preencha os requisitos da presente directiva, surgirem dificuldades temporárias que não possam ser superadas na Comunidade, podem ser adoptadas disposições que sujeitem a comercialização de materiais de propagação a requisitos menos rigorosos, nos termos do artigo 17º"
+  },
+  "35f981ed5d7fde9f": {
+   "fragment_id": "TÍTULO VII — MATERIAL DE PROPAGAÇÃO PRODUZIDO EM PAÍSES TERCEIROS",
+   "type": "divisao",
+   "heading": "TÍTULO VII — MATERIAL DE PROPAGAÇÃO PRODUZIDO EM PAÍSES TERCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VII — MATERIAL DE PROPAGAÇÃO PRODUZIDO EM PAÍSES TERCEIROS"
+  },
+  "823b1a5e2ffd5d7a": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Nos termos do artigo 17º, será decidido se os materiais de propagação produzidos num país terceiro oferecem garantias equivalentes, em todos os aspectos, às dos materiais produzidos na Comunidade segundo a presente directiva.\n\n2. Enquanto se aguarda a decisão referida no nº 1, o material de propagação não pode ser importado de países terceiros, excepto se o importador garantir que o material a importar oferece garantias equivalentes em todos os aspectos às do material de propagação produzido na Comunidade segundo a presente directiva, nomeadamente no que se refere à qualidade, identificação e fitossanidade.\n\n3. O importador notificará os organismos oficiais responsáveis dos materiais importados ao abrigo do nº 2 e conservará provas documentais do seu contrato com o fornecedor do país terceiro.\n\n4. As medidas de execução relacionadas com o procedimento a seguir e os outros requisitos a preencher pelos importadores podem ser adoptados nos termos do artigo 17º"
+  },
+  "c39cb73a5c2a6914": {
+   "fragment_id": "TÍTULO VIII — MEDIDAS DE CONTROLO E DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "TÍTULO VIII — MEDIDAS DE CONTROLO E DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VIII — MEDIDAS DE CONTROLO E DISPOSIÇÕES GERAIS"
+  },
+  "79f16048c8c40779": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Os Estados-membros exigirão que os fornecedores tomem todas as medidas necessárias para garantir o preenchimento dos requisitos da presente directiva. Para o efeito, os Estados-membros assegurarão que o material de propagação seja inspeccionado oficialmente:\n\n- pelo menos através de controlos aleatórios, e\n\n- pelo menos em relação à comercialização junto dos produtores ou vendedores profissionais de plantas ornamentais ou de material de propagação,\n\npara verificação da observância desses requisitos. Os Estados-membros poderão também recolher amostras nesse mesmo intuito. Os organismos oficiais responsáveis terão livre acesso a todas as dependências das instalações do fornecedor a qualquer momento, na medida do razoável, durante o acompanhamento e o controlo.\n\nAté 31 de Dezembro de 2002, a Comissão apresentará ao Conselho um relatório sobre a aplicação das disposições de controlo previstas no presente artigo, bem como quaisquer propostas adequadas, que podem, se necessário, incluir propostas para que os requisitos da presente directiva não abranjam também as vendas a retalho.\n\n2. As regras de execução relativas às inspecções oficiais ao abrigo da presente directiva podem ser adoptadas nos termos do artigo 17º"
+  },
+  "7c223f71b0c5cc4a": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Se, por ocasião das inspecções oficiais referidas no artigo 12º ou dos ensaios referidos no artigo 14º, se verificar que os materiais de propagação não preenchem os requisitos previstos na presente directiva, o organismo oficial responsável assegurará que o fornecedor tome as medidas correctoras adequadas ou, caso isso não seja possível, proibirá a comercialização desses materiais de propagação na Comunidade.\n\n2. Se se verificar que os materiais de propagação comercializados por um determinado fornecedor não preenchem os requisitos previstos na presente directiva, o Estado-membro em causa assegurará que sejam tomadas medidas adequadas em relação a esse fornecedor.\n\n3. As medidas adoptadas ao abrigo do nº 2 serão levantadas logo que tenha sido estabelecido, com suficiente rigor, que os materiais de propagação destinados a ser comercializados pelo referido fornecedor passarão a preencher os requisitos e condições da presente directiva."
+  },
+  "bdc79b5912118f7d": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Sempre que adequado, efectuar-se-ão nos Estados-membros ensaios ou testes em amostras, a fim de verificar a conformidade do material de propagação com os requisitos e condições da presente directiva. A Comissão poderá organizar inspecções dos ensaios, a efectuar por representantes dos Estados-membros e da Comissão.\n\n2. Poder-se-á decidir, nos termos do artigo 17º, que é necessário efectuar ensaios ou testes comunitários com a mesma finalidade dos previstos no nº 1. A Comissão pode organizar inspecções dos ensaios comunitários, a serem efectuados por representantes dos Estados-membros e da Comissão.\n\n3. Os ensaios ou testes referidos nos nºs 1 e 2 serão utilizados para harmonização dos métodos técnicos de exame do material de propagação. Serão enviados à Comissão e apresentados ao comité previsto no artigo 17º relatórios de actividade sobre esses ensaios ou testes.\n\n4. A Comissão assegurará que, nos casos apropriados, o regime de coordenação, realização e inspecção dos ensaios referidos nos nºs 1 e 2, bem como a apreciação dos seus resultados, sejam adoptados no âmbito do comité previsto no artigo 17º. Se surgirem problemas relacionados com organismos abrangidos pela Directiva 77/93/CEE, a Comissão notificará desse facto o Comité Fitossanitário Permanente, que será também consultado sobre os protocolos para ensaios comunitários, quando estes disserem respeito a organismos abrangidos pela Directiva 77/93/CEE. Os ensaios poderão incidir igualmente sobre material de propagação produzido em países terceiros."
+  },
+  "5dee499d19e753e7": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA comercialização do material de propagação que preencha os requisitos previstos na presente directiva não será sujeita a quaisquer restrições relativamente ao fornecedor, à qualidade, aos aspectos fitossanitários, à etiquetagem e à embalagem, para além das previstas na presente directiva."
+  },
+  "be503658a812496b": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros poderão, a seu pedido, nos termos do artigo 17º, e em determinadas condições, ser total ou parcialmente isentos de determinadas obrigações previstas na presente directiva quanto aos tipos de material de propagação de determinados géneros ou espécies cuja produção tenha uma importância económica reduzida no seu território, excepto quando tal seja contrário ao disposto no artigo 15º"
+  },
+  "6264f10b4de99e00": {
+   "fragment_id": "TÍTULO IX — COMITOLOGIA",
+   "type": "divisao",
+   "heading": "TÍTULO IX — COMITOLOGIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IX — COMITOLOGIA"
+  },
+  "122502477698d2fe": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\n1. Sempre que seja feita referência ao procedimento previsto no presente artigo, a Comissão será assistida por um Comité denominado Comité Permanente dos Materiais de Propagação de Plantas Ornamentais, presidido por um representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité permanente um projecto das medidas a tomar. O comité permanente emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará medidas que são imediatamente aplicáveis.\n\nb) Todavia, se não forem conformes com o parecer emitido pelo comité, essas medidas serão imediatamente comunicadas pela Comissão ao Conselho.\n\nNesse caso:\n\n- a Comissão pode diferir por um período de um mês, no máximo, a contar da data dessa comunicação, a aplicação das medidas que aprovou,\n\n- o Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no primeiro travessão.\n\n4. O comité pode, a pedido do presidente ou de um dos Estados-membros, examinar quaisquer questões relevantes para o assunto objecto da presente directiva."
+  },
+  "22ba87efbd547d9b": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. Sempre que seja feita referência ao procedimento previsto no presente artigo, a Comissão será assistida pelo Comité Permanente dos Materiais de Propagação e Plantas Ornamentais, presidido pelo representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar um função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "0f50c6788a96179c": {
+   "fragment_id": "TÍTULO X — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "TÍTULO X — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO X — DISPOSIÇÕES FINAIS"
+  },
+  "65017dfb5b586060": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva em 1 de Julho de 1999. Do facto informarão imediatamente a Comissão.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão as principais disposições de direito interno que adoptem nas matérias reguladas pela presente directiva."
+  },
+  "7362349f7e88b8e3": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\n1. A Directiva 91/682/CEE é revogada em 1 de Julho de 1999, sem prejuízo das obrigações dos Estados-membros em relação ao período de transposição e execução referido na parte A do anexo da presente directiva.\n\n2. As referências à directiva revogada devem ser entendidas como sendo feitas à presente directiva e ser interpretadas segundo o quadro de correspondência da parte B do anexo da presente directiva.\n\n3. As disposições de execução adoptadas ao abrigo da Directiva 91/682/CEE continuarão em vigor, excepto se forem alteradas ou revogadas por novas disposições de execução."
+  },
+  "ab0e2bbc59b84229": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Julho de 1998.\n\nPelo Conselho\n\nO Presidente\n\nW. MOLTERER\n\n(1) JO C 50 de 17. 2. 1998, p. 8.\n\n(2) JO C 104 de 6. 4. 1998, p. 40.\n\n(3) JO C 157 de 25. 5. 1998, p. 3.\n\n(4) JO L 26 de 31. 1. 1977, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 98/2/CE (JO L 15 de 21. 1. 1998, p. 34).\n\n(5) JO L 61 de 3. 3. 1997, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) nº 938/97 (JO L 140 de 30. 5. 1997, p. 1).\n\n(6) JO L 376 de 31. 12. 1991, p. 21.\n\n(7) JO L 365 de 31. 12. 1994, p. 10."
+  },
+  "50f99bed4c4752b2": {
+   "fragment_id": "ANEXO — PARTE A",
+   "type": "divisao",
+   "heading": "ANEXO — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PARTE A\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "43047ca1bb419b4b": {
+   "fragment_id": "PARTE B — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "PARTE B — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B — >POSIÇÃO NUMA TABELA>"
+  },
+  "dae0a01b5c735f80": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1998L0056 — PT — 10.07.2003 — 002.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0056:PT:NOT) [DIRECTIVA 98/56/CE DO CONSELHO de 20 de Julho de 1998 relativa à comercialização de materiais de propagação de plantas ornamentais](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0056:PT:NOT) (JO L 226, 13.8.1998, p.16)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0806:PT:NOT) | [Regulamento (CE) n.o 806/2003 do Conselho de 14 de Abril de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0806:PT:NOT) | L 122 | 1 | 16.5.2003 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0061:PT:NOT) | [Directiva 2003/61/CE do Conselho de 18 de Junho de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0061:PT:NOT) | L 165 | 23 | 3.7.2003 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0056:PT:NOT)\n\nDIRECTIVA 98/56/CE DO CONSELHO\n\nde 20 de Julho de 1998\n\nrelativa à comercialização de materiais de propagação de plantas ornamentais\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#E0003)),\n\n(1) Considerando que a produção de plantas ornamentais ocupa um lugar importante na agricultura da Comunidade;\n\n(2) Considerando que a obtenção de resultados satisfatórios na cultura de plantas ornamentais depende em larga medida da qualidade e estado sanitário dos materiais de propagação utilizados;\n\n(3) Considerando que o estabelecimento de condições harmonizadas a nível comunitário irá garantir que, em toda a Comunidade, os compradores recebam materiais de propagação em bom estado fitossanitário e de boa qualidade;\n\n(4) Considerando que, na medida em que digam respeito aos aspectos fitossanitários, as referidas condições harmonizadas devem ser conformes à Directiva 77/93/CEE do Conselho, de 21 de Dezembro de 1976, relativa a medidas de protecção contra a introdução na Comunidade de organismos prejudiciais às plantas e produtos vegetais e contra a sua propagação no interior da Comunidade ([4](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#E0004));\n\n(5) Considerando que é conveniente estabelecer normas comunitárias para todos os géneros e espécies de plantas ornamentais na Comunidade, com excepção dos abrangidos pelo Regulamento (CE) n.o 338/97 do Conselho, de 9 de Dezembro de 1996, relativo à protecção de espécies da fauna e flora selvagens através do controlo do seu comércio ([5](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#E0005));\n\n(6) Considerando que, sem prejuízo das disposições fitossanitárias contidas na Directiva 77/93/CEE, é conveniente não aplicar as citadas normas comunitárias relativas à comercialização de materiais de propagação quando se provar que esses materiais e plantas se destinam à exportação para países terceiros, uma vez que as disposições em vigor nesses países podem ser diferentes das previstas na presente directiva;\n\n(7) Considerando que o estabelecimento de normas fitossanitárias e de qualidade para determinados géneros e espécies de plantas ornamentais exige uma longa e pormenorizada análise técnica e científica; que consequentemente deve ser definido um procedimento para o estabelecimento das referidas normas;\n\n(8) Considerando que compete em primeiro lugar aos fornecedores de materiais de propagação garantir que os seus produtos preenchem as condições previstas na presente directiva;\n\n(9) Considerando que, ao efectuarem os controlos e inspecções, as autoridades competentes dos Estados-membros devem garantir que os fornecedores satisfazem as referidas condições;\n\n(10) Considerando que devem ser introduzidas medidas comunitárias de controlo que garantam uma aplicação uniforme em todos os Estados-membros das normas estabelecidas na presente directiva;\n\n(11) Considerando que o comprador de materiais de propagação tem interesse em que seja conhecida a denominação da variedade ou do grupo de plantas e em que seja salvaguardada a sua identidade;\n\n(12) Considerando que as características específicas da indústria que opera no sector das plantas ornamentais constituem um factor de complicação; que, por esse motivo, o objectivo acima enunciado pode ser melhor concretizado, quer por um conhecimento comum da variedade, quer, no caso de variedades ou grupos de plantas, pela disponibilidade de uma descrição feita e conservada pelos fornecedores;\n\n(13) Considerando que, para garantir a identidade e a comercialização disciplinada dos materiais de propagação, devem ser estabelecidas normas comunitárias relativamente à separação dos lotes e à comercialização; que as etiquetas devem fornecer as indicações necessárias para o controlo oficial e para a informação do cultivador;\n\n(14) Considerando que devem ser estabelecidas regras que, em caso de dificuldades temporárias de abastecimento, permitam a comercialização de materiais de propagação sujeitos a requisitos menos rigorosos do que os previstos na presente directiva;\n\n(15) Considerando que deve ser prevista a autorização de comercialização na Comunidade de materiais de propagação produzidos em países terceiros, desde que estes ofereçam as mesmas garantias que os materiais de propagação produzidos na Comunidade, segundo as normas comunitárias;\n\n(16) Considerando que, a fim de harmonizar as técnicas de exame utilizadas nos Estados-membros e de comparar os materiais de propagação produzidos na Comunidade com os produzidos em países terceiros, devem ser efectuados ensaios comparativos que permitam verificar a conformidade dos materiais de propagação com os requisitos da presente directiva;\n\n(17) Considerando que, para facilitar a aplicação eficaz da presente directiva, a Comissão deve ser incumbida da adopção de medidas com esse objectivo; que essas medidas devem ser adoptadas por um processo que implique uma colaboração estreita entre a Comissão e os Estados-membros no âmbito do Comité Permanente dos Materiais de Propagação e das Plantas Ornamentais;\n\n(18) Considerando que a Directiva 91/682/CEE do Conselho, de 19 de Dezembro de 1991, relativa à comercialização de plantas ornamentais e materiais de propagação de plantas ornamentais ([6](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#E0006)) estabeleceu condições harmonizadas a nível comunitário destinadas a assegurar que os compradores recebem, em toda a Comunidade, materiais de propagação e plantas ornamentais sãos e de boa qualidade;\n\n(19) Considerando que os Estados-membros tiveram dificuldades na interpretação e transposição dessa directiva;\n\n(20) Considerando que essa directiva foi considerada adequada para inclusão na iniciativa SLIM (simplificação da legislação do mercado interno) lançada pela Comissão em Maio de 1996;\n\n(21) Considerando que a equipa SLIM — Plantas ornamentais fez várias recomendações destinadas a simplificar a directiva em questão; que essas recomendações constam da comunicação da Comissão ao Conselho e ao Parlamento Europeu sobre a iniciativa SLIM;\n\n(22) Considerando que essas recomendações diziam respeito às pessoas a ser controladas pela directiva, às espécies a incluir no âmbito da directiva, à autenticidade varietal, às inter-relações com a Directiva 77/93/CEE, e à equivalência de países terceiros;\n\n(23) Considerando que, ponderadas essas recomendações, é conveniente alterar certas disposições da Directiva 91/682/CEE; que, dado o número dessas alterações, a directiva deve, por razões de clareza, ser reformulada,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8f06cf940bee34a7": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é aplicável à comercialização de materiais de propagação de plantas ornamentais na Comunidade, sem prejuízo das normas de protecção da flora selvagem definidas no Regulamento (CE) n.o 338/97, das normas sobre embalagens e resíduos de embalagens previstas na Directiva 94/62/CE do Parlamento Europeu e do Conselho ([7](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#E0007)), nem, salvo disposição em contrário da presente directiva ou com base na mesma, as normas fitossanitárias definidas na Directiva 77/93/CEE.\n\n2. A presente directiva não é aplicável a:\n\n— materiais comprovadamente destinados a exportação para países terceiros, devidamente identificados e suficientemente isolados,\n\n— materiais cujos produtos não se destinem a fins ornamentais, se forem abrangidos por outra legislação comunitária sobre a comercialização desses materiais.\n\n3. Pode ser decidido nos termos do artigo 17.o, que todos ou parte dos requisitos da presente directiva não são aplicáveis a sementes de determinadas espécies ou grupos de plantas, quando se destinem à produção de outros materiais de propagação e quando não haja uma relação significativa entre a qualidade dessas sementes e a qualidade dos materiais obtidos a partir delas."
+  },
+  "74fc27cb000ff480": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Materiais de propagação»: materiais provenientes de plantas destinados a:\n\n— propagação de plantas ornamentais, ou\n\n— produção de plantas ornamentais; todavia, em caso de produção a partir de plantas completas, esta definição é aplicável apenas na medida em que a planta ornamental resultante se destine a ser comercializada posteriormente.\n\n«Propagação»: reprodução vegetativa ou por outros meios;\n\n2. «Fornecedor»: qualquer pessoa singular ou colectiva que se dedique profissionalmente à comercialização ou importação de materiais de propagação;\n\n3. «Comercialização»: venda ou entrega por um fornecedor a outra pessoa. «Venda»: inclui a manutenção à disposição ou em stock, a exposição para venda, a oferta para venda;\n\n4. «Organismo oficial responsável»:\n\na) A autoridade, criada ou designada pelo Estado-membro, sob controlo do governo central e responsável pela qualidade;\n\nb) Qualquer autoridade pública criada:\n\n— quer a nível nacional,\n\n— quer a nível regional, sob o controlo das autoridades nacionais, dentro dos limites fixados pela Constituição do respectivo Estado-membro.\n\nOs organismos atrás referidos podem, nos termos da legislação nacional, delegar as funções que lhes são conferidas pela presente directiva, para serem desempenhadas sob a sua autoridade e controlo, em pessoas colectivas, de direito público ou privado que, nos termos dos seus estatutos oficialmente aprovados, desempenhem exclusivamente funções específicas de interesse público, desde que nem essas pessoas colectivas nem os seus membros tirem qualquer proveito pessoal do resultado das medidas que tomem.\n\nAlém disso, nos termos do artigo 17.o, podem ser aprovadas outras pessoas colectivas criadas por conta do organismo referido na alínea a) que actuem sob a sua autoridade e controlo, desde que essas pessoas colectivas não tirem qualquer proveito pessoal do resultado das medidas que tomem.\n\nOs Estados-membros comunicarão à Comissão os seus organismos oficiais responsáveis.\n\nA Comissão transmitirá essa informação aos outros Estados-membros;\n\n5. «Lote»: o conjunto de unidades de uma única mercadoria, identificável pela sua homogeneidade de composição e origem."
+  },
+  "944e8f456e0541ac": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os fornecedores só podem comercializar material de propagação que preencha os requisitos da presente directiva.\n\n2. O disposto no n.o 1 não é aplicável ao material de propagação destinado a:\n\na) ensaios ou fins científicos;\n\nb) trabalhos de selecção ou\n\nc) conservação da diversidade genética.\n\n3. As regras de execução do n.o 2 podem ser adoptadas nos termos do artigo 17.o"
+  },
+  "3adfee44a51d7931": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO material de propagação deve, quando for caso disso, obedecer às condições fitossanitárias aplicáveis previstas na Directiva 77/93/CEE."
+  },
+  "73b2b34d70f5f28c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Sem prejuízo do disposto nos artigos 1.o e 4.o, o material de propagação, quando comercializado, deve:\n\n— pelo menos com base em inspecções visuais, encontrar-se substancialmente isento de quaisquer organismos prejudiciais que afectem a qualidade ou de quaisquer sinais ou sintomas dos mesmos que reduzam a sua utilidade,\n\n— estar substancialmente isento de quaisquer defeitos que afectem a sua qualidade como material de propagação,\n\n— apresentar vigor e dimensões satisfatórios relativamente à sua utilidade como material de propagação,\n\n— no caso das sementes, ter capacidade germinativa satisfatória,\n\n— se forem comercializados com referência a uma variedade nos termos do artigo 9.o, ter uma identidade e pureza varietais satisfatórias.\n\n2. Todo o material de propagação que, com base em sintomas ou sinais visíveis, não esteja substancialmente isento de organismos prejudiciais, será adequadamente tratado, ou, se necessário, removido.\n\n3. Os materiais de citrinos devem preencher igualmente os seguintes requisitos:\n\na) Ser derivados de materiais iniciais submetidos a controlo, sem sintomas de quaisquer vírus e organismos similares ou doenças;\n\nb) Ter sido submetidos a controlo, encontrando-se substancialmente isentos desses vírus, organismos similares ou doenças desde o início do último ciclo vegetativo, e\n\nc) Em caso de enxertia, ter sido enxertados em porta-enxertos que não os predispostos a viróides.\n\n4. Os bolbos de flores devem preencher também o seguinte requisito:\n\n— o material de propagação deve ser directamente derivado de materiais que, na fase de crescimento da planta, tenham sido submetidos a controlo, encontrando-se substancialmente isentos de quaisquer organismos prejudiciais e doenças e dos sinais ou sintomas destes.\n\n5. Nos termos do artigo 18.o, pode ser elaborada, para um determinado género ou espécie, uma ficha que estabeleça condições adicionais relativas à qualidade a satisfazer pelo material de propagação, quando comercializado. Um género ou uma espécie só será incluído nessa ficha se houver necessidade comprovada dessas regras adicionais. Para determinar essa necessidade, aplicar-se-ão os seguintes critérios:\n\n— existência de problemas relativamente à qualidade do material de propagação da espécie ou género em causa, que só possam ser resolvidos satisfatoriamente através de meios legislativos,\n\n— importância económica do material de propagação da espécie ou género em causa;\n\n— conformidade com quaisquer normas internacionais sobre doenças que não exijam quarentena legal."
+  },
+  "f97c55fba988b748": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Sem prejuízo do disposto no n.o 2, os fornecedores devem ser oficialmente registados para as actividades que pratiquem nos termos da presente directiva. O organismo oficial responsável pode considerar os fornecedores que já estejam registados ao abrigo da Directiva 77/93/CEE como registados para efeitos da presente directiva. Esses fornecedores devem no entanto cumprir os requisitos da presente directiva.\n\n2. O n.o 1 não é aplicável a fornecedores que vendam apenas a pessoas que não produzam ou vendam plantas ornamentais ou material de propagação a título profissional. Esses fornecedores devem, todavia, cumprir os requisitos da presente directiva."
+  },
+  "0e9cfa186260c32e": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os fornecedores que se dediquem à produção de material de propagação devem:\n\n— identificar e controlar os pontos críticos do seu processo de produção que influenciem a qualidade do material,\n\n— conservar informações para exame, a pedido do organismo oficial responsável, sobre os controlos a que se refere o primeiro travessão,\n\n— recolher amostras, sempre que necessário, para análise num laboratório com equipamento e competência adequados,\n\n— garantir que, ao longo da produção, os lotes de material de propagação se mantenham identificáveis separadamente.\n\n2. Se nas instalações de um fornecedor que se dedique à produção de material de propagação, surgir um organismo prejudicial enunciado na Directiva 77/93/CEE ou em quaisquer medidas tomadas ao abrigo do n.o 5 do artigo 5.o, o fornecedor deverá comunicar esse facto ao organismo oficial responsável e aplicar todas as medidas prescritas por aquele organismo.\n\n3. Quando os materiais de propagação forem comercializados, os fornecedores registados deverão conservar os registos das suas vendas ou compras durante pelo menos doze meses.\n\n4. As regras de execução do n.o 1 podem ser adoptadas nos termos do artigo 17.o"
+  },
+  "d6da0e6324a1456b": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O material de propagação deve ser comercializado em lotes. No entanto, o material de propagação de lotes diferentes pode ser comercializado numa única remessa, desde que o fornecedor conserve registos da composição e da origem dos diferentes lotes.\n\n2. Quando comercializado, o material de propagação deve ser acompanhado de uma etiqueta ou de outro documento redigido pelo fornecedor.\n\n3. Os requisitos relativos à etiqueta ou ao documento referidos no n.o 2 devem ser definidos nos termos do artigo 17.o Em caso de comercialização de material de propagação junto de pessoas que não produzam ou vendam plantas ornamentais ou material de propagação a título profissional, os requisitos de etiquetagem devem-se limitar a uma informação adequada sobre o produto. Os requisitos relativos à embalagem dos materiais de propagação podem ser adoptados segundo o mesmo artigo.\n\n4. O n.o 1 não é aplicável a material de propagação comercializado junto de pessoas que não produzam ou vendam plantas ornamentais ou material de propagação a título profissional."
+  },
+  "26506b348cd0c758": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O material de propagação só pode ser comercializado com uma referência a uma variedade, se a variedade em questão for:\n\n— legalmente protegida por um direito de obtenção segundo as disposições relativas à protecção das novas variedades, ou\n\n— oficialmente registada, ou\n\n— do conhecimento comum, ou\n\n— inscrita numa lista mantida por um fornecedor, da qual constem a sua descrição pormenorizada e a sua denominação. Essas listas devem ser elaboradas segundo directrizes internacionais aceites, sempre que estas forem aplicáveis. As listas devem ser facultadas ao organismo oficial responsável do Estado-membro em causa, a seu pedido.\n\n2. Na medida do possível, todas as variedades devem ter a mesma denominação em todos os Estados-membros, segundo medidas de execução que podem ser adoptadas nos termos do artigo 17.o ou, na sua falta, segundo directrizes internacionais aceites.\n\n3. Sempre que for comercializado material de propagação com referência a um grupo de plantas e não a uma variedade como referido no n.o 1, o fornecedor deve indicar o grupo de plantas de forma a evitar qualquer confusão com uma denominação varietal.\n\n4. Podem ser adoptadas disposições de execução adicionais para o quarto travessão do n.o 1, nos termos do artigo 17.o"
+  },
+  "ed3700ce92ec49d0": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nSe, no fornecimento de material de propagação que preencha os requisitos da presente directiva, surgirem dificuldades temporárias que não possam ser superadas na Comunidade, podem ser adoptadas disposições que sujeitem a comercialização de materiais de propagação a requisitos menos rigorosos, nos termos do artigo 17.o"
+  },
+  "6a8092ed236201eb": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Nos termos do artigo 17.o, será decidido se os materiais de propagação produzidos num país terceiro oferecem garantias equivalentes, em todos os aspectos, às dos materiais produzidos na Comunidade segundo a presente directiva.\n\n2. Enquanto se aguarda a decisão referida no n.o 1, o material de propagação não pode ser importado de países terceiros, excepto se o importador garantir que o material a importar oferece garantias equivalentes em todos os aspectos às do material de propagação produzido na Comunidade segundo a presente directiva, nomeadamente no que se refere à qualidade, identificação e fitossanidade.\n\n3. O importador notificará os organismos oficiais responsáveis dos materiais importados ao abrigo do n.o 2 e conservará provas documentais do seu contrato com o fornecedor do país terceiro.\n\n4. As medidas de execução relacionadas com o procedimento a seguir e os outros requisitos a preencher pelos importadores podem ser adoptados nos termos do artigo 17.o"
+  },
+  "098387160106ebe2": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os Estados-membros exigirão que os fornecedores tomem todas as medidas necessárias para garantir o preenchimento dos requisitos da presente directiva. Para o efeito, os Estados-membros assegurarão que o material de propagação seja inspeccionado oficialmente:\n\n— pelo menos através de controlos aleatórios, e\n\n— pelo menos em relação à comercialização junto dos produtores ou vendedores profissionais de plantas ornamentais ou de material de propagação,\n\n1. para verificação da observância desses requisitos. Os Estados-membros poderão também recolher amostras nesse mesmo intuito. Os organismos oficiais responsáveis terão livre acesso a todas as dependências das instalações do fornecedor a qualquer momento, na medida do razoável, durante o acompanhamento e o controlo.\n\nAté 31 de Dezembro de 2002, a Comissão apresentará ao Conselho um relatório sobre a aplicação das disposições de controlo previstas no presente artigo, bem como quaisquer propostas adequadas, que podem, se necessário, incluir propostas para que os requisitos da presente directiva não abranjam também as vendas a retalho.\n\n2. As regras de execução relativas às inspecções oficiais ao abrigo da presente directiva podem ser adoptadas nos termos do artigo 17.o"
+  },
+  "f6b8fecde4b9ddf6": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Se, por ocasião das inspecções oficiais referidas no artigo 12.o ou dos ensaios referidos no artigo 14.o, se verificar que os materiais de propagação não preenchem os requisitos previstos na presente directiva, o organismo oficial responsável assegurará que o fornecedor tome as medidas correctoras adequadas ou, caso isso não seja possível, proibirá a comercialização desses materiais de propagação na Comunidade.\n\n2. Se se verificar que os materiais de propagação comercializados por um determinado fornecedor não preenchem os requisitos previstos na presente directiva, o Estado-membro em causa assegurará que sejam tomadas medidas adequadas em relação a esse fornecedor.\n\n3. As medidas adoptadas ao abrigo do n.o 2 serão levantadas logo que tenha sido estabelecido, com suficiente rigor, que os materiais de propagação destinados a ser comercializados pelo referido fornecedor passarão a preencher os requisitos e condições da presente directiva.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0061:PT:NOT)"
+  },
+  "1eea489cfa757537": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Caso seja necessário, os ensaios ou testes devem ser realizados nos Estados-Membros em amostras, a fim de verificar se o material de propagação observa os requisitos e condições, nomeadamente a nível fitossanitário, constantes da presente directiva. A Comissão pode organizar inspecções aos ensaios a efectuar por representantes dos Estados-Membros e da Comissão.\n\n2. Podem ser efectuados na Comunidade ensaios e testes comparativos comunitários para o controlo ulterior de amostras de materiais de propagação ou de plantas ornamentais colocados no mercado ao abrigo das disposições, compulsivas ou facultativas e inclusivamente fitossanitárias, da presente directiva. Os ensaios e testes comparativos podem incluir o seguinte:\n\n— materiais de propagação produzidos em países terceiros,\n\n— materiais de propagação próprios para a agricultura biológica,\n\n— materiais de propagação comercializados no âmbito de medidas destinadas a contribuir para a preservação da diversidade genética.\n\n3. Estes ensaios e testes comparativos devem ser utilizados para harmonizar os métodos técnicos de análise de materiais de propagação de plantas ornamentais e verificar a observância das condições a que esse material deve obedecer.\n\n4. A Comissão, deliberando nos termos do artigo 17.o, toma as disposições necessárias para a realização dos ensaios e testes comparativos. A Comissão deve informar o comité referido no artigo 17.o sobre as disposições técnicas relativas à realização dos ensaios e testes e respectivos resultados. Sempre que surjam problemas em relação aos organismos abrangidos pela Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([8](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#E0008)), a Comissão deve notificar o facto ao Comité Fitossanitário Permanente, que deve ser igualmente consultado sobre os protocolos relativos aos ensaios comunitários, sempre que esses ensaios digam respeito a organismos abrangidos pela referida directiva.\n\n5. A Comunidade pode contribuir financeiramente para a realização dos ensaios e testes referidos nos n.os 2 e 3.\n\nA contribuição financeira não deve exceder as dotações anuais estabelecidas pela autoridade orçamental.\n\n6. Os ensaios e testes que podem beneficiar de apoio financeiro da Comunidade, bem como as normas pormenorizadas para a concessão da contribuição financeira, são estabelecidos nos termos do artigo 17.o.\n\n7. Os ensaios e testes previstos nos n.os 2 e 3 apenas podem ser efectuados por autoridades estatais ou por pessoas colectivas agindo sob a responsabilidade do Estado.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0056:PT:NOT)"
+  },
+  "46af9c74fae91f6f": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA comercialização do material de propagação que preencha os requisitos previstos na presente directiva não será sujeita a quaisquer restrições relativamente ao fornecedor, à qualidade, aos aspectos fitossanitários, à etiquetagem e à embalagem, para além das previstas na presente directiva."
+  },
+  "1f33e801750f2df3": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs Estados-membros poderão, a seu pedido, nos termos do artigo 17.o, e em determinadas condições, ser total ou parcialmente isentos de determinadas obrigações previstas na presente directiva quanto aos tipos de material de propagação de determinados géneros ou espécies cuja produção tenha uma importância económica reduzida no seu território, excepto quando tal seja contrário ao disposto no artigo 15.o"
+  },
+  "5864a840726eca35": {
+   "fragment_id": "TÍTULO IX — COMITOLOGIA",
+   "type": "divisao",
+   "heading": "TÍTULO IX — COMITOLOGIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IX — COMITOLOGIA\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0806:PT:NOT)"
+  },
+  "a24ac6fec95debef": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A Comissão é assistida pelo Comité Permanente dos Materiais de Propagação de Plantas Ornamentais.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE ([9](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#E0009)).\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "5f396361b66d7d22": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. A Comissão é assistida pelo Comité Permanente de Materiais de Propagação de Plantas Ornamentais.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE ([10](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#E0010)).\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0056:PT:NOT)"
+  },
+  "95deaf0dcb215b1c": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva em 1 de Julho de 1999. Do facto informarão imediatamente a Comissão.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão as principais disposições de direito interno que adoptem nas matérias reguladas pela presente directiva."
+  },
+  "138b91e40d188912": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A Directiva 91/682/CEE é revogada em 1 de Julho de 1999, sem prejuízo das obrigações dos Estados-membros em relação ao período de transposição e execução referido na parte A do anexo da presente directiva.\n\n2. As referências à directiva revogada devem ser entendidas como sendo feitas à presente directiva e ser interpretadas segundo o quadro de correspondência da parte B do anexo da presente directiva.\n\n3. As disposições de execução adoptadas ao abrigo da Directiva 91/682/CEE continuarão em vigor, excepto se forem alteradas ou revogadas por novas disposições de execução."
+  },
+  "2f63a689be3366d5": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "ddcaa077f88d65b5": {
+   "fragment_id": "ANEXO — PARTE A",
+   "type": "divisao",
+   "heading": "ANEXO — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PARTE A\n\nPrazos de transposição para o direito interno e execução\n\n| Directiva | Prazo de transposição | Prazo de execução |\n| --- | --- | --- |\n| 91/682/CEE (JO L 376 de 31. 12. 1991, p. 21 | 31 de Dezembro de 1992 | Artigo 5.o a 11.o, 14.o, 15.o, 17.o, 19.o e 24.o (para todos os géneros e espécies) 31 de Dezembro de 1993 |"
+  },
+  "1909d54493c44e95": {
+   "fragment_id": "PARTE B — Quadro de correspondências",
+   "type": "divisao",
+   "heading": "PARTE B — Quadro de correspondências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B — Quadro de correspondências\n\nPresente directiva Directiva 91/682/CEE\n\nArtigo 1.o Artigos 1.o e 2.o\n\nArtigo 2.o Artigo 3.o\n\nArtigo 3.o Artigo 8.o\n\nArtigo 4.o —\n\nArtigo 5.o Artigo 4.o\n\nArtigo 6.o Artigo 6.o\n\nArtigo 7.o Artigo 5.o\n\nArtigo 8.o Artigos 10.o e 11.o\n\nArtigo 9.o Artigo 9.o\n\nArtigo 10.o Artigo 13.o\n\nArtigo 11.o Artigo 16.o\n\nArtigo 12.o Artigos 17.o e 18.o\n\nArtigo 13.o Artigo 19.o\n\nArtigo 14.o Artigo 20.o\n\nArtigo 15.o Artigo 14.o\n\nArtigo 16.o —\n\nArtigo 17.o Artigo 21.o\n\nArtigo 18.o Artigo 22.o\n\nArtigo 19.o —\n\nArtigo 20.o —\n\nArtigo 21.o —\n\n([1](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#src.E0001)) JO C 50 de 17. 2. 1998, p. 8.\n\n([2](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#src.E0002)) JO C 104 de 6. 4. 1998, p. 40.\n\n([3](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#src.E0003)) JO C 157 de 25. 5. 1998, p. 3.\n\n([4](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#src.E0004)) JO L 26 de 31. 1. 1977, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 98/2/CE (JO L 15 de 21. 1. 1998, p. 34).\n\n([5](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#src.E0005)) JO L 61 de 3. 3. 1997, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.o 938/97 (JO L 140 de 30. 5. 1997, p. 1).\n\n([6](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#src.E0006)) JO L 376 de 31. 12. 1991, p. 21.\n\n([7](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#src.E0007)) JO L 365 de 31. 12. 1994, p. 10.\n\n([8](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#src.E0008)) JO L 169 de 10.7.2000, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 806/2003 (JO L 122 de 16.5.2003, p. 1).\n\n([9](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#src.E0009)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n.\n\n([10](http://publications.europa.eu/resource/cellar/f5c9950d-f550-4ed1-8df5-e0f8364d507e.0018.02/DOC_1#src.E0010)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "589b81e60145bfb7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Julho de 1998\n\nrelativa à comercialização de materiais de propagação de plantas ornamentais\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0003)),\n\n(1) Considerando que a produção de plantas ornamentais ocupa um lugar importante na agricultura da Comunidade;\n\n(2) Considerando que a obtenção de resultados satisfatórios na cultura de plantas ornamentais depende em larga medida da qualidade e estado sanitário dos materiais de propagação utilizados;\n\n(3) Considerando que o estabelecimento de condições harmonizadas a nível comunitário irá garantir que, em toda a Comunidade, os compradores recebam materiais de propagação em bom estado fitossanitário e de boa qualidade;\n\n(4) Considerando que, na medida em que digam respeito aos aspectos fitossanitários, as referidas condições harmonizadas devem ser conformes à Directiva 77/93/CEE do Conselho, de 21 de Dezembro de 1976, relativa a medidas de protecção contra a introdução na Comunidade de organismos prejudiciais às plantas e produtos vegetais e contra a sua propagação no interior da Comunidade ([^4^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0004));\n\n(5) Considerando que é conveniente estabelecer normas comunitárias para todos os géneros e espécies de plantas ornamentais na Comunidade, com excepção dos abrangidos pelo Regulamento (CE) n.º 338/97 do Conselho, de 9 de Dezembro de 1996, relativo à protecção de espécies da fauna e flora selvagens através do controlo do seu comércio ([^5^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0005));\n\n(6) Considerando que, sem prejuízo das disposições fitossanitárias contidas na Directiva 77/93/CEE, é conveniente não aplicar as citadas normas comunitárias relativas à comercialização de materiais de propagação quando se provar que esses materiais e plantas se destinam à exportação para países terceiros, uma vez que as disposições em vigor nesses países podem ser diferentes das previstas na presente directiva;\n\n(7) Considerando que o estabelecimento de normas fitossanitárias e de qualidade para determinados géneros e espécies de plantas ornamentais exige uma longa e pormenorizada análise técnica e científica; que consequentemente deve ser definido um procedimento para o estabelecimento das referidas normas;\n\n(8) Considerando que compete em primeiro lugar aos fornecedores de materiais de propagação garantir que os seus produtos preenchem as condições previstas na presente directiva;\n\n(9) Considerando que, ao efectuarem os controlos e inspecções, as autoridades competentes dos Estados-membros devem garantir que os fornecedores satisfazem as referidas condições;\n\n(10) Considerando que devem ser introduzidas medidas comunitárias de controlo que garantam uma aplicação uniforme em todos os Estados-membros das normas estabelecidas na presente directiva;\n\n(11) Considerando que o comprador de materiais de propagação tem interesse em que seja conhecida a denominação da variedade ou do grupo de plantas e em que seja salvaguardada a sua identidade;\n\n(12) Considerando que as características específicas da indústria que opera no sector das plantas ornamentais constituem um factor de complicação; que, por esse motivo, o objectivo acima enunciado pode ser melhor concretizado, quer por um conhecimento comum da variedade, quer, no caso de variedades ou grupos de plantas, pela disponibilidade de uma descrição feita e conservada pelos fornecedores;\n\n(13) Considerando que, para garantir a identidade e a comercialização disciplinada dos materiais de propagação, devem ser estabelecidas normas comunitárias relativamente à separação dos lotes e à comercialização; que as etiquetas devem fornecer as indicações necessárias para o controlo oficial e para a informação do cultivador;\n\n(14) Considerando que devem ser estabelecidas regras que, em caso de dificuldades temporárias de abastecimento, permitam a comercialização de materiais de propagação sujeitos a requisitos menos rigorosos do que os previstos na presente directiva;\n\n(15) Considerando que deve ser prevista a autorização de comercialização na Comunidade de materiais de propagação produzidos em países terceiros, desde que estes ofereçam as mesmas garantias que os materiais de propagação produzidos na Comunidade, segundo as normas comunitárias;\n\n(16) Considerando que, a fim de harmonizar as técnicas de exame utilizadas nos Estados-membros e de comparar os materiais de propagação produzidos na Comunidade com os produzidos em países terceiros, devem ser efectuados ensaios comparativos que permitam verificar a conformidade dos materiais de propagação com os requisitos da presente directiva;\n\n(17) Considerando que, para facilitar a aplicação eficaz da presente directiva, a Comissão deve ser incumbida da adopção de medidas com esse objectivo; que essas medidas devem ser adoptadas por um processo que implique uma colaboração estreita entre a Comissão e os Estados-membros no âmbito do Comité Permanente dos Materiais de Propagação e das Plantas Ornamentais;\n\n(18) Considerando que a Directiva 91/682/CEE do Conselho, de 19 de Dezembro de 1991, relativa à comercialização de plantas ornamentais e materiais de propagação de plantas ornamentais ([^6^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0006)) estabeleceu condições harmonizadas a nível comunitário destinadas a assegurar que os compradores recebem, em toda a Comunidade, materiais de propagação e plantas ornamentais sãos e de boa qualidade;\n\n(19) Considerando que os Estados-membros tiveram dificuldades na interpretação e transposição dessa directiva;\n\n(20) Considerando que essa directiva foi considerada adequada para inclusão na iniciativa SLIM (simplificação da legislação do mercado interno) lançada pela Comissão em Maio de 1996;\n\n(21) Considerando que a equipa SLIM — Plantas ornamentais fez várias recomendações destinadas a simplificar a directiva em questão; que essas recomendações constam da comunicação da Comissão ao Conselho e ao Parlamento Europeu sobre a iniciativa SLIM;\n\n(22) Considerando que essas recomendações diziam respeito às pessoas a ser controladas pela directiva, às espécies a incluir no âmbito da directiva, à autenticidade varietal, às inter-relações com a Directiva 77/93/CEE, e à equivalência de países terceiros;\n\n(23) Considerando que, ponderadas essas recomendações, é conveniente alterar certas disposições da Directiva 91/682/CEE; que, dado o número dessas alterações, a directiva deve, por razões de clareza, ser reformulada,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "707b247288f2485e": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO"
+  },
+  "6b2df63d1c948b80": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é aplicável à comercialização de materiais de propagação de plantas ornamentais na Comunidade, sem prejuízo das normas de protecção da flora selvagem definidas no Regulamento (CE) n.º 338/97, das normas sobre embalagens e resíduos de embalagens previstas na Directiva 94/62/CE do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0007)), nem, salvo disposição em contrário da presente directiva ou com base na mesma, as normas fitossanitárias definidas na Directiva 77/93/CEE.\n\n2. A presente directiva não é aplicável a:\n\n— materiais comprovadamente destinados a exportação para países terceiros, devidamente identificados e suficientemente isolados,\n\n— materiais cujos produtos não se destinem a fins ornamentais, se forem abrangidos por outra legislação comunitária sobre a comercialização desses materiais.\n\n3. Pode ser decidido nos termos do artigo 17.º, que todos ou parte dos requisitos da presente directiva não são aplicáveis a sementes de determinadas espécies ou grupos de plantas, quando se destinem à produção de outros materiais de propagação e quando não haja uma relação significativa entre a qualidade dessas sementes e a qualidade dos materiais obtidos a partir delas."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "8cf04030ac5dedfa": {
+   "fragment_id": "DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEFINIÇÕES"
+  },
+  "c32a60534a8e5d26": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Materiais de propagação»: materiais provenientes de plantas destinados a:\n\n— propagação de plantas ornamentais, ou\n\n— produção de plantas ornamentais; todavia, em caso de produção a partir de plantas completas, esta definição é aplicável apenas na medida em que a planta ornamental resultante se destine a ser comercializada posteriormente.\n\n2. «Fornecedor»: qualquer pessoa singular ou colectiva que se dedique profissionalmente à comercialização ou importação de materiais de propagação;\n\n3. «Comercialização»: venda ou entrega por um fornecedor a outra pessoa. «Venda»: inclui a manutenção à disposição ou em *stock*, a exposição para venda, a oferta para venda;\n\n4. «Organismo oficial responsável»:\n\na) A autoridade, criada ou designada pelo Estado-membro, sob controlo do governo central e responsável pela qualidade;\n\nb) Qualquer autoridade pública criada:\n\n— quer a nível nacional,\n\n— quer a nível regional, sob o controlo das autoridades nacionais, dentro dos limites fixados pela Constituição do respectivo Estado-membro.\n\n5. «Lote»: o conjunto de unidades de uma única mercadoria, identificável pela sua homogeneidade de composição e origem."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "dec5b7a2093faaae": {
+   "fragment_id": "REQUISITOS PARA O MATERIAL DE PROPAGAÇÃO",
+   "type": "divisao",
+   "heading": "REQUISITOS PARA O MATERIAL DE PROPAGAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS PARA O MATERIAL DE PROPAGAÇÃO"
+  },
+  "15ff3f7150a9a596": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os fornecedores só podem comercializar material de propagação que preencha os requisitos da presente directiva.\n\n2. O disposto no n.º 1 não é aplicável ao material de propagação destinado a:\n\na) ensaios ou fins científicos;\n\nb) trabalhos de selecção ou\n\nc) conservação da diversidade genética.\n\n3. As regras de execução do n.º 2 podem ser adoptadas nos termos do artigo 17.º"
+  },
+  "413b3e9824a5424f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Sem prejuízo do disposto nos artigos 1.º e 4.º, o material de propagação, quando comercializado, deve:\n\n— pelo menos com base em inspecções visuais, encontrar-se substancialmente isento de quaisquer organismos prejudiciais que afectem a qualidade ou de quaisquer sinais ou sintomas dos mesmos que reduzam a sua utilidade,\n\n— estar substancialmente isento de quaisquer defeitos que afectem a sua qualidade como material de propagação,\n\n— apresentar vigor e dimensões satisfatórios relativamente à sua utilidade como material de propagação,\n\n— no caso das sementes, ter capacidade germinativa satisfatória,\n\n— se forem comercializados com referência a uma variedade nos termos do artigo 9.º, ter uma identidade e pureza varietais satisfatórias.\n\n2. Todo o material de propagação que, com base em sintomas ou sinais visíveis, não esteja substancialmente isento de organismos prejudiciais, será adequadamente tratado, ou, se necessário, removido.\n\n3. Os materiais de citrinos devem preencher igualmente os seguintes requisitos:\n\na) Ser derivados de materiais iniciais submetidos a controlo, sem sintomas de quaisquer vírus e organismos similares ou doenças;\n\nb) Ter sido submetidos a controlo, encontrando-se substancialmente isentos desses vírus, organismos similares ou doenças desde o início do último ciclo vegetativo, e\n\nc) Em caso de enxertia, ter sido enxertados em porta-enxertos que não os predispostos a viróides.\n\n4. Os bolbos de flores devem preencher também o seguinte requisito:\n\n— o material de propagação deve ser directamente derivado de materiais que, na fase de crescimento da planta, tenham sido submetidos a controlo, encontrando-se substancialmente isentos de quaisquer organismos prejudiciais e doenças e dos sinais ou sintomas destes.\n\n5. Nos termos do artigo 18.º, pode ser elaborada, para um determinado género ou espécie, uma ficha que estabeleça condições adicionais relativas à qualidade a satisfazer pelo material de propagação, quando comercializado. Um género ou uma espécie só será incluído nessa ficha se houver necessidade comprovada dessas regras adicionais. Para determinar essa necessidade, aplicar-se-ão os seguintes critérios:\n\n— existência de problemas relativamente à qualidade do material de propagação da espécie ou género em causa, que só possam ser resolvidos satisfatoriamente através de meios legislativos,\n\n— importância económica do material de propagação da espécie ou género em causa;\n\n— conformidade com quaisquer normas internacionais sobre doenças que não exijam quarentena legal."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "e072b4e3efd37bb6": {
+   "fragment_id": "REQUISITOS PARA OS FORNECEDORES DE MATERIAL DE PROPAGAÇÃO",
+   "type": "divisao",
+   "heading": "REQUISITOS PARA OS FORNECEDORES DE MATERIAL DE PROPAGAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS PARA OS FORNECEDORES DE MATERIAL DE PROPAGAÇÃO"
+  },
+  "805df692f4f61552": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Sem prejuízo do disposto no n.º 2, os fornecedores devem ser oficialmente registados para as actividades que pratiquem nos termos da presente directiva. O organismo oficial responsável pode considerar os fornecedores que já estejam registados ao abrigo da Directiva 77/93/CEE como registados para efeitos da presente directiva. Esses fornecedores devem no entanto cumprir os requisitos da presente directiva.\n\n2. O n.º 1 não é aplicável a fornecedores que vendam apenas a pessoas que não produzam ou vendam plantas ornamentais ou material de propagação a título profissional. Esses fornecedores devem, todavia, cumprir os requisitos da presente directiva."
+  },
+  "b907d5fc5376b104": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os fornecedores que se dediquem à produção de material de propagação devem:\n\n— identificar e controlar os pontos críticos do seu processo de produção que influenciem a qualidade do material,\n\n— conservar informações para exame, a pedido do organismo oficial responsável, sobre os controlos a que se refere o primeiro travessão,\n\n— recolher amostras, sempre que necessário, para análise num laboratório com equipamento e competência adequados,\n\n— garantir que, ao longo da produção, os lotes de material de propagação se mantenham identificáveis separadamente.\n\n2. Se nas instalações de um fornecedor que se dedique à produção de material de propagação, surgir um organismo prejudicial enunciado na Directiva 77/93/CEE ou em quaisquer medidas tomadas ao abrigo do n.º 5 do artigo 5.º, o fornecedor deverá comunicar esse facto ao organismo oficial responsável e aplicar todas as medidas prescritas por aquele organismo.\n\n3. Quando os materiais de propagação forem comercializados, os fornecedores registados deverão conservar os registos das suas vendas ou compras durante pelo menos doze meses.\n\n4. As regras de execução do n.º 1 podem ser adoptadas nos termos do artigo 17.º"
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "fa8313b742013a93": {
+   "fragment_id": "COMERCIALIZAÇÃO E ETIQUETAGEM DO MATERIAL DE PROPAGAÇÃO",
+   "type": "divisao",
+   "heading": "COMERCIALIZAÇÃO E ETIQUETAGEM DO MATERIAL DE PROPAGAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMERCIALIZAÇÃO E ETIQUETAGEM DO MATERIAL DE PROPAGAÇÃO"
+  },
+  "fbe45c7be9253193": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O material de propagação deve ser comercializado em lotes. No entanto, o material de propagação de lotes diferentes pode ser comercializado numa única remessa, desde que o fornecedor conserve registos da composição e da origem dos diferentes lotes.\n\n2. Quando comercializado, o material de propagação deve ser acompanhado de uma etiqueta ou de outro documento redigido pelo fornecedor.\n\n3. Os requisitos relativos à etiqueta ou ao documento referidos no n.º 2 devem ser definidos nos termos do artigo 17.º Em caso de comercialização de material de propagação junto de pessoas que não produzam ou vendam plantas ornamentais ou material de propagação a título profissional, os requisitos de etiquetagem devem-se limitar a uma informação adequada sobre o produto. Os requisitos relativos à embalagem dos materiais de propagação podem ser adoptados segundo o mesmo artigo.\n\n4. O n.º 1 não é aplicável a material de propagação comercializado junto de pessoas que não produzam ou vendam plantas ornamentais ou material de propagação a título profissional."
+  },
+  "7f25585490c05962": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O material de propagação só pode ser comercializado com uma referência a uma variedade, se a variedade em questão for:\n\n— legalmente protegida por um direito de obtenção segundo as disposições relativas à protecção das novas variedades, ou\n\n— oficialmente registada, ou\n\n— do conhecimento comum, ou\n\n— inscrita numa lista mantida por um fornecedor, da qual constem a sua descrição pormenorizada e a sua denominação. Essas listas devem ser elaboradas segundo directrizes internacionais aceites, sempre que estas forem aplicáveis. As listas devem ser facultadas ao organismo oficial responsável do Estado-membro em causa, a seu pedido.\n\n2. Na medida do possível, todas as variedades devem ter a mesma denominação em todos os Estados-membros, segundo medidas de execução que podem ser adoptadas nos termos do artigo 17.º ou, na sua falta, segundo directrizes internacionais aceites.\n\n3. Sempre que for comercializado material de propagação com referência a um grupo de plantas e não a uma variedade como referido no n.º 1, o fornecedor deve indicar o grupo de plantas de forma a evitar qualquer confusão com uma denominação varietal.\n\n4. Podem ser adoptadas disposições de execução adicionais para o quarto travessão do n.º 1, nos termos do artigo 17.º"
+  },
+  "fd1f6efdb97a73cb": {
+   "fragment_id": "TÍTULO VI",
+   "type": "divisao",
+   "heading": "TÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI"
+  },
+  "b0b927ce8d44e7c2": {
+   "fragment_id": "MATERIAL DE PROPAGAÇÃO QUE PREENCHE REQUISITOS MENOS RIGOROSOS",
+   "type": "divisao",
+   "heading": "MATERIAL DE PROPAGAÇÃO QUE PREENCHE REQUISITOS MENOS RIGOROSOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MATERIAL DE PROPAGAÇÃO QUE PREENCHE REQUISITOS MENOS RIGOROSOS"
+  },
+  "e312b23cd5139ddc": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nSe, no fornecimento de material de propagação que preencha os requisitos da presente directiva, surgirem dificuldades temporárias que não possam ser superadas na Comunidade, podem ser adoptadas disposições que sujeitem a comercialização de materiais de propagação a requisitos menos rigorosos, nos termos do artigo 17.º"
+  },
+  "b10288b67f8e014f": {
+   "fragment_id": "TÍTULO VII",
+   "type": "divisao",
+   "heading": "TÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VII"
+  },
+  "4e7a51a526f8b8db": {
+   "fragment_id": "MATERIAL DE PROPAGAÇÃO PRODUZIDO EM PAÍSES TERCEIROS",
+   "type": "divisao",
+   "heading": "MATERIAL DE PROPAGAÇÃO PRODUZIDO EM PAÍSES TERCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MATERIAL DE PROPAGAÇÃO PRODUZIDO EM PAÍSES TERCEIROS"
+  },
+  "6c9a6b3edec25d25": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Nos termos do artigo 17.º, será decidido se os materiais de propagação produzidos num país terceiro oferecem garantias equivalentes, em todos os aspectos, às dos materiais produzidos na Comunidade segundo a presente directiva.\n\n2. Enquanto se aguarda a decisão referida no n.º 1, o material de propagação não pode ser importado de países terceiros, excepto se o importador garantir que o material a importar oferece garantias equivalentes em todos os aspectos às do material de propagação produzido na Comunidade segundo a presente directiva, nomeadamente no que se refere à qualidade, identificação e fitossanidade.\n\n3. O importador notificará os organismos oficiais responsáveis dos materiais importados ao abrigo do n.º 2 e conservará provas documentais do seu contrato com o fornecedor do país terceiro.\n\n4. As medidas de execução relacionadas com o procedimento a seguir e os outros requisitos a preencher pelos importadores podem ser adoptados nos termos do artigo 17.º"
+  },
+  "e1c7c926ca3c4072": {
+   "fragment_id": "TÍTULO VIII",
+   "type": "divisao",
+   "heading": "TÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VIII"
+  },
+  "c0c09316e284b9d1": {
+   "fragment_id": "MEDIDAS DE CONTROLO E DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "MEDIDAS DE CONTROLO E DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS DE CONTROLO E DISPOSIÇÕES GERAIS"
+  },
+  "50a8fa816545576e": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os Estados-membros exigirão que os fornecedores tomem todas as medidas necessárias para garantir o preenchimento dos requisitos da presente directiva. Para o efeito, os Estados-membros assegurarão que o material de propagação seja inspeccionado oficialmente:\n\n— pelo menos através de controlos aleatórios, e\n\n— pelo menos em relação à comercialização junto dos produtores ou vendedores profissionais de plantas ornamentais ou de material de propagação,\n\npara verificação da observância desses requisitos. Os Estados-membros poderão também recolher amostras nesse mesmo intuito. Os organismos oficiais responsáveis terão livre acesso a todas as dependências das instalações do fornecedor a qualquer momento, na medida do razoável, durante o acompanhamento e o controlo.\n\nAté 31 de Dezembro de 2002, a Comissão apresentará ao Conselho um relatório sobre a aplicação das disposições de controlo previstas no presente artigo, bem como quaisquer propostas adequadas, que podem, se necessário, incluir propostas para que os requisitos da presente directiva não abranjam também as vendas a retalho.\n\n2. As regras de execução relativas às inspecções oficiais ao abrigo da presente directiva podem ser adoptadas nos termos do artigo 17.º"
+  },
+  "aad6bb51bab2f4f4": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Se, por ocasião das inspecções oficiais referidas no artigo 12.º ou dos ensaios referidos no artigo 14.º, se verificar que os materiais de propagação não preenchem os requisitos previstos na presente directiva, o organismo oficial responsável assegurará que o fornecedor tome as medidas correctoras adequadas ou, caso isso não seja possível, proibirá a comercialização desses materiais de propagação na Comunidade.\n\n2. Se se verificar que os materiais de propagação comercializados por um determinado fornecedor não preenchem os requisitos previstos na presente directiva, o Estado-membro em causa assegurará que sejam tomadas medidas adequadas em relação a esse fornecedor.\n\n3. As medidas adoptadas ao abrigo do n.º 2 serão levantadas logo que tenha sido estabelecido, com suficiente rigor, que os materiais de propagação destinados a ser comercializados pelo referido fornecedor passarão a preencher os requisitos e condições da presente directiva."
+  },
+  "c30f9a125f917e0e": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Caso seja necessário, os ensaios ou testes devem ser realizados nos Estados-Membros em amostras, a fim de verificar se o material de propagação observa os requisitos e condições, nomeadamente a nível fitossanitário, constantes da presente directiva. A Comissão pode organizar inspecções aos ensaios a efectuar por representantes dos Estados-Membros e da Comissão.\n\n2. Podem ser efectuados na Comunidade ensaios e testes comparativos comunitários para o controlo ulterior de amostras de materiais de propagação ou de plantas ornamentais colocados no mercado ao abrigo das disposições, compulsivas ou facultativas e inclusivamente fitossanitárias, da presente directiva. Os ensaios e testes comparativos podem incluir o seguinte:\n\n— materiais de propagação produzidos em países terceiros,\n\n— materiais de propagação próprios para a agricultura biológica,\n\n— materiais de propagação comercializados no âmbito de medidas destinadas a contribuir para a preservação da diversidade genética.\n\n3. Estes ensaios e testes comparativos devem ser utilizados para harmonizar os métodos técnicos de análise de materiais de propagação de plantas ornamentais e verificar a observância das condições a que esse material deve obedecer.\n\n4. A Comissão, deliberando nos termos do artigo 17.º, toma as disposições necessárias para a realização dos ensaios e testes comparativos. A Comissão deve informar o comité referido no artigo 17.º sobre as disposições técnicas relativas à realização dos ensaios e testes e respectivos resultados. Sempre que surjam problemas em relação aos organismos abrangidos pela Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([^8^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0008)), a Comissão deve notificar o facto ao Comité Fitossanitário Permanente, que deve ser igualmente consultado sobre os protocolos relativos aos ensaios comunitários, sempre que esses ensaios digam respeito a organismos abrangidos pela referida directiva.\n\n5. A Comunidade pode contribuir financeiramente para a realização dos ensaios e testes referidos nos n.^os^ 2 e 3.\n\nA contribuição financeira não deve exceder as dotações anuais estabelecidas pela autoridade orçamental.\n\n6. Os ensaios e testes que podem beneficiar de apoio financeiro da Comunidade, bem como as normas pormenorizadas para a concessão da contribuição financeira, são estabelecidos nos termos do artigo 17.º.\n\n7. Os ensaios e testes previstos nos n.^os^ 2 e 3 apenas podem ser efectuados por autoridades estatais ou por pessoas colectivas agindo sob a responsabilidade do Estado."
+  },
+  "804e05a0e96b12a5": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs Estados-membros poderão, a seu pedido, nos termos do artigo 17.º, e em determinadas condições, ser total ou parcialmente isentos de determinadas obrigações previstas na presente directiva quanto aos tipos de material de propagação de determinados géneros ou espécies cuja produção tenha uma importância económica reduzida no seu território, excepto quando tal seja contrário ao disposto no artigo 15.º"
+  },
+  "54f57143a0397c91": {
+   "fragment_id": "TÍTULO IX",
+   "type": "divisao",
+   "heading": "TÍTULO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IX"
+  },
+  "4704d57040f6a3e5": {
+   "fragment_id": "COMITOLOGIA",
+   "type": "divisao",
+   "heading": "COMITOLOGIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMITOLOGIA"
+  },
+  "002932ab567c53a5": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A Comissão é assistida pelo Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal instituído pelo artigo 58.º, n.º 1, do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0009)). Esse comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0010)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^11^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0011)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "424c03d3cbb3f736": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. A Comissão é assistida pelo Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal instituído pelo artigo 58.º, n.º 1, do Regulamento (CE) n.º 178/2002. Esse comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^12^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#E0012)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "d56623e392b11200": {
+   "fragment_id": "TÍTULO X",
+   "type": "divisao",
+   "heading": "TÍTULO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO X"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "118dfbd2a4c9baec": {
+   "fragment_id": "Prazos de transposição para o direito interno e execução",
+   "type": "divisao",
+   "heading": "Prazos de transposição para o direito interno e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Prazos de transposição para o direito interno e execução\n\n| Directiva | Prazo de transposição | Prazo de execução |\n| --- | --- | --- |\n| 91/682/CEE (JO L 376 de 31. 12. 1991, p. 21 | 31 de Dezembro de 1992 | Artigo 5.º a 11.º, 14.º, 15.º, 17.º, 19.º e 24.º (para todos os géneros e espécies) 31 de Dezembro de 1993 |"
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "b90f7cb51a7ee11c": {
+   "fragment_id": "Quadro de correspondências",
+   "type": "divisao",
+   "heading": "Quadro de correspondências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro de correspondências\n\nPresente directiva Directiva 91/682/CEE\n\nArtigo 1.º Artigos 1.º e 2.º\n\nArtigo 2.º Artigo 3.º\n\nArtigo 3.º Artigo 8.º\n\nArtigo 4.º —\n\nArtigo 5.º Artigo 4.º\n\nArtigo 6.º Artigo 6.º\n\nArtigo 7.º Artigo 5.º\n\nArtigo 8.º Artigos 10.º e 11.º\n\nArtigo 9.º Artigo 9.º\n\nArtigo 10.º Artigo 13.º\n\nArtigo 11.º Artigo 16.º\n\nArtigo 12.º Artigos 17.º e 18.º\n\nArtigo 13.º Artigo 19.º\n\nArtigo 14.º Artigo 20.º\n\nArtigo 15.º Artigo 14.º\n\nArtigo 16.º —\n\nArtigo 17.º Artigo 21.º\n\nArtigo 18.º Artigo 22.º\n\nArtigo 19.º —\n\nArtigo 20.º —\n\nArtigo 21.º —\n\n---"
+  },
+  "fb2e512d7167eeaa": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0001)) JO C 50 de 17. 2. 1998, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0002)) JO C 104 de 6. 4. 1998, p. 40.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0003)) JO C 157 de 25. 5. 1998, p. 3.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0004)) JO L 26 de 31. 1. 1977, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 98/2/CE (JO L 15 de 21. 1. 1998, p. 34).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0005)) JO L 61 de 3. 3. 1997, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 938/97 (JO L 140 de 30. 5. 1997, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0006)) JO L 376 de 31. 12. 1991, p. 21.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0007)) JO L 365 de 31. 12. 1994, p. 10.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0008)) JO L 169 de 10.7.2000, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 806/2003 (JO L 122 de 16.5.2003, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0009)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0010)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0011)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> .\n\n> ([^12^](http://publications.europa.eu/resource/cellar/a1baab1d-14ca-409e-a078-f80715537968.0015.02/DOC_1#src.E0012)) JO L 184 de 17.7.1999, p. 23."
+  }
+ }
+}

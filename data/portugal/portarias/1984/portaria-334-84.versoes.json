@@ -1,0 +1,249 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:384258:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-891338034",
+ "dre_path": "/dr/detalhe/portaria/334-1984-384258",
+ "source_lastmod": "2024-10-17",
+ "versions": [
+  {
+   "date": "1984-06-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890823166"
+   ]
+  },
+  {
+   "date": "1985-12-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:170495:por",
+     "title": "Portaria n.º 900/85",
+     "published": "1985-11-27",
+     "dre_path": "/dr/detalhe/portaria/900-1985-170495"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "890823166",
+    "892297874",
+    "892300717",
+    "892300718",
+    "892300719",
+    "892300737",
+    "892300721",
+    "892300722",
+    "892300723",
+    "892300724",
+    "892300725",
+    "892300726",
+    "892300727",
+    "892300738",
+    "892300729",
+    "892300730",
+    "892300739",
+    "892300732",
+    "892300733",
+    "892300734",
+    "892300735",
+    "892300736"
+   ]
+  }
+ ],
+ "fragments": {
+  "890823166": {
+   "fragment_id": "891338035",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Verificada a conveniência de reunir num só diploma as normas que regulam o funcionamento dos concursos e as condições de promoção dos diversos grupos que constituem o quadro do pessoal militarizado da Marinha de modo a obter uma maior uniformidade de critérios e a introduzir as alterações que a prática revelou aconselháveis, assim como as que resultam da criação da classe dos faroleiros técnicos:\n\nAo abrigo do artigo 15.º do Decreto-Lei n.º 282/76, de 20 de Abril:\n\nManda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:"
+  },
+  "892297874": {
+   "fragment_id": "891338059",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1985-12-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 900/85 - Diário da República n.º 273/1985, Série I de 1985-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/900-1985-170495), em vigor a partir de 1985-12-02"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO pessoal dos grupos que constituem o quadro do pessoal militarizado da Marinha (QPMM) ascende às diversas categorias, através de promoção, pelas seguintes formas:\n\na) Diuturnidade, que consiste no acesso automático à categoria imediata, quando satisfeitas as condições gerais e especiais de promoção;\n\nb) Antiguidade, que consiste no acesso à categoria imediata por ordem de antiguidade na categoria anterior e dentro da respectiva secção, salvo nos casos de preterição, e apenas para o preenchimento de vacaturas no quadro daquela categoria;\n\nc) Escolha, que consiste no acesso à categoria superior, independentemente da posição da escala de antiguidades, tendo em vista a vantagem de acelerar a promoção do pessoal que revele no serviço potenciais aptidões para o desempenho de funções da categoria superior;\n\nd) Concurso, que consiste no acesso à categoria, independentemente da posição ocupada na escala de antiguidades, nos termos estabelecidos nesta portaria, tendo em vista a vantagem de acelerar a promoção dos considerados mais competentes e que ofereçam maior garantia de bom desempenho das respectivas funções.\n\n> Alterado pelo/a [Portaria n.º 900/85 - Diário da República n.º 273/1985, Série I de 1985-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/900-1985-170495), em vigor a partir de 1985-12-02"
+  },
+  "892300717": {
+   "fragment_id": "892300485",
+   "type": 11,
+   "heading": "Artigo 1.º-A",
+   "in_force_from": "1985-12-02",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 900/85 - Diário da República n.º 273/1985, Série I de 1985-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/900-1985-170495), em vigor a partir de 1985-12-02"
+   ],
+   "markdown": "###### Artigo 1.º-A\n\nAs promoções por antiguidade e escolha são efectuadas com doseamento, sequencial de ambas as modalidades de promoção e de acordo com as proporções a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal, privilegiando-se a antiguidade na categoria mais baixa e a escolha na categoria mais elevada.\n\n> Aditado pelo/a [Portaria n.º 900/85 - Diário da República n.º 273/1985, Série I de 1985-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/900-1985-170495), em vigor a partir de 1985-12-02"
+  },
+  "892300718": {
+   "fragment_id": "891338063",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs condições gerais de promoção, comuns a todas as categorias, são as seguintes:\n\na) Bom comportamento;\n\nb) Boas qualidades morais;\n\nc) Qualidades intelectuais e profissionais necessárias para o desempenho das funções da categoria imediata;\n\nd) Aptidão física adequada."
+  },
+  "892300719": {
+   "fragment_id": "891338064",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\na) A verificação das condições gerais de promoção referidas nas alíneas a), b) e c) do número anterior pertence, em primeira análise, ao chefe da 6.ª Repartição da Direcção do Serviço do Pessoal (DSP-6). Nos casos em que o chefe da DSP-6 considere que não são satisfeitas aquelas condições ou tenha dúvidas sobre essa satisfação, deverá o assunto ser presente ao director do Serviço do Pessoal;\n\nb) A verificação das condições gerais de promoção da alínea anterior baseia-se na apreciação dos seguintes elementos:\n\ni) Avaliações periódicas;\n\nii) Registo disciplinar;\n\niii) Outros elementos de apreciação;\n\nc) A verificação da condição geral de promoção referida na alínea d) do número anterior deverá ser feita:\n\ni) Nas promoções por diuturnidade e por antiguidade, pelo médico do respectivo comando, unidade ou serviço ou por competente junta médica, quando aquele o considerar necessário;\n\nii) Nas promoções por concurso, por competente junta médica;\n\niii) Nas situações de doente em casa, hospitalizado ou com licença da junta é sempre feita nas condições referidas na subalínea anterior."
+  },
+  "892300737": {
+   "fragment_id": "891338067",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1985-12-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 900/85 - Diário da República n.º 273/1985, Série I de 1985-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/900-1985-170495), em vigor a partir de 1985-12-02"
+   ],
+   "markdown": "###### Artigo 4.º\n\nAs condições especiais de promoção verificadas pela DSP-6 são as seguintes:\n\nNos grupos 1, 2 e 3:\n\na) Para guarda de 3.ª classe:\n\ni) Ter, pelo menos, 1 ano de serviço efectivo na categoria de guarda auxiliar;\n\nii) Ter obtido aprovação no curso geral de formação técnico-profissional a frequentar pelos guardas auxiliares após a sua admissão, obedecendo o seu escalonamento na nova categoria à ordem de classificação nele obtida;\n\nb) Para guarda de 2.ª classe:\n\nTer 4 anos de serviço efectivo na categoria de guarda de 3.ª classe;\n\nc) Para agente de 2.ª classe:\n\ni) Ter 4 anos de serviço efectivo na categoria de agente de 3.ª classe;\n\nii) Ter obtido aprovação no curso geral de formação técnico-profissional a frequentar pelos agentes de 3.ª classe após a admissão, obedecendo o seu escalonamento na nova categoria à ordem de classificação nele obtida;\n\nd) Para agente, guarda e cabo-de-mar de 1.ª classe\n\nTer, pelo menos, 1 ano de serviço efectivo na categoria imediatamente inferior;\n\ne) Para subchefe e cabo-de-mar-subchefe:\n\ni) Ter, pelo menos, 2 anos de serviço efectivo na categoria imediatamente inferior;\n\nii) Ter obtido aprovação no curso complementar de formação técnico-profissional a frequentar pelos agentes, guardas e cabos-de-mar de 1.ª classe;\n\nf) Para chefe e cabo-de-mar-chefe:\n\ni)Ter, pelo menos, 2 anos de serviço efectivo na categoria de subchefe e cabo-de-mar-subchefe;\n\nii) Ter perfil psicológico adequado a funções de chefia, a ser avaliado em provas, durante o processo de promoção.\n\ng) Para subinspector:\n\nTer categoria de chefe, com qualquer tempo de serviço efectivo nesta categoria, ou ser subchefe, com as condições especiais de promoção imediata;\n\nh) Para inspector:\n\nTer a categoria de subinspector ou chefe, com qualquer tempo de serviço efectivo nestas categorias;\n\nNo grupo 4:\n\na) Para sota-patrão de costa de 2.ª classe, maquinista de 3.ª classe e electricista de 3.ª classe:\n\ni) Ter, pelo menos, 2 anos de serviço efectivo nas categorias de ajudante de manobra, ajudante de maquinista e ajudante de electricista, respectivamente;\n\nii) Ter obtido aprovação no curso geral de formação técnico-profissional da respectiva classe, a frequentar nas categorias de ajudante de manobra, ajudante de maquinista e ajudante de electricista, respectivamente;\n\nb) Para sota-patrão de costa de 1.ª classe, maquinista de 2.ª classe e electricista de 2.ª classe:\n\nTer 4 anos de serviço efectivo nas categorias de sota-patrão de costa de 2.ª classe, maquinista de 3.ª classe e electricista de 3.ª classe, respectivamente;\n\nc) Para patrão de costa, maquinista de 1.ª classe e electricista de 1.ª classe:\n\ni) Ter, pelo menos, 1 ano de serviço efectivo nas categorias de sota-patrão de costa de 1.ª classe, maquinista de 2.ª classe e electricista de 2.ª classe, respectivamente;\n\nii) Ter obtido aprovação no curso complementar de formação técnico-profissional da respectiva classe, a frequentar nas categorias de sota-patrão de costa de 1.ª classe ou de 2.ª classe, maquinista de 2.ª classe ou de 3.ª classe e electricista de 2.ª ou 3.ª classe, respectivamente;\n\nd) Para cabo da ponte, maquinista-chefe e electricista-chefe:\n\nTer, pelo menos, 2 anos de serviço efectivo nas categorias de patrão de costa, maquinista de 1.ª classe e electricista de 1.ª classe, respectivamente;\n\nNo grupo 5:\n\na) Para prático de 1.ª classe:\n\nTer, pelo menos, 1 ano de serviço efectivo na categoria de prático de 2.ª classe;\n\nb) Para prático-mor:\n\nTer, pelo menos, 2 anos de serviço efectivo na categoria de prático de 1.ª classe;\n\nNo grupo 6:\n\na) Para promoção a faroleiro de 3.ª classe:\n\ni) Ter, pelo menos, 1 ano de serviço efectivo na categoria de faroleiro auxiliar;\n\nii) Ter obtido aprovação no curso geral de faroleiro;\n\niii) Ter cumprido, como faroleiro auxiliar, o tirocínio de 1 ano de serviço em faróis vigiados ou numa central de faróis;\n\nb) Para promoção a faroleiro de 2.ª classe:\n\nTer 4 anos de serviço efectivo na categoria de faroleiro de 3.ª classe;\n\nc) Para promoção a faroleiro de 1.ª classe:\n\ni) Ter, pelo menos, 1 ano de serviço efectivo na categoria de faroleiro de 2.ª classe;\n\nii) Ter cumprido, como faroleiro de 3.ª classe e de 2.ª classe, o tirocínio de 4 anos de serviço em faróis vigiados ou numa central de faróis;\n\nd) Para promoção a faroleiro-subchefe:\n\ni) Ter, pelo menos, 2 anos de serviço efectivo na categoria de faroleiro de 1.ª classe;\n\nii) Ter obtido aprovação no curso complementar de faroleiro;\n\niii) Ter cumprido, como faroleiro de 1.ª classe, o tirocínio de 1 ano de serviço em faróis vigiados, na balisagem de um porto, numa central de faróis ou ainda nas oficinas da Direcção de Faróis;\n\ne) Para promoção a faroleiro técnico-subchefe:\n\nTer, pelo menos, 2 anos de serviço efectivo na categoria de faroleiro técnico de 1.ª classe;\n\nf) Para promoção a faroleiro-chefe:\n\ni) Ter, pelo menos, 1 ano de serviço na categoria de faroleiro-subchefe;\n\nii) Ter cumprido, na categoria de faroleiro-subchefe, o tirocínio de 1 ano de serviço numa das seguintes situações:\n\n1.ª Numa central de faróis ou na chefia de um farol vigiado;\n\n2.ª Na chefia de uma balisagem que, por lotação, deva ser chefiada por um faroleiro-subchefe;\n\n3.ª Na chefia de uma oficina do Serviço de Assistência Oficinal da Direcção de Faróis;\n\ng) Para promoção a faroleiro técnico-chefe:\n\nTer, pelo menos, 2 anos de serviço efectivo na categoria de faroleiro técnico-subchefe.\n\n> Alterado pelo/a [Portaria n.º 900/85 - Diário da República n.º 273/1985, Série I de 1985-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/900-1985-170495), em vigor a partir de 1985-12-02"
+  },
+  "892300721": {
+   "fragment_id": "891338068",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\na) São preteridos na promoção todos os funcionários militarizados que não satisfaçam a uma ou mais condições gerais ou especiais de promoção;\n\nb) A situação de preterição terminará quando cessarem os motivos que a determinaram, salvo se da mesma resultar outro procedimento que, de acordo com o determinado nesta portaria e demais legislação em vigor, seja impeditivo da promoção."
+  },
+  "892300722": {
+   "fragment_id": "891338069",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\na) Quando se verifique que a não satisfação das condições gerais de promoção referidas nas alíneas a) e b) do n.º 2 é originada por factos que ponham em causa a disciplina e a eficiência dos serviços, poderá o director do Serviço do Pessoal propor superiormente que seja aplicado:\n\ni) Ao pessoal de categorias equiparadas a segundo-sargento ou superior, procedimento com vista ao determinado no artigo 134.º, alínea d), do Regulamento de Disciplina Militar;\n\nii) Ao pessoal de categorias equiparadas a cabo ou inferior, procedimento com vista à denúncia do contrato de provimento, nos termos da legislação em vigor para esta forma de provimento;\n\nb) A não satisfação da condição da alínea c) do citado n.º 2.º, durante a permanência em categorias equiparadas a cabo ou inferior, implica a denúncia do respectivo contrato, em condições idênticas às da subalínea anterior."
+  },
+  "892300723": {
+   "fragment_id": "891338070",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\na) Conta-se como tempo de serviço efectivo na categoria todo o tempo de permanência da mesma, com exclusão dos períodos relativos às situações seguintes:\n\ni) Licença ilimitada;\n\nii) Licença registada;\n\niii) Ausência ilegítima;\n\niv) Cumprimentos de penas que impliquem suspensão de funções;\n\nb) Não são igualmente computados como serviço efectivo, relativamente aos impedimentos por motivo de doença ou licença das juntas, os períodos para além de 12 meses, salvo quando se trate de casos de tuberculose ou de doença adquirida em serviço ou por motivo do mesmo;\n\nc) Nos casos em que se verifiquem intervalos nos impedimentos referidos na alínea anterior, para a determinação da sua extensão, são contados todos os períodos consecutivos cujos intervalos sejam inferiores a 30 dias."
+  },
+  "892300724": {
+   "fragment_id": "891338071",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO almirante Chefe do Estado-Maior da Armada pode, por despacho fundamentado e publicado na Ordem da Direcção do Serviço do Pessoal, 6.ª série - OP6, dispensar uma só vez das condições especiais de promoção, que não sejam tempo de serviço efectivo na categoria, qualquer funcionário militarizado que, por conveniência excepcional do serviço, seja impedido de as realizar."
+  },
+  "892300725": {
+   "fragment_id": "891338072",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs cursos geral e complementar referidos no n.º 4.º, bem como outros cursos e instruções que venham a ser considerados necessários à formação técnico-profissional, serão estabelecidos por despacho do almirante Chefe do Estado-Maior da Armada, que definirá, entre outros, os seguintes aspectos:\n\na) Planos de curso e entidades que os aprovam e promulgam;\n\nb) Organismos que ministram os cursos e instruções;\n\nc) Funcionários militarizados a que se destinam."
+  },
+  "892300726": {
+   "fragment_id": "891338073",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\na) É da competência do chefe da DSP-6 propor ao director do Serviço do Pessoal os quantitativos e datas dos respectivos cursos e instruções, de acordo com as necessidades de serviço, e fazer as respectivas nomeações;\n\nb) É facultado aos funcionários militarizados manifestarem, antes da sua nomeação para os cursos que constituam condição especial de promoção, mediante declaração dirigida ao chefe da DSP-6, a sua desistência da frequência dos mesmos ou desejo de os adiarem até à realização dos cursos seguintes, sujeitando-se em ambos os casos aos prejuízos que possam advir para a sua carreira profissional. Este adiamento só poderá ser concedido por uma vez e exclui a possibilidade de repetição do curso por falta de aproveitamento;\n\nc) Os funcionários militarizados podem, por falta de aproveitamento, repetir uma vez os cursos indicados na alínea b), devendo, porém, esta repetição ser autorizada pelo director do Serviço do Pessoal unicamente em casos excepcionais, em que se verifique reconhecido interesse para o serviço e mediante proposta fundamentada do chefe da DSP-6;\n\nd) A reprovação definitiva no curso geral de formação técnico-profissional conduz à imediata rescisão do contrato de provimento, nos termos da legislação aplicável."
+  },
+  "892300727": {
+   "fragment_id": "891338074",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\na) Os concursos são todos documentais e válidos por um período não inferior ao correspondente ao ano civil da data da publicação na OP6 da lista dos candidatos aprovados, exceptuando-se:\n\ni) Os concursos para inspector, cabo da ponte, maquinista-chefe, electricista-chefe, prático-mor e faroleiro-chefe, que são válidos apenas para o preenchimento das vagas existente à data da publicação na OP6 da lista dos candidatos aprovados;\n\nii) Os concursos para o grupo 6, faroleiros, que se destinam aos faroleiros da secção onde as vagas se situam, podendo ser extensivos aos faroleiros de outras secções quando as necessidades do serviço o justificarem;\n\nb) As normas relativas à abertura dos concursos de promoção são as seguintes:\n\ni) Os concursos são abertos na DSP-6 mediante aviso publicado na OP6;\n\nii) Os candidatos devem enviar à DSP-6 um requerimento, em papel selado, dirigido ao director do Serviço do Pessoal, solicitando a admissão ao concurso e do qual constem o nome, a categoria, o organismo onde prestem serviço e a categoria a que pretendem concorrer;\n\niii) Os candidatos poderão juntar aos requerimentos quaisquer documentos comprovativos da habilitação possuída e que não constem dos seus processos individuais;\n\nc) Só serão admitidos a concurso os candidatos que satisfaçam às condições gerais de promoção, com excepção da referida na alínea d) do n.º 2.º, e às condições especiais de promoção referentes à categoria a que o concurso se destina."
+  },
+  "892300738": {
+   "fragment_id": "891537075",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1985-12-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 900/85 - Diário da República n.º 273/1985, Série I de 1985-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/900-1985-170495), em vigor a partir de 1985-12-02"
+   ],
+   "markdown": "###### Artigo 12.º\n\na) A constituição dos júris dos concursos obedecerá às seguintes regras:\n\nGrupos 1 e 3:\n\ni) Na promoção a chefe:\n\nPresidente-Chefe da DSP-6;\n\n1.º vogal - Um dos oficiais adjuntos da Capitania do Porto de Lisboa;\n\n2.º vogal - Inspector da Polícia Marítima;\n\nii) Na promoção a inspector e subinspector:\n\nPresidente-Director do Serviço de Pessoal;\n\nVogais:\n\nChefe da DSP-6;\n\nO mais antigo dos chefes dos departamentos marítimos do continente;\n\nGrupo 2:\n\ni) Na promoção a guarda de 3.ª classe e a chefe:\n\nPresidente-Chefe da DSP-6;\n\n1.º vogal - Chefe do Serviço de Segurança da BNL;\n\n2.º vogal - Inspector da Polícia dos Estabelecimentos de Marinha;\n\nii) Na promoção a inspector e subinspector:\n\nPresidente-Director de Serviço do Pessoal;\n\nVogais:\n\nChefe da DSP-6;\n\nSegundo-comandante da BNL;\n\nGrupo 4:\n\ni) Nas promoções da classe de manobra:\n\nPresidente-Chefe da DSP-6;\n\n1.º vogal - Chefe do Serviço Portuário e de Transportes (SPT) da BNL;\n\n2.º vogal - O cabo da ponte mais antigo;\n\nii) Nas promoções da classe de máquinas:\n\nPresidente-Chefe da DSP-6;\n\n1.º vogal - Chefe do Serviço de Assistência Oficial (SAO) da BNL;\n\n2.º vogal - O maquinista-chefe mais antigo;\n\niii) Nas promoções da classe de electricista:\n\nPresidente-Chefe da DSP-6;\n\n1.º vogal - Chefe do Serviço de Assistência Oficial (SAO) da BNL;\n\n2.º vogal - O electricista-chefe;\n\nGrupo 5:\n\nPresidente-Chefe do Departamento Marítimo do Sul;\n\n1.º vogal - O mais antigo dos capitães dos portos do Departamento Marítimo do Sul;\n\n2.º vogal - O mais antigo dos comandantes das unidades navais atribuídas ao Departamento Ma-Marítimo do Sul;\n\nGrupo 6:\n\nPresidente-Chefe da DSP-6;\n\n1.º vogal - Director de faróis ou subdirector, nos casos em que o director seja mais antigo ou graduado que o presidente;\n\n2.º vogal - Faroleiro-chefe mais antigo;\n\nb) Os júris serão secretariados por um oficial do quadro do pessoal civil de Marinha (QPCM) em serviço na DSP-6, à excepção do júri do grupo 5, que será secretariado por um oficial do QPCM em serviço na Capitania do Porto de Faro;\n\nc) Quando se verificar o impedimento de qualquer dos membros dos júris, estes serão substituídos pelas entidades que à data se encontrarem a desempenhar as respectivas funções.\n\n> Alterado pelo/a [Portaria n.º 900/85 - Diário da República n.º 273/1985, Série I de 1985-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/900-1985-170495), em vigor a partir de 1985-12-02"
+  },
+  "892300729": {
+   "fragment_id": "891537076",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs júris farão o ordenamento final dos candidatos de acordo com o critério previamente definido entre os seus membros, baseado nos elementos de apreciação a seguir indicados:\n\na) Registo disciplinar;\n\nb) Avaliações periódicas;\n\nc) Classificações obtidas nos cursos frequentados;\n\nd) Tempo de serviço efectivo prestado nas diversas categorias;\n\ne) Outros elementos de apreciação, nomeadamente aqueles a que se refere o disposto no n.º 11.º, alínea b, subalínea iii)."
+  },
+  "892300730": {
+   "fragment_id": "891537077",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\na) Na altura em que competir a promoção por concurso a funcionários militarizados, estes deverão satisfazer à condição geral de promoção referida na alínea d) do n.º 2.º desta portaria e não ter nos seus registos criminal e disciplinar penas que, pelos seus efeitos, sejam impeditivas de promoção;\n\nb) Nas promoções por concurso, o prazo para tomada de posse será de 30 dias, contados a partir da data da publicação do provimento no Diário da República;\n\nc) Este prazo poderá ser prorrogado até ao máximo de 90 dias, por motivos ponderosos devidamente comprovados, por despacho do almirante Chefe do Estado-Maior da Armada;\n\nd) Caso não tome posse nos prazos previstos nas alíneas anteriores, considera-se como tendo desistido da promoção abrangida pelo concurso."
+  },
+  "892300739": {
+   "fragment_id": "891537078",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1985-12-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 900/85 - Diário da República n.º 273/1985, Série I de 1985-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/900-1985-170495), em vigor a partir de 1985-12-02"
+   ],
+   "markdown": "###### Artigo 15.º\n\na) Nas promoções em que é condição especial a aprovação nos cursos geral ou complementar de formação técnico-profissional, enquanto não houver pessoal com eles habilitados, serão os referidos cursos substituídos por um exame a realizar nas seguintes condições:\n\n1) Em data nunca inferior a 15 dias, após o termo do prazo de admissão aos cursos de promoção;\n\n2) Anualmente, para o pessoal que dele necessite para eventual promoção por antiguidade ou escolha;\n\nb) Os júris dos concursos de promoção referidos na alínea anterior ou a entidade que deverá ministrar o curso complementar, no caso das promoções por antiguidade ou escolha, têm a seu cargo a realização dos exames referidos, elaboração das provas e classificações;\n\nc) Os exames, constando de provas escritas e orais sobre matérias indicadas previamente, podem ser repetidos uma única vez, em caso de reconhecido interesse para o serviço, por requerimento autorizado pelo almirante DSP;\n\nd) A aprovação no exame referido na alínea anterior terá validade para todas as promoções a realizar posteriormente;\n\ne) Sempre que, nas circunstâncias da alínea a) deste número, haja que realizar novos exames, os candidatos já aprovados em exames anteriores podem apresentar-se facultativamente a esses novos exames com vista à melhoria da sua classificação e com a salvaguarda da classificação anterior quando tal melhoria não se verifique.\n\n> Alterado pelo/a [Portaria n.º 900/85 - Diário da República n.º 273/1985, Série I de 1985-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/900-1985-170495), em vigor a partir de 1985-12-02"
+  },
+  "892300732": {
+   "fragment_id": "891537079",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nSão dispensados da frequência do curso complementar de formação técnico-profissional os sota-patrões de 1.ª classe ou de 2.ª classe, os maquinistas e electricistas de 2.ª classe promovidos a estas categorias até 16 de Janeiro de 1979."
+  },
+  "892300733": {
+   "fragment_id": "891537080",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nEnquanto não for possível a frequência, em tempo oportuno, do curso complementar de formação técnico-profissional previsto nas condições especiais de promoção às categorias de patrão de costa, maquinista de 1.ª classe e electricista de 1.ª classe, essa condição fica temporariamente suspensa."
+  },
+  "892300734": {
+   "fragment_id": "891537081",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nQuando não existam faroleiros-subchefes que satisfaçam às condições especiais de promoção para o preenchimento das vagas existentes na categoria de faroleiro-chefe, os concursos para está categoria poderão ser abertos, conjuntamente, entre os faroleiros-subchefes sem as referidas condições e os faroleiros de 1.ª classe situados no terço superior dos efectivos da categoria que reúnem as condições de promoção à categoria imediata.\n\nPara todos os candidatos é exigido, porém, terem obtido aprovação no curso complementar de faroleiro."
+  },
+  "892300735": {
+   "fragment_id": "891537082",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nFicam revogadas as seguintes portarias:\n\nPortaria n.º 594/77, de 20 de Setembro.\n\nPortaria n.º 604/77, de 22 de Setembro.\n\nPortaria n.º 610/77, de 22 de Setembro.\n\nPortaria n.º 20/79, de 16 de Janeiro.\n\nPortaria n.º 932/80, de 5 de Novembro.\n\nPortaria n.º 444/82, de 30 de Abril.\n\nPortaria n.º 445/82, de 30 de Abril.\n\nPortaria n.º 446/82, de 30 de Abril.\n\nPortaria n.º 447/82, de 30 de Abril.\n\nPortaria n.º 760/82, de 6 de Agosto."
+  },
+  "892300736": {
+   "fragment_id": "891338036",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Defesa Nacional.\n\nAssinada em 15 de Maio de 1984.\n\nO Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto."
+  }
+ }
+}

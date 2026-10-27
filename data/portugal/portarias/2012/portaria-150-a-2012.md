@@ -1,0 +1,389 @@
+---
+schema_version: '1.0'
+id: pt:dre:629786:por
+title: Portaria n.º 150-A/2012
+short_title: null
+summary: Define os procedimentos necessários à execução da Lei n.º 63-A/2008, de 24 de novembro, no âmbito de operações de
+  capitalização de instituições de crédito com recurso a investimento público
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 150-A/2012
+official_date: null
+publication_date: '2012-05-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 96/2012, 1º Suplemento, Série I de 2012-05-17
+  number: '96'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2592-(2) a 2592-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09601/0000200006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2014-07-13'
+version_history:
+  file: portaria-150-a-2012.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-05-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-22'
+    amending: pt:dre:448164:por
+    amending_title: Portaria n.º 421-A/2012
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 14.º
+  - date: '2014-07-13'
+    amending: pt:dre:25345645:por
+    amending_title: Portaria n.º 140/2014
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/150-a/2012/p/cons/20140708/pt/html
+  oj: null
+  dre: '629786'
+  dre_path: /dr/detalhe/portaria/150-a-2012-629786
+  internal: pt:dre:629786:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-a-2012-629786
+  metadata_url: https://data.dre.pt/eli/port/150-a/2012/p/cons/20140708/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-853406122
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-853406122
+  retrieved_at: '2026-10-22T13:03:12Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d8f8347b3c49dd45d4915f405bf600b61669553be580f466bd86176ce45ad9b7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:03:12Z'
+  notes: 3 versão(ões); histórico completo em portaria-150-a-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Instituição de Crédito
+- Capital Social
+- Pessoal Dirigente
+- Gestão Financeira
+- Fiscalização
+- Banco de Portugal
+- Investimento Público
+- Operação de Capitalização
+- Participação do Estado
+- Setor Privado
+- Setor Público
+relationships:
+- type: amended_by
+  target: pt:dre:448164:por
+  label: Altera Artigo 3.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/421-a-2012-448164
+  date: '2012-12-21'
+- type: amended_by
+  target: pt:dre:25345645:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645
+  date: '2014-07-08'
+- type: cites
+  target: pt:dre:207267:por
+  label: null
+  source: http://data.dre.pt/eli/port/493-a/2009/05/08/p/dre
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: pt:dre:444391:por
+  label: null
+  source: http://data.dre.pt/eli/lei/63-a/2008/11/24/p/dre
+- type: cites
+  target: pt:dre:477151:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2012/01/11/p/dre
+- type: cites
+  target: pt:dre:520193:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/104/2007/04/03/p/dre
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
+- type: cites
+  target: pt:dre:669328:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/88/2011/07/20/p/dre
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:03:12Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 150-A/2012
+
+Portaria n.º 150-A/2012
+
+de 17 de maio
+
+A presente portaria vem regulamentar os procedimentos necessários à execução da Lei n.º 63-A/2008, de 24 de novembro, alterada pelas Leis n.º 3-B/2010, de 28 de abril, e 55-A/2010, de 31 de dezembro, e alterada e republicada pela Lei n.º 4/2012, de 11 de janeiro, com vista a reforçar os mecanismos de recapitalização das instituições financeiras, cuja estabilidade importa acautelar, em particular no atual quadro de crise sistémica, económica e financeira, que se abateu sobre a área do Euro.
+
+Esta portaria dedica particular atenção às regras de remuneração dos capitais públicos investidos nas instituições de crédito beneficiárias de operações de recapitalização.
+
+Nessa medida, tendo presentes as orientações constantes da Comunicação 2009/C/10/03, assim como da Comunicação 2011/C/356/02, da Comissão Europeia, sobre a aplicação, a partir de 1 de Janeiro de 2012, das regras em matéria de auxílios estatais às medidas de apoio aos bancos no contexto da crise financeira, a portaria estabelece critérios exigentes no que respeita à remuneração do investimento público. Pretende-se assim, com a observância daquelas regras, não apenas evitar a distorção das condições de concorrência no acesso às condições de financiamento por parte das instituições de crédito recapitalizadas em face das demais, que não necessitaram de recorrer à recapitalização pelo Estado, como também, e sobretudo, garantir uma adequada remuneração do investimento público, tendo em vista assegurar a proteção dos contribuintes, titulares últimos dos dinheiros públicos aplicados nestas operações de recapitalização.
+
+Por outro lado, procede-se à densificação dos requisitos exigidos aos planos de recapitalização a apresentar pelas instituições de crédito que pretendam aceder a investimento público desta natureza, dos quais sobressaem, entre outros, a descrição da estratégia de gestão a adotar pela instituição durante o decurso do prazo estimado para o investimento público, em particular no que se refere ao contributo da instituição de crédito para o financiamento da economia, nomeadamente das famílias e das pequenas e médias empresas, sobretudo no âmbito dos sectores de bens e serviços transacionáveis.
+
+Finalmente, definem-se também regras exigentes no que respeita às políticas de remuneração dos titulares dos órgãos sociais das instituições de crédito recapitalizadas e, bem assim, no que se refere à distribuição de dividendos aos seus acionistas. Nesta medida, estabelece-se claramente que as remunerações dos titulares dos órgãos sociais das instituições recapitalizadas, durante o período de duração dessa intervenção, devem sofrer limites que incidem tanto sobre a componente fixa, como sobre a variável, de tal forma que o seu cômputo global não ultrapasse 50 % da respetiva remuneração média auferida nos dois anos anteriores ou, se superior, o valor da remuneração em vigor em instituições de crédito públicas.
+
+Já no que concerne à distribuição de dividendos, e com vista a garantir a efetiva concretização do dividendo prioritário de que o Estado é titular, determina-se que, havendo montantes distribuíveis gerados no exercício, e ainda que seja deliberada a sua não distribuição, a remuneração da participação do Estado não pode ser inferior, em qualquer caso, àquela que lhe seria atribuída, na proporção da sua participação, caso fosse deliberada a distribuição de 30 % do total dos montantes distribuíveis gerados no exercício, salvo se daí resultar o incumprimento dos níveis mínimos de fundos próprios, designadamente de Core Tier 1.
+
+Foram ouvidos o Banco Central Europeu, o Banco de Portugal, a Comissão de Mercado de Valores Mobiliários e a Associação Portuguesa de Bancos.
+
+Assim:
+
+Manda o Governo, pelo Ministro de Estado e das Finanças, ao abrigo do disposto no n.º 9 do artigo 4.º, no n.º 5 do artigo 4.º-A e no artigo 23.º da Lei n.º 63-A/2008, de 24 de novembro, alterada pelas Leis n.os 3-B/2010, de 28 de abril, e 55-A/2010, de 31 de dezembro, alterada e republicada pela Lei n.º 4/2012, de 11 de janeiro, o seguinte:
+
+> Nota: [Artigo 21.º, Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645) O regime previsto na portaria n.º 140/2014, de 8 de julho não é aplicável às operações de recapitalização em curso, que continuam a reger-se pela presente portaria.
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à definição dos procedimentos necessários à execução da Lei n.º 63-A/2008, no âmbito de operações de capitalização de instituições de crédito com recurso a investimento público, designadamente quanto aos termos e condições do investimento e do desinvestimento públicos, incluindo os critérios aplicáveis à sua remuneração, aos termos e elementos adicionais do plano de recapitalização e ao limiar a partir do qual o Estado pode exercer os direitos de voto inerentes à sua participação.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 2.º — Plano de recapitalização
+
+1 - O plano de recapitalização a que se refere o artigo 12.º da Lei n.º 63-A/2008 consta de proposta concreta e devidamente fundamentada, a apresentar pela instituição de crédito ao Banco de Portugal.
+
+2 - Para além do disposto nos artigos 9.º e 12.º da Lei n.º 63-A/2008, o plano referido no número anterior deve conter, pelo menos, os seguintes elementos:
+
+a) Informação geral sobre a instituição, incluindo, designadamente, estrutura acionista, organização interna, modelo de negócio, mercados relevantes onde atua, implantação geográfica e estrutura do grupo onde se insere;
+
+b) Descrição e análise dos motivos que levaram à necessidade de apresentação de um pedido de capitalização pública, incluindo as medidas tomadas ou propostas pela instituição de crédito com vista a minimizar a necessidade de recurso a capitais públicos;
+
+c) Demonstração da necessidade de reforço de fundos próprios com a descrição atualizada da situação financeira da instituição da qual conste, nomeadamente, a avaliação dos riscos de curto e médio prazos associados a essa situação, bem como a apresentação de uma análise prospetiva da situação financeira da instituição no caso de não ser concretizada a operação de capitalização pública;
+
+d) Descrição das características dos instrumentos financeiros a emitir no âmbito da operação de capitalização que permitam verificar os critérios de elegibilidade para fundos próprios Core Tier 1 aprovados, no âmbito do regime prudencial em vigor, pelo Banco de Portugal;
+
+e) Descrição da estratégia de gestão a adotar pela instituição durante o decurso do prazo estimado para o investimento público, em particular no que se refere ao contributo da instituição de crédito para o financiamento da economia, nomeadamente das famílias e das pequenas e médias empresas, sobretudo no âmbito dos sectores de bens e serviços transacionáveis;
+
+f) Descrição das medidas adotadas ou a adotar, neste último caso mediante apresentação do calendário de implementação, tendo em vista o reforço do sistema de governo societário, em particular através da designação de administradores independentes, e dos mecanismos de gestão e controlo de riscos, bem como dos planos de redução de custos estruturais;
+
+g) Descrição da política de distribuição de dividendos e de remuneração dos titulares dos órgãos de administração e fiscalização e das pessoas que exerçam cargos de direção, gerência, chefia ou similares para o período previsível do investimento público, identificando as eventuais alterações face à prática em vigor;
+
+h) Apresentação da duração estimada para o investimento público, de dados demonstrativos do reequilíbrio financeiro futuro da instituição e do plano para a concretização do desinvestimento que preveja a sua amortização ou substituição por instrumentos financeiros elegíveis para o cálculo de fundos próprios de qualidade igual ou superior, tendo em conta a evolução da atividade dos mercados em cenário de base e em cenário adverso;
+
+i) Identificação do contributo de outras entidades, designadamente dos acionistas, para o reforço dos fundos próprios Core Tier 1, incluindo uma descrição do modo e montante desse contributo;
+
+j) Declaração da instituição que autorize o Banco de Portugal a proceder ao envio ao membro do Governo responsável pela área das finanças de todos os elementos, que tenham sido apresentados pela mesma ou que se encontrem na posse do Banco de Portugal, que se mostrem necessários à apreciação do pedido ou à elaboração dos relatórios de acompanhamento e fiscalização, previstos no artigo 18.º da Lei n.º 63-A/2008;
+
+l) Demonstração de que o conselho de administração se encontra habilitado a assumir os compromissos necessários no âmbito do plano, designadamente para corrigir eventuais desvios pontuais relativamente a elementos relevantes do plano e à atualização do mesmo no que refere às condições do desinvestimento público;
+
+m) Cópia das atas com as deliberações previstas, quando aplicável, no n.º 2 do artigo 9.º da Lei n.º 63-A/2008.
+
+3 - O Banco de Portugal pode definir, através de instrução, um modelo para os elementos que o plano de recapitalização deve conter, o qual deve ser seguido pela instituição de crédito requerente.
+
+4 - O modelo de plano de recapitalização aprovado pelo Banco de Portugal nos termos do número anterior pode prever elementos de informação adicionais relativamente ao disposto no presente artigo.
+
+5 - O despacho a proferir pelo membro do Governo responsável pela área das finanças, nos termos previstos no artigo 13.º da Lei n.º 63-A/2008, deve ter em conta as regras comunitárias aplicáveis em matéria de auxílios de Estado, conforme resulta do disposto no n.º 1 do artigo 12.º do mesmo diploma, devendo o plano de recapitalização ser comunicado às autoridades comunitárias competentes.
+
+6 - As instituições de crédito deverão ainda submeter, ao membro do Governo responsável pela área das finanças, um plano de reestruturação com a antecedência que permita o envio do mesmo às autoridades comunitárias competentes nos 6 meses subsequentes à aprovação do despacho previsto no artigo 13.º da Lei n.º 63-A/2008.
+
+7 - Na proposta de decisão prevista no artigo 12.º, n.º 2, da Lei n.º 63-A/2008, e sem prejuízo do disposto no n.º 3 do mesmo artigo, o Banco de Portugal deverá enunciar as razões que demonstrem a viabilidade da instituição de crédito beneficiária, pronunciando-se igualmente sobre as previsões de retorno do investimento público e sobre as condições da sua adequada remuneração, tendo em vista uma adequada proteção dos interesses dos contribuintes.
+
+8 - À informação contida nos planos de recapitalização apresentados pelas instituições de crédito ao Banco de Portugal, nos termos referidos no presente artigo, é garantida proteção adequada com vista a salvaguardar a respetiva confidencialidade.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 3.º — Limiar para exercício de direitos de voto
+
+1 - Para efeitos do disposto no n.º 9 do artigo 4.º da Lei n.º 63 -A/2008, quando o montante de capital realizado pelo Estado ultrapasse metade do total de capital da instituição nos termos definidos no n.º 2, pode o Estado exercer na sua plenitude os direitos de voto inerentes às ações representativas do capital realizado que exceda aquele limiar.
+
+2 - O capital da instituição beneficiária é calculado através da soma algébrica do valor de balanço do capital social realizado, dos prémios de emissão, de resultados transitados, de reservas e dos resultados líquidos apurados no exercício ou no período a que as contas se referem, deduzida do valor de balanço de eventuais dividendos pagos antecipadamente e de ações próprias que sejam detidas pela instituição beneficiária, conforme as orientações da União Europeia em matéria de auxílios de Estado.
+
+3 - Os valores de balanço referidos no número anterior são os constantes do mais recente dos seguintes documentos disponibilizados ao Banco de Portugal até à data de emissão da proposta de decisão prevista no n.º 2 do artigo 12.º da Lei n.º 63-A/2008, devendo a referência a essa data ser incluída no despacho ministerial que aprova a operação de recapitalização:
+
+a) Demonstrações financeiras da instituição beneficiária, preparadas de acordo com o normativo contabilístico aplicável, relativas ao final do exercício e que tenham sido objeto de certificação legal de contas e, se a instituição a tanto estiver legalmente obrigada, de relatório elaborado por auditor externo; ou
+
+b) Demonstrações financeiras intercalares da instituição beneficiária, preparadas de acordo com o normativo contabilístico aplicável e que tenham sido objeto de certificação legal de contas por revisor oficial de contas da instituição ou de relatório de auditoria ou de revisão limitada por auditor externo.
+
+4 - Excecionalmente, quando não seja possível à instituição beneficiária apresentar em tempo útil demostrações financeiras que cumpram as condições previstas no número anterior, nomeadamente em resultado de uma operação de restruturação prévia à apresentação do plano de recapitalização, pode o Banco de Portugal requerer que a instituição disponibilize outras demonstrações financeiras que comprovadamente e no juízo do Banco de Portugal representem de forma adequada a sua nova situação patrimonial e financeira, nomeadamente quando tenha ocorrido uma variação líquida negativa no total do capital, tal como definido nos termos do n.º 2, face às últimas demonstrações financeiras que respeitem as condições previstas no número anterior.
+
+5 - Se no entender do Banco de Portugal for viável a realização atempada de certificação legal de contas por revisor oficial de contas da instituição e ou de relatório de auditoria ou de revisão limitada por auditor externo, nos termos e para os efeitos da alínea b) do n.º 3 e do n.º 4, o Banco de Portugal pode exigir que estes sejam realizados.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 421-A/2012 - Diário da República n.º 247/2012, 1º Suplemento, Série I de 2012-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/421-a-2012-448164), em vigor a partir de 2012-12-22
+
+###### Artigo 4.º — Capitalização por via da aquisição ou subscrição de ações
+
+1 - Se a operação de capitalização se concretizar através da aquisição ou subscrição de ações pelo Estado, o preço da respetiva subscrição ou aquisição não pode ultrapassar em nenhum caso o valor que resultar da aplicação de um desconto, a definir com base nas orientações comunitárias relevantes, sobre o preço de mercado das ações, tendo em conta o efeito de diluição.
+
+2 - O desconto referido no número anterior é estabelecido tendo por base um valor mínimo de 35 %, sendo este desconto reduzido em 10 pontos percentuais no caso de subscrição ou aquisição de ações cujo direito de voto possa ser exercido na sua plenitude, de acordo com o disposto no artigo anterior.
+
+3 - O desconto é definido em despacho do membro do Governo responsável pela área das finanças tendo por referência o preço de mercado das ações, devendo o seu valor refletir o risco assumido pelo Estado, expresso pela dimensão da operação de capitalização a efetuar em relação aos fundos próprios Core Tier 1 da instituição de crédito.
+
+4 - Quando as ações representativas do capital social da instituição requerente se encontrem admitidas à negociação em mercado regulamentado, o preço de mercado das ações a que se refere o n.º 1 do presente artigo corresponde ao preço médio ponderado daquelas ações nos 30 dias de negociação anteriores, à divulgação da apresentação do plano de recapitalização pela instituição de crédito nos termos do artigo 248.º do Código dos Valores Mobiliários, ou ao anúncio emitido pelo membro do Governo responsável pela área das finanças no qual se comunica a disponibilidade para proceder à análise das condições aplicáveis à operação de capitalização, conforme o que ocorra em primeiro lugar.
+
+5 - Nas situações não abrangidas pelo número anterior, o valor de mercado das ações é determinado por dois peritos independentes, a designar para o efeito por despacho do membro do Governo responsável pela área das finanças, através de uma apropriada metodologia de valorização.
+
+6 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, à tomada firme ou garantia de colocação, no todo ou em parte, pelo Estado, que cobrará uma comissão de tomada firme ou garantia de colocação a fixar pelo membro do Governo responsável pela área das finanças, em linha com as condições de mercado prevalecentes, no despacho a que se refere o n.º 1 do artigo 13.º da Lei n.º 63-A/2008.
+
+7 - Para efeitos da emissão do anúncio referido no n.º 4 do presente artigo o Banco de Portugal comunica de imediato ao membro do Governo responsável pela área das finanças os planos de recapitalização que lhe sejam apresentados pelas instituições de crédito, nos termos do artigo 9.º da Lei n.º 63-A/2008, sem prejuízo da comunicação pela instituição de crédito à CMVM da informação relevante nos termos do regime relativo à informação privilegiada previsto no artigo 248.º do Código dos Valores Mobiliários.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 5.º — Capitalização por via da subscrição de outros instrumentos financeiros
+
+Quando a operação de capitalização seja concretizada através de instrumentos financeiros elegíveis para fundos próprios Core Tier 1 não abrangidos pelo artigo anterior, a subscrição destes instrumentos financeiros, pelo Estado, é realizada ao seu valor nominal.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 6.º — Remuneração do investimento público por via da subscrição ou aquisição de ações especiais pelo Estado
+
+1 - As ações do Estado subscritas ou adquiridas no âmbito do regime da Lei n.º 63A/2008 conferem direito a um dividendo prioritário correspondente à participação social do Estado, a retirar do total dos montantes distribuíveis gerados no exercício, salvo se tal direito implicar a sua inelegibilidade total para efeitos de cálculo de fundos próprios Core Tier 1.
+
+2 - Exclusivamente para o efeito da determinação do dividendo prioritário do Estado, havendo montantes distribuíveis gerados no exercício e caso seja deliberada a não distribuição de dividendos ou distribuição inferior a 30 % por outras razões que não a de cumprimento dos níveis mínimos de fundos próprios, a remuneração da participação do Estado não pode ser inferior, em qualquer caso, àquela que lhe seria atribuída caso fosse deliberada a distribuição de 30 % do total dos montantes distribuíveis gerados no exercício, na proporção da sua participação.
+
+3 - Se do pagamento dos dividendos resultar o incumprimento dos níveis mínimos de fundos próprios, designadamente de Core Tier 1, o valor do dividendo é reduzido de modo a garantir o seu cumprimento.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 7.º — Remuneração do investimento público por via de outros instrumentos financeiros
+
+1 - Quando a operação de capitalização seja realizada através de outros instrumentos financeiros elegíveis para fundos próprios Core Tier 1, o valor da remuneração do Estado é fixado no despacho do membro do Governo responsável pela área das finanças nos termos do n.º 3 do artigo 13.º da Lei n.º 63-A/2008, sob proposta fundamentada do Banco de Portugal, tendo em atenção as características específicas da operação de capitalização e da instituição beneficiária.
+
+2 - O valor da remuneração dos instrumentos a que se refere o número anterior deve refletir as suas características, o risco assumido pelo Estado, expresso pela dimensão da operação de capitalização a efetuar em relação aos fundos próprios Core Tier 1 da instituição de crédito e as orientações comunitárias relevantes que estabelecem que o mínimo do valor médio da remuneração do Estado durante o período do investimento público deverá situar-se num intervalo entre os 7 % e os 9,3 % consoante as características dos instrumentos os afastem mais ou menos da natureza própria das ações ordinárias, respetivamente.
+
+3 - A taxa de remuneração fixada nos termos do número anterior é acrescida em 25 pontos base por ano nos dois anos subsequentes ao ano de realização do investimento público e em 50 pontos base por cada ano adicional em que esse investimento se mantenha.
+
+4 - No caso de a instituição beneficiária cancelar ou suspender, no todo ou em parte, o pagamento da remuneração dos instrumentos financeiros a que se refere o n.º 1, considera-se verificado um incumprimento materialmente relevante exclusivamente para efeitos do artigo 10.º da presente portaria.
+
+5 - Se do pagamento em numerário da remuneração do Estado resultar o incumprimento dos níveis mínimos de fundos próprios, designadamente de Core Tier 1, [] a instituição tem a faculdade de o substituir, na medida do necessário, por pagamento em espécie através da entrega de novas ações ordinárias da instituição beneficiária.
+
+6 - A determinação do valor das ações a entregar para cumprimento do disposto no número anterior será fixada por despacho do membro do Governo responsável pela área das finanças pela aplicação de um desconto sobre o preço de mercado das ações à data do pagamento da remuneração, tendo em conta as orientações comunitárias.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 8.º — Valor de alienação das ações especiais detidas pelo Estado
+
+1 - O valor de alienação das ações especiais, no caso das instituições de crédito admitidas a negociação em mercado regulamentado, é definido pelo membro do Governo responsável pela área das finanças e determinado com base nas condições de mercado existentes no momento da venda, de acordo com as orientações comunitárias relevantes em matéria de auxílios de Estado, o prémio de risco aplicável, e outros parâmetros comparáveis, tendo em vista a manutenção da estabilidade financeira e assegurando que os interesses dos contribuintes são devidamente protegidos.
+
+2 - Para efeitos do disposto no número anterior, a determinação do preço de venda das ações é efetuada com recurso a uma avaliação independente recolhida junto de, pelo menos, uma instituição financeira internacionalmente reconhecida.
+
+3 - Nas situações não abrangidas pelo n.º 1 do presente artigo, o valor de mercado das ações da instituição é determinado por dois peritos independentes, a designar para o efeito por despacho do membro do Governo responsável pela área das finanças, através de uma apropriada metodologia de valorização.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 9.º — Valor de amortização dos outros instrumentos financeiros no termo do prazo
+
+1 - Os outros instrumentos financeiros elegíveis para fundos próprios Core Tier 1 subscritos pelo Estado ao abrigo do regime da Lei n.º 63-A/2008 são objeto de amortização pelo seu valor de aquisição no termo do prazo do investimento público, devendo aquela ser efetuada em numerário ou, se tal não for possível, por conversão em novas ações ordinárias da instituição beneficiária.
+
+2 - A determinação do valor das ações a entregar para cumprimento do disposto no número anterior é fixada por despacho do membro do Governo responsável pela área das finanças pela aplicação de um desconto sobre os valores de mercado à data da amortização, de acordo com as orientações comunitárias.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 10.º — Conversão obrigatória dos instrumentos financeiros referidos no artigo 7.º
+
+1 - Em caso de incumprimento materialmente relevante do plano de recapitalização ou em caso de inelegibilidade total superveniente para fundos próprios Core Tier 1, os outros instrumentos financeiros elegíveis para fundos próprios Core Tier 1 subscritos pelo Estado, no âmbito do regime da Lei n.º 63-A/2008, que não tenham sido amortizados nos termos do artigo anterior, convertem-se respetivamente, de forma automática, em novas ações especiais sujeitas ao regime do artigo 16.º-A da Lei n.º 63-A/2008 e em novas ações especiais sujeitas ao regime dos n.os 5, 6 e 9 do artigo 4.º da referida lei.
+
+2 - Sem prejuízo do disposto no número anterior, os instrumentos financeiros a que este se refere podem prever, nas condições contratuais de emissão, a sua conversão em novas ações especiais ou ordinárias da instituição beneficiária.
+
+3 - Na determinação do número de ações a entregar ao Estado para cumprimento do disposto nos números anteriores, o preço das ações é determinado por despacho do membro do Governo responsável pela área das finanças pela aplicação de um desconto sobre os valores de mercado à data da conversão, de acordo com as orientações comunitárias.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 11.º — Incumprimento materialmente relevante
+
+1 - Para efeitos do regime jurídico aprovado pela Lei n.º 63-A/2008, considera-se incumprimento materialmente relevante a inexecução de metas estruturais consideradas essenciais no plano de recapitalização aprovado ou o não cumprimento de obrigações assumidas pela instituição beneficiária suscetível de colocar em sério risco a consecução dos objetivos da operação.
+
+2 - A qualificação de um incumprimento como materialmente relevante, para efeitos do disposto no artigo 16.º-A da Lei n.º 63-A/2008 e do presente artigo, depende de declaração do membro do Governo responsável pela área das finanças, mediante parecer prévio do Banco de Portugal.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 12.º — Remunerações dos membros dos órgãos sociais
+
+1 - À remuneração dos membros dos órgãos sociais de instituições de crédito beneficiárias de operações de recapitalização com recurso a investimento público e durante o período de duração do investimento público é aplicável o disposto no Decreto-Lei n.º 104/2007, de 3 de abril, com as alterações introduzidas pelo Decreto-Lei n.º 88/2011, de 20 de julho, e em especial o disposto na alínea l) do n.º 24 do ponto xi ao anexo.
+
+2 - Sem prejuízo do disposto no número anterior, durante o período de duração do investimento público, as instituições de crédito beneficiárias devem fixar para o conjunto dos membros dos órgãos de administração e fiscalização uma remuneração que, no cômputo da sua componente fixa e variável, não seja superior a 50 % da respetiva remuneração média dos 2 anos anteriores, salvo se esse valor for inferior à remuneração em vigor em instituições de crédito cujo capital seja detido na totalidade, direta ou indiretamente, pelo Estado, caso em que pode ser este o valor da remuneração a fixar.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 13.º — Atualização do plano de recapitalização
+
+De modo a assegurar o adequado cumprimento do disposto nos artigos 8.º e 24.º da Lei n.º 63-A/2008, as instituições de crédito beneficiárias apresentam ao Banco de Portugal, anualmente ou sempre que lhes seja solicitado, uma atualização do plano de recapitalização no que se refere às condições do desinvestimento público.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 14.º — Encargos do Estado com assessoria técnica
+
+1 - As instituições de crédito que apresentem proposta de recapitalização ou que prevejam o recurso a investimento público nos seus planos de financiamento e capitalização suportam, diretamente através dos seus recursos próprios, os custos e despesas em que o Estado Português venha a incorrer em resultado da contratação de assessoria técnica, nomeadamente financeira e jurídica, que se revele necessária à análise da proposta, bem como à eventual montagem da operação e seu acompanhamento durante o prazo de investimento público.
+
+2 - Nos casos em que haja recurso a investimento público, o Estado reterá, na respetiva operação, o montante equivalente aos custos e despesas suportadas até à data do investimento público, que libertará após prova do pagamento integral pelas instituições beneficiárias dos encargos referidos no número anterior, podendo, alternativamente, exigir a constituição de garantia bastante para o efeito.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 421-A/2012 - Diário da República n.º 247/2012, 1º Suplemento, Série I de 2012-12-21](https://diariodarepublica.pt/dr/detalhe/portaria/421-a-2012-448164), em vigor a partir de 2012-12-22
+
+###### Artigo 15.º — Dever de informação
+
+As instituições de crédito beneficiárias do investimento público comunicam imediatamente ao Banco de Portugal qualquer modificação das condições que constituíram pressuposto do acesso ao investimento público.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 16.º — Fiscalização e regulamentação
+
+1 - Compete ao Banco de Portugal assegurar o acompanhamento e fiscalização do cumprimento das obrigações das instituições de crédito beneficiárias estabelecidas nas alíneas a), c), e) e i) do n.º 1 do artigo 14.º da Lei n.º 63-A/2008, devendo remeter ao membro do Governo responsável pela área das finanças, trimestralmente, um relatório sobre a situação individual de cada instituição de crédito beneficiária e sobre os planos apresentados nos termos do artigo 2.º, e informar dos factos relevantes de que tenha conhecimento.
+
+2 - Para efeitos do disposto no número anterior, o Banco de Portugal, ao abrigo das suas competências próprias, pode definir, por instrução, o âmbito, natureza, conteúdo e periodicidade da informação a remeter pelas instituições de crédito beneficiárias de operações de capitalização, nomeadamente a respeitante à sua situação patrimonial e aos rácios e indicadores prudenciais relativos à liquidez e transformação, qualidade dos ativos e cobertura de riscos, sem prejuízo dos deveres de informação incluídos no plano de recapitalização.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 17.º — Norma revogatória
+
+É revogada a Portaria n.º 493-A/2009, de 8 de maio.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+###### Artigo 18.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13
+
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 15 de maio de 2012.
+
+> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 140/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2014-25345645), em vigor a partir de 2014-07-13

@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:452267:por
+title: Despacho Normativo n.º 144/83
+short_title: null
+summary: Autoriza a Direcção-Geral de Segurança Social a preencher os lugares de ingresso e acesso criados pelo Decreto-Lei
+  n.º 138/80, de 20 de Maio, e nunca providos
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa
+proposing_entity: null
+official_number: 144/83
+official_date: null
+publication_date: '1983-06-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/1983, Série I de 1983-06-24
+  number: '143'
+  series: I
+  supplement: null
+  pages: 2285 - 2286
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14300/22852286.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '452267'
+  dre_path: /dr/detalhe/despacho-normativo/144-1983-452267
+  internal: pt:dre:452267:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/144-1983-452267
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/144-1983-452267
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:23:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bf2969da5d16d70cb03f9d1349fe70df441e6198715eafc13e59f7ec8b0448c1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:23:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral da Segurança Social
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:375407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474127:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:23:19Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 144/83
+
+1 - A Direcção-Geral de Segurança Social, constituída pelo [Decreto-Lei n.º 138/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1980-474127), de 20 de Maio, encontra-se em funcionamento com um quadro real de pessoal sensivelmente inferior ao previsto no mapa anexo ao referido diploma, a que correspondem custos orçamentados em despesas com pessoal igualmente inferiores em mais de 30% dos que resultariam do referido mapa e custos efectivos ainda mais baixos.
+
+Com efeito, factores exógenos de difícil contenção, como a dispersão das instalações e a necessidade de dar enquadramento ao pessoal das anteriores Direcções-Gerais da Previdência e da Assistência Social, poderiam ter determinado uma certa tendência para o agravamento dos custos de funcionamento. No entanto, tem sido seguida uma linha, tão rigorosa quanto possível, de racionalização dos serviços e de esforço de produtividade técnica e administrativa.
+
+Além de outros aspectos, tem estado presente a preocupação de, ao contrário do que por vezes acontece na Administração Pública, conter as próprias situações de requisição, destacamento ou afectação à Direcção-Geral abaixo dos limites das vagas para as quais há cobertura orçamental, como forma de possibilitar, a todo o tempo, a integração, no quadro, das pessoas nessas situações, sem aumento de encargos orçamentais.
+
+2 - Por outro lado, a inexistência ou demora na aprovação de normativos adequados à resolução de certas situações adiante enunciadas tem dificultado o preenchimento das vagas existentes nos limites orçamentais definidos, embora em alguns casos as pessoas se encontrem já a exercer funções sem terem a correspondente categoria e vencimento.
+
+A publicação do [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho, que tornou aplicável ao pessoal da antiga estrutura da Previdência o regime jurídico dos funcionários e agentes da Administração Pública, poderá permitir a integração do pessoal qualificado que já se encontra a prestar serviço na Direcção-Geral antes da publicação do diploma ou diplomas de extinção dos órgãos da referida estrutura.
+
+Foram também recentemente publicadas, após um processo de aprovação de certa forma moroso, as portarias que vão permitir o provimento, em lugares de chefe de divisão, de técnicos superiores que têm já de há muito a responsabilidade da direcção das respectivas unidades orgânicas.
+
+Da mesma forma, alguns funcionários da Direcção-Geral reuniam já em 1982 os requisitos legais para serem submetidos a concursos de acesso a categorias superiores, dependentes, como é sabido, por força do [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, da publicação do respectivo regulamento.
+
+Este regulamento deveria, porém, fundamentar-se no regime geral dos concursos a elaborar pelo Ministério da Reforma Administrativa, que apenas veio a ser aprovado pela [Portaria n.º 930/82](https://diariodarepublica.pt/dr/detalhe/portaria/930-1982-375407), de 2 de Outubro.
+
+Importa frisar, aliás, a este propósito, que o decreto-lei acima referido, por aplicação do n.º 2 do artigo 9.º, torna obrigatória a abertura de concursos de acesso sempre que existam pelo menos 3 vagas na mesma categoria.
+
+Por todas estas razões, impõe-se dar formal publicação à autorização prevista no n.º 1 do artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, de que depende a possibilidade do preenchimento de vagas existentes por força dos condicionalismos atrás referidos.
+
+3 - Deve acrescentar-se, em reforço dos considerandos enunciados, que 51% das vagas que devem ser providas em 1983 de acordo com o mapa anexo ao presente despacho correspondem a pessoas que se encontram já a prestar serviço na Direcção-Geral.
+
+Quer quanto a estas situações, quer quanto ao acesso de técnicos na base da carreira, limitou-se a previsão ao que se considera absolutamente indispensável para obter algum reforço da capacidade de produção da Direcção-Geral, solicitada para novas e importantes tarefas no campo da elaboração normativa do acompanhamento e coordenação da execução dos regimes e das modalidades de segurança social.
+
+De qualquer forma, com é evidente pelo que fica dito, verifica-se a existência de vagas, em alguns casos em número que torna obrigatória a abertura de concursos de acordo com o diploma atrás citado, e, em consequência, está prevista cobertura orçamental já em 1982 e, por maioria de razão, no projecto de orçamento para 1983.
+
+4 - Por último, importa referir que o simples decurso do tempo, a experiência recolhida e a necessidade de adequação às novas realidades, bem como a própria orientação e dinamismo que o Governo tem imprimido ao sector da segurança social, impuseram a necessidade de a Direcção-Geral atravessar diversas fases de reordenamento orgânico-funcional, com as consequentes perturbações na estrutura dos seus recursos humanos.
+
+A previsão de efectivos para 1983 tem necessariamente em conta esses aspectos mas também a necessidade de corresponder à dinâmica que será certamente provocada pela nova lei orgânica, consideravelmente simplificada, que se encontra em preparação.
+
+Só assim, em termos de futuro e sem gerar situações críticas de insegurança ou desmotivação, será possível corrigir alguns desequilíbrios que ainda podem verificar-se em matéria de recursos humanos entre as diferentes áreas de trabalho, apesar do cuidado posto na filtragem das eventuais consequências negativas de factores exógenos e conjunturais ligados, nomeadamente, à preexistência de órgãos centrais responsáveis no campo da segurança social.
+
+As mesmas razões justificam que não seja possível efectuar desde já uma previsão minimamente rigorosa para 1984 e anos seguintes.
+
+5 - Assim:
+
+Considerando que o quadro de pessoal da Direcção-Geral de Segurança Social, constante do mapa anexo ao [Decreto-Lei n.º 138/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1980-474127), de 20 de Maio, dispõe de um certo número de lugares que não puderam ser formalmente preenchidos até ao presente, pelas razões atrás expostas, embora as correspondentes funções estejam de facto a ser exercidas;
+
+Considerando, ainda, que, como ficou dito, se torna necessário e urgente e em certos casos é imposto legalmente o prenchimento de outros;
+
+Considerando o disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio:
+
+Determina-se o seguinte:
+
+1.º Durante o ano de 1983 fica a Direcção-Geral de Segurança Social autorizada a preencher os lugares de ingresso e acesso criados pelo [Decreto-Lei n.º 138/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1980-474127), de 20 de Maio, e nunca providos, constantes do mapa anexo ao presente despacho e que dele faz parte integrante.
+
+2.º Os lugares mencionados no número anterior, se não forem totalmente preenchidos até 31 de Dezembro de 1983, acrescerão ao número de lugares dos anos seguintes.
+
+Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 27 de Maio de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro dos Assuntos Sociais, António José de Castro Bagão Félix, Secretário de Estado da Segurança Social. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
+
+MAPA ANEXO
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14300/22852286.pdf)

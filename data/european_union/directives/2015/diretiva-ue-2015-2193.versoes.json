@@ -1,0 +1,319 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32015L2193:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015L2193-20151128",
+ "dre_path": null,
+ "source_lastmod": "2015-11-28",
+ "versions": [
+  {
+   "date": "2015-11-28",
+   "future": false,
+   "celex": "02015L2193-20151128",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885c54f83e0a0c99",
+    "220db7715bc93177",
+    "573013a30a01865a",
+    "efd8fd4fee3b1265",
+    "c51366cccb58365e",
+    "bb0ed85703a552ba",
+    "42379e618b0a71bc",
+    "8e9becd35e6988e2",
+    "58e5df3ff302a6e7",
+    "c799b0570a379314",
+    "bd47883677bc2d29",
+    "ca6a2c523cb52791",
+    "4fd1272f892ada55",
+    "45c23413adb38e2d",
+    "6140d06d782b9690",
+    "0b7c882ede2f69b2",
+    "32feccbce5318132",
+    "506c22547231c9af",
+    "aa57c1b8facb7cea",
+    "fef2bd15bc3b23d3",
+    "d664376e2a8dcecd",
+    "1cf5bff8046a53e5",
+    "852174729551523b",
+    "f59e271fdc7da95d",
+    "26d20e00e510d0ac",
+    "94b169158266541e",
+    "d38a1a88e4f5053f",
+    "6f9369b2e64bf56c",
+    "720af75c92791b10",
+    "79b929b983aa4f02",
+    "26d20e00e510d0ac",
+    "87e22189381e6aa1",
+    "d38a1a88e4f5053f",
+    "a0a45148b67762e0",
+    "9758f187360f876c"
+   ]
+  }
+ ],
+ "fragments": {
+  "885c54f83e0a0c99": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de novembro de 2015\n\nrelativa à limitação das emissões para a atmosfera de certos poluentes provenientes de médias instalações de combustão\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "220db7715bc93177": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente diretiva estabelece regras de controlo das emissões para a atmosfera de dióxido de enxofre (SO2), de óxidos de azoto (NOx) e de poeiras provenientes de médias instalações de combustão, reduzindo, por conseguinte, as emissões para a atmosfera e os potenciais riscos para a saúde humana e o ambiente decorrentes de tais emissões.\n\nA presente diretiva estabelece igualmente regras de monitorização das emissões de monóxido de carbono (CO)."
+  },
+  "573013a30a01865a": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. A presente diretiva é aplicável a instalações de combustão com uma potência térmica nominal igual ou superior a 1 MW e inferior a 50 MW (a seguir designadas «médias instalações de combustão»), independentemente do tipo de combustível utilizado.\n\n2. A presente diretiva é igualmente aplicável aos complexos constituídos por médias instalações de combustão novas nos termos do artigo 4.º, inclusive um complexo em que a potência térmica nominal total seja igual ou superior a 50 MW, a menos que o complexo constitua uma instalação de combustão abrangida pelo capítulo III da Diretiva 2010/75/UE.\n\n3.\n\nA presente diretiva não se aplica a:\n\na) Instalações de combustão abrangidas pelo capítulo III ou IV da Diretiva 2010/75/UE;\n\nb) Instalações de combustão abrangidas pela Diretiva 97/68/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0001));\n\nc) Instalações de combustão em explorações com uma potência térmica nominal total não superior a 5 MW que utilizem exclusivamente como combustível o chorume de aves de capoeira, na aceção do artigo 9.º, alínea a), do Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0002));\n\nd) Instalações de combustão em que os produtos gasosos da combustão sejam utilizados para o aquecimento direto, a secagem ou qualquer outro tratamento de objetos ou materiais;\n\ne) Instalações de combustão em que os produtos gasosos da combustão sejam utilizados para aquecimento direto a gás utilizado para aquecer espaços interiores com vista à melhoria das condições no local de trabalho;\n\nf) Instalações de pós-combustão que tenham por objetivo a depuração dos gases residuais de processos industriais por combustão e que não sejam exploradas como instalações de combustão autónomas;\n\ng) Equipamentos técnicos utilizados para a propulsão de veículos, embarcações ou aeronaves;\n\nh) Turbinas a gás, motores a gás e motores diesel utilizados em plataformas *off-shore*;\n\ni) Instalações para a regeneração dos catalisadores do fracionamento catalítico;\n\nj) Instalações para a conversão dos sulfuretos de hidrogénio em enxofre;\n\nk) Reatores utilizados na indústria química;\n\nl) Fornos acionados a coque;\n\nm) Aquecedores de ar de altos-fornos;\n\nn) Crematórios;\n\no) Instalações de combustão que queimem combustíveis de refinaria isoladamente ou juntamente com outros combustíveis para a produção de energia no interior de refinarias de petróleo e de gás;\n\np) Caldeiras de recuperação existentes em instalações de produção de pasta de papel.\n\n4. A presente diretiva não se aplica às atividades de investigação, de desenvolvimento ou de ensaio relacionadas com médias instalações de combustão. Os Estados-Membros podem estabelecer condições específicas para a aplicação do presente número."
+  },
+  "efd8fd4fee3b1265": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente diretiva, entende-se por:\n\n1) «Emissão», a descarga na atmosfera de substâncias provenientes de uma instalação de combustão.\n\n2) «Valor-limite de emissão», a quantidade admissível de uma substância contida nos gases residuais proveniente de uma instalação de combustão que pode ser emitida para a atmosfera durante um dado período.\n\n3) «Óxidos de azoto» (NOx), o óxido nítrico e o dióxido de azoto, expressos em dióxido de azoto (NO2).\n\n4) «Poeiras», partículas, de qualquer formato, estrutura ou densidade, dispersas na fase gasosa nas condições dos pontos de amostragem, que possam ser recolhidas por filtração em condições específicas após uma amostragem representativa do gás a analisar, e que permaneçam a montante do filtro e no filtro depois de secarem em condições específicas.\n\n5) «Instalação de combustão», um equipamento técnico em que sejam oxidados produtos combustíveis a fim de utilizar o calor assim produzido.\n\n6) «Instalação de combustão existente», uma instalação de combustão colocada em funcionamento antes de 20 de dezembro de 2018 ou para a qual tenha sido concedida uma licença antes de 19 de dezembro de 2017 ao abrigo da legislação nacional, desde que a instalação entre em funcionamento até 20 de dezembro de 2018.\n\n7) «Instalação de combustão nova», uma instalação de combustão que não seja uma instalação de combustão existente.\n\n8) «Motor», um motor a gás, um motor diesel ou um motor de combustível duplo.\n\n9) «Motor a gás», um motor de combustão interna que funciona segundo o ciclo de Otto e que utiliza ignição por faísca para queimar combustível.\n\n10) «Motor diesel», um motor de combustão interna que funciona segundo o ciclo de Diesel e que utiliza ignição por compressão para queimar combustível.\n\n11) «Motor de combustível duplo», um motor de combustão interna que utiliza ignição por combustão e funciona segundo o ciclo de Diesel para queimar combustíveis líquidos e segundo o ciclo de Otto para queimar combustíveis gasosos.\n\n12) «Turbina a gás» uma máquina rotativa que converta energia térmica em trabalho mecânico, constituída fundamentalmente por um compressor, por um dispositivo térmico que permite oxidar o combustível a fim de aquecer o líquido de transmissão, e por uma turbina; inclui turbinas a gás de ciclo aberto e de ciclo combinado e turbinas a gás em modo de cogeração, todas com ou sem queima suplementar.\n\n13) «Pequena rede isolada», uma pequena rede isolada, na aceção do artigo 2.º, ponto 26, da Diretiva 2009/72/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0003)).\n\n14) «Microrrede isolada», uma microrrede isolada, na aceção do artigo 2.º, ponto 27, da Diretiva 2009/72/CE.\n\n15) «Combustível», uma matéria combustível sólida, líquida ou gasosa.\n\n16) «Combustível de refinaria», matéria combustível sólida, líquida ou gasosa originada durante as etapas de destilação e conversão do processo de refinação de petróleo bruto, incluindo gás de refinaria, gás de síntese, fuelóleo e coque de petróleo.\n\n17) «Resíduos», os resíduos, na aceção do artigo 3.º, ponto 1, da Diretiva 2008/98/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0004)).\n\n18) «Biomassa», um dos seguintes produtos:\n\na) Produtos compostos por uma matéria vegetal agrícola ou silvícola suscetível de ser utilizada como combustível para efeitos de recuperação do seu teor energético;\n\nb) Os seguintes tipos de resíduos:\n\ni) resíduos vegetais provenientes da agricultura e da silvicultura,\n\nii) resíduos vegetais provenientes da indústria de transformação de produtos alimentares, se o calor gerado em resultado da sua utilização for recuperado,\n\niii) resíduos vegetais fibrosos provenientes da produção de pasta virgem de papel e da produção de papel a partir de pasta, se forem coincinerados no local de produção e o calor gerado for recuperado,\n\niv) resíduos de cortiça,\n\nv) resíduos de madeira, com exceção dos resíduos de madeira que possam conter compostos orgânicos halogenados ou metais pesados resultantes de tratamento com conservantes de madeira ou com revestimento, incluindo, nomeadamente, os resíduos de madeira deste tipo provenientes de resíduos de construção e demolição.\n\n19) «Gasóleo»:\n\na) Um combustível líquido derivado do petróleo abrangido pelos códigos NC 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17 ou 2710 20 19; ou\n\nb) Um combustível líquido derivado do petróleo do qual menos de 65 % em volume (incluindo perdas) destile a 250 °C e pelo menos 85 % em volume (incluindo perdas) destile a 350 °C pelo método ASTM D86.\n\n20) «Gás natural», metano em estado livre com um teor de gases inertes e outros constituintes não superior a 20 % (em volume).\n\n21) «Fuelóleo pesado»:\n\na) Um combustível líquido derivado do petróleo abrangido pelos códigos NC 2710 19 51 a 2710 19 68, 2710 20 31, 2710 20 35 ou 2710 20 39; ou\n\nb) Um combustível líquido derivado do petróleo (à exceção do gasóleo, tal como definido no ponto 19 que, dado o seu intervalo de destilação, fique abrangido na categoria de óleo pesado destinado a ser utilizado como combustível e do qual menos de 65 % em volume (incluindo perdas) destile a 250 °C pelo método ASTM D86. Se as condições de destilação não puderem ser determinadas pelo método ASTM D86, o produto petrolífero é igualmente classificado como fuelóleo pesado.\n\n22) «Horas de funcionamento», o tempo, expresso em horas, durante o qual a instalação de combustão funciona e liberta emissões para a atmosfera, excluindo os períodos de arranque e de paragem.\n\n23) «Operador», uma pessoa singular ou coletiva que explora ou controla a instalação de combustão ou, se previsto no direito nacional, na qual tenha sido delegado o poder económico de decisão sobre o funcionamento técnico da instalação.\n\n24) «Zona», uma parte do território de um Estado-Membro delimitada por esse Estado-Membro para fins de avaliação e gestão da qualidade do ar, na aceção da Diretiva 2008/50/CE."
+  },
+  "c51366cccb58365e": {
+   "fragment_id": "Artigo 4.º — Agregação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Agregação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Agregação\n\nPara efeitos da presente diretiva, o complexo constituído por duas ou mais médias instalações de combustão novas deve ser considerado como uma única média instalação de combustão, e a respetiva potência térmica nominal deve ser somada com vista a calcular a potência térmica nominal total da instalação, nos casos em que:\n\n— os gases residuais dessas médias instalações de combustão sejam expelidos por uma chaminé comum, ou\n\n— tendo em conta fatores técnicos e económicos, os gases residuais dessas médias instalações de combustão possam, no entender da autoridade competente, ser expelidos por uma chaminé comum."
+  },
+  "bb0ed85703a552ba": {
+   "fragment_id": "Artigo 5.º — Licenciamento e registo",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Licenciamento e registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Licenciamento e registo\n\n1. Os Estados-Membros adotam as medidas necessárias para assegurar que nenhuma média instalação de combustão nova seja explorada sem ter obtido uma licença ou sem ter sido registada.\n\n2. Os Estados-Membros adotam as medidas necessárias para assegurar que, a partir de 1 de janeiro de 2024, nenhuma média instalação de combustão existente com uma potência térmica nominal superior a 5 MW seja explorada sem ter obtido uma licença ou sem ter sido registada.\n\nOs Estados-Membros adotam as medidas necessárias para assegurar que, a partir de 1 de janeiro de 2029, nenhuma média instalação de combustão existente com uma potência térmica nominal igual ou inferior a 5 MW seja explorada sem ter obtido uma licença ou sem ter sido registada.\n\n3. Os Estados-Membros especificam o procedimento para a concessão de licenças ou para o registo em relação às médias instalações de combustão. Esse procedimento inclui, pelo menos, a obrigação do operador de informar a autoridade competente da exploração, ou da intenção de explorar, uma média instalação de combustão, fornecendo no mínimo as informações enumeradas no anexo I.\n\n4. A autoridade competente regista a média instalação de combustão, ou inicia o procedimento para a concessão de uma licença à referida instalação, no prazo de um mês após a transmissão das informações a que se refere o n.º 3 pelo operador. A autoridade competente informa o operador desse registo ou do início do procedimento para a concessão de uma licença.\n\n5. A autoridade competente mantém um registo com informações sobre cada média instalação de combustão, que inclui as informações constantes do anexo I e as informações obtidas por força do artigo 9.º. As médias instalações de combustão existentes são inscritas no registo a partir da data do registo ou da data de concessão de uma licença, nos termos da presente diretiva. A autoridade competente disponibiliza ao público as informações constantes do registo, inclusive através da Internet, nos termos da Diretiva 2003/4/CE.\n\n6. Sem prejuízo da obrigação das médias instalações de combustão serem titulares de uma licença ou de estarem registadas, os Estados-Membros podem incluir nas regras vinculativas gerais requisitos para determinadas categorias de médias instalações de combustão. Caso sejam adotadas regras vinculativas gerais, a licença ou o registo pode incluir simplesmente uma referência a essas mesmas regras.\n\n7. No que diz respeito a médias instalações de combustão que façam parte de uma instalação abrangida pelo capítulo II da Diretiva 2010/75/UE, os requisitos do presente artigo consideram-se preenchidos mediante o cumprimento da referida diretiva.\n\n8. A licença concedida ou o registo efetuado nos termos de outras disposições do direito nacional ou da União podem ser combinados com a licença ou o registo impostos por força do n.º 1 por forma a constituir uma licença ou um registo únicos, desde que essa licença única ou esse registo único contenham as informações previstas no presente artigo."
+  },
+  "42379e618b0a71bc": {
+   "fragment_id": "Artigo 6.º — Valores-limite de emissão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Valores-limite de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Valores-limite de emissão\n\n1. Sem prejuízo do disposto no capítulo II da Diretiva 2010/75/UE, se aplicável, os valores-limite de emissão estabelecidos no anexo II da presente diretiva são aplicáveis às médias instalações de combustão.\n\nOs valores-limite de emissão estabelecidos no anexo II não se aplicam às médias instalações de combustão situadas nas Ilhas Canárias, nos departamentos franceses ultramarinos e nos arquipélagos dos Açores e da Madeira. Os Estados-Membros em causa estabelecem os valores-limite de emissão para essas instalações, a fim de reduzir as emissões para a atmosfera e os potenciais riscos para a saúde humana e o ambiente.\n\n2. A partir de 1 de janeiro de 2025, as emissões para a atmosfera de SO2, NOx e poeiras provenientes de uma média instalação de combustão existente com uma potência térmica nominal superior a 5 MW não podem exceder os valores-limite de emissão estabelecidos no anexo II, parte 1, quadros 2 e 3.\n\nA partir de 1 de janeiro de 2030, as emissões para a atmosfera de SO2, NOx e de poeiras provenientes de uma média instalação de combustão existente com uma potência térmica nominal igual ou inferior a 5 MW não podem exceder os valores-limite de emissão estabelecidos no anexo II, parte 1, quadros 1 e 3.\n\n3. Os Estados-Membros podem isentar da obrigação de cumprimento dos valores-limite de emissão estabelecidos no anexo II, parte 1, quadros 1, 2 e 3, as médias instalações de combustão existentes que não funcionem mais do que 500 horas de funcionamento por ano, em média móvel estabelecida ao longo de um período de cinco anos.\n\nOs Estados-Membros podem aumentar o limite referido no primeiro parágrafo para 1 000 horas nas seguintes situações de emergência ou na ocorrência de circunstâncias extraordinárias:\n\n— para a produção de energia de reserva em ilhas ligadas em caso de uma interrupção da alimentação elétrica principal da ilha,\n\n— médias instalações de combustão usadas para a produção de calor em caso de fenómenos meteorológicos de frio excecional.\n\nEm todos os casos indicados neste número, é aplicável às instalações que queimam combustíveis sólidos um valor-limite de emissão para poeiras de 200 mg/Nm^3^.\n\n4. As médias instalações de combustão existentes que fazem parte de pequenas redes isoladas ou de microrredes isoladas cumprem os valores-limite de emissão estabelecidos no anexo II, parte 1, quadros 1, 2 e 3, a partir de 1 de janeiro de 2030.\n\n5. Até 1 de janeiro de 2030, os Estados-Membros podem isentar as médias instalações de combustão existentes com uma potência térmica nominal superior a 5 MW da obrigação de cumprimento dos valores-limite de emissão estabelecidos no anexo II, desde que pelo menos 50 % da produção útil de calor da instalação, em média móvel estabelecida ao longo de um período de cinco anos, seja fornecida sob a forma de vapor ou de água quente a uma rede pública para o aquecimento urbano. Em caso de tal isenção, os valores-limite de emissão estabelecidos pela autoridade competente não podem exceder 1 100 mg/Nm^3^ para o SO2 e 150 mg/Nm^3^ para as poeiras.\n\nAté 1 de janeiro de 2030, os Estados-Membros podem isentar da obrigação de cumprimento dos valores-limite de emissão para as poeiras, estabelecidos no anexo II da presente diretiva, as médias instalações de combustão que queimem biomassa sólida como principal combustível, situadas nas zonas em que, de acordo com avaliações efetuadas ao abrigo da Diretiva 2008/50/CE, é garantido o cumprimento dos valores-limite da referida diretiva. Em caso de tal isenção, os valores-limite de emissão fixados pelas autoridades competentes não podem exceder 150 mg/Nm^3^ para as poeiras.\n\nA autoridade competente assegura, em todo o caso, que não seja gerada uma poluição significativa e que seja atingido um nível elevado de proteção global do ambiente.\n\n6. Até 1 de janeiro de 2030, os Estados-Membros podem isentar da obrigação de cumprimento dos valores-limite de emissão de NOx, estabelecidos no anexo II, parte 1, quadro 3, as médias instalações de combustão existentes com uma potência térmica nominal superior a 5 MW, que sejam utilizadas para o funcionamento de estações de compressão de gás necessárias para garantir a proteção e a segurança de um sistema nacional de transporte de gás.\n\n7. A partir de 20 de dezembro de 2018, as emissões para a atmosfera de SO2, NOx e de poeiras provenientes de médias instalações de combustão novas não podem exceder os valores-limite estabelecidos no anexo II, parte 2.\n\n8. Os Estados-Membros podem isentar da obrigação de cumprimento dos valores-limite de emissão estabelecidos no anexo II, parte 2, as médias instalações de combustão novas que não funcionem durante mais de 500 horas de funcionamento por ano, em média móvel estabelecida ao longo de um período de três anos. Em caso de tal isenção, é aplicável às instalações que queimam combustíveis sólidos um valor-limite de emissão para poeiras de 100 mg/Nm^3^.\n\n9. Nas zonas ou partes de zonas que não cumprem os valores-limite relativos à qualidade do ar definidos na Diretiva 2008/50/CE, os Estados-Membros avaliam a necessidade de aplicar, às médias instalações de combustão individuais nessas zonas ou partes dessas zonas, valores-limite de emissão mais rigorosos do que os estabelecidos na presente diretiva, enquanto parte do desenvolvimento de planos de qualidade do ar a que se refere o artigo 23.º da Diretiva 2008/50/CE, tendo em conta os resultados do intercâmbio de informações referido no n.º 10 do presente artigo, desde que a aplicação de tais valores-limite de emissão possam contribuir de forma eficaz para uma melhoria considerável da qualidade do ar.\n\n10. A Comissão organiza o intercâmbio de informações com os Estados-Membros, as indústrias interessadas e as organizações não governamentais sobre os níveis de emissão suscetíveis de ser obtidos com as melhores tecnologias disponíveis e emergentes e os custos conexos.\n\nA Comissão publica os resultados desse intercâmbio de informações.\n\n11. A autoridade competente pode conceder uma derrogação, por um prazo máximo de seis meses, da obrigação de cumprir os valores-limite de emissão fixados nos n.^os^ 2 e 7 para o SO2 nas médias instalações de combustão que utilizem normalmente um combustível com baixo teor de enxofre, caso o operador não esteja em condições de cumprir esses valores-limite de emissão devido a uma interrupção no abastecimento de combustível com baixo teor de enxofre em resultado de uma situação de escassez grave.\n\nOs Estados-Membros informam a Comissão das derrogações concedidas ao abrigo do primeiro parágrafo no prazo de um mês a contar da sua concessão.\n\n12. A autoridade competente pode conceder uma derrogação à obrigação de cumprir os valores-limite de emissão estabelecidos nos n.^os^ 2 e 7 nos casos em que uma média instalação de combustão que só utiliza combustível gasoso tenha, excecionalmente, de utilizar outros combustíveis devido a uma interrupção brusca do fornecimento de gás, o que seria normalmente motivo para uma obrigação de equipar a instalação com um equipamento secundário de redução das emissões. O prazo de vigência da derrogação não pode ser superior a dez dias, salvo se o operador demonstrar à autoridade competente que se justifica um prazo mais alargado.\n\nOs Estados-Membros informam a Comissão das derrogações concedidas ao abrigo do primeiro parágrafo no prazo de um mês a contar da sua concessão.\n\n13.\n\nNos casos em que as médias instalações de combustão utilizem simultaneamente dois ou mais combustíveis, o valor-limite de emissão para cada poluente é calculado do seguinte modo:\n\na) Considerando o valor-limite de emissão para cada combustível, tal como estabelecido no anexo II;\n\nb) Determinando o valor-limite de emissão ponderado por combustível, que se obtém multiplicando o valor-limite de emissão referido na alínea a) pela potência térmica fornecida por cada combustível e dividindo o produto dessa multiplicação pela soma das potências térmicas fornecidas por todos os combustíveis; e\n\nc) Adicionando os valores-limite de emissão ponderados por combustível."
+  },
+  "8e9becd35e6988e2": {
+   "fragment_id": "Artigo 7.º — Obrigações do operador",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Obrigações do operador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações do operador\n\n1. Os Estados-Membros asseguram que os operadores realizem, pelo menos, a monitorização das emissões nos termos do anexo III, parte 1.\n\n2. No respeitante a médias instalações de combustão que utilizem vários combustíveis, a monitorização de emissões é efetuada aquando da queima de um combustível ou de uma mistura de combustíveis suscetível de resultar no nível mais elevado de emissões e durante um período que represente as condições normais de funcionamento.\n\n3. O operador mantém um registo e processa todos os resultados da monitorização de modo a permitir a verificação do cumprimento dos valores-limite de emissão, nos termos das regras estabelecidas no anexo III, parte 2.\n\n4. No que diz respeito a médias instalações de combustão que apliquem um equipamento secundário de redução das emissões a fim de cumprir os valores-limite de emissões, o operador mantém um registo ou dispõe de informações que comprovem o funcionamento contínuo e eficaz do sistema.\n\n5.\n\nO operador de uma média instalação de combustão conserva os seguintes elementos:\n\na) A licença ou o comprovativo do registo emitidos pela autoridade competente e, se necessário, a sua versão atualizada e as informações conexas;\n\nb) Os resultados da monitorização e as informações a que se referem os n.^os^ 3 e 4;\n\nc) Se aplicável, um registo das horas de funcionamento a que se refere o artigo 6.º, n.^os^ 3 e 8;\n\nd) Um registo do tipo e das quantidades dos combustíveis utilizados na instalação e de qualquer mau funcionamento ou avaria do equipamento secundário de redução das emissões;\n\ne) Um registo dos casos de incumprimento e das medidas tomadas a que se refere o n.º 7.\n\nOs dados e as informações a que se referem as alíneas b) a e) do primeiro parágrafo são conservados pelo menos durante seis anos.\n\n6. O operador disponibiliza, sem atrasos injustificados, os dados e as informações enumeradas no n.º 5 à autoridade competente, a pedido desta. A autoridade competente pode efetuar esse pedido de forma a permitir a verificação do cumprimento dos requisitos da presente diretiva. A autoridade competente efetua esse pedido sempre que um cidadão solicite o acesso aos dados ou informações enumerados no n.º 5.\n\n7. Em caso de incumprimento dos valores-limite de emissão estabelecidos no anexo II, o operador toma as medidas necessárias para restabelecer o cumprimento num prazo tão breve quanto possível, sem prejuízo das medidas necessárias nos termos do artigo 8.º. Os Estados-Membros definem as regras relativas ao tipo, à frequência e ao formato das informações relativas aos casos de incumprimento a prestar à autoridade competente pelos operadores.\n\n8. O operador presta à autoridade competente toda a assistência necessária para lhe permitir a realização das inspeções e das visitas à instalação, à colheita de amostras e à recolha das informações necessárias ao desempenho das suas funções para os efeitos da presente diretiva.\n\n9. O operador assegura que os períodos de arranque e de paragem das médias instalações de combustão sejam o mais curtos possível."
+  },
+  "58e5df3ff302a6e7": {
+   "fragment_id": "Artigo 8.º — Verificação do cumprimento dos valores-limite",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Verificação do cumprimento dos valores-limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Verificação do cumprimento dos valores-limite\n\n1. Os Estados-Membros asseguram que os valores de emissões válidos monitorizados nos termos do anexo III não excedam os valores-limite de emissão estabelecidos no anexo II.\n\n2. Os Estados-Membros criam um sistema eficaz para verificar o cumprimento dos requisitos da presente diretiva, baseado em inspeções ambientais ou noutras medidas.\n\n3. Em caso de incumprimento, para além das medidas tomadas pelo operador nos termos do artigo 7.º, n.º 7, os Estados-Membros garantem que a autoridade competente exija que o operador tome, sem atrasos injustificados, as medidas que a autoridade considere necessárias para restabelecer o cumprimento da presente diretiva.\n\nSe o incumprimento provocar uma degradação significativa da qualidade do ar local, o funcionamento da média instalação de combustão é suspenso até que se restabeleça o cumprimento da presente diretiva."
+  },
+  "c799b0570a379314": {
+   "fragment_id": "Artigo 9.º — Alterações de médias instalações de combustão",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Alterações de médias instalações de combustão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alterações de médias instalações de combustão\n\nOs Estados-Membros tomam as medidas necessárias para assegurar que o operador informe a autoridade competente, sem atraso injustificado, das alterações programadas da média instalação de combustão que possam afetar os valores-limite de emissão aplicáveis.\n\nA autoridade competente atualiza a licença ou o registo conforme adequado."
+  },
+  "bd47883677bc2d29": {
+   "fragment_id": "Artigo 10.º — Autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autoridades competentes\n\nOs Estados-Membros designam as autoridades competentes responsáveis pelo cumprimento das obrigações decorrentes da presente diretiva."
+  },
+  "ca6a2c523cb52791": {
+   "fragment_id": "Artigo 11.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Relatórios\n\n1. Os Estados-Membros apresentam um relatório à Comissão, até 1 de outubro de 2026 e até 1 de outubro de 2031, com as informações qualitativas e quantitativas sobre a aplicação da presente diretiva, sobre todas as medidas tomadas para verificar a conformidade do funcionamento das médias instalações de combustão com a presente diretiva e sobre todas as medidas de execução tomadas para o efeito.\n\nO primeiro relatório a que se refere o primeiro parágrafo inclui uma estimativa das emissões anuais totais de SO2, NOx e de poeiras de médias instalações de combustão, agrupadas por tipo de instalação, tipo de combustível e categoria de capacidade.\n\n2. Os Estados-Membros apresentam igualmente um relatório à Comissão, até 1 de janeiro de 2021, com uma estimativa das emissões anuais totais de CO e todas as informações disponíveis sobre a concentração de emissões de CO provenientes de médias instalações de combustão, agrupadas por tipo de combustível e categoria de capacidade.\n\n3. Para efeitos da apresentação de relatórios a que se referem os n.^os^ 1 e 2, a Comissão faculta aos Estados-Membros uma ferramenta eletrónica para elaboração de relatórios.\n\nA Comissão especifica, por meio de atos de execução, os formatos técnicos dos relatórios para simplificar e racionalizar a sua apresentação obrigatória por parte dos Estados-Membros no que diz respeito às informações a que se referem os n.^os^ 1 e 2 do presente artigo. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º.\n\n4. A Comissão, no prazo de doze meses após a receção dos relatórios dos Estados-Membros nos termos do n.º 1 do presente artigo, e tendo em conta as informações disponibilizadas nos termos do artigo 6.º, n.^os^ 11 e 12, apresenta um relatório de síntese ao Parlamento Europeu e ao Conselho.\n\n5. No exercício das competências previstas nos n.^os^ 3 e 4, a Comissão é assistida pela Agência Europeia do Ambiente."
+  },
+  "4fd1272f892ada55": {
+   "fragment_id": "Artigo 12.º — Reexame",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reexame\n\n1. Até 1 de janeiro de 2020, a Comissão revê os progressos obtidos em matéria de eficiência energética das médias instalações de combustão e avalia os benefícios do estabelecimento de normas mínimas de eficiência energética de acordo com as melhores técnicas disponíveis.\n\n2. Até 1 de janeiro de 2023, a Comissão avalia a necessidade de rever as disposições relativas às instalações que fazem parte de pequenas redes isoladas ou de microrredes isoladas, e o anexo II, parte 2, de acordo com a mais recente evolução da tecnologia.\n\nNo âmbito desta revisão, a Comissão avalia também, relativamente a certos tipos ou a todas as médias instalações de combustão, em que medida há necessidade de regular as emissões de CO.\n\nPosteriormente, é efetuado um reexame de dez em dez anos, que inclui uma avaliação da conveniência de estabelecer valores-limite mais rigorosos, em especial para as médias instalações de combustão novas.\n\n3. A Comissão apresenta um relatório sobre os resultados das avaliações referidas nos n.^os^ 1 e 2 ao Parlamento Europeu e ao Conselho, acompanhado, se necessário, de uma proposta legislativa."
+  },
+  "45c23413adb38e2d": {
+   "fragment_id": "Artigo 13.º — Alteração dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração dos anexos\n\nA Comissão fica habilitada a adotar atos delegados, nos termos do artigo 14.º, para efeitos de adaptação do anexo III, parte 2, ponto 2, ao progresso técnico e científico."
+  },
+  "6140d06d782b9690": {
+   "fragment_id": "Artigo 14.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adoptar os atos delegados referidos no artigo 13.º é conferido à Comissão por um prazo de cinco anos a contar de 18 de dezembro de 2015. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 13.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adoptar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 13.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "0b7c882ede2f69b2": {
+   "fragment_id": "Artigo 15.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de comité\n\n1. A Comissão é assistida pelo comité criado pelo artigo 75.º, n.º 1, da Diretiva 2010/75/UE. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\n3. Na falta de parecer do Comité, a Comissão não pode adotar o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011."
+  },
+  "32feccbce5318132": {
+   "fragment_id": "Artigo 16.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sanções\n\nOs Estados-Membros estabelecem as regras relativas às sanções aplicáveis em caso de infrações às disposições nacionais aprovadas nos termos da presente diretiva e tomam todas as medidas necessárias para garantir a sua aplicação. As sanções previstas devem ser efetivas, proporcionadas e dissuasivas. Os Estados-Membros notificam essas disposições à Comissão até 19 de dezembro de 2017, e notificam-na sem demora de quaisquer alterações subsequentes que as afetem."
+  },
+  "506c22547231c9af": {
+   "fragment_id": "Artigo 17.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transposição\n\n1. Os Estados-Membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva até 19 de dezembro de 2017. Do facto informam imediatamente a Comissão.\n\nQuando os Estados-Membros adotarem essas disposições, estas incluem uma referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são estabelecidas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que adotarem nas matérias reguladas pela presente diretiva."
+  },
+  "aa57c1b8facb7cea": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "fef2bd15bc3b23d3": {
+   "fragment_id": "Artigo 19.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "1cf5bff8046a53e5": {
+   "fragment_id": "INFORMAÇÕES A FORNECER PELO OPERADOR À AUTORIDADE COMPETENTE",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A FORNECER PELO OPERADOR À AUTORIDADE COMPETENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A FORNECER PELO OPERADOR À AUTORIDADE COMPETENTE\n\n1. Potência térmica nominal (MW) da média instalação de combustão;\n\n2. Tipo de média instalação de combustão (motores diesel, turbinas a gás, motores de combustível duplo, outros motores ou outras médias instalações de combustão);\n\n3. Tipo e percentagem de combustíveis utilizados de acordo com as categorias de combustível estabelecidas no anexo II;\n\n4. Data de início do funcionamento da média instalação de combustão ou, se não for conhecida a data precisa do início da operação, prova de que a operação teve início antes de 20 de dezembro de 2018;\n\n5. Setor de atividade da média instalação de combustão ou o estabelecimento em que é aplicado (código NACE);\n\n6. O número esperado de horas de funcionamento por ano da média instalação de combustão e capacidade média em utilização;\n\n7. No caso das isenções previstas no artigo 6.º, n.^os^ 3 ou 8, uma declaração assinada pelo operador segundo a qual a média instalação de combustão não estará em funcionamento durante um período superior ao número de horas referidas nesses números;\n\n8. O nome e a sede social do operador e, no caso de médias instalações de combustão fixas, o endereço da localização da instalação."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "f59e271fdc7da95d": {
+   "fragment_id": "VALORES-LIMITE DE EMISSÃO A QUE SE REFERE O ARTIGO 6.º",
+   "type": "divisao",
+   "heading": "VALORES-LIMITE DE EMISSÃO A QUE SE REFERE O ARTIGO 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VALORES-LIMITE DE EMISSÃO A QUE SE REFERE O ARTIGO 6.º\n\nTodos os valores-limite de emissão estabelecidos no presente anexo são definidos a uma temperatura de 273,15 K, à pressão de 101,3 kPa e após correção do teor de vapor de água nos gases residuais, utilizando um teor normalizado de 6 % de O2 para as médias instalações de combustão que utilizam combustíveis sólidos, de 3 % para as médias instalações de combustão, com exceção dos motores e turbinas a gás, que utilizam combustíveis líquidos e gasosos, e de 15 % para os motores e turbinas a gás."
+  },
+  "26d20e00e510d0ac": {
+   "fragment_id": "PARTE 1",
+   "type": "divisao",
+   "heading": "PARTE 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE 1"
+  },
+  "94b169158266541e": {
+   "fragment_id": "Valores-limite de emissão para as médias instalações de combustão existentes",
+   "type": "divisao",
+   "heading": "Valores-limite de emissão para as médias instalações de combustão existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Valores-limite de emissão para as médias instalações de combustão existentes\n\n| Poluente | Biomassa Sólida | Outros combustíveis Sólidos | Gasóleo | Combustíveis líquidos, exceto o gasóleo | Gás natural | Combustíveis gasosos, exceto o gás natural |\n| --- | --- | --- | --- | --- | --- | --- |\n| SO2 | 200 [(^1^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0005) [(^2^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0006) | 1 100 | — | 350 | — | 200 [(^3^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0007) |\n| NOx | 650 | 650 | 200 | 650 | 250 | 250 |\n| Poeiras | 50 | 50 | — | 50 | — | — |\n| (^1^) Este valor não se aplica no caso das instalações que queimam exclusivamente biomassa sólida de madeira. (^2^) 300 mg/Nm^3^ no caso de instalações que queimam palhas. (^3^) 400 mg/Nm^3^ no caso de gases de baixo poder calorífico provenientes de fornos de coque da indústria siderúrgica. |  |  |  |  |  |  |\n\n| Poluente | Biomassa sólida | Outros combustíveis sólidos | Gasóleo | Combustíveis líquidos, exceto o gasóleo | Gás natural | Combustíveis gasosos, exceto o gás natural |\n| --- | --- | --- | --- | --- | --- | --- |\n| SO2 | 200 [(^1^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0008) [(^2^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0009) | 400 [(^3^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0010) | — | 350 [(^4^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0011) | — | 35 [(^5^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0012) [(^6^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0013) |\n| NOX | 650 | 650 | 200 | 650 | 200 | 250 |\n| Poeiras | 30 [(^7^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0014) | 30 [(^7^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0014) | — | 30 | — | — |\n| (^1^) Este valor não se aplica no caso das instalações que queimam exclusivamente biomassa sólida de madeira. (^2^) 300 mg/Nm3 no caso de instalações que queimam palhas. (^3^) 1 100 mg/Nm^3^ no caso de instalações com uma potência térmica nominal superior a 5 MW e inferior ou igual a 20 MW. (^4^) Até 1 de janeiro de 2030, 850 mg/Nm^3^ no caso de instalações com uma potência térmica nominal superior a 5 MW e inferior ou igual a 20 MW que queimam fuelóleo pesado. (^5^) 400 mg/Nm^3^ no caso de gases de baixo poder calorífico provenientes de fornos de coque e 200 mg/Nm^3^ no caso de gases de baixo poder calorífico provenientes de altos-fornos da indústria siderúrgica. (^6^) 170 mg/Nm^3^ no caso do biogás. (^7^) 50 mg/Nm^3^ no caso de instalações com uma potência térmica nominal superior a 5 MW e inferior e igual a 20 MW. |  |  |  |  |  |  |\n\n| Poluente | Tipo de média instalação de combustão | Gasóleo | Combustíveis líquidos, exceto o gasóleo | Gás natural | Combustíveis gasosos, exceto o gás natural |\n| --- | --- | --- | --- | --- | --- |\n| SO2 | Motores e turbinas a gás | — | 120 | — | 15 [(^1^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0015) [(^2^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0016) |\n| NOX | Motores | 190 [(^3^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0017) [(^4^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0018) | 190 [(^3^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0017) [(^5^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0019) | 190 [(^6^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0020) | 190 [(^6^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0020) |\n| Turbinas a gás [(^7^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0021) | 200 | 200 | 150 | 200 |  |\n| Poeiras | Motores e turbinas a gás | — | 10 [(^8^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0022) | — | — |\n| (^1^) 60 mg/Nm^3^ no caso do biogás. (^2^) 130 mg/Nm^3^ no caso de gases de baixo poder calorífico provenientes de fornos de coque e 65 mg/Nm^3^ no caso de gases de baixo poder calorífico provenientes de altos-fornos da indústria siderúrgica. (^3^) 1 850 mg/Nm^3^ nos seguintes casos: i) Para motores diesel cuja construção teve início antes de 18 de maio de 2006; ii) Para motores de combustível duplo em modo líquido. (^4^) 250 mg/Nm^3^ no caso de motores com uma potência térmica nominal igual ou superior a 1 MW e inferior ou igual a 5 MW. (^5^) 250 mg/Nm^3^ no caso de motores com uma potência térmica nominal igual ou superior a 1 MW e inferior ou igual a 5 MW; 225 mg/Nm^3^ no caso de motores com uma potência térmica nominal ou superior a 5 MW e inferior ou igual a 20 MW. (^6^) 380 mg/Nm^3^ para motores de combustível duplo em modo gasoso. (^7^) Os valores-limite de emissão são aplicáveis apenas acima de uma carga de 70 %. (^8^) 20 mg/Nm^3^ no caso de instalações com uma potência térmica nominal igual ou superior a 1 MW e inferior ou igual a 20 MW. |  |  |  |  |  |"
+  },
+  "d38a1a88e4f5053f": {
+   "fragment_id": "PARTE 2",
+   "type": "divisao",
+   "heading": "PARTE 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE 2"
+  },
+  "6f9369b2e64bf56c": {
+   "fragment_id": "Valores-limite de emissão para as médias instalações de combustão novas",
+   "type": "divisao",
+   "heading": "Valores-limite de emissão para as médias instalações de combustão novas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Valores-limite de emissão para as médias instalações de combustão novas\n\n| Poluente | Biomassa Sólida | Outros combustíveis sólidos | Gasóleo | Combustíveis líquidos, exceto o gasóleo | Gás natural | Combustíveis gasosos, exceto o gás natural |\n| --- | --- | --- | --- | --- | --- | --- |\n| SO2 | 200 [(^1^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0023) | 400 | — | 350 [(^2^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0024) | — | 35 [(^3^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0025) [(^4^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0026) |\n| NOx | 300 [(^5^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0027) | 300 [(^5^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0027) | 200 | 300 [(^6^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0028) | 100 | 200 |\n| Poeiras | 20 [(^7^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0029) | 20 [(^7^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0029) | — | 20 [(^8^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0030) | — | — |\n| (^1^) Este valor não se aplica no caso das instalações que queimam exclusivamente biomassa sólida de madeira. (^2^) Até 1 de janeiro de 2025, 1 700 mg/Nm^3^ no caso das instalações que façam parte de pequenas redes isoladas ou de microrredes isoladas. (^3^) 400 mg/Nm^3^ no caso de gases de baixo poder calorífico provenientes de fornos de coque e 200 mg/Nm^3^ no caso de gases de baixo poder calorífico provenientes de altos-fornos da indústria siderúrgica. (^4^) 100 mg/Nm^3^ no caso do biogás. (^5^) 500 mg/Nm^3^ no caso de instalações com uma potência térmica nominal total igual ou superior a 1 MW e inferior ou igual a 5 MW. (^6^) Até 1 de janeiro de 2025, 450 mg/Nm^3^ quando queimem fuelóleo pesado contendo entre 0,2 % e 0,3 % N e 360 mg/Nm^3^ quando queimem fuelóleo pesado contendo menos de 0,2 % N no caso das instalações que façam parte de pequenas redes isoladas ou de microrredes isoladas. (^7^) 50 mg/Nm^3^ no caso de instalações com uma potência térmica nominal total igual ou superior a 1 MW e inferior ou igual a 5 MW; 30 mg/Nm^3^ no caso de instalações com uma potência térmica nominal total superior a 5 MW e inferior ou igual a 20 MW. (^8^) 50 mg/Nm^3^ no caso de instalações com uma potência térmica nominal total igual ou superior a 1 MW e inferior ou igual a 5 MW. |  |  |  |  |  |  |\n\n| Poluente | Tipo de média instalação de combustão | Gasóleo | Combustíveis líquidos, exceto o gasóleo | Gás natural | Combustíveis gasosos, exceto o gás natural |\n| --- | --- | --- | --- | --- | --- |\n| SO2 | Motores e turbinas a gás | — | 120 [(^1^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0031) | — | 15 [(^2^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0032) |\n| NOx | Motores [(^3^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0033) [(^4^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0034) | 190 [(^5^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0035) | 190 [(^5^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0035) [(^6^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0036) | 95 [(^7^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0037) | 190 |\n| Turbinas a gás [(^8^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0038) | 75 | 75 [(^9^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0039) | 50 | 75 |  |\n| Poeiras | Motores e turbinas a gás | — | 10 [(^10^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0040) [(^11^)](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#E0041) | — | — |\n| (^1^) Até 1 de janeiro de 2025, 590 mg/Nm^3^ para motores diesel que façam parte de pequenas redes isoladas ou de microrredes isoladas. (^2^) 40 mg/Nm^3^, no caso do biogás. (^3^) Os motores que funcionem entre 500 e 1 500 horas por ano podem ser isentos da obrigação de cumprimento destes valores-limite de emissão se estiverem a ser aplicados métodos primários de redução das emissões de NOx e se forem respeitados os valores-limite estabelecidos na nota de rodapé ^4^. (^4^) Até 1 de janeiro de 2025, nas pequenas redes isoladas e de microrredes isoladas, 1 850 mg/Nm3 para motores de combustível duplo em modo líquido e 380 mg/Nm3 em modo gasoso; 1 300 mg/Nm^3^ para motores diesel a ≤ 1 200 rpm com uma potência térmica nominal total inferior ou igual a 20 MW e 1 850 mg/Nm^3^ para motores diesel com uma potência térmica nominal total superior a 20 MW; 750 mg/Nm^3^ para motores diesel a > 1 200 rpm. (^5^) 225 mg/Nm^3^ para motores de combustível duplo em modo líquido. (^6^) 225 mg/Nm^3^ para motores diesel com uma potência térmica nominal total inferior ou igual a 20 MW a ≤ 1 200 rpm. (^7^) 190 mg/Nm^3^ para motores de combustível duplo em modo gasoso. (^8^) Esses valores-limite de emissão são aplicáveis apenas acima de uma carga de 70 %. (^9^) Até 1 de janeiro de 2025, 550 mg/Nm^3^ para instalações que façam parte de pequenas redes isoladas ou de microrredes isoladas. (^10^) Até 1 de janeiro de 2025, 75 mg/Nm^3^ para motores diesel que façam parte de pequenas redes isoladas ou de microrredes isoladas. (^11^) 20 mg/Nm^3^ no caso de instalações com uma potência térmica nominal total igual ou superior a 1 MW e inferior ou igual a 5 MW. |  |  |  |  |  |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "79b929b983aa4f02": {
+   "fragment_id": "MONITORIZAÇÃO DAS EMISSÕES E VERIFICAÇÃO DO CUMPRIMENTO DOS VALORES-LIMITE",
+   "type": "divisao",
+   "heading": "MONITORIZAÇÃO DAS EMISSÕES E VERIFICAÇÃO DO CUMPRIMENTO DOS VALORES-LIMITE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MONITORIZAÇÃO DAS EMISSÕES E VERIFICAÇÃO DO CUMPRIMENTO DOS VALORES-LIMITE"
+  },
+  "87e22189381e6aa1": {
+   "fragment_id": "Monitorização das emissões efetuada pelo operador",
+   "type": "divisao",
+   "heading": "Monitorização das emissões efetuada pelo operador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Monitorização das emissões efetuada pelo operador\n\n1. Devem ser exigidas medições periódicas pelo menos:\n\n— de três em três anos para médias instalações de combustão com uma potência térmica nominal igual ou superior a 1 MW e inferior ou igual a 20 MW,\n\n— todos os anos para médias instalações de combustão com uma potência térmica nominal superior a 20 MW.\n\n2. Em alternativa à periodicidade referida no ponto 1, no que diz respeito a médias instalações de combustão sujeitas ao disposto no artigo 6.º, n.^os^ 3 ou 8, podem ser exigidas medições periódicas, pelo menos sempre que o seguinte número de horas seja ultrapassado:\n\n— três vezes a média do número máximo de horas de funcionamento anual, aplicável por força do artigo 6.º, n.^os^ 3 ou 8, para as médias instalações de combustão com uma potência térmica nominal igual ou superior a 1 MW e inferior ou igual a 20 MW,\n\n— a média do número máximo de horas de funcionamento anual, aplicável por força do artigo 6.º, n.^os^ 3 ou 8, para as médias instalações de combustão com uma potência térmica nominal superior a 20 MW.\n\n3. As medições são apenas necessárias no respeitante a:\n\na) Poluentes para os quais o valor-limite de emissão é estabelecido na presente diretiva para a instalação em causa;\n\nb) CO para todas as instalações.\n\n4. As primeiras medições realizam-se no prazo de quatro meses após a obtenção da licença ou o registo da instalação ou a data de entrada em funcionamento, consoante a que for posterior.\n\n5. Como alternativa às medições de SO2 referidas nos pontos 1, 2 e 3, alínea a), para determinar as emissões de SO2 podem ser utilizados outros processos, verificados e aprovados pela autoridade competente.\n\n6. Como alternativa às medições periódicas a que se refere o ponto 1, os Estados-Membros podem exigir que se realizem medições contínuas.\n\n7. A amostragem e a análise das substâncias poluentes e as medições dos parâmetros de processo, bem como quaisquer alternativas utilizadas tal como referido nos pontos 5 e 6, baseiam-se em métodos que produzam resultados fiáveis, representativos e comparáveis. Presume-se que os métodos que respeitam as normas harmonizadas CEN satisfazem estes requisitos. Durante cada medição, a instalação deve estar a funcionar em condições estáveis com uma carga representativa equilibrada. Neste contexto, excluem-se os períodos de arranque e de paragem."
+  },
+  "a0a45148b67762e0": {
+   "fragment_id": "Verificação do cumprimento dos valores-limite",
+   "type": "divisao",
+   "heading": "Verificação do cumprimento dos valores-limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Verificação do cumprimento dos valores-limite\n\n1. Em caso de medições periódicas, são considerados cumpridos os valores-limite de emissão a que se refere o artigo 6.º se os resultados de cada uma das séries de medições ou dos outros processos definidos e determinados de acordo com as regras aprovadas pela autoridade competente não ultrapassarem os valores-limite de emissão relevantes.\n\n2. Em caso de medições contínuas, o cumprimento dos valores-limite a que se refere o artigo 5.º é verificado nos termos descritos no anexo V, parte 4, ponto 1, da Diretiva 2010/75/UE.\n\n3. Para efeitos do cálculo dos valores médios de emissão, não são tomados em consideração os valores medidos durante os períodos referidos no artigo 6.º, n.^os^ 11 e 12, bem como durante os períodos de arranque e de paragem.\n\n---"
+  },
+  "9758f187360f876c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#src.E0001)) Diretiva 97/68/CE do Parlamento Europeu e do Conselho, de 16 de dezembro de 1997, relativa à aproximação das legislações dos Estados-Membros respeitantes a medidas contra a emissão de poluentes gasosos e de partículas pelos motores de combustão interna a instalar em máquinas móveis não rodoviárias (JO L 59 de 27.2.1998, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#src.E0002)) Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que define regras sanitárias relativas a subprodutos animais e produtos derivados não destinados ao consumo humano e que revoga o Regulamento (CE) n.º 1774/2002 (regulamento relativo aos subprodutos animais) (JO L 300 de 14.11.2009, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#src.E0003)) Diretiva 2009/72/CE do Parlamento Europeu e do Conselho, de 13 de julho de 2009, que estabelece regras comuns para o mercado interno da eletricidade e que revoga a Diretiva 2003/54/CE (JO L 211 de 14.8.2009, p. 55).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b2c67304-fd49-11e8-a96d-01aa75ed71a1.0004.02/DOC_1#src.E0004)) Diretiva 2008/98/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa aos resíduos e que revoga certas diretivas (JO L 312 de 22.11.2008, p. 3)."
+  }
+ }
+}

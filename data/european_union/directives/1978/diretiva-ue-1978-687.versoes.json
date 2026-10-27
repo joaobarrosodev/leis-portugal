@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978L0687:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0687-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1978-08-24",
+   "future": false,
+   "celex": "31978L0687",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5e7db58e0d4dc5af",
+    "d5039146a877a516",
+    "03fead5c8413ba70",
+    "0294bf7071d3a91b",
+    "43d41bea8060b309",
+    "333f36ff2f9c6da7",
+    "daed5a52620f866b",
+    "9c8d675b5f0cfc43",
+    "88801f7b87056022",
+    "4f54415eb6c6f315",
+    "6992f03d7547ebd0",
+    "71e4a4844bf8e40b",
+    "9ef81ab67eec1451",
+    "a0d39a75f9eed871",
+    "171776103182f21e"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01978L0687-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — CONDIÇÕES DE FORMAÇÃO",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime CAPÍTULO II — ÂMBITO DE ACTIVIDADE",
+    "Suprime Artigo 5o",
+    "Suprime CAPÍTULO III — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime ANEXO — Programa de estudos para os dentistas"
+   ],
+   "fragments": [
+    "4d1b6df48ee4534e"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01978L0687-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "7817fe5c4b43218d"
+   ]
+  }
+ ],
+ "fragments": {
+  "5e7db58e0d4dc5af": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 78/687/CEE do Conselho, de 25 de Julho de 1978, que tem por objectivo a coordenação das disposições legislativas, regulamentares e administrativas relativas às actividades de dentista** *Jornal Oficial nº L 233 de 24/08/1978 p. 0010 - 0014 Edição especial finlandesa: Capítulo 6 Fascículo 2 p. 0006 Edição especial grega: Capítulo 05 Fascículo 3 p. 0021 Edição especial sueca: Capítulo 6 Fascículo 2 p. 0006 Edição especial espanhola: Capítulo 06 Fascículo 2 p. 0040 Edição especial portuguesa: Capítulo 06 Fascículo 2 p. 0040*\n\nDIRECTIVA DO CONSELHO de 25 de Julho de 1978 que tem por objectivo a coordenação das disposições legislativas, regulamentares e administrativas relativas às actividades de dentista\n\n(78/687/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e nomeadamente os seus artigos 49o, 57o, 66o e 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, para realizar o reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista tal como o determina a Directiva 78/686/CEE do Conselho, de 25 de Julho de 1978, que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista e que inclui medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços (3), a similitude das formações nos Estados-membros permite limitar a coordenação nesse domínio à exigência do respeito de normas mínimas, deixando aos Estados-membros, quanto ao resto, a liberdade de organizarem o respectivo ensino;\n\nConsiderando que, tendo em vista o reconhecimento mútuo dos diplomas, certificados e outros títulos de dentista especialista e a fim de colocar todos os profissionais nacionais dos Estados-membros em plano de igualdade na Comunidade, se afigura necessária uma certa coordenação das condições de formação do dentista especialista; que é conveniente prever, para o efeito, critérios mínimos relativos, quer ao acesso à formação especializada, quer à duração mínima desta, ao seu modo de ensino e ao lugar onde deve ser efectuada, bem como ao controlo a que deve ser submetida; que tais critérios só dizem respeito às especialidades comuns a vários Estados-membros;\n\nConsiderando que é conveniente, por razões de saúde pública, avançar-se, na Comunidade, para uma definição comum do domínio de actividade dos profissionais em causa; que a presente directiva não permite, no estado actual, alcançar uma coordenação completa do domínio da actividade do dentista nos diferentes Estados-membros;\n\nConsiderando que os Estados-membros assegurarão, a partir da aplicação da presente directiva, que a formação de dentista confira a competência necessária ao conjunto das actividades de prevenção, diagnóstico e tratamento relativamente às anomalias e doenças dos dentes, da boca, dos maxilares e dos tecidos atinentes;\n\nConsiderando que a coordenação das condições de exercício prevista na presente directiva não exclui uma coordenação ulterior;\n\nConsiderando que a coordenação prevista na presente directiva diz respeito à formação profissional dos dentistas; que, no que respeita à formação, a maioria dos Estados-membros não faz, actualmente, distinção entre os dentistas que exercem a sua actividade como assalariados e os que a exercem como independentes; que, por essa razão, e para favorecer plenamente a livre circulação dos profissionais na Comunidade, se torna necessário alargar ao dentista assalariado a aplicação da presente directiva;\n\nConsiderando que, no momento da notificação da presente directiva, as actividades de dentista são exercidas em Itália unicamente por médicos especializados ou não em odontostomatologia; que a presente directiva tem por efeito obrigar a Itália a criar uma nova categoria de profissionais habilitados a exercer as actividades de dentista com um título que não o de médico; que a criação de uma nova profissão implica, em Itália a criar uma nova categoria de profissionais habilitados a exercer as actividades de dentista com um título que não o de médico; que a criação de uma nova profissão implica, em Itália, não só a instauração de uma formação específica que corresponda aos critérios da presente directiva, mas também o lançamento das estruturas da nova profissão, tais como, por exemplo, uma ordem profissional; que, tendo em conta a amplitude das medidas a adoptar, é conveniente conceder um prazo suplementar para permitir à Itália dar cumprimento à presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d5039146a877a516": {
+   "fragment_id": "CAPÍTULO I — CONDIÇÕES DE FORMAÇÃO",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — CONDIÇÕES DE FORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — CONDIÇÕES DE FORMAÇÃO"
+  },
+  "03fead5c8413ba70": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros farão depender o acesso às actividades de dentista, exercidas sob os títulos referidos no artigo 1o da Directiva 78/686/CEE, e seu exercício, da posse de um diploma, certificado ou outro título referido no artigo 3o da mesma directiva comprovativo de que o interessado adquiriu no período total da sua formação:\n\na) Conhecimentos adequados das ciências em que assenta a actividade de dentista, bem como uma boa compreensão dos métodos científicos e, nomeadamente, dos princípios da medida das funções biológicas, da apreciação de factos cientificamente estabelecidos e da análise de dados;\n\nb) Conhecimentos adequados da constituição, da fisiologia e do comportamento dos indivíduos sãos e doentes, bem como da influência do meio natural e do meio social sobre o estado de saúde do ser humano, na medida em que tais elementos tenham relação com a actividade de dentista;\n\nc) Conhecimentos adequados da estrutura e da função dos dentes, da boca, dos maxilares e dos tecidos atinentes, sãos e doentes, bem como das suas relações com o estado de saúde geral e o bem-estar físico e social do paciente;\n\nd) Conhecimentos adequados das disciplinas e métodos clínicos que forneçam um quadro coerente das anomalias, lesões e doenças dos dentes, da boca, dos maxilares e dos tecidos atinentes, bem como dos aspectos preventivo, de diagnóstico e terapêutico da odontologia;\n\ne) Experiência clínica adequada sob orientação apropriada.\n\nEsta formação deve conferir-lhe a competência necessária ao conjunto das actividades de prevenção, de diagnóstico e tratamento relativamente às anomalias e doenças dos dentes, da boca, dos maxilares e dos tecidos atinentes.\n\n2. Esta formação dentária inclui, globalmente, pelo menos cinco anos de estudos teóricos e práticos a tempo inteiro incidindo sobre as matérias constantes do anexo e efectuados numa universidade, num instituto superior de nível reconhecido como equivalente ou sob o controlo de uma universidade.\n\n3. A admissão a esta formação está sujeita à posse de um diploma ou certificado que dê acesso, relativamente aos estudos em causa, aos estabelecimentos universitários, ou institutos superiores de nível reconhecido como equivalente, de um Estado-membro.\n\n4. A presente directiva não prejudica a possibilidade de os Estados-membros permitirem no seu território, de acordo com a sua regulamentação, o acesso às actividades de dentista e o seu exercício aos titulares de diplomas, certificados ou outros títulos que não tenham sido obtidos num Estado-membro."
+  },
+  "0294bf7071d3a91b": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Os Estados-membros velarão por que a formação que conduz à obtenção de um diploma, certificado ou outro título de dentista especialista satisfaça, pelo menos, as seguintes condições:\n\na) Pressuponha a realização completa e com êxito de cinco anos de estudos teóricos e práticos a tempo inteiro no âmbito do ciclo de formação previsto no artigo 1o, ou a posse dos documentos referidos no no 1 do artigo 7o da Directiva 78/686/CEE;\n\nb) Inclua um ensino teórico e prático;\n\nc) Seja efectuada a tempo inteiro durante, pelo menos, três anos e sob o controlo das autoridades ou organismos competentes;\n\nd) Seja efectuada num centro universitário, num centro de saúde, de ensino e de investigação ou, eventualmente, num estabelecimento de saúde reconhecido para o efeito pelas autoridades ou organismos competentes;\n\ne) Inclua a participação pessoal do dentista candidato a especialista na actividade e nas responsabilidades dos serviços em causa.\n\n2. Os Estados-membros farão depender a concessão de um diploma, certificado ou outro título de dentista especialista da posse de um dos diplomas, certificados ou outros títulos de dentista referidos no artigo 1o ou dos documentos referidos no no 1 do artigo 7o da Directiva 78/686/CEE.\n\n3. Os Estados-membros designarão, no prazo fixado no artigo 8o, as autoridades ou organismos competentes para a concessão dos diplomas, certificados e outros títulos previstos no no 1.\n\n4. Os Estados-membros podem derrogar ao disposto na alínea a) do no 1. Os beneficiários de tal derrogação não podem invocar o artigo 4o da Directiva 78/686/CEE."
+  },
+  "43d41bea8060b309": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Sem prejuízo do princípio da formação a tempo inteiro, enunciado no no 1, alínea c), do artigo 2o e enquanto não forem tomadas pelo Conselho as decisões nos termos do no 3, os Estados-membros podem autorizar uma formação especializada a tempo parcial, nas condições aprovadas pelas autoridades nacionais competentes, e quando, por motivos justificados, não seja possível realizar uma formação a tempo inteiro.\n\n2. A duração total da formação especializada não pode ser reduzida em consequência do disposto no no 1. O nível de formação não pode ser comprometido, nem pelo facto de se tratar de formação a tempo parcial, nem pelo exercício de uma actividade profissional remunerada a título privado.\n\n3. O mais tardar quatro anos após a notificação da presente directiva e à luz de um reexame da situação, o Conselho deliberando sob proposta da Comissão, e tendo em conta que a possibilidade de formação a tempo parcial deve continuar a existir em determinadas circunstâncias a examinar por especialidade, decidirá se as disposições dos no 1 e 2 devem ser mantidas ou alteradas."
+  },
+  "333f36ff2f9c6da7": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nA título transitório, e em derrogação do disposto no no 1, alínea c), do artigo 2o e no artigo 3o, os Estados-membros cujas disposições legislativas, regulamentares e administrativas prevejam um modo de formação especializada a tempo parcial, no momento da notificação da presente directiva, podem continuar a aplicar tais disposições aos candidatos que iniciem a formação de especialistas, o mais tardar, nos quatro anos seguintes à notificação da presente directiva. Este período pode ser prolongado se o Conselho não tiver tomado uma decisão por força do no 3 do artigo 3o."
+  },
+  "daed5a52620f866b": {
+   "fragment_id": "CAPÍTULO II — ÂMBITO DE ACTIVIDADE",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — ÂMBITO DE ACTIVIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — ÂMBITO DE ACTIVIDADE"
+  },
+  "9c8d675b5f0cfc43": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros assegurarão que os dentistas se encontram habilitados, de um modo geral, a aceder às actividades de prevenção, diagnóstico e tratamento relativamente às anomalias e doenças dos dentes, da boca, dos maxilares e dos tecidos atinentes, bem como ao exercício dessas actividades, no respeito das disposições regulamentares e normas de deontologia que regem a profissão no momento da notificação da presente directiva.\n\nOs Estados-membros em que não existam tais disposições e regras podem precisar ou limitar o exercício de certas actividades referidas no parágrafo anterior numa medida comparável à existente nos outros Estados-membros."
+  },
+  "88801f7b87056022": {
+   "fragment_id": "CAPÍTULO III — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — DISPOSIÇÕES FINAIS"
+  },
+  "4f54415eb6c6f315": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs beneficiários do artigo 19o da Directiva 78/686/CEE são considerados como preenchendo as condições previstas no no 1, alínea a), do artigo 2o.\n\nPara efeitos do disposto no no 2 do artigo 2o, os beneficiários do artigo 19o da Directiva 78/686/CEE são equiparados aos titulares de um dos diplomas, certificados ou outros títulos de dentista referidos no artigo 1o."
+  },
+  "6992f03d7547ebd0": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA presente directiva é igualmente aplicável aos nacionais dos Estados-membros que, nos termos do Regulamento (CEE) no 1612/68 do Conselho, de 15 de Outubro de 1968, relativo à livre circulação dos trabalhadores na Comunidade (4), exerçam ou venham a exercer, como assalariados, uma das actividades referidas no artigo 1o da Directiva 78/686/CEE."
+  },
+  "71e4a4844bf8e40b": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Os Estados-membros tomarão todas as medidas necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da data da sua notificação. Desse facto informarão imediatamente a Comissão. Contudo, a Itália disporá de um prazo máximo de seis anos para tomar tais medidas.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "9ef81ab67eec1451": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nSe num Estado-membro surgirem, na aplicação da presente directiva, dificuldades graves em certos domínios, a Comissão examinará tais dificuldades em colaboração com esse Estado e solicitará o parecer do Comité de Altos Funcionários da Saúde Pública instituído pela Decisão 75/365/CEE (5), com a última redacção que lhe foi dada pela Decisão 78/689/CEE (6).\n\nA Comissão submeterá ao Conselho, quando necessário, propostas adequadas."
+  },
+  "a0d39a75f9eed871": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 25 de Julho de 1978.\n\nPelo Conselho\n\nO Presidente\n\nK. von DOHNANYI\n\n(1) JO no C 101 de 4. 8. 1970, p. 19.(2) JO no C 36 de 28. 3. 1970, p. 19.(3) JO no L 233 de 24. 8. 1978, p. 1.(4) JO no L 257 de 19. 10. 1968, p. 2.(5) JO no L 167 de 30. 6. 1975, p. 19.(6) JO no L 233 de 24. 8. 1978, p. 17."
+  },
+  "171776103182f21e": {
+   "fragment_id": "ANEXO — Programa de estudos para os dentistas",
+   "type": "divisao",
+   "heading": "ANEXO — Programa de estudos para os dentistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Programa de estudos para os dentistas\n\nO programa de estudos para obtenção dos diplomas, certificados e outros títulos de dentista inclui, pelo menos, as seguintes disciplinas. O ensino de uma ou mais destas pode ser ministrado no âmbito de outras disciplinas ou em ligação com estas.\n\na) Disciplinas de base\n\nQuímica\n\nFísica\n\nBiologia\n\nb) Disciplinas médico-biológicas e disciplinas médicas gerais\n\nAnatomia\n\nEmbriologia\n\nHistologia, incluindo a citologia\n\nFisiologia\n\nBioquímica (ou química fisiológica)\n\nAnatomia patológica\n\nPatologia geral\n\nFarmacologia\n\nMicrobiologia\n\nHigiene\n\nProfilaxia e epidemiologia\n\nRadiologia\n\nFisiatria\n\nCirurgia geral\n\nMedicina interna, incluindo a pediatria\n\nOtorrinolaringologia\n\nDermatovenerealogia\n\nPsicologia geral - psicopatologia - neuropatologia\n\nAnestesiologia\n\nc) Disciplinas especificamente odontostomatológicas\n\nPrótese dentária\n\nMaterial dentário\n\nMedicina dentária de conservação\n\nMedicina dentária preventiva\n\nAnestesia e sedação em medicina dentária\n\nCirurgia especial\n\nPatologia especial\n\nPrática clínica odontostomatológica\n\nPedodontia\n\nOrtodontia\n\nPeriodontologia\n\nRadiologia odontológica\n\nFunção mastigadora\n\nOrganização profissional, deontologia e legislação\n\nAspectos sociais da prática odontológica"
+  },
+  "4d1b6df48ee4534e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L0687 — PT — 01.01.2007 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/378L0687) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/378L0687) [de 25 de Julho de 1978](http://publications.europa.eu/resource/celex/378L0687) [que tem por objectivo a coordenação das disposições legislativas, regulamentares e administrativas relativas às actividades de dentista](http://publications.europa.eu/resource/celex/378L0687) [(78/687/CEE)](http://publications.europa.eu/resource/celex/378L0687) (JO L 233, 24.8.1978, p.10)\n\n**revogado por:**"
+  },
+  "7817fe5c4b43218d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L0687 — PT — 20.10.2007 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31978L0687) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31978L0687) [de 25 de Julho de 1978](http://publications.europa.eu/resource/celex/31978L0687) [que tem por objectivo a coordenação das disposições legislativas, regulamentares e administrativas relativas às actividades de dentista](http://publications.europa.eu/resource/celex/31978L0687) [(78/687/CEE)](http://publications.europa.eu/resource/celex/31978L0687) (JO L 233, 24.8.1978, p.10)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

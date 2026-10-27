@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:386401:por
+title: Portaria n.º 346/84
+short_title: null
+summary: Introduz várias alterações no Regulamento sobre o Transporte de Produtos Explosivos por Estrada, aprovado pelo Decreto-Lei
+  n.º 143/79, de 23 de Maio
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Administração Interna e do Equipamento Social
+proposing_entity: null
+official_number: 346/84
+official_date: null
+publication_date: '1984-06-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 132/1984, Série I de 1984-06-07
+  number: '132'
+  series: I
+  supplement: null
+  pages: 1809 - 1811
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/06/13200/18091811.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '386401'
+  dre_path: /dr/detalhe/portaria/346-1984-386401
+  internal: pt:dre:386401:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-1984-386401
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-1984-386401
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:02:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d4cdf54e10c75baf3569b86be3941a24e8ed595538afad296119a913c043b0fe
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:02:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Regulamento
+- Transporte de Mercadorias Perigosas
+- Transporte Terrestre
+relationships:
+- type: amended_by
+  target: pt:dre:457066:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:382787:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:457066:por
+  label: "Revogado, na parte aplicável ao transporte rodoviário, pelo DEC LEI.77/97.1997.04.05.MEPAT, DR.IS-A [80], na data\
+    \ da entrada em vigor das portarias previstas nesse diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1997-457066
+  date: '1997-04-05'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:02:30Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 346/84
+
+de 7 de Junho
+
+Tendo-se verificado, após 4 anos de aplicação do Regulamento sobre o Transporte de Produtos Explosivos por Estrada, aprovado pelo [Decreto-Lei n.º 143/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1979-382787), de 23 de Maio, e rectificado no Diário da República, 1.ª série, n.º 191, de 20 de Agosto de 1979 (p. 2001), que algumas das suas disposições, de natureza técnica, carecem de ser modificadas;
+
+Atendendo a que, com a introdução das modificações julgadas indispensáveis, o referido Regulamento passará a conter disposições que lhe permitirão ficar devidamente actualizado, de harmonia com o estabelecido na última edição do Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Estrada (ADR), e, ao mesmo tempo, possibilitar maior economia no transporte interno de determinados produtos, quer pela concessão de maiores quantidades de carga transportada por veículo, quer pela autorização de transporte em conjunto no mesmo veículo de alguns produtos explosivos classificados em classes ou categorias diferentes, quer ainda pela utilização de veículos de caixa fechada (ou de contentores) com 2 compartimentos em substituição dos veículos de caixa fechada com reboque atrelado apenas nos casos em que se reconhece não haver prejuízo para a segurança;
+
+Tendo presente que as normas nele estabelecidas apenas se aplicam aos transportes que se efectuem em meios de transporte civis sob a responsabilidade de entidades ou de empresas civis:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna e do Equipamento Social, ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 143/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1979-382787), de 23 de Maio, introduzir as seguintes alterações no Regulamento sobre o Transporte de Produtos Explosivos por Estrada, aprovado por aquele decreto-lei:
+
+1.º As alíneas b) e d) do n.º 1 do artigo 3.º (Matérias perigosas) passam a ter as seguintes redacções:
+
+1 - ...
+
+a) ...
+
+b) Os metais em pó, como o alumínio, o zinco, o magnésio, o níquel, o zircónio e o titânio ou suas misturas;
+
+c) ...
+
+d) As matérias comburentes, como: os cloratos, os percloratos, os cloritos, os nitratos, os peróxidos e os permanganatos, especialmente os de metais alcalinos ou alcalino-terrosos; os percloratos e os nitratos de amónio, ou suas misturas (entre as quais os adubos nitrados); o tetranitrometano e os nitritos inorgânicos.
+
+2.º O artigo 6.º (Transporte de matérias perigosas em pequenas quantidades) passa a ter a seguinte redacção:
+
+Os transportes de metais alcalinos, alcalino-terrosos ou suas ligas, até 10 kg, de metais em pó, como o alumínio, o zinco, o magnésio, o níquel, o zircónio, o titânio ou suas misturas, até 100 kg, de fósforo branco ou amarelo e de fósforo vermelho, até 50 kg, de nitroceluloses humedecidas (com menos de 12,6% de azoto) ou de nitroceluloses plastificadas (com menos de 12,6% de azoto e com, pelo menos, 18% de plastificante), até 50 kg, de matérias comburentes, como os cloratos, os percloratos, os cloritos, os nitratos, os peróxidos e os permanganatos ou suas misturas (com excepção dos adubos nitrados), o tetranitrometano e os nitritos inorgânicos, até 10 kg, e de peróxidos orgânicos (fleumatizados), até 5 kg, também se poderão fazer sem obediência às prescrições especiais referidas no n.º 1 do artigo 5.º desde que não estejam incluídos, em conjunto ou com produtos explosivos das classes 1-a, 1-b ou 1-c, no mesmo veículo ou no reboque que este possa ter atrelado.
+
+3.º O n.º 1 do artigo 20.º (Carga máxima) passa a ter a seguinte redacção:
+
+1 - O tipo e as características técnicas dos veículos automóveis a utilizar (quadro II), bem como o seu equipamento, variam com a natureza e as quantidades dos produtos a transportar, não podendo em qualquer caso a carga máxima com tais produtos exceder 90% da carga autorizada para as mercadorias ordinárias nem os seguintes limites por veículo:
+
+Produtos explosivos:
+
+... Quilogramas
+
+Veículos sem reboque ... 6000
+
+Veículos com reboque ... 10000
+
+Peróxidos orgânicos (fleumatizados) ... 10000
+
+Matérias comburentes (exceptuando os nitratos embalados e os adubos nitrados) ... 15000
+
+Restantes matérias referidas no artigo 6.º ... 15000
+
+Nitratos embalados ou adubos nitrados ... 20000
+
+Matérias comburentes a granel ou em solução ... 25000
+
+4.º O n.º 2 do artigo 23.º (Transporte de tetranitrometano e de soluções de matérias comburentes em veículos-cisternas ou em contentores-cisternas) passa a considerar o transporte do clorato de sódio pulverulento e do nitrato de amónio em solução, pelo que a sua redacção é substituída pela seguinte:
+
+2 - O tetranitrometano, o clorato de sódio pulverulento no estado seco, as soluções de cloratos ou de percloratos (com excepção dos de amónio) e as soluções de cloritos de sódio ou de potássio podem ser transportados em veículos-cisternas ou em contentores-cisternas, cujos reservatórios deverão ser de estanquidade absoluta e construídos de chapa de aço capaz de resistir a uma pressão manométrica mínima de 4 kg/cm2; para as soluções de cloratos (com excepção dos de amónio), as cisternas poderão também ser de matérias plásticas reforçadas; o nitrato de amónio, em soluções aquosas concentradas e quentes, não contendo mais de 0,02% de substâncias combustíveis e não ultrapassando uma concentração de 93%, pode também ser transportado em veículos-cisternas, cujos reservatórios sejam construídos de aço austenítico e estejam envolvidos por uma protecção calorífuga de natureza inorgânica e isenta de matéria combustível.
+
+5.º O n.º 1 do artigo 25.º (Transporte de fósforo branco ou amarelo em veículos-cisternas ou em contentores-cisternas) passa a ter a seguinte redacção:
+
+1 - Os transportes de fósforo branco ou amarelo podem também realizar-se em veículos-cisternas ou em contentores-cisternas, cujos reservatórios deverão ser hermeticamente estanques e construídos de chapa de aço capaz de resistir a uma pressão manométrica mínima de 10 kg/cm2, desde que como agente de protecção se empregue a água ou o azoto; no caso da água, o fósforo deve ficar coberto com uma camada de água de 12 cm de espessura, pelo menos, deixando-se um espaço vazio que, à temperatura de 60ºC, será, pelo menos, igual a 2% da capacidade total do reservatório; no caso do azoto, o fósforo não deverá ocupar, à temperatura de 60ºC, mais de 96% da capacidade total do reservatório, sendo o espaço restante cheio de azoto, de modo que a pressão interior nunca desça abaixo da pressão atmosférica; os reservatórios deverão possuir do lado exterior um dispositivo de aquecimento regulado de modo a impedir que a temperatura do fósforo ultrapasse a temperatura de enchimento; o fósforo branco fundido pode também ser transportado em cisternas.
+
+6.º O n.º 1 do artigo 26.º (Transporte de peróxidos orgânicos líquidos em veículos-cisternas ou em contentores-cisternas) passa a considerar mais 2 peróxidos orgânicos líquidos, além dos 3 peróxidos nele mencionados, pelo que a redacção do seu primeiro período é substituída pela seguinte:
+
+1 - Determinados peróxidos orgânicos líquidos (a saber: o hidroperóxido de cumeno, o hidroperóxido de p-mentano, o hidroperóxido de pipano, todos com um teor de peróxido não ultrapassando 95%, o hidroperóxido de di-isopropilbenzeno com 45% de uma mistura de álcool e de cetona e o peróxido de butilo terciário) podem também ser transportados em veículos-cisternas ou em contentores-cisternas cujos reservatórios, construídos de chapa de alumínio com um teor de 99,5%, pelo menos, ou de aço especial apropriado que não provoque a decomposição dos peróxidos, sejam capazes de resistir a uma pressão manométrica mínima de 4 kg/cm2 e estejam equipados com um dispositivo de arejamento, uma protecção contra a propagação da chama, uma protecção calorífuga e uma válvula de segurança que abra automaticamente sob uma pressão manométrica interior de 1,8 kg/cm2 a 2,2 kg/cm2.
+
+7.º Acrescentar ao artigo 33.º mais um número, com a seguinte redacção:
+
+Veículos dispondo de caixa fechada, ou de contentor, com 2 compartimentos
+
+9 - Os veículos automóveis sem reboque que, além de satisfazerem as características referidas no n.º 6 do artigo 20.º, possuam caixa fechada constituída por 2 compartimentos, bem isolados um do outro por uma parede metálica dupla, com 0,50 m de espessura, pelo menos, preenchida com material amortecedor e revestida por material ininflamável, ou que utilizem contentor com 2 compartimentos obedecendo aos mesmos requisitos, poderão ser considerados equivalentes, do ponto de vista de segurança, aos veículos automóveis de caixa fechada com reboque atrelado e ser utilizados no transporte interno de produtos de natureza diferente a efectuar de acordo com o disposto no quadro I, se, após inspecções realizadas pela Direcção-Geral de Viação e pela Comissão dos Explosivos, forem considerados em condições de lhes ser passado o respectivo certificado de aprovação.
+
+8.º Na utilização do quadro I (Transporte de produtos de natureza diferente em veículos automóveis) são permitidas as seguintes derrogações:
+
+Para as mechas de combustão rápida e cordões detonantes da 5.ª categoria da classe 1-b, pode considerar-se V em vez de R, no seu transporte com produtos da 1.ª, 3.ª ou 4.ª categorias da classe 1-a.
+
+Para as mechas de combustão lenta da 1.ª categoria da classe 1-c, pode considerar-se V em vez de R, no seu transporte com produtos da 1.ª, 3.ª ou 4.ª categorias da classe 1-a ou da 1.ª ou 5.ª categorias da classe 1-b.
+
+9.º No quadro II (Veículos de transporte) a redacção correspondente à «Carga máxima» (localizada no seu canto inferior direito) passa a ser a seguinte:
+
+Carga máxima:
+
+90% da carga autorizada para as mercadorias ordinárias, não excedendo 6000 kg por veículo sem reboque ou 10000 kg por veículo com reboque carregado de produtos explosivos, 10000 kg por veículo carregado de peróxidos orgânicos (fleumatizados), 15000 kg por veículo carregado de matérias comburentes (exceptuando os nitratos embalados e os adubos nitrados), 15000 kg por veículo carregado de qualquer uma das restantes matérias referidas no artigo 6.º, 20000 kg por veículo carregado de nitratos embalados ou carregado de adubos nitrados, ou 25000 kg por veículo carregado de matérias comburentes a granel ou em solução (artigo 20.º, n.º 1), nem as cargas referidas no artigo 22.º, n.os 3, 4 e 5, para os peróxidos orgânicos que necessitam de agente frigorígeno.
+
+10.º O n.º 6.º, alíneas a) e d), da classe 4.2 do apêndice II passa a ter a seguinte redacção:
+
+6.º - a) Alumínio em pó, zinco em pó e suas misturas, zircónio em pó e titânio em pó.
+
+d) Metais sob forma pirofórica.
+
+11.º O n.º 3 do apêndice III passa a considerar também os produtos a seguir indicados e os respectivos números de identificação:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/13200/18091811.pdf)
+
+e o número de identificação da natureza do perigo do fósforo branco ou amarelo passa a ser 46 em vez de 436.
+
+12.º São suprimidos os n.os 4, 5, 6 e 7 do apêndice III e o n.º 8 passa a constituir o n.º 4, com a seguinte redacção:
+
+4 - Para se poder interpretar o número de identificação da natureza do perigo, apresenta-se o quadro seguinte:
+
+(Quadro do actual n.º 8, completado com o significado do algarismo 4, a inscrever na segunda coluna: Estado fundido e a temperatura elevada.)
+
+13.º O n.º 9 do apêndice III passa a constituir o n.º 5, com a seguinte redacção:
+
+5 - Quando os dois primeiros algarismos do número de identificação da natureza do perigo são iguais, como, por exemplo, 33, 55, 66 ou 88, isso indica que se trata de produtos em que se verifica uma intensificação do perigo principal; porém, a combinação 22 significa que o produto é um gás refrigerado e 44 que é um sólido inflamável no estado fundido e a temperatura elevada; a combinação 42 significa que o produto é um sólido inflamável que pode libertar gases quando em contacto com a água.
+
+Ministérios da Administração Interna e do Equipamento Social.
+
+Assinada em 21 de Maio de 1984.
+
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - O Ministro do Equipamento Social, João Rosado Correia.

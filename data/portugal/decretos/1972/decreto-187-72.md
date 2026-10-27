@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:681975:por
+title: Decreto n.º 187/72
+short_title: null
+summary: Insere disposições relativas a isenção de direitos e mais imposições aduaneiras aplicáveis a determinadas mercadorias
+  importadas nas províncias ultramarinas - Dá nova redacção às alíneas b) e c) do artigo 1.º do Decreto n.º 41024 - Fixa,
+  nas províncias de governo simples, o limite anual para a percepção dos emolumentos referidos no artigo 278.º do Estatuto
+  Orgânico das Alfândegas do Ultramar pelo pessoal dos quadros aduaneiros - Regula a forma de provimento do lugar de chefe
+  da Repartição Provincial das Alfândegas de Timor
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Inspecção Superior das Alfândegas do Ultramar
+proposing_entity: null
+official_number: 187/72
+official_date: null
+publication_date: '1972-06-02'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 129/1972, Série I de 1972-06-02
+  number: '129'
+  series: I
+  supplement: null
+  pages: 751 - 751
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/06/12900/07510751.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '681975'
+  dre_path: /dr/detalhe/decreto/187-1972-681975
+  internal: pt:dre:681975:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/187-1972-681975
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/187-1972-681975
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:22:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b759a1650239e13a2e8a2f811460328c3a074829e9cad2fd9c320ca23bc1d2d5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:487317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:22:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 187/72
+
+de 2 de Junho
+
+Sendo conveniente conceder facilidades à importação nas províncias ultramarinas de tractores, máquinas, utensílios e alfaias agrícolas pertencentes a agricultores metropolitanos que pretendam transferir as suas actividades para as mesmas províncias;
+
+Considerando a necessidade de rever a redacção de certas disposições do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921);
+
+Tendo em conta a conveniência de facilitar o acesso à chefia dos Serviços das Alfândegas de Timor;
+
+Por motivo de urgência, ao abrigo do § 3.º do artigo 136.º da Constituição;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+Artigo 1.º - 1. Pode ser concedida isenção de direitos e mais imposições aduaneiras, excepto o selo do despacho, na importação nas províncias ultramarinas de tractores, veículos do tipo jeep e semelhantes, reboques, máquinas, aparelhos, utensílios e alfaias agrícolas pertencentes a agricultores metropolitanos que para elas pretendam transferir as suas actividades e destinados ao seu uso exclusivo.
+
+2. A isenção referida no n.º 1 abrange os emolumentos gerais aduaneiros.
+
+3. A concessão das isenções depende de parecer favorável da Junta Provincial de Povoamento ou dos organismos competentes das províncias ultramarinas.
+
+Art. 2.º A redacção das alíneas b) e c) do artigo 1.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957, passa a ser a seguinte:
+
+b) Aparelhos, máquinas e seus acessórios ou peças separadas, instrumentos e utensílios, destinados a quaisquer serviços públicos;
+
+c) Material fixo e circulante para caminhos de ferro, seus acessórios e peças separadas, cábreas, docas e guindastes flutuantes, dragas, pontões, picadeiros, carros para elevar embarcações e respectivas torres de manobra, seus acessórios e peças separadas, quando sejam importados pelos serviços de portos e caminhos de ferro.
+
+Art. 3.º Nas províncias de governo simples o limite anual para a percepção dos emolumentos referidos no artigo 278.º do Estatuto Orgânico das Alfândegas do Ultramar pelo pessoal dos quadros aduaneiros passa a ser 60 por cento da soma dos respectivos vencimentos base e complementar.
+
+Art. 4.º - 1. Para efeito de provimento do lugar de chefe da Repartição Provincial das Alfândegas de Timor a promoção a chefe de serviço poderá ser feita sem obediência, no que respeita ao tempo de serviço na categoria de reverificador-chefe, ao disposto no artigo 3.º do [Decreto n.º 46975](https://diariodarepublica.pt/dr/detalhe/decreto/46975-1966-487317).
+
+2. Os funcionários promovidos ao abrigo do disposto no n.º 1 são obrigados ao exercício durante pelo menos três anos das funções de chefe da Repartição Provincial das Alfândegas de Timor.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 16 de Maio de 1972.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.

@@ -1,0 +1,367 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:159539839:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-160261976",
+ "dre_path": "/dr/detalhe/portaria/60-2021-159539839",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-03-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160199226",
+    "160199199",
+    "160199200",
+    "160199201",
+    "160199202",
+    "160199203",
+    "160199204",
+    "160199205",
+    "160199206",
+    "160199207",
+    "160199208",
+    "160199209",
+    "160199210",
+    "160199211",
+    "160199212",
+    "160199213",
+    "160199214",
+    "160199215",
+    "160199216",
+    "160199217",
+    "160199218",
+    "160199219",
+    "160199220",
+    "160199221",
+    "160199222",
+    "160199223",
+    "160199224"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:160195055:por",
+     "title": "Declaração de Retificação n.º 10/2021",
+     "published": "2021-03-25",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/10-2021-160195055",
+     "date": "2021-03-17"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:859517107:por",
+     "title": "Portaria n.º 143/2024/1",
+     "published": "2024-04-05",
+     "dre_path": "/dr/detalhe/portaria/143-2024-859517107"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "160199226",
+    "859627907",
+    "160199200",
+    "859627908",
+    "160199202",
+    "160199203",
+    "160199204",
+    "160199205",
+    "160199206",
+    "160199207",
+    "160199208",
+    "160199209",
+    "859627909",
+    "160199211",
+    "160199212",
+    "859627910",
+    "160199214",
+    "160199215",
+    "160199216",
+    "160199217",
+    "160199218",
+    "160199219",
+    "160199220",
+    "160199221",
+    "160199222",
+    "160199223",
+    "160199224",
+    "160199225"
+   ]
+  }
+ ],
+ "fragments": {
+  "160199226": {
+   "fragment_id": "160261977",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-17",
+   "changed_by": [],
+   "markdown": "Portaria n.º 60/2021\n\nde 16 de março\n\nSumário: Cria o Centro Académico Clínico Egas Moniz.\n\nO desenvolvimento e a qualificação contínua das unidades prestadoras de cuidados de saúde, a boa gestão das respostas aos doentes, a produção de conhecimento em saúde pelas instituições de ensino superior e outras instituições do sistema científico e tecnológico, a inovação em saúde e a economia da saúde são desafios significativos das sociedades contemporâneas.\n\nO envelhecimento da população, a necessidade de incremento dos cuidados primários, os custos crescentes da saúde, a crescente competitividade existente nas áreas dos serviços de saúde, a exigência de excelência nos processos seguidos nestes domínios e o impacto do desenvolvimento da medicina translacional, personalizada e de precisão e das tecnologias de informação determinam abordagens multidisciplinares em saúde e uma transformação na forma clássica de organização e funcionamento das estruturas assistenciais, de ensino e investigação.\n\nOs centros académicos clínicos, cujo regime jurídico consta do Decreto-Lei n.º 61/2018, de 3 de agosto, representam atualmente uma das formas de organização mais promissoras de estruturas integradas de assistência, ensino e investigação em saúde, tendo como principal objetivo o avanço e a aplicação do conhecimento e da evidência científica para a melhoria dos cuidados prestados à população.\n\nEste objetivo é atingido de forma integrada e sinérgica entre a investigação com criação de conhecimento, a aplicação do conhecimento com melhoria dos cuidados de saúde prestados e o ensino na formação pré e pós-graduada. A atividade assistencial, o ensino e a investigação são indissociáveis e a sua conjugação é uma condição necessária para o sucesso de qualquer instituição que tenha como objetivo prestar cuidados de saúde de excelência e de elevada diferenciação, o que vem sendo amplamente demonstrado nos últimos anos.\n\nNeste contexto, o Centro Hospitalar do Baixo Vouga, E. P. E., o Centro Hospitalar de Entre o Douro e Vouga, E. P. E., o Centro Hospitalar de Vila Nova de Gaia/Espinho, E. P. E., os agrupamentos de centros de saúde (ACES) Baixo Vouga e do Baixo Mondego, da Administração Regional de Saúde do Centro, I. P., os ACES de Entre Douro e Vouga I - Feira/Arouca, de Entre Douro e Vouga II - Aveiro Norte, do Grande Porto VII - Gaia e do Grande Porto VIII - Espinho/Gaia, da Administração Regional de Saúde do Norte, I. P., e a Universidade de Aveiro iniciaram um percurso de enorme exigência na modernização dos seus serviços e programas de ensino e investigação e na coordenação entre as suas várias áreas de intervenção.\n\nAs referidas unidades prestadoras de cuidados de saúde, face à necessidade de apoiar a formação de um elevado número de internos do internato médico, quer do ano comum quer da formação específica, e de outros estudantes em ciclos de estudos na área da saúde, têm vindo a dar passos significativos na reorganização e desenvolvimento de serviços de prestação de cuidados de saúde de elevada qualidade.\n\nA Universidade de Aveiro, tendo acompanhado esta tendência de desenvolvimento do ensino e investigação em diversas unidades orgânicas, criou um Departamento de Ciências Médicas, uma Escola Superior de Saúde (ESSUA), uma unidade de investigação em Biomedicina (iBiMED), avaliada com nota Excelente na última avaliação pela Fundação para a Ciência e Tecnologia, licenciaturas nas áreas das Ciências Biomédicas, Enfermagem, Fisioterapia, Terapia da Fala, Imagem Médica e Radioterapia, Psicologia, mestrado integrado em Engenharia Biomédica, mestrados em Biomedicina Molecular, Gestão da Investigação Clínica, Estatística Médica, Bioquímica Clínica, Enfermagem de Saúde Familiar, Fisioterapia, Terapia da Fala, Tecnologias da Imagem Médica e Gerontologia Aplicada, um programa doutoral em Biomedicina e outro em Gerontologia e Geriatria, o que se consideram sinais claros da sua forte aposta no domínio da saúde.\n\nNeste âmbito, foram realizados investimentos significativos nas áreas da simulação médica, medicina molecular, medicina regenerativa, personalizada e de precisão, e da reabilitação, tendo envolvido mais de 1100 estudantes, esperando-se que este número aumente nos próximos anos.\n\nGraças a este trabalho, um número crescente de jovens médicos e de outros profissionais de saúde dos referidos centros hospitalares e ACES estão inscritos em programas de doutoramento na Universidade de Aveiro, vários projetos de investigação contam com a participação de clínicos e uma percentagem significativa de docentes do Departamento de Ciências Médicas e da ESSUA são profissionais de saúde oriundos daquelas instituições de saúde.\n\nTais desenvolvimentos criam condições para o aproveitamento organizado e sistemático das sinergias existentes entre aqueles serviços e estabelecimentos de saúde e a Universidade de Aveiro, potenciando avanços significativos na investigação translacional, na inovação em saúde e na melhoria do ensino clínico e da qualidade dos cuidados de saúde prestados às respetivas populações.\n\nAssim:\n\nNa sequência da atividade conjunta que o Centro Hospitalar do Baixo Vouga, E. P. E., o Centro Hospitalar de Entre o Douro e Vouga, E. P. E., o Centro Hospitalar de Vila Nova de Gaia/Espinho, E. P. E., a Administração Regional de Saúde do Centro, I. P., e a Administração Regional de Saúde do Norte, I. P., em representação dos seus ACES acima referidos, e a Universidade de Aveiro vêm realizando nestes domínios e da vontade que manifestaram junto do Governo de a desenvolverem no quadro institucional de um centro académico clínico, criado sob a forma de consórcio;\n\nOuvidos sobre o teor da presente portaria e ouvido o Conselho Nacional dos Centros Académicos Clínicos;\n\nAo abrigo do disposto nos n.os 1 e 2 do artigo 17.º da Lei n.º 62/2007, de 10 de setembro, e no artigo 6.º do Decreto-Lei n.º 61/2018, de 3 de agosto, manda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior e pela Ministra da Saúde, o seguinte:"
+  },
+  "160199199": {
+   "fragment_id": "160261978",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ criado um consórcio entre as seguintes entidades:\n\na) Centro Hospitalar do Baixo Vouga, E. P. E.;\n\nb) Centro Hospitalar de Entre o Douro e Vouga, E. P. E.;\n\nc) Centro Hospitalar de Vila Nova de Gaia/Espinho, E. P. E.;\n\nd) Universidade de Aveiro;\n\ne) Agrupamentos de Centros de Saúde (ACES) Baixo Vouga e do Baixo Mondego, representados pela Administração Regional de Saúde do Centro, I. P.;\n\nf) ACES de Entre Douro e Vouga I - Feira/Arouca, de Entre Douro e Vouga II - Aveiro Norte, do Grande Porto VII - Gaia e do Grande Porto VIII - Espinho/Gaia, representados pela Administração Regional de Saúde do Norte, I. P."
+  },
+  "160199200": {
+   "fragment_id": "160261979",
+   "type": 11,
+   "heading": "Artigo 2.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Denominação\n\nO consórcio adota a denominação de Centro Académico Clínico Egas Moniz ou Egas Moniz Health Alliance, abreviadamente designado EMHA."
+  },
+  "160199201": {
+   "fragment_id": "160261980",
+   "type": 11,
+   "heading": "Artigo 3.º — Estatutos dos membros do consórcio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estatutos dos membros do consórcio\n\n1 - Os membros do consórcio assumem estatutos de cooperação distintos, consoante a diferenciação e o relevo de intervenção nas áreas de atividade assistencial e de ensino e investigação, com os direitos e obrigações previstos na presente portaria.\n\n2 - As entidades referidas nas alíneas a) a d) do artigo 1.º assumem o estatuto de membros fundadores.\n\n3 - As entidades referidas nas alíneas e) e f) do artigo 1.º integram o consórcio como membros com o estatuto de parceria.\n\n4 - Podem ainda integrar o consórcio, como membros com o estatuto de afiliação, outras instituições que manifestem interesse em participar e contribuir para o desenvolvimento do EMHA, de acordo com o previsto no artigo 23.º"
+  },
+  "160199202": {
+   "fragment_id": "160261981",
+   "type": 11,
+   "heading": "Artigo 4.º — Autonomia dos membros do consórcio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autonomia dos membros do consórcio\n\nO consórcio é vocacionado para a prossecução de objetivos comuns dos seus membros, não estabelecendo qualquer limitação à identidade e à autonomia de cada um deles."
+  },
+  "160199203": {
+   "fragment_id": "160261982",
+   "type": 11,
+   "heading": "Artigo 5.º — Personalidade jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Personalidade jurídica\n\nO consórcio não está dotado de personalidade jurídica."
+  },
+  "160199204": {
+   "fragment_id": "160261983",
+   "type": 11,
+   "heading": "Artigo 6.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sede\n\nO consórcio tem sede na Universidade de Aveiro, Campus Universitário de Santiago, sito em Aveiro."
+  },
+  "160199205": {
+   "fragment_id": "160261984",
+   "type": 11,
+   "heading": "Artigo 7.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objetivos\n\n1 - O consórcio tem como principais objetivos o avanço e a aplicação do conhecimento e da evidência científica para a melhoria da saúde, visando, especialmente:\n\na) O desenvolvimento da dimensão académica e da qualificação nas múltiplas áreas das ciências biomédicas, médicas, engenharia biomédica, saúde pública, políticas públicas em saúde, economia e gestão da saúde, ciências da saúde e saúde das populações, envolvendo os profissionais hospitalares e dos cuidados de saúde primários;\n\nb) A modernização e qualificação da educação nas áreas da saúde referidas na alínea anterior, em toda a dimensão graduada e pós-graduada e de educação continuada, que se traduza na prestação de melhores cuidados de saúde diferenciados e primários;\n\nc) O desenvolvimento de programas de formação nas áreas da saúde referidas na alínea a);\n\nd) A racionalização e maximização dos meios financeiros, humanos e tecnológicos afetos ao EMHA;\n\ne) O aproveitamento efetivo de sinergias nas várias áreas de atuação e a potenciação da partilha de recursos humanos altamente diferenciados;\n\nf) O reforço da cooperação internacional para a investigação e a formação avançada nas áreas de atuação do EMHA;\n\ng) A introdução de programas inovadores e parcerias estratégicas que possibilitem avanços qualitativos na participação da comunidade e contribuam para a obtenção de financiamentos externos;\n\nh) O estabelecimento do foco da atividade na promoção e monitorização dos resultados em saúde centrados no doente e no cidadão.\n\n2 - Para a prossecução dos objetivos referidos no número anterior, o consórcio atua no sentido de promover:\n\na) A modernização e qualificação da educação em saúde, na dimensão graduada, pós-graduada e de educação continuada, aproveitando as sinergias que possam ser criadas com a formação e treino de futuros profissionais das instituições de saúde que integram o consórcio;\n\nb) O desenvolvimento de ações integradas que promovam cuidados de saúde de qualidade com base nas contribuições das ciências da saúde básicas e clínicas e dos serviços de ação médica das unidades prestadoras de cuidados de saúde;\n\nc) O desenvolvimento de ações que contribuam para o desenvolvimento de cuidados integrados inovadores com base numa crescente articulação entre cuidados de saúde primários, hospitalares, continuados e paliativos;\n\nd) O desenvolvimento de projetos colaborativos de investigação com reforço da cooperação nacional e internacional, desenvolvendo ao máximo as oportunidades oferecidas pela participação dos seus membros em redes de investigação nacionais e internacionais e em redes de saúde locais focadas na promoção da qualidade de vida."
+  },
+  "160199206": {
+   "fragment_id": "160261985",
+   "type": 11,
+   "heading": "Artigo 8.º — Laboratórios colaborativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Laboratórios colaborativos\n\nOs planos anuais e plurianuais de atividades do EMHA devem prever a promoção do desenvolvimento de «laboratórios colaborativos» que estimulem o envolvimento sistemático de estudantes, investigadores, profissionais de gestão em saúde, médicos, enfermeiros e profissionais da área das tecnologias da saúde em atividades de investigação, desenvolvimento e inovação, promovendo novas práticas no ensino e estimulando o emprego qualificado e científico para a prática da investigação clínica e de translação, assim como para ensaios clínicos e outras atividades de inovação biomédica."
+  },
+  "160199207": {
+   "fragment_id": "160261986",
+   "type": 11,
+   "heading": "Artigo 9.º — Promoção da investigação clínica e de translação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Promoção da investigação clínica e de translação\n\nOs hospitais e demais unidades de prestação de cuidados de saúde integrantes do EMHA, em estreita colaboração com as restantes instituições que o integram, desenvolvem programas inovadores destinados a reforçar a atividade de investigação clínica e de translação, nos termos descritos no artigo anterior, podendo criar uma comissão de ética para a saúde comum para aumentar a eficiência da investigação."
+  },
+  "160199208": {
+   "fragment_id": "160261987",
+   "type": 11,
+   "heading": "Artigo 10.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Órgãos\n\nSão órgãos do consórcio:\n\na) A direção;\n\nb) O conselho científico e estratégico."
+  },
+  "160199209": {
+   "fragment_id": "160261988",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direção\n\nO consórcio é dirigido pela direção."
+  },
+  "160199210": {
+   "fragment_id": "160261989",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição e funcionamento da direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição e funcionamento da direção\n\n1 - A direção é constituída por dez elementos, nos termos seguintes:\n\na) Dois elementos designados por cada uma das entidades referidas nas alíneas a) a d) do artigo 1.º;\n\nb) Um representante dos ACES referidos na alínea e) do artigo 1.º, indicado por estes e designado pelo conselho diretivo da Administração Regional de Saúde do Centro, I. P.;\n\nc) Um representante dos ACES referidos na alínea f) do artigo 1.º, indicado por estes e designado pelo conselho diretivo da Administração Regional de Saúde do Norte, I. P.\n\n2 - Os membros da direção elegem os respetivos presidente e vice-presidente.\n\n3 - O mandato dos membros da direção é de quatro anos.\n\n4 - A direção reúne ordinariamente uma vez por mês.\n\n5 - A direção reúne extraordinariamente por iniciativa do presidente ou a requerimento da maioria dos seus membros.\n\n6 - As decisões da direção são tomadas por maioria absoluta de votos dos membros presentes à reunião e, em caso de empate na votação, o presidente tem voto de qualidade."
+  },
+  "160199211": {
+   "fragment_id": "160261990",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências da direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências da direção\n\n1 - Compete à direção, quanto à organização interna do consórcio:\n\na) Dirigir a respetiva atividade;\n\nb) Elaborar o plano de orientação do centro académico clínico nos domínios assistencial, científico, pedagógico e financeiro;\n\nc) Elaborar as propostas de planos anual e plurianual de atividades;\n\nd) Praticar os atos necessários à gestão corrente das atividades do centro académico clínico;\n\ne) Elaborar a proposta de orçamento anual;\n\nf) Elaborar a proposta de relatório anual de atividades;\n\ng) Acompanhar e avaliar sistematicamente a atividade desenvolvida;\n\nh) Aprovar os regulamentos internos;\n\ni) Nomear os representantes do centro académico clínico em organismos exteriores;\n\nj) Constituir mandatários do centro académico clínico.\n\n2 - Compete à direção, quanto à atividade do consórcio:\n\na) Promover o ensino na área da saúde, privilegiando a cooperação entre as diversas áreas do saber e visando a sua aplicação aos cuidados de saúde;\n\nb) Desenvolver a formação pré-graduada nas múltiplas áreas das ciências da saúde e a articulação da formação inicial, da pós-graduação e da investigação biomédica, pré-clínica e clínica;\n\nc) Fomentar a formação pós-graduada, designadamente através de maior diferenciação dos programas de internato, incluindo a criação de programas conjuntos de doutoramento e internato, de cursos avançados especializados e a organização de congressos nacionais e internacionais;\n\nd) Maximizar o envolvimento dos profissionais dos membros do EMHA no ensino e na investigação biomédica, pré-clínica e clínica;\n\ne) Promover a atratividade da região para os ensaios clínicos e para os estudos da iniciativa dos investigadores, melhorando as condições existentes nas unidades hospitalares para a investigação clínica;\n\nf) Desenvolver investigação nas áreas da saúde pública, das políticas públicas em saúde, da economia e gestão da saúde, das ciências da saúde e da saúde das populações;\n\ng) Intensificar os programas de investigação biomédica, potenciando sinergias entre os membros e promovendo a criação da infraestrutura necessária para a investigação e inovação biomédica e médica;\n\nh) Reforçar a cooperação nacional e internacional com outras instituições e entidades congéneres e a respetiva participação dos membros do EMHA;\n\ni) Exercer as demais competências necessárias à prossecução das suas finalidades."
+  },
+  "160199212": {
+   "fragment_id": "160261991",
+   "type": 11,
+   "heading": "Artigo 14.º — Conselho científico e estratégico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Conselho científico e estratégico\n\nO conselho científico e estratégico é o órgão consultivo do consórcio."
+  },
+  "160199213": {
+   "fragment_id": "160261992",
+   "type": 11,
+   "heading": "Artigo 15.º — Composição e funcionamento do conselho científico e estratégico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Composição e funcionamento do conselho científico e estratégico\n\n1 - O conselho científico e estratégico é constituído por personalidades de elevado mérito e reconhecida experiência profissional, designadas:\n\na) Uma pelo membro do Governo responsável pela área da ciência, tecnologia e ensino superior;\n\nb) Uma pelo membro do Governo responsável pela área da saúde;\n\nc) Uma por cada um dos membros fundadores do consórcio;\n\nd) Uma por cada uma das Administrações Regionais de Saúde, I. P., em representação dos respetivos membros com o estatuto de parceria;\n\ne) Uma por cada câmara municipal dos municípios em que se situam os membros fundadores do consórcio.\n\n2 - Os membros do conselho científico e estratégico elegem o respetivo presidente.\n\n3 - O mandato dos membros do conselho científico e estratégico tem uma duração de quatro anos, sendo renovável por mais dois mandatos consecutivos.\n\n4 - O conselho científico e estratégico reúne ordinariamente duas vezes por ano."
+  },
+  "160199214": {
+   "fragment_id": "160261993",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências do conselho científico e estratégico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências do conselho científico e estratégico\n\nCompete ao conselho científico e estratégico:\n\na) Emitir parecer sobre a proposta de orçamento anual;\n\nb) Emitir parecer sobre o plano de orientação do centro académico clínico nos domínios assistencial, científico, pedagógico e financeiro;\n\nc) Emitir parecer sobre as propostas de planos anual e plurianual de atividades;\n\nd) Apreciar o relatório anual das atividades;\n\ne) Emitir recomendações e pareceres sobre os aspetos da atividade do centro académico clínico que entenda convenientes."
+  },
+  "160199215": {
+   "fragment_id": "160261994",
+   "type": 11,
+   "heading": "Artigo 17.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Recursos\n\nOs membros do consórcio afetam à concretização dos objetivos deste os seus recursos humanos, financeiros e materiais que se revelem necessários à execução dos planos de atividades aprovados, nos termos da legislação aplicável, atendendo à sua natureza e modelo de gestão."
+  },
+  "160199216": {
+   "fragment_id": "160261995",
+   "type": 11,
+   "heading": "Artigo 18.º — Estruturas de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Estruturas de base\n\n1 - As estruturas que asseguram as respetivas áreas de intervenção, no plano funcional e operacional do consórcio, integram recursos humanos e técnicos dos diversos membros, que se articulam entre si.\n\n2 - A composição, orgânica e funcionamento das estruturas referidas no número anterior constam de regulamento e organograma próprios, a aprovar pela direção do consórcio."
+  },
+  "160199217": {
+   "fragment_id": "160261996",
+   "type": 11,
+   "heading": "Artigo 19.º — Receitas da atividade do consórcio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Receitas da atividade do consórcio\n\nAs receitas dos membros do consórcio resultantes da atividade deste são afetas prioritariamente ao desenvolvimento da atividade do centro académico clínico, respeitando os planos de atividades previamente aprovados."
+  },
+  "160199218": {
+   "fragment_id": "160261997",
+   "type": 11,
+   "heading": "Artigo 20.º — Competências a exercer por decisão conjunta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências a exercer por decisão conjunta\n\n1 - Compete aos responsáveis máximos dos membros do consórcio, por decisão conjunta, designadamente:\n\na) Aprovar o plano de orientação do centro académico clínico nos domínios científico, pedagógico e financeiro;\n\nb) Aprovar os planos anual e plurianual de atividades;\n\nc) Aprovar o orçamento anual;\n\nd) Aprovar o relatório anual de atividades;\n\ne) Aprovar os recursos humanos, financeiros e materiais a afetar anualmente por cada membro à concretização dos objetivos do centro académico clínico;\n\nf) Aprovar a forma de proceder à afetação das receitas resultantes da atividade do centro académico clínico.\n\n2 - Os responsáveis máximos dos membros do consórcio remetem, anualmente, à tutela respetiva os documentos a que se referem as alíneas a) a d) do número anterior."
+  },
+  "160199219": {
+   "fragment_id": "160261998",
+   "type": 11,
+   "heading": "Artigo 21.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Confidencialidade\n\n1 - O membro do consórcio que receba de outro membro quaisquer documentos ou informações relativas à atividade do centro académico clínico compromete-se a não fazer desses elementos outro uso que não o decorrente da respetiva cedência e a considerar como estritamente confidenciais todos os dados tecnológicos e de natureza científica.\n\n2 - Os membros do consórcio comprometem-se a impor essas obrigações às pessoas singulares ou coletivas que participem no desenvolvimento e execução de quaisquer prestações de serviços, fornecimentos e trabalhos como subcontratados ou noutra qualquer qualidade."
+  },
+  "160199220": {
+   "fragment_id": "160261999",
+   "type": 11,
+   "heading": "Artigo 22.º — Propriedade dos bens adquiridos ou desenvolvidos no âmbito do consórcio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Propriedade dos bens adquiridos ou desenvolvidos no âmbito do consórcio\n\n1 - Salvo acordo expresso em sentido contrário entre os membros do consórcio, os bens e direitos adquiridos ou desenvolvidos no âmbito deste são propriedade dos membros que tenham procedido à sua aquisição ou desenvolvimento e suportado o custo da sua criação.\n\n2 - Salvo acordo expresso em sentido contrário, quando um resultado desenvolvido no âmbito do centro académico clínico constitua um bem ou direito indivisível, considera-se este resultado pertença do membro utilizador final, que assume a responsabilidade pela sua eficiente utilização e permite a sua demonstração pública, nos termos e condições a estabelecer entre os parceiros envolvidos.\n\n3 - Em qualquer caso, a titularidade dos bens ou direitos adquiridos ou desenvolvidos no âmbito da atividade do centro académico clínico não pode pertencer a entidades que não sejam membros do consórcio."
+  },
+  "160199221": {
+   "fragment_id": "160262000",
+   "type": 11,
+   "heading": "Artigo 23.º — Alargamento do consórcio a outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alargamento do consórcio a outras entidades\n\n1 - O consórcio pode ser alargado a outras entidades públicas ou privadas, que prossigam atividades assistenciais, de ensino superior ou investigação e desenvolvimento, mediante proposta da direção.\n\n2 - O alargamento do consórcio realiza-se através de portaria dos membros do Governo responsáveis pelas áreas da ciência, tecnologia e ensino superior e da saúde."
+  },
+  "160199222": {
+   "fragment_id": "160262001",
+   "type": 11,
+   "heading": "Artigo 24.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Extinção\n\nO consórcio extingue-se nos termos previstos no artigo 23.º do Decreto-Lei n.º 61/2018, de 3 de agosto."
+  },
+  "160199223": {
+   "fragment_id": "160262002",
+   "type": 11,
+   "heading": "Artigo 25.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Disposições finais\n\n1 - Não é permitida a titularidade simultânea da qualidade de membro de diferentes órgãos do consórcio.\n\n2 - Em tudo o que não se encontrar expressamente previsto na presente portaria, nomeadamente em matéria de funcionamento dos órgãos do consórcio e de ausências e impedimentos dos seus membros, aplica-se subsidiariamente o disposto no Código do Procedimento Administrativo."
+  },
+  "160199224": {
+   "fragment_id": "160262003",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 22 de fevereiro de 2021."
+  },
+  "859627907": {
+   "fragment_id": "160261978",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": "2024-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/143-2024-859517107), em vigor a partir de 2024-04-06"
+   ],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ criado um consórcio entre as seguintes entidades:\n\na) Unidade Local de Saúde da Região de Aveiro, E. P. E.;\n\nb) Unidade Local de Saúde de Entre Douro e Vouga, E. P. E.;\n\nc) Unidade Local de Saúde de Gaia/Espinho, E. P. E.;\n\nd) Universidade de Aveiro;\n\ne) Unidade Local de Saúde de Matosinhos E. P. E.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/143-2024-859517107), em vigor a partir de 2024-04-06"
+  },
+  "859627908": {
+   "fragment_id": "160261980",
+   "type": 11,
+   "heading": "Artigo 3.º — Estatutos dos membros do consórcio",
+   "in_force_from": "2024-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/143-2024-859517107), em vigor a partir de 2024-04-06"
+   ],
+   "markdown": "###### Artigo 3.º — Estatutos dos membros do consórcio\n\n1 - Os membros do consórcio assumem estatutos de cooperação distintos, consoante a diferenciação e o relevo de intervenção nas áreas de atividade assistencial e de ensino e investigação, com os direitos e obrigações previstos na presente portaria.\n\n2 - As entidades referidas nas alíneas a) a d) do artigo 1.º assumem o estatuto de membros fundadores.\n\n3 - A entidade referida na alínea e) do artigo 1.º integra o consórcio como membro com o estatuto de parceria.\n\n4 - Podem ainda integrar o consórcio, como membros com o estatuto de afiliação, outras instituições que manifestem interesse em participar e contribuir para o desenvolvimento do EMHA, de acordo com o previsto no artigo 23.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/143-2024-859517107), em vigor a partir de 2024-04-06"
+  },
+  "859627909": {
+   "fragment_id": "160261989",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição e funcionamento da direção",
+   "in_force_from": "2024-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/143-2024-859517107), em vigor a partir de 2024-04-06"
+   ],
+   "markdown": "###### Artigo 12.º — Composição e funcionamento da direção\n\n1 - A direção é constituída por 11 elementos, nos termos seguintes:\n\na) Dois elementos designados por cada uma das entidades referidas nas alíneas a) a d) do artigo 1.º;\n\nb) Um representante da Unidade Local de Saúde de Matosinhos, referida na alínea e) do artigo 1.º, indicado pelo respetivo Conselho de Administração;\n\nc) Dois membros pertencentes à área de cuidados de saúde primários, cooptados pelo conjunto dos membros identificados nas alíneas anteriores.\n\n2 - Os membros da direção elegem os respetivos presidente e vice-presidente.\n\n3 - O mandato dos membros da direção é de quatro anos.\n\n4 - A direção reúne ordinariamente uma vez por mês.\n\n5 - A direção reúne extraordinariamente por iniciativa do presidente ou a requerimento da maioria dos seus membros.\n\n6 - As decisões da direção são tomadas por maioria absoluta de votos dos membros presentes à reunião e, em caso de empate na votação, o presidente tem voto de qualidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/143-2024-859517107), em vigor a partir de 2024-04-06"
+  },
+  "859627910": {
+   "fragment_id": "160261992",
+   "type": 11,
+   "heading": "Artigo 15.º — Composição e funcionamento do conselho científico e estratégico",
+   "in_force_from": "2024-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/143-2024-859517107), em vigor a partir de 2024-04-06"
+   ],
+   "markdown": "###### Artigo 15.º — Composição e funcionamento do conselho científico e estratégico\n\n1 - O conselho científico e estratégico é constituído por personalidades de elevado mérito e ­reconhecida experiência profissional, designadas:\n\na) Uma pelo membro do Governo responsável pela área da ciência, tecnologia e ensino superior;\n\nb) Uma pelo membro do Governo responsável pela área da saúde;\n\nc) Uma por cada um dos membros fundadores do consórcio;\n\nd) Um por cada membro com o estatuto de parceria;\n\ne) Uma por cada câmara municipal dos municípios em que se situam os membros fundadores do consórcio.\n\n2 - Os membros do conselho científico e estratégico elegem o respetivo presidente.\n\n3 - O mandato dos membros do conselho científico e estratégico tem uma duração de quatro anos, sendo renovável por mais dois mandatos consecutivos.\n\n4 - O conselho científico e estratégico reúne ordinariamente duas vezes por ano.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/143-2024-859517107), em vigor a partir de 2024-04-06"
+  },
+  "160199225": {
+   "fragment_id": "160262004",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Ciência, Tecnologia e Ensino Superior, Manuel Frederico Tojal de Valsassina Heitor. - A Ministra da Saúde, Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\n114058339"
+  }
+ }
+}

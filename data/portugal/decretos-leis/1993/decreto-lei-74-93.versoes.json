@@ -1,0 +1,115 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:628040:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-34557075",
+ "dre_path": "/dr/detalhe/decreto-lei/74-1993-628040",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1993-03-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45559675",
+    "45559775",
+    "45559875",
+    "45559975",
+    "45560075",
+    "45560175"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "45559675",
+    "45559775",
+    "45559875",
+    "155905068",
+    "45560075",
+    "45560175",
+    "45561575"
+   ]
+  }
+ ],
+ "fragments": {
+  "45559675": {
+   "fragment_id": "35176875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O regime legal instituído pelo Decreto-Lei n.º 266/89, de 18 de Agosto, para a publicidade dos automóveis novos ligeiros de passageiros visava fornecer informação aos consumidores através da publicidade, alertando-os, nomeadamente, para os encargos anuais inerentes a esses bens.\n\nA recente publicação do Decreto-Lei n.º 359/91, de 21 de Setembro, veio proporcionar aos consumidores, através da possibilidade de informação adequada no campo dos contratos de aquisição a crédito, novos mecanismos de protecção dos seus direitos, que, aliados à informação técnica disponível nos locais de venda, permitem uma esclarecida decisão de compra.\n\nAssim, não se mostra conveniente nem necessário continuar a impor à publicidade de automóveis novos ligeiros de passageiros um dever específico de informação.\n\nJá relativamente aos automóveis ligeiros de passageiros, motociclos e ciclomotores em estado de usados se mostra desejável estabelecer disposições legais que assegurem aos potenciais interessados o conhecimento prévio de informações que possam influenciar a sua decisão de aquisição, os quais devem ser prestados nos locais de exposição para venda.\n\nEmbora com nova redacção, mantêm-se em vigor normas que consagram restrições à publicidade dos veículos automóveis em geral, tendo em vista a segurança rodoviária e a protecção do ambiente.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "45559775": {
+   "fragment_id": "35421175",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O artigo 2.º do Decreto-Lei n.º 330/90, de 23 de Outubro, passa a ter a seguinte redacção:\n\nArt. 2.º\n\n1 - É revogado o Decreto-Lei n.º 303/83, de 28 de Junho.\n\n2 - ...\n\n2 - É aditado ao Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, o artigo 22.º-A, com a seguinte redacção:\n\nArtigo 22.º-A\n\nVeículos automóveis\n\n1 - É proibida a publicidade a veículos automóveis que:\n\na) Contenha situações ou sugestões de utilização do veículo que possam pôr em risco a segurança pessoal do utente ou de terceiros;\n\nb) Contenha situações ou sugestões de utilização do veículo perturbadoras do meio ambiente;\n\nc) Apresente situações de infracção das regras do Código da Estrada, nomeadamente excesso de velocidade, manobras perigosas, não utilização de acessórios de segurança e desrespeito pela sinalização ou pelos peões.\n\n2 - Para efeitos do presente Código, entende-se por veículos automóveis todos os veículos de tracção mecânica destinados a transitar pelos seus próprios meios nas vias públicas.\n\n3 - O artigo 34.º do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, passa a ter a seguinte redacção:\n\nArtigo 34.º\n\nSanções\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) De 20000$00 a 200000$00 ou de 40000$00 a 800000$00, consoante o infractor seja pessoa singular ou colectiva, por violação do disposto nos artigos 15.º, 16.º, 21.º, 22.º e 22.º-A.\n\n2 - ..."
+  },
+  "45559875": {
+   "fragment_id": "35421275",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Na venda de automóveis ligeiros de passageiros e motociclos usados é obrigatória a prestação das seguintes informações:\n\na) Matrícula;\n\nb) Preço;\n\nc) Ano de construção, conforme o respectivo livrete;\n\nd) Data de matrícula, conforme o respectivo livrete;\n\ne) Registos anteriores de propriedade e seu número, conforme o respectivo título;\n\nf) Garantia de fábrica: prazo de garantia e quilómetros, ou qualquer outra garantia dada pelo fabricante, cuja validade ainda não tenha expirado;\n\ng) Garantia de usado: prazo ou quilómetros, ou outra garantia que o vendedor conceda.\n\n2 - Na venda de ciclomotores usados é obrigatória a prestação das informações previstas nas alíneas a) a d) e f) e g) do número anterior.\n\n3 - Exceptua-se do disposto nos números anteriores a venda feita directamente pelo proprietário indicado no título de registo de propriedade ou, no caso dos ciclomotores, no certificado de matrícula, quando actue fora do exercício do comércio.\n\n4 - As informações previstas nos n.os 1 e 2 constarão obrigatoriamente de documento escrito, assinado pelo vendedor ou intermediário, que será afixado no veículo, de modo visível, de forma a permitir uma fácil leitura pelo interessado, sendo o respectivo duplicado entregue ao comprador no momento da compra e venda."
+  },
+  "45559975": {
+   "fragment_id": "35421375",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A infracção ao disposto no artigo anterior constitui contra-ordenação, punível com coima de 5000$00 a 500000$00.\n\n2 - A negligência é punível.\n\n3 - Às contra-ordenações previstas no n.º 1 aplicam-se as normas constantes do Decreto-Lei n.º 28/84, de 20 de Janeiro, referentes à fiscalização, instrução dos processos, competência para aplicação de sanções e publicidade e destino das receitas das coimas."
+  },
+  "45560075": {
+   "fragment_id": "35421475",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Em função da gravidade da contra-ordenação, da culpa e da situação económica do agente, podem ser aplicadas as seguintes sanções acessórias:\n\na) Apreensão do veículo;\n\nb) Interdição de exercer uma profissão ou uma actividade;\n\nc) Privação do direito de participar em feiras, mercados ou competições desportivas ou de entrada em recintos ou áreas de acesso reservado;\n\nd) Privação do direito de participação em arrematações e concursos promovidos por entidades ou serviços públicos, de obras públicas e de fornecimento de bens e serviços ou concessão de serviços, licenças ou alvarás;\n\ne) Encerramento do estabelecimento ou cancelamento de serviços, licenças e alvarás.\n\n2 - Nos casos previstos na alínea a) do número anterior, os veículos apreendidos ficam à guarda da entidade fiscalizadora até ao trânsito em julgado da decisão que aplica a coima, ocorrido o qual se procederá à respectiva destruição ou transferência da sua propriedade para o Estado.\n\n3 - As sanções previstas nas alíneas b), c), d) e e) do n.º 1 terão a duração máxima de um ano.\n\n4 - Quando foram aplicadas aos infractores quaisquer sanções acessórias, dar-se-á publicidade à decisão."
+  },
+  "45560175": {
+   "fragment_id": "35421575",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSão revogados o Decreto-Lei n.º 266/89, de 18 de Agosto, e as Portarias n.os 811/89 e 812/89, de 14 de Setembro."
+  },
+  "155905068": {
+   "fragment_id": "35421375",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - A infração ao disposto no artigo anterior constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n2 - A negligência é punível nos termos do RJCE.\n\n3 - Às contraordenações económicas previstas no n.º 1 aplicam-se as normas constantes do RJCE.\n\n> Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "45561575": {
+   "fragment_id": "35421675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego - Luís Manuel Gonçalves Marques Mendes.\n\nPromulgado em Setúbal em 5 de Fevereiro de\n\n1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Fevereiro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

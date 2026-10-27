@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:391838:por
+title: Decreto Regulamentar Regional n.º 9/82/M
+short_title: null
+summary: Aplica à Região Autónoma da Madeira as normas de enquadramento e valorização profissional dos trabalhadores de informática
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 9/82/M
+official_date: null
+publication_date: '1982-06-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 125/1982, Série I de 1982-06-02
+  number: '125'
+  series: I
+  supplement: null
+  pages: 1539 - 1540
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/06/12500/15391540.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '391838'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/9-1982-391838
+  internal: pt:dre:391838:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1982-391838
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1982-391838
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:44:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0fb2dc8b0f7c178ce891edfc2eb3fd29cab7a814863e2e8c332155ae9f655c45
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Informática
+- Madeira.região Autónoma
+- Promoção Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:401356:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:44:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 9/82/M
+
+Aplicação à Região Autónoma da Madeira das normas de enquadramento e valorização profissional dos trabalhadores de informática.
+
+Mostrando-se conveniente e oportuno aplicar à administração regional autónoma o [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, considerando a necessidade de enquadramento e valorização profissional dos trabalhadores de informática na Região Autónoma da Madeira em termos paralelos aos já aplicados no âmbito nacional, dada a clara identidade de razões justificativas do mesmo tratamento jurídico-administrativo;
+
+Considerando, ainda, haver mister adoptar algumas disposições do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, ao quadro institucional autonómico da Região da Madeira:
+
+O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição da República Portuguesa, o seguinte:
+
+Artigo 1.º É eliminado o artigo 34.º e alteradas parcialmente a estrutura e a redacção dos artigos 1.º, 13.º, 21.º, 25.º, 30.º, 33.º, 34.º e 35.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, que passam a ter a seguinte redacção:
+
+###### ARTIGO 1.º — (Âmbito e aplicação)
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - O presente diploma aplica-se também, com as devidas adaptações, aos serviços de administração regional autónoma que se ocupem da informática nos termos previstos no n.º 1 deste artigo.
+
+###### ARTIGO 13.º — (Recrutamento excepcional)
+
+1 - ...
+
+2 - Quando se verifique o recrutamento a que se refere o número anterior, o curriculum do candidato será objecto de apreciação por uma comissão a constituir, para o efeito, pelos Serviços de Informática da Secretaria Regional do Planeamento e Finanças e Direcção Regional da Administração Pública, por despacho dos membros do Governo competentes, e cujo parecer será obrigatoriamente publicado no Jornal Oficial da Região Autónoma da Madeira conjuntamente com o respectivo despacho de nomeação e curriculum do nomeado.
+
+3 - ...
+
+4 - ...
+
+###### ARTIGO 21.º — (Alterações aos conteúdos funcionais)
+
+Os conteúdos funcionais a que se refere o presente diploma poderão ser alterados, mediante portaria do membro do Governo Regional que tiver a seu cargo a Administração Pública, sob proposta fundamentada dos serviços de informática da Região, sem prejuízo das adequações que sejam introduzidas nos diplomas orgânicos dos mesmos serviços, sempre que tal seja considerado conveniente e indispensável.
+
+###### ARTIGO 25.º — (Formação profissional)
+
+1 - ...
+
+2 - ...
+
+3 - Para efeitos de provimento das diferentes categorias de informática poder-se-á proceder à equiparação de cursos de formação não expressamente contemplados no mapa II anexo, mediante despacho conjunto dos secretários regionais que tiverem a seu cargo o organismo ou serviço interessado e a Administração Pública, sob parecer da comissão a que faz alusão o n.º 2 do artigo 13.º
+
+4 - A comissão a que se refere o número anterior será constituída por representantes da Direcção Regional da Administração Pública e da secretaria regional interessada, podendo, quando necessário, recorrer à colaboração técnica da administração central.
+
+5 - ...
+
+6 - Os membros do Governo Regional responsáveis pela Administração Pública e serviços de informática promoverão as diligências necessárias à implementação das acções de formação na Região com o apoio e cooperação técnica da administração central.
+
+###### ARTIGO 30.º — (Integração nas carreiras criadas)
+
+1 - ...
+
+2 - Nas secretarias regionais onde se verifique a existência dos serviços referidos no número anterior serão constituídos grupos de trabalho com competência para propor a aplicação do presente diploma, cujos membros serão designados pelos titulares das respectivas pastas.
+
+3 - Os novos quadros serão objecto de portaria conjunta do Secretário Regional do Planeamento e Finanças e do membro do Governo Regional que tiver a seu cargo a Administração Pública Regional.
+
+4 - ...
+
+5 - ...
+
+6 - O provimento a que se refere o número anterior efectuar-se-á independentemente de quaisquer formalidades, salvo o visto da secção do Tribunal de Contas da Região e a publicação no Jornal Oficial.
+
+###### ARTIGO 33.º — (Produção de efeitos)
+
+As alterações resultantes das revalorizações operadas pela aplicação do disposto no presente diploma produzirão efeitos desde 10 de Novembro de 1980.
+
+###### ARTIGO 34.º — (Esclarecimento de dúvidas)
+
+As dúvidas suscitadas pela aplicação do presente diploma serão objecto de despacho do membro do Governo Regional que tiver a seu cargo a Administração Pública e do Secretário Regional do Planeamento e Finanças.
+
+###### ARTIGO 35.º — (Entrada em vigor)
+
+O presente diploma entra imediatamente em vigor.
+
+Aprovado em plenário do Governo Regional em 18 de Fevereiro de 1982.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 11 de Maio de 1982.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

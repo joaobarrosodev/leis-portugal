@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:220723:por
+title: Portaria n.º 207/2003
+short_title: null
+summary: Autoriza a importação de batata-semente da variedade Kennebec, originária do Canadá, durante os períodos de 1 de
+  Fevereiro a 31 de Março de 2003, de 1 de Dezembro de 2003 a 31 de Março de 2004 e de 1 de Dezembro de 2004 a 31 de Março
+  de 2005, sendo que a data de 31 de Março dos referidos anos corresponderá ao último dia de entrada no território nacional.
+  Revoga a Portaria n.º 9/2000, de 8 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 207/2003
+official_date: null
+publication_date: '2003-03-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 56/2003, Série I-B de 2003-03-07
+  number: '56'
+  series: I
+  supplement: null
+  pages: 1576 - 1577
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/03/056b00/15761577.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/207/2003/03/07/p/dre/pt/html
+  oj: null
+  dre: '220723'
+  dre_path: /dr/detalhe/portaria/207-2003-220723
+  internal: pt:dre:220723:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/207-2003-220723
+  metadata_url: https://data.dre.pt/eli/port/207/2003/03/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/207-2003-220723
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:47:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 101a8ea63ae6cf5c5c48f9d56ad6164173e4ebe22c6ab22fb66b6286e9be0fc9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Batata
+- Comércio
+- Controlo de Qualidade
+- Controlo Sanitário
+- Fiscalização
+- Importação
+- Prestação de Serviços
+- Proteção Fitossanitária
+- Semente
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: celex:32003D0061
+  label: null
+  source: http://data.europa.eu/eli/dec/2003/61/oj
+- type: cites
+  target: celex:32003D0066
+  label: null
+  source: http://data.europa.eu/eli/dec/2003/66/oj
+- type: cites
+  target: pt:dre:509591:por
+  label: null
+  source: http://data.dre.pt/eli/port/9/2000/01/08/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:47:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 207/2003
+
+de 7 de Março
+
+O Decreto-Lei n.º 14/99, de 12 de Janeiro, republicado pelo Decreto-Lei n.º 517/99, de 4 de Dezembro, na redacção que lhe foi dada pelos Decretos-Leis n.os 63/2000, 160/2000, 269/2001 e 172/2002, respectivamente de 19 de Abril, de 27 de Julho, de 6 Outubro e de 25 de Julho, e o Decreto-Lei n.º 216/2001, de 3 de Agosto, proíbem a introdução no território nacional e comunitário de batata-semente quando originária de determinados países.
+
+A Portaria n.º 9/2000, de 8 de Janeiro, autorizou, mediante determinadas condições, a importação de batata-semente da variedade Kennebec, originária do Canadá, durante certos períodos nos anos de 2000, 2001 e 2002.
+
+Dado o continuado interesse manifestado pelos operadores económicos, Portugal solicitou junto da Comissão das Comunidades Europeias autorização para importar batata-semente do Canadá.
+
+Face ao pedido apresentado e na sequência da aprovação da Decisão n.º [2003/66/CE](http://data.europa.eu/eli/dec/2003/66/oj?locale=pt), da Comissão, de 28 de Janeiro, publicada no Jornal Oficial das Comunidades Europeias, n.º L 25, de 30 de Janeiro de 2003, que prorroga até 31 de Março de 2005 o prazo de validade das decisões de equivalência relativas à comercialização de batata-semente originária de países terceiros, bem como da aprovação da Decisão n.º [2003/61/CE](http://data.europa.eu/eli/dec/2003/61/oj?locale=pt), da Comissão, de 27 de Janeiro, publicada no Jornal Oficial das Comunidades Europeias, n.º L 23, de 28 de Janeiro de 2003, dirigida aos Estados membros seus destinatários, Grécia, Espanha, Itália e Portugal, que estabelece as condições para a importação de batata-semente do Canadá, importa dar forma às referidas condições.
+
+Neste sentido, procede-se à devida publicação desta autorização, revogando-se a anterior portaria.
+
+Assim, nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 14/99, de 12 de Janeiro, e de acordo com o disposto na subalínea iv) da alínea c) do artigo 2.º do Decreto-Lei n.º 216/2001, de 3 de Agosto:
+
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+
+1.º O prazo de validade das decisões de equivalência relativas à comercialização de batata-semente originária de países terceiros termina em 31 de Março de 2005, de acordo com o disposto na Decisão n.º [2003/66/CE](http://data.europa.eu/eli/dec/2003/66/oj?locale=pt), da Comissão, de 28 de Janeiro, publicada no Jornal Oficial das Comunidades Europeias, n.º L 25, de 30 de Janeiro de 2003.
+
+2.º É autorizada a importação de batata-semente da variedade Kennebec, originária das províncias de New Brunswick e Prince Edward Island, no Canadá, durante os períodos de 1 de Fevereiro a 31 de Março de 2003, de 1 de Dezembro de 2003 a 31 de Março de 2004 e de 1 de Dezembro de 2004 a 31 de Março de 2005, sendo que a data de 31 de Março dos referidos anos corresponderá, em cada período, ao último dia de entrada no território nacional, desde que cumpridas as exigências constantes da Decisão n.º [2003/61/CE](http://data.europa.eu/eli/dec/2003/61/oj?locale=pt), da Comissão, de 27 de Janeiro, publicada no Jornal Oficial das Comunidades Europeias, n.º L 23, de 28 de Janeiro de 2003, dirigida aos Estados membros seus destinatários, Grécia, Espanha, Itália e Portugal.
+
+3.º Os importadores desta batata-semente devem participar à Direcção-Geral de Protecção das Culturas (DGPC), com a antecedência mínima de oito dias, os quantitativos a importar e a data provável da importação da batata, bem como a localização dos respectivos armazéns.
+
+4.º A batata-semente a importar ao abrigo da presente portaria só poderá ser introduzida no País através dos portos de Aveiro, Leixões e Lisboa.
+
+5.º Aquando da chegada ao nosso país, a batata-semente será sujeita a inspecção fitossanitária, de acordo com o previsto na legislação em vigor.
+
+6.º De cada um dos lotes importados será retirada amostra de 200 tubérculos por cada 25 t ou parte, a qual será submetida a testes laboratoriais oficiais, de acordo com os métodos previstos na Portaria n.º 140/95, de 9 de Fevereiro, com vista à detecção da bactéria de quarentena Clavibacter michiganensis (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al., devendo os lotes ficar separados e sob controlo oficial até que seja concedida autorização oficial para a sua comercialização ou utilização.
+
+7.º A autorização referida no número anterior só será concedida se o resultado da inspecção fitossanitária e dos testes oficiais efectuados revelar que a batata-semente se encontra nas condições sanitárias exigidas pela legislação em vigor.
+
+8.º A circulação, comercialização e plantação de batata-semente importada só é autorizada no interior do território nacional, com excepção da Região Autónoma dos Açores.
+
+9.º Para efeitos de circulação e comercialização, deverá a batata-semente ser acompanhada de passaporte fitossanitário emitido pela DGPC, que será aposto à etiqueta de certificação.
+
+10.º Os operadores económicos que comercializem esta batata-semente ficam obrigados a fornecer à divisão de controlo fitossanitário da respectiva direcção regional de agricultura os nomes e moradas dos compradores, bem como os quantitativos fornecidos a cada um deles.
+
+11.º Após a plantação e durante o período vegetativo, a cultura será submetida a inspecções fitossanitárias oficiais.
+
+12.º A batata produzida a partir de batata-semente importada ao abrigo da presente portaria deverá obedecer às seguintes condições:
+
+a) Não poderá ser certificada como batata-semente;
+
+b) Só poderá ser utilizada como batata-consumo, devendo a embalagem ostentar o número de registo do produtor ou do centro de embalagem, bem como a seguinte frase: «Produzida a partir de batata-semente de origem canadiana»;
+
+c) Só poderá ser comercializada noutros Estados membros após autorização oficial.
+
+13.º Os custos resultantes da inspecção, emissão de passaporte e dos testes laboratoriais efectuados serão inteiramente suportados pelos respectivos importadores, nos termos previstos na Portaria n.º 1434/2001, de 19 de Dezembro.
+
+14.º É revogada a Portaria n.º 9/2000, de 8 de Janeiro.
+
+15.º A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de Fevereiro de 2003.
+
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 17 de Fevereiro de 2003.

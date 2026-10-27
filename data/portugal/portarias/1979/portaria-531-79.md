@@ -1,0 +1,234 @@
+---
+schema_version: '1.0'
+id: pt:dre:365299:por
+title: Portaria n.º 531/79
+short_title: null
+summary: Fixa os requisitos e formalidades a preencher pela mudança de instalações das escolas de condução
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Transportes e Comunicações
+proposing_entity: null
+official_number: 531/79
+official_date: null
+publication_date: '1979-10-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/1979, Série I de 1979-10-03
+  number: '229'
+  series: I
+  supplement: null
+  pages: 2557 - 2558
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/10/22900/25572558.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '365299'
+  dre_path: /dr/detalhe/portaria/531-1979-365299
+  internal: pt:dre:365299:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/531-1979-365299
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/531-1979-365299
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:00:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b1daeed6a35b6257d15ac6cb961b1fb6c611703c3dc53ab55a0f0d739cf102ad
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crime
+- Ensino
+- Escola de Condução
+- Instalação de Serviços
+- Material de Ensino
+- Normas de Segurança
+- Vistoria
+relationships:
+- type: cites
+  target: pt:dre:378959:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:00:51Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 531/79
+
+de 3 de Outubro
+
+O [Decreto-Lei n.º 315/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1979-378959), de 20 de Agosto, fixou as normas gerais aplicáveis às novas instalações e apetrechamento das escolas de condução e reviu a moldura penal para as infracções cometidas pelos proprietários.
+
+O presente diploma surge pela necessidade de regulamentação daquele decreto-lei na perspectiva de, em pormenor, se fixarem os requisitos e formalidades a preencher pela mudança de instalações das escolas de condução.
+
+Nestes termos:
+
+Ao abrigo do disposto no artigo 6.º do [Decreto-Lei n.º 315/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1979-378959), de 20 de Agosto:
+
+Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações, o seguinte:
+
+1 - A autorização para mudança ou transformação de instalações das escolas de condução deve ser requerida ao director-geral de Viação com a indicação da localização das novas instalações e instruído o processo com planta, em duplicado, selada e na escala de 1:100.
+
+2 - As instalações propostas para as escolas de condução, nos termos do número anterior, devem possuir, pelo menos, os seguintes compartimentos:
+
+a) Secretaria;
+
+b) Sala de recepção ou espera;
+
+c) Gabinete do director;
+
+d) Sala de aula teórica com, pelo menos, 20 m2 de área;
+
+e) Sala de aula técnica com, pelo menos, 20 m2 de área;
+
+f) Instalações sanitárias independentes para cada sexo.
+
+3 - Além dos referidos compartimentos, devem as instalações estar ainda dotadas das arrecadações necessárias ao exercício da actividade da escola, bem como de, pelo menos, um vestiário.
+
+4 - A sala de aula técnica referida na alínea e) do n.º 2 só é obrigatória nas escolas autorizadas a ministrar o ensino a candidatos a condutores profissionais.
+
+5 - A lotação de cada sala de aula é fixada pela Direcção-Geral de Viação, não podendo exceder 30 lugares, nem:
+
+a) A correspondente a um instruendo por metro quadrado de três quartos da área da sala;
+
+b) A correspondente a um instruendo por metro quadrado de quatro quintos da área da mesma sala; quando esta possua arrecadação própria para o respectivo material didáctico que lhe seja contígua e de acesso directo.
+
+6 - Quando da aplicação do disposto no número anterior resultar uma lotação máxima não correspondente a um número inteiro, este é arredondado para o que estiver mais próximo.
+
+7 - As salas de aula devem ter cadeiras com apoios ou mesas que permitam aos instruendos sentar-se e escrever comodamente, em número correspondente à respectiva lotação, acrescido de uma unidade, destinada ao instrutor.
+
+8 - A sala de aula teórica deve estar equipada com, pelo menos, o seguinte material pedagógico:
+
+a) Colecção completa de sinais de trânsito em vigor, com as seguintes dimensões mínimas:
+
+1.º Sinais triangulares - 30 cm de lado;
+
+2.º Sinais circulares - 20 cm de diâmetro;
+
+3.º Sinais rectangulares - 30 cm-20 cm de comprimento e largura, respectivamente;
+
+4.º Sinais quadrangulares - 20 cm de lado;
+
+5.º Sinais octogonais - 10 cm de lado;
+
+6.º Sinais de outras formas e painéis adicionais - dimensões proporcionais, seguindo as indicadas para as formas constantes nos números anteriores.
+
+b) Quadros individualizados com a forma rectangular e as dimensões mínimas de 40 cm e 25 cm de altura e largura, respectivamente, representando:
+
+1.º O agente regulador do trânsito efectuando os sinais regulamentares;
+
+2.º Os sinais dos condutores;
+
+3.º As marcas rodoviárias.
+
+c) Conjunto completo de reflectores;
+
+d) Triângulo de pré-sinalização de perigo e sinal de reboque dotado de equipamento luminoso com as dimensões mínimas fixadas para os sinais triangulares e quadrangulares, respectivamente;
+
+e) Um quadro magnético ou uma mesa, articulada ou não, com as dimensões mínimas de 175 cm e 80 cm de comprimento e largura, respectivamente, contendo o desenho das vias de trânsito, cruzamentos, entroncamentos, praças, passagens de nível, com e sem guarda, e passagens para peões, dispondo de veículos de todas as classes, sinalização vertical, sinais marcados no pavimento, semáforos e demais elementos necessários ao ensino das diversas situações de trânsito;
+
+f) Um projector de diapositivos, retroprojector ou equipamento idêntico;
+
+g) Um semáforo;
+
+h) Uma colecção de quadros ou mapas que representem os principais órgãos dos automóveis e respectivo funcionamento;
+
+i) Dispositivos representando a parte dianteira e traseira de um automóvel ligeiro equipado com todos os sistemas de iluminação e sinalização que permita a respectiva aprendizagem através do seu funcionamento;
+
+j) Um quadro negro ou dispositivo idêntico;
+
+l) Uma colecção completa de textos legais em vigor sobre o trânsito de veículos e peões;
+
+m) Extintor de incêndio.
+
+9 - A sala de aula técnica deve estar equipada com, pelo menos, o seguinte equipamento pedagógico:
+
+a) Châssis de automóvel permitindo mostrar e explicar o mecanismo do veículo;
+
+b) Um motor a gasolina e outro a diesel, construídos em material transparente ou seccionados;
+
+c) Mecanismo de direcção de veículos;
+
+d) Bateria de acumuladores seccionada;
+
+e) Diferencial seccionado;
+
+f) Travões hidráulicos e de ar comprimido;
+
+g) Cilindro de motor a dois tempos e respectivo êmbolo, seccionados;
+
+h) Embraiagem seccionada;
+
+i) Caixa de velocidades seccionada;
+
+j) Equipamento de injecção de motor diesel;
+
+l) Dispositivo que reproduza circuitos eléctricos de automóvel, com os respectivos elementos essenciais.
+
+10 - O material pedagógico referido nos números anteriores deve ser construído em material rígido que não seja facilmente deteriorável e estar em perfeitas condições de funcionamento.
+
+11 - Os órgãos referidos nas alíneas do n.º 9 podem estar associados e ser de dimensão reduzida, desde que suficiente para a clara compreensão do seu funcionamento.
+
+12 - Mediante autorização da Direcção-Geral de Viação pode ser utilizado qualquer outro equipamento ou material para ministrar o ensino, em substituição ou complemento do constante nos números anteriores, desde que representem uma melhoria para o ensino.
+
+13 - No caso de simples alteração de instalações, podem ser dispensados os requisitos mínimos estabelecidos nos n.os 2 e 3, desde que essas alterações proporcionem uma melhoria das condições de ensino existentes.
+
+14 - Concedida a autorização a que se refere o n.º 1, o proprietário da escola deve, no prazo de cento e oitenta dias, requerer vistoria às instalações e respectivo apetrechamento, enviando a correspondente taxa fiscal.
+
+15 - Quando as instalações e apetrechamento propostos não obedeçam aos requisitos fixados no presente diploma, deve ser marcado novo prazo para correcção das deficiências verificadas.
+
+16 - Os prazos referidos nos n.os 14 e 15 podem ser prorrogados, mediante requerimento fundamentado.
+
+17 - O incumprimento dos prazos a que se referem os números anteriores implica o arquivamento do respectivo processo.
+
+18 - Aprovadas as novas instalações e apetrechamento e fixadas as respectivas lotações, deve a entidade titular do alvará da escola de condução:
+
+a) Enviar o alvará da escola e requerer o correspondente averbamento;
+
+b) Requerer a aprovação do novo regulamento;
+
+c) Enviar as taxas fiscais correspondentes às formalidades referidas nas alíneas anteriores.
+
+19 - Por despacho do director-geral de Viação podem ser definidas as normas de utilização de material pedagógico.
+
+20 - As dúvidas resultantes da execução da presente portaria serão resolvidas por despacho do Secretário de Estado dos Transportes e Comunicações.
+
+Ministério dos Transportes e Comunicações, 10 de Setembro de 1979. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva.

@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:174121:por
+title: Decreto n.º 43867
+short_title: null
+summary: Estabelece a delimitação das freguesias do concelho de Santana, distrito do Funchal
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Interior - Direcção-Geral de Administração Política e Civil
+proposing_entity: null
+official_number: '43867'
+official_date: null
+publication_date: '1961-08-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 193/1961, Série I de 1961-08-21
+  number: '193'
+  series: I
+  supplement: null
+  pages: 1046 - 1047
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/08/19300/10461047.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '174121'
+  dre_path: /dr/detalhe/decreto/43867-1961-174121
+  internal: pt:dre:174121:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/43867-1961-174121
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43867-1961-174121
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: db902cbec95c7b8da0ab1add8c98bf33e47d80c7e26f1fcb9cc1ebb940a6d069
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:25:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:238407:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:25:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 43867
+
+Definidos pelo [Decreto-Lei n.º 40221](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40221-1955-238407), de 5 de Julho de 1955, os limites do concelho de Santana, da ilha da Madeira, reconhece-se a necessidade de estabelecer também os das freguesias no mesmo concelho compreendidas.
+
+Impõe-se, na verdade, pôr termo a dúvidas existentes, aproveitando-se a oportunidade para fazer coincidir os limites das freguesias civis com os das paróquias religiosas, que, presentemente, divergem nalguns pontos, com graves inconvenientes para os povos interessados.
+
+Assim, tendo em vista os estudos efectuados, ouvidas as autoridades eclesiásticas locais e considerados os elementos constantes do processo organizado pelo Instituto Geográfico e Cadastral, nos termos do n.º 3.º do artigo 12.º do Código Administrativo;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º A delimitação das freguesias do concelho de Santana, distrito do Funchal, é a seguinte:
+
+Freguesia de Arco de S. Jorge: começando no sítio da Entrosa, junto ao mar (separação do concelho de Santana do de S. Vicente), segue pela costa, para nascente, até à Aguagem do Bento (ponto de separação desta freguesia com a de S. Jorge), inflecte para sul, continua pelo córrego das Terras do Marques até à sua nascente, prossegue para o sítio da Beira da Quinta, continua pelo Lombo da Assumada até atingir a linha de separação de águas denominada «Lombo do Cerrado», avança até ao Cabeço das Voltas (ponto a partir do qual prossegue pela estrema do concelho de S. Vicente), inflecte para norte, em linha recta, até ao marco geodésico denominado «Arco de S. Jorge», situado no Pico do Arco, e prossegue para oeste pela crista que vai dar à escarpa sobranceira ao mar, no sítio da Entrosa, onde se iniciou a descrição.
+
+Freguesia de S. Jorge: começando na Aguagem do Bento, anteriormente referida, segue pela costa, para nascente, até à foz da ribeira de S. Jorge, inflecte para sul, continua pela mesma ribeira, prossegue pelo Lombo de Antão Alves até ao cruzamento da levada do Caldeirão Verde com a ribeira do Lombo das Queimadas, avança até à nascente desta ribeira, continua pela linha das alturas até ao marco geodésico denominado «Achada do Teixeira» (vértice comum dos limites das freguesias de S. Jorge, Santana e Faial), inflecte para sudoeste, continua pela Encumeada Baixa, avança pela Encumeada Alta até ao marco geodésico denominado «Pico Ruivo de Santana (ponto a partir do qual prossegue pelas estremas dos concelhos de Câmara de Lobos e S. Vicente), segue, para oeste, pela linha das alturas até ao Pico do Coelho, inflecte para norte, avança para o Pico do Milhafre, ou da Tina, prossegue em linha recta até ao marco geodésico denominado «Pico do Canário», inflecte para oeste, contorna o Pico das Lajinhas, continua em linha recta até ao marco geodésico denominado «Assumadouros», avança, ainda em recta, até ao Cabeço das Voltas, já referido, a partir do qual segue, em sentido inverso, o limite anteriormente descrito até à Aguagem do Bento, onde se iniciou a descrição.
+
+Freguesia de Santana: começando na foz da ribeira de S. Jorge, já referida, segue pela costa, para nascente, até à Ponta do Clérigo (ponto de separação da freguesia de Santana com a do Faial), inflecte para poente, continua pela linha de separação das águas até ao marco geodésico denominado «Cortado», situado no Pico do Caldeira, inflecte para sul, avança pela linha das alturas até ao marco geodésico denominado «Cabeço da Garajoa», inflecte para sudoeste e seguidamente para sul, alcança o Cabeço da Cova da Roda, segue pela estrada que vai de Santana ao Lombo Galego, até encontrar a ribeira da Abelheira, pela qual prossegue em direcção à sua nascente, cerca de 500 m a leste do marco geodésico denominado «Achada do Teixeira», já referido, continua até atingir este marco e inflecte para norte, prosseguindo, em sentido inverso, a linha anteriormente descrita, até à foz da ribeira de S. Jorge, onde se iniciou a descrição.
+
+Freguesia do Faial: começando na Ponta do Clérigo, já referida, segue pela costa, para nascente, até à escarpa sobre o mar no extremo da linha vertente do Lombo de António Dias (ponto de separação do concelho de Santana com o de Machico), inflecte para sul, prossegue pela dita linha vertente até ao marco geodésico denominado «Penha da Águia», continua pela estrema do concelho de Machico, através do caminho chamado Ladeira do Vogado, até ao sítio da Cruz, no cruzamento do referido caminho com o caminho da Figueirinha, ou do Furado, atinge a cerca de 115 m, medidos sobre o mesmo caminho e a partir do aludido cruzamento, um ponto designado Poço da Laje, avança pelo córrego da Laje, até à confluência deste com a ribeira de S. Roque, prosseguindo por esta até à sua confluência com a ribeira da Ametade, inflecte para sudoeste, continua por esta ribeira, contornando a Fajã da Nogueira até ao Pico do Galo (ponto a partir do qual prossegue pela estrema do concelho de Câmara de Lobos), inflecte para norte até atingir o marco geodésico denominado «Pico Ruivo de Santana», já referido, inflecte para norte, continua pela Encumeada Alta e pela Encumeada Baixa, até ao marco geodésico denominado «Achada do Teixeira», já referido, seguindo em sentido inverso a linha já descrita até à Ponta do Clérigo, onde se iniciou a descrição.
+
+Freguesia de S. Roque do Faial: começando na confluência da ribeira da Ametade com a ribeira de S. Roque, segue para sul através desta ribeira, até à confluência do córrego da Laje (limite com a freguesia do Faial), prosseguindo deste ponto pela referida ribeira de S. Roque e ribeiro Frio (estrema do concelho de Machico), até à nascente deste, na vertente do Cabeço da Agua das Bicas, ponto de encontro com o concelho do Funchal, continua pela estrema deste concelho até ao Pico do Areeiro, ponto de encontro com o concelho de Câmara de Lobos, prossegue pela estrema deste concelho até ao Pico do Galo, inflecte para nascente, continuando, em sentido inverso, a linha já descrita, pela ribeira da Ametade, até à confluência onde se iniciou a descrição.
+
+Art. 2.º A Câmara Municipal do concelho de Santana procederá, no prazo de 90 dias, a contar da publicação do presente decreto, à colocação de marcos onde forem necessários, por forma que fiquem bem patentes os limites fixados no artigo antecedente.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 21 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

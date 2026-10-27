@@ -1,0 +1,580 @@
+---
+schema_version: '1.0'
+id: pt:dre:338986:por
+title: Decreto-Lei n.º 6/2001
+short_title: null
+summary: Aprova a reorganização curricular do ensino básico
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 6/2001
+official_date: null
+publication_date: '2001-01-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 15/2001, Série I-A de 2001-01-18
+  number: '15'
+  series: I
+  supplement: null
+  pages: 258 - 265
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/01/015a00/02580265.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2012-07-10'
+version_history:
+  file: decreto-lei-6-2001.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2001-01-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-10-18'
+    amending: pt:dre:432450:por
+    amending_title: Decreto-Lei n.º 209/2002
+    changes:
+    - Adita Artigo 19.º-A
+    - Altera Artigo 13.º
+    - Altera Anexo
+    - Altera Anexo II
+    - Altera Anexo III
+  - date: '2008-01-05'
+    amending: pt:dre:628017:por
+    amending_title: Decreto-Lei n.º 396/2007
+    changes:
+    - Altera Artigo 11.º
+  - date: '2008-01-12'
+    amending: pt:dre:386871:por
+    amending_title: Decreto-Lei n.º 3/2008
+    changes:
+    - Revoga Artigo 10.º
+  - date: '2011-03-28'
+    amending: pt:dre:278771:por
+    amending_title: Resolução da Assembleia da República n.º 60/2011
+    changes:
+    - Repoe em Vigor Artigo 19.º
+    - Repoe em Vigor Artigo 20.º
+  - date: '2012-07-10'
+    amending: pt:dre:178548:por
+    amending_title: Decreto-Lei n.º 139/2012
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 5.º-A
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 19.º-A
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Anexo I
+    - Revoga Anexo II
+    - Revoga Anexo III
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/6/2001/p/cons/20120705/pt/html
+  oj: null
+  dre: '338986'
+  dre_path: /dr/detalhe/decreto-lei/6-2001-338986
+  internal: pt:dre:338986:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986
+  metadata_url: https://data.dre.pt/eli/dec-lei/6/2001/p/cons/20120705/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34479375
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34479375
+  retrieved_at: '2026-10-22T11:44:16Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f8f257d66d59ee51ded403f7af1d42baeec6522dfa3ddd2dadefc2b591f61cde
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:44:16Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-6-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Educação Especial
+- Língua Portuguesa
+- Plano de Estudos
+- Formação de Professores
+- Diploma
+- Língua Estrangeira
+- Ensino Básico
+- Avaliação de Conhecimentos
+- Sistema Educativo
+relationships:
+- type: amended_by
+  target: pt:dre:432450:por
+  label: Adita Artigo 19.º-A; Altera Artigo 13.º; Altera Anexo; Altera Anexo II; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450
+  date: '2002-10-17'
+- type: amended_by
+  target: pt:dre:628017:por
+  label: Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:386871:por
+  label: Revoga Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2008-386871
+  date: '2008-01-07'
+- type: amended_by
+  target: pt:dre:278771:por
+  label: Repoe em Vigor Artigo 19.º; Repoe em Vigor Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2011-278771
+  date: '2011-03-23'
+- type: amended_by
+  target: pt:dre:178548:por
+  label: Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 5.º; Revoga Artigo 5.º-A;
+    Revoga Artigo 6.º; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga
+    Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo 15.º; Revoga Artigo 16.º; Revoga Artigo 17.º; Revoga Artigo 18.º; Revoga
+    Artigo 19.º; Revoga Artigo 19.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548
+  date: '2012-07-05'
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+article_structure:
+  article_count: 23
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:44:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 6/2001
+
+O Programa do Governo assume como objectivo estratégico a garantia de uma educação de base para todos, entendendo-a como início de um processo de educação e formação ao longo da vida, objectivo que implica conceder uma particular atenção às situações de exclusão e desenvolver um trabalho de clarificação de exigências quanto às aprendizagens cruciais e aos modos como as mesmas se processam.
+
+De entre as medidas identificadas para a concretização do objectivo referido assume especial relevância a que se refere à necessidade de proceder a uma reorganização do currículo do ensino básico, no sentido de reforçar a articulação entre os três ciclos que o compõem, quer no plano curricular quer na organização de processos de acompanhamento e indução que assegurem, sem perda das respectivas identidades e objectivos, uma maior qualidade das aprendizagens. Nesta reorganização assume particular relevo a consagração no currículo de três novas áreas curriculares não disciplinares, bem como a obrigatoriedade do ensino experimental das ciências, o aprofundamento da aprendizagem das línguas modernas, o desenvolvimento da educação artística e da educação para a cidadania e o reforço do núcleo central do currículo nos domínios da língua materna e da matemática.
+
+A preparação desta intervenção legislativa de política educativa foi objecto de um longo e continuado trabalho com as escolas e com as comunidades educativas, de que se destaca o lançamento, no ano lectivo de 1996-1997, do projecto de reflexão participada sobre os currículos do ensino básico.
+
+Realizado o diagnóstico, foram de imediato lançadas medidas de combate à exclusão no âmbito do ensino básico, nomeadamente os currículos alternativos, a constituição de territórios educativos de intervenção prioritária e os cursos de educação e formação profissional inicial.
+
+Paralelamente, foram lançadas outras medidas com impacte directo na qualidade das aprendizagens e na vida das escolas, designadamente o Programa de Expansão e Desenvolvimento da Educação Pré-Escolar, concebida como primeira etapa da educação básica, e o novo regime de autonomia, administração e gestão das escolas, o qual, de forma inovatória, assumiu como condição estrutural a plena inclusão do 1.º ciclo.
+
+De todo este processo foi emergindo a necessidade de ultrapassar uma visão de currículo como um conjunto de normas a cumprir de modo supostamente uniforme em todas as salas de aula e de ser apoiado, no contexto da crescente autonomia das escolas, o desenvolvimento de novas práticas de gestão curricular. Neste sentido, ensaiando as potencialidades de um novo desenho curricular, as escolas foram convidadas a apresentar projectos de gestão flexível do currículo.
+
+As escolas envolvidas neste projecto têm vindo a construir processos de gestão curricular no quadro de uma flexibilidade que procura encontrar respostas adequadas aos alunos e aos contextos concretos em que os professores trabalham diariamente. Tais projectos têm considerado como pressuposto fundamental a assunção pelas escolas de uma maior capacidade de decisão relativamente ao desenvolvimento e gestão das diversas componentes do currículo e a uma maior articulação entre elas, bem como um acréscimo de responsabilidade na organização das ofertas educativas.
+
+O Documento Orientador das Políticas para o Ensino Básico, publicado pelo Ministério da Educação em 1998, sintetizou os aspectos a considerar na reorganização curricular do ensino básico, sublinhando que a escola precisa de se assumir como um espaço privilegiado de educação para a cidadania e de integrar e articular, na sua oferta curricular, experiências de aprendizagem diversificadas, nomeadamente mais espaços de efectivo envolvimento dos alunos e actividades de apoio ao estudo.
+
+Em consonância com estas perspectivas e como resultado da reflexão e dos debates realizados, assim como da experiência adquirida, importa reequacionar a organização curricular do ensino básico.
+
+O presente decreto-lei estabelece os princípios orientadores da organização e da gestão curricular do ensino básico, bem como da avaliação das aprendizagens e do processo de desenvolvimento do currículo nacional, entendido como o conjunto de aprendizagens e competências, integrando os conhecimentos, as capacidades, as atitudes e os valores, a desenvolver pelos alunos ao longo do ensino básico, de acordo com os objectivos consagrados na Lei de Bases do Sistema Educativo para este nível de ensino.
+
+No quadro do desenvolvimento da autonomia das escolas estabelece-se que as estratégias de desenvolvimento do currículo nacional, visando adequá-lo ao contexto de cada escola, deverão ser objecto de um projecto curricular de escola, concebido, aprovado e avaliado pelos respectivos órgãos de administração e gestão, o qual deverá ser desenvolvido, em função do contexto de cada turma, num projecto curricular de turma, concebido, aprovado e avaliado pelo professor titular de turma ou pelo conselho de turma, consoante os ciclos.
+
+O diploma define os princípios orientadores a que deve obedecer a organização e gestão do currículo, nomeadamente a coerência e sequencialidade entre os três ciclos do ensino básico e a articulação destes com o ensino secundário, a integração do currículo e da avaliação, assegurando que esta constitua o elemento regulador do ensino e da aprendizagem e a existência de áreas curriculares disciplinares e não disciplinares, visando a realização de aprendizagens significativas e a formação integral dos alunos, através da articulação e da contextualização dos saberes, e estabelece os parâmetros a que deve obedecer a organização do ano escolar.
+
+No âmbito da organização curricular do ensino básico, para além das áreas curriculares disciplinares, o diploma determina a criação de três áreas curriculares não disciplinares - área de projecto, estudo acompanhado e formação cívica.
+
+O diploma consagra a educação para a cidadania, o domínio da língua portuguesa e a valorização da dimensão humana do trabalho, bem como a utilização das tecnologias de informação e comunicação como formações transdisciplinares, no âmbito do ensino básico, abordando de forma integrada a diversificação das ofertas educativas, tomando em consideração as necessidades dos alunos, definindo um quadro flexível para o desenvolvimento de actividades de enriquecimento do currículo.
+
+Especial relevância assumem as disposições relativas à avaliação das aprendizagens, entendida como um processo regulador das aprendizagens, orientador do percurso escolar e certificador das diversas aquisições realizadas pelos alunos ao longo do ensino básico, bem como à avaliação do desenvolvimento do currículo nacional.
+
+Foi ouvido o Conselho Nacional de Educação.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido na alínea e) do n.º 1 do artigo 59.º da Lei n.º 46/86, de 14 de Outubro, na redacção que lhe foi dada pela Lei n.º 115/97, de 19 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 38.º, Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548) A revogação do presente diploma produz efeitos a partir do ano letivo de 2012-2013.
+
+### Capítulo I — Princípios gerais
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma estabelece os princípios orientadores da organização e da gestão curricular do ensino básico, bem como da avaliação das aprendizagens e do processo de desenvolvimento do currículo nacional.
+
+2 - Os princípios orientadores definidos no presente diploma aplicam-se às demais ofertas formativas relativas ao ensino básico, no âmbito do sistema educativo.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+###### Artigo 2.º — Currículo
+
+1 - Para efeitos do disposto no presente diploma, entende-se por currículo nacional o conjunto de aprendizagens e competências a desenvolver pelos alunos ao longo do ensino básico, de acordo com os objectivos consagrados na Lei de Bases do Sistema Educativo para este nível de ensino, expresso em orientações aprovadas pelo Ministro da Educação, tomando por referência os desenhos curriculares anexos ao presente decreto-lei.
+
+2 - As orientações a que se refere o número anterior definem ainda o conjunto de competências consideradas essenciais e estruturantes no âmbito do desenvolvimento do currículo nacional, para cada um dos ciclos do ensino básico, o perfil de competências terminais deste nível de ensino, bem como os tipos de experiências educativas que devem ser proporcionadas a todos os alunos.
+
+3 - As estratégias de desenvolvimento do currículo nacional, visando adequá-lo ao contexto de cada escola, são objecto de um projecto curricular de escola, concebido, aprovado e avaliado pelos respectivos órgãos de administração e gestão.
+
+4 - As estratégias de concretização e desenvolvimento do currículo nacional e do projecto curricular de escola, visando adequá-los ao contexto de cada turma, são objecto de um projecto curricular de turma, concebido, aprovado e avaliado pelo professor titular de turma, em articulação com o conselho de docentes, ou pelo conselho de turma, consoante os ciclos.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+###### Artigo 3.º — Princípios orientadores
+
+A organização e a gestão do currículo subordinam-se aos seguintes princípios orientadores:
+
+a) Coerência e sequencialidade entre os três ciclos do ensino básico e articulação destes com o ensino secundário;
+
+b) Integração do currículo e da avaliação, assegurando que esta constitua o elemento regulador do ensino e da aprendizagem;
+
+c) Existência de áreas curriculares disciplinares e não disciplinares, visando a realização de aprendizagens significativas e a formação integral dos alunos, através da articulação e da contextualização dos saberes;
+
+d) Integração, com carácter transversal, da educação para a cidadania em todas as áreas curriculares;
+
+e) Valorização das aprendizagens experimentais nas diferentes áreas e disciplinas, em particular, e com carácter obrigatório, no ensino das ciências, promovendo a integração das dimensões teórica e prática;
+
+f) Racionalização da carga horária lectiva semanal dos alunos;
+
+g) Reconhecimento da autonomia da escola no sentido da definição de um projecto de desenvolvimento do currículo adequado ao seu contexto e integrado no respectivo projecto educativo;
+
+h) Valorização da diversidade de metodologias e estratégias de ensino e actividades de aprendizagem, em particular com recurso a tecnologias de informação e comunicação, visando favorecer o desenvolvimento de competências numa perspectiva de formação ao longo da vida;
+
+i) Diversidade de ofertas educativas, tomando em consideração as necessidades dos alunos, por forma a assegurar que todos possam desenvolver as competências essenciais e estruturantes definidas para cada um dos ciclos e concluir a escolaridade obrigatória.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+###### Artigo 4.º — Organização do ano escolar
+
+1 - O ano escolar é entendido como o período compreendido entre o dia 1 de Setembro de cada ano e o dia 31 de Agosto do ano seguinte.
+
+2 - O ano lectivo é entendido como o período contido dentro do ano escolar no qual são desenvolvidas as actividades escolares e corresponde a um mínimo de 180 dias efectivos.
+
+3 - O calendário escolar anual é definido por despacho do Ministro da Educação, ouvidos os parceiros educativos.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2011 - Diário da República n.º 23/2011, Série I de 2011-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2011-280496), produz efeitos a partir de 2011-09-01
+
+### Capítulo II — Organização e gestão do currículo nacional
+
+###### Artigo 5.º — Organização
+
+1 - São aprovados os desenhos curriculares dos 1.º, 2.º e 3.º ciclos do ensino básico constantes dos anexos I, II e III ao presente diploma e do qual fazem parte integrante.
+
+2 - Os desenhos curriculares dos três ciclos do ensino básico integram áreas curriculares disciplinares e não disciplinares, bem como, nos 2.º e 3.º ciclos, a carga horária semanal de cada uma delas.
+
+3 - Os agrupamentos de escolas e escolas não agrupadas podem, ouvidos o Conselho Geral e o Conselho Pedagógico, organizar a carga horária semanal de todas as componentes das áreas curriculares disciplinares dos 2.º e 3.º ciclos em períodos de 45 ou 90 minutos, com excepção da disciplina de Educação Física, que é organizada em períodos de 90 minutos.
+
+4 - Para efeito do n.º 2, consideram-se as seguintes áreas curriculares não disciplinares:
+
+a) Estudo acompanhado, orientada para a criação de métodos de estudo e de trabalho que promovam a autonomia da aprendizagem e a melhoria dos resultados escolares;
+
+b) Formação cívica, orientada para o desenvolvimento da educação para a cidadania, para a saúde e sexualidade.
+
+5 - O desenvolvimento das áreas curriculares não disciplinares assume especificidades próprias, de acordo com as características de cada ciclo, sendo da responsabilidade do professor titular de turma, no caso do 1.º ciclo, e do conselho de turma, no caso dos 2.º e 3.º ciclos.
+
+6 - As escolas, no âmbito da sua autonomia, devem desenvolver outros projectos e actividades que contribuam para a formação pessoal e social dos alunos, nas quais se inclui, nos termos da Constituição e da lei, a Educação Moral e Religiosa, de frequência facultativa.
+
+7 - As orientações para as diversas áreas curriculares dos três ciclos do ensino básico, incluindo os conteúdos programáticos das áreas disciplinares, são homologadas por despacho do Ministro da Educação.
+
+8 - No respeito pelos limites constantes dos desenhos curriculares a que se refere o n.º 1 do presente artigo, compete à escola, no desenvolvimento da sua autonomia e no âmbito do seu projecto curricular, definir as cargas horárias a atribuir às diversas componentes do currículo.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2011 - Diário da República n.º 23/2011, Série I de 2011-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2011-280496), produz efeitos a partir de 2011-09-01
+
+###### Artigo 5.º-A — Estudo acompanhado
+
+1 - Por portaria do membro do Governo responsável pela área da educação são definidas as condições de funcionamento do estudo acompanhado para os alunos com efectivas necessidades de apoio.
+
+2 - O estudo acompanhado é orientado para a melhoria dos resultados escolares nas disciplinas em que os alunos tenham maiores dificuldades e visa prioritariamente o reforço de apoio nas disciplinas de Língua Portuguesa e Matemática.
+
+3 - O professor titular de turma ou o conselho de turma determinam quais os alunos que devem frequentar o estudo acompanhado.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 18/2011 - Diário da República n.º 23/2011, Série I de 2011-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2011-280496), produz efeitos a partir de 2011-09-01
+
+###### Artigo 6.º — Formações transdisciplinares
+
+1 - A educação para a cidadania bem como a valorização da língua portuguesa e da dimensão humana do trabalho constituem formações transdisciplinares, no âmbito do ensino básico.
+
+2 - Constitui ainda formação transdisciplinar de carácter instrumental a utilização das tecnologias de informação e comunicação, a qual deverá conduzir, no âmbito da escolaridade obrigatória, a uma certificação da aquisição das competências básicas neste domínio.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+###### Artigo 7.º — Línguas estrangeiras
+
+1 - As escolas do 1.º ciclo podem, de acordo com os recursos disponíveis, proporcionar a iniciação a uma língua estrangeira, com ênfase na sua expressão oral.
+
+2 - A aprendizagem de uma língua estrangeira inicia-se obrigatoriamente no 2.º ciclo e prolonga-se no 3.º ciclo, de modo a proporcionar aos alunos o domínio da língua num crescendo de adequação e fluência.
+
+3 - A aprendizagem de uma segunda língua estrangeira é obrigatória no 3.º ciclo.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+###### Artigo 8.º — Língua portuguesa como segunda língua
+
+As escolas devem proporcionar actividades curriculares específicas para a aprendizagem da língua portuguesa como segunda língua aos alunos cuja língua materna não seja o português.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+###### Artigo 9.º — Actividades de enriquecimento do currículo
+
+As escolas, no desenvolvimento do seu projecto educativo, devem proporcionar aos alunos actividades de enriquecimento do currículo, de frequência facultativa e de natureza eminentemente lúdica e cultural, incidindo, nomeadamente, nos domínios desportivo, artístico, científico e tecnológico, de ligação da escola com o meio, de solidariedade e de voluntariado e da dimensão europeia na educação.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2011 - Diário da República n.º 23/2011, Série I de 2011-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2011-280496), produz efeitos a partir de 2011-09-01
+
+###### Artigo 10.º — Educação especial
+
+1 - Aos alunos com necessidades educativas especiais de carácter permanente é oferecida a modalidade de educação especial.
+
+2 - Para efeitos do presente diploma, consideram-se alunos com necessidades educativas especiais de carácter permanente os alunos que apresentem incapacidade ou incapacidades que se reflictam numa ou mais áreas de realização de aprendizagens, resultantes de deficiências de ordem sensorial, motora ou mental, de perturbações da fala e da linguagem, de perturbações graves da personalidade ou do comportamento ou graves problemas de saúde.
+
+3 - O disposto nos números anteriores é objecto de regulamentação própria.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 3/2008 - Diário da República n.º 4/2008, Série I de 2008-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2008-386871), em vigor a partir de 2008-01-12
+
+###### Artigo 11.º — Diversificação das ofertas curriculares
+
+1 - Visando assegurar o cumprimento da escolaridade obrigatória e combater a exclusão, as escolas dispõem de dispositivos de organização e gestão do currículo, destinados especialmente a alunos que revelem insucesso escolar repetido ou problemas de integração na comunidade educativa, os quais, para além da formação escolar, podem conferir um certificado de qualificação profissional.
+
+2 - Compete às escolas, no desenvolvimento da sua autonomia e no âmbito do seu projecto educativo, conceber, propor e gerir outras medidas específicas de diversificação da oferta curricular.
+
+3 - As orientações relativas à diversificação das ofertas curriculares constam de portaria do ministro responsável pela área da educação ou, quando respeitem a percursos de dupla certificação, escolar e profissional, são reguladas no âmbito do Sistema Nacional de Qualificações.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 396/2007 - Diário da República n.º 251/2007, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017), em vigor a partir de 2008-01-05
+
+### Capítulo III — Avaliação
+
+###### Artigo 12.º — Avaliação das aprendizagens
+
+1 - A avaliação constitui um processo regulador das aprendizagens, orientador do percurso escolar e certificador das diversas aquisições realizadas pelo aluno ao longo do ensino básico.
+
+2 - Na avaliação das aprendizagens dos alunos intervêm todos os professores envolvidos, assumindo particular responsabilidade neste processo o professor titular de turma, no 1.º ciclo, e os professores que integram o conselho de turma, nos 2.º e 3.º ciclos.
+
+3 - A escola deve assegurar a participação dos alunos e dos pais e encarregados de educação no processo de avaliação das aprendizagens, em condições a estabelecer no respectivo regulamento interno.
+
+4 - Podem, ainda, ter intervenção no processo de avaliação das aprendizagens dos alunos os serviços especializados de apoio educativo, os órgãos de administração e gestão da escola ou do agrupamento de escolas, bem como outras entidades, nomeadamente serviços centrais e regionais da administração da educação, de acordo com o disposto na lei e no regulamento interno da escola.
+
+5 - No âmbito da sua autonomia, compete à escola, em articulação com os serviços centrais e regionais da administração da educação, desenvolver e divulgar instrumentos de informação para os alunos, pais e encarregados de educação e demais elementos da comunidade educativa.
+
+6 - As medidas de desenvolvimento do disposto no presente diploma em matéria de avaliação das aprendizagens dos alunos são aprovadas por despacho do Ministro da Educação.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+###### Artigo 13.º — Modalidades
+
+1 - A avaliação das aprendizagens compreende as modalidades de avaliação diagnóstica, de avaliação formativa e de avaliação sumativa.
+
+2 - A avaliação diagnóstica realiza-se no início de cada ano de escolaridade, devendo articular-se com estratégias de diferenciação pedagógica, de superação de eventuais dificuldades dos alunos, de facilitação da sua integração escolar e de apoio à orientação escolar e vocacional.
+
+3 - A avaliação formativa assume carácter contínuo e sistemático, recorre a uma variedade de instrumentos de recolha de informação, adequados à diversidade das aprendizagens e aos contextos em que ocorrem, tendo como uma das funções principais a regulação do ensino e da aprendizagem.
+
+4 - A avaliação sumativa traduz-se na formulação de um juízo globalizante sobre as aprendizagens realizadas pelos alunos, tendo como funções principais o apoio ao processo educativo e a sua certificação, e inclui:
+
+a) A avaliação sumativa interna, da responsabilidade dos professores e da escola, que se realiza no final de cada período lectivo utilizando a informação recolhida no âmbito da avaliação formativa;
+
+b) A avaliação sumativa externa, da responsabilidade dos serviços centrais do Ministério da Educação, que compreende a realização de provas finais de ciclo nos 6.º e 9.º anos, nas disciplinas de Língua Portuguesa e Matemática.
+
+5 - No 1.º ciclo do ensino básico, a avaliação sumativa interna exprime-se de forma descritiva, incidindo sobre as diferentes áreas curriculares.
+
+6 - Nos 2.º e 3.º ciclos do ensino básico, a avaliação sumativa interna exprime-se numa escala de 1 a 5 nas áreas curriculares disciplinares, assumindo formas de expressão qualitativa nas áreas curriculares não disciplinares.
+
+7 - Nos 2.º e 3.º ciclos do ensino básico, a avaliação sumativa externa é feita nos termos previstos na alínea b) do n.º 4.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94/2011 - Diário da República n.º 148/2011, Série I de 2011-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2011-669549), produz efeitos a partir de 2011-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 209/2002 - Diário da República n.º 240/2002, Série I-A de 2002-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450), em vigor a partir de 2002-10-18
+
+###### Artigo 14.º — Efeitos da avaliação
+
+1 - A evolução do processo educativo dos alunos no ensino básico assume uma lógica de ciclo, progredindo ao ciclo imediato o aluno que tenha desenvolvido as competências a que se refere o n.º 2 do artigo 2.º do presente diploma.
+
+2 - Em situações de não realização das aprendizagens definidas no projecto curricular de turma para um ano não terminal de ciclo que, fundamentadamente, comprometam o desenvolvimento das competências definidas para um ciclo de escolaridade, o professor titular de turma, no 1.º ciclo, ouvidos os competentes conselhos de docentes, ou o conselho de turma, nos 2.º e 3.º ciclos, poderá determinar a retenção do aluno no mesmo ano de escolaridade, excepto no caso do 1.º ano de escolaridade.
+
+3 - Em situações de retenção, compete ao professor titular de turma, no 1.º ciclo, e ao conselho de turma, nos 2.º e 3.º ciclos, identificar as aprendizagens não realizadas pelo aluno, as quais devem ser tomadas em consideração na elaboração do projecto curricular da turma em que o referido aluno venha a ser integrado no ano escolar subsequente.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+###### Artigo 15.º — Conclusão e certificação do ensino básico
+
+1 - Aos alunos que concluam com aproveitamento o ensino básico é passado o diploma do ensino básico pelo órgão de direcção executiva da respectiva escola.
+
+2 - A requerimento dos interessados, podem, ainda, ser emitidas, pelo órgão de direcção executiva da escola, em qualquer momento do percurso escolar do aluno, certidões das habilitações adquiridas, as quais podem discriminar as disciplinas e áreas curriculares não disciplinares concluídas e respectivos resultados de avaliação.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+###### Artigo 16.º — Avaliação do desenvolvimento do currículo nacional
+
+O desenvolvimento do currículo nacional, bem como a aquisição pelos alunos das competências essenciais e estruturantes nos diversos ciclos do ensino básico, é objecto de avaliação, recorrendo a uma diversidade de técnicas e de instrumentos.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+###### Artigo 17.º — Provas nacionais de aferição
+
+1 - As provas nacionais de aferição constituem um dos instrumentos de avaliação do desenvolvimento do currículo nacional e destinam-se a fornecer informação relevante aos professores, às escolas e à administração educativa, não produzindo efeitos na progressão escolar dos alunos.
+
+2 - O enquadramento do processo de realização das provas nacionais de aferição é objecto de despacho do Ministro da Educação, sendo a sua realização da responsabilidade de serviços centrais do Ministério da Educação.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+### Capítulo IV — Disposições finais e transitórias
+
+###### Artigo 18.º — Formação de professores
+
+1 - Na organização dos cursos de formação inicial de professores do ensino básico são respeitados os princípios orientadores da organização e da gestão do currículo do ensino básico constantes do presente diploma, de acordo com os perfis de qualificação para a docência decorrentes do disposto na Lei de Bases do Sistema Educativo.
+
+2 - A organização de acções de formação contínua de professores deve tomar em consideração as necessidades reais de cada contexto escolar, nomeadamente através da utilização de modalidades de formação centradas na escola e nas práticas profissionais.
+
+3 - A organização de acções de formação especializada de professores deve dar uma particular atenção às áreas de desenvolvimento curricular, de supervisão pedagógica e de orientação educativa.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2011 - Diário da República n.º 23/2011, Série I de 2011-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2011-280496), produz efeitos a partir de 2011-09-01
+
+###### Artigo 19.º — Grupos de docência e distribuição de serviço
+
+1 - Por portaria do Ministro da Educação são reorganizados os grupos de docência, por forma a corresponder aos princípios orientadores da organização e da gestão do currículo constantes do presente diploma.
+
+2 - Até à publicação da portaria a que se refere o número anterior, a distribuição de serviço aos docentes em cada escola deve obedecer a uma lógica de gestão integrada de recursos humanos, no respeito pelos princípios orientadores da organização e da gestão do currículo constantes do presente diploma.
+
+3 - A adequação da componente lectiva dos docentes à nova organização da carga horária dos alunos, de acordo com o previsto nos anexos II e III ao presente diploma, é definida por despacho do Ministro da Educação, no respeito pelo disposto no artigo 77.º do Estatuto da Carreira Docente, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, na redacção que lhe foi dada pelo Decreto-Lei n.º 1/98, de 2 de Janeiro.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Reposto em Vigor pelo/a [Resolução da Assembleia da República n.º 60/2011 - Diário da República n.º 58/2011, Série I de 2011-03-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2011-278771), em vigor a partir de 2011-03-28
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 18/2011 - Diário da República n.º 23/2011, Série I de 2011-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2011-280496), produz efeitos a partir de 2001-09-01
+
+###### Artigo 19.º-A — Regiões Autónomas
+
+A aplicação do presente diploma às Regiões Autónomas dos Açores e da Madeira faz-se sem prejuízo das competências dos órgãos de governo próprio em matéria de educação.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 209/2002 - Diário da República n.º 240/2002, Série I-A de 2002-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450), em vigor a partir de 2002-10-18
+
+###### Artigo 20.º — Produção de efeitos
+
+1 - O presente diploma produz efeitos no ano lectivo de 2001-2002 no que respeita a todos os anos de escolaridade dos 1.º e 2.º ciclos do ensino básico.
+
+2 - O presente diploma produz efeitos a partir do ano lectivo de:
+
+a) 2002-2003 no que respeita ao 7.º ano de escolaridade;
+
+b) 2003-2004 no que respeita ao 8.º ano de escolaridade;
+
+c) 2004-2005 no que respeita ao 9.º ano de escolaridade.
+
+3 - Os mecanismos de transição para os desenhos curriculares aprovados pelo presente diploma são definidos por despacho do Ministro da Educação.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Reposto em Vigor pelo/a [Resolução da Assembleia da República n.º 60/2011 - Diário da República n.º 58/2011, Série I de 2011-03-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-2011-278771), em vigor a partir de 2011-03-28
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 18/2011 - Diário da República n.º 23/2011, Série I de 2011-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2011-280496), produz efeitos a partir de 2001-09-01
+
+###### Artigo 21.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 286/89, de 29 de Agosto, em tudo o que se refere ao ensino básico, de acordo com a calendarização definida no artigo anterior.
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+Visto e aprovado em Conselho de Ministros de 2 de Novembro de 2000. - Jorge Paulo Sacadura Almeida Coelho - Guilherme d'Oliveira Martins - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Augusto Ernesto Santos Silva - Alberto de Sousa Martins.
+
+Promulgado em 6 de Janeiro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 11 de Janeiro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo I — 1.º ciclo
+
+(ver quadro no documento original)
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2011 - Diário da República n.º 23/2011, Série I de 2011-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2011-280496), produz efeitos a partir de 2011-09-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 209/2002 - Diário da República n.º 240/2002, Série I-A de 2002-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450), em vigor a partir de 2002-10-18
+
+> Republicado pelo/a [Declaração de Rectificação n.º 4-A/2001 - Diário da República n.º 50/2001, 2º Suplemento, Série I-A de 2001-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-a-2001-303126), produz efeitos a partir de 2001-01-23
+
+## Anexo II — 2.º ciclo
+
+(ver quadro no documento original)
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 94/2011 - Diário da República n.º 148/2011, Série I de 2011-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2011-669549), produz efeitos a partir de 2011-09-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2011 - Diário da República n.º 23/2011, Série I de 2011-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2011-280496), produz efeitos a partir de 2011-09-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 209/2002 - Diário da República n.º 240/2002, Série I-A de 2002-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450), em vigor a partir de 2002-10-18
+
+> Republicado pelo/a [Declaração de Rectificação n.º 4-A/2001 - Diário da República n.º 50/2001, 2º Suplemento, Série I-A de 2001-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-a-2001-303126), produz efeitos a partir de 2001-01-23
+
+## Anexo III — 3.º ciclo
+
+(ver quadro no documento original)
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 139/2012 - Diário da República n.º 129/2012, Série I de 2012-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548), em vigor a partir de 2012-07-10
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 94/2011 - Diário da República n.º 148/2011, Série I de 2011-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2011-669549), produz efeitos a partir de 2011-09-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2011 - Diário da República n.º 23/2011, Série I de 2011-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2011-280496), produz efeitos a partir de 2011-09-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 209/2002 - Diário da República n.º 240/2002, Série I-A de 2002-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2002-432450), em vigor a partir de 2002-10-18
+
+> Republicado pelo/a [Declaração de Rectificação n.º 4-A/2001 - Diário da República n.º 50/2001, 2º Suplemento, Série I-A de 2001-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-a-2001-303126), produz efeitos a partir de 2001-01-23

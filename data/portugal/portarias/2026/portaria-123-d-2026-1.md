@@ -1,0 +1,379 @@
+---
+schema_version: '1.0'
+id: pt:dre:1075293596:por
+title: Portaria n.º 123-D/2026/1
+short_title: null
+summary: Aprova o plano de gestão da Zona Especial de Conservação (ZEC) Sicó/Alvaiázere (PTCON0045).
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Economia e Coesão Territorial, Ambiente e Energia e Agricultura e Mar
+proposing_entity: null
+official_number: 123-D/2026/1
+official_date: null
+publication_date: '2026-03-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 56/2026, Suplemento, Série I de 2026-03-20
+  number: '56'
+  series: I
+  supplement: null
+  pages: 62 - 110
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/03/05602/0006200110.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/123-d/2026/03/20/p/dre/pt/html
+  oj: null
+  dre: '1075293596'
+  dre_path: /dr/detalhe/portaria/123-d-2026-1075293596
+  internal: pt:dre:1075293596:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/123-d-2026-1075293596
+  metadata_url: https://data.dre.pt/eli/port/123-d/2026/03/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/123-d-2026-1075293596
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:36:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8354061aa52ecbde683ab7f7e938e1f4e61e6baf94d276ac90833bffd09ae3bf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alvaiázere
+- Avaliação de Impacte Ambiental
+- Contraordenação
+- Diversidade Biológica
+- Espécie Protegida
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
+- Rede Natura 2000
+- Regulamentação de Atos Legislativos
+- Vida Selvagem
+- Zona Especial de Conservação
+relationships:
+- type: cites
+  target: pt:dre:1066993462:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/68/2026/03/05/p/dre
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/156-a/2013/11/08/p/dre
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/49/2005/02/24/p/dre
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:36:09Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 123-D/2026/1
+
+de 20 de março
+
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Sicó/Alvaiázere (PTCON0045), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+
+Posteriormente, o [Decreto-Lei n.º 68/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2026-1066993462), de 5 de março, completou o processo de classificação da ZEC Sicó/Alvaiázere, ao contemplar no respetivo plano de gestão a identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens protegidos, constantes dos anexos i e ii da Diretiva Habitats com presença significativa na sua área, e fixar, em função das características específicas do seu território e das exigências ecológicas desses tipos de habitat e espécies, objetivos de conservação direcionados à manutenção ou ao restabelecimento do seu estado de conservação favorável. Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu, ainda, medidas de conservação de natureza preventiva e regulamentar, necessárias para evitar a deterioração dos tipos de habitat naturais e seminaturais e dos habitats das espécies protegidas e com presença significativa na ZEC, assim como a perturbação significativa dessas espécies, as quais se tipificam em medidas de ordenamento do território e medidas de gestão.
+
+Neste contexto, cumpre agora aprovar o plano de gestão da ZEC Sicó/Alvaiázere, numa abordagem integrada que dê resposta às exigências ecológicas específicas da ZEC, procedendo à identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens com presença significativa na sua área e que justificaram o seu reconhecimento como SIC pela Comissão Europeia e a sua subsequente classificação como ZEC, bem como adotando um conjunto de medidas e ações de conservação complementares, designadamente medidas de gestão ativa e de suporte, conforme o disposto no artigo 12.º do [Decreto-Lei n.º 68/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2026-1066993462), de 5 de março. O plano de gestão da ZEC Sicó/Alvaiázere tem também por função estabelecer as prioridades de conservação da zona, identificando as espécies e os tipos de habitat protegidos com presença significativa na ZEC em relação aos quais se impõem medidas mais urgentes.
+
+Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, no artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e no artigo 12.º do [Decreto-Lei n.º 68/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2026-1066993462), de 5 de março, em conjugação com os artigos 15.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria aprova o plano de gestão da Zona Especial de Conservação (ZEC) Sicó/Alvaiázere, anexo à presente portaria e que dela faz parte integrante.
+
+###### Artigo 2.º — Âmbito
+
+1 - O plano de gestão da ZEC Sicó/Alvaiázere identifica os tipos de habitat naturais e seminaturais e as espécies da flora e fauna selvagens com presença significativa na ZEC Sicó/Alvaiázere e adota medidas e ações complementares de conservação.
+
+2 - O plano de gestão da ZEC Sicó/Alvaiázere deve ser aplicado em conjunto e simultaneamente com o [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e com o [Decreto-Lei n.º 68/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2026-1066993462), de 5 de março, que fixou os objetivos específicos para a sua conservação e estabeleceu as medidas de conservação de natureza regulamentar necessárias para atingir esses objetivos.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 19 de março de 2026.
+
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
+
+## ANEXO I — (a que se refere o artigo 1.º)
+
+Plano de gestão da ZEC Sicó/Alvaiázere (PTCON0045)
+
+Localização
+
+A ZEC Sicó/Alvaiázere com uma área total aproximada de 31 628 ha, localiza-se nos concelhos de Alvaiázere, Ansião, Pombal, Ferreira do Zêzere, Tomar, Ourém, Soure e Penela, conforme se apresenta no Quadro 1. A sua localização encontra-se representada cartograficamente na Figura 1, estando os seus limites disponíveis no geocatálogo da Autoridade Nacional da Conservação da Natureza e Biodiversidade.
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293953.png) |
+| --- |
+
+Quadro 1 - Unidades territoriais abrangidas pela ZEC Sicó/Alvaiázere
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293954.png) |
+| --- |
+
+Caracterização
+
+A ZEC Sicó/Alvaiázere possui uma elevada diversidade de tipos de habitat associados ao substrato calcário. Inclui as maiores e mais bem preservadas áreas do país de carvalhal de carvalho-cerquinho (Quercus faginea subsp. broteroi) (habitat 9240) e áreas notáveis de azinhais (habitat 9340pt2) em bom estado de conservação. O sobreiral (habitat 9330) também ocorre, embora de forma mais modesta, em solos descarbonatados. Abundam na ZEC os matagais tipicamente mediterrânicos do habitat 5330, incluindo o subtipo pt7, matos baixos calcários, e, em solos mais frescos, é frequente encontrar louriçais (5230). Os tipos de habitat rupestres são diversos e ricos em flora, incluindo os afloramentos colonizados por comunidades casmofíticas (habitat 8210), lajes ou lapiás calcários (8240), comunidades saxícolas de plantas suculentas (6110), para além de cascalheiras calcárias (habitat 8130). Em áreas com solos mais profundos ocorrem prados vivazes com abundância de orquídeas (habitat 6210), sendo os prados com maior área os do habitat 6220. A ZEC inclui ainda troços da rede hidrográfica do rio Nabão (habitat 3260), cujas margens são ocupadas por galerias ribeirinhas muitas vezes contínuas, ainda relativamente em bom estado de conservação, destacando-se os bosques ripícolas e pantanosos de amieiros ou salgueiros (habitat 91E0), resultando os salgueirais (do habitat 92A0) da degradação dos primeiros.
+
+A ZEC constitui-se como uma das áreas mais importantes para a conservação da flora calcícola, sendo de realçar Juncus valvatus, um endemismo lusitano indicador dos juncais do habitat 6410 subtipo pt4, que ainda ocorre em pequenas parcelas, para além de diversas espécies de apetências rupestres, como Arabis sadina, Narcissus calcicola, Silene longicilia, entre outras. Na fauna, a sub-bacia do rio Nabão é o único local de ocorrência confirmada da lampreia-do-nabão (Lampetra auremensis). A ZEC inclui ainda vários abrigos de morcegos de importância nacional (e.g. grutas/algares, habitat 8310), que albergam colónias de morcego-rato-grande (Myotis myotis), de hibernação de morcego-de-ferradura-grande (Rhinolophus ferrumequinum) e de criação e hibernação de morcego-de-peluche (Miniopterus schreibersi).
+
+Do ponto de vista geomorfológico, a ZEC corresponde a um conjunto pouco elevado de serras e planaltos calcários. O relevo cársico encontrado apresenta algumas características únicas em todo o território português, desde formas cársicas superficiais a subterrâneas, das quais se destacam inúmeras grutas, algares, lapiás, dolinas, megalapiás, pias e lapas. Sendo ainda de referir o canhão fluviocársico dos Poios e as exsurgências do Rio Anços (Redinha, Pombal) e do Agroal, no Rio Nabão (Formigais, Ourém). Na serra de Sicó destacam-se o Algar da Lagoa, Algar da Pena Só, Algar da Ervilha e Lapa da Cerâmica. Na serra de Alvaiázere destaca-se o Algar da Água, com uma nascente de água no seu interior e a Gruta do Bacelinho.
+
+Os relevos cársicos favorecem a infiltração de água e criam um ambiente subterrâneo com importantes aquíferos, que são fundamentais para a biodiversidade local e para o abastecimento de água da região. Do ponto de vista hidrológico, a ZEC insere-se essencialmente na bacia do rio Nabão (Tejo), drenando para a bacia do rio Arunca (Mondego) apenas a noroeste.
+
+Os padrões de ocupação do solo da ZEC refletem em grande medida o ambiente cársico descrito, favorável à vegetação onde predominam matos e matagais, que ocupam 30 % do seu território. A floresta é também muito importante, com a floresta autóctone e a de resinosas ocorrendo em 17 % e em 16 % do território, respetivamente, sendo que a primeira é dominada por carvalhos e a segunda pelo pinheiro-bravo. A floresta alóctone, representada pelos eucaliptais, tem uma ocupação mais reduzida (5 %). As áreas agrícolas e os mosaicos agroflorestais, que geralmente se encontram nas suas imediações são também uma marca da região, cobrindo mais de 19 % e 6 % do território, respetivamente.
+
+Entre as demais classes de ocupação de solo destacam-se ainda, em áreas mais localizadas, territórios artificializados (e. g. tecido edificado, áreas de extração e indústria, comércio e instalações agrícolas) que representam pouco mais de 5 % da ZEC.
+
+Valores Naturais
+
+Na ZEC Sicó/Alvaiázere ocorrem, com presença significativa, vinte tipos de habitat protegidos através do Anexo I da Diretiva Habitats (Quadro 2). Também com presença significativa, identificam-se um total de quatro espécies de flora listadas no anexo II da Diretiva Habitats (Quadro 3). Ao mesmo tempo, a ZEC alberga populações com presença significativa de catorze espécies da fauna listadas no anexo II da Diretiva Habitats (Quadro 3), um invertebrado, um réptil, quatro peixes e oito mamíferos.
+
+Dos tipos de habitat e espécies referidos, a ZEC assume especial relevância para a conservação de quinze tipos de habitat, três espécies de flora e dez espécies de fauna, os quais constituem prioridades de conservação e para os quais se impõem medidas de gestão mais urgentes (valores alvo, assinalados com um # e a negrito nos Quadro 2 e Quadro 3).
+
+Quadro 2 - Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293955.png) |
+| --- |
+
+Quadro 3 - Espécies do anexo II da Diretiva Habitats com presença significativa na ZEC
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293956.png) |
+| --- |
+
+Objetivos de conservação
+
+Os objetivos de conservação para os valores com presença significativa são identificados no Quadro 4 e constituem o quadro de referência das medidas definidas para a gestão da ZEC. São ainda identificadas as metas a atingir no período de vigência do plano e os respetivos indicadores de resultado.
+
+A integridade ecológica da ZEC fica, deste modo, enquadrada pelo conjunto dos objetivos de conservação adiante definidos, cuja prossecução permitirá contribuir para os objetivos da Diretiva Habitats, ou seja, assegurar a biodiversidade através da manutenção ou restabelecimento do estado de conservação favorável dos tipos de habitat e das espécies presentes nos sítios e para a coerência da rede Natura 2000.
+
+Considerando o grau de desconhecimento existente sobre a espécie de fauna Euphydryas aurinia nesta área classificada, não são identificados objetivos de conservação para a sua gestão na ZEC, sendo certo, no entanto, que a espécie beneficiará das medidas de conservação a adotar na conservação dos restantes valores associados aos biótopos preferencialmente por ela utilizados. Também devido ao desconhecimento do grau de conservação e tendência da área ocupada relativamente ao habitat 3130, para este valor não são estabelecidos objetivos de conservação. O plano identifica uma medida de conservação complementar visando colmatar as lacunas de conhecimento de forma a permitir futuramente a definição dos objetivos de conservação para esta espécie de invertebrado e este habitat.
+
+Quadro 4 - Objetivos de conservação para a gestão da ZEC
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293957.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293958.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293959.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293960.png) |
+| --- |
+
+Medidas de conservação complementares
+
+O Plano de Gestão identifica as medidas de conservação complementares às previstas no [Decreto-Lei n.º 68/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2026-1066993462), de 5 de março, que visam dar resposta às exigências ecológicas dos valores com prioridade em termos de conservação (valores alvo), definidas em função da condição destes e dos condicionamentos e contextos de ordem legal, social, organizacional, económica e financeira.
+
+As medidas de conservação complementares estabelecidas para a gestão da ZEC e respetivo quadro operacional estão identificados no Quadro 5, com a definição dos indicadores de realização, as respetivas metas, as entidades envolvidas na execução e a calendarização.
+
+A informação relevante para a execução das medidas de conservação complementares é apresentada de forma detalhada nas «Fichas das Medidas de Conservação Complementares».
+
+Quadro 5 - Quadro operacional de medidas de conservação complementares
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293961.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293962.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293963.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293964.png) |
+| --- |
+
+Medidas de conservação regulamentares
+
+O plano de gestão aplica-se complementarmente a um conjunto de medidas de natureza regulamentar e preventiva, identificadas e operacionalizadas no [Decreto-Lei n.º 68/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2026-1066993462), de 5 de março.
+
+Vigência do plano de gestão
+
+O plano de gestão terá uma vigência de dez anos.
+
+Acompanhamento
+
+A execução do plano de gestão é objeto de acompanhamento continuado ao longo do seu período de vigência.
+
+O acompanhamento é coordenado pelo ICNF com a participação das autoridades corresponsáveis em razão da matéria, das administrações central e local, das entidades representativas dos agentes e operadores dos setores económico, social, da sociedade civil e dos proprietários, relevantes para a prossecução dos objetivos do plano.
+
+Será efetuada uma avaliação intercalar ao quinto ano de vigência do plano, a qual incluirá o ponto de situação intermédio da execução das medidas, um balanço das medidas concluídas, das medidas em curso e das medidas não iniciadas. Da análise da realização intermédia atingida face às metas estabelecidas para a medida, a entidade responsável pelo acompanhamento do plano de gestão deverá decidir sobre as alterações necessárias no plano de gestão, num quadro de articulação institucional, a propor às respetivas tutelas. Caso seja necessário, deverá ser elaborada uma versão revista das fichas das medidas de conservação.
+
+No final do seu período de vigência, a eficácia do plano de gestão deve ser avaliada num exercício de análise cruzada entre o grau de execução das medidas de conservação e a evolução da condição dos valores alvo. Para esta avaliação relacionam-se os resultados finais da execução das medidas (através dos indicadores de realização) e do cumprimento dos objetivos de conservação (através dos indicadores de resultado). O relatório desta avaliação final deverá também incluir a análise da evolução dos fatores externos com eventual impacto na gestão da ZEC (por exemplo, das pressões e atividades mais relevantes, das condicionantes legais e dos instrumentos de financiamento das medidas de conservação), a descrição da análise efetuada no período em causa para a evolução dos indicadores de realização, a descrição das alterações intercalares efetuadas e respetiva fundamentação, e as propostas de alteração do plano de gestão.
+
+A aferição dos indicadores de resultado decorrerá dos procedimentos correntes de monitorização da Rede Natura 2000 a que o Estado português está obrigado no âmbito da implementação da Diretiva Habitats.
+
+O Quadro 6 estabelece a correspondência entre as medidas de conservação complementares e os objetivos de conservação para os quais concorrem, cuja avaliação final permite decidir sobre a necessidade de manutenção/exclusão/alteração da medida no ciclo de programação seguinte. No referido quadro são assinalados (a cinza) os campos a preencher em sede de avaliação final após a aprovação do plano de gestão.
+
+Quadro 6 - Modelo de matriz de avaliação final após a aprovação do plano de gestão
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293965.png) |
+| --- |
+
+Fichas de medidas de conservação COMPLEMENTARES
+
+Fontes de Financiamento - Glossário:
+
+PEPAC - Plano Estratégico da Política Agrícola Comum para Portugal 2023-2027
+
+Centro 2030 - Programa Regional do Centro (FEDER)
+
+LIFE - Instrumento de financiamento da União Europeia para o ambiente e a ação climática
+
+I&D - Investigação e Desenvolvimento
+
+OE - Orçamento de Estado
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293966.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293967.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293968.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293969.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293970.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293971.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293972.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293973.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075293974.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464075.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464076.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464077.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464078.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464079.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464080.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464081.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464082.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464083.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464084.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464085.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464086.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464087.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464088.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464089.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464090.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464091.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464092.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464093.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464094.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464095.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464096.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464097.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1075293596/1075464098.png) |
+| --- |
+
+119948067

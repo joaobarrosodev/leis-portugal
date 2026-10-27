@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:627620:por
+title: Portaria n.º 19875
+short_title: null
+summary: Determina que, a título excepcional e específico para o II Concurso Internacional de Pesca Desportiva de Tomar e
+  apenas durante a realização das provas de competição, nos dias 20 e 21 de Julho próximo, no local reservado e delimitado
+  para o efeito, sejam autorizados os competidores inscritos a capturar espécies do género Barbus, vulgarmente designados
+  por «barbos», com dimensões mínimas de 15 cm de comprimento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Direcção-Geral dos Serviços Florestais e Aquícolas
+proposing_entity: null
+official_number: '19875'
+official_date: null
+publication_date: '1963-05-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 126/1963, Série I de 1963-05-28
+  number: '126'
+  series: I
+  supplement: null
+  pages: 652 - 652
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/05/12600/06520652.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '627620'
+  dre_path: /dr/detalhe/portaria/19875-1963-627620
+  internal: pt:dre:627620:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19875-1963-627620
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19875-1963-627620
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:29:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 13a95827fe8e4d452a5414e84ee9304f9064ed3422ecc840290d4a32852a373f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:29:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Desporto
+- Pesca Desportiva
+- Pesca Fluvial
+- Tomar
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:29:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19875
+
+Considerando que o Decreto-Lei n.º 44623, que regulamenta a lei da pesca nas águas interiores, apenas prevê a existência da pesca desportiva e da pesca profissional;
+
+Considerando que a pesca desportiva pode assumir o aspecto de pesca de competição, o que lhe infunde características especiais;
+
+Considerando ainda a importância extraordinária para o fomento do turismo no País quando a pesca de competição é de carácter internacional;
+
+Dada a omissão sobre o assunto, no Regulamento da Lei da Pesca das Águas Interiores, e atenta a oportunidade que o II Concurso Internacional de Pesca Desportiva de Tomar oferece para se estabelecerem princípios sobre a pesca de competição internacional, quer pela colheita de elementos, quer pela comparação de resultados, e, bem assim, sobre a medição das espécies piscícolas a capturar e dos seus comprimentos mínimos;
+
+Usando da faculdade conferida pelo artigo 84.º do Decreto-Lei n.º 44623:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura:
+
+1.º A título excepcional e específico para o II Concurso Internacional de Pesca Desportiva de Tomar e apenas durante a realização das provas de competição, nos dias 20 e 21 de Julho próximo, no local reservado e delimitado para o efeito, ficam os competidores inscritos autorizados a capturar espécies do género Barbus, vulgarmente designados por «barbos», com dimensões mínimas de 15 cm de comprimento.
+
+2.º As medições das espécies capturadas neste concurso poderão também, a título excepcional, ser efectuadas da ponta do focinho a extremidade mais afastada da barbatana caudal.
+
+Secretaria de Estado da Agricultura, 28 de Maio de 1963. - O Secretário de Estado da Agricultura, Luís Le Cocq de Albuquerque de Azevedo Coutinho.

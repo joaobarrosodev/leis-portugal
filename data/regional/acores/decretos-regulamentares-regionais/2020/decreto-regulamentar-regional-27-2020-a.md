@@ -1,0 +1,353 @@
+---
+schema_version: '1.0'
+id: pt:dre:149948203:por
+title: Decreto Regulamentar Regional n.º 27/2020/A
+short_title: null
+summary: Estabelece os limites e as condições para a viabilização das utilizações não agrícolas referidas no Regime Jurídico
+  da Reserva Agrícola Regional
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 27/2020/A
+official_date: null
+publication_date: '2020-12-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 234/2020, Série I de 2020-12-02
+  number: '234'
+  series: I
+  supplement: null
+  pages: 2 - 6
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23400/0000200006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-10-28'
+version_history:
+  file: decreto-regulamentar-regional-27-2020-a.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-10-28'
+    amending: pt:dre:173452294:por
+    amending_title: Decreto Regulamentar Regional n.º 26/2021/A
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/27/2020/a/cons/20211027/pt/html
+  oj: null
+  dre: '149948203'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/27-2020-149948203
+  internal: pt:dre:149948203:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2020-149948203
+  metadata_url: https://data.dre.pt/eli/decregulreg/27/2020/a/cons/20211027/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2020-173448164
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2020-173448164
+  retrieved_at: '2026-10-22T12:46:18Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 54bb62cfbf908b1831ed4dc9160aa494685906df388a3a6d0ad8ffd5490ff9f8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:46:18Z'
+  notes: 2 versão(ões); histórico completo em decreto-regulamentar-regional-27-2020-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Armazenagem
+- Obras de Conservação e Restauro
+- Renovação Urbana
+- Regulamentação de Atos Legislativos
+- Rede de Estradas
+- Património Cultural
+- Aproveitamento Hidroagrícola
+- Indústria Agro-alimentar
+- Interesse Público
+- Investimento Público
+- Licenciamento
+- Exploração Agrícola
+- Urbanismo
+- Produção de Energia Elétrica
+- Agricultor
+- Protecção do Património
+- Produção Agrícola
+- Património Natural
+- Comunicações
+- Regime Jurídico
+- Habitação
+- Posto de Abastecimento de Combustíveis
+- Reserva Agrícola Regional
+- Investimento Privado
+- Açores
+- Infraestrutura Turística
+relationships:
+- type: amended_by
+  target: pt:dre:173452294:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2021-173452294
+  date: '2021-10-27'
+- type: cites
+  target: pt:dre:123770990:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/20/2019/08/07/a/dre
+- type: cites
+  target: pt:dre:179516:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/33/2012/07/16/a/dre
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/26/2010/08/12/a/dre
+- type: cites
+  target: pt:dre:454788:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/32/2008/07/28/a/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:46:18Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 27/2020/A
+
+Decreto Regulamentar Regional n.º 27/2020/A
+
+Sumário: Estabelece os limites e as condições para a viabilização das utilizações não agrícolas referidas no Regime Jurídico da Reserva Agrícola Regional.
+
+Estabelece os limites e as condições para a viabilização das utilizações não agrícolas referidas no Regime Jurídico da Reserva Agrícola Regional
+
+Nas áreas da Reserva Agrícola Regional (RAR) são excecionalmente permitidas utilizações não agrícolas dos respetivos solos, nos termos do artigo 5.º do Regime Jurídico da Reserva Agrícola Regional, aprovado pelo Decreto Legislativo Regional n.º 32/2008/A, de 28 de julho, e alterado e republicado pelos Decretos Legislativos Regionais n.os 33/2012/A, de 16 de julho, e 20/2019/A, de 7 de agosto.
+
+Para tanto, no n.º 6 do artigo 5.º do Regime Jurídico da Reserva Agrícola Regional, inserido pelo Decreto Legislativo Regional n.º 20/2019/A, de 7 de agosto, prevê-se que o Governo Regional promoverá a regulamentação necessária ao estabelecimento dos limites e das condições a observar para a viabilização destas utilizações.
+
+Em ordem a conferir execução plena ao Regime Jurídico da Reserva Agrícola Regional importa proceder à regulamentação anteriormente referida, articulando-a com os instrumentos de gestão territorial em vigor, nomeadamente com o Plano Regional de Ordenamento do Território dos Açores (PROTA), aprovado pelo Decreto Legislativo Regional n.º 26/2010/A, de 12 de agosto, o qual, no âmbito das normas gerais orientadoras do uso e gestão do território, vem estabelecer que a Região deve impor limites à desafetação de solos da RAR.
+
+Competindo à entidade gestora da RAR a verificação dos pressupostos necessários à compatibilização do regime de exceção com o princípio geral de que os solos da RAR devem ser exclusivamente afetos à agricultura, o presente diploma garante essa compatibilização da utilização não agrícola dos solos com a proteção do recurso natural ambiental solo, bem como contribui para o desenvolvimento sustentável da atividade agrícola e para o ordenamento do território e promove a competitividade dos territórios rurais, prevenindo, em última instância, situações que se revelem inaceitáveis para a perenidade dos solos mais férteis da Região.
+
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição, da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do n.º 6 do artigo 5.º do Decreto Legislativo Regional n.º 32/2008/A, de 28 de julho, na sua redação atual, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma estabelece os limites e as condições para a viabilização das utilizações não agrícolas referidas no n.º 1 do artigo 5.º do Regime Jurídico da Reserva Agrícola Regional (RAR), aprovado pelo Decreto Legislativo Regional n.º 32/2008/A, de 28 de julho, alterado e republicado pelos Decretos Legislativos Regionais n.os 33/2012/A, de 16 de julho, e 20/2019/A, de 7 de agosto.
+
+###### Artigo 2.º — Início do procedimento
+
+O pedido de viabilização de qualquer utilização não agrícola de áreas integradas na RAR é formalizado através de requerimento dirigido ao presidente da entidade gestora da RAR, instruído com os documentos exigidos no artigo 7.º do Regime Jurídico da Reserva Agrícola Regional e os documentos específicos previstos no presente diploma.
+
+###### Artigo 3.º — Obras com finalidade exclusivamente agrícola
+
+1 - Para efeitos da exceção prevista na alínea a) do n.º 1 do artigo 5.º do regime jurídico da RAR, pode ser concedido despacho de confirmação da pretensão desde que sejam observadas as condições seguintes:
+
+a) No que concerne às obras hidráulicas estas consistam em:
+
+i) Estruturas e infraestruturas de rega e órgãos associados, de apoio à exploração agrícola, instalação de reservatórios, estações de filtragem, condutas, canais, incluindo levadas, e pequenas construções para motores de rega e para instalações de captação de água, desde que sejam justificadas pelo requerente, por razões de necessidade decorrentes da atividade agrícola desenvolvida;
+
+ii) Charcas para fins agrícolas, florestais e pecuárias, desde que justificadas pelo requerente, por razões de necessidade decorrentes da atividade agrícola desenvolvida;
+
+b) No que concerne às vias de acesso, como seja a abertura de caminhos dentro das explorações agrícolas, estas possuam as seguintes caraterísticas:
+
+i) A largura máxima da plataforma, incluindo bermas e drenagem, seja de 5 m; e
+
+ii) O traçado seja adaptado à topografia do terreno;
+
+c) No que concerne aos aterros e escavações, por razões de necessidade decorrentes da atividade agrícola ou florestal desenvolvida, seja garantido que:
+
+i) A drenagem natural do terreno não é prejudicada; e
+
+ii) Não há perigo de encharcamento ou de erosão dos solos, devendo ser previstas ações de mitigação de eventuais impactos negativos;
+
+d) No que concerne às edificações destinadas à guarda de animais e equipamentos, afetos à exploração agrícola, nomeadamente armazéns para alfaias, máquinas agrícolas e produtos agrícolas, silos, parques de alimentação e salas de ordenha, a área total de implantação de edificações, não exceda 1 % da área da exploração agrícola com o máximo de 200 m2;
+
+e) No que concerne às edificações destinadas ao armazenamento, transformação ou comercialização dos produtos agrícolas locais, afetos à exploração agrícola, nomeadamente estufas não amovíveis, instalações de proteção ambiental e unidades de transformação, tais como adegas, queijarias, produção de conservas, a área total de implantação de edificações não exceda 1 % da área da exploração agrícola com o máximo de 200 m2.
+
+2 - Para verificação das condições previstas no número anterior o requerimento deve ser instruído com o projeto de arquitetura das obras a realizar.
+
+3 - Sem prejuízo do disposto nas alíneas d) e e) do número anterior, a área total de implantação de edificações pode exceder aqueles limites, desde que devidamente justificado com base em elementos técnicos e económicos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 26/2021/A - Diário da República n.º 209/2021, Série I de 2021-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2021-173452294), em vigor a partir de 2021-10-28
+
+###### Artigo 4.º — Construção de habitação para agricultores instalados
+
+Para efeitos da exceção prevista na alínea b) do n.º 1 do artigo 5.º do regime jurídico da RAR, pode ser concedido despacho de confirmação da pretensão, desde que observadas, cumulativamente, as condições seguintes:
+
+a) Seja demonstrada a titularidade da exploração agrícola, designadamente através da inscrição no sistema de identificação parcelar;
+
+b) Seja demonstrado, mediante declaração, emitida pela direção regional competente em matéria de agricultura, que a exploração agrícola está em atividade;
+
+c) Seja apresentado o projeto de arquitetura da habitação;
+
+d) A área total de implantação da habitação não exceda os 300 m2, com o número máximo de dois pisos.
+
+###### Artigo 5.º — Obras de reconstrução e ampliação de construções já existentes
+
+Para efeitos da exceção prevista na alínea c) do n.º 1 do artigo 5.º do regime jurídico da RAR, pode ser concedido despacho de confirmação da pretensão, desde que observadas, cumulativamente, as condições seguintes:
+
+a) Seja apresentada a caderneta predial e a certidão permanente do registo predial do bem imóvel a reconstruir ou a ampliar;
+
+b) Seja apresentada cópia da licença de utilização do bem imóvel a reconstruir ou a ampliar para fins habitacionais, ou declaração camarária de que aquele se encontra isento da mesma;
+
+c) No caso de se tratar de uma obra de ampliação, a presente exceção não tenha sido anteriormente utilizada pelo requerente;
+
+d) Seja apresentado o projeto de arquitetura de reconstrução e ampliação das obras a realizar;
+
+e) Tratando-se de ampliação, a área total de implantação não exceda os 300 m2.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 26/2021/A - Diário da República n.º 209/2021, Série I de 2021-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2021-173452294), em vigor a partir de 2021-10-28
+
+###### Artigo 6.º — Obras indispensáveis a instalações agroturísticas
+
+1 - Para efeitos da exceção prevista na alínea d) do n.º 1 do artigo 5.º do regime jurídico da RAR, pode ser concedido despacho de confirmação da pretensão, desde que observadas, cumulativamente, as condições seguintes:
+
+a) Seja demonstrada a titularidade da exploração agrícola, designadamente através da inscrição no sistema de identificação parcelar;
+
+b) Seja demonstrado, mediante declaração, emitida pela direção regional competente em matéria de agricultura, que a exploração agrícola está em atividade;
+
+c) Seja justificada a complementaridade das obras para instalações agroturísticas com a atividade agrícola;
+
+d) As instalações agroturísticas sejam declaradas de interesse para o turismo pelo departamento do Governo Regional com competência na matéria;
+
+e) As instalações agroturísticas a construir estejam adaptadas às condições topográficas do terreno, para tanto não devendo implicar volumes significativos de movimentação de terras, nem alterar a vocação produtiva das parcelas intervencionadas;
+
+f) Seja apresentado o projeto de arquitetura das obras a realizar.
+
+2 - A exceção prevista na alínea d) do n.º 1 do artigo 5.º do regime jurídico da RAR abrange:
+
+a) A construção, ampliação e reconstrução de empreendimentos de turismo no espaço rural e de turismo de habitação, bem como empreendimentos reconhecidos como turismo de natureza, complementares à atividade agrícola;
+
+b) A construção de instalações de recreio e lazer complementares à atividade agrícola, tais como picadeiros, redondéis em madeira, estruturas em madeira para apoio a jardins ou parques botânicos, quintas e hortas pedagógicas.
+
+3 - Tratando-se de ampliação, a área total de implantação não exceda os 500 m2.
+
+4 - Sem prejuízo do disposto no número anterior, a área total de implantação das edificações pode exceder aqueles limites, desde que devidamente justificado com base em elementos técnicos e económicos, não podendo nunca exceder 110 % da área de implantação preexistente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 26/2021/A - Diário da República n.º 209/2021, Série I de 2021-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2021-173452294), em vigor a partir de 2021-10-28
+
+###### Artigo 7.º — Instalação de equipamentos para produção de energia
+
+1 - Para efeitos da exceção prevista na alínea e) do n.º 1 do artigo 5.º do regime jurídico da RAR, pode ser concedido despacho de confirmação da pretensão desde que observadas, cumulativamente, as condições seguintes:
+
+a) Seja apresentado estudo de entidade tecnicamente habilitada a desenvolver trabalhos de consultoria, idónea e independente, demonstrativo da inexistência de alternativa de localização económica e tecnicamente viável;
+
+b) Os equipamentos a instalar estejam adaptados à topografia do terreno, não podendo ser efetuadas operações de aterro, escavação, ou quaisquer outras que impliquem alterações nessa topografia;
+
+c) Seja respeitada a drenagem natural dos terrenos e garantida a minimização da contaminação dos solos e da sua degradação;
+
+d) Sejam definidas, em projeto específico para o efeito, medidas de recuperação e ou reposição dos solos, a executar durante as fases de construção, exploração e desativação.
+
+2 - Para efeitos do disposto na alínea a) do n.º 1 do presente artigo, considera-se que não existe alternativa de localização:
+
+a) Economicamente viável, quando o promotor comprove através de um estudo económico que a localização do empreendimento, em relação ao afastamento ao ponto de ligação na rede pública de energia elétrica, garante a viabilidade económica do investimento;
+
+b) Tecnicamente viável, quando o promotor comprove que não dispõe de terrenos em áreas não integradas na RAR e com dimensão adequada para o investimento em causa.
+
+###### Artigo 8.º — Obras decorrentes de exigências legais supervenientes
+
+Para efeitos da exceção prevista na alínea f) do n.º 1 do artigo 5.º do regime jurídico da RAR, pode ser concedido despacho de autorização da pretensão desde que observadas, cumulativamente, as condições seguintes:
+
+a) Seja demonstrado que a atividade económica exercida está devidamente licenciada;
+
+b) A superveniência de exigências legais, necessárias à regularização da atividade económica exercida, seja confirmada pela entidade responsável pelo licenciamento dessa atividade;
+
+c) O projeto das obras a executar contemple, sempre que possível, medidas de minimização da ocupação da área da RAR e das operações de aterro e escavação;
+
+d) Seja apresentado o projeto de arquitetura das obras a realizar.
+
+###### Artigo 9.º — Vias de comunicação, seus acessos e outros empreendimentos e construções de relevante interesse público
+
+Para efeitos da exceção prevista na alínea g) do n.º 1 do artigo 5.º do regime jurídico da RAR, pode ser concedido despacho de autorização da pretensão desde que seja apresentado estudo demonstrativo da inexistência de alternativa técnica ou economicamente aceitável para o traçado e localização, bem como um estudo prévio da obra a realizar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 26/2021/A - Diário da República n.º 209/2021, Série I de 2021-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2021-173452294), em vigor a partir de 2021-10-28
+
+###### Artigo 10.º — Obras indispensáveis para a defesa do património cultural e ambiental
+
+Para efeitos da exceção prevista na alínea h) do n.º 1 do artigo 5.º do regime jurídico da RAR, pode ser concedido despacho de autorização da pretensão desde que observadas, cumulativamente, as condições seguintes:
+
+a) (Revogado.)
+
+b) As obras sejam imprescindíveis para proteger valores culturais e ambientais;
+
+c) As obras sejam determinadas pelas entidades competentes na matéria ou possuam parecer favorável dessas entidades;
+
+d) Seja apresentado estudo demonstrativo da necessidade das obras a realizar e que identifique os valores a proteger;
+
+e) Seja apresentado o projeto de arquitetura das obras a realizar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 26/2021/A - Diário da República n.º 209/2021, Série I de 2021-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2021-173452294), em vigor a partir de 2021-10-28
+
+###### Artigo 11.º — Obras indispensáveis para a instalação de telecomunicações e postos de abastecimento de combustíveis
+
+1 - Para efeitos da exceção prevista na alínea i) do n.º 1 do artigo 5.º do regime jurídico da RAR, pode ser concedido despacho de autorização da pretensão desde que observadas, cumulativamente, as condições seguintes:
+
+a) (Revogado.)
+
+b) Se tratem de obras de construção, requalificação ou beneficiação de infraestruturas de telecomunicações, nomeadamente antenas de rádio, teledifusão e estações de telecomunicações e redes subterrâneas de telecomunicações, e de postos de abastecimento de combustíveis;
+
+c) Seja apresentado estudo de entidade tecnicamente habilitada a desenvolver trabalhos de consultoria, idónea e independente, demonstrativo da inexistência de alternativa técnica ou economicamente aceitável;
+
+d) Seja apresentado o projeto de arquitetura das obras a realizar;
+
+e) O projeto da obra contemple, obrigatoriamente, medidas de minimização quanto à ocupação da área da RAR.
+
+2 - Para efeitos do disposto na alínea c) do n.º 1 do presente artigo, considera-se que não existe alternativa:
+
+a) Tecnicamente aceitável, quando o promotor comprove que não dispõe de terrenos em áreas não integradas na RAR e com dimensão adequada para a obra proposta;
+
+b) Economicamente aceitável, quando o promotor comprove através de um estudo económico, baseado em estudo de tráfego automóvel, que a localização do posto de abastecimento de combustíveis é a que garante a viabilidade económica do investimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 26/2021/A - Diário da República n.º 209/2021, Série I de 2021-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2021-173452294), em vigor a partir de 2021-10-28
+
+###### Artigo 12.º — Produção de efeitos
+
+O presente diploma produz efeitos no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 4 de agosto de 2020.
+
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
+
+Assinado em Angra do Heroísmo em 20 de novembro de 2020.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+113754954

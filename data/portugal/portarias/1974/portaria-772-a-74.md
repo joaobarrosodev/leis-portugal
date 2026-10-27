@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:415642:por
+title: Portaria n.º 772-A/74
+short_title: null
+summary: Antecipa para 1 de Dezembro do corrente ano, em relação aos vinhos verdes em determinadas áreas, a data a que se
+  refere o n.º 1.º da Portaria n.º 722/74, de 9 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretarias de Estado da Agricultura e do Abastecimento e Preços
+proposing_entity: null
+official_number: 772-A/74
+official_date: null
+publication_date: '1974-11-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 279/1974, 1º Suplemento, Série I de 1974-11-30
+  number: '279'
+  series: I
+  supplement: null
+  pages: 1484-(2) a 1484-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27901/00020002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '415642'
+  dre_path: /dr/detalhe/portaria/772-a-1974-415642
+  internal: pt:dre:415642:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/772-a-1974-415642
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/772-a-1974-415642
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:35:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d195e0eff2e5ee8e0d3e344771c7beb3a6ec4588022817d40fc9dc425d444978
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:35:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio a Retalho
+- Porto
+- Região Demarcada
+- Venda a Retalho
+- Vinho Verde
+relationships:
+- type: cites
+  target: pt:dre:558043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676460:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:35:25Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 772-A/74
+
+de 30 de Novembro
+
+Pela [Portaria n.º 722/74](https://diariodarepublica.pt/dr/detalhe/portaria/722-1974-558043), de 9 de Novembro, foi adiada para 1 de Janeiro de 1975 a data da campanha vinícola da colheita do corrente ano, prevendo-se desde logo que a mesma pudesse vir a ser antecipada se, das consultas que estavam a ser efectuadas, se concluísse pela conveniência de tal antecipação, o que, efectivamente, se verificou quanto aos vinhos verdes.
+
+Nestes termos:
+
+Manda o Governo Provisório da República Portuguesa, pelo Ministro da Economia, ao abrigo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 319/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1972-676460), de 18 de Agosto, que a data a que se refere o n.º 1.º da [Portaria n.º 722/74](https://diariodarepublica.pt/dr/detalhe/portaria/722-1974-558043), de 9 de Novembro, seja antecipada para 1 de Dezembro do corrente ano em relação aos vinhos verdes, mas apenas dentro das áreas da respectiva região demarcada, da cidade do Porto e dos concelhos limítrofes.
+
+Ministério da Economia, 30 de Novembro de 1974. - Pelo Ministro da Economia, Alfredo Gonzalez Esteves Belo, Secretário de Estado da Agricultura - Nelson Sérgio Melo da Rocha Trigo, Secretário de Estado do Abastecimento e Preços.

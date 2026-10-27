@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:351310:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2005-160585714",
+ "dre_path": "/dr/detalhe/portaria/590-a-2005-351310",
+ "source_lastmod": "2025-05-06",
+ "versions": [
+  {
+   "date": "2005-07-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160585622"
+   ]
+  },
+  {
+   "date": "2008-07-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456568:por",
+     "title": "Portaria n.º 621/2008",
+     "published": "2008-07-18",
+     "dre_path": "/dr/detalhe/portaria/621-2008-456568"
+    }
+   ],
+   "changes": [
+    "Adita 3.º-A"
+   ],
+   "fragments": [
+    "160585622",
+    "916934989",
+    "916934990",
+    "916934991",
+    "916934993",
+    "916934994",
+    "916934995"
+   ]
+  },
+  {
+   "date": "2015-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70686128:por",
+     "title": "Portaria n.º 358/2015",
+     "published": "2015-10-14",
+     "dre_path": "/dr/detalhe/portaria/358-2015-70686128"
+    }
+   ],
+   "changes": [
+    "Altera 3.º"
+   ],
+   "fragments": [
+    "160585622",
+    "916934989",
+    "916934990",
+    "916935023",
+    "916934993",
+    "916934994",
+    "916934995"
+   ]
+  }
+ ],
+ "fragments": {
+  "160585622": {
+   "fragment_id": "160585715",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 590-A/2005\n\nde 14 de Julho\n\nCom a aprovação do Decreto-Lei n.º 111/2005, de 8 de Julho, a partir de 1 de Janeiro de 2006, os actos relativos às sociedades comerciais sujeitos a publicação obrigatória vão passar a ser publicados em sítio da Internet de acesso público, em vez do Diário da República. O mesmo sucede, no caso das sociedades anónimas, com os avisos, anúncios e convocações dirigidos aos sócios ou a credores, quando a lei ou o contrato mandem publicá-los. Este regime é também aplicável às publicações, eventualmente necessárias, das sociedades anónimas europeias e aos actos de registo sujeitos a publicação obrigatória de outras pessoas colectivas, como, por exemplo, as cooperativas.\n\nPor seu turno, o n.º 2 do artigo 28.º do Decreto-Lei n.º 111/2005, de 8 de Julho, que criou a «empresa na hora», através de um regime especial de constituição imediata de sociedades, prevê que, em relação às sociedades constituídas ao abrigo deste regime, as publicações obrigatórias em sítio da Internet de acesso público se iniciem com a entrada em vigor daquele diploma.\n\nO artigo 26.º do Decreto-Lei n.º 111/2005, de 8 de Julho, estipula que, de forma a cumprir o disposto no n.º 2 do artigo 14.º, na alínea c) do n.º 1 do artigo 55.º e no artigo 70.º do Código do Registo Comercial e no artigo 167.º do Código das Sociedades Comerciais, a disponibilização da informação obrigatória deve ser realizada através de sítio na Internet de acesso público cujo funcionamento, respectivos termos e custos são definidos por portaria do Ministro da Justiça.\n\nAssim:\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do artigo 26.º do Decreto-Lei n.º 111/2005, de 8 de Julho, do n.º 1 do artigo 167.º do Código das Sociedades Comerciais e do n.º 2 do artigo 70.º do Código do Registo Comercial, o seguinte:"
+  },
+  "916934989": {
+   "fragment_id": "916934953",
+   "type": 11,
+   "heading": "1.º — Publicações e acessos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — Publicações e acessos\n\n1 - As publicações obrigatórias referidas no artigo 167.º do Código das Sociedades Comerciais e no n.º 2 do artigo 70.º do Código do Registo Comercial fazem-se através do sítio da Internet de acesso público com o endereço electrónico www.mj.gov.pt/publicacoes, mantido pela Direcção-Geral dos Registos e do Notariado.\n\n2 - A informação objecto de publicidade no sítio referido no número anterior deve poder ser acedida, designadamente, por ordem cronológica e por outros elementos identificativos, como a denominação, o número de identificação de pessoa colectiva ou o concelho da localização da sede da pessoa colectiva.\n\n3 - O acesso ao sítio referido no n.º 1 e à respectiva informação aí publicada é gratuito."
+  },
+  "916934990": {
+   "fragment_id": "916934954",
+   "type": 11,
+   "heading": "2.º — Procedimentos para publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º — Procedimentos para publicação\n\n1 - A publicação obrigatória dos actos sujeitos a registo é oficiosamente promovida pelas conservatórias do registo comercial, nos termos do disposto no artigo 71.º do Código do Registo Comercial.\n\n2 - Os textos relativos aos restantes actos societários sujeitos a publicação obrigatória podem ser entregues junto de qualquer conservatória ou remetidos por via postal aos serviços centrais da Direcção-Geral dos Registos e do Notariado, em endereço a identificar no sítio referido no n.º 1 do artigo anterior.\n\n3 - Os textos respeitantes aos actos societários referidos no número anterior podem ainda ser remetidos à Direcção-Geral dos Registos e do Notariado mediante transmissão electrónica de dados, de acordo com as instruções constantes do sítio da Internet identificado no n.º 1 do artigo anterior.\n\n4 - Os textos destinados a publicação dos actos societários referidos nos n.os 2 e 3 devem conter todas as indicações referidas no artigo 171.º do Código das Sociedades Comerciais, cabendo à Direcção-Geral dos Registos e do Notariado assegurar a sua publicação no prazo máximo de 15 dias contados a partir da respectiva recepção."
+  },
+  "916934991": {
+   "fragment_id": "916934955",
+   "type": 11,
+   "heading": "3.º — Taxa única",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º — Taxa única\n\n1 - Por cada publicação é cobrada uma taxa única de (euro) 30.\n\n2 - Quando, nos termos do n.º 2 do artigo anterior, os textos para publicação sejam entregues nas conservatórias, a taxa única referida no número anterior é de (euro) 35.\n\n3 - Quando, nos termos do n.º 3 do artigo anterior, os textos para publicação sejam disponibilizados por transmissão electrónica de dados à Direcção-Geral dos Registos e do Notariado, a taxa única referida no n.º 1 é de (euro) 27.\n\n4 - As taxas devidas pelas publicações previstas na presente portaria constituem receita da Direcção-Geral dos Registos e do Notariado."
+  },
+  "916934993": {
+   "fragment_id": "916934959",
+   "type": 11,
+   "heading": "3.º-A — Notificações electrónicas no processo de rectificação",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 10.º do/a [Portaria n.º 621/2008 - Diário da República n.º 138/2008, Série I de 2008-07-18](https://diariodarepublica.pt/dr/detalhe/portaria/621-2008-456568), em vigor a partir de 2008-07-21"
+   ],
+   "markdown": "###### 3.º-A — Notificações electrónicas no processo de rectificação\n\n1 - As notificações por via electrónica referidas no n.º 3 do artigo 90.º do Código do Registo Comercial são efectuadas mediante aviso publicado, nos termos do n.º 1 do artigo 167.º do Código das Sociedades Comerciais.\n\n2 - Do aviso referido no número anterior devem constar, nomeadamente, os seguintes elementos:\n\na) A identificação dos requerentes ou a menção da circunstancia de o processo ter sido oficiosamente instaurado;\n\nb) A identificação dos notificandos, com os elementos disponíveis;\n\nc) A indicação do serviço de registo onde corre o processo;\n\nd) A identificação do processo;\n\ne) A identificação da entidade comercial, com indicação do número de identificação de pessoa colectiva;\n\nf) O fundamento da rectificação, com referência à inexactidão verificada ou cometida e indicação da forma como a mesma vai ser rectificada;\n\ng) A data da publicação;\n\nh) O prazo para a dedução de oposição, indicando-se a partir de que momento este prazo começa a contar.\n\n3 - A publicação do aviso nos termos do n.º 1 é gratuita.\n\n> Aditado pelo/a Artigo 10.º do/a [Portaria n.º 621/2008 - Diário da República n.º 138/2008, Série I de 2008-07-18](https://diariodarepublica.pt/dr/detalhe/portaria/621-2008-456568), em vigor a partir de 2008-07-21"
+  },
+  "916934994": {
+   "fragment_id": "916934956",
+   "type": 11,
+   "heading": "4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º — Entrada em vigor\n\n1 - A presente portaria entra em vigor no dia 1 de Janeiro de 2006.\n\n2 - No que respeita às sociedades constituídas ao abrigo do regime especial de constituição imediata de sociedades previsto no Decreto-Lei n.º 111/2005, de 8 de Julho, a presente portaria entra em vigor no dia 13 de Julho de 2005, excepto quanto ao disposto no n.º 3 do artigo 2.º, que entra em vigor no dia 1 de Janeiro de 2006."
+  },
+  "916934995": {
+   "fragment_id": "160585716",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 12 de Julho de 2005."
+  },
+  "916935023": {
+   "fragment_id": "916934955",
+   "type": 11,
+   "heading": "3.º — Taxa única",
+   "in_force_from": "2015-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/358-2015-70686128), em vigor a partir de 2015-11-01"
+   ],
+   "markdown": "###### 3.º — Taxa única\n\n1 - Por cada publicação é cobrada uma taxa única de (euro) 30.\n\n2 - Quando, nos termos do n.º 2 do artigo anterior, os textos para publicação sejam entregues nas conservatórias, a taxa única referida no número anterior é de (euro) 35.\n\n3 - Quando, nos termos do n.º 3 do artigo anterior, os textos para publicação sejam disponibilizados por transmissão electrónica de dados à Direcção-Geral dos Registos e do Notariado, a taxa única referida no n.º 1 é de (euro) 27.\n\n4 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/358-2015-70686128), em vigor a partir de 2015-11-01"
+  }
+ }
+}

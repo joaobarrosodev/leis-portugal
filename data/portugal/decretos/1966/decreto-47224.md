@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:480142:por
+title: Decreto n.º 47224
+short_title: null
+summary: Dispensa da defesa de dissertação os candidatos a professor extraordinário das escolas universitárias aprovados em
+  doutoramento ou em concurso para professor universitário que tenha incluído aquela prova
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação Nacional - Direcção-Geral do Ensino Superior e das Belas-Artes
+proposing_entity: null
+official_number: '47224'
+official_date: null
+publication_date: '1966-09-29'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 227/1966, Série I de 1966-09-29
+  number: '227'
+  series: I
+  supplement: null
+  pages: 1545 - 1546
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/09/22700/15451546.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '480142'
+  dre_path: /dr/detalhe/decreto/47224-1966-480142
+  internal: pt:dre:480142:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/47224-1966-480142
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47224-1966-480142
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:52:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 69ac7b9afae6b6827fdbe8191c5796f366c17c98ff76974affaf5af9a6c715ec
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:52:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 47224
+
+Considerando que as circunstâncias aconselham a estender a todas as escolas universitárias a disposição, em vigor para algumas delas, que dispensa em certos casos a prova da defesa da dissertação no concurso para professor extraordinário;
+
+Considerando que nesse sentido vêm insistentemente representando as autoridades académicas;
+
+Considerando que a 1.ª Secção (Ensino Superior) da Junta Nacional da Educação emitiu parecer favorável à adopção da providência referida;
+
+Considerando que o mesmo órgão sugeriu se incluísse no concurso em causa a prova da apreciação e discussão dos trabalhos científicos do candidato;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São dispensados da defesa da dissertação os candidatos a professor extraordinário das escolas universitárias aprovados em doutoramento ou em concurso para professor universitário que tenha incluído aquela prova.
+
+§ 1.º A dissertação já defendida deve versar sobre matéria compreendida no grupo ou subgrupo a que respeita o concurso.
+
+§ 2.º Os candidatos devem apresentar, com a restante documentação exigida para o concurso, pelo menos dez exemplares da dissertação a que se refere o parágrafo anterior.
+
+Art. 2.º O concurso para professor extraordinário incluirá sempre a apreciação e discussão dos trabalhos científicos do candidato por dois membros do júri, durante o tempo máximo de uma hora.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 29 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

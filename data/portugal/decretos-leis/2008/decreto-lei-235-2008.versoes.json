@@ -1,0 +1,973 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:440779:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-67115259",
+ "dre_path": "/dr/detalhe/decreto-lei/235-2008-440779",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-12-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67115169",
+    "67115170",
+    "67115171",
+    "67115172",
+    "67115173",
+    "67115174",
+    "67115875",
+    "67115876",
+    "67115877",
+    "67115878",
+    "67115879",
+    "67115880",
+    "67115881",
+    "67115882",
+    "67115883",
+    "67115884",
+    "67115885",
+    "67115886",
+    "67115887",
+    "67115888",
+    "67115889",
+    "67115890",
+    "67115891",
+    "67115892",
+    "67115893",
+    "67115894",
+    "67115895",
+    "67115896",
+    "67115897",
+    "67115898",
+    "67115899",
+    "67115900",
+    "67115901",
+    "67115902",
+    "67115903",
+    "67115904",
+    "67115905",
+    "67115906",
+    "67115907",
+    "67115908",
+    "67115909",
+    "67115910",
+    "67115911",
+    "67115912",
+    "67115913",
+    "67115914",
+    "67115915",
+    "67115916",
+    "67115917",
+    "67115918",
+    "67115919",
+    "67115920",
+    "67115921",
+    "67115922",
+    "67115923",
+    "67115924",
+    "67115925",
+    "67115926",
+    "67115927",
+    "67115928",
+    "67115929",
+    "67115930",
+    "67115931",
+    "67115932",
+    "67115933",
+    "67115934",
+    "67115935",
+    "67115936",
+    "67115937",
+    "67115938"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146221:por",
+     "title": "Decreto-Lei n.º 114/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2011-146221"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 30.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 35.º"
+   ],
+   "fragments": [
+    "67115169",
+    "67115170",
+    "67115171",
+    "67115172",
+    "67115173",
+    "67115174",
+    "67115875",
+    "67115876",
+    "67115877",
+    "67115878",
+    "67115879",
+    "67115880",
+    "67115881",
+    "67115882",
+    "67115883",
+    "67115884",
+    "67115885",
+    "67115886",
+    "67115887",
+    "67115888",
+    "67115889",
+    "67115890",
+    "67115891",
+    "67115892",
+    "67115893",
+    "67115894",
+    "67115895",
+    "67115896",
+    "67115897",
+    "67115898",
+    "67115899",
+    "67115900",
+    "67115901",
+    "67115902",
+    "67115903",
+    "67115904",
+    "67115905",
+    "67115906",
+    "67115907",
+    "67115908",
+    "67115909",
+    "67115910",
+    "67115911",
+    "67115912",
+    "67115913",
+    "67115914",
+    "67115915",
+    "67115916",
+    "67115917",
+    "67115918",
+    "67115939",
+    "67115920",
+    "67115921",
+    "67115940",
+    "67115923",
+    "67115941",
+    "67115925",
+    "67115926",
+    "67115927",
+    "67115928",
+    "67115929",
+    "67115930",
+    "67115931",
+    "67115932",
+    "67115933",
+    "67115934",
+    "67115935",
+    "67115936",
+    "67115937",
+    "67115938"
+   ]
+  },
+  {
+   "date": "2015-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67098360:por",
+     "title": "Decreto-Lei n.º 67/2015",
+     "published": "2015-04-29",
+     "dre_path": "/dr/detalhe/decreto-lei/67-2015-67098360"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "67115169",
+    "67115170",
+    "67115171",
+    "67115172",
+    "67115173",
+    "67115174",
+    "67115875",
+    "67115876",
+    "67115877",
+    "67115878",
+    "67115879",
+    "67115880",
+    "67115881",
+    "67115882",
+    "67115883",
+    "67115884",
+    "67115885",
+    "67115886",
+    "67115887",
+    "67115888",
+    "67115889",
+    "67115890",
+    "67115891",
+    "67115892",
+    "67115893",
+    "67115894",
+    "67115895",
+    "67115896",
+    "67115897",
+    "67115898",
+    "67115899",
+    "67115900",
+    "67115901",
+    "67115902",
+    "67115903",
+    "67115904",
+    "67115905",
+    "67115906",
+    "67115907",
+    "67115908",
+    "67115909",
+    "67115910",
+    "67115911",
+    "67115912",
+    "67115913",
+    "67115914",
+    "67115915",
+    "67194379",
+    "67115917",
+    "67115918",
+    "67115939",
+    "67194380",
+    "67115921",
+    "67115940",
+    "67115923",
+    "67115941",
+    "67115925",
+    "67115926",
+    "67115927",
+    "67115928",
+    "67115929",
+    "67115930",
+    "67115931",
+    "67115932",
+    "67115933",
+    "67115934",
+    "67115935",
+    "67115936",
+    "67115937",
+    "67115938"
+   ]
+  },
+  {
+   "date": "2018-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116108099:por",
+     "title": "Lei n.º 53/2018",
+     "published": "2018-08-20",
+     "dre_path": "/dr/detalhe/lei/53-2018-116108099"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "67115169",
+    "67115170",
+    "67115171",
+    "67115172",
+    "67115173",
+    "67115174",
+    "67115875",
+    "67115876",
+    "67115877",
+    "67115878",
+    "67115879",
+    "67115880",
+    "67115881",
+    "67115882",
+    "67115883",
+    "67115884",
+    "67115885",
+    "67115886",
+    "67115887",
+    "67115888",
+    "116125929",
+    "67115890",
+    "67115891",
+    "67115892",
+    "67115893",
+    "67115894",
+    "67115895",
+    "67115896",
+    "67115897",
+    "67115898",
+    "67115899",
+    "67115900",
+    "67115901",
+    "67115902",
+    "67115903",
+    "67115904",
+    "67115905",
+    "67115906",
+    "67115907",
+    "67115908",
+    "67115909",
+    "67115910",
+    "67115911",
+    "67115912",
+    "67115913",
+    "67115914",
+    "67115915",
+    "67194379",
+    "67115917",
+    "67115918",
+    "67115939",
+    "67194380",
+    "67115921",
+    "67115940",
+    "67115923",
+    "67115941",
+    "67115925",
+    "67115926",
+    "67115927",
+    "67115928",
+    "67115929",
+    "67115930",
+    "67115931",
+    "67115932",
+    "67115933",
+    "67115934",
+    "67115935",
+    "67115936",
+    "67115937",
+    "67115938"
+   ]
+  }
+ ],
+ "fragments": {
+  "67115169": {
+   "fragment_id": "67115260",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 235/2008\n\nde 3 de Dezembro\n\nA Santa Casa da Misericórdia de Lisboa tem conseguido proporcionar as melhores e mais eficazes respostas no apoio aos mais carenciados, objectivo nuclear da sua actividade e, de uma forma mais ampla, a promoção da melhoria do bem-estar da população.\n\nAo longo dos seus mais de cinco séculos de existência tem sido evidente a preocupação de manter a Santa Casa da Misericórdia de Lisboa na vanguarda do combate à pobreza e à exclusão social, não só através da sua particular propensão para o efeito, mas também pela dinâmica que sempre foi imprimida às suas acções inovatórias e de elevada qualidade, comummente reconhecidas pelas pessoas apoiadas e pela própria comunidade.\n\nAs dinâmicas sociais impõem hoje respostas diversificadas e mais abrangentes aos problemas em permanente mutação.\n\nCom efeito, ao invés das respostas tradicionais, exige-se hoje intervenções que promovam a autonomia e a plena integração das pessoas através da eliminação dos factores que impossibilitem o indivíduo de gerir a sua pessoa e de exercer plenamente os seus direitos.\n\nMais vastas, as modernas intervenções sociais arredam de vez as tradicionais, que respondiam aos problemas de forma casuística e terapêutica, pelo que se torna necessário, mesmo imperativo, a criação de uma nova geração de organizações de apoio social.\n\nVisando a realização dos direitos de cidadania à luz da Declaração Universal dos Direitos do Homem e, em contexto de mudança, é imprescindível que as organizações e, em particular, a Santa Casa da Misericórdia de Lisboa, sejam mais eficazes nos fins a alcançar, gerindo de forma parcimoniosa os meios colocados à sua disposição, mas também que as intervenções sociais sejam mais dinâmicas e criativas em permanente adequação às necessidades sociais.\n\nNeste contexto impõe-se, mais uma vez, a necessidade de proceder à modernização dos processos de funcionamento e das metodologias de intervenção de forma a acompanhar as novas realidades sociais e combater os efeitos nefastos que delas advenham, mantendo-se assim na vanguarda das intervenções sociais.\n\nAs modificações ora adoptadas visam eliminar os aspectos constrangedores da capacidade de intervenção e que podemos distribuir por três eixos.\n\nO primeiro refere-se às modificações substantivas. Desde logo, e dando corpo às modernas concepções de intervenção que identificam a pessoa como um todo, promove-se a unidade das técnicas de acção social com as de saúde primária, no sentido de proporcionar uma resposta integrada, mais eficaz na erradicação das fragilidades básicas e mais consentânea com as necessidades individuais e mesmo colectivas.\n\nNo mesmo sentido, é criada uma área vocacionada para os aspectos da inovação e qualidade no âmbito das respostas sociais, que visa ser um pólo de estudo, observação, experimentação e divulgação de novas metodologias de intervenção e abordagem das problemáticas sociais, mas também de identificação e implementação de critérios de qualidade, apoio à sua adopção no funcionamento das estruturas e respectivo controlo através dos instrumentos adequados de gestão.\n\nDestaca-se, por fim, a criação de uma área vocacionada para o apoio ao empreendedorismo e à economia social, no comum objectivo de promover as actividades desenvolvidas pelas pessoas apoiadas ou das organizações que visam a integração das pessoas mais fragilizadas. Tudo isto na mais moderna concepção de que a inclusão passou a constituir o objectivo e o fim último das intervenções sociais.\n\nO segundo eixo de modificações versa sobre a estrutura orgânica necessária à prossecução dos seus fins.\n\nSendo que a divisão por departamentos tem demonstrado virtualidades enquanto unidades orgânicas eficientes na gestão global da Santa Casa da Misericórdia, concluiu-se ser este um bom modelo a implementar, com alguns aperfeiçoamentos, de uma forma mais alargada.\n\nAssim, as áreas operacionais - acção social e saúde, qualidade e inovação, empreendorismo e economia social, gestão imobiliária e património e jogos - são departamentos, sem direcções colegiais, apoiadas por serviços instrumentais necessários à realização efectiva das suas atribuições.\n\nNo terceiro eixo incluem-se as modificações às normas estatutárias cuja aplicação prática demonstrou carecerem de aperfeiçoamento, clarificação ou actualização, como sejam as normas referentes ao âmbito de actuação da Santa Casa da Misericórdia de Lisboa, que actualmente se estende já a todo o território nacional por via da exploração dos jogos sociais, e à actividade dos júris de concursos do departamento de jogos.\n\nPor fim, com a aprovação dos estatutos é dado mais um passo importante para que a Santa Casa da Misericórdia de Lisboa se mantenha na vanguarda das intervenções sociais que visam a melhoria do bem-estar das pessoas e, prioritariamente, dos mais desfavorecidos em prol de uma sociedade mais justa e mais humana.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 26.º, Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-b-2019-126869983) Determina-se com efeitos a 26.10.2019, que a tutela sobre a Santa Casa da Misericórdia de Lisboa, com estatutos aprovados pelo presente diploma, seja exercida pela Ministra do Trabalho, Solidariedade e Segurança Social pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03"
+  },
+  "67115170": {
+   "fragment_id": "67115261",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\nSão aprovados os estatutos da Santa Casa da Misericórdia de Lisboa, abreviadamente SCML, que se publicam em anexo ao presente decreto-lei e que dele fazem parte integrante."
+  },
+  "67115171": {
+   "fragment_id": "67115262",
+   "type": 11,
+   "heading": "Artigo 2.º — Quadro residual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Quadro residual\n\nO pessoal da SCML que tenha um vínculo definitivo à função pública mantém-se integrado em quadro residual fechado, cujos lugares são extintos à medida que vagarem, sendo-lhe aplicável o regime jurídico de vínculos, de carreiras, de remunerações e protecção social dos trabalhadores que exercem funções públicas."
+  },
+  "67115172": {
+   "fragment_id": "67115263",
+   "type": 11,
+   "heading": "Artigo 3.º — Cessação das comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cessação das comissões de serviço\n\n1 - Com a entrada em vigor dos presentes estatutos cessam as comissões de serviço de todos os titulares de cargos dirigentes ou equiparados que exerçam funções na SCML.\n\n2 - Os titulares dos cargos dirigentes ou equiparados mantêm-se em exercício de funções, em regime de gestão corrente, até à sua efectiva substituição.\n\n3 - O exercício de funções em regime de gestão corrente não pode exceder o prazo máximo de 90 dias."
+  },
+  "67115173": {
+   "fragment_id": "67115264",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 322/91, de 26 de Agosto;\n\nb) O Decreto-Lei n.º 469/99, de 6 de Novembro."
+  },
+  "67115174": {
+   "fragment_id": "67115265",
+   "type": 11,
+   "heading": "Artigo 5.º — Remissões para a legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Remissões para a legislação revogada\n\nTodas as remissões para os actos legislativos revogados nos termos do disposto no artigo anterior consideram-se feitas para as correspondentes disposições dos estatutos agora aprovados."
+  },
+  "67115875": {
+   "fragment_id": "67115266",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a sua publicação."
+  },
+  "67115876": {
+   "fragment_id": "67115267",
+   "type": 14,
+   "heading": "Anexo — Estatutos da Santa Casa da Misericórdia de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatutos da Santa Casa da Misericórdia de Lisboa"
+  },
+  "67115877": {
+   "fragment_id": "67115268",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, âmbito e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, âmbito e atribuições"
+  },
+  "67115878": {
+   "fragment_id": "67115269",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação e natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação e natureza jurídica\n\n1 - A Santa Casa da Misericórdia de Lisboa, adiante designada por SCML, é uma pessoa colectiva de direito privado e utilidade pública administrativa.\n\n2 - A SCML rege-se:\n\na) Pelos presentes estatutos;\n\nb) Pelas normas que lhe sejam especialmente aplicáveis e não contrariem os presentes estatutos;\n\nc) Pela lei civil."
+  },
+  "67115879": {
+   "fragment_id": "67115270",
+   "type": 11,
+   "heading": "Artigo 2.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tutela\n\n1 - A tutela, nos termos previstos nos presentes estatutos e na lei que seja especialmente aplicável, é exercida pelo membro do Governo que superintende a área da segurança social.\n\n2 - A tutela abrange, além dos poderes especialmente previstos nestes estatutos, a definição das orientações gerais de gestão, a fiscalização da actividade da Misericórdia de Lisboa e a sua coordenação com os organismos do Estado ou dele dependentes."
+  },
+  "67115880": {
+   "fragment_id": "67115271",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de actuação\n\nA SCML prossegue as suas atribuições na área do município de Lisboa, podendo alargar a sua actividade a outras áreas do território nacional para a realização dos seus fins estatutários."
+  },
+  "67115881": {
+   "fragment_id": "67115272",
+   "type": 11,
+   "heading": "Artigo 4.º — Fins estatutários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fins estatutários\n\n1 - A SCML tem como fins a realização da melhoria do bem-estar das pessoas, prioritariamente dos mais desprotegidos, abrangendo as prestações de acção social, saúde, educação e ensino, cultura e promoção da qualidade de vida, de acordo com a tradição cristã e obras de misericórdia do seu compromisso originário e da sua secular actuação em prol da comunidade, bem como a promoção, apoio e realização de actividades que visem a inovação, a qualidade e a segurança na prestação de serviços e, ainda, o desenvolvimento de iniciativas no âmbito da economia social.\n\n2 - A SCML desenvolve ainda as actividades de serviço ou interesse público que lhe sejam solicitadas pelo Estado ou outras entidades públicas.\n\n3 - Para a realização dos seus fins estatutários, a SCML:\n\na) Cria, organiza e dirige estabelecimentos e serviços no âmbito das suas actividades, ou que lhe sejam atribuídos através de acordos de gestão celebrados com entidades privadas, públicas e sociais;\n\nb) Desenvolve e prossegue modalidades de acção social em todas as valências nomeadamente nas áreas da infância e juventude, da família e comunidade, da população idosa, das pessoas portadoras de deficiência e de outros segmentos populacionais desprotegidos;\n\nc) Desenvolve e prossegue actividades de promoção de saúde, prevenção e tratamento da doença, de reabilitação e prestação de cuidados continuados;\n\nd) Promove, apoia e incentiva o voluntariado;\n\ne) Institui e participa na criação e funcionamento de estabelecimentos de ensino e de formação;\n\nf) Promove a realização de estudos e a investigação nas suas áreas de actuação;\n\ng) Cria ou participa na criação de outras pessoas colectivas privadas;\n\nh) Participa em associações ou correspondentes organismos, nacionais e internacionais, que visem objectivos similares;\n\ni) Aconselha, informa e apoia os cidadãos e respectivas famílias na realização efectiva dos seus direitos no acesso a bens e serviços de natureza social, no âmbito dos seus fins estatutários;\n\nj) Desenvolve modelos de boas práticas nas intervenções sociais, com avaliação da sua eficiência e qualidade, e colabora, através da sua divulgação e promoção, na modernização e progressiva melhoria das condições de funcionamento dos estabelecimentos sociais privados;\n\nl) Promove e actualiza a informação respeitante ao sector da economia social e aos equipamentos e serviços de apoio social, no âmbito dos seus fins estatutários;\n\nm) Promove e apoia tecnicamente a criação e desenvolvimento de projectos e organizações no âmbito da economia social;\n\nn) Apoia, quando solicitada pelos estabelecimentos públicos e privados de apoio social, a auto regulação na promoção da qualidade, defesa do ambiente e condições de segurança, assim como a responsabilidade social, através do apoio à implementação dos respectivos sistemas de gestão e da certificação dos mesmos, em conformidade com os acordos celebrados para o efeito;\n\no) Assegura, quando se mostre necessário, a tutela e curatela dos menores, interditos e inabilitados apoiados pela SCML, nos respectivos termos legais;\n\np) Exerce as competências legais em matéria de protecção de crianças e jovens em perigo e de adopção;\n\nq) Cumpre os encargos decorrentes de doações, heranças ou legados dos seus benfeitores;\n\nr) Assegura a gestão do seu património imobiliário e aplica as suas disponibilidades financeiras do modo mais adequado à obtenção das receitas necessárias à prossecução dos seus fins, sempre sem prejuízo do respeito pelas obrigações assumidas e que impendem sobre os respectivos bens;\n\ns) Assegura a exploração dos jogos sociais do Estado, referidos no artigo 2.º do Decreto-Lei n.º 56/2006, de 15 de Março, em regime de exclusividade para todo o território nacional, e a consequente distribuição dos resultados líquidos, podendo, de igual modo, explorar outros jogos que venham a ser criados;\n\nt) Exerce as demais competências necessárias à prossecução dos seus fins.\n\n4 - A SCML desenvolve formas de acção cultural adequadas, nomeadamente através de museus, exposições, visitas, conferências e iniciativas análogas, com vista ao pleno aproveitamento, divulgação e fruição pública do seu património histórico e artístico."
+  },
+  "67115882": {
+   "fragment_id": "67115273",
+   "type": 11,
+   "heading": "Artigo 5.º — Cooperação com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cooperação com outras entidades\n\nA SCML coordena a sua acção com a de outras entidades privadas, públicas ou sociais, podendo para o efeito celebrar acordos de cooperação para a realização das suas atribuições."
+  },
+  "67115883": {
+   "fragment_id": "67115274",
+   "type": 11,
+   "heading": "Artigo 6.º — Culto e assistência religiosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Culto e assistência religiosa\n\n1 - É mantido o culto da religião católica nas igrejas e capelas pertencentes à SCML, o qual será assegurado pela Irmandade da Misericórdia e de São Roque ou por outras irmandades ou instituições canonicamente erectas, mediante acordo com a autoridade eclesiástica competente.\n\n2 - O culto da Igreja de São Roque fica a cargo da Irmandade da Misericórdia e de São Roque.\n\n3 - A SCML assegura a instrução e assistência religiosa nos seus estabelecimentos e aos seus utentes de harmonia com as leis canónicas e civis em vigor."
+  },
+  "67115884": {
+   "fragment_id": "67117975",
+   "type": 1,
+   "heading": "Capítulo II — Dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos órgãos"
+  },
+  "67115885": {
+   "fragment_id": "67117976",
+   "type": 8,
+   "heading": "Secção I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposição geral"
+  },
+  "67115886": {
+   "fragment_id": "67117977",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\n1 - Os órgãos de administração da SCML são a mesa e o provedor.\n\n2 - A SCML tem ainda os seguintes órgãos consultivos e de fiscalização:\n\na) O conselho institucional;\n\nb) O conselho de jogos;\n\nc) O conselho de auditoria."
+  },
+  "67115887": {
+   "fragment_id": "67117978",
+   "type": 8,
+   "heading": "Secção II — Da mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da mesa"
+  },
+  "67115888": {
+   "fragment_id": "67117979",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição da mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição da mesa\n\nA mesa da SCML é composta pelo provedor, pelo vice-provedor e por cinco vogais."
+  },
+  "67115889": {
+   "fragment_id": "67117980",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência da mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência da mesa\n\n1 - Compete à mesa:\n\na) Elaborar os planos de actividades e orçamentos e submetê-los à aprovação da tutela, até 31 de Outubro, acompanhados dos pareceres do conselho institucional e do conselho de jogos, emitidos no âmbito das respectivas competências;\n\nb) Elaborar o relatório e as contas de gerência e submetê-los à aprovação da tutela, até 31 de Março, acompanhados dos pareceres do conselho de auditoria e do conselho de jogos, emitidos no âmbito das respectivas competências;\n\nc) Definir as orientações e os objectivos a atingir pelos departamentos e serviços e elaborar os regulamentos e as normas internas necessários ao cabal funcionamento da SCML;\n\nd) Criar, transformar e extinguir os estabelecimentos da SCML e regulamentar a sua organização e funcionamento;\n\ne) Celebrar acordos de cooperação com outras entidades;\n\nf) Contratar pessoal, de acordo com a legislação aplicável, e proceder à sua afectação pelos departamentos, serviços e estabelecimentos em função das necessidades;\n\ng) Autorizar a aquisição de bens e serviços, de acordo com a legislação aplicável;\n\nh) Elaborar, quando tal se mostre necessário, proposta de contracção de empréstimos a submeter à aprovação da tutela, acompanhada do parecer do conselho de auditoria;\n\ni) Criar ou participar na constituição de pessoas colectivas, quando tal se mostre adequado à prossecução das suas atribuições, obtida a autorização da tutela;\n\nj) Nomear os representantes para os órgãos sociais das pessoas colectivas participadas pela SCML;\n\nl) Adquirir, alienar e onerar bens imóveis da SCML, após autorização da tutela;\n\nm) Autorizar o recebimento de donativos;\n\nn) Autorizar a cobrança de receitas e a realização de despesas;\n\no) Aplicar sanções disciplinares nos termos legais;\n\np) Exercer os demais poderes que lhe forem atribuídos pela lei e pelos presentes estatutos ou que, neles estando previstos, não sejam da competência de outros órgãos.\n\n2 - Sob proposta do provedor, a mesa pode delegar competências para a realização de quaisquer dos actos necessários à prossecução das suas atribuições em um ou mais dos seus membros."
+  },
+  "67115890": {
+   "fragment_id": "67117981",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento e deliberações da mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funcionamento e deliberações da mesa\n\n1 - A mesa reúne, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o provedor a convoque.\n\n2 - As deliberações, fundamentadas nos termos legais, são tomadas, quando estiver presente a maioria dos seus membros em exercício efectivo de funções, por maioria dos votos expressos, tendo o provedor voto de qualidade em caso de empate.\n\n3 - Os membros da mesa não podem participar em deliberações sobre assuntos:\n\na) Quando neles tenham interesse, por si, como representantes ou como gestores de negócios de outra pessoa;\n\nb) Quando, por si ou como representante de outra pessoa, neles tenha interesse o seu cônjuge, algum parente ou afim em linha recta ou até ao 2.º grau da linha colateral, bem como qualquer pessoa com quem vivam em economia comum;\n\nc) Quando, por si, ou como representante de outra pessoa tenham interesse em questão semelhante à que deve ser decidida ou quando tal situação se verifique em relação a pessoa abrangida pela alínea anterior;\n\nd) Quando tenham intervindo como perito ou mandatário ou haja dado parecer sobre a questão a resolver;\n\ne) Quando tenha intervindo no processo, como mandatário, o seu cônjuge, parente ou afim em linha recta ou até ao 2.º grau da linha colateral, bem como qualquer pessoa com quem vivam em economia comum;\n\nf) Quando contra eles, seu cônjuge ou parente em linha recta esteja intentada acção judicial proposta pelo interessado ou pelo respectivo cônjuge;\n\ng) Quando se trate de recurso de decisão proferida por si, ou com a sua intervenção, ou proferida por qualquer das pessoas referidas na alínea b) ou com intervenção destas.\n\n4 - De todas as reuniões da mesa será lavrada acta, com a indicação dos membros presentes, dos assuntos discutidos e das deliberações tomadas, bem como das posições assumidas pelos participantes e, a seu pedido, das respectivas justificações de voto.\n\n5 - As actas das reuniões de mesa, depois de devidamente aprovadas por esta e assinadas pelo secretário-geral da SCML, fazem prova plena dos factos nelas relatados.\n\n6 - A mesa elabora em regimento próprio as regras necessárias à execução do disposto no presente artigo."
+  },
+  "67115891": {
+   "fragment_id": "67117982",
+   "type": 8,
+   "heading": "Secção III — Do provedor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do provedor"
+  },
+  "67115892": {
+   "fragment_id": "67117983",
+   "type": 11,
+   "heading": "Artigo 11.º — Nomeação e mandato do provedor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Nomeação e mandato do provedor\n\n1 - O provedor é nomeado por despacho conjunto do Primeiro-Ministro e do membro do Governo que exerce a tutela sobre a SCML.\n\n2 - O provedor é nomeado pelo período de três anos, renovável por iguais períodos.\n\n3 - Para efeitos de eventual renovação do mandato, o provedor deve informar o Primeiro-Ministro e o membro do Governo que exerce a tutela sobre a SCML do termo de cada período com a antecedência mínima de 90 dias.\n\n4 - Não havendo renovação, o mandato cessa no final do respectivo período e o provedor mantém-se no exercício das funções de gestão corrente até à nomeação de novo titular do cargo.\n\n5 - O mandato pode, ainda, cessar a todo o tempo por requerimento apresentado pelo interessado com a antecedência mínima de 60 dias ou por despacho conjunto do Primeiro-Ministro e do membro do Governo que exerce a tutela sobre a SCML fundamentado na não realização dos objectivos previstos, na não prestação de informações essenciais ao exercício da tutela ou na sequência de actuações culposas ou gravemente negligentes que afectem a gestão ou o bom nome da SCML.\n\n6 - O vencimento do provedor é fixado por despacho da tutela, tendo por referência os montantes estabelecidos para os gestores públicos."
+  },
+  "67115893": {
+   "fragment_id": "67117984",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência do provedor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência do provedor\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei e ou pelos presentes estatutos, compete ao provedor:\n\na) Convocar e presidir às reuniões da mesa, do conselho institucional e do conselho de jogos e dirigir os respectivos trabalhos;\n\nb) Presidir aos conselhos directivos do Hospital Ortopédico de Sant'Ana e do Centro de Medicina de Reabilitação do Alcoitão;\n\nc) Representar a SCML em juízo e fora dele;\n\nd) Representar a SCML na outorga de contratos, protocolos e acordos de cooperação;\n\ne) Promover à execução das deliberações da mesa e submeter a despacho da tutela os assuntos que dele careçam;\n\nf) Dirigir, fiscalizar e coordenar superiormente a SCML;\n\ng) Designar, de entre os membros da mesa, os administradores executivos dos departamentos, podendo indicar mais de um por departamento, quando tal se mostre necessário, e distribuir os pelouros relativamente aos serviços instrumentais;\n\nh) Autorizar despesas dentro dos limites da competência fixada pela mesa.\n\n2 - O provedor é substituído nas suas faltas e impedimentos pelo vice-provedor ou, na sua ausência, pelo vogal designado pelo provedor ou, na falta de designação, pelo vogal que siga no despacho de nomeação.\n\n3 - As competências previstas no n.º 1 podem ser delegadas no vice-provedor ou nos vogais da mesa, com excepção da competência prevista na alínea c) do mesmo número que também pode ser delegada em funcionário ou mandatário."
+  },
+  "67115894": {
+   "fragment_id": "67117985",
+   "type": 8,
+   "heading": "Secção IV — Do vice-provedor e dos vogais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Do vice-provedor e dos vogais"
+  },
+  "67115895": {
+   "fragment_id": "67117986",
+   "type": 11,
+   "heading": "Artigo 13.º — Nomeação e mandato do vice-provedor e dos vogais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Nomeação e mandato do vice-provedor e dos vogais\n\n1 - O vice-provedor e os vogais são nomeados pelo membro do Governo que exerce a tutela sobre a SCML, ouvido o provedor.\n\n2 - O mandato do vice-provedor e dos vogais é de três anos, renovável por iguais períodos.\n\n3 - É aplicável, com as devidas adaptações, ao vice-provedor e aos vogais o disposto nos n.os 3 a 6 do artigo 11.º dos presentes estatutos."
+  },
+  "67115896": {
+   "fragment_id": "67117987",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência do vice-provedor e dos vogais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência do vice-provedor e dos vogais\n\n1 - Compete ao vice-provedor e aos vogais:\n\na) Coadjuvar o provedor nos assuntos da sua competência;\n\nb) Administrar os departamentos e superintender os serviços que lhes forem atribuídos;\n\nc) Exercer os poderes delegados pela mesa ou pelo provedor.\n\n2 - O vice-provedor e os vogais podem delegar nos dirigentes dos departamentos e serviços as competências que neles tiverem sido delegadas com faculdade de subdelegação."
+  },
+  "67115897": {
+   "fragment_id": "67117988",
+   "type": 8,
+   "heading": "Secção V — Dos órgãos consultivos e de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Dos órgãos consultivos e de fiscalização"
+  },
+  "67115898": {
+   "fragment_id": "67117989",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselho institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conselho institucional\n\n1 - O conselho institucional é um órgão consultivo presidido pelo provedor e composto por:\n\na) Dois representantes do Ministério do Trabalho e da Solidariedade Social;\n\nb) Um representante do Ministério da Saúde;\n\nc) Um representante do Ministério da Economia;\n\nd) Um representante da área governamental que tutela a administração local;\n\ne) Um representante da Irmandade da Misericórdia e de São Roque;\n\nf) Três elementos de reconhecido mérito designados pelo provedor.\n\n2 - Compete ao conselho institucional:\n\na) Dar parecer sobre os planos de actividades e os orçamentos no âmbito da acção social, da saúde, da promoção da qualidade de vida;\n\nb) Apresentar sugestões e formular recomendações que permitam melhorar o desempenho e aperfeiçoar a realização dos fins estatutários da SCML;\n\nc) Aprovar o seu regimento.\n\n3 - Os membros do conselho são indicados pelas entidades que representam pelo período de três anos, renovável, podendo cessar a todo o tempo.\n\n4 - O conselho reúne, ordinariamente, uma vez por semestre e, extraordinariamente, por convocação do provedor, por sua própria iniciativa ou por solicitação da maioria dos seus membros.\n\n5 - As deliberações são tomadas, quando estiver presente a maioria dos seus membros em exercício efectivo de funções, por maioria dos votos expressos, tendo o provedor voto de qualidade em caso de empate.\n\n6 - Os membros do conselho que não desempenhem actividades no âmbito da Administração Pública auferem senhas de presença de montante a fixar pela mesa.\n\n7 - Podem participar nas reuniões do conselho, sem direito de voto, o vice-provedor e os vogais, quando pela natureza dos assuntos a tratar se justifique a sua presença e, para tal, sejam convocados pelo provedor."
+  },
+  "67115899": {
+   "fragment_id": "67117990",
+   "type": 11,
+   "heading": "Artigo 16.º — Conselho de jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conselho de jogos\n\n1 - O conselho de jogos é um órgão consultivo presidido pelo provedor com a seguinte composição:\n\na) Um representante da tutela;\n\nb) Um representante do Ministério das Finanças;\n\nc) Um representante do Ministério da Administração Interna;\n\nd) Um representante do Ministério da Saúde;\n\ne) Um representante do Ministério da Educação;\n\nf) Um representante do Ministério da Cultura;\n\ng) Um representante da área governamental que tutela o desporto;\n\nh) Um representante da área governamental que tutela o comércio e o turismo.\n\n2 - Compete ao conselho de jogos:\n\na) Dar parecer sobre o plano de actividades e orçamento do departamento de jogos, bem como sobre o relatório e as contas que os executam;\n\nb) Pronunciar-se sobre a exploração dos jogos sociais autorizados ou concedidos à SCML;\n\nc) Pronunciar-se acerca da exploração de outros jogos pela SCML;\n\nd) Dar parecer, quando solicitado, relativamente à exploração de jogos por outras entidades;\n\ne) Aprovar o respectivo regimento.\n\n3 - O conselho de jogos reúne, ordinariamente, uma vez por semestre e, extraordinariamente, sempre que o provedor, por iniciativa própria ou da maioria dos seus membros, o convoque.\n\n4 - Nas reuniões do conselho de jogos participam, sem direito de voto:\n\na) O administrador executivo do departamento de jogos (DJ); e\n\nb) O vice-provedor e os vogais, quando pela natureza dos assuntos a tratar se justifique a sua presença e, para tal, sejam convocados pelo provedor."
+  },
+  "67115900": {
+   "fragment_id": "67117991",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho de auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conselho de auditoria\n\n1 - O conselho de auditoria tem a seguinte composição:\n\na) Um representante do Ministério das Finanças;\n\nb) Um representante do ministério da tutela;\n\nc) Um revisor oficial de contas nomeado pela tutela.\n\n2 - Compete ao conselho de auditoria:\n\na) Fiscalizar a gestão e o cumprimento das normas reguladoras da actividade da SCML;\n\nb) Acompanhar a execução dos orçamentos;\n\nc) Examinar periodicamente a contabilidade e seguir a sua evolução;\n\nd) Verificar o cadastro e a exactidão de todos os valores patrimoniais;\n\ne) Emitir parecer sobre os relatórios e as contas anuais de gerência;\n\nf) Emitir parecer sobre a contracção de empréstimos e a emissão de obrigações;\n\ng) Pronunciar-se sobre qualquer assunto que seja submetido à sua apreciação pela mesa ou pelo provedor;\n\nh) Promover auditorias, recorrendo a empresas especializadas sempre que se mostre necessário e assim seja considerado pelo conselho de auditoria;\n\ni) Requerer informações e esclarecimentos sobre o curso das actividades da instituição;\n\nj) Aprovar o seu regimento.\n\n3 - O conselho de auditoria reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que o seu presidente, por sua iniciativa ou da maioria dos seus membros, o convoque.\n\n4 - O conselho de auditoria é presidido pelo representante do Ministério das Finanças e a ele podem assistir, sem direito de voto, a solicitação do presidente, em razão da importância das matérias a tratar, o provedor, o vice-provedor e os vogais.\n\n5 - O presidente pode assistir, a solicitação do provedor, às reuniões da mesa da SCML, podendo fazer-se representar por outro membro do conselho.\n\n6 - Os membros do conselho são remunerados pelo exercício das suas funções nos termos estabelecidos pela tutela, e o respectivo mandato tem a duração de três anos, podendo cessar a todo o tempo a requerimento do interessado.\n\nDa organização interna"
+  },
+  "67115901": {
+   "fragment_id": "67117992",
+   "type": 8,
+   "heading": "Secção I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposição geral"
+  },
+  "67115902": {
+   "fragment_id": "67117993",
+   "type": 11,
+   "heading": "Artigo 18.º — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Estrutura orgânica\n\n1 - A SCML encontra-se organizada em departamentos e serviços instrumentais.\n\n2 - São departamentos da SCML:\n\na) O departamento de acção social e saúde;\n\nb) O departamento da qualidade e inovação;\n\nc) O departamento de empreendedorismo e economia social;\n\nd) O departamento de gestão imobiliária e património;\n\ne) O departamento de jogos.\n\n3 - Integram ainda a SCML o Hospital Ortopédico de Sant'Ana, o Centro de Medicina de Reabilitação do Alcoitão e a Escola Superior de Saúde do Alcoitão.\n\n4 - Os serviços instrumentais necessários à prossecução das atribuições da SCML são definidos em regulamento orgânico a aprovar pela mesa."
+  },
+  "67115903": {
+   "fragment_id": "67117994",
+   "type": 8,
+   "heading": "Secção II — Departamento de acção social e saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Departamento de acção social e saúde"
+  },
+  "67115904": {
+   "fragment_id": "67117995",
+   "type": 11,
+   "heading": "Artigo 19.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Atribuições e competências\n\n1 - O departamento de acção social e saúde (DASS) gere, de forma integrada, os serviços e estabelecimentos de acção social e de saúde, promovendo a autonomia e inclusão social, nomeadamente através da prestação de cuidados de saúde e do apoio às seguintes áreas de intervenção:\n\na) Infância e juventude;\n\nb) População idosa;\n\nc) Pessoas portadoras de deficiência;\n\nd) Família e maternidade.\n\n2 - O DASS dispõe de orçamento e conta própria que integram o orçamento e a conta da SCML.\n\n3 - Sem prejuízo das competências que lhe sejam delegadas pelo provedor e pela mesa, são, nomeadamente, competências do DASS:\n\na) Elaborar o plano de actividades e orçamento próprios;\n\nb) Elaborar o relatório e as contas resultantes da sua actividade;\n\nc) Criar e dinamizar projectos de incidência comunitária;\n\nd) Propor a criação, transformação e extinção dos estabelecimentos e serviços nele integrados e assegurar a sua gestão directa;\n\ne) Assegurar a execução dos instrumentos de cooperação celebrados com entidades públicas, privadas e sociais que prossigam objectivos similares;\n\nf) Assegurar os cuidados de saúde aos utentes da SCML;\n\ng) Promover acções e programas de saúde;\n\nh) Promover a formação com vista à qualificação para a inclusão social."
+  },
+  "67115905": {
+   "fragment_id": "67117996",
+   "type": 11,
+   "heading": "Artigo 20.º — Competências do administrador executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências do administrador executivo\n\nSem prejuízo das competências que lhe sejam atribuídas pela mesa ou pelo provedor, compete ao administrador executivo:\n\na) Submeter à mesa, para aprovação, o plano de actividades e orçamento próprios;\n\nb) Submeter à mesa, para aprovação, o relatório e as contas resultantes da sua actividade;\n\nc) Dirigir e coordenar os serviços do departamento;\n\nd) Propor à mesa a nomeação dos dirigentes do departamento;\n\ne) Propor os regulamentos e as normas internas necessários ao cabal funcionamento dos seus estabelecimentos e serviços;\n\nf) Autorizar a realização das despesas, nos termos e limites que se encontrem estabelecidos pela mesa;\n\ng) Ordenar a instauração de processos disciplinares e submeter à mesa a proposta de sanção disciplinar;\n\nh) Promover a elaboração de ordens e instruções de serviço necessárias ao funcionamento do departamento;\n\ni) Autorizar a mobilidade dos funcionários dentro do departamento;\n\nj) Conceder licenças e justificar faltas."
+  },
+  "67115906": {
+   "fragment_id": "67117997",
+   "type": 8,
+   "heading": "Secção III — Departamento da qualidade e inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Departamento da qualidade e inovação"
+  },
+  "67115907": {
+   "fragment_id": "67117998",
+   "type": 11,
+   "heading": "Artigo 21.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Atribuições e competências\n\n1 - O departamento da qualidade e inovação (DQI) tem por objectivo promover, apoiar e realizar iniciativas que visem a inovação, a qualidade e a segurança na prestação das actividades que se inserem no âmbito das áreas de actuação da SCML.\n\n2 - O DQI dispõe de orçamento e conta própria que integram o orçamento e a conta da SCML.\n\n3 - Sem prejuízo das competências que lhe sejam delegadas pelo provedor e pela mesa, são, nomeadamente, competências do DQI:\n\na) Elaborar o plano de actividades e orçamento próprios;\n\nb) Elaborar o relatório e as contas resultantes da sua actividade;\n\nc) Promover e apoiar o voluntariado;\n\nd) Promover e gerir as actividades de inovação e qualidade, de segurança e de responsabilidade social da SCML, bem como divulgar e incentivar a sua adopção junto das organizações públicas e privadas no âmbito do sector social;\n\ne) Participar junto das organizações nacionais e internacionais competentes nas áreas da inovação e qualidade, de segurança e de responsabilidade social;\n\nf) Promover a certificação de sistemas e pessoas no âmbito da qualidade, ambiente, segurança e responsabilidade social, nomeadamente com a criação de um registo nacional e de um sistema de qualificação de entidades no sector social, bem como de um índice nacional de desenvolvimento deste sector;\n\ng) Promover a observação e monitorização dos problemas sociais, incentivando o seu conhecimento e investigação, por forma a criar e apoiar novas respostas;\n\nh) Aconselhar, informar e apoiar os cidadãos e respectivas famílias na realização efectiva dos seus direitos no acesso a bens e serviços de natureza social, podendo arbitrar eventuais conflitos;\n\ni) Dispor de informação sobre as entidades prestadoras de serviços e os equipamentos de apoio social existentes;\n\nj) Assegurar a execução dos instrumentos de cooperação celebrados com entidades privadas, públicas e sociais que prossigam objectivos similares, divulgando a informação obtida."
+  },
+  "67115908": {
+   "fragment_id": "67117999",
+   "type": 11,
+   "heading": "Artigo 22.º — Competências do administrador executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competências do administrador executivo\n\nSem prejuízo das competências que lhe sejam atribuídas pela mesa ou pelo provedor, compete ao administrador executivo:\n\na) Submeter à mesa, para aprovação, o plano de actividades e orçamento próprios;\n\nb) Submeter à mesa, para aprovação, o relatório e as contas resultantes da sua actividade;\n\nc) Dirigir e coordenar os serviços do departamento;\n\nd) Propor à mesa a nomeação dos dirigentes do departamento;\n\ne) Propor os regulamentos e as normas internas necessários ao cabal funcionamento dos seus serviços;\n\nf) Autorizar a realização das despesas, nos termos e limites que se encontrem estabelecidos pela mesa;\n\ng) Ordenar a instauração de processos disciplinares e submeter à mesa a proposta de sanção disciplinar;\n\nh) Promover a elaboração de ordens e instruções de serviço necessárias ao funcionamento do departamento;\n\ni) Autorizar a mobilidade dos funcionários dentro do departamento;\n\nj) Conceder licenças e justificar faltas."
+  },
+  "67115909": {
+   "fragment_id": "67118000",
+   "type": 8,
+   "heading": "Secção IV — Departamento de empreendedorismo e economia social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Departamento de empreendedorismo e economia social"
+  },
+  "67115910": {
+   "fragment_id": "67118001",
+   "type": 11,
+   "heading": "Artigo 23.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Atribuições e competências\n\n1 - O departamento de empreendedorismo e economia social (DEES) tem por objectivo promover, apoiar e divulgar a criação e o desenvolvimento de iniciativas no âmbito do empreendorismo e economia social.\n\n2 - O DEES dispõe de orçamento e conta própria que integram o orçamento e a conta da SCML.\n\n3 - Sem prejuízo das competências que lhe sejam delegadas pelo provedor e pela mesa, são, nomeadamente, competências do DEES:\n\na) Elaborar o plano de actividades e orçamento próprios;\n\nb) Elaborar o relatório e as contas resultantes da sua actividade;\n\nc) Promover e apoiar tecnicamente a criação e desenvolvimento de projectos e organizações, independentemente da sua natureza jurídica, no âmbito da economia social, bem como a formação e consequente qualificação dos recursos humanos;\n\nd) Emitir pareceres, realizar e promover estudos que visem dinamizar o sector da economia social;\n\ne) Apoiar a criação de microempresas através de programas em cooperação com outras entidades;\n\nf) Promover a criação de agentes de desenvolvimento na área da economia social;\n\ng) Recolher e manter actualizada a informação respeitante a este sector económico e promover a publicação de documentação de apoio às organizações de economia social;\n\nh) Participar junto das organizações nacionais e internacionais competentes na área da economia social;\n\ni) Assegurar a execução dos instrumentos de cooperação celebrados com entidades públicas, privadas e sociais que prossigam objectivos similares."
+  },
+  "67115911": {
+   "fragment_id": "67118002",
+   "type": 11,
+   "heading": "Artigo 24.º — Competências do administrador executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Competências do administrador executivo\n\nSem prejuízo das competências que lhe sejam atribuídas pela mesa ou pelo provedor, compete ao administrador executivo:\n\na) Submeter à mesa, para aprovação, o plano de actividades e orçamento próprios;\n\nb) Submeter à mesa, para aprovação, o relatório e as contas resultantes da sua actividade;\n\nc) Dirigir e coordenar os serviços do departamento;\n\nd) Propor à mesa a nomeação dos dirigentes do departamento;\n\ne) Propor os regulamentos e as normas internas necessários ao cabal funcionamento dos seus serviços;\n\nf) Autorizar a realização das despesas, nos termos e limites que se encontrem estabelecidos pela mesa;\n\ng) Ordenar a instauração de processos disciplinares e submeter à mesa a proposta de sanção disciplinar;\n\nh) Promover a elaboração de ordens e instruções de serviço necessárias ao funcionamento do departamento;\n\ni) Autorizar a mobilidade dos funcionários dentro do departamento;\n\nj) Conceder licenças e justificar faltas."
+  },
+  "67115912": {
+   "fragment_id": "67118003",
+   "type": 8,
+   "heading": "Secção V — Departamento de gestão imobiliária e património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Departamento de gestão imobiliária e património"
+  },
+  "67115913": {
+   "fragment_id": "67118004",
+   "type": 11,
+   "heading": "Artigo 25.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Atribuições e competências\n\n1 - O departamento de gestão imobiliária e património tem como objectivo gerir o património imobiliário da SCML sempre com respeito das obrigações assumidas e que impendem sobre os respectivos bens.\n\n2 - O DGIP dispõe de orçamento e conta próprios que integram o orçamento e a conta da SCML.\n\n3 - Sem prejuízo das competências que lhe sejam delegadas pelo provedor e pela mesa, são, nomeadamente, competências do DGIP:\n\na) Elaborar o plano de actividades e o orçamento;\n\nb) Elaborar o relatório e as contas resultantes da sua actividade;\n\nc) Propor à mesa a aceitação ou o repúdio de heranças, legados e doações;\n\nd) Propor à mesa a aquisição de bens móveis ou imóveis;\n\ne) Propor à mesa a alienação dos bens e direitos da SCML;\n\nf) Autorizar e celebrar contratos para arrendamento de bens imóveis e para trespasse e locação de estabelecimentos;\n\ng) Promover os actos necessários à conservação e à regularização jurídica do património da SCML;\n\nh) Organizar e manter actualizado o cadastro dos bens móveis e imóveis da SCML, eventualmente distribuídos por departamentos e estabelecimentos, com actualização anual, segundo as regras aprovadas pela mesa sob proposta do DGIP."
+  },
+  "67115914": {
+   "fragment_id": "67118005",
+   "type": 11,
+   "heading": "Artigo 26.º — Competências do administrador executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competências do administrador executivo\n\nSem prejuízo das competências que lhe sejam atribuídas pela mesa ou pelo provedor, compete ao administrador executivo:\n\na) Submeter à mesa, para aprovação, o plano de actividades e orçamento próprios;\n\nb) Submeter à mesa, para aprovação, o relatório e as contas resultantes da sua actividade;\n\nc) Dirigir e coordenar os serviços do departamento;\n\nd) Propor à mesa a nomeação dos dirigentes do departamento;\n\ne) Propor os regulamentos e as normas internas necessários ao cabal funcionamento dos seus serviços;\n\nf) Autorizar a realização das despesas, nos termos e limites que se encontrem estabelecidos pela mesa;\n\ng) Ordenar a instauração de processos disciplinares e submeter à mesa a proposta de sanção disciplinar;\n\nh) Promover a elaboração de ordens e instruções de serviço necessárias ao funcionamento do departamento;\n\ni) Autorizar a mobilidade dos funcionários dentro do departamento;\n\nj) Conceder licenças e justificar faltas."
+  },
+  "67115915": {
+   "fragment_id": "67118006",
+   "type": 8,
+   "heading": "Secção VI — Departamento de jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Departamento de jogos"
+  },
+  "67115916": {
+   "fragment_id": "67118007",
+   "type": 11,
+   "heading": "Artigo 27.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Atribuições e competências\n\n1 - O departamento de jogos (DJ) tem por objecto a exploração dos jogos sociais do Estado e de quaisquer outros jogos autorizados que sejam cometidos à SCML.\n\n2 - O DJ dispõe de orçamento e conta próprios, anexos ao orçamento e à conta da SCML.\n\n3 - Sem prejuízo de exercer as demais competências atribuídas ao departamento por lei e as que lhe sejam delegadas pelo provedor e pela mesa, são, nomeadamente, competências do DJ:\n\na) Elaborar o plano de actividades e o orçamento;\n\nb) Elaborar o relatório e as contas resultantes da sua actividade;\n\nc) Explorar os jogos sociais do Estado, designadamente as lotarias e os concursos de prognósticos ou apostas mútuas;\n\nd) Estabelecer as condições essenciais a que deve obedecer a habilitação aos prémios das extracções das lotarias ou a participação nas apostas mútuas ou concursos de prognósticos e outros jogos sociais, a aprovar pela tutela através de portaria;\n\ne) Aprovar os planos para cada uma das extracções das lotarias fixando o número de bilhetes a emitir, o valor da venda de cada fracção, as categorias de prémios, o número dos mesmos, de cada categoria, bem como o valor a atribuir a cada um deles;\n\nf) Definir as regras a que deve obedecer a exploração dos concursos de prognósticos, apostas mútuas e outros jogos sociais, e designadamente fixar o preço da aposta de cada uma das modalidades em exploração, bem como o valor percentual para prémios a retirar da receita ilíquida apurada em cada concurso, a aprovar pela tutela através de portaria;\n\ng) Estabelecer o número de prémios a vigorar para cada modalidade de aposta mútua ou jogo social em exploração, a aprovar pela tutela através de portaria;\n\nh) Estruturar organicamente os serviços de modo a conseguir um normal funcionamento técnico-administrativo das diferentes operações respeitantes às extracções das lotarias e aos concursos;\n\ni) Elaborar para cada modalidade de lotarias, de apostas mútuas e demais jogos sociais do Estado, o respectivo regulamento geral, a aprovar pela tutela através de portaria;\n\nj) Determinar as modalidades desportivas a incluir nos concursos de apostas mútuas desportivas;\n\nl) Definir a rede de postos de venda a estabelecer em todo o País para os jogos sociais do Estado, regulamentando a sua actividade e fixando as respectivas remunerações;\n\nm) Habilitar a mesa com as informações e pareceres sobre qualquer modalidade de jogos cuja exploração venha a ser proposta à SCML;\n\nn) Apreciar os processos de contra-ordenação que vierem a ser instaurados respeitantes à exploração ilícita de lotarias e apostas mútuas ou outros jogos e actividades similares com vista à aplicação das penalidades previstas na lei;\n\no) Propor à mesa a filiação em organismos internacionais de lotarias e outros jogos sociais."
+  },
+  "67115917": {
+   "fragment_id": "67118008",
+   "type": 11,
+   "heading": "Artigo 28.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Órgãos\n\nSão órgãos do departamento de jogos:\n\na) O administrador executivo;\n\nb) Os júris:\n\ni) O júri dos concursos;\n\nii) O júri das extracções;\n\niii) O júri das reclamações."
+  },
+  "67115918": {
+   "fragment_id": "67118009",
+   "type": 11,
+   "heading": "Artigo 29.º — Competências do administrador executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências do administrador executivo\n\n1 - Sem prejuízo de exercer as competências atribuídas ao departamento por lei e as que lhe sejam delegadas pelo provedor e pela mesa, compete ao administrador executivo:\n\na) Submeter à mesa, para aprovação, o plano de actividades e o orçamento, acompanhados do parecer do conselho de jogos;\n\nb) Submeter à mesa, para aprovação, o relatório e as contas resultantes da sua actividade, acompanhados dos pareceres do conselho de jogos e do conselho de auditoria;\n\nc) Dirigir e coordenar os serviços do departamento;\n\nd) Garantir um normal funcionamento técnico-administrativo das diferentes operações respeitantes às extracções das lotarias e aos concursos;\n\ne) Propor à mesa a nomeação dos dirigentes do departamento;\n\nf) Propor os regulamentos e as normas internas necessários ao cabal funcionamento dos seus serviços;\n\ng) Controlar as receitas do DJ e autorizar a realização das despesas, nos termos e limites que se encontrem estabelecidos pela mesa;\n\nh) Aprovar os planos de extracções das lotarias a levar a efeito durante o ano;\n\ni) Conceber a orientação geral da administração da exploração dos jogos concessionados à SCML;\n\nj) Propor os programas gerais de publicidade;\n\nl) Ordenar a instauração de processos disciplinares e submeter à mesa a proposta de sanção disciplinar;\n\nm) Promover a elaboração de ordens e instruções de serviço necessárias ao funcionamento do departamento;\n\nn) Autorizar a mobilidade dos funcionários dentro do departamento;\n\no) Conceder licenças e justificar faltas."
+  },
+  "67115919": {
+   "fragment_id": "67118010",
+   "type": 11,
+   "heading": "Artigo 30.º — Júri dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Júri dos concursos\n\n1 - O júri dos vários jogos sociais e apostas mútuas é constituído por três membros, a saber:\n\na) O administrador executivo, ou um seu delegado, que preside;\n\nb) Um representante da autoridade administrativa a nomear pelo Governo Civil do Distrito de Lisboa;\n\nc) Um representante da Inspecção-Geral de Finanças.\n\n2 - Cada membro do júri dos concursos tem um substituto legal, que actua nas suas faltas e impedimentos e é indicado pela mesma entidade que designa os representantes efectivos.\n\n3 - As condições e quantitativo das gratificações (senha de presença) dos membros do júri dos concursos são fixados por despacho conjunto da tutela e do Ministro das Finanças, sob proposta da mesa."
+  },
+  "67115920": {
+   "fragment_id": "67118011",
+   "type": 11,
+   "heading": "Artigo 31.º — Competência do júri dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Competência do júri dos concursos\n\nCompete ao júri dos concursos:\n\na) Receber e guardar, em cofre, as cópias dos registos das apostas efectuadas através do sistema de registo e validação informático, cuja fechadura funcionará pela acção conjunta de três chaves diferentes ou de senhas de segurança, e lavrar acta desta operação;\n\nb) Proceder ao reconhecimento dos direitos a prémio, através da confrontação entre o número de registo e validação informáticos e número de acertos verificados nas apostas constantes dos suportes informáticos guardados no cofre e a informação relativa a apostas apuradas no escrutínio de prémios, disponibilizada pelo DJ;\n\nc) Superintender nos sorteios que decorrerem das normas regulamentares dos quais deverá ser elaborada a respectiva acta."
+  },
+  "67115921": {
+   "fragment_id": "67118012",
+   "type": 11,
+   "heading": "Artigo 32.º — Funcionamento do júri dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Funcionamento do júri dos concursos\n\n1 - É obrigatória a presença de todos os membros ou seus substitutos nos actos de reconhecimento do direito a prémios.\n\n2 - Da recepção das cópias dos registos das apostas efectuadas através do sistema de registo e validação informático e do escrutínio das apostas de cada uma das modalidades em exploração são lavradas actas, a assinar por todos os membros do júri.\n\n3 - Nas operações previstas no n.º 1, o júri dos concursos é coadjuvado pelo pessoal do DJ que for necessário.\n\n4 - É obrigatória a presença de pelo menos dois membros do júri ou seus substitutos nos actos de sorteio previstos na alínea c) do artigo anterior.\n\n5 - Das decisões do júri dos concursos apenas há recurso para o júri de reclamações."
+  },
+  "67115922": {
+   "fragment_id": "67118013",
+   "type": 11,
+   "heading": "Artigo 33.º — Júri das extracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Júri das extracções\n\n1 - O júri de extracções destinadas ao apuramento de números com direito aos prémios estabelecidos nos planos prévia e superiormente aprovados por cada uma das modalidades de lotaria em exploração, é constituída por três membros, a saber:\n\na) O administrador executivo, ou um seu delegado, que preside;\n\nb) Um representante da autoridade administrativa, a nomear pelo Governo Civil do Distrito de Lisboa;\n\nc) Um representante da Inspecção-Geral de Finanças.\n\n2 - Cada membro do júri das extracções tem um substituto legal, que actua nas suas faltas e impedimentos e é indicado pela mesma entidade que designa os representantes efectivos.\n\n3 - É obrigatória a presença de pelo menos dois dos membros do júri ou seus substitutos nos actos das extracções.\n\n4 - No final da extracção, após a conferência da lista oficial, será lavrada acta, a assinar por todos os membros do júri.\n\n5 - Das decisões do júri das extracções apenas há recurso para o júri de reclamações.\n\n6 - As condições e o quantitativo das gratificações dos membros do júri das extracções são fixados por despacho conjunto da tutela e do Ministro das Finanças, sob proposta da mesa."
+  },
+  "67115923": {
+   "fragment_id": "67118014",
+   "type": 11,
+   "heading": "Artigo 34.º — Competência do júri das extracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Competência do júri das extracções\n\nCompete ao júri das extracções:\n\na) Superintender e fiscalizar todas as operações inerentes à realização das extracções em harmonia com o plano superiormente aprovado;\n\nb) Fiscalizar a extracção dos números e dos prémios que lhes correspondem;\n\nc) Resolver as dúvidas que vierem a ser suscitadas quanto à interpretação das normas constantes dos regulamentos gerais das extracções."
+  },
+  "67115924": {
+   "fragment_id": "67118015",
+   "type": 11,
+   "heading": "Artigo 35.º — Júri das reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Júri das reclamações\n\n1 - Para todas as modalidades de apostas mútuas e de lotarias em exploração apenas há um júri de reclamações, que tem a seguinte composição:\n\na) Um magistrado judicial designado pelo Ministro da Justiça, que preside, com voto de qualidade em caso de empate nas votações;\n\nb) Um representante da autoridade administrativa a nomear pelo Governo Civil do Distrito de Lisboa;\n\nc) Um representante da Inspecção-Geral de Finanças;\n\nd) Um representante da SCML, a designar pela mesa.\n\n2 - Deste júri não pode fazer parte qualquer elemento que componha os restantes júris.\n\n3 - As condições e o quantitativo das gratificações dos membros do júri de reclamações são fixados por despacho conjunto da tutela e do Ministro das Finanças, sob proposta da mesa."
+  },
+  "67115925": {
+   "fragment_id": "67118016",
+   "type": 11,
+   "heading": "Artigo 36.º — Competência do júri de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Competência do júri de reclamações\n\n1 - Compete ao júri de reclamações julgar as reclamações que vierem a ser apresentadas, nos termos da lei e dos presentes estatutos, lavrando acórdão fundamentado em relação a cada uma das reclamações.\n\n2 - Das decisões do júri de reclamações não há recurso gracioso."
+  },
+  "67115926": {
+   "fragment_id": "67118017",
+   "type": 11,
+   "heading": "Artigo 37.º — Funcionamento do júri de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Funcionamento do júri de reclamações\n\n1 - O júri de reclamações reúne, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o seu presidente o convoque.\n\n2 - De todas as reuniões do júri de reclamações será obrigatoriamente lavrada acta, a assinar por todos os presentes.\n\n3 - É obrigatória a presença, em cada reunião, de, pelo menos, três membros."
+  },
+  "67115927": {
+   "fragment_id": "67118018",
+   "type": 8,
+   "heading": "Secção VII — Do secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Do secretário-geral"
+  },
+  "67115928": {
+   "fragment_id": "67118019",
+   "type": 11,
+   "heading": "Artigo 38.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Secretário-geral\n\n1 - Compete ao secretário-geral da SCML, ou a quem este delegar:\n\na) Secretariar as reuniões da mesa da SCML;\n\nb) Proceder à expedição autorizada de certificados, certidões, públicas formas e outros documentos análogos relativos a registos e documentos arquivados na instituição;\n\nc) Efectuar os reconhecimentos por semelhança e presencial da autoria da letra e assinatura;\n\nd) Intervir em actos jurídicos extra-judiciais e a celebração de contratos em que a SCML seja outorgante, quando para o efeito se não exija a intervenção de notário.\n\n2 - Nos casos das alíneas b), c) e d) do número anterior deve ser sempre aposto o selo branco da SCML sobre a assinatura do secretário-geral, sem o que os respectivos documentos não terão a força probatória prevista na lei.\n\n3 - A emissão dos documentos referidos nos números anteriores deve ser efectuada nos prazos legais."
+  },
+  "67115929": {
+   "fragment_id": "67118020",
+   "type": 1,
+   "heading": "Capítulo III — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do pessoal"
+  },
+  "67115930": {
+   "fragment_id": "67118021",
+   "type": 11,
+   "heading": "Artigo 39.º — Regime do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Regime do pessoal\n\n1 - Ao pessoal da SCML aplica-se o regime jurídico do contrato individual de trabalho e o regime geral da segurança social.\n\n2 - A SCML pode ser parte em instrumentos de regulamentação colectiva de trabalho."
+  },
+  "67115931": {
+   "fragment_id": "67118022",
+   "type": 11,
+   "heading": "Artigo 40.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Mobilidade\n\nOs trabalhadores do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou privadas, podem exercer funções na SCML, através do recurso aos instrumentos de mobilidade legalmente aplicáveis."
+  },
+  "67115932": {
+   "fragment_id": "67118023",
+   "type": 1,
+   "heading": "Capítulo IV — Do regime patrimonial e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Do regime patrimonial e financeiro"
+  },
+  "67115933": {
+   "fragment_id": "67118024",
+   "type": 11,
+   "heading": "Artigo 41.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Princípio geral\n\nA SCML dispõe de património próprio e a gestão financeira rege-se pelo disposto nos presentes estatutos."
+  },
+  "67115934": {
+   "fragment_id": "67118025",
+   "type": 11,
+   "heading": "Artigo 42.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Património\n\n1 - O património da SCML é constituído pela universalidade dos seus bens, direitos, garantias ou obrigações de conteúdo económico e rege-se pelas normas de direito privado.\n\n2 - A aquisição de bens a título gratuito depende de autorização tutelar quando dela resultem encargos que excedam o valor actual ou potencial dos bens adquiridos.\n\n3 - A alienação, cessão e oneração dos bens da SCML, bem como a locação dos que lhe pertençam ou de que careça para os seus fins, regem-se pelas normas de direito privado, sem prejuízo do disposto na alínea l) do n.º 1 do artigo 9.º\n\n4 - Os bens da SCML constam de um cadastro organizado pelo DGIP segundo regras a aprovar pela mesa."
+  },
+  "67115935": {
+   "fragment_id": "67118026",
+   "type": 11,
+   "heading": "Artigo 43.º — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Receitas e despesas\n\n1 - Constituem receitas da SCML:\n\na) O produto das heranças, legados e doações ou donativos de que venha a beneficiar;\n\nb) A parte dos resultados líquidos e financeiros de exploração dos jogos que for legalmente fixada;\n\nc) As comparticipações e contribuições que possam ser devidas pelos utentes dos seus serviços;\n\nd) As resultantes da venda de bens, produtos e da prestação de serviços;\n\ne) Os rendimentos provenientes da gestão do seu património, incluindo o produto da alienação ou oneração dos seus bens, o rendimento das suas aplicações financeiras, depósitos e outras operações bancárias, bem como o resultado de explorações económicas directas e a participação nos lucros das sociedades e outros empreendimentos;\n\nf) O produto de empréstimos;\n\ng) O valor dos prémios prescritos;\n\nh) As dotações, subsídios ou comparticipações que lhe forem atribuídas pelo Estado ou por outras entidades públicas;\n\ni) Quaisquer outras receitas legalmente permitidas.\n\n2 - Constituem despesas da SCML:\n\na) Todas as que forem necessárias ao funcionamento e à prossecução das suas atribuições;\n\nb) Quaisquer outras despesas legalmente permitidas.\n\n3 - A SCML obriga-se em operações bancárias e financeiras pela assinatura de dois membros da mesa ou pela assinatura de um membro da mesa e de um mandatário, com poderes para o efeito."
+  },
+  "67115936": {
+   "fragment_id": "67118027",
+   "type": 11,
+   "heading": "Artigo 44.º — Orçamento e contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Orçamento e contas\n\n1 - O orçamento anual, que compreende o orçamento corrente e de investimentos, é remetido à tutela, para aprovação, com os pareceres dos órgãos competentes até 31 de Outubro do ano anterior a que diz respeito.\n\n2 - O relatório e as contas relativas à execução dos seus orçamentos são submetidos à aprovação da tutela, com os pareceres dos órgãos competentes até 31 de Março.\n\n3 - O orçamento e o relatório e as contas do DJ figuram como anexo aos instrumentos referidos nos números anteriores.\n\n4 - As regras contabilísticas aplicadas pela SCML são as estabelecidas no plano oficial de contas (POC), com as adaptações inerentes às especificidades da sua actividade, aprovadas pela mesa."
+  },
+  "67115937": {
+   "fragment_id": "67118028",
+   "type": 1,
+   "heading": "Capítulo V — Da Irmandade da Misericórdia e de São Roque",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Da Irmandade da Misericórdia e de São Roque"
+  },
+  "67115938": {
+   "fragment_id": "67118029",
+   "type": 11,
+   "heading": "Artigo 45.º — Irmandade da Misericórdia e de São Roque",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Irmandade da Misericórdia e de São Roque\n\n1 - À Irmandade da Misericórdia e de São Roque, que goza de personalidade e regime jurídico canónico, e conserva a sua sede na Igreja da SCML, compete, para além da tutela do espírito cristão que enforma a acção da SCML e que exerce através da sua presença no conselho institucional:\n\na) Assegurar o culto da religião católica nas igrejas e capelas pertencentes à SCML e, nomeadamente, na Igreja de São Roque;\n\nb) Promover todos os actos de assistência religiosa católica nos estabelecimentos da SCML, designadamente sacramentos e funerais;\n\nc) Apoiar e colaborar com a mesa nos objectivos prosseguidos pela SCML, designadamente quanto às manifestações de âmbito histórico-cultural que tenham lugar nos espaços religiosos e actividades assistenciais que lhe sejam confiadas.\n\n2 - Para cumprimento das suas atribuições, a mesa facultará à Irmandade da Misericórdia e de São Roque as verbas necessárias, devendo esta, anualmente, apresentar o relatório das actividades e contas respectivas."
+  },
+  "67115939": {
+   "fragment_id": "67118010",
+   "type": 11,
+   "heading": "Artigo 30.º — Júri dos concursos",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 30.º — Júri dos concursos\n\n1 - O júri dos vários jogos sociais e apostas mútuas é constituído por três membros, a saber:\n\na) O administrador executivo, ou um seu delegado, que preside;\n\nb) Um representante da autoridade administrativa, a nomear pelo membro do Governo responsável pela área da administração interna;\n\nc) Um representante da Inspecção-Geral de Finanças.\n\n2 - Cada membro do júri dos concursos tem um substituto legal, que actua nas suas faltas e impedimentos e é indicado pela mesma entidade que designa os representantes efectivos.\n\n3 - As condições e quantitativo das gratificações (senha de presença) dos membros do júri dos concursos são fixados por despacho conjunto da tutela e do Ministro das Finanças, sob proposta da mesa.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "67115940": {
+   "fragment_id": "67118013",
+   "type": 11,
+   "heading": "Artigo 33.º — Júri das extracções",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 33.º — Júri das extracções\n\n1 - O júri de extracções destinadas ao apuramento de números com direito aos prémios estabelecidos nos planos prévia e superiormente aprovados por cada uma das modalidades de lotaria em exploração, é constituída por três membros, a saber:\n\na) O administrador executivo, ou um seu delegado, que preside;\n\nb) Um representante da autoridade administrativa, a nomear pelo membro do Governo responsável pela área da administração interna;\n\nc) Um representante da Inspecção-Geral de Finanças.\n\n2 - Cada membro do júri das extracções tem um substituto legal, que actua nas suas faltas e impedimentos e é indicado pela mesma entidade que designa os representantes efectivos.\n\n3 - É obrigatória a presença de pelo menos dois dos membros do júri ou seus substitutos nos actos das extracções.\n\n4 - No final da extracção, após a conferência da lista oficial, será lavrada acta, a assinar por todos os membros do júri.\n\n5 - Das decisões do júri das extracções apenas há recurso para o júri de reclamações.\n\n6 - As condições e o quantitativo das gratificações dos membros do júri das extracções são fixados por despacho conjunto da tutela e do Ministro das Finanças, sob proposta da mesa.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "67115941": {
+   "fragment_id": "67118015",
+   "type": 11,
+   "heading": "Artigo 35.º — Júri das reclamações",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 35.º — Júri das reclamações\n\n1 - Para todas as modalidades de apostas mútuas e de lotarias em exploração apenas há um júri de reclamações, que tem a seguinte composição:\n\na) Um magistrado judicial designado pelo Ministro da Justiça, que preside, com voto de qualidade em caso de empate nas votações;\n\nb) Um representante da autoridade administrativa, a nomear pelo membro do Governo responsável pela área da administração interna;\n\nc) Um representante da Inspecção-Geral de Finanças;\n\nd) Um representante da SCML, a designar pela mesa.\n\n2 - Deste júri não pode fazer parte qualquer elemento que componha os restantes júris.\n\n3 - As condições e o quantitativo das gratificações dos membros do júri de reclamações são fixados por despacho conjunto da tutela e do Ministro das Finanças, sob proposta da mesa.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "67194379": {
+   "fragment_id": "67118007",
+   "type": 11,
+   "heading": "Artigo 27.º — Atribuições e competências",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 67/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2015-67098360), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 27.º — Atribuições e competências\n\n1 - O departamento de jogos (DJ) tem por objecto a exploração dos jogos sociais do Estado e de quaisquer outros jogos autorizados que sejam cometidos à SCML.\n\n2 - O DJ dispõe de orçamento e conta próprios, anexos ao orçamento e à conta da SCML.\n\n3 - Sem prejuízo de exercer as demais competências atribuídas ao departamento por lei e as que lhe sejam delegadas pelo provedor e pela mesa, são, nomeadamente, competências do DJ:\n\na) Elaborar o plano de actividades e o orçamento;\n\nb) Elaborar o relatório e as contas resultantes da sua actividade;\n\nc) Explorar os jogos sociais do Estado, designadamente as lotarias e os concursos de prognósticos ou apostas mútuas;\n\nd) Estabelecer as condições essenciais a que deve obedecer a habilitação aos prémios das extracções das lotarias ou a participação nas apostas mútuas ou concursos de prognósticos e outros jogos sociais, a aprovar pela tutela através de portaria;\n\ne) Aprovar os planos para cada uma das extracções das lotarias fixando o número de bilhetes a emitir, o valor da venda de cada fracção, as categorias de prémios, o número dos mesmos, de cada categoria, bem como o valor a atribuir a cada um deles;\n\nf) Definir as regras a que deve obedecer a exploração dos concursos de prognósticos, apostas mútuas e outros jogos sociais, e designadamente fixar o preço da aposta de cada uma das modalidades em exploração, bem como o valor percentual para prémios a retirar da receita ilíquida apurada em cada concurso, a aprovar pela tutela através de portaria;\n\ng) Estabelecer o número de prémios a vigorar para cada modalidade de aposta mútua ou jogo social em exploração, a aprovar pela tutela através de portaria;\n\nh) Estruturar organicamente os serviços de modo a conseguir um normal funcionamento técnico-administrativo das diferentes operações respeitantes às extracções das lotarias e aos concursos;\n\ni) Elaborar para cada modalidade de lotarias, de apostas mútuas e demais jogos sociais do Estado, o respectivo regulamento geral, a aprovar pela tutela através de portaria;\n\nj) Determinar as modalidades desportivas a incluir nos concursos de apostas mútuas desportivas;\n\nl) Definir a rede de postos de venda a estabelecer em todo o País para os jogos sociais do Estado, regulamentando a sua actividade e fixando as respectivas remunerações;\n\nm) Habilitar a mesa com as informações e pareceres sobre qualquer modalidade de jogos cuja exploração venha a ser proposta à SCML;\n\nn) Apreciar os processos de contra-ordenação que vierem a ser instaurados respeitantes à exploração ilícita de lotarias e apostas mútuas ou outros jogos e actividades similares com vista à aplicação das penalidades previstas na lei;\n\no) Propor à mesa a filiação em organismos internacionais de lotarias e outros jogos sociais.\n\np) Proceder à consulta de bases de dados públicas com vista a obter informação sobre a identificação, idade e número de identificação fiscal das pessoas individuais que se registem no seu sítio na Internet ou que realizem apostas de base territorial, nos termos de protocolo a celebrar com as entidades públicas detentoras das bases de dados, no respeito pela legislação relativa à proteção de dados pessoais.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 67/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2015-67098360), em vigor a partir de 2015-06-28"
+  },
+  "67194380": {
+   "fragment_id": "67118011",
+   "type": 11,
+   "heading": "Artigo 31.º — Competência do júri dos concursos",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 67/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2015-67098360), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 31.º — Competência do júri dos concursos\n\nCompete ao júri dos concursos:\n\na) Receber e guardar, em segurança, as cópias dos registos das apostas mútuas efetuadas através do sistema de registo e validação informático e lavrar ata desta operação;\n\nb) Proceder ao reconhecimento dos direitos a prémio, através de confrontação entre o número de registo e validação informáticos e número de acertos verificados nas apostas constantes dos suportes informáticos guardados em segurança e a informação relativa a apostas apuradas no escrutínio de prémios, disponibilizada pelo DJ;\n\nc) Superintender nos sorteios que decorrerem das normas regulamentares dos quais deverá ser elaborada a respectiva acta.\n\nd) Fiscalizar a segurança e a integridade dos registos das apostas desportivas à cota de base territorial efetuadas através do sistema de registo e validação informático e lavrar ata destas operações.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 67/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2015-67098360), em vigor a partir de 2015-06-28"
+  },
+  "116125929": {
+   "fragment_id": "67117980",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência da mesa",
+   "in_force_from": "2018-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 53/2018 - Diário da República n.º 159/2018, Série I de 2018-08-20](https://diariodarepublica.pt/dr/detalhe/lei/53-2018-116108099), em vigor a partir de 2018-08-21"
+   ],
+   "markdown": "###### Artigo 9.º — Competência da mesa\n\n1 - Compete à mesa:\n\na) Elaborar os planos de actividades e orçamentos e submetê-los à aprovação da tutela, até 31 de Outubro, acompanhados dos pareceres do conselho institucional e do conselho de jogos, emitidos no âmbito das respectivas competências;\n\nb) Elaborar o relatório e as contas de gerência e submetê-los à aprovação da tutela, até 31 de Março, acompanhados dos pareceres do conselho de auditoria e do conselho de jogos, emitidos no âmbito das respectivas competências;\n\nc) Definir as orientações e os objectivos a atingir pelos departamentos e serviços e elaborar os regulamentos e as normas internas necessários ao cabal funcionamento da SCML;\n\nd) Criar, transformar e extinguir os estabelecimentos da SCML e regulamentar a sua organização e funcionamento;\n\ne) Celebrar acordos de cooperação com outras entidades;\n\nf) Contratar pessoal, de acordo com a legislação aplicável, e proceder à sua afectação pelos departamentos, serviços e estabelecimentos em função das necessidades;\n\ng) Autorizar a aquisição de bens e serviços, de acordo com a legislação aplicável;\n\nh) Elaborar, quando tal se mostre necessário, proposta de contracção de empréstimos a submeter à aprovação da tutela, acompanhada do parecer do conselho de auditoria;\n\ni) Criar ou participar na constituição de pessoas colectivas, quando tal se mostre adequado à prossecução das suas atribuições, obtida a autorização da tutela;\n\nj) Nomear os representantes para os órgãos sociais das pessoas colectivas participadas pela SCML;\n\nl) Adquirir, alienar e onerar bens imóveis da SCML, após autorização da tutela;\n\nm) Realizar investimentos estratégicos e estruturantes, incluindo aqueles que ditem um envolvimento de representantes da Santa Casa da Misericórdia de Lisboa na administração ou nos órgãos sociais de instituições que, direta ou indiretamente, desenvolvem atividade noutros setores ou aqueles que envolvam um volume superior a 5 % do valor do orçamento anual, obtida a autorização da tutela;\n\nn) Autorizar o recebimento de donativos;\n\no) Autorizar a cobrança de receitas e a realização de despesas;\n\np) Aplicar sanções disciplinares nos termos legais;\n\nq) Exercer os demais poderes que lhe forem atribuídos pela lei e pelos presentes estatutos ou que, neles estando previstos, não sejam da competência de outros órgãos.\n\n2 - Sob proposta do provedor, a mesa pode delegar competências para a realização de quaisquer dos actos necessários à prossecução das suas atribuições em um ou mais dos seus membros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 53/2018 - Diário da República n.º 159/2018, Série I de 2018-08-20](https://diariodarepublica.pt/dr/detalhe/lei/53-2018-116108099), em vigor a partir de 2018-08-21"
+  }
+ }
+}

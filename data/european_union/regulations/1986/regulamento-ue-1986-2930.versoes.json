@@ -1,0 +1,227 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31986R2930:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986R2930-20170720",
+ "dre_path": null,
+ "source_lastmod": "2017-07-20",
+ "versions": [
+  {
+   "date": "1986-09-25",
+   "future": false,
+   "celex": "31986R2930",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2e574e5476b3035b",
+    "a074fa59a369fdc9",
+    "8da4f35aa87b2bc5",
+    "5472e0dab8214402",
+    "6f6e08357c89ce50",
+    "bd46590c3945cb90",
+    "2a226b3999ba42af",
+    "5f70038a610a1534"
+   ]
+  },
+  {
+   "date": "1994-12-29",
+   "future": false,
+   "celex": "01986R2930-19941229",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º — Disposição geral",
+    "Adita Artigo 2.º — Comprimento",
+    "Adita Artigo 3.º — Largura",
+    "Adita Artigo 4.º — Arqueação",
+    "Adita Artigo 5.º — Potência do motor",
+    "Adita Artigo 6.º — Data de entrada em serviço",
+    "Adita Artigo 7.º — Disposições finais",
+    "Adita ANEXO — Novos navios < 15 metros de comprimento de fora a fora",
+    "Suprime Artigo 1º — Disposição geral",
+    "Suprime Artigo 2º — Comprimento",
+    "Suprime Artigo 3º — Largura",
+    "Suprime Artigo 4º — Arqueação",
+    "Suprime Artigo 5º — Potência do motor",
+    "Suprime Artigo 6º — Data de entrada em serviço",
+    "Suprime Artigo 7º — Disposições finais"
+   ],
+   "fragments": [
+    "0d9e1987a62c985e",
+    "2c7045ba9c16375f",
+    "eced2e1939d3e203",
+    "4a0f519b5de8e34a",
+    "485627c7a4286d48",
+    "1e09e149b74f0ecb",
+    "cdd22fe399639b7c",
+    "3a100a93908019d3",
+    "b62a870503f516e5"
+   ]
+  },
+  {
+   "date": "2017-07-20",
+   "future": false,
+   "celex": "01986R2930-20170720",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Disposição geral",
+    "Suprime Artigo 2.º — Comprimento",
+    "Suprime Artigo 3.º — Largura",
+    "Suprime Artigo 4.º — Arqueação",
+    "Suprime Artigo 5.º — Potência do motor",
+    "Suprime Artigo 6.º — Data de entrada em serviço",
+    "Suprime Artigo 7.º — Disposições finais",
+    "Suprime ANEXO — Novos navios < 15 metros de comprimento de fora a fora"
+   ],
+   "fragments": [
+    "d9e98fe31a6bd38f"
+   ]
+  }
+ ],
+ "fragments": {
+  "2e574e5476b3035b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2930/86 do Conselho de 22 de Setembro de 1986 que define as características dos navios de pesca** *Jornal Oficial nº L 274 de 25/09/1986 p. 0001 - 0002 Edição especial finlandesa: Capítulo 4 Fascículo 2 p. 0126 Edição especial sueca: Capítulo 4 Fascículo 2 p. 0126*\n\n*****\n\nREGULAMENTO (CEE) Nº 2930/86 DO CONSELHO\n\nde 22 de Setembro de 1986\n\nque define as características dos navios de pesca\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nConsiderando que se faz referência, no âmbito da política comum da pesca, às características dos navios de pesca, tais como comprimento, largura, arqueação, data de entrada em serviço e potência do motor;\n\nConsiderando que é essencial utilizar regras idênticas para a determinação das características dos navios de pesca, com vista a uniformizar as condições de exercício da actividade na Comunidade;\n\nConsiderando que as definições adoptadas devem, na medida do possível, reflectir as definições das características dos navios actualmente aplicadas nos Estados-membros; que a acção da Comunidade nesse domínio deve, portanto, basear-se nas iniciativas já empreendidas pelas organizações internacionais especializadas;\n\nConsiderando que a Convenção Internacional de Torremolinos sobre a Segurança dos Navios de Pesca (1977), elabroada sob a égide da Organização Marítima Internacional (OMI), já foi ratificada por vários Estados-membros e que deve ser ratificada pelos outros Estados-membros, nos termos da Recomendação 80/907/CEE (1);\n\nConsiderando que a Convenção Internacional sobre a Arqueação dos Navios elaborada em Londres em 1969 sob a égide da referida organização já foi ratificada por todos os Estados-membros com excepção do Grão-Ducado do Luxemburgo e da República Portuguesa;\n\nConsiderando que a Organização Internacional de Normalização estabeleceu normas em matéria de motores de combustão interna que já são em grande parte aplicadas nos Estados-membros;\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a074fa59a369fdc9": {
+   "fragment_id": "Artigo 1º — Disposição geral",
+   "type": "artigo",
+   "heading": "Artigo 1º — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Disposição geral\n\nAs definições das características dos navios de pesca adoptadas pelo presente regulamento aplicam-se a toda a regulamentação comunitária relativa à pesca."
+  },
+  "8da4f35aa87b2bc5": {
+   "fragment_id": "Artigo 2º — Comprimento",
+   "type": "artigo",
+   "heading": "Artigo 2º — Comprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Comprimento\n\n1. O comprimento de um navio corresponde ao comprimento de fora a fora, definido como a distância medida em linha recta da extremidade anterior da proa até à extremidade posterior da popa.\n\nPara efeitos desta definição:\n\na) A proa inclui a estrutura estanque do casco, o castelo, a roda e a borda falsa de proa, se estiver fixada, com exclusão dos gurupés e da balaustrada;\n\nb) A popa inclui a estrutura estanque do casco, o painel de popa, o castelo de popa, a rampa de arrasto e a borda falsa, com exclusão da balaustrada, dos turcos e paus de carga, do equipamento de propulsão, dos lemes e dos aparelhos de governo, bem com das escadas e plataformas de mergulho.\n\nO comprimento de fora a fora mede-se em metros, com aproximação a uma décima.\n\n2. Na regulamentação comunitária, o comprimento entre perpendiculares é definido pela distância medida entre a perpendicular avante e a perpendicular à ré tal como definidas na Convenção Internacional sobre a Segurança dos Navios de Pesca.\n\nO comprimento entre perpendiculares mede-se em metros, com aproximação às centésimas."
+  },
+  "5472e0dab8214402": {
+   "fragment_id": "Artigo 3º — Largura",
+   "type": "artigo",
+   "heading": "Artigo 3º — Largura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Largura\n\nA largura de um navio corresponde à largura de fora a fora, tal como definida no Anexo I da Convenção Internacional sobre a Arqueação dos Navios.\n\nA largura de fora a fora mede-se em metros, com aproximação às centésimas."
+  },
+  "6f6e08357c89ce50": {
+   "fragment_id": "Artigo 4º — Arqueação",
+   "type": "artigo",
+   "heading": "Artigo 4º — Arqueação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Arqueação\n\n1. A arqueação de um navio equivale à arqueação bruta tal com definida no Anexo I da Convenção Internacional sobre a Arqueação dos Navios.\n\n2. Na regulamentação comunitária, a arqueação líquida corresponde à definição dada no Anexo I acima referido."
+  },
+  "bd46590c3945cb90": {
+   "fragment_id": "Artigo 5º — Potência do motor",
+   "type": "artigo",
+   "heading": "Artigo 5º — Potência do motor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Potência do motor\n\n1. A potência do motor equivale ao total da potência contínua máxima que pode ser obtida em qualquer condição de funcionamento do navio ao nível do elemento de saída de cada motor e que pode servir para a propulsão do navio, através de um dispositivo mecânico, eléctrico, hidráulico ou outro. No entanto, se o motor tiver um redutor incorporado, a potência mede-se no elemento da saída da ligação do redutor.\n\nNão deve fazer-se qualquer dedução para as máquinas auxiliares accionadas por esses motores.\n\nA unidade de potência do motor exprime-se em Kilowatts (kw).\n\n2. A potência contínua do motor define-se nos termos das especificações adoptadas pela Organização Internacional de Normalização na sua norma internacional recomendada ISO 3046/1, segunda edição, de Outubro de 1981.\n\n3. As alterações necessários para adaptação ao progresso técnico das especificações referidas no nº 2 são adoptadas nos termos do procedimento fixado no artigo 14º do Regulamento (CEE) nº 170/83 (1)."
+  },
+  "2a226b3999ba42af": {
+   "fragment_id": "Artigo 6º — Data de entrada em serviço",
+   "type": "artigo",
+   "heading": "Artigo 6º — Data de entrada em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Data de entrada em serviço\n\nA data de entrada em serviço corresponde à data da primeira emissão de um certificado oficial de segurança.\n\nNa falta de um certificado oficial de segurança, a data de entrada em serviço corresponde à data da primeira inscrição num registo oficial dos navios de pesca.\n\nNo entanto, para os navios de pesca entrados ao serviço antes da data de entrada em vigor do presente regulamento, a data de entrada em serviço corresponde à data da primeira inscrição num registo oficial de navios de pesca."
+  },
+  "5f70038a610a1534": {
+   "fragment_id": "Artigo 7º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 7º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Disposições finais\n\n1. O presente regulamento entra em vigor no primeiro dia do terceiro mês seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\n2. Contudo, os artigo 2º, 3º, 4º e 5º só serão aplicáveis a partir de 18 de Julho de 1994 às características dos navios que tenham entrado em serviço antes da entrada em vigor do presente regulamento, com excepção das características desses navios que tenham sido alteradas entre a entrada em vigor do presente regulamento e 18 de Julho de 1994.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 22 de Setembro e 1986.\n\nPelo Conselho\n\nO Presidente\n\nM. JOPLING\n\n(1) JO nº C 356 de 3. 12. 1985, p. 64.\n\n(2) JO nº C 88 de 14. 4. 1986, p. 103.\n\n(3) JO nº L 259 de 2. 10. 1980, p. 29.\n\n(1) JO nº L 24 de 27. 1. 1983, p. 1."
+  },
+  "0d9e1987a62c985e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1986R2930 — PT — 05.01.1995 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R2930:PT:NOT) [REGULAMENTO (CEE) N.o 2930/86 DO CONSELHO de 22 de Setembro de 1986 que define as características dos navios de pesca](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R2930:PT:NOT) (JO L 274, 25.9.1986, p.1)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R3259:PT:NOT) | [Regulamento (CE) n.o 3259/94 do Conselho de 22 de Dezembro de 1994](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R3259:PT:NOT) | L 339 | 11 | 29.12.1994 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R2930:PT:NOT)\n\nREGULAMENTO (CEE) N.o 2930/86 DO CONSELHO\n\nde 22 de Setembro de 1986\n\nque define as características dos navios de pesca\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#E0002)),\n\nConsiderando que se faz referência, no âmbito da política comum da pesca, às características dos navios de pesca, tais como comprimento, largura, arqueação, data de entrada em serviço e potência do motor;\n\nConsiderando que é essencial utilizar regras idênticas para a determinação das características dos navios de pesca, com vista a uniformizar as condições de exercício da actividade na Comunidade;\n\nConsiderando que as definições adoptadas devem, na medida do possível, reflectir as definições das características dos navios actualmente aplicadas nos Estados-membros; que a acção da Comunidade nesse domínio deve, portanto, basear-se nas iniciativas já empreendidas pelas organizações internacionais especializadas;\n\nConsiderando que a Convenção Internacional de Torremolinos sobre a Segurança dos Navios de Pesca (1977), elabroada sob a égide da Organização Marítima Internacional (OMI), já foi ratificada por vários Estados-membros e que deve ser ratificada pelos outros Estados-membros, nos termos da Recomendação 80/907/CEE ([3](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#E0003));\n\nConsiderando que a Convenção Internacional sobre a Arqueação dos Navios elaborada em Londres em 1969 sob a égide da referida organização já foi ratificada por todos os Estados-membros com excepção do Grão-Ducado do Luxemburgo e da República Portuguesa;\n\nConsiderando que a Organização Internacional de Normalização estabeleceu normas em matéria de motores de combustão interna que já são em grande parte aplicadas nos Estados-membros;\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "2c7045ba9c16375f": {
+   "fragment_id": "Artigo 1.º — Disposição geral",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Disposição geral\n\nAs definições das características dos navios de pesca adoptadas pelo presente regulamento aplicam-se a toda a regulamentação comunitária relativa à pesca."
+  },
+  "eced2e1939d3e203": {
+   "fragment_id": "Artigo 2.º — Comprimento",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Comprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comprimento\n\n1. O comprimento de um navio corresponde ao comprimento de fora a fora, definido como a distância medida em linha recta da extremidade anterior da proa até à extremidade posterior da popa.\n\nPara efeitos desta definição:\n\na) A proa inclui a estrutura estanque do casco, o castelo, a roda e a borda falsa de proa, se estiver fixada, com exclusão dos gurupés e da balaustrada;\n\nb) A popa inclui a estrutura estanque do casco, o painel de popa, o castelo de popa, a rampa de arrasto e a borda falsa, com exclusão da balaustrada, dos turcos e paus de carga, do equipamento de propulsão, dos lemes e dos aparelhos de governo, bem com das escadas e plataformas de mergulho.\n\nO comprimento de fora a fora mede-se em metros, com aproximação a uma décima\n\n2. Na regulamentação comunitária, o comprimento entre perpendiculares é definido pela distância medida entre a perpendicular avante e a perpendicular à ré tal como definidas na Convenção Internacional sobre a Segurança dos Navios de Pesca.\n\nO comprimento entre perpendiculares mede-se em metros, com aproximação às centésimas."
+  },
+  "4a0f519b5de8e34a": {
+   "fragment_id": "Artigo 3.º — Largura",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Largura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Largura\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R3259:PT:NOT)\n\nA largura de um navio corresponde à largura de fora a fora, definida no anexo I da Convenção internacional sobre a arqueação dos navios, adiante designada «convenção de 1969».\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R2930:PT:NOT)\n\nA largura de fora a fora mede-se em metros, com aproximação às centésimas."
+  },
+  "485627c7a4286d48": {
+   "fragment_id": "Artigo 4.º — Arqueação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Arqueação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Arqueação\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R3259:PT:NOT)\n\na) A arqueação de um navio de pesca é a arqueação bruta definida no anexo I da convenção de 1969;\n\nb) A arqueação bruta de todos os navios de pesca novos com um comprimento de fora a fora igual ou superior a 15 metros, e cuja construção tenha sido iniciada em 18 de Julho de 1994 ou depois, será determinada nos termos do anexo I da convenção de 1969;\n\nc) A arqueação bruta dos navios de pesca existentes ou novos, com um comprimento de fora a fora inferior a 15 metros, será determinada de acordo com a fórmula incluída no anexo do presente regulamento;\n\nd) A arqueação bruta de todos os navios existentes, com um comprimento entre perpendiculares igual ou superior a 24 metros, será determinada nos termos do anexo I da convenção de 1969, antes de 18 de Julho de 1994.\n\nEm relação aos navios desta categoria que não efectuam viagens internacionais na acepção da convenção de 1969 e que, por conseguinte, estejam dispensados da observância dessa convenção, esse prazo será prorrogado até 31 de Dezembro de 1994;\n\ne) Sem prejuízo dos n.os 2 e 3, a arqueação bruta dos navios existentes, com um comprimento de fora a fora superior a 15 metros e inferior a 24 metros entre perpendiculares, pode ser estimada de acordo com o método incluído no anexo I do presente regulamento, em circunstâncias em que a Comissão considere que esses valores são suficientemente rigorosos.\n\nContudo, os Estados-membros determinarão a arqueação dos navios desta categoria nos termos do anexo I da convenção de 1969 nos seguintes casos:\n\n— a pedido do proprietário do navio,\n\n— sempre que o proprietário do navio apresente, para esse navio, um pedido de contribuição financeira que seja objecto de ajudas financeiras comunitárias, sempre que essas ajudas dependam da arqueação. As ajudas comunitárias concedidas a título do Regulamento (CE) n.o 3699/93 do Conselho, de 21 de Dezembro de 1993, que define os critérios e condições das intervenções comunitárias com finalidade estrutural no sector das pescas, da aquicultura e da transformação e comercialização dos seus produtos ([4](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#E0004)) serão, todavia, concretizadas nos termos das disposições em vigor desse regulamento. Até 1 de Janeiro de 2004, a referência à unidade de arqueação expressa em TAB poderá ser conservada na execução dos regimes de ajuda relativos aos artigos 8.o e 9.o do Regulamento (CE) n.o 3699/93, desde que os dados relativos a essa unidade de medida tenham sido comunicados à Comissão, antes de 18 de Julho de 1994, no âmbito dos procedimentos previstos no Regulamento (CE) n.o 109/94 da Comissão, de 19 de Janeiro de 1994, relativo ao ficheiro comunitário dos navios de pesca ([5](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#E0005)),\n\n— sempre que as autoridades competentes do Estado-membro considerem que a alteração ou a modificação das características do navio impliquem uma variação substancial da arqueação bruta.\n\nOs Estados-membros assegurarão que os restantes navios desta categoria sejam objecto de nova medição, antes de 1 de Janeiro de 2004, nos termos do anexo I da convenção de 1969.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R2930:PT:NOT)\n\n2. Na regulamentação comunitária, a arqueação líquida corresponde à definição dada no anexo I acima referido."
+  },
+  "1e09e149b74f0ecb": {
+   "fragment_id": "Artigo 5.º — Potência do motor",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Potência do motor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Potência do motor\n\n1. A potência do motor equivale ao total da potência contínua máxima que pode ser obtida em qualquer condição de funcionamento do navio ao nível do elemento de saída de cada motor e que pode servir para a propulsão do navio, através de um dispositivo mecânico, eléctrico, hidráulico ou outro. No entanto, se o motor tiver um redutor incorporado, a potência medese no elemento da saída da ligação do redutor.\n\nNão deve fazer-se qualquer dedução para as máquinas auxiliares accionadas por esses motores.\n\nA unidade de potência do motor exprime-se em kilowatts (kW).\n\n2. A potência contínua do motor define-se nos termos das especificações adoptadas pela Organização Internacional de Normalização na sua norma internacional recomendada ISO 3046/1, segunda edição, de Outubro de 1981.\n\n3. As alterações necessárias para adaptação ao progresso técnico das especificações referidas no n.o 2 são adoptadas nos termos do procedimento fixado no artigo 14. do Regulamento (CEE) n.o 170/83 ([6](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#E0006))."
+  },
+  "cdd22fe399639b7c": {
+   "fragment_id": "Artigo 6.º — Data de entrada em serviço",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Data de entrada em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Data de entrada em serviço\n\nA data de entrada em serviço corresponde à data da primeira emissão de um certificado oficial de segurança.\n\nNa falta de um certificado oficial de segurança, a data de entrada em serviço corresponde à data da primeira inscrição num registo oficial dos navios de pesca.\n\nNo entanto, para os navios de pesca entrados ao serviço antes da data de entrada em vigor do presente regulamento, a data de entrada em serviço corresponde à data da primeira inscrição num registo oficial de navios de pesca."
+  },
+  "3a100a93908019d3": {
+   "fragment_id": "Artigo 7.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições finais\n\n1. O presente regulamento entra em vigor no primeiro dia do terceiro mês seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\n2. Contudo, os artigos 2.o, 3.o, 4.o e 5.o só serão aplicáveis a partir de 18 de Julho de 1994 às características dos navios que tenham entrado em serviço antes da entrada em vigor do presente regulamento, com excepção das características desses navios que tenham sido alteradas entre a entrada em vigor do presente regulamento e 18 de Julho de 1994.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31994R3259:PT:NOT)"
+  },
+  "b62a870503f516e5": {
+   "fragment_id": "ANEXO — Novos navios < 15 metros de comprimento de fora a fora",
+   "type": "divisao",
+   "heading": "ANEXO — Novos navios < 15 metros de comprimento de fora a fora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Novos navios < 15 metros de comprimento de fora a fora\n\nA tonelagem bruta dos novos navios de pesca com um comprimento de fora a fora inferior a 15 metros é definida pela fórmula:\n\nGT = K1 · V\n\nem que K1 = 0,2 + 0,02 log10 V\n\net V é o volume, obtido por:\n\nV = a1 (Loa · B1 · T1)\n\nem que:\n\nLoa = comprimento de fora a fora [artigo 2.o do Regulamento (CEE) n.o 2930/86]\n\nB1 = largura en metros de acordo com a Convenção de 1969\n\nT1 = profundidade em metros de acordo com a Convenção de 1969\n\na1 = uma função de Loa\n\nNavios existentes < 15 metros de comprimento de fora a fora\n\nA tonelagem bruta dos navios de pesca existentes com um comprimento de fora a fora inferior a 15 metros é definida pela fórmula:\n\nGT = K1 · V\n\nem que V é o volume, obtido por:\n\nV = a2 (Loa · B1 · T1)\n\nem que:\n\nB1 = largura em metros\n\nT1 = profundidade em metros\n\na2 = uma função de Loa\n\nNavios de 15 metros de comprimento de fora a fora e de 24 metros de comprimento entre perpendiculares\n\nA tonelagem bruta de navios de comprimento de fora a fora igual ou superior a 15 metros e de comprimento entre perpendiculares inferior a 24 metros é definida pela fórmula:\n\nGT = K1 · V\n\nem que V é o volume total incluso definido pela convenção de 1969.\n\nEm relação aos navios existentes, V poderá ser provisoriamente avaliado pela fórmula:\n\nV = a3 (Loa · B1 · T1)\n\nem que:\n\na3 = uma função de Loa, B1, T1e ano de construção.\n\nAs funções a 1, a2, e a3 serão determinadas com base em análises estatísticas de amostras agrupadas representativas das frotas dos Estados-membros. Estas serão mencionadas pormenorizadamente em conjunto com as definições das dimensões B1 e T1 e com normas pormenorizadas para a aplicação das fórmulas numa decisão da Comissão.\n\n([1](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#src.E0001)) JO n.o C 356 de 3. 12. 1985, p. 64.\n\n([2](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#src.E0002)) JO n.o C 88 de 14. 4. 1986, p. 103.\n\n([3](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#src.E0003)) JO n.o L 259 de 2. 10. 1980, p. 29.\n\n([4](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#src.E0004)) JO n.o L 346 de 31. 12. 1993, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#src.E0005)) JO n.o L 19 de 22. 1. 1994, p. 5.\n\n([6](http://publications.europa.eu/resource/cellar/14b5be9e-8202-4a30-8c20-c314b0f6af9e.0018.02/DOC_1#src.E0006)) JO n.o L 24 de 27. 1. 1983, p. 1."
+  },
+  "d9e98fe31a6bd38f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01986R2930 — PT — 20.07.2017 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31986R2930) [REGULAMENTO (CEE) N.º 2930/86 DO CONSELHO](http://publications.europa.eu/resource/celex/31986R2930) [de 22 de Setembro de 1986](http://publications.europa.eu/resource/celex/31986R2930) [que define as características dos navios de pesca](http://publications.europa.eu/resource/celex/31986R2930) (JO L 274, 25.9.1986, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) 2017/1130 do Parlamento Europeu e do Conselho de 14 de junho de 2017](http://publications.europa.eu/resource/celex/32017R1130) — L 169 — 1 — 30.6.2017"
+  }
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0023:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0023-20060101",
+ "dre_path": null,
+ "source_lastmod": "2006-01-01",
+ "versions": [
+  {
+   "date": "1992-05-14",
+   "future": false,
+   "celex": "31992L0023",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ec25894504b90f80",
+    "568340251817fbd9",
+    "6aa4190262ff4176",
+    "6dc6e95d513895e8",
+    "7543bfa73740f59f",
+    "6e1e6d14e86f96b6",
+    "e3dc10fcedeb1064",
+    "062c5b4160ebe8e8",
+    "654a9be7d1dd20d2",
+    "7533b90b10deac4f",
+    "9ef669e02a8b58d5",
+    "2689c92e6b1b6f61",
+    "56538b125e2de301"
+   ]
+  }
+ ],
+ "fragments": {
+  "ec25894504b90f80": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/23/CEE do Conselho, de 31 de Março de 1992, relativa aos pneumáticos dos veículos a motor e seus reboques bem como à respectiva instalação nesses veículos** *Jornal Oficial nº L 129 de 14/05/1992 p. 0095 - 0153 Edição especial finlandesa: Capítulo 13 Fascículo 22 p. 0136 Edição especial sueca: Capítulo 13 Fascículo 22 p. 0136*\n\nDIRECTIVA 92/23/CEE DO CONSELHO de 31 de Março de 1992 relativa aos pneumáticos dos veículos a motor e seus reboques bem como à respectiva instalação nesses veículos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o.A,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que importa adoptar medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas no qual será assegurada a livre circulação de mercadorias, pessoas, serviços e capitais;\n\nConsiderando que o método inteiramente harmonizado será essencial ao acabamento do mercado interno;\n\nConsiderando que se deverá utilizar este método na revisão da totalidade do processo de recepção CEE, tendo em conta o espírito da resolução do Conselho de 7 de Maio de 1985, relativa a uma nova abordagem em matéria de harmonização técnica e de normalização;\n\nConsiderando que os requisitos técnicos a satisfazer pelos veículos a motor e seus reboques nos termos das legislações nacionais abrangem os pneumáticos;\n\nConsiderando que esses requisitos diferem de um Estado-membro para outro; que daí resulta a necessidade de serem adoptados os mesmos requisitos por todos os Estados-membros, quer em complemento quer em substituição das suas regulamentações actuais, a fim, nomeadamente, de permitir a aplicação, para cada tipo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (4), com a última redacção que lhe foi dada pela Directiva 87/403/CE (5);\n\nConsiderando que as regras referentes aos pneumáticos devem establecer não só requisitos comuns relativos às suas características, mas também requisitos quanto ao equipamento dos veículos e seus reboques no que respeita aos pneus;\n\nConsiderando, consequentemente, que deve ser estabelecido um processo comum de concessão de uma marca CEE a qualquer tipo de pneumático que satisfaça as características e requisitos de ensaio comuns; que para garantir, a nível comunitário, a livre circulação de pneumáticos, a conformidade destes com os requisitos comuns é assegurada através da aposição, em cada pneumático, de uma marca CEE concedida ao fabricante de acordo com o processo acima mencionado; que qualquer Estado-membro pode, para verificar a conformidade dos pneumáticos com os requisitos comuns, efectuar controlos em qualquer momento; que, no caso de uma declaração de não conformidade, os Estados-membros tomarão as medidas necessárias para assegurar a conformidade dos pneumáticos com os requisitos; que essas medidas podem resultar na retirada da marca CEE acima mencionada;\n\nConsiderando que convém tomar em consideração os requisitos técnicos adoptados pela Comissão Económica para a Europa da ONU, através do seu Regulamento no. 30 («Uniform Provisions concerning the approval of pneumatic tyres for motor vehicles and their trailers») (6), na sua última versão, do seu Regulamento no. 54 («Uniform Provisions concerning the approval of pneumatic tyres for commercial vehicles and their trailers») (7) e do seu Regulamento no. 64 («Uniform Provisions concerning the approval of vehicles equipped with temporary-use spare-wheels/tyres») (8), anexos ao acordo de 20 de Março de 1958 respeitante à adopção de condições uniformes de homologação e ao reconhecimento recíproco da homologação de equipamentos e peças para veículos a motor;\n\nConsiderando que a aproximação das legislações nacionais relativas aos veículos a motor implica o reconhecimento recíproco pelos Estados-membros das verificações efectuadas por cada um deles com base nos requisitos comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "568340251817fbd9": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o.\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n- «pneumático», qualquer pneumático novo destinado ao equipamento dos veículos a que se aplica a Directiva 70/156/CEE do Conselho,\n\n- «veículo», qualquer veículo a que se aplique a Directiva 70/156/CEE,\n\n- «fabricante», o titular da firma ou marca dos veículos ou pneumáticos."
+  },
+  "6aa4190262ff4176": {
+   "fragment_id": "Artigo 2o.",
+   "type": "artigo",
+   "heading": "Artigo 2o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o.\n\n1. Os Estados-membros concederão a homologação CEE nos termos do anexo I a qualquer tipo de pneumático que satisfaça os requisitos do anexo II e atribuir-lhe-ão um número de homologação CEE de tipo, de acordo com o anexo I.\n\n2. Os Estados-membros concederão a recepção CEE no que se refere aos pneumáticos, nas condições previstas no anexo III, a qualquer veículo em que todos os pneumáticos (incluindo, caso exista, o sobresselente) cumpram os requisitos do anexo II e os requisitos respeitantes a veículos do anexo IV, e atribuir-lhe-ão um número de recepção CEE de veículo de acordo com o anexo III."
+  },
+  "6dc6e95d513895e8": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o.\n\nA autoridade competente de cada Estado-membro em matéria de homologação deve, no prazo de um mês a contar da emissão ou recusa de uma homologação CEE de um componente (pneumático) ou de um veículo, enviar uma cópia do respectivo certificado, segundo os modelos constantes dos apêndices ao anexo I e ao anexo III, aos outros Estados-membros e, caso lhe seja solicitado, enviar o relatório de ensaio de qualquer tipo de pneumático homologado."
+  },
+  "7543bfa73740f59f": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o.\n\nOs Estados-membros não podem proibir ou restringir a colocação no mercado de pneumáticos que ostentem a marca de homologação CEE."
+  },
+  "6e1e6d14e86f96b6": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o.\n\nOs Estados-membros não podem recusar conceder a recepção CEE ou a recepção nacional a um veículo por motivos relacionados com os seus pneumáticos se estes ostentarem a marca de homologação CEE e estiverem montados de acordo com os requisitos do anexo IV."
+  },
+  "e3dc10fcedeb1064": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o.\n\nOs Estados-membros não podem recusar ou proibir a venda, matrícula, entrada em serviço ou utilização de um veículo por motivos relacionados com os seus pneumáticos se estes ostentarem a marca de homologação CEE e estiverem montados de acordo com os requisitos do anexo IV."
+  },
+  "062c5b4160ebe8e8": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o.\n\n1. Se, com base numa justificação fundamentada, um Estado-membro considerar que um tipo de pneumático ou um tipo de veículo é perigoso, embora cumpra os requisitos da presente directiva, poderá proibir provisoriamente a comercialização desse produto no seu território ou sujeitá-la a condições especiais. Desse facto informará imediatamente os outros Estados-membros e a Comissão, indicando os fundamentos da sua decisão.\n\n2. A Comissão deverá, no prazo de seis semanas, consultar os Estados-membros em causa, após o que emitirá sem demora o seu parecer e tomará as medidas adequadas.\n\n3. Se a Comissão entender que são necessárias adaptações técnicas às directivas, tais adaptações devem ser adoptadas pela Comissão ou pelo Conselho, de acordo com o procedimento estabelecido no artigo 10o. Neste caso, o Estado-membro que tiver adoptado medidas de salvaguarda poderá mantê-las até à entrada em vigor das adaptações."
+  },
+  "654a9be7d1dd20d2": {
+   "fragment_id": "Artigo 8o.",
+   "type": "artigo",
+   "heading": "Artigo 8o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o.\n\n1. O Estado-membro que tiver concedido a homologação CEE de um veículo ou de um componente (pneumático), tomará as medidas necessárias para verificar se os modelos de produção estão conformes com o tipo homologado se tal for necessário e, eventualmente, em cooperação com as autoridades competentes dos outros Estados-membros. Para este efeito, esse Estado-membro pode, em qualquer altura, verificar a conformidade dos pneumáticos ou dos veículos com os requisitos da presente directiva. Tal verificação limitar-se-á a inspecções por amostragem.\n\n2. Se esse Estado-membro constatar que um número significativo de pneumáticos ou veículos com as mesmas marcas de homologação não estão conformes com o tipo homologado, tomará as medidas necessárias para assegurar a conformidade dos modelos de produção. Caso se constate uma falta de conformidade sistemática, essas medidas poderão incluir a retirada da homologação CEE. As referidas autoridades tomarão as mesmas medidas se forem informadas pelas autoridades competentes de outro Estado-membro de uma falta de conformidade da mesma natureza.\n\n3. As autoridades competentes dos Estados-membros notificar-se-ão mutuamente no prazo de um mês, utilizando para o efeito o impresso apresentado nos apêndices ao anexo I e ao anexo III, de qualquer retirada da uma homologação CEE e das razões de tal medida."
+  },
+  "7533b90b10deac4f": {
+   "fragment_id": "Artigo 9o.",
+   "type": "artigo",
+   "heading": "Artigo 9o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o.\n\nQualquer decisão tomada de acordo com as disposições adoptadas em execução da presente directiva no sentido de recusar ou retirar a homologação CEE de um pneumático ou de um veículo no que respeita à montagem dos respectivos pneumáticos que implique a proibição de comercialização ou de utilização deve indicar em pormenor as razões em que se fundamenta. Tais decisões deverão ser notificadas às partes interessadas, que deverão ser simultaneamente informadas dos recursos à sua disposição nos termos da legislação em vigor nos Estados-membros e dos prazos de que dispõem para a interposição desses recursos."
+  },
+  "9ef669e02a8b58d5": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o.\n\nAs alterações necessárias para adaptar ao progresso técnico os requsitos dos anexos da presente directiva serão adoptadas pela Comissão, em conformidade com o procedimento previsto no artigo 13o. da Directiva 70/156/CEE."
+  },
+  "2689c92e6b1b6f61": {
+   "fragment_id": "Artigo 11o.",
+   "type": "artigo",
+   "heading": "Artigo 11o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o.\n\n1. Os Estados-membros adoptarão e publicarão as disposições necessárias para dar cumprimento à presente directiva até 1 de Julho de 1992, e do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\nAs referidas medidas serão aplicáveis a partir de 1 de Janeiro de 1993.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "56538b125e2de301": {
+   "fragment_id": "Artigo 12o.",
+   "type": "artigo",
+   "heading": "Artigo 12o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 31 de Março de 1992.\n\nPelo Conselho\n\nO Presidente\n\nVítor MARTINS\n\n(1) JO no. C 95 de 12. 4. 1990, p. 101.\n\n(2) JO no. C 284 de 12. 11. 1990, p. 81, e decisão de 12. 2. 1992 (ainda não publicada no Jornal Oficial).\n\n(3) JO no. C 225 de 10. 9. 1990, p. 9.\n\n(4) JO no. L 42 de 23. 2. 1970, p. 1.\n\n(5) JO no. L 220 de 8. 8. 1987, p. 44.\n\n(6) Documento da Comissão Económica para a Europa E/ECE/324 (E3/ECE/TRANS/505) revisão 1 - adenda 29 de 1 de Abril de 1975 e suas alterações 01, 02 e suplementos.\n\n(7) Documento da Comissão Económica para a Europa E/ECE/324 (E/ECE/TRANS/505) revisão 1 - adenda 53 e suplementos.\n\n(8) Documento da Comissão Económica para a Europa E/ECE/324 (E/ECE/TRANS/505) revisão 1 - adenda 63 e suplementos."
+  }
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:578149:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao/1981-914769429",
+ "dre_path": "/dr/detalhe/resolucao/144-1981-578149",
+ "source_lastmod": "2025-04-11",
+ "versions": [
+  {
+   "date": "1981-07-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "914716832"
+   ]
+  },
+  {
+   "date": "1983-04-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:313023:por",
+     "title": "Resolução do Conselho de Ministros n.º 25/83",
+     "published": "1983-04-08",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/25-1983-313023"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "914716832",
+    "914716834",
+    "914716846",
+    "914716836",
+    "914716837",
+    "914716838",
+    "914716839",
+    "914716840",
+    "914716841",
+    "914716842",
+    "914716843",
+    "914716833"
+   ]
+  },
+  {
+   "date": "1983-10-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:441361:por",
+     "title": "Resolução do Conselho de Ministros n.º 46/83",
+     "published": "1983-10-13",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/46-1983-441361"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera 8.º"
+   ],
+   "fragments": [
+    "914716832",
+    "914716834",
+    "914716859",
+    "914716836",
+    "914716837",
+    "914716838",
+    "914716839",
+    "914716840",
+    "914716860",
+    "914716842",
+    "914716843",
+    "914716833"
+   ]
+  }
+ ],
+ "fragments": {
+  "914716832": {
+   "fragment_id": "914769430",
+   "type": 15,
+   "heading": "Diploma — Resolução n.º 144/81",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1 - Na convicção de ser conveniente criar uma estrutura adequada de articulação das políticas sectoriais de apoio aos refugiados e apátridas, em número significativo em Portugal desde o processo de descolonização, o Conselho de Ministros, na sua Resolução n.º 236/79, publicada na 1.ª série do Diário da República, de 3 de Agosto de 1979, decidiu criar um grupo permanente, designado Comissão de Apoio aos Refugiados e Apátridas (CIARA), que se ocupasse da problemática em questão.\n\nTal estrutura funcionaria também como interlocutora de organismos internacionais, como o Alto-Comissariado das Nações Unidas para os Refugiados (ACNUR) e o respectivo delegado em Portugal.\n\n2 - A experiência tem demonstrado que é indispensável clarificar o âmbito das competências e o posicionamento funcional da Comissão, distinguindo com nitidez, por um lado, a sua área específica de actuação, de compatibilização de políticas sectoriais e de orientação normativa e, por outro lado, o campo de acção própria dos departamentos representados, a cujos serviços especializados e regionalizados incumbe a intervenção directa junto dos refugiados e apátridas.\n\nPor outro lado, mostra-se necessário adequar a composição e o funcionamento da Comissão a certas modificações ocorridas nos últimos meses no âmbito da Administração Pública, designadamente a criação de novos órgãos centrais e regionais de segurança social, previstos no Decreto-Lei n.º 549/77, de 31 de Dezembro, ratificado pela Lei n.º 55/78, de 27 de Julho, bem como a extinção do IARN, nos termos do Decreto-Lei n.º 97/81, de 2 de Maio.\n\nFinalmente, aproveita-se o ensejo para alargar a possibilidade de participação na Comissão a outras entidades públicas e privadas com actuação significativa no domínio do apoio aos refugiados e apátridas.\n\n3 - Não obstante a natureza interministerial da Comissão, a amplitude e a premência dos problemas de natureza social suscitados justificam que incumbam ao Ministério dos Assuntos Sociais as indispensáveis funções de coordenação que garantam um funcionamento regular e eficaz.\n\nAssim, o Conselho de Ministros, reunido em 11 de Junho de 1981, resolveu:"
+  },
+  "914716834": {
+   "fragment_id": "914769432",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ criado, na dependência do Ministro dos Assuntos Sociais, um grupo permanente denominado Comissão Interministerial de Apoio aos Refugiados e Apátridas (CIARA)."
+  },
+  "914716846": {
+   "fragment_id": "914769434",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1983-04-13",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 25/83 - Diário da República n.º 81/1983, Série I de 1983-04-08](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-1983-313023), em vigor a partir de 1983-04-13"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA Comissão será constituída por:\n\na) Um representante do Ministro dos Assuntos Sociais, que presidirá;\n\nb) Um representante do Ministério da Administração Interna;\n\nc) Um representante do Ministério dos Negócios Estrangeiros;\n\nd) Um representante do Ministério da Educação e Ciência;\n\ne) Um representante do Ministério do Trabalho;\n\nf) Um representante do Ministério dos Assuntos Sociais designado pela Direcção-Geral de Segurança Social;\n\ng) Um representante do Ministério da Habitação e Obras Públicas.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 25/83 - Diário da República n.º 81/1983, Série I de 1983-04-08](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-1983-313023), em vigor a partir de 1983-04-13"
+  },
+  "914716836": {
+   "fragment_id": "914769435",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nPoderão ainda participar nas reuniões da CIARA:\n\na) O delegado em Portugal do Alto-Comissariado das Nações Unidas para os Refugiados (ACNUR) ou um seu representante;\n\nb) Representantes de entidades privadas ou públicas com responsabilidades relevantes em acções de protecção a refugiados e apátridas;\n\nc) Um representante do Centro Regional de Segurança Social de Lisboa;\n\nd) Especialistas ou outras pessoas qualificadas que, a convite da Comissão, possam contribuir de modo significativo para o tratamento das questões que dizem respeito aos refugiados e apátridas."
+  },
+  "914716837": {
+   "fragment_id": "914769436",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nÀ CIARA competirá fundamentalmente:\n\na) A ligação, ao nível de orientações gerais, para os assuntos dos refugiados, com o organismo internacional responsável (ACNUR);\n\nb) O conhecimento e a informação de problemas gerais relativos aos refugiados e apátridas, designadamente em função da procura de soluções duráveis e permanentes;\n\nc) O estudo e proposta da definição coordenada das políticas de apoio aos refugiados e apátridas;\n\nd) A formulação de propostas tendentes à articulação e compatibilização das acções dos diversos sectores oficiais ou particulares cuja actuação conjugada seja indispensável para a resolução dos problemas dos refugiados apátridas;\n\ne) A elaboração de recomendações sobre formas de sensibilização e cooperação de entidades nacionais que possam contribuir para a solução das situações de refugiados e apátridas;\n\nf) Apoiar formas de participação de Portugal em acções internacionais a favor dos refugiados."
+  },
+  "914716838": {
+   "fragment_id": "914769437",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nNa realização dos seus objectivos, a Comissão é um órgão de estudo, apoio e promoção coordenada de medidas, cabendo aos organismos nela representados a acção técnico-normativa ou executiva necessária à concretização sectorial dessas medidas."
+  },
+  "914716839": {
+   "fragment_id": "914769438",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nOs Ministérios representados na Comissão tomarão as medidas adequadas que forem indispensáveis, designadamente em matéria de serviços responsáveis pela concretização das acções sectoriais de acolhimento social e de apoio directo aos refugiados e apátridas, bem como de aplicação de verbas postas à sua disposição para esse efeito por organismos internacionais."
+  },
+  "914716840": {
+   "fragment_id": "914769439",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nA Comissão terá reuniões de trabalho dos seus membros, com a periodicidade que for estabelecida por regimento interno, de harmonia com as exigências dos problemas submetidos à sua apreciação."
+  },
+  "914716841": {
+   "fragment_id": "914769440",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nO apoio logístico e funcional indispensável ao normal funcionamento da Comissão será assegurado pelo Ministério dos Assuntos Sociais, sem prejuízo do apoio específico e encargos inerentes que cada departamento deva dar ao seu representante na Comissão do âmbito da respectiva competência."
+  },
+  "914716842": {
+   "fragment_id": "914769441",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nOs membros da Comissão serão designados no prazo de quinze dias, a contar da publicação desta resolução."
+  },
+  "914716843": {
+   "fragment_id": "914769442",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nÉ revogada a Resolução do Conselho de Ministros n.º 236/79."
+  },
+  "914716833": {
+   "fragment_id": "914769431",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 11 de Junho de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "914716859": {
+   "fragment_id": "914769434",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1983-10-18",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Resolução do Conselho de Ministros n.º 46/83 - Diário da República n.º 236/1983, Série I de 1983-10-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-1983-441361), em vigor a partir de 1983-10-18",
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 25/83 - Diário da República n.º 81/1983, Série I de 1983-04-08](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-1983-313023), em vigor a partir de 1983-04-13"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA Comissão será constituída por:\n\na) 1 presidente e 1 presidente-substituto, nomeados pelo Ministro do Trabalho e Segurança Social;\n\nb) 1 representante do Ministério da Administração Interna;\n\nc) 1 representante do Ministério dos Negócios Estrangeiros;\n\nd) 1 representante do Ministério da justiça;\n\ne) 1 representante do Ministério da Educação;\n\nf) 1 representante do Ministério do Equipamento Social.\n\n> Alterado pelo/a 2.º do/a [Resolução do Conselho de Ministros n.º 46/83 - Diário da República n.º 236/1983, Série I de 1983-10-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-1983-441361), em vigor a partir de 1983-10-18\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 25/83 - Diário da República n.º 81/1983, Série I de 1983-04-08](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-1983-313023), em vigor a partir de 1983-04-13"
+  },
+  "914716860": {
+   "fragment_id": "914769440",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": "1983-10-18",
+   "changed_by": [
+    "Alterado pelo/a 3.º do/a [Resolução do Conselho de Ministros n.º 46/83 - Diário da República n.º 236/1983, Série I de 1983-10-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-1983-441361), em vigor a partir de 1983-10-18"
+   ],
+   "markdown": "###### 8.º\n\nO apoio logístico e funcional indispensável ao normal funcionamento da Comissão será assegurado pelo Ministério do Trabalho e Segurança Social, sem prejuízo do apoio específico e encargos inerentes que cada departamento deva dar ao seu representante na Comissão do âmbito da respectiva competência.\n\n> Alterado pelo/a 3.º do/a [Resolução do Conselho de Ministros n.º 46/83 - Diário da República n.º 236/1983, Série I de 1983-10-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/46-1983-441361), em vigor a partir de 1983-10-18"
+  }
+ }
+}

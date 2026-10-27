@@ -1,0 +1,188 @@
+---
+schema_version: '1.0'
+id: pt:dre:508428:por
+title: Decreto-Lei n.º 46813
+short_title: null
+summary: Constitui a Caixa Central de Segurança Social dos Trabalhadores Migrantes, dotada de personalidade jurídica e destinada
+  a assegurar a aplicação das convenções e acordos internacionais sobre segurança social de que o Estado Português é signatário
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Corporações e Previdência Social - Gabinete do Ministro
+proposing_entity: null
+official_number: '46813'
+official_date: null
+publication_date: '1965-12-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 295/1965, Série I de 1965-12-30
+  number: '295'
+  series: I
+  supplement: null
+  pages: 1862 - 1864
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/12/29500/18621864.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '508428'
+  dre_path: /dr/detalhe/decreto-lei/46813-1965-508428
+  internal: pt:dre:508428:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46813-1965-508428
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46813-1965-508428
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:55:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c24f76ecf43f78fd0062aaa20b67efd79a9301ad33cd5c5e73b9bfe3dd87ad2b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Caixa Central de Segurança Social dos Trabalhadores Migrantes
+- Orgânica
+- Personalidade Jurídica
+- Segurança Social
+- Trabalhador Migrante
+relationships:
+- type: amended_by
+  target: pt:dre:454041:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:272048:por
+  label: "Alterado o art. 4.º, pelo DEC LEI.48451.1968.06.24.MU DG.IS [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48451-1968-272048
+  date: '1968-06-24'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659680:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454041:por
+  label: "Revogado, com a redacção introduzida pelo Dec Lei 48451 de 24-Jun 1968, pelo DEC LEI.345/83.1983.07.26.MFP DR.IS\
+    \ [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-1983-454041
+  date: '1983-07-26'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:55:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 46813
+
+Tem merecido a melhor atenção do Governo a situação dos trabalhadores portugueses no estrangeiro, em todos os aspectos relativos à defesa dos seus interesses, designadamente no que se respeita às garantias de segurança social, nesta expressão compreendendo os benefícios dos regimes da previdência, do abono de família e da protecção nos acidentes de trabalho e doenças profissionais.
+
+Em tal matéria é muito considerável o movimento de convenções celebradas ou em vias de celebração com os países europeus a que mais afluem os nossos emigrantes. Iniciado em relação à França pela Convenção geral de 16 de Novembro de 1957, aprovada pelo [Decreto-Lei n.º 41677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41677-1958-352768), de 14 de Junho de 1958, abrange esse movimento a Convenção de 20 de Janeiro de 1962, celebrada com a Espanha, a de 6 de Novembro de 1964, assinada com a República Federal da Alemanha, e a de 12 de Fevereiro de 1965, realizada com o Grão-Ducado do Luxemburgo, aprovadas, respectivamente, pelos Decretos-Leis n.os 44254, de 26 de Março de 1962, 46258 e 46278, de 19 de Março e 17 de Abril de 1965.
+
+Insere-se na mesma ordem de realizações o Acordo celebrado em 13 de Janeiro de 1965 com a Bélgica sobre os antigos empregados portugueses no Congo Belga e no Ruanda-Urundi ([Decreto-Lei n.º 46279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46279-1965-237837), de 17 de Abril de 1965).
+
+Através daquelas convenções estabelece-se a igualdade de tratamento dos nossos trabalhadores e dos nacionais dos países de emprego em face das respectivas legislações de segurança social, ao mesmo tempo que se lhes assegura a conservação, não só dos direitos adquiridos, como dos próprios direitos em formação, mediante a totalização dos tempos de seguro cumpridos em Portugal e naqueles países, com vista à determinação do seu direito a prestações por parte das instituições ou organismos de segurança social para que, no decurso da sua carreira profissional, tiverem contribuído. Algumas dessas convenções fundamentaram ainda a ampliação aos nossos trabalhadores ocupados no estrangeiro do benefício de prestações não contributivas de segurança social.
+
+Completam-se aquelas convenções por meio de acordos complementares ou administrativos que se destinam a reforçar as regalias nelas estabelecidas ou a regular a sua execução.
+
+Assim, no respeitante à França, acrescem às vantagens previstas na Convenção geral, os abonos de família aos descendentes do trabalhador ocupado naquele país que residam em Portugal e as prestações em espécie dos seguros de doença e de maternidade aos familiares aqui residentes, nos termos do Acordo de 30 de Outubro de 1958 (modificado pelo Acordo complementar de 16 de Outubro de 1964) e do novo Acordo desta última data (Decretos-Leis n.os 42189, de 20 de Março de 1952, e 46150 e 46151, de 9 de Janeiro de 1965).
+
+Para aplicação do disposto naqueles diplomas foram celebrados com a França cinco acordos administrativos: n.º 1, sobre previdência social, e n.º 2, sobre acidentes de trabalho e doenças profissionais, um e outro de 19 de Abril de 1958 e aprovados por despacho de 24 de Junho de 1958; n.º 3, sobre o regime de previdência social nas minas, e n.º 4, sobre abono de família, de 6 de Maio de 1960, aprovados por despacho de 23 de Junho de 1960; n.º 5, sobre prestações em espécie dos seguros de doença e de maternidade aos familiares do segurado residentes no país de origem, assinado em 5 de Março de 1965.
+
+No respeitante à Espanha, encontra-se também aprovado, com vista à aplicação da Convenção geral de 20 de Janeiro de 1962, o Acordo administrativo de 12 de Agosto de 1963.
+
+Para atender à preparação de uns e outros diplomas foi constituída, por despacho de 8 de Abril de 1960, no Ministério das Corporações e Previdência Social, uma comissão de estudo, a que preside o vice-presidente do Conselho Superior da Previdência Social e da Habitação Económica e de que fazem parte funcionários dos serviços do Ministério mais directamente interessados na matéria em causa (Serviço de Relações Internacionais, 2.ª Repartição da Direcção-Geral do Trabalho e Corporações, Serviços Actuariais, Fundo de Desenvolvimento da Mão-de-Obra) e da Federação de Caixas de Previdência - Serviços Mecanográficos.
+
+Foi a partir daquele ano, pela entrada em vigor do Acordo sobre abono de família celebrado com a França, que a execução da correspondente Convenção geral com o nosso país começou a tomar mais decisiva importância. Essa execução incumbe desde início à Federação de Caixas de Previdência - Serviços Mecanográficos, designada como organismo de ligação, por despacho de 24 de Julho de 1958, para os efeitos previstos nos acordos administrativos n.os 1 e 2, de 19 de Abril daquele mesmo ano. Em tal qualidade, incumbe à mencionada Federação exercer, para cumprimento das convenções e acordos em referência, a representação das instituições de previdência social e de outras entidades responsáveis do regime português de segurança social e assegurar a ligação entre as mesmas instituições e entidades e os segurados e os seus familiares residentes nos demais países signatários, bem como entre os organismos de segurança social destes países e os segurados e seus familiares residentes em Portugal.
+
+Tais funções foram igualmente cometidas à mencionada Federação pelo Acordo administrativo de 12 de Agosto de 1963, relativamente à Convenção luso-espanhola de segurança social, e pela própria Convenção luso-alemã, de 6 de Novembro de 1964, na parte que a esta diz respeito.
+
+A especialização de tais funções e o facto de transcenderem os próprios limites da organização interna da previdência, pois visam a coordenar os benefícios desta com os dos regimes de outros países na sua aplicação aos trabalhadores migrantes nacionais ou estrangeiros, justifica fazer recair a sua atribuição em uma instituição sui generis, dotada embora das prerrogativas e de estrutura análoga à das instituições do regime geral da previdência. Apenas transitòriamente, com efeito, e na dependência da definição das estruturas previstas na reforma introduzida pela [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, foram essas funções atribuídas à Federação - Serviços Mecanográficos, que aliás desenvolveu no seu exercício acção a todos os títulos meritória, mas se encontra hoje em vias de dissolução, por integração na Caixa Nacional de Pensões.
+
+Como índice de evolução dessa actividade, anotam-se os processamentos efectuados pela Federação, relativamente a pensões (de acidentes de trabalho e de invalidez e velhice) e abonos de família, em 1961 e em 1964. Num e noutro ano, o número de beneficiários daquelas pensões foi de 2436 e de 3655, importando as pensões processadas em 5160 e em 13747 contos, respectivamente. Os abonos de família postos a pagamento em 1961 cifraram-se em 1580 contos, respeitando a 1328 descendentes, e vieram a atingir em 1964 o volume de 22265 contos para 27992 descendentes beneficiários.
+
+A progressão destes números continua a acentuar-se de modo impressionante. No 1.º semestre do corrente ano foram já processados 12997 contos em pensões e 25362 contos em abonos de família.
+
+O que tudo bem justifica o presente diploma, destinado a instituir, para execução dos citados instrumentos internacionais, a Caixa Central de Segurança Social dos Trabalhadores Migrantes, à qual competirá, fundamentalmente, assegurar o cumprimento das obrigações impostas às instituições e organismos portugueses responsáveis pelas convenções e acordos de segurança social ratificados pelo Estado Português.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. É constituída, na dependência do Ministério das Corporações e Previdência Social, como instituição de interesse público, a Caixa Central de Segurança Social dos Trabalhadores Migrantes, dotada de personalidade jurídica e destinada a assegurar a aplicação das convenções e acordos internacionais sobre segurança social de que o Estado Português é signatário, actividade em que actuará como organismo de ligação representativo das instituições e demais entidades portuguesas responsáveis pela concessão de prestações previstas naqueles diplomas e seus acordos administrativos.
+
+2. A Caixa goza das mesmas isenções e regalias legalmente atribuídas às caixas sindicais de previdência classificadas na [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, e rege-se por estatuto aprovado por alvará do Ministro das Corporações e Previdência Social.
+
+Art. 2.º - 1. A gerência da Caixa incumbirá a uma direcção assistida pelo conselho geral, em que será assegurada a representação das instituições e demais entidades responsáveis pela execução das convenções e acordos.
+
+2. Ao provimento dos cargos de presidente e vice-presidente da direcção da Caixa é extensivo o disposto no [Decreto-Lei n.º 37743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37743-1950-659680), de 23 de Janeiro de 1950.
+
+Art. 3.º Os encargos derivados do funcionamento da Caixa serão suportados por contribuições do Fundo Nacional do Abono de Família e da Caixa Nacional de Pensões, nos termos que forem determinados por despacho do Ministro das Corporações e Previdência Social.
+
+Art. 4.º - 1. As actividades da Caixa são orientadas pela Comissão de Estudo de Convenções Internacionais sobre Segurança Social, instituída no Ministério das Corporações e Previdência Social para apreciar os aspectos gerais da negociação das referidas convenções e subsequentes acordos administrativos e suas incidências na legislação interna.
+
+2. Compõem a Comissão, a que preside o vice-presidente do Conselho Superior da Previdência Social e da Habitação Económica, os seguintes vogais:
+
+a) O presidente da direcção da Caixa Central constituída por este diploma;
+
+b) O chefe da 2.ª Repartição da Direcção-Geral do Trabalho e Corporações;
+
+c) Um actuário da Direcção-Geral da Previdência e Habitações Económicas;
+
+d) O chefe do Serviço de Relações Internacionais, do Ministério das Corporações e Previdência Social;
+
+e) Um representante do Fundo de Desenvolvimento da Mão-de-Obra.
+
+3. Os vogais indicados nas alíneas c) e e) são designados pelo Ministro das Corporações e Previdência Social.
+
+4. Incumbe à Caixa assegurar o expediente da Comissão.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 30 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.

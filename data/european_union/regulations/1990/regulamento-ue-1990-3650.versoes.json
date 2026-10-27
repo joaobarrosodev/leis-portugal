@@ -1,0 +1,99 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990R3650:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990R3650-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "1990-12-27",
+   "future": false,
+   "celex": "31990R3650",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "81e17eff4e715f1d",
+    "51ea83a4072116af",
+    "47cc7a35a811d157",
+    "8828823ececefd2d",
+    "20e8a1948edc4311",
+    "6de006f7a97a0f4c"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01990R3650-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1",
+    "Suprime Artigo 2",
+    "Suprime Artigo 3",
+    "Suprime Artigo 4",
+    "Suprime Artigo 5"
+   ],
+   "fragments": [
+    "94cd7209e192596a"
+   ]
+  }
+ ],
+ "fragments": {
+  "81e17eff4e715f1d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3650/90 do Conselho, de 11 de Dezembro de 1990, relativo a medidas de reforço da aplicação das normas comuns de qualidade para as frutas e produtos hortícolas em Portugal** *Jornal Oficial nº L 362 de 27/12/1990 p. 0022 - 0023 Edição especial finlandesa: Capítulo 3 Fascículo 36 p. 0022 Edição especial sueca: Capítulo 3 Fascículo 36 p. 0022*\n\nREGULAMENTO (CEE) N° 3650/90 DO CONSELHO de 11 de Dezembro de 1990 relativo a medidas de reforço da aplicação das normas comuns de qualidade para as frutas e produtos hortícolas em Portugal\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Acto de Adesão de Espanha e de Portugal e, nomeadamente, o n° 2 do seu artigo 234,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que, em 26 de Junho de 1990, a Comissão transmitiu ao Conselho um relatório sobre o estado de realização dos objectivos específicos e sobre o resultado da aplicação das medidas estruturais em Portugal durante a primeira etapa;\n\nConsiderando que, de acordo com este relatório, os mecanismos introduzidos no sector das frutas e produtos hortícolas em matéria de normalização não podem ser aplicados de modo a atingir a realização completa dos objectivos e o bom funcionamento da organização comum de mercado no sector das frutas e produtos hortícolas, tais como previstos pelo Regulamento (CEE) n° 1035/72 do Conselho, de 18 de Maio de 1972, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas(1), com a última redacção que lhe foi dada pelo Regulamento (CEE) n° 1193/90(2); que, por conseguinte, é conveniente prever a participação da Comunidade no financiamento de um programa, aprovado pela Comissão, que inclua acções destinadas a assegurar a divulgação das normas comuns de qualidade e a organização de uma entidade de controlo no sector das frutas e produtos hortícolas em Portugal,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "51ea83a4072116af": {
+   "fragment_id": "Artigo 1",
+   "type": "artigo",
+   "heading": "Artigo 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1\n\n1. A Comunidade participará no financiamento de um programa de acções apresentado e realizado pelas autoridades portuguesas, relativo a um período de cinco anos, que tenha por objectivo:\n\nmelhorar a aplicação das normas comuns de qualidade previstas no artigo 2 do Regulamento (CEE) n° 1035//72 e reforçar o controlo da observância das citadas normas para as frutas e produtos hortícolas frescos:\n\na)Comercializados no mercado português;\n\nb)Comercializados na Comunidade;\n\nc)Importados dos países terceiros ou exportados para os mesmos;\n\nd)Retirados do mercado;\n\ne)Entregues às indústrias de transformação quando essas normas sejam aplicáveis, nomeadamente, para efeitos de concessão de ajudas comunitárias.\n\n2. O programa referido no n° 1 será submetido à Comissão antes de 31 de Dezembro de 1991 e aprovado pela mesma antes do início da sua realização."
+  },
+  "47cc7a35a811d157": {
+   "fragment_id": "Artigo 2",
+   "type": "artigo",
+   "heading": "Artigo 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2\n\nO programa referido no artigo 1 incluirá, nomeadamente, as seguintes acções:\n\n1.Em matéria de aplicação das normas comuns de qualidade:\n\ncriação nas regiões de produção de unidades-piloto equipadas para a demonstração prática das operações de normalização,\n\norganização de cursos destinados aos operadores,\n\nelaboração e divulgação de material didáctico que ilustre as características dos produtos normalizados,\n\ndesenvolvimento de modelos de embalagens adaptados aos diferentes produtos.\n\n2.No que respeita ao controlo da observância das normas comuns de qualidade:\n\ncriação de uma entidade de controlo composta por agentes incumbidos exclusivamente da execução dos controlos referidos no n° 1, segundo travessão, do artigo 1, devidamente enquadrada num serviço especializado,\n\nformação e especialização dos referidos agentes,\n\nexecução dos controlos no local."
+  },
+  "8828823ececefd2d": {
+   "fragment_id": "Artigo 3",
+   "type": "artigo",
+   "heading": "Artigo 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3\n\n1. A participação financeira da Comunidade na execução das acções referidas no artigo 2 corresponderá, no máximo, a 80 % das despesas elegíveis, tal como definidas nos termos do artigo 4, durante um período de cinco anos a contar da data de aprovação do programa.\n\n2. O montante anual, correspondente às despesas tomadas a cargo pela Comunidade, será fixado pela Comissão, com base nos elementos anualmente apresentados por Portugal para o exercício anterior.\n\n3. Não serão tomadas a cargo, ao abrigo do presente regulamento, as despesas efectuadas que beneficiam simultaneamente de outras medidas comunitárias."
+  },
+  "20e8a1948edc4311": {
+   "fragment_id": "Artigo 4",
+   "type": "artigo",
+   "heading": "Artigo 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4\n\nAs modalidades de aplicação do presente regulamento serão adoptadas de acordo com o procedimento previsto no artigo 33 do Regulamento (CEE) n° 1035/72."
+  },
+  "6de006f7a97a0f4c": {
+   "fragment_id": "Artigo 5",
+   "type": "artigo",
+   "heading": "Artigo 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1991.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 11 de Dezembro de 1990.\n\nPelo ConselhoO PresidenteV. SACCOMANDI\n\n(1)JO n° L 118 de 20. 5. 1972, p. 1.\n\n(2)JO n° L 119 de 11. 5. 1990, p. 43."
+  },
+  "94cd7209e192596a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990R3650 — PT — 01.07.2008 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990R3650) [REGULAMENTO (CEE) N.º 3650/90 DO CONSELHO](http://publications.europa.eu/resource/celex/31990R3650) [de 11 de Dezembro de 1990](http://publications.europa.eu/resource/celex/31990R3650) [relativo a medidas de reforço da aplicação das normas comuns de qualidade para as frutas e produtos hortícolas em Portugal](http://publications.europa.eu/resource/celex/31990R3650) (JO L 362, 27.12.1990, p.22)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 361/2008 do Conselho de 14 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0361) — L 121 — 1 — 7.5.2008"
+  }
+ }
+}

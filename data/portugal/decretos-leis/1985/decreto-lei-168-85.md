@@ -1,0 +1,536 @@
+---
+schema_version: '1.0'
+id: pt:dre:151525:por
+title: Decreto-Lei n.º 168/85
+short_title: null
+summary: Cria a Fundação Luso-Americana para o Desenvolvimento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios dos Negócios Estrangeiros e das Finanças e do Plano
+proposing_entity: null
+official_number: 168/85
+official_date: null
+publication_date: '1985-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/1985, Série I de 1985-05-20
+  number: '115'
+  series: I
+  supplement: null
+  pages: 1350 - 1352
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/05/11500/13501352.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-01-30'
+version_history:
+  file: decreto-lei-168-85.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1985-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-02-16'
+    amending: pt:dre:283163:por
+    amending_title: Decreto-Lei n.º 45/88
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+  - date: '1991-08-15'
+    amending: pt:dre:680628:por
+    amending_title: Decreto-Lei n.º 288/91
+    changes:
+    - Altera Artigo 8.º
+  - date: '1994-04-12'
+    amending: pt:dre:253856:por
+    amending_title: Decreto-Lei n.º 90/94
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+  - date: '2013-08-05'
+    amending: pt:dre:498680:por
+    amending_title: Decreto-Lei n.º 107/2013
+    changes:
+    - Adita Secção V
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Secção II
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Secção IV
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 10.º
+  - date: '2024-01-30'
+    amending: pt:dre:839477381:por
+    amending_title: Decreto-Lei n.º 17/2024
+    changes:
+    - Adita Artigo 8.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/168/1985/p/cons/20240129/pt/html
+  oj: null
+  dre: '151525'
+  dre_path: /dr/detalhe/decreto-lei/168-1985-151525
+  internal: pt:dre:151525:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1985-151525
+  metadata_url: https://data.dre.pt/eli/dec-lei/168/1985/p/cons/20240129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-167359714
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-167359714
+  retrieved_at: '2026-10-22T12:43:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 0f487d0df0fed1668fefd8bca56d4e75294f3dda95ddcf49cfa2899f6c685978
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:43:47Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-168-85.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estatuto
+- FLAD
+- Fundação
+- Utilidade Pública
+relationships:
+- type: amended_by
+  target: pt:dre:283163:por
+  label: Altera Artigo 3.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163
+  date: '1988-02-11'
+- type: amended_by
+  target: pt:dre:680628:por
+  label: Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1991-680628
+  date: '1991-08-10'
+- type: amended_by
+  target: pt:dre:253856:por
+  label: Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856
+  date: '1994-04-07'
+- type: amended_by
+  target: pt:dre:498680:por
+  label: Adita Secção V; Altera Artigo 2.º; Altera Artigo 7.º; Altera Secção II; Altera Artigo 8.º; Altera Artigo 9.º; Altera
+    Artigo 11.º; Altera Secção IV; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Revoga Artigo 6.º; Revoga Artigo
+    7.º; Revoga Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680
+  date: '2013-07-31'
+- type: amended_by
+  target: pt:dre:839477381:por
+  label: Adita Artigo 8.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381
+  date: '2024-01-29'
+article_structure:
+  article_count: 23
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:43:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 168/85
+
+Decreto-Lei n.º 168/85
+
+de 20 de Maio
+
+Procurando dar corpo ao desejo de recíproca colaboração entre o Governo dos Estados Unidos da América e o Governo Português em áreas tão importantes como o desenvolvimento científico, técnico, empresarial e educacional, constitui-se, através do presente diploma e dos estatutos que dele fazem parte integrante, a Fundação Luso-Americana para o Desenvolvimento.
+
+Da cooperação entre instituições portuguesas e instituições americanas, que o exercício das actividades da Fundação irá proporcionar nos variados sectores que os estatutos prevêem, resultará, por certo, um valioso enriquecimento dos nossos meios científicos e um apreciável contributo para a actualização dos meios empresariais portugueses.
+
+Vocacionada, em larga medida, para assegurar meios de assistência técnica ao sector privado português, a transferência de tecnologias avançadas para Portugal e a formação de quadros altamente especializados, na perspectiva do desenvolvimento e da modernização da economia portuguesa, pretende-se que a Fundação seja dotada da mais ampla autonomia e da mais adequada flexibilidade à plena realização dos seus fins estatutários.
+
+Os importantes meios financeiros que o Estado atribui à Fundação, resultantes da cooperação entre o Governo Português e o Governo dos Estados Unidos da América, permitem criar a mais justificada expectativa quanto ao relevo do papel que a Fundação irá assumir no desenvolvimento económico e social do País.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+- 1 - É criada pelo presente decreto-lei a Fundação Luso-Americana para o Desenvolvimento, instituição de direito privado e utilidade pública dotada de personalidade jurídica, adiante designada simplesmente «Fundação».
+
+2 - A Fundação é de duração indeterminada, tem a sua sede em Lisboa e reger-se-á pelos estatutos publicados em anexo a este decreto-lei, que dele fazem parte integrante, e subsidiariamente pela legislação portuguesa aplicável.
+
+###### Artigo 2.º
+
+Os fins da Fundação são científicos, técnicos, educativos, culturais e de desenvolvimento económico e social de Portugal.
+
+###### Artigo 3.º
+
+O património da Fundação é constituído pelos bens e valores a que se refere o artigo 4.º dos estatutos.
+
+###### Artigo 4.º
+
+- 1 - Os fundos em moeda estrangeira recebidos pelo Estado Português do Governo dos Estados Unidos da América e por aquele destinados à Fundação serão depositados em contas do Estado Português no estrangeiro.
+
+2 - Os fundos a que se refere o número anterior não constituirão receita orçamental e serão transferidos, na sua totalidade, para a titularidade da Fundação, para conta que esta designar, logo que o solicite, por despacho do director-geral do Tesouro.
+
+###### Artigo 5.º
+
+- 1 - A Fundação pode ser titular de contas bancárias em moeda estrangeira, à ordem ou a prazo, quer no País quer no estrangeiro e, bem assim, movimentar livremente os fundos depositados nessas contas para a realização das operações previstas nos estatutos.
+
+2 - A abertura das contas referidas no número anterior será precedida de autorização especial a conceder pelo Banco de Portugal, que estabelecerá o regime aplicável às mesmas.
+
+###### Artigo 6.º
+
+A administração da Fundação compete ao conselho executivo, nos termos do artigo 10.º dos estatutos, o qual deverá assegurar o cumprimento das orientações recebidas do conselho directivo.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+###### Artigo 7.º
+
+A Fundação fica dispensada de possuir órgão colegial próprio com competência de fiscalização das suas contas, devendo, contudo, o conselho executivo promover a fiscalização anual do inventário do património da instituição e do seu balanço das receitas e despesas por uma empresa independente de auditoria de reputação internacional.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+###### Artigo 8.º
+
+- 1 - A Fundação, pela sua natureza, gozará de todas as isenções fiscais e regalias previstas nas leis em vigor, por forma geral, para as pessoas colectivas de utilidade pública, sem prejuízo de quaisquer outros benefícios que especificamente lhe venham a ser concedidos.
+
+2 - Nos termos previstos no número anterior, à Fundação serão aplicáveis os regimes de benefícios e isenções fiscais constantes dos Decretos-Leis n.os 460/77, de 7 de Novembro, e 260-D/81, de 2 de Setembro, gozando desde já de isenção total de imposto de capitais, secções A e B, ao abrigo do disposto no n.º 4 do artigo 11.º do Código do Imposto de Capitais, aprovado pelo Decreto-Lei n.º 44561, de 10 de Setembro de 1962, e ainda de isenção total de contribuição industrial, ao abrigo do disposto no n.º 4 do artigo 14.º do Código da Contribuição Industrial, aprovado pelo Decreto-Lei n.º 45103, de 1 de Julho de 1963.
+
+3 - Além dos membros designados pelo Primeiro-Ministro, integram ainda o conselho directivo dois membros designados pelo embaixador dos Estados Unidos da América.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 288/91 - Diário da República n.º 183/1991, Série I-A de 1991-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1991-680628), em vigor a partir de 1991-08-15
+
+###### Artigo 8.º-A
+
+A Fundação Luso-Americana para o Desenvolvimento fica dispensada do cumprimento do princípio da unidade de tesouraria, bem como da entrega na tesouraria central do Estado dos rendimentos de todas as disponibilidades e aplicações financeiras auferidos em virtude daquela dispensa.
+
+> Aditado pelo/a Artigo 144.º do/a [Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), em vigor a partir de 2024-01-30, produz efeitos a partir de 2024-01-01
+
+Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Ernâni Rodrigues Lopes.
+
+Promulgado em 10 de Maio de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 14 de Maio de 1985.
+
+O Primeiro-Ministro, Mário Soares.
+
+ESTATUTOS
+
+## Anexo
+
+### Capítulo I — Natureza, sede e fins
+
+###### Artigo 1.º — (Natureza)
+
+A Fundação Luso-Americana para o Desenvolvimento, adiante designada simplesmente por Fundação, é uma instituição de direito privado e utilidade pública, que se regerá pelos presentes estatutos e em tudo o que neles for considerado omisso pelas leis portuguesas aplicáveis.
+
+###### Artigo 2.º — (Duração e sede)
+
+1 - A Fundação é portuguesa, de duração indeterminada, e tem a sua sede em Portugal, na cidade de Lisboa, podendo criar delegações ou quaisquer outras formas de representação onde for julgado necessário para o cumprimento dos seus fins.
+
+2 - A sede da Fundação é na Rua Sacramento à Lapa, n.º 21, em Lisboa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+###### Artigo 3.º — (Fins)
+
+1 - A Fundação tem por fim contribuir para o desenvolvimento económico e social de Portugal através da promoção da cooperação científica, técnica, cultural, educativa, comercial e empresarial entre Portugal e os Estados Unidos da América.
+
+2 - Para assegurar a prossecução deste fim, a Fundação deverá prestar assistência a actividades que visem a modernização da economia portuguesa, o aumento dos níveis de investimento e exportação, a promoção de associações empresariais entre os sectores privados dos dois países e, em geral, o apoio a actividades que promovam formas adequadas de cooperação entre Portugal e os Estados Unidos da América e que sejam de interesse mútuo para ambos os países, devendo a sua acção enquadrar-se nas orientações estratégicas do desenvolvimento económico e social vigente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16
+
+### Capítulo II — Regime patrimonial e financeiro
+
+###### Artigo 4.º — (Património)
+
+1 - A Fundação é instituída pelo Governo Português com um fundo inicial próprio de 38 milhões de dólares americanos, resultante da cooperação com o Governo dos Estados Unidos da América.
+
+2 - O património da Fundação será acrescido com futuras contribuições do Governo Português de proveniência idêntica à referida no número anterior, podendo ainda integrar quaisquer subsídios ou doações, quer do Governo Português, quer de terceiros, portugueses ou estrangeiros, de natureza pública ou privada.
+
+3 - O património da Fundação será também constituído por todos os bens, móveis ou imóveis, que ela adquirir com os rendimentos provenientes do investimento dos seus bens próprios, bem como pelos que lhe vierem por qualquer outro título.
+
+###### Artigo 5.º — (Fundo permanente de investimento)
+
+1 - A Fundação terá um fundo permanente de investimento, constituído pelos rendimentos e bens que para esse fim forem em cada momento afectados pelo conselho directivo.
+
+2 - O fundo permanente de investimento não poderá ser aplicado em despesas de funcionamento ou em programas de actividades da Fundação.
+
+3 - Os investimentos da Fundação deverão respeitar o critério da optimização da gestão do seu património.
+
+4 - Em obediência ao referido no número anterior, a Fundação poderá fazer investimentos, quer em Portugal, quer no estrangeiro, ficando, para este efeito, autorizada a dispor dos necessários fundos em bancos situados em Portugal ou no estrangeiro.
+
+###### Artigo 6.º — (Autonomia financeira)
+
+1 - A Fundação goza de plena autonomia financeira, estando a sua acção apenas subordinada às regras do direito privado.
+
+2 - A Fundação, no exercício da sua actividade, poderá:
+
+a) Adquirir, alienar ou onerar a qualquer título bens móveis ou imóveis;
+
+b) Aceitar quaisquer doações, heranças ou legados;
+
+c) Negociar e contratar empréstimos e conceder garantias.
+
+### Capítulo III — Organização e funcionamento
+
+#### Secção I — Disposição preliminar
+
+###### Artigo 7.º — (Órgãos da Fundação)
+
+São órgãos da Fundação:
+
+a) O conselho de administração;
+
+b) O conselho executivo;
+
+c) O conselho de curadores;
+
+d) O fiscal único.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+#### Secção II — conselho de administração
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+###### Artigo 8.º — Conselho de administração
+
+1 - O conselho de administração é composto por três a cinco membros, sendo um escolhido pelo Primeiro-Ministro, que será o presidente do conselho de administração, e os demais pelo conselho de curadores.
+
+2 - Os membros do conselho de administração são designados por despacho do Primeiro-Ministro.
+
+3 - O mandato dos membros do conselho de administração é de cinco anos, só podendo ser renovado consecutivamente por um igual período.
+
+4 - Compete, em especial, ao conselho de administração:
+
+a) Administrar e dispor do património da Fundação, cabendo-lhe deliberar sobre a aquisição, alienação ou oneração de bens móveis ou imóveis ou o seu arrendamento ou aluguer, em ordem à realização dos fins desta;
+
+b) Contratar empréstimos e conceder garantias;
+
+c) Definir e estabelecer as políticas gerais de funcionamento da Fundação;
+
+d) Definir as políticas e orientações de investimento da Fundação e fixar o montante do fundo permanente de investimento a que se refere o n.º 1 do artigo 5.º;
+
+e) Discutir e aprovar o orçamento e o plano anual de atividades da Fundação;
+
+f) Definir os critérios gerais de atribuição de subvenções e de outro tipo de apoios por parte da Fundação;
+
+g) Discutir e aprovar o balanço anual e as contas de cada exercício, bem como o relatório do conselho executivo e o parecer do fiscal único;
+
+h) Representar a Fundação, quer em juízo, ativa e passivamente, quer perante terceiros, em quaisquer atos ou contratos, podendo esta competência ser delegada caso a caso no conselho executivo ou em mandatário devidamente constituído;
+
+i) Decidir sobre quaisquer outras matérias que respeitem à atividade da Fundação.
+
+5 - O conselho de administração reúne ordinariamente uma vez por trimestre e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros ou a solicitação do conselho executivo.
+
+6 - O conselho de administração só pode deliberar com a presença da maioria dos seus membros.
+
+7 - As deliberações do conselho de administração são tomadas por maioria de votos presentes, tendo o presidente, além do seu voto, direito a voto de desempate.
+
+8 - A remuneração dos membros do conselho de administração que sejam simultaneamente membros do conselho executivo é fixada pelo conselho de curadores, tendo em conta os limites legais de despesas com pessoal e administração aplicáveis às fundações bem como ponderando o regime que vigore para a administração direta e indireta do Estado.
+
+9 - Os restantes membros do conselho de administração não são remunerados, podendo no entanto ser-lhes atribuídas subvenções de presença e ajudas de custo.
+
+10 - [Revogado].
+
+11 - As funções dos membros do conselho directivo não são remuneradas, podendo, no entanto, ser-lhes atribuídas subvenções de presença e ajudas de custo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+> Retificado pelo/a [Declaração de Rectificação n.º 85/94 - Diário da República n.º 149/1994, 3º Suplemento, Série I-A de 1994-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/85-1994-345968), produz efeitos a partir de 1994-04-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16
+
+#### Secção III — Conselho executivo
+
+###### Artigo 9.º — Conselho executivo
+
+1 - O conselho executivo é constituído por três membros designados por despacho do Primeiro-Ministro de entre os membros do conselho de administração.
+
+2 - O presidente do conselho de administração é, por inerência, o presidente do conselho executivo.
+
+3 - O termo do respetivo mandato no conselho de administração implica a cessação simultânea das funções de membro do conselho executivo.
+
+4 - As deliberações do conselho executivo são tomadas por maioria, tendo o presidente, além do seu voto, direito a voto de desempate.
+
+5 - O presidente do conselho executivo pode, mediante declaração fundamentada, suspender a eficácia das deliberações que considere contrárias à lei, aos estatutos ou aos interesses da Fundação, ficando tais deliberações sujeitas, nesse caso, a apreciação e ratificação do conselho de administração.
+
+6 - O conselho executivo tem funções de gestão corrente da Fundação, competindo-lhe em especial:
+
+a) Definir a organização interna da Fundação;
+
+b) Preparar e submeter à aprovação do conselho de administração o orçamento e o plano de atividades anuais da Fundação;
+
+c) Avaliar e aprovar propostas de projetos ou de atividades, aprovar a concessão de subvenções, apoios ou empréstimos a projetos específicos e quaisquer outras despesas da Fundação para execução do plano de atividades e do orçamento devidamente aprovados;
+
+d) Contratar, gerir e dirigir o pessoal da Fundação;
+
+e) Instituir, manter e conservar sistemas internos de controlo contabilístico, incluindo os livros e registos respeitantes a todas as transações e entradas e saídas de fundos, por forma a refletirem corretamente, em cada momento, a situação patrimonial e financeira da Fundação;
+
+f) Preparar e submeter à aprovação do conselho de administração o relatório anual, o balanço e as contas de cada exercício, bem como o parecer do fiscal único;
+
+g) Praticar todos os atos necessários ao cumprimento dos deveres de transparência a que a Fundação está legalmente obrigada.
+
+7 - [Revogado].
+
+8 - [Revogado].
+
+9 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16
+
+###### Artigo 10.º — (Competência)
+
+Ao conselho executivo compete, em geral, a administração da Fundação e, em especial:
+
+a) Definir a organização interna da Fundação;
+
+b) Administrar e dispor do património da Fundação, cabendo-lhe deliberar sobre a aquisição, alienação ou oneração de bens móveis ou imóveis ou o seu arrendamento ou aluguer, em ordem à realização dos fins desta;
+
+c) Preparar e submeter à aprovação do conselho directivo o orçamento e plano de actividades anuais da Fundação;
+
+d) Contratar empréstimos e conceder garantias;
+
+e) Avaliar e aprovar propostas de projectos ou de actividades, aprovar a concessão de subvenções, apoios ou empréstimos a projectos específicos e quaisquer outras despesas da Fundação;
+
+f) Contratar, dirigir e despedir o pessoal da Fundação, de acordo com a legislação laboral portuguesa;
+
+g) Representar a Fundação, quer em juízo, activa e passivamente, quer perante terceiros, em quaisquer actos ou contratos;
+
+h) Instituir, manter e conservar sistemas internos de controle contabilístico, incluindo os livros e registos respeitantes a todas as transacções e entradas e saídas de fundos, por forma a reflectirem correctamente, em cada momento, a situação patrimonial e financeira da Fundação;
+
+i) Providenciar para que os livros e registos contabilísticos da Fundação sejam devidamente fiscalizados, pelo menos uma vez por ano, por uma empresa independente de auditoria, oficialmente registada e internacionalmente reconhecida;j) Preparar e submeter à aprovação do conselho directivo o relatório anual, o balanço e as contas de cada exercício, bem como o parecer dos auditores.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+###### Artigo 11.º — Vinculação da Fundação
+
+A Fundação obriga-se:
+
+a) Pelas assinaturas conjuntas de dois membros do conselho de administração, um dos quais o respetivo presidente;
+
+b) Pelas assinaturas conjuntas de dois membros do conselho executivo, um dos quais o respetivo presidente, no âmbito das suas competências e nos casos em que a competência para a representação da Fundação tenha sido delegada neste órgão;
+
+c) Pela assinatura de um mandatário legalmente constituído pelo conselho de administração, no âmbito dos poderes constantes da procuração.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16
+
+#### Secção IV — conselho de curadores
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+###### Artigo 12.º — Conselho de curadores
+
+1 - O conselho de curadores é constituído por cinco a sete membros, designados por despacho do Primeiro-Ministro de entre individualidades de mérito reconhecido e com competência em domínios adequados aos fins da Fundação.
+
+2 - Dois dos membros do conselho de curadores são indicados pelo Embaixador dos Estados Unidos da América acreditado em Lisboa.
+
+3 - Sem prejuízo do disposto no número seguinte, o mandato dos membros do conselho de curadores é de sete anos, podendo ser renovado.
+
+4 - Na primeira designação para o conselho de curadores, três dos seus membros são designados para um mandato de quatro anos, estando incluídos neste grupo os membros a que se refere o n.º 2.
+
+5 - O mandato dos membros do conselho de curadores cessa:
+
+a) Com o seu termo;
+
+b) Por morte ou incapacidade permanente;
+
+c) Por renúncia;
+
+d) Por exclusão deliberada em escrutínio secreto por maioria de dois terços do próprio conselho, com fundamento em indignidade, falta grave ou desinteresse manifesto no exercício das funções.
+
+6 - O presidente do conselho de curadores é designado por deliberação do próprio conselho aprovada por maioria absoluta dos seus membros.
+
+7 - O conselho de curadores reúne uma vez por semestre e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido do presidente do conselho de administração ou da maioria dos membros do conselho de curadores.
+
+8 - As funções de membro do conselho de curadores não são remuneradas, sendo-lhes no entanto atribuídas subvenções de transporte e de alojamento.
+
+9 - As deliberações do conselho de curadores são tomadas por maioria, tendo o seu presidente voto de qualidade.
+
+10 - Os membros do conselho de administração participam nas reuniões do conselho de curadores, sem direito de voto.
+
+11 - Compete ao conselho de curadores:
+
+a) Garantir a manutenção dos princípios orientadores da Fundação e apreciar as linhas gerais, quer do seu funcionamento, quer da sua política de investimentos;
+
+b) Escolher os membros do conselho de administração, nos termos do n.º 1 do artigo 8.º, não podendo a escolha recair sobre qualquer dos membros do conselho de curadores;
+
+c) Apreciar o relatório, balanço e contas do exercício;
+
+d) Definir o estatuto remuneratório e demais subvenções dos membros do conselho de administração, de acordo com os critérios estabelecidos nos n.os 8 e 9 do artigo 8.º, e do fiscal único;
+
+e) Definir o valor das subvenções de transporte e alojamento dos seus próprios membros, através de uma comissão composta por três curadores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/94 - Diário da República n.º 81/1994, Série I-A de 1994-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856), em vigor a partir de 1994-04-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/88 - Diário da República n.º 35/1988, Série I de 1988-02-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), em vigor a partir de 1988-02-16
+
+#### Secção V — fiscal único
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+###### Artigo 13.º — Fiscal único
+
+1 - A fiscalização da Fundação é exercida por um fiscal único, designado pelo conselho de administração sob proposta do conselho executivo, tendo um mandato de três anos.
+
+2 - O fiscal único pode ser um revisor oficial de contas, uma sociedade de revisores oficiais de contas ou uma empresa de auditoria.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05
+
+### Capítulo IV — Extinção da Fundação
+
+###### Artigo 14.º — (Alteração dos estatutos e transformação ou extinção da Fundação)
+
+1 - O Governo Português, por sua iniciativa ou sob proposta do conselho de administração, ouvido neste caso o conselho de curadores, poderá deliberar sobre a modificação dos presentes estatutos ou sobre a transformação ou extinção da Fundação.
+
+2 - Em caso de extinção da Fundação, o seu património reverterá para o Estado, que o deverá aplicar exclusivamente em fins de desenvolvimento económico e social do País.
+
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680), em vigor a partir de 2013-08-05

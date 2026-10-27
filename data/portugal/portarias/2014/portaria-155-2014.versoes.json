@@ -1,0 +1,266 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:55235836:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-114365371",
+ "dre_path": "/dr/detalhe/portaria/155-2014-55235836",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-08-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114355347",
+    "114355348",
+    "114355349",
+    "114355350",
+    "114355351",
+    "114355352",
+    "114355353",
+    "114355354",
+    "114355355",
+    "114355356",
+    "114355357",
+    "114355358",
+    "114355359",
+    "114355360",
+    "114355361",
+    "114355362",
+    "114355363",
+    "114355364",
+    "114355366",
+    "114355367"
+   ]
+  },
+  {
+   "date": "2017-12-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114365363:por",
+     "title": "Portaria n.º 378/2017",
+     "published": "2017-12-18",
+     "dre_path": "/dr/detalhe/portaria/378-2017-114365363"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "114355347",
+    "114355348",
+    "114355349",
+    "114355350",
+    "114369175",
+    "114355352",
+    "114355353",
+    "114355354",
+    "114355355",
+    "114355356",
+    "114355357",
+    "114355358",
+    "114355359",
+    "114355360",
+    "114355361",
+    "114355362",
+    "114355363",
+    "114355364",
+    "114355365",
+    "114369176",
+    "114355367"
+   ]
+  }
+ ],
+ "fragments": {
+  "114355347": {
+   "fragment_id": "114365372",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 155/2014\n\nde 7 de agosto\n\nA portaria n.º 593/2010, de 29 de julho, autonomizou a indicação geográfica «Terras do Dão», delimitando a sua área geográfica de produção e dispondo sobre certas normas técnicas para a produção dos vinhos com direito a esta IG.\n\nFoi igualmente definida a lista de castas a utilizar na produção de vinhos com direito à IG «Terras do Dão», que atualmente carece de atualização com a revisão dos encepamentos previstos para a região e introdução de novas castas.\n\nImporta assim atualizar a lista de castas já definidas para a produção dos produtos com direito à IG «Terras do Dão», conforme a nomenclatura prevista na Portaria n.º 380/2012, de 22 de novembro.\n\nAcresce ainda a necessidade de alterar a regulamentação existente de modo a consubstanciar na legislação nacional o rendimento por hectare das vinhas relativas aos vinhos da região, mantendo-se a qualidade dos produtos com direito à IG «Terras do Dão».\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto no n.º 1 do artigo 4.º e no artigo 6.º do Decreto-Lei n.º 212/2004, de 23 de agosto, e no uso das competências delegadas pelo Despacho n.º 3209/2014, de 26 de fevereiro, o seguinte:"
+  },
+  "114355348": {
+   "fragment_id": "114365373",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria define o regime de produção e comércio dos vinhos com indicação geográfica (IG) «Terras do Dão».\n\n2 - Mantêm-se pela presente portaria o reconhecimento da IG «Terras do Dão» bem como, o reconhecimento da sub-região «Terras de Lafões» como indicação complementar."
+  },
+  "114355349": {
+   "fragment_id": "114365374",
+   "type": 11,
+   "heading": "Artigo 2.º — Indicação geográfica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Indicação geográfica\n\nA indicação geográfica (IG) «Terras do Dão» pode ser usada para a identificação de vinho branco, tinto, rosado ou rosé e vinho espumante que satisfaçam os requisitos estabelecidos na presente portaria e demais legislação aplicável."
+  },
+  "114355350": {
+   "fragment_id": "114369075",
+   "type": 11,
+   "heading": "Artigo 3.º — Sub-região produtora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sub-região produtora\n\nNo âmbito da IG «Terras do Dão», a sub-região «Terras de Lafões» pode ser utilizada na rotulagem como indicação complementar, quando os respetivos vinhos e vinho espumante forem obtidos com a utilização exclusiva de uvas produzidas e vinificadas na respetiva área geográfica, tal como delimitada nos termos do n.º 2 do artigo 4.º, e os referidos vinhos sejam sujeitos a registos específicos."
+  },
+  "114355351": {
+   "fragment_id": "114369076",
+   "type": 11,
+   "heading": "Artigo 4.º — Delimitação da área de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Delimitação da área de produção\n\n1 - A área geográfica de produção da IG «Terras do Dão» corresponde à área prevista no anexo I da presente portaria da qual faz parte integrante e abrange:\n\na) Do distrito de Aveiro, no município de Sever do Vouga, a freguesia Couto de Esteves e da União de Freguesias de Cedrim e Paradela, apenas a freguesia de Cedrim;\n\nb) Do distrito de Coimbra, todas as freguesias dos municípios de Arganil, Oliveira do Hospital e Tábua;\n\nc) Do distrito da Guarda, todas as freguesias dos municípios de Aguiar da Beira, Fornos de Algodres, Gouveia e Seia;\n\nd) Do distrito de Viseu, todas as freguesias dos municípios de Carregal do Sal, Castro Daire, Mangualde, Mortágua, Nelas, Oliveira de Frades, Penalva do Castelo, Santa Comba Dão, São Pedro do Sul, Sátão, Tondela, Vila Nova de Paiva, Viseu e Vouzela.\n\n2 - A área geográfica de produção de vinhos e vinho espumante com direito a serem comercializados com a indicação complementar da sub-região «Terras de Lafões» é a seguinte:\n\na) Do distrito de Aveiro, no município de Sever do Vouga, a freguesia Couto de Esteves e da União de Freguesias de Cedrim e Paradela, apenas a freguesia de Cedrim;\n\nb) Do distrito de Viseu, todas as freguesias dos municípios de Oliveira de Frades, São Pedro do Sul, Vouzela e Castro Daire e as freguesias de Bodiosa, Calde, Campo, Lordosa e Ribafeita do município de Viseu."
+  },
+  "114355352": {
+   "fragment_id": "114369077",
+   "type": 11,
+   "heading": "Artigo 5.º — Solos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Solos\n\nAs vinhas destinadas à produção dos vinhos com direito a IG «Terras do Dão» devem estar, ou ser instaladas, em solos dos seguintes tipos:\n\na) Distrito de Aveiro:\n\nSolos litólicos húmidos de xistos;\n\nSolos litólicos húmidos granitos;\n\nSolos argiluviados muito insaturados de xistos;\n\nb) Distritos de Guarda e Viseu:\n\nSolos litólicos húmidos de xistos e granitos;\n\nSolos litólicos de granitos;\n\nSolos mediterrâneos pardos e vermelhos de xistos;\n\nc) Distrito de Coimbra:\n\nPodzóis de areias ou arenitos;\n\nRegossolos psamíticos de areias;\n\nAluviossolos modernos;\n\nSolos mediterrânicos vermelhos de calcários duros ou dolomias;\n\nSolos calcários pardos de margas e calcários duros interestraficados;\n\nSolos calcários pardos ou vermelhos de margas e calcários friáveis;\n\nSolos calcários;\n\nSolos litólicos não húmidos ou húmidos de materiais arenáceos pouco consolidados;\n\nSolos mediterrâneos vermelhos ou pardos de xistos;\n\nSolos litólicos húmidos de xistos e granitos."
+  },
+  "114355353": {
+   "fragment_id": "114369078",
+   "type": 11,
+   "heading": "Artigo 6.º — Castas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Castas\n\nAs castas a utilizar na elaboração dos vinhos e vinhos espumantes com direito a IG «Terras do Dão», são as constantes do anexo II à presente portaria, que dela faz parte integrante."
+  },
+  "114355354": {
+   "fragment_id": "114369079",
+   "type": 11,
+   "heading": "Artigo 7.º — Práticas culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Práticas culturais\n\nAs práticas culturais utilizadas nas vinhas que se destinam à produção dos vinhos com direito a IG «Terras do Dão» devem ser as tradicionais na região ou as recomendadas pela entidade certificadora."
+  },
+  "114355355": {
+   "fragment_id": "114369080",
+   "type": 11,
+   "heading": "Artigo 8.º — Inscrição das vinhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inscrição das vinhas\n\n1 - As vinhas destinadas à produção dos vinhos abrangidos pela presente portaria devem, a pedido dos interessados, ser inscritas na entidade certificadora, que verifica se satisfazem os necessários requisitos, procede ao cadastro das mesmas e efetua, no decurso do ano, as verificações que considera necessárias.\n\n2 - Sempre que se verificar qualquer alteração na titularidade ou na constituição das parcelas das vinhas cadastradas e aprovadas, os viticultores dão desse facto conhecimento à respetiva entidade certificadora.\n\n3 - A falta de comunicação das alterações referidas no número anterior à entidade certificadora, por parte do viticultor, determina que as uvas das respetivas vinhas não podem ser utilizadas na elaboração dos vinhos com IG «Terras do Dão»."
+  },
+  "114355356": {
+   "fragment_id": "114369081",
+   "type": 11,
+   "heading": "Artigo 9.º — Rendimento por hectare",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rendimento por hectare\n\n1 - O rendimento máximo por hectare das vinhas destinadas aos vinhos e produtos vitivinícolas com direito à IG «Terras do Dão» é limitado a 18.000Kg / hectare para uvas tintas e de 20.000 Kg / hectare para uvas brancas.\n\n2 - De acordo com as condições climatéricas e a qualidade dos mostos, o Instituto da Vinha e do Vinho, I.P., (IVV, I.P.) pode, sob proposta da entidade certificadora, proceder a ajustamentos anuais do limite máximo do rendimento por hectare, o qual não pode exceder, em caso algum, 25% do rendimento previsto no número anterior.\n\n3 - Quando forem excedidos os rendimentos por hectare mencionados nos números anteriores, não há lugar à interdição de utilizar a IG «Terras do Dão» para as quantidades produzidas até aos limites estabelecidos, podendo o excedente ser destinado à produção de vinhos sem direito à IG «Terras do Dão», desde que apresentem as características definidas para o produto em questão."
+  },
+  "114355357": {
+   "fragment_id": "114369082",
+   "type": 11,
+   "heading": "Artigo 10.º — Vinificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vinificação\n\n1 - Na elaboração do vinho e vinho espumante com IG «Terras do Dão» são seguidos os métodos de vinificação tradicionais e as práticas e tratamentos enológicos legalmente autorizados.\n\n2 - Os mostos destinados à produção de vinho e do vinho espumante com IG «Terras do Dão» devem ter um título alcoométrico volúmico natural mínimo de:\n\na) Vinho branco, tinto e rosado - 10 % vol.;\n\nb) Vinho base para vinho espumante com indicação geográfica - 10 % vol.\n\n3 - Os mostos destinados à produção de vinho e vinho espumante com direito a indicação complementar da sub-região «Terras de Lafões» devem ter um título alcoométrico volúmico natural mínimo de:\n\na) Vinho branco, tinto e rosado - 9,5 % vol.;\n\nb) Vinho base para vinho espumante com indicação geográfica - 9,5 % vol.\n\n4 - Na preparação do vinho espumante com IG «Terras do Dão» o método tecnológico a utilizar é o método clássico, com observação do disposto na legislação em vigor."
+  },
+  "114355358": {
+   "fragment_id": "114369083",
+   "type": 11,
+   "heading": "Artigo 11.º — Características dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Características dos produtos\n\n1 - O vinho e o vinho espumante com IG «Terras do Dão» devem ter um título alcoométrico volúmico adquirido mínimo de:\n\na) Vinho branco, tinto e rosado - 10 % vol.;\n\nb) Vinho espumante- 10 % vol.\n\n2 - O vinho e o vinho espumante com IG com indicação complementar da sub-região «Terras de Lafões» devem ter um título alcoométrico volúmico adquirido mínimo de:\n\na) Vinho branco, tinto e rosado - 9,5 % vol.;\n\nb) Vinho espumante- 9,5 % vol.\n\n3 - Em relação aos restantes elementos, os vinhos devem apresentar as características legalmente definidas para essa categoria de vinho.\n\n4 - Do ponto de vista organolético, os vinhos devem satisfazer os requisitos apropriados quanto à cor, limpidez, aroma e sabor."
+  },
+  "114355359": {
+   "fragment_id": "114369084",
+   "type": 11,
+   "heading": "Artigo 12.º — Inscrição de operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Inscrição de operadores económicos\n\nSem prejuízo de outras disposições legais aplicáveis, todas as pessoas singulares ou coletivas, que se dediquem à produção e comercialização dos produtos com direito à IG «Terras do Dão», excluída a distribuição e a venda a retalho dos produtos engarrafados, estão obrigadas a efetuar a sua inscrição, bem como das respetivas instalações, na entidade certificadora em registo apropriado para o efeito."
+  },
+  "114355360": {
+   "fragment_id": "114369085",
+   "type": 11,
+   "heading": "Artigo 13.º — Rotulagem e comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Rotulagem e comercialização\n\n1 - A comercialização de vinhos e vinho espumante com a designação IG «Terras do Dão» só pode ocorrer após a certificação pela entidade certificadora.\n\n2 - A rotulagem a utilizar tem de respeitar as normas legais aplicáveis e as definidas pela entidade que exercer competências certificadoras, a quem é previamente apresentada para aprovação."
+  },
+  "114355361": {
+   "fragment_id": "114369086",
+   "type": 11,
+   "heading": "Artigo 14.º — Circulação e documentação de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Circulação e documentação de acompanhamento\n\nOs vinhos objeto da presente portaria só podem ser postos em circulação e comercializados desde que:\n\na) Nos respetivos recipientes, à saída das instalações de elaboração, figure a indicação geográfica do produto, atestada pela entidade certificadora;\n\nb) Sejam acompanhados da necessária documentação oficial;\n\nc) Sejam cumpridas as demais exigências estabelecidas pela legislação em vigor ou pela entidade certificadora."
+  },
+  "114355362": {
+   "fragment_id": "114369087",
+   "type": 11,
+   "heading": "Artigo 15.º — Controlo e certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Controlo e certificação\n\nCompete à Comissão Vitivinícola Regional do Dão as funções de controlo da produção, comércio e certificação dos vinhos com direito à IG «Terras do Dão»."
+  },
+  "114355363": {
+   "fragment_id": "114369088",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\nÉ revogada a Portaria n.º 593/2010, de 29 de julho."
+  },
+  "114355364": {
+   "fragment_id": "114369089",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação"
+  },
+  "114355366": {
+   "fragment_id": "114369091",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 4.º)\n\nIG «Terras do Dão»\n\n(ver documento original)\n\nSub-região «Terras de Lafões»\n\n(ver documento original)"
+  },
+  "114355367": {
+   "fragment_id": "114369092",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 6.º)\n\nLista de castas aptas à produção de vinhos com direito à IG «Terras do Dão»\n\n(ver documento original)"
+  },
+  "114369175": {
+   "fragment_id": "114369076",
+   "type": 11,
+   "heading": "Artigo 4.º — Delimitação da área de produção",
+   "in_force_from": "2017-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 378/2017 - Diário da República n.º 241/2017, Série I de 2017-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/378-2017-114365363), em vigor a partir de 2017-12-19"
+   ],
+   "markdown": "###### Artigo 4.º — Delimitação da área de produção\n\n1 - A área geográfica de produção da IG «Terras do Dão» corresponde à área prevista no anexo I da presente portaria da qual faz parte integrante e abrange:\n\na) Do distrito de Aveiro, no município de Sever do Vouga, da União de Freguesias de Cedrim e Paradela, apenas a freguesia de Cedrim;\n\nb) Do distrito de Coimbra, todas as freguesias dos municípios de Arganil, Oliveira do Hospital e Tábua;\n\nc) Do distrito da Guarda, todas as freguesias dos municípios de Aguiar da Beira, Fornos de Algodres, Gouveia e Seia;\n\nd) Do distrito de Viseu, todas as freguesias dos municípios de Carregal do Sal, Castro Daire, Mangualde, Mortágua, Nelas, Oliveira de Frades, Penalva do Castelo, Santa Comba Dão, São Pedro do Sul, Sátão, Tondela, Vila Nova de Paiva, Viseu e Vouzela.\n\n2 - A área geográfica de produção de vinhos e vinho espumante com direito a serem comercializados com a indicação complementar da sub-região «Terras de Lafões» é a seguinte:\n\na) Do distrito de Aveiro, no município de Sever do Vouga, da União de Freguesias de Cedrim e Paradela, apenas a freguesia de Cedrim;\n\nb) Do distrito de Viseu, todas as freguesias dos municípios de Oliveira de Frades, São Pedro do Sul, Vouzela e Castro Daire e as freguesias de Bodiosa, Calde, Campo, Lordosa e Ribafeita do município de Viseu.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 378/2017 - Diário da República n.º 241/2017, Série I de 2017-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/378-2017-114365363), em vigor a partir de 2017-12-19"
+  },
+  "114355365": {
+   "fragment_id": "114369090",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 29 de julho de 2014."
+  },
+  "114369176": {
+   "fragment_id": "114369091",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 4.º)",
+   "in_force_from": "2017-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 378/2017 - Diário da República n.º 241/2017, Série I de 2017-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/378-2017-114365363), em vigor a partir de 2017-12-19"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 4.º)\n\nÁrea geográfica de produção da IG 'Terras do Dão'\n\n(ver documento original)\n\nÁrea geográfica de produção da Sub-Região 'Terras de Lafões'\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 378/2017 - Diário da República n.º 241/2017, Série I de 2017-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/378-2017-114365363), em vigor a partir de 2017-12-19"
+  }
+ }
+}

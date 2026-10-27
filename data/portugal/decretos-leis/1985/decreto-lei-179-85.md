@@ -1,0 +1,594 @@
+---
+schema_version: '1.0'
+id: pt:dre:151550:por
+title: Decreto-Lei n.º 179/85
+short_title: null
+summary: Altera o Estatuto do Teatro Nacional de S. Carlos, E. P. Revoga o artigo 40.º-A do Decreto-Lei n.º 259/80, de 5 de
+  Agosto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 179/85
+official_date: null
+publication_date: '1985-05-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/1985, Série I de 1985-05-23
+  number: '118'
+  series: I
+  supplement: null
+  pages: 1398 - 1404
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/05/11800/13981404.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '151550'
+  dre_path: /dr/detalhe/decreto-lei/179-1985-151550
+  internal: pt:dre:151550:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1985-151550
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1985-151550
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:03:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 487e11b755bf9b97e03825313c0118e028973df56fd21e8d405fee8f59e688f3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:03:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estatuto
+- Teatro Nacional de São Carlos
+relationships:
+- type: amended_by
+  target: pt:dre:639336:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:369580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:431018:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-431018
+  date: '1985-06-29'
+- type: repealed_by
+  target: pt:dre:639336:por
+  label: Revogado pelo(a) Decreto-Lei n.º 195-A/92 - Diário da República n.º 207/1992, 1º Suplemento, Série I-A de 1992-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-a-1992-639336
+  date: '1992-09-08'
+article_structure:
+  article_count: 45
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:03:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 179/85
+
+de 23 de Maio
+
+O presente diploma visa adaptar o Estatuto do Teatro Nacional de S. Carlos, E. P., em cumprimento do preceituado no n.º 1 do artigo 2.º do [Decreto-Lei n.º 29/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1984-659899), de 20 de Janeiro, diploma que introduziu alterações nos estatutos das empresas públicas em geral.
+
+Outrossim inclui, desde já, nas atribuições daquele Teatro a formação e manutenção de conjuntos de bailado, e não só de ópera e concertos, de modo a permitir a integração da Companhia Nacional de Bailado, que se encontra em regime de instalação, no limite do prazo.
+
+O conselho de administração passa de 3 para 5 membros nos termos da nova lei supracitada. Dos dois administradores, um será o representante dos trabalhadores e o outro responsável pela direcção artística e pela produção. Criando-se assim este pelouro ao nível do conselho, suprime-se o cargo de director-geral do Teatro. Justifica-se plenamente esta ascensão a nível mais alto de responsabilidade artística pela autoridade de que convém revestir o seu titular, e, pela sua íntima conexão, sobretudo no caso de espectáculos tão dispendiosos como a ópera e o bailado, com a gestão financeira.
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º O Estatuto do Teatro Nacional de S. Carlos, aprovado pelo [Decreto-Lei n.º 259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194), de 5 de Agosto, e alterado pelo [Decreto-Lei n.º 123/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1981-573731), de 25 de Maio, é alterado nos seguintes termos:
+
+### CAPÍTULO I — Disposições fundamentais
+
+#### SECÇÃO I — Denominação, natureza e sede
+
+###### Artigo 1.º — (Denominação e natureza)
+
+1 - ...
+
+2 - ...
+
+###### Artigo 2.º — (Sede e representação)
+
+1 - ...
+
+2 - O Teatro pode, porém, por deliberação do conselho de administração, abrir delegações ou qualquer outra forma de representação onde entenda conveniente.
+
+#### SECÇÃO II — Objecto e atribuições
+
+###### Artigo 3.º — (Objecto)
+
+1 - O Teatro Nacional de S. Carlos, E. P., tem como objecto principal a promoção e difusão da cultura artística nos domínios da ópera, do bailado, da música e das demais artes de espectáculo de alto nível estético, de que a música seja componente essencial.
+
+2 - ...
+
+###### Artigo 4.º — (Atribuições)
+
+...
+
+a) ...
+
+b) ...
+
+c) Contribuir para a difusão da cultura portuguesa mediante a apresentação das respectivas obras no País e no estrangeiro e participação em realizações culturais compatíveis com o seu objecto próprio;
+
+d) Formar e manter companhias e corpos de cantores/actores, bailarinos e instrumentistas musicais;
+
+e) ...
+
+f) ...
+
+g) Estimular a valorização dos artistas portugueses na área de intervenção já definida para o Teatro.
+
+### CAPÍTULO II — Órgãos do Teatro
+
+#### SECÇÃO I — Disposições preliminares
+
+###### Artigo 5.º — (Órgãos do Teatro)
+
+1 - ...
+
+a) O conselho de administração;
+
+b) ...
+
+2 - ...
+
+#### SECÇÃO II — Do conselho de administração e da comissão executiva
+
+###### Artigo 6.º — (Composição)
+
+1 - O conselho de administração é composto por 1 presidente, 1 vice-presidente e 3 administrabalhadores da empresa e será eleito nos termos sob proposta do ministro da tutela.
+
+2 - Um dos administradores representará os trabalhadores da empresa e será eleito nos termos do artigo 31.º da [Lei n.º 46/79](https://diariodarepublica.pt/dr/detalhe/lei/46-1979-369580), de 12 de Setembro por maioria do número de trabalhadores representados.
+
+3 - Aos membros do conselho de administração que fazem parte da comissão executiva aplicam-se as normas do Estatuto do Gestor Público.
+
+###### Artigo 7.º — (Competência do presidente do conselho de administração)
+
+Compete ao presidente do conselho de administração:
+
+a) Coordenar a actividade do conselho de administração e da comissão executiva, e convocar e dirigir as suas reuniões, bem como as reuniões conjuntas destes com a comissão de fiscalização;
+
+b) Velar pela correcta aplicação das deliberações do conselho de administração;
+
+c) Atribuir a cada membro da comissão executiva o pelouro ou pelouros que entenda lhe devam competir, salvo o da direcção artística e da produção, a que se refere a alínea seguinte;
+
+d) Propor ao ministro da tutela a designação do administrador do pelouro da direcção artística e da produção;
+
+e) Exercer voto de qualidade nos termos do n.º 3 do artigo 16.º;
+
+f) Exercer direito de veto nos termos do artigo 18.º;
+
+g) Em geral, representar o Teatro.
+
+###### Artigo 8.º — (Comissão executiva)
+
+1 - A gestão corrente do Teatro será assegurada por uma comissão executiva, constituída por 3 membros do conselho de administração, da qual farão obrigatoriamente parte o presidente, que igualmente a presidirá, e o administrador do pelouro da direcção artística e da produção.
+
+2 - Ao administrador do pelouro da direcção artística e da produção compete a orientação e direcção artística das produções do Teatro.
+
+3 - A comissão executiva age com poderes delegados pelo conselho de administração, o qual poderá sempre fazer a respectiva avocação.
+
+###### Artigo 9.º — (Delegação necessária)
+
+São necessariamente delegados na comissão executiva os seguintes poderes:
+
+a) A definição e a actualização concretizadas das regras de gestão corrente do Teatro, sua aplicação e controle corrente de execução;
+
+b) A elaboração, dos planos de actividades anuais e plurianuais, bem como os orçamentos anuais de exploração e de investimentos;
+
+c) A elaboração do balanço, da conta de exploração, da demonstração de resultados, bem como do relatório anual;
+
+d) A realização de despesas, a contracção de empréstimos, a aquisição, alienação e oneração de bens e de um modo geral a constituição de quaisquer obrigações do Teatro até ao montante de 50000 contos por operação, bem como a cobrança ou aceitação de quaisquer receitas ou activos;
+
+e) A elaboração dos projectos de contratos-programas;
+
+f) A negociação ou celebração de convenções colectivas de trabalho;
+
+g) A contratação de pessoal e a prática dos principais actos relativos à sua gestão;
+
+h) A representação do Teatro em juízo ou fora dele, podendo confessar, desistir ou transigir em quaisquer pleitos até ao montante indicado na alínea d) e designar mandatários para o efeito;
+
+i) A submissão às necessárias autorizações ou aprovações dos actos que delas careçam e cuja prática lhe esteja cometida ou delegada;
+
+j) A prática de todos os demais actos necessários à gestão e condução efectiva dos negócios do Teatro.
+
+###### Artigo 10.º — (Funcionamento da comissão executiva)
+
+1 - A comissão executiva reúne ordinariamente uma vez por semana e extraordinariamente sempre que convocada pelo presidente ou a pedido conjunto dos seus outros membros.
+
+2 - São aplicáveis às reuniões e deliberações da comissão executiva as regras estabelecidas nos artigos 15.º e 16.º do presente Estatuto, com as necessárias adaptações.
+
+###### Artigo 11.º — (Responsabilidade pela condução da gestão)
+
+Para além da responsabilidade civil em que se constituam perante terceiros ou perante o Teatro e da responsabilidade criminal em que eventualmente incorram, os membros do conselho de administração respondem pela condução da gestão exclusivamente face ao Governo.
+
+###### Artigo 12.º — (Abonos e despesas de deslocações)
+
+Os membros do conselho de administração terão direito aos abonos e ajudas de custo em vigor no Teatro e ao pagamento de despesas de transporte e alojamento nos termos que forem fixados pela comissão executiva.
+
+###### Artigo 13.º — (Regalias sociais)
+
+Os membros da comissão executiva terão direito às regalias sociais asseguradas aos trabalhadores do Teatro em condições idênticas às estabelecidas para estes últimos, com excepção do subsídio de alimentação.
+
+###### Artigo 14.º — (Competência do conselho de administração)
+
+1 - O conselho de administração terá podem para garantir a gestão do Teatro e a administração do património respectivo que por força de lei ou do presente estatuto não estejam atribuídos a outros órgãos.
+
+2 - Compete em especial ao conselho de administração:
+
+a) Aprovar os objectivos e a política de gestão do Teatro;
+
+b) Aprovar os planos de actividade e financeiros anuais e plurianuais;
+
+e) Aprovar os documentos de prestação de contas e o relatório respectivo;
+
+d) Aprovar, dentro dos limites definidos pela lei ou pelos estatutos, a aquisição e alienação de bens e de participações financeiras, quando não previstas nos orçamentos anuais;
+
+e) Aprovar a organização técnico-administrativa da empresa e as normas gerais de funcionamento interno;
+
+f) Aprovar as normas relativas ao pessoal e o respectivo estatuto;
+
+g) Submeter a autorização ou aprovação tutelar os actos que, nos termos da lei ou do estatuto, o devem ser, sem prejuízo da delegação de competências na comissão executiva;
+
+h) Celebrar contratos-programas com o Estado;
+
+i) Representar o Teatro em juízo ou fora dele;
+
+j) Praticar os demais actos que lhe competem nos termos da lei e do estatuto ou dos regulamentos da empresa ou os que lhe sejam cometidos por delegação superior;
+
+l) Constituir mandatários, quando seja caso disso.
+
+3 - O exercício, da competência do conselho de administração depende, nos casos previstos na lei e no presente estatuto, da autorização ou aprovação do Governo ou da comissão de fiscalização.
+
+###### Artigo 15.º — (Reuniões)
+
+1 - O conselho de administração reúne ordinariamente uma vez por trimestre e extraordinariamente sempre que convocado pelo presidente, por iniciativa deste ou a pedido de 2 membros do dito conselho.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 16.º — (Deliberações)
+
+1 - Para o conselho de administração deliberar validamente é indispensável a presença pessoal e efectiva da maioria dos seus membros.
+
+2 - As deliberações do conselho são tomadas pela maioria dos seus votos expressos, salvo no caso a que se refere o número seguinte.
+
+3 - Em caso de empate, o presidente ou, na ausência deste, o vice-presidente, têm voto de qualidade.
+
+4 - ...
+
+5 - ...
+
+###### Artigo 17.º — (Delegação de poderes de gestão corrente)
+
+A comissão executiva pode, por sua vez, delegar poderes em qualquer ou quaisquer dos seus membros ou noutros trabalhadores do Teatro, estabelecendo, em acta, os respectivos limites e termos de exercício.
+
+###### Artigo 18.º — (Suspensão da executoriedade das deliberações)
+
+1 - O presidente do conselho de administração poderá, mediante declaração fundamentada, suspender as deliberações do conselho de administração ou da comissão executiva, quando as entenda irregulares ou carecidas de orientação tutelar.
+
+2 - Considera-se aprovada a deliberação que, submetida ao ministro da tutela, não seja objecto de decisão no prazo de 8 dias, tornando-se, pelo contrário, ineficaz, caso o veto seja confirmado.
+
+###### Artigo 19.º — (Termos em que o Teatro se obriga)
+
+O Teatro obirga-se:
+
+a) Pela assinatura conjunta de 2 membros da comissão executiva;
+
+b) Pela assinatura de 1 administrador no âmbito dos poderes nele delegados;
+
+c) Pela assinatura de trabalhador ou trabalhadores da empresa, no âmbito dos poderes neles delegados pela comissão executiva;
+
+d) ...
+
+#### SECÇÃO III — Da comissão de fiscalização
+
+###### Artigo 20.º — (Composição)
+
+1 - A comissão de fiscalização é composta por 3 membros, sendo um o presidente e os restantes vogais.
+
+2 - Um dos membros da comissão de fiscalização será obrigatoriamente revisor oficial de contas e haverá também um vogal proposto pelo órgão representativo dos trabalhadores.
+
+3 - Sempre que seja substituído o revisor oficial de contas o substituto deverá possuir igual qualificação.
+
+4 - Aplica-se em geral à comissão de fiscalização a legislação das empresas públicas e disposições complementares.
+
+###### Artigo 21.º — (Remunerações, abonos e despesas de deslocação)
+
+1 - ...
+
+2 - Os membros da comissão de fiscalização que, no exercício das suas funções, tenham de se deslocar da localidade em que habitualmente residem têm direito ao abono de ajudas de custo em vigor no Teatro e ao pagamento das despesas de alojamento e transporte que tenham sido fixadas para os membros da comissão executiva.
+
+###### Artigo 22.º — (Competência da comissão de fiscalização)
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) Verificar a exactidão do balanço, da conta de exploração, da demonstração de resultados e dos restantes elementos a apresentar anualmente pelo conselho de administração ou pela comissão executiva, bem como emitir parecer sobre o relatório anual;
+
+h) ...
+
+i) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de administração ou da comissão executiva em que, nos termos da lei ou do estatuto, o deva fazer;
+
+j) Pronunciar-se sobre qualquer assunto que lhe seja submetido pelo conselho de administração ou pela comissão executiva;
+
+l) Elaborar trimestralmente um relatório sucinto em que se refiram os controles efectuados e as anomalias detectadas e respectivas causas, enviando-o aos Ministros da tutela e das Finanças e do Plano.
+
+2 - A comissão de fiscalização poderá fazer-se assistir, quando necessário, por auditores contratados pela comissão executiva.
+
+3 - ...
+
+###### Artigo 23.º — (Presidente da comissão de fiscalização)
+
+1 - A competência do presidente da comissão de fiscalização regula-se pelo disposto no artigo 9.º, com as necessárias adaptações.
+
+2 - O presidente da comissão de fiscalização, por sua iniciativa ou a pedido do presidente do conselho de administração, poderá assistir ou fazer-se representar por outro membro da comissão às reuniões do conselho de administração ou da comissão executiva.
+
+###### Artigo 24.º — (Reuniões)
+
+1 - A comissão de fiscalização reúne ordinariamente uma vez por bimestre e extraordinariamente sempre que convocada pelo seu presidente, por sua iniciativa ou a pedido dos 2 vogais.
+
+2 - À convocação da comissão de fiscalização aplica-se, com as necessárias adaptações, o disposto no artigo 15.º, n.os 2, 3 e 4.
+
+###### Artigo 25.º — (Deliberações)
+
+...
+
+###### Artigo 26.º — (Presença nas reuniões do conselho de administração ou da comissão executiva)
+
+A comissão de fiscalização assistirá obrigatoriamente às reuniões do conselho de administração ou da comissão executiva em que se apreciem os documentos da prestação de contas.
+
+### CAPÍTULO III — Da intervenção do Governo
+
+###### Artigo 27.º — (Do ministro da tutela)
+
+Compete ao ministro da tutela, por si só ou conjuntamente com outros membros do Governo, quando a lei o exija:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Autorizar a realização de empréstimos e suas condições, bem como a prestação de garantias, acima do limite estabelecido na alínea d) do artigo 9.º;
+
+g) ...
+
+h) ...
+
+i) Designar o administrador do pelouro da direcção artística e da produção, mediante proposta do presidente do conselho de administração.
+
+###### Artigo 28.º — (Intervenção de outros ministros)
+
+1 - ...
+
+2 - ...
+
+### CAPÍTULO IV — Da gestão patrimonial e financeira
+
+###### Artigo 29.º — (Disposição e administração de bens)
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 30.º — (Responsabilidade por dívidas)
+
+Pelas dívidas do Teatro responde exclusivamente o seu património, à excepção dos bens do domínio público enumerados no artigo anterior e ainda de arquivos, cenários, maquetas, guarda-roupa e outros bens relativos à vida histórica do Teatro cujo valor cultural seja relevante.
+
+###### Artigo 31.º — (Receitas)
+
+...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) Um subsídio não reembolsável a inscrever anualmente no orçamento do Ministério da Cultura.
+
+###### Artigo 32.º — (Princípios básicos de gestão)
+
+...
+
+a) Adaptação da oferta dos serviços às necessidades da procura cultural;
+
+b) Obtenção de preços que permitam o acesso do público aos serviços oferecidos pelo Teatro;
+
+c) Obtenção de índices de produtividade compatíveis com os padrões internacionais do sector;
+
+d) Evolução da massa salarial adequada às condições do mercado e à natureza da empresa;
+
+e) Subordinação dos novos investimentos a critérios de prudência económica, sem prejuízo das necessidades culturais do Teatro;
+
+f) Adequação dos recursos financeiros à natureza dos activos a financiar;
+
+g) Compatibilização da estrutura financeira com a rentabilidade cultural da exploração e com o grau de risco da actividade;
+
+h) Adopção de uma gestão previsional por objectivos, assente na descentralização e delegação de responsabilidades adaptadas à dimensão da empresa.
+
+###### Artigo 33.º — (Instrumentos de gestão previsional)
+
+...
+
+a) ...
+
+b) Planos financeiros plurianuais;
+
+c) ...
+
+d) ...
+
+e) Orçamentos cambiais;
+
+f) Relatórios trimestrais de controle orçamental.
+
+###### Artigo 34.º — (Amortizações e reintegrações)
+
+1 - A amortização e reintegração dos bens e a reavaliação do activo imobilizado, bem como a constituição de reservas, fundos e aplicação de resultados, serão efectuadas mediante critérios a aprovar pelo ministro da tutela e pelos ministros competentes, mediante proposta do conselho de administração.
+
+2 - ...
+
+###### Artigo 35.º — (Documentos de prestação de contas)
+
+Serão elaborados e aprovados, com referência a 31 de Dezembro de cada ano, um relatório do conselho de administração dando conta da forma como foram atingidos os objectivos do Teatro, bem como o balancete e a demonstração de resultados, e o mapa de origem e aplicação de fundos.
+
+###### Artigo 36.º — (Aprovação de contas)
+
+1 - ...
+
+2 - ...
+
+###### Artigo 37.º — (Isenção de formalidades)
+
+1 - ...
+
+2 - ...
+
+###### Artigo 38.º — (Cadastro)
+
+...
+
+###### Artigo 39.º — (Arquivo)
+
+O Teatro conservará em arquivo por 10 anos os documentos da sua escrita principal e de 5 em 5 anos entregará ao Arquivo Nacional da Torre do Tombo todos aqueles que revistam interesse histórico ou cultural e tenham deixado de ser úteis à sua actividade.
+
+### CAPÍTULO V — Pessoal
+
+###### Artigo 40.º — (Regime jurídico do pessoal)
+
+O regime jurídico do pessoal é definido:
+
+a) ...
+
+b) ...
+
+c) Pelas demais normas que integram o estatuto do pessoal do Teatro, elaborado pela comissão executiva e aprovado pelo conselho de administração quando seja caso disso.
+
+###### Artigo 41.º — (Comissões de serviço. Acumulações)
+
+1 - ...
+
+2 - Nas mesmas condições poderão os trabalhadores do Teatro prestar serviço ou exercer funções no Estado, autarquias, institutos e empresa públicas, inclusive nos respectivos órgãos de gestão.
+
+3 - Os trabalhadores em comissão de serviço nos termos do disposto nos números antecedentes poderão optar pelo vencimento anteriormente auferido no quadro de origem ou por aquele que corresponder às funções que vão desempenhar.
+
+###### Artigo 42.º — (Situação dos trabalhadores nomeados para cargas nos órgãos do Teatro)
+
+1 - A situação dos trabalhadores do Teatro que sejam chamados a ocupar cargos nos órgãos do mesmo em nada será prejudicada por esse facto, regressando aos seus lugares logo que termine o mandato.
+
+2 - Os trabalhadores do Teatro ou de qualquer das entidades referidas no artigo anterior chamados a desempenhar outros cargos nos órgãos do Teatro acumulá-los-ão com as suas funções de origem, sem prejuízo das remunerações estabelecidas para o pertinente exercício desses outros cargos.
+
+###### Artigo 43.º — (Regime de previdência do pessoal)
+
+1 - ...
+
+2 - Ao pessoal do Teatro que em 1 de Outubro de 1980 fosse subscritor da Caixa Geral de Aposentações e à data da entrada em vigor do presente Estatuto nela permaneça é mantido este último regime.
+
+3 - Em conformidade com o artigo 63.º, n.º 2, alínea a), do Estatuto da Aposentação, o Teatro será responsável pelos encargos resultantes da aposentação do pessoal referido no número anterior em relação ao tempo de serviço nele prestado desde a data em que se constituiu em empresa pública.
+
+###### Artigo 44.º — (Regime fiscal do pessoal)
+
+...
+
+### CAPÍTULO VI — Regime fiscal do Teatro
+
+###### Artigo 45.º — (Regime fiscal)
+
+...
+
+Art. 2.º É revogado o artigo 40.º-A do [Decreto-Lei n.º 259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194), de 5 de Agosto, aditado pelo artigo 3.º do [Decreto-Lei n.º 123/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1981-573731), de 25 de Maio.
+
+Visto e aprovado em Conselho de Ministros de 23 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - António Antero Coimbra Martins.
+
+Promulgado em 9 de Maio de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 13 de Maio de 1985.
+
+O Primeiro-Ministro, Mário Soares.

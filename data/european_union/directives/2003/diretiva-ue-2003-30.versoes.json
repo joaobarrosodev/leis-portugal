@@ -1,0 +1,49 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0030:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0030-20120101",
+ "dre_path": null,
+ "source_lastmod": "2012-01-01",
+ "versions": [
+  {
+   "date": "2010-04-01",
+   "future": false,
+   "celex": "02003L0030-20100401",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "19fc89e250f28ffc"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "celex": "02003L0030-20120101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "b002f50c33232850"
+   ]
+  }
+ ],
+ "fragments": {
+  "19fc89e250f28ffc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2003L0030 — PT — 01.04.2010 — 001.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/303L0030) [DIRECTIVA 2003/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/303L0030) [de 8 de Maio de 2003](http://publications.europa.eu/resource/celex/303L0030) [relativa à promoção da utilização de biocombustíveis ou de outros combustíveis renováveis nos transportes](http://publications.europa.eu/resource/celex/303L0030) (JO L 123, 17.5.2003, p.42)\n\n**revogado por:**"
+  },
+  "b002f50c33232850": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2003L0030 — PT — 01.01.2012 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32003L0030) [DIRECTIVA 2003/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32003L0030) [de 8 de Maio de 2003](http://publications.europa.eu/resource/celex/32003L0030) [relativa à promoção da utilização de biocombustíveis ou de outros combustíveis renováveis nos transportes](http://publications.europa.eu/resource/celex/32003L0030) (JO L 123, 17.5.2003, p.42)\n\n**revogado por:**\n\n- [Directiva 2009/28/CE do Parlamento Europeu e do Conselho de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0028) — L 140 — 16 — 5.6.2009"
+  }
+ }
+}

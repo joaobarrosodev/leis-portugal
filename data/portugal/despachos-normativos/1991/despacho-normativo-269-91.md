@@ -1,0 +1,174 @@
+---
+schema_version: '1.0'
+id: pt:dre:316875:por
+title: Despacho Normativo n.º 269/91
+short_title: null
+summary: Determina que os Externatos Marquês de Pombal e Álvares Cabral sejam autorizados a ministrar o 3.º ciclo do ensino
+  básico, na modalidade de ensino recorrente
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 269/91
+official_date: null
+publication_date: '1991-11-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 261/1991, Série I-B de 1991-11-13
+  number: '261'
+  series: I
+  supplement: null
+  pages: 5814 - 5815
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/11/261b00/58145815.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/269/1991/11/13/p/dre/pt/html
+  oj: null
+  dre: '316875'
+  dre_path: /dr/detalhe/despacho-normativo/269-1991-316875
+  internal: pt:dre:316875:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/269-1991-316875
+  metadata_url: https://data.dre.pt/eli/despnorm/269/1991/11/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/269-1991-316875
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:52:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 38d7860bb0834cadc63ed5e866f2e278b6ca2d2702af5423418fa8f218088855
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:52:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Educação dos Adultos
+- Ensino Básico
+- Ensino Particular
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:221523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304765:por
+  label: null
+  source: http://data.dre.pt/eli/despnorm/193/1991/09/05/p/dre
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478447:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/1991/02/09/p/dre
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:52:20Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 269/91
+
+A Lei de Bases do Sistema Educativo - [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro - consagra entre os seus princípios organizativos o de que ao sistema educativo compete assegurar uma escolaridade de segunda oportunidade aos que dela não usufruíram em idade própria, aos que procuram o sistema educativo por razões profissionais ou de formação cultural, devidas, nomeadamente, a necessidades de reconversão ou aperfeiçoamento decorrente da evolução dos conhecimentos científicos e tecnológicos, bem como estabelece que entre as modalidades especiais de educação escolar se inclui, designadamente, o ensino recorrente, destinado aos indivíduos que já não se encontram em idade normal de frequência dos ensinos básico e secundário.
+
+Consequentemente, o [Decreto-Lei n.º 74/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1991-478447), de 9 de Fevereiro, veio definir o quadro normativo geral a que deve subordinar-se a organização e o funcionamento da educação de adultos e, dentro desta, a vertente de ensino recorrente, tendo nomeadamente estabelecido que o ensino recorrente, nos seus diversos níveis, pode ser ministrado em estabelecimentos de ensino particular e cooperativo e que é livre a criação de curso de ensino recorrente, garantida que seja a sua qualidade científica e pedagógica e assegurado o respectivo reconhecimento oficial.
+
+Por sua vez, o Estatuto do Ensino Particular e Cooperativo - [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro - prevê que, a fim de promover a inovação pedagógica e a melhoria da qualidade de ensino, o Ministério da Educação autorizará a realização de experiências pedagógicas e fomentará a criação de cursos com planos próprios.
+
+Ora, atendendo a que os Externatos Marquês de Pombal e Álvares Cabral vêm, desde há muito, desenvolvendo uma actividade especialmente vocacionada para o ensino de trabalhadores-estudantes e de um modo geral no domínio da escolaridade de segunda oportunidade, o que levou já a que, através do Despacho n.º 12/SEAM/85, de 28 de Janeiro, o Externato Marquês de Pombal tivesse sido autorizado a ministrar, em regime de autonomia pedagógica, o curso geral dos liceus, segundo o sistema de unidades capitalizáveis, e que, pelo [Despacho Normativo n.º 99/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/99-1986-221523), de 2 de Dezembro, os Externatos Marquês de Pombal e Álvares Cabral tivessem sido autorizados a ministrar um curso geral de ensino secundário, com planos de estudo próprios, em regime normal, e, para alunos maiores de 18 anos, segundo o sistema de unidades capitalizáveis, igualmente em regime de autonomia pedagógica;
+
+Na sequência da publicação do [Despacho Normativo n.º 193/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/193-1991-304765), de 5 de Setembro, que define os limites temporais e demais condições organizativas a que obedecerá a reforma do ensino recorrente ao nível do 3.º ciclo do ensino básico e do ensino secundário;
+
+Atendendo a que neste quadro de reforma importa, no entanto, promover, apoiar, avaliar e reconhecer iniciativas cuja qualidade contribua, de modo decisivo, para a generalização bem sucedida das experiências em curso:
+
+Nos termos do artigo 11.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, e do artigo 8.º do [Decreto-Lei n.º 74/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1991-478447), de 9 de Fevereiro, e ao abrigo ao disposto no artigo 2.º do [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967, determino o seguinte:
+
+1 - Os Externatos Marquês de Pombal e Álvares Cabral são autorizados a ministrar o 3.º ciclo do ensino básico, na modalidade de ensino recorrente, segundo planos de estudos próprios, organizado quer sob o sistema de ensino por blocos de aprendizagem, quer sob o sistema de ensino por unidades capitalizáveis.
+
+2 - Têm acesso ao 3.º ciclo do ensino básico, na modalidade de ensino recorrente, ministrado nas referidas escolas os indivíduos maiores de 15 anos que possuam como habilitação mínima o 2.º ciclo do ensino básico ou habilitação equivalente. Poderão, no entanto, ser admitidos candidatos que não possuam essa habilitação, mediante avaliação diagnóstica que tenha em conta um quadro de correspondências e de conhecimentos previamente estabelecidos de acordo com o respectivo plano curricular.
+
+3 - O 3.º ciclo do ensino básico, na modalidade de ensino recorrente, é organizado, no sistema de ensino por blocos de aprendizagem e no sistema de ensino por unidades capitalizáveis, segundo os planos de estudo constantes dos quadros anexos ao presente despacho.
+
+4 - O 3.º ciclo do ensino básico, na modalidade de ensino recorrente, funciona em regime de autonomia pedagógica, nos termos em que é definida pelo n.º 1 do artigo 35.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
+
+5 - O curso ministrado nos Externatos Marquês de Pombal e Álvares Cabral confere, em qualquer dos sistemas, um diploma de valor oficial correspondente ao diploma do 3.º ciclo do ensino básico ou equivalente anterior.
+
+6 - A organização e o funcionamento, bem como as regras de avaliação, transição e progressão do curso ministrado no sistema de ensino por blocos de aprendizagem, constarão de regulamento a elaborar pelo estabelecimento de ensino e sujeito a homologação do director-geral de Extensão Educativa.
+
+7 - As eventuais alterações ao regime de organização e funcionamento do curso, em qualquer dos sistemas, serão objecto de aprovação pela Direcção-Geral de Extensão Educativa e comunicação à Direcção-Geral dos Ensinos Básico e Secundário.
+
+Ministério da Educação, 4 de Outubro de 1991. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
+
+## ANEXO — Plano curricular para o 3.º ciclo do ensino básico
+
+1 - Sistema de ensino por unidades capitalizáveis
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/261b00/58145815.pdf)
+
+2 - Sistema de ensino por blocos de aprendizagem
+
+Disciplinas:
+
+Português;
+
+Matemática;
+
+Língua Estrangeira.
+
+Áreas disciplinares:
+
+Ciências da Natureza;
+
+Ciências Sociais;
+
+Artes Visuais.
+
+Área de formação específica (opções):
+
+Iniciação às Actividades Sócio-Económicas; ou
+
+Sistemas de Informação; ou
+
+Tecnologias.

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0966:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0966-20091017",
+ "dre_path": null,
+ "source_lastmod": "2009-10-17",
+ "versions": [
+  {
+   "date": "2009-10-16",
+   "future": false,
+   "celex": "32009R0966",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b602cde889ed709b",
+    "537111711d68cc53",
+    "cb4e44f9335e88dc",
+    "2f57324a4721c2c7"
+   ]
+  }
+ ],
+ "fragments": {
+  "b602cde889ed709b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Outubro de 2009\n\nque altera o Regulamento (CE) n.º 657/2008 que estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») [([^1])](http://publications.europa.eu/resource/cellar/53716e05-0df7-4143-a8ea-f30fe764fed3.0018.02/DOC_1#ntr1-L_2009271PT.01001001-E0001), nomeadamente o artigo 102.º, em conjugação com o artigo 4.º,\n\nConsiderando o seguinte:\n\n(1) A experiência mostrou que alguns dos produtos constantes actualmente do anexo I do Regulamento (CE) n.º 657/2008 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/53716e05-0df7-4143-a8ea-f30fe764fed3.0018.02/DOC_1#ntr2-L_2009271PT.01001001-E0002) não estão disponíveis no mercado em vários Estados-Membros.\n\n(2) Para garantir a possibilidade de utilização, nos Estados-Membros, de uma gama mais vasta de produtos elegíveis para ajuda, é necessário ampliar essa lista. Dado que a ampliação da lista de produtos elegíveis não implica a alteração dos parâmetros de determinação dos montantes da ajuda, estes devem manter-se inalterados para os produtos da categoria II.\n\n(3) A experiência mostrou igualmente que as definições de queijo e de edulcorantes não são abrangentes; importa, pois, alterá-las.\n\n(4) O Regulamento (CE) n.º 657/2008 deve, por conseguinte, ser alterado em conformidade.\n\n(5) O Comité de Gestão para a Organização Comum dos Mercados Agrícolas não emitiu parecer no prazo fixado pelo seu Presidente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "537111711d68cc53": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I do Regulamento (CE) n.º 657/2008 é substituído pelo texto que consta do anexo do presente regulamento."
+  },
+  "cb4e44f9335e88dc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 15 de Outubro de 2009.\n\n***Pela Comissão***\n\n**Mariann FISCHER BOEL**\n\n***Membro da Comissão***\n\n---"
+  },
+  "2f57324a4721c2c7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/53716e05-0df7-4143-a8ea-f30fe764fed3.0018.02/DOC_1#ntc1-L_2009271PT.01001001-E0001) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/53716e05-0df7-4143-a8ea-f30fe764fed3.0018.02/DOC_1#ntc2-L_2009271PT.01001001-E0002) [JO L 183 de 11.7.2008, p. 17](http://publications.europa.eu/resource/oj/JOL_2008_183_R_TOC)."
+  }
+ }
+}

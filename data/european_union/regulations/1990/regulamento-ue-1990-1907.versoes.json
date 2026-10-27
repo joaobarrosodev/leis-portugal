@@ -1,0 +1,591 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990R1907:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990R1907-20070701",
+ "dre_path": null,
+ "source_lastmod": "2007-07-01",
+ "versions": [
+  {
+   "date": "1990-07-06",
+   "future": false,
+   "celex": "31990R1907",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2566913cb9eae1c8",
+    "63382173d5bf7c24",
+    "f18683bbb5e7eb32",
+    "61da3d0482abd6d9",
+    "5181105aea43faec",
+    "656d2f9505f65ae3",
+    "e0fd1cdd706ec079",
+    "fca9f3293222a530",
+    "4e9e35f74dfdd914",
+    "cdb5f8c8449b4555",
+    "ae09611d69053640",
+    "f3b7ec0d3ad57747",
+    "b1943de484053234",
+    "31a0739e57c362ad",
+    "9f62505e695e8146",
+    "d7bb5113e815b71f",
+    "3e0d252c59415da1",
+    "cbce454d3f1c5268",
+    "002c68aba87f0b6b",
+    "33aca4935b20ec08",
+    "40419237d58b779b",
+    "3e30519bd7333e54",
+    "744abe014d707968",
+    "9bb6ac179a139fef",
+    "695d8e853a66b597",
+    "557922402f2f3aba"
+   ]
+  },
+  {
+   "date": "2005-07-01",
+   "future": false,
+   "celex": "01990R1907-20050701",
+   "acts": [
+    {
+     "id": "eu:celex:31993R2617:por",
+     "title": "REGULAMENTO (CEE) N. o 2617/93 DO CONSELHO de 21 de Setembro de 1993",
+     "published": null,
+     "celex": "31993R2617"
+    },
+    {
+     "id": "eu:celex:31994R3117:por",
+     "title": "REGULAMENTO (CE) N. o 3117/94 DO CONSELHO de 12 de Dezembro de 1994",
+     "published": null,
+     "celex": "31994R3117"
+    },
+    {
+     "id": "eu:celex:31996R0818:por",
+     "title": "REGULAMENTO (CE) N. o 818/96 DO CONSELHO de 29 de Abril de 1996",
+     "published": null,
+     "celex": "31996R0818"
+    },
+    {
+     "id": "eu:celex:32001R0005:por",
+     "title": "REGULAMENTO (CE) N. o 5/2001 DO CONSELHO de 19 de Dezembro de 2000",
+     "published": null,
+     "celex": "32001R0005"
+    },
+    {
+     "id": "eu:celex:32003R2052:por",
+     "title": "REGULAMENTO (CE) N. o 2052/2003 DO CONSELHO de 17 de Novembro de 2003",
+     "published": null,
+     "celex": "32003R2052"
+    },
+    {
+     "id": "eu:celex:32005R1039:por",
+     "title": "REGULAMENTO (CE) N. o 1039/2005 DO CONSELHO de 21 de Junho de 2005",
+     "published": null,
+     "celex": "32005R1039"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 24.º",
+    "Adita Artigo 22.º A",
+    "Adita ANEXO",
+    "Adita ANEXO II",
+    "Adita Regiões da Finlândia referidas no n.º 3 do artigo 2.º",
+    "Adita Notas",
+    "Suprime ANEXO — Tabela de correspondências"
+   ],
+   "fragments": [
+    "584428373a538b21",
+    "e98fa2bccc9fd2b4",
+    "604891d844b323a3",
+    "a7641dceed035c6e",
+    "0de0827263fc02dd",
+    "6aa151868833c000",
+    "bad36410e3670afd",
+    "72f498d7988b8a78",
+    "358c412bf2b944dd",
+    "cdb5f8c8449b4555",
+    "b287052d6fc5df08",
+    "bd069ab82b3bfc86",
+    "af6264c7cf911f14",
+    "d831d19eaf2808f8",
+    "9f62505e695e8146",
+    "42718f573007f702",
+    "0162a5e3e9bcb37a",
+    "cbce454d3f1c5268",
+    "002c68aba87f0b6b",
+    "33aca4935b20ec08",
+    "4b70388bd6fa9800",
+    "3e30519bd7333e54",
+    "aa2c137c5fe5db99",
+    "403f921f3388ae0b",
+    "5c03b691046bded9",
+    "82f620476de2b068",
+    "5c2c63e4da70fce0",
+    "852174729551523b",
+    "137725b0bb67cea2",
+    "21ad16d2ab152299"
+   ]
+  },
+  {
+   "date": "2007-07-01",
+   "future": false,
+   "celex": "01990R1907-20070701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 22.º A",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime ANEXO",
+    "Suprime ANEXO II",
+    "Suprime Regiões da Finlândia referidas no n.º 3 do artigo 2.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "d7641789721f3388"
+   ]
+  }
+ ],
+ "fragments": {
+  "2566913cb9eae1c8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1907/90 do Conselho, de 26 de Junho de 1990, relativo a certas normas de comercialização aplicáveis aos ovos** *Jornal Oficial nº L 173 de 06/07/1990 p. 0005 - 0011 Edição especial finlandesa: Capítulo 3 Fascículo 33 p. 0042 Edição especial sueca: Capítulo 3 Fascículo 33 p. 0042 edição especial em língua checa Capítulo 03 Fascículo 10 p. 96 - 102 edição especial em língua estónia Capítulo 03 Fascículo 10 p. 96 - 102 edição especial em língua húngara Capítulo 03 Fascículo 10 p. 96 - 102 edição especial em língua lituana Capítulo 03 Fascículo 10 p. 96 - 102 edição especial em língua letã Capítulo 03 Fascículo 10 p. 96 - 102 edição especial em língua maltesa Capítulo 03 Fascículo 10 p. 96 - 102 edição especial em língua polaca Capítulo 03 Fascículo 10 p. 96 - 102 edição especial em língua eslovaca Capítulo 03 Fascículo 10 p. 96 - 102 edição especial em língua eslovena Capítulo 03 Fascículo 10 p. 96 - 102*\n\nREGULAMENTO (CEE) N.o 1907/90 DO CONSELHO\n\nde 26 de Junho de 1990\n\nrelativo a certas normas de comercialização aplicáveis aos ovos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.o 2771/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector dos ovos [1], com a última redacção que lhe foi dada pelo Regulamento (CEE) n.o 1235/89 [2], e, nomeadamente, o n.o 2 do seu artigo 2.o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o Regulamento (CEE) n.o 2771/75 prevê a fixação de normas de comercialização que podem incidir, nomeadamente, sobre a classificação por categoria de qualidade e classe de peso, a embalagem, a armazenagem, o transporte, a apresentação e a marcação dos ovos;\n\nConsiderando que tais normas são susceptíveis de contribuir para a melhoria da qualidade dos ovos e facilitar, por esse facto, o seu escoamento; que, por conseguinte, é do interesse dos produtores, dos comerciantes e dos consumidores que sejam aplicadas normas de comercialização no que respeita aos ovos de galinha próprios para o consumo humano;\n\nConsiderando que o Regulamento (CEE) n.o 2772/75 [3]fixa certas normas de comercialização aplicáveis aos ovos, que devem ser reexaminadas regularmente de forma a proporcionar melhores garantias e uma informação mais precisa ao consumidor final dos ovos, nomeadamente à luz da evolução das práticas comerciais;\n\nConsiderando que a experiência adquirida com as normas existentes e as consultas a organizações representativas do comércio e dos consumidores mostraram a necessidade de proceder a novas adaptações e de prever a adopção de regras específicas, de acordo com o processo previsto no artigo 17.o do Regulamento (CEE) n.o 2771/75, de modo a facilitar ulteriores adaptações;\n\nConsiderando que o estabelecimento de tais normas exige que se estabeleça uma distinção clara entre ovos próprios e impróprios para o consumo humano, nomeadamente os ovos partidos ou incubados, destinando-se estes últimos, em princípio, a ser utilizados por indústrias que não a da alimentação humana; que essa regulamentação exige, além disso, que os ovos de outras espécies não possam ser misturados com ovos de galinha;\n\nConsiderando que as normas devem ser aplicáveis a todos os ovos de galinha comercializados no território da Comunidade; que, todavia, se afigura necessário excluir do seu campo de aplicação certas formas de venda do produtor ao consumidor, na medida em que se trate de pequenas quantidades; que convém, por outro lado, dispensar da classificação e da marcação os ovos transportados do local de produção para um centro de inspecção e classificação ou para. certos mercados grossistas e os ovos destinados à indústria alimentar;\n\nConsiderando que importa, por isso, estabelecer a lista de fornecedores das empresas habilitadas a classificar os ovos por categoria de qualidade e classe de peso;\n\nConsiderando que é conveniente reservar a classificação dos ovos às empresas suficientemente equipadas para esse efeito;\n\nConsiderando que as normas de qualidade respeitantes aos ovos devem ser facilmente compreensíveis para o consumidor e ir ao encontro dos esforços de racionalização desenvolvidos em todos os estádios da distribuição; que, por conseguinte, convém prever um número limitado mas suficiente de categorias de qualidade e classes de peso;\n\nConsiderando que o consumidor deve ter a possibilidade de distinguir os ovos de diferentes categorias de qualidade e classes de peso; que essa exigência pode ser satisfeita pela aposição de marcas nos ovos e nas embalagens;\n\nConsiderando que é necessário determinar as indicações que podem ser utilizadas nas embalagens e as que o devem ser; que a utilização de determinadas indicações facultativas deve ser objecto de regras pormenorizadas a adoptar de acordo com o processo previsto no artigo 17.o do Regulamento (CEE) n.o 2771/75;\n\nConsiderando que a marcação dos \"ovos frescos\" pode ser facultativa, dado que a marcação obrigatória dos restantes ovos assegura uma fácil distinção;\n\nConsiderando que deve ser permitido a qualquer pessoa que comercialize \"ovos frescos\" apor nesses ovos outras menções com fins publicitários;\n\nConsiderando que é desejável permitir aos operadores apor directamente nos ovos determinadas menções até agora reservadas às pequenas embalagens; que a utilização dessas menções deve ser sujeita a condições idênticas às previstas para as embalagens e a uma vigilância rigorosa; que, no caso de ovos destinados à venda a granel, a data da classificação deve substituir a data da embalagem;\n\nConsiderando que qualquer outra marcação poderia modificar as condições do comércio no interior da Comunidade;\n\nConsiderando que as definições previstas nos anteriores regulamentos comunitários relativas à embalagem e à apresentação dos ovos para venda devem ser estabelecidas de forma mais precisa; que se tornou necessário prever determinadas garantias para a venda a retalho de ovos sem embalagem especial;\n\nConsiderando que a experiência demonstrou que as normas actualmente em vigor, que prevêem a possibilidade de utilizar somente a data de venda recomendada nos ovos ou nas suas embalagens, para além da obrigatória data de embalagem, são demasiado rígidas; que, portanto, deve ser prevista a possibilidade de utilização de outras datas, em condições adequadas; que a prática actual mostra que a indicação do período de embalagem pode ser dispensada;\n\nConsiderando que devem ser adoptadas disposições comuns de embalagem que assegurem a manutenção da qualidade dos ovos e que facilitem as trocas e o controlo da conformidade com as normas;\n\nConsiderando que, a fim de permitir uma escolha livre ao consumidor e de assegurar que lhe são apresentados produtos em conformidade com as normas de qualidade e de peso, os retalhistas devem fornecer informações adequadas quer nas próprias mercadorias apresentadas quer junto às mesmas;\n\nConsiderando que é indispensável, no interesse do produtor e do consumidor, que os ovos importados de países terceiros estejam em conformidade com as normas comunitárias;\n\nConsiderando que as disposições especiais em vigor em certos países terceiros podem justificar derrogações com vista a permitir, nesses casos, exportações para fora da Comunidade; que se mostra oportuno excluir do âmbito de aplicação das normas comunitárias os ovos importados de países terceiros ou exportados para países terceiros, em pequenas quantidades, pelo consumidor para sua utilização pessoal;\n\nConsiderando que compete a cada Estado-membro designar o ou os organismos responsáveis pelo controlo; que as regras desse controlo devem ser uniformes;\n\nConsiderando que compete igualmente a cada Estado-membro prever as sanções aplicáveis aos transgressores;\n\nConsiderando que as disposições do presente regulamento não afectam as disposições comunitárias que possam vir a ser adoptadas com vista à harmonização das disposições em matéria de legislação veterinária e de legislação sobre géneros alimentícios e que se destinem a proteger a saúde das pessoas e dos animais e a evitar falsificações e fraudes;\n\nConsiderando que, dadas as alterações substanciais acima mencionadas e a necessidade de introduzir um determinado número de alterações de carácter meramente redaccional no Regulamento (CEE) n.o 2772/75, é aconselhável, por razões de clareza, reformular a legislação aplicável ao sector;\n\nConsiderando que, por conseguinte, o Regulamento (CEE) n.o 2772/75 pode ser revogado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "63382173d5bf7c24": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. \"Ovos\", os ovos de galinha, com casca, próprios para consumo humano directo ou para utilização pelas indústrias alimentares, com exclusão dos ovos partidos, dos ovos incubados e dos ovos cozinhados;\n\n2. \"Ovos industriais\", os ovos de galinha, com casca, que não os referidos no ponto 1, incluindo os ovos partidos e os ovos incubados, mas excluindo os ovos cozinhados;\n\n3. \"Ovos para incubação\", os ovos destinados à produção de pintos, identificados em conformidade com a regulamentação respeitante aos ovos para incubação;\n\n4. \"Ovos partidos\", os ovos que apresentem defeitos da casca ou das membranas, que impliquem a exposição do seu conteúdo;\n\n5. \"Ovos fendidos\", os ovos com a casca danificada, que não apresente solução de continuidade, sem ruptura da membrana;\n\n6. \"Ovos incubados\", os ovos a partir do momento da sua colocação em incubação;\n\n7. \"Comercialização\", a posse ou a exposição para venda, a colocação em venda, a entrega ou qualquer outra forma de comercialização;\n\n8. \"Ajuntador\", qualquer pessoa autorizada pelas autoridades competentes a recolher ovos junto de um produtor para entrega:\n\na) A um centro de inspecção e classificação;\n\nb) Num mercado a que tenham acesso exclusivo, na qualidade de compradores, grossistas cujas empresas se encontrem aprovadas como centro de inspecção e classificação; ou\n\nc) À indústria:\n\n9. \"Centro de inspecção e classificação\", uma empresa autorizada pela autoridade competente a classificar os ovos por categorias de qualidade e classes de peso;\n\n10. \"Lote\", o conjunto de ovos provenientes de um mesmo centro de inspecção e classificação, colocados num só local, embalados ou a granel, que tragam a indicação da mesma data de embalagem ou de classificação e da mesma categoria de qualidade e classe de peso;\n\n11. \"Embalagens grandes\", as embalagens, recipientes ou contentores abertos que contenham mais de trinta e seis ovos;\n\n12. \"Embalagens pequenas\", as embalagens, tabuleiros ou alvéolos envolvidos por uma película plástica que contenham até trinta e seis ovos, com exclusão dos tabuleiros ou alvéolos não envolvidos;\n\n13. \"Venda a granel\", a venda a retalho de ovos não contidos em embalagens pequenas ou grandes."
+  },
+  "f18683bbb5e7eb32": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Sempre que sejam objecto de uma actividade profissional ou comercial, os ovos só podem ser comercializados no interior da Comunidade se satisfizerem as disposições do presente regulamento.\n\n2. Todavia, as disposições relativas à classificação por categoria de qualidade e classe de peso e à marcação não se aplicam aos ovos:\n\na) Transportados directamente do local de produção para um centro de inspecção e classificação ou para um mercado a que tenham acesso exclusivo, na qualidade de compradores, ou grossistas cujas empresas se encontrem aprovadas como centros de inspecção e classificação em conformidade com o artigo 5.o, ou para efeitos de transformação; empresas da indústria de alimentação humana aprovadas em conformidade com a Directiva 89/437/CEE do Conselho, de 20 de Junho de 1989, relativa aos problemas de ordem higiénica e sanitária respeitantes à produção e à colocação no mercado dos ovoprodutos [4];\n\nb) Produzidos na Comunidade e entregues, para efeitos de transformação, a empresas da indústria de alimentação humana aprovadas em conformidade com a Directiva 89/437/CEE.\n\n3. O disposto no presente regulamento não se aplica aos ovos cedidos directamente ao consumidor, para sua utilização pessoal, pelo produtor, na sua própria exploração, num mercado público local, com excepção dos mercados de venda por leilão, ou por venda ambulante, desde que os ovos provenham da sua própria produção, não estejam embalados nos termos dos artigos 10.o, 11.o e 12.o e não seja utilizada nenhuma das indicações relativas às categorias de qualidade e classes de peso previstas pelo presente regulamento.\n\n4. O disposto no presente regulamento não prejudica as disposições em matéria veterinária ou as relativas à saúde e aos géneros alimentícios adoptadas no sentido de assegurar a observância das normas higiénicas e sanitárias aplicáveis aos produtos ou de proteger a saúde dos animais e das pessoas."
+  },
+  "61da3d0482abd6d9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs ovos referidos no ponto 1 do artigo 1.o não podem ser misturados com ovos de outras espécies."
+  },
+  "5181105aea43faec": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sem prejuízo do artigo 2.o, o produtor só pode entregar:\n\na) Ovos, aos ajuntadores, aos centros de inspecção e classificação, aos mercados referidos no n.o 2, alínea a), do artigo 2.o, ou à indústria;\n\nb) Ovos industriais, com exclusão dos ovos incubados, aos centros de inspecção e classificação ou à indústria, excluindo a indústria de alimentação humana;\n\nc) Ovos incubados, à indústria, excluindo a indústria de alimentação humana, ou às fábricas que produzem gorduras e óleos industriais.\n\n2. Os ovos partidos acidentalmente em centros de inspecção e classificação só podem ser entregues à indústria transformadora, com excepção da indústria de alimentação humana."
+  },
+  "656d2f9505f65ae3": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Com excepção dos casos previstos no artigo 8.o, só os centros de inspecção e classificação podem classificar os ovos por categoria de qualidade e classe de peso.\n\n2. Os centros de inspecção e classificação devem ter uma lista actualizada dos seus fornecedores.\n\n3. A autoridade competente concederá, com base em critérios a determinar de acordo com o processo previsto no artigo 20.o, a autorização de classificar os ovos e atribuirá um número distintivo, a seu pedido, às empresas ou aos produtores que disponham de instalações e de equipamento técnico adequados à classificação dos ovos por categoria de qualidade e classe de peso. Essa autorização pode ser retirada logo que deixem de ser satisfeitas as condições requeridas."
+  },
+  "e0fd1cdd706ec079": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os ovos serão classificados nas seguintes categorias de qualidade:\n\n- categoria A ou \"ovos frescos\",\n\n- categoria B ou \"ovos de segunda qualidade ou conservados\",\n\n- categoria C ou \"ovos subclassificados destinados à indústria da alimentação humana\".\n\n2. Os ovos de categoria A devem ser classificados em função do peso.\n\n3. As classificações nas categorias A e B serão sempre determinadas tendo em conta, nomeadamente, os critérios enunciados no n.o 2 do artigo 20.o"
+  },
+  "fca9f3293222a530": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNos ovos de categoria A podem ser apostas uma ou várias das seguintes marcas distintivas:\n\na) A data de embalagem ou, no caso de venda a granel, a data de classificação;\n\nb) Uma ou várias outras datas destinadas a fornecer ao consumidor informações complementares;\n\nc) A categoria de qualidade;\n\nd) A classe de peso;\n\ne) O número do centro de inspecção e classificação;\n\nf) O nome ou a firma do centro de inspecção e classificação;\n\ng) Uma marca de empresa ou uma marca comercial;\n\nh) Uma referência ao modo de criação;\n\ni) Uma indicação da origem dos ovos;\n\nj) Um código de identificação do estabelecimento produtor.\n\nA utilização das indicações referidas nas alíneas f) e g) fica sujeita à observância das condições correspondentes previstas no n.o 1, alínea a), do artigo 10.o\n\nA utilização das indicações referidas nas alíneas b), h) e i) fica sujeita à observância das condições correspondentes previstas no n.o 3 do artigo 10.o"
+  },
+  "4e9e35f74dfdd914": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os ovos das categorias B e C, com excepção dos ovos fendidos, terão uma marca distintiva indicando a categoria de qualidade. Podem igualmente ter uma ou várias das indicações enunciadas no artigo 7.o\n\n2. Os ovos das categorias A e B que deixarem de satisfazer as características fixadas para essas categorias serão desclassificados e podem ser reclassificados, respectivamente, nas categorias B ou C, de acordo com as características que apresentarem.\n\nDevem, nesse caso, ostentar uma marca distintiva, em conformidade com o n.o 1. As marcas eventualmente utilizadas em conformidade com o artigo 7.o ou com o n.o 1 do presente artigo podem ser mantidas, com excepção das relativas à classe de peso, que serão alteradas se necessário.\n\n3. Todavia, em derrogação ao disposto no n.o 2, os ovos das categorias A ou B que deixarem de satisfazer as características fixadas para essas categorias podem ser entregues directamente à indústria da alimentação humana sem as marcas referidas no n.o 2, na condição de que as suas embalagens sejam sempre providas de rótulos indicando claramente esse destino."
+  },
+  "cdb5f8c8449b4555": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs ovos não podem ostentar qualquer outra marca para além das previstas no presente regulamento."
+  },
+  "ae09611d69053640": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. As embalagens grandes e as embalagens pequenas, mesmo quando colocadas em embalagens grandes, ostentarão numa das faces exteriores em letras claramente visíveis e perfeitamente legíveis:\n\na) O nome ou a firma e o endereço da empresa que embalou ou mandou embalar os ovos; o nome, a firma ou a marca comercial utilizada por essa empresa, que pode ser uma marca comercial utilizada colectivamente por várias empresas, podem ser indicados desde que essas indicações não contenham qualquer menção incompatível com o presente regulamento relativa à qualidade ou ao estado de frescura dos ovos, ao modo de criação adoptado para a sua produção ou à origem dos ovos;\n\nb) O número distintivo do centro de inspecção e classificação;\n\nc) A categoria de qualidade e a classe de peso. Os ovos da categoria A podem ser marcados com os termos \"categoria A\" ou com a letra \"A\", sozinha ou em combinação com o termo \"fresco\";\n\nd) O número de ovos embalados;\n\ne) A data de embalagem;\n\nf) Indicações relativas à refrigeração e ao método de conservação, de modo não codificado, no caso de ovos refrigerados ou conservados.\n\n2. Tanto as embalagens pequenas como as grandes podem todavia ostentar, numa ou em várias faces interiores ou exteriores, as seguintes menções suplementares:\n\na) O preço de venda;\n\nb) O código de gestão do estabelecimento retalhista e/ou o código de controlo da armazenagem;\n\nc) Uma ou mais datas destinadas a fornecer ao consumidor informações adicionais;\n\nd) Indicações relativas a condições especiais de armazenagem;\n\ne) Indicações destinadas à promoção das vendas, desde que essas indicações e o modo por que são feitas não sejam de molde a induzir o comprador em erro.\n\n3. Só podem ser utilizadas datas suplementares e menções relativas ao modo de criação e à origem dos ovos desde que estejam em conformidade com as regras a definir de acordo com o processo previsto no artigo 17.o do Regulamento (CEE) n.o 2771/75. Essas regras dirão respeito, nomeadamente, aos termos utilizados nas menções do tipo de criação e aos critérios relativos à origem dos ovos.\n\nTodavia, se se verificar que a utilização das menções relativas ao modo de criação e à origem dos ovos é prejudicial à fluidez do mercado comunitário ou se surgirem dificuldades sérias em matéria de controlo da aplicação dessas menções e da sua eficácia, a Comissão, deliberando de acordo com o mesmo processo, pode suspender a utilização das referidas menções.\n\nNo entanto, quando as embalagens grandes contiverem embalagens pequenas ou ovos com uma menção que faça referência ao modo de criação ou à origem dos ovos, essas indicações devem constar também das embalagens grandes."
+  },
+  "f3b7ec0d3ad57747": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. As embalagens grandes serão munidas de uma faixa ou de um rótulo que ostente as menções referidas no artigo 10.o, que não será reutilizável após a abertura da embalagem e que será emitido pelos organismos referidos no artigo 18.o ou sob seu controlo. Essa faixa ou rótulo não será porém obrigatório para as embalagens grandes com a forma de recipientes ou contentores abertos, desde que essas embalagens não impeçam a identificação das menções referidas no artigo 10.o apostas nas embalagens pequenas nelas contidas.\n\n2. Por derrogação, não é necessário que os ovos destinados a venda a granel em pequenas quantidades a determinar em conformidade com o processo previsto no artigo 17.o do Regulamento (CEE) n.o 2771/75, entregues directamente pelo embalador ao comércio retalhista, sejam embalados em embalagens grandes."
+  },
+  "b1943de484053234": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA palavra \"extra\" pode ser utilizada nas embalagens pequenas que contenham ovos da categoria A e estejam munidas de uma faixa ou de um rótulo. A palavra \"extra\" será impressa na faixa ou no rótulo, que devem ser retirados e destruídos o mais tardar no sétimo dia após a embalagem."
+  },
+  "31a0739e57c362ad": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os ovos expostos para venda ou colocados à venda no comércio de retalho devem ser apresentados separadamente em função das categorias de qualidade e das classes de peso e, se for o caso, em função da refrigeração ou do modo de conservação utilizado. A categoria de qualidade e a classe de peso, bem como o facto de os ovos terem sido refrigerados ou conservados, se for o caso, devem ser indicados de modo perfeitamente visível e sem equívoco para o consumidor.\n\n2. Em caso de venda a granel, devem igualmente ser indicados o número de identificação do centro de inspecção e classificação que classificou os ovos ou, no caso de ovos importados, o país terceiro de origem e a data da classificação.\n\n3. Contudo, os ovos da mesma categoria de qualidade, com excepção dos ovos da categoria A comercializados com a menção \"extra\" em conformidade com o artigo 12.o, podem ser expostos para venda ou colocados à venda em embalagens pequenas que podem pertencer a diferentes classes de peso, desde que sejam indicados o peso líquido total e a menção \"ovos de calibres diferentes\" ou as diferentes classes de peso."
+  },
+  "9f62505e695e8146": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs embalagens só podem apresentar as menções previstas no presente regulamento."
+  },
+  "d7bb5113e815b71f": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs ovos provenientes de países terceiros só podem ser importados para colocação em livre prática na Comunidade:\n\na) Se estiverem em conformidade com os artigos 3.o, 6.o a 9.o, 12.o, n.o 2 do artigo 13.o e artigo 14.o;\n\nb) Se forem apresentados em embalagens, incluindo as embalagens pequenas contidas em embalagens grandes, que ostentem, de um modo claramente visível e perfeitamente legível, a indicação:\n\naa) Do país de origem;\n\nbb) Do nome da empresa de embalagem do país terceiro;\n\ncc) Da categoria de qualidade e da classe de peso;\n\ndd) Do peso, em quilogramas, dos ovos embalados e do seu número, no caso de embalagens grandes, e do seu número, no caso de embalagens pequenas;\n\nee) Da data de embalagem;\n\nff) Do nome e endereço do expedidor, no caso de embalagens grandes."
+  },
+  "3e0d252c59415da1": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. O disposto no presente regulamento aplica-se igualmente aos ovos embalados e destinados a exportação para fora da Comunidade. Todavia, não são considerados como tendo sofrido um tratamento de conservação os ovos embalados destinados a exportação que tenham sido sujeitos a imersão.\n\n2. Em derrogação ao n.o 1, e a fim de obedecer às disposições regulamentares de certos países importadores, os ovos embalados destinados a exportação podem:\n\na) Ser sujeitos a requisitos superiores aos previstos no presente regulamento no que respeita à qualidade, à marcação e à rotulagem ou a requisitos suplementares;\n\nb) Ostentar na embalagem marcas ou menções de natureza diferente, na condição de que essas marcas e menções se não confundam com as previstas no presente regulamento.\n\n3. Os ovos embalados destinados a exportação podem ser classificados segundo classes de peso diferentes das adoptadas nos termos do artigo 20.o Nesse caso, a classe de peso será indicada nas embalagens de modo não codificado."
+  },
+  "cbce454d3f1c5268": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nNão estão sujeitos às disposições do presente regulamento os ovos que o consumidor importe de países terceiros ou exporte para fora da Comunidade, para sua utilização pessoal, em pequenas quantidades que não ultrapassem as 60 unidades."
+  },
+  "002c68aba87f0b6b": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. O controlo da observância do presente regulamento será efectuado por organismos designados em cada Estado-membro. A lista desses organismos será comunicada aos outros Estados-membros e à Comissão, o mais tardar um mês antes da data de entrada em vigor do presente regulamento. Qualquer modificação dessa lista será comunicada aos outros Estados-membros e à Comissão.\n\n2. O controlo dos produtos referidos no presente regulamento será efectuado por amostragem em todos os estádios de comercialização e durante o transporte. Quando se trate de ovos importados de países terceiros, esse controlo por amostragem será igualmente efectuado na altura do desalfandegamento."
+  },
+  "33aca4935b20ec08": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. As decisões tomadas em caso de não observância das disposições do presente regulamento abrangerão necessariamente todo o lote controlado.\n\n2. Se o lote controlado se não encontrar em conformidade com o presente regulamento, o organismo que tiver efectuado o controlo proibirá a sua comercialização ou, se o lote provier de um país terceiro, a sua importação, enquanto e na medida em que não tiver sido provado que esse lote foi posto em conformidade com o presente regulamento.\n\n3. O organismo que tiver efectuado o controlo verificará se o lote rejeitado foi ou está em vias de ser posto em conformidade com o presente regulamento."
+  },
+  "40419237d58b779b": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. As regras de execução do presente regulamento serão adoptadas de acordo com o processo previsto no artigo 17.o do Regulamento (CEE) n.o 2771/75, nomeadamente no que respeita:\n\n- à frequência da recolha, à entrega e ao tratamento dos ovos,\n\n- aos critérios de qualidade e às classes de peso,\n\n- às indicações a apor nos ovos e respectivas embalagens.\n\n2. Para efeitos da adopção, de acordo com o processo referido no n.o 1, de parâmetros aplicáveis a cada categoria de qualidade, serão tomados especialmente em consideração os seguintes critérios:\n\n- aspecto da casca,\n\n- consistência da clara,\n\n- dimensão da bolha de ar,\n\n- aspecto e posição da gema,\n\n- ausência de manchas e/ou corpos estranhos,\n\n- desenvolvimento do óvulo.\n\n3. Quando necessário, e de acordo com o processo previsto no n.o 1, será adoptada uma regulamentação das limitações e/ou dificuldades relativas à manutenção da qualidade dos ovos que tenha em consideração as condições climáticas nas diferentes regiões da Comunidade."
+  },
+  "3e30519bd7333e54": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs Estados-membros tomarão todas as medidas apropriadas para sancionar as infracções ao presente regulamento."
+  },
+  "744abe014d707968": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Os Estados-membros e a Comissão comunicar-se-ão os dados necessários à aplicação do presente regulamento.\n\n2. As medidas tendentes a assegurar a aplicação uniforme do presente regulamento serão adoptadas de acordo com o processo previsto no artigo 17.o do Regulamento (CEE) n.o 2771/75."
+  },
+  "9bb6ac179a139fef": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Fica revogado o Regulamento (CEE) n.o 2772/75.\n\n2. Em todos os instrumentos comunitários, as referências feitas aos artigos do Regulamento (CEE) n.o 2772/75 ler-se-ão de acordo com a tabela de correspondências constante do anexo.\n\n3. Os Estados-membros podem continuar a aplicar as normas de comercialização aplicáveis aos ovos previstas no Regulamento (CEE) n.o 2772/75, em vez das previstas no presente regulamento, até 1 de Julho de 1991."
+  },
+  "695d8e853a66b597": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO presente regulamento entra em vigor em 1 de Outubro de 1990, excepto o n.o 2 do artigo 4.o, que será aplicável a partir de 1 de Janeiro de 1992.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 26 de Junho de 1990.\n\nPelo Conselho\n\nO Presidente\n\nM. O'KENNEDY\n\n[1] JO n.o L 282 de 1. 11. 1975, p. 49.\n\n[2] JO n.o L 128 de 11. 5. 1989, p. 29.\n\n[3] JO n.o L 282 de 1. 11. 1975, p. 56.\n\n[4] JO n.o L 212 de 22. 7. 1989, p. 87.\n\n--------------------------------------------------"
+  },
+  "557922402f2f3aba": {
+   "fragment_id": "ANEXO — Tabela de correspondências",
+   "type": "divisao",
+   "heading": "ANEXO — Tabela de correspondências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Tabela de correspondências\n\nRegulamento (CEE) n.o 2772/75 | Presente regulamento |\n\nArtigos 7.o a 10.o | suprimido |\n\nArtigo 11.o | Artigo 7.o |\n\nArtigos 12.o e 13.o | Artigo 8.o |\n\nArtigo 14.o | suprimido |\n\nArtigo 15.o | Artigo 9.o |\n\nArtigo 16.o | suprimido |\n\nArtigos 17.o e 18.o | Artigo 10.o |\n\n(Artigo 17.o, n.o 1, primeiro parágrafo | Artigo 11.o) |\n\nArtigo 19.o | Artigo 12.o |\n\nArtigo 20.o | Artigo 13.o |\n\nArtigo 21.o | Artigo 14.o e n.os 2 e 3 do artigo 10.o |\n\nArtigo 22.o | suprimido |\n\nArtigos 24.o a 32.o | Artigos 16.o a 24.o |\n\n--------------------------------------------------"
+  },
+  "584428373a538b21": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Junho de 1990\n\nrelativo a certas normas de comercialização aplicáveis aos ovos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.º 2771/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector dos ovos ([^1^](http://publications.europa.eu/resource/cellar/820cd4ef-0ab2-4bbe-b83e-2a27d712cf2e.0016.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 1235/89 ([^2^](http://publications.europa.eu/resource/cellar/820cd4ef-0ab2-4bbe-b83e-2a27d712cf2e.0016.03/DOC_1#E0002)), e, nomeadamente, o n.º 2 do seu artigo 2.º,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o Regulamento (CEE) n.º 2771/75 prevê a fixação de normas de comercialização que podem incidir, nomeadamente, sobre a classificação por categoria de qualidade e classe de peso, a embalagem, a armazenagem, o transporte, a apresentação e a marcação dos ovos;\n\nConsiderando que tais normas são susceptíveis de contribuir para a melhoria da qualidade dos ovos e facilitar, por esse facto, o seu escoamento; que, por conseguinte, é do interesse dos produtores, dos comerciantes e dos consumidores que sejam aplicadas normas de comercialização no que respeita aos ovos de galinha próprios para o consumo humano;\n\nConsiderando que o Regulamento (CEE) n.º 2772/75 ([^3^](http://publications.europa.eu/resource/cellar/820cd4ef-0ab2-4bbe-b83e-2a27d712cf2e.0016.03/DOC_1#E0003))fixa certas normas de comercialização aplicáveis aos ovos, que devem ser reexaminadas regularmente de forma a proporcionar melhores garantias e uma informação mais precisa ao consumidor final dos ovos, nomeadamente à luz da evolução das práticas comerciais;\n\nConsiderando que a experiência adquirida com as normas existentes e as consultas a organizações representativas do comércio e dos consumidores mostraram a necessidade de proceder a novas adaptações e de prever a adopção de regras específicas, de acordo com o processo previsto no artigo 17.º do Regulamento (CEE) n.º 2771/75, de modo a facilitar ulteriores adaptações;\n\nConsiderando que o estabelecimento de tais normas exige que se estabeleça uma distinção clara entre ovos próprios e impróprios para o consumo humano, nomeadamente os ovos partidos ou incubados, destinando-se estes últimos, em princípio, a ser utilizados por indústrias que não a da alimentação humana; que essa regulamentação exige, além disso, que os ovos de outras espécies não possam ser misturados com ovos de galinha;\n\nConsiderando que as normas devem ser aplicáveis a todos os ovos de galinha comercializados no território da Comunidade; que, todavia, se afigura necessário excluir do seu campo de aplicação certas formas de venda do produtor ao consumidor, na medida em que se trate de pequenas quantidades; que convém, por outro lado, dispensar da classificação e da marcação os ovos transportados do local de produção para um centro de inspecção e classificação ou para. certos mercados grossistas e os ovos destinados à indústria alimentar;\n\nConsiderando que importa, por isso, estabelecer a lista de fornecedores das empresas habilitadas a classificar os ovos por categoria de qualidade e classe de peso;\n\nConsiderando que é conveniente reservar a classificação dos ovos às empresas suficientemente equipadas para esse efeito;\n\nConsiderando que as normas de qualidade respeitantes aos ovos devem ser facilmente compreensíveis para o consumidor e ir ao encontro dos esforços de racionalização desenvolvidos em todos os estádios da distribuição; que, por conseguinte, convém prever um número limitado mas suficiente de categorias de qualidade e classes de peso;\n\nConsiderando que o consumidor deve ter a possibilidade de distinguir os ovos de diferentes categorias de qualidade e classes de peso; que essa exigência pode ser satisfeita pela aposição de marcas nos ovos e nas embalagens;\n\nConsiderando que é necessário determinar as indicações que podem ser utilizadas nas embalagens e as que o devem ser; que a utilização de determinadas indicações facultativas deve ser objecto de regras pormenorizadas a adoptar de acordo com o processo previsto no artigo 17.º do Regulamento (CEE) n.º 2771/75;\n\nConsiderando que a marcação dos «ovos frescos» pode ser facultativa, dado que a marcação obrigatória dos restantes ovos assegura uma fácil distinção;\n\nConsiderando que deve ser permitido a qualquer pessoa que comercialize «ovos frescos» apor nesses ovos outras menções com fins publicitários;\n\nConsiderando que é desejável permitir aos operadores apor directamente nos ovos determinadas menções até agora reservadas às pequenas embalagens; que a utilização dessas menções deve ser sujeita a condições idênticas às previstas para as embalagens e a uma vigilância rigorosa; que, no caso de ovos destinados à venda a granel, a data da classificação deve substituir a data da embalagem;\n\nConsiderando que qualquer outra marcação poderia modificar as condições do comércio no interior da Comunidade;\n\nConsiderando que as definições previstas nos anteriores regulamentos comunitários relativas à embalagem e à apresentação dos ovos para venda devem ser estabelecidas de forma mais precisa; que se tornou necessário prever determinadas garantias para a venda a retalho de ovos sem embalagem especial;\n\nConsiderando que a experiência demonstrou que as normas actualmente em vigor, que prevêem a possibilidade de utilizar somente a data de venda recomendada nos ovos ou nas suas embalagens, para além da obrigatória data de embalagem, são demasiado rígidas; que, portanto, deve ser prevista a possibilidade de utilização de outras datas, em condições adequadas; que a prática actual mostra que a indicação do período de embalagem pode ser dispensada;\n\nConsiderando que devem ser adoptadas disposições comuns de embalagem que assegurem a manutenção da qualidade dos ovos e que facilitem as trocas e o controlo da conformidade com as normas;\n\nConsiderando que, a fim de permitir uma escolha livre ao consumidor e de assegurar que lhe são apresentados produtos em conformidade com as normas de qualidade e de peso, os retalhistas devem fornecer informações adequadas quer nas próprias mercadorias apresentadas quer junto às mesmas;\n\nConsiderando que é indispensável, no interesse do produtor e do consumidor, que os ovos importados de países terceiros estejam em conformidade com as normas comunitárias;\n\nConsiderando que as disposições especiais em vigor em certos países terceiros podem justificar derrogações com vista a permitir, nesses casos, exportações para fora da Comunidade; que se mostra oportuno excluir do âmbito de aplicação das normas comunitárias os ovos importados de países terceiros ou exportados para países terceiros, em pequenas quantidades, pelo consumidor para sua utilização pessoal;\n\nConsiderando que compete a cada Estado-membro designar o ou os organismos responsáveis pelo controlo; que as regras desse controlo devem ser uniformes;\n\nConsiderando que compete igualmente a cada Estado-membro prever as sanções aplicáveis aos transgressores;\n\nConsiderando que as disposições do presente regulamento não afectam as disposições comunitárias que possam vir a ser adoptadas com vista à harmonização das disposições em matéria de legislação veterinária e de legislação sobre géneros alimentícios e que se destinem a proteger a saúde das pessoas e dos animais e a evitar falsificações e fraudes;\n\nConsiderando que, dadas as alterações substanciais acima mencionadas e a necessidade de introduzir um determinado número de alterações de carácter meramente redaccional no Regulamento (CEE) n.º 2772/75, é aconselhável, por razões de clareza, reformular a legislação aplicável ao sector;\n\nConsiderando que, por conseguinte, o Regulamento (CEE) n.º 2772/75 pode ser revogado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e98fa2bccc9fd2b4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Ovos», os ovos de galinha, com casca, próprios para consumo humano directo ou para utilização pelas indústrias alimentares, com exclusão dos ovos partidos, dos ovos incubados e dos ovos cozinhados;\n\n2. «Ovos industriais», os ovos de galinha, com casca, que não os referidos no ponto 1, incluindo os ovos partidos e os ovos incubados, mas excluindo os ovos cozinhados;\n\n3. «Ovos para incubação», os ovos destinados à produção de pintos, identificados em conformidade com a regulamentação respeitante aos ovos para incubação;\n\n4. «Ovos partidos», os ovos que apresentem defeitos da casca ou das membranas, que impliquem a exposição do seu conteúdo;\n\n5. «Ovos fendidos», os ovos com a casca danificada, que não apresente solução de continuidade, sem ruptura da membrana;\n\n6. «Ovos incubados», os ovos a partir do momento da sua colocação em incubação;\n\n7. «Comercialização», a posse ou a exposição para venda, a colocação em venda, a entrega ou qualquer outra forma de comercialização;\n\n8. «Ajuntador», qualquer pessoa autorizada pelas autoridades competentes a recolher ovos junto de um produtor para entrega:\n\na) A um centro de inspecção e classificação;\n\nb) Num mercado a que tenham acesso exclusivo, na qualidade de compradores, grossistas cujas empresas se encontrem aprovadas como centro de inspecção e classificação; ou\n\nc) À indústria:\n\n9. «Centro de inspecção e classificação», uma empresa autorizada pela autoridade competente a classificar os ovos por categorias de qualidade e classes de peso;\n\n10. «Lote», o conjunto de ovos provenientes de um mesmo centro de inspecção e classificação, colocados num só local, embalados ou a granel, que tragam a indicação da mesma [**►M2**](http://publications.europa.eu/resource/celex/31994R3117) data de durabilidade mínima ou de embalagem**◄** e da mesma categoria de qualidade e classe de peso;\n\n11. «Embalagens grandes», as embalagens, recipientes ou contentores abertos que contenham mais de trinta e seis ovos;\n\n12. «Embalagens pequenas», as embalagens, tabuleiros ou alvéolos envolvidos por uma película plástica que contenham até trinta e seis ovos, com exclusão dos tabuleiros ou alvéolos não envolvidos;\n\n13. «Venda a granel», a venda a retalho de ovos não contidos em embalagens pequenas ou grandes."
+  },
+  "604891d844b323a3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Sempre que sejam objecto de uma actividade profissional ou comercial, os ovos só podem ser comercializados no interior da Comunidade se satisfizerem as disposições do presente regulamento.\n\n2. Todavia, as disposições relativas à classificação por categoria de qualidade e classe de peso e à marcação não se aplicam aos ovos:\n\na) Transportados directamente do local de produção para um centro de inspecção e classificação ou para um mercado a que tenham acesso exclusivo, na qualidade de compradores, ou grossistas cujas empresas se encontrem aprovadas como centros de inspecção e classificação em conformidade com o artigo 5.º, ou para efeitos de transformação; empresas da indústria de alimentação humana aprovadas em conformidade com a Directiva 89/437/CEE do Conselho, de 20 de Junho de 1989, relativa aos problemas de ordem higiénica e sanitária respeitantes à produção e à colocação no mercado dos ovoprodutos ([^4^](http://publications.europa.eu/resource/cellar/820cd4ef-0ab2-4bbe-b83e-2a27d712cf2e.0016.03/DOC_1#E0004))[**►M1**](http://publications.europa.eu/resource/celex/31993R2617) e à indústria não alimentar**◄**;\n\nb) Produzidos na Comunidade e entregues, para efeitos de transformação, a empresas da indústria de alimentação humana aprovadas em conformidade com a Directiva 89/437/CEE[**►M1**](http://publications.europa.eu/resource/celex/31993R2617) e à indústria não alimentar**◄**.\n\n3. O disposto no presente regulamento não é aplicável:\n\n— aos ovos vendidos directamente ao consumidor, para sua utilização pessoal, pelo produtor na sua própria exploração, num mercado público local, com excepção dos mercados de venda por leilão, ou através de venda ambulante,\n\n— aos ovos, com exclusão dos partidos e dos rachados, vendidos pelo produtor aos retalhistas nas regiões específicas da Finlândia referidas no anexo II,\n\ndesde que provenham da produção própria dos produtores, não estejam embalados nos termos dos artigos 10.º, 11.º e 12.º e não seja utilizada nunhuma das indicações relativas às categorias de qualidade e classes de peso previstas no presente regulamento.\n\nA lista das regiões da Finlândia contida no anexo II pode ser reduzida de acordo com o procedimento estabelecido no artigo 17.º do Regulamento (CEE) n.º 2771/75.\n\nTodavia, os ovos vendidos pelo produtor num mercado público local são marcados com o código definido na alínea a) do n.º 1 do artigo 7.º. Os Estados-Membros podem isentar desta obrigação os produtores de ovos cuja exploração não possua mais de 50 galinhas poedeiras, na condição de os ovos serem vendidos num mercado público local situado na região de produção do Estado-Membro em questão e de o nome e endereço da exploração estarem indicados no local de venda.\n\n4. O disposto no presente regulamento não prejudica as disposições em matéria veterinária ou as relativas à saúde e aos géneros alimentícios adoptadas no sentido de assegurar a observância das normas higiénicas e sanitárias aplicáveis aos produtos ou de proteger a saúde dos animais e das pessoas."
+  },
+  "a7641dceed035c6e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs ovos referidos no ponto 1 do artigo 1.º não podem ser misturados com ovos de outras espécies."
+  },
+  "0de0827263fc02dd": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sem prejuízo do artigo 2.º, o produtor só pode entregar:\n\na) Ovos aos ajuntadores, centros de embalagem, mercados, na acepção do n.º 2, alínea a), do artigo 2.º, empresas da indústria alimentar aprovadas nos termos da Directiva 89/437/CEE e à indústria não alimentar;\n\nb) Ovos industriais, com exclusão dos ovos incubados, aos centros de inspecção e classificação ou à indústria, excluindo a indústria de alimentação humana;\n\nc) Ovos incubados, à indústria, excluindo a indústria de alimentação humana, ou às fábricas que produzem gorduras e óleos industriais.\n\n2. Os ovos partidos acidentalmente em centros de inspecção e classificação só podem ser entregues à indústria transformadora, com excepção da indústria de alimentação humana."
+  },
+  "6aa151868833c000": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Com excepção dos casos previstos no artigo 8.º, só os centros de inspecção e classificação podem classificar os ovos por categoria de qualidade e classe de peso.\n\n2. Os centros de inspecção e classificação devem ter uma lista actualizada dos seus fornecedores.\n\n3. A autoridade competente concederá, com base em critérios a determinar de acordo com o processo previsto no artigo 20.º, a autorização de classificar os ovos e atribuirá um número distintivo, a seu pedido, às empresas ou aos produtores que disponham de instalações e de equipamento técnico adequados à classificação dos ovos por categoria de qualidade e classe de peso. Essa autorização pode ser retirada logo que deixem de ser satisfeitas as condições requeridas."
+  },
+  "bad36410e3670afd": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os ovos serão classificados nas seguintes categorias de qualidade:\n\n— categoria A ou «ovos frescos»,\n\n— categoria B ou «ovos de segunda qualidade ou desclassificados destinados às empresas da indústria alimentar aprovadas em conformidade com a Directiva 89/437/CEE e à indústria não alimentar».\n\n2. Os ovos de categoria A devem ser classificados em função do peso.\n\n3. As classificações nas categorias A e B serão sempre determinadas tendo em conta, nomeadamente, os critérios enunciados no n.º 2 do artigo 20.º\n\n4. Os centros de embalagem que, em 1 de Junho de 2003, tenham sido autorizados a lavar os ovos destinados ao consumidor final podem, por um período de transição que termina em 31 de Dezembro de 2006, ser autorizados a continuar, sob vigilância rigorosa da autoridade competente do Estado-Membro em causa, a lavar esses ovos. Esses ovos podem ser comercializados em todas as partes do território comunitário em que as autoridades dos Estados-Membros que concederam as autorizações exercem as suas competências.\n\nOs ovos lavados devem ser conformes aos critérios da categoria A, mas serão classificados com a menção «ovos lavados».\n\nOs Estados-Membros comunicam à Comissão e aos outros Estados-Membros os nomes e endereços dos centros de embalagem autorizados, bem como as medidas de vigilância aplicadas.\n\n5. Os ovos destinados à venda a retalho nos departamentos ultramarinos franceses podem ser expedidos para essa parte do território comunitário sob forma refrigerada. Neste caso, atendendo ao período necessário para o transporte, o prazo máximo de entrega ao consumidor previsto no n.º 1 do artigo 3.º da Decisão 94/371/CE é fixado de acordo com o procedimento previsto no artigo 17.º do Regulamento (CEE) n.º 2771/75."
+  },
+  "72f498d7988b8a78": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\na) Os ovos da categoria A e os ovos lavados são carimbados com um código que designa o número distintivo do produtor e que permite identificar o modo de criação.\n\nb) A Comissão procede a uma avaliação dos métodos de rotulagem em vigor nos países terceiros exportadores. Sempre que considere que os processos aplicados oferecem uma garantia suficiente de equivalência aos regulamentos técnicos e às normas comunitárias aplicáveis, os ovos importados dos países em causa podem beneficiar de um código distintivo tal como mencionado na alínea a). Em contrapartida, se não for este o caso, os ovos importados devem ostentar um código distintivo que permita identificar o carácter não determinado do modo de criação e o país de origem.\n\nc) Se for caso disso, a Comissão negociará com estes países a fim de encontrar os meios adequados para que estes possam oferecer garantias de respeito das normas de rotulagem equivalentes aos processos comunitários.\n\nd) A utilização dessas indicações está sujeita ao respeito de condições a determinar nos termos do artigo 20.º\n\n2. Nos ovos de categoria A podem ser apostas uma ou várias das seguintes marcas distintivas:\n\na) A data de durabilidade mínima;\n\nb) Uma ou várias outras datas destinadas a fornecer ao consumidor informações complementares;\n\nc) A categoria de qualidade;\n\nd) A classe de peso;\n\ne) O número do centro de embalagem;\n\nf) O nome ou a firma do centro de embalagem;\n\ng) Uma marca de empresa ou uma marca comercial;\n\nh) Uma indicação da origem dos ovos.\n\nA utilização das indicações referidas nas alíneas f) e g) está sujeita à observância das condições correspondentes previstas no n.º 1, alínea a), segunda parte da frase, do artigo 10.º\n\nA utilização das indicações referidas nas alíneas b) e h) está sujeita à observância das condições correspondentes previstas no n.º 3 do artigo 10.º\n\nOs ovos da categoria A podem ter aposta a indicação do modo de alimentação das galinhas poedeiras. A utilização de tal indicação está sujeita à observância das condições correspondentes previstas no n.º 3 do artigo 10.º"
+  },
+  "358c412bf2b944dd": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os ovos da categoria B, com excepção dos ovos fendidos, têm aposta uma marca distintiva indicando a categoria de qualidade. Podem igualmente ter uma ou várias das indicações enumeradas no artigo 7.º\n\n2. Os ovos da categoria A e os ovos lavados que deixarem de corresponder às características fixadas para essas categorias são desclassificados e passam para a categoria B. Estes ovos podem ser entregues directamente às empresas da indústria alimentar aprovadas em conformidade com a Directiva 89/437/CEE, assim como às empresas da indústria não alimentar, devendo as suas embalagens estar providas de uma marca indicando claramente o seu destino."
+  },
+  "b287052d6fc5df08": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. As embalagens grandes e as embalagens pequenas, mesmo quando colocadas em embalagens grandes, ostentarão numa das faces exteriores em letras claramente visíveis e perfeitamente legíveis:\n\na) O nome ou a firma e o endereço da empresa que embalou ou mandou embalar os ovos; o nome, a firma ou a marca comercial utilizada por essa empresa, que pode ser uma marca comercial utilizada colectivamente por várias empresas, podem ser indicados desde que não contenham qualquer menção ou símbolo incompatível com o presente regulamento relativamente à qualidade ou ao estado de frescura dos ovos, ao modo de criação adoptado para a sua produção ou à origem dos ovos;\n\nb) O número distintivo do centro de inspecção e classificação;\n\nc) A categoria de qualidade e a classe de peso. Os ovos da categoria A podem ser marcados com os termos «categoria A» ou com a letra «A», sozinha ou em combinação com o termo «fresco»;\n\nd) O número de ovos embalados;\n\ne) O prazo mínimo de validade, seguido das recomendações de armazenamento adequadas, para os ovos da categoria A e os ovos lavados;\n\nf) A data de embalagem, para os ovos da categoria B;\n\ng) O modo de criação, para os ovos da categoria A e os ovos lavados. Esta indicação é utilizada segundo regras a determinar em conformidade com o procedimento previsto no artigo 20.º;\n\nh) A indicação, sob forma não codificada, das condições de refrigeração, para os ovos vendidos nos departamentos ultramarinos franceses;\n\ni) A menção «ovos lavados», para os ovos cuja lavagem tenha sido autorizada em conformidade com o disposto no n.º 4 do artigo 6.º\n\n2. Tanto as embalagens pequenas como as grandes podem todavia ostentar, numa ou em várias faces interiores ou exteriores, as seguintes menções suplementares:\n\na) O preço de venda;\n\nb) O código de gestão do estabelecimento retalhista e/ou o código de controlo da armazenagem;\n\nc) Uma ou mais datas destinadas a fornecer ao consumidor informações adicionais;\n\nd) Indicações relativas a condições especiais de armazenagem;\n\ne) Indicações ou símbolos destinados a promover as vendas de ovos ou de outros produtos, desde que tais indicações ou símbolos e o modo por que são apostas não sejam susceptíveis de induzir o comprador em erro;\n\nf) Uma indicação do modo de alimentação das galinhas poedeiras.\n\n3. Só podem ser utilizadas datas suplementares, bem como menções relativas ao modo de criação, à origem dos ovos e ao modo de alimentação das galinhas poedeiras, desde que estejam em conformidade com regras a definir nos termos do artigo 20.º Essas regras dizem respeito, nomeadamente, aos critérios relativos ao modo de criação, à origem dos ovos e ao modo de alimentação das galinhas poedeiras.\n\nTodavia, se se verificar que a utilização das menções relativas à origem dos ovos e ao modo de criação é prejudicial à fluidez do mercado comunitário ou se surgirem dificuldades sérias em matéria de controlo da aplicação dessas menções e da sua eficácia, a Comissão, deliberando de acordo com o mesmo processo, pode suspender a utilização das referidas menções.\n\nNo entanto, quando as embalagens grandes contiverem embalagens pequenas ou ovos com uma menção que faça referência à origem dos ovos, essa indicação deve constar também das embalagens grandes."
+  },
+  "bd069ab82b3bfc86": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. As embalagens grandes serão munidas de uma faixa ou de um rótulo que ostente as menções referidas no artigo 10.º, que não será reutilizável após a abertura da embalagem e que será emitido pelos organismos referidos no artigo 18.º ou sob seu controlo. Essa faixa ou rótulo não será porém obrigatório para as embalagens grandes com a forma de recipientes ou contentores abertos, desde que essas embalagens não impeçam a identificação das menções referidas no artigo 10.º apostas nas embalagens pequenas nelas contidas.\n\n2. Por derrogação, não é necessário que os ovos destinados a venda a granel em pequenas quantidades a determinar em conformidade com o processo previsto no artigo 17.º do Regulamento (CEE) n.º 2771/75, entregues directamente pelo embalador ao comércio retalhista, sejam embalados em embalagens grandes."
+  },
+  "af6264c7cf911f14": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA expressão «extra» ou «extrafrescos» pode ser utilizada nas embalagens pequenas que contenham ovos da categoria A e sejam munidas de uma faixa ou de um rótulo. A palavra «extra» será impressa na faixa ou no rótulo, que deve ser retirado e destruído o mais tardar no sétimo dia seguinte ao da embalagem ou no nono dia após a postura."
+  },
+  "d831d19eaf2808f8": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os ovos expostos para venda ou colocados à venda no comércio de retalho devem ser apresentados por categorias de qualidade, classes de peso e em função do modo de criação. As categorias de qualidade e as classes de peso, bem como o modo de criação, devem ser indicados nos expositores de ovos de maneira clara visível e inequívoca para o consumidor.\n\n2. Os ovos vendidos a granel devem ser expostos para venda com as seguintes informações suplementares:\n\na) O número de identificação do centro de embalagem que classificou os ovos ou, no caso dos ovos importados, o país terceiro de origem;\n\nb) O prazo mínimo de validade, seguido das recomendações de armazenamento adequadas;\n\nc) A indicação, sob forma não codificada, das condições de refrigeração, para os ovos vendidos nos departamentos ultramarinos franceses.\n\n3. Os ovos da categoria A, à excepção dos que forem comercializados com a menção «extra» em conformidade com o artigo 12.º, podem ser colocados à venda em embalagens pequenas sem pertencerem à mesma classe de peso. Nesse caso, as embalagens devem mencionar, a título de informação complementar, o peso líquido total e quer a menção «ovos de calibres diferentes», quer a indicação das diferentes classes de peso."
+  },
+  "42718f573007f702": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs ovos provenientes de países terceiros só podem ser importados para colocação em livre prática na Comunidade:\n\na) Se estiverem em conformidade com os artigos 3.º, 6.º a 9.º, 12.º, n.º 2 do artigo 13.º e artigo 14.º;\n\nb) Se forem apresentados em embalagens, incluindo as embalagens pequenas contidas em embalagens grandes, que ostentem, de um modo claramente visível e perfeitamente legível, a indicação:\n\naa) Do país de origem;\n\nbb) Do nome da empresa de embalagem do país terceiro;\n\ncc) Da categoria de qualidade e da classe de peso;\n\ndd) Do peso, em quilogramas, dos ovos embalados e do seu número, no caso de embalagens grandes, e do seu número, no caso de embalagens pequenas;\n\nee) Da data de embalagem e do prazo mínimo de validade, seguidas das recomendações de armazenamento adequadas, para os ovos da categoria A, e da data de embalagem, para os ovos da categoria B;\n\nff) Do nome e endereço do expedidor, no caso de embalagens grandes;\n\ngg) O modo de criação para os ovos da categoria A referido no n.º 1, alínea g), do artigo 10.º ou a seguinte menção: «modo de criação indeterminado»."
+  },
+  "0162a5e3e9bcb37a": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. O disposto no presente regulamento aplica-se igualmente aos ovos embalados e destinados a exportação para fora da Comunidade. Todavia, não são considerados como tendo sofrido um tratamento de conservação os ovos embalados destinados a exportação que tenham sido sujeitos a imersão.\n\n2. Em derrogação ao n.º 1, e a fim de obedecer às disposições regulamentares de certos países importadores, os ovos embalados destinados a exportação podem:\n\na) Ser sujeitos a requisitos superiores aos previstos no presente regulamento no que respeita à qualidade, à marcação e à rotulagem ou a requisitos suplementares;\n\nb) Ostentar na embalagem marcas ou menções de natureza diferente, na condição de que essas marcas e menções se não confundam com as previstas no presente regulamento.\n\n3. Os ovos embalados destinados a exportação podem ser classificados segundo classes de peso diferentes das adoptadas nos termos do artigo 20.º Nesse caso, a classe de peso será indicada nas embalagens de modo não codificado."
+  },
+  "4b70388bd6fa9800": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. As regras de execução do presente regulamento serão adoptadas de acordo com o processo previsto no artigo 17.º do Regulamento (CEE) n.º 2771/75, nomeadamente no que respeita:\n\n— à frequência da recolha, à entrega e ao tratamento dos ovos,\n\n— aos critérios de qualidade e às classes de peso,\n\n— às indicações a apor nos ovos e respectivas embalagens.\n\n2. Para efeitos da adopção, de acordo com o processo referido no n.º 1, de parâmetros aplicáveis a cada categoria de qualidade, serão tomados especialmente em consideração os seguintes critérios:\n\n— aspecto da casca,\n\n— consistência da clara,\n\n— dimensão da câmara de ar,\n\n— aspecto e posição da gema,\n\n— ausência de manchas e/ou corpos estranhos,\n\n— desenvolvimento da cicatrícula.\n\n3. Quando necessário, e de acordo com o processo previsto no n.º 1, será adoptada uma regulamentação das limitações e/ou dificuldades relativas à manutenção da qualidade dos ovos que tenha em consideração as condições climáticas nas diferentes regiões da Comunidade.\n\n4. A Comissão aprova nos termos do artigo 17.º do Regulamento (CEE) n.º 2771/75:\n\na) As medidas necessárias para facilitar a passagem para o regime instituído pelo n.º 1, segundo travessão, do artigo 6.º, os artigos 7.º e 8.º, o n.º 1, alíneas e), f) e g), o n.º 2, alínea f), e o n.º 3 do artigo 10.º, a alínea b), subalínea gg), do artigo 15.º;\n\nb) As medidas necessárias e devidamente justificadas para responder, em caso de urgência, a problemas práticos, específicos e imprevisíveis."
+  },
+  "aa2c137c5fe5db99": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Os Estados-membros e a Comissão comunicar-se-ão os dados necessários à aplicação do presente regulamento.\n\n2. As medidas tendentes a assegurar a aplicação uniforme do presente regulamento serão adoptadas de acordo com o processo previsto no artigo 17.º do Regulamento (CEE) n.º 2771/75."
+  },
+  "403f921f3388ae0b": {
+   "fragment_id": "Artigo 22.º A",
+   "type": "artigo",
+   "heading": "Artigo 22.º A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º A\n\nAté 31 de Julho de 2003, a Comissão deve apresentar ao Conselho um relatório, acompanhado de propostas adequadas, sobre a evolução do consumo de ovos, sobre os desejos manifestados pelos consumidores e suas associações e sobre as questões relativas à marcação dos ovos e ao controlo."
+  },
+  "5c03b691046bded9": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Fica revogado o Regulamento (CEE) n.º 2772/75.\n\n2. Em todos os instrumentos comunitários, as referências feitas aos artigos do Regulamento (CEE) n.º 2772/75 ler-se-ão de acordo com a tabela de correspondências constante do anexo.\n\n3. Os Estados-membros podem continuar a aplicar as normas de comercialização aplicáveis aos ovos previstas no Regulamento (CEE) n.º 2772/75, em vez das previstas no presente regulamento, até 1 de Julho de 1991."
+  },
+  "82f620476de2b068": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO presente regulamento entra em vigor em 1 de Outubro de 1990, excepto o n.º 2 do artigo 4.º, que será aplicável a partir de 1 de Janeiro de 1992.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "5c2c63e4da70fce0": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n*Regulamento (CEE) n.º 2772/75* *Presente regulamento*\n\nArtigos 7.º a 10.º suprimido\n\nArtigo 11.º Artigo 7.º\n\nArtigos 12.º e 13.º Artigo 8.º\n\nArtigo 14.º suprimido\n\nArtigo 15.º Artigo 9.º\n\nArtigo 16.º suprimido\n\nArtigos 17.º e 18.º Artigo 10.º\n\n(Artigo 17.º, n.º 1, primeiro parágrafo Artigo 11.º)\n\nArtigo 19.º Artigo 12.º\n\nArtigo 20.º Artigo 13.º\n\nArtigo 21.º Artigo 14.º e n.^os^ 2 e 3 do artigo 10.º\n\nArtigo 22.º suprimido\n\nArtigos 24.º a 32.º Artigos 16.º a 24.º"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "137725b0bb67cea2": {
+   "fragment_id": "Regiões da Finlândia referidas no n.º 3 do artigo 2.º",
+   "type": "divisao",
+   "heading": "Regiões da Finlândia referidas no n.º 3 do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regiões da Finlândia referidas no n.º 3 do artigo 2.º\n\nAs províncias de:\n\n— Lappi\n\n— Oulu\n\n— Pohjois-Karjala\n\n— Kuopio\n\nAs ilhas Åland.\n\n---"
+  },
+  "21ad16d2ab152299": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/820cd4ef-0ab2-4bbe-b83e-2a27d712cf2e.0016.03/DOC_1#src.E0001)) JO n.º L 282 de 1. 11. 1975, p. 49.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/820cd4ef-0ab2-4bbe-b83e-2a27d712cf2e.0016.03/DOC_1#src.E0002)) JO n.º L 128 de 11. 5. 1989, p. 29.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/820cd4ef-0ab2-4bbe-b83e-2a27d712cf2e.0016.03/DOC_1#src.E0003)) JO n.º L 282 de 1. 11. 1975, p. 56.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/820cd4ef-0ab2-4bbe-b83e-2a27d712cf2e.0016.03/DOC_1#src.E0004)) JO n.º L 212 de 22. 7. 1989, p. 87."
+  },
+  "d7641789721f3388": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990R1907 — PT — 01.07.2007 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990R1907) [REGULAMENTO (CEE) N.º 1907/90 DO CONSELHO](http://publications.europa.eu/resource/celex/31990R1907) [de 26 de Junho de 1990](http://publications.europa.eu/resource/celex/31990R1907) [relativo a certas normas de comercialização aplicáveis aos ovos](http://publications.europa.eu/resource/celex/31990R1907) (JO L 173, 6.7.1990, p.5)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1028/2006 do Conselho de 19 de Junho de 2006](http://publications.europa.eu/resource/celex/32006R1028) — L 186 — 1 — 7.7.2006"
+  }
+ }
+}

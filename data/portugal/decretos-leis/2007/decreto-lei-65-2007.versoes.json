@@ -1,0 +1,898 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:518420:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34522975",
+ "dre_path": "/dr/detalhe/decreto-lei/65-2007-518420",
+ "source_lastmod": "2024-07-09",
+ "versions": [
+  {
+   "date": "2007-03-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "871490504"
+   ]
+  },
+  {
+   "date": "2008-09-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:454035:por",
+     "title": "Decreto-Lei n.º 184/2008",
+     "published": "2008-09-05",
+     "dre_path": "/dr/detalhe/decreto-lei/184-2008-454035"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A"
+   ],
+   "fragments": [
+    "49129875",
+    "871395910",
+    "871395911",
+    "871395912",
+    "871395913",
+    "871395914",
+    "871395915",
+    "871395916",
+    "871395917",
+    "871395918",
+    "871395919",
+    "871395920",
+    "871395921",
+    "871395922",
+    "871395923",
+    "871395924",
+    "871395925",
+    "871395926",
+    "871395927",
+    "871395928",
+    "871395929",
+    "871395938",
+    "871395939",
+    "871395940",
+    "871395941",
+    "871395942",
+    "871395934",
+    "871395935",
+    "871395936",
+    "871395937"
+   ]
+  },
+  {
+   "date": "2010-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:227779:por",
+     "title": "Decreto-Lei n.º 48-A/2010",
+     "published": "2010-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/48-a-2010-227779"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "49129875",
+    "871395910",
+    "871395911",
+    "871395912",
+    "871395913",
+    "871395943",
+    "871395915",
+    "871395916",
+    "871395917",
+    "871395918",
+    "871395944",
+    "871395945",
+    "871395921",
+    "871395922",
+    "871395946",
+    "871395924",
+    "871395925",
+    "871395926",
+    "871395947",
+    "871395928",
+    "871395929",
+    "871395955",
+    "871395956",
+    "871395949",
+    "871395941",
+    "871395942",
+    "871395934",
+    "871395950",
+    "871395936",
+    "871395937"
+   ]
+  },
+  {
+   "date": "2010-10-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:480967:por",
+     "title": "Decreto-Lei n.º 106-A/2010",
+     "published": "2010-10-01",
+     "dre_path": "/dr/detalhe/decreto-lei/106-a-2010-480967"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "49129875",
+    "871395910",
+    "871395911",
+    "871395957",
+    "871395913",
+    "871395958",
+    "871395959",
+    "871395915",
+    "871395916",
+    "871395917",
+    "871395918",
+    "871395944",
+    "871395945",
+    "871395921",
+    "871395922",
+    "871395946",
+    "871395924",
+    "871395925",
+    "871395926",
+    "871395947",
+    "871395928",
+    "871395929",
+    "871395955",
+    "871395956",
+    "871395949",
+    "871395941",
+    "871395942",
+    "871395934",
+    "871395950",
+    "871395936",
+    "871395937"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146065:por",
+     "title": "Decreto-Lei n.º 112/2011",
+     "published": "2011-11-29",
+     "dre_path": "/dr/detalhe/decreto-lei/112-2011-146065"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "871490504",
+    "871490505",
+    "871490506",
+    "871490507",
+    "871490508",
+    "871490509",
+    "871490510",
+    "871490511",
+    "871490512",
+    "871490513",
+    "871490514",
+    "871490515",
+    "871490516",
+    "871490517",
+    "871490518",
+    "871490519",
+    "871490520",
+    "871490521",
+    "871490522",
+    "871490523",
+    "871490524",
+    "871490525",
+    "871490526",
+    "871490527",
+    "871490528",
+    "871490529",
+    "871490530",
+    "871490531",
+    "871490532",
+    "871490533",
+    "871490534"
+   ]
+  }
+ ],
+ "fragments": {
+  "871490504": {
+   "fragment_id": "35142775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2012-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 65/2007\n\nde 14 de Março\n\nO Estatuto do Medicamento, aprovado pelo Decreto-Lei n.º 176/2006, de 30 de Agosto, estabelece, no artigo 103.º, que o regime de preços dos medicamentos sujeitos a receita médica e dos medicamentos não sujeitos a receita médica comparticipados é fixado por decreto-lei.\n\nEste decreto-lei vem precisamente consagrar uma nova metodologia da formação dos preços dos novos medicamentos, sendo que uma das alterações consiste em o preço inicial do medicamento ser formado através da comparação com a média dos preços dos países de referência, sendo o preço assim obtido o preço máximo a praticar nos estádios de produção ou de importação.\n\nNesta sequência, cumpre destacar algumas das medidas que, em relação aos diplomas anteriores, são inovadoras.\n\nCom efeito, é estabelecido o regime de preços máximos para os medicamentos de uso humano sujeitos a receita médica, com excepção dos medicamentos sujeitos a receita médica restrita que sejam de uso exclusivamente hospitalar, bem como dos medicamentos não sujeitos a receita médica comparticipados.\n\nPor outro lado, o conjunto dos países de referência em relação aos quais o preço do medicamento é inicialmente formado foi alargado, passando a incluir a Grécia.\n\nFinalmente, salienta-se a introdução do princípio da estabilidade do preço dos medicamentos.\n\nForam ouvidas, a título facultativo, a Associação Portuguesa da Indústria Farmacêutica, a Associação Portuguesa de Medicamentos Genéricos e a Associação Nacional de Farmácias.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 103.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779) O presente decreto-lei, com as alterações introduzidas pelo artigo 4.º do Decreto-Lei n.º 48-A/2010, aplica-se aos preços de venda ao público já aprovados."
+  },
+  "49129875": {
+   "fragment_id": "35142775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 65/2007\n\nde 14 de Março\n\nO Estatuto do Medicamento, aprovado pelo Decreto-Lei n.º 176/2006, de 30 de Agosto, estabelece, no artigo 103.º, que o regime de preços dos medicamentos sujeitos a receita médica e dos medicamentos não sujeitos a receita médica comparticipados é fixado por decreto-lei.\n\nEste decreto-lei vem precisamente consagrar uma nova metodologia da formação dos preços dos novos medicamentos, sendo que uma das alterações consiste em o preço inicial do medicamento ser formado através da comparação com a média dos preços dos países de referência, sendo o preço assim obtido o preço máximo a praticar nos estádios de produção ou de importação.\n\nNesta sequência, cumpre destacar algumas das medidas que, em relação aos diplomas anteriores, são inovadoras.\n\nCom efeito, é estabelecido o regime de preços máximos para os medicamentos de uso humano sujeitos a receita médica, com excepção dos medicamentos sujeitos a receita médica restrita que sejam de uso exclusivamente hospitalar, bem como dos medicamentos não sujeitos a receita médica comparticipados.\n\nPor outro lado, o conjunto dos países de referência em relação aos quais o preço do medicamento é inicialmente formado foi alargado, passando a incluir a Grécia.\n\nFinalmente, salienta-se a introdução do princípio da estabilidade do preço dos medicamentos.\n\nForam ouvidas, a título facultativo, a Associação Portuguesa da Indústria Farmacêutica, a Associação Portuguesa de Medicamentos Genéricos e a Associação Nacional de Farmácias.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 103.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "871395910": {
+   "fragment_id": "871466221",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "871395911": {
+   "fragment_id": "871466222",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece o regime de preços dos medicamentos de uso humano sujeitos a receita médica e dos medicamentos não sujeitos a receita médica comparticipados.\n\n2 - Ficam excluídos do disposto no número anterior os medicamentos sujeitos a receita médica restrita que sejam de uso exclusivamente hospitalar."
+  },
+  "871395912": {
+   "fragment_id": "871466223",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto neste decreto-lei, entende-se por:\n\na) «Preço de venda ao armazenista» (PVA) o preço máximo para os medicamentos no estádio de produção ou importação;\n\nb) «Preço de venda ao público» (PVP) o preço máximo para os medicamentos no estádio de retalho;\n\nc) «Preços fixados com carácter provisório» os preços que não foram determinados com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares de pelo menos dois dos quatro países de referência mencionados no n.º 2 do artigo 6.º do presente decreto-lei;\n\nd) «Quota do mercado de medicamentos genéricos no grupo homogéneo» o peso das vendas totais de cada medicamento genérico no total de vendas de medicamentos genéricos nesse grupo;\n\ne) «Quota de mercado dos medicamentos genéricos na respectiva substância activa» o peso do volume de vendas totais de todos os medicamentos genéricos com a mesma substância activa no total do volume de vendas de todos os medicamentos, genéricos e não genéricos, com a mesma substância activa;\n\nf) «Regime de preço máximo» a fixação do seu valor na venda ao público, o qual não pode ser ultrapassado."
+  },
+  "871395913": {
+   "fragment_id": "871466224",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime de preços e descontos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime de preços e descontos\n\n1 - Os medicamentos referidos no n.º 1 do artigo 1.º do presente decreto-lei ficam sujeitos ao regime de preços máximos.\n\n2 - É permitida a prática de descontos em todo o circuito do medicamento, desde o fabricante ao retalhista.\n\n3 - Os descontos efectuados pelas farmácias nos preços dos medicamentos comparticipados pelo Estado incidem, exclusivamente, sobre a parte do preço não comparticipada.\n\n4 - Os descontos praticados pelas farmácias podem ser divulgados nas respectivas instalações."
+  },
+  "871395914": {
+   "fragment_id": "871466225",
+   "type": 11,
+   "heading": "Artigo 4.º — Autoridade competente para fixar o preço dos medicamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autoridade competente para fixar o preço dos medicamentos\n\n1 - Compete à Direcção-Geral da Empresa (DGE) fixar os preços dos medicamentos abrangidos pelo presente decreto-lei, sem prejuízo do disposto no n.º 3.\n\n2 - São considerados preços máximos os PVP fixados pela DGE.\n\n3 - Compete ao Instituto Nacional da Farmácia e do Medicamento (INFARMED) regular os preços dos medicamentos comparticipados ou a comparticipar nos termos definidos no regime jurídico de comparticipação do Estado no preço dos medicamentos."
+  },
+  "871395915": {
+   "fragment_id": "871466226",
+   "type": 1,
+   "heading": "Capítulo II — Formação dos preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Formação dos preços"
+  },
+  "871395916": {
+   "fragment_id": "871466227",
+   "type": 8,
+   "heading": "Secção I — Regime geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regime geral"
+  },
+  "871395917": {
+   "fragment_id": "871466228",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição do preço dos medicamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição do preço dos medicamentos\n\nO preço de venda ao público do medicamento é composto por:\n\na) Preço de venda ao armazenista;\n\nb) Margem de comercialização do distribuidor grossista;\n\nc) Margem de comercialização do retalhista;\n\nd) Taxa sobre a comercialização dos medicamentos;\n\ne) Imposto sobre o valor acrescentado."
+  },
+  "871395918": {
+   "fragment_id": "871466229",
+   "type": 11,
+   "heading": "Artigo 6.º — Formação dos preços dos medicamentos em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formação dos preços dos medicamentos em geral\n\n1 - O PVP dos medicamentos a introduzir pela primeira vez no mercado nacional ou os referentes a alterações da forma farmacêutica e da dosagem não podem exceder a média que resultar da comparação com preços nos estádios de produção ou importação (PVA) em vigor nos países de referência para o mesmo medicamento ou, caso este não exista, para as especialidades farmacêuticas idênticas ou essencialmente similares, nos termos adiante definidos, sem taxas nem impostos, acrescido das margens de comercialização, taxas e impostos vigentes em Portugal.\n\n2 - Os países de referência mencionados no número anterior são a Espanha, a França, a Itália e a Grécia.\n\n3 - O PVA em Portugal não pode exceder:\n\na) A média dos PVA em vigor em todos os países de referência para o mesmo medicamento ou, caso este não exista em todos eles, a média do PVA em vigor em pelo menos dois desses países;\n\nb) No caso de só existir o mesmo medicamento num dos quatro países de referência, o PVA em vigor nesse país;\n\nc) No caso do mesmo medicamento não existir em nenhum dos países de referência, a média dos PVA mais baixos das especialidades farmacêuticas idênticas ou essencialmente similares desse medicamento em vigor no maior número possível destes países, excluindo os medicamentos genéricos;\n\nd) No caso de não existir o mesmo medicamento nem especialidades farmacêuticas idênticas ou essencialmente similares desse medicamento em qualquer dos países de referência e existir em Portugal, o PVA fixado para especialidade farmacêutica idêntica ou essencialmente similar que esteja a ser comercializada no mercado nacional;\n\ne) No caso de não existir o mesmo medicamento ou a especialidade farmacêutica idêntica ou essencialmente similar desse medicamento em qualquer dos países de referência e no mercado nacional, o PVA em vigor no país de origem.\n\n4 - As comparações de preços efectuadas com o mesmo medicamento ou, caso este não exista, com a especialidade farmacêutica idêntica ou essencialmente similar do medicamento em causa existentes nos países de referência, em Portugal ou no país de origem, de acordo com o n.º 3, são efectuadas nos seguintes termos e prioridades relativamente a cada país:\n\na) Com a mesma forma farmacêutica, dosagem e apresentação;\n\nb) Com a mesma forma farmacêutica e com dosagem e apresentação mais aproximada.\n\n5 - A comparação de preços a efectuar nos termos dos números anteriores tem como referência a apresentação de menor dimensão em Portugal, cujo PVA é determinado com base na comparação com o PVA da apresentação mais aproximada em cada um dos países de referência."
+  },
+  "871395919": {
+   "fragment_id": "871466230",
+   "type": 11,
+   "heading": "Artigo 7.º — Revisão anual dos preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão anual dos preços\n\n1 - A revisão anual dos preços fixados pelo presente decreto-lei, bem como os que foram autorizados com carácter provisório, processa-se com base na comparação com a média dos preços praticados nos países de referência à data da sua comunicação junto da DGE, no âmbito desta revisão.\n\n2 - Anualmente, os Ministérios da Economia e da Inovação e da Saúde publicam um índice de revisão geral do preço dos medicamentos."
+  },
+  "871395920": {
+   "fragment_id": "871466231",
+   "type": 11,
+   "heading": "Artigo 8.º — Estabilidade de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estabilidade de preços\n\n1 - É considerado provisório o preço do medicamento que não tenha sido determinado com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares dos países de referência referidos no n.º 2 do artigo 6.º\n\n2 - O preço do medicamento referido no número anterior tem carácter provisório até o seu preço poder ser determinado com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares em dois dos quatro países de referência.\n\n3 - A conversão de preço provisório em preço definitivo opera, a partir dessa data, uma estabilização do preço do medicamento por um período de três anos, durante o qual não se aplica o disposto no n.º 1 do artigo 7.º\n\n4 - O preço do medicamento com preço definitivo inicial fica estabilizado por um período de três anos, durante o qual não se aplica o disposto no n.º 1 do artigo 7.º"
+  },
+  "871395921": {
+   "fragment_id": "871466232",
+   "type": 8,
+   "heading": "Secção II — Regime especial aplicável aos medicamentos genéricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Regime especial aplicável aos medicamentos genéricos"
+  },
+  "871395922": {
+   "fragment_id": "871466233",
+   "type": 11,
+   "heading": "Artigo 9.º — Formação de preços dos medicamentos genéricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formação de preços dos medicamentos genéricos\n\n1 - O PVP dos medicamentos genéricos a introduzir no mercado nacional, bem como os que sejam objecto do procedimento previsto no n.º 3 do artigo 31.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, é inferior no mínimo em 35% ao PVP do medicamento de referência, com igual dosagem e na mesma forma farmacêutica, sem prejuízo do disposto no número seguinte.\n\n2 - O PVP dos medicamentos genéricos a introduzir no mercado nacional, bem como os que sejam objecto do procedimento previsto no n.º 3 do artigo 31.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, é inferior no mínimo em 20% ao PVP do medicamento de referência, com igual dosagem e na mesma forma farmacêutica, desde que este seja inferior a (euro) 10 no PVA em todas as apresentações.\n\n3 - O medicamento de referência para efeitos dos números anteriores é o medicamento que esteja, ou tenha sido, autorizado há mais tempo em Portugal com base em documentação completa, incluindo resultados de ensaios farmacêuticos, pré-clínicos e clínicos com a mesma composição qualitativa e quantitativa em substâncias activas.\n\n4 - Caso o medicamento de referência não esteja ou não tenha sido autorizado em Portugal mas esteja ou tenha sido autorizado noutro Estado membro da União Europeia é calculado um PVP com base nas regras do artigo 6.º, conjugadas com as regras previstas no n.º 1 ou no n.º 2 do presente artigo.\n\n5 - O disposto nos n.os 1 e 2 não é aplicável aos medicamentos genéricos a introduzir no mercado para os quais exista grupo homogéneo, caso em que o respectivo PVP deve ser igual ou inferior ao preço de referência desse grupo, deduzido das margens de comercialização, taxas e impostos vigentes em Portugal.\n\n6 - É aplicável, com as necessárias adaptações, o disposto no n.º 4 do artigo 6.º"
+  },
+  "871395923": {
+   "fragment_id": "871466234",
+   "type": 11,
+   "heading": "Artigo 10.º — Revisão anual de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revisão anual de preços\n\n1 - Os preços dos medicamentos genéricos abrangidos pela presente secção são objecto de revisão anual.\n\n2 - O preço dos medicamentos referidos no número anterior é reduzido em função da evolução da quota de mercado dos medicamentos genéricos na respectiva substância activa."
+  },
+  "871395924": {
+   "fragment_id": "871466235",
+   "type": 8,
+   "heading": "Secção III — Importação paralela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Importação paralela"
+  },
+  "871395925": {
+   "fragment_id": "871466236",
+   "type": 11,
+   "heading": "Artigo 11.º — Formação dos preços dos medicamentos objecto de importação paralela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formação dos preços dos medicamentos objecto de importação paralela\n\n1 - Os PVP de medicamentos objecto de importação paralela a introduzir no mercado nacional devem ser inferiores no mínimo em 5% ao PVP do medicamento considerado e dos medicamentos idênticos ou essencialmente considerados objecto de autorização de introdução no mercado em Portugal.\n\n2 - Caso o medicamento considerado não tenha preço aprovado em Portugal, é calculado um preço de venda ao público para esse medicamento considerado com base nas regras dos artigos 6.º e 9.º, consoante o caso, para efeitos de aplicação do número anterior."
+  },
+  "871395926": {
+   "fragment_id": "871466237",
+   "type": 8,
+   "heading": "Secção IV — Margens de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Margens de comercialização"
+  },
+  "871395927": {
+   "fragment_id": "871466238",
+   "type": 11,
+   "heading": "Artigo 12.º — Fixação das margens máximas de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fixação das margens máximas de comercialização\n\nA fixação das margens máximas de comercialização é definida em legislação própria."
+  },
+  "871395928": {
+   "fragment_id": "871466239",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "871395929": {
+   "fragment_id": "871466240",
+   "type": 8,
+   "heading": "Secção I — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições finais"
+  },
+  "871395938": {
+   "fragment_id": "871466249",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Redução dos preços dos medicamentos",
+   "in_force_from": "2008-09-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/2008 - Diário da República n.º 172/2008, Série I de 2008-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2008-454035), em vigor a partir de 2008-09-15"
+   ],
+   "markdown": "###### Artigo 13.º-A — Redução dos preços dos medicamentos\n\nOs preços dos medicamentos podem ser objecto de redução, a título excepcional, fundamentada na regularização do respectivo mercado, mediante portaria conjunta dos membros do Governo responsáveis pelas áreas da economia e da saúde.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/2008 - Diário da República n.º 172/2008, Série I de 2008-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2008-454035), em vigor a partir de 2008-09-15"
+  },
+  "871395939": {
+   "fragment_id": "871466241",
+   "type": 11,
+   "heading": "Artigo 13.º — Revisão excepcional de preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revisão excepcional de preço\n\nO preço do medicamento pode ser revisto, a título excepcional, por motivos de interesse público ou por iniciativa do titular da autorização de introdução no mercado, mediante despacho fundamentado dos Ministros da Economia e da Inovação e da Saúde, sob proposta da DGE, após consulta do INFARMED."
+  },
+  "871395940": {
+   "fragment_id": "871466242",
+   "type": 11,
+   "heading": "Artigo 14.º — Alteração ao Decreto-Lei n.º 118/92, de 25 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alteração ao Decreto-Lei n.º 118/92, de 25 de Junho\n\nO artigo 6.º do Decreto-Lei n.º 118/92, de 25 de Junho, com a redacção conferida pelos Decretos-Leis n.os 305/98, de 7 de Outubro, 205/2000, de 1 de Setembro, 90/2004, de 20 de Abril, e 129/2005, de 11 de Agosto, e pela Lei n.º 53-A/2006, de 29 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 6.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Em derrogação do disposto nos n.os 2 e 3 e sem prejuízo do disposto no n.º 1 e no número seguinte, quando exista preço de referência autorizado para o grupo homogéneo onde o medicamento se insere, o seu preço de venda ao público não pode ser superior ao preço de referência.\n\n5 - O PVP dos novos medicamentos genéricos a entrar nos grupos homogéneos deve ser inferior em 3% relativamente ao PVP do medicamento genérico de preço mais baixo, com pelo menos 10% de quota do mercado de medicamentos genéricos no grupo homogéneo.\n\n6 - Para efeitos do disposto no número anterior, considera-se 'quota do mercado de medicamentos genéricos no grupo homogéneo' o peso das vendas totais de cada medicamento genérico no total de vendas dos medicamentos genéricos nesse grupo.»"
+  },
+  "871395941": {
+   "fragment_id": "871466243",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\n1 - As matérias previstas nos artigos 6.º, 7.º e 9.º a 11.º, bem como os procedimentos necessários à implementação deste decreto-lei, são regulamentadas por portaria conjunta dos Ministros da Economia e da Inovação e da Saúde.\n\n2 - Na portaria a que se refere o número antecedente é regulada a revisão transitória dos preços dos medicamentos não genéricos autorizados, com carácter definitivo, ao abrigo do n.º 2 do n.º 3.º da Portaria n.º 29/90, de 13 de Janeiro, bem como as regras de escoamentos dos medicamentos derivadas da transição dos preços."
+  },
+  "871395942": {
+   "fragment_id": "871466244",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma sancionatória\n\nÀ violação do disposto no presente decreto-lei aplica-se o disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, na sua redacção actual."
+  },
+  "871395934": {
+   "fragment_id": "871466245",
+   "type": 8,
+   "heading": "Secção II — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições transitórias"
+  },
+  "871395935": {
+   "fragment_id": "871466246",
+   "type": 11,
+   "heading": "Artigo 17.º — Margens máximas de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Margens máximas de comercialização\n\nAté à publicação da legislação prevista no artigo 12.º, as margens máximas de comercialização são as seguintes:\n\nI - Medicamentos comparticipados:\n\na) Grossistas - 6,87%, calculada sobre o preço de venda ao público, deduzido do IVA;\n\nb) Farmácias - 18,25%, calculada sobre o preço de venda ao público, deduzido do IVA;\n\nII - Medicamentos não comparticipados:\n\na) Grossistas - 8%, calculada sobre o preço de venda ao público, deduzido do IVA;\n\nb) Farmácias - 20%, calculada sobre o preço de venda ao público, deduzido do IVA."
+  },
+  "871395936": {
+   "fragment_id": "871466247",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 29/90, de 13 de Janeiro;\n\nb) A Portaria n.º 338/90, de 3 de Maio;\n\nc) A Portaria n.º 577/2001, de 7 de Junho, na redacção dada pela Portaria n.º 914/2003, de 1 de Setembro."
+  },
+  "871395937": {
+   "fragment_id": "871466248",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - António José de Castro Guerra - António Fernando Correia de Campos.\n\nPromulgado em 27 de Fevereiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 28 de Fevereiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "871395943": {
+   "fragment_id": "871466225",
+   "type": 11,
+   "heading": "Artigo 4.º — Autoridade competente para autorizar o preço dos medicamentos",
+   "in_force_from": "2010-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 4.º — Autoridade competente para autorizar o preço dos medicamentos\n\n1 - Compete à Direcção-Geral das Actividades Económicas (DGAE) autorizar o preço de venda ao público (PVP) dos medicamentos abrangidos pelo presente decreto-lei, sem prejuízo do disposto no n.º 3.\n\n2 - São considerados preços máximos os PVP fixados pela DGAE.\n\n3 - Compete à Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), regular os preços dos medicamentos comparticipados ou a comparticipar nos termos definidos no regime jurídico de comparticipação do Estado no preço dos medicamentos.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871395944": {
+   "fragment_id": "871466230",
+   "type": 11,
+   "heading": "Artigo 7.º — Revisão anual dos preços",
+   "in_force_from": "2010-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Revisão anual dos preços\n\n1 - A revisão anual dos preços dos medicamentos abrangidos pelo presente decreto-lei processa-se com base na comparação com a média dos preços praticados nos países de referência à data de 1 de Janeiro de cada ano, no âmbito desta revisão.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871395945": {
+   "fragment_id": "871466231",
+   "type": 11,
+   "heading": "Artigo 8.º — Preços provisórios",
+   "in_force_from": "2010-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 8.º — Preços provisórios\n\n1 - É considerado provisório o preço do medicamento que não tenha sido determinado com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares dos países de referência referidos no n.º 2 do artigo 6.º\n\n2 - O preço do medicamento referido no número anterior tem carácter provisório até o seu preço poder ser determinado com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares em dois dos quatro países de referência.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871395946": {
+   "fragment_id": "871466234",
+   "type": 11,
+   "heading": "Artigo 10.º — Revisão anual de preços",
+   "in_force_from": "2010-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 10.º — Revisão anual de preços\n\n1 - Os preços dos medicamentos genéricos abrangidos pela presente secção são objecto de revisão anual.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871395947": {
+   "fragment_id": "871466238",
+   "type": 11,
+   "heading": "Artigo 12.º — Margens máximas de comercialização",
+   "in_force_from": "2010-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01, produz efeitos a partir de 2010-05-01"
+   ],
+   "markdown": "###### Artigo 12.º — Margens máximas de comercialização\n\nAs margens máximas de comercialização dos medicamentos comparticipados e não comparticipados são as seguintes:\n\na) Grossistas - 8 %, calculada sobre o PVP, deduzido o IVA;\n\nb) Farmácias - 20 %, calculada sobre o PVP, deduzido o IVA.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01, produz efeitos a partir de 2010-05-01"
+  },
+  "871395955": {
+   "fragment_id": "871466241",
+   "type": 11,
+   "heading": "Artigo 13.º — Revisão excepcional de preço",
+   "in_force_from": "2010-06-01",
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revisão excepcional de preço\n\n1 - O preço do medicamento pode ser revisto, a título excepcional, por motivos de interesse público ou por iniciativa do titular da autorização de introdução no mercado, mediante despacho fundamentado dos membros do Governo responsáveis pelas áreas da economia e da saúde, sob proposta da DGAE, após consulta do INFARMED, I. P.\n\n2 - Os critérios, prazos e demais procedimentos que presidem à revisão excepcional de preço mencionada no número anterior são definidos por despacho dos membros do Governo responsáveis pelas áreas da economia e da saúde."
+  },
+  "871395956": {
+   "fragment_id": "871466249",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Redução dos preços dos medicamentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779)",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/2008 - Diário da República n.º 172/2008, Série I de 2008-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2008-454035), em vigor a partir de 2008-09-15"
+   ],
+   "markdown": "###### Artigo 13.º-A — Redução dos preços dos medicamentos\n\nOs preços dos medicamentos podem ser objecto de redução, a título excepcional, fundamentada na regularização do respectivo mercado, mediante portaria conjunta dos membros do Governo responsáveis pelas áreas da economia e da saúde.\n\n> Alterado pelo/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779)\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/2008 - Diário da República n.º 172/2008, Série I de 2008-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2008-454035), em vigor a partir de 2008-09-15"
+  },
+  "871395949": {
+   "fragment_id": "871466242",
+   "type": 11,
+   "heading": "Artigo 14.º — Alteração ao Decreto-Lei n.º 118/92, de 25 de Junho",
+   "in_force_from": "2010-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 14.º — Alteração ao Decreto-Lei n.º 118/92, de 25 de Junho\n\nO artigo 6.º do Decreto-Lei n.º 118/92, de 25 de Junho, com a redacção conferida pelos Decretos-Leis n.os 305/98, de 7 de Outubro, 205/2000, de 1 de Setembro, 90/2004, de 20 de Abril, e 129/2005, de 11 de Agosto, e pela Lei n.º 53-A/2006, de 29 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 6.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Em derrogação do disposto nos n.os 2 e 3 e sem prejuízo do disposto no n.º 1 e no número seguinte, quando exista preço de referência autorizado para o grupo homogéneo onde o medicamento se insere, o seu preço de venda ao público não pode ser superior ao preço de referência.\n\n5 - O PVP dos novos medicamentos genéricos a entrar nos grupos homogéneos deve ser inferior em 3% relativamente ao PVP do medicamento genérico de preço mais baixo, com pelo menos 10% de quota do mercado de medicamentos genéricos no grupo homogéneo.\n\n6 - Para efeitos do disposto no número anterior, considera-se 'quota do mercado de medicamentos genéricos no grupo homogéneo' o peso das vendas totais de cada medicamento genérico no total de vendas dos medicamentos genéricos nesse grupo.»\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871395950": {
+   "fragment_id": "871466246",
+   "type": 11,
+   "heading": "Artigo 17.º — Margens máximas de comercialização",
+   "in_force_from": "2010-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 17.º — Margens máximas de comercialização\n\nAté à publicação da legislação prevista no artigo 12.º, as margens máximas de comercialização são as seguintes:\n\nI - Medicamentos comparticipados:\n\na) Grossistas - 6,87%, calculada sobre o preço de venda ao público, deduzido do IVA;\n\nb) Farmácias - 18,25%, calculada sobre o preço de venda ao público, deduzido do IVA;\n\nII - Medicamentos não comparticipados:\n\na) Grossistas - 8%, calculada sobre o preço de venda ao público, deduzido do IVA;\n\nb) Farmácias - 20%, calculada sobre o preço de venda ao público, deduzido do IVA.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871395957": {
+   "fragment_id": "871466223",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2010-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106-A/2010 - Diário da República n.º 192/2010, 1º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2010-480967), em vigor a partir de 2010-10-02"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Preço de venda ao armazenista» (PVA) o preço máximo para os medicamentos no estádio de produção ou importação;\n\nb) «Preço de venda ao público» (PVP) o preço máximo para os medicamentos no estádio de retalho;\n\nc) «Preços fixados com carácter provisório» os preços que não foram determinados com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares de pelo menos dois dos quatro países de referência mencionados no n.º 2 do artigo 6.º do presente decreto-lei;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) «Regime de preço máximo» a fixação do seu valor na venda ao público, o qual não pode ser ultrapassado.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106-A/2010 - Diário da República n.º 192/2010, 1º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2010-480967), em vigor a partir de 2010-10-02"
+  },
+  "871395958": {
+   "fragment_id": "871466251",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Deduções",
+   "in_force_from": "2010-10-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 106-A/2010 - Diário da República n.º 192/2010, 1º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2010-480967), em vigor a partir de 2010-10-02"
+   ],
+   "markdown": "###### Artigo 3.º-A — Deduções\n\nPor razões de interesse público ou de regularização do mercado, os membros do Governo responsáveis pelas áreas da economia e da saúde podem determinar a prática de deduções sobre os PVP máximos autorizados, em condições a estabelecer por portaria.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 106-A/2010 - Diário da República n.º 192/2010, 1º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2010-480967), em vigor a partir de 2010-10-02"
+  },
+  "871395959": {
+   "fragment_id": "871466225",
+   "type": 11,
+   "heading": "Artigo 4.º — Autoridade competente para autorizar o preço dos medicamentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 4.º — Autoridade competente para autorizar o preço dos medicamentos\n\n1 - Compete à Direcção-Geral das Actividades Económicas (DGAE) autorizar o preço de venda ao público (PVP) dos medicamentos abrangidos pelo presente decreto-lei, sem prejuízo do disposto no n.º 3.\n\n2 - São considerados preços máximos os PVP fixados pela DGAE.\n\n3 - Compete à Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), regular os preços dos medicamentos comparticipados ou a comparticipar nos termos definidos no regime jurídico de comparticipação do Estado no preço dos medicamentos.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871490505": {
+   "fragment_id": "871466221",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490506": {
+   "fragment_id": "871466222",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece o regime de preços dos medicamentos de uso humano sujeitos a receita médica e dos medicamentos não sujeitos a receita médica comparticipados.\n\n2 - Ficam excluídos do disposto no número anterior os medicamentos sujeitos a receita médica restrita que sejam de uso exclusivamente hospitalar.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490507": {
+   "fragment_id": "871466223",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106-A/2010 - Diário da República n.º 192/2010, 1º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2010-480967), em vigor a partir de 2010-10-02"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Preço de venda ao armazenista» (PVA) o preço máximo para os medicamentos no estádio de produção ou importação;\n\nb) «Preço de venda ao público» (PVP) o preço máximo para os medicamentos no estádio de retalho;\n\nc) «Preços fixados com carácter provisório» os preços que não foram determinados com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares de pelo menos dois dos quatro países de referência mencionados no n.º 2 do artigo 6.º do presente decreto-lei;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) «Regime de preço máximo» a fixação do seu valor na venda ao público, o qual não pode ser ultrapassado.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106-A/2010 - Diário da República n.º 192/2010, 1º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2010-480967), em vigor a partir de 2010-10-02"
+  },
+  "871490508": {
+   "fragment_id": "871466224",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime de preços e descontos",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Regime de preços e descontos\n\n1 - Os medicamentos referidos no n.º 1 do artigo 1.º do presente decreto-lei ficam sujeitos ao regime de preços máximos.\n\n2 - É permitida a prática de descontos em todo o circuito do medicamento, desde o fabricante ao retalhista.\n\n3 - Os descontos efectuados pelas farmácias nos preços dos medicamentos comparticipados pelo Estado incidem, exclusivamente, sobre a parte do preço não comparticipada.\n\n4 - Os descontos praticados pelas farmácias podem ser divulgados nas respectivas instalações.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490509": {
+   "fragment_id": "871466251",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Deduções",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01",
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 106-A/2010 - Diário da República n.º 192/2010, 1º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2010-480967), em vigor a partir de 2010-10-02"
+   ],
+   "markdown": "###### Artigo 3.º-A — Deduções\n\nPor razões de interesse público ou de regularização do mercado, os membros do Governo responsáveis pelas áreas da economia e da saúde podem determinar a prática de deduções sobre os PVP máximos autorizados, em condições a estabelecer por portaria.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 106-A/2010 - Diário da República n.º 192/2010, 1º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2010-480967), em vigor a partir de 2010-10-02"
+  },
+  "871490510": {
+   "fragment_id": "871466225",
+   "type": 11,
+   "heading": "Artigo 4.º — Autoridade competente para autorizar o preço dos medicamentos",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 4.º — Autoridade competente para autorizar o preço dos medicamentos\n\n1 - Compete à Direcção-Geral das Actividades Económicas (DGAE) autorizar o preço de venda ao público (PVP) dos medicamentos abrangidos pelo presente decreto-lei, sem prejuízo do disposto no n.º 3.\n\n2 - São considerados preços máximos os PVP fixados pela DGAE.\n\n3 - Compete à Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), regular os preços dos medicamentos comparticipados ou a comparticipar nos termos definidos no regime jurídico de comparticipação do Estado no preço dos medicamentos.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871490511": {
+   "fragment_id": "871466226",
+   "type": 1,
+   "heading": "Capítulo II — Formação dos preços",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "### Capítulo II — Formação dos preços\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490512": {
+   "fragment_id": "871466227",
+   "type": 8,
+   "heading": "Secção I — Regime geral",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "#### Secção I — Regime geral\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490513": {
+   "fragment_id": "871466228",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição do preço dos medicamentos",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Composição do preço dos medicamentos\n\nO preço de venda ao público do medicamento é composto por:\n\na) Preço de venda ao armazenista;\n\nb) Margem de comercialização do distribuidor grossista;\n\nc) Margem de comercialização do retalhista;\n\nd) Taxa sobre a comercialização dos medicamentos;\n\ne) Imposto sobre o valor acrescentado.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490514": {
+   "fragment_id": "871466229",
+   "type": 11,
+   "heading": "Artigo 6.º — Formação dos preços dos medicamentos em geral",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Formação dos preços dos medicamentos em geral\n\n1 - O PVP dos medicamentos a introduzir pela primeira vez no mercado nacional ou os referentes a alterações da forma farmacêutica e da dosagem não podem exceder a média que resultar da comparação com preços nos estádios de produção ou importação (PVA) em vigor nos países de referência para o mesmo medicamento ou, caso este não exista, para as especialidades farmacêuticas idênticas ou essencialmente similares, nos termos adiante definidos, sem taxas nem impostos, acrescido das margens de comercialização, taxas e impostos vigentes em Portugal.\n\n2 - Os países de referência mencionados no número anterior são a Espanha, a França, a Itália e a Grécia.\n\n3 - O PVA em Portugal não pode exceder:\n\na) A média dos PVA em vigor em todos os países de referência para o mesmo medicamento ou, caso este não exista em todos eles, a média do PVA em vigor em pelo menos dois desses países;\n\nb) No caso de só existir o mesmo medicamento num dos quatro países de referência, o PVA em vigor nesse país;\n\nc) No caso do mesmo medicamento não existir em nenhum dos países de referência, a média dos PVA mais baixos das especialidades farmacêuticas idênticas ou essencialmente similares desse medicamento em vigor no maior número possível destes países, excluindo os medicamentos genéricos;\n\nd) No caso de não existir o mesmo medicamento nem especialidades farmacêuticas idênticas ou essencialmente similares desse medicamento em qualquer dos países de referência e existir em Portugal, o PVA fixado para especialidade farmacêutica idêntica ou essencialmente similar que esteja a ser comercializada no mercado nacional;\n\ne) No caso de não existir o mesmo medicamento ou a especialidade farmacêutica idêntica ou essencialmente similar desse medicamento em qualquer dos países de referência e no mercado nacional, o PVA em vigor no país de origem.\n\n4 - As comparações de preços efectuadas com o mesmo medicamento ou, caso este não exista, com a especialidade farmacêutica idêntica ou essencialmente similar do medicamento em causa existentes nos países de referência, em Portugal ou no país de origem, de acordo com o n.º 3, são efectuadas nos seguintes termos e prioridades relativamente a cada país:\n\na) Com a mesma forma farmacêutica, dosagem e apresentação;\n\nb) Com a mesma forma farmacêutica e com dosagem e apresentação mais aproximada.\n\n5 - A comparação de preços a efectuar nos termos dos números anteriores tem como referência a apresentação de menor dimensão em Portugal, cujo PVA é determinado com base na comparação com o PVA da apresentação mais aproximada em cada um dos países de referência.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490515": {
+   "fragment_id": "871466230",
+   "type": 11,
+   "heading": "Artigo 7.º — Revisão anual dos preços",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Revisão anual dos preços\n\n1 - A revisão anual dos preços dos medicamentos abrangidos pelo presente decreto-lei processa-se com base na comparação com a média dos preços praticados nos países de referência à data de 1 de Janeiro de cada ano, no âmbito desta revisão.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871490516": {
+   "fragment_id": "871466231",
+   "type": 11,
+   "heading": "Artigo 8.º — Preços provisórios",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 8.º — Preços provisórios\n\n1 - É considerado provisório o preço do medicamento que não tenha sido determinado com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares dos países de referência referidos no n.º 2 do artigo 6.º\n\n2 - O preço do medicamento referido no número anterior tem carácter provisório até o seu preço poder ser determinado com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares em dois dos quatro países de referência.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871490517": {
+   "fragment_id": "871466232",
+   "type": 8,
+   "heading": "Secção II — Regime especial aplicável aos medicamentos genéricos",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "#### Secção II — Regime especial aplicável aos medicamentos genéricos\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490518": {
+   "fragment_id": "871466233",
+   "type": 11,
+   "heading": "Artigo 9.º — Formação de preços dos medicamentos genéricos",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Formação de preços dos medicamentos genéricos\n\n1 - O PVP dos medicamentos genéricos a introduzir no mercado nacional, bem como os que sejam objecto do procedimento previsto no n.º 3 do artigo 31.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, é inferior no mínimo em 35% ao PVP do medicamento de referência, com igual dosagem e na mesma forma farmacêutica, sem prejuízo do disposto no número seguinte.\n\n2 - O PVP dos medicamentos genéricos a introduzir no mercado nacional, bem como os que sejam objecto do procedimento previsto no n.º 3 do artigo 31.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, é inferior no mínimo em 20% ao PVP do medicamento de referência, com igual dosagem e na mesma forma farmacêutica, desde que este seja inferior a (euro) 10 no PVA em todas as apresentações.\n\n3 - O medicamento de referência para efeitos dos números anteriores é o medicamento que esteja, ou tenha sido, autorizado há mais tempo em Portugal com base em documentação completa, incluindo resultados de ensaios farmacêuticos, pré-clínicos e clínicos com a mesma composição qualitativa e quantitativa em substâncias activas.\n\n4 - Caso o medicamento de referência não esteja ou não tenha sido autorizado em Portugal mas esteja ou tenha sido autorizado noutro Estado membro da União Europeia é calculado um PVP com base nas regras do artigo 6.º, conjugadas com as regras previstas no n.º 1 ou no n.º 2 do presente artigo.\n\n5 - O disposto nos n.os 1 e 2 não é aplicável aos medicamentos genéricos a introduzir no mercado para os quais exista grupo homogéneo, caso em que o respectivo PVP deve ser igual ou inferior ao preço de referência desse grupo, deduzido das margens de comercialização, taxas e impostos vigentes em Portugal.\n\n6 - É aplicável, com as necessárias adaptações, o disposto no n.º 4 do artigo 6.º\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490519": {
+   "fragment_id": "871466234",
+   "type": 11,
+   "heading": "Artigo 10.º — Revisão anual de preços",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 10.º — Revisão anual de preços\n\n1 - Os preços dos medicamentos genéricos abrangidos pela presente secção são objecto de revisão anual.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871490520": {
+   "fragment_id": "871466235",
+   "type": 8,
+   "heading": "Secção III — Importação paralela",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "#### Secção III — Importação paralela\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490521": {
+   "fragment_id": "871466236",
+   "type": 11,
+   "heading": "Artigo 11.º — Formação dos preços dos medicamentos objecto de importação paralela",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Formação dos preços dos medicamentos objecto de importação paralela\n\n1 - Os PVP de medicamentos objecto de importação paralela a introduzir no mercado nacional devem ser inferiores no mínimo em 5% ao PVP do medicamento considerado e dos medicamentos idênticos ou essencialmente considerados objecto de autorização de introdução no mercado em Portugal.\n\n2 - Caso o medicamento considerado não tenha preço aprovado em Portugal, é calculado um preço de venda ao público para esse medicamento considerado com base nas regras dos artigos 6.º e 9.º, consoante o caso, para efeitos de aplicação do número anterior.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490522": {
+   "fragment_id": "871466237",
+   "type": 8,
+   "heading": "Secção IV — Margens de comercialização",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "#### Secção IV — Margens de comercialização\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490523": {
+   "fragment_id": "871466238",
+   "type": 11,
+   "heading": "Artigo 12.º — Margens máximas de comercialização",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01, produz efeitos a partir de 2010-05-01"
+   ],
+   "markdown": "###### Artigo 12.º — Margens máximas de comercialização\n\nAs margens máximas de comercialização dos medicamentos comparticipados e não comparticipados são as seguintes:\n\na) Grossistas - 8 %, calculada sobre o PVP, deduzido o IVA;\n\nb) Farmácias - 20 %, calculada sobre o PVP, deduzido o IVA.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01, produz efeitos a partir de 2010-05-01"
+  },
+  "871490524": {
+   "fragment_id": "871466239",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "### Capítulo III — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490525": {
+   "fragment_id": "871466240",
+   "type": 8,
+   "heading": "Secção I — Disposições finais",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "#### Secção I — Disposições finais\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490526": {
+   "fragment_id": "871466241",
+   "type": 11,
+   "heading": "Artigo 13.º — Revisão excepcional de preço",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Revisão excepcional de preço\n\n1 - O preço do medicamento pode ser revisto, a título excepcional, por motivos de interesse público ou por iniciativa do titular da autorização de introdução no mercado, mediante despacho fundamentado dos membros do Governo responsáveis pelas áreas da economia e da saúde, sob proposta da DGAE, após consulta do INFARMED, I. P.\n\n2 - Os critérios, prazos e demais procedimentos que presidem à revisão excepcional de preço mencionada no número anterior são definidos por despacho dos membros do Governo responsáveis pelas áreas da economia e da saúde.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490527": {
+   "fragment_id": "871466249",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Redução dos preços dos medicamentos",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779)",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/2008 - Diário da República n.º 172/2008, Série I de 2008-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2008-454035), em vigor a partir de 2008-09-15"
+   ],
+   "markdown": "###### Artigo 13.º-A — Redução dos preços dos medicamentos\n\nOs preços dos medicamentos podem ser objecto de redução, a título excepcional, fundamentada na regularização do respectivo mercado, mediante portaria conjunta dos membros do Governo responsáveis pelas áreas da economia e da saúde.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779)\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 184/2008 - Diário da República n.º 172/2008, Série I de 2008-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2008-454035), em vigor a partir de 2008-09-15"
+  },
+  "871490528": {
+   "fragment_id": "871466242",
+   "type": 11,
+   "heading": "Artigo 14.º — Alteração ao Decreto-Lei n.º 118/92, de 25 de Junho",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01",
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 14.º — Alteração ao Decreto-Lei n.º 118/92, de 25 de Junho\n\nO artigo 6.º do Decreto-Lei n.º 118/92, de 25 de Junho, com a redacção conferida pelos Decretos-Leis n.os 305/98, de 7 de Outubro, 205/2000, de 1 de Setembro, 90/2004, de 20 de Abril, e 129/2005, de 11 de Agosto, e pela Lei n.º 53-A/2006, de 29 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 6.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Em derrogação do disposto nos n.os 2 e 3 e sem prejuízo do disposto no n.º 1 e no número seguinte, quando exista preço de referência autorizado para o grupo homogéneo onde o medicamento se insere, o seu preço de venda ao público não pode ser superior ao preço de referência.\n\n5 - O PVP dos novos medicamentos genéricos a entrar nos grupos homogéneos deve ser inferior em 3% relativamente ao PVP do medicamento genérico de preço mais baixo, com pelo menos 10% de quota do mercado de medicamentos genéricos no grupo homogéneo.\n\n6 - Para efeitos do disposto no número anterior, considera-se 'quota do mercado de medicamentos genéricos no grupo homogéneo' o peso das vendas totais de cada medicamento genérico no total de vendas dos medicamentos genéricos nesse grupo.»\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871490529": {
+   "fragment_id": "871466243",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\n1 - As matérias previstas nos artigos 6.º, 7.º e 9.º a 11.º, bem como os procedimentos necessários à implementação deste decreto-lei, são regulamentadas por portaria conjunta dos Ministros da Economia e da Inovação e da Saúde.\n\n2 - Na portaria a que se refere o número antecedente é regulada a revisão transitória dos preços dos medicamentos não genéricos autorizados, com carácter definitivo, ao abrigo do n.º 2 do n.º 3.º da Portaria n.º 29/90, de 13 de Janeiro, bem como as regras de escoamentos dos medicamentos derivadas da transição dos preços.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490530": {
+   "fragment_id": "871466244",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma sancionatória",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Norma sancionatória\n\nÀ violação do disposto no presente decreto-lei aplica-se o disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, na sua redacção actual.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490531": {
+   "fragment_id": "871466245",
+   "type": 8,
+   "heading": "Secção II — Disposições transitórias",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "#### Secção II — Disposições transitórias\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490532": {
+   "fragment_id": "871466246",
+   "type": 11,
+   "heading": "Artigo 17.º — Margens máximas de comercialização",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01",
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+   ],
+   "markdown": "###### Artigo 17.º — Margens máximas de comercialização\n\nAté à publicação da legislação prevista no artigo 12.º, as margens máximas de comercialização são as seguintes:\n\nI - Medicamentos comparticipados:\n\na) Grossistas - 6,87%, calculada sobre o preço de venda ao público, deduzido do IVA;\n\nb) Farmácias - 18,25%, calculada sobre o preço de venda ao público, deduzido do IVA;\n\nII - Medicamentos não comparticipados:\n\na) Grossistas - 8%, calculada sobre o preço de venda ao público, deduzido do IVA;\n\nb) Farmácias - 20%, calculada sobre o preço de venda ao público, deduzido do IVA.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48-A/2010 - Diário da República n.º 93/2010, 1º Suplemento, Série I de 2010-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), em vigor a partir de 2010-06-01"
+  },
+  "871490533": {
+   "fragment_id": "871466247",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 29/90, de 13 de Janeiro;\n\nb) A Portaria n.º 338/90, de 3 de Maio;\n\nc) A Portaria n.º 577/2001, de 7 de Junho, na redacção dada pela Portaria n.º 914/2003, de 1 de Setembro.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  },
+  "871490534": {
+   "fragment_id": "871466248",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - António José de Castro Guerra - António Fernando Correia de Campos.\n\nPromulgado em 27 de Fevereiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 28 de Fevereiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 112/2011 - Diário da República n.º 229/2011, Série I de 2011-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), em vigor a partir de 2012-01-01"
+  }
+ }
+}

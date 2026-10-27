@@ -1,0 +1,162 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008L0088:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0088-20130711",
+ "dre_path": null,
+ "source_lastmod": "2013-07-11",
+ "versions": [
+  {
+   "date": "2008-09-24",
+   "future": false,
+   "celex": "32008L0088",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "838cf5902117789e",
+    "73ac57eb0b0de186",
+    "cf67fd41a5f93102",
+    "121bc7f29193c6b3",
+    "45a618eb35432126",
+    "3474810dc3e757ea"
+   ]
+  },
+  {
+   "date": "2008-10-14",
+   "future": false,
+   "celex": "02008L0088-20081014",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Notas",
+    "Adita ANEXO"
+   ],
+   "fragments": [
+    "44ea984d2f6b79b1",
+    "73ac57eb0b0de186",
+    "22f3489a16c5e772",
+    "121bc7f29193c6b3",
+    "5c8b3cd719ea97c8",
+    "5ea3bfbf42ab0321",
+    "d2df243ac5c89cb9"
+   ]
+  },
+  {
+   "date": "2013-07-11",
+   "future": false,
+   "celex": "02008L0088-20130711",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "13c2e38df7167208"
+   ]
+  }
+ ],
+ "fragments": {
+  "838cf5902117789e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Setembro de 2008\n\nque altera a Directiva 76/768/CEE do Conselho relativa aos produtos cosméticos, a fim de adaptar os seus anexos II e III ao progresso técnico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos [([^1])](http://publications.europa.eu/resource/cellar/614fc3ca-65b6-4a20-b83a-28763ede41e2.0018.03/DOC_1#ntr1-L_2008256PT.01001201-E0001), nomeadamente o n.º 2 do artigo 8.º,\n\nApós consulta do Comité Científico dos Produtos de Consumo,\n\nConsiderando o seguinte:\n\n(1) No seguimento da publicação, em 2001, de um estudo científico intitulado «Use of permanent hair dyes and bladder cancer risk», o Comité Científico dos Produtos Cosméticos e dos Produtos Não Alimentares Destinados aos Consumidores, substituído pelo Comité Científico dos Produtos de Consumo (CCPC) pela Decisão 2004/210/CE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/614fc3ca-65b6-4a20-b83a-28763ede41e2.0018.03/DOC_1#ntr2-L_2008256PT.01001201-E0002), concluiu que os riscos potenciais constituíam motivo de preocupação, tendo recomendado à Comissão que tomasse medidas adicionais para controlar a utilização de substâncias que entram na composição de corantes capilares.\n\n(2) O Comité Científico dos Produtos de Consumo recomendou uma estratégia geral de avaliação da segurança das substâncias que entram na composição de corantes capilares, incluindo os requisitos a aplicar na realização de ensaios da potencial genotoxicidade/mutagenicidade de corantes capilares.\n\n(3) Tendo em conta os pareceres do CCPC, a Comissão, os Estados-Membros e as partes interessadas acordaram numa estratégia geral para estabelecer a disciplina em matéria de substâncias que entram na composição de corantes capilares, segundo a qual se solicitou à indústria que apresentasse um caderno técnico com dados científicos sobre as substâncias que entram na composição de corantes capilares que o CCPC deve avaliar.\n\n(4) As substâncias para as quais não foi apresentado qualquer ficheiro de segurança actualizado que permita uma avaliação dos riscos adequada devem ser incluídas no anexo II da Directiva 76/768/CEE.\n\n(5) Algumas substâncias que entram na composição de corantes capilares foram já proibidas, em consequência de pareceres do CCPC ou por não existirem dados sobre a segurança. As substâncias actualmente em estudo foram cuidadosamente seleccionadas para serem regulamentadas em conjunto, uma vez que estão enumeradas no anexo IV. Dado que não foi apresentado ao CCPC qualquer ficheiro de segurança sobre a utilização destas substâncias em corantes capilares para uma avaliação dos riscos nos prazos acordados, não há provas de que estas substâncias, quando utilizadas em corantes capilares, possam ser consideradas seguras para a saúde humana.\n\n(6) As substâncias sem ficheiro de segurança 1-di-hidroxi-2,4-diaminobenzeno (2,4-diaminofenol) e respectivo sal de dicloridrato; 1,4-dihidroxibenzeno (hidroquinona); cloreto de [4-[[4-anilino-1-naftil][4-(dimetilamino)fenil]metileno]ciclo-hexa-2,5-dien-1-ilideno]dimetilamónio (Basic Blue 26); 3-[(2,4-dimetil-5-sulfonatofenil)azo]-4-hidroxinaftaleno-1-sulfonato de dissódio (Ponceau SX); e 4-[(4-aminofenil)(4-iminociclo-hexa-2,5-dien-1-ilideno)metil]-o-toluidina e respectivo sal de cloridrato (Basic Violet 14), actualmente classificadas como corantes no anexo IV e como corantes capilares nas primeira e segunda partes do anexo III, serão suprimidas do anexo III e a sua utilização enquanto corantes capilares proibida no anexo II.\n\n(7) A Directiva 76/768/CEE deve, por conseguinte, ser alterada em conformidade.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Produtos Cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "73ac57eb0b0de186": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos II e III da Directiva 76/768/CEE são alterados em conformidade com o anexo à presente directiva."
+  },
+  "cf67fd41a5f93102": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros adoptarão e publicarão, o mais tardar em 14 de Fevereiro de 2009 as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicarão imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros devem aplicar tais disposições a partir de 14 de Agosto de 2009.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "45a618eb35432126": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Setembro de 2008.\n\n***Pela Comissão***\n\n**Günter VERHEUGEN**\n\n***Vice-Presidente***\n\n---"
+  },
+  "3474810dc3e757ea": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/614fc3ca-65b6-4a20-b83a-28763ede41e2.0018.03/DOC_1#ntc1-L_2008256PT.01001201-E0001) [JO L 262 de 27.9.1976, p. 169](http://publications.europa.eu/resource/oj/JOL_1976_262_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/614fc3ca-65b6-4a20-b83a-28763ede41e2.0018.03/DOC_1#ntc2-L_2008256PT.01001201-E0002) [JO L 66 de 4.3.2004, p. 45](http://publications.europa.eu/resource/oj/JOL_2004_066_R_TOC)."
+  },
+  "44ea984d2f6b79b1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Setembro de 2008\n\nque altera a Directiva 76/768/CEE do Conselho relativa aos produtos cosméticos, a fim de adaptar os seus anexos II e III ao progresso técnico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos ([^1^](http://publications.europa.eu/resource/cellar/75ec8298-8271-4cb0-b5a4-0941cea87ea1.0018.03/DOC_1#E0001)), nomeadamente o n.º 2 do artigo 8.º,\n\nApós consulta do Comité Científico dos Produtos de Consumo,\n\n(1) No seguimento da publicação, em 2001, de um estudo científico intitulado «Use of permanent hair dyes and bladder cancer risk», o Comité Científico dos Produtos Cosméticos e dos Produtos Não Alimentares Destinados aos Consumidores, substituído pelo Comité Científico dos Produtos de Consumo (CCPC) pela Decisão 2004/210/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/75ec8298-8271-4cb0-b5a4-0941cea87ea1.0018.03/DOC_1#E0002)), concluiu que os riscos potenciais constituíam motivo de preocupação, tendo recomendado à Comissão que tomasse medidas adicionais para controlar a utilização de substâncias que entram na composição de corantes capilares.\n\n(2) O Comité Científico dos Produtos de Consumo recomendou uma estratégia geral de avaliação da segurança das substâncias que entram na composição de corantes capilares, incluindo os requisitos a aplicar na realização de ensaios da potencial genotoxicidade/mutagenicidade de corantes capilares.\n\n(3) Tendo em conta os pareceres do CCPC, a Comissão, os Estados-Membros e as partes interessadas acordaram numa estratégia geral para estabelecer a disciplina em matéria de substâncias que entram na composição de corantes capilares, segundo a qual se solicitou à indústria que apresentasse um caderno técnico com dados científicos sobre as substâncias que entram na composição de corantes capilares que o CCPC deve avaliar.\n\n(4) As substâncias para as quais não foi apresentado qualquer ficheiro de segurança actualizado que permita uma avaliação dos riscos adequada devem ser incluídas no anexo II da Directiva 76/768/CEE.\n\n(5) Algumas substâncias que entram na composição de corantes capilares foram já proibidas, em consequência de pareceres do CCPC ou por não existirem dados sobre a segurança. As substâncias actualmente em estudo foram cuidadosamente seleccionadas para serem regulamentadas em conjunto, uma vez que estão enumeradas no anexo IV. Dado que não foi apresentado ao CCPC qualquer ficheiro de segurança sobre a utilização destas substâncias em corantes capilares para uma avaliação dos riscos nos prazos acordados, não há provas de que estas substâncias, quando utilizadas em corantes capilares, possam ser consideradas seguras para a saúde humana.\n\n(6) As substâncias sem ficheiro de segurança 1-di-hidroxi-2,4-diaminobenzeno (2,4-diaminofenol) e respectivo sal de dicloridrato; 1,4-dihidroxibenzeno (hidroquinona); cloreto de [4-[[4-anilino-1-naftil][4-(dimetilamino)fenil]metileno]ciclo-hexa-2,5-dien-1-ilideno]dimetilamónio (Basic Blue 26); 3-[(2,4-dimetil-5-sulfonatofenil)azo]-4-hidroxinaftaleno-1-sulfonato de dissódio (Ponceau SX); e 4-[(4-aminofenil)(4-iminociclo-hexa-2,5-dien-1-ilideno)metil]-o-toluidina e respectivo sal de cloridrato (Basic Violet 14), actualmente classificadas como corantes no anexo IV e como corantes capilares nas primeira e segunda partes do anexo III, serão suprimidas do anexo III e a sua utilização enquanto corantes capilares proibida no anexo II.\n\n(7) A Directiva 76/768/CEE deve, por conseguinte, ser alterada em conformidade.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Produtos Cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "22f3489a16c5e772": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros adoptarão e publicarão, o mais tardar em 14 de Abril de 2009 as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicarão imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros devem aplicar tais disposições a partir de 14 de Outubro de 2009.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "5c8b3cd719ea97c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "5ea3bfbf42ab0321": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nA Directiva 76/768/CEE é alterada do seguinte modo:\n\n1. No anexo II são aditados os números de ordem 1329 a 1369 seguintes:\n\nN.º de ordem Denominação química/denominação INCI\n\n«1329 4-[(4-Aminofenil)(4-iminociclohexa-2,5-dien-1-ilideno)metil]-o-toluidina (n.º CAS 3248-93-9; n.º EINECS 221-832-2) e respectivo sal de cloridrato (Basic Violet 14; CI 42510) (n.º CAS 632-99-5; n.º EINECS 211-189-6), quando utilizado como substância que entra na composição de corantes capilares\n\n1330 Ácido 4-(2,4-di-hidroxifenilazo)benzenossulfónico (n.º CAS 2050-34-2; n.º EINECS 218-087-0) e respectivo sal de sódio (Acid Orange 6; CI 14270) (n.º CAS 547-57-9; n.º EINECS 208-924-8), quando utilizado como substância que entra na composição de corantes capilares\n\n1331 Ácido 3-hidroxi-4-(fenilazo)-2-naftóico (n.º CAS 27757-79-5; n.º EINECS 248-638-0) e respectivo sal de cálcio (Pigment Red 64:1; CI 15800) (n.º CAS 6371-76-2; n.º EINECS 228-899-7), quando utilizado como substância que entra na composição de corantes capilares\n\n1332 Ácido 2-(6-hidroxi-3-oxo-(3H)-xanten-9-il)benzóico; Fluoresceína (n.º CAS 2321-07-5; n.º EINECS 219-031-8) e respectivo sal dissódico (Acid yellow 73 sodium salt; CI 45350) (n.º CAS 518-47-8; n.º EINECS 208-253-0), quando utilizado como substância que entra na composição de corantes capilares\n\n1333 4′,5′-Dibromo-3′,6′-di-hidroxiespiro[isobenzofurano-1(3H),9′-[9H]xanteno]-3-ona; 4′,5′-Dibromofluoresceína; (Solvent Red 72) (n.º CAS 596-03-2; n.º EINECS 209-876-0) e respectivo sal dissódico (CI 45370) (n.º CAS 4372-02-5; n.º EINECS 224-468-2), quando utilizado como substância que entra na composição de corantes capilares\n\n1334 Ácido 2-(3,6-di-hidroxi-2,4,5,7-tetrabromoxanten-9-il)-benzóico; Fluoresceína, 2′,4′,5′,7′-tetrabromo-; (Solvent Red 43) (n.º CAS 15086-94-9; n.º EINECS 239-138-3), o respectivo sal dissódico (Acid Red 87; CI 45380) (n.º CAS 17372-87-1; n.º EINECS 241-409-6) e o respectivo sal de alumínio (Pigment Red 90:1 Laca de alumínio) (n.º CAS 15876-39-8; n.º EINECS 240-005-7), quando utilizado como substância que entra na composição de corantes capilares\n\n1335 9-(2-Carboxifenil)-3 (2-metilfenil)amino)-6-((2metil-4-sulfofenil)amino)-xantílio, sal interno (n.º CAS 10213-95-3); e respectivo sal de sódio (Acid Violet 9; CI 45190) (n.º CAS 6252-76-2; n.º EINECS 228-377-9), quando utilizado como substância que entra na composição de corantes capilares\n\n1336 3′,6′-Di-hidroxi-4′,5′-diiodoespiro[isobenzofurano-1(3H),9′-[9H]xanteno]-3-ona; (Solvent Red 73) (n.º CAS 38577-97-8; n.º EINECS 254-010-7) e respectivo sal de sódio (Acid Red 95; CI 45425) (n.º CAS 33239-19-9; n.º EINECS 251-419-2), quando utilizado como substância que entra na composição de corantes capilares\n\n1337 2′,4′,5′,7′-Tetraiodofluoresceína (n.º CAS 15905-32-5; n.º EINECS 240-0-3), o respectivo sal dissódico (Acid Red 51; CI 45430) (n.º CAS 16423-68-0; n.º EINECS 240-474-8) e o respectivo sal de alumínio (Pigment Red 172 Laca de alumínio)(n.º CAS 12227-78-0; n.º EINECS 235-440-4), quando utilizado como substância que entra na composição de corantes capilares\n\n1338 1-Hidroxi-2,4-diaminobenzeno (2,4-Diaminofenol) (n.º CAS 95-86-3; n.º EINECS 202-459-4) e respectivo sal de dicloridrato (2,4-Diaminophenol HCl) (n.º CAS 137-09-7; n.º EINECS 205-279-4), quando utilizado como substância que entra na composição de corantes capilares\n\n1339 1,4-Di-hidroxibenzeno (Hydroquinone) (n.º CAS 123-31-9; n.º EINECS 204-617-8), quando utilizado como substância que entra na composição de corantes capilares\n\n1340 Cloreto de [4-[[4-anilino-1-naftil][4-(dimetilamino)fenil]metileno]ciclo-hexa-2,5-dien-1-ilideno]dimetilamónio (Basic Blue 26; CI 44045) (n.º CAS 2580-56-5; n.º EINECS 219-943-6), quando utilizado como substância que entra na composição de corantes capilares\n\n1341 3-[(2,4-Dimetil-5-sulfonatofenil)azo]-4-hidroxinaftaleno-1-sulfonato de dissódio (Ponceau SX; CI 14700) (n.º CAS 4548-53-2; n.º EINECS 224-909-9), quando utilizado como substância que entra na composição de corantes capilares\n\n1342 Tris[5,6-Di-hidro-5-(hidroxi-imino)-6-oxonaftaleno-2-sulfonato(2-)-N5,O6]ferrato(3-) de trissódio (Acid Green 1; CI 10020) (n.º CAS 19381-50-1; n.º EINECS 243-005-2), quando utilizado como substância que entra na composição de corantes capilares\n\n1343 4-(Fenilazo)resorcinol (Solvent Orange 1; CI 11920) (n.º CAS 2051-85-6; n.º EINECS 218-131-9) e respectivos sais, quando utilizado como substância que entra na composição de corantes capilares\n\n1344 4-[(4-Etoxifenil)azo]naftol (Solvent Red 3; CI 12010) (n.º CAS 6535-42-8; n.º EINECS 229-439-8) e respectivos sais, quando utilizado como substância que entra na composição de corantes capilares\n\n1345 1-[(2-Cloro-4-nitrofenil)azo]-2-naftol (Pigment Red 4; CI 12085) (n.º CAS 2814-77-9; n.º EINECS 220-562-2) e respectivos sais, quando utilizado como substância que entra na composição de corantes capilares\n\n1346 3-Hidroxi-N-(o-tolil)-4-[(2,4,5-triclorofenil)azo]naftaleno-2-carboxamida (Pigment Red 112; CI 12370) (n.º CAS 6535-46-2; n.º EINECS 229-440-3) e respectivos sais, quando utilizado como substância que entra na composição de corantes capilares\n\n1347 N-(5-Cloro-2,4-dimetoxifenil)-4-[[5-[(dietilamino)sulfonil]-2-metoxifenil]azo]-3-hidroxinaftaleno-2-carboxamida (Pigment Red 5; CI 12490) (n.º CAS 6410-41-9; n.º EINECS 229-107-2) e respectivos sais, quando utilizado como substância que entra na composição de corantes capilares\n\n1348 4-[(5-Cloro-4-metil-2-sulfonatofenil)azo]-3-hidroxi-2-naftoato de dissódio (Pigment Red 48; CI 15865) (n.º CAS 3564-21-4; n.º EINECS 222-642-2), quando utilizado como substância que entra na composição de corantes capilares\n\n1349 3-Hidroxi-4-[(1-sulfonato-2-naftil)azo]-2-naftoato de cálcio (Pigment Red 63:1; CI 15880) (n.º CAS 6417-83-0; n.º EINECS 229-142-3), quando utilizado como substância que entra na composição de corantes capilares\n\n1350 3-Hidroxi-4-(4′-sulfonatonaftilazo)naftaleno-2,7-dissulfonato de trissódio (Acid Red 27; CI 16185) (n.º CAS 915-67-3; n.º EINECS 213-022-2), quando utilizado como substância que entra na composição de corantes capilares\n\n1351 2,2′-[(3,3′-Dicloro[1,1′-bifenil]-4,4′-diil)bis(azo)]bis[N-(2,4-dimetilfenil)-3-oxobutiramida] (Pigment Yellow 13; CI 21100) (n.º CAS 5102-83-0; n.º EINECS 225-822-9), quando utilizado como substância que entra na composição de corantes capilares\n\n1352 2,2′-[Ciclo-hexilidenobis[(2-metil-4,1-fenileno)azo]]bis[4-ciclo-hexilfenol] (Solvent Yellow 29; CI 21230) (n.º CAS 6706-82-7; n.º EINECS 229-754-0), quando utilizado como substância que entra na composição de corantes capilares\n\n1353 1-[(4-(Fenilazo)fenilazo]-2-naftol (Solvent Red 23; CI 26100) (n.º CAS 85-86-9; n.º EINECS 201-638-4), quando utilizado como substância que entra na composição de corantes capilares\n\n1354 6-Amino-4-hidroxi-3-[[7-sulfonato-4-[(4-sulfonatofenil)azo]-1-naftil]azo]naftaleno-2,7-dissulfonato de tetrassódio (Food Black 2; CI 27755) (n.º CAS 2118-39-0; n.º EINECS 218-326-9), quando utilizado como substância que entra na composição de corantes capilares\n\n1355 Hidróxido de N-(4-((4-(dietilamino)fenil)(2,4-dissulfofenil)metileno)-2,5-ciclohexadien-1-ilideno)-N-etil-etanamínio, sal interno, sal de sódio (Acid Blue 1; CI 42045) (n.º CAS 129-17-9; n.º EINECS 204-934-1), quando utilizado como substância que entra na composição de corantes capilares\n\n1356 Hidróxido de N-(4-((4-(dietilamino)fenil)(5-hidroxi-2,4-dissulfofenil)metileno)-2,5-ciclohexadien-1-ilideno)-N-etil-etanamínio, sal interno, sal de cálcio (Acid Blue 3; CI 42051) (n.º CAS 3536-49-0; n.º EINECS 222-573-8), quando utilizado como substância que entra na composição de corantes capilares\n\n1357 Hidróxido de N-etil-N-(4-((4-(etil((3-sulfofenil)metil)amino)fenil)(4-hidroxi-2-sulfofenil)metileno)-2,5-ciclo-hexadien-1-ilideno)-3-sulfo-benzenometanamínio, sal interno, sal dissódico (Fast Green FCF; CI 42053) (n.º CAS 2353-45-9; n.º EINECS 219-091-5), quando utilizado como substância que entra na composição de corantes capilares\n\n1358 1,3-Isobenzofuranodiona, produtos da reacção com metilquinolina e quinolina (Solvent Yellow 33; CI 47000) (n.º CAS 8003-22-3; n.º EINECS 232-318-2), quando utilizado como substância que entra na composição de corantes capilares\n\n1359 Nigrosina (CI 50420) (n.º CAS 8005-03-6), quando utilizado como substância que entra na composição de corantes capilares\n\n1360 8,18-Dicloro-5,15-dietil-5,15-di-hidrodiindolo[3,2-b:3′,2′-m]trifenodioxazina (Pigment Violet 23; CI 51319) (n.º CAS 6358-30-1; n.º EINECS 228-767-9), quando utilizado como substância que entra na composição de corantes capilares\n\n1361 1,2-Di-hidroxiantraquinona (Pigment Red 83; CI 58000) (n.º CAS 72-48-0; n.º EINECS 200-782-5), quando utilizado como substância que entra na composição de corantes capilares\n\n1362 8-Hidroxipireno-1,3,6-trissulfonato de trissódio (Solvent Green 7; CI 59040) (n.º CAS 6358-69-6; n.º EINECS 228-783-6), quando utilizado como substância que entra na composição de corantes capilares\n\n1363 1-Hidroxi-4-(p-toluidino)antraquinona (Solvent Violet 13; CI 60725) (n.º CAS 81-48-1; n.º EINECS 201-353-5), quando utilizado como substância que entra na composição de corantes capilares\n\n1364 1,4-bis(p-Tolilamino)antraquinona (Solvent Green 3; CI 61565) (n.º CAS 128-80-3; n.º EINECS 204-909-5), quando utilizado como substância que entra na composição de corantes capilares\n\n1365 6-Cloro-2-(6-cloro-4-metil-3-oxobenzo[b]tien-2(3H)-ilideno)-4-metilbenzo[b]tiofeno-3(2H)-ona (VAT Red 1; CI 73360) (n.º CAS 2379-74-0; n.º EINECS 219-163-6), quando utilizado como substância que entra na composição de corantes capilares\n\n1366 5,12-Di-hidroquino[2,3-b]acridina-7,14-diona (Pigment Violet 19; CI 73900) (n.º CAS 1047-16-1; n.º EINECS 213-879-2), quando utilizado como substância que entra na composição de corantes capilares\n\n1367 (29H, 31H-Ftalocianinato(2-)-N29, N30, N31, N32)-cobre (Pigment Blue 15; CI 74160) (n.º CAS 147-14-8; n.º EINECS 205-685-1), quando utilizado como substância que entra na composição de corantes capilares\n\n1368 [29H,31H-Ftalocianinadissulfonato(4-)-N29,N30,N31,N32]cuprato(2-) de dissódio (Direct Blue 86; CI 74180) (n.º CAS 1330-38-7; n.º EINECS 215-537-8), quando utilizado como substância que entra na composição de corantes capilares\n\n1369 Policloro ftalocianina de cobre (Pigment Green 7; CI 74260) (n.º CAS 1328-53-6; n.º EINECS 215-524-7), quando utilizado como substância que entra na composição de corantes capilares»\n\n2. O anexo III é alterado do seguinte modo:\n\na) Na primeira parte, o número de ordem 10 é suprimido;\n\nb) Na primeira parte, na coluna c do número de ordem 14, a alínea a) é suprimida;\n\nc) Na segunda parte, os números de ordem 57, 59 e 60 são suprimidos.\n\n---"
+  },
+  "d2df243ac5c89cb9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/75ec8298-8271-4cb0-b5a4-0941cea87ea1.0018.03/DOC_1#src.E0001)) JO L 262 de 27.9.1976, p. 169.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/75ec8298-8271-4cb0-b5a4-0941cea87ea1.0018.03/DOC_1#src.E0002)) JO L 66 de 4.3.2004, p. 45."
+  },
+  "13c2e38df7167208": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2008L0088 — PT — 11.07.2013 — 001.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32008L0088) [DIRECTIVA 2008/88/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32008L0088) [de 23 de Setembro de 2008](http://publications.europa.eu/resource/celex/32008L0088) [que altera a Directiva 76/768/CEE do Conselho relativa aos produtos cosméticos, a fim de adaptar os seus anexos II e III ao progresso técnico](http://publications.europa.eu/resource/celex/32008L0088) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32008L0088) (JO L 256, 24.9.2008, p.12)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1223/2009 do Parlamento Europeu e do Conselho de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1223) — L 342 — 59 — 22.12.2009"
+  }
+ }
+}

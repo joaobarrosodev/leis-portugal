@@ -1,0 +1,157 @@
+---
+schema_version: '1.0'
+id: pt:dre:667534:por
+title: Decreto-Lei n.º 67/2006
+short_title: null
+summary: Prorroga o prazo fixado no n.º 1 do artigo 1.º do Decreto-Lei n.º 217-A/2004, de 8 de Outubro, para a aprovação dos
+  planos de ordenamento das áreas protegidas que ainda não disponham de tais planos especiais de ordenamento do território
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 67/2006
+official_date: null
+publication_date: '2006-03-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/2006, Série I-A de 2006-03-23
+  number: '59'
+  series: I
+  supplement: null
+  pages: 2166 - 2167
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/03/059a00/21662167.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/67/2006/03/23/p/dre/pt/html
+  oj: null
+  dre: '667534'
+  dre_path: /dr/detalhe/decreto-lei/67-2006-667534
+  internal: pt:dre:667534:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2006-667534
+  metadata_url: https://data.dre.pt/eli/dec-lei/67/2006/03/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2006-667534
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:55:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 55531c7fbb61f6d5d9168ee7005475788004d2e025b68366e91a6408f0d70e8c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Política de Solos
+- Prorrogação de Prazo
+- Rede Nacional de Áreas Protegidas
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:405301:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/217-a/2004/10/08/p/dre
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:645100:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/204/2002/10/01/p/dre
+- type: cites
+  target: pt:dre:667919:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/390/1999/09/30/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:55:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 67/2006
+
+de 23 de Março
+
+O regime jurídico da Rede Nacional de Áreas Protegidas, constante do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, e sucessivos diplomas de alteração, estabelece que a classificação e reclassificação das áreas protegidas é efectuada por decreto regulamentar, ao qual incumbiria fixar o prazo de elaboração do plano de ordenamento e do respectivo regulamento. O mesmo diploma previa, ainda, como sanção pelo incumprimento desse prazo, a caducidade da respectiva classificação ou reclassificação.
+
+Sucede, porém, que diversas disposições desse decreto-lei de 1993 relativas aos planos de ordenamento das áreas protegidas foram posteriormente objecto de revogação por legislação subsequente. Quando se recorreu a revogações expressas, como se fez com o [Decreto-Lei n.º 151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho, foi sempre inequívoco, naturalmente, o alcance das modificações legislativas sobre a vigência das normas afectadas do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro. Todavia, quando o legislador optou pelo mecanismo das revogações tácitas - como sucedeu, no que aos planos de ordenamento das áreas protegidas diz respeito, com o novo regime jurídico dos instrumentos de gestão territorial introduzido pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro -, suscitaram-se algumas dúvidas, mesmo que infundadas, sobre o alcance das revogações produzidas.
+
+Em todo o caso, é manifesto que, sendo os planos de ordenamento das áreas protegidas planos especiais de ordenamento do território, o regime uniforme estabelecido para estes planos especiais pelo [Decreto-Lei n.º 390/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1999-667919), de 22 de Setembro, tem por consequência a revogação tácita das disposições anteriores em sentido contrário, designadamente as que, no [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, dispunham sobre os planos de ordenamento das áreas protegidas.
+
+É o caso, entre outras, das disposições sobre o prazo de elaboração dos planos de ordenamento das áreas protegidas. Na verdade, enquanto a alínea d) do n.º 1 do artigo 13.º e a alínea b) do n.º 2 do artigo 27.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, cometiam ao decreto regulamentar de classificação ou reclassificação da área protegida a fixação do prazo de elaboração do respectivo plano, a alínea g) do artigo 46.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, dispõe que o prazo de elaboração dos planos especiais de ordenamento do território, onde se incluem, inequivocamente, os planos das áreas protegidas, tem de ser fixado numa resolução do Conselho de Ministros própria que, entre outras especificações relevantes, determine, em concreto, a elaboração do plano. Com esta solução, o legislador desligou, portanto, a operação de classificação das áreas protegidas do procedimento de elaboração dos respectivos planos especiais de ordenamento do território, que passaram a ter o seu enquadramento legal definido no [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.
+
+Estando, assim, tacitamente revogadas as normas do decreto-lei de 1993 sobre a fixação do prazo de elaboração dos planos das áreas protegidas, impõe-se, naturalmente, considerar igualmente revogadas as disposições que no mesmo diploma fixavam as sanções para o seu incumprimento, designadamente as que previam a caducidade da classificação das áreas protegidas por incumprimento do prazo de elaboração do plano fixado no respectivo diploma de classificação ou reclassificação [n.º 2 do artigo 13.º e alínea b) do n.º 2 do artigo 27.º].
+
+Todavia, para que não surgissem quaisquer dúvidas - aliás, infundadas - sobre a não caducidade da classificação das áreas protegidas ainda não providas de planos de ordenamento, o legislador, ao prorrogar os prazos para a elaboração desses planos, optou sempre por declarar expressamente, quer no n.º 1 do artigo único do [Decreto-Lei n.º 204/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2002-645100), de 1 de Outubro, quer, posteriormente, no n.º 2 do artigo 1.º do [Decreto-Lei n.º 217-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-a-2004-405301), de 8 de Outubro, que se mantinha em vigor a classificação das áreas protegidas.
+
+Cumpre constatar que, apesar de todo o esforço dos serviços e do muito empenho do Governo, que logrou concluir em poucos meses alguns planos cuja elaboração se arrastava há muitos anos, não foi ainda possível concluir todos os planos de ordenamento de áreas protegidas até ao dia 31 de Dezembro de 2005, último prazo que tinha sido preconizado pelo [Decreto-Lei n.º 217-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-a-2004-405301), de 8 de Outubro.
+
+Nestes termos, e dada a conveniência de um prazo geral orientador, opta-se agora por fixar um novo prazo para a aprovação dos planos de ordenamento das áreas protegidas. Simultaneamente, pelas razões acima expostas e tendo em conta a prática legislativa, reafirma-se que se mantém em vigor a classificação das áreas protegidas operada pelos diplomas que procederam à respectiva classificação ou reclassificação ao abrigo do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses, bem como as associações de defesa do ambiente.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único
+
+1 - O prazo previsto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 217-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-a-2004-405301), de 8 de Outubro, é prorrogado por dois anos a contar da data do respectivo termo.
+
+2 - Mantém-se em vigor a classificação das áreas protegidas operada pelos diplomas que procederam à respectiva classificação ou reclassificação nos termos do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.
+
+3 - O disposto no presente artigo produz efeitos a partir do termo do prazo previsto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 217-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-a-2004-405301), de 8 de Outubro.
+
+Visto e aprovado em Conselho de Ministros de 12 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia.
+
+Promulgado em 7 de Março de 2006.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 8 de Março de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

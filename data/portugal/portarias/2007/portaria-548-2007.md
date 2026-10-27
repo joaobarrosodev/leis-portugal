@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:521227:por
+title: Portaria n.º 548/2007
+short_title: null
+summary: Estabelece a estrutura nuclear da Secretaria-Geral do Ministério da Ciência, Tecnologia e Ensino Superior e as competências
+  das respectivas unidades orgânicas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Ciência, Tecnologia e Ensino Superior
+proposing_entity: null
+official_number: 548/2007
+official_date: null
+publication_date: '2007-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2007, Série I de 2007-04-30
+  number: '83'
+  series: I
+  supplement: null
+  pages: 2907 - 2908
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/29072908.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/548/2007/04/30/p/dre/pt/html
+  oj: null
+  dre: '521227'
+  dre_path: /dr/detalhe/portaria/548-2007-521227
+  internal: pt:dre:521227:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/548-2007-521227
+  metadata_url: https://data.dre.pt/eli/port/548/2007/04/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/548-2007-521227
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:24:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7f98db5451166759ef3bd0a812a9b1d768a7da903ec5294ed1e507b9a7fcbda1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Ministério da Ciência Tecnologia e Ensino Superior
+- Orgânica
+- Secretaria Geral
+relationships:
+- type: amended_by
+  target: pt:dre:552041:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:520989:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/150/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: repealed_by
+  target: pt:dre:552041:por
+  label: "Revogada pela PORT.150/2012.16.05.2012.MF, DR.IS [95] de 16.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/150-2012-552041
+  date: '2012-05-16'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:24:18Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 548/2007
+
+de 30 de Abril
+
+O [Decreto-Lei n.º 150/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2007-520989), de 27 de Abril, definiu a missão, atribuições e tipo de organização interna da Secretaria-Geral do Ministério da Ciência, Tecnologia e Ensino Superior. Importa, agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear dos serviços e as competências das respectivas unidades orgânicas.
+
+Assim:
+
+Ao abrigo do n.º 4 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Ciência, Tecnologia e Ensino Superior, o seguinte:
+
+###### Artigo 1.º — Estrutura nuclear da Secretaria-Geral do Ministério da Ciência, Tecnologia e Ensino Superior
+
+A Secretaria-Geral do Ministério da Ciência, Tecnologia e Ensino Superior estrutura-se nas seguintes unidades orgânicas nucleares:
+
+a) Direcção de Serviços Jurídicos e do Contencioso;
+
+b) Direcção de Serviços de Recursos Financeiros e Patrimoniais;
+
+c) Direcção de Serviços de Recursos Humanos e Organizacionais.
+
+###### Artigo 2.º — Direcção de Serviços Jurídicos e do Contencioso
+
+À Direcção de Serviços Jurídicos e do Contencioso compete:
+
+a) Elaborar estudos e emitir pareceres e informações sobre questões de natureza jurídica suscitadas no âmbito do ministério, bem como elaborar projectos de decisão a adoptar pelos membros do Governo ou pelo secretário-geral;
+
+b) Preparar e divulgar normas e instruções destinadas a assegurar a aplicação de diplomas legais e de decisões judiciais;
+
+c) Proceder à recolha e divulgação de legislação e jurisprudência, de normas e instruções de interesse geral para as restantes unidades orgânicas da Secretaria-Geral, bem como para os serviços e organismos do Ministério;
+
+d) Preparar projectos de diplomas legais, de regulamentos e outros instrumentos normativos, elaborando os necessários estudos, ou pronunciar-se sobre projectos elaborados, verificando o seu conteúdo e rigor técnico jurídico, quando tal lhe seja determinado pelos membros do Governo ou pelo secretário-geral ou solicitado pelos serviços e organismos que integram o Ministério;
+
+e) Dar parecer e elaborar peças processuais relativas a reclamações ou às diferentes espécies de recurso hierárquico e tutelar, quando os órgãos reclamados ou competentes para decidir aqueles recursos sejam os membros do Governo ou o secretário-geral;
+
+f) Prestar apoio jurídico nos processos de contratação pública relativa à locação e aquisição de bens móveis e serviços, bem como de empreitadas de obras públicas, sempre que solicitado;
+
+g) Pronunciar-se sobre o processo de reconhecimento das associações de estudantes do ensino superior;
+
+h) Dar parecer e elaborar peças processuais no âmbito de processos judiciais e de contencioso administrativo, nas suas diversas espécies e formas, em que sejam citados o Ministério, os membros do Governo ou o secretário-geral;
+
+i) Promover e patrocinar, nos termos da lei do processo, a impugnação de decisões jurisdicionais que sejam desfavoráveis à parte que representa;
+
+j) Esclarecer os serviços e organismos que integram o Ministério, quando for caso disso, quanto à correcta execução das decisões proferidas pelos tribunais;
+
+l) Acompanhar a tramitação dos processos judiciais e de contencioso administrativo, nas suas diversas espécies e formas, através de consultor jurídico designado ou advogado mandatado, nos termos da lei processual em vigor, exercendo plenamente os poderes processuais inerentes a essa representação, sempre que tal lhe seja solicitado pelos membros do Governo, pelo secretário-geral ou pelos serviços centrais e executivos do Ministério;
+
+m) Acompanhar as acções judiciais em que o Estado seja parte e prestar a colaboração que lhe for solicitada pelos procuradores do Ministério Público junto dos tribunais.
+
+###### Artigo 3.º — Direcção de Serviços de Recursos Financeiros e Patrimoniais
+
+À Direcção de Serviços de Recursos Financeiros e Patrimoniais compete:
+
+a) Contribuir para a definição das orientações a prosseguir no Ministério, no que respeita à gestão dos recursos internos, coordenando a aplicação das medidas delas decorrentes;
+
+b) Acompanhar a gestão dos orçamentos da SG, dos gabinetes dos membros do Governo e dos serviços de administração directa do Ministério e propor as medidas de correcção consideradas adequadas;
+
+c) Elaborar o projecto de orçamento da SG, bem como os dos gabinetes dos membros do Governo, tendo em vista a estruturação por programas;
+
+d) Elaborar a conta de gerência da SG, bem como as dos gabinetes dos membros do Governo;
+
+e) Assegurar, propondo e praticando todas as acções necessárias, o processamento e liquidação das despesas, incluindo remunerações e outros abonos devidos ao pessoal da SG e ao pessoal dos gabinetes dos membros do Governo;
+
+f) Elaborar estudos e pareceres técnicos que, no âmbito do regime da administração financeira do Estado, lhe sejam solicitados;
+
+g) Apoiar e colaborar nas acções desenvolvidas pelos serviços e organismos que integram o Ministério nos domínios financeiro e orçamental;
+
+h) Assegurar as funções de unidade ministerial de compras;
+
+i) Inventariar todos os bens imóveis do Ministério, bem como todos os bens móveis tanto da SG, como dos gabinetes dos membros do Governo, mantendo actualizados os respectivos cadastros;
+
+j) Propor e coordenar os procedimentos necessários à adequada instalação dos serviços e organismos do Ministério;
+
+l) Gerir e providenciar a guarda, a conservação e a administração dos imóveis, bem como de todos os bens móveis tanto da SG, como dos gabinetes dos membros do Governo;
+
+m) Propor a celebração de contratos de fornecimento de serviços e gerir os contratos de prestação de serviços de suporte, não integrados em entidades públicas prestadoras de serviços partilhados.
+
+###### Artigo 4.º — Direcção de Serviços de Recursos Humanos e Organizacionais
+
+À Direcção de Serviços de Recursos Humanos e Organizacionais compete:
+
+a) Promover a aplicação no Ministério, das medidas de política de recursos humanos definidas para a Administração Pública;
+
+b) Elaborar estudos e pareceres técnicos em matéria de recursos humanos e de criação ou alteração de quadros de pessoal dos serviços e organismos do Ministério;
+
+c) Organizar e manter actualizado um sistema de comunicação e informação tendente à caracterização permanente dos recursos humanos do Ministério e à elaboração de indicadores de gestão, bem como elaborar os balanços sociais da SG e do Ministério;
+
+d) Promover, colaborar e apoiar as acções de recrutamento e selecção dos recursos humanos da SG e dos restantes serviços e organismos que integram o Ministério, sempre que lhe for solicitado, bem como executar todas as acções relativas à constituição, modificação e extinção da relação jurídica de emprego dos recursos humanos afectos à SG e aos gabinetes dos membros do Governo;
+
+e) Assegurar a realização dos procedimentos relacionados com a avaliação do desempenho dos recursos humanos, nos termos legais;
+
+f) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afecto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais;
+
+g) Implementar e coordenar normas sobre condições ambientais de higiene, saúde e segurança no trabalho;
+
+h) Assegurar a gestão da formação dos recursos humanos do Ministério, com excepção das carreiras docente universitária, docente do ensino superior politécnico e de investigação científica;
+
+i) Coordenar os trabalhos tendentes à elaboração dos planos e relatórios de actividades da SG;
+
+j) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade, no âmbito do Ministério, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;
+
+l) Coordenar as acções referentes à organização e preservação do arquivo histórico dos serviços que integram o Ministério, bem como promover as boas práticas da respectiva gestão de documentos e proceder à recolha, tratamento, conservação e comunicação dos arquivos que deixaram de ser de uso corrente por parte dos serviços produtores;
+
+m) Assegurar as actividades do Ministério no âmbito da comunicação e relações públicas.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 24 de Abril de 2007. - Pelo Ministro da Ciência, Tecnologia e Ensino Superior, Manuel Frederico Tojal de Valsassina Heitor, Secretário de Estado da Ciência, Tecnologia e Ensino Superior, em 26 de Abril de 2007.

@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977L0453:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0453-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1977-07-15",
+   "future": false,
+   "celex": "31977L0453",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d61e2755ee9e904a",
+    "af2b2f6c4a641961",
+    "381d1dd2735bb1a2",
+    "7b961f5b1ad9fbee",
+    "a07d1c0d7814936a",
+    "b484e3c40cd1ac20",
+    "faccc9fc84b6ea92",
+    "ce2abb0a0ebce711"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01977L0453-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime ANEXO — PROGRAMA DE ESTUDOS PARA OS ENFERMEIROS RESPONSÁVEIS POR CUIDADOS GERAIS"
+   ],
+   "fragments": [
+    "7eeb5e624f9f4892"
+   ]
+  }
+ ],
+ "fragments": {
+  "d61e2755ee9e904a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 77/453/CEE do Conselho, de 27 de Junho de 1977, que tem por objectivo a coordenação das disposições legislativas regulamentares e administrativas relativas às actividades de enfermeiro responsável por cuidados gerais** *Jornal Oficial nº L 176 de 15/07/1977 p. 0008 - 0010 Edição especial finlandesa: Capítulo 6 Fascículo 1 p. 0204 Edição especial grega: Capítulo 06 Fascículo 1 p. 0258 Edição especial sueca: Capítulo 6 Fascículo 1 p. 0204 Edição especial espanhola: Capítulo 06 Fascículo 2 p. 0009 Edição especial portuguesa: Capítulo 06 Fascículo 2 p. 0009*\n\nDIRECTIVA DO CONSELHO de 27 de Junho de 1977 que tem por objectivo a coordenação das disposições legislativas regulamentares e administrativas relativas às actividades de enfermeiro responsável por cuidados gerais\n\n(77/453/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49o, 57o, 66o e 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, para realizar o reconhecimento mútuo dos diplomas, certificados e outros títulos de enfermeiro responsável por cuidados gerais, tal como o determina a Directiva 77/452/CEE (3), a similitude das formações nos Estados-membros permite limitar a coordenação neste domínio à exigência do respeito de normas mínimas, deixando aos Estados-membros, quanto ao resto, a liberdade de organizar o respectivo ensino;\n\nConsiderando que a coordenação prevista na presente directiva não exclui uma coordenação ulterior;\n\nConsiderando que a coordenação prevista na presente directiva respeita à formação profissional dos enfermeiros responsáveis por cuidados gerais; que, no que respeita à formação, a maioria dos Estados-membros não faz, actualmente, distinção entre os enfermeiros que exercem a sua actividade como assalariados e os que a exercem como independentes; que, por essa razão, e para favorecer plenamente a livre circulação dos profissionais na Comunidade, se afigura necessário tornar extensiva aos enfermeiros assalariados a aplicação da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "af2b2f6c4a641961": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros farão depender a concessão de certificados, diplomas e outros títulos de enfermeiro responsável por cuidados gerais, referidos no artigo 3o da Directiva 77/452/CEE, da aprovação num exame que comprove que o interessado adquiriu ao longo da sua formação:\n\na) Conhecimentos adequados das ciências em que se baseiam os cuidados gerais, incluindo conhecimentos suficientes do organismo, das funções fisiológicas e do comportamento das pessoas em bom estado de saúde e das pessoas doentes, bem como das relações existentes entre o estado de saúde e o ambiente físico e social do ser humano;\n\nb) Conhecimentos suficientes da natureza e da ética da profissão e dos princípios gerais sobre a saúde e respectivos cuidados;\n\nc) Experiência clínica adequada que, devendo ser escolhida pelo seu valor formativo, deve ser adquirida sob o controlo de pessoal de enfermagem qualificado, e em locais onde o número do pessoal qualificado e o equipamento sejam adequados aos cuidados de enfermagem a dispensar ao doente;\n\nd) Capacidade para participar na formação do pessoal de saúde e experiência de colaboração com esse pessoal;\n\ne) Experiência de colaboração com outros profissionais do sector da saúde.\n\n2. A formação referida no no 1 inclui, pelo menos:\n\na) Formação escolar geral de dez anos comprovada por um diploma, certificado ou outro título concedido pelas autoridades ou organismos competentes de um Estado-membro ou por um certificado comprovativo da aprovação em exame de admissão, de nível equivalente, às escolas profissionais de enfermagem;\n\nb) Formação a tempo inteiro, especificamente profissional, incidindo obrigatoriamente sobre as matérias do programa de estudos constantes do Anexo à presente directiva e incluindo três anos de estudos ou 4 600 horas de ensino teórico e prático.\n\n3. Os Estados-membros velarão por que a instituição encarregada da formação dos enfermeiros seja responsável pela coordenação entre a teoria e a prática do programa de estudos no seu conjunto.\n\nO ensino teórico e técnico referido na parte A do Anexo deve ser repartido e coordenado com o ensino clínico de enfermagem referido na parte B do mesmo anexo, de tal modo que os conhecimentos e a experiência enunciados no no 1 possam ser adquiridos de forma adequada.\n\nO ensino clínico de enfermagem deve ser efectuado sob a forma de estágios orientados nos serviços de um centro hospitalar ou em outros serviços de saúde, nomeadamente em centros de cuidados de enfermagem ao domicílio, reconhecidos pelas autoridades ou organismos competentes. Durante essa formação, os candidatos a enfermeiro participarão nas actividades dos serviços em causa, na medida em que tais actividades contribuam para a sua formação, e serão iniciados nas responsabilidades que os cuidados de enfermagem implicam.\n\n4. O mais tardar cinco anos após a data da notificação da presente directiva, e à luz de um reexame da situação, o Conselho, sob proposta da Comissão, decidirá se as disposições do no 3 respeitantes à repartição equilibrada entre o ensino teórico e técnico, por um lado, e o ensino clínico de enfermagem, por outro, devem ser mantidas ou alteradas.\n\n5. Os Estados-membros podem conceder dispensas parciais a pessoas que tenham adquirido parte da formação prevista na alínea b) do no 2, no âmbito de outras formações de nível pelos menos equivalente."
+  },
+  "381d1dd2735bb1a2": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nSem prejuízo do disposto no artigo 1o, os Estados-membros podem autorizar uma formação a tempo parcial, nas condições aprovadas pelas autoridades nacionais competentes.\n\nA duração total da formação a tempo parcial não pode ser inferior à da formação a tempo inteiro. O nível da formação não pode ser comprometido pelo facto de se tratar de formação a tempo parcial."
+  },
+  "7b961f5b1ad9fbee": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nA presente directiva é igualmente aplicável aos nacionais dos Estados-membros que, nos termos do Regulamento (CEE) no 1612/68 do Conselho, de 15 de Outubro de 1968, relativo à livre circulação dos trabalhadores na Comunidade (4), exerçam ou venham a exercer, como assalariados, uma das actividades referidas no artigo 1o da Directiva 77/452/CEE."
+  },
+  "a07d1c0d7814936a": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros tomarão todas as medidas necessárias para darem cumprimento à presente directiva no prazo de dois anos a contar da data da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "b484e3c40cd1ac20": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nSe num Estado-membro surgirem dificuldades graves em certos domínios, na aplicação da presente directiva, a Comissão examinará tais dificuldades em colaboração com esse Estado e solicitará o parecer do Comité de Altos Funcionários da Saúde Pública instituído pela Decisão 75/365/CEE (5), com a última redacção que lhe foi dada pela Decisão 77/455/CEE (6).\n\nA Comissão submeterá ao Conselho, quando necessário, propostas adequadas."
+  },
+  "faccc9fc84b6ea92": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 27 de Junho de 1977.\n\nPelo Conselho\n\nO Presidente\n\nJ. SILKIN\n\n(1) JO no C 65 de 5. 6. 1970, p. 12.(2) JO no C 108 de 26. 8. 1970, p. 23.(3) JO no L 176 de 15. 7. 1977, p. 1.(4) JO no L 257 de 19. 10. 1968, p. 2.(5) JO no L 167 de 30. 6. 1975, p. 19.(6) JO no L 176 de 15. 7. 1977, p. 13."
+  },
+  "ce2abb0a0ebce711": {
+   "fragment_id": "ANEXO — PROGRAMA DE ESTUDOS PARA OS ENFERMEIROS RESPONSÁVEIS POR CUIDADOS GERAIS",
+   "type": "divisao",
+   "heading": "ANEXO — PROGRAMA DE ESTUDOS PARA OS ENFERMEIROS RESPONSÁVEIS POR CUIDADOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PROGRAMA DE ESTUDOS PARA OS ENFERMEIROS RESPONSÁVEIS POR CUIDADOS GERAIS\n\nO programa de estudos para obtenção de diplomas, certificados ou outros títulos de enfermeiro responsável por cuidados gerais inclui as duas partes seguintes:\n\nA. Ensino teórico e técnico\n\na) Cuidados de enfermagem\n\nOrientação e ética da profissão\n\nPrincípios gerais de saúde e de cuidados de enfermagem.\n\nPrincípios de cuidados de enfermagem em matéria de:\n\n- medicina geral e especialidades médicas,\n\n- cirurgia geral e especialidades cirúrgias,\n\n- puericultura e pediatria,\n\n- higiene e cuidados a prestar à mae e ao recém-nascido,\n\n- saúde mental e psiquiatria,\n\n- cuidados a prestar às pessoas idosas e geriatria.\n\nb) Ciências fundamentais\n\nAnatomia e fisiologia\n\nPatologia\n\nBacteriologia, virologia e parasitologia\n\nBiofísica, bioquímica e radiologia\n\nDietética\n\nHigiene:\n\n- profilaxia,\n\n- educação sanitária\n\nFarmacologia\n\nc) Ciências sociais\n\nSociologia\n\nPsicologia\n\nPrincípios de administração\n\nPrincípios de ensino\n\nLegislações social e sanitária\n\nAspectos jurídicos da professão\n\nB. Ensino clínico da enfermagem\n\nCuidados de enfermagem em matéria de:\n\n- medicina geral e especialidades médicas,\n\n- cirurgia geral e especialidades cirúrgicas,\n\n- cuidados a prestar às crianças e pediatria,\n\n- higiene e cuidados a prestar à mae e ao recém-nascido,\n\n- saúde mental e psiquiatria,\n\n- cuidados a prestar às pessoas idosas e geriatria,\n\n- cuidados a prestar ao domicílio."
+  },
+  "7eeb5e624f9f4892": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977L0453 — PT — 20.10.2007 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977L0453) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31977L0453) [de 27 de Junho de 1977](http://publications.europa.eu/resource/celex/31977L0453) [que tem por objectivo a coordenação das disposições legislativas regulamentares e administrativas relativas às actividades de enfermeiro responsável por cuidados gerais](http://publications.europa.eu/resource/celex/31977L0453) [(77/453/CEE)](http://publications.europa.eu/resource/celex/31977L0453) (JO L 176, 15.7.1977, p.8)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

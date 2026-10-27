@@ -1,0 +1,848 @@
+---
+schema_version: '1.0'
+id: pt:dre:207942903:por
+title: Portaria n.º 54-I/2023
+short_title: null
+summary: Estabelece as normas nacionais de aplicação das intervenções de apoio associado ao rendimento e do pagamento específico
+  para o algodão previstas nos artigos 32.º a 36.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no
+  que se refere à aplicação do domínio «A.1 - Rendimento e resiliência» do eixo «A - Rendimento e Sustentabilidade» do Plano
+  Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura e Alimentação
+proposing_entity: null
+official_number: 54-I/2023
+official_date: null
+publication_date: '2023-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27
+  number: '41'
+  series: I
+  supplement: 1º Suplemento
+  pages: 332-(327) a 332-(344)
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04101/0032700344.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-01-01'
+version_history:
+  file: portaria-54-i-2023.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2023-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-05-31'
+    amending: pt:dre:213761245:por
+    amending_title: Portaria n.º 147-A/2023
+    changes:
+    - Altera Artigo 5.º
+  - date: '2023-10-20'
+    amending: pt:dre:222939646:por
+    amending_title: Portaria n.º 314/2023
+    changes:
+    - Adita Artigo 6.º-A
+  - date: '2024-03-05'
+    amending: pt:dre:854130987:por
+    amending_title: Portaria n.º 80-C/2024/1
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 11.º
+    - Altera Artigo 22.º
+    - Altera Artigo 31.º
+    - Altera Artigo 39.º
+    - Altera Anexo I
+    - Altera Anexo IV
+  - date: '2026-01-01'
+    amending: pt:dre:993315590:por
+    amending_title: Portaria n.º 482-A/2025/1
+    changes:
+    - Adita Artigo 18.º-A
+    - Adita Artigo 38.º-A
+    - Adita Anexo X
+    - Altera Artigo 3.º
+    - Altera Artigo 29.º
+    - Altera Artigo 35.º
+    - Altera Artigo 37.º
+    - Altera Anexo VII
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/54-i/2023/p/cons/20251231/pt/html
+  oj: null
+  dre: '207942903'
+  dre_path: /dr/detalhe/portaria/54-i-2023-207942903
+  internal: pt:dre:207942903:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-i-2023-207942903
+  metadata_url: https://data.dre.pt/eli/port/54-i/2023/p/cons/20251231/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-213812742
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-213812742
+  retrieved_at: '2026-10-22T12:57:06Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3fc5cae678669449b57abb14d112bec1c03ca4a8f34f3710f1907fa78b60229e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:57:06Z'
+  notes: 5 versão(ões); histórico completo em portaria-54-i-2023.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Gado Caprino
+- Regulamentação de Atos Legislativos
+- Gado Bovino
+- Pagamento
+- IFAP
+- Gado Ovino
+- Agricultor
+- Regulamento CE
+- Pecuária
+- Subsídio
+- Plano Estratégico da Política Agrícola Comum para Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:213761245:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245
+  date: '2023-05-30'
+- type: amended_by
+  target: pt:dre:222939646:por
+  label: Adita Artigo 6.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/314-2023-222939646
+  date: '2023-10-19'
+- type: amended_by
+  target: pt:dre:854130987:por
+  label: Altera Artigo 5.º; Altera Artigo 11.º; Altera Artigo 22.º; Altera Artigo 31.º; Altera Artigo 39.º; Altera Anexo I;
+    Altera Anexo IV
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987
+  date: '2024-03-04'
+- type: amended_by
+  target: pt:dre:993315590:por
+  label: Adita Artigo 18.º-A; Adita Artigo 38.º-A; Adita Anexo X; Altera Artigo 3.º; Altera Artigo 29.º; Altera Artigo 35.º;
+    Altera Artigo 37.º; Altera Anexo VII
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590
+  date: '2025-12-31'
+- type: cites
+  target: celex:32016R0429
+  label: null
+  source: http://data.europa.eu/eli/reg/2016/429/oj
+- type: cites
+  target: celex:32021R2115
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2115/oj
+- type: cites
+  target: celex:32021R2116
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2116/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/123/2021/06/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/123/2021/06/18/p/dre
+- type: cites
+  target: pt:dre:124539914:por
+  label: null
+  source: http://data.dre.pt/eli/port/298/2019/09/09/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
+- type: cites
+  target: pt:dre:259405:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/42/2013/03/22/p/dre
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/142/2006/07/27/p/dre
+article_structure:
+  article_count: 43
+  section_count: 35
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:57:06Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 54-I/2023
+
+Portaria n.º 54-I/2023
+
+de 27 de fevereiro
+
+Sumário: Estabelece as normas nacionais de aplicação das intervenções de apoio associado ao rendimento e do pagamento específico para o algodão previstas nos artigos 32.º a 36.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no que se refere à aplicação do domínio «A.1 - Rendimento e resiliência» do eixo «A - Rendimento e Sustentabilidade» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.
+
+A reforma da Política Agrícola Comum (PAC), em 2021, estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).
+
+O PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.
+
+A estratégia nacional e a respetiva lógica de intervenção subjacente ao PEPAC Portugal tem implícita «Uma gestão ativa de todo o território baseada numa produção agrícola e florestal inovadora e sustentável».
+
+No domínio A.1 «Rendimento e Sustentabilidade» englobam-se intervenções no âmbito dos pagamentos diretos associados com aplicação a partir de 2023, dos quais fazem parte as intervenções de apoio associado ao rendimento e o pagamento específico para o algodão.
+
+Estas intervenções contribuem para os objetivos específicos de «Apoiar o rendimento viável das explorações agrícolas e a resiliência do sector agrícola em toda a União, a fim de reforçar a segurança alimentar a longo prazo e a diversidade agrícola, bem como de garantir a sustentabilidade económica da produção agrícola na União» e de «Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização».
+
+As intervenções de apoio associado ao rendimento são definidas para os setores da carne de bovino, da carne de ovino e de caprino, leite de vaca, arroz, tomate para indústria, proteaginosas, cereais praganosos, milho grão, milho silagem e sementes certificadas, sob a forma de intervenções diferenciadas em «animais» e «superfícies».
+
+Nestes termos, cumpre estabelecer as normas nacionais de aplicação das duas intervenções de pagamentos diretos associados já mencionadas.
+
+Assim:
+
+Manda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece as normas nacionais de aplicação das intervenções de apoio associado ao rendimento e do pagamento específico para o algodão previstas nos artigos 32.º a 36.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no que se refere à aplicação do domínio «A.1 - Rendimento e resiliência» do eixo «A - Rendimento e Sustentabilidade» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.
+
+###### Artigo 2.º — Pagamentos diretos associados
+
+1 - Os pagamentos diretos associados incluem as intervenções de apoio associado ao rendimento e o pagamento específico para o algodão.
+
+2 - As intervenções de apoio associado ao rendimento são definidas para os setores da carne de bovino, da carne de ovino e de caprino, leite de vaca, arroz, tomate para indústria, proteaginosas, cereais praganosos, milho grão, milho silagem e sementes certificadas, sob a forma de intervenções diferenciadas em «animais» e «superfícies».
+
+3 - As intervenções de apoio associado «animais» incluem os seguintes apoios:
+
+a) Pagamento por vaca em aleitamento;
+
+b) Pagamento aos pequenos ruminantes;
+
+c) Pagamento ao leite de vaca.
+
+4 - As intervenções de apoio associado «superfícies» incluem os seguintes apoios:
+
+a) Pagamento ao arroz;
+
+b) Pagamento ao tomate para indústria;
+
+c) Pagamento às proteaginosas;
+
+d) Pagamento aos cereais praganosos;
+
+e) Pagamento ao milho grão;
+
+f) Pagamento ao milho silagem;
+
+g) Pagamento à multiplicação de sementes certificadas.
+
+###### Artigo 3.º — Definições
+
+Para efeitos de aplicação da presente portaria, para além das definições constantes da legislação europeia e nacional aplicável, entende-se por:
+
+a) «Efetivo elegível», os animais que cumpram as condições de atribuição do apoio;
+
+b) «Novilha», qualquer fêmea da espécie bovina a partir de oito meses de idade que ainda não tenha parido;
+
+c) «Organização de produtores (OP)», entidade reconhecida ao abrigo da Portaria n.º 298/2019, de 9 de setembro, bem como agrupamentos de produtores multiprodutos reconhecidos ao abrigo da Portaria n.º 123/2021, de 18 de junho;
+
+d) «Pequeno ruminante», qualquer fêmea da espécie caprina ou ovina, que tenha, pelo menos, um ano;
+
+e) «Vaca», qualquer fêmea da espécie bovina que já tenha parido;
+
+f) «Falsa sementeira», a preparação do canteiro tal como seria efetuada para proceder à sementeira normal, incluindo as operações usuais de mobilização e rega, mas sem a realizar, induzindo a germinação de infestantes, com posterior eliminação dos mesmos exclusivamente através de ação mecânica.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01
+
+###### Artigo 4.º — Agricultor ativo
+
+1 - Entende-se por «agricultor ativo», o agricultor, na aceção do artigo 3.º do Regulamento (UE) 2021/2115, e que exerce atividade agrícola em território continental, assumindo o risco de gestão associado a essa atividade agrícola, e que respeita as seguintes condições:
+
+a) Encontra-se inscrito no registo do agricultor no Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), designadamente no sistema de identificação do beneficiário (IB);
+
+b) Encontra-se inscrito na Autoridade Tributária, com Número de Identificação Fiscal (NIF) e, no caso de pessoa coletiva, detém Classificação de Atividade Económica (CAE) agrícola ou florestal;
+
+c) Detém subparcelas elegíveis inscritas no Sistema de Identificação Parcelar (iSIP) ou marca de exploração no âmbito do Sistema Nacional de Identificação e Registo Animal (SNIRA);
+
+d) Nas situações em que não haja atividade agrícola produtiva, detém evidências de nível mínimo de atividade agrícola não produtiva.
+
+2 - Para efeitos da aferição do nível mínimo de atividade agrícola não produtiva referido na alínea d) do número anterior, são consideradas operações de manutenção da superfície agrícola em condições adequadas para o pastoreio ou o cultivo, sem intervenção preparatória especial, para além do uso dos métodos e máquinas agrícolas habituais, nomeadamente pela apresentação das seguintes evidências:
+
+a) Realização de operações de controlo de vegetação lenhosa ou arbustiva nas subparcelas de prado e pastagem permanente, superfície forrageira temporária espontânea ou pousio;
+
+b) Realização de operações de preparação de instalação de culturas permanentes e de prados e pastagens;
+
+c) Realização de operações de manutenção de culturas permanentes, nomeadamente podas e desramações.
+
+3 - Para efeitos da alínea a) do número anterior, no caso das áreas inseridas em baldio, o nível mínimo de atividade agrícola deve ser evidenciado através de prática local de pastoreio por efetivos pecuários de ruminantes e equídeos, devendo, para esse efeito, os compartes estarem associados à marca de exploração do baldio ou terem marca de exploração associada à marca de exploração do baldio.
+
+4 - São, ainda, considerados agricultores ativos, os agricultores que tenham, no ano anterior ao ano do pedido, apresentado candidatura no âmbito de pagamentos diretos e um montante de pagamentos diretos que não exceda os 2.000 (euro).
+
+###### Artigo 5.º — Elegibilidade da parcela agrícola
+
+1 - As subparcelas agrícolas devem estar à disposição do agricultor em data a fixar anualmente pelo IFAP, I. P., e devem cumprir as condições de elegibilidade ao longo de todo o ano civil.
+
+2 - As subparcelas agrícolas com a ocupação cultural prevista no presente artigo são elegíveis para efeitos das intervenções de pagamentos diretos, na área máxima elegível determinada no iSIP.
+
+3 - São ainda elegíveis, os hectares correspondentes aos elementos lineares característicos das parcelas sistematizadas e exploradas para a orizicultura, desde que sejam utilizados para efeitos do cumprimento do disposto na BCAA 8.2 - Manutenção das características da paisagem, conforme consta do diploma referente à "Nomenclatura das Ocupações Culturais".
+
+4 - A título excecional, no ano de 2023, os agricultores que submetam o PU após o dia 31 de maio de 2023 devem ter as subparcelas candidatas à respetiva ajuda à sua disposição na última data prevista para a submissão do PU.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 147-A/2023 - Diário da República n.º 104/2023, 1º Suplemento, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245), em vigor a partir de 2023-05-31
+
+###### Artigo 6.º — Requisitos mínimos para a concessão de pagamento diretos
+
+1 - Podem beneficiar de pagamentos diretos, os agricultores ativos cujas explorações tenham uma superfície elegível igual ou superior a 0,5 hectares, antes da aplicação de reduções e sanções.
+
+2 - Podem, ainda, beneficiar de pagamentos diretos, os agricultores ativos, cujo montante total dos pagamentos pedidos ou a conceder, a título das intervenções de apoio associado aos animais, antes da aplicação de reduções e sanções, for, em determinado ano civil, igual ou superior a 100 (euro).
+
+###### Artigo 6.º-A — Exclusão de critério de elegibilidade
+
+Os beneficiários dos apoios previstos na presente portaria encontram-se isentos do critério de elegibilidade previsto na alínea b) do n.º 7 do Decreto-Lei n.º 12/2023, de 24 de fevereiro.
+
+> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 314/2023 - Diário da República n.º 203/2023, Série I de 2023-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/314-2023-222939646), em vigor a partir de 2023-10-20, produz efeitos a partir de 2023-02-28
+
+###### Artigo 7.º — Cumulação dos apoios
+
+Os apoios às intervenções «pagamento ao milho silagem» e «pagamento ao milho grão», no que respeita à subparcela, não são cumuláveis.
+
+### Capítulo II — Intervenções de apoio associado ao rendimento «animais»
+
+#### Secção I — Disposições gerais
+
+###### Artigo 8.º — Beneficiários
+
+Podem beneficiar do apoio previsto no presente capítulo, os agricultores ativos que exerçam atividade agrícola no continente e detenham na exploração um efetivo elegível, durante o período de retenção.
+
+###### Artigo 9.º — Período de retenção
+
+1 - Para efeitos do disposto na presente portaria considera-se «período de retenção», o período compreendido entre 1 de janeiro e 30 de abril de cada ano, para as vacas, ovelhas e cabras.
+
+2 - Durante o período de retenção pode ocorrer a substituição de animais, com animais adquiridos fora da exploração, bem como nascidos na exploração, sem perda do direito ao pagamento do apoio, desde que sejam cumpridas as regras da identificação e registo animal definidas no Regulamento (UE) 2016/429, do Parlamento Europeu e do Conselho, relativo às doenças animais transmissíveis («Lei da Saúde Animal») e no Decreto-Lei n.º 142/2006, de 27 de julho, na sua redação atual.
+
+#### Secção II — Pagamento por vaca em aleitamento
+
+###### Artigo 10.º — Objetivo
+
+O pagamento por vaca em aleitamento tem como objetivo assegurar a manutenção de um efetivo reprodutor de vacas em aleitamento com orientação «carne», e evitar o abandono da atividade setorial e, consequentemente, situações disruptivas em termos de abastecimento de carne de bovino.
+
+###### Artigo 11.º — Condições de atribuição do apoio
+
+1 - O pagamento por vaca em aleitamento é concedido ao beneficiário, em função do efetivo elegível de vacas em aleitamento que cumpram as seguintes condições:
+
+a) Sejam identificadas e registadas no SNIRA;
+
+b) Sejam detidas na exploração durante o período de retenção, sem prejuízo do previsto no n.º 2 do artigo 9.º;
+
+c) Tenham parido nos últimos 18 meses;
+
+d) Sejam de raça de vocação «carne» ou resultantes de um cruzamento com uma dessas raças e que façam parte de uma manada destinada à criação de vitelos para produção de carne.
+
+2 - São ainda elegíveis as novilhas, até ao limite de 20 % do número de animais elegíveis ao pagamento, com exceção das explorações com efetivos entre dois e cinco animais elegíveis, em que apenas um dos animais elegíveis pode ser novilha.
+
+3 - Não são elegíveis as vacas em aleitamento que pertençam a uma das raças bovinas indicadas no anexo I à presente portaria, da qual faz parte integrante.
+
+4 - Em situação declarada de seca severa ou extrema, são elegíveis as novilhas, até ao limite de 40 % do número de animais elegíveis ao pagamento, com exceção das explorações com efetivos entre dois e cinco animais elegíveis, em que apenas um dos animais elegíveis pode ser novilha.
+
+5 - Com efeitos no ano seguinte ao da declaração de seca severa ou extrema, são elegíveis as fêmeas que tenham parido nos últimos 24 meses.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+#### Secção III — Pagamento aos pequenos ruminantes
+
+###### Artigo 12.º — Objetivo
+
+O pagamento aos pequenos ruminantes tem como objetivo assegurar a manutenção de efetivos reprodutores de ovelhas e de cabras, que permita manter a produção de carne de ovino e de caprino, evitando situações disruptivas no setor que conduzam ao abandono da atividade.
+
+###### Artigo 13.º — Condições de atribuição do apoio
+
+O pagamento aos pequenos ruminantes é concedido ao beneficiário, em função do efetivo elegível de ovelhas ou cabras que cumpram as seguintes condições:
+
+a) Totalizem um número mínimo de 10 animais elegíveis por exploração;
+
+b) Sejam identificadas e registadas no SNIRA;
+
+c) Sejam detidas na exploração durante o período de retenção, sem prejuízo do previsto no n.º 2 do artigo 9.º
+
+#### Secção IV — Pagamento ao leite de vaca
+
+###### Artigo 14.º — Objetivo
+
+O pagamento ao leite de vaca tem como objetivo assegurar um aprovisionamento estável à indústria local de transformação e evitar situações disruptivas no setor que conduzam ao abandono da atividade de produção.
+
+###### Artigo 15.º — Condições de atribuição do apoio
+
+1 - O pagamento ao leite de vaca é concedido ao agricultor ativo que efetue entregas de leite ou produtos lácteos durante o período de retenção, em função do efetivo elegível de vacas leiteiras que cumpram as seguintes condições:
+
+a) Sejam identificadas e registadas no SNIRA;
+
+b) Sejam detidas na exploração durante o período de retenção, sem prejuízo do previsto no n.º 2 do artigo 9.º;
+
+c) Tenham parido nos últimos 16 meses;
+
+d) Pertençam a uma das raças bovinas ou sejam resultantes do cruzamento entre estas raças, indicadas no anexo I à presente portaria, da qual faz parte integrante.
+
+2 - São ainda elegíveis as novilhas, até ao limite de 20 % do número de animais elegíveis ao pagamento, com exceção das explorações com efetivos entre dois e cinco animais elegíveis, em que apenas um dos animais elegíveis pode ser novilha.
+
+### Capítulo III — Intervenções de apoio associado ao rendimento «superfícies»
+
+#### Secção I — Disposição comum
+
+###### Artigo 16.º — Beneficiários
+
+Podem beneficiar do apoio previsto no presente capítulo, os agricultores ativos que exerçam atividade agrícola no continente e explorem hectares elegíveis.
+
+#### Secção II — Pagamento ao arroz
+
+###### Artigo 17.º — Objetivo
+
+O pagamento ao arroz tem como objetivo assegurar a manutenção da produção, com vista a um aprovisionamento estável da indústria local de transformação de arroz que depende desta produção como matéria-prima, evitando situações disruptivas no setor que conduzam ao abandono da atividade.
+
+###### Artigo 18.º — Condições de atribuição do apoio
+
+O pagamento ao arroz é concedido ao beneficiário que cumpra, nas subparcelas candidatas, as seguintes condições:
+
+a) Candidate uma superfície mínima elegível de 0,5 hectares, semeada ou plantada com arroz na sua totalidade, situada em subparcelas sistematizadas especificamente para esta cultura, nas quais seja utilizado o alagamento como método exclusivo de irrigação;
+
+b) Detenha uma superfície elegível semeada ou plantada com arroz até ao dia 30 de junho do ano correspondente ao PU e a mantenha, pelo menos, até ao início do estádio de grão leitoso em condições normais de desenvolvimento.
+
+###### Artigo 18.º-A — Regeneração produtiva dos arrozais
+
+1 - Os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, podem ainda candidatar subparcelas em pousio, sujeitas à prática da sementeira falsa de arroz, desde que nos dois anos anteriores ao ano de candidatura tenham sido totalmente semeadas ou plantadas com arroz.
+
+2 - Para efeitos do número anterior, a área de subparcelas de pousio, candidata no PU do ano em causa, não pode ser superior a 33 % do total da superfície elegível ao pagamento ao arroz.
+
+> Aditado pelo/a Artigo 7.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01
+
+#### Secção III — Pagamento ao tomate para indústria
+
+###### Artigo 19.º — Objetivo
+
+O pagamento ao tomate para indústria tem como objetivo assegurar a manutenção da produção, com vista a um aprovisionamento estável da indústria local de transformação, evitando situações disruptivas no setor que conduzam ao abandono da atividade.
+
+###### Artigo 20.º — Condições de atribuição do apoio
+
+1 - O pagamento ao tomate para indústria é concedido ao beneficiário que cumpra, nas subparcelas candidatas, as seguintes condições:
+
+a) Candidate uma superfície mínima elegível de 0,5 hectares;
+
+b) Entregue tomate para indústria, cuja produtividade mínima atinja 60 toneladas por hectare de superfície candidata, mediante contrato celebrado entre o agricultor ativo ou a OP e um primeiro transformador reconhecido pelo IFAP, I. P., de acordo com as regras constantes da Parte A do anexo II à presente portaria, da qual faz parte integrante.
+
+2 - O contrato referido na alínea b) do número anterior é celebrado nos termos da Parte B do anexo II à presente portaria, da qual faz parte integrante, entre o agricultor ativo ou a OP da qual o beneficiário seja membro, e o primeiro transformador reconhecido.
+
+3 - A quantidade entregue e aceite para transformação é comprovada nos termos da Parte C do anexo II à presente portaria, da qual faz parte integrante.
+
+#### Secção IV — Pagamento às proteaginosas
+
+###### Artigo 21.º — Objetivo
+
+O objetivo do pagamento às proteaginosas é assegurar a produção específica de culturas com alto teor proteico, com vista à melhoria do aprovisionamento nacional de proteína de origem vegetal.
+
+###### Artigo 22.º — Condições de atribuição do apoio
+
+1 - O pagamento às proteaginosas é concedido ao beneficiário que candidate uma superfície mínima de dois hectares de uma ou mais das seguintes culturas proteaginosas:
+
+a) Amendoim (Arachis spp.);
+
+b) Colza (Brassica napus).
+
+c) Ervilha (Pisum sativum L.);
+
+d) Fava (Vicia faba L.);
+
+e) Feijão (Phaseolus spp.);
+
+f) Feijão-frade (Vigna unguiculata);
+
+g) Grão-de-bico (Cicer spp.);
+
+h) Lentilha (Lens culinaris);
+
+i) Soja (Glycine max);
+
+j) Tremoço doce (Lupinus spp.).
+
+k) Chícharos (Lathyrus sativus).
+
+2 - As culturas proteaginosas referidas no número anterior devem ser realizadas em superfícies integralmente semeadas e apresentar um desenvolvimento vegetativo normal, devendo as mesmas ser mantidas até ao estádio de plena maturação.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 23.º — Superfície de referência para a produção de oleaginosas
+
+1 - A área máxima das culturas oleaginosas, soja e colza, que pode ser objeto de apoio no âmbito do pagamento às proteaginosas está limitada à superfície de referência de 7.865 hectares.
+
+2 - Em caso de ultrapassagem da superfície de referência, a área objeto de apoio é reduzida proporcionalmente.
+
+#### Secção V — Pagamento aos cereais praganosos
+
+###### Artigo 24.º — Objetivo
+
+O objetivo do pagamento aos cereais praganosos é assegurar um certo nível de produção específica com vista a um aprovisionamento estável da indústria local de transformação, evitando situações disruptivas no setor que conduzam ao abandono da atividade.
+
+###### Artigo 25.º — Condições de atribuição do apoio
+
+1 - O pagamento aos cereais praganosos é concedido ao beneficiário que cumpra, nas subparcelas candidatas, as seguintes condições:
+
+a) Candidate uma superfície mínima elegível de um hectare;
+
+b) Produza aveia, centeio ou triticale e obtenha uma produtividade mínima de 0,75 toneladas por hectare;
+
+c) Produza cevada, trigo duro ou trigo mole e obtenha uma produtividade mínima de 1,5 toneladas por hectare;
+
+d) Comercialize a sua produção através de uma OP, na qualidade de membro ou na qualidade de produtor associado de pessoa coletiva membro da OP;
+
+e) Comercialize a sua produção através de contrato celebrado com uma OP, nas situações não abrangidas na alínea anterior.
+
+2 - O contrato referido na alínea e) do número anterior é celebrado entre o agricultor ativo e a OP, nos termos do anexo III à presente portaria, da qual faz parte integrante.
+
+3 - Para efeitos da verificação das produtividades previstas nas alíneas b) e c) do n.º 1 é considerada a informação disponibilizada pela OP até 31 de março do ano seguinte na plataforma iDigital do IFAP, I. P. para o ano em causa, podendo ser comunicada ao abrigo da alínea a) do n.º 1 do artigo 31.º da Portaria n.º 298/2019.
+
+#### Secção VI — Pagamento ao milho grão
+
+###### Artigo 26.º — Objetivo
+
+O pagamento ao milho para produção de grão tem como objetivo assegurar a produção, com vista a um aprovisionamento estável da indústria local de transformação.
+
+###### Artigo 27.º — Condições de atribuição do apoio
+
+1 - O pagamento ao milho grão é concedido ao beneficiário que cumpra, nas subparcelas candidatas, as seguintes condições:
+
+a) Candidate uma superfície mínima elegível de um hectare;
+
+b) Produza milho para grão e obtenha uma produtividade mínima de sete toneladas por hectare;
+
+c) Comercialize a sua produção através de uma OP, na qualidade de membro ou na qualidade de produtor associado de pessoa coletiva membro da OP;
+
+d) Comercialize a sua produção através de contrato celebrado com uma OP, nas situações não abrangidas na alínea anterior.
+
+2 - O contrato referido na alínea d) do número anterior é celebrado entre o agricultor ativo e a OP, nos termos do anexo III à presente portaria, da qual faz parte integrante.
+
+3 - Para efeitos da verificação da produtividade prevista na alínea b) do n.º 1 é considerada a informação disponibilizada pela OP, até 31 de março do ano seguinte na plataforma iDigital do IFAP, I. P. para o ano em causa, podendo ser comunicada ao abrigo da alínea a) do n.º 1 do artigo 31.º da Portaria n.º 298/2019.
+
+#### Secção VII — Pagamento ao milho silagem
+
+###### Artigo 28.º — Objetivo
+
+O objetivo do pagamento ao milho silagem é assegurar a manutenção de uma produção para alimentação animal nas explorações, evitando situações disruptivas no setor do leite, que conduzam ao abandono da atividade.
+
+###### Artigo 29.º — Condições de atribuição do apoio
+
+O pagamento ao milho silagem é concedido ao beneficiário que cumpra, nas subparcelas candidatas, as seguintes condições:
+
+a) Candidate uma superfície mínima elegível de um hectare;
+
+b) Produza milho silagem;
+
+c) Efetue entregas de leite ou produtos lácteos, durante o período de retenção, a uma OP, na qualidade de membro ou de produtor associado de pessoa coletiva membro da OP ou através de contrato celebrado com a OP nos termos do Decreto-Lei n.º 42/2013, de 22 de março;
+
+d) Comercialize a sua produção de carne através de uma OP reconhecida do setor da carne.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01
+
+#### Secção VIII — Pagamento à multiplicação de sementes certificadas
+
+###### Artigo 30.º — Objetivo
+
+O objetivo do pagamento à multiplicação de sementes certificadas é assegurar a manutenção de uma produção específica de sementes certificadas, com vista ao desenvolvimento do respetivo mercado, obtidas num sistema de produção oficialmente controlado e que permita disponibilizar ao agricultor as mais-valias decorrentes do melhoramento vegetal.
+
+###### Artigo 31.º — Condições de atribuição do apoio
+
+1 - O pagamento à multiplicação de sementes certificadas é concedido ao beneficiário que cumpra, nas subparcelas candidatas, as seguintes condições:
+
+a) Candidate subparcelas de campos de multiplicação de sementes inscritos e aprovados pela Direção-Geral de Alimentação e Veterinária (DGAV);
+
+b) Candidate uma superfície mínima elegível de 0,3 hectares de produção de semente certificada;
+
+c) Produza, pelo menos, uma variedade inscrita no Catálogo Nacional de Variedades ou no Catálogo Comum de Variedades, proveniente da multiplicação de semente de primeira geração, base ou pré-base, de espécies que constam do anexo iv à presente portaria, da qual faz parte integrante.
+
+2 - A demonstração da verificação da condição referida na alínea a) do número anterior, no caso das subparcelas candidatas de campos de multiplicação de sementes das espécies de «primavera-verão», pode ser efetuada até dia de 30 de junho do ano da candidatura.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+### Capítulo IV — Pagamento específico para o algodão
+
+###### Artigo 32.º — Beneficiários
+
+Podem beneficiar da intervenção de apoio prevista no presente capítulo, os agricultores ativos que exerçam atividade agrícola, no continente, e explorem hectares elegíveis.
+
+###### Artigo 33.º — Condições de atribuição do apoio
+
+1 - O pagamento específico para o algodão, de qualidade sã, leal e comercializável, é concedido ao beneficiário que cumpra, nas subparcelas candidatas, as seguintes condições:
+
+a) Produza algodão não cardado, nem penteado (código NC 5201 00);
+
+b) A cultura seja realizada em regime de regadio e mantida no solo em condições de crescimento normal até à abertura das cápsulas e seja efetivamente objeto de colheita;
+
+c) A densidade mínima de plantação seja de 100.000 plantas por hectare;
+
+d) A cultura seja realizada com uma das variedades de algodão que constam do anexo IX à presente portaria, da qual faz parte integrante.
+
+2 - A superfície elegível para a produção de algodão fica limitada aos distritos de Beja, Castelo Branco, Évora, Faro e Portalegre.
+
+3 - Não é permitida a produção de algodão por mais de dois anos consecutivos na mesma subparcela.
+
+4 - Para efeitos do n.º 1, considera-se algodão, de qualidade sã, leal e comercializável, o algodão entregue e aceite por uma empresa de descaroçamento autorizada, através de um contrato celebrado com a mesma.
+
+5 - A empresa de descaroçamento autorizada deve comprovar, através da emissão de uma declaração por beneficiário, que as quantidades de algodão entregues são de qualidade sã, leal e comercializável, com base nos critérios de qualidade definidos pela própria empresa de descaroçamento.
+
+### Capítulo V — Procedimento
+
+###### Artigo 34.º — Candidaturas
+
+1 - As candidaturas às intervenções de apoio associado no âmbito da presente portaria são formalizadas nos termos e nos prazos definidos anualmente no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., aprovado em diploma próprio.
+
+2 - Os prazos de apresentação de candidaturas do PU são fixados e divulgados na área pública do sítio da Internet do IFAP, I. P., em www.ifap.pt.
+
+###### Artigo 35.º — Pagamento
+
+1 - As intervenções de apoios associados ao rendimento «animais» e «superfícies» e do pagamento específico para o algodão são concedidas sob a forma de pagamentos anuais no âmbito do sistema integrado de gestão e de controlo, nos termos do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho (Pagamentos SIGC), efetuados pelo IFAP, I. P.
+
+2 - No caso do apoio associado ao rendimento «animais», o montante de pagamento é calculado com base no número de animais elegíveis detidos pelo agricultor, multiplicado pelo montante unitário indicativo e em função do envelope financeiro indicativo anual disponível, constantes, respetivamente, dos anexos V e VI da presente portaria, da qual fazem parte integrante.
+
+3 - No caso do apoio associado ao rendimento «superfícies», o montante de pagamento é calculado com base no número de hectares elegíveis declarados pelo agricultor, multiplicado pelo valor unitário indicativo e em função do envelope financeiro indicativo anual disponível, constantes, respetivamente, dos anexos VII e VIII da presente portaria, da qual fazem parte integrante.
+
+4 - No caso do pagamento específico para o algodão, o montante de pagamento é calculado com base no número de hectares elegíveis declarados pelo agricultor, multiplicado pelo rendimento fixo de 2,2 toneladas por hectare e pelo montante de referência fixo de 223,32 (euro) por hectare, até ao limiar garantido de superfície de base de 360 hectares e em função do envelope financeiro anual disponível para esse ano.
+
+5 - Para efeitos do número anterior, se num determinado ano a superfície elegível de algodão candidata ao pagamento específico exceder a superfície de base fixada, a área de pagamento é reduzida proporcionalmente à superação da superfície de base.
+
+6 - No caso do pagamento à multiplicação de sementes certificadas, o valor unitário indicativo é majorado em 20 %, face ao previsto no anexo vii da presente portaria, da qual faz parte integrante, se a semente certificada for produzida em modo de produção biológico, certificado por organismo de certificação e controlo.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01
+
+###### Artigo 36.º — Condicionalidade
+
+Os beneficiários das intervenções de pagamentos diretos previstas na presente portaria incorrem em sanções administrativas decorrentes de incumprimentos determinados a título do sistema de controlo e sanções administrativas da condicionalidade que engloba os requisitos legais de gestão e as boas condições agrícolas e ambientais definidos em diploma próprio.
+
+###### Artigo 37.º — Reduções e exclusões
+
+1 - Em caso de incumprimento ou qualquer irregularidade detetada, bem como de omissão de superfície, são aplicáveis as disposições nacionais adotadas para efeitos do previsto no Título IV do Regulamento (UE) 2021/2116, bem como as reduções e as exclusões previstas nos números seguintes.
+
+2 - A base de cálculo para a aplicação de penalizações resultantes dos controlos administrativos e físicos é determinada pela diferença entre o número de animais declarados e o número de animais determinados.
+
+3 - Os animais potencialmente elegíveis que não estejam corretamente identificados ou registados no sistema de identificação e registo de animais são contabilizados como animais em relação aos quais foram constatados incumprimentos, salvo nos seguintes casos:
+
+a) Quando um animal presente na exploração tenha perdido um dos meios de identificação é considerado determinado se estiver clara e individualmente identificado pelos restantes elementos do sistema de identificação e registo;
+
+b) Quando apenas um animal presente na exploração tiver perdido dois meios de identificação, o animal é considerado determinado, se puder, ainda, ser identificado pelo registo, pelo passaporte do animal, pela base de dados ou por outros meios estabelecidos no Decreto-Lei n.º 142/2006, de 27 de julho, desde que o detentor de animais possa produzir prova de que já tomara medidas para corrigir a situação antes do anúncio da verificação no local.
+
+4 - Quando o número de animais declarados exceder o número de animais determinados:
+
+a) A ajuda é calculada com base no número de animais determinados, diminuídos da diferença detetada, se esta não for superior a 20 % do número de animais determinados;
+
+b) A ajuda é calculada com base no número de animais determinados, diminuídos do dobro da diferença detetada, se esta for superior a 20 % e igual ou inferior a 30 % do número de animais determinados;
+
+c) Não é concedido apoio se a diferença entre o número de animais determinado e o número de animais declarado for superior a 30 %.
+
+5 - (Revogado.)
+
+6 - Para efeitos do n.º 1, e sem prejuízo das regras estabelecidas no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., é determinada como base de cálculo para a aplicação de penalizações resultantes dos controlos no local a diferença entre a superfície candidata e a superfície determinada, nos seguintes termos:
+
+a) Se a superfície candidata exceder a superfície determinada, a ajuda é calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % da superfície determinada ou a dois hectares, mas igual ou inferior a 50 % da superfície determinada;
+
+b) Se a diferença entre a superfície candidata e a superfície determinada for superior a 50 % não é concedido o apoio;
+
+c) Se a diferença entre a superfície candidata e a superfície determinada for igual ou inferior a 0,1 hectare, considera-se a superfície determinada igual à candidata, desde que a diferença não represente mais do que 20 % da superfície candidata.
+
+7 - Caso se verifique que a superfície determinada elegível à intervenção é maior do que a superfície candidata, a superfície a utilizar no cálculo da ajuda ou do apoio será a superfície candidata.
+
+8 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da Portaria n.º 54-L/2023, de 27 de fevereiro.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01, produz efeitos a partir de 2025-01-01
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 38.º — Contributo para o desempenho do PEPAC Portugal
+
+1 - As presentes intervenções contribuem para os objetivos específicos estabelecido nas alíneas a) e b) do artigo 6.º do Regulamento (UE) 2021/2115, «Apoiar o rendimento viável das explorações agrícolas e a resiliência do sector agrícola em toda a União, a fim de reforçar a segurança alimentar a longo prazo e a diversidade agrícola, bem como de garantir a sustentabilidade económica da produção agrícola na União» e «Reforçar a orientação para o mercado e aumentar a competitividade das explorações agrícolas, tanto a curto como a longo prazo, com maior incidência na investigação, na tecnologia e na digitalização».
+
+2 - Para efeito do cumprimento das metas do PEPAC Portugal, relativas aos indicadores de resultados, estabelecidos no anexo I do Regulamento (UE) 2021/2115, relevam os seguintes indicadores:
+
+a) «R.4 - Articular o apoio ao rendimento com as normas e boas práticas»;
+
+b) «R.6 - Redistribuição a explorações agrícolas de menor dimensão»;
+
+c) «R.7 - Melhorar o apoio prestado às explorações agrícolas em zonas com necessidades específicas»;
+
+d) «R.8 - Visar as explorações agrícolas em setores específicos».
+
+###### Artigo 38.º-A — Gestão financeira
+
+Para efeitos de aplicação das disposições de gestão financeira definidas no capítulo ii da Portaria n.º 54-P/2023 são definidos ao nível de intervenção ou grupo de pagamento no anexo x os montantes unitários indicativos médio, mínimo e máximo.
+
+> Aditado pelo/a Artigo 7.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01
+
+###### Artigo 39.º — Disposição transitória
+
+1 - Revogado.
+
+2 - Para efeitos da presente portaria, as aprovações dos primeiros transformadores de tomate para indústria concedidas ao abrigo do Despacho Normativo n.º 2/2015, publicado no Diário da República, 2.ª série, n.º 13, de 20 de janeiro de 2015, permanecem válidas na campanha de 2023.
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 40.º — Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2023.
+
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.
+
+## Anexo I — Lista das raças bovinas
+
+(a que se referem os artigos 11.º e 15.º)
+
+Angler Rotvieh (Angeln); Rød dansk mælkerace (RMD); German Red. Lithuanian Red, Ayrshire, Armoricaine, Bretonne pie noire, Fries-Hollands (FH), Française frisonne pie noire (FFPN), Friesian- Holstein, Holstein, Black and White Friesian, Red and White Friesian, Frisona española, Frisona Italiana, Zwartbonten van België/pie noire de Belgique, Sortbroget dansk mælkerace (SDM), Deutsche Schwarzbunte, Schwarzbunte Milchrasse (SMR), Czarno -biala, Czerwono-biala, Magyar Holstein-Friz, Dutch Black and White, Estonian Holstein, Estnian Native, Estonian Red, British Friesian, crno-bela, German Red and White, Holstein Black and White, Red Holstein, Groninger Blaarkop, Guernsey, Jersey, Malkeborthorn,Reggiana, Valdostana Nera, Itäsuomenkarja, Länsisuomenkarja, Pohjoissuomenkarja, Frísia Portuguesa, Montbeliard, Brown Suiss, Normande, Fleckvieh, Sueca Vermelha.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+## Anexo II — Processo de aprovação, obrigações e situações de exclusão dos primeiros transformadores de tomate para indústria
+
+(a que se refere o artigo 20.º)
+
+## Parte A — Processo de aprovação dos primeiros transformadores de tomate para indústria
+
+1 - Até ao dia 15 de outubro do ano civil anterior ao que respeita o pagamento ao tomate para indústria, os primeiros transformadores devem apresentar junto do IFAP, I. P., um pedido de aprovação acompanhado dos seguintes elementos:
+
+a) Comprovativo do licenciamento industrial, em que a atividade industrial inclua a transformação agroindustrial de produtos agrícolas, nomeadamente a transformação de tomate;
+
+b) Descrição da empresa e das instalações, bem como do processo de transformação, com especificação da capacidade de produção e coeficientes técnicos de transformação, nomeadamente as quantidades máximas de matéria-prima suscetíveis de serem transformadas por hora e dia;
+
+c) Declaração que ateste que a empresa de transformação tem capacidade administrativa suficiente para gerir os contratos referidos na alínea b) do n.º 1 do artigo 20.º da presente portaria.
+
+2 - A aprovação dos primeiros transformadores é concedida anualmente pelo IFAP, I. P., que publica, até ao dia 31 de dezembro, no respetivo sítio na Internet, a lista dos primeiros transformadores aprovados que cumprem as condições para a celebração de contratos de transformação.
+
+## Parte B — Termos do contrato de transformação
+
+1 - O contrato de transformação é celebrado entre um primeiro transformador aprovado nas condições previstas na Parte A do presente anexo, e o agricultor ou a OP de que o agricultor seja membro.
+
+2 - O contrato deve especificar obrigatoriamente o seguinte:
+
+a) Os nomes, os NIF e os endereços das partes outorgantes do contrato;
+
+b) As quantidades objeto do contrato;
+
+c) Um compromisso do agricultor de entregar ao primeiro transformador a quantidade total de tomate para transformação colhida.
+
+3 - No caso de contrato celebrado entre uma OP e um primeiro transformador aprovado, o mesmo deve ainda especificar os nomes, os NIF e os endereços, referidos na alínea a) do número anterior, e as quantidades referidas na alínea b) do número anterior, para cada membro da OP que pretenda receber o apoio previsto na presente intervenção.
+
+## Parte C — Obrigações dos primeiros transformadores de tomate para indústria
+
+1 - Os primeiros transformadores aprovados emitem, até 31 de outubro, as declarações, por produtor, que atestem as quantidades entregues e aceites para transformação, devendo as mesmas indicar o NIF dos produtores e das OP, quando sejam parte no contrato de transformação, lote, quantidade e número do contrato.
+
+2 - Até ao termo do prazo referido no número anterior, a informação constante das declarações entregues aos produtores deve ser enviada ao IFAP, I. P., em suporte eletrónico.
+
+3 - Os primeiros transformadores aprovados devem manter os registos relativos às quantidades e lotes comprados e admitidos à transformação diariamente na empresa, bem como o número de identificação do contrato a que dizem respeito.
+
+4 - Para efeitos do disposto na presente portaria, os primeiros transformadores aprovados devem conservar durante cinco anos, a contar do final de cada campanha de transformação, e disponibilizar às autoridades nacionais de controlo, sempre que solicitado, a prova do pagamento de todas as matérias-primas compradas no âmbito de contratos de transformação, a prova de pagamento de todas as vendas e compras de produto acabado, bem como as informações relacionadas com todos os elementos constantes do contrato.
+
+## Parte D — Situações de exclusão dos primeiros transformadores de tomate para indústria
+
+Sem prejuízo das responsabilidades que judicialmente venham a ser apuradas, é definitivamente excluído da respetiva intervenção de apoio associado ao rendimento o primeiro transformador aprovado que, em conivência com o produtor ou a OP, preste falsas declarações ou não respeite as obrigações referidas na Parte C do presente anexo.
+
+## Anexo III — Termos do contrato e obrigações das OP para o pagamento aos cereais praganosos e pagamento ao milho grão
+
+(a que se referem os artigos 25.º e 27.º)
+
+## Parte A — Termos do contrato para agricultores não membros da OP
+
+1 - O contrato é celebrado entre o agricultor e a OP.
+
+2 - O contrato deve especificar obrigatoriamente o seguinte:
+
+a) Os nomes, os NIF e os endereços das partes outorgantes do contrato;
+
+b) As quantidades objeto do contrato;
+
+c) Um compromisso do agricultor de entregar à OP a quantidade total da produção obtida.
+
+## Parte B — Obrigações das OP
+
+1 - As OP devem manter os registos relativos às quantidades e lotes, bem como o número de identificação do contrato a que dizem respeito.
+
+2 - Para efeitos do disposto na presente portaria, as OP devem conservar durante cinco anos, a contar do final de cada campanha, e disponibilizar às autoridades nacionais de controlo, sempre que solicitado, os contratos celebrados, bem como as informações relacionadas com todos os elementos deles constantes.
+
+3 - A celebração dos contratos deve ser efetuada de modo a não prejudicar as regras de reconhecimento das OP.
+
+## Parte C — Situações de exclusão das Organizações de Produtores
+
+Sem prejuízo das responsabilidades que judicialmente venham a ser apuradas, é definitivamente excluído da respetiva intervenção de apoio associado ao rendimento, a OP que preste falsas declarações ou não respeite as obrigações referidas na Parte B do presente anexo.
+
+## Anexo IV — Lista de espécies
+
+(a que se refere o artigo 31.º)
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+## Anexo V — Montantes unitários indicativos das intervenções de apoio associado «animais»
+
+(a que se refere o artigo 35.º)
+
+(ver documento original)
+
+## Anexo VI — Envelopes financeiros indicativos das intervenções de apoio associado «animais»
+
+(a que se refere o artigo 35.º)
+
+(ver documento original)
+
+## Anexo VII — Montantes unitários indicativos das intervenções de apoio associado «superfícies»
+
+(a que se refere o artigo 35.º)
+
+| Intervenção | Montante unitário indicativo (€/hectare) |  |
+| --- | --- | --- |
+| Pagamento ao arroz | 387 |  |
+| Pagamento ao arroz - regeneração produtiva dos arrozais | 387 |  |
+| Pagamento ao tomate para indústria | 360 |  |
+| Pagamento às proteaginosas | 65 |  |
+| Pagamento aos cereais praganosos | 104 |  |
+| Pagamento ao milho grão | 275 |  |
+| Pagamento ao milho silagem | 165 |  |
+| Pagamento à multiplicação de sementes certificadas | 125 |  |
+
+> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01
+
+## Anexo VIII — (a que se refere o artigo 35.º)
+
+Envelopes financeiros indicativos das intervenções de apoio associado «superfícies»
+
+(ver documento original)
+
+Envelope financeiro indicativo anual
+
+(ver documento original)
+
+## Anexo IX — (a que se refere o artigo 33.º)
+
+Lista das variedades de algodão
+
+Acala sj-2, Adora, Adra, Airlab, Albariza, Alepo, Alexandros, Aphrica, Armada, Aurea, Azahar, BA 440, Balaika, Beky, Bética, Carmen, Celia, Coko, Concha, Conchita, CS37, Debla, DP332, DP377, DP396, DP401, DP419, Duplo, E1, Efes, Elsa, ESA015, Filia, Flora, Fokion, HA 1432, Helena, Intercott 195, Intercott 211, Intercott 670, Intercott 701, Irida, Julia, Juncal, Kendra, Lagiralda, Lanovia, MAY 455, Novelia, PHY44, PHY48, PHY64, Phylong 1, Phynal, Phynta, Reina, Solera, ST 810, ST 830, ST132, ST318, ST324, ST402, ST405, ST457, ST474 0310 - ST474, ST478, ST488, Totemia, Viky.
+
+116207033
+
+## Anexo X — Montantes unitários indicativos, médios, mínimo e máximo
+
+(a que se refere o artigo 38.º-A)
+
+> Aditado pelo/a Artigo 12.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01

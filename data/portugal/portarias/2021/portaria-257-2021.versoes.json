@@ -1,0 +1,607 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174634475:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-175999558",
+ "dre_path": "/dr/detalhe/portaria/257-2021-174634475",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "852858120",
+    "176053769",
+    "176053770",
+    "176053771",
+    "176053772",
+    "176053773",
+    "176053774",
+    "176056975",
+    "176056976",
+    "176056977",
+    "176056978",
+    "176056979",
+    "176056980",
+    "176056981",
+    "176056982",
+    "176056983",
+    "176056984",
+    "176056985",
+    "176056986",
+    "176056987",
+    "176056988",
+    "176056989",
+    "176056990",
+    "176056991",
+    "176056992",
+    "176056993",
+    "176056994",
+    "176056996"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:175983735:por",
+     "title": "Declaração de Retificação n.º 42/2021",
+     "published": "2021-12-16",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/42-2021-175983735",
+     "date": "2021-11-30"
+    }
+   ]
+  },
+  {
+   "date": "2024-02-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:852762917:por",
+     "title": "Portaria n.º 49/2024",
+     "published": "2024-02-15",
+     "dre_path": "/dr/detalhe/portaria/49-2024-852762917"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "852858120",
+    "852858121",
+    "852858122",
+    "852858123",
+    "852858124",
+    "852858125",
+    "852858126",
+    "852858127",
+    "852858128",
+    "852858129",
+    "852858130",
+    "852858131",
+    "852858132",
+    "852858133",
+    "852858134",
+    "852858135",
+    "852858136",
+    "852858137",
+    "852858138",
+    "852858139",
+    "852858140",
+    "852858141",
+    "852858142",
+    "852858143",
+    "852858144",
+    "852858145",
+    "852858146",
+    "852858147",
+    "852858148"
+   ]
+  }
+ ],
+ "fragments": {
+  "852858120": {
+   "fragment_id": "175999559",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-02-16",
+   "changed_by": [],
+   "markdown": "Portaria n.º 257/2021\n\nde 19 de novembro\n\nSumário: Regulamenta o regime do procedimento de injunção em matéria de arrendamento.\n\nA Lei n.º 12/2019, de 12 de fevereiro, que proíbe e pune o assédio no arrendamento, procedendo à quinta alteração ao Novo Regime do Arrendamento Urbano, aprovado pela Lei n.º 6/2006, de 27 de fevereiro, consagrou a possibilidade de o inquilino intimar o senhorio para tomar as providências ao seu alcance no sentido de cessar a produção de ruído fora dos limites legalmente estabelecidos, corrigir deficiências do locado, ou das partes comuns do respetivo edifício, que constituam risco grave para a saúde ou a segurança de pessoas e bens e ainda corrigir outras situações que impeçam a fruição do locado, o acesso ao mesmo ou a serviços essenciais.\n\nConcomitantemente, a Lei n.º 13/2019, de 12 de fevereiro, que estabelece medidas destinadas a corrigir situações de desequilíbrio entre arrendatários e senhorios, a reforçar a segurança e a estabilidade do arrendamento urbano e a proteger arrendatários em situação de especial fragilidade, veio criar a injunção em matéria de arrendamento (IMA) enquanto meio processual destinado a efetivar os direitos do arrendatário ao pagamento de quantia certa do valor da compensação em dívida por execução de obras em substituição do senhorio, à cessação de atividades causadoras de risco para a saúde do arrendatário, à correção de deficiências do locado causadoras de risco grave para a saúde ou para a segurança de pessoas ou bens e à correção de impedimento da fruição do locado.\n\nEsta lei criou ainda, junto da Direção-Geral da Administração da Justiça, o Serviço de Injunção em Matéria de Arrendamento, enquanto secretaria judicial com competência exclusiva para assegurar a tramitação da IMA.\n\nO Decreto-Lei n.º 34/2021, de 14 de maio, que procede à aprovação do Regime do Procedimento de Injunção em Matéria de Arrendamento, consagra o regime dos procedimentos especiais destinados a efetivar os direitos do arrendatário.\n\nAtravés da presente portaria, regulamentam-se as matérias relativas à forma de apresentação e ao modelo do requerimento da IMA e da oposição à injunção, à forma de apresentação de outros requerimentos, ao modo de designação, substituição e destituição do agente de execução, à forma de realização de comunicações e notificações, aos honorários e despesas do agente de execução, às formas de pagamento da taxa de justiça devida pela apresentação do requerimento da IMA, às formas de consulta do processo, bem como à forma de disponibilização e consulta do título executivo.\n\nAtentos os desenvolvimentos tecnológicos necessários para a integral implementação deste novo regime legal, e até que estes estejam consolidados, estabelece-se um regime transitório de tramitação da IMA que permite aos interessados o exercício pleno dos seus direitos.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado Adjunto e da Justiça, ao abrigo do artigo 6.º do Decreto-Lei n.º 34/2021, de 14 de maio, e ao abrigo do disposto nos n.os 1 e 5 do artigo 4.º, no n.º 6 do artigo 8.º, no n.º 6 do artigo 9.º, nos n.os 1 e 2 do artigo 16.º, no artigo 17.º e no artigo 24.º do Regime dos Procedimentos Especiais em Matéria de Arrendamento, aprovado em anexo ao Decreto-Lei n.º 34/2021, de 14 de maio, que procede à aprovação do Regime do Procedimento de Injunção em Matéria de Arrendamento, o seguinte:"
+  },
+  "176053769": {
+   "fragment_id": "175999560",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "176053770": {
+   "fragment_id": "175999561",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria regulamenta os seguintes aspetos do procedimento de injunção em matéria de arrendamento, previsto no artigo 15.º-T do Novo Regime de Arrendamento urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de fevereiro, e regulado no Decreto-Lei n.º 34/2021, de 14 de maio:\n\na) Forma de apresentação do requerimento de injunção em matéria de arrendamento (IMA), do requerimento de oposição à injunção e dos demais requerimentos;\n\nb) Tramitação eletrónica do procedimento;\n\nc) Forma de realização de comunicações e notificações;\n\nd) Disponibilização do título executivo ao requerente;\n\ne) Modo de designação, substituição e destituição do agente de execução;\n\nf) Regime de honorários e despesas do agente de execução;\n\ng) Formas de pagamento da taxa de justiça devida pela apresentação do requerimento de IMA;\n\nh) Formas de consulta do procedimento.\n\n2 - São aprovados em anexo à presente portaria os modelos do requerimento de IMA e do requerimento de oposição à injunção, que se encontram disponíveis na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt."
+  },
+  "176053771": {
+   "fragment_id": "175999562",
+   "type": 11,
+   "heading": "Artigo 2.º — Tramitação eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tramitação eletrónica\n\n1 - O procedimento de IMA tem natureza eletrónica, sendo constituído por informação estruturada constante do sistema de informação de suporte à atividade dos tribunais e por documentos eletrónicos.\n\n2 - A tramitação eletrónica do procedimento é efetuada no sistema de informação referido no número anterior.\n\n3 - O acesso à área reservada da Área de Serviços Digitais dos Tribunais, no endereço eletrónico https://tribunais.org.pt, previsto no n.º 2 do artigo 4.º e no n.º 3 do artigo 6.º, efetua-se mediante autenticação prévia com recurso ao certificado digital de autenticação integrado no cartão do cidadão ou à Chave Móvel Digital, podendo ser utilizado para o efeito o Sistema de Certificação de Atributos Profissionais associado a estes, e processa-se de acordo com os procedimentos e instruções constantes daquele endereço eletrónico.\n\n4 - Quando as partes apresentem requerimentos e documentos em suporte físico, o Serviço de Injunção em Matéria de Arrendamento (SIMA) procede à sua digitalização e inserção no sistema de informação e ao registo da informação necessária nesse sistema.\n\n5 - Aos aspetos relacionados com a tramitação eletrónica que não estejam expressamente previstos na presente portaria aplica-se, com as necessárias adaptações, e desde que não contrarie o disposto no Decreto-Lei n.º 34/2021, de 14 de maio, a Portaria n.º 280/2013, de 26 de agosto."
+  },
+  "176053772": {
+   "fragment_id": "175999563",
+   "type": 1,
+   "heading": "Capítulo II — Formas de apresentação dos requerimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Formas de apresentação dos requerimentos"
+  },
+  "176053773": {
+   "fragment_id": "175999564",
+   "type": 11,
+   "heading": "Artigo 3.º — Partes representadas por mandatário judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Partes representadas por mandatário judicial\n\n1 - A apresentação, por mandatário judicial, do requerimento de IMA, do requerimento de oposição à injunção e dos demais requerimentos junto do SIMA efetua-se por transmissão eletrónica de dados, através do sistema de informação de suporte à atividade dos tribunais, aplicando-se, com as necessárias adaptações, o disposto no capítulo ii da Portaria n.º 280/2013, de 26 de agosto.\n\n2 - Em caso de justo impedimento, o mandatário judicial pode apresentar requerimentos por uma das formas previstas nas alíneas a) a c) do n.º 9 do artigo 4.º do Decreto-Lei n.º 34/2021, de 14 de maio, nos termos do n.º 1 do artigo seguinte."
+  },
+  "176053774": {
+   "fragment_id": "175999565",
+   "type": 11,
+   "heading": "Artigo 4.º — Partes não representadas por mandatário judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Partes não representadas por mandatário judicial\n\n1 - A apresentação, por parte não representada por mandatário judicial, do requerimento de IMA, do requerimento de oposição à injunção e dos demais requerimentos junto do SIMA efetua-se por uma das formas previstas no n.º 9 do artigo 4.º do Decreto-Lei n.º 34/2021, de 14 de maio, devendo ser utilizados os modelos do requerimento de IMA e do requerimento de oposição à injunção aprovados em anexo à presente portaria nos casos de entrega destes requerimentos por via não eletrónica.\n\n2 - A apresentação, por via eletrónica, do requerimento de IMA, do requerimento de oposição à injunção e dos demais requerimentos efetua-se através do preenchimento dos respetivos formulários, na área reservada da Área de Serviços Digitais dos Tribunais, aos quais se anexam, de forma individualizada, os documentos que devam acompanhá-los.\n\n3 - Os requerimentos a que se refere o número anterior são assinados com recurso a assinatura eletrónica qualificada.\n\n4 - Nos casos de entrega presencial dos requerimentos, o SIMA procede nos termos previstos no n.º 13 do artigo 144.º do Código de Processo Civil, aprovado pela Lei n.º 41/2013, de 26 de junho."
+  },
+  "176056975": {
+   "fragment_id": "175999566",
+   "type": 1,
+   "heading": "Capítulo III — Atos praticados pelo SIMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Atos praticados pelo SIMA"
+  },
+  "176056976": {
+   "fragment_id": "175999567",
+   "type": 11,
+   "heading": "Artigo 5.º — Formalidades de atos praticados pelo SIMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formalidades de atos praticados pelo SIMA\n\n1 - Às notificações realizadas pelo SIMA é aposto selo eletrónico qualificado.\n\n2 - As notificações realizadas pelo SIMA contêm a indicação de terem sido elaboradas por via eletrónica, através do sistema de informação de suporte à atividade dos tribunais, com aposição de selo eletrónico qualificado e a indicação do modo como podem ser consultadas na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.\n\n3 - Ao despacho de aposição da fórmula executória é aposta assinatura eletrónica qualificada, devendo o requerimento de IMA ao qual foi aposta a fórmula executória conter a indicação de que o despacho foi assinado com recurso a assinatura eletrónica qualificada."
+  },
+  "176056977": {
+   "fragment_id": "175999568",
+   "type": 11,
+   "heading": "Artigo 6.º — Notificações às partes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Notificações às partes\n\n1 - As notificações às partes representadas por mandatário judicial efetuam-se por via eletrónica, nos termos do disposto nos artigos 247.º e 248.º do Código de Processo Civil e do artigo 25.º da Portaria n.º 280/2013, de 26 de agosto.\n\n2 - As notificações às partes não representadas por mandatário judicial, bem como aquelas que sejam feitas na própria pessoa do requerente quando se encontre representado por mandatário judicial, efetuam-se nos termos do artigo 249.º do Código de Processo Civil, com as necessárias adaptações, sem prejuízo dos casos previstos no número seguinte.\n\n3 - Quando o requerente tenha indicado o seu endereço eletrónico no requerimento de IMA para efeitos de receção das notificações ou comunicações por meios eletrónicos, as notificações referidas no número anterior são disponibilizadas na área reservada da Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, sendo a data da consulta da notificação certificada pelo sistema de informação de suporte à atividade dos tribunais.\n\n4 - Quando, nos termos previstos no número anterior, seja disponibilizada uma notificação na área reservada da Área de Serviços Digitais dos Tribunais é enviada ao requerente uma mensagem de aviso para o endereço de correio eletrónico indicado no requerimento de IMA.\n\n5 - Nos casos previstos no n.º 3, se o requerente não consultar a notificação no prazo de três dias contados da data de disponibilização da notificação na área reservada, a notificação é igualmente efetuada nos termos do n.º 2."
+  },
+  "176056978": {
+   "fragment_id": "175999569",
+   "type": 11,
+   "heading": "Artigo 7.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comunicações\n\n1 - As comunicações entre o SIMA e os tribunais, mandatários judiciais, agentes de execução ou oficiais de justiça realizam-se por via eletrónica, através do envio, sempre que possível de forma automática, de informação estruturada e de documentos eletrónicos no sistema de informação de suporte à atividade dos tribunais e, quando aplicável, entre aquele e o sistema de informação de suporte à atividade dos agentes de execução.\n\n2 - A utilização dos sistemas referidos no número anterior deve garantir o registo das comunicações efetuadas, com identificação do respetivo emissor e destinatário, data da comunicação e número de processo ou procedimento a que a comunicação se refere."
+  },
+  "176056979": {
+   "fragment_id": "175999570",
+   "type": 11,
+   "heading": "Artigo 8.º — Disponibilização do título executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Disponibilização do título executivo\n\n1 - O requerimento de IMA ao qual foi aposta fórmula executória é disponibilizado pelo SIMA ao requerente na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.\n\n2 - Com a notificação, na sua própria pessoa, do despacho de aposição de fórmula executória o requerente é informado dos dados necessários para aceder ao título, nomeadamente quanto à referência única."
+  },
+  "176056980": {
+   "fragment_id": "175999571",
+   "type": 1,
+   "heading": "Capítulo IV — Informação sobre decisões judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Informação sobre decisões judiciais"
+  },
+  "176056981": {
+   "fragment_id": "175999572",
+   "type": 11,
+   "heading": "Artigo 9.º — Comunicação de decisões judiciais ao SIMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comunicação de decisões judiciais ao SIMA\n\n1 - Nos casos previstos nas alíneas a) e b) do n.º 1 do artigo 15.º-T do NRAU, se for deduzida oposição à injunção e sendo os autos apresentados à distribuição, o tribunal judicial comunica ao SIMA, nos termos previstos no artigo 7.º e sempre que possível de forma automática:\n\na) As decisões que conheçam dos pedidos formulados;\n\nb) As decisões suscetíveis de pôr termo à ação declarativa;\n\nc) O trânsito em julgado das decisões referidas nas alíneas a) e b);\n\nd) A interposição de recurso das decisões referidas nas alíneas a) e b);\n\ne) Os despachos sobre os requerimentos de interposição de recurso referidos na alínea anterior;\n\nf) As reclamações do despacho que não admita o recurso referido na alínea d);\n\ng) As decisões sobre as reclamações referidas na alínea anterior;\n\nh) A decisão que altere o efeito do recurso, nos termos do artigo 654.º do Código de Processo Civil.\n\n2 - Nos casos em que os autos são apresentados à distribuição para a prática de ato judicial, o tribunal comunica ao SIMA, nos termos do artigo 7.º, sempre que possível de forma automática, o despacho proferido."
+  },
+  "176056982": {
+   "fragment_id": "175999573",
+   "type": 1,
+   "heading": "Capítulo V — Agente de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Agente de execução"
+  },
+  "176056983": {
+   "fragment_id": "175999574",
+   "type": 11,
+   "heading": "Artigo 10.º — Designação, substituição, destituição e honorários do agente de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Designação, substituição, destituição e honorários do agente de execução\n\nSem prejuízo do disposto no presente capítulo, à designação, substituição, destituição e honorários do agente de execução aplicam-se, com as necessárias adaptações, as regras relativas às ações executivas previstas nos artigos 720.º a 722.º do Código de Processo Civil, no artigo 11.º da Portaria n.º 280/2013, de 26 de agosto, e na Portaria n.º 282/2013, de 29 de agosto."
+  },
+  "176056984": {
+   "fragment_id": "176057075",
+   "type": 11,
+   "heading": "Artigo 11.º — Designação oficiosa de agente de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Designação oficiosa de agente de execução\n\nNos casos em que o agente de execução é oficiosamente designado pelo SIMA, a designação é notificada ao requerente, em simultâneo com a notificação referida no n.º 1 do artigo seguinte, com as seguintes indicações relativas ao designado:\n\na) Nome profissional;\n\nb) Número de cédula profissional;\n\nc) Endereço de correio eletrónico;\n\nd) Número de telefone;\n\ne) Número de fax, caso exista;\n\nf) Morada profissional."
+  },
+  "176056985": {
+   "fragment_id": "176057076",
+   "type": 11,
+   "heading": "Artigo 12.º — Honorários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Honorários\n\n1 - Aquando da remessa ao requerente do comprovativo de envio do requerimento executivo para o tribunal, o SIMA, caso o requerente não beneficie de apoio judiciário na modalidade de atribuição de agente de execução, remete igualmente a referência para pagamento dos honorários devidos ao agente de execução a que se refere o n.º 5 do artigo 3.º da Portaria n.º 282/2013, de 29 de agosto, aplicando-se ainda o disposto nos seus n.os 6, 7 e 8.\n\n2 - À remuneração do agente de execução pela notificação do requerimento de IMA mediante contacto pessoal aplica-se o previsto na Portaria n.º 282/2013, de 29 de agosto, quanto à notificação por contacto pessoal em processos declarativos."
+  },
+  "176056986": {
+   "fragment_id": "176057077",
+   "type": 1,
+   "heading": "Capítulo VI — Taxa de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Taxa de justiça"
+  },
+  "176056987": {
+   "fragment_id": "176057078",
+   "type": 11,
+   "heading": "Artigo 13.º — Formas de pagamento da taxa de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Formas de pagamento da taxa de justiça\n\n1 - Quando o requerimento de IMA seja apresentado por mandatário judicial ou por requerente não representado por mandatário judicial que submeta o requerimento de IMA por via eletrónica, é disponibilizada, no momento do preenchimento do respetivo formulário, a referência para pagamento da taxa de justiça devida.\n\n2 - Quando o requerimento de IMA seja apresentado em suporte físico por requerente não representado por mandatário judicial, aplica-se ao pagamento da taxa de justiça devida pela apresentação do requerimento de IMA o n.º 6 do artigo 14.º do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.\n\n3 - Ao pagamento da taxa devida pela notificação do requerimento de IMA mediante contacto pessoal através de oficial de justiça aplica-se o previsto nos n.os 1, 2 e 6 do artigo 9.º do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro."
+  },
+  "176056988": {
+   "fragment_id": "176057079",
+   "type": 1,
+   "heading": "Capítulo VII — Consulta do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Consulta do procedimento"
+  },
+  "176056989": {
+   "fragment_id": "176057080",
+   "type": 11,
+   "heading": "Artigo 14.º — Consulta eletrónica do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Consulta eletrónica do procedimento\n\nÀ consulta do procedimento é aplicável, com as necessárias adaptações, o disposto no capítulo vi da Portaria n.º 280/2013, de 26 de agosto."
+  },
+  "176056990": {
+   "fragment_id": "176057081",
+   "type": 11,
+   "heading": "Artigo 15.º — Consulta do título executivo por terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Consulta do título executivo por terceiros\n\n1 - A disponibilização pelo requerente da referência única prevista no artigo 8.º a qualquer entidade, pública ou privada, substitui, para todos os efeitos, a entrega do título executivo.\n\n2 - As entidades referidas no número anterior podem consultar o título executivo na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, utilizando para tal a referência única a que se refere o número anterior."
+  },
+  "176056991": {
+   "fragment_id": "176057082",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais"
+  },
+  "176056992": {
+   "fragment_id": "176057083",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma transitória\n\n1 - Até à produção de efeitos das normas a que se refere o artigo seguinte, aplica-se à tramitação do procedimento de IMA o disposto nos números seguintes.\n\n2 - A apresentação de requerimentos junto do SIMA efetua-se por uma das seguintes formas:\n\na) Entrega no SIMA;\n\nb) Remessa pelo correio, sob registo;\n\nc) Envio através de telecópia.\n\n3 - O SIMA procede à digitalização de todos os elementos do processo e arquiva-os em suporte eletrónico.\n\n4 - Aos atos realizados pelo SIMA é aposta assinatura eletrónica qualificada.\n\n5 - As notificações efetuadas pelo SIMA às partes, estejam ou não representadas por mandatário judicial, são remetidas por via postal, contendo a indicação de terem sido assinadas com recurso a assinatura eletrónica qualificada, aplicando-se o disposto no artigo 249.º do Código de Processo Civil, com as necessárias adaptações.\n\n6 - As demais comunicações entre o SIMA e os tribunais, mandatários judiciais, agentes de execução ou oficiais de justiça realizam-se por via postal, contendo igualmente a indicação de terem sido assinadas com recurso a assinatura eletrónica qualificada.\n\n7 - As comunicações de decisões judiciais ao SIMA efetuam-se por via postal, telecópia ou correio eletrónico.\n\n8 - Nos casos previstos nas alíneas a) e b) do n.º 1 do artigo 15.º-T do NRAU, o título executivo ao qual foi aposta fórmula executória é disponibilizado pelo SIMA, em suporte eletrónico, ao requerente e ao tribunal competente para a execução.\n\n9 - O SIMA notifica o requerente ou o seu mandatário judicial para pagamento da taxa de justiça devida pela apresentação do requerimento de IMA."
+  },
+  "176056993": {
+   "fragment_id": "176057084",
+   "type": 11,
+   "heading": "Artigo 17.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Produção de efeitos\n\nAs normas que se referem à tramitação eletrónica, ao selo eletrónico, ao sistema de informação de suporte à atividade dos tribunais, à área reservada da Área de Serviços Digitais dos Tribunais e à referência única para acesso ao título executivo produzem efeitos a 1 de abril de 2022 ou, caso as condições técnicas o permitam, em data anterior a definir por despacho do membro do Governo responsável pela área da justiça, a divulgar com uma antecedência mínima de 10 dias úteis na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt."
+  },
+  "176056994": {
+   "fragment_id": "176057085",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente portaria entra em vigor a 30 de novembro de 2021."
+  },
+  "176056996": {
+   "fragment_id": "176057087",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)\n\n114743948"
+  },
+  "852858121": {
+   "fragment_id": "175999560",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858122": {
+   "fragment_id": "175999561",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria regulamenta os seguintes aspetos do procedimento de injunção em matéria de arrendamento, previsto no artigo 15.º-T do Novo Regime de Arrendamento urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de fevereiro, e regulado no Decreto-Lei n.º 34/2021, de 14 de maio:\n\na) Forma de apresentação do requerimento de injunção em matéria de arrendamento (IMA), do requerimento de oposição à injunção e dos demais requerimentos;\n\nb) Tramitação eletrónica do procedimento;\n\nc) Forma de realização de comunicações e notificações;\n\nd) Disponibilização do título executivo ao requerente;\n\ne) Modo de designação, substituição e destituição do agente de execução;\n\nf) Regime de honorários e despesas do agente de execução;\n\ng) Formas de pagamento da taxa de justiça devida pela apresentação do requerimento de IMA;\n\nh) Formas de consulta do procedimento.\n\n2 - São aprovados em anexo à presente portaria os modelos do requerimento de IMA e do requerimento de oposição à injunção, que se encontram disponíveis na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858123": {
+   "fragment_id": "175999562",
+   "type": 11,
+   "heading": "Artigo 2.º — Tramitação eletrónica",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 2.º — Tramitação eletrónica\n\n1 - O procedimento de IMA tem natureza eletrónica, sendo constituído por informação estruturada constante do sistema de informação de suporte à atividade dos tribunais e por documentos eletrónicos.\n\n2 - A tramitação eletrónica do procedimento é efetuada no sistema de informação referido no número anterior.\n\n3 - O acesso à área reservada da Área de Serviços Digitais dos Tribunais, no endereço eletrónico https://tribunais.org.pt, previsto no n.º 2 do artigo 4.º e no n.º 3 do artigo 6.º, efetua-se mediante autenticação prévia com recurso ao certificado digital de autenticação integrado no cartão do cidadão ou à Chave Móvel Digital, podendo ser utilizado para o efeito o Sistema de Certificação de Atributos Profissionais associado a estes, e processa-se de acordo com os procedimentos e instruções constantes daquele endereço eletrónico.\n\n4 - Quando as partes apresentem requerimentos e documentos em suporte físico, o Serviço de Injunção em Matéria de Arrendamento (SIMA) procede à sua digitalização e inserção no sistema de informação e ao registo da informação necessária nesse sistema.\n\n5 - Aos aspetos relacionados com a tramitação eletrónica que não estejam expressamente previstos na presente portaria aplica-se, com as necessárias adaptações, e desde que não contrarie o disposto no Decreto-Lei n.º 34/2021, de 14 de maio, a Portaria n.º 280/2013, de 26 de agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858124": {
+   "fragment_id": "175999563",
+   "type": 1,
+   "heading": "Capítulo II — Formas de apresentação dos requerimentos",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "### Capítulo II — Formas de apresentação dos requerimentos\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858125": {
+   "fragment_id": "175999564",
+   "type": 11,
+   "heading": "Artigo 3.º — Partes representadas por mandatário judicial",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 3.º — Partes representadas por mandatário judicial\n\n1 - A apresentação, por mandatário judicial, do requerimento de IMA, do requerimento de oposição à injunção e dos demais requerimentos junto do SIMA efetua-se por transmissão eletrónica de dados, através do sistema de informação de suporte à atividade dos tribunais, aplicando-se, com as necessárias adaptações, o disposto no capítulo ii da Portaria n.º 280/2013, de 26 de agosto.\n\n2 - Em caso de justo impedimento, o mandatário judicial pode apresentar requerimentos por uma das formas previstas nas alíneas a) a c) do n.º 9 do artigo 4.º do Decreto-Lei n.º 34/2021, de 14 de maio, nos termos do n.º 1 do artigo seguinte.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858126": {
+   "fragment_id": "175999565",
+   "type": 11,
+   "heading": "Artigo 4.º — Partes não representadas por mandatário judicial",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 4.º — Partes não representadas por mandatário judicial\n\n1 - A apresentação, por parte não representada por mandatário judicial, do requerimento de IMA, do requerimento de oposição à injunção e dos demais requerimentos junto do SIMA efetua-se por uma das formas previstas no n.º 9 do artigo 4.º do Decreto-Lei n.º 34/2021, de 14 de maio, devendo ser utilizados os modelos do requerimento de IMA e do requerimento de oposição à injunção aprovados em anexo à presente portaria nos casos de entrega destes requerimentos por via não eletrónica.\n\n2 - A apresentação, por via eletrónica, do requerimento de IMA, do requerimento de oposição à injunção e dos demais requerimentos efetua-se através do preenchimento dos respetivos formulários, na área reservada da Área de Serviços Digitais dos Tribunais, aos quais se anexam, de forma individualizada, os documentos que devam acompanhá-los.\n\n3 - Os requerimentos a que se refere o número anterior são assinados com recurso a assinatura eletrónica qualificada.\n\n4 - Nos casos de entrega presencial dos requerimentos, o SIMA procede nos termos previstos no n.º 13 do artigo 144.º do Código de Processo Civil, aprovado pela Lei n.º 41/2013, de 26 de junho.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858127": {
+   "fragment_id": "175999566",
+   "type": 1,
+   "heading": "Capítulo III — Atos praticados pelo SIMA",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "### Capítulo III — Atos praticados pelo SIMA\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858128": {
+   "fragment_id": "175999567",
+   "type": 11,
+   "heading": "Artigo 5.º — Formalidades de atos praticados pelo SIMA",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 5.º — Formalidades de atos praticados pelo SIMA\n\n1 - Às notificações realizadas pelo SIMA é aposto selo eletrónico qualificado.\n\n2 - As notificações realizadas pelo SIMA contêm a indicação de terem sido elaboradas por via eletrónica, através do sistema de informação de suporte à atividade dos tribunais, com aposição de selo eletrónico qualificado e a indicação do modo como podem ser consultadas na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.\n\n3 - Ao despacho de aposição da fórmula executória é aposta assinatura eletrónica qualificada, devendo o requerimento de IMA ao qual foi aposta a fórmula executória conter a indicação de que o despacho foi assinado com recurso a assinatura eletrónica qualificada.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858129": {
+   "fragment_id": "175999568",
+   "type": 11,
+   "heading": "Artigo 6.º — Notificações às partes",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 6.º — Notificações às partes\n\n1 - As notificações às partes representadas por mandatário judicial efetuam-se por via eletrónica, nos termos do disposto nos artigos 247.º e 248.º do Código de Processo Civil e do artigo 25.º da Portaria n.º 280/2013, de 26 de agosto.\n\n2 - As notificações às partes não representadas por mandatário judicial, bem como aquelas que sejam feitas na própria pessoa do requerente quando se encontre representado por mandatário judicial, efetuam-se nos termos do artigo 249.º do Código de Processo Civil, com as necessárias adaptações, sem prejuízo dos casos previstos no número seguinte.\n\n3 - Quando o requerente tenha indicado o seu endereço eletrónico no requerimento de IMA para efeitos de receção das notificações ou comunicações por meios eletrónicos, as notificações referidas no número anterior são disponibilizadas na área reservada da Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, sendo a data da consulta da notificação certificada pelo sistema de informação de suporte à atividade dos tribunais.\n\n4 - Quando, nos termos previstos no número anterior, seja disponibilizada uma notificação na área reservada da Área de Serviços Digitais dos Tribunais é enviada ao requerente uma mensagem de aviso para o endereço de correio eletrónico indicado no requerimento de IMA.\n\n5 - Nos casos previstos no n.º 3, se o requerente não consultar a notificação no prazo de três dias contados da data de disponibilização da notificação na área reservada, a notificação é igualmente efetuada nos termos do n.º 2.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858130": {
+   "fragment_id": "175999569",
+   "type": 11,
+   "heading": "Artigo 7.º — Comunicações",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 7.º — Comunicações\n\n1 - As comunicações entre o SIMA e os tribunais, mandatários judiciais, agentes de execução ou oficiais de justiça realizam-se por via eletrónica, através do envio, sempre que possível de forma automática, de informação estruturada e de documentos eletrónicos no sistema de informação de suporte à atividade dos tribunais e, quando aplicável, entre aquele e o sistema de informação de suporte à atividade dos agentes de execução.\n\n2 - A utilização dos sistemas referidos no número anterior deve garantir o registo das comunicações efetuadas, com identificação do respetivo emissor e destinatário, data da comunicação e número de processo ou procedimento a que a comunicação se refere.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858131": {
+   "fragment_id": "175999570",
+   "type": 11,
+   "heading": "Artigo 8.º — Disponibilização do título executivo",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 8.º — Disponibilização do título executivo\n\n1 - O requerimento de IMA ao qual foi aposta fórmula executória é disponibilizado pelo SIMA ao requerente na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.\n\n2 - Com a notificação, na sua própria pessoa, do despacho de aposição de fórmula executória o requerente é informado dos dados necessários para aceder ao título, nomeadamente quanto à referência única.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858132": {
+   "fragment_id": "175999571",
+   "type": 1,
+   "heading": "Capítulo IV — Informação sobre decisões judiciais",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "### Capítulo IV — Informação sobre decisões judiciais\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858133": {
+   "fragment_id": "175999572",
+   "type": 11,
+   "heading": "Artigo 9.º — Comunicação de decisões judiciais ao SIMA",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 9.º — Comunicação de decisões judiciais ao SIMA\n\n1 - Nos casos previstos nas alíneas a) e b) do n.º 1 do artigo 15.º-T do NRAU, se for deduzida oposição à injunção e sendo os autos apresentados à distribuição, o tribunal judicial comunica ao SIMA, nos termos previstos no artigo 7.º e sempre que possível de forma automática:\n\na) As decisões que conheçam dos pedidos formulados;\n\nb) As decisões suscetíveis de pôr termo à ação declarativa;\n\nc) O trânsito em julgado das decisões referidas nas alíneas a) e b);\n\nd) A interposição de recurso das decisões referidas nas alíneas a) e b);\n\ne) Os despachos sobre os requerimentos de interposição de recurso referidos na alínea anterior;\n\nf) As reclamações do despacho que não admita o recurso referido na alínea d);\n\ng) As decisões sobre as reclamações referidas na alínea anterior;\n\nh) A decisão que altere o efeito do recurso, nos termos do artigo 654.º do Código de Processo Civil.\n\n2 - Nos casos em que os autos são apresentados à distribuição para a prática de ato judicial, o tribunal comunica ao SIMA, nos termos do artigo 7.º, sempre que possível de forma automática, o despacho proferido.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858134": {
+   "fragment_id": "175999573",
+   "type": 1,
+   "heading": "Capítulo V — Agente de execução",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "### Capítulo V — Agente de execução\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858135": {
+   "fragment_id": "175999574",
+   "type": 11,
+   "heading": "Artigo 10.º — Designação, substituição, destituição e honorários do agente de execução",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 10.º — Designação, substituição, destituição e honorários do agente de execução\n\nSem prejuízo do disposto no presente capítulo, à designação, substituição, destituição e honorários do agente de execução aplicam-se, com as necessárias adaptações, as regras relativas às ações executivas previstas nos artigos 720.º a 722.º do Código de Processo Civil, no artigo 11.º da Portaria n.º 280/2013, de 26 de agosto, e na Portaria n.º 282/2013, de 29 de agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858136": {
+   "fragment_id": "176057075",
+   "type": 11,
+   "heading": "Artigo 11.º — Designação oficiosa de agente de execução",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 11.º — Designação oficiosa de agente de execução\n\nNos casos em que o agente de execução é oficiosamente designado pelo SIMA, a designação é notificada ao requerente, em simultâneo com a notificação referida no n.º 1 do artigo seguinte, com as seguintes indicações relativas ao designado:\n\na) Nome profissional;\n\nb) Número de cédula profissional;\n\nc) Endereço de correio eletrónico;\n\nd) Número de telefone;\n\ne) Número de fax, caso exista;\n\nf) Morada profissional.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858137": {
+   "fragment_id": "176057076",
+   "type": 11,
+   "heading": "Artigo 12.º — Honorários",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 12.º — Honorários\n\n1 - Aquando da remessa ao requerente do comprovativo de envio do requerimento executivo para o tribunal, o SIMA, caso o requerente não beneficie de apoio judiciário na modalidade de atribuição de agente de execução, remete igualmente a referência para pagamento dos honorários devidos ao agente de execução a que se refere o n.º 5 do artigo 3.º da Portaria n.º 282/2013, de 29 de agosto, aplicando-se ainda o disposto nos seus n.os 6, 7 e 8.\n\n2 - À remuneração do agente de execução pela notificação do requerimento de IMA mediante contacto pessoal aplica-se o previsto na Portaria n.º 282/2013, de 29 de agosto, quanto à notificação por contacto pessoal em processos declarativos.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858138": {
+   "fragment_id": "176057077",
+   "type": 1,
+   "heading": "Capítulo VI — Taxa de justiça",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "### Capítulo VI — Taxa de justiça\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858139": {
+   "fragment_id": "176057078",
+   "type": 11,
+   "heading": "Artigo 13.º — Formas de pagamento da taxa de justiça",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 13.º — Formas de pagamento da taxa de justiça\n\n1 - Quando o requerimento de IMA seja apresentado por mandatário judicial ou por requerente não representado por mandatário judicial que submeta o requerimento de IMA por via eletrónica, é disponibilizada, no momento do preenchimento do respetivo formulário, a referência para pagamento da taxa de justiça devida.\n\n2 - Quando o requerimento de IMA seja apresentado em suporte físico por requerente não representado por mandatário judicial, aplica-se ao pagamento da taxa de justiça devida pela apresentação do requerimento de IMA o n.º 6 do artigo 14.º do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.\n\n3 - Ao pagamento da taxa devida pela notificação do requerimento de IMA mediante contacto pessoal através de oficial de justiça aplica-se o previsto nos n.os 1, 2 e 6 do artigo 9.º do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858140": {
+   "fragment_id": "176057079",
+   "type": 1,
+   "heading": "Capítulo VII — Consulta do procedimento",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "### Capítulo VII — Consulta do procedimento\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858141": {
+   "fragment_id": "176057080",
+   "type": 11,
+   "heading": "Artigo 14.º — Consulta eletrónica do procedimento",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 14.º — Consulta eletrónica do procedimento\n\nÀ consulta do procedimento é aplicável, com as necessárias adaptações, o disposto no capítulo vi da Portaria n.º 280/2013, de 26 de agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858142": {
+   "fragment_id": "176057081",
+   "type": 11,
+   "heading": "Artigo 15.º — Consulta do título executivo por terceiros",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 15.º — Consulta do título executivo por terceiros\n\n1 - A disponibilização pelo requerente da referência única prevista no artigo 8.º a qualquer entidade, pública ou privada, substitui, para todos os efeitos, a entrega do título executivo.\n\n2 - As entidades referidas no número anterior podem consultar o título executivo na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, utilizando para tal a referência única a que se refere o número anterior.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858143": {
+   "fragment_id": "176057082",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "### Capítulo VIII — Disposições finais\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858144": {
+   "fragment_id": "176057083",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma transitória",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 16.º — Norma transitória\n\n1 - Até à produção de efeitos das normas a que se refere o artigo seguinte, aplica-se à tramitação do procedimento de IMA o disposto nos números seguintes.\n\n2 - A apresentação de requerimentos junto do SIMA efetua-se por uma das seguintes formas:\n\na) Entrega no SIMA;\n\nb) Remessa pelo correio, sob registo;\n\nc) Envio através de telecópia.\n\n3 - O SIMA procede à digitalização de todos os elementos do processo e arquiva-os em suporte eletrónico.\n\n4 - Aos atos realizados pelo SIMA é aposta assinatura eletrónica qualificada.\n\n5 - As notificações efetuadas pelo SIMA às partes, estejam ou não representadas por mandatário judicial, são remetidas por via postal, contendo a indicação de terem sido assinadas com recurso a assinatura eletrónica qualificada, aplicando-se o disposto no artigo 249.º do Código de Processo Civil, com as necessárias adaptações.\n\n6 - As demais comunicações entre o SIMA e os tribunais, mandatários judiciais, agentes de execução ou oficiais de justiça realizam-se por via postal, contendo igualmente a indicação de terem sido assinadas com recurso a assinatura eletrónica qualificada.\n\n7 - As comunicações de decisões judiciais ao SIMA efetuam-se por via postal, telecópia ou correio eletrónico.\n\n8 - Nos casos previstos nas alíneas a) e b) do n.º 1 do artigo 15.º-T do NRAU, o título executivo ao qual foi aposta fórmula executória é disponibilizado pelo SIMA, em suporte eletrónico, ao requerente e ao tribunal competente para a execução.\n\n9 - O SIMA notifica o requerente ou o seu mandatário judicial para pagamento da taxa de justiça devida pela apresentação do requerimento de IMA.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858145": {
+   "fragment_id": "176057084",
+   "type": 11,
+   "heading": "Artigo 17.º — Produção de efeitos",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 17.º — Produção de efeitos\n\nAs normas que se referem à tramitação eletrónica, ao selo eletrónico, ao sistema de informação de suporte à atividade dos tribunais, à área reservada da Área de Serviços Digitais dos Tribunais e à referência única para acesso ao título executivo produzem efeitos a 1 de abril de 2022 ou, caso as condições técnicas o permitam, em data anterior a definir por despacho do membro do Governo responsável pela área da justiça, a divulgar com uma antecedência mínima de 10 dias úteis na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858146": {
+   "fragment_id": "176057085",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente portaria entra em vigor a 30 de novembro de 2021.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858147": {
+   "fragment_id": "176057086",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+   ],
+   "markdown": "O Secretário de Estado Adjunto e da Justiça, Mário Belo Morgado, em 16 de novembro de 2021.\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16"
+  },
+  "852858148": {
+   "fragment_id": "176057087",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2024-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16",
+    "Retificado pelo/a Assinatura do/a [Declaração de Retificação n.º 42/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2021-175983735), em vigor a partir de 2021-11-30"
+   ],
+   "markdown": "## Anexo\n\n(ver documento original)\n\n114743948\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 49/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2024-852762917), em vigor a partir de 2024-02-16\n\n> Retificado pelo/a Assinatura do/a [Declaração de Retificação n.º 42/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/42-2021-175983735), em vigor a partir de 2021-11-30"
+  }
+ }
+}

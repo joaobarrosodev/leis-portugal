@@ -1,0 +1,319 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006L0012:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0012-20101212",
+ "dre_path": null,
+ "source_lastmod": "2010-12-12",
+ "versions": [
+  {
+   "date": "2006-04-27",
+   "future": false,
+   "celex": "32006L0012",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "991b9eb232d1b2bf",
+    "82e1e42f5c9f440e",
+    "29fc213c202aff8e",
+    "d76ba8c9a800a4e9",
+    "f6dd6969aaa77b6f",
+    "1b79cc9b40e4d458",
+    "1b04700134d23d20",
+    "1199326f33ed8c38",
+    "9937127739f00ea5",
+    "e4bc4c317976e041",
+    "8b2e33dd974ccee3",
+    "1fa081af6fcda894",
+    "c66188cd80b5fa92",
+    "d0cb773c353566fb",
+    "ca3a4b55767623dd",
+    "7b11e767c116d46f",
+    "c2b80be8ee8d629f",
+    "7fb1d97291d5b280",
+    "b42b74e766aa019b",
+    "73d6e33ba5549bd8",
+    "ccf48e85a183f495",
+    "0cfefe306a3b22db",
+    "37b70f36426b4888",
+    "0a2863c8d01e4a77"
+   ]
+  },
+  {
+   "date": "2008-12-12",
+   "future": false,
+   "celex": "02006L0012-20081212",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "4592ef5768c1f2f4"
+   ]
+  },
+  {
+   "date": "2009-06-25",
+   "future": false,
+   "celex": "02006L0012-20090625",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "d90af04aeb64abcd"
+   ]
+  },
+  {
+   "date": "2010-12-12",
+   "future": false,
+   "celex": "02006L0012-20101212",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "30924bcd0faec3ef"
+   ]
+  }
+ ],
+ "fragments": {
+  "991b9eb232d1b2bf": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Abril de 2006\n\nrelativa aos resíduos\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 175.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntr1-L_2006114PT.01000901-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntr2-L_2006114PT.01000901-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos [([^3])](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntr3-L_2006114PT.01000901-E0003) foi por várias vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntr4-L_2006114PT.01000901-E0004), sendo conveniente, por uma questão de lógica e clareza, proceder à sua codificação.\n\n(2) Qualquer regulamentação em matéria de gestão dos resíduos deverá ter como objectivo essencial a protecção da saúde humana e do ambiente contra os efeitos nocivos da recolha, transporte, tratamento, armazenamento e depósito dos resíduos.\n\n(3) Para tornar mais eficaz a gestão dos resíduos no âmbito da Comunidade, é necessário dispor de uma terminologia comum e de uma definição de resíduos.\n\n(4) Sem prejuízo de excepções determinadas, deverá ser aplicada uma regulamentação eficaz e coerente da eliminação e da valorização dos resíduos aos bens móveis de que o detentor se desfaz ou tem a intenção ou a obrigação de se desfazer.\n\n(5) Deverá incentivar‐se a valorização dos resíduos e a utilização dos materiais valorizados como matérias-primas, a fim de preservar os recursos naturais. Pode ser necessário adoptar normas específicas para os resíduos reutilizáveis.\n\n(6) Para alcançar um nível elevado de defesa do ambiente, é necessário que os Estados‐Membros, além de zelarem pela eliminação e valorização dos resíduos, tomem sobretudo medidas com vista a limitar a produção de resíduos, promovendo, nomeadamente, as tecnologias limpas e os produtos recicláveis, tendo em conta as oportunidades de mercado que existem ou podem existir para os resíduos valorizados.\n\n(7) Além disso, uma disparidade entre as legislações dos Estados‐Membros no que respeita à eliminação e valorização de resíduos pode afectar a qualidade do ambiente e o bom funcionamento do mercado interno.\n\n(8) É fundamental que a Comunidade no seu conjunto se torne auto‐suficiente no que se refere à eliminação de resíduos e é conveniente que cada Estado‐Membro se esforce por atingir essa auto‐suficiência.\n\n(9) A fim de concretizar estes objectivos, deverão ser elaborados nos Estados‐Membros planos de gestão dos resíduos.\n\n(10) Convém reduzir o trânsito de resíduos e, para este efeito, os Estados‐Membros podem tomar as medidas necessárias, no âmbito dos seus planos de gestão.\n\n(11) A fim de assegurar um elevado nível de protecção e um controlo eficaz, é necessário prever a autorização e a fiscalização das empresas que se dedicam à eliminação e à valorização de resíduos.\n\n(12) Em determinadas condições, e desde que preencham os requisitos de protecção do ambiente, alguns estabelecimentos que tratam os seus próprios resíduos ou efectuam a valorização de resíduos podem ser dispensados da autorização requerida. Esses estabelecimentos deverão ser objecto de registo.\n\n(13) A fim de assegurar o acompanhamento dos resíduos desde a sua produção até à sua eliminação definitiva, convém igualmente submeter a autorização, a registo e às inspecções adequadas outras empresas que desenvolvam actividades relacionadas com os resíduos, tais como a sua recolha, transporte ou corretagem.\n\n(14) A parte dos custos não coberta pela valorização dos resíduos deverá ser suportada de acordo com o princípio do «poluidor‐pagador».\n\n(15) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^5])](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntr5-L_2006114PT.01000901-E0005).\n\n(16) A presente directiva não deverá prejudicar as obrigações dos Estados‐Membros relativas aos prazos de transposição para o direito interno das directivas indicadas na parte B do anexo III,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "82e1e42f5c9f440e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para efeitos da presente directiva, entende‐se por:\n\na) «Resíduo»: quaisquer substâncias ou objectos abrangidos pelas categorias fixadas no anexo I de que o detentor se desfaz ou tem a intenção ou a obrigação de se desfazer;\n\nb) «Produtor»: qualquer pessoa cuja actividade produza resíduos (produtor inicial) e/ou qualquer pessoa que efectue operações de pré‐tratamento, de mistura ou outras, que conduzam a uma alteração da natureza ou da composição desses resíduos;\n\nc) «Detentor»: o produtor dos resíduos ou a pessoa singular ou colectiva que tem os resíduos na sua posse;\n\nd) «Gestão»: a recolha, o transporte, a valorização e eliminação dos resíduos, incluindo a fiscalização destas operações e a vigilância dos locais de descarga depois de fechados;\n\ne) «Eliminação»: qualquer das operações previstas no anexo II A;\n\nf) «Valorização»: qualquer das operações previstas no anexo II B;\n\ng) «Recolha»: a operação de apanha, triagem e/ou mistura de resíduos com vista ao seu transporte.\n\n2. Para efeitos do disposto na alínea a) do n.º 1, a Comissão, nos termos do n.º 3 do artigo 18.º, elaborará uma lista dos resíduos pertencentes às categorias constantes do anexo I. Essa lista será reanalisada periodicamente e, se necessário, revista de acordo com o mesmo procedimento."
+  },
+  "29fc213c202aff8e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. São excluídos do âmbito de aplicação da presente directiva:\n\na) Os efluentes gasosos lançados na atmosfera;\n\nb) Sempre que já abrangidos por outra legislação: i) Os resíduos radioactivos; ii) Os resíduos resultantes da prospecção, da extracção, do tratamento e do armazenamento de recursos minerais e da exploração de pedreiras; iii) Os cadáveres de animais e os seguintes resíduos agrícolas: matérias fecais e outras substâncias naturais não perigosas utilizadas nas explorações agrícolas; iv) As águas residuais, com excepção dos resíduos em estado líquido; v) Os explosivos abatidos à carga.\n\ni) Os resíduos radioactivos;\n\nii) Os resíduos resultantes da prospecção, da extracção, do tratamento e do armazenamento de recursos minerais e da exploração de pedreiras;\n\niii) Os cadáveres de animais e os seguintes resíduos agrícolas: matérias fecais e outras substâncias naturais não perigosas utilizadas nas explorações agrícolas;\n\niv) As águas residuais, com excepção dos resíduos em estado líquido;\n\nv) Os explosivos abatidos à carga.\n\n2. Poderão ser fixadas em directivas específicas disposições específicas ou complementares das da presente directiva para regulamentar a gestão de determinadas categorias de resíduos."
+  },
+  "d76ba8c9a800a4e9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados‐Membros tomarão medidas adequadas para promover:\n\na) Em primeiro lugar, a prevenção ou a redução da produção e da nocividade dos resíduos através, nomeadamente: i) Do desenvolvimento de tecnologias limpas e mais económicas em termos de recursos naturais; ii) Do desenvolvimento técnico e da colocação no mercado de produtos concebidos de modo a não contribuírem ou a contribuírem o menos possível, em virtude do seu fabrico, utilização ou eliminação, para aumentar a quantidade ou a nocividade dos resíduos e dos riscos de poluição; iii) Do desenvolvimento de técnicas adequadas de eliminação de substâncias perigosas contidas em resíduos destinados a valorização;\n\ni) Do desenvolvimento de tecnologias limpas e mais económicas em termos de recursos naturais;\n\nii) Do desenvolvimento técnico e da colocação no mercado de produtos concebidos de modo a não contribuírem ou a contribuírem o menos possível, em virtude do seu fabrico, utilização ou eliminação, para aumentar a quantidade ou a nocividade dos resíduos e dos riscos de poluição;\n\niii) Do desenvolvimento de técnicas adequadas de eliminação de substâncias perigosas contidas em resíduos destinados a valorização;\n\nb) Em segundo lugar: i) A valorização dos resíduos por reciclagem, reutilização, recuperação ou qualquer outra acção tendente à obtenção de matérias‐primas secundárias; ou ii) A utilização de resíduos como fonte de energia.\n\ni) A valorização dos resíduos por reciclagem, reutilização, recuperação ou qualquer outra acção tendente à obtenção de matérias‐primas secundárias; ou\n\nii) A utilização de resíduos como fonte de energia.\n\n2. Excepto nos casos a que se aplica o disposto na Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas [([^6])](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntr6-L_2006114PT.01000901-E0006), os Estados‐Membros informarão a Comissão das medidas que tencionam tomar para alcançar os objectivos do n.º 1. A Comissão comunicará essas medidas aos outros Estados‐Membros e ao comité referido no n.º 1 do artigo 18.º"
+  },
+  "f6dd6969aaa77b6f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados‐Membros tomarão as medidas necessárias para garantir que os resíduos sejam valorizados ou eliminados sem pôr em perigo a saúde humana e sem utilizar processos ou métodos susceptíveis de agredir o ambiente e, nomeadamente:\n\na) Sem criar riscos para a água, o ar, o solo, a fauna ou a flora;\n\nb) Sem causar perturbações sonoras ou por cheiros;\n\nc) Sem danificar os locais de interesse e a paisagem.\n\n2. Os Estados‐Membros tomarão as medidas necessárias para proibir o abandono, a descarga e a eliminação não controlada de resíduos."
+  },
+  "1b79cc9b40e4d458": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Em cooperação com outros Estados‐Membros, e sempre que tal se afigurar necessário ou conveniente, os Estados‐Membros tomarão as medidas adequadas para a constituição de uma rede integrada e adequada de instalações de eliminação tendo em conta as melhores tecnologias disponíveis que não acarretem custos excessivos. Esta rede deverá permitir que a Comunidade no seu conjunto se torne auto‐suficiente em matéria de eliminação de resíduos e que os Estados‐Membros tendam para esse objectivo cada um por si, tendo em conta as circunstâncias geográficas ou a necessidade de instalações especializadas para certos tipos de resíduos.\n\n2. A rede referida no n.º 1 deve permitir a eliminação de resíduos numa das instalações adequadas mais próximas, através da utilização dos métodos e das tecnologias mais adequadas para assegurar um nível elevado de protecção do ambiente e da saúde pública."
+  },
+  "1b04700134d23d20": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados‐Membros estabelecerão ou designarão a ou as autoridades competente(s) encarregada(s) da aplicação das disposições da presente directiva."
+  },
+  "1199326f33ed8c38": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Para realizar os objectivos referidos nos artigos 3.º, 4.º e 5.º, as autoridades competentes mencionadas no artigo 6.º devem estabelecer, logo que possível, um ou mais planos de gestão de resíduos. Esses planos incidirão, nomeadamente, sobre:\n\na) O tipo, a quantidade e a origem dos resíduos a valorizar ou a eliminar;\n\nb) Normas técnicas gerais;\n\nc) Disposições especiais relativas a resíduos específicos;\n\nd) Locais ou instalações apropriados para a eliminação.\n\n2. Os planos referidos no n.º 1 podem abranger, por exemplo:\n\na) As pessoas singulares ou colectivas habilitadas a proceder à gestão dos resíduos;\n\nb) As estimativas dos custos das operações de valorização e eliminação;\n\nc) As medidas susceptíveis de incentivar a racionalização da recolha, da triagem e do tratamento dos resíduos.\n\n3. Se necessário, os Estados‐Membros colaborarão com os outros Estados‐Membros interessados e com a Comissão na elaboração desses planos e comunicá‐los‐ão à Comissão.\n\n4. Os Estados‐Membros poderão tomar as medidas necessárias para impedir a circulação de resíduos não conformes com os seus planos de gestão dos mesmos. Comunicarão essas medidas à Comissão e aos Estados‐Membros."
+  },
+  "9937127739f00ea5": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados‐Membros tomarão as disposições necessárias para que qualquer detentor de resíduos:\n\na) Confie a sua manipulação a um serviço de recolha privado ou público ou a uma empresa que efectue as operações referidas no anexo II A ou II B, ou\n\nb) Proceda ele próprio à respectiva valorização ou eliminação, em conformidade com o disposto na presente directiva."
+  },
+  "e4bc4c317976e041": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Para efeitos de aplicação dos artigos 4.º, 5.º e 7.º, qualquer estabelecimento ou empresa que efectue as operações referidas no anexo II A deve obter uma autorização da autoridade competente referida no artigo 6.º\n\nEsta autorização referir‐se‐á, nomeadamente:\n\na) Aos tipos e às quantidades de resíduos;\n\nb) Às normas técnicas;\n\nc) Às precauções a tomar em matéria de segurança;\n\nd) Ao local de eliminação;\n\ne) Ao método de tratamento.\n\n2. As autorizações podem ser concedidas por um período determinado, ser renovadas, vir acompanhadas de condições e obrigações ou, nomeadamente nos casos em que o método de eliminação previsto não seja aceitável do ponto de vista da protecção do ambiente, ser recusadas."
+  },
+  "8b2e33dd974ccee3": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nPara efeitos de aplicação do artigo 4.º, qualquer estabelecimento ou empresa que efectue as operações referidas no anexo II B deverá obter uma autorização para o efeito."
+  },
+  "1fa081af6fcda894": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Sem prejuízo do disposto na Directiva 91/689/CE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos [([^7])](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntr7-L_2006114PT.01000901-E0007), podem ser dispensados das autorizações referidas no artigo 9.º ou no artigo 10.º:\n\na) Os estabelecimentos ou empresas que procedam eles próprios à eliminação dos seus próprios resíduos no local de produção, e\n\nb) Os estabelecimentos ou empresas que procedam à valorização de resíduos.\n\n2. A dispensa referida no n.º 1 só será aplicável:\n\na) Se as autoridades competentes tiverem adoptado regras gerais para cada tipo de actividade, fixando os tipos e as quantidades de resíduos e as condições em que a actividade pode ser dispensada da autorização, e\n\nb) Se os tipos ou as quantidades de resíduos e os modos de eliminação ou valorização respeitarem as condições do artigo 4.º\n\n3. Os estabelecimentos ou empresas referidos no n.º 1 deverão ser registados junto das autoridades competentes.\n\n4. Os Estados‐Membros informarão a Comissão das regras gerais adoptadas por força do n.º 2, alínea a)."
+  },
+  "c66188cd80b5fa92": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs estabelecimentos ou empresas que procedam a título profissional à recolha ou ao transporte de resíduos, ou que se ocupem da eliminação ou valorização de resíduos por conta de outrem (comerciantes ou corretores) e que não estejam sujeitos a autorização, deverão estar registados junto das autoridades competentes."
+  },
+  "d0cb773c353566fb": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs estabelecimentos ou as empresas que assegurem as operações referidas nos artigos 9.º a 12.º serão submetidos a controlos periódicos apropriados pelas autoridades competentes."
+  },
+  "ca3a4b55767623dd": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Todos os estabelecimentos ou empresas a que se referem os artigos 9.º e 10.º devem:\n\na) Manter um registo que indique a quantidade, a natureza, a origem e, se for relevante, o destino, a frequência da recolha, o meio de transporte e o método de tratamento dos resíduos no que respeita aos resíduos referidos no anexo I e às operações referidas nos anexos II A ou II B;\n\nb) Fornecer essas indicações às autoridades competentes referidas no artigo 6.º, sempre que estas o solicitarem.\n\n2. Os Estados‐Membros poderão também exigir que os produtores cumpram o disposto no n.º 1."
+  },
+  "7b11e767c116d46f": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nEm conformidade com o princípio do «poluidor‐pagador», os custos da eliminação dos resíduos devem ser suportados:\n\na) Pelo detentor que entrega os resíduos a um serviço de recolha ou a uma das empresas mencionadas no artigo 9.º e/ou\n\nb) Pelos detentores anteriores ou pelo produtor do produto gerador dos resíduos."
+  },
+  "c2b80be8ee8d629f": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nDe três em três anos, os Estados‐Membros transmitirão à Comissão informações sobre a aplicação da presente directiva, no âmbito de um relatório sectorial que abranja igualmente as outras directivas comunitárias relevantes. Esse relatório será elaborado com base num questionário ou num esquema elaborado pela Comissão nos termos do n.º 2 do artigo 18.º Esse questionário ou esquema deve ser enviado aos Estados‐Membros seis meses antes do início do período abrangido pelo relatório. O relatório deve ser enviado à Comissão num prazo de nove meses a contar do final do período de três anos a que se refere.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva no prazo de nove meses a contar da recepção dos relatórios dos Estados‐Membros."
+  },
+  "7fb1d97291d5b280": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nAs alterações necessárias para adaptar os anexos da presente directiva ao progresso científico e técnico serão adoptadas nos termos do n.º 3 do artigo 18.º"
+  },
+  "b42b74e766aa019b": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. A Comissão será assistida por um Comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n4. O Comité aprovará o seu regulamento interno."
+  },
+  "73d6e33ba5549bd8": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs Estados‐Membros comunicam à Comissão o texto das principais disposições de direito interno que aprovarem no domínio regulado pela presente directiva."
+  },
+  "ccf48e85a183f495": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nA Directiva 75/442/CEE é revogada, sem prejuízo das obrigações dos Estados‐Membros no que respeita aos prazos de transposição para o direito interno indicados na parte B do anexo III.\n\nAs remissões para a directiva revogada devem entender‐se como sendo feitas para a presente directiva e ler‐se nos termos do quadro de correspondência constante do anexo IV."
+  },
+  "0cfefe306a3b22db": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia.*"
+  },
+  "37b70f36426b4888": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs Estados‐Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 5 de Abril de 2006.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**H. WINKLER**\n\n---"
+  },
+  "0a2863c8d01e4a77": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntc1-L_2006114PT.01000901-E0001) [JO C 112 de 30.4.2004, p. 46](http://publications.europa.eu/resource/oj/JOC_2004_112_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntc2-L_2006114PT.01000901-E0002) Parecer do Parlamento Europeu de 9 de Março de 2004 ([JO C 102 E de 28.4.2004, p. 106](http://publications.europa.eu/resource/oj/JOC_2004_102_E_TOC)) e Decisão do Conselho de 30 de Janeiro de 2006.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntc3-L_2006114PT.01000901-E0003) [JO L 194 de 25.7.1975, p. 39](http://publications.europa.eu/resource/oj/JOL_1975_194_R_TOC). Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntc4-L_2006114PT.01000901-E0004) Ver parte A do anexo III.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntc5-L_2006114PT.01000901-E0005) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntc6-L_2006114PT.01000901-E0006) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 2003.\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/0f484039-4061-4922-9739-76d173d0d919.0017.03/DOC_1#ntc7-L_2006114PT.01000901-E0007) [JO L 377 de 31.12.1991, p. 20](http://publications.europa.eu/resource/oj/JOL_1991_377_R_TOC). Directiva alterada pela Directiva 94/31/CE ([JO L 168 de 2.7.1994, p. 28](http://publications.europa.eu/resource/oj/JOL_1994_168_R_TOC))."
+  },
+  "4592ef5768c1f2f4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006L0012 — PT — 12.12.2008 — 001.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/306L0012) [DIRECTIVA 2006/12/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/306L0012) [de 5 de Abril de 2006](http://publications.europa.eu/resource/celex/306L0012) [relativa aos resíduos](http://publications.europa.eu/resource/celex/306L0012) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/306L0012) (JO L 114, 27.4.2006, p.9)\n\n**revogado por:**"
+  },
+  "d90af04aeb64abcd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006L0012 — PT — 25.06.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/306L0012) [DIRECTIVA 2006/12/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/306L0012) [de 5 de Abril de 2006](http://publications.europa.eu/resource/celex/306L0012) [relativa aos resíduos](http://publications.europa.eu/resource/celex/306L0012) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/306L0012) (JO L 114, 27.4.2006, p.9)\n\n**revogado por:**"
+  },
+  "30924bcd0faec3ef": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006L0012 — PT — 12.12.2010 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32006L0012) [DIRECTIVA 2006/12/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32006L0012) [de 5 de Abril de 2006](http://publications.europa.eu/resource/celex/32006L0012) [relativa aos resíduos](http://publications.europa.eu/resource/celex/32006L0012) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32006L0012) (JO L 114, 27.4.2006, p.9)\n\n**revogado por:**\n\n- [Directiva 2008/98/CE do Parlamento Europeu e do Conselho de 19 de Novembro de 2008](http://publications.europa.eu/resource/celex/32008L0098) — L 312 — 3 — 22.11.2008"
+  }
+ }
+}

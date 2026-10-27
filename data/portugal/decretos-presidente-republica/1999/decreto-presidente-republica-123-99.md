@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:138369:por
+title: Decreto do Presidente da República n.º 123/99
+short_title: null
+summary: Ratifica o Acordo entre o Governo Português e a Comunidade dos Países de Língua Portuguesa Referente ao Estabelecimento
+  da Sede da Comunidade em Portugal
+jurisdiction: portugal
+territory: null
+document_type: decreto-presidente-republica
+document_type_label: Decreto do Presidente da República
+issuing_authority:
+- Presidência da República
+proposing_entity: null
+official_number: 123/99
+official_date: null
+publication_date: '1999-03-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 72/1999, Série I-A de 1999-03-26
+  number: '72'
+  series: I
+  supplement: null
+  pages: 1693 - 1693
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/03/072a00/16931693.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decpresrep/123/1999/03/26/p/dre/pt/html
+  oj: null
+  dre: '138369'
+  dre_path: /dr/detalhe/decreto-presidente-republica/123-1999-138369
+  internal: pt:dre:138369:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/123-1999-138369
+  metadata_url: https://data.dre.pt/eli/decpresrep/123/1999/03/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/123-1999-138369
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:29:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3cd202553dc51fed1d192d1f7209b825d52ef9d9b34faeb472abc9fa307e7bc2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- CPLP
+- Língua Portuguesa
+- Lisboa
+- Portugal
+- Sede
+relationships:
+- type: cites
+  target: pt:dre:138364:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/23/1999/03/26/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:29:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Presidente da República n.º 123/99
+
+de 26 de Março
+
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
+
+É ratificado o Acordo entre o Governo Português e a Comunidade dos Países de Língua Portuguesa Referente ao Estabelecimento da Sede da Comunidade em Portugal, assinado em Lisboa em 3 de Julho de 1998, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 23/99](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-1999-138364), em 29 de Janeiro de 1999.
+
+Assinado em 15 de Março de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 17 de Março de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

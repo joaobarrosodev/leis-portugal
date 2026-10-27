@@ -1,0 +1,1027 @@
+---
+schema_version: '1.0'
+id: pt:dre:571897:por
+title: Portaria n.º 65/2014
+short_title: null
+summary: Aprova o Regulamento do seguro de colheitas e da compensação de sinistralidade, integrados no Sistema Integrado de
+  Proteção contra as Aleatoriedades Climáticas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura e do Mar
+proposing_entity: null
+official_number: 65/2014
+official_date: null
+publication_date: '2014-03-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2014, Série I de 2014-03-12
+  number: '50'
+  series: I
+  supplement: null
+  pages: 1832 - 1840
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05000/0183201840.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-12-07'
+version_history:
+  file: portaria-65-2014.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2014-03-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-04-11'
+    amending: pt:dre:106858892:por
+    amending_title: Portaria n.º 132/2017
+    changes:
+    - Adita Subsecção III
+    - Adita Artigo 29.º-A
+    - Adita Artigo 29.º-B
+    - Adita Artigo 29.º-C
+    - Adita Artigo 29.º-D
+    - Adita Subsecção IV
+    - Adita Artigo 29.º-E
+    - Adita Artigo 29.º-F
+    - Adita Artigo 29.º-G
+    - Adita Artigo 29.º-H
+    - Adita Subsecção V
+    - Adita Artigo 29.º-I
+    - Adita Artigo 29.º-J
+    - Adita Artigo 29.º-K
+    - Adita Artigo 29.º-L
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Artigo 25.º
+    - Altera Artigo 28.º
+    - Altera Artigo 31.º
+  - date: '2018-04-24'
+    amending: pt:dre:115160090:por
+    amending_title: Portaria n.º 109/2018
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+  - date: '2020-03-06'
+    amending: pt:dre:129892690:por
+    amending_title: Portaria n.º 61/2020
+    changes:
+    - Adita Artigo 34.º
+    - Altera Artigo 2.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+  - date: '2021-03-17'
+    amending: pt:dre:159539838:por
+    amending_title: Portaria n.º 59/2021
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 30.º
+    - Altera Artigo 34.º
+  - date: '2023-01-13'
+    amending: pt:dre:206056780:por
+    amending_title: Portaria n.º 28/2023
+    changes:
+    - Altera Artigo 34.º
+  - date: '2024-12-07'
+    amending: pt:dre:899204485:por
+    amending_title: Portaria n.º 318/2024/1
+    changes:
+    - Altera Artigo 31.º
+    - Altera Artigo 34.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/65/2014/p/cons/20241206/pt/html
+  oj: null
+  dre: '571897'
+  dre_path: /dr/detalhe/portaria/65-2014-571897
+  internal: pt:dre:571897:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/65-2014-571897
+  metadata_url: https://data.dre.pt/eli/port/65/2014/p/cons/20241206/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-115164575
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-115164575
+  retrieved_at: '2026-10-22T12:18:30Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 14603c8a959a1559f40fb48ee9bc41651c865f2b542355918dfec2e34d3833a2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:18:30Z'
+  notes: 7 versão(ões); histórico completo em portaria-65-2014.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Sipac
+- Financiamento
+- Catástrofe
+- Indemnização
+- Política Agrícola
+- Produção Agrícola
+- Regulamento
+- Agricultura
+- Ifadap
+- Companhia de Seguros
+- Seguro Agrícola
+- Seguro contra Danos
+relationships:
+- type: amended_by
+  target: pt:dre:106858892:por
+  label: Adita Subsecção III; Adita Artigo 29.º-A; Adita Artigo 29.º-B; Adita Artigo 29.º-C; Adita Artigo 29.º-D; Adita Subsecção
+    IV; Adita Artigo 29.º-E; Adita Artigo 29.º-F; Adita Artigo 29.º-G; Adita Artigo 29.º-H; Adita Subsecção V; Adita Artigo
+    29.º-I; Adita Artigo 29.º-J; Adita Artigo 29.º-K; Adita Artigo 29.º-L; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo
+    3.º; Altera Artigo 4.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892
+  date: '2017-04-10'
+- type: amended_by
+  target: pt:dre:115160090:por
+  label: Altera Artigo 17.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/109-2018-115160090
+  date: '2018-04-23'
+- type: amended_by
+  target: pt:dre:129892690:por
+  label: Adita Artigo 34.º; Altera Artigo 2.º; Altera Artigo 10.º; Altera Artigo 13.º; Altera Artigo 30.º; Altera Artigo 31.º;
+    Altera Artigo 33.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/61-2020-129892690
+  date: '2020-03-05'
+- type: amended_by
+  target: pt:dre:159539838:por
+  label: Altera Artigo 2.º; Altera Artigo 10.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo
+    17.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 30.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838
+  date: '2021-03-16'
+- type: amended_by
+  target: pt:dre:206056780:por
+  label: Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/28-2023-206056780
+  date: '2023-01-12'
+- type: amended_by
+  target: pt:dre:899204485:por
+  label: Altera Artigo 31.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/318-2024-899204485
+  date: '2024-12-06'
+- type: cites
+  target: celex:32013R1305
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1305/oj
+- type: cites
+  target: celex:32013R1308
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1308/oj
+article_structure:
+  article_count: 50
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:18:30Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 65/2014
+
+Portaria n.º 65/2014
+
+de 12 de março
+
+A reforma do Sistema Integrado de Proteção contra as Aleatoriedades Climáticas (SIPAC), aprovado pelo Decreto-Lei n.º 20/96, de 19 de março, na redação dada pelo Decreto-Lei n.º 23/2000, de 2 de março, visa reforçar o seguro de colheitas, enquanto instrumento de interesse e de auxílio efetivo para o rendimento dos agricultores, bem como integrar os apoios concedidos pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), pela introdução de novas regras no modelo do seguro de colheitas, compatíveis com os requisitos previstos no Regulamento (UE) n.º <a href="eurlex.asp?ano=2013&id=313R1305" title="Link para Regulamento da Comunidade Europeia">1305/2013</a> do Parlamento Europeu e do Conselho de 17 de dezembro de 2013, para a concessão do apoio ao prémio de seguro.
+
+Neste novo modelo, procura-se que o seguro de colheitas chegue a todas as produções existentes no território continental, assegurando-se, simultaneamente, a sua sustentabilidade financeira. Efetivamente, a vocação universal do seguro de colheitas e o seu ajustamento às reais necessidades dos agricultores obtêm-se pela disponibilização de dois tipos de produtos: um seguro horizontal que abrange todas as culturas no território continental, e seguros especiais dirigidos especificamente a determinadas produções e regiões que sejam mais vulneráveis a fenómenos climáticos adversos, sendo ainda facultadas coberturas alternativas, podendo os produtores optar entre a contratação isolada de riscos ou a adesão a um conjunto de riscos, ajustados às suas reais necessidades.
+
+As regras e os níveis de atribuição do apoio ao seguro de colheitas foram ajustados, de modo a incentivar não só a contratação coletiva e a celebração de contratos de seguros pelos jovens agricultores em 1.ª instalação, mas também a permanência no sistema de seguros de colheitas.
+
+Por outro lado, e por imposição do Regulamento (UE) n.º <a href="eurlex.asp?ano=2013&id=313R1305" title="Link para Regulamento da Comunidade Europeia">1305/2013</a> do Parlamento Europeu e do Conselho de 17 de dezembro de 2013, o pagamento das indemnizações pelas seguradoras passou a restringir-se às situações em que as quebras de produção do agricultor excedem 30 % dos valores de produção históricos.
+
+Quanto à compensação por excesso de sinistralidade, que constitui outra componente do SIPAC, foram agora introduzidas novas condições relativas a este mecanismo, com vista à sua melhor operacionalização e eficiência.
+
+Por último, cessam também todas as contribuições e mobilizações para o Fundo de Calamidades, até à revisão do Decreto-Lei n.º 20/96, de 19 de março, na redação dada pelo Decreto-Lei n.º 23/2000, de 2 de março, no âmbito da reforma do SIPAC.
+
+Assim:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura e do Mar, ao abrigo do artigo 18.º do Decreto-Lei n.º 20/96, de 19 de março, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 23/2000, de 2 de março, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É aprovado, em anexo à presente portaria, da qual faz parte integrante, o Regulamento do seguro de colheitas e da compensação de sinistralidade, integrados no Sistema Integrado de Proteção contra as Aleatoriedades Climáticas (SIPAC), aprovado pelo Decreto-Lei n.º 20/96, de 19 de março, na redação dada pelo Decreto-Lei n.º 23/2000, de 2 de março, adiante abreviadamente designado por Regulamento.
+
+###### Artigo 2.º — Disposição transitória
+
+Em 2014, o prazo referido no n.º 2 do artigo 32.º para a adesão ao mecanismo de Compensação de Sinistralidade é fixado pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) e divulgado no portal do Instituto.
+
+###### Artigo 3.º — Norma revogatória
+
+É revogada a Portaria n.º 318/2011, de 30 de dezembro, alterada pela Portaria n.º 61/2012, de 20 de fevereiro, e pela Portaria n.º 45/2013, de 6 de fevereiro.
+
+###### Artigo 4.º — Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se aos contratos de seguros celebrados a partir de 1 de janeiro de 2014.
+
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 28 de fevereiro de 2014. - Pela Ministra da Agricultura e do Mar, José Diogo Santiago de Albuquerque, Secretário de Estado da Agricultura, em 26 de fevereiro de 2014.
+
+## Anexo — REGULAMENTO DO SEGURO DE COLHEITAS E DA COMPENSAÇÃO DE SINISTRALIDADE
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente Regulamento estabelece o regime do seguro de colheitas e da compensação de sinistralidade, previstos no Sistema Integrado de Proteção contra as Aleatoriedades Climáticas (SIPAC), aprovado pelo Decreto-Lei n.º 20/96, de 19 de março, alterado pelo Decreto-Lei n.º 23/2000, de 2 de março, e no sistema de seguros agrícolas (SAA), aprovado pelo Decreto-Lei n.º 162/2015, de 14 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 2.º — Definições
+
+Para efeitos do disposto no presente Regulamento, entende-se por:
+
+a) «Ação de queda de raio»: Descarga atmosférica ocorrida entre nuvem e solo, consistindo em um ou mais impulsos de corrente, que conferem ao fenómeno uma luminosidade característica, raio, e que provocam danos permanentes nos bens seguros;
+
+b) 'Agricultor': O beneficiário registado no Sistema de Informação do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) com subparcelas, parcelas e respetivas unidades de produção atualizadas no Sistema de Identificação Parcelar (SIP), durante o período de vigência do contrato de seguro;
+
+c) «Apoio»: Bonificação do prémio de seguro paga pelo IFAP, I. P. no âmbito do presente Regulamento;
+
+d) «Chuva persistente»: Efeitos mediata ou imediatamente resultantes de pluviosidade que, pela sua continuidade e quantidade, produza encharcamento do solo, causando danos na produção segura e, de uma forma generalizada, em todo o município de localização da cultura, com as seguintes consequências:
+
+i) Asfixia radicular, arrastamento, desenraizamento, enterramento e enlodamento da produção segura;
+
+ii) Impossibilidade física de efetuar a colheita, devendo existir sinais evidentes de alagamento que impeça a realização da mesma até à data-limite da cobertura;
+
+iii) Impossibilidade de prosseguir as operações culturais devido a prejuízos na própria parcela ou subparcela de cultura;
+
+iv) Pragas e doenças devido à impossibilidade de realização de tratamentos sempre que estes sejam consequência do sinistro;
+
+e) «Contrato de seguro coletivo»: O contrato de seguro celebrado por uma pessoa coletiva, que agindo no interesse direto de um grupo mínimo de cinco agricultores, os representa;
+
+f) «Contrato de seguro individual»: O contrato subscrito diretamente por qualquer entidade que tenha interesse legítimo sobre a produção segura;
+
+g) 'Empresa de seguros': Entidade legalmente autorizada para explorar o seguro agrícola e pecuário, nos termos das alíneas h) e i)do artigo 8.º do regime jurídico de acesso e exercício da atividade seguradora e resseguradora, aprovado pela Lei n.º 147/2015, de 9 de setembro, e que subscreve, com o tomador de seguro, o contrato;
+
+h) «Fenómenos climáticos adversos»: condições climáticas que podem ser equiparadas a catástrofes naturais, tais como a geada, o granizo, a queda de neve, o tornado e a tromba-d'água;
+
+i) «Geada»: Formação de cristais de gelo nos tecidos celulares em consequência da sublimação do vapor de água ou arrefecimento abaixo de 0ºC da superfície das plantas, quando o ar adjacente, não tendo humidade suficiente para a formação de cristais de gelo, provoca a necrose dos tecidos vegetais por dissecação;
+
+j) «Granizo»: Precipitação de água em estado sólido sob a forma esferoide;
+
+k) «Incêndio»: Combustão acidental, com desenvolvimento de chamas, com origem em fenómeno climático, e que se pode propagar pelos próprios meios, provocando danos nos bens seguros;
+
+l) «Parcela»: Porção contínua de terreno homogéneo com a mesma ocupação de solo existente numa mesma parcela de referência na aceção do SIP, sendo os seus limites interiores ou coincidentes com a parcela de referência;
+
+m) «Período de carência»: Período que medeia entre o início do seguro e a data a partir da qual as suas coberturas e garantias podem ser acionadas;
+
+n) «Queda de neve»: Queda de finos cristais de gelo, por vezes aglomerados em flocos;
+
+o) «Resseguro»: Mecanismo através do qual as empresas de seguros partilham parte do risco da sua carteira com resseguradores privados, ou com o Estado, através do mecanismo de compensação de sinistralidade;
+
+p) «Segurado»: Pessoa ou entidade que é titular dos bens que constituem o objeto do seguro, ou que tem interesse em segurá-los, e que se encontra identificada nas condições particulares da apólice uniforme do seguro;
+
+q) 'Seguro de colheitas': mecanismo que visa assegurar uma indemnização ao agricultor cujos rendimentos sejam afetados por fenómenos climáticos adversos, que destruam mais de 20 % da produção anual média do agricultor nos três anos anteriores ou da sua produção média em três dos cinco anos anteriores, excluindo o valor mais alto e o valor mais baixo;
+
+r) «Seguro de colheitas horizontal»: Vertente do seguro de colheitas que visa abranger todas as culturas constantes do artigo 17.º em todo o território do continente;
+
+s) 'Seguros de colheitas especiais': vertente do seguro de colheitas direcionado para culturas, regiões ou riscos específicos;
+
+t) «Tomador de seguro»: Pessoa coletiva que, nos termos da alínea e), celebra, o contrato de seguro coletivo ou o produtor que, nos termos da alínea f), celebra o contrato de seguro individual com a empresa de seguros, sendo responsável pelo pagamento dos prémios;
+
+u) «Tornado»: Tempestade giratória muito violenta, sob a forma de coluna nebulosa projetada até ao solo, e ainda vento que no momento do sinistro tenha atingido velocidade instantânea superior a 80 km por hora ou cuja violência destrua ou derrube árvores num raio de 5 km envolventes dos bens seguros;
+
+v) «Tromba-d'água»: Efeitos mediata ou imediatamente resultantes de queda pluviométrica igual ou superior a 10 mm em dez minutos no pluviómetro, incluindo os prejuízos resultantes de inundação, desde que a mesma resulte de queda pluviométrica ocorrida no próprio local;
+
+w) «Unidade de produção»: O conjunto de parcelas agrícolas, agroflorestais ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum de mão de obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização;
+
+x) 'Viveiro': o local onde é exercida, em conformidade com as disposições legais aplicáveis, a atividade de viveirista, e onde se produzem, para replantação, plantas vitícolas, frutícolas, florestais e plantas ornamentais, em regime de ar livre, sem venda ao público e cujas plantas não são produzidas no âmbito de ensaios ou estudos de natureza científica;
+
+y) 'Título de reconhecimento do Estatuto de Agricultura Familiar': título atribuído ao responsável da exploração agrícola familiar pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2021 - Diário da República n.º 52/2021, Série I de 2021-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838), em vigor a partir de 2021-03-17, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 61/2020 - Diário da República n.º 46/2020, Série I de 2020-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/61-2020-129892690), em vigor a partir de 2020-03-06, produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 3.º — Competências do IFAP, I. P.
+
+Para além das competências definidas no Decreto-Lei n.º 162/2015, de 14 de agosto, compete ao IFAP, I. P., nomeadamente:
+
+a) Receber, analisar e decidir as candidaturas apresentadas para atribuição do apoio relativo ao prémio do seguro de colheitas, e proceder ao pagamento das candidaturas objeto de prévio enquadramento financeiro;
+
+b) Receber, analisar e decidir as candidaturas apresentadas para atribuição da compensação de sinistralidade e proceder ao pagamento das candidaturas;
+
+c) Efetuar a gestão do Fundo de calamidades e da compensação de sinistralidade;
+
+d) Aprovar os procedimentos a observar pelos tomadores e pelas empresas de seguros para atribuição dos apoios referidos nas alíneas anteriores, e divulgá-los no portal do Instituto, em www.ifap.pt, bem como definir os dados técnicos e estatísticos a fornecer por estas entidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+### Capítulo II — Seguro de colheitas
+
+#### Secção I — Disposições gerais
+
+###### Artigo 4.º — Contrato de seguro
+
+1 - O seguro de colheitas é efetuado em qualquer empresa de seguros através da celebração de um contrato individual ou de um contrato coletivo.
+
+2 - Para efeitos do contrato coletivo, considera-se que agem no interesse direto dos agricultores que representam, as seguintes entidades:
+
+a) Organizações e associações de produtores, cooperativas agrícolas e sociedades comerciais que efetuem a transformação ou comercialização da produção segura;
+
+b) Associações de agricultores.
+
+3 - O contrato de seguro coletivo baseia-se nos princípios da adesão voluntária dos agricultores e do conhecimento por estes das condições do seguro celebrado com a empresa de seguros em cada campanha, devendo a entidade coletiva que os representa adotar as medidas necessárias para o efeito.
+
+4 - O contrato de seguro coletivo deve garantir os valores individuais de capital seguro de cada um dos agricultores, ficando os mesmos impossibilitados de celebrar um contrato de seguro individual ou coletivo para a mesma parcela ou subparcela e cultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 5.º — Obrigações especiais do tomador do seguro de grupo
+
+O tomador do seguro de grupo é solidariamente responsável com o segurado pelas informações prestadas no âmbito do processo de candidatura e de concessão e pagamento do apoio, devendo respeitar, entre outras a que se encontram vinculados, as seguintes obrigações especiais:
+
+a) Possuir autorização do agricultor para a celebração do contrato de seguro e para a consulta dos dados disponibilizados pelo IFAP, I. P. com vista à formalização da candidatura e à concessão do apoio;
+
+b) Informar o segurado das condições do seguro em cada campanha e do apoio previsto;
+
+c) Dar apoio ao agricultor em caso de sinistro, nomeadamente no acompanhamento de peritagens e arbitragens;
+
+d) Manter e disponibilizar ao IFAP, I. P., ou a qualquer outra entidade por este indicada, ou com competência para o efeito, toda a informação necessária à realização de controlos;
+
+e) Responder solidariamente com o segurado pelo reembolso dos pagamentos indevidos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 6.º — Mediação
+
+As cooperativas agrícolas, associações e organizações de agricultores podem mediar contratos de seguro de colheitas, nos moldes e condições previstos no regime jurídico de acesso e de exercício da atividade de mediação de seguros.
+
+###### Artigo 7.º — Âmbito do contrato de seguro
+
+1 - O contrato de seguro cobre todas as parcelas ou subparcelas de cada cultura segura que o agricultor possua ou explore na mesma unidade de produção, desde que atualizadas no SIP durante o período de vigência do contrato de seguro, sob pena de nulidade da cobertura e reembolso do apoio atribuído pelo beneficiário ou tomador do seguro.
+
+2 - Para além das exclusões gerais constantes da apólice uniforme do seguro, não se encontram abrangidos pelo seguro de colheitas:
+
+a) As árvores, as estufas ou qualquer outro tipo de capital fundiário;
+
+b) As culturas cujas sementeiras ou plantações tenham sido feitas fora das épocas normais para as respetivas regiões, e ainda quando tenham sido feitas ou mantidas em condições tecnicamente desaconselháveis, cabendo à Direção Regional de Agricultura e Pescas territorialmente competente (DRAP), em caso de dúvida, pronunciar-se sobre a época e as condições de realização das culturas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 8.º — Apólice uniforme
+
+1 - A apólice uniforme do seguro de colheitas elaborada pela Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), em colaboração com o IFAP, I. P., contém, designadamente, as condições gerais e especiais do seguro, a produção de efeitos e respetivas datas-limite de vigência.
+
+2 - A apólice uniforme relativa ao seguro de colheitas é publicada pela Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), no prazo de 60 dias após a data de publicação do presente Regulamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 9.º — Duração do contrato
+
+1 - O contrato de seguro de colheitas é temporário e não prorrogável.
+
+2 - Sem prejuízo do disposto no presente Regulamento, a produção de efeitos do contrato de seguro é regulada pelas condições da apólice uniforme.
+
+3 - Sem prejuízo das datas-limite de produção de efeitos definidas nas condições especiais da apólice uniforme, o contrato caduca na data da conclusão da colheita e, no caso específico das culturas arbóreas ou arbustivas, no momento em que os frutos são retirados da árvore ou da planta.
+
+###### Artigo 10.º — Determinação do valor do apoio
+
+1 - A determinação do valor do apoio é efetuada da seguinte forma:
+
+a) 60 % do prémio para os contratos de seguro coletivo, para contratos de seguros individuais de segurados que tenham aderido a um seguro agrícola no ano anterior ou que detenham título de reconhecimento do Estatuto da Agricultura Familiar, bem como para contratos de seguro subscritos por jovens agricultores em ano de 1.ª instalação;
+
+a) 70 % do prémio, para contratos de seguro, celebrados por entidades que detenham título de reconhecimento do Estatuto da Agricultura Familiar, nos termos do Decreto-Lei n.º 64/2018, de 7 de agosto, e da Portaria n.º 73/2019, de 7 de março;
+
+b) 60 % do prémio dos contratos de seguro coletivo, para contratos de seguros individuais de segurados que tenham aderido a um seguro agrícola no ano anterior, bem como dos contratos de seguros subscritos por jovens agricultores em ano de 1.ª instalação;
+
+c) 57 % do prémio nas situações não enquadradas na alínea anterior.
+
+2 - Para efeitos do cálculo do apoio a atribuir, considera-se o prémio a pagar pelo tomador do seguro com dedução dos encargos fiscais, parafiscais e custo da apólice, limitado ao valor obtido a partir da tarifa de referência referida no artigo seguinte, nos casos em que o prémio da empresa de seguros for superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2021 - Diário da República n.º 52/2021, Série I de 2021-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838), em vigor a partir de 2021-03-17, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 61/2020 - Diário da República n.º 46/2020, Série I de 2020-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/61-2020-129892690), em vigor a partir de 2020-03-06, produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 11.º — Tarifas de referência
+
+As tarifas de referência são determinadas por despacho do membro do Governo responsável pela área da agricultura.
+
+###### Artigo 12.º — Prémio de seguro
+
+1 - A empresa de seguros procede ao cálculo do montante do prémio de seguro de colheitas devido, sendo o valor do apoio descontado no momento do pagamento do prémio.
+
+2 - O recibo deve sempre indicar, para além do valor do prémio, o valor do apoio atribuído.
+
+###### Artigo 13.º — Capital seguro
+
+1 - A determinação do capital seguro é da responsabilidade do tomador de seguro ou do segurado, tendo em atenção o disposto nos números seguintes.
+
+2 - Para efeito do cálculo do capital seguro, é considerada a produção esperada determinada de acordo com os números seguintes e, ainda, os preços esperados, salvo previsão distinta em condição especial da apólice uniforme.
+
+3 - O cálculo da produção esperada para a cultura e parcelas ou subparcelas em causa é efetuado da seguinte forma, alternativamente:
+
+a) Valor de produtividade constante na tabela de referência fixada pelo Gabinete de Planeamento, Políticas e Administração Geral (GPP), divulgada no respetivo portal em www.gpp.pt e no portal do IFAP, I. P., em www.ifap.pt;
+
+b) Valor médio de produtividade obtido nos últimos três anos ou, em alternativa, nos últimos cinco anos, excluídos o valor mais elevado e o valor mais baixo, caso o agricultor tenha histórico de produtividade, devendo o tomador de seguros ou o segurado estar na posse e disponibilizar os documentos comprovativos da produtividade histórica obtida.
+
+4 - Se o preço declarado for igual ou superior a 20 % relativamente ao valor constante da tabela de referência, fixada pelo Gabinete de Planeamento, Políticas e Administração Geral (GPP) e divulgada no respetivo portal em www.gpp.pt e no portal do IFAP, I. P., em www.ifap.pt, o tomador de seguros ou o segurado devem estar na posse e disponibilizar, sempre que solicitado, documentos comprovativos do preço declarado.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2021 - Diário da República n.º 52/2021, Série I de 2021-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838), em vigor a partir de 2021-03-17, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 61/2020 - Diário da República n.º 46/2020, Série I de 2020-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/61-2020-129892690), em vigor a partir de 2020-03-06, produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 14.º — Alteração ao capital seguro
+
+1 - A partir do momento em que o seguro comece a produzir os seus efeitos, o tomador do seguro só pode alterar o capital seguro antes da ocorrência de um sinistro ou da verificação de qualquer risco coberto suscetível de produzir um dano material, se essa alteração for devida a:
+
+a) Acidentes meteorológicos não possíveis de abranger no âmbito deste contrato de seguro;
+
+b) Pragas de âmbito regional, para cuja ocorrência o segurado seja inteiramente alheio;
+
+c) Variação de preços ou de subsídios oficiais;
+
+d) Legítima expectativa de vir a verificar-se um significativo aumento da produção esperada, devidamente comprovada pelas DRAP, não podendo exceder os valores referidos no n.º 3 do artigo anterior;
+
+e) Correção de erros de cálculo cometidos pelo segurado nas declarações iniciais.
+
+2 - A metodologia de cálculo da alteração do prémio em função da alteração do capital seguro nos termos do número anterior deve estar expressa de forma clara e compreensível nas condições particulares da apólice uniforme e utilizar os mesmos pressupostos técnicos que são utilizados no cálculo do prémio inicial.
+
+###### Artigo 15.º — Subseguro e sobresseguro
+
+1 - Se o capital seguro for, na data do sinistro em que se verifique um efeito cumulativo de perdas ou danos superiores a 20 % da produção anual média da cultura segura na parcela ou subparcela ou conjunto de parcelas ou subparcelas, calculadas nos termos das alíneas a) ou b) do n.º 3 do artigo 13.º, inferior ao valor do objeto seguro, a empresa de seguros só responde pelo dano na respetiva proporção.
+
+2 - Se o capital seguro for, na data do sinistro em que se verifique um efeito cumulativo de perdas ou danos superiores a 20 % da produção anual média da cultura segura na parcela ou subparcela ou conjunto de parcelas ou subparcelas, calculadas nos termos das alíneas a) ou b) do n.º 3 do artigo 13.º, superior ao do objeto seguro, a indemnização a pagar pela empresa de seguros não ultrapassa o valor do objeto seguro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2021 - Diário da República n.º 52/2021, Série I de 2021-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838), em vigor a partir de 2021-03-17, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 16.º — Atribuição da indemnização
+
+1 - A atribuição de indemnização é condicionada à verificação, por segurado e parcela ou subparcela ou conjunto de parcelas ou subparcelas, de perdas acumuladas superiores a 20 % da produção anual média da cultura segura na parcela ou subparcela ou conjunto de parcelas ou subparcelas, calculadas nos termos das alíneas a) e b) do n.º 3 do artigo 13.º
+
+2 - Em caso de sinistro, o cômputo dos danos que serve de base ao cálculo da indemnização atende às produções reais ou, caso não seja possível determinar estas, à produção média anual calculada conforme previsto no número anterior, tendo sempre como limite máximo a produção segura.
+
+3 - Nos contratos de seguro coletivo, deve o tomador, em caso de sinistro, garantir o apoio ao agricultor, nomeadamente no acompanhamento das peritagens e arbitragens.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2021 - Diário da República n.º 52/2021, Série I de 2021-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838), em vigor a partir de 2021-03-17, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+#### Secção II — Seguro de colheitas horizontal
+
+###### Artigo 17.º — Âmbito do seguro de colheitas horizontal
+
+1 - O seguro de colheitas horizontal aplica-se a todo o território continental.
+
+2 - As culturas abrangidas pelo seguro de colheita horizontal e respetivas limitações decorrentes da densidade, da área de cultivo e da idade da plantação, quando existam, são as seguintes:
+
+a) Cereais: trigo, centeio, cevada, aveia, triticale, milho (cereal), arroz, alpista e sorgo, podendo no seguro de colheitas de cereais ser expressamente incluída uma verba para palhas até 30 % do valor do respetivo cereal;
+
+b) Leguminosas para grão: feijão, fava, grão-de-bico, ervilha, soja, tremoço, tremocilha e similares;
+
+c) Oleaginosas arvenses: cártamo, girassol e colza;
+
+d) Hortícolas a céu aberto:
+
+i) Culturas hortícolas sensíveis às baixas temperaturas: cebola, cenoura, alface, feijão-verde, tomate, pimento, melão, meloa, melancia, beterraba hortícola, abóbora, alho-francês, aipo, batata-doce, beringela, chicória de folhas, courgette, couve-brócolo, couve-chinesa, couve-flor, espargo, espinafre, agrião, ervilha, fava, morango, pepino e quiabo;
+
+ii) Culturas hortícolas resistentes às baixas temperaturas: couves (galega, tronchuda, penca, portuguesa, repolho, roxa, coração-de-boi, lombardo e de bruxelas), alho, nabo, rutabaga, rábano e rabanete;
+
+e) Linho, lúpulo e algodão;
+
+f) Batata, incluindo batata para semente;
+
+g) Vinha para produção de uva de mesa a partir do 3.º ano de plantação, cuja casta não seja do tipo «produtor direto» ou «vinha americana», ou vinha para produção de uva de mesa instalada com «enxerto pronto» decorridos que sejam dois anos a partir da plantação;
+
+h) Pomóideas: macieira, pereira e marmeleiro, a partir do 3.º ano de plantação;
+
+i) Prunóideas: cerejeira, damasqueiro, pessegueiro, ameixeira, alperce e nectarina, a partir do 3.º ano de plantação;
+
+j) Olival a partir do 5.º ano de plantação, com área mínima de 0,5 ha, não sendo permitido o seguro de árvores isoladas, bem como o de olivais com uma densidade inferior a 45 árvores por hectare;
+
+k) Olival com idade de plantação superior a 3 anos e inferior a 6 anos, desde que se verifiquem as seguintes condições:
+
+i) Plantação de regadio;
+
+ii) Plantação com densidade superior a 200 árvores por hectare, quando realizada com planta enraizadas em estufas de nebulização e conduzida com um só tronco, ou plantação com densidade superior a 1000 árvores por hectare, quando conduzida sob a forma de arbusto;
+
+iii) Apresentação pelo agricultor, aquando da celebração do contrato, de informação que discrimine as condições mencionadas na presente alínea, bem como o tipo de podas realizadas e a produção esperada.
+
+l) Frutos de casca rija:
+
+i) Nogueira e aveleira a partir do 4.º ano de plantação, não sendo permitido o seguro de plantas isoladas, bem como o de pomares com uma densidade inferior a 45 e 150 árvores por hectare, respetivamente;
+
+ii) Amendoeira a partir do 3.º ano de plantação, com área mínima de 0,5 ha, não sendo permitido o seguro de plantas isoladas, bem como o de pomares com uma densidade inferior a 100 árvores por ha;
+
+iii) Castanheiro a partir do 5.º ano de plantação, não sendo permitido o seguro de pomares com uma densidade inferior a 35 árvores por hectare;
+
+iv) Alfarrobeira a partir do 8.º ano de plantação, não sendo permitido o seguro de pomares com uma densidade inferior a 35 árvores por hectare;
+
+m) Tabaco;
+
+n) Citrinos: laranjeira, limoeiro, toranjeira, tangerineira e tangereira e clementina a partir do 3.º ano de plantação, não sendo permitido o seguro de árvores isoladas;
+
+o) Actinídea (kiwi) a partir do 3.º ano de plantação, com área mínima de 1000 m2, não sendo permitido o seguro de plantas isoladas;
+
+p) Figueira a partir do 5.º ano de plantação, com área mínima de cultivo de 0,5 ha, não sendo permitido o seguro de árvores isoladas;
+
+q) Culturas em regime de forçagem, conduzidas no interior de estufas ou abrigos baixos (túneis);
+
+r) Beterraba açucareira;
+
+s) Pequenos frutos: mirtilo, framboesa e amora a partir do 2.º ano de plantação e sabugueiro (baga) a partir do 4.º ano de plantação;
+
+t) Floricultura ao ar livre;
+
+u) Diospireiro a partir do 3.º ano de plantação, não sendo permitido o seguro de árvores isoladas;
+
+v) Nespereira a partir do 4.º ano de plantação, não sendo permitido o seguro de árvores isoladas;
+
+w) Abacateiro a partir do 3.º ano de plantação, não sendo permitido o seguro de árvores isoladas;
+
+x) Tamarilho, com proteção antigeada, a partir do 2.º ano de plantação;
+
+y) Tomate para indústria;
+
+z) Medronheiro a partir do 5.º ano de plantação, com área mínima de cultivo de 0,5 ha, não sendo permitido o seguro de árvores isoladas;
+
+aa) Viveiros vitícolas, frutícolas, florestais e de plantas ornamentais em regime de ar livre;
+
+ab) Plantas aromáticas e medicinais;
+
+ac) Romanzeira.
+
+ad) Milho para silagem.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2021 - Diário da República n.º 52/2021, Série I de 2021-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838), em vigor a partir de 2021-03-17, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 109/2018 - Diário da República n.º 79/2018, Série I de 2018-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/109-2018-115160090), em vigor a partir de 2018-04-24, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 18.º — Delimitações específicas de determinadas culturas
+
+1 - Os seguros de citrinos, do abacateiro e do tamarilho têm início em 1 de agosto e terminam em 31 de julho do ano seguinte, cobrindo os frutos provenientes da floração ocorrida na primavera imediatamente anterior à celebração do contrato de seguro e, no caso do limoeiro, também os frutos em pleno desenvolvimento, provenientes das florações remontantes.
+
+2 - A data do início do seguro de floricultura ao ar livre, de plantas aromáticas e medicinais e de viveiros vitícolas, frutícolas, florestais e de plantas ornamentais em regime de ar livre é efetuado com referência a datas de calendário, ficando os riscos cobertos a partir das datas e nas regiões constantes da tabela a publicar no portal do IFAP, I. P., em www.ifap.pt.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 19.º — Riscos cobertos
+
+O contrato de seguro de colheitas horizontal pode cobrir qualquer um dos seguintes riscos:
+
+a) Incêndio;
+
+b) Ação de queda de raio;
+
+c) Geada;
+
+d) Granizo;
+
+e) Queda de neve;
+
+f) Tornado;
+
+g) Tromba-d'água.
+
+###### Artigo 20.º — Cobertura riscos de geada e queda de neve
+
+1 - Os riscos de geada e queda de neve são cobertos sem restrições de caráter temporal, sem prejuízo das datas de início e termo do contrato de seguro estabelecidas nas respetivas condições especiais, nas seguintes culturas de plantações:
+
+a) Culturas em regime de forçagem conduzidas no interior de estufas ou abrigos baixos (túneis);
+
+b) Citrinos, aveleira, alfarrobeira, abacateiro, tamarilho;
+
+c) Milho (cereal), milho para silagem, arroz, sorgo, oleaginosas arvenses;
+
+d) Couves (galega, tronchuda, penca, portuguesa, repolho, roxa, coração-de-boi, lombardo e de bruxelas), nabo, rutabaga, rábano e rabanete.
+
+2 - A cobertura dos riscos de geada e queda de neve com restrições de caráter temporal, obedece aos seguintes princípios:
+
+a) Com referência ao ciclo vegetativo: o risco é coberto quando ocorra a partir da verificação dos estados fenológicos abaixo indicados para as várias culturas ou plantações:
+
+i) Trigo, centeio, cevada, aveia, triticale e alpista: emborrachamento, última folha visível, mas ainda enrolada; o caule começa a inchar ao nível da espiga;
+
+ii) Macieira: botão rosa, quando, por abertura das pétalas no botão central, é visível, em 50 % das árvores, a cor rosa ou vermelha das pétalas em novelo fechado;
+
+iii) Pereira: botão branco, quando, por abertura das pétalas num botão periférico, é visível, em 50 % das árvores, a cor branca das pétalas em novelo fechado;
+
+iv) Marmeleiro: plena floração, em pelo menos 50 % das árvores a flor está completamente aberta, deixando visíveis os seus órgãos reprodutores;
+
+v) Castanheiro: fruto formado;
+
+vi) Nogueira: aparecimento das flores femininas;
+
+vii) Amendoeira: fruto jovem;
+
+viii) Prunóideas: plena floração, quando em pelo menos 50 % das árvores o estado mais frequentemente observado corresponde ao momento em que a flor está completamente aberta, deixando visíveis os seus órgãos reprodutores;
+
+ix) Oliveira: fruto formado, quando pelo menos 50 % das árvores tenham atingido a fase do ciclo vegetativo equivalente ao endurecimento do caroço, isto é, quando o fruto evidencie o calibre próprio da variedade em causa;
+
+x) Actinídea (kiwi): abrolhamento, quando pelo menos 50 % das plantas alcancem ou ultrapassem a fase do ciclo vegetativo correspondente ao entumescimento dos gomos florais;
+
+xi) Vinha para produção de uva de mesa: desde o aparecimento dos «gomos algodão», quando o estado mais frequentemente observado em pelo menos 50 % das vides corresponde à separação das escamas, tornando-se bem visível a olho nu a proteção semelhante ao algodão de cor pardacenta;
+
+xii) Beterraba açucareira;
+
+xiii) Beterraba de outono: a partir do aparecimento das 10 primeiras folhas, quando pelo menos 50 % das plantas apresentem 10 ou mais folhas;
+
+xiv) Beterraba de primavera: a partir do aparecimento das 8 primeiras folhas, quando pelo menos 50 % das plantas apresentem 10 ou mais folhas;
+
+xv) Tomate para indústria: a partir das quatro folhas verdadeiras e apresentando a planta um sistema radicular perfeitamente desenvolvido;
+
+xvi) Mirtilo - botões visíveis, quando pelo menos 50 % das plantas apresentam botões florais visíveis;
+
+xvii) Framboesa e amora: botões florais fechados, quando pelo menos 50 % das plantas apresentam visíveis os botões florais na extremidade das ramificações;
+
+xviii) Sabugueiro (baga): ponta verde;
+
+xix) Medronheiro: plena floração, quando em pelo menos 50 % das árvores a flor está completamente aberta, deixando visíveis os seus órgãos reprodutores;
+
+b) Com referência a datas de calendário: nas culturas de tabaco, batata, lúpulo, cebola, cenoura, feijão-verde, melão, meloa, melancia, alho, beterraba hortícola, abóbora, alface, pimento, tomate, alho-francês, aipo, batata-doce, beringela, chicória de folhas, courgette, couve-brócolo, couve-chinesa, couve-flor, espargo, espinafre, agrião, ervilha, fava, pepino, quiabo, morango, leguminosas para grão, figo, linho, algodão, diospireiro, nespereira e romanzeira, os riscos de geada e de queda de neve são cobertos a partir das datas e nas regiões constantes da tabela a publicar no portal do IFAP, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2021 - Diário da República n.º 52/2021, Série I de 2021-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838), em vigor a partir de 2021-03-17, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 109/2018 - Diário da República n.º 79/2018, Série I de 2018-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/109-2018-115160090), em vigor a partir de 2018-04-24, produz efeitos a partir de 2018-01-01
+
+###### Artigo 21.º — Montante da indemnização
+
+1 - O montante a indemnizar é calculado nos termos dos artigos 15.º e 16.º do presente Regulamento, com base nos prejuízos sofridos pelas culturas que tenham origem em qualquer dos riscos cobertos pela apólice, deduzido dos gastos gerais de cultivo ou de colheitas não realizados, e de acordo com as seguintes regras:
+
+a) O montante da indemnização é equivalente a 80 % dos prejuízos realmente sofridos;
+
+b) No cálculo de qualquer indemnização relativa a seguro de culturas de vários cortes, colheitas ou apanhas, nomeadamente as do tomate e das culturas em regime de forçagem, atender-se ao valor das colheitas já realizadas, devendo previamente fixar-se em termos percentuais, a distribuição mensal das receitas esperadas;
+
+c) Quando ocorrer um sinistro numa fase do ciclo produtivo em que, técnica e economicamente, seja viável a renovação da cultura ou a implementação de outra em sua substituição, o montante da indemnização corresponde aos encargos de cultivo suportados até essa data e atende-se aos prejuízos decorrentes do diferimento da colheita;
+
+d) As indemnizações por sinistros abrangidos pelo seguro de colheitas são pagas após o início das épocas normais de comercialização dos produtos.
+
+2 - São considerados como constituindo um único sinistro as perdas ou danos com a mesma causa que ocorram nas quarenta e oito horas seguintes ao momento em que as coisas seguras sofram os primeiros danos, sem prejuízo do disposto no número seguinte.
+
+3 - São consideradas as perdas ou danos acumulados dos sinistros únicos ocorridos, durante a vigência do contrato, para efeito da observância de quebras de produção superiores a 20 %.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2021 - Diário da República n.º 52/2021, Série I de 2021-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838), em vigor a partir de 2021-03-17, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+#### Secção III — Seguros especiais
+
+##### Subsecção I — Seguro especial de pomóideas no Interior Norte
+
+###### Artigo 22.º — Âmbito e culturas abrangidas
+
+1 - O presente seguro especial aplica-se às explorações com pomares para produção de pomóideas localizadas em concelhos com elevada exposição ao risco de geada.
+
+2 - Consideram-se concelhos com elevada exposição ao risco de geada: Aguiar da Beira, Alijó, Almeida, Armamar, Belmonte, Carrazeda de Ansiães, Carregal do Sal, Castro Daire, Celorico da Beira, Chaves, Covilhã, Fornos de Algodres, Fundão, Gouveia, Guarda, Lamego, Mangualde, Meda, Moimenta da Beira, Murça, Nelas, Oliveira do Hospital, Penalva do Castelo, Penedono, Pinhel, Resende, Sabrosa, Sabugal, Santa Comba Dão, São João da Pesqueira, São Pedro do Sul, Sátão, Seia, Sernancelhe, Tabuaço, Tarouca, Tondela, Trancoso, Valpaços, Vila Flor, Vila Nova de Paiva, Vila Real, Viseu e Vouzela.
+
+3 - Estão abrangidas pelo presente seguro as seguintes culturas, a partir do 3.º ano de plantação:
+
+a) Macieira;
+
+b) Pereira;
+
+c) Marmeleiro.
+
+###### Artigo 23.º — Riscos cobertos
+
+O contrato de seguro especial de pomóideas no Interior Norte cobre, obrigatoriamente, todos riscos cobertos pelo contrato de seguro de colheitas horizontal, referidos no artigo 19.º do presente Regulamento.
+
+###### Artigo 24.º — Duração da cobertura dos riscos
+
+1 - O seguro inicia a cobertura dos riscos previstos após o período de carência e, para os riscos de geada e queda de neve, nunca antes da verificação do estado fenológico «botão rosa» na macieira, «botão branco» na pereira ou «plena floração» no marmeleiro.
+
+2 - O período de cobertura dos riscos termina na data que primeiro se verifique:
+
+a) O momento de conclusão da colheita; ou,
+
+b) A data de 15 de outubro.
+
+###### Artigo 25.º — Montante da indemnização
+
+1- O montante a indemnizar é calculado nos termos dos artigos 15.º e 16.º do presente Regulamento, deduzido dos gastos gerais de cultivo ou de colheitas não realizados, e de acordo com as seguintes regras:
+
+a) Para o risco de geada, o montante da indemnização é equivalente aos prejuízos realmente sofridos, deduzidos em 15 % ou 25 % da produção efetivamente esperada, de acordo com a opção contratada, estando esta limitada ao valor da produção segura;
+
+b) Para o risco de granizo, o montante da indemnização é equivalente aos prejuízos realmente sofridos, deduzidos em 15 % ou 25 % da produção efetivamente esperada, de acordo com a opção contratada, estando esta limitada ao valor da produção segura, ou, em alternativa, a 80 % dos prejuízos realmente sofridos, consoante a modalidade de franquia escolhida;
+
+c) Para os riscos de queda de neve, incêndio, ação de queda de raio, tromba-d'água e tornado, o montante da indemnização é equivalente a 80 % dos prejuízos realmente sofridos.
+
+2 - Os prejuízos são apurados em separado, por risco, correspondendo o montante da indemnização à soma das indemnizações apuradas de acordo com o disposto no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+##### Subsecção II — Seguro especial de tomate para indústria
+
+###### Artigo 26.º — Âmbito e cultura abrangida
+
+1 - O presente seguro especial aplica-se às explorações de produção de tomate para indústria situadas no território do continente.
+
+2 - Está abrangida pelo presente seguro a produção de tomate para indústria por plantação ou sementeira.
+
+###### Artigo 27.º — Riscos cobertos
+
+1 - O contrato de seguro especial de tomate para indústria cobre os riscos previstos no contrato de seguro de colheitas horizontal, referidos no artigo 19.º do presente Regulamento, aos quais acresce o risco de chuva persistente.
+
+2 - O contrato de seguro especial deve, obrigatoriamente, cobrir a totalidade dos riscos referidos no número anterior.
+
+###### Artigo 28.º — Duração da cobertura dos riscos
+
+1 - O seguro inicia a cobertura dos riscos previstos após o período de carência e, para os riscos de geada e queda de neve, a partir das quatro folhas verdadeiras, apresentando a planta um sistema radicular perfeitamente desenvolvido.
+
+2 - O período de cobertura dos riscos termina a 30 de setembro, ou a 15 de outubro para o risco de chuva persistente, ou no momento de conclusão da colheita, ou ainda, com a sobrematuração da cultura, dependendo do facto que primeiro ocorra.
+
+3 - Para efeito do número anterior, entende-se por sobrematuração o estado da produção quando a maturação, para efeitos comerciais, seja ultrapassada, apresentando alterações ou desequilíbrios fisiológicos, podendo manifestar-se através do tato, falta de consistência, rugosidade, aspereza, ou gosto, modificação das suas características organoléticas típicas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º — Montante da indemnização
+
+1 - O montante a indemnizar é calculado nos termos dos artigos 15.º e 16.º do presente Regulamento, deduzido dos gastos gerais de cultivo ou de colheitas não realizadas, e de acordo as regras previstas nos números seguintes.
+
+2 - Para o risco de chuva persistente, e de acordo com a opção contratada, o montante da indemnização é apurado em função do período de cobertura do risco, nos seguintes termos:
+
+a) Para os contratos cuja data-limite do período de cobertura do risco de chuva persistente é 30 de setembro, o montante da indemnização equivale, em alternativa, consoante a opção contratada:
+
+i) A 80 % dos prejuízos realmente sofridos;
+
+ii) Aos prejuízos realmente sofridos, deduzidos em 15 % ou 25 % da produção efetivamente esperada, consoante a opção contratada, estando aquela limitada ao valor da produção segura.
+
+b) Para os contratos cuja data-limite do período de cobertura do risco de chuva persistente é 15 de outubro, o montante da indemnização equivale aos prejuízos realmente sofridos, deduzidos em 15 % ou 25 % da produção efetivamente esperada, consoante a opção contratada, estando aquela limitada ao valor da produção segura.
+
+3 - Para os restantes riscos, o montante da indemnização é equivalente a 80 % dos prejuízos realmente sofridos.
+
+4 - Os prejuízos são apurados em separado, por risco ocorrido, correspondendo o montante da indemnização à soma das indemnizações apuradas de acordo com o descrito nos n.os 2 e 3 do presente artigo.
+
+5 - Quando ocorrer um sinistro numa fase do ciclo produtivo em que, técnica e economicamente, seja viável a renovação da cultura ou a implementação de outra em sua substituição, o montante da indemnização corresponde aos encargos de cultivo suportados até essa data e atende-se aos prejuízos decorrentes do diferimento da colheita.
+
+##### Subsecção III — Seguro Especial de Citrinos Algarve Barrocal
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º-A — Âmbito e culturas abrangidas
+
+1 - O presente seguro especial aplica-se às explorações com pomares para produção de citrinos, localizadas em concelhos com elevada exposição ao risco de geada.
+
+2 - Consideram-se concelhos com elevada exposição ao risco de geada: Albufeira, Castro Marim, Faro, Lagoa, Lagos, Loulé, Olhão, Portimão, São Brás de Alportel, Silves, Tavira e Vila Real de Santo António.
+
+3 - Está abrangida pelo presente seguro a produção, a partir do 3.º ano de plantação, dos seguintes citrinos:
+
+a) Laranjeira;
+
+b) Limoeiro;
+
+c) Toranjeira;
+
+d) Tangerineira;
+
+e) Tangereira;
+
+f) Clementina.
+
+4 - Não é permitido o seguro de árvores isoladas.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º-B — Riscos cobertos
+
+O contrato de seguro especial de citrinos no Algarve Barrocal cobre todos riscos cobertos pelo contrato de seguro de colheitas horizontal, referidos no artigo 19.º do presente Regulamento.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º-C — Duração da cobertura dos riscos
+
+1 - O seguro inicia a cobertura dos riscos previstos após o período de carência.
+
+2 - O período de cobertura dos riscos termina a 31 de julho, ou na data de conclusão da colheita, caso esta ocorra primeiro.
+
+###### Artigo 29.º-D — Montante da indemnização
+
+1 - O montante a indemnizar é calculado nos termos dos artigos 15.º e 16.º do presente Regulamento, deduzido dos gastos gerais de cultivo ou de colheitas não realizados, e de acordo com as seguintes regras:
+
+a) Para o risco de geada, o montante da indemnização é equivalente aos prejuízos realmente sofridos, deduzidos em 15 % ou 25 % da produção efetivamente esperada, de acordo com a opção contratada, estando esta limitada ao valor da produção segura;
+
+b) Para os restantes riscos, o montante da indemnização é equivalente a 80 % dos prejuízos realmente sofridos.
+
+2 - Os prejuízos são apurados em separado, por risco, correspondendo o montante da indemnização à soma das indemnizações apuradas de acordo com o disposto no número anterior.
+
+##### Subsecção IV — Seguro especial de cereja
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º-E — Âmbito e cultura abrangida
+
+1 - O presente seguro especial aplica-se às explorações de produção de cereja situadas nas seguintes regiões:
+
+a) Cova da Beira: concelhos de Belmonte, Covilhã e Fundão;
+
+b) Ribadouro: concelhos de Baião, Cinfães e Resende;
+
+c) Trás-os-Montes: concelhos de Alfândega da Fé, Armamar, Lamego, Mirandela, São João da Pesqueira, Tabuaço, Valpaços e Vila Flor, Bragança, Macedo de Cavaleiros, Miranda do Douro, Mogadouro e Vinhais.
+
+2 - Está abrangida pelo presente seguro a produção de cereja a partir do 3.º ano de plantação.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º-F — Riscos cobertos
+
+1 - O contrato de seguro especial de cereja deve cobrir a totalidade dos riscos previstos no contrato de seguro de colheitas horizontal, referidos no artigo 19.º do presente Regulamento, aos quais pode acrescer o risco de fendilhamento do fruto.
+
+2 - Para efeitos do disposto no n.º 1, entende-se por fendilhamento do fruto a rotura da epiderme do fruto da cerejeira no estado de maturação, provocada pela ocorrência de precipitação.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º-G — Duração da cobertura dos riscos
+
+1 - O seguro inicia a cobertura dos riscos previstos após o período de carência e, para os riscos de geada e queda de neve, a partir da plena floração.
+
+2 - Para efeitos de aplicação do número anterior, entende-se por plena floração quando, em pelo menos 50 % das árvores o estado mais frequentemente observado corresponde ao momento em que a flor está completamente aberta, deixando visíveis os seus órgãos reprodutores.
+
+3 - O período de cobertura dos riscos termina a 31 de julho, ou na data de conclusão da colheita, caso esta ocorra primeiro.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º-H — Montante da indemnização
+
+1 - O montante a indemnizar é calculado nos termos dos artigos 15.º e 16.º do presente Regulamento, deduzido dos gastos gerais de cultivo ou de colheitas não realizados, e de acordo com as seguintes regras:
+
+a) Para o risco de fendilhamento do fruto, o montante da indemnização é equivalente aos prejuízos realmente sofridos, deduzidos em 15 % ou 25 % da produção efetivamente esperada, de acordo com a opção contratada, estando esta limitada ao valor da produção segura;
+
+b) Para o risco de geada, o montante da indemnização é equivalente aos prejuízos realmente sofridos, deduzidos em 15 % ou 25 % da produção efetivamente esperada, de acordo com a opção contratada, estando esta limitada ao valor da produção segura, ou, em alternativa, a 80 % dos prejuízos realmente sofridos, consoante a modalidade de franquia escolhida;
+
+c) Para o risco de granizo, o montante da indemnização é equivalente aos prejuízos realmente sofridos, deduzidos em 15 % ou 25 % da produção efetivamente esperada, de acordo com a opção contratada, estando esta limitada ao valor da produção segura, ou, em alternativa, a 80 % dos prejuízos realmente sofridos, consoante a modalidade de franquia escolhida;
+
+d) Para os riscos de queda de neve, incêndio, ação de queda de raio, tromba-d'água e tornado, o montante da indemnização é equivalente a 80 % dos prejuízos realmente sofridos.
+
+2 - Os prejuízos são apurados em separado, por risco, correspondendo o montante da indemnização à soma das indemnizações apuradas de acordo com o disposto no número anterior.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+##### Subsecção V — Seguro Especial de Pera Rocha Oeste
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º-I — Âmbito e cultura abrangida
+
+1 - O presente seguro especial aplica-se às explorações de produção de pera rocha situadas nos concelhos de Alcobaça, Caldas da Rainha, Óbidos, Cadaval, Bombarral, Lourinhã, Torres Vedras, Mafra, Leiria, Batalha e Porto de Mós.
+
+2 - Está abrangida pelo presente seguro a produção de pera a partir do 3.º ano de plantação.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º-J — Riscos cobertos
+
+1 - O contrato de seguro especial de pera rocha no Oeste cobre os riscos previstos no contrato de seguro de colheitas horizontal, referidos no artigo 19.º do presente Regulamento, aos quais acresce o risco de falta de vingamento por baixas temperaturas.
+
+2 - O contrato de seguro especial deve cobrir a totalidade dos riscos referidos no número anterior.
+
+3 - Entende-se por falta de vingamento por baixas temperaturas, para efeitos do disposto no n.º 1, a ocorrência de temperaturas baixas que, verificando-se durante o estado fenológico 'H' (queda da pétala), provoquem prejuízos em consequência de uma diminuição dos frutos viáveis devendo, ainda, ter ocorrido floração em quantidade suficiente para alcançar a produção segura.
+
+4 - Para efeitos do n.º 3, consideram-se:
+
+a) Temperaturas baixas: as temperaturas mínimas médias, inferiores ou iguais a 5ºC, que se verifiquem durante 3 dias consecutivos;
+
+b) Frutos viáveis: aqueles que, após as quebras fisiológicas ou mondas, são capazes de crescer com as condições apropriadas para a comercialização.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º-K — Duração da cobertura dos riscos
+
+1 - O seguro inicia a cobertura dos riscos previstos após o período de carência e verificadas as seguintes condições:
+
+a) No caso dos riscos de geada e queda de neve, a partir do botão branco, quando, por abertura das pétalas num botão periférico, é visível em 50 % das árvores a cor branca das pétalas em novelo fechado;
+
+b) No caso do risco de falta de vingamento por baixas temperaturas, a partir de estado fenológico 'H' (queda da pétala), quando em pelo menos 50 % das árvores o estado mais frequentemente observado corresponde ao momento da queda da pétala.
+
+2 - O período de cobertura dos riscos termina a 15 de outubro, ou na data de conclusão da colheita, caso esta ocorra primeiro.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 29.º-L — Montante da indemnização
+
+1 - O montante a indemnizar é calculado nos termos dos artigos 15.º e 16.º do presente Regulamento, deduzido dos gastos gerais de cultivo ou de colheitas não realizados, e de acordo com as seguintes regras:
+
+a) Para o risco de falta de vingamento por baixas temperaturas, o montante da indemnização é equivalente aos prejuízos realmente sofridos, deduzidos em 15 % ou 25 % da produção efetivamente esperada, de acordo com a opção contratada, estando esta limitada ao valor da produção segura;
+
+b) Para os restantes riscos, o montante da indemnização é equivalente a 80 % dos prejuízos realmente sofridos.
+
+2 - Os prejuízos são apurados em separado, por risco, correspondendo o montante da indemnização à soma das indemnizações apuradas de acordo com o disposto no número anterior.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+### Capítulo III — Compensação de sinistralidade
+
+###### Artigo 30.º — Índice de sinistralidade
+
+1 - Há lugar à atribuição de compensação de sinistralidade quando as indemnizações pagas decorrentes de sinistros forem superiores a 150 % dos prémios processados no conjunto das regiões A, B e C e superiores a 85 % dos prémios processados no conjunto das regiões D e E, definidas no n.º 2 do anexo do Despacho n.º 4585/2018, de 27 de abril.
+
+2 - As percentagens referidas no número anterior são referentes à globalidade dos contratos de seguro celebrados nas regiões que lhes estão associadas, ao abrigo do presente Regulamento e do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, independentemente da cultura, desde que:
+
+a) As empresas de seguros tenham aderido ao mecanismo de compensação de sinistralidade para ambos os regimes;
+
+b) Os contratos celebrados ao abrigo do Regulamento (UE) n.º <a href="eurlex.asp?ano=2013&id=313R1308" title="Link para Regulamento da Comunidade Europeia">1308/2013</a>, do Parlamento Europeu e do Conselho, de 17 de dezembro, cumpram os requisitos estabelecidos para os contratos celebrados ao abrigo do presente Regulamento, designadamente no que se refere à cobertura de riscos e franquias.
+
+3 - O apuramento dos valores da compensação de sinistralidade é efetuado por empresa de seguros.
+
+4 - Para efeitos do disposto no n.º 1, são considerados:
+
+a) Os prémios totais, incluindo as bonificações, líquidos de estornos e anulações, e deduzidos de impostos, de taxas, do custo da apólice, das indemnizações pagas e das despesas com peritagens e regularização de sinistros, até ao limite máximo de 10 % dos prémios, relativos aos contratos celebrados ao abrigo do seguro de colheitas e do Regulamento (UE) n.º <a href="eurlex.asp?ano=2013&id=313R1308" title="Link para Regulamento da Comunidade Europeia">1308/2013</a>, do Parlamento Europeu e do Conselho, de 17 de dezembro;
+
+b) As indemnizações de sinistros ocorridos nesse ano e pagas entre 1 de janeiro desse ano e 31 de março do ano seguinte.
+
+5 - As indemnizações relativas a sinistros ocorridos e não regularizados até esta data serão imputados ao respetivo ano de contratualização da apólice.
+
+6 - Para os contratos celebrados para o ano de 2014, o cálculo da compensação de sinistralidade nas condições atrás referidas abrange, ainda, os contratos com vista ao seguro de colheitas para as regiões e culturas previstas, respetivamente, nos n.os 2 e 3 do artigo 22.º, sem apoio ao prémio de seguro, contratados em complemento dos celebrados ao abrigo do Regulamento, que visem cobrir sinistros cujo prejuízo mínimo indemnizável esteja compreendido entre 15 % e 30 %.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2021 - Diário da República n.º 52/2021, Série I de 2021-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838), em vigor a partir de 2021-03-17, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 61/2020 - Diário da República n.º 46/2020, Série I de 2020-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/61-2020-129892690), em vigor a partir de 2020-03-06, produz efeitos a partir de 2020-01-01
+
+###### Artigo 31.º — Pagamento da compensação de sinistralidade
+
+O IFAP, I. P., paga às empresas de seguros a compensação correspondente a 75 % do valor das indemnizações na parte em que excedam o índice de sinistralidade referido no n.º 1 do artigo anterior, com base em dotações inscritas ou a inscrever no respetivo orçamento em cada um dos anos até ao limite anual de 2 500 000 euros.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 318/2024/1 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/318-2024-899204485), em vigor a partir de 2024-12-07
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 61/2020 - Diário da República n.º 46/2020, Série I de 2020-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/61-2020-129892690), em vigor a partir de 2020-03-06, produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 132/2017 - Diário da República n.º 71/2017, Série I de 2017-04-10](https://diariodarepublica.pt/dr/detalhe/portaria/132-2017-106858892), em vigor a partir de 2017-04-11, produz efeitos a partir de 2017-01-01
+
+###### Artigo 32.º — Adesão à compensação de sinistralidade
+
+1 - A adesão ao mecanismo de Compensação de Sinistralidade é facultativa, não podendo a empresa de seguros celebrar contrato de resseguro na parte de responsabilidade que corresponde ao Estado.
+
+2 - Exceto para as empresas de seguros que já tenham aderido parcial ou totalmente, à modalidade de resseguro privado, e que por essa razão já não podem aderir ao resseguro público, a intenção de aderir ao mecanismo de Compensação de Sinistralidade, em determinado ano, deve ser manifestada formalmente junto do IFAP, I. P., até 31 de dezembro do ano anterior.
+
+3 - Excecionalmente, mediante aceitação prévia pelo IFAP, I. P., e em situações devidamente fundamentadas, a empresa de seguros pode optar por não englobar no pedido de adesão à compensação de sinistralidade, parte ou a totalidade dos contratos de seguros especiais celebrados ao abrigo do presente Regulamento.
+
+> Nota: [Artigo 3.º, Portaria n.º 318/2024/1 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/318-2024-899204485) Para o ano de 2025, o prazo referido no n.º 2 do presente artigo é prorrogado até 31 de janeiro de 2025.
+
+> Nota: [Artigo 3.º, Portaria n.º 28/2023 - Diário da República n.º 9/2023, Série I de 2023-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/28-2023-206056780) Em 2022, o prazo referido no n.º 2 do presente artigo, na sua redação atual, é fixado pelo Instituto de Financiamento da Agricultura e Pescas, I. P., e divulgado no respetivo portal, em www.ifap.pt.
+
+> Nota: [Artigo 3.º, Portaria n.º 59/2021 - Diário da República n.º 52/2021, Série I de 2021-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838) O prazo referido no n.º 2 do artigo 32.º do presente Regulamento, na sua redação atual, é fixado pelo Instituto de Financiamento da Agricultura e Pescas, I. P., e divulgado no respetivo portal, em www.ifap.pt.
+
+###### Artigo 33.º — Contribuição das empresas de seguros
+
+1 - A adesão ao mecanismo de compensação de sinistralidade é efetuada para a totalidade dos contratos, ficando as empresas de seguros obrigadas a realizar uma contribuição sobre os prémios totais, líquidos de estornos e anulações, incluindo a bonificação e deduzidos os impostos, as taxas e o custo da apólice.
+
+2 - A contribuição referida no número anterior é igual a 8 % dos prémios relativos aos seguros celebrados.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 61/2020 - Diário da República n.º 46/2020, Série I de 2020-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/61-2020-129892690), em vigor a partir de 2020-03-06, produz efeitos a partir de 2020-01-01
+
+###### Artigo 34.º — Cessação da compensação de sinistralidade
+
+O mecanismo de compensação de sinistralidade cessa a 31 de dezembro de 2028, com exceção dos pagamentos da compensação de sinistralidade devida das campanhas não encerradas e até ao seu encerramento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 318/2024/1 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/318-2024-899204485), em vigor a partir de 2024-12-07
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 28/2023 - Diário da República n.º 9/2023, Série I de 2023-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/28-2023-206056780), em vigor a partir de 2023-01-13, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2021 - Diário da República n.º 52/2021, Série I de 2021-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/59-2021-159539838), em vigor a partir de 2021-03-17, produz efeitos a partir de 2021-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 61/2020 - Diário da República n.º 46/2020, Série I de 2020-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/61-2020-129892690), em vigor a partir de 2020-03-06, produz efeitos a partir de 2020-01-01

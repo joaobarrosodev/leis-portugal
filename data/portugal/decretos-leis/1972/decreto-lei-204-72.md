@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:673872:por
+title: Decreto-Lei n.º 204/72
+short_title: null
+summary: Regula as condições a que fica sujeito o provimento de professoras do Instituto de Odivelas - Revoga os Decretos
+  n.os 39919 e 40122
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios do Exército e da Educação Nacional
+proposing_entity: null
+official_number: 204/72
+official_date: null
+publication_date: '1972-06-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 142/1972, Série I de 1972-06-20
+  number: '142'
+  series: I
+  supplement: null
+  pages: 798 - 798
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/06/14200/07980798.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '673872'
+  dre_path: /dr/detalhe/decreto-lei/204-1972-673872
+  internal: pt:dre:673872:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1972-673872
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1972-673872
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:22:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6549e0964562ef58b60f447c4315717ade8b208b3bb63b9034bb9ea8458b832f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Colocação de Professores
+- Instituto de Odivelas
+- Pessoal Docente
+relationships:
+- type: amended_by
+  target: pt:dre:667354:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:296230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681205:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667354:por
+  label: "Revogadas as disposições em contrário pelo DEC LEI.417/99.1999.10.21.MDN, DR.IS-A [246]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/417-1999-667354
+  date: '1999-10-21'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:22:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 204/72
+
+de 20 de junho
+
+A uniformização da situação do pessoal do corpo docente dos estabelecimentos de ensino secundário dependentes do Ministério do Exército foi já efectuada em relação ao Colégio Militar e Instituto Técnico Militar dos Pupilos do Exército pelo [Decreto-Lei n.º 46377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46377-1965-296230), de 11 de Junho de 1965, continuando o Instituto de Odivelas a reger-se fundamentalmente pelos Decretos n.os 32615, de 31 de Dezembro de 1942, 39919, de 22 de Novembro de 1954, e 40122, de 8 de Abril de 1955;
+
+Considerando da maior conveniência uniformizar a situação do pessoal do corpo docente dos estabelecimentos de ensino secundário dependentes do Ministério do Exército;
+
+Considerando as dificuldades actualmente existentes relativamente ao recrutamento das professoras para o Instituto de Odivelas;
+
+Tendo ainda em atenção as características especiais do Instituto de Odivelas;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º O recrutamento de professoras efectivas do Instituto de Odivelas, nomeação para o exercício dos respectivos cargos docentes, direitos, regalias e correspondentes deveres no desempenho das suas funções, e situação em que ficam perante o Ministério da Educação Nacional, passam a reger-se pelas seguintes disposições do [Decreto-Lei n.º 46377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46377-1965-296230), de 11 de Junho de 1965:
+
+a) Artigo 1.º, n.º 1 [alíneas b), c) e d)];
+
+b) Artigos 2.º, 3.º e 4.º;
+
+c) Artigo 6.º, n.º 2;
+
+d) Artigo 7.º, n.º 1, n.º 2 e n.º 3;
+
+e) Artigos 8.º, 9.º e 10.º
+
+Art. 2.º O recrutamento de professoras auxiliares ou agregadas de serviço eventual ou em comissão do Instituto de Odivelas, nomeação para o exercício dos respectivos cargos docentes, direitos, regalias e correspondentes deveres no desempenho das suas funções, e situação em que ficam perante o Ministério da Educação Nacional, passam a reger-se pelas seguintes disposições do [Decreto-Lei n.º 46377](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46377-1965-296230), de 11 de Junho de 1965:
+
+a) Artigo 5.º n.º 1 [alíneas b) e c)], n.º 2 e n.º 3;
+
+b) Artigo 6.º, n.º 3 e n.º 4;
+
+c) Artigo 7.º, n.º 1 e n.º 3;
+
+d) Artigos 8.º, 9.º e 10.º
+
+Art. 3.º Quando não haja professoras legalmente habilitadas para poderem ser providas no cargo de professoras de Desenho do Instituto de Odivelas, podem ser nomeadas professoras adjuntas, segundo a classificação do Estatuto do Ensino Profissional, diplomadas com o curso completo de Pintura, de Escultura ou de Arquitectura das escolas de belas-artes, com prática de ensino da especialidade em estabelecimento de ensino oficial, e com muito boas informações acerca da sua idoneidade pessoal e profissional.
+
+Art. 4.º Ficam revogados:
+
+a) O [Decreto n.º 39919](https://diariodarepublica.pt/dr/detalhe/decreto/39919-1954-681205), de 22 de Novembro de 1954;
+
+b) O [Decreto n.º 40122](https://diariodarepublica.pt/dr/detalhe/decreto/40122-1955-540261), de 8 de Abril de 1955.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - José Veiga Simão.
+
+Promulgado em 7 de Junho de 1972.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

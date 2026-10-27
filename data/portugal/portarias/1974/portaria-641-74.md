@@ -1,0 +1,225 @@
+---
+schema_version: '1.0'
+id: pt:dre:483416:por
+title: Portaria n.º 641/74
+short_title: null
+summary: Institui o regime cerealífero para vigorar no arquipélago dos Açores
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretarias de Estado da Agricultura e do Abastecimento e Preços
+proposing_entity: null
+official_number: 641/74
+official_date: null
+publication_date: '1974-10-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 232/1974, 3º Suplemento, Série I de 1974-10-04
+  number: '232'
+  series: I
+  supplement: null
+  pages: 1178-(7) a 1178-(8)
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23203/00070008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '483416'
+  dre_path: /dr/detalhe/portaria/641-1974-483416
+  internal: pt:dre:483416:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/641-1974-483416
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/641-1974-483416
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:32:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 07d1e43bcb09a51b12acc1e49d5e25a656b6bad3addc27d78ae08abbcf5675b0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Cereal
+- Preço
+- Produto a BASE de Cereais
+relationships:
+- type: cites
+  target: pt:dre:184207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633359:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:32:21Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 641/74
+
+de 4 de Outubro
+
+O regime instituído pelo presente diploma para o arquipélago dos Açores dispõe sobre as matérias não expressamente reguladas pelo [Decreto-Lei n.º 369/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1974-184224), de 19 de Agosto, e demais legislação complementar.
+
+Há que salientar, em relação ao anterior regime, que o Instituto dos Cereais passa a suportar os encargos com fretes marítimos pelo transporte de trigos de produção regional das ilhas onde não existam moagens para aquelas onde elas se situam.
+
+No que respeita a preços das farinhas, é estabelecido um sistema de compensação, de modo que a referida matéria-prima fique ao mesmo preço nas várias ilhas, evitando-se assim preços diferentes para o pão, o que sucedia no anterior regime.
+
+Tal como sucedeu no continente, não foi possível evitar o aumento do preço do pão, aliás, perfeitamente justificável, tendo em conta os agravamentos sensíveis das matérias-primas e dos combustíveis, bem como do nível dos salários.
+
+Deve notar-se, todavia, que o aumento que se verifica no preço do pão só não é mais elevado à custa de pesadas verbas a despender pelos fundos públicos.
+
+Com efeito, os encargos estimados com o trigo traduzir-se-ão em cerca de 11000 contos anuais.
+
+Relativamente ao milho e sorgo, a manterem-se os consumos verificados no último ano, os encargos a suportar serão da ordem de 68000 contos anuais.
+
+Nestes termos:
+
+Ao abrigo do disposto no artigo 33.º do [Decreto-Lei n.º 369/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1974-184224), de 19 de Agosto, e ainda nos artigos 19.º do Decreto-Lei n.º 45588, de 3 de Março de 1964, e 20.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965, obtido o visto prévio do Ministro das Finanças, nos termos do n.º 2 do artigo 2.º do [Decreto-Lei n.º 369/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1974-184224):
+
+Manda o Governo Provisório da República Portuguesa, pelos Secretários de Estado da Agricultura e do Abastecimento e Preços, o seguinte:
+
+Dos trigos
+
+1.º Os preços e demais condições de venda do trigo à indústria transformadora do arquipélago dos Açores pelo Instituto dos Cereais são os fixados para o continente.
+
+2.º Os trigos de produção regional das ilhas onde não existam moagens serão transportados por conta do Instituto dos Cereais até ao cais de desembarque da ilha onde se encontre localizada a moagem.
+
+3.º O Instituto dos Cereais pode promover a deslocação de trigo de produção local de um distrito para outro, sempre que as necessidades do abastecimento público, armazenagem ou conservação do cereal o recomendem, sem que de tal deslocação possa resultar agravamento do preço do trigo para a indústria de moagem.
+
+4.º As dúvidas ou divergências suscitadas em relação à qualidade, características e valor dos trigos serão resolvidas por uma comissão arbitral constituída pelos directores da Estação Agrária e do Laboratório Distrital e do delegado da Inspecção-Geral dos Produtos Agrícolas e Industriais, assistida por representantes do Instituto dos Cereais e da lavoura ou do industrial de moagem, consoante as entidades envolvidas na transacção.
+
+5.º A comissão arbitral referida no número anterior deverá pronunciar-se no prazo máximo de oito dias e da sua decisão haverá recurso para a direcção do Instituto dos Cereais.
+
+6.º As dúvidas ou divergências constituem fundamento de reclamação, mas não motivo de recusa do recebimento dos trigos.
+
+Das farinhas
+
+7.º A farinha espoada de trigo será a única fabricada pelas respectivas moagens e deve obedecer às características estabelecidas para a de 1.ª qualidade referida nos n.os 1, 2 e 3 do artigo 7.º do [Decreto-Lei n.º 369/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1974-184224), de 19 de Agosto.
+
+8.º O preço máximo de venda da farinha é de 6123$40 por tonelada em todas as ilhas do arquipélago.
+
+9.º As moagens pagarão ao Instituto dos Cereais a importância de 60$00 por tonelada de farinha, a qual se destina a compensar os encargos dos transportes das farinhas de uma para outras ilhas.
+
+10.º O Instituto dos Cereais atribuirá às moagens, de acordo com normas a estabelecer, uma margem de compensação pelo transporte de farinhas a que se refere o número anterior.
+
+11.º As fábricas de moagem são obrigadas a manter nos seus armazéns uma existência de farinha ensacada, etiquetada e selada correspondente ao consumo normal de quinze dias.
+
+12.º Nas ilhas onde não exista moagem, as fábricas encarregadas do respectivo abastecimento são obrigadas a manter em armazéns privativos uma existência de farinha ensacada, etiquetada e selada correspondente ao consumo normal de quinze dias, a qual, por determinação do Instituto dos Cereais, poderá, de acordo com as necessidades impostas pelas comunicações, ser elevada até à correspondente ao consumo normal de trinta dias.
+
+13.º Quando uma moagem não cumprir o disposto no número anterior, pode o Instituto dos Cereais promover o fornecimento de farinha através de outra moagem do arquipélago ou do continente, sem prejuízo de outro procedimento que a falta requeira.
+
+Do pão
+
+14.º O pão de farinha espoada de trigo será fabricado nas unidades e vendido aos preços máximos seguintes:
+
+De 50 g - $60 (12$00 por quilograma).
+
+De 200 g - 2$30 (11$50 por quilograma).
+
+De 400 g - 4$40 (11$00 por quilograma).
+
+De 800 g - 8$80 (11$00 por quilograma).
+
+15.º Na venda ao domicílio poderão acrescer aos preços máximos fixados no número anterior as seguintes importâncias:
+
+a) Por cada unidade de 50 g ... $10
+
+b) Por cada unidade de 200 g ... $30
+
+c) Por cada unidade de 400 g ... $50
+
+d) Por cada unidade de 800 g ... $50
+
+16.º A humidade do pão não pode exceder os seguintes valores:
+
+... Percentagens
+
+a) Unidades de 50 g ... 30
+
+b) Unidades de peso compreendido entre 200 g inclusive, até 333 g ... 33
+
+c) Unidades de peso superior a 333 g ... 38
+
+17.º Os tipos de pão referidos no n.º 14.º devem ter por peso nominal de cada unidade expresso e em gramas (m) o correspondente resíduo seco total a seguir indicado:
+
+0,70 m os para valores de m iguais ou inferiores a 50 g;
+
+0,67 m os para valores de m superiores a 50 g e iguais ou inferiores a 333 g;
+
+0,62 m para valores de m superiores a 333 g.
+
+Das massas alimentícias
+
+18.º As massas alimentícias comuns poderão ser fabricadas com a farinha a que se refere o n.º 7.º desta portaria.
+
+19.º Os preços de venda ao público, por quilograma, das massas comuns a que se refere o número anterior, contidas em embalagens de papel não inferior ao tipo kraft, são os seguintes:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/23203/00070008.pdf)
+
+20.º São permitidas embalagens de massas alimentícias de 5 kg e de 10 kg.
+
+Disposições gerais e transitórias
+
+21.º Os diferenciais de preços de cereais e farinhas resultantes da aplicação do presente diploma constituirão encargo ou receita do Fundo de Abastecimento.
+
+22.º Enquanto as fábricas de moagem não dispuserem da necessária capacidade de armazenagem, não se aplica nos Açores o disposto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 369/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1974-184224).
+
+23.º Não se aplicam no arquipélago dos Açores os prazos estabelecidos para a vigência dos preços fixados no artigo 28.º do [Decreto-Lei n.º 369/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1974-184224) e no n.º 1.º da [Portaria n.º 509/74](https://diariodarepublica.pt/dr/detalhe/portaria/509-1974-184207), de 19 de Agosto.
+
+24.º Fica o Instituto dos Cereais autorizado a proceder às diligências e ajustamentos necessários, em virtude da transição para o regime criado por esta portaria.
+
+25.º Ficam revogadas as Portarias n.os [571/71](https://diariodarepublica.pt/dr/detalhe/portaria/571-1971-633359) e [690/71](https://diariodarepublica.pt/dr/detalhe/portaria/690-1971-631979), respectivamente de 18 de Outubro e de 11 de Dezembro.
+
+26.º Esta portaria entra imediatamente em vigor.
+
+Secretarias de Estado da Agricultura e do Abastecimento e Preços, 26 de Setembro de 1974. - O Secretário de Estado da Agricultura, Alfredo Gonzalez Esteves Belo. - O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.

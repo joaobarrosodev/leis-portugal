@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:494269:por
+title: Resolução do Conselho de Ministros n.º 47/2009
+short_title: null
+summary: Autoriza a realização da despesa inerente à execução do programa de investigação de translação e de disseminação
+  de informação, a celebrar entre a Fundação para a Ciência e Tecnologia e a Harvard Medical School
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 47/2009
+official_date: null
+publication_date: '2009-06-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/2009, Série I de 2009-06-02
+  number: '106'
+  series: I
+  supplement: null
+  pages: 3426 - 3427
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/06/10600/0342603427.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/47/2009/06/02/p/dre/pt/html
+  oj: null
+  dre: '494269'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/47-2009-494269
+  internal: pt:dre:494269:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/47-2009-494269
+  metadata_url: https://data.dre.pt/eli/resolconsmin/47/2009/06/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/47-2009-494269
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:59:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ab0b86449f92dc80b79adf4d99ddf5ca7fe8965fb9f48c6136e732db23ec602e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:59:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização de Despesas
+- Conselho de Ministros
+- Contrato
+- Contrato de Cooperação
+- Delegação de Competências
+- EUA
+- Fundação para a Ciência e a Tecnologia
+- Governo XVII
+- Investigação Científica e Tecnológica
+- Medicina
+- Ministro da Ciência Tecnologia e Ensino Superior
+relationships:
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:59:19Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 47/2009
+
+Nos termos definidos no Programa do XVII Governo Constitucional e no seu compromisso com a ciência, a estratégia do Governo para promover a capacidade científica e tecnológica nacional tem envolvido um programa de parcerias internacionais de estímulo ao desenvolvimento e promoção de redes temáticas em ciência e tecnologia de âmbito e relevância internacional, facilitando vantagens comparativas para Portugal no espaço europeu e projectando internacionalmente as instituições científicas nacionais e a sua cooperação científica e tecnológica com instituições de reconhecido mérito, incluindo o Massachusetts Institute of Technology, a Universidade de Carnegie Mellon, a Universidade do Texas em Austin e a Sociedade Fraunhofer (Fraunhofer-Gesellschaft).
+
+O programa de parcerias internacionais tem sido promovido com especial atenção em temáticas de relevância científica e tecnológica para Portugal, designadamente temas associados a grandes investimentos públicos e privados, como os sistemas de engenharia, incluindo a bioengenharia, a energia, os transportes e os sistemas avançados de produção, as tecnologias de informação e comunicação, incluindo os conteúdos digitais interactivos, e a gestão, assim como formas de valorização económica de ciência e tecnologia e o desenvolvimento de novas empresas de base tecnológica.
+
+No decurso do ano de 2007, com base numa iniciativa do Ministério da Ciência, Tecnologia e Ensino Superior de Abril desse mesmo ano, a Harvard Medical School, da Universidade de Harvard, nos Estados Unidos da América elaborou um estudo sobre o potencial de cooperação com as escolas de medicina, os laboratórios associados e outros centros de investigação em Portugal, tendo esse procedimento sido seguido de um rigoroso planeamento sobre uma estratégia de cooperação, a qual incluiu as seguintes linhas de acção:
+
+Criar um programa de investigação para fortalecer a capacidade de produzir nova investigação clínica e de translação e conhecimentos clínicos com impacte na formação médica especializada e na prática clínica, com o objectivo de apoiar projectos de cariz inovador, orientados para a área da patologia humana;
+
+Lançar e dinamizar pós-graduações em Medicina, incluindo bolsas júnior e sénior de investigação clínica, para estimular o desenvolvimento da carreira de investigação para médicos;
+
+Produzir e publicar informação médica para o público em geral, bem como distribuir materiais pedagógicos junto de estudantes de Medicina e de profissionais do sector.
+
+A Harvard Medical School, da Universidade de Harvard, é uma das maiores e mais prestigiadas escolas de Medicina a nível mundial, tendo desenvolvido competências e um âmbito inédito a nível internacional para o desenvolvimento da investigação de translação e clínica, assim como para a criação e disponibilização de conteúdos médicos através da sua divisão de publicações (Harvard Health Publications Division), a qual conta com mais de 30 anos de experiência e reputação internacional na produção e divulgação de informação médica para estudantes, profissionais de medicina e o público em geral.
+
+O programa delineado insere-se no esforço em curso para estimular a investigação clínica em Portugal, sendo do maior interesse estratégico para modernizar e melhorar a qualidade do ensino da medicina em Portugal e a difusão de práticas de investigação de translação e clínica, assim como o alargamento da cooperação entre as escolas e faculdades de Medicina, laboratórios associados e instituições de I&D com actividade na área das ciências biomédicas e da saúde, de modo a que Portugal se posicione cada vez mais num nível verdadeiramente competitivo à escala internacional.
+
+O programa em apreço é também importante para estimular um maior conhecimento dos estudantes de medicina e de profissionais do sector sobre os desenvolvimentos científicos na área da saúde, assim como para facilitar a melhoria da compreensão do público em geral face a esses desenvolvimentos, de um modo que venha a facilitar o aumento de bem-estar das populações.
+
+Seguindo as melhores práticas internacionais em cooperação científica e tecnológica, o programa com a Harvard Medical School foi concebido de acordo com planos de actividade de âmbito plurianual e de financiamento competitivo, sujeitos a avaliações externas, independentes e periódicas.
+
+Considerando, ainda, que este programa está excepcionado da escolha do tipo de procedimento, nos termos da alínea e) do n.º 1 do artigo 77.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, e do artigo 16.º, n.º 1, do [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, que estabelecem o regime jurídico da realização de despesas públicas e aprova o Código dos Contratos Públicos, e que em face do montante envolvido a competência para autorizar a realização da respectiva despesa cabe ao Conselho de Ministros;
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a realização da despesa inerente à execução do programa de investigação de translação e de disseminação de informação, entre os anos de 2009 e 2016, nos montantes globais de (euro) 26 900 000, destinado às instituições nacionais, e de 20 400 000 dólares americanos, isto é cerca de (euro) 15 004 109,57, ao câmbio da presente data, destinados à Harvard Medical School, nos termos do anexo i à presente resolução, da qual faz parte integrante.
+
+2 - Autorizar a celebração do contrato relativo ao programa referido no número anterior entre a Fundação para a Ciência e Tecnologia e a Harvard Medical School, da Universidade de Harvard, nos Estados Unidos da América, intitulado «Harvard Medical School - Portugal program in translational research and information».
+
+3 - Delegar, com a faculdade de subdelegação, ao abrigo do disposto no artigo 109.º do Código dos Contratos Públicos, no Ministro da Ciência, Tecnologia e Ensino Superior a competência para aprovar a minuta do contrato do programa «Harvard Medical School - Portugal program in translational research and information».
+
+4 - Encarregar o Ministro da Ciência, Tecnologia e Ensino Superior de, por si ou através da Fundação para a Ciência e Tecnologia, acompanhar, monitorizar e avaliar a execução deste contrato.
+
+5 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 14 de Maio de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## ANEXO N.º 1 — TABELA N.º 1
+
+Plano de financiamento à Harvard Medical School no âmbito do programa
+
+Financiamento anual (milhões de dólares)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10600/0342603427.pdf)
+
+TABELA N.º 2
+
+Estimativa do financiamento destinado às instituições nacionais participantes no programa
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10600/0342603427.pdf)

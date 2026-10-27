@@ -1,0 +1,1072 @@
+---
+schema_version: '1.0'
+id: pt:dre:70095697:por
+title: Decreto-Lei n.º 171/2015
+short_title: null
+summary: Regulamenta e desenvolve o regime jurídico da identificação criminal, aprovado pela Lei n.º 37/2015, de 5 de maio
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 171/2015
+official_date: null
+publication_date: '2015-08-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 165/2015, Série I de 2015-08-25
+  number: '165'
+  series: I
+  supplement: null
+  pages: 6290 - 6300
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16500/0629006300.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-11'
+version_history:
+  file: decreto-lei-171-2015.versoes.json
+  count: 7
+  source_lastmod: '2025-06-03'
+  versions:
+  - date: '2015-08-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-06-17'
+    amending: pt:dre:107522250:por
+    amending_title: Decreto-Lei n.º 68/2017
+    changes:
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+  - date: '2019-01-01'
+    amending: pt:dre:116388437:por
+    amending_title: Decreto-Lei n.º 72/2018
+    changes:
+    - Altera Artigo 16.º
+  - date: '2019-09-17'
+    amending: pt:dre:124044666:por
+    amending_title: Decreto-Lei n.º 115/2019
+    changes:
+    - Adita Artigo 19.º-A
+    - Adita Artigo 25.º-A
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+    - Altera Artigo 35.º
+    - Altera Artigo 37.º
+  - date: '2022-10-31'
+    amending: pt:dre:186949306:por
+    amending_title: Lei n.º 14/2022
+    changes:
+    - Altera Artigo 19.º
+    - Altera Artigo 34.º
+    - Revoga Artigo 36.º
+  - date: '2024-01-28'
+    amending: pt:dre:835864043:por
+    amending_title: Decreto-Lei n.º 135/2023
+    changes:
+    - Altera Artigo 2.º
+  - date: '2025-03-11'
+    amending: pt:dre:910323298:por
+    amending_title: Decreto-Lei n.º 13-A/2025
+    changes:
+    - Altera Artigo 35.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/171/2015/p/cons/20250310/pt/html
+  oj: null
+  dre: '70095697'
+  dre_path: /dr/detalhe/decreto-lei/171-2015-70095697
+  internal: pt:dre:70095697:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2015-70095697
+  metadata_url: https://data.dre.pt/eli/dec-lei/171/2015/p/cons/20250310/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-107519623
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-107519623
+  retrieved_at: '2026-10-22T13:27:51Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-03T00:00:00Z'
+integrity:
+  source_sha256: 8aff7b4c84fbb888e766b2c15cd1e43ce40ae9962ead3e5efe0ec2439213f13c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:27:51Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-171-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Crime
+- Registo Criminal
+- Autoridade Central
+- Ficheiro Informático
+- CE Países
+- Cidadão Estrangeiro
+- Certificado do Registo Criminal
+- Cidadão Nacional
+- Identificação de Contumazes
+- Registo de Contumazes
+- Arguido
+- Decisão CE
+- Decisão Judicial
+- Regulamentação de Atos Legislativos
+- Jovem
+- Identificação Criminal
+- Contumaz
+- Base de Dados
+- Instituto de Gestão Financeira e Equipamentos da Justiça
+- Medida Tutelar Educativa
+- Países Terceiros
+- Pessoa Coletiva
+- Pessoa Singular
+- Sistema de Informação
+- Confidencialidade
+- Direcção Geral da Administração da Justiça
+- Contumácia
+- Dados Pessoais
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:107522250:por
+  label: Altera Artigo 21.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250
+  date: '2017-06-16'
+- type: amended_by
+  target: pt:dre:116388437:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2018-116388437
+  date: '2018-09-12'
+- type: amended_by
+  target: pt:dre:124044666:por
+  label: Adita Artigo 19.º-A; Adita Artigo 25.º-A; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 19.º; Altera Artigo
+    20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo
+    26.º; Altera Artigo 27.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo 32.º; Altera Artigo 35.º; Altera Artigo
+    37.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666
+  date: '2019-08-20'
+- type: amended_by
+  target: pt:dre:186949306:por
+  label: Altera Artigo 19.º; Altera Artigo 34.º; Revoga Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306
+  date: '2022-08-02'
+- type: amended_by
+  target: pt:dre:835864043:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2023-835864043
+  date: '2023-12-29'
+- type: amended_by
+  target: pt:dre:910323298:por
+  label: Altera Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298
+  date: '2025-03-10'
+- type: cites
+  target: celex:32009D0315
+  label: null
+  source: http://data.europa.eu/eli/dec/2009/315/oj
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217324:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/381/1998/11/27/p/d
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/73/2014/05/13/p/dre
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29/2000/03/13/p/dre
+- type: cites
+  target: pt:dre:437236:por
+  label: null
+  source: http://data.dre.pt/eli/lei/57/1998/08/18/p/dre
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/135/1999/04/22/p/dre
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/72-a/2010/06/18/p/dre
+- type: cites
+  target: pt:dre:570567:por
+  label: null
+  source: http://data.dre.pt/eli/lei/166/1999/09/14/p/dre
+- type: cites
+  target: pt:dre:66195397:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2015/01/15/p/dre
+- type: cites
+  target: pt:dre:67142147:por
+  label: null
+  source: http://data.dre.pt/eli/lei/37/2015/05/05/p/dre
+article_structure:
+  article_count: 40
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:27:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 171/2015
+
+Decreto-Lei n.º 171/2015
+
+de 25 de agosto
+
+A Lei n.º 37/2015, de 5 de maio, estabelece o regime jurídico da identificação criminal e transpõe para a ordem jurídica interna a Decisão-Quadro n.º 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009, relativa à organização e ao conteúdo do intercâmbio de informações extraídas do registo criminal entre os Estados-Membros, revogando o anterior diploma legislativo enquadrador da matéria, a Lei n.º 57/98, de 18 de agosto.
+
+Tendo por objeto regulamentar e desenvolver os referidos princípios gerais da organização e do funcionamento da identificação criminal, pretende-se, com o presente decreto-lei, concentrar num único diploma todas as normas necessárias a uma tal regulamentação, estabelecendo as regras relativas à transmissão da informação aos serviços de identificação criminal, à organização do sistema de informação de suporte ao registo dessa informação e à concretização do acesso à mesma por quem possua legitimidade para tal.
+
+Do mesmo modo elencam-se no presente decreto-lei todos os dados que devem constar em registo para a adequada prossecução das atribuições definidas, consagrando-se claramente o direito de acesso pelas pessoas singulares ou coletivas aos dados que lhes respeitem e estabelecendo-se a lista de medidas a adotar com o propósito de garantir a segurança da informação em registo.
+
+Consagra-se no presente decreto-lei o Sistema de Informação de Identificação Criminal (SICRIM) como o sistema informatizado de suporte ao funcionamento dos serviços, nele se concretizando as regras de organização dos diversos registos que a lei estabelece.
+
+É dado um particular ênfase à necessidade de que os dados de identificação dos titulares de registo sejam sempre os mais corretos e atuais, visando-se alcançar o mais elevado grau de fidedignidade possível desta informação, para que a informação recebida sobre uma mesma pessoa possa ser sempre registada como tal, ainda que obtida sob identificações diversas.
+
+Quanto mais rigorosa for esta atividade de identificação dos titulares da informação registada, mais fiável é a informação prestada aos diversos operadores e melhor garantidos ficam os direitos individuais dos cidadãos.
+
+Assim, consagra-se no presente decreto-lei a necessidade de validação dos dados de identificação transmitidos aos serviços de identificação criminal em ficheiros informáticos de outras entidades públicas com atribuições nesta matéria, estabelecendo-se que os serviços de identificação criminal devem promover o permanente esclarecimento dos elementos relevantes na matéria junto dos próprios titulares da informação, de autoridades judiciárias ou policiais, ou de outros serviços responsáveis pela identificação de cidadãos e determinando-se que a informação transmitida aos diversos registos pelas entidades competentes não seja recebida se não permitir a identificação inequívoca da pessoa a que respeita.
+
+A transmissão da informação sobre antecedentes criminais entre Estados-Membros da União Europeia, regulada pela Decisão-Quadro n.º 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009, fica agora pormenorizadamente regulada no ordenamento jurídico português, viabilizando não só o acesso à informação sobre as condenações criminais de cidadãos nacionais proferidas por qualquer Tribunal de um Estado-Membro da União Europeia, como também à informação sobre os antecedentes criminais dos cidadãos nacionais de outros Estados-Membros que sejam arguidos em processos criminais instaurados em Portugal.
+
+O acesso à informação concretiza-se no presente decreto-lei mediante a obtenção de um certificado, em regra por via eletrónica, através de portal ou plataforma eletrónica, ou mediante utilização de webservices especificamente implementados para esse efeito por entidades públicas com legitimidade para acederem à informação, precedendo autorização do diretor-geral da Administração da Justiça.
+
+Garante-se, desta forma, a facilidade e a celeridade na resposta aos pedidos de informação por parte das entidades públicas e dos particulares que dela necessitam, sem prejuízo de se acautelar a emissão de certificados em certas situações específicas em que aquelas soluções se não revelem adequadas.
+
+Foram ouvidos a Comissão Nacional de Proteção de Dados, a Câmara dos Solicitadores, o Conselho Superior do Ministério Público, o Conselho Superior da Magistratura e a Ordem dos Advogados.
+
+Foi promovida a audição do Sindicato dos Magistrados do Ministério Público, do Conselho Superior dos Tribunais Administrativos e Fiscais, do Conselho dos Oficiais de Justiça, do Sindicato dos Funcionários Judiciais, do Sindicato dos Oficiais de Justiça, da Associação Sindical dos Juízes Portugueses, do Conselho Distrital de Lisboa da Ordem dos Advogados, do Conselho Distrital dos Açores da Ordem dos Advogados, do Conselho Distrital de Coimbra da Ordem dos Advogados, do Conselho Distrital de Évora da Ordem dos Advogados, do Conselho Distrital de Faro da Ordem dos Advogados, do Conselho Distrital da Madeira da Ordem dos Advogados e do Conselho Distrital do Porto da Ordem dos Advogados.
+
+Assim:
+
+Ao abrigo do disposto no artigo 45.º da Lei n.º 37/2015, de 5 de maio, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei regulamenta e desenvolve o regime jurídico da identificação criminal, aprovado pela Lei n.º 37/2015, de 5 de maio, e o regime jurídico do registo das medidas tutelares educativas, previsto na Lei Tutelar Educativa, aprovada pela Lei n.º 166/99, de 14 de setembro, alterada pela Lei n.º 4/2015, de 15 de janeiro.
+
+###### Artigo 2.º — Sistema de Informação de Identificação Criminal
+
+1 - O Sistema de Informação de Identificação Criminal (SICRIM) é o ficheiro central informatizado que reúne a informação relativa aos registos a cargo dos serviços de identificação criminal, com a finalidade de organizar e manter atualizada a identificação dos titulares de registos e toda a informação registral a estes respeitante que deva permanecer em registo nos termos da lei da identificação criminal, da Lei Tutelar Educativa, aprovada pela Lei n.º 166/99, de 14 de setembro, alterada pela Lei n.º 4/2015, de 15 de janeiro, e do presente decreto-lei.
+
+2 - O SICRIM contém os dados de identificação dos titulares de registos mantidos no sistema nos termos da lei e a informação dos registos respeitantes a cada um deles, organizada separadamente por registo.
+
+3 - Os ficheiros informáticos do SICRIM estão localizados em servidores da responsabilidade do Ministério Justiça, competindo ao Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., prestar o apoio técnico necessário ao funcionamento do sistema de informação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2023-835864043), em vigor a partir de 2024-01-28
+
+###### Artigo 3.º — Organização dos ficheiros informáticos
+
+1 - A organização e o funcionamento do SICRIM são da responsabilidade da Direção-Geral da Administração da Justiça, através dos serviços de identificação criminal.
+
+2 - São serviços de identificação criminal os serviços da Direção-Geral da Administração da Justiça a quem, na respetiva estrutura nuclear, estejam cometidas as competências necessárias à prossecução da atribuição de assegurar a identificação criminal.
+
+3 - Compete aos serviços de identificação criminal:
+
+a) Assegurar a recolha, o tratamento e a conservação dos elementos de informação sujeitos a inscrição nos registos que a lei comete a seu cargo, promovendo a identificação dos titulares da informação registada;
+
+b) Assegurar a concretização das formas de acesso à informação previstas na lei;
+
+c) Assegurar a eliminação da informação cancelada dos registos que não possam ser mantidos em ficheiro nos termos da lei, bem como a seleção da informação que deva ser preservada;
+
+d) Coordenar funcionalmente a ação dos serviços autorizados a intervir no processo de emissão de certificados nos termos do presente decreto-lei, transmitindo as instruções de ordem interna relativas à receção e verificação de documentos, ao controlo de dados, à cobrança das taxas devidas e aos demais procedimentos necessários;
+
+e) Exercer as competências inerentes à qualidade de autoridade central portuguesa para efeitos do cumprimento das obrigações previstas na Decisão-Quadro n.º 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009;
+
+f) Exercer as demais competências que a legislação reguladora da identificação criminal lhes comete.
+
+### Capítulo II — Identificação dos titulares de registos
+
+###### Artigo 4.º — Identificação dos titulares de registos
+
+1 - A cada titular de informação em registo é atribuído um registo onomástico, comum a todos os registos que existam no sistema relativamente ao mesmo titular, no qual são registados os elementos de identificação comunicados pelos tribunais e pelas demais entidades remetentes da informação ou recolhidos pelos serviços de identificação criminal relativamente a esse titular.
+
+2 - Os dados de identificação comunicados são validados, sempre que possível, através de consulta em linha:
+
+a) À base de dados de identificação civil do Instituto dos Registos e do Notariado, I.P.;
+
+b) Ao Sistema Integrado de Informação do Serviço de Estrangeiros e Fronteiras, na medida estritamente necessária à validação em causa;
+
+c) Ao ficheiro central de pessoas coletivas do Registo Nacional de Pessoas Coletivas, tratando-se de pessoas coletivas ou entidades equiparadas.
+
+3 - Os serviços de identificação criminal promovem a recolha dos elementos de identificação necessários ao esclarecimento inequívoco e permanente da identificação dos titulares de registo, nomeadamente junto dos próprios, de autoridades judiciárias ou policiais, de outros serviços responsáveis pela identificação de cidadãos ou de autoridades centrais de outros Estados-Membros.
+
+4 - Sem prejuízo do disposto no número anterior, compete ao Ministério Público e às demais autoridades judiciárias competentes no processo diligenciar no sentido de fazer constar dos autos os elementos necessários à identificação do arguido.
+
+###### Artigo 5.º — Dados de identificação objeto de registo
+
+1 - São registados os seguintes dados de identificação comunicados ou recolhidos relativamente a cada pessoa singular titular de registo:
+
+a) Nome completo;
+
+b) Filiação;
+
+c) Naturalidade;
+
+d) Data de nascimento;
+
+e) Nacionalidade;
+
+f) Sexo;
+
+g) Estado civil;
+
+h) Número de identificação civil;
+
+i) Moradas.
+
+2 - Tratando-se de pessoa coletiva, ou entidade equiparada, são registados os seguintes dados de identificação comunicados ou recolhidos relativamente a cada titular:
+
+a) Denominação;
+
+b) Sede;
+
+c) Data da constituição;
+
+d) Número de identificação de pessoa coletiva;
+
+e) Natureza jurídica;
+
+f) Situação jurídica;
+
+g) Códigos de atividade.
+
+3 - Além dos dados referidos nos números anteriores, constam do registo onomástico de cada titular os seguintes dados, quando aplicáveis:
+
+a) Todos os dados previstos nos números anteriores, comunicados ou recolhidos relativamente ao mesmo titular, diferentes dos que constam no registo onomástico como identificação principal do arguido;
+
+b) Número, tipo e imagens digitalizadas dos documentos de identificação;
+
+c) Número de registo onomástico;
+
+d) Número de identificação onomástico, na ausência de número de identificação civil;
+
+e) Indicador da existência de impressões digitais;
+
+f) Indicador de falecimento, respetiva data de ocorrência e referência ao número do assento de óbito;
+
+g) Indicador de extinção de pessoa coletiva ou entidade equiparada e, resultando a extinção de fusão ou cisão, dados de identificação das pessoas coletivas ou entidades equiparadas que tiverem resultado da cisão ou em que a fusão se tiver efetivado;
+
+h) Data de criação do registo onomástico;
+
+i) Estado do registo onomástico;
+
+j) Data de cancelamento do registo onomástico;
+
+k) Data estimada de eliminação do registo onomástico;
+
+l) Data da criação de cada registo relativo ao titular mantido no SICRIM;
+
+m) Estado de cada registo relativo ao titular mantido no SICRIM;
+
+n) Data estimada de cancelamento de cada registo relativo ao titular mantido no SICRIM;
+
+o) Data de cancelamento de cada registo relativo ao titular mantido no SICRIM;
+
+p) Data de unificação ou separação de registo onomástico;
+
+q) Data estimada de eliminação de cada registo relativo ao titular mantido no SICRIM;
+
+r) Data de eliminação de cada registo relativo ao titular mantido no SICRIM.
+
+### Capítulo III — Informação sujeita a inscrição nos registos
+
+###### Artigo 6.º — Dados sujeitos a comunicação aos serviços de identificação criminal
+
+1 - Os dados a comunicar pelos tribunais portugueses relativamente às decisões sujeitas a inscrição no registo criminal, no registo de contumazes, no registo de medidas tutelares educativas e no ficheiro dactiloscópico de arguidos condenados, bem como à identificação da pessoa a que respeitam, são os que, constando dos autos, estejam abrangidos pelo elenco de dados registáveis definido na Lei n.º 37/2015, de 5 de maio, ou na Lei Tutelar Educativa, aprovada pela Lei n.º 166/99, de 14 de setembro, alterada pela Lei n.º 4/2015, de 15 de janeiro, e no presente decreto-lei.
+
+2 - Os elementos a comunicar pelas autoridades centrais estrangeiras relativamente às decisões condenatórias e demais decisões subsequentes proferidas por tribunais de Estados-Membros da União Europeia que devam ser comunicadas a Portugal nos termos da Decisão-Quadro n.º 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009, são os que como tal são referidos nesta Decisão-Quadro.
+
+###### Artigo 7.º — Informação sujeita a inscrição no registo criminal
+
+1 - Está sujeita a inscrição no registo criminal a seguinte informação comunicada pelos tribunais portugueses e pelas autoridades centrais ou entidades competentes dos Estados a que se referem os capítulos V e VI da Lei n.º 37/2015, de 5 de maio, e o presente decreto-lei:
+
+a) Identificação do tribunal que proferiu a decisão, ou onde corre os seus termos o processo a que se reporta a informação transmitida;
+
+b) Número do processo;
+
+c) Números anteriores do processo;
+
+d) Forma do processo;
+
+e) Conteúdo da decisão;
+
+f) Data e forma da decisão;
+
+g) Tipo de crime e disposições legais aplicadas;
+
+h) Números de identificação de processos abrangidos por decisão que aplique a pena em caso de concurso de crimes;
+
+i) Penas ou medidas de segurança aplicadas;
+
+j) Data e local da prática do crime;
+
+k) Data do trânsito em julgado da decisão;
+
+l) Data da extinção da pena ou da medida de segurança;
+
+m) Causa da extinção da pena ou da medida de segurança;
+
+n) Data de extinção da pessoa coletiva arguida;
+
+o) Data da transmissão da informação aos serviços de identificação criminal;
+
+p) Identificação do responsável pela transmissão da informação.
+
+2 - Além da informação referida no número anterior, constam do registo criminal os seguintes dados relativos ao registo criminal do titular, ou a cada comunicação constante deste registo, quando aplicáveis:
+
+a) Data de criação do registo criminal;
+
+b) Estado do registo criminal e de cada comunicação constante deste registo;
+
+c) Data de inserção no SICRIM da informação recebida;
+
+d) Data de devolução de informação recebida;
+
+e) Data de registo da informação recebida no registo criminal;
+
+f) Data estimada de cancelamento do registo criminal;
+
+g) Data estimada de extinção das penas ou das medidas de segurança aplicadas;
+
+h) Data de cancelamento do registo criminal e de cada comunicação constante deste registo;
+
+i) Data estimada de eliminação do registo criminal;
+
+j) Indicação do país e autoridade central remetentes da informação recebida do estrangeiro;
+
+k) Indicador da inibição de obtenção de certificado do registo criminal por contumácia.
+
+###### Artigo 8.º — Informação sujeita a inscrição no registo de contumazes
+
+1 - Está sujeita a inscrição no registo de contumazes a seguinte informação comunicada pelos tribunais:
+
+a) Identificação do tribunal que proferiu as decisões de declaração e cessação da contumácia;
+
+b) Número do processo;
+
+c) Números anteriores do processo;
+
+d) Data das decisões e fase processual em que foram proferidas;
+
+e) Efeitos especiais da declaração de contumácia;
+
+f) Motivo da cessação da contumácia;
+
+g) Data do trânsito em julgado das decisões;
+
+h) Data da transmissão da informação aos serviços de identificação criminal;
+
+i) Identificação do responsável pela transmissão da informação.
+
+2 - Além da informação referida no número anterior constam do registo de contumazes os seguintes dados relativos ao registo de contumaz do titular ou a cada comunicação constante deste registo, quando aplicáveis:
+
+a) Data de criação do registo de contumaz;
+
+b) Estado do registo de contumaz e de cada comunicação constante deste registo;
+
+c) Data de inserção no SICRIM da informação recebida;
+
+d) Data de devolução de informação recebida;
+
+e) Data de registo da informação recebida no registo de contumaz;
+
+f) Data de cancelamento do registo de contumaz e de cada comunicação constante deste registo;
+
+g) Data estimada de eliminação do registo de contumaz.
+
+###### Artigo 9.º — Informação sujeita a inscrição no registo de medidas tutelares educativas
+
+1 - Está sujeita a inscrição no registo de medidas tutelares educativas a seguinte informação comunicada pelos tribunais:
+
+a) Identificação do tribunal que proferiu a decisão, ou onde corre os seus termos o processo a que se reporta a informação transmitida;
+
+b) Número do processo;
+
+c) Números anteriores do processo;
+
+d) Conteúdo da decisão;
+
+e) Data e forma da decisão;
+
+f) Factos imputados ao jovem e disposições legais aplicadas;
+
+g) Medidas tutelares educativas aplicadas;
+
+h) Data do trânsito em julgado da decisão;
+
+i) Data da extinção da medida tutelar educativa aplicada;
+
+j) Causa da extinção da medida tutelar educativa aplicada;
+
+k) Data da transmissão da informação aos serviços de identificação criminal;
+
+l) Identificação do responsável pela transmissão da informação.
+
+2 - Além da informação referida no número anterior constam do registo de medidas tutelares educativas os seguintes dados relativos ao registo do titular ou a cada comunicação constante deste registo, quando aplicáveis:
+
+a) Data de criação do registo de medidas tutelares educativas;
+
+b) Estado do registo de medidas tutelares educativas e de cada comunicação constante deste registo;
+
+c) Data de inserção no SICRIM da informação recebida;
+
+d) Data de devolução de informação recebida;
+
+e) Data de registo da informação recebida no registo de medidas tutelares educativas;
+
+f) Data estimada de cancelamento do registo de medidas tutelares educativas;
+
+g) Data estimada de extinção da medida tutelar educativa aplicada;
+
+h) Data de cancelamento do registo de medidas tutelares educativas;
+
+i) Data estimada de eliminação do registo de medidas tutelares educativas;
+
+j) Indicador da inibição de obtenção de certificado do registo de medidas tutelares educativas por contumácia.
+
+###### Artigo 10.º — Informação sujeita a inscrição no registo especial de decisões estrangeiras
+
+1 - Está sujeita a inscrição no registo especial de decisões estrangeiras toda a informação mencionada no n.º 1 do artigo 7.º que seja comunicada pelas autoridades centrais de Estados-Membros da União Europeia nos termos da Decisão-Quadro n.º 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009.
+
+2 - Está ainda sujeita a inscrição no registo especial de decisões estrangeiras a seguinte informação comunicada pelas autoridades centrais referidas no número anterior:
+
+a) Impressões digitais do arguido;
+
+b) Pseudónimos ou alcunhas do arguido;
+
+c) Outras informações sobre a condenação inscritas no registo criminal do Estado-Membro remetente;
+
+d) Comunicação de que as informações sobre as condenações pronunciadas não podem ser retransmitidas a outros Estados-Membros para outros fins que não um processo penal.
+
+3 - Além da informação referida nos números anteriores, constam do registo especial de decisões estrangeiras os seguintes dados relativos ao registo do titular ou a cada comunicação constante deste registo, quando aplicáveis:
+
+a) Data de criação do registo especial de decisões estrangeiras;
+
+b) Estado do registo especial de decisões estrangeiras e de cada comunicação constante deste registo;
+
+c) Indicação do país e autoridade central remetentes da informação;
+
+d) Data de inserção no SICRIM da informação recebida;
+
+e) Data de devolução de informação recebida;
+
+f) Data do registo da informação recebida no registo especial de decisões estrangeiras;
+
+g) Data estimada de cancelamento do registo especial de decisões estrangeiras e de cada comunicação constante deste registo;
+
+h) Data estimada de eliminação do registo especial de decisões estrangeiras.
+
+###### Artigo 11.º — Informação sujeita a inscrição no ficheiro dactiloscópico de arguidos condenados
+
+1 - Está sujeita a inscrição no ficheiro dactiloscópico de arguidos condenados a seguinte informação comunicada pelos tribunais portugueses e pelas autoridades centrais ou entidades competentes dos Estados a que se referem os capítulos V e VI da Lei n.º 37/2015, de 5 de maio, e o presente decreto-lei:
+
+a) Impressões digitais recolhidas aos arguidos condenados;
+
+b) Assinatura recolhida ao arguido condenado;
+
+c) Indicação do tribunal e do processo em que hajam sido recolhidas.
+
+2 - Além da informação referida no número anterior, constam do ficheiro dactiloscópico de cada titular os seguintes dados relativos ao seu registo ou a cada comunicação constante do registo, quando aplicáveis:
+
+a) Data de criação do registo;
+
+b) Estado do registo e de cada comunicação constante deste registo;
+
+c) Data de inserção no SICRIM da informação recebida;
+
+d) Data de devolução de informação recebida;
+
+e) Data do registo no SICRIM da informação recebida;
+
+f) Data estimada de cancelamento do registo;
+
+g) Data de cancelamento do registo;
+
+h) Data estimada de eliminação do registo.
+
+### Capítulo IV — Transmissão da informação aos serviços de identificação criminal
+
+###### Artigo 12.º — Transmissão de informação aos serviços de identificação criminal pelos tribunais portugueses
+
+1 - Os tribunais portugueses comunicam aos serviços de identificação criminal os elementos relativos às decisões sujeitas, nos termos da lei, a inscrição no registo criminal, no registo de contumazes, no registo de medidas tutelares educativas e no ficheiro dactiloscópico de arguidos condenados, por ligação eletrónica direta entre o sistema de gestão processual dos tribunais e o SICRIM, mediante formatos eletrónicos normalizados, disponibilizados pelos serviços de identificação criminal e pelo Instituto de Gestão Financeira e Equipamentos da Justiça, I.P..
+
+2 - A comunicação prevista no número anterior deve efetuar-se logo após o trânsito em julgado da decisão, sem prejuízo da oportuna recolha das impressões digitais e da assinatura do arguido imediatamente após o encerramento da audiência de julgamento.
+
+3 - Na eventualidade de vir a ser proferida, em sede de recurso, uma decisão transitada em julgado que absolva o arguido de todas as acusações contra si formuladas no processo, o documento no qual tenham sido oportunamente recolhidas as impressões digitais e a assinatura do arguido é destruído de imediato.
+
+4 - As comunicações eletrónicas efetuadas pelos tribunais aos serviços de identificação criminal são por estes devolvidas se não permitirem a identificação inequívoca da pessoa a que respeitam, se não incluírem todos os elementos necessários ao registo da decisão em causa ou se contiverem elementos incorretos ou contraditórios, devendo o fundamento da devolução ser comunicado aos tribunais.
+
+5 - As comunicações eletrónicas aceites pelos serviços de identificação criminal são registadas no SICRIM e este registo é objeto de confirmação ao tribunal remetente.
+
+6 - Compete aos responsáveis pelas unidades de processo garantir a oportuna efetivação das comunicações a que se referem os n.os 1 e 2, bem como a verificação regular da inexistência no processo de comunicações ao SICRIM cujo registo não haja sido confirmado pelos serviços de identificação criminal, ou que hajam sido devolvidas, devendo ser promovida a regularização das situações detetadas.
+
+###### Artigo 13.º — Transmissão de informação aos serviços de identificação criminal pelas autoridades centrais de outros Estados-Membros
+
+1 - As decisões condenatórias e demais decisões subsequentes proferidas por tribunais de Estados-Membros da União Europeia que devam ser comunicadas a Portugal nos termos da Decisão-Quadro n.º 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009, são comunicadas aos serviços de identificação criminal pelas autoridades centrais desses Estados-Membros por via eletrónica, através do Sistema Europeu de Informação sobre Registos Criminais ou, não sendo tal possível, por qualquer meio suscetível de deixar registo escrito e em condições que permitam aos serviços de identificação criminal comprovar a sua autenticidade.
+
+2 - São devolvidas pelos serviços de identificação criminal as comunicações que não permitam a identificação inequívoca da pessoa a que respeitam, que não incluam todos os elementos necessários ao registo da decisão em causa ou que contenham elementos incorretos ou contraditórios.
+
+3 - As comunicações eletrónicas aceites pelos serviços de identificação criminal são objeto de confirmação à autoridade remetente logo após o respetivo registo no SICRIM.
+
+###### Artigo 14.º — Transmissão de informação aos serviços de identificação criminal nos termos de convenção ou acordo internacional
+
+1 - As decisões condenatórias e demais decisões proferidas por tribunais de Estados que não sejam membros da União Europeia são comunicadas aos serviços de identificação criminal nos termos estabelecidos em convenção ou acordo internacional.
+
+2 - São devolvidas pelos serviços de identificação criminal as comunicações que não permitam a identificação inequívoca da pessoa a que respeitam, que não possuam os requisitos impostos pela lei de identificação criminal para a respetiva inscrição no registo criminal, que não incluam todos os elementos necessários a essa inscrição no registo criminal ou que contenham elementos incorretos ou contraditórios.
+
+3 - As comunicações aceites pelos serviços de identificação criminal são registadas no SICRIM.
+
+### Capítulo V — Acesso à informação em registo
+
+###### Artigo 15.º — Concretização do acesso à informação
+
+1 - O acesso à informação em registo concretiza-se com a emissão de um certificado do registo a que o pedido respeite.
+
+2 - A emissão de um certificado ocorre:
+
+a) Quando é solicitada por entidade habilitada a aceder à informação nos termos da lei de identificação criminal;
+
+b) Quando seja pedido um código de acesso ao registo criminal ou ao registo de contumazes pelo próprio titular, ou por um seu representante com legitimidade nos termos da lei de identificação criminal;
+
+c) Em cada acesso à informação por quem detenha um código de acesso ao registo criminal ou ao registo de contumazes e o utilize no decurso do respetivo período de vigência;
+
+d) Sempre que seja solicitada por quem possua legitimidade para tal nos termos da lei de identificação criminal.
+
+3 - Os certificados cuja emissão não resulte da utilização de um código de acesso têm um prazo de validade de três meses a contar da data da sua emissão.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+> Retificado pelo/a [Declaração de Retificação n.º 44/2015 - Diário da República n.º 191/2015, Série I de 2015-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2015-70411877), produz efeitos a partir de 2015-08-30
+
+###### Artigo 16.º — Acesso à informação por entidades legalmente habilitadas
+
+1 - As entidades legalmente habilitadas a acederem à informação em registo solicitam a emissão de um certificado e obtêm-no através de portal ou de plataforma eletrónica disponibilizados para o efeito pelos serviços de identificação criminal, ou mediante consulta em linha com utilização de webservices especificamente implementados para esse efeito, precedendo autorização do diretor-geral da Administração da Justiça.
+
+2 - O acesso ao portal, ou a utilização do webservice, apenas pode ser efetuado por utilizador vinculado à entidade legalmente habilitada a quem haja sido atribuído um nome de utilizador e uma palavra-chave.
+
+3 - O acesso a que se refere a alínea a) do n.º 2 do artigo 8.º da Lei n.º 37/2015, de 5 de maio, salvo indicação em contrário, pode também ser exercido pelos oficiais de justiça das unidades orgânicas onde sejam tramitados os processos que se visam instruir.
+
+4 - As autoridades centrais de Estados-Membros da União Europeia solicitam a emissão de certificados utilizando o Sistema Europeu de Informação sobre Registos Criminais, através da rede de comunicações segura definida pela Comissão Europeia.
+
+5 - Em casos excecionais, designadamente de inoperacionalidade temporária de sistema informático de suporte, pode ser autorizada pelos serviços de identificação criminal a emissão de certificados solicitada por entidades legalmente habilitadas por qualquer outra via suscetível de deixar registo escrito e que permita comprovar a respetiva autenticidade.
+
+6 - O certificado emitido nos termos dos números anteriores certifica o conteúdo, ou a ausência de conteúdo, do registo em causa relativamente à pessoa nele identificada, de acordo com o que a lei de identificação criminal dispõe para a finalidade a que o certificado se destine, com referência à data e hora da emissão.
+
+7 - O acesso à informação do registo criminal pelo Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., é efetuado mediante consulta em linha, através de webservice, nos termos do n.º 1, relativamente a todos os inscritos no Portal dos Fornecedores do Estado de que seja necessária informação, apenas sendo emitido certificado do registo criminal no caso de dever ser certificada informação vigente neste registo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 72/2018 - Diário da República n.º 176/2018, Série I de 2018-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2018-116388437), em vigor a partir de 2019-01-01
+
+> Retificado pelo/a [Declaração de Retificação n.º 44/2015 - Diário da República n.º 191/2015, Série I de 2015-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2015-70411877), produz efeitos a partir de 2015-08-30
+
+###### Artigo 17.º — Termos do acesso à informação por entidades legalmente habilitadas
+
+1 - Os pedidos de emissão de certificado a que se refere o artigo anterior devem mencionar:
+
+a) A identificação da entidade que formula o pedido;
+
+b) O tipo de certificado pedido;
+
+c) Os dados de identificação da pessoa de quem é pedido o certificado;
+
+d) A finalidade a que se destina o certificado;
+
+e) O tipo e, se for o caso, o número do processo que se visa instruir.
+
+2 - Tratando-se de pedido de emissão de certificado formulado por entidade pública para cumprimento de exigência legal de apresentação de certificado do registo criminal em procedimento administrativo é, ainda, obrigatória a declaração de que a pessoa de quem é pedida informação autorizou previamente o acesso, podendo os serviços de identificação criminal exigir cópia da autorização.
+
+3 - O pedido de emissão de certificado é fundamentadamente devolvido pelos serviços de identificação criminal se faltar algum dos elementos referidos nos números anteriores, ou se os dados de identificação comunicados não permitirem a identificação inequívoca da pessoa de quem é pedida informação.
+
+###### Artigo 18.º — Informação sobre contumácia
+
+Estando em causa a necessidade de conhecimento da informação constante do registo de contumazes por entidades públicas a quem incumba assegurar a execução dos efeitos da contumácia, pode ser autorizado pelos serviços de identificação criminal o estabelecimento de uma ligação em linha que permita sinalizar automaticamente àquela entidade a existência de um registo de contumaz vigente, para efeitos de impedimento da prática de quaisquer atos relativos a cidadão contumaz.
+
+###### Artigo 19.º — Acesso à informação pelo titular da informação ou por seu representante
+
+1 - O pedido de um código de acesso ao registo criminal ou ao registo de contumazes de pessoa singular é efetuado pessoalmente pelo próprio titular da informação, ou por um seu representante com legitimidade para o efeito nos termos da lei de identificação criminal.
+
+2 - O pedido de um código de acesso ao registo criminal ou ao registo de contumazes de pessoa coletiva ou entidade equiparada é efetuado pessoalmente por um seu representante legal, ou por um terceiro autorizado por escrito por um representante legal.
+
+3 - Os pedidos referidos nos números anteriores podem, também, ser formulados pelo próprio titular da informação ou por um representante legal de pessoa coletiva ou entidade equiparada através de plataforma eletrónica, gerida pelo Ministério da Justiça, acessível nomeadamente através do Portal ePortugal.
+
+4 - O código de acesso ao registo criminal ou ao registo de contumazes é facultado em certificado do registo emitido quando do pedido, identifica o respetivo titular e a finalidade a que o acesso se destina, e permite o acesso à informação em registo para essa finalidade durante o respetivo período de vigência, escolhido pelo requerente, até ao limite máximo de um ano.
+
+5 - Os certificados emitidos nos termos dos números anteriores certificam o conteúdo, ou a ausência de conteúdo, do registo em causa relativamente ao seu titular, de acordo com o que a lei de identificação criminal dispõe para a finalidade a que se destine o acesso, com referência à data e hora dessa emissão.
+
+6 - Para efeitos do disposto nos n.os 5 a 7 do artigo 29.º da Lei n.º 37/2015, de 5 de maio, a emissão de um certificado do registo criminal por uso do código de acesso apenas determina que seja dirigido um pedido de emissão de certificado do registo criminal às autoridades centrais pertinentes decorridos que sejam 60 dias contados da data da receção do último certificado desse titular emitido por essas autoridades centrais ou, não tendo sido recebido certificado, do termo do prazo legal de que essas autoridades centrais dispunham para o efeito.
+
+7 - O código de acesso ao registo criminal ou ao registo de contumazes pode ser facultado pelo seu titular à entidade que haja solicitado a apresentação de certificado do registo em causa, o que preenche, para todos os efeitos legais, a exigência legal de apresentação de certificado.
+
+8 - Os titulares da informação residentes no estrangeiro podem pedir um código de acesso ao registo criminal ou ao registo de contumazes através da remessa aos serviços de identificação criminal de formulário disponibilizado na página na Internet destes serviços.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 19.º-A — Acesso à informação do registo de medidas tutelares educativas
+
+O pedido de emissão de um certificado do registo de medidas tutelares educativas é efetuado pessoalmente por quem para tal possua legitimidade nos termos da lei de identificação criminal ou da lei tutelar educativa, aplicando-se o disposto nos artigos 20.º a 22.º, com as necessárias adaptações.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 20.º — Apresentação pessoal do pedido de código de acesso
+
+1 - A apresentação pessoal do pedido de um código de acesso ao registo criminal ou ao registo de contumazes pode ser efetuada:
+
+a) Nos serviços de identificação criminal;
+
+b) Nas unidades centrais ou secções de proximidade de secretarias judiciais de tribunais de comarca sedeadas em localidades onde não existam serviços de identificação criminal;
+
+c) Nos demais postos de atendimento que hajam sido autorizados pelo diretor-geral da Administração da Justiça a submeterem pedidos de obtenção de códigos de acesso ao registo criminal ou ao registo de contumazes, ou de emissão de certificados, no sistema informático disponibilizado pelos serviços de identificação criminal.
+
+2 - O código de acesso ao registo criminal ou ao registo de contumazes e o certificado onde o mesmo consta são transmitidos eletronicamente ao posto onde o pedido de emissão foi submetido, para entrega ao requerente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 21.º — Requisitos do pedido de código de acesso apresentado pelo próprio
+
+1 - O titular da informação que solicite um código de acesso ao registo criminal ou ao registo de contumazes deve provar ser o próprio titular, comprovar os seus dados de identificação mediante a apresentação do seu cartão do cidadão ou bilhete de identidade, ou de outro documento de identificação idóneo para esse efeito, indicar a finalidade a que se destina o acesso ao registo e o prazo escolhido para a vigência do código de acesso.
+
+2 - Sendo o pedido efetuado através de plataforma eletrónica, a comprovação da legitimidade do titular e dos seus dados de identificação é efetuada por autenticação com o cartão de cidadão ou chave móvel digital.
+
+3 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-06-17
+
+###### Artigo 22.º — Pedido de código de acesso apresentado por representante
+
+1 - Podem pedir um código de acesso ao registo criminal ou ao registo de contumazes em nome ou no interesse do próprio titular da informação:
+
+a) Os ascendentes de titular menor;
+
+b) O tutor ou curador de titular incapaz;
+
+c) Qualquer terceiro expressamente autorizado por escrito para esse ato pelo titular.
+
+2 - Os requerentes mencionados nas alíneas a) e b) do número anterior devem provar a qualidade em que efetuam o pedido, comprovar os dados de identificação do titular da informação através da apresentação do seu cartão do cidadão ou bilhete de identidade, ou de outro documento de identificação idóneo para esse efeito, indicar a finalidade a que se destina o acesso ao registo e o prazo escolhido para a vigência do código de acesso.
+
+3 - Um terceiro autorizado pelo titular da informação a efetuar o pedido de código de acesso ao registo criminal ou ao registo de contumazes deve apresentar declaração deste, assinada em conformidade com o documento que for apresentado, onde conste:
+
+a) O nome completo do titular da informação e o número do seu cartão do cidadão ou bilhete de identidade, ou de outro documento de identificação idóneo;
+
+b) O nome completo e o número do cartão do cidadão ou bilhete de identidade, ou de outro documento de identificação idóneo, da pessoa autorizada;
+
+c) A declaração de que autoriza o pedido de um código de acesso ao seu registo criminal ou ao seu registo de contumazes, com menção da finalidade a que se destina o acesso e do prazo de vigência do código de acesso.
+
+4 - Além da declaração mencionada no número anterior, o terceiro autorizado deve apresentar o seu documento de identificação mencionado na declaração de autorização, bem como o documento de identificação do titular da informação comprovativo do teor da sua assinatura e dos respetivos dados de identificação, ou a sua cópia certificada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 23.º — Residentes do estrangeiro
+
+1 - Os titulares da informação que sejam residentes no estrangeiro podem apresentar o pedido de um código de acesso ao registo criminal ou ao registo de contumazes pela remessa aos serviços de identificação criminal de formulário disponibilizado no sítio destes serviços na Internet, devidamente preenchido e assinado e acompanhado de cópias dos documentos necessários para provar a legitimidade do requerente, os dados de identificação declarados e a realização do pagamento devido pela emissão solicitada.
+
+2 - O código de acesso ao registo criminal ou ao registo de contumazes pedido nos termos do número anterior, bem como o certificado onde o mesmo consta, são remetidos ao requerente para o endereço eletrónico que por este for indicado para o efeito ou, se o requerente assim o solicitar, por correio, simples ou registado, para a morada que for indicada, mediante prévio pagamento das despesas de remessa nos termos fixados por despacho do diretor-geral da Administração da Justiça.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 24.º — Requisitos do pedido de código de acesso de pessoa coletiva ou entidade equiparada
+
+1 - O representante legal de pessoa coletiva ou entidade equiparada que solicite um código de acesso ao registo criminal ou ao registo de contumazes desta deve:
+
+a) Apresentar documento comprovativo da denominação e do número de identificação da pessoa coletiva ou entidade equiparada;
+
+b) Comprovar os seus poderes de representação através da exibição de documento comprovativo dos mesmos, ou por outros meios legalmente admissíveis para o efeito;
+
+c) Comprovar os seus dados de identificação civil mediante a apresentação do cartão do cidadão ou bilhete de identidade, ou de outro documento de identificação idóneo para esse efeito;
+
+d) Indicar a finalidade a que se destina o acesso;
+
+e) Indicar o prazo escolhido para a vigência do código de acesso.
+
+2 - Sendo o pedido efetuado através de plataforma eletrónica, a comprovação referida nas alíneas a) e b) do número anterior é efetuada por consulta em linha ao ficheiro central de pessoas coletivas do Registo Nacional de Pessoas Coletivas ou ao Registo Comercial, tratando-se de entidade a ele sujeita, ou, ainda, não sendo esta possível, mediante apresentação de certidão permanente, e a comprovação referida na alínea c) é efetuada por autenticação com o cartão de cidadão ou chave móvel digital.
+
+3 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 68/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2017-107522250), em vigor a partir de 2017-06-17
+
+###### Artigo 25.º — Requisitos do pedido de código de acesso apresentado por um terceiro autorizado
+
+1 - O terceiro autorizado pelo representante legal de pessoa coletiva ou entidade equiparada a pedir um código de acesso ao registo criminal ou ao registo de contumazes desta deve apresentar declaração escrita e assinada por um representante legal, onde conste:
+
+a) A denominação e o número de identificação da pessoa coletiva ou entidade equiparada;
+
+b) O nome completo e o número do cartão do cidadão ou bilhete de identidade, ou de outro documento de identificação idóneo, do representante legal, bem como a qualidade em que atua;
+
+c) O nome completo e o número do cartão do cidadão ou bilhete de identidade, ou de outro documento de identificação idóneo, da pessoa autorizada;
+
+d) A declaração de que autoriza o pedido de um código de acesso ao registo criminal ou ao registo de contumazes da pessoa coletiva ou entidade equiparada, com menção da finalidade a que se destina o acesso ao registo e o prazo escolhido para a vigência do código de acesso.
+
+2 - Além da declaração mencionada no número anterior, o terceiro autorizado deve:
+
+a) Apresentar documento comprovativo da denominação e do número de identificação da pessoa coletiva ou entidade equiparada;
+
+b) Apresentar o seu documento de identificação mencionado na declaração de autorização;
+
+c) Apresentar o documento de identificação do representante legal da pessoa coletiva ou entidade equiparada comprovativo do teor da sua assinatura e dos respetivos dados de identificação, ou a sua cópia certificada;
+
+d) Comprovar os poderes de representação do representante legal, através da exibição de documento comprovativo dos mesmos, ou por outros meios legalmente admissíveis para o efeito.
+
+3 - O terceiro autorizado está dispensado da apresentação de documentos em posse de qualquer serviço ou organismo da Administração Pública quando o seu titular dê consentimento para a entidade responsável pela emissão do certificado proceder à sua obtenção, nos termos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 25.º-A — Cancelamento do código de acesso ao registo criminal ou ao registo de contumazes
+
+1 - O código de acesso ao registo criminal ou ao registo de contumazes pode ser cancelado, a todo o tempo, a pedido do próprio titular da informação, ou de um seu representante, bem como do representante legal de pessoa coletiva ou entidade equiparada, ou de um terceiro por este autorizado.
+
+2 - O pedido de cancelamento do código de acesso ao registo criminal ou ao registo de contumazes é efetuado pessoalmente, nos termos e nas condições em que pode ser pedida a obtenção do mesmo, com as devidas adaptações.
+
+3 - O pedido de cancelamento do código de acesso ao registo criminal ou ao registo de contumazes pode, também, ser efetuado através da plataforma eletrónica a que se refere o n.º 3 do artigo 19.º, nos termos e nas condições em que pode ser pedida a obtenção do mesmo por essa via.
+
+4 - O código de acesso ao registo criminal ou ao registo de contumazes pode, ainda, ser cancelado a todo o tempo pelos serviços de identificação criminal, se existirem alterações nos dados de identificação do titular ou se surgirem dúvidas supervenientes sobre esses dados que o justifiquem.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 26.º — Acesso à informação do registo de contumazes por terceiros
+
+1 - Quem pretenda aceder ao registo de contumazes de terceiro sem autorização do próprio deve provar que efetua o pedido com a finalidade de acautelar interesses ligados à celebração de negócio jurídico com contumaz ou para instruir processo da sua anulação, e fornecer os dados de identificação necessários à identificação inequívoca da pessoa a cujo registo pretende aceder.
+
+2 - O acesso ao registo de contumazes nos termos do número anterior concretiza-se na emissão de um certificado de contumácia cujo conteúdo se restringe ao despacho que declarar a contumácia, se existir, ou à certificação da respetiva inexistência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 27.º — Indeferimento do pedido
+
+O pedido de obtenção de um código de acesso ao registo criminal ou ao registo de contumazes, ou de emissão de certificado, é fundamentadamente indeferido pelos serviços de identificação criminal:
+
+a) Se não for efetuada a prova da legitimidade da entidade que o solicita, ou do requerente, nos termos previstos nos artigos anteriores;
+
+b) Se os dados de identificação da pessoa de quem é pedido um código de acesso ao registo criminal ou ao registo de contumazes, ou um certificado, transmitidos aos serviços de identificação criminal, ou os documentos de identificação dela apresentados, não permitirem a sua identificação inequívoca;
+
+c) Se não forem observados quaisquer outros requisitos de que a lei de identificação criminal ou o presente decreto-lei façam depender o acesso ao registo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 28.º — Acesso à informação para fins de investigação científica ou estatísticos
+
+1 - O acesso à informação para fins de investigação científica ou estatísticos é solicitado ao membro do Governo responsável pela área da justiça, com descrição detalhada dos objetivos prosseguidos e dos fundamentos que justificam a necessidade do pedido.
+
+2 - O pedido é submetido ao parecer dos serviços de identificação criminal quanto aos fundamentos apresentados e à viabilidade técnica da respetiva concretização, no respeito pelos requisitos legais estabelecidos no n.º 9 do artigo 10.º da Lei n.º 37/2015, de 5 de maio.
+
+### Capítulo VI — Direito de acesso aos dados em registo
+
+###### Artigo 29.º — Certificado de acesso aos dados em registo
+
+1 - As pessoas singulares ou coletivas que pretendam tomar conhecimento dos dados que lhes digam respeito constantes dos registos da competência dos serviços de identificação criminal devem solicitar a emissão de um certificado de acesso aos dados no registo em causa.
+
+2 - A emissão do certificado de acesso aos dados no registo é pedida nos termos previstos no presente decreto-lei para as situações de acesso pelo próprio à informação em registo.
+
+3 - O certificado de acesso aos dados no registo certifica os dados de identificação comunicados aos serviços de identificação criminal ou por estes recolhidos relativamente ao titular do registo e a sua situação registal, com referência à data da emissão do certificado, não podendo ser utilizado para qualquer outro efeito que não seja o mero conhecimento pelo titular dos dados no registo a si respeitantes.
+
+4 - A utilização de um certificado de acesso aos dados no registo por terceiros para finalidade diversa daquela para que foi emitido constitui utilização indevida de informação em registo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+### Capítulo VII — Outras disposições reguladoras do sistema de informação
+
+###### Artigo 30.º — Dados relativos à emissão de certificados
+
+1 - Os dados relativos à emissão de certificados de titulares de registo são conservados no SICRIM durante o período de manutenção dos respetivos registos no sistema informático, com a finalidade de salvaguardar a informação relativa ao acesso ao registo.
+
+2 - Os dados relativos à emissão de certificados de pessoas não titulares de registo são conservados no SICRIM pelo prazo máximo de seis meses contados do termo de vigência do código de acesso que permitiu a emissão, ou da data da respetiva emissão nos casos em que não exista código de acesso, com a finalidade de possibilitar a apreciação de reclamações relativas a essas emissões, bem como a sua correção ou retificação.
+
+3 - Sem prejuízo do disposto no número seguinte, são conservados os dados de identificação que constaram do certificado emitido, o conteúdo do registo que constou do mesmo, se for o caso, a finalidade a que se destinou e outras indicações que hajam constado do certificado nos termos legais, bem como os dados relativos à data e hora da emissão e à origem do pedido.
+
+4 - Nas situações de emissão de sucessivos certificados iguais no âmbito de acesso à informação por quem detenha um código de acesso ao registo criminal ou ao registo de contumazes durante a respetiva vigência, apenas são conservados os dados da primeira dessas emissões e os dados relativos à data e hora dos acessos e à origem dos mesmos.
+
+5 - Excetua-se do disposto nos números anteriores a manutenção em registo dos dados não nominativos necessários ao cumprimento das obrigações de prestação de contas nos termos das normas do regime de administração financeira do Estado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 31.º — Recolha e atualização dos dados
+
+1 - Os dados de identificação registados no SICRIM são recolhidos das comunicações efetuadas pelos tribunais e pelas demais entidades remetentes da informação, da validação efetuada nas bases de dados referidas no n.º 2 do artigo 4.º, ou recolhidos pelos serviços de identificação criminal no exercício das suas competências.
+
+2 - O número do registo onomástico é um número sequencial, atribuído automaticamente pelo sistema informático aquando da criação do registo.
+
+3 - O número de identificação onomástico é um número sequencial, atribuído automaticamente pelo sistema informático na ausência de número de identificação civil, ou de outra referência documental suscetível de validação automática em linha, com o objetivo de operacionalizar as regras de negócio aplicáveis a essa situação de ausência.
+
+4 - Os dados referidos no n.º 1 do artigo 7.º, no n.º 1 do artigo 8.º, no n.º 1 do artigo 9.º, nos n.os 1 e 2 do artigo 10.º e no n.º 1 do artigo 11.º são recolhidos das comunicações efetuadas pelos tribunais e pelas demais entidades remetentes da informação.
+
+5 - Os dados referidos no n.º 2 do artigo 7.º, no n.º 2 do artigo 8.º, no n.º 2 do artigo 9.º, no n.º 3 do artigo 10.º e no n.º 2 do artigo 11.º são automaticamente fixados pelo sistema informático com base na informação registada.
+
+6 - Os dados relativos à emissão de certificados são recolhidos do certificado emitido e do sistema automático de emissão de certificados.
+
+###### Artigo 32.º — Módulo de contabilidade
+
+1 - O SICRIM contém um módulo de contabilidade com a finalidade de garantir o controlo da receita cobrada pela emissão de códigos de acesso ao registo criminal ou ao registo de contumazes e de certificados.
+
+2 - No módulo de contabilidade são utilizados os dados relativos à emissão de certificados necessários à respetiva individualização, contabilização da receita devida e verificação do respetivo pagamento, bem como à identificação do posto e utilizador responsáveis pela inserção do pedido, quando for o caso.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 33.º — Acesso à informação pelos trabalhadores dos serviços de identificação criminal
+
+1 - O acesso à informação em registo pelos trabalhadores afetos aos serviços de identificação criminal depende da utilização de nome de utilizador e de palavra-chave.
+
+2 - Os trabalhadores afetos aos serviços de identificação criminal têm acesso à informação em registo de acordo com níveis de acesso adequados às funções que lhe estão cometidas, os quais são definidos pelo diretor-geral da Administração da Justiça.
+
+3 - Os trabalhadores afetos aos serviços de identificação criminal estão obrigados a sigilo profissional relativamente à informação em registo de que tenham conhecimento, mesmo após o termo das suas funções.
+
+###### Artigo 34.º — Segurança da informação
+
+1 - Compete à Direção-Geral da Administração da Justiça promover a adoção das medidas previstas no artigo 32.º do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados, e no artigo 31.º da Lei n.º 59/2019, de 8 de agosto, conforme aplicável, designadamente a fim de:
+
+a) Impedir o acesso de pessoa não autorizada às instalações utilizadas para o tratamento dos dados;
+
+b) Impedir o acesso de pessoa não autorizada ao equipamento utilizado para o tratamento dos dados;
+
+c) Impedir que suportes de dados possam ser lidos, copiados, alterados ou retirados por pessoa não autorizada;
+
+d) Impedir a introdução não autorizada, bem como a tomada de conhecimento, a alteração ou a eliminação não autorizadas de dados pessoais inseridos;
+
+e) Impedir que sistemas de tratamento automatizados de dados possam ser utilizados por pessoas não autorizadas através de instalações de transmissão de dados;
+
+f) Garantir que as pessoas autorizadas só possam ter acesso aos dados abrangidos pela autorização;
+
+g) Garantir a verificação das entidades a quem possam ser transmitidos os dados pessoais através das instalações de transmissão de dados;
+
+h) Garantir que possa verificar-se, sempre que necessário, quais os dados pessoais introduzidos, quando e por quem;
+
+i) Impedir que, na transmissão de dados pessoais, bem como no transporte do seu suporte, os dados possam ser lidos, copiados, alterados ou eliminados de forma não autorizada;
+
+j) Garantir que o sistema usado possa ser restaurado em caso de interrupção;
+
+k) Garantir que o sistema funcione na sua plenitude, que os erros de funcionamento sejam assinalados e que os dados pessoais conservados não possam ser falseados por funcionamento defeituoso do sistema.
+
+2 - Qualquer pessoa que, no exercício de funções desempenhadas sob a autoridade dos serviços de identificação criminal, nomeadamente de apoio ou assessoria técnica, ou de fornecimento de equipamentos ou de serviços, tenha acesso a informação em registo, está obrigada a sigilo profissional relativamente à informação de que tenha conhecimento, mesmo após o termo das respetivas funções.
+
+3 - O acesso ou uso indevidos de informação em registo, bem como a violação do dever de sigilo, são punidos nos termos previstos na Lei n.º 58/2019, de 8 de agosto, ou, estando em causa o tratamento de dados pessoais para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, incluindo a salvaguarda e a prevenção de ameaças à segurança pública, nos termos da Lei n.º 59/2019, de 8 de agosto.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31
+
+### Capítulo VIII — Disposições complementares e finais
+
+###### Artigo 35.º — Taxas
+
+1 - Pela emissão de códigos de acesso ao registo criminal ou ao registo de contumazes, bem como pela emissão de certificados da sua competência que não resultem da utilização de um código de acesso durante o respetivo período de vigência, os serviços de identificação criminal cobram taxas, cujos montantes são fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça, constituindo receita da Direção-Geral da Administração da Justiça.
+
+2 - O montante da taxa devida pela emissão de um código de acesso ao registo criminal ou ao registo de contumazes depende do período de vigência do mesmo, escolhido pelo requerente no ato do respetivo pedido.
+
+3 - O pagamento da taxa devida é efetuado no ato da apresentação do pedido, por qualquer via, não dando lugar à sua restituição o indeferimento do mesmo, fundamentado nos termos do presente decreto-lei, ou o cancelamento de código de acesso nos termos do disposto no artigo 25.º-A.
+
+4 - Nos casos em que não seja possível a emissão imediata de um código de acesso ao registo criminal ou ao registo de contumazes pedido pessoalmente, por razões de natureza identificativa ou de conteúdo registal, o requerente pode solicitar a sua emissão prioritária, sendo devido o pagamento de uma taxa de urgência.
+
+5 - Há lugar a emissão gratuita de código de acesso ao registo criminal ou ao registo de contumazes, ou de certificado, se for deferida reclamação do interessado com fundamento em erro dos serviços relativamente a pedido anterior.
+
+6 - Beneficiam da isenção de taxa na emissão de código de acesso ou de certificado:
+
+a) As entidades previstas no n.º 2 do artigo 8.º da Lei n.º 37/2015, de 5 de maio, e nas alíneas d) e e) do artigo 215.º da Lei Tutelar Educativa, aprovada pela Lei n.º 166/99, de 14 de setembro, alterada pela Lei n.º 4/2015, de 15 de janeiro;
+
+b) As entidades públicas competentes para a instrução de procedimentos administrativos, identificados em portaria do membro do Governo responsável pela área da justiça, dos quais dependa a concessão de emprego ou a obtenção de licença, autorização ou registo de caráter público, quando seja legalmente exigida a apresentação de certificado do registo criminal e o obtenham nos termos do disposto no n.º 1 do artigo 16.º;
+
+c) As pessoas singulares ou coletivas quando no exercício do direito de acesso ao conteúdo integral dos registos que lhes respeitem;
+
+d) As pessoas singulares ou coletivas que, previamente ao pedido de código de acesso ao registo criminal ou ao registo de contumazes, ou de emissão de certificado, demonstrem insuficiência económica para suportar a taxa devida, nos termos da lei sobre apoio judiciário, com as devidas adaptações.
+
+7 - Nos casos previstos na alínea a) do número anterior, o arguido fica obrigado ao pagamento da respetiva taxa, por cada emissão de certificado, a título de encargos imputados na conta, quando o pagamento das custas judiciais seja da sua responsabilidade.
+
+> Alterado pelo/a Artigo 161.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 36.º — Reclamações e recursos
+
+1 - As reclamações respeitantes ao acesso à informação em matéria de identificação criminal e seu conteúdo devem ser apresentadas no prazo de 60 dias contados da prática do ato de que se reclama, devendo o diretor-geral da Administração da Justiça decidi-las no prazo máximo de 30 dias.
+
+2 - O recurso sobre a legalidade do conteúdo dos certificados do registo criminal a que se refere o n.º 2 do artigo 42.º da Lei n.º 37/2015, de 5 de maio, é interposto pelo interessado no prazo de 30 dias contados da data de emissão do certificado.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31
+
+###### Artigo 37.º — Conservação e destruição de informação e de documentos
+
+1 - A informação cancelada dos registos que não possa ser mantida em ficheiro, nos termos da Lei n.º 37/2015, de 5 de maio, e da Lei Tutelar Educativa, aprovada pela Lei n.º 166/99, de 14 de setembro, alterada pela Lei n.º 4/2015, de 15 de janeiro, é eliminada, de forma segura e com impossibilidade de reconstituição.
+
+2 - Excetuam-se do disposto no número anterior as amostras históricas representativas do universo da informação e ainda as que, pela sua dimensão, complexidade e valor técnico-científico ou sociológico, devam ser preservadas.
+
+3 - A documentação recebida nos serviços de identificação criminal e nos demais postos de atendimento no âmbito do processo de emissão de códigos de acesso ao registo criminal ou ao registo de contumazes, ou de certificados, solicitada por pessoas singulares ou coletivas, ou precedendo a sua autorização, pode ser destruída após o decurso dos períodos de vigência dos códigos de acesso ou de validade dos certificados a que se refere, com dispensa de qualquer formalidade.
+
+4 - A documentação recebida nos serviços de identificação criminal no âmbito do exercício das suas competências que contenha informação de identificação criminal comprovativa de alterações da informação em registo, ou da respetiva veracidade, é arquivada com referência ao titular da informação a que se reporte e mantida durante o prazo de manutenção do respetivo registo, sendo destruída após a sua eliminação.
+
+5 - A restante documentação recebida nos serviços de identificação criminal pode ser destruída decorridos três anos após a respetiva receção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2019-124044666), em vigor a partir de 2019-09-17
+
+###### Artigo 38.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 381/98, de 27 de novembro, alterado pelos Decretos-Leis n.os 20/2007, de 23 de janeiro, e 288/2009, de 8 de outubro, com exceção do artigo 33.º e do artigo 38.º, que se mantêm em vigor até à entrada em vigor do despacho e da portaria previstos, respetivamente, no n.º 2 do artigo 23.º e no n.º 1 do artigo 35.º do presente decreto-lei;
+
+b) O Decreto-Lei n.º 62/99, de 29 de março, alterado pelo Decreto-Lei n.º 288/2009, de 8 de outubro;
+
+c) O Decreto-Lei n.º 323-E/2000, de 20 de dezembro.
+
+Visto e aprovado em Conselho de Ministros de 23 de julho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António Manuel Coelho da Costa Moura.
+
+Promulgado em 12 de agosto de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 17 de agosto de 2015.
+
+Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.

@@ -1,0 +1,405 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553947:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-207809625",
+ "dre_path": "/dr/detalhe/decreto-lei/79-2012-553947",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-03-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "207808406",
+    "207808407",
+    "207808408",
+    "207808409",
+    "207808410",
+    "207808411",
+    "207808412",
+    "207808413",
+    "207808414",
+    "207808415",
+    "207808416",
+    "207808417",
+    "207808418",
+    "207808419",
+    "207808420"
+   ]
+  },
+  {
+   "date": "2023-02-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207760042:por",
+     "title": "Decreto-Lei n.º 13/2023",
+     "published": "2023-02-24",
+     "dre_path": "/dr/detalhe/decreto-lei/13-2023-207760042"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 7.º-B",
+    "Adita Artigo 7.º-C",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "207808406",
+    "207808459",
+    "207808408",
+    "207808460",
+    "207808461",
+    "207808411",
+    "207808412",
+    "207808413",
+    "207808463",
+    "207808472",
+    "207863381",
+    "207863382",
+    "207863383",
+    "207863384",
+    "207863385",
+    "207863386",
+    "207863387",
+    "207863388",
+    "207863389"
+   ]
+  },
+  {
+   "date": "2026-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1053378382:por",
+     "title": "Decreto-Lei n.º 57/2026",
+     "published": "2026-02-19",
+     "dre_path": "/dr/detalhe/decreto-lei/57-2026-1053378382"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º-A",
+    "Altera Artigo 7.º-C"
+   ],
+   "fragments": [
+    "207808406",
+    "207808459",
+    "207808408",
+    "1054961413",
+    "1054961414",
+    "207808411",
+    "207808412",
+    "207808413",
+    "1054961415",
+    "207808472",
+    "1054961416",
+    "207863382",
+    "207863383",
+    "207863384",
+    "207863385",
+    "207863386",
+    "207863387",
+    "207863388",
+    "207863389"
+   ]
+  }
+ ],
+ "fragments": {
+  "207808406": {
+   "fragment_id": "207809626",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 79/2012\n\nde 27 de março\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado.Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e da melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar maior coerência e capacidade de resposta no desempenho de funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNeste contexto, o presente diploma aprova a orgânica do Instituto do Cinema e do Audiovisual, I. P., em consonância com o disposto na orgânica da Presidência do Conselho de Ministros, no que respeita aos serviços e organismos da área da cultura, mantendo no seu âmbito de atuação a responsabilidade pelo apoio ao desenvolvimento das atividades cinematográficas e audiovisuais.\n\nAssim:\n\nAo abrigo do n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "207808407": {
+   "fragment_id": "207809627",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto do Cinema e do Audiovisual, I. P., abreviadamente designado por ICA, I. P., é um instituto público integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O ICA, I. P., prossegue atribuições da Presidência do Conselho de Ministros, sob superintendência e tutela do membro do Governo que tiver a seu cargo a área da cultura."
+  },
+  "207808408": {
+   "fragment_id": "207809628",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição e sede\n\n1 - O âmbito territorial de atividade do ICA, I. P.,corresponde a todo o território nacional.\n\n2 - O ICA, I. P., tem sede no concelho de Lisboa."
+  },
+  "207808409": {
+   "fragment_id": "207809629",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O ICA, I. P., tem por missão apoiar o desenvolvimento das atividades cinematográficas e audiovisuais, desde a criação até à divulgação e circulação nacional e internacional das obras, potenciando o surgimento de novos valores, contribuindo para a diversidade de oferta cultural e para a promoção da língua e da identidade nacionais.\n\n2 - O ICA, I. P., prossegue as seguintes atribuições:\n\na) Apoiar o membro do Governo responsável pela área da cultura na definição de políticas públicas para os setores cinematográfico e audiovisual em conformidade com a sua missão;\n\nb) Assegurar diretamente em colaboração ou através de outras entidades a execução das políticas cinematográficas e audiovisuais;\n\nc) Propor programas, medidas e ações com vista a melhorar a eficácia e a eficiência das políticas referidas na alínea anterior e a assegurar a adequação destas às evoluções dos setores abrangidos;\n\nd) Promover uma efetiva divulgação e circulação nacional e internacional das obras, diretamente ou em cooperação com outras entidades;\n\ne) Assegurar a representação nacional nas instituições e órgãos internacionais nos domínios cinematográfico e audiovisual, nomeadamente a nível da União Europeia, do Conselho da Europa, da Cooperação Ibero-Americana e da Comunidade dos Países de Língua Portuguesa, bem como de outras plataformas de cooperação ou integração, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nf) Colaborar com as entidades competentes na elaboração de acordos internacionais no domínio cinematográfico e audiovisual e assegurar as tarefas relativas à aplicação dos acordos existentes, bem como estabelecer e aplicar parcerias e colaborações com instituições congéneres de outros países, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\ng) Contribuir para um melhor conhecimento dos setores do cinema e do audiovisual, recolhendo, tratando e divulgando informação estatística ou outra relevante, por si próprio ou em colaboração com outras entidades vocacionadas para o efeito;\n\nh) Acompanhar a gestão do Fundo de Investimento para o Cinema e o Audiovisual (FICA)."
+  },
+  "207808410": {
+   "fragment_id": "207809630",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do ICA, I. P.:\n\na) O conselho diretivo;\n\nb) O fiscal único."
+  },
+  "207808411": {
+   "fragment_id": "207809631",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é composto por um presidente e um vice-presidente.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do ICA,I. P.:\n\na) Superintender sobre as políticas, programas, ações e medidas executadas pelo ICA, I. P., e propor alterações a estas, bem como propor ações-piloto e novas iniciativas no âmbito das atribuições do ICA, I. P.;\n\nb) Promover a celebração e assegurar a execução de acordos de cooperação, coprodução, codistribuição ou outros que visem o fomento e o desenvolvimento da arte cinematográfica e do audiovisual, nas suas dimensões cultural e económica;\n\nc) Autorizar a atribuição de apoios financeiros e outros incentivos no âmbito das atribuições do ICA, I. P., dentro dos limites legais;\n\nd) Assegurar as relações com organismos e instituições nacionais e estrangeiros de fins similares em articulação com o Gabinete de Estratégia, Planeamento e Avaliação Culturais (GEPAC);\n\ne) Propor a participação do ICA, I. P., em sociedades comerciais, fundos de investimento e de garantia, bem como gerir as respetivas participações;\n\nf) Deliberar sobre as contrapartidas a estabelecer no âmbito de parcerias estabelecidas entre o ICA, I. P., e outras entidades, nos termos da lei."
+  },
+  "207808412": {
+   "fragment_id": "207809632",
+   "type": 11,
+   "heading": "Artigo 6.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Presidente\n\nSem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao presidente do conselho diretivo solicitar pareceres ao Conselho Nacional de Cultura."
+  },
+  "207808413": {
+   "fragment_id": "207809633",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei quadro dos institutos públicos."
+  },
+  "207808414": {
+   "fragment_id": "207809634",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna do ICA, I. P., é a prevista nos respetivos estatutos."
+  },
+  "207808415": {
+   "fragment_id": "207809635",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O ICA, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O ICA, I. P., dispõe ainda das seguintes receitas próprias:\n\na) O produto das taxas que lhe sejam consignadas por lei, designadamente a taxa de exibição bem como as cobradas em conformidade com as leis que regulam as atividades do setor, em especial a lei das artes e atividades cinematográficas e do audiovisual;\n\nb) O produto da venda de bens e serviços prestados;\n\nc) As quantias que resultem da exploração ou da titularidade de direitos de propriedade sobre produtos, patentes e demais direitos privativos de natureza industrial ou intelectual que venham a ser desenvolvidos no âmbito das atividades do ICA, I. P., e que por lei lhe sejam consignados;\n\nd) As comparticipações e os subsídios concedidos por quaisquer entidades;\n\ne) A percentagem do valor das coimas que lhe esteja afeta, nos termos da lei;\n\nf) As doações, heranças ou legados;\n\ng) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património, nos termos da lei;\n\nh) Quaisquer outros rendimentos que por lei, contrato ou qualquer outro título lhe devam pertencer.\n\n3 - As receitas referidas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas do ICA, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual."
+  },
+  "207808416": {
+   "fragment_id": "207809636",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas\n\nConstituem despesas do ICA, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições."
+  },
+  "207808417": {
+   "fragment_id": "207809637",
+   "type": 11,
+   "heading": "Artigo 11.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Património\n\nO património do ICA, I. P., é constituído pela universalidade dos bens, direitos e obrigações de que é titular."
+  },
+  "207808418": {
+   "fragment_id": "207809638",
+   "type": 11,
+   "heading": "Artigo 12.º — Participação em entidades de direito privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Participação em entidades de direito privado\n\nA participação e a aquisição ou aumento de participações em entes de direito privado por parte do ICA, I. P., apenas pode verificar-se em situações excecionais, quando cumulativamente seja demonstrada a imprescindibilidade para a prossecução das suas atribuições e seja obtida a autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da cultura, nos termos do artigo 13.º da lei quadro dos institutos públicos."
+  },
+  "207808419": {
+   "fragment_id": "207809639",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 95/2007, de 29 de março."
+  },
+  "207808420": {
+   "fragment_id": "207809640",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "207808459": {
+   "fragment_id": "207809627",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto do Cinema e do Audiovisual, I. P., abreviadamente designado por ICA, I. P., é um instituto público integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O ICA, I. P., prossegue atribuições da Presidência do Conselho de Ministros, sob superintendência e tutela do membro do Governo que tiver a seu cargo a área da cultura.\n\n3 - O ICA, I. P., prossegue ainda as atribuições previstas no artigo 3.º em matéria de incentivos à produção cinematográfica e audiovisual e captação de filmagens internacionais para Portugal, com um propósito de valorização e promoção da imagem do território e do País, sob superintendência e tutela dos membros do Governo responsáveis pelas áreas do turismo e da cultura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+  },
+  "207808460": {
+   "fragment_id": "207809629",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O ICA, I. P., tem por missão apoiar o desenvolvimento das atividades cinematográficas e audiovisuais, desde a criação até à divulgação e circulação nacional e internacional das obras, potenciando o surgimento de novos valores, contribuindo para a diversidade de oferta cultural e para a promoção da língua portuguesa e da identidade nacionais, promover a captação de filmagens e produções audiovisuais internacionais para Portugal e acompanhar e colaborar na gestão dos respetivos instrumentos e incentivos financeiros.\n\n2 - O ICA, I. P., prossegue as seguintes atribuições:\n\na) Apoiar o membro do Governo responsável pela área da cultura na definição de políticas públicas para os setores cinematográfico e audiovisual em conformidade com a sua missão;\n\nb) Assegurar diretamente em colaboração ou através de outras entidades a execução das políticas cinematográficas e audiovisuais;\n\nc) Propor programas, medidas e ações com vista a melhorar a eficácia e a eficiência das políticas referidas na alínea anterior e a assegurar a adequação destas às evoluções dos setores abrangidos;\n\nd) Promover uma efetiva divulgação e circulação nacional e internacional das obras, diretamente ou em cooperação com outras entidades;\n\ne) Assegurar a representação nacional nas instituições e órgãos internacionais nos domínios cinematográfico e audiovisual, nomeadamente a nível da União Europeia, do Conselho da Europa, da Cooperação Ibero-Americana e da Comunidade dos Países de Língua Portuguesa, bem como de outras plataformas de cooperação ou integração, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nf) Colaborar com as entidades competentes na elaboração de acordos internacionais no domínio cinematográfico e audiovisual e assegurar as tarefas relativas à aplicação dos acordos existentes, bem como estabelecer e aplicar parcerias e colaborações com instituições congéneres de outros países, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\ng) Contribuir para um melhor conhecimento dos setores do cinema e do audiovisual, recolhendo, tratando e divulgando informação estatística ou outra relevante, por si próprio ou em colaboração com outras entidades vocacionadas para o efeito;\n\nh) Acompanhar a gestão e colaborar com o Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.), na prossecução dos objetivos do Fundo de Apoio ao Turismo e ao Cinema (FATC), criado pelo Decreto-Lei n.º 45/2018, de 19 de junho, na sua redação atual;\n\ni) Promover sinergias entre as indústrias criativas e o turismo, proporcionando visibilidade ao destino Portugal e garantindo a melhoria da experiência turística, em articulação com o Turismo de Portugal, I. P.;\n\nj) Afirmar Portugal como destino internacional de produção de filmagens;\n\nk) Promover Portugal enquanto destino preferencial de filmagem, em articulação com as film commissions regionais, a rede diplomática e as associações e empresas do setor;\n\nl) Definir e implementar estratégias que potenciem o aproveitamento das vantagens resultantes da legislação de incentivos para a captação de filmagens e dos acordos de coprodução cinematográfica assinados;\n\nm) Agilizar o acesso aos incentivos e coordenar a atuação das entidades públicas e privadas no processo de realização de filmagens em território nacional;\n\nn) Propor aos membros do Governo responsáveis pelas áreas do turismo e da cultura, em articulação com o Turismo de Portugal, I. P., quaisquer iniciativas legislativas ou regulamentares, estudos, atuações administrativas, formas públicas e privadas de cooperação, bem como ações de financiamento e investimento que se revelem necessárias ou úteis à prossecução dos seus objetivos.\n\n3 - As atribuições do ICA, I. P., em matéria de promoção da captação de filmagens e produções audiovisuais internacionais para Portugal, de simplificação e agilização dos procedimentos para esse efeito e de acompanhamento e colaboração na gestão dos respetivos instrumentos e incentivos financeiros são prosseguidas pela Portugal Film Commission (PFC).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+  },
+  "207808461": {
+   "fragment_id": "207809630",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do ICA, I. P.:\n\na) O conselho diretivo;\n\nb) O fiscal único;\n\nc) A PFC;\n\nd) O conselho consultivo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+  },
+  "207808463": {
+   "fragment_id": "207862983",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Portugal Film Commission",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Portugal Film Commission\n\n1 - A PFC é o órgão responsável por prosseguir as atribuições do ICA, I. P., em matéria de promoção da captação de filmagens e produções audiovisuais internacionais para Portugal, de simplificação e agilização dos procedimentos para esse efeito e de acompanhamento e colaboração na gestão dos respetivos instrumentos e incentivos financeiros, em articulação com o Turismo de Portugal, I. P.\n\n2 - A PFC é composta:\n\na) Pelo Film Commissioner, que preside e coordena a atividade da PFC e que é, por inerência, o presidente do conselho diretivo do ICA, I. P., sem direito a qualquer remuneração adicional;\n\nb) Pelo diretor executivo, cargo de direção intermédia de 1.º grau, que coadjuva o Film Commissioner na prossecução da atividade da PFC e dele depende diretamente;\n\nc) Pela rede de pontos focais, nos termos do disposto no artigo seguinte.\n\n3 - Sem prejuízo das competências conferidas por lei ou que nela sejam delegadas ou subdelegadas, compete à PFC:\n\na) Criar condições para a afirmação e promoção de Portugal no mundo como destino de excelência para a produção e realização de filmagens internacionais, em articulação com o Turismo de Portugal, I. P.;\n\nb) Garantir a projeção internacional de Portugal como destino privilegiado de filmagens, em articulação com o Turismo de Portugal, I. P.;\n\nc) Fazer, em articulação com o Turismo de Portugal, I. P., a promoção nacional e internacional do FATC e/ou das linhas de apoio subsequentes que lhe venham a suceder, enquanto instrumento competitivo desenhado para captar a produção cinematográfica e audiovisual para Portugal;\n\nd) Definir as melhores práticas e métodos para apoiar os produtores nacionais e internacionais no domínio das filmagens;\n\ne) Assegurar a articulação com todos os serviços no âmbito do desempenho das suas tarefas, designadamente acompanhando a implementação do balcão único de procedimentos, no domínio de apoios e de licenciamentos;\n\nf) Garantir, na relação com as entidades do território nacional, uma articulação eficaz, informada e colaborativa, designadamente com os municípios e freguesias, entidades regionais de turismo e direções regionais de cultura;\n\ng) Promover a criação de bases de dados dos diversos prestadores de serviços técnicos e logísticos existentes em território nacional, com vista a garantir o melhor aproveitamento dos recursos existentes e das condições de apoio à realização de filmagens;\n\nh) Garantir a correta identificação e reporte das necessidades e dificuldades práticas das produções de filmagens, assegurando a implementação de medidas de resolução adequadas;\n\ni) Identificar as alterações legislativas, regulamentares ou de cooperação interadministrativa que permitam a simplificação e uniformização dos procedimentos administrativos de licenciamento, autorização ou comunicação prévia necessários para a produção de filmagens no território nacional;\n\nj) Submeter a parecer do conselho consultivo:\n\ni) Um plano estratégico da PFC para cada triénio;\n\nii) Os planos e relatórios anuais de atividades na parte respeitante à PFC.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+  },
+  "207808472": {
+   "fragment_id": "207862984",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Rede de pontos focais",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-B — Rede de pontos focais\n\n1 - É criada a rede de pontos focais, que apoia a atividade da PFC.\n\n2 - Compete à rede de pontos focais:\n\na) Pronunciar-se sobre questões suscitadas no âmbito dos trabalhos da PFC, designadamente procurando superar dificuldades no contexto dos procedimentos para a emissão dos atos administrativos autorizativos necessários à realização de filmagens;\n\nb) Emitir parecer sobre qualquer assunto relativo às atribuições da PFC, sempre que por esta for solicitado.\n\n3 - A rede de pontos focais é composta por representantes de gabinetes ministeriais das áreas governativas da internacionalização, da modernização administrativa, do turismo e da cultura, bem como por representantes de outras entidades de especial relevância ao nível dos procedimentos a que se refere a alínea a) do número anterior, a indicar e convocar pela PFC.\n\n4 - Aos membros da rede de pontos focais não é devida qualquer remuneração.\n\n5 - A PFC deve assegurar a realização de reuniões bianuais com a rede de pontos focais, sendo os respetivos representantes convocados para participar nas reuniões em razão do assunto que conste da ordem de trabalhos, devendo, em todo o caso, estar sempre presentes representantes das áreas governativas da internacionalização, da modernização administrativa, do turismo e da cultura.\n\n6 - Em função da sua relevância em matéria de procedimentos, outras entidades podem ser convidadas a integrar a rede de pontos focais.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+  },
+  "207863381": {
+   "fragment_id": "207862985",
+   "type": 11,
+   "heading": "Artigo 7.º-C — Conselho consultivo",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-C — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de consulta, apoio e participação na definição das linhas gerais de atuação do ICA, I. P., no âmbito das atribuições do ICA, I. P., prosseguidas pela PFC.\n\n2 - Compete, designadamente, ao conselho consultivo:\n\na) Emitir parecer sobre o plano estratégico, sobre o plano de atividades anual da PFC e sobre os respetivos relatórios de atividades;\n\nb) Emitir parecer sobre qualquer assunto relativo às atribuições do ICA, I. P., prosseguidas pela PFC, sempre que tal lhe for solicitado.\n\n3 - O conselho consultivo é composto pelo presidente do conselho diretivo do Turismo de Portugal, I. P., que preside, pelo Film Commissioner e por representantes das seguintes entidades:\n\na) Agência para o Investimento e Comércio Externo de Portugal, E. P. E.;\n\nb) Associações representativas das empresas da área da produção cinematográfica e audiovisual;\n\nc) Entidades de qualquer natureza jurídica, locais e regionais, com competências na área do turismo e da produção cinematográfica e audiovisual;\n\nd) Individualidades e entidades de reconhecido mérito na área do turismo e da produção cinematográfica e audiovisual, a designar pelo membro do Governo responsável pela área da cultura.\n\n4 - Os membros do conselho consultivo não são remunerados, nem auferem qualquer compensação pelo exercício das suas funções.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+  },
+  "207863382": {
+   "fragment_id": "207809634",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna do ICA, I. P., é a prevista nos respetivos estatutos."
+  },
+  "207863383": {
+   "fragment_id": "207809635",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O ICA, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O ICA, I. P., dispõe ainda das seguintes receitas próprias:\n\na) O produto das taxas que lhe sejam consignadas por lei, designadamente a taxa de exibição bem como as cobradas em conformidade com as leis que regulam as atividades do setor, em especial a lei das artes e atividades cinematográficas e do audiovisual;\n\nb) O produto da venda de bens e serviços prestados;\n\nc) As quantias que resultem da exploração ou da titularidade de direitos de propriedade sobre produtos, patentes e demais direitos privativos de natureza industrial ou intelectual que venham a ser desenvolvidos no âmbito das atividades do ICA, I. P., e que por lei lhe sejam consignados;\n\nd) As comparticipações e os subsídios concedidos por quaisquer entidades;\n\ne) A percentagem do valor das coimas que lhe esteja afeta, nos termos da lei;\n\nf) As doações, heranças ou legados;\n\ng) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património, nos termos da lei;\n\nh) Quaisquer outros rendimentos que por lei, contrato ou qualquer outro título lhe devam pertencer.\n\n3 - As receitas referidas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas do ICA, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual."
+  },
+  "207863384": {
+   "fragment_id": "207809636",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": "2023-02-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Despesas\n\n1 - Constituem despesas do ICA, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições.\n\n2 - As despesas de funcionamento da PFC, incluindo remunerações e outros encargos com trabalhadores afetos à sua atividade, despesas com deslocações e estadias para participação em reuniões e em feiras internacionais, são suportadas pelos instrumentos legais e financeiros destinados a apoiar ações, iniciativas e projetos que contribuam para o reforço do posicionamento do País enquanto destino turístico e que tenham por objetivos, entre outros, incentivar a produção cinematográfica e audiovisual e a captação de filmagens internacionais para Portugal, com o propósito de valorizar e promover a imagem do território e do País.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+  },
+  "207863385": {
+   "fragment_id": "207809637",
+   "type": 11,
+   "heading": "Artigo 11.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Património\n\nO património do ICA, I. P., é constituído pela universalidade dos bens, direitos e obrigações de que é titular."
+  },
+  "207863386": {
+   "fragment_id": "207809638",
+   "type": 11,
+   "heading": "Artigo 12.º — Participação em entidades de direito privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Participação em entidades de direito privado\n\nA participação e a aquisição ou aumento de participações em entes de direito privado por parte do ICA, I. P., apenas pode verificar-se em situações excecionais, quando cumulativamente seja demonstrada a imprescindibilidade para a prossecução das suas atribuições e seja obtida a autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da cultura, nos termos do artigo 13.º da lei quadro dos institutos públicos."
+  },
+  "207863387": {
+   "fragment_id": "207809639",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 95/2007, de 29 de março."
+  },
+  "207863388": {
+   "fragment_id": "207809640",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "207863389": {
+   "fragment_id": "207809641",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.\n\nPromulgado em 21 de março de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 22 de março de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "1054961413": {
+   "fragment_id": "207809629",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O ICA, I. P., tem por missão apoiar o desenvolvimento das atividades cinematográficas e audiovisuais, desde a criação até à divulgação e circulação nacional e internacional das obras, potenciando o surgimento de novos valores, contribuindo para a diversidade de oferta cultural e para a promoção da língua portuguesa e da identidade nacionais, promover a captação de filmagens e produções audiovisuais internacionais para Portugal e acompanhar e colaborar na gestão dos respetivos instrumentos e incentivos financeiros.\n\n2 - O ICA, I. P., prossegue as seguintes atribuições:\n\na) Apoiar o membro do Governo responsável pela área da cultura na definição de políticas públicas para os setores cinematográfico e audiovisual em conformidade com a sua missão;\n\nb) Assegurar diretamente em colaboração ou através de outras entidades a execução das políticas cinematográficas e audiovisuais;\n\nc) Propor programas, medidas e ações com vista a melhorar a eficácia e a eficiência das políticas referidas na alínea anterior e a assegurar a adequação destas às evoluções dos setores abrangidos;\n\nd) Promover uma efetiva divulgação e circulação nacional e internacional das obras, diretamente ou em cooperação com outras entidades;\n\ne) Assegurar a representação nacional nas instituições e órgãos internacionais nos domínios cinematográfico e audiovisual, nomeadamente a nível da União Europeia, do Conselho da Europa, da Cooperação Ibero-Americana e da Comunidade dos Países de Língua Portuguesa, bem como de outras plataformas de cooperação ou integração, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nf) Colaborar com as entidades competentes na elaboração de acordos internacionais no domínio cinematográfico e audiovisual e assegurar as tarefas relativas à aplicação dos acordos existentes, bem como estabelecer e aplicar parcerias e colaborações com instituições congéneres de outros países, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\ng) Contribuir para um melhor conhecimento dos setores do cinema e do audiovisual, recolhendo, tratando e divulgando informação estatística ou outra relevante, por si próprio ou em colaboração com outras entidades vocacionadas para o efeito;\n\nh) [Revogada.]\n\ni) Promover sinergias entre o cinema e o audiovisual enquanto indústrias criativas e o desenvolvimento económico, o desenvolvimento local e a valorização do território e do património cultural e natural;\n\nj) Promover a competitividade de Portugal como destino internacional de produção de filmagens, inclusivamente através da articulação com as film commissions regionais, a rede diplomática e as associações e empresas do setor;\n\nk) [Revogada.]\n\nl) [Revogada.]\n\nm) Agilizar o acesso a apoios e incentivos e coordenar a atuação das entidades públicas e privadas no processo de realização de filmagens em território nacional;\n\nn) [Revogada.]\n\n3 - As atribuições do ICA, I. P., em matéria de promoção da captação de filmagens e produções audiovisuais internacionais para Portugal, de simplificação e agilização dos procedimentos para esse efeito e de acompanhamento e colaboração na gestão dos respetivos instrumentos e incentivos financeiros são prosseguidas pela Portugal Film Commission (PFC).\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+  },
+  "1054961414": {
+   "fragment_id": "207809630",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do Instituto do Cinema e do Audiovisual, I. P. :\n\na) O conselho diretivo;\n\nb) O fiscal único;\n\nc) A PFC;\n\nd) O conselho consultivo da PFC.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+  },
+  "1054961415": {
+   "fragment_id": "207862983",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Portugal Film Commission",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Portugal Film Commission\n\n1 - A PFC é o órgão responsável por prosseguir as atribuições do ICA, I. P., em matéria de promoção da captação de filmagens e produções audiovisuais internacionais para Portugal e de simplificação e agilização dos procedimentos para esse efeito.\n\n2 - A PFC é composta:\n\na) Pelo Film Commissioner, que preside e coordena a atividade da PFC e que é, por inerência, o presidente do conselho diretivo do ICA, I. P., sem direito a qualquer remuneração adicional;\n\nb) Pelo diretor executivo, cargo de direção intermédia de 1.º grau, que coadjuva o Film Commissioner na prossecução da atividade da PFC e dele depende diretamente;\n\nc) Pela rede de pontos focais, nos termos do disposto no artigo seguinte.\n\n3 - Sem prejuízo das competências conferidas por lei ou que nela sejam delegadas ou subdelegadas, compete à PFC:\n\na) Promover o território e os recursos criativos, técnicos jurídicos e financeiros de Portugal e a sua competitividade à escala mundial como destino de excelência para a produção e realização de filmagens internacionais, em harmonia com a estratégia e atuação dos departamentos competentes do ICA, I. P., e em articulação com o Turismo de Portugal, I. P., e demais entidades relevantes neste domínio;\n\nb) [Revogada.]\n\nc) [Revogada.]\n\nd) Definir as melhores práticas e métodos para apoiar os produtores nacionais e internacionais no domínio das filmagens;\n\ne) Assegurar a articulação com todos os serviços no âmbito do desempenho das suas tarefas, designadamente acompanhando a implementação do balcão único de procedimentos, no domínio de apoios e de licenciamentos;\n\nf) Garantir, na relação com as entidades do território nacional, uma articulação eficaz, informada e colaborativa, designadamente com os municípios e freguesias, entidades regionais de turismo e direções regionais de cultura;\n\ng) Promover a criação de bases de dados dos diversos prestadores de serviços técnicos e logísticos existentes em território nacional, com vista a garantir o melhor aproveitamento dos recursos existentes e das condições de apoio à realização de filmagens;\n\nh) Garantir a correta identificação e reporte das necessidades e dificuldades práticas das produções de filmagens, assegurando a implementação de medidas de resolução adequadas;\n\ni) Identificar as alterações legislativas, regulamentares ou de cooperação interadministrativa que permitam a simplificação e uniformização dos procedimentos administrativos de licenciamento, autorização ou comunicação prévia necessários para a produção de filmagens no território nacional;\n\nj) Submeter a parecer do conselho consultivo:\n\ni) Um plano estratégico da PFC para cada triénio;\n\nii) Os planos e relatórios anuais de atividades na parte respeitante à PFC.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+  },
+  "1054961416": {
+   "fragment_id": "207862985",
+   "type": 11,
+   "heading": "Artigo 7.º-C — Conselho consultivo da Portugal Film Commission",
+   "in_force_from": "2026-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-C — Conselho consultivo da Portugal Film Commission\n\n1 - O conselho consultivo é um órgão de consulta, apoio e participação na definição das linhas gerais de atuação do ICA, I. P., no âmbito das atribuições do ICA, I. P., prosseguidas pela PFC.\n\n2 - Compete, designadamente, ao conselho consultivo:\n\na) Emitir parecer sobre o plano estratégico, sobre o plano de atividades anual da PFC e sobre os respetivos relatórios de atividades;\n\nb) Emitir parecer sobre qualquer assunto relativo às atribuições do ICA, I. P., prosseguidas pela PFC, sempre que tal lhe for solicitado.\n\n3 - O conselho consultivo é composto pelos seguintes membros:\n\na) Um representante do membro do Governo responsável pela área da cultura, que preside;\n\nb) O Film Commissioner;\n\nc) Um representante do membro do Governo responsável pela área da economia e da coesão territorial;\n\nd) Um representante do membro do Governo responsável pela área da comunicação social e audiovisual;\n\ne) O presidente do Turismo de Portugal, I. P., ou um seu representante;\n\nf) Um representante da Agência para o Investimento e Comércio Externo de Portugal, E. P. E.;\n\ng) Um representante dos Produtores de Cinema e Audiovisual;\n\nh) Um representante dos Produtores Independentes de Televisão;\n\ni) Um representante das organizações sindicais de técnicos do setor;\n\nj) Um representante dos operadores de televisão e de serviços audiovisuais a pedido estabelecidos em Portugal;\n\nk) Um representante dos operadores de televisão e de serviços audiovisuais a pedido estabelecidos em outro Estado-Membro da UE sujeitos a contribuições financeiras nos termos do artigo 10.º da Lei n.º 55/2012, de 6 de setembro, na sua redação atual, ou a obrigações de investimento em obras cinematográficas e audiovisuais nos termos dos artigos 14.º-A a 16.º da mesma lei;\n\nl) Outras entidades ou pessoas com competências e relevância para as atribuições e objetivos da PFC, a designar pelo membro do Governo responsável pela área da cultura.\n\n4 - Os membros do conselho consultivo não são remunerados, nem auferem qualquer compensação pelo exercício das suas funções.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 57/2026 - Diário da República n.º 35/2026, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2026-1053378382), em vigor a partir de 2026-02-20\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 13/2023 - Diário da República n.º 40/2023, Série I de 2023-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2023-207760042), em vigor a partir de 2023-02-25, produz efeitos a partir de 2023-01-01"
+  }
+ }
+}

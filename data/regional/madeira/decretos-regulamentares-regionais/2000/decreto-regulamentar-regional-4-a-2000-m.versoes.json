@@ -1,0 +1,400 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:529865:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2000-169779208",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/4-a-2000-529865",
+ "source_lastmod": "2025-06-25",
+ "versions": [
+  {
+   "date": "2000-02-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "924366561",
+    "169779387",
+    "169779388",
+    "169779389",
+    "169779390",
+    "169779391",
+    "169779392",
+    "169779394"
+   ]
+  },
+  {
+   "date": "2000-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:230108:por",
+     "title": "Decreto Regulamentar Regional n.º 39-A/2000/M",
+     "published": "2000-08-10",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108"
+    }
+   ],
+   "changes": [
+    "Altera Mapa I",
+    "Altera Mapa II",
+    "Altera Mapa III",
+    "Altera Mapa V",
+    "Altera Mapa VI"
+   ],
+   "fragments": [
+    "169779386",
+    "169779387",
+    "169779388",
+    "169779389",
+    "169779390",
+    "169779391",
+    "169779392",
+    "169779393",
+    "169779394",
+    "922570984",
+    "922570985",
+    "922570986",
+    "922454520",
+    "922570987",
+    "922570988",
+    "922454523"
+   ]
+  },
+  {
+   "date": "2001-05-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:314198:por",
+     "title": "Decreto Regulamentar Regional n.º 7/2001/M",
+     "published": "2001-05-11",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/7-2001-314198"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "924366561",
+    "924366562",
+    "924366563",
+    "924366564",
+    "924366565",
+    "924366566",
+    "924366567",
+    "924366568",
+    "924366569",
+    "924366570",
+    "924366571",
+    "924366572",
+    "924366573",
+    "924366574",
+    "924671575",
+    "924671576"
+   ]
+  }
+ ],
+ "fragments": {
+  "924366561": {
+   "fragment_id": "169779209",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2001-05-12",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 4-A/2000/M\n\nAltera a Lei Orgânica da Secretaria Regional do Equipamento Social e Ambiente, aprovada pelo Decreto Regulamentar Regional n.º 4-A/93/M, de 2 de Fevereiro, com as alterações introduzidas pelos Decretos Regulamentares Regionais n.os 3/94/M, de 8 de Março, 7/95/M, de 5 de Abril, 5/96/M, de 17 de Maio, e 3/98/M, de 26 de Fevereiro.\n\nNa sequência da entrada em vigor do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, alterado pela Lei n.º 44/99, de 11 de Junho, que procedeu à reestruturação de carreiras do regime geral da função pública, foi publicado o Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto, o qual tornou extensiva tal reestruturação às carreiras e categorias específicas da administração pública regional da Madeira.\n\nConsiderando o quadro legal assim criado, urge inserir na orgânica e respectivos quadros de pessoal da Secretaria Regional do Equipamento Social e Ambiente as adequadas alterações, no sentido de melhor satisfazer as necessidades reais dos serviços e de adequá-los aos normativos decorrentes dos referidos diplomas.\n\nPor outro lado, a importância das alterações operadas, designadamente a nível da estrutura e das dotações de algumas carreiras, e ainda pela criação dos lugares de chefe de departamento, determinada pelo n.º 2 do artigo 21.º do Decreto Legislativo Regional n.º 23/99/M, impõe que se proceda à republicação integral dos mesmos quadros.\n\nNa oportunidade, importa também definir a dependência orgânica do quadro de pessoal afecto à concessão do Sistema Regional de Gestão e Abastecimento de Água da Região Autónoma da Madeira, criado pela Portaria n.º 221/99, de 22 de Dezembro.\n\nAssim:\n\nNos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 5 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, e revisto pela Lei n.º 130/99, de 21 de Agosto, e do Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "169779387": {
+   "fragment_id": "169779210",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Lei Orgânica da Secretaria Regional do Equipamento Social e Ambiente, aprovada pelo Decreto Regulamentar Regional n.º 4-A/93/M, de 2 de Fevereiro, com as alterações introduzidas pelos Decretos Regulamentares Regionais n.os 3/94/M, de 8 de Março, 7/95/M, de 5 de Abril, 5/96/M, de 17 de Maio, e 3/98/M, de 26 de Fevereiro, é alterada nos termos dos artigos seguintes."
+  },
+  "169779388": {
+   "fragment_id": "169779211",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs artigos 80.º, 83.º, 84.º, 85.º, 88.º, 89.º, 90.º e 91.º passam a ter a seguinte redacção:\n\n«Artigo 80.º\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - O quadro de pessoal afecto à concessão do Sistema Regional de Gestão e Abastecimento de Água a Região Autónoma da Madeira, criado pela Portaria n.º 221/99, de 22 de Dezembro, consta do mapa VII do anexo I ao presente diploma, ficando na dependência directa do Secretário Regional do Equipamento Social e Ambiente.\n\n7 - Todos os lugares do quadro referido no número anterior serão extintos à medida que vagarem.\n\nArtigo 83.º\n\nDo grupo de pessoal auxiliar constante dos quadros a que se refere o n.º 2 do artigo 80.º fazem também parte as carreiras de auxiliar de topografia, auxiliar técnico, tractorista, auxiliar de cantina e cafetaria, cozinheiro, fiel de armazém e leitor-cobrador e as categorias de encarregado de armazéns e chefe de armazém.\n\nArtigo 84.º\n\nA estrutura das remunerações das carreiras e categorias referidas no artigo anterior é a constante do Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto, exceptuando-se a do auxiliar técnico, que segue o disposto no anexo ao Decreto-Lei n.º 404-A/98, de 18 de Dezembro.\n\nArtigo 85.º\n\n1 - A carreira de auxiliar de topografia é de estrutura vertical, sendo de estrutura horizontal as restantes carreiras referidas no artigo 83.º\n\n2 - A progressão na categoria de encarregado de armazéns faz-se em módulos de três anos.\n\nArtigo 88.º\n\nO recrutamento para ingresso nas carreiras de auxiliar de topografia, auxiliar de cantina e cafetaria, fiel de armazém e auxiliar técnico faz-se, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória.\n\nArtigo 89.º\n\n1 - ...\n\n2 - ...\n\n3 - Na situação prevista no número anterior, caso o concurso fique deserto, segue-se o disposto no n.º 2 do artigo 6.º do Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto.\n\nArtigo 90.º\n\nO recrutamento para ingresso na carreira de cozinheiro faz-se, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória e experiência profissional adequada ao exercício da respectiva profissão.\n\nArtigo 91.º\n\nO recrutamento para ingresso na carreira de tractorista obedece às normas que para o mesmo efeito se encontram definidas no artigo 10.º do Decreto-Lei n.º 404-A/98, para a carreira de motorista de ligeiros.»"
+  },
+  "169779389": {
+   "fragment_id": "169779212",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ aditado o artigo 82.º-A, com a seguinte redacção:\n\n«Artigo 82.º-A\n\n1 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n2 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.\n\n3 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeitos de progressões futuras.\n\n4 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n5 - Os lugares de chefe de departamento são a extinguir quando vagarem.\n\n6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.»"
+  },
+  "169779390": {
+   "fragment_id": "169779213",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs quadros de pessoal constantes dos mapas I a VI do anexo I e, bem assim, o quadro de pessoal criado pela Portaria n.º 221/99, de 22 de Dezembro, são alterados de acordo com os mapas correspondentes ao anexo I do presente diploma, numerados de I a VII, do qual fazem parte integrante."
+  },
+  "169779391": {
+   "fragment_id": "169779214",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os que lhes correspondam nos quadros constantes dos mapas anexos ao presente diploma."
+  },
+  "169779392": {
+   "fragment_id": "169779215",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "169779394": {
+   "fragment_id": "169779217",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I"
+  },
+  "169779386": {
+   "fragment_id": "169779209",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 4-A/2000/M\n\nAltera a Lei Orgânica da Secretaria Regional do Equipamento Social e Ambiente, aprovada pelo Decreto Regulamentar Regional n.º 4-A/93/M, de 2 de Fevereiro, com as alterações introduzidas pelos Decretos Regulamentares Regionais n.os 3/94/M, de 8 de Março, 7/95/M, de 5 de Abril, 5/96/M, de 17 de Maio, e 3/98/M, de 26 de Fevereiro.\n\nNa sequência da entrada em vigor do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, alterado pela Lei n.º 44/99, de 11 de Junho, que procedeu à reestruturação de carreiras do regime geral da função pública, foi publicado o Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto, o qual tornou extensiva tal reestruturação às carreiras e categorias específicas da administração pública regional da Madeira.\n\nConsiderando o quadro legal assim criado, urge inserir na orgânica e respectivos quadros de pessoal da Secretaria Regional do Equipamento Social e Ambiente as adequadas alterações, no sentido de melhor satisfazer as necessidades reais dos serviços e de adequá-los aos normativos decorrentes dos referidos diplomas.\n\nPor outro lado, a importância das alterações operadas, designadamente a nível da estrutura e das dotações de algumas carreiras, e ainda pela criação dos lugares de chefe de departamento, determinada pelo n.º 2 do artigo 21.º do Decreto Legislativo Regional n.º 23/99/M, impõe que se proceda à republicação integral dos mesmos quadros.\n\nNa oportunidade, importa também definir a dependência orgânica do quadro de pessoal afecto à concessão do Sistema Regional de Gestão e Abastecimento de Água da Região Autónoma da Madeira, criado pela Portaria n.º 221/99, de 22 de Dezembro.\n\nAssim:\n\nNos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 5 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, e revisto pela Lei n.º 130/99, de 21 de Agosto, e do Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "169779393": {
+   "fragment_id": "169779216",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 10 de Fevereiro de 2000.\n\nPelo Presidente do Governo Regional, José Paulo Baptista Fontes.\n\nAssinado em 25 de Fevereiro de 2000.\n\nPublique-se.\n\nO Ministro da República para Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "922570984": {
+   "fragment_id": "922534015",
+   "type": 14,
+   "heading": "Mapa I — Serviços dependentes do Secretário Regional",
+   "in_force_from": "2000-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11",
+    "Retificado pelo/a [Declaração de Rectificação n.º 5-J/2000 - Diário da República n.º 77/2000, 3º Suplemento, Série I-B de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-j-2000-184045), produz efeitos a partir de 2000-02-26"
+   ],
+   "markdown": "## Mapa I — Serviços dependentes do Secretário Regional\n\n(ver mapa no documento original)\n\n> Nota: [Declaração de Rectificação n.º 5-J/2000 - Diário da República n.º 77/2000, 3º Suplemento, Série I-B de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-j-2000-184045) No presente mapa, no grupo de pessoal dirigente, col. «Categoria/cargo», onde se lê «Auditor regional de obras públicas e ambientais» deve ler-se «Auditor regional de obras públicas e ambiente» e onde se lê «Directo do Gabinete de Estudos e Pareceres Jurídicos» deve ler-se «Director do Gabinete de Estudos e Pareceres Jurídicos».\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11\n\n> Retificado pelo/a [Declaração de Rectificação n.º 5-J/2000 - Diário da República n.º 77/2000, 3º Suplemento, Série I-B de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-j-2000-184045), produz efeitos a partir de 2000-02-26"
+  },
+  "922570985": {
+   "fragment_id": "922534016",
+   "type": 14,
+   "heading": "Mapa II — Direcção Regional de Obras Públicas",
+   "in_force_from": "2000-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+   ],
+   "markdown": "## Mapa II — Direcção Regional de Obras Públicas\n\n(ver mapa no documento original)\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+  },
+  "922570986": {
+   "fragment_id": "922534017",
+   "type": 14,
+   "heading": "Mapa III — Direcção Regional do Ambiente",
+   "in_force_from": "2000-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+   ],
+   "markdown": "## Mapa III — Direcção Regional do Ambiente\n\n(ver mapa no documento original)\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+  },
+  "922454520": {
+   "fragment_id": "922534018",
+   "type": 14,
+   "heading": "Mapa IV — Direcção Regional de Saneamento Básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa IV — Direcção Regional de Saneamento Básico\n\n(ver mapa no documento original)"
+  },
+  "922570987": {
+   "fragment_id": "922534019",
+   "type": 14,
+   "heading": "Mapa V — Direcção Regional de Estradas",
+   "in_force_from": "2000-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+   ],
+   "markdown": "## Mapa V — Direcção Regional de Estradas\n\n(ver mapa no documento original)\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+  },
+  "922570988": {
+   "fragment_id": "922534020",
+   "type": 14,
+   "heading": "Mapa VI — Direcção Regional de Urbanismo",
+   "in_force_from": "2000-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+   ],
+   "markdown": "## Mapa VI — Direcção Regional de Urbanismo\n\n(ver mapa no documento original)\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+  },
+  "922454523": {
+   "fragment_id": "922534021",
+   "type": 14,
+   "heading": "Mapa VII — Quadro do pessoal afecto ao Sistema Regional de Gestão e Abastecimento de Água da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa VII — Quadro do pessoal afecto ao Sistema Regional de Gestão e Abastecimento de Água da Região Autónoma da Madeira\n\n(ver mapa no documento original)"
+  },
+  "924366562": {
+   "fragment_id": "169779210",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "###### Artigo 1.º\n\nA Lei Orgânica da Secretaria Regional do Equipamento Social e Ambiente, aprovada pelo Decreto Regulamentar Regional n.º 4-A/93/M, de 2 de Fevereiro, com as alterações introduzidas pelos Decretos Regulamentares Regionais n.os 3/94/M, de 8 de Março, 7/95/M, de 5 de Abril, 5/96/M, de 17 de Maio, e 3/98/M, de 26 de Fevereiro, é alterada nos termos dos artigos seguintes.\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "924366563": {
+   "fragment_id": "169779211",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs artigos 80.º, 83.º, 84.º, 85.º, 88.º, 89.º, 90.º e 91.º passam a ter a seguinte redacção:\n\n«Artigo 80.º\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - O quadro de pessoal afecto à concessão do Sistema Regional de Gestão e Abastecimento de Água a Região Autónoma da Madeira, criado pela Portaria n.º 221/99, de 22 de Dezembro, consta do mapa VII do anexo I ao presente diploma, ficando na dependência directa do Secretário Regional do Equipamento Social e Ambiente.\n\n7 - Todos os lugares do quadro referido no número anterior serão extintos à medida que vagarem.\n\nArtigo 83.º\n\nDo grupo de pessoal auxiliar constante dos quadros a que se refere o n.º 2 do artigo 80.º fazem também parte as carreiras de auxiliar de topografia, auxiliar técnico, tractorista, auxiliar de cantina e cafetaria, cozinheiro, fiel de armazém e leitor-cobrador e as categorias de encarregado de armazéns e chefe de armazém.\n\nArtigo 84.º\n\nA estrutura das remunerações das carreiras e categorias referidas no artigo anterior é a constante do Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto, exceptuando-se a do auxiliar técnico, que segue o disposto no anexo ao Decreto-Lei n.º 404-A/98, de 18 de Dezembro.\n\nArtigo 85.º\n\n1 - A carreira de auxiliar de topografia é de estrutura vertical, sendo de estrutura horizontal as restantes carreiras referidas no artigo 83.º\n\n2 - A progressão na categoria de encarregado de armazéns faz-se em módulos de três anos.\n\nArtigo 88.º\n\nO recrutamento para ingresso nas carreiras de auxiliar de topografia, auxiliar de cantina e cafetaria, fiel de armazém e auxiliar técnico faz-se, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória.\n\nArtigo 89.º\n\n1 - ...\n\n2 - ...\n\n3 - Na situação prevista no número anterior, caso o concurso fique deserto, segue-se o disposto no n.º 2 do artigo 6.º do Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto.\n\nArtigo 90.º\n\nO recrutamento para ingresso na carreira de cozinheiro faz-se, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória e experiência profissional adequada ao exercício da respectiva profissão.\n\nArtigo 91.º\n\nO recrutamento para ingresso na carreira de tractorista obedece às normas que para o mesmo efeito se encontram definidas no artigo 10.º do Decreto-Lei n.º 404-A/98, para a carreira de motorista de ligeiros.»\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "924366564": {
+   "fragment_id": "169779212",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "###### Artigo 3.º\n\nÉ aditado o artigo 82.º-A, com a seguinte redacção:\n\n«Artigo 82.º-A\n\n1 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n2 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.\n\n3 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeitos de progressões futuras.\n\n4 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n5 - Os lugares de chefe de departamento são a extinguir quando vagarem.\n\n6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.»\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "924366565": {
+   "fragment_id": "169779213",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs quadros de pessoal constantes dos mapas I a VI do anexo I e, bem assim, o quadro de pessoal criado pela Portaria n.º 221/99, de 22 de Dezembro, são alterados de acordo com os mapas correspondentes ao anexo I do presente diploma, numerados de I a VII, do qual fazem parte integrante.\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "924366566": {
+   "fragment_id": "169779214",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "###### Artigo 5.º\n\nOs concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os que lhes correspondam nos quadros constantes dos mapas anexos ao presente diploma.\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "924366567": {
+   "fragment_id": "169779215",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "###### Artigo 6.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "924366568": {
+   "fragment_id": "169779216",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional em 10 de Fevereiro de 2000.\n\nPelo Presidente do Governo Regional, José Paulo Baptista Fontes.\n\nAssinado em 25 de Fevereiro de 2000.\n\nPublique-se.\n\nO Ministro da República para Região Autónoma da Madeira, Antero Alves Monteiro Diniz.\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "924366569": {
+   "fragment_id": "169779217",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "## Anexo I\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "924366570": {
+   "fragment_id": "922534015",
+   "type": 14,
+   "heading": "Mapa I — Serviços dependentes do Secretário Regional",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11",
+    "Retificado pelo/a [Declaração de Rectificação n.º 5-J/2000 - Diário da República n.º 77/2000, 3º Suplemento, Série I-B de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-j-2000-184045), produz efeitos a partir de 2000-02-26"
+   ],
+   "markdown": "## Mapa I — Serviços dependentes do Secretário Regional\n\n(ver mapa no documento original)\n\n> Nota: [Artigo 98.º, Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198) Os funcionários providos em lugares dos quadros a que se refere o presente mapa, com excepção dos funcionários do Gabinete de Topografia e Desenho, mantêm-se nos mesmos lugares do mapa I do anexo I ao Decreto Regulamentar Regional n.º 7/2001/M. O pessoal afecto ao Gabinete de Topografia e Desenho transita para os correspondentes lugares do quadro a que se refere o mapa IV do anexo I ao Decreto Regulamentar Regional n.º 7/2001/M, mediante lista nominativa a aprovar por despacho do Secretário Regional do Equipamento Social e Transportes, com efeitos à data da entrada em vigor do Decreto Regulamentar Regional n.º 7/2001/M e com dispensa de quaisquer outras formalidades.\n\n> Nota: [Declaração de Rectificação n.º 5-J/2000 - Diário da República n.º 77/2000, 3º Suplemento, Série I-B de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-j-2000-184045) No presente mapa, no grupo de pessoal dirigente, col. «Categoria/cargo», onde se lê «Auditor regional de obras públicas e ambientais» deve ler-se «Auditor regional de obras públicas e ambiente» e onde se lê «Directo do Gabinete de Estudos e Pareceres Jurídicos» deve ler-se «Director do Gabinete de Estudos e Pareceres Jurídicos».\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11\n\n> Retificado pelo/a [Declaração de Rectificação n.º 5-J/2000 - Diário da República n.º 77/2000, 3º Suplemento, Série I-B de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-j-2000-184045), produz efeitos a partir de 2000-02-26"
+  },
+  "924366571": {
+   "fragment_id": "922534016",
+   "type": 14,
+   "heading": "Mapa II — Direcção Regional de Obras Públicas",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+   ],
+   "markdown": "## Mapa II — Direcção Regional de Obras Públicas\n\n(ver mapa no documento original)\n\n> Nota: [Artigo 98.º, Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198) Os funcionários providos em lugares dos quadros a que se refere o presente mapa mantêm-se nos mesmos lugares do mapa II do anexo I ao Decreto Regulamentar Regional n.º 7/2001/M.\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+  },
+  "924366572": {
+   "fragment_id": "922534017",
+   "type": 14,
+   "heading": "Mapa III — Direcção Regional do Ambiente",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+   ],
+   "markdown": "## Mapa III — Direcção Regional do Ambiente\n\n(ver mapa no documento original)\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+  },
+  "924366573": {
+   "fragment_id": "922534018",
+   "type": 14,
+   "heading": "Mapa IV — Direcção Regional de Saneamento Básico",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "## Mapa IV — Direcção Regional de Saneamento Básico\n\n(ver mapa no documento original)\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "924366574": {
+   "fragment_id": "922534019",
+   "type": 14,
+   "heading": "Mapa V — Direcção Regional de Estradas",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+   ],
+   "markdown": "## Mapa V — Direcção Regional de Estradas\n\n(ver mapa no documento original)\n\n> Nota: [Artigo 98.º, Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198) Os funcionários providos em lugares dos quadros a que se refere o presente mapa mantêm-se nos mesmos lugares do mapa III do anexo I ao Decreto Regulamentar Regional n.º 7/2001/M.\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+  },
+  "924671575": {
+   "fragment_id": "922534020",
+   "type": 14,
+   "heading": "Mapa VI — Direcção Regional de Urbanismo",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+   ],
+   "markdown": "## Mapa VI — Direcção Regional de Urbanismo\n\n(ver mapa no documento original)\n\n> Nota: [Artigo 98.º, Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198) Os funcionários providos em lugares do quadro da Direcção Regional de Urbanismo a que se refere o presente mapa transitam para os correspondentes lugares do quadro a que se refere o mapa IV do anexo I ao Decreto Regulamentar Regional n.º 7/2001/M, mediante lista nominativa a aprovar por despacho do Secretário Regional do Equipamento Social e Transportes, com efeitos à data da entrada em vigor do Decreto Regulamentar Regional n.º 7/2001/M e com dispensa de quaisquer outras formalidades.\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 39-A/2000/M - Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108), em vigor a partir de 2000-08-11"
+  },
+  "924671576": {
+   "fragment_id": "922534021",
+   "type": 14,
+   "heading": "Mapa VII — Quadro do pessoal afecto ao Sistema Regional de Gestão e Abastecimento de Água da Região Autónoma da Madeira",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "## Mapa VII — Quadro do pessoal afecto ao Sistema Regional de Gestão e Abastecimento de Água da Região Autónoma da Madeira\n\n(ver mapa no documento original)\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  }
+ }
+}

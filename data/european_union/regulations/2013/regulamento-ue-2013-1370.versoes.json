@@ -1,0 +1,624 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013R1370:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1370-20170801",
+ "dre_path": null,
+ "source_lastmod": "2017-08-01",
+ "versions": [
+  {
+   "date": "2013-12-20",
+   "future": false,
+   "celex": "32013R1370",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "aeca0c59ff4e2a86",
+    "89c12a9ea60f6d47",
+    "c12b4274b60600ae",
+    "f388cc980d9937cc",
+    "f512408c8c32d037",
+    "35e9ef89abc2ec69",
+    "0c42ee7b3e9c7bfc",
+    "52a12700e985468e",
+    "4b15755cb1766a51",
+    "76047bf96583b58d",
+    "6223f64d6a66e794",
+    "bc62f5e6eccae204",
+    "87e8b53a661f2e0c",
+    "f51a27ee0605fd1d",
+    "7f93f3c27bc23016",
+    "ef21919cbb298891",
+    "a33349aca88a729a",
+    "fea2f01fc0af16d1",
+    "23b183a929c225ce"
+   ]
+  },
+  {
+   "date": "2016-04-20",
+   "future": false,
+   "celex": "02013R1370-20160420",
+   "acts": [
+    {
+     "id": "eu:celex:32016R0591:por",
+     "title": "REGULAMENTO (UE) 2016/591 DO CONSELHO de 15 de abril de 2016",
+     "published": null,
+     "celex": "32016R0591"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Âmbito de aplicação",
+    "Altera Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis",
+    "Altera Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+    "Altera Artigo 13.º — Fixação das restituições à exportação",
+    "Altera Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+    "Altera Artigo 17.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita TABELA DE CORRESPONDÊNCIA",
+    "Adita referida no artigo 16.º"
+   ],
+   "fragments": [
+    "e5ac61df3078774c",
+    "103557f561f007ce",
+    "c12b4274b60600ae",
+    "214ffbe8cf20f1b4",
+    "f512408c8c32d037",
+    "38a0464b5cb33b29",
+    "0c42ee7b3e9c7bfc",
+    "52a12700e985468e",
+    "4b15755cb1766a51",
+    "76047bf96583b58d",
+    "6223f64d6a66e794",
+    "bc62f5e6eccae204",
+    "87e8b53a661f2e0c",
+    "9e5366400158ee0a",
+    "ee1515dcbfaef304",
+    "ef21919cbb298891",
+    "a33349aca88a729a",
+    "a12988bb35131a1b",
+    "10220b9774fa9034",
+    "1a84684791ab909d",
+    "c61e232fbdb08a78",
+    "7c83617d17bbfa21"
+   ]
+  },
+  {
+   "date": "2016-06-30",
+   "future": false,
+   "celex": "02013R1370-20160630",
+   "acts": [
+    {
+     "id": "eu:celex:32016R1042:por",
+     "title": "REGULAMENTO (UE) 2016/1042 DO CONSELHO de 24 de junho de 2016",
+     "published": null,
+     "celex": "32016R1042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis",
+    "Altera Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+    "Altera Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "e5ac61df3078774c",
+    "103557f561f007ce",
+    "c12b4274b60600ae",
+    "084c1b902e7114f1",
+    "f512408c8c32d037",
+    "449f1469b170ea44",
+    "0c42ee7b3e9c7bfc",
+    "52a12700e985468e",
+    "4b15755cb1766a51",
+    "76047bf96583b58d",
+    "6223f64d6a66e794",
+    "bc62f5e6eccae204",
+    "87e8b53a661f2e0c",
+    "9e5366400158ee0a",
+    "62c48b9a90d88c91",
+    "ef21919cbb298891",
+    "a33349aca88a729a",
+    "a12988bb35131a1b",
+    "10220b9774fa9034",
+    "1a84684791ab909d",
+    "c61e232fbdb08a78",
+    "df9bf30ebbdbedfb"
+   ]
+  },
+  {
+   "date": "2016-12-08",
+   "future": false,
+   "celex": "02013R1370-20161208",
+   "acts": [
+    {
+     "id": "eu:celex:32016R2145:por",
+     "title": "REGULAMENTO (UE) 2016/2145 DO CONSELHO de 1 de dezembro de 2016",
+     "published": null,
+     "celex": "32016R2145"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Preços de intervenção pública",
+    "Altera Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+    "Altera Artigo 8.º — Restituição à produção do setor do açúcar",
+    "Altera Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+    "Altera Notas",
+    "Adita Artigo 1.º-A — Limiares de referência"
+   ],
+   "fragments": [
+    "e5ac61df3078774c",
+    "103557f561f007ce",
+    "ae8bb466d707988a",
+    "37f9329704d01d37",
+    "084c1b902e7114f1",
+    "f512408c8c32d037",
+    "73afa7dec00227ed",
+    "0c42ee7b3e9c7bfc",
+    "52a12700e985468e",
+    "6ca145f557553dfc",
+    "76047bf96583b58d",
+    "6223f64d6a66e794",
+    "bc62f5e6eccae204",
+    "87e8b53a661f2e0c",
+    "9e5366400158ee0a",
+    "7c03dc19cc7bd40f",
+    "ef21919cbb298891",
+    "a33349aca88a729a",
+    "a12988bb35131a1b",
+    "10220b9774fa9034",
+    "1a84684791ab909d",
+    "c61e232fbdb08a78",
+    "f7079fdd482a97f6"
+   ]
+  },
+  {
+   "date": "2017-08-01",
+   "future": false,
+   "celex": "02013R1370-20170801",
+   "acts": [
+    {
+     "id": "eu:celex:32016R0795:por",
+     "title": "REGULAMENTO (UE) 2016/795 DO CONSELHO de 11 de abril de 2016",
+     "published": null,
+     "celex": "32016R0795"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+    "Altera Notas",
+    "Adita Artigo 5.º — Ajuda à distribuição de fruta, produtos hortícolas e leite nas escolas, medidas educativas de acompanhamento e custos conexos",
+    "Adita [►M2](http://publications.europa.eu/resource/celex/32016R0795) ANEXO II◄",
+    "Adita ANEXO I",
+    "Adita DOTAÇÕES INDICATIVAS",
+    "Adita para o período compreendido entre 1 de agosto de 2017 e 31 de julho de 2023",
+    "Adita (conforme referido no artigo 5.º, n.º 4, segundo parágrafo)",
+    "Suprime Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+    "Suprime Artigo 6.º — Ajuda ao fornecimento de leite e de produtos lácteos às crianças",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "e5ac61df3078774c",
+    "103557f561f007ce",
+    "ae8bb466d707988a",
+    "37f9329704d01d37",
+    "084c1b902e7114f1",
+    "f512408c8c32d037",
+    "1f89dffe95ebf953",
+    "52a12700e985468e",
+    "6ca145f557553dfc",
+    "76047bf96583b58d",
+    "6223f64d6a66e794",
+    "bc62f5e6eccae204",
+    "87e8b53a661f2e0c",
+    "9e5366400158ee0a",
+    "1c32e3d5ac7ff703",
+    "ef21919cbb298891",
+    "a33349aca88a729a",
+    "a12988bb35131a1b",
+    "b74b289f1a35df1c",
+    "1a84684791ab909d",
+    "af30df49cd33a446",
+    "d664376e2a8dcecd",
+    "71feee7d3eb8eb4b",
+    "3e7ff7523db7e244",
+    "d951a88b3b577f08",
+    "4e58fdcef43e5e72"
+   ]
+  }
+ ],
+ "fragments": {
+  "aeca0c59ff4e2a86": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de dezembro de 2013\n\nque determina medidas sobre a fixação de certas ajudas e restituições relativas à organização comum dos mercados dos produtos agrícolas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 43.º, n.º 3,\n\nTendo em conta a proposta da Comissão Europeia,\n\nConsiderando o seguinte:\n\n(1) A Comunicação da Comissão ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões, intitulada «A PAC no horizonte 2020: Responder aos desafios do futuro em matéria de alimentação, recursos naturais e territoriais», define os potenciais desafios, os objetivos e as orientações para a Política Agrícola Comum (PAC) após 2013. Na sequência do debate sobre a referida comunicação, a PAC deverá ser reformada com efeitos desde 1 de janeiro de 2014. Essa reforma deverá abranger todos os principais instrumentos da PAC, incluindo o Regulamento (CE) n.º 1234/2007 [([^1])](http://publications.europa.eu/resource/cellar/820c3e64-6974-11e3-a7e4-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2013346PT.01001201-E0001). No contexto do quadro normativo revisto, deverão ser tomadas medidas relativas à fixação dos preços, das imposições, das ajudas e das limitações quantitativas.\n\n(2) Por razões de clareza e transparência, as disposições em matéria de intervenção pública deverão obedecer a uma estrutura comum, embora mantendo a política aplicada em cada setor. Para tal, é conveniente distinguir entre, por um lado, os limiares de referência fixados no Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/820c3e64-6974-11e3-a7e4-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2013346PT.01001201-E0002) e, por outro, os preços de intervenção, e definir estes últimos. Só os preços de intervenção para intervenção pública correspondem aos preços aplicados, definidos administrativamente, a que se refere o Anexo 3, ponto 8, primeiro período, do Acordo da OMC sobre a Agricultura (isto é, apoio ao preço de mercado). Neste contexto, deverá entender-se que a intervenção no mercado pode assumir a forma de intervenção pública, bem como outras formas de intervenção que não utilizam indicações de preços estabelecidas *ex ante*.\n\n(3) Deverá ser previsto o nível do preço de intervenção pública ao qual as compras são efetuadas a preço fixado ou no quadro de um procedimento concursal, incluindo os casos para os quais possa ser necessário um ajustamento dos preços de intervenção pública. Da mesma forma, deverão ser tomadas medidas sobre as limitações quantitativas para a execução das compras a preço fixado. Em ambos os casos, os preços e as medidas sobre as limitações quantitativas deverão refletir a prática e a experiência adquirida com as anteriores organizações comuns de mercado.\n\n(4) O Regulamento (UE) n.º 1308/2013 prevê a concessão de ajudas ao armazenamento privado como medida de intervenção no mercado. Deverão ser previstas medidas sobre a fixação dos montantes de ajuda. Tendo em conta a prática e a experiência adquirida com as anteriores organizações comuns de mercado, é conveniente prever a fixação dos montantes de ajuda antecipadamente e através de um procedimento concursal e ter em conta determinados elementos quando a ajuda seja fixada antecipadamente.\n\n(5) Por razões de boa gestão orçamental do regime de distribuição de fruta e produtos hortícolas nas escolas, deverá ser fixado um limite máximo para a ajuda da União, bem como taxas máximas de cofinanciamento. A fim de permitir que todos os Estados-Membros apliquem um regime de distribuição de fruta e produtos hortícolas nas escolas eficaz em termos de custos, deverá ser estabelecido um montante mínimo específico de ajuda da União.\n\n(6) A fim de assegurar o bom funcionamento da ajuda ao fornecimento de leite e de produtos lácteos às crianças nos estabelecimentos de ensino e de assegurar a flexibilidade na administração do regime, deverá ser estabelecida uma quantidade máxima de leite elegível para ajuda, bem como o montante do ajuda da União.\n\n(7) Por força do Regulamento (UE) n.º 1308/2013, várias medidas no setor do açúcar caducarão no final da campanha de comercialização de 2016/2017 para o açúcar, quando for abolido o sistema de quotas.\n\n(8) Deverão ser previstas no presente regulamento medidas relativas à fixação do encargo de produção imposto às quotas de açúcar, de isoglicose ou de xarope de inulina estabelecidas no setor do açúcar, em conformidade com a prorrogação do regime de quotas até 30 de setembro de 2017.\n\n(9) A fim de assegurar a eficiência do regime de restituição à produção para certos produtos do setor do açúcar, há que determinar as condições adequadas para fixar o montante da restituição à produção.\n\n(10) A fim de assegurar um nível de vida equitativo aos produtores de beterraba açucareira e de cana-de-açúcar da União, deverá ser fixado um preço mínimo para a beterraba de quota, correspondente a uma qualidade-tipo a definir.\n\n(11) A fim de evitar uma ameaça para a situação do mercado do açúcar devida à acumulação de quantidades de açúcar, isoglicose e xarope de inulina, para as quais as condições aplicáveis não estejam reunidas, deverá prever-se uma imposição sobre os excedentes.\n\n(12) Foi criado no Regulamento (UE) n.º 1308/2013, um mecanismo para assegurar uma oferta suficiente e equilibrada de açúcar aos mercados da União, que autoriza a Comissão a tomar as medidas apropriadas para alcançar esse desiderato. Dado que os instrumentos de gestão do mercado para pôr em prática este mecanismo são os ajustamentos temporários dos direitos de importação a pagar sobre o açúcar bruto importado, bem como a aplicação temporária de uma imposição sobre a produção para além das quotas, introduzidos no mercado interno para efeitos de ajustamento da oferta à procura, deverá ser incluída no presente regulamento uma disposição específica que habilite a Comissão a aplicar essa imposição e a fixar o respetivo montante.\n\n(13) A fim de assegurar o bom funcionamento do regime de restituições à exportação, deverão ser previstas as medidas adequadas para fixar o montante das restituições. Além disso, nos setores dos cereais e do arroz, convém determinar as medidas adequadas para fixar as correções e para proceder ao ajustamento das restituições em função das eventuais alterações do nível do preço de intervenção.\n\n(14) A fim de assegurar uma gestão quotidiana eficiente da PAC, as medidas respeitantes à fixação das ajudas, restituições e preços estabelecidas no presente regulamento deverão ser limitadas às condições gerais que permitem fixar montantes concretos nas circunstâncias específicas de cada caso. A fim de assegurar condições uniformes para a execução do presente regulamento, deverão ser atribuídas à Comissão competências de execução para fixar tais montantes. Estas competências deverão ser exercidas com a assistência do Comité para a Organização Comum dos Mercados Agrícolas e nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/820c3e64-6974-11e3-a7e4-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2013346PT.01001201-E0003). Além disso, a fim de reagir rapidamente a condições de mercado em rápida mutação, a Comissão deverá ficar habilitada a fixar novos níveis de restituição e, nos setores dos cereais e do arroz, a adaptar as correções sem aplicar o Regulamento (UE) n.º 182/2011,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "89c12a9ea60f6d47": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente regulamento determina as medidas respeitantes à fixação de preços, ajudas e limitações quantitativas relativas à organização comum única dos mercados agrícolas estabelecida pelo Regulamento (UE) n.º 1308/2013."
+  },
+  "c12b4274b60600ae": {
+   "fragment_id": "Artigo 2.º — Preços de intervenção pública",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Preços de intervenção pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Preços de intervenção pública\n\n1. O preço de intervenção pública:\n\na) Para o trigo mole, a cevada, o milho, o arroz com casca (arroz paddy) e o leite em pó desnatado, é igual ao limiar de referência respetivo fixado no artigo 7.º do Regulamento (UE) n.º 1308/2013, no caso da compra a preço fixado, e não excede o limiar de referência respetivo, no caso da compra por concurso;\n\nb) Para a manteiga, é igual a 90 % do limiar de referência fixado no artigo 7.º do Regulamento (UE) n.º 1308/2013, no caso da compra a preço fixado, e não excede 90 % do limiar de referência, no caso da compra por concurso;\n\nc) Para a carne de bovino, não excede o nível referido no artigo 13.º, n.º 1, alínea c), do Regulamento (UE) n.º 1308/2013.\n\n2. Os preços de intervenção pública para o trigo mole, trigo duro, cevada, milho e arroz com casca (arroz paddy), mencionados no n.º 1, são ajustados pela aplicação de bonificações ou de reduções a esses preços com base nos principais critérios de qualidade para os produtos.\n\n3. A Comissão adota atos de execução que determinam as bonificações ou reduções ao preço de intervenção pública dos produtos a que se refere o n.º 2 do presente artigo, de acordo com as condições nele estabelecidas. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2."
+  },
+  "f388cc980d9937cc": {
+   "fragment_id": "Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis\n\n1. Caso a intervenção pública seja aberta nos termos do artigo 13.º, n.º 1, alínea a), do Regulamento (UE) n.º 1308/2013, as compras devem ser efetuadas ao preço fixado referido no artigo 2.º do presente regulamento dentro das seguintes limitações quantitativas para cada período referido no artigo 12.º do Regulamento (UE) n.º 1308/2013, respetivamente:\n\na) Para o trigo mole, 3 milhões de toneladas;\n\nb) Para a manteiga, 50 000 toneladas;\n\nc) Para o leite em pó desnatado, 109 000 toneladas.\n\n2. Caso a intervenção pública seja aberta nos termos do artigo 13.º, n.º 1, do Regulamento (UE) n.º 1308/2013:\n\na) Para o trigo mole, a manteiga e o leite em pó desnatado para além dos limites quantitativos referidos no n.º 1 do presente artigo; e\n\nb) Para o trigo duro, a cevada, o milho, o arroz com casca (arroz paddy) e a carne de bovino,\n\nas compras devem ser efetuadas por procedimentos concursais para determinar o preço máximo de compra.\n\nO preço máximo de compra não deve exceder o nível referido no artigo 2.º, n.º 1, do presente regulamento e deve ser fixado através de atos de execução.\n\n3. Em circunstâncias especiais e devidamente justificadas, a Comissão pode adotar atos de execução que:\n\na) Restrinjam os procedimentos concursais em relação a um Estado-Membro ou a uma região de um Estado-Membro;\n\nb) Sob reserva do artigo 2.º, n.º 1, determinem os preços de compra para intervenção pública, por Estado-Membro ou por região de um Estado-Membro, com base nos preços médios de mercado registados.\n\n4. Os preços de compra referidos nos n.ºs 2 e 3 para o trigo mole, o trigo duro, a cevada, o milho e o arroz com casca (arroz paddy) devem ser ajustados pela aplicação de bonificações ou reduções a esses preços com base nos principais critérios de qualidade para esses produtos.\n\nA Comissão adota atos de execução que determinam essas bonificações ou reduções.\n\n5. Os atos de execução referidos nos n.ºs 2, 3 e 4 do presente artigo são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2.\n\n6. A Comissão adota, sem aplicar o procedimento a que se refere o artigo 15.º, n.º 2, os atos de execução necessários a fim de:\n\na) Respeitar os limites de intervenção estabelecidos no n.º 1 do presente artigo; e\n\nb) Aplicar o procedimento concursal referido no n.º 2 do presente artigo ao trigo mole, à manteiga e ao leite em pó desnatado para além das limitações quantitativas estabelecidas no n.º 1 do presente artigo."
+  },
+  "f512408c8c32d037": {
+   "fragment_id": "Artigo 4.º — Ajuda ao armazenamento privado",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Ajuda ao armazenamento privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ajuda ao armazenamento privado\n\n1. Para estabelecer o montante da ajuda ao armazenamento privado para os produtos enumerados no artigo 17.º do Regulamento (UE) n.º 1308/2013, caso seja concedida ajuda nos termos do artigo 18.º, n.º 2, desse regulamento, deve ser lançado um procedimento concursal por um período limitado ou a ajuda deve ser fixada antecipadamente. A ajuda pode ser fixada por Estado-Membro ou por região de um Estado-Membro.\n\n2. A Comissão adota atos de execução:\n\na) Caso se aplique um procedimento concursal, que estabelecem o montante máximo da ajuda ao armazenamento privado;\n\nb) Caso a ajuda seja fixada antecipadamente, que fixam o montante da ajuda com base nos custos de armazenamento ou em outros elementos relevantes do mercado.\n\nOs referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2."
+  },
+  "35e9ef89abc2ec69": {
+   "fragment_id": "Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças\n\n1. A ajuda da União para o fornecimento às crianças de frutas e produtos hortícolas, frutas e produtos hortícolas transformados e de produtos derivados de bananas a que se refere o artigo 23.º do Regulamento (UE) n.º 1308/2013 não deve:\n\na) Exceder qualquer dos seguintes limites: i) 150 milhões EUR por ano letivo; ii) 75 % dos custos de fornecimento e dos custos conexos referidos no artigo 23.º, n.º 1, do Regulamento (UE) n.º 1308/2013 ou 90 % desses custos nas regiões menos desenvolvidas e nas regiões ultraperiféricas referidas no artigo 349.º do Tratado; nem\n\ni) 150 milhões EUR por ano letivo;\n\nii) 75 % dos custos de fornecimento e dos custos conexos referidos no artigo 23.º, n.º 1, do Regulamento (UE) n.º 1308/2013 ou 90 % desses custos nas regiões menos desenvolvidas e nas regiões ultraperiféricas referidas no artigo 349.º do Tratado; nem\n\nb) Cobrir outros custos que não sejam os custos de fornecimento e os custos conexos referidos no artigo 23.º, n.º 1, do Regulamento (UE) n.º 1308/2013.\n\nPara os efeitos do primeiro parágrafo, alínea a), subalínea ii), entende-se por «regiões menos desenvolvidas» as regiões tal como definidas no artigo 90.º, n.º 2, primeiro parágrafo, alínea a), do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/820c3e64-6974-11e3-a7e4-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2013346PT.01001201-E0004).\n\n2. Cada um dos Estados-Membros participantes no regime de distribuição de fruta e produtos hortícolas nas escolas recebe pelo menos 290 000 EUR de ajuda da União.\n\nA Comissão adota atos de execução que fixam a repartição indicativa da ajuda mencionada no n.º 1 do presente artigo por Estado-Membro, com base nos critérios referidos no artigo 23.º, n.º 5, do Regulamento (UE) n.º 1308/2013.\n\nA Comissão avalia pelo menos de três em três anos se a repartição indicativa continua a corresponder aos critérios indicados no artigo 23.º, n.º 5, do Regulamento (UE) n.º 1308/2013. Se necessário, a Comissão adota atos de execução que fixam uma nova repartição indicativa.\n\nNa sequência dos pedidos apresentados pelos Estados-Membros nos termos do artigo 23.º, n.º 5, segundo parágrafo, do Regulamento (UE) n.º 1308/2013, a Comissão adota todos os anos atos de execução que fixam a repartição definitiva da ajuda mencionada no n.º 1 do presente artigo pelos Estados-Membros participantes, de acordo com as condições estabelecidas naquele número.\n\nOs atos de execução referidos no presente número são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "0c42ee7b3e9c7bfc": {
+   "fragment_id": "Artigo 6.º — Ajuda ao fornecimento de leite e de produtos lácteos às crianças",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Ajuda ao fornecimento de leite e de produtos lácteos às crianças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ajuda ao fornecimento de leite e de produtos lácteos às crianças\n\n1. A ajuda da União para o fornecimento de leite e de produtos lácteos às crianças, prevista no artigo 26.º do Regulamento (UE) n.º 1308/2013, é concedida em relação a uma quantidade máxima de 0,25 litros de equivalente-leite por criança e por dia letivo.\n\n2. O montante da ajuda da União é fixado em 18,15 EUR/100 kg para todos os leites.\n\n3. A Comissão adota atos de execução que fixam os montantes de ajuda a outros produtos lácteos elegíveis que não o leite, baseados nomeadamente nos componentes lácteos dos produtos em causa. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2."
+  },
+  "52a12700e985468e": {
+   "fragment_id": "Artigo 7.º — Encargos de produção do setor do açúcar",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Encargos de produção do setor do açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Encargos de produção do setor do açúcar\n\n1. Os encargos à produção sobre as quotas de açúcar, de isoglicose ou de xarope de inulina, previstos no artigo 128.º do Regulamento (UE) n.º 1308/2013, são fixados em 12,00 EUR por tonelada para o açúcar de quota e o xarope de inulina de quota. O encargo à produção imposto à isoglicose é fixado em 50 % do encargo aplicável ao açúcar.\n\n2. Os Estados-Membros cobram a totalidade do encargo à produção a pagar nos termos do n.º 1 às empresas estabelecidas no respetivo território, com base na quota de que estas sejam titulares durante a campanha de comercialização em causa.\n\nAs empresas efetuam os pagamentos o mais tardar no último dia de fevereiro da campanha de comercialização em causa.\n\n3. As empresas da União produtoras de açúcar ou de xarope de inulina podem exigir aos produtores de beterraba açucareira ou de cana-de-açúcar, ou aos fornecedores de chicória, que suportem até 50 % do encargo à produção aplicável."
+  },
+  "4b15755cb1766a51": {
+   "fragment_id": "Artigo 8.º — Restituição à produção do setor do açúcar",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Restituição à produção do setor do açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Restituição à produção do setor do açúcar\n\nA restituição à produção para os produtos do setor do açúcar prevista no artigo 129.º do Regulamento (UE) n.º 1308/2013 é fixada pela Comissão através de atos de execução que têm como base:\n\na) Os custos decorrentes da utilização de açúcar importado que a indústria teria de suportar em caso de abastecimento no mercado mundial; e\n\nb) O preço do açúcar excedentário disponível no mercado da União ou, caso não exista açúcar excedentário nesse mercado, o limiar de referência para o açúcar fixado no artigo 7.º, n.º 1, alínea c), do Regulamento (UE) n.º 1308/2013.\n\nOs referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "76047bf96583b58d": {
+   "fragment_id": "Artigo 9.º — Preço mínimo da beterraba",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Preço mínimo da beterraba",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Preço mínimo da beterraba\n\n1. O preço mínimo da beterraba de quota previsto no artigo 135.º do Regulamento (UE) n.º 1308/2013 é de 26,29 EUR por tonelada até ao final da campanha de comercialização de 2016/2017 para o açúcar, em 30 de setembro de 2017.\n\n2. O preço mínimo a que se refere o n.º 1 é aplicável à beterraba açucareira da qualidade-tipo definida no Anexo III, Parte B, do Regulamento (UE) n.º 1308/2013.\n\n3. As empresas açucareiras que comprem beterraba de quota adequada à transformação em açúcar e destinada a ser transformada em açúcar de quota são obrigadas a pagar, pelo menos, o preço mínimo, ajustado pela aplicação de bonificações ou reduções em função dos desvios à qualidade-tipo. Essas bonificações ou reduções são determinadas pela Comissão através de atos de execução. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2.\n\n4. A empresa açucareira em causa ajusta o preço de compra das quantidades de beterraba açucareira correspondentes às quantidades de açúcar industrial ou de açúcar excedentário sujeitas à aplicação da imposição sobre os excedentes prevista no artigo 11.º, de maneira a que esse preço seja pelo menos igual ao preço mínimo da beterraba de quota."
+  },
+  "6223f64d6a66e794": {
+   "fragment_id": "Artigo 10.º — Ajustamento das quotas nacionais de açúcar",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Ajustamento das quotas nacionais de açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Ajustamento das quotas nacionais de açúcar\n\nO Conselho pode, nos termos do artigo 43.º, n.º 3, do Tratado, sob proposta da Comissão, ajustar as quotas fixadas no Anexo XII do Regulamento (UE) n.º 1308/2013 na sequência de eventuais decisões dos Estados-Membros tomadas nos termos do artigo 138.º desse regulamento."
+  },
+  "bc62f5e6eccae204": {
+   "fragment_id": "Artigo 11.º — Imposição sobre os excedentes no setor do açúcar",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Imposição sobre os excedentes no setor do açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Imposição sobre os excedentes no setor do açúcar\n\n1. É fixada uma imposição sobre os excedentes, como previsto no artigo 142.º do Regulamento (UE) n.º 1308/2013, a um nível que seja suficientemente elevado para evitar a acumulação de quantidades referidas nesse artigo. Essa imposição é fixada pela Comissão através de atos de execução. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento.\n\n2. Os Estados-Membros cobram a imposição sobre os excedentes referida no n.º 1 às empresas estabelecidas no respetivo território, com base nas quantidades de produção, referidas no mesmo número, que forem determinadas para essas empresas, no que respeita à campanha de comercialização em causa."
+  },
+  "87e8b53a661f2e0c": {
+   "fragment_id": "Artigo 12.º — Mecanismo temporário de gestão de mercado no setor do açúcar",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Mecanismo temporário de gestão de mercado no setor do açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Mecanismo temporário de gestão de mercado no setor do açúcar\n\nA fim de assegurar uma oferta suficiente e equilibrada de açúcar no mercado da União, até ao final da campanha de comercialização de 2016/2017 para o açúcar em 30 de setembro de 2017, não obstante o artigo 142.º do Regulamento (UE) n.º 1308/2013, a Comissão pode, para a quantidade e o período necessários, aplicar temporariamente, através de atos de execução, uma imposição aos excedentes de produção para além das quotas referidos no artigo 139.º, n.º 1, alínea e), desse regulamento.\n\nA Comissão fixa o montante dessa imposição através de atos de execução.\n\nOs atos de execução a que se refere o presente artigo são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "f51a27ee0605fd1d": {
+   "fragment_id": "Artigo 13.º — Fixação das restituições à exportação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Fixação das restituições à exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fixação das restituições à exportação\n\n1. Nas condições estabelecidas no artigo 196.º do Regulamento (UE) n.º 1308/2013, e como previsto no artigo 198.º desse regulamento, a Comissão pode adotar atos de execução que fixem as restituições à exportação:\n\na) Periodicamente, em relação a produtos que constem da lista do artigo 196.º, n.º 1, do Regulamento (UE) n.º 1308/2013;\n\nb) Por procedimento concursal, em relação aos cereais, ao arroz, ao açúcar e ao leite e produtos lácteos.\n\nOs referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento.\n\n2. As restituições à exportação para um produto são fixadas tendo em conta um ou mais dos seguintes elementos:\n\na) Situação existente e perspetivas de evolução: i) dos preços e disponibilidades do produto no mercado da União, ii) dos preços desse produto no mercado mundial;\n\ni) dos preços e disponibilidades do produto no mercado da União,\n\nii) dos preços desse produto no mercado mundial;\n\nb) Objetivos da organização comum dos mercados, que consistem em assegurar uma situação equilibrada e um desenvolvimento natural dos preços e do comércio nesse mercado;\n\nc) Necessidade de evitar perturbações suscetíveis de provocar um desequilíbrio prolongado entre a oferta e a procura no mercado da União;\n\nd) Aspetos económicos das exportações previstas;\n\ne) Limites decorrentes dos acordos internacionais celebrados nos termos do Tratado;\n\nf) Necessidade de alcançar um equilíbrio entre a utilização de produtos de base da União no fabrico de mercadorias transformadas exportadas para países terceiros e a utilização de produtos de países terceiros admitidos em regime de aperfeiçoamento ativo;\n\ng) Despesas de comercialização e de transporte mais favoráveis, a partir dos mercados da União para os portos ou outros locais de exportação da União, bem como despesas de expedição para os países de destino;\n\nh) Procura no mercado da União;\n\ni) No que respeita aos setores da carne de suíno, dos ovos e da carne de aves de capoeira, diferença entre os preços, na União e no mercado mundial, da quantidade de cereais forrageiros necessária para a produção, na União, dos produtos desses setores.\n\n3. O montante da restituição pode, caso seja necessário para assegurar uma resposta ágil a condições de mercado em rápida mutação, ser ajustado pela Comissão, através de atos de execução, quer a pedido de um Estado-Membro, quer por sua própria iniciativa. Os referidos atos de execução são adotados sem aplicação do procedimento a que se refere o artigo 15.º, n.º 2."
+  },
+  "7f93f3c27bc23016": {
+   "fragment_id": "Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz\n\n1. A Comissão pode adotar atos de execução que fixem montantes corretores aplicáveis às restituições à exportação fixadas nos setores dos cereais e do arroz. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2.\n\nCaso seja necessário para assegurar uma resposta ágil a condições de mercado em rápida mutação, a Comissão pode adotar atos de execução, sem aplicar o procedimento a que se refere o artigo 15.º, n.º 2, que alterem aqueles montantes corretores.\n\nA Comissão pode aplicar o presente número aos produtos dos setores dos cereais e do arroz exportados sob a forma de mercadorias transformadas, nos termos do Regulamento (CE) n.º 1216/2009 do Conselho [([^5])](http://publications.europa.eu/resource/cellar/820c3e64-6974-11e3-a7e4-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2013346PT.01001201-E0005).\n\n2. Para os três primeiros meses da campanha de comercialização, a restituição aplicável às exportações de malte armazenado no final da campanha de comercialização anterior ou feito de cevada armazenada nessa ocasião é a que teria sido aplicada a respeito do certificado de exportação em causa às exportações efetuadas durante o último mês da campanha de comercialização anterior.\n\n3. A restituição aplicável aos produtos enumerados no Anexo I, Parte I, alíneas a) e b), do Regulamento (UE) n.º 1308/2013, estabelecida nos termos do artigo 199.º, n.º 2, desse regulamento, pode ser ajustada pela Comissão, através de atos de execução, em função das eventuais alterações do nível do preço de intervenção.\n\nO primeiro parágrafo pode ser aplicado, total ou parcialmente, aos produtos enumerados no Anexo I, Parte I, alíneas c) e d), do Regulamento (UE) n.º 1308/2013, bem como aos produtos referidos na Parte I desse anexo e exportados sob a forma de mercadorias transformadas nos termos do Regulamento (CE) n.º 1216/2009. Nesse caso, a Comissão corrige, através de atos de execução, o ajustamento a que se refere o primeiro parágrafo do presente número, aplicando um coeficiente que exprima o rácio entre a quantidade de produto de base e a quantidade deste último contida no produto transformado exportado ou utilizada nas mercadorias exportadas.\n\nOs atos de execução a que se refere o presente número são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "ef21919cbb298891": {
+   "fragment_id": "Artigo 15.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité para a Organização Comum dos Mercados Agrícolas, criado pelo artigo 229.º do Regulamento (UE) n.º 1308/2013. Este comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "a33349aca88a729a": {
+   "fragment_id": "Artigo 16.º — Tabela de correspondência",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Tabela de correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Tabela de correspondência\n\nAs referências às disposições pertinentes do Regulamento (CE) n.º 1234/2007 na sequência da sua revogação pelo Regulamento (UE) n.º 1308/2013 devem entender-se como sendo feitas para o presente regulamento e devem ler-se de acordo com a tabela de correspondência constante do Anexo do presente regulamento."
+  },
+  "fea2f01fc0af16d1": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia.*\n\nO presente regulamento é aplicável desde 1 de janeiro de 2014.\n\nOs artigos 7.º a 12.º aplicam-se até ao final da campanha de comercialização de 2016/2017 para o açúcar, em 30 de setembro de 2017.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 16 de dezembro de 2013.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**V. JUKNA**\n\n---"
+  },
+  "23b183a929c225ce": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/820c3e64-6974-11e3-a7e4-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2013346PT.01001201-E0001) Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/820c3e64-6974-11e3-a7e4-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2013346PT.01001201-E0002) Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1097/2001, (CE) n.º 1234/2007 do Conselho ([JO L 347, 20.12.2013, p. 671](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/820c3e64-6974-11e3-a7e4-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2013346PT.01001201-E0003) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([JO L 55 de 28.2.2011, p. 13](http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/820c3e64-6974-11e3-a7e4-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2013346PT.01001201-E0004) Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, que estabelece disposições gerais relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e que revoga o Regulamento (CE) n.º 1083/2006 do Conselho ([JO L 347, 20.12.2013, p. 320](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/820c3e64-6974-11e3-a7e4-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2013346PT.01001201-E0005) Regulamento (CE) n.º 1216/2009 do Conselho, de 30 de novembro de 2009, que estabelece o regime de trocas aplicável a certas mercadorias resultantes da transformação de produtos agrícolas ([JO L 328 de 15.12.2009, p. 10](http://publications.europa.eu/resource/oj/JOL_2009_328_R_TOC))."
+  },
+  "e5ac61df3078774c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de dezembro de 2013\n\nque determina medidas sobre a fixação de certas ajudas e restituições relativas à organização comum dos mercados dos produtos agrícolas"
+  },
+  "103557f561f007ce": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente regulamento determina as medidas respeitantes à fixação de preços, ajudas e limitações quantitativas relativas à organização comum dos mercados agrícolas estabelecida pelo Regulamento (UE) n.º 1308/2013."
+  },
+  "214ffbe8cf20f1b4": {
+   "fragment_id": "Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis\n\n1. Caso a intervenção pública seja aberta nos termos do artigo 13.º, n.º 1, alínea a), do Regulamento (UE) n.º 1308/2013, as compras devem ser efetuadas ao preço fixado referido no artigo 2.º do presente regulamento dentro das seguintes limitações quantitativas para cada período referido no artigo 12.º do Regulamento (UE) n.º 1308/2013, respetivamente:\n\na) Para o trigo mole, 3 milhões de toneladas;\n\nb) Para a manteiga, 50 000 toneladas;\n\nc) Para o leite em pó desnatado, 109 000 toneladas.\n\nEm derrogação do primeiro parágrafo, em 2016, as limitações quantitativas para a compra de manteiga e de leite em pó desnatado a preço fixado são de 100 000 toneladas para a manteiga e de 218 000 toneladas para o leite em pó desnatado. Os eventuais volumes comprados no âmbito de um procedimento concursal em curso em 19 de abril de 2016 não são imputados nos referidos limites quantitativos.\n\n2. Caso a intervenção pública seja aberta nos termos do artigo 13.º, n.º 1, do Regulamento (UE) n.º 1308/2013:\n\na) Para o trigo mole, a manteiga e o leite em pó desnatado para além dos limites quantitativos referidos no n.º 1 do presente artigo; e\n\nb) Para o trigo duro, a cevada, o milho, o arroz com casca (arroz paddy) e a carne de bovino,\n\nas compras devem ser efetuadas por procedimentos concursais para determinar o preço máximo de compra.\n\nO preço máximo de compra não deve exceder o nível referido no artigo 2.º, n.º 1, do presente regulamento e deve ser fixado através de atos de execução.\n\n3. Em circunstâncias especiais e devidamente justificadas, a Comissão pode adotar atos de execução que:\n\na) Restrinjam os procedimentos concursais em relação a um Estado-Membro ou a uma região de um Estado-Membro;\n\nb) Sob reserva do artigo 2.º, n.º 1, determinem os preços de compra para intervenção pública, por Estado-Membro ou por região de um Estado-Membro, com base nos preços médios de mercado registados.\n\n4. Os preços de compra referidos nos n.ºs 2 e 3 para o trigo mole, o trigo duro, a cevada, o milho e o arroz com casca (arroz paddy) devem ser ajustados pela aplicação de bonificações ou reduções a esses preços com base nos principais critérios de qualidade para esses produtos.\n\nA Comissão adota atos de execução que determinam essas bonificações ou reduções.\n\n5. Os atos de execução referidos nos n.ºs 2, 3 e 4 do presente artigo são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2.\n\n6. A Comissão adota, sem aplicar o procedimento a que se refere o artigo 15.º, n.º 2, os atos de execução necessários a fim de:\n\na) Respeitar os limites de intervenção estabelecidos no n.º 1 do presente artigo; e\n\nb) Aplicar o procedimento concursal referido no n.º 2 do presente artigo ao trigo mole, à manteiga e ao leite em pó desnatado para além das limitações quantitativas estabelecidas no n.º 1 do presente artigo."
+  },
+  "38a0464b5cb33b29": {
+   "fragment_id": "Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças\n\n1. A ajuda da União para o fornecimento às crianças de frutas e produtos hortícolas, frutas e produtos hortícolas transformados e de produtos derivados de bananas a que se refere o artigo 23.º do Regulamento (UE) n.º 1308/2013 não deve:\n\na) Exceder qualquer dos seguintes limites:\n\ni) 150 milhões EUR por ano letivo;\n\nii) 75 % dos custos de fornecimento e dos custos conexos referidos no artigo 23.º, n.º 1, do Regulamento (UE) n.º 1308/2013 ou 90 % desses custos nas regiões menos desenvolvidas e nas regiões ultraperiféricas referidas no artigo 349.º do Tratado; nem\n\nb) Cobrir outros custos que não sejam os custos de fornecimento e os custos conexos referidos no artigo 23.º, n.º 1, do Regulamento (UE) n.º 1308/2013.\n\nPara os efeitos do primeiro parágrafo, alínea a), subalínea ii), entende-se por «regiões menos desenvolvidas» as regiões tal como definidas no artigo 90.º, n.º 2, primeiro parágrafo, alínea a), do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/c05d51e6-3f3f-4753-91d0-c200d47a183c.0015.02/DOC_2#E0004)).\n\n2. Cada um dos Estados-Membros participantes no regime de distribuição de fruta e produtos hortícolas nas escolas recebe pelo menos 290 000 EUR de ajuda da União.\n\nA Comissão adota atos de execução que fixam a repartição indicativa da ajuda mencionada no n.º 1 do presente artigo por Estado-Membro, com base nos critérios referidos no artigo 23.º, n.º 5, do Regulamento (UE) n.º 1308/2013.\n\nA Comissão avalia pelo menos de três em três anos se a repartição indicativa continua a corresponder aos critérios indicados no artigo 23.º, n.º 5, do Regulamento (UE) n.º 1308/2013. Se necessário, a Comissão adota atos de execução que fixam uma nova repartição indicativa.\n\nNa sequência dos pedidos apresentados pelos Estados-Membros nos termos do artigo 23.º, n.º 5, segundo parágrafo, do Regulamento (UE) n.º 1308/2013, a Comissão adota todos os anos atos de execução que fixam a repartição definitiva da ajuda mencionada no n.º 1 do presente artigo pelos Estados-Membros participantes, de acordo com as condições estabelecidas naquele número.\n\nOs atos de execução referidos no presente número são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "9e5366400158ee0a": {
+   "fragment_id": "Artigo 13.º — Fixação das restituições à exportação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Fixação das restituições à exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fixação das restituições à exportação\n\n1. Nas condições estabelecidas no artigo 196.º do Regulamento (UE) n.º 1308/2013, e como previsto no artigo 198.º desse regulamento, a Comissão pode adotar atos de execução que fixem as restituições à exportação:\n\na) Periodicamente, em relação a produtos que constem da lista do artigo 196.º, n.º 1, do Regulamento (UE) n.º 1308/2013;\n\nb) Por procedimento concursal, em relação aos cereais, ao arroz, ao açúcar e ao leite e produtos lácteos.\n\nOs referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento.\n\n2. As restituições à exportação para um produto são fixadas tendo em conta um ou mais dos seguintes elementos:\n\na) Situação existente e perspetivas de evolução:\n\ni) dos preços e disponibilidades do produto no mercado da União,\n\nii) dos preços desse produto no mercado mundial;\n\nb) Objetivos da organização comum dos mercados, que consistem em assegurar uma situação equilibrada e um desenvolvimento natural dos preços e do comércio nesse mercado;\n\nc) Necessidade de evitar perturbações suscetíveis de provocar um desequilíbrio prolongado entre a oferta e a procura no mercado da União;\n\nd) Aspetos económicos das exportações previstas;\n\ne) Limites decorrentes dos acordos internacionais celebrados nos termos do Tratado;\n\nf) Necessidade de alcançar um equilíbrio entre a utilização de produtos de base da União no fabrico de mercadorias transformadas exportadas para países terceiros e a utilização de produtos de países terceiros admitidos em regime de aperfeiçoamento ativo;\n\ng) Despesas de comercialização e de transporte mais favoráveis, a partir dos mercados da União para os portos ou outros locais de exportação da União, bem como despesas de expedição para os países de destino;\n\nh) Procura no mercado da União;\n\ni) No que respeita aos setores da carne de suíno, dos ovos e da carne de aves de capoeira, diferença entre os preços, na União e no mercado mundial, da quantidade de cereais forrageiros necessária para a produção, na União, dos produtos desses setores.\n\n3. O montante da restituição pode, caso seja necessário para assegurar uma resposta ágil a condições de mercado em rápida mutação, ser ajustado pela Comissão, através de atos de execução, quer a pedido de um Estado-Membro, quer por sua própria iniciativa. Os referidos atos de execução são adotados sem aplicação do procedimento a que se refere o artigo 15.º, n.º 2."
+  },
+  "ee1515dcbfaef304": {
+   "fragment_id": "Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz\n\n1. A Comissão pode adotar atos de execução que fixem montantes corretores aplicáveis às restituições à exportação fixadas nos setores dos cereais e do arroz. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2.\n\nCaso seja necessário para assegurar uma resposta ágil a condições de mercado em rápida mutação, a Comissão pode adotar atos de execução, sem aplicar o procedimento a que se refere o artigo 15.º, n.º 2, que alterem aqueles montantes corretores.\n\nA Comissão pode aplicar o presente número aos produtos dos setores dos cereais e do arroz exportados sob a forma de mercadorias transformadas, nos termos do Regulamento (CE) n.º 1216/2009 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/c05d51e6-3f3f-4753-91d0-c200d47a183c.0015.02/DOC_2#E0005)).\n\n2. Para os três primeiros meses da campanha de comercialização, a restituição aplicável às exportações de malte armazenado no final da campanha de comercialização anterior ou feito de cevada armazenada nessa ocasião é a que teria sido aplicada a respeito do certificado de exportação em causa às exportações efetuadas durante o último mês da campanha de comercialização anterior.\n\n3. A restituição aplicável aos produtos enumerados no Anexo I, Parte I, alíneas a) e b), do Regulamento (UE) n.º 1308/2013, estabelecida nos termos do artigo 199.º, n.º 2, desse regulamento, pode ser ajustada pela Comissão, através de atos de execução, em função das eventuais alterações do nível do preço de intervenção.\n\nO primeiro parágrafo pode ser aplicado, total ou parcialmente, aos produtos enumerados no Anexo I, Parte I, alíneas c) e d), do Regulamento (UE) n.º 1308/2013, bem como aos produtos referidos na Parte I desse anexo e exportados sob a forma de mercadorias transformadas nos termos do Regulamento (CE) n.º 1216/2009. Nesse caso, a Comissão corrige, através de atos de execução, o ajustamento a que se refere o primeiro parágrafo do presente número, aplicando um coeficiente que exprima o rácio entre a quantidade de produto de base e a quantidade deste último contida no produto transformado exportado ou utilizada nas mercadorias exportadas.\n\nOs atos de execução a que se refere o presente número são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "a12988bb35131a1b": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia.*\n\nO presente regulamento é aplicável desde 1 de janeiro de 2014.\n\nOs artigos 7.º a 12.º aplicam-se até ao final da campanha de comercialização de 2016/2017 para o açúcar, em 30 de setembro de 2017.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "1a84684791ab909d": {
+   "fragment_id": "TABELA DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "TABELA DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TABELA DE CORRESPONDÊNCIA"
+  },
+  "c61e232fbdb08a78": {
+   "fragment_id": "referida no artigo 16.º",
+   "type": "divisao",
+   "heading": "referida no artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### referida no artigo 16.º\n\n| Regulamento (CE) n.º 1234/2007 | Presente regulamento |\n| --- | --- |\n| Artigo 18.º, n.ºs 1 e 3 | Artigo 2.º |\n| Artigo 18.º, n.º 2, alínea a) | Artigo 3.º, n.º 1, alínea a) |\n| Artigo 13.º, n.º 1, alínea c) | Artigo 3.º, n.º 1, alínea b) |\n| Artigo 13.º, n.º 1, alínea d) | Artigo 3.º, n.º 1, alínea c) |\n| Artigo 18.º, n.º 2, primeiro parágrafo | Artigo 3, n.º 2 |\n| Artigo 18.º, n.º 2, segundo parágrafo | Artigo 3.º, n.º 3 |\n| Artigo 18.º, n.º 4 | Artigo 3.º, n.º 4 |\n| [▼C1](http://publications.europa.eu/resource/celex/32013R1370R%2801%29) |  |\n| Artigo 43.º-AA | Artigo 3.º, n.º 6 |\n| [▼B](http://publications.europa.eu/resource/celex/32013R1370) |  |\n| Artigo 31.º, n.º 2 | Artigo 4.º |\n| Artigo 103.º-GA, n.º 4 | Artigo 5.º, n.º 1 |\n| Artigo 103.º-GA, n.º 5 | Artigo 5.º, n.º 2 |\n| Artigo 102.º, n.º 4 | Artigo 6.º, n.º 1 |\n| Artigo 102.º, n.º 3 | Artigo 6.º, n.ºs 2 e 3 |\n| Artigo 51.º, n.º 2 | Artigo 7.º, n.º 1 |\n| Artigo 51.º, n.º 3 | Artigo 7.º, n.º 2 |\n| Artigo 51.º, n.º 4 | Artigo 7.º, n.º 3 |\n| Artigo 97.º | Artigo 8.º |\n| Artigo 49.º | Artigo 9.º |\n| Artigo 64.º, n.º 2 | Artigo 11.º, n.º 1 |\n| Artigo 64.º, n.º 3 | Artigo 11.º, n.º 2 |\n| Artigo 164.º, n.º 2 | Artigo 13.º, n.ºs 1 e 3 |\n| Artigo 164.º, n.º 3 | Artigo 13.º, n.º 2 |\n| Artigo 164.º, n.º 4 | Artigo 14.º, n.º 1 |\n| Artigo 165.º | Artigo 14.º, n.º 2 |\n| Artigo 166.º | Artigo 14.º, n.º 3 |\n\n---"
+  },
+  "7c83617d17bbfa21": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c05d51e6-3f3f-4753-91d0-c200d47a183c.0015.02/DOC_2#src.E0001)) Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») (JO L 299 de 16.11.2007, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c05d51e6-3f3f-4753-91d0-c200d47a183c.0015.02/DOC_2#src.E0002)) Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1097/2001, (CE) n.º 1234/2007 do Conselho (JO L 347, 20.12.2013, p. 671).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c05d51e6-3f3f-4753-91d0-c200d47a183c.0015.02/DOC_2#src.E0003)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c05d51e6-3f3f-4753-91d0-c200d47a183c.0015.02/DOC_2#src.E0004)) Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, que estabelece disposições gerais relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e que revoga o Regulamento (CE) n.º 1083/2006 do Conselho (JO L 347, 20.12.2013, p. 320).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c05d51e6-3f3f-4753-91d0-c200d47a183c.0015.02/DOC_2#src.E0005)) Regulamento (CE) n.º 1216/2009 do Conselho, de 30 de novembro de 2009, que estabelece o regime de trocas aplicável a certas mercadorias resultantes da transformação de produtos agrícolas (JO L 328 de 15.12.2009, p. 10)."
+  },
+  "084c1b902e7114f1": {
+   "fragment_id": "Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Preços de compra e limitações quantitativas aplicáveis\n\n1. Caso a intervenção pública seja aberta nos termos do artigo 13.º, n.º 1, alínea a), do Regulamento (UE) n.º 1308/2013, as compras devem ser efetuadas ao preço fixado referido no artigo 2.º do presente regulamento dentro das seguintes limitações quantitativas para cada período referido no artigo 12.º do Regulamento (UE) n.º 1308/2013, respetivamente:\n\na) Para o trigo mole, 3 milhões de toneladas;\n\nb) Para a manteiga, 50 000 toneladas;\n\nc) Para o leite em pó desnatado, 109 000 toneladas.\n\nEm derrogação ao disposto no primeiro parágrafo, em 2016, as limitações quantitativas aplicáveis à compra de manteiga e de leite em pó desnatado a preço fixado são de 100 000 toneladas para a manteiga e de 350 000 toneladas para o leite em pó desnatado. Os eventuais volumes comprados no âmbito de um procedimento concursal em curso em 29 de junho de 2016 não são imputados nos referidos limites quantitativos.\n\n2. Caso a intervenção pública seja aberta nos termos do artigo 13.º, n.º 1, do Regulamento (UE) n.º 1308/2013:\n\na) Para o trigo mole, a manteiga e o leite em pó desnatado para além dos limites quantitativos referidos no n.º 1 do presente artigo; e\n\nb) Para o trigo duro, a cevada, o milho, o arroz com casca (arroz paddy) e a carne de bovino,\n\nas compras devem ser efetuadas por procedimentos concursais para determinar o preço máximo de compra.\n\nO preço máximo de compra não deve exceder o nível referido no artigo 2.º, n.º 1, do presente regulamento e deve ser fixado através de atos de execução.\n\n3. Em circunstâncias especiais e devidamente justificadas, a Comissão pode adotar atos de execução que:\n\na) Restrinjam os procedimentos concursais em relação a um Estado-Membro ou a uma região de um Estado-Membro;\n\nb) Sob reserva do artigo 2.º, n.º 1, determinem os preços de compra para intervenção pública, por Estado-Membro ou por região de um Estado-Membro, com base nos preços médios de mercado registados.\n\n4. Os preços de compra referidos nos n.ºs 2 e 3 para o trigo mole, o trigo duro, a cevada, o milho e o arroz com casca (arroz paddy) devem ser ajustados pela aplicação de bonificações ou reduções a esses preços com base nos principais critérios de qualidade para esses produtos.\n\nA Comissão adota atos de execução que determinam essas bonificações ou reduções.\n\n5. Os atos de execução referidos nos n.ºs 2, 3 e 4 do presente artigo são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2.\n\n6. A Comissão adota, sem aplicar o procedimento a que se refere o artigo 15.º, n.º 2, os atos de execução necessários a fim de:\n\na) Respeitar os limites de intervenção estabelecidos no n.º 1 do presente artigo; e\n\nb) Aplicar o procedimento concursal referido no n.º 2 do presente artigo ao trigo mole, à manteiga e ao leite em pó desnatado para além das limitações quantitativas estabelecidas no n.º 1 do presente artigo."
+  },
+  "449f1469b170ea44": {
+   "fragment_id": "Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças\n\n1. A ajuda da União para o fornecimento às crianças de frutas e produtos hortícolas, frutas e produtos hortícolas transformados e de produtos derivados de bananas a que se refere o artigo 23.º do Regulamento (UE) n.º 1308/2013 não deve:\n\na) Exceder qualquer dos seguintes limites:\n\ni) 150 milhões EUR por ano letivo;\n\nii) 75 % dos custos de fornecimento e dos custos conexos referidos no artigo 23.º, n.º 1, do Regulamento (UE) n.º 1308/2013 ou 90 % desses custos nas regiões menos desenvolvidas e nas regiões ultraperiféricas referidas no artigo 349.º do Tratado; nem\n\nb) Cobrir outros custos que não sejam os custos de fornecimento e os custos conexos referidos no artigo 23.º, n.º 1, do Regulamento (UE) n.º 1308/2013.\n\nPara os efeitos do primeiro parágrafo, alínea a), subalínea ii), entende-se por «regiões menos desenvolvidas» as regiões tal como definidas no artigo 90.º, n.º 2, primeiro parágrafo, alínea a), do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/6ee2bb2e-a216-4a2e-bc2c-8c47fdc5303d.0015.02/DOC_1#E0004)).\n\n2. Cada um dos Estados-Membros participantes no regime de distribuição de fruta e produtos hortícolas nas escolas recebe pelo menos 290 000 EUR de ajuda da União.\n\nA Comissão adota atos de execução que fixam a repartição indicativa da ajuda mencionada no n.º 1 do presente artigo por Estado-Membro, com base nos critérios referidos no artigo 23.º, n.º 5, do Regulamento (UE) n.º 1308/2013.\n\nA Comissão avalia pelo menos de três em três anos se a repartição indicativa continua a corresponder aos critérios indicados no artigo 23.º, n.º 5, do Regulamento (UE) n.º 1308/2013. Se necessário, a Comissão adota atos de execução que fixam uma nova repartição indicativa.\n\nNa sequência dos pedidos apresentados pelos Estados-Membros nos termos do artigo 23.º, n.º 5, segundo parágrafo, do Regulamento (UE) n.º 1308/2013, a Comissão adota todos os anos atos de execução que fixam a repartição definitiva da ajuda mencionada no n.º 1 do presente artigo pelos Estados-Membros participantes, de acordo com as condições estabelecidas naquele número.\n\nOs atos de execução referidos no presente número são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "62c48b9a90d88c91": {
+   "fragment_id": "Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz\n\n1. A Comissão pode adotar atos de execução que fixem montantes corretores aplicáveis às restituições à exportação fixadas nos setores dos cereais e do arroz. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2.\n\nCaso seja necessário para assegurar uma resposta ágil a condições de mercado em rápida mutação, a Comissão pode adotar atos de execução, sem aplicar o procedimento a que se refere o artigo 15.º, n.º 2, que alterem aqueles montantes corretores.\n\nA Comissão pode aplicar o presente número aos produtos dos setores dos cereais e do arroz exportados sob a forma de mercadorias transformadas, nos termos do Regulamento (CE) n.º 1216/2009 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/6ee2bb2e-a216-4a2e-bc2c-8c47fdc5303d.0015.02/DOC_1#E0005)).\n\n2. Para os três primeiros meses da campanha de comercialização, a restituição aplicável às exportações de malte armazenado no final da campanha de comercialização anterior ou feito de cevada armazenada nessa ocasião é a que teria sido aplicada a respeito do certificado de exportação em causa às exportações efetuadas durante o último mês da campanha de comercialização anterior.\n\n3. A restituição aplicável aos produtos enumerados no Anexo I, Parte I, alíneas a) e b), do Regulamento (UE) n.º 1308/2013, estabelecida nos termos do artigo 199.º, n.º 2, desse regulamento, pode ser ajustada pela Comissão, através de atos de execução, em função das eventuais alterações do nível do preço de intervenção.\n\nO primeiro parágrafo pode ser aplicado, total ou parcialmente, aos produtos enumerados no Anexo I, Parte I, alíneas c) e d), do Regulamento (UE) n.º 1308/2013, bem como aos produtos referidos na Parte I desse anexo e exportados sob a forma de mercadorias transformadas nos termos do Regulamento (CE) n.º 1216/2009. Nesse caso, a Comissão corrige, através de atos de execução, o ajustamento a que se refere o primeiro parágrafo do presente número, aplicando um coeficiente que exprima o rácio entre a quantidade de produto de base e a quantidade deste último contida no produto transformado exportado ou utilizada nas mercadorias exportadas.\n\nOs atos de execução a que se refere o presente número são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "df9bf30ebbdbedfb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6ee2bb2e-a216-4a2e-bc2c-8c47fdc5303d.0015.02/DOC_1#src.E0001)) Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») (JO L 299 de 16.11.2007, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6ee2bb2e-a216-4a2e-bc2c-8c47fdc5303d.0015.02/DOC_1#src.E0002)) Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1097/2001, (CE) n.º 1234/2007 do Conselho (JO L 347, 20.12.2013, p. 671).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6ee2bb2e-a216-4a2e-bc2c-8c47fdc5303d.0015.02/DOC_1#src.E0003)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6ee2bb2e-a216-4a2e-bc2c-8c47fdc5303d.0015.02/DOC_1#src.E0004)) Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, que estabelece disposições gerais relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e que revoga o Regulamento (CE) n.º 1083/2006 do Conselho (JO L 347, 20.12.2013, p. 320).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6ee2bb2e-a216-4a2e-bc2c-8c47fdc5303d.0015.02/DOC_1#src.E0005)) Regulamento (CE) n.º 1216/2009 do Conselho, de 30 de novembro de 2009, que estabelece o regime de trocas aplicável a certas mercadorias resultantes da transformação de produtos agrícolas (JO L 328 de 15.12.2009, p. 10)."
+  },
+  "ae8bb466d707988a": {
+   "fragment_id": "Artigo 1.º-A — Limiares de referência",
+   "type": "artigo",
+   "heading": "Artigo 1.º-A — Limiares de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-A — Limiares de referência\n\n1. São fixados os seguintes limiares de referência:\n\na) Para o setor dos cereais: 101,31 EUR/tonelada, respeitante ao estádio de comércio por grosso, para as mercadorias entregues no armazém, não descarregadas;\n\nb) Para o arroz com casca (arroz *paddy*): 150 EUR/tonelada para a qualidade-tipo definida no anexo III, ponto A, do Regulamento (UE) n.º 1308/2013, respeitante ao estádio de comércio por grosso, para as mercadorias entregues no armazém, não descarregadas;\n\nc) Para o açúcar da qualidade-tipo definida no ponto B do anexo III do Regulamento (UE) n.º 1308/2013, respeitante ao açúcar não acondicionado, à saída da fábrica:\n\ni) Para o açúcar branco: 404,4 EUR/tonelada,\n\nii) Para o açúcar bruto: 335,2 EUR/tonelada,\n\nd) Para o setor da carne de bovino: 2 224 EUR/tonelada para as carcaças de bovinos machos da classe de conformação/estado da gordura R3 da grelha da União para a classificação das carcaças de bovinos com oito meses ou mais de idade, a que se refere o anexo IV, ponto A, do Regulamento (UE) n.º 1308/2013;\n\ne) Para o setor do leite e dos produtos lácteos;\n\ni) 246,39 EUR/100 kg, para a manteiga;\n\nii) 169,80 EUR/100 kg, para o leite em pó desnatado;\n\nf) Para a carne de suíno: 1 509,39 EUR/tonelada para as carcaças de suínos da qualidade-tipo definida em termos de peso e teor de carne magra nos termos da grelha da União para a classificação das carcaças de suínos, a que se refere o anexo IV, ponto B, do Regulamento (UE) n.º 1308/2013, nos seguintes moldes:\n\ni) carcaças com peso igual ou superior a 60 e inferior a 120 quilogramas: classe E;\n\nii) carcaças com peso compreendido entre 120 e 180 quilogramas: classe R;\n\ng) Para o setor do azeite:\n\ni) 1 779 EUR/tonelada, para o azeite virgem extra;\n\nii) 1 710 EUR/tonelada, para o azeite virgem;\n\niii) 1 524 EUR/tonelada, para o azeite lampante com dois graus de acidez livre; Este montante é reduzido em 36,70 EUR/tonelada por cada grau suplementar de acidez.\n\n2. A Comissão deve rever periodicamente os limiares de referência previstos no n.º 1, com base em critérios objetivos, em especial a evolução da produção, os custos de produção, sobretudo os dos fatores de produção, e as tendências do mercado. Os limiares de referência devem ser atualizados sempre que necessário, pelo procedimento estabelecido no artigo 43.º, n.º 3, do TFUE, em função da evolução da produção e dos mercados.\n\n3. As remissões para os limiares de referência do Regulamento (UE) n.º 1308/2013 devem ser entendidas como remissões para os limites fixados no n.º 1 do presente artigo."
+  },
+  "37f9329704d01d37": {
+   "fragment_id": "Artigo 2.º — Preços de intervenção pública",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Preços de intervenção pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Preços de intervenção pública\n\n1. O preço de intervenção pública:\n\na) Para o trigo-mole, a cevada, o milho, o arroz com casca (arroz *paddy*) e o leite em pó desnatado, é igual ao limiar de referência respetivo fixado no artigo 1.º-A, no caso da compra a preço fixado, e não pode exceder o limiar de referência respetivo, no caso da compra por concurso;\n\nb) Para a manteiga, é igual a 90 % do limiar de referência fixado no artigo 1.º-A, no caso da compra a preço fixado, e não pode exceder 90 % do limiar de referência, no caso da compra por concurso;\n\nc) Para a carne de bovino, não pode exceder 85 % do limiar de referência fixado no artigo 1.º-A.\n\n2. Os preços de intervenção pública para o trigo-mole, trigo-duro, cevada, milho e arroz com casca (arroz *paddy*), mencionados no n.º 1, são ajustados pela aplicação de bonificações ou de reduções, com base nos principais critérios de qualidade para os produtos.\n\n3. A Comissão adota atos de execução que determinam as bonificações ou reduções ao preço de intervenção pública dos produtos a que se refere o n.º 2 do presente artigo, de nas condições nele estabelecidas. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2."
+  },
+  "73afa7dec00227ed": {
+   "fragment_id": "Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ajuda ao fornecimento de frutas e produtos hortícolas às crianças\n\n1. A ajuda da União para o fornecimento às crianças de frutas e produtos hortícolas, frutas e produtos hortícolas transformados e de produtos derivados de bananas a que se refere o artigo 23.º do Regulamento (UE) n.º 1308/2013 não deve:\n\na) Exceder qualquer dos seguintes limites:\n\ni) 150 milhões EUR por ano letivo;\n\nii) 75 % dos custos de fornecimento e dos custos conexos referidos no artigo 23.º, n.º 1, do Regulamento (UE) n.º 1308/2013 ou 90 % desses custos nas regiões menos desenvolvidas e nas regiões ultraperiféricas referidas no artigo 349.º do Tratado; nem\n\nb) Cobrir outros custos que não sejam os custos de fornecimento e os custos conexos referidos no artigo 23.º, n.º 1, do Regulamento (UE) n.º 1308/2013.\n\nPara os efeitos do primeiro parágrafo, alínea a), subalínea ii), entende-se por «regiões menos desenvolvidas» as regiões tal como definidas no artigo 90.º, n.º 2, primeiro parágrafo, alínea a), do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/0e61b1bf-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0001)).\n\n2. Cada um dos Estados-Membros participantes no regime de distribuição de fruta e produtos hortícolas nas escolas recebe pelo menos 290 000 EUR de ajuda da União.\n\nA Comissão adota atos de execução que fixam a repartição indicativa da ajuda mencionada no n.º 1 do presente artigo por Estado-Membro, com base nos critérios referidos no artigo 23.º, n.º 5, do Regulamento (UE) n.º 1308/2013.\n\nA Comissão avalia pelo menos de três em três anos se a repartição indicativa continua a corresponder aos critérios indicados no artigo 23.º, n.º 5, do Regulamento (UE) n.º 1308/2013. Se necessário, a Comissão adota atos de execução que fixam uma nova repartição indicativa.\n\nNa sequência dos pedidos apresentados pelos Estados-Membros nos termos do artigo 23.º, n.º 5, segundo parágrafo, do Regulamento (UE) n.º 1308/2013, a Comissão adota todos os anos atos de execução que fixam a repartição definitiva da ajuda mencionada no n.º 1 do presente artigo pelos Estados-Membros participantes, de acordo com as condições estabelecidas naquele número.\n\nOs atos de execução referidos no presente número são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "6ca145f557553dfc": {
+   "fragment_id": "Artigo 8.º — Restituição à produção do setor do açúcar",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Restituição à produção do setor do açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Restituição à produção do setor do açúcar\n\nA restituição à produção para os produtos do setor do açúcar prevista no artigo 129.º do Regulamento (UE) n.º 1308/2013 é fixada pela Comissão através de atos de execução que têm como base:\n\na) Os custos decorrentes da utilização de açúcar importado que a indústria teria de suportar em caso de abastecimento no mercado mundial; e\n\nb) O preço do açúcar excedentário disponível no mercado da União ou, caso não exista açúcar excedentário nesse mercado, o limiar de referência para o açúcar fixado no artigo 1.º-A, alínea c).\n\nOs referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "7c03dc19cc7bd40f": {
+   "fragment_id": "Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz\n\n1. A Comissão pode adotar atos de execução que fixem montantes corretores aplicáveis às restituições à exportação fixadas nos setores dos cereais e do arroz. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2.\n\nCaso seja necessário para assegurar uma resposta ágil a condições de mercado em rápida mutação, a Comissão pode adotar atos de execução, sem aplicar o procedimento a que se refere o artigo 15.º, n.º 2, que alterem aqueles montantes corretores.\n\nA Comissão pode aplicar o presente número aos produtos dos setores dos cereais e do arroz exportados sob a forma de mercadorias transformadas, nos termos do Regulamento (CE) n.º 1216/2009 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/0e61b1bf-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0002)).\n\n2. Para os três primeiros meses da campanha de comercialização, a restituição aplicável às exportações de malte armazenado no final da campanha de comercialização anterior ou feito de cevada armazenada nessa ocasião é a que teria sido aplicada a respeito do certificado de exportação em causa às exportações efetuadas durante o último mês da campanha de comercialização anterior.\n\n3. A restituição aplicável aos produtos enumerados no Anexo I, Parte I, alíneas a) e b), do Regulamento (UE) n.º 1308/2013, estabelecida nos termos do artigo 199.º, n.º 2, desse regulamento, pode ser ajustada pela Comissão, através de atos de execução, em função das eventuais alterações do nível do preço de intervenção.\n\nO primeiro parágrafo pode ser aplicado, total ou parcialmente, aos produtos enumerados no Anexo I, Parte I, alíneas c) e d), do Regulamento (UE) n.º 1308/2013, bem como aos produtos referidos na Parte I desse anexo e exportados sob a forma de mercadorias transformadas nos termos do Regulamento (CE) n.º 1216/2009. Nesse caso, a Comissão corrige, através de atos de execução, o ajustamento a que se refere o primeiro parágrafo do presente número, aplicando um coeficiente que exprima o rácio entre a quantidade de produto de base e a quantidade deste último contida no produto transformado exportado ou utilizada nas mercadorias exportadas.\n\nOs atos de execução a que se refere o presente número são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "f7079fdd482a97f6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0e61b1bf-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#src.E0001)) Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, que estabelece disposições gerais relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e que revoga o Regulamento (CE) n.º 1083/2006 do Conselho (JO L 347, 20.12.2013, p. 320).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0e61b1bf-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#src.E0002)) Regulamento (CE) n.º 1216/2009 do Conselho, de 30 de novembro de 2009, que estabelece o regime de trocas aplicável a certas mercadorias resultantes da transformação de produtos agrícolas (JO L 328 de 15.12.2009, p. 10)."
+  },
+  "1f89dffe95ebf953": {
+   "fragment_id": "Artigo 5.º — Ajuda à distribuição de fruta, produtos hortícolas e leite nas escolas, medidas educativas de acompanhamento e custos conexos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Ajuda à distribuição de fruta, produtos hortícolas e leite nas escolas, medidas educativas de acompanhamento e custos conexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ajuda à distribuição de fruta, produtos hortícolas e leite nas escolas, medidas educativas de acompanhamento e custos conexos\n\n1. A ajuda da União ao financiamento das medidas educativas de acompanhamento a que se refere o artigo 23.º, n.º 1, alínea b), do Regulamento (UE) n.º 1308/2013 não excede 15 % das dotações definitivas anuais dos Estados-Membros conforme referidas no n.º 6 do presente artigo.\n\n2. A ajuda da União para os custos conexos a que se refere o artigo 23.º, n.º 1, alínea c), do Regulamento (UE) n.º 1308/2013 não excede, no total, 10 % das dotações definitivas anuais dos Estados-Membros referidas no n.º 6 do presente artigo.\n\nA Comissão adota atos de execução que fixam o nível máximo da ajuda da União para cada categoria de tais custos como percentagem das dotações anuais definitivas ou como percentagem dos custos dos produtos em causa.\n\nOs referidos atos de execução são adotados pelo procedimento de exame referido no artigo 15.º, n.º 2, do presente regulamento.\n\n3. O montante da ajuda da União para os componentes lácteos dos produtos referidos no artigo 23.º, n.º 5, do Regulamento (UE) n.º 1308/2013 não excede 27 euros por 100 kg.\n\n4. A ajuda referida no artigo 23.º, n.º 1, do Regulamento (UE) n.º 1308/2013 é atribuída a cada Estado-Membro em conformidade com o presente número, e tendo em conta os critérios estabelecidos no artigo 23.º-A, n.º 2, primeiro parágrafo, do Regulamento (UE) n.º 1308/2013.\n\nDe 1 de agosto de 2017 até 31 de julho de 2023, as dotações indicativas da ajuda referida no artigo 23.º-A, n.º 1, segundo parágrafo, alíneas a) e b), do Regulamento (UE) n.º 1308/2013 para cada Estado-Membro são as que constam do Anexo I. Durante esse período, não é aplicável à Croácia o artigo 23.º-A, n.º 2, primeiro parágrafo, alínea c), do Regulamento (UE) n.º 1308/2013.\n\nA partir de 1 de agosto de 2023, a Comissão adota atos de execução que fixam, com base nos critérios referidos no artigo 23.º-A, n.º 2, primeiro parágrafo, do Regulamento (UE) n.º 1308/2013, as dotações indicativas para cada Estado-Membro da ajuda referida no artigo 23.º-A, n.º 1, segundo parágrafo, alíneas a) e b), desse regulamento. No entanto, cada Estado-Membro recebe pelo menos 290 000 euros da ajuda da União para a distribuição de fruta e produtos hortícolas nas escolas, e pelo menos 193 000 euros de ajuda da União para a distribuição de leite escolar, tal como definido no artigo 23.º, n.º 2, do Regulamento (UE) n.º 1308/2013.\n\nA Comissão avalia posteriormente, pelo menos de três em três anos, se as dotações indicativas continuam a corresponder aos critérios estabelecidos no artigo 23.º-A, n.º 2, do Regulamento (UE) n.º 1308/2013. Se necessário, a Comissão adota atos de execução que fixam novas dotações indicativas.\n\nOs atos de execução referidos no presente número são adotados em conformidade com o procedimento de exame referido no artigo n.º 15, n.º 2, do presente regulamento.\n\n5. Se, num dado ano, um Estado-Membro não tiver apresentado um pedido de ajuda à União nos termos do artigo 23.º-A, n.º 3, do Regulamento (UE) n.º 1308/2013 ou tiver solicitado apenas uma parte da sua dotação indicativa conforme referida no número 4 do presente artigo, a Comissão redistribui essa dotação indicativa, ou a parte da mesma não solicitada, aos Estados-Membros que tenham notificado a sua intenção de utilizar um montante superior ao da respetiva dotação indicativa.\n\nA Comissão adota por meio de atos de execução as medidas necessárias para levar a cabo essa redistribuição, baseada no critério referido no artigo 23.º-A, n.º 2, primeiro parágrafo, alínea a), do Regulamento (UE) n.º 1308/2013 e limitada em função do nível de utilização da dotação definitiva da ajuda da União, como referida no n.º 6 do presente artigo, pelo Estado-Membro em causa para o ano letivo que terminou antes do pedido anual de ajuda da União.\n\nOs referidos atos de execução são adotados pelo procedimento de exame referido no artigo 15.º, n.º 2, do presente regulamento.\n\n6. Na sequência dos pedidos apresentados pelos Estados-Membros em conformidade com o artigo 23.º-A, n.º 3, do Regulamento (UE) n.º 1308/2013, a Comissão adota todos os anos atos de execução que fixam a dotação definitiva da ajuda à distribuição de fruta e produtos hortícolas e de leite nas escolas entre os Estados-Membros participantes, dentro dos limites estabelecidos no artigo 23.º-A, n.º 1, do Regulamento (UE) n.º 1308/2013, tendo em conta as transferências referidas no artigo 23.º-A, n.º 4, desse regulamento.\n\nOs referidos atos de execução são adotados pelo procedimento de exame referido no artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "1c32e3d5ac7ff703": {
+   "fragment_id": "Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas específicas sobre as restituições à exportação para os cereais e o arroz\n\n1. A Comissão pode adotar atos de execução que fixem montantes corretores aplicáveis às restituições à exportação fixadas nos setores dos cereais e do arroz. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2.\n\nCaso seja necessário para assegurar uma resposta ágil a condições de mercado em rápida mutação, a Comissão pode adotar atos de execução, sem aplicar o procedimento a que se refere o artigo 15.º, n.º 2, que alterem aqueles montantes corretores.\n\nA Comissão pode aplicar o presente número aos produtos dos setores dos cereais e do arroz exportados sob a forma de mercadorias transformadas, nos termos do Regulamento (CE) n.º 1216/2009 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/5dc155ac-299d-4fec-b63e-95094618e6ed.0015.02/DOC_1#E0001)).\n\n2. Para os três primeiros meses da campanha de comercialização, a restituição aplicável às exportações de malte armazenado no final da campanha de comercialização anterior ou feito de cevada armazenada nessa ocasião é a que teria sido aplicada a respeito do certificado de exportação em causa às exportações efetuadas durante o último mês da campanha de comercialização anterior.\n\n3. A restituição aplicável aos produtos enumerados no Anexo I, Parte I, alíneas a) e b), do Regulamento (UE) n.º 1308/2013, estabelecida nos termos do artigo 199.º, n.º 2, desse regulamento, pode ser ajustada pela Comissão, através de atos de execução, em função das eventuais alterações do nível do preço de intervenção.\n\nO primeiro parágrafo pode ser aplicado, total ou parcialmente, aos produtos enumerados no Anexo I, Parte I, alíneas c) e d), do Regulamento (UE) n.º 1308/2013, bem como aos produtos referidos na Parte I desse anexo e exportados sob a forma de mercadorias transformadas nos termos do Regulamento (CE) n.º 1216/2009. Nesse caso, a Comissão corrige, através de atos de execução, o ajustamento a que se refere o primeiro parágrafo do presente número, aplicando um coeficiente que exprima o rácio entre a quantidade de produto de base e a quantidade deste último contida no produto transformado exportado ou utilizada nas mercadorias exportadas.\n\nOs atos de execução a que se refere o presente número são adotados pelo procedimento de exame a que se refere o artigo 15.º, n.º 2, do presente regulamento."
+  },
+  "b74b289f1a35df1c": {
+   "fragment_id": "[►M2](http://publications.europa.eu/resource/celex/32016R0795) ANEXO II◄",
+   "type": "divisao",
+   "heading": "[►M2](http://publications.europa.eu/resource/celex/32016R0795) ANEXO II◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## [►M2](http://publications.europa.eu/resource/celex/32016R0795) ANEXO II◄"
+  },
+  "af30df49cd33a446": {
+   "fragment_id": "referida no artigo 16.º",
+   "type": "divisao",
+   "heading": "referida no artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### referida no artigo 16.º\n\n| Regulamento (CE) n.º 1234/2007 | Presente regulamento |\n| --- | --- |\n| Artigo 18.º, n.ºs 1 e 3 | Artigo 2.º |\n| Artigo 18.º, n.º 2, alínea a) | Artigo 3.º, n.º 1, alínea a) |\n| Artigo 13.º, n.º 1, alínea c) | Artigo 3.º, n.º 1, alínea b) |\n| Artigo 13.º, n.º 1, alínea d) | Artigo 3.º, n.º 1, alínea c) |\n| Artigo 18.º, n.º 2, primeiro parágrafo | Artigo 3, n.º 2 |\n| Artigo 18.º, n.º 2, segundo parágrafo | Artigo 3.º, n.º 3 |\n| Artigo 18.º, n.º 4 | Artigo 3.º, n.º 4 |\n| [▼C1](http://publications.europa.eu/resource/celex/32013R1370R%2801%29) |  |\n| Artigo 43.º-AA | Artigo 3.º, n.º 6 |\n| [▼B](http://publications.europa.eu/resource/celex/32013R1370) |  |\n| Artigo 31.º, n.º 2 | Artigo 4.º |\n| Artigo 103.º-GA, n.º 4 | Artigo 5.º, n.º 1 |\n| Artigo 103.º-GA, n.º 5 | Artigo 5.º, n.º 2 |\n| Artigo 102.º, n.º 4 | Artigo 6.º, n.º 1 |\n| Artigo 102.º, n.º 3 | Artigo 6.º, n.ºs 2 e 3 |\n| Artigo 51.º, n.º 2 | Artigo 7.º, n.º 1 |\n| Artigo 51.º, n.º 3 | Artigo 7.º, n.º 2 |\n| Artigo 51.º, n.º 4 | Artigo 7.º, n.º 3 |\n| Artigo 97.º | Artigo 8.º |\n| Artigo 49.º | Artigo 9.º |\n| Artigo 64.º, n.º 2 | Artigo 11.º, n.º 1 |\n| Artigo 64.º, n.º 3 | Artigo 11.º, n.º 2 |\n| Artigo 164.º, n.º 2 | Artigo 13.º, n.ºs 1 e 3 |\n| Artigo 164.º, n.º 3 | Artigo 13.º, n.º 2 |\n| Artigo 164.º, n.º 4 | Artigo 14.º, n.º 1 |\n| Artigo 165.º | Artigo 14.º, n.º 2 |\n| Artigo 166.º | Artigo 14.º, n.º 3 |"
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "71feee7d3eb8eb4b": {
+   "fragment_id": "DOTAÇÕES INDICATIVAS",
+   "type": "divisao",
+   "heading": "DOTAÇÕES INDICATIVAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DOTAÇÕES INDICATIVAS"
+  },
+  "3e7ff7523db7e244": {
+   "fragment_id": "para o período compreendido entre 1 de agosto de 2017 e 31 de julho de 2023",
+   "type": "divisao",
+   "heading": "para o período compreendido entre 1 de agosto de 2017 e 31 de julho de 2023",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### para o período compreendido entre 1 de agosto de 2017 e 31 de julho de 2023"
+  },
+  "d951a88b3b577f08": {
+   "fragment_id": "(conforme referido no artigo 5.º, n.º 4, segundo parágrafo)",
+   "type": "divisao",
+   "heading": "(conforme referido no artigo 5.º, n.º 4, segundo parágrafo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (conforme referido no artigo 5.º, n.º 4, segundo parágrafo)\n\n| Estados-Membros | Dotações indicativas para a distribuição de frutas e produtos hortícolas nas escolas | Dotações indicativas para a distribuição de leite nas escolas |\n| --- | --- | --- |\n| Bélgica | 3 367 930 | 1 650 729 |\n| Bulgária | 2 093 779 | 1 020 451 |\n| República Checa | 3 123 230 | 1 600 707 |\n| Dinamarca | 1 807 661 | 1 460 645 |\n| Alemanha | 19 696 932 | 9 404 154 |\n| Estónia | 439 163 | 700 309 |\n| Irlanda | 1 757 779 | 900 398 |\n| Grécia | 3 218 885 | 1 550 685 |\n| Espanha | 12 932 647 | 6 302 784 |\n| França | 22 488 086 | 12 625 577 |\n| Croácia | 1 360 232 | 800 354 |\n| Itália | 16 711 302 | 8 003 535 |\n| Chipre | 290 000 | 500 221 |\n| Letónia | 633 672 | 700 309 |\n| Lituânia | 900 888 | 1 032 456 |\n| Luxemburgo | 290 000 | 193 000 |\n| Hungria | 3 029 587 | 1 756 776 |\n| Malta | 290 000 | 193 000 |\n| Países Baixos | 5 431 641 | 2 401 061 |\n| Áustria | 2 238 064 | 1 100 486 |\n| Polónia | 11 639 985 | 10 204 507 |\n| Portugal | 3 283 397 | 2 220 981 |\n| Roménia | 6 866 848 | 10 399 594 |\n| Eslovénia | 554 020 | 320 141 |\n| Eslováquia | 1 708 720 | 900 398 |\n| Finlândia | 1 599 047 | 3 824 689 |\n| Suécia | 2 854 972 | 8 427 723 |\n| Reino Unido | 19 391 534 | 9 804 331 |\n| Total | 150 000 000 | 100 000 000 |\n\n---"
+  },
+  "4e58fdcef43e5e72": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5dc155ac-299d-4fec-b63e-95094618e6ed.0015.02/DOC_1#src.E0001)) Regulamento (CE) n.º 1216/2009 do Conselho, de 30 de novembro de 2009, que estabelece o regime de trocas aplicável a certas mercadorias resultantes da transformação de produtos agrícolas (JO L 328 de 15.12.2009, p. 10)."
+  }
+ }
+}

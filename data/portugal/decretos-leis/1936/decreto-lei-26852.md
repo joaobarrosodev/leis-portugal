@@ -1,0 +1,1149 @@
+---
+schema_version: '1.0'
+id: pt:dre:360077:por
+title: Decreto-Lei n.º 26852
+short_title: null
+summary: Aprova o regulamento de licenças para instalações eléctricas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas e Comunicações - Junta de Electrificação Nacional
+proposing_entity: null
+official_number: '26852'
+official_date: null
+publication_date: '1936-07-30'
+publication:
+  gazette: Diário do Govêrno
+  reference: Diário do Govêrno n.º 177/1936, Série I de 1936-07-30
+  number: '177'
+  series: I
+  supplement: null
+  pages: 885 - 898
+  pdf_url: https://files.diariodarepublica.pt/1s/1936/07/17700/08850898.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- A alínea a) do artigo 34.º do Decreto-Lei n.º 96/2017, de 10 de agosto, revoga as disposições do presente Decreto-lei na
+  parte respeitante às instalações elétricas de serviço particular reguladas pelo Decreto-Lei n.º 96/2017, de 10 de agosto.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2007-06-01'
+version_history:
+  file: decreto-lei-26852.versoes.json
+  count: 10
+  source_lastmod: '2025-07-09'
+  versions:
+  - date: '1936-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1936-10-01'
+    amending: pt:dre:321751:por
+    amending_title: Rectificação
+    changes:
+    - Retifica Artigo 2.º
+    - Retifica Artigo 40.º
+    - Retifica Artigo 43.º
+    - Retifica Artigo 55.º
+    - Retifica Artigo 56.º
+    - Retifica Artigo 59.º
+  - date: '1976-04-06'
+    amending: pt:dre:500742:por
+    amending_title: Decreto-Lei n.º 229/76
+    changes:
+    - Altera Artigo 32.º
+  - date: '1976-06-10'
+    amending: pt:dre:427162:por
+    amending_title: Decreto-Lei n.º 446/76
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 38.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 61.º
+    - Altera Artigo 63.º
+    - Altera Artigo 65.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 78.º
+  - date: '1981-01-29'
+    amending: pt:dre:457674:por
+    amending_title: Decreto-Lei n.º 517/80
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+  - date: '1987-05-18'
+    amending: pt:dre:662150:por
+    amending_title: Decreto-Lei n.º 131/87
+    changes:
+    - Altera Artigo 41.º
+  - date: '1989-06-12'
+    amending: pt:dre:611079:por
+    amending_title: Portaria n.º 344/89
+    changes:
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+  - date: '1993-02-01'
+    amending: pt:dre:597570:por
+    amending_title: Decreto-Lei n.º 272/92
+    changes:
+    - Altera Artigo 13.º
+  - date: '2006-08-10'
+    amending: pt:dre:537249:por
+    amending_title: Lei n.º 30/2006
+    changes:
+    - Adita Artigo 58.º-A
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 70.º
+    - Altera Artigo 71.º
+    - Altera Artigo 72.º
+    - Altera Artigo 74.º
+    - Altera Artigo 75.º
+    - Revoga Artigo 66.º
+    - Revoga Artigo 73.º
+  - date: '2007-06-01'
+    amending: pt:dre:520208:por
+    amending_title: Decreto-Lei n.º 101/2007
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 18.º
+    - Altera Artigo 27.º
+    - Altera Artigo 32.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Revoga Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/26852/1936/p/cons/20170810/pt/html
+  oj: null
+  dre: '360077'
+  dre_path: /dr/detalhe/decreto-lei/26852-1936-360077
+  internal: pt:dre:360077:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077
+  metadata_url: https://data.dre.pt/eli/dec-lei/26852/1936/p/cons/20170810/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1936-67374836
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1936-67374836
+  retrieved_at: '2026-10-22T13:31:55Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-07-09T00:00:00Z'
+integrity:
+  source_sha256: 518bdecd62aa11c8c38222887d360585910b9c75004c5fe7bdc898783c6540e3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:31:55Z'
+  notes: 10 versão(ões); histórico completo em decreto-lei-26852.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Energia Elétrica
+- Equipamento Eléctrico
+- Licenciamento
+- Regulamento de Licenças para Instalações Eléctricas
+relationships:
+- type: amended_by
+  target: pt:dre:321751:por
+  label: Retifica Artigo 2.º; Retifica Artigo 40.º; Retifica Artigo 43.º; Retifica Artigo 55.º; Retifica Artigo 56.º; Retifica
+    Artigo 59.º
+  source: https://diariodarepublica.pt/dr/detalhe/rectificacao/1936-321751
+  date: '1936-10-01'
+- type: amended_by
+  target: pt:dre:500742:por
+  label: Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1976-500742
+  date: '1976-04-01'
+- type: amended_by
+  target: pt:dre:427162:por
+  label: Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 16.º;
+    Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo 28.º; Altera Artigo 29.º;
+    Altera Artigo 30.º; Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 38.º; Altera Artigo 41.º; Altera Artigo 42.º;
+    Altera Artigo 43.º; Altera Artigo 44.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162
+  date: '1976-06-05'
+- type: amended_by
+  target: pt:dre:457674:por
+  label: Altera Artigo 7.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1980-457674
+  date: '1980-10-31'
+- type: amended_by
+  target: pt:dre:662150:por
+  label: Altera Artigo 41.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1987-662150
+  date: '1987-03-17'
+- type: amended_by
+  target: pt:dre:611079:por
+  label: Altera Artigo 19.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/344-1989-611079
+  date: '1989-05-13'
+- type: amended_by
+  target: pt:dre:597570:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1992-597570
+  date: '1992-12-03'
+- type: amended_by
+  target: pt:dre:283681:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1993-283681
+  date: '1993-01-08'
+- type: amended_by
+  target: pt:dre:537249:por
+  label: Adita Artigo 58.º-A; Altera Artigo 59.º; Altera Artigo 60.º; Altera Artigo 61.º; Altera Artigo 62.º; Altera Artigo
+    63.º; Altera Artigo 64.º; Altera Artigo 65.º; Altera Artigo 67.º; Altera Artigo 68.º; Altera Artigo 69.º; Altera Artigo
+    70.º; Altera Artigo 71.º; Altera Artigo 72.º; Altera Artigo 74.º; Altera Artigo 75.º; Revoga Artigo 66.º; Revoga Artigo
+    73.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249
+  date: '2006-07-11'
+- type: amended_by
+  target: pt:dre:520208:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 18.º;
+    Altera Artigo 27.º; Altera Artigo 32.º; Altera Artigo 39.º; Altera Artigo 41.º; Altera Artigo 42.º; Revoga Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208
+  date: '2007-04-02'
+article_structure:
+  article_count: 81
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:31:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 26852
+
+A experiência de alguns anos tem evidenciado largamente os defeitos da legislação que actualmente regula o licenciamento de instalações eléctricas. Da excessiva e inútil complicação das normas burocráticas a que obedece a instrução dos processos de licenças resultam atrasos injustificáveis no estabelecimento e na exploração de muitas instalações eléctricas, em detrimento não só dos seus proprietários ou concessionários, mas muitas vezes também das populações que por elas vão ser servidas; e além disso a execução das numerosas formalidades regulamentares ocupa, sem proveito algum, a actividade de vários funcionários, cujos esforços podem ser mais produtivamente empregados na melhor ordenação e no aperfeiçoamento dos serviços.
+
+Por outro lado a legislação actual sôbre êste assunto acha-se bastante dispersa, o que de certo modo desculpa o seu desconhecimento por parte dos interessados, mas não evita os prejuízos e a confusão que dêsse desconhecimento são a natural consequência.
+
+Impõe-se portanto a necessidade de reunir num único diploma as condições a que deve subordinar-se o licenciamento de todas as instalações eléctricas, simplificando quanto possível a parte burocrática, sem prejuízo da conveniente apreciação dos projectos e da acção orientadora que ao Estado compete exercer por intermédio dos seus organismos técnicos. Tais são os objectivos que se pretende alcançar com a publicação do presente decreto.
+
+No seu estudo não houve a preocupação de fazer uma obra definitiva; é bem possível que, dentro de curto prazo, o desenvolvimento da electricidade e a modificação das actuais condições de exploração dêste ramo industrial imponham a alteração profunda ou mesmo a substituição total de muitos princípios que neste momento se reputam vantajosos. Mas a urgência de dar imediato remédio aos graves inconvenientes que sumàriamente foram expostos não se compadece com a natural demora do estudo completo das bases em que há-de assentar a resolução do problema eléctrico nacional. Isto justifica o carácter provisório do regulamento de licenças para instalações eléctricas.
+
+A expansão crescente da rêde telefónica nacional e a necessidade do aperfeiçoamento das comunicações telefónicas exigem cuidados especiais no estabelecimento das linhas de energia vizinhas das linhas de telecomunicação, no sentido de evitar nestas últimas perturbações que já hoje se fazem sentir, mas que no futuro poderiam tomar aspectos de irremediável gravidade. Por isso se introduzem algumas disposições novas que têm por fim permitir a análise minuciosa dos projectos sob o ponto de vista das interferências com as linhas de telecomunicação e impedir na medida do possível que novas perturbações venham a ter lugar. Algumas dessas disposições virão talvez dificultar e encarecer um pouco o estudo prévio dos novos traçados; essa circunstância, porém, não é de considerar porque não é mais do que a consequência lógica de um princípio de ordem geral que exige, à medida que os diferentes ramos da técnica progridem e se aperfeiçoam, da parte de quem se dedica a um ramo determinado um conhecimento cada vez mais profundo dos diversos factores que interessam à sua actividade e uma especialização dia a dia mais acentuada.
+
+A supressão de algumas formalidades do andamento dos processos de licenças traz para o Estado uma ligeira deminuição de receitas, principalmente em selos. Atendendo a que os proprietários ou concessionários de instalações eléctricas são os principais beneficiados com essa simplificação, pelo mais rápido deferimento das suas pretensões, não parece justo que o Estado suporte integralmente aquele prejuízo. Por essa razão se criam taxas suplementares que serão pagas pelos interessados conjuntamente com as taxas de licença de estabelecimento fixadas pelo decreto n.º 23:559, de 8 de Fevereiro de 1934, e que foram calculadas de modo tal que, no conjunto, compensem, aproximadamente, a quebra de receitas acima referida. Apesar disso, na maior parte dos casos, as despesas inerentes ao licenciamento ficam ainda um pouco reduzidas.
+
+As considerações apresentadas justificam cabalmente a orientação e os princípios essenciais do novo regulamento.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Govêrno decreta e eu promulgo, para valer como lei, o seguinte:
+
+> Nota: [Artigo 34.º, Decreto-Lei n.º 96/2017 - Diário da República n.º 154/2017, Série I de 2017-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2017-107987277) A alínea a) do artigo 34.º do Decreto-Lei n.º 96/2017, de 10 de agosto, revoga as disposições do presente Decreto-lei na parte respeitante às instalações elétricas de serviço particular reguladas pelo Decreto-Lei n.º 96/2017, de 10 de agosto.
+
+###### Artigo 1.º
+
+É aprovado o regulamento de licenças para instalações eléctricas, que baixa assinado pelo Ministro das Obras Públicas e Comunicações.
+
+###### Artigo 2.º
+
+Ficam revogados: os artigos 1.º a 61.º, 70.º, 71.º, 74.º a 78.º, 92.º a 96.º, 98.º e 102.º a 105.º do regulamento aprovado por decreto de 30 de Novembro de 1912; o decreto n.º 184, de 24 de Outubro de 1913, exceptuando a parte que se refere aos artigos 62.º, 68.º e 81.º do regulamento aprovado por decreto de 30 de Novembro de 1912; os artigos 133.º a 136.º, 138.º a 140.º, 142.º, 144.º a 151.º, 155.º, 158.º a 160.º, 168.º, 172.º a 175.º, 177.º, 267.º e 272.º do decreto n.º 5:786, de 10 de Maio de 1919; o artigo 43.º do decreto n.º 9:424, de 11 de Fevereiro de 1924, os artigos 1.º e 2.º do decreto n.º 11:462, de 22 de Janeiro de 1926; os artigos 31.º a 55.º do regulamento aprovado por decreto n.º 14:829, de 5 de Janeiro de 1928; o decreto n.° 23:365, de 16 de Dezembro de 1933; a alínea c) do artigo 3.º e os artigos 6.º e 19.º do decreto n.º 23:559, de 8 de Fevereiro de 1934.
+
+> Retificado pelo/a [Rectificação - Diário do Govêrno n.º 231/1936, Série I de 1936-10-01](https://diariodarepublica.pt/dr/detalhe/rectificacao/1936-321751), em vigor a partir de 1936-10-01
+
+Publique-se e cumpra-se como nêle se contém.
+
+Paços do Govêrno da República, 30 de Julho de 1936. - ANTÓNIO ÓSCAR DE FRAGOSO CARMONA - António de Oliveira Salazar - Mário Pais de Sousa - Manuel Rodrigues Júnior - Manuel Ortins de Bettencourt - Armindo Rodrigues Monteiro - Joaquim José de Andrade e Silva Abranches - Francisco José Vieira Machado - António Faria Carneiro Pacheco - Pedro Teotónio Pereira - Rafael da Silva Neves Duque.
+
+Regulamento de licenças para instalações eléctricas
+
+## Regulamento de licenças para instalações eléctricas
+
+### Capítulo I — Classificação das instalações
+
+###### Artigo 1.º
+
+O presente regulamento tem por fim fixar as normas a seguir para o licenciamento de todas as instalações destinadas a produção, transporte, transformação, distribuição ou utilização de energia eléctrica que se encontrem sujeitas à fiscalização da Repartição dos Serviços Eléctricos.
+
+###### Artigo 2.º
+
+Para efeito do seu licenciamento as instalações eléctricas dividem-se em dois grupos, conforme se destinam a serviço público ou a serviço particular, considerando-se de serviço público as instalações destinadas a tracção eléctrica e aquelas que forem estabelecidas com o fim de fornecer energia eléctrica a quaisquer consumidores que a pretendam adquirir, ou que sirvam para o transporte ou transformação de energia eléctrica destinada ao mesmo fim.
+
+###### Artigo 3.º
+
+As licenças para o estabelecimento das instalações eléctricas de serviço público só serão concedidas se o requerente estiver munido da necessária concessão do Estado ou do respectivo município, nos termos dos artigos 12.º e 13.º do decreto n.º 14:772, de 18 de Dezembro de 1927, e demais legislação aplicável, não podendo a nova instalação exceder os limites da área da concessão nem afastar-se das condições impostas pelo respectivo caderno de encargos.
+
+§ único. Exceptuam-se do disposto neste artigo:
+
+a) As pequenas instalações de baixa tensão situadas em localidades de população inferior a 500 habitantes, que se destinem a alimentar um número de consumidores não superior a quinze e cuja potência instalada não seja superior a 10 kW; estas licenças, porém, conterão sempre uma cláusula reservando ao Govêrno o direito de mandar desmontar as instalações em qualquer ocasião, sem que o seu proprietário tenha direito a qualquer indemnização por êsse facto, ou de impor a sua cedência a qualquer distribuidor público de energia eléctrica, mediante o pagamento do seu valor, o qual será calculado nos termos que, para cada caso, forem determinados pelo Govêrno ;
+
+b) As ampliações de instalações já existentes e que actualmente funcionam mediante simples autorizações dadas pelo Estado ou pelos corpos administrativos ; essas ampliações poderão ser licenciadas como se as instalações primitivas se achassem em regime de concessão, mas não poderão estender-se a outras localidades ou povoações além daquelas que actualmente se encontram servidas, nem será permitido alterar as condições de exploração das instalações actuais, nem prorrogar os contratos existentes, sem que se faça uma escritura de concessão, cujo caderno de encargos poderá, porém, conter cláusulas diferentes das do caderno de encargos tipo, se assim fôr autorizado pelo Ministro das Obras Públicas e Comunicações, ouvida a 1.ª sub-secção da 5.ª secção do Conselho Superior de Obras Públicas.
+
+###### Artigo 4.º
+
+Em tudo o que diz respeito à outorga de novas concessões para distribuição de energia eléctrica em alta ou baixa tensão e aos direitos dos concessionários, continuam em vigor as disposições do regulamento para a concessão e estabelecimento das instalações eléctricas de interêsse público, aprovado por decreto n.º 14:829, de 5 de Janeiro de 1928.
+
+###### Artigo 5.º
+
+As instalações estabelecidas ou exploradas directamente pelos corpos administrativos são abrangidas pelas disposições do presente regulamento e do caderno de encargos tipo, na parte que se refere às condições de estabelecimento e exploração.
+
+§ 1.º Os corpos administrativos não podem estabelecer instalações eléctricas fora da área da sua jurisdição, salvo em casos excepcionais, de reconhecida necessidade, com autorização e pleno acôrdo do corpo administrativo vizinho em cuja área ficar situada a instalação a estabelecer e sòmente com as condições estipuladas para o caso a que se refere a alínea a) do § único do artigo 3.º
+
+§ 2.º Para os efeitos dêste regulamento considerar-se-ão os corpos administrativos como se fôssem concessionários da distribuição de energia eléctrica em alta e baixa tensão dentro da respectiva área de jurisdição, sem declaração de utilidade pública, salvo nos casos em que as suas instalações eléctricas tenham sido objecto dessa declaração.
+
+###### Artigo 6.º
+
+Para assegurar ou melhorar o serviço da exploração de uma instalação eléctrica poderá ser autorizada a construção de linhas e postos telefónicos de carácter privativo, exclusivamente destinados àquele fim, os quais serão considerados como fazendo parte da instalação, ficando o seu licenciamento sujeito às mesmas normas; o proprietário dessas linhas e postos telefónicos não poderá em caso algum fazer ou consentir que se faça dêles uso diferente do que fica estipulado, mesmo que êsse uso importe ou se relacione com os seus interêsses comerciais.
+
+###### Artigo 7.º
+
+As instalações eléctricas de serviço particular, para efeitos do seu licenciamento ou aprovação, classificam-se nos três tipos seguintes:
+
+Tipo A - instalações de carácter permanente com produção própria, não incluídas no tipo C;
+
+Tipo B - instalações que sejam alimentadas por instalações de serviço público em média, alta ou muito alta tensão;
+
+Tipo C - instalações alimentadas por uma rede de distribuição de serviço público em baixa tensão ou instalações de carácter permanente com produção própria em baixa tensão até 100 kVA, se de segurança ou de socorro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 517/80 - Diário da República n.º 253/1980, Série I de 1980-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1980-457674), em vigor a partir de 1981-01-29
+
+###### Artigo 8.º
+
+1 - Com excepção do referido nos artigos 27.º e 28.º, as instalações eléctricas de serviço público ficam sujeitas a licença para o seu estabelecimento, a conceder pelo director-geral de Geologia e Energia ou pelo director regional da economia, nos termos do disposto no presente Regulamento.
+
+2. O licenciamento das centrais nucleares reger-se-á por legislação específica.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 9.º
+
+1 - A licença de estabelecimento para as instalações eléctricas de serviço particular do tipo A é concedida pelo director regional da economia territorialmente competente, à excepção das seguintes:
+
+a) As centrais termoeléctricas, fotovoltaicas, eólicas, de maré e outras que utilizem as energias renováveis de potência não superior a 100 kVA;
+
+b) As centrais termoeléctricas de potência não superior a 100 kVA, quando de segurança ou de socorro;
+
+c) As mudanças de local, dentro do mesmo recinto, de centrais termoeléctricas, sem alteração das suas características;
+
+d) A substituição do motor ou do gerador de uma central eléctrica por outros de igual ou menor potência;
+
+e) (Revogada.)
+
+2 - Não estão sujeitas a licença de estabelecimento ou de vistoria as seguintes instalações:
+
+a) Grupos electrogénios móveis de baixa tensão que alimentem instalações temporárias, com exclusão das instalações de estaleiros, devidamente certificados, com potência até 50 kVA e com dispositivo sensível à corrente residual diferencial de alta sensibilidade, como corte geral;
+
+b) Centrais fotovoltaicas ou eólicas destinadas a abastecer de energia eléctrica equipamentos alimentados a tensão reduzida de segurança cuja potência não exceda 1000 W.
+
+3 - O licenciamento das instalações referidas nas alíneas a) a d) do n.º 1 processa-se nos termos definidos para as instalações do tipo B.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 10.º
+
+As instalações eléctricas de serviço particular, compreendidas na 2.ª categoria, não carecem de licença prévia para o estabelecimento, mas não poderão ser exploradas sem que tenham sido vistoriadas pela fiscalização técnica do Govêrno.
+
+§ 1.º O concessionário de uma distribuição de energia eléctrica em alta tensão só poderá permitir a ligação de uma instalação desta categoria à sua rêde depois de se certificar de que o seu proprietário possue a necessária licença de exploração, ou depois de obter para tal fim autorização da respectiva secção de fiscalização eléctrica, a qual lhe será dada por ofício, se a instalação já tiver sido vistoriada e encontrada em boas condições de segurança.
+
+§ 2.º O concessionário tem sempre o direito de verificar as condições de segurança das instalações eléctricas de 2.ª categoria alimentadas pela sua rêde, cumprindo-lhe comunicar à respectiva secção de fiscalização qualquer deficiência que nelas encontre e que o seu proprietário se recuse a eliminar, a fim de se tomarem as necessárias providências.
+
+###### Artigo 11.º
+
+1. As instalações eléctricas de 3.º categoria não carecem de licença dada pela Direcção-Geral dos Serviços Eléctricos, mas ficam permanentemente sujeitas à sua fiscalização e só podem ser exploradas depois de obtida a respectiva licença da Direcção-Geral dos Espectáculos, a qual só será concedida sob parecer favorável da Direcção-Geral dos Serviços Eléctricos.
+
+2. Para esse efeito, a Direcção-Geral dos Espectáculos enviará um exemplar do projecto à Direcção-Geral dos Serviços Eléctricos e solicitará a realização das vistorias que forem necessárias.
+
+3. Para as instalações eléctricas de 3.º categoria estabelecidas em locais onde não se exerçam as actividades previstas no n.º 1 do artigo 2.º do Decreto-Lei n.º 42660, de 20 de Novembro de 1959, aplicar-se-ão disposto no n.º 1 do artigo 13.º
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 12.º
+
+1 - A licença de estabelecimento para instalações eléctricas do tipo B que ultrapassem os limites da respectiva propriedade ou que tenham uma extensão superior a 500 m é concedida pelo director regional da economia territorialmente competente.
+
+2 - As instalações eléctricas do tipo C que ultrapassem os limites da propriedade privada não estão sujeitas a licença de estabelecimento, sendo a apreciação dos projectos e a certificação das instalações da competência das associações inspectoras de instalações eléctricas.
+
+3 - Quando as instalações eléctricas indicadas nos números anteriores ultrapassem os limites da propriedade do respectivo requerente, deve este instruir o pedido com as autorizações dos proprietários dos locais atravessados.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 517/80 - Diário da República n.º 253/1980, Série I de 1980-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1980-457674), em vigor a partir de 1981-01-29
+
+###### Artigo 13.º
+
+1 - As instalações eléctricas do tipo C não dependem de licença para o estabelecimento, ficando sujeitas à fiscalização da direcção regional da economia territorialmente competente, bem como à inspecção das associações inspectoras de instalações eléctricas.
+
+2 - Excluem-se da inspecção das associações inspectoras de instalações eléctricas referidas no número anterior as instalações eléctricas não localizadas em edifícios cuja potência a alimentar pela rede não exceda 1,15 kVA e a empresa instaladora esteja devidamente inscrita no Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário (IMOPPI).
+
+3 - A entrada em exploração das instalações referidas nos números anteriores fica condicionada ao cumprimento do disposto no artigo 6.º do Decreto-Lei n.º 272/92, de 3 de Dezembro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 272/92 - Diário da República n.º 279/1992, Série I-A de 1992-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1992-597570), em vigor a partir de 1993-02-01
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 14.º
+
+As ampliações ou modificações de uma instalação eléctrica de 1.ª categoria só carecem de licença prévia de estabelecimento se, consideradas isoladamente, como se não existisse a instalação primitiva, pertencerem também à 1.ª categoria; quando a ampliação ou modificação, considerada isoladamente, constituir uma instalação de qualquer outra categoria, o seu licenciamento obedecerá às normas correspondentes a essa mesma categoria.
+
+§ 1.º Se a ampliação ou modificação disser exclusivamente respeito à rêde de utilização da energia em baixa tensão, dentro de uma propriedade particular, e não constituir instalação de 3.ª categoria, não necessita de qualquer licença ou vistoria para a sua exploração, ficando no entanto sujeita às determinações que lhe venham a ser impostas pela fiscalização técnica do Govêrno.
+
+§ 2.º A doutrina do parágrafo anterior é igualmente aplicável às ampliações ou modificações das instalações eléctricas de 2.ª categoria que satisfaçam às mesmas condições.
+
+### Capítulo II — Estabelecimento das instalações eléctricas de serviço público
+
+###### Artigo 15.º
+
+1. Salvo o caso previsto no n.º 2 do artigo 16.º, o pedido de licença para o estabelecimento de uma instalação eléctrica de serviço público será feito em requerimento, em papel selado, dirigido ao director-geral dos Serviços Eléctricos, e deverá ser acompanhado do respectivo projecto, que compreenderá todos os elementos necessários para dar uma ideia perfeita e exacta da natureza, importância e função da mesma instalação, e serão elaborados em conformidade com a natureza, importância e destino das instalações projectadas.
+
+2. A pormenorização dos documentos e a forma de apresentação constarão de portaria ministerial.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 16.º
+
+1. Os requerimentos, acompanhados dos respectivos projectos, serão entregues na Direcção-Geral dos Serviços Eléctricos, em Lisboa, ou nas direcções de fiscalização eléctrica, que os remeterão à Direcção-Geral.
+
+2. Se se tratar de redes de tracção eléctrica urbana, o requerimento, acompanhado do projecto, em sextuplicado, será dirigido ao director-geral dos Transportes Terrestres, que remeterá à Direcção-Geral dos Serviços Eléctricos três exemplares do projecto com o respectivo parecer.
+
+3. Além destes documentos, sempre que, para a execução das instalações, seja necessária a ocupação de quaisquer domínios públicos ou particulares e as instalações não gozem de declaração de utilidade pública, deverá o requerente apresentar declaração escrita em papel selado e reconhecida por notário público, de que se obriga a obter as autorizações para a ocupação desses domínios, dadas pelos proprietários ou entidades competentes ou seus legítimos representantes, e de que só depois de obtidas essas autorizações procederá à montagem da instalação projectada.
+
+§ 1.º Com os projectos das linhas ou ramais de tracção eléctrica deverá o concessionário apresentar documento comprovativo de que os traçados a construir obtiveram a aprovação prévia da câmara municipal do respectivo concelho, o que constitue condição essencial para que a licença possa ser concedida; considera-se como prova suficiente dessa aprovação a apresentação de um dos exemplares da planta a que se refere a alínea a) do artigo anterior, da qual constem todos os traçados a estabelecer, visado e autenticado pela câmara municipal.
+
+§ 2.º O projecto deve ser acompanhado de um têrmo de responsabilidade pela execução dos trabalhos e exploração das instalações eléctricas, prestado por um engenheiro electrotécnico português, sempre que se trate de instalações de potência instalada superior a 250 kW ou de tensão superior a 15:000 volts. Para instalações de menor importância poderá o têrmo de responsabilidade ser prestado por um engenheiro mecânico ou por um condutor com o curso de electrotecnia dos institutos industriais ou habilitações equivalentes. Todas as peças do projecto deverão ser assinadas ou rubricadas pelo técnico que assina o respectivo têrmo de responsabilidade.
+
+§ 3.º É mantida a faculdade de assinar termos de responsabilidade aos indivíduos que à data da publicação dêste regulamento eram considerados legalmente habilitados para o fazer e se encontrem inscritos no registo para tal fim existente na Repartição dos Serviços Eléctricos ou tenham em qualquer época usado dessa faculdade.
+
+§ 4.º A responsabilidade pela exploração de todas as instalações pertencentes a uma central, ou do conjunto de uma rêde e seus postos de transformação, deverá ser assumida por um único técnico. Contudo, em instalações muito importantes, poderão aceitar-se diferentes técnicos responsáveis em sucessivas ampliações, mas considerando-se todos êles solidários na sua responsabilidade.
+
+§ 5.º Além dêstes documentos, sempre que, para a execução das obras projectadas, seja necessária a ocupação de quaisquer domínios públicos ou particulares e a respectiva concessão não tenha sido dada com declaração de utilidade pública, deverá o requerente apresentar declaração escrita em papel selado e reconhecida por notário público de que se obriga a obter as autorizações para a ocupação dêsses domínios, dadas pelos proprietários ou entidades competentes ou seus legítimos representantes, e de que só depois de obtidas essas autorizações procederá à montagem da instalação projectada.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 17.º
+
+1. O projecto deve ser acompanhado de um termo de responsabilidade pela sua elaboração, assinado por um engenheiro electrotécnico ou engenheiro técnico da especialidade de electrotecnia.
+
+2. Todas as peças do projecto serão rubricadas pelo técnico responsável, à excepção da última peça escrita, onde deverá constar a assinatura, o nome por extenso e as referências da inscrição na Direcção-Geral dos Serviços Eléctricos.
+
+3. É mantida a faculdade de assinar termos de responsabilidade aos indivíduos que, à data da publicação deste Regulamento, eram considerados habilitados para o fazer e se encontrem inscritos no registo para tal existente na Direcção-Geral dos Serviços Eléctricos.
+
+4. A Direcção-Geral dos Serviços Eléctricos inscreverá, em cadastro especial, os técnicos que satisfaçam todas as condições para assumir as responsabilidades pela elaboração do projecto e exploração das instalações eléctricas, de harmonia com as exigências constantes do diploma a que se refere o número seguinte.
+
+5. O exercício da actividade do técnico responsável será regulamentado por diploma conjunto dos Ministérios da Indústria e Tecnologia e do Trabalho.
+
+6. O termo de responsabilidade pode dizer respeito à elaboração do projecto e à exploração das instalações e referir-se ao conjunto das instalações do requerente ou a parte desse conjunto. Nestes dois últimos casos é dispensável a apresentação de um termo de responsabilidade por cada pedido.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 18.º
+
+1. Após a recepção do projecto, a Direcção-Geral dos Serviços Eléctricos verificará se ele se apresenta instruído com os documentos e esclarecimentos essenciais de apreciação, exigindo, na sua falta, que lhe sejam apresentados pelo requerente, e procederá ao seu estudo.
+
+A Direcção-Geral dos Serviços Eléctricos poderá mandar introduzir no projecto as modificações que julgar indispensáveis para garantir a segurança da instalação e do público ou para fazer respeitar as disposições de segurança fixadas nos respectivos regulamentos. Se as modificações forem de pequena importância, não justificando a exigência da substituição ou alteração do projecto, poderão ser impostas na licença sob a forma de cláusulas, que serão comunicadas ao interessado ou anotadas no próprio projecto e nas respectivas cópias, o que, em qualquer dos casos, obrigará o requerente a observá-las escrupulosamente.
+
+2. Os elementos referidos no número anterior serão apresentados pelo requerente num prazo que poderá variar de quinze a sessenta dias, conforme a importância dos documentos pedidos. A falta de apresentação dos elementos no prazo fixado poderá dar lugar a que o processo seja arquivado.
+
+3. Sempre que se trate de linhas de alta tensão que cruzem linhas de telecomunicação ou tenham extensão superior a 500 m, consultar-se-ão os Correios e Telecomunicações de Portugal, enviando-se-lhes os elementos para a conveniente apreciação das eventuais interferências.
+
+4. No caso de o pedido de licença abranger linhas de alta ou baixa tensão que atravessem caminhos de ferro entre agulhas de estação ou ocupem terrenos dos mesmos, atravessem rios navegáveis ou ocupem a zona de estradas nacionais ou outras sujeitas à jurisdição da Junta Autónoma de Estradas, proceder-se-á a consultas nos termos do Decreto-Lei n.º 30349 e do Decreto n.º 30350, de 2 de Abril de 1940. Proceder-se-á igualmente a consulta no caso de linhas de alta ou baixa tensão que cruzem caminhos de ferro electrificados.
+
+5. Além das consultas indicadas nos números anteriores, deverão consultar-se outros departamentos oficiais sempre que as instalações interfiram com os seus domínios ou actividades.
+
+6. A falta de resposta, no prazo de trinta dias, das entidades consultadas nos números anteriores é considerada como parecer favorável.
+
+7. A Direcção-Geral dos Serviços Eléctricos procederá, para os processos convenientemente instruídos e não abrangidos pelo número seguinte, ao seu estudo, por forma que a guia da taxa de licença de estabelecimento seja emitida no prazo de sessenta dias contados da data de entrada do pedido.
+
+8. Nos processos em que houver lugar à realização das consultas previstas nos n.os 3, 4 e 5 ou à publicação dos éditos previstos no artigo 19.º, a expedição dos ofícios para concretização daquelas formalidades deverá verificar-se no prazo referido no número anterior e a das guias quinze dias após a recepção das respostas.
+
+9. No caso dos processos deficientemente instruídos ou cujo andamento dependa de terceiros, os prazos referidos nos n.os 6 e 7 contar-se-ão a partir da recepção dos elementos que impedem o seu andamento. Do facto deve ser dado conhecimento ao requerente.
+
+10. Os prazos referidos nos números anteriores não se aplicam às obras comparticipadas pelo Estado, atendendo ao planeamento a que as mesmas estão sujeitas.
+
+11. Os pedidos de licença instruídos com as autorizações dos proprietários dos terrenos atravessados, bem como de todas as outras entidades territorialmente competentes, ficam dispensados das consultas ou publicação de éditos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 19.º
+
+1 - Se se tratar da montagem de centrais ou de linhas de alta tensão, logo que o processo esteja instruído com todos os documentos necessários e o projecto em condições técnicas de merecer aprovação, será este patenteado ao público nos competentes serviços da DGE durante um prazo de quinze dias, publicando-se éditos no Diário da República e num jornal de grande circulação.
+
+2 - A cada uma das câmaras municipais da região atravessada pela linha ou linhas será enviado, a título não devolutivo, um exemplar da planta parcelar e perfil longitudinal da região interessada, que ficará patente ao público também durante um prazo de quinze dias, devendo ser os éditos afixados nos lugares do costume e publicados num jornal local, se o houver e se o presidente da câmara municipal o julgar conveniente, para lhes dar a necessária publicidade.
+
+3 - As despesas a que der origem a publicação e afixação dos éditos serão sempre satisfeitas pelo distribuidor público.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 344/89 - Diário da República n.º 110/1989, Série I de 1989-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/344-1989-611079), em vigor a partir de 1989-06-12
+
+###### Artigo 20.º
+
+1 - As reclamações que hajam de ser apresentadas contra a aprovação do projecto podem ser enviadas directamente aos respectivos serviços da DGE ou entregues nas câmaras municipais respectivas durante o prazo mencionado nos éditos.
+
+As câmaras dispõem de um prazo máximo de dez dias para remeter aos competentes serviços da DGE as reclamações que houver.
+
+2 - Findo o prazo indicado no número anterior e na ausência de resposta da câmara municipal ao ofício que acompanhava os éditos, considera-se como não tendo havido reclamações ao estabelecimento da linha.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 344/89 - Diário da República n.º 110/1989, Série I de 1989-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/344-1989-611079), em vigor a partir de 1989-06-12
+
+###### Artigo 21.º
+
+Logo que estejam cumpridas estas formalidades, ou logo que o projecto esteja devidamente instruído se não houver publicação de éditos, a secção de licenças da Repartição dos Serviços Eléctricos, tendo em vista as reclamações apresentadas, se as houver, e as prescrições técnicas de segurança, informará se o projecto está em condições de ser aprovado, se satisfaz todas as exigências dos regulamentos em vigor e se a execução do mesmo poderá vir a criar qualquer obstáculo à organização ou ao funcionamento dos serviços públicos ou outros autorizados nos termos legais e indicará quaisquer cláusulas que porventura convenha impor como condição para ser concedida a licença.
+
+§ único. As licenças de estabelecimento de linhas ou ramais de alta tensão ou de modificação das linhas e ramais já existentes serão sempre dadas com a condição implícita de o requerente se obrigar a adaptar essas linhas ou ramais, sem direito a qualquer indemnização, às cláusulas e mais condições que vierem a constar do plano da rêde eléctrica nacional e seu respectivo regulamento.
+
+###### Artigo 22.º
+
+Sôbre a informação da secção de licenças da Repartição dos Serviços Eléctricos o presidente da Junta de Electrificação Nacional resolverá se deve ser concedida ou negada a licença para o estabelecimento da instalação eléctrica, ou submeterá o assunto à apreciação do Ministro das Obras Públicas e Comunicações, se o licenciamento não fôr da sua competência.
+
+###### Artigo 23.º
+
+Concedida a licença de estabelecimento, a Repartição dos Serviços Eléctricos enviará ao requerente uma guia para pagamento da respectiva taxa, que será calculada nos termos do artigo 8.º do decreto n.º 23:559, de 8 de Fevereiro de 1934, adicionando-se porém uma taxa suplementar com os valores fixados na tabela seguinte:
+
+Para novas centrais ou ampliação da potência mecânica ou eléctrica de centrais já existentes ... 300$00
+
+Para linhas ou ramais de alta tensão, linhas telefónicas para uso privativo dos concessionários ou modificações de linhas já existentes ... 100$00
+
+Para postos de transformação ou de seccionamento ou aumento de potência de postos de transformação já existentes ... 80$00
+
+Para rêdes de baixa tensão ou suas ampliações ... 200$00
+
+Para linhas ou ramais de tracção eléctrica ... 200$00
+
+Para quaisquer outras instalações ... 50$00
+
+§ 1.º (Revogado);
+
+§ 2.º Ao mesmo tempo será também enviada ao requerente uma guia de emolumentos na importância fixa de 35$00, conforme o disposto no artigo 17.º; esta guia substitue para todos os efeitos os emolumentos que se cobravam, nos termos do artigo 7.º do decreto n.º 12:445, de 29 de Setembro de 1926, pela entrada dos requerimentos de licença de estabelecimento e de vistoria.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 4/93 - Diário da República n.º 6/1993, Série I-A de 1993-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1993-283681), em vigor a partir de 1993-03-09
+
+###### Artigo 24.º
+
+Depois de pagos os emolumentos e a taxa de licença de estabelecimento e comprovado o seu pagamento por meio da apresentação dos talões das respectivas guias, a Repartição dos Serviços Eléctricos enviará ao requerente uma cópia do projecto aprovado, devidamente visada, a qual ficará em seu poder para ser apresentada em qualquer ocasião aos funcionários da fiscalização técnica do Gôverno e lhe servirá para comprovar que a licença foi concedida. O concessionário poderá então dar comêço aos trabalhos para a execução da instalação.
+
+§ único. Ao mesmo tempo, a Repartição dos Serviços Eléctricos enviará à Direcção dos Serviços de Estudos, Construção e Conservação, da Administração Geral dos Correios e Telégrafos, a parte do projecto que, nos termos do § 1.º do artigo 15.º, tiver sido entregue em quadruplicado, se a houver.
+
+###### Artigo 25.º
+
+As instalações eléctricas de serviço público deverão estar integralmente concluídas no prazo máximo de dois anos a contar da data da licença de estabelecimento. Findo êste prazo, se a instalação não tiver sido estabelecida ou, por incompleta, não se encontrar ainda em condições de ser explorada, o concessionário será obrigado a desmontar as obras que já tiver efectuado, arquivando-se o respectivo processo, e se não proceder à desmontagem serão essas obras consideradas como ilegalmente estabelecidas; se a instalação tiver sido parcialmente executada e a parte executada já estiver em exploração, o concessionário perde o direito ao estabelecimento da parte restante, devendo requerer nova licença e apresentar novo projecto se mais tarde pretender concluir a instalação.
+
+§ 1.º Em casos de fôrça maior, devidamente justificados, e a requerimento do concessionário, poderá o prazo acima indicado ser prorrogado por outros dois anos, por despacho da mesma entidade que concedeu a licença, ouvida a Repartição dos Serviços Eléctricos.
+
+§ 2.º Em casos de urgência, em que o interêsse público assim o aconselhe, o Ministro das Obras Públicas e Comunicações poderá, mediante proposta do presidente da Junta de Electrificação Nacional, fixar um prazo mais curto para a integral execução de qualquer instalação eléctrica de serviço público.
+
+###### Artigo 26.º
+
+1. Desde a data em que se iniciarem os trabalhos de estabelecimento, e até terem decorrido trinta dias sobre a data em que for feita pela fiscalização técnica do Governo a vistoria de uma instalação eléctrica, poderão os proprietários dos terrenos ou edifícios onde tenham sido colocados apoios das linhas de alta ou baixa tensão, e que por este facto se sintam prejudicados, apresentar as suas reclamações devidamente fundamentadas na Direcção-Geral dos Serviços Eléctricos, que procederá ao seu estudo e proporá superiormente as medidas que julgar necessárias para as atender, se forem justificadas.
+
+2. Estas reclamações serão feitas em papel selado.
+
+3. Exceptuam-se do disposto no número anterior, quando a instalação não for de utilidade pública, as reclamações que forem apresentadas com o fundamento de não ter sido concedida ao titular da licença de estabelecimento a autorização para a ocupação de quaisquer terrenos ou edifícios onde tenham sido colocados apoios das linhas; estas reclamações poderão ser apresentadas em papel comum.
+
+4. Se se provar que o titular da licença de estabelecimento ocupou quaisquer domínios públicos ou particulares para o estabelecimento de uma instalação eléctrica que não seja de utilidade pública, sem ter obtido previamente as autorizações a que se refere o n.º 3 do artigo 16.º, será obrigado a desmontar ou desviar as linhas estabelecidas nesses domínios, no prazo máximo de quinze dias, a contar da intimação que nesse sentido lhe for feita, sem prejuízo das indemnizações devidas pelos danos de qualquer espécie que dessa ocupação tenham resultado.
+
+§ 1.º Estas reclamações serão feitas em papel selado e ficarão sujeitas às disposições do artigo 7.º do decreto n.º 12:445, de 29 de Setembro de 1926.
+
+§ 2.º Exceptuam-se do disposto no parágrafo anterior, quando a instalação não fôr de utilidade pública, as reclamações que forem apresentadas com o fundamento de não ter sido concedida ao concessionário a autorização para a ocupação de quaisquer terrenos ou edifícios onde tenham sido colocados apoios das linhas; estas reclamações poderão ser apresentadas em papel comum e ficam isentas do pagamento de quaisquer emolumentos.
+
+§ 3.º Se se provar que o concessionário ocupou quaisquer domínios públicos ou particulares para o estabelecimento de uma instalação eléctrica que não seja de utilidade pública, sem ter obtido prèviamente as autorizações a que se refere o § 5.º do artigo 16.º, será obrigado a desmontar ou desviar as linhas estabelecidas nesses domínios, no prazo máximo de quinze dias a contar da intimação que nesse sentido lhe fôr feita, sem prejuízo das indemnizações devidas pelos danos de qualquer espécie que dessa ocupação tenham resultado.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 27.º
+
+1. Não carecem de licença de estabelecimento as instalações eléctricas a seguir indicadas, desde que não sejam comparticipadas pelo Estado, com o condicionamento indicado no n.º 2:
+
+a) Linhas de alta tensão subterrâneas, de tensão nominal inferior a 60 kV, e suas modificações;
+
+b) Alterações de tensão ou de número e secção de condutores de linhas de alta tensão aéreas se as novas características já estavam previstas no projecto que serviu de base ao licenciamento;
+
+c) Linhas aéreas de tensão nominal superior a 1 kV e igual ou inferior a 60 kV, desde que o distribuidor declare, por escrito, que obteve autorização dos proprietários para efectuar os trabalhos nos terrenos atravessados pelas linhas ou que se compromete a obter a referida autorização;
+
+d) Linhas aéreas de alta tensão, de tensão nominal não superior a 1 kV;
+
+e) Subestações de transformação ou de conversão, de tensão inferior a 60 kV;
+
+f) Postos de transformação e ou de corte, de tensão inferior a 60 kV;
+
+g) Modificações, incluindo aumentos de potência, alterações de tensão de subestações, postos de transformação e ou de corte;
+
+h) Redes de distribuição de energia eléctrica em baixa tensão;
+
+i) Instalações de telecomunicação, com exclusão das radioeléctricas, auxiliares da exploração dos serviços públicos de produção, transporte ou distribuição de energia eléctrica e instalações de telecomando ou sinalização dos serviços públicos de abastecimento de águas, saneamento e incêndios;
+
+j) As instalações indicadas nos n.os 2 e 4 do artigo 9.º, quando de serviço público.
+
+2 - A dispensa de licença de estabelecimento para as instalações enumeradas nas alíneas a), c), d), h) e i) do número anterior só é permitida quando as instalações não interfiram, nomeadamente, com estradas nacionais não desclassificadas, caminhos de ferro e rios navegáveis ou, interferindo, o distribuidor obtenha o parecer favorável das respectivas entidades competentes.
+
+3. A entidade que pretender estabelecer uma instalação abrangida pelo n.º 1 deverá, antes de iniciar os trabalhos, apresentar à direcção de fiscalização eléctrica respectiva um projecto, em triplicado, elaborado de acordo com a parte aplicável do artigo 15.º, observando também o disposto no artigo 16.º acompanhado de comunicação da data prevista para o início dos trabalhos.
+
+4. O projecto a que se refere o n.º 3 pode ser dispensado para as instalações abrangidas pela alínea a) do n.º 1 se se tratar de ampliações ou modificações que não excedam 1000 m de extensão, devendo, porém, até ao fim de Junho do ano seguinte àquele em que foram efectuados os trabalhos, ser apresentados, em triplicado, na direcção de fiscalização eléctrica respectiva, por subestação ou posto de corte, uma pequena memória descritiva e uma planta com os traçados da rede, indicando os tipos e secções dos traçados.
+
+5. Para as instalações indicadas nas alíneas a), d), h) e i) do n.º 1 que ocupem estradas nacionais proceder-se-á à execução dos trabalhos como prescreve o Decreto n.º 30350, de 2 de Abril de 1940.
+
+6. Para a abertura à exploração deverá o interessado, após a conclusão dos trabalhos, requerer a vistoria como prescreve o artigo 41.º, salvo se se tratar de instalações abrangidas pelo n.º 4.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 28.º
+
+1. Não necessitam de licença prévia para o estabelecimento nem para a exploração:
+
+a) A substituição de transformadores de potência em postos de transformação ou subestações, desde que a nova potência não seja superior à autorizada ou a instalação esteja prevista para a nova potência e conste do projecto aprovado, e pequenas modificações com deslocação ou substituição do equipamento, desde que não diminua a segurança da instalação;
+
+b) A ampliação e modificação das redes de distribuição de energia eléctrica em baixa tensão dentro de um círculo de raio igual a 1000 m e com o centro no posto de transformação;
+
+c) Substituição ou deslocamento de apoios de linhas aéreas de alta tensão por motivo de construção ou modificação de edifícios ou de vias de comuniacção, desde que não haja transferência dos apoios para os terrenos de outros proprietários ou, se tal acontecer, haja acordo do novo proprietário;
+
+d) As pequenas modificações de linhas de alta tensão, desde que tenham em vista aumentar a segurança das pessoas ou melhorar a exploração;
+
+e) Substituição de aparelhos de medida, incluindo os respectivos transformadores em subestações, postos de transformação e postos de corte.
+
+2. A dispensa de licença de estabelecimento e de exploração para as instalações enumeradas no número anterior só é consentida para as instalações que não interfiram com estradas nacionais, caminhos de ferro ou com rios.
+
+3. O distribuidor deverá, porém, comunicar, no prazo de sessenta dias, após a conclusão dos trabalhos, à direcção de fiscalização eléctrica respectiva a modificação efectuada no caso das alíneas a), c), d) e e) do n.º 1, enviando, em triplicado, os elementos que mostrem em que consistiram os trabalhos executados. No caso da alínea b) observar-se-á o disposto no número seguinte.
+
+4. Os distribuidores deverão manter nos seus arquivos, devidamente actualizadas, as plantas das suas redes de distribuição de energia eléctrica em baixa tensão. Quando instalarem um novo posto de transformação para servir a rede de distribuição, carecendo ou não de licença de estabelecimento, terão de incluir no projecto as canalizações principais da rede de distribuição que assegurem a sua inserção na rede existente.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 29.º
+
+1. Com o fim de ser dispensada em todos os projectos a que se refere o artigo 15.º a inclusão dos desenhos, descrições, cálculos, etc., que sejam comuns a diversas instalações, poderão os distribuidores e os fabricantes de equipamentos e materiais para instalações eléctricas requerer a aprovação de um projecto de instalações eléctricas tipo ou elementos tipo de instalações eléctricas.
+
+2. O projecto a que se refere o número anterior será elaborado de acordo com o artigo 15.º, na parte aplicável, e será apresentado em triplicado se as instalações do requerente se situarem apenas dentro da área de uma direcção de fiscalização. Se a zona abrangida pelas instalações disser respeito a mais de uma direcção de fiscalização, o número de exemplares do projecto será aumentado em conformidade.
+
+3. As instalações tipo e os elementos tipo das instalações deverão ter uma designação, constituída por letras e números, para se identificarem nos projectos.
+
+4. A aprovação do projecto das instalações tipo e dos elementos tipo das instalações compete ao director-geral dos Serviços Eléctricos.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 30.º
+
+1. Depois de comprovado o pagamento da respectiva taxa de compensação por meio de apresentação de duplicado da respectiva guia, a Repartição de Licenciamento enviará ao requerente um exemplar do projecto da instalação tipo ou dos elementos tipo das instalações devidamente visado.
+
+2. A partir da data em que lhe for dado conhecimento da aprovação do projecto das instalações tipo ou dos elementos tipo de instalações, poderá o requerente dispensar-se da apresentação daqueles elementos nos projectos que acompanhem os pedidos de licença de novas instalações.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 31.º
+
+1. Quando se tratar de instalações de certa importância ou cuja execução seja de justificada urgência, poderá o pedido de licença de estabelecimento a que se refere o artigo 15.º ser antecedido da apresentação de um requerimento solicitando autorização preliminar de estabelecimento, o qual será acompanhado de um anteprojecto da instalação, com base no qual pode ser autorizado o início dos trabalhos.
+
+2. A autorização a que se refere o número anterior será sempre dada com a condição implícita de serem respeitados os legítimos direitos de terceiros, as disposições regulamentares de segurança e outras que se julguem de considerar na concessão da licença de estabelecimento.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+### Capítulo III — Estabelecimento das instalações eléctricas de serviço particular
+
+###### Artigo 32.º
+
+1. O pedido de licença de estabelecimento de uma instalação eléctrica de serviço particular do tipo A que dela careça ou do tipo B que ultrapasse os limites da propriedade privada ou que tenham uma extensão superior a 500 m será feito em requerimento dirigido ao director-geral de Geologia e Energia ou ao director regional de economia, de acordo com a respectiva competência, e acompanhado do respectivo projecto, em triplicado, elaborado e instruído de maneira análoga à fixada para instalações de serviço público no artigo 15.º
+
+2. O projecto será acompanhado de um termo de responsabilidade pela sua elaboração prestado por um engenheiro electrotécnico ou engenheiro técnico de electrotecnia, de acordo com o disposto no artigo 17.º
+
+3. Além destes documentos, sempre que, para a execução das obras projectadas, seja necessária a ocupação de quaisquer domínios particulares, deverá o requerente apresentar as autorizações autênticas ou autenticadas para essa ocupação, dadas por escrito pelos proprietários ou seus legítimos representantes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 229/76 - Diário do Governo n.º 78/1976, Série I de 1976-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1976-500742), em vigor a partir de 1976-04-06
+
+###### Artigo 33.º
+
+Os emolumentos devidos, nos termos do artigo 7.º do decreto n.º 12:445, de 29 de Setembro de 1926, pela entrada de um requerimento pedindo licença prévia de estabelecimento de uma instalação eléctrica de serviço particular de 1.ª categoria, bem como os que são devidos pela entrada do respectivo requerimento de vistoria e pela realização desta, serão cobrados por uma só vez, juntamente com a taxa de licença de estabelecimento a que se refere o artigo 37.º
+
+###### Artigo 34.º
+
+Após a recepção do projecto a Repartição dos Serviços Eléctricos procederá em harmonia com o disposto para as instalações eléctricas de serviço público no artigo 18.º e seus parágrafos.
+
+###### Artigo 35.º
+
+Se se tratar da montagem de linhas ou ramais de alta tensão, logo que o projecto esteja devidamente instruído com todos os documentos necessários e em condições técnicas de merecer aprovação, será patenteado ao público nas mesmas condições fixadas para as instalações eléctricas de serviço público; observando-se o disposto no artigo 19.º e seu § 1.º e no artigo 20.º, devendo as despesas a que der origem a publicação e afixação dos éditos ser sempre satisfeitas pelo proprietário da instalação.
+
+###### Artigo 36.º
+
+Logo que estejam cumpridas estas formalidades, ou logo que o projecto esteja devidamente instruído se não houver publicação de éditos, será o processo, com a competente informação, sujeito à apreciação do presidente da Junta de Electrificação Nacional, que, se o licenciamento fôr da sua competência, resolverá, em face de todos os elementos que dêle constam, se a licença deve ou não ser concedida; se o licenciamento não fôr da sua competência submeterá a informação que lhe foi presente a despacho do Ministro das Obras Públicas e Comunicações.
+
+###### Artigo 37.º
+
+Concedida a licença de estabelecimento, a Repartição dos Serviços Eléctricos enviará ao requerente uma guia para o pagamento da respectiva taxa, que terá um dos valores fixados na tabela seguinte, conforme a instalação pertencer às alíneas a), b) ou c) da 1.ª categoria:
+
+Para as instalações compreendidas na alínea a) ... 150$00
+
+Para as instalações compreendidas na alínea b) ... 30$00
+
+Para as instalações compreendidas na alínea c) ... 50$00
+
+§ 1.º (Revogado.)
+
+§ 2.º (Revogado.)
+
+§ 3.º Juntamente com a guia referida no corpo dêste artigo será enviada ao requerente uma guia de emolumentos na importância fixa de 35$00, conforme o disposto no artigo 33.º; esta guia substitue para todos os efeitos os emolumentos que se cobravam nos termos do artigo 7.º do decreto n.º 12:445, de 29 de Setembro de 1926, pela entrada dos requerimentos de licença de estabelecimento e de vistoria.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 4/93 - Diário da República n.º 6/1993, Série I-A de 1993-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1993-283681), em vigor a partir de 1993-03-09
+
+###### Artigo 38.º
+
+Depois de pagos os emolumentos e a taxa de licença de estabelecimento e comprovado o seu pagamento por meio da apresentação dos talões das respectivas guias, a Repartição dos Serviços Eléctricos enviará ao requerente uma cópia do projecto aprovado, devidamente visada, a qual ficará em seu poder para ser apresentada em qualquer ocasião aos funcionários da fiscalização técnica do Govêrno e lhe servirá para comprovar que a licença foi concedida. De posse dessa cópia do projecto, o requerente poderá dar comêço aos trabalhos para a execução da instalação.
+
+§ único. (Revogado).
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 39.º
+
+1 - As instalações eléctricas de serviço particular dos tipos A ou B que ultrapassem os limites da propriedade do requerente ou que tenham uma extensão superior a 500 m devem ser integralmente concluídas no prazo máximo de um ano a contar da data da atribuição da licença de estabelecimento.
+
+2 - As instalações eléctricas de serviço particular do tipo B devem ser integralmente concluídas no prazo máximo de dois anos a contar da data da comunicação da aprovação do projecto.
+
+3 - Os prazos indicados nos números anteriores podem ser prorrogados por mais um ano, mediante requerimento do interessado, devidamente fundamentado, e decisão da entidade que concedeu a licença, designadamente nos casos de força maior ou quando a instalação tiver sido parcialmente executada e a parte executada já estiver em exploração.
+
+4 - O não cumprimento dos prazos implica a revogação da licença atribuída ou da aprovação dada ao projecto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+###### Artigo 40.º
+
+Aquele que pretender explorar uma instalação eléctrica de serviço particular de 2.ª categoria, ou que, sendo possuidor de uma instalação eléctrica de 4.ª categoria, pretender que ela fique sujeita à fiscalização técnica do Govêrno, deverá enviar à respectiva secção de fiscalização, acompanhando o requerimento de vistoria, um projecto em triplicado, compreendendo:
+
+a) Planta geral da propriedade ou do edifício em que a instalação fica situada, com o traçado das linhas principais, indicando a situação das obras mais importantes, tais como oficinas de produção e postos de transformação, bem como as vias públicas, caminhos de ferro, cursos de água, construções urbanas, linhas de tracção eléctrica, linhas de transporte ou de distribuição de energia eléctrica pertencentes a outra instalação já existente e linhas telegráficas ou telefónicas situadas na vizinhança da instalação projectada;
+
+b) Memória descritiva e justificativa, indicando a natureza, importância e função ou destino das instalações, as condições gerais do seu estabelecimento e da sua exploração, bem como as disposições principais para a produção de energia mecânica e de energia eléctrica, sua transformação, distribuição e utilização;
+
+c) Tipos e caracteres das caldeiras, máquinas motoras, aparelhos acessórios e anexos, geradores de energia eléctrica, transformadores e conversores, e plantas, alçados e cortes dos locais da sua instalação, conforme o que determinam os regulamentos especiais sôbre o assunto;
+
+d) Esquema eléctrico da instalação, com a indicação de todas as máquinas e aparelhos acessórios de medida, protecção e comando, usando os sinais gráficos aprovados pelo decreto n.º 21:049, de 2 de Abril de 1932.
+
+> Retificado pelo/a [Rectificação - Diário do Govêrno n.º 231/1936, Série I de 1936-10-01](https://diariodarepublica.pt/dr/detalhe/rectificacao/1936-321751), em vigor a partir de 1936-10-01
+
+### Capítulo IV — Abertura à exploração
+
+###### Artigo 41.º
+
+1 - Com excepção dos casos abrangidos pelo n.º 4 do artigo 27.º e pelo artigo 28.º, o proprietário de instalação eléctrica de serviço público ou de serviço particular dos tipos A e B deve solicitar a sua vistoria mediante requerimento dirigido à Direcção-Geral de Geologia e Energia ou à direcção regional da economia, de acordo com a respectiva competência.
+
+2. Quando a instalação eléctrica puder entrar parcialmente em exploração, poderão aceitar-se pedidos de vistoria parcelares, quando devidamente justificados.
+
+3. Os requerimentos de vistoria relativos a instalações eléctricas que não careçam de licença de estabelecimento ou de aprovação prévia do projecto pela Direcção-Geral dos Serviços Eléctricos deverão ser acompanhados de um projecto, em triplicado ou duplicado, consoante se trate de instalações de serviço público ou serviço particular.
+
+4. O projecto deverá obedecer, na parte aplicável, ao disposto nos artigos 15.º, 32.º e 40.º
+
+5. Se a instalação diferir do projecto aprovado e as alterações forem de molde a incluir-se na parte final da alínea a) do n.º 1 do artigo 28.º, deverá, no acto da vistoria, ser apresentado o projecto rectificativo.
+
+6. Se a instalação diferir do projecto aprovado e as alterações se relacionarem com a segurança da instalação ou colidirem com interesses de terceiros, deverá ser apresentado o projecto rectificativo, com antecedência necessária, para se proceder às formalidades previstas nos artigos 18.º e 19.º
+
+7. (Revogado).
+
+8.  (Revogado).
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 131/87 - Diário da República n.º 63/1987, Série I de 1987-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1987-662150), em vigor a partir de 1987-05-18
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 42.º
+
+1 - Os requerimentos de vistoria referentes a instalações eléctricas de serviço público ou de serviço particular dos tipos A e B devem ser acompanhados do termo de responsabilidade pela sua exploração.
+
+2. A responsabilidade pela exploração das instalações deve ser assumida por um engenheiro electrotécnico ou engenheiro técnico da especialidade de electrotecnia. Para instalações de tensão até 30 kV e potência até 250 kVA o termo de responsabilidade pode ser assinado por um montador electricista com o curso das escolas industriais ou equivalente.
+
+3. São aplicáveis à responsabilidade pela exploração as disposições dos n.os 2 a 6 do artigo 17.º
+
+4. A responsabilidade pela exploração das instalações pertencentes a uma entidade deverá, em regra, ser assumida por um único técnico. Contudo, quando se tratar de um conjunto de instalações importantes, poderão aceitar-se diferentes técnicos responsáveis.
+
+5. Se o pedido de vistoria não for acompanhado do termo de responsabilidade, no caso de este ter sido apresentado anteriormente, deverá o requerimento ser assinado também pelo técnico responsável.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 101/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2007-520208), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 43.º
+
+1. O director da fiscalização eléctrica respectiva mandará proceder à vistoria, na qual se verificará se o estabelecimento da instalação satisfaz a todas as prescrições de segurança regulamentares e regras da técnica, fazendo-se as medições e ensaios necessários para apreciar devidamente as condições do seu funcionamento e de segurança na exploração, devendo os funcionários que procederem à vistoria elaborar um relatório, do qual constarão os resultados das medidas e ensaios efectuados, bem como o seu parecer e propostas fundamentadas sobre o assunto, tendo especialmente em vista a segurança das pessoas ou coisas e a da exploração, não só da instalação vistoriada, mas também das outras instalações, eléctricas ou não, preexistentes.
+
+2. Tratando-se de instalações eléctricas de serviço público, se a vistoria não for efectuada nos trinta dias seguintes ao pedido de vistoria, poderá o requerente dar início à exploração, dando disso conhecimento à direcção de fiscalização eléctrica respectiva e enviando cópia à Repartição de Licenciamento.
+
+3. A direcção de fiscalização eléctrica pode recusar, em casos justificados, a faculdade prevista no número anterior, devendo, para isso, comunicar esse facto por escrito ao requerente, no prazo de quinze dias, a contar da data da entrada do requerimento de vistoria, enviando cópia à Repartição de Licenciamento. Neste caso, a vistoria deve ser efectuada no prazo de sessenta dias, a contar da data de entrada do requerimento de vistoria.
+
+4. Os prazos indicados nos n.os 2 e 3 serão elevados para o dobro se tiver havido lugar a apresentação do projecto rectificativo de acordo com o n.º 6 do artigo 41.º
+
+5. Se se tratar de instalações de serviço particular de 2.º categoria, poderá a direcção de fiscalização eléctrica delegar no distribuidor de energia em alta tensão a efectivação da vistoria para efeito de autorização provisória da exploração. Para tal, a direcção de fiscalização eléctrica enviar-lhe-á, a título devolutivo, um exemplar do projecto.
+
+6. Será dispensada a vistoria prévia à substituição de transformadores em subestações ou postos de transformação ou a outras modificações de instalações eléctricas cuja indispensável continuidade da exploração possa ser prejudicada pelo tempo necessário à realização desse serviço, efectivando-se, no entanto, a vistoria noutra oportunidade, a fim de se verificar se foram observadas as disposições regulamentares de segurança.
+
+7. Poderá ser autorizada a entrada em exploração de instalações sem necessidade de vistoria prévia, em casos de justificada necessidade, efectivando-se, no entanto, a vistoria posteriormente para se verificar o cumprimento das disposições regulamentares de segurança.
+
+8. As vistorias, quer sejam efectuadas por pessoal da direcção de fiscalização eléctrica, quer por pessoal dos distribuidores públicos, deverão ser efectuadas na companhia do técnico responsável da respectiva instalação eléctrica ou de um seu delegado devidamente qualificado.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+> Retificado pelo/a [Rectificação - Diário do Govêrno n.º 231/1936, Série I de 1936-10-01](https://diariodarepublica.pt/dr/detalhe/rectificacao/1936-321751), em vigor a partir de 1936-10-01
+
+###### Artigo 44.º
+
+1. Se no decorrer dos trabalhos de estabelecimento de uma instalação eléctrica ou depois da sua conclusão os Correios e Telecomunicações de Portugal verificarem qualquer falta de cumprimento das normas técnicas relativas a interferências com as linhas de telecomunicação, deverão comunicá-la à Direcção-Geral dos Serviços Eléctricos, a fim de serem tomadas as necessárias providências, com vista à eliminação de anomalias.
+
+2. A doutrina do número anterior é igualmente aplicável a outras instalações de serviço público a cargo do Estado.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 45.º
+
+1. Vistoriada a instalação, se ela for encontrada em boas condições de segurança e de acordo com o projecto aprovado ou apresentado, o técnico que tiver efectuado a vistoria passará imediatamente a licença de exploração.
+
+2. Se a instalação apresentar deficiências que não colidam com a segurança das pessoas, ou não estiver concluída de acordo com o projecto aprovado ou apresentado, o técnico que tiver efectuado a vistoria autorizará provisoriamente a exploração. Para evitar as deficiências, o técnico imporá, no acto da vistoria ou posteriormente, as cláusulas que julgar necessárias para garantir a protecção das pessoas e coisas, a segurança da exploração da instalação vistoriada e de outras com ela relacionadas e a salvaguarda do interesse colectivo, fixando um prazo suficiente para a execução dos trabalhos.
+
+3. Se a instalação apresentar deficiências que colidam notoriamente com a segurança das pessoas, o técnico não autorizará a exploração, dando disso conhecimento, por escrito, no acto da vistoria, impondo as cláusulas necessárias, de modo a contemplar os aspectos indicados no número anterior.
+
+4. As instalações eléctricas só poderão entrar em exploração se não apresentarem deficiências que afectem a segurança das pessoas e que possam ser eliminadas sem necessidade de interromper a exploração. Em caso de urgência justificada, e ressalvada a segurança das pessoas, poderá ser autorizada a exploração com deficiências que só possam ser eliminadas com interrupção do serviço.
+
+5. A requerimento do interessado, poderá ser concedida a prorrogação do prazo indicado no n.º 2 para cumprimento das cláusulas, quando devidamente justificado.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 46.º
+
+1. Se no acto da vistoria às instalações de serviço público que não tenham sido objecto de licença de estabelecimento o técnico encarregado da vistoria não entregar o projecto visado à entidade interessada, ser-lhe-á o mesmo enviado no prazo de trinta dias.
+
+2. Para as instalações já vistoriadas e em exploração à data da publicação deste decreto-lei, e cujo relatório de vistoria tenha sido enviado à Repartição de Licenciamento, a licença de exploração será concedida por esta Repartição e comunicada, por ofício, à entidade interessada.
+
+Para as restantes instalações já vistoriadas aplicar-se-á o regime do artigo anterior.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 47.º
+
+1. Para as instalações eléctricas de serviço particular de 2.º categoria cuja vistoria tenha sido delegada no respectivo distribuidor proceder-se-á de forma análoga ao indicado no artigo 45.º, dando conhecimento à respectiva direcção de fiscalização.
+
+2. O distribuidor só ligará à sua rede a instalação se ela satisfizer ao prescrito no n.º 4 do artigo 45.º e discriminará todas as deficiências verificadas, devolvendo o projecto que anteriormente lhe fora remetido pela direcção de fiscalização eléctrica, que oportunamente efectuará a vistoria.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+### Capítulo V — Condições a que deve satisfazer o estabelecimento das instalações eléctricas
+
+###### Artigo 48.º
+
+As disposições adoptadas no estabelecimento das instalações eléctricas e as regras para a sua execução devem satisfazer às prescrições dos regulamentos e às instruções técnicas aprovadas pelo Govêrno, bem como ao disposto neste capítulo.
+
+###### Artigo 49.º
+
+Todas as obras deverão ser construídas com materiais de boa qualidade e executadas segundo as regras da arte; a construção dos edifícios destinados à produção de energia eléctrica ou a outra aplicação, bem como a fiscalização dos mesmos, ficarão sujeitas aos preceitos estabelecidos na legislação vigente relativa às construções civis.
+
+###### Artigo 50.º
+
+As linhas eléctricas, quer aéreas, quer subterrâneas, deverão ser estabelecidas de maneira que não prejudiquem as linhas telegráficas ou telefónicas por indução, derivação ou outra causa, nem as canalizações de água, gás e quaisquer outras preexistentes. Quando, para fazer cessar qualquer perturbação causada às linhas telefónicas por uma linha construída segundo os preceitos regulamentares relativos a interferências fôr necessário introduzir modificações no seu traçado, a Direcção dos Serviços de Estudos, Construção e Conservação, da Administração Geral dos Correios e Telégrafos, dará dêsse facto conhecimento à Repartição dos Serviços Eléctricos. De comum acôrdo, estes dois organismos estudarão a melhor forma de fazer cessar a perturbação com o mínimo de prejuízos de carácter técnico e financeiro, e, depois de ouvido o concessionário ou proprietário da linha perturbadora, apresentarão uma proposta com as medidas e modificações necessárias, a qual será submetida pelo presidente da Junta de Electrificação Nacional à apreciação do Ministro das Obras Públicas e Comunicações.
+
+§ 1.º A resolução tomada pelo Ministro das Obras Públicas e Comunicações será imediatamente notificada ao proprietário ou concessionário da linha perturbadora, que deverá executar as obras que lhe forem impostas no prazo determinado nessa notificação. A mesma obrigação compete à Administração Geral dos Correios e Telégrafos, no que diz respeito às modificações das suas linhas.
+
+§ 2.º Na falta de cumprimento da notificação a que se refere o parágrafo anterior, poderão os trabalhos ser executados pela Administração Geral dos Correios e Telégrafos.
+
+§ 3.º As despesas a que derem origem as modificações a que se refere êste artigo serão integralmente suportadas pela Administração Geral dos Correios e Telégrafos se o estabelecimento da sua linha tiver sido posterior ao da linha perturbadora; no caso contrário a Administração Geral dos Correios e Telégrafos pagará um têrço dessas despesas, ficando os restantes dois terços a cargo do concessionário ou proprietário da linha de energia.
+
+###### Artigo 51.º
+
+Os postes, os apoios e os fios condutores serão sempre colocados por forma que os proprietários dos terrenos ou edifícios sôbre os quais ou nos quais sejam estabelecidos possam dispor livremente das suas propriedades para o fim a que elas são destinadas e sofram o mínimo de prejuízo ou embaraço em consequência da existência das linhas.
+
+###### Artigo 52.º
+
+Os proprietários dos terrenos ou edifícios a que se refere o artigo antecedente terão sempre o direito de fazer quaisquer obras de construção, reparação ou ampliação que julgarem convenientes, mesmo quando tais obras exijam o afastamento ou remoção dos elementos da linha, sem que devam por tal facto qualquer indemnização ao concessionário, devendo êste, para aquele efeito, ser prevenido com antecedência de três dias, pelo menos.
+
+§ único. Quando, pelo proprietário ou concessionário de uma instalação, não forem removidas as causas de impedimento das obras citadas no prazo de quinze dias, poderá a respectiva secção de fiscalização eléctrica removê-las, mandando executar os trabalhos necessários por conta daquele. Pode contudo ser concedido um prazo superior a quinze dias, tratando-se de estruturas importantes, competindo nesse caso ao chefe da secção de fiscalização a fixação do prazo de remoção, que não poderá em caso algum exceder três meses.
+
+###### Artigo 53.º
+
+O estabelecimento das linhas ao longo das vias férreas ou de outras vias de comunicação deverá ser feito de forma que não prejudique os serviços de exploração e a segurança dos combóios e não cause obstáculos à circulação e trânsito de veículos e pessoas. O estabelecimento das mesmas linhas não deve igualmente prejudicar a boa aparência dos monumentos e edifícios públicos e a dos particulares de apreciável valor arquitectónico.
+
+###### Artigo 54.º
+
+Os proprietários dos terrenos onde se acham estabelecidas linhas de uma instalação declarada de utilidade pública e os proprietários dos terrenos confinantes com quaisquer vias de comunicação, ao longo das quais estejam estabelecidas as referidas linhas, são obrigados a não consentir nem conservar nêles plantações que possam prejudicar aquelas linhas na sua exploração, cumprindo igual obrigação aos chefes de serviços públicos a que pertencerem plantações nas condições referidas, mas sòmente nos casos de reconhecida necessidade.
+
+§ 1.º As secções de fiscalização eléctrica, a requerimento do concessionário, intimarão os infractores a cumprir êste preceito dentro de um prazo que lhes será designado, podendo, no caso da desobediência, mandar proceder à destruição das plantações que impedirem o serviço das linhas, levantando auto de desobediência e fazendo instaurar o competente processo criminal, para aplicação das penas cominadas no artigo 188.º do Código Penal.
+
+§ 2.º Os proprietários dos terrenos nas condições designadas no corpo dêste artigo devem reclamar a presença do concessionário ou de um seu representante sempre que tenham de efectuar cortes de árvores ou quaisquer outros trabalhos dos quais possam resultar avarias ou prejuízos para as linhas; a presença do concessionário ou do seu representante e a observância das suas determinações sôbre o modo de execução dos trabalhos isentam os proprietários e seus mandatários das responsabilidades pelos prejuízos que eventualmente se possam verificar em tais condições.
+
+§ 3.º À excepção do caso previsto no parágrafo anterior, o concessionário terá sempre o direito de ser indemnizado de quaisquer prejuízos causados às suas linhas por pessoas estranhas ao seu serviço, devendo o valor da indemnização ser fixado, sempre que não haja acôrdo, nos termos dos §§ 1.º e 2.º do artigo 55.º, mesmo que a sua liquidação tenha de ser exigida judicialmente.
+
+###### Artigo 55.º
+
+Os proprietários dos terrenos ou edifícios aproveitados para o estabelecimento de linhas eléctricas serão indemnizados pelo concessionário ou proprietário dessas linhas sempre que da ocupação dos terrenos resulte redução do rendimento, deminuição da área das propriedades ou quaisquer prejuízos provenientes da construção das linhas.
+
+§ 1.º O valor das indemnizações será determinado de comum acôrdo entre as duas partes, ou, na falta de acôrdo, será fixado por arbitragem, desde que assim o requeira um dos interessados. Os árbitros serão designados um por cada uma das partes e um terceiro pela Repartição dos Serviços Eléctricos.
+
+§ 2.º As despesas a que der origem a deslocação do árbitro indicado pela Repartição dos Serviços Eléctricos só são da responsabilidade dos interessados até ao limite máximo de um quarto da indemnização fixada; dentro dêste limite devem por êles ser pagas em partes iguais.
+
+> Retificado pelo/a [Rectificação - Diário do Govêrno n.º 231/1936, Série I de 1936-10-01](https://diariodarepublica.pt/dr/detalhe/rectificacao/1936-321751), em vigor a partir de 1936-10-01
+
+###### Artigo 56.º
+
+Os proprietários ou locatários de terrenos ou edifícios que tenham de ser atravessados por linhas aéreas ou subterrâneas de uma instalação declarada de utilidade pública ficam obrigados, logo que para isso sejam avisados pelos respectivos concessionários, a permitir a entrada nas suas propriedades às pessoas encarregadas de estudos, construção, reparação ou vigilância dessas linhas e a suportar a ocupação das suas propriedades emquanto durarem os trabalhos que a exigirem, sem prejuízo do que dispõe o artigo 55.º quanto à indemnização que lhes é devida.
+
+§ 1.º No caso de não ser atendido êste aviso, ou de não poder fazer-se a intimação de que trata o artigo 54.º, será o proprietário, locatário ou possuidor a qualquer título intimado, na propriedade a ocupar, pelo administrador do concelho respectivo a consentir na ocupação dessa propriedade ou a proceder à destruição das plantações que impedirem o serviço das linhas, a requisição da Repartição dos Serviços Eléctricos ou das suas secções de fiscalização e quando a intimação tenha sido requerida pelo concessionário interessado.
+
+§ 2.º Se, no prazo de dez dias depois da requisição, não puder a intimação ser feita nas condições indicadas no parágrafo antecedente por impedimento da pessoa a intimar, será a intimação feita, na propriedade a ocupar, na pessoa de qualquer feitor, administrador ou doméstico, e, na falta dêstes, ou quando haja dificuldade em o fazer, afixada no local da respectiva freguesia onde fôr costume afixar os editais das autoridades administrativas durante um novo prazo de dez dias.
+
+§ 3.° Se, decorrido êste prazo, se verificar qualquer oposição ao cumprimento das obrigações impostas por êste regulamento, lavrar-se-á auto do ocorrido, sendo êste auto remetido ao Poder Judicial para instauração do respectivo processo criminal por desobediência qualificada, tomando-se posse administrativa do terreno necessário, no caso de estabelecimento de uma linha já autorizada, ou procedendo-se de harmonia com o disposto no § 1.º do artigo 54.º, devendo em qualquer dos casos as autoridades administrativas prestar aos funcionários da Repartição dos Serviços Eléctricos todo o auxílio que para êsse efeito lhes fôr requisitado.
+
+§ 4.º A posse administrativa a que se refere o parágrafo anterior não poderá ser suspensa nem prejudicada por qualquer decisão judicial, ficando porém ao reclamante o direito de pedir posteriormente, isto é, depois de executadas as obras necessárias, uma indemnização, nos termos do artigo 55.º e seus parágrafos.
+
+> Retificado pelo/a [Rectificação - Diário do Govêrno n.º 231/1936, Série I de 1936-10-01](https://diariodarepublica.pt/dr/detalhe/rectificacao/1936-321751), em vigor a partir de 1936-10-01
+
+###### Artigo 57.º
+
+Todo o concessionário de uma instalação eléctrica já autorizada legalmente será obrigado a deixar utilizar os apoios da sua instalação por outrem quando, pela Repartição dos Serviços Eléctricos, fôr requisitada e seja considerada necessária a ocupação, contanto que desta servidão não possa resultar prejuízo algum para a exploração da instalação existente nem aumento de encargos para o seu concessionário.
+
+§ 1.º O concessionário da instalação que carecer daquela servidão deverá dirigir o seu requerimento, devidamente justificado, ao presidente da Junta de Electrificação Nacional.
+
+§ 2:º O novo concessionário pagará ao primitivo, a título de indemnização, uma quantia anual proporcional às vantagens que para aquele resultarem da servidão imposta, devendo, em caso de desacôrdo sôbre o princípio ou sôbre as condições da mesma servidão, a citada quantia ser fixada pelo Ministro das Obras Públicas e Comunicações, sob proposta do presidente da Junta de Electrificação Nacional.
+
+###### Artigo 58.º
+
+Os concessionários ou proprietários de instalações eléctricas ficam permanentemente obrigados, mesmo durante o período de estabelecimento das suas instalações, a dar livre acesso aos agentes de fiscalização técnica do Govêrno e a fornecer os meios necessários para a realização das verificações e ensaios que pelos mesmos lhes forem requisitados.
+
+###### Artigo 58.º-A
+
+1 - As condutas previstas nos artigos seguintes constituem contraordenações.
+
+2 - A autoridade competente para a instauração, processamento, instrução e decisão dos processos de contra-ordenação é a Direcção-Geral de Geologia e Energia, sem prejuízo das competências em matéria de fiscalização e instrução processual, anteriormente cometidas às direcções regionais da economia, transferidas para a Inspecção-Geral das Actividades Económicas, nos termos do Decreto-Lei n.º 46/2004, de 3 de Março.
+
+3 - O produto das coimas reverte para o Estado e para o serviço referido no número anterior nas percentagens de 60% e 40%, respectivamente.
+
+> Aditado pelo/a Artigo 8.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+### Capítulo VI — Penalidades
+
+###### Artigo 59.º
+
+1 - Quando os trabalhos de estabelecimento de uma instalação eléctrica de serviço público que necessite de licença prévia de estabelecimento começarem antes de cumprido o disposto no artigo 24.º, o concessionário é punido com uma coima, graduada conforme a importância da instalação e o adiantamento dos trabalhos, não sendo nunca inferior a (euro) 250 nem superior a (euro) 2500.
+
+2 - Se a instalação ilegalmente estabelecida não estiver compreendida na área da concessão ou não respeitar as disposições do respectivo caderno de encargos, ou ainda no caso de não existir concessão aprovada nos termos legais, a coima não pode ser inferior a (euro) 750 nem superior a (euro) 7500.
+
+3 - Quando a instalação, além de estabelecida sem licença, for encontrada já em exploração, é elevada ao dobro a coima que lhe competir.
+
+4 - A autoridade competente intima o infractor a desmontar a instalação ou a proceder à sua legalização, fixando para esse fim um prazo suficiente.
+
+5 - Se a intimação referida no número anterior não for cumprida, o infractor é considerado reincidente, sendo aplicada nova coima, de valor igual ao dobro da primitiva, seguida de nova intimação.
+
+6 - A segunda reincidência é punida com coima de valor igual ao quíntuplo da primitiva, qualquer que tenha sido a importância desta, podendo a autoridade competente ordenar também que se proceda ao embargo das obras para evitar a sua continuação e, se a terceira intimação não for cumprida, ordenar que se apreendam os materiais da instalação eléctrica, os quais são vendidos em hasta pública, constituindo o produto líquido da venda receita do Estado.
+
+7 - No caso de a instalação não ser executada directamente pelo seu concessionário ou proprietário, a firma instaladora incorre nas mesmas coimas que forem aplicadas àquele.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+> Retificado pelo/a [Rectificação - Diário do Govêrno n.º 231/1936, Série I de 1936-10-01](https://diariodarepublica.pt/dr/detalhe/rectificacao/1936-321751), em vigor a partir de 1936-10-01
+
+###### Artigo 60.º
+
+A falta de cumprimento da intimação a que se refere o n.º 4 do artigo 26.º é punida com coima até (euro) 750, que, em caso de reincidência, pode ser elevada até (euro) 7500.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+###### Artigo 61.º
+
+1 - A falta de remessa do projecto a que se refere o n.º 3 do artigo 27.º ou a falta da comunicação a que se refere o n.º 3 do artigo 28.º dá lugar à aplicação de coima até (euro) 75, que, em caso de reincidência, pode ser elevada até (euro) 750.
+
+2 - A falta de apresentação dentro do prazo a que se refere o n.º 4 do artigo 27.º dá lugar à aplicação de coima até (euro) 150, que, em caso de reincidência, pode ser elevada até (euro) 1500.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 62.º
+
+1 - Se os trabalhos de estabelecimento de uma instalação eléctrica de serviço particular de primeira categoria começarem antes de cumprido o disposto no artigo 38.º, o seu proprietário é punido com coima, graduada conforme a importância da instalação e o adiantamento dos trabalhos, não sendo nunca inferior a (euro) 150 nem superior a (euro) 1500.
+
+2 - Se a instalação, além de estabelecida sem licença, for encontrada já em exploração, não pode a coima ser inferior a (euro) 300 nem superior a (euro) 3000.
+
+3 - É igualmente aplicável a este caso o disposto nos n.os 4 a 6 do artigo 59.º
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+###### Artigo 63.º
+
+Quando no estabelecimento de uma instalação eléctrica não forem cumpridas as cláusulas que tenham sido impostas pela autoridade competente nos termos do n.º 1 do artigo 18.º, o infractor é punido com coima de (euro) 300 por cada cláusula que não tiver sido cumprida, sendo estas cláusulas novamente impostas juntamente com aquelas cuja necessidade tenha sido demonstrada pela vistoria.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 64.º
+
+1 - O concessionário ou proprietário de uma instalação eléctrica que não executar a mesma instalação de acordo com o projecto aprovado, desde que as modificações introduzidas possam prejudicar a segurança da sua exploração ou alterem de modo sensível as suas características ou o fim a que se destina, incorre em coima, graduada conforme a importância da instalação e das modificações introduzidas, não sendo nunca inferior a (euro) 750 nem superior a (euro) 7500.
+
+2 - A aplicação da coima é seguida de intimação para executar a instalação de harmonia com o projecto aprovado ou para requerer nova licença para as modificações feitas, nos termos deste regulamento, dentro do prazo que para esse fim lhe for fixado.
+
+3 - A falta de cumprimento desta intimação dá lugar a que a instalação seja considerada como tendo sido estabelecida sem licença, aplicando-se o disposto no n.º 5 do artigo 59.º
+
+4 - A mesma penalidade poderá ser aplicada se, depois da instalação executada, se verificar que o projecto não continha todos os elementos de apreciação exigidos por êste regulamento e essa deficiência interessar de qualquer modo à segurança pública e à das linhas telegráficas, telefónicas ou outras preexistentes.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+###### Artigo 65.º
+
+1- A entidade exploradora de uma instalação eléctrica de serviço público ou de uma instalação eléctrica de serviço particular de 1.ª, 2.ª ou 3.ª categoria que tenha sido legalmente estabelecida, mas que se encontre em exploração antes de efectuada a vistoria, ou à qual tenha sido recusada a autorização provisória para a exploração a que se refere o n.º 3 do artigo 45.º, incorre numa coima, graduada conforme a importância da instalação, não sendo nunca inferior a (euro) 300 nem superior a (euro) 3000, se a instalação for de serviço público, e não sendo inferior a (euro) 150 nem superior a (euro) 1500, se a instalação for de serviço particular.
+
+2 - O infractor será intimado a suspender a exploração da sua instalação até que tenha obtido a respectiva autorização nos termos deste Regulamento.
+
+3 - A falta de cumprimento desta intimação dá lugar à aplicação de nova coima, que pode ser elevada até ao quíntuplo da primeira, qualquer que tenha sido a importância desta.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 66.º
+
+O proprietário de uma instalação eléctrica de serviço particular de 4.ª categoria que não apresentar na respectiva administração do concelho ou bairro a declaração a que se refere o artigo 12.º será punido com a multa de 50$00, que, em caso de reincidência, poderá ser elevada a 500$00.
+
+> Revogado pelo/a Artigo 37.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+###### Artigo 67.º
+
+O distribuidor público de energia eléctrica que ligar ou permitir a ligação à sua rede de uma instalação de 2.ª ou 3.ª categoria sem ter obtido previamente a necessária autorização da respectiva Direcção Regional do Ministério da Economia e da Inovação é punido com coima até (euro) 300.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 68.º
+
+1 - A falta de cumprimento de quaisquer cláusulas impostas à entidade exploradora de uma instalação eléctrica, nos termos do artigo 45.º, quer essa imposição tenha resultado da primeira vistoria dessa instalação, quer seja consequência de uma revistoria realizada em outra qualquer ocasião, dá lugar, se a instalação for de serviço público, à aplicação de uma coima de (euro) 25 por cada cláusula que não tiver sido cumprida ou que o tenha sido de modo incompleto ou ineficaz, não devendo, em todo o caso, a coima ser inferior a (euro) 75 nem superior a (euro) 750.
+
+2 - Aplicada a coima referida no número anterior, a autoridade competente fixa à entidade exploradora, para cumprimento das cláusulas em falta, um novo prazo que seja suficiente para a execução de todos os trabalhos impostos e, se este prazo também não for respeitado, o infractor é considerado reincidente, sendo-lhe aplicada uma nova coima de (euro) 75 por cada cláusula, com o mínimo de (euro) 150 e o máximo de (euro) 1500, seguida da fixação de um terceiro e último prazo.
+
+3 - A segunda reincidência é punida com coima de (euro) 300 por cada cláusula, com o mínimo de (euro) 750 e o máximo de (euro) 7500.
+
+4 - 15 dias depois da aplicação desta última coima, se a entidade exploradora não tiver executado integralmente todos os trabalhos impostos de modo satisfatório, a autoridade competente pode ordenar a sua execução coerciva, por conta do infractor, caso em que as importâncias despendidas, se não forem satisfeitas voluntariamente, são cobradas coercivamente.
+
+5 - Independentemente do disposto no número anterior, quer sejam ou não aplicadas as suas disposições, a não observância do terceiro prazo fixado para o cumprimento das cláusulas é considerado como crime de desobediência qualificada, nos termos do disposto no artigo 348.º do Código Penal.
+
+6 - Se a instalação for de serviço particular, têm igualmente aplicação as disposições do presente artigo, sendo os limites mínimo e máximo das coimas previstas nos números anteriores reduzidos para metade.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10
+
+###### Artigo 69.º
+
+1 - O concessionário de uma distribuição de energia eléctrica que não respeitar as cláusulas do caderno de encargos da sua concessão ou distribuir energia eléctrica para fins diferentes dos que nele forem estipulados é punido com coima até (euro) 150, que, em caso de reincidência, pode ser elevada até (euro) 1500, seguida de intimação para regularizar a exploração.
+
+2 - A coima referida no número anterior não tem aplicação se no caderno de encargos estiver prevista uma penalidade maior para a mesma infracção.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+###### Artigo 70.º
+
+Aquele que deixar de cumprir qualquer intimação legal que lhe seja feita pela autoridade competente é punido com coima até (euro) 150, que, em caso de reincidência, é elevada até (euro) 1500, seguida de nova intimação.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+###### Artigo 71.º
+
+A falta de cumprimento da terceira intimação, feita nos termos dos artigos 69.º e 70.º, é considerada crime de desobediência para efeitos de aplicação do disposto no artigo 348.º do Código Penal.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+###### Artigo 72.º
+
+Aquele que deixar de prestar qualquer esclarecimento necessário para o bom andamento dos processos de licença ou deixar de cumprir qualquer formalidade indispensável para o mesmo fim, depois de esse esclarecimento ou o cumprimento dessa formalidade lhe ter sido pedido pela autoridade competente em três ofícios sucessivos, expedidos com intervalos não inferiores a 15 dias, é punido com coima até (euro) 75, que, em caso de reincidência, pode ser elevada até (euro) 750.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+###### Artigo 73.º
+
+Aquele que deixar de cumprir qualquer disposição dêste regulamento, para a qual não esteja prevista uma sanção especial, será punido com multa de 20$00, que, em caso de reincidência, poderá ser elevada até 500$00.
+
+> Revogado pelo/a Artigo 37.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+###### Artigo 74.º
+
+Se o mesmo facto constituir simultaneamente crime e contra-ordenação, o agente é sempre punido apenas a título de crime.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+###### Artigo 75.º
+
+Os directores, gerentes ou empregados de alguma empresa ou companhia que, em nome desta, ordenem qualquer acto que seja considerado crime ou contra-ordenação são pessoalmente responsáveis por esse acto, podendo-lhes ser exigida igual responsabilidade por quaisquer consequências que possam resultar da falta de cumprimento das disposições do presente regulamento.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10
+
+### Capítulo VII — Disposições gerais e transitórias
+
+###### Artigo 76.º
+
+Êste regulamento entra imediatamente em vigor e aplica-se a todos os processos de instalações eléctricas que à data da sua publicação ainda não tenham licença de estabelecimento. O licenciamento das restantes instalações, cujos processos se encontrem em curso; concluir-se-á em conformidade com os regulamentos anteriores, procedendo-se anàlogamente com os processos pendentes que, nos termos dos mesmos regulamentos, não careçam de licença de estabelecimento.
+
+###### Artigo 77.º
+
+Emquanto não forem publicadas as disposições de segurança relativas às interferências entre as linhas de telecomunicação e as linhas de energia, as plantas parcelares a que se refere a alínea b) do artigo 15.º deverão indicar todas as linhas telegráficas e telefónicas existentes numa faixa de 15 metros de largura para cada um dos lados do traçado.
+
+###### Artigo 78.º
+
+As dúvidas que se suscitarem na aplicação deste Regulamento serão resolvidas por despacho do Ministro da Indústria e Tecnologia, mediante proposta do director-geral dos Serviços Eléctricos.
+
+Ministério das Obras Públicas e Comunicações, 30 de Julho de 1936. - O Ministro das Obras Públicas e Comunicações, Joaquim José de Andrade e Silva Abranches.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10

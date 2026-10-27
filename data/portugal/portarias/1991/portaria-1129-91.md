@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:321926:por
+title: Portaria n.º 1129/91
+short_title: null
+summary: Aprova regras sobre a atribuição de prémio comunitário ao arranque de macieiras, com exclusão das macieiras para
+  sidra, durante as campanhas de 1990-1991 a 1992-1993
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 1129/91
+official_date: null
+publication_date: '1991-10-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 251/1991, Série I-B de 1991-10-31
+  number: '251'
+  series: I
+  supplement: null
+  pages: 5613 - 5614
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/10/251b00/56135614.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1129/1991/10/31/p/dre/pt/html
+  oj: null
+  dre: '321926'
+  dre_path: /dr/detalhe/portaria/1129-1991-321926
+  internal: pt:dre:321926:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1129-1991-321926
+  metadata_url: https://data.dre.pt/eli/port/1129/1991/10/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1129-1991-321926
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:38:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ad5d60cf5b3091bcfa992f95da242d0263943b1d94cebfb97a1db5f33c0998c9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:38:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Árvore
+- CEE
+- Fruticultura
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Orientação Agrícola
+- Política Agrícola Comum
+- Prémio ao Arranque de Pomares
+- Regulamento CE
+relationships:
+- type: cites
+  target: celex:31990R1200
+  label: null
+  source: http://data.europa.eu/eli/reg/1990/1200/oj
+- type: cites
+  target: celex:31990R2604
+  label: null
+  source: http://data.europa.eu/eli/reg/1990/2604/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:38:47Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1129/91
+
+de 31 de Outubro
+
+Considerando que o Regulamento (CEE) n.º [1200/90](http://data.europa.eu/eli/reg/1990/1200/oj?locale=pt) do Conselho, de 7 de Maio, institui um prémio único ao arranque de macieiras, com exclusão das macieiras para sidra;
+
+Considerando que o Regulamento (CEE) n.º [2604/90](http://data.europa.eu/eli/reg/1990/2604/oj?locale=pt) da Comissão, de 7 de Setembro, estabelece as normas de execução do regulamento acima citado;
+
+Considerando que importa definir as atribuições e competências, inerentes à prossecução dos objectivos fixados nos citados regulamentos comunitários, dos organismos e serviços do Ministério da Agricultura, Pescas e Alimentação e estabelecer os termos gerais e as condições de atribuição do prémio, bem como a definição das respectivas normas;
+
+Ao abrigo dos citados regulamentos comunitários:
+
+Manda o Governo, pelos Ministros das Finanças e da Agricultura, Pescas e Alimentação, o seguinte:
+
+1.º Durante as campanhas de 1990-1991 a 1992-1993, os produtores de maçãs beneficiam, a seu pedido e nas condições definidas na presente portaria, de um prémio único ao arranque de macieiras, com exclusão das macieiras para sidra, aqui designado «prémio».
+
+2.º Entende-se por macieiras as árvores que são susceptíveis de dar origem a uma produção normal de maçãs que não maçãs para sidra.
+
+3.º O prémio é concedido ao arranque de pomares com superfície igual ou superior a 1 ha.
+
+4.º Entende-se por pomar, para efeitos do disposto na presente portaria, todas as parcelas da exploração plantadas com macieiras com menos de 20 anos e de densidade superior a 400 árvores por hectare.
+
+5.º A idade das árvores é determinada em função da data da sua plantação.
+
+6.º O montante do prémio fixado em 3500 ECU por hectare, o qual é convertível para escudos mediante a aplicação da taxa de conversão agrícola em vigor no 1.º dia da campanha de comercialização, ou seja, a 1 de Julho, no decurso da qual é solicitado o prémio.
+
+7.º A concessão do prémio fica subordinada ao compromisso escrito do beneficiário:
+
+a) De proceder ou mandar proceder ao arranque da totalidade do seu pomar, de uma só vez, antes de 1 de Abril de cada ano civil das campanhas em que vigora este prémio;
+
+b) De renunciar a efectuar qualquer plantação de macieiras.
+
+8.º Os agricultores interessados na atribuição do prémio deverão apresentar o seu pedido de concessão do mesmo até 1 de Dezembro de 1992 nos serviços regionais de agricultura da área da exploração, local onde serão postos à sua disposição os modelos de impressos referidos no n.º 10.º da presente portaria.
+
+9.º O pedido referido no número anterior será acompanhado:
+
+a) Pelo compromisso escrito do requerente a renunciar, durante 15 anos, por um lado, a proceder a qualquer plantação de macieiras no pomar da sua exploração, nos termos do n.º 4.º desta portaria, objecto da operação de arranque e, por outro lado, a aumentar as superfícies da sua exploração de macieiras que não tenham sido objecto do presente prémio;
+
+b) Pela declaração de autorização de arranque, subscrita pelo proprietário das correspondentes parcelas, sempre que o requerente não seja o respectivo proprietário;
+
+c) Pelo compromisso escrito de impor ao novo empresário agrícola, como condição de venda ou de qualquer outro modo de transmissão, o respeito do compromisso de não replantação, compromisso este que produzirá efeitos relativamente a qualquer empresário agrícola ulterior durante o período referido na alínea a).
+
+10.º Os modelos de impressos que constituem o processo de candidatura serão fornecidos pelo INGA - Instituto Nacional de Intervenção e Garantia Agrícola.
+
+11.º Os pedidos de concessão do prémio serão entregues na direcção regional de agricultura da área da exploração, após o que a mesma procederá, através de visitas ao local, à verificação das informações neles contidas e remetê-los-á, devidamente fundamentados, ao INGA no prazo máximo de 30 dias.
+
+12.º O INGA decide do seu deferimento e notifica o interessado até 30 dias após o prazo indicado no número anterior, dando conhecimento à direcção regional respectiva da sua decisão.
+
+13.º A operação de arranque deve ser realizada de uma só vez, na totalidade do pomar, nos três meses seguintes à notificação referida no número anterior, sem prejuízo da data limite constante da alínea a) do n.º 7.º, devendo as árvores arrancadas ser destruídas.
+
+14.º O interessado comunicará à direcção regional de agricultura onde o pedido foi apresentado a data prevista para o arranque.
+
+15.º A direcção regional de agricultura verificará, através de visitas a todas as parcelas em causa, se o arranque foi efectuado em conformidade com o disposto na regulamentação comunitária e na presente portaria e certificará a época em que o mesmo ocorreu, enviando ao INGA, no prazo de 10 dias, o relatório de verificação.
+
+16.º O pagamento do prémio é efectuado pelo INGA até dois meses após a verificação referida no número anterior.
+
+17.º A pedido do INGA e com uma periodicidade máxima de cinco anos, as direcções regionais de agricultura efectuam visitas às explorações que beneficiaram do prémio, de modo a confirmarem o respeito dos compromissos referidos no n.º 9.º da presente portaria, enviando ao INGA os respectivos relatórios no prazo de 60 dias.
+
+18.º Sempre que se verificar incumprimento dos compromissos referidos no n.º 9.º desta portaria, o INGA procederá à recuperação do prémio pago, acrescido dos correspondentes juros à taxa legal em vigor, e imporá ao infractor o pagamento de um montante igual ao do prémio pago.
+
+Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
+
+Assinada em 21 de Outubro de 1991.
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.

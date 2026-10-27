@@ -1,0 +1,240 @@
+---
+schema_version: '1.0'
+id: pt:dre:340429:por
+title: Portaria n.º 662-E/2007
+short_title: null
+summary: Estabelece a estrutura nuclear da Secretaria-Geral da Presidência do Conselho de Ministros e as competências das
+  respectivas unidades orgânicas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 662-E/2007
+official_date: null
+publication_date: '2007-05-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 105/2007, 1º Suplemento, Série I de 2007-05-31
+  number: '105'
+  series: I
+  supplement: null
+  pages: 3644-(4) a 3644-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10501/00040005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/662-e/2007/05/31/p/dre/pt/html
+  oj: null
+  dre: '340429'
+  dre_path: /dr/detalhe/portaria/662-e-2007-340429
+  internal: pt:dre:340429:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/662-e-2007-340429
+  metadata_url: https://data.dre.pt/eli/port/662-e/2007/05/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/662-e-2007-340429
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c5a7a19a4a29bd9d672184995555cec1c5aeb54fdc9026bec342b8f528a2418e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Orgânica
+- Presidência do Conselho de Ministros
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:521256:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/161/2007/05/03/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:25:09Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 662-E/2007
+
+de 31 de Maio
+
+O [Decreto-Lei n.º 161/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2007-521256), de 3 de Maio, definiu a missão, atribuições e tipo de organização interna da Secretaria-Geral da Presidência do Conselho de Ministros. Importa agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear dos serviços e as competências das respectivas unidades orgânicas.
+
+Assim:
+
+Ao abrigo do disposto no n.º 4 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, e do disposto na alínea a) do n.º 1 do despacho n.º 14405/2005 (2.ª série), de 21 de Junho, publicado no Diário da República, 2.ª série, n.º 124, de 30 de Junho de 2005:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Presidência, o seguinte:
+
+###### Artigo 1.º — Estrutura nuclear da Secretaria-Geral da Presidência do Conselho de Ministros
+
+A Secretaria-Geral da Presidência do Conselho de Ministros estrutura-se nas seguintes unidades orgânicas nucleares:
+
+a) Direcção de Serviços de Recursos Humanos;
+
+b) Direcção de Serviços Financeiros e Contabilidade;
+
+c) Direcção de Serviços de Património e Aquisições;
+
+d) Direcção de Assuntos Jurídicos e Documentação.
+
+###### Artigo 2.º — Direcção de Serviços de Recursos Humanos
+
+1 - Compete à Direcção de Serviços de Recursos Humanos, abreviadamente designada por DSRH:
+
+a) Assegurar a gestão dos recursos humanos da Secretaria-Geral;
+
+b) Promover acções de recrutamento, selecção e formação do pessoal;
+
+c) Dirigir a aplicação do Sistema Integrado de Avaliação de Desempenho na Administração Pública (SIADAP), bem como controlar a respectiva execução;
+
+d) Executar os procedimentos administrativos relativos à constituição, modificação e extinção de relações jurídicas de trabalho do pessoal da Secretaria-Geral e das entidades a que preste apoio técnico e administrativo;
+
+e) Informar e dar parecer sobre questões relativas à gestão de recursos humanos que lhe sejam submetidas;
+
+f) Prestar o apoio técnico, na área das suas competências, que lhe seja solicitado pelos gabinetes dos membros do Governo, comissões interministeriais, grupos de trabalho e restantes entidades e serviços integrados na Presidência do Conselho de Ministros;
+
+g) Assegurar o processamento das remunerações e outros abonos do pessoal da Secretaria-Geral e das entidades e serviços referidos na alínea anterior e proceder à liquidação dos respectivos descontos;
+
+h) Administrar os sistemas de segurança social e de acção social complementar;
+
+i) Organizar e manter actualizado o cadastro do pessoal, manter o seu registo biográfico, emitindo certidões quando autorizadas;
+
+j) Assegurar as operações de registo de assiduidade, pontualidade, plano de férias, listas de antiguidade e notação do pessoal;
+
+l) Assegurar a execução das normas de higiene, saúde e segurança no trabalho;
+
+m) Coordenar os telefonistas e auxiliares administrativos e a sua distribuição pelas entidades e serviços referidos na alínea f);
+
+n) Ocupar-se de outras tarefas relacionadas com a gestão de recursos humanos de que for incumbida.
+
+2 - A Direcção de Serviços de Recursos Humanos actua em articulação com os órgãos centrais da função pública e assegura as competências que nessa matéria couberem à Secretaria-Geral.
+
+###### Artigo 3.º — Direcção de Serviços Financeiros e Contabilidade
+
+Compete à Direcção de Serviços Financeiros e Contabilidade, abreviadamente designada por DSFC:
+
+a) Elaborar as propostas de orçamento dos gabinetes do Primeiro-Ministro e dos membros do Governo, da Secretaria-Geral e dos serviços a que preste apoio;
+
+b) Acompanhar a execução dos orçamentos referidos na alínea anterior e dos orçamentos das restantes entidades integradas na Presidência do Conselho de Ministros, propor as alterações necessárias e manter actualizada a informação relativa aos níveis de execução financeira e material;
+
+c) Assegurar a gestão orçamental da Secretaria-Geral e dos serviços por si apoiados e propor as alterações julgadas adequadas;
+
+d) Elaborar relatórios periódicos de gestão, acompanhando o desenvolvimento e execução dos projectos de investimento aprovados;
+
+e) Elaborar o relatório e a conta de gerência das entidades e serviços referidos na alínea a), tendo em conta o plano anual de actividades;
+
+f) Elaborar balancetes mensais e previsionais de execução orçamental de todos os orçamentos geridos pela Secretaria-Geral;
+
+g) Instruir os processos relativos a despesas resultantes dos orçamentos geridos pela Secretaria-Geral, dar parecer quanto à sua legalidade e cabimento e efectuar processamentos, liquidações e pagamentos, após a respectiva verificação dos documentos de despesa;
+
+h) Promover a constituição, reconstituição e liquidação de fundos de maneio relativos a todos os orçamentos geridos pela Secretaria-Geral.
+
+###### Artigo 4.º — Direcção de Serviços de Património e Aquisições
+
+Compete à Direcção de Serviços de Património e Aquisições, abreviadamente designada por DSPA:
+
+a) Assegurar a guarda, a conservação e a administração dos imóveis ocupados pela Presidência do Conselho de Ministros;
+
+b) Gerir de forma eficaz e eficiente a utilização, manutenção e conservação dos bens e equipamentos integrados nos imóveis referidos na alínea anterior, organizando e mantendo actualizado o respectivo inventário;
+
+c) Assegurar a conservação da residência oficial do Primeiro-Ministro e dos seus respectivos recheio e parque anexo;
+
+d) Gerir os sistemas de segurança das instalações, bens e equipamentos confiados à Secretaria-Geral;
+
+e) Assegurar a coordenação, compatibilidade e integração dos sistemas de informação e comunicação, bem como a gestão eficiente dos meios informáticos e das redes de comunicação;
+
+f) Elaborar e executar planos anuais e plurianuais de investimento em equipamento, em função das necessidades previstas e da evolução tecnológica;
+
+g) Prestar apoio técnico em matéria de sistemas de informação e comunicações aos serviços da Secretaria-Geral e demais entidades integradas na Presidência do Conselho de Ministros que não disponham de serviço que preste esse apoio;
+
+h) Assegurar as funções de unidade ministerial de compras;
+
+i) Organizar os processos de preparação e formalização contratual solicitados superiormente, designadamente os contratos de empreitada;
+
+j) Organizar os processos de aquisição de bens e serviços e concretizar as aquisições, após autorização;
+
+l) Coordenar a utilização e manutenção do parque de viaturas automóveis e proceder à afectação dos motoristas;
+
+m) Emitir as autorizações de parqueamento de veículos particulares no parque privativo da Presidência de Conselho de Ministros;
+
+n) Orientar o serviço de limpeza.
+
+###### Artigo 5.º — Direcção de Assuntos Jurídicos e Documentação
+
+Compete à Direcção de Assuntos Jurídicos e Documentação, abreviadamente designada por DAJD:
+
+a) Assessorar juridicamente o Conselho de Ministros, o Primeiro-Ministro, os membros do Governo e respectivos gabinetes, o secretário-geral e restantes entidades e serviços integrados na Presidência do Conselho de Ministros;
+
+b) Instruir e informar os processos administrativos que devam ser submetidos a despacho do Primeiro-Ministro, dos membros do Governo ou do secretário-geral, designadamente processos de atribuição de utilidade pública;
+
+c) Instruir processos disciplinares, sindicâncias, inquéritos ou averiguações de que seja incumbida;
+
+d) Colaborar com os restantes serviços na formalização dos contratos em que a Secretaria-Geral ou os serviços por ela apoiados tenham de intervir;
+
+e) Conceber e executar projectos de modernização e simplificação administrativas, designadamente no que respeita à circulação interna da informação;
+
+f) Assegurar a pesquisa, tratamento e difusão da informação e documentação solicitadas pelas entidades e serviços referidos na alínea a);
+
+g) Preparar e encaminhar a informação interna classificada;
+
+h) Prestar apoio em matéria informativa e de documentação a outras entidades públicas e privadas, mediante autorização superior;
+
+i) Superintender na organização, actualização e conservação da biblioteca e arquivo específico, assegurando o respectivo funcionamento;
+
+j) Organizar e gerir o arquivo e o Arquivo Histórico da Presidência do Conselho de Ministros, de acordo com o Regulamento de Conservação Arquivística;
+
+l) Executar a microfilmagem, digitalização, reprodução e inutilização de documentos;
+
+m) Organizar e executar as tarefas inerentes à recepção, classificação, registo e distribuição interna de correspondência;
+
+n) Assegurar o serviço de expedição de correspondência;
+
+o) Praticar os actos de expediente administrativo solicitados superiormente.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+Em 30 de Maio de 2007.
+
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira.

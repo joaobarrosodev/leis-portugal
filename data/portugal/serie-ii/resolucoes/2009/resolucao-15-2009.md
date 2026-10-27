@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:1840394:por
+title: Resolução n.º 15/2009
+short_title: null
+summary: Resolução fundamentada de interesse público, nos termos do disposto no artigo 128.º, n.º 1, do CPTA, na sequência
+  de citação de providência cautelar a correr termos no Tribunal Administrativo e Fiscal de Castelo Branco
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Unidade Local de Saúde da Guarda, E. P. E.
+proposing_entity: null
+official_number: 15/2009
+official_date: null
+publication_date: '2009-07-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 128/2009, Série II de 2009-07-06
+  number: '128'
+  series: II
+  supplement: null
+  pages: 26260 - 26261
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/07/128000000/2626026261.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1840394'
+  dre_path: /dr/detalhe/resolucao/15-2009-1840394
+  internal: pt:dre:1840394:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/15-2009-1840394
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/15-2009-1840394
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:14:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3670d4ca55db68db783cf27ed1dfe79d5abbd52001b45b0ad2455e1d10d73475
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:14:17Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 15/2009
+
+Unidade Local de Saúde da Guarda, citada como entidade requerida na Providência Cautelar n.º 320/09.9BECTB, que corre termos no Tribunal Administrativo e Fiscal de Castelo Branco, vem pela presente e nos termos e para os efeitos do disposto no artigo 128.º, n.º 1 do Código de Processo dos Tribunais Administrativos manifestar a intenção de continuar os actos subsequentes ao procedimento de adjudicação e execução da empreitada designada por "Ampliação do Hospital Sousa Martins", nos termos da fundamentação que a seguir se refere:
+
+O Sanatório Sousa Martins, na cidade da Guarda foi o primeiro edifício hospitalar criado de raiz para a assistência a doentes com tuberculose, 18.05.1907.
+
+Sucedeu-lhe o Hospital Sousa Martins que ocupa vários pavilhões aqui designados 1, 2, 3 e 4, do ex-sanatório, distando uns dos outros algumas centenas de metros, e ainda outro edifício de construção recente, 5 que entrou em funcionamento em finais de 1997.
+
+O Pavilhão 1, onde se localiza a maioria das unidades de internamento e a totalidade dos Serviços Administrativos foi construído há 50 anos só com enfermarias para pneumotisiologia que têm vindo a ser progressivamente adaptadas às necessidades de funcionamento de um hospital geral, de âmbito distrital, mantendo, contudo a traça inicial. No seu interior, ainda, é possível constatar a existência de várias enfermarias que têm uma lotação de 6 a 8 doentes cada uma, e corredores muito longos que dão acesso a diferentes valências, onde se cruzam diariamente sujos e limpos, funcionários, visitas e doentes internados, das consultas e para exames especiais.
+
+A falta de racionalidade arquitectónica desta estrutura é potenciadora de risco de sinistro (não existem saídas de emergência) e induz ineficiência ao nível dos recursos humanos e na utilização de meios tecnológicos. Não é possível criar gabinetes de apoio aos serviços, as instalações técnicas para a realização de exames especiais estão obsoletas, as instalações sanitárias são escassas, estando todas degradadas e sem possibilidades de recuperação, servindo indiferenciadamente doentes, funcionários e visitas.
+
+Trata-se, portanto, de uma estrutura física que impossibilita o respeito pelas regras básicas de prevenção da infecção hospitalar, apesar das pequenas obras de conservação e remodelação que foram feitas ao longo dos anos.
+
+A rede eléctrica apresenta um estado de sobrecarga permanente, que impede a modernização tecnológica por inviabilizar a aquisição de novos equipamentos, e a rede de águas quentes, frias e de esgotos, atendendo ao seu estado degradado estão sujeitas a frequentes rupturas. A propósito se refira que toda a água fornecida aos doentes é engarrafada e não da rede pública, daí resultando custos financeiros acrescidos para a Unidade Local de Saúde da Guarda.
+
+Os Pavilhões 2 e 3 que funcionavam como armazéns, encontram-se, actualmente desactivados, pois não oferecem qualquer garantia de segurança, apresentando perigo de derrocada eminente.
+
+O Pavilhão 4, Departamento de Psiquiatria e Saúde Mental é um edifício que necessita de uma intervenção urgente pois apresenta-se em estado avançado de deterioração, devido a infiltrações de águas pluviais e da rede interna, o que provoca desagregação dos pavimentos e rebocos.
+
+O Pavilhão 5, de construção mais recente, destinadoàsunidades de internamento de Ortopedia, Cirurgia, Bloco Operatório Central, Serviço de Esterilização Central, Consultas Externas, Imagiologia, Laboratório de Patologia Clínica, Serviço de Sangue, Serviço de Urgência Geral e Pediátrica e Unidade de Cuidados Intensivos Polivalente, logo após a sua entrada em funcionamento, denotou deficiências de construção, designadamente infiltrações de água através da cobertura e das paredes, tornando inoperacionais aqueles serviços.
+
+De facto, o estado geral das instalações do Hospital Sousa Martins é péssimo, apresentando graves problemas de degradação, desadequação estrutural e organizacional e deficiências de construção as quais exigem uma intervenção profunda e imediata.
+
+Refira-se que actualmente a área de influência da Unidade Local de Saúde da Guarda sofreu um aumento de 13 % da população residente com especial incidência na população com 65 ou mais anos de idade, o que explica que o índice de envelhecimento desta área de influência seja quase o dobro do nacional (209 % contra 114 %), sendo substancialmente superior ao da Região (142 %) e o maior de todo o país, segundo dados recolhidos pelo Instituto Nacional de Estatística.
+
+Assim a construção de um novo edifício, com instalações e equipamentos modernos e adequados funcionalmente ao desempenho dos profissionais e ao movimento assistencial vai aumentar a capacidade de resposta à satisfação das necessidades da população em cuidados urgentes/emergentes, cirúrgicos, de exames complementares de diagnóstico, consultas externas, bem como a melhoria da qualidade e conforto das populações incluídas na área de influência da Unidade Local de Saúde da Guarda no seguimento dos princípios orientadores do Plano Nacional de Saúde 2004 - 2010 que considera prioritária a reorganização da rede de cuidados hospitalares e diagnosticou deficiências que perduram no Hospital Sousa Martins, sobretudo no âmbito das instalações.
+
+A requalificação do parque hospitalar responde à estratégia nacional traçada no Plano Nacional de Saúde conseguindo os seguintes objectivos:
+
+Aumentar a diferenciação de cuidados hospitalares com a oferta de cuidados que satisfaça as necessidades reais da procura;
+
+Aumentar a qualidade da prestação de cuidados;
+
+Responder às necessidades de conforto e aumentar as amenidades proporcionadas aos utentes;
+
+Diminuir o risco e aumentar os índices de segurança técnica;
+
+Aumentar a capacidade de atracção de novos profissionais;
+
+Aumentar a formação pré e pós graduada em colaboração com a Universidade da Beira Interior e a Escola Superior de Saúde da Guarda;
+
+Incrementar a investigação em saúde;
+
+Tendência actual para a diminuição do número de camas, tendo em consideração o incremento da assistência ambulatória, especialmente a nível da cirurgia;
+
+Progresso dos meios complementares de diagnóstico e tratamento e a inerente diminuição dos tempos de espera;
+
+Política de desospitalização por transferência dos doentes para instituições de apoio (convalescença, cuidados paliativos, cuidados de média e longa duração);
+
+Rede de referenciação, e
+
+Plano Regional de Saúde da Região Centro.
+
+Estes objectivos, que uma vez alcançados, irão responder às políticas de saúde para a Região definidas pela ARS Centro, IP e desta forma satisfazer as necessidades de saúde da população.
+
+São estas razões de natureza pública que justificam a manutenção da adjudicação e consequente execução da empreitada pela empresa adjudicatária, ao invés de, face à urgência em satisfazer as necessidades já elencadas, protelar o presente procedimento pelas razões aduzidas pela requerente da supra identificada providência cautelar, circunstância que acarretaria graves prejuízos, sempre superiores àqueles que a Unidade Local de Saúde da Guarda pretende acautelar como seja a impossibilidade de satisfazer de forma adequada e imediata as necessidades/objectivos acima enunciados.
+
+A conclusão atempada e o quanto antes da obra de "Ampliação do Hospital Sousa Martins", por efeito da execução da empreitada representa um grande passo no cumprimento das políticas de desenvolvimento da região abrangida e respectiva população sob vários aspectos: redução das desigualdades no acesso aos cuidados de saúde relativamente às demais regiões continentais, nomeadamente ao Litoral no que respeita à oferta de especialidades e de instalações condignas. Consequentemente, a capacidade de resposta às necessidades da população é maior, não tendo esta que se deslocar a outros centros para receber os respectivos cuidados, gerando economias. Estas condições criarão maior satisfação na população utente e naturalmente ganhos em saúde. O Hospital Sousa Martins estará, assim, a contribuir para a manutenção de população saudável (menos potenciais anos de vida perdidos) e disponível para criar riqueza, factores que poderão ser colocados em causa com a paralisação, ainda que temporária, da execução da empreitada de "Ampliação do Hospital Sousa Martins" havendo, por isso, razões de interesse público que impõem a sua continuidade. A suspensão dos efeitos do acto, com a consequente paragem de todos os actos preparatórios, diligências, reuniões e de actos executórios da obra, é de tal forma grave para o cumprimento do interesse público, que adia a satisfação de necessidades prementes da população, colocando em causa o cumprimento de objectivos natureza comunitária, nacional e regional como supra se referiu.
+
+Os ganhos esperados com a execução do projecto"Ampliação do Hospital Sousa Martins", serão incomensuráveis e os constrangimentos referidos anteriormente serão resolvidos na medida em que a nova estrutura e organização do espaço físico permitirá a sua resolução com benefícios tangíveis e intangíveis para funcionários, utentes e população abrangida.
+
+Em abono da verdade diga-se ainda que o Governo, em 29 de Maio de 2009, através de SS. Ex.ª a Ministra da Saúde assumiu como sendo essencial e necessidade imperiosa dar início aos trabalhos de execução da empreitada em causa, face ao aumento da procura registada e ao estrangulamento das estruturas existentes, sublinhando que a entrada em funcionamento do novo hospital além da prestação de cuidados diferenciados de natureza curativa e de reabilitação, trará enormes benefícios, para os cidadãos utentes do Serviço Nacional de Saúde (S.N.S), residentes na área abrangente do hospital, cerca de 160 mil pessoas de doze concelhos do Distrito da Guarda e colocará à sua disposição cuidados de saúde até agora escassos, mais humanizados, melhor articulados com os cuidados de saúde primários e com a rede de cuidados de saúde continuados. Podendo assim os cidadãos usufruir de uma verdadeira rede de apoio, de grande qualidade, que é o Serviço Nacional de Saúde.
+
+A Ampliação do Hospital Sousa Martins, comparativamente ao actual, terá novas especialidades, de que são exemplo a Urologia, Imuno-hemoterapia, Anatomia Patológica e novas tecnologias em Imagiologia, mais Meios Complementares de Diagnostico e Terapêutica e ainda um acréscimo significativo dos cuidados de saúde prestados, que se traduzem, nomeadamente, num crescimento acentuado da actividade de ambulatório, com particular destaque para a cirurgia, através de uma nova unidade constituída por dois blocos.
+
+Acrescente-se ainda que a Unidade Local de Saúde da Guarda no âmbito do projecto de "Ampliação do Hospital Sousa Martins", apresentou candidatura de financiamento do mesmo ao Quadro de Referencia Estratégico Nacional (QREN), motivado pelo mau estado geral das instalações, pelo que a suspensão da eficácia do acto requerida traria graves prejuízos para o interesse público a nível económico, pois fica seriamente comprometido o financiamento em causa que ascende a um montante de 70 % do valor total da empreitada (45 120.256,63 quarenta e cinco milhões cento e vinte mil duzentos e cinquenta e seis euros e sessenta e três cêntimos).
+
+Importa ainda salientar que antes da Unidade Local de Saúde da Guarda, ter sido citada para a providência cautelar em causa, a 22 de Maio de 2009, celebrou com o consórcio Edifer Construções, S.A/Hagen Engenharia, S. A., o contrato de empreitada, designado por "Ampliação do Hospital Sousa Martins", o mesmo tem como prazo de execução 96 semanas, incluindo sábados, domingos e feriados, prazo esse que se conta desde a data da consignação da empreitada que ocorreu em 25/05/09, e as obras tiveram o seu início, nomeadamente os estaleiros estão em execução perto do local onde vão ser iniciados dentro de dias as primeiras escavações, encontrando-se já em curso a adjudicação da respectiva subempreitada.
+
+O atraso na execução das obras colide, com a satisfação e o cumprimento cabal do interesse público das populações servidas na área de influência da Unidade Local de Saúde da Guarda, que vêm assim mais uma vez ser protelada a satisfação de uma necessidade tão essencial e escassa nesta Região que não poderá ser de alguma forma colmatada, com a procedência da providência cautelar, mesmo que na base da pretensão do particular, exista uma razão legitima a defender que só por mera hipótese académica se admite, mas que não pode prevalecer sobre o interesse público aqui em causa.
+
+A suspensão da eficácia do acto significaria a manutenção de um estado de coisas incompatível com os anseios e direitos legítimos de toda uma população que se vê actualmente arredada da prestação de cuidados de saúde de excelência, designadamente a deterioração rápida da qualidade dos cuidados médicos prestados, agravamento do "atropelo" das normas de boas práticas médicas e hospitalares com repercussões directas e imediatas na população e relativamente a outras deste País.
+
+A conclusão atempada desta infra-estrutura vai potenciar o aumento da eficiência, da acessibilidade, da produtividade e da qualidade dos cuidados a prestar, induzidas pela construção de um novo hospital moderno e funcional, com os consequentes benefícios sociais.
+
+Resulta de todo o exposto a verificação de grave prejuízo para o interesse público na não execução do contrato e dos demais trâmites relativos ao desenvolvimento da empreitada de "Ampliação do Hospital Sousa Martins".
+
+Assim, nos termos e para o efeito do artigo 128.º do CPTA, reconhece-se a existência de grave urgência para o interesse público na continuidade da execução da empreitada e, em consequência, reconhece-se que a suspensão da mesma seria gravemente prejudicial para o interesse público subjacente, determinando-se assim que, não obstante a existência de providência cautelar, que a Unidade Local de Saúde da Guarda, E.P.E., prossiga a execução do contrato de empreitada de "Ampliação do Hospital Sousa Martins".
+
+17 de Junho de 2009. - O Presidente do Conselho de Administração, Fernando Monteiro Girão.
+
+301961597

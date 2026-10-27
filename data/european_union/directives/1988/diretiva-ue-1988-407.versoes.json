@@ -1,0 +1,399 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31988L0407:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0407-20210421",
+ "dre_path": null,
+ "source_lastmod": "2021-04-21",
+ "versions": [
+  {
+   "date": "1988-07-22",
+   "future": false,
+   "celex": "31988L0407",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "581459b37d29741c",
+    "437606caefe14e3c",
+    "ebef6f668a7e1e77",
+    "0b9b75030e576407",
+    "6505ac8c0617f1a2",
+    "4e7a19817364e9f5",
+    "743bf7eacf86dacd",
+    "045e08b670228d37",
+    "ba3c30088c6b7891",
+    "706350423743847c",
+    "55fd5fc6e191fe20",
+    "bf31e60db6e23f5e",
+    "a35e9df47e89a4e1",
+    "90f63160d05129ec",
+    "0db61abccec2b3ce",
+    "d3b55fb71bbb058b",
+    "f899364a15352608",
+    "945dcdd178759fd1",
+    "d06ed28b8ff75d9d",
+    "0999fe8d206c70ce",
+    "d27297ed69fe40dc",
+    "a6c3bc1846f06bff",
+    "337742e2f6552788",
+    "203bb03a891d714e",
+    "f5bdea0e3d5e8880",
+    "5cdb3da5e90ca13f",
+    "0fa6469442e4e3a4",
+    "3ae35287a5b933af",
+    "dd8eaa8d8f85bd24",
+    "6821389116cd663d",
+    "c3867d42dac9e47c",
+    "26e2f034c973e355",
+    "03aefbc71a0e9206",
+    "1f4321b8dedbb40d",
+    "1fe275e6734f681d",
+    "d423cfaa7fd744c1"
+   ]
+  },
+  {
+   "date": "2021-04-21",
+   "future": false,
+   "celex": "01988L0407-20210421",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — Disposições gerais",
+    "Suprime Artigo 1g.",
+    "Suprime Artigo 2g.",
+    "Suprime CAPÍTULO II — Trocas comerciais intracomunitárias",
+    "Suprime Artigo 3g.",
+    "Suprime Anexo B;",
+    "Suprime Artigo 4g.",
+    "Suprime Artigo 5g.",
+    "Suprime Artigo 6g.",
+    "Suprime Artigo 7g.",
+    "Suprime artigo 18g. — CAPÍTULO III",
+    "Suprime Artigo 8g.",
+    "Suprime Artigo 9g.",
+    "Suprime Artigo 10g.",
+    "Suprime Artigo 11g.",
+    "Suprime Artigo 12°.",
+    "Suprime artigo 9g., — - que o sémen provém do território de um país terceiro do qual são proibidas as importações nos termos do n° 2 do artigo 15g.,",
+    "Suprime Artigo 13g.",
+    "Suprime Artigo 14g. — Se forem decididas medidas de destruição em aplicação do",
+    "Suprime CAPÍTULO IV — Medidas de salvaguarda e de controlo",
+    "Suprime Artigo 15g.",
+    "Suprime Artigo 16g.",
+    "Suprime CAPÍTULO V — Disposições finais",
+    "Suprime Artigo 17g. — Os anexos da presente directiva serão alterados pelo",
+    "Suprime Artigo 18g.",
+    "Suprime Artigo 19g.",
+    "Suprime Artigo 20g.",
+    "Suprime Artigo 21g.",
+    "Suprime Artigo 22g. — Os Estados-membros são os destinatários da presente",
+    "Suprime ANEXO A CAPÍTULO I — CONDIÇÕES DE AUTORIZAÇÃO DOS CENTROS DE COLHEITA DE SÉMEN",
+    "Suprime CAPÍTULO II CONDIÇÕES RELATIVAS À FISCALIZAÇÃO DOS CENTROS DE COLHEITA DE SÉMEN",
+    "Suprime artigo 19g. — EWG:L111UMBP03.96",
+    "Suprime ANEXO B — CAPÍTULO I CONDIÇÕES APLICÁVEIS À ADMISSÃO DOS ANIMAIS NOS CENTROS AUTORIZADOS DE COLHEITA DE SÉMEN",
+    "Suprime ANEXO C — CONDIÇÕES A PREENCHER PELO SÉMEN COLHIDO NOS CENTROS AUTORIZADOS DE COLHEITA DE SÉMEN E DESTINADO ÀS TROCAS INTRACOMUNITÁRIAS",
+    "Suprime ANEXO D — CERTIFICADO SANITÁRIO"
+   ],
+   "fragments": [
+    "59bcffddccd840bc"
+   ]
+  }
+ ],
+ "fragments": {
+  "581459b37d29741c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 88/407/CEE do Conselho de 14 de Junho de 1988 que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen congelado de animais da espécie bovina** *Jornal Oficial nº L 194 de 22/07/1988 p. 0010 - 0023 Edição especial finlandesa: Capítulo 3 Fascículo 27 p. 0015 Edição especial sueca: Capítulo 3 Fascículo 27 p. 0015*\n\nDIRECTIVA DO CONSELHO\n\nde 14 de Junho de 1988\n\nque fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen congelado de animais da espécie bovina\n\n(88/407/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43g.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que constam da Directiva 64/432/CEE (4), com a última redacção que lhe foi dada pelo Regulamento (CEE) n° 3768/85 (5), disposições relativas a problemas de polícia sanitária em matéria de trocas comerciais intracomunitárias de animais das espécies bovina e suína; que a Directiva 72/462/CEE (6), com a última redacção que lhe foi dada pelo Regulamento (CEE) n° 3768/85 contém, por outro lado, disposições relativas aos problemas de polícia sanitária aquando da importação de animais das espécies bovina e suína provenientes de países terceiros;\n\nConsiderando que as disposições acima referidas permitiram, no que respeita às trocas comerciais intracomunitárias e às importações na Comunidade de animais das espécias bovina e suína provenientes de países terceiros, assegurar que o país de proveniência garanta o respeito de critérios de polícia sanitária, o que permite afastar quase totalmente os riscos de propagação das doenças dos animais; que existe, todavia, um certo risco de propagação dessas doenças no caso de troca de sémen;\n\nConsiderando que, no âmbito da política comunitária de harmonização das disposições nacionais em matéria de polícia sanitária que regem as trocas comerciais intracomunitárias de animais e dos respectivos produtos, é agora necessário criar um regime harmonizado para as trocas comerciais intracomunitárias e para as importações na Comunidade de sémen de animais domésticos;\n\nConsiderando que, para as trocas comerciais intracomunitárias de sémen, o Estado-membro em que o sémen é colhido\n\ndeve garantir que o sémen seja colhido e tratado em centros de colheita autorizados e controlados, que provenha de animais cujo estado sanitário é de natureza a afastar os riscos de propagação das doenças dos animais, que tenha sido colhido, armazenado e transportado de acordo com normas que permitam preservar o seu estado sanitário e que seja acompanhado de um certificado sanitário, durante o seu encaminhamento para o país de destino, que assegure o respeito por tais garantias;\n\nConsiderando que as diferentes políticas conduzidas em nome da Comunidade em matéria de vacinação contra certas doenças justificam a manutenção de derrogações, limitadas no tempo, que autorizem os Estados-membros a exigir, em relação a certas doenças, uma protecção suplementar contra essas doenças;\n\nConsiderando que, tendo em vista a importação na Comunidade de sémen proveniente de países terceiros, é oportuno estabelecer uma lista de países terceiros com base em normas sanitárias; que, sem prejuízo da existência dessa lista, os Estados-membros só devem autorizar a importação de sémen se este for proveniente de centros de colheita que respeitem certas normas e que sejam oficialmente controlados; que convém, por outro lado, fixar, em função das circunstâncias, normas específicas de polícia sanitária aplicáveis aos países que constam da lista; que convém, por outro lado, para verificar o respeito dessas normas e proceder a controlos in loco;\n\nConsiderando que convém prever um procedimento destinado a regular os conflitos que podem surgir entre Estados-membros relativamente aos fundamentos de autorização de um centro de colheita;\n\nConsiderando que os Estados-membros podem recusar um lote de sémen sempre que se tenha verificado que não corresponde ao disposto na presente directiva; que esse sémen deve poder ser reexpedido, se a tal não se oposerem razões de polícia sanitária e se o expedidor ou o seu mandatário o pedirem; que, por outro lado, convém\n\nconceder a estes últimos a possibilidade de tomarem conhecimento das razões que estiveram na base de uma proibição ou de uma restrição e de obter o parecer de um perito;\n\nConsiderando que, para prevenir a transmissão de certas doenças contagiosas, é oportuno proceder a um controlo de importação a partir da chegada ao território da Comunidade de um lote de sémen, salvo no caso de se tratar de um trânsito externo;\n\nConsiderando que, após esse controlo, no caso de um trânsito interno, devem ser definidas as medidas a tomar pelos Estados-membros;\n\nConsiderando que é oportuno permitir a um Estado-membro tomar medidas de urgência no caso de aparição de doenças contagiosas noutro Estado-membro ou num país terceiro; que convém que os perigos que tais doenças comportam e as medidas de defesa que tornam necessárias sejam apreciadas do mesmo modo no conjunto da Comunidade; que para tal fim é oportuno instituir um procedimento comunitário de urgência, no seio do Comité Veterinário Permanente, de acordo com o qual as medidas devem ser tomadas;\n\nConsiderando que convém confiar à Comissão a função de tomar certas medidas de execução da presente directiva; que para esse fim convém definir um procedimento que instaure uma cooperação estreita e eficaz entre a Comunidade e os Estados-membros no seio do Comité Veterinário Permanente;\n\nConsiderando, finalmente, que a presente directiva não afecta as trocas comerciais de sémen produzido antes da data em que os Estados-membros lhe devem dar cumprimento,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "437606caefe14e3c": {
+   "fragment_id": "CAPÍTULO I — Disposições gerais",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "ebef6f668a7e1e77": {
+   "fragment_id": "Artigo 1g.",
+   "type": "artigo",
+   "heading": "Artigo 1g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1g.\n\nA presente directiva estabelece as condições de polícia sanitária aplicáveis às trocas intracomunitárias e às importações provenientes de países terceiros de sémen ultracongelado de animais de espécie bovina."
+  },
+  "0b9b75030e576407": {
+   "fragment_id": "Artigo 2g.",
+   "type": "artigo",
+   "heading": "Artigo 2g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2g.\n\nPara efeitos da presente directiva, são aplicáveis, quando necessário, as definições que constam do artigo 2g. das Directivas 64/432/CEE e 72/462/CEE.\n\nPor outro lado, entende-se por:\n\na)\n\n«Sémen»: o ejaculado, preparado ou diluído, de um animal doméstico da espécie bovina;\n\nb)\n\n«Centro de colheita de sémen»: um estabelecimento oficialmente autorizado e controlado situado no território de um Estado-membro ou de um país terceiro em que se produz sémen destinado à inseminação artificial;\n\nc)\n\n«Veterinário oficial»: o veterinário designado pela autoridade central competente de um Estado-membro ou de um país terceiro;\n\nd)\n\n«Veterinário de centro»: o veterinário responsável pelo respeito quotidiano, no centro, das exigências previstas pela presente directiva;\n\ne)\n\n«Lote»: um lote de sémen abrangido por um único certificado;\n\nf)\n\n«País de colheita»: o Estado-membro ou o país terceiro em que o sémen é colhido e a partir do qual é expedido para um Estado-membro;\n\ng)\n\n«Laboratório autorizado»: um laboratório situado no território de um Estado-membro ou de um país terceiro e designado pela autoridade veterinária competente para proceder às análises previstas na presente directiva;\n\nh)\n\n«Colheita»: uma quantidade de sémen retirada de um dador em qualquer altura."
+  },
+  "6505ac8c0617f1a2": {
+   "fragment_id": "CAPÍTULO II — Trocas comerciais intracomunitárias",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Trocas comerciais intracomunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Trocas comerciais intracomunitárias"
+  },
+  "4e7a19817364e9f5": {
+   "fragment_id": "Artigo 3g.",
+   "type": "artigo",
+   "heading": "Artigo 3g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3g.\n\nCada Estado-membro zelará por que, a partir do respectivo território e para um outro Estado-membro, apenas seja expedido sémen que satisfaça as seguintes condições gerais:\n\na) Ter sido colhido e tratado, para inseminação artificial, num centro de colheita autorizado do ponto de vista sanitário para efeitos de trocas intracomunitárias, nos termos do n° 1 do artigo 5g.;\n\nb) Ter sido colhido em animais de espécie bovina cuja situação sanitária esteja em conformidade com o"
+  },
+  "743bf7eacf86dacd": {
+   "fragment_id": "Anexo B;",
+   "type": "divisao",
+   "heading": "Anexo B;",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo B;\n\nc) Ter sido colhido, tratado, armazenado e transportado nos termos dos Anexos A e C;\n\nd) Ser acompanhado, durante o transporte para o país de destino, de um certificado sanitário nos termos do n° 1 do artigo 6g."
+  },
+  "045e08b670228d37": {
+   "fragment_id": "Artigo 4g.",
+   "type": "artigo",
+   "heading": "Artigo 4g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4g.\n\n1. Sem prejuízo do n° 2, os Estados-membros autorizarão, até 31 de Dezembro de 1992, a admissão de sémen de touros que apresentem um resultado negativo na prova de seroneutralização ou na prova Elisa para a pesquisa de rinotraqueíte infecciosa bovina ou de vulvovaginite pustulosa infecciosa, ou que apresentem um resultado positivo após vacinação efectuada nos termos da presente directiva.\n\nAté 31 de Dezembro de 1992, os Estados-membros podem autorizar a admissão de sémen de touros que apresentem uma reacção positiva à prova de seroneutralização ou à prova Elisa para a pesquisa de rinotraqueíte infecciosa bovina ou de vulvovaginite pustulosa infecciosa, e que não tenham sido vacinados nos termos da presente directiva.\n\nNesse caso, todos os lotes devem ser submetidos a um exame por inoculação num animal vivo e/ou a uma prova de\n\nisolamento do vírus. Esta exigência não é aplicável ao sémen de animais que, antes de uma primeira vacinação no centro de inseminação, tenham reagido negativamente às provas referidas no primeiro parágrafo.\n\nEsses exames podem, por acordo bilateral, ser efectuados quer no país de colheita quer no país de destino.\n\nAntes de 1 de Janeiro de 1992, o Conselho procederá à reanálise deste número, com base num relatório da Comissão, eventualmente acompanhado de propostas.\n\n2. Os Estados-membros cujos centros apenas integrem animais que apresentam resultado negativo na prova de seroneutralização ou na prova Elisa são autorizados a recusar a introdução no seu território de sémen proveniente de centros que não possuam o mesmo estatuto.\n\nDe acordo com o procedimento referido no artigo 19g., pode decidir-se alargar a uma parte do território de um Estado-membro o benefício das disposições acima referidas se todos os centros dessa parte do território apenas integrarem animais que apresentam resultado negativo na prova de seroneutralização ou na prova Elisa.\n\n3. Sem prejuízo de outras disposições comunitárias, os Estados-membros que não pratiquem a vacinação contra a febre aftosa não podem opor-se à admissão de sémen de animais vacinados nos termos da presente directiva.\n\nNesse caso, um máximo de 10 % do sémen de cada colheita (com um mínimo de cinco lamelas) pode ser submetido a uma prova de isolamento do vírus para a pesquisa da febre aftosa num laboratório do Estado-membro de destino ou num laboratório por este designado. Se o resultado for positivo, a admissão do sémen pode ser recusada."
+  },
+  "ba3c30088c6b7891": {
+   "fragment_id": "Artigo 5g.",
+   "type": "artigo",
+   "heading": "Artigo 5g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5g.\n\n1. O Estado-membro em cujo território se situa o centro de colheita de sémen zelará por que a autorização prevista na alínea a) do artigo 3g. apenas seja concedida se forem respeitadas as disposições do Anexo A e se o centro de colheita de sémen estiver em condições de respeitar as outras disposições da presente directiva.\n\nO Estado-membro zelará igualmente por que o veterinário oficial controle a observância dessas disposições e retirará a autorização quando uma ou várias destas disposições deixarem de ser respeitadas.\n\n2. Todos os centros de colheita de sémen autorizados serão registados, sendo-lhes atribuído um número de registo veterinário. Os Estados-membros comunicarão a lista dos centros de colheita de sémen e os respectivos números de registo veterinário aos outros Estados-membros e à Comissão, a que notificarão qualquer eventual retirada de\n\nautorização.\n\nQuando um Estado-membro considerar que as disposições que regem a autorização não são ou deixaram de ser\n\nrespeitadas num centro de colheita de sémen situado num outro Estado-membro, informará desse facto a autoridade competente do Estado em causa. Esta tomará todas as medidas que se imponham e notificará a autoridade competente do outro Estado-membro das decisões adoptadas, bem como dos fundamentos dessas decisões.\n\nSe este outro Estado-membro recear que não tenham sido tomadas as medidas necessárias ou que as medidas tomadas sejam inadequadas, informará desse facto a Comissão, que solicitará o parecer de um ou vários peritos veterinários. À luz desse parecer, os Estados-membros podem ser autorizados, nos termos do procedimento referido no artigo 19g., a proibir provisoriamente a admissão de sémen proveniente do centro em causa.\n\nEsta autorização pode ser retirada nos termos do procedimento referido no artigo 19g., à luz de um novo parecer emitido por um ou vários peritos veterinários.\n\nOs peritos veterinários devem ter a nacionalidade de um dos Estados-membros que não os Estados implicados no litígio.\n\nAs regras gerais de execução do presente artigo serão adaptadas nos termos do procedimento previsto no artigo 18g."
+  },
+  "706350423743847c": {
+   "fragment_id": "Artigo 6g.",
+   "type": "artigo",
+   "heading": "Artigo 6g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6g.\n\n1. Os Estados-membros subordinarão a introdução de sémen à apresentação de um certificado sanitário passado por um veterinário oficial do Estado-membro de colheita nos termos do Anexo D.\n\nEste certificado deve obrigatoriamente:\n\na) Ser redigido pelo menos numa das línguas oficiais do Estado-membro de colheita e numa das do Estado-membro de destino;\n\nb) Acompanhar o lote até ao destino no seu exemplar original;\n\nc) Ser emitido numa única folha;\n\nd) Ser previsto para um só destinatário.\n\n2. a) O Estado-membro de destino pode proibir a admissão de lotes de sémen se o controlo dos documentos revelar que não foram respeitadas as disposições do artigo 3g.;\n\nb) O Estado-membro de destino pode tomar as medidas necessárias, incluindo a colocação em quarentena, tendo em vista chegar a conclusões seguras no caso de se suspeitar que o sémen está infectado ou contaminado por germes patogénicos;\n\nc) As decisões tomadas nos termos das alíneas a) ou b) devem autorizar a reexpedição do sémen a pedido do\n\nexpedidor ou do seu mandatário, desde que a tal não se oponham razões de política sanitária.\n\n3. Quando a admissão de sémen tiver sido proibida por um dos motivos referidos nas alíneas a) e b) do n° 2 e o Estado-membro de colheita não autorizar a reexpedição no prazo de trinta dias, a autoridade veterinária competente do Estado-membro de destino pode ordenar a destruição do sémen.\n\n4. As decisões tomadas pela autoridade veterinária competente nos termos dos n°s 2 e 3 devem ser comunicadas,\n\ncom indicação dos fundamentos, ao expedidor ou seu\n\nmandatário."
+  },
+  "55fd5fc6e191fe20": {
+   "fragment_id": "Artigo 7g.",
+   "type": "artigo",
+   "heading": "Artigo 7g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7g.\n\n1. A presente directiva não afecta as vias previstas pela legislação em vigor nos Estados-membros para recorrer das decisões tomadas pela autoridade competente nos termos da presente directiva.\n\nMediante a apresentação de pedido nesse sentido, essas decisões fundamentadas devem ser comunicadas imediatamente ao expedidor ou ao seu mandatário por escrito, referindo as vias de recurso previstas na legislação em vigor, bem como as formas e os prazos em que podem ser utilizados. Essas decisões devem ser igualmente comunicadas à autoridade veterinária competente do Estado-membro de colheita ou de proveniência.\n\n2. Todos os Estados-membros concederão aos expedidores cujas remessas de sémen tenham sido objecto das medidas previstas no n° 2 do artigo 6g. o direito de obterem, antes de a autoridade competente tomar outras medidas, o parecer de um perito veterinário a fim de determinar se foi respeitado o n° 2 do artigo 6g.\n\nO perito veterinário deve ter a nacionalidade de um Estado-membro que não o Estado-membro de colheita nem o Estado-membro de destino.\n\nCom base em propostas dos Estados-membros, a Comissão organizará a lista dos peritos veterinários que podem ser encarregados da elaboração de tais pareceres. As regras gerais de execução do presente artigo e, nomeadamente,\n\no processo a seguir na elaboração desses pareceres,\n\nserão estabelecidas nos termos do procedimento previsto no"
+  },
+  "bf31e60db6e23f5e": {
+   "fragment_id": "artigo 18g. — CAPÍTULO III",
+   "type": "artigo",
+   "heading": "artigo 18g. — CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### artigo 18g. — CAPÍTULO III\n\nImportações provenientes de países terceiros"
+  },
+  "a35e9df47e89a4e1": {
+   "fragment_id": "Artigo 8g.",
+   "type": "artigo",
+   "heading": "Artigo 8g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8g.\n\n1. Os Estados-membros só podem autorizar a importação de sémen de animais da espécie bovina provenientes dos países terceiros enumerados numa lista a elaborar nos termos\n\ndo procedimento previsto no artigo 19g. Essa lista pode ser completada ou alterada nos termos do procedimento previsto no artigo 18g.\n\n2. Para decidir se um país terceiro pode constar da lista a que se refere o n° 1, ter-se-á, nomeadamente, em conta:\n\na)\n\nPor um lado, o estado sanitário do gado, dos outros animais domésticos e dos efectivos de animais selvagens no país terceiro, tendo em consideração, em especial, as doenças exóticas dos animais, e, por outro, a situação sanitária do ambiente desse país, susceptíveis de pôr em causa a saúde dos efectivos de animais dos Estados-membros;\n\nb)\n\nA regularidade e a rapidez das informações fornecidas por esse país acerca da presença no seu território de doenças contagiosas dos animais, nomeadamente as mencionadas nas listas A e B do Instituto Internacional de Epizootias;\n\nc)\n\nA regulamentação desse país relativa à prevenção e luta contra as doenças dos animais;\n\nd)\n\nA estrutura dos serviços veterinários desse país e os poderes de que esses serviços dispõem;\n\ne)\n\nA organização e a execução da prevenção e da luta contra as doenças contagiosas dos animais;\n\nf)\n\nAs garantias que o país terceiro pode dar no que se refere ao cumprimento do disposto na presente directiva.\n\n3. A lista a que se refere o n° 1 e todas as alterações nela introduzidas serão publicadas no Jornal Oficial das Comunidades Europeias."
+  },
+  "90f63160d05129ec": {
+   "fragment_id": "Artigo 9g.",
+   "type": "artigo",
+   "heading": "Artigo 9g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9g.\n\n1. Nos termos do procedimento estabelecido no artigo 19g., será elaborada uma lista dos centros de colheita de sémen de cuja proveniência os Estados-membros podem autorizar a importação de sémen originário de países terceiros. Essa lista pode ser alterada ou completada nos termos do mesmo procedimento.\n\n2. Para decidir se um centro de colheita de sémen situado num país terceiro pode figurar na lista referida no n° 1, é, nomeadamente, tido em conta o controlo veterinário exercido no país terceiro, no que respeita às modalidades de produção de sémen, os poderes de que os serviços veterinários dispõem e a vigilância a que são submetidos os centros de colheita de sémen.\n\n3. Um centro de colheita de sémen só pode ser inscrito na lista prevista no n° 1, no caso de:\n\na) Estar situado num país que conste da lista a que se refere o n° 1 do artigo 8g.;\n\nb) Satisfazer as exigências dos capítulos I e II do Anexo A;\n\nc) Ter sido oficialmente autorizado a exportar para a Comunidade pelos serviços veterinários do país terceiro em causa;\n\nd) Estar sob vigilância de um veterinário do centro do país terceiro em causa;\n\ne) Ser regularmente inspeccionado, pelo menos duas vezes por ano, por um veterinário do país terceiro em\n\ncausa."
+  },
+  "0db61abccec2b3ce": {
+   "fragment_id": "Artigo 10g.",
+   "type": "artigo",
+   "heading": "Artigo 10g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10g.\n\n1. O sémen deve provir de animais que, imediatamente antes da colheita, tenham estado pelo menos seis meses no território de um país terceiro que conste da lista estabelecida nos termos do n° 1 do artigo 8g.\n\n2. Sem prejuízo do n° 1 do artigo 8g. e do n° 1 do presente artigo, os Estados-membros só autorizarão a importação de sémen proveniente de um país terceiro que conste da lista se esse sémen corresponder às prescrições de polícia sanitária adoptadas, nos termos do procedimento previsto no artigo 18g., para as importações de sémen proveniente desse país.\n\nPara a adopção das prescrições referidas no primeiro parágrafo serão tidos em conta os seguintes elementos:\n\na) A situação sanitária das zonas contíguas ao centro de colheita de sémen, com referência especial às doenças constantes da lista A do Instituto Internacional das Epizootias;\n\nb) O estado sanitário do efectivo de animais presente no centro de colheita de sémen, incluindo as prescrições em matéria de análises;\n\nc) O estado sanitário do animal dador e as prescrições em matéria de análises;\n\nd) As prescrições relativas às análises a que deve ser submetido o sémen.\n\n3. N° que se refere à fixação das condições de polícia sanitária, em conformidade com o n° 2, para a tuberculose assim como para a brucelose dos bovinos, são aplicáveis como base de referência as normas fixadas para as disposições do Anexo A da Directiva 64/432/CEE. Pode ser decidido, de acordo com o procedimento previsto no artigo 18g. e caso a caso, derrogar essas disposições se o país terceiro interessado fornecer garantias sanitárias similares; neste caso, são fixadas, em conformidade com o procedimento mencionado, condições sanitárias pelo menos equivalentes às do Anexo A, a fim de permitir a entrada dos animais considerados nos centros de colheita.\n\n4. O artigo 4g. é aplicável por analogia."
+  },
+  "d3b55fb71bbb058b": {
+   "fragment_id": "Artigo 11g.",
+   "type": "artigo",
+   "heading": "Artigo 11g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11g.\n\n1. Os Estados-membros apenas autorizarão a importação de sémen contra apresentação de um certificado sanitário passado e assinado por um veterinário oficial do país terceiro de colheita.\n\nO certificado deve:\n\na) Ser redigido, pelo menos, numa das línguas oficiais do Estado-membro de destino e numa das línguas oficiais do Estado-membro onde se efectua o controlo à importação previsto no artigo 12g.;\n\nb) Acompanhar o sémen no seu exemplar original;\n\nc) Comportar uma única folha;\n\nd) Ser previsto para um único destinatário.\n\n2. O certificado sanitário deve estar em conformidade com um modelo estabelecido nos termos do procedimento previsto no artigo 19°."
+  },
+  "f899364a15352608": {
+   "fragment_id": "Artigo 12°.",
+   "type": "artigo",
+   "heading": "Artigo 12°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12°.\n\n1. Os Estados-membros zelarão por que cada lote de sémen chegado ao território aduaneiro da Comunidade seja submetido a um controlo antes de ser posto em livre prática ou colocado sob um regime aduaneiro e proibirão a introdução desse sémen na Comunidade se o controlo à importação, efectuada à sua chegada, revelar:\n\n- que o sémen não provém do território de um país terceiro que conste da lista estabelecida nos termos do n° 1 do artigo 8g.,\n\n- que o sémen não provém de um centro de colheita\n\nde sémen que conste da lista prevista no n° 1 do"
+  },
+  "945dcdd178759fd1": {
+   "fragment_id": "artigo 9g., — - que o sémen provém do território de um país terceiro do qual são proibidas as importações nos termos do n° 2 do artigo 15g.,",
+   "type": "artigo",
+   "heading": "artigo 9g., — - que o sémen provém do território de um país terceiro do qual são proibidas as importações nos termos do n° 2 do artigo 15g.,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### artigo 9g., — - que o sémen provém do território de um país terceiro do qual são proibidas as importações nos termos do n° 2 do artigo 15g.,\n\n- que o certificado sanitário que acompanha o sémen não corresponde às condições previstas no artigo 11g. e fixadas em aplicação deste último.\n\nO presente número não se aplica aos lotes de sémen chegados ao território aduaneiro da Comunidade e colocados sob um regime de trânsito aduaneiro para serem encaminhados para um local de destino situado fora desse território.\n\nContudo, o presente número aplica-se em caso de renúncia ao trânsito aduaneiro em curso de transporte através do território da Comunidade.\n\n2. O Estado-membro de destino pode tomar as medidas necessárias, incluindo a colocação em quarentena, tendo em vista chegar a conclusões acerca do sémen que se suspeita estar contaminado por germes patogénicos.\n\n3. Se a introdução do sémen foi proibida por uma das razões invocadas nos n°s 1 e 2 e se o país terceiro exportador não autorizar a sua reexpedição no prazo de trinta dias, a autoridade veterinária competente do Estado-membro destinatário pode ordenar a destruição do sémen."
+  },
+  "d06ed28b8ff75d9d": {
+   "fragment_id": "Artigo 13g.",
+   "type": "artigo",
+   "heading": "Artigo 13g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13g.\n\nCada lote de sémen cuja introdução na Comunidade tenha sido autorizada por um Estado-membro, com base no controlo a que se refere o n° 1 do artigo 12g., deve, durante o seu transporte para o território de outro Estado-membro, ser acompanhado do original do certificado ou de uma cópia autenticada desse original, os quais devem estar devidamente visados pela autoridade veterinária competente responsável pela análise efectuada nos termos do artigo 12g."
+  },
+  "0999fe8d206c70ce": {
+   "fragment_id": "Artigo 14g. — Se forem decididas medidas de destruição em aplicação do",
+   "type": "artigo",
+   "heading": "Artigo 14g. — Se forem decididas medidas de destruição em aplicação do",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14g. — Se forem decididas medidas de destruição em aplicação do\n\nn° 3 do artigo 12g., as despesas respectivas serão a cargo do expedidor, do destinatário ou do seu mandatário, não sendo concedida qualquer indemnização."
+  },
+  "d27297ed69fe40dc": {
+   "fragment_id": "CAPÍTULO IV — Medidas de salvaguarda e de controlo",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Medidas de salvaguarda e de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Medidas de salvaguarda e de controlo"
+  },
+  "a6c3bc1846f06bff": {
+   "fragment_id": "Artigo 15g.",
+   "type": "artigo",
+   "heading": "Artigo 15g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15g.\n\n1. Um Estado-membro pode, em caso de perigo de propagação de uma doença dos animais devido à introdução no seu território de sémen proveniente de um outro Estado-membro, tomar as medidas seguintes:\n\na) Em caso de aparecimento de uma doença epizoótica no outro Estado-membro, proibir ou restringir temporariamente a introdução do sémen proveniente das regiões do território desse Estado-membro onde surgiu a doença;\n\nb) N° caso de uma doença epizoótica assumir um carácter extensivo ou em caso de aparecimento de uma nova doença dos animais, grave e contagiosa, proibir ou restringir temporariamente a introdução do sémen a partir da totalidade do território do outro Estado-membro.\n\nCada Estado-membro informará de imediato os outros Estados-membros e a Comissão do aparecimento, no seu território, de qualquer das doenças a que se refere o primeiro parágrafo e das medidas que tomou para lutar contra essa doença. Avisá-los-á também de imediato do desaparecimento\n\nda doença.\n\n2. Sem prejuízo dos artigos 8g., 9g. e 10g., se uma doença contagiosa dos animais, susceptível de se propagar pelo sémen e que possa comprometer a situação sanitária do gado de um dos Estados-membros, surgir ou se espalhar num país terceiro, ou se qualquer outra razão de polícia sanitária o justificar, o Estado-membro destinatário proibirá a importação do sémen, quer se trate de uma importação directa ou de uma importação indirecta efectuada por intermédio de um outro Estado-membro e quer o sémen provenha de todo o país terceiro ou apenas de uma parte do seu território.\n\n3. As medidas tomadas pelos Estados-membros com base nos n°s 1 e 2, bem como a sua revogação, devem ser comunicadas de imediato aos outros Estados-membros e à Comissão com a indicação dos fundamentos dessas medidas.\n\nNos termos do procedimento previsto no artigo 18g., pode ser decidido que estas medidas devam ser alteradas,\n\ndesignadamente com vista à sua coordenação com medidas tomadas por outros Estados-membros, ou que devam ser revogadas.\n\n4. Se a situação prevista nos n°s 1 e 2 se verificar e se se revelar necessário que outros Estados-membros apliquem,\n\ntambém eles, as medidas tomadas por força destes números e alteradas, se for caso disso, nos termos do n° 3, serão adoptadas as disposições adequadas nos termos do procedimento previsto no artigo 18g.\n\n5. A retoma das importações provenientes de países terceiros é autorizada nos termos do procedimento previsto no artigo 18g."
+  },
+  "337742e2f6552788": {
+   "fragment_id": "Artigo 16g.",
+   "type": "artigo",
+   "heading": "Artigo 16g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16g.\n\n1. Peritos veterinários da Comissão podem, na medida em que tal for necessário à aplicação uniforme da presente directiva, efectuar controlos no local, em colaboração com as autoridades dos Estados-membros ou de países terceiros.\n\nO país de colheita em cujo território seja efectuado um controlo dará toda a ajuda necessária aos peritos para o cumprimento da sua missão. A Comissão informará o país de colheita em causa do resultado dos controlos efectuados.\n\nO país de colheita em causa tomará as medidas que possam revelar-se necessárias para ter em conta os resultados desse controlo. Se o país de colheita não tomar essas medidas, a Comissão, após exame da situação no seio do Comité Veterinário Permanente, pode recorrer às disposições previstas no n° 2, quarto parágrafo, do artigo 5g. e do n° 1 do artigo 9g.\n\n2. As disposições gerais de aplicação do presente artigo, nomeadamente no que diz respeito à frequência e às modalidades de execução dos controlos referidos no primeiro parágrafo do n° 1, serão fixadas de acordo com o procedimento referido no artigo 19g."
+  },
+  "203bb03a891d714e": {
+   "fragment_id": "CAPÍTULO V — Disposições finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais"
+  },
+  "f5bdea0e3d5e8880": {
+   "fragment_id": "Artigo 17g. — Os anexos da presente directiva serão alterados pelo",
+   "type": "artigo",
+   "heading": "Artigo 17g. — Os anexos da presente directiva serão alterados pelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17g. — Os anexos da presente directiva serão alterados pelo\n\nConselho, deliberando por maioria qualificada, sob proposta da Comissão, com vista, nomeadamente, à sua adpatação à evolução tecnológica."
+  },
+  "5cdb3da5e90ca13f": {
+   "fragment_id": "Artigo 18g.",
+   "type": "artigo",
+   "heading": "Artigo 18g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18g.\n\n1. N° caso de ser feita referência ao procedimento referido no presente artigo, o assunto será submetido ao Comité Vetrerinário Permanente, instituído pela decisão do Conselho de 15 de Outubro de 1968, a seguir denominado «Comité», pelo seu presidente, por sua iniciativa ou a pedido de um Estado-membro.\n\n2. N° seio do Comité, atribuir-se-á aos votos dos Estados-membros a ponderação prevista no n° 2 do artigo 148g. do Tratado. O presidente não vota.\n\n3. O representante da Comissão apresentará um projecto de medidas a tomar. O Comité emitirá o seu parecer sobre essas medidas num prazo de dois dias e pronuncia-se por maioria de cinquenta e quatro votos.\n\n4. A Comissão aprova as medidas e aplica-as imediatamente, desde que estejam em conformidade com o parecer do Comité. Se não estiverem em conformidade com o parecer do Comité ou na ausência de parecer, a Comissão submete imediatamente ao Conselho uma proposta relativa às medidas a tomar. O Conselho aprova as medidas por maioria qualificada.\n\nSe, no termo de um prazo de quinze dias a contar da data em que foi chamado a deliberar, o Conselho não tiver adoptado medidas, a Comissão aprova as medidas propostas e aplica-as imediatamente, excepto no caso de o Conselho se ter pronunciado por maioria simples contra essas medidas."
+  },
+  "0fa6469442e4e3a4": {
+   "fragment_id": "Artigo 19g.",
+   "type": "artigo",
+   "heading": "Artigo 19g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19g.\n\n1. N° caso de ser feita referência ao procedimento definido no presente artigo, o assunto será submetido ao Comité pelo seu presidente, por sua própria iniciativa ou a pedido de um Estado-membro.\n\n2. N° seio do Comité, atribuir-se-á aos votos dos Estados-membros a ponderação prevista no n° 2 do artigo 148g. do Tratado. O presidente não vota.\n\n3. O representante da Comissão apresentará um projecto de medidas a tomar. O Comité emitirá o seu parecer sobre essas medidas num prazo que o presidente pode fixar em função da urgência dos problemas submetidos a análise e pronunciar-se-á por maioria de cinquenta e quatro votos.\n\n4. A Comissão adoptará as medidas e aplicá-las-á imediatamente, quando conformes ao parecer do Comité. Em caso contrário, ou na ausência de parecer, a Comissão\n\nsubmeterá imediatamente ao Conselho uma proposta rela-\n\ntiva às medidas a tomar. O Conselho aprovará as medidas por maioria qualificada.\n\nSe, no termo de um prazo de quinze dias a contar da data em que foi chamado a deliberar, o Conselho não tiver adoptado medidas, a Comissão adoptará as medidas propostas e aplicá-las-á imediatamente, salvo no caso de o Conselho\n\nse ter pronunciado por maioria simples contra essas\n\nmedidas."
+  },
+  "3ae35287a5b933af": {
+   "fragment_id": "Artigo 20g.",
+   "type": "artigo",
+   "heading": "Artigo 20g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20g.\n\n1. A presente directiva não é aplicável ao sémen colhido e tratado num Estado-membro antes de 1 de Janeiro de 1990.\n\n2. Até à data de entrada em vigor das decisões aprovadas em aplicação dos artigos 8g., 9g. e 10g., os Estados-membros não aplicarão às importações de sémen proveniente de países terceiros condições mais favoráveis do que as que resultam do capítulo II."
+  },
+  "dd8eaa8d8f85bd24": {
+   "fragment_id": "Artigo 21g.",
+   "type": "artigo",
+   "heading": "Artigo 21g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21g.\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento ao disposto na presente directiva, o mais tardar em 1 de Janeiro de 1990 e de tal facto informarão imediatamente a Comissão."
+  },
+  "6821389116cd663d": {
+   "fragment_id": "Artigo 22g. — Os Estados-membros são os destinatários da presente",
+   "type": "artigo",
+   "heading": "Artigo 22g. — Os Estados-membros são os destinatários da presente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22g. — Os Estados-membros são os destinatários da presente\n\ndirectiva.\n\nFeito no Luxemburgo, em 14 de Junho de 1988.\n\nPelo Conselho\n\nO Presidente\n\nI. KIECHLE\n\nEWG:L111UMBP02.93\n\nFF: 1UPO; SETUP: 01; Hoehe: 3372 mm; 649 Zeilen; 31528 Zeichen;\n\nBediener: MIKE Pr.: C;\n\nKunde:................................\n\n(1) JO n° C 267 de 6. 10. 1983, p. 5.\n\n(2) JO n° C 342 de 19. 12. 1983, p. 11.\n\n(3) JO n° C 140 de 28. 5. 1984, p. 6.\n\n(4) JO n° 121 de 29. 7. 1964, p. 1977/64.\n\n(5) JO n° L 362 de 31. 12. 1985, p. 8.\n\n(6) JO n° L 302 de 31. 12. 1972, p. 28."
+  },
+  "c3867d42dac9e47c": {
+   "fragment_id": "ANEXO A CAPÍTULO I — CONDIÇÕES DE AUTORIZAÇÃO DOS CENTROS DE COLHEITA DE SÉMEN",
+   "type": "divisao",
+   "heading": "ANEXO A CAPÍTULO I — CONDIÇÕES DE AUTORIZAÇÃO DOS CENTROS DE COLHEITA DE SÉMEN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A CAPÍTULO I — CONDIÇÕES DE AUTORIZAÇÃO DOS CENTROS DE COLHEITA DE SÉMEN\n\nOs centros de colheita de sémen devem:\n\na)\n\nSer permanentemente colocados sob vigilância de um veterinário de centro;\n\nb)\n\nDispor, pelo menos:\n\niii) De instalações que permitam assegurar o alojamento e o isolamento dos animais;\n\niii) De instalações para a colheita de sémen, incluindo um local distinto para a limpeza e desinfecção ou esterilização dos equipamentos;\n\niii) De um local de tratamento do sémen que não deve encontrar-se necessariamente no mesmo sítio;\n\niv) De um local de armazenamento do sémen que não deve encontrar-se necessariamente no mesmo sítio;\n\nc)\n\nSer construídos ou isolados por forma a impedir qualquer contacto com os animais que se encontrem no exterior;\n\nd)\n\nSer construídos de forma a que as instalações de alojamento dos animais e de colheita, tratamento e armazenamento do sémen possam ser facilmente limpas e desinfectadas;\n\ne)\n\nDispor, para o alojamento dos animais a isolar, de instalações que não comuniquem directamente com as instalações comuns;\n\nf)\n\nSer concebidos de forma que a zona de alojamento dos animais esteja fisicamente separada do local do tratamento do sémen, e que tanto aquela como este estejam separados do local de armazenamento do sémen."
+  },
+  "26e2f034c973e355": {
+   "fragment_id": "CAPÍTULO II CONDIÇÕES RELATIVAS À FISCALIZAÇÃO DOS CENTROS DE COLHEITA DE SÉMEN",
+   "type": "divisao",
+   "heading": "CAPÍTULO II CONDIÇÕES RELATIVAS À FISCALIZAÇÃO DOS CENTROS DE COLHEITA DE SÉMEN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II CONDIÇÕES RELATIVAS À FISCALIZAÇÃO DOS CENTROS DE COLHEITA DE SÉMEN\n\nOs centros de colheita devem:\n\na)\n\nSer fiscalizados para que neles apenas possam ser alojados animais da espécie cujo sémen deve ser colhido. N° entanto, podem neles ser igualmente admitidos outros animais domésticos que sejam absolutamente necessários ao seu funcionamento normal, desde que não apresentem qualquer risco de infecção para os animais das espécies cujo sémen deve ser colhido e na medida em que satifaçam as condições fixadas pelo veterinário do centro;\n\nb)\n\nSer finalizados de forma a manter um registo de todos os bovinos neles presentes, que deve conter informações sobre a raça, a data de nascimento e a identificação de cada um desses animais, bem como um registo de todos os controlos relativos às doenças e a todas as vacinações efectuadas, o qual deve reproduzir os dados constantes das fichas sobre o estado de saúde ou doenças de cada animal;\n\nc)\n\nSer sujeitos a inspecções regulares, efectuadas pelo menos duas vezes por ano por um veterinário oficial e mediante as quais se efectue um controlo permanente das condições de autorização e fiscalização;\n\nd)\n\nDispor de fiscalização que impeça a entrada de qualquer pessoa não autorizada. Os visitantes autorizados devem também ser admitidos de acordo com as condições estabelecidas pelo veterinário de centro;\n\ne)\n\nEmpregar pessoal tecnicamente competente, que tenha recebido formação adequada quanto aos processos de desinfecção e às técnicas de higiene para a prevenção da propagação dos doenças;\n\nf)\n\nSer fiscalizados por forma a garantir as seguintes condições:\n\nivi) Que só o sémen colhido num centro autorizado seja tratado e armazenado nos centros autorizados, sem entrar em contacto com qualquer outro lote de sémen. Todavia, o sémen não colhido num centro autorizado pode ser tratado em centros de colheita autorizados desde que:\n\n- esse sémen seja obtido a partir de bovinos que correspondam às condições previstas no Anexo B, capítulo I, n° 1, alínea d), subalíneas i), ii), iii), e v),\n\n- esse tratamento se efectue com equipamentos distintos ou num momento diferente daquele em que é tratado o sémen destinado às trocas intracomunitárias, devendo os equipamentos, neste último caso, ser lavados e esterilizados após uso,\n\n- esse sémen não possa ser objecto de trocas intracomunitárias e não possa entrar, em qualquer momento, em contacto ou ser armazenado com sémen destinado às trocas intracomunitárias,\n\n- esse sémen ser identificável por aposição de uma marca distinta da prevista no ponto vii);\n\nvii) Que a colheita, o tratamento e o armazenamento de sémen se efectuem exclusivamente nos locais reservados para o efeito e nas mais rigorosas condições de higiene;\n\niiii) Que todos os instrumentos que entrem em contacto com o sémen ou com o animal dador durante\n\na colheita e o tratamento sejam convenientemente desinfectados ou esterilizados antes de cada\n\nutilização;\n\niiv) Que os produtos de origem animal utilizados no tratamento do sémen - incluindo aditivos ou um diluente - provenham de fontes que não apresentem qualquer risco sanitário ou tenham sido submetidos a um tratamento prévio para afastar tal risco;\n\niiv) Que os recipientes utilizados no armazenamento e transporte sejam convenientemente desinfectados ou esterilizados antes do início de qualquer operação de enchimento;\n\nivi) Que o agente criogénio utilizado não tenha servido anteriormente para outros produtos de origem animal;\n\nvii) Que cada dose individual de sémen tenha uma marca visível que permita verificar facilmente a data\n\nde colheita, bem como a raça e identificação do animal dador e o nome do centro, se necessário em código;\n\nas características e o modelo dessa marca serão estabelecidas nos termos do procedimento previsto no"
+  },
+  "03aefbc71a0e9206": {
+   "fragment_id": "artigo 19g. — EWG:L111UMBP03.96",
+   "type": "artigo",
+   "heading": "artigo 19g. — EWG:L111UMBP03.96",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### artigo 19g. — EWG:L111UMBP03.96\n\nFF: 1UPO; SETUP: 01; Hoehe: 508 mm; 70 Zeilen; 5252 Zeichen;\n\nBediener: SUSI Pr.: C;\n\nKunde:................................"
+  },
+  "1f4321b8dedbb40d": {
+   "fragment_id": "ANEXO B — CAPÍTULO I CONDIÇÕES APLICÁVEIS À ADMISSÃO DOS ANIMAIS NOS CENTROS AUTORIZADOS DE COLHEITA DE SÉMEN",
+   "type": "divisao",
+   "heading": "ANEXO B — CAPÍTULO I CONDIÇÕES APLICÁVEIS À ADMISSÃO DOS ANIMAIS NOS CENTROS AUTORIZADOS DE COLHEITA DE SÉMEN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — CAPÍTULO I CONDIÇÕES APLICÁVEIS À ADMISSÃO DOS ANIMAIS NOS CENTROS AUTORIZADOS DE COLHEITA DE SÉMEN\n\n1. Todos os animais da espécie bovina admitidos num centro de colheita de sémen devem:\n\na) Ter sido sujeitos a um período de isolamento de, pelo menos, trinta dias fora da exploração de onde sejam provenientes, em instalações especialmente aprovadas para o efeito pela autoridade competente do Estado-membro e nas quais não se encontrem outros animais biungulados com, pelo menos, o mesmo estatuto sanitário;\n\nb) Ter sido escolhidos, antes da respectiva entrada nas instalações de isolamento descritas na alínea a), em manadas:\n\nii) Oficialmente isentas de tuberculose;\n\nii) Oficialmente isentas de brucelose ou isentas de brucelose;\n\nOs animais não podem ter permanecido anteriormente em manadas de estatuto inferior;\n\nc) Provir de uma manada indemne de leucose bovina enzótica ou serem nascidos de uma vaca que tenha sido submetida com resultado negativo a uma prova de serologia para pesquisa de leucose bovina enzoótica, trinta dias, no máximo, antes da admissão do animal no centro.\n\nSe essa exigência não puder ser satisfeita, o sémen só pode ser admitido às trocas na medida em que o dador não atinja a idade de dois anos e não tenha sido testado nos termos do capítulo II, n° 1, subalínea iii), com resultado negativo;\n\nd) Ter sido submetidos e reagido negativamente, antes do período de isolamento referido na alínea a) e durante os trinta dias anteriores, aos seguintes testes:\n\niii) Uma prova intradérmica de reacção à tuberculina, efectuada em conformidade com o método fixado no Anexo B da Directiva 64/432/CEE;\n\niii) Uma prova de seroaglutinação, efectuada em conformidade com o método fixado no Anexo C da Directiva 64/432/CEE que revele um título brucélico inferior a 30 unidades internacionais (U. I.) de aglutinantes por mililitro e, no caso dos efectivos isentos de brucelose, uma prova de fixação do complemento que revele um título brucélico inferior a 20 unidades CEE por mililitro (20 unidades ECFT);\n\niii) Uma prova serológica para pesquisa da leucose bovina enzoótica, efectuada em conformidade com o método fixado no Anexo G da Directiva 64/432/CEE;\n\niv) Uma prova de seroneutralização ou uma prova Elisa, para a pesquisa da rinotraqueíte bovina infecciosa ou da vulvovaginite pustulosa infecciosa;\n\niv) Uma prova de isolamento do vírus (prova de pesquisa de antigenes por fluorescência ou prova imunoperoxidásica) para a pesquisa da diarreia vírica dos bovinos. Nos animais de idade inferior a seis meses, esta prova será adiada até eles terem atingido essa idade.\n\nA autoridade competente pode autorizar que os controlos referidos em d) possam ser efectuados na estação de isolamento, na medida em que os resultados sejam conhecidos antes do início do período de isolamento de trinta dias previsto na alínea e);\n\ne) Ter sido submetidos e reagido negativamente, durante o período de isolamento de, pelo menos, trinta dias referido na alínea a), aos seguintes testes:\n\niii) Uma prova de seroaglutinação, efectuada em conformidade com o método fixado no Anexo C da Directiva 64/432/CEE, que revele um título brucélico inferior a 30 unidades internacionais (U. I.) de aglutinantes por mililitro, bem como uma prova de fixação do complemento que revele um título brucélico inferior a 20 unidades CEE por mililitro (20 unidades ECFT), para o caso dos animais provenientes de efectivos isentos de brucelose;\n\niii) Uma prova de pesquisa de antigenes por anticorpos por imuno-fluorescência ou uma cultura para detecção da infecção pelo campylobacter foetus em amostras de material de colheita prepucial ou de lavagem vaginal; no caso das fêmeas deve ser efectuada uma prova de aglutinação do muco vaginal;\n\niii) Uma análise microscópica e uma cultura para pesquisa do trichomonas foetus numa amostra de material de lavagem vaginal ou prepucial; no caso das fêmeas deve ser efectuada uma prova de aglutinação do muco vaginal;\n\niv) Um teste de seroneutralização ou um teste Elisa para pesquisa da rinotraqueíte infecciosa bovina ou da vulvovaginite pustulosa infecciosa,\n\ne ter sido submetidos a um tratamento contra a leptospirose compreendendo duas injecções de estreptomicina com 14 dias de intervalo (25 miligramas por quilograma de peso vivo).\n\nEm caso de reacção positiva a um dos testes atrás enumerados deve retirar-se imediatamente o animal das instalações de isolamento. Caso o isolamento tenha sido em grupo, a autoridade competente deve tomar todas as medidas necessárias para que os restantes animais sejam readmitidos no centro de colheita em conformidade com o disposto no presente anexo.\n\n2. Todas as análises devem ser efectuadas num laboratório autorizado pelo Estado-membro.\n\n3. Apenas serão admitidos animais no centro de colheita de sémen sob autorização expressa do veterinário do centro, devendo ser registados todos os movimentos de entrada ou saída de animais.\n\n4. Todos os animais admitidos num centro de colheita de sémen devem estar isentos de qualquer manifestação clínica de doença no dia da sua admissão e provir, sem prejuízo do disposto no n° 5, de instalações de isolamento como atrás referidas na alínea a) do n° 1 que, à data da respectiva expedição, satisfaçam oficialmente as seguintes condições:\n\na) Estar situadas no centro de uma zona com um raio de 10 quilómetros em que não se tenha registado qualquer caso de febre aftosa pelo menos nos trinta dias anteriores;\n\nb) Estarem isentas de febre aftosa e de brucelose há, pelo menos, três meses;\n\nc) Estarem isentas de doenças dos bovinos de declaração obrigatória por força do disposto no Anexo E da Directiva 64/432/CEE há, pelo menos, trinta dias.\n\n5. Desde que estejam preenchidas as condições a que se refere o n° 4 e que as análises de rotina enumeradas no capítulo II tenham sido realizadas nos doze meses anteriores, os animais podem ser transferidos de um centro autorizado de colheita de sémen para outro de estatuto sanitário equivalente, sem período de isolamento ou análises e sob condição de tal movimento ser efectuado directamente. O animal transferido não deve entrar em contacto directo ou indirecto com animais biungulados de nível sanitário inferior e o meio de transporte utilizado deve ter sido previamente desinfectado. Caso a transferência de um centro de colheita de sémen para outro se efectue entre Estados-membros, deve obedecer ao disposto na Directiva 64/432/CEE.\n\nCAPÍTULO II ANÁLISES E TRATAMENTOS DE ROTINA OBRIGATÓRIOS PARA OS BOVINOS ALOJADOS EM CENTROS AUTORIZADOS DE COLHEITA DE SÉMEN\n\n1. Todos os bovinos alojados em centros de colheita de sémen devem ser submetidos, pelo menos uma vez por ano, às seguintes análises e tratamentos:\n\niii) Uma prova intradérmica de reacção à tuberculina para a turbeculose efectuada em conformidade com o método fixado no Anexo B da Directiva 64/432/CEE, cujo resultado seja negativo;\n\niii) Uma prova de seroaglutinação para a brucelose, efectuada em conformidade com o método fixado no Anexo C da Directiva 64/432/CEE que revele um título inferior a 30 unidades internacionais (U.I.) de aglutinantes por mililitro;\n\niii) Uma nálise serológica para a leucose enzoótica bovina efectuada para a LBE de acordo com o método fixado no Anexo G da Directiva 64/432/CEE do Conselho, cujo resultado seja negativo;\n\niv) Para a rinotraqueíte bovina infecciosa ou a vulvovaginite pustulosa infecciosa, uma prova de seroaglutinação ou uma prova Elisa cujos resultados sejam negativos. Todavia, até 31 de Dezembro de 1992, pode praticar-se a vacinação contra as referidas doenças em touros seronegativos, quer com uma dose de vacina viva sensível à temperatura e administrada por via nasal, quer com duas doses de vacina inactivada administradas com um intervalo mínimo de três semanas e máximo de quatro semanas; posteriormente, devem ser administradas doses de reforço a intervalos de seis meses no máximo;\n\niv) Uma prova de pesquisa de antigenes por anticorpos por imuno-fluorescência e de cultura para detecção da infecção pelo campylobacter foetus numa amostra de material de colheita prepucial ou de lavagem vaginal; no caso das fêmeas, deve efectuar-se uma prova de aglutinação do muco vaginal.\n\n2. Todas as análises devem ser efectuadas num laboratório autorizado pelo Estado-membro.\n\n3. Caso a reacção a um dos testes atrás enumerados seja positiva, o animal deve ser isolado, não devendo o respectivo sémen colhido após a data da última análise negativa ser objecto de qualquer troca intracomunitária.\n\nO sémen colhido de todos os outros animais alojados no centro após a data de realização do teste de resultado positivo será armazenado separadamente, não podendo ser objecto de trocas intracomunitárias até ao restabelecimento da situação sanitária do centro.\n\nEWG:L111UMBP04.95\n\nFF: 1UPO; SETUP: 01; Hoehe: 508 mm; 111 Zeilen; 9022 Zeichen;\n\nBediener: WILU Pr.: C;\n\nKunde:................................"
+  },
+  "1fe275e6734f681d": {
+   "fragment_id": "ANEXO C — CONDIÇÕES A PREENCHER PELO SÉMEN COLHIDO NOS CENTROS AUTORIZADOS DE COLHEITA DE SÉMEN E DESTINADO ÀS TROCAS INTRACOMUNITÁRIAS",
+   "type": "divisao",
+   "heading": "ANEXO C — CONDIÇÕES A PREENCHER PELO SÉMEN COLHIDO NOS CENTROS AUTORIZADOS DE COLHEITA DE SÉMEN E DESTINADO ÀS TROCAS INTRACOMUNITÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C — CONDIÇÕES A PREENCHER PELO SÉMEN COLHIDO NOS CENTROS AUTORIZADOS DE COLHEITA DE SÉMEN E DESTINADO ÀS TROCAS INTRACOMUNITÁRIAS\n\n1.\n\nO sémen deve ser proveniente de animais que:\n\na)\n\nNão apresentem nunhuma manifestação clínica de doença na data da colheita;\n\nb)\n\ni) Não tenham sido vacinados contra a febre aftosa; ou\n\nii) Pertençam a um centro em que todos os animais tenham sido completamente protegidos contra as estirpes A, O e C:\n\n- quer se trate de animais que antes da entrada no centro não tenham sido vacinados contra a febre aftosa e tenham tido por isso de receber duas doses de vacina inactivada do vírus, aprovada e controlada pela autoridade competente do Estado-membro exportador, com um intervalo mínimo de seis semanas e máximo de oito meses,\n\n- quer se trate de animais que antes de sua admissão no centro tenham sido vacinados três vezes no mínimo, com intervalos de um ano no máximo.\n\nQuando for administrada a vacina, todos os animais receberão vacinas de reforço com intervalos não superiores a doze meses;\n\nc)\n\nNão tenham sido vacinados contra a febre aftosa nos trinta dias imediatamente anteriores à colheita;\n\nd)\n\nTenham permanecido num centro autorizado de colheita de sémen durante um período ininterrupto mínimo de trinta dias antes da colheita do sémen;\n\ne)\n\nNão estejam autorizados a efectuar a cobrição natural;\n\nf)\n\nSe encontrem em centros de colheita de sémen que estejam isentos de febre aftosa pelo menos durante os três meses anteriores e os trinta dias posteriores à colheita, e que estejam situados no centro de uma zona com um raio de 10 quilómetros, no qual não tenha havido casos de febre aftosa nos últimos trinta dias, pelo menos;\n\ng)\n\nTenham permanecido em centros de colheita de sémen que, durante o período compreendido entre o trigésimo dia anterior e o trigésimo dia posterior à recolha, tenham estado isentos de doenças bovinas de declaração obrigatória, nos termos do Anexo E da Directiva 64/432/CEE.\n\n2.\n\nDevem ser adicionados os antibióticos adiante enumerados para, após diluição final, obter no sémen as seguintes concentrações finais:\n\nmínimo: - 500 ui de estreptomicina por ml,\n\n- 500 ui de penicilina por ml,\n\n- 150 ug de lincomicina por ml,\n\n- 300 ug de spectinomicina por ml.\n\nPode utilizar-se uma combinação diferente de antibióticos com um efeito equivalente contra os campilobacteres, as leptospiras e os microplasmas.\n\nImediatamente após a adição dos antibióticos, o sémen diluído deve ser conservado a uma temperatura mínima de 5gC durante 45 minutos, pelo menos.\n\n3.\n\nO sémen destinado às trocas intercomunitárias deve:\n\nii) Ser armazenado em condições autorizadas durante um período mínimo de trinta dias antes da expedição;\n\nii) Ser transportado para o Estado-membro de destino em recipientes limpos e desinfectados antes de serem usados, e selados antes de deixarem o local de armazenagem autorizado.\n\nEWG:L111UMBP05.95\n\nFF: 1UPO; SETUP: 01; Hoehe: 254 mm; 43 Zeilen; 2972 Zeichen;\n\nBediener: WILU Pr.: C;\n\nKunde:................................"
+  },
+  "d423cfaa7fd744c1": {
+   "fragment_id": "ANEXO D — CERTIFICADO SANITÁRIO",
+   "type": "divisao",
+   "heading": "ANEXO D — CERTIFICADO SANITÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D — CERTIFICADO SANITÁRIO\n\nN°..\n\nPaís de colheita:.\n\nAutoridade competente:.\n\nAutoridade local competente:.\n\n>POSIÇÃO NUMA TABELA>\n\nIII. Origem do sémen\n\nEndereço do(s) centro(s) de colheita de sémen:.\n\n.\n\n.\n\nNúmero de autorização do(s) centro(s) de colheita de sémen:.\n\n.\n\nIII. Destino do sémen\n\nIII. O sémen será enviado de:\n\nO sémen será enviado de:\n\n.\n\n(local de expedição)\n\nIII. O sémen será enviado para:\n\nO sémen será enviado para:\n\n.\n\n(país e local de destino)\n\nIII. O sémen será enviado por:\n\nO sémen será enviado por:\n\n.\n\n(meio de transporte)\n\nNome e endereço do expedidor:.\n\n.\n\n.\n\nNome e endereço do destinatário:.\n\n.\n\n.\n\nIII.\n\nIV. Eu, abaixo assinado, veterinário oficial, declaro:\n\n1. Que o sémen acima descrito foi colhido, tratado e armazenado nas condições exigidas pelas normas fixadas pela Directiva 88/407/CEE;\n\n2. Que o sémen acima descrito foi transportado para o local de expedição num contentor selado de acordo com as condições exigidas na Directiva 88/407/CEE.\n\nFeito em.............................................., em....................................................\n\n.\n\n(assinatura)\n\n.\n\n(apelido em maiúsculas)\n\nCarimbo\n\nEWG:L111UMBP06.96\n\nFF: 1UPO; SETUP: 01; Hoehe: 517 mm; 59 Zeilen; 1394 Zeichen;\n\nBediener: MIKE Pr.: A;\n\nKunde: 42090 port."
+  },
+  "59bcffddccd840bc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01988L0407 — PT — 21.04.2021 — 012.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31988L0407) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31988L0407) [de 14 de Junho de 1988](http://publications.europa.eu/resource/celex/31988L0407) [que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen congelado de animais da espécie bovina](http://publications.europa.eu/resource/celex/31988L0407) [(88/407/CEE)](http://publications.europa.eu/resource/celex/31988L0407) (JO L 194, 22.7.1988, p.10)\n\n**Revogada por:**\n\n- [Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho de 9 de março de 2016](http://publications.europa.eu/resource/celex/32016R0429) — L 84 — 1 — 31.3.2016"
+  }
+ }
+}

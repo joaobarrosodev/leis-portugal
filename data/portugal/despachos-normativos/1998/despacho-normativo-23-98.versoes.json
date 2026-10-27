@@ -1,0 +1,525 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:208057:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1998-887059748",
+ "dre_path": "/dr/detalhe/despacho-normativo/23-1998-208057",
+ "source_lastmod": "2024-09-05",
+ "versions": [
+  {
+   "date": "1998-04-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887067120",
+    "887060164",
+    "887060165",
+    "887060166",
+    "887060167",
+    "887060168",
+    "887060169",
+    "887060170",
+    "887060171",
+    "887060172",
+    "887060173",
+    "887060174",
+    "887067075",
+    "887067076",
+    "887067077",
+    "887067078",
+    "887067079",
+    "887067080",
+    "887067081",
+    "887067082",
+    "887067083",
+    "887067084"
+   ]
+  },
+  {
+   "date": "1998-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:273981:por",
+     "title": "Declaração de Rectificação n.º 13-O/98",
+     "published": "1998-08-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/13-o-1998-273981"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 18.º"
+   ],
+   "fragments": [
+    "887060163",
+    "887060164",
+    "887060165",
+    "887060166",
+    "887060167",
+    "887060168",
+    "887060169",
+    "887060170",
+    "887060171",
+    "887060172",
+    "887060173",
+    "887060174",
+    "887067075",
+    "887067076",
+    "887067077",
+    "887067078",
+    "887067079",
+    "887067080",
+    "887067116",
+    "887067082",
+    "887067083",
+    "887067084"
+   ]
+  },
+  {
+   "date": "2009-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493041:por",
+     "title": "Portaria n.º 841/2009",
+     "published": "2009-08-03",
+     "dre_path": "/dr/detalhe/portaria/841-2009-493041"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "887067120",
+    "887067121",
+    "887067122",
+    "887067123",
+    "887067124",
+    "887067125",
+    "887067126",
+    "887067127",
+    "887067128",
+    "887067129",
+    "887067130",
+    "887067131",
+    "887067132",
+    "887067133",
+    "887067134",
+    "887067135",
+    "887067136",
+    "887067137",
+    "887067138",
+    "887067139",
+    "887067140",
+    "887067141"
+   ]
+  }
+ ],
+ "fragments": {
+  "887067120": {
+   "fragment_id": "887059749",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2009-08-08",
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 23/98\n\nOs resultados da aplicação do Regulamento de Equiparação a Bolseiro (publicado, para rectificação, no Diário da República, 2.ª série, de 24 de Janeiro de 1989), anexo ao despacho n.º 208/ME/88, de 27 de Dezembro, (publicado no Diário da República, 2.ª série, de 10 de Janeiro de 1989) determinaram a necessidade de clarificar os procedimentos aplicáveis no sentido de aumentar a transparência do processo de concessão de equiparação a bolseiro, designadamente promovendo a sua adequação ao Código do Procedimento Administrativo.\n\nPor outro lado, a revisão do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, através do Decreto-Lei n.º 1/98, de 2 de Janeiro, bem como a publicação da legislação relativa à atribuição dos graus de mestre e de doutor, impuseram uma reponderação do âmbito e dos objectivos da equiparação a bolseiro.\n\nForam ouvidas as organizações sindicais.\n\nAssim, ao abrigo do disposto no n.º 1 do artigo 110.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, alterado pelo Decreto-Lei n.º 1/98, de 2 de Janeiro, determino o seguinte:\n\n1 - É aprovado o Regulamento de Equiparação a Bolseiro, em anexo ao presente despacho e que dele constitui parte integrante.\n\n2 - É revogado o despacho n.º 208/ME/88, de 27 de Dezembro (publicado no Diário da República, 2.ª série, de 10 de Janeiro de 1989), bem como o Regulamento anexo (publicado, para rectificação, no Diário da República, 2.ª série, de 24 de Janeiro de 1989).\n\nMinistério da Educação, 11 de Março de 1998. - O Ministro da Educação, Eduardo Carrega Marçal Grilo.\n\nANEXO\n\nREGULAMENTO DE EQUIPARAÇÃO A BOLSEIRO\n\n> Nota: [Artigo 19.º, Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041) A concessão da equiparação a bolseiro para o ano escolar de 2009-2010 obedece às regras que regularam a sua concessão para o ano escolar de 2008-2009."
+  },
+  "887060164": {
+   "fragment_id": "887059750",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nAos docentes da educação pré-escolar e dos ensinos básico e secundário providos definitivamente num lugar dos quadros pode ser concedida a equiparação a bolseiro no País e no estrangeiro, nos termos do artigo 110.º do Estatuto da Carreira Docente e do disposto nos artigos seguintes."
+  },
+  "887060165": {
+   "fragment_id": "887059751",
+   "type": 11,
+   "heading": "Artigo 2.º — Contingentação anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Contingentação anual\n\n1 - Por despacho anual do Ministro da Educação, ouvidas as organizações sindicais, publicitado até 31 de Janeiro, serão fixadas as quotas de equiparação a bolseiro a conceder para a educação pré-escolar, para o ensino básico e para o ensino secundário.\n\n2 - No caso de não ser esgotada a quota de afectação a um dado nível de ensino, por falta de candidatos em condições de poderem beneficiar da equiparação a bolseiro, deverão as vagas remanescentes ser distribuídas proporcionalmente pelos restantes níveis em que o número de candidatos tenha ultrapassado a referida quota."
+  },
+  "887060166": {
+   "fragment_id": "887059752",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos\n\nSão requisitos da concessão de equiparação a bolseiro, além da nomeação definitiva em lugar de quadro, cinco anos de serviço docente efectivo com menção qualitativa de Satisfaz na última avaliação de desempenho."
+  },
+  "887060167": {
+   "fragment_id": "887059753",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de atribuição\n\nPodem requerer a equiparação a bolseiro os docentes que se encontrem em qualquer das seguintes situações:\n\na) Realização de projecto, de estudo ou de investigação numa das modalidades previstas no artigo seguinte;\n\nb) Concessão de uma bolsa por outra instituição com vista ao desenvolvimento de actividades directamente relacionadas com a vertente científica em que se exerce a prática pedagógica do docente."
+  },
+  "887060168": {
+   "fragment_id": "887059754",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidades de projecto, de estudo ou de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modalidades de projecto, de estudo ou de investigação\n\nA situação prevista na alínea a) do artigo anterior integra as seguintes modalidades:\n\na) Realização de estudo ou de investigação em área considerada de interesse para a educação ou ensino, nos termos do n.º 3 do artigo 13.º;\n\nb) Projecto educativo em domínio com interesse prioritário para a educação e o ensino em geral;\n\nc) Doutoramento;\n\nd) Curso de mestrado;\n\ne) Curso de pós-graduação;\n\nf) Curso de formação especializada."
+  },
+  "887060169": {
+   "fragment_id": "887059755",
+   "type": 11,
+   "heading": "Artigo 6.º — Bolseiros de outras instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Bolseiros de outras instituições\n\n1 - Pode ser concedida a equiparação aos bolseiros de outras instituições, devendo proceder-se à redução da remuneração do docente até ao montante permitido, sempre que tal seja determinado pelas normas reguladoras da atribuição da bolsa.\n\n2 - Pode ser ainda concedida a equiparação a bolseiro sem vencimento aos bolseiros de outras instituições que não possam apresentar as respectivas candidaturas nos prazos previstos no presente Regulamento."
+  },
+  "887060170": {
+   "fragment_id": "887059756",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazo de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prazo de concessão\n\n1 - Sem prejuízo do disposto nos números seguintes, a equiparação a bolseiro é concedida pelo prazo máximo de um ano escolar, excepto se a situação que lhe deu origem, nos termos dos artigos 4.º e 5.º, ultrapassar aquele limite, caso em que terá a duração de dois anos escolares.\n\n2 - A equiparação a bolseiro para realização de doutoramento é concedida pelo prazo máximo de cinco anos escolares.\n\n3 - A equiparação a bolseiro para a realização de mestrado é concedida pelo prazo máximo de dois anos escolares, sendo concedida pelo período de um ano no caso de a mesma se destinar apenas à preparação da dissertação ou à frequência de curso de formação especializada.\n\n4 - Quando o equiparado a bolseiro não puder concretizar o seu projecto por motivos supervenientes que não lhe sejam imputáveis, poderá requerer a cessação da equiparação a bolseiro antes do termo do prazo previsto no presente artigo."
+  },
+  "887060171": {
+   "fragment_id": "887059757",
+   "type": 11,
+   "heading": "Artigo 8.º — Exclusividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exclusividade\n\nDurante o período de equiparação a bolseiro não é permitido o exercício de quaisquer funções públicas ou privadas remuneradas, excepto quando de carácter esporádico, para realização de conferências, palestras e acções de formação de duração não superior a trinta horas."
+  },
+  "887060172": {
+   "fragment_id": "887059758",
+   "type": 11,
+   "heading": "Artigo 9.º — Equiparação a bolseiro em regime de tempo parcial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Equiparação a bolseiro em regime de tempo parcial\n\n1 - Poderá ser concedida a equiparação a bolseiro em regime de tempo parcial, até ao limite de 50% da componente lectiva e com a duração máxima de um ano escolar.\n\n2 - Os equiparados a bolseiro abrangidos pelo número anterior não poderão ocupar qualquer cargo que implique redução da componente lectiva nem prestar serviço extraordinário."
+  },
+  "887060173": {
+   "fragment_id": "887059759",
+   "type": 11,
+   "heading": "Artigo 10.º — Equiparação a bolseiro sem vencimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Equiparação a bolseiro sem vencimento\n\nSem prejuízo do disposto no n.º 2 do artigo 6.º, pode ser concedida equiparação a bolseiro sem vencimento, a solicitação dos interessados, em qualquer das situações previstas no artigo 5.º, desde que observados os requisitos e cumpridos os restantes formalismos do presente Regulamento."
+  },
+  "887060174": {
+   "fragment_id": "887059760",
+   "type": 11,
+   "heading": "Artigo 11.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento\n\n1 - O requerimento a solicitar a concessão de equiparação a bolseiro é dirigido ao responsável máximo pelo serviço central que assegura a gestão dos recursos educativos e entregue no estabelecimento de ensino ou no centro de área educativa a que o docente pertence, até 30 de Março do ano lectivo anterior, dele devendo constar:\n\na) Identificação, residência, escola de origem, local de exercício de funções, categoria profissional, grupo de docência e tempo de serviço efectivo do interessado;\n\nb) Objecto da equiparação a bolseiro, nos termos dos artigos 4.º e 5.º;\n\nc) Área de projecto, estudo ou investigação a que se destina a equiparação a bolseiro.\n\n2 - O requerimento é acompanhado dos seguintes documentos:\n\na) Cópia do registo biográfico;\n\nb) Currículo académico e profissional;\n\nc) Parecer do órgão de gestão da escola, ouvido o conselho pedagógico;\n\nd) Outros elementos que o docente deva juntar para clarificação do pedido ou prova dos factos mencionados no currículo.\n\n3 - No caso de candidatura para a realização de cursos de estudos de especialização, de pós-graduação, de mestrado ou de doutoramento, o requerimento deve ser ainda acompanhado dos seguintes elementos:\n\na) Prova de matrícula no curso ou prova de aceitação pela instituição de ensino superior para a sua realização;\n\nb) Plano curricular ou de dissertação no mestrado ou tema e plano de investigação para dissertação de mestrado ou tese de doutoramento;\n\nc) Parecer do orientador, em caso de mestrado e doutoramento.\n\n4 - A apresentação da prova de aceitação num curso não dispensa a prova de matrícula no mesmo, até ao início do ano escolar, sob pena de revogação do despacho de concessão da equiparação.\n\n5 - Quando o projecto revestir a forma de autoformação, não integrada em qualquer das modalidades referidas no n.º 4 do presente artigo, deverá ser acompanhado de parecer de especialista da respectiva área de investigação.\n\n6 - No caso de concessão de equiparação a bolseiro por anos sucessivos, o exercício do direito fica apenas condicionado à apresentação de requerimento e relatório do trabalho desenvolvido, dentro do prazo previsto no n.º 1 deste artigo."
+  },
+  "887067075": {
+   "fragment_id": "887059761",
+   "type": 11,
+   "heading": "Artigo 12.º — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Tramitação\n\n1 - Organizado o processo de candidatura nos termos do artigo anterior, o órgão de gestão da escola ou o centro de área educativa deverá remetê-lo ao serviço central que assegura a gestão dos recursos educativos até 10 de Abril.\n\n2 - Após análise processual, o dirigente máximo do serviço referido no número anterior envia o processo ao departamento pedagógico competente até 16 de Maio, ou profere despacho fundamentado de indeferimento liminar da candidatura, em caso de extemporaneidade do pedido, falta de preenchimento dos requisitos referidos no artigo 3.º, falta dos documentos exigidos ou ainda de verificação de qualquer situação que prejudique o desenvolvimento normal do processo.\n\n3 - Da decisão de indeferimento cabe reclamação, a apresentar no prazo de 15 dias, a qual deverá ser decidida no prazo de 10 dias.\n\n4 - Da decisão da reclamação cabe recurso hierárquico facultativo, a interpor, no prazo de 30 dias, para o Ministro da Educação."
+  },
+  "887067076": {
+   "fragment_id": "887059762",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliação da candidatura\n\n1 - Recebido o processo, o departamento pedagógico competente procede à analise do pedido, gradua e ordena os candidatos, através de uma avaliação da candidatura que concluirá com a elaboração de um parecer fundamentado e a atribuição de uma classificação.\n\n2 - A avaliação terá em conta os seguintes parâmetros:\n\na) Análise de mérito do currículo do candidato, com base no respectivo grau académico, classificação profissional, modalidades de acções de formação contínua realizadas nos últimos cinco anos, formação especializada adquirida, estudos e projectos de investigação desenvolvidos, obras publicadas e desempenho de funções dirigentes em estabelecimento de ensino ou em serviços ou organismos da administração educativa;\n\nb) Adequação da proposta ao grau de ensino a que o docente pertence;\n\nc) Consonância do projecto, estudo, curso ou tema proposto com as áreas cujo desenvolvimento foi considerado previamente pelos departamentos pedagógicos do Ministério da Educação como de maior relevância para a educação e ensino.\n\n3 - Para efeito do disposto na alínea c), os departamentos pedagógicos competentes deverão publicitar, durante o mês de Fevereiro, a lista das áreas temáticas que se revestem de relevância para a educação ou ensino através de aviso publicado no Diário da República."
+  },
+  "887067077": {
+   "fragment_id": "887059763",
+   "type": 11,
+   "heading": "Artigo 14.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Decisão\n\n1 - Concluída a avaliação, até 15 de Junho, o processo é remetido ao serviço central que assegura a gestão dos recursos educativos, para decisão final, comunicada aos interessados até 15 de Julho.\n\n2 - Da decisão cabe recurso hierárquico facultativo, a interpor, no prazo de 30 dias, para o Ministro da Educação."
+  },
+  "887067078": {
+   "fragment_id": "887059764",
+   "type": 11,
+   "heading": "Artigo 15.º — Publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Publicitação\n\nO dirigente máximo do serviço referido no artigo anterior mandará publicar no Diário da República a lista dos candidatos aos quais foi concedida a equiparação a bolseiro, nos termos do n.º 3 do artigo 3.º do Decreto-Lei n.º 272/88, de 3 de Agosto."
+  },
+  "887067079": {
+   "fragment_id": "887059765",
+   "type": 11,
+   "heading": "Artigo 16.º — Relatório final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Relatório final\n\n1 - Após o termo do período de equiparação a bolseiro, o docente é obrigado a remeter ao serviço que assegura a gestão dos recursos educativos, dentro do prazo de 60 dias, um relatório final da sua actividade.\n\n2 - A não apresentação injustificada do relatório implica a reposição pelo docente das importâncias que tiver recebido."
+  },
+  "887067080": {
+   "fragment_id": "887059766",
+   "type": 11,
+   "heading": "Artigo 17.º — Exercício de funções docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Exercício de funções docentes\n\nO docente que tiver beneficiado do estatuto de equiparado a bolseiro é obrigado a cumprir no sistema educativo o período de tempo correspondente a 50% do período de equiparação, nos termos do n.º 3 do artigo 110.º do Decreto-Lei n.º 1/98, de 2 de Janeiro."
+  },
+  "887067081": {
+   "fragment_id": "887059767",
+   "type": 11,
+   "heading": "Artigo 18.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Remunerações\n\nAs remunerações dos docentes que beneficiam da equiparação a bolseiro nos termos deste Regulamento serão suportadas por dotação orçamental específica, inscrita no capítulo 01 do orçamento do Ministério da Educação."
+  },
+  "887067082": {
+   "fragment_id": "887059768",
+   "type": 11,
+   "heading": "Artigo 19.º — Resultados do processo de equiparação a bolseiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Resultados do processo de equiparação a bolseiro\n\nAnualmente, será feito pelo serviço central que assegura a gestão dos recursos educativos um relatório dos resultados da aplicação do presente Regulamento, que, após homologação pelo Ministro da Educação, será objecto de divulgação, designadamente às organizações sindicais."
+  },
+  "887067083": {
+   "fragment_id": "887059769",
+   "type": 11,
+   "heading": "Artigo 20.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Situações especiais\n\nPor despacho do Ministro da Educação pode ainda ser concedida a equiparação a bolseiro a docentes que pretendam realizar estudos ou projectos em domínio relevante da educação e ensino."
+  },
+  "887067084": {
+   "fragment_id": "887059770",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\nAos candidatos que se encontrem na situação de equiparados a bolseiro ao abrigo do Regulamento anexo ao despacho n.º 208/ME/88, de 27 de Dezembro, publicado no Diário da República, 2.ª série, de 24 de Janeiro de 1989, aplicam-se as regras previstas no mesmo Regulamento."
+  },
+  "887060163": {
+   "fragment_id": "887059749",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 23/98\n\nOs resultados da aplicação do Regulamento de Equiparação a Bolseiro (publicado, para rectificação, no Diário da República, 2.ª série, de 24 de Janeiro de 1989), anexo ao despacho n.º 208/ME/88, de 27 de Dezembro, (publicado no Diário da República, 2.ª série, de 10 de Janeiro de 1989) determinaram a necessidade de clarificar os procedimentos aplicáveis no sentido de aumentar a transparência do processo de concessão de equiparação a bolseiro, designadamente promovendo a sua adequação ao Código do Procedimento Administrativo.\n\nPor outro lado, a revisão do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, através do Decreto-Lei n.º 1/98, de 2 de Janeiro, bem como a publicação da legislação relativa à atribuição dos graus de mestre e de doutor, impuseram uma reponderação do âmbito e dos objectivos da equiparação a bolseiro.\n\nForam ouvidas as organizações sindicais.\n\nAssim, ao abrigo do disposto no n.º 1 do artigo 110.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, alterado pelo Decreto-Lei n.º 1/98, de 2 de Janeiro, determino o seguinte:\n\n1 - É aprovado o Regulamento de Equiparação a Bolseiro, em anexo ao presente despacho e que dele constitui parte integrante.\n\n2 - É revogado o despacho n.º 208/ME/88, de 27 de Dezembro (publicado no Diário da República, 2.ª série, de 10 de Janeiro de 1989), bem como o Regulamento anexo (publicado, para rectificação, no Diário da República, 2.ª série, de 24 de Janeiro de 1989).\n\nMinistério da Educação, 11 de Março de 1998. - O Ministro da Educação, Eduardo Carrega Marçal Grilo.\n\nANEXO\n\nREGULAMENTO DE EQUIPARAÇÃO A BOLSEIRO"
+  },
+  "887067116": {
+   "fragment_id": "887059767",
+   "type": 11,
+   "heading": "Artigo 18.º — Remunerações",
+   "in_force_from": "1998-08-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 13-O/98 - Diário da República n.º 200/1998, 3º Suplemento, Série I-B de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-o-1998-273981), em vigor a partir de 1998-08-31"
+   ],
+   "markdown": "###### Artigo 18.º — Remunerações\n\nAs remunerações dos docentes que beneficiam da equiparação a bolseiro nos termos deste Regulamento serão suportadas por dotação orçamental específica, inscrita no capítulo 02 do orçamento do Ministério da Educação.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 13-O/98 - Diário da República n.º 200/1998, 3º Suplemento, Série I-B de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-o-1998-273981), em vigor a partir de 1998-08-31"
+  },
+  "887067121": {
+   "fragment_id": "887059750",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nAos docentes da educação pré-escolar e dos ensinos básico e secundário providos definitivamente num lugar dos quadros pode ser concedida a equiparação a bolseiro no País e no estrangeiro, nos termos do artigo 110.º do Estatuto da Carreira Docente e do disposto nos artigos seguintes.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067122": {
+   "fragment_id": "887059751",
+   "type": 11,
+   "heading": "Artigo 2.º — Contingentação anual",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 2.º — Contingentação anual\n\n1 - Por despacho anual do Ministro da Educação, ouvidas as organizações sindicais, publicitado até 31 de Janeiro, serão fixadas as quotas de equiparação a bolseiro a conceder para a educação pré-escolar, para o ensino básico e para o ensino secundário.\n\n2 - No caso de não ser esgotada a quota de afectação a um dado nível de ensino, por falta de candidatos em condições de poderem beneficiar da equiparação a bolseiro, deverão as vagas remanescentes ser distribuídas proporcionalmente pelos restantes níveis em que o número de candidatos tenha ultrapassado a referida quota.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067123": {
+   "fragment_id": "887059752",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitos",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 3.º — Requisitos\n\nSão requisitos da concessão de equiparação a bolseiro, além da nomeação definitiva em lugar de quadro, cinco anos de serviço docente efectivo com menção qualitativa de Satisfaz na última avaliação de desempenho.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067124": {
+   "fragment_id": "887059753",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de atribuição",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 4.º — Condições de atribuição\n\nPodem requerer a equiparação a bolseiro os docentes que se encontrem em qualquer das seguintes situações:\n\na) Realização de projecto, de estudo ou de investigação numa das modalidades previstas no artigo seguinte;\n\nb) Concessão de uma bolsa por outra instituição com vista ao desenvolvimento de actividades directamente relacionadas com a vertente científica em que se exerce a prática pedagógica do docente.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067125": {
+   "fragment_id": "887059754",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidades de projecto, de estudo ou de investigação",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 5.º — Modalidades de projecto, de estudo ou de investigação\n\nA situação prevista na alínea a) do artigo anterior integra as seguintes modalidades:\n\na) Realização de estudo ou de investigação em área considerada de interesse para a educação ou ensino, nos termos do n.º 3 do artigo 13.º;\n\nb) Projecto educativo em domínio com interesse prioritário para a educação e o ensino em geral;\n\nc) Doutoramento;\n\nd) Curso de mestrado;\n\ne) Curso de pós-graduação;\n\nf) Curso de formação especializada.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067126": {
+   "fragment_id": "887059755",
+   "type": 11,
+   "heading": "Artigo 6.º — Bolseiros de outras instituições",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 6.º — Bolseiros de outras instituições\n\n1 - Pode ser concedida a equiparação aos bolseiros de outras instituições, devendo proceder-se à redução da remuneração do docente até ao montante permitido, sempre que tal seja determinado pelas normas reguladoras da atribuição da bolsa.\n\n2 - Pode ser ainda concedida a equiparação a bolseiro sem vencimento aos bolseiros de outras instituições que não possam apresentar as respectivas candidaturas nos prazos previstos no presente Regulamento.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067127": {
+   "fragment_id": "887059756",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazo de concessão",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08",
+    "Alterado pelo/a Artigo 1.º do/a [Despacho Normativo n.º 40/2005 - Diário da República n.º 147/2005, Série I-B de 2005-08-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/40-2005-240458), produz efeitos a partir de 2005-08-03"
+   ],
+   "markdown": "###### Artigo 7.º — Prazo de concessão\n\n1 - Sem prejuízo do disposto nos números seguintes, a equiparação a bolseiro é concedida pelo prazo máximo de um ano escolar, excepto se a situação que lhe deu origem, nos termos dos artigos 4.º e 5.º, ultrapassar aquele limite, caso em que terá a duração de dois anos escolares.\n\n2 - A equiparação a bolseiro para realização de doutoramento é concedida pelo prazo máximo de três anos escolares, podendo, em casos excepcionais e devidamente fundamentados, o prazo inicialmente concedido ser prorrogado por mais um ano, até ao limite máximo de quatro anos escolares.\n\n3 - A equiparação a bolseiro para a realização de mestrado é concedida pelo prazo máximo de dois anos escolares, sendo concedida pelo período de um ano no caso de a mesma se destinar apenas à preparação da dissertação ou à frequência de curso de formação especializada.\n\n4 - Quando o equiparado a bolseiro não puder concretizar o seu projecto por motivos supervenientes que não lhe sejam imputáveis, poderá requerer a cessação da equiparação a bolseiro antes do termo do prazo previsto no presente artigo.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08\n\n> Alterado pelo/a Artigo 1.º do/a [Despacho Normativo n.º 40/2005 - Diário da República n.º 147/2005, Série I-B de 2005-08-02](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/40-2005-240458), produz efeitos a partir de 2005-08-03"
+  },
+  "887067128": {
+   "fragment_id": "887059757",
+   "type": 11,
+   "heading": "Artigo 8.º — Exclusividade",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 8.º — Exclusividade\n\nDurante o período de equiparação a bolseiro não é permitido o exercício de quaisquer funções públicas ou privadas remuneradas, excepto quando de carácter esporádico, para realização de conferências, palestras e acções de formação de duração não superior a trinta horas.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067129": {
+   "fragment_id": "887059758",
+   "type": 11,
+   "heading": "Artigo 9.º — Equiparação a bolseiro em regime de tempo parcial",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 9.º — Equiparação a bolseiro em regime de tempo parcial\n\n1 - Poderá ser concedida a equiparação a bolseiro em regime de tempo parcial, até ao limite de 50% da componente lectiva e com a duração máxima de um ano escolar.\n\n2 - Os equiparados a bolseiro abrangidos pelo número anterior não poderão ocupar qualquer cargo que implique redução da componente lectiva nem prestar serviço extraordinário.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067130": {
+   "fragment_id": "887059759",
+   "type": 11,
+   "heading": "Artigo 10.º — Equiparação a bolseiro sem vencimento",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 10.º — Equiparação a bolseiro sem vencimento\n\nSem prejuízo do disposto no n.º 2 do artigo 6.º, pode ser concedida equiparação a bolseiro sem vencimento, a solicitação dos interessados, em qualquer das situações previstas no artigo 5.º, desde que observados os requisitos e cumpridos os restantes formalismos do presente Regulamento.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067131": {
+   "fragment_id": "887059760",
+   "type": 11,
+   "heading": "Artigo 11.º — Procedimento",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 11.º — Procedimento\n\n1 - O requerimento a solicitar a concessão de equiparação a bolseiro é dirigido ao responsável máximo pelo serviço central que assegura a gestão dos recursos educativos e entregue no estabelecimento de ensino ou no centro de área educativa a que o docente pertence, até 30 de Março do ano lectivo anterior, dele devendo constar:\n\na) Identificação, residência, escola de origem, local de exercício de funções, categoria profissional, grupo de docência e tempo de serviço efectivo do interessado;\n\nb) Objecto da equiparação a bolseiro, nos termos dos artigos 4.º e 5.º;\n\nc) Área de projecto, estudo ou investigação a que se destina a equiparação a bolseiro.\n\n2 - O requerimento é acompanhado dos seguintes documentos:\n\na) Cópia do registo biográfico;\n\nb) Currículo académico e profissional;\n\nc) Parecer do órgão de gestão da escola, ouvido o conselho pedagógico;\n\nd) Outros elementos que o docente deva juntar para clarificação do pedido ou prova dos factos mencionados no currículo.\n\n3 - No caso de candidatura para a realização de cursos de estudos de especialização, de pós-graduação, de mestrado ou de doutoramento, o requerimento deve ser ainda acompanhado dos seguintes elementos:\n\na) Prova de matrícula no curso ou prova de aceitação pela instituição de ensino superior para a sua realização;\n\nb) Plano curricular ou de dissertação no mestrado ou tema e plano de investigação para dissertação de mestrado ou tese de doutoramento;\n\nc) Parecer do orientador, em caso de mestrado e doutoramento.\n\n4 - A apresentação da prova de aceitação num curso não dispensa a prova de matrícula no mesmo, até ao início do ano escolar, sob pena de revogação do despacho de concessão da equiparação.\n\n5 - Quando o projecto revestir a forma de autoformação, não integrada em qualquer das modalidades referidas no n.º 4 do presente artigo, deverá ser acompanhado de parecer de especialista da respectiva área de investigação.\n\n6 - No caso de concessão de equiparação a bolseiro por anos sucessivos, o exercício do direito fica apenas condicionado à apresentação de requerimento e relatório do trabalho desenvolvido, dentro do prazo previsto no n.º 1 deste artigo.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067132": {
+   "fragment_id": "887059761",
+   "type": 11,
+   "heading": "Artigo 12.º — Tramitação",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 12.º — Tramitação\n\n1 - Organizado o processo de candidatura nos termos do artigo anterior, o órgão de gestão da escola ou o centro de área educativa deverá remetê-lo ao serviço central que assegura a gestão dos recursos educativos até 10 de Abril.\n\n2 - Após análise processual, o dirigente máximo do serviço referido no número anterior envia o processo ao departamento pedagógico competente até 16 de Maio, ou profere despacho fundamentado de indeferimento liminar da candidatura, em caso de extemporaneidade do pedido, falta de preenchimento dos requisitos referidos no artigo 3.º, falta dos documentos exigidos ou ainda de verificação de qualquer situação que prejudique o desenvolvimento normal do processo.\n\n3 - Da decisão de indeferimento cabe reclamação, a apresentar no prazo de 15 dias, a qual deverá ser decidida no prazo de 10 dias.\n\n4 - Da decisão da reclamação cabe recurso hierárquico facultativo, a interpor, no prazo de 30 dias, para o Ministro da Educação.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067133": {
+   "fragment_id": "887059762",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliação da candidatura",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 13.º — Avaliação da candidatura\n\n1 - Recebido o processo, o departamento pedagógico competente procede à analise do pedido, gradua e ordena os candidatos, através de uma avaliação da candidatura que concluirá com a elaboração de um parecer fundamentado e a atribuição de uma classificação.\n\n2 - A avaliação terá em conta os seguintes parâmetros:\n\na) Análise de mérito do currículo do candidato, com base no respectivo grau académico, classificação profissional, modalidades de acções de formação contínua realizadas nos últimos cinco anos, formação especializada adquirida, estudos e projectos de investigação desenvolvidos, obras publicadas e desempenho de funções dirigentes em estabelecimento de ensino ou em serviços ou organismos da administração educativa;\n\nb) Adequação da proposta ao grau de ensino a que o docente pertence;\n\nc) Consonância do projecto, estudo, curso ou tema proposto com as áreas cujo desenvolvimento foi considerado previamente pelos departamentos pedagógicos do Ministério da Educação como de maior relevância para a educação e ensino.\n\n3 - Para efeito do disposto na alínea c), os departamentos pedagógicos competentes deverão publicitar, durante o mês de Fevereiro, a lista das áreas temáticas que se revestem de relevância para a educação ou ensino através de aviso publicado no Diário da República.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067134": {
+   "fragment_id": "887059763",
+   "type": 11,
+   "heading": "Artigo 14.º — Decisão",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 14.º — Decisão\n\n1 - Concluída a avaliação, até 15 de Junho, o processo é remetido ao serviço central que assegura a gestão dos recursos educativos, para decisão final, comunicada aos interessados até 15 de Julho.\n\n2 - Da decisão cabe recurso hierárquico facultativo, a interpor, no prazo de 30 dias, para o Ministro da Educação.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067135": {
+   "fragment_id": "887059764",
+   "type": 11,
+   "heading": "Artigo 15.º — Publicitação",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 15.º — Publicitação\n\nO dirigente máximo do serviço referido no artigo anterior mandará publicar no Diário da República a lista dos candidatos aos quais foi concedida a equiparação a bolseiro, nos termos do n.º 3 do artigo 3.º do Decreto-Lei n.º 272/88, de 3 de Agosto.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067136": {
+   "fragment_id": "887059765",
+   "type": 11,
+   "heading": "Artigo 16.º — Relatório final",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 16.º — Relatório final\n\n1 - Após o termo do período de equiparação a bolseiro, o docente é obrigado a remeter ao serviço que assegura a gestão dos recursos educativos, dentro do prazo de 60 dias, um relatório final da sua actividade.\n\n2 - A não apresentação injustificada do relatório implica a reposição pelo docente das importâncias que tiver recebido.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067137": {
+   "fragment_id": "887059766",
+   "type": 11,
+   "heading": "Artigo 17.º — Exercício de funções docentes",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 17.º — Exercício de funções docentes\n\nO docente que tiver beneficiado do estatuto de equiparado a bolseiro é obrigado a cumprir no sistema educativo o período de tempo correspondente a 50% do período de equiparação, nos termos do n.º 3 do artigo 110.º do Decreto-Lei n.º 1/98, de 2 de Janeiro.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067138": {
+   "fragment_id": "887059767",
+   "type": 11,
+   "heading": "Artigo 18.º — Remunerações",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08",
+    "Retificado pelo/a [Declaração de Rectificação n.º 13-O/98 - Diário da República n.º 200/1998, 3º Suplemento, Série I-B de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-o-1998-273981), em vigor a partir de 1998-08-31"
+   ],
+   "markdown": "###### Artigo 18.º — Remunerações\n\nAs remunerações dos docentes que beneficiam da equiparação a bolseiro nos termos deste Regulamento serão suportadas por dotação orçamental específica, inscrita no capítulo 02 do orçamento do Ministério da Educação.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08\n\n> Retificado pelo/a [Declaração de Rectificação n.º 13-O/98 - Diário da República n.º 200/1998, 3º Suplemento, Série I-B de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-o-1998-273981), em vigor a partir de 1998-08-31"
+  },
+  "887067139": {
+   "fragment_id": "887059768",
+   "type": 11,
+   "heading": "Artigo 19.º — Resultados do processo de equiparação a bolseiro",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 19.º — Resultados do processo de equiparação a bolseiro\n\nAnualmente, será feito pelo serviço central que assegura a gestão dos recursos educativos um relatório dos resultados da aplicação do presente Regulamento, que, após homologação pelo Ministro da Educação, será objecto de divulgação, designadamente às organizações sindicais.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067140": {
+   "fragment_id": "887059769",
+   "type": 11,
+   "heading": "Artigo 20.º — Situações especiais",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 20.º — Situações especiais\n\nPor despacho do Ministro da Educação pode ainda ser concedida a equiparação a bolseiro a docentes que pretendam realizar estudos ou projectos em domínio relevante da educação e ensino.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  },
+  "887067141": {
+   "fragment_id": "887059770",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": "2009-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+   ],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\nAos candidatos que se encontrem na situação de equiparados a bolseiro ao abrigo do Regulamento anexo ao despacho n.º 208/ME/88, de 27 de Dezembro, publicado no Diário da República, 2.ª série, de 24 de Janeiro de 1989, aplicam-se as regras previstas no mesmo Regulamento.\n\n> Revogado pelo/a Artigo 20.º do/a [Portaria n.º 841/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/portaria/841-2009-493041), em vigor a partir de 2009-08-08"
+  }
+ }
+}

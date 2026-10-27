@@ -1,0 +1,271 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:571886:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/1997-1023460879",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/13-1997-571886",
+ "source_lastmod": "2026-04-08",
+ "versions": [
+  {
+   "date": "1997-01-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1082956275",
+    "1080485875",
+    "1080486075",
+    "1080486275",
+    "1080486475",
+    "1080486675",
+    "1080485375",
+    "1080487375",
+    "1080485175"
+   ]
+  },
+  {
+   "date": "1998-05-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:432620:por",
+     "title": "Resolução do Conselho de Ministros n.º 58-A/98",
+     "published": "1998-05-04",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/58-a-1998-432620"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "1023472575",
+    "1080485875",
+    "1080486075",
+    "1080486275",
+    "1080486475",
+    "1080486675",
+    "1080487575",
+    "1080487375",
+    "1080485175",
+    "1080484375"
+   ]
+  },
+  {
+   "date": "2000-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:559631:por",
+     "title": "Decreto-Lei n.º 231/2000",
+     "published": "2000-09-25",
+     "dre_path": "/dr/detalhe/decreto-lei/231-2000-559631"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1082956275",
+    "1082956475",
+    "1082956575",
+    "1082956675",
+    "1082956775",
+    "1082956875",
+    "1082956975",
+    "1082957075",
+    "1082959175",
+    "1082959275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1082956275": {
+   "fragment_id": "1023472475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2000-09-30",
+   "changed_by": [],
+   "markdown": "O disposto no artigo 19.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, que criou o Sistema de Apoio a Jovens Empresários (SAJE), prevê que o respectivo regulamento de aplicação seja aprovado por resolução do Conselho de Ministros.\n\nAssim:\n\nNos termos da alínea g) do n.º 1 do artigo 202.º da Constituição, o Conselho de Ministros resolveu:"
+  },
+  "1080485875": {
+   "fragment_id": "1080485775",
+   "type": 11,
+   "heading": "1.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — Candidaturas\n\nAs candidaturas ao Sistema de Apoio a Jovens Empresários (SAJE), criado pelo Decreto-Lei n.º 22/97, de 23 de Janeiro, são apresentadas nas comissões técnicas através de formulários, a fornecer por estas, devendo apresentar-se um original e duas cópias do processo."
+  },
+  "1080486075": {
+   "fragment_id": "1080485975",
+   "type": 11,
+   "heading": "2.º — Processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º — Processo de candidatura\n\n1 - O processo de candidatura deve ser composto pelos seguintes elementos:\n\na) Formulário de candidatura devidamente preenchido;\n\nb) Documentos comprovativos do cumprimento dos requisitos previstos nas alíneas a), b) e c) do artigo 3.º do Decreto-Lei n.º 22/97, de 23 de Janeiro;\n\nc) Declaração de intenção de financiamento por parte de uma instituição de crédito, quando haja lugar ao financiamento bancário, ou indicação da instituição à qual a candidatura irá ser submetida para análise;\n\nd) Declaração de intenção de afectação do projecto à região por um período mínimo de quatro anos;\n\ne) Análise demonstrativa do equilíbrio económico e financeiro pré-projecto da empresa, nos termos da alínea d) do artigo 3.º do Decreto-Lei n.º 22/97, de 23 de Janeiro;\n\nf) Documentos comprovativos do cumprimento de todos os requisitos técnicos e legais necessários à instalação e desenvolvimento da actividade, nos termos da alínea e) do artigo 3.º do Decreto-Lei n.º 22/97, de 23 de Janeiro;\n\ng) Estudo de viabilidade económica e financeira do projecto, incluindo o custo do investimento devidamente justificado e comprovado por orçamentos;\n\nh) Estudo de mercado adequado à natureza e dimensão do projecto.\n\n2 - Os processos de candidatura apresentados por promotores na situação de primeiro emprego deverão incluir uma declaração da segurança social que certifique a inexistência de qualquer registo na mesma.\n\n3 - Os processos de candidatura apresentados por promotores na situação de desemprego deverão incluir uma declaração do centro de emprego comprovativa dessa condição.\n\n4 - Podem ser solicitados aos promotores dos projectos esclarecimentos complementares, os quais deverão ser apresentados no prazo de 20 dias úteis após a respectiva solicitação, ficando durante esse período suspensa a contagem dos prazos.\n\n5 - A não apresentação dos esclarecimentos complementares no prazo fixado no número anterior implica a não aceitação da candidatura, excepto quando devidamente justificada ou não imputável ao promotor.\n\n6 - A alínea e) do n.º 1 não é aplicável aos projectos de criação de empresas.\n\n7 - A alínea f) do n.º 1 não é aplicável aos projectos apresentados por promotores individuais, estando, no entanto, condicionada a atribuição de incentivo em caso de aprovação ao cumprimento das condições previstas na alínea referida."
+  },
+  "1080486275": {
+   "fragment_id": "1080486175",
+   "type": 11,
+   "heading": "3.º — Verificação das condições de acesso do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º — Verificação das condições de acesso do projecto\n\n1 - Para efeitos do disposto na alínea b) do artigo 4.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, considera-se que um projecto é viável económica e financeiramente quando se verificam as seguintes condições:\n\na) O investimento previsto contemplar todas as rubricas necessárias à completa implementação do projecto;\n\nb) Os proveitos e custos previsionais encontrarem-se correctamente estimados e justificados todos os cálculos e métodos de previsão utilizados;\n\nc) Os índices de rendibilidade estimados (taxa interna de rendibilidade, valor actualizado líquido e prazo de recuperação do investimento) apresentarem resultados conclusivos quanto à viabilidade do projecto;\n\nd) A autonomia financeira da empresa apurada nos seus balanços previsionais ser sempre igual ou superior a 15%, sendo calculada através da aplicação da seguinte fórmula:\n\nAutonomia financeira = (Capital próprio da empresa/Activo líquido da empresa)\n\n2 - A alínea d) do número anterior não se aplica aos projectos apresentados por empresas cujo capital social seja detido maioritariamente por desempregados ou jovens à procura do primeiro emprego."
+  },
+  "1080486475": {
+   "fragment_id": "1080486375",
+   "type": 11,
+   "heading": "4.º — Tipos de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º — Tipos de projectos\n\n1 - Nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, o SAJE apoia projectos que visem a criação, expansão e modernização de empresas, designadamente nas seguintes áreas:\n\na) Indústria;\n\nb) Comércio;\n\nc) Turismo;\n\nd) Artesanato;\n\ne) Animação cultural;\n\nf) Comunicação;\n\ng) Ambiente;\n\nh) Serviços (preferencialmente os que sejam prestados e dirigidos a empresas);\n\ni) Actividades que apresentem uma inovação relevante ou factores dinâmicos de competitividade, como a qualidade ou o design.\n\n2 - A definição destas actividades é feita de acordo com o actual Código das Actividades Económicas (CAE)."
+  },
+  "1080486675": {
+   "fragment_id": "1080486575",
+   "type": 11,
+   "heading": "5.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — Despesas não elegíveis\n\nNão se consideram despesas elegíveis as efectuadas com:\n\na) Aquisição de terrenos, com excepção dos projectos que integrem o sector da indústria extractiva ou para a execução dos quais tal se demonstre ser absolutamente indispensável;\n\nb) Construção ou aquisição de instalações e trespasses, nas áreas do comércio e serviços;\n\nc) Despesas com aquisição de equipamento em estado de uso, salvo em circunstâncias excepcionais, devidamente fundamentadas pelo promotor;\n\nd) Todas as rubricas de investimento que não apresentem suficiente justificação ou relevante importância para o desenvolvimento da actividade ou cujo valor não corresponda aos valores correntes do mercado."
+  },
+  "1080485375": {
+   "fragment_id": "1080485275",
+   "type": 11,
+   "heading": "6.º — Natureza e cálculo dos incentivos a fundo perdido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º — Natureza e cálculo dos incentivos a fundo perdido\n\n1 - O subsídio a fundo perdido para investimento, previsto na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, será calculado pela aplicação de uma taxa ao montante das despesas elegíveis do projecto.\n\n2 - A taxa referida no número anterior terá o valor de 50%, podendo ser majorada em 10 pontos percentuais, cumulativamente, por cada uma das seguintes condições:\n\na) Projectos que se realizem e desenvolvam a sua actividade em localizações prioritárias ou em actividades prioritárias, definidas através de portaria conjunta dos membros do Governo responsáveis pelas áreas da juventude e do desenvolvimento regional;\n\nb) Projectos cujos promotores sejam maioritariamente constituídos por jovens à procura do primeiro emprego ou desempregados.\n\n3 - O subsídio a fundo perdido para a criação de postos de trabalho, previsto na alínea b) do n.º 1 do artigo 2.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, será calculado pelo produto do montante correspondente a 12 vezes o valor mais elevado da remuneração mínima nacional garantida por lei pelo número de novos postos de trabalho criados e preenchidos em resultado do projecto.\n\n4 - O subsídio a fundo perdido previsto no número anterior poderá ser majorado, cumultativamente, em 50% nos postos de trabalho a criar que vierem a ser preenchidos por jovens à procura do primeiro emprego ou desempregados e em 20% nos postos de trabalho a criar que vierem a ser preenchidos por mulheres.\n\n5 - O total dos subsídios previstos nos números anteriores não pode ultrapassar 85% das despesas elegíveis, excepto em projectos apresentados por empresas cujo capital social seja detido maioritariamente por desempregados ou jovens à procura do primeiro emprego, caso em que não pode ultrapassar o valor das despesas elegíveis."
+  },
+  "1080487375": {
+   "fragment_id": "1080487275",
+   "type": 11,
+   "heading": "7.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º — Decisão\n\n1 - As comissões técnicas do SAJE levam a efeito a análise do processo de candidatura e apresentam proposta de parecer à Comissão Nacional, no prazo de 25 dias úteis a contar da data de admissão da candidatura, excluindo-se do cômputo deste período:\n\na) Os prazos concedidos aos promotores para apresentação de esclarecimentos suplementares;\n\nb) O período que decorre entre a marcação e a realização da entrevista aos promotores do projecto;\n\nc) Os períodos necessários à análise das candidaturas por parte das entidades intervenientes no processo, por solicitação dos promotores e no âmbito dos apoios previstos nas alíneas c), d), e) e f) do n.º 1 do artigo 2.º do Decreto-Lei n.º 22/97, de 23 de Janeiro.\n\n2 - A Comissão Nacional submete, no prazo de 10 dias úteis, a lista dos projectos sobre os quais tenha deliberado à homologação dos membros do Governo responsáveis pelas áreas da juventude e do desenvolvimento regional.\n\n3 - A homologação da deliberação é comunicada pelo administrador ao promotor de cada candidatura no prazo de três dias úteis após a respectiva homologação.\n\n4 - O processo global de decisão deve estar concluído num prazo de 45 dias úteis contados à data de admissão da candidatura."
+  },
+  "1080485175": {
+   "fragment_id": "1080485075",
+   "type": 11,
+   "heading": "8.º — Contrato de concessão de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º — Contrato de concessão de incentivos\n\nA Fundação da Juventude é a entidade responsável pela celebração do contrato de concessão do incentivo, bem como pelo acompanhamento e fiscalização da aplicação dos apoios concedidos."
+  },
+  "1023472575": {
+   "fragment_id": "1023472475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O disposto no artigo 19.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, que criou o Sistema de Apoio a Jovens Empresários (SAJE), prevê que o respectivo regulamento de aplicação seja aprovado por resolução do Conselho de Ministros.\n\nAssim:\n\nNos termos da alínea g) do n.º 1 do artigo 202.º da Constituição, o Conselho de Ministros resolveu:"
+  },
+  "1080487575": {
+   "fragment_id": "1080485275",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza e cálculo dos incentivos a fundo perdido",
+   "in_force_from": "1998-05-09",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 58-A/98 - Diário da República n.º 102/1998, 2º Suplemento, Série I-B de 1998-05-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-a-1998-432620), em vigor a partir de 1998-05-09."
+   ],
+   "markdown": "###### Artigo 6.º — Natureza e cálculo dos incentivos a fundo perdido\n\n1 - O subsídio a fundo perdido para investimento, previsto na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, será calculado pela aplicação de uma taxa ao montante das despesas elegíveis do projecto.\n\n2 - A taxa referida no número anterior terá o valor de 35%, podendo ser majorada cumulativamente em cada uma das seguintes condições:\n\na) Majoração de 10 pontos percentuais em projectos que se realizem e desenvolvam a sua actividade em localizações prioritárias ou em actividades prioritárias, definidas através de portaria conjunta dos membros do Governo responsáveis pelas áreas da juventude e do desenvolvimento regional;\n\nb) Majoração de 15 pontos percentuais em projectos cujos promotores sejam maioritariamente constituídos por jovens à procura do primeiro emprego ou desempregados.\n\n3 - O subsídio a fundo perdido para a criação de postos de trabalho, previsto na alínea b) do n.º 1 do artigo 2.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, será calculado pelo produto do montante correspondente a seis vezes o valor mais elevado da remuneração mínima nacional garantida por lei pelo número de novos postos de trabalho criados e preenchidos em resultado do projecto.\n\n4 - O subsídio a fundo perdido previsto no número anterior poderá ser majorado:\n\na) Em 6 vezes o valor mais elevado da remuneração mínima nacional garantida por lei nos postos de trabalho a criar que vierem a ser preenchidos por jovens à procura do primeiro emprego, desempregados há mais de um ano e menos de dois, com habilitações de nível 3 ou superior e beneficiários do rendimento mínimo garantido;\n\nb) Em 12 vezes o valor mais elevado da remuneração mínima nacional garantida por lei nos postos de trabalho a criar que vierem a ser preenchidos por desempregados há mais de dois anos ou cidadãos portadores de deficiência.\n\n5 - O subsídio apurado com base nos n.os 3 e 4 do presente artigo será majorado em 20% nos postos de trabalho a criar que vierem a ser preenchidos por mulheres.\n\n6 - O total dos subsídios previstos nos números anteriores não pode ultrapassar 55% das despesas elegíveis, excepto em projectos apresentados por empresas cujo capital social seja detido exclusivamente por jovens à procura do primeiro emprego ou desempregados, caso em que não pode ultrapassar 75% das despesas elegíveis.\n\n7 - Consideram-se elegíveis para efeitos de cálculo do incentivo as despesas de investimento corpóreo e incorpóreo, até ao limite de 70000 contos.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 58-A/98 - Diário da República n.º 102/1998, 2º Suplemento, Série I-B de 1998-05-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-a-1998-432620), em vigor a partir de 1998-05-09."
+  },
+  "1080484375": {
+   "fragment_id": "1080484275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 9 de Janeiro de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1082956475": {
+   "fragment_id": "1080485775",
+   "type": 11,
+   "heading": "1.º — Candidaturas",
+   "in_force_from": "2000-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+   ],
+   "markdown": "###### 1.º — Candidaturas\n\nAs candidaturas ao Sistema de Apoio a Jovens Empresários (SAJE), criado pelo Decreto-Lei n.º 22/97, de 23 de Janeiro, são apresentadas nas comissões técnicas através de formulários, a fornecer por estas, devendo apresentar-se um original e duas cópias do processo.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+  },
+  "1082956575": {
+   "fragment_id": "1080485975",
+   "type": 11,
+   "heading": "2.º — Processo de candidatura",
+   "in_force_from": "2000-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+   ],
+   "markdown": "###### 2.º — Processo de candidatura\n\n1 - O processo de candidatura deve ser composto pelos seguintes elementos:\n\na) Formulário de candidatura devidamente preenchido;\n\nb) Documentos comprovativos do cumprimento dos requisitos previstos nas alíneas a), b) e c) do artigo 3.º do Decreto-Lei n.º 22/97, de 23 de Janeiro;\n\nc) Declaração de intenção de financiamento por parte de uma instituição de crédito, quando haja lugar ao financiamento bancário, ou indicação da instituição à qual a candidatura irá ser submetida para análise;\n\nd) Declaração de intenção de afectação do projecto à região por um período mínimo de quatro anos;\n\ne) Análise demonstrativa do equilíbrio económico e financeiro pré-projecto da empresa, nos termos da alínea d) do artigo 3.º do Decreto-Lei n.º 22/97, de 23 de Janeiro;\n\nf) Documentos comprovativos do cumprimento de todos os requisitos técnicos e legais necessários à instalação e desenvolvimento da actividade, nos termos da alínea e) do artigo 3.º do Decreto-Lei n.º 22/97, de 23 de Janeiro;\n\ng) Estudo de viabilidade económica e financeira do projecto, incluindo o custo do investimento devidamente justificado e comprovado por orçamentos;\n\nh) Estudo de mercado adequado à natureza e dimensão do projecto.\n\n2 - Os processos de candidatura apresentados por promotores na situação de primeiro emprego deverão incluir uma declaração da segurança social que certifique a inexistência de qualquer registo na mesma.\n\n3 - Os processos de candidatura apresentados por promotores na situação de desemprego deverão incluir uma declaração do centro de emprego comprovativa dessa condição.\n\n4 - Podem ser solicitados aos promotores dos projectos esclarecimentos complementares, os quais deverão ser apresentados no prazo de 20 dias úteis após a respectiva solicitação, ficando durante esse período suspensa a contagem dos prazos.\n\n5 - A não apresentação dos esclarecimentos complementares no prazo fixado no número anterior implica a não aceitação da candidatura, excepto quando devidamente justificada ou não imputável ao promotor.\n\n6 - A alínea e) do n.º 1 não é aplicável aos projectos de criação de empresas.\n\n7 - A alínea f) do n.º 1 não é aplicável aos projectos apresentados por promotores individuais, estando, no entanto, condicionada a atribuição de incentivo em caso de aprovação ao cumprimento das condições previstas na alínea referida.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+  },
+  "1082956675": {
+   "fragment_id": "1080486175",
+   "type": 11,
+   "heading": "3.º — Verificação das condições de acesso do projecto",
+   "in_force_from": "2000-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+   ],
+   "markdown": "###### 3.º — Verificação das condições de acesso do projecto\n\n1 - Para efeitos do disposto na alínea b) do artigo 4.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, considera-se que um projecto é viável económica e financeiramente quando se verificam as seguintes condições:\n\na) O investimento previsto contemplar todas as rubricas necessárias à completa implementação do projecto;\n\nb) Os proveitos e custos previsionais encontrarem-se correctamente estimados e justificados todos os cálculos e métodos de previsão utilizados;\n\nc) Os índices de rendibilidade estimados (taxa interna de rendibilidade, valor actualizado líquido e prazo de recuperação do investimento) apresentarem resultados conclusivos quanto à viabilidade do projecto;\n\nd) A autonomia financeira da empresa apurada nos seus balanços previsionais ser sempre igual ou superior a 15%, sendo calculada através da aplicação da seguinte fórmula:\n\nAutonomia financeira = (Capital próprio da empresa/Activo líquido da empresa)\n\n2 - A alínea d) do número anterior não se aplica aos projectos apresentados por empresas cujo capital social seja detido maioritariamente por desempregados ou jovens à procura do primeiro emprego.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+  },
+  "1082956775": {
+   "fragment_id": "1080486375",
+   "type": 11,
+   "heading": "4.º — Tipos de projectos",
+   "in_force_from": "2000-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+   ],
+   "markdown": "###### 4.º — Tipos de projectos\n\n1 - Nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, o SAJE apoia projectos que visem a criação, expansão e modernização de empresas, designadamente nas seguintes áreas:\n\na) Indústria;\n\nb) Comércio;\n\nc) Turismo;\n\nd) Artesanato;\n\ne) Animação cultural;\n\nf) Comunicação;\n\ng) Ambiente;\n\nh) Serviços (preferencialmente os que sejam prestados e dirigidos a empresas);\n\ni) Actividades que apresentem uma inovação relevante ou factores dinâmicos de competitividade, como a qualidade ou o design.\n\n2 - A definição destas actividades é feita de acordo com o actual Código das Actividades Económicas (CAE).\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+  },
+  "1082956875": {
+   "fragment_id": "1080486575",
+   "type": 11,
+   "heading": "5.º — Despesas não elegíveis",
+   "in_force_from": "2000-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+   ],
+   "markdown": "###### 5.º — Despesas não elegíveis\n\nNão se consideram despesas elegíveis as efectuadas com:\n\na) Aquisição de terrenos, com excepção dos projectos que integrem o sector da indústria extractiva ou para a execução dos quais tal se demonstre ser absolutamente indispensável;\n\nb) Construção ou aquisição de instalações e trespasses, nas áreas do comércio e serviços;\n\nc) Despesas com aquisição de equipamento em estado de uso, salvo em circunstâncias excepcionais, devidamente fundamentadas pelo promotor;\n\nd) Todas as rubricas de investimento que não apresentem suficiente justificação ou relevante importância para o desenvolvimento da actividade ou cujo valor não corresponda aos valores correntes do mercado.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+  },
+  "1082956975": {
+   "fragment_id": "1080485275",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza e cálculo dos incentivos a fundo perdido",
+   "in_force_from": "2000-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30.",
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 58-A/98 - Diário da República n.º 102/1998, 2º Suplemento, Série I-B de 1998-05-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-a-1998-432620), em vigor a partir de 1998-05-09."
+   ],
+   "markdown": "###### Artigo 6.º — Natureza e cálculo dos incentivos a fundo perdido\n\n1 - O subsídio a fundo perdido para investimento, previsto na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, será calculado pela aplicação de uma taxa ao montante das despesas elegíveis do projecto.\n\n2 - A taxa referida no número anterior terá o valor de 35%, podendo ser majorada cumulativamente em cada uma das seguintes condições:\n\na) Majoração de 10 pontos percentuais em projectos que se realizem e desenvolvam a sua actividade em localizações prioritárias ou em actividades prioritárias, definidas através de portaria conjunta dos membros do Governo responsáveis pelas áreas da juventude e do desenvolvimento regional;\n\nb) Majoração de 15 pontos percentuais em projectos cujos promotores sejam maioritariamente constituídos por jovens à procura do primeiro emprego ou desempregados.\n\n3 - O subsídio a fundo perdido para a criação de postos de trabalho, previsto na alínea b) do n.º 1 do artigo 2.º do Decreto-Lei n.º 22/97, de 23 de Janeiro, será calculado pelo produto do montante correspondente a seis vezes o valor mais elevado da remuneração mínima nacional garantida por lei pelo número de novos postos de trabalho criados e preenchidos em resultado do projecto.\n\n4 - O subsídio a fundo perdido previsto no número anterior poderá ser majorado:\n\na) Em 6 vezes o valor mais elevado da remuneração mínima nacional garantida por lei nos postos de trabalho a criar que vierem a ser preenchidos por jovens à procura do primeiro emprego, desempregados há mais de um ano e menos de dois, com habilitações de nível 3 ou superior e beneficiários do rendimento mínimo garantido;\n\nb) Em 12 vezes o valor mais elevado da remuneração mínima nacional garantida por lei nos postos de trabalho a criar que vierem a ser preenchidos por desempregados há mais de dois anos ou cidadãos portadores de deficiência.\n\n5 - O subsídio apurado com base nos n.os 3 e 4 do presente artigo será majorado em 20% nos postos de trabalho a criar que vierem a ser preenchidos por mulheres.\n\n6 - O total dos subsídios previstos nos números anteriores não pode ultrapassar 55% das despesas elegíveis, excepto em projectos apresentados por empresas cujo capital social seja detido exclusivamente por jovens à procura do primeiro emprego ou desempregados, caso em que não pode ultrapassar 75% das despesas elegíveis.\n\n7 - Consideram-se elegíveis para efeitos de cálculo do incentivo as despesas de investimento corpóreo e incorpóreo, até ao limite de 70000 contos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 58-A/98 - Diário da República n.º 102/1998, 2º Suplemento, Série I-B de 1998-05-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-a-1998-432620), em vigor a partir de 1998-05-09."
+  },
+  "1082957075": {
+   "fragment_id": "1080487275",
+   "type": 11,
+   "heading": "7.º — Decisão",
+   "in_force_from": "2000-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+   ],
+   "markdown": "###### 7.º — Decisão\n\n1 - As comissões técnicas do SAJE levam a efeito a análise do processo de candidatura e apresentam proposta de parecer à Comissão Nacional, no prazo de 25 dias úteis a contar da data de admissão da candidatura, excluindo-se do cômputo deste período:\n\na) Os prazos concedidos aos promotores para apresentação de esclarecimentos suplementares;\n\nb) O período que decorre entre a marcação e a realização da entrevista aos promotores do projecto;\n\nc) Os períodos necessários à análise das candidaturas por parte das entidades intervenientes no processo, por solicitação dos promotores e no âmbito dos apoios previstos nas alíneas c), d), e) e f) do n.º 1 do artigo 2.º do Decreto-Lei n.º 22/97, de 23 de Janeiro.\n\n2 - A Comissão Nacional submete, no prazo de 10 dias úteis, a lista dos projectos sobre os quais tenha deliberado à homologação dos membros do Governo responsáveis pelas áreas da juventude e do desenvolvimento regional.\n\n3 - A homologação da deliberação é comunicada pelo administrador ao promotor de cada candidatura no prazo de três dias úteis após a respectiva homologação.\n\n4 - O processo global de decisão deve estar concluído num prazo de 45 dias úteis contados à data de admissão da candidatura.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+  },
+  "1082959175": {
+   "fragment_id": "1080485075",
+   "type": 11,
+   "heading": "8.º — Contrato de concessão de incentivos",
+   "in_force_from": "2000-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+   ],
+   "markdown": "###### 8.º — Contrato de concessão de incentivos\n\nA Fundação da Juventude é a entidade responsável pela celebração do contrato de concessão do incentivo, bem como pelo acompanhamento e fiscalização da aplicação dos apoios concedidos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+  },
+  "1082959275": {
+   "fragment_id": "1080484275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2000-09-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+   ],
+   "markdown": "Presidência do Conselho de Ministros, 9 de Janeiro de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 231/2000 - Diário da República n.º 222/2000, Série I-A de 2000-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2000-559631), em vigor a partir de 2000-09-30."
+  }
+ }
+}

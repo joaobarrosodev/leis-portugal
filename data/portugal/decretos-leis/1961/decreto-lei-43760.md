@@ -1,0 +1,143 @@
+---
+schema_version: '1.0'
+id: pt:dre:171351:por
+title: Decreto-Lei n.º 43760
+short_title: null
+summary: Cria no Ministério da Saúde e Assistência uma comissão de reapetrechamento dos hospitais, encarregada de submeter
+  à aprovação os planos de aplicação da verba inscrita de acordo com o disposto no § único do artigo 12.º da Lei n.º 2106
+  na despesa extraordinária do orçamento daquele Ministério
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e da Saúde e Assistência
+proposing_entity: null
+official_number: '43760'
+official_date: null
+publication_date: '1961-06-29'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 149/1961, Série I de 1961-06-29
+  number: '149'
+  series: I
+  supplement: null
+  pages: 767 - 767
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/06/14900/07670767.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '171351'
+  dre_path: /dr/detalhe/decreto-lei/43760-1961-171351
+  internal: pt:dre:171351:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43760-1961-171351
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43760-1961-171351
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:37:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3e8df3474086f4b51183bab944e83b7d40b9ff089f3c7b9a41e07faebb6be40a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Reapetrechamento dos Hospitais
+- Ministério da Saúde e Assistência
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:314073:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:412818:por
+  label: "Alterados os artigos 2.º e 5.º pelo DEC LEI.476/73.25.09.1973.MF, DG.IS [225] de 25.09.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/476-1973-412818
+  date: '1973-09-25'
+- type: amended_by
+  target: pt:dre:314073:por
+  label: "Extinta, a partir de 01.01.1984 a Comissão de Reapetrechamento dos Hospitais, criada pelo presente diploma pelo\
+    \ DEC LEI.458/83.30.12.1983.PCM, DR.IS [300-Supl] de 30.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-1983-314073
+  date: '1983-12-30'
+- type: cites
+  target: pt:dre:513578:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:37:22Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43760
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É criada no Ministério da Saúde e Assistência uma comissão de reapetrechamento dos hospitais, encarregada de submeter à aprovação dos Ministros das Finanças e da Saúde e Assistência os planos de aplicação da verba inscrita de acordo com o disposto no § único do artigo 12.º da [Lei n.º 2106](https://diariodarepublica.pt/dr/detalhe/lei/2106-1960-513578), de 21 de Dezembro de 1960, na despesa extraordinária do orçamento do Ministério da Saúde e Assistência.
+
+Art. 2.º A comissão será constituída pelo vice-presidente do Conselho Coordenador do Ministério da Saúde e Assistência, que presidirá, pelo director-geral da Contabilidade Pública e por um director-geral do Ministério da Saúde e Assistência ou por um administrador dos hospitais a designar pelo Ministro da Saúde e Assistência.
+
+Art. 3.º É autorizado o Ministro da Saúde e Assistência a constituir, mediante proposta da comissão, grupos de trabalho encarregados de averiguar as necessidades dos diferentes hospitais no que respeita a material.
+
+Art. 4.º Os membros da comissão, do conselho administrativo e dos grupos de trabalho terão direito a abono de ajudas de custo e de transportes quando se desloquem por motivo de serviço.
+
+§ único. Todos os encargos resultantes do presente diploma serão pagos pela verba global destinada ao reapetrechamento hospitalar.
+
+Art. 5.º A administração de fundos afectos ao reapetrechamento dos estabelecimentos hospitalares compete a um conselho administrativo constituído pelo director-geral da Contabilidade Pública, que presidirá, por um director-geral do Ministério da Saúde e Assistência a designar pelo respectivo Ministro e por um funcionário superior especializado em administração pública, que coadjuvará o presidente.
+
+§ único. O funcionário superior referido no presente artigo será proposto pelo presidente do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência.
+
+Art. 6.º Compete especialmente ao conselho administrativo:
+
+1.º Promover a aquisição e distribuição do material destinado aos estabelecimentos hospitalares, de harmonia com o plano superiormente aprovado;
+
+2.º Organizar a escrituração pormenorizada das despesas;
+
+3.º Providenciar para que as verbas sob a sua administração sejam aplicadas por forma a obter-se delas o máximo rendimento útil;
+
+4.º Apresentar, dentro do prazo de 60 dias, as contas de cada ano de actividade da comissão à aprovação do Ministro da Saúde e Assistência e visto do Ministro das Finanças, os quais, a serem concedidos, legitimam a competente prestação de contas.
+
+Art. 7.º Os levantamentos de fundos por conta das verbas inscritas para os fins deste diploma serão efectuados em folhas especiais processadas pelo conselho administrativo e remetidas à 3.ª Repartição da Direcção-Geral da Contabilidade Pública para efeitos de autorização de pagamento; as respectivas importâncias serão depositadas, em conta especial, na Caixa Geral de Depósitos, Crédito e Previdência, fazendo-se a sua movimentação por meio de cheques assinados por dois dos membros.
+
+§ único. Poderá o conselho administrativo manter em cofre um fundo permanente até à importância de 5000$00.
+
+Art. 8.º As remunerações certas serão fixadas por proposta do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência. Estes abonos e as restantes despesas estão apenas sujeitos ao visto do diretor-geral da Contabilidade Pública.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 29 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

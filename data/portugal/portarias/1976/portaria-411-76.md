@@ -1,0 +1,792 @@
+---
+schema_version: '1.0'
+id: pt:dre:430439:por
+title: Portaria n.º 411/76
+short_title: null
+summary: Expropria vários prédios rústicos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e Pescas
+proposing_entity: null
+official_number: 411/76
+official_date: null
+publication_date: '1976-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 160/1976, Série I de 1976-07-10
+  number: '160'
+  series: I
+  supplement: null
+  pages: 1521 - 1527
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16000/15211527.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '430439'
+  dre_path: /dr/detalhe/portaria/411-1976-430439
+  internal: pt:dre:430439:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/411-1976-430439
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/411-1976-430439
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:03:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a2664f0325afe87c461a5affdb41e356b681d0fbcfb39c812bae8e0045d3dd28
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
+relationships:
+- type: amended_by
+  target: pt:dre:603521:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:476548:por
+  label: "Derrogada, na parte referente ao prédio rústico \"Herdade dos Judeus\", pela PORT.7/79.04.01.1979.MAP, DR.IS [3]\
+    \ de 04.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/7-1979-476548
+  date: '1979-01-04'
+- type: amended_by
+  target: pt:dre:476553:por
+  label: "Derrogada, na parte referente aos prédios rústicos \"Quinta de Santo António\" e \"Belo\", pela PORT.6/79.04.01.1979.MAP,\
+    \ DR.IS [3] de 04.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/6-1979-476553
+  date: '1979-01-04'
+- type: amended_by
+  target: pt:dre:392049:por
+  label: "Derrogada, na parte referente ao prédio rústico \"Campo Grande\", pela PORT.23/79.17.01.1979.MAP, DR.IS [14] de\
+    \ 17.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23-1979-392049
+  date: '1979-01-17'
+- type: amended_by
+  target: pt:dre:381369:por
+  label: "Desanexado e transmitido o domínio a favor da Câmara Municipal de Alter do Chão do prédio rústico denominado «Tapada\
+    \ do Corvo-Talho das Almas-Horta» expropriado pelo presente diploma, pela PORT.391/79.03.08.1979.MFP, DR.IS [178] de 03.08.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-1979-381369
+  date: '1979-08-03'
+- type: amended_by
+  target: pt:dre:678065:por
+  label: "Derrogada, em parte pela PORT.117/80.15.03.1980.MAP, DR.IS [63] de 15.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/117-1980-678065
+  date: '1980-03-15'
+- type: amended_by
+  target: pt:dre:678066:por
+  label: "Derrogada, em parte, pela PORT.119/80.15.03.1980.MAP, DR.IS [63] de 15.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/119-1980-678066
+  date: '1980-03-15'
+- type: amended_by
+  target: pt:dre:677663:por
+  label: "Derrogada em parte pela PORT.153/80.02.04.1980.MAP, DR.IS [78] de 02.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/153-1980-677663
+  date: '1980-04-02'
+- type: amended_by
+  target: pt:dre:682040:por
+  label: "Derrogada em parte pela PORT.166/80.10.04.1980.MAP, DR.IS [84] de 10.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/166-1980-682040
+  date: '1980-04-10'
+- type: amended_by
+  target: pt:dre:475343:por
+  label: "Derrogado, na parte que respeita ao prédio rústico denominado «Herdade do Vale de Junco e Anexos», pela PORT.231/80.07.05.1980.MAP,\
+    \ DR.IS [105] de 07.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/231-1980-475343
+  date: '1980-05-07'
+- type: amended_by
+  target: pt:dre:473535:por
+  label: "Derrogada parcialmente pela PORT.362/80.01.07.1980.MAP, DR.IS [149] de 01.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/362-1980-473535
+  date: '1980-07-01'
+- type: amended_by
+  target: pt:dre:472485:por
+  label: "Derrogada parcialmente pela PORT.413/80.18.07.1980.MAP, DR.IS [164] de 18.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1980-472485
+  date: '1980-07-18'
+- type: amended_by
+  target: pt:dre:461836:por
+  label: "Desanexado o prédio rústico denominado «Ferragial da Casa de Bragança», expropriado pelo presente diploma, pela\
+    \ PORT.716/80.24.09.1980.MFP, DR.IS [221] de 24.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-1980-461836
+  date: '1980-09-24'
+- type: amended_by
+  target: pt:dre:457432:por
+  label: "Derrogado o presente diploma na parte que respeita aos prédios rústicos Abrunheira e Abrunheira de Cima, sitos na\
+    \ freguesia e concelho de Sousel, pela PORT.960/80.10.11.1980.MAP, DR.IS [260] de 10.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/960-1980-457432
+  date: '1980-11-10'
+- type: amended_by
+  target: pt:dre:563802:por
+  label: "Desanexado parte do prédio rústico Herdade do Monte do Outeiro, expropriado pela PORT.838/81.24.09.1981.MFP, DR.IS\
+    \ [220] de 24.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/838-1981-563802
+  date: '1981-09-24'
+- type: amended_by
+  target: pt:dre:540831:por
+  label: "Derrogada relativamente ao prédio rústico \"Herdade das Ferrarias\" pela PORT.29/83.1983.01.08.MACP DR.IS [6]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-1983-540831
+  date: '1983-01-08'
+- type: amended_by
+  target: pt:dre:2129924:por
+  label: DERROGADA EM PARTE PELA PORT 350/92IIS DA PCM, MA DR.IIS [264] DE 14/NOV/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/350-1992-2129924
+  date: '1992-11-14'
+- type: amended_by
+  target: pt:dre:968632:por
+  label: DERROGADA EM PARTE PELA PORT 378/92IIS DA PCM, MA DR.IIS [290] DE 17/DEZ/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1992-968632
+  date: '1992-12-17'
+- type: amended_by
+  target: pt:numero:portaria:122/93
+  label: DERROGADA EM PARTE PELA PORT 122/93IIS DA PCM, MA DR.IIS [117] DE 20/MAI/1993
+  source: null
+  date: '1993-05-20'
+- type: amended_by
+  target: pt:numero:portaria:191/93
+  label: DERROGADA EM PARTE PELA PORT 191/93IIS DE 27-AGO DA PCM, MA DR.IIS [212] DE 09/SET/1993
+  source: null
+  date: '1993-09-09'
+- type: amended_by
+  target: pt:numero:portaria:330/95
+  label: DERROGADA EM PARTE PELA PORT 330/95IIS DE 25-SET DA PCM, MA DR.IIS [232] DE 07/OUT/1995 DR.IIS [232] DE 07/OUT/1995
+  source: null
+  date: '1995-10-07'
+- type: amended_by
+  target: pt:dre:2053421:por
+  label: "Derrogada parte da presente portaria pela PORT.735/98(2ªSÉRIE).1998.07.23.PCM, DR.IIS [178] de 04/Ago/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/735-1998-2053421
+  date: '1998-07-23'
+- type: amended_by
+  target: pt:dre:1932470:por
+  label: "Derrogada relativamente aos prédios rústicos \"Chainça (arts. 39 e 195 da secção Q), Bagarro, Talho da Almas e Olival\
+    \ Grande da Misericórdia\" pela PORT.422/99(2ªSÉRIE).1999.04.09.PCM DR.IIS [98] de 27/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/422-1999-1932470
+  date: '1999-04-09'
+- type: amended_by
+  target: pt:dre:2743745:por
+  label: "Derrogada parcialmente pela PORT.1315/99(2ªSÉRIE).1999.11.30.PCM, DR.IIS [295] de 21/Dez/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1315-1999-2743745
+  date: '1999-11-30'
+- type: amended_by
+  target: pt:dre:2118399:por
+  label: "Derrogado, relativamente aos prédios rústicos denominados \"Romeiras\" e \"Soromonheiro\", pela PORT.328/2000(2ªSÉRIE).2000.02.15.PCM\
+    \ DR.IIS [53] DE 03/MAR/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/328-2000-2118399
+  date: '2000-02-15'
+- type: amended_by
+  target: pt:dre:2586038:por
+  label: "Derrogada, na parte em que expropria o prédio rústico denominado «Coutada», pela PORT.1156/2000(2ªSÉRIE).2000.07.20.PCM,\
+    \ DR.IIS [182] de 08/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1156-2000-2586038
+  date: '2000-07-20'
+- type: amended_by
+  target: pt:dre:2566218:por
+  label: "Derrogada em parte pela PORT.1242/2002(2ªSÉRIE).2002.07.29.PCM DR.IIS [194] DE 23/JUL/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1242-2002-2566218
+  date: '2002-07-29'
+- type: amended_by
+  target: pt:dre:3260136:por
+  label: "Derrogada relativamente ao prédio rústico \"Tapadas\" pela PORT.889/2003(2ªSÉRIE).2003.06.25.PCM, DR.IIS [158] de\
+    \ 11/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/889-2003-3260136
+  date: '2003-06-25'
+- type: amended_by
+  target: pt:dre:603521:por
+  label: "Derrogada, na parte em que procede à expropriação do prédio rústico denominado «Tapada Vaz e Verdugo», pela PORT.356/2009.06.04.2009.PCM,\
+    \ DR.IS [67] de 06.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/356-2009-603521
+  date: '2009-04-06'
+- type: cites
+  target: pt:dre:307375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501575:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:03:59Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 411/76
+
+de 10 de Julho
+
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, sob proposta do Instituto de Reorganização Agrária:
+
+I
+
+Nos termos dos artigos 1.º e 8.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, expropriar os prédios rústicos abaixo discriminados, propriedades de:
+
+Alice Godinho Pinheiro Dias Coutinho:
+
+(Desta proprietária foram expropriados vários prédios rústicos pela [Portaria n.º 139/76](https://diariodarepublica.pt/dr/detalhe/portaria/139-1976-501575).)
+
+1 - Herdade do Casão. - Situado na freguesia e concelho de Sousel, matriz cadastral 3-M, com a área de 48,0500 ha (34338 pontos).
+
+2 - Olival do Camarinho. - Situado na freguesia e concelho de Sousel, matriz cadastral 18-M, com a área de 10,0500 ha (7098 pontos).
+
+3 - Olival das Três Carreiras. - Situado na freguesia e concelho de Sousel, matriz cadastral 15-M, com a área de 3,0750 ha (1840 pontos).
+
+4 - Olival das Almas. - Situado na freguesia e concelho de Sousel, matriz cadastral 22-M, com a área de 4,4000 ha (2120 pontos).
+
+5 - Olival do Rolhão. - Situado na freguesia e concelho de Sousel, matriz cadastral 95-M, com a área de 8,0500 ha (3384 pontos).
+
+André Luna Pais:
+
+6 - Marateca. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 69-I, com a área de 129,5500 ha (28255 pontos).
+
+7 - Monte Novo. - Situado na freguesia de Ervedal, concelho de Avis, matriz cadastral 7-G, com a área de 193,7000 ha (47563 pontos).
+
+António Flores Ribeiro, José Flores Ribeiro, Luís Flores Ribeiro, Maria João Mendes Flores Ribeiro e Maria Teresa Mendes Flores Ribeiro:
+
+8 - Herdade da Ferraria. - Situado na freguesia de Chancelaria, concelho de Alter do Chão, matriz cadastral 11-L2, com a área de 286,3500 ha (67784 pontos).
+
+António Frade Caldeira de Castel Branco:
+
+(Este proprietário já foi expropriado pela [Portaria n.º 560/75](https://diariodarepublica.pt/dr/detalhe/portaria/560-1975-307375).)
+
+9 - Herdadinha. - Situado na freguesia de Seda, concelho de Alter do Chão, matriz cadastral 2-G-G1, com a área de 699,3750 ha.
+
+10 - Sobral. - Situado na freguesia de Seda, concelho de Alter do Chão, matriz cadastral G-E, com a área de 15,7250 ha.
+
+11 - Mangas. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 4-G, com a área de 5,2500 ha.
+
+12 - Teresa. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 118-Q, com a área de 4,4500 ha.
+
+13 - S. Pedro. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 36-G, com a área de 6,3750 ha.
+
+António João Trindade Henriques:
+
+14 - Machoquinho. - Situado na freguesia de Fortios, concelho de Portalegre, matriz cadastral 18-E, com a área de 197,6500 ha.
+
+15 - Monte Nogueiro. - Situado na freguesia de Fortios, concelho de Portalegre, matriz cadastral 20-F, com a área de 80,5250 ha.
+
+16 - Almeijão. - Situado na freguesia de Crato e Mártires, concelho do Crato, matriz cadastral 3-HH-HH1, com a área de 618,5750 ha.
+
+António Maria Sommer de Andrade e Branca Sommer de Andrade:
+
+17 - Coutada de Barros. - Situado na freguesia de Crato e Mártires, concelho do Crato, matriz cadastral 1-D-D1-D2, com a área de 823,0250 ha.
+
+Arnaldo Gomes de Almeida:
+
+18 - Montinho. - Situado na freguesia e concelho de Sousel, matriz cadastral 3-F, com a área de 80,4500 ha (10881 pontos).
+
+19 - Abrunheira de Baixo. - Situado na freguesia e concelho de Sousel, matriz cadastral 4-B, com a área de 115,6250 ha (19768 pontos).
+
+20 - Abrunheira de Cima. - Situado na freguesia e concelho de Sousel, matriz cadastral 5-B, com a área de 102,8000 ha (19498 pontos).
+
+21 - Olival Atrás da Serra. - Situado na freguesia e concelho de Sousel, matriz cadastral 1-M, com a área de 17,4750 ha (12682 pontos).
+
+22 - Vinha dos A bibes. - Situado na freguesia e concelho de Sousel, matriz cadastral 22-I, com a área de 10,0500 ha (3720 pontos).
+
+23 - Tapada à Fonte do Concelho. - Situado na freguesia e concelho de Sousel, matriz cadastral 45-A, com a área de 10,5000 ha (2859 pontos).
+
+24 - Farrapia. - Situado na freguesia e concelho de Sousel, matriz cadastral 20-I, com a área de 5,7250 ha (1418 pontos).
+
+25 - Olival a Monte Ruivo. - Situado na freguesia e concelho de Sousel, matriz cadastral 110-N, com a área de 0,2250 ha (226 pontos).
+
+26 - Olival a Roca. - Situado na freguesia e concelho de Sousel, matriz cadastral 8-N, com a área de 1,4500 ha (870 pontos).
+
+27 - Olival do Amaro. - Situado na freguesia e concelho de Sousel, matriz cadastral 119-N, com a área de 0,3250 ha (142 pontos).
+
+28 - Olival do Carrilho. - Situado na freguesia e concelho de Sousel, matriz cadastral 118-N, com a área de 1,2750 ha (816 pontos).
+
+29 - Olival a Vila Sara. - Situado na freguesia e concelho de Sousel, matriz cadastral 164-N, com a área de 2,1750 ha (804 pontos).
+
+30 - Olival das Pedras. - Situado na freguesia e concelho de Sousel, matriz cadastral 400-L, com a área de 0,9750 ha (530 pontos).
+
+31 - Ferragial aos Bacelos. - Situado na freguesia e concelho de Sousel, matriz cadastral 384-L, com a área de 0,5750 ha (171 pontos).
+
+32 - Olival do Queimado. - Situado na freguesia e concelho de Sousel, matriz cadastral 380-L, com a área de 0,4250 ha (186 pontos).
+
+33 - Olival das Vazes. - Situado na freguesia e concelho de Sousel, matriz cadastral 68-M, com a área de 0,6500 ha (78 pontos).
+
+34 - Olival a Chão dos Maias. - Situado na freguesia e concelho de Sousel, matriz cadastral 303-L, com a área de 0,2500 ha (229 pontos).
+
+35 - Olival ao Chão dos Maias. - Situado na freguesia e concelho de Sousel, matriz cadastral 293-L, com a área de 0,8750 ha (612 pontos).
+
+36 - Couto Novo 2 Traço. - Situado na freguesia e concelho de Sousel, matriz cadastral 101-I, com a área de 2,5500 ha (859 pontos).
+
+37 - Courela do Tiago. - Situado na freguesia e concelho de Sousel, matriz cadastral 209-A, com a área de 2,3750 ha (783 pontos).
+
+38 - Horta Primeira. - Situado na freguesia e concelho de Sousel, matriz cadastral 115-A, com a área de 1,7750 ha (372 pontos).
+
+39 - Courela a Vale de Codes. - Situado na freguesia e concelho de Sousel, matriz cadastral 86-A, com a área de 0,9250 ha (254 pontos).
+
+40 - Tapada à Fonte do Convento. - Situado na freguesia e concelho de Sousel, matriz cadastral 39-A, com a área de 1,0500 ha (236 pontos).
+
+41 - Capela. - Situado na freguesia e concelho de Sousel, matriz cadastral 2-A, com a área de 5,3000 ha (825 pontos).
+
+42 - Quinta. - Situado na freguesia e concelho de Sousel, matriz cadastral 98-A, com a área de 1,1500 ha (369 pontos).
+
+43 - Horta dos Lentiscais. - Situado na freguesia e concelho de Sousel, matriz cadastral 176-L, com a área de 7,1000 ha (1773 pontos).
+
+44 - Olival Frei Lourenço as Catelas. - Situado na freguesia e concelho de Sousel, matriz cadastral 27-N, com a área de 1,3750 ha (1142 pontos).
+
+45 - Olival de Ana Costa e Carrapechal. - Situado na freguesia e concelho de Sousel, matriz cadastral 415-L, com a área de 3,6500 ha (1527 pontos).
+
+Artur Teles Barradas de Carvalho:
+
+(Deste proprietário foram expropriados vários prédios rústicos pela [Portaria n.º 560/75](https://diariodarepublica.pt/dr/detalhe/portaria/560-1975-307375).)
+
+46 - Entre Caminhos. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 125-Q, com a área de 1,0000 ha.
+
+47 - Vale da Pia. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 32-F-I, com a área de 5,2000 ha.
+
+48 - Courela da Canada. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 55-D, com a área de 4,6750 ha.
+
+49 - Courela das Pitas. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 53-D, com a área de 5,9250 ha.
+
+Augusto Firmino Marchante:
+
+50 - Herdade do Chaparral. - Situado na freguesia e concelho de Sousel, matriz cadastral 2-H, com a área de 182,8250 ha (23216,06 pontos).
+
+51 - Quinta Nova. - Situado na freguesia e concelho de Sousel, matriz cadastral 46-A, com a área de 3,6250 há (1944 pontos).
+
+52 - Tapada do Vencerei. - Situado na freguesia e concelho de Sousel, matriz cadastral 104-A, com a área de 2,9500 ha (814,5 pontos).
+
+53 - Olival do Moreira Chão dos Maias. - Situado na freguesia e concelho de Sousel, matriz cadastral 295-L, com a área de 0,9250 ha (629,01 pontos).
+
+54 - Couto Novo e Traço. - Situado na freguesia e concelho de Sousel, matriz cadastral 46-I, com a área de 0,7000 ha (195 pontos).
+
+55 - Olival do Faustino. - Situado na freguesia e concelho de Sousel, matriz cadastral 87-N, com a área de 0,5500 ha (374 pontos).
+
+56 - Ribeiro da Catela. - Situado na freguesia e concelho de Sousel, matriz cadastral 45-N, com a área de 0,5500 ha (220,5 pontos).
+
+57 - Varandinhas. - Situado na freguesia e concelho de Sousel, matriz cadastral 190-N, com a área de 8,4750 ha (6783,25 pontos).
+
+58 - Olival Pequeno à Cova Maria Caldeira. - Situado na freguesia e concelho de Sousel, matriz cadastral 55-N, com a área de 0,3000 ha (227 pontos).
+
+59 - Bacelos de Cima. - Situado na freguesia e concelho de Sousel, matriz cadastral 418-L, com a área de 2,2750 ha (1517,75 pontos).
+
+60 - Olival a Bacelos de Cima Murteira. - Situado na freguesia e concelho de Sousel, matriz cadastral 401-L, com a área de 0,3250 ha (133,25 pontos).
+
+61 - Barreiro Alto. - Situado na freguesia e concelho de Sousel, matriz cadastral 60-N, com a área de 0,3000 ha (213 pontos).
+
+62 - Olival dos Bugalhos. - Situado na freguesia e concelho de Sousel, matriz cadastral 56-N, com a área de 0,5750 ha (413,26 pontos).
+
+63 - Barreiro Alto. - Situado na freguesia e concelho de Sousel, matriz cadastral 185-N, com a área de 0,5500 ha (407,5 pontos).
+
+64 - Olival a Santo António. - Situado na freguesia e concelho de Sousel, matriz cadastral 49-N, com a área de 5,7250 ha (3169,51 pontos).
+
+65 - Olival a Santo António. - Situado na freguesia e concelho de Sousel, matriz cadastral 57-N, com a área de 1,4750 ha (1209,5 pontos).
+
+66 - Olival da Faustina e Frades. - Situado na freguesia e concelho de Sousel, matriz cadastral 221-N. com a área de 2,9500 ha (1769,76 pontos).
+
+67 - Olival ao Poço dos Vieiros. - Situado na freguesia e concelho de Sousel, matriz cadastral 87-M, com a área de 12,8750 ha (4915,45 pontos).
+
+68 - Taleigo. - Situado na freguesia e concelho de Sousel, matriz cadastral 6-G, com a área de 0,7500 ha (108,5 pontos).
+
+69 - Taleigo. - Situado na freguesia e concelho de Sousel, matriz cadastral 4-G, com a área de 1,0250 ha (144,75 pontos).
+
+70 - Olival ao Chão dos Maias. - Situado na freguesia e concelho de Sousel, matriz cadastral 342-L, com a área de 0,7250 ha (607,16 pontos).
+
+71 - Olival do Santo António. - Situado na freguesia e concelho de Sousel, matriz cadastral 192-N, com a área de 2,1500 ha (1526,5 pontos).
+
+72 - Olival do Elevador. - Situado na freguesia e concelho de Sousel, matriz cadastral 209-N, com a área de 0,5000 ha (139,5 pontos).
+
+73 - Olival das Caeiras. - Situado na freguesia e concelho de Sousel, matriz cadastral 51-M, com a área de 9,6250 ha (5783,75 pontos).
+
+74 - Olival do Barão. Situado na freguesia e concelho de Sousel, matriz cadastral 34-N, com a área de 2,0500 ha (1537,5 pontos).
+
+75 - Olival da Lã Branca a Bacelos Cima. - Situado na freguesia e concelho de Sousel, matriz cadastral 411-L, com a área de 0,6250 ha (375,01 pontos).
+
+76 - Chão dos Maias. - Situado na freguesia e concelho de Sousel, matriz cadastral 336-L, com a área de 0,3250 ha (269,75 pontos).
+
+77 - Canafechal. - Situado na freguesia e concelho de Sousel, matriz cadastral 403-L, com a área de 3,7000 ha (2051,5 pontos).
+
+Carlos da Silva Telo Rasquilha:
+
+78 - Pereiras. - Situado na freguesia de Caia e S. Pedro, concelho de Elvas, matriz cadastral 1-E, com a área de 138,7750 ha (28138 pontos).
+
+79 - Perdiganejo. - Situado na freguesia de Caia e S. Pedro, concelho de Elvas, matriz cadastral 3-E, com a área de 143,1750 ha (32673 pontos).
+
+Cipriano Mendes Dordio:
+
+[Este proprietário possui na freguesia e concelho de Fronteira o prédio rústico Alagoinha e Amendoeira, matriz cadastral 4-X, com a área de 377,5000 ha (91102 pontos).]
+
+80 - Vinhas Velhas. - Situado na freguesia de Cano, concelho de Sousel, matriz cadastral 23-G, com a área de 0,0250 ha (29 pontos).
+
+81 - Vale de Cabras. - Situado na freguesia de Cano, concelho de Sousel, matriz cadastral 54-G, com a área de 2,5000 ha (931 pontos).
+
+82 - Courela do Duque. - Situado na freguesia de Cano, concelho de Sousel, matriz cadastral 68-G, com a área de 2,3750 ha (584 pontos).
+
+83 - Outeiro das Jardas. - Situado na freguesia de Cano, concelho de Sousel, matriz cadastral 76-G, com a área de 4,0500 ha (1698 pontos).
+
+84 - Herdade da Roca. - Situado na freguesia de Cano, concelho de Sousel, matriz cadastral 121-G, com a área de 65,4250 ha (19052 pontos).
+
+Ernesto Mexia de Almeida:
+
+85 - Herdade da Seixa. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 40-G, com a área de 351,8250 ha (78891 pontos).
+
+Fernando Teixeira Valadares Couceiro:
+
+(Este proprietário possui na freguesia de Valongo, concelho de Avis, o prédio rústico Herdade de Cavalinhos, matriz cadastral 1-A, com a área de 702,4750 ha.)
+
+86 - Cortiço. - Situado na freguesia de Seda, concelho de Alter do Chão, matriz cadastral 2-N, com a área de 26,7000 ha (5358 pontos).
+
+Francisca Etiene Fernandes Telo Rasquilha:
+
+(Esta proprietária possui ainda os seguintes prédios rústicos não ocupados na freguesia de Assunção, concelho de Arronches: Caminhos, matriz cadastral 1-U, com a área de 240,0000 ha, e Casa Branca, matriz cadastral 2-C, com a área de 236,3500 ha.)
+
+87 - Herdade da Amoreira. - Situado na freguesia de S. Brás e S. Lourenço, concelho de Elvas, matriz cadastral 2-H, com a área de 274,6750 ha.
+
+88 - Herdade da Pina. - Situado na freguesia de Assunção, concelho de Arronches, matriz cadastral 7-HH, com a área de 204,6750 ha.
+
+Francisco Manuel Pina:
+
+(Deste proprietário foram expropriados vários prédios rústicos pelas Portarias n.os [560/75](https://diariodarepublica.pt/dr/detalhe/portaria/560-1975-307375) e [680/75](https://diariodarepublica.pt/dr/detalhe/portaria/680-1975-310415).)
+
+89 - Cambites. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 20-Q, com a área de 0,7500 ha.
+
+90 - Tapada Vaz e Verdugo. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 29-F1, com a área de 6,4750 ha.
+
+91 - Entre-Caminhos. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 30-Q, com a área de 0,3750 ha.
+
+92 - Herdade das Tapadas. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 1-G, com a área de 125,5000 ha.
+
+93 - Coutada. - Situado na freguesia de Cabeço de Vide, concelho de Fronteira, matriz cadastral 15-B, com a área de 186,5000 ha.
+
+94 - S. Domingos. - Situado na freguesia e concelho de Fronteira, matriz cadastral 1-A, com a área de 237,3500 ha.
+
+95 - Ladeira. - Situado na freguesia e concelho de Fronteira, matriz cadastral 3-A, com a área de 105,5750 ha.
+
+Francisco Mendes Pinto (herdeiros):
+
+96 - João Galego Norte. - Situado na freguesia de Aldeia Velha, concelho de Avis, matriz cadastral 4-H, com a área de 517,4500 ha (173437 pontos).
+
+Herdeiros de José Valentim Varela:
+
+97 - Zambujeira, Mendonça e Monte das Figueiras. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 1-D, com a área de 595,2000 ha (161739 pontos).
+
+98 - Javardinho. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 2-C, com a área de 22,1000 ha.
+
+João Alexandre Marques Pais:
+
+(Deste proprietário foram expropriados vários prédios rústicos pela [Portaria n.º 560/75](https://diariodarepublica.pt/dr/detalhe/portaria/560-1975-307375).)
+
+99 - Courela Fernando Campos. - Situado na freguesia de Seda, concelho de Alter do Chão, matriz cadastral 2-A1, com a área de 38,6000 ha.
+
+100 - Cascalhal. - Situado na freguesia de Seda, concelho de Alter do Chão, matriz cadastral 23-O, com a área de 1,9500 ha.
+
+101 - Tapada do Outeiro. - Situado na freguesia de Seda, concelho de Alter do Chão, matriz cadastral 26-O, com a área de 15,9000 ha.
+
+102 - Ferragial da Cava. - Situado na freguesia de Seda, concelho de Alter do Chão, matriz cadastral 59-O, com a área de 0,4250 ha.
+
+103 - Porto do Touro. - Situado na freguesia de Seda, concelho de Alter do Chão, matriz cadastral 2-P, com a área de 0,3000 ha.
+
+João Augusto Marchante:
+
+(Os prédios rústicos n.os 105, 106 e 107 foram vendidos à Sociedade Agrícola da Serra e Serrinha, com sede social em Sousel, em 16 de Janeiro de 1975.)
+
+104 - Serra e Serrinha. - Situado na freguesia e concelho de Sousel, matriz cadastral 1-P, com a área de 241,9750 ha (33082 pontos).
+
+105 - Horta do Marchante. - Situado na freguesia e concelho de Sousel, matriz cadastral 117-A, com a área de 17,9000 ha (4196 pontos).
+
+106 - Preguiças. - Situado na freguesia e concelho de Sousel, matriz cadastral 1-N, com a área de 18,2750 ha (12500 pontos).
+
+107 - Cova da Maria Caldeira. - Situado na freguesia e concelho de Sousel, matriz cadastral 90-N, com a área de 0,7250 ha (577 pontos).
+
+João da Costa Frade de Almeida:
+
+108 - Herdade do Judeu. - Situado na freguesia e concelho de Fronteira, matriz cadastral 2-M, com a área de 255,8750 ha (53852 pontos).
+
+João Estêvão Reynolds:
+
+109 - Vale Baleia. Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 2-L, com a área de 625,9750 ha (106786 pontos).
+
+Joaquim Firmino Costa Pinto:
+
+(Este proprietário possui ainda os seguintes prédios rústicos, que já foram propostos para expropriação: Samarruda, matriz cadastral 1-N, com a área de 415,5500 ha, situado na freguesia e concelho de Fronteira, e Vale da Amoreira, matriz cadastral 2-E, com a área, de 414,7750 ha, situado na freguesia e concelho de Fronteira.)
+
+110 - Ribeira de Vide. - Situado na freguesia e concelho de Fronteira, matriz cadastral 8-Q, com a área de 102,8000 ha.
+
+Joaquim Pedro Coelho Lopes Guerreiro, Maria Basílio Lopes Guerreiro, Rosa da Conceição Lopes Guerreiro e Maria Delmira Lopes Coelho Guerreiro:
+
+111 - Pernancha de Cima. - Situado na freguesia de Montargil, concelho de Ponte de Sor, matriz cadastral 1-K, com a área de 410,4275 ha (65904 pontos).
+
+Joaquim Pedro Martins:
+
+112 - Vale de Junco. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 14-F, com a área de 126,5250 ha (49038,85 pontos).
+
+113 - S. Pedro. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 80-A, com a área de 4,0000 ha (2508 pontos).
+
+114 - Courela da Eira. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 100-A, com a área de 2,7500 ha (368,25 pontos).
+
+115 - Dourada. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 13-N, com a área de 4,6750 ha (5612,5 pontos).
+
+116 - Vale Madeira. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 95-J com a área de 3,0750 ha (4366,5 pontos).
+
+117 - Monte das Figueiras. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 47-J, com a área de 1,4000 ha (1190 pontos).
+
+118 - Pocinho do Rei. Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 138-A, com a área de 1,5500 ha (310 pontos).
+
+119 - Valas Falsas. Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 118-A, com a área de 2,9750 ha (595 pontos).
+
+Joaquim Rovisco Andrade Carreço:
+
+120 - Abrunheira de Cima. - Situado na freguesia e concelho de Sousel, matriz cadastral 1-B, com a área de 96,6750 ha (19803 pontos).
+
+121 - Abrunheira. - Situado na freguesia e concelho de Sousel, matriz cadastral 2-B, com a área de 141,7250 ha (25886 pontos).
+
+122 - Olival à Serra de S. Bartolomeu. - Situado na freguesia e concelho de Sousel, matriz cadastral 45-M, com a área de 8,4250 ha (2406 pontos).
+
+Joaquim Rovisco Andrade Carreço e Irene Teles Varela Pais Rovisco:
+
+123 - Herdade do João Pardo. - Situado na freguesia e concelho de Sousel, matriz cadastral 93-M, com a área de 169,6250 ha (88438 pontos).
+
+José Alfredo Sardinha Coelho Sampaio (herdeiros):
+
+124 - Quinta de Santo António. - Situado na freguesia de Vaiamonte, concelho de Monforte, matriz cadastral 32-L, com a área de 246,1500 ha (43708 pontos).
+
+125 - Belo. - Situado na freguesia e concelho de Monforte, matriz cadastral 1-H, com a área de 55,3500 ha (7779 pontos).
+
+José Correia de Carvalho:
+
+126 - Monte Redondo. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 1-A, com a área de 353,5500 ha (54721 pontos).
+
+127 - Monte Redondo. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 4-A, com a área de 130,7000 ha (21426 pontos).
+
+128 - Santa Catarina. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 7-Q, com a área de 3,7750 ha (2246 pontos).
+
+José Manuel Vaz Monteiro de Góis du Bocage:
+
+129 - Bordalos. - Situado na freguesia de Alcórrego, concelho de Avis, matriz cadastral 1-B, com a área de 724,1250 ha.
+
+José Nunes Marques Adegas:
+
+(Deste proprietário foram expropriados vários prédios rústicos pelas Portarias n.os [680/75](https://diariodarepublica.pt/dr/detalhe/portaria/680-1975-310415) e [139/76](https://diariodarepublica.pt/dr/detalhe/portaria/139-1976-501575).)
+
+130 - Ichou ou Lagoinhas. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 5-Z, com a área de 89,4750 ha (25006 pontos).
+
+131 - Obreiras. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 30-Z, com a área de 33,1750 ha (11938 pontos).
+
+132 - Horta da Bica. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 58-Z, com a área de 2,6250 ha.
+
+133 - Obreiras. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 84-Z, com a área de 6,1000 ha.
+
+134 - Obreiras. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 83-Z, com a área de 0,6250 ha.
+
+135 - Obreiras. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 36-Z, com a área de 1,5000 ha.
+
+136 - Bouças. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 2-DD1, com a área de 65,6500 ha (7348 pontos).
+
+Laura Maria Marques Adegas, José Nunes Marques Adegas e Manuel Nunes Marques Adegas:
+
+(A proprietária Laura Maria Marques Adegas foi expropriada pela [Portaria n.º 680/75](https://diariodarepublica.pt/dr/detalhe/portaria/680-1975-310415). Os proprietários José Nunes Marques Adegas e Manuel Nunes Marques Adegas foram expropriados pelas Portarias n.os [680/75](https://diariodarepublica.pt/dr/detalhe/portaria/680-1975-310415) e [139/76](https://diariodarepublica.pt/dr/detalhe/portaria/139-1976-501575).)
+
+137 - Bujão. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 8-U, com a área de 163,1125 ha (21223 pontos).
+
+138 - Cabeceiros. - Situado na freguesia e concelho de Ponte Sor, matriz cadastral 3-AA1, com a área de 161,6250 ha (33348 pontos).
+
+Luciano Namorado:
+
+139 - Herdade da Saianda. - Situado na freguesia e concelho de Sousel, matriz cadastral 1-I, com a área de 302,5500 ha (52986 pontos).
+
+140 - Chão dos Maias. - Situado na freguesia e concelho de Sousel, matriz cadastral 322-L, com a área de 1,5750 ha (945 pontos).
+
+141 - Olival ao Chão dos Maias Pés Grossos. - Situado na freguesia e concelho de Sousel, matriz cadastral 282-L, com a área de 1,3250 ha (783 pontos).
+
+Manuel Rosado Marques Camões e Vasconcelos:
+
+(Este proprietário foi expropriado pela [Portaria n.º 680/75](https://diariodarepublica.pt/dr/detalhe/portaria/680-1975-310415).)
+
+142 - Campo Grande. - Situado na freguesia de Seda, concelho de Alter do Chão, matriz cadastral 2-E, com a área de 157,7930 ha (21941 pontos).
+
+Maria Amélia Biscaia Ferreira da Fonseca Bastos:
+
+143 - Herdade do Pereiro. - Situado na freguesia de Chancelaria, concelho de Alter do Chão, matriz cadastral 1-P, com a área de 563,0000 ha (199905 pontos).
+
+Maria Cecília Telo Rasquilha Abreu e filhos:
+
+144 - Herdade Monte Ruivo. - Situado na freguesia de S. Brás e S. Lourenço, concelho de Elvas, matriz cadastral 1-H, com a área de 87,1750 ha (10727 pontos).
+
+145 - Casal Novo. - Situado na freguesia de S. Brás e S. Lourenço, concelho de Elvas, matriz cadastral 3-H, com a área de 191,8000 ha (21503 pontos).
+
+146 - Vale de Figueira. - Situado na freguesia de S. Vicente e Ventosa, concelho de Elvas, matriz cadastral 4-K, com a área de 127,2750 ha (16119 pontos).
+
+147 - Vale de Figueira. - Situado na freguesia de S. Vicente e Ventosa, concelho de Elvas, matriz cadastral 3-K, com a área de 62,6000 ha (11079 pontos).
+
+148 - Herdade dos Ataques. - Situado na freguesia de S. Vicente e Ventosa, concelho de Elvas, matriz cadastral 1-K, com a área de 34,5500 ha (6381 pontos).
+
+149 - Vale Figueira. - Situado na freguesia de S. Vicente e Ventosa, concelho de Elvas, matriz cadastral 2-K, com a área de 20,7500 ha (3471 pontos).
+
+Maria Cordeiro Mendes Calado Caldeiro Branco:
+
+(Esta proprietária possui os seguintes prédios rústicos que já foram propostos para expropriação: S. Lourenço, situado na freguesia e concelho de Alter do Chão, matriz cadastral 1-I, com a área de 246,5750 ha (31099 pontos), e Cascalheira, situado na freguesia e concelho de Alter do Chão, matriz cadastral 1-K, com a área de 309,3500 ha (47877 pontos).
+
+150 - Cusfete. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 8-R, com a área de 5,3000 ha.
+
+151 - Cusfete. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 10-R, com a área de 4,3250 ha.
+
+152 - Cusfete. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 12-R, com a área de 26,5500 ha.
+
+Maria Ferreira Vaz Monteiro, Maria da Conceição Rosa Rodrigues Vaz Monteiro, Maria da Conceição Rodrigues Vaz Monteiro e Maria Leonor Rodrigues Vaz Monteiro:
+
+153 - Herdade do Arneiro e Marta. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 1-AA-AA1-AA2, com a área de 409,9250 ha.
+
+154 - Herdade do Monteiro. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 3-AA2-AA3, com a área de 303,5750 ha.
+
+Maria Fortunata Mendes Caldeira Castel-Branco, Maria José Mendes Caldeira Castel-Branco, Maria Ana Mendes Caldeira Castel-Branco e Maria Antónia Mendes Caldeira Castel-Branco:
+
+[Estes proprietários possuem o prédio rústico Herdade da Chancelaria, situado na freguesia e concelho de Alter do Chão, matriz cadastral 20-L1-L2, com a área de 1036,4500 ha (187042 pontos).]
+
+155 - Ordem. - Situado na freguesia de Cabeço de Vide, concelho de Fronteira, matriz cadastral 6-D, com a área de 264,3500 ha (37623 pontos).
+
+Maria da Graça Dias Costa Pinto:
+
+156 - Revenduda. - Situado na freguesia e concelho de Sousel, matriz cadastral 7-E, com a área de 287,7000 ha (60548 pontos).
+
+Maria Inês Gagliardini Graça Caldeira de Castel-Branco:
+
+[Esta proprietária possui ainda o direito a metade indivisa do seguinte prédio rústico: Monte Campo, situado na freguesia de Seda, concelho de Alter do Chão, com a área de 247,5000 ha (37782 pontos), matriz cadastral 2-F1.]
+
+157 - Monte Barrão. - Situado na freguesia de Seda, concelho de Alter do Chão, matriz cadastral 2-J, com a área de 249,8000 ha (33051 pontos).
+
+Maria Teresa Varela Lopes Prezado:
+
+(Esta proprietária já foi expropriada pela [Portaria n.º 680/75](https://diariodarepublica.pt/dr/detalhe/portaria/680-1975-310415).)
+
+158 - Murata. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 1-O, com a área de 152,5000 ha (48947 pontos).
+
+159 - Olival. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 2-O, com a área de 37,9250 ha (15180 pontos).
+
+160 - Louvada. - Situado na freguesia de Cano, concelho de Sousel, matriz cadastral 10-C, com a área de 178,3750 ha (32636 pontos).
+
+Mariana Julieta Gouveia de Matos Sá Gomes:
+
+161 - Herdades da Torre e Caieira. - Situado na freguesia de Cano, concelho de Sousel, matriz cadastral 2-H, com a área de 280,9500 ha (72692,37 pontos).
+
+162 - Álamo. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 3-P, com a área de 59,6250 ha (19830,25 pontos).
+
+163 - Olival do Chão dos Maias. - Situado na freguesia e concelho de Sousel, matriz cadastral 350-L, com a área de 0,9000 ha (1134 pontos).
+
+164 - Olival do Chão dos Maias. - Situado na freguesia e concelho de Sousel, matriz cadastral 301-L, com a área de 0,9750 ha (1306,50 pontos).
+
+165 - Olival do Chão dos Maias. - Situado na freguesia e concelho de Sousel, matriz cadastral 344-L, com a área de 1,0000 ha (1005,00 pontos).
+
+166 - Olival do Chão dos Maias. - Situado na freguesia e concelho de Sousel, matriz cadastral 323-L, com a área de 4,4500 ha (4051,50 pontos).
+
+Noémia Tacilda das Dores Pinto Rovisco:
+
+167 - Vencerei. - Situado na freguesia e concelho de Sousel, matriz cadastral 51-A, com a área de 1,425 ha (407 pontos).
+
+168 - Courela da Capela. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 2-B, com a área de 8,9250 ha (1160 pontos).
+
+169 - Capela. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 54-C, com a área de 297,4250 ha (119401 pontos).
+
+170 - Leões. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 2-E, com a área de 151,6000 ha (31346 pontos).
+
+Pedro Paulo Michelseu Garcia de Carvalho:
+
+171 - Herdade da Faia. - Situado na freguesia de Galveias, concelho de Ponte de Sor, matriz cadastral 1-I, com a área de 424,1000 ha.
+
+172 - Herdade da Tapada. - Situado na freguesia de Galveias, concelho de Ponte de Sor, matriz cadastral 1-M, com a área de 370,8250 ha.
+
+Rafael Cordeiro Mendes Calado:
+
+(Deste proprietário foram expropriados vários prédios rústicos pelas Portarias n.os [680/75](https://diariodarepublica.pt/dr/detalhe/portaria/680-1975-310415) e [139/76](https://diariodarepublica.pt/dr/detalhe/portaria/139-1976-501575).)
+
+173 - Cabeça da Azinheira. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 11-P, com a área de 9,9750 ha.
+
+174 - A Estrada de Portalegre. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 37-Q, com a área de 12,2250 ha.
+
+175 - Chainça. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 39-Q, com a área de 3,8500 ha.
+
+176 - Ferragial do Figueiredo. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 139-Q, com a área de 1,5000 ha.
+
+177 - Ferragial da Casa Branca. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 143-Q, com a área de 0,8750 ha.
+
+178 - Tapada do Corvo Talho Almas Horta. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 175-Q, com a área de 20,5500 ha.
+
+179 - Entre Caminhos. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 185-Q, com a área de 0,3250 ha.
+
+180 - Chainça. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 195-Q, com a área de 0,6250 ha.
+
+181 - Bagorro. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 205-Q, com a área de 0,6000 ha.
+
+182 - Talho das Almas. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 229-Q, com a área de 1,5500 ha.
+
+183 - Almanhares. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 2-L3, com a área de 83,8500 ha.
+
+184 - Olival Grande da Misericórdia. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 20-O, com a área de 8,2500 ha.
+
+185 - Tapada dos Foros e Herdade Couto de S. Romão. - Situado na freguesia e concelho de Alter do Chão, matriz cadastral 29-R, com a área de 92,8750 ha.
+
+Sociedade Agrícola Ameixial, S. A. R. L.:
+
+186 - Herdade das Romeiras. - Situado na freguesia e concelho de Sousel, matriz cadastral 96-M, com a área de 0,2250 ha (47,25 pontos).
+
+187 - Herdade do João Pedro. - Situado na freguesia e concelho de Sousel, matriz cadastral 94-M, com a área de 131,3250 ha (22488,76 pontos).
+
+188 - Herdade das Romeiras. - Situado na freguesia de Cano, concelho de Sousel, matriz cadastral 3-I, com a área de 223,5750 ha (271029,35 pontos).
+
+189 - Herdade do Seromenheiro. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 5-P, com a área de 282,1250 ha (61082,80 pontos).
+
+Sociedade Agrícola do Crato:
+
+190 - Lameira. - Situado na freguesia de Chancelaria, concelho de Alter do Chão, matriz cadastral 1-E-E1, com a área de 627,6000 ha (73079 pontos).
+
+Vítor Roberto Mendes Pinto:
+
+191 - Atalhadores Velhos; Formosa. - Situado na freguesia de Montargil, concelho de Ponte de Sor, matriz cadastral 1-LL-LL1, com a área de 873,2000 ha.
+
+Vitória Maria Mendes:
+
+192 - Herdade da Francaria. - Situado na freguesia de Casa Branca, concelho de Sousel, matriz cadastral 37-G, com a área de 175,6250 ha (54518 pontos).
+
+II
+
+De acordo com o n.º 1 do artigo 15.º do referido diploma, são declarados ineficazes todos os actos praticados desde 25 de Abril de 1974 que, por qualquer forma, tenham implicado diminuição da área do conjunto de prédios rústicos de cada proprietário.
+
+Ministério da Agricultura e Pescas, 24 de Junho de 1976. - O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso.

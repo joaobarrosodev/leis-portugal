@@ -1,0 +1,325 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25343981:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-175980889",
+ "dre_path": "/dr/detalhe/decreto-lei/55-2014-25343981",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-04-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175981076",
+    "175980858",
+    "175980859",
+    "175980860",
+    "175980861",
+    "175980862",
+    "175980863",
+    "175980864",
+    "175980865",
+    "175980866",
+    "175980867"
+   ]
+  },
+  {
+   "date": "2018-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117327593:por",
+     "title": "Decreto-Lei n.º 109-A/2018",
+     "published": "2018-12-07",
+     "dre_path": "/dr/detalhe/decreto-lei/109-a-2018-117327593"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "175980857",
+    "175980858",
+    "175980859",
+    "175980860",
+    "175980874",
+    "175980862",
+    "175980863",
+    "175981075",
+    "175980865",
+    "175980866",
+    "175980867",
+    "175980868"
+   ]
+  },
+  {
+   "date": "2021-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175923959:por",
+     "title": "Decreto-Lei n.º 114/2021",
+     "published": "2021-12-15",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2021-175923959"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "175981076",
+    "175981077",
+    "175981078",
+    "175981079",
+    "175981080",
+    "175981081",
+    "175981082",
+    "175981083",
+    "175981084",
+    "175981085",
+    "175981086",
+    "175981087"
+   ]
+  }
+ ],
+ "fragments": {
+  "175981076": {
+   "fragment_id": "175980890",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-12-16",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 55/2014\n\nde 9 de abril\n\nTendo em consideração a atual conjuntura económica e financeira do País, considera-se que o setor energético também deve participar, numa ótica de repartição justa e equitativa de sacrifícios, no esforço de consolidação das contas públicas que tem sido exigido à sociedade portuguesa. Esta participação, contudo não deve pôr em causa este importante vetor da economia portuguesa e pilar fundamental para o crescimento e desenvolvimento sustentável do país.\n\nAssim, no âmbito dos compromissos assumidos no Memorando de Entendimento sobre as Condicionalidades de Política Económica celebrado, em maio de 2011, entre o Estado Português, o Fundo Monetário Internacional, a Comissão Europeia e o Banco Central Europeu, o artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, que aprovou o Orçamento do Estado para 2014, veio criar a contribuição extraordinária sobre o setor energético, com o objetivo de financiar mecanismos que promovam a sustentabilidade sistémica do setor energético, designadamente através do financiamento de políticas do setor energético de cariz social e ambiental, de medidas relacionadas com a eficiência energética. Esta contribuição visa igualmente contribuir para a redução da dívida tarifária do Sistema Elétrico Nacional (SEN), designadamente, através da minimização dos encargos decorrentes de custos de interesse económico geral (CIEG), indo ao encontro dos princípios de apoio e proteção do consumidor de eletricidade decorrentes do Terceiro Pacote da Energia da União Europeia consubstanciado nas Diretivas n.º <a href=\"eurlex.asp?ano=2009&id=309L0072\" title=\"Link para Diretiva da Comunidade Europeia\">2009/72/CE</a>, do Parlamento Europeu e do Conselho, de 13 de julho de 2009, e n.º <a href=\"eurlex.asp?ano=2009&id=309L0073\" title=\"Link para Diretiva da Comunidade Europeia\">2009/73/CE</a>, do Parlamento Europeu e do Conselho, de 13 de julho de 2009. Para o efeito, foi determinada a consignação da receita obtida com a contribuição extraordinária sobre o setor energético ao Fundo para a Sustentabilidade Sistémica do Setor Energético (FSSSE), a criar no prazo de 60 dias a contar da entrada em vigor da referida lei.\n\nFoi ouvida a Entidade Reguladora dos Serviços Energéticos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "175980858": {
+   "fragment_id": "175980891",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e natureza\n\n1 - O presente decreto-lei cria, no âmbito do Ministério do Ambiente, Ordenamento do Território e Energia, o Fundo para a Sustentabilidade Sistémica do Setor Energético, doravante designado por FSSSE.\n\n2 - O FSSSE tem a natureza de património autónomo, sem personalidade jurídica e com autonomia administrativa e financeira."
+  },
+  "175980859": {
+   "fragment_id": "175980892",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO FSSSE visa contribuir para a promoção do equilíbrio e sustentabilidade sistémica do setor energético e da política energética nacional, designadamente através:\n\na) Do financiamento de políticas do setor energético de cariz social e ambiental, relacionadas com medidas de eficiência energética;\n\nb) Da redução da dívida tarifária do Sistema Elétrico Nacional (SEN), mediante a receita obtida com a contribuição extraordinária sobre o setor energético prevista no artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro."
+  },
+  "175980860": {
+   "fragment_id": "175980893",
+   "type": 11,
+   "heading": "Artigo 3.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Receitas\n\n1 - Constituem receitas do FSSSE:\n\na) O produto da contribuição extraordinária sobre o setor energético prevista no artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro;\n\nb) As dotações que lhe sejam afetas por lei;\n\nc) Os rendimentos provenientes de aplicações financeiras de capitais disponíveis;\n\nd) O produto de doações, heranças, legados ou qualquer outra contribuição;\n\ne) Quaisquer outras receitas que lhe sejam atribuídas por lei ou por negócio jurídico.\n\n2 - Os saldos que vierem a ser apurados no fim do ano económico transitam para o ano seguinte.\n\n3 - É vedado ao FSSSE contrair empréstimos sob qualquer forma bem como efetuar aplicações em que o capital investido não seja totalmente garantido.\n\n4 - O disposto no número anterior não prejudica a aplicação dos mecanismos de redução de dívida tarifária previstos no artigo 5.º\n\n5 - Os montantes arrecadados pela Autoridade Tributária e Aduaneira (AT) em cada mês, a título de contribuição extraordinária sobre o setor energético, são transferidos para o FSSSE até ao último dia útil do mês seguinte."
+  },
+  "175980861": {
+   "fragment_id": "175980894",
+   "type": 11,
+   "heading": "Artigo 4.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Despesas\n\n1 - Constituem despesas do FSSSE as que resultem de encargos decorrentes da aplicação do presente decreto-lei, designadamente:\n\na) Encargos necessários ou decorrentes da realização dos seus objetivos, conforme definidos no artigo 2.º;\n\nb) Encargos de liquidação e cobrança da contribuição extraordinária sobre o setor energético incorridos pela AT, correspondentes a uma percentagem de 3 % da receita referida na alínea a) do n.º 1 do artigo anterior.\n\n2 - As verbas do FSSSE devem ser alocadas de acordo com a seguinte ordem de prioridade:\n\na) Cobertura de encargos decorrentes da realização do objetivo definido na alínea a) do artigo 2.º no montante correspondente a dois terços da receita referida na alínea a) do n.º 1 do artigo anterior, até ao limite máximo de EUR 100 000 000,00;\n\nb) Cobertura de encargos decorrentes da realização do objetivo definido na alínea b) do artigo 2.º no montante remanescente.\n\n3 - O montante referido na alínea a) do número anterior inclui o montante referido na alínea b) do n.º 1."
+  },
+  "175980862": {
+   "fragment_id": "175980895",
+   "type": 11,
+   "heading": "Artigo 5.º — Redução da dívida tarifária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Redução da dívida tarifária\n\n1 - Para a prossecução dos objetivos referidos na alínea b) do artigo 2.º, o montante definido na alínea b) do n.º 2 do artigo anterior é deduzido aos custos de interesse económico geral (CIEG) a repercutir em cada ano na tarifa de uso global do sistema aplicável aos clientes finais e comercializadores, em conformidade com o disposto no número seguinte.\n\n2 - A repartição pelos CIEG do montante a deduzir nos termos do número anterior é definida por despacho do membro do Governo responsável pela área da energia.\n\n3 - O FSSSE pode ainda proceder à aquisição de créditos tarifários aos respetivos titulares.\n\n4 - Para efeitos do número anterior, entende-se por crédito tarifário o direito de receber, através das tarifas da eletricidade, os montantes relativos aos valores ou direitos correspondentes ao diferencial de custos que não forem repercutidos, no ano a que respeitam, dando origem a ajustamentos, diferimentos ou dívida de natureza tarifária, incluindo designadamente as seguintes rubricas:\n\na) Diferimentos tarifários estabelecidos no âmbito do Decreto-Lei n.º 165/2008, de 21 de agosto;\n\nb) Défice tarifário associado à limitação dos acréscimos tarifários de baixa tensão em 2006;\n\nc) Défice tarifário associado à limitação dos acréscimos tarifários de baixa tensão em 2007;\n\nd) Ajustamentos tarifários respeitantes ao diferencial de custo com a aquisição de eletricidade aos produtores com contratos de aquisição de energia incluídos nos custos do uso global do sistema;\n\ne) Ajustamentos tarifários respeitantes aos diferenciais de custo com a aquisição de energia aos produtores em regime especial;\n\nf) Diferimentos tarifários dos sobrecustos com a aquisição de energia aos produtores em regime especial, determinados nos termos do artigo 73.º-A do Decreto-Lei n.º 29/2006, de 15 de fevereiro, alterado pelos Decretos-Leis n.os 104/2010, de 29 de setembro, 78/2011, de 20 de junho, 75/2012, de 26 de março, 112/2012, de 23 de maio, e 215-A/2012, de 8 de outubro;\n\ng) Ajustamentos tarifários definidos na atividade de uso global do sistema do sistema do operador da rede de transporte que incluam custos relacionados com o regime de interruptibilidade;\n\nh) Ajustamentos tarifários das atividades reguladas da entidade concessionária do transporte e distribuidor vinculado da Região Autónoma da Madeira com incidência nos custos da convergência tarifária com as regiões autónomas suportada pelos consumidores de Portugal continental;\n\ni) Ajustamentos tarifários das atividades reguladas da entidade concessionária do transporte e distribuição da Região Autónoma dos Açores com incidência nos custos da convergência tarifária com as regiões autónomas suportada pelos consumidores de Portugal continental;\n\nj) Ajustamentos respeitantes à sustentabilidade entre o mercado livre e o mercado regulado nos termos do Regulamento Tarifário da Entidade Reguladora dos Serviços Energéticos (ERSE), com origem em exercícios tarifários anteriores;\n\nk) Acertos de faturação, a recuperar pelo operador da rede de distribuição, no âmbito da parcela fixa e da parcela de acerto dos Custos de Manutenção do Equilíbrio Contratual.\n\n5 - As entidades gestoras do FSSSE apenas podem intervir na aquisição de créditos a que se refere o n.º 3 depois de autorizadas mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e da energia, ouvida a ERSE.\n\n6 - A decisão de aquisição de créditos a que se refere o n.º 3 deve observar os princípios da minimização dos encargos com diferimentos tarifários na perspetiva do SEN, da transparência e da separação contabilística.\n\n7 - As entidades gestoras do FSSSE podem propor a extinção dos créditos adquiridos nos termos do n.º 3, com fundamento na inconveniência da sua efetiva cobrança, quando concluam que o interesse em diminuir a dívida tarifária existente prevalece sobre o interesse da cobrança efetiva dos créditos aos consumidores.\n\n8 - Os membros do Governo responsáveis pelas áreas das finanças e da energia podem, por despacho e após parecer da ERSE, decidir extinguir os créditos adquiridos nos termos do n.º 3."
+  },
+  "175980863": {
+   "fragment_id": "175980896",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidades gestoras\n\n1 - A gestão do FSSSE é atribuída:\n\na) À Direção-Geral de Energia e Geologia, na vertente técnica;\n\nb) À Direção-Geral do Tesouro, na vertente financeira.\n\n2 - A regulamentação necessária à gestão do FSSSE é aprovada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia."
+  },
+  "175980864": {
+   "fragment_id": "175980897",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências das entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências das entidades gestoras\n\n1 - Compete às entidades gestoras:\n\na) Assegurar o regular funcionamento do FSSSE;\n\nb) Decidir sobre as aplicações dos recursos financeiros do FSSSE, em cumprimento das orientações dos membros do Governo responsáveis pelas áreas das finanças e da energia;\n\nc) Elaborar a conta de gerência do FSSSE;\n\nd) Elaborar o plano de atividades e orçamento do FSSSE;\n\ne) Promover a criação, manutenção e gestão de uma conta exclusivamente destinada ao recebimento dos montantes transferidos pelo Estado nos termos previstos na Lei n.º 83-C/2013, de 31 de dezembro de 2013, e às transferências a efetuar ao abrigo do disposto no artigo 4.º;\n\nf) Apoiar o Governo, sempre que para tal seja solicitada, na definição de estratégias e na prossecução de atuações que contribuam para a defesa e sustentabilidade do setor energético;\n\ng) Desenvolver as ações necessárias para cumprimento dos objetivos do FSSSE.\n\n2 - As entidades gestoras podem encarregar algum ou alguns dos seus trabalhadores ou dirigentes do desempenho permanente de atividades que tenham a ver com a gestão ou o funcionamento do FSSSE."
+  },
+  "175980865": {
+   "fragment_id": "175980898",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio técnico, administrativo e logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio técnico, administrativo e logístico\n\n1 - O apoio técnico, administrativo e logístico necessário ao funcionamento do FSSSE e aos seus órgãos é assegurado pela Direção-Geral de Energia e Geologia.\n\n2 - O FSSSE funciona em instalações para o efeito disponibilizadas pela Direção-Geral da Energia e Geologia.\n\n3 - O FSSSE não possui mapa de pessoal."
+  },
+  "175980866": {
+   "fragment_id": "175980899",
+   "type": 11,
+   "heading": "Artigo 9.º — Avaliação do Fundo para a Sustentabilidade Sistémica do Setor Energético",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Avaliação do Fundo para a Sustentabilidade Sistémica do Setor Energético\n\nOs membros do Governo responsáveis pelas áreas das finanças e da energia avaliam, passado um ano sobre a entrada em vigor do presente decreto-lei, os pressupostos que justificaram a constituição do FSSSE."
+  },
+  "175980867": {
+   "fragment_id": "175980900",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\n1 - Cabe à Inspeção-Geral de Finanças, doravante designada IGF, assegurar o permanente acompanhamento do cumprimento do estatuído no presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades encarregues da inspeção e auditoria dos serviços do Estado.\n\n2 - Para efeitos do número anterior, a IGF deve, designadamente, proceder:\n\na) A auditorias, inspeções e outras ações de controlo à atividade do FSSSE, incluindo uma auditoria anual à sua gestão;\n\nb) A ações de inspeção junto das entidades financiadas pelo FSSSE."
+  },
+  "175980857": {
+   "fragment_id": "175980890",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 55/2014\n\nde 9 de abril\n\nTendo em consideração a atual conjuntura económica e financeira do País, considera-se que o setor energético também deve participar, numa ótica de repartição justa e equitativa de sacrifícios, no esforço de consolidação das contas públicas que tem sido exigido à sociedade portuguesa. Esta participação, contudo não deve pôr em causa este importante vetor da economia portuguesa e pilar fundamental para o crescimento e desenvolvimento sustentável do país.\n\nAssim, no âmbito dos compromissos assumidos no Memorando de Entendimento sobre as Condicionalidades de Política Económica celebrado, em maio de 2011, entre o Estado Português, o Fundo Monetário Internacional, a Comissão Europeia e o Banco Central Europeu, o artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, que aprovou o Orçamento do Estado para 2014, veio criar a contribuição extraordinária sobre o setor energético, com o objetivo de financiar mecanismos que promovam a sustentabilidade sistémica do setor energético, designadamente através do financiamento de políticas do setor energético de cariz social e ambiental, de medidas relacionadas com a eficiência energética. Esta contribuição visa igualmente contribuir para a redução da dívida tarifária do Sistema Elétrico Nacional (SEN), designadamente, através da minimização dos encargos decorrentes de custos de interesse económico geral (CIEG), indo ao encontro dos princípios de apoio e proteção do consumidor de eletricidade decorrentes do Terceiro Pacote da Energia da União Europeia consubstanciado nas Diretivas n.º <a href=\"eurlex.asp?ano=2009&id=309L0072\" title=\"Link para Diretiva da Comunidade Europeia\">2009/72/CE</a>, do Parlamento Europeu e do Conselho, de 13 de julho de 2009, e n.º <a href=\"eurlex.asp?ano=2009&id=309L0073\" title=\"Link para Diretiva da Comunidade Europeia\">2009/73/CE</a>, do Parlamento Europeu e do Conselho, de 13 de julho de 2009. Para o efeito, foi determinada a consignação da receita obtida com a contribuição extraordinária sobre o setor energético ao Fundo para a Sustentabilidade Sistémica do Setor Energético (FSSSE), a criar no prazo de 60 dias a contar da entrada em vigor da referida lei.\n\nFoi ouvida a Entidade Reguladora dos Serviços Energéticos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "175980874": {
+   "fragment_id": "175980894",
+   "type": 11,
+   "heading": "Artigo 4.º — Despesas",
+   "in_force_from": "2018-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-A/2018 - Diário da República n.º 236/2018, 1º Suplemento, Série I de 2018-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2018-117327593), em vigor a partir de 2018-12-08"
+   ],
+   "markdown": "###### Artigo 4.º — Despesas\n\n1 - Constituem despesas do FSSSE as que resultem de encargos decorrentes da aplicação do presente decreto-lei, designadamente:\n\na) Encargos necessários ou decorrentes da realização dos seus objetivos, conforme definidos no artigo 2.º;\n\nb) Encargos de liquidação e cobrança da contribuição extraordinária sobre o setor energético incorridos pela AT, correspondentes a uma percentagem de 3 % da receita referida na alínea a) do n.º 1 do artigo anterior.\n\n2 - As verbas do FSSSE são afetas aos seguintes fins:\n\na) Cobertura de encargos decorrentes da realização do objetivo definido na alínea a) do artigo 2.º no montante até um terço da receita referida na alínea a) do n.º 1 do artigo anterior;\n\nb) Cobertura de encargos decorrentes da realização do objetivo definido na alínea b) do artigo 2.º no montante remanescente.\n\n3 - O montante referido na alínea a) do número anterior inclui o montante referido na alínea b) do n.º 1.\n\n4 - A percentagem da alocação de verbas prevista na alínea a) do n.º 2 é definida por despacho dos membros do Governo responsáveis pelas áreas das finanças e da energia.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-A/2018 - Diário da República n.º 236/2018, 1º Suplemento, Série I de 2018-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2018-117327593), em vigor a partir de 2018-12-08"
+  },
+  "175981075": {
+   "fragment_id": "175980897",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências das entidades gestoras",
+   "in_force_from": "2018-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-A/2018 - Diário da República n.º 236/2018, 1º Suplemento, Série I de 2018-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2018-117327593), em vigor a partir de 2018-12-08"
+   ],
+   "markdown": "###### Artigo 7.º — Competências das entidades gestoras\n\n1 - Compete às entidades gestoras:\n\na) Assegurar o regular funcionamento do FSSSE;\n\nb) Decidir sobre as aplicações dos recursos financeiros do FSSSE, em cumprimento das orientações dos membros do Governo responsáveis pelas áreas das finanças e da energia;\n\nc) Elaborar a conta de gerência do FSSSE;\n\nd) Elaborar o plano de atividades e orçamento do FSSSE;\n\ne) Promover a criação, manutenção e gestão de uma conta exclusivamente destinada ao recebimento dos montantes transferidos pelo Estado nos termos previstos na Lei n.º 83-C/2013, de 31 de dezembro de 2013, e às transferências a efetuar ao abrigo do disposto no artigo 4.º;\n\nf) Apoiar o Governo, sempre que para tal seja solicitada, na definição de estratégias e na prossecução de atuações que contribuam para a defesa e sustentabilidade do setor energético;\n\ng) Desenvolver as ações necessárias para cumprimento dos objetivos do FSSSE.\n\nh) Elaborar, conjuntamente com a ERSE, relatório anual sobre o impacto nas tarifas anuais de uso global do sistema aplicável aos clientes finais e comercializadores dos consumos de energia elétrica resultantes da afetação da contribuição extraordinária sobre o setor energético aos CIEG e, em concreto, ao SPRE.\n\n2 - As entidades gestoras podem encarregar algum ou alguns dos seus trabalhadores ou dirigentes do desempenho permanente de atividades que tenham a ver com a gestão ou o funcionamento do FSSSE.\n\n3 - Para efeitos do disposto na alínea h) do n.º 1, as entidades gestoras devem dar a conhecer à ERSE as previsões dos montantes referidos no artigo 3.º a alocar às tarifas de cada ano, caso aplicável, até 15 de setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-A/2018 - Diário da República n.º 236/2018, 1º Suplemento, Série I de 2018-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2018-117327593), em vigor a partir de 2018-12-08"
+  },
+  "175980868": {
+   "fragment_id": "175980901",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de fevereiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.\n\nPromulgado em 31 de março de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 1 de abril de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "175981077": {
+   "fragment_id": "175980891",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e natureza",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e natureza\n\n1 - O presente decreto-lei cria, no âmbito do Ministério do Ambiente, Ordenamento do Território e Energia, o Fundo para a Sustentabilidade Sistémica do Setor Energético, doravante designado por FSSSE.\n\n2 - O FSSSE tem a natureza de património autónomo, sem personalidade jurídica e com autonomia administrativa e financeira.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "175981078": {
+   "fragment_id": "175980892",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO FSSSE visa contribuir para a promoção do equilíbrio e sustentabilidade sistémica do setor energético e da política energética nacional, designadamente através:\n\na) Do financiamento de políticas do setor energético de cariz social e ambiental, relacionadas com medidas de eficiência energética;\n\nb) Da redução da dívida tarifária do Sistema Elétrico Nacional (SEN), mediante a receita obtida com a contribuição extraordinária sobre o setor energético prevista no artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "175981079": {
+   "fragment_id": "175980893",
+   "type": 11,
+   "heading": "Artigo 3.º — Receitas",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Receitas\n\n1 - Constituem receitas do FSSSE:\n\na) O produto da contribuição extraordinária sobre o setor energético prevista no artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro;\n\nb) As dotações que lhe sejam afetas por lei;\n\nc) Os rendimentos provenientes de aplicações financeiras de capitais disponíveis;\n\nd) O produto de doações, heranças, legados ou qualquer outra contribuição;\n\ne) Quaisquer outras receitas que lhe sejam atribuídas por lei ou por negócio jurídico.\n\n2 - Os saldos que vierem a ser apurados no fim do ano económico transitam para o ano seguinte.\n\n3 - É vedado ao FSSSE contrair empréstimos sob qualquer forma bem como efetuar aplicações em que o capital investido não seja totalmente garantido.\n\n4 - O disposto no número anterior não prejudica a aplicação dos mecanismos de redução de dívida tarifária previstos no artigo 5.º\n\n5 - Os montantes arrecadados pela Autoridade Tributária e Aduaneira (AT) em cada mês, a título de contribuição extraordinária sobre o setor energético, são transferidos para o FSSSE até ao último dia útil do mês seguinte.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "175981080": {
+   "fragment_id": "175980894",
+   "type": 11,
+   "heading": "Artigo 4.º — Despesas",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-A/2018 - Diário da República n.º 236/2018, 1º Suplemento, Série I de 2018-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2018-117327593), em vigor a partir de 2018-12-08"
+   ],
+   "markdown": "###### Artigo 4.º — Despesas\n\n1 - Constituem despesas do FSSSE as que resultem de encargos decorrentes da aplicação do presente decreto-lei, designadamente:\n\na) Encargos necessários ou decorrentes da realização dos seus objetivos, conforme definidos no artigo 2.º;\n\nb) Encargos de liquidação e cobrança da contribuição extraordinária sobre o setor energético incorridos pela AT, correspondentes a uma percentagem de 3 % da receita referida na alínea a) do n.º 1 do artigo anterior.\n\n2 - As verbas do FSSSE são afetas aos seguintes fins:\n\na) Cobertura de encargos decorrentes da realização do objetivo definido na alínea a) do artigo 2.º no montante até um terço da receita referida na alínea a) do n.º 1 do artigo anterior;\n\nb) Cobertura de encargos decorrentes da realização do objetivo definido na alínea b) do artigo 2.º no montante remanescente.\n\n3 - O montante referido na alínea a) do número anterior inclui o montante referido na alínea b) do n.º 1.\n\n4 - A percentagem da alocação de verbas prevista na alínea a) do n.º 2 é definida por despacho dos membros do Governo responsáveis pelas áreas das finanças e da energia.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-A/2018 - Diário da República n.º 236/2018, 1º Suplemento, Série I de 2018-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2018-117327593), em vigor a partir de 2018-12-08"
+  },
+  "175981081": {
+   "fragment_id": "175980895",
+   "type": 11,
+   "heading": "Artigo 5.º — Redução da dívida tarifária",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Redução da dívida tarifária\n\n1 - Para a prossecução dos objetivos referidos na alínea b) do artigo 2.º, o montante definido na alínea b) do n.º 2 do artigo anterior é deduzido aos custos de interesse económico geral (CIEG) a repercutir em cada ano na tarifa de uso global do sistema aplicável aos clientes finais e comercializadores, em conformidade com o disposto no número seguinte.\n\n2 - A repartição pelos CIEG do montante a deduzir nos termos do número anterior é definida por despacho do membro do Governo responsável pela área da energia.\n\n3 - O FSSSE pode ainda proceder à aquisição de créditos tarifários aos respetivos titulares.\n\n4 - Para efeitos do número anterior, entende-se por crédito tarifário o direito de receber, através das tarifas da eletricidade, os montantes relativos aos valores ou direitos correspondentes ao diferencial de custos que não forem repercutidos, no ano a que respeitam, dando origem a ajustamentos, diferimentos ou dívida de natureza tarifária, incluindo designadamente as seguintes rubricas:\n\na) Diferimentos tarifários estabelecidos no âmbito do Decreto-Lei n.º 165/2008, de 21 de agosto;\n\nb) Défice tarifário associado à limitação dos acréscimos tarifários de baixa tensão em 2006;\n\nc) Défice tarifário associado à limitação dos acréscimos tarifários de baixa tensão em 2007;\n\nd) Ajustamentos tarifários respeitantes ao diferencial de custo com a aquisição de eletricidade aos produtores com contratos de aquisição de energia incluídos nos custos do uso global do sistema;\n\ne) Ajustamentos tarifários respeitantes aos diferenciais de custo com a aquisição de energia aos produtores em regime especial;\n\nf) Diferimentos tarifários dos sobrecustos com a aquisição de energia aos produtores em regime especial, determinados nos termos do artigo 73.º-A do Decreto-Lei n.º 29/2006, de 15 de fevereiro, alterado pelos Decretos-Leis n.os 104/2010, de 29 de setembro, 78/2011, de 20 de junho, 75/2012, de 26 de março, 112/2012, de 23 de maio, e 215-A/2012, de 8 de outubro;\n\ng) Ajustamentos tarifários definidos na atividade de uso global do sistema do sistema do operador da rede de transporte que incluam custos relacionados com o regime de interruptibilidade;\n\nh) Ajustamentos tarifários das atividades reguladas da entidade concessionária do transporte e distribuidor vinculado da Região Autónoma da Madeira com incidência nos custos da convergência tarifária com as regiões autónomas suportada pelos consumidores de Portugal continental;\n\ni) Ajustamentos tarifários das atividades reguladas da entidade concessionária do transporte e distribuição da Região Autónoma dos Açores com incidência nos custos da convergência tarifária com as regiões autónomas suportada pelos consumidores de Portugal continental;\n\nj) Ajustamentos respeitantes à sustentabilidade entre o mercado livre e o mercado regulado nos termos do Regulamento Tarifário da Entidade Reguladora dos Serviços Energéticos (ERSE), com origem em exercícios tarifários anteriores;\n\nk) Acertos de faturação, a recuperar pelo operador da rede de distribuição, no âmbito da parcela fixa e da parcela de acerto dos Custos de Manutenção do Equilíbrio Contratual.\n\n5 - As entidades gestoras do FSSSE apenas podem intervir na aquisição de créditos a que se refere o n.º 3 depois de autorizadas mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e da energia, ouvida a ERSE.\n\n6 - A decisão de aquisição de créditos a que se refere o n.º 3 deve observar os princípios da minimização dos encargos com diferimentos tarifários na perspetiva do SEN, da transparência e da separação contabilística.\n\n7 - As entidades gestoras do FSSSE podem propor a extinção dos créditos adquiridos nos termos do n.º 3, com fundamento na inconveniência da sua efetiva cobrança, quando concluam que o interesse em diminuir a dívida tarifária existente prevalece sobre o interesse da cobrança efetiva dos créditos aos consumidores.\n\n8 - Os membros do Governo responsáveis pelas áreas das finanças e da energia podem, por despacho e após parecer da ERSE, decidir extinguir os créditos adquiridos nos termos do n.º 3.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "175981082": {
+   "fragment_id": "175980896",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades gestoras",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Entidades gestoras\n\n1 - A gestão do FSSSE é atribuída:\n\na) À Direção-Geral de Energia e Geologia, na vertente técnica;\n\nb) À Direção-Geral do Tesouro, na vertente financeira.\n\n2 - A regulamentação necessária à gestão do FSSSE é aprovada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "175981083": {
+   "fragment_id": "175980897",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências das entidades gestoras",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-A/2018 - Diário da República n.º 236/2018, 1º Suplemento, Série I de 2018-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2018-117327593), em vigor a partir de 2018-12-08"
+   ],
+   "markdown": "###### Artigo 7.º — Competências das entidades gestoras\n\n1 - Compete às entidades gestoras:\n\na) Assegurar o regular funcionamento do FSSSE;\n\nb) Decidir sobre as aplicações dos recursos financeiros do FSSSE, em cumprimento das orientações dos membros do Governo responsáveis pelas áreas das finanças e da energia;\n\nc) Elaborar a conta de gerência do FSSSE;\n\nd) Elaborar o plano de atividades e orçamento do FSSSE;\n\ne) Promover a criação, manutenção e gestão de uma conta exclusivamente destinada ao recebimento dos montantes transferidos pelo Estado nos termos previstos na Lei n.º 83-C/2013, de 31 de dezembro de 2013, e às transferências a efetuar ao abrigo do disposto no artigo 4.º;\n\nf) Apoiar o Governo, sempre que para tal seja solicitada, na definição de estratégias e na prossecução de atuações que contribuam para a defesa e sustentabilidade do setor energético;\n\ng) Desenvolver as ações necessárias para cumprimento dos objetivos do FSSSE.\n\nh) Elaborar, conjuntamente com a ERSE, relatório anual sobre o impacto nas tarifas anuais de uso global do sistema aplicável aos clientes finais e comercializadores dos consumos de energia elétrica resultantes da afetação da contribuição extraordinária sobre o setor energético aos CIEG e, em concreto, ao SPRE.\n\n2 - As entidades gestoras podem encarregar algum ou alguns dos seus trabalhadores ou dirigentes do desempenho permanente de atividades que tenham a ver com a gestão ou o funcionamento do FSSSE.\n\n3 - Para efeitos do disposto na alínea h) do n.º 1, as entidades gestoras devem dar a conhecer à ERSE as previsões dos montantes referidos no artigo 3.º a alocar às tarifas de cada ano, caso aplicável, até 15 de setembro.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109-A/2018 - Diário da República n.º 236/2018, 1º Suplemento, Série I de 2018-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2018-117327593), em vigor a partir de 2018-12-08"
+  },
+  "175981084": {
+   "fragment_id": "175980898",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio técnico, administrativo e logístico",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Apoio técnico, administrativo e logístico\n\n1 - O apoio técnico, administrativo e logístico necessário ao funcionamento do FSSSE e aos seus órgãos é assegurado pela Direção-Geral de Energia e Geologia.\n\n2 - O FSSSE funciona em instalações para o efeito disponibilizadas pela Direção-Geral da Energia e Geologia.\n\n3 - O FSSSE não possui mapa de pessoal.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "175981085": {
+   "fragment_id": "175980899",
+   "type": 11,
+   "heading": "Artigo 9.º — Avaliação do Fundo para a Sustentabilidade Sistémica do Setor Energético",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Avaliação do Fundo para a Sustentabilidade Sistémica do Setor Energético\n\nOs membros do Governo responsáveis pelas áreas das finanças e da energia avaliam, passado um ano sobre a entrada em vigor do presente decreto-lei, os pressupostos que justificaram a constituição do FSSSE.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "175981086": {
+   "fragment_id": "175980900",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\n1 - Cabe à Inspeção-Geral de Finanças, doravante designada IGF, assegurar o permanente acompanhamento do cumprimento do estatuído no presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades encarregues da inspeção e auditoria dos serviços do Estado.\n\n2 - Para efeitos do número anterior, a IGF deve, designadamente, proceder:\n\na) A auditorias, inspeções e outras ações de controlo à atividade do FSSSE, incluindo uma auditoria anual à sua gestão;\n\nb) A ações de inspeção junto das entidades financiadas pelo FSSSE.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  },
+  "175981087": {
+   "fragment_id": "175980901",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de fevereiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.\n\nPromulgado em 31 de março de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 1 de abril de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01"
+  }
+ }
+}

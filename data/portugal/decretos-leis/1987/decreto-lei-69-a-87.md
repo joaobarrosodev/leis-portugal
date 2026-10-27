@@ -1,0 +1,405 @@
+---
+schema_version: '1.0'
+id: pt:dre:257422:por
+title: Decreto-Lei n.º 69-A/87
+short_title: null
+summary: Actualiza o salário mínimo nacional para o ano de 1987. Revoga todas as disposições anteriores, designadamente os
+  Decretos-Leis n.os 440/79, de 6 de Novembro, e 10/86, de 17 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 69-A/87
+official_date: null
+publication_date: '1987-02-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/1987, 2º Suplemento, Série I de 1987-02-09
+  number: '33'
+  series: I
+  supplement: 2º Suplemento
+  pages: 504-(27) a 504-(31)
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03302/00270031.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-03-28'
+version_history:
+  file: decreto-lei-69-a-87.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1987-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-08-11'
+    amending: pt:dre:435424:por
+    amending_title: Lei n.º 45/98
+    changes:
+    - Altera Artigo 4.º
+  - date: '1999-12-01'
+    amending: pt:dre:423061:por
+    amending_title: Lei n.º 118/99
+    changes:
+    - Altera Artigo 10.º
+  - date: '2021-03-28'
+    amending: pt:dre:159993990:por
+    amending_title: Decreto-Lei n.º 23/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/69-a/1987/p/cons/20210323/pt/html
+  oj: null
+  dre: '257422'
+  dre_path: /dr/detalhe/decreto-lei/69-a-1987-257422
+  internal: pt:dre:257422:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-a-1987-257422
+  metadata_url: https://data.dre.pt/eli/dec-lei/69-a/1987/p/cons/20210323/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1987-162654608
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1987-162654608
+  retrieved_at: '2026-10-22T12:41:25Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 2cc772fdc42de96c4d858e0c73c8852a2dc4904c1ab2cec79968121106c13e4a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:41:25Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-69-a-87.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Horário de Trabalho
+- Jovem Trabalhador
+- Salário Mínimo
+- Serviço Doméstico
+- Trabalhador Rural
+- Trabalhador do Serviço Doméstico
+- Trabalhador por Conta de Outrem
+relationships:
+- type: amended_by
+  target: pt:dre:435424:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/45-1998-435424
+  date: '1998-08-06'
+- type: amended_by
+  target: pt:dre:423061:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061
+  date: '1999-08-11'
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:41:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 69-A/87
+
+Decreto-Lei n.º 69-A/87
+
+de 9 de Fevereiro
+
+1. O presente diploma actualiza, para 1987, o valor do salário mínimo nacional, tendo em conta os factores a atender nos termos constitucionais.
+
+Com efeito, e no que respeita à indústria, comércio e serviços, além de atender à evolução da inflação prevista para 1987 (9%), tem também em conta a previsão de aumento da produtividade média (3%), daí resultando uma actualização de 12%, ou seja, um acréscimo de 3% no poder de compra dos trabalhadores abrangidos pelo salário mínimo nacional naqueles sectores, respeitando-se assim a recomendação do Conselho Permanente de Concertação Social (CPCS) sobre a política de rendimentos e preços para 1987.
+
+2. Para o estabelecimento do novo salário mínimo nacional, o Governo ouviu ainda o CPCS e teve em conta o parecer do Conselho Consultivo da Juventude (CCJ) sobre o salário mínimo dos jovens.
+
+Por outro lado, procede-se à revisão integral do regime jurídico que havia sido consagrado no Decreto-Lei n.º 440/79, de 6 de Novembro. A revisão obedece a um conjunto de linhas dominantes, de que se destacam as mencionadas nos pontos seguintes.
+
+3. Uniformização do salário mínimo. - Verifica-se que de 1978 (Decreto-Lei n.º 113/78, de 29 de Maio) a 1985 (Decreto-Lei n.º 49/85, de 27 de Fevereiro) a aproximação do valor do salário mínimo da agricultura ao do comércio, indústria e serviços foi nula, tendo o desnível de 1978 (14,1%) sido reproduzido em 1985, após um período intercalar de maior distanciamento percentual dos dois valores. Em 1986 (Decreto-Lei n.º 10/86, de 17 de Janeiro) houve um esforço de aproximação, que reduziu aquele distanciamento para 13,3%.
+
+Dá-se agora um salto qualitativo e quantitativo nítido, traduzido na redução do desnível para 11,1% e na consagração, no articulado, do objectivo de prosseguir a redução da diferenciação existente, numa estratégia de uniformização gradual.
+
+Idêntica política de aproximação é estabelecida no que respeita a trabalhadores de serviços domésticos.
+
+Num caso e no outro, por razões de conjuntura, não se foi ainda tão longe como era intenção do Governo, no sentido de estabelecer um valor único do salário mínimo nacional, com diferenciações percentuais.
+
+4. Salário mínimo para escalões etários mais novos. - Mereceu especial atenção o problema da remuneração dos jovens, tendo em conta dois vectores aparentemente incompatíveis:
+
+Por um lado, a exigência de justiça social de uniformizar valores o mais possível;
+
+Por outro, a constatação de que a população jovem é percentualmente mais afectada pelo desemprego que a população de escalões etários mais elevados e que é indispensável não eliminar abruptamente condições proporcionadoras da sua absorção no mercado do trabalho.
+
+A ponderação destes dois tipos de preocupações, acompanhada da consideração de que não são apenas medidas de desagravamento fiscal e parafiscal que dinamizarão o mercado de emprego dos jovens, conduziu à adopção de soluções que se considera irem ao encontro das aspirações veiculadas pelo CCJ. Assim:
+
+a) É fixada nos 18 anos a idade a partir da qual é devido o salário mínimo nacional. Neste aspecto, também, regressa-se à regra que já havia sido adoptada pelo Decreto-Lei n.º 113/78, de 29 de Maio;
+
+b) Para trabalhadores de idade inferior, e uma vez que continua a ser possível a celebração de contratos de trabalho com jovens a partir dos 14 anos (artigo 123.º do regime jurídico aprovado pelo Decreto-Lei n.º 49408, de 24 de Novembro de 1969), consagram-se dois escalões etários, em que o mais elevado sofre uma aproximação sensível do valor do salário mínimo para o trabalhador de 18 anos;
+
+c) Cria-se um sistema especial temporário de remuneração para os jovens até aos 25 anos que, por força do contrato de trabalho, se encontram numa situação caracterizável como de formação ou aprendizagem para uma profissão qualificada ou altamente qualificada. A contrário, se se encontrarem numa função produtiva, designadamente como indiferenciados, é-lhes devido de imediato o salário mínimo nacional.
+
+5. Remuneração de trabalhadores com capacidade de trabalho reduzida. - Pela primeira vez introduz-se regulamentação legal desta matéria, no seguimento do princípio consagrado no n.º 1 do artigo 126.º do regime jurídico aprovado pelo Decreto-Lei n.º 49408, de 24 de Novembro de 1969, suprindo uma lacuna manifesta, com o objectivo de propiciar condições que viabilizem o emprego de trabalhadores diminuídos na sua capacidade de trabalho.
+
+6. Regulamentação da integração no valor do salário mínimo das prestações retributivas, pecuniárias ou em espécie, não classificadas como remuneração de base. - Introduziu-se uma regulamentação mais completa e precisa, procurando abarcar o conjunto das realidades existentes de forma equilibrada. Porque a transição de regimes pode suscitar dificuldades, é estabelecido um sistema transitório de adaptação.
+
+7. Regimes especiais para pequenas empresas. - Para pequenas empresas até cinco trabalhadores mantém-se a redução do valor do salário mínimo, dispensando-as de uma comunicação até agora exigida, de natureza meramente burocrática.
+
+No que respeita a empresas afectadas por um aumento de encargos reputado excessivo, mantém-se a possibilidade de serem autorizadas a praticar valor inferior ao salário mínimo nacional, estabelecendo o limite máximo da redução e regulamentando em termos mais precisos o processo de autorização. Por outro lado, e porque se não considera socialmente defensável que a manutenção das empresas seja assegurada através da prática de salários inferiores ao mínimo legal, não integrada nos mecanismos legais de recuperação de empresas em dificuldades, restringe-se a possibilidade de acesso a esta redução a empresas até 50 trabalhadores. Para empresas de maior volume de emprego que têm vindo a ser dispensadas do cumprimento de salário mínimo nacional consagra-se um regime transitório a vigorar em 1987.
+
+8. Outros aspectos do novo regime:
+
+a) Consagra-se a intervenção consultiva do CPCS no que respeita à actualização do valor do salário mínimo nacional e à revisão dos valores percentuais de redução previstos no diploma;
+
+b) Define-se de forma mais precisa o regime sancionatório da violação dos preceitos do diploma, designadamente no que respeita à atribuição de remunerações inferiores às devidas por aplicação das regras do diploma;
+
+c) Para desincentivar o recurso ao processo administrativo de dispensa do cumprimento do salário mínimo em situações carecidas de fundamento consagra-se um juro de mora a favor dos trabalhadores afectados nessas situações.
+
+Nestes termos:
+
+O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Remuneração mínima mensal garantida
+
+1 - A partir de 1 de Janeiro de 1987 é garantida aos trabalhadores por conta de outrem a remuneração mínima mensal de 25200$00, sujeita aos condicionalismos e com as reduções constantes das disposições seguintes.
+
+2 - A remuneração mínima mensal garantida não inclui subsídios, prémios, gratificações ou outras prestações de atribuição acidental ou por períodos superiores ao mês, com excepção dos seguintes:
+
+a) Prémios de rendimento individuais ou colectivos;
+
+b) Comissões sobre vendas e outros prémios de produção;
+
+c) Ajudas de custo, subsídios de refeição ou subsídios de deslocação, na parte excedente aos montantes fixados para a função pública;
+
+d) Gratificações que, nos termos do n.º 2 do artigo 88.º do regime jurídico aprovado pelo Decreto-Lei n.º 49408, de 24 de Novembro de 1969, devem considerar-se elemento integrante da remuneração, independentemente de quem as atribua, desde que se verifique a existência de regras precisas da sua atribuição individualizada.
+
+3 - No montante da remuneração mínima mensal garantida é incluído o valor da alimentação, alojamento e outras prestações em espécie cuja atribuição seja emergente do contrato de trabalho e que, nos termos do n.º 2 do artigo 91.º do regime jurídico aprovado pelo Decreto-Lei n.º 49408, de 24 de Novembro de 1969, estejam incluídas no conceito de remuneração.
+
+4 - O valor das prestações em espécie é calculado segundo os preços correntes na região, não podendo, no entanto, ser superior aos seguintes montantes ou percentagens do valor da remuneração mínima mensal estabelecida no n.º 1 ou determinada por aplicação das percentagens de redução a que se refere o n.º 6:
+
+a) 35% para a alimentação completa;
+
+b) 15% para a alimentação constituída por uma só refeição principal;
+
+c) 12% para o alojamento do trabalhador;
+
+d) 2000$00 por divisão assoalhada para a habitação do trabalhador e seu agregado familiar;
+
+e) 50% para o total das prestações em espécie fornecidas pela entidade patronal.
+
+5 - O valor mencionado na alínea d) do número anterior é actualizado, sempre que se verifique a revisão do salário mínimo nacional, por aplicação do coeficiente de actualização das rendas de habitação.
+
+6 - O valor da remuneração mínima mensal garantida sofre as reduções constantes das disposições seguintes, relacionadas com o sector económico em que o trabalho é prestado, com a idade e qualificação profissional do trabalhador, com a sua aptidão para o trabalho e com a dimensão e aumento de encargos da entidade patronal.
+
+7 - O valor efectivo da remuneração mínima mensal garantida é sempre arredondado para a centena de escudos mais próxima.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 325/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-2001-540215) Os valores de remuneração mínima mensal a que se refere o n.º 1 do presente artigo, passa a ser de (euro) 348 (69770$00).
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 313/2000 - Diário da República n.º 278/2000, Série I-A de 2000-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-2000-599112) Os valores da remuneração mínima mensal a que se refere o n.º 1 do presente artigo passa a ser de 67000$00.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 21/96 - Diário da República n.º 67/1996, Série I-A de 1996-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1996-535009) Os valores da remuneração mínima mensal a que se refere o n.º 1 do presente artigo passa a ser 54600$00.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 20/95 - Diário da República n.º 24/1995, Série I-A de 1995-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1995-141070) Os valores da remuneração mínima mensal a que se refere o n.º 1 do presente artigo, passa a ser de 52000$00.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 79/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1994-275400) Os valores da remuneração mínima mensal consagrados no n.º 1 do presente artigo do Decreto-Lei n.º 69-A/87, de 9 de Fevereiro, passam a ser de 49300$00.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 2.º — Remuneração mínima horária garantida
+
+1 - Para determinação da remuneração mínima devida nas situações de trabalho em regime de tempo parcial ou com pagamento à quinzena, semana ou dia utiliza-se a remuneração mínima horária garantida, determinada segundo a fórmula:
+
+Rmhg = (Rmmg x 12 (meses))/(52 (semanas) x n)
+
+em que n significa o período normal de trabalho semanal a que o trabalhador está legal ou convencionalmente sujeito.
+
+2 - Sempre que o horário semanal do trabalhador seja de duração variável, atender-se-á ao seu valor médio anual.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 3.º — Reduções por sector económico
+
+1 - Nos sectores da agricultura, silvicultura e pecuária (CAE 1110.0.0 a 1220.0.0), excluindo as respectivas indústrias complementares, a remuneração mínima mensal garantida é de 22400$00.
+
+2 - Nos serviços domésticos não fornecidos por empresas que desse fornecimento façam actividade social (CAE 9530.0.0), a remuneração mínima mensal garantida é de 17500$00.
+
+3 - Nas actividades de natureza artesanal, a remuneração mínima garantida é fixada por referência ao valor estabelecido no n.º 1 do artigo 1.º, por despacho conjunto do Ministro do Trabalho e Segurança Social e dos ministros com especial intervenção na conservação e desenvolvimento das mesmas actividades, podendo o mesmo despacho conjunto estabelecer outros critérios de determinação da remuneração.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 325/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-2001-540215) Os valores de remuneração mínima mensal a que se o n.º 2 do presente artigo passa a ser de (euro) 341,25 (68410$00).
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 313/2000 - Diário da República n.º 278/2000, Série I-A de 2000-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-2000-599112) Os valores da remuneração mínima mensal a que se refere o n.º 2 do presente artigo, passa a ser de 64300$00.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 21/96 - Diário da República n.º 67/1996, Série I-A de 1996-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1996-535009) Os valores da remuneração mínima mensal a que se refere o n.º 2 do presente artigo 3.º passa a ser 49000$00.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 20/95 - Diário da República n.º 24/1995, Série I-A de 1995-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1995-141070) Os valores da remuneração mínima mensal a que se refere n.º 2 do presente artigo passa a ser 45700$00.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 79/94 - Diário da República n.º 57/1994, Série I-A de 1994-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1994-275400) Os valores da remuneração mínima mensal consagrados no n.º 2 do presente artigo, passam a ser de 43000$00.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 4.º — Reduções relacionadas com o trabalhador
+
+1 - A remuneração mínima garantida estabelecida no artigo 1.º ou determinada para os sectores económicos referidos no artigo 3.º sofre as seguintes reduções relativas ao trabalhador:
+
+a) Praticantes, aprendizes e estagiários que se encontrem numa situação caracterizável como de formação prática para profissões qualificadas ou altamente qualificadas - 20%;
+
+b) Praticantes, aprendizes, estagiários e demais situações que devam ser consideradas de formação prática para profissões qualificadas ou altamente qualificadas não abrangidos pelas alíneas a) ou b) e de idade inferior a 25 anos - 20%;
+
+c) Trabalhador com capacidade de trabalho reduzida - redução correspondente ao grau de desvalorização, se superior a 10%, mas não podendo resultar redução superior a 50%.
+
+2 - A redução prevista na alínea a) do número anterior não é aplicável por um período superior a um ano, nesse período se incluindo o tempo de formação passado noutras entidades patronais, desde que documentado e visando a mesma qualificação.
+
+3 - O período estabelecido no número anterior é reduzido a seis meses no caso de trabalhadores possuidores de curso técnico-profissional ou de curso obtido no sistema de formação profissional qualificando para a respectiva profissão.
+
+4 - As reduções previstas neste artigo não prevalecem sobre o princípio de a trabalho igual dever corresponder salário igual.
+
+5 - As reduções previstas neste artigo não prevalecem sobre o princípio de 'a trabalho igual dever corresponder salário igual', cabendo à entidade empregadora provar que o trabalho prestado pelos trabalhadores colocados na situação prevista na alínea a) do n.º 1 e abrangidos pelos n.os 2 e 3 do presente artigo não é igual ao prestado pelos trabalhadores que auferem salário completo.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a [Lei n.º 45/98 - Diário da República n.º 180/1998, Série I-A de 1998-08-06](https://diariodarepublica.pt/dr/detalhe/lei/45-1998-435424), em vigor a partir de 1998-08-11
+
+###### Artigo 5.º — Redução relativa à dimensão da entidade patronal
+
+1 - As entidades patronais dos sectores não excepcionados no artigo 3.º cujo quadro de pessoal não exceda cinco trabalhadores podem aplicar a remuneração mínima estabelecida no n.º 1 do mesmo artigo.
+
+2 - Os valores resultantes do regime estabelecido no artigo 4.º não são abrangidos pelo disposto na primeira parte do número anterior.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 6.º — Redução relativa ao aumento de encargos da entidade patronal
+
+1 - A entidade patronal que empregue 6 a 50 trabalhadores por conta de outrem, não pertencente aos sectores a que se refere o artigo 3.º, pode ser isenta do cumprimento da remuneração mínima estabelecida no artigo 1.º se, por aplicação desta, sofrer um aumento de encargos mensais com retribuições percentualmente superior a 80% do índice de actualização do valor da remuneração mínima garantida.
+
+2 - A determinação do aumento percentual de encargos atende ao valor das remunerações efectivas praticadas em 31 de Dezembro do ano anterior ao início da aplicação da remuneração mínima garantida, desde que respeitem os mínimos legais, convencionais ou decorrentes de autorização administrativa, e ao valor da nova remuneração mínima garantida, conjugada com remunerações de valor superior obrigatórias por força de convenção ou outro instrumento de regulamentação colectiva de trabalho.
+
+3 - Sempre que as remunerações efectivas incluam remuneração em espécie ou sejam integradas de parte variável, serão estas partes componentes consideradas, calculando-se a parte variável nos termos estabelecidos no n.º 2 do artigo 84.º do regime jurídico aprovado pelo Decreto-Lei n.º 49408, de 24 de Novembro de 1969.
+
+4 - a) O requerimento de isenção será apresentado na Direcção-Geral do Trabalho (DGT), do Ministério do Trabalho e Segurança Social, no prazo de 60 dias contados do início da aplicação da nova remuneração mínima garantida ou da publicação do diploma que a consagra, se posterior, com indicação da actividade económica exercida, dos instrumentos de regulamentação colectiva de trabalho aplicáveis e do quadro de pessoal reportado a 31 de Dezembro (nomes, datas de nascimento, classificação profissional, eventuais reduções de capacidade para o trabalho e seu grau, remunerações praticadas, com discriminação das partes a que se refere o n.º 3, período normal de trabalho semanal).
+
+b) Os requerimentos serão documentados com cópia da folha de retribuições apresentada no centro regional de segurança social respeitante ao mês de Dezembro anterior, do mapa ou mapas de horário de trabalho, da comunicação de deferimento do requerimento de isenção relativo ao ano anterior, se houver, do contrato escrito ou documento de que conste integrar algum ou alguns trabalhadores qualquer das situações previstas na alínea c) do n.º 1 do artigo 4.º e demais documentos tidos por relevantes.
+
+5 - A decisão proferida sobre o requerimento de isenção será comunicada ao requerente no prazo de 90 dias contados da sua apresentação.
+
+6 - A entidade patronal deve afixar nos locais de trabalho, durante 30 dias, aviso de que requereu isenção, bem como cópia da comunicação da decisão proferida pelo director-geral do Trabalho.
+
+7 - Até à notificação da decisão a que se referem os n.os 5 e 6, a entidade patronal fica obrigada a praticar uma remuneração não inferior a 90% do valor estabelecido no artigo 1.º, salvo nos casos em que, por instrumento de regulamentação colectiva de trabalho ou por outro motivo, esteja ou venha a estar obrigada a valores superiores e naqueles em que pratique reduções nos termos estabelecidos no artigo 4.º
+
+8 - No caso de deferimento do pedido, a entidade patronal fica obrigada ao cumprimento das remunerações resultantes da aplicação do estabelecido no número anterior.
+
+9 - Em caso de indeferimento, a entidade patronal fica obrigada, salvo acordo com os interessados que estabeleça prazo superior, a regularizar as diferenças no prazo máximo de 60 dias, sempre acrescidas de um juro de mora de 5%.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 7.º — Eficácia das reduções previstas nos artigos 5.º e 6.º
+
+1 - A redução da remuneração mínima garantida nos termos do artigo 5.º cessa a partir do mês seguinte àquele em que o quadro de pessoal da entidade patronal passe a ser de seis ou mais trabalhadores por conta de outrem.
+
+2 - A redução nos termos do artigo 6.º mantém-se até à entrada em vigor de novo valor, em substituição do estabelecido no artigo 1.º
+
+3 - Nos casos previstos no n.º 1 pode a entidade patronal, no prazo de 30 dias, requerer isenção do cumprimento da remuneração mínima garantida, se vier a ficar na situação mencionada no n.º 1 do artigo 6.º, aplicando-se o disposto no mesmo artigo 6.º
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 8.º — Regiões autónomas
+
+1 - Nas regiões autónomas, os requerimentos a que se refere o artigo 6.º serão decididos nos órgãos de governo próprios, os quais informarão, até 31 de Julho de cada ano, a DGT das isenções concedidas.
+
+2 - As isenções concedidas por aplicação do n.º 3 do artigo 7.º serão comunicadas à DGT no prazo de 30 dias.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 9.º — Actualização da remuneração mínima garantida
+
+1 - Os valores da remuneração mínima garantida estabelecida no artigo 1.º e nos n.os 1 e 2 do artigo 3.º devem ser revistos anualmente.
+
+2 - A revisão dos valores a que se refere o número anterior terá em vista a sua adequação aos critérios da política de rendimentos e preços e ao grau de desenvolvimento dos sectores económicos, mas tendo sempre por objectivo a redução das diferenciações existentes e gradual uniformização de valores.
+
+3 - Podem também ser revistas as percentagens de redução estabelecidas nas diversas disposições do presente diploma.
+
+4 - As decisões a tomar nos termos dos números anteriores serão sempre precedidas de consulta ao CPCS.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 10.º — Contra-ordenações
+
+1 - Constitui contra-ordenação muito grave a violação dos n.os 1 a 4 do artigo 1.º, do artigo 3.º e do n.º 1 do artigo 4.º
+
+2 - Constitui contra-ordenação grave a violação do n.º 5 do artigo 4.º
+
+3 - A decisão que aplicar a coima deve conter a ordem de pagamento do quantitativo da remuneração em dívida ao trabalhador, a efectuar dentro do prazo estabelecido para pagamento da coima.
+
+4 - Em caso de não pagamento da remuneração em dívida, a decisão referida no n.º 3 pode servir de base à execução efectuada nos termos do artigo 89.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção do Decreto-Lei n.º 244/95, de 14 de Setembro, aplicando-se as normas do processo comum de execução para pagamento de quantia certa.
+
+5 - As entidades patronais que, para obtenção da redução a que se refere o artigo 6.º, indicarem elementos ou valores falsos que sejam determinantes do deferimento da pretensão serão punidas com coima a fixar entre 20000$00 e o limite máximo previsto no n.º 1, sem prejuízo do estabelecido no n.º 3 e do juro de mora fixado no n.º 9 do artigo 6.º
+
+6 - A aplicação das coimas é da competência da Inspecção-Geral. do Trabalho, com observância do processo regulado no Decreto-Lei n.º 491/85, de 26 de Novembro.
+
+7 - O produto das coimas reverterá para o centro regional de segurança social respectivo, que assegurará o pagamento aos trabalhadores prejudicados das remunerações cobradas nos termos do n.º 3.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 15.º do/a [Lei n.º 118/99 - Diário da República n.º 186/1999, Série I-A de 1999-08-11](https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061), em vigor a partir de 1999-12-01
+
+###### Artigo 11.º — Disposições gerais e transitórias
+
+1 - Aos trabalhadores cuja remuneração inclua o fornecimento de habitação para o agregado familiar, da aplicação do valor previsto na alínea d) do n.º 4 do artigo 1.º não pode resultar o agravamento da dedução praticada em 31 de Dezembro de 1986 para mais do dobro.
+
+2 - Nos anos seguintes, e até ao encontro de valores, o montante da dedução a praticar será o resultante da soma do valor a que se refere o número anterior com o determinado nos termos do n.º 5 do artigo 1.º
+
+3 - As entidades patronais com mais de 50 trabalhadores por conta de outrem que em 1986 tenham obtido isenção da remuneração mínima mensal garantida nos termos do artigo 7.º do Decreto-Lei n.º 440/79, de 6 de Novembro, e que em 1987 se encontrem na situação descrita nos n.os 1 a 3 do artigo 6.º poderão requerer isenção da aplicação da remuneração mínima garantida estabelecida no artigo 1.º, seguindo-se o processo previsto no mesmo artigo 6.º
+
+4 - Neste caso, o valor a praticar, a que se refere o n.º 7 do mesmo artigo 6.º, será de 95%.
+
+5 - Sempre que da aplicação do disposto na alínea c) do n.º 1 do artigo 4.º resultar para um trabalhador valor inferior a um acréscimo de 6% sobre a remuneração mínima que em 1986 lhe era legalmente devida, prevalecerá o valor resultante daquele acréscimo.
+
+6 - O regime estabelecido no presente diploma prevalece sobre quaisquer disposições que em 1 de Janeiro de 1987 regulamentem as mesmas matérias.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 12.º — Produção de efeitos e revogação de disposições anteriores
+
+1 - O presente diploma produz efeitos a partir de 1 de Janeiro de 1987.
+
+2 - Com a sua aplicação ficam revogadas todas as disposições anteriores sobre a matéria regulada, designadamente os Decretos-Leis n.os 440/79, de 6 de Novembro, e 10/86, de 17 de, Janeiro.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
+
+Promulgado em 30 de Janeiro de 1987.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 4 de Fevereiro de 1987.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28

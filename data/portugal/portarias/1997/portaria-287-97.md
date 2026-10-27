@@ -1,0 +1,276 @@
+---
+schema_version: '1.0'
+id: pt:dre:382186:por
+title: Portaria n.º 287/97
+short_title: null
+summary: Aprova o Regulamento dos Estágios para Ingresso nas Carreiras de Operador de Meios Audiovisuais, de Técnico-Adjunto
+  de Modelação e Técnico Auxiliar Oficinal de Grupo de Pessoal Técnico-Profissional do Quadro de Pessoal do Laboratório Nacional
+  de Engenharia Civil
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 287/97
+official_date: null
+publication_date: '1997-05-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 101/1997, Série I-B de 1997-05-02
+  number: '101'
+  series: I
+  supplement: null
+  pages: 2020 - 2022
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/05/101b00/20202022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/287/1997/05/02/p/dre/pt/html
+  oj: null
+  dre: '382186'
+  dre_path: /dr/detalhe/portaria/287-1997-382186
+  internal: pt:dre:382186:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/287-1997-382186
+  metadata_url: https://data.dre.pt/eli/port/287/1997/05/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/287-1997-382186
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:01:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0a73b45a88c0cadef9542712da3834a99093437549d78e40ff356544de8c494e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:01:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estágio de Formação
+- Formação Profissional
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Operador de Audiovisual
+- Regulamento de Estágio
+- Técnico Adjunto de Modelação
+relationships:
+- type: cites
+  target: pt:dre:217127:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/71/1992/04/28/p/dre
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431792:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215/1995/08/22/p/dre
+article_structure:
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:01:47Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 287/97
+
+de 2 de Maio
+
+Em cumprimento do disposto no n.º 2 do artigo 5.º do [Decreto-Lei n.º 71/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1992-217127), de 28 de Abril:
+
+Manda o Governo, pelos Ministros do Equipamento, do Planeamento e da Administração do Território e Adjunto, que seja aprovado o Regulamento dos Estágios para Ingresso nas Carreiras de Operador de Meios Audiovisuais, de Técnico-Adjunto de Modelação e Técnico Auxiliar Oficial do Grupo de Pessoal Técnico-Profissional do Quadro de Pessoal do Laboratório Nacional de Engenharia Civil, anexo à presente portaria e que dela faz parte integrante.
+
+Presidência do Conselho de Ministros e Ministério do Equipamento, do Planeamento e da Administração do Território.
+
+Assinada em 3 de Abril de 1997.
+
+O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
+
+Regulamento dos Estágios para Ingresso nas Carreiras de Operador de Meios Audiovisuais, de Técnico-Adjunto de Modelação e Técnico Auxiliar Oficinal do quadro de pessoal do Laboratório Nacional de Engenharia Civil.
+
+### CAPÍTULO I — Âmbito de aplicação e objectivos
+
+1.º
+
+Âmbito de aplicação
+
+O presente diploma regulamenta os estágios para ingresso nas carreiras de operador de meios audiovisuais, de técnico-adjunto de modelação e de técnico auxiliar oficinal, com vista ao provimento definitivo nas respectivas categorias de ingresso, do grupo de pessoal técnico-profissional do quadro de pessoal do Laboratório Nacional de Engenharia Civil (LNEC) e aplica-se aos candidatos que se encontrem nas situações previstas nas alíneas b) do n.º 2 do artigo 3.º e b) do n.º 2 do artigo 4.º do [Decreto-Lei n.º 71/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1992-217127), de 28 de Abril.
+
+2.º
+
+Objectivos
+
+O estágio tem como objectivos:
+
+a) Integrar e formar, de um modo contínuo, os estagiários, com vista ao desenvolvimento integrado das aptidões e conhecimentos necessários ao exercício das funções para que foram recrutados;
+
+b) Avaliar as capacidades de adaptação e desempenho das referidas funções.
+
+### CAPÍTULO II — Realização do estágio
+
+3.º
+
+Duração
+
+Conforme estipulado no n.º 2 do artigo 3.º e no n.º 2 do artigo 4.º do [Decreto-Lei n.º 71/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1992-217127), de 28 de Abril, os estágios têm a duração de, respectivamente:
+
+a) 12 meses, no que se refere às carreiras de operador de meios audiovisuais e de técnico-adjunto de modelação;
+
+b) 18 meses, no que se refere à cerreira técnica auxiliar oficinal.
+
+4.º
+
+Funcionamento
+
+1 - O estagiário fica sujeito às condições de funcionamento do LNEC e realiza o estágio no serviço em que tiver sido colocado e onde se pretende que venha a ser integrado no seu final.
+
+2 - Em casos excepcionais, o estágio pode decorrer, total ou parcialmente, em serviços diferentes daquele em que o estagiário tiver sido colocado.
+
+3 - A situação referida no número anterior carece de aprovação do director do LNEC, sob proposta fundamentada do dirigente do serviço de colocação do estagiário, a elaborar, preferencialmente, antes da aprovação do plano de estágio.
+
+5.º
+
+Programa de estágio
+
+Considerando que o estágio pressupõe a integração do contexto da formação no contexto do trabalho, deverá:
+
+a) Assumir a forma de prática real orientada, no posto de trabalho;
+
+b) Iniciar-se por uma fase de acolhimento e integração, que permita o conhecimento das atribuições, competências e funcionamento do organismo, bem como do serviço de colocação do estagiário;
+
+c) Englobar a realização de um conjunto de tarefas, definidas em função dos conteúdos funcionais da respectiva carreira e área funcional, que constam do anexo II ao [Decreto-Lei n.º 71/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1992-217127), de 28 de Abril, e que deverão ser discriminadas num plano de estágio, a elaborar pelo júri de estágio e a aprovar pelo director do LNEC;
+
+d) Promover, de um modo contínuo, a reflexão sobre a experiência, utilizando-a para compreender a actividade e elaborar novos saberes, valorizando-se assim o exercício do trabalho como um momento priviligeado de formação e estimulando-se a criação de hábitos de auto-formação;
+
+e) Para além da formação em exercício, o júri de estágio pode propor, se considerar indispensável, que a formação inicial do estagiário seja complementada com formação em sala.
+
+6.º
+
+Júri de estágio
+
+1 - A orientação, avaliação e consequente classificação do estágio competem a um júri de estágio, a nomear por despacho do director do LNEC no prazo máximo de cinco dias após a admissão.
+
+2 - O júri deverá integrar como membro efectivo um funcionário da carreira e área funcional a que o estágio dá acesso que esteja integrado no sector ou serviço em que o estágio decorre, preferivelmente, e no caso da carreira técnica auxiliar oficinal, aquele que se encontrar a exercer as funções de coordenação previstas no n.º 4 do artigo 4.º do [Decreto-Lei n.º 71/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1992-217127), de 28 de Abril, e que assumirá a função de orientador do estágio no local de trabalho.
+
+3 - Compete ao júri:
+
+a) Elaborar o plano de estágio, do qual deve constar o modelo de ficha de trabalho referido no n.º 8.º, no prazo máximo de 30 dias após a data de admissão;
+
+b) Promover a orientação e acompanhamento da execução das actividades, atribuindo ao estagiário tarefas de complexidade e níveis de participação crescentes;
+
+c) Promover a formação contínua em exercício, bem como o acolhimento e integração, conforme previsto no n.º 5.º do presente Regulamento;
+
+d) Avaliar e classificar o estagiário.
+
+### CAPÍTULO III — Avaliação do estágio
+
+7.º
+
+Factores de avaliação
+
+A avaliação deverá ser contínua e formativa e consubstancia-se no relatório de estágio e na classificação de serviço relativa ao período de estágio.
+
+8.º
+
+Relatório de estágio
+
+1 - O relatório consiste numa descrição global comentada do estágio desenvolvido e no conjunto das fichas de trabalho, referidas no n.º 3, que dele fazem parte integrante.
+
+2 - O relatório deverá ainda integrar, como anexo, o programa e certificado da formação em sala que tiver sido realizada no âmbito do estágio.
+
+3 - Para cada tarefa que realizar ou em cuja realização participar, o estagiário preencherá uma ficha de trabalho, cujo modelo é apresentado no plano de estágio, da qual devem constar:
+
+a) Elementos de identificação;
+
+b) Descrição sucinta da tarefa, bem como dos instrumentos, ferramentas ou equipamentos utilizados, e frequência da sua execução;
+
+c) Análise e reflexão sobre o trabalho desenvolvido, nomeadamente no que se refere aos conhecimentos e aptidões que exige e promove, adequação das metodologias, prazos e análise das dificuldades.
+
+4 - As fichas de trabalho deverão ser apresentadas bimestralmente, ao membro do júri que desempenha a função de orientador, para análise conjunta, no âmbito do acompanhamento da execução das actividades e da promoção da formação contínua.
+
+5 - O relatório de estágio deve ser apresentado ao júri no prazo de 15 dias, contados a partir da data do final do período de estágio.
+
+6 - A classificação do relatório e das respectivas fichas de trabalho é atribuída numa escala de 0 a 20 valores e deve ter em consideração as aptidões e conhecimentos demonstrados, as aprendizagens desenvolvidas, bem como a estruturação do próprio relatório, clareza de exposição e capacidade de análise e síntese.
+
+7 - Nos casos em que o estagiário tenha realizado formação em sala, e desde que avaliada e certificada, deverá ser ainda considerada, complementarmente, a classificação obtida.
+
+8 - O júri deve avaliar o relatório no prazo de 15 dias.
+
+9.º
+
+Classificação de serviço
+
+A classificação de serviço é atribuída no prazo máximo de 10 dias após o termo do período de estágio, observando-se os princípios e os trâmites processuais previstos na legislação aplicável.
+
+### CAPÍTULO IV — Classificação e ordenação final
+
+10.º
+
+Classificação final e ordenação
+
+1 - A classificação final é expressa numa escala de 0 a 20 valores, arredondada às décimas, e apurada de acordo com a seguinte fórmula:
+
+CF = 0,7RE + 0,3CS
+
+em que:
+
+CF é a classificação final;
+
+RE é a classificação do relatório de estágio;
+
+CS é a classificação de serviço.
+
+2 - O júri elaborará, por carreira, e, no caso dos técnicos auxiliares oficinais, por área funcional, a lista de classificação e ordenação final dos estagiários, no prazo máximo de 10 dias após a homologação da classificação de serviço.
+
+3 - Compete ao júri estabelecer critérios de desempate sempre que se verifique igualdade de classificação final.
+
+11.º
+
+Aprovação no estágio
+
+Conforme disposto no n.º 6 do artigo 5.º do [Decreto-Lei n.º 71/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1992-217127), de 28 de Abril, considera-se aprovado o estagiário que obtiver:
+
+a) Informação favorável de serviço, considerando-se para este efeito favorável as menções qualitativas não inferiores a Regular;
+
+b) Classificação final, apurada conforme disposto no número anterior, igual ou superior a 10 valores, considerando-se como tal, por arredondamento, as classificações iguais ou superiores a 9,5 valores.
+
+12.º
+
+Homologação, publicação e recurso da lista de classificação e ordenação final
+
+Em matéria de homologação, publicitação e recurso da lista de classificação final, aplicam-se as regras previstas no [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, com as alterações decorrentes do [Decreto-Lei n.º 215/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1995-431792), de 22 de Agosto.
+
+13.º
+
+Normas aplicáveis
+
+Em tudo o que não se encontrar regulamentado no presente diploma aplica-se a lei geral.

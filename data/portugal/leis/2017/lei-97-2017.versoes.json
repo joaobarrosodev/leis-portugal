@@ -1,0 +1,862 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108041476:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2017-141589113",
+ "dre_path": "/dr/detalhe/lei/97-2017-108041476",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "141589222",
+    "141589223",
+    "141589224",
+    "141589225",
+    "141589226",
+    "141589227",
+    "141589228",
+    "141589229",
+    "141589230",
+    "141589231",
+    "141589232",
+    "141589233",
+    "141589234",
+    "141589235",
+    "141589236",
+    "141589237",
+    "141589238",
+    "141589239",
+    "141589240",
+    "141589241",
+    "141589242",
+    "141589243",
+    "141589244",
+    "141589245",
+    "141589246",
+    "141589247",
+    "141589248",
+    "141589249",
+    "141589250",
+    "141589251",
+    "141589252",
+    "141589253",
+    "141589254",
+    "141589255",
+    "141589256",
+    "141589257",
+    "141589258",
+    "141589259",
+    "141589260",
+    "141589261",
+    "141589262",
+    "141589263",
+    "141589264",
+    "141589265",
+    "141589266",
+    "141589267"
+   ]
+  },
+  {
+   "date": "2020-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:141382321:por",
+     "title": "Lei n.º 58/2020",
+     "published": "2020-08-31",
+     "dre_path": "/dr/detalhe/lei/58-2020-141382321"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "141589222",
+    "141589223",
+    "141589224",
+    "141589225",
+    "141589226",
+    "141589227",
+    "141589228",
+    "141589229",
+    "141589230",
+    "141589231",
+    "141589232",
+    "141589233",
+    "141589234",
+    "141589235",
+    "141589269",
+    "141589237",
+    "141589238",
+    "141589239",
+    "141589240",
+    "141589241",
+    "141589242",
+    "141589243",
+    "141589244",
+    "141589245",
+    "141589246",
+    "141589247",
+    "141589248",
+    "141589249",
+    "141589250",
+    "141589251",
+    "141589252",
+    "141589253",
+    "141589254",
+    "141589255",
+    "141589270",
+    "141589257",
+    "141589258",
+    "141589259",
+    "141589260",
+    "141589261",
+    "141589262",
+    "141589263",
+    "141589264",
+    "141589265",
+    "141589266",
+    "141589267",
+    "141589268"
+   ]
+  },
+  {
+   "date": "2025-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:992402106:por",
+     "title": "Lei n.º 72/2025",
+     "published": "2025-12-23",
+     "dre_path": "/dr/detalhe/lei/72-2025-992402106"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 24.º-A",
+    "Adita Artigo 29.º-A",
+    "Adita Artigo 29.º-B",
+    "Adita Artigo 32.º-A",
+    "Adita Artigo 32.º-B",
+    "Altera Artigo 2.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 27.º",
+    "Altera Capítulo VI",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "141589222",
+    "992618081",
+    "141589224",
+    "992475635",
+    "141589226",
+    "141589227",
+    "141589228",
+    "992618082",
+    "141589230",
+    "141589231",
+    "141589232",
+    "992618083",
+    "141589234",
+    "141589235",
+    "992475636",
+    "141589237",
+    "141589238",
+    "141589239",
+    "992475642",
+    "141589241",
+    "141589242",
+    "992475643",
+    "992475637",
+    "141589245",
+    "141589246",
+    "992618084",
+    "141589248",
+    "141589249",
+    "992618085",
+    "141589251",
+    "141589252",
+    "141589253",
+    "992618090",
+    "992618091",
+    "992618092",
+    "992618093",
+    "992618086",
+    "992475639",
+    "992475640",
+    "992618095",
+    "992618098",
+    "992618099",
+    "992618087",
+    "141589262",
+    "141589263",
+    "992618101",
+    "992618107",
+    "992618108",
+    "992618109",
+    "992618110",
+    "992618111",
+    "992618088"
+   ]
+  }
+ ],
+ "fragments": {
+  "141589222": {
+   "fragment_id": "141589114",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 97/2017\n\nde 23 de agosto\n\nRegula a aplicação e a execução de medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia e estabelece o regime sancionatório aplicável à violação destas medidas.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "141589223": {
+   "fragment_id": "141589115",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "141589224": {
+   "fragment_id": "141589116",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei regula a aplicação e a execução de medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia e estabelece o regime sancionatório aplicável à violação destas medidas."
+  },
+  "141589225": {
+   "fragment_id": "141589117",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nUma medida restritiva é uma restrição temporária do exercício de um determinado direito, através da imposição de uma proibição ou de uma obrigação, aprovada pela Organização das Nações Unidas ou pela União Europeia e que visa a prossecução de pelo menos um dos seguintes objetivos:\n\na) A manutenção ou restabelecimento da paz e da segurança internacionais;\n\nb) A proteção dos direitos humanos;\n\nc) A democracia e o Estado de direito;\n\nd) A preservação da soberania e da independência nacionais e de outros interesses fundamentais do Estado;\n\ne) A prevenção e repressão do terrorismo e da proliferação de armas de destruição em massa."
+  },
+  "141589226": {
+   "fragment_id": "141589118",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - As medidas restritivas previstas na presente lei são aplicáveis:\n\na) A pessoas de nacionalidade portuguesa ou com residência em Portugal e a pessoas que se encontrem, ou pretendam ser admitidas, em território nacional, ainda que em trânsito ou escala;\n\nb) A qualquer pessoa coletiva, pública ou privada, registada ou constituída nos termos da legislação portuguesa, com sede, direção efetiva ou com estabelecimento estável em Portugal, incluindo sucursais situadas em território português de pessoas coletivas com sede no estrangeiro, bem como sucursais situadas no estrangeiro de pessoas coletivas com sede em Portugal;\n\nc) A bens, fundos e recursos económicos que se encontrem em território nacional, independentemente da nacionalidade, residência ou sede dos seus proprietários, beneficiários ou intervenientes.\n\n2 - As normas que impõem os deveres de cooperação estabelecidos no capítulo V são aplicáveis às pessoas e entidades referidas nas alíneas a) e b) do número anterior."
+  },
+  "141589227": {
+   "fragment_id": "141589119",
+   "type": 11,
+   "heading": "Artigo 4.º — Suspensão e cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Suspensão e cessação\n\nA suspensão ou a cessação das medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia faz imediatamente suspender ou cessar os efeitos de todos os atos nacionais de aplicação ou de execução das medidas em causa."
+  },
+  "141589228": {
+   "fragment_id": "141589120",
+   "type": 11,
+   "heading": "Artigo 5.º — Limites materiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Limites materiais\n\nA aplicação e a execução de medidas restritivas respeitam os princípios da dignidade da pessoa humana, da proporcionalidade e da igualdade."
+  },
+  "141589229": {
+   "fragment_id": "141589121",
+   "type": 1,
+   "heading": "Capítulo II — Aplicação de medidas restritivas e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Aplicação de medidas restritivas e procedimentos"
+  },
+  "141589230": {
+   "fragment_id": "141589122",
+   "type": 11,
+   "heading": "Artigo 6.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicação\n\n1 - A aplicação de uma medida restritiva consiste na determinação concreta dos destinatários de uma medida restritiva aprovada pela Organização das Nações Unidas ou pela União Europeia.\n\n2 - Só há lugar à aplicação de uma medida restritiva quando não seja possível a sua execução direta porque o ato que a aprova ou altera não determina de forma suficientemente concreta os respetivos destinatários."
+  },
+  "141589231": {
+   "fragment_id": "141589123",
+   "type": 11,
+   "heading": "Artigo 7.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Procedimento\n\n1 - A aplicação de uma medida restritiva é da competência do Ministro dos Negócios Estrangeiros e do membro do Governo responsável pelo setor relativo à medida restritiva a aplicar.\n\n2 - A Direção-Geral de Política Externa do Ministério dos Negócios Estrangeiros, em colaboração com o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério das Finanças:\n\na) Informa de imediato os membros do Governo referidos no n.º 1 da aprovação de uma medida restritiva pela Organização das Nações Unidas ou pela União Europeia que careça de aplicação ou do surgimento de factos supervenientes que justifiquem a adoção de um ato de aplicação com base em medidas restritivas anteriormente aprovadas;\n\nb) Informa de imediato os membros do Governo referidos no n.º 1 da alteração, suspensão ou cessação de uma medida restritiva pela Organização das Nações Unidas ou pela União Europeia que tenha sido objeto de um ato de aplicação ou cujas alterações passem a carecer de aplicação;\n\nc) Auxilia os membros do Governo referidos no n.º 1 em tudo o que seja necessário para o exercício da competência de aplicação da medida restritiva.\n\n3 - O ato que aplica uma medida restritiva identifica o destinatário da mesma, o que inclui, sempre que possível:\n\na) O nome ou firma, bem como os nomes pelos quais a pessoa ou entidade é conhecida;\n\nb) Os números de identificação relevantes;\n\nc) Domicílio profissional, da sede ou de estabelecimento comercial;\n\nd) Data de nascimento ou da constituição;\n\ne) Nacionalidade.\n\n4 - A aplicação da medida restritiva pode não ser precedida de audição dos destinatários com os mesmos fundamentos com que pode ser dispensada a audiência dos interessados, nos termos previstos no artigo 124.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro."
+  },
+  "141589232": {
+   "fragment_id": "141589124",
+   "type": 11,
+   "heading": "Artigo 8.º — Vigência, publicidade e notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Vigência, publicidade e notificação\n\n1 - O ato que aplica uma medida restritiva produz efeitos à data da sua aprovação e é publicado na 2.ª série do Diário da República.\n\n2 - O destinatário de uma medida restritiva é notificado do ato de aplicação no prazo de 10 dias úteis a contar da aprovação.\n\n3 - As notificações efetuam-se por carta registada com aviso de receção, ou por meio equiparado quando deva ter lugar no estrangeiro, e é endereçada para o domicílio pessoal, profissional, da sede ou de estabelecimento comercial ou dirigida ao mandatário constituído pelo destinatário.\n\n4 - Se não tiver sido possível fazer a notificação nos termos do número anterior, ou for desconhecido o paradeiro do destinatário, a notificação realiza-se por publicação de aviso na 2.ª série do Diário da República, no prazo de 30 dias a contar da publicação do ato de aplicação."
+  },
+  "141589233": {
+   "fragment_id": "141589125",
+   "type": 1,
+   "heading": "Capítulo III — Execução de medidas restritivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Execução de medidas restritivas"
+  },
+  "141589234": {
+   "fragment_id": "141589126",
+   "type": 8,
+   "heading": "Secção I — Autoridades nacionais competentes e entidades executantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Autoridades nacionais competentes e entidades executantes"
+  },
+  "141589235": {
+   "fragment_id": "141589127",
+   "type": 11,
+   "heading": "Artigo 9.º — Autoridades nacionais competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autoridades nacionais competentes\n\n1 - Exercem conjuntamente as atribuições de autoridades nacionais competentes em matéria de medidas restritivas a Direção-Geral de Política Externa do Ministério dos Negócios Estrangeiros e o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério das Finanças.\n\n2 - Cabe às autoridades nacionais competentes coordenar a aplicação das medidas restritivas e exercer as funções que lhes forem atribuídas pelos atos que as aprovam, em articulação com as demais entidades públicas com competências em função da matéria.\n\n3 - As autoridades nacionais competentes informam e prestam esclarecimentos a qualquer pessoa ou entidade em matéria de medidas restritivas, designadamente através da divulgação dos atos de aprovação, modificação e cessação da vigência das medidas restritivas.\n\n4 - As autoridades nacionais competentes elaboram e atualizam regularmente um manual de melhores práticas para a aplicação eficaz das medidas restritivas."
+  },
+  "141589236": {
+   "fragment_id": "141589128",
+   "type": 11,
+   "heading": "Artigo 10.º — Entidades executantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entidades executantes\n\n1 - São entidades executantes as pessoas e entidades públicas ou privadas legalmente competentes para os atos materiais de execução necessários à aplicação da medida restritiva aprovada.\n\n2 - As autoridades nacionais competentes podem solicitar a intervenção de quaisquer pessoas e entidades públicas ou privadas na execução das medidas restritivas.\n\n3 - As entidades sujeitas a supervisão ou fiscalização em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo:\n\na) Adotam os meios e mecanismos adequados para cumprir as medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia, com as especificidades dadas pela presente lei;\n\nb) Sempre que aplicável, observam integralmente os deveres que, nos termos da presente lei, especificamente se aplicam às entidades executantes."
+  },
+  "141589237": {
+   "fragment_id": "141589129",
+   "type": 8,
+   "heading": "Secção II — Regime da execução de medidas restritivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Regime da execução de medidas restritivas"
+  },
+  "141589238": {
+   "fragment_id": "141589130",
+   "type": 11,
+   "heading": "Artigo 11.º — Execução imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Execução imediata\n\n1 - O ato da Organização das Nações Unidas ou da União Europeia que aprova ou que altera uma medida restritiva é imediatamente executado.\n\n2 - Quando o ato de aprovação ou de alteração não determinar de forma suficientemente concreta os respetivos destinatários, ou quando surjam factos supervenientes que necessitem dessa concretização, a medida restritiva é imediatamente executada após a respetiva aplicação nos termos do artigo 7.º"
+  },
+  "141589239": {
+   "fragment_id": "141589131",
+   "type": 11,
+   "heading": "Artigo 12.º — Importação e exportação de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Importação e exportação de bens\n\n1 - À execução das medidas restritivas relativas à importação e exportação de bens aplicam-se os regimes jurídicos destas atividades.\n\n2 - Quando a medida restritiva aprovada for a de exigência de autorização prévia para a importação ou exportação de bens, o pedido de autorização é dirigido à Autoridade Tributária e Aduaneira, que decide no prazo fixado no ato de aplicação da medida ou, na sua falta, no prazo de 60 dias.\n\n3 - A não prolação de uma decisão no prazo assinalado no número anterior tem os efeitos previstos no ato que aprova a medida restritiva, aplicando-se, na sua falta, o disposto no Código do Procedimento Administrativo sobre o incumprimento do dever de decisão."
+  },
+  "141589240": {
+   "fragment_id": "141589132",
+   "type": 11,
+   "heading": "Artigo 13.º — Fundos e recursos económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fundos e recursos económicos\n\n1 - Um fundo corresponde a ativos financeiros e benefícios económicos de qualquer tipo.\n\n2 - Recursos económicos correspondem a ativos de qualquer tipo, corpóreos ou incorpóreos, móveis ou imóveis, que não sejam fundos mas que possam ser utilizados na obtenção de fundos, bens ou serviços.\n\n3 - As medidas restritivas não abrangem a utilização de recursos económicos para fins exclusivamente pessoais, incluindo despesas para efeitos de garantia de tutela jurisdicional efetiva, não podendo da execução da medida restritiva resultar qualquer circunstância atentatória do mínimo de existência condigna do destinatário e do seu agregado familiar.\n\n4 - Os recursos económicos não abrangidos nos termos do número anterior são determinados pelo juiz competente pela receção da impugnação."
+  },
+  "141589241": {
+   "fragment_id": "141589133",
+   "type": 11,
+   "heading": "Artigo 14.º — Informação e notificação prévia de transferência de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação e notificação prévia de transferência de fundos\n\n1 - O ato que aprova uma medida restritiva de obrigação de informação ou de notificação prévia de transferência de fundos pode determinar:\n\na) A antecedência com que a notificação prévia deve ser feita;\n\nb) O prazo em que a transferência de fundos deve ser comunicada;\n\nc) O conteúdo da notificação e da informação.\n\n2 - Exceto quando determinado em contrário no ato que aprova a medida restritiva:\n\na) A notificação prévia é feita com três dias úteis de antecedência em relação à data de execução ou receção da transferência dos fundos;\n\nb) A comunicação é feita no prazo de cinco dias úteis a contar da data de execução ou receção da transferência dos fundos;\n\nc) A notificação prévia ou a comunicação de transferência de fundos inclui o nome das partes e dos intervenientes, o montante, a origem, o destino, a finalidade e a data da transferência."
+  },
+  "141589242": {
+   "fragment_id": "141589134",
+   "type": 11,
+   "heading": "Artigo 15.º — Autorização prévia para transferência de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Autorização prévia para transferência de fundos\n\n1 - Caso seja aprovada a medida de autorização prévia para transferência de fundos, o pedido de autorização é dirigido às autoridades nacionais competentes, que decidem no prazo de 30 dias, salvo se for fixado prazo diferente no ato que aprova a medida restritiva.\n\n2 - A não prolação de uma decisão no prazo mencionado no número anterior tem os efeitos previstos no Código do Procedimento Administrativo sobre o incumprimento do dever de decisão, salvo se outro efeito for fixado no ato que aprova a medida restritiva."
+  },
+  "141589243": {
+   "fragment_id": "141589135",
+   "type": 11,
+   "heading": "Artigo 16.º — Congelamento de fundos e de recursos económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Congelamento de fundos e de recursos económicos\n\n1 - O congelamento de fundos é uma ação destinada a impedir o movimento, transferência, alteração, utilização ou operação sobre fundos, ou o acesso aos mesmos, que sejam suscetíveis de provocar uma alteração do respetivo valor, volume, localização, propriedade, posse, natureza, destino ou qualquer outra alteração suscetível de permitir a sua utilização, incluindo a gestão de carteiras de valores mobiliários.\n\n2 - O congelamento de recursos económicos é uma ação destinada a impedir o movimento, transferência, alienação ou oneração de ativos de qualquer tipo, corpóreos ou incorpóreos, móveis ou imóveis, que não sejam fundos, mas que possam ser utilizados na obtenção de fundos, bens ou serviços, por qualquer meio, nomeadamente através da sua venda, locação ou hipoteca.\n\n3 - O ato que aprova ou, quando necessário, o ato que aplica a medida restritiva de congelamento de fundos e recursos económicos é diretamente aplicável, sendo executado sem necessidade de emissão de qualquer outro ato.\n\n4 - As entidades executantes procedem de imediato ao congelamento de fundos e de recursos económicos sob a sua responsabilidade.\n\n5 - A medida de congelamento de recursos económicos que respeite a bens imóveis e móveis sujeitos a registo é registada, bem como as respetivas prorrogação e cessação.\n\n6 - O registo previsto no número anterior é realizado por anotação, da qual consta o ato que aprova a medida restritiva, o conteúdo desta e a respetiva duração."
+  },
+  "141589244": {
+   "fragment_id": "141589136",
+   "type": 11,
+   "heading": "Artigo 17.º — Recusa de entrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Recusa de entrada\n\n1 - A medida restritiva de recusa de entrada em território nacional só pode ser aplicada a cidadãos estrangeiros.\n\n2 - A aprovação ou, quando necessário, a aplicação de medida restritiva de recusa de entrada em território nacional determina a inscrição do destinatário da medida no Sistema Integrado de Informações do Serviço de Estrangeiros e Fronteiras para efeitos de sua não admissão."
+  },
+  "141589245": {
+   "fragment_id": "141589137",
+   "type": 11,
+   "heading": "Artigo 18.º — Indeferimento de vistos e de autorizações de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Indeferimento de vistos e de autorizações de residência\n\n1 - A medida restritiva de indeferimento de vistos e de autorizações de residência determina o indeferimento de pedido de visto do destinatário da medida restritiva, mesmo tendo o pedido ocorrido em momento anterior ao da aprovação da medida ou da ocorrência dos factos que fundamentam a medida.\n\n2 - A medida restritiva de indeferimento de vistos e de autorizações de residência determina o indeferimento da prorrogação de permanência, bem como o indeferimento da concessão ou da renovação da autorização de residência, desde que a autorização não tenha caráter permanente."
+  },
+  "141589246": {
+   "fragment_id": "141589138",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime aplicável\n\nÀ execução de uma medida restritiva de entrada e circulação no território nacional é aplicável, com as adaptações previstas na presente lei, o regime jurídico da entrada, permanência, saída e afastamento de estrangeiros do território nacional."
+  },
+  "141589247": {
+   "fragment_id": "141589139",
+   "type": 1,
+   "heading": "Capítulo IV — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Garantias"
+  },
+  "141589248": {
+   "fragment_id": "141589140",
+   "type": 11,
+   "heading": "Artigo 20.º — Atos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Atos nacionais\n\nOs atos de entidades públicas nacionais que aplicam ou executam medidas restritivas são passíveis de impugnação judicial nos termos gerais."
+  },
+  "141589249": {
+   "fragment_id": "141589141",
+   "type": 11,
+   "heading": "Artigo 21.º — Atos da Organização das Nações Unidas ou da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Atos da Organização das Nações Unidas ou da União Europeia\n\n1 - Aos atos de aprovação de medidas restritivas da Organização das Nações Unidas e da União Europeia aplicam-se as respetivas regras de impugnação.\n\n2 - As autoridades nacionais competentes garantem, no prazo de 10 dias úteis, a remessa de qualquer reclamação de atos da Organização das Nações Unidas ou da União Europeia que lhes seja apresentada pelo destinatário da medida para o organismo competente para a sua apreciação.\n\n3 - O disposto no número anterior não implica a adesão do Estado Português à reclamação apresentada."
+  },
+  "141589250": {
+   "fragment_id": "141589142",
+   "type": 1,
+   "heading": "Capítulo V — Deveres de cooperação, supervisão e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Deveres de cooperação, supervisão e fiscalização"
+  },
+  "141589251": {
+   "fragment_id": "141589143",
+   "type": 11,
+   "heading": "Artigo 22.º — Dever geral de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Dever geral de cooperação\n\nAs entidades públicas e as entidades executantes cooperam com as autoridades nacionais competentes para garantir o cumprimento das medidas restritivas."
+  },
+  "141589252": {
+   "fragment_id": "141589144",
+   "type": 11,
+   "heading": "Artigo 23.º — Dever de comunicação e de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Dever de comunicação e de informação\n\n1 - Todas as entidades públicas e entidades executantes têm o dever de comunicar às autoridades nacionais competentes quaisquer informações de que disponham e que possam facilitar o cumprimento das medidas restritivas.\n\n2 - Sempre que executem uma medida restritiva, as entidades executantes informam de imediato as autoridades nacionais competentes.\n\n3 - As autoridades nacionais competentes podem estabelecer formas específicas de execução dos deveres previstos nos números anteriores.\n\n4 - As informações referidas nos números anteriores são transmitidas pelas autoridades nacionais competentes ao Serviço de Informações de Segurança."
+  },
+  "141589253": {
+   "fragment_id": "141589145",
+   "type": 11,
+   "heading": "Artigo 24.º — Dever de denúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Dever de denúncia\n\nAs entidades executantes informam de imediato o Procurador-Geral da República e as autoridades nacionais competentes sempre que tenham notícia ou suspeitem de que houve ou está em curso um ato ou uma omissão suscetível de configurar a violação de uma medida restritiva."
+  },
+  "141589254": {
+   "fragment_id": "141589146",
+   "type": 11,
+   "heading": "Artigo 25.º — Dever de confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Dever de confidencialidade\n\nAs pessoas que, exercendo funções nas autoridades nacionais competentes ou nas entidades executantes, ou prestando-lhes serviços, participem na aplicação ou execução de medidas restritivas estão sujeitas aos deveres de confidencialidade decorrentes da lei no tratamento de dados, mesmo após a cessação das suas funções."
+  },
+  "141589255": {
+   "fragment_id": "141589147",
+   "type": 11,
+   "heading": "Artigo 26.º — Cooperação internacional e assistência mútua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cooperação internacional e assistência mútua\n\n1 - As autoridades nacionais competentes cooperam com as autoridades congéneres de outros Estados e com organizações internacionais na aprovação, aplicação e execução de medidas restritivas, na medida em que o Estado Português a tal esteja vinculado, ao abrigo de instrumentos jurídicos internacionais ou de direito da União Europeia.\n\n2 - As autoridades nacionais competentes podem solicitar às autoridades congéneres de outros Estados e a organizações internacionais informações relativas à aplicação das medidas restritivas e à identificação dos destinatários para o exercício das suas competências.\n\n3 - As autoridades nacionais competentes podem transmitir às autoridades congéneres de outros Estados e a organizações internacionais informação relativa à aplicação das medidas restritivas e à identificação dos destinatários, desde que se verifiquem as seguintes condições cumulativas:\n\na) Esteja assegurada a reciprocidade;\n\nb) A entidade requerente tenha competências no procedimento de aplicação de medidas restritivas internacionais;\n\nc) Forem apresentadas garantias de que a informação apenas é utilizada para os fins previstos na presente lei;\n\nd) Forem apresentadas garantias de que a informação só é utilizada em procedimentos criminais mediante autorização da autoridade judiciária nacional competente, a solicitar pela autoridade estrangeira como pedido de auxílio, nos termos da Lei n.º 144/99, de 31 de agosto, que aprova a lei da cooperação judiciária internacional em matéria penal."
+  },
+  "141589256": {
+   "fragment_id": "141589148",
+   "type": 11,
+   "heading": "Artigo 27.º — Supervisão e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Supervisão e fiscalização\n\n1 - As entidades com competências legais de supervisão ou fiscalização, em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo, verificam se as entidades sujeitas à sua supervisão ou fiscalização adotam os meios e mecanismos adequados para cumprir as medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia, incluindo as especificidades e os deveres previstos na presente lei.\n\n2 - Para verificação do disposto no número anterior, as entidades com competências legais de supervisão ou fiscalização dispõem dos poderes que lhe são conferidos pela legislação específica em matéria de prevenção do branqueamento de capitais e financiamento do terrorismo.\n\n3 - Em tudo o que se mostre aplicável, as entidades com responsabilidades em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo observam os deveres previstos na legislação específica referida no número anterior, tendo igualmente em vista o cumprimento das medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia, incluindo as especificidades e os deveres previstos na presente lei.\n\n4 - A violação do disposto no n.º 3 do artigo 10.º da presente lei constitui contraordenação punível nos termos previstos na legislação específica em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo.\n\n5 - Sempre que as entidades com competências legais de supervisão ou fiscalização, no âmbito das suas atribuições de supervisão e fiscalização, detetem omissões suscetíveis de configurar a violação de uma medida restritiva devem ordenar à entidade executante o cumprimento da medida restritiva em falta.\n\n6 - As entidades com competências legais de supervisão e fiscalização informam de imediato o Procurador-Geral da República e as autoridades nacionais competentes sempre que tenham notícia ou detetem, no âmbito das suas atribuições de supervisão e fiscalização, factos suscetíveis de configurar a violação de uma medida restritiva."
+  },
+  "141589257": {
+   "fragment_id": "141589149",
+   "type": 1,
+   "heading": "Capítulo VI — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime sancionatório"
+  },
+  "141589258": {
+   "fragment_id": "141589150",
+   "type": 11,
+   "heading": "Artigo 28.º — Violação de medidas restritivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Violação de medidas restritivas\n\n1 - Quem, violando uma medida restritiva, colocar, direta ou indiretamente, à disposição de pessoas ou entidades designadas, quaisquer fundos ou recursos económicos que as mesmas possam utilizar ou dos quais possam beneficiar, ou executar transferência de fundos proibida, é punido com pena de prisão de um até cinco anos.\n\n2 - Incorre igualmente na pena prevista no número anterior quem, violando uma medida restritiva, estabeleça ou mantenha relação jurídica proibida com pessoas ou entidades designadas ou constitua, adquira ou aumente a participação ou posição de controlo relativo a imóvel, empresa ou pessoa coletiva, ainda que irregularmente constituída, situados, registados ou constituídos num território identificado nos atos de aprovação ou aplicação da medida.\n\n3 - Se as condutas previstas nos números anteriores forem praticadas por negligência, o agente é punido com pena de multa até 600 dias."
+  },
+  "141589259": {
+   "fragment_id": "141589151",
+   "type": 11,
+   "heading": "Artigo 29.º — Responsabilidade e punição das pessoas coletivas e entidades equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Responsabilidade e punição das pessoas coletivas e entidades equiparadas\n\n1 - As pessoas coletivas e entidades equiparadas respondem pelos crimes previstos no presente diploma nos termos do artigo 11.º do Código Penal.\n\n2 - As penas aplicáveis às pessoas coletivas e entidades equiparadas são determinadas nos termos do artigo 90.º-B do Código Penal."
+  },
+  "141589260": {
+   "fragment_id": "141589152",
+   "type": 11,
+   "heading": "Artigo 30.º — Pena acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Pena acessória\n\nO tribunal pode ordenar a publicidade da decisão condenatória de pessoas singulares ou coletivas, sendo aplicável o disposto no artigo 90.º-M do Código Penal."
+  },
+  "141589261": {
+   "fragment_id": "141589153",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "141589262": {
+   "fragment_id": "141589154",
+   "type": 11,
+   "heading": "Artigo 31.º — Nulidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Nulidade\n\nOs atos praticados em violação de uma medida restritiva são nulos."
+  },
+  "141589263": {
+   "fragment_id": "141589155",
+   "type": 11,
+   "heading": "Artigo 32.º — Responsabilidade por danos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Responsabilidade por danos\n\nAos danos emergentes da aplicação de medidas restritivas é aplicável, com as necessárias adaptações, o regime da responsabilidade civil extracontratual do Estado e demais entidades públicas."
+  },
+  "141589264": {
+   "fragment_id": "141589156",
+   "type": 11,
+   "heading": "Artigo 33.º — Isenção de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Isenção de responsabilidade\n\nNão há lugar ao pagamento de qualquer indemnização por parte das entidades executantes relativamente a contratos ou transações cuja execução tenha sido afetada, direta ou indiretamente, total ou parcialmente, por medidas restritivas aprovadas pela Organização das Nações Unidas e pela União Europeia, nomeadamente sob a forma de pedidos de indemnização ou qualquer outro pedido deste tipo, independentemente da forma que assuma."
+  },
+  "141589265": {
+   "fragment_id": "141589157",
+   "type": 11,
+   "heading": "Artigo 34.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Relatórios\n\n1 - As autoridades nacionais competentes enviam ao Ministro dos Negócios Estrangeiros, até 31 de março de cada ano, um relatório com a análise da aplicação das medidas restritivas em Portugal no ano anterior, discriminando a atividade das várias entidades executantes.\n\n2 - As autoridades nacionais competentes podem solicitar às entidades executantes a entrega de relatórios sobre a sua intervenção na execução das medidas restritivas."
+  },
+  "141589266": {
+   "fragment_id": "141589158",
+   "type": 11,
+   "heading": "Artigo 35.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Direito subsidiário\n\nAo procedimento de aplicação e execução de medidas restritivas aplicam-se subsidiariamente as disposições do Código do Procedimento Administrativo que não contrariem as regras definidas na presente lei."
+  },
+  "141589267": {
+   "fragment_id": "141589159",
+   "type": 11,
+   "heading": "Artigo 36.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Norma revogatória\n\nÉ revogada a Lei n.º 11/2002, de 16 de fevereiro."
+  },
+  "141589269": {
+   "fragment_id": "141589128",
+   "type": 11,
+   "heading": "Artigo 10.º — Entidades executantes",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 10.º — Entidades executantes\n\n1 - São entidades executantes as pessoas e entidades públicas ou privadas legalmente competentes para os atos materiais de execução necessários à aplicação da medida restritiva aprovada.\n\n2 - As autoridades nacionais competentes podem solicitar a intervenção de quaisquer pessoas e entidades públicas ou privadas na execução das medidas restritivas.\n\n3 - As entidades sujeitas a supervisão ou fiscalização em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo:\n\na) Adotam os meios e mecanismos adequados para cumprir as medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia, com as especificidades dadas pela presente lei;\n\nb) Observam integralmente os deveres aplicáveis às entidades executantes, nos termos da presente lei.\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+  },
+  "141589270": {
+   "fragment_id": "141589148",
+   "type": 11,
+   "heading": "Artigo 27.º — Supervisão e fiscalização",
+   "in_force_from": "2020-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 27.º — Supervisão e fiscalização\n\n1 - As entidades com competências legais de supervisão ou fiscalização, em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo, verificam se as entidades sujeitas à sua supervisão ou fiscalização adotam os meios e mecanismos adequados para cumprir as medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia, incluindo as especificidades e os deveres previstos na presente lei.\n\n2 - Para verificação do disposto no número anterior, as entidades com competências legais de supervisão ou fiscalização dispõem dos poderes que lhe são conferidos pela legislação específica em matéria de prevenção do branqueamento de capitais e financiamento do terrorismo.\n\n3 - As entidades sujeitas a supervisão ou fiscalização em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo observam os deveres previstos na legislação específica referida no número anterior, tendo igualmente em vista o cumprimento das medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia, incluindo as especificidades e os deveres previstos na presente lei.\n\n4 - A violação do disposto no n.º 3 do artigo 10.º da presente lei constitui contraordenação punível nos termos previstos na legislação específica em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo.\n\n5 - Sempre que as entidades com competências legais de supervisão ou fiscalização, no âmbito das suas atribuições de supervisão e fiscalização, detetem omissões suscetíveis de configurar a violação de uma medida restritiva devem ordenar à entidade executante o cumprimento da medida restritiva em falta.\n\n6 - As entidades com competências legais de supervisão e fiscalização informam de imediato o Procurador-Geral da República e as autoridades nacionais competentes sempre que tenham notícia ou detetem, no âmbito das suas atribuições de supervisão e fiscalização, factos suscetíveis de configurar a violação de uma medida restritiva.\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+  },
+  "141589268": {
+   "fragment_id": "141589160",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de julho de 2017.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 3 de agosto de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 7 de agosto de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "992618081": {
+   "fragment_id": "141589115",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "992475635": {
+   "fragment_id": "141589117",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei entende-se por:\n\na) «Congelamento de fundos», a ação destinada a impedir o movimento, a transferência, a alteração e a utilização de fundos, ou o acesso aos mesmos, ou a operação de fundos por um meio suscetível de resultar numa alteração do respetivo valor, volume, montante, localização, propriedade, posse, natureza, destino ou numa alteração suscetível de permitir a sua utilização, incluindo a gestão de carteiras de valores mobiliários;\n\nb) «Congelamento de recursos económicos», a ação destinada a impedir o movimento, transferência, alienação ou oneração de ativos de qualquer tipo, corpóreos ou incorpóreos, móveis ou imóveis, que não sejam fundos, mas que possam ser utilizados na obtenção de fundos, bens ou serviços, por qualquer meio, nomeadamente através da sua venda, locação ou hipoteca;\n\nc) «Entidades executantes», as pessoas e entidades públicas ou privadas legalmente competentes para os atos materiais de execução necessários à aplicação da medida restritiva aprovada;\n\nd) «Entidades obrigadas», as entidades financeiras e não financeiras referidas nos artigos 3.º e 4.º da Lei n.º 83/2017, de 18 de agosto, que estabelece medidas de combate ao branqueamento de capitais e ao financiamento do terrorismo, transpõe parcialmente as Diretivas 2015/849/UE, do Parlamento Europeu e do Conselho, de 20 de maio de 2015, e 2016/2258/UE, do Conselho, de 6 de dezembro de 2016, altera o Código Penal e o Código da Propriedade Industrial e revoga a Lei n.º 25/2008, de 5 de junho, e o Decreto-Lei n.º 125/2008, de 21 de julho;\n\ne) «Fundos», os ativos financeiros e benefícios económicos de qualquer tipo, incluindo, entre outros:\n\ni) Numerário, cheques, créditos em numerário, livranças, ordens de pagamento e outros instrumentos de pagamento;\n\nii) Depósitos em instituições financeiras ou outras entidades, saldos de contas, créditos e títulos de crédito;\n\niii) Valores mobiliários e títulos de dívida de negociação aberta ao público ou restrita, incluindo ações e outros títulos de participação, certificados representativos de valores mobiliários, obrigações, promissórias, warrants, títulos de dívida a longo prazo e contratos sobre instrumentos derivados;\n\niv) Juros, dividendos ou outros rendimentos gerados por ativos ou mais-valias provenientes de ativos;\n\nv) Créditos, direitos de compensação, garantias, garantias de boa execução ou outros compromissos financeiros;\n\nvi) Cartas de crédito, conhecimentos de embarque, comprovativos de vendas;\n\nvii) Documentos que atestem a detenção de fundos ou recursos financeiros;\n\nviii) Criptoativos na aceção do ponto 5 do n.º 1 do artigo 3.º do Regulamento (UE) 2023/1114, do Parlamento Europeu e do Conselho, de 31 de maio de 2023, relativo aos mercados de criptoativos e que altera os Regulamentos (UE) 1093/2010 e (UE) 1095/2010 e as Diretivas 2013/36/UE e (UE) 2019/1937;\n\nf) «Medida restritiva», uma restrição temporária do exercício de um determinado direito, através da imposição de uma proibição ou de uma obrigação, aprovada pela Organização das Nações Unidas ou pela União Europeia e que visa a prossecução de pelo menos um dos seguintes objetivos:\n\ni) A manutenção ou restabelecimento da paz e da segurança internacionais e a prevenção de conflitos;\n\nii) A proteção dos direitos humanos;\n\niii) A democracia e o Estado de direito;\n\niv) A salvaguarda dos valores, da segurança, da independência e da integridade da União Europeia;\n\nv) A preservação da soberania e da independência nacionais e de outros interesses fundamentais do Estado;\n\nvi) A prevenção e repressão do terrorismo e da proliferação de armas de destruição em massa;\n\ng) «Pessoa, entidade ou organismo designado», uma pessoa singular ou coletiva, entidade ou organismo sujeito a medidas restritivas da Organização das Nações Unidas ou da União Europeia;\n\nh) «Recursos económicos», ativos de qualquer tipo, tangíveis ou intangíveis, móveis ou imóveis, que não sejam fundos, mas que possam ser utilizados para a obtenção de fundos, bens ou serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992618082": {
+   "fragment_id": "141589121",
+   "type": 1,
+   "heading": "Capítulo II — Aplicação de medidas restritivas e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Aplicação de medidas restritivas e procedimentos"
+  },
+  "992618083": {
+   "fragment_id": "141589125",
+   "type": 1,
+   "heading": "Capítulo III — Execução de medidas restritivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Execução de medidas restritivas"
+  },
+  "992475636": {
+   "fragment_id": "141589128",
+   "type": 11,
+   "heading": "Artigo 10.º — Entidades executantes",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24",
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 10.º — Entidades executantes\n\n1 - (Revogado.)\n\n2 - As autoridades nacionais competentes podem solicitar a intervenção de quaisquer pessoas e entidades públicas ou privadas na execução das medidas restritivas.\n\n3 - As entidades obrigadas ao cumprimento dos deveres previstos na legislação em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo:\n\na) Adotam os meios e mecanismos adequados para cumprir as medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia, com as especificidades dadas pela presente lei;\n\nb) Observam integralmente os deveres aplicáveis às entidades executantes, nos termos da presente lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+  },
+  "992475642": {
+   "fragment_id": "141589132",
+   "type": 11,
+   "heading": "Artigo 13.º — Fundos e recursos económicos",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "###### Artigo 13.º — Fundos e recursos económicos\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - As medidas restritivas não abrangem a utilização de recursos económicos para fins exclusivamente pessoais, incluindo despesas para efeitos de garantia de tutela jurisdicional efetiva, não podendo da execução da medida restritiva resultar qualquer circunstância atentatória do mínimo de existência condigna do destinatário e do seu agregado familiar.\n\n4 - Os recursos económicos não abrangidos nos termos do número anterior são determinados pelo juiz competente pela receção da impugnação.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992475643": {
+   "fragment_id": "141589135",
+   "type": 11,
+   "heading": "Artigo 16.º — Congelamento de fundos e de recursos económicos",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "###### Artigo 16.º — Congelamento de fundos e de recursos económicos\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - O ato que aprova ou, quando necessário, o ato que aplica a medida restritiva de congelamento de fundos e recursos económicos é diretamente aplicável, sendo executado sem necessidade de emissão de qualquer outro ato.\n\n4 - As entidades executantes procedem de imediato ao congelamento de fundos e de recursos económicos sob a sua responsabilidade.\n\n5 - A medida de congelamento de recursos económicos que respeite a bens imóveis e móveis sujeitos a registo é registada, bem como as respetivas prorrogação e cessação.\n\n6 - O registo previsto no número anterior é realizado por anotação, da qual consta o ato que aprova a medida restritiva, o conteúdo desta e a respetiva duração.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992475637": {
+   "fragment_id": "141589136",
+   "type": 11,
+   "heading": "Artigo 17.º — Recusa de entrada",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "###### Artigo 17.º — Recusa de entrada\n\n1 - A medida restritiva de recusa de entrada em território nacional só pode ser aplicada a cidadãos estrangeiros.\n\n2 - A aprovação ou, quando necessário, a aplicação de medida restritiva de recusa de entrada em território nacional determina a inscrição do destinatário da medida no Sistema Integrado de Informações da Unidade de Coordenação de Fronteiras e Estrangeiros, do Sistema de Segurança Interna, para efeitos da sua não admissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992618084": {
+   "fragment_id": "141589139",
+   "type": 1,
+   "heading": "Capítulo IV — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Garantias"
+  },
+  "992618085": {
+   "fragment_id": "141589142",
+   "type": 1,
+   "heading": "Capítulo V — Deveres de cooperação, supervisão e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Deveres de cooperação, supervisão e fiscalização"
+  },
+  "992618090": {
+   "fragment_id": "992475346",
+   "type": 11,
+   "heading": "Artigo 24.º-A — Proteção de denunciantes",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "###### Artigo 24.º-A — Proteção de denunciantes\n\nÀs pessoas singulares que denunciem a violação de medidas restritivas é aplicável o regime de proteção previsto na Lei n.º 93/2021, de 20 de dezembro, sem prejuízo da aplicação de outras disposições de proteção de denunciantes mais favoráveis.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992618091": {
+   "fragment_id": "141589146",
+   "type": 11,
+   "heading": "Artigo 25.º — Dever de confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Dever de confidencialidade\n\nAs pessoas que, exercendo funções nas autoridades nacionais competentes ou nas entidades executantes, ou prestando-lhes serviços, participem na aplicação ou execução de medidas restritivas estão sujeitas aos deveres de confidencialidade decorrentes da lei no tratamento de dados, mesmo após a cessação das suas funções."
+  },
+  "992618092": {
+   "fragment_id": "141589147",
+   "type": 11,
+   "heading": "Artigo 26.º — Cooperação internacional e assistência mútua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cooperação internacional e assistência mútua\n\n1 - As autoridades nacionais competentes cooperam com as autoridades congéneres de outros Estados e com organizações internacionais na aprovação, aplicação e execução de medidas restritivas, na medida em que o Estado Português a tal esteja vinculado, ao abrigo de instrumentos jurídicos internacionais ou de direito da União Europeia.\n\n2 - As autoridades nacionais competentes podem solicitar às autoridades congéneres de outros Estados e a organizações internacionais informações relativas à aplicação das medidas restritivas e à identificação dos destinatários para o exercício das suas competências.\n\n3 - As autoridades nacionais competentes podem transmitir às autoridades congéneres de outros Estados e a organizações internacionais informação relativa à aplicação das medidas restritivas e à identificação dos destinatários, desde que se verifiquem as seguintes condições cumulativas:\n\na) Esteja assegurada a reciprocidade;\n\nb) A entidade requerente tenha competências no procedimento de aplicação de medidas restritivas internacionais;\n\nc) Forem apresentadas garantias de que a informação apenas é utilizada para os fins previstos na presente lei;\n\nd) Forem apresentadas garantias de que a informação só é utilizada em procedimentos criminais mediante autorização da autoridade judiciária nacional competente, a solicitar pela autoridade estrangeira como pedido de auxílio, nos termos da Lei n.º 144/99, de 31 de agosto, que aprova a lei da cooperação judiciária internacional em matéria penal."
+  },
+  "992618093": {
+   "fragment_id": "141589148",
+   "type": 11,
+   "heading": "Artigo 27.º — Supervisão e fiscalização",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24",
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+   ],
+   "markdown": "###### Artigo 27.º — Supervisão e fiscalização\n\n1 - As entidades sujeitas a supervisão ou fiscalização em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo observam os deveres previstos na legislação específica, tendo igualmente em vista o cumprimento das medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia, incluindo as especificidades e os deveres previstos na presente lei.\n\n2 - As entidades com competências legais de supervisão ou fiscalização, em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo, verificam se as entidades sujeitas à sua supervisão ou fiscalização adotam os meios e mecanismos adequados para cumprir as medidas restritivas aprovadas pela Organização das Nações Unidas ou pela União Europeia, incluindo as especificidades e os deveres previstos na presente lei.\n\n3 - Para verificação do disposto no número anterior, as entidades com competências legais de supervisão ou fiscalização dispõem dos poderes que lhe são conferidos pela legislação específica em matéria de prevenção do branqueamento de capitais e financiamento do terrorismo.\n\n4 - A violação do disposto no n.º 3 do artigo 10.º da presente lei constitui contraordenação punível nos termos previstos na legislação específica em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo.\n\n5 - Sempre que as entidades com competências legais de supervisão ou fiscalização, ao abrigo de legislação específica em matéria de branqueamento de capitais e do financiamento do terrorismo, detetem, no exercício daquelas competências, omissões suscetíveis de configurar a violação de uma medida restritiva devem ordenar à entidade executante o cumprimento da medida restritiva em falta.\n\n6 - As entidades com competências legais de supervisão e fiscalização informam de imediato o Procurador-Geral da República e as autoridades nacionais competentes sempre que tenham notícia ou detetem, no âmbito das suas atribuições de supervisão e fiscalização, factos suscetíveis de configurar a violação de uma medida restritiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01"
+  },
+  "992618086": {
+   "fragment_id": "141589149",
+   "type": 1,
+   "heading": "Capítulo VI — Infrações e regime sancionatório",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "### Capítulo VI — Infrações e regime sancionatório\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992475639": {
+   "fragment_id": "141589150",
+   "type": 11,
+   "heading": "Artigo 28.º — Violação de medidas restritivas",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "###### Artigo 28.º — Violação de medidas restritivas\n\n1 - Quem, violando uma medida restritiva:\n\na) Colocar direta, ou indiretamente, à disposição de pessoas ou entidades designadas, quaisquer fundos ou recursos económicos que as mesmas possam utilizar ou dos quais possam beneficiar, ou executar transferência de fundos proibida;\n\nb) Não der cumprimento ao congelamento de fundos ou recursos económicos que sejam propriedade, estejam na posse ou sejam detidos ou controlados por pessoas ou entidades designadas;\n\nc) Permitir a entrada ou trânsito de pessoas singulares designadas no território de um Estado-Membro;\n\nd) Realizar ou mantiver operações com um Estado terceiro, com entidades de um Estado terceiro ou com entidades, direta ou indiretamente, detidas ou controladas por um Estado terceiro ou por organismos de um Estado terceiro, incluindo a adjudicação ou a manutenção da execução de contratos públicos ou de concessão;\n\ne) Realizar trocas comerciais, nomeadamente, a importação, a exportação, a compra, a venda, a transferência, o trânsito ou o transporte de mercadorias, bem como a prestação de serviços de corretagem, de assistência técnica ou de outros serviços relacionados com essas mercadorias;\n\nf) Prestar serviços financeiros ou exercer atividades financeiras ou prestar quaisquer outros serviços que integrem uma medida restritiva;\n\ng) Violar ou incumprir as condições previstas nas autorizações concedidas pelas autoridades competentes para o exercício de atividades que, na ausência de tal autorização, correspondam a uma violação de uma proibição ou restrição que constitua uma medida restritiva;\n\nh) Estabelecer ou mantiver relação jurídica proibida com pessoas ou entidades designadas ou constituir, adquirir ou aumentar a participação ou posição de controlo relativo a imóvel, empresa ou pessoa identificada nos atos de aprovação ou aplicação da medida;\n\né punido com pena de prisão de 1 a 5 anos.\n\n2 - Incorre igualmente na pena prevista no número anterior quem, com a intenção de impedir a produção de efeitos de uma medida restritiva:\n\na) Utilizar, transferir para terceiros ou de qualquer outra forma disponibilizar fundos ou recursos económicos que sejam, direta ou indiretamente propriedade, estejam na posse ou sob o controlo de uma pessoa, entidade ou organismo designado, e que devam ser congelados por força de uma medida restritiva, a fim de ocultar esses fundos ou recursos económicos;\n\nb) Prestar informações falsas ou enganosas para ocultar o facto de uma pessoa, entidade ou organismo designado ser o proprietário ou beneficiário final de fundos ou recursos económicos que devam ser congelados por força de uma medida restritiva;\n\nc) Incumprir uma obrigação, que constitua uma medida restritiva, de comunicar às autoridades administrativas competentes os fundos ou recursos económicos, em território nacional, que sejam sua propriedade, estejam na sua posse ou sejam por si detidos ou controlados;\n\nd) Incumprir uma obrigação, que constitua uma medida restritiva, de fornecer às autoridades administrativas competentes informações sobre fundos ou recursos económicos congelados ou informações detidas sobre fundos ou recursos económicos no território nacional, que sejam propriedade, estejam na posse ou se encontrem sob o controlo de pessoas, entidades ou organismos designados e que não tenham sido congelados, sempre que essas informações sejam obtidas no exercício de uma atividade profissional.\n\n3 - Sempre que a conduta prevista na alínea e) do n.º 1 envolver produtos incluídos na Lista Militar Comum da União Europeia ou produtos de dupla utilização enumerados nos anexos i e iv do Regulamento (UE) 2021/821, do Parlamento Europeu e do Conselho, de 20 de maio de 2021, o agente é punido com pena de prisão de 5 a 8 anos, independentemente do valor dos produtos em causa.\n\n4 - Se as condutas previstas nos números anteriores forem praticadas por negligência, o agente é punido com pena de prisão de 6 meses a 2 anos e 6 meses.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992475640": {
+   "fragment_id": "141589151",
+   "type": 11,
+   "heading": "Artigo 29.º — Responsabilidade e punição das pessoas coletivas e entidades equiparadas",
+   "in_force_from": "2025-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "###### Artigo 29.º — Responsabilidade e punição das pessoas coletivas e entidades equiparadas\n\n1 - As pessoas coletivas e entidades equiparadas respondem pelos crimes previstos no presente diploma nos termos do artigo 11.º do Código Penal.\n\n2 - São aplicáveis às pessoas coletivas e entidades equiparadas as penas previstas no artigo 90.º-A do Código Penal.\n\n3 - As infrações previstas nas alíneas c) e d) do n.º 2 do artigo anterior, praticadas por pessoa coletiva, são punidas com pena de multa até ao máximo correspondente a 1 % do respetivo volume de negócios total a nível mundial, realizado no exercício imediatamente anterior ao da prática da infração.\n\n4 - As infrações previstas no n.º 1 do artigo anterior e nas alíneas a) e b) do n.º 2 do artigo anterior, praticadas por pessoa coletiva, são punidas com pena de multa até ao máximo correspondente a 5 % do respetivo volume de negócios total a nível mundial, realizado no exercício imediatamente anterior ao da prática da infração.\n\n5 - O apuramento do volume de negócios total da pessoa coletiva é feito de acordo com as últimas contas individuais, ou consolidadas caso esteja sujeita à sua elaboração, que tenham sido aprovadas pelo órgão de gestão, supervisão ou administração.\n\n6 - Sempre que não for possível apurar o volume de negócios a que se refere o número anterior:\n\na) As infrações previstas nas alíneas c) e d) do n.º 2 do artigo anterior, praticadas por pessoa coletiva, são punidas com pena de multa de valor máximo até 8 000 000 €;\n\nb) As infrações previstas no n.º 1 e nas alíneas a) e b) do n.º 2 do artigo anterior, praticadas por pessoa coletiva, são punidas com pena de multa de valor máximo até 40 000 000 €.\n\n7 - Em caso de negligência, os montantes das multas previstas nos n.os 3, 4 e 6 são reduzidos a metade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992618095": {
+   "fragment_id": "992475347",
+   "type": 11,
+   "heading": "Artigo 29.º-A — Agravação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "###### Artigo 29.º-A — Agravação\n\nAs penas previstas no artigo 28.º são agravadas de um terço, nos seus limites mínimo e máximo, se a conduta nele referida tiver sido praticada:\n\na) Por um funcionário no exercício das suas funções; ou\n\nb) No contexto de uma associação criminosa.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992618098": {
+   "fragment_id": "992475348",
+   "type": 11,
+   "heading": "Artigo 29.º-B — Atenuação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "###### Artigo 29.º-B — Atenuação\n\nSem prejuízo do disposto nos artigos 72.º e 73.º do Código Penal, a pena é especialmente atenuada se, até ao encerramento da audiência de julgamento em primeira instância, o agente colaborar ativamente na descoberta da verdade, contribuindo de forma relevante para a prova dos factos.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992618099": {
+   "fragment_id": "141589152",
+   "type": 11,
+   "heading": "Artigo 30.º — Pena acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Pena acessória\n\nO tribunal pode ordenar a publicidade da decisão condenatória de pessoas singulares ou coletivas, sendo aplicável o disposto no artigo 90.º-M do Código Penal."
+  },
+  "992618087": {
+   "fragment_id": "141589153",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "992618101": {
+   "fragment_id": "992475349",
+   "type": 11,
+   "heading": "Artigo 32.º-A — Isenção do dever de comunicação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "###### Artigo 32.º-A — Isenção do dever de comunicação\n\nSempre que atuem no decurso da apreciação da situação jurídica de cliente, no âmbito da consulta jurídica ou no exercício da defesa ou representação desse cliente em processos judiciais ou a respeito de processos judiciais, mesmo quando se trate de conselhos prestados quanto à forma de instaurar ou evitar tais processos, independentemente de essas informações serem recebidas ou obtidas antes, durante ou depois do processo, os advogados e os solicitadores não estão obrigados à comunicação da violação de uma medida restritiva.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992618107": {
+   "fragment_id": "992475350",
+   "type": 11,
+   "heading": "Artigo 32.º-B — Cláusula de ajuda humanitária",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+   ],
+   "markdown": "###### Artigo 32.º-B — Cláusula de ajuda humanitária\n\nNão são ilícitos os factos previstos nos artigos 28.º e 29.º, quando praticados no âmbito da assistência humanitária a pessoas necessitadas ou a atividades de apoio às necessidades humanas básicas, realizadas em conformidade com os princípios da imparcialidade, humanidade, neutralidade e independência e, se for o caso, com o direito internacional humanitário.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2025 - Diário da República n.º 246/2025, Série I de 2025-12-23](https://diariodarepublica.pt/dr/detalhe/lei/72-2025-992402106), em vigor a partir de 2025-12-24"
+  },
+  "992618108": {
+   "fragment_id": "141589156",
+   "type": 11,
+   "heading": "Artigo 33.º — Isenção de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Isenção de responsabilidade\n\nNão há lugar ao pagamento de qualquer indemnização por parte das entidades executantes relativamente a contratos ou transações cuja execução tenha sido afetada, direta ou indiretamente, total ou parcialmente, por medidas restritivas aprovadas pela Organização das Nações Unidas e pela União Europeia, nomeadamente sob a forma de pedidos de indemnização ou qualquer outro pedido deste tipo, independentemente da forma que assuma."
+  },
+  "992618109": {
+   "fragment_id": "141589157",
+   "type": 11,
+   "heading": "Artigo 34.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Relatórios\n\n1 - As autoridades nacionais competentes enviam ao Ministro dos Negócios Estrangeiros, até 31 de março de cada ano, um relatório com a análise da aplicação das medidas restritivas em Portugal no ano anterior, discriminando a atividade das várias entidades executantes.\n\n2 - As autoridades nacionais competentes podem solicitar às entidades executantes a entrega de relatórios sobre a sua intervenção na execução das medidas restritivas."
+  },
+  "992618110": {
+   "fragment_id": "141589158",
+   "type": 11,
+   "heading": "Artigo 35.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Direito subsidiário\n\nAo procedimento de aplicação e execução de medidas restritivas aplicam-se subsidiariamente as disposições do Código do Procedimento Administrativo que não contrariem as regras definidas na presente lei."
+  },
+  "992618111": {
+   "fragment_id": "141589159",
+   "type": 11,
+   "heading": "Artigo 36.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Norma revogatória\n\nÉ revogada a Lei n.º 11/2002, de 16 de fevereiro."
+  },
+  "992618088": {
+   "fragment_id": "141589160",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de julho de 2017.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 3 de agosto de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 7 de agosto de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

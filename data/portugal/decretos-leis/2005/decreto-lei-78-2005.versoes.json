@@ -1,0 +1,1128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:546625:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-888932866",
+ "dre_path": "/dr/detalhe/decreto-lei/78-2005-546625",
+ "source_lastmod": "2024-09-25",
+ "versions": [
+  {
+   "date": "2005-04-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888845832",
+    "888845833",
+    "888845834",
+    "888845835",
+    "888845836",
+    "888845837",
+    "888845839",
+    "888845840",
+    "888845841",
+    "888845842",
+    "888845843",
+    "888845844",
+    "888845845",
+    "888845846",
+    "888845847",
+    "888845848",
+    "888845849",
+    "888845850",
+    "888845851",
+    "888845852",
+    "888845853",
+    "888845854",
+    "888845855",
+    "888845856",
+    "888845857",
+    "888845858"
+   ]
+  },
+  {
+   "date": "2010-12-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:666881:por",
+     "title": "Decreto-Lei n.º 138-B/2010",
+     "published": "2010-12-28",
+     "dre_path": "/dr/detalhe/decreto-lei/138-b-2010-666881"
+    }
+   ],
+   "changes": [
+    "Adita Base III-A",
+    "Adita Base IX-A",
+    "Altera Base III",
+    "Altera Base IV",
+    "Altera Base V",
+    "Altera Base VI",
+    "Altera Base VII",
+    "Altera Base VIII",
+    "Altera Base IX",
+    "Altera Base X",
+    "Altera Base XI",
+    "Altera Base XVIII",
+    "Revoga Base XIII"
+   ],
+   "fragments": [
+    "888845832",
+    "888845833",
+    "888845834",
+    "888845835",
+    "888845836",
+    "888845837",
+    "888845838",
+    "888845839",
+    "888951381",
+    "888951382",
+    "888951383",
+    "888951384",
+    "888951385",
+    "888951386",
+    "888951387",
+    "888951388",
+    "888951389",
+    "888951390",
+    "888951391",
+    "888951132",
+    "888951133",
+    "888951134",
+    "888951135",
+    "888951136",
+    "888951137",
+    "888951138",
+    "888951139",
+    "888951140",
+    "888951141"
+   ]
+  },
+  {
+   "date": "2019-12-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:127380609:por",
+     "title": "Decreto-Lei n.º 174-A/2019",
+     "published": "2019-12-18",
+     "dre_path": "/dr/detalhe/decreto-lei/174-a-2019-127380609"
+    }
+   ],
+   "changes": [
+    "Adita Base VI-A",
+    "Adita Base VIII-A",
+    "Adita Base XIII-A",
+    "Altera Base I",
+    "Altera Base III",
+    "Altera Base V",
+    "Altera Base VI",
+    "Altera Base VII",
+    "Altera Base VIII",
+    "Altera Base IX",
+    "Altera Base XII",
+    "Altera Base XIV",
+    "Altera Base XVIII",
+    "Revoga Base III-A",
+    "Revoga Base IX-A"
+   ],
+   "fragments": [
+    "888845832",
+    "888845833",
+    "888845834",
+    "888845835",
+    "888845836",
+    "888845837",
+    "888845838",
+    "888845839",
+    "888951821",
+    "888951822",
+    "888951823",
+    "888951824",
+    "888951825",
+    "888951826",
+    "888951827",
+    "888951828",
+    "888951829",
+    "888951830",
+    "888951831",
+    "888951814",
+    "888951815",
+    "888951816",
+    "888951817",
+    "888951818",
+    "888951819",
+    "888951820",
+    "888951467",
+    "888951456",
+    "888951457",
+    "888951458",
+    "888951468",
+    "888951460"
+   ]
+  },
+  {
+   "date": "2024-09-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:888861523:por",
+     "title": "Decreto-Lei n.º 57-C/2024",
+     "published": "2024-09-24",
+     "dre_path": "/dr/detalhe/decreto-lei/57-c-2024-888861523"
+    }
+   ],
+   "changes": [
+    "Adita Base VIII-B",
+    "Altera Base I",
+    "Altera Base II",
+    "Altera Base III",
+    "Altera Base VI",
+    "Altera Base VI-A",
+    "Altera Base VIII",
+    "Altera Base VIII-A",
+    "Altera Base IX",
+    "Altera Base XII",
+    "Altera Base XVIII"
+   ],
+   "fragments": [
+    "888845832",
+    "888845833",
+    "888845834",
+    "888845835",
+    "888845836",
+    "888845837",
+    "888845838",
+    "888845839",
+    "888951867",
+    "888951868",
+    "888951869",
+    "888951870",
+    "888951871",
+    "888951872",
+    "888951873",
+    "888951874",
+    "888952075",
+    "888952076",
+    "888952077",
+    "888952078",
+    "888951851",
+    "888951852",
+    "888951853",
+    "888951854",
+    "888951866",
+    "888951856",
+    "888951857",
+    "888951858",
+    "888951859",
+    "888951860",
+    "888951861",
+    "888951862",
+    "888951863"
+   ]
+  }
+ ],
+ "fragments": {
+  "888845832": {
+   "fragment_id": "888932867",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 78/2005\n\nde 13 de Abril\n\nA concessão da exploração do serviço de transporte ferroviário de passageiros do eixo norte-sul foi atribuída à sociedade FERTAGUS - Travessia do Tejo, Transportes, S. A., adjudicatária no concurso público internacional regulado pela Portaria n.º 565-A/97, de 28 de Julho, conforme o despacho conjunto n.º 731/98, dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, de 19 de Outubro de 1998.\n\nO contrato de concessão da exploração do serviço de transporte ferroviário de passageiros do eixo norte-sul, celebrado entre o Estado, na qualidade de concedente, e a sociedade FERTAGUS - Travessia do Tejo, Transportes, S. A., na qualidade de concessionário, prevê, na sua cláusula 12.ª, n.º 2, a possibilidade de renegociação do contrato no seu todo, caso se constatasse que durante o período inicial da concessão o volume de tráfego não atingia o limite inferior da banda inferior de tráfego. Tendo-se verificado que, durante todo o período inicial (que cobriu parte do ano de 1999 - desde a data do início efectivo da exploração até 31 de Dezembro desse ano - e os anos de 2000, 2001 e 2002), o volume de tráfego não atingiu o limite inferior da banda inferior de tráfego contratualmente definida, quer o concedente quer o concessionário revelaram disponibilidade para renegociar global e integralmente o contrato.\n\nNesse sentido, o concedente e o concessionário celebraram um acordo sobre a renegociação do contrato de concessão da exploração do serviço de transporte ferroviário de passageiros do eixo norte-sul, visando enquadrar juridicamente o procedimento renegocial a desenvolver.\n\nNos termos da cláusula 2.ª, n.º 5, daquele acordo, antes do termo do prazo de conclusão da renegociação, podem ser iniciadas, inter alia, as diligências que caibam ao concedente efectuar com vista à elaboração, aprovação e entrada em vigor de quaisquer regras legais que devam servir de fundamento ou pressuposto das alterações decorrentes da renegociação, designadamente modificações ao Decreto-Lei n.º 189-B/99, de 2 de Junho, e das bases da concessão do eixo ferroviário norte-sul ao mesmo anexas, ou a revogação desse decreto-lei e a sua substituição por um outro. Ao concedente incumbe, ainda, envidar os seus melhores esforços para que as referidas diligências sejam concluídas no mais curto lapso de tempo, nos termos do n.º 6 da mesma cláusula do contrato de concessão. O concedente e o concessionário acordaram quanto às alterações a efectuar às bases da concessão.\n\nTendo em atenção que o prazo para o termo da renegociação expira a 31 de Janeiro de 2005, e atendendo à necessidade de assegurar a continuidade, qualidade e adequação do serviço prestado na ligação ferroviária entre as duas margens do rio Tejo, impõe-se a aprovação de novas bases da concessão pelo XVI Governo Constitucional, sem prejuízo de a alteração da concessão estar sujeita ao procedimento de aprovação previsto no Decreto-Lei n.º 86/2003, de 26 de Abril. Ao abrigo do disposto no n.º 3 do artigo 8.º e do n.º 2 do artigo 14.º do Decreto-Lei n.º 86/2003, de 26 de Abril, foi constituída uma comissão de acompanhamento da renegociação da qual fazem parte representantes dos Ministérios das Finanças e da Administração Pública e das Obras Públicas, Transportes e Comunicações.\n\nForam emitidos dois pareceres independentes, não vinculativos, por parte dos membros nomeados por cada um dos ministérios para a comissão de acompanhamento.\n\nOs princípios constantes das novas bases da concessão reflectem a opção do XVI Governo Constitucional em conceder à iniciativa privada parte dos benefícios expectáveis mas também a responsabilidade e os riscos da exploração do serviço de transporte público de passageiros e a necessidade de acompanhar as orientações comunitárias no âmbito da política de transportes de passageiros por via férrea, aprofundando a abertura do mercado de fornecimento de serviços de transporte público.\n\nO presente diploma estabelece as bases revistas da concessão da exploração do serviço de transporte ferroviário de passageiros do eixo norte-sul, identificando as obrigações do concessionário e garantindo condições de qualidade, comodidade, rapidez e segurança.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "888845833": {
+   "fragment_id": "888932868",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nSão aprovadas as bases revistas da concessão da exploração do serviço de transporte ferroviário de passageiros do eixo norte-sul da região de Lisboa, as quais constam do anexo a este diploma."
+  },
+  "888845834": {
+   "fragment_id": "888932869",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime de concessão e formalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime de concessão e formalidades\n\n1 - A concessão rege-se pelas bases ora aprovadas, pelo Decreto-Lei n.º 274/98, de 5 de Setembro, e pelo contrato de concessão alterado a celebrar pelo Estado e pelo concessionário.\n\n2 - A celebração do contrato de concessão referido no número anterior, bem como as respectivas alterações e aditamentos, fica dispensada de escritura pública."
+  },
+  "888845835": {
+   "fragment_id": "888932870",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração e aditamento ao contrato de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração e aditamento ao contrato de concessão\n\nAs alterações e os aditamentos ao contrato de concessão, nos termos nele previstos, não poderão contrariar as disposições constantes das bases ora aprovadas."
+  },
+  "888845836": {
+   "fragment_id": "888932871",
+   "type": 11,
+   "heading": "Artigo 4.º — Sucessão ou substituição do concessionário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sucessão ou substituição do concessionário\n\nA celebração do contrato de concessão renegociado com a FERTAGUS - Travessia do Tejo, Transportes, S. A., não prejudica as hipóteses de sucessão ou substituição do concessionário previstas e reguladas naquele contrato."
+  },
+  "888845837": {
+   "fragment_id": "888932872",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\n1 - A entrada em vigor do presente diploma depende da aprovação, pelo Estado, nos termos do Decreto-Lei n.º 86/2003, de 26 de Abril, da minuta de contrato de concessão renegociado nos termos do acordo sobre a renegociação do contrato de concessão da exploração do serviço de transporte ferroviário de passageiros do eixo norte-sul.\n\n2 - Com a entrada em vigor do presente diploma é revogado o Decreto-Lei n.º 189-B/99, de 2 de Junho."
+  },
+  "888845839": {
+   "fragment_id": "888932874",
+   "type": 14,
+   "heading": "Anexo — Bases da concessão do eixo ferroviário norte-sul",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Bases da concessão do eixo ferroviário norte-sul"
+  },
+  "888845840": {
+   "fragment_id": "888950975",
+   "type": 2,
+   "heading": "Base I — Objecto da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base I — Objecto da concessão\n\n1 - A concessão tem por objecto principal a exploração, pelo concessionário, em regime regular e contínuo, do serviço de transporte ferroviário suburbano de passageiros no eixo ferroviário norte-sul, entre as estações de Roma-Areeiro, Entrecampos, Sete Rios, Campolide, Pragal, Corroios, Foros de Amora, Fogueteiro, Coina, Penalva, Pinhal Novo, Venda do Alcaide, Palmela e Setúbal.\n\n2 - Por acordo entre o concedente e o concessionário, pode ser alterado o ponto extremo do serviço concessionado, estendendo-se a concessão, na margem norte, até à Gare do Oriente, e ou, na margem sul, até Praias do Sado.\n\n3 - O concessionário explora ainda o serviço complementar de transporte rodoviário nos termos a prever no contrato de concessão."
+  },
+  "888845841": {
+   "fragment_id": "888950976",
+   "type": 2,
+   "heading": "Base II — Outras actividades do concessionário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base II — Outras actividades do concessionário\n\n1 - Ao objecto principal do contrato de concessão acrescerá, a título acessório, a exploração das estações, interfaces, silos e parques de estacionamento das estações da margem sul do Pragal, Corroios, Foros de Amora, Fogueteiro, Coina e Penalva, assim como das áreas comerciais incluídas nessas estações e interfaces, nos termos do respectivo contrato de concessão de exploração anexo ao contrato de concessão.\n\n2 - O concessionário é obrigado a manter um sistema de informação contabilística por actividade; são actividades distintas: a) o serviço concessionado de transporte ferroviário; b) o serviço complementar de transporte rodoviário, e c) cada uma das actividades acessórias ao serviço concessionado de transporte tal como definidas no contrato de concessão."
+  },
+  "888845842": {
+   "fragment_id": "888950977",
+   "type": 2,
+   "heading": "Base III — Prazo da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base III — Prazo da concessão\n\n1 - O contrato de concessão vigora até 31 de Dezembro de 2010, podendo ser prorrogado por um período adicional de nove anos.\n\n2 - A prorrogação a que alude o número anterior, sem prejuízo da necessidade de negociações com vista ao acerto das condições contratuais a vigorar durante o período adicional, ocorrerá se o concessionário demonstrar objectivamente que, durante tal período adicional, não haverá lugar a qualquer comparticipação financeira do Estado, seja qual for a sua forma ou natureza, e desde que, durante o período inicial, hajam sido cumpridos pelo concessionário os parâmetros destinados a avaliar a qualidade do serviço prestado pelo concessionário, a definir no contrato de concessão.\n\n3 - Caso seja prorrogada a vigência da concessão, o concessionário mantém-se estritamente adstrito ao cumprimento das obrigações de prestação de serviço público e parâmetros de qualidade previstos nas presentes bases e no contrato de concessão.\n\n4 - As negociações a que alude o n.º 2 devem ter lugar entre 30 de Junho de 2008 e 30 de Junho de 2009."
+  },
+  "888845843": {
+   "fragment_id": "888950978",
+   "type": 2,
+   "heading": "Base IV — Prestações de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IV — Prestações de serviço público\n\n1 - O concessionário é obrigado a realizar a exploração do serviço público concessionado nos termos previstos no contrato de concessão, garantindo uma oferta adequada aos níveis de procura, garantindo condições de qualidade, comodidade, rapidez e segurança, com respeito pelos limites de capacidade da infra-estrutura e de acordo com todos os parâmetros a definir no contrato de concessão.\n\n2 - No programa de oferta referido no número anterior o concessionário deve assegurar circulações de baixas taxas de utilização e, se delas resultar desequilíbrio financeiro da actividade ferroviária, o concedente compensá-lo-á financeiramente.\n\n3 - A compensação financeira prevista no n.º 2 será paga de acordo com o estabelecido no contrato de concessão, sem prejuízo da possibilidade de o concedente deduzir destes montantes quaisquer quantias que, nos termos daquele contrato, sejam devidas pelo concessionário.\n\n4 - Na fixação do montante das compensações financeiras do Estado as partes terão em conta a margem positiva das receitas provenientes do serviço complementar de transporte rodoviário e das outras actividades integradas, a título acessório, no objecto do contrato de concessão.\n\n5 - Na repartição da capacidade da infra-estrutura, a Rede Ferroviária Nacional - REFER, E. P., deve assegurar o programa de oferta previsto no contrato de concessão renegociado nos termos da legislação aplicável."
+  },
+  "888845844": {
+   "fragment_id": "888950979",
+   "type": 2,
+   "heading": "Base V — Obrigações respeitantes à sociedade concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base V — Obrigações respeitantes à sociedade concessionária\n\n1 - O concessionário tem como objecto social exclusivo o exercício das actividades previstas nas presentes bases e no contrato de concessão.\n\n2 - Qualquer alteração ao contrato de sociedade do concessionário depende de autorização do concedente.\n\n3 - As acções representativas do capital social do concessionário são obrigatoriamente nominativas e só podem ser transmitidas entre accionistas ou a terceiros, ou oneradas em favor dos mesmos, mediante autorização do concedente.\n\n4 - Considera-se tacitamente autorizada a oneração de acções em favor das instituições financeiras referidas no contrato de concessão, nos precisos termos aí estabelecidos e até a alienação do material circulante pelo concessionário nos termos previstos na base XIII.\n\n5 - Qualquer deliberação de fusão ou de cisão do concessionário depende de autorização do concedente.\n\n6 - A violação do disposto na presente base implica a nulidade dos correspondentes actos ou contratos.\n\n7 - O concessionário deve enviar ao concedente, no prazo de 30 dias após a celebração do contrato de concessão, a lista discriminada das participações qualificadas nas sociedades detentoras das suas participações sociais; sempre que tal lista for objecto de alterações, devem estas ser notificadas ao concedente no prazo de 30 dias a contar da respectiva formalização.\n\n8 - Para os efeitos do disposto no número anterior, «participação qualificada» tem o significado estabelecido no n.º 7 do artigo 13.º do Decreto-Lei n.º 298/92, de 31 de Dezembro, com a redacção vigente à data da publicação das presentes bases."
+  },
+  "888845845": {
+   "fragment_id": "888950980",
+   "type": 2,
+   "heading": "Base VI — Regime de riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VI — Regime de riscos\n\n1 - O concessionário assume integral responsabilidade pelos riscos relativos à concessão, excepto quando o contrário resulte expressamente das presentes bases ou do contrato de concessão.\n\n2 - O Estado apenas pode atribuir ao concessionário as compensações financeiras expressamente previstas no contrato de concessão.\n\n3 - Caso as receitas de bilheteira referentes ao serviço ferroviário, devidamente evidenciadas nas demonstrações financeiras do concessionário, auditadas pela Inspecção-Geral de Finanças (IGF), excedam, em determinado ano, os montantes previstos no modelo financeiro anexo ao contrato de concessão («caso base»), o excedente será repartido entre o concedente e o concessionário, nas proporções a definir no contrato de concessão.\n\n4 - Na determinação das receitas de bilheteira referentes ao serviço ferroviário a que alude o número anterior não serão considerados eventuais descontos decorrentes da prestação simultânea de outros serviços compreendidos no âmbito da actuação do concessionário."
+  },
+  "888845846": {
+   "fragment_id": "888950981",
+   "type": 2,
+   "heading": "Base VII — Reposição do equilíbrio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VII — Reposição do equilíbrio financeiro\n\n1 - O concessionário apenas tem direito à reposição do equilíbrio financeiro da concessão quando o concedente imponha alterações unilaterais ao contrato de concessão e o prejuízo líquido de tais alterações, autonomamente consideradas, se traduza numa redução efectiva da taxa interna de rendibilidade (TIR) accionista global em mais de 0,05% face ao que se encontra estabelecido no caso base.\n\n2 - A reposição do equilíbrio financeiro tem como objectivo repor a equação económico-financeira subjacente ao contrato de concessão, tal como constante do caso base.\n\n3 - Para efeitos da reposição do equilíbrio financeiro, apenas são considerados:\n\na) As rubricas de custos constantes do caso base relativas ao programa de oferta constante do contrato de concessão;\n\nb) Os prejuízos que apresentem um nexo de causalidade adequada com os eventos expressamente previstos nas presentes bases como pressuposto de reposição do equilíbrio financeiro.\n\n4 - A reposição do equilíbrio financeiro será efectuada através da reposição da TIR accionista global, por via de uma compensação financeira do concedente ou outro modo que venha a ser acordado pelas partes, tendo em conta as necessidades de tesouraria do concessionário.\n\n5 - A reposição do equilíbrio financeiro efectuada nos termos da presente base será, relativamente ao evento que lhe deu origem, única, completa e final para todo o período da concessão, sem prejuízo de tal reposição poder ser parcialmente diferida em relação a quaisquer efeitos específicos do evento em causa que, pela sua própria natureza, não sejam susceptíveis de uma razoável avaliação imediata ou sobre cuja existência, incidência ou quantificação as partes não hajam ainda chegado a acordo.\n\n6 - Para os efeitos previstos na presente base, o concessionário deve notificar o concedente da ocorrência de qualquer evento que, na sua opinião, possa dar lugar à reposição do equilíbrio financeiro da concessão no prazo de 30 dias após a data da sua ocorrência.\n\n7 - O caso base apenas pode ser modificado na medida do necessário para reflectir as reposições do equilíbrio financeiro efectuadas nos termos das presentes bases."
+  },
+  "888845847": {
+   "fragment_id": "888950982",
+   "type": 2,
+   "heading": "Base VIII — Tarifas pela utilização da infra-estrutura e outros pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VIII — Tarifas pela utilização da infra-estrutura e outros pagamentos\n\n1 - O concessionário deve pagar à Rede Ferroviária Nacional - REFER, E. P., as tarifas previstas na legislação aplicável e fixadas no contrato de concessão.\n\n2 - Caso, a partir de 2006, se verifique uma variação anual, positiva ou negativa, da tarifa ponderada por prestação dos serviços essenciais de utilização da infra-estrutura, determinada a preços constantes de 2006, superior a 3% relativamente ao valor do ano a que respeite, previsto no caso base, o concedente ou o concessionário, conforme aplicável, deverá pagar à outra parte o montante correspondente a esse diferencial."
+  },
+  "888845848": {
+   "fragment_id": "888950983",
+   "type": 2,
+   "heading": "Base IX — Tarifário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IX — Tarifário\n\n1 - O tarifário em vigor depois de 31 de Dezembro de 2004 pode ser alterado anualmente pelo concessionário, nos termos previstos no contrato de concessão, dentro de um intervalo de 5% real, inferior ou superior, relativamente à base tarifária média (BTM).\n\n2 - O concessionário deve informar o concedente com uma antecedência não inferior a 45 dias sobre qualquer alteração que pretenda introduzir no tarifário, ainda que situada dentro dos limites previstos no número anterior.\n\n3 - O concedente pode opor-se à alteração de tarifário pretendida pelo adjudicatário nos termos do n.º 2 da presente base desde que razões de interesse público devidamente fundamentadas obstem à respectiva concretização, devendo, em caso de oposição, compensar o adjudicatário nos termos a ser fixados no contrato de concessão."
+  },
+  "888845849": {
+   "fragment_id": "888950984",
+   "type": 2,
+   "heading": "Base X — Exclusividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base X — Exclusividade\n\n1 - A exploração do serviço concessionado entre a estação de Roma-Areeiro e Setúbal cabe em exclusivo ao concessionário.\n\n2 - Ficam excluídas do regime estabelecido no número anterior as ligações ferroviárias suburbanas de passageiros entre as estações de Campolide e Roma-Areeiro e entre as estações de Pinhal Novo e Setúbal.\n\n3 - Os comboios de longo curso, os comboios intercidades ou outros idênticos sob designação diversa só podem ter paragens, na Margem Sul, na estação do Pragal e nas estações incluídas no troço entre Pinhal Novo e Setúbal.\n\n4 - Os comboios regionais só podem ter paragens, na Margem Sul, na estação do Pragal e nas estações incluídas no troço entre Pinhal Novo e Setúbal, só podendo proceder ao embarque de passageiros naquelas estações quando circulem no sentido norte-sul e ao desembarque de passageiros quando circulem no sentido sul-norte.\n\n5 - O concessionário não pode explorar comercialmente sob qualquer forma a actividade de transporte ferroviário com início e termo na Margem Norte sem atravessamento da Ponte de 25 de Abril.\n\n6 - O concessionário não tem direito a qualquer compensação pelos prejuízos resultantes de eventuais alterações verificadas no sistema de transportes da área metropolitana de Lisboa, designadamente a abertura de novas infra-estruturas de travessia no rio Tejo ou o incremento ou modernização dos serviços do transporte público rodoviário ou do transporte fluvial para a travessia do Tejo."
+  },
+  "888845850": {
+   "fragment_id": "888950985",
+   "type": 2,
+   "heading": "Base XI — Estabelecimento da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XI — Estabelecimento da concessão\n\n1 - O estabelecimento da concessão compreende a universalidade dos bens e direitos afectos à mesma, incluindo, designadamente:\n\na) Material circulante, até a implementação da estrutura de locação operacional ou outra estrutura alternativa nos termos previstos na base XIII;\n\nb) Máquinas, equipamentos, aparelhagens e acessórios directamente utilizados na produção, exploração e manutenção do serviço concessionado;\n\nc) Imóveis necessários à produção, exploração e manutenção do serviço concessionado;\n\nd) Relações e posições jurídicas directamente relacionadas com a concessão, nomeadamente:\n\ni) Relações de natureza laboral;\n\nii) Direitos de utilização da infra-estrutura;\n\niii) Direitos de ocupação do complexo ferroviário de Coina;\n\niv) Direitos de exploração ou de gestão de outras áreas ou imóveis relacionados com a concessão;\n\nv) Outras relações ou posições jurídicas decorrentes de actos ou contratos mencionados no contrato de concessão.\n\n2 - Os bens referidos no número anterior integram o estabelecimento da concessão com quaisquer benfeitorias que neles tenham sido ou venham a ser executadas.\n\n3 - Os bens integrantes do estabelecimento da concessão deverão encontrar-se, a todo o tempo, afectos ao serviço concessionado, ressalvadas as imobilizações estritamente necessárias a operações de manutenção ou reparação.\n\n4 - O concessionário elaborará e manterá actualizado um inventário dos bens afectos à concessão, assim como dos bens que deixem de estar afectos à mesma, de acordo com as regras a estabelecer no contrato de concessão.\n\n5 - O concessionário obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens afectos à concessão, efectuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho das prestações colocadas a seu cargo pelas presentes bases ou pelo contrato de concessão."
+  },
+  "888845851": {
+   "fragment_id": "888950986",
+   "type": 2,
+   "heading": "Base XII — Contratos acessórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XII — Contratos acessórios\n\n1 - São considerados instrumentais e dependentes do cumprimento pelo concessionário das obrigações inerentes às presentes bases e ao contrato de concessão os seguintes contratos que serão anexos ao contrato de concessão:\n\na) Contrato de utilização da infra-estrutura;\n\nb) Acordos de financiamento;\n\nc) Contrato de exploração do serviço rodoviário;\n\nd) Contrato relativo ao sistema de monitorização do desempenho;\n\ne) Outros contratos denominados como acessórios no contrato de concessão.\n\n2 - As presentes bases e o contrato de concessão serão parâmetro de validade dos contratos previstos no número anterior, que não os poderão contrariar ou conter disposições que conduzam a resultados que frustrem os seus objectivos, bem como de quaisquer outros contratos directamente relacionados com a concessão que venham a ser celebrados.\n\n3 - O concessionário obriga-se a não alterar ou resolver os contratos referidos no n.º 1 sem autorização do concedente.\n\n4 - O concessionário não poderá opor ao concedente quaisquer excepções ou meios de defesa que resultem das relações contratuais referidas nos números anteriores.\n\n5 - O concessionário garantirá que as entidades contratantes dos contratos referidos no n.º 1 terão pleno conhecimento da sua natureza instrumental e dependente relativamente a este contrato."
+  },
+  "888845852": {
+   "fragment_id": "888950987",
+   "type": 2,
+   "heading": "Base XIII — Material circulante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIII — Material circulante\n\n1 - O concedente pode, a qualquer momento, implementar uma estrutura de locação operacional, ou qualquer outra que considere adequada, relativamente ao material circulante, devendo o concessionário assumir, no contrato de concessão, a obrigação de cooperar com aquele e a actuar de boa-fé na prossecução desse objectivo.\n\n2 - Caso opte por concretizar uma estrutura de locação operacional ou outra estrutura alternativa, esta será antecedida de procedimento concorrencial a lançar e a conduzir pelo concedente, com vista à escolha da entidade adquirente do material circulante e à definição dos termos exactos da estrutura.\n\n3 - O contrato de concessão deve prever a aceitação clara e irretratável do concessionário quanto à transferência da propriedade do material circulante para a entidade locadora ou outra entidade a ser indicada pelo concedente.\n\n4 - Caso a implementação da estrutura de locação ou outra estrutura alternativa não ocorra até 30 de Junho de 2006, o Estado ou entidade por este a designar adquirirá o material circulante, nos termos a definir no contrato de concessão."
+  },
+  "888845853": {
+   "fragment_id": "888950988",
+   "type": 2,
+   "heading": "Base XIV — Fiscalização e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIV — Fiscalização e monitorização\n\n1 - A actividade do concessionário está sujeita à fiscalização e monitorização do concedente, o qual poderá promover as auditorias que entender necessárias.\n\n2 - A fiscalização e monitorização prevista no número anterior competem ao Ministério das Finanças e da Administração Pública, no que respeita aos aspectos económicos e financeiros, e ao Ministério das Obras Públicas, Transportes e Comunicações, nos demais.\n\n3 - As competências do Ministério das Finanças e da Administração Pública serão exercidas pela IGF e as do Ministério das Obras Públicas, Transportes e Comunicações serão, relativamente a aspectos técnicos e operacionais e nos termos expressamente previstos na legislação e no contrato de concessão, pelo Instituto Nacional de Transporte Ferroviário (INTF).\n\n4 - No âmbito das suas atribuições de fiscalização, o INTF fiscalizará, entre outros aspectos, a actividade do concessionário em tudo o que respeite à exploração, com vista à verificação, designadamente:\n\na) Das condições de segurança, operacionalidade, eficiência, rapidez, comodidade, conforto e asseio do material circulante e dos demais meios de exploração ferroviária em geral;\n\nb) Da adequação da capacidade de transporte aos níveis da procura, em condições de perfeita fiabilidade e pontualidade;\n\nc) Da disponibilidade, qualidade e quantidade dos recursos humanos e da sua preparação para levar a cabo as acções exigidas para a exploração da concessão;\n\nd) Do livre acesso de todos os passageiros que utilizem o sistema aos serviços que integrem a exploração do mesmo, sem qualquer discriminação quanto às condições de acesso e realização, para além das impostas pelo regime tarifário;\n\ne) Do cumprimento de todas as normas legais, regulamentares e contratuais aplicáveis à exploração da concessão, bem como das imposições e directrizes impostas pelas autoridades competentes."
+  },
+  "888845854": {
+   "fragment_id": "888950989",
+   "type": 2,
+   "heading": "Base XV — Penalidades por mora ou cumprimento defeituoso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XV — Penalidades por mora ou cumprimento defeituoso\n\n1 - O incumprimento de qualquer das obrigações decorrentes das presentes bases ou do contrato de concessão pelo concessionário está sujeito a penalidades, cujos limites mínimos e máximos serão fixados, em função da gravidade da infracção, no contrato de concessão.\n\n2 - A aplicação das penalidades previstas na presente base é da competência do INTF.\n\n3 - O projecto de decisão sobre a penalidade a aplicar será notificado por escrito ao concessionário, o qual terá direito a apresentar a sua defesa escrita no prazo de 20 dias.\n\n4 - A decisão final sobre a aplicação da penalidade, com os respectivos fundamentos, será notificada por escrito ao concessionário.\n\n5 - A dedução de impugnação do acto que aplique a multa não suspende a obrigação de pagamento da mesma.\n\n6 - Os montantes das penalidades referidos no n.º 1 serão automaticamente actualizados no início de cada ano civil, logo que disponibilizado pelo Instituto Nacional de Estatística o IPC total, excepto habitação referente ao ano anterior.\n\n7 - O pagamento das penalidades previstas na presente base não isenta o concessionário da responsabilidade criminal, contra-ordenacional e civil a que eventualmente haja lugar, nem exclui a fiscalização, controlo e poder sancionatório de outras entidades que decorram da lei ou de regulamento, nem tão pouco prejudica a possibilidade de sequestro, resolução ou resgate da concessão nos termos das bases XVI a XVIII.\n\n8 - O produto das multas aplicadas ao abrigo destas bases ou do contrato de concessão reverte para o INTF e para o Estado, na proporção de 40% e 60%, respectivamente."
+  },
+  "888845855": {
+   "fragment_id": "888950990",
+   "type": 2,
+   "heading": "Base XVI — Sequestro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVI — Sequestro\n\n1 - O concedente pode intervir na concessão sempre que se dê, ou se afigure iminente, uma cessação ou interrupção total ou parcial da prestação a cargo do concessionário não autorizada e não devida a força maior, ou se verifiquem graves deficiências na respectiva organização ou funcionamento ou no estado geral dos bens afectos àquela, em termos susceptíveis de comprometerem os objectivos do transporte ferroviário suburbano de passageiros concessionado.\n\n2 - Verificado o sequestro, o concessionário suportará não apenas os encargos resultantes da manutenção do serviço mas, também, quaisquer despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração e gestão que não possam ser cobertas pelos resultados daquela.\n\n3 - Logo que cessem os fundamentos de sequestro e o concedente julgue oportuno, o concessionário é notificado para retomar, na data que lhe for fixada, a normal exploração e gestão da concessão.\n\n4 - Se o concessionário não quiser ou não puder retomar a exploração e gestão da concessão ou se, tendo-o feito, continuarem a verificar-se graves deficiências na organização ou funcionamento da mesma ou no estado geral dos bens a ela afectos, o concedente pode declarar a imediata resolução do contrato de concessão."
+  },
+  "888845856": {
+   "fragment_id": "888950991",
+   "type": 2,
+   "heading": "Base XVII — Resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVII — Resolução\n\n1 - O concedente pode resolver o contrato de concessão nos termos a definir naquele contrato.\n\n2 - A resolução prevista no n.º 1 implica, nomeadamente, a reversão, para o Estado, de todos os bens e direitos afectos à concessão."
+  },
+  "888845857": {
+   "fragment_id": "888950992",
+   "type": 2,
+   "heading": "Base XVIII — Resgate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVIII — Resgate\n\n1 - Sem prejuízo do disposto no n.º 7 da presente base, a concessão só pode ser resgatada, mediante comunicação escrita do concedente, a partir de 1 de Janeiro de 2009.\n\n2 - Em caso de resgate, o concedente assume os activos do concessionário afectos à concessão com os ónus ou encargos que tenham sido constituídos com autorização do concedente.\n\n3 - O concedente assume os passivos do concessionário afectos à concessão, desde que, comprovadamente:\n\na) Resultem directamente de actividade incluída no objecto da concessão e tenham sido, sejam ou venham a ser necessários para a prossecução desse objecto;\n\nb) Tenham sido constituídos em data anterior à comunicação do resgate feita pelo concedente ou em data posterior com autorização por escrito do concedente; e\n\nc) Sejam o resultado de negociação zelosa e diligente efectuada pelo concessionário.\n\n4 - O concedente assume ainda, perante os accionistas do concessionário no momento do resgate e sem duplicação com o previsto no número anterior, o dever de os compensar por um montante que resulte da actualização, para a data de resgate, dos montantes previstos no caso base a título de pagamento de dividendos a accionistas desde a data do resgate até a data do termo inicial do contrato de concessão previsto no n.º 1 da base III, deduzidos de quaisquer pagamentos efectuados aos accionistas no ano em que ocorra o resgate; para efeitos desta actualização deverá ser considerada a TIR accionista constante do caso base.\n\n5 - As assunções a que se referem os n.os 3 e 4 ficam condicionadas à realização de uma auditoria, sob responsabilidade de entidade designada por acordo entre concedente e concessionário, e aos resultados da mesma; tal auditoria terá a duração máxima de seis meses a contar do início das diligências à mesma inerentes; a auditoria destina-se a:\n\na) Verificar se os activos da concessão a assumir pelo concedente correspondem aos activos que existiriam caso não tivesse ocorrido o resgate da concessão;\n\nb) Verificar se os activos da concessão a assumir pelo concedente se encontram em perfeitas condições de operacionalidade, utilização e manutenção, salvo o desgaste decorrente da normal utilização no âmbito da concessão;\n\nc) Verificar se os passivos do concessionário preencherem os pressupostos definidos no n.º 3;\n\nd) Verificar as efectivas entradas de fundos próprios dos accionistas da FERTAGUS - Travessia do Tejo, Transportes, S. A., a sua correlação com o pacto social dessa sociedade e a identificação dos montantes a deduzir de acordo com o n.º 4.\n\n6 - Para além do que resultar dos números anteriores, o concedente não é responsável, perante terceiros, por quaisquer encargos decorrentes da actividade do concessionário anterior ao resgate e é titular, em relação a este, de direito de regresso relativamente a todo e qualquer encargo que tenha de suportar relacionado com tal actividade.\n\n7 - Caso seja prorrogada a vigência do contrato de concessão conforme previsto na base III, a concessão só pode ser resgatada na segunda metade do período de prorrogação."
+  },
+  "888845858": {
+   "fragment_id": "888950993",
+   "type": 2,
+   "heading": "Base XIX — Lei aplicável e arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIX — Lei aplicável e arbitragem\n\n1 - O contrato de concessão rege-se pela lei portuguesa.\n\n2 - Qualquer litígio entre o concedente e o concessionário respeitante à concessão que não possa ser resolvido por conciliação, de acordo com o disposto no contrato de concessão, será submetido ao foro arbitral.\n\n3 - A arbitragem decorrerá em Lisboa, funcionando o tribunal de acordo com as regras indicadas no contrato de concessão."
+  },
+  "888845838": {
+   "fragment_id": "888932873",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - António Luís Guerra Nunes Mexia.\n\nPromulgado em 24 de Março de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 31 de Março de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "888951381": {
+   "fragment_id": "888950975",
+   "type": 2,
+   "heading": "Base I — Objecto da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base I — Objecto da concessão\n\n1 - A concessão tem por objecto principal a exploração, pelo concessionário, em regime regular e contínuo, do serviço de transporte ferroviário suburbano de passageiros no eixo ferroviário norte-sul, entre as estações de Roma-Areeiro, Entrecampos, Sete Rios, Campolide, Pragal, Corroios, Foros de Amora, Fogueteiro, Coina, Penalva, Pinhal Novo, Venda do Alcaide, Palmela e Setúbal.\n\n2 - Por acordo entre o concedente e o concessionário, pode ser alterado o ponto extremo do serviço concessionado, estendendo-se a concessão, na margem norte, até à Gare do Oriente, e ou, na margem sul, até Praias do Sado.\n\n3 - O concessionário explora ainda o serviço complementar de transporte rodoviário nos termos a prever no contrato de concessão."
+  },
+  "888951382": {
+   "fragment_id": "888950976",
+   "type": 2,
+   "heading": "Base II — Outras actividades do concessionário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base II — Outras actividades do concessionário\n\n1 - Ao objecto principal do contrato de concessão acrescerá, a título acessório, a exploração das estações, interfaces, silos e parques de estacionamento das estações da margem sul do Pragal, Corroios, Foros de Amora, Fogueteiro, Coina e Penalva, assim como das áreas comerciais incluídas nessas estações e interfaces, nos termos do respectivo contrato de concessão de exploração anexo ao contrato de concessão.\n\n2 - O concessionário é obrigado a manter um sistema de informação contabilística por actividade; são actividades distintas: a) o serviço concessionado de transporte ferroviário; b) o serviço complementar de transporte rodoviário, e c) cada uma das actividades acessórias ao serviço concessionado de transporte tal como definidas no contrato de concessão."
+  },
+  "888951383": {
+   "fragment_id": "888950977",
+   "type": 2,
+   "heading": "Base III — Prazo da concessão",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base III — Prazo da concessão\n\n1 - O contrato de concessão vigora até 31 de Dezembro de 2019, sem prejuízo do disposto nos números seguintes.\n\n2 - O concedente pode denunciar o contrato de concessão mediante comunicação escrita enviada ao concessionário, com pelo menos seis meses de antecedência, desde que tal se revele necessário por motivos de interesse público, devidamente fundamentado, relacionado com a implementação da solução que vier a ser adoptada para as travessias do Tejo, no âmbito do projecto de alta velocidade.\n\n3 - A antecedência a que se refere o número anterior reporta-se ao momento em que a denúncia deva tornar-se eficaz.\n\n4 - A denúncia do contrato de concessão não pode produzir efeitos antes de 1 de Janeiro de 2017.\n\n5 - A denúncia do contrato de concessão prevista nos números anteriores não é para nenhum efeito havida como resgate e não confere ao concessionário o direito a qualquer indemnização por esse facto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951384": {
+   "fragment_id": "888951028",
+   "type": 2,
+   "heading": "Base III-A — Contrapartida em caso de não denúncia",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base III-A — Contrapartida em caso de não denúncia\n\n1 - Caso não seja usada a faculdade de denúncia prevista na base anterior, o concedente tem direito a receber do concessionário, até 31 de Dezembro do respectivo ano, como contrapartida anual da concessão:\n\na) Em 2017 - (euro) 965 911,88;\n\nb) Em 2018 - (euro) 1 233 469,98;\n\nc) Em 2019 - (euro) 1 428 983,53.\n\n2 - Os montantes referidos no número anterior são expressos a preços de Dezembro de 2010, devendo ser actualizados para a respectiva data de pagamento de acordo com o índice de preços no consumidor (IPC) total, excepto habitação, verificado no mês imediatamente anterior ao seu pagamento.\n\n3 - Se a denúncia do contrato de concessão produzir efeitos antes do termo do respectivo ano civil, o valor previsto no n.º 1 para o ano correspondente é reduzido proporcionalmente aos meses de vigência do referido contrato nesse mesmo ano.\n\n4 - Ocorrendo a situação prevista no número anterior, o pagamento do respectivo valor deve ser efectuado pelo concessionário ao concedente até ao termo da vigência do contrato de concessão.\n\n5 - Os pagamentos previstos nos números anteriores devem ser efectuados à Direcção-Geral do Tesouro e Finanças.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951385": {
+   "fragment_id": "888950978",
+   "type": 2,
+   "heading": "Base IV — Prestações de serviço público",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base IV — Prestações de serviço público\n\n1 - O concessionário é obrigado a realizar a exploração do serviço público concessionado nos termos previstos no contrato de concessão, garantindo uma oferta adequada aos níveis de procura, garantindo condições de qualidade, comodidade, rapidez e segurança, com respeito pelos limites de capacidade da infra-estrutura e de acordo com todos os parâmetros a definir no contrato de concessão.\n\n2 - No programa de oferta referido no número anterior, o concessionário deve assegurar circulações de baixas taxas de utilização.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Na repartição da capacidade da infra-estrutura, a Rede Ferroviária Nacional - REFER, E. P., deve assegurar o programa de oferta previsto no contrato de concessão renegociado nos termos da legislação aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951386": {
+   "fragment_id": "888950979",
+   "type": 2,
+   "heading": "Base V — Obrigações respeitantes à sociedade concessionária",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base V — Obrigações respeitantes à sociedade concessionária\n\n1 - O concessionário tem como objecto social exclusivo o exercício das actividades previstas nas presentes bases e no contrato de concessão.\n\n2 - Qualquer alteração ao contrato de sociedade do concessionário depende de autorização do concedente.\n\n3 - As acções representativas do capital social do concessionário são obrigatoriamente nominativas e só podem ser transmitidas entre accionistas ou a terceiros, ou oneradas em favor dos mesmos, mediante autorização do concedente.\n\n4 - Considera-se tacitamente autorizada a oneração de acções em favor das instituições financeiras referidas no contrato de concessão, nos precisos termos estabelecidos nesse contrato e nos correspondentes acordos de financiamento.\n\n5 - Qualquer deliberação de fusão ou de cisão do concessionário depende de autorização do concedente.\n\n6 - A violação do disposto na presente base implica a nulidade dos correspondentes actos ou contratos.\n\n7 - O concessionário deve enviar ao concedente, no prazo de 30 dias após a celebração do contrato de concessão, a lista discriminada das participações qualificadas nas sociedades detentoras das suas participações sociais; sempre que tal lista for objecto de alterações, devem estas ser notificadas ao concedente no prazo de 30 dias a contar da respectiva formalização.\n\n8 - Para os efeitos do disposto no número anterior, «participação qualificada» tem o significado estabelecido no n.º 7 do artigo 13.º do Decreto-Lei n.º 298/92, de 31 de Dezembro, com a redacção vigente à data da publicação das presentes bases.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951387": {
+   "fragment_id": "888950980",
+   "type": 2,
+   "heading": "Base VI — Regime de riscos",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base VI — Regime de riscos\n\n1 - O concessionário assume integral responsabilidade pelos riscos relativos à concessão, excepto quando o contrário resulte expressamente das presentes bases ou do contrato de concessão.\n\n2 - O concessionário é responsável por quaisquer prejuízos causados a terceiros, por acção ou omissão, no exercício das actividades que constituem o objecto do contrato de concessão, ainda que emergentes de actuação não culposa, bem como por todos os prejuízos causados, por acção ou por omissão, por qualquer pessoa ou entidade por si subcontratada ou a cuja colaboração recorra.\n\n3 - Caso as receitas de bilheteira referentes ao serviço ferroviário, devidamente evidenciadas nas demonstrações financeiras do concessionário, auditadas pela Inspecção-Geral de Finanças (IGF), excedam, em determinado ano, os montantes previstos no modelo financeiro anexo ao contrato de concessão, o excedente deve ser repartido entre o concedente e o concessionário, nas proporções a definir no contrato de concessão.\n\n4 - Na determinação das receitas de bilheteira referentes ao serviço ferroviário a que alude o número anterior não serão considerados eventuais descontos decorrentes da prestação simultânea de outros serviços compreendidos no âmbito da actuação do concessionário.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951388": {
+   "fragment_id": "888950981",
+   "type": 2,
+   "heading": "Base VII — Reposição do equilíbrio financeiro",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base VII — Reposição do equilíbrio financeiro\n\n1 - Sem prejuízo do disposto no n.º 6, o concessionário apenas tem direito à reposição do equilíbrio financeiro da concessão quando:\n\na) O concedente imponha alterações unilaterais ao contrato de concessão susceptíveis de gerar uma diminuição de rendimentos ou um aumento de gastos;\n\nb) Ocorra a situação prevista no n.º 6 da base viii;\n\nc) Ocorra a situação prevista na alínea b) do n.º 4 da base ix.\n\n2 - O valor da reposição do equilíbrio financeiro deve corresponder ao necessário para repor as condições económicas de exploração que se verificariam caso não ocorresse o facto gerador de tal desequilíbrio.\n\n3 - Para efeitos do disposto na presente base, o concessionário deve notificar o concedente da ocorrência de qualquer evento que possa dar lugar à reposição do equilíbrio financeiro da concessão, no prazo de 30 dias após a sua ocorrência.\n\n4 - A reposição do equilíbrio financeiro efectuada nos termos da presente base é, relativamente ao evento que lhe deu origem, única, completa e final para todo o período da concessão, sem prejuízo de tal reposição ser parcialmente diferida em relação a quaisquer efeitos específicos do evento em causa que, pela sua natureza, não sejam susceptíveis de uma razoável avaliação imediata ou sobre cuja existência, incidência ou quantificação, as partes não hajam ainda chegado a acordo.\n\n5 - A reposição do equilíbrio financeiro da concessão prevista nos números anteriores deve ser efectuada por acordo entre as partes, devendo o pagamento do respectivo valor ser efectuado através de uma, ou mais, das seguintes modalidades:\n\na) Havendo lugar à partilha de excedentes de receita nos termos previstos no contrato de concessão, pela não entrega ao concedente da quota-parte desses excedentes que a este caiba até ao montante do valor fixado para a reposição;\n\nb) Havendo lugar ao pagamento previsto na base iii-A, pela não entrega ao concedente do valor a pagar até ao montante do valor fixado para a reposição;\n\nc) Pelo pagamento directo do concedente ao concessionário;\n\nd) Por qualquer outra modalidade.\n\n6 - Não há lugar à reposição do equilíbrio financeiro da concessão quando o valor susceptível de gerar uma diminuição de rendimentos ou um aumento de gastos seja inferior a (euro) 50 000.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951389": {
+   "fragment_id": "888950982",
+   "type": 2,
+   "heading": "Base VIII — Tarifas pela utilização da infra-estrutura e outros pagamentos",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base VIII — Tarifas pela utilização da infra-estrutura e outros pagamentos\n\n1 - As tarifas devidas pelo concessionário pela utilização da infra-estrutura são apuradas de acordo com o directório da rede em vigor em cada momento, referido no artigo 30.º do Decreto-Lei n.º 270/2003, de 28 de Outubro, alterado pelos Decretos-Leis n.os 231/2007, de 14 de Junho, e 62/2010, de 9 de Junho.\n\n2 - Caso se verifique uma alteração estrutural ou metodológica da fórmula de cálculo das tarifas constantes dos directórios da rede, por referência ao directório da rede para 2010, o concessionário pode, mediante autorização do concedente, repercutir o efeito decorrente dessa alteração na actualização tarifária do ano a que respeita o directório da rede, sem que tal se repercuta na partilha de receitas prevista no contrato de concessão.\n\n3 - Para efeitos do número anterior, o concessionário deve requerer ao concedente a respectiva autorização em simultâneo com a notificação prevista no n.º 3 da base ix ou, se a alteração ao directório da rede for posterior a essa notificação, nos 15 dias subsequentes à divulgação da alteração.\n\n4 - Havendo actualização do tarifário nos termos da base ix-A, a alteração das tarifas a que se refere o n.º 2 só pode ter lugar na medida em que exceda a diferença entre a actualização a que o concessionário teria direito, nos termos da base ix, e a actualização autorizada pelo concedente, nos termos da base ix-A.\n\n5 - No caso previsto no número anterior, a partilha de receitas prevista no contrato de concessão é deduzida desse efeito.\n\n6 - Caso o mecanismo previsto nos números anteriores se revele insuficiente para assegurar a compensação do concessionário decorrente do previsto no n.º 2, há lugar à reposição do equilíbrio financeiro nos termos da base vii.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951390": {
+   "fragment_id": "888950983",
+   "type": 2,
+   "heading": "Base IX — Regime tarifário base",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base IX — Regime tarifário base\n\n1 - Sem prejuízo do disposto no número seguinte, o concessionário pode fixar livremente o tarifário, mediante actualizações reportadas a 1 de Janeiro de cada ano, até um ponto percentual acima da taxa de inflação prevista no Orçamento do Estado para o ano em causa, nos termos e de acordo com a fórmula que venham a ser fixados no contrato de concessão.\n\n2 - Caso a inflação real seja diferente da prevista nos termos do número anterior, a respectiva diferença deve, a partir de 2011, ser considerada na actualização tarifária anual seguinte.\n\n3 - Para efeitos da actualização tarifária prevista na presente base, o concessionário deve, fundamentadamente, informar o concedente, com uma antecedência não inferior a 30 dias relativamente à data da produção de efeitos, da actualização pretendida.\n\n4 - No prazo de 15 dias a contar da recepção da proposta referida no número anterior, o concedente pode, fundamentadamente, opor-se à actualização tarifária nos termos propostos, caso:\n\na) O concessionário não observe o regime de actualização previsto na presente base e no contrato de concessão; ou\n\nb) Existam razões de interesse público que obstem à actualização proposta.\n\n5 - Ocorrendo a situação prevista na alínea b) do número anterior, o concessionário tem direito à reposição do equilíbrio financeiro da concessão nos termos previstos da base vii e no contrato de concessão.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951391": {
+   "fragment_id": "888951029",
+   "type": 2,
+   "heading": "Base IX-A — Regime tarifário facultativo",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base IX-A — Regime tarifário facultativo\n\n1 - Sem prejuízo do disposto da base anterior, o concessionário pode, mediante autorização prévia do concedente, aumentar, em cada ano civil, o tarifário até ao limite definido para os restantes operadores de transportes da área metropolitana de Lisboa, nos termos e de acordo com o procedimento a fixar no contrato de concessão.\n\n2 - O acréscimo de receitas referentes ao serviço ferroviário decorrente da aplicação da presente base é partilhado entre o concessionário e o concedente, nos termos a fixar no contrato de concessão.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951132": {
+   "fragment_id": "888950984",
+   "type": 2,
+   "heading": "Base X — Exclusividade",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base X — Exclusividade\n\n1 - A exploração do serviço concessionado entre as estações de Roma-Areeiro e Setúbal cabe em exclusivo ao concessionário.\n\n2 - Ficam excluídas do regime estabelecido no número anterior as ligações ferroviárias suburbanas de passageiros entre as estações de Campolide e Roma-Areeiro e entre as estações de Pinhal Novo e Setúbal.\n\n3 - Os comboios de longo curso, os comboios intercidades ou outros idênticos sob designação diversa só podem ter paragens, na margem sul do rio Tejo, na estação do Pragal e nas estações incluídas no troço entre Pinhal Novo e Setúbal.\n\n4 - Os comboios regionais só podem ter paragens, na margem sul do rio Tejo, na estação do Pragal e nas estações incluídas no troço entre Pinhal Novo e Setúbal, só podendo proceder ao embarque de passageiros naquelas estações quando circulem no sentido norte-sul e ao desembarque de passageiros quando circulem no sentido sul-norte.\n\n5 - O concessionário não pode explorar comercialmente sob qualquer forma a actividade de transporte ferroviário com início e termo na margem norte do rio Tejo sem atravessamento da Ponte de 25 de Abril.\n\n6 - O concessionário não tem direito a qualquer compensação pelos prejuízos resultantes de eventuais alterações verificadas no sistema de transportes da área metropolitana de Lisboa, designadamente a abertura de novas infra-estruturas de travessia no rio Tejo ou o incremento ou modernização dos serviços do transporte público rodoviário ou do transporte fluvial para a travessia do rio Tejo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951133": {
+   "fragment_id": "888950985",
+   "type": 2,
+   "heading": "Base XI — Estabelecimento da concessão",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base XI — Estabelecimento da concessão\n\n1 - O estabelecimento da concessão compreende a universalidade dos bens e direitos afectos à mesma, incluindo, designadamente:\n\na) Revogada;\n\nb) Máquinas, equipamentos, aparelhagens e acessórios directamente utilizados na produção, exploração e manutenção do serviço concessionado;\n\nc) Imóveis necessários à produção, exploração e manutenção do serviço concessionado;\n\nd) Relações e posições jurídicas directamente relacionadas com a concessão, nomeadamente:\n\ni) Relações de natureza laboral;\n\nii) Direitos de utilização da infra-estrutura;\n\niii) Direitos de ocupação do complexo ferroviário de Coina;\n\niv) Direitos de exploração ou de gestão de outras áreas ou imóveis relacionados com a concessão;\n\nv) Outras relações ou posições jurídicas decorrentes de actos ou contratos mencionados no contrato de concessão.\n\n2 - Os bens referidos no número anterior integram o estabelecimento da concessão com quaisquer benfeitorias que neles tenham sido ou venham a ser executadas.\n\n3 - Os bens integrantes do estabelecimento da concessão deverão encontrar-se, a todo o tempo, afectos ao serviço concessionado, ressalvadas as imobilizações estritamente necessárias a operações de manutenção ou reparação.\n\n4 - O concessionário elaborará e manterá actualizado um inventário dos bens afectos à concessão, assim como dos bens que deixem de estar afectos à mesma, de acordo com as regras a estabelecer no contrato de concessão.\n\n5 - O concessionário obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens afectos à concessão, efectuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho das prestações colocadas a seu cargo pelas presentes bases ou pelo contrato de concessão.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951134": {
+   "fragment_id": "888950986",
+   "type": 2,
+   "heading": "Base XII — Contratos acessórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XII — Contratos acessórios\n\n1 - São considerados instrumentais e dependentes do cumprimento pelo concessionário das obrigações inerentes às presentes bases e ao contrato de concessão os seguintes contratos que serão anexos ao contrato de concessão:\n\na) Contrato de utilização da infra-estrutura;\n\nb) Acordos de financiamento;\n\nc) Contrato de exploração do serviço rodoviário;\n\nd) Contrato relativo ao sistema de monitorização do desempenho;\n\ne) Outros contratos denominados como acessórios no contrato de concessão.\n\n2 - As presentes bases e o contrato de concessão serão parâmetro de validade dos contratos previstos no número anterior, que não os poderão contrariar ou conter disposições que conduzam a resultados que frustrem os seus objectivos, bem como de quaisquer outros contratos directamente relacionados com a concessão que venham a ser celebrados.\n\n3 - O concessionário obriga-se a não alterar ou resolver os contratos referidos no n.º 1 sem autorização do concedente.\n\n4 - O concessionário não poderá opor ao concedente quaisquer excepções ou meios de defesa que resultem das relações contratuais referidas nos números anteriores.\n\n5 - O concessionário garantirá que as entidades contratantes dos contratos referidos no n.º 1 terão pleno conhecimento da sua natureza instrumental e dependente relativamente a este contrato."
+  },
+  "888951135": {
+   "fragment_id": "888950987",
+   "type": 2,
+   "heading": "Base XIII — Material circulante",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base XIII — Material circulante\n\n1 - O concedente pode, a qualquer momento, implementar uma estrutura de locação operacional, ou qualquer outra que considere adequada, relativamente ao material circulante, devendo o concessionário assumir, no contrato de concessão, a obrigação de cooperar com aquele e a actuar de boa-fé na prossecução desse objectivo.\n\n2 - Caso opte por concretizar uma estrutura de locação operacional ou outra estrutura alternativa, esta será antecedida de procedimento concorrencial a lançar e a conduzir pelo concedente, com vista à escolha da entidade adquirente do material circulante e à definição dos termos exactos da estrutura.\n\n3 - O contrato de concessão deve prever a aceitação clara e irretratável do concessionário quanto à transferência da propriedade do material circulante para a entidade locadora ou outra entidade a ser indicada pelo concedente.\n\n4 - Caso a implementação da estrutura de locação ou outra estrutura alternativa não ocorra até 30 de Junho de 2006, o Estado ou entidade por este a designar adquirirá o material circulante, nos termos a definir no contrato de concessão.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951136": {
+   "fragment_id": "888950988",
+   "type": 2,
+   "heading": "Base XIV — Fiscalização e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIV — Fiscalização e monitorização\n\n1 - A actividade do concessionário está sujeita à fiscalização e monitorização do concedente, o qual poderá promover as auditorias que entender necessárias.\n\n2 - A fiscalização e monitorização prevista no número anterior competem ao Ministério das Finanças e da Administração Pública, no que respeita aos aspectos económicos e financeiros, e ao Ministério das Obras Públicas, Transportes e Comunicações, nos demais.\n\n3 - As competências do Ministério das Finanças e da Administração Pública serão exercidas pela IGF e as do Ministério das Obras Públicas, Transportes e Comunicações serão, relativamente a aspectos técnicos e operacionais e nos termos expressamente previstos na legislação e no contrato de concessão, pelo Instituto Nacional de Transporte Ferroviário (INTF).\n\n4 - No âmbito das suas atribuições de fiscalização, o INTF fiscalizará, entre outros aspectos, a actividade do concessionário em tudo o que respeite à exploração, com vista à verificação, designadamente:\n\na) Das condições de segurança, operacionalidade, eficiência, rapidez, comodidade, conforto e asseio do material circulante e dos demais meios de exploração ferroviária em geral;\n\nb) Da adequação da capacidade de transporte aos níveis da procura, em condições de perfeita fiabilidade e pontualidade;\n\nc) Da disponibilidade, qualidade e quantidade dos recursos humanos e da sua preparação para levar a cabo as acções exigidas para a exploração da concessão;\n\nd) Do livre acesso de todos os passageiros que utilizem o sistema aos serviços que integrem a exploração do mesmo, sem qualquer discriminação quanto às condições de acesso e realização, para além das impostas pelo regime tarifário;\n\ne) Do cumprimento de todas as normas legais, regulamentares e contratuais aplicáveis à exploração da concessão, bem como das imposições e directrizes impostas pelas autoridades competentes."
+  },
+  "888951137": {
+   "fragment_id": "888950989",
+   "type": 2,
+   "heading": "Base XV — Penalidades por mora ou cumprimento defeituoso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XV — Penalidades por mora ou cumprimento defeituoso\n\n1 - O incumprimento de qualquer das obrigações decorrentes das presentes bases ou do contrato de concessão pelo concessionário está sujeito a penalidades, cujos limites mínimos e máximos serão fixados, em função da gravidade da infracção, no contrato de concessão.\n\n2 - A aplicação das penalidades previstas na presente base é da competência do INTF.\n\n3 - O projecto de decisão sobre a penalidade a aplicar será notificado por escrito ao concessionário, o qual terá direito a apresentar a sua defesa escrita no prazo de 20 dias.\n\n4 - A decisão final sobre a aplicação da penalidade, com os respectivos fundamentos, será notificada por escrito ao concessionário.\n\n5 - A dedução de impugnação do acto que aplique a multa não suspende a obrigação de pagamento da mesma.\n\n6 - Os montantes das penalidades referidos no n.º 1 serão automaticamente actualizados no início de cada ano civil, logo que disponibilizado pelo Instituto Nacional de Estatística o IPC total, excepto habitação referente ao ano anterior.\n\n7 - O pagamento das penalidades previstas na presente base não isenta o concessionário da responsabilidade criminal, contra-ordenacional e civil a que eventualmente haja lugar, nem exclui a fiscalização, controlo e poder sancionatório de outras entidades que decorram da lei ou de regulamento, nem tão pouco prejudica a possibilidade de sequestro, resolução ou resgate da concessão nos termos das bases XVI a XVIII.\n\n8 - O produto das multas aplicadas ao abrigo destas bases ou do contrato de concessão reverte para o INTF e para o Estado, na proporção de 40% e 60%, respectivamente."
+  },
+  "888951138": {
+   "fragment_id": "888950990",
+   "type": 2,
+   "heading": "Base XVI — Sequestro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVI — Sequestro\n\n1 - O concedente pode intervir na concessão sempre que se dê, ou se afigure iminente, uma cessação ou interrupção total ou parcial da prestação a cargo do concessionário não autorizada e não devida a força maior, ou se verifiquem graves deficiências na respectiva organização ou funcionamento ou no estado geral dos bens afectos àquela, em termos susceptíveis de comprometerem os objectivos do transporte ferroviário suburbano de passageiros concessionado.\n\n2 - Verificado o sequestro, o concessionário suportará não apenas os encargos resultantes da manutenção do serviço mas, também, quaisquer despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração e gestão que não possam ser cobertas pelos resultados daquela.\n\n3 - Logo que cessem os fundamentos de sequestro e o concedente julgue oportuno, o concessionário é notificado para retomar, na data que lhe for fixada, a normal exploração e gestão da concessão.\n\n4 - Se o concessionário não quiser ou não puder retomar a exploração e gestão da concessão ou se, tendo-o feito, continuarem a verificar-se graves deficiências na organização ou funcionamento da mesma ou no estado geral dos bens a ela afectos, o concedente pode declarar a imediata resolução do contrato de concessão."
+  },
+  "888951139": {
+   "fragment_id": "888950991",
+   "type": 2,
+   "heading": "Base XVII — Resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVII — Resolução\n\n1 - O concedente pode resolver o contrato de concessão nos termos a definir naquele contrato.\n\n2 - A resolução prevista no n.º 1 implica, nomeadamente, a reversão, para o Estado, de todos os bens e direitos afectos à concessão."
+  },
+  "888951140": {
+   "fragment_id": "888950992",
+   "type": 2,
+   "heading": "Base XVIII — Resgate",
+   "in_force_from": "2010-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base XVIII — Resgate\n\n1 - A concessão só pode ser resgatada, mediante comunicação escrita do concedente, a partir de 30 de Junho de 2015.\n\n2 - Em caso de resgate, o concedente assume os activos do concessionário afectos à concessão com os ónus ou encargos que tenham sido constituídos com autorização do concedente.\n\n3 - O concedente assume os passivos do concessionário afectos à concessão, desde que, comprovadamente:\n\na) Resultem directamente de actividade incluída no objecto da concessão e tenham sido, sejam ou venham a ser necessários para a prossecução desse objecto;\n\nb) Tenham sido constituídos em data anterior à comunicação do resgate feita pelo concedente ou em data posterior com autorização por escrito do concedente; e\n\nc) Sejam o resultado de negociação zelosa e diligente efectuada pelo concessionário.\n\n4 - O concedente assume ainda, perante os accionistas do concessionário no momento do resgate e sem duplicação com o previsto no número anterior, o dever de os compensar por um montante que resulte da actualização, para a data de resgate, dos montantes previstos no modelo financeiro a título de pagamento de dividendos a accionistas desde a data do resgate até a data do termo do contrato de concessão previsto no n.º 1 da base iii, deduzidos de quaisquer pagamentos efectuados aos accionistas no ano em que ocorra o resgate.\n\n5 - As assunções a que se referem os n.os 3 e 4 ficam condicionadas à realização de uma auditoria, sob responsabilidade de entidade designada por acordo entre concedente e concessionário, e aos resultados da mesma; tal auditoria terá a duração máxima de seis meses a contar do início das diligências à mesma inerentes; a auditoria destina-se a:\n\na) Verificar se os activos da concessão a assumir pelo concedente correspondem aos activos que existiriam caso não tivesse ocorrido o resgate da concessão;\n\nb) Verificar se os activos da concessão a assumir pelo concedente se encontram em perfeitas condições de operacionalidade, utilização e manutenção, salvo o desgaste decorrente da normal utilização no âmbito da concessão;\n\nc) Verificar se os passivos do concessionário preenchem os pressupostos definidos no n.º 3;\n\nd) Verificar as efectivas entradas de fundos próprios dos accionistas da FERTAGUS - Travessia do Tejo, Transportes, S. A., a sua correlação com o pacto social dessa sociedade e a identificação dos montantes a deduzir de acordo com o n.º 4.\n\n6 - Para além do que resultar dos números anteriores, o concedente não é responsável, perante terceiros, por quaisquer encargos decorrentes da actividade do concessionário anterior ao resgate e é titular, em relação a este, de direito de regresso relativamente a todo e qualquer encargo que tenha de suportar relacionado com tal actividade.\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951141": {
+   "fragment_id": "888950993",
+   "type": 2,
+   "heading": "Base XIX — Lei aplicável e arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIX — Lei aplicável e arbitragem\n\n1 - O contrato de concessão rege-se pela lei portuguesa.\n\n2 - Qualquer litígio entre o concedente e o concessionário respeitante à concessão que não possa ser resolvido por conciliação, de acordo com o disposto no contrato de concessão, será submetido ao foro arbitral.\n\n3 - A arbitragem decorrerá em Lisboa, funcionando o tribunal de acordo com as regras indicadas no contrato de concessão."
+  },
+  "888951821": {
+   "fragment_id": "888950975",
+   "type": 2,
+   "heading": "Base I — Objecto da concessão",
+   "in_force_from": "2019-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+   ],
+   "markdown": "###### Base I — Objecto da concessão\n\n1 - A concessão tem por objecto principal a exploração, pelo concessionário, em regime regular e contínuo, do serviço de transporte ferroviário suburbano de passageiros no eixo ferroviário norte-sul, entre as estações de Roma-Areeiro, Entrecampos, Sete Rios, Campolide, Pragal, Corroios, Foros de Amora, Fogueteiro, Coina, Penalva, Pinhal Novo, Venda do Alcaide, Palmela e Setúbal.\n\n2 - Por acordo entre o concedente e o concessionário, pode ser alterado o ponto extremo do serviço concessionado, estendendo-se a concessão, na margem norte, até à Gare do Oriente, e ou, na margem sul, até Praias do Sado.\n\n3 - O concessionário explora ainda o serviço complementar de transporte rodoviário nos termos a prever no contrato de concessão.\n\n4 - Caso os proveitos do serviço complementar de transporte rodoviário sejam superiores aos valores previstos no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real nos termos aí previstos, para o respetivo ano, o concessionário entrega a diferença ao concedente.\n\n5 - Caso os proveitos do serviço complementar de transporte rodoviário não atinjam os valores previstos no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real nos termos aí previstos, para o respetivo ano, o concedente entrega a diferença ao concessionário.\n\n6 - Os proveitos tarifários do serviço complementar rodoviário devem estar evidenciados nas demonstrações financeiras do concessionário e são auditados pela Inspeção-Geral de Finanças (IGF).\n\n7 - As partes acordam que o serviço complementar de transporte rodoviário é retirado do objeto da concessão, nos termos previstos no contrato de concessão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+  },
+  "888951822": {
+   "fragment_id": "888950976",
+   "type": 2,
+   "heading": "Base II — Outras actividades do concessionário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base II — Outras actividades do concessionário\n\n1 - Ao objecto principal do contrato de concessão acrescerá, a título acessório, a exploração das estações, interfaces, silos e parques de estacionamento das estações da margem sul do Pragal, Corroios, Foros de Amora, Fogueteiro, Coina e Penalva, assim como das áreas comerciais incluídas nessas estações e interfaces, nos termos do respectivo contrato de concessão de exploração anexo ao contrato de concessão.\n\n2 - O concessionário é obrigado a manter um sistema de informação contabilística por actividade; são actividades distintas: a) o serviço concessionado de transporte ferroviário; b) o serviço complementar de transporte rodoviário, e c) cada uma das actividades acessórias ao serviço concessionado de transporte tal como definidas no contrato de concessão."
+  },
+  "888951823": {
+   "fragment_id": "888950977",
+   "type": 2,
+   "heading": "Base III — Prazo da concessão",
+   "in_force_from": "2019-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base III — Prazo da concessão\n\n1 - O contrato de concessão vigora até 30 de setembro de 2024.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951824": {
+   "fragment_id": "888951028",
+   "type": 2,
+   "heading": "Base III-A — Contrapartida em caso de não denúncia",
+   "in_force_from": "2019-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base III-A — Contrapartida em caso de não denúncia\n\n1 - Caso não seja usada a faculdade de denúncia prevista na base anterior, o concedente tem direito a receber do concessionário, até 31 de Dezembro do respectivo ano, como contrapartida anual da concessão:\n\na) Em 2017 - (euro) 965 911,88;\n\nb) Em 2018 - (euro) 1 233 469,98;\n\nc) Em 2019 - (euro) 1 428 983,53.\n\n2 - Os montantes referidos no número anterior são expressos a preços de Dezembro de 2010, devendo ser actualizados para a respectiva data de pagamento de acordo com o índice de preços no consumidor (IPC) total, excepto habitação, verificado no mês imediatamente anterior ao seu pagamento.\n\n3 - Se a denúncia do contrato de concessão produzir efeitos antes do termo do respectivo ano civil, o valor previsto no n.º 1 para o ano correspondente é reduzido proporcionalmente aos meses de vigência do referido contrato nesse mesmo ano.\n\n4 - Ocorrendo a situação prevista no número anterior, o pagamento do respectivo valor deve ser efectuado pelo concessionário ao concedente até ao termo da vigência do contrato de concessão.\n\n5 - Os pagamentos previstos nos números anteriores devem ser efectuados à Direcção-Geral do Tesouro e Finanças.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951825": {
+   "fragment_id": "888950978",
+   "type": 2,
+   "heading": "Base IV — Prestações de serviço público",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base IV — Prestações de serviço público\n\n1 - O concessionário é obrigado a realizar a exploração do serviço público concessionado nos termos previstos no contrato de concessão, garantindo uma oferta adequada aos níveis de procura, garantindo condições de qualidade, comodidade, rapidez e segurança, com respeito pelos limites de capacidade da infra-estrutura e de acordo com todos os parâmetros a definir no contrato de concessão.\n\n2 - No programa de oferta referido no número anterior, o concessionário deve assegurar circulações de baixas taxas de utilização.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Na repartição da capacidade da infra-estrutura, a Rede Ferroviária Nacional - REFER, E. P., deve assegurar o programa de oferta previsto no contrato de concessão renegociado nos termos da legislação aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951826": {
+   "fragment_id": "888950979",
+   "type": 2,
+   "heading": "Base V — Obrigações respeitantes à sociedade concessionária",
+   "in_force_from": "2019-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base V — Obrigações respeitantes à sociedade concessionária\n\n1 - O concessionário tem como objecto social exclusivo o exercício das actividades previstas nas presentes bases e no contrato de concessão.\n\n2 - Qualquer alteração ao contrato de sociedade do concessionário depende de autorização do concedente.\n\n3 - As acções representativas do capital social do concessionário são obrigatoriamente nominativas e só podem ser transmitidas entre accionistas ou a terceiros, ou oneradas em favor dos mesmos, mediante autorização do concedente.\n\n4 - (Revogado.)\n\n5 - Qualquer deliberação de fusão ou de cisão do concessionário depende de autorização do concedente.\n\n6 - A violação do disposto na presente base implica a nulidade dos correspondentes actos ou contratos.\n\n7 - O concessionário deve enviar ao concedente, no prazo de 30 dias após a celebração do contrato de concessão, a lista discriminada das participações qualificadas nas sociedades detentoras das suas participações sociais; sempre que tal lista for objecto de alterações, devem estas ser notificadas ao concedente no prazo de 30 dias a contar da respectiva formalização.\n\n8 - Para os efeitos do disposto no número anterior, «participação qualificada» tem o significado estabelecido no n.º 7 do artigo 13.º do Decreto-Lei n.º 298/92, de 31 de Dezembro, com a redacção vigente à data da publicação das presentes bases.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951827": {
+   "fragment_id": "888950980",
+   "type": 2,
+   "heading": "Base VI — Regime de riscos",
+   "in_force_from": "2019-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base VI — Regime de riscos\n\n1 - O concessionário assume integral responsabilidade pelos riscos relativos à concessão, excepto quando o contrário resulte expressamente das presentes bases ou do contrato de concessão.\n\n2 - O concessionário é responsável por quaisquer prejuízos causados a terceiros, por acção ou omissão, no exercício das actividades que constituem o objecto do contrato de concessão, ainda que emergentes de actuação não culposa, bem como por todos os prejuízos causados, por acção ou por omissão, por qualquer pessoa ou entidade por si subcontratada ou a cuja colaboração recorra.\n\n3 - Caso os proveitos tarifários do serviço ferroviário, devidamente evidenciados nas demonstrações financeiras do concessionário, auditados pela IGF, sejam superiores aos montantes previstos no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real nos termos aí previstos, em determinado ano, o concessionário entrega a diferença ao concedente.\n\n4 - Caso os proveitos tarifários do serviço ferroviário, devidamente evidenciados nas demonstrações financeiras do concessionário, auditados pela IGF, não atinjam os montantes previstos no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real nos termos aí previstos, em determinado ano, o concedente entrega a diferença ao concessionário.\n\n5 - Na determinação dos proveitos tarifários do serviço ferroviário a que aludem os números anteriores não são considerados eventuais descontos decorrentes da prestação simultânea de outros serviços compreendidos no âmbito da atuação do concessionário.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951828": {
+   "fragment_id": "888951066",
+   "type": 2,
+   "heading": "Base VI-A — Procedimento de acerto",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+   ],
+   "markdown": "###### Base VI-A — Procedimento de acerto\n\nO acerto dos valores eventualmente devidos por uma das partes à outra ao abrigo do disposto nas bases I, VI, VIII, VIII-A e XIII-A obedece ao procedimento previsto no contrato de concessão.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+  },
+  "888951829": {
+   "fragment_id": "888950981",
+   "type": 2,
+   "heading": "Base VII — Reposição do equilíbrio financeiro",
+   "in_force_from": "2019-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base VII — Reposição do equilíbrio financeiro\n\n1 - Sem prejuízo do disposto no n.º 6, o concessionário apenas tem direito à reposição do equilíbrio financeiro da concessão quando:\n\na) O concedente imponha alterações unilaterais ao contrato de concessão susceptíveis de gerar uma diminuição de rendimentos ou um aumento de gastos;\n\nb) [Revogada];\n\nc) Ocorra a situação prevista na alínea b) do n.º 4 da base ix.\n\n2 - O valor da reposição do equilíbrio financeiro deve corresponder ao necessário para repor as condições económicas de exploração que se verificariam caso não ocorresse o facto gerador de tal desequilíbrio.\n\n3 - Para efeitos do disposto na presente base, o concessionário deve notificar o concedente da ocorrência de qualquer evento que possa dar lugar à reposição do equilíbrio financeiro da concessão, no prazo de 30 dias após a sua ocorrência.\n\n4 - A reposição do equilíbrio financeiro efectuada nos termos da presente base é, relativamente ao evento que lhe deu origem, única, completa e final para todo o período da concessão, sem prejuízo de tal reposição ser parcialmente diferida em relação a quaisquer efeitos específicos do evento em causa que, pela sua natureza, não sejam susceptíveis de uma razoável avaliação imediata ou sobre cuja existência, incidência ou quantificação, as partes não hajam ainda chegado a acordo.\n\n5 - A reposição do equilíbrio financeiro da concessão prevista nos números anteriores deve ser efectuada por acordo entre as partes, devendo o pagamento do respectivo valor ser efectuado através de uma, ou mais, das seguintes modalidades:\n\na) Havendo pagamentos devidos pelo concessionário nos termos previstos no contrato de concessão, pela não entrega ao concedente dos mesmos até ao montante do valor fixado para a reposição;\n\nb) [Revogada];\n\nc) Pelo pagamento directo do concedente ao concessionário;\n\nd) Por qualquer outra modalidade.\n\n6 - Não há lugar à reposição do equilíbrio financeiro da concessão quando o valor susceptível de gerar uma diminuição de rendimentos ou um aumento de gastos seja inferior a (euro) 50 000.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951830": {
+   "fragment_id": "888950982",
+   "type": 2,
+   "heading": "Base VIII — Tarifas pela utilização da infra-estrutura e outros pagamentos",
+   "in_force_from": "2019-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base VIII — Tarifas pela utilização da infra-estrutura e outros pagamentos\n\n1 - As tarifas devidas pelo concessionário pela utilização da infraestrutura são apuradas de acordo com o diretório da rede em vigor em cada momento, referido no artigo 30.º do Decreto-Lei n.º 270/2003, de 28 de outubro, na sua redação atual.\n\n2 - Caso se verifique uma alteração do valor das tarifas constantes dos diretórios da rede, por referência ao diretório da rede para 2020, que resulte num agravamento dos custos do concessionário com o pagamento das mesmas. previsto no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real nos termos aí previstos, o concedente entrega-lhe a respetiva diferença.\n\n3 - Caso se verifique uma alteração do valor das tarifas constantes dos diretórios da rede, por referência ao diretório da rede para 2020, que resulte numa redução dos custos do concessionário com o pagamento das mesmas, previsto no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real nos termos aí previstos, este entrega a respetiva diferença ao concedente.\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951831": {
+   "fragment_id": "888951067",
+   "type": 2,
+   "heading": "Base VIII-A — Energia de tração",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+   ],
+   "markdown": "###### Base VIII-A — Energia de tração\n\n1 - Caso o custo anual do concessionário com a energia de tração seja superior ao previsto no modelo financeiro anexo ao contrato de concessão, o concedente entrega a respetiva diferença ao concessionário.\n\n2 - Caso o custo anual do concessionário com a energia de tração seja inferior ao previsto no modelo financeiro anexo ao contrato de concessão, o concessionário entrega a respetiva diferença ao concedente.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+  },
+  "888951814": {
+   "fragment_id": "888950983",
+   "type": 2,
+   "heading": "Base IX — Atualização tarifária",
+   "in_force_from": "2019-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base IX — Atualização tarifária\n\n1 - O concessionário procede à atualização tarifária que vier a ser definida pela Área Metropolitana de Lisboa ou por outra autoridade de transportes que seja competente, em cada ano civil, aplicando-se a todos os seus títulos, tendo em conta o Regulamento n.º 278-A/2019, de 27 de março de 2019, a Portaria n.º 298/2018, de 19 de novembro, e o Regulamento n.º 430/2019, de 16 de maio.\n\n2 - A atualização tarifária tem em consideração as tarifas previstas em anexo ao contrato de concessão ou as que se encontrem em vigor no momento da mesma.\n\n3 - Para efeitos da actualização tarifária prevista na presente base, o concessionário deve, fundamentadamente, informar o concedente, com uma antecedência não inferior a 30 dias relativamente à data da produção de efeitos, da actualização pretendida.\n\n4 - No prazo de 15 dias a contar da recepção da proposta referida no número anterior, o concedente pode, fundamentadamente, opor-se à actualização tarifária nos termos propostos, caso:\n\na) O concessionário não observe o regime de actualização previsto na presente base e no contrato de concessão; ou\n\nb) Existam razões de interesse público que obstem à actualização proposta.\n\n5 - Ocorrendo a situação prevista na alínea b) do número anterior, o concessionário tem direito à reposição do equilíbrio financeiro da concessão nos termos previstos da base vii e no contrato de concessão.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951815": {
+   "fragment_id": "888951029",
+   "type": 2,
+   "heading": "Base IX-A — Regime tarifário facultativo",
+   "in_force_from": "2019-12-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base IX-A — Regime tarifário facultativo\n\n1 - Sem prejuízo do disposto da base anterior, o concessionário pode, mediante autorização prévia do concedente, aumentar, em cada ano civil, o tarifário até ao limite definido para os restantes operadores de transportes da área metropolitana de Lisboa, nos termos e de acordo com o procedimento a fixar no contrato de concessão.\n\n2 - O acréscimo de receitas referentes ao serviço ferroviário decorrente da aplicação da presente base é partilhado entre o concessionário e o concedente, nos termos a fixar no contrato de concessão.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951816": {
+   "fragment_id": "888950984",
+   "type": 2,
+   "heading": "Base X — Exclusividade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base X — Exclusividade\n\n1 - A exploração do serviço concessionado entre as estações de Roma-Areeiro e Setúbal cabe em exclusivo ao concessionário.\n\n2 - Ficam excluídas do regime estabelecido no número anterior as ligações ferroviárias suburbanas de passageiros entre as estações de Campolide e Roma-Areeiro e entre as estações de Pinhal Novo e Setúbal.\n\n3 - Os comboios de longo curso, os comboios intercidades ou outros idênticos sob designação diversa só podem ter paragens, na margem sul do rio Tejo, na estação do Pragal e nas estações incluídas no troço entre Pinhal Novo e Setúbal.\n\n4 - Os comboios regionais só podem ter paragens, na margem sul do rio Tejo, na estação do Pragal e nas estações incluídas no troço entre Pinhal Novo e Setúbal, só podendo proceder ao embarque de passageiros naquelas estações quando circulem no sentido norte-sul e ao desembarque de passageiros quando circulem no sentido sul-norte.\n\n5 - O concessionário não pode explorar comercialmente sob qualquer forma a actividade de transporte ferroviário com início e termo na margem norte do rio Tejo sem atravessamento da Ponte de 25 de Abril.\n\n6 - O concessionário não tem direito a qualquer compensação pelos prejuízos resultantes de eventuais alterações verificadas no sistema de transportes da área metropolitana de Lisboa, designadamente a abertura de novas infra-estruturas de travessia no rio Tejo ou o incremento ou modernização dos serviços do transporte público rodoviário ou do transporte fluvial para a travessia do rio Tejo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951817": {
+   "fragment_id": "888950985",
+   "type": 2,
+   "heading": "Base XI — Estabelecimento da concessão",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base XI — Estabelecimento da concessão\n\n1 - O estabelecimento da concessão compreende a universalidade dos bens e direitos afectos à mesma, incluindo, designadamente:\n\na) Revogada;\n\nb) Máquinas, equipamentos, aparelhagens e acessórios directamente utilizados na produção, exploração e manutenção do serviço concessionado;\n\nc) Imóveis necessários à produção, exploração e manutenção do serviço concessionado;\n\nd) Relações e posições jurídicas directamente relacionadas com a concessão, nomeadamente:\n\ni) Relações de natureza laboral;\n\nii) Direitos de utilização da infra-estrutura;\n\niii) Direitos de ocupação do complexo ferroviário de Coina;\n\niv) Direitos de exploração ou de gestão de outras áreas ou imóveis relacionados com a concessão;\n\nv) Outras relações ou posições jurídicas decorrentes de actos ou contratos mencionados no contrato de concessão.\n\n2 - Os bens referidos no número anterior integram o estabelecimento da concessão com quaisquer benfeitorias que neles tenham sido ou venham a ser executadas.\n\n3 - Os bens integrantes do estabelecimento da concessão deverão encontrar-se, a todo o tempo, afectos ao serviço concessionado, ressalvadas as imobilizações estritamente necessárias a operações de manutenção ou reparação.\n\n4 - O concessionário elaborará e manterá actualizado um inventário dos bens afectos à concessão, assim como dos bens que deixem de estar afectos à mesma, de acordo com as regras a estabelecer no contrato de concessão.\n\n5 - O concessionário obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens afectos à concessão, efectuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho das prestações colocadas a seu cargo pelas presentes bases ou pelo contrato de concessão.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951818": {
+   "fragment_id": "888950986",
+   "type": 2,
+   "heading": "Base XII — Contratos acessórios",
+   "in_force_from": "2019-12-19",
+   "changed_by": [],
+   "markdown": "###### Base XII — Contratos acessórios\n\n1 - São considerados instrumentais e dependentes do cumprimento pelo concessionário das obrigações inerentes às presentes bases e ao contrato de concessão os seguintes contratos que serão anexos ao contrato de concessão:\n\na) Contrato de utilização da infra-estrutura;\n\nb) Revogada;\n\nc) Contrato de exploração do serviço rodoviário;\n\nd) Contrato relativo ao sistema de monitorização do desempenho;\n\ne) Outros contratos denominados como acessórios no contrato de concessão.\n\n2 - As presentes bases e o contrato de concessão serão parâmetro de validade dos contratos previstos no número anterior, que não os poderão contrariar ou conter disposições que conduzam a resultados que frustrem os seus objectivos, bem como de quaisquer outros contratos directamente relacionados com a concessão que venham a ser celebrados.\n\n3 - O concessionário obriga-se a não alterar ou resolver os contratos referidos no n.º 1 sem autorização do concedente.\n\n4 - O concessionário não poderá opor ao concedente quaisquer excepções ou meios de defesa que resultem das relações contratuais referidas nos números anteriores.\n\n5 - O concessionário garantirá que as entidades contratantes dos contratos referidos no n.º 1 terão pleno conhecimento da sua natureza instrumental e dependente relativamente a este contrato."
+  },
+  "888951819": {
+   "fragment_id": "888950987",
+   "type": 2,
+   "heading": "Base XIII — Material circulante",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base XIII — Material circulante\n\n1 - O concedente pode, a qualquer momento, implementar uma estrutura de locação operacional, ou qualquer outra que considere adequada, relativamente ao material circulante, devendo o concessionário assumir, no contrato de concessão, a obrigação de cooperar com aquele e a actuar de boa-fé na prossecução desse objectivo.\n\n2 - Caso opte por concretizar uma estrutura de locação operacional ou outra estrutura alternativa, esta será antecedida de procedimento concorrencial a lançar e a conduzir pelo concedente, com vista à escolha da entidade adquirente do material circulante e à definição dos termos exactos da estrutura.\n\n3 - O contrato de concessão deve prever a aceitação clara e irretratável do concessionário quanto à transferência da propriedade do material circulante para a entidade locadora ou outra entidade a ser indicada pelo concedente.\n\n4 - Caso a implementação da estrutura de locação ou outra estrutura alternativa não ocorra até 30 de Junho de 2006, o Estado ou entidade por este a designar adquirirá o material circulante, nos termos a definir no contrato de concessão.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951820": {
+   "fragment_id": "888951068",
+   "type": 2,
+   "heading": "Base XIII-A — Material circulante",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+   ],
+   "markdown": "###### Base XIII-A — Material circulante\n\n1 - A manutenção do material circulante e a aquisição de novo material circulante são reguladas pelo contrato de concessão e respetivos anexos, bem como pelos instrumentos contratuais que implementam a sua locação operacional.\n\n2 - A variação dos juros devidos pela renda do material circulante origina acertos entre as partes nos termos previstos no contrato de concessão e nos instrumentos contratuais que implementam a sua locação operacional.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+  },
+  "888951467": {
+   "fragment_id": "888950988",
+   "type": 2,
+   "heading": "Base XIV — Fiscalização e monitorização",
+   "in_force_from": "2019-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+   ],
+   "markdown": "###### Base XIV — Fiscalização e monitorização\n\n1 - A actividade do concessionário está sujeita à fiscalização e monitorização do concedente, o qual poderá promover as auditorias que entender necessárias.\n\n2 - A fiscalização e monitorização prevista no número anterior competem ao Ministério das Finanças e da Administração Pública, no que respeita aos aspectos económicos e financeiros, e ao Ministério das Obras Públicas, Transportes e Comunicações, nos demais.\n\n3 - As competências do Ministério das Finanças e da Administração Pública serão exercidas pela IGF e as do Ministério das Obras Públicas, Transportes e Comunicações serão, relativamente a aspectos técnicos e operacionais e nos termos expressamente previstos na legislação e no contrato de concessão, pelo Instituto Nacional de Transporte Ferroviário (INTF).\n\n4 - No âmbito das suas atribuições de fiscalização e de gestor do contrato, o IMT, I. P., fiscaliza, entre outros aspetos, a atividade do concessionário em tudo o que respeite à exploração, com vista à verificação, designadamente:\n\na) Das condições de segurança, operacionalidade, eficiência, rapidez, comodidade, conforto e asseio do material circulante e dos demais meios de exploração ferroviária em geral;\n\nb) Da adequação da capacidade de transporte aos níveis da procura, em condições de perfeita fiabilidade e pontualidade;\n\nc) Da disponibilidade, qualidade e quantidade dos recursos humanos e da sua preparação para levar a cabo as acções exigidas para a exploração da concessão;\n\nd) Do livre acesso de todos os passageiros que utilizem o sistema aos serviços que integrem a exploração do mesmo, sem qualquer discriminação quanto às condições de acesso e realização, para além das impostas pelo regime tarifário;\n\ne) Do cumprimento de todas as normas legais, regulamentares e contratuais aplicáveis à exploração da concessão, bem como das imposições e directrizes impostas pelas autoridades competentes.\n\n5 - A concessão está, ainda, sujeita à regulação e supervisão da Autoridade da Mobilidade e dos Transportes, nos termos do Decreto-Lei n.º 78/2014, de 14 de maio, e do Decreto-Lei n.º 217/2015, de 7 de outubro, ambos na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+  },
+  "888951456": {
+   "fragment_id": "888950989",
+   "type": 2,
+   "heading": "Base XV — Penalidades por mora ou cumprimento defeituoso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XV — Penalidades por mora ou cumprimento defeituoso\n\n1 - O incumprimento de qualquer das obrigações decorrentes das presentes bases ou do contrato de concessão pelo concessionário está sujeito a penalidades, cujos limites mínimos e máximos serão fixados, em função da gravidade da infracção, no contrato de concessão.\n\n2 - A aplicação das penalidades previstas na presente base é da competência do INTF.\n\n3 - O projecto de decisão sobre a penalidade a aplicar será notificado por escrito ao concessionário, o qual terá direito a apresentar a sua defesa escrita no prazo de 20 dias.\n\n4 - A decisão final sobre a aplicação da penalidade, com os respectivos fundamentos, será notificada por escrito ao concessionário.\n\n5 - A dedução de impugnação do acto que aplique a multa não suspende a obrigação de pagamento da mesma.\n\n6 - Os montantes das penalidades referidos no n.º 1 serão automaticamente actualizados no início de cada ano civil, logo que disponibilizado pelo Instituto Nacional de Estatística o IPC total, excepto habitação referente ao ano anterior.\n\n7 - O pagamento das penalidades previstas na presente base não isenta o concessionário da responsabilidade criminal, contra-ordenacional e civil a que eventualmente haja lugar, nem exclui a fiscalização, controlo e poder sancionatório de outras entidades que decorram da lei ou de regulamento, nem tão pouco prejudica a possibilidade de sequestro, resolução ou resgate da concessão nos termos das bases XVI a XVIII.\n\n8 - O produto das multas aplicadas ao abrigo destas bases ou do contrato de concessão reverte para o INTF e para o Estado, na proporção de 40% e 60%, respectivamente."
+  },
+  "888951457": {
+   "fragment_id": "888950990",
+   "type": 2,
+   "heading": "Base XVI — Sequestro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVI — Sequestro\n\n1 - O concedente pode intervir na concessão sempre que se dê, ou se afigure iminente, uma cessação ou interrupção total ou parcial da prestação a cargo do concessionário não autorizada e não devida a força maior, ou se verifiquem graves deficiências na respectiva organização ou funcionamento ou no estado geral dos bens afectos àquela, em termos susceptíveis de comprometerem os objectivos do transporte ferroviário suburbano de passageiros concessionado.\n\n2 - Verificado o sequestro, o concessionário suportará não apenas os encargos resultantes da manutenção do serviço mas, também, quaisquer despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração e gestão que não possam ser cobertas pelos resultados daquela.\n\n3 - Logo que cessem os fundamentos de sequestro e o concedente julgue oportuno, o concessionário é notificado para retomar, na data que lhe for fixada, a normal exploração e gestão da concessão.\n\n4 - Se o concessionário não quiser ou não puder retomar a exploração e gestão da concessão ou se, tendo-o feito, continuarem a verificar-se graves deficiências na organização ou funcionamento da mesma ou no estado geral dos bens a ela afectos, o concedente pode declarar a imediata resolução do contrato de concessão."
+  },
+  "888951458": {
+   "fragment_id": "888950991",
+   "type": 2,
+   "heading": "Base XVII — Resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVII — Resolução\n\n1 - O concedente pode resolver o contrato de concessão nos termos a definir naquele contrato.\n\n2 - A resolução prevista no n.º 1 implica, nomeadamente, a reversão, para o Estado, de todos os bens e direitos afectos à concessão."
+  },
+  "888951468": {
+   "fragment_id": "888950992",
+   "type": 2,
+   "heading": "Base XVIII — Resgate",
+   "in_force_from": "2019-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base XVIII — Resgate\n\n1 - A concessão só pode ser resgatada, mediante comunicação escrita do concedente, a partir de 28 de fevereiro de 2023.\n\n2 - Em caso de resgate, o concedente assume os activos do concessionário afectos à concessão com os ónus ou encargos que tenham sido constituídos com autorização do concedente.\n\n3 - O concedente assume os passivos do concessionário afectos à concessão, desde que, comprovadamente:\n\na) Resultem directamente de actividade incluída no objecto da concessão e tenham sido, sejam ou venham a ser necessários para a prossecução desse objecto;\n\nb) Tenham sido constituídos em data anterior à comunicação do resgate feita pelo concedente ou em data posterior com autorização por escrito do concedente; e\n\nc) Sejam o resultado de negociação zelosa e diligente efectuada pelo concessionário.\n\n4 - O concedente paga ao concessionário o valor financeiro correspondente ao período remanescente da concessão, calculado de acordo com o modelo financeiro em anexo ao contrato de concessão.\n\n5 - As assunções a que se referem os n.os 3 e 4 ficam condicionadas à realização de uma auditoria, sob responsabilidade de entidade designada por acordo entre concedente e concessionário, e aos resultados da mesma; tal auditoria terá a duração máxima de seis meses a contar do início das diligências à mesma inerentes; a auditoria destina-se a:\n\na) Verificar se os activos da concessão a assumir pelo concedente correspondem aos activos que existiriam caso não tivesse ocorrido o resgate da concessão;\n\nb) Verificar se os activos da concessão a assumir pelo concedente se encontram em perfeitas condições de operacionalidade, utilização e manutenção, salvo o desgaste decorrente da normal utilização no âmbito da concessão;\n\nc) Verificar se os passivos do concessionário preenchem os pressupostos definidos no n.º 3;\n\nd) Verificar o valor financeiro do período remanescente, de acordo com o previsto no modelo financeiro anexo ao contrato de concessão.\n\n6 - Para além do que resultar dos números anteriores, o concedente não é responsável, perante terceiros, por quaisquer encargos decorrentes da actividade do concessionário anterior ao resgate e é titular, em relação a este, de direito de regresso relativamente a todo e qualquer encargo que tenha de suportar relacionado com tal actividade.\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951460": {
+   "fragment_id": "888950993",
+   "type": 2,
+   "heading": "Base XIX — Lei aplicável e arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIX — Lei aplicável e arbitragem\n\n1 - O contrato de concessão rege-se pela lei portuguesa.\n\n2 - Qualquer litígio entre o concedente e o concessionário respeitante à concessão que não possa ser resolvido por conciliação, de acordo com o disposto no contrato de concessão, será submetido ao foro arbitral.\n\n3 - A arbitragem decorrerá em Lisboa, funcionando o tribunal de acordo com as regras indicadas no contrato de concessão."
+  },
+  "888951867": {
+   "fragment_id": "888950975",
+   "type": 2,
+   "heading": "Base I — Objecto da concessão",
+   "in_force_from": "2024-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+   ],
+   "markdown": "###### Base I — Objecto da concessão\n\n1 - A concessão tem por objecto principal a exploração, pelo concessionário, em regime regular e contínuo, do serviço de transporte ferroviário suburbano de passageiros no eixo ferroviário norte-sul, entre as estações de Roma-Areeiro, Entrecampos, Sete Rios, Campolide, Pragal, Corroios, Foros de Amora, Fogueteiro, Coina, Penalva, Pinhal Novo, Venda do Alcaide, Palmela e Setúbal.\n\n2 - Por acordo entre o concedente e o concessionário, pode ser alterado o ponto extremo do serviço concessionado, estendendo-se a concessão, na margem norte, até à Gare do Oriente, e ou, na margem sul, até Praias do Sado.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+  },
+  "888951868": {
+   "fragment_id": "888950976",
+   "type": 2,
+   "heading": "Base II — Outras actividades do concessionário",
+   "in_force_from": "2024-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25"
+   ],
+   "markdown": "###### Base II — Outras actividades do concessionário\n\n1 - Ao objecto principal do contrato de concessão acrescerá, a título acessório, a exploração das estações, interfaces, silos e parques de estacionamento das estações da margem sul do Pragal, Corroios, Foros de Amora, Fogueteiro, Coina e Penalva, assim como das áreas comerciais incluídas nessas estações e interfaces, nos termos do respectivo contrato de concessão de exploração anexo ao contrato de concessão.\n\n2 - O concessionário é obrigado a manter um sistema de informação contabilística por actividade; são actividades distintas:\n\na) o serviço concessionado de transporte ferroviário;\n\nb) Revogada;\n\nc) cada uma das actividades acessórias ao serviço concessionado de transporte tal como definidas no contrato de concessão.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25"
+  },
+  "888951869": {
+   "fragment_id": "888950977",
+   "type": 2,
+   "heading": "Base III — Prazo da concessão",
+   "in_force_from": "2024-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base III — Prazo da concessão\n\n1 - O contrato de concessão vigora até 31 de março de 2031.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951870": {
+   "fragment_id": "888951028",
+   "type": 2,
+   "heading": "Base III-A — Contrapartida em caso de não denúncia",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base III-A — Contrapartida em caso de não denúncia\n\n1 - Caso não seja usada a faculdade de denúncia prevista na base anterior, o concedente tem direito a receber do concessionário, até 31 de Dezembro do respectivo ano, como contrapartida anual da concessão:\n\na) Em 2017 - (euro) 965 911,88;\n\nb) Em 2018 - (euro) 1 233 469,98;\n\nc) Em 2019 - (euro) 1 428 983,53.\n\n2 - Os montantes referidos no número anterior são expressos a preços de Dezembro de 2010, devendo ser actualizados para a respectiva data de pagamento de acordo com o índice de preços no consumidor (IPC) total, excepto habitação, verificado no mês imediatamente anterior ao seu pagamento.\n\n3 - Se a denúncia do contrato de concessão produzir efeitos antes do termo do respectivo ano civil, o valor previsto no n.º 1 para o ano correspondente é reduzido proporcionalmente aos meses de vigência do referido contrato nesse mesmo ano.\n\n4 - Ocorrendo a situação prevista no número anterior, o pagamento do respectivo valor deve ser efectuado pelo concessionário ao concedente até ao termo da vigência do contrato de concessão.\n\n5 - Os pagamentos previstos nos números anteriores devem ser efectuados à Direcção-Geral do Tesouro e Finanças.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951871": {
+   "fragment_id": "888950978",
+   "type": 2,
+   "heading": "Base IV — Prestações de serviço público",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base IV — Prestações de serviço público\n\n1 - O concessionário é obrigado a realizar a exploração do serviço público concessionado nos termos previstos no contrato de concessão, garantindo uma oferta adequada aos níveis de procura, garantindo condições de qualidade, comodidade, rapidez e segurança, com respeito pelos limites de capacidade da infra-estrutura e de acordo com todos os parâmetros a definir no contrato de concessão.\n\n2 - No programa de oferta referido no número anterior, o concessionário deve assegurar circulações de baixas taxas de utilização.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Na repartição da capacidade da infra-estrutura, a Rede Ferroviária Nacional - REFER, E. P., deve assegurar o programa de oferta previsto no contrato de concessão renegociado nos termos da legislação aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951872": {
+   "fragment_id": "888950979",
+   "type": 2,
+   "heading": "Base V — Obrigações respeitantes à sociedade concessionária",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base V — Obrigações respeitantes à sociedade concessionária\n\n1 - O concessionário tem como objecto social exclusivo o exercício das actividades previstas nas presentes bases e no contrato de concessão.\n\n2 - Qualquer alteração ao contrato de sociedade do concessionário depende de autorização do concedente.\n\n3 - As acções representativas do capital social do concessionário são obrigatoriamente nominativas e só podem ser transmitidas entre accionistas ou a terceiros, ou oneradas em favor dos mesmos, mediante autorização do concedente.\n\n4 - (Revogado.)\n\n5 - Qualquer deliberação de fusão ou de cisão do concessionário depende de autorização do concedente.\n\n6 - A violação do disposto na presente base implica a nulidade dos correspondentes actos ou contratos.\n\n7 - O concessionário deve enviar ao concedente, no prazo de 30 dias após a celebração do contrato de concessão, a lista discriminada das participações qualificadas nas sociedades detentoras das suas participações sociais; sempre que tal lista for objecto de alterações, devem estas ser notificadas ao concedente no prazo de 30 dias a contar da respectiva formalização.\n\n8 - Para os efeitos do disposto no número anterior, «participação qualificada» tem o significado estabelecido no n.º 7 do artigo 13.º do Decreto-Lei n.º 298/92, de 31 de Dezembro, com a redacção vigente à data da publicação das presentes bases.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951873": {
+   "fragment_id": "888950980",
+   "type": 2,
+   "heading": "Base VI — Regime de riscos",
+   "in_force_from": "2024-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base VI — Regime de riscos\n\n1 - O concessionário assume integral responsabilidade pelos riscos relativos à concessão, excepto quando o contrário resulte expressamente das presentes bases ou do contrato de concessão.\n\n2 - O concessionário é responsável por quaisquer prejuízos causados a terceiros, por acção ou omissão, no exercício das actividades que constituem o objecto do contrato de concessão, ainda que emergentes de actuação não culposa, bem como por todos os prejuízos causados, por acção ou por omissão, por qualquer pessoa ou entidade por si subcontratada ou a cuja colaboração recorra.\n\n3 - Caso os proveitos tarifários do serviço ferroviário, devidamente evidenciados nas demonstrações financeiras do concessionário, auditados pela Inspeção-Geral das Finanças (IGF), sejam superiores aos montantes previstos no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real nos termos aí previstos, em determinado ano, aplicam-se à diferença apurada os mecanismos previstos no contrato de concessão que regulam a partilha de proveitos ou a sua integral atribuição ao concedente.\n\n4 - Caso os proveitos tarifários do serviço ferroviário, devidamente evidenciados nas demonstrações financeiras do concessionário, auditados pela IGF, não atinjam os montantes previstos no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real nos termos aí previstos, em determinado ano, o concedente entrega a diferença ao concessionário.\n\n5 - Na determinação dos proveitos tarifários do serviço ferroviário a que aludem os números anteriores não são considerados eventuais descontos decorrentes da prestação simultânea de outros serviços compreendidos no âmbito da atuação do concessionário.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951874": {
+   "fragment_id": "888951066",
+   "type": 2,
+   "heading": "Base VI-A — Procedimento de acerto",
+   "in_force_from": "2024-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+   ],
+   "markdown": "###### Base VI-A — Procedimento de acerto\n\nO acerto dos valores eventualmente devidos por uma das partes à outra ao abrigo do disposto nas Bases I, VI, VIII, VIII-A, VIII-B e XIII-A obedece ao procedimento previsto no contrato de concessão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+  },
+  "888952075": {
+   "fragment_id": "888950981",
+   "type": 2,
+   "heading": "Base VII — Reposição do equilíbrio financeiro",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base VII — Reposição do equilíbrio financeiro\n\n1 - Sem prejuízo do disposto no n.º 6, o concessionário apenas tem direito à reposição do equilíbrio financeiro da concessão quando:\n\na) O concedente imponha alterações unilaterais ao contrato de concessão susceptíveis de gerar uma diminuição de rendimentos ou um aumento de gastos;\n\nb) [Revogada];\n\nc) Ocorra a situação prevista na alínea b) do n.º 4 da base ix.\n\n2 - O valor da reposição do equilíbrio financeiro deve corresponder ao necessário para repor as condições económicas de exploração que se verificariam caso não ocorresse o facto gerador de tal desequilíbrio.\n\n3 - Para efeitos do disposto na presente base, o concessionário deve notificar o concedente da ocorrência de qualquer evento que possa dar lugar à reposição do equilíbrio financeiro da concessão, no prazo de 30 dias após a sua ocorrência.\n\n4 - A reposição do equilíbrio financeiro efectuada nos termos da presente base é, relativamente ao evento que lhe deu origem, única, completa e final para todo o período da concessão, sem prejuízo de tal reposição ser parcialmente diferida em relação a quaisquer efeitos específicos do evento em causa que, pela sua natureza, não sejam susceptíveis de uma razoável avaliação imediata ou sobre cuja existência, incidência ou quantificação, as partes não hajam ainda chegado a acordo.\n\n5 - A reposição do equilíbrio financeiro da concessão prevista nos números anteriores deve ser efectuada por acordo entre as partes, devendo o pagamento do respectivo valor ser efectuado através de uma, ou mais, das seguintes modalidades:\n\na) Havendo pagamentos devidos pelo concessionário nos termos previstos no contrato de concessão, pela não entrega ao concedente dos mesmos até ao montante do valor fixado para a reposição;\n\nb) [Revogada];\n\nc) Pelo pagamento directo do concedente ao concessionário;\n\nd) Por qualquer outra modalidade.\n\n6 - Não há lugar à reposição do equilíbrio financeiro da concessão quando o valor susceptível de gerar uma diminuição de rendimentos ou um aumento de gastos seja inferior a (euro) 50 000.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888952076": {
+   "fragment_id": "888950982",
+   "type": 2,
+   "heading": "Base VIII — Tarifas pela utilização da infra-estrutura e outros pagamentos",
+   "in_force_from": "2024-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base VIII — Tarifas pela utilização da infra-estrutura e outros pagamentos\n\n1 - As tarifas devidas pelo concessionário pela utilização da infraestrutura são apuradas de acordo com o diretório da rede em vigor em cada momento, referido no artigo 30.º do Decreto-Lei n.º 270/2003, de 28 de outubro, na sua redação atual.\n\n2 - Caso se verifique uma alteração do valor das tarifas constantes dos diretórios da rede, por referência ao diretório da rede para 2024, que resulte num agravamento dos custos do concessionário com o pagamento das mesmas previsto no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real nos termos aí previstos, o concedente entrega-lhe a respetiva diferença.\n\n3 - Caso se verifique uma alteração do valor das tarifas constantes dos diretórios da rede, por referência ao diretório da rede para 2024, que resulte numa redução dos custos do concessionário com o pagamento das mesmas previsto no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real nos termos aí previstos, este entrega a respetiva diferença ao concedente.\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888952077": {
+   "fragment_id": "888951067",
+   "type": 2,
+   "heading": "Base VIII-A — Energia de tração",
+   "in_force_from": "2024-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+   ],
+   "markdown": "###### Base VIII-A — Energia de tração\n\n1 - Caso o custo anual do concessionário com a energia de tração seja superior ao previsto no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real para o respetivo ano nos termos aí previstos, o concedente entrega a respetiva diferença ao concessionário.\n\n2 - Caso o custo anual do concessionário com a energia de tração seja inferior ao previsto no modelo financeiro anexo ao contrato de concessão, corrigidos pela inflação real para o respetivo ano nos termos aí previstos, o concessionário entrega a respetiva diferença ao concedente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+  },
+  "888952078": {
+   "fragment_id": "888951892",
+   "type": 2,
+   "heading": "Base VIII-B — Variações da taxa do imposto sobre o rendimento das pessoas coletivas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25"
+   ],
+   "markdown": "###### Base VIII-B — Variações da taxa do imposto sobre o rendimento das pessoas coletivas\n\n1 - A partir de 2025, caso se verifique que a taxa do imposto sobre o rendimento das pessoas coletivas (IRC) aplicável ao concessionário num determinado período de tributação seja superior à taxa do IRC considerada para esse mesmo período no modelo financeiro anexo ao contrato de concessão, o concedente deve entregar ao concessionário o valor correspondente à diferença entre o imposto efetivamente devido pelo concessionário nesse período de tributação e o imposto que este pagaria se fosse aplicável a taxa considerada no modelo financeiro.\n\n2 - A partir de 2025, caso se verifique que a taxa do IRC aplicável ao concessionário num determinado período de tributação seja inferior à taxa do IRC considerada para esse mesmo período no modelo financeiro anexo ao contrato de concessão, o concessionário deve entregar ao concedente o valor correspondente à diferença entre o imposto que o concessionário pagaria se fosse aplicável a taxa considerada no modelo financeiro e o imposto efetivamente devido pelo concessionário nesse período de tributação.\n\n3 - O valor que uma parte deve à outra, nos termos dos números anteriores, deve ser calculado de forma que o valor de pagamento corresponda ao montante devido após a aplicação do próprio imposto, quando aplicável.\n\n4 - Até 30 de abril de cada ano, o concessionário deve apresentar ao concedente o cálculo detalhado para o efeito da aplicação do disposto nos números anteriores, a conferir e validar pela IGF.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25"
+  },
+  "888951851": {
+   "fragment_id": "888950983",
+   "type": 2,
+   "heading": "Base IX — Atualização tarifária",
+   "in_force_from": "2024-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base IX — Atualização tarifária\n\n1 - O concessionário procede à atualização tarifária que vier a ser definida pela Área Metropolitana de Lisboa ou por outra autoridade de transportes que seja competente, em cada ano civil, aplicando-se a todos os seus títulos, tendo em conta o Regulamento n.º 278-A/2019, de 27 de março de 2019, a Portaria n.º 298/2018, de 19 de novembro, e o Regulamento n.º 430/2019, de 16 de maio.\n\n2 - A atualização tarifária tem em consideração as tarifas previstas em anexo ao contrato de concessão ou as que se encontrem em vigor no momento da mesma.\n\n3 - Para efeitos da atualização tarifária prevista na presente base, o concessionário deve, fundamentadamente, informar a TML ― Transportes Metropolitanos de Lisboa, E. M. T., S. A., e o concedente, com uma antecedência não inferior a 30 dias relativamente à data da produção de efeitos, da atualização pretendida.\n\n4 - No prazo de 15 dias a contar da recepção da proposta referida no número anterior, o concedente pode, fundamentadamente, opor-se à actualização tarifária nos termos propostos, caso:\n\na) O concessionário não observe o regime de actualização previsto na presente base e no contrato de concessão; ou\n\nb) Existam razões de interesse público que obstem à actualização proposta.\n\n5 - Ocorrendo a situação prevista na alínea b) do número anterior, o concessionário tem direito à reposição do equilíbrio financeiro da concessão nos termos previstos da base vii e no contrato de concessão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951852": {
+   "fragment_id": "888951029",
+   "type": 2,
+   "heading": "Base IX-A — Regime tarifário facultativo",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base IX-A — Regime tarifário facultativo\n\n1 - Sem prejuízo do disposto da base anterior, o concessionário pode, mediante autorização prévia do concedente, aumentar, em cada ano civil, o tarifário até ao limite definido para os restantes operadores de transportes da área metropolitana de Lisboa, nos termos e de acordo com o procedimento a fixar no contrato de concessão.\n\n2 - O acréscimo de receitas referentes ao serviço ferroviário decorrente da aplicação da presente base é partilhado entre o concessionário e o concedente, nos termos a fixar no contrato de concessão.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951853": {
+   "fragment_id": "888950984",
+   "type": 2,
+   "heading": "Base X — Exclusividade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base X — Exclusividade\n\n1 - A exploração do serviço concessionado entre as estações de Roma-Areeiro e Setúbal cabe em exclusivo ao concessionário.\n\n2 - Ficam excluídas do regime estabelecido no número anterior as ligações ferroviárias suburbanas de passageiros entre as estações de Campolide e Roma-Areeiro e entre as estações de Pinhal Novo e Setúbal.\n\n3 - Os comboios de longo curso, os comboios intercidades ou outros idênticos sob designação diversa só podem ter paragens, na margem sul do rio Tejo, na estação do Pragal e nas estações incluídas no troço entre Pinhal Novo e Setúbal.\n\n4 - Os comboios regionais só podem ter paragens, na margem sul do rio Tejo, na estação do Pragal e nas estações incluídas no troço entre Pinhal Novo e Setúbal, só podendo proceder ao embarque de passageiros naquelas estações quando circulem no sentido norte-sul e ao desembarque de passageiros quando circulem no sentido sul-norte.\n\n5 - O concessionário não pode explorar comercialmente sob qualquer forma a actividade de transporte ferroviário com início e termo na margem norte do rio Tejo sem atravessamento da Ponte de 25 de Abril.\n\n6 - O concessionário não tem direito a qualquer compensação pelos prejuízos resultantes de eventuais alterações verificadas no sistema de transportes da área metropolitana de Lisboa, designadamente a abertura de novas infra-estruturas de travessia no rio Tejo ou o incremento ou modernização dos serviços do transporte público rodoviário ou do transporte fluvial para a travessia do rio Tejo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951854": {
+   "fragment_id": "888950985",
+   "type": 2,
+   "heading": "Base XI — Estabelecimento da concessão",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base XI — Estabelecimento da concessão\n\n1 - O estabelecimento da concessão compreende a universalidade dos bens e direitos afectos à mesma, incluindo, designadamente:\n\na) Revogada;\n\nb) Máquinas, equipamentos, aparelhagens e acessórios directamente utilizados na produção, exploração e manutenção do serviço concessionado;\n\nc) Imóveis necessários à produção, exploração e manutenção do serviço concessionado;\n\nd) Relações e posições jurídicas directamente relacionadas com a concessão, nomeadamente:\n\ni) Relações de natureza laboral;\n\nii) Direitos de utilização da infra-estrutura;\n\niii) Direitos de ocupação do complexo ferroviário de Coina;\n\niv) Direitos de exploração ou de gestão de outras áreas ou imóveis relacionados com a concessão;\n\nv) Outras relações ou posições jurídicas decorrentes de actos ou contratos mencionados no contrato de concessão.\n\n2 - Os bens referidos no número anterior integram o estabelecimento da concessão com quaisquer benfeitorias que neles tenham sido ou venham a ser executadas.\n\n3 - Os bens integrantes do estabelecimento da concessão deverão encontrar-se, a todo o tempo, afectos ao serviço concessionado, ressalvadas as imobilizações estritamente necessárias a operações de manutenção ou reparação.\n\n4 - O concessionário elaborará e manterá actualizado um inventário dos bens afectos à concessão, assim como dos bens que deixem de estar afectos à mesma, de acordo com as regras a estabelecer no contrato de concessão.\n\n5 - O concessionário obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens afectos à concessão, efectuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho das prestações colocadas a seu cargo pelas presentes bases ou pelo contrato de concessão.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951866": {
+   "fragment_id": "888950986",
+   "type": 2,
+   "heading": "Base XII — Contratos acessórios",
+   "in_force_from": "2024-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25"
+   ],
+   "markdown": "###### Base XII — Contratos acessórios\n\n1 - São considerados instrumentais e dependentes do cumprimento pelo concessionário das obrigações inerentes às presentes bases e ao contrato de concessão os seguintes contratos que serão anexos ao contrato de concessão:\n\na) Contrato de utilização da infra-estrutura;\n\nb) Revogada;\n\nc) Revogada;\n\nd) Contrato relativo ao sistema de monitorização do desempenho;\n\ne) Outros contratos denominados como acessórios no contrato de concessão.\n\n2 - As presentes bases e o contrato de concessão serão parâmetro de validade dos contratos previstos no número anterior, que não os poderão contrariar ou conter disposições que conduzam a resultados que frustrem os seus objectivos, bem como de quaisquer outros contratos directamente relacionados com a concessão que venham a ser celebrados.\n\n3 - O concessionário obriga-se a não alterar ou resolver os contratos referidos no n.º 1 sem autorização do concedente.\n\n4 - O concessionário não poderá opor ao concedente quaisquer excepções ou meios de defesa que resultem das relações contratuais referidas nos números anteriores.\n\n5 - O concessionário garantirá que as entidades contratantes dos contratos referidos no n.º 1 terão pleno conhecimento da sua natureza instrumental e dependente relativamente a este contrato.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25"
+  },
+  "888951856": {
+   "fragment_id": "888950987",
+   "type": 2,
+   "heading": "Base XIII — Material circulante",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base XIII — Material circulante\n\n1 - O concedente pode, a qualquer momento, implementar uma estrutura de locação operacional, ou qualquer outra que considere adequada, relativamente ao material circulante, devendo o concessionário assumir, no contrato de concessão, a obrigação de cooperar com aquele e a actuar de boa-fé na prossecução desse objectivo.\n\n2 - Caso opte por concretizar uma estrutura de locação operacional ou outra estrutura alternativa, esta será antecedida de procedimento concorrencial a lançar e a conduzir pelo concedente, com vista à escolha da entidade adquirente do material circulante e à definição dos termos exactos da estrutura.\n\n3 - O contrato de concessão deve prever a aceitação clara e irretratável do concessionário quanto à transferência da propriedade do material circulante para a entidade locadora ou outra entidade a ser indicada pelo concedente.\n\n4 - Caso a implementação da estrutura de locação ou outra estrutura alternativa não ocorra até 30 de Junho de 2006, o Estado ou entidade por este a designar adquirirá o material circulante, nos termos a definir no contrato de concessão.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951857": {
+   "fragment_id": "888951068",
+   "type": 2,
+   "heading": "Base XIII-A — Material circulante",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+   ],
+   "markdown": "###### Base XIII-A — Material circulante\n\n1 - A manutenção do material circulante e a aquisição de novo material circulante são reguladas pelo contrato de concessão e respetivos anexos, bem como pelos instrumentos contratuais que implementam a sua locação operacional.\n\n2 - A variação dos juros devidos pela renda do material circulante origina acertos entre as partes nos termos previstos no contrato de concessão e nos instrumentos contratuais que implementam a sua locação operacional.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+  },
+  "888951858": {
+   "fragment_id": "888950988",
+   "type": 2,
+   "heading": "Base XIV — Fiscalização e monitorização",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+   ],
+   "markdown": "###### Base XIV — Fiscalização e monitorização\n\n1 - A actividade do concessionário está sujeita à fiscalização e monitorização do concedente, o qual poderá promover as auditorias que entender necessárias.\n\n2 - A fiscalização e monitorização prevista no número anterior competem ao Ministério das Finanças e da Administração Pública, no que respeita aos aspectos económicos e financeiros, e ao Ministério das Obras Públicas, Transportes e Comunicações, nos demais.\n\n3 - As competências do Ministério das Finanças e da Administração Pública serão exercidas pela IGF e as do Ministério das Obras Públicas, Transportes e Comunicações serão, relativamente a aspectos técnicos e operacionais e nos termos expressamente previstos na legislação e no contrato de concessão, pelo Instituto Nacional de Transporte Ferroviário (INTF).\n\n4 - No âmbito das suas atribuições de fiscalização e de gestor do contrato, o IMT, I. P., fiscaliza, entre outros aspetos, a atividade do concessionário em tudo o que respeite à exploração, com vista à verificação, designadamente:\n\na) Das condições de segurança, operacionalidade, eficiência, rapidez, comodidade, conforto e asseio do material circulante e dos demais meios de exploração ferroviária em geral;\n\nb) Da adequação da capacidade de transporte aos níveis da procura, em condições de perfeita fiabilidade e pontualidade;\n\nc) Da disponibilidade, qualidade e quantidade dos recursos humanos e da sua preparação para levar a cabo as acções exigidas para a exploração da concessão;\n\nd) Do livre acesso de todos os passageiros que utilizem o sistema aos serviços que integrem a exploração do mesmo, sem qualquer discriminação quanto às condições de acesso e realização, para além das impostas pelo regime tarifário;\n\ne) Do cumprimento de todas as normas legais, regulamentares e contratuais aplicáveis à exploração da concessão, bem como das imposições e directrizes impostas pelas autoridades competentes.\n\n5 - A concessão está, ainda, sujeita à regulação e supervisão da Autoridade da Mobilidade e dos Transportes, nos termos do Decreto-Lei n.º 78/2014, de 14 de maio, e do Decreto-Lei n.º 217/2015, de 7 de outubro, ambos na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19"
+  },
+  "888951859": {
+   "fragment_id": "888950989",
+   "type": 2,
+   "heading": "Base XV — Penalidades por mora ou cumprimento defeituoso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XV — Penalidades por mora ou cumprimento defeituoso\n\n1 - O incumprimento de qualquer das obrigações decorrentes das presentes bases ou do contrato de concessão pelo concessionário está sujeito a penalidades, cujos limites mínimos e máximos serão fixados, em função da gravidade da infracção, no contrato de concessão.\n\n2 - A aplicação das penalidades previstas na presente base é da competência do INTF.\n\n3 - O projecto de decisão sobre a penalidade a aplicar será notificado por escrito ao concessionário, o qual terá direito a apresentar a sua defesa escrita no prazo de 20 dias.\n\n4 - A decisão final sobre a aplicação da penalidade, com os respectivos fundamentos, será notificada por escrito ao concessionário.\n\n5 - A dedução de impugnação do acto que aplique a multa não suspende a obrigação de pagamento da mesma.\n\n6 - Os montantes das penalidades referidos no n.º 1 serão automaticamente actualizados no início de cada ano civil, logo que disponibilizado pelo Instituto Nacional de Estatística o IPC total, excepto habitação referente ao ano anterior.\n\n7 - O pagamento das penalidades previstas na presente base não isenta o concessionário da responsabilidade criminal, contra-ordenacional e civil a que eventualmente haja lugar, nem exclui a fiscalização, controlo e poder sancionatório de outras entidades que decorram da lei ou de regulamento, nem tão pouco prejudica a possibilidade de sequestro, resolução ou resgate da concessão nos termos das bases XVI a XVIII.\n\n8 - O produto das multas aplicadas ao abrigo destas bases ou do contrato de concessão reverte para o INTF e para o Estado, na proporção de 40% e 60%, respectivamente."
+  },
+  "888951860": {
+   "fragment_id": "888950990",
+   "type": 2,
+   "heading": "Base XVI — Sequestro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVI — Sequestro\n\n1 - O concedente pode intervir na concessão sempre que se dê, ou se afigure iminente, uma cessação ou interrupção total ou parcial da prestação a cargo do concessionário não autorizada e não devida a força maior, ou se verifiquem graves deficiências na respectiva organização ou funcionamento ou no estado geral dos bens afectos àquela, em termos susceptíveis de comprometerem os objectivos do transporte ferroviário suburbano de passageiros concessionado.\n\n2 - Verificado o sequestro, o concessionário suportará não apenas os encargos resultantes da manutenção do serviço mas, também, quaisquer despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração e gestão que não possam ser cobertas pelos resultados daquela.\n\n3 - Logo que cessem os fundamentos de sequestro e o concedente julgue oportuno, o concessionário é notificado para retomar, na data que lhe for fixada, a normal exploração e gestão da concessão.\n\n4 - Se o concessionário não quiser ou não puder retomar a exploração e gestão da concessão ou se, tendo-o feito, continuarem a verificar-se graves deficiências na organização ou funcionamento da mesma ou no estado geral dos bens a ela afectos, o concedente pode declarar a imediata resolução do contrato de concessão."
+  },
+  "888951861": {
+   "fragment_id": "888950991",
+   "type": 2,
+   "heading": "Base XVII — Resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVII — Resolução\n\n1 - O concedente pode resolver o contrato de concessão nos termos a definir naquele contrato.\n\n2 - A resolução prevista no n.º 1 implica, nomeadamente, a reversão, para o Estado, de todos os bens e direitos afectos à concessão."
+  },
+  "888951862": {
+   "fragment_id": "888950992",
+   "type": 2,
+   "heading": "Base XVIII — Resgate",
+   "in_force_from": "2024-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+   ],
+   "markdown": "###### Base XVIII — Resgate\n\n1 - A concessão só pode ser resgatada, mediante comunicação escrita do concedente, a partir de 29 de janeiro de 2029.\n\n2 - Em caso de resgate, o concedente assume os activos do concessionário afectos à concessão com os ónus ou encargos que tenham sido constituídos com autorização do concedente.\n\n3 - O concedente assume os passivos do concessionário afectos à concessão, desde que, comprovadamente:\n\na) Resultem directamente de actividade incluída no objecto da concessão e tenham sido, sejam ou venham a ser necessários para a prossecução desse objecto;\n\nb) Tenham sido constituídos em data anterior à comunicação do resgate feita pelo concedente ou em data posterior com autorização por escrito do concedente; e\n\nc) Sejam o resultado de negociação zelosa e diligente efectuada pelo concessionário.\n\n4 - O concedente paga ao concessionário o valor financeiro correspondente ao período remanescente da concessão, calculado de acordo com o modelo financeiro em anexo ao contrato de concessão.\n\n5 - As assunções a que se referem os n.os 3 e 4 ficam condicionadas à realização de uma auditoria, sob responsabilidade de entidade designada por acordo entre concedente e concessionário, e aos resultados da mesma; tal auditoria terá a duração máxima de seis meses a contar do início das diligências à mesma inerentes; a auditoria destina-se a:\n\na) Verificar se os activos da concessão a assumir pelo concedente correspondem aos activos que existiriam caso não tivesse ocorrido o resgate da concessão;\n\nb) Verificar se os activos da concessão a assumir pelo concedente se encontram em perfeitas condições de operacionalidade, utilização e manutenção, salvo o desgaste decorrente da normal utilização no âmbito da concessão;\n\nc) Verificar se os passivos do concessionário preenchem os pressupostos definidos no n.º 3;\n\nd) Verificar o valor financeiro do período remanescente, de acordo com o previsto no modelo financeiro anexo ao contrato de concessão.\n\n6 - Para além do que resultar dos números anteriores, o concedente não é responsável, perante terceiros, por quaisquer encargos decorrentes da actividade do concessionário anterior ao resgate e é titular, em relação a este, de direito de regresso relativamente a todo e qualquer encargo que tenha de suportar relacionado com tal actividade.\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-C/2024 - Diário da República n.º 185/2024, Suplemento, Série I de 2024-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-2024-888861523), em vigor a partir de 2024-09-25\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019, 1º Suplemento, Série I de 2019-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-a-2019-127380609), em vigor a partir de 2019-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138-B/2010 - Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881), em vigor a partir de 2010-12-29"
+  },
+  "888951863": {
+   "fragment_id": "888950993",
+   "type": 2,
+   "heading": "Base XIX — Lei aplicável e arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIX — Lei aplicável e arbitragem\n\n1 - O contrato de concessão rege-se pela lei portuguesa.\n\n2 - Qualquer litígio entre o concedente e o concessionário respeitante à concessão que não possa ser resolvido por conciliação, de acordo com o disposto no contrato de concessão, será submetido ao foro arbitral.\n\n3 - A arbitragem decorrerá em Lisboa, funcionando o tribunal de acordo com as regras indicadas no contrato de concessão."
+  }
+ }
+}

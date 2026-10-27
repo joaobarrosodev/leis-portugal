@@ -1,0 +1,502 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629416:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-115001219",
+ "dre_path": "/dr/detalhe/decreto-lei/367-2007-629416",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115004472",
+    "115004473",
+    "115004474",
+    "115001375",
+    "115001376",
+    "115001377",
+    "115001378",
+    "115001379",
+    "115001380",
+    "115001381",
+    "115001382",
+    "115001383",
+    "115001384",
+    "115001385",
+    "115001386",
+    "115001387",
+    "115001388",
+    "115001389",
+    "115001390",
+    "115001391",
+    "115001392",
+    "115001393",
+    "115001394",
+    "115001395",
+    "115001396",
+    "115001397",
+    "115001398",
+    "115001399",
+    "115001400",
+    "115001401",
+    "115001402",
+    "115001403",
+    "115001404",
+    "115001405",
+    "115001406",
+    "115001407",
+    "115001408"
+   ]
+  },
+  {
+   "date": "2010-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:609990:por",
+     "title": "Lei n.º 3-B/2010",
+     "published": "2010-04-28",
+     "dre_path": "/dr/detalhe/lei/3-b-2010-609990"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "115004472",
+    "115004473",
+    "115004474",
+    "115001375",
+    "115001376",
+    "115001377",
+    "115001378",
+    "115001379",
+    "115001380",
+    "115001381",
+    "115001382",
+    "115001383",
+    "115001384",
+    "115001424",
+    "115001386",
+    "115001387",
+    "115001388",
+    "115001389",
+    "115001390",
+    "115001391",
+    "115001392",
+    "115001393",
+    "115001394",
+    "115001425",
+    "115001396",
+    "115001397",
+    "115001398",
+    "115001399",
+    "115001400",
+    "115001401",
+    "115001402",
+    "115001403",
+    "115001404",
+    "115001405",
+    "115001406",
+    "115001407",
+    "115001408",
+    "115001409"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344942:por",
+     "title": "Lei n.º 55-A/2010",
+     "published": "2010-12-31",
+     "dre_path": "/dr/detalhe/lei/55-a-2010-344942"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "115004472",
+    "115004473",
+    "115004474",
+    "115001375",
+    "115001376",
+    "115001377",
+    "115001378",
+    "115001379",
+    "115001380",
+    "115001381",
+    "115001382",
+    "115001383",
+    "115001384",
+    "115001424",
+    "115001386",
+    "115001387",
+    "115001388",
+    "115001389",
+    "115001390",
+    "115001391",
+    "115001392",
+    "115001393",
+    "115001394",
+    "115001426",
+    "115001396",
+    "115001397",
+    "115001398",
+    "115001399",
+    "115001400",
+    "115001401",
+    "115001402",
+    "115001403",
+    "115001404",
+    "115001405",
+    "115001406",
+    "115001407",
+    "115001408",
+    "115001409"
+   ]
+  }
+ ],
+ "fragments": {
+  "115004472": {
+   "fragment_id": "115001220",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 367/2007\n\nde 2 de Novembro\n\nA nova Lei de Bases do Sistema de Segurança Social, Lei n.º 4/2007, de 16 de Janeiro, introduziu algumas alterações na estrutura do sistema, agora composto pelo sistema de protecção social de cidadania, o sistema previdencial e o sistema complementar.\n\nNo que aos dois primeiros diz respeito, a referida Lei, na concretização do princípio da adequação selectiva das fontes de financiamento às modalidades de protecção social, clarificou e simplificou as regras de afectação de recursos a cada uma delas. O objectivo último subjacente a esta clarificação prendeu-se com a necessidade de tornar mais transparente e rigorosa a gestão financeira do sistema, pela delimitação precisa das responsabilidades em matéria de financiamento que devem caber, por um lado, ao Estado nas transferências realizadas para a área não contributiva da segurança social e, por outro, aos trabalhadores e entidades empregadoras que, através do pagamento de contribuições sociais, suportam os encargos com o sector contributivo. E assim precisou duas formas de financiamento: uma primeira, do sistema de protecção social de cidadania, através de transferências do Orçamento do Estado e da consignação de receitas fiscais; outra, do sistema previdencial, através das quotizações dos trabalhadores e das contribuições das entidades empregadoras.\n\nNesta linha, o presente decreto-lei vem agora estabelecer e desenvolver o quadro genérico do financiamento do sistema da segurança social, procurando discriminar as receitas e as despesas enquadradas em cada um dos sistemas. Particularmente inovadora e importante é a distinção no sistema previdencial entre a componente de gestão em repartição e a componente de gestão em capitalização, evidenciando-se o papel desta última enquanto garante da estabilização financeira do sistema em causa.\n\nO presente decreto-lei foi objecto de consulta aos parceiros sociais com assento na Comissão Permanente de Concertação Social.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNo desenvolvimento da Lei n.º 4/2007, de 16 de Janeiro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115004473": {
+   "fragment_id": "115001221",
+   "type": 1,
+   "heading": "Capítulo I — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto"
+  },
+  "115004474": {
+   "fragment_id": "115001222",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o quadro genérico do financiamento do sistema da segurança social, procedendo à regulamentação do disposto no capítulo vi da Lei n.º 4/2007, de 16 de Janeiro, abreviadamente designada por Lei de Bases, nomeadamente do disposto no seu artigo 90.º"
+  },
+  "115001375": {
+   "fragment_id": "115001223",
+   "type": 1,
+   "heading": "Capítulo II — Formas de financiamento do sistema de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Formas de financiamento do sistema de segurança social"
+  },
+  "115001376": {
+   "fragment_id": "115001224",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "115001377": {
+   "fragment_id": "115001225",
+   "type": 11,
+   "heading": "Artigo 2.º — Adequação selectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Adequação selectiva\n\n1 - O financiamento do sistema de segurança social obedece ao princípio da adequação selectiva previsto no artigo 89.º da Lei de Bases.\n\n2 - O princípio da adequação selectiva consiste na determinação das fontes de financiamento e na afectação dos recursos financeiros, de acordo com a natureza e os objectivos das modalidades de protecção social e com as situações e medidas especiais, designadamente as relacionadas com políticas activas de emprego e formação profissional."
+  },
+  "115001378": {
+   "fragment_id": "115001226",
+   "type": 11,
+   "heading": "Artigo 3.º — Formas de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Formas de financiamento\n\nConstituem formas de financiamento da segurança social, nos termos do artigo 90.º da Lei de Bases, as seguintes:\n\na) Financiamento por quotizações dos trabalhadores por conta de outrem, por contribuições dos trabalhadores independentes, por contribuições das entidades empregadoras, devidas no âmbito dos regimes gerais de segurança social e, bem assim, por outras contribuições, devidas no âmbito de outros regimes de segurança social, ainda que de inscrição facultativa;\n\nb) Financiamento por transferências do Orçamento do Estado;\n\nc) Financiamento por consignação de receitas."
+  },
+  "115001379": {
+   "fragment_id": "115001227",
+   "type": 11,
+   "heading": "Artigo 4.º — Adequação das formas de financiamento às modalidades de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Adequação das formas de financiamento às modalidades de protecção\n\n1 - No respeito pelo princípio da adequação selectiva, o financiamento das despesas do sistema da segurança social concretiza-se do seguinte modo:\n\na) A protecção garantida no âmbito do sistema de protecção social de cidadania, previsto no capítulo ii da Lei de Bases, é financiada por transferências do Orçamento do Estado e por consignação de receitas;\n\nb) As prestações substitutivas de rendimentos de actividade profissional, atribuídas no âmbito do sistema previdencial, previsto no capítulo iii da Lei de Bases e, bem assim, as políticas activas de emprego e formação profissional são financiadas por quotizações dos trabalhadores e por contribuições das entidades empregadoras.\n\n2 - Sem prejuízo do disposto na alínea b) do número anterior, a contrapartida nacional das despesas financiadas no âmbito do Fundo Social Europeu é suportada pelo Orçamento do Estado.\n\n3 - A adequação das formas de financiamento às despesas do sistema obedece ao disposto nas secções seguintes."
+  },
+  "115001380": {
+   "fragment_id": "115001228",
+   "type": 11,
+   "heading": "Artigo 5.º — Despesas de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Despesas de administração\n\n1 - As despesas de administração e outras despesas comuns do sistema, qualquer que seja a sua natureza, são financiadas através das fontes correspondentes aos sistemas de protecção social de cidadania e previdencial, na proporção dos respectivos encargos.\n\n2 - As despesas de administração do sistema previdencial-capitalização, a que se referem os artigos 13.º e 16.º, correspondem aos encargos decorrentes do serviço de administração e gestão dos fundos de capitalização da segurança social.\n\n3 - Tendo em conta o disposto no n.º 2 do artigo anterior, todas as despesas de administração, associadas a encargos com juros de linhas de crédito, decorrentes da implementação do Quadro de Referência Estratégico Nacional (QREN) são ainda suportadas pelo Orçamento do Estado.\n\n4 - Não são consideradas despesas de administração as transferências do sistema de segurança social para serviços da Administração Pública, previstas no presente diploma.\n\n5 - Sem prejuízo do disposto no n.º 1, ficam salvaguardadas as receitas dos jogos sociais, as quais são consignadas à realização de programas na área da acção social."
+  },
+  "115001381": {
+   "fragment_id": "115001229",
+   "type": 8,
+   "heading": "Secção II — Financiamento do sistema de protecção social de cidadania",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Financiamento do sistema de protecção social de cidadania"
+  },
+  "115001382": {
+   "fragment_id": "115001230",
+   "type": 3,
+   "heading": "Subsecção I — Receitas do sistema de protecção social de cidadania",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Receitas do sistema de protecção social de cidadania"
+  },
+  "115001383": {
+   "fragment_id": "115001231",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição do sistema de protecção social de cidadania",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição do sistema de protecção social de cidadania\n\nO sistema de protecção social de cidadania engloba, nos termos do artigo 28.º da Lei de Bases, o subsistema de acção social, o subsistema de solidariedade e o subsistema de protecção familiar."
+  },
+  "115001384": {
+   "fragment_id": "115001232",
+   "type": 11,
+   "heading": "Artigo 7.º — Receitas do sistema de protecção social de cidadania",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Receitas do sistema de protecção social de cidadania\n\n1 - Ao abrigo do disposto nos artigos 90.º e 92.º da Lei de Bases, constituem receitas do sistema de protecção social de cidadania as seguintes:\n\na) As transferências do Estado;\n\nb) As receitas do IVA consignadas ao sistema de segurança social;\n\nc) Outras receitas fiscais legalmente consignadas;\n\nd) As transferências de outras entidades ou de fundos públicos ou privados;\n\ne) As transferências ao abrigo de fundos comunitários e, bem assim, de programas da União Europeia, ainda que com contrapartida nacional, e sem prejuízo do disposto na alínea c) do n.º 1 do artigo 14.º;\n\nf) As receitas dos jogos sociais, consignadas a despesas na área da acção social nos termos da legislação aplicável;\n\ng) O produto de comparticipações previstas em lei ou em regulamentos, designadamente no âmbito da execução de programas de desenvolvimento social;\n\nh) As transferências de organismos estrangeiros;\n\ni) O produto de sanções pecuniárias aplicáveis no âmbito do sistema;\n\nj) Outras receitas legalmente previstas.\n\n2 - A alínea a) do número anterior compreende quer as transferências anuais do Orçamento do Estado quer as transferências provenientes de outras entidades das Administrações Públicas, nos termos da legislação aplicável."
+  },
+  "115001385": {
+   "fragment_id": "115001233",
+   "type": 11,
+   "heading": "Artigo 8.º — Consignação do IVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Consignação do IVA\n\n1 - É consignada à realização da despesa com prestações sociais no âmbito dos subsistemas de solidariedade e de protecção familiar a receita do IVA resultante do aumento da taxa normal operada através do n.º 6 do artigo 32.º da Lei n.º 39-B/94, de 27 de Dezembro, relativamente à cobrança efectuada em cada exercício orçamental.\n\n2 - Mantém-se ainda consignada à realização das despesas referidas no número anterior a receita do IVA resultante do aumento da taxa normal deste imposto, operada pela Lei n.º 39/2005, de 24 de Junho, nos termos definidos no seu artigo 3.º\n\n3 - O produto da receita do IVA referido nos números anteriores é afecto à segurança social anualmente.\n\n4 - A satisfação dos encargos com os subsistemas de solidariedade e de protecção familiar é garantida pela receita fiscal referida nos n.os 1 e 2 e, no remanescente, por transferências do Orçamento do Estado para a segurança social."
+  },
+  "115001386": {
+   "fragment_id": "115001234",
+   "type": 3,
+   "heading": "Subsecção II — Despesas do sistema de protecção social de cidadania",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Despesas do sistema de protecção social de cidadania"
+  },
+  "115001387": {
+   "fragment_id": "115001235",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas comuns do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas comuns do sistema\n\nConstituem despesas comuns do sistema de protecção social de cidadania as que correspondam à concretização dos objectivos comuns e transversais deste, designadamente as despesas com a promoção da natalidade a que se refere o artigo 27.º da Lei de Bases."
+  },
+  "115001388": {
+   "fragment_id": "115001236",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas do subsistema de acção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas do subsistema de acção social\n\n1 - Constituem despesas do subsistema de acção social as despesas com as políticas e medidas de prevenção e erradicação de situações de carência e de disfunção, exclusão ou vulnerabilidade sociais, nomeadamente em relação a determinados grupos sociais mais vulneráveis, crianças, jovens, pessoas portadoras de deficiência e idosos.\n\n2 - As despesas do subsistema traduzem-se na concretização de:\n\na) Serviços e investimentos em equipamentos sociais;\n\nb) Programas de combate à pobreza, disfunção, marginalização e exclusão sociais;\n\nc) Prestações pecuniárias e em espécie.\n\n3 - A concretização das despesas mencionadas na alínea a) do número anterior resulta designadamente da celebração de acordos ou protocolos de cooperação com instituições particulares de solidariedade social e outras e de outras formas de parceria previstas na legislação aplicável.\n\n4 - A realização de serviços e investimentos em equipamentos sociais, referidos na alínea a) do n.º 2, pode concretizar-se mediante transferências para outros sectores da Administração Pública cujas competências sejam enquadráveis na prossecução dos objectivos associados àqueles equipamentos.\n\n5 - Constituem ainda despesas do subsistema as seguintes:\n\na) Programas e projectos de apoio às famílias, à infância e às vítimas de violência doméstica;\n\nb) Despesas que se insiram no âmbito de programas de apoio aos refugiados;\n\nc) Despesas no âmbito de políticas de lazer social;\n\nd) Transferências para outros serviços públicos cujas competências sejam enquadráveis na prossecução dos objectivos da acção social;\n\ne) Outras prestações e apoios enquadráveis nos objectivos do subsistema de acção social;\n\nf) Outras despesas previstas por lei."
+  },
+  "115001389": {
+   "fragment_id": "115001237",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas do subsistema de solidariedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas do subsistema de solidariedade\n\n1 - Constituem despesas do subsistema de solidariedade as despesas com a protecção social por este assegurada, designadamente com o pagamento de:\n\na) Prestações do regime de solidariedade e regimes legalmente equiparados, incluindo prestações e complementos sociais em caso de insuficiência da carreira contributiva dos beneficiários ou das prestações substitutivas de rendimentos de trabalho;\n\nb) Prestações do rendimento social de inserção;\n\nc) Complemento solidário para idosos;\n\nd) Subsídio social de desemprego;\n\ne) Encargos decorrentes do aumento de despesas em virtude de regimes de antecipação da pensão de velhice;\n\nf) Outras situações de ausência ou diminuição de suporte contributivo específico por força da concretização do princípio da solidariedade de base profissional aplicável no sistema previdencial.\n\n2 - Constituem ainda despesas do subsistema:\n\na) As despesas de outros ministérios ou sectores cuja responsabilidade pelo pagamento caiba ao sistema de segurança social, designadamente com o pagamento de subsídios de renda ou com a prestação de apoio judiciário;\n\nb) Transferências para outras entidades públicas ou privadas cujas competências se enquadrem na prossecução dos objectivos do subsistema de solidariedade;\n\nc) Outras prestações e apoios enquadráveis nos objectivos do subsistema de solidariedade.\n\n3 - A perda ou diminuição de receita associada à fixação de taxas contributivas mais favoráveis é ainda objecto de financiamento por transferências do Estado, sem prejuízo do disposto no número seguinte.\n\n4 - A perda ou diminuição de receita associada a medidas de estímulo ao emprego e ao aumento de postos de trabalho é financiada em 50  % por transferências do Estado."
+  },
+  "115001390": {
+   "fragment_id": "115001238",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas do subsistema de protecção familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas do subsistema de protecção familiar\n\n1 - Constituem despesas do subsistema de protecção familiar as despesas com a protecção social nas eventualidades encargos familiares, deficiência e dependência.\n\n2 - A protecção garantida pelo subsistema é susceptível de ser alargada de modo a dar resposta a novas necessidades sociais, bem como as que relevem dos domínios da dependência e da deficiência."
+  },
+  "115001391": {
+   "fragment_id": "115001239",
+   "type": 8,
+   "heading": "Secção III — Financiamento do sistema previdencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Financiamento do sistema previdencial"
+  },
+  "115001392": {
+   "fragment_id": "115001240",
+   "type": 3,
+   "heading": "Subsecção I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Disposição geral"
+  },
+  "115001393": {
+   "fragment_id": "115001241",
+   "type": 11,
+   "heading": "Artigo 13.º — Gestão financeira do sistema previdencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Gestão financeira do sistema previdencial\n\n1 - A gestão financeira do sistema previdencial obedece aos métodos de repartição e de capitalização.\n\n2 - A capitalização a que se refere o número anterior é a capitalização pública de estabilização.\n\n3 - A componente financeira do sistema previdencial gerida em repartição é denominada sistema previdencial repartição e a componente gerida em capitalização denomina-se sistema previdencial capitalização."
+  },
+  "115001394": {
+   "fragment_id": "115001242",
+   "type": 3,
+   "heading": "Subsecção II — Sistema previdencial repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Sistema previdencial repartição"
+  },
+  "115001395": {
+   "fragment_id": "115001243",
+   "type": 11,
+   "heading": "Artigo 14.º — Receitas do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Receitas do sistema\n\n1 - Ao abrigo do disposto nos artigos 90.º e 92.º da Lei de Bases, constituem receitas do sistema previdencial as seguintes:\n\na) Receitas provenientes das quotizações dos trabalhadores por conta de outrem, das contribuições dos trabalhadores independentes, das contribuições das entidades empregadoras, devidas no âmbito dos regimes gerais de segurança social e, bem assim, de outras contribuições, devidas no âmbito de outros regimes de segurança social, ainda que de inscrição facultativa;\n\nb) Receitas provenientes de entidades ou fundos públicos associados a políticas activas de emprego e formação profissional;\n\nc) Receitas do Fundo Social Europeu e respectiva contrapartida nacional a cargo do Orçamento do Estado;\n\nd) Rendimentos provenientes da rendibilização dos excedentes de tesouraria;\n\ne) Transferências do sistema de protecção social de cidadania;\n\nf) O produto de sanções pecuniárias aplicáveis no âmbito do sistema;\n\ng) Receitas resultantes da contracção de empréstimos, autorizados nos termos da lei;\n\nh) Outras receitas legalmente previstas.\n\n2 - As receitas referidas na alínea a) do número anterior correspondem ao produto da taxa contributiva global ou de outra, quando aplicável, pela base de incidência, destinada a compensar a ocorrência das eventualidades integradas no sistema previdencial e, bem assim, as despesas com as políticas activas de emprego e formação profissional, nos termos legalmente previstos.\n\n3 - Sem prejuízo do disposto no n.º 1, pode haver lugar a transferências do Orçamento do Estado e, bem assim, a transferências do Fundo de Estabilização Financeira da Segurança Social quando a situação financeira do sistema previdencial o justifique."
+  },
+  "115001396": {
+   "fragment_id": "115001244",
+   "type": 11,
+   "heading": "Artigo 15.º — Despesas do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Despesas do sistema\n\n1 - Constituem despesas do sistema previdencial as despesas com a protecção social nas eventualidades doença, maternidade, paternidade e adopção, desemprego, doenças profissionais, invalidez, velhice e morte e demais despesas previstas por lei relacionadas com a prossecução dos objectivos deste sistema.\n\n2 - O elenco das eventualidades referidas no número anterior pode ser alargado, em função da necessidade de dar cobertura a novos riscos sociais, nos termos e nas condições legalmente previstos, em função de determinadas situações e categorias de beneficiários.\n\n3 - Constituem ainda despesas do sistema previdencial, nos termos do n.º 2 do artigo 90.º da Lei de Bases, as seguintes despesas com políticas activas de emprego e formação profissional:\n\na) Pagamento de compensações e outras prestações aos trabalhadores em caso de suspensão ou cessação dos respectivos contratos de trabalho, previstas por lei;\n\nb) Transferências para outros serviços ou entidades públicas no quadro da prossecução de objectivos de políticas de emprego, higiene e segurança no trabalho e formação profissional;\n\nc) Realização de acções de formação profissional;\n\nd) Os encargos decorrentes de taxas contributivas mais favoráveis em virtude de medidas de estímulo ao emprego e ao aumento de postos de trabalho que não sejam objecto de financiamento por transferências do Orçamento do Estado nos termos previstos no n.º 4 do artigo 11.º"
+  },
+  "115001397": {
+   "fragment_id": "115001245",
+   "type": 3,
+   "heading": "Subsecção III — Sistema previdencial capitalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Sistema previdencial capitalização"
+  },
+  "115001398": {
+   "fragment_id": "115001246",
+   "type": 11,
+   "heading": "Artigo 16.º — Objectivos da capitalização pública de estabilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Objectivos da capitalização pública de estabilização\n\n1 - A capitalização pública de estabilização tem por objectivo contribuir para o equilíbrio e sustentabilidade do sistema previdencial.\n\n2 - O sistema previdencial capitalização, nos termos do n.º 1 do artigo 91.º da Lei de Bases, deve garantir, através de reservas acumuladas no Fundo de Estabilização Financeira da Segurança Social, um montante equivalente ao pagamento de pensões aos beneficiários por um período mínimo de dois anos."
+  },
+  "115001399": {
+   "fragment_id": "115001247",
+   "type": 11,
+   "heading": "Artigo 17.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Receitas\n\n1 - Nos termos do artigo 91.º da Lei de Bases, constituem receitas do sistema previdencial capitalização, integrando o Fundo de Estabilização Financeira da Segurança Social, as receitas resultantes de:\n\na) Uma parcela entre 2 e 4 pontos dos 11 pontos percentuais correspondentes às quotizações dos trabalhadores por conta de outrem;\n\nb) Alienação do património do sistema de segurança social;\n\nc) Rendimentos do património próprio e do património do Estado consignados ao reforço das reservas de capitalização;\n\nd) Ganhos obtidos das aplicações financeiras geridos em regime de capitalização;\n\ne) Excedentes anuais do sistema de segurança social, excepto aqueles que decorram de programas financiados por transferências comunitárias;\n\nf) O produto de eventuais excedentes de execução do Orçamento do Estado de cada ano;\n\ng) Outras fontes previstas por lei.\n\n2 - A transferência para capitalização a que se refere a alínea a) do número anterior é obrigatória, excepto se a conjuntura económica do ano a que se refere ou a situação financeira do sistema previdencial justificadamente o não permitirem."
+  },
+  "115001400": {
+   "fragment_id": "115001248",
+   "type": 11,
+   "heading": "Artigo 18.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Despesas\n\nConstituem despesas do sistema previdencial capitalização as seguintes:\n\na) Investimentos;\n\nb) Transferências para o sistema previdencial repartição;\n\nc) Outras despesas previstas por lei."
+  },
+  "115001401": {
+   "fragment_id": "115001249",
+   "type": 1,
+   "heading": "Capítulo III — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposição transitória"
+  },
+  "115001402": {
+   "fragment_id": "115001250",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime aplicável às despesas no âmbito do QCA III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime aplicável às despesas no âmbito do QCA III\n\nSem prejuízo do disposto no n.º 2 do artigo 4.º do presente decreto-lei, as despesas relativas à contrapartida nacional do 3.º Quadro Comunitário de Apoio são objecto de financiamento nos termos seguintes:\n\na) 50  %, por transferências do Orçamento do Estado;\n\nb) 50  %, por receitas do sistema previdencial."
+  },
+  "115001403": {
+   "fragment_id": "115001251",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "115001404": {
+   "fragment_id": "115001252",
+   "type": 11,
+   "heading": "Artigo 20.º — Criação de novas prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Criação de novas prestações\n\n1 - A criação de novas prestações no subsistema de acção social, após a entrada em vigor do presente decreto-lei e que sejam objecto de financiamento pelo Orçamento do Estado ou por consignação de receitas fiscais, consta de portaria conjunta dos ministros responsáveis pela área das finanças e da segurança social, sem prejuízo de outra forma que seja imposta, designadamente pela lei de enquadramento orçamental.\n\n2 - O disposto no número anterior não é aplicável às prestações cuja denominação se altere nem àquelas que se destinem a substituir outras e não alarguem o âmbito pessoal e material respectivo ou que correspondam à actualização de encargos legalmente prevista."
+  },
+  "115001405": {
+   "fragment_id": "115001253",
+   "type": 11,
+   "heading": "Artigo 21.º — Execução financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Execução financeira\n\nO Ministério do Trabalho e da Solidariedade Social apresenta mensalmente uma estimativa da execução financeira do sistema de segurança social, resultante da aplicação do presente decreto-lei, até final do mês seguinte do período a que diz respeito, incluindo, designadamente, informação sobre o número de beneficiários, receitas e despesas, desagregadas por sistema, subsistema e fontes de financiamento."
+  },
+  "115001406": {
+   "fragment_id": "115001254",
+   "type": 11,
+   "heading": "Artigo 22.º — Projecções de longo prazo de receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Projecções de longo prazo de receitas e despesas\n\n1 - Compete a um grupo de trabalho, especialmente nomeado para o efeito pelo ministro responsável pela área da segurança social, produzir projecções actualizadas de longo prazo dos encargos das prestações diferidas, das quotizações dos trabalhadores e das contribuições das entidades empregadoras, para o efeito designadamente, nos termos do n.º 4 do artigo 93.º da Lei de Bases, do seu envio à Assembleia da República no quadro do processo orçamental.\n\n2 - O grupo de trabalho referido no número anterior contará com um representante do ministro responsável pela área das finanças."
+  },
+  "115001407": {
+   "fragment_id": "115001255",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 331/2001, de 20 de Dezembro."
+  },
+  "115001408": {
+   "fragment_id": "115001256",
+   "type": 11,
+   "heading": "Artigo 24.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a partir de 1 de Janeiro de 2008."
+  },
+  "115001424": {
+   "fragment_id": "115001233",
+   "type": 11,
+   "heading": "Artigo 8.º — Consignação do IVA",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 53.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 8.º — Consignação do IVA\n\n1 - É consignada à realização da despesa com prestações sociais, no âmbito do subsistema de protecção familiar, a receita do IVA resultante do aumento da taxa normal operada através do n.º 6 do artigo 32.º da Lei n.º 39-B/94, de 27 de Dezembro, relativamente à cobrança efectuada em cada exercício orçamental.\n\n2 - Mantém-se ainda consignada à realização das despesas referidas no número anterior a receita do IVA resultante do aumento da taxa normal deste imposto, operada pela Lei n.º 39/2005, de 24 de Junho, nos termos definidos no seu artigo 3.º\n\n3 - O produto da receita do IVA referido nos números anteriores é afecto à segurança social anualmente.\n\n4 - A satisfação dos encargos com o subsistema de protecção familiar é garantida pela receita fiscal referida no n.º 1 e, no remanescente, por transferências do Orçamento do Estado para a segurança social.\n\n> Alterado pelo/a Artigo 53.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+  },
+  "115001425": {
+   "fragment_id": "115001243",
+   "type": 11,
+   "heading": "Artigo 14.º — Receitas do sistema",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 53.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 14.º — Receitas do sistema\n\n1 - Ao abrigo do disposto nos artigos 90.º e 92.º da Lei de Bases, constituem receitas do sistema previdencial as seguintes:\n\na) Receitas provenientes das quotizações dos trabalhadores por conta de outrem, das contribuições dos trabalhadores independentes, das contribuições das entidades empregadoras, devidas no âmbito dos regimes gerais de segurança social e, bem assim, de outras contribuições, devidas no âmbito de outros regimes de segurança social, ainda que de inscrição facultativa;\n\nb) Receitas provenientes de entidades ou fundos públicos associados a políticas activas de emprego e formação profissional;\n\nc) Receitas do Fundo Social Europeu e respectiva contrapartida nacional a cargo do Orçamento do Estado;\n\nd) Rendimentos provenientes da rendibilização dos excedentes de tesouraria;\n\ne) Transferências do sistema de protecção social de cidadania;\n\nf) O produto de sanções pecuniárias aplicáveis no âmbito do sistema;\n\ng) Receitas resultantes da contracção de empréstimos, autorizados nos termos da lei;\n\nh) Outras receitas legalmente previstas.\n\n2 - As receitas referidas na alínea a) do número anterior correspondem ao produto da taxa contributiva global ou de outra, quando aplicável, pela base de incidência, destinada a compensar a ocorrência das eventualidades integradas no sistema previdencial e, bem assim, as despesas com as políticas activas de emprego e formação profissional, nos termos legalmente previstos.\n\n3 - Os encargos correspondentes ao diferencial entre a actualização das pensões regulamentares de invalidez e de velhice do regime geral de segurança social e demais pensões, subsídios e complementos, nos termos do artigo 4.º do Decreto-Lei n.º 323/2009, de 24 de Dezembro, e a actualização que resultaria da aplicação da Lei n.º 53-B/2006, de 29 de Dezembro, são financiados por transferências do Orçamento do Estado.\n\n4 - Sem prejuízo do disposto no n.º 1, pode haver lugar a transferências do Orçamento do Estado e, bem assim, a transferências do Fundo de Estabilização Financeira da Segurança Social quando a situação financeira do sistema previdencial o justifique.\n\n> Alterado pelo/a Artigo 53.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+  },
+  "115001409": {
+   "fragment_id": "115001257",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.\n\nPromulgado em 22 de Outubro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "115001426": {
+   "fragment_id": "115001243",
+   "type": 11,
+   "heading": "Artigo 14.º — Receitas do sistema",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 63.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 53.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 14.º — Receitas do sistema\n\n1 - Ao abrigo do disposto nos artigos 90.º e 92.º da Lei de Bases, constituem receitas do sistema previdencial as seguintes:\n\na) Receitas provenientes das quotizações dos trabalhadores por conta de outrem, das contribuições dos trabalhadores independentes, das contribuições das entidades empregadoras, devidas no âmbito dos regimes gerais de segurança social e, bem assim, de outras contribuições, devidas no âmbito de outros regimes de segurança social, ainda que de inscrição facultativa;\n\nb) Receitas provenientes de entidades ou fundos públicos associados a políticas activas de emprego e formação profissional;\n\nc) Receitas do Fundo Social Europeu e respectiva contrapartida nacional a cargo do Orçamento do Estado;\n\nd) Rendimentos provenientes da rendibilização dos excedentes de tesouraria;\n\ne) Transferências do sistema de protecção social de cidadania;\n\nf) O produto de sanções pecuniárias aplicáveis no âmbito do sistema;\n\ng) Receitas resultantes da contracção de empréstimos, autorizados nos termos da lei;\n\nh) As receitas referentes aos n.os 3 e 4 do artigo 11.º;\n\ni) Outras receitas legalmente previstas.\n\n2 - As receitas referidas na alínea a) do número anterior correspondem ao produto da taxa contributiva global ou de outra, quando aplicável, pela base de incidência, destinada a compensar a ocorrência das eventualidades integradas no sistema previdencial e, bem assim, as despesas com as políticas activas de emprego e formação profissional, nos termos legalmente previstos.\n\n3 - Transferências do Orçamento do Estado para financiar o pagamento dos salários intercalares previstos no artigo 98.º-N do Código do Processo do Trabalho, aprovado pelo Decreto-Lei n.º 480/99, de 9 de Novembro, alterado pelos Decretos-Leis n.os 323/2001, de 17 de Dezembro, 38/2003, de 8 de Março, e 295/2009, de 13 de Outubro.\n\n4 - Sem prejuízo do disposto no n.º 1, pode haver lugar a transferências do Orçamento do Estado e, bem assim, a transferências do Fundo de Estabilização Financeira da Segurança Social quando a situação financeira do sistema previdencial o justifique.\n\n> Alterado pelo/a Artigo 63.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 53.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+  }
+ }
+}

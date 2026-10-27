@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:461787:por
+title: Decreto Regulamentar Regional n.º 45/80/A
+short_title: null
+summary: Altera os quadros do pessoal das direcções escolares da Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Educação e Cultura
+proposing_entity: null
+official_number: 45/80/A
+official_date: null
+publication_date: '1980-09-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 223/1980, Série I de 1980-09-26
+  number: '223'
+  series: I
+  supplement: null
+  pages: 2951 - 2952
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22300/29512952.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '461787'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/45-1980-461787
+  internal: pt:dre:461787:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1980-461787
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1980-461787
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:25:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c2579886d4e171b2c595f4c85d98a09694c2ce261558217c044c5cd22a60d18d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Direcção Escolar
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:373434:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:365908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678198:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:373434:por
+  label: "Revogado pelo DRR.31/84/A.10.08.1984.GR-RAA, DR.IS [208] de 07.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-1984-373434
+  date: '1984-08-10'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:25:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 45/80/A
+
+Pelo [Decreto Regulamentar Regional n.º 29/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1979-365908), publicado em 26 de Dezembro, definiram-se as direcções escolares como serviços externos da Secretaria Regional da Educação e Cultura e acrescentaram-se aos respectivos quadros de pessoal os lugares indispensáveis à satisfação das expectativas imediatas dos seus funcionários, em face das disposições tomadas a nível nacional pelo [Decreto-Lei n.º 370/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1979-370608), de 6 de Setembro, para correcção de anomalias nas situações do respectivo pessoal.
+
+Embora de momento se não possa proceder ainda a uma reestruturação de fundo destes serviços, necessariamente dependente de uma revisão do conjunto das estruturas de gestão da educação, torna-se indispensável reforçar os seus quadros de pessoal, face às tarefas que lhes estão cometidas, segundo os critérios adoptados no [Decreto-Lei n.º 370/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1979-370608).
+
+Há que corrigir também a situação dos directores escolares e seus adjuntos, que, desde 1 de Janeiro, pela reclassificação operada no pessoal docente, se encontram em posição incompatível com as funções que exercem relativamente ao mesmo pessoal. Adoptou-se uma solução transitória, sem prejuízo dos direitos que, em termos de carreira, já tenham adquirido ou venham a adquirir pela revisão da sua situação a nível nacional.
+
+Por fim, procurou-se valorizar também o exercício das funções de delegado escolar e dos respectivos assistentes.
+
+Assim, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+Artigo 1.º Os lugares de director escolar, adjunto do director escolar e delegado de zona escolar das direcções escolares da Região Autónoma dos Açores, a que se refere o artigo 1.º do [Decreto Regulamentar Regional n.º 29/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1979-365908), são lugares dirigentes dos quadros externos da Secretaria Regional da Educação e Cultura e serão providos em comissão de serviço por dois anos, renováveis nos termos do artigo 4.º do [Decreto Regulamentar Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1980-678198), correspondendo-lhes as categorias e vencimentos constantes do mapa anexo ao presente diploma.
+
+Art. 2.º - 1 - Os delegados de zona escolar serão coadjuvados por assistentes nomeados em comissão de serviço por período de dois anos, em número a determinar para cada zona por portaria do Secretário Regional da Educação e Cultura, dentro do número de lugares atribuídos em cada direcção escolar no mapa anexo ao presente diploma, conforme as funções a desempenhar e o número de lugares docentes de cada zona.
+
+2 - O assistente de delegado de zona escolar auferirá o vencimento correspondente à letra imediatamente superior àquela que lhe caiba na carreira docente.
+
+Art. 3.º - 1 - Os quadros de pessoal administrativo e auxiliar das direcções escolares da Região Autónoma dos Açores são os constantes do mapa anexo ao presente diploma.
+
+2 - São aplicáveis ao pessoal administrativo e auxiliar das direcções escolares as normas constantes dos artigos 4.º, 5.º, 10.º e 11.º do [Decreto-Lei n.º 370/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1979-370608), de 6 de Setembro, com as necessárias adaptações.
+
+Art. 4.º - 1 - Os actuais directores escolares e adjuntos são providos nos novos lugares mediante lista nominativa assinada pelo Secretário Regional da Educação e Cultura e publicada no Jornal Oficial, com dispensa de qualquer outra formalidade, com efeitos a partir de 1 de Janeiro de 1980.
+
+2 - Os actuais delegados de zona escolar e assistentes são providos nos novos lugares nos termos do número anterior, com efeitos a partir do dia 1 do mês seguinte ao da publicação do presente diploma.
+
+3 - O provimento nos novos lugares não prejudica o direito ao provimento vitalício já adquirido na respectiva carreira.
+
+4 - Para efeito do prazo de dois anos estabelecido nos artigos 1.º e 2.º, n.º 1, será contado o tempo já prestado no respectivo cargo, devendo ser renovada, no prazo de sessenta dias, a comissão de serviço dos que já tenham ultrapassado os dois anos na data de publicação do presente diploma.
+
+Aprovado pelo Governo Regional em 12 de Agosto de 1980.
+
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
+
+Assinado em 9 de Setembro de 1980.
+
+Publique-se.
+
+O Ministro da República, Henrique Afonso da Silva Horta.
+
+Mapa a que se referem os artigos 1.º, 2.º e 3.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/22300/29512952.pdf)
+
+O Ministro da República, Henrique Afonso da Silva Horta.

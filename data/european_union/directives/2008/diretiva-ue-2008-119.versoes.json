@@ -1,0 +1,200 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008L0119:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0119-20191214",
+ "dre_path": null,
+ "source_lastmod": "2019-12-14",
+ "versions": [
+  {
+   "date": "2019-12-14",
+   "future": false,
+   "celex": "02008L0119-20191214",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9d5c0985c3a00d55",
+    "9e61a61101b3ed36",
+    "1679399e839aaf78",
+    "a3b15cd7ca8a0465",
+    "589bdabd6ac69f3d",
+    "1ad79984913b645a",
+    "d3822af7e3059935",
+    "8741e789ed6ebbef",
+    "dff578801fac0d02",
+    "2966022ee4daa2f2",
+    "c1b4a6d8df6b4e26",
+    "0f24d749558a7234",
+    "86ea5e13792a944a",
+    "e9d9a06712083dbe",
+    "891c29a98d8ec343",
+    "852174729551523b",
+    "5f83ad0c6895b73a",
+    "537f7a71f2b7174f",
+    "91c5bc4b9f36d45e",
+    "db711ac8bd260138"
+   ]
+  }
+ ],
+ "fragments": {
+  "9d5c0985c3a00d55": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Dezembro de 2008\n\nrelativa às normas mínimas de protecção dos vitelos\n\n(Versão codificada)"
+  },
+  "9e61a61101b3ed36": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva estabelece as normas mínimas de protecção dos vitelos confinados para efeitos de criação e de engorda."
+  },
+  "1679399e839aaf78": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, são aplicáveis as seguintes definições:\n\n1. «Vitelo»: um animal da espécie bovina até à idade de seis meses.\n\n2. «Autoridades competentes»: as autoridades competentes na aceção do artigo 3.º, ponto 3, do Regulamento [**►C1**](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) (UE) 2017/625**◄** do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/042faf0c-2285-11ea-af81-01aa75ed71a1.0019.03/DOC_1#E0001))."
+  },
+  "a3b15cd7ca8a0465": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A partir de 1 de Janeiro de 1998, são aplicáveis as seguintes disposições a todas as explorações novas ou reconstruídas, bem como a todas as explorações utilizadas pela primeira vez após essa data:\n\na) Nenhum vitelo com mais de oito semanas de idade pode ser confinado num compartimento individual, a menos que um veterinário tenha certificado que deve ser isolado, por razões de saúde ou de comportamento, e para efeitos de tratamento. A largura do compartimento individual deve ser pelo menos igual à altura do vitelo no garrote, medida com o vitelo em pé, devendo o comprimento ser pelo menos igual ao comprimento do corpo do vitelo, medido da ponta do nariz até à extremidade caudal do *tuber ischii* (osso ilíaco), multiplicado por 1,1.\n\nb) Relativamente aos vitelos criados em grupo, o espaço livre individual disponível para cada vitelo deve ser pelo menos igual a 1,5 m^2^ para os vitelos com um peso vivo inferior a 150 kg, pelo menos de 1,7 m^2^ para os vitelos com um peso vivo igual ou superior a 150 kg mas inferior a 220 kg e pelo menos de 1,8 m^2^ para os vitelos com um peso vivo igual ou superior a 220 kg.\n\nTodavia, o disposto no primeiro parágrafo não é aplicável:\n\na) Às explorações com menos de seis vitelos;\n\nb) Aos vitelos que permanecem com as mães para aleitamento.\n\n2. A partir de 31 de Dezembro de 2006, as disposições previstas no n.º 1 são aplicáveis a todas as explorações."
+  },
+  "589bdabd6ac69f3d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros zelam por que as condições de criação de vitelos sejam conformes com as disposições gerais constantes do Anexo I."
+  },
+  "1ad79984913b645a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs normas gerais estabelecidas no Anexo I podem ser alteradas nos termos do n.º 2 do artigo 10.º, de modo a terem em conta o progresso científico."
+  },
+  "d3822af7e3059935": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAté 1 de Janeiro de 2006, a Comissão apresenta ao Conselho um relatório elaborado com base num parecer da Autoridade Europeia para a Segurança dos Alimentos, sobre o sistema ou sistemas de criação intensiva que satisfazem as exigências de bem-estar dos vitelos do ponto de vista patológico, zootécnico, psicológico e comportamental e sobre as consequências socioeconómicas de cada um desses sistemas, eventualmente acompanhado das propostas adequadas em função das conclusões desse relatório."
+  },
+  "8741e789ed6ebbef": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n3. Os Estados-Membros apresentam à Comissão, até 31 de agosto de cada ano, um relatório anual sobre as inspeções realizadas no ano anterior pela autoridade competente para verificar o cumprimento dos requisitos da presente diretiva. O relatório é acompanhado por uma análise das constatações de incumprimento mais graves e um plano de ação nacional destinado a evitar ou reduzir a sua ocorrência nos anos seguintes. A Comissão apresenta um resumo desses relatórios aos Estados-Membros."
+  },
+  "dff578801fac0d02": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara importação na Comunidade, os animais em proveniência de um país terceiro devem ser acompanhados de um certificado emitido pela autoridade competente desse país, que ateste que os animais beneficiaram de um tratamento pelo menos equivalente ao concedido aos animais de origem comunitária, tal como previsto pela presente directiva."
+  },
+  "2966022ee4daa2f2": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, criado pelo artigo 58.º do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios ([^2^](http://publications.europa.eu/resource/cellar/042faf0c-2285-11ea-af81-01aa75ed71a1.0019.03/DOC_1#E0003)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "c1b4a6d8df6b4e26": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nNo que se refere à protecção dos vitelos, os Estados-Membros podem manter ou aplicar no seu território disposições mais rigorosas do que as previstas na presente directiva, desde que o façam nos termos das regras gerais do Tratado. Informam imediatamente a Comissão de qualquer medida tomada nesse sentido."
+  },
+  "0f24d749558a7234": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nÉ revogada a Directiva 91/629/CEE, com a redacção que lhe foi dada pelos actos enumerados na parte A do Anexo II, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional das directivas indicados na parte B do Anexo II.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva e devem ler-se nos termos do quadro de correspondência constante do Anexo III."
+  },
+  "86ea5e13792a944a": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "e9d9a06712083dbe": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "891c29a98d8ec343": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n1. Os materiais utilizados na construção das instalações de estabulação com que os vitelos podem estar em contacto, em especial os das celas e equipamentos, não lhes devem ser prejudiciais e devem poder ser limpos e desinfectados a fundo.\n\n2. Enquanto não se estipularem normas comunitárias nessa matéria, os equipamentos e circuitos eléctricos devem ser instalados em conformidade com a regulamentação nacional em vigor para evitar qualquer choque eléctrico.\n\n3. O isolamento, o aquecimento e a ventilação do edifício devem assegurar que a circulação do ar, o teor de poeiras, a temperatura, a humidade relativa do ar e as concentrações de gases se mantenham dentro de limites que não sejam prejudiciais aos vitelos.\n\n4. Todo o equipamento automático ou mecânico indispensável para a saúde e o bem-estar dos vitelos deve ser inspeccionado, pelo menos, uma vez por dia. Se for detectada qualquer deficiência, esta deve ser imediatamente reparada; se tal for impossível, devem ser tomadas medidas adequadas, de modo a salvaguardar a saúde e o bem-estar dos vitelos até à reparação da deficiência, nomeadamente, mediante utilização de métodos alternativos de alimentação e manutenção de um ambiente satisfatório.\n\n5. Os vitelos não devem ser mantidos permanentemente na obscuridade. Para isso, a fim de satisfazer as suas necessidades comportamentais e fisiológicas, deve prever-se, tendo em conta as diferentes condições climatéricas dos Estados-Membros, uma iluminação adequada natural ou artificial que, neste último caso, deve ser no mínimo equivalente à duração da iluminação natural normalmente disponível entre as 9 e as 17 horas. Além disso, deve existir uma iluminação adequada (fixa ou amovível) suficientemente intensa para permitir a inspecção dos vitelos em qualquer momento.\n\n6. Todos os vitelos criados em estábulo devem ser inspeccionados pelo menos duas vezes por dia pelo proprietário ou pelo responsável pelos animais, devendo os vitelos criados ao ar livre ser inspeccionados pelo menos uma vez por dia. Qualquer vitelo que pareça estar doente ou ferido deve ser tratado adequadamente sem demora, devendo, logo que possível, consultar-se um veterinário no caso de o vitelo não reagir ao tratamento aplicado pelo criador. Quando seja necessário, os vitelos doentes ou feridos são isolados em compartimentos adequados equipados com camas secas e confortáveis.\n\n7. As instalações para os vitelos devem ser construídas de modo a permitir que cada animal se deite, descanse e levante e satisfaça as suas necessidades fisiológicas sem dificuldades e sem perigo.\n\n8. Os vitelos não devem estar amarrados, com excepção dos vitelos alojados em grupo, que podem ser amarrados por períodos não superiores a uma hora na altura em que é administrado o leite ou leites de substituição. No caso de estarem amarrados, as amarras não devem provocar ferimentos nos vitelos, devendo ser inspeccionadas regularmente e, se necessário, ajustadas, de modo a não constituírem um incómodo. Todas as amarras devem ser de molde a excluir qualquer possibilidade de estrangulamento ou ferimento e a permitir que os animais se movimentem conforme descrito no ponto 7.\n\n9. As instalações, compartimentos, equipamento e utensílios destinados aos vitelos devem ser regularmente limpos e desinfectados, a fim de prevenir a contaminação cruzada e o desenvolvimento de organismos patogénicos. As fezes e a urina bem como os alimentos não consumidos ou derramados devem ser eliminados tão frequentemente quanto possível, para reduzir ao mínimo os cheiros e não atrair moscas e roedores.\n\n10. O pavimento deve ser antiderrapante mas sem arestas, para evitar que os animais se firam e ser concebido por forma a não causar ferimentos ou sofrimento quer quando os animais estão de pé quer quando estão deitados. O pavimento deve ser adequado ao tamanho e peso dos animais, e formar uma superfície rígida, plana e estável. A área de repouso deve ser confortável, limpa e convenientemente drenada e não prejudicar os vitelos. Deve haver uma cama para todos os vitelos com menos de duas semanas.\n\n11. Para favorecer a saúde e o bem-estar dos vitelos, deve-lhes ser ministrada uma alimentação adequada à sua idade, peso e necessidades comportamentais e fisiológicas. Para tal, essa alimentação deve fornecer uma quantidade suficiente de ferro para garantir um teor médio de hemoglobina no sangue de, pelo menos, 4,5 mmol/litro e incluir uma ração diária mínima de alimentos fibrosos para cada vitelo a partir da idade de duas semanas, a qual deve ser aumentada de 50 g para 250 g em relação aos vitelos com idade compreendida entre oito e vinte semanas. Os vitelos não devem ser açaimados.\n\n12. Todos os vitelos devem ser alimentados, pelo menos, duas vezes por dia. Quando os vitelos alojados em grupo não são alimentados *ad libitum* nem por meio de um sistema automático de alimentação, cada vitelo deve ter acesso aos alimentos ao mesmo tempo que os outros animais do grupo.\n\n13. Os vitelos com mais de duas semanas devem ter acesso diariamente a água fresca adequada, em quantidade suficiente ou poder satisfazer as suas necessidades de líquido com outras bebidas. No entanto, quando sujeitos a temperaturas elevadas por força das condições meteorológicas ou quando doentes, os vitelos devem dispor permanentemente de água fresca para abeberamento.\n\n14. O equipamento de alimentação e de abeberamento deve ser concebido, construído, colocado e mantido de modo a minimizar os riscos de contaminação dos alimentos e da água destinados aos animais.\n\n15. Todos os vitelos devem receber colostro de vaca logo que possível a seguir ao nascimento e, em qualquer caso, nas primeiras seis horas de vida."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "5f83ad0c6895b73a": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nDirectiva 91/629/CEE do Conselho (JO L 340 de 11.12.1991, p. 28)\n\nDirectiva 97/2/CE do Conselho (JO L 25 de 28.1.1997, p. 24)\n\nDecisão 97/182/CE da Comissão (JO L 76 de 18.3.1997, p. 30)\n\nRegulamento (CE) n.º 806/2003 do Conselho (JO L 122 de 16.5.2003, p. 1) Apenas o ponto 25 do Αnexo III"
+  },
+  "537f7a71f2b7174f": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\nDirectivas Prazo de transposição\n\n91/629/CEE 1 de Janeiro de 1994\n\n97/2/CE 31 de Dezembro de 1997"
+  },
+  "91c5bc4b9f36d45e": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDirectiva 91/629/CEE Presente directiva\n\nArtigos 1.º e 2.º Artigos 1.º e 2.º\n\nArtigo 3.º, n.º 1 —\n\nArtigo 3.º, n.º 2 —\n\nArtigo 3.º, n.º 3, primeiro parágrafo Artigo 3.º, n.º 1, primeiro parágrafo\n\nArtigo 3.º, n.º 3, segundo parágrafo, frase introdutória Artigo 3.º, n.º 1, segundo parágrafo, frase introdutória\n\nArtigo 3.º, n.º 3, segundo parágrafo, primeiro travessão Artigo 3.º, n.º 1, segundo parágrafo, alínea a)\n\nArtigo 3.º, n.º 3, segundo parágrafo, segundo travessão Artigo 3.º, n.º 1, segundo parágrafo, alínea b)\n\nArtigo 3.º, n.º 3, terceiro parágrafo Artigo 3.º, n.º 2\n\nArtigo 3.º, n.º 4 —\n\nArtigo 4.º, n.º 1 Artigo 4.º\n\nArtigos 5.º a 10.º Artigos 5.º a 10.º\n\nArtigo 11.º, n.º 1 —\n\nArtigo 11.º, n.º 2 Artigo 11.º\n\n— Artigo 12.º\n\n— Artigo 13.º\n\nArtigo 12.º Artigo 14.º\n\nAnexo Anexo I\n\n— Anexo II\n\n— Anexo III\n\n---"
+  },
+  "db711ac8bd260138": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/042faf0c-2285-11ea-af81-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Regulamento [**►C1**](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) (UE) 2017/625**◄** do Parlamento Europeu e do Conselho, de 15 de março de 2017, relativo aos controlos oficiais e outras atividades oficiais que visam assegurar a aplicação da legislação em matéria de géneros alimentícios e alimentos para animais e das regras sobre saúde e bem-estar animal, fitossanidade e produtos fitofarmacêuticos, que altera os Regulamentos (CE) n.º 999/2001, (CE) n.º 396/2005, (CE) n.º 1069/2009, (CE) n.º 1107/2009, (UE) n.º 1151/2012, (UE) n.º 652/2014, (UE) 2016/429 e (UE) 2016/2031 do Parlamento Europeu e do Conselho, os Regulamentos (CE) n.º 1/2005 e (CE) n.º 1099/2009 do Conselho, e as Diretivas 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE do Conselho, e que revoga os Regulamentos (CE) n.º 854/2004 e (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, as Diretivas 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE do Conselho e a Decisão 92/438/CEE do Conselho (Regulamento sobre os controlos oficiais) ( [**►C1**](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) JO L 95 de 7.4.2017, p. 1**◄**).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/042faf0c-2285-11ea-af81-01aa75ed71a1.0019.03/DOC_1#src.E0003)) JO L 31 de 1.2.2002, p. 1."
+  }
+ }
+}

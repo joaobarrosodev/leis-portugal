@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:531855:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-176145340",
+ "dre_path": "/dr/detalhe/decreto-lei/1-1984-531855",
+ "source_lastmod": "2024-07-31",
+ "versions": [
+  {
+   "date": "1984-01-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176146163",
+    "176146164",
+    "176146165",
+    "176146166",
+    "176146167",
+    "176146168",
+    "176146169",
+    "176146170",
+    "176146171",
+    "176146172",
+    "176146173",
+    "176146375"
+   ]
+  },
+  {
+   "date": "2020-04-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122091532:por",
+     "title": "Decreto-Lei n.º 49/2019",
+     "published": "2019-04-15",
+     "dre_path": "/dr/detalhe/decreto-lei/49-2019-122091532"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "176146163",
+    "872088090",
+    "872088091",
+    "872088084",
+    "872088085",
+    "872088086",
+    "872088087",
+    "872088088",
+    "872088089",
+    "872088092",
+    "872088093",
+    "176146174",
+    "872088094"
+   ]
+  }
+ ],
+ "fragments": {
+  "176146163": {
+   "fragment_id": "176145341",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 1/84\n\nde 2 de Janeiro\n\nO Decreto-Lei n.º 347/76, de 12 de Maio, criou, na dependência do Ministério da Educação e Investigação Científica, o Museu Nacional da Ciência e da Técnica, com sede em Coimbra.\n\nPelo Decreto-Lei n.º 498-C/79, de 21 de Dezembro, foi o referido Museu integrado na Secretaria de Estado da Cultura, ficando na dependência da então Direcção-Geral do Património Cultural.\n\nActualmente é o Museu Nacional da Ciência e da Técnica um serviço técnico e administrativamente dependente do Instituto Português do Património Cultural, constante da lista a que se refere o n.º 17 do artigo 3.º do Decreto Regulamentar n.º 34/80, de 2 de Agosto, que estabelece a orgânica do referido Instituto.\n\nApesar de alguns anos de existência, este Museu continua, porém, a não dispor de um quadro de pessoal, carência que o presente diploma visa suprir e que é amplamente justificada, não só pela necessidade de dotar um Museu Nacional dos meios humanos indispensáveis à realização dos objectivos para que foi criado, mas também pela premência de solucionar a situação extremamente precária em que se encontram as pessoas que nele exercem funções.\n\nAssim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte"
+  },
+  "176146164": {
+   "fragment_id": "176145342",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado o quadro de pessoal do Museu Nacional da Ciência e da Técnica, constante do mapa anexo ao presente diploma."
+  },
+  "176146165": {
+   "fragment_id": "176145343",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO director do Museu é equiparado, para todos os efeitos legais, a director de serviços e será provido nos termos do Decreto-Lei n.º 299/83, de 24 de Junho."
+  },
+  "176146166": {
+   "fragment_id": "176145344",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs lugares de conservador, monitor, assistente de conservador, técnico auxiliar de museografia, desenhador, auxiliar de museografia e guarda de museu serão providos nos termos do Decreto-Lei n.º 45/80, de 20 de Março.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)"
+  },
+  "176146167": {
+   "fragment_id": "176145345",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs lugares de técnico superior de BAD, técnico auxiliar de BAD e auxiliar técnico de BAD serão providos nos termos do Decreto-Lei n.º 280/79, de 10 de Agosto.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)"
+  },
+  "176146168": {
+   "fragment_id": "176145346",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO lugar de fotógrafo de arte será provido nos termos do artigo 58.º do Decreto Regulamentar n.º 34/80, de 2 de Agosto.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)"
+  },
+  "176146169": {
+   "fragment_id": "176145347",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e de 2.ª classe, com um mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)"
+  },
+  "176146170": {
+   "fragment_id": "176145348",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO lugar de chefe de secção será provido de entre primeiros-oficiais com um mínimo de 3 anos na categoria e com capacidade para o exercício de funções de coordenação e chefia.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)"
+  },
+  "176146171": {
+   "fragment_id": "176145349",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs restantes lugares do quadro serão providos nos termos da lei geral.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)"
+  },
+  "176146172": {
+   "fragment_id": "176145350",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1 - O pessoal actualmente em exercício de funções no Museu que tenha sido contratado antes da entrada em vigor do Decreto-Lei n.º 175/78, de 13 de Julho, com respeito pelas habilitações legais exigíveis, será integrado em lugares do quadro anexo ao presente diploma:\n\na) Em categoria idêntica à que o funcionário ou agente já possui;\n\nb) Em categoria correspondente às funções que o funcionário ou agente actualmente desempenha, remunerada pela mesma letra de vencimento ou letra de vencimento imediatamente superior, quando não se verifique coincidência de remuneração.\n\n2 - O tempo de serviço prestado na categoria que deu origem à transição conta, para efeitos de progressão na carreira, como prestado na nova categoria, desde que no exercício efectivo das funções correspondentes à da categoria para que se operar a transição."
+  },
+  "176146173": {
+   "fragment_id": "176145351",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÉ revogado o artigo 13.º do Decreto-Lei n.º 347/76, de 12 de Maio."
+  },
+  "176146375": {
+   "fragment_id": "176145353",
+   "type": 14,
+   "heading": "Anexo — Mapa a que se refere o artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa a que se refere o artigo 1.º\n\n(ver documento original)"
+  },
+  "872088090": {
+   "fragment_id": "176145342",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2020-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2019-122091532), em vigor a partir de 2020-04-20"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ criado o quadro de pessoal do Museu Nacional da Ciência e da Técnica, constante do mapa anexo ao presente diploma.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2019-122091532), em vigor a partir de 2020-04-20"
+  },
+  "872088091": {
+   "fragment_id": "176145343",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2020-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2019-122091532), em vigor a partir de 2020-04-20"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO director do Museu é equiparado, para todos os efeitos legais, a director de serviços e será provido nos termos do Decreto-Lei n.º 299/83, de 24 de Junho.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2019-122091532), em vigor a partir de 2020-04-20"
+  },
+  "872088084": {
+   "fragment_id": "176145344",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+   ],
+   "markdown": "###### Artigo 3.º\n\nOs lugares de conservador, monitor, assistente de conservador, técnico auxiliar de museografia, desenhador, auxiliar de museografia e guarda de museu serão providos nos termos do Decreto-Lei n.º 45/80, de 20 de Março.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+  },
+  "872088085": {
+   "fragment_id": "176145345",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs lugares de técnico superior de BAD, técnico auxiliar de BAD e auxiliar técnico de BAD serão providos nos termos do Decreto-Lei n.º 280/79, de 10 de Agosto.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+  },
+  "872088086": {
+   "fragment_id": "176145346",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+   ],
+   "markdown": "###### Artigo 5.º\n\nO lugar de fotógrafo de arte será provido nos termos do artigo 58.º do Decreto Regulamentar n.º 34/80, de 2 de Agosto.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+  },
+  "872088087": {
+   "fragment_id": "176145347",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+   ],
+   "markdown": "###### Artigo 6.º\n\n- 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e de 2.ª classe, com um mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+  },
+  "872088088": {
+   "fragment_id": "176145348",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+   ],
+   "markdown": "###### Artigo 7.º\n\nO lugar de chefe de secção será provido de entre primeiros-oficiais com um mínimo de 3 anos na categoria e com capacidade para o exercício de funções de coordenação e chefia.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+  },
+  "872088089": {
+   "fragment_id": "176145349",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+   ],
+   "markdown": "###### Artigo 8.º\n\nOs restantes lugares do quadro serão providos nos termos da lei geral.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) a revogação do presente artigo entra em vigor a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (1.1.2009)\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+  },
+  "872088092": {
+   "fragment_id": "176145350",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2020-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2019-122091532), em vigor a partir de 2020-04-20"
+   ],
+   "markdown": "###### Artigo 9.º\n\n- 1 - O pessoal actualmente em exercício de funções no Museu que tenha sido contratado antes da entrada em vigor do Decreto-Lei n.º 175/78, de 13 de Julho, com respeito pelas habilitações legais exigíveis, será integrado em lugares do quadro anexo ao presente diploma:\n\na) Em categoria idêntica à que o funcionário ou agente já possui;\n\nb) Em categoria correspondente às funções que o funcionário ou agente actualmente desempenha, remunerada pela mesma letra de vencimento ou letra de vencimento imediatamente superior, quando não se verifique coincidência de remuneração.\n\n2 - O tempo de serviço prestado na categoria que deu origem à transição conta, para efeitos de progressão na carreira, como prestado na nova categoria, desde que no exercício efectivo das funções correspondentes à da categoria para que se operar a transição.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2019-122091532), em vigor a partir de 2020-04-20"
+  },
+  "872088093": {
+   "fragment_id": "176145351",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2020-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2019-122091532), em vigor a partir de 2020-04-20"
+   ],
+   "markdown": "###### Artigo 10.º\n\nÉ revogado o artigo 13.º do Decreto-Lei n.º 347/76, de 12 de Maio.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2019-122091532), em vigor a partir de 2020-04-20"
+  },
+  "176146174": {
+   "fragment_id": "176145352",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Novembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - António Alberto Coimbra Martins.\n\nPromulgado em 14 de Dezembro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 16 de Dezembro de 1983.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "872088094": {
+   "fragment_id": "176145353",
+   "type": 14,
+   "heading": "Anexo — Mapa a que se refere o artigo 1.º",
+   "in_force_from": "2020-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2019-122091532), em vigor a partir de 2020-04-20"
+   ],
+   "markdown": "## Anexo — Mapa a que se refere o artigo 1.º\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2019-122091532), em vigor a partir de 2020-04-20"
+  }
+ }
+}

@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:679817:por
+title: Portaria n.º 370/93
+short_title: null
+summary: Cria nos quadros de pessoal docente das escolas secundárias os lugares do grupo de Técnicas Especiais, a extinguir
+  quando vagarem
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Educação
+proposing_entity: null
+official_number: 370/93
+official_date: null
+publication_date: '1993-04-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 77/1993, Série I-B de 1993-04-01
+  number: '77'
+  series: I
+  supplement: null
+  pages: 1621 - 1622
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/04/077b00/16211622.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/370/1993/04/01/p/dre/pt/html
+  oj: null
+  dre: '679817'
+  dre_path: /dr/detalhe/portaria/370-1993-679817
+  internal: pt:dre:679817:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/370-1993-679817
+  metadata_url: https://data.dre.pt/eli/port/370/1993/04/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/370-1993-679817
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:54:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6d920699419490893eed9d8d7eec887a205ba9592894569848178826ebcfe1c9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:54:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Educação
+- Pessoal Docente
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:444946:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:444946:por
+  label: "Alterado o quadro do pessoal docente da Escola Secundária de António Arroio, constante do mapa I anexo ao presente\
+    \ diploma, pela PORT.592/98.1998.08.24.PCM, DR.IS-B [194]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/592-1998-444946
+  date: '1998-08-24'
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:54:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 370/93
+
+de 1 de Abril
+
+Considerando a existência de docentes que, embora não possuindo habilitações literárias que lhes permitam ser opositores ao concurso regulado no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, possuem habilitações profissionais bastantes para o exercício da docência nas disciplinas de Técnicas Especiais e, ainda, de outros que, entretanto, adquiriram habilitações próprias para concorrer a diversos grupos de docência, mantendo-se todos, no entanto, contratados nas escolas em virtude da inexistência de diploma legal que defina as habilitações exigíveis para a leccionação das disciplinas de Técnicas Especiais;
+
+Considerando que todos continuam a ser profissionais imprescindíveis ao sistema educativo, por impossibilidade da sua substituição por portadores de melhor qualificação para a docência daquelas disciplinas;
+
+Considerando que, pelo [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro, se procedeu à estruturação da carreira do pessoal docente da educação pré-escolar e dos ensinos básico e secundário, tendo-se previsto, expressamente, a criação de lugares dos quadros a ser preenchidos por docentes de Técnicas Especiais:
+
+Em cumprimento do disposto no n.º 2 do artigo 20.º e no artigo 28.º do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro:
+
+Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
+
+1.º São criados nos quadros de pessoal docente das escolas secundárias os lugares, a extinguir quando vagarem, do grupo de Técnicas Especiais que constam do anexo I à presente portaria.
+
+2.º Os lugares agora criados serão ocupados pelos professores que reúnam as condições referidas no n.º 2 do artigo 20.º do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro.
+
+3.º Para os efeitos da presente portaria, consideram-se habilitados para o grupo de docência de Técnicas Especiais os professores que, independentemente das suas habilitações literárias, preencham os requisitos de tempo e ininterruptividade de serviço docente referidos no n.º 2 do artigo 20.º do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro.
+
+4.º Os docentes a que se refere a presente portaria ficam vinculados à leccionação das disciplinas que actualmente ministram, sem prejuízo de lhes poder ser distribuída, nos termos e dentro dos limites legais, a leccionação de outras disciplinas para que se mostrem habilitados.
+
+5.º Os docentes a que se refere a presente portaria não podem ser opositores ao concurso regulado pelo [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, na qualidade de professores dos quadros.
+
+6.º As nomeações para os lugares a que se refere a presente portaria reportam todos os seus efeitos a 1 de Outubro de 1989.
+
+Ministérios das Finanças e da Educação.
+
+Assinada em 8 de Março de 1993.
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos.
+
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/077b00/16211622.pdf)

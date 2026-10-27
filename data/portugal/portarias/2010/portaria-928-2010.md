@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:341868:por
+title: Portaria n.º 928/2010
+short_title: null
+summary: Estabelece períodos de interdição para a pesca em águas interiores não marítimas durante os quais é proibida a captura,
+  manutenção a bordo, desembarque, transporte, exposição e venda de certas espécies
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 928/2010
+official_date: null
+publication_date: '2010-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 183/2010, Série I de 2010-09-20
+  number: '183'
+  series: I
+  supplement: null
+  pages: 4129 - 4129
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/09/18300/0412904129.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/928/2010/09/20/p/dre/pt/html
+  oj: null
+  dre: '341868'
+  dre_path: /dr/detalhe/portaria/928-2010-341868
+  internal: pt:dre:341868:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/928-2010-341868
+  metadata_url: https://data.dre.pt/eli/port/928/2010/09/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/928-2010-341868
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:50:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4b3f9d7759df20aabb14c559fbca9f716e0cf439268ec7aa730385153211f1da
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Albufeiras
+- Período de Defeso
+- Pesca
+- Recursos do Mar
+relationships:
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:50:15Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 928/2010
+
+de 20 de Setembro
+
+O [Decreto-Lei n.º 278/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193), de 7 de Julho, na redacção dada pelo [Decreto-Lei n.º 383/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), de 27 de Novembro, prevê, no seu artigo 4.º, a possibilidade de interditar ou restringir o exercício da pesca em certas áreas ou por certos períodos ou de certas espécies.
+
+Nos termos do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de Julho, na redacção dada pelo [Decreto Regulamentar n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), de 30 de Maio, a abrangência das medidas estende-se às águas interiores não marítimas sob jurisdição das capitanias dos portos.
+
+Em algumas situações as áreas de jurisdição das capitanias estendem-se a áreas que têm características de sistemas de águas doces, sendo, no entanto, reguladas pelo mencionado regime.
+
+Uma maior uniformização das medidas aplicáveis a diversas espécies nas áreas sob jurisdição das capitanias e nas áreas a montante, sob jurisdição da Autoridade Florestal Nacional, tem um impacto positivo ao nível da gestão sustentada dos recursos, melhorando ainda as condições para o exercício do controlo da actividade da pesca.
+
+Assim, tendo em conta o parecer daquela autoridade, estabelecem-se agora períodos de interdição da pesca, para defeso de certas espécies piscícolas, aplicáveis à pesca profissional, bem assim como à pesca lúdica, nas referidas zonas de águas interiores não marítimas sob jurisdição das capitanias dos portos.
+
+Por outro lado, constando do Plano de Gestão da Enguia apresentado à Comissão Europeia a intenção de reduzir as capturas de enguia na fase em que migram de regresso ao mar, importa agora estabelecer um período de defeso para a pesca desta espécie.
+
+Assim:
+
+Ao abrigo do disposto na alínea d) do n.º 2 do artigo 4.º do [Decreto-Lei n.º 278/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193), de 7 de Julho, na redacção dada pelo [Decreto-Lei n.º 383/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), de 27 de Novembro, e dos artigos 49.º e 61.º do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de Julho, na redacção do [Decreto Regulamentar n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), de 30 de Maio:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A presente portaria estabelece períodos de interdição para a pesca de certas espécies em águas interiores não marítimas sob jurisdição das capitanias do porto durante os quais é proibida a respectiva captura, manutenção a bordo, desembarque, transporte, exposição e venda.
+
+###### Artigo 2.º — Períodos de interdição
+
+São estabelecidos os seguintes períodos de interdição para a pesca das espécies e nas zonas que a seguir se indicam:
+
+a) Truta marisca (Salmo trutta) nas zonas de águas interiores não marítimas do rio Cávado e a norte desse rio - meses de Janeiro, Fevereiro, Outubro, Novembro e Dezembro de cada ano;
+
+b) Truta marisca (Salmo trutta) nas zonas de águas interiores não marítimas a sul do Rio Cávado - meses de Janeiro, Fevereiro, Agosto, Setembro, Outubro, Novembro e Dezembro de cada ano;
+
+c) Enguia (Anguilla anguilla) - Outubro, Novembro, Dezembro de cada ano, em todas as águas interiores não marítimas sob jurisdição de capitanias de porto.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 9 de Setembro de 2010.

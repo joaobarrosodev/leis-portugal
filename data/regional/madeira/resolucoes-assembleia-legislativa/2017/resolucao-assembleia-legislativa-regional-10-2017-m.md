@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:106844791:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 10/2017/M
+short_title: null
+summary: Recomenda ao Governo da República que assegure o fim da discriminação, pela companhia TAP, da Madeira e Porto Santo
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 10/2017/M
+official_date: null
+publication_date: '2017-04-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 70/2017, Série I de 2017-04-07
+  number: '70'
+  series: I
+  supplement: null
+  pages: 1813 - 1814
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/04/07000/0181301814.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/10/2017/04/07/m/dre/pt/html
+  oj: null
+  dre: '106844791'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/10-2017-106844791
+  internal: pt:dre:106844791:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/10-2017-106844791
+  metadata_url: https://data.dre.pt/eli/resolalram/10/2017/04/07/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/10-2017-106844791
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:52:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c6be051c986d4b7e0649943773a7aeb5f7d8d92c4a6bca9458dffb7c34322394
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo
+- Igualdade de Tratamento
+- ILHA de Porto Santo
+- Madeira.região Autónoma
+- Recomendação
+- TAP
+- TAP SGPS
+- Tarifa Aérea
+- Taxa
+- Taxa Aeroportuária
+- Transporte Aéreo
+relationships:
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:52:26Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 10/2017/M
+
+Recomenda ao Governo da República que assegure o fim da discriminação, pela companhia TAP, da Madeira e Porto Santo
+
+A Região Autónoma da Madeira, enquanto região insular, apresenta uma grande dependência das ligações externas, onde as ligações aéreas assumem um papel determinante na mobilidade dos seus residentes, assim como na atração dos turistas.
+
+Sendo parte integrante de Portugal, cabe ao Estado assegurar o cumprimento pleno do princípio da continuidade territorial, garantindo a minimização e atenuação dos constrangimentos decorrentes da condição insular.
+
+As ligações aéreas são uma ferramenta fundamental para assegurar o princípio da continuidade territorial. No entanto, ao longo dos últimos anos, tem-se assistido a uma perda de qualidade do serviço prestado pela companhia de bandeira nacional nas ligações entre a Madeira e o Continente, não só pelas opções tomadas pela TAP, mas também devido a uma certa desresponsabilização do Estado enquanto entidade que deve garantir que esse serviço público vá ao encontro dos interesses dos portugueses residentes na Madeira e no Porto Santo.
+
+Esta situação tem-se agravado, com a TAP a ignorar constantemente a sua missão enquanto companhia de bandeira, privilegiando a maximização de lucro na rota entre a Madeira e o Continente, com a cumplicidade do Estado e da autoridade reguladora. Essa conivência assumiu uma maior relevância a partir de maio de 2016, altura em que foi definido que o presidente do Conselho de Administração da TAP, elemento com voto de qualidade, passaria a ser designado pelo Estado, opção que foi justificada pelo Ministro do Planeamento e das Infraestruturas, Pedro Marques, como sendo uma forma de controlar as «decisões estratégicas da empresa».
+
+Além disso, a 6 de fevereiro de 2016, o Governo da República assinou um memorando de entendimento com a Atlantic Gateway, alterado por um aditamento a 26 de abril de 2016, onde formalizou a retoma do controlo da empresa TAP - Transportes Aéreos Portugueses S. A., através da recompra de ações representativas do capital da TAP, SGPS, S. A. Com este acordo, o Estado reassumiu um papel inequívoco de acionista maioritário com posição de controlo.
+
+No último ano, a TAP iniciou uma nova postura no mercado, com o objetivo de, supostamente, se adaptar às novas tendências da indústria da aviação, aderindo ao conceito «Low Cost». Contudo, mais do que a redução da tarifa, a companhia apostou na redução de serviço, trazendo com isso uma degradação na qualidade da ligação entre a Região e o restante território nacional.
+
+Paralelamente, tem-se assistido a um constante aumento de taxas e tarifas aplicadas nas rotas entre o continente e a Madeira, como por exemplo, o excesso de bagagem para os estudantes, as taxas escandalosas para a utilização de bagagem de mão, a disponibilização excessiva de lugares com tarifas não subsidiadas e o incremento, inexplicável, dos valores das tarifas reembolsáveis.
+
+Curiosamente, este tipo de práticas por parte da Transportadora Aérea Portuguesa segue um caminho diferente de outras medidas aplicadas no território continental, com destaque para a ponte aérea entre Lisboa e Porto, onde, ao contrário do que acontece com a Madeira, existem alternativas terrestres, rodoviárias e ferroviárias.
+
+A importância de uma companhia aérea que assegurasse o princípio da continuidade territorial entre o Continente e as Ilhas, assim como uma ligação aérea para a diáspora foi, desde sempre, uma das revindicações da Assembleia Legislativa da Região Autónoma da Madeira e de toda a população madeirense, direito que está, de resto, consagrado no Estatuto Político-Administrativo da Região Autónoma da Madeira e na Constituição da República Portuguesa. Estes princípios não são negociáveis e jamais poderão ser postos em causa pelas opções e agendas políticas dos protagonistas do momento.
+
+Por outro lado, a liberalização do espaço aéreo não pode nunca desresponsabilizar aquela que é a companhia de bandeira de um Estado nem o próprio Estado, relativamente à prestação de um serviço público que tem de assegurar a todos os Portugueses, nomeadamente os Portugueses das Regiões Autónomas.
+
+Lamentamos que o Estado, através do Governo da República, desrespeite a Assembleia Legislativa da Região Autónoma da Madeira e os madeirenses, quando reiteradamente ficam por responder, na pessoa do Secretário de Estado das Infraestruturas e pela empresa TAP, por ele tutelada, os pedidos de audição parlamentar solicitados pelo Parlamento Regional. A par da entidade reguladora (Autoridade Nacional de Aviação Civil, ANAC), que não deve adotar uma posição conivente com os comportamentos abusivos e lesivos dos interesses dos utentes madeirenses nas ligações áreas entre a Madeira e o território continental.
+
+O atual aproveitamento deliberado e reiterado pela TAP no que se refere ao subsídio de mobilidade, com o incremento nas taxas e tarifas praticadas, não pode ser aceite como um mero «algoritmo matemático», sendo até um mau exemplo para as restantes operadoras de transportes aéreos, e muito menos poderá demover a ação da autoridade reguladora para evitar esse tipo de situações abusivas de mercado.
+
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho e revisto e alterado pelas [Leis n.os 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomendar ao Governo da República que, enquanto responsável máximo e acionista maioritário da TAP, SGPS, S. A. assegure o fim da discriminação, pela companhia TAP, da Madeira e Porto Santo, nomeadamente:
+
+1 - Determinando o fim imediato, por parte da companhia aérea TAP, da prática abusiva de mercado, nas tarifas e nas taxas aplicadas na ligação entre a Madeira e o restante território nacional;
+
+2 - Determinando que a política da TAP, de «Low Cost», se aplique às tarifas e taxas e não apenas aos serviços incluídos;
+
+3 - Manifestando o respeito pela Assembleia Legislativa da Região Autónoma da Madeira, através da presença do Secretário de Estado das Infraestruturas e da Administração da TAP na audição parlamentar já solicitada por esta Assembleia, em sede de comissão especializada, no que refere à urgente e necessária proposta de revisão do subsídio social de mobilidade.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de fevereiro de 2017.
+
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.

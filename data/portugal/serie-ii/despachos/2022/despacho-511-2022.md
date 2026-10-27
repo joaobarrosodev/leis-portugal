@@ -1,0 +1,249 @@
+---
+schema_version: '1.0'
+id: pt:dre:177583666:por
+title: Despacho n.º 511/2022
+short_title: null
+summary: Delegação de competências do reitor no diretor da Faculdade de Farmácia da Universidade de Coimbra
+jurisdiction: portugal
+territory: null
+document_type: despacho
+document_type_label: Despacho
+issuing_authority:
+- Universidade de Coimbra
+proposing_entity: null
+official_number: 511/2022
+official_date: null
+publication_date: '2022-01-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/2022, Série II de 2022-01-13
+  number: '9'
+  series: II
+  supplement: null
+  pages: 226 - 229
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/01/009000000/0022600229.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '177583666'
+  dre_path: /dr/detalhe/despacho/511-2022-177583666
+  internal: pt:dre:177583666:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho/511-2022-177583666
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho/511-2022-177583666
+  consolidated_url: null
+  retrieved_at: '2026-10-26T16:15:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ddafaacab51d0a52ae1a0e97a0650cf9f4939fe333e0d13f7c56666ddea46983
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-26T16:15:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:107033929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130070412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T16:15:40Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho n.º 511/2022
+
+Nos termos do disposto no n.º 4 do artigo 92.º do Regime Jurídico das Instituições de Ensino Superior (RJIES), constante da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, no artigo 9.º e n.º 5 do artigo 49.º dos Estatutos da Universidade de Coimbra (UC), na alínea a) do n.º 2 do artigo 34.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na alínea a) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 239/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2007-639289), de 19 de junho, no n.º 2 do artigo 9.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, e na alínea b) do n.º 2 do [Despacho n.º 3164/2020](https://diariodarepublica.pt/dr/detalhe/despacho/3164-2020-130070412), de 10 de março, delego e subdelego, nos termos e para os efeitos previstos nos artigos 44.º a 50.º do Código do Procedimento Administrativo, as competências seguidamente enunciadas, no Diretor da Faculdade de Farmácia da Universidade de Coimbra, Professor Doutor Fernando Jorge dos Ramos, com possibilidade de subdelegação - exceto se estiver expressamente indicado o contrário -, nos termos da lei, no que ao âmbito da Unidade Orgânica diz respeito e desde que esteja assegurada a prévia cabimentação orçamental, nos casos com incidência financeira:
+
+1 - No âmbito da gestão financeira:
+
+1.1 - Autorizar despesas com empreitadas de obras públicas, até ao limite de (euro) 15.000,00, bem como praticar os atos inerentes ao dono da obra, de acordo com os procedimentos fixados no Código dos Contratos Públicos;
+
+1.2 - Autorizar despesas com locação e aquisição de bens e serviços, exceto quando a aquisição do serviço seja efetuada a pessoas singulares, relacionados com a gestão da Unidade Orgânica, até ao montante de (euro) 75.000,00, cuja conformidade técnica e legal se encontre previamente validada pela Administração da Universidade, nos termos e de acordo com os procedimentos fixados no Código dos Contratos Públicos, e praticar todos os atos a eles inerentes, com respeito pela legislação aplicável;
+
+1.3 - Autorizar despesas com aquisição de serviços, dentro dos limites previstos no número anterior, em situações excecionais, prévia e devidamente fundamentadas, nos termos e ao abrigo do disposto nos números 3, 4 e 9 do artigo 64.º da [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, mantido em vigor por força do disposto no n.º 1 do artigo 69.º da [Lei n.º 75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, sem possibilidade de subdelegação;
+
+1.4 - Autorizar despesas com aquisição de serviços, ainda que a pessoas singulares, para a realização de formação, conferências ou palestras, nos termos e com os limites previstos no ponto 1.2;
+
+1.5 - Celebrar protocolos ou acordos com entidades externas cujos encargos financeiros para a UC não ultrapassem os (euro) 75.000,00, cuja conformidade técnica e legal se encontre previamente validada pela Administração da Universidade ou pela UC Business, com exceção de protocolos ou acordos de natureza plurianual e que impliquem encargos financeiros para a UC;
+
+1.6 - Transferir verbas entre rubrica de classificação económica dentro da mesma fonte de financiamento com a exceção de verbas do subagrupamento 01.01.00 - remunerações certas e permanentes salvaguardadas as diretivas de caráter orçamental dimanadas do Ministério das Finanças, sem possibilidade de subdelegação;
+
+1.7 - Autorizar o processamento de boletins itinerários, o pagamento de ajudas de custo e o seu adiantamento, ou outras que sejam devidas nos termos legais, bem como autorizar despesas de deslocação, incluindo as relativas a trabalhadores de outras instituições públicas, decorrentes de funções exercidas ao serviço da respetiva Unidade Orgânica;
+
+1.8 - Autorizar a aquisição de passes sociais ou assinaturas para utilização de transportes relativamente a deslocações em serviço oficial, sempre que desse sistema resultem benefícios económicos e funcionais para os serviços;
+
+1.9 - Autorizar os seguros de bens móveis e imóveis e de pessoal não inscrito em regime obrigatório de proteção social;
+
+1.10 - Autorizar os seguros de pessoas que, ao abrigo de acordos de cooperação internacional, se desloquem a Portugal, enquanto estiverem em território nacional e os referidos acordos obriguem a parte portuguesa a esta formalidade;
+
+1.11 - Autorizar, nos termos legais, o seguro de estudantes e a participação de eventuais acidentes nesse âmbito incluindo para os estudantes que, ao abrigo de acordos de cooperação internacional ou de outros instrumentos de intercâmbio no âmbito do ensino superior, se desloquem a Portugal e ao estrangeiro, enquanto permanecerem em território nacional e ou estrangeiro.
+
+2 - No âmbito da gestão patrimonial:
+
+2.1 - Superintender na utilização racional das instalações afetas ao respetivo serviço ou órgão, bem como na sua manutenção, conservação e beneficiação;
+
+2.2 - Gerir de forma eficaz e eficiente a utilização, manutenção e conservação dos equipamentos afetos à Unidade Orgânica;
+
+2.3 - No caso de a Unidade Orgânica ter viaturas, autorizar a respetiva condução por qualquer trabalhador da Unidade, bem como atravessar a fronteira nas deslocações ao estrangeiro.
+
+3 - No âmbito da gestão de recursos humanos:
+
+3.1 - Qualificar como acidente de trabalho os sofridos por trabalhadores em funções públicas e autorizar o processamento das respetivas despesas, observadas as formalidades legais, nos termos do [Decreto-Lei n.º 503/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), de 20 de novembro;
+
+3.2 - Autorizar a prática das modalidades de horário e, bem assim, da isenção de horário de trabalho, nos termos previstos na Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, nos regulamentos da Universidade de Coimbra sobre esta matéria, bem como em instrumento de regulamentação coletiva de trabalho, tendo em consideração o parecer dos responsáveis pelos trabalhadores em causa;
+
+3.3 - Autorizar o estatuto de trabalhador-estudante, nos termos dos artigos 89.º e seguintes do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual, aplicável por remissão constante da alínea f), do n.º 1, do artigo 4.º da LTFP;
+
+3.4 - Autorizar os benefícios decorrentes do regime de proteção da parentalidade, bem como decidir sobre outras licenças, nos termos legais;
+
+3.5 - Aprovar o plano anual de férias, autorizar o seu gozo e as suas eventuais alterações, bem como autorizar o gozo de metade do período de férias vencido no ano anterior com o vencido no ano em causa;
+
+3.6 - Justificar e injustificar faltas, nos termos da legislação aplicável;
+
+3.7 - Promover a verificação domiciliária da doença, oficiosamente ou por solicitação dos dirigentes da respetiva Unidade Orgânica;
+
+3.8 - Autorizar a participação dos trabalhadores em congressos, seminários, colóquios, jornadas e outras reuniões ou atividades, bem como, sendo caso disso, os respetivos custos de inscrição;
+
+3.9 - Autorizar deslocações em serviço dos trabalhadores em funções públicas, em território nacional, incluindo a utilização de viatura própria ou de aluguer, bem como ao estrangeiro;
+
+3.10 - Praticar todos os atos relativos à aposentação e ao regime de segurança social dos trabalhadores;
+
+3.11 - Decidir sobre a avaliação do período experimental dos trabalhadores, praticando os atos inerentes à tramitação prevista na legislação aplicável, exceto a homologação da ata final;
+
+3.12 - Autorizar a realização de trabalho suplementar e de trabalho noturno, bem como o abono das respetivas remunerações ou, no caso do trabalho suplementar, o gozo do respetivo descanso compensatório, aos trabalhadores em funções públicas, nos termos da LTFP e regulamentação em vigor;
+
+3.13 - Autorizar a prestação de trabalho em regime de tempo parcial e em regime de tempo completo, nos termos da LTFP e do Código do Trabalho;
+
+3.14 - Homologar as avaliações dos dirigentes e dos trabalhadores ou, em caso de não homologação nos termos do n.º 2 do artigo 60.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, na sua redação atual, atribuir nova menção qualitativa e sua quantificação, com a respetiva fundamentação, excetuando-se desta delegação a competência para homologar as avaliações relativamente às quais tenha sido requerida a sua apreciação pela comissão paritária e os casos em que se encontre impedido de homologar, designadamente por ter sido avaliador;
+
+3.15 - Decidir das reclamações do ato de homologação da avaliação dos dirigentes e dos trabalhadores, exceto nos casos em que não lhe couber a prática deste ato;
+
+3.16 - Outorgar os contratos de trabalho em funções públicas, com exceção dos relativos à contratação de professor catedrático e de investigador-coordenador, cuja conformidade técnica e legal se encontre previamente validada pela Administração da Universidade;
+
+3.17 - Conceder a equiparação a bolseiro aos trabalhadores em funções públicas, nos termos do artigo 22.º do Regulamento de Prestação de Serviço dos Docentes da Universidade de Coimbra, do [Decreto-Lei n.º 272/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1988-378095), de 3 de agosto, e do [Decreto-Lei n.º 282/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1989-618509), de 23 de agosto, cuja conformidade técnica e legal se encontre previamente validada pela Administração da Universidade;
+
+3.18 - Autorizar, sem possibilidade de subdelegação, a colaboração dos docentes da respetiva Unidade Orgânica na lecionação de unidades curriculares ministradas por outra Unidade Orgânica, nos casos em que o horário a acumular, juntamente com o horário atribuído na Unidade de origem, não exceda o limite máximo legal, entendido como valor médio, ao longo do ano, de 9 horas semanais;
+
+3.19 - Conceder dispensa de serviço docente aos docentes com categoria subsistente de assistente, nos casos em que ela possa ter lugar, de acordo com o disposto no artigo 27.º do Estatuto da Carreira Docente Universitária (ECDU) na sua anterior redação, cuja conformidade técnica e legal se encontre previamente validada pela Administração da Universidade;
+
+3.20 - Conceder a dispensa de serviço docente e licença sabática previstas nos números 1 a 4 do artigo 77.º do ECDU e no n.º 4 do artigo 16.º do Regulamento de prestação de serviço dos docentes da Universidade de Coimbra ([Regulamento n.º 262/2017](https://diariodarepublica.pt/dr/detalhe/regulamento/262-2017-107033929), de 19 de maio), cuja conformidade técnica e legal se encontre previamente validada pela Administração da Universidade.
+
+4 - No âmbito da gestão académica:
+
+4.1 - Autorizar visitas de estudo ao exterior, de estudantes da Unidade Orgânica;
+
+4.2 - Presidir aos júris de doutoramento, ou nomear outrem para esse fim, nos termos da respetiva legislação;
+
+4.3 - Presidir aos júris de reconhecimento de nível e aos júris de reconhecimento específico, ou nomear outrem para esse fim, nos termos da respetiva legislação;
+
+4.4 - Presidir aos júris de agregação e de provas de habilitação para o exercício de funções de coordenação científica, nos termos da respetiva legislação.
+
+5 - No âmbito da investigação e desenvolvimento:
+
+5.1 - Celebrar contratos para a execução de projetos de investigação e desenvolvimento no âmbito de candidaturas a financiamento competitivo ou externo, contratos de prestação de serviços, documentos preparatórios como cartas de intenção, candidaturas e similares, e ainda assinar acordos relativos aos estágios/projetos/teses curriculares com entidades externas à UC, cuja conformidade técnica e legal se encontre previamente validada pela Administração da Universidade ou pela UC Business;
+
+5.2 - Autorizar a abertura de procedimento concursal e designação do respetivo júri relativamente a bolsas elegíveis no âmbito de projetos e programas com financiamento competitivo devidamente aprovados, assim como outorgar os respetivos contratos de bolsa e autorizar as suas renovações;
+
+5.3 - Exercer as competências previstas no Regulamento de Bolsas Diversas da Universidade de Coimbra para os "órgãos diretivos das unidades orgânicas".
+
+6 - No âmbito do Regulamento Disciplinar dos Estudantes da Universidade de Coimbra, sem possibilidade de subdelegação:
+
+i) Instaurar procedimento disciplinar;
+
+ii) Instaurar e decidir procedimento de inquérito;
+
+iii) Nomear o instrutor ou inquiridor, consoante o caso;
+
+iv) Decidir e aplicar as sanções disciplinares previstas nas alíneas a) e b) do n.º 5 do artigo 75.º do RJIES.
+
+7 - Consideram-se ratificados todos os atos que, cabendo no âmbito da presente delegação, hajam sido praticados pelo Diretor da Faculdade de Farmácia, Doutor Fernando Jorge dos Ramos, desde 18 de outubro de 2021, até à data da publicação do presente despacho.
+
+2 de novembro de 2021. - O Reitor, Amílcar Falcão.
+
+314859665

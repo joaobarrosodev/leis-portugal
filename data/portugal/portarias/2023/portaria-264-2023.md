@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:219991259:por
+title: Portaria n.º 264/2023
+short_title: null
+summary: Estabelece o modelo de funcionamento da Campanha de Vacinação Sazonal do Outono-Inverno 2023-2024 contra a gripe
+  e contra a COVID-19 em farmácias comunitárias
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Saúde
+proposing_entity: null
+official_number: 264/2023
+official_date: null
+publication_date: '2023-08-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 159/2023, Série I de 2023-08-17
+  number: '159'
+  series: I
+  supplement: null
+  pages: 20 - 24
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15900/0002000024.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/264/2023/08/17/p/dre/pt/html
+  oj: null
+  dre: '219991259'
+  dre_path: /dr/detalhe/portaria/264-2023-219991259
+  internal: pt:dre:219991259:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-2023-219991259
+  metadata_url: https://data.dre.pt/eli/port/264/2023/08/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-2023-219991259
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:59:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5370a2b7a245df99be65e7071faba5beaf080eed923ba0df1fc9a527d5d20cbc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:59:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direção Geral da Saúde
+- Doença Infecciosa
+- Epidemia
+- Farmácia
+- Infarmed
+- Ministério da Saúde
+- Página na Internet
+- Plano Nacional de Vacinação
+- Plataforma Eletrónica
+- Serviço de Utilização Comum dos Hospitais
+- Serviço Nacional de Saúde
+- Serviços Partilhados do Ministério da Saúde
+- Vacinação
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/248/2017/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/248/2017/08/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/97/2018/04/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/97/2018/04/09/p/dre
+- type: cites
+  target: pt:dre:107951592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115006162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175991:por
+  label: null
+  source: http://data.dre.pt/eli/port/277/2012/09/12/p/dre
+- type: cites
+  target: pt:dre:629418:por
+  label: null
+  source: http://data.dre.pt/eli/port/1429/2007/11/02/p/dre
+- type: cites
+  target: pt:dre:641148:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/307/2007/08/31/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:59:15Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 264/2023
+
+de 17 de agosto
+
+A vacinação tem como finalidade erradicar, eliminar ou controlar doenças infeciosas, contribuindo para a redução da morbilidade e da mortalidade, sendo considerada uma das estratégias mais eficazes para a proteção da saúde pública.
+
+A vacina contra a COVID-19 surge de um significativo esforço conjunto, sem precedentes, coordenado pela Comissão Europeia, que permitiu o rápido desenvolvimento, a autorização e a disponibilização de vacinas em território europeu, sem descurar os exigentes requisitos legais em matéria de qualidade, segurança e eficácia aplicáveis à generalidade das vacinas.
+
+Na estratégia comum de combate a esta pandemia, a Comissão Europeia garantiu e continua a assegurar que o acesso à vacina contra a COVID-19 ocorre em simultâneo em todos os Estados-Membros. Apesar de a Organização Mundial da Saúde (OMS), no dia 5 de maio de 2023, ter declarado o fim da pandemia COVID-19, que deixou de ser classificada como emergência de saúde pública de âmbito internacional, o European Centre for Disease Prevention and Control (ECDC) mantém a indicação para a vacinação sazonal contra a COVID-19, com vacinas adaptadas às estirpes do vírus SARS-CoV-2 em circulação.
+
+Ao mesmo tempo, no que respeita à vacina contra a gripe, importa manter medidas excecionais e específicas no âmbito da vacinação gratuita, que facilitem o acesso das pessoas e, dessa forma, mantenham os elevados níveis de adesão que se verificaram nos últimos períodos de vacinação sazonal.
+
+A [Portaria n.º 248/2017](https://diariodarepublica.pt/dr/detalhe/portaria/248-2017-107951592), de 4 de agosto, estabelece o modelo de governação do Programa Nacional de Vacinação (PNV), bem como de outras estratégias vacinais para a proteção da saúde pública e de grupos de risco ou em circunstâncias especiais, com o objetivo de assegurar os seus elevados padrões de efetividade e de eficiência e respetivos ganhos em saúde.
+
+De acordo com o artigo 4.º da referida portaria, a coordenação do PNV, a nível nacional, é da competência da Direção-Geral da Saúde (DGS).
+
+Na sequência da experiência adquirida na vacinação contra a gripe nas farmácias comunitárias, mais especificamente com o contingente de vacinas do Serviço Nacional de Saúde (SNS), verificou-se que os mesmos contribuíram de forma muito positiva para que a vacinação decorresse de forma mais rápida, o que permitiu atingir, num período de tempo mais curto, a proteção populacional.
+
+Em simultâneo, a distribuição geográfica e o horário de funcionamento das farmácias comunitárias permitem tornar o processo de vacinação mais cómodo para o utente.
+
+A vacinação nas farmácias comunitárias permite que os serviços de saúde possam reafetar os seus recursos para outras ações no âmbito da vacinação e de acompanhamento dos utentes.
+
+Aproveitando a experiência adquirida durante a pandemia na vacinação contra a COVID-19 nos centros de vacinação, é agora intenção do Ministério da Saúde internalizar nas suas estruturas este processo, nomeadamente, nos centros de saúde e alargá-lo às farmácias comunitárias, desde que reúnam os requisitos e as condições previstas na [Portaria n.º 1429/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1429-2007-629418), de 2 de novembro, alterada pela [Portaria n.º 97/2018](https://diariodarepublica.pt/dr/detalhe/portaria/97-2018-115006162), de 9 de abril, respeitando as normas da DGS relativas à vacinação.
+
+Nesse sentido, o modelo de vacinação descentralizado será adotado na Campanha de Vacinação Sazonal contra a gripe e contra a COVID-19 do Outono-Inverno de 2023-2024, com o objetivo de assegurar elevados padrões de eficiência e efetividade, promovendo ganhos em saúde, aliados a um maior conforto e proximidade para os utentes.
+
+A DGS, através do Núcleo de Vacinação, procederá à emissão das orientações técnicas que presidem ao processo de vacinação, nomeadamente com a definição dos critérios de vacinação e dos utentes elegíveis, fornecendo a base para a implementação das estratégias aprovadas e garantindo a equidade no acesso à vacinação.
+
+Assim:
+
+Ao abrigo do disposto no artigo 36.º e na alínea f) do artigo 57.º, ambos do [Decreto-Lei n.º 307/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2007-641148), de 31 de agosto, na sua atual redação, e no n.º 2 do artigo 3.º da [Portaria n.º 248/2017](https://diariodarepublica.pt/dr/detalhe/portaria/248-2017-107951592), de 4 de agosto, manda o Governo, pelo Ministro da Saúde, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece o modelo de funcionamento da Campanha de Vacinação Sazonal do Outono-Inverno 2023-2024 contra a gripe e contra a COVID-19 em farmácias comunitárias, com o objetivo de assegurar elevados padrões de eficiência e efetividade, e respetivos ganhos em saúde.
+
+###### Artigo 2.º — Princípios
+
+No âmbito da Campanha de Vacinação Sazonal do Outono-Inverno de 2023-2024, devem ser garantidos os princípios previstos para o modelo de governação do Programa Nacional de Vacinação (PNV) e constantes nas alíneas a) a e) do artigo 2.º da [Portaria n.º 248/2017](https://diariodarepublica.pt/dr/detalhe/portaria/248-2017-107951592), de 4 de agosto.
+
+###### Artigo 3.º — Governação e financiamento
+
+1 - O modelo de governação do PNV previsto na [Portaria n.º 248/2017](https://diariodarepublica.pt/dr/detalhe/portaria/248-2017-107951592), de 4 de agosto, é aplicável à Campanha de Vacinação Sazonal do Outono-Inverno de 2023-2024 contra a gripe e contra a COVID-19, com as necessárias adaptações.
+
+2 - O modelo de financiamento da Campanha de Vacinação é objeto de regulamentação específica a aprovar por portaria conjunta dos membros do Governo responsáveis pela área da saúde e pela área das finanças, nos termos legais.
+
+###### Artigo 4.º — Vacinas
+
+1 - Na Campanha de Vacinação Sazonal do Outono-Inverno de 2023-2024 estão incluídas as vacinas contra a gripe e as vacinas contra a COVID-19.
+
+2 - Para efeitos do disposto no número anterior, as vacinas contra a gripe e as vacinas contra a COVID-19 são disponibilizadas pelo Ministério da Saúde para vacinação nas farmácias comunitárias que reúnam as condições necessárias para a realização da campanha de vacinação prevista na presente portaria e de acordo com as normas da Direção-Geral da Saúde (DGS) relativas à vacinação, através dos distribuidores por grosso de medicamentos de uso humano.
+
+###### Artigo 5.º — Intervenientes na distribuição e armazenamento
+
+1 - Sem prejuízo do disposto no artigo 3.º da presente portaria, na Campanha de Vacinação Sazonal do Outono-Inverno de 2023-2024, compete ao SUCH - Serviço de Utilização Comum dos Hospitais assegurar a receção, o armazenamento e a distribuição das vacinas adquiridas pelo Serviço Nacional de Saúde (SNS) para a referida Campanha de Vacinação Sazonal, designadamente:
+
+a) Rececionar, desativar os dispositivos de segurança se aplicável, armazenar e distribuir as vacinas e os consumíveis necessários à administração das mesmas, de acordo com as requisições recebidas e o stock disponível, através dos distribuidores por grosso de medicamentos devidamente licenciados e tendo em conta o disposto no Sistema de Boas Práticas de Distribuição de Medicamentos de Uso Humano;
+
+b) Avaliar e informar a DGS e o INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), sobre a quantidade de vacinas fornecidas e o INFARMED, I. P., especificamente em casos de excursão de temperatura na conservação das mesmas, durante o seu armazenamento e transporte, de acordo com o disposto no Sistema das Boas Práticas de Distribuição de Medicamentos para Uso Humano;
+
+c) Assegurar a recolha das embalagens de vacinas, sempre que existam suspeitas de defeito de qualidade ou nos casos em que o seu prazo de validade tenha expirado;
+
+d) Distribuir a outras entidades as vacinas contra a COVID-19 refrigeradas, que se encontrem a 15 dias do término do seu prazo de validade e armazenadas nas farmácias comunitárias, a fim de evitar o desperdício das mesmas.
+
+2 - Os distribuidores por grosso de medicamentos de uso humano que participem na distribuição das vacinas incluídas na Campanha de Vacinação Sazonal do Outono-Inverno 2023-2024 devem reportar de imediato ao INFARMED, I. P., qualquer ocorrência ou incidente que possa ter lugar durante a sua intervenção no circuito de distribuição das mesmas.
+
+###### Artigo 6.º — Elegibilidade
+
+Os critérios de elegibilidade para a vacinação são definidos pela DGS, sendo elegíveis para a administração de vacinas em farmácia comunitária os utentes que cumpram os critérios definidos em norma ou orientação técnica da DGS.
+
+###### Artigo 7.º — Administração de vacinas nas farmácias comunitárias
+
+1 - Podem participar na Campanha de Vacinação Sazonal do Outono-Inverno de 2023-2024 as farmácias comunitárias que reúnam cumulativamente as seguintes condições:
+
+a) Dispor do serviço de administração de vacinas nas condições previstas nas Deliberações do INFARMED, I. P., n.º 139/CD/2010, de 21 de outubro, e n.º 145/CD/2010, de 4 de novembro;
+
+b) Ter ao serviço profissionais com formação específica para administração de vacinas;
+
+c) Manifestar disponibilidade para participar na Campanha de Vacinação do Outono-Inverno de 2023-2024.
+
+2 - A Ordem dos Farmacêuticos colaborará com os serviços do Ministério da Saúde na disponibilização de informação atualizada sobre as vacinas que serão aprovadas para a Campanha de Vacinação Sazonal do Outono-Inverno de 2023-2024.
+
+3 - Sem prejuízo do disposto na [Portaria n.º 277/2012](https://diariodarepublica.pt/dr/detalhe/portaria/277-2012-175991), de 12 de setembro, na sua atual redação, as farmácias comunitárias aderentes à campanha de vacinação podem praticar um horário mais alargado.
+
+4 - A lista das farmácias comunitárias aderentes à campanha de vacinação é disponibilizada nos sites do SNS, da DGS e do INFARMED, I. P.
+
+5 - A lista das farmácias comunitárias registadas no INFARMED, I. P., para a prestação do serviço de vacinação é comunicada à Entidade Reguladora da Saúde.
+
+###### Artigo 8.º — Operacionalização da administração das vacinas
+
+1 - A Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS, E. P. E.), em articulação com a Direção Executiva do SNS, I. P. (DE-SNS), e a DGS, assegura a ligação entre os sistemas de informação do Ministério da Saúde e as farmácias comunitárias, de modo a permitir a verificação dos critérios de elegibilidade e acesso ao histórico vacinal COVID-19 e gripe das pessoas a serem vacinadas nas farmácias comunitárias, para a administração das vacinas incluídas na campanha prevista na presente portaria.
+
+2 - A SPMS, E. P. E., assegurará a existência de um sistema de agendamento prévio para convocação do universo de utentes elegíveis a vacinar nas unidades de saúde do SNS.
+
+3 - As associações representativas das farmácias devem assegurar a existência de um sistema de agendamento prévio para o universo de utentes elegíveis a vacinar nas farmácias comunitárias.
+
+4 - A administração das vacinas deve ser registada na Plataforma VACINAS, através do sistema de informação disponível nas farmácias comunitárias, a qual deverá permitir o acesso à informação necessária para o efeito, de acordo com as normas da DGS.
+
+5 - Todas as quebras ou danos nas vacinas alocadas a cada entidade devem ser registadas de imediato no sistema de informação disponível nas farmácias comunitárias e integrado através desse sistema na Plataforma VACINAS.
+
+6 - A DGS, o SUCH e a SPMS, E. P. E., em articulação com as farmácias comunitárias, devem promover formas de mitigação e de registo do desperdício de doses de vacinas.
+
+###### Artigo 9.º — Avaliação e monitorização
+
+1 - A DGS e a DE-SNS asseguram a avaliação e monitorização do disposto na presente portaria, em colaboração com os demais serviços do Ministério da Saúde, as associações representativas das farmácias e dos distribuidores por grosso, nomeadamente no que se refere à capacidade de administração de vacinas nas farmácias comunitárias, face às metas de vacinação definidas pela DE-SNS e DGS.
+
+2 - A SPMS, E. P. E., em articulação com a DGS disponibilizará, para efeitos de monitorização do processo e através da plataforma BI.VACINAS, a informação estatística que se julgue necessária para o acompanhamento e monitorização do processo de vacinação gripe e COVID-19.
+
+###### Artigo 10.º — Comunicação
+
+1 - A SPMS, E. P. E., é a entidade responsável pela coordenação da campanha de comunicação necessária à divulgação da Vacinação Sazonal do Outono-Inverno de 2023-2024.
+
+2 - Sem prejuízo do disposto no número anterior, a DGS celebra com a SPMS, E. P. E., um contrato administrativo de mandato, no âmbito das campanhas de comunicação a desenvolver, ficando esta última responsável por assegurar todos os atos necessários à execução integral dos procedimentos pré-contratuais, até à adjudicação e habilitação do adjudicatário.
+
+3 - A SPMS, E. P. E., deve planear as campanhas de comunicação em articulação com a DGS e o INFARMED, I. P., no que concerne às questões técnicas, e com a DE-SNS no que respeita às dimensões operacionais.
+
+###### Artigo 11.º — Regulamentação
+
+Sem prejuízo do disposto no artigo 3.º da presente portaria, no âmbito da Campanha de Vacinação Sazonal do Outono-Inverno 2023-2024, podem ser emitidas orientações específicas, que se revelem necessárias à sua operacionalização, por parte de qualquer uma das entidades envolvidas.
+
+###### Artigo 12.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro, em 11 de agosto de 2023.
+
+116772406

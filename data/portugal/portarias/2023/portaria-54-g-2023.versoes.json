@@ -1,0 +1,1957 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:207942901:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-211313615",
+ "dre_path": "/dr/detalhe/portaria/54-g-2023-207942901",
+ "source_lastmod": "2026-09-10",
+ "versions": [
+  {
+   "date": "2021-03-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:912820668:por",
+     "title": "Portaria n.º 139/2025/1",
+     "published": "2025-03-28",
+     "dre_path": "/dr/detalhe/portaria/139-2025-912820668"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 63.º"
+   ],
+   "fragments": [
+    "211311697",
+    "211311698",
+    "211311699",
+    "211311700",
+    "211311701",
+    "211311702",
+    "211311703",
+    "211311704",
+    "211311705",
+    "211311706",
+    "211311707",
+    "211311708",
+    "211311709",
+    "211311710",
+    "211311711",
+    "211311712",
+    "211311713",
+    "211311714",
+    "211311715",
+    "211311716",
+    "211311717",
+    "211311718",
+    "211311719",
+    "211311720",
+    "211311721",
+    "211311722",
+    "211311723",
+    "211311724",
+    "211311725",
+    "211311726",
+    "211311727",
+    "211311728",
+    "211311729",
+    "211311730",
+    "211311731",
+    "211311732",
+    "211311733",
+    "211311734",
+    "211311735",
+    "211311736",
+    "211311737",
+    "211311738",
+    "211311739",
+    "211311740",
+    "211311741",
+    "211311742",
+    "211311743",
+    "211311744",
+    "211311745",
+    "211311746",
+    "211311747",
+    "211311748",
+    "211311749",
+    "211311750",
+    "211311751",
+    "211311752",
+    "211311753",
+    "211311754",
+    "211311755",
+    "211311756",
+    "211311757",
+    "211311758",
+    "211311759",
+    "211311760",
+    "211311761",
+    "211311762",
+    "211311763",
+    "211311764",
+    "211311765",
+    "211311766",
+    "211311767",
+    "211311768",
+    "211311769",
+    "211311770",
+    "211311771",
+    "211311772",
+    "211311773",
+    "211311774",
+    "211340875",
+    "211340876",
+    "211340877",
+    "211340878",
+    "211340879",
+    "211340880",
+    "211340881",
+    "211340882",
+    "211340884",
+    "211340885",
+    "211340886",
+    "211340887",
+    "211340888"
+   ],
+   "acts_without_text_change": []
+  },
+  {
+   "date": "2023-10-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223154126:por",
+     "title": "Portaria n.º 317/2023",
+     "published": "2023-10-23",
+     "dre_path": "/dr/detalhe/portaria/317-2023-223154126"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 46.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 66.º"
+   ],
+   "fragments": [
+    "211311697",
+    "211311698",
+    "211340889",
+    "211311700",
+    "211311701",
+    "211311702",
+    "211311703",
+    "211311704",
+    "211311705",
+    "211311706",
+    "211311707",
+    "211311708",
+    "211311709",
+    "211311710",
+    "211311711",
+    "211311712",
+    "211311713",
+    "211311714",
+    "211311715",
+    "211311716",
+    "211311717",
+    "211311718",
+    "211311719",
+    "211311720",
+    "211311721",
+    "211311722",
+    "211311723",
+    "211311724",
+    "211311725",
+    "211311726",
+    "211311727",
+    "211311728",
+    "211311729",
+    "211311730",
+    "211311731",
+    "211311732",
+    "211311733",
+    "211311734",
+    "211311735",
+    "211311736",
+    "211311737",
+    "211311738",
+    "211311739",
+    "211311740",
+    "211311741",
+    "211311742",
+    "211311743",
+    "211311744",
+    "211311745",
+    "211311746",
+    "211311747",
+    "211311748",
+    "211311749",
+    "211311750",
+    "211311751",
+    "223574012",
+    "211311753",
+    "211311754",
+    "223574013",
+    "211311756",
+    "211311757",
+    "211311758",
+    "211311759",
+    "211311760",
+    "211311761",
+    "211311762",
+    "211311763",
+    "211311764",
+    "211340890",
+    "211311766",
+    "211311767",
+    "211311768",
+    "211311769",
+    "211311770",
+    "211311771",
+    "211311772",
+    "211311773",
+    "223574014",
+    "211340875",
+    "211340876",
+    "211340877",
+    "211340878",
+    "211340879",
+    "211340880",
+    "211340891",
+    "211340882",
+    "211340883",
+    "211340884",
+    "211340885",
+    "211340886",
+    "211340887",
+    "211340888"
+   ]
+  },
+  {
+   "date": "2024-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:900840744:por",
+     "title": "Portaria n.º 349/2024/1",
+     "published": "2024-12-20",
+     "dre_path": "/dr/detalhe/portaria/349-2024-900840744"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 45.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 52.º",
+    "Altera Artigo 61.º",
+    "Altera Artigo 63.º",
+    "Altera Artigo 66.º",
+    "Altera Artigo 68.º",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "211311697",
+    "211311698",
+    "211340889",
+    "211311700",
+    "211311701",
+    "900887313",
+    "900887314",
+    "211311704",
+    "211311705",
+    "211311706",
+    "211311707",
+    "211311708",
+    "211311709",
+    "211311710",
+    "900887315",
+    "211311712",
+    "211311713",
+    "211311714",
+    "211311715",
+    "900887316",
+    "900887317",
+    "211311718",
+    "211311719",
+    "211311720",
+    "211311721",
+    "211311722",
+    "211311723",
+    "211311724",
+    "211311725",
+    "211311726",
+    "211311727",
+    "211311728",
+    "211311729",
+    "211311730",
+    "211311731",
+    "211311732",
+    "211311733",
+    "211311734",
+    "211311735",
+    "211311736",
+    "211311737",
+    "211311738",
+    "211311739",
+    "211311740",
+    "211311741",
+    "211311742",
+    "211311743",
+    "211311744",
+    "211311745",
+    "211311746",
+    "900887318",
+    "211311748",
+    "211311749",
+    "900887319",
+    "900887320",
+    "223574012",
+    "211311753",
+    "900887321",
+    "223574013",
+    "211311756",
+    "211311757",
+    "211311758",
+    "900887322",
+    "211311760",
+    "211311761",
+    "211311762",
+    "211311763",
+    "211311764",
+    "211340890",
+    "211311766",
+    "211311767",
+    "211311768",
+    "900887323",
+    "211311770",
+    "900887324",
+    "211311772",
+    "211311773",
+    "900887325",
+    "211340875",
+    "211340876",
+    "900887326",
+    "211340878",
+    "211340879",
+    "211340880",
+    "211340891",
+    "211340882",
+    "211340883",
+    "211340884",
+    "211340885",
+    "900887327",
+    "211340887",
+    "211340888"
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:907406886:por",
+     "title": "Portaria n.º 36-A/2025/1",
+     "published": "2025-02-13",
+     "dre_path": "/dr/detalhe/portaria/36-a-2025-907406886"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "211311697",
+    "211311698",
+    "211340889",
+    "211311700",
+    "211311701",
+    "900887313",
+    "907407589",
+    "211311704",
+    "211311705",
+    "211311706",
+    "211311707",
+    "211311708",
+    "211311709",
+    "211311710",
+    "900887315",
+    "211311712",
+    "211311713",
+    "211311714",
+    "211311715",
+    "900887316",
+    "900887317",
+    "211311718",
+    "211311719",
+    "211311720",
+    "211311721",
+    "211311722",
+    "211311723",
+    "211311724",
+    "211311725",
+    "211311726",
+    "211311727",
+    "211311728",
+    "211311729",
+    "211311730",
+    "211311731",
+    "211311732",
+    "211311733",
+    "211311734",
+    "211311735",
+    "211311736",
+    "211311737",
+    "211311738",
+    "211311739",
+    "211311740",
+    "211311741",
+    "211311742",
+    "211311743",
+    "211311744",
+    "211311745",
+    "211311746",
+    "900887318",
+    "211311748",
+    "211311749",
+    "900887319",
+    "900887320",
+    "223574012",
+    "211311753",
+    "900887321",
+    "223574013",
+    "211311756",
+    "211311757",
+    "211311758",
+    "900887322",
+    "211311760",
+    "211311761",
+    "211311762",
+    "211311763",
+    "211311764",
+    "211340890",
+    "211311766",
+    "211311767",
+    "211311768",
+    "900887323",
+    "211311770",
+    "900887324",
+    "211311772",
+    "211311773",
+    "900887325",
+    "211340875",
+    "211340876",
+    "900887326",
+    "211340878",
+    "211340879",
+    "211340880",
+    "211340891",
+    "211340882",
+    "211340883",
+    "211340884",
+    "211340885",
+    "900887327",
+    "907407590",
+    "211340888"
+   ]
+  },
+  {
+   "date": "2025-08-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:927994283:por",
+     "title": "Portaria n.º 278/2025/1",
+     "published": "2025-08-06",
+     "dre_path": "/dr/detalhe/portaria/278-2025-927994283"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 30.º-A",
+    "Altera Artigo 25.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 55.º"
+   ],
+   "fragments": [
+    "211311697",
+    "211311698",
+    "211340889",
+    "211311700",
+    "211311701",
+    "900887313",
+    "913450600",
+    "211311704",
+    "211311705",
+    "211311706",
+    "211311707",
+    "211311708",
+    "211311709",
+    "211311710",
+    "900887315",
+    "211311712",
+    "211311713",
+    "211311714",
+    "211311715",
+    "900887316",
+    "900887317",
+    "211311718",
+    "211311719",
+    "211311720",
+    "211311721",
+    "211311722",
+    "211311723",
+    "211311724",
+    "211311725",
+    "211311726",
+    "927997266",
+    "211311728",
+    "211311729",
+    "927997267",
+    "211311731",
+    "927997268",
+    "211311733",
+    "927997271",
+    "927997272",
+    "211311735",
+    "211311736",
+    "211311737",
+    "211311738",
+    "211311739",
+    "211311740",
+    "211311741",
+    "211311742",
+    "211311743",
+    "211311744",
+    "211311745",
+    "211311746",
+    "900887318",
+    "211311748",
+    "211311749",
+    "900887319",
+    "900887320",
+    "223574012",
+    "211311753",
+    "900887321",
+    "223574013",
+    "211311756",
+    "211311757",
+    "211311758",
+    "900887322",
+    "211311760",
+    "211311761",
+    "927997270",
+    "211311763",
+    "211311764",
+    "211340890",
+    "211311766",
+    "211311767",
+    "211311768",
+    "900887323",
+    "211311770",
+    "913450601",
+    "211311772",
+    "211311773",
+    "900887325",
+    "211340875",
+    "211340876",
+    "900887326",
+    "211340878",
+    "211340879",
+    "211340880",
+    "211340891",
+    "211340882",
+    "211340883",
+    "211340884",
+    "211340885",
+    "900887327",
+    "907407590",
+    "211340888"
+   ]
+  },
+  {
+   "date": "2026-03-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1066993470:por",
+     "title": "Portaria n.º 107/2026/1",
+     "published": "2026-03-05",
+     "dre_path": "/dr/detalhe/portaria/107-2026-1066993470"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 61"
+   ],
+   "fragments": [
+    "211311697",
+    "211311698",
+    "211340889",
+    "211311700",
+    "211311701",
+    "900887313",
+    "1068018675",
+    "211311704",
+    "211311705",
+    "211311706",
+    "211311707",
+    "211311708",
+    "211311709",
+    "211311710",
+    "900887315",
+    "211311712",
+    "211311713",
+    "211311714",
+    "211311715",
+    "900887316",
+    "900887317",
+    "211311718",
+    "211311719",
+    "211311720",
+    "211311721",
+    "211311722",
+    "1068018875",
+    "211311724",
+    "1068019075",
+    "211311726",
+    "1068019275",
+    "211311728",
+    "211311729",
+    "1068019475",
+    "211311731",
+    "927997268",
+    "211311733",
+    "927997271",
+    "927997272",
+    "211311735",
+    "211311736",
+    "211311737",
+    "211311738",
+    "211311739",
+    "211311740",
+    "211311741",
+    "211311742",
+    "211311743",
+    "211311744",
+    "211311745",
+    "211311746",
+    "1068019675",
+    "211311748",
+    "211311749",
+    "1068019875",
+    "900887320",
+    "223574012",
+    "211311753",
+    "900887321",
+    "223574013",
+    "211311756",
+    "211311757",
+    "211311758",
+    "900887322",
+    "211311760",
+    "211311761",
+    "927997270",
+    "211311763",
+    "211311764",
+    "211340890",
+    "211311766",
+    "211311767",
+    "211311768",
+    "1068020075",
+    "211311770",
+    "913450601",
+    "211311772",
+    "211311773",
+    "900887325",
+    "211340875",
+    "211340876",
+    "900887326",
+    "211340878",
+    "211340879",
+    "211340880",
+    "211340891",
+    "211340882",
+    "211340883",
+    "211340884",
+    "211340885",
+    "900887327",
+    "907407590",
+    "211340888"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1155188971:por",
+     "title": "Portaria n.º 334/2026/1",
+     "published": "2026-08-12",
+     "dre_path": "/dr/detalhe/portaria/334-2026-1155188971"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "211311697",
+    "211311698",
+    "211340889",
+    "211311700",
+    "211311701",
+    "1159742675",
+    "1068018675",
+    "211311704",
+    "211311705",
+    "211311706",
+    "211311707",
+    "211311708",
+    "211311709",
+    "211311710",
+    "900887315",
+    "211311712",
+    "211311713",
+    "211311714",
+    "211311715",
+    "900887316",
+    "900887317",
+    "211311718",
+    "211311719",
+    "211311720",
+    "211311721",
+    "211311722",
+    "1068018875",
+    "211311724",
+    "1068019075",
+    "211311726",
+    "1068019275",
+    "211311728",
+    "211311729",
+    "1068019475",
+    "211311731",
+    "927997268",
+    "211311733",
+    "927997271",
+    "927997272",
+    "211311735",
+    "211311736",
+    "211311737",
+    "211311738",
+    "211311739",
+    "211311740",
+    "211311741",
+    "211311742",
+    "211311743",
+    "211311744",
+    "211311745",
+    "211311746",
+    "1068019675",
+    "211311748",
+    "211311749",
+    "1068019875",
+    "900887320",
+    "223574012",
+    "211311753",
+    "900887321",
+    "223574013",
+    "211311756",
+    "211311757",
+    "211311758",
+    "900887322",
+    "211311760",
+    "211311761",
+    "927997270",
+    "211311763",
+    "211311764",
+    "211340890",
+    "211311766",
+    "211311767",
+    "211311768",
+    "1068020075",
+    "211311770",
+    "913450601",
+    "211311772",
+    "211311773",
+    "900887325",
+    "211340875",
+    "211340876",
+    "900887326",
+    "211340878",
+    "211340879",
+    "211340880",
+    "211340891",
+    "211340882",
+    "211340883",
+    "211340884",
+    "211340885",
+    "900887327",
+    "907407590",
+    "211340888"
+   ]
+  }
+ ],
+ "fragments": {
+  "211311697": {
+   "fragment_id": "211313616",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 54-G/2023\n\nde 27 de fevereiro\n\nSumário: Estabelece as regras nacionais complementares do domínio «B.1 - Programa Nacional para apoio ao setor da apicultura» do eixo «B - Abordagem sectorial integrada» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal).\n\nA reforma da Política Agrícola Comum (PAC) em 2021 estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).\n\nO PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.\n\nO Plano Estratégico da Política Agrícola Comum de Portugal, «PEPAC Portugal», foi aprovado pela Comissão Europeia através da Decisão da Comissão n.º C (2022) 6019, de 31 de agosto de 2022, vigorando no período de 2023-2027.\n\nNeste âmbito, as intervenções do domínio «B.2 - Programa nacional para apoio ao setor da apicultura» do eixo «B - Abordagem setorial integrada», do PEPAC Portugal, cujo financiamento se encontra assegurado pelo FEAGA, designadamente a assistência técnica aos apicultores e organizações de apicultores, a luta contra a varroose, o combate à Vespa velutina, o repovoamento do efetivo apícola, a racionalização da transumância, as análises da qualidade do mel ou outros produtos apícolas, os programas de investigação no domínio da apicultura e a melhoria da qualidade dos produtos apícolas, têm como objetivos pertinentes para o setor da apicultura, a modernização do setor através da promoção e da partilha de conhecimentos, a inovação e a digitalização na agricultura e nas zonas rurais, a contribuição para travar e inverter a perda de biodiversidade, o reforço da orientação para o mercado e aumento da competitividade das explorações agrícolas, o melhoramento da resposta dada pela agricultura da União às exigências da sociedade no domínio da alimentação e da saúde.\n\nPela presente Portaria prevê-se o quadro normativo que institucionaliza e efetiva as intervenções setoriais acima referidas e identifica as entidades intervenientes e respetivas competências, designadamente, da autoridade de gestão nacional (AGN), o Gabinete de Planeamento, Políticas e Administração Geral (GPP), que nos termos do n.º 3 do artigo 56.º do Decreto-Lei n.º 5/2023, de 25 de janeiro, mediante a celebração de acordo escrito, delega funções na Direção-Geral da Agricultura e Desenvolvimento Rural (DGADR), na qualidade de organismo intermédio, continuando a ser plenamente responsável pela eficiência e rigor da gestão e execução das funções em causa.\n\nAssim:\n\nManda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:\n\n> Nota: [Artigo 5.º, Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744) As alterações efetuadas pela Portaria n.º 349/2024/1, de 20 de dezembro produzem efeitos a partir do ano apícola 2025, inclusive."
+  },
+  "211311698": {
+   "fragment_id": "211313617",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "211311699": {
+   "fragment_id": "211313618",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as regras nacionais complementares do domínio «B.1 - Programa Nacional para apoio ao setor da apicultura» do eixo «B - Abordagem sectorial integrada» do Plano Estratégico da Política Agrícola Comum, para Portugal (PEPAC Portugal), nos termos do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, do Regulamento Delegado (UE) 2022/126, da Comissão e do Regulamento de Execução (UE) 2022/1475, da Comissão."
+  },
+  "211311700": {
+   "fragment_id": "211313619",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO regime de aplicação dos apoios previstos na presente portaria inclui as seguintes intervenções:\n\na) «Assistência técnica aos apicultores e organizações de apicultores»;\n\nb) «Luta contra a varroose»;\n\nc) «Combate à Vespa velutina (vespa asiática)»;\n\nd) «Apoio à transumância»;\n\ne) «Análises de qualidade do mel ou outros produtos apícolas»;\n\nf) «Apoio à aquisição de rainhas autóctones selecionadas»;\n\ng) «Apoio a projetos de investigação aplicada»;\n\nh) «Melhoria da qualidade dos produtos apícolas»."
+  },
+  "211311701": {
+   "fragment_id": "211313620",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito temporal e geográfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito temporal e geográfico\n\n1 - A presente portaria aplica-se ao quinquénio 2023-2027, correspondente aos anos apícolas de 2023, 2024, 2025, 2026 e 2027, que decorrem de 1 de agosto do ano anterior a 31 de julho do ano em causa, sem prejuízo do disposto no artigo 71.º\n\n2 - O âmbito geográfico de aplicação das intervenções previstas na presente portaria abrange todo o território nacional."
+  },
+  "211311702": {
+   "fragment_id": "211313621",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos da presente portaria, entende-se por:\n\na) «Centro de competências da apicultura e da biodiversidade», o espaço de discussão, partilha e de articulação de conhecimentos, capacidades e competências, que agrega os operadores da fileira apícola, tanto da produção como da indústria, com os agentes da investigação, da divulgação e da transferência de conhecimento, potenciando a sua colaboração, com a missão de promover o desenvolvimento sustentável e competitivo da fileira apícola nacional, nas vertentes socioeconómica, formativa, técnica e ambiental;\n\nb) Centro de criação de rainhas», a entidade aprovada pela Direção-Geral de Alimentação e Veterinária (DGAV) para a criação de rainhas, detentora de um sistema cientificamente credível de criação de rainhas fecundadas de raças autóctones;\n\nc) «Colmeia», o suporte físico que contém uma colónia de abelhas melíferas utilizadas para a produção de mel, outros produtos apícolas ou materiais de reprodução de abelhas melíferas, bem como todos os elementos necessários para a sua sobrevivência;\n\nd) «Declaração de existências», a declaração a que se refere o n.º 3 do artigo 3.º do Decreto-Lei n.º 203/2005, de 25 de novembro, ou a legislação regional aplicável, a realizar no período de 1 a 30 de setembro de cada ano, através da aplicação do Sistema Nacional de Informação e Registo Animal (SNIRA)/iDigital, diretamente pelo apicultor, no sítio da Internet do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em qualquer serviço regional ou local da DGAV ou nas entidades protocoladas com o IFAP, I. P., para o efeito;\n\ne) «Entidades gestoras de zonas controladas (EGZC)», as organizações de apicultores reconhecidas pela DGAV ou pela entidade competente das Regiões Autónomas, ao abrigo do Decreto-Lei n.º 203/2005, de 25 de novembro, ou a legislação regional aplicável, com obrigações próprias a nível sanitário, que desenvolvem ações de profilaxia sanitária em zonas controladas;\n\nf) «Estabelecimentos de extração e de processamento de mel», os locais de extração e processamento de mel ou de outros produtos apícolas, com destino à introdução no mercado conforme estabelecido no Decreto-Lei n.º 1/2007, de 2 de janeiro, ou na legislação regional aplicável;\n\ng) «Laboratórios aprovados pela DGAV», os locais reconhecidos pela DGAV para a realização de análises anatomopatológicas de abelhas, de favos e de cartolinas, de acordo com o Programa Sanitário Apícola, divulgados nos sítios da Internet da Direção-Geral da Agricultura e Desenvolvimento Rural (DGADR), DGAV, do Gabinete de Planeamento, Políticas e Administração Geral (GPP) e do IFAP, I. P.;\n\nh) «Plano de ação para a vigilância e controlo da Vespa velutina em Portugal», a estratégia de nível nacional elaborada conjuntamente pela DGAV e pelo Instituto da Conservação da Natureza Florestas, I. P., com o contributo do Instituto Nacional de Investigação Agrária e Veterinária, I. P. (INIAV, I. P.), revista em 2018 e implementada pela Comissão de Acompanhamento para a Vigilância, Prevenção e Controlo da Vespa velutina (CVV), criada pelo Despacho n.º 8813/2017, de 29 de setembro, publicado no Diário da República, 2.ª série, de 6 de outubro de 2017, com o objetivo de enquadrar a atuação nacional face ao estabelecimento e disseminação da vespa asiática em Portugal (Vespa velutina), com vista à prevenção, vigilância e controlo da Vespa velutina em território nacional, promovendo a segurança dos cidadãos, a proteção da atividade agrícola e do efetivo apícola, bem como a minimização dos impactos sobre a biodiversidade;\n\ni) «Plano de luta contra a varroose», o plano elaborado pela DGAV ou pelas entidades competentes das Regiões Autónomas, com o objetivo de constituir uma ferramenta de apoio para os apicultores e as suas organizações na luta contra a varroose no território nacional, que tem em consideração a metodologia proposta para a intervenção setorial dos produtos da apicultura para o quinquénio 2023-2027;\n\nj) «Produtos apícolas», o mel natural, a geleia real e o pólen, comestíveis ou impróprios para alimentação humana, o própolis e a cera de abelhas;\n\nk) «Programa sanitário apícola», o programa anual elaborado pelos serviços competentes, que estabelece as medidas de sanidade veterinária para defesa no território nacional das doenças das abelhas, bem como os requisitos a que devem obedecer as zonas controladas;\n\nl) «Unidades de Produção Primária (UPP)», os locais de extração e processamento de mel ou de outros produtos apícolas provenientes da exploração do próprio apicultor com destino a estabelecimento de extração e de processamento de mel, ou a venda ou cedência, a qualquer título, ao consumidor final ou ao comércio a retalho local, nos limites do concelho e concelhos limítrofes de implantação da unidade, ou em representações temporárias de produtos regionais, até 650 kg/ano, conforme a alínea b) do artigo 4.º da Portaria n.º 74/2014, de 20 de março;\n\nm) «Zona controlada», a área geográfica reconhecida pela DGAV, que cumpre os requisitos previstos no Decreto-Lei n.º 203/2005, de 25 de novembro, ou na legislação regional aplicável."
+  },
+  "211311703": {
+   "fragment_id": "211313622",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem ser beneficiários dos apoios previstos na presente portaria, de acordo com as condições específicas de cada intervenção:\n\na) As organizações de produtores (OP) reconhecidas para o setor do mel, nos termos da Portaria n.º 298/2019, de 9 de setembro;\n\nb) As associações e cooperativas de apicultores, dotadas de personalidade jurídica, com atividade apícola prevista nos respetivos estatutos, desde que os apicultores abrangidos pela candidatura obedeçam ao regime jurídico estabelecido pelo Decreto-Lei n.º 203/2005;\n\nc) As uniões, federações ou confederações das entidades referidas na alínea anterior, com atividade apícola prevista nos respetivos estatutos ou nos estatutos de alguma das suas associadas.\n\n2 - O disposto no número anterior aplica-se nas Regiões Autónomas (RA) com as necessárias adaptações.\n\n3 - Apenas podem ser abrangidos na candidatura, os apicultores que identifiquem, na declaração de existências, para cada apiário que detêm, qual a respetiva entidade beneficiária a que estão associados para efeitos de candidatura às intervenções previstas na presente portaria.\n\n4 - Caso o apiário esteja localizado em zona controlada por uma EGZC, o apicultor pode indicar essa entidade, mesmo não sendo seu associado.\n\n5 - Para efeitos dos n.os 3 e 4, apenas se consideram as colmeias afetas a apiários inscritos que constem da declaração de existências do Sistema Nacional de Identificação, Registo e Movimentação Animal (SNIRA), no período anual de declaração de existências que precede o período de apresentação das candidaturas.\n\n> Nota: [Artigo 3.º, Portaria n.º 139/2025/1 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/139-2025-912820668) A alteração ao presente artigo, produz efeitos a partir do ano apícola de 2025, inclusive.\n\n> Nota: [Artigo 4.º, Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886) A alteração introduzida ao n.º 5 do presente artigo produz efeitos a partir do ano apícola 2026, inclusive."
+  },
+  "211311704": {
+   "fragment_id": "211313623",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações gerais dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações gerais dos beneficiários\n\nOs beneficiários dos apoios previstos na presente portaria devem cumprir as seguintes obrigações:\n\na) Executar as intervenções aprovadas, nos termos e nos prazos previstos na presente portaria e comunicar à DGADR os resultados da execução das respetivas candidaturas em formulário próprio, disponível no sítio da Internet desta entidade;\n\nb) Garantir que todos os pagamentos e recebimentos referentes às intervenções são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário;\n\nc) Conservar, em boa ordem e devidamente organizados, todos os documentos suscetíveis de comprovar as informações e declarações prestadas, a fundamentação das opções tomadas no âmbito das respetivas intervenções, bem como, todos os originais dos documentos comprovativos da realização da despesa e evidências da realização das intervenções, durante cinco anos após o final de cada ano, exceto se outro prazo se encontrar fixado em lei especial, e apresentá-los quando solicitados;\n\nd) Submeter-se a ações de controlo, nos termos da presente portaria;\n\ne) Não se candidatar a quaisquer outros apoios públicos para as despesas apoiadas ao abrigo da presente portaria;\n\nf) Garantir a permanência, de todos os apicultores abrangidos pela candidatura aprovada, durante o respetivo período de execução, sem prejuízo da possibilidade de atualização através das alterações aprovadas;\n\ng) Não alienar e manter funcional o equipamento ou as infraestruturas apoiadas através das intervenções previstas na presente portaria, durante o prazo de cinco anos a contar do respetivo pagamento."
+  },
+  "211311705": {
+   "fragment_id": "211313624",
+   "type": 11,
+   "heading": "Artigo 7.º — Dotação orçamental global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dotação orçamental global\n\nA dotação orçamental global afeta aos apoios previstos na presente portaria, relativa aos anos apícolas 2023, 2024, 2025, 2026 e 2027, por intervenção e por ano apícola, consta do anexo I à presente portaria, da qual faz parte integrante."
+  },
+  "211311706": {
+   "fragment_id": "211313625",
+   "type": 1,
+   "heading": "Capítulo II — Intervenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Intervenções"
+  },
+  "211311707": {
+   "fragment_id": "211313626",
+   "type": 8,
+   "heading": "Secção I — Assistência técnica aos apicultores e às organizações de apicultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Assistência técnica aos apicultores e às organizações de apicultores"
+  },
+  "211311708": {
+   "fragment_id": "211313627",
+   "type": 11,
+   "heading": "Artigo 8.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Objetivos\n\nA intervenção prevista na presente secção contribui para dotar as entidades beneficiárias com meios técnicos para reforço da formação profissional, aconselhamento e transmissão de conhecimento aos apicultores."
+  },
+  "211311709": {
+   "fragment_id": "211313628",
+   "type": 11,
+   "heading": "Artigo 9.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas na alínea a) do n.º 1 do artigo 5.º;\n\nb) As associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º;\n\nc) As uniões e federações referidas na alínea c) do n.º 1 do artigo 5.º"
+  },
+  "211311710": {
+   "fragment_id": "211313629",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Critérios de elegibilidade\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção os beneficiários que, cumulativamente, reúnam as seguintes condições:\n\na) Detenham uma relação contratual com, pelo menos, um técnico que preste serviços de assistência técnica aos apicultores, cuja afetação individual a esta atividade seja igual ou superior a 40 % do tempo completo de trabalho;\n\nb) Abranger pelo menos 200 colmeias registadas no SNIRA, no conjunto dos apicultores integrados da candidatura.\n\n2 - Para efeitos da alínea a) do número anterior, os técnicos contratados devem ser detentores de grau de ensino superior em ciências agrárias ou veterinárias, tecnologias agroalimentares ou ciências biológicas com componente curricular no domínio da apicultura ou produção apícola ou adquirida através de formação específica posterior neste domínio."
+  },
+  "211311711": {
+   "fragment_id": "211313630",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas elegíveis\n\n1 - São elegíveis as despesas de remuneração, nos termos do Código do Trabalho publicado em anexo à Lei n.º 7/2009, de 12 de fevereiro, e os respetivos encargos sociais, dos técnicos a afetar à assistência técnica aos apicultores, de acordo com os limites de tempo de afetação máximo previstos no anexo II à presente portaria, da qual faz parte integrante.\n\n2 - Para efeitos do disposto no número anterior, é considerada a remuneração base mensal acrescida dos encargos obrigatórios da entidade empregadora, decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho, e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas no recibo de vencimento e na contabilidade da entidade empregadora que integrem a remuneração.\n\n3 - O valor a imputar anualmente corresponde à remuneração anual que o trabalhador tenha direito por força da sua relação laboral com a entidade empregadora e em função da taxa de afetação à assistência técnica aos apicultores.\n\n4 - A despesa elegível é estabelecida com base no tempo de trabalho dedicado pelo técnico previsto no contrato referido na alínea a) do n.º 1 no artigo 10.º, até ao valor máximo necessário para garantir a assistência ao número de colmeias inseridas na candidatura do beneficiário, conforme previsto na tabela constante do anexo II da presente portaria, da qual faz parte integrante.\n\n5 - O limite máximo anual de despesa elegível para efeitos de apoio relativo a um técnico a tempo completo é de (euro) 37.358.\n\n6 - Não são elegíveis as despesas relativas a prémios, multas, coimas, sanções financeiras ou juros, encargos não obrigatórios com os técnicos afetos à intervenção, compensações pela caducidade do contrato de trabalho ou indemnizações por cessação do contrato de trabalho de pessoal afeto à intervenção, bem como as entregas relativas ao Fundo de Compensação do Trabalho."
+  },
+  "211311712": {
+   "fragment_id": "211313631",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações específicas dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Obrigações específicas dos beneficiários\n\n1 - Os beneficiários que sejam OP reconhecidas para o setor do mel, associações ou cooperativas, sem prejuízo das obrigações previstas no artigo 6.º, são obrigados a:\n\na) Realizar ações de divulgação ou demonstração técnica com a duração mínima total de oito horas, no conjunto das ações, e com a participação total de pelo menos 50 % dos apicultores abrangidos pela candidatura;\n\nb) Garantir a visita de técnico, pelo menos, a um apiário de 90 % dos apicultores abrangidos pela candidatura, prestando apoio e acompanhamento nas atividades inerentes à atividade apícola;\n\nc) Garantir, no mínimo uma vez por ano, a visita de técnico, pelo menos, a 50 % dos estabelecimentos de extração e de processamento de mel e, pelo menos, a 50 % das UPP existentes à data de abertura do período da candidatura;\n\nd) Apresentar ao IFAP, I. P., no modelo divulgado no respetivo sítio da Internet, um relatório anual de atividades, contendo a descrição e quantificação das atividades desenvolvidas previstas nas candidaturas, juntamente com o último pedido de pagamento.\n\n2 - Os beneficiários da intervenção prevista na presente secção que sejam uniões ou federações, sem prejuízo das obrigações previstas no artigo 6.º, são obrigados a:\n\na) Assegurar a realização de, no mínimo, duas ações de formação e de divulgação para os técnicos abrangidos pela candidatura, com a duração mínima de quatro horas cada;\n\nb) Coordenar e identificar as necessidades de formação dos técnicos das suas associadas e elaborar relatório com propostas de atuação."
+  },
+  "211311713": {
+   "fragment_id": "211313632",
+   "type": 11,
+   "heading": "Artigo 13.º — Forma, nível e limites de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Forma, nível e limites de apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de reembolso dos custos elegíveis efetivamente incorridos pelo beneficiário.\n\n2 - O nível de apoio é de 80 % da despesa elegível, podendo ir até ao limite máximo de 90 %, de acordo com as necessidades de ajustamento que venham a ser identificadas face à disponibilidade orçamental."
+  },
+  "211311714": {
+   "fragment_id": "211313633",
+   "type": 8,
+   "heading": "Secção II — Luta contra a varroose",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Luta contra a varroose"
+  },
+  "211311715": {
+   "fragment_id": "211313634",
+   "type": 11,
+   "heading": "Artigo 14.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Objetivos\n\nA intervenção prevista na presente secção visa a promoção da eficácia de implementação do «Plano de Luta contra a Varroose» incluído no «Programa Sanitário Apícola», elaborados pela DGAV ou pelas autoridades competentes das Regiões Autónomas."
+  },
+  "211311716": {
+   "fragment_id": "211313635",
+   "type": 11,
+   "heading": "Artigo 15.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas alínea a) do n.º 1 do artigo 5.º;\n\nb) As associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º\n\n2 - Caso os beneficiários referidos no número anterior assumam a qualidade de EGZC, podem inscrever na candidatura à intervenção, todos os apicultores, cujos apiários estejam localizados na respetiva zona controlada e que tenham indicado na declaração de existências essa entidade como beneficiária.\n\n3 - Na Região Autónoma da Madeira (RAM), pode ainda beneficiar da intervenção prevista na presente secção, a Secretaria Regional de Agricultura e Desenvolvimento Rural."
+  },
+  "211311717": {
+   "fragment_id": "211313636",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Critérios de elegibilidade\n\nPodem beneficiar dos apoios previstos na presente intervenção os beneficiários que detenham um técnico responsável para efeitos de assistência ao apicultor no domínio da sanidade apícola, nomeadamente no que respeita a:\n\na) Distribuição de medicamentos veterinários autorizados pela DGAV;\n\nb) Recolha de amostras para análise anatomopatológica de abelhas, de favos e de cartolinas;\n\nc) Acompanhamento da substituição de ceras e da limpeza de estrados, por parte dos apicultores."
+  },
+  "211311718": {
+   "fragment_id": "211313637",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações específicas dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações específicas dos beneficiários\n\n1 - Os beneficiários da intervenção prevista na presente secção, sem prejuízo das obrigações previstas no artigo 6.º, devem realizar cumulativamente os seguintes procedimentos, consoante o caso:\n\na) Em colmeia situada fora de zona controlada:\n\ni) Adquirir e distribuir medicamentos veterinários necessários à aplicação de dois tratamentos terapêuticos e profiláticos da varroose às colmeias dos apicultores inscritos na candidatura;\n\nii) Adquirir ou moldar e distribuir as ceras, quando necessário.\n\nb) Em colmeia situada em zona controlada:\n\ni) Adquirir e distribuir medicamentos veterinários necessários à aplicação de dois tratamentos terapêuticos e profiláticos da varroose às colmeias dos apicultores inscritos na candidatura;\n\nii) Adquirir ou moldar e distribuir ceras, quando necessário;\n\niii) Realizar análises anatomopatológicas, quando aplicável, de abelhas, de favos ou de cartolinas, de acordo com o Programa Sanitário Apícola.\n\nc) Em colmeia em zona sem varroose:\n\ni) Adquirir ou moldar e distribuir ceras, quando necessário;\n\nii) Realizar análises anatomopatológicas, quando aplicável, de abelhas, de favos ou de cartolinas;\n\nd) No caso específico da Região Autónoma dos Açores (RAA), proceder à esterilização das ceras antes da introdução nas colmeias, de acordo com as orientações técnicas definidas pelas entidades regionais competentes e divulgadas no respetivo sítio da Internet.\n\n2 - Para efeitos do número anterior:\n\na) Os medicamentos veterinários utilizados devem ser autorizados pela DGAV, e publicitados no sítio da Internet da DGADR, em www.dgadr.pt;\n\nb) As análises anatomopatológicas de abelhas, de favos e de cartolinas, devem ser realizadas em laboratórios autorizados pela DGAV e publicitado no sítio da Internet da DGADR;\n\nc) A aquisição de ceras é efetuada a comerciantes registados pela DGAV, a nível regional ou nacional, e publicitado no sítio da Internet da DGADR;\n\nd) A necessidade de aquisição ou moldagem de ceras por parte do beneficiário é aferida pelo técnico responsável de acordo com a alínea c) do artigo 16.º\n\n3 - Os beneficiários devem ainda garantir a visita de acompanhamento a apiários pelo técnico, conforme ficha de visita ao apiário e ficha anual, nos modelos publicitados no sítio da Internet da DGADR, em www.dgadr.pt."
+  },
+  "211311719": {
+   "fragment_id": "211313638",
+   "type": 11,
+   "heading": "Artigo 18.º — Forma, nível e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Forma, nível e limites do apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de custos unitários por colmeia.\n\n2 - O nível de apoio é de 70 % dos montantes previstos no anexo III à presente portaria, da qual faz parte integrante, podendo ir até ao limite máximo de 90 %, de acordo com as necessidades de ajustamento que venham a ser identificadas, nos termos do artigo 60.º, face à disponibilidade orçamental."
+  },
+  "211311720": {
+   "fragment_id": "211313639",
+   "type": 8,
+   "heading": "Secção III — Combate à Vespa velutina (vespa asiática)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Combate à Vespa velutina (vespa asiática)"
+  },
+  "211311721": {
+   "fragment_id": "211313640",
+   "type": 11,
+   "heading": "Artigo 19.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Objetivos\n\nA intervenção prevista na presente secção visa contribuir para a execução do Plano de Ação para a Vigilância e Controlo da Vespa velutina em Portugal, através de ações de combate nos concelhos e freguesias de disseminação ou ocupação por este inseto predador de abelha, de acordo com informação obtida através da plataforma digital STOPvespa, em http://stopvespa.icnf.pt/, ou outra que a venha a substituir, bem como da Rede Nacional de Vigilância Ativa integrada na plataforma VigiaVespa, em www.iniav.pt através de ações de vigilância ativa a nível nacional, não sendo objetivo deste apoio a definição das ações em causa."
+  },
+  "211311722": {
+   "fragment_id": "211313641",
+   "type": 11,
+   "heading": "Artigo 20.º — Tipologias elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Tipologias elegíveis\n\nSão elegíveis no âmbito da intervenção prevista na presente secção, as seguintes tipologias:\n\na) Ações de combate à vespa-velutina;\n\nb) Ações de prevenção e vigilância."
+  },
+  "211311723": {
+   "fragment_id": "211313642",
+   "type": 11,
+   "heading": "Artigo 21.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas na alínea a) do n.º 1 do artigo 5.º;\n\nb) As associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º"
+  },
+  "211311724": {
+   "fragment_id": "211313643",
+   "type": 11,
+   "heading": "Artigo 22.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Critérios de elegibilidade\n\nOs beneficiários da intervenção prevista na presente secção devem reunir as seguintes condições:\n\na) No caso de ações de combate à vespa-velutina, indicar o concelho e a freguesia onde estão instalados os apiários, com base na lista definida em Orientação Técnica Específica (OTE), publicada no sítio da Internet da DGADR;\n\nb) No caso de ações de prevenção e vigilância, indicar o concelho e a freguesia onde estão instalados os apiários, com base na lista definida constante da OTE."
+  },
+  "211311725": {
+   "fragment_id": "211313644",
+   "type": 11,
+   "heading": "Artigo 23.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Despesas elegíveis\n\nSão elegíveis, no âmbito das tipologias definidas no artigo 20.º, as despesas realizadas com:\n\na) A aquisição de material destinado ao combate à vespa-velutina indicado no «Manual de Boas Práticas para o Combate à Vespa velutina», disponível nos sítios da Internet da DGAV e do Instituto Nacional de Investigação Agrária e Veterinária, I. P. (INIAV, I. P.), conforme OTE;\n\nb) A aquisição de equipamento para a prevenção e vigilância em apiários sentinela, de acordo com as «Bases para a Vigilância Ativa», no âmbito do «Plano de Ação para a Vigilância e Controlo da Vespa velutina em Portugal», constante da OTE."
+  },
+  "211311726": {
+   "fragment_id": "211313645",
+   "type": 11,
+   "heading": "Artigo 24.º — Obrigações específicas dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Obrigações específicas dos beneficiários\n\nOs beneficiários da intervenção prevista na presente secção, sem prejuízo das obrigações previstas no artigo 6.º, são obrigados a:\n\na) Adquirir, no âmbito das ações de combate à vespa-velutina, material com base nas orientações previstas no «Manual de Boas Práticas para o Combate à Vespa velutina»;\n\nb) Adquirir armadilhas, no âmbito das ações de prevenção e vigilância, certificando-se que os apicultores associados procedem à respetiva colocação, bem como a monitorização e comunicação ao abrigo da Rede Nacional de Vigilância Ativa integrada na plataforma VigiaVespa."
+  },
+  "211311727": {
+   "fragment_id": "211313646",
+   "type": 11,
+   "heading": "Artigo 25.º — Forma, nível e limites de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Forma, nível e limites de apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de reembolso de custos elegíveis efetivamente incorridos pelos beneficiários.\n\n2 - O nível de apoio das despesas referidas na alínea a) do artigo 23.º é de 50 %, até ao montante máximo de apoio (euro) 5.000 por beneficiário.\n\n3 - O nível de apoio das despesas referidas na alínea b) do artigo 23.º é de 100 %, até ao montante máximo de apoio (euro) 10.000 por beneficiário.\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive."
+  },
+  "211311728": {
+   "fragment_id": "211313647",
+   "type": 8,
+   "heading": "Secção IV — Apoio à transumância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Apoio à transumância"
+  },
+  "211311729": {
+   "fragment_id": "211313648",
+   "type": 11,
+   "heading": "Artigo 26.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Objetivos\n\nA intervenção prevista na presente secção visa contribuir para a melhoria das condições de realização da transumância em contexto de eficácia de utilização de recurso e organização do setor, através do apoio à aquisição de serviços ou de aluguer de equipamentos, relativos às operações de transumância de colmeias."
+  },
+  "211311730": {
+   "fragment_id": "211313649",
+   "type": 11,
+   "heading": "Artigo 27.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas na alínea a) do n.º 1 do artigo 5.º;\n\nb) As associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º\n\n2 - Não podem beneficiar dos apoios previstos na intervenção prevista na presente secção, as entidades referidas no número anterior que efetuem, elas próprias, a prestação de serviços relativos às operações de transporte de colmeias na transumância.\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive."
+  },
+  "211311731": {
+   "fragment_id": "211313650",
+   "type": 11,
+   "heading": "Artigo 28.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Critérios de elegibilidade\n\nPodem beneficiar dos apoios previstos na presente intervenção os apicultores que tenham operações de transumância até à data da apresentação da candidatura e que o tenham comunicado à DGAV, através do formulário disponível no respetivo sítio da Internet."
+  },
+  "211311732": {
+   "fragment_id": "211313651",
+   "type": 11,
+   "heading": "Artigo 29.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Despesas elegíveis e não elegíveis\n\n1 - São elegíveis as despesas de aquisição de serviços ou de aluguer de equipamentos relativos às operações de transumância de colmeias, nomeadamente transporte, gruas, reboques, plataformas de elevação e equipamentos para paletização de colmeias.\n\n2 - Não são elegíveis as despesas com prestações de serviços relativas às operações de transporte de colmeias na transumância entre beneficiários dos apoios previstos na presente secção.\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive."
+  },
+  "211311733": {
+   "fragment_id": "211313652",
+   "type": 11,
+   "heading": "Artigo 30.º — Obrigações específicas dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Obrigações específicas dos beneficiários\n\nSem prejuízo das obrigações previstas no artigo 6.º, os beneficiários da intervenção prevista na presente secção são obrigados a:\n\na) Adquirir serviços ou alugar equipamentos para o efetivo dos apicultores abrangidos pela candidatura;\n\nb) Apresentar um plano das atividades que inclua a calendarização das operações de transumância."
+  },
+  "211311734": {
+   "fragment_id": "211313653",
+   "type": 11,
+   "heading": "Artigo 31.º — Forma, nível e limite do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Forma, nível e limite do apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de reembolso dos custos elegíveis efetivamente incorridos pelo beneficiário.\n\n2 - O nível do apoio é de 50 % das despesas elegíveis, podendo ir até ao limite máximo de 90 %, de acordo com as necessidades de ajustamento que venham a ser identificadas, nos termos do artigo 60.º, face à disponibilidade orçamental.\n\n3 - O limite máximo de apoio é de (euro) 10.000 por beneficiário.\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive."
+  },
+  "211311735": {
+   "fragment_id": "211313654",
+   "type": 8,
+   "heading": "Secção V — Análises de qualidade do mel ou outros produtos apícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Análises de qualidade do mel ou outros produtos apícolas"
+  },
+  "211311736": {
+   "fragment_id": "211313655",
+   "type": 11,
+   "heading": "Artigo 32.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Objetivos\n\nA intervenção prevista na presente secção visa contribuir para a adoção, pelos apicultores, de procedimentos de monitorização e controlo de qualidade dos respetivos produtos, através do apoio ao controlo analítico efetuado ao longo do processo, numa ótica de profissionalização e consequente orientação para o mercado e qualidade do produto final, em resposta às exigências da sociedade no domínio alimentar e da saúde, nomeadamente no que respeita à produção sustentável de alimentos seguros."
+  },
+  "211311737": {
+   "fragment_id": "211313656",
+   "type": 11,
+   "heading": "Artigo 33.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas alínea a) do n.º 1 do artigo 5.º;\n\nb) As associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º"
+  },
+  "211311738": {
+   "fragment_id": "211313657",
+   "type": 11,
+   "heading": "Artigo 34.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Critérios de elegibilidade\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção os estabelecimentos de extração e processamento de mel ou unidades de produção primária.\n\n2 - Para efeitos do disposto no número anterior, podem também ser considerados estabelecimentos de extração e processamento de mel ou unidades de produção primária, os detidos por membros, cooperantes ou associados do beneficiário.\n\n3 - Os beneficiários devem indicar quais as análises que pretendem realizar aos produtos apícolas, de acordo com a lista de análises elegíveis elaborada pela DGAV e publicitada no sítio da Internet da DGADR."
+  },
+  "211311739": {
+   "fragment_id": "211313658",
+   "type": 11,
+   "heading": "Artigo 35.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Despesas elegíveis\n\nSão elegíveis as despesas com a realização de análises aos produtos apícolas constantes da lista de análises elegíveis referidas no artigo anterior."
+  },
+  "211311740": {
+   "fragment_id": "211313659",
+   "type": 11,
+   "heading": "Artigo 36.º — Obrigações específicas dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Obrigações específicas dos beneficiários\n\nOs beneficiários da intervenção prevista na presente secção, sem prejuízo das obrigações previstas no artigo 6.º, são obrigados a proceder à realização de análises aos produtos da colmeia nos laboratórios aprovados pela DGAV, constantes de lista aprovada e divulgada no sítio da Internet da DGADR"
+  },
+  "211311741": {
+   "fragment_id": "211313660",
+   "type": 11,
+   "heading": "Artigo 37.º — Forma, nível e limites de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Forma, nível e limites de apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de reembolso dos custos elegíveis efetivamente incorridos pelo beneficiário.\n\n2 - No caso das OP, o nível do apoio é de 50 % das despesas elegíveis, podendo ir até ao limite máximo de 90 %, de acordo com as necessidades de ajustamento que venham a ser identificadas, nos termos do artigo 60.º, face à disponibilidade orçamental, num máximo de apoio de (euro) 5.000.\n\n3 - No caso das associações e cooperativas o nível do apoio é de 40 % das despesas elegíveis, podendo ir até ao limite máximo de 90 %, de acordo com as necessidades de ajustamento que venham a ser identificadas, nos termos do artigo 60.º, face à disponibilidade orçamental, num máximo de apoio de (euro) 4.000."
+  },
+  "211311742": {
+   "fragment_id": "211313661",
+   "type": 8,
+   "heading": "Secção VI — Apoio à aquisição de rainhas autóctones selecionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Apoio à aquisição de rainhas autóctones selecionadas"
+  },
+  "211311743": {
+   "fragment_id": "211313662",
+   "type": 11,
+   "heading": "Artigo 38.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Objetivos\n\nA intervenção prevista na presente secção visa contribuir para a melhoria das condições de vida das abelhas, através de repovoamento com reprodutoras autóctones selecionadas de reconhecida adaptação ao meio, contribuindo para potenciar a proteção da subespécie autóctone Apis melífera iberiensis e ainda para travar e inverter a perda de biodiversidade."
+  },
+  "211311744": {
+   "fragment_id": "211313663",
+   "type": 11,
+   "heading": "Artigo 39.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas na alínea a) do n.º 1 do artigo 5.º;\n\nb) As Associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º\n\n2 - Não podem beneficiar da intervenção prevista na presente secção as entidades referidas no número anterior que sejam centros de criação de rainhas."
+  },
+  "211311745": {
+   "fragment_id": "211313664",
+   "type": 11,
+   "heading": "Artigo 40.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Despesas elegíveis\n\nSão elegíveis no âmbito da presente intervenção as despesas com a aquisição de rainhas autóctones fecundadas."
+  },
+  "211311746": {
+   "fragment_id": "211313665",
+   "type": 11,
+   "heading": "Artigo 41.º — Obrigações específicas dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Obrigações específicas dos beneficiários\n\nOs beneficiários da intervenção prevista na presente secção, sem prejuízo das obrigações previstas no artigo 6.º, são obrigados a adquirir rainhas autóctones fecundadas selecionadas a centros de criação de rainhas aprovados pela DGAV e constantes de lista divulgada no sítio da Internet da DGADR."
+  },
+  "211311747": {
+   "fragment_id": "211313666",
+   "type": 11,
+   "heading": "Artigo 42.º — Forma, nível e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Forma, nível e limites do apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de custo unitário, com um valor de (euro) 7,5 por rainha.\n\n2 - O número máximo de rainhas apoiadas por beneficiário é limitado ao número equivalente a metade das colmeias da candidatura até ao limite máximo de apoio de (euro) 3.000."
+  },
+  "211311748": {
+   "fragment_id": "211313667",
+   "type": 8,
+   "heading": "Secção VII — Apoio a projetos de investigação aplicada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Apoio a projetos de investigação aplicada"
+  },
+  "211311749": {
+   "fragment_id": "211313668",
+   "type": 11,
+   "heading": "Artigo 43.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Objetivos\n\nA intervenção prevista na presente secção contribui para a modernização do setor através da promoção e da partilha de conhecimentos e da inovação, promovendo a cooperação com entidades de méritos reconhecidos na investigação e transferência de conhecimento."
+  },
+  "211311750": {
+   "fragment_id": "211313669",
+   "type": 11,
+   "heading": "Artigo 44.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente intervenção as uniões, federações ou confederações de associações e cooperativas de apicultores, previstos na alínea c) do n.º 1 do artigo 5.º"
+  },
+  "211311751": {
+   "fragment_id": "211313670",
+   "type": 11,
+   "heading": "Artigo 45.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Critérios de elegibilidade\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção os beneficiários previstos no número anterior que:\n\na) Assumam a qualidade de entidade gestora da parceria formalizada através de um acordo de parceria estabelecido com organismos públicos ou instituições de ensino superior, que disponham de centros de investigação aplicada;\n\nb) Apresentem projetos de investigação instruídos com a memória descritiva do projeto de investigação, o cronograma e mapa de programação do projeto de investigação anualizado com definição de atividades a desenvolver e as metas a atingir anualmente e a previsão da apresentação e divulgação de resultados de cada ano do projeto.\n\n2 - O INIAV, I. P. não pode ser entidade parceira para efeitos da alínea a) do número anterior."
+  },
+  "211311752": {
+   "fragment_id": "211313671",
+   "type": 11,
+   "heading": "Artigo 46.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Despesas elegíveis\n\n1 - São elegíveis as despesas relacionadas com as atividades de investigação e desenvolvimento a realizar pelas parcerias no âmbito da execução de projetos de investigação aplicada, nas temáticas incluídas na «Agenda Nacional de Investigação e Inovação em Apicultura e Biodiversidade» do Centro de Competências da Apicultura e Biodiversidade (CCAB).\n\n2 - São ainda elegíveis as despesas relativas às atividades de divulgação e de disseminação dos resultados dos projetos de investigação aplicada, executadas quer pelos beneficiários, quer por qualquer dos parceiros.\n\n> Nota: [Artigo 3.º, Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126) As alterações introduzidas pela Portaria n.º 317/2023, de 23 de outubro ao presente artigo produzem efeitos à data de início das candidaturas do PNASA do ano de 2024."
+  },
+  "211311753": {
+   "fragment_id": "211313672",
+   "type": 11,
+   "heading": "Artigo 47.º — Obrigações específicas dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Obrigações específicas dos beneficiários\n\n1 - Os beneficiários da intervenção prevista na presente secção, sem prejuízo das obrigações previstas no artigo 6.º são obrigados a:\n\na) Executar o projeto de investigação e as atividades de divulgação e disseminação nos termos do acordo de parceria estabelecido, cronograma e mapa de programação anual previstos no artigo 45.º;\n\nb) Elaborar um relatório anual de execução do projeto relativo à realização das atividades científicas;\n\nc) Publicitar o projeto no sítio da Internet da entidade gestora da parceria;\n\nd) Ter uma taxa de realização de, pelo menos, 90 % das ações previstas na candidatura aprovada, de acordo com o cronograma de programação do projeto de investigação.\n\n2 - Caso a taxa de realização referida na alínea d) do número anterior seja inferior a 50 % das ações previstas na candidatura aprovada de acordo com o cronograma de programação do projeto de investigação, o beneficiário fica excluído da possibilidade de se candidatar a esta intervenção para o ano seguinte."
+  },
+  "211311754": {
+   "fragment_id": "211313673",
+   "type": 11,
+   "heading": "Artigo 48.º — Hierarquização das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Hierarquização das candidaturas\n\n1 - As candidaturas à intervenção prevista na presente secção são hierarquizadas pelo INIAV, I. P., na qualidade de entidade avaliadora (EA), em função da respetiva valia global do projeto (VGP), calculada através da fórmula prevista no anexo IV da presente portaria, da qual faz parte integrante.\n\n2 - As candidaturas são hierarquizadas e aprovadas por ordem decrescente de VGP até ao limite orçamental definido."
+  },
+  "211311755": {
+   "fragment_id": "211313674",
+   "type": 11,
+   "heading": "Artigo 49.º — Forma, nível e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Forma, nível e limites do apoio\n\nO apoio à intervenção prevista na presente secção assume a forma de montante fixo por projeto, com um valor máximo a atribuir de acordo com a tabela contante no anexo V da presente portaria, da qual faz parte integrante, e em função da VGP, calculada nos termos definidos no artigo anterior.\n\n> Nota: [Artigo 3.º, Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126) As alterações introduzidas pela Portaria n.º 317/2023, de 23 de outubro ao presente artigo produzem efeitos à data de início das candidaturas do PNASA do ano de 2024."
+  },
+  "211311756": {
+   "fragment_id": "211340775",
+   "type": 8,
+   "heading": "Secção VIII — Melhoria da qualidade dos produtos apícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Melhoria da qualidade dos produtos apícolas"
+  },
+  "211311757": {
+   "fragment_id": "211340776",
+   "type": 11,
+   "heading": "Artigo 50.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Objetivos\n\nA intervenção prevista na presente secção visa contribuir para a modernização da cadeia de valor, com a utilização de novas tecnologias e processos para a melhoria das condições de produção e comercialização, assim como para um uso mais eficiente de recursos ao nível de infraestruturas de extração de mel comuns aos apicultores e de outros produtos da apicultura."
+  },
+  "211311758": {
+   "fragment_id": "211340777",
+   "type": 11,
+   "heading": "Artigo 51.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas na alínea a) do n.º 1 do artigo 5.º;\n\nb) As associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º"
+  },
+  "211311759": {
+   "fragment_id": "211340778",
+   "type": 11,
+   "heading": "Artigo 52.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Critérios de elegibilidade\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção os beneficiários previstos no número anterior que apresentem projetos de implementação de novos estabelecimentos de extração e processamento de produtos apícolas, ou de melhoria e requalificação deste tipo de estabelecimentos existentes.\n\n2 - Para efeitos do número anterior, os projetos devem pressupor a qualidade dos produtos apícolas, através da certificação no âmbito de regimes de qualidade relativos a modo de produção biológico, denominação de origem protegida, indicação geográfica protegida ou produção de méis monoflorais.\n\n3 - Os projetos devem ser instruídos a memória descritiva, cronograma e mapa de programação anualizado com definição de investimento e despesa prevista anualmente.\n\n4 - Os candidatos devem deter estabelecimentos de extração e processamento de produtos apícolas, aprovados nos termos do Decreto-Lei n.º 1/2007, de 2 de janeiro, ou na legislação regional aplicável, ou apresentar comprovativo do licenciamento dos novos estabelecimentos de extração e processamento de produtos apícolas."
+  },
+  "211311760": {
+   "fragment_id": "211340779",
+   "type": 11,
+   "heading": "Artigo 53.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Despesas elegíveis\n\n1 - São elegíveis no âmbito do apoio previsto na presente secção as despesas efetuadas com a:\n\na) Aquisição de equipamento constante da lista de equipamentos elegíveis, prevista em OTE;\n\nb) Construção ou remodelação e adaptação de infraestruturas para efeitos da prossecução dos objetivos referidos no artigo 50.º\n\n2 - No caso previsto na alínea b) do número anterior, apenas são elegíveis as despesas efetivamente executadas e pagas após a data de aprovação da candidatura."
+  },
+  "211311761": {
+   "fragment_id": "211340780",
+   "type": 11,
+   "heading": "Artigo 54.º — Obrigações específicas dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Obrigações específicas dos beneficiários\n\n1 - Os beneficiários da intervenção prevista na presente secção, sem prejuízo das obrigações previstas no artigo 6.º, são obrigados a:\n\na) Apresentar, no mínimo, três orçamentos, quando o valor do investimento seja superior a 5.000 (euro), devendo a escolha do respetivo equipamento e o fornecedor selecionado corresponder ao valor mais baixo apresentado;\n\nb) Executar a despesa com o fornecedor referido na alínea anterior;\n\nc) Ter uma taxa de realização de, pelo menos, 90 % do total da despesa aprovada na candidatura.\n\n2 - Caso a taxa de realização referida na alínea c) do número anterior seja inferior a 50 %, o beneficiário fica excluído da possibilidade de se candidatar aos apoios previstos na presente secção no ano seguinte."
+  },
+  "211311762": {
+   "fragment_id": "211340781",
+   "type": 11,
+   "heading": "Artigo 55.º — Forma, nível e limites de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Forma, nível e limites de apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de reembolso dos custos elegíveis efetivamente incorridos pelo beneficiário.\n\n2 - No caso das OP, o nível do apoio é de 50 % das despesas elegíveis, podendo ir até ao limite máximo de 90 %, de acordo com as necessidades de ajustamento que venham a ser identificadas face à disponibilidade orçamental, num máximo de apoio de (euro) 40.000.\n\n3 - No caso das associações e cooperativas o nível do apoio é de 40 % das despesas elegíveis, podendo ir até ao limite máximo de 90 %, de acordo com as necessidades de ajustamento que venham a ser identificadas face à disponibilidade orçamental, num máximo de apoio de (euro) 32.000\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive."
+  },
+  "211311763": {
+   "fragment_id": "211340782",
+   "type": 1,
+   "heading": "Capítulo III — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimento"
+  },
+  "211311764": {
+   "fragment_id": "211340783",
+   "type": 11,
+   "heading": "Artigo 56.º — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Entidades competentes\n\n1 - Sem prejuízo das competências do GPP relativamente à supervisão do exercício das funções de gestão dos apoios previstos na presente portaria e da respetiva gestão orçamental, compete à DGADR:\n\na) A receção das candidaturas;\n\nb) A decisão de aprovação das candidaturas;\n\nc) A notificação dos candidatos e das entidades avaliadoras das decisões proferidas.\n\n2 - Compete ao IFAP, I. P.:\n\na) Analisar os pedidos de pagamento;\n\nb) Efetuar o pagamento;\n\nc) Efetuar os controlos.\n\n3 - São entidades avaliadoras (EA):\n\na) As DRAP ou os serviços competentes das RA, relativamente às intervenções «Assistência técnica aos apicultores e organizações de apicultores», «Apoio à transumância» e «Melhoria da qualidade dos produtos apícolas»;\n\nb) A DGAV ou os serviços competentes das RA, relativamente às intervenções «Luta contra a varroose», «Análises de qualidade do mel ou outros produtos apícolas» e «Apoio à aquisição de rainhas autóctones selecionadas»;\n\nc) O INIAV, I. P., relativamente às intervenções «Combate à Vespa velutina (vespa asiática)» e «Apoio a projetos de investigação aplicada».\n\n4 - Compete às EA:\n\na) Analisar e instruir as candidaturas aos apoios previstos na presente portaria;\n\nb) Emitir parecer sobre as candidaturas apresentadas."
+  },
+  "211311765": {
+   "fragment_id": "211340784",
+   "type": 11,
+   "heading": "Artigo 57.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Apresentação das candidaturas\n\n1 - As candidaturas são submetidas eletronicamente através de formulário próprio disponível na plataforma iDigital, no sítio da Internet da DGADR, acompanhado dos documentos nele indicados.\n\n2 - As candidaturas são apresentadas anualmente e por intervenção.\n\n3 - O período de apresentação das candidaturas decorre de 15 de janeiro a 15 de fevereiro anterior ao início do ano apícola, salvo o disposto na alínea b) do n.º 1 e o n.º 2 do artigo 71.º\n\n4 - A DGADR disponibiliza as candidaturas admitidas às EA, no prazo de cinco dias úteis, após o termo dos prazos referidos no número anterior, para avaliação, parecer e subsequente comunicação à DGADR.\n\n5 - Os beneficiários devem apresentar em conjunto com o formulário referido no n.º 1, os documentos respetivos de cada intervenção referidos em OTE.\n\n> Nota: [Artigo 4.º, Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886) Em derrogação do disposto no n.º 3 do presente artigo, o período de apresentação das candidaturas, para o ano apícola 2026, decorre até dia 3 de março de 2025."
+  },
+  "211311766": {
+   "fragment_id": "211340785",
+   "type": 11,
+   "heading": "Artigo 58.º — Avaliação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Avaliação das candidaturas\n\n1 - As EA emitem parecer favorável ou desfavorável à aprovação das candidaturas e enviam-no à DGADR no prazo de 10 dias úteis, iniciados a contar da disponibilização das candidaturas, por parte da DGADR.\n\n2 - Para efeitos do número anterior, as EA aferem as condições de acesso dos beneficiários e os demais critérios de elegibilidade, estabelecendo os montantes a aprovar ou a excluir.\n\n3 - Sempre que se revele necessário, as EA notificam o candidato para, em prazo não superior a cinco dias úteis, e sob pena de rejeição da candidatura apresentada, juntar os documentos em falta ou prestar esclarecimentos complementares, suspendendo-se o prazo de avaliação até ao termo do prazo fixado na notificação.\n\n4 - No caso da intervenção «Apoio a projetos de investigação aplicada», o INIAV, I. P. comunica à DGADR as respetivas VGP, nomeadamente a fundamentação e as pontuações atribuídas para cada um dos fatores da fórmula previstos no n.º 2 do anexo IV da presente portaria, da qual faz parte integrante, avaliados de acordo com a grelha de pontuação definida no n.º 3 do referido anexo."
+  },
+  "211311767": {
+   "fragment_id": "211340786",
+   "type": 11,
+   "heading": "Artigo 59.º — Decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Decisão das candidaturas\n\n1 - Caso as candidaturas sejam objeto de parecer desfavorável emitido pela EA, a DGADR notifica os respetivos candidatos da intenção de não aprovação, no prazo de cinco dias úteis a contar da data de receção das candidaturas remetidas pelas EA.\n\n2 - Caso as candidaturas sejam objeto de parecer favorável, a DGADR procede ao apuramento do montante total elegível das candidaturas e aplica os critérios de gestão orçamental previstos no artigo seguinte.\n\n3 - Se da aplicação do disposto no artigo seguinte, resultar uma redução parcial dos valores propostos na candidatura, a DGADR notifica os candidatos para efeitos de pronúncia no prazo de cinco dias úteis, findo o qual, na ausência de pronúncia se considera aceite a redução.\n\n4 - A DGADR profere decisão sobre as candidaturas, dá conhecimento às EA e ao IFAP, I. P., e notifica os candidatos."
+  },
+  "211311768": {
+   "fragment_id": "211340787",
+   "type": 11,
+   "heading": "Artigo 60.º — Gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Gestão orçamental\n\n1 - A gestão orçamental é realizada, após decisão inicial das candidaturas, sem necessidade de alteração do PEPAC, conforme o artigo 101.º do Regulamento (UE) 2021/2115.\n\n2 - Para efeitos de reafetação orçamental, são consideradas prioritárias as intervenções, «Assistência técnica aos apicultores e organizações de apicultores» e «Luta contra a varroose», considerando-se as restantes intervenções como não prioritárias.\n\n3 - Caso o montante total de apoio elegível das candidaturas às intervenções prioritárias seja inferior ao orçamento disponível para essas intervenções, o montante remanescente é reafeto a essas candidaturas através de um aumento proporcional da taxa de apoio, até ao limite máximo de 90 %.\n\n4 - Caso o montante total de apoio elegível das candidaturas às intervenções não prioritárias seja inferior ao orçamento disponível para essas intervenções, o montante remanescente é reafeto às intervenções prioritárias, até ao limite máximo previsto no número anterior.\n\n5 - A reafetação prevista no número anterior é efetuada, em primeiro lugar, para a intervenção «Luta contra a varroose».\n\n6 - Quando o montante total de apoio elegível das candidaturas para uma determinada intervenção for inferior ao orçamento previsto e as intervenções prioritárias já se encontrem satisfeitas até aos limites previstos no n.º 3, o montante remanescente é reafeto às intervenções não prioritárias que estejam deficitárias, pela seguinte ordem de prioridade:\n\na) «Apoio à aquisição de rainhas autóctones selecionadas»;\n\nb) «Combate à Vespa velutina (vespa asiática)»;\n\nc) «Melhoria da qualidade dos produtos apícolas»;\n\nd) «Análise da qualidade do mel ou outros produtos apícolas»;\n\ne) «Apoio à transumância»;\n\nf) «Apoio a projetos de investigação aplicada».\n\n7 - Caso se verifique que foi excedido o orçamento global é efetuada uma redução proporcional do montante de apoio a atribuir no âmbito de cada intervenção.\n\n8 - A partir do ano de 2024, inclusive, os critérios de gestão orçamental previstos nos números anteriores podem ser alterados em OTE, após a apreciação e a consulta ao Grupo de Acompanhamento da Intervenção Setorial da Apicultura (GAISA), criado nos termos do artigo 67.º"
+  },
+  "211311769": {
+   "fragment_id": "211340788",
+   "type": 11,
+   "heading": "Artigo 61.º — Alteração das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Alteração das candidaturas\n\n1 - As candidaturas aprovadas podem ser modificadas uma única vez, através de um pedido anual, cuja entrega deve ser efetuada até 20 de maio do ano apícola a que respeita a candidatura, e desde que, cumulativamente:\n\na) A alteração seja apresentada antes da sua execução e não abranja despesa já submetida em pedido de pagamento;\n\nb) Não tenha existido qualquer notificação no âmbito do controlo da intervenção em causa;\n\nc) Não implique um aumento da ajuda inicialmente aprovada para a intervenção em causa.\n\n2 - Os pedidos de alteração a que se refere o número anterior são submetidos eletronicamente através de formulário próprio disponível no sítio da Internet da DGADR, acompanhado dos documentos nele indicados.\n\n3 - Os pedidos de alteração a que se refere o n.º 1 são imediatamente remetidos pela DGADR à respetiva EA, para análise e parecer vinculativo, a devolver à DGADR, no prazo de sete dias úteis.\n\n4 - O pedido de alteração não pode representar uma redução superior a 20 % do montante inicialmente aprovado.\n\n5 - O disposto na alínea a) do n.º 1 não é aplicável à intervenção «Assistência técnica aos apicultores e organizações de apicultores»."
+  },
+  "211311770": {
+   "fragment_id": "211340789",
+   "type": 11,
+   "heading": "Artigo 62.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Execução\n\nA execução material e financeira das candidaturas inicia-se a 1 de agosto do ano apícola em causa e deve estar concluída até 31 de julho desse mesmo ano apícola, salvo o disposto na alínea c) do n.º 1 do artigo 71.º"
+  },
+  "211311771": {
+   "fragment_id": "211340790",
+   "type": 11,
+   "heading": "Artigo 63.º — Apresentação, análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Apresentação, análise e decisão dos pedidos de pagamento\n\n1 - Os pedidos de pagamento são submetidos eletronicamente através de formulário próprio disponível no sítio da Internet do IFAP, I. P. acompanhados dos documentos previstos em OTE.\n\n2 - Os beneficiários comprometem-se a disponibilizar, nos prazos estabelecidos, todos os elementos complementares que venham a ser solicitados pelas entidades com competências para gestão e controlo, sob pena de exclusão liminar do pedido.\n\n3 - Os pedidos de pagamento reportam-se apenas às despesas efetivamente executadas e pagas, nos termos definidos para cada intervenção, quanto à forma, nível e limite do apoio.\n\n4 - No âmbito das intervenções da presente portaria, podem ser submetidos anualmente, no máximo, três pedidos de pagamento intermédios e um pedido final, até 7 de agosto do ano apícola seguinte ao ano a que respeita a execução da intervenção em causa.\n\n5 - No caso das intervenções a seguir indicadas, antes da apresentação do pedido de pagamento, os beneficiários devem comprovar a execução da candidatura, através de:\n\na) Prova da aquisição de meios de luta e respetiva distribuição aos apicultores, na intervenção «Luta contra a varroose»;\n\nb) Prova da aquisição das rainhas, na intervenção «Apoio à aquisição de rainhas autóctones selecionadas»;\n\nc) Apresentação do relatório anual de execução do projeto, tendo em consideração o previsto na alínea d) do n.º 1 e no n.º 2 do artigo 47.º, na intervenção «Apoio a projetos de investigação aplicada».\n\n6 - Os pedidos de pagamento relativos à intervenção «Melhoria da qualidade dos produtos apícolas» devem fazer-se acompanhar do relatório anual de execução do projeto, tendo em consideração o previsto na alínea c) do n.º 1 e no n.º 2 do artigo 54.º\n\n7 - Os pedidos de pagamento relativos à tipologia «Combate à Vespa velutina» devem fazer-se acompanhar de, pelo menos, 50 % das comunicações referidas na alínea b) do artigo 24.º\n\n8 - Os pedidos de pagamento relativos à intervenção «Apoio a projetos de investigação aplicada» são remetidos pelo IFAP, I. P., à EA a que se refere a alínea c) do n.º 3 do artigo 56.º, no prazo de cinco dias úteis a contar da sua receção, para análise e parecer, o qual é emitido e comunicado ao IFAP, I. P., no prazo de 10 dias úteis, contendo o detalhe do apuramento da taxa de realização, tendo em conta o cronograma de programação do projeto de investigação da candidatura aprovada.\n\n> Nota: [Artigo 3.º, Portaria n.º 139/2025/1 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/139-2025-912820668) A alteração ao presente artigo, produz efeitos a partir do ano apícola de 2025, inclusive."
+  },
+  "211311772": {
+   "fragment_id": "211340791",
+   "type": 11,
+   "heading": "Artigo 64.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Pagamento\n\nO IFAP, I. P. procede ao pagamento dos apoios nos termos do disposto no Regulamento (UE) 2021/2116."
+  },
+  "211311773": {
+   "fragment_id": "211340792",
+   "type": 11,
+   "heading": "Artigo 65.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Controlo\n\nAs candidaturas no âmbito das intervenções previstas na presente portaria estão sujeitas a controlos nos termos do Regulamento (UE) 2021/2116."
+  },
+  "211311774": {
+   "fragment_id": "211340793",
+   "type": 11,
+   "heading": "Artigo 66.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Reduções e exclusões\n\n1 - O incumprimento de qualquer obrigação prevista na presente portaria determina o não pagamento do apoio correspondente à respetiva intervenção, sem prejuízo da aplicação do disposto no Regulamento (UE) 2021/2116.\n\n2 - Quando o grau de execução financeira de uma intervenção for inferior a 50 %, o valor total do apoio é reduzido em 20 %.\n\n3 - O grau de execução financeira de cada intervenção corresponde à percentagem entre o montante do apoio apurado e o montante do apoio aprovado em candidatura ou em pedido modificado, se aplicável, e antes da aplicação de qualquer penalização prevista no número seguinte.\n\n4 - Sem prejuízo das regras estabelecidas no regulamento de candidatura, controlo e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P., para recuperação dos montantes indevidamente recebidos, quando o IFAP, I. P., após análise dos pedidos de pagamento e estabelecimento dos montantes elegíveis para apoio, verifique um desvio entre a ajuda pedida e a ajuda apurada, é aplicável o seguinte:\n\na) Caso o desvio seja inferior a 5 %, o pagamento é efetuado na totalidade da ajuda apurada;\n\nb) Caso o desvio se situe entre 5 % e 30 %, inclusivamente, é aplicada uma redução na ajuda apurada de valor igual à diferença detetada;\n\nc) Caso o desvio seja superior a 30 %, não há lugar a qualquer pagamento.\n\n> Nota: [Artigo 3.º, Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126) As alterações introduzidas pela Portaria n.º 317/2023, de 23 de outubro ao presente artigo produzem efeitos à data de início das candidaturas do PNASA do ano de 2024."
+  },
+  "211340875": {
+   "fragment_id": "211340794",
+   "type": 11,
+   "heading": "Artigo 67.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Acompanhamento\n\nÉ criado o GAISA, entidade de natureza consultiva a quem compete acompanhar a execução da intervenção setorial para os produtos da apicultura, cuja constituição é definida por despacho do membro do Governo responsável pela área da agricultura e da alimentação."
+  },
+  "211340876": {
+   "fragment_id": "211340795",
+   "type": 1,
+   "heading": "Capítulo IV — Indicadores, acompanhamento e comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Indicadores, acompanhamento e comunicações"
+  },
+  "211340877": {
+   "fragment_id": "211340796",
+   "type": 11,
+   "heading": "Artigo 68.º — Indicadores de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Indicadores de desempenho\n\n1 - A DGADR comunica ao GPP, até 31 de janeiro do ano seguinte à execução das candidaturas, os seguintes elementos:\n\na) Número de apicultores com assistência técnica;\n\nb) Número de colmeias objeto de transumância;\n\nc) Número de rainhas autóctones selecionadas adquiridas;\n\nd) Número total de análises anatomopatológicas de abelhas e de favos de criação efetuadas, identificando destas o número de análises positivas à varroose;\n\ne) Número total de análises de qualidade do mel ou outros produtos da colmeia, identificando destas o número de análises não conformes;\n\nf) Produção de mel por colmeia expressa em quilogramas;\n\ng) Produção de pólen expressa em quilogramas;\n\nh) Número de colmeias por apicultor;\n\ni) Quantidade de mel produzido certificado no âmbito de regimes de qualidade relativos a modo de produção biológico, denominação de origem protegida, indicação geográfica protegida e quantidade produzida de mel monofloral.\n\n2 - Os beneficiários comunicam à DGADR, de dois em dois anos, os seguintes dados correspondentes ao ano civil anterior ao ano da comunicação:\n\na) O intervalo de preços em euros para o mel multifloral no local de produção;\n\nb) O intervalo de preços em euros para o mel multifloral a granel nos grossistas;\n\nc) O custo médio de produção estimado em euros (fixo e variável) por quilograma de mel produzido.\n\n3 - Os beneficiários comunicam à DGADR, de dois em dois anos, os seguintes dados relativamente aos dois anos civis anteriores ao ano da comunicação:\n\na) A produção anual de mel, expressa em quilogramas;\n\nb) O rendimento médio anual estimado em quilogramas de mel por colmeia."
+  },
+  "211340878": {
+   "fragment_id": "211340797",
+   "type": 11,
+   "heading": "Artigo 69.º — Contributo para o desempenho do PEPAC Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Contributo para o desempenho do PEPAC Portugal\n\n1 - As presentes intervenções contribuem para o objetivo específico estabelecido na alínea f) do artigo 6.º do Regulamento (UE) 2021/2115, «Contribuir para travar e inverter a perda de biodiversidade, melhorar os serviços de ecossistema e preservar os habitats e as paisagens»;\n\n2 - Para efeito do cumprimento das metas dos indicadores de resultados estabelecidos no anexo I do Regulamento (UE) 2021/2115, relevam para o indicador «R.35 Preservação de colmeias» as seguintes intervenções:\n\na) «Luta contra a varroose»;\n\nb) «Combate à Vespa velutina (vespa asiática)»;\n\nc) «Apoio à transumância»;\n\nd) «Melhoria da qualidade dos produtos apícolas»."
+  },
+  "211340879": {
+   "fragment_id": "211340798",
+   "type": 11,
+   "heading": "Artigo 70.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Comunicações\n\n1 - Até ao dia 15 de fevereiro do ano seguinte ao da execução, as entidades a seguir indicadas, remetem ao GPP os seguintes elementos:\n\na) A DGADR remete o relatório anual sobre os resultados da análise das candidaturas às intervenções;\n\nb) O IFAP, I. P. remete relatório anual da execução financeira, por DRAP ou RA e por intervenção, com indicação do número de beneficiários, montantes solicitados, montantes pagos e todos os relatórios das auditorias que tenham sido efetuadas no âmbito das intervenções previstas na presente portaria.\n\n2 - O IFAP, I. P. remete, ainda, ao GPP, no final de cada ano civil, o relatório global sobre os resultados dos controlos realizados.\n\n3 - A DGAV e o INIAV, I. P. devem manter atualizadas anualmente as listas que servem de base para a operacionalização das intervenções previstas na presente portaria.\n\n4 - As uniões ou federações beneficiárias no âmbito da intervenção «Assistência técnica aos apicultores e organizações de apicultores» enviam à DGADR a listagem atualizada das suas associações, juntamente com o último pedido de pagamento."
+  },
+  "211340880": {
+   "fragment_id": "211340799",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "211340881": {
+   "fragment_id": "211340800",
+   "type": 11,
+   "heading": "Artigo 71.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Disposições transitórias\n\n1 - Em relação ao ano apícola de 2023 aplicam-se as seguintes disposições:\n\na) Em derrogação do disposto no artigo 3.º, o ano apícola de 2023, inicia-se a 1 de janeiro de 2023 e termina a 31 de julho de 2023;\n\nb) Em derrogação do disposto no n.º 3 do artigo 57.º, o período de apresentação das candidaturas inicia-se no dia seguinte à entrada em vigor da presente portaria e tem a duração de 15 dias úteis.\n\nc) Em derrogação do disposto no artigo 62.º, são admitidas as execuções e despesas elegíveis realizadas a partir de 1 de janeiro de 2023;\n\nd) Em derrogação do disposto nos n.os 3, 4 e 5 do artigo 5.º, são consideradas as colmeias afetas a apiários inscritos na candidatura que constem da declaração de existências do SNIRA, no período anual de declaração de existências que precede o período de apresentação das candidaturas, sem obrigatoriedade de indicação de uma entidade beneficiária na declaração de existências, devendo aplicar-se os seguintes critérios:\n\ni) Quando o apicultor seja associado de mais do que uma das entidades beneficiárias e estas pretendam apresentar candidatura à mesma intervenção, deve aquele garantir a não integração em candidaturas de entidades distintas, através de autorização expressa por escrito à entidade beneficiária cuja candidatura pretende integrar;\n\nii) Se o mesmo apicultor estiver incluído em candidaturas de duas ou mais entidades distintas, prevalece a candidatura para a qual exista a autorização referida na alínea anterior;\n\niii) Caso existam comprovativos de autorização relativos a mais do que uma entidade para o mesmo apicultor, este fica automaticamente excluído de todas as candidaturas para o ano em causa;\n\ne) Em derrogação do disposto na subalínea i) da alínea a) e na subalínea i) da alínea b), ambas do n.º 1 do artigo 17.º, no que respeita à intervenção «Luta contra a varroose», os beneficiários devem adquirir e distribuir medicamentos veterinários necessários à aplicação de um tratamento terapêutico e profilático da varroose às colmeias dos apicultores inscritos na candidatura e em derrogação do disposto no n.º 2 do artigo 18.º, os montantes relativos a «Colmeia fora de zona controlada» e «Colmeia em zona controlada» previstos no anexo III à presente portaria, da qual faz parte integrante, são reduzidos em 40 %;\n\nf) Em derrogação do disposto na alínea a) do n.º 1 do artigo 12.º, no que respeita à intervenção «Assistência técnica aos apicultores e às organizações de apicultores», os beneficiários devem realizar ações de divulgação ou demonstração técnica com a duração mínima total de quatro horas, no conjunto das ações, e com a participação total de pelo menos 25 % dos apicultores abrangidos pela candidatura;\n\ng) Em derrogação do disposto na alínea b) do n.º 1 do artigo 12.º, no que respeita à intervenção «Assistência técnica aos apicultores e às organizações de apicultores», os beneficiários devem garantir a visita de técnico, pelo menos, a um apiário de 45 % dos apicultores abrangidos pela candidatura, prestando apoio e acompanhamento nas atividades inerentes à atividade apícola;\n\nh) Em derrogação do disposto na alínea c) do n.º 1 do artigo 12.º, no que respeita à intervenção «Assistência técnica aos apicultores e às organizações de apicultores», os beneficiários devem garantir, no mínimo uma vez por ano, a visita de técnico, pelo menos, a 25 % dos estabelecimentos de extração e de processamento de mel e, pelo menos, a 25 % das UPP existentes à data de abertura do período da candidatura;\n\ni) Em derrogação do disposto na alínea a) do n.º 2 do artigo 12.º, no que respeita à intervenção «Assistência técnica aos apicultores e às organizações de apicultores», os beneficiários devem assegurar a realização de, no mínimo, uma ação de formação e de divulgação para os técnicos abrangidos pela candidatura, com a duração mínima de quatro horas.\n\n2 - Em relação ao ano apícola de 2024 aplicam-se as seguintes disposições:\n\na) Em derrogação do disposto no n.º 3 do artigo 57.º, o prazo de apresentação de candidaturas decorre de 1 de maio a 31 de maio de 2023;\n\nb) Em derrogação do disposto nos n.os 3, 4 e 5 do artigo 5.º, são consideradas as colmeias afetas a apiários inscritos na candidatura que constem da declaração de existências do SNIRA, no período anual de declaração de existências que precede o período de apresentação das candidaturas, sem obrigatoriedade de indicação de uma entidade beneficiária na declaração de existências, devendo aplicar-se os seguintes critérios:\n\ni) Quando o apicultor seja associado de mais do que uma das entidades beneficiárias e estas pretendam apresentar candidatura à mesma intervenção, deve aquele garantir a não integração em candidaturas de entidades distintas, através de autorização expressa por escrito à entidade beneficiária cuja candidatura pretende integrar;\n\nii) Se o mesmo apicultor estiver incluído em candidaturas de duas ou mais entidades distintas, prevalece a candidatura para a qual exista a autorização referida na alínea anterior;\n\niii) Caso existam comprovativos de autorização relativos a mais do que uma entidade para o mesmo apicultor, este fica automaticamente excluído de todas as candidaturas para o ano em causa."
+  },
+  "211340882": {
+   "fragment_id": "211340801",
+   "type": 11,
+   "heading": "Artigo 72.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2023."
+  },
+  "211340884": {
+   "fragment_id": "211340803",
+   "type": 14,
+   "heading": "Anexo I — Dotação orçamental global para as intervenções setoriais dos produtos da apicultura do PEPAC relativa aos anos apícolas 2023, 2024, 2025, 2026 e 2027",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Dotação orçamental global para as intervenções setoriais dos produtos da apicultura do PEPAC relativa aos anos apícolas 2023, 2024, 2025, 2026 e 2027\n\n(a que se refere o artigo 7.º)\n\n(ver documento original)"
+  },
+  "211340885": {
+   "fragment_id": "211340804",
+   "type": 14,
+   "heading": "Anexo II — Níveis de afetação do técnico - Intervenção, «assistência técnica aos apicultores e organizações de apicultores»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Níveis de afetação do técnico - Intervenção, «assistência técnica aos apicultores e organizações de apicultores»\n\n(a que se refere os n.os 1 e 4 do artigo 11.º)\n\n(ver documento original)"
+  },
+  "211340886": {
+   "fragment_id": "211340805",
+   "type": 14,
+   "heading": "Anexo III — Montantes sobre os quais incide a taxa de apoio à intervenção, «Luta contra a varroose»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Montantes sobre os quais incide a taxa de apoio à intervenção, «Luta contra a varroose»\n\n(a que se refere o n.º 2 do artigo 18.º)\n\n(ver documento original)"
+  },
+  "211340887": {
+   "fragment_id": "211340806",
+   "type": 14,
+   "heading": "Anexo IV — Hierarquização das candidaturas à intervenção, «Apoio a projetos de investigação aplicada»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Hierarquização das candidaturas à intervenção, «Apoio a projetos de investigação aplicada»\n\n(a que se refere o n.º 1 do artigo 48.º e n.º 4 do artigo 58.º)\n\n1 - A hierarquização das candidaturas à intervenção «Apoio a projetos de investigação aplicada» é efetuada em função da respetiva VGP, calculada através da seguinte fórmula (arredondamento à centésima):\n\nVGP = 0,10 PA + 0,15 I + 0,20 U + 0,25 MO + 0,30 D\n\n2 - Na fórmula prevista no número anterior:\n\na) PA, valoriza a continuidade dada a temas do programa apícola nacional do triénio anterior;\n\nb) I, valoriza a interligação entre equipas e objetivos de investigação de outros projetos;\n\nc) U, valoriza a utilidade, exequibilidade e adequação do projeto;\n\nd) MO, valoriza o mérito científico e originalidade da equipa e a inclusão de jovens cientistas;\n\ne) D, valoriza a produção de documentação para divulgação aos apicultores.\n\n3 - Cada fator definido nas alíneas a) a e) do número anterior é pontuado de um a cinco, de acordo com a grelha de pontuação definida para cada coeficiente pela entidade avaliadora.\n\n> Nota: [Artigo 4.º, Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886) A alteração introduzida à alínea a) do n.º 2 do presente anexo produz efeitos a partir do ano apícola 2026, inclusive."
+  },
+  "211340888": {
+   "fragment_id": "211340807",
+   "type": 14,
+   "heading": "Anexo V — Montantes do apoio à intervenção, «Apoio a projetos de investigação aplicada»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Montantes do apoio à intervenção, «Apoio a projetos de investigação aplicada»\n\n(a que se refere o artigo 49.º)\n\n(ver documento original)\n\n116206929"
+  },
+  "211340889": {
+   "fragment_id": "211313618",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 10/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2023-211241818), produz efeitos a partir de 2023-02-28"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as regras nacionais complementares do domínio 'B.2 - Programa Nacional para apoio ao setor da apicultura» do eixo «B - Abordagem sectorial integrada» do Plano Estratégico da Política Agrícola Comum, para Portugal (PEPAC Portugal), nos termos do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, do Regulamento Delegado (UE) 2022/126, da Comissão e do Regulamento de Execução (UE) 2022/1475, da Comissão.\n\n> Alterado pelo/a [Declaração de Retificação n.º 10/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2023-211241818), produz efeitos a partir de 2023-02-28"
+  },
+  "223574012": {
+   "fragment_id": "211313671",
+   "type": 11,
+   "heading": "Artigo 46.º — Atividades elegíveis",
+   "in_force_from": "2023-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126), em vigor a partir de 2023-10-24"
+   ],
+   "markdown": "###### Artigo 46.º — Atividades elegíveis\n\n1 - São elegíveis as atividades de investigação e desenvolvimento a realizar pelas parcerias no âmbito da execução de projetos de investigação aplicada, nas temáticas incluídas na 'Agenda Nacional de Investigação e Inovação em Apicultura e Biodiversidade' do Centro de Competências da Apicultura e Biodiversidade (CCAB).\n\n2 - São ainda elegíveis as atividades de divulgação e de disseminação dos resultados dos projetos de investigação aplicada, executadas quer pelos beneficiários, quer por qualquer dos parceiros.\n\n> Nota: [Artigo 3.º, Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126) As alterações introduzidas pela Portaria n.º 317/2023, de 23 de outubro ao presente artigo produzem efeitos à data de início das candidaturas do PNASA do ano de 2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126), em vigor a partir de 2023-10-24"
+  },
+  "223574013": {
+   "fragment_id": "211313674",
+   "type": 11,
+   "heading": "Artigo 49.º — Forma, montante, nível e limites do apoio",
+   "in_force_from": "2023-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126), em vigor a partir de 2023-10-24"
+   ],
+   "markdown": "###### Artigo 49.º — Forma, montante, nível e limites do apoio\n\nO apoio à intervenção prevista na presente secção assume a forma de montante fixo por projeto, conforme tabela constante no anexo v da presente portaria, da qual faz parte integrante, e em função da VGP, calculada nos termos definidos no artigo anterior.\n\n> Nota: [Artigo 3.º, Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126) As alterações introduzidas pela Portaria n.º 317/2023, de 23 de outubro ao presente artigo produzem efeitos à data de início das candidaturas do PNASA do ano de 2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126), em vigor a partir de 2023-10-24"
+  },
+  "211340890": {
+   "fragment_id": "211340784",
+   "type": 11,
+   "heading": "Artigo 57.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 10/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2023-211241818), produz efeitos a partir de 2023-02-28"
+   ],
+   "markdown": "###### Artigo 57.º — Apresentação das candidaturas\n\n1 - As candidaturas são submetidas através de formulário próprio disponível no sítio da Internet da DGADR, acompanhado dos documentos nele indicados.\n\n2 - As candidaturas são apresentadas anualmente e por intervenção.\n\n3 - O período de apresentação das candidaturas decorre de 15 de janeiro a 15 de fevereiro anterior ao início do ano apícola, salvo o disposto na alínea b) do n.º 1 e o n.º 2 do artigo 71.º\n\n4 - A DGADR disponibiliza as candidaturas admitidas às EA, no prazo de cinco dias úteis, após o termo dos prazos referidos no número anterior, para avaliação, parecer e subsequente comunicação à DGADR.\n\n5 - Os beneficiários devem apresentar em conjunto com o formulário referido no n.º 1, os documentos respetivos de cada intervenção referidos em OTE.\n\n> Alterado pelo/a [Declaração de Retificação n.º 10/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2023-211241818), produz efeitos a partir de 2023-02-28"
+  },
+  "223574014": {
+   "fragment_id": "211340793",
+   "type": 11,
+   "heading": "Artigo 66.º — Reduções e exclusões",
+   "in_force_from": "2023-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126), em vigor a partir de 2023-10-24"
+   ],
+   "markdown": "###### Artigo 66.º — Reduções e exclusões\n\n1 - O incumprimento de qualquer obrigação prevista na presente portaria determina o não pagamento do apoio correspondente à respetiva intervenção, sem prejuízo da aplicação do disposto no Regulamento (UE) 2021/2116.\n\n2 - Quando o grau de execução financeira de uma intervenção for inferior a 50 %, o valor total do apoio é reduzido em 20 %.\n\n3 - O grau de execução financeira de cada intervenção referido no número anterior corresponde à percentagem entre o montante do pedido de pagamento apresentado e o montante do apoio aprovado em candidatura ou em pedido modificado, se aplicável.\n\n4 - Sem prejuízo das regras estabelecidas no regulamento de candidatura, controlo e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P., para recuperação dos montantes indevidamente recebidos, quando o IFAP, I. P., após análise dos pedidos de pagamento e estabelecimento dos montantes elegíveis para apoio, verifique um desvio entre a ajuda apresentada a pagamento e a ajuda apurada, é aplicável o seguinte:\n\na) Caso o desvio seja inferior a 5 %, o pagamento é efetuado na totalidade da ajuda apurada;\n\nb) Caso o desvio se situe entre 5 % e 30 %, inclusivamente, é aplicada uma redução na ajuda apurada de valor igual à diferença detetada;\n\nc) Caso o desvio seja superior a 30 %, não há lugar a qualquer pagamento.\n\n> Nota: [Artigo 3.º, Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126) As alterações introduzidas pela Portaria n.º 317/2023, de 23 de outubro ao presente artigo produzem efeitos à data de início das candidaturas do PNASA do ano de 2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126), em vigor a partir de 2023-10-24"
+  },
+  "211340891": {
+   "fragment_id": "211340800",
+   "type": 11,
+   "heading": "Artigo 71.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 10/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2023-211241818), produz efeitos a partir de 2023-02-28"
+   ],
+   "markdown": "###### Artigo 71.º — Disposições transitórias\n\n1 - Em relação ao ano apícola de 2023 aplicam-se as seguintes disposições:\n\na) Em derrogação do disposto no artigo 3.º, o ano apícola de 2023, inicia-se a 1 de janeiro de 2023 e termina a 31 de julho de 2023;\n\nb) Em derrogação do disposto no n.º 3 do artigo 57.º, o período de apresentação das candidaturas inicia-se no dia seguinte à entrada em vigor da presente portaria e tem a duração de 25 dias úteis;\n\nc) Em derrogação do disposto no artigo 62.º, são admitidas as execuções e despesas elegíveis realizadas a partir de 1 de janeiro de 2023;\n\nd) Em derrogação do disposto nos n.os 3, 4 e 5 do artigo 5.º, são consideradas as colmeias afetas a apiários inscritos na candidatura que constem da declaração de existências do SNIRA, no período anual de declaração de existências que precede o período de apresentação das candidaturas, sem obrigatoriedade de indicação de uma entidade beneficiária na declaração de existências, devendo aplicar-se os seguintes critérios:\n\ni) Quando o apicultor seja associado de mais do que uma das entidades beneficiárias e estas pretendam apresentar candidatura à mesma intervenção, deve aquele garantir a não integração em candidaturas de entidades distintas, através de autorização expressa por escrito à entidade beneficiária cuja candidatura pretende integrar;\n\nii) Se o mesmo apicultor estiver incluído em candidaturas de duas ou mais entidades distintas, prevalece a candidatura para a qual exista a autorização referida na alínea anterior;\n\niii) Caso existam comprovativos de autorização relativos a mais do que uma entidade para o mesmo apicultor, este fica automaticamente excluído de todas as candidaturas para o ano em causa;\n\ne) Em derrogação do disposto na subalínea i) da alínea a) e na subalínea i) da alínea b), ambas do n.º 1 do artigo 17.º, no que respeita à intervenção «Luta contra a varroose», os beneficiários devem adquirir e distribuir medicamentos veterinários necessários à aplicação de um tratamento terapêutico e profilático da varroose às colmeias dos apicultores inscritos na candidatura e em derrogação do disposto no n.º 2 do artigo 18.º, os montantes relativos a «Colmeia fora de zona controlada» e «Colmeia em zona controlada» previstos no anexo III à presente portaria, da qual faz parte integrante, são reduzidos em 40 %;\n\nf) Em derrogação do disposto na alínea a) do n.º 1 do artigo 12.º, no que respeita à intervenção «Assistência técnica aos apicultores e às organizações de apicultores», os beneficiários devem realizar ações de divulgação ou demonstração técnica com a duração mínima total de quatro horas, no conjunto das ações, e com a participação total de pelo menos 25 % dos apicultores abrangidos pela candidatura;\n\ng) Em derrogação do disposto na alínea b) do n.º 1 do artigo 12.º, no que respeita à intervenção «Assistência técnica aos apicultores e às organizações de apicultores», os beneficiários devem garantir a visita de técnico, pelo menos, a um apiário de 45 % dos apicultores abrangidos pela candidatura, prestando apoio e acompanhamento nas atividades inerentes à atividade apícola;\n\nh) Em derrogação do disposto na alínea c) do n.º 1 do artigo 12.º, no que respeita à intervenção «Assistência técnica aos apicultores e às organizações de apicultores», os beneficiários devem garantir, no mínimo uma vez por ano, a visita de técnico, pelo menos, a 25 % dos estabelecimentos de extração e de processamento de mel e, pelo menos, a 25 % das UPP existentes à data de abertura do período da candidatura;\n\ni) Em derrogação do disposto na alínea a) do n.º 2 do artigo 12.º, no que respeita à intervenção «Assistência técnica aos apicultores e às organizações de apicultores», os beneficiários devem assegurar a realização de, no mínimo, uma ação de formação e de divulgação para os técnicos abrangidos pela candidatura, com a duração mínima de quatro horas.\n\n2 - Em relação ao ano apícola de 2024 aplicam-se as seguintes disposições:\n\na) Em derrogação do disposto no n.º 3 do artigo 57.º, o prazo de apresentação de candidaturas decorre de 1 de maio a 31 de maio de 2023;\n\nb) Em derrogação do disposto nos n.os 3, 4 e 5 do artigo 5.º, são consideradas as colmeias afetas a apiários inscritos na candidatura que constem da declaração de existências do SNIRA, no período anual de declaração de existências que precede o período de apresentação das candidaturas, sem obrigatoriedade de indicação de uma entidade beneficiária na declaração de existências, devendo aplicar-se os seguintes critérios:\n\ni) Quando o apicultor seja associado de mais do que uma das entidades beneficiárias e estas pretendam apresentar candidatura à mesma intervenção, deve aquele garantir a não integração em candidaturas de entidades distintas, através de autorização expressa por escrito à entidade beneficiária cuja candidatura pretende integrar;\n\nii) Se o mesmo apicultor estiver incluído em candidaturas de duas ou mais entidades distintas, prevalece a candidatura para a qual exista a autorização referida na alínea anterior;\n\niii) Caso existam comprovativos de autorização relativos a mais do que uma entidade para o mesmo apicultor, este fica automaticamente excluído de todas as candidaturas para o ano em causa.\n\n> Alterado pelo/a [Declaração de Retificação n.º 10/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2023-211241818), produz efeitos a partir de 2023-02-28"
+  },
+  "211340883": {
+   "fragment_id": "211340802",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023."
+  },
+  "900887313": {
+   "fragment_id": "211313621",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos da presente portaria, entende-se por:\n\na) «Centro de competências da apicultura e da biodiversidade», o espaço de discussão, partilha e de articulação de conhecimentos, capacidades e competências, que agrega os operadores da fileira apícola, tanto da produção como da indústria, com os agentes da investigação, da divulgação e da transferência de conhecimento, potenciando a sua colaboração, com a missão de promover o desenvolvimento sustentável e competitivo da fileira apícola nacional, nas vertentes socioeconómica, formativa, técnica e ambiental;\n\nb) Centro de criação de rainhas», a entidade aprovada pela Direção-Geral de Alimentação e Veterinária (DGAV) para a criação de rainhas, detentora de um sistema cientificamente credível de criação de rainhas fecundadas de raças autóctones;\n\nc) «Colmeia», o suporte físico que contém uma colónia de abelhas melíferas utilizadas para a produção de mel, outros produtos apícolas ou materiais de reprodução de abelhas melíferas, bem como todos os elementos necessários para a sua sobrevivência;\n\nd) «Declaração de existências», a declaração a que se refere o n.º 3 do artigo 3.º do Decreto-Lei n.º 203/2005, de 25 de novembro, ou a legislação regional aplicável, a realizar no período de 1 a 30 de setembro de cada ano, através da aplicação do Sistema Nacional de Informação e Registo Animal (SNIRA)/iDigital, diretamente pelo apicultor, no sítio da Internet do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em qualquer serviço regional ou local da DGAV ou nas entidades protocoladas com o IFAP, I. P., para o efeito;\n\ne) «Entidades gestoras de zonas controladas (EGZC)», as organizações de apicultores reconhecidas pela DGAV ou pela entidade competente das Regiões Autónomas, ao abrigo do Decreto-Lei n.º 203/2005, de 25 de novembro, ou a legislação regional aplicável, com obrigações próprias a nível sanitário, que desenvolvem ações de profilaxia sanitária em zonas controladas;\n\nf) «Estabelecimentos de extração e de processamento de mel», os locais de extração e processamento de mel ou de outros produtos apícolas, com destino à introdução no mercado conforme estabelecido no Decreto-Lei n.º 1/2007, de 2 de janeiro, ou na legislação regional aplicável;\n\ng) «Laboratórios aprovados pela DGAV», os locais reconhecidos pela DGAV para a realização de análises anatomopatológicas de abelhas, de favos e de cartolinas, de acordo com o Programa Sanitário Apícola, divulgados nos sítios da Internet da Direção-Geral da Agricultura e Desenvolvimento Rural (DGADR), DGAV, do Gabinete de Planeamento, Políticas e Administração Geral (GPP) e do IFAP, I. P.;\n\nh) «Plano de ação para a vigilância e controlo da Vespa velutina em Portugal», a estratégia de nível nacional elaborada conjuntamente pela DGAV e pelo Instituto da Conservação da Natureza Florestas, I. P., com o contributo do Instituto Nacional de Investigação Agrária e Veterinária, I. P. (INIAV, I. P.), revista em 2018 e implementada pela Comissão de Acompanhamento para a Vigilância, Prevenção e Controlo da Vespa velutina (CVV), criada pelo Despacho n.º 8813/2017, de 29 de setembro, publicado no Diário da República, 2.ª série, de 6 de outubro de 2017, com o objetivo de enquadrar a atuação nacional face ao estabelecimento e disseminação da vespa asiática em Portugal (Vespa velutina), com vista à prevenção, vigilância e controlo da Vespa velutina em território nacional, promovendo a segurança dos cidadãos, a proteção da atividade agrícola e do efetivo apícola, bem como a minimização dos impactos sobre a biodiversidade;\n\ni) «Plano de luta contra a varroose», o plano elaborado pela DGAV ou pelas entidades competentes das Regiões Autónomas, com o objetivo de constituir uma ferramenta de apoio para os apicultores e as suas organizações na luta contra a varroose no território nacional, que tem em consideração a metodologia proposta para a intervenção setorial dos produtos da apicultura para o quinquénio 2023-2027;\n\nj) «Produtos apícolas», o mel natural, a geleia real e o pólen, comestíveis ou impróprios para alimentação humana, o própolis e a cera de abelhas;\n\nk) «Programa sanitário apícola», o programa anual elaborado pelos serviços competentes, que estabelece as medidas de sanidade veterinária para defesa no território nacional das doenças das abelhas, bem como os requisitos a que devem obedecer as zonas controladas;\n\nl) ‘Unidades de Produção Primária (UPP)’, os locais de extração e processamento de mel ou de outros produtos apícolas provenientes da exploração do próprio apicultor, com destino a estabelecimento de extração e de processamento de mel, ou a venda ou cedência, a qualquer título, ao consumidor final ou ao comércio a retalho local, nos limites do distrito de implantação da unidade, ou em representações temporárias de produtos regionais, até à quantidade máxima definida na Portaria n.º 74/2014, de 20 de março;\n\nm) «Zona controlada», a área geográfica reconhecida pela DGAV, que cumpre os requisitos previstos no Decreto-Lei n.º 203/2005, de 25 de novembro, ou na legislação regional aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887314": {
+   "fragment_id": "211313622",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem ser beneficiários dos apoios previstos na presente portaria, de acordo com as condições específicas de cada intervenção:\n\na) As organizações de produtores (OP) reconhecidas para o setor do mel, nos termos da Portaria n.º 298/2019, de 9 de setembro;\n\nb) As associações e cooperativas de apicultores, dotadas de personalidade jurídica, com atividade apícola prevista nos respetivos estatutos, desde que os apicultores abrangidos pela candidatura obedeçam ao regime jurídico estabelecido pelo Decreto-Lei n.º 203/2005;\n\nc) As uniões, federações ou confederações das entidades referidas na alínea anterior, com atividade apícola prevista nos respetivos estatutos ou nos estatutos de alguma das suas associadas.\n\n2 - O disposto no número anterior aplica-se nas Regiões Autónomas (RA) com as necessárias adaptações.\n\n3 - Apenas podem ser abrangidos na candidatura, os apicultores que identifiquem, na declaração de existências, para cada apiário que detêm, qual a respetiva entidade beneficiária a que estão associados para efeitos de candidatura às intervenções previstas na presente portaria.\n\n4 - Caso o apiário esteja localizado em zona controlada por uma EGZC, o apicultor pode indicar essa entidade, mesmo não sendo seu associado.\n\n5 - Para efeitos dos n.os 3 e 4, apenas se consideram as colmeias afetas a apiários inscritos que constem da declaração de existências do Sistema Nacional de Identificação, Registo e Movimentação Animal (SNIRA), no período anual de declaração de existências que precede o período de apresentação das candidaturas e respetivas alterações registadas até ao dia anterior ao início do período das candidaturas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887315": {
+   "fragment_id": "211313630",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas elegíveis",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 11.º — Despesas elegíveis\n\n1 - São elegíveis as despesas de remuneração, nos termos do Código do Trabalho publicado em anexo à Lei n.º 7/2009, de 12 de fevereiro, e os respetivos encargos sociais, dos técnicos a afetar à assistência técnica aos apicultores, de acordo com os limites de tempo de afetação máximo previstos no anexo II à presente portaria, da qual faz parte integrante.\n\n2 - Para efeitos do disposto no número anterior, é considerada a remuneração base mensal acrescida dos encargos obrigatórios da entidade empregadora, decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho, e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas no recibo de vencimento e na contabilidade da entidade empregadora que integrem a remuneração.\n\n3 - O valor a imputar anualmente corresponde à remuneração anual que o trabalhador tenha direito por força da sua relação laboral com a entidade empregadora e em função da taxa de afetação à assistência técnica aos apicultores.\n\n4 - A despesa elegível é estabelecida com base no tempo de trabalho dedicado pelo técnico previsto no contrato referido na alínea a) do n.º 1 no artigo 10.º, até ao valor máximo necessário para garantir a assistência ao número de colmeias inseridas na candidatura do beneficiário, conforme previsto na tabela constante do anexo II da presente portaria, da qual faz parte integrante.\n\n5 - O limite máximo anual de despesa elegível para efeitos de apoio relativo a um técnico a tempo completo é de € 40 013,38.\n\n6 - Não são elegíveis as despesas relativas a prémios, multas, coimas, sanções financeiras ou juros, encargos não obrigatórios com os técnicos afetos à intervenção, compensações pela caducidade do contrato de trabalho ou indemnizações por cessação do contrato de trabalho de pessoal afeto à intervenção, bem como as entregas relativas ao Fundo de Compensação do Trabalho.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887316": {
+   "fragment_id": "211313635",
+   "type": 11,
+   "heading": "Artigo 15.º — Beneficiários",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 15.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas alínea a) do n.º 1 do artigo 5.º;\n\nb) As associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º\n\n2 - Caso os beneficiários referidos no número anterior assumam a qualidade de EGZC, podem inscrever na candidatura à intervenção, todos os apicultores, cujos apiários estejam localizados na respetiva zona controlada e que tenham indicado na declaração de existências essa entidade como beneficiária.\n\n3 - Para efeitos do número anterior, os beneficiários que se assumam como EGZC não podem anular essa qualidade durante o ano apícola a que se refere a candidatura.\n\n4 - Na Região Autónoma da Madeira (RAM), pode ainda beneficiar da intervenção prevista na presente secção, a Secretaria Regional de Agricultura e Desenvolvimento Rural.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887317": {
+   "fragment_id": "211313636",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de elegibilidade",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 16.º — Critérios de elegibilidade\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção os beneficiários que detenham um técnico responsável para efeitos de assistência ao apicultor no domínio da sanidade apícola, nomeadamente no que respeita a:\n\na) Distribuição de medicamentos veterinários autorizados pela DGAV;\n\nb) Recolha de amostras para análise anatomopatológica de abelhas, de favos e de cartolinas;\n\nc) Acompanhamento da substituição de ceras e da limpeza de estrados, por parte dos apicultores.\n\n2 - Para efeitos da aplicação do número anterior, o técnico responsável deve preencher os requisitos previstos no n.º 2 do artigo 10.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887318": {
+   "fragment_id": "211313666",
+   "type": 11,
+   "heading": "Artigo 42.º — Forma, nível e limites do apoio",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 42.º — Forma, nível e limites do apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de custo unitário, com um valor de € 10 por rainha.\n\n2 - O número máximo de rainhas apoiadas por beneficiário é limitado ao número equivalente a metade das colmeias da candidatura até ao limite máximo de apoio de (euro) 3.000.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887319": {
+   "fragment_id": "211313669",
+   "type": 11,
+   "heading": "Artigo 44.º — Beneficiários",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 44.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas na alínea a) do n.º 1 do artigo 5.º;\n\nb) As associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º;\n\nc) As uniões e federações referidas na alínea c) do n.º 1 do artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887320": {
+   "fragment_id": "211313670",
+   "type": 11,
+   "heading": "Artigo 45.º — Critérios de elegibilidade",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 45.º — Critérios de elegibilidade\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção os beneficiários previstos no artigo anterior que:\n\na) Assumam a qualidade de entidade gestora da parceria formalizada através de um acordo de parceria estabelecido com organismos públicos que disponham de centros de investigação aplicada ou entidades não empresariais do Sistema de I&I (ENESII);\n\nb) Apresentem projetos de investigação instruídos com a memória descritiva do projeto de investigação, o cronograma e mapa de programação do projeto de investigação anualizado com definição de atividades a desenvolver e as metas a atingir anualmente e a previsão da apresentação e divulgação de resultados de cada ano do projeto.\n\n2 - O INIAV, I. P. não pode ser entidade parceira para efeitos da alínea a) do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887321": {
+   "fragment_id": "211313673",
+   "type": 11,
+   "heading": "Artigo 48.º — Hierarquização dos projetos",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 48.º — Hierarquização dos projetos\n\n1 - Os projetos apresentados nas candidaturas à intervenção prevista na presente secção são hierarquizados pelo INIAV, I. P., na qualidade de entidade avaliadora (EA), por ordem decrescente em função da respetiva valia global do projeto (VGP), calculada através da fórmula prevista no anexo iv da presente portaria, da qual faz parte integrante, até ao limite orçamental definido.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887322": {
+   "fragment_id": "211340778",
+   "type": 11,
+   "heading": "Artigo 52.º — Critérios de elegibilidade",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 52.º — Critérios de elegibilidade\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção os beneficiários previstos no número anterior que apresentem projetos de implementação de novos estabelecimentos de extração e processamento de produtos apícolas, ou de melhoria e requalificação deste tipo de estabelecimentos existentes.\n\n2 - Para efeitos do número anterior, os projetos devem pressupor a qualidade dos produtos apícolas, através da certificação no âmbito de regimes de qualidade relativos a modo de produção biológico, denominação de origem protegida, indicação geográfica protegida ou produção de méis monoflorais.\n\n3 - Os projetos devem ser instruídos a memória descritiva, cronograma e mapa de programação anualizado com definição de investimento e despesa prevista anualmente.\n\n4 - Os candidatos devem deter estabelecimentos de extração e processamento de produtos apícolas, aprovados nos termos do Decreto-Lei n.º 1/2007, de 2 de janeiro, ou da legislação regional aplicável, ou apresentar comprovativo da submissão do pedido de licenciamento dos novos estabelecimentos de extração e processamento de produtos apícolas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887323": {
+   "fragment_id": "211340788",
+   "type": 11,
+   "heading": "Artigo 61.º — Alteração das candidaturas",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 61.º — Alteração das candidaturas\n\n1 - As candidaturas aprovadas podem ser modificadas uma única vez, através de um pedido anual, cuja entrega deve ser efetuada até 20 de maio do ano apícola a que respeita a candidatura, e desde que, cumulativamente:\n\na) A alteração seja apresentada antes da sua execução e não abranja despesa já submetida em pedido de pagamento;\n\nb) Não tenha existido qualquer notificação no âmbito do controlo da intervenção em causa;\n\nc) Não implique um aumento da ajuda inicialmente aprovada para a intervenção em causa.\n\n2 - Os pedidos de alteração a que se refere o número anterior são submetidos eletronicamente através de formulário próprio disponível no sítio da Internet da DGADR, acompanhado dos documentos nele indicados.\n\n3 - Os pedidos de alteração a que se refere o n.º 1 são imediatamente remetidos pela DGADR à respetiva EA, para análise e parecer, a devolver à DGADR, no prazo de sete dias úteis.\n\n4 - O pedido de alteração não pode representar uma redução superior a 20 % do montante inicialmente aprovado.\n\n5 - O disposto na alínea a) do n.º 1 não é aplicável à intervenção «Assistência técnica aos apicultores e organizações de apicultores.»\n\n6 - Os pedidos de alteração serão ajustados em conformidade com a declaração de existências que precede ao ano apícola a que respeita a candidatura, incluindo as respetivas alterações efetuadas até à apresentação do pedido.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887324": {
+   "fragment_id": "211340790",
+   "type": 11,
+   "heading": "Artigo 63.º — Apresentação, análise e decisão dos pedidos de pagamento",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 63.º — Apresentação, análise e decisão dos pedidos de pagamento\n\n1 - Os pedidos de pagamento são submetidos eletronicamente através de formulário próprio disponível no sítio da Internet do IFAP, I. P. acompanhados dos documentos previstos em OTE.\n\n2 - Os beneficiários comprometem-se a disponibilizar, nos prazos estabelecidos, todos os elementos complementares que venham a ser solicitados pelas entidades com competências para gestão e controlo, sob pena de exclusão liminar do pedido.\n\n3 - Os pedidos de pagamento reportam-se apenas às despesas efetivamente executadas e pagas, nos termos definidos para cada intervenção, quanto à forma, nível e limite do apoio.\n\n4 - No âmbito das intervenções da presente portaria, podem ser submetidos anualmente, no máximo, três pedidos de pagamento intermédios e um pedido final, até 7 de agosto do ano apícola seguinte ao ano a que respeita a execução da intervenção em causa.\n\n5 - No caso das intervenções a seguir indicadas, antes da apresentação do pedido de pagamento, os beneficiários devem comprovar a execução da candidatura, através de:\n\na) Prova da aquisição de meios de luta e respetiva distribuição aos apicultores, na intervenção «Luta contra a varroose»;\n\nb) Prova da aquisição das rainhas, na intervenção «Apoio à aquisição de rainhas autóctones selecionadas»;\n\nc) Apresentação do relatório anual de execução do projeto, tendo em consideração o previsto na alínea d) do n.º 1 e no n.º 2 do artigo 47.º, na intervenção «Apoio a projetos de investigação aplicada».\n\n6 - Os pedidos de pagamento relativos à intervenção ‘Melhoria da qualidade dos produtos apícolas’ devem fazer-se acompanhar do relatório anual de execução do projeto, tendo em consideração o previsto na alínea c) do n.º 1 e no n.º 2 do artigo 54.º, ou do comprovativo do licenciamento no caso dos novos estabelecimentos.\n\n7 - Os pedidos de pagamento relativos à tipologia «Combate à Vespa velutina» devem fazer-se acompanhar de, pelo menos, 50 % das comunicações referidas na alínea b) do artigo 24.º\n\n8 - Os pedidos de pagamento relativos à intervenção «Apoio a projetos de investigação aplicada» são remetidos pelo IFAP, I. P., à EA a que se refere a alínea c) do n.º 3 do artigo 56.º, no prazo de cinco dias úteis a contar da sua receção, para análise e parecer, o qual é emitido e comunicado ao IFAP, I. P., no prazo de 10 dias úteis, contendo o detalhe do apuramento da taxa de realização, tendo em conta o cronograma de programação do projeto de investigação da candidatura aprovada.\n\n9 - Os pedidos de pagamento devem ter por base a declaração de existências dos apicultores que integraram a candidatura aprovada, relativas ao ano que precede a apresentação desse pedido, incluindo as respetivas alterações efetuadas até à respetiva submissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887325": {
+   "fragment_id": "211340793",
+   "type": 11,
+   "heading": "Artigo 66.º — Reduções e exclusões",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126), em vigor a partir de 2023-10-24"
+   ],
+   "markdown": "###### Artigo 66.º — Reduções e exclusões\n\n1 - O incumprimento de qualquer obrigação prevista na presente portaria determina o não pagamento do apoio correspondente à respetiva intervenção, sem prejuízo da aplicação do disposto no Regulamento (UE) 2021/2116.\n\n2 - Quando o grau de execução financeira de uma intervenção for inferior a 80 %, o valor total do apoio é reduzido em 20 %.\n\n3 - O grau de execução financeira de cada intervenção referido no número anterior corresponde à percentagem entre o montante do pedido de pagamento apresentado e o montante do apoio aprovado em candidatura ou em pedido modificado, se aplicável.\n\n4 - Sem prejuízo das regras estabelecidas no regulamento de candidatura, controlo e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P., para recuperação dos montantes indevidamente recebidos, quando o IFAP, I. P., após análise dos pedidos de pagamento e estabelecimento dos montantes elegíveis para apoio, verifique um desvio entre a ajuda apresentada a pagamento e a ajuda apurada, é aplicável o seguinte:\n\na) Caso o desvio seja inferior a 5 %, o pagamento é efetuado na totalidade da ajuda apurada;\n\nb) Caso o desvio se situe entre 5 % e 30 %, inclusivamente, é aplicada uma redução na ajuda apurada de valor igual à diferença detetada;\n\nc) Caso o desvio seja superior a 30 %, não há lugar a qualquer pagamento.\n\n> Nota: [Artigo 3.º, Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126) As alterações introduzidas pela Portaria n.º 317/2023, de 23 de outubro ao presente artigo produzem efeitos à data de início das candidaturas do PNASA do ano de 2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-2023-223154126), em vigor a partir de 2023-10-24"
+  },
+  "900887326": {
+   "fragment_id": "211340796",
+   "type": 11,
+   "heading": "Artigo 68.º — Indicadores de desempenho",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 68.º — Indicadores de desempenho\n\n1 - A DGADR comunica ao GPP, anualmente até 15 de junho, o total das despesas públicas previstas para o próximo exercício financeiro agrícola discriminadas por intervenção.\n\n2 - Os beneficiários comunicam à DGADR, de dois em dois anos, até 15 de junho, os seguintes dados correspondentes ao ano civil anterior ao ano da comunicação:\n\na) O intervalo de preços em euros para o mel multifloral no local de produção;\n\nb) O intervalo de preços em euros para o mel multifloral a granel nos grossistas;\n\nc) O custo médio de produção estimado em euros (fixo e variável) por quilograma de mel produzido.\n\n3 - Os beneficiários comunicam à DGADR, de dois em dois anos, até 15 de junho, os seguintes dados relativamente aos dois anos civis anteriores ao ano da comunicação:\n\na) A produção anual de mel, expressa em quilogramas;\n\nb) O rendimento médio anual estimado em quilogramas de mel por colmeia.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "900887327": {
+   "fragment_id": "211340805",
+   "type": 14,
+   "heading": "Anexo III — Montantes sobre os quais incide a taxa de apoio à intervenção, «Luta contra a varroose»",
+   "in_force_from": "2024-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "## Anexo III — Montantes sobre os quais incide a taxa de apoio à intervenção, «Luta contra a varroose»\n\n(a que se refere o n.º 2 do artigo 18.º)\n\n| [...] | [...] |\n| --- | --- |\n| [...] | 5,300 |\n| [...] | 5,675 |\n| [...] | [...] |\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "907407589": {
+   "fragment_id": "211313622",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": "2025-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886), em vigor a partir de 2025-02-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem ser beneficiários dos apoios previstos na presente portaria, de acordo com as condições específicas de cada intervenção:\n\na) As organizações de produtores (OP) reconhecidas para o setor do mel, nos termos da Portaria n.º 298/2019, de 9 de setembro;\n\nb) As associações e cooperativas de apicultores, dotadas de personalidade jurídica, com atividade apícola prevista nos respetivos estatutos, desde que os apicultores abrangidos pela candidatura obedeçam ao regime jurídico estabelecido pelo Decreto-Lei n.º 203/2005;\n\nc) As uniões, federações ou confederações das entidades referidas na alínea anterior, com atividade apícola prevista nos respetivos estatutos ou nos estatutos de alguma das suas associadas.\n\n2 - O disposto no número anterior aplica-se nas Regiões Autónomas (RA) com as necessárias adaptações.\n\n3 - Apenas podem ser abrangidos na candidatura, os apicultores que identifiquem, na declaração de existências, para cada apiário que detêm, qual a respetiva entidade beneficiária a que estão associados para efeitos de candidatura às intervenções previstas na presente portaria.\n\n4 - Caso o apiário esteja localizado em zona controlada por uma EGZC, o apicultor pode indicar essa entidade, mesmo não sendo seu associado.\n\n5 - Para efeitos dos n.os 3 e 4, apenas se consideram as colmeias afetas a apiários inscritos que constem da declaração de existências do Sistema Nacional de Identificação, Registo e Movimentação Animal (SNIRA), que precede o período de apresentação das candidaturas e respetivas alterações registadas até ao dia anterior ao início do período das candidaturas.\n\n> Nota: [Artigo 4.º, Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886) A alteração introduzida ao n.º 5 do presente artigo produz efeitos a partir do ano apícola 2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886), em vigor a partir de 2025-02-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "907407590": {
+   "fragment_id": "211340806",
+   "type": 14,
+   "heading": "Anexo IV — Hierarquização das candidaturas à intervenção, «Apoio a projetos de investigação aplicada»",
+   "in_force_from": "2025-02-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886), em vigor a partir de 2025-02-18"
+   ],
+   "markdown": "## Anexo IV — Hierarquização das candidaturas à intervenção, «Apoio a projetos de investigação aplicada»\n\n(a que se refere o n.º 1 do artigo 48.º e n.º 4 do artigo 58.º)\n\n1 - A hierarquização das candidaturas à intervenção «Apoio a projetos de investigação aplicada» é efetuada em função da respetiva VGP, calculada através da seguinte fórmula (arredondamento à centésima):\n\nVGP = 0,10 PA + 0,15 I + 0,20 U + 0,25 MO + 0,30 D\n\n2 - Na fórmula prevista no número anterior:\n\na) PA, valoriza a continuidade de projetos de investigação aplicada do programa apícola nacional do ano anterior, que tenham cumprido a respetiva execução;\n\nb) I, valoriza a interligação entre equipas e objetivos de investigação de outros projetos;\n\nc) U, valoriza a utilidade, exequibilidade e adequação do projeto;\n\nd) MO, valoriza o mérito científico e originalidade da equipa e a inclusão de jovens cientistas;\n\ne) D, valoriza a produção de documentação para divulgação aos apicultores.\n\n3 - Cada fator definido nas alíneas a) a e) do número anterior é pontuado de um a cinco, de acordo com a grelha de pontuação definida para cada coeficiente pela entidade avaliadora.\n\n> Nota: [Artigo 4.º, Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886) A alteração introduzida à alínea a) do n.º 2 do presente anexo produz efeitos a partir do ano apícola 2026, inclusive.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886), em vigor a partir de 2025-02-18"
+  },
+  "913450600": {
+   "fragment_id": "211313622",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": "2021-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 139/2025/1 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/139-2025-912820668), em vigor a partir de 2021-03-29",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886), em vigor a partir de 2025-02-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem ser beneficiários dos apoios previstos na presente portaria, de acordo com as condições específicas de cada intervenção:\n\na) As organizações de produtores (OP) reconhecidas para o setor do mel, nos termos da Portaria n.º 298/2019, de 9 de setembro;\n\nb) As associações e cooperativas de apicultores, dotadas de personalidade jurídica, com atividade apícola prevista nos respetivos estatutos, desde que os apicultores abrangidos pela candidatura obedeçam ao regime jurídico estabelecido pelo Decreto-Lei n.º 203/2005;\n\nc) As uniões, federações ou confederações das entidades referidas na alínea anterior, com atividade apícola prevista nos respetivos estatutos ou nos estatutos de alguma das suas associadas.\n\n2 - O disposto no número anterior aplica-se nas Regiões Autónomas (RA) com as necessárias adaptações.\n\n3 - Apenas podem ser abrangidos na candidatura, os apicultores que identifiquem, na declaração de existências, para cada apiário que detêm, qual a respetiva entidade beneficiária a que estão associados para efeitos de candidatura às intervenções previstas na presente portaria.\n\n4 - Caso o apiário esteja localizado em zona controlada por uma EGZC, o apicultor pode indicar essa entidade, mesmo não sendo seu associado.\n\n5 - Para efeitos dos n.os 3 e 4, apenas se consideram as colmeias afetas a apiários inscritos que constem da declaração de existências do Sistema Nacional de Identificação, Registo e Movimentação Animal (SNIRA), que precede o período de apresentação das candidaturas e respetivas alterações registadas até ao dia anterior ao início do período das candidaturas.\n\n6 - Para efeitos do número anterior, a declaração de registo da atividade apícola, incluindo as respetivas alterações, dos apicultores que tenham iniciado atividade entre o dia 1 de setembro e o dia anterior ao período de apresentação de candidaturas, substitui a declaração de existências do SNIRA para efeitos de contabilização das colmeias.\n\n> Nota: [Artigo 3.º, Portaria n.º 139/2025/1 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/139-2025-912820668) A alteração ao presente artigo, produz efeitos a partir do ano apícola de 2025, inclusive.\n\n> Nota: [Artigo 4.º, Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886) A alteração introduzida ao n.º 5 do presente artigo produz efeitos a partir do ano apícola 2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 139/2025/1 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/139-2025-912820668), em vigor a partir de 2021-03-29\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886), em vigor a partir de 2025-02-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "927997266": {
+   "fragment_id": "211313646",
+   "type": 11,
+   "heading": "Artigo 25.º — Forma, nível e limites de apoio",
+   "in_force_from": "2025-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+   ],
+   "markdown": "###### Artigo 25.º — Forma, nível e limites de apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de reembolso de custos elegíveis efetivamente incorridos pelos beneficiários.\n\n2 - O nível de apoio das despesas referidas na alínea a) do artigo 23.º é de 70 %, até ao montante máximo de apoio de € 10 000 por beneficiário.\n\n3 - O nível de apoio das despesas referidas na alínea b) do artigo 23.º é de 100 %, até ao montante máximo de apoio (euro) 10.000 por beneficiário.\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+  },
+  "927997267": {
+   "fragment_id": "211313649",
+   "type": 11,
+   "heading": "Artigo 27.º — Beneficiários",
+   "in_force_from": "2025-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+   ],
+   "markdown": "###### Artigo 27.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas na alínea a) do n.º 1 do artigo 5.º;\n\nb) As associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º\n\nc) O apicultor, membro de uma associação referida na alínea b) do n.º 1 do artigo 5.º, que:\n\ni) Detenha número de apicultor;\n\nii) Detenha um número de colmeias igual ou superior a 750 declaradas conforme o previsto nos n.os 5 e 6 do artigo 5.º\n\n2 - Não podem beneficiar dos apoios previstos na intervenção prevista na presente secção, as entidades referidas no número anterior que efetuem, elas próprias, a prestação de serviços relativos às operações de transporte de colmeias na transumância.\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+  },
+  "927997268": {
+   "fragment_id": "211313651",
+   "type": 11,
+   "heading": "Artigo 29.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2025-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+   ],
+   "markdown": "###### Artigo 29.º — Despesas elegíveis e não elegíveis\n\n1 - São elegíveis as despesas de aquisição de serviços, aquisição ou aluguer de equipamentos relativos às operações de transumância de colmeias, nomeadamente transporte, gruas, reboques, plataformas de elevação e equipamentos para paletização de colmeias.\n\n2 - Não são elegíveis as despesas com prestações de serviços relativas às operações de transporte de colmeias na transumância entre beneficiários dos apoios previstos na presente secção.\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+  },
+  "927997271": {
+   "fragment_id": "927991527",
+   "type": 11,
+   "heading": "Artigo 30.º-A — Hierarquização das candidaturas",
+   "in_force_from": "2025-08-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+   ],
+   "markdown": "###### Artigo 30.º-A — Hierarquização das candidaturas\n\n1 - As candidaturas à intervenção prevista na presente secção são hierarquizadas e aprovadas até ao limite orçamental disponível após aplicação do artigo 60.º\n\n2 - Para efeitos de aplicação da hierarquização prevista no número anterior estabelece-se a seguinte ordem de prioridade, por tipologia de beneficiário:\n\na) OP referidas na alínea a) do n.º 1 do artigo 27.º;\n\nb) Associações e cooperativas referidas na alínea b) do n.º 1 do artigo 27.º;\n\nc) Apicultores membros de uma associação referidos na alínea c) do n.º 1 do artigo 27.º\n\n3 - Caso se verifique que o montante total de apoio elegível das candidaturas é superior ao respetivo orçamento disponível é priorizada a aprovação das candidaturas, em função da hierarquização referida no número anterior.\n\n4 - Em resultado da aplicação do número anterior, o montante individual do apoio a conceder é objeto de redução proporcional entre os respetivos candidatos da mesma tipologia de beneficiário para a qual a dotação foi ultrapassada.\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+  },
+  "927997272": {
+   "fragment_id": "211313653",
+   "type": 11,
+   "heading": "Artigo 31.º — Forma, nível e limite do apoio",
+   "in_force_from": "2025-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+   ],
+   "markdown": "###### Artigo 31.º — Forma, nível e limite do apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de reembolso dos custos elegíveis efetivamente incorridos pelo beneficiário.\n\n2 - O nível do apoio é de 50 % das despesas elegíveis, podendo ir até ao limite máximo de 90 %, de acordo com as necessidades de ajustamento que venham a ser identificadas, nos termos do artigo 60.º, face à disponibilidade orçamental.\n\n3 - O limite máximo de apoio é de:\n\na) € 10 000 por beneficiário, no caso dos beneficiários previstos nas alíneas a) e b) do n.º 1 do artigo 27.º;\n\nb) € 5 000 por beneficiário, no caso dos beneficiários previstos na alínea c) do n.º 1 do artigo 27.º\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+  },
+  "927997270": {
+   "fragment_id": "211340781",
+   "type": 11,
+   "heading": "Artigo 55.º — Forma, nível e limites de apoio",
+   "in_force_from": "2025-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+   ],
+   "markdown": "###### Artigo 55.º — Forma, nível e limites de apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de reembolso dos custos elegíveis efetivamente incorridos pelo beneficiário.\n\n2 - No caso das OP, o nível do apoio é de 50 % das despesas elegíveis, podendo ir até ao limite máximo de 90 %, de acordo com as necessidades de ajustamento que venham a ser identificadas face à disponibilidade orçamental, num máximo de apoio de (euro) 40.000.\n\n3 - No caso das associações e cooperativas o nível do apoio é de 40 % das despesas elegíveis, podendo ir até ao limite máximo de 90 %, de acordo com as necessidades de ajustamento que venham a ser identificadas face à disponibilidade orçamental, num máximo de apoio de € 40 000.\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+  },
+  "913450601": {
+   "fragment_id": "211340790",
+   "type": 11,
+   "heading": "Artigo 63.º — Apresentação, análise e decisão dos pedidos de pagamento",
+   "in_force_from": "2021-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 139/2025/1 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/139-2025-912820668), em vigor a partir de 2021-03-29",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 63.º — Apresentação, análise e decisão dos pedidos de pagamento\n\n1 - Os pedidos de pagamento são submetidos eletronicamente através de formulário próprio disponível no sítio da Internet do IFAP, I. P. acompanhados dos documentos previstos em OTE.\n\n2 - Os beneficiários comprometem-se a disponibilizar, nos prazos estabelecidos, todos os elementos complementares que venham a ser solicitados pelas entidades com competências para gestão e controlo, sob pena de exclusão liminar do pedido.\n\n3 - Os pedidos de pagamento reportam-se apenas às despesas efetivamente executadas e pagas, nos termos definidos para cada intervenção, quanto à forma, nível e limite do apoio.\n\n4 - No âmbito das intervenções da presente portaria, podem ser submetidos anualmente, no máximo, três pedidos de pagamento intermédios e um pedido final, até 7 de agosto do ano apícola seguinte ao ano a que respeita a execução da intervenção em causa.\n\n5 - No caso das intervenções a seguir indicadas, antes da apresentação do pedido de pagamento, os beneficiários devem comprovar a execução da candidatura, através de:\n\na) Prova da aquisição de meios de luta e respetiva distribuição aos apicultores, na intervenção «Luta contra a varroose»;\n\nb) Prova da aquisição das rainhas, na intervenção «Apoio à aquisição de rainhas autóctones selecionadas»;\n\nc) Apresentação do relatório anual de execução do projeto, tendo em consideração o previsto na alínea d) do n.º 1 e no n.º 2 do artigo 47.º, na intervenção «Apoio a projetos de investigação aplicada».\n\n6 - Os pedidos de pagamento relativos à intervenção ‘Melhoria da qualidade dos produtos apícolas’ devem fazer-se acompanhar do relatório anual de execução do projeto, tendo em consideração o previsto na alínea c) do n.º 1 e no n.º 2 do artigo 54.º, ou do comprovativo do licenciamento no caso dos novos estabelecimentos.\n\n7 - Os pedidos de pagamento relativos à tipologia «Combate à Vespa velutina» devem fazer-se acompanhar de, pelo menos, 50 % das comunicações referidas na alínea b) do artigo 24.º\n\n8 - Os pedidos de pagamento relativos à intervenção «Apoio a projetos de investigação aplicada» são remetidos pelo IFAP, I. P., à EA a que se refere a alínea c) do n.º 3 do artigo 56.º, no prazo de cinco dias úteis a contar da sua receção, para análise e parecer, o qual é emitido e comunicado ao IFAP, I. P., no prazo de 10 dias úteis, contendo o detalhe do apuramento da taxa de realização, tendo em conta o cronograma de programação do projeto de investigação da candidatura aprovada.\n\n9 - Os pedidos de pagamento devem ter por base a declaração de existências dos apicultores que integraram a candidatura aprovada, relativas ao ano que precede a apresentação desse pedido, incluindo as respetivas alterações efetuadas até 31 de março do ano em que é efetuado o pedido de pagamento.\n\n> Nota: [Artigo 3.º, Portaria n.º 139/2025/1 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/139-2025-912820668) A alteração ao presente artigo, produz efeitos a partir do ano apícola de 2025, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 139/2025/1 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/139-2025-912820668), em vigor a partir de 2021-03-29\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "1068018675": {
+   "fragment_id": "211313622",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": "2026-03-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 139/2025/1 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/139-2025-912820668), em vigor a partir de 2021-03-29",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886), em vigor a partir de 2025-02-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem ser beneficiários dos apoios previstos na presente portaria, de acordo com as condições específicas de cada intervenção:\n\na) As organizações de produtores (OP) reconhecidas para o setor do mel, nos termos da Portaria n.º 298/2019, de 9 de setembro;\n\nb) As associações e cooperativas de apicultores, dotadas de personalidade jurídica, com atividade apícola prevista nos respetivos estatutos, desde que os apicultores abrangidos pela candidatura obedeçam ao regime jurídico estabelecido pelo Decreto-Lei n.º 203/2005;\n\nc) As uniões, federações ou confederações das entidades referidas na alínea anterior, com atividade apícola prevista nos respetivos estatutos ou nos estatutos de alguma das suas associadas;\n\nd) Os apicultores, membros de uma OP, associação ou cooperativa, referidas nas alíneas a) e b);\n\ne) Organismos públicos ou instituições de ensino superior que disponham de centros de investigação aplicada que assumem a qualidade de entidade gestora da parceria com uniões, federações ou organizações de apicultores.\n\n2 - O disposto no número anterior aplica-se nas Regiões Autónomas (RA) com as necessárias adaptações.\n\n3 - Apenas podem ser abrangidos na candidatura, os apicultores que identifiquem, na declaração de existências, para cada apiário que detêm, qual a respetiva entidade beneficiária a que estão associados para efeitos de candidatura às intervenções previstas na presente portaria.\n\n4 - Caso o apiário esteja localizado em zona controlada por uma EGZC, o apicultor pode indicar essa entidade, mesmo não sendo seu associado.\n\n5 - Para efeitos dos n.os 3 e 4, apenas se consideram as colmeias afetas a apiários inscritos que constem da declaração de existências do Sistema Nacional de Identificação, Registo e Movimentação Animal (SNIRA), que precede o período de apresentação das candidaturas e respetivas alterações registadas até ao dia anterior ao início do período das candidaturas.\n\n6 - Para efeitos do número anterior, a declaração de registo da atividade apícola, incluindo as respetivas alterações, dos apicultores que tenham iniciado atividade entre o dia 1 de setembro e o dia anterior ao período de apresentação de candidaturas, substitui a declaração de existências do SNIRA para efeitos de contabilização das colmeias.\n\n> Nota: [Artigo 3.º, Portaria n.º 139/2025/1 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/139-2025-912820668) A alteração ao presente artigo, produz efeitos a partir do ano apícola de 2025, inclusive.\n\n> Nota: [Artigo 4.º, Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886) A alteração introduzida ao n.º 5 do presente artigo produz efeitos a partir do ano apícola 2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 139/2025/1 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/139-2025-912820668), em vigor a partir de 2021-03-29\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2025/1 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2025-907406886), em vigor a partir de 2025-02-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "1068018875": {
+   "fragment_id": "211313642",
+   "type": 11,
+   "heading": "Artigo 21.º — Beneficiários",
+   "in_force_from": "2026-03-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00."
+   ],
+   "markdown": "###### Artigo 21.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas na alínea a) do n.º 1 do artigo 5.º;\n\nb) As associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º\n\nc) O apicultor, membro de uma OP, associação ou cooperativa referidas nas alíneas a) e b) do n.º 1 do artigo 5.º que.\n\ni) Detenha número de apicultor;\n\nii) Detenha um número de colmeias igual ou superior a 750, declaradas conforme o previsto nos n.os 5 e 6 do artigo 5.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00."
+  },
+  "1068019075": {
+   "fragment_id": "211313644",
+   "type": 11,
+   "heading": "Artigo 23.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2026-03-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00."
+   ],
+   "markdown": "###### Artigo 23.º — Despesas elegíveis e não elegíveis\n\n1 - São elegíveis, no âmbito das tipologias definidas no artigo 20.º, as despesas realizadas com:\n\na) A aquisição de material destinado ao combate à vespa-velutina indicado no «Manual de Boas Práticas para o Combate à Vespa velutina», disponível nos sítios da Internet da DGAV e do Instituto Nacional de Investigação Agrária e Veterinária, I. P. (INIAV, I. P.), conforme OTE;\n\nb) A aquisição de equipamento para a prevenção e vigilância em apiários sentinela, de acordo com as «Bases para a Vigilância Ativa», no âmbito do «Plano de Ação para a Vigilância e Controlo da Vespa velutina em Portugal», constante da OTE.\n\n2 - As despesas referidas na alínea b) do número anterior não são elegíveis para os beneficiários previstos na alínea c) do artigo 21.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00."
+  },
+  "1068019275": {
+   "fragment_id": "211313646",
+   "type": 11,
+   "heading": "Artigo 25.º — Forma, nível e limites de apoio",
+   "in_force_from": "2026-03-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+   ],
+   "markdown": "###### Artigo 25.º — Forma, nível e limites de apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de reembolso de custos elegíveis efetivamente incorridos pelos beneficiários.\n\n2 - No caso dos beneficiários referidos nas alíneas a) e b) do artigo 21.º, os níveis de apoio são os seguintes:\n\na) Para as despesas previstas na alínea a) do n.º 1 do artigo 23.º, é de 70 % da despesa efetivamente realizada, podendo ir até ao limite máximo de 90 % nos termos do artigo 60.º, face à disponibilidade orçamental e até ao montante máximo de apoio de 10 000 € por beneficiário;\n\nb) Para as despesas previstas na alínea b) do n.º 1 do artigo 23.º, é de 100 % da despesa efetivamente realizada, até ao montante máximo de 10 000 € por beneficiário.\n\n3 - No caso dos beneficiários referidos na alínea c) do artigo 21.º, para as despesas previstas na alínea a) do artigo 23.º, o nível de apoio é de 70 % da despesa efetivamente realizada, podendo ir até ao limite máximo de 90 %, nos termos do artigo 60.º, face à disponibilidade orçamental e até ao montante máximo de apoio de 2000 € por apicultor.\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+  },
+  "1068019475": {
+   "fragment_id": "211313649",
+   "type": 11,
+   "heading": "Artigo 27.º — Beneficiários",
+   "in_force_from": "2026-03-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+   ],
+   "markdown": "###### Artigo 27.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente intervenção:\n\na) As OP reconhecidas para o setor do mel referidas na alínea a) do n.º 1 do artigo 5.º;\n\nb) As associações e cooperativas referidas na alínea b) do n.º 1 do artigo 5.º\n\nc) O apicultor, membro de uma OP, associação ou cooperativa referidas nas alíneas a) e b) do n.º 1 do artigo 5.º, que:\n\ni) Detenha número de apicultor;\n\nii) Detenha um número de colmeias igual ou superior a 750 declaradas conforme o previsto nos n.os 5 e 6 do artigo 5.º\n\n2 - Não podem beneficiar dos apoios previstos na intervenção prevista na presente secção, as entidades referidas no número anterior que efetuem, elas próprias, a prestação de serviços relativos às operações de transporte de colmeias na transumância.\n\n> Nota: [Artigo 4.º, Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283) As alterações introduzidas pela presente portaria produzem efeitos a partir do ano apícola 2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2025/1 - Diário da República n.º 150/2025, Série I de 2025-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/278-2025-927994283), em vigor a partir de 2025-08-07"
+  },
+  "1068019675": {
+   "fragment_id": "211313666",
+   "type": 11,
+   "heading": "Artigo 42.º — Forma, nível e limites do apoio",
+   "in_force_from": "2026-03-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 42.º — Forma, nível e limites do apoio\n\n1 - O apoio à intervenção prevista na presente secção assume a forma de custo unitário, com um valor de € 10 por rainha.\n\n2 - O número máximo de rainhas apoiadas por beneficiário é limitado ao número equivalente a metade das colmeias da candidatura até ao limite máximo de apoio de 4000 €.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "1068019875": {
+   "fragment_id": "211313669",
+   "type": 11,
+   "heading": "Artigo 44.º — Beneficiários",
+   "in_force_from": "2026-03-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 44.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente intervenção:\n\na) As uniões, federações ou confederações de associações e cooperativas de apicultores referidas na alínea c) do artigo 5.º, em parceria com organismos públicos ou instituições de ensino superior que disponham de centros de investigação aplicada;\n\nb) Os organismos públicos ou instituições de ensino superior que disponham de centros de investigação aplicada, referidos na alínea e) do artigo 5.º, quando assumem a qualidade de entidade gestora da parceria com uniões, federações ou organizações de apicultores.\n\nc) [Revogada.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06 00:00:00.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "1068020075": {
+   "fragment_id": "211340788",
+   "type": 11,
+   "heading": "Artigo 61 — Alteração das candidaturas",
+   "in_force_from": "2026-03-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 61 — Alteração das candidaturas\n\n1 - As candidaturas aprovadas podem, anualmente, submeter até dois pedidos de alteração nos seguintes termos:\n\na) Um pedido relativo à inclusão de novos apicultores, para efeitos de elegibilidade na intervenção «Luta contra a varroose», a ser entregue até 30 de novembro, do ano apícola a que respeita a candidatura;\n\nb) Um pedido para as restantes alterações, a ser submetido até 20 de maio do ano apícola a que respeita a candidatura.\n\n2 - Os beneficiários, na submissão dos pedidos de alteração referidos no número anterior, devem respeitar cumulativamente as seguintes condições:\n\na) Seja apresentada antes da sua execução e não abranja despesa já submetida em pedido de pagamento;\n\nb) Não haja qualquer notificação no âmbito do controlo da intervenção em causa;\n\nc) Não implique um aumento da ajuda inicialmente aprovada para a intervenção em causa;\n\nd) No caso da alteração da intervenção B.2.2, os apicultores têm de ter realizado a declaração de existências, em conformidade com o previsto no n.º 7 do presente artigo.\n\n3 - Os pedidos de alteração a que se refere o n.º 1 são submetidos eletronicamente através de formulário próprio disponível no sítio da Internet da DGADR, em www.dgadr.gov.pt., acompanhado dos documentos nele indicados.\n\n4 - Os pedidos de alteração a que se refere o n.º 1 são imediatamente remetidos pela DGADR à respetiva EA, para análise e parecer, a devolver à DGADR, no prazo de sete dias úteis.\n\n5 - Os pedidos de alteração não podem, no seu conjunto, representar uma redução superior a 20 % do montante inicialmente aprovado.\n\n6 - O disposto na alínea a) do n.º 2 não é aplicável aos pedidos de alteração referentes à intervenção «Luta contra a varroose».\n\n7 - Os pedidos de alteração são ajustados em conformidade com a declaração de existências que precede ao ano apícola a que respeita a candidatura, incluindo as respetivas alterações efetuadas até à apresentação do pedido.\n\n> Nota: [Diploma, Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470) Em derrogação do disposto na alínea a) do n.º 1 do presente artigo, no ano apícola de 2026, é fixado o dia 10 de março de 2026 como prazo para a apresentação de pedidos de inclusão de novos apicultores.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 107/2026/1 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/portaria/107-2026-1066993470), em vigor a partir de 2026-03-06.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  },
+  "1159742675": {
+   "fragment_id": "211313621",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 334/2026/1 - Diário da República n.º 155/2026, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/portaria/334-2026-1155188971), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+   ],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos da presente portaria, entende-se por:\n\na) «Centro de competências da apicultura e da biodiversidade», o espaço de discussão, partilha e de articulação de conhecimentos, capacidades e competências, que agrega os operadores da fileira apícola, tanto da produção como da indústria, com os agentes da investigação, da divulgação e da transferência de conhecimento, potenciando a sua colaboração, com a missão de promover o desenvolvimento sustentável e competitivo da fileira apícola nacional, nas vertentes socioeconómica, formativa, técnica e ambiental;\n\nb) Centro de criação de rainhas», a entidade aprovada pela Direção-Geral de Alimentação e Veterinária (DGAV) para a criação de rainhas, detentora de um sistema cientificamente credível de criação de rainhas fecundadas de raças autóctones;\n\nc) «Colmeia», o suporte físico que contém uma colónia de abelhas melíferas utilizadas para a produção de mel, outros produtos apícolas ou materiais de reprodução de abelhas melíferas, bem como todos os elementos necessários para a sua sobrevivência;\n\nd) «Declaração de existências», a declaração a que se refere o n.º 3 do artigo 3.º do Decreto-Lei n.º 203/2005, de 25 de novembro, ou a legislação regional aplicável, a realizar no período de 1 a 30 de setembro de cada ano, através da aplicação do Sistema Nacional de Informação e Registo Animal (SNIRA)/iDigital, diretamente pelo apicultor, no sítio da Internet do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em qualquer serviço regional ou local da DGAV ou nas entidades protocoladas com o IFAP, I. P., para o efeito;\n\ne) «Entidades gestoras de zonas controladas (EGZC)», as organizações de apicultores reconhecidas pela DGAV ou pela entidade competente das Regiões Autónomas, ao abrigo do Decreto-Lei n.º 203/2005, de 25 de novembro, ou a legislação regional aplicável, com obrigações próprias a nível sanitário, que desenvolvem ações de profilaxia sanitária em zonas controladas;\n\nf) «Estabelecimentos de extração e de processamento de mel», os locais de extração e processamento de mel ou de outros produtos apícolas, com destino à introdução no mercado conforme estabelecido no Decreto-Lei n.º 1/2007, de 2 de janeiro, ou na legislação regional aplicável;\n\ng) «Laboratórios aprovados pela DGAV», os locais reconhecidos pela DGAV para a realização de análises anatomopatológicas de abelhas, de favos e de cartolinas, de acordo com o Programa Sanitário Apícola, divulgados nos sítios da Internet da Direção-Geral da Agricultura e Desenvolvimento Rural (DGADR), DGAV, do Gabinete de Planeamento, Políticas e Administração Geral (GPP) e do IFAP, I. P.;\n\nh) «Plano de ação para a vigilância e controlo da Vespa velutina em Portugal», a estratégia de nível nacional elaborada conjuntamente pela DGAV e pelo Instituto da Conservação da Natureza Florestas, I. P., com o contributo do Instituto Nacional de Investigação Agrária e Veterinária, I. P. (INIAV, I. P.), revista em 2018 e implementada pela Comissão de Acompanhamento para a Vigilância, Prevenção e Controlo da Vespa velutina (CVV), criada pelo Despacho n.º 8813/2017, de 29 de setembro, publicado no Diário da República, 2.ª série, de 6 de outubro de 2017, com o objetivo de enquadrar a atuação nacional face ao estabelecimento e disseminação da vespa asiática em Portugal (Vespa velutina), com vista à prevenção, vigilância e controlo da Vespa velutina em território nacional, promovendo a segurança dos cidadãos, a proteção da atividade agrícola e do efetivo apícola, bem como a minimização dos impactos sobre a biodiversidade;\n\ni) «Plano de luta contra a varroose», o plano elaborado pela DGAV ou pelas entidades competentes das Regiões Autónomas, com o objetivo de constituir uma ferramenta de apoio para os apicultores e as suas organizações na luta contra a varroose no território nacional, que tem em consideração a metodologia proposta para a intervenção setorial dos produtos da apicultura para o quinquénio 2023-2027;\n\nj) «Produtos apícolas», o mel natural, a geleia real e o pólen, comestíveis ou impróprios para alimentação humana, o própolis e a cera de abelhas;\n\nk) «Programa sanitário apícola», o programa anual elaborado pelos serviços competentes, que estabelece as medidas de sanidade veterinária para defesa no território nacional das doenças das abelhas, bem como os requisitos a que devem obedecer as zonas controladas;\n\nl) ‘Unidades de Produção Primária (UPP)’, os locais de extração e processamento de mel ou de outros produtos apícolas provenientes da exploração do próprio apicultor, com destino a estabelecimento de extração e de processamento de mel, ou a venda ou cedência, a qualquer título, ao consumidor final ou ao comércio a retalho, dentro da área geográfica da unidade de nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS II) em que se insere a unidade de produção primária, ou em representações temporárias de produtos regionais, dentro do território nacional, até às quantidades máximas determinadas ao abrigo da alínea c) do n.º 2 do artigo 2.º do Decreto-Lei n.º 1/2007, de 2 de janeiro, na redação atual;\n\nm) «Zona controlada», a área geográfica reconhecida pela DGAV, que cumpre os requisitos previstos no Decreto-Lei n.º 203/2005, de 25 de novembro, ou na legislação regional aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 334/2026/1 - Diário da República n.º 155/2026, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/portaria/334-2026-1155188971), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2024/1 - Diário da República n.º 247/2024, Série I de 2024-12-20](https://diariodarepublica.pt/dr/detalhe/portaria/349-2024-900840744), em vigor a partir de 2024-12-21"
+  }
+ }
+}

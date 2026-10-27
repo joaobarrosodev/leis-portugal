@@ -1,0 +1,389 @@
+---
+schema_version: '1.0'
+id: pt:dre:309562:por
+title: Portaria n.º 239/83
+short_title: null
+summary: Regulamenta os cursos de formação em informática previstos no Decreto-Lei n.º 110-A/80, de 10 de Maio
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Educação e da Reforma Administrativa
+proposing_entity: null
+official_number: 239/83
+official_date: null
+publication_date: '1983-03-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/1983, Série I de 1983-03-03
+  number: '51'
+  series: I
+  supplement: null
+  pages: 782 - 784
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05100/07820784.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '309562'
+  dre_path: /dr/detalhe/portaria/239-1983-309562
+  internal: pt:dre:309562:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-1983-309562
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-1983-309562
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:35:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d33b878bb283e06b22d483b164f3ed6963a9e50df9108ae46eb11a86b3a7090c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:35:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Função Pública
+- Informática
+relationships:
+- type: amended_by
+  target: pt:dre:681608:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388449:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:681608:por
+  label: "Revogada pela PORT.773/91.1991.08.07.MF, DR.IS-B [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/773-1991-681608
+  date: '1991-08-07'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:35:16Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 239/83
+
+de 3 de Março
+
+O [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, que regulamentou as carreiras de informática, prevê a necessidade de frequência de diversos cursos nessa área, como pressuposto do ingresso e acesso nas mesmas.
+
+Esses cursos carecem, no entanto, de regulamentação, em ordem a determinar os órgãos responsáveis pela sua organização e realização, os respectivos planos de estudo e condições de inscrição, frequência e avaliação.
+
+A presente portaria visa concretizar esse objectivo, com excepção para o curso de análise de sistemas, que corresponde à formação do tipo I, o qual foi já regulamentado pela [Portaria n.º 245/81](https://diariodarepublica.pt/dr/detalhe/portaria/245-1981-388449), de 7 de Março.
+
+Nestes termos, e ao abrigo do que dispõe o n.º 1 do artigo 25.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Educação e da Reforma Administrativa, o seguinte:
+
+1.º
+
+(Âmbito de aplicação)
+
+O presente diploma visa regulamentar os cursos de formação em informática a que se referem:
+
+a) O n.º 2 do artigo 3.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio;
+
+b) O mapa II anexo ao mesmo diploma.
+
+2.º
+
+(Entidades competentes para a realização dos cursos)
+
+São competentes para a organização, programação e realização dos cursos:
+
+a) O Instituto Nacional de Administração, relativamente às formações do tipo F, G, H e J, mencionadas no mapa II anexo ao [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873);
+
+b) A Direcção-Geral de Emprego e Formação da Administração Pública, do Ministério da Reforma Administrativa, no tocante às formações do tipo A, B, D e K e, bem assim, ao curso para controlador de trabalhos, a que aludem, respectivamente, o mesmo mapa anexo e o n.º 2 do artigo 3.º do diploma supracitado;
+
+c) Os serviços e organismos interessados, em função dos sistemas e equipamentos que utilizem, relativamente à formação do tipo C, ainda do mapa II anexo ao [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
+
+3.º
+
+(Cursos de formação para controladores de trabalho)
+
+1 - Os cursos de formação para controladores de trabalho a que se referem os n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873) destinam-se a habilitar os participantes com os conhecimentos necessários ao desempenho das funções descritas no artigo 14.º do mesmo diploma.
+
+2 - Poderão candidatar-se à frequência:
+
+a) Do curso de formação básica, os estagiários a que aludem os n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873);
+
+b) Do curso de formação complementar, os controladores de trabalho com, pelo menos, 2 anos de exercício efectivo de funções.
+
+3 - O plano de estudos do curso de formação abrangerá as seguintes matérias e tempos mínimos de duração:
+
+... Horas
+
+a) Noções gerais de informática ... 10
+
+b) Noções de privacidade e segurança ... 5
+
+c) Controle de trabalhos ... 5
+
+4 - O plano de estudos do curso de formação complementar abrangera as seguintes matérias e tempos mínimos de duração:
+
+... Horas
+
+a) Introdução aos computadores ... 10
+
+b) Técnicas de tratamento automático e informação ... 20
+
+4.º
+
+(Curso de registo de dados)
+
+1 - O curso de registo de dados, que corresponde à formação do tipo A, destina-se a conferir formação básica aos operadores de registo de dados em ordem a habilitá-los com os conhecimentos necessários ao exercício das funções descritas no artigo 15.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
+
+2 - Poderão candidatar-se à frequência destes cursos os estagiários a que se referem os n.os 1 e 2 do artigo 4.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
+
+3 - O plano de estudos do curso inclui as seguintes matérias e tempos mínimos de duração:
+
+... Horas
+
+a) Noções gerais de informática ... 10
+
+b) Introdução aos computadores ... 10
+
+c) Noções de privacidade e segurança ... 5
+
+d) Registo de dados - teoria e prática ... 20
+
+5.º
+
+(Cursos de formação para operadores)
+
+1 - Os cursos de formação de técnicas de base de operação I e de técnicas avançadas de operação, a que correspondem, respectivamente, as formações do tipo B e D, destinam-se a habilitar os participantes com os conhecimentos necessários ao desempenho das funções descritas no artigo 16.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
+
+2 - Poderão candidatar-se à frequência:
+
+a) Do curso de técnicas de base de operação I, os estagiários a que aludem os n.os 1 e 2 do artigo 5.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873);
+
+b) Do curso de técnicas avançadas de operação, os operadores principais com, pelo menos, 1 ano de exercício efectivo de funções.
+
+3 - O plano de estudos do curso de técnicas de base de operação I abrange as seguintes matérias e respectivos tempos mínimos de duração:
+
+... Horas
+
+a) Noções gerais de informática ... 10
+
+b) Noções de privacidade e segurança ... 10
+
+c) Introdução aos computadores ... 10
+
+d) Conceitos sobre a organização da informação ... 20
+
+e) Funções do operador ... 5
+
+4 - O plano de estudos do curso de técnicas avançadas de operação inclui as matérias e respectivos tempos mínimos a seguir indicados:
+
+... Horas
+
+a) Introdução à programação ... 30
+
+b) Fundamentos de Assembler ... 20
+
+c) Introdução ao teleprocessamento ... 30
+
+d) Gestão de operações ... 20
+
+6.º
+
+(Curso de programação de computadores)
+
+1 - O curso de programação de computadores, que compreende a formação do tipo F, destina-se à formação básica de programadores, tendo em vista habilitar os participantes com os conhecimentos necessários ao exercício das funções descritas no n.º 1 do artigo 17.º
+
+2 - Os candidatos oriundos de serviços ou organismos integrados no sector público administrativo deverão estar nas condições previstas no n.º 1 do artigo 6.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+
+3 - O plano de estudos do curso inclui as matérias e respectivos tempos mínimos a seguir indicados:
+
+... Horas
+
+a) Noções gerais de informática ... 8
+
+b) Introdução aos computadores ... 16
+
+c) Organização de informação ...48
+
+d) Metodologias e técnicas de programação ... 62
+
+e) Linguagem de programação ... 64
+
+f) Desenvolvimento prático de aplicações ... 92
+
+7.º
+
+(Curso de técnicas avançadas de programação)
+
+1 - O curso de técnicas avançadas de programação, que corresponde à formação do tipo G, destina-se ao aperfeiçoamento profissional dos programadores, tendo como finalidade habilitar os participantes com os conhecimentos necessários ao exercício das funções descritas no n.º 2 do artigo 17.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
+
+2 - Os candidatos oriundos de serviços ou organismos integrados no sector público administrativo deverão estar nas condições previstas no n.º 3 do artigo 6.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
+
+3 - O plano de estudos do curso inclui as matérias e respectivos tempos mínimos a seguir indicados:
+
+... Horas
+
+a) Conceitos de programação estruturada ... 10
+
+b) Estruturas de dados ... 30
+
+c) Sistemas de exploração ... 5
+
+d) Metodologia da programação ... 30
+
+e) Instrumentos auxiliares de programação ... 5
+
+8.º
+
+(Curso de programação de sistemas)
+
+1 - O curso de programação de sistemas, que corresponde à formação do tipo H, destina-se à preparação de técnicos de informática para a manutenção de sistemas operativos e desenvolvimento de rotinas auxiliares de exploração de sistemas de computação, habilitando os participantes com os conhecimentos necessários ao exercício das funções descritas no n.º 3 do artigo 17.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
+
+2 - Os candidatos provenientes de serviços ou organismos integrados no sector público administrativo deverão estar nas condições previstas no n.º 3 do artigo 6.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
+
+3 - O plano de estudos do curso inclui as matérias e respectivos tempos mínimos a seguir indicados:
+
+... Horas
+
+a) Representação dos números e caracteres em computador e suas operações ... 10
+
+b) Arquitectura de um computador, funções e interligações ... 10
+
+c) Linguagem Assembler, assembladores e Macros ... 70
+
+d) Gramáticas, compiladores e interpretadores ... 20
+
+e) Sistemas de exploração ... 30
+
+f) estruturas de informação ... 30
+
+g)Linkage editors e loaders ... 10
+
+9.º
+
+(Curso de base de dados)
+
+1 - O curso de base de dados, que corresponde à formação de tipo J, destina-se a facultar uma formação técnica e prática na utilização das bases de dados, preparando os participantes para o exercício das funções descritas no n.º 2 do artigo 20.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
+
+2 - Os candidatos provenientes de serviços ou organismos integrados no sector público administrativo deverão estar nas condições previstas no n.º 3 do artigo 11.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
+
+3 - O plano de estudos do curso inclui as matérias e respectivos tempos mínimos a seguir indicados:
+
+... Horas
+
+a) Conceitos fundamentais de base de dados ... 10
+
+b) Modelos e sistemas correntes ... 30
+
+c) Desenho de base de dados ... 40
+
+d) Implementação(desenvolvimento de um projecto) ... 100
+
+e) Tópicos complementares (dicionário de dados, concorrência, administração de BD, etc.) ... 20
+
+10.º
+
+(Cursos de correspondentes de informática)
+
+1 - O curso de correspondentes de informática, a que corresponde a formação do tipo K, destina-se a formar correspondentes de informática, habilitando os participantes com os conhecimentos necessários para o desempenho das funções descritas no n.º 4 do artigo 20.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
+
+2 - Poderão candidatar-se ao curso de correspondentes de informática os indivíduos que possuam como habilitação literária o curso geral dos liceus ou equiparado, ficando a sua admissão dependente do resultado obtido em exame psicológico a realizar pela Direcção-Geral de Emprego e Formação da Administração Pública.
+
+3 - O plano de estudos do curso inclui as matérias e respectivos tempos mínimos a seguir indicados:
+
+... Horas
+
+a) Noções gerais de informática ... 10
+
+b) Introdução aos computadores ... 10
+
+c) Noções de privacidade e segurança ... 10
+
+d) Conceitos sobre a organização da informação ... 20
+
+e) Introdução à programação ... 30
+
+f) Tabelas de decisão ... 10
+
+g) Organização de um centro de TAI ... 10
+
+h) Introdução à análise ... 20
+
+i) Caso prático ... 25
+
+11.º
+
+(Sistema de avaliação)
+
+1 - A classificação final dos cursos traduzir-se-á numa escala de 0 a 20 valores, que será determinada pela média aritmética das classificações obtidas em cada uma das matérias integrantes de cada curso.
+
+2 - Consideram-se como não tendo obtido aproveitamento os candidatos que em qualquer das matérias que o constituam obtenham classificação inferior a 10 valores.
+
+12.º
+
+(Certificação dos cursos)
+
+Aos participantes que obtenham aproveitamento nos cursos a que se reporta o presente diploma será passado pelas entidades competentes para a sua realização certificado comprovativo desse aproveitamento.
+
+13.º
+
+(Regulamentação)
+
+1 - Os regulamentos de cada curso serão aprovados por despacho do membro do Governo competente e do Ministro da Reforma Administrativa.
+
+2 - Dos regulamentos constarão, designadamente:
+
+a) As condições e forma de inscrição dos candidatos;
+
+b) O número e a forma de selecção dos mesmos;
+
+c) O prazo de apresentação das candidaturas;
+
+d) A forma de selecção dos formadores;
+
+e) A programação dos cursos.
+
+14.º
+
+(Entrada em vigor)
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Ministérios da Educação e da Reforma Administrativa, 2 de Fevereiro de 1983. - O Ministro da Educação, João José Fraústo da Silva. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

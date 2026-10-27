@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977L0311:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0311-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "1977-04-28",
+   "future": false,
+   "celex": "31977L0311",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a0d7fbc5d5f0a4e8",
+    "8d7f61eee64679b2",
+    "b97bd82421d76b79",
+    "823b092097105b53",
+    "784c22354992b934",
+    "68f25808ead7fa1d",
+    "8a7daa5d7b319c2a",
+    "7d069ead19cef239",
+    "94538b083c077a87",
+    "8f668826c18856fc",
+    "49e03dda54bc4bcf"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "01977L0311-20100101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime ANEXO I — APARELHO, CONDIÇÕES E MÉTODO DE MEDIÇÃO",
+    "Suprime ANEXO II — APARELHO, CONDIÇÕES E MÉTODO DE MEDIÇÃO",
+    "Suprime ANEXO III — DETERMINAÇÃO DO PONTO DE REFERÊNCIA DO BANCO"
+   ],
+   "fragments": [
+    "0b2dad99fcca1bc5"
+   ]
+  }
+ ],
+ "fragments": {
+  "a0d7fbc5d5f0a4e8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 77/311/CEE do Conselho, de 29 de Março de 1977, relativa à aproximação das legislações dos Estados-Membros respeitantes ao nível sonoro à altura dos ouvidos dos condutores de tractores agrícolas ou florestais de rodas** *Jornal Oficial nº L 105 de 28/04/1977 p. 0001 - 0009 Edição especial finlandesa: Capítulo 13 Fascículo 7 p. 0016 Edição especial grega: Capítulo 13 Fascículo 6 p. 0022 Edição especial sueca: Capítulo 13 Fascículo 7 p. 0016 Edição especial espanhola: Capítulo 13 Fascículo 7 p. 0026 Edição especial portuguesa: Capítulo 13 Fascículo 7 p. 0026*\n\nDIRECTIVA DO CONSELHO de 29 de Março de 1977 relativa à aproximação das legislações dos Estados-membros respeitantes ao nível sonoro à altura dos ouvidos dos condutores de tractores agrícolas ou florestais de rodas\n\n(77/311/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, para permitir a aplicação do procedimento de recepção CEE que é objecto da Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes recepção dos tractores agricolas ou florestais de rodas (3), é necessário prever prescrições que garantam a segurança no trabalho e, nomeadamente, a protecção do aparelho auditivo dos trabalhadores do sector agricola que conduzem estes tractores;\n\nConsiderando que estas prescrições são especialmente necessárias na medida em que só em dois Estados-membros existe legislação que estabeleçe disposições precisas no que respeita ao nível sonoro à altura dos ouvidos dos condutores dos tractores acima referidos;\n\nConsiderando que as disparidades nas referidas legislações nacionais são de natureza a entravar o comércio na Comunidade, prejudicando assim o estabelecimento e o funcionamento do mercado comum,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8d7f61eee64679b2": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Para efeitos do disposto na presente directiva, entende-se por tractor (agrícola ou florestal) qualquer veículo a motor, com rodas ou lagartas, tendo pelo menos dois eixos, cuja função principal resida na sua potência de tracção e especialmente concebido para atrelar, empurrar, carregar ou accionar certas ferramentas, máquinas ou reboques destinados a uma utilização agrícola ou florestal. Pode estar equipado para transportar carga e passageiros.\n\n2. A presente directiva aplica-se exclusivamente aos tractores definidos no no 1, montados sobre pneumáticos, com dois eixos e uma velocidade máxima, por construção, compreendida entre 6 e 25 quilómetros por hora."
+  },
+  "b97bd82421d76b79": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Os Estados-membros não podem recusar a recepção CEE, a recepção de âmbito nacional, a venda, a matricula ou a entrada em circulação de um tractor por motivos relacionados com o nível sonoro à altura dos ouvidos do condutor, se este nível não ultrapassar os seguintes limites:\n\n90 decibéis (A) medidos nas condições previstas no Anexo I\n\nou\n\n86 decibéis (A) medidos nas condições previstas no Anexo II.\n\nDurante um periodo transitório, cujo termo será fixado antes de 1 de Outubro de 1981, em conformidade com o procedimento previsto no artigo 13o da Directiva 74/150/CEE, os limites acima referidos serão aumentados em 6 decibéis (A) para os ensaios efectuados nas condições previstas no ponto 3.2.1.1. do Anexo I e no ponto 3.2.2.1. do Anexo II.\n\n2. Durante um período transitório, cujo termo será fixado antes de 1 de Outubro de 1981, em conformidade com o procedimento previsto no artigo 13o da Directiva 74/150/CEE, os Estados-membros podem autorizar a recepção de âmbito nacional, a venda, a matricula ou a entrada em circulação dos tractores sem cabina, se o nível sonoro não ultrapassar os seguintes limites:\n\n96 decibéis (A) medidos nas condições previstas no Anexo I\n\nou\n\n92 decibéis (A) medidos nas condições previstas no Anexo II."
+  },
+  "823b092097105b53": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nPara efeitos do disposto na presente directiva, entende-se por cabina qualquer estrutura fabricada com elementos rígidos, transparentes ou não, que cerca o condutor por todos os lados e o isola do exterior, e que pode ser mantida permanentemente fechada durante o serviço."
+  },
+  "784c22354992b934": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros tomarão todas as disposições necessárias para que não seja utilizado nenhum elemento, na apresentação para venda ou na publicidade, que atribua aos tractores características que não possuam no que respeita ao nível sonoro à altura dos ouvidos do condutor."
+  },
+  "68f25808ead7fa1d": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nAs alterações necessarias para adaptar ao progresso técnico as prescrições dos anexos serão adoptadas em conformidade com o procedimento previsto no artigo 13o da Directiva 74/150/CEE."
+  },
+  "8a7daa5d7b319c2a": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros assegurarão que seja comunicado à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "7d069ead19cef239": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 29 de Março de 1977.\n\nPelo Conselho\n\nO Presidente\n\nG. KAUFMAN\n\n(1) JO no C 127 de 18. 10. 1974, p. 34.(2) JO no C 125 de 16. 10. 1974, p. 30.(3) JO no L 84 de 28. 3. 1974, p. 10."
+  },
+  "94538b083c077a87": {
+   "fragment_id": "ANEXO I — APARELHO, CONDIÇÕES E MÉTODO DE MEDIÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO I — APARELHO, CONDIÇÕES E MÉTODO DE MEDIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — APARELHO, CONDIÇÕES E MÉTODO DE MEDIÇÃO\n\n1. UNIDADE DE MEDIDA E APARELHO DE MEDIÇÃO\n\n1.1. Unidade de medida\n\nO nível sonoro será medido em dB com ponderação A, expresso como dB (A).\n\n1.2. Aparelho de medição\n\nAs medições do nível sonoro à altura dos ouvidos dos condutores serão efectuadas por meio de um sonómetro conforme com o tipo descrito na publicação no 179, primeira edição de 1965, da Comissão Electrotécnica Internacional.\n\nEm caso de leituras variáveis, é necessário tomar os valores médios dos valores máximos.\n\n2. CONDIÇÕES DE MEDIÇÃO\n\n2.1. O tractor deve estar sem carga, isto é, sem acessórios opcionais mas com fluido de arrefecimento, lubrificantes, combustivel, ferramentas e condutor. Este último não deve estar vestido com roupas demasiado pesadas nem usar cachecol ou chapéu. Nenhum objecto susceptivel de exercer uma acção perturbadora no campo sonoro deverá encontrar-se sobre o tractor.\n\n2.2. Os pneumáticos devem estar cheios à pressão de ar prescrita pelo fabricante do tractor; o motor, a transmissão e os eixos motrizes devem encontrar-se à temperatura normal de funcionamento e as tomadas de arrefecimento de ar, se o tractor as possuir, devem permanecer abertas.\n\n2.3. O equipamento adicional accionado pelo motor ou de modo autónomo, como por exemplo os limpa pára-brisas, a ventoinha de ar quente, a tomada de força, etc., deve ser posto fora de funcionamento durante o tempo das medições se for de natureza a influenciar a medição do nível sonoro; os órgãos que normalmente funcionam em simultâneo com o motor, como a ventoinha de arrefecimento do motor, devem estar em funcionamento durante o periodo das medições.\n\n2.4. O percurso de medição deve situar-se numa zona aberta e suficientemente silenciosa; tal percurso pode ser constituido, por exemplo, por um espaço aberto de 50 metros de raio cuja parte central deve ser praticamente horizontal numa área de pelo menos 20 metros de raio, ou por um percurso horizontal com uma pista sólida, tanto quanto possível plana e sem fendas. Na medida do possível, a pista deve estar limpa e seca (por exemplo sem cascalho, folhagem, neve, etc.). Declives e desniveis serão apenas admissiveis no caso de as variações do nível sonoro por eles causadas se encontrarem dentro dos limites de erro dos aparelhos de medição.\n\n2.5. O piso da pista de rolagem deve ser de natureza tal que os pneumáticos não produzam um ruído excessivo.\n\n2.6. O tempo deve estar limpo e o vento fraco.\n\nO nível sonoro ambiente causado pelo vento ou outras fontes sonoras à altura do ouvido do condutor deve ser inferior em pelo menos 10 dB (A) ao nível sonoro do tractor.\n\n2.7. No caso de se utilizar um veículo para o registo das medições, este deve ser rebocado ou conduzido a uma distância suficientemente afastada do tractor para evitar qualquer interferência. Durante a medição, nenhum objecto perturbador da mesma e nenhuma superficie reflectora se devem encontrar a menos de 20 metros de cada lado da trajectória nem a menos de 20 metros da frente e da retaguarda do veículo. Esta condição pode considerar-se satisfeita se as variações do nível sonoro assim causadas permanecerem dentro dos limites de erro; caso contrário, a medição deve ser suspensa durante o período da perturbação.\n\n2.8. Todas as medições de uma mesma série devem ser executadas sobre o mesmo percurso.\n\n3. MÉTODO DE MEDIÇÃO\n\n3.1. O microfone deve ser colocado 250 mm ao lado do plano médio do banco, sendo o lado escolhido aquele em que se registar o nível sonoro mais elevado.\n\nA membrana do microfone será dirigida para a frente e o centro do microfone colocado a 790 mm acima e a 150 mm à frente do ponto de referência do banco descrito no Anexo III. Deverá ser evitada uma vibração excessiva do microfone.\n\n3.2. O nível sonoro máximo em dB (A) será determinado do seguinte modo:\n\n3.2.1. Nos tractores equipados de série com uma cabina fechada, todas as aberturas (por exemplo portas, janelas, etc.) devem estar fechadas durante uma primeira série de medições.\n\n3.2.1.1. Durante uma segunda série de medições, é necessário deixá-las abertas desde que, uma vez abertas, não constituam um perigo para a circulação rodoviária; os pára-brisas rebativeis, no entanto, devem permanecer fechados.\n\n3.2.2. O ruído deve ser medido utilizando a resposta lenta do sonómetro carga correspondente ao ruído máximo na combinação da caixa de velocidades que permita obter a velocidade mais próxima de 7,25 km/h para a frente.\n\nO acelerador deve ser carregado a fundo. Partindo de uma carga nula, a carga aplicada deve ser aumentada até à obtenção do nível de ruído máximo. A cada mudança de carga é necessário, antes de proceder a medição, deixar decorrer o tempo necessário à estabilização do nível de ruído.\n\n3.2.3. O ruído deve ser medido utilizando a resposta lenta do sonómetro à carga correspondente ao ruído máximo numa combinação qualquer da caixa de velocidades, mas diferente da referida no ponto 3.2.2, e para a qual se tenha registado um nível sonoro pelo menos 1 dB (A) superior ao registado à velocidade mencionada no ponto 3.2.2.\n\nO acelerador deve ser carregado a fundo. Partindo de uma carga nula, a carga aplicada deve ser aumentada até à obtenção do nível de ruído máximo. A cada mudança de carga é necessário, antes de proceder medição, deixar decorrer o tempo necessário à estabilização do nível de ruído.\n\n3.2.4. O ruído deve ser medido à velocidade máxima, por construção do tractor sem carga.\n\n3.3. No relatório devem figurar as seguintes medições do nível sonoro:\n\n3.3.1. Com a relação de caixa que permita aproximar-se o mais possível da velocidade de 7,25 km/h.\n\n3.3.2. Com qualquer outra relação de caixa, se as condições mencionadas no ponto 3.2.3 estiverem preenchidas.\n\n3.3.3. À velocidade máxima prevista pelo fabricante.\n\n4. APRECIAÇÃO\n\nAs medições efectuadas em conformidade com os pontos 3.2.1, 3.2.2 e 3.2.4 não devem ultrapassar os limites fixados no artigo 2o."
+  },
+  "8f668826c18856fc": {
+   "fragment_id": "ANEXO II — APARELHO, CONDIÇÕES E MÉTODO DE MEDIÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO II — APARELHO, CONDIÇÕES E MÉTODO DE MEDIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — APARELHO, CONDIÇÕES E MÉTODO DE MEDIÇÃO\n\n1. UNIDADE DE MEDIDA E APARELHO DE MEDIÇÃO\n\n1.1. Unidade de medida\n\nO nível sonoro será medido em dB com ponderação A, expresso como dB (A).\n\n1.2. Aparelho de medição\n\nAs medições do nível sonoro à altura dos ouvidos dos condutores serão efectuadas por meio de um sonómetro conforme com o tipo descrito na publicação 179, primeira edição de 1965, da Comissão Electrotécnica Internacional.\n\nEm caso de leituras variáveis, é necessário tomar os valores médios dos valores máximos.\n\n2. CONDIÇÕES DE MEDIÇÃO\n\nAs medições serão efectuadas nas seguintes condições:\n\n2.1. O tractor deve estar sem carga, isto é, sem acessórios opcionais mas com fluido de arrefecimento, lubrificantes, combustivel, ferramentas e condutor. Este último não deve estar vestido com roupas demasiado pesadas nem usar cachecol ou chapéu. Nenhum objecto susceptivel de exercer uma acção perturbadora no campo sonoro deverá encontrar-se sobre o tractor.\n\n2.2. Os pneumáticos devem estar cheios à pressão de ar prescrita pelo fabricante do tractor; o motor, a transmissão e os eixos motrizes devem encontrar-se à temperatura normal de funcionamento e as tomadas de ar de arrefecimento, se o tractor as possuir, devem permanecer abertas.\n\n2.3. O equipamento adicional accionado pelo motor ou de modo autónomo, como por exemplo os limpa pára-brisas, a ventoinha de ar quente, a tomada de força, etc., deve ser posto fora de funcionamento durante o tempo das medições se for de natureza a influenciar a medição do nível sonoro; os órgãos que normalmente funcionam em simultáneo com o motor, como a ventoinha de arrefecimento do motor, devem estar em funcionamento durante o período das medições.\n\n2.4. O percurso de medição deve situar-se numa zona aberta e suficientemente silenciosa; tal percurso pode ser constituido, por exemplo, por um espaço aberto de 50 metros de raio cuja parte central deve ser praticamente horizontal numa área de pelo menos 20 metros de raio, ou por um percurso horizontal com uma pista sólida, tanto quanto possível plana e sem fendas. Se possivel, a pista deve estar limpa e seca (por exemplo sem cascalho, folhagem, neve etc.). Declives e desniveis serão apenas admissiveis no caso de variações do nível sonoro por eles causadas se encontrarem dentro dos limites de erro dos aparelhos de medição.\n\n2.5. O piso da pista de rolagem deve ser de natureza tal que os pneumáticos não produzam um ruído excessivo.\n\n2.6. O tempo deve estar limpo e o vento fraco.\n\nO nível sonoro ambiente causado pelo vento ou outras fontes sonoras altura do ouvido do condutor deverá ser inferior em pelo menos 10 dB (A) ao nível sonoro do tractor.\n\n2.7. No caso de se utilizar um veículo para o registo das medições, este deve ser rebocado ou conduzido a uma distância suficientemente afastada do tractor para evitar qualquer interferência. Durante a medição, nenhum objecto perturbador da mesma e nenhuma superficie reflectora se devem encontrar a menos de 20 metros de cada lado da trajectória nem a menos de 20 metros da frente e da retaguarda do veículo. Esta condição pode considerar-se satisfeita, se as variações do nível sonoro assim causadas permanecerem dentro dos limites de erro; caso contrário, a medição deve ser suspensa durante o período de perturbação.\n\n2.8. Todas as medições de uma mesma série devem ser executadas sobre o mesmo percurso.\n\n3. MÉTODO DE MEDIÇÃO\n\n3.1. O microfone deve ser colocado 250 mm ao lado do plano médio do banco, sendo o lado escolhido aquele em que se registar o nível sonoro mais elevado.\n\nA membrana do microfone será dirigida para a frente e o centro do microfone colocado a 790 mm acima e a 150 mm à frente do ponto de referência do banco descrito no Anexo III. Deve ser evitada uma vibração excessiva do microfone.\n\n3.2. O nível sonoro será determinado do seguinte modo:\n\n3.2.1. O tractor deve circular sobre um mesmo percurso à mesma velocidade de ensaio pelo menos três vezes durante pelo menos 10 segundos.\n\n3.2.2. Nos tractores equipados de série com uma cabina fechada, todas as aberturas (por exemplo portas, janelas, etc.) devem estar fechadas durante uma primeira série de medições.\n\n3.2.2.1. Durante uma segunda série de medições, é necessário deixá-las abertas desde que neste estado não constituam um perigo para a circulação rodoviária; os pára-brisas rebativeis, no entanto, devem permanecer fechados.\n\n3.2.3. O ruido deve ser medido ao regime máximo de rotação utilizando a resposta lenta do sonómetro, ou seja, na combinação de caixa de velocidades que permita obter a velocidade mais próxima de 7,25 km/h ao regime nominal do motor. Durante a medição, o tractor deve circular sem carga.\n\n4. AVALIAÇÃO\n\nAs medições efectuadas em conformidade com os pontos 3.2.2. e 3.2.3. não devem ultrapassar os limites fixados no artigo 2o."
+  },
+  "49e03dda54bc4bcf": {
+   "fragment_id": "ANEXO III — DETERMINAÇÃO DO PONTO DE REFERÊNCIA DO BANCO",
+   "type": "divisao",
+   "heading": "ANEXO III — DETERMINAÇÃO DO PONTO DE REFERÊNCIA DO BANCO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — DETERMINAÇÃO DO PONTO DE REFERÊNCIA DO BANCO\n\n1. DEFINIÇÃO\n\n1.1. O ponto de referência do banco (S) é o ponto de intersecção, situado no plano médio longitudinal do banco, do plano tangente à base do encosto com um plano horizontal. Este plano horizontal intersecta a superficie inferior da chapa do banco 150 mm à frente do ponto de referência do banco.\n\n2. DETERMINAÇÃO DO PONTO DE REFERÊNCIA DO BANCO\n\n2.1. O ponto de referência do banco é obtido utilizando o dispositivo representado nas figuras 1 e 2 do apêndice ao presente anexo, dispositivo esse que permite simular a ocupação do banco pelo condutor.\n\n2.2. O banco deve estar regulado na posição média da regulação vertical, regulação esta que é independente da regulação horizontal. Para a determinação da localização do microfone prevista no ponto 3 dos anexos I e II, o banco deve encontrar-se na posição média da regulação horizontal ou o mais próximo possível desta posição.\n\n3. CARACTERISTICAS DO DISPOSITIVO\n\n3.1. O dispositivo referido no ponto 2.1 consistirá de uma prancha para a base do banco e de duas pranchas para o encosto.\n\n3.2. A prancha inferior do encosto será articulada ao nível do isquion (A) e dos rins (B), devendo ser igualmente possivel uma regulação em altura (ver figura 2) ao nível (B).\n\n4. COLOCAÇÃO DO DISPOSITIVO\n\nO dispositivo deve ser colocado da seguinte forma:\n\n4.1. O dispositivo será instalado sobre o banco.\n\n4.2. Uma força de 550 N será aplicada a 50 mm à frente da articulação (A) e as duas pranchas previstas para o encosto serão pressionadas ligeira e tangencialmente contra este.\n\n4.3. Se não for possível determinar exactamente a tangente à parte inferior do encosto, a prancha inferior prevista para o encosto, em posição vertical, será ligeiramente pressionada contra este.\n\n4.4. Quando a suspensão do banco puder ser regulada em função do peso do condutor, a regulação será efectuada de tal modo que o banco fique a igual distância das suas posições extremas.\n\nAPÊNDICE\n\nFigura 1 Esquema para determinar o ponto de referência do banco\n\nFigura 2 Método para determinar o ponto de referência do banco"
+  },
+  "0b2dad99fcca1bc5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977L0311 — PT — 01.01.2010 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977L0311) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31977L0311) [de 29 de Março de 1977](http://publications.europa.eu/resource/celex/31977L0311) [relativa à aproximação das legislações dos Estados-membros respeitantes ao nível sonoro à altura dos ouvidos dos condutores de tractores agrícolas ou florestais de rodas](http://publications.europa.eu/resource/celex/31977L0311) [(77/311/CEE)](http://publications.europa.eu/resource/celex/31977L0311) (JO L 105, 28.4.1977, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/76/CE do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009L0076) — L 201 — 18 — 1.8.2009"
+  }
+ }
+}

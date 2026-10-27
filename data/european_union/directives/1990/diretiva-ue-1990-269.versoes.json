@@ -1,0 +1,429 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0269:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0269-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "1990-06-21",
+   "future": false,
+   "celex": "31990L0269",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2007-06-27",
+   "future": false,
+   "celex": "01990L0269-20070627",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0030:por",
+     "title": "DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007",
+     "published": null,
+     "celex": "32007L0030"
+    }
+   ],
+   "changes": [
+    "Adita preambulo",
+    "Adita SECÇÃO I",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita Artigo 1.º — Objecto",
+    "Adita Artigo 2.º — Definição",
+    "Adita SECÇÃO II",
+    "Adita OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+    "Adita Artigo 3.º — Disposição geral",
+    "Adita Artigo 4.º — Organização dos postos de trabalho",
+    "Adita Artigo 5.º — Tomada em consideração do anexo II",
+    "Adita Artigo 6.º — Informação e formação dos trabalhadores",
+    "Adita Artigo 7.º — Consulta e participação dos trabalhadores",
+    "Adita SECÇÃO III",
+    "Adita DISPOSIÇÕES VÁRIAS",
+    "Adita Artigo 8.º — Adaptação dos anexos",
+    "Adita Artigo 9.º — Disposições finais",
+    "Adita Artigo 10.º",
+    "Adita ANEXO I ([^8^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0008))",
+    "Adita ELEMENTOS DE REFERÊNCIA",
+    "Adita (N.º 2 do artigo 3.º, alíneas a) e b) do artigo 4.º e n.º 2 do artigo 6.º )",
+    "Adita 1. Características da carga",
+    "Adita 2. Esforço físico exigido",
+    "Adita 3. Condições de trabalho",
+    "Adita 4. Exigências da actividade",
+    "Adita ANEXO II ([^9^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0009))",
+    "Adita FACTORES INDIVIDUAIS DE RISCO",
+    "Adita (Artigo 5.º e n.º 2 do artigo 6.º)",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "69ad6c2893b86560",
+    "19572906891c0646",
+    "e17a2adcfbbdd4cc",
+    "e771a050f9f5a971",
+    "c7a569e6be4ecc02",
+    "0b50b9972a75b595",
+    "ad9e85e1f37caa00",
+    "b109a226dd1f7c1b",
+    "75a3ddb2ad782ac2",
+    "5451bc83067d89d5",
+    "50ad08d70ca52b59",
+    "a5887b610a9f404f",
+    "b4f1bfdbc841cf04",
+    "d2a7c7e7553d01c8",
+    "73a3033d57e25f59",
+    "33cdd110d4b8f57c",
+    "52c3b643134db646",
+    "6b35e52548c09d8b",
+    "75e0be8b61e76d19",
+    "df339e4d55030d84",
+    "eb4ecc2739ad1671",
+    "679f01b289b5343a",
+    "8f5a184cfdec1155",
+    "516de5e9dabbb14b",
+    "b75d645f8bcfac7a",
+    "d36293eb487b9d32",
+    "d3afedabe6611c06",
+    "88b13129ebd8d992"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "01990L0269-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Notas",
+    "Adita Artigo 8.º — Alteração dos anexos",
+    "Adita Artigo 8.º-A — Exercício da delegação",
+    "Adita Artigo 8.º-B — Procedimento de urgência",
+    "Adita ANEXO I ([^1^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002))",
+    "Adita ANEXO II ([^2^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003))",
+    "Suprime Artigo 8.º — Adaptação dos anexos",
+    "Suprime ANEXO I ([^8^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0008))",
+    "Suprime ANEXO II ([^9^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0009))"
+   ],
+   "fragments": [
+    "abd563471daf771d",
+    "19572906891c0646",
+    "e17a2adcfbbdd4cc",
+    "e771a050f9f5a971",
+    "c7a569e6be4ecc02",
+    "0b50b9972a75b595",
+    "ad9e85e1f37caa00",
+    "b109a226dd1f7c1b",
+    "75a3ddb2ad782ac2",
+    "5451bc83067d89d5",
+    "50ad08d70ca52b59",
+    "a5887b610a9f404f",
+    "b4f1bfdbc841cf04",
+    "d2a7c7e7553d01c8",
+    "c7f1df75cad77920",
+    "266acc9b36d167a5",
+    "aa726c0af5d417e0",
+    "33cdd110d4b8f57c",
+    "52c3b643134db646",
+    "421b72443eb0533f",
+    "75e0be8b61e76d19",
+    "df339e4d55030d84",
+    "eb4ecc2739ad1671",
+    "679f01b289b5343a",
+    "8f5a184cfdec1155",
+    "516de5e9dabbb14b",
+    "749c810bc47df823",
+    "d36293eb487b9d32",
+    "d3afedabe6611c06",
+    "92c504112a0ebda1"
+   ]
+  }
+ ],
+ "fragments": {
+  "69ad6c2893b86560": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Maio de 1990\n\nrelativa às prescrições mínimas de segurança e de saúde respeitantes à movimentação manual de cargas que comportem riscos, nomeadamente dorso-lombares, para os trabalhadores (quarta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)\n\n(90/269/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118.º A,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0001)), elaborada após consulta ao Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho,\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0003)),\n\nConsiderando que o artigo 118.º A do Tratado prevê que o Conselho adopte, por meio de directiva, prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de garantir um melhor nível de protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas tais que sejam contrárias à criação e desenvolvimento de pequenas e médias empresas;\n\nConsiderando que a comunicação da Comissão sobre o seu programa no domínio da segurança, da higiene e da saúde no local de trabalho ([^4^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0004)) prevê a adopção de directivas destinadas a garantir a segurança e a saúde dos trabalhadores;\n\nConsiderando que, na resolução, de 21 de Dezembro de 1987, relativa à segurança, higiene e saúde no local de trabalho ([^5^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0005)), o Conselho tomou nota da intenção da Comissão de lhe apresentar a curto prazo uma directiva relativa à protecção contra os riscos resultantes da movimentação manual de cargas pesadas;\n\nConsiderando que a observância das prescrições mínimas destinadas a garantir um melhor nível de segurança e de saúde nos locais de trabalho é um imperativo para assegurar a segurança e a saúde dos trabalhadores;\n\nConsiderando que a presente directiva é uma directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^6^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0006)); que, por esse facto, as disposições da referida directiva se aplicam plenamente ao domínio da movimentação manual de cargas que comportem riscos, nomeadamente dorso-lombares, para os trabalhadores, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno;\n\nConsiderando que, por força da Decisão 74/325/CEE ([^7^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0007)), o Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho deve ser consultado pela Comissão, tendo em vista a elaboração de propostas neste domínio,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "e771a050f9f5a971": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva, que é a quarta directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva 89/391 /CEE, estabelece as prescrições mínimas de segurança e de saúde relativas à movimentação manual de cargas que comportem riscos, nomeadamente dorso-lombares, para os trabalhadores.\n\n2. O disposto na Directiva 89/391/CEE aplica-se plenamente à globalidade da matéria referida no n.º 1, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva."
+  },
+  "c7a569e6be4ecc02": {
+   "fragment_id": "Artigo 2.º — Definição",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nNa acepção da presente directiva, entende-se por movimentação manual de cargas qualquer operação de transporte ou sustentação de uma carga, por um ou mais trabalhadores, incluindo levantar, colocar, empurrar, puxar, transportar e deslocar, que, devido às suas características ou a condições ergonómicas desfavoráveis, comporte riscos, nomeadamente dorso-lombares, para os trabalhadores."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "ad9e85e1f37caa00": {
+   "fragment_id": "OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DAS ENTIDADES PATRONAIS"
+  },
+  "b109a226dd1f7c1b": {
+   "fragment_id": "Artigo 3.º — Disposição geral",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disposição geral\n\n1. A entidade patronal tomará as medidas de organização adequadas ou utilizará os meios apropriados, nomeadamente equipamentos mecânicos, de modo a evitar a necessidade de movimentação manual de cargas pelos trabalhadores.\n\n2. Quando não se possa evitar a necessidade de movimentação manual de cargas pelos trabalhadores, a entidade patronal tomará as medidas de organização apropriadas, utilizará os meios adequados ou fornecerá esses meios aos trabalhadores, a fim de reduzir o risco incorrido durante a movimentação manual dessas cargas, tendo em conta o disposto no anexo I."
+  },
+  "75a3ddb2ad782ac2": {
+   "fragment_id": "Artigo 4.º — Organização dos postos de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Organização dos postos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organização dos postos de trabalho\n\nSempre que não seja possível evitar a movimentação manual de cargas pelo trabalhador, a entidade patronal organizará os locais de trabalho de modo a que essa movimentação seja o mais segura e saudável possível e:\n\na) Avaliará, se possível previamente, as condições de segurança e de saúde do tipo de trabalho em questão, considerando nomeadamente as características da carga, tendo em conta o disposto no anexo I;\n\nb) Velará por evitar ou reduzir os riscos, nomeadamente dorso-lombares, do trabalhador, tomando as medidas apropriadas e considerando, nomeadamente, as características do local de trabalho e as exigências da actividade, tendo em conta o disposto no anexo I."
+  },
+  "5451bc83067d89d5": {
+   "fragment_id": "Artigo 5.º — Tomada em consideração do anexo II",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Tomada em consideração do anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tomada em consideração do anexo II\n\nPara efeitos de aplicação do n.º 3, alínea b), do artigo 6.º, do artigo 14.º e do artigo 15.º da Directiva 89/391/CEE, é conveniente tomar em consideração o disposto no anexo II."
+  },
+  "50ad08d70ca52b59": {
+   "fragment_id": "Artigo 6.º — Informação e formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informação e formação dos trabalhadores\n\n1. Sem prejuízo do artigo 10.º da Directiva 89/391 /CEE, os trabalhadores e/ou os seus representantes serão informa dos de todas as medidas a aplicar, por força da presente directiva, no que se refere à protecção da segurança e da saúde.\n\nAs entidades patronais devem velar por que os trabalhadores e/ou os seus representantes recebam informações gerais e,. sempre que possível, informações precisas, relativamente:\n\n— ao peso da carga,\n\n— ao centro de gravidade ou ao lado mais pesado, quando o conteúdo de uma embalagem estiver colocado de forma excêntrica.\n\n2. Sem prejuízo do disposto no artigo 12.º da Directiva 89/391 /CEE, as entidades patronais devem providenciar no sentido de que os trabalhadores recebam, além disso, uma formação adequada e informações precisas sobre a movimentação correcta de cargas e os riscos em que incorrem, em especial se essas actividades não forem executadas de maneira tecnicamente correcta, tendo em conta o disposto nos anexos I e II."
+  },
+  "a5887b610a9f404f": {
+   "fragment_id": "Artigo 7.º — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Consulta e participação dos trabalhadores\n\nA consulta e a participação dos trabalhadores e/ou dos seus representantes efectuar-se-ão nos termos do artigo 11.º da Directiva 89/391/CEE sobre as matérias abrangidas pela presente directiva, incluindo os seus anexos."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "d2a7c7e7553d01c8": {
+   "fragment_id": "DISPOSIÇÕES VÁRIAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES VÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES VÁRIAS"
+  },
+  "73a3033d57e25f59": {
+   "fragment_id": "Artigo 8.º — Adaptação dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Adaptação dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Adaptação dos anexos\n\nAs adaptações de natureza estritamente técnica dos anexos I e II, em função do progresso técnico, da evolução das regulamentações ou especificações internacionais ou dos conhecimentos em matéria de movimentação manual de cargas serão adoptadas de acordo com o procedimento previsto no artigo 17.º da Directiva 89/391/CEE."
+  },
+  "33cdd110d4b8f57c": {
+   "fragment_id": "Artigo 9.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar até 31 de Dezembro de 1992.\n\nDesse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que venham a adoptar na matéria regulada pela presente directiva."
+  },
+  "52c3b643134db646": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "6b35e52548c09d8b": {
+   "fragment_id": "ANEXO I ([^8^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0008))",
+   "type": "divisao",
+   "heading": "ANEXO I ([^8^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0008))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I ([^8^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0008))"
+  },
+  "75e0be8b61e76d19": {
+   "fragment_id": "ELEMENTOS DE REFERÊNCIA",
+   "type": "divisao",
+   "heading": "ELEMENTOS DE REFERÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ELEMENTOS DE REFERÊNCIA"
+  },
+  "df339e4d55030d84": {
+   "fragment_id": "(N.º 2 do artigo 3.º, alíneas a) e b) do artigo 4.º e n.º 2 do artigo 6.º )",
+   "type": "divisao",
+   "heading": "(N.º 2 do artigo 3.º, alíneas a) e b) do artigo 4.º e n.º 2 do artigo 6.º )",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (N.º 2 do artigo 3.º, alíneas a) e b) do artigo 4.º e n.º 2 do artigo 6.º )"
+  },
+  "eb4ecc2739ad1671": {
+   "fragment_id": "1. Características da carga",
+   "type": "divisao",
+   "heading": "1. Características da carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Características da carga\n\nA movimentação manual de uma carga pode apresentar um risco, nomeadamente dorso-lombar, nos seguintes casos:\n\n— carga demasiado pesada ou demasiado grande,\n\n— carga muito volumosa ou difícil de agarrar,\n\n— carga em equilíbrio instável ou com conteúdo sujeito a deslocações,\n\n— carga colocada de tal modo que deva ser mantida ou manipulada à distância do tronco ou com flexão ou torção do tronco,\n\n— carga susceptível, devido ao seu aspecto exterior e/ou à sua consistência, de provocar lesões no trabalhador, nomeadamente em caso de choque."
+  },
+  "679f01b289b5343a": {
+   "fragment_id": "2. Esforço físico exigido",
+   "type": "divisao",
+   "heading": "2. Esforço físico exigido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Esforço físico exigido\n\nUm esforço físico pode apresentar um risco, nomeadamente dorso-lombar, nos seguintes casos:\n\n— quando seja demasiado importante,\n\n— quando apenas possa ser realizado mediante um movimento de torção do tronco,\n\n— quando possa implicar um movimento brusco da carga,\n\n— quando seja efectuado com o corpo em posição instável."
+  },
+  "8f5a184cfdec1155": {
+   "fragment_id": "3. Condições de trabalho",
+   "type": "divisao",
+   "heading": "3. Condições de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Condições de trabalho\n\nAs condições de trabalho podem aumentar o risco, nomeadamente dorso-lombar, nos seguintes casos:\n\n— espaço livre, nomeadamente vertical, insuficiente para o exercício da actividade em causa,\n\n— pavimento irregular e que, portanto, implique riscos de tropeçar ou escorregadio para o calçado utilizado pelo trabalhador,\n\n— local ou condições de trabalho que não permitam ao trabalhador movimentar manualmente as cargas a uma altura segura ou numa postura correcta,\n\n— pavimento ou plano de trabalho com desníveis que impliquem a movimentação manual da carga em diversos níveis,\n\n— pavimento ou ponto de apoio instáveis,\n\n— temperatura, humidade ou circulação do ar inadequadas."
+  },
+  "516de5e9dabbb14b": {
+   "fragment_id": "4. Exigências da actividade",
+   "type": "divisao",
+   "heading": "4. Exigências da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Exigências da actividade\n\nA actividade pode apresentar um risco, nomeadamente dorso-lombar, quando implique uma ou mais das seguintes exigências:\n\n— esforços físicos que solicitem, nomeadamente, a coluna vertebral, demasiadamente frequentes ou demasiadamente prolongados,\n\n— período insuficiente de descanso fisiológico ou de recuperação,\n\n— distâncias de elevação, abaixamento ou transporte demasiadamente grandes,\n\n— cadência imposta por um processo não susceptível de ser controlado pelo trabalhador."
+  },
+  "b75d645f8bcfac7a": {
+   "fragment_id": "ANEXO II ([^9^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0009))",
+   "type": "divisao",
+   "heading": "ANEXO II ([^9^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0009))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II ([^9^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#E0009))"
+  },
+  "d36293eb487b9d32": {
+   "fragment_id": "FACTORES INDIVIDUAIS DE RISCO",
+   "type": "divisao",
+   "heading": "FACTORES INDIVIDUAIS DE RISCO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FACTORES INDIVIDUAIS DE RISCO"
+  },
+  "d3afedabe6611c06": {
+   "fragment_id": "(Artigo 5.º e n.º 2 do artigo 6.º)",
+   "type": "divisao",
+   "heading": "(Artigo 5.º e n.º 2 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 5.º e n.º 2 do artigo 6.º)\n\nO trabalhador pode correr riscos nos casos seguintes:\n\n— inaptidão física para desempenhar a tarefa em questão,\n\n— inadequação do vestuário, calçado ou outro objecto pessoal usados pelo trabalhador,\n\n— insuficiência ou inadequação dos conhecimentos ou da formação.\n\n---"
+  },
+  "88b13129ebd8d992": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#src.E0001)) JO n.º C 117 de 4.5.1988, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#src.E0002)) JO n.º C 326 de 19.12.1988 p. 137, e JO n.º C 96 de 17.4.1990, p. 82.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#src.E0003)) JO n.º C 318 de 12.12.1988, p. 37.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#src.E0004)) JO n.º C 28 de 3.2.1988, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#src.E0005)) JO n.º C 28 de 3.2.1988, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#src.E0006)) JO n.º L 183 de 29.6.1989, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#src.E0007)) JO n.º L 185 de 9.7.1974, p. 15.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#src.E0008)) Para uma análise multifactorial, podem ter-se simultaneamente em consideração os diversos elementos constantes dos anexos I e II.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/88b39521-aa37-4de3-83a5-08455daca624.0019.03/DOC_1#src.E0009)) Para uma análise multifactorial, podem ter-se simultaneamente em consideração os diversos elementos constantes dos anexos I e II."
+  },
+  "abd563471daf771d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Maio de 1990\n\nrelativa às prescrições mínimas de segurança e de saúde respeitantes à movimentação manual de cargas que comportem riscos, nomeadamente dorso-lombares, para os trabalhadores (quarta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)\n\n(90/269/CEE)"
+  },
+  "c7f1df75cad77920": {
+   "fragment_id": "Artigo 8.º — Alteração dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Alteração dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração dos anexos\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 8.º-A no que diz respeito a introduzir alterações estritamente técnicas dos anexos a fim de ter em conta o progresso técnico, a evolução das regulamentações e especificações internacionais e os conhecimentos no domínio da movimentação manual de cargas.\n\nSempre que, em casos excecionais e devidamente justificados que comportam riscos iminentes, diretos e graves para a saúde e a segurança físicas dos trabalhadores e de outras pessoas, existam imperativos de urgência que exijam uma ação num prazo muito curto, aplica-se o procedimento previsto no artigo 8.º-B aos atos delegados adotados nos termos do presente artigo."
+  },
+  "266acc9b36d167a5": {
+   "fragment_id": "Artigo 8.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 8.º é conferido à Comissão por um prazo de cinco anos, a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 8.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001))\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 8.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "aa726c0af5d417e0": {
+   "fragment_id": "Artigo 8.º-B — Procedimento de urgência",
+   "type": "artigo",
+   "heading": "Artigo 8.º-B — Procedimento de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-B — Procedimento de urgência\n\n1. Os atos delegados adotados nos termos do presente artigo entram em vigor sem demora e são aplicáveis desde que não tenha sido formulada qualquer objeção nos termos do n.º 2. Na notificação de um ato delegado ao Parlamento Europeu e ao Conselho devem expor-se os motivos que justificam o recurso ao procedimento de urgência.\n\n2. O Parlamento Europeu ou o Conselho podem formular objeções a um ato delegado de acordo com o procedimento a que se refere o artigo 8.º-A, n.º 6. Nesse caso, a Comissão revoga imediatamente o ato após a notificação da decisão pela qual o Parlamento Europeu ou o Conselho tiverem formulado objeções."
+  },
+  "421b72443eb0533f": {
+   "fragment_id": "ANEXO I ([^1^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002))",
+   "type": "divisao",
+   "heading": "ANEXO I ([^1^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I ([^1^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002))"
+  },
+  "749c810bc47df823": {
+   "fragment_id": "ANEXO II ([^2^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003))",
+   "type": "divisao",
+   "heading": "ANEXO II ([^2^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II ([^2^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003))"
+  },
+  "92c504112a0ebda1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) Para uma análise multifactorial, podem ter-se simultaneamente em consideração os diversos elementos constantes dos anexos I e II.\n\n> ([^*2^](http://publications.europa.eu/resource/cellar/6e1b33c5-e425-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0003)) Para uma análise multifactorial, podem ter-se simultaneamente em consideração os diversos elementos constantes dos anexos I e II."
+  }
+ }
+}

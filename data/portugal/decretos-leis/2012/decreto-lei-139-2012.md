@@ -1,0 +1,1024 @@
+---
+schema_version: '1.0'
+id: pt:dre:178548:por
+title: Decreto-Lei n.º 139/2012
+short_title: null
+summary: Estabelece os princípios orientadores da organização e da gestão dos currículos, da avaliação dos conhecimentos e
+  capacidades a adquirir e a desenvolver pelos alunos dos ensinos básico e secundário
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 139/2012
+official_date: null
+publication_date: '2012-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 129/2012, Série I de 2012-07-05
+  number: '129'
+  series: I
+  supplement: null
+  pages: 3476 - 3491
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/07/12900/0347603491.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- Revogado o presente diploma pelo Decreto-Lei n.º 55/2018, sem prejuízo da vigência das normas relativas a cursos de educação
+  e formação de adultos e a ensinos básico e secundário na modalidade de ensino recorrente, nos termos do seu artigo 36.º
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2016-04-05'
+version_history:
+  file: decreto-lei-139-2012.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-07-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-15'
+    amending: pt:dre:497860:por
+    amending_title: Decreto-Lei n.º 91/2013
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 21.º
+    - Altera Artigo 26.º
+    - Altera Artigo 29.º
+    - Altera Anexo I
+    - Altera Anexo VI
+  - date: '2014-12-17'
+    amending: pt:dre:64297587:por
+    amending_title: Decreto-Lei n.º 176/2014
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 26.º
+    - Altera Anexo I
+  - date: '2016-04-05'
+    amending: pt:dre:74007250:por
+    amending_title: Decreto-Lei n.º 17/2016
+    changes:
+    - Adita Artigo 24.º-A
+    - Adita Artigo 24.º-B
+    - Adita Artigo 24.º-C
+    - Adita Artigo 26.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/139/2012/p/cons/20180706/pt/html
+  oj: null
+  dre: '178548'
+  dre_path: /dr/detalhe/decreto-lei/139-2012-178548
+  internal: pt:dre:178548:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2012-178548
+  metadata_url: https://data.dre.pt/eli/dec-lei/139/2012/p/cons/20180706/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-74007253
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-74007253
+  retrieved_at: '2026-10-22T12:06:12Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 140db91627ace9a256567816581b5d6e2a35fd0bb40136d214351047cf249918
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:06:12Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-139-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Artístico
+- Agrupamento de Escolas
+- Aprendizagem
+- Língua Portuguesa
+- Plano de Estudos
+- Diploma
+- Disciplina de Educação Moral e Religiosa
+- Educação Cívica
+- Curso Profissional
+- Ensino Tecnológico
+- Escolaridade Obrigatória
+- Gestão Escolar
+- TIC
+- Educação dos Adultos
+- Língua Estrangeira
+- Currículo Nacional
+- Estabelecimento de Ensino
+- Qualificação Profissional
+- Ensino Básico
+- Avaliação de Conhecimentos
+relationships:
+- type: amended_by
+  target: pt:dre:497860:por
+  label: Altera Artigo 2.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º;
+    Altera Artigo 21.º; Altera Artigo 26.º; Altera Artigo 29.º; Altera Anexo I; Altera Anexo VI
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860
+  date: '2013-07-10'
+- type: amended_by
+  target: pt:dre:64297587:por
+  label: Altera Artigo 9.º; Altera Artigo 26.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587
+  date: '2014-12-12'
+- type: amended_by
+  target: pt:dre:74007250:por
+  label: Adita Artigo 24.º-A; Adita Artigo 24.º-B; Adita Artigo 24.º-C; Adita Artigo 26.º-A; Altera Artigo 1.º; Altera Artigo
+    3.º; Altera Artigo 4.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250
+  date: '2016-04-04'
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:276832:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/50/2011/04/08/p/dre
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6/2001/01/18
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/4/2008/01/07/p/dre
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
+- type: cites
+  target: pt:dre:542849:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/42/2012/02/22/p/dre
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/24/2006/02/06/p/dre
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/272/2007/07/26/p/dre
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+article_structure:
+  article_count: 42
+  section_count: 18
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:06:12Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 139/2012
+
+Decreto-Lei n.º 139/2012
+
+de 5 de julho
+
+O XIX Governo Constitucional assume no seu Programa a educação como fator determinante para o futuro do País, tendo como principal objetivo o aumento da qualidade e do sucesso escolar.
+
+Assim, de forma a permitir a otimização da gestão dos recursos disponíveis de acordo com as necessidades concretas dos alunos e não ignorando o papel do Ministério da Educação e Ciência na definição de orientações gerais nesta matéria, pretende-se, com a presente iniciativa legislativa, reforçar o espaço de decisão dos agrupamentos de escolas e escolas não agrupadas.
+
+Nestes termos, tendo em vista melhorar a qualidade do que se ensina e do que se aprende, o presente diploma procede à introdução de um conjunto de alterações destinadas a criar uma cultura de rigor e de excelência, através da implementação de medidas no currículo dos ensinos básico e secundário.
+
+A revisão da estrutura curricular que ora se pretende concretizar através das alterações às matrizes curriculares assenta, essencialmente, na definição de princípios que permitem uma maior flexibilidade na organização das atividades letivas.
+
+As medidas adotadas passam, essencialmente, por um aumento da autonomia das escolas na gestão do currículo, por uma maior liberdade de escolha das ofertas formativas, pela atualização da estrutura do currículo, nomeadamente através da redução da dispersão curricular, e por um acompanhamento mais eficaz dos alunos, através de uma melhoria da avaliação e da deteção atempada de dificuldades.
+
+Importa ainda valorizar tanto a autonomia pedagógica e organizativa das escolas como o profissionalismo e a liberdade dos professores na implementação de metodologias baseadas nas suas experiências, práticas individuais e colaborativas.
+
+Para a prossecução destes objetivos, pretende-se adotar com o presente diploma um conjunto de decisões essenciais.
+
+A autonomia da escola é reforçada através da oferta de disciplinas de escola e pela possibilidade de criação de ofertas complementares, bem como por uma flexibilização da gestão das cargas letivas a partir do estabelecimento de um mínimo de tempo por disciplina e de um total de carga curricular. Dá-se flexibilidade à duração das aulas, eliminando-se a obrigatoriedade de organizar os horários de acordo com tempos letivos de 45 minutos ou seus múltiplos.
+
+A redução da dispersão curricular concretiza-se no reforço de disciplinas fundamentais, tais como o Português, a Matemática, a História, a Geografia, a Físico-Química e as Ciências Naturais, na promoção do ensino do Inglês, que passará a ser obrigatório por um período de cinco anos. Adicionalmente, na área das expressões reafirma-se um reforço da identidade disciplinar.
+
+Por outro lado, no presente diploma pretende-se que a educação para a cidadania enquanto área transversal seja passível de ser abordada em todas as áreas curriculares, não sendo imposta como uma disciplina isolada obrigatória, mas possibilitando às escolas a decisão da sua oferta nos termos da sua materialização disciplinar autónoma.
+
+Relativamente às ciências experimentais, mantêm-se as suas características próprias, possibilitando, no 3.º ciclo do ensino básico, o desdobramento de turmas, e reforçando o tempo que lhes é dedicado.
+
+No ensino secundário, pretende-se ver reforçado o ensino do Português no 12.º ano de escolaridade, que passará a contar com uma carga letiva mais adequada à importância desta disciplina, sem prejuízo de se continuar a valorizar as duas disciplinas anuais de opção.
+
+O acompanhamento e a avaliação dos alunos são fundamentais para o seu sucesso, sendo importante implementar medidas que incrementem a igualdade de oportunidades, nomeadamente a criação temporária de grupos de homogeneidade relativa em disciplinas estruturantes, no ensino básico, atendendo aos recursos da escola e à pertinência das situações.
+
+No 1.º ciclo, as escolas poderão promover a coadjuvação nas áreas das expressões, bem como um reforço do acompanhamento do desempenho dos alunos e das suas necessidades de apoios específicos. Quanto ao 2.º ciclo, passará a ser garantida a possibilidade de apoio diário ao estudo, em função das necessidades previamente diagnosticadas dos alunos.
+
+Os processos de avaliação interna serão acompanhados de provas e exames de forma a permitir a obtenção de resultados fiáveis sobre a aprendizagem, fornecendo indicadores da consecução das metas curriculares e dos conteúdos disciplinares definidos para cada disciplina.
+
+As ofertas constantes do presente diploma pretendem proporcionar a todos os estudantes opções adequadas e diversificadas, adaptadas a percursos diferentes de educação que possam ser orientados tanto para o prosseguimento de estudos superiores como para a qualificação profissional, tendo em conta a formação integral do indivíduo, bem como a sua inserção no mercado de trabalho.
+
+No âmbito do presente diploma foi promovida pelo Ministério da Educação e Ciência uma consulta pública, tendo a mesma originado um conjunto vasto de contributos relevantes.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e o Conselho Nacional de Educação.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido na alínea e) do n.º 1 do artigo 59.º da Lei n.º 46/86, de 14 de outubro, alterada pelas Leis n.os 115/97, de 19 de setembro, 49/2005, de 30 de agosto, e 85/2009, de 27 de agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) 1- O presente decreto-lei produz efeitos a partir do ano letivo de: a) 2018/2019, no que respeita aos 1.º, 5.º, 7.º e 10.º anos de escolaridade; b) 2019/2020, no que respeita aos 2.º, 6.º, 8.º e 11.º anos de escolaridade; c) 2020/2021, no que respeita aos 3.º, 9.º e 12.º anos de escolaridade; d) 2021/2022, no que respeita ao 4.º ano de escolaridade.
+
+> Nota: [Artigo 37.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) Revogado o presente diploma pelo Decreto-Lei n.º 55/2018, sem prejuízo da vigência das normas relativas a cursos de educação e formação de adultos e a ensinos básico e secundário na modalidade de ensino recorrente, nos termos do seu artigo 36.º
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250) As referências legais a «avaliação de conhecimentos» e a «avaliação sumativa externa», devem considerar-se feitas, respetivamente, a «avaliação das aprendizagens» e a «avaliação externa».
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente diploma estabelece os princípios orientadores da organização e da gestão dos currículos dos ensinos básico e secundário, da avaliação do ensino e das aprendizagens e do processo de desenvolvimento do currículo dos ensinos básico e secundário.
+
+2 - As disposições constantes no presente diploma aplicam-se às diversas ofertas curriculares dos ensinos básico e secundário ministradas em estabelecimentos de ensino público, particular e cooperativo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), em vigor a partir de 2016-04-05
+
+###### Artigo 2.º — Currículo
+
+1 - Para efeitos do disposto no presente diploma, e em conformidade com o constante na Lei de Bases do Sistema Educativo para estes níveis de ensino, entende-se por currículo o conjunto de conteúdos e objetivos que, devidamente articulados, constituem a base da organização do ensino e da avaliação do desempenho dos alunos, assim como outros princípios orientadores que venham a ser aprovados com o mesmo objetivo.
+
+2 - O currículo concretiza-se em planos de estudo elaborados em consonância com as matrizes curriculares constantes dos anexos i a vii do presente diploma, do qual fazem parte integrante, ou outras a aprovar nos termos legalmente previstos.
+
+3 - Os conhecimentos e capacidades a adquirir e a desenvolver pelos alunos de cada nível e de cada ciclo de ensino têm como referência os programas das disciplinas, bem como as metas curriculares a atingir por ano de escolaridade e ciclo de ensino, homologados por despacho do membro do Governo responsável pela área da educação.
+
+4 - As estratégias de concretização e desenvolvimento do currículo são objeto de planos de atividades, integrados no respetivo projeto educativo, adaptados às características das turmas, através de programas próprios, a desenvolver pelos professores titulares de turma, em articulação com o conselho de docentes, ou pelo conselho de turma, consoante os ciclos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), em vigor a partir de 2013-07-15
+
+###### Artigo 3.º — Princípios orientadores
+
+A organização e a gestão do currículo dos ensinos básico e secundário subordinam-se aos seguintes princípios orientadores:
+
+a) Coerência e sequencialidade entre os três ciclos do ensino básico e o ensino secundário e articulação entre as formações de nível secundário com o ensino superior e com o mundo do trabalho;
+
+b) Diversidade de ofertas educativas, tomando em consideração as necessidades dos alunos, por forma a assegurar a aquisição de conhecimentos e o desenvolvimento de capacidades essenciais para cada ciclo e nível de ensino, bem como as exigências decorrentes das estratégias de desenvolvimento do País;
+
+c) Promoção da melhoria da qualidade do ensino e da aprendizagem;
+
+d) Redução da dispersão curricular e do reforço da carga horária num conjunto de disciplinas;
+
+e) Reforço da autonomia pedagógica e organizativa das escolas na gestão do currículo e uma maior liberdade de escolha de ofertas formativas, no sentido da definição de um projeto de desenvolvimento do currículo adequado às características próprias e integrado no respetivo projeto educativo;
+
+f) Flexibilidade da duração das aulas;
+
+g) Eficiência na distribuição das atividades letivas e na racionalização da carga horária letiva semanal dos alunos;
+
+h) Flexibilidade na construção dos percursos formativos, adequada aos diferentes ciclos e níveis de ensino;
+
+i) Garantia da reorientação do percurso escolar dos alunos nos ciclos e níveis de ensino em que existam diversas ofertas formativas;
+
+j) Favorecimento da integração das dimensões teórica e prática dos conhecimentos, através da valorização da aprendizagem experimental;
+
+k) Articulação do currículo e da avaliação, assegurando que esta constitua um elemento de referência que reforce a sistematização do que se ensina e do que se aprende;
+
+l) Promoção da capacidade reguladora dos instrumentos de avaliação externa, através da sua utilização com objetivos de aferição da forma como os alunos adquirem os conhecimentos e desenvolvem as aprendizagens essenciais nos diversos domínios curriculares;
+
+m) Valorização de uma intervenção atempada e rigorosa, sustentada pela informação decorrente da avaliação externa, com objetivos de aferição, no sentido de superar dificuldades nos diferentes domínios curriculares;
+
+n) Valorização da complementaridade entre os processos de avaliação interna e externa das aprendizagens;
+
+o) Reconhecimento da importância da avaliação externa para efeitos de certificação e prosseguimento de estudos no final do 3.º ciclo do ensino básico e do ensino secundário;
+
+p) Reforço do caráter transversal da educação para a cidadania, estabelecendo conteúdos e orientações programáticas, mas não a autonomizando como disciplina de oferta obrigatória;
+
+q) Valorização da língua e da cultura portuguesas em todas as componentes curriculares;
+
+r) Utilização das tecnologias de informação e comunicação nas diversas componentes curriculares;
+
+s) Enriquecimento da aprendizagem, através da oferta de atividades culturais diversas e de disciplinas, de caráter facultativo em função do projeto educativo de escola, possibilitando aos alunos diversificação e alargamento da sua formação, no respeito pela autonomia de cada escola.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), em vigor a partir de 2016-04-05
+
+###### Artigo 4.º — Organização do ano escolar
+
+1 - O ano escolar corresponde ao período compreendido entre o dia 1 de setembro de cada ano e o dia 31 de agosto do ano seguinte.
+
+2 - O ano letivo é entendido como o período contido dentro do ano escolar no qual são desenvolvidas as atividades escolares e corresponde a um mínimo de 180 dias efetivos.
+
+3 - O calendário escolar e as regras a que deve obedecer a organização do ano letivo são estabelecidos por despacho do membro do Governo responsável pela área da educação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), em vigor a partir de 2016-04-05
+
+### Capítulo II — Organização e gestão do currículo
+
+#### Secção I — Ofertas formativas
+
+###### Artigo 5.º — Ofertas formativas no ensino básico
+
+1 - O ensino básico visa assegurar uma formação geral comum a todos os portugueses, proporcionando a aquisição dos conhecimentos basilares que permitam o prosseguimento de estudos e compreende:
+
+a) O ensino básico geral;
+
+b) Cursos de ensino artístico especializado (EAE);
+
+c) Cursos de ensino vocacional;
+
+d) O ensino básico na modalidade de ensino recorrente.
+
+2 - As ofertas previstas no número anterior não prejudicam a existência de outras ofertas específicas devidamente autorizadas por despacho do membro do Governo responsável pela área da educação, nomeadamente as atualmente existentes:
+
+a) Percursos curriculares alternativos;
+
+b) Programa integrado de educação e formação (PIEF);
+
+c) Cursos de nível básico de dupla certificação, designadamente os cursos de educação e de formação (CEF), destinados preferencialmente a alunos em risco de abandono escolar, permitindo um ensino profissional inicial como via privilegiada de transição para a vida ativa e simultaneamente a continuação de estudos;
+
+d) Cursos de educação e formação de adultos (cursos EFA), orientados no sentido de educação e formação para adultos que pretendam elevar os seus níveis de qualificação.
+
+3 - Os cursos que se inscrevem no âmbito das ofertas previstas nas alíneas b), c) e d) do número anterior são criados e regulados por portaria dos membros do Governo responsáveis pela área da educação e da área respetiva.
+
+4 - O funcionamento de cursos de nível básico previstos no presente diploma depende de parecer favorável dos serviços do Ministério da Educação e Ciência com competências no âmbito da definição da rede nacional de oferta formativa.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+> Nota: [Artigo 10.º, Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587) A alteração introduzida pelo Decreto-Lei n.º 176/2014, de 12 de dezembro produz efeitos a partir do ano letivo de 2015-2016, relativamente ao 3.º ano de escolaridade do ensino básico.
+
+###### Artigo 6.º — Ofertas formativas no ensino secundário
+
+1 - O ensino secundário visa proporcionar uma formação e aprendizagens diversificadas e compreende:
+
+a) Cursos científico-humanísticos vocacionados para o prosseguimento de estudos de nível superior;
+
+b) Cursos com planos próprios;
+
+c) Cursos artísticos especializados, vocacionados, consoante a área artística, para o prosseguimento de estudos ou orientados na dupla perspetiva da inserção no mundo do trabalho e do prosseguimento de estudos;
+
+d) Cursos profissionais vocacionados para a qualificação profissional dos alunos, privilegiando a sua inserção no mundo do trabalho e permitindo o prosseguimento de estudos;
+
+e) Ensino secundário na modalidade de ensino recorrente;
+
+f) Cursos de ensino vocacional.
+
+2 - No quadro da diversificação da oferta formativa, podem ser criadas outras ofertas de educação e formação qualificantes profissionalmente, devidamente autorizadas por despacho do membro do Governo responsável pela área da educação, nomeadamente cursos de educação e formação de adultos (cursos EFA), orientados no sentido de educação e formação para adultos que pretendam elevar os seus níveis de qualificação.
+
+3 - A diversidade da oferta formativa de nível secundário é regulada por portaria do membro do Governo responsável pela área da educação.
+
+4 - Os cursos que se inscrevem no âmbito dos percursos de educação e formação referido no n.º 2 são criados e regulados por portaria dos membros do Governo responsáveis pelas áreas da educação e do emprego.
+
+5 - O funcionamento de cursos de nível secundário previstos no presente diploma depende de parecer favorável dos serviços do Ministério da Educação e Ciência com competências no âmbito da definição da rede nacional de oferta formativa.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+> Nota: [Artigo 10.º, Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587) A alteração introduzida pelo Decreto-Lei n.º 176/2014, de 12 de dezembro produz efeitos a partir do ano letivo de 2016-2017, no que respeita ao 4.º ano de escolaridade do ensino básico.
+
+###### Artigo 7.º — Reorientação do percurso formativo dos alunos
+
+1 - É assegurada a possibilidade de reorientação do percurso formativo dos alunos com recurso à permeabilidade entre cursos com afinidade de planos de estudos e ao regime de equivalências nas outras situações com vista a possibilitar ao aluno o prosseguimento de estudos noutro curso.
+
+2 - A reorientação do percurso formativo dos alunos é regulada pelas escolas de acordo com orientações gerais do ministro responsável pela área da educação.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+#### Secção II — Organização do currículo do ensino básico
+
+###### Artigo 8.º — Organização
+
+1 - São aprovadas as matrizes curriculares dos 1.º, 2.º e 3.º ciclos do ensino básico constantes dos anexos i a iii do presente diploma.
+
+2 - As matrizes curriculares dos três ciclos do ensino básico referidas no número anterior integram:
+
+a)  Disciplinas;
+
+b) Carga horária semanal mínima de cada uma das disciplinas;
+
+c) Carga horária total a cumprir.
+
+3 - O desenvolvimento das disciplinas assume especificidades próprias, de acordo com as características de cada ciclo, sendo da responsabilidade do professor titular de turma, no caso do 1.º ciclo, em articulação com o conselho de docentes, e do conselho de turma, no caso dos 2.º e 3.º ciclos.
+
+4 - Os programas e as metas curriculares para as diversas disciplinas dos três ciclos do ensino básico são objeto de homologação através de despacho do membro do Governo responsável pela área da educação
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), em vigor a partir de 2013-07-15
+
+###### Artigo 9.º — Línguas estrangeiras
+
+1 - A disciplina de Inglês inicia-se, obrigatoriamente, no 3.º ano de escolaridade e prolonga-se nos 2.º e 3.º ciclos, num total de sete anos, com o regime de progressão e transição fixado por despacho normativo do membro do Governo responsável pela área da educação.
+
+2 - As escolas do 1.º ciclo podem, de acordo com os recursos disponíveis, proporcionar a iniciação de uma língua estrangeira, com ênfase na sua expressão oral, a partir do 1.º ano de escolaridade.
+
+3 - A aprendizagem de uma segunda língua estrangeira inicia-se obrigatoriamente no 3.º ciclo.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), em vigor a partir de 2013-07-15
+
+###### Artigo 10.º — Português língua não materna
+
+O currículo do ensino básico pode integrar a oferta da disciplina de Português Língua não Materna (PLNM), que tem como objetivo a aprendizagem do Português por alunos com outra língua materna.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 11.º — Tecnologias de informação e comunicação e oferta de escola
+
+1 - A disciplina de Tecnologias de Informação e Comunicação inicia-se no 7.º ano de escolaridade, garantindo aos alunos mais jovens uma utilização segura e adequada dos recursos digitais e proporcionando condições para um acesso universal à informação, funcionando sequencialmente nos 7.º e 8.º anos, semestral ou anualmente, em articulação com uma disciplina criada pela escola, designada por oferta de escola.
+
+2 - Nos 7.º e 8.º anos de escolaridade, a matriz integra uma disciplina de oferta de escola na área artística ou tecnológica, de acordo com a sua especificidade e no âmbito do seu projeto educativo.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 12.º — Componentes curriculares complementares
+
+1 - As escolas dos 2.º e 3.º ciclos podem oferecer componentes curriculares complementares com carga horária flexível que contribuam para a promoção integral dos alunos em áreas de cidadania, artísticas, culturais, científicas ou outras.
+
+2 - A oferta de componentes curriculares complementares nos 2.º e 3.º ciclos deve ser efetuada através da utilização de um conjunto de horas de crédito, definidas em despacho normativo do membro do Governo responsável pela área da educação.
+
+3 - No 1.º ciclo, a Oferta Complementar integra o currículo e deve contribuir para a promoção integral dos alunos em áreas de cidadania, artísticas, culturais, científicas ou outras.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), em vigor a partir de 2013-07-15
+
+###### Artigo 13.º — Apoio ao estudo
+
+1 - No 1.º ciclo, o Apoio ao Estudo é de frequência obrigatória e tem por objetivo apoiar os alunos na criação de métodos de estudo e de trabalho, visando prioritariamente o reforço do apoio nas disciplinas de Português e de Matemática.
+
+2 - No 2.º ciclo, a oferta de Apoio ao Estudo é obrigatória para as escolas e agrupamentos de escolas, podendo, por indicação do conselho de turma e desde que obtido o acordo dos encarregados de educação ser de frequência obrigatória para os alunos para tal indicados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), em vigor a partir de 2013-07-15
+
+###### Artigo 14.º — Atividades de enriquecimento do currículo
+
+1 - No desenvolvimento do seu projeto educativo e no âmbito do 1.º ciclo, as escolas devem proporcionar aos alunos atividades de enriquecimento do currículo de carácter facultativo e de natureza eminentemente lúdica, formativa e cultural incidindo, nomeadamente, nos domínios desportivo, artístico, científico e tecnológico, de ligação da escola com o meio, de solidariedade e voluntariado e da dimensão europeia na educação.
+
+2 - A definição e organização das atividades referidas no número anterior constam de despacho do membro do Governo responsável pela área da educação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), em vigor a partir de 2013-07-15
+
+###### Artigo 15.º — Formação pessoal e social dos alunos
+
+As escolas, no âmbito da sua autonomia, devem desenvolver projetos e atividades que contribuam para a formação pessoal e social dos alunos, designadamente educação cívica, educação para a saúde, educação financeira, educação para os media, educação rodoviária, educação para o consumo, educação para o empreendedorismo e educação moral e religiosa, de frequência facultativa.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+#### Secção III — Organização do currículo do ensino secundário
+
+###### Artigo 16.º — Organização
+
+1 - São aprovadas as matrizes curriculares dos cursos científico-humanísticos, incluindo os cursos de ensino recorrente, bem como as matrizes curriculares dos cursos artísticos especializados e dos cursos profissionais constantes dos anexos iv a vii do presente diploma.
+
+2 - As matrizes curriculares referidas no número anterior integram as seguintes componentes de formação:
+
+a) A componente de formação geral, nos cursos científico-humanísticos e nos cursos artísticos especializados, incluindo na modalidade de ensino recorrente, que visa contribuir para a construção da identidade pessoal, social e cultural dos alunos;
+
+b) A componente de formação sociocultural, nos cursos profissionais, que visa contribuir para a construção da identidade pessoal, social e cultural dos alunos;
+
+c) A componente de formação específica, nos cursos científico-humanísticos, incluindo na modalidade de ensino recorrente, que visa proporcionar formação científica consistente no domínio do respetivo curso;
+
+d) A componente de formação científica nos cursos artísticos especializados, incluindo na modalidade de ensino recorrente, e nos cursos profissionais, que visa a aquisição e o desenvolvimento de um conjunto de conhecimentos e aptidões de base do respetivo curso;
+
+e) As componentes de formação técnico-artística e técnica, respetivamente, nos cursos artísticos especializados e nos cursos profissionais, que visam a aquisição e o desenvolvimento de um conjunto de conhecimentos e aptidões de base do respetivo curso, e integram, salvo nos cursos na modalidade de ensino recorrente, formas específicas de concretização da aprendizagem em contexto de trabalho.
+
+3 - As matrizes curriculares referidas no n.º 1 integram ainda:
+
+a) As disciplinas;
+
+b) Carga horária semanal mínima de cada uma das disciplinas;
+
+c) Carga horária total a cumprir.
+
+4 - Os programas e as metas curriculares para as diversas disciplinas do ensino secundário são objeto de homologação através de despacho do membro do Governo responsável pela área da educação.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 17.º — Português nos cursos científico-humanísticos
+
+A carga horária da disciplina de Português no 12.º ano, dos cursos científico-humanísticos, deve ter em consideração a melhoria da expressão oral e escrita dos alunos.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 18.º — Português língua não materna
+
+Os cursos científico-humanísticos e os cursos artísticos especializados podem integrar a oferta da disciplina de PLNM, que tem como objetivo a aprendizagem do Português por alunos com outra língua materna.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 19.º — Educação moral e religiosa
+
+A matriz curricular dos cursos científico-humanísticos e dos cursos artísticos especializados, com exceção dos cursos da modalidade de ensino recorrente, integra a disciplina de Educação Moral e Religiosa, de frequência facultativa.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+#### Secção IV — Gestão do currículo dos ensinos básico e secundário
+
+###### Artigo 20.º — Gestão
+
+1 - A gestão do currículo e da oferta formativa de cada escola ou agrupamento compete aos respetivos órgãos de administração e gestão, aos quais incumbe desenvolver os mecanismos que considerem adequados para o efeito.
+
+2 - No âmbito da promoção da autonomia pedagógica e organizativa da escola ou agrupamento, assume particular importância:
+
+a) A gestão e a aplicação do currículo por ano ou ciclo, adaptando-o às características dos alunos e de cada escola ou agrupamento;
+
+b) A criação de condições necessárias, incluindo oferta de complemento de currículo, permitindo a todos os alunos colmatar dificuldades de aprendizagem e desenvolver as suas capacidades;
+
+c) A valorização das experiências e das práticas colaborativas que conduzam à melhoria do ensino.
+
+3 - Tendo em consideração os objetivos e conteúdos definidos nos programas e metas curriculares, devem os agrupamentos de escolas e as escolas não agrupadas atender às suas especificidades e necessidades, selecionando, entre outros aspetos, as metodologias e a duração dos tempos letivos que se afigurem mais adequados.
+
+4 - No respeito pelos limites constantes das matrizes curriculares que se referem os artigos 8.º e 16.º, e sem prejuízo dos regimes próprios aplicáveis aos ensinos profissional e recorrente, compete aos agrupamentos de escolas e às escolas não agrupadas estabelecer o tempo semanal por disciplina no cumprimento do total de carga horária semanal de cada ano de escolaridade ou ciclo, de forma a facilitar o estabelecimento de estratégias que permitam atingir os objetivos preestabelecidos em determinadas disciplinas.
+
+5 - Os agrupamentos de escolas e as escolas não agrupadas podem adotar projetos próprios, otimizando os seus recursos materiais e humanos, tendo em vista a promoção de um ensino de qualidade.
+
+6 - Em complemento das atividades curriculares dos ensinos básico e secundário, devem os agrupamentos de escolas e as escolas não agrupadas organizar e realizar, valorizando a participação dos alunos, ações de formação cultural e de educação artística, de educação física e de desporto escolar, de educação para a cidadania, de inserção e de participação na vida comunitária, visando especialmente a utilização criativa e formativa dos tempos livres, orientadas, em geral, para a formação integral e para a realização pessoal dos alunos.
+
+7 - Na organização dos horários das turmas, assim como na organização das ofertas de apoio ao estudo, atividades extracurriculares e outras, as escolas e os agrupamentos de escolas devem otimizar os recursos globais e promover parcerias de forma a permitir a partilha e coordenação de ofertas e recursos.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 21.º — Promoção do sucesso escolar
+
+1 - Com o objetivo de assegurar o cumprimento da escolaridade obrigatória e combater a exclusão, compete aos agrupamentos de escolas e às escolas não agrupadas, no desenvolvimento da sua autonomia e no âmbito do seu projeto educativo:
+
+a) Conceber, propor e gerir medidas específicas de diversificação da oferta curricular;
+
+b) Promover, através dos serviços de psicologia e orientação, ações de orientação escolar e profissional e de apoio ao desenvolvimento psicológico individual dos alunos;
+
+c) Desenvolver, através da ação social escolar, medidas destinadas a compensar os alunos economicamente mais carenciados, mediante critérios objetivos e de discriminação positiva, previstos na lei;
+
+d) Implementar ações de acompanhamento e complemento pedagógico, orientadas para a satisfação de necessidades específicas;
+
+e) Desenvolver ações de apoio ao crescimento e ao desenvolvimento pessoal e social dos alunos, visando igualmente a promoção da saúde e a prevenção de comportamentos de risco;
+
+f) Reorientar o percurso de alunos que revelem insucesso escolar repetido ou problemas de integração na comunidade educativa, após uma avaliação da situação e posterior encaminhamento para um percurso que lhe confira certificado de qualificação profissional.
+
+2 - Tendo especialmente em vista a promoção do sucesso escolar dos alunos do ensino básico, os agrupamentos de escolas e as escolas não agrupadas podem:
+
+a) Adotar medidas que favoreçam a igualdade de oportunidades, criando temporariamente grupos de homogeneidade relativa em disciplinas estruturantes, ao longo de todo o ensino básico, atendendo aos recursos da escola e às circunstâncias concretas;
+
+b) Fomentar, no 1.º ciclo, a colaboração nas áreas das expressões de professores de outros ciclos do mesmo agrupamento de escolas que pertençam aos grupos de recrutamento destas áreas;
+
+c) Promover, no 1.º ciclo, e através de apoios específicos, um acompanhamento mais eficaz face ao desempenho dos alunos, através de apoios específicos;
+
+d) Revogada;
+
+e) Prestar um maior acompanhamento aos alunos, através de uma oferta de apoio ao estudo, no 2.º ciclo.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 91/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), em vigor a partir de 2013-07-15
+
+###### Artigo 22.º — Funcionamento de turmas
+
+Compete ao diretor da escola ou agrupamento, dentro dos limites a estabelecer em despacho do membro do Governo responsável pela área da educação, autorizar o desdobramento das turmas ou funcionamento de forma alternada de disciplinas dos ensinos básico e secundário.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+### Capítulo III — Avaliação
+
+#### Secção I — Princípios gerais
+
+###### Artigo 23.º — Finalidades
+
+1 - A avaliação constitui um processo regulador do ensino e da aprendizagem, que orienta o percurso escolar dos alunos e certifica as aprendizagens desenvolvidas.
+
+2 - A avaliação tem por objetivo central a melhoria do ensino e da aprendizagem baseada num processo contínuo de intervenção pedagógica.
+
+3 - As diferentes formas de recolha de informação sobre as aprendizagens, realizadas quer no âmbito da avaliação interna, da responsabilidade dos professores e dos órgãos de gestão pedagógica da escola, quer no âmbito da avaliação externa, da responsabilidade dos serviços ou organismos do Ministério da Educação, prosseguem, de acordo com as suas finalidades, os seguintes propósitos:
+
+a) Informar e sustentar intervenções pedagógicas, reajustando estratégias que conduzam à melhoria da qualidade das aprendizagens, com vista à promoção do sucesso escolar;
+
+b) Aferir a prossecução dos objetivos definidos no currículo;
+
+c) Certificar aprendizagens.
+
+4 - Sem prejuízo das especificidades que distinguem os processos de avaliação interna e externa das aprendizagens, no que respeita ao desempenho dos alunos e ao desenvolvimento do currículo, a análise dos dados recolhidos deve valorizar leituras de complementaridade, de modo a potenciar a melhoria da qualidade do ensino e da aprendizagem.
+
+5 - (Revogado).
+
+6 - O regime de avaliação é regulado por despacho do membro do Governo responsável pela área da educação, em função dos níveis e ciclos de ensino e da natureza dos cursos de nível secundário de educação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), em vigor a partir de 2016-04-05
+
+###### Artigo 24.º — Avaliação das aprendizagens
+
+1 - A avaliação interna das aprendizagens, da responsabilidade dos professores e dos órgãos de gestão pedagógica da escola, compreende as seguintes modalidades de avaliação:
+
+a) Diagnóstica;
+
+b) Formativa;
+
+c) Sumativa.
+
+2 - A avaliação externa das aprendizagens, da responsabilidade dos serviços ou organismos do Ministério da Educação, compreende:
+
+a) Provas de aferição;
+
+b) Provas finais de ciclo;
+
+c) Exames finais nacionais.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), em vigor a partir de 2016-04-05
+
+###### Artigo 24.º-A — Avaliação interna das aprendizagens
+
+1 - A avaliação diagnóstica realiza-se sempre que seja considerado oportuno, sendo essencial para fundamentar a definição de planos didáticos, de estratégias de diferenciação pedagógica, de superação de eventuais dificuldades dos alunos, de facilitação da sua integração escolar e de apoio à orientação escolar e vocacional.
+
+2 - A avaliação formativa assume caráter contínuo e sistemático, devendo recorrer a uma variedade de instrumentos de recolha de informação adequados à diversidade das aprendizagens e às circunstâncias em que ocorrem, permitindo aos professores, aos alunos, aos encarregados de educação e a outras pessoas ou entidades legalmente autorizadas obter informação sobre o desenvolvimento do ensino e da aprendizagem, com vista ao ajustamento de processos e estratégias.
+
+3 - A avaliação sumativa traduz-se na formulação de um juízo global sobre a aprendizagem realizada pelos alunos, tendo como objetivos a classificação e certificação.
+
+4 - A avaliação definida no n.º 2 é a principal modalidade de avaliação e permite obter informação privilegiada e sistemática nos diversos domínios curriculares, devendo fundamentar o apoio às aprendizagens, nomeadamente à autorregulação dos percursos dos alunos em articulação com dispositivos de informação dirigidos aos encarregados de educação.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), em vigor a partir de 2016-04-05
+
+###### Artigo 24.º-B — Avaliação externa das aprendizagens
+
+1 - As provas de aferição, de aplicação universal e obrigatória, a realizar no final do 2.º, do 5.º e do 8.º anos de escolaridade, permitem:
+
+a) Acompanhar o desenvolvimento do currículo, nas diferentes áreas, providenciando informação regular ao sistema educativo;
+
+b) Fornecer informações detalhadas acerca do desempenho dos alunos à escola, aos professores, aos encarregados de educação e aos próprios alunos;
+
+c) Potenciar uma intervenção pedagógica atempada, dirigida às dificuldades identificadas para cada aluno.
+
+2 - As provas finais de ciclo, a realizar no final do 9.º ano de escolaridade, visam avaliar o desempenho dos alunos, certificar a conclusão do ensino básico e criar a possibilidade de prosseguimento de diferentes percursos escolares.
+
+3 - Os exames finais nacionais têm como objetivo avaliar o desempenho dos alunos e certificar a conclusão do ensino secundário nas ofertas formativas que prevejam avaliação externa das aprendizagens, podendo ainda ser considerados para efeitos de acesso ao ensino superior.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), em vigor a partir de 2016-04-05
+
+###### Artigo 24.º-C — Intervenientes no processo de avaliação
+
+1 - Na avaliação das aprendizagens intervêm todos os professores envolvidos, assumindo particular responsabilidade o professor titular de turma, no 1.º ciclo, e os professores que integram o conselho de turma, nos 2.º e 3.º ciclos do ensino básico e no ensino secundário.
+
+2 - A escola deve assegurar a participação informada dos alunos e dos pais e encarregados de educação no processo de avaliação das aprendizagens, promovendo, de forma sistemática, a partilha de informações, o envolvimento e a responsabilização dos vários intervenientes, de acordo com as características da sua comunidade educativa.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), em vigor a partir de 2016-04-05
+
+#### Secção II — Ensino básico
+
+###### Artigo 25.º — Efeitos da avaliação
+
+1 - A evolução do processo educativo dos alunos no ensino básico assume uma lógica de ciclo, progredindo para o ciclo imediato o aluno que tenha desenvolvido as aprendizagens definidas para cada ciclo de ensino.
+
+2 - A avaliação diagnóstica facilita a integração escolar dos alunos, sustenta a definição de estratégias de ensino e apoia a orientação escolar e vocacional.
+
+3 - A avaliação formativa gera medidas pedagógicas adequadas às características dos alunos e às aprendizagens a desenvolver e recorre a dispositivos de informação detalhada sobre os desempenhos.
+
+4 - A avaliação sumativa realiza-se no final de cada período letivo e dá origem, no final do ano letivo, a uma tomada de decisão sobre a progressão, retenção ou reorientação do percurso educativo dos alunos.
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+7 - (Revogado).
+
+8 -  (Revogado).
+
+9 -  (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), em vigor a partir de 2016-04-05
+
+###### Artigo 26.º — Escala de avaliação
+
+1 - No 1.º ciclo do ensino básico, a informação resultante da avaliação sumativa materializa-se na atribuição de uma menção qualitativa acompanhada de uma apreciação descritiva em todas as áreas curriculares.
+
+2 - Nos 2.º e 3.º ciclos, a informação resultante da avaliação sumativa materializa-se numa escala numérica de 1 a 5, em todas as disciplinas.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+> Nota: [Artigo 7.º, Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250) O n.º 1 do artigo 26.º do Decreto-Lei n.º 139/2012, de 5 de julho, com a redação dada pelo Decreto-Lei n.º 17/2016, de 4 de abril aplica-se a partir do ano letivo de 2016/2017.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), em vigor a partir de 2016-04-05
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), em vigor a partir de 2013-07-15
+
+###### Artigo 26.º-A — Progressão e retenção
+
+1 - Em situações em que o aluno não desenvolva as aprendizagens definidas para o ano de escolaridade que frequenta, o professor titular de turma, no 1.º ciclo, ouvido o conselho de docentes, ou o conselho de turma, nos 2.º e 3.º ciclos, deve propor as medidas necessárias para superar as dificuldades detetadas no percurso escolar do aluno.
+
+2 - Caso o aluno não desenvolva as aprendizagens definidas para um ano não terminal de ciclo que, fundamentadamente, comprometam o desenvolvimento das aprendizagens definidas para o ano de escolaridade subsequente, o professor titular de turma, no 1.º ciclo, ouvido o conselho de docentes, ou o conselho de turma, nos 2.º e 3.º ciclos, pode, a título excecional, determinar a retenção do aluno no mesmo ano de escolaridade.
+
+3 - O previsto no número anterior não se aplica ao 1.º ano de escolaridade.
+
+4 - Verificando-se a retenção, compete ao professor titular de turma, no 1.º ciclo, e ao conselho de turma, nos 2.º e 3.º ciclos, identificar as aprendizagens não desenvolvidas pelo aluno, as quais devem ser tomadas em consideração na elaboração de um plano individual ou do plano da turma em que o referido aluno venha a ser integrado no ano escolar subsequente.
+
+5 - Para os alunos do 9.º ano, a decisão sobre a progressão e retenção depende ainda dos resultados das provas finais de ciclo.
+
+6 - A disciplina de Educação Moral e Religiosa não é considerada para efeitos de progressão dos alunos.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 17/2016 - Diário da República n.º 65/2016, Série I de 2016-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2016-74007250), em vigor a partir de 2016-04-05
+
+###### Artigo 27.º — Conclusão e certificação
+
+1 - Aos alunos que concluam com aproveitamento o ensino básico é passado o diploma do ensino básico pelo órgão de administração e gestão do respetivo agrupamento ou escola não agrupada.
+
+2 - A requerimento dos interessados, devem, ainda, ser emitidas pelo órgão de administração e gestão do respetivo agrupamento ou escola não agrupada, em qualquer momento do percurso escolar do aluno, certidões das habilitações adquiridas, as quais devem discriminar as disciplinas concluídas e os respetivos resultados de avaliação.
+
+3 - Pela emissão das certidões, prevista no número anterior, é devida uma taxa de montante a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação, que constitui receita própria da escola.
+
+#### Secção III — Ensino secundário
+
+###### Artigo 28.º — Efeitos da avaliação
+
+1 - A avaliação diagnóstica visa facilitar a integração escolar do aluno, o apoio à orientação escolar e vocacional e o reajustamento de estratégias.
+
+2 - A avaliação formativa determina a adoção de medidas pedagógicas adequadas às características dos alunos e à aprendizagem a desenvolver.
+
+3 - A avaliação sumativa conduz à tomada de decisão, no âmbito da classificação e da aprovação em cada disciplina ou módulo, quanto à progressão nas disciplinas não terminais, à transição para o ano de escolaridade subsequente, à admissão à matrícula e à conclusão do nível secundário de educação.
+
+4 - Exceto quando o aluno pretenda prosseguir estudos nesta área, a classificação na disciplina de Educação Física é considerada para efeitos de conclusão do nível secundário de educação, mas não entra no apuramento da média final.
+
+5 - A disciplina de Educação Moral e Religiosa não é considerada para efeitos de progressão dos alunos.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 29.º — Avaliação sumativa
+
+1 - A avaliação sumativa consiste na formulação de um juízo global, tem como objetivos a classificação e a certificação e inclui:
+
+a) A avaliação sumativa interna, da responsabilidade dos professores e dos órgãos de gestão pedagógica da escola;
+
+b) A avaliação sumativa externa, da responsabilidade dos serviços ou entidades do Ministério da Educação e Ciência designados para o efeito, concretizada através da realização de provas e de exames finais nacionais.
+
+2 - A avaliação sumativa externa aplica-se:
+
+a) Aos alunos dos cursos científico-humanísticos, excluindo os da modalidade de ensino recorrente;
+
+b) Aos alunos dos cursos científico-humanísticos da modalidade de ensino recorrente que pretendam prosseguir estudos em cursos de ensino superior conferentes de grau académico;
+
+c) A todos os alunos dos outros cursos que pretendam prosseguir estudos em cursos do ensino superior conferentes de grau académico.
+
+3 - A avaliação sumativa externa para os alunos dos cursos científico-humanísticos realiza-se no ano terminal da respetiva disciplina, nos termos seguintes:
+
+a) Na disciplina de Português da componente de formação geral;
+
+b) Na disciplina trienal da componente de formação específica;
+
+c) Em duas disciplinas bienais da componente de formação específica, ou numa das disciplinas bienais da componente de formação específica e na disciplina de Filosofia da componente de formação geral, de acordo com a opção do aluno.
+
+4 - A avaliação sumativa externa dos alunos dos cursos profissionais realiza-se nos termos seguintes:
+
+a) Na disciplina de Português da componente de formação geral dos cursos científico-humanísticos;
+
+b) Numa disciplina trienal da componente de formação específica, escolhida de entre as que compõem os planos de estudo dos vários cursos científico-humanísticos;
+
+c) Numa disciplina bienal da componente de formação específica, escolhida de entre as que compõem os planos de estudo dos vários cursos científico-humanísticos.
+
+5 - A avaliação sumativa externa dos alunos dos cursos de ensino artístico especializado realiza-se nos termos seguintes:
+
+a) Na disciplina de Português da componente de formação geral;
+
+b) Na disciplina bienal de Filosofia da componente de formação geral.
+
+6 - É facultada aos alunos dos cursos regulados pelo presente diploma a realização dos exames a que se referem os n.os 3, 4 e 5 na qualidade de autopropostos, de acordo com as disposições do Regulamento de Exames do Ensino Secundário em vigor.
+
+7 - Em todas as disciplinas constantes dos planos de estudo são atribuídas classificações na escala de 0 a 20 valores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), em vigor a partir de 2013-07-15
+
+###### Artigo 30.º — Conclusão
+
+1 - A conclusão do nível secundário depende de aprovação em todas as disciplinas do plano de estudos do curso frequentado pelo aluno.
+
+2 - A conclusão dos cursos científico-humanísticos, excluindo os da modalidade de ensino recorrente, está dependente da realização, com caráter obrigatório, de exames finais nacionais às disciplinas sujeitas à modalidade de avaliação sumativa externa.
+
+3 - Nos cursos artísticos especializados, o aluno deve ainda obter aprovação na prova de aptidão artística e, consoante a área artística, na formação em contexto de trabalho.
+
+4 - Nos cursos profissionais, o aluno deve ainda obter aprovação na formação em contexto de trabalho e na prova de aptidão profissional.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 31.º — Certificação
+
+1 - Para certificação da conclusão de um curso profissional, de um curso artístico especializado, de um curso na modalidade de ensino recorrente ou de um curso vocacional não é considerada a realização de exames finais nacionais.
+
+2 - No caso de um aluno que, previamente, haja concluído um curso profissional, de ensino artístico especializado ou científico-humanístico ingressando, em ano letivo posterior, em curso científico-humanístico na modalidade de ensino recorrente, a classificação final do ensino secundário a considerar para efeitos de prosseguimento de estudos resulta da avaliação sumativa externa realizada no ano terminal:
+
+a) Na disciplina de Português da componente da formação geral;
+
+b) Na disciplina trienal da componente de formação geral;
+
+c) Em duas disciplinas bienais da componente de formação específica, ou numa das disciplinas bienais da componente de formação específica e na disciplina de Filosofia da componente de formação geral, de acordo com a opção do aluno.
+
+3 - O aluno que, por via do disposto no número anterior, fique com a classificação final do ensino recorrente indexada às classificações dos exames finais não perde o direito de usar a classificação final que obteve no curso de origem, nomeadamente para efeitos de prosseguimento de estudos, de acordo com regime de avaliação desse curso.
+
+4 - A formação obtida nos cursos a que se refere o n.º 2 do artigo 6.º é certificada e creditada para efeitos de prosseguimento de estudos de nível secundário ou superior, conforme a tipologia do curso.
+
+5 - A certificação dos cursos de nível secundário de educação não dispensa o aluno, para efeitos de candidatura ao ensino superior, do cumprimento dos restantes requisitos a que estiver sujeito.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 32.º — Emissão de certidões
+
+1 - A conclusão de um curso de nível secundário é comprovada através da emissão dos respetivos diplomas ou certificados.
+
+2 - É emitido certificado de qualificação aos alunos que concluam qualquer das ofertas de ensino secundário.
+
+3 - Para a emissão de diplomas e certificados, referidos nos números anteriores, é competente o órgão de administração e gestão dos agrupamentos ou escolas não agrupadas ou o órgão de gestão pedagógica, no caso dos estabelecimentos de ensino particular e cooperativo e das escolas profissionais.
+
+4 - A requerimento dos interessados devem também ser emitidas, pelo órgão de administração e gestão do respetivo agrupamento ou escola não agrupada, em qualquer momento do percurso escolar do aluno, certidões das habilitações adquiridas, as quais devem discriminar as disciplinas concluídas e os respetivos resultados de avaliação.
+
+5 - Pela emissão das certidões, prevista no número anterior, é devida uma taxa de montante a fixar por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da educação, que constitui receita própria para a escola.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+### Capítulo IV — Disposições finais e transitórias
+
+###### Artigo 33.º — Ensino vocacional
+
+Os cursos de ensino vocacional são objeto de regulamentação através de portaria do membro do Governo responsável pela área da educação.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 34.º — Modelo de diploma e de certificado
+
+Os modelos de diploma e de certificado, referidos nos artigos 27.º e 32.º, são definidos por despacho do membro do Governo responsável pela área da educação.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 35.º — Disposição transitória
+
+1 - No ano letivo de 2012-2013, no 9.º ano de escolaridade, a disciplina de Introdução às Tecnologias de Informação e Comunicação mantém-se com um tempo mínimo de 90 minutos semanais.
+
+2 - As normas relativas à organização e funcionamento dos cursos tecnológicos, criados pelo Decreto-Lei n.º 74/2004, de 26 de março, alterado pelos Decretos-Leis n.os 24/2006, de 6 de fevereiro, 272/2007, de 26 de julho, 4/2008, de 7 de janeiro, 50/2011, de 8 de abril, e 42/2012, de 22 de fevereiro, mantêm a sua vigência até ao final do ano letivo de 2013-2014.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 36.º — Regiões Autónomas
+
+A aplicação do presente diploma às Regiões Autónomas dos Açores e da Madeira faz-se sem prejuízo das competências dos órgãos de Governo próprio em matéria de educação.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 37.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 6/2001, de 18 de janeiro;
+
+b) O Decreto-Lei n.º 74/2004, de 26 de março, alterado pelos Decretos-Leis n.os 24/2006, de 6 de fevereiro, 272/2007, de 26 de julho, 4/2008, de 7 de janeiro, 50/2011, de 8 de abril, e 42/2012, de 22 de fevereiro.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+###### Artigo 38.º — Produção de efeitos
+
+1 - O presente diploma produz efeitos a partir do ano letivo de 2012-2013.
+
+2 - O disposto no n.º 4 do artigo 28.º, relativo à não contabilização da classificação obtida na disciplina de Educação Física para apuramento da média final do ensino secundário, produz efeitos de forma progressiva, aplicando-se:
+
+a) No ano letivo de 2012-2013, apenas aos alunos matriculados no 10.º ano de escolaridade;
+
+b) No ano letivo de 2013-2014, também aos alunos matriculados no 11.º ano de escolaridade;
+
+c) No ano letivo de 2014-2015, a todos os alunos matriculados no ensino secundário.
+
+3 - Os mecanismos de transição para os desenhos curriculares aprovados pelo presente diploma são definidos por despacho do membro do Governo responsável pela área da educação.
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962) O Decreto-Lei n.º 139/2012, de 5 de julho mantêm a vigência transitória, das normas relativas a: a) Cursos de educação e formação de adultos; b) Ensinos básico e secundário na modalidade de ensino recorrente.
+
+Visto e aprovado em Conselho de Ministros de 31 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.
+
+Promulgado em 21 de junho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 24 de junho de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo I — (a que se referem os artigos 2.º e 8.º)
+
+Ensino básico
+
+1.º ciclo
+
+1.º e 2.º anos
+
+(ver documento original)
+
+3.º e 4.º anos
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), em vigor a partir de 2013-07-15
+
+## Anexo II — (a que se referem os artigos 2.º e 8.º)
+
+Ensino básico - 2.º ciclo
+
+Parte A
+
+No âmbito da sua autonomia, as escolas têm liberdade de organizar os tempos letivos na unidade que considerem mais conveniente desde que respeitem as cargas horárias semanais constantes do quadro infra. Os tempos apresentados correspondem aos tempos mínimos por área disciplinar e disciplinas, pelo que não podem ser aplicados apenas os mínimos, em simultâneo, em todas as disciplinas. O tempo a cumprir é realizado pelo somatório dos tempos alocados às diversas disciplinas, podendo ser feitos ajustes de compensação entre semanas:
+
+(ver documento original)
+
+Se da distribuição das cargas em tempos letivos semanais resultar uma carga horária total inferior ao tempo a cumprir, o tempo sobrante é utilizado no reforço de atividades letivas da turma.
+
+Parte B
+
+A presente matriz curricular apresenta, para referência e para efeito exemplificativo, a carga horária semanal organizada em períodos de 45 minutos, assumindo a sua distribuição semanal e por anos de escolaridade um caráter indicativo para as escolas:
+
+(ver documento original)
+
+## Anexo III — (a que se referem os artigos 2.º e 8.º)
+
+Ensino básico - 3.º ciclo
+
+Parte A
+
+No âmbito da sua autonomia, as escolas têm liberdade de organizar os tempos letivos na unidade que considerem mais conveniente desde que respeitem as cargas horárias semanais constantes do quadro infra. Os tempos apresentados correspondem aos tempos mínimos por área disciplinar e disciplinas, pelo que não podem ser aplicados apenas os mínimos, em simultâneo, em todas as disciplinas. O tempo a cumprir é realizado pelo somatório dos tempos alocados às diversas disciplinas e à oferta de escola, podendo ser feitos ajustes de compensação entre semanas:
+
+(ver documento original)
+
+Se da distribuição das cargas em tempos letivos semanais resultar uma carga horária total inferior ao tempo a cumprir, o tempo sobrante é utilizado no reforço de atividades letivas da turma.
+
+Parte B
+
+A presente matriz curricular apresenta, para referência e para efeito exemplificativo, a carga horária semanal organizada em períodos de 45 minutos, assumindo a sua distribuição semanal e por anos de escolaridade um caráter indicativo para as escolas:
+
+(ver documento original)
+
+## Anexo IV — (a que se referem os artigos 2.º e 16.º)
+
+Ensino secundário - Cursos científico-humanísticos
+
+Parte A
+
+No âmbito da sua autonomia, as escolas têm liberdade de organizar os tempos letivos na unidade que considerem mais conveniente desde que respeitem as cargas horárias semanais constantes do quadro infra. Os tempos apresentados correspondem aos tempos mínimos por área disciplinar e disciplinas, pelo que não podem ser aplicados apenas os mínimos, em simultâneo, em todas as disciplinas. O tempo a cumprir é realizado pelo somatório dos tempos alocados às diversas disciplinas, podendo ser feitos ajustes de compensação entre semanas:
+
+(ver documento original)
+
+Se da distribuição das cargas em tempos letivos semanais resultar uma carga horária total inferior ao tempo a cumprir, o tempo sobrante é utilizado no reforço de atividades letivas da turma.
+
+Parte B
+
+A presente matriz curricular apresenta, para referência e para efeito exemplificativo, a carga horária semanal organizada em períodos de 45 minutos, assumindo a sua distribuição semanal e por anos de escolaridade um caráter indicativo para as escolas:
+
+(ver documento original)
+
+## Anexo V — (a que se referem os artigos 2.º e 16.º)
+
+Ensino secundário - Cursos artísticos especializados
+
+Parte A
+
+No âmbito da sua autonomia, as escolas têm liberdade de organizar os tempos letivos na unidade que considerem mais conveniente desde que respeitem as cargas horárias semanais constantes do quadro infra. Os tempos apresentados correspondem aos tempos mínimos por área disciplinar e disciplinas, pelo que não podem ser aplicados apenas os mínimos, em simultâneo, em todas as disciplinas. O tempo a cumprir é realizado pelo somatório dos tempos alocados às diversas disciplinas, podendo ser feitos ajustes de compensação entre semanas:
+
+(ver documento original)
+
+Parte B
+
+A presente matriz curricular apresenta, para referência e para efeito exemplificativo, a carga horária semanal organizada em períodos de 45 minutos, assumindo a sua distribuição semanal e por anos de escolaridade um caráter indicativo para as escolas:
+
+(ver documento original)
+
+## Anexo VI — (a que se referem os artigos 2.º e 16.º)
+
+Ensino secundário - Cursos profissionais
+
+No âmbito da autonomia, as escolas têm liberdade de organizar os tempos letivos na unidade mais conveniente desde que respeitem as cargas horárias totais de cada disciplina constantes do presente anexo:
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2013 - Diário da República n.º 131/2013, Série I de 2013-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860), em vigor a partir de 2013-07-15
+
+## Anexo VII — (a que se referem os artigos 2.º e 16.º)
+
+Ensino secundário - Cursos científico-humanísticos do ensino recorrente
+
+A presente matriz curricular apresenta a carga horária semanal organizada em períodos de 45 minutos, assumindo a sua distribuição por anos de escolaridade um caráter vinculativo para as escolas:
+
+(ver documento original)

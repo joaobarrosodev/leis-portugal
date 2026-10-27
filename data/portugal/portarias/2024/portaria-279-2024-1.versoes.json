@@ -1,0 +1,175 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:893782290:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-908077423",
+ "dre_path": "/dr/detalhe/portaria/279-2024-893782290",
+ "source_lastmod": "2025-02-20",
+ "versions": [
+  {
+   "date": "2024-10-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "908114489",
+    "908114490",
+    "908114491",
+    "908114492",
+    "908114493",
+    "908114494",
+    "908114495",
+    "908114496",
+    "908114497",
+    "908114498",
+    "908114499",
+    "908114500"
+   ]
+  },
+  {
+   "date": "2025-02-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:908074081:por",
+     "title": "Portaria n.º 45/2025/1",
+     "published": "2025-02-20",
+     "dre_path": "/dr/detalhe/portaria/45-2025-908074081"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "908114489",
+    "908114490",
+    "908114502",
+    "908114492",
+    "908114493",
+    "908114494",
+    "908114495",
+    "908114496",
+    "908114497",
+    "908114498",
+    "908114499",
+    "908114500",
+    "908114501"
+   ]
+  }
+ ],
+ "fragments": {
+  "908114489": {
+   "fragment_id": "908077424",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 279/2024/1\n\nde 29 de outubro\n\nNa sequência dos vários incêndios que fustigaram as regiões Norte e Centro de Portugal continental desde o passado dia 15 de setembro, com consequências trágicas para as populações, foi estabelecido, através do Decreto-Lei n.º 59-A/2024, de 27 de setembro, um conjunto alargado de medidas excecionais e de apoios sociais a conceder às pessoas e famílias afetadas, em diversas áreas, entre as quais, a habitação.\n\nNeste contexto, pretende o Governo que a implementação das medidas e apoios previstos no referido decreto-lei ocorra com a máxima celeridade, pelo que será promovida a respetiva aplicação em articulação com as autarquias e as comissões de coordenação e desenvolvimento regional, I. P. (CCDR), territorialmente competentes.\n\nO âmbito de aplicação territorial do Decreto-Lei n.º 59-A/2024, de 27 de setembro, foi delimitado por via da Resolução de Conselho de Ministros n.º 130-A/2024, de 27 de setembro, sendo aplicável à presente portaria.\n\nEm matéria de habitação, encontra-se prevista, nos termos do artigo 16.º do mencionado Decreto-Lei n.º 59-A/2024, de 27 de setembro, a concessão de apoios para a construção, reconstrução, reabilitação, aquisição e arrendamento das habitações destinadas a residência permanente afetadas pelos incêndios, assim como o seu apetrechamento, bem como o alojamento urgente e temporário.\n\nAssim, relativamente à construção, reconstrução, reabilitação e aquisição de habitação permanente atingida pelos incêndios, define-se que o montante da comparticipação é apurado em função do valor da estimativa a que se reporta o n.º 2 do artigo 2.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro, prevendo-se que os primeiros € 150 000 sejam comparticipados a 100 % pelo Estado e o valor remanescente a 85 %.\n\nQuanto ao arrendamento, prevê-se a comparticipação a 100 % da diferença entre o valor do arrendamento atual e o valor previsto no novo contrato de arrendamento, tendo como limite máximo a mediana do concelho, sendo o prazo máximo dos apoios de cinco anos.\n\nDefine também o Decreto-Lei n.º 59-A/2024, de 27 de setembro, no n.º 2 do artigo 16.º, que os apoios abrangem as habitações danificadas legalizadas urbanisticamente ou suscetíveis de legalização.\n\nO alojamento urgente e temporário é concedido em situações de necessidade de alojamento imediato e provisório definido pelo município, assumindo-se como uma solução intercalar face à solução habitacional definitiva a concretizar por via dos apoios e no prazo concedido no diploma, sendo a sua comparticipação atribuída diretamente aos municípios.\n\nDe acordo com o disposto nos artigos 26.º e 27.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro, a concessão destes apoios depende da submissão de candidatura e da verificação do cumprimento dos requisitos de elegibilidade pelos candidatos, pelo que importa proceder à regulamentação do procedimento de candidatura inerente à concessão dos apoios na área da habitação.\n\nAssim:\n\nManda o Governo, pelo Ministro Adjunto e da Coesão Territorial e pelo Ministro das Infraestruturas e Habitação, ao abrigo do disposto no n.º 7 do artigo 16.º e no artigo 37.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro, o seguinte:"
+  },
+  "908114490": {
+   "fragment_id": "908077425",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta, em matéria de habitação, o Decreto-Lei n.º 59-A/2024, de 27 de setembro, que estabelece as medidas e apoios a conceder às populações afetadas pelos incêndios de setembro de 2024, e, em execução do previsto nos respetivos artigos 16.º, 27.º e 28.º, define o procedimento aplicável aos procedimentos de candidatura à concessão de apoios em matéria de habitação."
+  },
+  "908114491": {
+   "fragment_id": "908077426",
+   "type": 11,
+   "heading": "Artigo 2.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Apresentação das candidaturas\n\n1 - O acesso aos apoios estabelecidos pelo artigo 16.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro, depende da submissão de candidatura, mediante o preenchimento de formulário a disponibilizar pelo balcão de apoio a funcionar junto de cada município abrangido no âmbito territorial do referido decreto-lei, e no sítio oficial da cada CCDR territorialmente competente.\n\n2 - Os procedimentos de candidatura aos apoios em matéria de habitação, dividem-se em:\n\na) Pedidos de apoios à construção, reconstrução, reabilitação, aquisição ou arrendamento das habitações destinadas a residência permanente afetada pelos incêndios, a conceder aos municípios ou diretamente aos respetivos proprietários ou arrendatários, conforme aplicável;\n\nb) Pedidos de apoio para o apetrechamento da habitação, considerando a reposição dos bens nela existentes imediatamente antes da ocorrência dos incêndios;\n\nc) Pedidos de apoio financeiro para alojamento urgente e temporário em situações de necessidade de alojamento imediato e provisório, através da comparticipação direta aos municípios.\n\n3 - Os serviços do município, em articulação com a CCDR territorialmente competente, são responsáveis por auxiliar os requerentes no correto preenchimento dos formulários de candidatura aos apoios.\n\n4 - A receção da candidatura cabe ao município territorialmente competente, por via do respetivo balcão de apoio, devendo ser registadas e reportadas à CCDR territorialmente competente.\n\n5 - O prazo para a submissão de candidaturas termina a 31 de dezembro de 2024."
+  },
+  "908114492": {
+   "fragment_id": "908077427",
+   "type": 11,
+   "heading": "Artigo 3.º — Instrução das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instrução das candidaturas\n\nAs candidaturas aos apoios constantes do artigo 16.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro, devem ser instruídas com os elementos necessários para efeito de verificação pelas CCDR territorialmente competentes do preenchimento das condições de elegibilidade dos beneficiários, nomeadamente:\n\na) No caso dos apoios previstos nas alíneas a) e b) do n.º 7 do artigo 16.º, a apresentação de comprovativo da propriedade do imóvel objeto do apoio, a favor do respetivo beneficiário, e de que a habitação danificada se destinava a residência permanente, aplicando-se o disposto nas alíneas a) e b) do n.º 3 do artigo 16.º;\n\nb) Relativamente ao apoio previsto na alínea c) do n.º 7 do artigo 16.º, a apresentação de comprovativos do arrendamento relativo ao imóvel danificado ao longo dos últimos três meses."
+  },
+  "908114493": {
+   "fragment_id": "908077428",
+   "type": 11,
+   "heading": "Artigo 4.º — Aprovação e gestão da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aprovação e gestão da candidatura\n\n1 - A verificação das condições de elegibilidade dos candidatos aos apoios previstos no artigo 16.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro, é da competência da CCDR territorialmente competente.\n\n2 - Após validação da candidatura, a CCDR territorialmente competente procede à notificação da sua decisão ao requerente, com dispensa de audiência prévia nos casos de atribuição de quaisquer apoios, contando-se a partir do dia útil seguinte à receção da notificação o prazo previsto no n.º 6 do artigo 16.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro.\n\n3 - As candidaturas rejeitadas ou indeferidas, por falta de qualquer um dos requisitos aos apoios na habitação, não inviabilizam a apresentação de nova candidatura pelo mesmo interessado, desde que observados os pressupostos para a atribuição de apoios excecionais na área da habitação.\n\n4 - A gestão da candidatura, bem como a fiscalização da execução dos apoios aprovados compete à CCDR territorialmente competente."
+  },
+  "908114494": {
+   "fragment_id": "908077429",
+   "type": 11,
+   "heading": "Artigo 5.º — Valores de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Valores de referência\n\n1 - O valor máximo aplicável por metro quadrado, para construção, reconstrução, reabilitação e aquisição de habitação, corresponde a 75 % do último valor da mediana nacional das vendas por metro quadrado de alojamentos familiares novos, publicado pelo Instituto Nacional de Estatística, à data da aprovação da candidatura.\n\n2 - No que respeita ao apoio para apetrechamento da habitação, os valores máximos aplicáveis correspondem ao montante de até € 4000, para habitações de tipologia T0, com um incremento de € 500 por cada tipologia superior, até ao limite de € 6000."
+  },
+  "908114495": {
+   "fragment_id": "908077430",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio para construção, reconstrução e reabilitação de habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio para construção, reconstrução e reabilitação de habitação\n\n1 - Os apoios concedidos para efeitos de construção, reconstrução, reabilitação e aquisição de habitação, obedecem aos seguintes termos:\n\na) Comparticipação a 100 % até ao montante de € 150 000, com IVA incluído;\n\nb) Comparticipação a 85 % no montante que exceda o referido na alínea anterior.\n\n2 - O valor do apoio a conceder é determinado nos termos da vistoria conjunta, a realizar por técnicos dos municípios e da CCDR territorialmente competente, conforme previsto no n.º 2 do artigo 2.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro.\n\n3 - Os apoios concedidos pelo presente artigo destinam-se a fazer face às despesas com:\n\na) Trabalhos que visem a demolição, contenção ou quaisquer obras de segurança prévias à reconstrução parcial ou total de imóveis, quando aplicável;\n\nb) Obras de conservação, reabilitação, reconstrução e construção de habitações, de edificações destinadas a habitação, devidamente aprovadas e licenciadas, quando aplicável;\n\nc) Aquisição do terreno, nos casos previstos no n.º 14 do artigo 16.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro;\n\nd) Aquisição de materiais de construção, quando aplicável;\n\ne) Projetos de arquitetura e especialidades e outros estudos necessários à execução das obras, quando aplicável;\n\nf) Fiscalização de obra, quando aplicável;\n\ng) Atos notariais e de registo, quando aplicável.\n\n4 - A comparticipação monetária prevista no n.º 1 do presente artigo pode ser entregue ao município, mediante autorização do beneficiário, que executa as obras de construção, reconstrução ou de reabilitação da habitação, em sua representação e com a devida autorização para o efeito, ou diretamente aos beneficiários."
+  },
+  "908114496": {
+   "fragment_id": "908077431",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio para arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio para arrendamento\n\nO valor de comparticipação para arrendamento pode ser entregue ao município, mediante autorização do beneficiário, ou diretamente ao beneficiário, e corresponde a 100 %, considerando a diferença entre a renda praticada no mês anterior à ocorrência dos incêndios e a renda a comparticipar, limitada pelo valor da mediana das rendas praticadas no concelho onde se insere a habitação, no trimestre anterior à ocorrência dos incêndios."
+  },
+  "908114497": {
+   "fragment_id": "908077432",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio para apetrechamento de habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio para apetrechamento de habitação\n\n1 - O apoio concedido para efeitos de apetrechamento da habitação visa a reposição dos bens nela existentes imediatamente antes da ocorrência dos incêndios.\n\n2 - O apetrechamento das habitações é efetuado através de comparticipação monetária definida com base na estimativa do valor dos danos, apurada pelos técnicos dos municípios e da CCDR territorialmente competente, nos termos definidos no n.º 2 do artigo 2.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro, podendo ser disponibilizada após a aprovação da candidatura.\n\n3 - A comparticipação monetária referida no número anterior pode ser entregue ao município, mediante autorização do beneficiário, para que este adquira e entregue os bens necessários ao apetrechamento, ou diretamente aos beneficiários, de acordo com o levantamento de necessidades e estimativa de custos apurados na vistoria a realizar nos termos do número anterior.\n\n4 - No caso de a comparticipação monetária ser entregue diretamente ao beneficiário, este entrega ao município as faturas que comprovem a aquisição dos bens necessários ao apetrechamento, no prazo de um mês a contar da sua aquisição, para validação da CCDR territorialmente competente.\n\n5 - O incumprimento do disposto no número anterior constitui o beneficiário no dever de devolução da totalidade da comparticipação monetária recebida."
+  },
+  "908114498": {
+   "fragment_id": "908077433",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio ao alojamento urgente e temporário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio ao alojamento urgente e temporário\n\nO apoio financeiro para alojamento urgente e temporário é concedido em situações de necessidade de alojamento imediato e provisório definido pelo município territorialmente competente em articulação com os técnicos da ação social do Instituto da Segurança Social, I. P. (ISS, I. P.), assumindo-se como uma solução intercalar face à solução habitacional definitiva a concretizar por via dos apoios e no prazo concedido pelo Decreto-Lei n.º 59-A/2024, de 27 de setembro, sendo para o efeito disponibilizada uma comparticipação aos municípios destinada a suportar, designadamente, os encargos relativos a alojamento em empreendimentos turísticos ou equiparados, estabelecimentos de alojamento local, lares ou residências de idosos e arrendamento ou subarrendamento de uma habitação, entre outras soluções habitacionais que se considerem viáveis neste âmbito."
+  },
+  "908114499": {
+   "fragment_id": "908077434",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma de pagamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma de pagamento dos apoios\n\n1 - O pagamento do apoio para construção, reconstrução, reabilitação e aquisição de habitação efetua-se da seguinte forma:\n\na) 50 % do montante é entregue ao respetivo proprietário ou ao município, caso o último seja responsável pela execução da obra, nos termos previstos no n.º 4 do artigo 6.º, no momento da celebração do contrato de comparticipação;\n\nb) 40 % do montante é entregue após a apresentação dos recibos que comprovem despesas que excedam o montante previsto na alínea anterior;\n\nc) 10 % do montante é entregue no final da obra, com a apresentação de relatório conjunto a elaborar pela CCDR, I. P., e pelo município e apresentação do comprovativo do qual resulte o registo da propriedade do imóvel a favor do beneficiário do apoio.\n\n2 - O pagamento das primeiras duas rendas e caução, caso aplicável, será efetuado mediante a apresentação do contrato de arrendamento ou contrato promessa de arrendamento.\n\n3 - A manutenção do apoio para arrendamento depende da apresentação do comprovativo de liquidação da renda do mês imediatamente anterior junto dos serviços do município territorialmente competente."
+  },
+  "908114500": {
+   "fragment_id": "908077435",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor cinco dias após a data da sua publicação."
+  },
+  "908114502": {
+   "fragment_id": "908077426",
+   "type": 11,
+   "heading": "Artigo 2.º — Apresentação das candidaturas",
+   "in_force_from": "2025-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2025-908074081), em vigor a partir de 2025-02-21, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Apresentação das candidaturas\n\n1 - O acesso aos apoios estabelecidos pelo artigo 16.º do Decreto-Lei n.º 59-A/2024, de 27 de setembro, depende da submissão de candidatura, mediante o preenchimento de formulário a disponibilizar pelo balcão de apoio a funcionar junto de cada município abrangido no âmbito territorial do referido decreto-lei, e no sítio oficial da cada CCDR territorialmente competente.\n\n2 - Os procedimentos de candidatura aos apoios em matéria de habitação, dividem-se em:\n\na) Pedidos de apoios à construção, reconstrução, reabilitação, aquisição ou arrendamento das habitações destinadas a residência permanente afetada pelos incêndios, a conceder aos municípios ou diretamente aos respetivos proprietários ou arrendatários, conforme aplicável;\n\nb) Pedidos de apoio para o apetrechamento da habitação, considerando a reposição dos bens nela existentes imediatamente antes da ocorrência dos incêndios;\n\nc) Pedidos de apoio financeiro para alojamento urgente e temporário em situações de necessidade de alojamento imediato e provisório, através da comparticipação direta aos municípios.\n\n3 - Os serviços do município, em articulação com a CCDR territorialmente competente, são responsáveis por auxiliar os requerentes no correto preenchimento dos formulários de candidatura aos apoios.\n\n4 - A receção da candidatura cabe ao município territorialmente competente, por via do respetivo balcão de apoio, devendo ser registadas e reportadas à CCDR territorialmente competente.\n\n5 - O prazo para a submissão de candidaturas termina a 31 de março de 2025.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 45/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/45-2025-908074081), em vigor a partir de 2025-02-21, produz efeitos a partir de 2025-01-01"
+  },
+  "908114501": {
+   "fragment_id": "908077436",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro Adjunto e da Coesão Territorial, Manuel Castro Almeida, em 21 de outubro de 2024. - O Ministro das Infraestruturas e Habitação, Miguel Martinez de Castro Pinto Luz, em 20 de outubro de 2024.\n\n118262806"
+  }
+ }
+}

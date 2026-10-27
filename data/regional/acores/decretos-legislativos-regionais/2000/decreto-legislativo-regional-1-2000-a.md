@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:514062:por
+title: Decreto Legislativo Regional n.º 1/2000/A
+short_title: null
+summary: Estabelece o acréscimo ao salário mínimo nacional na Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 1/2000/A
+official_date: null
+publication_date: '2000-01-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/2000, Série I-A de 2000-01-12
+  number: '9'
+  series: I
+  supplement: null
+  pages: 84 - 85
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/01/009a00/00840085.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/1/2000/01/12/a/dre/pt/html
+  oj: null
+  dre: '514062'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/1-2000-514062
+  internal: pt:dre:514062:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2000-514062
+  metadata_url: https://data.dre.pt/eli/declegreg/1/2000/01/12/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2000-514062
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e1639e34b0f16092f6b959dcdc17ede96b904f730dc6bb0b1b346b9b91a67516
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:629104:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: repealed_by
+  target: pt:dre:303252:por
+  label: "Revogado o presente diploma, pelo DLR.8/2002/A.2002.03.12.ALR-RAA, DR.IS-A [84] de 10/04/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2002-303252
+  date: '2002-03-12'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:19:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 1/2000/A
+
+Acréscimo ao salário mínimo nacional na Região Autónoma dos Açores
+
+O custo de vida nos Açores é superior ao do continente e penaliza profundamente os trabalhadores que auferem menores salários, pelo que se impõe fazer justiça remuneratória.
+
+A economia da Região Autónoma dos Açores necessita de regras específicas que permitam a sua sobrevivência no espaço económico alargado em que está integrada, que limitem os custos económicos acrescidos e gerados pela insularidade e que façam diminuir os custos financeiros das empresas.
+
+A redução de 30% no IRC, na Região Autónoma dos Açores, constitui um claro contributo para a redução de encargos das empresas.
+
+Os órgãos de governo próprio dos Açores, que têm a obrigação política e constitucional de encarar o problema do desenvolvimento, devem contribuir, simultaneamente, para a viabilização das empresas e para a dignificação de quem trabalha.
+
+O pagamento de um acréscimo ao salário mínimo nacional nos Açores, para além de constituir um correctivo do desvio negativo que afecta os salários dos trabalhadores por conta de outrem e de beneficiar, directamente, os que auferem o salário mínimo, também potencia a correcção da totalidade das tabelas salariais, negociadas e estabelecidas pelos meios legalmente previstos.
+
+Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º
+
+1 - Os valores da remuneração mínima mensal garantida, estabelecidos por lei geral da República, passam a ter, na Região Autónoma dos Açores, um acréscimo de 5%.
+
+2 - O disposto no número anterior aplica-se quer aos trabalhadores do serviço doméstico, quer aos trabalhadores dos restantes sectores.
+
+###### Artigo 2.º
+
+O disposto no artigo 1.º produz efeitos a partir de 1 de Janeiro de 2000.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Novembro de 1999.
+
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
+
+Assinado em Angra do Heroísmo em 21 de Dezembro de 1999.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

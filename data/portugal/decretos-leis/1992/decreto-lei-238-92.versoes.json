@@ -1,0 +1,591 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:217703:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-170878181",
+ "dre_path": "/dr/detalhe/decreto-lei/238-1992-217703",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1992-10-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "170876873",
+    "170876874",
+    "170875175",
+    "170875176",
+    "170875177",
+    "170875178",
+    "170875179",
+    "170875180",
+    "170875181",
+    "170875182",
+    "170875183",
+    "170875184",
+    "170875185"
+   ]
+  },
+  {
+   "date": "1998-08-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:431225:por",
+     "title": "Lei n.º 38/98",
+     "published": "1998-08-04",
+     "dre_path": "/dr/detalhe/lei/38-1998-431225"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "170876873",
+    "220323528",
+    "220323529",
+    "220323530",
+    "220323531",
+    "220323532",
+    "220323533",
+    "220323534",
+    "220323535",
+    "220323536",
+    "220943289",
+    "220323538",
+    "220323539",
+    "220323540",
+    "220323541",
+    "220323542"
+   ]
+  },
+  {
+   "date": "2009-08-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493201:por",
+     "title": "Lei n.º 39/2009",
+     "published": "2009-07-30",
+     "dre_path": "/dr/detalhe/lei/39-2009-493201"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "170876873",
+    "220943291",
+    "220943292",
+    "220943293",
+    "220943294",
+    "220943295",
+    "220943297",
+    "220943290",
+    "220943298",
+    "220943300",
+    "220943289",
+    "220943301",
+    "220943302",
+    "220943303",
+    "220943304",
+    "220323542"
+   ]
+  },
+  {
+   "date": "2012-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175794:por",
+     "title": "Decreto-Lei n.º 216/2012",
+     "published": "2012-10-09",
+     "dre_path": "/dr/detalhe/decreto-lei/216-2012-175794"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "170876873",
+    "220943321",
+    "220943322",
+    "220943323",
+    "220943324",
+    "220943325",
+    "220943290",
+    "220943330",
+    "220943298",
+    "220943327",
+    "220943326",
+    "220943328",
+    "220943329",
+    "220943303",
+    "220943304",
+    "220323542"
+   ]
+  }
+ ],
+ "fragments": {
+  "170876873": {
+   "fragment_id": "170878182",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 238/92\n\nde 29 de Outubro\n\nO regime de policiamento dos espectáculos desportivos, a definição da responsabilidade dos organizadores e a eventual comparticipação do Estado carecem, como o tem demonstrado a prática, de clarificação e de garantias de praticabilidade.\n\nA presente iniciativa legislativa visa, nessa medida, responder às questões que, ao longo do período de vigência do actual regime, se vêm preocupantemente acumulando.\n\nPara tal, parte-se do princípio de que é responsabilidade do Estado o policiamento das áreas exteriores aos recintos desportivos, havendo, pois, que traçar o regime aplicável ao interior dos recintos desportivos. É esse o escopo do presente diploma.\n\nDepois, deve esclarecer-se que a requisição policial é voluntária, competindo aos organizadores do espectáculo desportivo e tendo lugar sempre que estes se não responsabilizarem pela manutenção da ordem. Este princípio de supletividade apenas é excepcionado nos casos de interdição dos recintos desportivos.\n\nEstabelecem-se, de seguida, dois modelos de cobertura de encargos com o policiamento desportivo decorrentes do carácter distinto das competições neles incluídas. Os organizadores dos espectáculos englobados nos campeonatos nacionais de seniores assumirão plenamente os encargos correspondentes. Prevê-se, porém, transitoriamente e até ao final da presente época desportiva, por razões de carácter operacional, a manutenção do adicional de 7% sobre o preço do bilhete, que reverterá para os organizadores. O policiamento dos espectáculos que envolvem as selecções nacionais, os campeonatos nacionais de escalões etários inferiores ao do escalão sénior e os campeonatos distritais será comparticipado pelo Estado até ao limite do cúmulo do valor de 1,5% do resultado de exploração do totoloto com as receitas previstas no Decreto-Lei n.º 270/89, de 18 de Agosto.\n\nFinalmente, simplificam-se os regimes de atribuição e transferência das verbas destinadas à participação do Estado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "170876874": {
+   "fragment_id": "170878183",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece o regime de policiamento e de satisfação dos encargos daí decorrentes no que se refere aos espectáculos desportivos realizados em recintos desportivos.\n\n2 - Para efeitos do disposto no presente diploma, entende-se por:\n\na) «Recinto desportivo», o espaço criado exclusivamente para a prática do desporto, com carácter fixo e com estruturas de construção que lhe garantam essa afectação e funcionalidade, dotado de lugares permanentes e reservados a assistentes, sob controlo de entrada;\n\nb) «Organizador de espectáculo desportivo», as entidades que, nos termos da lei e dos regulamentos desportivos, promovam, coordenem ou realizem os espectáculos desportivos da modalidade."
+  },
+  "170875175": {
+   "fragment_id": "170878184",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisição\n\n1 - A requisição da força policial é efectuada, sempre que considerada necessária, pelos organizadores dos espectáculos desportivos.\n\n2 - Quando não tenha lugar a solicitação da força policial, a responsabilidade pela manutenção da ordem dentro do respectivo recinto e pelos eventos resultantes da sua alteração cabe aos organizadores.\n\n3 - A requisição da força policial é obrigatória relativamente aos espectáculos que venham a ter lugar em recintos desportivos declarados interditos, a partir do momento da interdição e até final da época desportiva."
+  },
+  "170875176": {
+   "fragment_id": "170878185",
+   "type": 11,
+   "heading": "Artigo 3.º — Responsabilidade pelos encargos com o policiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidade pelos encargos com o policiamento\n\nA responsabilidade pelos encargos com o policiamento de espectáculos desportivos realizados em recintos desportivos é suportada pelos respectivos organizadores."
+  },
+  "170875177": {
+   "fragment_id": "170878186",
+   "type": 11,
+   "heading": "Artigo 4.º — Participação do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Participação do Estado\n\n1 - A participação do Estado nos encargos com o policiamento dos espectáculos desportivos que envolvam as selecções nacionais ou realizados no quadro dos campeonatos nacionais de escalões etários inferiores ao do escalão sénior e dos campeonatos distritais é constituída:\n\na) Pelo quantitativo correspondente à aplicação da percentagem de 1,5% aos resultados de exploração do totoloto, o qual será entregue mensalmente pela Santa Casa da Misericórdia;\n\nb) Pelas receitas previstas no Decreto-Lei n.º 270/89, de 18 de Agosto, que são remetidas mensalmente pela Direcção-Geral dos Desportos.\n\n2 - As verbas referidas no número anterior são entregues nos cofres do Estado, devendo as entidades depositantes remeter à Secretaria-Geral do Ministério da Administração Interna cópias das referidas guias.\n\n3 - As verbas a distribuir nos termos dos números anteriores serão enviadas pela Secretaria-Geral do Ministério da Administração Interna às federações respectivas, no fim de cada ano económico, competindo ao conselho técnico estabelecer os critérios de repartição."
+  },
+  "170875178": {
+   "fragment_id": "170878187",
+   "type": 11,
+   "heading": "Artigo 5.º — Calendário dos espectáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Calendário dos espectáculos\n\n1 - Para efeitos do disposto no artigo anterior, as federações desportivas fornecerão à Secretaria-Geral do Ministério da Administração Interna, até 30 dias antes do início da respectiva época desportiva, o calendário das provas oficiais, regionais, nacionais ou internacionais a realizar.\n\n2 - A inobservância do disposto no número anterior implica a imediata cessação da eventual participação do Estado."
+  },
+  "170875179": {
+   "fragment_id": "170878188",
+   "type": 11,
+   "heading": "Artigo 6.º — Qualificação dos espectáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Qualificação dos espectáculos\n\n1 - A nível internacional, consideram-se espectáculos de risco elevado os seguintes:\n\na) Aqueles que correspondam à fase final de um campeonato europeu ou mundial;\n\nb) Aqueles que sejam como tal declarados pelas organizações internacionais, a nível europeu e mundial, das respectivas modalidades, com base em incidentes ocasionados pelos adeptos de pelo menos uma das equipas ou, ainda, por razões excepcionais;\n\nc) Aqueles em que os adeptos da equipa visitante presumivelmente venham a ultrapassar os 10% da capacidade do estádio ou os 3000;\n\nd) Aqueles em que o recinto desportivo esteja presumivelmente repleto ou em que o número provável de espectadores seja superior a 50000.\n\n2 - A nível nacional, consideram-se espectáculos de risco elevado os seguintes:\n\na) Aqueles em que o número de espectadores previstos perfaça 65% da lotação do recinto;\n\nb) Aqueles em que o número provável de adeptos da equipa visitante perfaça 20% do número de espectadores previsto;\n\nc) Aqueles em que se verifique um clima de declarada hostilidade entre os clubes intervenientes;\n\nd) Aqueles cujo árbitro seja alvo de forte contestação;\n\ne) Aqueles em que os adeptos dos clubes intervenientes hajam ocasionado incidentes graves em jogos anteriores;\n\nf) Os encontros que sejam decisivos para ambas as equipas na conquista de um troféu, acesso a provas internacionais ou mudança de escalão divisionário.\n\n3 - Consideram-se de risco normal os espectáculos não abrangidos nos números anteriores."
+  },
+  "170875180": {
+   "fragment_id": "170878189",
+   "type": 11,
+   "heading": "Artigo 7.º — Número de efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Número de efectivos\n\n1 - Cabe ao comando das forças policiais territorialmente competente determinar o número de efectivos a destacar para o policiamento de cada espectáculo desportivo.\n\n2 - Para efeitos de cálculo do efectivo policial necessário, devem ter-se em consideração os seguintes critérios de orientação:\n\na) Relativamente a espectáculos que envolvam a categoria sénior, a relação agente/espectadores deve, em jogos de risco elevado, ser na ordem de 1/200 e, em jogos de risco normal, na ordem de 1/400 ou 1/500, não podendo, em caso algum, o número de agentes a destacar ser inferior a três;\n\nb) Relativamente a espectáculos que envolvam a categoria júnior, o número de agentes deve ser compreendido entre um mínimo de três e um máximo de cinco;\n\nc) Relativamente a espectáculos que envolvam a categoria de iniciados e juvenis, o número de agentes não deve ser inferior a dois nem superior a três.\n\n3 - Quando, atendendo a factores excepcionais e invocando fundamentação adequada, o respectivo comando o considere necessário, pode ser atribuído um número de efectivos superior ao estabelecido no número anterior."
+  },
+  "170875181": {
+   "fragment_id": "170878190",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime de requisição e pagamento das forças de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime de requisição e pagamento das forças de segurança\n\n1 - O organizador do espectáculo desportivo deve requisitar ao comando das forças policiais territorialmente competente o policiamento para cada espectáculo, utilizando o modelo anexo ao presente diploma, de que faz parte integrante.\n\n2 - O comando referido no número anterior determina os efectivos a enviar para cada espectáculo, devendo, quando o número de efectivos a destacar seja diferente do referido no n.º 2 do artigo anterior, fundamentar a sua decisão.\n\n3 - O organizador do espectáculo desportivo deve satisfazer o pagamento dos encargos do policiamento, no momento da requisição e fixação dos efectivos, junto do respectivo comando das forças de segurança, contra recibo de modelo anexo ao presente diploma, de que faz parte integrante.\n\n4 - Os comandos referidos nos números anteriores enviarão mensalmente à Secretaria-Geral do Ministério da Administração Interna cópia dos impressos de requisição."
+  },
+  "170875182": {
+   "fragment_id": "170878191",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conselho técnico\n\nNa dependência do Ministro da Administração Interna funcionará um conselho técnico integrado por dois representantes do Ministro da Administração Interna, dois representantes das federações, um representante da Liga dos Clubes Profissionais de Futebol e um representante das associações distritais, que reunirá mensalmente, sob convocação do secretário-geral do Ministério da Administração Interna, ao qual compete:\n\na) Pronunciar-se sobre as convenções celebradas pelos Estados membros do Conselho da Europa, por outros Estados pertencentes à Convenção Cultural Europeia ou outras instituições internacionais em matéria de segurança nas manifestações desportivas, por forma a assegurar a sua melhor adequação à realidade nacional;\n\nb) Promover a concertação entre as forças policiais, particularmente no tocante a disposições, medidas e precauções a tomar para maior garantia de pessoas e bens envolvidos em espectáculos desportivos;\n\nc) Estabelecer os critérios que deverão nortear o rateio da verba disponível para o policiamento dos espectáculos desportivos mencionados no artigo 4.º em cada época desportiva;\n\nd) Apreciar relatórios atinentes ao policiamento desportivo apresentados pelos governos civis ou autoridades de segurança e emitir parecer sobre os mesmos;\n\ne) Pronunciar-se sobre outros assuntos que lhe sejam submetidos pelo Ministro da Administração Interna;\n\nf) Receber as cópias das requisições e do despacho de determinação dos efectivos necessários para o respectivo espectáculo desportivo."
+  },
+  "170875183": {
+   "fragment_id": "170878192",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma transitória\n\n1 - Durante a época desportiva de 1992-1993 constitui receita dos organizadores, a afectar à satisfação dos encargos com o policiamento dos espectáculos desportivos englobados nos campeonatos nacionais de seniores, o montante do adicional de 7% a cobrar sobre o preço do bilhete.\n\n2 - O adicional referido no número anterior deixará de ser aplicado no final da época desportiva de 1992-1993."
+  },
+  "170875184": {
+   "fragment_id": "170878193",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 17.º-C do Decreto-Lei n.º 84/85, de 28 de Março, com a redacção que lhe foi dada pelo artigo 5.º do Decreto-Lei n.º 387/86, de 17 de Novembro;\n\nb) Os artigos 1.º, 2.º e 6.º do Decreto-Lei n.º 371/90, de 27 de Novembro;\n\nc) A Portaria n.º 1158/90, de 27 de Novembro."
+  },
+  "170875185": {
+   "fragment_id": "170878194",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "220323528": {
+   "fragment_id": "220340880",
+   "type": 14,
+   "heading": "Anexo — ANEXO I",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+   ],
+   "markdown": "## Anexo — ANEXO I\n\nModelo a que se refere o n.º 1 do artigo 8.º\n\n(ver documento original)\n\nFicha elaborada pelo Conselho Técnico (Portaria n.º 1150/90, de 27 de Novembro)\n\n> Aditado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+  },
+  "220323529": {
+   "fragment_id": "170878183",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece o regime de policiamento e de satisfação dos encargos daí decorrentes no que se refere aos espectáculos desportivos realizados em recintos desportivos.\n\n2 - Para efeitos do disposto no presente diploma, entende-se por:\n\na) «Recinto desportivo», o espaço criado exclusivamente para a prática do desporto, com carácter fixo e com estruturas de construção que lhe garantam essa afectação e funcionalidade, dotado de lugares permanentes e reservados a assistentes, sob controlo de entrada;\n\nb) «Organizador de espectáculo desportivo», as entidades que, nos termos da lei e dos regulamentos desportivos, promovam, coordenem ou realizem os espectáculos desportivos da modalidade."
+  },
+  "220323530": {
+   "fragment_id": "170878184",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisição\n\n1 - A requisição da força policial é efectuada, sempre que considerada necessária, pelos organizadores dos espectáculos desportivos.\n\n2 - Quando não tenha lugar a solicitação da força policial, a responsabilidade pela manutenção da ordem dentro do respectivo recinto e pelos eventos resultantes da sua alteração cabe aos organizadores.\n\n3 - A requisição da força policial é obrigatória relativamente aos espectáculos que venham a ter lugar em recintos desportivos declarados interditos, a partir do momento da interdição e até final da época desportiva."
+  },
+  "220323531": {
+   "fragment_id": "170878185",
+   "type": 11,
+   "heading": "Artigo 3.º — Responsabilidade pelos encargos com o policiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidade pelos encargos com o policiamento\n\nA responsabilidade pelos encargos com o policiamento de espectáculos desportivos realizados em recintos desportivos é suportada pelos respectivos organizadores."
+  },
+  "220323532": {
+   "fragment_id": "170878186",
+   "type": 11,
+   "heading": "Artigo 4.º — Participação do Estado",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+   ],
+   "markdown": "###### Artigo 4.º — Participação do Estado\n\n1 - A participação do Estado nos encargos com o policiamento dos espectáculos desportivos que envolvam as selecções nacionais ou realizados no quadro dos campeonatos nacionais de escalões etários inferiores ao do escalão sénior e dos campeonatos distritais é constituída:\n\na) Pelo quantitativo correspondente à aplicação da percentagem de 1,5% aos resultados de exploração do totoloto, o qual será entregue mensalmente pela Santa Casa da Misericórdia;\n\nb) Pelas receitas previstas no Decreto-Lei n.º 270/89, de 18 de Agosto, que são remetidas mensalmente pela Direcção-Geral dos Desportos.\n\n2 - As verbas referidas no número anterior são entregues nos cofres do Estado, devendo as entidades depositantes remeter à Secretaria-Geral do Ministério da Administração Interna cópias das referidas guias.\n\n3 - As verbas a distribuir nos termos dos números anteriores serão enviadas pela Secretaria-Geral do Ministério da Administração Interna às federações respectivas, no fim de cada mês, competindo ao conselho técnico estabelecer os critérios de repartição.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+  },
+  "220323533": {
+   "fragment_id": "170878187",
+   "type": 11,
+   "heading": "Artigo 5.º — Calendário dos espectáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Calendário dos espectáculos\n\n1 - Para efeitos do disposto no artigo anterior, as federações desportivas fornecerão à Secretaria-Geral do Ministério da Administração Interna, até 30 dias antes do início da respectiva época desportiva, o calendário das provas oficiais, regionais, nacionais ou internacionais a realizar.\n\n2 - A inobservância do disposto no número anterior implica a imediata cessação da eventual participação do Estado."
+  },
+  "220323534": {
+   "fragment_id": "170878188",
+   "type": 11,
+   "heading": "Artigo 6.º — Qualificação dos espectáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Qualificação dos espectáculos\n\n1 - A nível internacional, consideram-se espectáculos de risco elevado os seguintes:\n\na) Aqueles que correspondam à fase final de um campeonato europeu ou mundial;\n\nb) Aqueles que sejam como tal declarados pelas organizações internacionais, a nível europeu e mundial, das respectivas modalidades, com base em incidentes ocasionados pelos adeptos de pelo menos uma das equipas ou, ainda, por razões excepcionais;\n\nc) Aqueles em que os adeptos da equipa visitante presumivelmente venham a ultrapassar os 10% da capacidade do estádio ou os 3000;\n\nd) Aqueles em que o recinto desportivo esteja presumivelmente repleto ou em que o número provável de espectadores seja superior a 50000.\n\n2 - A nível nacional, consideram-se espectáculos de risco elevado os seguintes:\n\na) Aqueles em que o número de espectadores previstos perfaça 65% da lotação do recinto;\n\nb) Aqueles em que o número provável de adeptos da equipa visitante perfaça 20% do número de espectadores previsto;\n\nc) Aqueles em que se verifique um clima de declarada hostilidade entre os clubes intervenientes;\n\nd) Aqueles cujo árbitro seja alvo de forte contestação;\n\ne) Aqueles em que os adeptos dos clubes intervenientes hajam ocasionado incidentes graves em jogos anteriores;\n\nf) Os encontros que sejam decisivos para ambas as equipas na conquista de um troféu, acesso a provas internacionais ou mudança de escalão divisionário.\n\n3 - Consideram-se de risco normal os espectáculos não abrangidos nos números anteriores."
+  },
+  "220323535": {
+   "fragment_id": "170878189",
+   "type": 11,
+   "heading": "Artigo 7.º — Número de efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Número de efectivos\n\n1 - Cabe ao comando das forças policiais territorialmente competente determinar o número de efectivos a destacar para o policiamento de cada espectáculo desportivo.\n\n2 - Para efeitos de cálculo do efectivo policial necessário, devem ter-se em consideração os seguintes critérios de orientação:\n\na) Relativamente a espectáculos que envolvam a categoria sénior, a relação agente/espectadores deve, em jogos de risco elevado, ser na ordem de 1/200 e, em jogos de risco normal, na ordem de 1/400 ou 1/500, não podendo, em caso algum, o número de agentes a destacar ser inferior a três;\n\nb) Relativamente a espectáculos que envolvam a categoria júnior, o número de agentes deve ser compreendido entre um mínimo de três e um máximo de cinco;\n\nc) Relativamente a espectáculos que envolvam a categoria de iniciados e juvenis, o número de agentes não deve ser inferior a dois nem superior a três.\n\n3 - Quando, atendendo a factores excepcionais e invocando fundamentação adequada, o respectivo comando o considere necessário, pode ser atribuído um número de efectivos superior ao estabelecido no número anterior."
+  },
+  "220323536": {
+   "fragment_id": "170878190",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime de requisição e pagamento das forças de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime de requisição e pagamento das forças de segurança\n\n1 - O organizador do espectáculo desportivo deve requisitar ao comando das forças policiais territorialmente competente o policiamento para cada espectáculo, utilizando o modelo anexo ao presente diploma, de que faz parte integrante.\n\n2 - O comando referido no número anterior determina os efectivos a enviar para cada espectáculo, devendo, quando o número de efectivos a destacar seja diferente do referido no n.º 2 do artigo anterior, fundamentar a sua decisão.\n\n3 - O organizador do espectáculo desportivo deve satisfazer o pagamento dos encargos do policiamento, no momento da requisição e fixação dos efectivos, junto do respectivo comando das forças de segurança, contra recibo de modelo anexo ao presente diploma, de que faz parte integrante.\n\n4 - Os comandos referidos nos números anteriores enviarão mensalmente à Secretaria-Geral do Ministério da Administração Interna cópia dos impressos de requisição."
+  },
+  "220943289": {
+   "fragment_id": "170878191",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho técnico",
+   "in_force_from": "1998-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 38.º do/a [Lei n.º 38/98 - Diário da República n.º 178/1998, Série I-A de 1998-08-04](https://diariodarepublica.pt/dr/detalhe/lei/38-1998-431225), em vigor a partir de 1998-08-09",
+    "Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+   ],
+   "markdown": "###### Artigo 9.º — Conselho técnico\n\nNa dependência do Ministro da Administração Interna funcionará um conselho técnico integrado por dois representantes do Ministério da Administração Interna, dois representantes das federações, sendo um deles da Federação Portuguesa de Futebol, um representante da Liga dos Clubes Profissionais de Futebol e um representante das associações distritais de futebol, que reunirá mensalmente, sob convocação do secretário-geral do Ministério da Administração Interna, ao qual compete:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) Estabelecer os critérios que deverão nortear o rateio da verba disponível para o policiamento dos espectáculos desportivos mencionados no artigo 4.º em cada época desportiva;\n\nd) Apreciar relatórios atinentes ao policiamento desportivo apresentados pelos governos civis ou autoridades de segurança e emitir parecer sobre os mesmos;\n\ne) Pronunciar-se sobre outros assuntos que lhe sejam submetidos pelo Ministro da Administração Interna;\n\nf) Receber as cópias das requisições e do despacho de determinação dos efectivos necessários para o respectivo espectáculo desportivo.\n\n> Alterado pelo/a Artigo 38.º do/a [Lei n.º 38/98 - Diário da República n.º 178/1998, Série I-A de 1998-08-04](https://diariodarepublica.pt/dr/detalhe/lei/38-1998-431225), em vigor a partir de 1998-08-09\n\n> Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+  },
+  "220323538": {
+   "fragment_id": "170878192",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+   ],
+   "markdown": "###### Artigo 10.º — Norma transitória\n\n1 - Durante a época desportiva de 1992-1993 constitui receita dos organizadores, a afectar à satisfação dos encargos com o policiamento dos espectáculos desportivos englobados nas competições nacionais de seniores, o montante do adicional de 7% a cobrar sobre o preço do bilhete.\n\n2 - O adicional referido no número anterior deixará de ser aplicado no final da época desportiva de 1992-1993.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+  },
+  "220323539": {
+   "fragment_id": "170878193",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 17.º-C do Decreto-Lei n.º 84/85, de 28 de Março, com a redacção que lhe foi dada pelo artigo 5.º do Decreto-Lei n.º 387/86, de 17 de Novembro;\n\nb) Os artigos 1.º, 2.º e 6.º do Decreto-Lei n.º 371/90, de 27 de Novembro;\n\nc) A Portaria n.º 1158/90, de 27 de Novembro."
+  },
+  "220323540": {
+   "fragment_id": "170878194",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "220323541": {
+   "fragment_id": "170878195",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - António Fernando Couto dos Santos.\n\nPromulgado em 8 de Outubro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 9 de Outubro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "220323542": {
+   "fragment_id": "220322274",
+   "type": 14,
+   "heading": "Anexo — ANEXO II",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+   ],
+   "markdown": "## Anexo — ANEXO II\n\nModelo a que se refere o n.º 3 do artigo 8.º\n\nRECIBO\n\n(ver documento original)\n\nInstruções\n\nA requisição de forças terá que ser entregue no comando distrital/esquadra/posto com o mínimo de oito dias de antecedência da realização do jogo.\n\nA requisição terá de ser apresentada em triplicado.\n\nO original e o duplicado ficarão em poder das forças de segurança.\n\nO triplicado será entregue ao requisitante, devidamente autenticado.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+  },
+  "220943291": {
+   "fragment_id": "170878183",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece o regime de policiamento e de satisfação dos encargos daí decorrentes no que se refere aos espectáculos desportivos realizados em recintos desportivos.\n\n2 - Para efeitos do disposto no presente diploma, entende-se por:\n\na) «Recinto desportivo», o espaço criado exclusivamente para a prática do desporto, com carácter fixo e com estruturas de construção que lhe garantam essa afectação e funcionalidade, dotado de lugares permanentes e reservados a assistentes, sob controlo de entrada;\n\nb) «Organizador de espectáculo desportivo», as entidades que, nos termos da lei e dos regulamentos desportivos, promovam, coordenem ou realizem os espectáculos desportivos da modalidade."
+  },
+  "220943292": {
+   "fragment_id": "170878184",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisição\n\n1 - A requisição da força policial é efectuada, sempre que considerada necessária, pelos organizadores dos espectáculos desportivos.\n\n2 - Quando não tenha lugar a solicitação da força policial, a responsabilidade pela manutenção da ordem dentro do respectivo recinto e pelos eventos resultantes da sua alteração cabe aos organizadores.\n\n3 - A requisição da força policial é obrigatória relativamente aos espectáculos que venham a ter lugar em recintos desportivos declarados interditos, a partir do momento da interdição e até final da época desportiva."
+  },
+  "220943293": {
+   "fragment_id": "170878185",
+   "type": 11,
+   "heading": "Artigo 3.º — Responsabilidade pelos encargos com o policiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidade pelos encargos com o policiamento\n\nA responsabilidade pelos encargos com o policiamento de espectáculos desportivos realizados em recintos desportivos é suportada pelos respectivos organizadores."
+  },
+  "220943294": {
+   "fragment_id": "170878186",
+   "type": 11,
+   "heading": "Artigo 4.º — Participação do Estado",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+   ],
+   "markdown": "###### Artigo 4.º — Participação do Estado\n\n1 - A participação do Estado nos encargos com o policiamento dos espectáculos desportivos que envolvam as selecções nacionais ou realizados no quadro dos campeonatos nacionais de escalões etários inferiores ao do escalão sénior e dos campeonatos distritais é constituída:\n\na) Pelo quantitativo correspondente à aplicação da percentagem de 1,5% aos resultados de exploração do totoloto, o qual será entregue mensalmente pela Santa Casa da Misericórdia;\n\nb) Pelas receitas previstas no Decreto-Lei n.º 270/89, de 18 de Agosto, que são remetidas mensalmente pela Direcção-Geral dos Desportos.\n\n2 - As verbas referidas no número anterior são entregues nos cofres do Estado, devendo as entidades depositantes remeter à Secretaria-Geral do Ministério da Administração Interna cópias das referidas guias.\n\n3 - As verbas a distribuir nos termos dos números anteriores serão enviadas pela Secretaria-Geral do Ministério da Administração Interna às federações respectivas, no fim de cada mês, competindo ao conselho técnico estabelecer os critérios de repartição.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+  },
+  "220943295": {
+   "fragment_id": "170878187",
+   "type": 11,
+   "heading": "Artigo 5.º — Calendário dos espectáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Calendário dos espectáculos\n\n1 - Para efeitos do disposto no artigo anterior, as federações desportivas fornecerão à Secretaria-Geral do Ministério da Administração Interna, até 30 dias antes do início da respectiva época desportiva, o calendário das provas oficiais, regionais, nacionais ou internacionais a realizar.\n\n2 - A inobservância do disposto no número anterior implica a imediata cessação da eventual participação do Estado."
+  },
+  "220943297": {
+   "fragment_id": "170878189",
+   "type": 11,
+   "heading": "Artigo 7.º — Número de efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Número de efectivos\n\n1 - Cabe ao comando das forças policiais territorialmente competente determinar o número de efectivos a destacar para o policiamento de cada espectáculo desportivo.\n\n2 - Para efeitos de cálculo do efectivo policial necessário, devem ter-se em consideração os seguintes critérios de orientação:\n\na) Relativamente a espectáculos que envolvam a categoria sénior, a relação agente/espectadores deve, em jogos de risco elevado, ser na ordem de 1/200 e, em jogos de risco normal, na ordem de 1/400 ou 1/500, não podendo, em caso algum, o número de agentes a destacar ser inferior a três;\n\nb) Relativamente a espectáculos que envolvam a categoria júnior, o número de agentes deve ser compreendido entre um mínimo de três e um máximo de cinco;\n\nc) Relativamente a espectáculos que envolvam a categoria de iniciados e juvenis, o número de agentes não deve ser inferior a dois nem superior a três.\n\n3 - Quando, atendendo a factores excepcionais e invocando fundamentação adequada, o respectivo comando o considere necessário, pode ser atribuído um número de efectivos superior ao estabelecido no número anterior."
+  },
+  "220943290": {
+   "fragment_id": "170878188",
+   "type": 11,
+   "heading": "Artigo 6.º — Qualificação dos espectáculos",
+   "in_force_from": "2009-08-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 52.º do/a [Lei n.º 39/2009 - Diário da República n.º 146/2009, Série I de 2009-07-30](https://diariodarepublica.pt/dr/detalhe/lei/39-2009-493201), em vigor a partir de 2009-08-29"
+   ],
+   "markdown": "###### Artigo 6.º — Qualificação dos espectáculos\n\n1 - A nível internacional, consideram-se espectáculos de risco elevado os seguintes:\n\na) Aqueles que correspondam à fase final de um campeonato europeu ou mundial;\n\nb) Aqueles que sejam como tal declarados pelas organizações internacionais, a nível europeu e mundial, das respectivas modalidades, com base em incidentes ocasionados pelos adeptos de pelo menos uma das equipas ou, ainda, por razões excepcionais;\n\nc) Aqueles em que os adeptos da equipa visitante presumivelmente venham a ultrapassar os 10% da capacidade do estádio ou os 3000;\n\nd) Aqueles em que o recinto desportivo esteja presumivelmente repleto ou em que o número provável de espectadores seja superior a 50000.\n\n2 - A nível nacional, consideram-se espectáculos de risco elevado os seguintes:\n\na) Aqueles em que o número de espectadores previstos perfaça 65% da lotação do recinto;\n\nb) Aqueles em que o número provável de adeptos da equipa visitante perfaça 20% do número de espectadores previsto;\n\nc) Aqueles em que se verifique um clima de declarada hostilidade entre os clubes intervenientes;\n\nd) Aqueles cujo árbitro seja alvo de forte contestação;\n\ne) Aqueles em que os adeptos dos clubes intervenientes hajam ocasionado incidentes graves em jogos anteriores;\n\nf) Os encontros que sejam decisivos para ambas as equipas na conquista de um troféu, acesso a provas internacionais ou mudança de escalão divisionário.\n\n3 - Consideram-se de risco normal os espectáculos não abrangidos nos números anteriores.\n\n> Revogado pelo/a Artigo 52.º do/a [Lei n.º 39/2009 - Diário da República n.º 146/2009, Série I de 2009-07-30](https://diariodarepublica.pt/dr/detalhe/lei/39-2009-493201), em vigor a partir de 2009-08-29"
+  },
+  "220943298": {
+   "fragment_id": "170878190",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime de requisição e pagamento das forças de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime de requisição e pagamento das forças de segurança\n\n1 - O organizador do espectáculo desportivo deve requisitar ao comando das forças policiais territorialmente competente o policiamento para cada espectáculo, utilizando o modelo anexo ao presente diploma, de que faz parte integrante.\n\n2 - O comando referido no número anterior determina os efectivos a enviar para cada espectáculo, devendo, quando o número de efectivos a destacar seja diferente do referido no n.º 2 do artigo anterior, fundamentar a sua decisão.\n\n3 - O organizador do espectáculo desportivo deve satisfazer o pagamento dos encargos do policiamento, no momento da requisição e fixação dos efectivos, junto do respectivo comando das forças de segurança, contra recibo de modelo anexo ao presente diploma, de que faz parte integrante.\n\n4 - Os comandos referidos nos números anteriores enviarão mensalmente à Secretaria-Geral do Ministério da Administração Interna cópia dos impressos de requisição."
+  },
+  "220943300": {
+   "fragment_id": "170878192",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+   ],
+   "markdown": "###### Artigo 10.º — Norma transitória\n\n1 - Durante a época desportiva de 1992-1993 constitui receita dos organizadores, a afectar à satisfação dos encargos com o policiamento dos espectáculos desportivos englobados nas competições nacionais de seniores, o montante do adicional de 7% a cobrar sobre o preço do bilhete.\n\n2 - O adicional referido no número anterior deixará de ser aplicado no final da época desportiva de 1992-1993.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+  },
+  "220943301": {
+   "fragment_id": "170878193",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 17.º-C do Decreto-Lei n.º 84/85, de 28 de Março, com a redacção que lhe foi dada pelo artigo 5.º do Decreto-Lei n.º 387/86, de 17 de Novembro;\n\nb) Os artigos 1.º, 2.º e 6.º do Decreto-Lei n.º 371/90, de 27 de Novembro;\n\nc) A Portaria n.º 1158/90, de 27 de Novembro."
+  },
+  "220943302": {
+   "fragment_id": "170878194",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "220943303": {
+   "fragment_id": "170878195",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1992. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - António Fernando Couto dos Santos.\n\nPromulgado em 8 de Outubro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 9 de Outubro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "220943304": {
+   "fragment_id": "220340880",
+   "type": 14,
+   "heading": "Anexo — ANEXO I",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+   ],
+   "markdown": "## Anexo — ANEXO I\n\nModelo a que se refere o n.º 1 do artigo 8.º\n\n(ver documento original)\n\nFicha elaborada pelo Conselho Técnico (Portaria n.º 1150/90, de 27 de Novembro)\n\n> Aditado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+  },
+  "220943321": {
+   "fragment_id": "170878183",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece o regime de policiamento e de satisfação dos encargos daí decorrentes no que se refere aos espectáculos desportivos realizados em recintos desportivos.\n\n2 - Para efeitos do disposto no presente diploma, entende-se por:\n\na) «Recinto desportivo», o espaço criado exclusivamente para a prática do desporto, com carácter fixo e com estruturas de construção que lhe garantam essa afectação e funcionalidade, dotado de lugares permanentes e reservados a assistentes, sob controlo de entrada;\n\nb) «Organizador de espectáculo desportivo», as entidades que, nos termos da lei e dos regulamentos desportivos, promovam, coordenem ou realizem os espectáculos desportivos da modalidade.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+  },
+  "220943322": {
+   "fragment_id": "170878184",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisição",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+   ],
+   "markdown": "###### Artigo 2.º — Requisição\n\n1 - A requisição da força policial é efectuada, sempre que considerada necessária, pelos organizadores dos espectáculos desportivos.\n\n2 - Quando não tenha lugar a solicitação da força policial, a responsabilidade pela manutenção da ordem dentro do respectivo recinto e pelos eventos resultantes da sua alteração cabe aos organizadores.\n\n3 - A requisição da força policial é obrigatória relativamente aos espectáculos que venham a ter lugar em recintos desportivos declarados interditos, a partir do momento da interdição e até final da época desportiva.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+  },
+  "220943323": {
+   "fragment_id": "170878185",
+   "type": 11,
+   "heading": "Artigo 3.º — Responsabilidade pelos encargos com o policiamento",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+   ],
+   "markdown": "###### Artigo 3.º — Responsabilidade pelos encargos com o policiamento\n\nA responsabilidade pelos encargos com o policiamento de espectáculos desportivos realizados em recintos desportivos é suportada pelos respectivos organizadores.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+  },
+  "220943324": {
+   "fragment_id": "170878186",
+   "type": 11,
+   "heading": "Artigo 4.º — Participação do Estado",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08",
+    "Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+   ],
+   "markdown": "###### Artigo 4.º — Participação do Estado\n\n1 - A participação do Estado nos encargos com o policiamento dos espectáculos desportivos que envolvam as selecções nacionais ou realizados no quadro dos campeonatos nacionais de escalões etários inferiores ao do escalão sénior e dos campeonatos distritais é constituída:\n\na) Pelo quantitativo correspondente à aplicação da percentagem de 1,5% aos resultados de exploração do totoloto, o qual será entregue mensalmente pela Santa Casa da Misericórdia;\n\nb) Pelas receitas previstas no Decreto-Lei n.º 270/89, de 18 de Agosto, que são remetidas mensalmente pela Direcção-Geral dos Desportos.\n\n2 - As verbas referidas no número anterior são entregues nos cofres do Estado, devendo as entidades depositantes remeter à Secretaria-Geral do Ministério da Administração Interna cópias das referidas guias.\n\n3 - As verbas a distribuir nos termos dos números anteriores serão enviadas pela Secretaria-Geral do Ministério da Administração Interna às federações respectivas, no fim de cada mês, competindo ao conselho técnico estabelecer os critérios de repartição.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08\n\n> Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+  },
+  "220943325": {
+   "fragment_id": "170878187",
+   "type": 11,
+   "heading": "Artigo 5.º — Calendário dos espectáculos",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+   ],
+   "markdown": "###### Artigo 5.º — Calendário dos espectáculos\n\n1 - Para efeitos do disposto no artigo anterior, as federações desportivas fornecerão à Secretaria-Geral do Ministério da Administração Interna, até 30 dias antes do início da respectiva época desportiva, o calendário das provas oficiais, regionais, nacionais ou internacionais a realizar.\n\n2 - A inobservância do disposto no número anterior implica a imediata cessação da eventual participação do Estado.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+  },
+  "220943330": {
+   "fragment_id": "170878189",
+   "type": 11,
+   "heading": "Artigo 7.º — Número de efectivos",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+   ],
+   "markdown": "###### Artigo 7.º — Número de efectivos\n\n1 - Cabe ao comando das forças policiais territorialmente competente determinar o número de efectivos a destacar para o policiamento de cada espectáculo desportivo.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+  },
+  "220943327": {
+   "fragment_id": "170878191",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho técnico",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08",
+    "Alterado pelo/a Artigo 38.º do/a [Lei n.º 38/98 - Diário da República n.º 178/1998, Série I-A de 1998-08-04](https://diariodarepublica.pt/dr/detalhe/lei/38-1998-431225), em vigor a partir de 1998-08-09",
+    "Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+   ],
+   "markdown": "###### Artigo 9.º — Conselho técnico\n\nNa dependência do Ministro da Administração Interna funcionará um conselho técnico integrado por dois representantes do Ministério da Administração Interna, dois representantes das federações, sendo um deles da Federação Portuguesa de Futebol, um representante da Liga dos Clubes Profissionais de Futebol e um representante das associações distritais de futebol, que reunirá mensalmente, sob convocação do secretário-geral do Ministério da Administração Interna, ao qual compete:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) Estabelecer os critérios que deverão nortear o rateio da verba disponível para o policiamento dos espectáculos desportivos mencionados no artigo 4.º em cada época desportiva;\n\nd) Apreciar relatórios atinentes ao policiamento desportivo apresentados pelos governos civis ou autoridades de segurança e emitir parecer sobre os mesmos;\n\ne) Pronunciar-se sobre outros assuntos que lhe sejam submetidos pelo Ministro da Administração Interna;\n\nf) Receber as cópias das requisições e do despacho de determinação dos efectivos necessários para o respectivo espectáculo desportivo.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08\n\n> Alterado pelo/a Artigo 38.º do/a [Lei n.º 38/98 - Diário da República n.º 178/1998, Série I-A de 1998-08-04](https://diariodarepublica.pt/dr/detalhe/lei/38-1998-431225), em vigor a partir de 1998-08-09\n\n> Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+  },
+  "220943326": {
+   "fragment_id": "170878192",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma transitória",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08",
+    "Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+   ],
+   "markdown": "###### Artigo 10.º — Norma transitória\n\n1 - Durante a época desportiva de 1992-1993 constitui receita dos organizadores, a afectar à satisfação dos encargos com o policiamento dos espectáculos desportivos englobados nas competições nacionais de seniores, o montante do adicional de 7% a cobrar sobre o preço do bilhete.\n\n2 - O adicional referido no número anterior deixará de ser aplicado no final da época desportiva de 1992-1993.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08\n\n> Retificado pelo/a [Declaração de Rectificação n.º 189/92 - Diário da República n.º 277/1992, 2º Suplemento, Série I-A de 1992-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/189-1992-300438), produz efeitos a partir de 1992-10-30"
+  },
+  "220943328": {
+   "fragment_id": "170878193",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+   ],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 17.º-C do Decreto-Lei n.º 84/85, de 28 de Março, com a redacção que lhe foi dada pelo artigo 5.º do Decreto-Lei n.º 387/86, de 17 de Novembro;\n\nb) Os artigos 1.º, 2.º e 6.º do Decreto-Lei n.º 371/90, de 27 de Novembro;\n\nc) A Portaria n.º 1158/90, de 27 de Novembro.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+  },
+  "220943329": {
+   "fragment_id": "170878194",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": "2012-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+   ],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 216/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), em vigor a partir de 2012-11-08"
+  }
+ }
+}

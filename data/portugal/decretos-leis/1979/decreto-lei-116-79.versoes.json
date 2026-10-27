@@ -1,0 +1,222 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:382833:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1979-170922144",
+ "dre_path": "/dr/detalhe/decreto-lei/116-1979-382833",
+ "source_lastmod": "2025-06-25",
+ "versions": [
+  {
+   "date": "1979-05-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "923491072",
+    "170922468",
+    "170922469",
+    "170922470"
+   ]
+  },
+  {
+   "date": "1979-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:383598:por",
+     "title": "Declaração",
+     "published": "1979-05-30",
+     "dre_path": "/dr/detalhe/declaracao/1979-383598"
+    }
+   ],
+   "changes": [
+    "Adita MAPA IV"
+   ],
+   "fragments": [
+    "170922467",
+    "922716972",
+    "922716973",
+    "922716974",
+    "922779875",
+    "922779876",
+    "922716971"
+   ]
+  },
+  {
+   "date": "2018-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115235757:por",
+     "title": "Decreto-Lei n.º 32/2018",
+     "published": "2018-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2018-115235757"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "923491072",
+    "923491073",
+    "923491074",
+    "923492275",
+    "923492276",
+    "923492277",
+    "923492278"
+   ]
+  }
+ ],
+ "fragments": {
+  "923491072": {
+   "fragment_id": "170922145",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-05-13",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 116/79\n\nde 4 de Maio\n\nO crescente aumento de serviço na Direcção-Geral das Alfândegas e a correspondente complexidade dos problemas que lhe são postos impõem, com vista a poder obter-se uma maior eficiência daquele departamento, a criação nos seus quadros de um novo lugar de subdirector-geral.\n\nComo a Portaria n.º 101/79, de 2 de Março, atribuiu aos directores-gerais-adjuntos a designação de subdirectores-gerais, altera-se em conformidade a respectiva lei orgânica desta Direcção-Geral.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\n> Nota: [Artigo 18.º, Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757) Quando incida sobre normas cuja vigência já tenha cessado, a determinação expressa de não vigência de atos legislativos, efetuada pelo Decreto-Lei n.º 32/2018, de 8 de maio, não altera o momento ou os efeitos daquela cessação de vigência."
+  },
+  "170922468": {
+   "fragment_id": "170922146",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO n.º 1.º do artigo 217.º, o corpo e o n.º 1.º do artigo 328.º, o § 1.º do artigo 330.º, o corpo do artigo 344.º e o artigo 345.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:\n\nArt. 217.º ...\n\n1.º Os subdirectores-gerais, os juízes dos tribunais técnicos, o director do Gabinete de Estudos e o director dos Serviços de Fiscalização e de Superintendência nos Regimes Gerais e Especiais, de entre directores de serviços;\n\n2.º ...\n\n§ único. ...\n\nArt. 328.º Aos subdirectores-gerais compete, especialmente:\n\n1.º Auxiliar o director-geral, desempenhando as atribuições que pelo mesmo neles forem delegadas, de harmonia com as conveniências do serviço;\n\n2.º ...\n\nArt. 330.º ...\n\n1.º a 17.º ...\n\n§ 1.º Nas sedes das Alfândegas de Lisboa e Porto, a competência indicada no presente artigo só poderá ser exercida pelos subdirectores-gerais, pelos directores do Gabinete de Estudos e dos Serviços de Fiscalização e de Superintendência nos Regimes Gerais e Especiais e pelos juízes dos tribunais técnicos e, nas sedes das Alfândegas do Funchal e Ponta Delgada, por qualquer dos reverificadores.\n\n§ 2.º ...\n\nArt. 344.º O director-geral será substituído nas suas faltas e impedimentos por um dos subdirectores-gerais, preferindo o mais antigo.\n\n§ único. ...\n\nArt. 345.º Os subdirectores-gerais serão substituídos nas suas faltas e impedimentos por um dos directores de serviços em serviço na Direcção-Geral, em cada caso designado pelo Ministro das Finanças, sob proposta do director-geral."
+  },
+  "170922469": {
+   "fragment_id": "170922147",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs mapas III e IV que, por força do artigo 4.º do Decreto-Lei n.º 315/73, de 19 de Junho, integram a citada Reforma Aduaneira, são substituídos pelos mapas anexos ao presente diploma."
+  },
+  "170922470": {
+   "fragment_id": "170922148",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs encargos resultantes da presente alteração serão satisfeitos, no corrente ano, pelas disponibilidades existentes nas verbas orçamentais referentes ao pessoal dos quadros aduaneiros."
+  },
+  "170922467": {
+   "fragment_id": "170922145",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 116/79\n\nde 4 de Maio\n\nO crescente aumento de serviço na Direcção-Geral das Alfândegas e a correspondente complexidade dos problemas que lhe são postos impõem, com vista a poder obter-se uma maior eficiência daquele departamento, a criação nos seus quadros de um novo lugar de subdirector-geral.\n\nComo a Portaria n.º 101/79, de 2 de Março, atribuiu aos directores-gerais-adjuntos a designação de subdirectores-gerais, altera-se em conformidade a respectiva lei orgânica desta Direcção-Geral.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "922716972": {
+   "fragment_id": "170922146",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO n.º 1.º do artigo 217.º, o corpo e o n.º 1.º do artigo 328.º, o § 1.º do artigo 330.º, o corpo do artigo 344.º e o artigo 345.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:\n\nArt. 217.º ...\n\n1.º Os subdirectores-gerais, os juízes dos tribunais técnicos, o director do Gabinete de Estudos e o director dos Serviços de Fiscalização e de Superintendência nos Regimes Gerais e Especiais, de entre directores de serviços;\n\n2.º ...\n\n§ único. ...\n\nArt. 328.º Aos subdirectores-gerais compete, especialmente:\n\n1.º Auxiliar o director-geral, desempenhando as atribuições que pelo mesmo neles forem delegadas, de harmonia com as conveniências do serviço;\n\n2.º ...\n\nArt. 330.º ...\n\n1.º a 17.º ...\n\n§ 1.º Nas sedes das Alfândegas de Lisboa e Porto, a competência indicada no presente artigo só poderá ser exercida pelos subdirectores-gerais, pelos directores do Gabinete de Estudos e dos Serviços de Fiscalização e de Superintendência nos Regimes Gerais e Especiais e pelos juízes dos tribunais técnicos e, nas sedes das Alfândegas do Funchal e Ponta Delgada, por qualquer dos reverificadores.\n\n§ 2.º ...\n\nArt. 344.º O director-geral será substituído nas suas faltas e impedimentos por um dos subdirectores-gerais, preferindo o mais antigo.\n\n§ único. ...\n\nArt. 345.º Os subdirectores-gerais serão substituídos nas suas faltas e impedimentos por um dos directores de serviços em serviço na Direcção-Geral, em cada caso designado pelo Ministro das Finanças, sob proposta do director-geral."
+  },
+  "922716973": {
+   "fragment_id": "170922147",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs mapas III e IV que, por força do artigo 4.º do Decreto-Lei n.º 315/73, de 19 de Junho, integram a citada Reforma Aduaneira, são substituídos pelos mapas anexos ao presente diploma."
+  },
+  "922716974": {
+   "fragment_id": "170922148",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs encargos resultantes da presente alteração serão satisfeitos, no corrente ano, pelas disponibilidades existentes nas verbas orçamentais referentes ao pessoal dos quadros aduaneiros."
+  },
+  "922779875": {
+   "fragment_id": "922534044",
+   "type": 14,
+   "heading": "MAPA III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA III\n\nQuadro do pessoal técnico-aduaneiro e sua distribuição\n\n(ver documento original)\n\nO Ministro das Finanças e do Plano, Manuel Jacinto Nunes."
+  },
+  "922779876": {
+   "fragment_id": "922753584",
+   "type": 14,
+   "heading": "MAPA IV",
+   "in_force_from": "1979-05-30",
+   "changed_by": [
+    "Aditado pelo/a [Declaração - Diário da República n.º 124/1979, Série I de 1979-05-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383598), em vigor a partir de 1979-05-30"
+   ],
+   "markdown": "## MAPA IV\n\nRemunerações do pessoal técnico aduaneiro\n\n(ver documento original)\n\n> Aditado pelo/a [Declaração - Diário da República n.º 124/1979, Série I de 1979-05-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383598), em vigor a partir de 1979-05-30"
+  },
+  "922716971": {
+   "fragment_id": "170922149",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Jorge de Figueiredo Lopes.\n\nPromulgado em 16 de Abril de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "923491073": {
+   "fragment_id": "170922146",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO n.º 1.º do artigo 217.º, o corpo e o n.º 1.º do artigo 328.º, o § 1.º do artigo 330.º, o corpo do artigo 344.º e o artigo 345.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:\n\nArt. 217.º ...\n\n1.º Os subdirectores-gerais, os juízes dos tribunais técnicos, o director do Gabinete de Estudos e o director dos Serviços de Fiscalização e de Superintendência nos Regimes Gerais e Especiais, de entre directores de serviços;\n\n2.º ...\n\n§ único. ...\n\nArt. 328.º Aos subdirectores-gerais compete, especialmente:\n\n1.º Auxiliar o director-geral, desempenhando as atribuições que pelo mesmo neles forem delegadas, de harmonia com as conveniências do serviço;\n\n2.º ...\n\nArt. 330.º ...\n\n1.º a 17.º ...\n\n§ 1.º Nas sedes das Alfândegas de Lisboa e Porto, a competência indicada no presente artigo só poderá ser exercida pelos subdirectores-gerais, pelos directores do Gabinete de Estudos e dos Serviços de Fiscalização e de Superintendência nos Regimes Gerais e Especiais e pelos juízes dos tribunais técnicos e, nas sedes das Alfândegas do Funchal e Ponta Delgada, por qualquer dos reverificadores.\n\n§ 2.º ...\n\nArt. 344.º O director-geral será substituído nas suas faltas e impedimentos por um dos subdirectores-gerais, preferindo o mais antigo.\n\n§ único. ...\n\nArt. 345.º Os subdirectores-gerais serão substituídos nas suas faltas e impedimentos por um dos directores de serviços em serviço na Direcção-Geral, em cada caso designado pelo Ministro das Finanças, sob proposta do director-geral.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491074": {
+   "fragment_id": "170922147",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs mapas III e IV que, por força do artigo 4.º do Decreto-Lei n.º 315/73, de 19 de Junho, integram a citada Reforma Aduaneira, são substituídos pelos mapas anexos ao presente diploma.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923492275": {
+   "fragment_id": "170922148",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 3.º\n\nOs encargos resultantes da presente alteração serão satisfeitos, no corrente ano, pelas disponibilidades existentes nas verbas orçamentais referentes ao pessoal dos quadros aduaneiros.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923492276": {
+   "fragment_id": "922534044",
+   "type": 14,
+   "heading": "MAPA III",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "## MAPA III\n\nQuadro do pessoal técnico-aduaneiro e sua distribuição\n\n(ver documento original)\n\nO Ministro das Finanças e do Plano, Manuel Jacinto Nunes.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923492277": {
+   "fragment_id": "922753584",
+   "type": 14,
+   "heading": "MAPA IV",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Aditado pelo/a [Declaração - Diário da República n.º 124/1979, Série I de 1979-05-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383598), em vigor a partir de 1979-05-30"
+   ],
+   "markdown": "## MAPA IV\n\nRemunerações do pessoal técnico aduaneiro\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Aditado pelo/a [Declaração - Diário da República n.º 124/1979, Série I de 1979-05-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383598), em vigor a partir de 1979-05-30"
+  },
+  "923492278": {
+   "fragment_id": "170922149",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Jorge de Figueiredo Lopes.\n\nPromulgado em 16 de Abril de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  }
+ }
+}

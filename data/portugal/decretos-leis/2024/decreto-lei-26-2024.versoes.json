@@ -1,0 +1,175 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:858631715:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-859647082",
+ "dre_path": "/dr/detalhe/decreto-lei/26-2024-858631715",
+ "source_lastmod": "2024-09-10",
+ "versions": [
+  {
+   "date": "2024-04-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "859194216",
+    "859194217",
+    "859194218",
+    "859194219",
+    "859194220",
+    "859194221",
+    "859194222",
+    "859194223",
+    "859194224",
+    "859194225",
+    "859194226",
+    "859194227"
+   ]
+  },
+  {
+   "date": "2024-09-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:887319190:por",
+     "title": "Decreto-Lei n.º 56/2024",
+     "published": "2024-09-10",
+     "dre_path": "/dr/detalhe/decreto-lei/56-2024-887319190"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "859194216",
+    "859194217",
+    "859194218",
+    "859194219",
+    "859194220",
+    "859194221",
+    "859194222",
+    "859194223",
+    "859194224",
+    "859194225",
+    "887317260",
+    "859194227",
+    "859194228"
+   ]
+  }
+ ],
+ "fragments": {
+  "859194216": {
+   "fragment_id": "859647083",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 26/2024\n\nde 3 de abril\n\nOs meios de resolução alternativa de litígios, nomeadamente a mediação, os julgados de paz e a arbitragem, têm sido, ao longo das últimas décadas, uma das áreas em que se tem investido para melhorar o sistema de justiça em Portugal. Essa aposta é visível não apenas no edifício jurídico já existente, assente, por exemplo, na Lei n.º 29/2013, de 19 de abril, que estabelece os princípios gerais aplicáveis à mediação realizada em Portugal, bem como os regimes jurídicos da mediação civil e comercial, dos mediadores e da mediação pública, na Lei n.º 78/2001, de 13 de julho, na sua redação atual, que regula a competência, organização e funcionamento dos julgados de paz e a tramitação dos processos da sua competência, e na Lei n.º 144/2015, de 8 de setembro, na sua redação atual, que estabelece o enquadramento jurídico dos mecanismos de resolução extrajudicial de litígios de consumo, bem como na criação do Sistema Público de Apoio à Conciliação no Sobre-Endividamento, aprovado pelo Decreto-Lei n.º 105/2020, de 23 de dezembro, e também no alargamento da rede de julgados de paz e no robustecimento dos sistemas públicos de mediação geridos pelo Ministério da Justiça, de que é evidência a revisão, em 2018, do instrumento regulatório do Sistema de Mediação Familiar e os diversos procedimentos concursais tendentes à renovação e atualização das listas de mediadores públicos.\n\nContinuando a apostar na promoção dos meios de resolução alternativa de litígios, por via do presente decreto-lei, cria-se uma plataforma informática única e comum - a Plataforma RAL+ - que servirá a gestão e funcionamento dos diferentes meios de resolução alternativa de litígios geridos ou apoiados pelo Ministério da Justiça: sistemas públicos de mediação familiar e laboral, julgados de paz e centros de arbitragem de conflitos de consumo que integram a rede de arbitragem de consumo.\n\nA criação desta plataforma vem ao encontro do disposto no Programa do Governo do XXIII Governo Constitucional, no qual se prevê, designadamente, que nos processos onde estejam em causa conflitos comuns na vida dos cidadãos, alguns de resolução especialmente urgente, o sistema de justiça assegura respostas muito rápidas, a custos reduzidos, nomeadamente através dos julgados de paz ou de outros sistemas de resolução alternativa de litígios, bem como a criação de condições para a modernização da rede de centros de arbitragem de consumo, designadamente através da criação de uma plataforma digital para resolução alternativa de litígios.\n\nCom a Plataforma RAL+ aproximam-se os cidadãos e empresas da justiça, tornando possível a prática de um conjunto de atos de forma desmaterializada, tais como: pedir informações sobre o funcionamento dos meios de resolução alternativa de litígios; iniciar os diferentes procedimentos ou processos, designadamente os procedimentos de mediação familiar e de mediação laboral, os procedimentos e os processos nos julgados de paz e nos centros de arbitragem de conflitos de consumo; praticar outros atos; e consultar os processos ou procedimentos de resolução alternativa de litígios em que estejam envolvidos.\n\nA disponibilização da Plataforma RAL+, e a sua utilização para a tramitação eletrónica dos procedimentos e dos processos, contribuirá para aumentar a eficiência, a eficácia e a transparência dos sistemas públicos de mediação familiar e laboral, dos julgados de paz e dos centros de arbitragem de conflitos de consumo, permitindo libertar juízes de paz, árbitros, mediadores e trabalhadores de tarefas burocráticas, acelerando a comunicação com outras entidades, permitindo aos cidadãos e aos mandatários terem acesso aos procedimentos e aos processos e praticar atos eletronicamente, sem necessidade de deslocação às instalações desses centros de arbitragem e julgados de paz. Tal permitirá a redução de custos de contexto para os intervenientes nos procedimentos e nos processos tramitados na plataforma. Ao mesmo tempo será possível monitorizar, em tempo real, a atividade destes meios de resolução alternativa de litígios, uma vez que a plataforma recolhe indicadores e estatísticas sobre a atividade, produzindo informação analítica que permite suportar a gestão e o rigoroso controlo contabilístico.\n\nContrariamente ao que sucede na mediação familiar e laboral, a disponibilização da Plataforma RAL+ nos julgados de paz e nos centros de arbitragem de conflitos de consumo que integram a rede de arbitragem de consumo far-se-á de modo faseado, de modo a permitir um acompanhamento mais próximo da utilização da plataforma pelas diferentes categorias de utilizadores, nos julgados de paz e centros de arbitragem de consumo, pela entidade gestora da plataforma.\n\nA evolução contínua da Plataforma RAL+ onde se inclui, nomeadamente, a simplificação e digitalização de processos e procedimentos, a introdução de melhorias e automatismos e o desenvolvimento de novas interoperabilidades que permitem a desmaterialização das comunicações com os diferentes intervenientes, concorre para a concretização dos objetivos dos projetos \"Plataforma Digital da Justiça 2.0 - Evolução dos serviços digitais para cidadãos\", e \"Modernização dos SI core judiciais\", ambos incluídos no Plano de Recuperação e Resiliência (PRR), pelo que a presente alteração legislativa se revela necessária e premente. Com efeito, o seu adiamento, que vem dar o necessário e adequado suporte legal à Plataforma RAL+, implicaria um atraso das medidas acima identificadas, prejudicando a concretização dos objetivos dos projetos incluídos no PRR.\n\nForam ouvidos a Comissão Nacional de Proteção de Dados, o Conselho Superior da Magistratura, o Conselho Superior do Ministério Público, o Conselho dos Julgados de Paz, a Ordem dos Advogados, a Ordem dos Solicitadores e dos Agentes de Execução, o Centro de Informação de Consumo e Arbitragem do Porto e o Centro de Arbitragem de Conflitos de Consumo da Região de Coimbra.\n\nFoi promovida a audição do Conselho Nacional do Consumo, da Federação Nacional de Mediação de Conflitos, da Associação de Mediadores de Conflitos, do Instituto de Certificação e Formação de Mediadores Lusófonos, do Centro de Arbitragem de Conflitos de Consumo do Ave, Tâmega e Sousa, do Centro de Informação, Mediação e Arbitragem de Consumo, do Centro de Arbitragem de Conflitos de Consumo do Algarve, do Centro de Arbitragem de Conflitos de Consumo de Lisboa e do Centro Nacional de Informação e Arbitragem de Conflitos de Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "859194217": {
+   "fragment_id": "859647084",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei cria e regula o sistema de informação de suporte à gestão e tramitação dos procedimentos nos sistemas públicos de mediação familiar e laboral e dos procedimentos e dos processos nos julgados de paz e nos centros de arbitragem de conflitos de consumo que integram a rede de arbitragem de consumo, designado \"Plataforma RAL+\"."
+  },
+  "859194218": {
+   "fragment_id": "859647085",
+   "type": 11,
+   "heading": "Artigo 2.º — Criação, desenvolvimento e gestão da Plataforma RAL+",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Criação, desenvolvimento e gestão da Plataforma RAL+\n\n1 - O desenvolvimento da Plataforma RAL+ compete ao Ministério da Justiça.\n\n2 - A gestão da Plataforma RAL+ compete à Direção-Geral da Política de Justiça (DGPJ), enquanto organismo do Ministério da Justiça responsável pela promoção dos meios de resolução alternativa de litígios.\n\n3 - O disposto no número anterior não prejudica as competências atribuídas aos juízes de paz e ao Conselho dos Julgados de Paz pela Lei n.º 34/2009, de 14 de julho, na sua redação atual, e aos centros de arbitragem de conflitos de consumo que integram a rede de arbitragem de consumo pela Lei n.º 144/2015, de 8 de setembro, na sua redação atual, e pelo Regulamento Geral sobre a Proteção de Dados, aprovado pelo Regulamento (UE) 2016/679 do Parlamento e do Conselho, de 27 de abril de 2016.\n\n4 - O Ministério da Justiça, através do Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., garante a infraestrutura de suporte à Plataforma RAL+, designadamente o alojamento aplicacional e as bases de dados, sendo também responsável por garantir a disponibilidade e resiliência da referida infraestrutura."
+  },
+  "859194219": {
+   "fragment_id": "859647086",
+   "type": 11,
+   "heading": "Artigo 3.º — Funcionalidades e categorias de utilizadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Funcionalidades e categorias de utilizadores\n\n1 - A Plataforma RAL+ permite:\n\na) A prática de atos e a consulta dos procedimentos e processos;\n\nb) A comunicação com outros sistemas de informação no âmbito da tramitação dos procedimentos e dos processos;\n\nc) A recolha e tratamento de dados estatísticos e indicadores de gestão.\n\n2 - São ainda desenvolvidos mecanismos de apoio à tramitação dos procedimentos e dos processos, designadamente de automatização de atos e de comunicações, de acordo com fluxos predeterminados e padronizados.\n\n3 - A Plataforma RAL+ permite o acesso e a prática dos atos referidos no n.º 1 pelas seguintes categorias de utilizadores, nos termos a definir por portaria do membro do Governo responsável pela área da justiça:\n\na) Partes;\n\nb) Mandatários;\n\nc) Outros representantes legais das partes;\n\nd) Juízes de paz, trabalhadores e mediadores que exerçam funções nos julgados de paz;\n\ne) Mediadores e trabalhadores que exerçam funções nos sistemas públicos de mediação familiar e laboral;\n\nf) Árbitros, trabalhadores, diretores e mediadores que exerçam funções nos centros de arbitragem de conflitos de consumo que integram a rede de arbitragem de consumo;\n\ng) Conservadores de registo civil;\n\nh) Presidentes de comissões de proteção de crianças e jovens;\n\ni) Entidades de fiscalização e supervisão;\n\nj) DGPJ, na qualidade de entidade gestora da Plataforma RAL+.\n\n4 - A prática dos atos referidos no n.º 1 pelos utilizadores referidos no número anterior é obrigatoriamente efetuada através da Plataforma RAL+, exceto para as partes que não se encontrem representadas por advogado ou solicitador."
+  },
+  "859194220": {
+   "fragment_id": "859647087",
+   "type": 11,
+   "heading": "Artigo 4.º — Processo eletrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Processo eletrónico\n\n1 - Os procedimentos e os processos tramitados na Plataforma RAL+ têm natureza eletrónica, sendo constituídos por informação estruturada e por documentos eletrónicos.\n\n2 - A tramitação dos procedimentos e dos processos na Plataforma RAL+, incluindo a prática de atos escritos, é efetuada nos termos regulamentados por portaria do membro do Governo responsável pela área da justiça.\n\n3 - Em caso de desconformidade entre o conteúdo dos formulários disponibilizados na Plataforma RAL+ e o conteúdo dos ficheiros anexos, prevalece a informação constante dos formulários, ainda que estes não se encontrem preenchidos.\n\n4 - O disposto no número anterior não prejudica a possibilidade de a desconformidade ser corrigida, a requerimento da parte, sem prejuízo de a questão poder ser suscitada oficiosamente.\n\n5 - Em caso de indisponibilidade da Plataforma RAL+, os atos dos diversos utilizadores podem excecionalmente ser praticados:\n\na) No caso dos procedimentos nos sistemas públicos de mediação familiar e laboral, com recurso aos meios de comunicação eletrónica admitidos por despacho do diretor-geral da Política de Justiça;\n\nb) No caso dos procedimentos e dos processos nos julgados de paz e nos centros de arbitragem de conflitos de consumo que integram a rede de arbitragem de consumo, com recurso aos meios admitidos pelo juiz de paz ou pelo diretor do centro de arbitragem.\n\n6 - Logo que cesse a indisponibilidade a que se refere o número anterior, os atos praticados são registados na Plataforma RAL+ e inseridos os respetivos documentos:\n\na) Pela DGPJ enquanto entidade gestora dos sistemas públicos de mediação familiar e laboral, nos casos previstos na alínea a) do número anterior;\n\nb) Pela secretaria do julgado de paz ou pelo serviço de atendimento dos centros de arbitragem de conflitos de consumo que integram a rede de arbitragem de consumo, nos casos previstos na alínea b) do número anterior.\n\n7 - O processo pode ter um suporte físico, a constituir nos termos regulamentados por portaria do membro do Governo responsável pela área da justiça, com o objetivo de apoiar a respetiva tramitação."
+  },
+  "859194221": {
+   "fragment_id": "859647088",
+   "type": 11,
+   "heading": "Artigo 5.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Notificações\n\nAs notificações realizadas através da Plataforma RAL+ têm-se por efetuadas no terceiro dia posterior ao da sua disponibilização na referida plataforma, ou no primeiro dia útil seguinte a esse, quando o não seja, ou no dia da sua efetiva leitura, certificada pela plataforma, caso esta ocorra antes."
+  },
+  "859194222": {
+   "fragment_id": "859647089",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicações de dados\n\n1 - Para efeitos de tramitação dos procedimentos e dos processos, pode haver comunicação de dados entre a Plataforma RAL+ e os sistemas de informação de suporte à atividade dos tribunais, dos serviços do Ministério Público, dos serviços de registo civil, das comissões de proteção de crianças e jovens e dos serviços de informação das estatísticas da justiça, bem como com quaisquer outros sistemas previstos no artigo 37.º da Lei n.º 34/2009, de 14 de julho.\n\n2 - As comunicações com outros sistemas de informação são efetuadas com recurso à Plataforma de Interoperabilidade da Administração Pública, da responsabilidade da Agência para a Modernização Administrativa, I. P., quando esses sistemas de informação não sejam da responsabilidade da área governativa da justiça.\n\n3 - As comunicações previstas no presente artigo são regulamentadas por portaria dos membros do Governo responsáveis pela área da justiça e pela tutela da entidade pública envolvida, quando aplicável."
+  },
+  "859194223": {
+   "fragment_id": "859647090",
+   "type": 11,
+   "heading": "Artigo 7.º — Medidas de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medidas de segurança\n\n1 - A Plataforma RAL+ garante a integralidade, autenticidade e inviolabilidade dos procedimentos e dos processos que aí são tramitados e da demais informação que contenha, bem como o respeito pelos regimes de sigilo aplicáveis, pelo regime de proteção e tratamento de dados pessoais e pelas normas de segurança e de acesso à informação e de disponibilidade técnica legalmente estabelecidas.\n\n2 - O acesso à área reservada da Plataforma RAL+ depende de autenticação do utilizador nos termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.\n\n3 - A Plataforma RAL+ permite o registo cronológico de todas as operações, recolhendo de forma automática as seguintes informações:\n\na) A identidade e categoria do utilizador;\n\nb) A data e a hora de início e fim da operação por parte de cada utilizador;\n\nc) A identificação do tratamento efetuado;\n\nd) As operações efetuadas por cada utilizador em cada tratamento dos dados, designadamente operações de administração do sistema e de aditamento, alteração, eliminação ou arquivamento dos dados nele contidos.\n\n4 - O registo cronológico previsto no número anterior só pode ser utilizado para efeitos de fiscalização e auditoria ou no âmbito de processos disciplinares e judiciais."
+  },
+  "859194224": {
+   "fragment_id": "859647091",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazos de conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prazos de conservação\n\n1 - O prazo de conservação dos dados dos procedimentos e dos processos é de 20 anos, contados a partir do arquivo administrativo dos procedimentos e dos processos, sem prejuízo do disposto no número seguinte.\n\n2 - Para fins de arquivo de interesse público, devem ser conservados sem limite de prazo:\n\na) A decisão final, nos julgados de paz e nos centros de arbitragem de conflitos de consumo que integram a rede de arbitragem de consumo;\n\nb) Os acordos e eventuais decisões de homologação que hajam ocorrido, com registo na plataforma, nos sistemas públicos de mediação familiar e laboral, nos julgados de paz e nos centros de arbitragem de conflitos de consumo que integram a rede de arbitragem de consumo.\n\n3 - Os dados relativos aos utilizadores que não tenham também natureza procedimental ou processual são conservados nos seguintes termos:\n\na) Os dados relativos aos utilizadores previstos nas alíneas a), b) e c) do n.º 3 do artigo 3.º, recolhidos para efeitos de autenticação, são automaticamente eliminados no final da sessão, não existindo um registo permanente de utilizador na plataforma;\n\nb) Os dados dos utilizadores previstos nas alíneas d) a j) do n.º 3 do artigo 3.º são eliminados quando o respetivo utilizador o deixe de ser, exceto o nome e categoria de utilizador, aos quais se aplica o prazo de conservação previsto no n.º 1.\n\n4 - A Plataforma RAL+ garante o apagamento automatizado nos termos do n.º 1 e a conservação dos documentos referidos no n.º 2.\n\n5 - O prazo de conservação do registo cronológico previsto no n.º 3 do artigo anterior é de cinco anos."
+  },
+  "859194225": {
+   "fragment_id": "859647092",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração à Lei n.º 78/2001, de 13 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração à Lei n.º 78/2001, de 13 de julho\n\nO artigo 7.º da Lei n.º 78/2001, de 13 de julho, na sua redação atual, passa a ter a seguinte redação:\n\n\"Artigo 7.º\n\nConhecimento e efeito da incompetência\n\n1 - A incompetência dos julgados de paz é por estes conhecida e declarada, oficiosamente ou a pedido de qualquer das partes.\n\n2 - Com a apresentação do requerimento, o demandante declara expressamente se pretende que, no caso de o julgado de paz se declarar incompetente, o processo seja remetido para o julgado de paz ou para o tribunal judicial competente.\n\n3 - Quando o demandante declarar que não pretende a remessa do processo para o julgado de paz ou para o tribunal judicial competente a declaração de incompetência do julgado de paz não dá lugar a pagamento de custas.\""
+  },
+  "859194226": {
+   "fragment_id": "859647093",
+   "type": 11,
+   "heading": "Artigo 10.º — Período experimental e obrigatoriedade de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Período experimental e obrigatoriedade de utilização\n\n1 - Sem prejuízo do disposto no n.º 5, o presente decreto-lei aplica-se, numa primeira fase, aos procedimentos nos sistemas públicos de mediação familiar e laboral e aos procedimentos e processos nos julgados de paz do Oeste, do concelho de Sintra, do concelho de Vila Nova de Poiares, do concelho de Santo Tirso e do agrupamento de concelhos de Alvaiázere, Ansião, Figueiró dos Vinhos, Pedrógão Grande e Penela.\n\n2 - O presente decreto-lei aplica-se aos procedimentos e processos nos julgados de paz do concelho de Terras de Bouro, do concelho da Trofa, do agrupamento dos concelhos de Aguiar da Beira, Penalva do Castelo, Sátão, Trancoso e Vila Nova de Paiva, do agrupamento dos concelhos de Tarouca, Armamar, Castro Daire, Lamego, Moimenta da Beira e Resende, e do concelho de Miranda do Corvo, 45 dias após a data da publicação do presente decreto-lei.\n\n3 - O presente decreto-lei aplica-se aos procedimentos e processos nos demais julgados de paz a partir de 1 de setembro de 2024.\n\n4 - O presente decreto-lei aplica-se aos procedimentos e processos nos centros de arbitragem de conflitos de consumo que integram a rede de arbitragem de consumo a partir de 1 de outubro de 2024.\n\n5 - Aos procedimentos e processos nos julgados de paz referidos no n.º 1, o disposto no n.º 4 do artigo 3.º, aplica-se 45 dias após a data da publicação do presente decreto-lei."
+  },
+  "859194227": {
+   "fragment_id": "859647094",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "887317260": {
+   "fragment_id": "859647093",
+   "type": 11,
+   "heading": "Artigo 10.º — Período experimental e obrigatoriedade de utilização",
+   "in_force_from": "2024-09-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2024-887319190), em vigor a partir de 2024-09-11"
+   ],
+   "markdown": "###### Artigo 10.º — Período experimental e obrigatoriedade de utilização\n\n1 - Sem prejuízo do disposto no n.º 5, o presente decreto-lei aplica-se, numa primeira fase, aos procedimentos nos sistemas públicos de mediação familiar e laboral e aos procedimentos e processos nos julgados de paz do Oeste, do concelho de Sintra, do concelho de Vila Nova de Poiares, do concelho de Santo Tirso e do agrupamento de concelhos de Alvaiázere, Ansião, Figueiró dos Vinhos, Pedrógão Grande e Penela.\n\n2 - O presente decreto-lei aplica-se aos procedimentos e processos nos julgados de paz do concelho de Terras de Bouro, do concelho da Trofa, do agrupamento dos concelhos de Aguiar da Beira, Penalva do Castelo, Sátão, Trancoso e Vila Nova de Paiva, do agrupamento dos concelhos de Tarouca, Armamar, Castro Daire, Lamego, Moimenta da Beira e Resende, e do concelho de Miranda do Corvo, 45 dias após a data da publicação do presente decreto-lei.\n\n3 - O presente decreto-lei aplica-se aos procedimentos e processos nos demais julgados de paz, bem como aos centros de arbitragem de conflitos de consumo que integram a rede de arbitragem de consumo, a partir de 28 de fevereiro de 2025.\n\n4 - (Revogado.)\n\n5 - Aos procedimentos e processos nos julgados de paz referidos no n.º 1, o disposto no n.º 4 do artigo 3.º, aplica-se 45 dias após a data da publicação do presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/2024 - Diário da República n.º 175/2024, Série I de 2024-09-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2024-887319190), em vigor a partir de 2024-09-11"
+  },
+  "859194228": {
+   "fragment_id": "859647095",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de fevereiro de 2024. - António Luís Santos da Costa - Catarina Teresa Rola Sarmento e Castro - António José da Costa Silva.\n\nPromulgado em 25 de março de 2024.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 27 de março de 2024.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n117542732"
+  }
+ }
+}

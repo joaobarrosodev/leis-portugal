@@ -1,0 +1,362 @@
+---
+schema_version: '1.0'
+id: pt:dre:105276963:por
+title: Portaria n.º 298/2016
+short_title: null
+summary: Regula o regime dos serviços remunerados, designadamente a sua requisição, autorização, duração, organização e modos
+  de pagamento, bem como os valores devidos pela prestação desses serviços remunerados pelos militares da GNR e pelo pessoal
+  policial da PSP
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Administração Interna
+proposing_entity: null
+official_number: 298/2016
+official_date: null
+publication_date: '2016-11-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/2016, Série I de 2016-11-29
+  number: '229'
+  series: I
+  supplement: null
+  pages: 4233 - 4237
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22900/0423304237.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-02-25'
+version_history:
+  file: portaria-298-2016.versoes.json
+  count: 2
+  source_lastmod: '2026-02-10'
+  versions:
+  - date: '2016-11-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-02-25'
+    amending: pt:dre:1043405190:por
+    amending_title: Portaria n.º 64/2026/1
+    changes:
+    - Altera Artigo 3.º
+    - Altera TABELA A
+    - Altera TABELA B
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/298/2016/p/cons/20260210/pt/html
+  oj: null
+  dre: '105276963'
+  dre_path: /dr/detalhe/portaria/298-2016-105276963
+  internal: pt:dre:105276963:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/298-2016-105276963
+  metadata_url: https://data.dre.pt/eli/port/298/2016/p/cons/20260210/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-953449560
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-953449560
+  retrieved_at: '2026-10-22T13:41:10Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-02-10T00:00:00Z'
+integrity:
+  source_sha256: 22bd337d0f9b23a90061405c74de4b367470df18275f9b6c76d05a3d8c39535d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:41:10Z'
+  notes: 2 versão(ões); histórico completo em portaria-298-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Espetáculos e Divertimentos Públicos
+- GNR
+- Prestação de Serviços
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:1043405190:por
+  label: Altera Artigo 3.º; Altera TABELA A; Altera TABELA B
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/64-2026-1043405190
+  date: '2026-02-10'
+- type: cites
+  target: pt:dre:175794:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/216/2012/10/09/p/dre
+- type: cites
+  target: pt:dre:176037:por
+  label: null
+  source: http://data.dre.pt/eli/port/289/2012/09/24/p/dre
+- type: cites
+  target: pt:dre:260420:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/52/2013/04/
+- type: cites
+  target: pt:dre:491436:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/298/2009/10/14/p/dre
+- type: cites
+  target: pt:dre:518429:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/63/2007/03/14/p/dre
+- type: cites
+  target: pt:dre:519221:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/53/2007/03/08/p/dre
+- type: cites
+  target: pt:dre:571891:por
+  label: null
+  source: http://data.dre.pt/eli/port/68/2014/03/13/p/dre
+- type: cites
+  target: pt:dre:629449:por
+  label: null
+  source: http://data.dre.pt/eli/lei/63/2007/11/06/p/dre
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2007/08/31/p/dre
+- type: cites
+  target: pt:dre:70737912:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/243/2015/10/19/p/dre
+article_structure:
+  article_count: 11
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:41:10Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 298/2016
+
+O artigo 31.º do Decreto-Lei n.º 298/2009, de 14 de outubro, que estabelece o regime remuneratório aplicável aos militares da Guarda Nacional Republicana (GNR) e o artigo 139.º do Decreto-Lei n.º 243/2015, de 19 de outubro, que estabelece o estatuto profissional do pessoal com funções policiais da Polícia de Segurança Pública (PSP) determinam, respetivamente, que os militares e o pessoal policial, quando afeto à prestação de serviços remunerados desenvolvidos no quadro do disposto nas leis orgânicas da GNR e da PSP, Lei n.º 63/2007, de 6 de novembro, e Lei n.º 53/2007, de 31 de agosto, respetivamente, têm direito a auferir uma remuneração pela participação efetiva nesses serviços.
+
+O universo de atuação a que se referem esses normativos foi balizado pelas leis orgânicas das Forças de Segurança, nomeadamente pelos n.º 4 do artigo 16.º e n.os 1 e 3 do artigo 18.º da Lei n.º 63/2007, de 6 de novembro e pelo n.º 4 do artigo 14.º e n.os 1 e 3 do artigo 16.º da Lei n.º 53/2007, de 31 de agosto.
+
+A Portaria n.º 289/2012, de 24 de setembro, alterada pela Portaria n.º 68/2014, de 13 de março, define os valores que os militares da GNR e o pessoal policial da PSP têm direito a auferir pela participação efetiva na prestação de serviços remunerados solicitados por órgãos e entidades públicas e privadas, sendo necessário definir todo um conjunto de procedimentos associados ao regime de requisição, autorização, duração, organização e modos de pagamento, até agora dispersos em normas internas das respetivas Forças de Segurança.
+
+Pela presente Portaria é regulado o regime dos serviços remunerados, designadamente a sua requisição, autorização, duração, organização e modos de pagamento, bem como os valores devidos pela prestação desses serviços remunerados pelos militares da GNR e pelo pessoal policial da PSP. Por outro lado, tendo em conta que os custos administrativos associados ao planeamento, nomeação, controlo, fiscalização, cobrança e pagamento aos respetivos militares e pessoal policial dos serviços remunerados têm sido, até ao momento, suportados integralmente pelas Forças de Segurança, vem, também, estabelecer-se um valor destinado a cobrir alguns desses custos.
+
+Assim, manda o Governo, pelo Ministro das Finanças e pela Ministra da Administração Interna, ao abrigo do disposto no n.º 3 do artigo 17.º, aplicado por força do n.º 3 do artigo 18.º, do artigo 50.º e da alínea a) do n.º 1 e n.º 4 do artigo 53.º da Lei n.º 63/2007, de 6 de novembro e no disposto no n.º 3 do artigo 15.º, aplicado por força do n.º 3 do artigo 16.º, do artigo 63.º, e da alínea b) do n.º 1 e n.º 2 do artigo 65.º da Lei n.º 53/2007, de 31 de agosto, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente Portaria regula o regime dos serviços remunerados, designadamente a sua requisição, autorização, duração, organização e modos de pagamento, bem como os valores devidos pela prestação desses serviços remunerados pelos militares da GNR e pelo pessoal policial da PSP, ao abrigo do disposto no n.º 4 do artigo 16.º e dos n.os 1 e 3 do artigo 18.º da Lei n.º 63/2007, de 6 de novembro, do n.º 4 do artigo 14.º e dos n.os 1 e 3 do artigo 16.º da Lei n.º 53/2007, de 31 de agosto, do artigo 31.º do Decreto-Lei n.º 298/2009, de 14 de outubro e do artigo 139.º do Decreto-Lei n.º 243/2015, de 19 de outubro.
+
+2 - É criada a taxa que se destina a cobrir parte dos custos administrativos associados ao planeamento, nomeação, controlo, fiscalização, cobrança e pagamento aos respetivos militares e pessoal policial dos serviços remunerados, ao abrigo do disposto no n.º 4 do artigo 53.º do Decreto-Lei n.º 63/2007, de 6 de novembro e no n.º 2 do artigo 65.º do Decreto-Lei n.º 53/2007, de 31 de agosto.
+
+3 - São aprovadas as tabelas e modelos dos Anexos I, II, III e IV da presente Portaria e que dela fazem parte integrante.
+
+###### Artigo 2.º — Serviços Remunerados
+
+Para efeitos do disposto na presente Portaria considera-se serviço remunerado todo o policiamento efetuado no âmbito das atividades desportivas, culturais, sociais, religiosas, de lazer e outras, com ou sem fins lucrativos, que implique a afetação em exclusivo de meios e seja prestado a pedido de entidades interessadas, públicas e privadas, por imposição legal, ou não, nos termos do disposto no n.º 4 do artigo 16.º e no artigo 18.º da Lei n.º 63/2007, de 6 de novembro e no n.º 4 do artigo 14.º e no artigo 16.º da Lei n.º 53/2007, de 31 de agosto.
+
+###### Artigo 3.º — Requisição e autorização
+
+1 - A requisição de policiamento de espetáculos desportivos, prevista pelo Decreto-Lei n.º 216/2012, de 9 de outubro, alterado pelo Decreto-Lei n.º 52/2013, de 17 de abril, é efetuada nos termos do disposto na Portaria n.º 55/2014, de 6 de março.
+
+2 - A requisição de policiamento das demais atividades desportivas, culturais, sociais, religiosas e outras é submetida através de plataforma existente para o efeito, ou remetida à Força de Segurança territorialmente competente, preferencialmente através de meio de transmissão eletrónica de dados, com a antecedência mínima de dez dias úteis relativamente à data pretendida para o seu início, contendo, entre outros, os elementos constantes do modelo do Anexo I.
+
+3 - Em casos excecionais, devidamente avaliados pelas Forças de Segurança, pode o prazo previsto no número anterior ser inferior.
+
+4 - Sem prejuízo do disposto na Portaria n.º 55/2014, de 6 de março, a decisão da Força de Segurança é comunicada ao requerente, no prazo de cinco dias úteis a contar da data de entrada do pedido, com indicação, em caso de deferimento, do custo estimado do serviço a prestar.
+
+5 - A decisão sobre a requisição de policiamento cabe ao comandante da força de segurança territorialmente competente, que atende à adequação e necessidade de policiamento do evento, em observância do princípio da proporcionalidade, bem como à gestão equilibrada do efetivo.
+
+6 - A falta de apresentação, em tempo, de prova documental que ateste o cumprimento das normas legais exigidas, nomeadamente licenças, autorizações ou seguros de responsabilidade civil, constitui fundamento para o indeferimento do pedido.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 64/2026/1 - Diário da República n.º 28/2026, Série I de 2026-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/64-2026-1043405190), em vigor a partir de 2026-02-25
+
+###### Artigo 4.º — Duração dos serviços remunerados
+
+1 - Para efeitos de cálculo da remuneração devida pela prestação do serviço, deve ser considerado um período mínimo de 4 horas, ainda que a sua duração seja inferior.
+
+2 - Quando o período mínimo de 4 horas abranger os diferentes horários previstos nas tabelas, deve o mesmo ser contabilizado pelo valor correspondente ao período mais longo do serviço efetivamente prestado, exceto quando abranger exatamente o mesmo tempo nos dois horários, em que deve ser contabilizado pelo horário das 20 às 8 horas.
+
+3 - Nos casos em que a prestação do serviço é superior a 4 horas, deve ter-se em conta o seguinte:
+
+a) Se a prestação do serviço tiver uma duração superior a 4 horas e inferior ou igual a 6 horas, acresce o custo das frações que vão além das 4 horas;
+
+b) Se a prestação do serviço tiver uma duração superior a 6 horas e inferior ou igual a 8 horas, deve o custo ser calculado por dois períodos de 4 horas;
+
+c) Se a prestação do serviço tiver uma duração superior a 8 horas, deve o custo ser calculado por períodos de 4 horas, acrescidos do custo das frações que vão além desses períodos.
+
+4 - As frações são períodos com a duração de 60 minutos, que se iniciam imediatamente após a duração mínima do serviço remunerado.
+
+5 - Para efeitos de contabilização, a primeira fração inicia-se após 15 minutos do final das 4 horas de duração normal do serviço remunerado.
+
+6 - O serviço remunerado tem início à hora em que a Força de Segurança comparece no local da sua prestação, salvo se, por razões operacionais, for decidido outro local.
+
+7 - Nos serviços remunerados que impliquem a mobilidade dos meios durante a sua execução, o serviço remunerado termina com o regresso ao local de início.
+
+8 - Sempre que for solicitada a cedência de canídeos ou equídeos, à duração dos serviços remunerados acresce, respetivamente, uma ou duas horas, destinadas à sua preparação e tratamento.
+
+###### Artigo 5.º — Organização
+
+1 - Os serviços remunerados são prestados pelas Forças de Segurança através de militares e pessoal policial fora do seu período de serviço ou do seu horário normal de trabalho.
+
+2 - Sem prejuízo do disposto no número anterior, não havendo pessoal disponível fora do período de serviço ou do seu horário normal de trabalho, as Forças de Segurança podem disponibilizar outros elementos, a título excecional e por motivos de interesse público ou por imposição legal.
+
+3 - A prestação dos serviços remunerados não afasta as normas estatutárias em matéria de dever de disponibilidade nem as relativas ao carácter permanente e obrigatório do serviço policial.
+
+4 - Sem prejuízo do disposto no número anterior, o emprego de canídeos e equídeos ou a utilização de outros meios especiais obedece aos princípios da disponibilidade, necessidade, adequação e economia, considerando a natureza do serviço prestado e as circunstâncias em que é executado.
+
+5 - Compete ao comandante da unidade ou subunidade competente definir as medidas a adotar e os meios a afetar para os serviços remunerados previstos no n.º 2 do artigo 3.º, atendendo, designadamente, num quadro geral de proporcionalidade:
+
+a) Ao tipo de evento;
+
+b) À lotação do evento;
+
+c) Ao grau de risco previsto;
+
+d) À situação da criminalidade na área em causa;
+
+e) Às características da zona de intervenção; e
+
+f) Ao período temporal em que o serviço é realizado.
+
+6 - Sem prejuízo do disposto na lei e na presente Portaria, compete ao Comandante-Geral da GNR e ao Diretor Nacional da PSP definir as regras administrativas internas e operacionais necessárias, bem como a uniformização de procedimentos no que respeita à prestação de serviços remunerados pela respetiva Força de Segurança, nomeadamente quanto à organização, enquadramento, execução e gestão de meios humanos e materiais a afetar a estes serviços.
+
+###### Artigo 6.º — Valores a Cobrar
+
+1 - São aplicáveis os valores constantes da Tabela A do Anexo II da presente Portaria, ao policiamento dos seguintes eventos:
+
+a) Atividades culturais, sociais, religiosas, de lazer e outras em que seja necessário garantir a segurança de pessoas e bens e a manutenção da ordem pública;
+
+b) Eventos ou jogos de competições desportivas de escalão sénior ou equivalente, de âmbito nacional, distrital ou local de natureza profissional, tal como definidos nos termos legais;
+
+c) Eventos ou jogos de competições desportivas de escalão sénior ou equivalente, de âmbito nacional, distrital ou local, em que participem sociedades desportivas intervenientes em competições desportivas de natureza profissional;
+
+d) Eventos ou provas de caráter particular, ou fora do calendário da federação que tutela a modalidade, independentemente do escalão;
+
+e) Competições ou provas de escalão sénior de âmbito internacional, ou em que participem atletas ou equipas representativas de outros países, com exceção daquelas em que participe a seleção nacional;
+
+f) Eventos ou provas de qualquer escalão abertas à participação do público em geral, independentemente da participação de atletas federados e da inscrição da prova em calendário competitivo;
+
+g) Espetáculos desportivos que se realizem na via pública com duração superior a um dia.
+
+2 - São aplicáveis os valores constantes na Tabela B do Anexo II da presente Portaria aos seguintes eventos:
+
+a) Espetáculos desportivos a que se refere o n.º 1 do artigo 5.º do Decreto-Lei n.º 216/2012, de 9 de outubro, alterado pelo Decreto-Lei n.º 52/2013, de 17 de abril, quando comparticipados;
+
+b) Eventos ou jogos de competições desportivas de natureza inferior ao escalão sénior, de escalão sénior ou equivalente de âmbito distrital, local ou nacional, de natureza não profissional.
+
+3 - Aos serviços prestados nos termos da Tabela A do Anexo II acresce o valor de (euro)2,00 por cada elemento nomeado, a título de pagamento dos custos administrativos e de organização das Forças de Segurança.
+
+4 - Nos serviços remunerados que se prolonguem por dias sucessivos, não são de considerar, para efeitos da aplicação das tabelas de serviços remunerados, os períodos em que os militares ou o pessoal policial interrompem a execução efetiva do serviço remunerado.
+
+5 - Nos serviços referidos no número anterior que impliquem, durante a sua execução, a deslocação para fora do domicílio necessário dos militares ou pessoal policial empenhado, é da responsabilidade da entidade requisitante o apoio logístico ao pessoal deslocado, através do pagamento do montante correspondente aos valores previstos para as ajudas de custo por deslocação em serviço no território nacional.
+
+6 - Quando o serviço remunerado exigir a utilização de canídeos, equídeos ou meios especiais, acresce o pagamento dos valores previstos no Anexo III.
+
+7 - À prestação de serviços remunerados que implique utilização de veículos para transporte de pessoal, animais e outros meios, acrescem os valores previstos no Anexo IV, sem prejuízo do pagamento das despesas resultantes de tal utilização, designadamente taxas de portagem e de estacionamento.
+
+###### Artigo 7.º — Pagamento
+
+1 - Os serviços remunerados são pagos pelos interessados com a antecedência mínima de três dias úteis relativamente ao seu início.
+
+2 - Os serviços remunerados de periodicidade regular e consecutiva são pagos, em regra, pelos interessados até ao 5.º dia útil do mês a que se reportam.
+
+3 - O pagamento referido nos números anteriores deve ser efetuado pelo valor correspondente ao custo estimado dos serviços remunerados.
+
+4 - Nos casos em que o valor estimado dos serviços remunerados não corresponda ao seu custo efetivo, o respetivo acerto e pagamento é efetuado no prazo máximo de 30 dias após a conclusão da prestação do serviço.
+
+5 - Considerando as necessidades organizativas e reguladoras atinentes à nomeação dos militares e pessoal policial, a anulação de serviço remunerado requisitado terá de ocorrer com um prazo de 24 horas de antecedência sendo que, após este período, proceder-se-á à sua efetiva cobrança, mesmo que o serviço não se concretize, exceto por caso fortuito ou motivo de força maior.
+
+6 - A falta de pagamento nos prazos previstos nos n.os 1 e 2 do presente artigo determina a não prestação dos serviços em causa.
+
+7 - Sempre que se verificar o não pagamento, pelas entidades interessadas, dos valores determinados nos termos do artigo 6.º, nos prazos previstos no presente artigo, é extraída certidão de dívida, nos termos do disposto na alínea b) do n.º 1 do artigo 22.º do Decreto-Lei n.º 191/99, de 5 de junho, com as alterações introduzidas pelas Lei n.º 3-B/2000, de 4 de abril, e Lei n.º 107-B/2003, de 31 de dezembro.
+
+###### Artigo 8.º — Receitas
+
+1 - Os valores a cobrar pela prestação dos serviços remunerados, fixados no Anexo II, constituem gratificação dos militares e pessoal policial afeto à sua prestação, considerando-se como não atribuída pela respetiva Força de Segurança, ainda que pagas pelo seu intermédio.
+
+2 - Os valores a cobrar nos termos dos n.os 3, 6 e 7 do artigo 6.º constituem receita própria da Força de Segurança respetiva.
+
+3 - Sempre que o apoio logístico previsto no n.º 5 do artigo 6.º for garantido com meios e instalações da Força de Segurança, os valores cobrados constituem receita própria da respetiva Força de Segurança.
+
+4 - Sempre que forem prestados serviços remunerados pelos militares e pessoal policial ao abrigo do disposto no n.º 2 do artigo 5.º, os valores cobrados constituem receita própria da respetiva Força de Segurança.
+
+###### Artigo 9.º — Atualização dos preços
+
+1 - Os valores previstos nas tabelas dos Anexo II, III e IV e no n.º 3 do artigo 6.º da presente Portaria são atualizados automaticamente, em 1 de março de cada ano, em função da variação do índice médio de preços no consumidor, excluindo a habitação, no continente, relativo ao ano anterior e publicado pelo Instituto Nacional de Estatística, arredondando-se os resultados obtidos ao cêntimo de euro superior.
+
+2 - Não ocorrerá a atualização dos valores sempre que o índice médio de preços, calculado de acordo com o estabelecido no número anterior, apresente um valor negativo, sendo que, na subsequente atualização positiva, deverá ser tido em consideração esse valor negativo.
+
+###### Artigo 10.º — Norma revogatória
+
+São revogados os seguintes diplomas legais:
+
+a) Portaria n.º 289/2012, de 24 de setembro, alterada pela Portaria n.º 68/2014, de 13 de março;
+
+b) Despacho Normativo n.º 218/82, de 12 de outubro, alterado pelo Despacho Normativo n.º 254/82, de 5 de novembro e pelo Despacho Normativo n.º 16/83, de 19 de janeiro.
+
+###### Artigo 11.º — Entrada em vigor
+
+A presente Portaria entra em vigor no primeiro dia do segundo mês seguinte ao da publicação.
+
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 18 de novembro de 2016. - A Ministra da Administração Interna, Maria Constança Dias Urbano de Sousa, em 19 de outubro de 2016.
+
+## Anexo I
+
+(ver documento original)
+
+## Anexo II — Tabelas de valores devidos pela prestação de serviços remunerados pela GNR e PSP
+
+## TABELA A — (artigo 6.º, n.º 1)
+
+| Categoria/carreira | Período de quatro horas (por cada elemento) | Por cada hora adicional (por cada elemento) |  |  |
+| --- | --- | --- | --- | --- |
+| Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas |  |
+| Oficial | 60,51 € | 85,96 € | 15,84 € | 22,03 € |
+| Sargento/Chefe | 54,34 € | 77,03 € | 14,48 € | 20,67 € |
+| Cabo (*)/Agente Principal (*)/Guarda (*)/Agente (*) | 51,60 € | 74,27 € | 13,11 € | 19,31 € |
+
+(*) Quando em exercício de funções de coordenação aufere os valores previstos para Sargentos e Chefes.
+
+> Alterado pelo/a TABELA A do/a [Portaria n.º 64/2026/1 - Diário da República n.º 28/2026, Série I de 2026-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/64-2026-1043405190), em vigor a partir de 2026-02-25
+
+## TABELA B — (artigo 6.º, n.º 2)
+
+| Categoria/carreira | Período de quatro horas (por cada elemento) | Por cada hora adicional (por cada elemento) |  |  |
+| --- | --- | --- | --- | --- |
+| Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas | Dias úteis das 8 às 20 horas | Sábados, domingos, feriados e dias úteis das 20 às 8 horas |  |
+| Oficial | 51,60 € | 76,34 € | 15,84 € | 19,99 € |
+| Sargento/Chefe | 41,27 € | 61,21 € | 13,11 € | 17,22 € |
+| Cabo (*)/Agente Principal (*)/Guarda (*)/Agente (*) | 36,46 € | 54,34 € | 10,36 € | 14,48 € |
+
+(*) Quando em exercício de funções de coordenação aufere os valores previstos para Sargentos e Chefes.
+
+> Alterado pelo/a TABELA B do/a [Portaria n.º 64/2026/1 - Diário da República n.º 28/2026, Série I de 2026-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/64-2026-1043405190), em vigor a partir de 2026-02-25
+
+## Anexo III — Tabela de valores devidos pela utilização de canídeos e equídeos em serviços remunerados prestados pela GNR e PSP
+
+(artigo 6.º, n.º 6)
+
+(ver documento original)
+
+## Anexo IV — Tabela de valores devidos pela utilização de veículos e equipamentos em serviços remunerados prestados pela GNR e PSP
+
+(artigo 6.º, n.º 7)

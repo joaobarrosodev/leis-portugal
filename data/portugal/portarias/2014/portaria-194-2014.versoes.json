@@ -1,0 +1,560 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:57695124:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-106384862",
+ "dre_path": "/dr/detalhe/portaria/194-2014-57695124",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "106390168",
+    "106390169",
+    "106390170",
+    "106390171",
+    "106390172",
+    "106390173",
+    "106390174",
+    "106389775",
+    "106389776",
+    "106389777",
+    "106389778",
+    "106389779",
+    "106389780",
+    "106389781",
+    "106389782",
+    "106389784",
+    "106389785",
+    "106389786",
+    "106389787",
+    "106389788",
+    "106389789"
+   ]
+  },
+  {
+   "date": "2016-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74967223:por",
+     "title": "Portaria n.º 195/2016",
+     "published": "2016-07-19",
+     "dre_path": "/dr/detalhe/portaria/195-2016-74967223"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "106390168",
+    "106390169",
+    "106390170",
+    "106390171",
+    "106389802",
+    "106390173",
+    "106390174",
+    "106389775",
+    "106389776",
+    "106389777",
+    "106389778",
+    "106389779",
+    "106389803",
+    "106389781",
+    "106389782",
+    "106389783",
+    "106389784",
+    "106389785",
+    "106389786",
+    "106389787",
+    "106389788",
+    "106389805",
+    "106389806"
+   ]
+  },
+  {
+   "date": "2017-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106388652:por",
+     "title": "Portaria n.º 52/2017",
+     "published": "2017-02-02",
+     "dre_path": "/dr/detalhe/portaria/52-2017-106388652"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º-A"
+   ],
+   "fragments": [
+    "106390168",
+    "106390169",
+    "106390170",
+    "106390171",
+    "106389802",
+    "106390173",
+    "106390174",
+    "106389775",
+    "106389776",
+    "106389777",
+    "106389778",
+    "106389779",
+    "106389803",
+    "106389781",
+    "106389782",
+    "106389783",
+    "106389784",
+    "106389785",
+    "106389786",
+    "106389787",
+    "106389788",
+    "106389807",
+    "106389806"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1140260277:por",
+     "title": "Portaria n.º 282/2026/1",
+     "published": "2026-06-30",
+     "dre_path": "/dr/detalhe/portaria/282-2026-1140260277"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "106390168",
+    "1142587975",
+    "106390170",
+    "106390171",
+    "1142588175",
+    "106390173",
+    "1142588375",
+    "1142590575",
+    "1142590775",
+    "1142590975",
+    "1142591175",
+    "106389779",
+    "1142591375",
+    "1142591575",
+    "1142589375",
+    "1142589575",
+    "1142589675",
+    "1142589775",
+    "106389785",
+    "1142591975",
+    "1142592175",
+    "106389788",
+    "106389807",
+    "1142590275"
+   ]
+  }
+ ],
+ "fragments": {
+  "106390168": {
+   "fragment_id": "106384863",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 194/2014\n\nde 30 de setembro\n\nA melhoria da prestação de cuidados de saúde, tornando-os mais efetivos e eficientes, fazendo-a convergir com o melhor da prática em outros países europeus é um desígnio do Programa do XIX Governo Constitucional.\n\nNa realidade, todos os sistemas de saúde europeus enfrentam, nesta altura, o desafio de aumentar a sua eficiência e reduzir os seus custos, assegurando a melhoria da qualidade da prestação de cuidados e resultados alcançados, de forma a garantir o seu crescimento e sucesso sustentados.\n\nCom efeito, observa-se na maioria dos sistemas de saúde a existência de uma forte relação entre escala e qualidade, constatando-se que os serviços com maior escala tendem a facilitar a comunicação interespecialidades, fortalecer o trabalho multidisciplinar, assegurar o uso ótimo de tecnologia diferenciada e criar um clima propício à educação e investigação permanentes. Desta forma e face às sinergias constatadas, os cuidados de saúde que beneficiam de economias de escala devem ser concentrados.\n\nNeste sentido, a Diretiva n.º 2011/24/UE, do Parlamento Europeu e do Conselho, de 9 de março de 2011, relativa ao exercício dos direitos dos doentes em matéria de cuidados de saúde transfronteiriços, estabelece que a Comissão Europeia apoia a criação de redes europeias de referência entre os prestadores de cuidados de saúde e os centros de especialização nos Estados-membros, em particular no domínio das doenças raras. Através da presente diretiva os Estados-membros são encorajados a participar no desenvolvimento das redes europeias de referência através da criação de Centros de Referência Nacionais.\n\nNeste enquadramento também o relatório apresentado pelo Grupo Técnico para a Reforma Hospitalar, criado pelo Despacho do Ministro da Saúde n.º 10601/2011, publicado no Diário da República, 2.ª série, n.º 162, de 24 de agosto de 2011, define oito iniciativas estratégicas, com a extensão, profundidade e densidade exigidas a uma reforma estrutural do sector hospitalar do Serviço Nacional de Saúde. Uma destas iniciativas inclui a identificação, reconhecimento e implementação de centros de referência, que concentrem casuística e recursos para o diagnóstico, tratamento e investigação científica de diferentes patologias médicas e cirúrgicas, envolvendo equipas multidisciplinares e um controlo científico e médico, de qualidade e de segurança mais exigente, com importante peso na investigação e ensino e que se apresentem de seguida como potenciais prestadores de cuidados de saúde a cidadãos de países europeus e de países que integram a Comunidade de Países de Língua Portuguesa.\n\nPor esta razão e assumindo o Governo esta prioridade, foi constituído um Grupo de Trabalho, através do Despacho do Secretário de Estado Adjunto do Ministro da Saúde n.º 4319/2013, publicado no Diário da República, 2.ª série, n.º 59, de 25 de março de 2013, para proceder à definição do conceito de centro de referência, estabelecer os critérios para a sua criação e reconhecimento pelo Ministério da Saúde, propor o seu modelo de implementação, financiamento e conceção da forma de integração na Rede Hospitalar Portuguesa e cujas propostas se consubstanciam na presente Portaria.\n\nA Lei n.º 52/2014, de 25 de agosto, que transpõe para ordem jurídica interna a Diretiva n.º 2011/24/UE, do Parlamento Europeu e do Conselho, de 9 de março de 2011, relativa ao exercício dos direitos dos doentes em matéria de cuidados de saúde transfronteiriços, consagra que compete ao Ministério da Saúde identificar, aprovar e reconhecer oficialmente centros de referência nacionais, designadamente para diagnóstico e tratamento de doenças raras, assim como promover a participação e integração de centros de referência nacionais que voluntariamente pretendam integrar as Redes Europeias de Referência.\n\nAssim, o Sistema de Saúde Português ficará em melhores condições para ganhar competências, prestígio e competitividade face aos sistemas de saúde europeus e internacionais. Poderá, por outro lado, vir a assumir-se como um polo de atração de doentes do espaço europeu em áreas específicas de elevada especialização, reforçando o interesse no seu posicionamento estratégico, reconhecido nas Grandes Opções do Plano para 2014.\n\nO processo de reconhecimento de centros de referência reveste-se, assim, de importância estratégica para o Sistema de Saúde, devendo ser construído no sentido de se concentrar casuística, experiência e recursos, que permitam a referenciação com base na hierarquia de competências e na articulação quer com as redes de referenciação hospitalar, quer com centros congéneres nacionais, europeus ou internacionais, maximizando o aproveitamento dos recursos existentes, suscetíveis de melhorar a capacidade diagnóstica e de tratamento de um conjunto de patologias, designadamente de doenças raras. O processo de reconhecimento de centros de referência pode e deve ainda contribuir decisivamente para a reforma estrutural do sector hospitalar no Sistema de Saúde Português.\n\nAtravés do processo de reconhecimento de centros de referência, com base na hierarquia de conhecimentos e competências, que não apenas geográfica, prevê-se que a oferta de cuidados de saúde de elevada especialização se traduza em melhorias significativas na sua qualidade, efetividade e segurança. Por outro lado, maximizar-se-á o potencial inovador da ciência médica e das tecnologias da saúde, através de uma indispensável e inerente partilha de conhecimento e formação dos profissionais de saúde e consórcios com centros de investigação de excelência.\n\nExiste assim, a expectativa de que, posto em marcha o processo nacional de, identificação, aprovação e reconhecimento de centros de referência como imperativo do desenvolvimento de competências e diferenciação do Sistema de Saúde, se possam, criar sinergias no âmbito da cooperação europeia no domínio dos cuidados de saúde altamente especializados, promovendo economias de escala, maximizando a eficiência, garantindo o custo-efetividade dos cuidados prestados, fomentando a inovação e disseminando boas práticas.\n\nAssim:\n\nManda o Governo, pelo Ministro da Saúde, ao abrigo do disposto no artigo 16.º da Lei n.º 52/2014, 25 de agosto:"
+  },
+  "106390169": {
+   "fragment_id": "106384864",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o conceito, o processo de identificação, aprovação e reconhecimento dos Centros de Referência Nacionais para a prestação de cuidados de saúde, designadamente para diagnóstico e tratamento de doenças raras."
+  },
+  "106390170": {
+   "fragment_id": "106384865",
+   "type": 11,
+   "heading": "Artigo 2.º — Centro de Referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Centro de Referência\n\nPara efeitos da aplicação da presente portaria entende-se por «Centro de Referência», qualquer serviço, departamento ou unidade de saúde, reconhecido como o expoente mais elevado de competências na prestação de cuidados de saúde de elevada qualidade em situações clínicas que exigem uma concentração de recursos técnicos e tecnológicos altamente diferenciados, de conhecimento e experiência, devido à baixa prevalência da doença, à complexidade no seu diagnóstico ou tratamento e/ou aos custos elevados da mesma, sendo capaz de conduzir formação pós-graduada e investigação científica nas respetivas áreas médicas."
+  },
+  "106390171": {
+   "fragment_id": "106384866",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos do Centro de Referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos do Centro de Referência\n\nOs Centros de Referência têm como objetivos:\n\na) Melhorar a capacidade diagnóstica e de tratamento de várias patologias médicas e cirúrgicas;\n\nb) Agregar capacidade de resposta sinérgica em torno de entidades nosológicas com afinidades nas suas manifestações e abordagens diagnósticas e terapêuticas;\n\nc) Maximizar o potencial inovador das ciências médicas e das tecnologias da saúde, conduzindo investigação científica de impacto internacional;\n\nd) Disponibilizar cuidados de saúde de elevada especialização, traduzidos em melhorias significativas na sua qualidade, custo-efetividade e segurança;\n\ne) Prestar cuidados de saúde de elevada qualidade, eficientes e acessíveis, aos doentes cuja condição clínica exija uma concentração especial de conhecimentos médicos altamente diferenciados;\n\nf) Disseminar boas práticas;\n\ng) Contribuir para a reforma estrutural do sector hospitalar."
+  },
+  "106390172": {
+   "fragment_id": "106384867",
+   "type": 11,
+   "heading": "Artigo 4.º — Deveres e obrigações do Centro de Referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Deveres e obrigações do Centro de Referência\n\n1 - Os Centros de Referência devem:\n\na) Integrar, na sua constituição, equipas multidisciplinares experientes e altamente qualificadas na sua área de atuação;\n\nb) Possuir estruturas e equipamentos altamente especializados, que devem estar preferencialmente concentrados;\n\nc) Garantir que os serviços e cuidados são prestados de acordo com os mais elevados padrões da qualidade, em conformidade com a evidência clínica disponível e com as normas clínicas nacionais em vigor;\n\nd) Possuir competências nas áreas de ensino, formação, investigação, constituindo-se como agente da inovação, nomeadamente na transferência ao tecido produtivo dos resultados da sua investigação;\n\ne) Promover os mecanismos necessários para uma articulação eficiente com outras unidades de saúde e outros Centros de Referência.\n\n2 - Constituem obrigações dos Centros de Referência:\n\na) Cumprir, pronta e integralmente, os critérios gerais e específicos que estiveram na base do seu reconhecimento;\n\nb) Divulgar pública e periodicamente os resultados da sua atividade;\n\nc) Comunicar à Comissão Nacional para os Centros de Referência qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos ao seu reconhecimento;\n\nd) Iniciar, no prazo de um ano, após o seu reconhecimento, o processo de certificação e acreditação da qualidade e segurança da prestação de cuidados, seguindo o modelo de acreditação indicado pela Direção-Geral da Saúde."
+  },
+  "106390173": {
+   "fragment_id": "106384868",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento do Centro de Referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionamento do Centro de Referência\n\n1 - O funcionamento dos Centros de Referência deve obedecer aos seguintes princípios:\n\na) Elevada qualidade;\n\nb) Acesso referenciado;\n\nc) Custo-efetividade;\n\nd) Atuação centrada nos resultados clínicos;\n\ne) Diminuição do risco clínico e melhoria da segurança dos cuidados;\n\nf) Transparência de procedimentos e de resultados;\n\ng) Atividade assistencial integrada com investigação clínica e formação pós-graduada.\n\n2 - Os Centros de Referência podem abranger uma única patologia ou um conjunto de patologias, bem como técnicas ou procedimentos."
+  },
+  "106390174": {
+   "fragment_id": "106384869",
+   "type": 11,
+   "heading": "Artigo 6.º — Processo de reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Processo de reconhecimento\n\n1 - O processo de reconhecimento dos Centros de Referência obedece às seguintes etapas:\n\na) Elaboração, com periocidade anual, de diagnóstico de situação e das necessidades das áreas de intervenção, patologias, técnicas ou procedimentos de elevada especialização em que devem ser reconhecidos Centros de Referência;\n\nb) Aprovação, pelo membro do Governo responsável pela área da Saúde, das áreas prioritárias, patologias, técnicas ou procedimentos de elevada especialização em que devem ser reconhecidos Centros de Referência;\n\nc) Definição com base na evidência científica, dos critérios específicos a que devem obedecer os serviços, unidades, departamentos ou hospitais que pretendam obter o reconhecimento como Centro de Referência;\n\nd) Processo público, objetivo e transparente de candidatura de serviços, unidades, departamentos ou hospitais à obtenção de reconhecimento como Centro de Referência;\n\ne) Reconhecimento de Centro de Referência.\n\n2 - O processo de candidatura à obtenção de reconhecimento como Centro de Referência é definido no regulamento em anexo à presente Portaria e que dela faz parte integrante."
+  },
+  "106389775": {
+   "fragment_id": "106384870",
+   "type": 11,
+   "heading": "Artigo 7.º — Formalização do reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formalização do reconhecimento\n\n1 - O reconhecimento pelo Ministério da Saúde de um Centro de Referência é formalizado por despacho do membro do Governo responsável pela área da Saúde, publicado em Diário da República e é válido por quatro anos.\n\n2 - Os Centros de Referência estão sujeitos a avaliação periódica, por auditoria externa, do cumprimento dos requisitos gerais e específicos que estiveram na base do seu reconhecimento.\n\n3 - O reconhecimento de um Centro de Referência cessa, através de despacho do membro do Governo responsável pela área da Saúde publicado em Diário da República, se tiver deixado de se verificar algum dos critérios que estiveram na base do reconhecimento."
+  },
+  "106389776": {
+   "fragment_id": "106384871",
+   "type": 11,
+   "heading": "Artigo 8.º — Comissão Nacional para os Centros de Referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comissão Nacional para os Centros de Referência\n\nÉ constituída a Comissão Nacional para os Centros de Referência, adiante designada por Comissão, com os seguintes objetivos:\n\na) Avaliar as necessidades de prestação de cuidados de saúde e identificar as grandes áreas de intervenção em que devem ser reconhecidos Centros de Referência;\n\nb) Apresentar o planeamento nacional de Centros de Referência, por área de intervenção;\n\nc) Propor ao membro do Governo responsável pela área da Saúde a decisão de reconhecimento ou da respetiva cessação do reconhecimento como Centro de Referência;\n\nd) Definir os critérios específicos que os candidatos devem cumprir, a que se refere alínea c) do n.º 1 do artigo 6.º da presente Portaria;\n\ne) Desenhar o modelo de auditoria a efetuar aos serviços, unidades ou hospitais candidatos ao reconhecimento de Centro de Referência;\n\nf) Verificar a conformidade dos critérios gerais e específicos que os candidatos devem cumprir;\n\ng) Efetuar as visitas aos candidatos, que se revelem necessárias no âmbito do processo de avaliação;\n\nh) Verificar os recursos humanos afetos ao candidato e a sua adequabilidade;\n\ni) Verificar a experiência profissional da equipa profissional do candidato, nomeadamente a atividade assistencial mínima, a formação de base, continuada e pós-graduada, as atividades de docência e de investigação;\n\nj) Verificar a difusão e partilha do conhecimento e experiência do candidato, comprovada por publicação de artigos científicos, participação em conferências científicas e articulação com congéneres europeus ou internacionais;\n\nk) Verificar a adequabilidade das infraestruturas e equipamentos do candidato, assim como a forma de registo clínico e sistemas de informação utilizados;\n\nl) Analisar protocolos e programas específicos de atuação do candidato, assim como os indicadores de resultados da intervenção clínica."
+  },
+  "106389777": {
+   "fragment_id": "106384872",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição da Comissão Nacional para os Centros de Referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição da Comissão Nacional para os Centros de Referência\n\n1 - A Comissão Nacional para os Centros de Referência é composta por:\n\na) Um médico, de reconhecido mérito, que preside, tem voto de qualidade e representa a Comissão;\n\nb) Três médicos de reconhecido mérito, um dos quais é o vice-presidente;\n\nc) Uma personalidade de reconhecido mérito nas áreas do direito, da gestão, da administração ou da economia da saúde;\n\nd) Uma personalidade de reconhecido mérito nas áreas das ciências da vida, designadamente na área da investigação;\n\ne) O representante no Comité dos Cuidados de Saúde Transfronteiriços, da Comissão Europeia, para área das Redes Europeias de Referência;\n\nf) Um representante da Direção-Geral da Saúde;\n\ng) Um representante da Administração Central do Sistema de Saúde, I.P.;\n\nh) Um representante do Ministério responsável pela área da ciência;\n\ni) Um representante da Ordem dos Médicos.\n\n2 - Os membros da Comissão são designados por despacho do membro do Governo responsável pela área da saúde, por um período de cinco anos, renovável, podendo cessar funções a todo o tempo."
+  },
+  "106389778": {
+   "fragment_id": "106384873",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento da Comissão Nacional para os Centros de Referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funcionamento da Comissão Nacional para os Centros de Referência\n\n1 - A Comissão funciona em reuniões plenárias por convocação e sob direção do seu presidente ou, nos impedimentos deste, do seu vice-presidente.\n\n2 - A Comissão pode organizar-se em subcomissões:\n\n3 - A Comissão delibera por maioria qualificada dos votos.\n\n4 - A Comissão elabora e aprova o respetivo regulamento interno de funcionamento.\n\n5 - Das reuniões da Comissão são lavradas atas.\n\n6 - A Comissão elabora e submete anualmente ao membro do Governo responsável pela área da Saúde um relatório sobre as áreas prioritárias para criação de Centros de Referência.\n\n7 - O exercício de funções na Comissão não é remunerado.\n\n8 - A Comissão funciona junto da Administração Central do Sistema de Saúde, I.P.\n\n9 - A Comissão tem o apoio técnico e científico da Ordem dos Médicos, da Direção-Geral da Saúde e da Administração Central do Sistema de Saúde, I.P.\n\n10 - A Direção-Geral da Saúde e a Administração Central do Sistema de Saúde, I.P. podem, nos termos da lei, recorrer, a pedido da Comissão, a peritos, nacionais ou estrangeiros, em função da sua experiência profissional e científica, por áreas temáticas de patologias, técnicas, procedimentos ou tecnologias, que sejam necessários."
+  },
+  "106389779": {
+   "fragment_id": "106384874",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios gerais de reconhecimento dos Centros de Referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios gerais de reconhecimento dos Centros de Referência\n\n1 - Para efeitos de reconhecimento os Centros de Referência devem garantir o cumprimento dos seguintes critérios gerais:\n\na) A disponibilidade da totalidade de cuidados para a área, patologia, técnica ou procedimento, assim como da especialização clínica, tecnológica e científica em que é referência;\n\nb) O acesso fácil a outros recursos, unidades e serviços específicos, necessários para a prestação de cuidados aos doentes, quer próprios quer mediante a celebração de acordos com outros serviços ou estruturas que garantam a complementaridade e continuidade de cuidados;\n\nc) A utilização de informação padronizada e de sistemas de codificação reconhecidos a nível nacional, europeu ou internacional;\n\nd) A transparência na informação de resultados, opções de tratamento e padrões da qualidade e de segurança em vigor no Centro de Referência;\n\ne) O cumprimento da legislação e normativos nacionais em vigor, nomeadamente em matéria de consentimento informado e esclarecido, garantia de privacidade, sistemas de reclamação, acessibilidade a registos médicos e informação clínica e proteção de dados pessoais dos doentes;\n\nf) A garantia do consentimento informado dos doentes;\n\ng) A existência de um sistema de avaliação da satisfação dos doentes;\n\nh) A existência de um sistema de medição e divulgação da experiência dos doentes;\n\ni) A publicitação dos preços praticados pelo Centro de Referência.\n\n2 - Para efeitos de reconhecimento, os Centros de Referência devem possuir:\n\na) Capacidade para a prestação de cuidados médicos essenciais em caso de inesperada falha de recursos ou garantia de referenciação a recursos alternativos;\n\nb) Sistemas que permitam a partilha de conhecimento e experiência a nível nacional, europeu ou internacional, através de ferramentas de comunicação e eletrónicas no âmbito da telemedicina e da e-saúde;\n\nc) Capacidade de comunicação transfronteiriça após a alta do doente;\n\nd) Capacidade de ensino e formação, incluindo à distância, aos níveis especializado e académico, na sua área de conhecimento e experiência;\n\ne) Capacidade de investigação na sua área de conhecimento e experiência, incluindo investigação colaborativa e participação em redes de investigação europeias ou internacionais;\n\nf) Capacidade para a montagem e manutenção de bases de dados e bancos de material biológico nas áreas da sua intervenção, que serão disponibilizados, seguindo as mais estritas normas de boas práticas nacionais e internacionais, aos médicos-investigadores, nacionais ou estrangeiros, interessados;\n\ng) Indicadores de qualidade, estrutura, processo e de resultados;\n\nh) Capacidade de comparação de resultados da qualidade e segurança, bem como de divulgação de melhores práticas a nível nacional, europeu ou internacional;\n\ni) Plano de continuidade das atividades que garanta a sustentabilidade, nomeadamente em termos de recursos humanos e de atualização tecnológica, com horizonte temporal de cinco anos.\n\n3 - Para efeitos de reconhecimento, os Centros de Referência devem demonstrar:\n\na) O desenvolvimento de atividade multidisciplinar;\n\nb) A sua competência, experiência e atividade;\n\nc) A casuística de acordo com padrões internacionais;\n\nd) A obtenção de bons resultados clínicos, de acordo com a evidência científica disponível;\n\ne) O tipo, número, qualificações e competências dos recursos humanos;\n\nf) A caracterização dos equipamentos específicos, incluindo os de e-saúde, de modo a demonstrar que tem capacidade para processar, gerir e trocar informação em imagem com outros prestadores de cuidados;\n\ng) A capacidade para garantir o acesso rápido a equipamento específico dentro ou fora do Centro de Referência;\n\nh) A capacidade para colaborar com outros Centros de Referência, quer a nível nacional, europeu ou internacional;\n\ni) A disponibilidade para supervisionar tecnicamente outros serviços ou unidades nacionais em áreas específicas de colaboração;\n\nj) A evidência de regras e práticas de organização e de gestão, explícitas e transparentes, que incluam procedimentos relacionados com a gestão dos doentes transfronteiriços na sua área de conhecimento e experiência."
+  },
+  "106389780": {
+   "fragment_id": "106389875",
+   "type": 11,
+   "heading": "Artigo 12.º — Centro Afiliado do Centro de Referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Centro Afiliado do Centro de Referência\n\n1 - Ao Centro de Referência podem ficar associados, em qualquer altura, outros serviços ou unidades de proximidade, denominados Centros Afiliados, que não cumprem todas as condições e critérios para serem reconhecidos como Centros de Referência.\n\n2 - O Centro Afiliado de um Centro de Referência está sujeito à supervisão técnica, na área específica de colaboração, pelo Centro de Referência ao qual está associado.\n\n3 - A associação referida no número anterior e a aceitação recíproca da supervisão técnica pelo Centro de Referência são formalizadas através de acordo de colaboração.\n\n4 - O Centro Afiliado do Centro de Referência é detentor de conhecimento e experiência numa determinada área específica e parcelar do Centro de Referência.\n\n5 - O Centro Afiliado do Centro de Referência desenvolve atividade de prestação de cuidados de saúde, de formação ou de investigação, de forma complementar à do Centro de Referência a que se encontra afiliado.\n\n6 - O acordo de colaboração referido no n.º 3 deve especificar a atividade complementar de prestação de cuidados de saúde, de formação ou de investigação desenvolvidas pelo Centro Afiliado do Centro de Referência, no âmbito da colaboração acordada com o Centro de Referência ao qual se pretende associar e ser notificado à Comissão Nacional para os Centros de Referência.\n\n7 - Um Centro Afiliado pode ainda ser uma Unidade de Investigação, creditada pela Fundação para a Ciência e Tecnologia/Ministério de Educação e Ciência, que apoia o Centro de Referência na elaboração e condução da investigação científica devida ao Centro de Referência."
+  },
+  "106389781": {
+   "fragment_id": "106389876",
+   "type": 11,
+   "heading": "Artigo 13.º — Modelo de Referenciação Hospitalar do Serviço Nacional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Modelo de Referenciação Hospitalar do Serviço Nacional de Saúde\n\n1 - A integração dos Centros de Referência do Serviço Nacional de Saúde ou que com este acordem a prestação de cuidados de saúde nas Redes Nacionais de Especialidades Hospitalares e de Referenciação assenta num novo modelo colaborativo entre especialidades médicas, que cruza duas realidades que passam a existir:\n\na) Serviços hospitalares organizados em redes de referenciação;\n\nb) Centros de Referência constituídos como centros altamente especializados de várias redes de referenciação hospitalar com Centros Afiliados.\n\n2 - O reconhecimento de Centros de Referência determina:\n\na) A elaboração de planos estratégicos pela Administração Central do Sistema de Saúde, I.P., que garantam a correta articulação entre serviços e o fluxo organizado de doentes;\n\nb) A reformulação imediata das Redes Nacionais de Especialidades Hospitalares e de Referenciação abrangidas pela área de intervenção, patologia, técnica ou procedimento considerados, de acordo com os planos referidos na alínea a)."
+  },
+  "106389782": {
+   "fragment_id": "106389877",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma transitória\n\nOs centros de elevada diferenciação, centros de excelência, centros de tratamento ou outros análogos atualmente existentes, cessarão progressivamente tal qualificação à medida que for ocorrendo o reconhecimento de Centros de Referência na respetiva área de intervenção."
+  },
+  "106389784": {
+   "fragment_id": "106389879",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO PROCESSO DE CANDIDATURA AO RECONHECIMENTO DE CENTROS DE REFERÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO PROCESSO DE CANDIDATURA AO RECONHECIMENTO DE CENTROS DE REFERÊNCIA"
+  },
+  "106389785": {
+   "fragment_id": "106389880",
+   "type": 11,
+   "heading": "Artigo 1.º — Candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Candidatos\n\nPodem apresentar candidatura à obtenção de reconhecimento pelo Ministério da Saúde de Centro de Referência as entidades prestadoras de cuidados de saúde, onde se inserem os serviços, unidades ou departamentos que reúnam os critérios gerais e específicos constantes do aviso de abertura do processo de candidatura."
+  },
+  "106389786": {
+   "fragment_id": "106389881",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição das áreas de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição das áreas de intervenção\n\nAs áreas de intervenção prioritárias em que devem ser reconhecidos Centros de Referência são definidas anualmente por despacho do membro do Governo responsável pela área da Saúde, sob proposta da Comissão Nacional para os Centros de Referência, até ao dia 31 dezembro do ano anterior ao que se refere."
+  },
+  "106389787": {
+   "fragment_id": "106389882",
+   "type": 11,
+   "heading": "Artigo 3.º — Abertura de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Abertura de candidaturas\n\n1 - A abertura de candidaturas para o reconhecimento de Centro de Referência é precedido de uma proposta para as áreas de intervenção, patologias, técnicas e/ou procedimentos em que devem ser constituídos os Centros de Referência, definindo os ratios de implementação nacional, de acordo com princípios transparentes centrados, entre outros, em análises de incidência populacional, acessibilidades, equilíbrio entre oferta e procura, epidemiologia e serviços disponíveis.\n\n2 - A proposta a que se refere o número anterior é apresentada ao membro do Governo responsável pela área da Saúde pelo presidente da Comissão Nacional para os Centros de Referência.\n\n3 - O processo de reconhecimento pelo Ministério da Saúde de um Centro de Referência é iniciado com a publicação, pela Direção-Geral da Saúde, de aviso para apresentação de candidaturas, que fixa os critérios específicos aplicáveis.\n\n4 - O aviso de abertura do processo de candidatura é publicitado, pela Direção-Geral da Saúde, em Diário da República e no seu sítio eletrónico.\n\n5 - O aviso de abertura fixa as condições e os termos em que podem ser apresentadas as candidaturas.\n\n6 - O processo de candidatura é instruído com documentação que demonstre a evidência do cumprimento dos critérios gerais e específicos aplicáveis, bem como dos normativos legais aplicáveis à atividade de prestação de cuidados de saúde."
+  },
+  "106389788": {
+   "fragment_id": "106389883",
+   "type": 11,
+   "heading": "Artigo 4.º — Avaliação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação das candidaturas\n\n1 - A avaliação das candidaturas compete à Comissão Nacional para os Centros de Referência.\n\n2 - A Comissão Nacional para os Centros de Referência avalia as candidaturas de acordo com os critérios constantes do aviso de abertura do processo de candidatura.\n\n3 - Sempre que considere necessário, a Comissão Nacional para os Centros de Referência pode solicitar documentos e esclarecimentos adicionais às entidades candidatas.\n\n4 - A Comissão Nacional para os Centros de Referência elabora um Relatório de avaliação de cada candidatura, que é notificado à administração da instituição candidata, aplicando-se o disposto no Código do Procedimento Administrativo em matéria de audiência dos interessados.\n\n5 - A Comissão Nacional para os Centros de Referência elabora um Relatório final sobre as candidaturas para efeitos do artigo 8.º alínea c) da presente portaria."
+  },
+  "106389789": {
+   "fragment_id": "106389884",
+   "type": 11,
+   "heading": "Artigo 5.º — Avaliação periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação periódica\n\n1 - A avaliação periódica, por auditoria externa, do cumprimento dos requisitos gerais e específicos que estiveram na base do reconhecimento dos Centros de Referência cabe à Comissão Nacional para os Centros de Referência, sem prejuízo do apoio de outras instituições do Ministério da Saúde.\n\n2 - A Comissão Nacional para os Centros de Referência elabora um relatório anual das atividades de avaliação periódica previstas no número anterior."
+  },
+  "106389802": {
+   "fragment_id": "106384867",
+   "type": 11,
+   "heading": "Artigo 4.º — Deveres e obrigações do Centro de Referência",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+   ],
+   "markdown": "###### Artigo 4.º — Deveres e obrigações do Centro de Referência\n\n1 - Os Centros de Referência devem:\n\na) Integrar, na sua constituição, equipas multidisciplinares experientes e altamente qualificadas na sua área de atuação;\n\nb) Possuir estruturas e equipamentos altamente especializados, que devem estar preferencialmente concentrados;\n\nc) Garantir que os serviços e cuidados são prestados de acordo com os mais elevados padrões da qualidade, em conformidade com a evidência clínica disponível e com as normas clínicas nacionais em vigor;\n\nd) Possuir competências nas áreas de ensino, formação, investigação, constituindo-se como agente da inovação, nomeadamente na transferência ao tecido produtivo dos resultados da sua investigação;\n\ne) Promover os mecanismos necessários para uma articulação eficiente com outras unidades de saúde e outros Centros de Referência.\n\n2 - Constituem obrigações dos Centros de Referência:\n\na) Cumprir, pronta e integralmente, os critérios gerais e específicos que estiveram na base do seu reconhecimento;\n\nb) Divulgar pública e periodicamente os resultados da sua atividade;\n\nc) Comunicar à Comissão Nacional para os Centros de Referência qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos ao seu reconhecimento;\n\nd) Iniciar, no prazo de um ano, após o seu reconhecimento, o processo de certificação e acreditação da qualidade e segurança da prestação de cuidados, seguindo o modelo de acreditação indicado pela Direção-Geral da Saúde.\n\ne) Notificar a Comissão Nacional para os Centros de Referência quando da sua candidatura à integração em Redes Europeias de Referência.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+  },
+  "106389803": {
+   "fragment_id": "106389875",
+   "type": 11,
+   "heading": "Artigo 12.º — Centro Afiliado do Centro de Referência",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+   ],
+   "markdown": "###### Artigo 12.º — Centro Afiliado do Centro de Referência\n\n1 - Ao Centro de Referência podem ficar associados, em qualquer altura, outros serviços ou unidades de proximidade, denominados Centros Afiliados, que não cumprem todas as condições e critérios para serem reconhecidos como Centros de Referência.\n\n2 - O Centro Afiliado de um Centro de Referência está sujeito à supervisão técnica, na área específica de colaboração, pelo Centro de Referência ao qual está associado.\n\n3 - A associação referida no número anterior e a aceitação recíproca da supervisão técnica pelo Centro de Referência são formalizadas através de acordo de colaboração.\n\n4 - O Centro Afiliado do Centro de Referência é detentor de conhecimento e experiência numa determinada área específica e parcelar do Centro de Referência.\n\n5 - O Centro Afiliado do Centro de Referência desenvolve atividade de prestação de cuidados de saúde, de formação ou de investigação, de forma complementar à do Centro de Referência a que se encontra afiliado.\n\n6 - O acordo de colaboração referido no n.º 3 deve especificar a atividade complementar de prestação de cuidados de saúde, de formação ou de investigação desenvolvidas pelo Centro Afiliado do Centro de Referência, no âmbito da colaboração acordada com o Centro de Referência ao qual se pretende associar e ser notificado à Comissão Nacional para os Centros de Referência.\n\n7 - Um Centro Afiliado pode ainda ser uma Unidade de Investigação, creditada pela Fundação para a Ciência e Tecnologia/Ministério de Educação e Ciência, que apoia o Centro de Referência na elaboração e condução da investigação científica devida ao Centro de Referência.\n\n8 - As condições e critérios a que devem obedecer os Centros Afiliados de um Centro de Referência são definidos pela Comissão Nacional para os Centros de Referência e publicitados no sítio eletrónico da Direção-Geral da Saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+  },
+  "106389783": {
+   "fragment_id": "106389878",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 26 de setembro de 2014."
+  },
+  "106389805": {
+   "fragment_id": "106389899",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Candidaturas posteriores à conclusão do processo de candidatura inicial",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+   ],
+   "markdown": "###### Artigo 4.º-A — Candidaturas posteriores à conclusão do processo de candidatura inicial\n\n1 - A Comissão Nacional para os Centros de Referência pode avaliar, nos termos do artigo anterior, as candidaturas de entidades prestadoras de cuidados de saúde a Centros de Referência, onde se insere o serviço, unidade ou departamento, que venha a reunir os critérios gerais e específicos fixados, posteriormente à conclusão do processo de candidatura aberto nos termos do artigo 3.º do presente Regulamento.\n\n2 - Para efeitos do disposto no número anterior, as entidades prestadoras de cuidados de saúde que pretendam apresentar as respetivas candidaturas devem, durante o mês de janeiro de cada ano, remeter à Comissão Nacional para os Centros de Referência a documentação que demonstre evidência do cumprimento dos critérios gerais e específicos previamente estabelecidos no aviso de abertura da candidatura inicial.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+  },
+  "106389806": {
+   "fragment_id": "106389884",
+   "type": 11,
+   "heading": "Artigo 5.º — Avaliação periódica",
+   "in_force_from": "2016-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+   ],
+   "markdown": "###### Artigo 5.º — Avaliação periódica\n\n1 - A avaliação periódica, por auditoria externa, do cumprimento dos requisitos gerais e específicos que estiveram na base do reconhecimento dos Centros de Referência, é efetuada pela Direção-Geral da Saúde com a colaboração da Administração Central do Sistema de Saúde, I. P., sob a coordenação da Comissão Nacional para os Centros de Referência, devendo as instituições e serviços integrados no Ministério da Saúde ou sob sua tutela colaborar com estas instituições para a realização das referidas auditorias.\n\n2 - A Direção-Geral da Saúde elabora e submete à Comissão Nacional para os Centros de Referência um relatório anual das auditorias realizadas nos termos do número anterior, para apreciação e aprovação por parte dessa Comissão.\n\n3 - A Comissão Nacional para os Centros de Referência apresenta ao membro do Governo responsável pela área da saúde, com base na apreciação do relatório referido no número anterior e nas situações em que se justifique, proposta fundamentada de cessação do reconhecimento de um Centro de Referência, para efeitos do disposto no n.º 3 do artigo 7.º da Portaria n.º 194/2014, de 30 de setembro.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+  },
+  "106389807": {
+   "fragment_id": "106389899",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Candidaturas posteriores à conclusão do processo de candidatura inicial",
+   "in_force_from": "2017-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/52-2017-106388652), em vigor a partir de 2017-02-03",
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+   ],
+   "markdown": "###### Artigo 4.º-A — Candidaturas posteriores à conclusão do processo de candidatura inicial\n\n1 - A Comissão Nacional para os Centros de Referência pode avaliar, nos termos do artigo anterior, as candidaturas de entidades prestadoras de cuidados de saúde a Centros de Referência, onde se insere o serviço, unidade ou departamento, que venha a reunir os critérios gerais e específicos fixados, posteriormente à conclusão do processo de candidatura aberto nos termos do artigo 3.º do presente Regulamento, decorridos três anos a contar da data-limite para apresentação da candidatura inicial, constante do respetivo aviso de abertura.\n\n2 - Para efeitos do disposto no número anterior, as entidades prestadoras de cuidados de saúde que pretendam apresentar as respetivas candidaturas devem, decorrido o prazo referido no número anterior, remeter à Comissão Nacional para os Centros de Referência a documentação que demonstre evidência do cumprimento dos critérios gerais e específicos previamente estabelecidos no aviso de abertura da candidatura inicial.\n\n3 - Sem prejuízo do disposto no número anterior, nas áreas em que existam critérios gerais e ou específicos definidos e publicados posteriormente aos constantes do aviso de abertura da candidatura inicial, devem os mesmos ser considerados por parte das entidades prestadoras de cuidados de saúde, na respetiva candidatura, para efeitos de demonstração de evidência do seu cumprimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 52/2017 - Diário da República n.º 24/2017, Série I de 2017-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/52-2017-106388652), em vigor a partir de 2017-02-03\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+  },
+  "1142587975": {
+   "fragment_id": "106384864",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o conceito, o processo de identificação, aprovação e reconhecimento dos Centros de Referência Nacionais para a prestação de cuidados de saúde, designadamente para diagnóstico e tratamento de doenças raras e complexas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+  },
+  "1142588175": {
+   "fragment_id": "106384867",
+   "type": 11,
+   "heading": "Artigo 4.º — Deveres e obrigações do Centro de Referência",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+   ],
+   "markdown": "###### Artigo 4.º — Deveres e obrigações do Centro de Referência\n\n1 - Os Centros de Referência devem:\n\na) Integrar, na sua constituição, equipas multidisciplinares experientes e altamente qualificadas na sua área de atuação;\n\nb) Possuir estruturas e equipamentos altamente especializados, que devem estar preferencialmente concentrados;\n\nc) Garantir que os serviços e cuidados são prestados de acordo com os mais elevados padrões da qualidade, em conformidade com a evidência clínica disponível e com as normas clínicas nacionais em vigor;\n\nd) Possuir competências nas áreas de ensino, formação, investigação, constituindo-se como agente da inovação, nomeadamente na transferência ao tecido produtivo dos resultados da sua investigação;\n\ne) Promover os mecanismos necessários para uma articulação eficiente com outras unidades de saúde e outros Centros de Referência.\n\n2 - Constituem obrigações dos Centros de Referência:\n\na) Cumprir, pronta e integralmente, os critérios gerais e específicos que estiveram na base do seu reconhecimento;\n\nb) Elaborar anualmente os resultados da sua atividade, através de um relatório de atividades submetido à Comissão Nacional para os Centros de Referência, os quais, após aprovação, devem ser publicados no sítio eletrónico do portal do Serviço Nacional de Saúde, na área dedicada aos Centros de Referência;\n\nc) Comunicar à Comissão Nacional para os Centros de Referência qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos ao seu reconhecimento;\n\nd) Iniciar, no prazo de um ano, após o seu reconhecimento, o processo de certificação e acreditação da qualidade e segurança da prestação de cuidados, seguindo o modelo de acreditação indicado pela Direção-Geral da Saúde e informar a Comissão Nacional para os Centros de Referência dos relatórios finais do processo de certificação e acreditação da qualidade e segurança;\n\ne) Notificar a Comissão Nacional para os Centros de Referência aquando da sua candidatura à integração em Redes Europeias de Referência, bem como do respetivo resultado.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+  },
+  "1142588375": {
+   "fragment_id": "106384869",
+   "type": 11,
+   "heading": "Artigo 6.º — Processo de reconhecimento",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+   ],
+   "markdown": "###### Artigo 6.º — Processo de reconhecimento\n\n1 - O processo de reconhecimento dos Centros de Referência obedece às seguintes etapas:\n\na) Elaboração, com periodicidade definida pela Comissão Nacional para os Centros de Referência em articulação com o membro do Governo responsável pela área da saúde, de diagnóstico de situação e das necessidades das áreas de intervenção, patologias, técnicas ou procedimentos de elevada especialização em que devem ser reconhecidos Centros de Referência;\n\nb) Aprovação, pelo membro do Governo responsável pela área da Saúde, das áreas prioritárias, patologias, técnicas ou procedimentos de elevada especialização em que devem ser reconhecidos Centros de Referência;\n\nc) Definição com base na evidência científica, dos critérios específicos a que devem obedecer os serviços, unidades, departamentos ou hospitais que pretendam obter o reconhecimento como Centro de Referência;\n\nd) Processo público, objetivo e transparente de candidatura de serviços, unidades, departamentos ou hospitais à obtenção de reconhecimento como Centro de Referência;\n\ne) Reconhecimento de Centro de Referência.\n\n2 - O processo de candidatura à obtenção de reconhecimento como Centro de Referência é definido no regulamento em anexo à presente Portaria e que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+  },
+  "1142590575": {
+   "fragment_id": "106384870",
+   "type": 11,
+   "heading": "Artigo 7.º — Formalização do reconhecimento",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+   ],
+   "markdown": "###### Artigo 7.º — Formalização do reconhecimento\n\n1 - O reconhecimento pelo Ministério da Saúde de um Centro de Referência é formalizado por despacho do membro do Governo responsável pela área da Saúde, publicado em Diário da República e é válido por quatro anos.\n\n2 - Os Centros de Referência estão sujeitos a avaliação, em modelo e periodicidade definida, não superior a três anos, pela Comissão Nacional para os Centros de Referência, do cumprimento dos requisitos gerais e específicos que estiveram na base do seu reconhecimento.\n\n3 - É concedido um prazo de 30 dias para o exercício do direito ao contraditório relativamente à avaliação realizada pela Comissão Nacional para os Centros de Referência, por parte do conselho de administração da unidade na qual o Centro de Referência se encontra integrado.\n\n4 - O reconhecimento de um Centro de Referência cessa, através de despacho do membro do Governo responsável pela área da saúde, publicado no Diário da República, tendo por base os resultados da avaliação, nos termos dos números anteriores, realizada pela Comissão Nacional para os Centros de Referência.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+  },
+  "1142590775": {
+   "fragment_id": "106384871",
+   "type": 11,
+   "heading": "Artigo 8.º — Comissão Nacional para os Centros de Referência",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+   ],
+   "markdown": "###### Artigo 8.º — Comissão Nacional para os Centros de Referência\n\nÉ constituída a Comissão Nacional para os Centros de Referência, adiante designada por Comissão, com os seguintes objetivos:\n\na) Avaliar as necessidades de prestação de cuidados de saúde e identificar as grandes áreas de intervenção em que devem ser reconhecidos Centros de Referência, em colaboração com a entidade responsável pela gestão da rede de cuidados de saúde;\n\nb) Apresentar o planeamento nacional de Centros de Referência, por área de intervenção;\n\nc) Propor ao membro do Governo responsável pela área da Saúde a decisão de reconhecimento ou da respetiva cessação do reconhecimento como Centro de Referência;\n\nd) Definir os critérios específicos que os candidatos devem cumprir, a que se refere alínea c) do n.º 1 do artigo 6.º da presente Portaria;\n\ne) Desenhar o modelo de avaliação a efetuar aos serviços, unidades ou hospitais candidatos ao reconhecimento de Centro de Referência;\n\nf) Verificar a conformidade dos critérios gerais e específicos que os candidatos devem cumprir;\n\ng) Efetuar as visitas aos candidatos, que se revelem necessárias no âmbito do processo de avaliação;\n\nh) Verificar os recursos humanos afetos ao candidato e a sua adequabilidade;\n\ni) Verificar a experiência profissional da equipa profissional do candidato, nomeadamente a atividade assistencial mínima, a formação de base, continuada e pós-graduada, as atividades de docência e de investigação;\n\nj) Verificar a difusão e partilha do conhecimento e experiência do candidato, comprovada por publicação de artigos científicos, participação em conferências científicas e articulação com congéneres europeus ou internacionais;\n\nk) Verificar a adequabilidade das infraestruturas e equipamentos do candidato, assim como a forma de registo clínico e sistemas de informação utilizados;\n\nl) Analisar protocolos e programas específicos de atuação do candidato, assim como os indicadores de resultados da intervenção clínica;\n\nm) Analisar e avaliar a atividade e qualidade dos Centros de Referência, incluindo os relatórios de atividade produzidos anualmente pelos Centros, a que se refere a alínea b) do n.º 2 do artigo 4.º da presente portaria, e os resultados dos processos de certificação, acreditação e integração em Redes Europeias - facultados à Comissão pelos Centros de Referência - a que se referem as alíneas d) e e) do n.º 2 do artigo 4.º da presente portaria;\n\nn) Recomendar ao membro do Governo responsável pela área da saúde iniciativas que garantam as condições de funcionamento dos Centros de Referência no contexto do Serviço Nacional de Saúde, incluindo ao nível do modelo organizacional, modelo de financiamento e estruturas de suporte, bem como recomendações aos Centros existentes no setor privado ou social.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+  },
+  "1142590975": {
+   "fragment_id": "106384872",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição da Comissão Nacional para os Centros de Referência",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+   ],
+   "markdown": "###### Artigo 9.º — Composição da Comissão Nacional para os Centros de Referência\n\n1 - A Comissão Nacional para os Centros de Referência é composta por:\n\na) Um médico, de reconhecido mérito, que preside, tem voto de qualidade e representa a Comissão;\n\nb) Três médicos de reconhecido mérito, um dos quais é o vice-presidente;\n\nc) Uma personalidade de reconhecido mérito nas áreas do direito, da gestão, da administração ou da economia da saúde;\n\nd) Uma personalidade de reconhecido mérito nas áreas das ciências da vida, designadamente na área da investigação;\n\ne) O representante no Comité dos Cuidados de Saúde Transfronteiriços, da Comissão Europeia, para área das Redes Europeias de Referência;\n\nf) Um representante da Direção-Geral da Saúde;\n\ng) Um representante da Administração Central do Sistema de Saúde, I.P.;\n\nh) [Revogada.]\n\ni) Um representante da Ordem dos Médicos;\n\nj) Um representante das Escolas Médicas;\n\nk) Um representante da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.).\n\n2 - Os membros da Comissão são designados por despacho do membro do Governo responsável pela área da saúde, por um período de cinco anos, renovável, podendo cessar funções a todo o tempo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+  },
+  "1142591175": {
+   "fragment_id": "106384873",
+   "type": 11,
+   "heading": "Artigo 10.º — Funcionamento da Comissão Nacional para os Centros de Referência",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+   ],
+   "markdown": "###### Artigo 10.º — Funcionamento da Comissão Nacional para os Centros de Referência\n\n1 - A Comissão funciona em reuniões plenárias por convocação e sob direção do seu presidente ou, nos impedimentos deste, do seu vice-presidente.\n\n2 - A Comissão pode organizar-se em subcomissões:\n\n3 - A Comissão delibera por maioria qualificada dos votos.\n\n4 - A Comissão elabora e aprova o respetivo regulamento interno de funcionamento.\n\n5 - Das reuniões da Comissão são lavradas atas.\n\n6 - A Comissão elabora e submete anualmente, ao membro do Governo responsável pela área da saúde, um relatório sobre a atividade realizada no ano anterior pela Comissão Nacional para os Centros de Referência.\n\n7 - O exercício de funções na Comissão não é remunerado, sem prejuízo das ajudas de custo e despesas de transporte que sejam devidas nos termos da legislação em vigor.\n\n8 - A Comissão funciona junto da DE-SNS, I. P., por quem correm as despesas associadas ao seu funcionamento e que presta o apoio administrativo e jurídico para preparação das suas reuniões, sistematização das suas atividades e articulação com os Centros de Referência.\n\n9 - A Comissão tem o apoio técnico e científico da DE-SNS, I. P., da Ordem dos Médicos, da Direção-Geral da Saúde e da Administração Central do Sistema de Saúde, I. P., ou de outras entidades consideradas relevantes, na esfera de instituições públicas, sempre que necessário.\n\n10 - A DE-SNS, I. P., a Direção-Geral da Saúde e a Administração Central do Sistema de Saúde, I. P., podem, nos termos da lei, recorrer, a pedido da Comissão, a peritos, nacionais ou estrangeiros, em função da sua experiência profissional e científica, por áreas temáticas de patologias, técnicas, procedimentos ou tecnologias, que sejam necessários.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+  },
+  "1142591375": {
+   "fragment_id": "106389875",
+   "type": 11,
+   "heading": "Artigo 12.º — Centro Afiliado do Centro de Referência",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+   ],
+   "markdown": "###### Artigo 12.º — Centro Afiliado do Centro de Referência\n\n1 - Ao Centro de Referência podem ser associados, em qualquer altura, outros serviços ou unidades de proximidade, denominados Centros Afiliados, caracterizados por só cumprirem algumas das áreas de atuação necessárias ao funcionamento como Centros de Referência dos quais ficarão afiliados.\n\n2 - O Centro Afiliado de um Centro de Referência está sujeito à supervisão técnica, na área específica de colaboração, pelo Centro de Referência ao qual está associado.\n\n3 - A associação referida no número anterior e a aceitação recíproca da supervisão técnica pelo Centro de Referência são formalizadas através de acordo de colaboração.\n\n4 - O Centro Afiliado do Centro de Referência é detentor de conhecimento e experiência numa determinada área específica e parcelar do Centro de Referência.\n\n5 - O Centro Afiliado do Centro de Referência desenvolve atividade de prestação de cuidados de saúde, de formação ou de investigação, de forma complementar à do Centro de Referência a que se encontra afiliado.\n\n6 - O acordo de colaboração referido no n.º 3 deve especificar a atividade complementar de prestação de cuidados de saúde, de formação ou de investigação desenvolvidas pelo Centro Afiliado do Centro de Referência, no âmbito da colaboração acordada com o Centro de Referência ao qual se pretende associar e ser notificado à Comissão Nacional para os Centros de Referência.\n\n7 - Um Centro Afiliado pode ainda ser uma Unidade de Investigação, acreditada pela Agência para a Investigação e Inovação, E. P. E./Ministério de Educação e Ciência, que apoia o Centro de Referência na elaboração e condução da investigação científica devida ao Centro de Referência.\n\n8 - As condições e critérios a que devem obedecer os Centros Afiliados de um Centro de Referência são definidos pela Comissão Nacional para os Centros de Referência e publicitados no sítio eletrónico do portal do Serviço Nacional de Saúde, na área dedicada aos Centros de Referência, que avalia e aprova a criação de Centros Afiliados.\n\n9 - Os Centros Afiliados são sujeitos a um processo de certificação semelhante ao utilizado para a avaliação que se aplica aos Centros de Referência, devidamente adaptado às áreas de afiliação a que se candidatam.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+  },
+  "1142591575": {
+   "fragment_id": "106389876",
+   "type": 11,
+   "heading": "Artigo 13.º — Modelo de Referenciação Hospitalar do Serviço Nacional de Saúde",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+   ],
+   "markdown": "###### Artigo 13.º — Modelo de Referenciação Hospitalar do Serviço Nacional de Saúde\n\n1 - A integração dos Centros de Referência do Serviço Nacional de Saúde ou que com este acordem a prestação de cuidados de saúde nas Redes Nacionais de Especialidades Hospitalares e de Referenciação assenta num novo modelo colaborativo entre especialidades médicas, que cruza duas realidades que passam a existir:\n\na) Serviços hospitalares organizados em redes de referenciação;\n\nb) Centros de Referência constituídos como centros altamente especializados de várias redes de referenciação hospitalar com Centros Afiliados.\n\n2 - O reconhecimento ou a cessação do reconhecimento de Centros de Referência determina:\n\na) A elaboração de planos estratégicos pela Administração Central do Sistema de Saúde, I. P., e pela DE-SNS, I. P., que garantam a correta articulação entre serviços e o fluxo organizado de doentes;\n\nb) A reformulação imediata das Redes Nacionais de Especialidades Hospitalares e de Referenciação abrangidas pela área de intervenção, patologia, técnica ou procedimento considerados, de acordo com os planos referidos na alínea a).\n\n3 - A Administração Central do Sistema de Saúde, I. P., em articulação com a DE-SNS, I. P., implementa iniciativas com vista a garantir que a atividade abrangida pela área de intervenção, patologia, técnica ou procedimentos considerados é realizada exclusivamente nos Centros de Referência, de acordo com as Redes Nacionais de Especialidades Hospitalares e de Referenciação definidas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+  },
+  "1142589375": {
+   "fragment_id": "1142589275",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Modelo de financiamento e governança dos Centros de Referência",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+   ],
+   "markdown": "###### Artigo 13.º-A — Modelo de financiamento e governança dos Centros de Referência\n\nNo prazo máximo de 180 dias, por despacho do membro do Governo responsável pela área da saúde, é definido um modelo de governação dos Centros de Referência, designadamente quanto ao modelo organizativo no SNS e no âmbito das Redes de Referenciação, bem como o respetivo modelo de financiamento aplicável à sua atividade.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+  },
+  "1142589575": {
+   "fragment_id": "106389877",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma transitória\n\nOs centros de elevada diferenciação, centros de excelência, centros de tratamento ou outros análogos atualmente existentes, cessarão progressivamente tal qualificação à medida que for ocorrendo o reconhecimento de Centros de Referência na respetiva área de intervenção."
+  },
+  "1142589675": {
+   "fragment_id": "106389878",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 26 de setembro de 2014."
+  },
+  "1142589775": {
+   "fragment_id": "106389879",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO PROCESSO DE CANDIDATURA AO RECONHECIMENTO DE CENTROS DE REFERÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO PROCESSO DE CANDIDATURA AO RECONHECIMENTO DE CENTROS DE REFERÊNCIA"
+  },
+  "1142591975": {
+   "fragment_id": "106389881",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição das áreas de intervenção",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+   ],
+   "markdown": "###### Artigo 2.º — Definição das áreas de intervenção\n\nAs áreas de intervenção prioritárias em que devem ser reconhecidos Centros de Referência são definidas anualmente por despacho do membro do Governo responsável pela área da saúde, sob proposta da Comissão Nacional para os Centros de Referência, em articulação com a DE-SNS, I. P., até ao dia 31 dezembro do ano anterior ao que se refere.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+  },
+  "1142592175": {
+   "fragment_id": "106389882",
+   "type": 11,
+   "heading": "Artigo 3.º — Abertura de candidaturas",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+   ],
+   "markdown": "###### Artigo 3.º — Abertura de candidaturas\n\n1 - A abertura de candidaturas para o reconhecimento de Centro de Referência é precedido de uma proposta para as áreas de intervenção, patologias, técnicas e/ou procedimentos em que devem ser constituídos os Centros de Referência, definindo os ratios de implementação nacional, de acordo com princípios transparentes centrados, entre outros, em análises de incidência populacional, acessibilidades, equilíbrio entre oferta e procura, epidemiologia e serviços disponíveis.\n\n2 - A proposta a que se refere o número anterior é apresentada ao membro do Governo responsável pela área da saúde pelo presidente da Comissão Nacional para os Centros de Referência, ouvida a DE-SNS, I. P.\n\n3 - O processo de reconhecimento pelo Ministério da Saúde de um Centro de Referência é iniciado com a publicação, pela Direção-Geral da Saúde, de aviso para apresentação de candidaturas, que fixa os critérios específicos aplicáveis.\n\n4 - O aviso de abertura do processo de candidatura é publicitado no Diário da República e no sítio eletrónico do portal do Serviço Nacional de Saúde, na área dedicada aos Centros de Referência.\n\n5 - O aviso de abertura fixa as condições e os termos em que podem ser apresentadas as candidaturas.\n\n6 - O processo de candidatura é instruído com documentação que demonstre a evidência do cumprimento dos critérios gerais e específicos aplicáveis, bem como dos normativos legais aplicáveis à atividade de prestação de cuidados de saúde.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01."
+  },
+  "1142590275": {
+   "fragment_id": "106389884",
+   "type": 11,
+   "heading": "Artigo 5.º — Avaliação periódica",
+   "in_force_from": "2026-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01.",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+   ],
+   "markdown": "###### Artigo 5.º — Avaliação periódica\n\n1 - A avaliação periódica, por auditoria externa, do cumprimento dos requisitos gerais e específicos que estiveram na base do reconhecimento dos Centros de Referência, é efetuada pela Direção-Geral da Saúde com a colaboração da Administração Central do Sistema de Saúde, I. P., sob a coordenação da Comissão Nacional para os Centros de Referência, devendo as instituições e serviços integrados no Ministério da Saúde ou sob sua tutela colaborar com estas instituições para a realização das referidas auditorias.\n\n2 - A Direção-Geral da Saúde elabora e submete à Comissão Nacional para os Centros de Referência um relatório anual das auditorias realizadas nos termos do número anterior, para apreciação e aprovação por parte dessa Comissão.\n\n3 - A Comissão Nacional para os Centros de Referência apresenta ao membro do Governo responsável pela área da saúde, com base na apreciação do relatório referido no número anterior e nas situações em que se justifique, proposta fundamentada de cessação do reconhecimento de um Centro de Referência, para efeitos do disposto no n.º 3 do artigo 7.º da Portaria n.º 194/2014, de 30 de setembro.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 282/2026/1 - Diário da República n.º 124/2026, Série I de 2026-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2026-1140260277), em vigor a partir de 2026-07-01.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 195/2016 - Diário da República n.º 137/2016, Série I de 2016-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/195-2016-74967223), em vigor a partir de 2016-07-20"
+  }
+ }
+}

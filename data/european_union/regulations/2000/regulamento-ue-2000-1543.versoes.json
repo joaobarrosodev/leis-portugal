@@ -1,0 +1,537 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R1543:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1543-20090101",
+ "dre_path": null,
+ "source_lastmod": "2009-01-01",
+ "versions": [
+  {
+   "date": "2000-07-15",
+   "future": false,
+   "celex": "32000R1543",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "df3bc95ab18f1181",
+    "137a90202fc3f097",
+    "7de0c85a9d9f70a9",
+    "3ee35d69a9c24bdb",
+    "f106601f66821cfb",
+    "99f96e04468cf228",
+    "ab185cf20a1cfe2b",
+    "d7f8bf4de9a5993c",
+    "5bec5e7adc58fee1",
+    "8b8772230a6db019",
+    "db31709f63c5ddbf",
+    "b04af5ebf55c9518",
+    "4608ef401cc5b453",
+    "6819a26dc0f2c5cb",
+    "9fcdb17ede26f452",
+    "be6ba2885368ed55",
+    "02fead779c3f15be",
+    "7acb1a94b21cb1c9",
+    "2d8505905439d83c"
+   ]
+  },
+  {
+   "date": "2007-11-24",
+   "future": false,
+   "celex": "02000R1543-20071124",
+   "acts": [
+    {
+     "id": "eu:celex:32007R1343:por",
+     "title": "REGULAMENTO (CE) N. o 1343/2007 DO CONSELHO de 13 de Novembro de 2007",
+     "published": null,
+     "celex": "32007R1343"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Adita TÍTULO I",
+    "Adita Princípios gerais de recolha e gestão dos dados",
+    "Adita TÍTULO II",
+    "Adita Processo de definição do conteúdo dos programas comunitários e nacionais",
+    "Adita TÍTULO III",
+    "Adita Disposições finais",
+    "Adita ANEXO I",
+    "Adita Programa mínimo e programa alargado",
+    "Adita Definição do programa mínimo",
+    "Adita Definição do programa alargado",
+    "Adita ANEXO II",
+    "Adita Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado",
+    "Adita ANEXO III",
+    "Adita Áreas geográficas referidas no anexo I",
+    "Adita ANEXO IV",
+    "Adita Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa mínimo)",
+    "Adita Notas",
+    "Suprime TÍTULO I — Princípios gerais de recolha e gestão dos dados",
+    "Suprime TÍTULO II — Processo de definição do conteúdo dos programas comunitários e nacionais",
+    "Suprime TÍTULO III — Disposições finais",
+    "Suprime ANEXO I — Programa mínimo e programa alargado",
+    "Suprime ANEXO II — Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado",
+    "Suprime ANEXO III — Áreas geográficas referidas no anexo I",
+    "Suprime ANEXO IV — Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa mínimo)"
+   ],
+   "fragments": [
+    "b352423a264344af",
+    "137a90202fc3f097",
+    "ac0d60c6546582d4",
+    "ffc348f463b781ad",
+    "2ead6af643283879",
+    "ce6b9161724bb00e",
+    "6eb2717c40fd6b89",
+    "4c8bdeab3d91ec7d",
+    "e3654b0ec78c0402",
+    "8bb40659a5d6dcb6",
+    "8b65361cafcbd4ed",
+    "c88c312dbd961387",
+    "9db704600627e53c",
+    "bbdde795c58f027f",
+    "4e792a041aa48f8b",
+    "442f9535e38fdaa9",
+    "b6f34086b61a987d",
+    "715e3f117d3afaad",
+    "d664376e2a8dcecd",
+    "4a7f168f633deaff",
+    "76c226967cf86538",
+    "6228d2637402baf0",
+    "852174729551523b",
+    "aa97f84fc0d151a7",
+    "720af75c92791b10",
+    "099ca1808a498f04",
+    "e03a0eb4d5b2eef3",
+    "db7f71d64d9132a8",
+    "e527fd61ed8cd257"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "celex": "02000R1543-20090101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime TÍTULO I",
+    "Suprime Princípios gerais de recolha e gestão dos dados",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime TÍTULO II",
+    "Suprime Processo de definição do conteúdo dos programas comunitários e nacionais",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime TÍTULO III",
+    "Suprime Disposições finais",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime ANEXO I",
+    "Suprime Programa mínimo e programa alargado",
+    "Suprime Definição do programa mínimo",
+    "Suprime Definição do programa alargado",
+    "Suprime ANEXO II",
+    "Suprime Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado",
+    "Suprime ANEXO III",
+    "Suprime Áreas geográficas referidas no anexo I",
+    "Suprime ANEXO IV",
+    "Suprime Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa mínimo)",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "a39a0d89ea65cae1"
+   ]
+  }
+ ],
+ "fragments": {
+  "df3bc95ab18f1181": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.o 1543/2000 do Conselho, de 29 de Junho de 2000, que institui um quadro comunitário para a recolha e a gestão dos dados essenciais à condução da política comum da pesca** *Jornal Oficial nº L 176 de 15/07/2000 p. 0001 - 0016*\n\nRegulamento (CE) n.o 1543/2000 do Conselho\n\nde 29 de Junho de 2000\n\nque institui um quadro comunitário para a recolha e a gestão dos dados essenciais à condução da política comum da pesca\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CEE) n.o 3760/92 do Conselho, de 20 de Dezembro de 1992, que institui um regime comunitário da pesca e da aquicultura(3), prevê a avaliação regular, pelo Comité Científico, Técnico e Económico da Pesca (a seguir denominado \"CCTEP\"), da situação dos recursos haliêuticos e das consequências económicas dessa situação.\n\n(2) Tanto o código de conduta da pesca responsável, da Organização das Nações Unidas para a Alimentação e a Agricultura, como o Acordo das Nações Unidas relativo à conservação e à gestão das populações de peixes transzonais e das populações de peixes altamente migradores realçam a necessidade de desenvolver a investigação e a recolha de dados para melhorar os conhecimentos científicos.\n\n(3) A Comunidade deve participar nos esforços desenvolvidos nas águas internacionais para a conservação dos recursos haliêuticos, segundo as disposições adoptadas no âmbito das organizações regionais de pesca.\n\n(4) Para proceder às avaliações científicas necessárias à política comum das pescas (a seguir denominada \"PCP\"), é indispensável recolher dados completos que abranjam a biologia dos recursos, as frotas e as suas actividades, bem como as questões económicas e sociais.\n\n(5) A recolha destas informações específicas deve ser coordenada com informações estatísticas.\n\n(6) Devem-se definir prioridades à escala comunitária e harmonizar os procedimentos de recolha e tratamento de dados na Comunidade, para garantir a coerência do conjunto do dispositivo e optimizar a sua relação custo/eficácia, construindo um quadro plurianual estável.\n\n(7) As análises científicas requerem, prioritariamente, dados agregados obtidos por agrupamento e tratamento, a uma escala adequada, dos dados pormenorizados e não dados pormenorizados elementares.\n\n(8) Os regulamentos em vigor neste sector, nomeadamente os Regulamentos (CEE) n.o 3759/92(4), (CEE) n.o 2847/93(5), (CE) n.o 685/95(6), (CE) n.o 779/97(7) e (CE) n.o 104/2000(8) do Conselho, e os Regulamentos (CE) n.o 2090/98(9), (CE) n.o 2091/98(10) e (CE) n.o 2092/98(11) da Comissão, contêm disposições sobre a recolha e gestão de dados relativos aos navios de pesca, às suas actividades e capturas, assim como ao acompanhamento dos preços, que devem ser tidas em conta para construir um dispositivo global.\n\n(9) Os regulamentos em vigor não abrangem todos os domínios em relação aos quais devem ser recolhidos dados para permitir análises científicas completas e fiáveis. Esses regulamentos contemplam dados individuais ou globais, e não dados agregados à escala adequada para as avaliações científicas. Devem-se, portanto, adoptar novas disposições que permitam a constituição de séries plurianuais de dados agregados efectivamente acessíveis aos utilizadores competentes e autorizados.\n\n(10) A avaliação dos recursos e da situação económica do sector exige a recolha de informações biológicas que abranjam a totalidade das capturas, incluindo as devoluções, avaliações das unidades populacionais independentes das pescas comerciais em relação a um conjunto de recursos, a recolha de informações sobre as capacidades de captura e os esforços de pesca desenvolvidos, assim como dados que expliquem a formação dos preços e permitam apreciar a situação económica das empresas de pesca e da indústria de transformação dos produtos da pesca e a evolução dos postos de trabalho associados a esses sectores.\n\n(11) Deve-se dar prioridade aos dados estritamente necessários às avaliações científicas mas é igualmente necessário promover um programa alargado que permita melhorar essas avaliações.\n\n(12) A comunidade científica, os profissionais da pesca e os meios interessados devem ser associados à definição das regras relativas à recolha e à gestão dos dados. Os organismos adequados para recolher os pareceres necessários são o CCTEP e o Comité Consultivo das Pescas (a seguir denominado \"CCP\") instituídos, respectivamente, pelo artigo 16.o do Regulamento (CEE) n.o 3760/92 e pela Decisão 71/128/CEE da Comissão(12).\n\n(13) Os programas comunitários de recolha e gestão dos dados haliêuticos devem ser executados sob a responsabilidade directa dos Estados-Membros, que devem elaborar programas nacionais alinhados pelos programas comunitários.\n\n(14) A execução dos programas nacionais de recolha e gestão dos dados haliêuticos implica despesas importantes. O pleno benefício desses programas só se atinge à escala comunitária. Deve-se, portanto, prever uma contribuição financeira comunitária para as despesas dos Estados-Membros. Essa contribuição regular-se-á pela Decisão 2000/439/CE(13).\n\n(15) Os dados agregados a que se refere o presente regulamento devem ser integrados em bases de dados informatizadas, para estarem acessíveis aos utilizadores autorizados e permitir o intercâmbio. A transmissão de dados científicos específicos é prevista por organizações internacionais, nomeadamente pelo Conselho Internacional para a exploração do mar, assim como por organizações regionais de pesca.\n\n(16) Deve existir um procedimento que assegure uma cooperação estreita entre os Estados-Membros e a Comissão no âmbito de um comité de gestão, para facilitar a execução destas disposições.\n\n(17) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(14).\n\n(18) A condução dos programas de recolha e gestão dos dados deve ser avaliada regularmente e, a médio prazo, deve-se ponderar a possibilidade de aumentar as áreas abrangidas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "137a90202fc3f097": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece um quadro comunitário para a recolha e gestão dos dados necessários à avaliação da situação dos recursos haliêuticos e do sector das pescas.\n\nOs Estados-Membros são responsáveis pela recolha dos dados."
+  },
+  "7de0c85a9d9f70a9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\na) \"Séries plurianuais\": os dados que medem a evolução de um mesmo parâmetro durante vários anos;\n\nb) \"Dados agregados\": os resultados do tratamento dos dados provenientes de um grupo de navios, respeitantes a um período determinado e, se for caso disso, a um sector geográfico determinado, a fim de obter uma estimativa global representativa do conjunto;\n\nc) \"Grelha espácio-temporal\": combinação da subdivisão de uma zona geográfica em sectores definidos com um intervalo de tempo definido."
+  },
+  "3ee35d69a9c24bdb": {
+   "fragment_id": "TÍTULO I — Princípios gerais de recolha e gestão dos dados",
+   "type": "divisao",
+   "heading": "TÍTULO I — Princípios gerais de recolha e gestão dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Princípios gerais de recolha e gestão dos dados"
+  },
+  "f106601f66821cfb": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros devem constituir séries plurianuais de dados agregados, recolhidos segundo métodos científicos, incluindo informações biológicas e económicas. Os métodos utilizados devem ser estáveis no tempo, harmonizados ao nível comunitário e respeitar as disposições internacionais na matéria.\n\n2. Sem prejuízo das obrigações impostas pela regulamentação comunitária em matéria de recolha de dados, nomeadamente pelos regulamentos mencionados nos n.os 1 e 3 do artigo 4.o, os Estados-Membros devem:\n\na) Definir programas de recolha de dados, eventualmente baseados em amostragens, complementares a essas obrigações, ou relativos a áreas não abrangidas por estas;\n\nb) Especificar os procedimentos conducentes à produção de dados agregados;\n\nc) Assegurar que os dados utilizados para produzir dados agregados permaneçam disponíveis para serem eventualmente sujeitos a novo cálculo, se necessário."
+  },
+  "99f96e04468cf228": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros devem recolher dados:\n\n1. Necessários para apreciar as actividades das diferentes frotas de pesca e a evolução da capacidade de pesca, devendo, para esse efeito, por um lado, ser efectuadas sínteses com base nos dados recolhidos por força dos Regulamentos (CEE) n.o 2847/93, (CE) n.o 685/95 e (CE) n.o 779/97 do Conselho e dos Regulamentos (CE) n.o 2090/98, (CE) n.o 2091/98 e (CE) n.o 2092/98 da Comissão e, por outro, ser recolhidas informações complementares pelos Estados-Membros, sempre que necessário;\n\n2. Que permitam calcular o volume total das capturas por unidade populacional, incluindo, se for caso disso, as devoluções, e, se necessário, repartir essas capturas por grupos de navios, zonas geográficas e períodos. As capturas devem ser objecto de amostragens biológicas. Os Estados-Membros devem, além disso, realizar estudos científicos no mar para avaliar a abundância e a distribuição das unidades populacionais de forma independente dos dados veiculados pelas pescas comerciais relativamente às populações em que essas avaliações sejam possíveis e úteis.\n\n3. Que permitam acompanhar os preços associados aos diversos desembarques e a formação desses preços. Os dados recolhidos por força do Regulamento (CEE) n.o 3759/92 devem ser agrupados e sintetizados. Devem ser recolhidos dados complementares para cobrir o conjunto dos desembarques nos portos comunitários e extracomunitários, assim como as importações.\n\n4. Necessários para avaliar a situação económica do sector com base em estudos e amostragens suficientemente amplas para salvaguardar a credibilidade das estimativas:\n\na) No que diz respeito às frotas de pesca:\n\n- proventos das vendas e outros rendimentos (por exemplo, subvenções, recebimento de juros),\n\n- custos de produção,\n\n- dados que permitam caracterizar e contabilizar os postos de trabalho no mar;\n\nb) No que diz respeito à indústria de transformação dos produtos da pesca:\n\n- produção expressa em quantidade e em valor para categorias de produtos a determinar,\n\n- número de empresas e de postos de trabalho,\n\n- evolução dos custos de produção e sua estrutura."
+  },
+  "ab185cf20a1cfe2b": {
+   "fragment_id": "TÍTULO II — Processo de definição do conteúdo dos programas comunitários e nacionais",
+   "type": "divisao",
+   "heading": "TÍTULO II — Processo de definição do conteúdo dos programas comunitários e nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Processo de definição do conteúdo dos programas comunitários e nacionais"
+  },
+  "d7f8bf4de9a5993c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A Comissão deve definir, nos termos do n.o 2 do artigo 9.o e segundo o quadro do anexo I, um programa comunitário mínimo que corresponda às informações estritamente necessárias para as avaliações científicas e um programa comunitário alargado que inclua, além das informações do programa mínimo, informações susceptíveis de melhorar de forma decisiva as avaliações científicas. Estes programas são elaborados por períodos de seis anos. Exceptuam-se os primeiros programas comunitários, que abrangem excepcionalmente os anos de 2002 a 2006, inclusive.\n\n2. A fim de apoiar a recolha e gestão de dados em 2001, a Comissão deve organizar convites à apresentação de propostas e concursos públicos segundo as normas e práticas estabelecidas."
+  },
+  "5bec5e7adc58fee1": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros devem definir, por períodos de seis anos, programas nacionais de recolha e gestão de dados. O primeiro período abrange os anos de 2002 a 2006, inclusive. Os programas devem descrever, por um lado, a recolha dos dados pormenorizados e, por outro, os tratamentos necessários para a obtenção dos dados agregados, de acordo com os princípios enunciados no artigo 3.o e devem também especificar as ligações entre esse programa e os programas comunitários definidos nos termos do artigo 5.o\n\n2. Os Estados-Membros são responsáveis pela fiabilidade e estabilidade dos processos de recolha e tratamento de dados. Os Estados-Membros devem prestar à Comissão informações que permitam avaliar os meios utilizados e a eficácia dos procedimentos. Sempre que existam, devem-se utilizar, na recolha e na análise desses dados, as definições internacionais ou europeias e os sistemas de classificação adequados.\n\n3. Os Estados-Membros devem, na medida do possível, incluir nos seus programas nacionais os elementos que lhe digam respeito a título do programa comunitário mínimo definido no artigo 5.o\n\n4. Os Estados-Membros podem solicitar a contribuição financeira comunitária para os elementos do seu programa nacional que correspondam aos componentes do programa comunitário mínimo que lhes digam respeito. Os Estados-Membros podem igualmente solicitar uma contribuição financeira comunitária para os elementos complementares do seu programa nacional que correspondam ao programa comunitário alargado, desde que as disposições relativas ao programa mínimo se encontrem inteiramente satisfeitas.\n\nTodavia, a obrigação de satisfazer inteiramente as disposições relativas ao programa mínimo não é aplicável aos dados especificados no anexo IV, até 1 de Janeiro de 2004 no que se refere aos dados anuais por segmento de frota, nem até 1 de Janeiro de 2006 no que se refere aos dados anuais por tipo de indústria de transformação especificados no anexo IV.\n\nA contribuição financeira comunitária é decidida nas condições previstas na Decisão 2000/439/CE."
+  },
+  "8b8772230a6db019": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros devem garantir que os dados agregados relativos aos programas comunitários sejam integrados em bases de dados informatizadas.\n\n2. Os dados a que se refere o presente regulamento podem ser transmitidos pelos Estados-Membros às organizações internacionais competentes, segundo as regras e as regulamentações específicas dessas organizações.\n\nA Comissão deve ser informada dessas transmissões, podendo, a seu pedido, receber uma cópia electrónica dos dados.\n\n3. A Comissão deve ter acesso, por via informática, a todos os dados agregados cobertos pelos programas comunitários, podendo colocá-los à disposição do CCTEP.\n\n4. Os dados comunicados ou recolhidos, sob qualquer forma, ao abrigo do presente regulamento estão abrangidos pelo sigilo profissional e beneficiam da protecção conferida a dados semelhantes pela legislação nacional dos Estados-Membros que os recebem e pelas disposições correspondentes aplicáveis às instituições comunitárias.\n\n5. As regras de execução do presente artigo são adoptadas nos termos do n.o 2 do artigo 9.o, nomeadamente no que se refere a:\n\n- regras relativas à transmissão de dados, incluindo a transmissão de dados científicos às organizações internacionais,\n\n- critérios de interrogação de bases de dados e normas mínimas que permitam assegurar aos utilizadores autorizados a acessibilidade dos dados,\n\n- dados que, quando adequado, serão agrupados sob a responsabilidade directa da Comissão."
+  },
+  "db31709f63c5ddbf": {
+   "fragment_id": "TÍTULO III — Disposições finais",
+   "type": "divisao",
+   "heading": "TÍTULO III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposições finais"
+  },
+  "b04af5ebf55c9518": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As medidas necessárias à execução do presente regulamento, nomeadamente as relativas às questões mencionadas nos artigos 5.o e 7.o, são aprovadas pelo procedimento a que se refere o n.o 2 do artigo 9.o\n\n2. Sem prejuízo do n.o 1, os programas mencionados no artigo 5.o devem ser aprovados após consulta do CCTEP e do CCP."
+  },
+  "4608ef401cc5b453": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comissão é assistida pelo Comité de Gestão das Pescas e da Aquicultura, instituído pelo artigo 17.o do Regulamento (CEE) n.o 3760/92, a seguir designado por \"comité\".\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "6819a26dc0f2c5cb": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão, em associação com o CCTEP e o CCP, deve examinar anualmente, no âmbito do Comité de Gestão das Pescas e da Aquicultura, o andamento dos programas nacionais.\n\n2. Com base nas informações transmitidas pelos Estados-Membros e após consulta do CCTEP, a Comissão apresenta ao Parlamento Europeu e ao Conselho, de três em três anos, e, pela primeira vez, até 31 de Dezembro de 2003, um relatório de avaliação das medidas tomadas por cada Estado-Membro, da adequação dos métodos utilizados e dos resultados atingidos em matéria de recolha e gestão dos dados referidos no presente regulamento. Este relatório avaliará igualmente a utilização, pela Comunidade, dos dados recolhidos.\n\n3. A Comissão deve analisar, até 31 de Dezembro de 2003, se é conveniente alargar o âmbito das recolhas de dados previstas no presente regulamento. Para o efeito, os Estados-Membros e a Comissão podem realizar estudos e projectos exploratórios em áreas importantes para a PCP que ainda não sejam abrangidas pelo artigo 4.o, nomeadamente a aquicultura, as relações entre a pesca e a aquicultura e o ambiente e a capacidade de criação de postos de trabalho pelos sectores da pesca e da aquicultura. Esses estudos e projectos podem ser apoiados financeiramente pela Comunidade nas condições previstas na Decisão 2000/439/CE.\n\n4. Com base no relatório e nas análises previstos nos n.os 2 e 3, e atendendo à evolução das necessidades da PCP, a Comissão deve ponderar, até 31 de Dezembro de 2003, a necessidade de uma eventual alteração do presente regulamento e eventualmente apresentar uma proposta ao Conselho."
+  },
+  "9fcdb17ede26f452": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 29 de Junho de 2000.\n\nPelo Conselho\n\nO Presidente\n\nM. Arcanjo\n\n(1) JO C 375 E de 28.12.1999, p. 54.\n\n(2) Parecer emitido em 2 de Março de 2000 (ainda não publicado no Jornal Oficial).\n\n(3) JO L 389 de 31.12.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1181/98 (JO L 164 de 9.6.1998, p. 1).\n\n(4) JO L 388 de 31.12.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 3318/94 (JO L 350 de 31.12.1994, p. 15).\n\n(5) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2346/98 (JO L 358 de 31.12.1998, p. 5).\n\n(6) JO L 71 de 31.3.1995, p. 5.\n\n(7) JO L 113 de 30.4.1997, p. 1.\n\n(8) JO L 17 de 21.1.2000, p. 22.\n\n(9) JO L 266 de 1.10.1998, p. 27.\n\n(10) JO L 266 de 1.10.1998, p. 36.\n\n(11) JO L 266 de 1.10.1998, p. 47.\n\n(12) JO L 68 de 22.3.1971, p. 18. Decisão com a última redacção que lhe foi dada pela Decisão 1999/478/CE (JO L 187 de 20.7.1999, p. 70).\n\n(13) Ver página 42 do presente Jornal Oficial.\n\n(14) JO L 184 de 17.7.1999, p. 23."
+  },
+  "be6ba2885368ed55": {
+   "fragment_id": "ANEXO I — Programa mínimo e programa alargado",
+   "type": "divisao",
+   "heading": "ANEXO I — Programa mínimo e programa alargado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Programa mínimo e programa alargado\n\nDefinição do programa mínimo\n\na) O programa mínimo deverá incluir:\n\n- o acompanhamento do esforço de pesca mediante a recolha de dados referentes aos seguintes parâmetros:\n\n- o número de navios,\n\n- a tonelagem bruta (TB),\n\n- a potência do motor (kW),\n\n- a idade do navio,\n\n- a arte utilizada,\n\n- o tempo passado no mar durante o ano;\n\n- o acompanhmento das pescas comerciais através da recolha de dados sobre desembarques e devoluções, amostragens biológicas e campanhas científicas:\n\n- desembarques e devoluções respeitantes às unidades populacionais enumeradas no anexo II,\n\n- amostragens biológicas, destinadas à estimativa da composição das capturas e seus parâmetros biológicos, como crescimento, sexo, maturidade e fecundidade, respeitantes às unidades populacionais enumeradas no anexo II,\n\n- campanhas científicas nas áreas geográficas enumeradas no anexo III, cujos objectivos serão definidos de acordo com o procedimento previsto no n.o 2 do artigo 9.o;\n\n- o acompanhamento dos preços na primeira venda no que se refere às espécies enumeradas no anexo II para as áreas geográficas referidas no anexo III,\n\n- o acompanhamento económico das empresas de pesca e da indústria de transformação de acordo com os elementos ou agrupamentos de elementos contabilísticos pertinentes enumerados no anexo IV;\n\nb) O nível de agregação da informação recolhida no âmbito do programa mínimo será definido de acordo com o procedimento previsto no n.o 2 do artigo 9.o\n\nO nível de agregação será definido com base em:\n\n- grelhas espácio-temporais, definindo a extensão dos sectores geográficos de referência e os intervalos de tempo a utilizar, os quais, no que se refere ao esforço de pesca, deverão ser coerentes com a regulamentação vigente,\n\n- delimitação dos grupos de navios e/ou de portos, assim como dos sectores relevantes da indústria de transformação; no que se refere aos dados relativos ao esforço e aos dados económicos, os grupos de navios devem corresponder a segmentos ou, quando adequado, a subsegmentos dos quartos programas de orientação plurianuais (POP) (1997-2001) e ser coerentes de rubrica para rubrica;\n\nc) Se for caso disso, os objectivos quantificados em termos de precisão das avaliações ou da intensidade dos programas de amostragem serão adoptados de acordo com o procedimento previsto no n.o 2 do artigo 9.o\n\nDefinição do programa alargado\n\nd) O programa alargado deverá incluir (em complemento do programa mínimo):\n\n- o acompanhamento do esforço de pesca mediante a recolha de dados referentes aos parâmetros definidos para o programa mínimo, mas ajustados a pescas específicas tendo em conta as espécies-alvo, a arte utilizada e outro equipamento. Os parâmetros adicionais serão definidos de acordo com o procedimento previsto no n.o 2 do artigo 9.o,\n\n- o acompanhamento das pescas comerciais através da recolha de dados sobre desembarques e devoluções, amostragens biológicas e campanhas científicas:\n\n- desembarques e devoluções respeitantes às unidades populacionais enumeradas no anexo II, com um nível de agregação inferior e uma maior densidade de amostragem a definir de acordo com o procedimento previsto no n.o 2 do artigo 9.o,\n\n- amostragens biológicas respeitantes às unidades populacionais enumeradas no anexo II, mas menos agregadas e com uma maior densidade de amostragem a definir de acordo com o procedimento previsto no n.o 2 do artigo 9.o,\n\n- campanhas científicas nas áreas geográficas enumeradas no anexo III, mas com uma lista alargada de campanhas e/ou maior densidade de amostragem, e cujos objectivos serão definidos de acordo com o procedimento previsto no n.o 2 do artigo 9.o;\n\n- o acompanhamento dos preços na primeira venda, por categorias comerciais definidas na regulamentação vigente, no que se refere às espécies enumeradas no anexo II para as áreas geográficas referidas no anexo III,\n\n- o acompanhamento económico das empresas de pesca e da indústria de transformação de acordo com os elementos ou agrupamentos de elementos contabilísticos pertinentes enumerados no anexo IV, contendo informação mais pormenorizada sobre as diferentes categorias de custo, tipo de investimento, elementos de definição da posição financeira e emprego. Os pormenores da informação complementar serão definidos de acordo com o procedimento previsto no n.o 2 do artigo 9;\n\ne) Os níveis de agregação serão inferiores aos do programa mínimo. Os agregados do programa alargado serão compatíveis com os utilizados no programa mínimo;\n\nf) Se for caso disso, os objectivos quantificados em termos da maior precisão das avaliações ou da maior intensidade das amostragens serão adoptados de acordo com o procedimento previsto no n.o 2 do artigo 9.o"
+  },
+  "02fead779c3f15be": {
+   "fragment_id": "ANEXO II — Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado",
+   "type": "divisao",
+   "heading": "ANEXO II — Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado\n\nPode-se decidir, nos termos do n.o 2 do artigo 9.o:\n\n- não fazer incluir no programa mínimo as unidades populacionais para as quais as capturas efectuadas por navios dos Estados-Membros se encontram abaixo de um nível a definir pelo regulamento de execução,\n\n- alterar a lista das espécies e das zonas a que se refere este anexo,\n\n- que, dentro do programa mínimo, os dados relativos às zonas separadas por vírgula possam ser agregados, enquanto os dados relativos a zonas separadas por barras não podem ser agregados.\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "7acb1a94b21cb1c9": {
+   "fragment_id": "ANEXO III — Áreas geográficas referidas no anexo I",
+   "type": "divisao",
+   "heading": "ANEXO III — Áreas geográficas referidas no anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Áreas geográficas referidas no anexo I\n\n- Mar Báltico, excluindo o Kattegat\n\n- Kattegat e Skagerrak\n\n- Mar do Norte, incluindo o Leste do canal da Mancha e a área II, excluindo o Skagerrak\n\n- Área do Nordeste do Atlântico e Oeste do canal da Mancha\n\n- Área reguladora NAFO\n\n- Outras áreas do oceano Atlântico\n\n- Mar Mediterrâneo\n\n- Oceano Índico\n\n- Oceano Pacífico\n\n- Oceano Antárctico"
+  },
+  "2d8505905439d83c": {
+   "fragment_id": "ANEXO IV — Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa mínimo)",
+   "type": "divisao",
+   "heading": "ANEXO IV — Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa mínimo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa mínimo)\n\nDados anuais por segmento de frota\n\n>POSIÇÃO NUMA TABELA>\n\nDados anuais por tipos de indústria de transformação\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "b352423a264344af": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Junho de 2000\n\nque institui um quadro comunitário para a recolha e a gestão dos dados essenciais à condução da política comum da pesca\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0002)),\n\n(1) O Regulamento (CEE) n.º 3760/92 do Conselho, de 20 de Dezembro de 1992, que institui um regime comunitário da pesca e da aquicultura ([^3^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0003)), prevê a avaliação regular, pelo Comité Científico, Técnico e Económico da Pesca (a seguir denominado «CCTEP»), da situação dos recursos haliêuticos e das consequências económicas dessa situação.\n\n(2) Tanto o código de conduta da pesca responsável, da Organização das Nações Unidas para a Alimentação e a Agricultura, como o Acordo das Nações Unidas relativo à conservação e à gestão das populações de peixes transzonais e das populações de peixes altamente migradores realçam a necessidade de desenvolver a investigação e a recolha de dados para melhorar os conhecimentos científicos.\n\n(3) A Comunidade deve participar nos esforços desenvolvidos nas águas internacionais para a conservação dos recursos haliêuticos, segundo as disposições adoptadas no âmbito das organizações regionais de pesca.\n\n(4) Para proceder às avaliações científicas necessárias à política comum das pescas (a seguir denominada «PCP»), é indispensável recolher dados completos que abranjam a biologia dos recursos, as frotas e as suas actividades, bem como as questões económicas e sociais.\n\n(5) A recolha destas informações específicas deve ser coordenada com informações estatísticas.\n\n(6) Devem-se definir prioridades à escala comunitária e harmonizar os procedimentos de recolha e tratamento de dados na Comunidade, para garantir a coerência do conjunto do dispositivo e optimizar a sua relação custo/eficácia, construindo um quadro plurianual estável.\n\n(7) As análises científicas requerem, prioritariamente, dados agregados obtidos por agrupamento e tratamento, a uma escala adequada, dos dados pormenorizados e não dados pormenorizados elementares.\n\n(8) Os regulamentos em vigor neste sector, nomeadamente os Regulamentos (CEE) n.º 3759/92 ([^4^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0004)), (CEE) n.º 2847/93 ([^5^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0005)), (CE) n.º 685/95 ([^6^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0006)), (CE) n.º 779/97 ([^7^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0007)) e (CE) n.º 104/2000 ([^8^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0008)) do Conselho, e os Regulamentos (CE) n.º 2090/98 ([^9^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0009)), (CE) n.º 2091/98 ([^10^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0010)) e (CE) n.º 2092/98 ([^11^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0011)) da Comissão, contêm disposições sobre a recolha e gestão de dados relativos aos navios de pesca, às suas actividades e capturas, assim como ao acompanhamento dos preços, que devem ser tidas em conta para construir um dispositivo global.\n\n(9) Os regulamentos em vigor não abrangem todos os domínios em relação aos quais devem ser recolhidos dados para permitir análises científicas completas e fiáveis. Esses regulamentos contemplam dados individuais ou globais, e não dados agregados à escala adequada para as avaliações científicas. Devem-se, portanto, adoptar novas disposições que permitam a constituição de séries plurianuais de dados agregados efectivamente acessíveis aos utilizadores competentes e autorizados.\n\n(10) A avaliação dos recursos e da situação económica do sector exige a recolha de informações biológicas que abranjam a totalidade das capturas, incluindo as devoluções, avaliações das unidades populacionais independentes das pescas comerciais em relação a um conjunto de recursos, a recolha de informações sobre as capacidades de captura e os esforços de pesca desenvolvidos, assim como dados que expliquem a formação dos preços e permitam apreciar a situação económica das empresas de pesca e da indústria de transformação dos produtos da pesca e a evolução dos postos de trabalho associados a esses sectores.\n\n(11) Deve-se dar prioridade aos dados estritamente necessários às avaliações científicas mas é igualmente necessário promover um programa alargado que permita melhorar essas avaliações.\n\n(12) A comunidade científica, os profissionais da pesca e os meios interessados devem ser associados à definição das regras relativas à recolha e à gestão dos dados. Os organismos adequados para recolher os pareceres necessários são o CCTEP e o Comité Consultivo das Pescas (a seguir denominado «CCP») instituídos, respectivamente, pelo artigo 16.º do Regulamento (CEE) n.º 3760/92 e pela Decisão 71/128/CEE da Comissão ([^12^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0012)).\n\n(13) Os programas comunitários de recolha e gestão dos dados haliêuticos devem ser executados sob a responsabilidade directa dos Estados-Membros, que devem elaborar programas nacionais alinhados pelos programas comunitários.\n\n(14) A execução dos programas nacionais de recolha e gestão dos dados haliêuticos implica despesas importantes. O pleno benefício desses programas só se atinge à escala comunitária. Deve-se, portanto, prever uma contribuição financeira comunitária para as despesas dos Estados-Membros. Essa contribuição regular-se-á pela Decisão 2000/439/CE ([^13^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0013)).\n\n(15) Os dados agregados a que se refere o presente regulamento devem ser integrados em bases de dados informatizadas, para estarem acessíveis aos utilizadores autorizados e permitir o intercâmbio. A transmissão de dados científicos específicos é prevista por organizações internacionais, nomeadamente pelo Conselho Internacional para a exploração do mar, assim como por organizações regionais de pesca.\n\n(16) Deve existir um procedimento que assegure uma cooperação estreita entre os Estados-Membros e a Comissão no âmbito de um comité de gestão, para facilitar a execução destas disposições.\n\n(17) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^14^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0014)).\n\n(18) A condução dos programas de recolha e gestão dos dados deve ser avaliada regularmente e, a médio prazo, deve-se ponderar a possibilidade de aumentar as áreas abrangidas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ac0d60c6546582d4": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Séries plurianuais»: os dados que medem a evolução de um mesmo parâmetro durante vários anos;\n\nb) «Dados agregados»: os resultados do tratamento dos dados provenientes de um grupo de navios, respeitantes a um período determinado e, se for caso disso, a um sector geográfico determinado, a fim de obter uma estimativa global representativa do conjunto;\n\nc) «Grelha espácio-temporal»: combinação da subdivisão de uma zona geográfica em sectores definidos com um intervalo de tempo definido."
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "2ead6af643283879": {
+   "fragment_id": "Princípios gerais de recolha e gestão dos dados",
+   "type": "divisao",
+   "heading": "Princípios gerais de recolha e gestão dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Princípios gerais de recolha e gestão dos dados"
+  },
+  "ce6b9161724bb00e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros devem constituir séries plurianuais de dados agregados, recolhidos segundo métodos científicos, incluindo informações biológicas e económicas. Os métodos utilizados devem ser estáveis no tempo, harmonizados ao nível comunitário e respeitar as disposições internacionais na matéria.\n\n2. Sem prejuízo das obrigações impostas pela regulamentação comunitária em matéria de recolha de dados, nomeadamente pelos regulamentos mencionados nos n.^os^ 1 e 3 do artigo 4.º, os Estados-Membros devem:\n\na) Definir programas de recolha de dados, eventualmente baseados em amostragens, complementares a essas obrigações, ou relativos a áreas não abrangidas por estas;\n\nb) Especificar os procedimentos conducentes à produção de dados agregados;\n\nc) Assegurar que os dados utilizados para produzir dados agregados permaneçam disponíveis para serem eventualmente sujeitos a novo cálculo, se necessário."
+  },
+  "6eb2717c40fd6b89": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros devem recolher dados:\n\n1. Necessários para apreciar as actividades das diferentes frotas de pesca e a evolução da capacidade de pesca, devendo, para esse efeito, por um lado, ser efectuadas sínteses com base nos dados recolhidos por força dos Regulamentos (CEE) n.º 2847/93, (CE) n.º 685/95 e (CE) n.º 779/97 do Conselho e dos Regulamentos (CE) n.º 2090/98, (CE) n.º 2091/98 e (CE) n.º 2092/98 da Comissão e, por outro, ser recolhidas informações complementares pelos Estados-Membros, sempre que necessário;\n\n2. Que permitam calcular o volume total das capturas por unidade populacional, incluindo, se for caso disso, as devoluções, e, se necessário, repartir essas capturas por grupos de navios, zonas geográficas e períodos. As capturas devem ser objecto de amostragens biológicas. Os Estados-Membros devem, além disso, realizar estudos científicos no mar para avaliar a abundância e a distribuição das unidades populacionais de forma independente dos dados veiculados pelas pescas comerciais relativamente às populações em que essas avaliações sejam possíveis e úteis.\n\n3. Que permitam acompanhar os preços associados aos diversos desembarques e a formação desses preços. Os dados recolhidos por força do Regulamento (CEE) n.º 3759/92 devem ser agrupados e sintetizados. Devem ser recolhidos dados complementares para cobrir o conjunto dos desembarques nos portos comunitários e extracomunitários, assim como as importações.\n\n4. Necessários para avaliar a situação económica do sector com base em estudos e amostragens suficientemente amplas para salvaguardar a credibilidade das estimativas:\n\na) No que diz respeito às frotas de pesca:\n\n— proventos das vendas e outros rendimentos (por exemplo, subvenções, recebimento de juros),\n\n— custos de produção,\n\n— dados que permitam caracterizar e contabilizar os postos de trabalho no mar;\n\nb) No que diz respeito à indústria de transformação dos produtos da pesca:\n\n— produção expressa em quantidade e em valor para categorias de produtos a determinar,\n\n— número de empresas e de postos de trabalho,\n\n— evolução dos custos de produção e sua estrutura."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "e3654b0ec78c0402": {
+   "fragment_id": "Processo de definição do conteúdo dos programas comunitários e nacionais",
+   "type": "divisao",
+   "heading": "Processo de definição do conteúdo dos programas comunitários e nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Processo de definição do conteúdo dos programas comunitários e nacionais"
+  },
+  "8bb40659a5d6dcb6": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A Comissão deve definir, nos termos do n.º 2 do artigo 9.º e segundo o quadro do anexo I, um programa comunitário mínimo que corresponda às informações estritamente necessárias para as avaliações científicas e um programa comunitário alargado que inclua, além das informações do programa mínimo, informações susceptíveis de melhorar de forma decisiva as avaliações científicas. O primeiro programa comunitário abrange os anos de 2002 a 2006, inclusive, e o segundo programa comunitário os anos de 2007 e 2008.\n\n2. A fim de apoiar a recolha e gestão de dados em 2001, a Comissão deve organizar convites à apresentação de propostas e concursos públicos segundo as normas e práticas estabelecidas."
+  },
+  "8b65361cafcbd4ed": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros devem definir programas nacionais de recolha e gestão de dados. O primeiro período de programação abrange os anos de 2002 a 2006, inclusive. O segundo período de programação abrange os anos de 2007 e 2008. Os programas devem descrever, por um lado, a recolha dos dados pormenorizados e, por outro, os tratamentos necessários para a obtenção de dados agregados, de acordo com os princípios enunciados no artigo 3.º, e devem especificar as ligações com os programas comunitários definidos nos termos do artigo 5.º\n\n2. Os Estados-Membros são responsáveis pela fiabilidade e estabilidade dos processos de recolha e tratamento de dados. Os Estados-Membros devem prestar à Comissão informações que permitam avaliar os meios utilizados e a eficácia dos procedimentos. Sempre que existam, devem-se utilizar, na recolha e na análise desses dados, as definições internacionais ou europeias e os sistemas de classificação adequados.\n\n3. Os Estados-Membros devem, na medida do possível, incluir nos seus programas nacionais os elementos que lhe digam respeito a título do programa comunitário mínimo definido no artigo 5.º\n\n4. Os Estados-Membros podem solicitar a contribuição financeira comunitária para os elementos do seu programa nacional que correspondam aos componentes do programa comunitário mínimo que lhes digam respeito. Os Estados-Membros podem igualmente solicitar uma contribuição financeira comunitária para os elementos complementares do seu programa nacional que correspondam ao programa comunitário alargado, desde que as disposições relativas ao programa mínimo se encontrem inteiramente satisfeitas.\n\nTodavia, a obrigação de satisfazer inteiramente as disposições relativas ao programa mínimo não é aplicável aos dados especificados no anexo IV, até 1 de Janeiro de 2004 no que se refere aos dados anuais por segmento de frota, nem até 1 de Janeiro de 2006 no que se refere aos dados anuais por tipo de indústria de transformação especificados no anexo IV.\n\nA contribuição financeira comunitária é decidida nas condições previstas na Decisão 2000/439/CE."
+  },
+  "c88c312dbd961387": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros devem garantir que os dados agregados relativos aos programas comunitários sejam integrados em bases de dados informatizadas.\n\n2. Os dados a que se refere o presente regulamento podem ser transmitidos pelos Estados-Membros às organizações internacionais competentes, segundo as regras e as regulamentações específicas dessas organizações.\n\nA Comissão deve ser informada dessas transmissões, podendo, a seu pedido, receber uma cópia electrónica dos dados.\n\n3. A Comissão deve ter acesso, por via informática, a todos os dados agregados cobertos pelos programas comunitários, podendo colocá-los à disposição do CCTEP.\n\n4. Os dados comunicados ou recolhidos, sob qualquer forma, ao abrigo do presente regulamento estão abrangidos pelo sigilo profissional e beneficiam da protecção conferida a dados semelhantes pela legislação nacional dos Estados-Membros que os recebem e pelas disposições correspondentes aplicáveis às instituições comunitárias.\n\n5. As regras de execução do presente artigo são adoptadas nos termos do n.º 2 do artigo 9.º, nomeadamente no que se refere a:\n\n— regras relativas à transmissão de dados, incluindo a transmissão de dados científicos às organizações internacionais,\n\n— critérios de interrogação de bases de dados e normas mínimas que permitam assegurar aos utilizadores autorizados a acessibilidade dos dados,\n\n— dados que, quando adequado, serão agrupados sob a responsabilidade directa da Comissão."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "4e792a041aa48f8b": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As medidas necessárias à execução do presente regulamento, nomeadamente as relativas às questões mencionadas nos artigos 5.º e 7.º, são aprovadas pelo procedimento a que se refere o n.º 2 do artigo 9.º\n\n2. Sem prejuízo do n.º 1, os programas mencionados no artigo 5.º devem ser aprovados após consulta do CCTEP e do CCP."
+  },
+  "442f9535e38fdaa9": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comissão é assistida pelo Comité de Gestão das Pescas e da Aquicultura, instituído pelo artigo 17.º do Regulamento (CEE) n.º 3760/92, a seguir designado por «comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "b6f34086b61a987d": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão, em associação com o CCTEP e o CCP, deve examinar anualmente, no âmbito do Comité de Gestão das Pescas e da Aquicultura, o andamento dos programas nacionais.\n\n2. Com base nas informações transmitidas pelos Estados-Membros e após consulta do CCTEP, a Comissão apresenta ao Parlamento Europeu e ao Conselho, de três em três anos, e, pela primeira vez, até 31 de Dezembro de 2003, um relatório de avaliação das medidas tomadas por cada Estado-Membro, da adequação dos métodos utilizados e dos resultados atingidos em matéria de recolha e gestão dos dados referidos no presente regulamento. Este relatório avaliará igualmente a utilização, pela Comunidade, dos dados recolhidos.\n\n3. A Comissão deve analisar, até 31 de Dezembro de 2003, se é conveniente alargar o âmbito das recolhas de dados previstas no presente regulamento. Para o efeito, os Estados-Membros e a Comissão podem realizar estudos e projectos exploratórios em áreas importantes para a PCP que ainda não sejam abrangidas pelo artigo 4.º, nomeadamente a aquicultura, as relações entre a pesca e a aquicultura e o ambiente e a capacidade de criação de postos de trabalho pelos sectores da pesca e da aquicultura. Esses estudos e projectos podem ser apoiados financeiramente pela Comunidade nas condições previstas na Decisão 2000/439/CE.\n\n4. Com base no relatório e nas análises previstos nos n.^os^ 2 e 3, e atendendo à evolução das necessidades da PCP, a Comissão deve ponderar, até 31 de Dezembro de 2003, a necessidade de uma eventual alteração do presente regulamento e eventualmente apresentar uma proposta ao Conselho."
+  },
+  "715e3f117d3afaad": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "4a7f168f633deaff": {
+   "fragment_id": "Programa mínimo e programa alargado",
+   "type": "divisao",
+   "heading": "Programa mínimo e programa alargado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Programa mínimo e programa alargado"
+  },
+  "76c226967cf86538": {
+   "fragment_id": "Definição do programa mínimo",
+   "type": "divisao",
+   "heading": "Definição do programa mínimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definição do programa mínimo\n\na) O programa mínimo deverá incluir:\n\n— o acompanhamento do esforço de pesca mediante a recolha de dados referentes aos seguintes parâmetros:\n\n— o número de navios,\n\n— a tonelagem bruta (TB),\n\n— a potência do motor (kW),\n\n— a idade do navio,\n\n— a arte utilizada,\n\n— o tempo passado no mar durante o ano;\n\n— o acompanhmento das pescas comerciais através da recolha de dados sobre desembarques e devoluções, amostragens biológicas e campanhas científicas:\n\n— desembarques e devoluções respeitantes às unidades populacionais enumeradas no anexo II,\n\n— amostragens biológicas, destinadas à estimativa da composição das capturas e seus parâmetros biológicos, como crescimento, sexo, maturidade e fecundidade, respeitantes às unidades populacionais enumeradas no anexo II,\n\n— campanhas científicas nas áreas geográficas enumeradas no anexo III, cujos objectivos serão definidos de acordo com o procedimento previsto no n.º 2 do artigo 9.º;\n\n— o acompanhamento dos preços na primeira venda no que se refere às espécies enumeradas no anexo II para as áreas geográficas referidas no anexo III,\n\n— o acompanhamento económico das empresas de pesca e da indústria de transformação de acordo com os elementos ou agrupamentos de elementos contabilísticos pertinentes enumerados no anexo IV;\n\nb) O nível de agregação da informação recolhida no âmbito do programa mínimo será definido de acordo com o procedimento previsto no n.º 2 do artigo 9.º\n\n— grelhas espácio-temporais, definindo a extensão dos sectores geográficos de referência e os intervalos de tempo a utilizar, os quais, no que se refere ao esforço de pesca, deverão ser coerentes com a regulamentação vigente,\n\n— delimitação dos grupos de navios e/ou de portos, assim como dos sectores relevantes da indústria de transformação; no que se refere aos dados relativos ao esforço e aos dados económicos, os grupos de navios devem corresponder a segmentos ou, quando adequado, a subsegmentos dos quartos programas de orientação plurianuais (POP) (1997-2001) e ser coerentes de rubrica para rubrica;\n\nc) Se for caso disso, os objectivos quantificados em termos de precisão das avaliações ou da intensidade dos programas de amostragem serão adoptados de acordo com o procedimento previsto no n.º 2 do artigo 9.º"
+  },
+  "6228d2637402baf0": {
+   "fragment_id": "Definição do programa alargado",
+   "type": "divisao",
+   "heading": "Definição do programa alargado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definição do programa alargado\n\nd) O programa alargado deverá incluir (em complemento do programa mínimo):\n\n— o acompanhamento do esforço de pesca mediante a recolha de dados referentes aos parâmetros definidos para o programa mínimo, mas ajustados a pescas específicas tendo em conta as espécies-alvo, a arte utilizada e outro equipamento. Os parâmetros adicionais serão definidos de acordo com o procedimento previsto no n.º 2 do artigo 9.º,\n\n— o acompanhamento das pescas comerciais através da recolha de dados sobre desembarques e devoluções, amostragens biológicas e campanhas científicas:\n\n— desembarques e devoluções respeitantes às unidades populacionais enumeradas no anexo II, com um nível de agregação inferior e uma maior densidade de amostragem a definir de acordo com o procedimento previsto no n.º 2 do artigo 9.º,\n\n— amostragens biológicas respeitantes às unidades populacionais enumeradas no anexo II, mas menos agregadas e com uma maior densidade de amostragem a definir de acordo com o procedimento previsto no n.º 2 do artigo 9.º,\n\n— campanhas científicas nas áreas geográficas enumeradas no anexo III, mas com uma lista alargada de campanhas e/ou maior densidade de amostragem, e cujos objectivos serão definidos de acordo com o procedimento previsto no n.º 2 do artigo 9.º;\n\n— o acompanhamento dos preços na primeira venda, por categorias comerciais definidas na regulamentação vigente, no que se refere às espécies enumeradas no anexo II para as áreas geográficas referidas no anexo III,\n\n— o acompanhamento económico das empresas de pesca e da indústria de transformação de acordo com os elementos ou agrupamentos de elementos contabilísticos pertinentes enumerados no anexo IV, contendo informação mais pormenorizada sobre as diferentes categorias de custo, tipo de investimento, elementos de definição da posição financeira e emprego. Os pormenores da informação complementar serão definidos de acordo com o procedimento previsto no n.º 2 do artigo 9;\n\ne) Os níveis de agregação serão inferiores aos do programa mínimo. Os agregados do programa alargado serão compatíveis com os utilizados no programa mínimo;\n\nf) Se for caso disso, os objectivos quantificados em termos da maior precisão das avaliações ou da maior intensidade das amostragens serão adoptados de acordo com o procedimento previsto no n.º 2 do artigo 9.º"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "aa97f84fc0d151a7": {
+   "fragment_id": "Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado",
+   "type": "divisao",
+   "heading": "Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Espécies de referência e zonas de pesca a cobrir nos programas mínimo e alargado\n\nPode-se decidir, nos termos do n.º 2 do artigo 9.º:\n\n— não fazer incluir no programa mínimo as unidades populacionais para as quais as capturas efectuadas por navios dos Estados-Membros se encontram abaixo de um nível a definir pelo regulamento de execução,\n\n— alterar a lista das espécies e das zonas a que se refere este anexo,\n\n— que, dentro do programa mínimo, os dados relativos às zonas separadas por vírgula possam ser agregados, enquanto os dados relativos a zonas separadas por barras não podem ser agregados.\n\n| Espécies | Designação científica | Área |\n| --- | --- | --- |\n| Báltico (área CIEM III) (excluindo Skagerrak e Kattegat) |  |  |\n| Bacalhau | *Gadus morhua* | III b-d |\n| Solha escura do mar do Norte | *Limanda limanda* | III b-d |\n| Solha das pedras | *Platichtys flesus* | III b-d |\n| Arenque | *Clupea harengus* | III b-c/III d |\n| Solha | *Pleuronectes platessa* | III b-d |\n| Salmão | *Salmo salar* | III b-d |\n| Truta-marisca | *Salmo trutta* | III b-d |\n| Espadilha | *Sprattus sprattus* | III b-d |\n| Pregado | *Psetta maxima* | III b-d |\n| Enguia | *Anguilla anguilla* | III b-d |\n| Perca europeia | *Perca fluviatilis* | III d |\n| Lúcio | *Esox lucius* | III d |\n| Lucioperca | *Stizostedion lucioperca* | III d |\n| Coregono | *Coregonus spp*. | III d |\n| Skagerrak e Kattegat (área CIEM III a) |  |  |\n| Verdinho | *Micromesistius potassou* | III a N |\n| Bacalhau | *Gadus morhua* | III a N/III a S |\n| Arinca | *Melanogrammus aeglefinus* | III a N/III a S |\n| Pescada | *Merluccius merluccius* | III a N/III a S |\n| Arenque | *Clupea harengus* | III a N/III a S |\n| Sarda | *Scomber scombrus* | III a N |\n| Lagostim da Noruega | *Nephrops norvegicus* | III a N/III a S |\n| Faneca-Noruega | *Trisopterus esmarki* | III a N |\n| Camarões | *Pandalus borealis* | III a N |\n| Solha | *Pleuronectes platessa* | III a N/III a S |\n| Escamudo | *Pollachius virens* | III a N/III a S |\n| Galeota | *Ammodytidae* | III a N/III a S |\n| Linguado | *Solea solea* | III a N/III a S |\n| Espadilha | *Sprattus sprattus* | III a N/III a S |\n| Solha escura do mar do Norte | *Limanda limanda* | III a N |\n| Badejo | *Merlangius merlangus* | III a N/III a S |\n| Área CIEM II |  |  |\n| Arenque atlanto-escandinavo | *Clupea harengus* | II a, V |\n| Bacalhau | *Gadus morhua* | Subáreas I, II |\n| Escamudo | *Pollachius virens* | Subáreas I, II |\n| Camarão | *Pandalus borealis* | Subáreas I, II |\n| Alabote da Gronelândia | *Reinhartius hippoglossoides* | Subáreas I, II |\n| Arinca | *Melanogrammus aeglefinus* | Subáreas I, II |\n| Cantarilho do Norte | *Sebastes spp*. | Subáreas I, II |\n| Mar do Norte e Leste do canal da Mancha (áreas CIEM IV, VII d) |  |  |\n| Verdinho | *Micromesistius potassou* | IV, VII d |\n| Rodovalho | *Scophtalmus rhombus* | IV, VII d |\n| Bacalhau | *Gadus morhua* | IV, VII d |\n| Arinca | *Melanogrammus aeglefinus* | IV, VII d |\n| Arenque | *Clupea harengus* | IV, VII d |\n| Sarda | *Scomber scombrus* | IV, VII d |\n| Lagostim da Noruega | *Nephrops norvegicus* | IV |\n| Faneca-Noruega | *Trisopterus esmarki* | IV |\n| Camarões árctico | *Pandalus borealis* | IV |\n| Solha | *Pleuronectes platessa* | IV, VII d |\n| Escamudo | *Pollachius virens* | IV, VII d |\n| Galeota | *Ammodytae* | IV |\n| Linguado | *Solea solea* | IV, VII d |\n| Espadilha | *Sprattus sprattus* | IV, VII d |\n| Pregado | *Psetta maxima* | IV, VII d |\n| Badejo | *Merlangius merlangus* | IV, VII d |\n| Tamboril | *Lophiidae* | IV, VII d |\n| Argentinas | *Argentinidae* | IV |\n| Maruca azul | *Molva dypterigia* | IV |\n| Cantarilho legítimo | *Helicolenus dactylopterus* | IV |\n| Peixe-lobo | *Anarhichas lupus* | IV |\n| Solha escura do mar do Norte | *Limanda limanda* | IV, VII d |\n| Tubarão do alto mar |  | IV |\n| Abrótea | *Phycis spp*. | IV |\n| Alabote da Gronelândia | *Reinhartius hippoglossoides* | IV |\n| Pescada | *Merluccius merluccius* | IV, VII d |\n| Carapau branco | *Trachurus spp*. | IV, VII d |\n| Solha-limão | *Microstomus kitt* | IV, VII d |\n| Maruca | *Molva macrophtalma* | IV |\n| Areeiro | *Lepidorhombus spp*. | IV, VII d |\n| Raias | *Rajidae* | IV, VII d |\n| Lagartixa de cabeça áspera | *Macrourus berglax* | IV |\n| Salmão | *Salmo salar* | IV |\n| Robalo | *Dicentrarchus spp*. | IV, VII d |\n| Peixes vermelhos | *Sebastes spp*. | IV |\n| Tubarões pequenos |  | IV, VII d |\n| Galhudos | *Squalus acanthias* | IV, VII d |\n| Bolota | *Brosmius brosme* | IV |\n| Solhão | *Glyptocephalus cynoglosus* | IV |\n| Nordeste do Atlântico e Oeste do canal da Mancha [áreas CIEM II, V, VI, VII (excluindo d), VIII, IX, X, XII, XIV] |  |  |\n| Biqueirão | *Engraulis encrasicolus* | VIII/IX a |\n| Tamboril | *Lophidae* | V b, VI, XII, XIV/VII, VIII abde/VIII c, IX, X |\n| Verdinho | *Micromesistius potassou* | I-IX, XII, XIV |\n| Bacalhau | *Gadus morhua* | VI a, VI b, VII a, VII bc, VII efg, VII hjk, VIII, IX, X, XII, XIV |\n| Arinca | *Melanogrammus aeglefinus* | V b, VI, XII, XIV/VI a, VI b, VII a, VII, VIII, IX, X |\n| Pescada | *Merluccius merluccius* | III a, IV, VI, VII, VIII ab/VIII c, IX a |\n| Arenque | *Clupea harengus* | VI a, VII abcj, |\n| Carapau branco | *Trachurus spp*. | II a, IV a, V, VI, VII, VIII, IX |\n| Sarda | *Scomber scombrus* | II, III a, IV, V, VI, VII, VIII, IX |\n| Areeiro | *Lepidorhombus spp*. | V b, VI, XII, XIV, VII, VIII abcde, IX, X |\n| Lagostim da Noruega | *Nephrops norvegicus* | V b, VI, VII a (não 33E2-E5), VII bcdejk, VIII abde/VIII c, IX, X |\n| Solha | *Pleuronectes platessa* | VII a/VII e/VII fg/VII bc, VII hjk, VIII, IX, X |\n| Juliana | *Pollachius pollachius* | Todas as áreas |\n| Raias | *Rajidae* | Todas as áreas |\n| Cantarilho do norte | *Sebastes spp*. | V a, XII, XIV |\n| Escamudo | *Pollachius virens* | V b, VI, XII, XIV/VII, VIII, IX, X |\n| Sardinha | *Sardina pilchardus* | VIII, IX |\n| Linguado | *Solea solea* | VII a/VII e/VII fg/VIII ab/VII bc, VII hjk, IX a |\n| Badejo | *Merlangius merlangus* | V b, VI, XII, XIV, VII a, VII b-k, VIII/IX |\n| Solhão | *Gyptocephalus cynoglossus* | VI, VII |\n| Imperadores | *Beryx spp*. | Todas as áreas |\n| Argentinas | *Argentina sphyraena* | Todas as áreas |\n| Maruca azul | *Molva dypterigia* | Todas as áreas |\n| Cantarilho | *Helicolenus dactylopterus* | Todas as áreas |\n| Capelim | *Mallotus villotus* | XIV |\n| Congro vulgar | *Conger conger* | Todas as áreas |\n| Caranguejo | *Cancer pagurus* | Todas as áreas |\n| Raia «Cukoo» | *Leucoraja naevus* | Todas as áreas |\n| Choco | *Sepia officinalis* | Todas as áreas |\n| Abróteas | *Physis spp*. | Todas as áreas |\n| Alabote da Gronelândia | *Reinhartius hippoglossoides* | V a, XII, XIV |\n| Carapau branco | *Trachurus spp*. | VIII, IX |\n| Solha limão | *Microstomus kitt* | Todas as áreas |\n| Maruca | *Molva dypterigia* | Todas as áreas |\n| Lagosta | *Homarus gammarus* | Todas as áreas |\n| Corvina | *Argyrosoma regium* | Todas as áreas |\n| Carapau-branco-do-Mediterrâneo | *Trachurus mediterraneus* | VIII, IX |\n| Polvo | *Octopus vulgaris* | Todas as áreas |\n| Olho-de-vidro-laranja | *Hoplostethus atlanticus* | Todas as áreas |\n| Outras espécies de profundidade |  | Todas as áreas |\n| Faneca | *Trisopterus esmarkii* | Todas as áreas |\n| Longueirão | *Solen spp*. | Todas as áreas |\n| Salmonete legítimo | *Mullus barbatus* | Todas as áreas |\n| Lagartixa da rocha | *Coryphaenoides rupestris* | Todas as áreas |\n| Salmão | *Salmo salar* | Todas as áreas |\n| Peixe-espada | *Lepidopus caudatus* | Todas as áreas |\n| Leques | *Pecten spp*. | Todas as áreas |\n| Robalo | *Dicentrarchus labrax* | Todas as áreas |\n| Goraz | *Sparidae* | Todas as áreas |\n| Camarão | *Pandalus borealis, Penaeus spp*. | Todas as áreas |\n| Cavala comum | *Scomber japonicus* | VIII, IX |\n| Galhudo | *Squalus spp*. | Todas as áreas |\n| Lulas | *Loligo vulgaris* | Todas as áreas |\n| Língua | *Microchirus variegatus* | Todas as áreas |\n| Búzios | *Busycon spp*. | Todas as áreas |\n| Cherne | *Polyprion americanus* | X |\n| Mediterrâneo |  |  |\n| Biqueirão | *Engraulis encrasicolus* | 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 |\n| Tamboril (dois sp.) | *Lophius piscatorius, L. budegasa* | 1.1, 1.3, 2.2, 3.1 |\n| Pescada | *Merluccius merluccius* | 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 |\n| Lagostim da Noruega | *Nephrops norvegicus* | 1.3, 2.1, 2.2, 3.1 |\n| Salmonete legítimo (dois sp.) | *Mullus surmuletus, M. barbatus* | 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 |\n| Camarão vermelho (dois sp.) | *Aristeus antennatus, Aristeomorpha foliacea* | 1.1, 1.3, 2.2, 3.1 |\n| Sardinha | *Sardina pilchardus* | 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 |\n| Camarão branco | *Penaeus spp*. | 1.1, 1.3, 2.2, 3.1 |\n| Boga do mar | *Boops boops* | 3, 1 |\n| Clame | *Veneridae (Callista spp., Ruditapes spp.)* | 2.1, 2.2 |\n| Choco | *Sepia officinalis* | 1.3, 2.1, 3.1 |\n| Carapau branco | *Trachurus trachurus* | 1.1, 1.3, 3.1 |\n| Sarda | *Scomber scombrus* | 1.3, 2.2, 3.1 |\n| Eledone sp. | *E. cirrhosa, E. moschata* | 1.3, 2.1, 2.2, 3.1 |\n| Polvo | *Octopus vulgaris* | 1.1, 1.3, 2.2, 3.1 |\n| Pagellus sp. | *Pagellus sp*. | 1.1, 1.2, 2.1, 2.2, 3.1 |\n| Raias | *Rajidae* | 1.3, 2.1, 2.2, 3.1 |\n| Lula | *Loligo vulgaris* | 1.3, 2.2, 3.1 |\n| Verdinho | *Micromesistius potassou* | 1.1, 3.1 |\n| Dourada | *Sparus aurata* | 1.2, 3.1 |\n| Linguado | *Solea solea* | 1.2, 2.1, 3.1 |\n| Robalo | *Dicentrarchus labrax* | 1, 2 |\n| Mugilídeos | *Mugilidae* | 1.3, 2, 3.1 |\n| Trombeiros | *Spicara spp*. | 1.3, 2.2, 3.1 |\n| Esparídeos | *Diplodus spp*. | 1.3, 2.2, 3.1 |\n| Lagostim «Caramote» | *Penaeus kerathurus* | 1.3, 2, 3.1 |\n| Triglídeos | *Trigla spp*. | 1.3, 2.2, 3.1 |\n| Áreas NAFO |  |  |\n| Bacalhau | *Gadus morhua* | 2J2KL/3M/3NO/3Ps/ |\n| Alabote da Gronelândia | *Reinharditius hippoglosus* | 3KLMNO/ID |\n| Cantarilho do norte | *Sebastes spp*. | 3M/3LNO/Sa 1 |\n| Camarão | *Pandalus spp*. | 3M/3LN |\n| Solha americana | *Hippoglossoides platessoides* | 3LNO/3M |\n| Granadeiros | *Macrouridae* | SA 2 + 3 |\n| Raias | *Raja spp*. | SA 3 |\n| Solhão | *Glyptocephalus cynoglossus* | 3NO |\n| Solha dos mares do norte | *Limanda ferruginea* | 3LNO |\n| Espécies altamente migratórias |  |  |\n| Espadarte | *Xiphias gladius* | Oceano Atlântico/oceano Índico/oceano Pacífico/Mediterrâneo |\n| Atum albacora; gaiado; atum patudo, voador e rabilho | *Thunnus albacares; Katsuwonus pelamis: T. obesus; T. alalunga; T. thynnus* | Oceano Atlântico/oceano Índico/oceano Pacífico/Mediterrâneo |\n| Veleiros |  | Oceano Atlântico/oceano Índico/oceano Pacífico/Mediterrâneo |\n| Garupa, bonito e judeu | *Euthynnus, Sarda, Auxix* | Oceano Atlântico/oceano Índico/oceano Pacífico/Mediterrâneo |\n| Tubarões |  | Oceano Atlântico/oceano Índico/oceano Pacífico/Mediterrâneo |\n| CECAF FAO 34 |  |  |\n| Pescadas | *Merluccius spp*. | ATL. EC |\n| Polvo | *Octopus vulgaris* | Marrocos-Senegal |\n| Gamba branca | *Parapenaeus longirostris* | Marrocos-Guiné B. |\n| Camarão rosado do sul | *Penaeus notialis* | Mauritânia |\n| Sardinha | *Sardina pilchardus* | Mauritânia, Atl EC |\n| Peixe-espada preto | *Aphanopus carbo* | Madeira |\n| Biqueirão | *Engraulis encrasicolus* | Marrocos |\n| Peixe-espada | *Lepidopus caudatus* | Mauritânia |\n| Lula | *Loligo vulgaris* | ATL. EC |\n| Sarrajão | *Sarda sarda* | Mauritânia |\n| Sardinha lombuda | *Sardinella aurita* | Mauritânia, Atl EC |\n| Sardinha da Madeira | *Sardinella maderensis* | Mauritânia, Atl EC |\n| Cavala | *Scomber japonicus* | Madeira, Marrocos, Mauritânia |\n| Choco | *Sepia hierredda* | ATL. EC |\n| Esparídeos, serranídeos e roncadores | *Sparidae, Serranidae, Haemulidae* | ATL. EC |\n| Carapau negrão | *Trachurus picturatus* | Madeira |\n| Carapau branco | *Trachurus trachurus* | Mauritânia, Marrocos |\n| Carapau do Cunene | *Trachurus trecae* | Mauritânia, Marrocos |\n| Peixe-espada e lírios | *Trichiuridal* | Marrocos |\n| WECAF |  |  |\n| Luciano vermelho | *Lutianus purpureus* | Departamento da Guiana Francesa ZEE |\n| Camarão boreal | *Penaeus subtilis* | Departamento da Guiana Francesa ZEE |\n| CCAMLR FAO 58 |  |  |\n| Peixe-gelo do Antárctico | *Champsoccephalus gunnari* | FAO 58.5.2 Antárctico |\n| Marlongo negra | *Dissostichus eleginoides* | FAO 58.5.2 Antárctico |\n| Lagartixas e granadeiros | *Macrouridae* | FAO 58.5.2 Antárctico |\n| Nototénia escamuda | *Notothenia squamifrons* | FAO 58.5.2 Antárctico |\n| Raias | *Raja spp*. | FAO 58.5.2 Antárctico |\n| Atlântico do Sudoeste |  |  |\n| Marlonga negra | *Dissostichus e*. | Argentina, Falklands FAO 41 |\n| Abadejo rosado | *Genypterus blacodes* | Argentina, Falklands FAO 41 |\n| Pota-argentina | *Illex argentinus* | Argentina, Falklands FAO 41 |\n| Lula da Patagónia | *Loligo gahi* | Argentina, Falklands FAO 41 |\n| Lagartixas | *Macrourus sp*. | Argentina, Falklands FAO 41 |\n| Granadeiro da Patagónia | *Macruronus m*. | Argentina, Falklands FAO 41 |\n| Pescada da Nova Zelândia | *Merluccius australis* | Argentina, Falklands FAO 41 |\n| Pescada da Argentina | *Merluccius hubbsi* | Argentina, Falklands FAO 41 |\n| Verdinho austral | *Micromesistius a*. | Argentina, Falklands FAO 41 |\n| Nototénia da Patagónia | *Notothenia* | Argentina, Falklands FAO 41 |\n| Bacalhau austral | *Salilota a*. | Argentina, Falklands FAO 41 |\n| Angola |  |  |\n| Camarão vermelho listado | *Aristeus varidens* | Angola FAO 47 |\n| Gamba branca | *Parapenaeus l*. | Angola FAO 47 |\n| Camarões «Penaeus» | *Penaeus spp*. | Angola FAO 47 |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "099ca1808a498f04": {
+   "fragment_id": "Áreas geográficas referidas no anexo I",
+   "type": "divisao",
+   "heading": "Áreas geográficas referidas no anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Áreas geográficas referidas no anexo I\n\n— Mar Báltico, excluindo o Kattegat\n\n— Kattegat e Skagerrak\n\n— Mar do Norte, incluindo o Leste do canal da Mancha e a área II, excluindo o Skagerrak\n\n— Área do Nordeste do Atlântico e Oeste do canal da Mancha\n\n— Área reguladora NAFO\n\n— Outras áreas do oceano Atlântico\n\n— Mar Mediterrâneo\n\n— Oceano Índico\n\n— Oceano Pacífico\n\n— Oceano Antárctico"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "db7f71d64d9132a8": {
+   "fragment_id": "Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa mínimo)",
+   "type": "divisao",
+   "heading": "Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa mínimo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Dados para o acompanhamento económico das empresas de pesca e da indústria de transformação (programa mínimo)\n\n| Rubrica de contabilidade (tipos de dados) | Especificações |\n| --- | --- |\n| Rendimento (volume de negócios) | Total e por espécies |\n| Custos de produção: — tripulação — combustível — reparações e manutenção — outros custos operacionais | Total e por categoria de custo |\n| Custos fixos | Custo médio, calculado a partir do investimento |\n| Posição financeira | Repartição de capital próprio, emprestado |\n| Investimento | — Histórico — Substituição — Seguro |\n| Preços/espécies [(^1^)](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#E0015) | Valor/tonelada |\n| Emprego | Tempo inteiro, tempo parcial (equivalentes em tempo inteiro) |\n| (^1^)Recolhidos numa base trimestral em todo o lado. Agregados a nível regional no Mediterrâneo. |  |\n\nRubrica de contabilidade (tipos de dados) Especificações\n\nMatéria-prima Total e por espécies (em toneladas)\n\nRendimento (volume de negócios) Total e por produto\n\nCustos de produção: — trabalho — energia — matéria-prima (valor) — embalagem — outros custos de funcionamento Total e por categoria de custo\n\nCustos fixos Custos médios, calculados a partir do investimento\n\nPosição financeira Repartição de capital próprio, emprestado\n\nInvestimento — Custo de aquisição — Custo de substituição — Despesas de seguro\n\nPreços/produto Valor/tonelada\n\nEmprego Números (equivalentes em tempo inteiro)\n\nUtilização da capacidade Média anual\n\n---"
+  },
+  "e527fd61ed8cd257": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0001)) JO C 375 E de 28.12.1999, p. 54.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0002)) Parecer emitido em 2 de Março de 2000 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0003)) JO L 389 de 31.12.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1181/98 (JO L 164 de 9.6.1998, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0004)) JO L 388 de 31.12.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3318/94 (JO L 350 de 31.12.1994, p. 15).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0005)) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2346/98 (JO L 358 de 31.12.1998, p. 5).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0006)) JO L 71 de 31.3.1995, p. 5.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0007)) JO L 113 de 30.4.1997, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0008)) JO L 17 de 21.1.2000, p. 22.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0009)) JO L 266 de 1.10.1998, p. 27.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0010)) JO L 266 de 1.10.1998, p. 36.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0011)) JO L 266 de 1.10.1998, p. 47.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0012)) JO L 68 de 22.3.1971, p. 18. Decisão com a última redacção que lhe foi dada pela Decisão 1999/478/CE (JO L 187 de 20.7.1999, p. 70).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0013)) Ver página 42 do presente Jornal Oficial.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/57b680a9-02bc-4af6-8b66-01c97826757c.0018.03/DOC_1#src.E0014)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "a39a0d89ea65cae1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000R1543 — PT — 01.01.2009 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32000R1543) [REGULAMENTO (CE) N.º 1543/2000 DO CONSELHO](http://publications.europa.eu/resource/celex/32000R1543) [de 29 de Junho de 2000](http://publications.europa.eu/resource/celex/32000R1543) [que institui um quadro comunitário para a recolha e a gestão dos dados essenciais à condução da política comum da pesca](http://publications.europa.eu/resource/celex/32000R1543) (JO L 176, 15.7.2000, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 199/2008 do Conselho de 25 de Fevereiro de 2008](http://publications.europa.eu/resource/celex/32008R0199) — L 60 — 1 — 5.3.2008"
+  }
+ }
+}

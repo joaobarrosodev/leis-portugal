@@ -1,0 +1,209 @@
+---
+schema_version: '1.0'
+id: pt:dre:471504:por
+title: Decreto-Lei n.º 576/74
+short_title: null
+summary: Introduz alterações na orgânica da Direcção-Geral das Contribuições e Impostos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 576/74
+official_date: null
+publication_date: '1974-11-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 257/1974, Série I de 1974-11-05
+  number: '257'
+  series: I
+  supplement: null
+  pages: 1315 - 1317
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/11/25700/13151317.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471504'
+  dre_path: /dr/detalhe/decreto-lei/576-1974-471504
+  internal: pt:dre:471504:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1974-471504
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1974-471504
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:35:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ec547522c21f91126479e8ea11933097f8422e4da24a1309f5d3c8fbc194841b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral das Contribuições e Impostos
+- Extinção de Serviços
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:670001:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271226:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:507619:por
+  label: "Revogado o art. 6º pelo DEC LEI.132/76.17.02.1976.MF, DG.IS [40] de 17.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1976-507619
+  date: '1976-02-17'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:35:12Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 576/74
+
+de 5 de Novembro
+
+1. Entre as diferentes tarefas que se podem enquadrar na primeira fase dos estudos conducentes à reforma do sistema fiscal português figura a resolução imediata de alguns problemas que se julgam mais urgentes, respeitantes aos funcionários dos serviços fiscais.
+
+2. Os serviços da administração fiscal encontram-se numa situação de crise orgânica e de meios humanos e técnicos que os tornam impotentes para o desempenho das funções que lhes estão atribuídas e os incapacita para suportar as exigências de uma futura reforma do sistema fiscal.
+
+A solução dessa crise impõe a reorganização profunda dos serviços, em todos os seus escalões, a modificação completa dos métodos de trabalho e a instalação do necessário equipamento técnico. Todavia, esses objectivos só poderão ser alcançados após intensos estudos sobre a realidade dos serviços com vista à procura das soluções correctas. Isso poderá implicar, inclusivamente, a realização de algumas experiências, antes de passar as ideias à letra da lei.
+
+3. A par disso, é indispensável que essa reestruturação assente na participação activa e permanente de todos os funcionários, pondo em prática uma filosofia democrática na vida dos serviços. Como primeiro passo no caminho da democratização, institucionaliza-se, desde já, a representação dos funcionários em actos e decisões que possam afectar os seus direitos e prevê-se a sua intervenção directa nos trabalhos que hão-de conduzir à futura reorganização dos serviços.
+
+4. Nesta ordem de ideias, e tendo por objectivo eliminar algumas deficiências e anomalias mais gritantes no tocante à orgânica dos serviços e à situação de algumas classes do pessoal das contribuições e impostos, são tomadas neste diploma algumas medidas consideradas prioritárias, entre as quais se destacam:
+
+a) A institucionalização de um serviço - a Direcção dos Serviços de Pessoal e Organização - onde os problemas de gestão do pessoal e de organização e funcionamento dos serviços passam a ser tratados sob uma perspectiva global e integrada;
+
+b) A colegialidade nas importantes decisões que afectam a personalidade e os direitos dos funcionários perante os interesses e necessidades dos serviços (recrutamento, formação profissional, selecção, classificação, movimentação), com a representação de cada uma das classes interessadas num órgão paritário;
+
+c) A unificação nas categorias de aspirante e de escriturário e facilidades de acesso na carreira profissional para os funcionários que possuam a necessária capacidade;
+
+d) A eliminação das restrições actuais ao recrutamento e acesso de pessoal feminino;
+
+e) A intenção de fazer participar todos os funcionários no imperioso processo de reorganização dos serviços.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Enquanto não forem reestruturados os serviços da administração fiscal, são introduzidas na actual orgânica as correcções constantes deste diploma que alteram, na parte correspondente, os preceitos legais presentemente em vigor.
+
+Art. 2.º - 1. É criada na Direcção-Geral das Contribuições e Impostos a Direcção dos Serviços de Pessoal e Organização, composta por duas divisões: de Gestão de Pessoal e de Organização e Funcionamento.
+
+a) Compete à divisão de Gestão de Pessoal o estudo, coordenação e execução da política de pessoal, nomeadamente o recrutamento, a preparação profissional, a selecção, a promoção, a classificação e a movimentação, bem como o exercício da acção relativa aos direitos e deveres dos funcionários;
+
+b) Compete à divisão de Organização e Funcionamento o estudo da racionalização das estruturas e dos métodos e condições de trabalho, a orientação e coordenação da actividade dos serviços e o contrôle da sua produtividade e eficiência e, ainda, a preparação do orçamento, o processamento de dotações e abonos, o apetrechamento dos serviços e o arquivo.
+
+2. O director dos Serviços de Pessoal e os chefes das respectivas divisões são de livre nomeação do Secretário de Estado do Orçamento.
+
+3. São extintos os serviços denominados Repartição Central, Repartição de Organização e Métodos, Inspecção do Ministério Público e Serviço de Preparação Profissional, considerando-se as suas atribuições integradas nas da Direcção dos Serviços de Pessoal e Organização.
+
+4. A movimentação, promoção ou qualquer outra mudança da situação pessoal dos funcionários, bem como a apreciação dos recursos sobre a classificação do mérito profissional, a aprovação dos critérios de selecção, a respectiva classificação e ainda a aprovação dos programas de preparação profissional passam a competir a um conselho de gestão presidido pelo director dos Serviços de Pessoal e Organização e tendo como vogais os chefes das divisões de Gestão de Pessoal e de Organização e Funcionamento, um juiz dos tribunais das contribuições e impostos e três representantes dos funcionários por eles designados para cada uma das classes. Das deliberações do conselho cabe recurso para o director-geral e deste para o Secretário de Estado do Orçamento.
+
+5. O disposto no número anterior não prejudica quaisquer decisões que tiverem de ser tomadas por conveniência justificada de serviço, das quais caberá sempre recurso hierárquico.
+
+6. Das informações e consequentes classificações sobre o mérito profissional será sempre dado conhecimento aos respectivos funcionários, que delas poderão recorrer para o conselho de gestão.
+
+7. Os representantes dos funcionários no conselho de gestão serão sempre convocados para as sessões pelo respectivo presidente, considerando-se deslocados em comissão de serviço quando não pertençam aos quadros dos serviços da cidade de Lisboa.
+
+Art. 3.º No recrutamento, promoção, selecção, preparação e situação dos funcionários da Direcção-Geral das Contribuições e Impostos são introduzidas as seguintes alterações:
+
+1.ª Sem prejuízo da obrigatoriedade do estágio a que se refere o artigo 3.º do [Decreto-Lei n.º 48405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48405-1968-271226), de 29 de Maio de 1968, haverá uma só categoria de aspirante de finanças, à qual passam automaticamente os actuais aspirantes concursados e do 1.º e 2.º graus.
+
+2.ª Passa a existir uma só categoria de escriturário-dactilógrafo com o vencimento correspondente à letra S do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, para a qual transitam os funcionários das categorias de escriturário-dactilógrafo de 1.ª e 2.ª classes que se consideram extintas.
+
+3.ª Os escriturários-dactilógrafos e outros funcionários que possuam o curso geral dos liceus ou equivalente podem, mediante requerimento dirigido ao Secretário de Estado do Orçamento, ser nomeados aspirantes de finanças, na situação de estagiários.
+
+4.ª O recrutamento para o lugar de escriturário-dactilógrafo é feito entre indivíduos de idade não inferior a 18 anos nem superior a 35 anos, com a habilitação da 6.ª classe ou equivalente e que tenham sido aprovados no respectivo concurso.
+
+5.ª O vencimento correspondente à categoria de aspirante de finanças é o da letra P do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, ou o da letra Q enquanto durar o período de estágio.
+
+6.ª Enquanto não forem fixadas as novas normas da preparação e selecção do pessoal, continuam a ser ministradas, nas condições actuais, as matérias do curso de preparação para a categoria de secretário de finanças, sem necessidade de exames de passagem, ficando a nomeação para secretário de finanças apenas condicionada a exame final, ao qual poderão concorrer todos os aspirantes com, pelo menos, três anos de serviço.
+
+7.ª Considera-se suspensa a exigência do exame de admissão ao curso de preparação para a categoria de secretário de finanças prevista no artigo 3.º do [Decreto-Lei n.º 48405](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48405-1968-271226), de 29 de Maio de 1968, ficando a nomeação definitiva para o lugar de aspirante dependente da prestação de um ano de serviço e de parecer favorável do conselho de gestão.
+
+8.ª O vencimento respeitante às categorias de secretário de finanças e técnico verificador de 3.ª classe é o correspondente à letra N do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+
+9.ª Os lugares de subdirector e de reverificador são equiparados para efeito de categoria e vencimento, sendo a sua nomeação feita, sob proposta do director-geral depois de ouvido o conselho de gestão acerca do mérito do respectivo curriculum vitae, entre os secretários de finanças e técnicos informadores de 1.ª classe quanto aos primeiros e entre os técnicos verificadores de 1.ª classe quanto aos segundos.
+
+10.ª O Secretário de Estado do Orçamento poderá admitir com dispensa de exame, para os lugares de entrada, os deficientes das forças armadas considerados idóneos e aptos para o exercício das respectivas funções e atribuir-lhes preferência na nomeação para quaisquer lugares que dependam apenas de concurso documental.
+
+11.ª São suprimidas as restrições existentes na lei quanto ao acesso do pessoal feminino a quaisquer lugares.
+
+12.ª A obrigatoriedade de transferência por sexénio poderá deixar de ser aplicada quando a conveniência do serviço o justifique.
+
+13.ª Os actuais aspirantes e escriturários na situação de provisórios ou supranumerários passam para todos os efeitos à situação de nomeação definitiva, contando-se-lhes todo o tempo de serviço prestado e continuando nos lugares que presentemente ocupam ou sendo colocados nos serviços onde existam vagas, conforme o ajustamento dos quadros previstos no artigo 8.º
+
+14.ª É extinta a categoria de auxiliar de desenho, transitando os funcionários nela integrados para o quadro de escriturários-dactilógrafos
+
+15.ª Os indivíduos, com menos de 70 anos de idade, que, à data da publicação deste diploma, venham efectuando regularmente, com boas informações, tarefas previstas na organização da Direcção-Geral das Contribuições e Impostos serão integrados nos quadros deste departamento, segundo as funções que desempenhem, nos moldes redefinidos pelo presente decreto-lei.
+
+16.ª Os escriturários-dactilógrafos, auxiliares de desenho e os funcionários referidos no número anterior que, à data da publicação deste diploma, possuam o curso geral dos liceus ou equivalente, ou tenham completado seis anos de serviço, quando habilitados com a 6.ª classe ou equivalente, serão admitidos a um concurso extraordinário ao lugar de terceiro-oficial a abrir no prazo de três meses.
+
+Art. 4.º Os candidatos admitidos nos termos dos artigos 64.º e 65.º da Organização da Direcção-Geral das Contribuições e Impostos que não se apresentem a assumir funções, dentro do prazo de quinze dias, nos serviços para que forem designados, conforme aviso a publicar no Diário do Governo, serão considerados como desistentes da nomeação efectiva e excluídos das respectivas listas de classificação nos concursos, cessando automaticamente as funções que venham executando.
+
+Art. 5.º Os serviços de contacto com o público nas repartições de finanças passam a encerrar, a título experimental, às 16 horas, sendo reservado o tempo restante de funcionamento normal para os trabalhos internos. Exceptuam-se os períodos de especial acumulação de utentes nas repartições, em que o serviço do público se prolongará pelo tempo indispensável, e ressalva-se a possibilidade de suspensão deste regime por despacho do Secretário de Estado do Orçamento, se se verificar que da sua execução resultam inconvenientes graves para os serviços ou para os contribuintes.
+
+Art. 6.º Os indivíduos que, tendo desempenhado na Direcção-Geral das Contribuições e Impostos funções de aspirantes e escriturários, a título provisório ou supranumerário, as interromperam por virtude da prestação de serviço militar são readmitidos logo que o requeiram, na situação em que se encontravam à data da cessação de funções.
+
+Art. 7.º Os estudos da reorganização dos serviços de administração fiscal deverão ser efectuados por forma que todos os funcionários neles possam participar, quer através da sua intervenção no debate dos problemas, quer pela apresentação de sugestões ou trabalhos escritos de iniciativa pessoal.
+
+Art. 8.º O Secretário de Estado do Orçamento poderá fixar ou alterar, por portaria, os quadros e os serviços necessários à execução do presente diploma até à reestruturação dos serviços tributários, bem como os respectivos regulamentos, esclarecer, por despacho, todas as dúvidas que ocorrerem sobre a sua interpretação e estabelecer as condições de transição entre as várias categorias do quadro geral ou entre as categorias deste e as dos quadros especiais, ou as dos quadros especiais entre si. Poderá ainda, extraordinariamente, reduzir ou dispensar o tempo de serviço em qualquer classe para o acesso à classe imediata, quando os interesses dos serviços o justifiquem.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
+
+Promulgado em 21 de Outubro de 1974.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

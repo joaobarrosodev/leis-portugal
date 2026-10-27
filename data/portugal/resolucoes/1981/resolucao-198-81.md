@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:575903:por
+title: Resolução n.º 198/81
+short_title: null
+summary: Nomeia para vice-presidente do conselho de gestão do Banco de Fomento Nacional Eurico Macedo Ferreira Nunes
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 198/81
+official_date: null
+publication_date: '1981-08-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 191/1981, Série I de 1981-08-21
+  number: '191'
+  series: I
+  supplement: null
+  pages: 2166 - 2166
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/08/19100/21662166.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '575903'
+  dre_path: /dr/detalhe/resolucao/198-1981-575903
+  internal: pt:dre:575903:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/198-1981-575903
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/198-1981-575903
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:39:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8d9264638503c11fae49ef06451a73ba87bd3026e87205bce08560f59e247578
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Banco de Fomento Nacional
+- Conselho de Gestão
+- Nomeação
+- Vice-presidente
+relationships:
+- type: cites
+  target: pt:dre:307235:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:39:01Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 198/81
+
+Ao abrigo do disposto no artigo 11.º do [Decreto-Lei n.º 729-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-f-1975-307235), de 22 de Dezembro, e ouvida a respectiva comissão de trabalhadores:
+
+O Conselho de Ministros, reunido em 13 de Agosto de 1981, resolveu nomear para vice-presidente do conselho de gestão do Banco de Fomento Nacional Eurico Macedo Ferreira Nunes, que exercia funções de vogal do conselho de gestão do Banco Pinto & Sotto Mayor.
+
+Presidência do Conselho de Ministros, 13 de Agosto de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

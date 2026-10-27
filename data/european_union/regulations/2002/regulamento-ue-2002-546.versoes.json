@@ -1,0 +1,215 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002R0546:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R0546-20111211",
+ "dre_path": null,
+ "source_lastmod": "2011-12-11",
+ "versions": [
+  {
+   "date": "2002-03-28",
+   "future": false,
+   "celex": "32002R0546",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3479f193b9f3faa1",
+    "62721be69aa01269",
+    "f19f9646331f50e1",
+    "497d3f3f153406fd",
+    "66a0a769b7647c72",
+    "821be9afa2e14cfa",
+    "6a57679f9f5c53ba"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "02002R0546-20040501",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1782:por",
+     "title": "REGULAMENTO (CE) N. o 1782/2003 DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1782"
+    },
+    {
+     "id": null,
+     "title": "►A1",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita Notas",
+    "Suprime ANEXO I — PRÉMIOS PARA OS TABACOS EM FOLHA DAS COLHEITAS DE 2002, 2003 E 2004",
+    "Suprime ANEXO II — LIMIARES DE GARANTIA PARA A COLHEITA DE 2002"
+   ],
+   "fragments": [
+    "25d688d590f1c176",
+    "31a6b130a4169d0b",
+    "32a8edbcfa01b745",
+    "534646a376150d22",
+    "f928957baf85d412",
+    "e3303f3f7aec8653",
+    "51b13d6179368070",
+    "0e42472d17814767"
+   ]
+  },
+  {
+   "date": "2011-12-11",
+   "future": false,
+   "celex": "02002R0546-20111211",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "0d11e5e471d4c8cd"
+   ]
+  }
+ ],
+ "fragments": {
+  "3479f193b9f3faa1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 546/2002 do Conselho, de 25 de Março de 2002, que fixa os prémios e os limiares de garantia para o tabaco em folha, por grupo de variedades e por Estado-Membro, para as colheitas de 2002, 2003 e 2004 e que altera o Regulamento (CEE) n.° 2075/92** *Jornal Oficial nº L 084 de 28/03/2002 p. 0004 - 0007*\n\nRegulamento (CE) n.o 546/2002 do Conselho\n\nde 25 de Março de 2002\n\nque fixa os prémios e os limiares de garantia para o tabaco em folha, por grupo de variedades e por Estado-Membro, para as colheitas de 2002, 2003 e 2004 e que altera o Regulamento (CEE) n.o 2075/92\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.o e 37.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando o seguinte:\n\n(1) O artigo 4.o do Regulamento (CEE) n.o 2075/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector do tabaco em rama(4), prevê a fixação do montante dos prémios e dos montantes suplementares, tendo em conta as possibilidades de escoamento passadas e previsíveis, para os diferentes tipos de tabaco, em condições normais de concorrência. É conveniente fixar o nível dos prémios e ligá-los aos limiares de garantia fixados para os anos 2002, 2003 e 2004.\n\n(2) Em aplicação do segundo parágrafo do artigo 8.o e do n.o 2 do artigo 9.o do Regulamento (CEE) n.o 2075/92, há que fixar o nível dos limiares de garantia por grupo de variedades e por Estado-Membro para as colheitas de 2002, 2003 e 2004, tendo em conta, nomeadamente, as condições de mercado e as condições socioeconómicas e agronómicas das zonas de produção em questão. Essa fixação deve ser realizada atempadamente, para permitir aos produtores planificarem a sua produção para as colheitas supracitadas.\n\n(3) O n.o 5 do artigo 6.o do Regulamento (CEE) n.o 2075/92 prevê que os Estados-Membros poderão aplicar um sistema de leilão aos contratos de cultura. Nos termos das disposições actualmente em vigor, se esse sistema for aplicado, deve abranger o conjunto dos grupos de variedades de tabaco produzidos num Estado-Membro. O sistema não foi aplicado até agora, porque os Estados-Membros consideram que os leilões só se justificariam em relação a determinados grupos de variedades e em relação a contratos dos grupos de produtores que manifestem interesse. Para incentivar o recurso aos leilões como meio de fazer aumentar o preço comercial do tabaco em rama, é conveniente adaptar as disposições regulamentares, assegurando maior flexibilidade, de modo a permitir aos Estados-Membros limitarem a aplicação deste mecanismo a alguns grupos de variedades e aos grupos de produtores que queiram participar nesse mecanismo.\n\n(4) A reserva nacional de quotas instituída pelo n.o 5 do artigo 9.o do Regulamento (CEE) n.o 2075/92 não permitiu atingir os objectivos de reconversão dos produtores e de reestruturação das explorações para que fora criada. A aplicação no plano nacional, nomeadamente os critérios de redistribuição dessa reserva estabelecidos pelos Estados-Membros e a fraca percentagem de quantidades implicadas na constituição da reserva, mostrou-se inadequada para produzir os efeitos pretendidos. Além disso, o dispositivo administrativo de gestão da reserva nacional criou uma sobrecarga de trabalho administrativo e uma complicação excessiva na gestão das quotas, que está na origem de atrasos consideráveis na distribuição destas. Deve, no entanto, permanecer aberta a possibilidade de aqueles Estados-Membros que o tenham por útil poderem recorrer a este sistema.\n\n(5) O Tratado exige que, na definição e aplicação de todas as políticas e acções comunitárias, seja assegurado um elevado nível de protecção da saúde. No âmbito da estratégia de desenvolvimento sustentável da União Europeia, há que ter em conta as consequências económicas, sociais e ambientais de todas as políticas. Por conseguinte, é aconselhável que, nas regiões de produção do tabaco em rama, sejam empreendidas acções destinadas a desenvolver fontes alternativas de rendimento e a criar novas actividades económicas para os produtores. A fim de atingir este objectivo, propõe-se alterar o campo de actividades do Fundo Comunitário do Tabaco e substituir o domínio da investigação agronómica por uma acção de apoio ao desenvolvimento de iniciativas específicas de reconversão dos produtores de tabaco para outras culturas e actividades económicas criadoras de emprego.\n\n(6) Deve igualmente aumentar-se a retenção prevista para o Fundo para 3 % em 2003, a fim de reforçar as disponibilidades orçamentais destinadas ao financiamento tanto das acções de informação sobre os efeitos nocivos do consumo de tabaco como das iniciativas de reconversão da produção. Esta última acção, que representa uma nova prioridade, poderá ser executada no plano nacional no âmbito de acções específicas de reconversão e será destinada a acompanhar e desenvolver sinergias com o programa de resgate de quotas. No que se refere à colheita de 2004, a retenção poderá, se for caso disso, aumentar até 5 %, em função da utilização da dotação do Fundo, com base num relatório a elaborar pela Comissão.\n\n(7) Há que alterar o Regulamento (CEE) n.o 2075/92 em conformidade,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "62721be69aa01269": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm relação às colheitas de 2002, 2003 e 2004, os montantes dos prémios para cada um dos grupos de tabaco em rama e os montantes suplementares referidos no artigo 3.o do Regulamento (CEE) n.o 2075/92 são fixados no anexo I do presente regulamento."
+  },
+  "f19f9646331f50e1": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEm relação às colheitas de 2002, 2003 e 2004, os limiares de garantia referidos nos artigos 8.o e 9.o do Regulamento (CEE) n.o 2075/92, por grupo de variedades e por Estado-Membro, são fixados no anexo II do presente regulamento."
+  },
+  "497d3f3f153406fd": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Regulamento (CEE) n.o 2075/92 é alterado do seguinte modo:\n\n1. O n.o 5 do artigo 6.o passa a ter a seguinte redacção: \"5. Se as suas estruturas o justificarem, o Estado-Membro poderá aplicar, aos grupos de produtores que queiram participar nessas estruturas, um sistema de leilão aos contratos de cultura, de um grupo de variedades a que se refere o n.o 1, celebrados antes da data de início da entrega do tabaco.\".\n\n2. O n.o 5 do artigo 9.o passa a ter a seguinte redacção: \"5. Os Estados-Membros produtores podem criar uma reserva nacional de quotas, cujas regras de funcionamento são aprovadas nos termos do artigo 23.o\".\n\n3. O artigo 13.o passa a ter a seguinte redacção: \"Artigo 13.o\n\n1. É criado um Fundo Comunitário do Tabaco, a seguir designado 'Fundo', financiado por uma retenção igual a:\n\n- 2 % do prémio, relativamente à colheita de 2002,\n\n- 3 % do prémio, relativamente à colheita de 2003.\n\nA Comissão deve apresentar, antes de 31 de Dezembro de 2003, um relatório sobre a utilização das dotações do Fundo, que poderá ser acompanhado de uma proposta, visando, eventualmente, no que se refere à colheita de 2004, um aumento da percentagem de retenção até 5 %.\n\n2. O Fundo financia acções nos seguintes domínios:\n\na) Incremento dos conhecimentos do público quanto aos efeitos nocivos do consumo de tabaco sob todas as suas formas, designadamente através da informação e da comunicação, apoio à recolha de dados com vista a determinar as tendências do consumo de tabaco e a elaborar estudos epidemiológicos relativos ao tabagismo à escala da Comunidade, estudo sobre a prevenção do tabagismo;\n\nb) No âmbito do programa referido no n.o 1 do artigo 14.o, acções específicas de reconversão dos produtores de tabaco em rama para outras culturas, ou outras actividades económicas criadoras de emprego, assim como estudos sobre as possibilidades de reconversão dos produtores de tabaco em rama para outras culturas ou actividades.\"."
+  },
+  "66a0a769b7647c72": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é aplicável a partir da colheita de 2002.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 25 de Março de 2002.\n\nPelo Conselho\n\nO Presidente\n\nA.M. Birulés y Bertrán\n\n(1) JO C 51 E de 26.2.2002, p. 382.\n\n(2) Parecer emitido em 14 de Março de 2002 (ainda não publicado no Jornal Oficial).\n\n(3) Parecer emitido em 20 de Fevereiro de 2002 (ainda não publicado no Jornal Oficial).\n\n(4) JO L 215 de 30.7.1992, p. 70. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1336/2000 (JO L 154 de 27.6.2000, p. 2)."
+  },
+  "821be9afa2e14cfa": {
+   "fragment_id": "ANEXO I — PRÉMIOS PARA OS TABACOS EM FOLHA DAS COLHEITAS DE 2002, 2003 E 2004",
+   "type": "divisao",
+   "heading": "ANEXO I — PRÉMIOS PARA OS TABACOS EM FOLHA DAS COLHEITAS DE 2002, 2003 E 2004",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — PRÉMIOS PARA OS TABACOS EM FOLHA DAS COLHEITAS DE 2002, 2003 E 2004\n\n>POSIÇÃO NUMA TABELA>\n\nMONTANTES SUPLEMENTARES\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "6a57679f9f5c53ba": {
+   "fragment_id": "ANEXO II — LIMIARES DE GARANTIA PARA A COLHEITA DE 2002",
+   "type": "divisao",
+   "heading": "ANEXO II — LIMIARES DE GARANTIA PARA A COLHEITA DE 2002",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — LIMIARES DE GARANTIA PARA A COLHEITA DE 2002\n\n>POSIÇÃO NUMA TABELA>\n\nLIMIARES DE GARANTIA PARA AS COLHEITAS DE 2003 E 2004\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "25d688d590f1c176": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Março de 2002\n\nque fixa os prémios e os limiares de garantia para o tabaco em folha, por grupo de variedades e por Estado-Membro, para as colheitas de 2002, 2003 e 2004 e que altera o Regulamento (CEE) n.º 2075/92\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/cfc0e2ee-bfc8-45b7-8f27-6df784c4416d.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/cfc0e2ee-bfc8-45b7-8f27-6df784c4416d.0016.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/cfc0e2ee-bfc8-45b7-8f27-6df784c4416d.0016.03/DOC_1#E0003)),\n\n(1) O artigo 4.º do Regulamento (CEE) n.º 2075/92 do Conselho, de 30 de Junho de 1992, que estabelece a organização comum de mercado no sector do tabaco em rama ([^4^](http://publications.europa.eu/resource/cellar/cfc0e2ee-bfc8-45b7-8f27-6df784c4416d.0016.03/DOC_1#E0004)), prevê a fixação do montante dos prémios e dos montantes suplementares, tendo em conta as possibilidades de escoamento passadas e previsíveis, para os diferentes tipos de tabaco, em condições normais de concorrência. É conveniente fixar o nível dos prémios e ligá-los aos limiares de garantia fixados para os anos 2002, 2003 e 2004.\n\n(2) Em aplicação do segundo parágrafo do artigo 8.º e do n.º 2 do artigo 9.º do Regulamento (CEE) n.º 2075/92, há que fixar o nível dos limiares de garantia por grupo de variedades e por Estado-Membro para as colheitas de 2002, 2003 e 2004, tendo em conta, nomeadamente, as condições de mercado e as condições socioeconómicas e agronómicas das zonas de produção em questão. Essa fixação deve ser realizada atempadamente, para permitir aos produtores planificarem a sua produção para as colheitas supracitadas.\n\n(3) O n.º 5 do artigo 6.º do Regulamento (CEE) n.º 2075/92 prevê que os Estados-Membros poderão aplicar um sistema de leilão aos contratos de cultura. Nos termos das disposições actualmente em vigor, se esse sistema for aplicado, deve abranger o conjunto dos grupos de variedades de tabaco produzidos num Estado-Membro. O sistema não foi aplicado até agora, porque os Estados-Membros consideram que os leilões só se justificariam em relação a determinados grupos de variedades e em relação a contratos dos grupos de produtores que manifestem interesse. Para incentivar o recurso aos leilões como meio de fazer aumentar o preço comercial do tabaco em rama, é conveniente adaptar as disposições regulamentares, assegurando maior flexibilidade, de modo a permitir aos Estados-Membros limitarem a aplicação deste mecanismo a alguns grupos de variedades e aos grupos de produtores que queiram participar nesse mecanismo.\n\n(4) A reserva nacional de quotas instituída pelo n.º 5 do artigo 9.º do Regulamento (CEE) n.º 2075/92 não permitiu atingir os objectivos de reconversão dos produtores e de reestruturação das explorações para que fora criada. A aplicação no plano nacional, nomeadamente os critérios de redistribuição dessa reserva estabelecidos pelos Estados-Membros e a fraca percentagem de quantidades implicadas na constituição da reserva, mostrou-se inadequada para produzir os efeitos pretendidos. Além disso, o dispositivo administrativo de gestão da reserva nacional criou uma sobrecarga de trabalho administrativo e uma complicação excessiva na gestão das quotas, que está na origem de atrasos consideráveis na distribuição destas. Deve, no entanto, permanecer aberta a possibilidade de aqueles Estados-Membros que o tenham por útil poderem recorrer a este sistema.\n\n(5) O Tratado exige que, na definição e aplicação de todas as políticas e acções comunitárias, seja assegurado um elevado nível de protecção da saúde. No âmbito da estratégia de desenvolvimento sustentável da União Europeia, há que ter em conta as consequências económicas, sociais e ambientais de todas as políticas. Por conseguinte, é aconselhável que, nas regiões de produção do tabaco em rama, sejam empreendidas acções destinadas a desenvolver fontes alternativas de rendimento e a criar novas actividades económicas para os produtores. A fim de atingir este objectivo, propõe-se alterar o campo de actividades do Fundo Comunitário do Tabaco e substituir o domínio da investigação agronómica por uma acção de apoio ao desenvolvimento de iniciativas específicas de reconversão dos produtores de tabaco para outras culturas e actividades económicas criadoras de emprego.\n\n(6) Deve igualmente aumentar-se a retenção prevista para o Fundo para 3 % em 2003, a fim de reforçar as disponibilidades orçamentais destinadas ao financiamento tanto das acções de informação sobre os efeitos nocivos do consumo de tabaco como das iniciativas de reconversão da produção. Esta última acção, que representa uma nova prioridade, poderá ser executada no plano nacional no âmbito de acções específicas de reconversão e será destinada a acompanhar e desenvolver sinergias com o programa de resgate de quotas. No que se refere à colheita de 2004, a retenção poderá, se for caso disso, aumentar até 5 %, em função da utilização da dotação do Fundo, com base num relatório a elaborar pela Comissão.\n\n(7) Há que alterar o Regulamento (CEE) n.º 2075/92 em conformidade,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "31a6b130a4169d0b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm relação às [**►M1**](http://publications.europa.eu/resource/celex/32003R1782) [**►**](http://publications.europa.eu/resource/celex/32004R0864) [**►C1**](http://publications.europa.eu/resource/celex/32004R0864R%2801%29) colheitas de 2002, 2003, 2004 e 2005,**◄** **◄** **◄** os montantes dos prémios para cada um dos grupos de tabaco em rama e os montantes suplementares referidos no artigo 3.º do Regulamento (CEE) n.º 2075/92 são fixados no anexo I do presente regulamento."
+  },
+  "32a8edbcfa01b745": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEm relação às [**►M1**](http://publications.europa.eu/resource/celex/32003R1782) [**►**](http://publications.europa.eu/resource/celex/32004R0864) [**►C1**](http://publications.europa.eu/resource/celex/32004R0864R%2801%29) colheitas de 2002, 2003, 2004 e 2005,**◄** **◄** **◄** os limiares de garantia referidos nos artigos 8.º e 9.º do Regulamento (CEE) n.º 2075/92, por grupo de variedades e por Estado-Membro, são fixados no anexo II do presente regulamento."
+  },
+  "534646a376150d22": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Regulamento (CEE) n.º 2075/92 é alterado do seguinte modo:\n\n1. O n.º 5 do artigo 6.º passa a ter a seguinte redacção:\n\n«5. Se as suas estruturas o justificarem, o Estado-Membro poderá aplicar, aos grupos de produtores que queiram participar nessas estruturas, um sistema de leilão aos contratos de cultura, de um grupo de variedades a que se refere o n.º 1, celebrados antes da data de início da entrega do tabaco.».\n\n2. O n.º 5 do artigo 9º passa a ter a seguinte redacção:\n\n«5. Os Estados-Membros produtores podem criar uma reserva nacional de quotas, cujas regras de funcionamento são aprovadas nos termos do artigo 23.^o».^\n\n3. O artigo 13.º passa a ter a seguinte redacção:\n\n1. É criado um Fundo Comunitário do Tabaco, a seguir designado “Fundo”, financiado por uma retenção igual a:\n\n— 2 % do prémio, relativamente à colheita de 2002,\n\n— 3 % do prémio, relativamente à colheita de 2003.\n\nA Comissão deve apresentar, antes de 31 de Dezembro de 2003, um relatório sobre a utilização das dotações do Fundo, que poderá ser acompanhado de uma proposta, visando, eventualmente, no que se refere à colheita de 2004, um aumento da percentagem de retenção até 5 %.\n\n2. O Fundo financia acções nos seguintes domínios:\n\na) Incremento dos conhecimentos do público quanto aos efeitos nocivos do consumo de tabaco sob todas as suas formas, designadamente através da informação e da comunicação, apoio à recolha de dados com vista a determinar as tendências do consumo de tabaco e a elaborar estudos epidemiológicos relativos ao tabagismo à escala da Comunidade, estudo sobre a prevenção do tabagismo;\n\nb) No âmbito do programa referido no n.º 1 do artigo 14.º, acções específicas de reconversão dos produtores de tabaco em rama para outras culturas, ou outras actividades económicas criadoras de emprego, assim como estudos sobre as possibilidades de reconversão dos produtores de tabaco em rama para outras culturas ou actividades.»."
+  },
+  "f928957baf85d412": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é aplicável a partir da colheita de 2002.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "e3303f3f7aec8653": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n|  | I Flue cured | II Light air-cured | III Dark air-cured | IV Fire-cured | V Sun-cured | VI Basmas | VII Katerini | VIII Kaba Koulak |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| EUR/kg | 2,98062 | 2,38423 | 2,38423 | 2,62199 | 2,14581 | 4,12957 | 3,50395 | 2,50377 |\n\nVariedades EUR/kg\n\nBadischer Geudertheimer, Pereg, Korso 0,5509\n\nBadischer Burley E e seus híbridos 0,8822\n\nVirgin D e seus híbridos, Virgina e seus híbridos 0,5039\n\nParaguay e seus híbridos, Dragon vert e seus híbridos, Philippin, Petit Grammont (Flobecq), Semois, Appelterre 0,4112"
+  },
+  "51b13d6179368070": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| (toneladas) |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Estado-Membro | I Flue-cured | II Light air-cured | III Dark air-cured | IV Fire-cured | V Sun-cured | Outros | Total |  |  |\n| VI Basmas | VII Katerini | VIII K. Koulak |  |  |  |  |  |  |  |\n| Itália | 49 002 | 49 436 | 16 256 | 6 255 | 9 157 |  | 498 |  | 130604 |\n| Grécia | 35 781 | 12 276 |  |  | 7 192 | 27 114 | 24 014 | 16 696 | 123073 |\n| Espanha | 29 472 | 5 748 | 6 622 | 30 |  |  |  |  | 41872 |\n| Portugal | 4 981 | 1 066 |  |  |  |  |  |  | 6047 |\n| França | 10 650 | 9 602 | 5 359 |  |  |  |  |  | 25611 |\n| Alemanha | 4 800 | 2 683 | 3 868 |  |  |  |  |  | 11351 |\n| Bélgica |  | 154 | 1 455 |  |  |  |  |  | 1609 |\n| Áustria | 30 | 442 | 99 |  |  |  |  |  | 571 |\n|  | 134 716 | 81 407 | 33 659 | 6 285 | 16 349 | 27 114 | 24 512 | 16 696 | 340738 |\n\n| (toneladas) |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Estado-Membro | I Flue-cured | II Light air-cured | III Dark air-cured | IV Fire-cured | V Sun-cured | Outros | Total |  |  |\n| VI Basmas | VII Katerini | VIII K. Koulak |  |  |  |  |  |  |  |\n| Itália | 48 263 | 47 689 | 15 682 | 6 255 | 8 833 |  | 498 |  | 127220 |\n| Grécia | 35 242 | 11 842 |  |  | 6 938 | 27 114 | 24 014 | 16 696 | 121846 |\n| Espanha | 29 028 | 5 545 | 6 388 | 30 |  |  |  |  | 40991 |\n| Portugal | 4 906 | 1 028 |  |  |  |  |  |  | 5934 |\n| França | 10 490 | 9 262 | 5 170 |  |  |  |  |  | 24922 |\n| Alemanha | 4 728 | 2 588 | 3 731 |  |  |  |  |  | 11047 |\n| Bélgica |  | 149 | 1 404 |  |  |  |  |  | 1553 |\n| Áustria | 29 | 426 | 96 |  |  |  |  |  | 551 |\n| [**►A1**](http://publications.europa.eu/resource/celex/12003T) Chipre**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 350**◄** |  |  |  |  |  |  |  | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 350**◄** |\n| [**►A1**](http://publications.europa.eu/resource/celex/12003T) Hungria**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 5 768**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 6 587**◄** |  |  |  |  |  |  | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 12355**◄** |\n| [**►A1**](http://publications.europa.eu/resource/celex/12003T) Polónia**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 22 200**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 12 633**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 1 867**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 1 233**◄** |  |  |  |  | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 37933**◄** |\n| [**►A1**](http://publications.europa.eu/resource/celex/12003T) Eslováquia**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 1 598**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 117**◄** |  |  |  |  |  |  | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 1715**◄** |\n|  | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 162 602**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 97 866**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 34 338**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 7 518**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 15 771**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 27 114**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 24 512**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 16 696**◄** | [**►A1**](http://publications.europa.eu/resource/celex/12003T) 386417**◄** |\n\n---"
+  },
+  "0e42472d17814767": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cfc0e2ee-bfc8-45b7-8f27-6df784c4416d.0016.03/DOC_1#src.E0001)) JO C 51 E de 26.2.2002, p. 382.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cfc0e2ee-bfc8-45b7-8f27-6df784c4416d.0016.03/DOC_1#src.E0002)) Parecer emitido em 14 de Março de 2002 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/cfc0e2ee-bfc8-45b7-8f27-6df784c4416d.0016.03/DOC_1#src.E0003)) Parecer emitido em 20 de Fevereiro de 2002 (ainda não publicado no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/cfc0e2ee-bfc8-45b7-8f27-6df784c4416d.0016.03/DOC_1#src.E0004)) JO L 215 de 30.7.1992, p. 70. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1336/2000 (JO L 154 de 27.6.2000, p. 2)."
+  },
+  "0d11e5e471d4c8cd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002R0546 — PT — 11.12.2011 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002R0546) [REGULAMENTO (CE) N.º 546/2002 DO CONSELHO](http://publications.europa.eu/resource/celex/32002R0546) [de 25 de Março de 2002](http://publications.europa.eu/resource/celex/32002R0546) [que fixa os prémios e os limiares de garantia para o tabaco em folha, por grupo de variedades e por Estado-Membro, para as colheitas de 2002, 2003 e 2004 e que altera o Regulamento (CEE) n.º 2075/92](http://publications.europa.eu/resource/celex/32002R0546) (JO L 084, 28.3.2002, p.4)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1229/2011 do Parlamento Europeu e do Conselho de 16 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1229) — L 326 — 18 — 8.12.2011"
+  }
+ }
+}

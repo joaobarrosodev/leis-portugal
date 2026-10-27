@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31987D0095:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01987D0095-20130101",
+ "dre_path": null,
+ "source_lastmod": "2013-01-01",
+ "versions": [
+  {
+   "date": "2003-06-05",
+   "future": false,
+   "celex": "01987D0095-20030605",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f607c73d5a6f477a",
+    "46233d51da7c5b4f",
+    "4cc5a309893c5ea6",
+    "9fe4588fab97ab2d",
+    "d28e7a1787bdcbe4",
+    "f13c15fd25af04cd",
+    "5fd48625966faa0c",
+    "4b480df870444514",
+    "eb35ee26841c06ea",
+    "a3bf79ec3fa1e429",
+    "0bb677f62a0951de",
+    "1e383a2e5fd4367b",
+    "1a2d2a060989831b"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "celex": "01987D0095-20130101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT)",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime ANEXO — MEDIDAS RELATIVAS À NORMALIZAÇÃO NO DOMÍNIO DAS TECNOLOGIAS DA INFORMAÇÃO E DAS TELECOMUNICAÇÕES"
+   ],
+   "fragments": [
+    "6e965acc6aee7698"
+   ]
+  }
+ ],
+ "fragments": {
+  "f607c73d5a6f477a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1987D0095 — PT — 05.06.2003 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987D0095:PT:NOT) [DECISÃO DO CONSELHO de 22 de Dezembro de 1986 relativa à normalização no domínio das tecnologias da informação e das telecomunicações (87/95/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987D0095:PT:NOT) (JO L 036, 7.2.1987, p.31)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) | [Regulamento (CE) n.o 807/2003 do Conselho de 14 de Abril de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT) | L 122 | 36 | 16.5.2003 |\n\n| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |\n| --- |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987D0095:PT:NOT)\n\nDECISÃO DO CONSELHO\n\nde 22 de Dezembro de 1986\n\nrelativa à normalização no domínio das tecnologias da informação e das telecomunicações\n\n(87/95/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([1](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([2](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#E0002)),\n\nConsiderando que as normas aplicáveis no domínio das tecnologias da informação e os trabalhos necessários para a sua elaboração devem ter em conta nomeadamente:\n\n— a complexidade das especificações técnicas e a precisão requerida para assegurar os intercâmbios de informações e de dados e a interoperacionalidade dos sistemas,\n\n— a necessidade de assegurar a rápida publicação das normas, para evitar que uma excessiva lentidão conduza à obsolescência precoce dos textos ultrapassados pela rapidez da evolução tecnológica,\n\n— a necessidade de assegurar a aplicação das normas internacionais em matéria de intercâmbio de informações e de dados numa base que os torne credíveis do ponto de vista da sua utilização prática,\n\n— a importância económica do papel desempenhado pela normalização ao contribuir para a criação de um mercado comunitário neste domínio;\n\nConsiderando que a Directiva 83/189/CEE ([3](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#E0003)) permite à Comissão, aos Estados-membros e aos organismos de normalização serem informados das intenções dos organismos de normalização de estabelecerem uma norma ou de a alterarem e que, nos termos dessa directiva, a Comissão pode estabelecer competências com vista a fazer empreender, conjuntamente e numa fase adiantada, os trabalhos de normalização de interesse comum;\n\nConsiderando que essa directiva não contém todas as disposições necessárias para a aplicação de uma política comunitária de normalização no domínio da tecnologia da informação e das telecomunicações;\n\nConsiderando que a importância crescente das sobreposições técnicas entre os diferentes domínios da normalização, nomeadamente quanto às tecnologias da informação e das telecomunicações, justifica uma cooperação estreita entre os organismos de normalização, que devem colaborar para tratar dessas matérias de interesse comum;\n\nConsiderando que foram recentemente celebrados pela Comissão acordos no âmbito da declaração comum de intenções assinada com a Conferência Europeia das Administrações dos Correios e Telecomunicações (CEPT) e no contexto das orientações gerais acordadas com a Organização Comum de Normalização constituída pelo Comité Europeu de Normalização/Comité Europeu de Normalização Electrotécnica (CEN/Cenelec).\n\nConsiderando que a Directiva 86/361/CEE ([4](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#E0004)) estabelece programas de trabalhos sobre especificações técnicas comuns [correspondentes às Normas Europeias de Telecomunicações (NETs)] neste sector, trabalhos esses que são confiados à Conferência Europeia das Administrações de Correios e Telecomunicações que consulta, quando necessário, o Comité Europeu de Normalização e o Comité Europeu de Normalização Electrotécnica;\n\nConsiderando que os contratos públicos de fornecimentos constituem um domínio privilegiado para encorajar uma maior aceitação das normas OSI (Open Systems Interconnection) para os intercâmbios de informações e de dados mediante referência a essas normas nos cadernos de encargos;\n\nConsiderando que é necessário instituir um comité encarregado de assistir a Comissão na execução e gestão dos objectivos e actividades previstos pela decisão,\n\nDECIDE:"
+  },
+  "46233d51da7c5b4f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente decisão, entende-se por:\n\n1. «Especificação técnica», a especificação que figura num documento que define as características requeridas de um produto, tais como os níveis de qualidade ou de acerto de utilização, a segurança, as dimensões, incluindo as prescrições aplicáveis ao produto no que diz respeito à terminologia, aos símbolos, aos ensaios e métodos de ensaio, à embalagem, à marcação e à rotulagem;\n\n2. «Especificação técnica comum», a especificação técnica elaborada com vista a assegurar a aplicação uniforme em todos os Estados-membros da Comunidade;\n\n3. «Norma», a especificação técnica aprovada por um organismo reconhecido com actividade normativa para aplicação repetida ou contínua, cuja observação não é obrigatória;\n\n4. «Norma internacional», a norma adoptada por um organismo internacional reconhecido com actividades normativas;\n\n5. «Projecto de Norma Internacional (PNI)» um projecto de norma adoptado por um organismo internacional reconhecido com actividades normativas;\n\n6. «Especificação técnica internacional no sector das telecomunicações», a especificação técnica de todas ou algumas características de um produto, recomendada por organismos como o Comité international télégrahique et téléphonique (CCITT) ou o CEPT.\n\n7. «Norma europeia», a norma aprovada em conformidade com as regras estatutárias dos organismos de normalização com os quais a Comissão celebrou acordos;\n\n8. «Pré-norma europeia», uma norma adoptada sob a referência «ENV», em conformidade com as regras estatutárias dos organismos de normalização com os quais a Comunidade celebrou acordos;\n\n9. «Norma funcional», uma norma elaborada para fornecer uma função complexa, requerida para assegurar a interoperacionalidade dos sistemas, obtida geralmente pela concatenação de várias normas de referência já existentes e aprovada em conformidade com as regras estatutárias dos organismos de normalização;\n\n10. «Especificação funcional» a especificação que define, no domínio das telecomunicações, a aplicação de uma ou mais normas de interconexão de sistema aberto em apoio de uma exigência específica de comunicação entre sistemas tecnológicos de informação [normas recomendadas por organizações tais como o Comité international télégraphique et téléphonique (CCITT) ou o CEPT];\n\n11. «Regra técnica», as especificações técnicas, incluindo as disposições administrativas aplicáveis, cuja observação é obrigatória, de jure ou de facto, para a comercialização ou a utilização num Estado-membro ou num parte importante desse Estado com exclusão das fixadas pelas autoridades locais;\n\n12. «Certificação de conformidade», o acto que tem por objectivo certificar, por meio de um certificado de conformidade ou de uma marca de conformidade, que um produto ou um serviço está conforme com normas ou outras especificações técnicas determinadas;\n\n13. «Tecnologias da informação», os sistemas, equipamentos, componentes e suportes lógicos necessários para assegurar a busca, o tratamento e a armazenagem da informação em todos os domínios da actividade humana (lar, escritório, fábrica etc., …) e cuja aplicação faz geralmente apelo à electrónica ou às técnicas aparentadas;\n\n14. «Contratos públicos»\n\n— os definidos no artigo 1.o da Directiva 77/62/CEE ([5](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#E0005)),\n\n— os celebrados para o fornecimento de equipamentos relativos às tecnologias de informação e às telecomunicações, independentemente do sector de actividade do poder adjudicador;\n\n15. «Administrações das telecomunicações», as administrações ou explorações privadas reconhecidas da Comunidade que oferecem serviços públicos de telecomunicações."
+  },
+  "4cc5a309893c5ea6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA fim de promover a normalização da Europa e a elaboração e aplicação de normas e de especificações funcionais no domínio da tecnologia da informação e das telecomunicações serão aplicadas a nível comunitário as seguintes medidas sob reserva das disposições do n.o 2 do artigo 3.o e do artigo 4.o:\n\na) Determinar regularmente, pelo menos uma vez por ano, e com base em normas internacionais, projectos de normas internacionais ou documentos equivalentes, as necessidades prioritárias de normalização com vista a estabelecer programas de trabalho e a elaborar as normas europeias e especificações funcionais que venham a ser consideradas necessárias para assegurar os intercâmbios de informações e de dados, bem como a interoperacionalidade dos sistemas;\n\nb) Com base nos trabalhos de normalização a nível internacional:\n\n— os organismos europeus de normalização e os organimos técnicos europeus especializados no sector da tecnologia e da informação e das telecomunicações serão convidados a estabelecer normas europeias, pré-normas europeias ou especificações funcionais de telecomunicação recorrendo, se necessário, à elaboração de normas funcionais, para garantir a precisão exigida pelos utilizadores para o intercâmbio de informações e de dados e para a interoperacionalidade dos sistemas. Esses organismos devem basear os seus trabalhos em normas internacionais, projectos de normas internacionais ou especificações técnicas internacionais no sector das telecomunicações. Sempre que uma norma internacional, um projecto de norma internacional ou uma especificação técnica internacional no sector das telecomunicações contenham disposições claras que permitam a sua aplicação uniforme, tais disposições serão adoptadas sem alterações na norma europeia, na pré-norma europeia ou na especificação funcional de telecomunicações. Se não existirem disposições claras na norma internacional, no projecto de norma internacional ou na especificação técnica internacional no sector das telecomunicações (e apenas nesse caso), serão redigidas as normas europeias, as pré-normas europeias ou as especificações funcionais de telecomunicações para clarificar ou, se necessário, completar as normas internacionais, os projectos de normas internacionais ou as especificações técnicas internacionas no sector das telecomunicações, evitando qualquer divergência em relação a estas últimas,\n\n— os mesmos organismos serão convidados a elaborar especificações técnicas que possam constituir a base de normas europeias ou de pré-normas europeias, na falta de ou como contributo para a criação de normas comuns internacionais para o intercâmbio de informações e de dados e para a interoperacionalidade dos sistemas;\n\nc) Facilitar a aplicação de normas e especificações funcionais, em especial por meio da coordenação das actividades dos Estados-membros na:\n\n— verificação da conformidade dos produtos e serviços com as normas e as especificações funcionais com base nas normas de ensaio especificadas,\n\n— certificação da conformidade com as normas e especificações funcionais segundo processos harmonizados de forma adequada;\n\nd) Promover a aplicação das normas e especificações funcionais relacionadas com a tecnologia da informação e as telecomunicações nos contratos celebrados por entidades públicas e na regulamentação técnica."
+  },
+  "9fe4588fab97ab2d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os objectivos específicos das medidas propostas são descritos no anexo da presente decisão.\n\n2. A presente decisão abrange:\n\n— as normas no domínio da tecnologia da informação, tal como definidas no artigo 5.o,\n\n— as especificações funcionais dos serviços prestados especificamente através das redes públicas de telecomunicações para intercâmbio de informações e dados entre sistemas de informação tecnológica.\n\n3. A presente decisão não abrange:\n\n— as especificações técnicas comuns para os equipamentos terminais ligados às redes públicas de telecomunicações, que são abrangidas pela Directiva 86/361/CEE,\n\n— as especificações para os equipamentos que fazem parte das próprias redes de telecomunicações."
+  },
+  "d28e7a1787bdcbe4": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAo estabelecer os requisitos relativos à normalização e ao elaborar um programa de trabalho para a normalização e a elaboração de especificações funcionais, a Comissão fará referência, em especial, às informações que lhe são comunicadas nos termos da Directiva 83/189/CEE.\n\nA Comissão, após consulta do Comité previsto no artigo 7.o, confiará os trabalhos técnicos às organizações europeias de normalização ou aos organismos técnicos especializados competentes na matéria (CEN, Cenelec e CEPT), solicitando-lhes, se necessário, que elaborem as correspondentes normas ou especificações funcionais europeias. Os mandatos a conferir a essas organizações serão apresentados ao comité previsto no artigo 5.o da Directiva 83/189/CEE para acordo deste, nos termos do procedimento da referida directiva. Não será conferido qualquer mandato que coincida com qualquer das áreas dos programas de trabalho iniciados ou elaborados no âmbito da Directiva 86/361/CEE."
+  },
+  "f13c15fd25af04cd": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Tendo em conta as diferenças entre os procedimentos nacionais existentes, os Estados-membros tomarão as medidas necessárias para assegurar que serão feitas referências:\n\n— às normas europeias e pré-normas europeias tal como definidas na alínea b) do artigo 2.o,\n\n— às normas internacionais, desde que aceites pelo país da autoridade contratante;\n\n1. nos contratos públicos de fornecimento relativos às tecnologias de informação de modo que essas normas sejam utilizadas como base para o intercâmbio de informações e de dados e para a interoperacionalidade dos sistemas.\n\n2. Com vista a assegurar uma compatibilidade «ponta a ponta», os Estados-membros tomarão todas as medidas necessárias para garantir que as respectivas administrações de telecomunicações utilizem especificações funcionais como forma de acesso às suas redes públicas de telecomunicações para os serviços especificamente destinados à troca de informações e de dados entre sistemas de tecnologias da informação que utilizem as normas referidas no n.o 1.\n\n3. Na aplicação do presente artigo serão tidas em conta as circunstâncias especiais a seguir referidas, que podem justificar o recurso a normas e a especificações diferentes das previstas na presente decisão:\n\n— a necessidade de assegurar a continuidade de funcionamento dos sistemas existentes, mas apenas como um elemento de estratégias claramente definidas e registadas, tendentes a uma posterior transição para normas internacionais ou europeias ou especificações funcionais,\n\n— o carácter verdadeiramente inovador de determinados projectos,\n\n— os casos em que a norma ou especificação funcional em questão seja tecnicamente inadequada ao seu objectivo pelo facto de não proporcionar os meios aptos a assegurar o intercâmbio de informações e de dados ou a interoperacionalidade dos sistemas, ou de não existirem meios (incluindo os de ensaio) aptos a determinar de modo satisfatório a conformidade de um produto com essa norma ou especificação funcional, ou de no que se refere às pré-normas europeias, estas não se revestirem da necessária estabilidade para serem aplicadas. Os outros Estados-membros podem fazer prova, junto do Comité referido no artigo 7.o, de que o equipamento conforme com a norma foi utilizado de modo satisfatório e que era injustificado o recurso à presente derrogação,\n\n— os casos em que, após cuidadoso estudo do mercado, se verifique que razões de peso relacionadas com a capacidade dos custos tornam inadequada a norma ou a especificação funcional em causa. Os outros Estados-membros podem fazer prova, junto do Comité referido no artigo 7.o, de que o equipamento conforme com a norma foi utilizado de modo satisfatório numa base comercial normal e que era injustificado o recurso à presente derrogação.\n\n4. Para além disso, os Estado-membros podem exigir que seja feita referência, na mesma base do n.o 1, a projectos de normas internacionais.\n\n5. As entidades adjudicantes que invoquem o n.o 3 do presente artigo indicarão as razões por que o fazem, se possível, nos documentos iniciais do concurso relativo ao fornecimento; indicarão em todos os casos tais razões na sua documentação interna e fornecerão a respectiva informação a pedido das empresas que se apresentem a concurso e do Comité referido no artigo 7.o, respeitando, embora, o segredo comercial. É também possível apresentar directamente à Comissão eventuais queixas relativas ao recurso às derrogações referidas no n.o 3.\n\n6. A Comissão assegurar-se-á de que o disposto no presente artigo será aplicado a todos os projectos e programas comunitários, incuindo os contratos públicos de fornecimento financiados pelo orçamento da Comunidade.\n\n7. As entidades adjudicantes, se o considerarem necessário, podem aplicar outras especificações aos contratos de montante inferior a 100 000 ECUs, desde que essas compras não impeçam a utilização das normas referidas nos n.os 1 e 2 em qualquer contrato de valor superior à soma referida neste número. A necessidade de derrogação ou o nível do limiar estabelecido neste número será revisto no prazo de três anos a contar da aplicação da presente decisão."
+  },
+  "5fd48625966faa0c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAo elaborar ou alterar regulamentos técnicos nas áreas abrangidas pela presente decisão, os Estados-membros farão referência às normas referidas no artigo 5.o, sempre que estas satisfaçam de maneira adequada as especificações técnicas exigidas no regulamento."
+  },
+  "4b480df870444514": {
+   "fragment_id": "Artigo 7.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT)",
+   "type": "artigo",
+   "heading": "Artigo 7.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0807:PT:NOT)\n\na) A Comissão é assistida, na prossecução dos objectivos e na condução das acções definidos na presente decisão, por um comité, denominado «Grupo de Altos Funcionários para a Normalização nos domínios das Tecnologias da Informação».\n\nPara os assuntos relativos às telecomunicações, a Comissão é assistida pelo comité denominado «Grupo de Altos Funcionários das Telecomunicações», previsto no artigo 5.o da Directiva 86/361/CEE.\n\nb) Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 3.o e 7.o da Decisão 1999/468/CE ([6](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#E0006)).\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31987D0095:PT:NOT)\n\n2. A Comissão consultará o Comité para determinar as prioridades da Comunidade, executar as medidas referidas no anexo, tratar de questões relativas à verificação da conformidade com as normas, para controlar a execução do disposto no artigo 5.o, e sobre outras questões relativas à normalização no domínio das tecnologias da informação e das telecomunicações ou outros domínios conexos. Consultará igualmente o Comité quanto ao relatório referido no artigo 8.o\n\n3. A Comissão assegurará a coordenação dos trabalhos destes comités com o do comité previsto no artigo 5.o da Directiva 83/189/CEE, em especial nos casos em que exista a possbilidade de sobreposição na apresentação de pedidos dirigidos às instituições europeias de normalização, formulados nos termos da presente decisão e daquela directiva.\n\n4. Quaisquer questões relativas à aplicação da presente decisão podem ser apresentadas ao Comité a pedido do seu presidente ou de um Estado-membro.\n\n5. O Comité reunirá pelo menos duas vezes por ano.\n\n6. O Comité estabelecerá o seu regulamento interno.\n\n7. A Comissão assegurará o secretariado do Comité."
+  },
+  "eb35ee26841c06ea": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA Comissão apresentará de dois em dois anos ao Parlamento Europeu e ao Conselho um relatório sobre o estado de avanço das acções de normalização nas tecnologias da informação. Esse relatório mencionará as regras de execução adoptadas na Comunidade, os resultados obtidos, a sua aplicação aos contratos públicos de fornecimento e às regulamentações técnicas nacionais e, em especial, o seu alcance prático em matéria de certificação de conformidade."
+  },
+  "a3bf79ec3fa1e429": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA presente decisão não prejudica a aplicação da Directiva 83/189/CEE e da Directiva 86/361/CEE."
+  },
+  "0bb677f62a0951de": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA presente decisão será aplicada um ano após a data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "1e383a2e5fd4367b": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-membros são destinatários da presente decisão."
+  },
+  "1a2d2a060989831b": {
+   "fragment_id": "ANEXO — MEDIDAS RELATIVAS À NORMALIZAÇÃO NO DOMÍNIO DAS TECNOLOGIAS DA INFORMAÇÃO E DAS TELECOMUNICAÇÕES",
+   "type": "divisao",
+   "heading": "ANEXO — MEDIDAS RELATIVAS À NORMALIZAÇÃO NO DOMÍNIO DAS TECNOLOGIAS DA INFORMAÇÃO E DAS TELECOMUNICAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — MEDIDAS RELATIVAS À NORMALIZAÇÃO NO DOMÍNIO DAS TECNOLOGIAS DA INFORMAÇÃO E DAS TELECOMUNICAÇÕES\n\n1. Objectivos\n\na) Contribuir para a integração do mercado interno da Comunidade no domínio das tecnologias da informação e das telecomunicações;\n\nb) Melhorar a capacidade concorrencial a nível internacional dos fabricantes da Comunidade, permitindo ao mercado comunitário uma maior absorção de equipamento fabricado de acordo com normas reconhecidas, europeias e internacionais;\n\nc) Facilitar os intercâmbios de informação através da Comunidade, reduzindo os obstáculos criados pelas incompatibilidades resultantes da ausência de normas ou da falta de precisão destas;\n\nd) Assegurar que sejam consideradas as necessidades dos utentes, fornecendo-lhes uma maior liberdade de montar os seus sistemas em bases que lhes garantam interoperacionalidade e, portanto, melhores comportamentos funcionais com menor custo;\n\ne) Promover a aplicação das normas e das especificações funcionais nos contratos celebrados por entidades públicas.\n\n2. Descrição das acções e dos trabalhos a empreender\n\n2.1 Estabelecimento dos programas de trabalho e fixação das prioridades\n\nEstabelecimento dos programas de trabalho e fixação das prioridades, tendo em conta as necessidades da Comunidade e o impacto económico desses trabalhos, considerado do ponto de vista dos utentes, dos produtores e das administrações de telecomunicações. As tarefas a realizar a esse nível compreendem, nomeadamente:\n\n2.1.1. A recolha de informações pormenorizadas com base nos programas nacionais e internacionais, a sua apresentação sob uma forma que facilite a análise comparativa e a redacção dos documentos de síntese requeridos para os trabalhos do comité;\n\n2.1.2. A circulação dessa informação, o exame das necessidades e as consultas dos meios interessados;\n\n2.1.3. A sincronização dos programas de trabalho com as actividades de normalização internacional;\n\n2.1.4. A gestão dos programas de trabalho;\n\n2.1.5. A preparação dos relatórios relativos à execução dos trabalhos e aos resultados práticos da sua aplicação.\n\n2.2. Execução dos trabalhos de normalização no domínio das tecnologias da informação\n\nA execução dos programas de trabalho exige a realização de uma série de trabalhos, geralmente confiados ao CEN/Cenelec e à CEPT, correspondentes às diferentes fases necessárias para assegurar a credibilidade das normas.\n\nEntre estes trabalhos contam-se:\n\n2.2.1. A afinação das normas internacionais, para eliminar as ambiguidades e as opções que desnaturam a função das normas destinadas a garantir os intercâmbios de informações e a interoperacionalidade dos sistemas;\n\n2.2.2. A elaboração de pré-normas nos casos justificados pela lentidão excessiva da normalização internacional ou das normas requeridas no âmbito comunitário, quando não existir a normalização internacional;\n\n2.2.3. A definição das condições requeridas para estabelecer a conformidade estrita com uma norma;\n\n2.2.4. A elaboração de normas de ensaio ou de especificações de ensaio incluídas nas normas e a organização dos processos e das estruturas que permitam aos laboratórios de ensaio verificar a conformidade com as normas em base convenientemente harmonizadas.\n\n2.3. Trabalhos no domínio das telecomunicações\n\nOs trabalhos de normalização relativos ao domínio das telecomunicações cobrem, de facto, dois tipos de actividades:\n\n— a elaboração de especificações funcionais, baseadas em normas/especificações internacionais ou europeias, quando existirem, para efeitos de acesso às redes públicas de telecomunicações para os serviços especificamente destinados ao intercâmbio de informações e de dados entre sistemas de tecnologia da informação. Este trabalho técnico decorre das actividades de harmonização efectuadas no sector das telecomunicações e é confiado à CEPT, de acordo com o procedimento previsto na Directiva 86/361/CEE,\n\n— os trabalhos a realizar no âmbito do domínio comum às tecnologias de informação e às telecomunicações exigem uma maior cooperação entre os organismos técnicos competentes (i. é. CEN/Cenelec/CEPT). Esses trabalhos devem favorecer as convergências, para que as normas e especificações técnicas comuns possam ser aplicadas de modo harmonizado a um máximo de casos, de acordo com o procedimento previsto na Directiva 83/189/CEE.\n\n2.4. Acções complementares\n\nEsta parte do programa compreende as acções seguintes:\n\n2.4.1. Trabalhos específicos de metrologia relativos: — à promoção do desenvolvimento dos intrumentos de ensaio e de validação e das técnicas de descrição formal, — ao apoio no caso de referências, em especial no caso das aplicações que requeiram a utilização de normas funcionais baseadas na concatenação de várias normas;\n\n2.4.2. Promoção da elaboração de guias de aplicação das normas destinadas ao utente final;\n\n2.4.3. Promoção de demonstrações sobre a interoperacionalidade obtida a partir da norma. Esta acção terá sobretudo por objectivo pôr à disposição de diferentes projectos os instrumentos de ensaio e de metrologia definida no ponto 2.4.1 e assegurar a experimentação de normas de desenvolvimento;\n\n2.4.4. Promoção de convenções que excedam o âmbito da normalização industrial, dependam de acordos em determinados ramos profissionais e contribuam para a eficácia das trocas de informação (transacções das agências de viagem, automatização de transacções monetárias, informatização dos documentos aduaneiros, robótica, burótica, micro-informática, etc.);\n\n2.4.5. Estudos e projectos específicos no domínio da normalização das tecnologias da informação.\n\n3. Acções relativas à aplicação das normas aos contratos celebrados por entidades públicas\n\nDeterminar os métodos mais eficazes para assegurar a rápida aplicação das normas e especificações técnicas no âmbito da presente decisão e para, simultaneamente, garantir uma articulação adequada com as acções decorrentes da Directiva 77/62/CEE ([7](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#E0007)).\n\n([1](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#src.E0001)) JO n.o C 36 de 17. 2. 1986, p. 55.\n\n([2](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#src.E0002)) JO n.o C 303 de 25. 11. 1985, p. 2.\n\n([3](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#src.E0003)) JO n.o L 109 de 26. 4. 1983, p. 8.\n\n([4](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#src.E0004)) JO n.o L 217 de 5. 8. 1986, p. 21.\n\n([5](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#src.E0005)) JO n.o L 13 de 15. 1. 1977, p. 1.\n\n([6](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n([7](http://publications.europa.eu/resource/cellar/a6a2f514-fefa-4e13-9f37-65c8cf057766.0018.02/DOC_1#src.E0007)) JO n.o L 13 de 15. 1. 1977, p. 1."
+  },
+  "6e965acc6aee7698": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1987D0095 — PT — 01.01.2013 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31987D0095) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/31987D0095) [de 22 de Dezembro de 1986](http://publications.europa.eu/resource/celex/31987D0095) [relativa à normalização no domínio das tecnologias da informação e das telecomunicações](http://publications.europa.eu/resource/celex/31987D0095) [(87/95/CEE)](http://publications.europa.eu/resource/celex/31987D0095) (JO L 036, 7.2.1987, p.31)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1025/2012 do Parlamento Europeu e do Conselho de 25 de outubro de 2012](http://publications.europa.eu/resource/celex/32012R1025) — L 316 — 12 — 14.11.2012"
+  }
+ }
+}

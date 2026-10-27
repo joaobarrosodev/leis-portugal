@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:223003:por
+title: Portaria n.º 427/2004
+short_title: null
+summary: Aplica a delimitação de uma área de intervenção do Plano de Pormenor de Vila da Rua, Moimenta da Beira
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Cidades, Ordenamento do Território e Ambiente
+proposing_entity: null
+official_number: 427/2004
+official_date: null
+publication_date: '2004-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 97/2004, Série I-B de 2004-04-24
+  number: '97'
+  series: I
+  supplement: null
+  pages: 2550 - 2551
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/04/097b00/25502551.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/427/2004/04/24/p/dre/pt/html
+  oj: null
+  dre: '223003'
+  dre_path: /dr/detalhe/portaria/427-2004-223003
+  internal: pt:dre:223003:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-2004-223003
+  metadata_url: https://data.dre.pt/eli/port/427/2004/04/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-2004-223003
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:59:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 952de6902b13ecd800c122434ec996e09b42ab7cc6f8388968077abaeafb79c7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arquitecto
+- Autarquia Local
+- Câmara Municipal
+- Loteamento Urbano
+- Moimenta da Beira
+- Plano de Pormenor
+- Prédio Urbano
+- Projeto
+- Protecção do Património
+- Renovação Urbana
+relationships:
+- type: cites
+  target: pt:dre:684616:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:59:06Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 427/2004
+
+de 24 de Abril
+
+O [Decreto n.º 73/73](https://diariodarepublica.pt/dr/detalhe/decreto/73-1973-684616), de 28 de Fevereiro, prevê no n.º 4 do artigo 3.º a possibilidade de serem estabelecidas, sob proposta das câmaras municipais interessadas, áreas nas quais seja obrigatória a intervenção de arquitectos na elaboração de projectos de construção de novos edifícios e de alteração dos existentes que envolvam modificações na sua expressão plástica.
+
+A Câmara Municipal de Moimenta da Beira solicitou ao Governo que aprovasse a delimitação de uma área onde deve ser aplicado o mencionado regime e que coincide com a área de intervenção do Plano de Pormenor de Vila da Rua, o qual se encontra em elaboração.
+
+Encontram-se nesta área edifícios com pormenores construtivos característicos de uma arquitectura erudita dos séculos XVII, XVIII e XIX, fruto da importância, singularidade ou riqueza de alguns dos proprietários. Estes edifícios coexistem com uma certa ruralidade e interioridade e com elementos característicos da arquitectura popular e rural. No entanto, as construções das últimas décadas têm vindo a quebrar essa qualidade e harmonia arquitectónica. Com efeito, esta área, embora de reconhecido valor histórico e arquitectónico, está visivelmente degradada e carenciada de intervenções de renovação urbana e preservação patrimonial, nas quais se entende que os arquitectos devem participar obrigatoriamente.
+
+Assim:
+
+Manda o Governo, pelo Ministro das Cidades, Ordenamento do Território e Ambiente, ao abrigo do disposto no n.º 4 do artigo 3.º do [Decreto n.º 73/73](https://diariodarepublica.pt/dr/detalhe/decreto/73-1973-684616), de 28 de Fevereiro, que na área delimitada na planta anexa a esta portaria seja obrigatória a intervenção de arquitectos na elaboração dos projectos de novos edifícios e de alteração dos edifícios existentes que envolvam modificações na sua expressão plástica.
+
+Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, Joaquim Paulo Taveira de Sousa, Secretário de Estado do Ordenamento do Território, em 31 de Março de 2004.
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/04/097b00/25502551.pdf)

@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:301611:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1991-945966831",
+ "dre_path": "/dr/detalhe/portaria/968-1991-301611",
+ "source_lastmod": "2025-11-14",
+ "versions": [
+  {
+   "date": "1991-09-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "945998701",
+    "945998703",
+    "945998704",
+    "945998705",
+    "945998706",
+    "945998707",
+    "945998708",
+    "945998709",
+    "945998710",
+    "945998711",
+    "945998712",
+    "945998713"
+   ]
+  },
+  {
+   "date": "1991-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406738:por",
+     "title": "Declaração de Rectificação n.º 248/91",
+     "published": "1991-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/248-1991-406738"
+    }
+   ],
+   "changes": [
+    "Retifica Anexo à Portaria n.º 968/91"
+   ],
+   "fragments": [
+    "945998701",
+    "945998703",
+    "945998704",
+    "945998705",
+    "945998706",
+    "945998707",
+    "945998708",
+    "945998709",
+    "945998710",
+    "945998711",
+    "945998712",
+    "945998713",
+    "945998702",
+    "945998741"
+   ]
+  }
+ ],
+ "fragments": {
+  "945998701": {
+   "fragment_id": "945966832",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 968/91\n\nde 20 de Setembro\n\nSob proposta da Universidade do Algarve;\n\nAo abrigo do disposto no artigo 7.º do Decreto-Lei n.º 155/89, de 11 de Maio, no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho, e no Decreto-Lei n.º 173/80, de 29 de Maio:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:"
+  },
+  "945998703": {
+   "fragment_id": "945966834",
+   "type": 11,
+   "heading": "1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — Objectivo\n\nA presente portaria visa alterar a regulamentação do curso de licenciatura em Biologia Marítima e Pescas, criado pelo Decreto do Governo n.º 46/83, de 24 de Junho, na Universidade do Algarve."
+  },
+  "945998704": {
+   "fragment_id": "945966835",
+   "type": 11,
+   "heading": "2.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º — Organização\n\nO curso de licenciatura em Biologia Marinha e Pescas, ministrado pela Universidade do Algarve, adiante simplesmente designado por curso, organiza-se pelo sistema de unidades de crédito."
+  },
+  "945998705": {
+   "fragment_id": "945966836",
+   "type": 11,
+   "heading": "3.º — Ramos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º — Ramos\n\nO curso desdobra-se nos seguintes ramos:\n\na) Biologia Marinha;\n\nb) Pescas."
+  },
+  "945998706": {
+   "fragment_id": "945966837",
+   "type": 11,
+   "heading": "4.º — Acesso aos ramos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º — Acesso aos ramos\n\n1 - A inscrição nos ramos do curso está sujeita a limitações quantitativas a fixar anualmente por despacho do reitor, sob proposta do conselho científico.\n\n2 - Se num determinado ano o número de alunos que se pretende inscrever num ramo for inferior a 15, esse ramo não poderá abrir inscrições nesse ano.\n\n3 - Aos alunos admitidos à inscrição no curso é assegurada sempre a inscrição num dos ramos.\n\n4 - A candidatura à inscrição em cada um dos ramos está dependente da obtenção prévia do número de unidades de crédito fixado pela presente portaria.\n\n5 - As regras e os prazos de candidatura e de selecção para a inscrição nos ramos serão fixados por despacho do reitor, sob proposta do conselho científico.\n\n6 - Os despachos a que se referem os n.os 1 e 5 serão objecto de publicação na 2.ª série do Diário da República e de afixação pública na Universidade, com a antecedência, respectivamente, de um mês antes da data da candidatura e de seis meses antes do início do ano lectivo a que dizem respeito."
+  },
+  "945998707": {
+   "fragment_id": "945966838",
+   "type": 11,
+   "heading": "5.º — Estrutura curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — Estrutura curricular\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 173/80, de 29 de Maio, são os constantes do anexo a esta portaria."
+  },
+  "945998708": {
+   "fragment_id": "945966839",
+   "type": 11,
+   "heading": "6.º — Plano de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º — Plano de estudos\n\n1 - O plano de estudos do curso será fixado por despacho a publicar na 2.ª série do Diário da República, nos termos dos artigos 4.º e 5.º do Decreto-Lei n.º 173/80, de 29 de Maio.\n\n2 - Do despacho a que se refere o n.º 1 constarão igualmente os coeficientes de ponderação a que se refere o n.º 9.º"
+  },
+  "945998709": {
+   "fragment_id": "945966840",
+   "type": 11,
+   "heading": "7.º — Disciplinas de opção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º — Disciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de 10.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas de serviço de aulas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles."
+  },
+  "945998710": {
+   "fragment_id": "945966841",
+   "type": 11,
+   "heading": "8.º — Estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º — Estágio\n\nO estágio realiza-se no último semestre do curso e será objecto de regulamento a aprovar pelo reitor."
+  },
+  "945998711": {
+   "fragment_id": "945966842",
+   "type": 11,
+   "heading": "9.º — Classificação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º — Classificação final\n\n1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas) das classificações das unidades curriculares em que o aluno realizou os créditos necessários à satisfação do disposto no anexo à presente portaria.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico."
+  },
+  "945998712": {
+   "fragment_id": "945966843",
+   "type": 11,
+   "heading": "10.º — Entrada em funcionamento e regime de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º — Entrada em funcionamento e regime de transição\n\nA estrutura curricular e o regulamento aprovados pela presente portaria entrarão em funcionamento nos termos e prazos fixados pelo reitor da Universidade do Algarve, sob proposta do conselho científico."
+  },
+  "945998713": {
+   "fragment_id": "945966844",
+   "type": 11,
+   "heading": "11.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º — Disposição revogatória\n\nCom a entrada em funcionamento da estrutura curricular anexa à presente portaria, e sem prejuízo do período de transição estabelecido nos termos do n.º 10.º, é revogada a Portaria n.º 505/87, de 23 de Junho, alterada pela Portaria n.º 852/90, de 18 de Setembro."
+  },
+  "945998702": {
+   "fragment_id": "945966833",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Educação.\n\nAssinada em 24 de Agosto de 1991.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior."
+  },
+  "945998741": {
+   "fragment_id": "945966845",
+   "type": 14,
+   "heading": "Anexo à Portaria n.º 968/91",
+   "in_force_from": "1991-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 248/91 - Diário da República n.º 251/1991, 5º Suplemento, Série I-B de 1991-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/248-1991-406738), em vigor a partir de 1991-10-31"
+   ],
+   "markdown": "## Anexo à Portaria n.º 968/91\n\nUniversidade do Algarve\n\nLicenciatura em Biologia Marinha e Pescas\n\n1 - Área científica do curso - Bioligia Marinha e Pescas.\n\n2 - Duração normal do curso - quatro anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à conclusão do curso - 120.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas, obrigatórias, comuns:\n\na) Matemática - 6;\n\nb) Física - 6;\n\nc) Química - 6;\n\nd) Biologia e Ecologia Aquática - 29;\n\ne) Biologia e Tecnologia de Pesca - 19;\n\nf) Geociências - 4;\n\ng) Bioquímica e Biotecnologia - 5;\n\n4.2 - Ramo de Biologia Marinha:\n\n4.2.1 - Áreas científicas obrigatórias:\n\na) Biologia e Ecologia Aquática - 15;\n\nb) Geociências - 5;\n\n4.2.2 - Áreas científicas opcionais:\n\na) Ecologia Marinha ... 10;\n\nb) Gestão Costeira ... 10;\n\n4.3 - Ramo de Pescas:\n\n4.3. 1 - Áreas científicas obrigatórias:\n\na) Bioquímica e Biotecnologia - 9;\n\nb) Ciências Económicas e Sociais - 10;\n\n4.3.2 - Áreas científicas opcionais:\n\na) Pescas - 11;\n\nb) Aquacultura - 11;\n\n4.4 - Estágio - 15.\n\n5 - Condições para inscrição nos ramos:\n\na) Inscrição em cinco semestres do curso;\n\nb) Obtenção de 75 unidades de crédito.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 248/91 - Diário da República n.º 251/1991, 5º Suplemento, Série I-B de 1991-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/248-1991-406738), em vigor a partir de 1991-10-31"
+  }
+ }
+}

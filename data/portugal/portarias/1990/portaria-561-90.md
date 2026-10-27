@@ -1,0 +1,910 @@
+---
+schema_version: '1.0'
+id: pt:dre:572897:por
+title: Portaria n.º 561/90
+short_title: null
+summary: Aprova o Regulamento da Pesca no Rio Lima
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 561/90
+official_date: null
+publication_date: '1990-07-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 165/1990, Série I de 1990-07-19
+  number: '165'
+  series: I
+  supplement: null
+  pages: 3012 - 3016
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/07/16500/30123016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-01-30'
+version_history:
+  file: portaria-561-90.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1990-07-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-01-13'
+    amending: pt:dre:213796:por
+    amending_title: Portaria n.º 17-A/99
+    changes:
+    - Adita Artigo 8.º-A
+    - Adita Artigo 8.º-B
+    - Adita Artigo 10.º-A
+    - Adita Artigo 11.º-A
+    - Altera Artigo 4.º
+    - Altera Anexo I
+  - date: '2001-01-20'
+    amending: pt:dre:337580:por
+    amending_title: Portaria n.º 27/2001
+    changes:
+    - Revoga Artigo 14.º
+    - Revoga Anexo II
+  - date: '2004-01-22'
+    amending: pt:dre:607078:por
+    amending_title: Portaria n.º 80/2004
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 12.º-A
+    - Altera Artigo 8.º
+    - Altera Artigo 8.º-A
+    - Altera Artigo 11.º-A
+    - Altera Artigo 13.º
+    - Altera Anexo I
+  - date: '2010-12-08'
+    amending: pt:dre:306641:por
+    amending_title: Portaria n.º 1220/2010
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º-A
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Capítulo III
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Anexo I
+    - Revoga Artigo 10.º-A
+    - Revoga Artigo 14.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Anexo II
+  - date: '2018-03-24'
+    amending: pt:dre:114908240:por
+    amending_title: Portaria n.º 82/2018
+    changes:
+    - Altera Artigo 13.º
+  - date: '2019-01-03'
+    amending: pt:dre:117506444:por
+    amending_title: Portaria n.º 1/2019
+    changes:
+    - Altera Artigo 13.º
+  - date: '2025-01-30'
+    amending: pt:dre:901661933:por
+    amending_title: Portaria n.º 370/2024/1
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/561/1990/p/cons/20241231/pt/html
+  oj: null
+  dre: '572897'
+  dre_path: /dr/detalhe/portaria/561-1990-572897
+  internal: pt:dre:572897:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/561-1990-572897
+  metadata_url: https://data.dre.pt/eli/port/561/1990/p/cons/20241231/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-114908242
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-114908242
+  retrieved_at: '2026-10-22T12:17:57Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 616077a44fab99d9350e9727e261c20b848761460005231056c4d910d0641499
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:17:57Z'
+  notes: 8 versão(ões); histórico completo em portaria-561-90.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pesca
+- RIO LIMA
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:213796:por
+  label: Adita Artigo 8.º-A; Adita Artigo 8.º-B; Adita Artigo 10.º-A; Adita Artigo 11.º-A; Altera Artigo 4.º; Altera Anexo
+    I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/17-a-1999-213796
+  date: '1999-01-12'
+- type: amended_by
+  target: pt:dre:337580:por
+  label: Revoga Artigo 14.º; Revoga Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580
+  date: '2001-01-15'
+- type: amended_by
+  target: pt:dre:431465:por
+  label: Revoga Artigo 14.º; Revoga Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465
+  date: '2001-01-17'
+- type: amended_by
+  target: pt:dre:607078:por
+  label: Altera Artigo 4.º; Altera Artigo 12.º-A; Altera Artigo 8.º; Altera Artigo 8.º-A; Altera Artigo 11.º-A; Altera Artigo
+    13.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/80-2004-607078
+  date: '2004-01-21'
+- type: amended_by
+  target: pt:dre:306641:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º-A; Altera Artigo 13.º;
+    Altera Artigo 16.º; Altera Artigo 17.º; Altera Capítulo III; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º;
+    Altera Anexo I; Revoga Artigo 10.º-A; Revoga Artigo 14.º; Revoga Artigo 21.º; Revoga Artigo 22.º; Revoga Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641
+  date: '2010-12-03'
+- type: amended_by
+  target: pt:dre:114908240:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/82-2018-114908240
+  date: '2018-03-23'
+- type: amended_by
+  target: pt:dre:117506444:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1-2019-117506444
+  date: '2019-01-02'
+- type: amended_by
+  target: pt:dre:901661933:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933
+  date: '2024-12-31'
+article_structure:
+  article_count: 27
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:17:57Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 561/90
+
+Portaria n.º 561/90
+
+de 19 de Julho
+
+O Decreto Regulamentar n.º 43/87, de 17 de Julho, estabeleceu, entre outras normas reguladoras da actividade da pesca, a estrutura básica do seu exercício em águas interiores não oceânicas.
+
+Algumas massas de água deste tipo constituem, porém, relevantes espaços sócio-económicos, onde a actividade da pesca se reveste de particularidades que aconselham a sua regulamentação autónoma, enquadrada na estrutura básica acima referida, de forma a assegurar a correcta gestão e conservação dos recursos ocorrentes em tão sensíveis ecossistemas.
+
+Na referida regulamentação são, pois, acolhidas as especificidades que caracterizam localmente a actividade, nomeadamente no que toca a métodos e artes de pesca, tendo, quanto a estas, sido utilizada a terminologia em uso na zona.
+
+Assim, ao abrigo do artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+
+1.º É aprovado o Regulamento da Pesca no Rio Lima, que, com os seus anexos, faz parte integrante da presente portaria.
+
+2.º O Regulamento da Pesca no Rio Lima entra em vigor 60 dias após a publicação da presente portaria.
+
+3.º Com a entrada em vigor do Regulamento aprovado pela presente portaria, nos termos do artigo 35.º do Decreto-Lei n.º 278/87, de 7 de Julho, conjugado com o disposto no artigo 60.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, deixam de ser aplicáveis à pesca no rio Lima as disposições constantes do regulamento aprovado pelo Decreto n.º 19634, de 21 de Abril de 1931.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+Assinada em 3 de Julho de 1990.
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.
+
+Regulamento da Pesca no Rio Lima
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento tem por objecto estabelecer normas complementares reguladoras do exercício da pesca no rio Lima, ao abrigo do disposto no artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+###### Artigo 2.º — Zona de aplicação
+
+A zona de aplicação do presente Regulamento, abreviadamente designada por zona, compreende as águas interiores não oceânicas do rio Lima, bem como os respectivos leitos e margens pertencentes ao domínio público hídrico, desde a ponte de Lanheses até à foz do rio, sob jurisdição da Capitania do Porto de Viana do Castelo.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+###### Artigo 3.º — Classificação da pesca
+
+A pesca que pode ser exercida na zona classifica-se em:
+
+a) Pesca comercial, quando as espécies capturadas se destinam a ser objecto de comércio, sob qualquer forma, quer no estado em que são extraídas da água, quer após subsequente preparação, modificação ou transformação;
+
+b) Pesca lúdica, quando praticada apenas com fins lúdicos ou de competição de pesca desportiva, não podendo o produto da pesca ser comercializado directa ou indirectamente.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+### Capítulo II — Pesca comercial
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+#### Secção I — Artes de pesca
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+###### Artigo 4.º — Artes de pesca autorizadas
+
+1 - A pesca comercial na zona só pode ser exercida por meio de artes que estejam autorizadas e sejam licenciadas nos termos dos artigos 74.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio.
+
+2 - Ao abrigo do disposto no n.º 4 do artigo 53.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, a pesca na zona só pode ser exercida com a utilização das seguintes artes:
+
+a) Aparelhos de anzol fundeados:
+
+Xaqueira;
+
+b) Redes de tresmalho fundeadas:
+
+Solheira (para a captura de solha);
+
+c) Camaroeiro, rapichel ou rede de fole (como auxiliar de pesca e para a captura de camarão);
+
+d) (Revogada);
+
+e) Redes de tresmalho de deriva:
+
+Tresmalho de sável (para a captura de sável);
+
+Tresmalho de lampreia (para a captura de lampreia;
+
+f) (Revogada.)
+
+g) Amostra, corrico ou corripo;
+
+h) Bicheiro (como auxiliar de pesca);
+
+i) Cana de pesca e linha de mão;
+
+j) Minhocada, resulho ou romilhão (para a captura de enguia);
+
+l) Mugeira (para a captura de tainha);
+
+m) Berbigoeiro (para a captura de berbigão e outros bivalves);
+
+n) (Revogada.)
+
+o) Nassa, exclusivamente para a captura de caranguejo.
+
+3 - A descrição e características das artes referidas no número anterior constam do anexo I.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+> Alterado pelo/a [Portaria n.º 80/2004 - Diário da República n.º 17/2004, Série I-B de 2004-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/80-2004-607078), em vigor a partir de 2004-01-22
+
+> Alterado pelo/a [Portaria n.º 38-B/2001 - Diário da República n.º 14/2001, 2º Suplemento, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465), em vigor a partir de 2001-01-22
+
+> Alterado pelo/a [Portaria n.º 17-A/99 - Diário da República n.º 9/1999, 1º Suplemento, Série I-B de 1999-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/17-a-1999-213796), em vigor a partir de 1999-01-13
+
+#### Secção II — Exercício da pesca
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+###### Artigo 5.º — Quem pode exercer a pesca
+
+A pesca comercial na zona só é permitida a inscritos marítimos, quando exercida com auxílio de embarcações, podendo ser exercida também por apanhadores ou pescadores apeados devidamente licenciados, se se tratar de pesca sem auxílio de embarcação.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+###### Artigo 6.º — Embarcações
+
+Para além das embarcações de pesca local que satisfaçam os requisitos do n.º 2 do artigo 67.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, nos termos do n.º 3 do mesmo artigo, podem ainda ser autorizadas a exercer a pesca comercial na zona as embarcações localmente designadas por «barcas do rio», desde que o seu comprimento de fora a fora não exceda os 9 m.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+###### Artigo 7.º — Condicionamentos ao exercício da pesca
+
+1 - O Exercício da pesca na zona está sujeito aos seguintes condicionamentos:
+
+a) Não é permitido utilizar ou ter a bordo artes que não sejam autorizadas e não tenham sido licenciadas;
+
+b) Às embarcações referidas no artigo anterior não é permitido deter, transportar, depositar ou abandonar nas margens do rio artes de pesca que não estejam autorizadas e licenciadas;
+
+c) A partir de terra firme só podem ser utilizadas as seguintes artes: bicheiro, camaroeiro, cana de pesca, linha de mão e minhocada;
+
+d) Nenhuma arte, com excepção da solheira, pode ser utilizada a menos de 50 m de qualquer outra arte já lançada;
+
+e) Nenhuma arte pode ser calada de forma a obstruir mais de metade do leito alagado do rio, nos locais onde este não possua braços, ou de cada um destes, nos locais onde existam;
+
+f) Nenhuma arte, com excepção da solheira, pode ser lançada a menos de 25 m de terra;
+
+g) Nenhuma arte de pesca pode ter qualquer dos seus extremos fixado a terra firme, ou ser fixada ou operada a partir de dique, barragem, descarregador, aqueduto, ponte, pontão, porta de água ou qualquer outro tipo de construção semelhante, nem a bóias ou balizas de sinalização marítima ou postaletes de tabuletas;
+
+h) Não é permitido bater nas águas («batuque»), «valar águas», «socar», lançar pedras, percutir ou usar sistemas semelhantes;
+
+i) Não se podem utilizar fontes luminosas (candeio) para chamariz de peixe;
+
+j) Não é permitida a pesca do pôr ao nascer do Sol, excepto com redes;
+
+l) As redes de tresmalho, quando fundeadas, não podem permanecer caladas por mais de 24 horas consecutivas em cada período de 36 horas;
+
+m) De acordo com a legislação comunitária, é proibida a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos susceptíveis de causar a morte ou o atordoamento dos espécimes;
+
+n) Não é permitida a pesca por imersão de cestos ou outros recipientes semelhantes, designadamente armadilhas, com excepção das nassas para a captura de caranguejo;
+
+o) Não é permitido iscar nem engodar com ovas de peixe;
+
+p) Não é permitida a colocação, dentro de água, de redes, aparelhos ou quaisquer outros dispositivos destinados a encaminhar os espécimes para espaços donde não possam sair, que os forcem a passar por um canal, esteiro ou vala ou que os impeçam de circular livremente, tais conto ramagens, paliçadas ou outros obstáculos;
+
+q) Não é permitida a pesca em áreas consideradas como abrigos, desovadeiras, viveiros de criação, zonas de estabulação e de reprodução, como tal classificadas e identificadas pela autoridade marítima, de acordo com os dados científicos disponíveis;
+
+r) Não é permitida a pesca em áreas cujo nível das águas possa fazer perigar a conservação da fauna aquícola, salvo em casos excepcionais autorizados pela Direcção-Geral das Pescas (DGP), sob parecer do Instituto Nacional de Investigação das Pescas (INIP) e ouvida a Capitania do Porto.
+
+2 - O exercício da pesca na zona está também sujeito, por razões de segurança, aos seguintes condicionamentos:
+
+a) É proibida a pesca nos seguintes locais:
+
+1) A jusante do alinhamento da Avenida dos Combatentes da Grande Guerra, em Viana do Castelo, com o extremo do cais este do novo porto comercial;
+
+2) A menos de 100 m da boca de qualquer esgoto, de 50 m de doca, marina, embarcadouro ou estaleiro de construção naval e a menos de 200 m de barragens, comportas e descarregadores;
+
+3) A menos de 150 m de açudes ou quaisquer outras obras que alterem o regime normal de circulação de águas;
+
+4) Em zonas balneares, durante a respectiva época, a menos de 50 m da linha da praia;
+
+5) Nas áreas demarcadas como de extracção de inertes;
+
+b) Não é permitido utilizar artes de deriva em condições de reduzida ou má visibilidade;
+
+c) As artes de deriva devem ser recolhidas com a necessária antecedência, deixando livre o canal de navegação, sempre que as embarcações, pelo seu porte, não possam passar livremente, salvo quando se trate de embarcações de recreio, que deverão aguardar o fim do lanço.
+
+3 - Em caso de avaria, sinistro ou qualquer outra razão de força maior que impeça o cumprimento do disposto na alínea l) do n.º 1, bem como no caso de abandono de artes na água, deverá desses factos ser dado conhecimento imediato à Capitania do Porto.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+#### Secção III — Outros condicionamentos ao exercício da pesca
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+###### Artigo 8.º — Pesca do sável com tresmalho
+
+1 - Só é permitida a utilização de tresmalho de sável do pôr ao nascer do Sol.
+
+2 - A utilização desta arte apenas é permitida entre a linha norte-sul que passa pelo cais da Barca do Porto (estrada de acesso ao restaurante «Quinta de São Miguel», em Serraleis) e a linha norte-sul que passa pela estradinha do Deão.
+
+1 - A utilização de tresmalho de lampreia apenas é permitida a montante da linha que passa pela marina nova e é paralela à Ponte Velha.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a [Portaria n.º 80/2004 - Diário da República n.º 17/2004, Série I-B de 2004-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/80-2004-607078), em vigor a partir de 2004-01-22
+
+###### Artigo 8.º-A — Pesca de lampreia com tresmalho
+
+1 - A utilização de tresmalho de lampreia apenas é permitida a montante da linha que passa pela marina nova e é paralela à Ponte Velha.
+
+2 - O exercício da pesca com tresmalho de deriva para a captura de lampreia, quando o número o justifique, terá lugar por meio de turnos.
+
+3 - Os turnos de pesca de lampreia deverão ser constituídos, na medida do possível, por igual número de tripulantes e de embarcações, num máximo de 36 inscritos marítimos.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+> Alterado pelo/a [Portaria n.º 80/2004 - Diário da República n.º 17/2004, Série I-B de 2004-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/80-2004-607078), em vigor a partir de 2004-01-22
+
+> Alterado pelo/a [Portaria n.º 38-B/2001 - Diário da República n.º 14/2001, 2º Suplemento, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465), em vigor a partir de 2001-01-22
+
+> Aditado pelo/a [Portaria n.º 17-A/99 - Diário da República n.º 9/1999, 1º Suplemento, Série I-B de 1999-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/17-a-1999-213796), em vigor a partir de 1999-01-13
+
+###### Artigo 8.º-B — Condicionamento específico
+
+1 - Não é permitido o licenciamento simultâneo de uma embarcação para o tresmalho de lampreia e o uso de estacada.
+
+2 - Os tripulantes das embarcações licenciadas para tresmalho de lampreia não poderão fazer parte de um grupo de estacada, nem os inscritos marítimos pertencentes a um dos grupos de estacada poderão ser tripulantes das embarcações licenciadas para o tresmalho de lampreia.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Revogado pelo/a [Portaria n.º 38-B/2001 - Diário da República n.º 14/2001, 2º Suplemento, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465), em vigor a partir de 2001-01-22
+
+> Aditado pelo/a [Portaria n.º 17-A/99 - Diário da República n.º 9/1999, 1º Suplemento, Série I-B de 1999-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/17-a-1999-213796), em vigor a partir de 1999-01-13
+
+###### Artigo 9.º — Condicionamento ao uso de redes de estacada
+
+1 - As redes de estacada só poderão ocupar dois terços da largura do leito alagado do rio ou de braço do rio, devendo uma das extremidades ficar encostada a terra firme.
+
+2 - No termo do período de actividade de cada turno as redes das estacadas deverão ser totalmente retiradas do rio.
+
+3 - Em cada dia só será permitido o uso de uma estacada.
+
+4 - Em cada semana só é permitido dispor a rede de estacada do pôr do Sol de domingo ao nascer do Sol de terça-feira e do pôr do Sol de quinta-feira ao nascer do Sol de sábado.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Revogado pelo/a [Portaria n.º 38-B/2001 - Diário da República n.º 14/2001, 2º Suplemento, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465), em vigor a partir de 2001-01-22
+
+###### Artigo 10.º — Turnos de pesca
+
+1 - O exercício da pesca com estacada, quando o número de pescadores o justifique, terá lugar por meio de turnos.
+
+2 - Os turnos de pesca serão, na medida do possível, constituídos por igual número de pescadores, num máximo de 35.
+
+3 - Não é permitida a inscrição de pescadores em mais do que um turno de pesca.
+
+4 - Será de três o número máximo de turnos de pesca permitidos, sendo o número de pescadores em cada turno fixado anualmente, durante o mês de Dezembro, pela DGP, sob parecer do INIP e ouvido o capitão do porto de Viana do Castelo.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Revogado pelo/a [Portaria n.º 38-B/2001 - Diário da República n.º 14/2001, 2º Suplemento, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465), em vigor a partir de 2001-01-22
+
+###### Artigo 10.º-A — Turnos de pesca com tresmalho de lampreia
+
+1 - O exercício da pesca com tresmalho de deriva para a captura de lampreia, quando o número o justifique, terá lugar por meio de turnos.
+
+2 - Os turnos de pesca de lampreia deverão ser constituídos, na medida do possível, por igual número de tripulantes e de embarcações, num máximo de 36 inscritos marítimos.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+> Aditado pelo/a [Portaria n.º 17-A/99 - Diário da República n.º 9/1999, 1º Suplemento, Série I-B de 1999-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/17-a-1999-213796), em vigor a partir de 1999-01-13
+
+###### Artigo 11.º — Funcionamento dos turnos
+
+1 - A ordem segundo a qual os turnos irão pescar será tirada à sorte na presença do capitão do porto.
+
+2 - O exercício da pesca com estacada no sistema de turnos fica também sujeito às seguintes condições:
+
+a) Cada turno deverá nomear um responsável, designado chefe de turno, dando conhecimento ao capitão do porto;
+
+b) Apenas poderão exercer a pesca com estacada os pescadores pertencentes ao turno a que compete pescar nesse dia;
+
+c) Quando as condições atmosféricas ou quaisquer outras circunstâncias não permitam o exercício da pesca com estacada, o turno a que competir pescar nesse dia perde a vez;
+
+d) Cada turno não poderá exercer a actividade de pesca por período superior a 36 horas a partir da montagem da rede.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Revogado pelo/a [Portaria n.º 38-B/2001 - Diário da República n.º 14/2001, 2º Suplemento, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465), em vigor a partir de 2001-01-22
+
+###### Artigo 11.º-A — Funcionamento dos turnos de tresmalho de lampreia
+
+O exercício da pesca com tresmalho para a captura de lampreia, no sistema de turnos, fica sujeito aos seguintes condicionalismos:
+
+a) Poderão ser constituídos até três turnos, sendo cada turno constituído por um máximo de 23 embarcações, devendo nomear-se um responsável, dando conhecimento ao capitão do porto;
+
+b) Em cada dia, cada turno poderá exercer a pesca no período diurno, entre o nascer e o pôr do Sol, ou nocturno, entre o pôr e o nascer do Sol do dia seguinte;
+
+c) Durante o período diurno, é autorizada, em simultâneo, a actuação de dois turnos, enquanto no período nocturno apenas é autorizado um turno a pescar;
+
+d) Os períodos em que os turnos actuam são rotativos, seguindo o esquema a acordar com o capitão do Porto aquando da constituição dos mesmos;
+
+e) Quando as condições atmosféricas, ou quaisquer outras circunstâncias, não permitam o exercício da pesca de lampreia com tresmalho, o turno a quem competir pescar nesse dia perde a vez;
+
+f) A pesca é proibida entre o pôr do Sol de sábado e o pôr do Sol de domingo.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a [Portaria n.º 80/2004 - Diário da República n.º 17/2004, Série I-B de 2004-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/80-2004-607078), em vigor a partir de 2004-01-22
+
+> Alterado pelo/a [Portaria n.º 38-B/2001 - Diário da República n.º 14/2001, 2º Suplemento, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465), em vigor a partir de 2001-01-22
+
+> Aditado pelo/a [Portaria n.º 17-A/99 - Diário da República n.º 9/1999, 1º Suplemento, Série I-B de 1999-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/17-a-1999-213796), em vigor a partir de 1999-01-13
+
+###### Artigo 12.º-A — Pesca de moluscos bivalves
+
+São fixados os seguintes limites máximos de capturas por dia e ou por semana e por embarcação:
+
+a) 20 kg/dia de amêijoa-boa (Venerupis decussata);
+
+b) 20 kg/dia de amêijoa-macha (Venerupis pulastra);
+
+c) 300 kg/dia de berbigão (Cerastoderma edule), até um máximo de 1200 kg por semana.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641)
+
+> Alterado pelo/a [Portaria n.º 80/2004 - Diário da República n.º 17/2004, Série I-B de 2004-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/80-2004-607078), em vigor a partir de 2004-01-22
+
+> Aditado pelo/a [Portaria n.º 38-B/2001 - Diário da República n.º 14/2001, 2º Suplemento, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465), em vigor a partir de 2001-01-22
+
+###### Artigo 12.º — Pesca e transporte de salmonídeos
+
+A pesca e transporte de salmonídeos, por razões de preservação da espécie, ficam sujeitos, sem prejuízo das disposições do presente Regulamento que lhes sejam aplicáveis, às seguintes disposições:
+
+a) Apenas pode ser exercida com cana de pesca ou linha de mão tendo como auxiliares o camaroeiro e o bicheiro;
+
+b) Todo o salmonídeo pescado na zona, para poder transitar, deverá ter apenso um selo ou marca e ser acompanhado de uma guia cujos modelos e processamento administrativo serão aprovados por despacho do Ministro da Agricultura, Pescas e Alimentação.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+###### Artigo 13.º — Períodos de defeso
+
+1 - Nos períodos a seguir mencionados, não é permitido pescar, manter a bordo, transbordar, desembarcar, reter, transportar, armazenar, expor ou colocar à venda as seguintes espécies:
+
+a) Lampreia - de 1 de maio a 31 de dezembro, inclusive;
+
+b) Sável e savelha - de 14 de abril a 9 de março, do ano seguinte, inclusive;
+
+c) Sável e savelha - de 1 de Junho ao último dia de Fevereiro, inclusive;
+
+d) Truta-marisca - de 1 de Outubro ao último dia de Fevereiro, inclusive;
+
+e) Boga (Boops boops) - de 15 de Março a 31 de Maio, inclusive;
+
+f) Camarão de rio - de 1 de Novembro a 15 de Junho, inclusive;
+
+g) Solha - de 1 de Março a 31 de Maio, inclusive.
+
+h) (Revogada.)
+
+2 - Dentro das épocas hábeis de pesca, por despacho do membro do Governo responsável pela área do mar, pode ser restringida a utilização de determinadas artes e estabelecidos defesos intermédios, tendo em conta a necessidade de conservação e gestão dos recursos ocorrentes.
+
+3 - Os períodos de defeso intermédio podem ser alterados por despacho do Diretor-Geral da Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, tendo em conta as necessidades de conservação e gestão dos recursos, ouvidas as entidades com competência na matéria e os representantes do setor.
+
+4 - No período de defeso relativo à lampreia, sável ou savelha, é interdita qualquer utilização de redes de tresmalho de deriva, bem como a captura, retenção, transporte, armazenagem, exposição ou colocação à venda de exemplares dessas espécies.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1/2019 - Diário da República n.º 1/2019, Série I de 2019-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/1-2019-117506444), em vigor a partir de 2019-01-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 82/2018 - Diário da República n.º 59/2018, Série I de 2018-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/82-2018-114908240), em vigor a partir de 2018-03-24
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+> Alterado pelo/a [Portaria n.º 80/2004 - Diário da República n.º 17/2004, Série I-B de 2004-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/80-2004-607078), em vigor a partir de 2004-01-22
+
+> Alterado pelo/a [Portaria n.º 38-B/2001 - Diário da República n.º 14/2001, 2º Suplemento, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465), em vigor a partir de 2001-01-22
+
+###### Artigo 14.º — Tamanhos mínimos
+
+Os exemplares capturados cujos tamanhos sejam inferiores às dimensões mínimas fixadas no anexo II ao presente Regulamento ou nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho, devem ser imediatamente devolvidos à água, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos ou transaccionados.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+> Revogado pelo/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20
+
+###### Artigo 15.º — Dados e informações
+
+Os mestres e arrais das embarcações que exerçam a actividade na zona são obrigados a fornecer os dados e informações determinados pela legislação em vigor e a dar cumprimento ao preenchimento dos registos de actividade que a referida legislação imponha.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+#### Secção IV — Sinalização e identificação das artes
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+###### Artigo 16.º — Sinalização das artes
+
+1 - As artes fundeadas devem ser sinalizadas nos termos do disposto no Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio.
+
+2 - A extremidade de uma rede ou aparelho que esteja amarrada a uma embarcação não necessita de ser sinalizada.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+###### Artigo 17.º — Identificação das artes
+
+Para fins de identificação, as artes de pesca de uma embarcação devem ser marcadas, nomeadamente nas bóias de sinalização, com o conjunto de identificação da embarcação a que pertencem.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+### Capítulo III — Pesca lúdica
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+###### Artigo 18.º — Exercício da pesca
+
+1 - A pesca lúdica na zona apenas pode ser exercida a partir de terra firme ou de embarcações de recreio e na modalidade referida no n.º 1 do artigo 9.º do Decreto-Lei n.º 246/2000, de 29 de Setembro, com cana de pesca ou linha de mão, não podendo cada pescador lúdico utilizar mais de duas canas ou linhas.
+
+2 - As embarcações utilizadas na pesca lúdica não devem impedir as embarcações de pesca local de exercerem a sua actividade, nomeadamente quando do lançamento dos seus aparelhos ou redes.
+
+3 - Do pôr ao nascer do Sol, a pesca lúdica não pode exercer-se de bordo de embarcações.
+
+4 - A pesca lúdica deverá obedecer às disposições do presente Regulamento que lhe sejam aplicáveis, nomeadamente quanto ao número e abertura dos anzóis (anexo i).
+
+5 - É proibida a captura de espécies cujo tamanho seja inferior aos tamanhos mínimos fixados na legislação em vigor para a pesca comercial, devendo os espécimes ser imediatamente devolvidos ao mar, excepto no caso de competições de pesca desportiva.
+
+6 - É proibida a captura e retenção das espécies constantes do anexo i da Portaria n.º 144/2009, de 5 de Fevereiro.
+
+7 - A Capitania do Porto poderá autorizar competições de pesca desportiva na zona desde que verificadas as necessárias condições de segurança, salubridade e protecção dos recursos vivos.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+###### Artigo 19.º — Caça submarina
+
+Na zona de aplicação do presente Regulamento não é permitido praticar a modalidade de pesca lúdica referida no artigo 6.º do Decreto-Lei n.º 246/2000, de 29 de Setembro.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+### Capítulo IV — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+###### Artigo 20.º — Regime contra-ordenacional
+
+Às infracções ao disposto no presente Regulamento é aplicável o Decreto-Lei n.º 278/87, de 7 de Julho, e no que se refere à pesca lúdica, os correspondentes artigos do Decreto-Lei n.º 246/2000, de 29 de Setembro.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+###### Artigo 21.º — Proibição temporária da pesca de salmão
+
+1 - Fica interdita a pesca de salmão por dois anos a contar da data da entrada em vigor do presente Regulamento.
+
+2 - O prazo definido no número anterior poderá ser alterado por despacho do Ministro da Agricultura, Pescas e Alimentação.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+###### Artigo 22.º — Outra legislação aplicável
+
+Sem prejuízo do disposto no presente Regulamento, o exercício da pesca na zona está sujeito às disposições legais aplicáveis no Decreto-Lei n.º 278/87, de 7 de Julho, e do Decreto Regulamentar n.º 43/87, de 17 de Julho, e, no que respeita à pesca desportiva, às do Decreto n.º 45116, de 6 de Julho de 1963.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+## Anexo I — Descrição e características das artes autorizadas
+
+(a que se refere o n.º 3 do artigo 4.º)
+
+1 - Amostra, corrico ou corripo
+
+Descrição: aparelho de anzol com amostra, que actua à superfície ou abaixo desta, podendo ou não ser rebocado por uma embarcação.
+
+Característica:
+
+Abertura mínima do anzol - 8 mm.
+
+2 - Bicheiro
+
+Descrição: gancho, sem farpa na extremidade, dotado de um cabo.
+
+3 - Camaroeiro, rapichel ou rede de fole
+
+Descrição: arte de levantar de mão, constituída por um saco de rede entralhado num aro, ligado, por sua vez, ao extremo de um cabo.
+
+Características:
+
+Diâmetro máximo do aro - 50 cm;
+
+Comprimento máximo do saco - 50 cm;
+
+Malhagem mínima do saco - 10 mm.
+
+4 - Cana de pesca e linha de mão
+
+Características:
+
+Número máximo de anzóis 3;
+
+Abertura mínima dos anzóis - 8 mm.
+
+5- (Revogado).
+
+6 - Minhocada, resulho ou romilhão
+
+Descrição: conjunto de minhocas enfiadas numa linha e enroladas de forma a constituir um novelo ligado a uma linha de pesca ou preso à extremidade de uma cana ou vara.
+
+7 - Mugeira
+
+Descrição: rede de um pano de cercar para terra.
+
+Característica:
+
+Malhagem mínima - 50 mm.
+
+8 -  (Revogado.)
+
+9 - Solheira
+
+Descrição: rede de emalhar de três panos (tresmalho) fundeada.
+
+Características:
+
+Comprimento máximo da rede - 180 m;
+
+Altura máxima da rede - 2 m;
+
+Malhagem mínima no pano central (miúdo) - 100 mm.
+
+10 - Tresmalho de deriva
+
+Descrição: rede de emalhar de três panos (tresmalho) de deriva.
+
+Características do tresmalho de sável:
+
+Comprimento máximo da rede - 50 m;
+
+Altura máxima da rede - 1,5 m;
+
+Malhagem mínima no pano central (miúdo) - 100 mm.
+
+Características do tresmalho de lampreia:
+
+Comprimento máximo da rede - 160 m;
+
+Altura máxima da rede - 3 m;
+
+Malhagem mínima do pano central (miúdo) - 70 mm;
+
+Cada embarcação apenas pode ter a bordo e utilizar uma rede.
+
+11 - Xaqueira
+
+Descrição: aparelho de anzol fundeado.
+
+Características:
+
+Comprimento máximo da madre - 50 m;
+
+Abertura mínima dos anzóis - 8 mm;
+
+Número máximo de aparelhos por embarcação - 2;
+
+Número máximo de anzóis por embarcação - 100.
+
+12 - Berbigoeiro
+
+Descrição: arte constituída por uma travessa de ferro com pente de dentes, tendo a meio uma vara para servir de cabo e ligado a um arco, onde entralha o saco. Em alternativa, poderá ser constituída por uma armação metálica, forrada com rede rígida, de forma paralelepipédica, com pente de dentes na metade frontal inferior e ligada a uma vara para servir de cabo. Esta arte pode ser utilizada a bordo de uma embarcação parada ou a vau, sendo que, neste caso, a estrutura pode estar ligada a um puxador metálico em vez de uma vara.
+
+Quando a arte for utilizada a vau, a embarcação de apoio deverá encontrar-se junto ao operador, não podendo estar afastada daquele mais de 50 m.
+
+Espécies a capturar, em função da zona onde operam, berbigão (Cerastoderma edule), amêijoa-boa (Ruditapes decussatus) e amêijoa-macha (Venerupis pulastra).
+
+Características:
+
+Vara - comprimento máximo de 10 m;
+
+Boca do berbigoeiro:
+
+Comprimento máximo dos dentes - 15 cm;
+
+Espaçamento mínimo entre os dentes - 1,5 cm;
+
+Comprimento máximo da travessa - 100 cm;
+
+Altura máxima do arco - 50 cm;
+
+Comprimento máximo da armação metálica - 50 cm;
+
+Altura máxima da armação metálica - 20 cm;
+
+Saco de rede:
+
+Comprimento máximo - 150 cm;
+
+Malhagem mínima - 30 mm;
+
+Armação metálica:
+
+Profundidade máxima - 40 cm;
+
+Malhagem rígida mínima - 20 mm.
+
+13 - (Revogado.)
+
+14 - Nassa
+
+Descrição - armadilha, de forma variada, constituída por um suporte rígido coberto de rede e dispondo de uma ou mais aberturas. Pode ser calada individualmente ou em teias, com ou sem isco.
+
+Características:
+
+Comprimento máximo da armadilha - 70 cm;
+
+Altura máxima da armadilha - 30 cm;
+
+Largura máxima da armadilha - 30 cm;
+
+Malhagem mínima da rede - 30 mm;
+
+Número máximo de teias - 4;
+
+Número máximo de armadilhas - 40.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+> Alterado pelo/a [Portaria n.º 80/2004 - Diário da República n.º 17/2004, Série I-B de 2004-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/80-2004-607078), em vigor a partir de 2004-01-22
+
+> Alterado pelo/a [Portaria n.º 38-B/2001 - Diário da República n.º 14/2001, 2º Suplemento, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/38-b-2001-431465), em vigor a partir de 2001-01-22
+
+> Alterado pelo/a [Portaria n.º 17-A/99 - Diário da República n.º 9/1999, 1º Suplemento, Série I-B de 1999-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/17-a-1999-213796), em vigor a partir de 1999-01-13
+
+## Anexo II — Tamanhos mínimos das espécies
+
+(a que se refere o artigo 14.º)
+
+Berbigão (Cerastoderma edule) - 2,5 cm (ver nota a).
+
+Boga (Boops boops) - 10 cm (ver nota b).
+
+Enguia (Anguilla anguilla) - 22 cm (ver nota b).
+
+Lampreia (Petromyzon marinus) - 35 cm (ver nota b).
+
+Robalo (Dicentrarchus labrax) - 36 cm (ver nota a).
+
+Salmão (Salmo salar) - 55 cm (ver nota b).
+
+Sável (Alosa alosa) - 30 cm (ver nota a).
+
+Savelha (Alosa fallax) - 30 cm (ver nota a).
+
+Solha (Pleuronectes platessa) - 25 cm (ver nota a).
+
+Solha-das-pedras (Platichtys flesus) - 25 cm (ver nota a).
+
+Tainha (Mugilidae) - 20 cm (ver nota a).
+
+Truta-marisca (Salmo trutta) - 30 cm (ver nota b).
+
+(nota a) Tamanho fixado pelos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, do 17 de Julho.
+
+(nota b) Tamanho fixado pelo presente Regulamento.
+
+> Revogado pelo/a Artigo 15.º do/a [Portaria n.º 370/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/370-2024-901661933), em vigor a partir de 2025-01-30
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 1220/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/1220-2010-306641), em vigor a partir de 2010-12-08
+
+> Revogado pelo/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20

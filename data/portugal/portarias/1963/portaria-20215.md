@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:683814:por
+title: Portaria n.º 20215
+short_title: null
+summary: Cria os conselhos administrativos da Direcção da Arma de Engenharia e da Direcção da Arma de Transmissões, com a
+  constituição prevista no Decreto-Lei n.º 34365
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Exército - Repartição do Gabinete
+proposing_entity: null
+official_number: '20215'
+official_date: null
+publication_date: '1963-12-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 284/1963, Série I de 1963-12-04
+  number: '284'
+  series: I
+  supplement: null
+  pages: 1903 - 1903
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/12/28400/19031903.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '683814'
+  dre_path: /dr/detalhe/portaria/20215-1963-683814
+  internal: pt:dre:683814:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/20215-1963-683814
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20215-1963-683814
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:37:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3d7eb4a53a1811045d9805831c6dbf58ecde25918833b813f2f64d17040694e3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Administrativo
+- Criação de Serviços
+- Exército
+- Forças Armadas
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:37:12Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 20215
+
+Atendendo a que a Direcção da Arma de Engenharia e a Direcção da Arma de Transmissões têm a seu cargo a dupla missão de arma e serviço;
+
+Atendendo a que não possuem o órgão administrativo competente que lhes permita desempenhar cabalmente as suas funções, principalmente na parte que se relaciona com o sector dos serviços;
+
+Considerando que se verifica a necessidade de dotar aquelas duas Direcções de tal órgão que lhes permita exercer as funções administrativas com eficiência e prontidão:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Exército, que sejam criados os conselhos administrativos da Direcção da Arma de Engenharia e da Direcção da Arma de Transmissões, com a constituição prevista no Decreto-Lei n.º 34365, de 3 de Janeiro de 1945, os quais entram em funcionamento a partir de 1 de Janeiro de 1964.
+
+Ministério do Exército, 4 de Dezembro de 1963. - O Ministro do Exército, Joaquim da Luz Cunha.

@@ -1,0 +1,712 @@
+---
+schema_version: '1.0'
+id: pt:dre:66487460:por
+title: Portaria n.º 31/2015
+short_title: null
+summary: Estabelece o regime de aplicação da ação n.º 3.1, «Jovens agricultores», da Medida n.º 3, «Valorização da produção
+  agrícola», do Programa de Desenvolvimento Rural do Continente, designado por PDR 2020
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e do Mar
+proposing_entity: null
+official_number: 31/2015
+official_date: null
+publication_date: '2015-02-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/2015, Série I de 2015-02-12
+  number: '30'
+  series: I
+  supplement: null
+  pages: 845 - 851
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/02/03000/0084500851.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-12-31'
+version_history:
+  file: portaria-31-2015.versoes.json
+  count: 10
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-02-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-09-16'
+    amending: pt:dre:75341997:por
+    amending_title: Portaria n.º 249/2016
+    changes:
+    - Altera Artigo 12.º
+  - date: '2017-01-03'
+    amending: pt:dre:105669752:por
+    amending_title: Portaria n.º 2/2017
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Anexo II
+    - Revoga Anexo I
+  - date: '2017-02-25'
+    amending: pt:dre:106522755:por
+    amending_title: Portaria n.º 85-A/2017
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+  - date: '2017-09-26'
+    amending: pt:dre:108205180:por
+    amending_title: Portaria n.º 283/2017
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+  - date: '2018-01-06'
+    amending: pt:dre:114457668:por
+    amending_title: Portaria n.º 8/2018
+    changes:
+    - Altera Anexo II
+  - date: '2018-02-13'
+    amending: pt:dre:114682828:por
+    amending_title: Portaria n.º 46/2018
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Anexo II
+    - Revoga Artigo 12.º
+  - date: '2018-07-12'
+    amending: pt:dre:115678435:por
+    amending_title: Portaria n.º 203/2018
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+  - date: '2021-03-05'
+    amending: pt:dre:158772232:por
+    amending_title: Portaria n.º 49/2021
+    changes:
+    - Adita Artigo 5.º-A
+  - date: '2021-12-31'
+    amending: pt:dre:176807512:por
+    amending_title: Portaria n.º 328-C/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/31/2015/p/cons/20210304/pt/html
+  oj: null
+  dre: '66487460'
+  dre_path: /dr/detalhe/portaria/31-2015-66487460
+  internal: pt:dre:66487460:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-2015-66487460
+  metadata_url: https://data.dre.pt/eli/port/31/2015/p/cons/20210304/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-105679675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-105679675
+  retrieved_at: '2026-10-22T12:09:40Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 1300a8520c6697fe634a2407ab2e4a069ea44d62e5754db547a50ff194fb3dd6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:09:40Z'
+  notes: 10 versão(ões); histórico completo em portaria-31-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proder
+- Financiamento
+- Apoio ao Investimento
+- Projeto de Investimento
+- Pagamento
+- IFAP
+- Jovem Agricultor
+- Exploração Agrícola
+- Agricultor
+- Regulamento CE
+- Agricultura
+- PDR 2020
+- Medida N.º 3 Valorização da Produção Agrícola
+relationships:
+- type: amended_by
+  target: pt:dre:75341997:por
+  label: Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997
+  date: '2016-09-15'
+- type: amended_by
+  target: pt:dre:105669752:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 12.º;
+    Altera Artigo 15.º; Altera Artigo 17.º; Altera Anexo II; Revoga Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/2-2017-105669752
+  date: '2017-01-02'
+- type: amended_by
+  target: pt:dre:106522755:por
+  label: Altera Artigo 5.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/85-a-2017-106522755
+  date: '2017-02-24'
+- type: amended_by
+  target: pt:dre:108205180:por
+  label: Altera Artigo 8.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/283-2017-108205180
+  date: '2017-09-25'
+- type: amended_by
+  target: pt:dre:114457668:por
+  label: Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/8-2018-114457668
+  date: '2018-01-05'
+- type: amended_by
+  target: pt:dre:114682828:por
+  label: Altera Artigo 3.º; Altera Artigo 8.º; Altera Anexo II; Revoga Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828
+  date: '2018-02-12'
+- type: amended_by
+  target: pt:dre:115678435:por
+  label: Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/203-2018-115678435
+  date: '2018-07-11'
+- type: amended_by
+  target: pt:dre:158772232:por
+  label: Adita Artigo 5.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/49-2021-158772232
+  date: '2021-03-04'
+- type: amended_by
+  target: pt:dre:176807512:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512
+  date: '2021-12-30'
+- type: cites
+  target: celex:32013R1306
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1306/oj
+- type: cites
+  target: celex:32013R1307
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1307/oj
+- type: cites
+  target: celex:32013R1379
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1379/oj
+- type: cites
+  target: celex:32014R0640
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/640/oj
+- type: cites
+  target: celex:32014R0809
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/809/oj
+- type: cites
+  target: celex:32017R2393
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/2003/361/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:175334:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/195/2012/08/23/p/dre
+- type: cites
+  target: pt:dre:190577:por
+  label: null
+  source: http://data.dre.pt/eli/lei/62/2012/12/10/p/dre
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+- type: cites
+  target: pt:dre:570765:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/21/2014/02/11/p/dre
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+- type: cites
+  target: pt:dre:58815352:por
+  label: null
+  source: http://data.dre.pt/eli/port/230/2014/11/11/p/dre
+article_structure:
+  article_count: 20
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:09:40Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 31/2015
+
+Portaria n.º 31/2015
+
+de 12 de fevereiro
+
+O Decreto-Lei n.º 137/2014, de 12 de setembro, estabeleceu o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural, um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.
+
+O PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.
+
+Na arquitetura do PDR 2020, à área relativa à «Competitividade e organização da produção», corresponde uma visão da estratégia nacional para o desenvolvimento rural, no domínio do apoio às empresas, que tem como princípio determinante a concentração dos apoios no sector e na produção de bens transacionáveis dirigidas aos agentes económicos diretamente envolvidos na criação de valor, a partir de atividades agrícolas e agroalimentares e assente numa gestão eficiente dos recursos.
+
+Inserida na referida área de «Competitividade e organização da produção», encontramos a Medida «Valorização da Produção Agrícola», que contempla vários instrumentos, nomeadamente ao nível das taxas de apoio e outras majorações, concebidos para criar condições que potenciem, de forma abrangente ao longo do território, o empreendedorismo com base em decisões de iniciativa privada, que visem um aumento sustentável do valor acrescentado das explorações agrícolas.
+
+Neste quadro, a ação «Jovens agricultores», deve contribuir para a renovação e melhoria na gestão das explorações agrícolas, com a promoção do acesso à terra, nomeadamente a jovens qualificados, sendo a formação técnica empresarial determinante para o aumento sustentável da capacidade de gerar valor pelo sector agrícola.
+
+A renovação geracional e a entrada de novos agricultores, com melhores qualificações técnicas e de gestão, é fundamental para a dinamização do sector, contribuindo para contrariar o grau de envelhecimento acentuado e o nível de educação baixo, com as inerentes dificuldades na adesão a formas de agricultura mais eficientes e sustentáveis promovendo a ocupação dos territórios rurais.
+
+A experiência recente caracteriza-se por uma procura crescente de jovens empreendedores com projetos inovadores na utilização do recurso terra e no desenvolvimento empresarial do meio rural.
+
+Deste modo, esta ação procura aumentar a atratividade do sector a jovens investidores, através do apoio à primeira instalação na atividade agrícola, promovendo o investimento, a organização da produção e a transferência de conhecimento.
+
+A necessidade de ter uma resposta consistente para a sustentabilidade económica de primeiras instalações traduz-se numa corresponsabilização do jovem agricultor, quer ao nível da sua formação, quer ao nível financeiro, quer ainda ao nível da participação no mercado através de Organizações de Produtores.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece o regime de aplicação da operação 3.1.1, 'Jovens agricultores', da ação n.º 3.1, 'Jovens agricultores', integrada na medida n.º 3, 'Valorização da produção agrícola', da área n.º 2, 'Competitividade e organização da produção', do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 203/2018 - Diário da República n.º 132/2018, Série I de 2018-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/203-2018-115678435), em vigor a partir de 2018-07-12
+
+###### Artigo 2.º — Objetivos
+
+O apoio previsto na presente portaria prossegue os seguintes objetivos:
+
+a) Fomentar a renovação e o rejuvenescimento das empresas agrícolas;
+
+b) Aumentar a atratividade do sector agrícola aos jovens investidores, promovendo o investimento, o apoio à aquisição de terras, a transferência de conhecimentos e a participação no mercado.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+###### Artigo 3.º — Definições
+
+Para efeitos da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:
+
+a) 'Agricultor ativo', a pessoa singular ou coletiva, de natureza pública ou privada, que exerça atividade agrícola, não sendo aplicáveis as disposições previstas nos n.os 2, 3 e 3-A do artigo 9.º do Regulamento (UE) n.º 1307/2013, na redação dada pelo Regulamento (UE) 2017/2393, do Parlamento e do Conselho, de 13 de dezembro de 2017.
+
+b) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;
+
+c) «Exploração agrícola», o conjunto de parcelas ou animais utilizados para o exercício de atividades agrícolas, submetidos a uma gestão única;
+
+d) «Jovem agricultor», o agricultor que, à data da apresentação da candidatura, tenha idade compreendida entre os 18 e os 40 anos, inclusive, e se instale pela primeira vez numa exploração agrícola;
+
+e) «Primeira instalação», a situação em que o jovem agricultor, na qualidade de responsável pela exploração, assume formalmente a titularidade e a gestão direta da exploração agrícola, e encontra-se inscrito na autoridade tributária com atividade agrícola e no organismo pagador enquanto beneficiário;
+
+f) «Produtos agrícolas», os produtos constantes do anexo I do Tratado de Funcionamento da União Europeia, com exceção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (UE) n.º 1379/2013, do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013;
+
+g) «Titular de uma exploração agrícola», o detentor, a qualquer título, do património fundiário necessário à produção de um ou vários produtos agrícolas, e gestor do aparelho produtivo;
+
+h) «Valor produção padrão», o valor de um produto agrícola, vegetal ou animal expresso em termos de padrão da produção bruta.
+
+i) «Instalação em regime de exclusividade», a situação em que o jovem agricultor não tem outra ocupação regular no período normal de trabalho, remunerada ou não, e obtém os seus rendimentos exclusivamente da atividade agrícola, sem prejuízo de auferir apoios públicos e outros rendimentos que não decorram de atividade profissional.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2017 - Diário da República n.º 1/2017, Série I de 2017-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2017-105669752), em vigor a partir de 2017-01-03
+
+###### Artigo 4.º — Beneficiários
+
+Podem beneficiar do apoio previsto na presente portaria:
+
+a) Os jovens agricultores, na aceção da alínea d) do artigo anterior;
+
+b) As pessoas coletivas que revistam a forma de sociedade por quotas e com a atividade agrícola no objeto social, desde que os sócios gerentes que forem jovens agricultores, na aceção da alínea d) do artigo anterior, detenham a maioria do capital social e individualmente uma participação superior a 25 % no capital social.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 203/2018 - Diário da República n.º 132/2018, Série I de 2018-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/203-2018-115678435), em vigor a partir de 2018-07-12
+
+###### Artigo 5.º — Critérios de elegibilidade dos beneficiários
+
+1 - Os candidatos aos apoios previstos na presente portaria, além do disposto no artigo anterior e sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem ainda reunir as seguintes condições:
+
+a) Encontrar-se legalmente constituídos;
+
+b) Enquadrar-se na categoria de micro ou pequenas empresas na aceção da Recomendação 361/2003/CE, da Comissão, de 6 de maio de 2003;
+
+c) Adquirir a titularidade da exploração agrícola e efetuar o respetivo registo no Sistema de Identificação Parcelar, até à data de aceitação da concessão do apoio;
+
+d) Estar inscritos na autoridade tributária com atividade agrícola, até à data de aceitação da concessão do apoio;
+
+e) Estar inscritos no organismo pagador enquanto beneficiário;
+
+f) Apresentar um plano empresarial com a duração de cinco anos a contar da data de aceitação da concessão do apoio, que apresente coerência técnica, económica e financeira, o qual deve contemplar os seguintes elementos:
+
+i) Descrição da situação inicial da exploração agrícola;
+
+ii) Demonstração do potencial de produção da exploração agrícola, expresso em valor de produção padrão que seja igual ou superior a (euro) 8.000, por jovem agricultor, e inferior ou igual a (euro) 1 500 000, por beneficiário;
+
+iii) Indicação das etapas e metas para o desenvolvimento das atividades da exploração agrícola;
+
+iv) Descrição da totalidade dos investimentos a realizar, com valor igual ou superior a (euro) 25 000, por jovem agricultor, e inferior ou igual a (euro) 3 000 000, por beneficiário, incluindo, se aplicável, os investimentos constantes da candidatura à ação n.º 3.2, «Investimentos na exploração agrícola», do PDR 2020;
+
+v) Descrição detalhada das ações necessárias ao desenvolvimento das atividades da exploração agrícola, designadamente as relacionadas com a sustentabilidade ambiental e a eficiência na utilização dos recursos, o aconselhamento agrícola e a formação;
+
+g) Não ter celebrado contrato de financiamento ou assinado termo de aceitação em quaisquer ajudas aos investimentos no setor agrícola nem ter recebido prémio à primeira instalação antes da data de apresentação da candidatura, com exceção das candidaturas que tenham sido aprovadas nos doze meses anteriores à submissão da candidatura no âmbito do regime de apoio à reestruturação e reconversão da vinha (VITIS);
+
+h) Não ter recebido quaisquer ajudas à produção ou à atividade agrícola no âmbito do pedido único, exceto nos dois anos anteriores ao ano de apresentação da candidatura.
+
+2 - No caso de candidaturas apresentadas por pessoas coletivas, os sócios gerentes que sejam jovens agricultores devem reunir individualmente as condições previstas nas alíneas g) e h) do número anterior.
+
+3 - Para efeito de cálculo do valor dos investimentos referido na subalínea iv) da alínea f) do n.º 1 são contabilizados os seguintes montantes:
+
+a) 100 % do total do investimento elegível apurado no âmbito da ação 3.2, «investimento na exploração agrícola», da medida 3, «valorização da produção agrícola», do PDR 2020;
+
+b) 75 % do total do investimento elegível apurado no âmbito do regime de apoio à reestruturação e reconversão das vinhas (VITIS);
+
+c) 100 % dos investimentos materiais e imateriais, diretamente relacionados com a primeira instalação, quando sejam suportados exclusivamente pelo beneficiário;
+
+d) Até 2.000 euros relativos a formação.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 85-A/2017 - Diário da República n.º 40/2017, 1º Suplemento, Série I de 2017-02-24](https://diariodarepublica.pt/dr/detalhe/portaria/85-a-2017-106522755), em vigor a partir de 2017-02-25, produz efeitos a partir de 2016-03-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2017 - Diário da República n.º 1/2017, Série I de 2017-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2017-105669752), em vigor a partir de 2017-01-03
+
+###### Artigo 5.º-A — Atividade agrícola anterior
+
+1 - O exercício de atividade agrícola em data anterior à apresentação da candidatura não constitui impedimento à obtenção do apoio previsto na presente portaria, excetuando o disposto nos números seguintes.
+
+2 - No caso de candidaturas apresentadas por pessoas singulares, a verificação de qualquer das seguintes situações é motivo de impedimento:
+
+a) A pessoa singular esteja inscrita na autoridade tributária com atividade agrícola há mais de dois anos antes da apresentação da candidatura, sem prejuízo do disposto na alínea h) do n.º 1 do artigo 5.º;
+
+b) A pessoa singular detenha ou tenha detido a totalidade do capital social de sociedade unipessoal inscrita na autoridade tributária com atividade agrícola há mais de dois anos antes da apresentação da candidatura;
+
+c) A pessoa singular detenha ou tenha detido a maioria do capital social ou individualmente uma participação superior a 25 % no capital social de sociedade por quotas que, por esse motivo, tenha beneficiado de quaisquer ajudas aos investimentos de jovens agricultores no setor agrícola ou de prémio à primeira instalação.
+
+3 - No caso de candidaturas apresentadas por pessoas coletivas, a verificação de qualquer das seguintes situações é motivo de impedimento:
+
+a) Os sócios gerentes que sejam jovens agricultores estejam em qualquer das situações referidas no número anterior;
+
+b) A pessoa coletiva esteja inscrita na autoridade tributária com atividade agrícola há mais de dois anos antes da apresentação da candidatura, tendo como gerentes e sócios detentores da maioria do capital social os jovens agricultores que reúnem estas condições à data da apresentação da candidatura;
+
+c) A pessoa coletiva tenha beneficiado de quaisquer ajudas aos investimentos de jovens agricultores no setor agrícola ou de prémio à primeira instalação.
+
+4 - Para os efeitos do disposto no presente artigo, entende-se que beneficiou de quaisquer ajudas ou prémio aquele que celebrou contrato de financiamento ou assinou termo de aceitação, no âmbito da ajuda em causa.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 49/2021 - Diário da República n.º 44/2021, Série I de 2021-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/49-2021-158772232), em vigor a partir de 2021-03-05, produz efeitos a partir de 2017-12-30
+
+###### Artigo 6.º — Critérios de seleção das candidaturas
+
+1 - Para efeitos de seleção das candidaturas, são considerados, designadamente, os seguintes critérios:
+
+a) Aquisição da titularidade da exploração agrícola ou de qualquer das suas parcelas através do Banco Nacional de Terras ou outras iniciativas públicas de facilitação do acesso à terra;
+
+b) Localização da exploração agrícola;
+
+c) Nível de qualificação e formação agrícola do candidato;
+
+d) Forma e regime de instalação do candidato;
+
+e) Participação como associado em organização ou agrupamento de produtores reconhecido, em cooperativa agrícola ou noutra entidade de natureza associativa agrícola que assegure a comercialização da produção dos seus associados.
+
+2 - A hierarquização dos critérios de seleção, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate, são definidos pela autoridade de gestão, no respetivo anúncio do período de apresentação de candidaturas, e divulgados no portal do PDR 2020, em www.pdr-2020.pt.
+
+3 - No caso de candidatura ao apoio previsto na presente portaria e à ação 3.2.1 - «Investimentos na exploração agrícola», a pontuação a atribuir à candidatura é a média resultante da pontuação obtida em cada um dos regimes de apoio.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2017 - Diário da República n.º 1/2017, Série I de 2017-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2017-105669752), em vigor a partir de 2017-01-03
+
+###### Artigo 7.º — Forma e montantes do apoio
+
+1 - O apoio previsto na presente portaria consiste num prémio à instalação, sob a forma de subvenção não reembolsável.
+
+2 - O montante do prémio à instalação é de (euro) 20 000 por jovem agricultor, acrescido de (euro) 5 000 no caso de o investimento na exploração ser igual ou superior a (euro) 80 000, por jovem agricultor, e de (euro) 5 000 no caso de o jovem agricultor se instalar em regime de exclusividade.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 203/2018 - Diário da República n.º 132/2018, Série I de 2018-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/203-2018-115678435), em vigor a partir de 2018-07-12
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2017 - Diário da República n.º 1/2017, Série I de 2017-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2017-105669752), em vigor a partir de 2017-01-03
+
+###### Artigo 8.º — Obrigações dos beneficiários
+
+1 - Os beneficiários dos apoios previstos na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:
+
+a) Manter as condições previstas na alínea b) do artigo 4.º durante o período de duração do plano empresarial, nomeadamente as relativas à detenção do capital social;
+
+b) (Revogada;
+
+c) Exercer a atividade agrícola na exploração pelo período mínimo de cinco anos a contar da data de aceitação da concessão do apoio;
+
+d) Adquirir a condição de agricultor ativo, no prazo de doze meses a contar da data de aceitação da concessão do apoio;
+
+e) Possuir formação agrícola adequada ou, caso não a possua, adquirir formação de acordo com o previsto no n.º 3;
+
+f) Concluir a execução dos investimentos previstos no plano empresarial no prazo máximo de 24 meses a contar da data de aceitação da concessão do apoio, podendo, contudo, a autoridade de gestão autorizar a sua prorrogação em casos excecionais e devidamente fundamentados;
+
+g) Permitir o acesso à exploração agrícola e aos locais onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do plano empresarial;
+
+h) Conservar os documentos relativos à execução do plano empresarial sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o período da sua duração;
+
+i) Manter as condições legais necessárias ao exercício da atividade;
+
+j) Dispor de um processo relativo ao plano empresarial, preferencialmente em suporte digital, com toda a documentação relacionada com o mesmo devidamente organizada.
+
+2 - Para efeitos do disposto na alínea e) do n.º 1, considera-se formação agrícola adequada:
+
+a) Qualificação de nível 2, 4 ou 5, nas áreas de Educação e Formação 621 - Produção Agrícola e Animal, 622 - Floricultura e Jardinagem e 623 - Silvicultura e caça ou uma qualificação de nível 6, 7 ou 8, relativas ao ensino superior, nas áreas agrícola, florestal ou animal;
+
+b) Curso de empresário agrícola homologado pelo Ministério da Agricultura e do Mar;
+
+c) Formação agrícola de outras tipologias financiadas no âmbito do desenvolvimento rural.
+
+3 - A formação prevista na alínea e) do n.º 1 é, sucessivamente, a seguinte:
+
+a) Formação com base nas unidades de formação de curta duração do referencial de formação 621312, «Técnico/a de Produção Agropecuária», de nível 4, do Catálogo Nacional de Qualificações, constituída pelo código 7580, de 50 horas de duração;
+
+b) Formação complementar nomeadamente na tipologia «formação-ação» ou formação modular do Catálogo Nacional de Qualificações, com uma duração mínima de 150 horas numa ou em ambas as áreas abaixo indicadas:
+
+i) Área da produção agrícola ou animal diretamente relacionada com o setor do investimento;
+
+ii) Área de gestão.
+
+c) Formação complementar por recurso aos serviços de aconselhamento agrícola nos termos do sistema de aconselhamento agrícola e florestal criado pela Portaria n.º 151/2016, de 26 de maio.
+
+4 - A realização da formação prevista no número anterior é verificada em sede de último pedido de pagamento.
+
+5 - Para efeitos de atribuição da majoração relativa à instalação em regime de exclusividade, os beneficiários devem assegurar o cumprimento desta condição no prazo de doze meses a contar da data de aceitação da concessão do apoio e manter a respetiva condição durante todo o período de duração do plano empresarial.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Alterado pelo/a Artigo 28.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2017 - Diário da República n.º 185/2017, Série I de 2017-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/283-2017-108205180), em vigor a partir de 2017-09-26, produz efeitos a partir de 2015-02-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 85-A/2017 - Diário da República n.º 40/2017, 1º Suplemento, Série I de 2017-02-24](https://diariodarepublica.pt/dr/detalhe/portaria/85-a-2017-106522755), em vigor a partir de 2017-02-25, produz efeitos a partir de 2016-03-30
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2017 - Diário da República n.º 1/2017, Série I de 2017-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2017-105669752), em vigor a partir de 2017-01-03
+
+### Capítulo II — Procedimento
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+###### Artigo 9.º — Apresentação das candidaturas
+
+1 - São estabelecidos períodos contínuos para apresentação de candidaturas de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitado em dois órgãos de comunicação social.
+
+2 - A apresentação das candidaturas efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou do PDR 2020, em www.pdr-2020.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+###### Artigo 10.º — Anúncios
+
+1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:
+
+a) Os objetivos e as prioridades visadas;
+
+b) A área geográfica elegível;
+
+c) A dotação orçamental a atribuir;
+
+d) Os critérios de seleção e respetivos critérios de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção.
+
+2 - Os anúncios dos períodos de apresentação das candidaturas são divulgados no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitado em dois órgãos de comunicação social.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+###### Artigo 11.º — Análise e decisão das candidaturas
+
+1 - A autoridade de gestão ou as Direções Regionais de Agricultura e Pescas (DRAP) analisam e emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do jovem agricultor ou do candidato, bem como a aplicação dos critérios referidos no artigo 6.º, o apuramento do montante do custo total elegível e o nível de apoio previsional.
+
+2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.
+
+3 - O parecer referido no n.º 1 é emitido num prazo máximo de 45 dias úteis a contar do termo de apresentação das candidaturas e, quando emitido pelas DRAP, é remetido à autoridade de gestão.
+
+4 - O secretariado técnico aplica os critérios de seleção, em função do princípio da coesão territorial e da dotação orçamental referida no respetivo anúncio e submete à decisão do gestor a aprovação das candidaturas.
+
+5 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código de Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.
+
+6 - As candidaturas são objeto de decisão pelo gestor no prazo de sessenta dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+###### Artigo 12.º — Transição de candidaturas
+
+1 - As candidaturas que tenham obtido classificação igual ou superior à pontuação mínima necessária para seleção das operações e para as quais não tenha existido dotação orçamental transitam para o período de apresentação de candidaturas seguinte, no qual são analisadas e hierarquizadas de acordo com os critérios de seleção e demais condições aplicáveis a esse novo período.
+
+2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida.
+
+> Nota: [Artigo 29.º, Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828) A revogação dos artigos referentes ao procedimento específico de transição de candidaturas a adotar em situações de insuficiência orçamental, prevista no artigo 28.º da presente portaria, apenas produz efeitos relativamente aos avisos para apresentação de candidaturas emitidos após a publicação da presente portaria.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Revogado pelo/a Artigo 28.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2017 - Diário da República n.º 1/2017, Série I de 2017-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2017-105669752), em vigor a partir de 2017-01-03
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01
+
+###### Artigo 13.º — Termo de aceitação
+
+1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), e divulgados no respetivo portal, em www.ifap.pt.
+
+2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+###### Artigo 14.º — Apresentação e análise dos pedidos de pagamento
+
+1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt.
+
+2 - O último pedido de pagamento deve ser acompanhado dos comprovativos das despesas de investimento efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pela IFAP, I. P., e divulgados no respetivo portal em www.ifap.pt.
+
+3 - O último pedido de pagamento deve ser acompanhado dos comprovativos das despesas de investimento efetivamente realizadas e pagas, bem como da realização da formação prevista no n.º 3 do artigo 8.º, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pela IFAP, I. P., e divulgados no respetivo portal em www.ifap.pt.
+
+4 - Para efeitos do disposto no número anterior, podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2017 - Diário da República n.º 185/2017, Série I de 2017-09-25](https://diariodarepublica.pt/dr/detalhe/portaria/283-2017-108205180), em vigor a partir de 2017-09-26, produz efeitos a partir de 2015-02-13
+
+###### Artigo 15.º — Pagamento
+
+1 - O pagamento do prémio à instalação é efetuado da seguinte forma:
+
+a) 80 % do valor total do prémio, após a data de aceitação da concessão do apoio;
+
+b) 20 % do valor total do prémio, após a verificação da realização dos investimentos e da boa execução do plano empresarial.
+
+2 - (Revogado.)
+
+3 - Os pagamentos são efetuados pelo IFAP, I. P., por transferência bancária, de acordo com o calendário definido antes do início de cada ano civil e divulgado no respetivo portal, em www.ifap.pt.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2017 - Diário da República n.º 1/2017, Série I de 2017-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2017-105669752), em vigor a partir de 2017-01-03
+
+###### Artigo 16.º — Controlo
+
+A candidatura, os pedidos de pagamento, bem como o cumprimento do plano empresarial está sujeito a ações de controlo administrativo e in loco a partir da data de aceitação da concessão do apoio, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+###### Artigo 17.º — Reduções e exclusões
+
+1 - O prémio à instalação está sujeito às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.
+
+2 - O incumprimento dos critérios de elegibilidade determina a devolução da totalidade dos apoios recebidos.
+
+3 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 8.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo II à presente portaria, da qual faz parte integrante.
+
+4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.
+
+5 - A omissão ou prestação de informação incorreta para efeitos da aplicação do artigo 10.º e n.º 2 do artigo 12.º da presente portaria determina a exclusão da candidatura.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2017 - Diário da República n.º 1/2017, Série I de 2017-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2017-105669752), em vigor a partir de 2017-01-03
+
+### Capítulo III — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+###### Artigo 18.º — Norma transitória
+
+1 - O primeiro período de apresentação de candidaturas decorre de 23 de fevereiro a 30 de abril de 2015.
+
+2 - As candidaturas apresentadas entre 19 de fevereiro e 30 de junho de 2014, à ação n.º 1.1.3 «Instalação de Jovens Agricultores» da medida n.º 1.1 «Inovação e Desenvolvimento Empresarial» integrada no subprograma n.º 1 «Promoção da Competitividade» do PRODER que ainda não foram objeto de decisão, são analisadas e decididas, com base nos critérios estabelecidos na presente portaria relativamente à tipologia «Prémio à instalação», mantendo, para todos os efeitos, as respetivas data de apresentação e ordem de submissão.
+
+3 - Relativamente à tipologia «Apoio aos investimentos realizados na exploração» da ação n.º 1.1.3 «Instalação de Jovens Agricultores» da medida n.º 1.1 «Inovação e Desenvolvimento Empresarial» integrada no subprograma n.º 1 «Promoção da Competitividade» do PRODER que ainda não foram objeto de decisão, são analisadas e decididas, com base nos critérios estabelecidos na Portaria n.º 230/2014 de 11 de novembro, mantendo, para todos os efeitos, as respetivas data de apresentação e ordem de submissão.
+
+4 - Para efeitos do disposto nos n.os 2 e 3, podem ser solicitados aos candidatos os elementos complementares que se revelem necessários à adequação das candidaturas para efeitos de monitorização do programa.
+
+5 - A autoridade de gestão prevê uma dotação específica para as operações relativas às candidaturas referidas nos n.os 2 e 3.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+###### Artigo 19.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 10 de fevereiro de 2015.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+## Anexo I — Formação agrícola complementar
+
+[a que se refere a alínea b) do n.º 3 do artigo 8.º]
+
+A formação agrícola complementar segue a tipologia "formação-ação" prevista no Programa Operacional de Competitividade e Internacionalização 2014-2020, com duração mínima de 150 horas relativas às seguintes componentes:
+
+a) Formação específica para a orientação produtiva;
+
+b) Formação de gestão da empresa agrícola;
+
+c) Componente prática em contexto empresarial.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Revogado pelo/a Anexo I do/a [Portaria n.º 2/2017 - Diário da República n.º 1/2017, Série I de 2017-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2017-105669752), em vigor a partir de 2017-01-03
+
+## Anexo II — Reduções e exclusões
+
+[a que se refere o n.º 3 do artigo 17.º]
+
+1 - O incumprimento das obrigações dos beneficiários, previstas no artigo 8.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:
+
+(ver documento original)
+
+2 - O disposto no número anterior não prejudica, designadamente, a aplicação:
+
+a) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;
+
+b) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;
+
+c) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;
+
+d) De outras cominações, designadamente de natureza penal, que ao caso couberem.
+
+3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt.
+
+> Revogado pelo/a Artigo 30.º do/a [Portaria n.º 328-C/2021 - Diário da República n.º 252/2021, 2º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/328-c-2021-176807512), em vigor a partir de 2021-12-31
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 8/2018 - Diário da República n.º 4/2018, Série I de 2018-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/8-2018-114457668), em vigor a partir de 2018-01-06
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2017 - Diário da República n.º 1/2017, Série I de 2017-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2017-105669752), em vigor a partir de 2017-01-03

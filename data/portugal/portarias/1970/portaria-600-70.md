@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:146758:por
+title: Portaria n.º 600/70
+short_title: null
+summary: Concede às praças do serviço de saúde militar habilitadas com o curso de sargentos milicianos do serviço de saúde
+  - 2.º ciclo, especialidade de enfermagem -, quando o requeiram, e após o cumprimento de serviço a que são obrigados findo
+  aquele curso, uma carta de enfermeiro militar - Revoga a Portaria n.º 13268
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Exército - Repartição do Gabinete do Ministro
+proposing_entity: null
+official_number: 600/70
+official_date: null
+publication_date: '1970-11-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 275/1970, Série I de 1970-11-26
+  number: '275'
+  series: I
+  supplement: null
+  pages: 1790 - 1790
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/11/27500/17901790.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '146758'
+  dre_path: /dr/detalhe/portaria/600-1970-146758
+  internal: pt:dre:146758:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/600-1970-146758
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/600-1970-146758
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:21:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: eb02b18a934e690fd6ec9b685fdd3316bb35250827286e7b66017575f6e3ee0f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:481763:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:21:53Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 600/70
+
+de 26 de Novembro
+
+Considerando que a instrução dos cursos de sargentos milicianos do serviço de saúde deixou de ser ministrado, em exclusivo, pela Escola do Serviço de Saúde Militar, tendo-se criado, no ultramar, centros de instrução com o mesmo fim:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Exército, conceder às praças do serviço de saúde militar habilitadas com o curso de sargentos milicianos do serviço de saúde - 2.º ciclo, especialidade de enfermeiro -, quando o requeiram, e após o cumprimento do serviço a que são obrigados findo aquele curso, uma carta de enfermeiro militar.
+
+Esta carta, do modelo anexo a esta portaria, será passada pelo director ou comandante do centro de instrução onde o requerente frequentar o curso, mediante muito boa informação do médico da unidade ou estabelecimento militar onde a praça prestou o referido serviço.
+
+Esta portaria revoga a [Portaria n.º 13268](https://diariodarepublica.pt/dr/detalhe/portaria/13268-1950-481763), de 23 de Agosto de 1950.
+
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27500/17901790.pdf)
+
+(ver nota a) ...
+
+(ver nota b) ...
+
+F ..., director (comandante) d..., faço saber que F. ..., natural d..., filho de ... e de ..., completou em ... o curso de sargentos milicianos do serviço de saúde, 2.º ciclo, especialidade de enfermeiro, no qual são ministrados as conhecimentos necessários ao desempenho das funções de enfermeiro militar.
+
+E para assim constar se lhe passa a presente carta de curso de enfermeiro militar, assinada por mim e pelos dois professores mais graduados e selada com o selo branco deste centro de instrução.
+
+..., ... de ... de 19...
+
+O Director (Comandante),
+
+...
+
+Os Professores,
+
+...
+
+...
+
+(nota a) Região militar ou comando territorial independente.
+
+(nota b) Centro de instrução onde funcionou o curso de sargentos milicianos (2.º ciclo do serviço de saúde).
+
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.

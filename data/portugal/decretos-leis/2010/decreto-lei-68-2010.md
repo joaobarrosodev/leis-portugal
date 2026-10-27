@@ -1,0 +1,700 @@
+---
+schema_version: '1.0'
+id: pt:dre:335430:por
+title: Decreto-Lei n.º 68/2010
+short_title: null
+summary: Cria o sistema multimunicipal de triagem, recolha, valorização e tratamento de resíduos sólidos urbanos das regiões
+  de Lisboa e do Oeste e constitui a sociedade VALORSUL - Valorização e Tratamento de Resíduos Sólidos das Regiões de Lisboa
+  e do Oeste, S. A., atribuindo-lhe a concessão da exploração e gestão desse sistema
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 68/2010
+official_date: null
+publication_date: '2010-06-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/2010, Série I de 2010-06-15
+  number: '114'
+  series: I
+  supplement: null
+  pages: 2031 - 2038
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11400/0203102038.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2014-07-03'
+version_history:
+  file: decreto-lei-68-2010.versoes.json
+  count: 2
+  source_lastmod: '2025-09-25'
+  versions:
+  - date: '2010-06-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-03'
+    amending: pt:dre:25345610:por
+    amending_title: Decreto-Lei n.º 108/2014
+    changes:
+    - Adita Artigo 10.º-A
+    - Adita Artigo 10.º-B
+    - Adita Artigo 10.º-C
+    - Adita Artigo 24.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 6.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/68/2010/p/cons/20140702/pt/html
+  oj: null
+  dre: '335430'
+  dre_path: /dr/detalhe/decreto-lei/68-2010-335430
+  internal: pt:dre:335430:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2010-335430
+  metadata_url: https://data.dre.pt/eli/dec-lei/68/2010/p/cons/20140702/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-936543844
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-936543844
+  retrieved_at: '2026-10-22T13:34:01Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-09-25T00:00:00Z'
+integrity:
+  source_sha256: 008936d8ea83d21c1e2c833efbd8bbc725425b637f28da0ccc320be641e6f2dc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:34:01Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-68-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alcobaça
+- Alenquer
+- Arruda dos Vinhos
+- Assembleia Geral
+- Vila Franca de Xira
+- Gestão de Resíduos
+- Azambuja
+- Bombarral
+- Cadaval
+- Caldas da Rainha
+- Capital Social
+- Conselho de Administração
+- Conselho Fiscal
+- Constituição de Sociedade
+- Contrato de Concessão
+- Fusão de Empresas
+- Estatuto
+- Lisboa
+- Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos das Regiões de
+  Lisboa e do Oeste
+- Sistema Multimunicipal de Valorização e Tratamento de Resíduos Sólidos Urbanos do Oeste
+- Valorsul-valorização e Tratamento de Resíduos Sólidos das Regiões de Lisboa e do Oeste
+- Loures
+- Lourinhã
+- Nazaré
+- Óbidos
+- Odivelas
+- Peniche
+- Tratamento de Resíduos
+- Resíduo Urbano
+- Resioeste-valorização e Tratamento de Resíduos Sólidos
+- Revisor Oficial de Contas
+- RIO Maior
+- Amadora
+- Sistema Multimunicipal de Valorização e Tratamento de Resíduos Sólidos Urbanos de Lisboa Norte
+- Sobral de Monte Agraço
+- Torres Vedras
+relationships:
+- type: amended_by
+  target: pt:dre:25345610:por
+  label: Adita Artigo 10.º-A; Adita Artigo 10.º-B; Adita Artigo 10.º-C; Adita Artigo 24.º-A; Altera Artigo 4.º; Altera Artigo
+    5.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 13.º; Altera Artigo 3.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Revoga Artigo 3.º; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga
+    Artigo 14.º; Revoga Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610
+  date: '2014-07-02'
+- type: cites
+  target: celex:31994L0062
+  label: null
+  source: http://data.europa.eu/eli/dir/1994/62/oj
+- type: cites
+  target: celex:31999L0031
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/31/oj
+- type: cites
+  target: celex:32004L0012
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/12/oj
+article_structure:
+  article_count: 44
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:34:01Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 68/2010
+
+Decreto-Lei n.º 68/2010
+
+de 15 de Junho
+
+O Programa de Governo consagra o desenvolvimento sustentável e a qualidade de vida como prioridades.
+
+O Plano Estratégico dos Resíduos Sólidos Urbanos (PERSU II), aprovado pela Portaria n.º 187/2007, de 12 de Fevereiro, recomenda a fusão de sistemas para gerar economias de escala, bem como a agregação de municípios que se situem geograficamente na sua continuidade territorial, visando, nomeadamente, o ganho de eficiências, capacidade tecnológica e sustentabilidade, permitindo a optimização da gestão de resíduos com salvaguarda de custos socialmente aceitáveis para todos os utentes.
+
+Os Decretos-Leis n.os 297/94, de 21 de Novembro, e 366/97, de 20 de Dezembro, procederam à criação dos sistemas multimunicipais de valorização e tratamento de resíduos sólidos urbanos, respectivamente, de Lisboa Norte e do Oeste.
+
+O Decreto-Lei n.º 297/94, de 21 de Novembro, determinou, também, que o exclusivo da exploração e gestão do sistema multimunicipal de Lisboa Norte fosse atribuído em regime de concessão a uma sociedade anónima de capitais públicos ou maioritariamente públicos a criar nos termos da lei comercial, sociedade essa que veio a ser a VALORSUL - Valorização e Tratamento de Resíduos Sólidos da Área Metropolitana de Lisboa (Norte), S. A.
+
+Por sua vez, o Decreto-Lei n.º 366/97, de 20 de Dezembro, constituiu a concessionária do sistema multimunicipal de valorização e tratamento de resíduos sólidos urbanos do Oeste, a sociedade RESIOESTE - Valorização e Tratamento de Resíduos Sólidos, S. A.
+
+A criação do novo sistema, a que ora se procede, bem como a fusão das concessionárias actualmente existentes, irá proporcionar a obtenção de sinergias, com reflexo positivo nas tarifas, bem como na sustentabilidade económica e financeira do conjunto. Quer a fusão, quer a agregação de novos municípios, com base em critérios de eficiência e de coerência geográfica, justificam-se plenamente no âmbito do PERSU II, da Directiva n.º 1999/31/CE, de 26 de Abril, relativa à deposição de resíduos em aterros, transposta para a ordem jurídica interna pelo Decreto-Lei n.º 183/2009, de 10 de Agosto, e das Directivas n.os 94/62/CE, de 20 de Dezembro, e 2004/12/CE, de 11 de Fevereiro, relativas à gestão de embalagens e resíduos de embalagens, transpostas para a ordem jurídica interna pelos Decretos-Leis n.os 366-A/97, de 20 de Dezembro, 162/2000, de 27 de Julho, e 92/2006, de 25 de Maio.
+
+Esta iniciativa tem ainda por enquadramento o regime jurídico constante do Decreto-Lei n.º 379/93, de 5 de Novembro, alterado pelos Decretos-Leis n.os 176/99, de 25 de Outubro, 14/2002, de 26 de Janeiro, 103/2003, de 23 de Maio, 194/2009, de 20 de Agosto, e 195/2009, de 20 de Agosto, bem como do Decreto-Lei n.º 294/94, de 16 de Novembro, alterado pelos Decretos-Leis n.os 221/2003, de 20 de Setembro e 195/2009, de 20 de Agosto.
+
+Os accionistas da VALORSUL - Valorização e Tratamento de Resíduos Sólidos da Área Metropolitana de Lisboa (Norte), S. A., e da RESIOESTE - Valorização e Tratamento de Resíduos Sólidos, S. A., manifestaram o seu acordo à constituição, por fusão das mesmas, de uma nova sociedade.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei cria o sistema multimunicipal de triagem, recolha selectiva, valorização e tratamento de resíduos sólidos urbanos das regiões de Lisboa e do Oeste.
+
+2 - O presente decreto-lei constitui a sociedade VALORSUL - Valorização e Tratamento de Resíduos Sólidos das Regiões de Lisboa e do Oeste, S. A., e atribui-lhe a concessão da exploração e gestão do sistema referido no número anterior em regime de exclusividade.
+
+###### Artigo 2.º — Criação do sistema de Lisboa e do Oeste
+
+1 - É criado o sistema multimunicipal de triagem, recolha, valorização e tratamento de resíduos sólidos urbanos de Lisboa e do Oeste, adiante designado por sistema de Lisboa e do Oeste, integrando como utilizadores originários os municípios de Alcobaça, Alenquer, Amadora, Arruda dos Vinhos, Azambuja, Bombarral, Cadaval, Caldas da Rainha, Lisboa, Loures, Lourinhã, Nazaré, Óbidos, Odivelas, Peniche, Rio Maior, Sobral de Monte Agraço, Torres Vedras e Vila Franca de Xira.
+
+2 - O sistema de Lisboa e do Oeste, referido no número anterior, substitui:
+
+a) O sistema multimunicipal de valorização e tratamento de resíduos sólidos urbanos de Lisboa Norte, criado pelo Decreto-Lei n.º 297/94, de 21 de Novembro; e
+
+b) O sistema multimunicipal de valorização e tratamento de resíduos sólidos urbanos do Oeste, criado pelo Decreto-Lei n.º 366/97, de 20 de Dezembro.
+
+###### Artigo 3.º — Alargamento do sistema de Lisboa e do Oeste
+
+1 - O sistema de Lisboa e do Oeste pode ser alargado a outros municípios, mediante reconhecimento de interesse público justificativo.
+
+2 - O interesse público referido no número anterior é reconhecido por despacho do membro do Governo responsável pela área do ambiente, sob proposta da sociedade concessionária do sistema de Lisboa e do Oeste e ouvidos os seus municípios utilizadores.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 4.º — Constituição da VALORSUL, S. A.
+
+1 - É constituída a sociedade VALORSUL - Valorização e Tratamento de Resíduos Sólidos das Regiões de Lisboa e do Oeste, S. A., adiante designada por VALORSUL, S. A.
+
+2 - [Revogado].
+
+3 - A fusão não carece de redução a escritura pública, nem de qualquer outra formalidade, devendo o registo comercial bem como todos os demais registos decorrentes da fusão, nomeadamente comerciais, prediais, de registo automóvel ou de propriedade industrial, ser promovidos pela VALORSUL, S. A., com base na publicação do presente decreto-lei no Diário da República, sem prejuízo das taxas legais.
+
+4 - [Revogado].
+
+5 - A VALORSUL, S. A., goza de isenção de imposto municipal sobre a transmissão onerosa de imóveis decorrente do acto de concentração identificado no presente decreto-lei e definido na alínea a) do n.º 3 do artigo 60.º do Estatuto dos Benefícios Fiscais, bem como de isenção de outros encargos legais que se mostrem devidos pela prática de todos os actos inseridos no presente processo da sua criação e de transferência das concessões dos sistemas multimunicipais substituídos, nos termos do n.º 2 do artigo 2.º, de acordo com os n.os 1 a 3 do mesmo artigo 60.º, com excepção dos emolumentos registais e notariais.
+
+6 - Os prejuízos fiscais da VALORSUL - Valorização e Tratamento de Resíduos Sólidos da Área Metropolitana de Lisboa (Norte), S. A., e RESIOESTE - Valorização e Tratamento de Resíduos Sólidos, S. A., podem, sem necessidade de mais autorizações, ser deduzidos dos lucros tributáveis da VALORSUL, S. A., nos termos e para os efeitos do n.º 1 do artigo 75.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas.
+
+7 - [Revogado].
+
+8 - [Revogado].
+
+9 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 5.º — Objecto social da VALORSUL, S. A.
+
+1 - A VALORSUL, S. A., tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos das regiões de Lisboa e do Oeste, abreviadamente designado por sistema de Lisboa e do Oeste.
+
+2 - A exploração e a gestão referidas no número anterior compreendem:
+
+a) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;
+
+b) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;
+
+c) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública.
+
+3 - A VALORSUL, S. A., pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 6.º — Estatutos e regime da VALORSUL, S. A.
+
+1 - São aprovados os Estatutos da VALORSUL, S. A., que constam de anexo ao presente decreto-lei e dele fazem parte integrante.
+
+2 - O disposto no n.º 3 do artigo 4.º aplica-se, com as adaptações devidas, aos Estatutos aprovados no número anterior.
+
+3 - A VALORSUL, S. A., rege-se pelo presente decreto-lei, pelos seus Estatutos e pela lei comercial.
+
+4 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 7.º — Capital social da VALORSUL, S. A.
+
+1 - São titulares originários das acções da VALORSUL, S. A., os accionistas referidos no número seguinte, com o capital social com direito a voto aí previsto.
+
+2 - O capital social inicial, no montante de (euro) 25 200 000, é representado por 5 040 000 acções da classe A, do valor nominal de (euro) 5 cada uma, repartidas da seguinte forma pelos accionistas fundadores:
+
+a) Empresa Geral do Fomento, S. A. - 2 830 927 acções da classe A;
+
+b) Município da Amadora - 232 105 acções da classe A;
+
+c) Município de Lisboa - 900 000 acções da classe A;
+
+d) Município de Loures - 580 263 acções da classe A;
+
+e) Município de Vila Franca de Xira - 232 105 acções da classe A;
+
+f) Associação de Fins Específicos - AMO MAIS - 264 600 acções da classe A.
+
+3 - As acções da classe A devem representar, sempre e pelo menos, 51 % do capital social com direito a voto e delas apenas podem ser titulares entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da Lei n.º 71/88, de 24 de Maio, ou municípios utilizadores do sistema de Lisboa e do Oeste.
+
+4 - A transmissão de acções em violação do disposto no número anterior é nula.
+
+5 - Sem prejuízo do disposto no n.º 3, as acções da classe A podem ser convertidas em acções da classe B, a pedido do seu titular e mediante prévia deliberação favorável da assembleia geral da VALORSUL, S. A.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 8.º — Valor e realização do capital social da VALORSUL, S. A.
+
+1 - O valor do capital social resulta da soma dos capitais sociais da VALORSUL-Valorização e Tratamento de Resíduos Sólidos da Área Metropolitana de Lisboa (Norte), S. A., e RESIOESTE - Valorização e Tratamento de Resíduos Sólidos, S. A., sendo que o número de acções atribuído a cada accionista é o correspondente ao número de acções que cada accionista detinha nas sociedades fundidas.
+
+2 - As deliberações de distribuição de dividendos devem ter em conta a data de realização do capital social por parte de cada accionista para efeitos da remuneração accionista prevista nos contratos de concessão, podendo essa distribuição não ser proporcional ao número de acções detidas, até que todos os accionistas se encontrem em igualdade de circunstâncias.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 9.º — Atribuição da concessão do sistema de Lisboa e do Oeste
+
+1 - A exploração e gestão do sistema de Lisboa e do Oeste são atribuídas em regime de concessão exclusiva à VALORSUL S. A., até 31 de dezembro de 2034.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 10.º — Regime da concessão do sistema de Lisboa e do Oeste
+
+1 - [Revogado].
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+5 - A concessão referida no n.º 1 do artigo anterior rege-se pelo presente decreto-lei, pela Lei n.º 88-A/97, de 25 de julho, alterada pelas Leis n.os 17/2012, de 26 de abril, e 35/2013, de 11 de junho, pelas disposições aplicáveis do Decreto-Lei n.º 92/2013, de 11 de julho, pelas bases que a regem e demais legislação aplicável à atividade concessionada e pelo respetivo contrato.
+
+6 - A VALORSUL, S. A., identifica as infra-estruturas e outros meios e direitos dos municípios utilizadores, incluindo associações de municípios e empresas do sector empresarial local, que se revelem necessários ou úteis ao bom funcionamento do sistema de Lisboa e do Oeste que, mediante afectação, passam a integrá-lo, enquanto se mantiver tal necessidade ou utilidade.
+
+7 - A transmissão prevista no número anterior efectiva-se mediante a elaboração de um auto de entrega.
+
+8 - O presente decreto-lei constitui, sem necessidade de apresentação de qualquer outro documento e com dispensa de trato sucessivo, título necessário e suficiente para os registos em nome da VALORSUL, S. A., dos direitos mencionados no n.º 6, que devem ser realizados a seu requerimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 10.º-A — Conselho consultivo
+
+1 - É criado um conselho consultivo, ao qual compete o acompanhamento da atividade geral da sociedade, nomeadamente dos níveis de serviços praticados e da gestão das infraestruturas afetas à concessão.
+
+2 - Integram o conselho consultivo previsto no número anterior, por inerência, os presidentes de todas as câmaras municipais dos municípios utilizadores do sistema gerido pela VALORSUL, S. A., bem como os membros do respetivo conselho de administração e do conselho fiscal desta.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 10.º-B — Caução referente à exploração
+
+1 - A VALORSUL, S. A., deve prestar em benefício do concedente uma caução destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão.
+
+2 - O valor da caução é de 5 % do volume de negócios da empresa no ano anterior ao da data da sua prestação.
+
+3 - A prestação da caução referida no número anterior deve ocorrer no prazo máximo de 90 dias após a VALORSUL, S. A., deixar de ser detida maioritariamente por entidades públicas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 10.º-C — Recolha seletiva
+
+A prestação do serviço de recolha seletiva nos Municípios de Amadora, Lisboa, Loures, Odivelas e Vila Franca de Xira pode continuar a ser por estes diretamente efetuada nos termos dos acordos em vigor estabelecidos com a VALORSUL, S. A.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 11.º — Contrato de concessão do sistema de Lisboa e do Oeste
+
+Fica o membro do Governo responsável pela área do ambiente autorizado a celebrar em nome e representação do Estado o contrato de concessão do sistema de Lisboa e do Oeste.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 12.º — Utilizadores do sistema de Lisboa e do Oeste
+
+1 - A articulação entre o sistema de Lisboa e do Oeste e o sistema correspondente de cada um dos municípios utilizadores é assegurada através de contratos de entrega, recepção e promoção de recolha selectiva ou de recolha indiferenciada e do seu adequado processamento a celebrar entre a VALORSUL, S. A., e cada um dos municípios.
+
+2 - São também considerados utilizadores quaisquer pessoas singulares ou colectivas, públicas ou privadas, nos termos previstos no contrato de concessão.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 13.º — Disposições transitórias
+
+1 - [Revogado].
+
+2 - [Revogado].
+
+3 - Mantêm-se em vigor, até serem substituídos, os contratos de entrega, receção e promoção de recolha seletiva ou de recolha indiferenciada, celebrados antes da entrada em vigor do presente decreto-lei, entre os utilizadores e as concessionárias por ele extintas, considerando-se as menções feitas nestes contratos aos respetivos contratos de concessão como efetuadas ao contrato de concessão do sistema de Lisboa e do Oeste e prevalecendo os termos e condições deste sobre o clausulado dos mesmos.
+
+4 - [Revogado].
+
+5 - [Revogado].
+
+6 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 14.º — Primeira convocatória da assembleia geral
+
+Considera-se convocada a assembleia geral da VALORSUL, S. A., sem necessidade de cumprimento dos requisitos mencionados no artigo 13.º dos estatutos, para o 10.º dia posterior à data da entrada em vigor do presente decreto-lei ou para o 1.º dia útil subsequente, pelas 17 horas, com o objectivo de eleger os órgãos sociais da VALORSUL, S. A., e aprovar o respectivo estatuto remuneratório.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 15.º — Norma revogatória
+
+São revogados o Decreto-Lei n.º 297/94, de 21 de Novembro, e o Decreto-Lei n.º 366/97, de 20 de Dezembro.
+
+Visto e aprovado em Conselho de Ministros de 15 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto de Sousa Martins - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
+
+Promulgado em 8 de Junho de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 9 de Junho de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+ANEXO
+
+(a que se refere o n.º 1 do artigo 6.º)
+
+ESTATUTOS DA VALORSUL - VALORIZAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS DAS REGIÕES DE LISBOA E DO OESTE, S. A.
+
+## Anexo
+
+### Capítulo I — Denominação, duração e sede
+
+###### Artigo 1.º — Denominação e duração
+
+A sociedade criada pelo presente decreto-lei adopta a denominação de VALORSUL - Valorização e Tratamento de Resíduos Sólidos das Regiões de Lisboa e do Oeste, S. A., adiante designada por VALORSUL, S. A., e dura por tempo indeterminado.
+
+###### Artigo 2.º — Sede
+
+1 - A sede social da VALORSUL, S. A., localiza-se em São João da Talha, na Plataforma Ribeirinha da CP, Estação de Mercadorias da Bobadela.
+
+2 - A VALORSUL, S. A., pode, através de deliberação do conselho de administração, criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, bem como pode mudar a sede social referida no número anterior para outro local sito no mesmo município.
+
+### Capítulo II — Objecto
+
+###### Artigo 3.º — Objecto social
+
+1 - A VALORSUL, S. A., tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos das regiões de Lisboa e do Oeste, abreviadamente designado por sistema de Lisboa e do Oeste.
+
+2 - A exploração e a gestão referidas no número anterior compreendem:
+
+a) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;
+
+b) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;
+
+c) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública.
+
+3 - A VALORSUL, S. A., pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 4.º — Participação em outras sociedades
+
+A VALORSUL, S. A., pode participar em quaisquer outras sociedades, ou entidades de natureza não societária, com objecto similar ou complementar do seu, desde que previamente autorizada pelo concedente.
+
+### Capítulo III — Capital social, acções e obrigações
+
+###### Artigo 5.º — Capital social
+
+1 - O capital social é de (euro) 25 200 000,00, encontrando-se integralmente realizado.
+
+2 - O capital social é representado por 5 040 000 ações com o valor nominal de (euro) 5,00 cada uma.
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+5 - [Revogado].
+
+6 - [Revogado].
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 6.º — Aumento de capital social
+
+1 - Quaisquer eventuais aumentos de capital social serão realizados através da emissão de acções da classe A, ou das classes A e B, devendo as acções da classe A representar, sempre e pelo menos, 51 % do capital social com direito a voto.
+
+2 - A subscrição de acções da classe A é reservada aos accionistas titulares de acções do mesmo tipo.
+
+3 - Os accionistas titulares de acções da classe A têm direito a subscrever um número de acções dessa classe proporcional ao número de acções da mesma classe de que já sejam titulares.
+
+4 - Caso as acções da classe A possam, pela ocorrência de qualquer facto, designadamente pela ocorrência de qualquer das situações referidas no n.º 1 do artigo 9.º, passar a representar uma percentagem do capital social com direito a voto inferior à referida no n.º 1 do presente artigo, a VALORSUL, S. A., deve proceder imediatamente a um aumento de capital social por emissão dessa classe de acções, de forma a garantir o cumprimento daquela percentagem.
+
+5 - As deliberações de aumento de capital devem prever para os accionistas preferentes um prazo de realização das entradas não inferior a 60 dias.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 7.º — Acções
+
+1 - As ações são nominativas e assumem a forma escritural ou titulada.
+
+2 - [Revogado].
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 8.º — Transmissão de acções
+
+1 - [Revogado].
+
+2 - [Revogado].
+
+3 - A transmissão de ações fica subordinada ao consentimento da VALORSUL, S. A.
+
+4 - Existe direito de preferência dos acionistas na transmissão de ações, devendo o alienante informar cada um dos demais acionistas, por escrito desse facto, indicando o adquirente, o preço oferecido e, se este não for em dinheiro, o seu equivalente em dinheiro, bem como as demais condições de venda.
+
+5 - [Revogado].
+
+6 - Querendo o accionista transmitir acções, deve pedir o consentimento, por escrito, à VALORSUL, S. A., mediante carta registada com aviso de recepção, identificando o previsto adquirente, indicando as contrapartidas oferecidas e a respectiva valoração, bem como as demais condições da projectada transmissão.
+
+7 - A VALORSUL, S. A., deve pronunciar-se sobre o pedido de consentimento no prazo de 60 dias contados da data de recepção da carta mencionada no número anterior.
+
+8 - Se a VALORSUL, S. A., não se pronunciar dentro do prazo referido no número anterior, e sempre sem prejuízo do direito de preferência dos outros acionistas regulado neste artigo, é livre a transmissão das ações.
+
+9 - É lícito recusar o pedido de consentimento com fundamento em qualquer interesse relevante da VALORSUL, S. A., devendo indicar-se sempre na deliberação o motivo da recusa.
+
+10 - No caso de recusar licitamente o consentimento, a VALORSUL, S. A., fica obrigada a adquirir as ações por outra pessoa nas condições de preço e pagamento do negócio para que foi solicitado o consentimento.
+
+11 - No caso previsto no número anterior, tratando-se de transmissão a título gratuito, ou provando a VALORSUL, S. A., que naquele negócio houve simulação de preço, a aquisição faz-se pelo valor real, determinado nos termos previstos no n.º 2 do artigo 105.º do Código das Sociedades Comerciais.
+
+12 - A VALORSUL, S. A., caso aceite o pedido de consentimento ou caso não se pronuncie sobre o mesmo dentro do prazo referido no n.º 7, comunica a todos os accionistas titulares do direito de preferência na transmissão das acções em causa, a informação recebida, tendo estes um prazo de 30 dias a contar da sua recepção para declararem se exercem o direito de preferência na aquisição das acções.
+
+13 - Querendo vários accionistas preferir, as acções alienadas são distribuídas a cada um, incluindo ao primitivo adquirente, se já for accionista, na proporção das respectivas participações sociais.
+
+14 - Não existe a necessidade de consentimento da VALORSUL, S. A., nem o direito de preferência previsto neste artigo, no caso da transmissão de acções, a efectuar pela Empresa Geral do Fomento, S. A., até um total de 233 338 acções, aos municípios de Amadora, Lisboa, Loures e Vila Franca de Xira.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 9.º — Amortização de acções
+
+1 - Mediante deliberação dos sócios, a VALORSUL, S. A., pode amortizar quaisquer acções que forem penhoradas, arrestadas, arroladas, incluídas em massa insolvente, apreendidas no âmbito de qualquer acção judicial ou que estiverem em condições de ser transmitidas judicialmente.
+
+2 - No caso de amortização de acções nos termos do número anterior, o montante da contrapartida da amortização é o que resultar da deliberação dos accionistas relativa à amortização, que toma em consideração a situação líquida da VALORSUL, S. A., resultante do último balanço aprovado.
+
+###### Artigo 10.º — Emissão de obrigações
+
+1 - Poderão ser emitidas obrigações em qualquer das modalidades admitidas por lei.
+
+2 - Os títulos das obrigações emitidas pela VALORSUL, S. A., são assinados por dois administradores, podendo as assinaturas ser de chancela por eles autorizada.
+
+### Capítulo IV — Órgãos sociais
+
+#### Secção I — Disposições gerais
+
+###### Artigo 11.º — Elenco dos órgãos sociais e eleição dos seus membros
+
+1 - São órgãos sociais da VALORSUL, S. A.:
+
+a) A assembleia geral;
+
+b) O conselho de administração;
+
+c) O conselho fiscal e o revisor oficial de contas, ou sociedade de revisores oficiais de contas.
+
+2 - Os membros da mesa da assembleia geral e dos demais órgãos sociais são eleitos em assembleia geral por períodos de três anos, podendo ser reconduzidos uma ou mais vezes nos termos da lei, contando-se como completo o ano civil em que foram eleitos.
+
+###### Artigo 12.º — Regras especiais de eleição
+
+1 - Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito a designar um administrador, contanto que essa minoria represente pelo menos 10 % do capital social.
+
+2 - No caso de a minoria prevista no número anterior representar, pelo menos, 43 % do capital social, tem direito a designar dois administradores.
+
+#### Secção II — Assembleia geral
+
+###### Artigo 13.º — Participação e representação na assembleia geral
+
+1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
+
+2 - A representação de accionistas em assembleia geral pode fazer-se em qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+###### Artigo 14.º — Mesa da assembleia geral
+
+1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
+
+2 - Compete ao presidente convocar assembleias gerais, dirigi-las e praticar quaisquer actos previstos na lei, nos presentes Estatutos ou em deliberação dos accionistas.
+
+3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente.
+
+###### Artigo 15.º — Reuniões da assembleia geral
+
+1 - A assembleia geral reúne no prazo estabelecido no n.º 1 do artigo 376.º do Código das Sociedades Comerciais.
+
+2 - A assembleia geral reúne ainda sempre que o requeiram o conselho de administração, o conselho fiscal ou ainda os accionistas que representem pelo menos 5 % do capital social.
+
+3 - O requerimento referido no número anterior deve ser feito por escrito e dirigido ao presidente da mesa da assembleia geral, indicando com precisão os assuntos a incluir na ordem do dia e justificando a necessidade da reunião da assembleia.
+
+###### Artigo 16.º — Convocação da assembleia geral
+
+1 - As reuniões da assembleia geral são convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efectuada por carta registada em substituição da publicação da convocatória, enquanto forem nominativas todas as acções da VALORSUL, S. A.
+
+2 - A assembleia geral pode deliberar em primeira convocação desde que estejam presentes ou representados accionistas que detenham mais de metade do capital social.
+
+3 - No aviso convocatório pode logo fixar-se uma data alternativa para a reunião da assembleia geral, caso a mesma não possa reunir na data inicialmente marcada por falta de quórum constitutivo, devendo entre as duas datas indicadas mediar mais de 15 dias.
+
+###### Artigo 17.º — Competência da assembleia geral
+
+1 - Os accionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.
+
+2 - Compete, nomeadamente, à assembleia geral:
+
+a) Deliberar sobre o relatório de gestão e as contas de exercício apresentados pelo conselho de administração;
+
+b) Deliberar sobre a proposta de aplicação de resultados;
+
+c) Apreciar a gestão e a fiscalização da VALORSUL, S. A.;
+
+d) Aprovar os planos de actividades e financeiros plurianuais para um período de, pelo menos, cinco anos e suas eventuais alterações;
+
+e) Eleger os membros dos órgãos sociais;
+
+f) Deliberar sobre a emissão de obrigações;
+
+g) Deliberar sobre o aumento de capital;
+
+h) Fixar as remunerações dos órgãos sociais da VALORSUL, S. A., podendo esta competência ser delegada em comissão de fixação de remunerações a nomear para o efeito.
+
+#### Secção III — Administração da sociedade
+
+###### Artigo 18.º — Conselho de administração
+
+1 - A administração da VALORSUL, S. A. é exercida por um conselho de administração, composto por 5 a 15 membros.
+
+2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respectivo presidente, que tem voto de qualidade nas deliberações do conselho, bem como designar o membro do conselho que, nas ausências e impedimentos do presidente, tem voto de qualidade.
+
+###### Artigo 19.º — Competência do conselho de administração
+
+O conselho de administração tem os poderes de gestão e representação da VALORSUL, S. A., que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos accionistas.
+
+###### Artigo 20.º — Delegação de poderes de gestão
+
+1 - O conselho de administração pode delegar num administrador ou numa comissão executiva de cinco administradores a gestão corrente da VALORSUL, S. A., devendo a deliberação de delegação fixar os limites da mesma.
+
+2 - Compete ao conselho de administração designar de entre os membros da comissão executiva o respectivo presidente, que tem voto de qualidade nas deliberações da comissão, bem como designar o membro da comissão que, nas ausências e impedimentos do presidente, tem voto de qualidade.
+
+###### Artigo 21.º — Vinculação da sociedade
+
+1 - A VALORSUL, S. A., obriga-se perante terceiros:
+
+a) Pela assinatura conjunta de dois administradores, um dos quais deve pertencer à comissão executiva, quando esta exista;
+
+b) Pela assinatura do administrador-delegado, quando exista, dentro dos limites da delegação;
+
+c) Pela assinatura de procuradores quanto aos actos ou categorias de actos definidos nas correspondentes procurações.
+
+2 - Nos documentos de mero expediente e quando se trate de endosso de letras, recibos, cheques ou quaisquer outros documentos, cujo produto de desconto ou de cobrança se destine a ser creditado em conta da VALORSUL, S. A., aberta em qualquer instituição financeira, basta a assinatura de um administrador ou de quem para tanto for mandatado.
+
+###### Artigo 22.º — Reuniões do conselho de administração
+
+1 - O conselho de administração reúne sempre que convocado pelo presidente ou por dois administradores.
+
+2 - Independentemente do disposto no número anterior, o conselho de administração reúne pelo menos uma vez por trimestre ou por mês, consoante haja ou não comissão executiva.
+
+3 - Os membros do conselho de administração são convocados por escrito com a antecedência mínima de cinco dias, salvo se a totalidade dos administradores estiver presente ou representada ou se tratar de reuniões com periodicidade fixa, do conhecimento de todos os administradores, caso em que é dispensada a convocatória.
+
+###### Artigo 23.º — Deliberações do conselho de administração
+
+1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.
+
+2 - Qualquer administrador pode fazer-se representar em cada sessão por outro administrador, sendo que os poderes de representação conferidos devem constar de carta dirigida ao presidente, a qual pode ser enviada por telecópia, válida apenas para uma reunião.
+
+3 - Qualquer administrador pode votar por correspondência, podendo a respectiva carta ser enviada por telecópia.
+
+4 - As reuniões do conselho de administração podem realizar-se através de meios telemáticos, nos termos previstos na lei.
+
+#### Secção IV — Fiscalização da sociedade
+
+###### Artigo 24.º — Órgão de fiscalização
+
+1 - A fiscalização da VALORSUL, S. A., compete a um conselho fiscal e a um revisor oficial de contas, ou sociedade de revisores oficiais de contas, que não sejam membros daquele órgão.
+
+2 - O conselho fiscal é composto por três membros efectivos e por um suplente ou por cinco membros efectivos e por dois suplentes, nomeados em assembleia geral, sendo o seu presidente também por ela nomeado.
+
+3 - O revisor oficial de contas, ou a sociedade de revisores oficiais de contas, é nomeado pela assembleia geral, sob proposta do conselho fiscal.
+
+###### Artigo 24.º-A — Conselho consultivo
+
+1 - Compete ao conselho consultivo o acompanhamento da atividade geral da sociedade, designadamente dos níveis de serviços praticados pela mesma e da gestão das infraestruturas afetas à concessão.
+
+2 - O conselho consultivo pode aprovar, por sua iniciativa ou quando tal lhe seja solicitado pelo concedente, por maioria dos membros presentes, pareceres não vinculativos nas matérias da sua competência.
+
+3 - Fazem parte do conselho consultivo, por inerência, os presidentes das câmaras municipais servidos pela sociedade, bem como os membros do respetivo conselho de administração e o conselho fiscal.
+
+4 - O conselho consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema.
+
+5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 108/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2014-25345610), em vigor a partir de 2014-07-03
+
+### Capítulo V — Disposições finais
+
+###### Artigo 25.º — Ano social e resultados
+
+1 - O ano social coincide com o ano civil.
+
+2 - Os resultados apurados em cada exercício, exceptuada a parte destinada à constituição ou reintegração da reserva legal, têm a aplicação que a assembleia geral deliberar.

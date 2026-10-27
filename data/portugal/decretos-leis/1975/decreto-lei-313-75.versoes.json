@@ -1,0 +1,208 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:337185:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1975-181704948",
+ "dre_path": "/dr/detalhe/decreto-lei/313-1975-337185",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1975-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "181827179",
+    "181514672",
+    "181514673",
+    "181514674",
+    "181827175",
+    "181827176"
+   ]
+  },
+  {
+   "date": "1979-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:378679:por",
+     "title": "Decreto-Lei n.º 340/79",
+     "published": "1979-08-25",
+     "dre_path": "/dr/detalhe/decreto-lei/340-1979-378679"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "181514671",
+    "181514672",
+    "181514673",
+    "181827178",
+    "181827175",
+    "181827176",
+    "181827177"
+   ]
+  },
+  {
+   "date": "2018-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115235757:por",
+     "title": "Decreto-Lei n.º 32/2018",
+     "published": "2018-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2018-115235757"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "181827179",
+    "181827180",
+    "181827181",
+    "181827182",
+    "181827183",
+    "181827184",
+    "181827185"
+   ]
+  }
+ ],
+ "fragments": {
+  "181827179": {
+   "fragment_id": "181704949",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-05-13",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 313/75\n\nde 26 de Junho\n\nA conversão do ensino médio em ensino superior é um objectivo que só se justifica se com ele se servirem os interesses do País. Interesses que podem ser os da formação de técnicos qualificados necessários ao actual estádio de desenvolvimento económico e social vivido em Portugal ou os da democratização da nossa sociedade, pela abolição de todas as discriminações injustas. Estas condições verificam-se, em princípio, com a conversão dos institutos comerciais em escolas superiores. Desde logo a última, pois não se justificava a discriminação profissional e social de que eram objecto os diplomados destes institutos, que, depois de cumprirem um programa de estudos correspondente, na prática, a um bacharelato, não tinham acesso a este grau académico. Quanto ao aspecto da formação de técnicos qualificados e úteis ao País, a conversão dos institutos comerciais só cumprirá este objectivo se os novos planos de estudo forem cuidadosamente elaborados e perfeitamente integrados nos planos globais da acção educativa do ensino superior.\n\nPara já, e enquanto não se estabelece um regime que opere a integração definitiva dos institutos comerciais no sistema do ensino superior, resolve-se o problema da equiparação dos diplomados dos institutos comerciais a bacharéis, além de se apontar para as futuras medidas da converão com a modificação da dependência administrativa dos mesmos institutos.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "181514672": {
+   "fragment_id": "181704950",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1. Os Institutos Comerciais de Lisboa, Porto e Coimbra passam a depender da Direcção-Geral do Ensino Superior.\n\n2. O disposto no número anterior vale também para a secção de Aveiro do Instituto Comercial do Porto, que passará a designar-se por Instituto Comercial de Aveiro.\n\n3. Até à definitiva conversão do Instituto Comercial de Aveiro em estabelecimento de ensino superior manter-se-á a situação administrativa do seu pessoal em relação ao Instituto Comercial do Porto, ficando, porém, destacado no Instituto Comercial de Aveiro.\n\n4. As despesas resultantes da autonomização do Instituto Comercial de Aveiro serão suportadas, durante o corrente ano, por verbas a extrair do orçamento global do Instituto Comercial do Porto ou por conta de dotações inscritas no orçamento da Direcção-Geral do Ensino Superior."
+  },
+  "181514673": {
+   "fragment_id": "181704951",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs planos e regimes de estudos de nível superior para vigorar durante o período de transição serão aprovados por despacho do Ministro da Educação e Cultura."
+  },
+  "181514674": {
+   "fragment_id": "181704952",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ equiparado a bacharel, para todos os efeitos legais, quem obtenha ou tiver obtido aprovação em qualquer dos seguintes cursos:\n\na) Cursos previstos nos n.os 1 e 2 do artigo 2.º do Decreto-Lei n.º 38231, de 23 de Abril de 1951, com dispensa do tirocínio referido no artigo 181.º do mesmo diploma;\n\nb) Cursos equivalentes previstos no artigo 222.º do citado decreto-lei;\n\nc) Curso de contabilista referido no n.º 1 da alínea c) do artigo 41.º do Decreto n.º 42632, de 4 de Novembro de 1959."
+  },
+  "181827175": {
+   "fragment_id": "181704953",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO grau de bacharel conferido nos termos do artigo anterior constitui habilitação própria para admissão ao estágio para professor do 6.º grupo do ensino técnico profissional."
+  },
+  "181827176": {
+   "fragment_id": "181704954",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEste diploma entra imediatamente em vigor."
+  },
+  "181514671": {
+   "fragment_id": "181704949",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 313/75\n\nde 26 de Junho\n\nA conversão do ensino médio em ensino superior é um objectivo que só se justifica se com ele se servirem os interesses do País. Interesses que podem ser os da formação de técnicos qualificados necessários ao actual estádio de desenvolvimento económico e social vivido em Portugal ou os da democratização da nossa sociedade, pela abolição de todas as discriminações injustas. Estas condições verificam-se, em princípio, com a conversão dos institutos comerciais em escolas superiores. Desde logo a última, pois não se justificava a discriminação profissional e social de que eram objecto os diplomados destes institutos, que, depois de cumprirem um programa de estudos correspondente, na prática, a um bacharelato, não tinham acesso a este grau académico. Quanto ao aspecto da formação de técnicos qualificados e úteis ao País, a conversão dos institutos comerciais só cumprirá este objectivo se os novos planos de estudo forem cuidadosamente elaborados e perfeitamente integrados nos planos globais da acção educativa do ensino superior.\n\nPara já, e enquanto não se estabelece um regime que opere a integração definitiva dos institutos comerciais no sistema do ensino superior, resolve-se o problema da equiparação dos diplomados dos institutos comerciais a bacharéis, além de se apontar para as futuras medidas da converão com a modificação da dependência administrativa dos mesmos institutos.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "181827178": {
+   "fragment_id": "181704952",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1979-08-30",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 340/79 - Diário da República n.º 196/1979, Série I de 1979-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1979-378679), em vigor a partir de 1979-08-30"
+   ],
+   "markdown": "###### Artigo 3.º\n\nÉ equiparado a bacharel, para todos os efeitos legais, quem obtenha ou tiver obtido aprovação em qualquer dos seguintes cursos:\n\na) Cursos previstos nos n.os 1 e 2 do artigo 2.º do Decreto-Lei n.º 38231, de 23 de Abril de 1951, com dispensa do tirocínio referido no artigo 181.º do mesmo diploma;\n\nb) Cursos equivalentes previstos no artigo 222.º do citado decreto-lei;\n\nc) Curso de contabilista referido no n.º 1 da alínea c) do artigo 41.º do Decreto n.º 42632, de 4 de Novembro de 1959.\n\nd) Curso de contabilista a que se refere o Decreto n.º 20328, de 21 de Setembro de 1931, quando ministrado no Instituto Profissional dos Pupilos dos Exércitos de Terra e Mar.\n\n> Alterado pelo/a [Decreto-Lei n.º 340/79 - Diário da República n.º 196/1979, Série I de 1979-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1979-378679), em vigor a partir de 1979-08-30"
+  },
+  "181827177": {
+   "fragment_id": "181704955",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso - José Emílio da Silva.\n\nPromulgado em 18 de Junho de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "181827180": {
+   "fragment_id": "181704950",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 1.º\n\n- 1. Os Institutos Comerciais de Lisboa, Porto e Coimbra passam a depender da Direcção-Geral do Ensino Superior.\n\n2. O disposto no número anterior vale também para a secção de Aveiro do Instituto Comercial do Porto, que passará a designar-se por Instituto Comercial de Aveiro.\n\n3. Até à definitiva conversão do Instituto Comercial de Aveiro em estabelecimento de ensino superior manter-se-á a situação administrativa do seu pessoal em relação ao Instituto Comercial do Porto, ficando, porém, destacado no Instituto Comercial de Aveiro.\n\n4. As despesas resultantes da autonomização do Instituto Comercial de Aveiro serão suportadas, durante o corrente ano, por verbas a extrair do orçamento global do Instituto Comercial do Porto ou por conta de dotações inscritas no orçamento da Direcção-Geral do Ensino Superior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "181827181": {
+   "fragment_id": "181704951",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs planos e regimes de estudos de nível superior para vigorar durante o período de transição serão aprovados por despacho do Ministro da Educação e Cultura.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "181827182": {
+   "fragment_id": "181704952",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Alterado pelo/a [Decreto-Lei n.º 340/79 - Diário da República n.º 196/1979, Série I de 1979-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1979-378679), em vigor a partir de 1979-08-30"
+   ],
+   "markdown": "###### Artigo 3.º\n\nÉ equiparado a bacharel, para todos os efeitos legais, quem obtenha ou tiver obtido aprovação em qualquer dos seguintes cursos:\n\na) Cursos previstos nos n.os 1 e 2 do artigo 2.º do Decreto-Lei n.º 38231, de 23 de Abril de 1951, com dispensa do tirocínio referido no artigo 181.º do mesmo diploma;\n\nb) Cursos equivalentes previstos no artigo 222.º do citado decreto-lei;\n\nc) Curso de contabilista referido no n.º 1 da alínea c) do artigo 41.º do Decreto n.º 42632, de 4 de Novembro de 1959.\n\nd) Curso de contabilista a que se refere o Decreto n.º 20328, de 21 de Setembro de 1931, quando ministrado no Instituto Profissional dos Pupilos dos Exércitos de Terra e Mar.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Alterado pelo/a [Decreto-Lei n.º 340/79 - Diário da República n.º 196/1979, Série I de 1979-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1979-378679), em vigor a partir de 1979-08-30"
+  },
+  "181827183": {
+   "fragment_id": "181704953",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 4.º\n\nO grau de bacharel conferido nos termos do artigo anterior constitui habilitação própria para admissão ao estágio para professor do 6.º grupo do ensino técnico profissional.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "181827184": {
+   "fragment_id": "181704954",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 5.º\n\nEste diploma entra imediatamente em vigor.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "181827185": {
+   "fragment_id": "181704955",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso - José Emílio da Silva.\n\nPromulgado em 18 de Junho de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  }
+ }
+}

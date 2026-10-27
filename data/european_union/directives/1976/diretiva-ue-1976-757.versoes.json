@@ -1,0 +1,269 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976L0757:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976L0757-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1976-09-27",
+   "future": false,
+   "celex": "31976L0757",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d52080a9aae3157e",
+    "5cc62d5d75df210b",
+    "74350cc2e3ad8a89",
+    "3a82cba4f63f80de",
+    "7b526ca8ec77e2bf",
+    "7066d97344e17824",
+    "492e3f83e01e9fa8",
+    "4560708a02356a76",
+    "a5357d7d8e411cb8",
+    "5f1289bbd215475f",
+    "be074212e894fa95",
+    "f4228c8986558caa",
+    "d89391db34cc8c72",
+    "484eb0914f50ba03",
+    "5e34d714f9ba5299",
+    "381a129dd0411ded",
+    "92e2d8eb86d022b3",
+    "70e8c5c791277784",
+    "e0bb53a5c9ba60a2",
+    "9589d369a1edf13e",
+    "1d1c76f992ddcec6",
+    "028075bfc01cd814",
+    "feacb67e3466d880"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01976L0757-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime Artigo 6º.",
+    "Suprime Artigo 7º.",
+    "Suprime Artigo 8º.",
+    "Suprime Artigo 9º.",
+    "Suprime Artigo 10º.",
+    "Suprime Artigo 11º.",
+    "Suprime Artigo 12º.",
+    "Suprime ANEXO I DEFINIÇÃO DOS TERMOS TÉCNICOS",
+    "Suprime ANEXO III CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+    "Suprime ANEXO V MÉTODO DE ENSAIO",
+    "Suprime ANEXO VI ESPECIFICAÇÕES DE FORMA E DE DIMENSÕES",
+    "Suprime ANEXO VII ESPECIFICAÇÕES COLORIMÉTRICAS",
+    "Suprime ANEXO VIII ESPECIFICAÇÕES FOTOMÉTRICAS",
+    "Suprime ANEXO IX RESISTÊNCIA AOS AGENTES EXTERIORES — IX.1. IMPERMEABILIDADE",
+    "Suprime ANEXO X ESTABILIDADE DAS PROPRIEDADES OPTICAS",
+    "Suprime ANEXO XI RESISTÊNCIA AO CALOR",
+    "Suprime ANEXO XII ESTABILIDADE DA COR"
+   ],
+   "fragments": [
+    "0fc2ee34470a155c"
+   ]
+  }
+ ],
+ "fragments": {
+  "d52080a9aae3157e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 76/757/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos reflectores dos veículos a motor e seus reboques** *Jornal Oficial nº L 262 de 27/09/1976 p. 0032 - 0053 Edição especial finlandesa: Capítulo 13 Fascículo 5 p. 0061 Edição especial grega: Capítulo 13 Fascículo 4 p. 0003 Edição especial sueca: Capítulo 13 Fascículo 5 p. 0061 Edição especial espanhola: Capítulo 13 Fascículo 5 p. 0071 Edição especial portuguesa: Capítulo 13 Fascículo 5 p. 0071*\n\nDIRECTIVA DO CONSELHO de 27 de Julho de 1976 relativa à aproximação das legislações dos Estados-membros respeitantes aos reflectores dos veículos a motor e seus reboques (76/757/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100º.,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, aos reflectores;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que dai resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (3);\n\nConsiderando que, pela Directiva 76/756/CEE (4), o Conselho adoptou as prescrições comuns respeitantes à instalação dos dispositivos de iluminação e de sinalização luminosa dos veículos a motor e seus reboques;\n\nConsiderando que, por um processo de homologação harmonizado dos reflectores, cada Estado-membro terá a possibilidade de verificar o cumprimento das prescrições comuns de construção e de ensaio e de informar os outros Estados-membros da verificação feita pelo envio de uma cópia da ficha de homologação estabelecida para cada tipo de reflector; que a aposição de uma marca de homologação CEE em todos os dispositivos fabricados em conformidade com o tipo homologado torna desnecessário um controlo técnico destes dispositivos nos outros Estados-membros;\n\nConsiderando que convém ter em conta certas prescrições técnicas adoptadas pela Comissão Económica para a Europa da ONU no seu Regulamento nº. 3 (Prescrições uniformes relativas à homologação dos dispositivos reflectores para veículos automóveis) (5), anexado ao Acordo, de 20 de Março de 1958, respeitante à adopção de condições uniformes de homologação e ao reconhecimento recíproco da homologação de equipamentos e peças de veículos a motor;\n\nConsiderando que a aproximação das legislações nacionais respeitantes aos veículos a motor implica um reconhecimento recíproco pelos Estados-membros dos controlos efectuados por cada um deles com base nas prescrições comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5cc62d5d75df210b": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\n1. Cada Estado-membro homologará qualquer tipo de reflector que esteja em conformidade com as prescrições de construção e de ensaio constantes dos Anexos 0, I, III, V, VI, VII, VIII, IX, X, XI, e XII.\n\n2. O Estado-membro que tiver procedido à homologação CEE tomará as medidas necessárias para controlar, tanto quanto necessário, a conformidade da produção com o tipo homologado, se for caso disso em colaboração com as autoridades competentes dos outros Estados-membros. Este controlo limitar-se-á a amostragens."
+  },
+  "74350cc2e3ad8a89": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\nOs Estados-membros atribuirão ao fabricante ou ao seu mandatário uma marca de homologação CEE conforme aos (1)JO nº. C 55 de 13.5.1974, p. 14. (2)JO nº. C 109 de 19.9.1974, p. 26. (3)JO nº. L 42 de 23.2.1970, p. 1. (4)JO nº. L 262 de 27.9.1976, p. 1. (5)>PIC FILE= \"T0009370\"> modelos estabelecidos no Anexo III para cada tipo de reflector que homologuem por força do artigo 1º..\n\nOs Estados-membros tomarão todas as disposições necessárias para impedir a utilização de marcas que possam criar confusões entre os reflectores cujo tipo tenha sido homologado por força do artigo 1º. e outros dispositivos."
+  },
+  "3a82cba4f63f80de": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\n1. Os Estados-membros não podem proibir a colocação no mercado de reflectores por motivos relacionados com a sua construção ou o seu funcionamento, se estes ostentarem a marca de homologação CEE.\n\n2. Contudo, um Estado-membro pode proibir a colocação no mercado de reflectores que ostentem a marca de homologação CEE mas que, de forma sistemática, não sejam conformes ao tipo homologado.\n\nEste Estado informará imediatamente os outros Estados-membros e a Comissão das medidas tomadas, especificando os motivos da sua decisão."
+  },
+  "7b526ca8ec77e2bf": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\nAs autoridades competentes de cada Estado-membro enviarão às dos outros Estados-membros, no prazo de um mês, uma cópia das fichas de homologação, cujo modelo figura no Anexo II, estabelecidas para cada tipo de reflector que homologuem ou recusem homologar."
+  },
+  "7066d97344e17824": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\n1. Se o Estado que procedeu à homologação CEE verificar que vários reflectores que ostentam a mesma marca de homologação CEE não são conformes ao tipo que homologou, tomará as medidas necessárias para que a conformidade da produção com o tipo homologado seja assegurada. As autoridades competentes deste Estado avisarão as dos outros Estados-membros das medidas tomadas, que podem ir até à revogação da homologação CEE quando a não-conformidade for sistemática. As referidas autoridades tomarão as mesmas disposições se forem informadas pelas autoridades competentes de um outro Estado-membro da existência de tal falta de conformidade.\n\n2. As autoridades competentes dos Estados-membros informar-se-ão mutuamente, no prazo de um mês, da revogação de uma homologação CEE concedida, bem como dos motivos que justificam essa medida."
+  },
+  "492e3f83e01e9fa8": {
+   "fragment_id": "Artigo 6º.",
+   "type": "artigo",
+   "heading": "Artigo 6º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º.\n\nQualquer decisão de recusa ou revogação da homologação ou de proibição da colocação no mercado ou da utilização, tomada por força das disposições adoptadas em execução da presente directiva, será fundamentada de forma precisa. Será notificada ao interessado, com a indicação das vias de recurso previstas na legislação em vigor nos Estados-membros e dos prazos nos quais estes recursos podem ser interpostos."
+  },
+  "4560708a02356a76": {
+   "fragment_id": "Artigo 7º.",
+   "type": "artigo",
+   "heading": "Artigo 7º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º.\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo por motivos relacionados com os reflectores, se estes ostentarem a marca de homologação CEE e estiverem montados em conformidade com as prescrições constantes da Directiva 76/756/CEE."
+  },
+  "a5357d7d8e411cb8": {
+   "fragment_id": "Artigo 8º.",
+   "type": "artigo",
+   "heading": "Artigo 8º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º.\n\nOs Estados-membros não podem recusar ou proibir a venda, a matrícula, a entrada em circulação ou a utilização de um veículo por motivos relacionados com os reflectores, se estes ostentarem a marca de homologação CEE e estiverem montados em conformidade com as prescrições constantes da Directiva 76/756/CEE."
+  },
+  "5f1289bbd215475f": {
+   "fragment_id": "Artigo 9º.",
+   "type": "artigo",
+   "heading": "Artigo 9º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º.\n\nPara efeitos do disposto na presente directiva, entende-se por veículo qualquer veículo a motor destinado a transitar na estrada, com ou sem carroçaria, tendo pelo menos quatro rodas e uma velocidade máxima, por construção, superior a 25 km/h, assim como os seus reboques, com excepção dos veículos que se deslocam sobre carris, dos tractores e máquinas agrícolas, bem como das máquinas de obras públicas."
+  },
+  "be074212e894fa95": {
+   "fragment_id": "Artigo 10º.",
+   "type": "artigo",
+   "heading": "Artigo 10º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º.\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições dos anexos serão adoptadas em conformidade com o procedimento previsto no artigo 13º. da Directiva 70/156/CEE."
+  },
+  "f4228c8986558caa": {
+   "fragment_id": "Artigo 11º.",
+   "type": "artigo",
+   "heading": "Artigo 11º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º.\n\n1. Os Estados-membros adoptarão e publicarão, antes de 1 de Julho de 1977, as disposições necessárias para darem cumprimento à presente directiva e desse facto informarão imediatamente a Comissão. Aplicarão estas disposições o mais tardar a partir de 1 de Outubro de 1977.\n\n2. A partir da notificação da presente directiva, os Estados-membros devem assegurar que a Comissão seja informada, em tempo útil que lhe permita apresentar as suas observações, de qualquer projecto de disposições de natureza legislativa, regulamentar ou administrativa que tenham a intenção de adoptar no domínio regulado pela presente directiva."
+  },
+  "d89391db34cc8c72": {
+   "fragment_id": "Artigo 12º.",
+   "type": "artigo",
+   "heading": "Artigo 12º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 27 de Julho de 1976.\n\nPelo Conselho\n\nO Presidente\n\nM. van der STOEL\n\nLista dos anexos\n\n>PIC FILE= \"T9000982\">\n\nANEXO 0 DEFINIÇÕES, CONFORMIDADE DA PRODUÇÃO, ESPECIFICAÇÕES GERAIS, ESPECIFICAÇÕES ESPECIAIS\n\n(1.)\n\n2. DEFINIÇÕES 2.1. As definições dos termos técnicos usados na presente directiva são dadas no Anexo 1.\n\n2.2. Um tipo de reflector é definido pelos modelos e pelos documentos descritivos depositados aquando do pedido de homologação CEE. Podem ser considerados como pertencentes a um tipo os reflectores que têm uma ou várias ópticas reflectoras idênticas às do dispositivo tipo e cujas partes anexas só diferem das do dispositivo tipo por variantes sem efeito sobre as propriedades a que o presente anexo se aplica.\n\n2.3. Os reflectores são repartidos, segundo as suas características fotométricas, por duas categorias designadas Classe I e Classe II (ver ponto 4.3 do Anexo III).\n\n(3.)\n\n(4.)\n\n5.CONFORMIDADE DA PRODUÇÃO 5.1. Qualquer dispositivo que ostente uma marca de homologação CEE deve ser conforme ao tipo homologado sob esta marca. A autoridade competente que concedeu a maca de homologação CEE conserva duas amostras que servirão, conjuntamente com a ficha de homologação, para estabelecer se os reflectores colocados no mercado que ostentam a marca de homologação CEE preenchem esta condição.\n\n(5.2.)\n\n(5.3.)\n\n6. ESPECIFICAÇÕES GERAIS 6.1. Os reflectores devem ser construídos de tal maneira que o seu bom funcionamento possa ser assegurado nas condições normais de utilização. Além disso, não devem apresentar nenhum defeito de construção ou de execução nocivos ao seu bom funcionamento ou à sua boa manutenção.\n\n6.2. As diferentes partes que os constituem não devem ser desmontáveis por meios simples.\n\n6.3. As ópticas reflectoras não devem ser substituíveis.\n\n6.4. A superfície exterior do reflector deve ser de fácil limpeza. Não deve ser rugosa; as protuberâncias que possa apresentar não devem impedir uma limpeza fácil.\n\n7. ESPECIFICAÇÕES ESPECIAIS (ENSAIOS) 7.1. Os reflectores devem igualmente preencher as condições de dimensões e de formas assim como as condições colorimétricas, fotométricas, físicas e mecânicas descritas nos Anexos VI a XII.\n\n7.2. Segundo a natureza dos materiais que constituem os reflectores, e em particular as ópticas reflectoras, as autoridades competentes podem autorizar os laboratórios a não executarem certos ensaios desnecessários, sob reserva expressa de que do facto seja feita menção na ficha de homologação CEE, na rubrica «Observações»."
+  },
+  "484eb0914f50ba03": {
+   "fragment_id": "ANEXO I DEFINIÇÃO DOS TERMOS TÉCNICOS",
+   "type": "divisao",
+   "heading": "ANEXO I DEFINIÇÃO DOS TERMOS TÉCNICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I DEFINIÇÃO DOS TERMOS TÉCNICOS\n\n1.1. REFLEXÃO CATADIOPTRICA\n\nPor reflexão catadióptrica entende-se a reflexão caracterizada pelo reenvio da luz em direcções vizinhas da que a originou. Esta propriedade é conservada para variações importantes do ângulo de iluminação.\n\n1.2. OPTICA CATADIOPTRICA\n\nPor óptica catadióptrica entende-se a combinação de elementos ópticos que permitem obter a reflexão catadióptrica.\n\n1.3. REFLECTOR\n\nPor reflector entende-se um dispositivo que serve para indicar a presença de um veículo por reflexão da luz proveniente de uma fonte luminosa não ligada a este veículo, estando o observador colocado perto da fonte luminosa.\n\nPara os efeitos do disposto na presente directiva, não são considerados como reflectores: - as chapas de matrícula retrorreflectoras;\n\n- os sinais retrorreflectores mencionados no ADR;\n\n- as outras placas e sinais retrorreflectores a utilizar conforme as especificações de utilização de um Estado-membro no que respeita a certas categorias de veículos ou certos métodos de operação.\n\n1.4. ZONA ILUMINANTE DE UM REFLECTOR\n\nPor zona iluminante de um reflector entende-se a zona iluminante de um reflector num plano perpendicular ao seu eixo de referência delimitada por planos contíguos às partes extremas da óptica catadióptrica e paralelos a este eixo. Para determinar os bordos inferior, superior e laterais da zona iluminante, consideram-se apenas planos verticais e horizontais.\n\n1.5. EIXO DE REFERÊNCIA\n\nPor eixo de referência entende-se o eixo característico do sinal luminoso, determinado pelo fabricante para servir de direcção de referência (H = 0º., V = 0º.) aos ângulos de campo nas medidas fotométricas e na instalação no veículo.\n\n1.6. CENTRO DE REFERÊNCIA\n\nPor centro de referência entende-se a intersecção do eixo de referência com a superfície de saída da luz emitida pelo reflector, indicada pelo fabricante do reflector.\n\n1.7. ÂNGULO DE DIVERGÊNCIA\n\nPor ângulo de divergência entende-se o ângulo entre as rectas que unem o centro de referência ao centro do receptor e ao centro da fonte de iluminação.\n\n1.8. ÂNGULO DE ILUMINAÇÃO\n\nPor ângulo de iluminação entende-se o ângulo entre o eixo de referência e a recta que une o centro de referência ao centro da fonte de iluminação.\n\n1.9. ÂNGULO DE ROTAÇÃO\n\nPor ângulo de rotação entende-se o ângulo de deslocamento do reflector em torno do eixo de referência a partir de uma dada posição.\n\n1.10. ABERTURA ANGULAR DO REFLECTOR\n\nPor abertura angular do reflector entende-se o ângulo sob o qual é vista a maior dimensão da superfície aparente da zona iluminante, quer a partir do centro da fonte de iluminação, quer a partir do centro do receptor.\n\n1.11. ILUMINAÇÃO DO REFLECTOR\n\nPor iluminação do reflector entende-se a iluminação medida num plano normal aos raios incidentes que passa pelo centro de referência.\n\n1.12. COEFICIENTE DE INTENSIDADE LUMINOSA (CIL)\n\nPor coeficiente de intensidade luminosa (CIL) entende-se o quociente entre a intensidade luminosa reflectida na direcção considerada pela iluminação do reflector, para determinados ângulos de iluminação, de divergência e de rotação.\n\nApêndice 1 Simbolos e unidades\n\nA = Area da zona iluminante do reflector (em cm2)\n\nC = Centro de referência\n\nNC = Eixo de referência\n\nRr = Receptor, observador ou elemento de medida\n\nCr = Centro do receptor\n\nØr = Diâmetro do receptor Rr se for circular (em cm)\n\nSe = Fonte de iluminação\n\nCs = Centro da fonte de iluminação\n\nØs = Diâmetro da fonte de iluminação (em cm)\n\nDe = Distância do centro Cs ao centro C (em m)\n\nD'e = Distância do centro Cr ao centro C (em m)\n\nNota: Em geral, De e D'e são muito próximos e em circunstâncias normais de observação pode escrever-se De = D'e.\n\nD = Distância de observação a partir da qual a zona iluminante aparece continua\n\n>PIC FILE= \"T0009503\"> E = Iluminação do reflector (em lux)\n\nCIL = Coeficiente de intensidade luminosa (em milicandelas/lux). Os ângulos exprimem-se em graus e minutos.\n\nApêndice 2\n\n>PIC FILE= \"T0009371\">\n\nANEXO II MODELO DE FICHA DE HOMOLOGAÇÃO CEE: (Formato máximo: A 4 (210 × 297 mm)\n\n>PIC FILE= \"T0009372\">"
+  },
+  "5e34d714f9ba5299": {
+   "fragment_id": "ANEXO III CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO III CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III CONDIÇÕES DE HOMOLOGAÇÃO CEE E MARCAÇÃO\n\n1. PEDIDO DE HOMOLOGAÇÃO CEE 1.1. O pedido de homologação CEE é apresentado pelo detentor da marca de fabrico ou comercial, ou pelo seu mandatário.\n\n1.2. Para cada tipo de reflector, o pedido é acompanhado por: 1.2.1. Uma descrição sucinta das especificações técnicas dos materiais que constituem a óptica catadióptrica;\n\n1.2.2. Desenhos, em triplicado, suficientemente pormenorizados para permitir a identificação do tipo e indicando as condições geométricas de montagem do reflector no veiculo; os desenhos devem mostrar a posição prevista para o número de homologação e o símbolo adicional, em relação ao rectângulo da marca de homologação CEE;\n\n1.2.3. Amostras do tipo de reflector de cor vermelha. O número de amostras a apresentar é indicado no Anexo V;\n\n1.2.4. Eventualmente, duas amostras amarelo-âmbar e/ou duas amostras incolores, para o caso em que a homologação seja alargada simultaneamente ou posteriormente aos dispositivos de cor amarelo-âmbar e/ou incolores.\n\n2. INSCRIÇÕES 2.1. As amostras de um tipo de reflector apresentadas para homologação CEE devem ostentar: - a marca de fabrico ou comercial do requerente; esta marca deve ser nitidamente legivel e indelével;\n\n- a ou as indicações «TOP» inscritas horizontalmente na parte mais elevada da zona iluminante, se tais indicações forem necessárias para fixar sem ambiguidade o ou os ângulos de rotação prescritos pelo construtor.\n\n2.2. Cada reflector deve ter um espaço de dimensão suficiente para a marca de homologação CEE; este espaço deve ser indicado nos desenhos mencionados no ponto 1.2.2.\n\n3. HOMOLOGAÇÃO CEE 3.1. Quando todas as amostras apresentadas em conformidade com o ponto 1 obedecem às disposições dos pontos 6 e 7 do Anexo 0, é concedida a homologação CEE e é atribuido um número de homologação.\n\n3.2. Este número não é atribuído a nenhum outro tipo de reflector, salvo no caso de extensão da homologação CEE a um outro tipo de reflector que só difira daquele pela cor.\n\n3.3. Quando a homologação CEE é pedida para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua um reflector e outros faróis, pode ser concedida uma única marca de homologação CEE, na condição de que o reflector corresponda às prescrições da presente directiva e cada um dos outros faróis que fazem parte do dispositivo de iluminação e de sinalização luminosa para o qual é pedida a homologação CEE corresponda à directiva especial que lhe é aplicável.\n\n4. MARCAÇÃO 4.1. Qualquer reflector conforme a um tipo homologado em aplicação da presente directiva deve ostentar uma marca de homologação CEE.\n\n4.2. Esta marca é composta por:\n\nUm rectângulo, no interior do qual está colocada a letra «e» minúscula, seguida do número ou grupo de letras distintivo do Estado-membro que concedeu a homologação:\n\n1 para a Alemanha\n\n2 para a França\n\n3 para a Itália\n\n4 para os Paises Baixos\n\n6 para a Bélgica\n\n11 para o Reino Unido\n\n13 para o Luxemburgo\n\nDK para a Dinamarca\n\nIRL para a Irlanda,\n\ne um número de homologação CEE que corresponde ao número da ficha de homologação CEE estabelecida para o tipo de reflector.\n\n4.3. A marca de homologação CEE é completada pelo simbolo adicional «I» ou «III», especificando a classe que foi atribuída ao reflector na homologação CEE.\n\n4.4. O número de homologação CEE deve ser colocado em qualquer posição conveniente na proximidade do rectângulo circunscrito à letra «e».\n\n4.5. A marca de homologação CEE e o simbolo adicional devem ser apostos no vidro ou num dos vidros de tal forma que sejam indeléveis e bem legiveis mesmo quando os reflectores estão montados no veiculo.\n\n4.6. Um exemplo da marca de homologação CEE completada pelo simbolo é dado em apêndice.\n\n4.7. No caso da atribuição de um número de homologação CEE única, previsto no ponto 3.3 para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua um reflector e outros faróis, pode ser aposta uma marca de homologação única, que compreenda: - um rectângulo no interior do qual está colocada a letra «e» seguida do número ou do grupo de letras distintivo do Estado-membro que concedeu a homologação;\n\n- um número de homologação CEE;\n\n- os simbolos adicionais previstos nas diferentes directivas ao abrigo das quais a homologação CEE foi concedida.\n\n4.8. As dimensões dos diferentes elementos desta marca não devem ser inferiores as maiores das dimensões minimas prescritas para as marcações individuais pelas directivas ao abrigo das quais a homologação CEE foi concedida.\n\nApêndice EXEMPLO DE MARCA DE HOMOLOGAÇÃO CEE\n\n>PIC FILE= \"T0009373\"> reflector com a marca de homologação CEE acima indicada é um reflector da classe I cuja homologação CEE foi concedida nos Países Baixos (4) sob o número 216.\n\n(ANEXO IV)"
+  },
+  "381a129dd0411ded": {
+   "fragment_id": "ANEXO V MÉTODO DE ENSAIO",
+   "type": "divisao",
+   "heading": "ANEXO V MÉTODO DE ENSAIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V MÉTODO DE ENSAIO\n\nV.1. Para a homologação CEE, o requerente deve apresentar 10 amostras.\n\nV.2. Após verificação da conformidade com as especificações gerais (ponto 6 do Anexo 0) e com as especificações de forma e de dimensões (Anexo VI), as 10 amostras são submetidas ao controlo das características colorimétricas (Anexo VII) e do CIL (Anexo VIII) para um ângulo de divergência de 20' e para um ângulo de iluminação V = H = 0º. ou, se necessário, na posição definida nos pontos VIII.4 e VIII.4.1. Os dois reflectores que tiverem dado os valores mínimo e máximo são então submetidos a um ensaio completo, segundo as indicações dadas no ponto VIII.3. Em conformidade com o ponto 5.1 do Anexo 0, estas duas amostras são conservadas pelos laboratórios para qualquer verificação posterior que possa revelar-se necessária. As outras 8 amostras são repartidas por quatro grupos de duas amostras:\n\n1º. grupo: As duas amostras são submetidas ao ensaio de impermeabilidade (ponto IX.1) e depois, se este ensaio for satisfatório, ao ensaio de resistência aos combustiveis e aos óleos de lubrificação (pontos IX.3 e IX.4).\n\n2º. grupo: As 2 amostras são submetidas, se necessário, ao ensaio de resistência à corrosão (ponto IX.2) e depois ao ensaio de resistência da face posterior dos reflectores (ponto IX.5). São, em seguida, submetidas ao ensaio de resistência ao calor (Anexo XI).\n\n3º. grupo: As 2 amostras são submetidas ao ensaio de estabilidade das propriedades ópticas dos reflectores (Anexo X).\n\n4º. grupo: As 2 amostras são submetidas ao ensaio de estabilidade da cor (Anexo XII).\n\nV.3. Os reflectores dos diversos grupos, após terem sido submetidos aos ensaios enumerados no ponto V.2, devem ter: 3.1. Uma cor que satisfaça as condições do Anexo VII. A verificação é feita por um método qualitativo e é confirmada, em caso de dúvida, por um método quantitativo;\n\n3.2. Um CIL que satisfaça as condições do Anexo VIII e que simultaneamente atinja, após o ensaio, 60 % do valor obtido com a mesma amostra antes do ensaio. A verificação é feita unicamente para um ângulo de divergência de 20' e para um ângulo de iluminação V = H = 0º. ou, se necessário, na posição definida nos pontos VIII.4 e VIII.4.1."
+  },
+  "92e2d8eb86d022b3": {
+   "fragment_id": "ANEXO VI ESPECIFICAÇÕES DE FORMA E DE DIMENSÕES",
+   "type": "divisao",
+   "heading": "ANEXO VI ESPECIFICAÇÕES DE FORMA E DE DIMENSÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI ESPECIFICAÇÕES DE FORMA E DE DIMENSÕES\n\nVI.1. FORMA E DIMENSÕES DOS REFLECTORES DA CLASSE I 1.1. As zonas iluminantes dos reflectores da classe I devem poder ser inscritas numa circunferência com 200 mm de diâmetro.\n\n1.2. A forma das zonas iluminantes deve ser simples e não deve poder ser confundida, à distância normal de observação, com uma letra, um algarismo ou um triângulo.\n\n1.3. Em derrogação do disposto no ponto 1.2, é admitida uma forma que se assemelhe à forma simples das letras e algarismos 0, I, U e 8.\n\nVI.2. FORMA E DIMENSÕES DOS REFLECTORES DA CLASSE III 2.1. As zonas iluminantes dos reflectores da classe III devem ter a forma de um triângulo equilátero. Se tiverem num vértice a inscrição «TOP», esta indica que o triângulo deve ser orientado com esse vértice para cima.\n\n2.2. A zona iluminante pode ter no seu centro uma parte triangular não catadióptrica cujos lados sejam paralelos aos do triângulo exterior.\n\n2.3. A zona iluminante pode ser contínua ou não. Em todos os casos, a distância mais curta entre duas ópticas catadióptricas vizinhas não deve exceder 15 mm.\n\n2.4. A zona iluminante de um reflector considera-se contínua quando os bordos das zonas iluminantes das ópticas catadióptricas vizinhas independentes são paralelas e as referidas ópticas estão uniformemente distribuídas por toda a superfície não vazada do triângulo.\n\n2.5. Quando a zona iluminante não é continua, o número das ópticas catadióptricas independentes não pode ser inferior a quatro para cada lado do triângulo, incluindo as ópticas catadióptricas dos vértices. 2.5.1. As ópticas catadióptricas independentes não devem ser substituíveis, salvo se forem constituídas por reflectores homologados na classe I.\n\n2.6. Os lados exteriores das zonas iluminantes dos reflectores triangulares da classe III devem ter um comprimento compreendido entre 150 e 200 mm. Para os dispositivos do tipo vazado, a largura dos bordos, medida perpendicularmente a estes, é pelo menos igual a 20 % do comprimento útil entre as extremidades das zonas iluminantes.\n\nVI.3. Para a verificação da conformidade com as especificações acima enumeradas, procede-se essencialmente a um exame visual.\n\nApêndice REFLECTORES PARA REBOQUES- CLASSE III\n\n>PIC FILE= \"T0009374\">"
+  },
+  "70e8c5c791277784": {
+   "fragment_id": "ANEXO VII ESPECIFICAÇÕES COLORIMÉTRICAS",
+   "type": "divisao",
+   "heading": "ANEXO VII ESPECIFICAÇÕES COLORIMÉTRICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII ESPECIFICAÇÕES COLORIMÉTRICAS\n\nVII.1. Para a aplicação das presentes especificações, consideram-se unicamente os reflectores incolores e os de cor vermelha ou amarelo-âmbar. 1.1. Os reflectores podem eventualmente consistir na associação de uma óptica catadióptrica e de um filtro, que devem ser indissociáveis, por construção, nas condições normais de utilização.\n\n1.2. Não é admitida a coloração das ópticas catadióptricas e dos filtros por meio de pintura ou de verniz.\n\nVII.2. Estando o reflector iluminado pelo iluminante padrão A da CIE, para um ângulo de divergência de 20' e um ângulo de iluminação V = H = 0º. ou, se se produzir uma reflexão na superficie de entrada não colorida, para V = ± 5º., H = 0º., as coordenadas tricromáticas do fluxo luminoso reflectido devem situar-se dentro dos seguintes limites: >PIC FILE= \"T0009375\"> 2.1. Para as cores vermelha e amarelo-âmbar, o cumprimento das especificações colorimétricas é verificado por meio de um ensaio visual comparativo.\n\n2.2. Se subsistem dúvidas após este ensaio, o cumprimento das especificações colorimétricas é verificado determinando as coordenadas tricromáticas da amostra mais duvidosa.\n\nVII.3. Os reflectores incolores não devem apresentar uma reflexão selectiva, ou seja, as coordenadas tricromáticas x e y do iluminante padrão A utilizado para a iluminação do reflector não devem sofrer uma modificação superior a 0,01 depois da reflexão pelo reflector. 3.1. Procede-se à verificação por um ensaio visual comparativo como indicado no ponto 2.1, estando o campo de comparação iluminado por fontes luminosas cujas coordenadas tricromáticas se afastam de 0,01 em relação às do padrão A.\n\n3.2. Em caso de dúvida, determinam-se as coordenadas tricromáticas para a amostra mais selectiva."
+  },
+  "e0bb53a5c9ba60a2": {
+   "fragment_id": "ANEXO VIII ESPECIFICAÇÕES FOTOMÉTRICAS",
+   "type": "divisao",
+   "heading": "ANEXO VIII ESPECIFICAÇÕES FOTOMÉTRICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII ESPECIFICAÇÕES FOTOMÉTRICAS\n\nVIII.1. No pedido de homologação CEE, o requerente especifica o eixo de referência. Este corresponde ao ângulo de iluminação V = H = 0º. do do quadro dos coeficientes de intensidade luminosa (CIL).\n\nVIII.2. Para as medidas fotométricas, considera-se apenas, para a classe I, a zona iluminante situada no interior de uma circunferência com 120 mm de diâmetro e limita-se a zona à área máxima seguinte: classe I = 100 cm2, sem que a superfície das ópticas catadióptricas deva necessariamente atingir esta área; o fabricante indica o contorno da superfície a utilizar. Para a classe III, considera-se a totalidade das zonas iluminantes sem nenhum limite de dimensão.\n\nVIII.3. Os valores do CIL dos reflectores vermelhos devem ser pelo menos iguais aos do quadro seguinte, expressos em milicandelas por lux para os ângulos de divergência e de iluminação mencionados: >PIC FILE= \"T0009376\">\n\nNão são admitidos valores do CIL inferiores aos valores indicados nas duas últimas colunas do quadro no interior do ângulo sólido que tem por vértice o centro de referência e é limitado pelos planos que intersectam segundo as arestas a seguir indicadas:\n\n(V = + e - 10º., H = 0º.) (V = + e - 5º., H = + e - 20º.)\n\nVIII.4. Quando se mede o CIL de um reflector para um ângulo ß igual a V = H = 0º., verifica-se, voltando ligeiramente o dispositivo, se não se produz um efeito de espelho. Se este fenómeno ocorrer, faz-se a medição para ß igual a V = + ou - 5º., H = 0º.. A posição adoptada é a que corresponde ao CIL mínimo para uma destas posições. 4.1. Para o ângulo de iluminação ß igual a V = H = 0º., ou o definido no ponto VIII.4, e para o ângulo de divergência de 20', fazem-se rodar em torno dos seus eixos de referência os reflectores que não têm a indicação «TOP», até ao CIL mínimo, que deve obedecer ao valor indicado no ponto VIII.3. Quando se mede o CIL para os outros ângulos de iluminação e de divergência, o reflector é colocado na posição que corresponde ao valor do ângulo de rotação ß assim determinado. Se os valores especificados não são obtidos, pode fazer-se rodar o reflector de ± 5º. em torno do eixo de referência a partir desta posição.\n\n4.2. Para o ângulo de iluminação ß igual a V = H = 0º., ou o definido no ponto VIII.4, e para o ângulo de divergência de 20', fazem-se rodar os reflectores que têm a indicação «TOP» de ± 5º. em torno dos seus eixos de referência. Em todas as posições tomadas pelo reflector no decurso desta rotação, o CIL não deve ser inferior ao valor prescrito.\n\n4.3. Se, para a direcção V = H = 0º. e para 5 = 0º., o CIL ultrapassar em pelo menos 50 % o valor especificado, todas as medições para todos os ângulos de iluminação e de divergência fazem-se para 5 = 0º..\n\nVIII.5. Para efectuar as medições, segue-se o método recomendado pela CIE para a fotometria dos reflectores."
+  },
+  "9589d369a1edf13e": {
+   "fragment_id": "ANEXO IX RESISTÊNCIA AOS AGENTES EXTERIORES — IX.1. IMPERMEABILIDADE",
+   "type": "divisao",
+   "heading": "ANEXO IX RESISTÊNCIA AOS AGENTES EXTERIORES — IX.1. IMPERMEABILIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX RESISTÊNCIA AOS AGENTES EXTERIORES — IX.1. IMPERMEABILIDADE\n\nOs reflectores, agrupados ou não ou mutuamente incorporados com um farol, após retirada de todas as peças desmontáveis são imersos durante 10 minutos num banho de água a 25 ± 5 º.C, devendo o ponto mais elevado da parte superior da zona iluminante situar-se a cerca de 20 mm da superfície da água. Este ensaio é repetido rodando-se o reflector 180º. de modo a que a zona iluminante esteja para baixo e a face posterior esteja coberta por cerca de 20 mm de água. 1.1. A água não deve penetrar na face reflect ora da óptica catadióptrica. Se um exame visual revelar sem ambiguidade a presença de água, considera-se que o dispositivo não satisfaz o ensaio.\n\n1.2. Se o exame visual não revelou a presença de água ou se subsistem dúvidas, mede-se o CIL segundo o método descrito no ponto V.3.2, depois de se ter sacudido ligeiramente o reflector para eliminar o excesso de água da superfície.\n\nIX.2. RESISTÊNCIA À CORROSÃO\n\nOs reflectores devem ser construídos de tal maneira que, apesar das condições de humidade e de corrosão às quais estão normalmente sujeitos, conservem as características fotométricas e colorimétricas prescritas. A resistência da face anterior ao embaciamento e a da protecção da face posterior à degradação devem ser objecto de uma verificação especial unicamente quando é de recear a corrosão de uma parte metálica essencial.\n\nO reflector, após retirada de todas as peças desmontáveis, ou o farol ao qual o reflector está agrupado ou com o qual está mutuamente incorporado é submetido à acção de um nevoeiro salino durante um período de 50 horas, dividido em dois períodos de exposição de 24 horas, separados por um intervalo de 2 horas durante o qual se deixa secar a amostra.\n\nO nevoeiro salino é produzido pela pulverização a 35 ± 2 º.C de uma solução salina obtida pela dissolução de 20 ± 2 partes em massa de cloreto de sódio em 80 partes de água destilada não contendo mais de 0,02 % de impurezas.\n\nImediatamente após o fim do ensaio, a amostra não deve apresentar sinais de uma corrosão excessiva que possa afectar o bom funcionamento do aparelho.\n\nIX.3. RESISTÊNCIA AOS COMBUSTIVEIS\n\nA superfície exterior do reflector, e em particular a da zona iluminante, é esfregada ligeiramente com um algodão embebido numa mistura de gasolina e de benzol (proporção 90: 10). Depois de aproximadamente 5 minutos, a superfície é examinada visualmente. Ela não deve apresentar modificação visível.\n\nIX.4. RESISTÊNCIA AOS OLEOS DE LUBRIFICAÇÃO\n\nA superfície exterior do reflector, e em particular a da zona iluminante, é esfregada ligeiramente com um algodão embebido em óleo detergente de lubrificação. Depois de aproximadamente 5 minutos, a superfície é limpa.\n\nMede-se em seguida o CIL (ponto V.3.2).\n\nIX.5. RESISTÊNCIA DA FACE POSTERIOR ACESSIVEL DOS REFLECTORES ESPELHADOS\n\nA face posterior do reflector, depois de escovada com uma escova de pelos de nylon, de qualidade dura, é coberta ou fortemente humedecida com uma mistura de gasolina e de benzol (proporção 90: 10) durante 1 minuto. Retira-se em seguida a mistura e deixa-se secar o reflector.\n\nAssim que a evaporação terminar, procede-se a um ensaio de abrasão escovando a face posterior com a mesma escova de nylon.\n\nMede-se em seguida o CIL (ponto V.3.2), depois de se ter coberto com tinta-da-china toda a superfície posterior espelhada."
+  },
+  "1d1c76f992ddcec6": {
+   "fragment_id": "ANEXO X ESTABILIDADE DAS PROPRIEDADES OPTICAS",
+   "type": "divisao",
+   "heading": "ANEXO X ESTABILIDADE DAS PROPRIEDADES OPTICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X ESTABILIDADE DAS PROPRIEDADES OPTICAS\n\nX.1. A autoridade administrativa que concedeu a homologação CEE pode verificar em que medida está assegurada a estabilidade no tempo das propriedades ópticas de um tipo de reflector em serviço.\n\nX.2. As autoridades competentes de um Estado-membro diferente do Estado em que foi concedida a homologação CEE podem proceder no seu território a verificações idênticas. No caso de não-conformidade sistemática de um tipo de reflector em serviço, enviam à autoridade administrativa que concedeu a homologação CEE as peças seleccionadas para exame e solicitam o seu parecer.\n\nX.3. Na ausência de outros elementos de apreciação, a noção de não-conformidade sistemática de um tipo de reflector em serviço interpretar-se-á na acepção do ponto 6.1 do Anexo 0."
+  },
+  "028075bfc01cd814": {
+   "fragment_id": "ANEXO XI RESISTÊNCIA AO CALOR",
+   "type": "divisao",
+   "heading": "ANEXO XI RESISTÊNCIA AO CALOR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI RESISTÊNCIA AO CALOR\n\nXI.1. O reflector é colocado durante 12 horas consecutivas numa atmosfera seca, à temperatura de 65 ± 2 º.C.\n\nXI.2. Depois do ensaio não deve poder verificar-se visualmente nenhuma deformação apreciável ou fenda do reflector, e em especial dos elementos ópticos.\n\nXI.3. As características colorimétricas e fotométricas são controladas de acordo com os pontos V.3.1 e V.3.2."
+  },
+  "feacb67e3466d880": {
+   "fragment_id": "ANEXO XII ESTABILIDADE DA COR",
+   "type": "divisao",
+   "heading": "ANEXO XII ESTABILIDADE DA COR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XII ESTABILIDADE DA COR\n\nXII.1. A autoridade administrativa que concedeu a homologação CEE pode verificar em que medida está assegurada a estabilidade da cor de um tipo de reflector em serviço.\n\nXII.2. As autoridades competentes de um Estado-membro diferente do Estado em que foi concedida a homologação CEE podem proceder no seu território a verificação idênticas. No caso de não-conformidade sistemática de um tipo de reflector em serviço, enviam à autoridade administrativa que concedeu a homologação CEE as peças seleccionadas para exame e solicitam o seu parecer.\n\nXII.3. Na ausência de outros elementos de apreciação, a noção de não-conformidade sistemática de um tipo de reflectores em serviço interpretar-se-á na acepção do ponto 6.1 do Anexo 0.\n\nApêndice aos anexos ORDEM CRONOLOGICA DOS ENSAIOS\n\n>PIC FILE= \"T0009377\">"
+  },
+  "0fc2ee34470a155c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1976L0757 — PT — 01.11.2014 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31976L0757) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31976L0757) [de 27 de Julho de 1976](http://publications.europa.eu/resource/celex/31976L0757) [relativa à aproximação das legislações dos Estados-membros respeitantes aos reflectores dos veículos a motor e seus reboques](http://publications.europa.eu/resource/celex/31976L0757) [(76/757/CEE)](http://publications.europa.eu/resource/celex/31976L0757) (JO L 262, 27.9.1976, p.32)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

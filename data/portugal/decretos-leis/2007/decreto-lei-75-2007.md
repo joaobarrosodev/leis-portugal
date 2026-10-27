@@ -1,0 +1,790 @@
+---
+schema_version: '1.0'
+id: pt:dre:520461:por
+title: Decreto-Lei n.º 75/2007
+short_title: null
+summary: Aprova a orgânica da Autoridade Nacional de Protecção Civil
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 75/2007
+official_date: null
+publication_date: '2007-03-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 63/2007, Série I de 2007-03-29
+  number: '63'
+  series: I
+  supplement: null
+  pages: 1834 - 1839
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18341839.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2013-06-01'
+version_history:
+  file: decreto-lei-75-2007.versoes.json
+  count: 3
+  source_lastmod: '2025-09-01'
+  versions:
+  - date: '2007-03-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-03-31'
+    amending: pt:dre:553925:por
+    amending_title: Decreto-Lei n.º 73/2012
+    changes:
+    - Adita Artigo 26.º-A
+    - Adita Artigo 26.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 26.º
+    - Revoga Artigo 8.º
+  - date: '2013-06-01'
+    amending: pt:dre:513609:por
+    amending_title: Decreto-Lei n.º 73/2013
+    changes:
+    - Revoga Capítulo I
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Capítulo II
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Capítulo III
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Capítulo IV
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Capítulo VI
+    - Revoga Artigo 26.º
+    - Revoga Artigo 26.º-A
+    - Revoga Artigo 26.º-B
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Anexo
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/75/2007/p/cons/20130531/pt/html
+  oj: null
+  dre: '520461'
+  dre_path: /dr/detalhe/decreto-lei/75-2007-520461
+  internal: pt:dre:520461:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2007-520461
+  metadata_url: https://data.dre.pt/eli/dec-lei/75/2007/p/cons/20130531/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-933766771
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-933766771
+  retrieved_at: '2026-10-22T13:33:04Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-09-01T00:00:00Z'
+integrity:
+  source_sha256: 015df9907de39713d0fad111949e61a14f0a51d14856441c6ef0d67232b972de
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:33:04Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-75-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Nacional de Recursos de Protecção Civil
+- Pessoal Dirigente
+- Comando Distrital de Operações de Socorro
+- Ministério da Administração Interna
+- Conselho Nacional de Bombeiros
+- Definição de Competências
+- Direcção Nacional de Bombeiros
+- Direcção Nacional de Planeamento de Emergência
+- Diretor Nacional
+- Fiscalização
+- Orgânica
+- Quadro de Pessoal
+- Sanção
+- Autoridade Nacional de Protecção Civil
+- Comando Nacional de Operações de Socorro
+relationships:
+- type: amended_by
+  target: pt:dre:553925:por
+  label: Adita Artigo 26.º-A; Adita Artigo 26.º-B; Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 10.º; Altera Artigo
+    14.º; Altera Artigo 26.º; Revoga Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2012-553925
+  date: '2012-03-26'
+- type: amended_by
+  target: pt:dre:513609:por
+  label: Revoga Capítulo I; Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 5.º;
+    Revoga Artigo 6.º; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Capítulo II; Revoga Artigo 9.º; Revoga Artigo 10.º; Revoga
+    Artigo 11.º; Revoga Artigo 12.º; Revoga Capítulo III; Revoga Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo 15.º; Revoga
+    Artigo 16.º; Revoga Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609
+  date: '2013-05-31'
+- type: cites
+  target: pt:dre:227006:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/97/2005/06/16/p/dre
+- type: cites
+  target: pt:dre:231117:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/49/2003/03/25/p/dre
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
+- type: cites
+  target: pt:dre:539218:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/134/2006/07/25/p/dre
+- type: cites
+  target: pt:dre:545640:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/203/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:552522:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/21/2006/02/02/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:616185:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/294/2000/11/17/p/dre
+- type: cites
+  target: pt:dre:684065:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/490/1999/11/17/p/dre
+article_structure:
+  article_count: 31
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:33:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 75/2007
+
+Decreto-Lei n.º 75/2007
+
+de 29 de Março
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa, à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no Decreto-Lei n.º 203/2006, de 27 de Outubro, que aprovou a lei orgânica do Ministério da Administração Interna, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+Com a entrada em vigor da Lei n.º 27/2006, de 3 de Julho, que aprovou a Lei de Bases de Protecção Civil, foi redefinido o sistema de protecção civil, assumindo a Autoridade Nacional de Protecção Civil (ANPC) um papel fundamental no âmbito do planeamento, coordenação e execução da política de protecção civil.
+
+Com o Decreto-Lei n.º 134/2006, de 25 de Julho, iniciou-se a implementação do Sistema Integrado de Operações de Protecção e Socorro (SIOPS), passo nuclear reformador da função socorro, definindo-se a organização operacional suportada na caracterização do território nacional e nas características estruturantes dos agentes de protecção civil.
+
+Na prossecução do processo de modernização da Administração Pública, consagrada no Programa do Governo, o Decreto-Lei n.º 203/2006, de 27 de Outubro, veio proceder, no que concerne aos serviços centrais de natureza operacional do Ministério da Administração Interna, à reestruturação do Serviço Nacional de Bombeiros e Protecção Civil, que passou a designar-se Autoridade Nacional de Protecção Civil.
+
+Impõe-se, assim, prosseguir o ciclo regulamentar da reforma, conferindo à ANPC os instrumentos jurídicos e orgânicos necessários a garantir, em permanência e sem amputações, a segurança das populações e a salvaguarda do património, com vista a prevenir a ocorrência de acidentes graves e catástrofes, assegurar a gestão dos sinistros e dos danos colaterais, e apoiar a reposição das funções que reconduzam à normalidade nas áreas afectadas.
+
+O decreto-lei visa dotar a ANPC com um novo modelo de organização que assegure o exercício eficiente e oportuno das atribuições que lhe cumprem, no âmbito da previsão e gestão de riscos, da actividade de protecção e socorro, das actividades dos bombeiros e em matéria do planeamento de emergência.
+
+São conferidos à ANPC poderes de autoridade, regulação e fiscalização que determinam que a natureza do presente decreto-lei revista a forma de decreto-lei, sem prejuízo dos princípios e normas a que obedece a organização da administração directa do Estado, previstos na Lei n.º 4/2004, de 15 de Janeiro.
+
+A ANPC integra três direcções nacionais, para as áreas de recursos de protecção civil, planeamento de emergência e bombeiros, bem como a estrutura de comando do SIOPS.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o governo decreta o seguinte:
+
+### Capítulo I — Natureza, missão e atribuições
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 1.º — Natureza
+
+A Autoridade Nacional de Protecção Civil, abreviadamente designada por ANPC, é um serviço central de natureza operacional, da administração directa do Estado, dotado de autonomia administrativa e financeira e património próprio, na dependência do membro do Governo responsável pela área da Administração Interna.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A ANPC tem por missão planear, coordenar e executar a política de proteção civil, designadamente na prevenção e reação a acidentes graves e catástrofes, de proteção e socorro de populações e de superintendência da atividade dos bombeiros, bem como assegurar o planeamento e coordenação das necessidades nacionais na área do planeamento civil de emergência com vista a fazer face a situações de crise ou de guerra.
+
+2 - A ANPC prossegue as seguintes atribuições no âmbito da previsão e gestão de risco e planeamento civil de emergência:
+
+a) Assegurar a atividade de planeamento civil de emergência para fazer face, em particular, a situações de acidente grave, catástrofe, crise ou guerra;
+
+b) Contribuir para a definição da política nacional de planeamento civil de emergência, designadamente através da elaboração de diretrizes gerais, promoção da elaboração de estudos e planos de emergência, e prestação de apoio técnico e emissão de parecer sobre a sua elaboração por entidades setoriais;
+
+c) Promover o levantamento, previsão, análise e avaliação dos riscos coletivos de origem natural ou tecnológica e o estudo, normalização e aplicação de técnicas adequadas de prevenção e socorro;
+
+d) Organizar um sistema nacional de alerta e aviso;
+
+e) Proceder à regulamentação, licenciamento e fiscalização no âmbito da segurança contra incêndios;
+
+f) Assegurar a articulação dos serviços públicos ou privados que devam desempenhar missões relacionadas com o planeamento civil de emergência, a fim de que, em situação de acidente grave, catástrofe, crise ou guerra, se garanta a continuidade da ação governativa, a proteção das populações e a salvaguarda do património nacional.
+
+3 - A ANPC prossegue as seguintes atribuições no âmbito da atividade de proteção e socorro:
+
+a) Garantir a continuidade orgânica e territorial do sistema de comando de operações de socorro;
+
+b) Acompanhar todas as operações de proteção e socorro, nos âmbitos local e regional autónomo, prevendo a necessidade de intervenção de meios complementares;
+
+c) Planear e garantir a utilização, nos termos da lei, dos meios públicos e privados disponíveis para fazer face a situações de acidente grave e catástrofe;
+
+d) Assegurar a coordenação horizontal de todos os agentes de proteção civil e as demais estruturas e serviços públicos com intervenção ou responsabilidades de proteção e socorro.
+
+4 - A ANPC prossegue as seguintes atribuições no âmbito das atividades dos bombeiros:
+
+a) Orientar, coordenar e fiscalizar a atividade dos corpos de bombeiros;
+
+b) Promover e incentivar a participação das populações no voluntariado e todas as formas de auxílio na missão das associações humanitárias de bombeiros e dos corpos de bombeiros;
+
+c) Assegurar a realização de formação dos bombeiros portugueses e promover o aperfeiçoamento operacional do pessoal dos corpos de bombeiros;
+
+d) Assegurar a prevenção sanitária, a higiene e a segurança do pessoal dos corpos de bombeiros bem como a investigação de acidentes em ações de socorro.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2012-553925), em vigor a partir de 2012-03-31
+
+###### Artigo 3.º — Âmbito territorial
+
+As atribuições da ANPC são prosseguidas em todo o território nacional, sem prejuízo das competências próprias dos órgãos relevantes das regiões autónomas e das autarquias locais.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 4.º — Colaboração com outras entidades
+
+1 - Para a prossecução das suas atribuições, a ANPC pode estabelecer parcerias com outras entidades do sector público ou privado, com ou sem fins lucrativos, designadamente universidades e instituições ou serviços integrados no sistema de protecção civil, incluindo a concessão de subsídios, nos termos da lei.
+
+2 - A ANPC participa na execução da política de cooperação internacional do Estado português, no domínio da protecção civil, e de acordo com as orientações estabelecidas.
+
+3 - A ANPC pode, ainda, precedendo autorização do membro do Governo responsável pela área da Administração Interna, participar em missões de auxílio externo.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 5.º — Dever de cooperação
+
+1 - Os cidadãos e demais entidades privadas, nas pessoas dos respectivos representantes, devem prestar à ANPC a cooperação que justificadamente lhes for solicitada.
+
+2 - Têm o dever especial de colaborar com a ANPC:
+
+a) Os trabalhadores em funções públicas e das pessoas coletivas de direito público, bem como os membros dos órgãos de gestão das empresas públicas;
+
+b) Os responsáveis pela administração, direcção ou chefia de empresas privadas cuja laboração, pela natureza da sua actividade, esteja sujeita a qualquer forma específica de licenciamento da ANPC;
+
+c) Os agentes de protecção civil;
+
+d) Os serviços regionais e municipais de protecção civil;
+
+e) A Cruz Vermelha Portuguesa;
+
+f) As associações humanitárias de bombeiros;
+
+g) Os serviços de segurança;
+
+h) As instituições de segurança social;
+
+i) As instituições com fins de socorro e de solidariedade;
+
+j) Os organismos responsáveis pelas florestas, conservação da natureza, indústria e energia, transportes, comunicações, recursos hídricos, meteorologia, geofísica, agricultura, mar, alimentação, ambiente e ciberespaço;
+
+k) Os serviços de segurança e socorro privativos das empresas públicas e privadas, dos portos e aeroportos.
+
+3 - A violação do dever especial previsto no número anterior implica responsabilidade civil, criminal e disciplinar, nos termos da lei.
+
+4 - A desobediência e a resistência às ordens legítimas da ANPC, quando praticadas em situação de alerta, contingência ou calamidade, são sancionadas de acordo com o regime previsto no artigo 6.º da Lei n.º 27/2006, de 3 de Julho.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2012-553925), em vigor a partir de 2012-03-31
+
+###### Artigo 6.º — Fiscalização
+
+1 - Compete à ANPC promover a aplicação e fiscalizar o cumprimento das leis, regulamentos, normas e requisitos técnicos aplicáveis no âmbito das suas atribuições.
+
+2 - Para efeitos do número anterior tem a ANPC competência para, directamente ou através de pessoas ou entidades qualificadas, por si credenciadas, proceder aos necessários exames e verificações.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 7.º — Poderes de autoridade
+
+1 - O pessoal da ANPC que desempenhe funções de fiscalização é detentor dos decorrentes poderes de autoridade e, no exercício dessas funções, goza das seguintes prerrogativas:
+
+a) Aceder e inspeccionar, a qualquer hora e sem necessidade de aviso prévio, as instalações, equipamentos e serviços das entidades sujeitas a inspecção e controlo da ANPC;
+
+b) Requisitar para análise equipamentos e documentos;
+
+c) Determinar, a título preventivo, e com efeitos imediatos, mediante ordem escrita e fundamentada, a suspensão ou cessação de actividades e encerramento de instalações, quando da não aplicação dessas medidas possa resultar risco iminente para a segurança das pessoas e bens;
+
+d) Identificar as pessoas que se encontrem em violação flagrante das normas cuja observância lhe compete fiscalizar, no caso de não ser possível o recurso a autoridade policial em tempo útil;
+
+e) Solicitar a colaboração das autoridades administrativas e policiais para impor o cumprimento de normas e determinações que por razões de segurança devem ter execução imediata no âmbito de actos de gestão pública.
+
+2 - O disposto nas alíneas a), b) e e) do número anterior é aplicável às entidades e agentes credenciados pela ANPC para o exercício de funções de fiscalização, nos termos do n.º 2 do artigo 6.º
+
+3 - Da suspensão, cessação ou encerramento a que se refere a alínea c) do n.º 1 é lavrado auto de notícia, o qual é objecto de confirmação pelo presidente da ANPC no prazo máximo de 15 dias, sob pena de caducidade da medida preventiva determinada.
+
+4 - O pessoal e agentes credenciados da ANPC, titulares das prerrogativas previstas neste artigo, usam um documento de identificação próprio, de modelo a fixar por portaria do membro do Governo responsável pela área da Administração Interna, e devem exibi-lo quando no exercício das suas funções.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 8.º — Medidas de execução e sanções
+
+Em caso de incumprimento das determinações da ANPC ou de infracção das normas e requisitos técnicos aplicáveis às actividades sujeitas a licenciamento, autorização, certificação ou fiscalização da ANPC, pode o presidente da ANPC:
+
+a) Suspender ou cancelar as licenças, autorizações e certificações concedidas, nos termos estabelecidos na respectiva regulamentação;
+
+b) Ordenar a cessação de actividades, a imobilização de equipamentos ou o encerramento de instalações até que deixe de se verificar a situação de incumprimento ou infracção;
+
+c) Solicitar a colaboração das autoridades policiais para impor o cumprimento das normas e determinações que por razões de segurança devam ter execução imediata, no âmbito de actos de gestão pública;
+
+d) Aplicar as demais sanções previstas na lei.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 73/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2012-553925), em vigor a partir de 2012-03-31
+
+### Capítulo II — Órgãos
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 9.º — Órgãos
+
+1 - A ANPC é dirigida por um presidente, coadjuvado por três directores nacionais, cargos de direcção superior de primeiro e segundo grau, respectivamente.
+
+2 - É ainda órgão da ANPC o Conselho Nacional de Bombeiros.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 10.º — Presidente
+
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas, compete ao presidente:
+
+a) Promover e coordenar as atividades em matéria de planeamento civil de emergência, quer a nível nacional, quer a nível da Organização do Tratado Atlântico Norte (OTAN), em estreita ligação com os serviços públicos competentes em cada setor;
+
+b) Superintender o sistema integrado de operações de protecção e socorro;
+
+c) Aconselhar o Governo em matéria de proteção civil e planeamento civil de emergência;
+
+d) Representar a ANPC judicial e extrajudicialmente, bem como nos organismos internacionais de protecção civil de que o Estado Português faça parte;
+
+e) Aprovar e homologar normas gerais vinculativas relativamente a uniformes, equipamento, material e procedimentos dos corpos de bombeiros, com vista à normalização técnica da respectiva actividade;
+
+f) Propor legislação de normalização de sistemas, equipamentos e procedimentos de protecção e socorro.
+
+2 - Em caso de incumprimento das determinações da ANPC ou de infração das normas e requisitos técnicos aplicáveis às atividades sujeitas a licenciamento, autorização, certificação ou fiscalização da ANPC, pode o presidente da ANPC:
+
+a) Suspender ou cancelar as licenças, autorizações e certificações concedidas, nos termos estabelecidos na respetiva regulamentação;
+
+b) Ordenar a cessação de atividades, a imobilização de equipamentos ou o encerramento de instalações até que deixe de se verificar a situação de incumprimento ou infração;
+
+c) Solicitar a colaboração das autoridades policiais para impor o cumprimento das normas e determinações que por razões de segurança devam ter execução imediata, no âmbito de atos de gestão pública;
+
+d) Aplicar as demais sanções previstas na lei.
+
+3 - Sem prejuízo do disposto no Estatuto do Pessoal Dirigente, a designação do presidente é precedida de audição da Comissão Nacional de Proteção Civil.
+
+4 - O presidente aufere, como remuneração, o equivalente à remuneração mais elevada dos dirigentes dos organismos da administração central do Estado qualificados na lei como agentes de protecção civil.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2012-553925), em vigor a partir de 2012-03-31
+
+###### Artigo 11.º — Directores nacionais
+
+1 - Os directores nacionais dirigem as direcções nacionais referidas no n.º 1 do artigo 13.º e exercem as competências que lhe sejam delegadas ou subdelegadas pelo presidente.
+
+2 - Sem prejuízo das competências do Presidente da ANPC, presume-se delegada nos directores nacionais, a competência prevista para os cargos de direcção superior de primeiro grau no âmbito da gestão dos recursos humanos e das instalações e equipamentos afectos a cada direcção nacional.
+
+3 - Os directores nacionais são cargos de direcção superior de segundo grau.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 12.º — Conselho Nacional de Bombeiros
+
+1 - O Conselho Nacional de Bombeiros, abreviadamente designado por Conselho, é um órgão consultivo do Governo e da ANPC em matéria de bombeiros.
+
+2 - O Conselho é presidido pelo presidente da ANPC, ou pelo membro do Governo responsável pela área da Administração Interna sempre que o desejar, e dele fazem parte:
+
+a) O director nacional de bombeiros da ANPC;
+
+b) O presidente do Instituto Nacional de Emergência Médica;
+
+c) O director-geral da Administração Local;
+
+d) O Presidente da Escola Nacional de Bombeiros;
+
+e) O Director do Instituto de Socorros a Náufragos;
+
+f) Um representante da Associação Nacional de Municípios Portugueses;
+
+g) Um representante da Associação Nacional de Freguesias;
+
+h) O presidente da Liga dos Bombeiros Portugueses;
+
+i) O presidente da Associação Nacional dos Bombeiros Profissionais.
+
+3 - O presidente, quando o considerar conveniente, pode convidar a participar nas reuniões do Conselho outras entidades com relevante interesse para as matérias em consulta.
+
+4 - Compete ao Conselho emitir parecer, nomeadamente, sobre:
+
+a) Programas de apoio a atribuir a associações humanitárias de bombeiros e a corpos de bombeiros;
+
+b) Definição dos critérios gerais a observar nas acções de formação do pessoal dos corpos de bombeiros;
+
+c) Definição dos critérios gerais a observar na criação de novos corpos de bombeiros e respectivas secções, bem como da sua verificação em concreto;
+
+d) Definição das normas gerais a que deve obedecer a regulamentação interna dos corpos de bombeiros;
+
+e) Definição das normas a que deve obedecer o equipamento e material dos corpos de bombeiros, com vista à normalização técnica da respectiva actividade;
+
+f) Atribuição de prémios, medalhas ou agradecimentos aos corpos de bombeiros que, pela sua acção, se tenham notabilizado;
+
+g) Os projectos de diplomas relativos à definição e desenvolvimento dos princípios orientadores do sector.
+
+5 - O Conselho elabora o seu próprio regimento, que é sujeito à homologação do membro do Governo responsável pela área da Administração Interna.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+### Capítulo III — Organização
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 13.º — Tipo de organização interna
+
+1 - A organização interna dos serviços da ANPC obedece ao modelo de estrutura hierarquizada e compreende:
+
+a) A direcção nacional de planeamento de emergência;
+
+b) A direcção nacional de bombeiros;
+
+c) A direcção nacional de recursos de protecção civil.
+
+2 - Com vista a assegurar o comando operacional das operações de socorro e ainda o comando operacional integrado de todos os agentes de protecção civil no respeito pela sua autonomia própria, a ANPC compreende ainda a estrutura de comando constituída por:
+
+a) Comando nacional de operações de socorro;
+
+b) Comandos distritais de operações de socorro.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 14.º — Direcção nacional de planeamento de emergência
+
+1 - A direção nacional de planeamento de emergência é o serviço da ANPC ao qual compete:
+
+a) Contribuir para a definição da política nacional de planeamento civil de emergência e assegurar as atividades de planeamento civil de emergência;
+
+b) Promover a previsão e assegurar a monitorização e a avaliação dos riscos coletivos;
+
+c) Avaliar as vulnerabilidades perante situações de risco;
+
+d) Desenvolver e manter o sistema nacional de alerta e aviso;
+
+e) Assegurar o desenvolvimento e coordenação do planeamento civil de emergência;
+
+f) Elaborar as orientações técnicas adequadas de prevenção e socorro;
+
+g) Regular, licenciar e fiscalizar no âmbito da segurança contra incêndios.
+
+2 - Em matéria de planeamento civil de emergência, compete em especial à direção nacional de planeamento de emergência:
+
+a) Elaborar diretrizes gerais para o planeamento civil de emergência com vista à satisfação das necessidades civis e militares;
+
+b) Contribuir para a elaboração das diretrizes para a adaptação dos serviços públicos às situações de crise ou às de tempo de guerra;
+
+c) Apreciar os planos que, no âmbito do planeamento civil de emergência, lhe sejam submetidos pelos serviços públicos competentes para o efeito, bem como por outras entidades;
+
+d) Aprovar previamente as informações e propostas a apresentar pelos representantes nacionais aos correspondentes comités do Comité do Planeamento Civil de Emergência da OTAN - Civil Emergency Planning Committee (CEPC);
+
+e) Identificar os serviços públicos ou privados que devam desempenhar missões relacionadas com o planeamento civil de emergência;
+
+f) Assegurar a execução das diretrizes e dos planos aprovados pelo Governo, requerendo as informações que julgue necessárias;
+
+g) Obter a colaboração dos serviços competentes, públicos ou privados, ou de especialistas, na elaboração de estudos e informações;
+
+h) Promover o esclarecimento das populações acerca dos problemas relacionados com o planeamento civil de emergência;
+
+i) Dar parecer ou informações sobre todos os assuntos que lhe forem submetidos pelo membro do Governo responsável pela área da administração interna;
+
+j) Fazer propostas para adequar a legislação por forma a responder a necessidades nacionais e aos compromissos assumidos no âmbito da OTAN;
+
+k) Cumprir as atribuições e competências fixadas na legislação relativa a normas de segurança.
+
+3 - Em matéria de planeamento civil de emergência, a nível OTAN, compete, em especial, à direção nacional de planeamento de emergência:
+
+a) Apreciar os documentos e informações mais relevantes apresentados no CEPC;
+
+b) Cometer a realização de estudos aos serviços públicos competentes para o efeito;
+
+c) Fixar as normas de identificação e de preparação dos representantes e técnicos nacionais designados para as agências civis de tempo de guerra da OTAN;
+
+d) Garantir o cumprimento das normas de segurança emanadas da OTAN e da Autoridade Nacional de Segurança, nomeadamente o registo, controlo e distribuição da correspondência OTAN, a inspeção periódica dos Postos de Controlo OTAN, seus dependentes, bem como promover e verificar a credenciação dos cidadãos de nacionalidade portuguesa que, na área do planeamento civil de emergência, devam ter acesso a informação classificada;
+
+e) Coordenar a aplicação em Portugal da doutrina OTAN promulgada no âmbito do Comité de Proteção Civil - Civil Protection Group (CPC) - e respetivos grupos de trabalho;
+
+f) Definir a delegação nacional e assegurar a presença nas reuniões plenárias do CEPC.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2012-553925), em vigor a partir de 2012-03-31
+
+###### Artigo 15.º — Direcção nacional de bombeiros
+
+A direcção nacional de bombeiros é o serviço da ANPC ao qual compete:
+
+a) Regular e fiscalizar a actividade dos corpos de bombeiros;
+
+b) Supervisionar a rede de infra-estruturas e equipamentos dos corpos de bombeiros;
+
+c) Desenvolver, implementar e manter os programas de:
+
+i) Formação e treino operacional dos bombeiros;
+
+ii) Prevenção sanitária, higiene e segurança do pessoal dos corpos de bombeiros;
+
+iii) Incentivo e participação das populações no voluntariado.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 16.º — Direcção nacional de recursos de protecção civil
+
+A direcção nacional de recursos de protecção civil é o serviço da ANPC ao qual compete:
+
+a) Planear, organizar e gerir os recursos humanos da ANPC;
+
+b) Planear e gerir os recursos financeiros e tecnológicos da ANPC;
+
+c) Administrar e assegurar a manutenção da rede informática e as bases de dados da ANPC;
+
+d) Planear e gerir as redes e equipamentos de telecomunicações da ANPC;
+
+e) Efectuar a aquisição de bens e a contratação de serviços;
+
+f) Assegurar a gestão:
+
+i) Documental e do arquivo da ANPC;
+
+ii) Das instalações e equipamentos da ANPC;
+
+iii) Da frota automóvel da ANPC.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 17.º — Comando Nacional de Operações de Socorro
+
+1 - O Comando Nacional de Operações de Socorro, abreviadamente designado por CNOS, é dirigido pelo comandante operacional nacional, coadjuvado pelo 2.º comandante operacional nacional e por três adjuntos de operações nacionais.
+
+2 - O CNOS compreende a célula de planeamento, operações e informações, a célula de logística, a célula de gestão de meios aéreos e a célula de comunicações.
+
+3 - As competências do CNOS e das células referidas no número anterior são as previstas no âmbito do sistema integrado de operações de protecção e socorro (SIOPS), aprovado pelo Decreto-Lei n.º 134/2006, de 25 de Julho.
+
+4 - O 2.º comandante operacional nacional e os adjuntos de operações nacionais reportam directamente ao comandante operacional nacional e exercem as competências e funções que este determinar.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 18.º — Comandos distritais de operações de socorro
+
+1 - Em cada distrito existe um comando distrital de operações de socorro, abreviadamente designado por CDOS, dirigido pelo comandante operacional distrital, coadjuvado pelo 2.º comandante operacional distrital.
+
+2 - Por despacho do membro do Governo responsável pela área da Administração Interna, tendo em conta as necessidades resultantes dos riscos naturais, tecnológicos e da actividade humana, pode o CDOS dispor de um adjunto de operações distrital.
+
+3 - As competências do CDOS são as previstas no âmbito do sistema integrado de operações de protecção e socorro (SIOPS), aprovado pelo Decreto-Lei n.º 134/2006, de 25 de Julho.
+
+4 - Compete ainda ao CDOS assegurar a articulação operacional permanente com o comandante operacional municipal.
+
+5 - O comandante operacional distrital reporta hierarquicamente ao comandante operacional nacional.
+
+6 - O 2.º comandante operacional distrital e o adjunto de operações distrital reportam directamente ao comandante operacional distrital e exercem as competências e funções que este determinar.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+### Capítulo IV — Gestão
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 19.º — Receitas
+
+1 - A ANPC dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A ANPC dispõe ainda das seguintes receitas próprias:
+
+a) As importâncias das coimas aplicadas, dentro dos limites legalmente admissíveis;
+
+b) Os subsídios e comparticipações atribuídos por entidades públicas e privadas, nacionais ou estrangeiras;
+
+c) Subvenções, quotizações, doações, heranças ou legados de entidades e respectivos rendimentos;
+
+d) O produto da venda de publicações;
+
+e) Os rendimentos de bens patrimoniais;
+
+f) A remuneração dos serviços prestados, nomeadamente estudos, pareceres, palestras, prelecções e conferências sobre temas de protecção civil e socorro;
+
+g) As percentagens legalmente atribuídas sobre os prémios de seguro;
+
+h) Quaisquer outras receitas que lhe sejam atribuídas por lei, regulamento, contrato ou outro título.
+
+3 - A cobrança, o depósito e o controlo das receitas são feitos nos termos da legislação aplicável aos organismos integrados.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 20.º — Despesas
+
+Constituem despesas da ANPC as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas, designadamente:
+
+a) As despesas decorrentes do funcionamento dos seus órgãos e serviços, bem como as despesas resultantes da sua participação em parcerias com outras entidades do sector público ou privado;
+
+b) Apoio financeiro ao investimento e à aquisição e manutenção de material e equipamento necessário para o combate a incêndios e para outras formas de socorro cometidas aos corpos de bombeiros;
+
+c) Atribuição de subsídios e prémios relacionados com acções de socorro e funcionamento das associações humanitárias de bombeiros e dos respectivos corpos de bombeiros, bem como a preparação e formação contínua do seu pessoal.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+### Capítulo V — Recursos humanos
+
+###### Artigo 21.º — Quadro de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 22.º — Equipas técnicas
+
+1 - Por despacho do presidente da ANPC podem ser criadas, como unidades funcionais sem departamentalização formal, equipas técnicas sempre que tal se mostre conveniente ao desenvolvimento das atribuições da ANPC.
+
+2 - O número máximo de equipas a criar é fixado na portaria prevista no n.º 4 do artigo 21.º da Lei n.º 4/2004, de 15 de Janeiro.
+
+3 - Por despacho do presidente da ANPC, pode ser atribuída a função de coordenador, em cada equipa, a um dos técnicos superiores que a integram, de acordo com o mérito e perfil para o efeito identificados, o qual auferirá um suplemento remuneratório correspondente a 10% do valor do índice 100 da escala salarial do pessoal dirigente da função pública, não podendo o total da remuneração ultrapassar o montante da remuneração de dirigente intermédio de segundo grau.
+
+###### Artigo 23.º — Serviço de turnos
+
+Considerando a necessidade de garantir permanentemente a actividade operacional, é assegurada a permanência no serviço de pessoal em regime de turnos, de acordo com a lei geral.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 24.º — Dever de disponibilidade
+
+1 - O serviço prestado na ANPC é de total disponibilidade, pelo que o pessoal ali em funções não pode, salvo motivo excepcional devidamente justificado, deixar de comparecer ou permanecer no serviço em caso de iminência ou ocorrência de acidente grave e catástrofe.
+
+2 - A inobservância do dever previsto no número anterior implica responsabilidade disciplinar nos termos da lei.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 25.º — Condução de viaturas
+
+1 - Por despacho fundamentado do presidente da ANPC, pode ser autorizada a condução de viaturas afectas à ANPC por pessoal a prestar serviço na ANPC.
+
+2 - O pessoal autorizado nos termos do número anterior fica abrangido pelo disposto nos artigos 3.º, 4.º e 5.º do Decreto-Lei n.º 490/99, de 17 de Novembro.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+### Capítulo VI — Disposições transitórias e finais
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 26.º — Sucessão
+
+A ANPC sucede nas atribuições do Conselho Nacional de Planeamento Civil de Emergência.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2012-553925), em vigor a partir de 2012-03-31
+
+###### Artigo 26.º-A — Critérios de seleção de pessoal
+
+É fixado como critério geral e abstrato de seleção do pessoal necessário à prossecução das atribuições da ANPC, o desempenho de funções no Conselho Nacional de Planeamento Civil de Emergência.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2012-553925), em vigor a partir de 2012-03-31
+
+###### Artigo 26.º-B — Património
+
+O património imóvel afeto à atividade do Conselho Nacional de Planeamento Civil de Emergência mantém-se sob administração do Ministério da Defesa Nacional.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2012-553925), em vigor a partir de 2012-03-31
+
+###### Artigo 27.º — Comissões de serviço
+
+1 - Com a entrada em vigor do presente decreto-lei cessam as comissões de serviço da estrutura de comando operacional.
+
+2 - Sem prejuízo do disposto no número anterior e até à nomeação dos novos titulares, o pessoal referido no número anterior mantêm-se em funções de gestão corrente nas unidades orgânicas da ANPC que sucedam ou integrem funcionalmente as competências daquelas em que se encontravam nomeados.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 28.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 294/2000, de 17 de Novembro;
+
+b) O Decreto-Lei n.º 49/2003, de 25 de Março, alterado pelo Decreto-Lei n.º 97/2005, de 16 de Junho e pelo Decreto-Lei n.º 21/2006, de 2 de Fevereiro, com excepção do disposto nos n.os 2 e 3 do artigo 9.º, nos n.os 5 e 6 do artigo 29.º e nos artigos 42.º, 43.º e 49.º-A.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+###### Artigo 29.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01
+
+Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Mário Lino Soares Correia - António Fernando Correia de Campos.
+
+Promulgado em 19 de Março de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 21 de Março de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo — Quadro de cargos de direcção
+
+(a que se refere o artigo 21.º)
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 73/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2013-513609), em vigor a partir de 2013-06-01

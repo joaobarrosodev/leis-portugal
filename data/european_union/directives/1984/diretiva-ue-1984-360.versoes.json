@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984L0360:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984L0360-20071030",
+ "dre_path": null,
+ "source_lastmod": "2007-10-30",
+ "versions": [
+  {
+   "date": "1984-07-16",
+   "future": false,
+   "celex": "31984L0360",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d9723929e724d7a2",
+    "05c7f76d53c0be66",
+    "88c1b90e6b67c46c",
+    "9427d65e33e03919",
+    "f9b59f2441199d6c",
+    "960b6f8aedb57de7",
+    "77f6b00ae84c021c",
+    "9000dc685f1752b9",
+    "8b2978d93080187d",
+    "639192da686e3796",
+    "7ecc0245e14a4b05",
+    "1b102f23b1fec0f4",
+    "f96dea965ae51e2e",
+    "d55512ae1b0df2ad",
+    "5293892f1a76d8a3",
+    "08e4ddc6a505ebfa",
+    "389f8dbd3ea3bf9c",
+    "c07678875de647c0",
+    "c4b15f9b59e3f8aa",
+    "31e925e90273f07f"
+   ]
+  },
+  {
+   "date": "2007-10-30",
+   "future": false,
+   "celex": "01984L0360-20071030",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime ANEXO I — CATEGORIAS DE INSTALAÇÕES INDUSTRIAIS (1)",
+    "Suprime ANEXO II — LISTA DAS SUBSTÂNCIAS POLUENTES MAIS IMPORTANTES"
+   ],
+   "fragments": [
+    "6dd6ebe8ba426dd8"
+   ]
+  }
+ ],
+ "fragments": {
+  "d9723929e724d7a2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 84/360/CEE do Conselho, de 28 de Junho de 1984, relativa à luta contra a poluição atmosférica provocada por instalações industriais** *Jornal Oficial nº L 188 de 16/07/1984 p. 0020 - 0025 Edição especial finlandesa: Capítulo 15 Fascículo 4 p. 0199 Edição especial espanhola: Capítulo 15 Fascículo 5 p. 0043 Edição especial sueca: Capítulo 15 Fascículo 4 p. 0199 Edição especial portuguesa: Capítulo 15 Fascículo 5 p. 0043*\n\nDIRECTIVA DO CONSELHO de 28 de Junho de 1984 relativa à luta contra a poluição atmosférica provocada por instalações industriais\n\n(84/360/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que os programas de acção das Comunidades Europeias em matéria de ambiente de 1973 (4), 1977 (5) e 1983 (6) põem em evidência a importância da prevenção e da redução da poluição atmosférica;\n\nConsiderando, nomeadamente, que o programa de acção de 1973 assim como o de 1977 prevêem, por outro lado, a avaliação objectiva dos riscos que a poluição atmosférica representa para a saúde do homem e para o ambiente, o estabelecimento de objectivos de qualidade assim como a fixação de normas de qualidade, em especial para um certo número de poluentes do ar considerados como os mais perigosos;\n\nConsiderando que, em aplicação desses programas, várias directivas foram já adoptadas pelo Conselho;\n\nConsiderando igualmente que, pela Decisão 81/462/CEE (7), a Comunidade se tornou parte na convenção sobre a poluição atmosférica transfronteiriça a longa distância;\n\nConsiderando que o programa de acção de 1983, cujas orientações gerais foram aprovadas pelo Conselho das Comunidades Europeias e pelos representantes dos Estados-membros reunidos no Conselho, prevê que a Comissão prossiga os seus esforços a fim de estabelecer normas de qualidade do ar e que convém fixar eventualmente normas de emissão para certos tipos de emissores;\n\nConsiderando que, em todos os Estados-membros existem disposições legislativas, regulamentares e administrativas relativas à luta contra a poluição atmosférica provocada pelas instalações industriais fixas e que, em vários Estados-membros, as disposições existentes estão em via de alteração;\n\nConsiderando que as disparidades entre as disposições em vigor nos diferentes Estados-membros ou em modificação relativas à luta contra a poluição atmosférica provocada pelas instalações industriais podem criar condições de concorrência desiguais e, por esse facto, ter uma incidência directa sobre o funcionamento do mercado comum; que convém, portato, proceder neste domínio à aproximação de legislações previstas no artigo 100o do Tratado;\n\nConsiderando que uma das tarefas essenciais da comunidade é promover um desenvolvimento harmonioso das actividades económicas em toda a Comunidade e uma expansão contínua e equilibrada, missões que não se podem conceber sem uma luta contra as poluições e perturbações nem sem o melhoramento da qualidade de vida e da protecção do ambiente;\n\nConsiderando que é desejável e necessário que a Comunidade contribua para reforçar a eficácia da acção empreendida pelos Estados-membros para combater a poluição atmosférica provocada por instalações industriais fixas;\n\nConsiderando que para atingir este fim se devem introduzir certos princípios com vista à execução de um conjunto de medidas e de processos destinados a evitar e a reduzir a poluição atmosférica provocada por instalações industriais no interior da Comunidade;\n\nConsiderando que o esforço comunitário para a introdução desses princípios só pode ser progressivo, devido à complexidade das situações e dos princípios essenciais em que assentam as diferentes políticas nacionais;\n\nConsiderando que é conveniente num primeiro tempo, criar um enquadramento geral que permita aos Estados-membros adaptar, se necessário, as disposições que neles vigoram aos princípios comunitários; considerando que, por consequência, se afigura necessário que os Estados-membros introduzam um sistema que submeta a uma autorização prévia a exploração e a modificação substancial de instalações industriais fixas que possam causar uma poluição atmosférica;\n\nConsiderando, por outro lado, que é conveniente que uma autorização só possa ser concedida pelas administrações nacionais competentes quando se encontrarem preenchidas várias condições, nomeadamente, terem sido tomadas todas as medidas de prevenção adequadas e a exploração da instalação não provocar um nível significativo de poluição atmosférica;\n\nConsiderando que disposições específicas devem poder ser aplicadas nas zonas particularmente poluídas assim como nas zonas a proteger especialmente;\n\nConsiderando que as regras aplicáveis em matéria de processos de autorização e de determinação das emissões devem responder a certas exigências;\n\nConsiderando que as autoridades competentes devem examinar a necessidade de impor, em certas situações, condições suplementares que não impliquem, contudo, custos excessivos para a empresa em causa;\n\nConsiderando que é conveniente que a aplicação às instalações existentes das disposições tomadas em virtude da presente directiva seja progressiva e tenha em conta as características técnicas e os efeitos económicos;\n\nConsiderando que é oportuno, para facilitar a aplicação das medidas que visam evitar e reduzir a poluição atmosférica, assim como o desenvolvimento da tecnologia de prevenção, prever uma cooperação entre os Estados-membros e com a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "05c7f76d53c0be66": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva tem como objectivo prever medidas e processos suplementares destinados a evitar ou reduzir a poluição atmosférica provocada por instalações industriais no interior da Comunidade, nomeadamente das que pertencem às categorias que figuram no Anexo I."
+  },
+  "88c1b90e6b67c46c": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos da presente directiva entende-se por:\n\n1. Poluição atmosférica: A introdução na atmosfera por acção do homem, drecta ou indirectamente, de substâncias ou de energia que tenham um efeito nocivo, susceptíveis de pôr em perigo a sa de do homem, prejudicar os recursos biológicos e os ecossistemas, deteriorar os bens materiais e a comprometer ou prejudicar as actividades recreatias e outras utilizações legítimas do ambiente.\n\n2. Instalção: Qualquer estabelecimento ou outra instalação fixa que sirva para fins industriais ou de utilidade pública, susceptível de causar uma poluição atmosférica.\n\n3. Instalação existente: Uma instalação em funcionamento antes de 1 de Julho de 1987 ou que tenha sido construída ou autorizada antes dessa data.\n\n4. Valor-limite da qualidade do ar: A concentração de substâncias poluentes no ar durante um período determinado, que não deve ser ultrapassada.\n\n5. Valor-limite de emissão: A concentração e/ou a massa de substâncias poluentes nas emissões de instalações durante um período determinado, que não deve ser ultrapassada."
+  },
+  "9427d65e33e03919": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros tomarão as medidas necessárias para assegurar que a exploração das instalações pertencentes às categorias que figuram no Anexo I seja submetida a uma autorização prévia concedida pelas autoridades competentes. A necessidade de respeitar as condições prescritas por tais autorizações deve ser tida em conta desde a fase da concepção da instalação.\n\n2. A autorização é também necessária no caso de uma modificação substancial de todas as instalações que pertencem às categorias que figuram no Anexo I ou que, em virtude de uma modificação, passem a pertencer a essas categorias.\n\n3. Os Estados-membros podem exigir que outras categorias de instalações fiquem sujeitas a uma autorização ou, quando as disposições nacionais o prevejam, a uma declaração prévia."
+  },
+  "f9b59f2441199d6c": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nSem prejuízo das exigências previstas pelas disposições nacionais e comunitárias com a outro objectivo que não o referido na presente directiva, a autorização apenas pode ser concedida quando a autoridade competente se assegurar que:\n\n1. Foram tomadas todas as medidas adequadas de prevenção da poluição atmosférica incluindo a utilização da melhor tecnologia disponível, desde que a aplicação de tais medidas não implique custos excessivos.\n\n2. A exploração da instalação não provoca poluição atmosférica de nível significativo, em especial pela emissão de substâncias referidas no Anexo II.\n\n3. Nenhum valor-limite de emissão aplicável é ultrapassado.\n\n4. Todos os valores-limite de qualidade do ar são tidos em conta."
+  },
+  "960b6f8aedb57de7": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros podem:\n\n- determinar as zonas particularmente poluídas para as quais podem ser fixados valores-limite de emissão mais restritos do que os mencionados no artigo 4o,\n\n- determinar as zonas a proteger especialmente para as quais podem ser fixados valores-limite de qualidade do ar e de emissão mais restritos que os mencionados no artigo 4o,\n\n- decidir que no interior das zonas acima mencionadas apenas podem ser construídas ou exploradas instalações de categorias determinadas que figuram no Anexo I, se forem respeitadas condições especiais."
+  },
+  "77f6b00ae84c021c": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nO pedido de autorização compreende uma descrição da instalação com as indicações necessárias tendo em vista a decisão de concessão da autorização nos termos dos artigos 3o e 4o."
+  },
+  "9000dc685f1752b9": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nSem prejuízo das disposições aplicáveis em matéria de segredo comercial, os Estados-membros procederão à troca de informações entre eles e com a Comissão sobre as suas experiências e os seus conhecimentos relativos às medidas de prevenção e de redução da poluição atmosférica, assim como aos processos e equipamentos técnicos e aos valores-limite de qualidade do ar e de emissão."
+  },
+  "8b2978d93080187d": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O Conselho, deliberando por unanimidade sob proposta da Comissão, fixará, se necessário, os valores-limite de emissão baseados na melhor tecnologia disponível que não impliquem custos excessivos, e tendo em conta para este efeito a natureza das quantidades e da nocividade das emissões em causa.\n\n2. O Conselho, deliberando por unanimidade sob proposta da Comissão, determinará as técnicas e métodos de medição e de avaliação correspondentes."
+  },
+  "639192da686e3796": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Os Estados-membros tomarão as medidas necessárias para assegurar que os pedidos de autorização e as decisões das autoridades competentes sejam postas à disposição do público segundo as modalidades previstas pela legislação nacional.\n\n2. O no 1 aplica-se sem prejuízo das disposições específicas, nacionais ou comunitárias, relativas à avaliação dos efeitos sobre o ambiente das obras públicas e privadas, e sem prejuízo do cumprimento das disposições aplicáveis em matéria de segredo comercial."
+  },
+  "7ecc0245e14a4b05": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nOs Estados-membros porão à disposição dos outros Estados-membros interessados, como base para todas as consultas necessárias no âmbito das suas relações bilaterais, as mesmas informações que as difundidas aos seus próprios nacionais."
+  },
+  "1b102f23b1fec0f4": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros tomarão as disposições necessárias para que as emissões das instalações sejam determinadas tendo em vista o controlo da observância das obrigações referidas no artigo 4o. Os métodos de determinação devem ser aprovados pelas autoridades competentes."
+  },
+  "f96dea965ae51e2e": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs Estados-membros acompanharão a evolução da melhor tecnologia disponível e da situação do ambiente.\n\nÀ luz desse exame, impõem, se necessário, às instalações autorizadas em conformidade com a presente directiva, as condições adequadas, tendo em conta, por um lado, essa evolução e, por outro, a oportunidade de não originar custos excessivos para as instalações em questão, em relação nomeadamente à situação económica das empresas pertencentes à categoria considerada."
+  },
+  "d55512ae1b0df2ad": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nÀ luz do exame da evolução da melhor tecnologia disponível e da situação do ambiente, os Estados-membros aplicarão políticas e estratégias, incluindo as medidas adequadas, para adaptar progressivamente as instalações existentes, pertencentes às categorias que figuram no Anexo I, à melhor tecnologia disponível, tendo em conta, nomeadamente:\n\n- as características técnicas da instalação,\n\n- a taxa de utilização e o tempo de vida da instalação,\n\n- a natureza e o volume das emissões poluentes da instalação,\n\n- a oportunidade de não originar custos excessivos para as instalações em questão, em relação, nomeadamente, à situação económica das empresas pertencentes à categoria considerada."
+  },
+  "5293892f1a76d8a3": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nOs Estados-membros podem tomar, tendo em vista a protecção da saúde pública e do ambiente, disposições mais restritas do que as previstas na presente directiva."
+  },
+  "08e4ddc6a505ebfa": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nA presente directiva não se aplica às instalações industriais destinadas à defesa nacional."
+  },
+  "389f8dbd3ea3bf9c": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas para darem cumprimento à presente directiva o mais tardar em 30 de Junho de 1987. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicam à Comissão os textos das disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "c07678875de647c0": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo, em 28 de Junho de 1984.\n\nPelo Conselho\n\nO Presidente\n\nH. BOUCHARDEAU\n\n(1) JO no C 139 de 27. 5. 1983, p. 5.(2) JO no C 342 de 19. 12. 1983, p. 160.(3) JO no C 23 de 30. 1. 1984, p. 27.(4) JO no C 112 de 20. 12. 1973, p. 1.(5) JO no C 139 de 13. 6. 1977, p. 1.(6) JO no C 46 de 17. 2. 1983, p. 1.(7) JO no L 171 de 27. 6. 1981, p. 11."
+  },
+  "c4b15f9b59e3f8aa": {
+   "fragment_id": "ANEXO I — CATEGORIAS DE INSTALAÇÕES INDUSTRIAIS (1)",
+   "type": "divisao",
+   "heading": "ANEXO I — CATEGORIAS DE INSTALAÇÕES INDUSTRIAIS (1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CATEGORIAS DE INSTALAÇÕES INDUSTRIAIS (1)\n\nsubmetidas às disposições do artigo 3o\n\n1. Indústria de energia\n\n1.1. Instalações para fabrico de coque.\n\n1.2. Refinarias de petróleo bruto (com exclusão das empresas que fabricam unicamente lubrificantes a partir de petróleo bruto).\n\n1.3. Instalações de gaseificação e de liquefacção do carvão.\n\n1.4. Centrais térmicas (com exclusão das centrais nucleares) e outras instalações de combustão com uma potência calorífica nominal superior a 50 MW.\n\n2. Produção e transformação de metais\n\n2.1. Instalações de calcinação e fritagem com uma capacidade superior a 1 000 t de minerais metálicos por ano.\n\n2.2. Instalações integradas de produção de ferro fundido e de aço bruto.\n\n2.3. Fundições de metais ferrosos com instalações de fusão com uma capacidade total superior a 5 t.\n\n2.4. Instalações de produção e de fusão de metais não ferrosos com instalações com uma capacidade total superior a 1 t para os metais pesados ou 0,5 t para os metais ligeiros.\n\n3. Indústrias de produtos minerais não metálicos\n\n3.1. Instalações de fabrico de cimento e produção de cal por fornos rotativos.\n\n3.2. Instalações de produção e de transformação de amianto e fabrico de produtos à base de amianto.\n\n3.3. Instalações de fabrico de fibras de vidro ou de rocha.\n\n3.4. Instalações de fabrico de vidro (normal e éspecial) com uma capacidade anual superior a 5 000 t.\n\n3.5. Instalações de fabrico de cermica grossa, nomeadamente de tijolos refractários, tubos de grés, tijolos de ornamentação, ladrilhos e telhas de cobertura.\n\n4. Indústria química\n\n4.1. Instalações químicas para a produção de olefinas derivadas de olefinas, monómeros e polímeros.\n\n4.2. Instalações químicas para o fabrico de produtos intermédios organicos.\n\n4.3. Instalações para o fabrico de produtos químicos inorganicos de base.\n\n5. Eliminação de resíduos\n\n5.1. Instalações de eliminação de resíduos tóxicos e perigosos por incineração.\n\n5.2. Instalações de tratamento de outros resíduos sólidos e líquidos por incineração.\n\n6. Indústrias diversas\n\nInstalações de fabrico de pasta de papel por método químico com uma capacidade de produção de 25 000 t ou mais por ano.\n\n(1) Os limiares mencionados neste anexo referem-se às capacidades de produção."
+  },
+  "31e925e90273f07f": {
+   "fragment_id": "ANEXO II — LISTA DAS SUBSTÂNCIAS POLUENTES MAIS IMPORTANTES",
+   "type": "divisao",
+   "heading": "ANEXO II — LISTA DAS SUBSTÂNCIAS POLUENTES MAIS IMPORTANTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — LISTA DAS SUBSTÂNCIAS POLUENTES MAIS IMPORTANTES\n\n(na acepção do ponto 2) do artigo 4o\n\n1. Anidrido sulfuroso e outros compostos de enxofre.\n\n2. Óxidos de azoto e outros compostos de azoto.\n\n3. Monóxido de carbono.\n\n4. Substâncias organicas, e nomeadamente hidrocarbonetos (com exclusão do metano).\n\n5. Metais pesados e compostos de metais pesados.\n\n6. Poeiras, amianto (partículas em suspensão e fibras) fibras de vidro e de rocha.\n\n7. Cloro e compostos de cloro.\n\n8. Flúor e compostos de flúor."
+  },
+  "6dd6ebe8ba426dd8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984L0360 — PT — 30.10.2007 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31984L0360) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31984L0360) [de 28 de Junho de 1984](http://publications.europa.eu/resource/celex/31984L0360) [relativa à luta contra a poluição atmosférica provocada por instalações industriais](http://publications.europa.eu/resource/celex/31984L0360) [(84/360/CEE)](http://publications.europa.eu/resource/celex/31984L0360) (JO L 188, 16.7.1984, p.20)\n\n**revogado por:**\n\n- [Directiva 2008/1/CE do Parlamento Europeu e do Conselho de 15 de Janeiro de 2008](http://publications.europa.eu/resource/celex/32008L0001) — L 24 — 8 — 29.1.2008"
+  }
+ }
+}

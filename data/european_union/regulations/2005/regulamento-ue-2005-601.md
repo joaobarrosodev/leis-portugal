@@ -1,0 +1,157 @@
+---
+schema_version: '1.0'
+id: eu:celex:32005R0601:por
+title: Regulamento (CE) n.° 601/2005 da Comissão, de 18 de Abril de 2005
+short_title: null
+summary: Regulamento (CE) n.° 601/2005 da Comissão, de 18 de Abril de 2005, que altera o anexo I do Regulamento (CE) n.° 866/2004
+  do Conselho relativo a um regime de acordo com o artigo 2.° do Protocolo n.° 10 ao Acto de Adesão
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2005/601
+official_date: null
+publication_date: '2005-04-19'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 99 de 19.4.2005
+  number: '99'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/7832ab47-196b-44c9-b5d0-2f4d28ebb67e.0016.02/DOC_1
+entry_into_force_dates:
+- '2005-04-22'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32005R0601
+  eli: http://data.europa.eu/eli/reg/2005/601/oj
+  oj: oj:JOL_2005_099_R_0010_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32005R0601:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32005R0601
+  metadata_url: http://publications.europa.eu/resource/cellar/7832ab47-196b-44c9-b5d0-2f4d28ebb67e.0016
+  content_url: http://publications.europa.eu/resource/cellar/7832ab47-196b-44c9-b5d0-2f4d28ebb67e.0016.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:03:10Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2026-02-02T16:06:25.399+01:00'
+integrity:
+  source_sha256: d77a44ebf2d126e4df58d7887c4535f1856ead1e7801958ba9d9db38b5a5ca58
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T12:03:10Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Chipre
+- adesão à União Europeia
+- alfândega
+- regulamentação aduaneira
+relationships:
+- type: amends
+  target: celex:32004R0866
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d4dcb496-b0e2-42fb-89c4-d21fada95c91
+  date: '2004-04-29'
+- type: based_on
+  target: celex:32004R0866
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d4dcb496-b0e2-42fb-89c4-d21fada95c91
+  date: '2004-04-29'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:03:10Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO (CE) N.º 601/2005 DA COMISSÃO
+
+de 18 de Abril de 2005
+
+que altera o anexo I do Regulamento (CE) n.º 866/2004 do Conselho relativo a um regime de acordo com o artigo 2.º do Protocolo n.º 10 ao Acto de Adesão
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Protocolo n.º 10, relativo a Chipre, ao Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia [([^1])](http://publications.europa.eu/resource/cellar/7832ab47-196b-44c9-b5d0-2f4d28ebb67e.0016.03/DOC_1#ntr1-L_2005099PT.01001001-E0001),
+
+Tendo em conta o Regulamento (CE) n.º 866/2004 do Conselho, de 29 de Abril 2004, relativo a um regime de acordo com o artigo 2.º do Protocolo n.º 10 ao Acto de Adesão [([^2])](http://publications.europa.eu/resource/cellar/7832ab47-196b-44c9-b5d0-2f4d28ebb67e.0016.03/DOC_1#ntr2-L_2005099PT.01001001-E0002), nomeadamente o artigo 9.º,
+
+Considerando o seguinte:
+
+(1) O anexo I do Regulamento (CE) n.º 866/2004 estabelece uma lista dos pontos de passagem nos quais as pessoas e mercadorias podem atravessar a faixa de separação entre as zonas sob controlo efectivo do governo da República de Chipre e as zonas onde o governo da República de Chipre não exerce um controlo efectivo.
+
+(2) Na sequência de um acordo sobre a abertura de novos pontos de passagem em Zodia e na Rua Ledra, é necessário adaptar o anexo I.
+
+(3) O governo da República de Chipre deu o seu acordo a esta adaptação.
+
+(4) A Câmara do Comércio cipriota turca foi consultada sobre esta matéria,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+O anexo I do Regulamento (CE) n.º 866/2004 passa a ter a seguinte redacção:
+
+— Agios Dhometios
+
+— Ledra Palace
+
+— Rua Ledra
+
+— Zodia».
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 18 de Abril de 2005.
+
+***Pela Comissão***
+
+**Olli REHN**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/7832ab47-196b-44c9-b5d0-2f4d28ebb67e.0016.03/DOC_1#ntc1-L_2005099PT.01001001-E0001) [JO L 236 de 23.9.2003, p. 955](http://publications.europa.eu/resource/oj/JOL_2003_236_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/7832ab47-196b-44c9-b5d0-2f4d28ebb67e.0016.03/DOC_1#ntc2-L_2005099PT.01001001-E0002) [JO L 161 de 30.4.2004, p. 128](http://publications.europa.eu/resource/oj/JOL_2004_161_R_TOC).

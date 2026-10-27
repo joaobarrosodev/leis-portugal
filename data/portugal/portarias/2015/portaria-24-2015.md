@@ -1,0 +1,454 @@
+---
+schema_version: '1.0'
+id: pt:dre:66442956:por
+title: Portaria n.º 24/2015
+short_title: null
+summary: Estabelece o regime de aplicação da medida n.º 9, «Manutenção da atividade agrícola em zonas desfavorecidas», do
+  Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e do Mar
+proposing_entity: null
+official_number: 24/2015
+official_date: null
+publication_date: '2015-02-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 27/2015, Série I de 2015-02-09
+  number: '27'
+  series: I
+  supplement: null
+  pages: 777 - 781
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02700/0077700781.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-07-28'
+version_history:
+  file: portaria-24-2015.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-10-21'
+    amending: pt:dre:70748599:por
+    amending_title: Portaria n.º 374/2015
+    changes:
+    - Altera Anexo I
+  - date: '2016-12-29'
+    amending: pt:dre:105643559:por
+    amending_title: Portaria n.º 338-A/2016
+    changes:
+    - Altera Artigo 10.º
+  - date: '2018-02-13'
+    amending: pt:dre:114682828:por
+    amending_title: Portaria n.º 46/2018
+    changes:
+    - Altera Artigo 3.º
+  - date: '2018-05-22'
+    amending: pt:dre:115360040:por
+    amending_title: Portaria n.º 144/2018
+    changes:
+    - Altera Artigo 10.º
+  - date: '2019-01-05'
+    amending: pt:dre:117575761:por
+    amending_title: Portaria n.º 6/2019
+    changes:
+    - Altera Anexo I
+  - date: '2019-09-25'
+    amending: pt:dre:124952006:por
+    amending_title: Portaria n.º 332/2019
+    changes:
+    - Altera Anexo I
+  - date: '2023-07-28'
+    amending: pt:dre:216323590:por
+    amending_title: Portaria n.º 236-B/2023
+    changes:
+    - Altera Artigo 7.º
+    - Altera Anexo I
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/24/2015/p/cons/20230727/pt/html
+  oj: null
+  dre: '66442956'
+  dre_path: /dr/detalhe/portaria/24-2015-66442956
+  internal: pt:dre:66442956:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/24-2015-66442956
+  metadata_url: https://data.dre.pt/eli/port/24/2015/p/cons/20230727/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-115363024
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-115363024
+  retrieved_at: '2026-10-22T12:19:24Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 66769f4ff1fa36ed7d9196bafe83813054fa98901bb73e532d11ef48c30cdd4a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:19:24Z'
+  notes: 8 versão(ões); histórico completo em portaria-24-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Agrícola
+- Programa de Desenvolvimento Rural
+- Financiamento
+- Desenvolvimento Rural
+- Pagamento
+- IFAP
+- Exploração Agrícola
+- Página na Internet
+- Diversidade Biológica
+- Agricultor
+- Produção Agrícola
+- Regime de Apoio
+- Regulamento CE
+- Região Desfavorecida
+- Agricultura
+- PDR 2020
+- Medida N.º 9 Manutenção da Atividade Agrícola em Zonas Desfavorecidas
+relationships:
+- type: amended_by
+  target: pt:dre:70748599:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599
+  date: '2015-10-20'
+- type: amended_by
+  target: pt:dre:105643559:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:114682828:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828
+  date: '2018-02-12'
+- type: amended_by
+  target: pt:dre:115360040:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040
+  date: '2018-05-21'
+- type: amended_by
+  target: pt:dre:117575761:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/6-2019-117575761
+  date: '2019-01-04'
+- type: amended_by
+  target: pt:dre:124952006:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/332-2019-124952006
+  date: '2019-09-24'
+- type: amended_by
+  target: pt:dre:216323590:por
+  label: Altera Artigo 7.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/236-b-2023-216323590
+  date: '2023-07-27'
+- type: cites
+  target: celex:32013R1305
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1305/oj
+- type: cites
+  target: celex:32013R1306
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1306/oj
+- type: cites
+  target: celex:32013R1307
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1307/oj
+- type: cites
+  target: celex:32014R0640
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/640/oj
+- type: cites
+  target: celex:32014R0809
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/809/oj
+- type: cites
+  target: celex:32017R2393
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226243:por
+  label: null
+  source: http://data.dre.pt/eli/port/229-a/2008/03/06/p/dre
+- type: cites
+  target: pt:dre:278913:por
+  label: null
+  source: http://data.dre.pt/eli/port/86/2011/02/25/p/dre
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+article_structure:
+  article_count: 17
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:19:24Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 24/2015
+
+Portaria n.º 24/2015
+
+de 9 de fevereiro
+
+O Decreto-Lei n.º 137/2014, de 12 de setembro, que estabeleceu o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.
+
+O PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.
+
+Na arquitetura do PDR 2020, a medida n.º 9, «Manutenção da atividade agrícola em zonas desfavorecidas», encontra-se inserida na área relativa ao «Ambiente, eficiência no uso dos recursos e clima» e visa contribuir para a manutenção da paisagem rural e a conservação e promoção da atividade agrícola nas zonas sujeitas a condicionantes naturais e outras condicionantes específicas, diminuindo o risco de abandono que resulta das condições naturais desfavoráveis inerentes a essas zonas e potenciando condições para uma maior coesão territorial.
+
+Na transição para o novo quadro de apoio, a presente portaria prevê a adaptação dos compromissos anteriormente assumidos às novas regras do PDR 2020 e a obrigatoriedade de manutenção dos compromissos até ao termo da duração dos mesmos, com exceção das situações em que essa manutenção não se afigura possível por motivos não imputáveis aos beneficiários.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece o regime de aplicação da medida n.º 9, «Manutenção da atividade agrícola em zonas desfavorecidas», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020.
+
+###### Artigo 2.º — Objetivos
+
+A medida prevista na presente portaria prossegue os seguintes objetivos:
+
+a) Compensar parcialmente os agricultores pelos custos adicionais e perda de rendimentos resultantes das condicionantes naturais inerentes ao exercício da atividade agrícola nas zonas desfavorecidas;
+
+b) Contribuir para a manutenção da paisagem rural e a promoção de sistemas agrícolas sustentáveis;
+
+c) Promover o desenvolvimento económico das zonas rurais e a coesão territorial, combatendo a desertificação das zonas desfavorecidas.
+
+###### Artigo 3.º — Definições
+
+Para efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:
+
+a) 'Agricultor ativo', a pessoa singular ou coletiva, de natureza pública ou privada, que exerça atividade agrícola, não sendo aplicáveis as disposições previstas nos n.os 2, 3 e 3-A do artigo 9.º do Regulamento (UE) n.º 1307/2013, na redação dada pelo Regulamento (UE) 2017/2393, do Parlamento e do Conselho, de 13 de dezembro de 2017;
+
+b) «Animais em pastoreio», os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;
+
+c) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;
+
+d) «Exploração agrícola», o conjunto de parcelas ou animais utilizados para o exercício de atividades agrícolas, submetidos a uma gestão única;
+
+e) «Superfície agrícola», qualquer subparcela de terras aráveis, prados e pastagens permanentes ou culturas permanentes;
+
+f) «Prados e pastagens permanentes», as subparcelas ocupadas por prados e pastagens permanentes sem predominância de vegetação arbustiva ou prados e pastagens permanentes utilizados de acordo com práticas locais;
+
+g) «Superfície forrageira», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes sem predominância de vegetação arbustiva e prados e pastagens utilizados de acordo com práticas locais;
+
+h) «Terras aráveis», as subparcelas cultivadas para produção vegetal ou disponíveis para produção vegetal, ainda que se encontrem em pousio.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13
+
+###### Artigo 4.º — Área geográfica de aplicação
+
+A medida prevista na presente portaria é aplicável nas zonas desfavorecidas, que abrangem as zonas de montanha e as restantes zonas desfavorecidas, compreendendo as zonas que não as de montanha, sujeitas a condicionantes naturais significativas e as zonas afetadas por condicionantes específicas, definidas na portaria que procede à sua delimitação.
+
+###### Artigo 5.º — Condicionalidade
+
+Os beneficiários devem cumprir na exploração agrícola os requisitos legais de gestão e as boas condições agrícolas e ambientais, em conformidade com os artigos 93.º e 94.º e o anexo II do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e com a correspondente legislação nacional.
+
+###### Artigo 6.º — Beneficiários
+
+Podem beneficiar do apoio previsto na presente portaria os agricultores ativos nos termos da alínea a) do artigo 3.º
+
+###### Artigo 7.º — Critérios de elegibilidade
+
+1 - Podem beneficiar do apoio previsto na presente portaria os agricultores ativos cujas explorações tenham dimensão igual ou superior a um hectare de superfície agrícola localizada em cada uma das zonas desfavorecidas a que se candidate.
+
+2 - A superfície agrícola referida no número anterior tem a área máxima elegível determinada no iSIP, com as regras de elegibilidade previstas no artigo 4.º da Portaria n.º 54-Q/2023, de 27 de fevereiro.
+
+3 - São ainda elegíveis, para além da superfície agrícola referida no número anterior, os hectares correspondentes aos elementos lineares ou de paisagem na aceção do artigo 3.º da portaria referida no número anterior.
+
+4 - A superfície agrícola sujeita a práticas locais de pastoreio em baldio, é elegível para os compartes, enquanto beneficiários, desde que estes cumpram, cumulativamente, as seguintes condições:
+
+a) Detenham marca de exploração própria localizada nos concelhos ou concelhos limítrofes do baldio;
+
+b) Estejam associados à marca de exploração do baldio.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 236-B/2023 - Diário da República n.º 145/2023, 1º Suplemento, Série I de 2023-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/236-b-2023-216323590), em vigor a partir de 2023-07-28, produz efeitos a partir de 2023-01-01
+
+###### Artigo 8.º — Compromissos dos beneficiários
+
+1 - Para além do disposto no artigo 5.º, os beneficiários do apoio previsto na presente portaria, durante o período de compromisso, estão obrigados a manter o exercício da atividade agrícola na exploração.
+
+2 - O compromisso previsto no número anterior tem a duração de um ano e produz efeitos entre 1 de janeiro e 31 de dezembro do ano da candidatura.
+
+###### Artigo 9.º — Forma do apoio
+
+O apoio previsto na presente portaria assume a forma de subvenção não reembolsável.
+
+###### Artigo 10.º — Montantes e limites do apoio
+
+1 - Os montantes de apoio a conceder constam do anexo I à presente portaria da qual faz parte integrante.
+
+2 - O cálculo do montante total de cada apoio faz-se pela aplicação sucessiva dos respetivos escalões de superfície agrícola elegível da exploração, constantes do anexo I à presente portaria da qual faz parte integrante.
+
+3 - As áreas de pousio são contabilizadas até ao limite máximo de três vezes as áreas semeadas com culturas temporárias.
+
+4 - As superfícies forrageiras são contabilizadas desde que a exploração agrícola mantenha, durante o período de retenção, um nível de encabeçamento de animais em pastoreio, do próprio, expressos em cabeças normais (CN) por hectare (ha) de superfície forrageira, igual ou superior a 0,2.
+
+5 - Se o beneficiário não puder cumprir o nível de encabeçamento previsto no número anterior devido aos casos de força maior referidos nas alíneas g), h) e i) do n.º 2 do artigo 14.º, mantém o direito à totalidade do pagamento das superfícies forrageiras.
+
+6 - Caso o montante total das candidaturas apresentadas exceda a dotação orçamental disponível, os montantes do apoio a conceder por beneficiário são objeto de rateio, reduzindo-se proporcionalmente em função do excesso verificado.
+
+7 - Para efeitos de aplicação do disposto no n.º 4, a tabela de conversão das espécies animais em CN consta do anexo II da presente portaria da qual faz parte integrante.
+
+8 - Para efeitos de aplicação do disposto no n.º 4, são considerados os seguintes períodos de retenção:
+
+a) 1 de janeiro e 30 de abril de cada ano, para os bovinos, ovinos e caprinos:
+
+b) (Revogada.)
+
+c) 1 de janeiro e 31 de dezembro, para o restante efetivo.
+
+9 - Quando se verifiquem situações de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o nível de encabeçamento referido no n.º 4, passa para um mínimo de 0,1 CN/ha de superfície forrageira.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 144/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/144-2018-115360040), em vigor a partir de 2018-05-22, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 338-A/2016 - Diário da República n.º 248/2016, 2º Suplemento, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/338-a-2016-105643559), em vigor a partir de 2016-12-29
+
+### Capítulo II — Procedimento
+
+###### Artigo 11.º — Apresentação das candidaturas
+
+1 - As candidaturas ao apoio previsto na presente portaria são submetidas eletronicamente através do formulário relativo ao pedido único (PU), disponível no portal do Instituto de Financiamento da Agricultura e Pescas I. P. (IFAP, I. P.), em www.ifap.pt, ou no portal do Portugal 2020, em www.portugal2020.pt.
+
+2 - O Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a efetuar pelo IFAP, I. P., aprovado pela Portaria n.º 86/2011, de 25 de fevereiro, em conformidade com o Sistema Integrado de Gestão e Controlo (SIGC) previsto nos artigos 67.º e seguintes do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, é aplicável às candidaturas apresentadas no âmbito da presente portaria.
+
+###### Artigo 12.º — Análise e decisão das candidaturas
+
+1 - As candidaturas são analisadas pelo IFAP, I. P., de acordo com os critérios de elegibilidade previstos na presente portaria.
+
+2 - As candidaturas são aprovadas pela autoridade de gestão de acordo com a dotação orçamental deste regime de apoio.
+
+3 - A decisão é comunicada pelo IFAP, I. P., aos beneficiários na área reservada do respetivo portal, em www.ifap.pt.
+
+4 - O termo de aceitação é autenticado com a submissão da candidatura.
+
+###### Artigo 13.º — Pagamento
+
+1 - Os pedidos de pagamento são submetidos em simultâneo com a candidatura ao PU, competindo ao IFAP, I. P., proceder ao pagamento do apoio.
+
+2 - O pagamento é efetuado após conclusão dos controlos administrativos e in loco, podendo ser paga uma parte do apoio após a conclusão dos controlos administrativos nos termos do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, bem como do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, e do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014.
+
+### Capítulo III — Extinção e reduções ou exclusões
+
+###### Artigo 14.º — Extinção dos compromissos
+
+1 - Os compromissos assumidos extinguem-se, sem devolução dos apoios, nos casos de sujeição da exploração agrícola a emparcelamento integral ou intervenção pública de ordenamento fundiário similar, nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março.
+
+2 - Sem prejuízo dos casos referidos no número anterior, os compromissos assumidos extinguem-se ainda, sem devolução dos apoios, nomeadamente nas seguintes situações de força maior:
+
+a) Morte do beneficiário;
+
+b) Incapacidade profissional do beneficiário superior a três meses;
+
+c) Morte ou incapacidade profissional superior a três meses do cônjuge ou de outro membro do agregado familiar que coabite com o beneficiário, cujo trabalho na exploração represente parte significativa do trabalho total empregue na mesma, no caso de explorações familiares;
+
+d) Expropriação de toda ou uma parte significativa da exploração, se essa expropriação não era previsível na data em que o compromisso foi assumido;
+
+e) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da exploração agrícola;
+
+f) Problemas fitossanitários que afetem parte ou a totalidade das culturas do beneficiário, respetivamente;
+
+g) Destruição das instalações pecuárias não imputáveis ao beneficiário;
+
+h) Epizootia que afete a totalidade ou parte dos efetivos ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem de incúria do beneficiário;
+
+i) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível manter os animais nem proceder à sua substituição.
+
+3 - Os casos de força maior e os respetivos comprovativos devem ser comunicados ao IFAP, I. P., pelo beneficiário ou pelo seu representante, por escrito e no prazo de 15 dias úteis a contar da data da ocorrência, podendo aquele prazo ser ultrapassado, desde que devidamente justificado e aceite pelo IFAP, I. P.
+
+4 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido aos casos referidos no n.os 1 e 2, mantém o direito à totalidade do pagamento, desde que tenha sido apresentado o respetivo pedido.
+
+###### Artigo 15.º — Reduções ou exclusões
+
+1 - Sem prejuízo do disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, e no Regulamento de Execução (UE) n.º 809/214, da Comissão, de 17 de julho de 2014, são aplicáveis as reduções previstas nos números seguintes.
+
+2 - É determinada a devolução total do apoio nos seguintes casos:
+
+a) Incumprimento dos critérios de elegibilidade;
+
+b) Não manutenção do exercício da atividade agrícola na exploração durante o período de compromisso.
+
+3 - O incumprimento dos requisitos relativos à condicionalidade previstos no artigo 5.º, determina a redução do montante do apoio nos termos da legislação comunitária e nacional aplicável.
+
+### Capítulo IV — Disposições finais e transitórias
+
+###### Artigo 16.º — Transição
+
+1 - O disposto na presente portaria é aplicável aos compromissos assumidos em 2011, 2012 e 2013, ao abrigo do regulamento anexo à Portaria n.º 229-A/2008, de 6 de março, desde que seja apresentado o respetivo pedido de pagamento no PU até ao termo da duração dos mesmos.
+
+2 - No caso dos compromissos referidos no número anterior, a falta de apresentação do pedido de pagamento determina o não pagamento do apoio no ano em causa, sem prejuízo da obrigatoriedade de manutenção dos critérios de elegibilidade e dos compromissos até ao termo da duração dos mesmos.
+
+3 - Às candidaturas transitadas nos termos do n.º 1 aplica-se, em caso de incumprimento dos critérios de elegibilidade e compromissos, o disposto nos Regulamentos (UE) n.os 1305/2013 e 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, na demais legislação europeia conexa, bem como o disposto na presente portaria, não sendo exigida a devolução dos apoios quando o incumprimento não seja imputável ao beneficiário e resulte de:
+
+a) Alteração da classificação de zonas desfavorecidas efetuada pela respetiva portaria;
+
+b) Impossibilidade de cumprimento da área mínima em cada uma das zonas a que se candidate;
+
+c) Alteração da definição de superfície agrícola.
+
+4 - Para além das situações previstas no número anterior, podem ser definidas em orientação técnica específica outras situações de incumprimento em que não haja lugar à devolução dos apoios, a divulgar no portal da autoridade de gestão, em www.pdr-2020.pt, no portal do IFAP, em www.ifap.pt, e no portal do Portugal 2020, em www.portugal2020.pt.
+
+###### Artigo 17.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 2 de fevereiro de 2015.
+
+## Anexo I — Montantes do apoio
+
+(a que se refere o n.º 1 do artigo 10.º)
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 236-B/2023 - Diário da República n.º 145/2023, 1º Suplemento, Série I de 2023-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/236-b-2023-216323590), em vigor a partir de 2023-07-28, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 332/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/332-2019-124952006), em vigor a partir de 2019-09-25, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 6/2019 - Diário da República n.º 3/2019, Série I de 2019-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/6-2019-117575761), em vigor a partir de 2019-01-05, produz efeitos a partir de 2019-01-04
+
+> Alterado pelo/a Anexo IV do/a [Portaria n.º 374/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/374-2015-70748599), em vigor a partir de 2015-10-21
+
+## Anexo II — Tabela de conversão em cabeças normais
+
+(a que se refere o n.º 7 do artigo 10.º)
+
+(ver documento original)

@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:308294:por
+title: Despacho Normativo n.º 41/83
+short_title: null
+summary: Altera o montante do subsídio concedido pelo Despacho Normativo n.º 241/82, de 9 de Novembro, ao arroz produzido
+  na zona norte
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas - Secretarias de Estado do Orçamento, da Produção
+  Agrícola e do Comércio
+proposing_entity: null
+official_number: 41/83
+official_date: null
+publication_date: '1983-02-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 27/1983, Série I de 1983-02-02
+  number: '27'
+  series: I
+  supplement: null
+  pages: 324 - 324
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/02/02700/03240324.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '308294'
+  dre_path: /dr/detalhe/despacho-normativo/41-1983-308294
+  internal: pt:dre:308294:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-1983-308294
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-1983-308294
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:25:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 49c7568adec9b3ba0e77ddaba69eec8c8f9f5fc210184409cd0863d907342bfd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:25:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agricultura
+- Arroz
+- EPAC
+- Fundo de Abastecimento
+- Produção Agrícola
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:378076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416413:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:25:37Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 41/83
+
+Razões extraordinárias têm mostrado conveniente alterar o montante do subsídio concedido pelo [Despacho Normativo n.º 241/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/241-1982-378076) ao arroz produzido na zona norte.
+
+Nestes termos, ao abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 885/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/885-1976-416413), de 29 de Dezembro, determina-se o seguinte:
+
+1 - A bonificação constante do n.º 2 do [Despacho Normativo n.º 241/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/241-1982-378076), de 9 de Novembro, é acrescida de 6600$00 por hectare de arroz, a suportar pelo Fundo de Abastecimento, até ao montante de 60000 contos, cabendo à EPAC - Empresa Pública de Abastecimento de Cereais a respectiva liquidação.
+
+2 - O acréscimo de subsídio referido no n.º 1 é concedido nos concelhos e nas condições estabelecidas no [Despacho Normativo n.º 241/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/241-1982-378076), de 9 de Novembro.
+
+Secretarias de Estado do Orçamento, da Produção Agrícola e do Comércio, 21 de Janeiro de 1983. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Produção Agrícola, José Vicente Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.

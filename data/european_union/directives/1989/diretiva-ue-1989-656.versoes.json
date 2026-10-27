@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0656:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0656-20191120",
+ "dre_path": null,
+ "source_lastmod": "2019-11-20",
+ "versions": [
+  {
+   "date": "1989-12-30",
+   "future": false,
+   "celex": "31989L0656",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fa7d65168cbe5b14",
+    "3331e357c38269c7",
+    "63cc793d83813be6",
+    "f9f3aa2cb80346e4",
+    "65811e9a124f21a9",
+    "a3fe8f98a62561b9",
+    "d0e3d69fc0210f6e",
+    "03aadbe4489a527f",
+    "5e24d0423ae55ede",
+    "a02061429dc926f8",
+    "51630e8ba9fef26a",
+    "b8b3e8e4b0ae3b4a",
+    "293982f114a1d602",
+    "5844a68b17efd4a9",
+    "8acedd6b361ec96c",
+    "e7c9057670851243"
+   ]
+  }
+ ],
+ "fragments": {
+  "fa7d65168cbe5b14": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/656/CEE do Conselho, de 30 de Novembro de 1989, relativa às prescrições mínimas de segurança e de saúde para a utilização pelos trabalhadores de equipamentos de protecção individual no trabalho (terceira Directiva especial, na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE)** *Jornal Oficial nº L 393 de 30/12/1989 p. 0018 - 0028 Edição especial finlandesa: Capítulo 5 Fascículo 4 p. 0187 Edição especial sueca: Capítulo 5 Fascículo 4 p. 0187*\n\nDIRECTIVA DO CONSELHO de 30 de Novembro de 1989 relativa às prescrições mínimas de segurança e de saúde para a utilização pelos trabalhadores de equipamentos de protecção individual no trabalho (terceira directiva especial, na acepção do nº 1 do artigo 16º da Direcitva 89/391/CEE) (89/656/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118ºA,\n\nTendo em conta a proposta da Comissão (1), apresentada após consulta ao Comité consultivo para a segurança, a higiene e a protecção da saúde no local de trabalho,\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o artigo 118ºA do Tratado prevê que o Conselho adopte, por directiva, prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de garantir um melhor nível de protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas que sejam contrárias à criação e desenvolvimento de pequenas e médias empresas;\n\nConsiderando que a comunicação da Comissão sobre o seu programa no domínio da segurança, da higiene e da saúde no local de trabalho (4) prevê a adopção de uma directiva relativa à utilização de equipamentos de protecção individual no trabalho;\n\nConsiderando que, na resolução de 21 de Dezembro de 1987 relativa à segurança, higiene e saúde no local de trabalho (5), o Conselho tomou nota da intenção da Comissão de apresentar a curto prazo prescrições mínimas relativas à organização da segurança e da saúde dos trabalhadores no local de trabalho;\n\nConsiderando que a observância das prescrições mínimas destinadas a garantir um melhor nível de segurança e da saúde para a utilização dos equipamentos de protecção individual constitui um imperativo para garantir a segurança e a saúde dos trabalhadores;\n\nJO nº C 115 de 8. 5. 1989, p. 27 e\n\nJO nº C 287 de 15. 11. 1989, p. 11.\n\nJO nº C 256 de 9. 10. 1989, p. 61.\n\nConsiderando que a presente directiva é uma directiva especial, na acepção do nº 1 do artigo 16º da Directiva 89/361/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho (6); que, por esse facto, as disposições da referida directiva se aplicam plenamente ao domínio da utilização, pelos trabalhadores, de equipamentos de protecção individual no trabalho, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno;\n\nConsiderando que as medidas de protecção colectiva devem ter prioridade sobre os equipamentos de protecção individual; que a entidade patronal é obrigada a instalar dispositivos e medidas de segurança;\n\nConsiderando que as prescrições da presente directiva não podem implicar modificações nos equipamentos de protecção individual que sejam conformes com as directivas comunitárias respeitantes à sua concepção e construção em matéria de segurança e saúde, relativamente ao disposto nessas mesmas directivas;\n\nConsiderando que é conveniente prever indicações que possam ser utilizadas pelos Estados-membros para a fixação das regras gerais relativas à utilização dos equipamentos de protecção individual;\n\nConsiderando que, por força da Decisão 74/325/CEE (7), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985, o Comité consultivo para a segurança, a higiene e a protecção da saúde no local de trabalho deve ser consultado pela Comissão com vista à elaboração de propostas neste domínio,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3331e357c38269c7": {
+   "fragment_id": "SECÇÃO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "SECÇÃO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — DISPOSIÇÕES GERAIS"
+  },
+  "63cc793d83813be6": {
+   "fragment_id": "Artigo 1º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Objecto\n\n1. A presente directiva, que é a terceira directiva especial, na acepção do nº 1 do artigo 16º da Directiva 89/391/\n\n/CEE, estabelece as prescrições mínimas de segurança e de saúde para a utilização, pelos trabalhadores, de equipamentos de protecção individual no trabalho.\n\n2. O disposto na Directiva 89/391/CEE aplica-se plenamente à globalidade do domínio referido no nº 1, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva."
+  },
+  "f9f3aa2cb80346e4": {
+   "fragment_id": "Artigo 2º — Definição",
+   "type": "artigo",
+   "heading": "Artigo 2º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Definição\n\n1. Na acepção da presente directiva, entende-se por equipamento de protecção individual qualquer equipamento destinado a ser usado ou detido pelo trabalhador para sua protecção contra um ou mais riscos susceptíveis de ameaçar a sua segurança ou saúde no trabalho, bem como qualquer complemento ou acessório destinado a esse objectivo.\n\n2. Ficam excluídos da definição referida no nº 1:\n\na) Vestuário vulgar de trabalho e uniformes que não sejam especificamente destinados à protecção da segurança e da saúde do trabalhador;\n\nb)\n\nEquipamentos dos serviços de socorros e salvamento;\n\nc)\n\nEquipamentos de protecção individual dos militares, dos polícias e das pessoas dos serviços de manutenção da ordem;\n\nd)\n\nEquipamentos de protecção individual nos meios de transporte rodoviários;\n\ne)\n\nMaterial de desporto;\n\nf)\n\nMaterial de autodefesa ou dissuasão;\n\ng)\n\nAparelhos portáteis para detecção e sinalização de riscos e factores nocivos."
+  },
+  "65811e9a124f21a9": {
+   "fragment_id": "Artigo 3º — Regra geral",
+   "type": "artigo",
+   "heading": "Artigo 3º — Regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Regra geral\n\nOs equipamentos de protecção individual devem ser utilizados quando os riscos existentes não puderem ser evitados ou suficientemente limitados por meios técnicos de protecção colectiva ou por medidas, métodos ou processos de organização do trabalho."
+  },
+  "a3fe8f98a62561b9": {
+   "fragment_id": "SECÇÃO II — OBRIGAÇÕES DA ENTIDADE PATRONAL",
+   "type": "divisao",
+   "heading": "SECÇÃO II — OBRIGAÇÕES DA ENTIDADE PATRONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — OBRIGAÇÕES DA ENTIDADE PATRONAL"
+  },
+  "d0e3d69fc0210f6e": {
+   "fragment_id": "Artigo 4º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 4º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Disposições gerais\n\n1. Todo o equipamento de protecção individual deve estar conforme com as disposições comunitárias relativas à sua concepção e construção em matéria de segurança e de saúde.\n\nEm qualquer caso, todo o equipamento de protecção individual deve:\n\na) Ser adequado relativamente aos riscos a prevenir, sem que ele próprio implique um aumento do risco;\n\nb)\n\nCorresponder às condições existentes no local de trabalho;\n\nc)\n\nTer em conta as exigências ergonómicas e de saúde do trabalhador;\n\nd)\n\nSer adequado ao portador, depois de feitos os ajustamentos necessários.\n\n2. Em caso de riscos múltiplos que exijam a utilização simultânea de vários equipamentos de protecção individual, esses equipamentos devem ser compatíveis e manter a sua eficácia relativamente ao(s) riscos(s) correspondente(s).\n\n3. As condições em que um equipamento de protecção individual deve ser utilizado, nomeadamente no que se refere à duração da utilização, serão determinadas em função da gravidade do risco, da frequência da exposição ao risco e das características do posto de trabalho de cada trabalhador, assim como do comportamento do equipamento de protecção individual.\n\n4. Todo o equipamento de protecção individual se destinará, em princípio, a uso pessoal.\n\nSe as circunstâncias exigirem a utilização de um equipamento de protecção individual por várias pessoas, devem ser tomadas medidas apropriadas para que tal utilização não acarrete qualquer problema de saúde ou higiene para os diferentes utilizadores.\n\n5. Devem ser fornecidas e estar disponíveis na empresa e/ou estabelecimento as informações adequadas sobre cada equipamento de protecção individual que sejam necessárias para a aplicação dos nos 1 e 2.\n\n6. Os equipamentos de protecção individual devem ser fornecidos gratuitamente pela entidade patronal que garantirá o seu bom funcionamento e estado de higiene satisfatório através da manutenção, reparações e substituições necessárias.\n\nTodavia, os Estados-membros podem prever, em conformidade com as práticas nacionais, que seja pedida aos trabalhadores uma comparticipação nas despesas de determinados equipamentos de protecção individual nos casos em que a utilização dos mesmos não se restrinja ao trabalho.\n\n7. A entidade patronal deve informar previamente o trabalhador dos riscos contra os quais o equipamento de protecção individual o protege.\n\n8. A entidade patronal deve assegurar uma formação sobre o porte dos equipamentos de protecção individual\n\ne, caso necessário, organizar sessões de treino para esse efeito.\n\n9. Os equipamentos de protecção individual só podem ter a utilização prevista, salvo em casos particulares e excepcionais.\n\nDevem ser utilizados de acordo com os folhetos de instruções.\n\nOs folhetos de instruções devem ser compreensíveis para os trabalhadores."
+  },
+  "03aadbe4489a527f": {
+   "fragment_id": "Artigo 5º — Apreciação do equipamento de protecção individual",
+   "type": "artigo",
+   "heading": "Artigo 5º — Apreciação do equipamento de protecção individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Apreciação do equipamento de protecção individual\n\n1. Antes de escolher o equipamento de protecção individual, a entidade patronal deve proceder a uma apreciação do equipamento de protecção individual que pretende utilizar, para avaliar em que medida ele obedece às condições previstas nos nos 1 e 2 do artigo 4º\n\nEssa apreciação compreenderá:\n\na) A análise e avaliação dos riscos que não podem ser evitados por outros meios;\n\nb)\n\nA definição das características necessárias para que os equipamentos de protecção individual obviem aos riscos referidos na alínea a), tendo em conta eventuais fontes de risco que os equipamentos de protecção individual possam constituir;\n\nc)\n\nA apreciação das características dos equipamentos de protecção individual em causa que estejam disponíveis, em comparação com as características referidas na alínea b).\n\n2. A apreciação prevista no nº 1 deve ser revista em função das alterações que venham a verificar-se nos elementos que a compõem."
+  },
+  "5e24d0423ae55ede": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n(*) Regras de utilização\n\n1. Sem prejuízo do disposto nos artigos 3º, 4º e 5º,\n\nos Estados-membros velarão por que sejam fixadas regras gerais relativas à utilização dos equipamentos de protecção individual e/ou regras relativas aos casos e situações em que a entidade patronal deve fornecer os equipamentos de protecção individual, tendo em conta as regulamentações comunitárias relativas à sua livre circulação.\n\nEssas regras indicarão nomeadamente as circunstâncias ou as situações de risco nas quais, sem prejuízo da prioridade a dar aos meios de protecção colectiva, seja necessária a utilização de equipamentos de protecção individual.\n\nOs anexos I, II e III, que têm um carácter indicativo, contêm indicações úteis para a fixação dessas regras.\n\n2. Os Estados-membros, ao adaptarem as regras referidas no nº 1, terão em conta as alterações significativas que a\n\n(*) Ver a comunicação da Comissão (JO nº C 328 de 30. 12. 1989, p. 3).\n\nevolução técnica introduz nos riscos, nos meios de protecção colectiva e nos equipamentos de protecção individual.\n\n3. Os Estados-membros consultarão previamente as organizações dos parceiros sociais sobre as regras referidas nos nºs 1 e 2."
+  },
+  "a02061429dc926f8": {
+   "fragment_id": "Artigo 7º — Informação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 7º — Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Informação dos trabalhadores\n\nSem prejuízo do artigo 10º da Directiva 89/391/CEE, os trabalhadores e/ou os seus representantes serão informados de todas as medidas a tomar referentes à segurança e saúde sobre a utilização de equipamentos de protecção individual no trabalho."
+  },
+  "51630e8ba9fef26a": {
+   "fragment_id": "Artigo 8º — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 8º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Consulta e participação dos trabalhadores\n\nOs trabalhadores e/ou os seus representantes serão consultados e participarão, de acordo com o artigo 11º da Directiva 89/391/CEE, no que respeita às matérias abrangidas pela presente directiva e pelos respectivos anexos."
+  },
+  "b8b3e8e4b0ae3b4a": {
+   "fragment_id": "SECÇÃO III — DISPOSIÇÕES VÁRIAS",
+   "type": "divisao",
+   "heading": "SECÇÃO III — DISPOSIÇÕES VÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — DISPOSIÇÕES VÁRIAS"
+  },
+  "293982f114a1d602": {
+   "fragment_id": "Artigo 9º — Adaptação dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 9º — Adaptação dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Adaptação dos anexos\n\nAs adaptações de natureza estritamente técnica dos anexos I, II e III em função:\n\n- da adopção de directivas em matéria de harmonização técnica e de normalização relativas aos equipamentos de protecção individual, e/ou\n\n- do progresso técnico, da evolução de regulamentações ou especificações internacionais ou dos conhecimentos no domínio dos equipamentos de protecção individual\n\nserão adoptadas de acordo com o procedimento previsto no artigo 17º da Directiva 89/391/CEE."
+  },
+  "5844a68b17efd4a9": {
+   "fragment_id": "Artigo 10º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 10º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1992. Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que venham a adoptar no domínio regulado pela presente directiva.\n\n3. De cinco em cinco anos, os Estados-membros apresentarão um relatório à Comissão sobre a aplicação prática das disposições da presente directiva, indicando os pontos de vista dos parceiros sociais.\n\nA Comissão dará conhecimento desse relatório ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité consultivo para a segurança, a higiene e a protecção da saúde no local de trabalho.\n\n4. A Comissão apresentará periodicamente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um\n\nrelatório sobre a aplicação da presente directiva, tendo em conta os nºs 1, 2 e 3."
+  },
+  "8acedd6b361ec96c": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 30 de Novembro de 1989.\n\nPelo Conselho\n\nO Presidente\n\nJ.-P. SOISSON\n\n(1) JO nº C 161 de 20. 6. 1988, p. 1,\n\n(2) JO nº C 12 de 16. 1. 1989, p. 92.\n\n(3) JO nº C 318 de 12. 12. 1988, p. 30.\n\n(4) JO nº C 28 de 3. 2. 1988, p. 3.\n\n(5) JO nº C 28 de 3. 2. 1988, p. 1.\n\n(6) JO nº L 183 de 29. 6. 1989, p. 1.\n\n(7) JO nº L 185 de 9. 7. 1974, p. 15.\n\nANEXO I ESQUEMA INDICATIVO PARA O INVENTÁRIO DOS RISCOS COM VISTA À UTILIZAÇÃO DE PROTECÇÃO INDIVIDUAL\n\nRISCOS\n\nFÍSICOS\n\nQUÍMICOS\n\nBIOLÓGICOS\n\nMECÂNICOS\n\nTÉRMICOS\n\nRADIAÇÕES\n\nAEROSSÓIS\n\nLÍQUIDOS\n\nQuedas\n\nde\n\ngrande\n\naltura\n\nCho-\n\nques-\n\ngolpes\n\nimpac-\n\ntos-\n\ncom-\n\npres-\n\nsões\n\nPerfura-\n\nções-\n\ncortes\n\nabrasões\n\nVibra-\n\nções\n\nEscor-\n\nrega-\n\ndelas-\n\nquedas\n\nao\n\nmesmo\n\nnível\n\nCalor-\n\nchamas\n\nFrio\n\nELÉC-\n\nTRI-\n\nCOS\n\nNão-\n\n-ioni-\n\nzantes\n\nIoni-\n\nzantes\n\nRUÍDO\n\nPoei-\n\nras-\n\nfibras\n\nFumos\n\nNévoas\n\nImer-\n\nsões\n\nSal-\n\npicos-\n\npro-\n\njecções\n\nGA-\n\nSES-\n\nVAPO-\n\nRES\n\nBacté-\n\nrias\n\npato-\n\ngénicas\n\nVírus\n\npato-\n\ngénicos\n\nFungos\n\nprodu-\n\ntores\n\nde\n\nmicoses\n\nAnti-\n\ngénios\n\nbioló-\n\ngicos\n\nnão-\n\n-micro-\n\nbianos\n\nCrânio\n\nOuvidos\n\nOlhos\n\nVias respiratórias\n\nRosto\n\nCabeça inteira\n\nMão\n\nBraço (partes)\n\nPé\n\nPerna (partes)\n\nPele\n\nTronco/abdómen\n\nVia parentérica\n\nCorpo inteiro"
+  },
+  "e7c9057670851243": {
+   "fragment_id": "PARTE DO CORPO — DIVERSOS",
+   "type": "divisao",
+   "heading": "PARTE DO CORPO — DIVERSOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE DO CORPO — DIVERSOS\n\nMEMBROS\n\nINFE-\n\nRIORES\n\nMEMBROS\n\nSUPE-\n\nRIORES\n\nCABEÇA\n\nANEXO II LISTA INDICATIVA E NAO EXAUSTIVA DOS EQUIPAMENTOS DE PROTECÇÃO INDIVIDUAL PROTECÇÃO DA CABEÇA\n\n- Capacetes de protecção para a indústria (capacetes para minas, estaleiros de obras públicas, indústrias diversas)\n\n- Coberturas de cabeça ligeiras para protecção do couro cabeludo (bonés, barretes, coifas, com ou sem viseira)\n\n- Coberturas de protecção da cabeça (barretes, bonés, chapéu de oleado, etc., em tecido, em tecido revestido, etc.).\n\nPROTECÇÃO DO OUVIDO\n\n- Tampões para os ouvidos moldáveis ou não\n\n- Capacetes envolventes\n\n- Protectores auriculares adaptáveis aos capacetes de protecção para a indústria\n\n- Precintas com receptor para circuito de indução de baixa frequência\n\n- Protectores contra o ruído equipados com aparelhos de intercomunicação.\n\nPROTECÇÃO DOS OLHOS E DA FACE\n\n- Óculos com aros\n\n- Óculos isolantes com uma ocular (óculos isolantes com duas oculares)\n\n- Óculos de protecção contra raios X, raios laser, radiações ultravioleta, infravermelho, visível\n\n- Escudos faciais\n\n- Máscaras e capacetes para soldadura por arco (máscaras para segurar com as mãos, com precintas ou adaptáveis sobre capacetes de protecção).\n\nPROTECÇÃO DAS VIAS RESPIRATÓRIAS\n\n- Aparelhos filtrantes antipoeiras, antigás e contra poeiras radioactivas\n\n- Aparelhos isolantes com aprovisionamento de ar\n\n- Aparelhos respiratórios com uma máscara de soldadura amovível\n\n- Aparelhos e material para mergulhadores\n\n- Escafandros para mergulhadores.\n\nPROTECÇÃO DAS MAOS E DOS BRAÇOS\n\n- Luvas\n\n- contra agressões mecânicas (perfuração, cortes, vibrações, etc.)\n\n- contra agressões químicas\n\n- para electricistas e antitérmicas\n\n- Muflas\n\n- Dedaleiras\n\n- Mangas protectoras\n\n- Punhos de couro\n\n- Mitenes\n\n- Manicas.\n\nPROTECÇÃO DOS PÉS E DAS PERNAS\n\n- Sapatos de salto raso, botinas, botins, botas de segurança\n\n- Sapatos que se desapertem ou se desatem rapidamente\n\n- Sapatos com biqueira de protecção\n\n- Sapatos e cobre-sapatos com sola anticalor\n\n- Sapatos, botas e cobre-botas de protecção contra o calor\n\n- Sapatos, botas a cobre-botas de protecção contra o frio\n\n- Sapatos, botas e cobre-botas de protecção contra as vibrações\n\n- Sapatos, botas e cobre-botas de protecção antiestáticos\n\n- Sapatos, botas e cobre-botas de protecção isolantes\n\n- Botas de protecção contra as correntes das serras de traçar\n\n- Tamancos\n\n- Joelheiras\n\n- Protectores amovíveis do peito do pé\n\n- Polainas\n\n- Solas amovíveis (anticalor, antiperfuração ou antitranspiração)\n\n- Grampos amovíveis para o gelo/a geada, neve, solos escorregadios.\n\nPROTECÇÃO DA PELE\n\n- Cremes de protecção/pomadas.\n\nPROTECÇÃO DO TRONCO E DO ABDÓMEN\n\n- Coletes, casacos e aventais de protecção contra agressões mecânicas (perfuração, cortes, projecção de metais em fusão, etc.)\n\n- Coletes, casacos e aventais de protecção contra agressões químicas\n\n- Coletes munidos de dispositivos de aquecimento\n\n- Coletes de salvação\n\n- Aventais de protecção contra raios X\n\n- Cintos de segurança do tronco.\n\nPROTECÇÃO DO CORPO INTEIRO\n\n- Equipamentos de protecção contra quedas\n\n- Equipamentos ditos «antiquedas» (equipamentos completos incluindo todos os acessórios necessários para a sua utilização)\n\n- Equipamentos com travão «absorvente de energia cinética» (equipamentos completos incluindo todos os acessórios necessários para a sua utilização)\n\n- Dispositivos de preensão do corpo (cintos de segurança).\n\n- Vestuário de protecção\n\n- Vestuário de trabalho, dito de «segurança» (duas peças e fato-macaco)\n\n- Vestuário de protecção contra agressões mecânicas (perfuração, cortes, etc.)\n\n- Vestuário de protecção contra agressões químicas\n\n- Vestuario de protecção contra projecções de metais em fusão e raios infravermelhos\n\n- Vestuário de protecção contra o calor\n\n- Vestuário de protecção contra o frio\n\n- Vestuário de protecção contra a contaminação radioactiva\n\n- Vestuário antipoeiras\n\n- Vestuário antigás\n\n- Vestuário e acessórios (braçadeiras, luvas, etc.), fluorescentes de sinalização, retro-reflectores\n\n- Coberturas de protecção.\n\nANEXO III LISTA INDICATIVA E NAO EXAUSTIVA DAS ACTIVIDADES E SECTORES DE ACTIVIDADE PARA OS QUAIS PODEM SER NECESSÁRIOS EQUIPAMENTOS DE PROTECÇÃO INDIVIDUAL 1. PROTECÇÃO DA CABEÇA (PROTECÇÃO DO CRÂNIO)\n\nCapacetes de protecção\n\n- Construção, nomeadamente trabalhos efectuados sobre, por baixo ou na proximidade de andaimes e postos de trabalho situados em pontos altos, cofragem e descofragem, operações de montagem, instalação e colocação de andaimes e demolições\n\n- Trabalhos em pontes metálicas, construções metálicas elevadas, postes, torres, construções hidráulicas em aço, altos fornos, aciarias, trens de laminagem, contentores de grandes dimensões, condutas de grande diâmetro, caldeiras e centrais eléctricas\n\n- Trabalhos em escavações, valas, poços e galerias\n\n- Terraplenagens e trabalhos em maciços rochosos\n\n- Trabalhos em explorações mineiras do subsolo, em pedreiras, explorações a céu aberto e movimentação dos inertes\n\n- Trabalhos com pistolas de chumbar\n\n- Trabalhos com explosivos\n\n- Trabalhos efectuados em elevadores, aparelhos de elevação e meios de transporte\n\n- Actividades em instalações de altos-fornos, instalações de redução directa, aciarias, trens de laminagem, fábricas metalúrgicas, forjas, oficinas de estampagem e fundições\n\n- Trabalhos em fornos industriais, contentores, máquinas, silos, tremonhas e condutas\n\n- Trabalhos no âmbito da construção naval\n\n- Operações de manobras dos caminhos de ferro\n\n- Trabalhos em matadouros.\n\n2. PROTECÇÃO DOS PÉS\n\nCalçado de protecção com sola antiperfuração\n\n- Obras de tosco, de engenharia civil e de construção de estradas\n\n- Trabalhos de construção executados em andaimes\n\n- Demolições de toscos\n\n- Trabalhos de construção em betão e elementos prefabricados que incluam operações de cofragem e descofragem\n\n- Trabalhos em estaleiros e zonas de armazenagem\n\n- Trabalhos em telhados.\n\nCalçado de protecção sem sola antiperfuração\n\n- Trabalhos em pontes metálicas, estruturas metálicas de grande altura, postes, torres, elevadores, construções hidráulicas em aço, altos-fornos, aciarias, trens de laminagem, grandes contentores, condutas de grande diâmetro, gruas, caldeiras e centrais eléctricas\n\n- Trabalhos de construção de fornos, montagem de instalações de aquecimento e ventilação e de estruturas metálicas\n\n- Trabalhos de remodelação e manutenção\n\n- Trabalhos em altos-fornos, instalações de redução directa, aciarias, trens de laminagem, fábricas metalúrgicas, forjas, oficinas de estampagem e de prensagem a quente e trefilarias\n\n- Trabalhos em pedreiras, minas a céu aberto e movimentação dos inertes\n\n- Trabalho e transformação da pedra\n\n- Fabrico, manipulação e transformação de vidro plano e vidro oco\n\n- Manipulação de moldes na indústria cerâmica\n\n- Operações de revestimento próximo dos fornos na indústria cerâmica\n\n- Trabalhos de vazamento em moldes na indústria cerâmica pesada e na indústria dos materiais de construção\n\n- Operações de transporte e armazenagem\n\n- Manipulação de peças de carne congelada e de barris metálicos de conservas\n\n- Actividades no âmbito da construção naval\n\n- Trabalhos de manobras nos caminhos de ferro.\n\nCalçado de segurança com salto ou sola de cunha e sola antiperfuração\n\n- Trabalhos em telhados.\n\nCalçado de segurança com sola dotada de isolamento térmico\n\n- Trabalhos efectuados com e sobre elementos quentes ou muito frios.\n\nCalçado de segurança que possa ser facilmente retirado\n\n- Em caso de perigo de penetração de matérias fundidas.\n\n3. PROTECÇÃO DOS OLHOS E DA FACE\n\nÓculos, viseiras ou anteparos de protecção\n\n- Operações de soldadura, polimento e de corte\n\n- Operações de perfuração e burilagem\n\n- Operações de talhe e tratamento de pedra\n\n- Trabalhos com pistolas de chumbar\n\n- Operações executadas em máquinas que trabalhem por arranque de apara na transformação de materiais que produzem aparas curtas\n\n- Trabalhos de estampagem\n\n- Operações de remoção e quebra de cacos e vidros partidos\n\n- Operações que envolvem a projecção de produtos abrasivos granulados\n\n- Trabalhos que exigem a manipulação de ácidos, soluções alcalinas, desinfectantes e produtos de limpeza cáusticos\n\n- Trabalhos com projectores de líquidos\n\n- Trabalhos com matérias em fusão, assim como permanência na sua proximidade\n\n- Trabalhos sob radiação térmica\n\n- Trabalhos com lasers.\n\n4. PROTECÇÃO DAS VIAS RESPIRATÓRIAS\n\nAparelhos de protecção das vias respiratórias\n\n- Trabalhos em reservatórios, espaços pequenos e fornos industriais alimentados a gás, sempre que exista perigo de inalação de gases ou de falta de oxigénio\n\n- Trabalhos realizados na proximidade da boca de carregamento dos altos-fornos\n\n- Trabalhos realizados na proximidade de convertidores ou de condutas de gás de altos-fornos\n\n- Trabalhos realizados na proximidade do furo de sangria dos fornos, sempre que exista risco de inalação de vapores de metais pesados\n\n- Trabalhos de guarnição de fornos e de panelas de vazamento sempre que haja risco de inalação de poeiras\n\n- Trabalhos de pintura à pistola quando não existam dispositivos de ventilação suficientes\n\n- Trabalhos em poços, canais e outros locais subterrâneos das redes de esgotos\n\n- Trabalhos em instalações frigoríficas sempre que exista perigo de fuga de fluido de refrigeração.\n\n5. PROTECÇÃO DO OUVIDO\n\nProtectores auriculares\n\n- Trabalhos realizados com prensas para trabalho de metais\n\n- Trabalhos realizados com ferramentas de ar comprimido\n\n- Operações levadas a cabo pelo pessoal de terra nas pistas dos aeroportos\n\n- Trabalhos com bate-estacas\n\n- Trabalho da madeira e dos têxteis.\n\n6. PROTECÇÃO DO TRONCO, DOS BRAÇOS E DAS MAOS\n\nEquipamento de protecção\n\n- Trabalhos que envolvam a manipulação de ácidos e soluções alcalinas, desinfectantes e produtos de limpeza corrosivos\n\n- Trabalhos realizados com ou nas proximidades de produtos muito quentes e em ambiente quente\n\n- Manipulação de vidro plano\n\n- Trabalhos que envolvam projecção de jactos de areia\n\n- Trabalhos realizados em câmaras frigoríficas.\n\nVestuário de protecção dificilmente inflamável\n\n- Operações de soldadura em espaços confinados.\n\nAventais de material resistente a perfurações\n\n- Operações de desossa e corte\n\n- Trabalhos realizados com facas de mão durante os quais a faca é apontada para o corpo.\n\nAventais de cabedal\n\n- Operações de soldadura\n\n- Operações de forjamento\n\n- Operações de vazamento em moldes.\n\nProtecções para os antebraços\n\n- Operações de desossa e corte.\n\nLuvas\n\n- Operações de soldadura\n\n- Manipulação de objectos com arestas vivas, mas não quando haja utilização de máquinas em que as luvas possam ser colhidas\n\n- Manipulação directa de ácidos e soluções cáusticas.\n\nLuvas com traçado de metal\n\n- Operações de desossa e corte\n\n- Utilização regular de facas de mão no âmbito da produção e do abate\n\n- Mudança de lâminas nas máquinas de cortar.\n\n7. VESTUÁRIO DE PROTECÇÃO CONTRA INTEMPÉRIES\n\n- Trabalhos ao ar livre (debaixo de chuva e ao frio).\n\n8. VESTUÁRIO DE SEGURANÇA\n\n- Trabalhos que exijam sinalização de presença.\n\n9. PROTECÇÃO ANTIQUEDA (CINTOS DE SEGURANÇA)\n\n- Trabalhos em andaimes\n\n- Montagem de prefabricados\n\n- Trabalhos en postes.\n\n10. PROTECÇÃO POR MEIO DE CABOS OU CORDAS\n\n- Operações em cabinas de comando de gruas em pontos elevados\n\n- Trabalhos efectuados em cabinas de comando de aparelhos para armazenagem automática\n\n- Trabalhos realizados em pontos altos de torres de perfuração\n\n- Trabalhos em poços e canalizações.\n\n11. PROTECÇÃO DA PELE\n\n- Manipulação de materiais de revestimento\n\n- Operações de curtimento."
+  }
+ }
+}

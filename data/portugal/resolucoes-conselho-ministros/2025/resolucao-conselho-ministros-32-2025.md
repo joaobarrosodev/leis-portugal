@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:908290394:por
+title: Resolução do Conselho de Ministros n.º 32/2025
+short_title: null
+summary: Nomeia os membros do conselho de administração da Agência de Gestão da Tesouraria e da Dívida Pública ― IGCP, E.
+  P. E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 32/2025
+official_date: null
+publication_date: '2025-02-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/2025, Série I de 2025-02-21
+  number: '37'
+  series: I
+  supplement: null
+  pages: 5 - 6
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03700/0000500006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/32/2025/02/21/p/dre/pt/html
+  oj: null
+  dre: '908290394'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/32-2025-908290394
+  internal: pt:dre:908290394:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2025-908290394
+  metadata_url: https://data.dre.pt/eli/resolconsmin/32/2025/02/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2025-908290394
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:37:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: aa1b5ea5c8c7167a1a2666807d9230b69ec672e8663e0bbb072ba61c27c5191c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:37:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência de Gestão da Tesouraria e da Dívida Pública
+- Conselho de Administração
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/2012/08/27/p/dre
+- type: cites
+  target: pt:dre:2062969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:37:40Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 32/2025
+
+A Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. (IGCP, E. P. E.), é uma pessoa coletiva de direito público com natureza de entidade pública empresarial, dotada de autonomia administrativa e financeira e património próprio, sujeita à tutela e superintendência do membro do Governo responsável pela área das finanças e cujos estatutos foram aprovados em anexo ao [Decreto-Lei n.º 200/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2012-174556), de 27 de agosto.
+
+O conselho de administração do IGCP, E. P. E., é composto por um presidente e por dois vogais, nomeados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área das finanças, para um mandato de três anos, conforme estabelece o n.º 2 do artigos 8.º e o artigo 11.º dos seus estatutos, conjugados com o disposto no n.º 2 do artigo 13.º e no n.º 1 do artigo 15.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual.
+
+Atendendo a que o mandato dos atuais membros do conselho de administração do IGCP, E. P. E., cessou, importa proceder à nomeação dos membros deste órgão para o exercício de um novo mandato, para o triénio de 2025-2027.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na redação atual, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente à nomeação das personalidades a que se refere a presente resolução.
+
+Assim:
+
+Nos termos dos n.os1 a 4 do artigo 13.º e do n.º 1 do artigo 15.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, aplicáveis por força do disposto no n.º 2 do artigo 8.º dos estatutos da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., aprovados em anexo ao [Decreto-Lei n.º 200/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2012-174556), de 27 de agosto, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta do Ministro de Estado e das Finanças, Pedro Miguel Pereira Cabeços, Márcia Raquel Duarte Rodrigues e Rui Manuel Sampaio Amaral para os cargos, respetivamente, de presidente e de vogais do conselho de administração da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., cuja idoneidade, experiência e competência profissionais para o desempenho dos cargos são evidenciadas nas respetivas notas curriculares, que constam em anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Determinar que os membros do conselho de administração referidos no número anterior são nomeados para o mandato relativo ao triénio de 2025-2027, com início em 24 de fevereiro de 2025, exceto no caso da vogal Márcia Raquel Duarte Rodrigues, cujo mandato tem início em 3 de março de 2025.
+
+3 - Estabelecer que a remuneração dos nomeados obedece ao disposto na [Resolução do Conselho de Ministros n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2012-543034), de 14 de fevereiro, e à classificação atribuída pelo [Despacho n.º 4894/2013](https://diariodarepublica.pt/dr/detalhe/despacho/4894-2013-2062969), publicado no Diário da República, 2.ª série, n.º 70, de 10 de abril de 2013.
+
+4 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 20 de fevereiro de 2025. - Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
+
+## ANEXO — (a que se refere o n.º 1)
+
+Notas curriculares
+
+Pedro Miguel Pereira Cabeços
+
+Data de nascimento: 28/10/1977.
+
+Formação académica:
+
+Pós-graduação em Mercados e Ativos Financeiros, no Centro de Investigação de Mercados e Ativos Financeiros do ISCTE - Instituto Universitário de Lisboa;
+
+MSc em Risk Management, no International Capital Markets Association Centre, Universidade de Reading;
+
+Licenciatura em Economia, no Instituto Superior de Economia e Gestão, Universidade Técnica de Lisboa.
+
+Atividade profissional:
+
+Diretor Natwest Markets Spa, Milao;
+
+Diretor executivo Morgan Stanley & Company International, Londres;
+
+Diretor Societe Generale, Londres.
+
+Márcia Raquel Duarte Rodrigues
+
+Data de nascimento: 03/10/1981.
+
+Formação académica:
+
+Mestrado em Ciência Política e Relações Internacionais, especialização em Estudos Europeus, pela Faculdade de Ciências Sociais e Humanas da Universidade NOVA de Lisboa;
+
+Licenciatura em Economia, pela Faculdade de Economia da Universidade NOVA de Lisboa.
+
+Atividade profissional:
+
+Diretora da Área de Estudos Económicos do Millennium BCP;
+
+Economista sénior na Área de Estudos Económicos do Millennium BCP;
+
+Economista na Área de Research de Mercados Financeiros do Millennium BCP.
+
+Rui Manuel Sampaio Amaral
+
+Data de nascimento: 12 de junho de 1975.
+
+Formação académica:
+
+Mestrado em Finanças Aplicadas, pela Universidade Macquarie de Sindey, na Austrália;
+
+Licenciatura em Administração e Gestão de Empresas, pela Universidade Católica Portuguesa.
+
+Atividade profissional:
+
+Vogal do conselho de administração do IGCP, E. P. E., desde agosto de 2022;
+
+Diretor-adjunto no Caixa - Banco de Investimento, S. A.;
+
+Subdiretor no Banco Millennium BCP Investimento, S. A.;
+
+Gestor de clientes no DNB ASA.
+
+118723778

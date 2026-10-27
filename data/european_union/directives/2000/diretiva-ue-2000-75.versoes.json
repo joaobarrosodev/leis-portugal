@@ -1,0 +1,1117 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000L0075:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0075-20210714",
+ "dre_path": null,
+ "source_lastmod": "2021-07-14",
+ "versions": [
+  {
+   "date": "2000-12-22",
+   "future": false,
+   "celex": "32000L0075",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a4b9cdeb98b05cef",
+    "a29a6e0a16c99e07",
+    "0a408f4305e003b6",
+    "dd769a37583c2a25",
+    "111d9e5f7d7809c0",
+    "1bbc17ac7fa2b49b",
+    "34c969db9a901fa2",
+    "068c54678ad45cbe",
+    "4441feb10f2bcd6a",
+    "a94cc04dfa8d3493",
+    "8dcbe8f7e3b874d1",
+    "520e8b1575f069fc",
+    "0b5402b7d2befdd0",
+    "5dac3768e31f63a6",
+    "fe0464bf65a6ad88",
+    "ed28841b1c550b26",
+    "f3c2009d508c190b",
+    "cde5d3adc1584508",
+    "c8c3c6db6776bfe6",
+    "3fd08508797415a8",
+    "a63c9ac7468e7d71",
+    "6738313179576564",
+    "33552360f451cd1a",
+    "2490bb8f9fa87318",
+    "38430c8ab3c7eddb",
+    "b32ab28349639f7e",
+    "be82e83fbe864aee"
+   ]
+  },
+  {
+   "date": "2006-12-12",
+   "future": false,
+   "celex": "02000L0075-20061212",
+   "acts": [
+    {
+     "id": "eu:celex:32006D0911:por",
+     "title": "DECISÃO DA COMISSÃO de 5 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006D0911"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 23.º",
+    "Altera ANEXO I",
+    "Altera ANEXO II",
+    "Adita Artigo 11.º",
+    "Adita B. FUNÇÕES DOS LABORATÓRIOS NACIONAIS DA FEBRE CATARRAL OVINA",
+    "Adita A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTONLABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM FÖR BLUETONGUE",
+    "Adita B. FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA FEBRE CATARRAL OVINA",
+    "Adita ANEXO III",
+    "Adita CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO",
+    "Adita Notas",
+    "Suprime Artigo 11.º — As medidas tomadas em virtude dos artigos 6.o, 8.o, 9.o e 10.o serão alteradas ou revogadas nos termos do n.o 2 do artigo 20.o",
+    "Suprime ANEXO III — CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO"
+   ],
+   "fragments": [
+    "69161a3bad0bf3db",
+    "a29a6e0a16c99e07",
+    "af11eeb18b945648",
+    "dd769a37583c2a25",
+    "60c44a103602a26d",
+    "1bbc17ac7fa2b49b",
+    "97246fe3e0496e9c",
+    "742ada76e4a98171",
+    "28a2be40e0ae707e",
+    "5eadf6658308ae84",
+    "d1c87fa29ae53721",
+    "f0c03d3a65767f06",
+    "78013ef9a0015cd4",
+    "e09a0a68ad8c7ad5",
+    "fe0464bf65a6ad88",
+    "541256414e27d093",
+    "059d07f57fbc9c7e",
+    "1d3480262ca0121a",
+    "89a991f4ef020b46",
+    "c9117861fd0c4e52",
+    "f9f5d0ea64b3f681",
+    "43ad09ca478b76c4",
+    "33552360f451cd1a",
+    "1c42ee8947bb37a7",
+    "0ee8a94e8469450f",
+    "e06f5689c3e04264",
+    "852174729551523b",
+    "fd78f85e27b0c2b1",
+    "5837f06dd24ce80d",
+    "720af75c92791b10",
+    "592f950d698a5c27",
+    "f900e59d8ad8989b"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02000L0075-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0104:por",
+     "title": "DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0104"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Artigo 20.º",
+    "Altera ANEXO I",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "6e4289a3f9d96bee",
+    "a29a6e0a16c99e07",
+    "af11eeb18b945648",
+    "dd769a37583c2a25",
+    "d7c990f63b70b840",
+    "1bbc17ac7fa2b49b",
+    "97246fe3e0496e9c",
+    "742ada76e4a98171",
+    "28a2be40e0ae707e",
+    "5eadf6658308ae84",
+    "d1c87fa29ae53721",
+    "f0c03d3a65767f06",
+    "78013ef9a0015cd4",
+    "e09a0a68ad8c7ad5",
+    "fe0464bf65a6ad88",
+    "541256414e27d093",
+    "059d07f57fbc9c7e",
+    "1d3480262ca0121a",
+    "89a991f4ef020b46",
+    "c9117861fd0c4e52",
+    "69947ffa3650c9d5",
+    "43ad09ca478b76c4",
+    "33552360f451cd1a",
+    "1c42ee8947bb37a7",
+    "9b67ad42540f7711",
+    "e06f5689c3e04264",
+    "852174729551523b",
+    "fd78f85e27b0c2b1",
+    "5837f06dd24ce80d",
+    "720af75c92791b10",
+    "592f950d698a5c27",
+    "3fcdca7a11a70ab0"
+   ]
+  },
+  {
+   "date": "2007-11-13",
+   "future": false,
+   "celex": "02000L0075-20071113",
+   "acts": [
+    {
+     "id": "eu:celex:32007D0729:por",
+     "title": "DECISÃO DA COMISSÃO de 7 de Novembro de 2007",
+     "published": null,
+     "celex": "32007D0729"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Artigo 20.º",
+    "Altera ANEXO I",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "7f5f95cc5a88ee06",
+    "a29a6e0a16c99e07",
+    "af11eeb18b945648",
+    "dd769a37583c2a25",
+    "362596de351a975f",
+    "1bbc17ac7fa2b49b",
+    "97246fe3e0496e9c",
+    "742ada76e4a98171",
+    "28a2be40e0ae707e",
+    "5eadf6658308ae84",
+    "d1c87fa29ae53721",
+    "f0c03d3a65767f06",
+    "78013ef9a0015cd4",
+    "e09a0a68ad8c7ad5",
+    "fe0464bf65a6ad88",
+    "541256414e27d093",
+    "059d07f57fbc9c7e",
+    "1d3480262ca0121a",
+    "89a991f4ef020b46",
+    "c9117861fd0c4e52",
+    "ffd330dfc56678ed",
+    "43ad09ca478b76c4",
+    "33552360f451cd1a",
+    "1c42ee8947bb37a7",
+    "b1a138e96b84fcc6",
+    "e06f5689c3e04264",
+    "852174729551523b",
+    "fd78f85e27b0c2b1",
+    "5837f06dd24ce80d",
+    "720af75c92791b10",
+    "592f950d698a5c27",
+    "041902c685c2d323"
+   ]
+  },
+  {
+   "date": "2008-09-03",
+   "future": false,
+   "celex": "02000L0075-20080903",
+   "acts": [
+    {
+     "id": "eu:celex:32008L0073:por",
+     "title": "DIRECTIVA 2008/73/CE DO CONSELHO Texto relevante para efeitos do EEE de 15 de Julho de 2008",
+     "published": null,
+     "celex": "32008L0073"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 20.º",
+    "Altera ANEXO I",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "0b031d3c5ede71a1",
+    "a29a6e0a16c99e07",
+    "af11eeb18b945648",
+    "dd769a37583c2a25",
+    "0d1881144569e32d",
+    "1bbc17ac7fa2b49b",
+    "97246fe3e0496e9c",
+    "742ada76e4a98171",
+    "28a2be40e0ae707e",
+    "5eadf6658308ae84",
+    "d1c87fa29ae53721",
+    "f0c03d3a65767f06",
+    "78013ef9a0015cd4",
+    "e09a0a68ad8c7ad5",
+    "fe0464bf65a6ad88",
+    "790131382e478618",
+    "059d07f57fbc9c7e",
+    "1d3480262ca0121a",
+    "89a991f4ef020b46",
+    "c9117861fd0c4e52",
+    "21ef49e727c49c7f",
+    "43ad09ca478b76c4",
+    "33552360f451cd1a",
+    "1c42ee8947bb37a7",
+    "d664376e2a8dcecd",
+    "e06f5689c3e04264",
+    "852174729551523b",
+    "fd78f85e27b0c2b1",
+    "5837f06dd24ce80d",
+    "720af75c92791b10",
+    "592f950d698a5c27",
+    "97895148d22a0aa9"
+   ]
+  },
+  {
+   "date": "2012-03-22",
+   "future": false,
+   "celex": "02000L0075-20120322",
+   "acts": [
+    {
+     "id": "eu:celex:32012L0005:por",
+     "title": "DIRETIVA 2012/5/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de março de 2012",
+     "published": null,
+     "celex": "32012L0005"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 20.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "93609bd3b28546ad",
+    "a29a6e0a16c99e07",
+    "781e0f02b13fb554",
+    "dd769a37583c2a25",
+    "b70edd0007b2095c",
+    "f89a175da868156e",
+    "2490b60912ff23b2",
+    "742ada76e4a98171",
+    "5a876cb43e6b1082",
+    "5eadf6658308ae84",
+    "59f842b0f492a49f",
+    "f0c03d3a65767f06",
+    "78013ef9a0015cd4",
+    "e09a0a68ad8c7ad5",
+    "fe0464bf65a6ad88",
+    "790131382e478618",
+    "059d07f57fbc9c7e",
+    "1d3480262ca0121a",
+    "89a991f4ef020b46",
+    "c9117861fd0c4e52",
+    "946637b85e09aaa0",
+    "43ad09ca478b76c4",
+    "33552360f451cd1a",
+    "1c42ee8947bb37a7",
+    "d664376e2a8dcecd",
+    "e06f5689c3e04264",
+    "852174729551523b",
+    "fd78f85e27b0c2b1",
+    "5837f06dd24ce80d",
+    "720af75c92791b10",
+    "592f950d698a5c27",
+    "c156e7d5358893b3"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02000L0075-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0020:por",
+     "title": "DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013L0020"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Artigo 20.º",
+    "Altera Notas",
+    "Adita A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTON[►M6](http://publications.europa.eu/resource/celex/32013L0020) REFERENTNI LABORATORIJ ZAJEDNICE ZA BOLEST PLAVOG JEZIKA◄LABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM FÖR BLUETONGUE",
+    "Suprime A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTONLABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM FÖR BLUETONGUE"
+   ],
+   "fragments": [
+    "46b2585688ee0f4f",
+    "a29a6e0a16c99e07",
+    "781e0f02b13fb554",
+    "dd769a37583c2a25",
+    "ba484b40210edfa7",
+    "f89a175da868156e",
+    "2490b60912ff23b2",
+    "742ada76e4a98171",
+    "5a876cb43e6b1082",
+    "5eadf6658308ae84",
+    "59f842b0f492a49f",
+    "f0c03d3a65767f06",
+    "78013ef9a0015cd4",
+    "e09a0a68ad8c7ad5",
+    "fe0464bf65a6ad88",
+    "790131382e478618",
+    "059d07f57fbc9c7e",
+    "1d3480262ca0121a",
+    "89a991f4ef020b46",
+    "c9117861fd0c4e52",
+    "883736a9beb859c3",
+    "43ad09ca478b76c4",
+    "33552360f451cd1a",
+    "1c42ee8947bb37a7",
+    "d664376e2a8dcecd",
+    "e06f5689c3e04264",
+    "852174729551523b",
+    "cdd6751ae2a19567",
+    "5837f06dd24ce80d",
+    "720af75c92791b10",
+    "592f950d698a5c27",
+    "2ef74fb7cf75c214"
+   ]
+  },
+  {
+   "date": "2021-07-14",
+   "future": false,
+   "celex": "02000L0075-20210714",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime ANEXO I",
+    "Suprime B. FUNÇÕES DOS LABORATÓRIOS NACIONAIS DA FEBRE CATARRAL OVINA",
+    "Suprime ANEXO II",
+    "Suprime A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTON[►M6](http://publications.europa.eu/resource/celex/32013L0020) REFERENTNI LABORATORIJ ZAJEDNICE ZA BOLEST PLAVOG JEZIKA◄LABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM FÖR BLUETONGUE",
+    "Suprime B. FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA FEBRE CATARRAL OVINA",
+    "Suprime ANEXO III",
+    "Suprime CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "3048465e1c27da8c"
+   ]
+  }
+ ],
+ "fragments": {
+  "a4b9cdeb98b05cef": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2000/75/CE do Conselho, de 20 de Novembro de 2000, que aprova disposições específicas relativas às medidas de luta e de erradicação da febre catarral ovina ou língua azul** *Jornal Oficial nº L 327 de 22/12/2000 p. 0074 - 0083*\n\nDirectiva 2000/75/CE do Conselho\n\nde 20 de Novembro de 2000\n\nque aprova disposições específicas relativas às medidas de luta e de erradicação da febre catarral ovina ou língua azul\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/119/CEE do Conselho, de 17 de Dezembro de 1992, que estabelece medidas comunitárias gerais de luta contra certas doenças animais, bem como medidas específicas respeitantes à doença vesiculosa do suíno(1), e, nomeadamente, o segundo travessão do seu artigo 15.o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com o disposto no artigo 15.o da Directiva 92/119/CEE, importa prever medidas específicas de luta e erradicação da febre catarral ovina ou língua azul.\n\n(2) As características epidemiológicas da febre catarral ovina são comparáveis às da peste equina.\n\n(3) O Conselho aprovou a Directiva 92/35/CEE(2) que define as regras de controlo e as medidas de luta contra a peste equina.\n\n(4) Para lutar contra a febre catarral ovina, é conveniente inspirar-se, nas suas grandes linhas, nas medidas previstas na Directiva 92/35/CEE de luta contra a peste equina, introduzindo-lhes as adaptações apropriadas em função das características da criação das espécies sensíveis à febre catarral ovina.\n\n(5) Importa fixar as regras aplicáveis aos movimentos das espécies sensíveis, e dos respectivos sémen, óvulos e de embriões, a partir das zonas sujeitas a restrições em virtude do aparecimento da doença.\n\n(6) Em caso de aparecimento da febre catarral ovina, aplica-se o disposto no artigo 3.o da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário(3).\n\n(7) É necessário estabelecer um processo que institua uma cooperação estreita entre os Estados-Membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a29a6e0a16c99e07": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva define as regras de controlo e as medidas de luta contra a febre catarral ovina, bem como as medidas de erradicação."
+  },
+  "0a408f4305e003b6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\na) \"Exploração\", um estabelecimento agrícola ou outro em que, permanente ou temporariamente, são criados ou mantidos animais das espécies sensíveis à febre catarral ovina;\n\nb) \"Espécie sensível\", qualquer espécie de ruminante;\n\nc) \"Animal\", qualquer animal pertencente a uma espécie sensível, com exclusão dos animais selvagens, para os quais poderão ser fixadas disposições específicas nos termos do n.o 2 do artigo 20.o;\n\nd) \"Proprietário ou criador\", a ou as pessoas singulares ou colectivas que detêm a propriedade dos animais ou que estão encarregadas da sua manutenção, mediante remuneração ou não;\n\ne) \"Vector\", o insecto da espécie culicoides imicola ou qualquer outro insecto culicóide susceptível de transmitir a febre catarral ovina, a identificar nos termos do n.o 2 do artigo 20.o, após parecer do Comité Científico Veterinário;\n\nf) \"Suspeita\", o aparecimento de qualquer sinal clínico que evoque a febre catarral ovina numa das espécies sensíveis, associado a um conjunto de dados epidemiológicos que permitam considerar razoavelmente esta eventualidade;\n\ng) \"Confirmação\", a declaração, pela autoridade competente, da circulação numa zona determinada do vírus da febre catarral ovina com base em resultados laboratoriais; no entanto, em caso de epidemia, a autoridade competente poderá igualmente confirmar a doença com base em resultados clínicos e/ou epidemiológicos;\n\nh) \"Autoridade competente\", a autoridade central de um Estado-Membro competente para efectuar os controlos veterinários, ou qualquer autoridade veterinária em que essa autoridade central tenha delegado esta competência;\n\ni) \"Veterinário oficial\", o veterinário designado pela autoridade competente."
+  },
+  "dd769a37583c2a25": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros providenciam para que a suspeita ou a confirmação da circulação do vírus da febre catarral ovina sejam obrigatória e imediatamente notificadas à autoridade competente."
+  },
+  "111d9e5f7d7809c0": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sempre que numa exploração situada numa região não sujeita a restrições, na acepção da presente directiva, existirem um ou vários animais suspeitos de contaminação pela febre catarral ovina, os Estados-Membros providenciam para que o veterinário oficial accione imediatamente os meios oficiais de investigação a fim de confirmar ou infirmar a presença da doença.\n\n2. Imediatamente após a notificação da suspeita, o veterinário oficial:\n\na) Manda colocar a ou as explorações suspeitas sob vigilância oficial;\n\nb) Manda proceder:\n\ni) a um recenseamento oficial dos animais que indique, para cada espécie, o número de animais já mortos, infectados ou susceptíveis de estarem infectados, bem como à actualização desse recenseamento, a fim de ter em conta os animais nascidos ou mortos durante o período de suspeita; as informações deste recenseamento devem ser apresentadas sempre que forem solicitadas e podem ser controladas em cada visita;\n\nii) ao recenseamento dos locais susceptíveis de favorecerem a sobrevivência do vector ou de o alojar, e em especial ao dos locais propícios à sua reprodução;\n\niii) a um inquérito epidemiológico nos termos do artigo 7.o;\n\nc) Efectua visitas regulares à exploração ou às explorações, devendo, nessas ocasiões, proceder a um exame clínico aprofundado ou à autópsia dos animais suspeitos ou mortos, e confirma a doença, se necessário, através de exames laboratoriais;\n\nd) Toma as medidas necessárias para que:\n\ni) seja proibida toda a circulação de animais do interior da ou das explorações para fora da(s) mesma(s) e vice-versa;\n\nii) os animais sejam confinados nas horas de actividade dos vectores, quando considerar que estão disponíveis os meios necessários à execução desta medida;\n\niii) sejam regularmente efectuados tratamentos com o auxílio de insecticidas autorizados nos animais, instalações utilizadas para o seu alojamento e imediações destas últimas (em especial nos locais ecologicamente propícios à existência de populações de culicóides). O ritmo dos tratamentos deve ser fixado pela autoridade competente e deve atender à quantidade ainda existente do insecticida utilizado e às condições climáticas, a fim de evitar, tanto quanto possível, os ataques dos vectores;\n\niv) os cadáveres dos animais mortos na exploração sejam destruídos, eliminados, incinerados ou enterrados em conformidade com a Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe, e que altera a Directiva 90/425/CEE(4).\n\n3. Na pendência da aplicação das medidas estabelecidas no n.o 2, o proprietário ou criador de qualquer animal que se suspeite estar atingido pela doença em causa deve tomar todas as medidas cautelares adequadas para dar cumprimento ao disposto na alínea d), subalíneas i) e ii), do n.o 2.\n\n4. A autoridade competente pode aplicar qualquer das medidas previstas no n.o 2 a outras explorações, caso a sua implantação, situação geográfica ou contactos com a exploração em que existe suspeita da doença permitam suspeitar da possibilidade de contaminação.\n\n5. Além das disposições estabelecidas no n.o 2, podem ser previstas disposições específicas nos termos do n.o 2 do artigo 20.o para as reservas naturais onde os animais vivem em liberdade.\n\n6. As medidas referidas no presente artigo só serão suspensas pelo veterinário oficial quando tiver sido infirmada, pela autoridade competente, a suspeita de febre catarral ovina."
+  },
+  "1bbc17ac7fa2b49b": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA vacinação contra a febre catarral ovina só pode ser praticada em conformidade com o disposto na presente directiva."
+  },
+  "34c969db9a901fa2": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Sempre que a presença da febre catarral ovina seja oficialmente confirmada, o veterinário oficial:\n\na) Manda proceder, informando do facto a Comissão, aos abates que sejam considerados necessários para evitar a extensão da epidemia;\n\nb) Manda destruir, eliminar, incinerar ou enterrar os cadáveres desses animais, em conformidade com a Directiva 90/667/CEE;\n\nc) Alarga as medidas previstas no artigo 4.o às explorações situadas num raio de 20 quilómetros (incluída a zona de protecção definida no artigo 8.o) à volta da ou das explorações infectadas;\n\nd) Põe em prática as medidas adoptadas nos termos do artigo 20.o, nomeadamente no que se refere à execução de um programa de vacinação ou de qualquer outra medida alternativa; em caso de necessidade, a autoridade competente de um Estado-Membro pode, informando do facto a Comissão, tomar a iniciativa de começar um programa de vacinação;\n\ne) Manda proceder a um inquérito epidemiológico nos termos do artigo 7.o\n\nTodavia, em derrogação da alínea c), podem ser tomadas nos termos do n.o 2 do artigo 20.o disposições aplicáveis à circulação dos animais na zona.\n\n2. A zona referida na alínea c) do n.o 1 pode ser alargada ou reduzida pela autoridade competente em função das circunstâncias epidemiológicas, geográficas, ecológicas ou meteorológicas. Desse facto deve informar a Comissão.\n\n3. No caso de a zona referida na alínea c) do n.o 1 se situar no território de vários Estados-Membros, as autoridades competentes dos Estados-Membros em causa colaboram a fim de delimitar a zona. Se necessário, a zona será delimitada nos termos do n.o 2 do artigo 20.o"
+  },
+  "068c54678ad45cbe": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O inquérito epidemiológico abrange:\n\na) A duração do período durante o qual a febre catarral ovina pode ter existido na exploração;\n\nb) A origem possível da febre catarral ovina na exploração e a determinação das outras explorações em que se encontram animais que possam ter sido infectados ou contaminados a partir dessa mesma origem;\n\nc) A presença e distribuição dos vectores da doença;\n\nd) A circulação de animais a partir de ou com destino às explorações em causa ou a eventual saída de cadáveres de animais das referidas explorações.\n\n2. A fim de garantir uma coordenação total de todas as medidas necessárias para assegurar a erradicação da febre catarral ovina no mais breve prazo, e tendo em vista a realização do inquérito epidemiológico, é criada uma unidade de crise.\n\nAs regras gerais respeitantes às unidades de crise nacionais e à unidade de crise comunitária são aprovadas nos termos do n.o 2 do artigo 20.o"
+  },
+  "4441feb10f2bcd6a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-Membros providenciam para que, em complemento das medidas referidas no artigo 6.o, a autoridade competente delimite uma zona de protecção e uma zona de vigilância. A delimitação destas zonas deve atender a factores de carácter geográfico, administrativo, ecológico e epizootiológico ligados à febre catarral ovina, bem como às estruturas de controlo.\n\n2. a) A zona de protecção é constituída por uma parte do território comunitário com um raio de, pelo menos, 100 quilómetros à volta de toda a exploração infectada;\n\nb) A zona de vigilância é constituída por uma parte do território comunitário com uma extensão mínima de 50 quilómetros para além dos limites da zona de protecção e na qual não tenha sido feita qualquer vacinação sistemática no decurso dos últimos 12 meses;\n\nc) No caso de estas zonas se situarem no território de vários Estados-Membros, as autoridades competentes dos Estados-Membros em causa colaboram a fim de delimitarem as zonas referidas nas alíneas a) e b);\n\nd) No entanto, se necessário, a zona de protecção e a zona de vigilância são delimitadas nos termos do n.o 2 do artigo 20.o\n\n3. Na sequência de um pedido devidamente fundamentado por parte de um Estado-Membro, pode ser tomada uma decisão, nos termos do n.o 2 do artigo 20.o, com vista a alterar a delimitação das zonas definidas no n.o 2 do presente artigo, atendendo:\n\na) À sua situação geográfica e a factores ecológicos;\n\nb) Às condições meteorológicas;\n\nc) À presença e distribuição do vector;\n\nd) Aos resultados de estudos epizootiológicos efectuados em conformidade com o artigo 7.o;\n\ne) Aos resultados dos exames laboratoriais;\n\nf) À aplicação de medidas de luta, nomeadamente de desinsectização."
+  },
+  "a94cc04dfa8d3493": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-Membros providenciam para que sejam aplicadas, na zona de protecção, as seguintes medidas:\n\na) Identificação de todas as explorações da zona em que existam animais;\n\nb) Implementação, pela autoridade competente, de um programa de epidemiovigilância baseado no acompanhamento de grupos de bovinos (ou, na sua ausência, de outras espécies de ruminantes) sentinelas e das populações de vectores; esse programa pode ser estabelecido nos termos do n.o 2 do artigo 20.o;\n\nc) Proibição de saída dos animais da zona. No entanto, nos termos do n.o 2 do artigo 20.o, podem ser decididas derrogações à proibição de saída, nomeadamente para os animais situados numa parte da zona em que tenha sido demonstrada a ausência de circulação viral ou a ausência de vectores.\n\n2. Em complemento das medidas previstas no n.o 1, pode ser decidida, nos termos do n.o 2 do artigo 20.o, a vacinação sistemática dos animais contra a febre catarral ovina e a sua identificação na zona de protecção."
+  },
+  "8dcbe8f7e3b874d1": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros providenciam para que:\n\n1. As medidas previstas no n.o 1 do artigo 9.o sejam aplicáveis na zona de vigilância.\n\n2. Seja proibida qualquer vacinação conta a febre catarral ovina na zona de vigilância."
+  },
+  "520e8b1575f069fc": {
+   "fragment_id": "Artigo 11.º — As medidas tomadas em virtude dos artigos 6.o, 8.o, 9.o e 10.o serão alteradas ou revogadas nos termos do n.o 2 do artigo 20.o",
+   "type": "artigo",
+   "heading": "Artigo 11.º — As medidas tomadas em virtude dos artigos 6.o, 8.o, 9.o e 10.o serão alteradas ou revogadas nos termos do n.o 2 do artigo 20.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — As medidas tomadas em virtude dos artigos 6.o, 8.o, 9.o e 10.o serão alteradas ou revogadas nos termos do n.o 2 do artigo 20.o"
+  },
+  "0b5402b7d2befdd0": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nEm derrogação dos artigos 9.o e 10.o, as disposições aplicáveis à circulação de animais dentro e a partir da zona de protecção e da zona de vigilância são estabelecidas nos termos do n.o 2 do artigo 20.o\n\nAquando da aprovação da decisão a que se refere o primeiro parágrafo, as regras aplicáveis às trocas comerciais serão estabelecidas nos mesmos termos."
+  },
+  "5dac3768e31f63a6": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSempre que em determinada região a epizootia de febre catarral ovina apresentar um carácter de excepcional gravidade, todas as medidas suplementares a tomar pelos Estados-Membros são aprovadas nos termos do n.o 2 do artigo 20.o"
+  },
+  "fe0464bf65a6ad88": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-Membros providenciam para que a autoridade competente adopte todas as medidas adequadas a fim de que todas as pessoas estabelecidas nas zonas de protecção e de vigilância sejam plenamente informadas das restrições em vigor e adoptem todas as disposições que se impõem a fim de aplicar de um modo adequado as medidas em causa."
+  },
+  "ed28841b1c550b26": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Em cada Estado-Membro deve ser designado um laboratório nacional encarregado de proceder aos exames laboratoriais previstos na presente directiva. Esses laboratórios nacionais, bem como as respectivas competências e obrigações, são indicados no anexo I.\n\n2. Os laboratórios nacionais indicados no anexo I devem cooperar com o laboratório de referência comunitário previsto no artigo 16.o"
+  },
+  "f3c2009d508c190b": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO laboratório comunitário de referência da febre catarral ovina é indicado no anexo II. Sem prejuízo das disposições previstas pela Decisão 90/424/CEE, nomeadamente do seu artigo 28.o, as funções deste laboratório estão definidas na parte B do anexo II."
+  },
+  "cde5d3adc1584508": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nNa medida em que tal seja necessário à aplicação uniforme da presente directiva, e em colaboração com as autoridades competentes, os peritos da Comissão podem efectuar controlos no local. Para esse efeito podem verificar, através do controlo de uma percentagem representativa de explorações, se as autoridades competentes controlam o cumprimento das disposições da presente directiva. A Comissão informa os Estados-Membros do resultado dos controlos efectuados.\n\nO Estado-Membro em cujo território esteja a ser efectuado um controlo deve prestar todo o apoio necessário aos peritos no cumprimento da sua missão.\n\nAs normas de execução do presente artigo são aprovadas nos termos do n.o 2 do artigo 20.o"
+  },
+  "c8c3c6db6776bfe6": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Cada Estado-Membro elabora um plano de intervenção que especifique o modo de execução das medidas definidas na presente directiva.\n\nEste plano deve permitir o acesso às instalações, equipamentos, pessoal e outras estruturas adequadas necessários à erradicação rápida e eficaz da doença.\n\n2. Os critérios a respeitar na elaboração dos planos previstos no n.o 1 constam do anexo III.\n\nOs planos elaborados de acordo com estes critérios são apresentados à Comissão no prazo de três meses após o início da aplicação da presente directiva.\n\nA Comissão examina os planos, a fim de determinar se os mesmos permitem atingir o objectivo pretendido, e sugere ao Estado-Membro em causa quaisquer alterações necessárias, nomeadamente para garantir a sua compatibilidade com os planos dos outros Estados-Membros.\n\nA Comissão aprova os planos, eventualmente alterados, nos termos do n.o 2 do artigo 20.o\n\nPosteriormente, os planos podem ser alterados ou completados nos mesmos termos, a fim de ter em conta a evolução da situação."
+  },
+  "3fd08508797415a8": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA presente directiva pode, se necessário, ser modificada pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão.\n\nOs anexos são alterados nos termos do n.o 2 do artigo 20.o\n\nAs eventuais normas de execução necessárias para a aplicação da presente directiva são aprovadas nos termos do n.o 2 do artigo 20.o"
+  },
+  "a63c9ac7468e7d71": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A Comissão é assistida pelo Comité Veterinário Permanente.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE(5).\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de 15 dias.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "6738313179576564": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nA Comissão pode aprovar, nos termos do n.o 2 do artigo 20.o, para um período de dois anos, as medidas transitórias necessárias para facilitar a passagem para o novo regime previsto pela presente directiva."
+  },
+  "33552360f451cd1a": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento às disposições da presente directiva até 1 de Janeiro de 2002 e devem informar imediatamente desse facto a Comissão.\n\nSempre que os Estados-Membros aprovarem as referidas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades desta referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "2490bb8f9fa87318": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Novembro de 2000.\n\nPelo Conselho\n\nO Presidente\n\nJ. Glavany\n\n(1) JO L 62 de 15.3.1993, p. 69. Directiva alterada pelo Acto de Adesão de 1994.\n\n(2) JO L 157 de 10.6.1992, p. 19. Directiva alterada pelo Acto de Adesão de 1994.\n\n(3) JO L 224 de 18.8.1990, p. 19. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1258/1999 (JO L 160 de 26.6.1999, p. 103).\n\n(4) JO L 363 de 27.12.1990, p. 51. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(5) JO L 184 de 17.7.1999, p. 2."
+  },
+  "38430c8ab3c7eddb": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nA. LISTA DE LOS LABORATORIOS NACIONALES DE LA FIEBRE CATARRAL OVINA/LISTE OVER NATIONALE LABORATORIER FOR BLUETONGUE/LISTE DER FÜR DIE BLAUZUNGENKRANKHEIT ZUSTÄNDIGEN NATIONALEN LABORATORIEN/ΚΑΤΑΛΟΓΟΣ ΕΘΝΙΚΩΝ ΕΡΓΑΣΤΗΡΙΩΝ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥ/LIST OF THE NATIONAL BLUETONGUE LABORATORIES/LISTE DES LABORATOIRES NATIONAUX POUR LA FIÈVRE CATARRHALE DU MOUTON/ELENCO DEI LABORATORI NAZIONALI PER LA FEBBRE CATARRALE DEGLI OVINI/LIJST VAN DE NATIONALE LABORATORIA VOOR BLUETONGUE/LISTA DOS LABORATÓRIOS NACIONAIS EM RELAÇÃO À FEBRE CATARRAL OVINA/LUETTELO KANSALLISISTA LAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETYISTÄ LABORATORIOISTA/FÖRTECKNING ÖVER NATIONELLA LABORATORIER FÖR BLUETONGUE\n\nBélgica:\n\nCentrum voor Onderzoek in Diergeneeskunde en Agrochemie (CODA)//Centre d'études et de recherches vétérinaires et agrochimiques (CERVA) Groeselenbergstraat 99//Rue Groeselenberg 99 B - 1180 Brussel//Bruxelles Tel. (32-2) 375 44 55 Fax (32-2) 375 09 79 E-mail: piker@var.fgov.be\n\nDinamarca:\n\nStatens Veterinære Institut for Virusforskning Lindholm DK - 4771 Kalvehave Tlf. (45) 55 86 02 00 Fax (45) 55 86 03 00 E-post: sviv@vetvirus.dk\n\nAlemanha:\n\nBundesforschungsanstalt für Viruskrankheiten der Tiere Anstaltsteil Tübingen Postfach 11 49 D - 72001 Tübingen Tel. (49) 70 71 96 72 55 Fax (49) 70 71 96 73 03\n\nGrécia:\n\nMinistry of Agriculture\n\nCentre of Athens Veterinary Institutions\n\nVirus Department Neapoleos Str. 25 GR - 15310 Ag. Paraskevi Athens Tel. (30-1) 601 14 99/601 09 03 Fax (30-1) 639 94 77\n\nEspanha:\n\nCentro de Investigación en Sanidad Animal INIA-CISA D. José Manuel Sánchez Vizcaíno Carretera de Algete-El Casar, km 8, Valdeolmos E - 20180 Madrid Tel. (34) 916 20 22 16 Fax (34) 916 20 22 47 E-mail: vizcaino@inia.es\n\nFrança:\n\nCIRAD-EMVT Campus international de Baillarguet BP 5035 F - 34032 Montpellier Cedex 1 Tel. (33-4) 67 59 37 24 Fax (33-4) 67 59 37 98 E-mail: bastron@cirad.fr\n\nIrlanda:\n\nCentral Veterinary Research Laboratory Abbotstown\n\nCastleknock\n\nDublin 15 Ireland Tel. (353-1) 607 26 79 Fax (353-1) 822 03 63 E-mail: reillypj@indigo.ie\n\nItália:\n\nCESME presso IZS Via Campo Boario I - 64100 Teramo Tel. (39) 0861 33 22 16 Fax (39) 0861 33 22 51 E-mail: Cesme@IZS.it\n\nLuxemburgo:\n\nCentre d'études et de recherches vétérinaires et agrochimiques (CERVA) Rue Groeselenberg 99 B - 1180 Bruxelles Tel. (32-2) 375 44 55 Fax (32-2) 375 09 79 E-mail: piker@var.fgov.be\n\nPaíses Baixos:\n\nID-DLO Edelhertweg 15 8219 PH Lelystad Nederland Tel. (0031-0320) 23 82 38 Fax (0031-0320) 23 80 50 E-mail: postkamer@id.dlo.nl\n\nÁustria:\n\nBundesanstalt für Virusseuchenbekämpfung bei Haustieren Robert Kochgasse 17 A - 2340 Mödling Tel. (43-2) 236 466 40-0 Fax (43-2) 236 466 40-941 E-mail: BATSB VetMoedling@compuserve.com\n\nPortugal:\n\nLaboratório Nacional de Investigação Veterinária Estrada de Benfica, 701 P - 1549-011 Lisboa Tel. (351) 21 711 52 00 Fax (351) 21 711 53 836 E-mail: dir.Inlv@mail.telepac.pt\n\nFinlândia:\n\nDanish Institute for Virus Research Lindholm DK - 4771 Kalvehave Tlf. (45) 55 86 02 00 Fax (45) 55 86 03 00 E-mail: sviv@vetvirus.dk\n\nSuécia:\n\nStatens veterinärmedicinska anstalt, SVA S - 751 89 Uppsala Tfn (00-46) 18 67 40 00 Fax (00-46) 18 30 91 62 E-post: sva@sva.se\n\nReino Unido:\n\nInstitute for Animal Health Pirbright Laboratory Ash Road\n\nPirbright\n\nWoking\n\nSurrey GU24 ONF United Kingdom Tel. (44-1483) 23 24 41 Fax (44-1483) 23 24 48 E-mail: philip-mellor@bbsrc.ac.uk\n\nB. FUNÇÕES DOS LABORATÓRIOS NACIONAIS DA FEBRE CATARRAL OVINA\n\nOs laboratórios nacionais da febre catarral ovina serão responsáveis pela coordenação das normas e dos métodos de diagnóstico estabelecidos por cada laboratório de diagnóstico do Estado-Membro, pela utilização de reagentes e pelo teste de vacinas. Para esse efeito, os laboratórios nacionais:\n\na) Poderão fornecer reagentes de diagnóstico aos laboratórios de diagnóstico que o solicitarem;\n\nb) Controlarão a qualidade de todos os reagentes de diagnóstico utilizados nesse Estado-Membro;\n\nc) Organizarão periodicamente testes comparativos;\n\nd) Conservarão isolados do vírus da febre catarral ovina a partir de casos confirmados nesse Estado-Membro;\n\ne) Assegurarão a confirmação dos resultados positivos obtidos nos laboratórios de diagnóstico regionais."
+  },
+  "b32ab28349639f7e": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nA. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINA/EF-REFERENCELABORATORIUM FOR BLUETONGUE/GEMEINSCHAFTLICHES REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEIT/ΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥ/COMMUNITY REFERENCE LABORATORY FOR BLUETONGUE/LABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTON/LABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINI/COMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUE/LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINA/LAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIO/GEMENSKAPENS REFERENSLABORATORIUM FÖR BLUETONGUE\n\nAFRC Institute for Animal Health Pirbright Laboratory Ash Road\n\nPirbright\n\nWoking\n\nSurrey GU24 ONF United Kingdom Tel. (44-1483) 23 24 41 Fax (44-1483) 23 24 48 E-mail: philip-mellor@bbsrc.ac.uk\n\nB. FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA FEBRE CATARRAL OVINA\n\nSão as seguintes as funções do laboratório comunitário de referência:\n\n1. Coordenar, em consulta com a Comissão, os métodos de diagnóstico da febre catarral ovina nos Estados-Membros, nomeadamente, mediante:\n\na) A caracterização, posse e fornecimento das estirpes do vírus da febre catarral ovina destinados aos testes serológicos e à preparação do anti-soro;\n\nb) O fornecimento dos soros de referência e de outros reagentes de referência aos laboratórios nacionais de referência para a normalização dos testes e dos reagentes utilizados em cada Estado-Membro;\n\nc) A constituição e a conservação de uma colecção de estirpes e isolados do vírus da febre catarral ovina;\n\nd) A organização periódica de testes comunitários comparativos dos processos de diagnóstico;\n\ne) A recolha e a classificação dos dados e informações relativos aos métodos de diagnóstico utilizados e os resultados dos testes efectuados na Comunidade;\n\nf) A caracterização dos isolados do vírus da febre catarral ovina pelos métodos mais avançados, de modo a permitir uma melhor compreensão de epizootiologia da febre catarral ovina;\n\ng) O acompanhamento da evolução da situação em todo o mundo em matéria de vigilância, epizootiologia e de prevenção da febre catarral ovina.\n\n2. Prestar ajuda activa na identificação de focos de febre catarral ovina nos Estados-Membros através do estudo dos isolados de vírus que lhe sejam enviados para confirmação do diagnóstico, caracterização e estudos epizootiológicos.\n\n3. Facilitar a formação ou reciclagem dos peritos em diagnóstico de laboratório para harmonização das técnicas de diagnóstico em toda a Comunidade.\n\n4. Proceder a trocas de informação mútuas e recíprocas com o laboratório mundial da febre catarral ovina designado pela Organização Internacional das Epizootias (OIE), nomeadamente no que respeita à evolução da situação mundial em matéria de febre catarral ovina."
+  },
+  "be82e83fbe864aee": {
+   "fragment_id": "ANEXO III — CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO III — CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO\n\nOs planos de intervenção devem prever pelo menos:\n\n1. A criação, a nível nacional, de um centro de crise que coordenará todas as medidas de urgência no Estado-Membro em causa.\n\n2. Uma lista dos centros locais de urgência que dispõem de equipamento adequado para coordenar as medidas de controlo a nível local.\n\n3. Informações pormenorizadas sobre o pessoal envolvido nas medidas de urgência, as respectivas qualificações profissionais e responsabilidades.\n\n4. A possibilidade de os centros locais de urgência contactarem rapidamente as pessoas ou organizações, directa ou indirectamente envolvidas, em caso de ocorrência de um foco de infecção.\n\n5. Material e equipamento adequado disponível para levar a efeito as medidas de urgência.\n\n6. Instruções precisas relativamente às acções a desenvolver em caso de suspeita e confirmação da infecção ou contaminação, incluindo meios de destruição das carcaças.\n\n7. Programas de formação com vista à actualização e desenvolvimento dos conhecimentos em matéria de actuação in loco e de processos administrativos.\n\n8. Para os laboratórios de diagnóstico, instalações adequadas para exames post mortem, capacidade necessária para análises de serologia, histologia, etc., e técnicas actualizadas e diagnóstico rápido (devem ser previstas as condições necessárias para o rápido transporte das amostras).\n\n9. Precisões sobre a quantidade de vacina contra a febre catarral ovina estimada necessária em caso de recurso à vacinação de emergência.\n\n10. Disposições regulamentares necessárias à execução dos planos de intervenção."
+  },
+  "69161a3bad0bf3db": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Novembro de 2000\n\nque aprova disposições específicas relativas às medidas de luta e de erradicação da febre catarral ovina ou língua azul\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/119/CEE do Conselho, de 17 de Dezembro de 1992, que estabelece medidas comunitárias gerais de luta contra certas doenças animais, bem como medidas específicas respeitantes à doença vesiculosa do suíno ([^1^](http://publications.europa.eu/resource/cellar/9b2b587e-f209-4436-8637-9b224ff00e72.0016.03/DOC_1#E0001)), e, nomeadamente, o segundo travessão do seu artigo 15.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) Em conformidade com o disposto no artigo 15.º da Directiva 92/119/CEE, importa prever medidas específicas de luta e erradicação da febre catarral ovina ou língua azul.\n\n(2) As características epidemiológicas da febre catarral ovina são comparáveis às da peste equina.\n\n(3) O Conselho aprovou a Directiva 92/35/CEE ([^2^](http://publications.europa.eu/resource/cellar/9b2b587e-f209-4436-8637-9b224ff00e72.0016.03/DOC_1#E0002)) que define as regras de controlo e as medidas de luta contra a peste equina.\n\n(4) Para lutar contra a febre catarral ovina, é conveniente inspirar-se, nas suas grandes linhas, nas medidas previstas na Directiva 92/35/CEE de luta contra a peste equina, introduzindo-lhes as adaptações apropriadas em função das características da criação das espécies sensíveis à febre catarral ovina.\n\n(5) Importa fixar as regras aplicáveis aos movimentos das espécies sensíveis, e dos respectivos sémen, óvulos e de embriões, a partir das zonas sujeitas a restrições em virtude do aparecimento da doença.\n\n(6) Em caso de aparecimento da febre catarral ovina, aplica-se o disposto no artigo 3.º da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^3^](http://publications.europa.eu/resource/cellar/9b2b587e-f209-4436-8637-9b224ff00e72.0016.03/DOC_1#E0003)).\n\n(7) É necessário estabelecer um processo que institua uma cooperação estreita entre os Estados-Membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "af11eeb18b945648": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\na) «Exploração», um estabelecimento agrícola ou outro em que, permanente ou temporariamente, são criados ou mantidos animais das espécies sensíveis à febre catarral ovina;\n\nb) «Espécie sensível», qualquer espécie de ruminante;\n\nc) «Animal», qualquer animal pertencente a uma espécie sensível, com exclusão dos animais selvagens, para os quais poderão ser fixadas disposições específicas nos termos do n.º 2 do artigo 20.º;\n\nd) «Proprietário ou criador», a ou as pessoas singulares ou colectivas que detêm a propriedade dos animais ou que estão encarregadas da sua manutenção, mediante remuneração ou não;\n\ne) «Vector», o insecto da espécie *culicoides imicola* ou qualquer outro insecto culicóide susceptível de transmitir a febre catarral ovina, a identificar nos termos do n.º 2 do artigo 20.º, após parecer do Comité Científico Veterinário;\n\nf) «Suspeita», o aparecimento de qualquer sinal clínico que evoque a febre catarral ovina numa das espécies sensíveis, associado a um conjunto de dados epidemiológicos que permitam considerar razoavelmente esta eventualidade;\n\ng) «Confirmação», a declaração, pela autoridade competente, da circulação numa zona determinada do vírus da febre catarral ovina com base em resultados laboratoriais; no entanto, em caso de epidemia, a autoridade competente poderá igualmente confirmar a doença com base em resultados clínicos e/ou epidemiológicos;\n\nh) «Autoridade competente», a autoridade central de um Estado-Membro competente para efectuar os controlos veterinários, ou qualquer autoridade veterinária em que essa autoridade central tenha delegado esta competência;\n\ni) «Veterinário oficial», o veterinário designado pela autoridade competente."
+  },
+  "60c44a103602a26d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sempre que numa exploração situada numa região não sujeita a restrições, na acepção da presente directiva, existirem um ou vários animais suspeitos de contaminação pela febre catarral ovina, os Estados-Membros providenciam para que o veterinário oficial accione imediatamente os meios oficiais de investigação a fim de confirmar ou infirmar a presença da doença.\n\n2. Imediatamente após a notificação da suspeita, o veterinário oficial:\n\na) Manda colocar a ou as explorações suspeitas sob vigilância oficial;\n\nb) Manda proceder:\n\ni) a um recenseamento oficial dos animais que indique, para cada espécie, o número de animais já mortos, infectados ou susceptíveis de estarem infectados, bem como à actualização desse recenseamento, a fim de ter em conta os animais nascidos ou mortos durante o período de suspeita; as informações deste recenseamento devem ser apresentadas sempre que forem solicitadas e podem ser controladas em cada visita;\n\nii) ao recenseamento dos locais susceptíveis de favorecerem a sobrevivência do vector ou de o alojar, e em especial ao dos locais propícios à sua reprodução;\n\niii) a um inquérito epidemiológico nos termos do artigo 7.º;\n\nc) Efectua visitas regulares à exploração ou às explorações, devendo, nessas ocasiões, proceder a um exame clínico aprofundado ou à autópsia dos animais suspeitos ou mortos, e confirma a doença, se necessário, através de exames laboratoriais;\n\nd) Toma as medidas necessárias para que:\n\ni) seja proibida toda a circulação de animais do interior da ou das explorações para fora da(s) mesma(s) e vice-versa;\n\nii) os animais sejam confinados nas horas de actividade dos vectores, quando considerar que estão disponíveis os meios necessários à execução desta medida;\n\niii) sejam regularmente efectuados tratamentos com o auxílio de insecticidas autorizados nos animais, instalações utilizadas para o seu alojamento e imediações destas últimas (em especial nos locais ecologicamente propícios à existência de populações de culicóides). O ritmo dos tratamentos deve ser fixado pela autoridade competente e deve atender à quantidade ainda existente do insecticida utilizado e às condições climáticas, a fim de evitar, tanto quanto possível, os ataques dos vectores;\n\niv) os cadáveres dos animais mortos na exploração sejam destruídos, eliminados, incinerados ou enterrados em conformidade com a Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe, e que altera a Directiva 90/425/CEE ([^4^](http://publications.europa.eu/resource/cellar/9b2b587e-f209-4436-8637-9b224ff00e72.0016.03/DOC_1#E0004)).\n\n3. Na pendência da aplicação das medidas estabelecidas no n.º 2, o proprietário ou criador de qualquer animal que se suspeite estar atingido pela doença em causa deve tomar todas as medidas cautelares adequadas para dar cumprimento ao disposto na alínea d), subalíneas i) e ii), do n.º 2.\n\n4. A autoridade competente pode aplicar qualquer das medidas previstas no n.º 2 a outras explorações, caso a sua implantação, situação geográfica ou contactos com a exploração em que existe suspeita da doença permitam suspeitar da possibilidade de contaminação.\n\n5. Além das disposições estabelecidas no n.º 2, podem ser previstas disposições específicas nos termos do n.º 2 do artigo 20.º para as reservas naturais onde os animais vivem em liberdade.\n\n6. As medidas referidas no presente artigo só serão suspensas pelo veterinário oficial quando tiver sido infirmada, pela autoridade competente, a suspeita de febre catarral ovina."
+  },
+  "97246fe3e0496e9c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Sempre que a presença da febre catarral ovina seja oficialmente confirmada, o veterinário oficial:\n\na) Manda proceder, informando do facto a Comissão, aos abates que sejam considerados necessários para evitar a extensão da epidemia;\n\nb) Manda destruir, eliminar, incinerar ou enterrar os cadáveres desses animais, em conformidade com a Directiva 90/667/CEE;\n\nc) Alarga as medidas previstas no artigo 4.º às explorações situadas num raio de 20 quilómetros (incluída a zona de protecção definida no artigo 8.º) à volta da ou das explorações infectadas;\n\nd) Põe em prática as medidas adoptadas nos termos do artigo 20.º, nomeadamente no que se refere à execução de um programa de vacinação ou de qualquer outra medida alternativa; em caso de necessidade, a autoridade competente de um Estado-Membro pode, informando do facto a Comissão, tomar a iniciativa de começar um programa de vacinação;\n\ne) Manda proceder a um inquérito epidemiológico nos termos do artigo 7.º\n\nTodavia, em derrogação da alínea c), podem ser tomadas nos termos do n.º 2 do artigo 20.º disposições aplicáveis à circulação dos animais na zona.\n\n2. A zona referida na alínea c) do n.º 1 pode ser alargada ou reduzida pela autoridade competente em função das circunstâncias epidemiológicas, geográficas, ecológicas ou meteorológicas. Desse facto deve informar a Comissão.\n\n3. No caso de a zona referida na alínea c) do n.º 1 se situar no território de vários Estados-Membros, as autoridades competentes dos Estados-Membros em causa colaboram a fim de delimitar a zona. Se necessário, a zona será delimitada nos termos do n.º 2 do artigo 20.º"
+  },
+  "742ada76e4a98171": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O inquérito epidemiológico abrange:\n\na) A duração do período durante o qual a febre catarral ovina pode ter existido na exploração;\n\nb) A origem possível da febre catarral ovina na exploração e a determinação das outras explorações em que se encontram animais que possam ter sido infectados ou contaminados a partir dessa mesma origem;\n\nc) A presença e distribuição dos vectores da doença;\n\nd) A circulação de animais a partir de ou com destino às explorações em causa ou a eventual saída de cadáveres de animais das referidas explorações.\n\n2. A fim de garantir uma coordenação total de todas as medidas necessárias para assegurar a erradicação da febre catarral ovina no mais breve prazo, e tendo em vista a realização do inquérito epidemiológico, é criada uma unidade de crise.\n\nAs regras gerais respeitantes às unidades de crise nacionais e à unidade de crise comunitária são aprovadas nos termos do n.º 2 do artigo 20.º"
+  },
+  "28a2be40e0ae707e": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-Membros providenciam para que, em complemento das medidas referidas no artigo 6.º, a autoridade competente delimite uma zona de protecção e uma zona de vigilância. A delimitação destas zonas deve atender a factores de carácter geográfico, administrativo, ecológico e epizootiológico ligados à febre catarral ovina, bem como às estruturas de controlo.\n\na) A zona de protecção é constituída por uma parte do território comunitário com um raio de, pelo menos, 100 quilómetros à volta de toda a exploração infectada;\n\nb) A zona de vigilância é constituída por uma parte do território comunitário com uma extensão mínima de 50 quilómetros para além dos limites da zona de protecção e na qual não tenha sido feita qualquer vacinação sistemática no decurso dos últimos 12 meses;\n\nc) No caso de estas zonas se situarem no território de vários Estados-Membros, as autoridades competentes dos Estados-Membros em causa colaboram a fim de delimitarem as zonas referidas nas alíneas a) e b);\n\nd) No entanto, se necessário, a zona de protecção e a zona de vigilância são delimitadas nos termos do n.º 2 do artigo 20.º\n\n3. Na sequência de um pedido devidamente fundamentado por parte de um Estado-Membro, pode ser tomada uma decisão, nos termos do n.º 2 do artigo 20.º, com vista a alterar a delimitação das zonas definidas no n.º 2 do presente artigo, atendendo:\n\na) À sua situação geográfica e a factores ecológicos;\n\nb) Às condições meteorológicas;\n\nc) À presença e distribuição do vector;\n\nd) Aos resultados de estudos epizootiológicos efectuados em conformidade com o artigo 7.º;\n\ne) Aos resultados dos exames laboratoriais;\n\nf) À aplicação de medidas de luta, nomeadamente de desinsectização."
+  },
+  "5eadf6658308ae84": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-Membros providenciam para que sejam aplicadas, na zona de protecção, as seguintes medidas:\n\na) Identificação de todas as explorações da zona em que existam animais;\n\nb) Implementação, pela autoridade competente, de um programa de epidemiovigilância baseado no acompanhamento de grupos de bovinos (ou, na sua ausência, de outras espécies de ruminantes) sentinelas e das populações de vectores; esse programa pode ser estabelecido nos termos do n.º 2 do artigo 20.º;\n\nc) Proibição de saída dos animais da zona. No entanto, nos termos do n.º 2 do artigo 20.º, podem ser decididas derrogações à proibição de saída, nomeadamente para os animais situados numa parte da zona em que tenha sido demonstrada a ausência de circulação viral ou a ausência de vectores.\n\n2. Em complemento das medidas previstas no n.º 1, pode ser decidida, nos termos do n.º 2 do artigo 20.º, a vacinação sistemática dos animais contra a febre catarral ovina e a sua identificação na zona de protecção."
+  },
+  "d1c87fa29ae53721": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros providenciam para que:\n\n1. As medidas previstas no n.º 1 do artigo 9.º sejam aplicáveis na zona de vigilância.\n\n2. Seja proibida qualquer vacinação conta a febre catarral ovina na zona de vigilância."
+  },
+  "f0c03d3a65767f06": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs medidas tomadas em virtude dos artigos 6.º, 8.º, 9.º e 10.º serão alteradas ou revogadas nos termos do n.º 2 do artigo 20.º"
+  },
+  "78013ef9a0015cd4": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nEm derrogação dos artigos 9.º e 10.º, as disposições aplicáveis à circulação de animais dentro e a partir da zona de protecção e da zona de vigilância são estabelecidas nos termos do n.º 2 do artigo 20.º\n\nAquando da aprovação da decisão a que se refere o primeiro parágrafo, as regras aplicáveis às trocas comerciais serão estabelecidas nos mesmos termos."
+  },
+  "e09a0a68ad8c7ad5": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSempre que em determinada região a epizootia de febre catarral ovina apresentar um carácter de excepcional gravidade, todas as medidas suplementares a tomar pelos Estados-Membros são aprovadas nos termos do n.º 2 do artigo 20.º"
+  },
+  "541256414e27d093": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Em cada Estado-Membro deve ser designado um laboratório nacional encarregado de proceder aos exames laboratoriais previstos na presente directiva. Esses laboratórios nacionais, bem como as respectivas competências e obrigações, são indicados no anexo I.\n\n2. Os laboratórios nacionais indicados no anexo I devem cooperar com o laboratório de referência comunitário previsto no artigo 16.º"
+  },
+  "059d07f57fbc9c7e": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO laboratório comunitário de referência da febre catarral ovina é indicado no anexo II. Sem prejuízo das disposições previstas pela Decisão 90/424/CEE, nomeadamente do seu artigo 28.º, as funções deste laboratório estão definidas na parte B do anexo II."
+  },
+  "1d3480262ca0121a": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nNa medida em que tal seja necessário à aplicação uniforme da presente directiva, e em colaboração com as autoridades competentes, os peritos da Comissão podem efectuar controlos no local. Para esse efeito podem verificar, através do controlo de uma percentagem representativa de explorações, se as autoridades competentes controlam o cumprimento das disposições da presente directiva. A Comissão informa os Estados-Membros do resultado dos controlos efectuados.\n\nO Estado-Membro em cujo território esteja a ser efectuado um controlo deve prestar todo o apoio necessário aos peritos no cumprimento da sua missão.\n\nAs normas de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 20.º"
+  },
+  "89a991f4ef020b46": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Cada Estado-Membro elabora um plano de intervenção que especifique o modo de execução das medidas definidas na presente directiva.\n\nEste plano deve permitir o acesso às instalações, equipamentos, pessoal e outras estruturas adequadas necessários à erradicação rápida e eficaz da doença.\n\n2. Os critérios a respeitar na elaboração dos planos previstos no n.º 1 constam do anexo III.\n\nOs planos elaborados de acordo com estes critérios são apresentados à Comissão no prazo de três meses após o início da aplicação da presente directiva.\n\nA Comissão examina os planos, a fim de determinar se os mesmos permitem atingir o objectivo pretendido, e sugere ao Estado-Membro em causa quaisquer alterações necessárias, nomeadamente para garantir a sua compatibilidade com os planos dos outros Estados-Membros.\n\nA Comissão aprova os planos, eventualmente alterados, nos termos do n.º 2 do artigo 20.º\n\nPosteriormente, os planos podem ser alterados ou completados nos mesmos termos, a fim de ter em conta a evolução da situação."
+  },
+  "c9117861fd0c4e52": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA presente directiva pode, se necessário, ser modificada pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão.\n\nOs anexos são alterados nos termos do n.º 2 do artigo 20.º\n\nAs eventuais normas de execução necessárias para a aplicação da presente directiva são aprovadas nos termos do n.º 2 do artigo 20.º"
+  },
+  "f9f5d0ea64b3f681": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A Comissão é assistida pelo Comité Veterinário Permanente.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^5^](http://publications.europa.eu/resource/cellar/9b2b587e-f209-4436-8637-9b224ff00e72.0016.03/DOC_1#E0005)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de 15 dias.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "43ad09ca478b76c4": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nA Comissão pode aprovar, nos termos do n.º 2 do artigo 20.º, para um período de dois anos, as medidas transitórias necessárias para facilitar a passagem para o novo regime previsto pela presente directiva."
+  },
+  "1c42ee8947bb37a7": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "0ee8a94e8469450f": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nA. LISTA DE LABORATÓRIOS NACIONAIS PARA A FEBRE CATARRAL OVINA\n\nAT AGES: Österreichische Agentur für Gesundheit und Ernährungssicherheit GmbH — Institut für veterinärmedizinische Untersuchungen Mödling (Austrian Agency for Health and Consumer Protection-Institute for veterinary investigations Mödling)Robert Koch-Gasse 17A-2340 MödlingTel.: +43 (0) 505 55-38112Fax: +43 (0) 505 55-38108E-mail: vetmed.moedling@ages.a t\n\nBE CODA — CERVA — VARVeterinary and Agrochemical Research CentreGroeselenberg 99B-1180 Brussels\n\nCY State Veterinary LaboratoryVeterinary Services1417 AthalassaNicosia\n\nCZ —\n\nDE Friedrich-Loeffler-InstitutBundesforschungsinstitut für TiergesundheitBoddenblick 5a17493 Greifswald-Insel RiemsTel.: +49 383 51-7-0Fax: +49 383 51-7-151\n\nDK Danish Institute for Food and Veterinary Research,Dpt. of Virology,Lindholm,DK-4771 Kalvehave\n\nEE —\n\nES Centro de Investigación en Sanidad Animal INIA-CISACarretera de Algete-El Casar, km 8,Valdeolmos E-28130 (Madrid)Tel.: +34 916 202 216/202 300Fax: +34 916 202 247E-mail: arias@inia.es\n\nFI Danish Institute for Food and Veterinary Research,Dpt. of Virology,Lindholm,DK-4771 Kalvehave\n\nFR Centre de coopération internationale en recherche agronomique pour le développementCIRAD-EMVTCampus international de BaillarguetBP 503534032 Montpellier Cedex 1\n\nGB Institute for Animal HealthPirbright LaboratoryAsh RoadPirbright, WokingSurrey GU12 6DGE-mail: pirbright.reception@bbsrc.ac.uk\n\nGR Centre of Athens Veterinary Institutes25 Neapoleos Street,GR-153 10 Agia Paraskevi AttikiTel.: +30.2106010903\n\nHU Országos Állategészségügyi Intézet(Central Veterinary Institute)H-1581 Budapest146., Pf. 2.Tel.: +36-1-460-6300, +36-1-460-6317Fax: +36-1-222-6070\n\nIE Virology DivisionCentral Veterinary Research LaboratoryDepartment of Agriculture and Food LaboratoriesBackweston CampusStacumny LaneCelbridge\n\nIT Centro Nazionale di Referenza per lo studio e l’accertamento delle malattie esotiche degli animali c/o Istituto Zooprofilattico Sperimentale dell’Abruzzo e MoliseVia Campo BoarioI-64100 Teramo\n\nLT National Veterinary Laboratory(Nacionalinė veterinarijos laboratorija)J. Kairiūkščio 10LT-08409 Vilnius, Lietuva\n\nLU CODA — CERVA — VARVeterinary and Agrochemical Research CentreGroeselenberg 99B-1180 Brussels\n\nLV —\n\nMT Istituto Zooprofilatico dell'Abruzzo e MoliseVia Campo BoarioIT-64100 Teramo\n\nNL Centraal Instituut voor DierziekteControleCIDC-LelystadHoofdvestiging: Houtribweg 39Nevenvestiging: Edelhertweg 15Postbus 20048203 AA Lelystad\n\nPL Laboratory Departement of VirologyPaństwowy Instytut Weterynaryjny – Państwowy Instytut BadawczyAl. Partyzantów 57, 24-100 PuławyTel.: +48.81.886 30 51Fax: +48.81.886 25 95E-mail: sekretariat@piwet.pulawy.pl\n\nPT Laboratório Nacional de Investigação Veterinária (LNIV)Estrada de Benfica, 701P-1549-011 Lisboa\n\nSE Statens Veterinärmedicinska AnstaltDepartment of VirologySE-751 89 UppsalaTel (46-18) 674000Fax (46-18) 674467\n\nSI Univerza v LjubljaniVeterinarska fakultetaNacionalni veterinarski inštitutGerbičeva 60,SI-1000 Ljubljana\n\nSK Štátny veterinárny ústav,Pod dráhami 918,960 86 Zvolen"
+  },
+  "e06f5689c3e04264": {
+   "fragment_id": "B. FUNÇÕES DOS LABORATÓRIOS NACIONAIS DA FEBRE CATARRAL OVINA",
+   "type": "divisao",
+   "heading": "B. FUNÇÕES DOS LABORATÓRIOS NACIONAIS DA FEBRE CATARRAL OVINA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. FUNÇÕES DOS LABORATÓRIOS NACIONAIS DA FEBRE CATARRAL OVINA\n\nOs laboratórios nacionais da febre catarral ovina serão responsáveis pela coordenação das normas e dos métodos de diagnóstico estabelecidos por cada laboratório de diagnóstico do Estado-Membro, pela utilização de reagentes e pelo teste de vacinas. Para esse efeito, os laboratórios nacionais:\n\na) Poderão fornecer reagentes de diagnóstico aos laboratórios de diagnóstico que o solicitarem;\n\nb) Controlarão a qualidade de todos os reagentes de diagnóstico utilizados nesse Estado-Membro;\n\nc) Organizarão periodicamente testes comparativos;\n\nd) Conservarão isolados do vírus da febre catarral ovina a partir de casos confirmados nesse Estado-Membro;\n\ne) Assegurarão a confirmação dos resultados positivos obtidos nos laboratórios de diagnóstico regionais."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "fd78f85e27b0c2b1": {
+   "fragment_id": "A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTONLABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM FÖR BLUETONGUE",
+   "type": "divisao",
+   "heading": "A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTONLABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM FÖR BLUETONGUE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTONLABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM FÖR BLUETONGUE\n\nAFRC Institute for Animal Health\n\nPirbright Laboratory\n\nAsh Road\n\nPirbright\n\nWoking\n\nSurrey GU24 ONF\n\nUnited Kingdom\n\nTel. (44-1483) 23 24 41\n\nFax (44-1483) 23 24 48\n\nE-mail: philip-mellor@bbsrc.ac.uk"
+  },
+  "5837f06dd24ce80d": {
+   "fragment_id": "B. FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA FEBRE CATARRAL OVINA",
+   "type": "divisao",
+   "heading": "B. FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA FEBRE CATARRAL OVINA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. FUNÇÕES DO LABORATÓRIO COMUNITÁRIO DE REFERÊNCIA DA FEBRE CATARRAL OVINA\n\nSão as seguintes as funções do laboratório comunitário de referência:\n\n1. Coordenar, em consulta com a Comissão, os métodos de diagnóstico da febre catarral ovina nos Estados-Membros, nomeadamente, mediante:\n\na) A caracterização, posse e fornecimento das estirpes do vírus da febre catarral ovina destinados aos testes serológicos e à preparação do anti-soro;\n\nb) O fornecimento dos soros de referência e de outros reagentes de referência aos laboratórios nacionais de referência para a normalização dos testes e dos reagentes utilizados em cada Estado-Membro;\n\nc) A constituição e a conservação de uma colecção de estirpes e isolados do vírus da febre catarral ovina;\n\nd) A organização periódica de testes comunitários comparativos dos processos de diagnóstico;\n\ne) A recolha e a classificação dos dados e informações relativos aos métodos de diagnóstico utilizados e os resultados dos testes efectuados na Comunidade;\n\nf) A caracterização dos isolados do vírus da febre catarral ovina pelos métodos mais avançados, de modo a permitir uma melhor compreensão de epizootiologia da febre catarral ovina;\n\ng) O acompanhamento da evolução da situação em todo o mundo em matéria de vigilância, epizootiologia e de prevenção da febre catarral ovina.\n\n2. Prestar ajuda activa na identificação de focos de febre catarral ovina nos Estados-Membros através do estudo dos isolados de vírus que lhe sejam enviados para confirmação do diagnóstico, caracterização e estudos epizootiológicos.\n\n3. Facilitar a formação ou reciclagem dos peritos em diagnóstico de laboratório para harmonização das técnicas de diagnóstico em toda a Comunidade.\n\n4. Proceder a trocas de informação mútuas e recíprocas com o laboratório mundial da febre catarral ovina designado pela Organização Internacional das Epizootias (OIE), nomeadamente no que respeita à evolução da situação mundial em matéria de febre catarral ovina."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "592f950d698a5c27": {
+   "fragment_id": "CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO",
+   "type": "divisao",
+   "heading": "CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS MÍNIMOS PARA A ELABORAÇÃO DOS PLANOS DE INTERVENÇÃO\n\nOs planos de intervenção devem prever pelo menos:\n\n1. A criação, a nível nacional, de um centro de crise que coordenará todas as medidas de urgência no Estado-Membro em causa.\n\n2. Uma lista dos centros locais de urgência que dispõem de equipamento adequado para coordenar as medidas de controlo a nível local.\n\n3. Informações pormenorizadas sobre o pessoal envolvido nas medidas de urgência, as respectivas qualificações profissionais e responsabilidades.\n\n4. A possibilidade de os centros locais de urgência contactarem rapidamente as pessoas ou organizações, directa ou indirectamente envolvidas, em caso de ocorrência de um foco de infecção.\n\n5. Material e equipamento adequado disponível para levar a efeito as medidas de urgência.\n\n6. Instruções precisas relativamente às acções a desenvolver em caso de suspeita e confirmação da infecção ou contaminação, incluindo meios de destruição das carcaças.\n\n7. Programas de formação com vista à actualização e desenvolvimento dos conhecimentos em matéria de actuação *in loco* e de processos administrativos.\n\n8. Para os laboratórios de diagnóstico, instalações adequadas para exames *post mortem*, capacidade necessária para análises de serologia, histologia, etc., e técnicas actualizadas e diagnóstico rápido (devem ser previstas as condições necessárias para o rápido transporte das amostras).\n\n9. Precisões sobre a quantidade de vacina contra a febre catarral ovina estimada necessária em caso de recurso à vacinação de emergência.\n\n10. Disposições regulamentares necessárias à execução dos planos de intervenção.\n\n---"
+  },
+  "f900e59d8ad8989b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9b2b587e-f209-4436-8637-9b224ff00e72.0016.03/DOC_1#src.E0001)) JO L 62 de 15.3.1993, p. 69. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9b2b587e-f209-4436-8637-9b224ff00e72.0016.03/DOC_1#src.E0002)) JO L 157 de 10.6.1992, p. 19. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9b2b587e-f209-4436-8637-9b224ff00e72.0016.03/DOC_1#src.E0003)) JO L 224 de 18.8.1990, p. 19. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1258/1999 (JO L 160 de 26.6.1999, p. 103).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9b2b587e-f209-4436-8637-9b224ff00e72.0016.03/DOC_1#src.E0004)) JO L 363 de 27.12.1990, p. 51. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9b2b587e-f209-4436-8637-9b224ff00e72.0016.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 2."
+  },
+  "6e4289a3f9d96bee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Novembro de 2000\n\nque aprova disposições específicas relativas às medidas de luta e de erradicação da febre catarral ovina ou língua azul\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/119/CEE do Conselho, de 17 de Dezembro de 1992, que estabelece medidas comunitárias gerais de luta contra certas doenças animais, bem como medidas específicas respeitantes à doença vesiculosa do suíno ([^1^](http://publications.europa.eu/resource/cellar/b4826442-cf3a-4e1a-9801-573372a2a332.0016.03/DOC_1#E0001)), e, nomeadamente, o segundo travessão do seu artigo 15.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) Em conformidade com o disposto no artigo 15.º da Directiva 92/119/CEE, importa prever medidas específicas de luta e erradicação da febre catarral ovina ou língua azul.\n\n(2) As características epidemiológicas da febre catarral ovina são comparáveis às da peste equina.\n\n(3) O Conselho aprovou a Directiva 92/35/CEE ([^2^](http://publications.europa.eu/resource/cellar/b4826442-cf3a-4e1a-9801-573372a2a332.0016.03/DOC_1#E0002)) que define as regras de controlo e as medidas de luta contra a peste equina.\n\n(4) Para lutar contra a febre catarral ovina, é conveniente inspirar-se, nas suas grandes linhas, nas medidas previstas na Directiva 92/35/CEE de luta contra a peste equina, introduzindo-lhes as adaptações apropriadas em função das características da criação das espécies sensíveis à febre catarral ovina.\n\n(5) Importa fixar as regras aplicáveis aos movimentos das espécies sensíveis, e dos respectivos sémen, óvulos e de embriões, a partir das zonas sujeitas a restrições em virtude do aparecimento da doença.\n\n(6) Em caso de aparecimento da febre catarral ovina, aplica-se o disposto no artigo 3.º da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^3^](http://publications.europa.eu/resource/cellar/b4826442-cf3a-4e1a-9801-573372a2a332.0016.03/DOC_1#E0003)).\n\n(7) É necessário estabelecer um processo que institua uma cooperação estreita entre os Estados-Membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d7c990f63b70b840": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sempre que numa exploração situada numa região não sujeita a restrições, na acepção da presente directiva, existirem um ou vários animais suspeitos de contaminação pela febre catarral ovina, os Estados-Membros providenciam para que o veterinário oficial accione imediatamente os meios oficiais de investigação a fim de confirmar ou infirmar a presença da doença.\n\n2. Imediatamente após a notificação da suspeita, o veterinário oficial:\n\na) Manda colocar a ou as explorações suspeitas sob vigilância oficial;\n\nb) Manda proceder:\n\ni) a um recenseamento oficial dos animais que indique, para cada espécie, o número de animais já mortos, infectados ou susceptíveis de estarem infectados, bem como à actualização desse recenseamento, a fim de ter em conta os animais nascidos ou mortos durante o período de suspeita; as informações deste recenseamento devem ser apresentadas sempre que forem solicitadas e podem ser controladas em cada visita;\n\nii) ao recenseamento dos locais susceptíveis de favorecerem a sobrevivência do vector ou de o alojar, e em especial ao dos locais propícios à sua reprodução;\n\niii) a um inquérito epidemiológico nos termos do artigo 7.º;\n\nc) Efectua visitas regulares à exploração ou às explorações, devendo, nessas ocasiões, proceder a um exame clínico aprofundado ou à autópsia dos animais suspeitos ou mortos, e confirma a doença, se necessário, através de exames laboratoriais;\n\nd) Toma as medidas necessárias para que:\n\ni) seja proibida toda a circulação de animais do interior da ou das explorações para fora da(s) mesma(s) e vice-versa;\n\nii) os animais sejam confinados nas horas de actividade dos vectores, quando considerar que estão disponíveis os meios necessários à execução desta medida;\n\niii) sejam regularmente efectuados tratamentos com o auxílio de insecticidas autorizados nos animais, instalações utilizadas para o seu alojamento e imediações destas últimas (em especial nos locais ecologicamente propícios à existência de populações de culicóides). O ritmo dos tratamentos deve ser fixado pela autoridade competente e deve atender à quantidade ainda existente do insecticida utilizado e às condições climáticas, a fim de evitar, tanto quanto possível, os ataques dos vectores;\n\niv) os cadáveres dos animais mortos na exploração sejam destruídos, eliminados, incinerados ou enterrados em conformidade com a Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe, e que altera a Directiva 90/425/CEE ([^4^](http://publications.europa.eu/resource/cellar/b4826442-cf3a-4e1a-9801-573372a2a332.0016.03/DOC_1#E0004)).\n\n3. Na pendência da aplicação das medidas estabelecidas no n.º 2, o proprietário ou criador de qualquer animal que se suspeite estar atingido pela doença em causa deve tomar todas as medidas cautelares adequadas para dar cumprimento ao disposto na alínea d), subalíneas i) e ii), do n.º 2.\n\n4. A autoridade competente pode aplicar qualquer das medidas previstas no n.º 2 a outras explorações, caso a sua implantação, situação geográfica ou contactos com a exploração em que existe suspeita da doença permitam suspeitar da possibilidade de contaminação.\n\n5. Além das disposições estabelecidas no n.º 2, podem ser previstas disposições específicas nos termos do n.º 2 do artigo 20.º para as reservas naturais onde os animais vivem em liberdade.\n\n6. As medidas referidas no presente artigo só serão suspensas pelo veterinário oficial quando tiver sido infirmada, pela autoridade competente, a suspeita de febre catarral ovina."
+  },
+  "69947ffa3650c9d5": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A Comissão é assistida pelo Comité Veterinário Permanente.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^5^](http://publications.europa.eu/resource/cellar/b4826442-cf3a-4e1a-9801-573372a2a332.0016.03/DOC_1#E0005)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de 15 dias.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "9b67ad42540f7711": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nA. СПИСЪК НА НАЦИОНАЛНИТЕ ЛАБОРАТОРИИ ЗА СИН ЕЗИК\n\n| AT | AGES: Österreichische Agentur für Gesundheit und Ernährungssicherheit GmbH — Institut für veterinärmedizinische Untersuchungen Mödling (Austrian Agency for Health and Consumer Protection-Institute for veterinary investigations Mödling)Robert Koch-Gasse 17A-2340 MödlingTel.: +43 (0) 505 55-38112Fax: +43 (0) 505 55-38108E-mail: vetmed.moedling@ages.a t |\n| --- | --- |\n| BE | CODA — CERVA — VARVeterinary and Agrochemical Research CentreGroeselenberg 99B-1180 Brussels |\n| [▼M2](http://publications.europa.eu/resource/celex/32006L0104) |  |\n| BG | (Instituto Nacional de Investigação e Diagnóstico Veterinários«Prof. Dr. Georgi Pavlov»Laboratório Nacional de Referência para a febre catarral15, Pencho Slaveykov Blvd.1606 Sófia) |\n| [▼M1](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| CY | State Veterinary LaboratoryVeterinary Services1417 AthalassaNicosia |\n| CZ | — |\n| DE | Friedrich-Loeffler-InstitutBundesforschungsinstitut für TiergesundheitBoddenblick 5a17493 Greifswald-Insel RiemsTel.: +49 383 51-7-0Fax: +49 383 51-7-151 |\n| DK | Danish Institute for Food and Veterinary Research,Dpt. of Virology,Lindholm,DK-4771 Kalvehave |\n| EE | — |\n| ES | Centro de Investigación en Sanidad Animal INIA-CISACarretera de Algete-El Casar, km 8,Valdeolmos E-28130 (Madrid)Tel.: +34 916 202 216/202 300Fax: +34 916 202 247E-mail: arias@inia.es |\n| FI | Danish Institute for Food and Veterinary Research,Dpt. of Virology,Lindholm,DK-4771 Kalvehave |\n| FR | Centre de coopération internationale en recherche agronomique pour le développementCIRAD-EMVTCampus international de BaillarguetBP 503534032 Montpellier Cedex 1 |\n| GB | Institute for Animal HealthPirbright LaboratoryAsh RoadPirbright, WokingSurrey GU12 6DGE-mail: pirbright.reception@bbsrc.ac.uk |\n| GR | Centre of Athens Veterinary Institutes25 Neapoleos Street,GR-153 10 Agia Paraskevi AttikiTel.: +30.2106010903 |\n| HU | Országos Állategészségügyi Intézet(Central Veterinary Institute)H-1581 Budapest146., Pf. 2.Tel.: +36-1-460-6300, +36-1-460-6317Fax: +36-1-222-6070 |\n| IE | Virology DivisionCentral Veterinary Research LaboratoryDepartment of Agriculture and Food LaboratoriesBackweston CampusStacumny LaneCelbridge |\n| IT | Centro Nazionale di Referenza per lo studio e l’accertamento delle malattie esotiche degli animali c/o Istituto Zooprofilattico Sperimentale dell’Abruzzo e MoliseVia Campo BoarioI-64100 Teramo |\n| LT | National Veterinary Laboratory(Nacionalinė veterinarijos laboratorija)J. Kairiūkščio 10LT-08409 Vilnius, Lietuva |\n| LU | CODA — CERVA — VARVeterinary and Agrochemical Research CentreGroeselenberg 99B-1180 Brussels |\n| LV | — |\n| MT | Istituto Zooprofilatico dell'Abruzzo e MoliseVia Campo BoarioIT-64100 Teramo |\n| NL | Centraal Instituut voor DierziekteControleCIDC-LelystadHoofdvestiging: Houtribweg 39Nevenvestiging: Edelhertweg 15Postbus 20048203 AA Lelystad |\n| PL | Laboratory Departement of VirologyPaństwowy Instytut Weterynaryjny – Państwowy Instytut BadawczyAl. Partyzantów 57, 24-100 PuławyTel.: +48.81.886 30 51Fax: +48.81.886 25 95E-mail: sekretariat@piwet.pulawy.pl |\n| PT | Laboratório Nacional de Investigação Veterinária (LNIV)Estrada de Benfica, 701P-1549-011 Lisboa |\n| [▼M2](http://publications.europa.eu/resource/celex/32006L0104) |  |\n| RO | Institutul de Diagnostic și Sănătate AnimalăStrada Dr. Staicovici nr. 63, sector 5codul 050557, București |\n| [▼M1](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| SE | Statens Veterinärmedicinska AnstaltDepartment of VirologySE-751 89 UppsalaTel (46-18) 674000Fax (46-18) 674467 |\n| SI | Univerza v LjubljaniVeterinarska fakultetaNacionalni veterinarski inštitutGerbičeva 60,SI-1000 Ljubljana |\n| SK | Štátny veterinárny ústav,Pod dráhami 918,960 86 Zvolen |"
+  },
+  "3fcdca7a11a70ab0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b4826442-cf3a-4e1a-9801-573372a2a332.0016.03/DOC_1#src.E0001)) JO L 62 de 15.3.1993, p. 69. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b4826442-cf3a-4e1a-9801-573372a2a332.0016.03/DOC_1#src.E0002)) JO L 157 de 10.6.1992, p. 19. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b4826442-cf3a-4e1a-9801-573372a2a332.0016.03/DOC_1#src.E0003)) JO L 224 de 18.8.1990, p. 19. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1258/1999 (JO L 160 de 26.6.1999, p. 103).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b4826442-cf3a-4e1a-9801-573372a2a332.0016.03/DOC_1#src.E0004)) JO L 363 de 27.12.1990, p. 51. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b4826442-cf3a-4e1a-9801-573372a2a332.0016.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 2."
+  },
+  "7f5f95cc5a88ee06": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Novembro de 2000\n\nque aprova disposições específicas relativas às medidas de luta e de erradicação da febre catarral ovina ou língua azul\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/119/CEE do Conselho, de 17 de Dezembro de 1992, que estabelece medidas comunitárias gerais de luta contra certas doenças animais, bem como medidas específicas respeitantes à doença vesiculosa do suíno ([^1^](http://publications.europa.eu/resource/cellar/d95e214c-a7d4-43a3-9172-2748c02d4cea.0017.03/DOC_1#E0001)), e, nomeadamente, o segundo travessão do seu artigo 15.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) Em conformidade com o disposto no artigo 15.º da Directiva 92/119/CEE, importa prever medidas específicas de luta e erradicação da febre catarral ovina ou língua azul.\n\n(2) As características epidemiológicas da febre catarral ovina são comparáveis às da peste equina.\n\n(3) O Conselho aprovou a Directiva 92/35/CEE ([^2^](http://publications.europa.eu/resource/cellar/d95e214c-a7d4-43a3-9172-2748c02d4cea.0017.03/DOC_1#E0002)) que define as regras de controlo e as medidas de luta contra a peste equina.\n\n(4) Para lutar contra a febre catarral ovina, é conveniente inspirar-se, nas suas grandes linhas, nas medidas previstas na Directiva 92/35/CEE de luta contra a peste equina, introduzindo-lhes as adaptações apropriadas em função das características da criação das espécies sensíveis à febre catarral ovina.\n\n(5) Importa fixar as regras aplicáveis aos movimentos das espécies sensíveis, e dos respectivos sémen, óvulos e de embriões, a partir das zonas sujeitas a restrições em virtude do aparecimento da doença.\n\n(6) Em caso de aparecimento da febre catarral ovina, aplica-se o disposto no artigo 3.º da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^3^](http://publications.europa.eu/resource/cellar/d95e214c-a7d4-43a3-9172-2748c02d4cea.0017.03/DOC_1#E0003)).\n\n(7) É necessário estabelecer um processo que institua uma cooperação estreita entre os Estados-Membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "362596de351a975f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sempre que numa exploração situada numa região não sujeita a restrições, na acepção da presente directiva, existirem um ou vários animais suspeitos de contaminação pela febre catarral ovina, os Estados-Membros providenciam para que o veterinário oficial accione imediatamente os meios oficiais de investigação a fim de confirmar ou infirmar a presença da doença.\n\n2. Imediatamente após a notificação da suspeita, o veterinário oficial:\n\na) Manda colocar a ou as explorações suspeitas sob vigilância oficial;\n\nb) Manda proceder:\n\ni) a um recenseamento oficial dos animais que indique, para cada espécie, o número de animais já mortos, infectados ou susceptíveis de estarem infectados, bem como à actualização desse recenseamento, a fim de ter em conta os animais nascidos ou mortos durante o período de suspeita; as informações deste recenseamento devem ser apresentadas sempre que forem solicitadas e podem ser controladas em cada visita;\n\nii) ao recenseamento dos locais susceptíveis de favorecerem a sobrevivência do vector ou de o alojar, e em especial ao dos locais propícios à sua reprodução;\n\niii) a um inquérito epidemiológico nos termos do artigo 7.º;\n\nc) Efectua visitas regulares à exploração ou às explorações, devendo, nessas ocasiões, proceder a um exame clínico aprofundado ou à autópsia dos animais suspeitos ou mortos, e confirma a doença, se necessário, através de exames laboratoriais;\n\nd) Toma as medidas necessárias para que:\n\ni) seja proibida toda a circulação de animais do interior da ou das explorações para fora da(s) mesma(s) e vice-versa;\n\nii) os animais sejam confinados nas horas de actividade dos vectores, quando considerar que estão disponíveis os meios necessários à execução desta medida;\n\niii) sejam regularmente efectuados tratamentos com o auxílio de insecticidas autorizados nos animais, instalações utilizadas para o seu alojamento e imediações destas últimas (em especial nos locais ecologicamente propícios à existência de populações de culicóides). O ritmo dos tratamentos deve ser fixado pela autoridade competente e deve atender à quantidade ainda existente do insecticida utilizado e às condições climáticas, a fim de evitar, tanto quanto possível, os ataques dos vectores;\n\niv) os cadáveres dos animais mortos na exploração sejam destruídos, eliminados, incinerados ou enterrados em conformidade com a Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe, e que altera a Directiva 90/425/CEE ([^4^](http://publications.europa.eu/resource/cellar/d95e214c-a7d4-43a3-9172-2748c02d4cea.0017.03/DOC_1#E0004)).\n\n3. Na pendência da aplicação das medidas estabelecidas no n.º 2, o proprietário ou criador de qualquer animal que se suspeite estar atingido pela doença em causa deve tomar todas as medidas cautelares adequadas para dar cumprimento ao disposto na alínea d), subalíneas i) e ii), do n.º 2.\n\n4. A autoridade competente pode aplicar qualquer das medidas previstas no n.º 2 a outras explorações, caso a sua implantação, situação geográfica ou contactos com a exploração em que existe suspeita da doença permitam suspeitar da possibilidade de contaminação.\n\n5. Além das disposições estabelecidas no n.º 2, podem ser previstas disposições específicas nos termos do n.º 2 do artigo 20.º para as reservas naturais onde os animais vivem em liberdade.\n\n6. As medidas referidas no presente artigo só serão suspensas pelo veterinário oficial quando tiver sido infirmada, pela autoridade competente, a suspeita de febre catarral ovina."
+  },
+  "ffd330dfc56678ed": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A Comissão é assistida pelo Comité Veterinário Permanente.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^5^](http://publications.europa.eu/resource/cellar/d95e214c-a7d4-43a3-9172-2748c02d4cea.0017.03/DOC_1#E0005)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de 15 dias.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "b1a138e96b84fcc6": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nA. СПИСЪК НА НАЦИОНАЛНИТЕ ЛАБОРАТОРИИ ЗА СИН ЕЗИК\n\n| AT | AGES: Österreichische Agentur für Gesundheit und Ernährungssicherheit GmbH — Institut für veterinärmedizinische Untersuchungen Mödling (Austrian Agency for Health and Consumer Protection-Institute for veterinary investigations Mödling)Robert Koch-Gasse 17A-2340 MödlingTel.: +43 (0) 505 55-38112Fax: +43 (0) 505 55-38108E-mail: vetmed.moedling@ages.a t |\n| --- | --- |\n| BE | CODA — CERVA — VARVeterinary and Agrochemical Research CentreGroeselenberg 99B-1180 Brussels |\n| [▼M2](http://publications.europa.eu/resource/celex/32006L0104) |  |\n| BG | (Instituto Nacional de Investigação e Diagnóstico Veterinários«Prof. Dr. Georgi Pavlov»Laboratório Nacional de Referência para a febre catarral15, Pencho Slaveykov Blvd.1606 Sófia) |\n| [▼M1](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| CY | State Veterinary LaboratoryVeterinary Services1417 AthalassaNicosia |\n| [▼M3](http://publications.europa.eu/resource/celex/32007D0729) |  |\n| CZ | Státní veterinární ústav JihlavaRantířovská 93586 05 JihlavaWebsite: http://www.svujihlava.czTel.: (420) 567 14 31 11Fax: (420) 567 14 32 62E-mail: info@svujihlava.cz |\n| DE | Friedrich-Loeffler-InstitutBundesforschungsinstitut für TiergesundheitBoddenblick 5a17493 Greifswald — Insel RiemsTel. (49-38351) 7-0Fax (49-38351) 7-219E-Mail: poststelle@fli.bund.de |\n| DK | National Veterinary Institute, Technical University of DenmarkLindholmDK-4771 Kalvehave |\n| [▼M1](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| EE | — |\n| ES | Centro de Investigación en Sanidad Animal INIA-CISACarretera de Algete-El Casar, km 8,Valdeolmos E-28130 (Madrid)Tel.: +34 916 202 216/202 300Fax: +34 916 202 247E-mail: arias@inia.es |\n| FI | Danish Institute for Food and Veterinary Research,Dpt. of Virology,Lindholm,DK-4771 Kalvehave |\n| FR | Centre de coopération internationale en recherche agronomique pour le développementCIRAD-EMVTCampus international de BaillarguetBP 503534032 Montpellier Cedex 1 |\n| GB | Institute for Animal HealthPirbright LaboratoryAsh RoadPirbright, WokingSurrey GU12 6DGE-mail: pirbright.reception@bbsrc.ac.uk |\n| GR | Centre of Athens Veterinary Institutes25 Neapoleos Street,GR-153 10 Agia Paraskevi AttikiTel.: +30.2106010903 |\n| [▼M3](http://publications.europa.eu/resource/celex/32007D0729) |  |\n| HU | Mezőgazdasági Szakigazgatási Hivatal Központ, Állat-egészségügyi Diagnosztikai IgazgatóságCentral Agricultural Office, Veterinary Diagnostic DirectorateAddress: 1149 Budapest, Tábornok u. 2.Mailing Address: 1581 Budapest, 146. Pf. 2.Tel.: +36 1 460-6300Fax: +36 1 252-5177E-mail: titkarsag@oai.hu |\n| [▼M1](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| IE | Virology DivisionCentral Veterinary Research LaboratoryDepartment of Agriculture and Food LaboratoriesBackweston CampusStacumny LaneCelbridge |\n| IT | Centro Nazionale di Referenza per lo studio e l’accertamento delle malattie esotiche degli animali c/o Istituto Zooprofilattico Sperimentale dell’Abruzzo e MoliseVia Campo BoarioI-64100 Teramo |\n| LT | National Veterinary Laboratory(Nacionalinė veterinarijos laboratorija)J. Kairiūkščio 10LT-08409 Vilnius, Lietuva |\n| LU | CODA — CERVA — VARVeterinary and Agrochemical Research CentreGroeselenberg 99B-1180 Brussels |\n| LV | — |\n| MT | Istituto Zooprofilatico dell'Abruzzo e MoliseVia Campo BoarioIT-64100 Teramo |\n| NL | Centraal Instituut voor DierziekteControleCIDC-LelystadHoofdvestiging: Houtribweg 39Nevenvestiging: Edelhertweg 15Postbus 20048203 AA Lelystad |\n| PL | Laboratory Departement of VirologyPaństwowy Instytut Weterynaryjny – Państwowy Instytut BadawczyAl. Partyzantów 57, 24-100 PuławyTel.: +48.81.886 30 51Fax: +48.81.886 25 95E-mail: sekretariat@piwet.pulawy.pl |\n| PT | Laboratório Nacional de Investigação Veterinária (LNIV)Estrada de Benfica, 701P-1549-011 Lisboa |\n| [▼M2](http://publications.europa.eu/resource/celex/32006L0104) |  |\n| RO | Institutul de Diagnostic și Sănătate AnimalăStrada Dr. Staicovici nr. 63, sector 5codul 050557, București |\n| [▼M1](http://publications.europa.eu/resource/celex/32006D0911) |  |\n| SE | Statens Veterinärmedicinska AnstaltDepartment of VirologySE-751 89 UppsalaTel (46-18) 674000Fax (46-18) 674467 |\n| SI | Univerza v LjubljaniVeterinarska fakultetaNacionalni veterinarski inštitutGerbičeva 60,SI-1000 Ljubljana |\n| SK | Štátny veterinárny ústav,Pod dráhami 918,960 86 Zvolen |"
+  },
+  "041902c685c2d323": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d95e214c-a7d4-43a3-9172-2748c02d4cea.0017.03/DOC_1#src.E0001)) JO L 62 de 15.3.1993, p. 69. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d95e214c-a7d4-43a3-9172-2748c02d4cea.0017.03/DOC_1#src.E0002)) JO L 157 de 10.6.1992, p. 19. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d95e214c-a7d4-43a3-9172-2748c02d4cea.0017.03/DOC_1#src.E0003)) JO L 224 de 18.8.1990, p. 19. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1258/1999 (JO L 160 de 26.6.1999, p. 103).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d95e214c-a7d4-43a3-9172-2748c02d4cea.0017.03/DOC_1#src.E0004)) JO L 363 de 27.12.1990, p. 51. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d95e214c-a7d4-43a3-9172-2748c02d4cea.0017.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 2."
+  },
+  "0b031d3c5ede71a1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Novembro de 2000\n\nque aprova disposições específicas relativas às medidas de luta e de erradicação da febre catarral ovina ou língua azul\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/119/CEE do Conselho, de 17 de Dezembro de 1992, que estabelece medidas comunitárias gerais de luta contra certas doenças animais, bem como medidas específicas respeitantes à doença vesiculosa do suíno ([^1^](http://publications.europa.eu/resource/cellar/1eaf3a9f-81d9-431e-991c-0f8b297c0a5f.0017.03/DOC_1#E0001)), e, nomeadamente, o segundo travessão do seu artigo 15.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) Em conformidade com o disposto no artigo 15.º da Directiva 92/119/CEE, importa prever medidas específicas de luta e erradicação da febre catarral ovina ou língua azul.\n\n(2) As características epidemiológicas da febre catarral ovina são comparáveis às da peste equina.\n\n(3) O Conselho aprovou a Directiva 92/35/CEE ([^2^](http://publications.europa.eu/resource/cellar/1eaf3a9f-81d9-431e-991c-0f8b297c0a5f.0017.03/DOC_1#E0002)) que define as regras de controlo e as medidas de luta contra a peste equina.\n\n(4) Para lutar contra a febre catarral ovina, é conveniente inspirar-se, nas suas grandes linhas, nas medidas previstas na Directiva 92/35/CEE de luta contra a peste equina, introduzindo-lhes as adaptações apropriadas em função das características da criação das espécies sensíveis à febre catarral ovina.\n\n(5) Importa fixar as regras aplicáveis aos movimentos das espécies sensíveis, e dos respectivos sémen, óvulos e de embriões, a partir das zonas sujeitas a restrições em virtude do aparecimento da doença.\n\n(6) Em caso de aparecimento da febre catarral ovina, aplica-se o disposto no artigo 3.º da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^3^](http://publications.europa.eu/resource/cellar/1eaf3a9f-81d9-431e-991c-0f8b297c0a5f.0017.03/DOC_1#E0003)).\n\n(7) É necessário estabelecer um processo que institua uma cooperação estreita entre os Estados-Membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0d1881144569e32d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sempre que numa exploração situada numa região não sujeita a restrições, na acepção da presente directiva, existirem um ou vários animais suspeitos de contaminação pela febre catarral ovina, os Estados-Membros providenciam para que o veterinário oficial accione imediatamente os meios oficiais de investigação a fim de confirmar ou infirmar a presença da doença.\n\n2. Imediatamente após a notificação da suspeita, o veterinário oficial:\n\na) Manda colocar a ou as explorações suspeitas sob vigilância oficial;\n\nb) Manda proceder:\n\ni) a um recenseamento oficial dos animais que indique, para cada espécie, o número de animais já mortos, infectados ou susceptíveis de estarem infectados, bem como à actualização desse recenseamento, a fim de ter em conta os animais nascidos ou mortos durante o período de suspeita; as informações deste recenseamento devem ser apresentadas sempre que forem solicitadas e podem ser controladas em cada visita;\n\nii) ao recenseamento dos locais susceptíveis de favorecerem a sobrevivência do vector ou de o alojar, e em especial ao dos locais propícios à sua reprodução;\n\niii) a um inquérito epidemiológico nos termos do artigo 7.º;\n\nc) Efectua visitas regulares à exploração ou às explorações, devendo, nessas ocasiões, proceder a um exame clínico aprofundado ou à autópsia dos animais suspeitos ou mortos, e confirma a doença, se necessário, através de exames laboratoriais;\n\nd) Toma as medidas necessárias para que:\n\ni) seja proibida toda a circulação de animais do interior da ou das explorações para fora da(s) mesma(s) e vice-versa;\n\nii) os animais sejam confinados nas horas de actividade dos vectores, quando considerar que estão disponíveis os meios necessários à execução desta medida;\n\niii) sejam regularmente efectuados tratamentos com o auxílio de insecticidas autorizados nos animais, instalações utilizadas para o seu alojamento e imediações destas últimas (em especial nos locais ecologicamente propícios à existência de populações de culicóides). O ritmo dos tratamentos deve ser fixado pela autoridade competente e deve atender à quantidade ainda existente do insecticida utilizado e às condições climáticas, a fim de evitar, tanto quanto possível, os ataques dos vectores;\n\niv) os cadáveres dos animais mortos na exploração sejam destruídos, eliminados, incinerados ou enterrados em conformidade com a Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe, e que altera a Directiva 90/425/CEE ([^4^](http://publications.europa.eu/resource/cellar/1eaf3a9f-81d9-431e-991c-0f8b297c0a5f.0017.03/DOC_1#E0004)).\n\n3. Na pendência da aplicação das medidas estabelecidas no n.º 2, o proprietário ou criador de qualquer animal que se suspeite estar atingido pela doença em causa deve tomar todas as medidas cautelares adequadas para dar cumprimento ao disposto na alínea d), subalíneas i) e ii), do n.º 2.\n\n4. A autoridade competente pode aplicar qualquer das medidas previstas no n.º 2 a outras explorações, caso a sua implantação, situação geográfica ou contactos com a exploração em que existe suspeita da doença permitam suspeitar da possibilidade de contaminação.\n\n5. Além das disposições estabelecidas no n.º 2, podem ser previstas disposições específicas nos termos do n.º 2 do artigo 20.º para as reservas naturais onde os animais vivem em liberdade.\n\n6. As medidas referidas no presente artigo só serão suspensas pelo veterinário oficial quando tiver sido infirmada, pela autoridade competente, a suspeita de febre catarral ovina."
+  },
+  "790131382e478618": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os Estados-Membros designam um laboratório nacional encarregado de proceder aos exames laboratoriais previstos na presente directiva e disponibilizam os dados relativos a esse laboratório, bem como eventuais alterações, aos demais Estados-Membros e ao público.\n\nPodem ser aprovadas nos termos do n.º 2 do artigo 20.º regras de execução para uma aplicação uniformizada do presente número.\n\n2. As tarefas dos laboratórios nacionais designados em conformidade com o disposto no n.º 1 são indicadas no anexo I.\n\n3. Os laboratórios nacionais designados em conformidade com o disposto no n.º 1 do presente artigo devem cooperar com o laboratório comunitário de referência a que se refere o artigo 16.º."
+  },
+  "21ef49e727c49c7f": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A Comissão é assistida pelo Comité Veterinário Permanente.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^5^](http://publications.europa.eu/resource/cellar/1eaf3a9f-81d9-431e-991c-0f8b297c0a5f.0017.03/DOC_1#E0005)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de 15 dias.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "97895148d22a0aa9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/1eaf3a9f-81d9-431e-991c-0f8b297c0a5f.0017.03/DOC_1#src.E0001)) JO L 62 de 15.3.1993, p. 69. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/1eaf3a9f-81d9-431e-991c-0f8b297c0a5f.0017.03/DOC_1#src.E0002)) JO L 157 de 10.6.1992, p. 19. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/1eaf3a9f-81d9-431e-991c-0f8b297c0a5f.0017.03/DOC_1#src.E0003)) JO L 224 de 18.8.1990, p. 19. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1258/1999 (JO L 160 de 26.6.1999, p. 103).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/1eaf3a9f-81d9-431e-991c-0f8b297c0a5f.0017.03/DOC_1#src.E0004)) JO L 363 de 27.12.1990, p. 51. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/1eaf3a9f-81d9-431e-991c-0f8b297c0a5f.0017.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 2."
+  },
+  "93609bd3b28546ad": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Novembro de 2000\n\nque aprova disposições específicas relativas às medidas de luta e de erradicação da febre catarral ovina ou língua azul\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/119/CEE do Conselho, de 17 de Dezembro de 1992, que estabelece medidas comunitárias gerais de luta contra certas doenças animais, bem como medidas específicas respeitantes à doença vesiculosa do suíno ([^1^](http://publications.europa.eu/resource/cellar/89463065-59c2-47d9-90ce-7f08045c891d.0018.03/DOC_1#E0001)), e, nomeadamente, o segundo travessão do seu artigo 15.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) Em conformidade com o disposto no artigo 15.º da Directiva 92/119/CEE, importa prever medidas específicas de luta e erradicação da febre catarral ovina ou língua azul.\n\n(2) As características epidemiológicas da febre catarral ovina são comparáveis às da peste equina.\n\n(3) O Conselho aprovou a Directiva 92/35/CEE ([^2^](http://publications.europa.eu/resource/cellar/89463065-59c2-47d9-90ce-7f08045c891d.0018.03/DOC_1#E0002)) que define as regras de controlo e as medidas de luta contra a peste equina.\n\n(4) Para lutar contra a febre catarral ovina, é conveniente inspirar-se, nas suas grandes linhas, nas medidas previstas na Directiva 92/35/CEE de luta contra a peste equina, introduzindo-lhes as adaptações apropriadas em função das características da criação das espécies sensíveis à febre catarral ovina.\n\n(5) Importa fixar as regras aplicáveis aos movimentos das espécies sensíveis, e dos respectivos sémen, óvulos e de embriões, a partir das zonas sujeitas a restrições em virtude do aparecimento da doença.\n\n(6) Em caso de aparecimento da febre catarral ovina, aplica-se o disposto no artigo 3.º da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^3^](http://publications.europa.eu/resource/cellar/89463065-59c2-47d9-90ce-7f08045c891d.0018.03/DOC_1#E0003)).\n\n(7) É necessário estabelecer um processo que institua uma cooperação estreita entre os Estados-Membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "781e0f02b13fb554": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\na) «Exploração», um estabelecimento agrícola ou outro em que, permanente ou temporariamente, são criados ou mantidos animais das espécies sensíveis à febre catarral ovina;\n\nb) «Espécie sensível», qualquer espécie de ruminante;\n\nc) «Animal», qualquer animal pertencente a uma espécie sensível, com exclusão dos animais selvagens, para os quais poderão ser fixadas disposições específicas nos termos do n.º 2 do artigo 20.º;\n\nd) «Proprietário ou criador», a ou as pessoas singulares ou colectivas que detêm a propriedade dos animais ou que estão encarregadas da sua manutenção, mediante remuneração ou não;\n\ne) «Vector», o insecto da espécie *culicoides imicola* ou qualquer outro insecto culicóide susceptível de transmitir a febre catarral ovina, a identificar nos termos do n.º 2 do artigo 20.º, após parecer do Comité Científico Veterinário;\n\nf) «Suspeita», o aparecimento de qualquer sinal clínico que evoque a febre catarral ovina numa das espécies sensíveis, associado a um conjunto de dados epidemiológicos que permitam considerar razoavelmente esta eventualidade;\n\ng) «Confirmação», a declaração, pela autoridade competente, da circulação numa zona determinada do vírus da febre catarral ovina com base em resultados laboratoriais; no entanto, em caso de epidemia, a autoridade competente poderá igualmente confirmar a doença com base em resultados clínicos e/ou epidemiológicos;\n\nh) «Autoridade competente», a autoridade central de um Estado-Membro competente para efectuar os controlos veterinários, ou qualquer autoridade veterinária em que essa autoridade central tenha delegado esta competência;\n\ni) «Veterinário oficial», o veterinário designado pela autoridade competente;\n\nj) «Vacinas vivas atenuadas», vacinas produzidas por adaptação de isolados do vírus da febre catarral ovina através de passagens em série na cultura de tecidos ou em ovos de galinha embrionados."
+  },
+  "b70edd0007b2095c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sempre que numa exploração situada numa região não sujeita a restrições, na acepção da presente directiva, existirem um ou vários animais suspeitos de contaminação pela febre catarral ovina, os Estados-Membros providenciam para que o veterinário oficial accione imediatamente os meios oficiais de investigação a fim de confirmar ou infirmar a presença da doença.\n\n2. Imediatamente após a notificação da suspeita, o veterinário oficial:\n\na) Manda colocar a ou as explorações suspeitas sob vigilância oficial;\n\nb) Manda proceder:\n\ni) a um recenseamento oficial dos animais que indique, para cada espécie, o número de animais já mortos, infectados ou susceptíveis de estarem infectados, bem como à actualização desse recenseamento, a fim de ter em conta os animais nascidos ou mortos durante o período de suspeita; as informações deste recenseamento devem ser apresentadas sempre que forem solicitadas e podem ser controladas em cada visita;\n\nii) ao recenseamento dos locais susceptíveis de favorecerem a sobrevivência do vector ou de o alojar, e em especial ao dos locais propícios à sua reprodução;\n\niii) a um inquérito epidemiológico nos termos do artigo 7.º;\n\nc) Efectua visitas regulares à exploração ou às explorações, devendo, nessas ocasiões, proceder a um exame clínico aprofundado ou à autópsia dos animais suspeitos ou mortos, e confirma a doença, se necessário, através de exames laboratoriais;\n\nd) Toma as medidas necessárias para que:\n\ni) seja proibida toda a circulação de animais do interior da ou das explorações para fora da(s) mesma(s) e vice-versa;\n\nii) os animais sejam confinados nas horas de actividade dos vectores, quando considerar que estão disponíveis os meios necessários à execução desta medida;\n\niii) sejam regularmente efectuados tratamentos com o auxílio de insecticidas autorizados nos animais, instalações utilizadas para o seu alojamento e imediações destas últimas (em especial nos locais ecologicamente propícios à existência de populações de culicóides). O ritmo dos tratamentos deve ser fixado pela autoridade competente e deve atender à quantidade ainda existente do insecticida utilizado e às condições climáticas, a fim de evitar, tanto quanto possível, os ataques dos vectores;\n\niv) os cadáveres dos animais mortos na exploração sejam destruídos, eliminados, incinerados ou enterrados em conformidade com a Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe, e que altera a Directiva 90/425/CEE ([^4^](http://publications.europa.eu/resource/cellar/89463065-59c2-47d9-90ce-7f08045c891d.0018.03/DOC_1#E0004)).\n\n3. Na pendência da aplicação das medidas estabelecidas no n.º 2, o proprietário ou criador de qualquer animal que se suspeite estar atingido pela doença em causa deve tomar todas as medidas cautelares adequadas para dar cumprimento ao disposto na alínea d), subalíneas i) e ii), do n.º 2.\n\n4. A autoridade competente pode aplicar qualquer das medidas previstas no n.º 2 a outras explorações, caso a sua implantação, situação geográfica ou contactos com a exploração em que existe suspeita da doença permitam suspeitar da possibilidade de contaminação.\n\n5. Além das disposições estabelecidas no n.º 2, podem ser previstas disposições específicas nos termos do n.º 2 do artigo 20.º para as reservas naturais onde os animais vivem em liberdade.\n\n6. As medidas referidas no presente artigo só serão suspensas pelo veterinário oficial quando tiver sido infirmada, pela autoridade competente, a suspeita de febre catarral ovina."
+  },
+  "f89a175da868156e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A autoridade competente de um Estado-Membro pode decidir autorizar a utilização de vacinas contra a febre catarral ovina desde que:\n\na) Essa decisão seja tomada com base no resultado de uma avaliação de riscos específica realizada pela autoridade competente;\n\nb) A Comissão seja informada antes de a vacinação ser efetuada.\n\n2. Caso sejam utilizadas vacinas vivas atenuadas, os Estados-Membros devem assegurar que a autoridade competente delimite:\n\na) Uma zona de proteção, constituída pelo menos pela zona de vacinação;\n\nb) Uma zona de vigilância, constituída por uma parte do território da União com uma extensão mínima de 50 quilómetros para além dos limites da zona de proteção."
+  },
+  "2490b60912ff23b2": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Sempre que a presença da febre catarral ovina seja oficialmente confirmada, o veterinário oficial:\n\na) Manda proceder, informando do facto a Comissão, aos abates que sejam considerados necessários para evitar a extensão da epidemia;\n\nb) Manda destruir, eliminar, incinerar ou enterrar os cadáveres desses animais, em conformidade com a Directiva 90/667/CEE;\n\nc) Alarga as medidas previstas no artigo 4.º às explorações situadas num raio de 20 quilómetros (incluída a zona de protecção definida no artigo 8.º) à volta da ou das explorações infectadas;\n\nd) Põe em prática as medidas adotadas nos termos do artigo 20.º, n.º 2, nomeadamente no que se refere à execução de um programa de vacinação ou de outras medidas alternativas;\n\ne) Manda proceder a um inquérito epidemiológico nos termos do artigo 7.º\n\nTodavia, em derrogação da alínea c), podem ser tomadas nos termos do n.º 2 do artigo 20.º disposições aplicáveis à circulação dos animais na zona.\n\n2. A zona referida na alínea c) do n.º 1 pode ser alargada ou reduzida pela autoridade competente em função das circunstâncias epidemiológicas, geográficas, ecológicas ou meteorológicas. Desse facto deve informar a Comissão.\n\n3. No caso de a zona referida na alínea c) do n.º 1 se situar no território de vários Estados-Membros, as autoridades competentes dos Estados-Membros em causa colaboram a fim de delimitar a zona. Se necessário, a zona será delimitada nos termos do n.º 2 do artigo 20.º"
+  },
+  "5a876cb43e6b1082": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-Membros providenciam para que, em complemento das medidas referidas no artigo 6.º, a autoridade competente delimite uma zona de protecção e uma zona de vigilância. A delimitação destas zonas deve atender a factores de carácter geográfico, administrativo, ecológico e epizootiológico ligados à febre catarral ovina, bem como às estruturas de controlo.\n\na) A zona de protecção é constituída por uma parte do território comunitário com um raio de, pelo menos, 100 quilómetros à volta de toda a exploração infectada;\n\nb) A zona de vigilância deve ser constituída por uma parte do território da União com uma extensão mínima de 50 quilómetros para além dos limites da zona de proteção e na qual não tenha sido feita qualquer vacinação contra a febre catarral ovina com vacinas vivas atenuadas no decurso dos últimos 12 meses;\n\nc) No caso de estas zonas se situarem no território de vários Estados-Membros, as autoridades competentes dos Estados-Membros em causa colaboram a fim de delimitarem as zonas referidas nas alíneas a) e b);\n\nd) No entanto, se necessário, a zona de protecção e a zona de vigilância são delimitadas nos termos do n.º 2 do artigo 20.º\n\n3. Na sequência de um pedido devidamente fundamentado por parte de um Estado-Membro, pode ser tomada uma decisão, nos termos do n.º 2 do artigo 20.º, com vista a alterar a delimitação das zonas definidas no n.º 2 do presente artigo, atendendo:\n\na) À sua situação geográfica e a factores ecológicos;\n\nb) Às condições meteorológicas;\n\nc) À presença e distribuição do vector;\n\nd) Aos resultados de estudos epizootiológicos efectuados em conformidade com o artigo 7.º;\n\ne) Aos resultados dos exames laboratoriais;\n\nf) À aplicação de medidas de luta, nomeadamente de desinsectização."
+  },
+  "59f842b0f492a49f": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros providenciam para que:\n\n1. As medidas previstas no n.º 1 do artigo 9.º sejam aplicáveis na zona de vigilância.\n\n2. Seja proibida qualquer vacinação conta a febre catarral ovina com vacinas vivas atenuadas na zona de vigilância."
+  },
+  "946637b85e09aaa0": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A Comissão é assistida pelo Comité Veterinário Permanente.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^5^](http://publications.europa.eu/resource/cellar/89463065-59c2-47d9-90ce-7f08045c891d.0018.03/DOC_1#E0005)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de 15 dias.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "c156e7d5358893b3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/89463065-59c2-47d9-90ce-7f08045c891d.0018.03/DOC_1#src.E0001)) JO L 62 de 15.3.1993, p. 69. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/89463065-59c2-47d9-90ce-7f08045c891d.0018.03/DOC_1#src.E0002)) JO L 157 de 10.6.1992, p. 19. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/89463065-59c2-47d9-90ce-7f08045c891d.0018.03/DOC_1#src.E0003)) JO L 224 de 18.8.1990, p. 19. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1258/1999 (JO L 160 de 26.6.1999, p. 103).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/89463065-59c2-47d9-90ce-7f08045c891d.0018.03/DOC_1#src.E0004)) JO L 363 de 27.12.1990, p. 51. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/89463065-59c2-47d9-90ce-7f08045c891d.0018.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 2."
+  },
+  "46b2585688ee0f4f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Novembro de 2000\n\nque aprova disposições específicas relativas às medidas de luta e de erradicação da febre catarral ovina ou língua azul\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/119/CEE do Conselho, de 17 de Dezembro de 1992, que estabelece medidas comunitárias gerais de luta contra certas doenças animais, bem como medidas específicas respeitantes à doença vesiculosa do suíno ([^1^](http://publications.europa.eu/resource/cellar/d4e6f801-9b76-4b08-a116-a5c90b62b55d.0018.04/DOC_1#E0001)), e, nomeadamente, o segundo travessão do seu artigo 15.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) Em conformidade com o disposto no artigo 15.º da Directiva 92/119/CEE, importa prever medidas específicas de luta e erradicação da febre catarral ovina ou língua azul.\n\n(2) As características epidemiológicas da febre catarral ovina são comparáveis às da peste equina.\n\n(3) O Conselho aprovou a Directiva 92/35/CEE ([^2^](http://publications.europa.eu/resource/cellar/d4e6f801-9b76-4b08-a116-a5c90b62b55d.0018.04/DOC_1#E0002)) que define as regras de controlo e as medidas de luta contra a peste equina.\n\n(4) Para lutar contra a febre catarral ovina, é conveniente inspirar-se, nas suas grandes linhas, nas medidas previstas na Directiva 92/35/CEE de luta contra a peste equina, introduzindo-lhes as adaptações apropriadas em função das características da criação das espécies sensíveis à febre catarral ovina.\n\n(5) Importa fixar as regras aplicáveis aos movimentos das espécies sensíveis, e dos respectivos sémen, óvulos e de embriões, a partir das zonas sujeitas a restrições em virtude do aparecimento da doença.\n\n(6) Em caso de aparecimento da febre catarral ovina, aplica-se o disposto no artigo 3.º da Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^3^](http://publications.europa.eu/resource/cellar/d4e6f801-9b76-4b08-a116-a5c90b62b55d.0018.04/DOC_1#E0003)).\n\n(7) É necessário estabelecer um processo que institua uma cooperação estreita entre os Estados-Membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ba484b40210edfa7": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sempre que numa exploração situada numa região não sujeita a restrições, na acepção da presente directiva, existirem um ou vários animais suspeitos de contaminação pela febre catarral ovina, os Estados-Membros providenciam para que o veterinário oficial accione imediatamente os meios oficiais de investigação a fim de confirmar ou infirmar a presença da doença.\n\n2. Imediatamente após a notificação da suspeita, o veterinário oficial:\n\na) Manda colocar a ou as explorações suspeitas sob vigilância oficial;\n\nb) Manda proceder:\n\ni) a um recenseamento oficial dos animais que indique, para cada espécie, o número de animais já mortos, infectados ou susceptíveis de estarem infectados, bem como à actualização desse recenseamento, a fim de ter em conta os animais nascidos ou mortos durante o período de suspeita; as informações deste recenseamento devem ser apresentadas sempre que forem solicitadas e podem ser controladas em cada visita;\n\nii) ao recenseamento dos locais susceptíveis de favorecerem a sobrevivência do vector ou de o alojar, e em especial ao dos locais propícios à sua reprodução;\n\niii) a um inquérito epidemiológico nos termos do artigo 7.º;\n\nc) Efectua visitas regulares à exploração ou às explorações, devendo, nessas ocasiões, proceder a um exame clínico aprofundado ou à autópsia dos animais suspeitos ou mortos, e confirma a doença, se necessário, através de exames laboratoriais;\n\nd) Toma as medidas necessárias para que:\n\ni) seja proibida toda a circulação de animais do interior da ou das explorações para fora da(s) mesma(s) e vice-versa;\n\nii) os animais sejam confinados nas horas de actividade dos vectores, quando considerar que estão disponíveis os meios necessários à execução desta medida;\n\niii) sejam regularmente efectuados tratamentos com o auxílio de insecticidas autorizados nos animais, instalações utilizadas para o seu alojamento e imediações destas últimas (em especial nos locais ecologicamente propícios à existência de populações de culicóides). O ritmo dos tratamentos deve ser fixado pela autoridade competente e deve atender à quantidade ainda existente do insecticida utilizado e às condições climáticas, a fim de evitar, tanto quanto possível, os ataques dos vectores;\n\niv) os cadáveres dos animais mortos na exploração sejam destruídos, eliminados, incinerados ou enterrados em conformidade com a Directiva 90/667/CEE do Conselho, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e a transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe, e que altera a Directiva 90/425/CEE ([^4^](http://publications.europa.eu/resource/cellar/d4e6f801-9b76-4b08-a116-a5c90b62b55d.0018.04/DOC_1#E0004)).\n\n3. Na pendência da aplicação das medidas estabelecidas no n.º 2, o proprietário ou criador de qualquer animal que se suspeite estar atingido pela doença em causa deve tomar todas as medidas cautelares adequadas para dar cumprimento ao disposto na alínea d), subalíneas i) e ii), do n.º 2.\n\n4. A autoridade competente pode aplicar qualquer das medidas previstas no n.º 2 a outras explorações, caso a sua implantação, situação geográfica ou contactos com a exploração em que existe suspeita da doença permitam suspeitar da possibilidade de contaminação.\n\n5. Além das disposições estabelecidas no n.º 2, podem ser previstas disposições específicas nos termos do n.º 2 do artigo 20.º para as reservas naturais onde os animais vivem em liberdade.\n\n6. As medidas referidas no presente artigo só serão suspensas pelo veterinário oficial quando tiver sido infirmada, pela autoridade competente, a suspeita de febre catarral ovina."
+  },
+  "883736a9beb859c3": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A Comissão é assistida pelo Comité Veterinário Permanente.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^5^](http://publications.europa.eu/resource/cellar/d4e6f801-9b76-4b08-a116-a5c90b62b55d.0018.04/DOC_1#E0005)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de 15 dias.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "cdd6751ae2a19567": {
+   "fragment_id": "A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTON[►M6](http://publications.europa.eu/resource/celex/32013L0020) REFERENTNI LABORATORIJ ZAJEDNICE ZA BOLEST PLAVOG JEZIKA◄LABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM FÖR BLUETONGUE",
+   "type": "divisao",
+   "heading": "A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTON[►M6](http://publications.europa.eu/resource/celex/32013L0020) REFERENTNI LABORATORIJ ZAJEDNICE ZA BOLEST PLAVOG JEZIKA◄LABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM FÖR BLUETONGUE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. LABORATORIO COMUNITARIO DE REFERENCIA DE LA FIEBRE CATARRAL OVINAEF-REFERENCELABORATORIUM FOR BLUETONGUEGEMEINSCHAFTLICHES REFERENZLABORATORIUM FÜR DIE BLAUZUNGENKRANKHEITΚΟΙΝΟΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΑΝΑΦΟΡΑΣ ΓΙΑ ΤΟΝ ΚΑΤΑΡΡΟΪΚΟ ΠΥΡΕΤΟ ΤΟΥ ΠΡΟΒΑΤΟΥCOMMUNITY REFERENCE LABORATORY FOR BLUETONGUELABORATOIRE COMMUNAUTAIRE DE RÉFÉRENCE POUR LA FIÈVRE CATARRHALE DU MOUTON[►M6](http://publications.europa.eu/resource/celex/32013L0020) REFERENTNI LABORATORIJ ZAJEDNICE ZA BOLEST PLAVOG JEZIKA◄LABORATORIO COMUNITARIO DI RIFERIMENTO PER LA FEBBRE CATARRALE DEGLI OVINICOMMUNAUTAIR REFERENTIELABORATORIUM VOOR BLUETONGUELABORATÓRIO COMUNITÁRIO DE REFERÊNCIA EM RELAÇÃO À FEBRE CATARRAL OVINALAMPAAN BLUETONGUE-TAUTIA VARTEN NIMETTY YHTEISÖN VERTAILULABORATORIOGEMENSKAPENS REFERENSLABORATORIUM FÖR BLUETONGUE\n\nAFRC Institute for Animal Health\n\nPirbright Laboratory\n\nAsh Road\n\nPirbright\n\nWoking\n\nSurrey GU24 ONF\n\nUnited Kingdom\n\nTel. (44-1483) 23 24 41\n\nFax (44-1483) 23 24 48\n\nE-mail: philip-mellor@bbsrc.ac.uk"
+  },
+  "2ef74fb7cf75c214": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d4e6f801-9b76-4b08-a116-a5c90b62b55d.0018.04/DOC_1#src.E0001)) JO L 62 de 15.3.1993, p. 69. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d4e6f801-9b76-4b08-a116-a5c90b62b55d.0018.04/DOC_1#src.E0002)) JO L 157 de 10.6.1992, p. 19. Directiva alterada pelo Acto de Adesão de 1994.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d4e6f801-9b76-4b08-a116-a5c90b62b55d.0018.04/DOC_1#src.E0003)) JO L 224 de 18.8.1990, p. 19. Decisão com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1258/1999 (JO L 160 de 26.6.1999, p. 103).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d4e6f801-9b76-4b08-a116-a5c90b62b55d.0018.04/DOC_1#src.E0004)) JO L 363 de 27.12.1990, p. 51. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d4e6f801-9b76-4b08-a116-a5c90b62b55d.0018.04/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 2."
+  },
+  "3048465e1c27da8c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02000L0075 — PT — 14.07.2021 — 009.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32000L0075) [DIRECTIVA 2000/75/CE DO CONSELHO](http://publications.europa.eu/resource/celex/32000L0075) [de 20 de Novembro de 2000](http://publications.europa.eu/resource/celex/32000L0075) [que aprova disposições específicas relativas às medidas de luta e de erradicação da febre catarral ovina ou língua azul](http://publications.europa.eu/resource/celex/32000L0075) (JO L 327, 22.12.2000, p.74)\n\n**Revogada por:**\n\n- [Regulamento Delegado (UE) 2020/687 da Comissão de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32020R0687) — L 174 — 64 — 3.6.2020"
+  }
+ }
+}

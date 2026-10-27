@@ -1,0 +1,543 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0058:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0058-20191214",
+ "dre_path": null,
+ "source_lastmod": "2019-12-14",
+ "versions": [
+  {
+   "date": "1998-08-08",
+   "future": false,
+   "celex": "31998L0058",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "844a4b42b2415128",
+    "8459779a2c4cc7f6",
+    "13ed7a1ecc7d978e",
+    "54eeedc5e96627fa",
+    "74c3670fb8e6ddde",
+    "e9fb656d81de7aab",
+    "bc0d4f9996c4dfe3",
+    "d38553fc5629752e",
+    "ad944afd813bbec4",
+    "197d2ac659b4b188",
+    "72633f76d726e926",
+    "598abd05e0b408a6",
+    "656308bb6a520da6",
+    "2a905b56f5da9089"
+   ]
+  },
+  {
+   "date": "2003-06-05",
+   "future": false,
+   "celex": "01998L0058-20030605",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO — Recursos humanos",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º"
+   ],
+   "fragments": [
+    "a728580f5e93f218",
+    "1edf6d32866a626c",
+    "81dd3c8d21f4eefd",
+    "20de2514c26dea06",
+    "9af062bc0fe516f8",
+    "c11534c215d6bf30",
+    "d0590ba1cbb43e35",
+    "0df042dbbdb3de09",
+    "1a5f7b2704788d42",
+    "2c1ed35664324b5a",
+    "33058e723b752726",
+    "b20b2bf6e722609c",
+    "08b66beb65f6c7c3",
+    "90e119e4a03af6a6"
+   ]
+  },
+  {
+   "date": "2019-12-14",
+   "future": false,
+   "celex": "01998L0058-20191214",
+   "acts": [
+    {
+     "id": "eu:celex:32003R0806:por",
+     "title": "REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0806"
+    },
+    {
+     "id": "eu:celex:32017R0625:por",
+     "title": "REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017",
+     "published": null,
+     "celex": "32017R0625"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Adita ANEXO",
+    "Adita Recursos humanos",
+    "Adita Inspecção",
+    "Adita Registos",
+    "Adita Liberdade de movimentos",
+    "Adita Instalações e alojamento",
+    "Adita Animais criados ao ar livre",
+    "Adita Equipamento automático ou mecânico",
+    "Adita Alimentação, água e outras substâncias",
+    "Adita Mutilações",
+    "Adita Processos de reproducão",
+    "Adita Notas",
+    "Suprime Artigo 7.º",
+    "Suprime ANEXO — Recursos humanos"
+   ],
+   "fragments": [
+    "d7ce59806659c5e4",
+    "affc1dc99c7276be",
+    "0883d512b3dc7980",
+    "20de2514c26dea06",
+    "9af062bc0fe516f8",
+    "894b20652f97bfe1",
+    "476980401fa46cba",
+    "4838d8b8ab3eb6ec",
+    "ac95630f380df41b",
+    "f4761531d5dd630c",
+    "2183d67723a25b6b",
+    "08b66beb65f6c7c3",
+    "10220b9774fa9034",
+    "8f2e8934272d7bc6",
+    "2d6d36fc27f6ee0e",
+    "e965698f985905dd",
+    "c3ec835913c8c62a",
+    "edae05356a5b9d8c",
+    "db2ec866ec2d3bc1",
+    "3a2aeb5e57aa4bfb",
+    "f8d23ff6d23deb12",
+    "cdfa36e8eea07cfe",
+    "873133ac2f2dedfc",
+    "ded20424a7c62976"
+   ]
+  }
+ ],
+ "fragments": {
+  "844a4b42b2415128": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 98/58/CE do Conselho de 20 de Julho de 1998 relativa à protecção dos animais nas explorações pecuárias** *Jornal Oficial nº L 221 de 08/08/1998 p. 0023 - 0027*\n\nDIRECTIVA 98/58/CE DO CONSELHO de 20 de Julho de 1998 relativa à protecção dos animais nas explorações pecuárias\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que todos os Estados-membros ratificaram a Convenção Europeia relativa à protecção dos animais nos locais de criação (adiante designada «convenção»); que a Comunidade aprovou também essa Convenção pela Decisão 78/923/CEE (4) e depositou o seu instrumento de aprovação;\n\nConsiderando que a Comunidade, como parte contratante, deve aplicar os princípios estabelecidos na convenção;\n\nConsiderando que esses princípios incidem no alojamento, alimentação e cuidados apropriados às necessidades fisiológicas e etológicas dos animais de acordo com a experiência e os conhecimentos científicos;\n\nConsiderando que é também necessário que a Comunidade assegure uma aplicação uniforme da Convenção e das recomendações aprovadas ao abrigo desta e que adopte regras específicas relativas à aplicação da presente directiva;\n\nConsiderando que na resolução de 20 de Fevereiro de 1987 sobre as medidas relativas ao bem estar dos animais (5), o Parlamento Europeu solicitou à Comissão que apresentasse propostas de normas comunitárias relativas aos aspectos gerais da criação de animais;\n\nConsiderando que a declaração nº 24 anexa à Acta Final do Tratado da União Europeia exige que as Instituições Europeias e os Estados-membros, ao prepararem e ao aplicarem a legislação comunitária, nomeadamente, em matéria de política agrícola comum, tenham plenamente em consideração as exigências dos animais em matéria de bem-estar;\n\nConsiderando que as diferenças susceptíveis de falsear as condições de concorrência se opõem ao bom funcionamento da organização do mercado dos animais;\n\nConsiderando que, por conseguinte, é necessário estabelecer normas mínimas comuns relativas à protecção dos animais nas explorações de criação para assegurar o desenvolvimento racional da produção e facilitar a organização do mercado dos animais; que é necessário ter em conta as disposições em matéria de bem estar animal já enunciadas na regulamentação comunitária;\n\nConsiderando que é conveniente proceder a uma análise comparativa das disposições relativas ao bem estar dos animais, aplicáveis na Comunidade e em certos países terceiros, acompanhada de uma avaliação, a fim de determinar o carácter das próximas iniciativas comunitárias para eliminar as distorções de concorrência;\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "8459779a2c4cc7f6": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva estabelece normas mínimas de protecção dos animais nas explorações pecuárias.\n\n2. A presente directiva não é aplicável a:\n\na) Animais em meio selvagem;\n\nb) Animais destinados a concursos, espectáculos e manifestações ou actividades culturais ou desportivas;\n\nc) Animais experimentais ou de laboratório;\n\nd) Animais invertebrados.\n\n3. A presente directiva é aplicável sem prejuízo das normas comunitárias específicas contidas noutros diplomas, nomeadamente, as Directivas 88/166/CEE (6), 91/629/CEE (7) e 91/630/CEE (8), que continuarão em vigor."
+  },
+  "13ed7a1ecc7d978e": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Animal, qualquer animal (incluindo os peixes, répteis e anfíbios) criado ou mantido para produção de géneros alimentícios, lã, pele com ou sem pêlo, ou para outros fins agro-pecuários.\n\n2. Proprietário ou detentor, qualquer pessoa, singular ou colectiva, responsável ou que tenha a seu cargo animais a título permanente ou temporário.\n\n3. Autoridade competente, a autoridade competente na acepção do nº 6 do artigo 2º da Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (9)."
+  },
+  "54eeedc5e96627fa": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros tomarão disposições para que o proprietário ou detentor tome as medidas adequadas para assegurar o bem estar dos animais ao seu cuidado e para garantir que não lhes sejam causadas dores, lesões ou sofrimentos desnecessários."
+  },
+  "74c3670fb8e6ddde": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros assegurarão que as condições em que os animais (que não os peixes, répteis e anfíbios) são criados ou mantidos observem o disposto no anexo, tendo em conta as diferentes espécies e o seu nível de desenvolvimento, adaptação e domesticação e as suas necessidades fisiológicas e etológicas, segundo a experiência e os conhecimentos científicos."
+  },
+  "e9fb656d81de7aab": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. A Comissão apresentará ao Conselho as propostas que considerar necessárias para garantir a aplicação uniforme da Convenção Europeia relativa à protecção dos animais nos locais de criação e, com base numa avaliação científica, recomendações adoptadas ao seu abrigo, bem como quaisquer outras normas específicas.\n\n2. No entanto, de cinco em cinco anos, e pela primeira vez no prazo de cinco anos a contar da data de entrada em vigor da presente directiva, a Comissão, com base na experiência adquirida com a sua aplicação, nomeadamente, no que respeita às medidas referidas no nº 1 e à evolução técnica e científica, apresentará um relatório ao Conselho, eventualmente acompanhado das propostas adequadas resultantes das conclusões desse relatório.\n\n3. O Conselho deliberará sobre essas propostas por maioria qualificada."
+  },
+  "bc0d4f9996c4dfe3": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os Estados-membros assegurarão que a autoridade competente efectue inspecções a fim de garantir a observância da presente directiva. Essas inspecções podem ser efectuadas em simultâneo com controlos realizados para outros fins.\n\n2. A contar de data a determinar nos termos do nº 3, os Estados-membros apresentarão à Comissão um relatório sobre as inspecções referidas no nº 1. A Comissão apresentará um resumo desses relatórios ao Comité veterinário permanente.\n\n3. Antes de 1 de Julho de 1999, e nos termos do artigo 9º, a Comissão apresentará propostas destinadas a harmonizar:\n\na) As inspecções necessárias ao abrigo do nº 1;\n\nb) A forma, o conteúdo e a frequência de apresentação dos relatórios referidos no nº 2."
+  },
+  "d38553fc5629752e": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Na medida em que tal seja necessário para a aplicação uniforme dos requisitos da presente directiva, os peritos veterinários da Comissão podem, em colaboração com as autoridades competentes:\n\na) Verificar se os Estados-membros preenchem os referidos requisitos;\n\nb) Proceder a inspecções «in loco» para se certificar de que as inspecções são efectuadas de acordo com a presente directiva.\n\n2. Os Estados-membros em cujo território seja efectuada uma inspecção prestarão aos peritos veterinários da Comissão toda a assistência necessária ao desempenho da sua missão. Os resultados das inspecções feitas devem ser discutidos com a autoridade competente do Estado-membro envolvido antes da elaboração e distribuição de um relatório final.\n\n3. A autoridade competente do Estado-membro envolvido tomará as medidas que forem necessárias para atender aos resultados da inspecção.\n\n4. As normas de execução do presente artigo serão adoptadas, se necessário, nos termos do artigo 9º"
+  },
+  "ad944afd813bbec4": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Antes de 30 de Junho de 1999, a Comissão apresentará ao Conselho um relatório sobre:\n\n- a comparação entre as disposições relativas ao bem estar dos animais aplicáveis na Comunidade e as aplicáveis nos países terceiros que a abastecem,\n\n- a possibilidade de uma aceitação internacional mais ampla dos princípios de bem estar definidos na presente directiva,\n\n- a questão de se saber em que medida os objectivos da Comunidade em matéria de bem estar dos animais podem ser comprometidos pela concorrência de países terceiros que não aplicam normas equivalentes.\n\n2. O relatório referido no nº 1 será acompanhado das propostas necessárias, a fim de eliminar distorções de concorrência."
+  },
+  "197d2ac659b4b188": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Sempre que se faça referência ao procedimento definido no presente artigo, o Comité veterinário permanente instituído pela Decisão 68/361/CEE (10), a seguir designado «comité», será imediatamente convocado pelo seu presidente, quer por sua própria iniciativa quer a pedido de um Estado-membro.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto de medidas a tomar. O comité emitirá o seu parecer sobre este projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer é emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no referido artigo. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas projectadas, desde que sejam conformes com o parecer do comité;\n\nb) Se as medidas projectadas não forem conformes com o parecer do Comité ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, num prazo de três meses a contar da data em que lhe foi apresentada a proposta, o Conselho ainda não tiver adoptado medidas, a Comissão adoptará as medidas propostas que serão imediatamente aplicáveis, salvo nos casos em que o Conselho se tenha pronunciado por maioria simples contra essas medidas."
+  },
+  "72633f76d726e926": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas, incluindo eventuais sanções, necessárias para dar cumprimento à presente directiva, o mais tardar em 31 de Dezembro de 1999, salvo decisão do Conselho em contrário em função do relatório a que se refere o artigo 8º Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Todavia, depois de 31 de Dezembro de 1999, os Estados-membros poderão, de acordo com as regras gerais do Tratado, manter ou aplicar nos seus territórios disposições em matéria de protecção dos animais nas explorações pecuárias mais rigorosas do que as estabelecidas na presente directiva. Os Estados-membros informarão a Comissão dessas medidas.\n\n3. Os Estados-membros comunicarão à Comissão os textos das principais disposições de direito nacional que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "598abd05e0b408a6": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "656308bb6a520da6": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Julho de 1998.\n\nPelo Conselho\n\nO Presidente\n\nW. MOLTERER\n\n(1) JO C 156 de 23. 6. 1992, p. 11.\n\n(2) JO C 337 de 21. 12. 1992, p. 225.\n\n(3) JO C 332 de 16. 12. 1992, p. 22.\n\n(4) JO L 323 de 17. 11. 1978, p. 12.\n\n(5) JO C 76 de 23. 3. 1987, p. 185.\n\n(6) Directiva 88/166/CEE do Conselho, de 7 de Março de 1998, relativa à execução do Acórdão do Tribunal de Justiça do processo 131/86 (anulação da Directiva 86/113/CEE do Conselho, de 25 de Março de 1986, que estabelece as normas mínimas relativas à protecção das galinhas poedeiras em bateria (JO L 74 de 19. 3. 1998, p. 83).\n\n(7) Directiva 91/629/CEE do Conselho, de 19 de Novembro de 1991, relativa às normas mínimas de protecção dos vitelos (JO L 340 de 11. 12. 1991, p. 28). Directiva com a última redacção que lhe foi dada pela Directiva 97/2/CE (JO L 25 de 28. 1. 1997, p. 24).\n\n(8) Directiva 91/630/CEE do Conselho, de 19 de Novembro de 1991, relativa às normas mínimas de protecção de suínos (JO L 340 de 11. 12. 1991, p. 33).\n\n(9) JO L 224 de 18. 8. 1990, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 92/118/CEE (JO L 62 de 15. 3. 1993, p. 49).\n\n(10) JO L 255 de 18. 10. 1968, p. 23."
+  },
+  "2a905b56f5da9089": {
+   "fragment_id": "ANEXO — Recursos humanos",
+   "type": "divisao",
+   "heading": "ANEXO — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Recursos humanos\n\n1. Os animais devem ser tratados por pessoal em número suficiente e que possua as capacidades, conhecimentos e competência profissional adequados.\n\nInspecção\n\n2. Todos os animais mantidos em explorações pecuárias cujo bem estar dependa de cuidados humanos frequentes devem ser inspeccionados pelo menos uma vez por dia. Os animais mantidos noutros sistemas serão inspeccionados com a frequência necessária para evitar qualquer sofrimento.\n\n3. Deve existir a todo o momento iluminação adequada (fixa ou portátil) que permita a inspecção dos animais em qualquer altura.\n\n4. Os animais que pareçam estar doentes ou lesionados deverão receber imediatamente tratamento adequado e, se o animal não reagir a esse tratamento, deve ser pedido logo que possível o parecer de um veterinário. Se necessário, os animais doentes ou lesionados serão isolados em instalações adequadas, equipadas, se for caso disso, com uma cama seca e confortável.\n\nRegistos\n\n5. O proprietário ou detentor dos animais deve manter um registo dos tratamentos ministrados e do número de casos de mortalidade verificados em cada inspecção.\n\nCaso seja exigido o registo de informações equivalentes para outros efeitos, esse registo é suficiente para efeitos da presente directiva.\n\n6. Estes registos serão mantidos por um período de pelo menos três anos, devendo estar à disposição da autoridade competente durante as inspecções e sempre que sejam solicitados.\n\nLiberdade de movimentos\n\n7. A liberdade de movimentos própria dos animais, tendo em conta a espécie e de acordo com a experiência e os conhecimentos científicos, não será restringida de forma a causar-lhe lesões ou sofrimentos desnecessários.\n\nQuando os animais estejam permanente ou habitualmente presos ou amarrados, deverão dispor do espaço adequado às suas necessidades fisiológicas e etológicas de acordo com a experiência e os conhecimentos científicos.\n\nInstalações e alojamento\n\n8. Os materiais utilizados na construção de alojamentos, em especial dos compartimentos e equipamentos com que os animais possam estar em contacto, não lhes devem causar danos e devem poder ser limpos e desinfectados a fundo.\n\n9. Os alojamentos e os dispositivos para prender os animais devem ser construídos e mantidos de modo a que não existam arestas nem saliências aceradas susceptíveis de provocar ferimentos aos animais.\n\n10. O isolamento, o aquecimento e a ventilação dos edifícios devem assegurar que a circulação do ar, o teor de poeiras, a temperatura, a humidade relativa do ar e as concentrações de gases se mantenham dentro de limites que não sejam prejudiciais aos animais.\n\n11. Os animais mantidos em instalacões fechadas não devem estar nem em escuridão permanente nem serem expostos à luz artificial sem um período adequado de descanso. Quando a luz natural disponível for insuficiente para contemplar as necessidades comportamentais e fisiológicas dos animais, deve ser providenciada iluminação artificial adequada.\n\nAnimais criados ao ar livre\n\n12. Os animais criados ao ar livre devem dispor, na medida do possível e se necessário, de protecção contra as intempéries, os predadores e os riscos sanitários.\n\nEquipamento automático ou mecânico\n\n13. Todo o equipamento automático ou mecânico indispensável para a saúde e o bem estar dos animais deve ser inspeccionado pelo menos uma vez por dia. Quaisquer anomalias eventualmente detectadas devem ser imediatamente corrigidas ou, quando tal não for possível, devem ser tomadas medidas para salvaguardar a saúde e o bem estar dos animais.\n\nQuando a saúde e o bem estar dos animais depender de sistemas de ventilação artificial, deverão ser tomadas providências para que exista um sistema de recurso adequado que garanta uma renovação do ar suficiente para manter a saúde e o bem estar dos animais na eventualidade de uma falha do sistema principal, e deverá existir um sistema de alarme que advirta de qualquer avaria. O sistema de alarme deve ser ensaiado regularmente.\n\nAlimentação, água e outras substâncias\n\n14. Todos os animais devem ser alimentados com uma dieta saudável, adequada à idade e à respectiva espécie e em quantidade suficiente para os manter em bom estado de saúde e para satisfazer as suas necessidades nutricionais. Não devem ser fornecidos aos animais alimentos sólidos ou líquidos de um modo tal, ou que contenham substâncias tais, que possam causar-lhes sofrimento ou lesões desnecessários.\n\n15. Todos os animais devem ter acesso a alimentação a intervalos apropriados às suas necessidades fisiológicas.\n\n16. Os animais devem ter acesso a uma quantidade de água suficiente e de qualidade adequada ou poder satisfazer as suas necessidades de abeberamento de outra forma.\n\n17. O equipamento de fornecimento de alimentação e água deve ser concebido, construído e colocado de modo a minimizar os riscos de contaminação dos alimentos e da água e os efeitos lesivos que podem resultar da luta entre os animais para acesso aos mesmos.\n\n18. Não serão administradas aos animais quaisquer outras substâncias, com excepção das necessárias para efeitos terapêuticos ou profilácticos ou destinadas ao tratamento zootécnico definido no nº 2, alínea c), do artigo 1º da Directiva 96/22/CE (1), a menos que estudos científicos de bem estar animal ou a experiência constante tenham demonstrado que o efeito dessas outras substâncias não são lesivos da saúde ou do bem estar do animal.\n\nMutilações\n\n19. Enquanto se aguarda a adopção de disposições específicas de acordo com o disposto no artigo 5º da presente directiva, e sem prejuízo da Directiva 91/630, são aplicáveis as regras nacionais na matéria, nos termos das disposições gerais do Tratado.\n\nProcessos de reproducão\n\n20. Não serão utilizados processos naturais ou artificiais de reprodução que causem ou sejam susceptíveis de causar sofrimento ou lesões aos animais.\n\nEsta disposição não impede a utilização de determinados processos susceptíveis de provocar sofrimento ou ferimentos mínimos ou momentâneos, ou de exigir uma intervenção que não seja susceptível de causar lesões permanentes e que sejam autorizados pelas disposições nacionais.\n\n21. Os animais só poderão ser mantidos em explorações pecuárias se não se puder razoavelmente esperar, com base no respectivo genótipo ou fenótipo, que tal não virá a ter efeitos prejudiciais para a sua saúde ou bem estar.\n\n(1) Directiva 96/22/CE do Conselho, de 29 de Abril de 1996, relativa à proibição de utilização de certas substâncias com efeitos hormonais ou tireostáticos e de substâncias ß-agonistas em produção animal e que revoga as Directivas 81/602/CEE e 88/299/CEE (JO L 125 de 23. 5. 1996, p. 3)."
+  },
+  "a728580f5e93f218": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1998L0058 — PT — 05.06.2003 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0058:PT:NOT) [DIRECTIVA 98/58/CE DO CONSELHO de 20 de Julho de 1998 relativa à protecção dos animais nas explorações pecuárias](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0058:PT:NOT) (JO L 221, 8.8.1998, p.23)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0806:PT:NOT) | [Regulamento (CE) n.o 806/2003 do Conselho de 14 de Abril de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0806:PT:NOT) | L 122 | 1 | 16.5.2003 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0058:PT:NOT)\n\nDIRECTIVA 98/58/CE DO CONSELHO\n\nde 20 de Julho de 1998\n\nrelativa à protecção dos animais nas explorações pecuárias\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0003)),\n\nConsiderando que todos os Estados-membros ratificaram a Convenção Europeia relativa à protecção dos animais nos locais de criação (adiante designada «convenção»); que a Comunidade aprovou também essa Convenção pela Decisão 78/923/CEE ([4](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0004)) e depositou o seu instrumento de aprovação;\n\nConsiderando que a Comunidade, como parte contratante, deve aplicar os princípios estabelecidos na convenção;\n\nConsiderando que esses princípios incidem no alojamento, alimentação e cuidados apropriados às necessidades fisiológicas e etológicas dos animais de acordo com a experiência e os conhecimentos científicos;\n\nConsiderando que é também necessário que a Comunidade assegure uma aplicação uniforme da Convenção e das recomendações aprovadas ao abrigo desta e que adopte regras específicas relativas à aplicação da presente directiva;\n\nConsiderando que na resolução de 20 de Fevereiro de 1987 sobre as medidas relativas ao bem estar dos animais ([5](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0005)), o Parlamento Europeu solicitou à Comissão que apresentasse propostas de normas comunitárias relativas aos aspectos gerais da criação de animais;\n\nConsiderando que a declaração n.o 24 anexa à Acta Final do Tratado da União Europeia exige que as Instituições Europeias e os Estados-membros, ao prepararem e ao aplicarem a legislação comunitária, nomeadamente, em matéria de política agrícola comum, tenham plenamente em consideração as exigências dos animais em matéria de bem-estar;\n\nConsiderando que as diferenças susceptíveis de falsear as condições de concorrência se opõem ao bom funcionamento da organização do mercado dos animais;\n\nConsiderando que, por conseguinte, é necessário estabelecer normas mínimas comuns relativas à protecção dos animais nas explorações de criação para assegurar o desenvolvimento racional da produção e facilitar a organização do mercado dos animais; que é necessário ter em conta as disposições em matéria de bem estar animal já enunciadas na regulamentação comunitária;\n\nConsiderando que é conveniente proceder a uma análise comparativa das disposições relativas ao bem estar dos animais, aplicáveis na Comunidade e em certos países terceiros, acompanhada de uma avaliação, a fim de determinar o carácter das próximas iniciativas comunitárias para eliminar as distorções de concorrência;\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "1edf6d32866a626c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva estabelece normas mínimas de protecção dos animais nas explorações pecuárias.\n\n2. A presente directiva não é aplicável a:\n\na) Animais em meio selvagem;\n\nb) Animais destinados a concursos, espectáculos e manifestações ou actividades culturais ou desportivas;\n\nc) Animais experimentais ou de laboratório;\n\nd) Animais invertebrados.\n\n3. A presente directiva é aplicável sem prejuízo das normas comunitárias específicas contidas noutros diplomas, nomeadamente, as Directivas 88/166/CEE ([6](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0006)), 91/629/CEE ([7](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0007)) e 91/630/CEE ([8](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0008)), que continuarão em vigor."
+  },
+  "81dd3c8d21f4eefd": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Animal, qualquer animal (incluindo os peixes, répteis e anfíbios) criado ou mantido para produção de géneros alimentícios, lã, pele com ou sem pêlo, ou para outros fins agro-pecuários.\n\n2. Proprietário ou detentor, qualquer pessoa, singular ou colectiva, responsável ou que tenha a seu cargo animais a título permanente ou temporário.\n\n3. Autoridade competente, a autoridade competente na acepção do n.o 6 do artigo 2.o da Directiva 90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno ([9](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0009))."
+  },
+  "20de2514c26dea06": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros tomarão disposições para que o proprietário ou detentor tome as medidas adequadas para assegurar o bem estar dos animais ao seu cuidado e para garantir que não lhes sejam causadas dores, lesões ou sofrimentos desnecessários."
+  },
+  "9af062bc0fe516f8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros assegurarão que as condições em que os animais (que não os peixes, répteis e anfíbios) são criados ou mantidos observem o disposto no anexo, tendo em conta as diferentes espécies e o seu nível de desenvolvimento, adaptação e domesticação e as suas necessidades fisiológicas e etológicas, segundo a experiência e os conhecimentos científicos."
+  },
+  "c11534c215d6bf30": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A Comissão apresentará ao Conselho as propostas que considerar necessárias para garantir a aplicação uniforme da Convenção Europeia relativa à protecção dos animais nos locais de criação e, com base numa avaliação científica, recomendações adoptadas ao seu abrigo, bem como quaisquer outras normas específicas.\n\n2. No entanto, de cinco em cinco anos, e pela primeira vez no prazo de cinco anos a contar da data de entrada em vigor da presente directiva, a Comissão, com base na experiência adquirida com a sua aplicação, nomeadamente, no que respeita às medidas referidas no n.o 1 e à evolução técnica e científica, apresentará um relatório ao Conselho, eventualmente acompanhado das propostas adequadas resultantes das conclusões desse relatório.\n\n3. O Conselho deliberará sobre essas propostas por maioria qualificada."
+  },
+  "d0590ba1cbb43e35": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros assegurarão que a autoridade competente efectue inspecções a fim de garantir a observância da presente directiva. Essas inspecções podem ser efectuadas em simultâneo com controlos realizados para outros fins.\n\n2. A contar de data a determinar nos termos do n.o 3, os Estados-membros apresentarão à Comissão um relatório sobre as inspecções referidas no n.o 1. A Comissão apresentará um resumo desses relatórios ao Comité veterinário permanente.\n\n3. Antes de 1 de Julho de 1999, e nos termos do artigo 9.o, a Comissão apresentará propostas destinadas a harmonizar:\n\na) As inspecções necessárias ao abrigo do n.o 1;\n\nb) A forma, o conteúdo e a frequência de apresentação dos relatórios referidos no n.o 2."
+  },
+  "0df042dbbdb3de09": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Na medida em que tal seja necessário para a aplicação uniforme dos requisitos da presente directiva, os peritos veterinários da Comissão podem, em colaboração com as autoridades competentes:\n\na) Verificar se os Estados-membros preenchem os referidos requisitos;\n\nb) Proceder a inspecções «in loco» para se certificar de que as inspecções são efectuadas de acordo com a presente directiva.\n\n2. Os Estados-membros em cujo território seja efectuada uma inspecção prestarão aos peritos veterinários da Comissão toda a assistência necessária ao desempenho da sua missão. Os resultados das inspecções feitas devem ser discutidos com a autoridade competente do Estado-membro envolvido antes da elaboração e distribuição de um relatório final.\n\n3. A autoridade competente do Estado-membro envolvido tomará as medidas que forem necessárias para atender aos resultados da inspecção.\n\n4. As normas de execução do presente artigo serão adoptadas, se necessário, nos termos do artigo 9.o"
+  },
+  "1a5f7b2704788d42": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Antes de 30 de Junho de 1999, a Comissão apresentará ao Conselho um relatório sobre:\n\n— a comparação entre as disposições relativas ao bem estar dos animais aplicáveis na Comunidade e as aplicáveis nos países terceiros que a abastecem,\n\n— a possibilidade de uma aceitação internacional mais ampla dos princípios de bem estar definidos na presente directiva,\n\n— a questão de se saber em que medida os objectivos da Comunidade em matéria de bem estar dos animais podem ser comprometidos pela concorrência de países terceiros que não aplicam normas equivalentes.\n\n2. O relatório referido no n.o 1 será acompanhado das propostas necessárias, a fim de eliminar distorções de concorrência.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R0806:PT:NOT)"
+  },
+  "2c1ed35664324b5a": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.o do Regulamento (CE) n.o 178/2002 ([10](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0010)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE ([11](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0011)).\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998L0058:PT:NOT)"
+  },
+  "33058e723b752726": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas, incluindo eventuais sanções, necessárias para dar cumprimento à presente directiva, o mais tardar em 31 de Dezembro de 1999, salvo decisão do Conselho em contrário em função do relatório a que se refere o artigo 8.o Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Todavia, depois de 31 de Dezembro de 1999, os Estados-membros poderão, de acordo com as regras gerais do Tratado, manter ou aplicar nos seus territórios disposições em matéria de protecção dos animais nas explorações pecuárias mais rigorosas do que as estabelecidas na presente directiva. Os Estados-membros informarão a Comissão dessas medidas.\n\n3. Os Estados-membros comunicarão à Comissão os textos das principais disposições de direito nacional que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "b20b2bf6e722609c": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "08b66beb65f6c7c3": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "90e119e4a03af6a6": {
+   "fragment_id": "ANEXO — Recursos humanos",
+   "type": "divisao",
+   "heading": "ANEXO — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Recursos humanos\n\n1. Os animais devem ser tratados por pessoal em número suficiente e que possua as capacidades, conhecimentos e competência profissional adequados.\n\nInspecção\n\n2. Todos os animais mantidos em explorações pecuárias cujo bem estar dependa de cuidados humanos frequentes devem ser inspeccionados pelo menos uma vez por dia. Os animais mantidos noutros sistemas serão inspeccionados com a frequência necessária para evitar qualquer sofrimento.\n\n3. Deve existir a todo o momento iluminação adequada (fixa ou portátil) que permita a inspecção dos animais em qualquer altura.\n\n4. Os animais que pareçam estar doentes ou lesionados deverão receber imediatamente tratamento adequado e, se o animal não reagir a esse tratamento, deve ser pedido logo que possível o parecer de um veterinário. Se necessário, os animais doentes ou lesionados serão isolados em instalações adequadas, equipadas, se for caso disso, com uma cama seca e confortável.\n\nRegistos\n\n5. O proprietário ou detentor dos animais deve manter um registo dos tratamentos ministrados e do número de casos de mortalidade verificados em cada inspecção. Caso seja exigido o registo de informações equivalentes para outros efeitos, esse registo é suficiente para efeitos da presente directiva.\n\n6. Estes registos serão mantidos por um período de pelo menos três anos, devendo estar à disposição da autoridade competente durante as inspecções e sempre que sejam solicitados.\n\nLiberdade de movimentos\n\n7. A liberdade de movimentos própria dos animais, tendo em conta a espécie e de acordo com a experiência e os conhecimentos científicos, não será restringida de forma a causar-lhe lesões ou sofrimentos desnecessários. Quando os animais estejam permanente ou habitualmente presos ou amarrados, deverão dispor do espaço adequado às suas necessidades fisiológicas e etológicas de acordo com a experiência e os conhecimentos científicos.\n\nInstalações e alojamento\n\n8. Os materiais utilizados na construção de alojamentos, em especial dos compartimentos e equipamentos com que os animais possam estar em contacto, não lhes devem causar danos e devem poder ser limpos e desinfectados a fundo.\n\n9. Os alojamentos e os dispositivos para prender os animais devem ser construídos e mantidos de modo a que não existam arestas nem saliências aceradas susceptíveis de provocar ferimentos aos animais.\n\n10. O isolamento, o aquecimento e a ventilação dos edifícios devem assegurar que a circulação do ar, o teor de poeiras, a temperatura, a humidade relativa do ar e as concentrações de gases se mantenham dentro de limites que não sejam prejudiciais aos animais.\n\n11. Os animais mantidos em instalacões fechadas não devem estar nem em escuridão permanente nem serem expostos à luz artificial sem um período adequado de descanso. Quando a luz natural disponível for insuficiente para contemplar as necessidades comportamentais e fisiológicas dos animais, deve ser providenciada iluminação artificial adequada.\n\nAnimais criados ao ar livre\n\n12. Os animais criados ao ar livre devem dispor, na medida do possível e se necessário, de protecção contra as intempéries, os predadores e os riscos sanitários.\n\nEquipamento automático ou mecânico\n\n13. Todo o equipamento automático ou mecânico indispensável para a saúde e o bem estar dos animais deve ser inspeccionado pelo menos uma vez por dia. Quaisquer anomalias eventualmente detectadas devem ser imediatamente corrigidas ou, quando tal não for possível, devem ser tomadas medidas para salvaguardar a saúde e o bem estar dos animais. Quando a saúde e o bem estar dos animais depender de sistemas de ventilação artificial, deverão ser tomadas providências para que exista um sistema de recurso adequado que garanta uma renovação do ar suficiente para manter a saúde e o bem estar dos animais na eventualidade de uma falha do sistema principal, e deverá existir um sistema de alarme que advirta de qualquer avaria. O sistema de alarme deve ser ensaiado regularmente.\n\nAlimentação, água e outras substâncias\n\n14. Todos os animais devem ser alimentados com uma dieta saudável, adequada à idade e à respectiva espécie e em quantidade suficiente para os manter em bom estado de saúde e para satisfazer as suas necessidades nutricionais. Não devem ser fornecidos aos animais alimentos sólidos ou líquidos de um modo tal, ou que contenham substâncias tais, que possam causar-lhes sofrimento ou lesões desnecessários.\n\n15. Todos os animais devem ter acesso a alimentação a intervalos apropriados às suas necessidades fisiológicas.\n\n16. Os animais devem ter acesso a uma quantidade de água suficiente e de qualidade adequada ou poder satisfazer as suas necessidades de abeberamento de outra forma.\n\n17. O equipamento de fornecimento de alimentação e água deve ser concebido, construído e colocado de modo a minimizar os riscos de contaminação dos alimentos e da água e os efeitos lesivos que podem resultar da luta entre os animais para acesso aos mesmos.\n\n18. Não serão administradas aos animais quaisquer outras substâncias, com excepção das necessárias para efeitos terapêuticos ou profilácticos ou destinadas ao tratamento zootécnico definido no n.o 2, alínea c), do artigo 1.o da Directiva 96/22/CE ([12](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#E0012)), a menos que estudos científicos de bem estar animal ou a experiência constante tenham demonstrado que o efeito dessas outras substâncias não são lesivos da saúde ou do bem estar do animal.\n\nMutilações\n\n19. Enquanto se aguarda a adopção de disposições específicas de acordo com o disposto no artigo 5.o da presente directiva, e sem prejuízo da Directiva 91/630, são aplicáveis as regras nacionais na matéria, nos termos das disposições gerais do Tratado.\n\nProcessos de reproducão\n\n20. Não serão utilizados processos naturais ou artificiais de reprodução que causem ou sejam susceptíveis de causar sofrimento ou lesões aos animais. Esta disposição não impede a utilização de determinados processos susceptíveis de provocar sofrimento ou ferimentos mínimos ou momentâneos, ou de exigir uma intervenção que não seja susceptível de causar lesões permanentes e que sejam autorizados pelas disposições nacionais.\n\n21. Os animais só poderão ser mantidos em explorações pecuárias se não se puder razoavelmente esperar, com base no respectivo genótipo ou fenótipo, que tal não virá a ter efeitos prejudiciais para a sua saúde ou bem estar.\n\n([1](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0001)) JO C 156 de 23. 6. 1992, p. 11.\n\n([2](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0002)) JO C 337 de 21. 12. 1992, p. 225.\n\n([3](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0003)) JO C 332 de 16. 12. 1992, p. 22.\n\n([4](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0004)) JO L 323 de 17. 11. 1978, p. 12.\n\n([5](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0005)) JO C 76 de 23. 3. 1987, p. 185.\n\n([6](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0006)) Directiva 88/166/CEE do Conselho, de 7 de Março de 1998, relativa à execução do Acórdão do Tribunal de Justiça do processo 131/86 (anulação da Directiva 86/113/CEE do Conselho, de 25 de Março de 1986, que estabelece as normas mínimas relativas à protecção das galinhas poedeiras em bateria (JO L 74 de 19. 3. 1998, p. 83).\n\n([7](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0007)) Directiva 91/629/CEE do Conselho, de 19 de Novembro de 1991, relativa às normas mínimas de protecção dos vitelos (JO L 340 de 11. 12. 1991, p. 28). Directiva com a última redacção que lhe foi dada pela Directiva 97/2/CE (JO L 25 de 28. 1. 1997, p. 24).\n\n([8](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0008)) Directiva 91/630/CEE do Conselho, de 19 de Novembro de 1991, relativa às normas mínimas de protecção de suínos (JO L 340 de 11. 12. 1991, p. 33).\n\n([9](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0009)) JO L 224 de 18. 8. 1990, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 92/118/CEE (JO L 62 de 15. 3. 1993, p. 49).\n\n([10](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0010)) JO L 31 de 1.2.2002, p. 1.\n\n([11](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0011)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n([12](http://publications.europa.eu/resource/cellar/954e6a26-b74d-44f5-9c5c-efd52feaf86f.0022.02/DOC_1#src.E0012)) Directiva 96/22/CE do Conselho, de 29 de Abril de 1996, relativa à proibição de utilização de certas substâncias com efeitos hormonais ou tireostáticos e de substâncias β-agonistas em produção animal e que revoga as Directivas 81/602/CEE e 88/299/CEE (JO L 125 de 23. 5. 1996, p. 3)."
+  },
+  "d7ce59806659c5e4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Julho de 1998\n\nrelativa à protecção dos animais nas explorações pecuárias"
+  },
+  "affc1dc99c7276be": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva estabelece normas mínimas de protecção dos animais nas explorações pecuárias.\n\n2. A presente directiva não é aplicável a:\n\na) Animais em meio selvagem;\n\nb) Animais destinados a concursos, espectáculos e manifestações ou actividades culturais ou desportivas;\n\nc) Animais experimentais ou de laboratório;\n\nd) Animais invertebrados.\n\n3. A presente directiva é aplicável sem prejuízo das normas comunitárias específicas contidas noutros diplomas, nomeadamente, as Directivas 88/166/CEE ([^1^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#E0001)), 91/629/CEE ([^2^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#E0002)) e 91/630/CEE ([^3^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#E0003)), que continuarão em vigor."
+  },
+  "0883d512b3dc7980": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Animal, qualquer animal (incluindo os peixes, répteis e anfíbios) criado ou mantido para produção de géneros alimentícios, lã, pele com ou sem pêlo, ou para outros fins agro-pecuários.\n\n2. Proprietário ou detentor, qualquer pessoa, singular ou colectiva, responsável ou que tenha a seu cargo animais a título permanente ou temporário.\n\n3. «Autoridades competentes», as autoridades competentes na aceção do artigo 3.º, ponto 3, do Regulamento [**►C1**](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) (UE) 2017/625**◄** do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#E0004))."
+  },
+  "894b20652f97bfe1": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A Comissão apresentará ao Conselho as propostas que considerar necessárias para garantir a aplicação uniforme da Convenção Europeia relativa à protecção dos animais nos locais de criação e, com base numa avaliação científica, recomendações adoptadas ao seu abrigo, bem como quaisquer outras normas específicas.\n\n2. No entanto, de cinco em cinco anos, e pela primeira vez no prazo de cinco anos a contar da data de entrada em vigor da presente directiva, a Comissão, com base na experiência adquirida com a sua aplicação, nomeadamente, no que respeita às medidas referidas no n.º 1 e à evolução técnica e científica, apresentará um relatório ao Conselho, eventualmente acompanhado das propostas adequadas resultantes das conclusões desse relatório.\n\n3. O Conselho deliberará sobre essas propostas por maioria qualificada."
+  },
+  "476980401fa46cba": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n2. Os Estados-Membros apresentam à Comissão, até 31 de agosto de cada ano, um relatório anual sobre as inspeções realizadas no ano anterior pela autoridade competente para verificar o cumprimento dos requisitos da presente diretiva. O relatório é acompanhado por uma análise das constatações de incumprimento mais graves e um plano de ação nacional destinado a evitar ou reduzir a sua ocorrência nos anos seguintes. A Comissão apresenta um resumo desses relatórios aos Estados-Membros.\n\n3. Antes de 1 de Julho de 1999, e nos termos do artigo 9.º, a Comissão apresentará propostas destinadas a harmonizar:\n\nb) A forma, o conteúdo e a frequência de apresentação dos relatórios referidos no n.º 2."
+  },
+  "4838d8b8ab3eb6ec": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Antes de 30 de Junho de 1999, a Comissão apresentará ao Conselho um relatório sobre:\n\n— a comparação entre as disposições relativas ao bem estar dos animais aplicáveis na Comunidade e as aplicáveis nos países terceiros que a abastecem,\n\n— a possibilidade de uma aceitação internacional mais ampla dos princípios de bem estar definidos na presente directiva,\n\n— a questão de se saber em que medida os objectivos da Comunidade em matéria de bem estar dos animais podem ser comprometidos pela concorrência de países terceiros que não aplicam normas equivalentes.\n\n2. O relatório referido no n.º 1 será acompanhado das propostas necessárias, a fim de eliminar distorções de concorrência."
+  },
+  "ac95630f380df41b": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^5^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#E0005)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^6^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#E0006)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "f4761531d5dd630c": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas, incluindo eventuais sanções, necessárias para dar cumprimento à presente directiva, o mais tardar em 31 de Dezembro de 1999, salvo decisão do Conselho em contrário em função do relatório a que se refere o artigo 8.º Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Todavia, depois de 31 de Dezembro de 1999, os Estados-membros poderão, de acordo com as regras gerais do Tratado, manter ou aplicar nos seus territórios disposições em matéria de protecção dos animais nas explorações pecuárias mais rigorosas do que as estabelecidas na presente directiva. Os Estados-membros informarão a Comissão dessas medidas.\n\n3. Os Estados-membros comunicarão à Comissão os textos das principais disposições de direito nacional que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "2183d67723a25b6b": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "8f2e8934272d7bc6": {
+   "fragment_id": "Recursos humanos",
+   "type": "divisao",
+   "heading": "Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Recursos humanos\n\n1. Os animais devem ser tratados por pessoal em número suficiente e que possua as capacidades, conhecimentos e competência profissional adequados."
+  },
+  "2d6d36fc27f6ee0e": {
+   "fragment_id": "Inspecção",
+   "type": "divisao",
+   "heading": "Inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Inspecção\n\n2. Todos os animais mantidos em explorações pecuárias cujo bem estar dependa de cuidados humanos frequentes devem ser inspeccionados pelo menos uma vez por dia. Os animais mantidos noutros sistemas serão inspeccionados com a frequência necessária para evitar qualquer sofrimento.\n\n3. Deve existir a todo o momento iluminação adequada (fixa ou portátil) que permita a inspecção dos animais em qualquer altura.\n\n4. Os animais que pareçam estar doentes ou lesionados deverão receber imediatamente tratamento adequado e, se o animal não reagir a esse tratamento, deve ser pedido logo que possível o parecer de um veterinário. Se necessário, os animais doentes ou lesionados serão isolados em instalações adequadas, equipadas, se for caso disso, com uma cama seca e confortável."
+  },
+  "e965698f985905dd": {
+   "fragment_id": "Registos",
+   "type": "divisao",
+   "heading": "Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Registos\n\n5. O proprietário ou detentor dos animais deve manter um registo dos tratamentos ministrados e do número de casos de mortalidade verificados em cada inspecção. Caso seja exigido o registo de informações equivalentes para outros efeitos, esse registo é suficiente para efeitos da presente directiva.\n\n6. Estes registos serão mantidos por um período de pelo menos três anos, devendo estar à disposição da autoridade competente durante as inspecções e sempre que sejam solicitados."
+  },
+  "c3ec835913c8c62a": {
+   "fragment_id": "Liberdade de movimentos",
+   "type": "divisao",
+   "heading": "Liberdade de movimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Liberdade de movimentos\n\n7. A liberdade de movimentos própria dos animais, tendo em conta a espécie e de acordo com a experiência e os conhecimentos científicos, não será restringida de forma a causar-lhe lesões ou sofrimentos desnecessários. Quando os animais estejam permanente ou habitualmente presos ou amarrados, deverão dispor do espaço adequado às suas necessidades fisiológicas e etológicas de acordo com a experiência e os conhecimentos científicos."
+  },
+  "edae05356a5b9d8c": {
+   "fragment_id": "Instalações e alojamento",
+   "type": "divisao",
+   "heading": "Instalações e alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Instalações e alojamento\n\n8. Os materiais utilizados na construção de alojamentos, em especial dos compartimentos e equipamentos com que os animais possam estar em contacto, não lhes devem causar danos e devem poder ser limpos e desinfectados a fundo.\n\n9. Os alojamentos e os dispositivos para prender os animais devem ser construídos e mantidos de modo a que não existam arestas nem saliências aceradas susceptíveis de provocar ferimentos aos animais.\n\n10. O isolamento, o aquecimento e a ventilação dos edifícios devem assegurar que a circulação do ar, o teor de poeiras, a temperatura, a humidade relativa do ar e as concentrações de gases se mantenham dentro de limites que não sejam prejudiciais aos animais.\n\n11. Os animais mantidos em instalacões fechadas não devem estar nem em escuridão permanente nem serem expostos à luz artificial sem um período adequado de descanso. Quando a luz natural disponível for insuficiente para contemplar as necessidades comportamentais e fisiológicas dos animais, deve ser providenciada iluminação artificial adequada."
+  },
+  "db2ec866ec2d3bc1": {
+   "fragment_id": "Animais criados ao ar livre",
+   "type": "divisao",
+   "heading": "Animais criados ao ar livre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Animais criados ao ar livre\n\n12. Os animais criados ao ar livre devem dispor, na medida do possível e se necessário, de protecção contra as intempéries, os predadores e os riscos sanitários."
+  },
+  "3a2aeb5e57aa4bfb": {
+   "fragment_id": "Equipamento automático ou mecânico",
+   "type": "divisao",
+   "heading": "Equipamento automático ou mecânico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Equipamento automático ou mecânico\n\n13. Todo o equipamento automático ou mecânico indispensável para a saúde e o bem estar dos animais deve ser inspeccionado pelo menos uma vez por dia. Quaisquer anomalias eventualmente detectadas devem ser imediatamente corrigidas ou, quando tal não for possível, devem ser tomadas medidas para salvaguardar a saúde e o bem estar dos animais. Quando a saúde e o bem estar dos animais depender de sistemas de ventilação artificial, deverão ser tomadas providências para que exista um sistema de recurso adequado que garanta uma renovação do ar suficiente para manter a saúde e o bem estar dos animais na eventualidade de uma falha do sistema principal, e deverá existir um sistema de alarme que advirta de qualquer avaria. O sistema de alarme deve ser ensaiado regularmente."
+  },
+  "f8d23ff6d23deb12": {
+   "fragment_id": "Alimentação, água e outras substâncias",
+   "type": "divisao",
+   "heading": "Alimentação, água e outras substâncias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Alimentação, água e outras substâncias\n\n14. Todos os animais devem ser alimentados com uma dieta saudável, adequada à idade e à respectiva espécie e em quantidade suficiente para os manter em bom estado de saúde e para satisfazer as suas necessidades nutricionais. Não devem ser fornecidos aos animais alimentos sólidos ou líquidos de um modo tal, ou que contenham substâncias tais, que possam causar-lhes sofrimento ou lesões desnecessários.\n\n15. Todos os animais devem ter acesso a alimentação a intervalos apropriados às suas necessidades fisiológicas.\n\n16. Os animais devem ter acesso a uma quantidade de água suficiente e de qualidade adequada ou poder satisfazer as suas necessidades de abeberamento de outra forma.\n\n17. O equipamento de fornecimento de alimentação e água deve ser concebido, construído e colocado de modo a minimizar os riscos de contaminação dos alimentos e da água e os efeitos lesivos que podem resultar da luta entre os animais para acesso aos mesmos.\n\n18. Não serão administradas aos animais quaisquer outras substâncias, com excepção das necessárias para efeitos terapêuticos ou profilácticos ou destinadas ao tratamento zootécnico definido no n.º 2, alínea c), do artigo 1.º da Directiva 96/22/CE ([^7^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#E0007)), a menos que estudos científicos de bem estar animal ou a experiência constante tenham demonstrado que o efeito dessas outras substâncias não são lesivos da saúde ou do bem estar do animal."
+  },
+  "cdfa36e8eea07cfe": {
+   "fragment_id": "Mutilações",
+   "type": "divisao",
+   "heading": "Mutilações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Mutilações\n\n19. Enquanto se aguarda a adopção de disposições específicas de acordo com o disposto no artigo 5.º da presente directiva, e sem prejuízo da Directiva 91/630, são aplicáveis as regras nacionais na matéria, nos termos das disposições gerais do Tratado."
+  },
+  "873133ac2f2dedfc": {
+   "fragment_id": "Processos de reproducão",
+   "type": "divisao",
+   "heading": "Processos de reproducão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Processos de reproducão\n\n20. Não serão utilizados processos naturais ou artificiais de reprodução que causem ou sejam susceptíveis de causar sofrimento ou lesões aos animais. Esta disposição não impede a utilização de determinados processos susceptíveis de provocar sofrimento ou ferimentos mínimos ou momentâneos, ou de exigir uma intervenção que não seja susceptível de causar lesões permanentes e que sejam autorizados pelas disposições nacionais.\n\n21. Os animais só poderão ser mantidos em explorações pecuárias se não se puder razoavelmente esperar, com base no respectivo genótipo ou fenótipo, que tal não virá a ter efeitos prejudiciais para a sua saúde ou bem estar.\n\n---"
+  },
+  "ded20424a7c62976": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Directiva 88/166/CEE do Conselho, de 7 de Março de 1998, relativa à execução do Acórdão do Tribunal de Justiça do processo 131/86 (anulação da Directiva 86/113/CEE do Conselho, de 25 de Março de 1986, que estabelece as normas mínimas relativas à protecção das galinhas poedeiras em bateria (JO L 74 de 19.3.1998, p. 83).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#src.E0002)) Directiva 91/629/CEE do Conselho, de 19 de Novembro de 1991, relativa às normas mínimas de protecção dos vitelos (JO L 340 de 11.12.1991, p. 28). Directiva com a última redacção que lhe foi dada pela Directiva 97/2/CE (JO L 25 de 28.1.1997, p. 24).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#src.E0003)) Directiva 91/630/CEE do Conselho, de 19 de Novembro de 1991, relativa às normas mínimas de protecção de suínos (JO L 340 de 11.12.1991, p. 33).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#src.E0004)) Regulamento [**►C1**](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) (UE) 2017/625**◄** do Parlamento Europeu e do Conselho, de 15 de março de 2017, relativo aos controlos oficiais e outras atividades oficiais que visam assegurar a aplicação da legislação em matéria de géneros alimentícios e alimentos para animais e das regras sobre saúde e bem-estar animal, fitossanidade e produtos fitofarmacêuticos, que altera os Regulamentos (CE) n.º 999/2001, (CE) n.º 396/2005, (CE) n.º 1069/2009, (CE) n.º 1107/2009, (UE) n.º 1151/2012, (UE) n.º 652/2014, (UE) 2016/429 e (UE) 2016/2031 do Parlamento Europeu e do Conselho, os Regulamentos (CE) n.º 1/2005 e (CE) n.º 1099/2009 do Conselho, e as Diretivas 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE do Conselho, e que revoga os Regulamentos (CE) n.º 854/2004 e (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, as Diretivas 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE do Conselho e a Decisão 92/438/CEE do Conselho (Regulamento sobre os controlos oficiais) ( [**►C1**](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) JO L 95 de 7.4.2017, p. 1**◄**).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#src.E0005)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/3661a5c2-6f4f-11ea-b735-01aa75ed71a1.0019.03/DOC_1#src.E0007)) Directiva 96/22/CE do Conselho, de 29 de Abril de 1996, relativa à proibição de utilização de certas substâncias com efeitos hormonais ou tireostáticos e de substâncias β-agonistas em produção animal e que revoga as Directivas 81/602/CEE e 88/299/CEE (JO L 125 de 23.5.1996, p. 3)."
+  }
+ }
+}

@@ -1,0 +1,361 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:118484592:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-129218768",
+ "dre_path": "/dr/detalhe/portaria/33-2019-118484592",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-01-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "129162132",
+    "129162133",
+    "129162134",
+    "129162135",
+    "129162136",
+    "129162137",
+    "129162138",
+    "129162139",
+    "129162140",
+    "129162141",
+    "129162142",
+    "129162143",
+    "129162144",
+    "129162145",
+    "129162146",
+    "129162148",
+    "129162149"
+   ]
+  },
+  {
+   "date": "2020-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129208007:por",
+     "title": "Portaria n.º 43/2020",
+     "published": "2020-02-14",
+     "dre_path": "/dr/detalhe/portaria/43-2020-129208007"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 11.º-B",
+    "Adita Artigo 13.º-A",
+    "Adita Anexo III",
+    "Adita Anexo IV",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "129162132",
+    "129162133",
+    "129162134",
+    "129162150",
+    "129162136",
+    "129162137",
+    "129162151",
+    "129162152",
+    "129162153",
+    "129162141",
+    "129162142",
+    "129162143",
+    "129162155",
+    "129162162",
+    "129162163",
+    "129162164",
+    "129162169",
+    "129162170",
+    "129162171",
+    "129162172",
+    "129162173",
+    "129162174",
+    "129247575"
+   ]
+  }
+ ],
+ "fragments": {
+  "129162132": {
+   "fragment_id": "129218769",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 33/2019\n\nde 25 de janeiro\n\nO Decreto-Lei n.º 66/2018, de 16 de agosto, veio modernizar e uniformizar os procedimentos de reconhecimento de qualificações estrangeiras, tornando-os mais transparentes, equitativos e simples. Esse diploma cria melhores condições para promover a atratividade internacional de Portugal junto de recursos humanos qualificados, entre os quais se incluem também, mas não só, investigadores de nacionalidade estrangeira, e contribuindo assim para a internacionalização da economia e para a liberdade de circulação de pessoas e trabalhadores.\n\nA concretização de algumas das disposições legais fixadas no mencionado decreto-lei carecem, porém, de portaria que regule determinados aspetos da inerente tramitação procedimental, o que se faz pelo presente normativo com o seguinte sentido:\n\na) Reforço da confiança na autenticidade dos reconhecimentos efetuados em Portugal junto dos potenciais empregadores, designadamente por via de um mecanismo de registo centralizado dos graus e diplomas reconhecidos passível de consulta pública através de identificador único;\n\nb) Flexibilidade na comprovação da titularidade do grau académico por parte do requerente, dando-se privilégio a procedimentos que dispensem a entrega de diplomas, cartas de curso ou cartas doutorais em formato original e permitindo-se sempre ao requerente não entregar os documentos originais quando seja já portador das cópias devidamente autenticadas ou de identificadores únicos que permitam a validação da autenticidade da informação prestada;\n\nc) Redução ao essencial da documentação necessária à instrução dos pedidos, em particular nos casos de reconhecimento automático e reconhecimento de nível baseado em precedência, casos em que, pela natureza eminentemente administrativa do procedimento, permitem a dispensa de documentação apenas necessária em circunstâncias de avaliação científica;\n\nd) Eliminação de entregas de teses e dissertações em formato papel para efeitos de depósito legal na Biblioteca Nacional, melhor respeitando o regime jurídico que o regulamenta e que determina que este tem como objeto a produção literária e científica nacional ou domiciliada em Portugal, o que não é obviamente o caso das teses e dissertações produzidas em instituições de ensino superior estrangeiras;\n\ne) Eliminação dos registos de graus e diplomas reconhecidos na Plataforma RENATES, agora desnecessário face à plataforma única, deixando de ser registadas no RENATES as teses e dissertações associadas aos graus académicos estrangeiros, recentrando a sua vocação apenas como instrumento de inquirição da atividade académica nacional;\n\nf) Criação da possibilidade de aplicação de procedimentos alternativos de verificação da titularidade do grau ou diploma em caso de requerentes em situação de emergência por razões humanitárias, contribuindo desse modo para a melhor integração e entrada no mercado de trabalho dos cidadãos nacionais e estrangeiros provenientes de países ou regiões em que prevaleça uma situação reconhecida de conflito armado, de desastre natural, de violência generalizada ou de violação de direitos humanos.\n\nA simplificação e desmaterialização do procedimento garante a redução dos custos e economias de tempo, tanto para requerentes como para as entidades competentes para o reconhecimento.\n\nAo requerente, pela possibilidade de submeter remotamente o pedido de reconhecimento e demais elementos necessários à instrução do procedimento e pela redução da documentação solicitada. Às entidades competentes, pela possibilidade de realizar uma gestão integrada e mais eficiente do procedimento, garantida por uma plataforma centralizada. A gestão e suporte integral da plataforma assegurada por parte da Direção-Geral do Ensino Superior é especialmente vantajosa para as instituições de ensino superior, por as desonerar do recurso a sistemas próprios para gerir o procedimento. Estes ganhos somam-se, aliás, a outras economias já previstas no decreto-lei supramencionado garantidas, por exemplo, pela redução do número de elementos dos júris de reconhecimento de nível e específico.\n\nO atual enquadramento legal não estabelece um limite máximo do emolumento a cobrar pelas instituições, sendo esta uma competência da entidade que procede ao mesmo, ouvidas as estruturas representativas dos estudantes. Sem prejuízo disso, importa salientar que o valor do emolumento não pode exceder o do custo do respetivo serviço, como é regra geral na fixação de taxas e emolumentos.\n\nNesse contexto, a simplificação administrativa garantida pelo novo enquadramento legal, e as economias proporcionadas a requerentes e entidades competentes para o reconhecimento, deve ser acompanhada pelo ajustamento do valor do emolumento ao real custo do respetivo serviço de reconhecimento.\n\nAssim, tendo sido ouvidos o Conselho de Reitores das Universidades Portuguesas e o Conselho Coordenador dos Institutos Superiores Politécnicos, ao abrigo do n.º 2 do artigo 4.º e do n.º 1 do artigo 9.º do Decreto-Lei n.º 66/2018, de 16 de agosto, manda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:"
+  },
+  "129162133": {
+   "fragment_id": "129218770",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regula aspetos da tramitação procedimental do reconhecimento de graus académicos e diplomas atribuídos por instituições de ensino superior estrangeiras."
+  },
+  "129162134": {
+   "fragment_id": "129218771",
+   "type": 11,
+   "heading": "Artigo 2.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requerimento\n\n1 - O pedido de reconhecimento é apresentado em formulário próprio para o efeito, disponível em português e inglês, nos sítios da internet das entidades competentes para o reconhecimento.\n\n2 - As entidades competentes para o reconhecimento devem garantir que a apresentação dos elementos necessários à instrução de qualquer processo de reconhecimento seja feita por via eletrónica ou postal, sem necessidade de deslocação do requerente ou seu representante."
+  },
+  "129162135": {
+   "fragment_id": "129218772",
+   "type": 11,
+   "heading": "Artigo 3.º — Documentação comum a todos os reconhecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Documentação comum a todos os reconhecimentos\n\n1 - Todos os pedidos de reconhecimento são instruídos com um dos seguintes documentos:\n\na) Cópia do diploma ou de documento emitido pela instituição de ensino superior estrangeira comprovativo da titularidade do grau ou diploma para o qual é requerido o reconhecimento, autenticada pelas autoridades competentes para o efeito;\n\nb) Cópia simples de documento emitido pela instituição de ensino superior estrangeira em que conste número de registo de grau ou diploma, no caso das instituições de ensino superior estrangeiras que disponham de registos centralizados passíveis de consulta pública através de identificador único;\n\nc) Diploma ou certificado emitido pela instituição de ensino superior estrangeira, em versão original, comprovativo da titularidade do grau ou diploma para o qual é requerido o reconhecimento.\n\n2 - Sempre que seja requerida uma classificação final na escala de classificação portuguesa, o requerente deve ainda apresentar documento emitido pela instituição de ensino superior estrangeira com indicação da classificação final atribuída ao grau académico ou diploma para o qual é requerido o reconhecimento."
+  },
+  "129162136": {
+   "fragment_id": "129218773",
+   "type": 11,
+   "heading": "Artigo 4.º — Documentação específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Documentação específica\n\n1 - Para além da documentação mencionada no artigo anterior, para os pedidos de reconhecimento específico ou de nível em que não exista decisão precedente sobre grau académico ou diploma idêntico, devem ainda ser instruídos com:\n\na) Documento emitido pela instituição de ensino superior estrangeira onde constem as unidades curriculares em que o requerente obteve aprovação, e que conduziram à obtenção do grau ou diploma a que solicita reconhecimento, bem como os respetivos conteúdos programáticos, a duração dos estudos conducentes à obtenção do grau e a respetiva classificação final;\n\nb) Quando se trate de um grau correspondente ao nível de mestre, uma cópia digital ou digitalizada da dissertação defendida ou do trabalho de projeto, ou do relatório de estágio;\n\nc) Quando se trate de um grau correspondente ao nível de doutor, uma cópia digital ou digitalizada da tese defendida, excetuando quando esta tenha sido substituída por outros trabalhos de investigação, obras ou realizações artísticas, caso em que devem ser entregues em formato digital ou digitalizado os elementos apropriados para conhecer o teor da investigação realizada e as fundamentações que explicitem o processo de conceção e elaboração, a capacidade de investigação, e o seu enquadramento na evolução do conhecimento no domínio em que se insere.\n\n2 - A apresentação das cópias referidas nas alíneas b) e c) do número anterior é dispensada nas situações em que não existiu lugar à apresentação de tese, trabalho de projeto, relatório de estágio, dissertação, trabalhos de investigação, obras ou realizações artísticas para a obtenção do grau académico em causa devendo o requerente comprovar essa situação através de documento emitido pela respetiva instituição de ensino superior estrangeira que confirme que para a conclusão do grau não houve lugar à apresentação desses elementos."
+  },
+  "129162137": {
+   "fragment_id": "129218774",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação e autenticidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Informação e autenticidade\n\n1 - Todos os documentos emitidos pela instituição de ensino superior estrangeira podem ser apresentados em formato digital, desde que seja inequívoca a sua autenticidade e estes se apresentem em formato não editável e com assinatura eletrónica qualificada aposta pelas autoridades competentes dessa instituição.\n\n2 - Em caso de dúvida sobre os elementos relevantes para a instrução do processo ou sobre a autenticidade dos mesmos, a entidade a quem foi requerido o reconhecimento pode solicitar informação adicional ao requerente ou a sua confirmação à instituição de ensino superior estrangeira que tiver emitido o documento, ou a outras entidades competentes para o efeito.\n\n3 - O júri designado pelo dirigente máximo da instituição de ensino superior, que analisa o pedido de reconhecimento de nível ou específico, pode solicitar ao requerente elementos adicionais que entenda essenciais para apreciação do mesmo."
+  },
+  "129162138": {
+   "fragment_id": "129246175",
+   "type": 11,
+   "heading": "Artigo 6.º — Tradução de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tradução de documentos\n\n1 - A entrega de diplomas, certificados e documentos referentes a unidades curriculares, conteúdos programáticos, duração de estudos ou classificação final que se encontrem redigidos numa língua estrangeira que não o espanhol, francês e inglês deve ser acompanhada de tradução para português devidamente certificada pelas autoridades competentes para o efeito.\n\n2 - Na entrega dos trabalhos de projeto, relatório de estágio, dissertação, teses e fundamentações que se encontrem redigidos em qualquer língua estrangeira pode a entidade competente para o reconhecimento solicitar a entrega de tradução para português devidamente certificada pelas autoridades competentes para o efeito.\n\n3 - A certificação referida nos números anteriores, incide sobre o conteúdo da tradução e não apenas sobre as assinaturas dos intervenientes nos atos em causa."
+  },
+  "129162139": {
+   "fragment_id": "129246176",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prazos\n\nA contagem dos prazos para decisão sobre os pedidos de reconhecimento suspende-se:\n\na) Nos casos previstos nos n.os 2 e 3 do artigo 5.º, entre o pedido de informação ou de confirmação de autenticidade documental e a receção de resposta a esse pedido;\n\nb) Nos casos previstos no n.º 2 do artigo 6.º, entre o pedido da tradução e a receção da mesma pela entidade competente."
+  },
+  "129162140": {
+   "fragment_id": "129246177",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registo único\n\n1 - Cada reconhecimento realizado nos termos do Decreto-Lei n.º 66/2018, de 16 de agosto, é objeto de registo obrigatório em plataforma eletrónica, a qual atribui um número único a cada tipo de reconhecimento atribuído, gerado de forma automática e sequencial pela mesma.\n\n2 - O reconhecimento atribuído é comprovado pela emissão de certidão de registo gerada através da plataforma eletrónica, cujo modelo se publica em anexo à presente portaria, que faz prova para todos os efeitos legais da titularidade do reconhecimento conferido e onde consta código de validação para consulta da autenticidade do mesmo.\n\n3 - O registo na plataforma eletrónica deve ser efetuado antes da emissão de qualquer documento referente ao grau ou diploma reconhecido.\n\n4 - A emissão da certidão do registo não pode ser condicionada à solicitação de emissão ou pagamento de qualquer outro documento académico.\n\n5 - Compete à Direção-Geral do Ensino Superior gerir a plataforma eletrónica para registo único.\n\n6 - Os dados recolhidos pela plataforma eletrónica podem ser utilizados pela Direção-Geral de Estatísticas da Educação e Ciência, mediante protocolo de interoperabilidade, para fins de análise e estatística.\n\n7 - O tratamento de dados e informação obedece ao regime legal aplicável à proteção de dados pessoais."
+  },
+  "129162141": {
+   "fragment_id": "129246178",
+   "type": 11,
+   "heading": "Artigo 9.º — Devolução de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Devolução de documentos\n\nFindo o processo de reconhecimento, todos os documentos pertencentes ao requerente que não tenham sido remetidos em formato digital ou digitalizado, são devolvidos ficando uma cópia digitalizada dos mesmos arquivada, sem prejuízo do respeito pelo regime legal aplicável à proteção de dados pessoais."
+  },
+  "129162142": {
+   "fragment_id": "129246179",
+   "type": 11,
+   "heading": "Artigo 10.º — Depósito legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Depósito legal\n\n1 - Os documentos previstos nas alíneas b) e c) do n.º 1 do artigo 4.º ficam sujeitos ao depósito de uma cópia digital em coleção específica do Repositório Comum do Repositório Científico de Acesso Aberto de Portugal, operado pela Fundação para a Ciência e a Tecnologia, I. P.\n\n2 - Nos casos em que estes documentos já se encontrem depositados num repositório em acesso aberto, dispensa-se o depósito de uma cópia digital referido no presente artigo, devendo o titular do grau reconhecido facultar o identificador persistente do depósito existente.\n\n3 - As obrigações referidas no n.º 1 são da responsabilidade das instituições de ensino superior que procedem ao reconhecimento específico ou de nível."
+  },
+  "129162143": {
+   "fragment_id": "129246180",
+   "type": 11,
+   "heading": "Artigo 11.º — Atribuição de classificação a outros reconhecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Atribuição de classificação a outros reconhecimentos\n\nPara a conversão da classificação final para a escala de classificação portuguesa a que se refere o n.º 3 do artigo 6.º do Decreto-Lei n.º 66/2018, de 16 de agosto, é competente o diretor-geral do Ensino Superior, sendo a mesma comprovada pela emissão de certidão cujo modelo se publica em anexo à presente portaria."
+  },
+  "129162144": {
+   "fragment_id": "129246181",
+   "type": 11,
+   "heading": "Artigo 12.º — Emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Emolumentos\n\n1 - Nos termos do n.º 3 do artigo 11.º do Decreto-Lei n.º 66/2018, de 16 de agosto, o valor do emolumento não pode exceder o do custo do respetivo serviço, sendo fixado pelo órgão legal e estatutariamente competente da entidade que procede ao mesmo, ouvidas as estruturas representativas dos estudantes.\n\n2 - A emissão de 2.ª via de certidão de registo de reconhecimento está igualmente sujeita a pagamento de emolumento, que não pode exceder o do custo do respetivo serviço."
+  },
+  "129162145": {
+   "fragment_id": "129246182",
+   "type": 11,
+   "heading": "Artigo 13.º — Requerente em situação de emergência por razões humanitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Requerente em situação de emergência por razões humanitárias\n\n1 - A documentação prevista nos artigos 3.º, 4.º e 6.º pode ser excecionalmente dispensada, em situações de requerimento apresentado por requerente em situação de emergência por razões humanitárias que, em virtude dessa circunstância, não possa comprovar as respetivas qualificações estrangeiras.\n\n2 - A possibilidade de dispensa é avaliada casuisticamente pela entidade competente para o reconhecimento devendo esta, quando tome decisão nesse sentido, adotar os procedimentos que considerar adequados para a verificação da titularidade do grau ou diploma.\n\n3 - Para efeitos no disposto no presente artigo é considerado requerente em situação de emergência por razões humanitárias aquele que reúna as condições previstas nos n.os 1, 2 e 3 do artigo 8.º-A do Decreto-Lei n.º 36/2014, de 10 de março, na sua redação atual, com as devidas adaptações."
+  },
+  "129162146": {
+   "fragment_id": "129246183",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor e produção de efeitos\n\n1 - O disposto na presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos relativamente a todos aos processos de reconhecimento requeridos após 1 de janeiro de 2019.\n\n2 - A contagem dos prazos relativos aos processos de reconhecimento requeridos entre 1 de janeiro de 2019 e a data de entrada em vigor da presente portaria inicia-se apenas após a entrada em vigor da mesma.\n\n3 - Aos processos de reconhecimento requeridos até 31 de dezembro de 2018 é aplicável o regime jurídico vigente à data do requerimento inicial.\n\n4 - Para efeitos da limitação prevista no n.º 4 do artigo 4.º do Decreto-Lei n.º 66/2018, de 16 de agosto, são considerados apenas os requerimentos apresentados após 1 de janeiro de 2019."
+  },
+  "129162148": {
+   "fragment_id": "129246185",
+   "type": 14,
+   "heading": "Anexo I — Certidão de registo de reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Certidão de registo de reconhecimento\n\n(a que se refere o n.º 2 do artigo 8.º)\n\nEm conformidade com o disposto nos artigos 4.º e 7.º do Decreto-Lei n.º 66/2018, de 16 de agosto, que aprova o regime jurídico de reconhecimento de graus académicos e diplomas de ensino superior atribuídos por instituições de ensino superior estrangeiras, certifica-se que o grau académico de (grau estrangeiro na língua de origem) ou diploma de (curso não conferente de grau académico conferido por instituição de ensino superior estrangeira) (eliminar o que não for aplicável), conferido pela (Instituição de Ensino Superior de origem), (País de origem do grau), a (nome do requerente), nacional de (País), portador(a) do cartão de cidadão, bilhete de identidade/passaporte/título de residência (eliminar o que não for aplicável) n.º ...(identificar número), confere ao seu titular os direitos inerentes ao grau académico português de Licenciado/Mestre/Doutor ou diploma de técnico superior profissional (eliminar o que não for aplicável), na área de formação, ramo de conhecimento ou especialidade (aplicável apenas em caso de reconhecimento específico) registado com o n.º ...(número sequencial), em (data de concessão de reconhecimento).\n\nCertifica-se ainda que a classificação final de origem de ... (identificar classificação) foi convertida para a classificação final de ... (por extenso) valores, de acordo com a escala de classificação portuguesa. (quando aplicável).\n\n(cidade, sede da Entidade ou Instituição de Ensino Superior onde é efetuado o registo)\n\nO Reitor/Presidente/Diretor-Geral do Ensino Superior (eliminar o que não for aplicável)\n\n(assinatura eletrónica qualificada)\n\nInserção de menção à 2.ª via, quando for o caso."
+  },
+  "129162149": {
+   "fragment_id": "129246186",
+   "type": 14,
+   "heading": "Anexo II — Certidão de atribuição de classificação a outros reconhecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Certidão de atribuição de classificação a outros reconhecimentos\n\n(a que se refere o artigo 11.º)\n\nEm conformidade com o disposto no n.º 3 do artigo 6.º do Decreto-Lei n.º 66/2018, de 16 de agosto, que aprova o regime jurídico de reconhecimento de graus académicos e diplomas de ensino superior atribuídos por instituições de ensino superior estrangeiras, certifica-se que (nome requerente), portador(a) do cartão de cidadão/bilhete de identidade /passaporte/título de residência (eliminar o que não for aplicável) n.º ...(inserir número) e da cédula profissional n.º ...(inserir número), emitida pela Secção Regional ...da Ordem dos ...que lhe confere a habilitação ao livre exercício da profissão, titular do grau (grau estrangeiro na língua de origem), conferido pela (Instituição de Ensino Superior de origem), (País de origem do grau), solicitou a conversão da classificação final de ...(por extenso) valores, a qual foi convertida, de acordo com a escala de classificação portuguesa, na classificação final de ...(por extenso) valores.\n\n(cidade, sede da entidade onde é efetuado o registo) e data\n\nO Diretor-Geral do Ensino Superior\n\n(assinatura eletrónica qualificada)\n\n112007978"
+  },
+  "129162150": {
+   "fragment_id": "129218772",
+   "type": 11,
+   "heading": "Artigo 3.º — Documentação comum a todos os reconhecimentos",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "###### Artigo 3.º — Documentação comum a todos os reconhecimentos\n\n1 - Todos os pedidos de reconhecimento são instruídos com um dos seguintes documentos:\n\na) Cópia do diploma ou de documento emitido pela instituição de ensino superior estrangeira comprovativo da titularidade do grau ou diploma para o qual é requerido o reconhecimento, autenticada pelas autoridades competentes para o efeito;\n\nb) Cópia simples de documento emitido pela instituição de ensino superior estrangeira em que conste número de registo de grau ou diploma, no caso das instituições de ensino superior estrangeiras que disponham de registos centralizados passíveis de consulta pública através de identificador único;\n\nc) Diploma ou certificado emitido pela instituição de ensino superior estrangeira, em versão original, comprovativo da titularidade do grau ou diploma para o qual é requerido o reconhecimento.\n\n2 - Sempre que seja requerida uma classificação final na escala de classificação portuguesa, o requerente deve ainda apresentar documento(s) emitido(s) pela instituição de ensino superior estrangeira com indicação da classificação final atribuída ao grau académico ou diploma para o qual é requerido o reconhecimento e da escala de classificação final estrangeira onde conste classificação mínima a que corresponde aprovação nessa escala e classificação máxima.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+  },
+  "129162151": {
+   "fragment_id": "129246175",
+   "type": 11,
+   "heading": "Artigo 6.º — Tradução de documentos",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "###### Artigo 6.º — Tradução de documentos\n\n1 - A entrega de diplomas, certificados e documentos referentes a unidades curriculares, conteúdos programáticos, duração de estudos ou classificação final que se encontrem redigidos numa língua estrangeira que não o espanhol, francês e inglês deve ser acompanhada de tradução para português devidamente certificada pelas autoridades competentes para o efeito.\n\n2 - Na entrega dos trabalhos de projeto, relatório de estágio, dissertação, teses e fundamentações que se encontrem redigidos em qualquer língua estrangeira pode a entidade competente para o reconhecimento solicitar a entrega de tradução para português devidamente certificada pelas autoridades competentes para o efeito.\n\n3 - A certificação referida nos números anteriores, incide sobre o conteúdo da tradução e não apenas sobre as assinaturas dos intervenientes nos atos em causa.\n\n4 - Na entrega da documentação traduzida referida nos n.os 1 e 2 a entidade competente para o reconhecimento pode decidir que, em alternativa ao português, a tradução seja feita para inglês, espanhol ou francês.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+  },
+  "129162152": {
+   "fragment_id": "129246176",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazos",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "###### Artigo 7.º — Prazos\n\n1 - A contagem dos prazos para decisão sobre os pedidos de reconhecimento suspende-se:\n\na) Nos casos previstos nos n.os 2 e 3 do artigo 5.º, entre o pedido de informação ou de confirmação de autenticidade documental e a receção de resposta a esse pedido;\n\nb) Nos casos previstos no n.º 2 do artigo 6.º, entre o pedido da tradução e a receção da mesma pela entidade competente.\n\nc) Nos casos previstos no n.º 3 do artigo 20.º do Decreto-Lei n.º 66/2018, de 16 de agosto, entre a data da decisão para realização dos procedimentos de avaliação aplicáveis e a publicação do respetivo resultado final.\n\n2 - A falta de pagamento de taxas ou emolumentos no prazo fixado determina a extinção do procedimento.\n\n3 - Os interessados podem obstar à extinção do procedimento se realizarem o pagamento em dobro da quantia em falta nos 10 dias seguintes ao termo do prazo fixado para o seu pagamento.\n\n4 - Nas situações em que, estando o pagamento de taxas e emolumentos regularizado, o procedimento esteja parado por mais de seis meses por causa imputável ao interessado, é o mesmo declarado deserto, nos termos do artigo 132.º do Código do Procedimento Administrativo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+  },
+  "129162153": {
+   "fragment_id": "129246177",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo único",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "###### Artigo 8.º — Registo único\n\n1 - Cada reconhecimento realizado nos termos do Decreto-Lei n.º 66/2018, de 16 de agosto, é objeto de registo obrigatório em plataforma eletrónica, a qual atribui um número único a cada tipo de reconhecimento atribuído, gerado de forma automática e sequencial pela mesma.\n\n2 - O reconhecimento atribuído é comprovado pela emissão de certidão de registo gerada através da plataforma eletrónica, cujo modelo se publica em anexo à presente portaria, que faz prova para todos os efeitos legais da titularidade do reconhecimento conferido e onde consta código de validação para consulta da autenticidade do mesmo.\n\n3 - O registo na plataforma eletrónica deve ser efetuado antes da emissão de qualquer documento referente ao grau ou diploma reconhecido.\n\n4 - A emissão da certidão do registo não pode ser condicionada à solicitação de emissão ou pagamento de qualquer outro documento académico.\n\n5 - Compete à Direção-Geral do Ensino Superior gerir a plataforma eletrónica para registo único.\n\n6 - Os dados recolhidos pela plataforma eletrónica podem ser utilizados pela Direção-Geral de Estatísticas da Educação e Ciência, mediante protocolo de interoperabilidade, para fins de análise e estatística.\n\n7 - O tratamento de dados e informação obedece ao regime legal aplicável à proteção de dados pessoais.\n\n8 - A alteração dos números de identificação pessoal constantes na certidão de registo de reconhecimento não determina a invalidade da mesma, competindo ao titular do grau ou diploma reconhecido comprovar junto das entidades que o solicitarem que o número em causa se encontrava válido à data da emissão da certidão de registo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+  },
+  "129162155": {
+   "fragment_id": "129246201",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Classificações convertidas e graus reconhecidos ao abrigo de legislação anterior",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "###### Artigo 11.º-A — Classificações convertidas e graus reconhecidos ao abrigo de legislação anterior\n\n1 - Os graus académicos cujas classificações finais já tenham sido objeto de conversão de classificação para a escala portuguesa ao abrigo de legislação anterior não podem ser objeto de nova conversão de classificação ao abrigo do Decreto-Lei n.º 66/2018, de 16 de agosto, sem prejuízo do disposto no número seguinte.\n\n2 - Os titulares de graus académicos que tenham sido objeto de reconhecimento ou equivalência ao abrigo de legislação anterior sem atribuição de classificação final, podem requerer uma classificação final nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 66/2018, de 16 de agosto, apresentando a documentação prevista no n.º 2 do artigo 3.º da presente portaria.\n\n3 - Na situação prevista no número anterior, a classificação final é:\n\na) Convertida de acordo com a fórmula prevista no artigo 7.º do Decreto-Lei n.º 66/2018, de 16 de agosto, no caso de graus académicos reconhecidos ao abrigo do artigo 14.º do Decreto-Lei n.º 283/83, de 21 de junho, e dos Decretos-Leis n.os 93/96, de 16 de julho, 216/97, de 18 de agosto, e 341/2007, de 12 de outubro;\n\nb) É atribuída por júri, cuja nomeação e constituição segue o regime aplicável ao júri de reconhecimento específico, no caso de graus académicos declarados equivalentes ao abrigo do Decreto-Lei n.º 283/83, de 21 de junho, ou legislação anterior.\n\n4 - Os titulares de graus académicos que, nos termos da legislação anterior, tenham sido objeto de reconhecimento ou equivalência ao grau de licenciado podem requerer novamente o reconhecimento do mesmo grau quando a formação em causa cumpra os requisitos previstos no n.º 4 do artigo 20.º do Decreto-Lei n.º 66/2018, de 16 de agosto.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+  },
+  "129162162": {
+   "fragment_id": "129246202",
+   "type": 11,
+   "heading": "Artigo 11.º-B — Recusa de reconhecimento",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "###### Artigo 11.º-B — Recusa de reconhecimento\n\nQuando o reconhecimento de nível ou específico seja recusado com fundamento no facto da instituição de ensino superior ou da unidade orgânica em causa não conferir o grau ou diploma na área de formação, especialidade ou ramo do conhecimento adequada para esse efeito, o requerente pode apresentar novo requerimento junto de outra instituição, não sendo o requerimento recusado considerado para efeitos dos limites previstos no n.º 4 do artigo 4.º do Decreto-Lei n.º 66/2018, de 16 de agosto.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+  },
+  "129162163": {
+   "fragment_id": "129246181",
+   "type": 11,
+   "heading": "Artigo 12.º — Emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Emolumentos\n\n1 - Nos termos do n.º 3 do artigo 11.º do Decreto-Lei n.º 66/2018, de 16 de agosto, o valor do emolumento não pode exceder o do custo do respetivo serviço, sendo fixado pelo órgão legal e estatutariamente competente da entidade que procede ao mesmo, ouvidas as estruturas representativas dos estudantes.\n\n2 - A emissão de 2.ª via de certidão de registo de reconhecimento está igualmente sujeita a pagamento de emolumento, que não pode exceder o do custo do respetivo serviço."
+  },
+  "129162164": {
+   "fragment_id": "129246182",
+   "type": 11,
+   "heading": "Artigo 13.º — Requerente em situação de emergência por razões humanitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Requerente em situação de emergência por razões humanitárias\n\n1 - A documentação prevista nos artigos 3.º, 4.º e 6.º pode ser excecionalmente dispensada, em situações de requerimento apresentado por requerente em situação de emergência por razões humanitárias que, em virtude dessa circunstância, não possa comprovar as respetivas qualificações estrangeiras.\n\n2 - A possibilidade de dispensa é avaliada casuisticamente pela entidade competente para o reconhecimento devendo esta, quando tome decisão nesse sentido, adotar os procedimentos que considerar adequados para a verificação da titularidade do grau ou diploma.\n\n3 - Para efeitos no disposto no presente artigo é considerado requerente em situação de emergência por razões humanitárias aquele que reúna as condições previstas nos n.os 1, 2 e 3 do artigo 8.º-A do Decreto-Lei n.º 36/2014, de 10 de março, na sua redação atual, com as devidas adaptações."
+  },
+  "129162169": {
+   "fragment_id": "129246203",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Procedimentos alternativos em outras situações",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "###### Artigo 13.º-A — Procedimentos alternativos em outras situações\n\nO disposto nos n.os 1 e 2 do artigo anterior pode ser aplicado relativamente a requerimentos apresentados por titulares de graus ou diplomas emitidos em Estados que, em virtude de circunstâncias específicas afetarem o regular funcionamento das instituições desse Estado, se reconheça, por despacho do Diretor-Geral do Ensino Superior, a necessidade de aplicação dessas medidas por períodos temporalmente limitados.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+  },
+  "129162170": {
+   "fragment_id": "129246183",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor e produção de efeitos\n\n1 - O disposto na presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos relativamente a todos aos processos de reconhecimento requeridos após 1 de janeiro de 2019.\n\n2 - A contagem dos prazos relativos aos processos de reconhecimento requeridos entre 1 de janeiro de 2019 e a data de entrada em vigor da presente portaria inicia-se apenas após a entrada em vigor da mesma.\n\n3 - Aos processos de reconhecimento requeridos até 31 de dezembro de 2018 é aplicável o regime jurídico vigente à data do requerimento inicial.\n\n4 - Para efeitos da limitação prevista no n.º 4 do artigo 4.º do Decreto-Lei n.º 66/2018, de 16 de agosto, são considerados apenas os requerimentos apresentados após 1 de janeiro de 2019."
+  },
+  "129162171": {
+   "fragment_id": "129246184",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Ciência, Tecnologia e Ensino Superior, Manuel Frederico Tojal de Valsassina Heitor, em 23 de janeiro de 2019."
+  },
+  "129162172": {
+   "fragment_id": "129246185",
+   "type": 14,
+   "heading": "Anexo I — Certidão de registo de reconhecimento",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "## Anexo I — Certidão de registo de reconhecimento\n\n(a que se refere o n.º 2 do artigo 8.º)\n\nEm conformidade com o disposto no artigo 4.º do Decreto-Lei n.º 66/2018, de 16 de agosto, que aprova o regime jurídico de reconhecimento de graus académicos e diplomas de ensino superior atribuídos por instituições de ensino superior estrangeiras, certifica-se que o grau académico de (grau estrangeiro na língua de origem) ou diploma de (curso não conferente de grau académico conferido por instituição de ensino superior estrangeira) (eliminar o que não for aplicável), conferido por (Instituição de Ensino Superior de origem), (país de origem do grau ou diploma), a (nome do requerente), nacional de (país), portador(a) do cartão de cidadão, bilhete de identidade/passaporte/título de residência (eliminar o que não for aplicável) n.º ... (identificar número válido à data do requerimento), confere ao seu titular os direitos inerentes ao grau académico português de Licenciado/Mestre/Doutor ou diploma de técnico superior profissional (eliminar o que não for aplicável), na área de formação, ramo de conhecimento ou especialidade (aplicável apenas em caso de reconhecimento específico) registado com o n.º ... (número sequencial), em (data de concessão de reconhecimento).\n\nMenção aplicável nos reconhecimentos automáticos ou de nível quando a instituição de origem adote a escala de classificação portuguesa:\n\nEm conformidade com o disposto na alínea a) do n.º 1 do artigo 6.º do Decreto-Lei n.º 66/2018, de 16 de agosto, certifica-se ainda que a classificação final de origem é de ... (identificar classificação), encontrando-se esta de acordo com a escala de classificação portuguesa.\n\nMenção aplicável quando exista conversão de classificação final:\n\nEm conformidade com o disposto na alínea b) do n.º 1 do artigo 6.º e no artigo 7.º do Decreto-Lei n.º 66/2018, de 16 de agosto, certifica-se ainda que a classificação final de origem de ... (identificar classificação) foi convertida para a classificação final de ... valores (por extenso), de acordo com a escala de classificação portuguesa.\n\nMenção aplicável nos reconhecimentos específicos:\n\nEm conformidade com o disposto no n.º 2 do artigo 6.º do Decreto-Lei n.º 66/2018, de 16 de agosto, certifica-se ainda que foi atribuída a classificação final de ... valores (por extenso)\n\n(cidade, sede da Entidade ou Instituição de Ensino Superior onde é efetuado o registo) e data de emissão.\n\nO Reitor/Presidente/Diretor-Geral do Ensino Superior (eliminar o que não for aplicável)\n\n(assinatura eletrónica qualificada)\n\nInserção de menção à 2.ª via, quando for o caso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+  },
+  "129162173": {
+   "fragment_id": "129246186",
+   "type": 14,
+   "heading": "Anexo II — Certidão de atribuição de classificação a outros reconhecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Certidão de atribuição de classificação a outros reconhecimentos\n\n(a que se refere o artigo 11.º)\n\nEm conformidade com o disposto no n.º 3 do artigo 6.º do Decreto-Lei n.º 66/2018, de 16 de agosto, que aprova o regime jurídico de reconhecimento de graus académicos e diplomas de ensino superior atribuídos por instituições de ensino superior estrangeiras, certifica-se que (nome requerente), portador(a) do cartão de cidadão/bilhete de identidade /passaporte/título de residência (eliminar o que não for aplicável) n.º ...(inserir número) e da cédula profissional n.º ...(inserir número), emitida pela Secção Regional ...da Ordem dos ...que lhe confere a habilitação ao livre exercício da profissão, titular do grau (grau estrangeiro na língua de origem), conferido pela (Instituição de Ensino Superior de origem), (País de origem do grau), solicitou a conversão da classificação final de ...(por extenso) valores, a qual foi convertida, de acordo com a escala de classificação portuguesa, na classificação final de ...(por extenso) valores.\n\n(cidade, sede da entidade onde é efetuado o registo) e data\n\nO Diretor-Geral do Ensino Superior\n\n(assinatura eletrónica qualificada)\n\n112007978"
+  },
+  "129162174": {
+   "fragment_id": "129246204",
+   "type": 14,
+   "heading": "Anexo III — Certidão de conversão de classificação final quando requerida em separado face ao pedido de reconhecimento automático ou de nível",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "## Anexo III — Certidão de conversão de classificação final quando requerida em separado face ao pedido de reconhecimento automático ou de nível\n\nEm conformidade com o disposto na alínea b) do n.º 1 do artigo 6.º e no artigo 7.º do Decreto-Lei n.º 66/2018, de 16 de agosto, que aprova o regime jurídico de reconhecimento de graus académicos e diplomas de ensino superior atribuídos por instituições de ensino superior estrangeiras, certifica-se que a classificação final de (classificação de origem), referente ao grau académico de (grau estrangeiro na língua de origem) ou diploma de (curso não conferente de grau académico conferido por instituição de ensino superior estrangeira) (eliminar o que não for aplicável), (país de origem do grau ou diploma), atribuído a (nome do requerente), nacional de (país), portador(a) do cartão de cidadão/bilhete de identidade/passaporte/título de residência (eliminar o que não for aplicável, n.º ... (número válido à data do requerimento), reconhecido pelo(a) (entidade onde foi efetuado o reconhecimento) em (data de emissão de certidão de reconhecimento) ao grau académico português de Licenciado/Mestre/Doutor ou diploma de técnico superior profissional (eliminar o que não for aplicável), foi convertida para a classificação final de ... valores (por extenso), de acordo com a escala de classificação portuguesa.\n\n(cidade, sede da Entidade ou Instituição de Ensino Superior onde é efetuado o registo) e data de emissão\n\nO Reitor/Presidente/Diretor-Geral do Ensino Superior (eliminar o que não for aplicável)\n\n(assinatura eletrónica qualificada)\n\nInserção de menção à 2.ª via, quando for o caso.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+  },
+  "129247575": {
+   "fragment_id": "129246205",
+   "type": 14,
+   "heading": "Anexo IV — Certidão de classificação final relativa a grau reconhecido ou declarado equivalente ao abrigo de legislação anterior",
+   "in_force_from": "2020-02-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+   ],
+   "markdown": "## Anexo IV — Certidão de classificação final relativa a grau reconhecido ou declarado equivalente ao abrigo de legislação anterior\n\n(a que se refere o n.º 2 do artigo 11.º-A)\n\nEm conformidade com o disposto na alínea b) do n.º 1 do artigo 6.º e artigo 7.º do Decreto-Lei n.º 66/2018, de 16 de agosto, e no n.º 2 do artigo 11.º-A da Portaria n.º 33/2019, de 25 de janeiro, na sua redação atual, que estabelecem o regime jurídico de reconhecimento de graus académicos e diplomas de ensino superior atribuídos por instituições de ensino superior estrangeiras, certifica-se que:\n\nMenção aplicável quando exista conversão de classificação nos termos da alínea a) do n.º 3 do artigo 11.º-A:\n\nA classificação final de (classificação de origem), referente ao grau académico de (grau estrangeiro na língua de origem), (país de origem do grau), atribuído a (nome do requerente), nacional de (país), portador(a) do cartão de cidadão/bilhete de identidade/passaporte/título de residência (eliminar o que não for aplicável), n.º ... (número válido à data do requerimento), reconhecido pelo(a) (entidade onde foi efetuado o reconhecimento) em ... (data de emissão de certidão) ao grau académico português de Licenciado/Mestre/Doutor (eliminar o que não for aplicável), ao abrigo de (inserir legislação ao abrigo do qual foi feito o reconhecimento) foi convertida para a classificação final de ... valores (por extenso), de acordo com a escala de classificação portuguesa.\n\nMenção aplicável quando exista atribuição de classificação nos termos da alínea b) do n.º 3 do artigo 11.º-A:\n\nAo grau académico de (grau estrangeiro na língua de origem), (país de origem do grau), atribuído a (nome do requerente), nacional de (país), portador(a) do cartão de cidadão/bilhete de identidade/passaporte/título de residência (eliminar o que não for aplicável), n.º ... (número válido à data do requerimento), declarado equivalente pelo(a) (entidade onde foi efetuado a equivalência) em ... (data de emissão de certidão) ao grau académico português de Licenciado/Mestre/Doutor (eliminar o que não for aplicável), em (área de formação/ramo de conhecimento/especialidade) ao abrigo de (inserir legislação ao abrigo da qual foi feita a equivalência) foi atribuída a classificação final de ... valores (por extenso).\n\n(cidade, sede da Entidade ou Instituição de Ensino Superior onde é efetuado o registo) e data de emissão\n\nO Reitor/Presidente/Diretor-Geral do Ensino Superior (eliminar o que não for aplicável)\n\n(assinatura eletrónica qualificada)\n\nInserção de menção à 2.ª via, quando for o caso.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 43/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/43-2020-129208007), em vigor a partir de 2020-02-15"
+  }
+ }
+}

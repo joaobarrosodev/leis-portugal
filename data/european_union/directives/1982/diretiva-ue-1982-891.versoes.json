@@ -1,0 +1,1028 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31982L0891:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982L0891-20170720",
+ "dre_path": null,
+ "source_lastmod": "2017-07-20",
+ "versions": [
+  {
+   "date": "1982-12-31",
+   "future": false,
+   "celex": "31982L0891",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e4147498d03dfe6b",
+    "91b859787190a615",
+    "08a1c31a84794000",
+    "3f2cd29b8b292760",
+    "839bd18ded7bc258",
+    "6dbe96f6b129a01a",
+    "cb0dcae1417859ca",
+    "282914bff4418b26",
+    "7fd795a17016d553",
+    "c89bfba6e5a52c22",
+    "6f1b70b3659ba59e",
+    "2e516cb26286c37d",
+    "45ea7ec06f425bc6",
+    "4625341b1bcf7077",
+    "5901e7965e9ebf78",
+    "34c94871bd915828",
+    "3e5ff8f27b19d651",
+    "afd81a92ec6eba9a",
+    "9c6f36d276c26cc5",
+    "60d209df41fbcd73",
+    "71ad0447ce7932ec",
+    "f01970d6763723ab",
+    "24b7b79e228dcba5",
+    "4410bce67d4630e2",
+    "b535047cfdeb1b7b",
+    "ad2cf231ee2c7054",
+    "c8783f6f5098c2c8",
+    "5b7b401e5978b359"
+   ]
+  },
+  {
+   "date": "2007-12-07",
+   "future": false,
+   "celex": "01982L0891-20071207",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0063:por",
+     "title": "DIRECTIVA 2007/63/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Novembro de 2007",
+     "published": null,
+     "celex": "32007L0063"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita CAPÍTULO I",
+    "Adita Cisão mediante incorporação",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita CAPÍTULO II",
+    "Adita Cisão mediante constituição de novas sociedades",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita CAPÍTULO III",
+    "Adita Cisão sujeita ao controlo da autoridade judicial",
+    "Adita Artigo 23.º",
+    "Adita CAPÍTULO IV",
+    "Adita Outras operações equiparadas à cisão",
+    "Adita Artigo 24.º",
+    "Adita Artigo 25.º",
+    "Adita CAPÍTULO V",
+    "Adita Disposições finais",
+    "Adita Artigo 26.º",
+    "Adita Artigo 27.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime CAPÍTULO I Cisão mediante incorporação — Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime CAPÍTULO II Cisão mediante constituição de novas sociedades — Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime CAPÍTULO III Cisão sujeita ao controlo da autoridade judicial — Artigo 23º",
+    "Suprime CAPÍTULO IV Outras operações equiparadas à cisão — Artigo 24º",
+    "Suprime Artigo 25º",
+    "Suprime CAPÍTULO V Disposições finais — Artigo 26º",
+    "Suprime Artigo 27º"
+   ],
+   "fragments": [
+    "df700e9304656fd4",
+    "ce8e50bf2ac052e4",
+    "226c39ffd0a88dad",
+    "1df42de38a42ad1f",
+    "6b6dc174824acf92",
+    "9472d0aeba3f8e10",
+    "beaa7cf6fe9896c7",
+    "72461d902916093d",
+    "5b8da486e0c1e341",
+    "469a2a51f186412d",
+    "4c023cbaf12a84ee",
+    "02abb023c92f0cee",
+    "66460181d58857ad",
+    "2e81afa710c75fb8",
+    "281365c7c97a88d3",
+    "624de75b2d90dc29",
+    "9643cd3f99c7a6f5",
+    "a8b0ca2719984bb4",
+    "f3063453f7172f66",
+    "0664e8ac049e6413",
+    "4242087d422981ee",
+    "5e06969b7b1ab698",
+    "9435b8eb0b71f22e",
+    "f0f8c960bfdbce9b",
+    "108032ba6a7b72c1",
+    "c75d39bdfbdc412f",
+    "6a698c806e7fd2c1",
+    "1e7a0903d2eed348",
+    "cb455c5fa4d83501",
+    "4cf1761aa9c46abb",
+    "1ecfc79da3f1ac7f",
+    "701cc5c036a8f4bd",
+    "5013871e9f2d7f4e",
+    "fc1fbea584640b2b",
+    "40ed6b62e188ac6f",
+    "bbdde795c58f027f",
+    "dc1066a3ca962cfd",
+    "c6597112255821a5",
+    "e8ae9cd8a1d68f3b"
+   ]
+  },
+  {
+   "date": "2009-10-22",
+   "future": false,
+   "celex": "01982L0891-20091022",
+   "acts": [
+    {
+     "id": "eu:celex:32009L0109:por",
+     "title": "DIRECTIVA 2009/109/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Setembro de 2009",
+     "published": null,
+     "celex": "32009L0109"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 22.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "07b19de00523bfdd",
+    "ce8e50bf2ac052e4",
+    "226c39ffd0a88dad",
+    "1df42de38a42ad1f",
+    "6b6dc174824acf92",
+    "9472d0aeba3f8e10",
+    "bfabb2bb193dc2c2",
+    "72461d902916093d",
+    "bd335cbd4e1b4610",
+    "860588f9291ff9de",
+    "55542676b5e3e3f2",
+    "756b4d464f784005",
+    "66460181d58857ad",
+    "9ee04be916620871",
+    "93b743e602751a55",
+    "624de75b2d90dc29",
+    "9643cd3f99c7a6f5",
+    "a8b0ca2719984bb4",
+    "f3063453f7172f66",
+    "0664e8ac049e6413",
+    "4242087d422981ee",
+    "5e06969b7b1ab698",
+    "630e940c9fe707eb",
+    "f0f8c960bfdbce9b",
+    "108032ba6a7b72c1",
+    "c75d39bdfbdc412f",
+    "d5fd97f20965071b",
+    "1e7a0903d2eed348",
+    "cb455c5fa4d83501",
+    "4cf1761aa9c46abb",
+    "1ecfc79da3f1ac7f",
+    "701cc5c036a8f4bd",
+    "5013871e9f2d7f4e",
+    "fc1fbea584640b2b",
+    "40ed6b62e188ac6f",
+    "bbdde795c58f027f",
+    "dc1066a3ca962cfd",
+    "c6597112255821a5",
+    "9e35ce3aedcad44c"
+   ]
+  },
+  {
+   "date": "2014-07-02",
+   "future": false,
+   "celex": "01982L0891-20140702",
+   "acts": [
+    {
+     "id": "eu:celex:32014L0059:por",
+     "title": "DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio de 2014",
+     "published": null,
+     "celex": "32014L0059"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 11.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "1c3b5f2b7f2377fe",
+    "b605e481c094f279",
+    "226c39ffd0a88dad",
+    "1df42de38a42ad1f",
+    "6b6dc174824acf92",
+    "9472d0aeba3f8e10",
+    "10047fecf894bd88",
+    "72461d902916093d",
+    "bd335cbd4e1b4610",
+    "860588f9291ff9de",
+    "55542676b5e3e3f2",
+    "756b4d464f784005",
+    "66460181d58857ad",
+    "5e23d864f1a4262d",
+    "93b743e602751a55",
+    "624de75b2d90dc29",
+    "9643cd3f99c7a6f5",
+    "a8b0ca2719984bb4",
+    "f3063453f7172f66",
+    "0664e8ac049e6413",
+    "4242087d422981ee",
+    "5e06969b7b1ab698",
+    "9cd75a6b61e67d78",
+    "f0f8c960bfdbce9b",
+    "108032ba6a7b72c1",
+    "c75d39bdfbdc412f",
+    "d5fd97f20965071b",
+    "1e7a0903d2eed348",
+    "cb455c5fa4d83501",
+    "4cf1761aa9c46abb",
+    "1ecfc79da3f1ac7f",
+    "701cc5c036a8f4bd",
+    "5013871e9f2d7f4e",
+    "fc1fbea584640b2b",
+    "40ed6b62e188ac6f",
+    "bbdde795c58f027f",
+    "dc1066a3ca962cfd",
+    "c6597112255821a5",
+    "a34a38602ceb8ca4"
+   ]
+  },
+  {
+   "date": "2017-07-20",
+   "future": false,
+   "celex": "01982L0891-20170720",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime CAPÍTULO I",
+    "Suprime Cisão mediante incorporação",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime CAPÍTULO II",
+    "Suprime Cisão mediante constituição de novas sociedades",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime CAPÍTULO III",
+    "Suprime Cisão sujeita ao controlo da autoridade judicial",
+    "Suprime Artigo 23.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime Outras operações equiparadas à cisão",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime CAPÍTULO V",
+    "Suprime Disposições finais",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "9c33845fa0e324da"
+   ]
+  }
+ ],
+ "fragments": {
+  "e4147498d03dfe6b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Sexta Directiva 82/891/CEE do Conselho, de 17 de Dezembro de 1982, fundada no nº 3, alínea g), do artigo 54º do Tratado, relativa às cisões de sociedades anónimas** *Jornal Oficial nº L 378 de 31/12/1982 p. 0047 - 0054 Edição especial finlandesa: Capítulo 17 Fascículo 1 p. 0041 Edição especial espanhola: Capítulo 17 Fascículo 1 p. 0111 Edição especial sueca: Capítulo 17 Fascículo 1 p. 0041 Edição especial portuguesa: Capítulo 17 Fascículo 1 p. 0111*\n\nSEXTA DIRECTIVA DO CONSELHO de 17 de Dezembro de 1982 fundada no nº 3, alínea g), do artigo 54º do Tratado, relativa às cisões de sociedades anónimas (82/901/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o nº 3, alínea g), do seu artigo 54°,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a coordenação prevista no nº 3, alínea g), do artigo 54º e no programa geral para a supressão das restrições à liberdade de estabelecimento (4) se iniciou com a Directiva nº 68/151/CEE (5);\n\nConsiderando que esta coordenação prosseguiu com a Directiva nº 77/91/CEE (6), relativa à constituição da sociedade anónima bem como à conservação e às modificações do seu capital, com a Directiva nº 77/660/CEE (7), relativa às contas anuais de certos tipos de sociedades e com a Directiva nº 78/885/CEE (8), relativa à fusão de sociedades anónimas,\n\nConsiderando que a Directiva nº 78/855/CEE apenas regulou a fusão de sociedades anónimas e certas operações equiparadas; que, todavia, a proposta da Comissão contemplava igualmente a operação de cisão; que o Parlamento Europeu e o Comité Económico e Social se pronunciaram também a favor de uma regulamentação desta operação;\n\nConsiderando que, por causa das semelhanças existentes entre as operações de fusão e de cisão, o risco de que as garantias instituídas relativamente às fusões pela Directiva nº 78/855/CEE sejam iludidas só poderá ser evitado se se previr uma protecção equivalente no caso de cisão;\n\nConsiderando que a protecção dos interesses dos sócios e de terceiros requer uma coordenação das legislações dos Estados-membros no que respeita às cisões das sociedades anónimas, quando os Estados-membros permitam esta operação;\n\nConsiderando que, no âmbito desta coordenação, é particularmente importante assegurar aos accionistas das sociedades participantes na cisão uma informação adequada e tanto quanto possível objectiva, bem como garantir uma protecção apropriada dos seus direitos;\n\nConsiderando que a protecção dos direitos dos trabalhadores no caso de transmissão de empresas, estabelecimentos ou partes de estabelecimentos está actualmente disciplinada pela Directiva nº 77/187/CEE (9);\n\nConsiderando que os credores, obrigacionistas ou não, e os portadores de outros títulos das sociedades participantes na cisão devem ser protegidos de modo a evitar que a realização da cisão os prejudique;\n\nConsiderando que a publicidade prevista pela Directiva nº 68/151/CEE deve ser extensiva às operações relativas à ciasão, a fim de que os terceiros dela sejam suficientemente informados;\n\nConsiderando que é necessário alargar as garantias previstas a favor dos sócios e de terceiros, no âmbito do processo de cisão, a certas operações jurídicas que têm, em certos pontos essenciais, características análogas às da cisão, a fim de que esta protecção não possa ser iludida;\n\nConsiderando que, para assegurar a segurança jurídica nas relações tanto entre as sociedades participantes na cisão, como entre estas e terceiros, bem como entre os accionistas, há que limitar os casos de invalidade, estabelecendo, por (1) JO nº C 89 de 14.7.1970, p. 20. (2) JO nº C 129 de 11.12.1979, p. 50, e JO nº C 95 de 28.4. 1975, p. 12. (3) JO nº C 88 de 6.9.1971, p. 18. (4) JO nº 2 de 15.1.1962, p. 36/62. (5) JO nº L 65 de 14.3.1968, p. 8. (6) JO nº L 26 de 31.1.1977, p. 1. (7) JO nº L 222 de 14.8.1978, p. 11. (8) JO nº L 295 de 20.10.1978, p. 36. (9) JO nº L 61 de 5.3.1977, p. 26. um lado, que os vícios do acto sejam sanáveis, sempre que possível, e, por outro lado, um prazo breve para invocar a invalidade,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "91b859787190a615": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Se os Estados-membros permitirem a operação de cisão mediante incorporação, conforme adiante definida no artigo 2º, de sociedades sujeitas à sua legislação e referidas no nº 1 do artigo 1º da Directiva nº 78/855/CEE, submeterão esta operação às disposições do capitulo I da presente directiva.\n\n2. Se os Estados-membros permitirem a operação de cisão das sociedades referidas no nº 1 mediante constituição de novas sociedades, conforme definida no artigo 21º, submeterão esta operação às disposições do capítulo II.\n\n3. Se os Estados-membros permitirem, para as sociedades indicadas no nº 1, a operação pela qual uma cisão mediante incorporação, definida no nº 1 do artigo 2º, é combinada com uma cisão mediante constituição de uma ou mais novas sociedades, definida no nº 1 do artigo 21º, submeterão esta operação às disposições do capítulo I e do artigo 22º.\n\n4. Serão aplicáveis os nºs 2 e 3 do artigo 1º da Directiva nº 78/855/CEE."
+  },
+  "08a1c31a84794000": {
+   "fragment_id": "CAPÍTULO I Cisão mediante incorporação — Artigo 2º",
+   "type": "divisao",
+   "heading": "CAPÍTULO I Cisão mediante incorporação — Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I Cisão mediante incorporação — Artigo 2º\n\n1. Para os efeitos da presente directiva, entende-se por cisão mediante incorporação a operação pela qual uma sociedade, por meio da sua dissolução sem liquidação, transfere para várias outras sociedades todo o seu património activo e passivo, mediante a atribuição aos accionistas da sociedade cindida de acções das sociedades beneficiárias das transmissões resultantes da cisão, adiante chamadas «sociedades beneficiárias», e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal das acções atribuídas ou, na falta de valor ominal, do seu valor contabilístico.\n\n2. Será aplicável o nº 2 do artigo 3º da Directiva nº 78/855/CEE.\n\n3. Sempre que a presente directiva remeta para a Directiva nº 78/855/CEE, a expressão «sociedades participantes na fusão» designará as sociedades que participam na cisão, a expressão «sociedade incorporada» designará a sociedade cindida, a expressão «sociedade incorporante» designará cada uma das sociedades beneficiárias e a expressão «projecto de fusão» designará o projecto de cisão."
+  },
+  "3f2cd29b8b292760": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os órgãos de administração ou de direcção das sociedades que participam na cisão elaborarão um projecto escrito de cisão.\n\n2. O projecto de cisão indicará, pelo menos: a) O tipo, a denominação e a sede social das sociedades participantes na cisão;\n\nb) A relação de troca das acções e, se for caso disso, a quantia em dinheiro atribuída aos accionistas;\n\nc) As modalidades de entrega das acções das sociedades beneficiárias;\n\nd) A data a partir da qual estas acções conferem direito aos dividendos, bem como qualquer especialidade relativa a este direito;\n\ne) A data a partir da qual as operações da sociedade cindida serão consideradas, do ponto de vista contabilístico, efectuadas por conta de uma ou de outra das sociedades beneficiárias;\n\nf) Os direitos assegurados pelas sociedades beneficiárias aos accionistas que gozem de direitos especiais e aos portadores de títulos diferentes das acções, ou as medidas propostas relativamente a eles;\n\ng) Quaisquer vantagens especiais atribuídas aos peritos, referidas no nº 1 do artigo 8º, bem como aos membros dos órgãos de administração, da direcção, de vigilância ou de fiscalização das sociedades participantes na cisão;\n\nh) A descrição e a repartição precisas dos elementos do património activo e passivo a transmitir para cada uma das sociedades beneficiárias;\n\ni) A repartição pelos accionistas da sociedade cindida das acções das sociedades beneficiárias, bem como o critério em que esta repartição se baseou.\n\n3. a) Quando um elemento do património activo não for atribuído no projecto de cisão e a interpretação deste não permitir decidir a sua repartição, esse elemento ou o seu contra-valor será repartido entre todas as sociedades beneficiárias proporcionalmente ao activo atribuído a cada uma destas no projecto de cisão.\n\nb) Quando um elemento do património passivo não for atribuído no projecto de cisão e a interpretação deste não permitir decidir a sua repartição, cada uma das sociedades beneficiárias será solidariamente responsável por ele. Os Estados-membros podem determinar que esta responsabilidade solidária seja limitada ao activo líquido atribuído a cada sociedade beneficiária."
+  },
+  "839bd18ded7bc258": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nO projecto de cisão deve ser objecto de publicidade a efectuar segundo os moldes previstos pela legislação de cada Estado-membro, nos termos do artigo 3º da Directiva nº 68/151/CEE (1), relativamente a cada uma das sociedades participantes na cisão, com uma antecedência mínima de um mês sobre a data da reunião da assembleia geral convocada para se pronunciar sobre o projecto de cisão."
+  },
+  "6dbe96f6b129a01a": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. A cisão tem de ser aprovada, pelo menos, pela assembleia geral de cada uma das sociedades participantes. O artigo 7º da Directiva nº 78/855/CEE é aplicável no que respeita à maioria requerida para estas deliberações, ao alcance destas, bem como à necessidade de um voto separado.\n\n2. Se as acções das sociedades beneficiárias forem atribuídas aos accionistas da sociedade cindida não proporcionalmente aos seus direitos no capital desta sociedade, os Estados-membros podem estabelecer que os accionistas minoritários desta mesma sociedade terão o direito de exigir que lhes adquiram as suas acções. Neste caso, terão o direito de obter uma contrapartida correspondente ao valor das suas acções. Em caso de desacordo sobre a contrapartida, esta deve poder ser determinada por um tribunal."
+  },
+  "cb0dcae1417859ca": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nA legislação de um Estado-membro pode não exigir a aprovação da cisão pela assembleia geral de uma sociedade beneficiária, desde que sejam observados os seguintes requesitos: a) A publicidade prescrita no artigo 4º deve ser efectuada, relativamente à sociedade beneficiária, pelo menos um mês antes da data da reunião da assembleia geral da sociedade cindida, convocada para se pronunciar sobre o projecto de cisão;\n\nb) Todos os accionistas da sociedade beneficiária devem ter o direito de consultar, na sede social desta sociedade, pelo menos um mês antes da data indicada na alínea a), os documentos indicados no nº 1 do artigo 9º;\n\nc) Um ou vários accionistas da sociedade beneficiária, que disponham de uma percentagem mínima de capital subscrito, devem ter o direito de exigir a convocação de uma assembleia geral da sociedade beneficiária, para esta se pronunciar sobre a aprovação da cisão. Esta percentagem mínima não pode ser fixada em mais de 5 %. Contudo, os Estados-membros podem dispor que as acções sem direito de voto são excluídas do cálculo dessa percentagem."
+  },
+  "282914bff4418b26": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os órgãos de administração ou de direcção de cada uma das sociedades participantes na cisão elaborarão um relatório escrito pormenorizado, explicando e justificando do ponto de vista jurídico e económico o projecto de cisão e, em especial, a relação de troca das acções, bem como o critério para a sua atribuição.\n\n2. O relatório indicará, além disso, as dificuldades especiais de avaliação, caso existam.\n\nO relatório deve mencionar igualmente a elaboração do relatório sobre a verificação das entradas que não consistam em dinheiro, previsto pelo nº 2 do artigo 27º da Directiva nº 77/91/CEE (2), para as sociedades beneficiárias, bem como o registo em que tal relatório deve ser depositado.\n\n3. Os órgãos de direcção ou de administração da sociedade cindida devem informar a assembleia geral desta sociedade, bem como os órgãos de direcção ou de administração das sociedades beneficiárias, para que eles informem a assembleia geral da sua sociedade de qualquer mudança importante do património activo e passivo, ocorrida entre a data da elaboração do projecto de cisão e a data da reunião da assembleia geral da sociedade cindida, convocada para se pronunciar sobre o projecto de cisão."
+  },
+  "7fd795a17016d553": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Relativamente a cada uma das sociedades participantes na cisão, um ou mais peritos independentes destas, designados ou reconhecidos por uma autoridade judicial ou administrativa, examinarão o projecto de cisão e redigirão um relatório escrito, destinado aos accionistas. Contudo, a legislação de um Estado-membro pode prever a nomeação de um ou de vários peritos independentes para todas as sociedades participantes na cisão, se esta nomeação for feita por uma autoridade judicial ou administrativa, a pedido conjunto destas sociedades. Estes peritos podem ser pessoas singulares ou colectivas ou sociedades, conforme dispuser a legislação de cada Estado-membro.\n\n2. São aplicáveis os nºs 2 e 3 do artigo 10º da Directiva nº 78/855/CEE.\n\n3. Os Estados-membros podem determinar que o relatório sobre a verificação das entradas que não consistam em dinheiro, referido no nº 2 do artigo 27º da Directiva nº 77/91/CEE, assim como o relatório sobre o projecto de cisão, referido no nº 2 do presente artigo, sejam elaborados pelo mesmo ou mesmos peritos. (1) JO nº L 65 de 14.3.1968, p. 9. (2) JO nº L 26 de 31.1.1977, p. 1."
+  },
+  "c89bfba6e5a52c22": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Qualquer accionista tem o direito de consultar com uma antecedência mínima de um mês relativamente à data da reunião da assembleia geral convocada para se pronunciar sobre o projecto de cisão, pelo menos, os seguintes documentos: a) Os projecto de cisão;\n\nb) As contas anuais, bem como os relatórios de gestão dos três últimos exercícios das sociedades participantes na cisão;\n\nc) Balanço contabilístico reportado a uma data que não deve ser anterior ao primeiro dia do terceiro mês anterior à data do projecto de cisão, no caso de as últimas contas anuais se reportarem a um exercício cujo termo é anterior em mais de seis meses a esta data;\n\nd) Os relatórios dos órgãos de administração ou de direcção das sociedades participantes na cisão, mencionados no nº 1 do artigo 7º;\n\ne) Os relatórios mencionados no artigo 8º\n\n2. O balanço contabilístico previsto no nº 1, alínea c) será elaborado segundo os mesmos métodos e seguindo a mesma apresentação do último balanço anual.\n\nContudo, a legislação de um Estado-membro pode estabelecer: a) Que não é necessário proceder a um novo inventário físico;\n\nb) Que as avaliações que figuram no último balanço apenas devem ser alteradas em função dos lançamentos contabilísticos. Todavia, devem ser tomadas em conta: - as amortizações e provisões provisórias;\n\n- as modificações importantes do valor real que não aparecem na contabilidade.\n\n3. Qualquer accionista pode obter, sem encargos e através de um simples pedido, cópia integral ou, se o desejar, parcial dos documentos mencionados no nº 1."
+  },
+  "6f1b70b3659ba59e": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros podem permitir que o disposto no artigo 7º, nos nºs 1 e 2 do artigo 8º e no nº 1, alíneas c), d) e e), do artigo 9º não se apliquem se todos os accionistas e os portadores de outros títulos que confiram direito de voto das sociedades que participam na cisão a isso tiverem renunciado."
+  },
+  "2e516cb26286c37d": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nA protecção dos direitos dos trabalhadores de cada uma das sociedades participantes na cisão é regulada nos termos da Directiva nº 77/187/CEE (1)."
+  },
+  "45ea7ec06f425bc6": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. As legislações dos Estados-membros devem prever um adequado sistema de protecção dos interesses dos credores das sociedades participantes na cisão, relativamente aos créditos anteriores à publicação do projecto de cisão e ainda não vencidos no momento desta publicação.\n\n2. Para este efeito, as legislações dos Estados-membros devem estabelecer, pelo menos, que estes credores terão o direito de obter garantias adequadas sempre que a situação financeira da sociedade cindida, bem como a da sociedade para a qual a obrigação será transferida em conformidade com o projecto de cisão, torne essa protecção necessária e estes credores não disponham já de tais garantias.\n\n3. Na medida em que o credor da sociedade para a qual a respectiva obrigação foi transferida, em conformidade com o projecto de cisão, não tenha obtido satisfação do seu crédito, as sociedades beneficiárias respondem solidariamente por esta obrigação. Os Estados-membros podem limitar esta responsabilidade ao activo líquido atribuído a cada uma das outras sociedades, diversas daquela para a qual a obrigação foi transferida. Os Estados-membros podem não aplicar o disposto no presente nº se a operação de cisão for submetida ao controlo de uma autoridade judicial, nos termos do artigo 23º, e a maioria dos credores, representando três quartos do montante dos créditos, ou a maioria de uma categoria de credores da sociedade cindida, representando três quartos do montante dos créditos desta categoria, tiver renunciado a fazer valer esta responsabilidade solidária, em assembleia realizada nos termos do disposto no nº 1, alínea a), do artigo 23º\n\n4. É aplicável o disposto no nº 3 do artigo 13º da Directiva nº 78/855/CEE.\n\n5. Sem prejuízo das normas relativas ao exercício colectivo dos seus direitos, o disposto nos nºs 1 a 4 é aplicável aos obrigacionistas das sociedades participantes na cisão, salvo se a cisão tiver sido aprovada por uma assembleia de obrigacionistas, quando a lei nacional preveja um tal assembleia, ou pelos obrigacionistas individualmente.\n\n6. Os Estados-membros podem estabelecer que as sociedades beneficiárias respondam solidariamente pelas obrigações da sociedade cindida. Neste caso, podem não aplicar o disposto nos nºs anteriores.\n\n7. Se um Estado-membro combinar o regime de protecção dos credores referido noa nºs 1 a 5 com a responsabilidade solidária das sociedades beneficiárias referida no nº 6, pode limitar esta responsabilidade ao acitvo líquido atribuído a cada uma destas sociedades. (1) JO nº L 61 de 5.3.1977, p. 26."
+  },
+  "4625341b1bcf7077": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs portadores de títulos que não sejam acções, dotados de direitos especiais, devem beneficiar, nas sociedades beneficiárias contra as quais estes títulos podem ser invocados, nos termos do projecto de cisão, de direitos, pelo menos, equivalentes àqueles de que beneficiavam na sociedade cindida, salvo se a modificação destes direitos tiver sido aprovada por uma assembleia dos portadores desses títulos, no caso de a lei nacional prever uma tal assembleia, ou pelos portadores destes títulos indiviedualmente, ou ainda se estes portadores tiverem o direito de obter da sociedade beneficiária o resgate dos seus títulos."
+  },
+  "5901e7965e9ebf78": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nSe a legislação de um Estado-membro não previr para as cisões um controlo preventivo de legalidade, judicial ou administrativo, ou se esse controlo não incidir sobre todos os actos necessários à cisão, aplicar-se-á o disposto no artigo 16º da Directiva nº 78/855/CEE."
+  },
+  "34c94871bd915828": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nAs legislações dos Estados-membros determinarão a data a partir da qual a cisão produz efeitos."
+  },
+  "3e5ff8f27b19d651": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. A cisão deve ser objecto de uma publicidade efectuada segundo os moldes previstos pela legislação de cada Estado-membro, nos termos do artigo 3º da Directiva nº 68/151/CEE, para cada uma das sociedades participantes.\n\n2. Qualquer sociedade beneficiária pode proceder ela própria às formalidades de publicidade respeitantes à sociedade cindida."
+  },
+  "afd81a92ec6eba9a": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\n1. A cisão produz ipso jure e simultaneamente os seguintes efeitos: a) A transmissão, do conjunto do patromónio activo e passivo da sociedade cindida para as sociedades beneficiárias, tanto no que a estas respeita, como relativamente a terceiros; esta transmissão efectua-se por partes, nos termos da repartição prevista no projecto de cisão ou no nº 3 do artigo 3º;\n\nb) Os accionistas da sociedade cindida tornam-se accionistas de uma ou das sociedades beneficiárias, nos termos da repartição prevista no projecto de cisão;\n\nc) A sociedade cindida extingue-se.\n\n2. Nenhuma acção de uma sociedade beneficiária é dada em troca de acções da sociedade cindida, que sejam possuídas: a) Quer pela própria sociedade beneficiária, quer por pessoa que actue em nome próprio, mas por conta da sociedade;\n\nb) Quer pela própria sociedade cindida, quer por pessoa que actue em nome próprio, mas por conta da sociedade.\n\n3. Não são afectadas as disposições legislativas dos Estados-membros que exijam formalidades particulares para a oponibilidade a terceiros da transmissão de certos bens, direitos e obrigações, provindos da sociedade cindida. A ou as sociedades beneficiárias para as quais sejam transmitidos estes bens, direitos ou obrigações, nos termos do projecto de cisão ou do nº 3 do artigo 3º, podem efectuar elas próprias estas formalidades: contudo, a legislação dos Estados-membros pode permitir que a sociedade cindida continue a efectuar essas formalidades durante um período limitado, que não pode ser fixado, salvo casos excepcionais, em mais de seis meses a contar da data a partir da qual a cisão produz efeitos."
+  },
+  "9c6f36d276c26cc5": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nAs legislações dos Estados-membros regularão, pelo menos, a responsabilidade civil dos membros do órgão de administração ou de direcção da sociedade cindida para com os accionistas desta sociedade, decorrente das irregularidades cometidas por membros desse órgão na preparação e na realização da cisão, bem como a responsabilidade civil dos peritos encarregados de elaborar para essa sociedade o relatório previsto no artigo 8º decorrente de irregularidades cometidas por esses peritos no exercício das suas funções."
+  },
+  "60d209df41fbcd73": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\n1. As legislações dos Estados-membros podem disciplinar o regime da invalidade da cisão, mas somente nas seguintes condições: a) A invalidade deve ser reconhecida por decisão judicial;\n\nb) A invalidade de uma cisão que se tornou eficaz nos termos do artigo 15º só pode ser reconhecida com fundamento na falta do controlo preventivo de legalidade judicial ou administrativo, ou de documento autêntico, ou se for decidido que a deliberação da assembleia geral é nula ou anulável, por força do direito nacional;\n\nc) A acção de invalidade não pode ser intentada se a irregularidade já tiver sido sanada ou se já tiver decorrido o prazo de seis meses, a contar da data em que a cisão é oponível àquele que invocar a invalidade.\n\nd) No caso de ser possível sanar o vício susceptível de produzir a invalidade da cisão, o tribunal comopetente concederá às sociedades interessadas um prazo para regularizar a situação;\n\ne) A decisão que profira a invalidade da cisão deve ser objecto de uma publicidade a efectuar pelos modos previstos na legislação de cada Estado-membro, nos termos do artigo 3º da Directiva nº 68/151/CEE;\n\nf) A oposição de terceiros, no caso de ser prevista pela legislação de um Estado-membro, não pode ser admitida depois de decorridos seis meses a contar da publicidade da decisão, efectuada nos termos da Directiva nº 68/151/CEE;\n\ng) A decisão que profira a invalidade da cisão não afecta, por si só, a validade das obrigações nascidas contra ou a favor das sociedades beneficiárias, anteriormente à publicidade da decisão, mas posteriormente à data mencionada no artigo 15º;\n\nh) Cada uma das sociedades beneficiárias responde pelas obrigações postas a seu cargo e contraídas após a data em que a cisão produziu efeito mas antes da data em que a decisão que profira a invalidade da cisão seja publicada. A sociedade cindida responde também por estas obrigações; os Estados-membros podem prever que esta responsabilidade seja limitada ao activo líquido atribuído à sociedade beneficiária a cargo da qual foram contraídas estas obrigações.\n\n2. Em derrogação do disposto no nº 1, alínea a), a legislação de um Estado-membro pode também prever que a invalidade da cisão seja reconhecida por uma autoridade administrativa, desde que possa ser interposto um recurso de tal decisão perante uma autoridade judicial. As alíneas b), d), e), f), g) e h) são aplicáveis por analogia com relação à autoridade administrativa. Este processo de invalidade não pode ser iniciado depois de decorridos seis meses a contar da data referida no artigo 15º\n\n3. Ficam ressalvadas as legislações dos Estados-membros relativas à invalidade de uma cisão, reconhecida na sequência de um controlo desta, diverso do controlo preventivo de legalidade judicial ou administrativo."
+  },
+  "71ad0447ce7932ec": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nSe as sociedades beneficiárias, no seu conjunto, forem titulares de todas as acções da sociedade cindida e dos outros títulos desta que confiram direito de voto em assembleia geral, os Estados-membros podem, sem prejuízo do artigo 6º, não exigir a aprovação da cisão pela assembleia geral da sociedade cindida desde que sejam observados, pelo menos, os seguintes requesitos: a) A publicidade prescrita no artigo 4º deve ser efectuada por cada uma das sociedades participantes na operação, um mês antes, pelo menos, de a operação produzir efeitos;\n\nb) Todos os accionistas das sociedades participantes na operação devem ter o direito de consultar, na sede social da sua sociedade, pelo menos um mês antes de a operação produzir efeitos, os documentos indicados no nº 1 do artigo 9º. Os nºs 2 e 3 do artigo 9 são também aplicáveis;\n\nc) Um ou vários accionistas da sociedade cindida, que disponham de acções representativas de uma percentagem mínima do capital subscrito, devem ter o direito de exigir a convocação de uma assembleia geral da sociedade cindida, para que esta delibere sobre a aprovação da cisão. Esta percentagem mínima não pode ser ficada em mais de 5 %. Contudo, os Estados-membros podem dispor que as acções sem direito de voto são excluídas do cálculo dessa percentagem;\n\nd) Na falta de convocação da assembleia geral da sociedade cindida para deliberar sobre a cisão, a informação referida no nº 3 do artigo 7º dirá respeito a qualquer mudança importante do património activo e passivo, ocorrida depois da elaboração do projecto de cisão."
+  },
+  "f01970d6763723ab": {
+   "fragment_id": "CAPÍTULO II Cisão mediante constituição de novas sociedades — Artigo 21º",
+   "type": "divisao",
+   "heading": "CAPÍTULO II Cisão mediante constituição de novas sociedades — Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II Cisão mediante constituição de novas sociedades — Artigo 21º\n\n1. Para os efeitos da presente directiva, entende-se por cisão mediante constituição de novas sociedades a operação pela qual uma sociedade, por meio de uma dissolução sem liquidação, transfere para várias sociedades constituídas de novo todo o seu património activo e passivo, mediante a atribuição aos accionistas da sociedade cindida de acções das sociedades beneficiárias e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal das acções assim atribuídas ou, na falta de valor nominal, do seu valor contabilístico.\n\n2. É aplicável o disposto no nº 2 do artigo 4º da Directiva nº 78/855/CEE."
+  },
+  "24b7b79e228dcba5": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\n1. Os artigos 3º, 4º, 5º e 7º os nºs 1 e 2, do artigo 8º e os artigos 9º a 19º são aplicáveis, sem prejuízo dos artios 11º e 12º da Directiva nº 68/151/CEE, à cisão mediante constituição de novas sociedades. Para efeitos desta aplicação, a expressão «sociedades participantes na cisão» designa a sociedade cindida, a expressão «sociedades participantes na cisão» designa a sociedade cindida, a expressão «sociedade beneficiária das entradas resultantes da cisão» designa cada uma das novas sociedades.\n\n2. Os projecto de cisão deve mencionar, além das indicações referidas no nº 2 do artigo 3º, o tipo, a denominação e a sede social de cada uma das novas sociedades.\n\n3. O projecto de cisão e, se constarem de acto separado, o acto constitutivo ou o projecto de acto constitutivo e os estatutos ou o projecto de estatutos de cada uma das novas sociedades devem ser aprovados pela assembleia geral da sociedade cindida.\n\n4. Os Estados-membros podem determinar que o relatório sobre a vertificação das entradas que não consistam em dinheiro, referido no artigo 10º da Directiva nº 77/91/CEE, bem como o relatório sobre o projecto de cisão referido no nº 1 do artigo 8º da presente directiva devem ser elaborados pelo mesmo ou pelos mesmos peritos.\n\n5. Os Estados-membros podem estabelecer que nem o artigo 8º nem o artigo 9º se aplicam, no que diz respeito ao relatório de peritos, sempre que as acções de cada uma das novas sociedades forem atribuídas aos accionistas da sociedade cindida proporcionalmente aos seus direitos no capital desta sociedade."
+  },
+  "4410bce67d4630e2": {
+   "fragment_id": "CAPÍTULO III Cisão sujeita ao controlo da autoridade judicial — Artigo 23º",
+   "type": "divisao",
+   "heading": "CAPÍTULO III Cisão sujeita ao controlo da autoridade judicial — Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III Cisão sujeita ao controlo da autoridade judicial — Artigo 23º\n\n1. Os Estados-membros podem aplicar o disposto no nº 2 sempre que a operação de cisão estiver submetida ao controlo de uma autoridade judicial que tenha o poder de: a) Convocar a assembleia geral dos accionistas da sociedade cindida, a fim de deliberar sobre a cisão;\n\nb) Assegurar-se de que os accionistas de cada uma das sociedades participantes na cisão receberam ou podem obter, pelo menos, os documentos referidos no artigo 9º, em prazo que lhes permita examiná-los em tempo útil antes da data da reunião da assembleia geral da sua sociedade que deva deliberar sobre a cisão; se um Estado-membro utilizar a faculdade prevista no artigo 6º, o prazo deve ser suficiente para permitir aos accionistas das sociedades beneficiárias o exercício dos direitos que lhes são concedidos neste último artigo;\n\nc) Convocar qualquer assembleia de credores de cada uma das sociedades participantes na cisão, a fim de se pronunciar sobre a cisão;\n\nd) Assegurar-se de que os credores de cada uma das sociedades participantes na cisão receberam ou podem obter, pelo menos, o projecto de cisão, em prazo que permita examiná-lo em tempo útil antes da data referida na alínea b);\n\ne) Aprovar o projecto de cisão.\n\n2. Sempre que a autoridade judicial verificar que as condições referidas no nº 1, alíneas b) e d) estão preenchidas e que os accionistas e os credores não sofrerão prejuízos, pode dispensar as sociedades participantes de aplicar: a) O artigo 4º, contanto que o sistema de tutela dos interesses dos credores, referido no nº 1 do artigo 12º, cubra todos os créditos, independentemente da data em que se tenham constituído;\n\nb) Os requesitos referidos nas alíneas a) e b) do artigo 6º, quando um Estado-membro usar da faculdade prevista no dito artigo;\n\nc) O artigo 9º, pelo que respeita ao prazo e às modalidades estabelecidas para permitir aos accionistas tomar conhecimento dos documentos aí referidos."
+  },
+  "b535047cfdeb1b7b": {
+   "fragment_id": "CAPÍTULO IV Outras operações equiparadas à cisão — Artigo 24º",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV Outras operações equiparadas à cisão — Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV Outras operações equiparadas à cisão — Artigo 24º\n\nSempre que a legislação de um Estado-membro permitir, para uma das operações referidas no artigo 1º, que a quantia em dinheiro atribuída aos accionistas ultrapasse a percentagem de 10 %, são aplicáveis os capítulos I, II e III."
+  },
+  "ad2cf231ee2c7054": {
+   "fragment_id": "Artigo 25º",
+   "type": "artigo",
+   "heading": "Artigo 25º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25º\n\nSempre que a legislação de um Estado-membro permitir uma das operações referidas no artigo 1º, sem que a sociedade cindida se extinga, são aplicáveis os capítulos I, II e III, com excepção do disposto no nº 1, alínea c), do artigo 17º."
+  },
+  "c8783f6f5098c2c8": {
+   "fragment_id": "CAPÍTULO V Disposições finais — Artigo 26º",
+   "type": "divisao",
+   "heading": "CAPÍTULO V Disposições finais — Artigo 26º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V Disposições finais — Artigo 26º\n\n1. Os Estados-membros porão em vigor, antes de 1 de Janeiro de 1986, as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, desde que nessa data permitam as operações às quais a directiva se aplica. Deste facto informarão imediatamente a Comissão.\n\n2. Se um Estado-membro apenas vier a permitir a operação de cisão após a data prevista no nº 1, porá em vigor as disposições indicadas no referido nº, nadata em que permitir esta operação. Deste facto informará imediatamente a Comissão.\n\n3. Contudo, pode ser previsto um prazo de cinco anos a contar da entrada em vigor das disposições referidas no nº 1 para a sua aplicação às «unregistered companies» no Reino Unido e na Irlanda.\n\n4. Os Estados-membros podem deixar de aplicar os artigos 12º e 13º, no que respeita aos detentores de obrigações e de outros títulos convertíveis em acções se, no momento da entrada em vigor das disposições referidas nos nºs 1 e 2º, as condições de emissão tiverem fixado previamente a posição desses detentores em caso de cisão.\n\n5. Os Estados-membros podem não aplicar a presente directiva às cisões ou às operações equiparadas às cisões, desde que, na data da entrada em vigor das disposições referidas nos nºs 1 e 2, já tenham sido praticados um acto ou uma formalidade prescritos pela legislação nacional, com vista à preparação ou realização de tais operações."
+  },
+  "5b7b401e5978b359": {
+   "fragment_id": "Artigo 27º",
+   "type": "artigo",
+   "heading": "Artigo 27º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 17 de Dezembro de 1982.\n\nPelo Conselho\n\nO Presidente\n\nH. CHRISTOPHERSEN"
+  },
+  "df700e9304656fd4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Dezembro de 1982\n\nfundada no n.º 3, alínea g), do artigo 54.º do Tratado, relativa às cisões de sociedades anónimas\n\n(82/901/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.º 3, alínea g), do seu artigo 54º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0003)),\n\nConsiderando que a coordenação prevista no n.º 3, alínea g), do artigo 54.º e no programa geral para a supressão das restrições à liberdade de estabelecimento ([^4^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0004)) se iniciou com a Directiva n.º 68/151/CEE ([^5^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0005));\n\nConsiderando que esta coordenação prosseguiu com a Directiva n.º 77/91/CEE ([^6^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0006)), relativa à constituição da sociedade anónima bem como à conservação e às modificações do seu capital, com a Directiva n.º 77/660/CEE ([^7^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0007)), relativa às contas anuais de certos tipos de sociedades e com a Directiva n.º 78/885/CEE ([^8^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0008)), relativa à fusão de sociedades anónimas,\n\nConsiderando que a Directiva n.º 78/855/CEE apenas regulou a fusão de sociedades anónimas e certas operações equiparadas; que, todavia, a proposta da Comissão contemplava igualmente a operação de cisão; que o Parlamento Europeu e o Comité Económico e Social se pronunciaram também a favor de uma regulamentação desta operação;\n\nConsiderando que, por causa das semelhanças existentes entre as operações de fusão e de cisão, o risco de que as garantias instituídas relativamente às fusões pela Directiva n.º 78/855/CEE sejam iludidas só poderá ser evitado se se previr uma protecção equivalente no caso de cisão;\n\nConsiderando que a protecção dos interesses dos sócios e de terceiros requer uma coordenação das legislações dos Estados-membros no que respeita às cisões das sociedades anónimas, quando os Estados-membros permitam esta operação;\n\nConsiderando que, no âmbito desta coordenação, é particularmente importante assegurar aos accionistas das sociedades participantes na cisão uma informação adequada e tanto quanto possível objectiva, bem como garantir uma protecção apropriada dos seus direitos;\n\nConsiderando que a protecção dos direitos dos trabalhadores no caso de transmissão de empresas, estabelecimentos ou partes de estabelecimentos está actualmente disciplinada pela Directiva n.º 77/187/CEE ([^9^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0009));\n\nConsiderando que os credores, obrigacionistas ou não, e os portadores de outros títulos das sociedades participantes na cisão devem ser protegidos de modo a evitar que a realização da cisão os prejudique;\n\nConsiderando que a publicidade prevista pela Directiva n.º 68/151/CEE deve ser extensiva às operações relativas à ciasão, a fim de que os terceiros dela sejam suficientemente informados;\n\nConsiderando que é necessário alargar as garantias previstas a favor dos sócios e de terceiros, no âmbito do processo de cisão, a certas operações jurídicas que têm, em certos pontos essenciais, características análogas às da cisão, a fim de que esta protecção não possa ser iludida;\n\nConsiderando que, para assegurar a segurança jurídica nas relações tanto entre as sociedades participantes na cisão, como entre estas e terceiros, bem como entre os accionistas, há que limitar os casos de invalidade, estabelecendo, por um lado, que os vícios do acto sejam sanáveis, sempre que possível, e, por outro lado, um prazo breve para invocar a invalidade,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ce8e50bf2ac052e4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Se os Estados-membros permitirem a operação de cisão mediante incorporação, conforme adiante definida no artigo 2.º, de sociedades sujeitas à sua legislação e referidas no n.º 1 do artigo 1.º da Directiva n.º 78/855/CEE, submeterão esta operação às disposições do capítulo I da presente directiva.\n\n2. Se os Estados-membros permitirem a operação de cisão das sociedades referidas no n.º 1 mediante constituição de novas sociedades, conforme definida no artigo 21.º, submeterão esta operação às disposições do capítulo II.\n\n3. Se os Estados-membros permitirem, para as sociedades indicadas no n.º 1, a operação pela qual uma cisão mediante incorporação, definida no n.º 1 do artigo 2.º, é combinada com uma cisão mediante constituição de uma ou mais novas sociedades, definida no n.º 1 do artigo 21.º, submeterão esta operação às disposições do capítulo I e do artigo 22.º.\n\n4. Serão aplicáveis os n.^os^ 2 e 3 do artigo 1.º da Directiva n.º 78/855/CEE."
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "1df42de38a42ad1f": {
+   "fragment_id": "Cisão mediante incorporação",
+   "type": "divisao",
+   "heading": "Cisão mediante incorporação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cisão mediante incorporação"
+  },
+  "6b6dc174824acf92": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para os efeitos da presente directiva, entende-se por cisão mediante incorporação a operação pela qual uma sociedade, por meio da sua dissolução sem liquidação, transfere para várias outras sociedades todo o seu património activo e passivo, mediante a atribuição aos accionistas da sociedade cindida de acções das sociedades beneficiárias das transmissões resultantes da cisão, adiante chamadas «sociedades beneficiárias», e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal das acções atribuídas ou, na falta de valor ominal, do seu valor contabilístico.\n\n2. Será aplicável o n.º 2 do artigo 3.º da Directiva n.º 78/855/CEE.\n\n3. Sempre que a presente directiva remeta para a Directiva n.º 78/855/CEE, a expressão «sociedades participantes na fusão» designará as sociedades que participam na cisão, a expressão «sociedade incorporada» designará a sociedade cindida, a expressão «sociedade incorporada» designará cada uma das sociedades beneficiárias e a expressão «projecto de fusão» designará o projecto de cisão."
+  },
+  "9472d0aeba3f8e10": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os órgãos de administração ou de direcção das sociedades que participam na cisão elaborarão um projecto escrito de cisão.\n\n2. O projecto de cisão indicará, pelo menos:\n\na) O tipo, a denominação e a sede social das sociedades participantes na cisão;\n\nb) A relação de troca das acções e, se for caso disso, a quantia em dinheiro atribuída aos accionistas;\n\nc) As modalidades de entrega das acções das sociedades beneficiárias;\n\nd) A data a partir da qual estas acções conferem direito aos dividendos, bem como qualquer especialidade relativa a este direito;\n\ne) A data a partir da qual as operações da sociedade cindida serão consideradas, do ponto de vista contabilístico, efectuadas por conta de uma ou de outra das sociedades beneficiárias;\n\nf) Os direitos assegurados pelas sociedades beneficiárias aos accionistas que gozem de direitos especiais e aos portadores de títulos diferentes das acções, ou as medidas propostas relativamente a eles;\n\ng) Quaisquer vantagens especiais atribuídas aos peritos, referidas no n.º 1 do artigo 8.º, bem como aos membros dos órgãos de administração, da direcção, de vigilância ou de fiscalização das sociedades participantes na cisão;\n\nh) A descrição e a repartição precisas dos elementos do património activo e passivo a transmitir para cada uma das sociedades beneficiárias;\n\ni) A repartição pelos accionistas da sociedade cindida das acções das sociedades beneficiárias, bem como o critério em que esta repartição se baseou.\n\na) Quando um elemento do património activo não for atribuído no projecto de cisão e a interpretação deste não permitir decidir a sua repartição, esse elemento ou o seu contra-valor será repartido entre todas as sociedades beneficiárias proporcionalmente ao activo atribuído a cada uma destas no projecto de cisão.\n\nb) Quando um elemento do património passivo não for atribuído no projecto de cisão e a interpretação deste não permitir decidir a sua repartição, cada uma das sociedades beneficiárias será solidariamente responsável por ele. Os Estados-membros podem determinar que esta responsabilidade solidária seja limitada ao activo líquido atribuído a cada sociedade beneficiária."
+  },
+  "beaa7cf6fe9896c7": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO projecto de cisão deve ser objecto de publicidade a efectuar segundo os moldes previstos pela legislação de cada Estado-membro, nos termos do artigo 3.º da Directiva n.º 68/151/CEE ([^10^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0010)), relativamente a cada uma das sociedades participantes na cisão, com uma antecedência mínima de um mês sobre a data da reunião da assembleia geral convocada para se pronunciar sobre o projecto de cisão."
+  },
+  "72461d902916093d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A cisão tem de ser aprovada, pelo menos, pela assembleia geral de cada uma das sociedades participantes. O artigo 7.º da Directiva n.º 78/855/CEE é aplicável no que respeita à maioria requerida para estas deliberações, ao alcance destas, bem como à necessidade de um voto separado.\n\n2. Se as acções das sociedades beneficiárias forem atribuídas aos accionistas da sociedade cindida não proporcionalmente aos seus direitos no capital desta sociedade, os Estados-membros podem estabelecer que os accionistas minoritários desta mesma sociedade terão o direito de exigir que lhes adquiram as suas acções. Neste caso, terão o direito de obter uma contrapartida correspondente ao valor das suas acções. Em caso de desacordo sobre a contrapartida, esta deve poder ser determinada por um tribunal."
+  },
+  "5b8da486e0c1e341": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA legislação de um Estado-membro pode não exigir a aprovação da cisão pela assembleia geral de uma sociedade beneficiária, desde que sejam observados os seguintes requesitos:\n\na) A publicidade prescrita no artigo 4.º deve ser efectuada, relativamente à sociedade beneficiária, pelo menos um mês antes da data da reunião da assembleia geral da sociedade cindida, convocada para se pronunciar sobre o projecto de cisão;\n\nb) Todos os accionistas da sociedade beneficiária devem ter o direito de consultar, na sede social desta sociedade, pelo menos um mês antes da data indicada na alínea a), os documentos indicados no n.º 1 do artigo 9.º;\n\nc) Um ou vários accionistas da sociedade beneficiária, que disponham de uma percentagem mínima de capital subscrito, devem ter o direito de exigir a convocação de uma assembleia geral da sociedade beneficiária, para esta se pronunciar sobre a aprovação da cisão. Esta percentagem mínima não pode ser fixada em mais de 5 %. Contudo, os Estados-membros podem dispor que as acções sem direito de voto são excluídas do cálculo dessa percentagem."
+  },
+  "469a2a51f186412d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os órgãos de administração ou de direcção de cada uma das sociedades participantes na cisão elaborarão um relatório escrito pormenorizado, explicando e justificando do ponto de vista jurídico e económico o projecto de cisão e, em especial, a relação de troca das acções, bem como o critério para a sua atribuição.\n\n2. O relatório indicará, além disso, as dificuldades especiais de avaliação, caso existam.\n\nO relatório deve mencionar igualmente a elaboração do relatório sobre a verificação das entradas que não consistam em dinheiro, previsto pelo n.º 2 do artigo 27.º da Directiva n.º 77/91/CEE ([^11^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0011)), para as sociedades beneficiárias, bem como o registo em que tal relatório deve ser depositado.\n\n3. Os órgãos de direcção ou de administração da sociedade cindida devem informar a assembleia geral desta sociedade, bem como os órgãos de direcção ou de administração das sociedades beneficiárias, para que eles informem a assembleia geral da sua sociedade de qualquer mudança importante do património activo e passivo, ocorrida entre a data da elaboração do projecto de cisão e a data da reunião da assembleia geral da sociedade cindida, convocada para se pronunciar sobre o projecto de cisão."
+  },
+  "4c023cbaf12a84ee": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Relativamente a cada uma das sociedades participantes na cisão, um ou mais peritos independentes destas, designados ou reconhecidos por uma autoridade judicial ou administrativa, examinarão o projecto de cisão e redigirão um relatório escrito, destinado aos accionistas. Contudo, a legislação de um Estado-membro pode prever a nomeação de um ou de vários peritos independentes para todas as sociedades participantes na cisão, se esta nomeação for feita por uma autoridade judicial ou administrativa, a pedido conjunto destas sociedades. Estes peritos podem ser pessoas singulares ou colectivas ou sociedades, conforme dispuser a legislação de cada Estado-membro.\n\n2. São aplicáveis os n.^os^ 2 e 3 do artigo 10.º da Directiva nº 78/855/CEE.\n\n3. Os Estados-membros podem determinar que o relatório sobre a verificação das entradas que não consistam em dinheiro, referido no n.º 2 do artigo 27.º da Directiva n.º 77/91/CEE, assim como o relatório sobre o projecto de cisão, referido no n.º 2 do presente artigo, sejam elaborados pelo mesmo ou mesmos peritos."
+  },
+  "02abb023c92f0cee": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Qualquer accionista tem o direito de consultar com uma antecedência mínima de um mês relativamente à data da reunião da assembleia geral convocada para se pronunciar sobre o projecto de cisão, pelo menos, os seguintes documentos:\n\na) Os projecto de cisão;\n\nb) As contas anuais, bem como os relatórios de gestão dos três últimos exercícios das sociedades participantes na cisão;\n\nc) Balanço contabilístico reportado a uma data que não deve ser anterior ao primeiro dia do terceiro mês anterior à data do projecto de cisão, no caso de as últimas contas anuais se reportarem a um exercício cujo termo é anterior em mais de seis meses a esta data;\n\nd) Os relatórios dos órgãos de administração ou de direcção das sociedades participantes na cisão, mencionados no n.º 1 do artigo 7.º;\n\ne) Quando aplicável, os relatórios mencionados no artigo 8.º\n\n2. O balanço contabilístico previsto no n.º 1, alínea c) será elaborado segundo os mesmos métodos e seguindo a mesma apresentação do último balanço anual.\n\nContudo, a legislação de um Estado-membro pode estabelecer:\n\na) Que não é necessário proceder a um novo inventário físico;\n\nb) Que as avaliações que figuram no último balanço apenas devem ser alteradas em função dos lançamentos contabilísticos. Todavia, devem ser tomadas em conta:\n\n— as amortizações e provisões provisórias;\n\n— as modificações importantes do valor real que não aparecem na contabilidade.\n\n3. Qualquer accionista pode obter, sem encargos e através de um simples pedido, cópia integral ou, se o desejar, parcial dos documentos mencionados no n.º 1."
+  },
+  "66460181d58857ad": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Não é exigida a análise do projecto de cisão nem é exigido o relatório de peritos previsto no n.º 1 do artigo 8.º se todos os accionistas e os portadores de outros títulos que confiram direito de voto de todas as sociedades que participam na cisão a isso tiverem renunciado.\n\n2. Os Estados-Membros podem permitir que não se aplique o disposto no artigo 7.º e nas alíneas c) e d) do n.º 1 do artigo 9.º se todos os accionistas e os portadores de outros títulos que confiram direito de voto de todas as sociedades que participam na cisão a isso tiverem renunciado."
+  },
+  "2e81afa710c75fb8": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA protecção dos direitos dos trabalhadores de cada uma das sociedades participantes na cisão é regulada nos termos da Directiva n.º 77/187/CEE ([^12^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#E0012))."
+  },
+  "281365c7c97a88d3": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. As legislações dos Estados-membros devem prever um adequado sistema de protecção dos interesses dos credores das sociedades participantes na cisão, relativamente aos créditos anteriores à publicação do projecto de cisão e ainda não vencidos no momento desta publicação.\n\n2. Para este efeito, as legislações dos Estados-membros devem estabelecer, pelo menos, que estes credores terão o direito de obter garantias adequadas sempre que a situação financeira da sociedade cindida, bem como a da sociedade para a qual a obrigação será transferida em conformidade com o projecto de cisão, torne essa protecção necessária e estes credores não disponham já de tais garantias.\n\n3. Na medida em que o credor da sociedade para a qual a respectiva obrigação foi transferida, em conformidade com o projecto de cisão, não tenha obtido satisfação do seu crédito, as sociedades beneficiárias respondem solidariamente por esta obrigação. Os Estados-membros podem limitar esta responsabilidade ao activo líquido atribuído a cada uma das outras sociedades, diversas daquela para a qual a obrigação foi transferida. Os Estados-membros podem não aplicar o disposto no presente n.º se a operação de cisão for submetida ao controlo de uma autoridade judicial, nos termos do artigo 23.º, e a maioria dos credores, representando três quartos do montante dos créditos, ou a maioria de uma categoria de credores da sociedade cindida, representando três quartos do montante dos créditos desta categoria, tiver renunciado a fazer valer esta responsabilidade solidária, em assembleia realizada nos termos do disposto no n.º 1, alínea a), do artigo 23.º\n\n4. É aplicável o disposto no n.º 3 do artigo 13.º da Directiva n.º 78/855/CEE.\n\n5. Sem prejuízo das normas relativas ao exercício colectivo dos seus direitos, o disposto nos n.^os^ 1 a 4 é aplicável aos obrigacionistas das sociedades participantes na cisão, salvo se a cisão tiver sido aprovada por uma assembleia de obrigacionistas, quando a lei nacional preveja um tal assembleia, ou pelos obrigacionistas individualmente.\n\n6. Os Estados-membros podem estabelecer que as sociedades beneficiárias respondam solidariamente pelas obrigações da sociedade cindida. Neste caso, podem não aplicar o disposto nos n.^os^ anteriores.\n\n7. Se um Estado-membro combinar o regime de protecção dos credores referido noa n.^os^ 1 a 5 com a responsabilidade solidária das sociedades beneficiárias referida no n.º 6, pode limitar esta responsabilidade ao acitvo líquido atribuído a cada uma destas sociedades."
+  },
+  "624de75b2d90dc29": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs portadores de títulos que não sejam acções, dotados de direitos especiais, devem beneficiar, nas sociedades beneficiárias contra as quais estes títulos podem ser invocados, nos termos do projecto de cisão, de direitos, pelo menos, equivalentes àqueles de que beneficiavam na sociedade cindida, salvo se a modificação destes direitos tiver sido aprovada por uma assembleia dos portadores desses títulos, no caso de a lei nacional prever uma tal assembleia, ou pelos portadores destes títulos indiviedualmente, ou ainda se estes portadores tiverem o direito de obter da sociedade beneficiária o resgate dos seus títulos."
+  },
+  "9643cd3f99c7a6f5": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSe a legislação de um Estado-membro não previr para as cisões um controlo preventivo de legalidade, judicial ou administrativo, ou se esse controlo não incidir sobre todos os actos necessários à cisão, aplicar-se-á o disposto no artigo 16.º da Directiva n.º 78/855/CEE."
+  },
+  "a8b0ca2719984bb4": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAs legislações dos Estados-membros determinarão a data a partir da qual a cisão produz efeitos."
+  },
+  "f3063453f7172f66": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. A cisão deve ser objecto de uma publicidade efectuada segundo os moldes previstos pela legislação de cada Estado-membro, nos termos do artigo 3.º da Directiva n.º 68/151/CEE, para cada uma das sociedades participantes.\n\n2. Qualquer sociedade beneficiária pode proceder ela própria às formalidades de publicidade respeitantes à sociedade cindida."
+  },
+  "0664e8ac049e6413": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A cisão produz *ipso jure* e simultaneamente os seguintes efeitos:\n\na) A transmissão, do conjunto do patromónio activo e passivo da sociedade cindida para as sociedades beneficiárias, tanto no que a estas respeita, como relativamente a terceiros; esta transmissão efectua-se por partes, nos termos da repartição prevista no projecto de cisão ou no n.º 3 do artigo 3.º;\n\nb) Os accionistas da sociedade cindida tornam-se accionistas de uma ou das sociedades beneficiárias, nos termos da repartição prevista no projecto de cisão;\n\nc) A sociedade cindida extingue-se.\n\n2. Nenhuma acção de uma sociedade beneficiaria é dada em troca de acções da sociedade cindida, que sejam possuídas:\n\na) Quer pela própria sociedade beneficiária, quer por pessoa que actue em nome próprio, mas por conta da sociedade;\n\nb) Quer pela própria sociedade cindida, quer por pessoa que actue em nome próprio, mas por conta da sociedade.\n\n3. Não são afectadas as disposições legislativas dos Estados-membros que exijam formalidades particulares para a oponibilidade a terceiros da transmissão de certos bens, direitos e obrigações, provindos da sociedade cindida. A ou as sociedades beneficiárias para as quais sejam transmitidos estes bens, direitos ou obrigações, nos termos do projecto de cisão ou do n.º 3 do artigo 3.º, podem efectuar elas próprias estas formalidades: contudo, a legislação dos Estados-membros pode permitir que a sociedade cindida continue a efectuar essas formalidades durante um período limitado, que não pode ser fixado, salvo casos excepcionais, em mais de seis meses a contar da data a partir da qual a cisão produz efeitos."
+  },
+  "4242087d422981ee": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs legislações dos Estados-membros regularão, pelo menos, a responsabilidade civil dos membros do órgão de administração ou de direcção da sociedade cindida para com os accionistas desta sociedade, decorrente das irregularidades cometidas por membros desse órgão na preparação e na realização da cisão, bem como a responsabilidade civil dos peritos encarregados de elaborar para essa sociedade o relatório previsto no artigo 8º decorrente de irregularidades cometidas por esses peritos no exercício das suas funções."
+  },
+  "5e06969b7b1ab698": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. As legislações dos Estados-membros podem disciplinar o regime da invalidade da cisão, mas somente nas seguintes condições:\n\na) A invalidade deve ser reconhecida por decisão judicial;\n\nb) A invalidade de uma cisão que se tornou eficaz nos termos do artigo 15.º só pode ser reconhecida com fundamento na falta do controlo preventivo de legalidade judicial ou administrativo, ou de documento autêntico, ou se for decidido que a deliberação da assembleia geral é nula ou anulável, por força do direito nacional;\n\nc) A acção de invalidade não pode ser intentada se a irregularidade já tiver sido sanada ou se já tiver decorrido o prazo de seis meses, a contar da data em que a cisão é oponível àquele que invocar a invalidade.\n\nd) No caso de ser possível sanar o vício susceptível de produzir a invalidade da cisão, o tribunal comopetente concederá às sociedades interessadas um prazo para regularizar a situação;\n\ne) A decisão que profira a invalidade da cisão deve ser objecto de uma publicidade a efectuar pelos modos previstos na legislação de cada Estado-membro, nos termos do artigo 3.º da Directiva n.º 68/151/CEE;\n\nf) A oposição de terceiros, no caso de ser prevista pela legislação de um Estado-membro, não pode ser admitida depois de decorridos seis meses a contar da publicidade da decisão, efectuada nos termos da Directiva n.º 68/151/CEE;\n\ng) A decisão que profira a invalidade da cisão não afecta, por si só, a validade das obrigações nascidas contra ou a favor das sociedades beneficiárias, anteriormente à publicidade da decisão, mas posteriormente à data mencionada no artigo 15.º;\n\nh) Cada uma das sociedades beneficiárias responde pelas obrigações postas a seu cargo e contraídas após a data em que a cisão produziu efeito mas antes da data em que a decisão que profira a invalidade da cisão seja publicada. A sociedade cindida responde também por estas obrigações; os Estados-membros podem prever que esta responsabilidade seja limitada ao activo líquido atribuído à sociedade beneficiária a cargo da qual foram contraídas estas obrigações.\n\n2. Em derrogação do disposto no n.º 1, alínea a), a legislação de um Estado-membro pode também prever que a invalidade da cisão seja reconhecida por uma autoridade administrativa, desde que possa ser interposto um recurso de tal decisão perante uma autoridade judicial. As alíneas b), d), e), f), g) e h) são aplicáveis por analogia com relação à autoridade administrativa. Este processo de invalidade não pode ser iniciado depois de decorridos seis meses a contar da data referida no artigo 15.º\n\n3. Ficam ressalvadas as legislações dos Estados-membros relativas à invalidade de uma cisão, reconhecida na sequência de um controlo desta, diverso do controlo preventivo de legalidade judicial ou administrativo."
+  },
+  "9435b8eb0b71f22e": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nSe as sociedades beneficiárias, no seu conjunto, forem titulares de todas as acções da sociedade cindida e dos outros títulos desta que confiram direito de voto em assembleia geral, os Estados-membros podem, sem prejuízo do artigo 6.º, não exigir a aprovação da cisão pela assembleia geral da sociedade cindida desde que sejam observados, pelo menos, os seguintes requesitos:\n\na) A publicidade prescrita no artigo 4.º deve ser efectuada por cada uma das sociedades participantes na operação, um mês antes, pelo menos, de a operação produzir efeitos;\n\nb) Todos os accionistas das sociedades participantes na operação devem ter o direito de consultar, na sede social da sua sociedade, pelo menos um mês antes de a operação produzir efeitos, os documentos indicados no n.º 1 do artigo 9.º. Os n.^os^ 2 e 3 do artigo 9 são também aplicáveis;\n\nc) Um ou vários accionistas da sociedade cindida, que disponham de acções representativas de uma percentagem mínima do capital subscrito, devem ter o direito de exigir a convocação de uma assembleia geral da sociedade cindida, para que esta delibere sobre a aprovação da cisão. Esta percentagem mínima não pode ser ficada em mais de 5 %. Contudo, os Estados-membros podem dispor que as acções sem direito de voto são excluídas do cálculo dessa percentagem;\n\nd) Na falta de convocação da assembleia geral da sociedade cindida para deliberar sobre a cisão, a informação referida no n.º 3 do artigo 7.º dirá respeito a qualquer mudança importante do património activo e passivo, ocorrida depois da elaboração do projecto de cisão."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "108032ba6a7b72c1": {
+   "fragment_id": "Cisão mediante constituição de novas sociedades",
+   "type": "divisao",
+   "heading": "Cisão mediante constituição de novas sociedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cisão mediante constituição de novas sociedades"
+  },
+  "c75d39bdfbdc412f": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Para os efeitos da presente directiva, entende-se por cisão mediante constituição de novas sociedades a operação pela qual uma sociedade, por meio de uma dissolução sem liquidação, transfere para várias sociedades constituídas de novo todo o seu património activo e passivo, mediante a atribuição aos accionistas da sociedade cindida de acções das sociedades beneficiárias e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal das acções assim atribuídas ou, na falta de valor nominal, do seu valor contabilístico.\n\n2. É aplicável o disposto no n.º 2 do artigo 4.º da Directiva n.º 78/855/CEE."
+  },
+  "6a698c806e7fd2c1": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Os artigos 3.º, 4.º, 5.º e 7.º os n.^os^ 1 e 2, do artigo 8.º e os artigos 9.º a 19.º são aplicáveis, sem prejuízo dos artios 11.º e 12.º da Directiva n.º 68/151/CEE, à cisão mediante constituição de novas sociedades. Para efeitos desta aplicação, a expressão «sociedades participantes na cisão» designa a sociedade cindida, a expressão «sociedades participantes na cisão» designa a sociedade cindida, a expressão «sociedade beneficiária das entradas resultantes da cisão» designa cada uma das novas sociedades.\n\n2. Os projecto de cisão deve mencionar, além das indicações referidas no n.º 2 do artigo 3.º, o tipo, a denominação e a sede social de cada uma das novas sociedades.\n\n3. O projecto de cisão e, se constarem de acto separado, o acto constitutivo ou o projecto de acto constitutivo e os estatutos ou o projecto de estatutos de cada uma das novas sociedades devem ser aprovados pela assembleia geral da sociedade cindida.\n\n4. Os Estados-membros podem determinar que o relatório sobre a vertificação das entradas que não consistam em dinheiro, referido no artigo 10.º da Directiva n.º 77/91/CEE, bem como o relatório sobre o projecto de cisão referido no n.º 1 do artigo 8.º da presente directiva devem ser elaborados pelo mesmo ou pelos mesmos peritos.\n\n5. Os Estados-membros podem estabelecer que nem o artigo 8.º nem o artigo 9.º se aplicam, no que diz respeito ao relatório de peritos, sempre que as acções de cada uma das novas sociedades forem atribuídas aos accionistas da sociedade cindida proporcionalmente aos seus direitos no capital desta sociedade."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "cb455c5fa4d83501": {
+   "fragment_id": "Cisão sujeita ao controlo da autoridade judicial",
+   "type": "divisao",
+   "heading": "Cisão sujeita ao controlo da autoridade judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cisão sujeita ao controlo da autoridade judicial"
+  },
+  "4cf1761aa9c46abb": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Os Estados-membros podem aplicar o disposto no n.º 2 sempre que a operação de cisão estiver submetida ao controlo de uma autoridade judicial que tenha o poder de:\n\na) Convocar a assembleia geral dos accionistas da sociedade cindida, a fim de deliberar sobre a cisão;\n\nb) Assegurar-se de que os accionistas de cada uma das sociedades participantes na cisão receberam ou podem obter, pelo menos, os documentos referidos no artigo 9.º, em prazo que lhes permita examiná-los em tempo útil antes da data da reunião da assembleia geral da sua sociedade que deva deliberar sobre a cisão; se um Estado-membro utilizar a faculdade prevista no artigo 6.º, o prazo deve ser suficiente para permitir aos accionistas das sociedades beneficiárias o exercício dos direitos que lhes são concedidos neste último artigo;\n\nc) Convocar qualquer assembleia de credores de cada uma das sociedades participantes na cisão, a fim de se pronunciar sobre a cisão;\n\nd) Assegurar-se de que os credores de cada uma das sociedades participantes na cisão receberam ou podem obter, pelo menos, o projecto de cisão, em prazo que permita examiná-lo em tempo útil antes da data referida na alínea b);\n\ne) Aprovar o projecto de cisão.\n\n2. Sempre que a autoridade judicial verificar que as condições referidas no n.º 1, alíneas b) e d) estão preenchidas e que os accionistas e os credores não sofrerão prejuízos, pode dispensar as sociedades participantes de aplicar:\n\na) O artigo 4.º, contanto que o sistema de tutela dos interesses dos credores, referido no n.º 1 do artigo 12.º, cubra todos os créditos, independentemente da data em que se tenham constituído;\n\nb) Os requesitos referidos nas alíneas a) e b) do artigo 6.º, quando um Estado-membro usar da faculdade prevista no dito artigo;\n\nc) O artigo 9.º, pelo que respeita ao prazo e às modalidades estabelecidas para permitir aos accionistas tomar conhecimento dos documentos aí referidos."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "701cc5c036a8f4bd": {
+   "fragment_id": "Outras operações equiparadas à cisão",
+   "type": "divisao",
+   "heading": "Outras operações equiparadas à cisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Outras operações equiparadas à cisão"
+  },
+  "5013871e9f2d7f4e": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nSempre que a legislação de um Estado-membro permitir, para uma das operações referidas no artigo 1.º, que a quantia em dinheiro atribuída aos accionistas ultrapasse a percentagem de 10 %, são aplicáveis os capítulos I, II e III."
+  },
+  "fc1fbea584640b2b": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nSempre que a legislação de um Estado-membro permitir uma das operações referidas no artigo 1.º, sem que a sociedade cindida se extinga, são aplicáveis os capítulos I, II e III, com excepção do disposto no n.º 1, alínea c), do artigo 17.º."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "dc1066a3ca962cfd": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. Os Estados-membros porão em vigor, antes de 1 de Janeiro de 1986, as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, desde que nessa data permitam as operações às quais a directiva se aplica. Deste facto informarão imediatamente a Comissão.\n\n2. Se um Estado-membro apenas vier a permitir a operação de cisão após a data prevista no n.º 1, porá em vigor as disposições indicadas no referido n.º, nadata em que permitir esta operação. Deste facto informará imediatamente a Comissão.\n\n3. Contudo, pode ser previsto um prazo de cinco anos a contar da entrada em vigor das disposições referidas no n.º 1 para a sua aplicação às «unregistered companies» no Reino Unido e na Irlanda.\n\n4. Os Estados-membros podem deixar de aplicar os artigos 12.º e 13.º, no que respeita aos detentores de obrigações e de outros títulos convertíveis em acções se, no momento da entrada em vigor das disposições referidas nos n.^os^ 1 e 2.º, as condições de emissão tiverem fixado previamente a posição desses detentores em caso de cisão.\n\n5. Os Estados-membros podem não aplicar a presente directiva às cisões ou às operações equiparadas às cisões, desde que, na data da entrada em vigor das disposições referidas nos n.^os^ 1, e 2, já tenham sido praticados um acto ou uma formalidade prescritos pela legislação nacional, com vista à preparação ou realização de tais operações."
+  },
+  "c6597112255821a5": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "e8ae9cd8a1d68f3b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0001)) JO n.º C 89 de 14.7.1970, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0002)) JO n.º C 129 de 11.12.1979, p. 50, e JO n.º C 95 de 28.4.1975, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0003)) JO n.º C 88 de 6.9.1971, p. 18.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0004)) JO n.º 2 de 15.1.1962, p. 36/62.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0005)) JO n.º L 65 de 14.3.1968, p. 8.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0006)) JO n.º L 26 de 31.1.1977, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0007)) JO n.º L 222 de 14.8.1978, p. 11.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0008)) JO n.º L 295 de 20.10.1978, p. 36.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0009)) JO n.º L 61 de 5.3.1977, p. 26.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0010)) JO n.º L 65 de 14.3.1968, p. 9.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0011)) JO n.º L 26 de 31.1.1977, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/301b3d98-daf4-4f9c-a01b-fa00466b83cd.0018.03/DOC_1#src.E0012)) JO n.º L 61 de 5.3.1977, p. 26."
+  },
+  "07b19de00523bfdd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Dezembro de 1982\n\nfundada no n.º 3, alínea g), do artigo 54.º do Tratado, relativa às cisões de sociedades anónimas\n\n(82/901/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.º 3, alínea g), do seu artigo 54º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#E0003)),\n\nConsiderando que a coordenação prevista no n.º 3, alínea g), do artigo 54.º e no programa geral para a supressão das restrições à liberdade de estabelecimento ([^4^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#E0004)) se iniciou com a Directiva n.º 68/151/CEE ([^5^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#E0005));\n\nConsiderando que esta coordenação prosseguiu com a Directiva n.º 77/91/CEE ([^6^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#E0006)), relativa à constituição da sociedade anónima bem como à conservação e às modificações do seu capital, com a Directiva n.º 77/660/CEE ([^7^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#E0007)), relativa às contas anuais de certos tipos de sociedades e com a Directiva n.º 78/885/CEE ([^8^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#E0008)), relativa à fusão de sociedades anónimas,\n\nConsiderando que a Directiva n.º 78/855/CEE apenas regulou a fusão de sociedades anónimas e certas operações equiparadas; que, todavia, a proposta da Comissão contemplava igualmente a operação de cisão; que o Parlamento Europeu e o Comité Económico e Social se pronunciaram também a favor de uma regulamentação desta operação;\n\nConsiderando que, por causa das semelhanças existentes entre as operações de fusão e de cisão, o risco de que as garantias instituídas relativamente às fusões pela Directiva n.º 78/855/CEE sejam iludidas só poderá ser evitado se se previr uma protecção equivalente no caso de cisão;\n\nConsiderando que a protecção dos interesses dos sócios e de terceiros requer uma coordenação das legislações dos Estados-membros no que respeita às cisões das sociedades anónimas, quando os Estados-membros permitam esta operação;\n\nConsiderando que, no âmbito desta coordenação, é particularmente importante assegurar aos accionistas das sociedades participantes na cisão uma informação adequada e tanto quanto possível objectiva, bem como garantir uma protecção apropriada dos seus direitos;\n\nConsiderando que a protecção dos direitos dos trabalhadores no caso de transmissão de empresas, estabelecimentos ou partes de estabelecimentos está actualmente disciplinada pela Directiva n.º 77/187/CEE ([^9^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#E0009));\n\nConsiderando que os credores, obrigacionistas ou não, e os portadores de outros títulos das sociedades participantes na cisão devem ser protegidos de modo a evitar que a realização da cisão os prejudique;\n\nConsiderando que a publicidade prevista pela Directiva n.º 68/151/CEE deve ser extensiva às operações relativas à ciasão, a fim de que os terceiros dela sejam suficientemente informados;\n\nConsiderando que é necessário alargar as garantias previstas a favor dos sócios e de terceiros, no âmbito do processo de cisão, a certas operações jurídicas que têm, em certos pontos essenciais, características análogas às da cisão, a fim de que esta protecção não possa ser iludida;\n\nConsiderando que, para assegurar a segurança jurídica nas relações tanto entre as sociedades participantes na cisão, como entre estas e terceiros, bem como entre os accionistas, há que limitar os casos de invalidade, estabelecendo, por um lado, que os vícios do acto sejam sanáveis, sempre que possível, e, por outro lado, um prazo breve para invocar a invalidade,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "bfabb2bb193dc2c2": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO projecto de cisão deve ser objecto de publicidade a efectuar segundo os moldes previstos pela legislação de cada Estado-membro, nos termos do artigo 3.º da Directiva n.º 68/151/CEE ([^10^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#E0010)), relativamente a cada uma das sociedades participantes na cisão, com uma antecedência mínima de um mês sobre a data da reunião da assembleia geral convocada para se pronunciar sobre o projecto de cisão.\n\nO requisito de publicação estabelecido no artigo 3.º da Directiva 68/151/CEE não é aplicável a nenhuma das sociedades participantes na cisão que, num prazo contínuo, com uma antecedência mínima de um mês sobre a data da reunião da assembleia-geral em que será decidido o projecto de cisão e até à conclusão dessa reunião, coloque o projecto de cisão à disposição no seu próprio sítio *web* ou no sítio *web* de outra entidade, de forma gratuita para o público. Os Estados-Membros não sujeitam essa isenção a requisitos ou condições para além dos que forem necessários para garantir a segurança do sítio *web* e a autenticidade dos documentos, e podem impor tais requisitos ou condições apenas na medida em que forem proporcionais à concretização desses objectivos.\n\nNão obstante disposto no segundo parágrafo, os Estados-Membros podem exigir que a publicação referida nesse parágrafo seja concretizada através da plataforma electrónica central a que se refere o n.º 4 do artigo 3.º da Directiva 68/151/CEE. Em alternativa, os Estados-Membros podem exigir que a essa publicação seja feita em qualquer outro sítio *web* para o efeito designado pelo Estado-Membro. Quando recorrerem a uma dessas possibilidades, os Estados-Membros devem garantir que não seja cobrada às sociedades uma taxa específica por tal publicação.\n\nQuando for utilizado um sítio *web* distinto da plataforma electrónica central, deve ser publicada na plataforma electrónica central uma menção que dê acesso a esse sítio *web* pelo menos um mês antes da data fixada para a assembleia-geral. A referida menção deve incluir a data de publicação do projecto de cisão no sítio *web* e ser acessível ao público de forma gratuita. Não deve ser cobrada às sociedades uma taxa específica por tal publicação.\n\nA proibição prevista no terceiro e quarto parágrafos, de cobrança às sociedades de uma taxa específica pela publicação, não afecta o direito dos Estados-Membros de repercutirem sobre as sociedades os custos relacionados com a plataforma electrónica central.\n\nOs Estados-Membros podem exigir que as sociedades mantenham a informação durante um período específico após a assembleia-geral no respectivo sítio *web* ou, se for o caso, na plataforma electrónica central ou noutro sítio *web* designado pelo Estado-Membro interessado. Os Estados-Membros podem determinar as consequências da indisponibilidade temporária do acesso ao sítio *web* ou à plataforma electrónica central, por razões técnicas ou de outra natureza.."
+  },
+  "bd335cbd4e1b4610": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA legislação de um Estado-membro pode não exigir a aprovação da cisão pela assembleia geral de uma sociedade beneficiária, desde que sejam observados os seguintes requesitos:\n\na) A publicidade prescrita no artigo 4.º deve ser efectuada, relativamente à sociedade beneficiária, pelo menos um mês antes da data da reunião da assembleia geral da sociedade cindida, convocada para se pronunciar sobre o projecto de cisão;\n\nb) Todos os accionistas da sociedade beneficiária devem ter o direito de consultar, na sede social desta sociedade, pelo menos um mês antes da data indicada na alínea a), os documentos indicados no n.º 1 do artigo 9.º;\n\nc) Um ou vários accionistas da sociedade beneficiária, que disponham de uma percentagem mínima de capital subscrito, devem ter o direito de exigir a convocação de uma assembleia geral da sociedade beneficiária, para esta se pronunciar sobre a aprovação da cisão. Esta percentagem mínima não pode ser fixada em mais de 5 %. Contudo, os Estados-membros podem dispor que as acções sem direito de voto são excluídas do cálculo dessa percentagem.\n\nPara efeitos da alínea b) do primeiro parágrafo, são aplicáveis os n.^os^ 2, 3 e 4 do artigo 9.º."
+  },
+  "860588f9291ff9de": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os órgãos de administração ou de direcção de cada uma das sociedades participantes na cisão elaborarão um relatório escrito pormenorizado, explicando e justificando do ponto de vista jurídico e económico o projecto de cisão e, em especial, a relação de troca das acções, bem como o critério para a sua atribuição.\n\n2. O relatório indicará, além disso, as dificuldades especiais de avaliação, caso existam.\n\nQuando aplicável, o relatório deve mencionar igualmente a elaboração do relatório sobre a verificação das entradas que não consistam em dinheiro, previsto pelo n.º 2 do artigo 27.º da Directiva 77/91/CEE, para as sociedades beneficiárias, bem como o registo em que tal relatório deve ser depositado.\n\n3. Os órgãos de direcção ou de administração da sociedade cindida devem informar a assembleia geral desta sociedade, bem como os órgãos de direcção ou de administração das sociedades beneficiárias, para que eles informem a assembleia geral da sua sociedade de qualquer mudança importante do património activo e passivo, ocorrida entre a data da elaboração do projecto de cisão e a data da reunião da assembleia geral da sociedade cindida, convocada para se pronunciar sobre o projecto de cisão."
+  },
+  "55542676b5e3e3f2": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Relativamente a cada uma das sociedades participantes na cisão, um ou mais peritos independentes destas, designados ou reconhecidos por uma autoridade judicial ou administrativa, examinarão o projecto de cisão e redigirão um relatório escrito, destinado aos accionistas. Contudo, a legislação de um Estado-membro pode prever a nomeação de um ou de vários peritos independentes para todas as sociedades participantes na cisão, se esta nomeação for feita por uma autoridade judicial ou administrativa, a pedido conjunto destas sociedades. Estes peritos podem ser pessoas singulares ou colectivas ou sociedades, conforme dispuser a legislação de cada Estado-membro.\n\n2. São aplicáveis os n.^os^ 2 e 3 do artigo 10.º da Directiva nº 78/855/CEE."
+  },
+  "756b4d464f784005": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Qualquer accionista tem o direito de consultar com uma antecedência mínima de um mês relativamente à data da reunião da assembleia geral convocada para se pronunciar sobre o projecto de cisão, pelo menos, os seguintes documentos:\n\na) Os projecto de cisão;\n\nb) As contas anuais, bem como os relatórios de gestão dos três últimos exercícios das sociedades participantes na cisão;\n\nc) Se for esse o caso, um balanço contabilístico reportado a uma data que não deve ser anterior ao primeiro dia do terceiro mês anterior à data do projecto de cisão, no caso de as últimas contas anuais se reportarem a um exercício cujo termo é anterior em mais de seis meses a esta data;\n\nd) Quando aplicável, os relatórios dos órgãos de administração ou de direcção das sociedades participantes na cisão, a que se refere o n.º 1 do artigo 7.º;\n\ne) Quando aplicável, os relatórios mencionados no artigo 8.º\n\nPara efeitos da alínea c) do primeiro parágrafo, não é exigido um balanço contabilístico se a sociedade publicar um relatório financeiro semestral, nos termos do artigo 5.º da Directiva 2004/109/CE, e o colocar à disposição dos accionistas nos termos do presente número.\n\n2. O balanço contabilístico previsto no n.º 1, alínea c) será elaborado segundo os mesmos métodos e seguindo a mesma apresentação do último balanço anual.\n\nContudo, a legislação de um Estado-membro pode estabelecer:\n\na) Que não é necessário proceder a um novo inventário físico;\n\nb) Que as avaliações que figuram no último balanço apenas devem ser alteradas em função dos lançamentos contabilísticos. Todavia, devem ser tomadas em conta:\n\n— as amortizações e provisões provisórias;\n\n— as modificações importantes do valor real que não aparecem na contabilidade.\n\n3. Qualquer accionista pode obter, sem encargos e através de um simples pedido, cópia integral ou, se o desejar, parcial dos documentos mencionados no n.º 1.\n\nQuando o accionista tiver dado consentimento à utilização, pela sociedade, de meios electrónicos para a comunicação de informações, tais cópias podem ser fornecidas por correio electrónico.\n\n4. As sociedades estão isentas do requisito de disponibilização, na sua sede social, dos documentos a que se refere o n.º 1 se, num prazo contínuo, com a antecedência mínima de um mês sobre a data da reunião da assembleia-geral em que será decidido o projecto de cisão e até à conclusão dessa reunião, os colocarem à disposição no seu sítio *web*. Os Estados-Membros não sujeitam essa isenção a requisitos ou condições para além dos que sejam necessários para garantir a segurança do sítio *web* e a autenticidade dos documentos, e pode impor tais requisitos ou condições apenas na medida em que forem proporcionais à concretização desses objectivos.\n\nO n.º 3 não é aplicável se o sítio *web* conferir aos accionistas a possibilidade de descarregar e imprimir uma cópia electrónica dos documentos a que se refere o n.º 1, durante todo o período a que se refere o primeiro parágrafo do presente número. Não obstante, nesse caso os Estados-Membros podem determinar que a sociedade coloque à disposição esses documentos na sua sede social para consulta dos accionistas.\n\nOs Estados-Membros podem exigir que as sociedades mantenham a informação durante um período específico após a assembleia-geral no respectivo sítio *web*. Os Estados-Membros podem determinar as consequências da indisponibilidade temporária do acesso ao sítio *web* por razões técnicas ou de outra natureza."
+  },
+  "9ee04be916620871": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA protecção dos direitos dos trabalhadores de cada uma das sociedades participantes na cisão é regulada nos termos da Directiva n.º 77/187/CEE ([^11^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#E0011))."
+  },
+  "93b743e602751a55": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. As legislações dos Estados-membros devem prever um adequado sistema de protecção dos interesses dos credores das sociedades participantes na cisão, relativamente aos créditos anteriores à publicação do projecto de cisão e ainda não vencidos no momento desta publicação.\n\n2. Para este efeito, as legislações dos Estados-Membros devem estabelecer, pelo menos, que estes credores têm o direito de obter garantias adequadas sempre que a situação financeira da sociedade cindida, bem como a da sociedade para a qual a obrigação será transferida em conformidade com o projecto de cisão, torne essa protecção necessária e esses credores não disponham já de tais garantias.\n\nOs Estados-Membros devem estabelecer as condições de protecção previstas no n.º 1 e no primeiro parágrafo do presente número. Em qualquer caso, os Estados-Membros devem velar por que os credores sejam autorizados a recorrer à autoridade administrativa ou judicial competente para obter garantias adequadas, desde que possam demonstrar, de maneira credível, que a cisão compromete o exercício dos seus direitos e que a sociedade não lhes forneceu garantias adequadas.\n\n3. Na medida em que o credor da sociedade para a qual a respectiva obrigação foi transferida, em conformidade com o projecto de cisão, não tenha obtido satisfação do seu crédito, as sociedades beneficiárias respondem solidariamente por esta obrigação. Os Estados-membros podem limitar esta responsabilidade ao activo líquido atribuído a cada uma das outras sociedades, diversas daquela para a qual a obrigação foi transferida. Os Estados-membros podem não aplicar o disposto no presente n.º se a operação de cisão for submetida ao controlo de uma autoridade judicial, nos termos do artigo 23.º, e a maioria dos credores, representando três quartos do montante dos créditos, ou a maioria de uma categoria de credores da sociedade cindida, representando três quartos do montante dos créditos desta categoria, tiver renunciado a fazer valer esta responsabilidade solidária, em assembleia realizada nos termos do disposto no n.º 1, alínea a), do artigo 23.º\n\n4. É aplicável o disposto no n.º 3 do artigo 13.º da Directiva n.º 78/855/CEE.\n\n5. Sem prejuízo das normas relativas ao exercício colectivo dos seus direitos, o disposto nos n.^os^ 1 a 4 é aplicável aos obrigacionistas das sociedades participantes na cisão, salvo se a cisão tiver sido aprovada por uma assembleia de obrigacionistas, quando a lei nacional preveja um tal assembleia, ou pelos obrigacionistas individualmente.\n\n6. Os Estados-membros podem estabelecer que as sociedades beneficiárias respondam solidariamente pelas obrigações da sociedade cindida. Neste caso, podem não aplicar o disposto nos n.^os^ anteriores.\n\n7. Se um Estado-membro combinar o regime de protecção dos credores referido noa n.^os^ 1 a 5 com a responsabilidade solidária das sociedades beneficiárias referida no n.º 6, pode limitar esta responsabilidade ao acitvo líquido atribuído a cada uma destas sociedades."
+  },
+  "630e940c9fe707eb": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nSem prejuízo do artigo 6.º, os Estados-Membros não exigem a aprovação da cisão pela assembleia-geral da sociedade cindida, se as sociedades beneficiárias, no seu conjunto, forem titulares de todas as acções da sociedade cindida e de todas as outras participações que conferem direito de voto na assembleia-geral da sociedade cindida, se estiverem reunidas as seguintes condições:\n\na) A publicidade prescrita no artigo 4.º deve ser efectuada por cada uma das sociedades participantes na operação, um mês antes, pelo menos, de a operação produzir efeitos;\n\nb) Todos os accionistas das sociedades participantes na operação devem ter o direito de consultar, na sede social da sua sociedade, pelo menos um mês antes de a operação produzir efeitos, os documentos indicados no n.º 1 do artigo 9.º;[**►M2**](http://publications.europa.eu/resource/celex/32009L0109) —————**◄**\n\nd) Na falta de convocação da assembleia geral da sociedade cindida para deliberar sobre a cisão, a informação referida no n.º 3 do artigo 7.º dirá respeito a qualquer mudança importante do património activo e passivo, ocorrida depois da elaboração do projecto de cisão.\n\nPara efeitos da alínea b) do primeiro parágrafo, são aplicáveis os n.^os^ 2, 3 e 4 do artigo 9.º e o artigo 10.º."
+  },
+  "d5fd97f20965071b": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Os artigos 3.º, 4.º, 5.º e 7.º os n.^os^ 1 e 2, do artigo 8.º e os artigos 9.º a 19.º são aplicáveis, sem prejuízo dos artios 11.º e 12.º da Directiva n.º 68/151/CEE, à cisão mediante constituição de novas sociedades. Para efeitos desta aplicação, a expressão «sociedades participantes na cisão» designa a sociedade cindida, a expressão «sociedades participantes na cisão» designa a sociedade cindida, a expressão «sociedade beneficiária das entradas resultantes da cisão» designa cada uma das novas sociedades.\n\n2. Os projecto de cisão deve mencionar, além das indicações referidas no n.º 2 do artigo 3.º, o tipo, a denominação e a sede social de cada uma das novas sociedades.\n\n3. O projecto de cisão e, se constarem de acto separado, o acto constitutivo ou o projecto de acto constitutivo e os estatutos ou o projecto de estatutos de cada uma das novas sociedades devem ser aprovados pela assembleia geral da sociedade cindida.\n\n5. Os Estados-Membros não impõem os requisitos estabelecidos nos artigos 7.º, 8.º e nas alíneas c), d) e e) do n.º 1 do artigo 9.º, sempre que as acções de cada uma das novas sociedades forem atribuídas aos accionistas da sociedade cindida proporcionalmente aos direitos no capital desta sociedade."
+  },
+  "9e35ce3aedcad44c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#src.E0001)) JO n.º C 89 de 14.7.1970, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#src.E0002)) JO n.º C 129 de 11.12.1979, p. 50, e JO n.º C 95 de 28.4.1975, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#src.E0003)) JO n.º C 88 de 6.9.1971, p. 18.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#src.E0004)) JO n.º 2 de 15.1.1962, p. 36/62.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#src.E0005)) JO n.º L 65 de 14.3.1968, p. 8.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#src.E0006)) JO n.º L 26 de 31.1.1977, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#src.E0007)) JO n.º L 222 de 14.8.1978, p. 11.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#src.E0008)) JO n.º L 295 de 20.10.1978, p. 36.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#src.E0009)) JO n.º L 61 de 5.3.1977, p. 26.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#src.E0010)) JO n.º L 65 de 14.3.1968, p. 9.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/35fa0d28-ef02-411f-88b3-3a5384829067.0018.03/DOC_1#src.E0011)) JO n.º L 61 de 5.3.1977, p. 26."
+  },
+  "1c3b5f2b7f2377fe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Dezembro de 1982\n\nfundada no n.º 3, alínea g), do artigo 54.º do Tratado, relativa às cisões de sociedades anónimas\n\n(82/901/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.º 3, alínea g), do seu artigo 54º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0003)),\n\nConsiderando que a coordenação prevista no n.º 3, alínea g), do artigo 54.º e no programa geral para a supressão das restrições à liberdade de estabelecimento ([^4^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0004)) se iniciou com a Directiva n.º 68/151/CEE ([^5^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0005));\n\nConsiderando que esta coordenação prosseguiu com a Directiva n.º 77/91/CEE ([^6^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0006)), relativa à constituição da sociedade anónima bem como à conservação e às modificações do seu capital, com a Directiva n.º 77/660/CEE ([^7^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0007)), relativa às contas anuais de certos tipos de sociedades e com a Directiva n.º 78/885/CEE ([^8^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0008)), relativa à fusão de sociedades anónimas,\n\nConsiderando que a Directiva n.º 78/855/CEE apenas regulou a fusão de sociedades anónimas e certas operações equiparadas; que, todavia, a proposta da Comissão contemplava igualmente a operação de cisão; que o Parlamento Europeu e o Comité Económico e Social se pronunciaram também a favor de uma regulamentação desta operação;\n\nConsiderando que, por causa das semelhanças existentes entre as operações de fusão e de cisão, o risco de que as garantias instituídas relativamente às fusões pela Directiva n.º 78/855/CEE sejam iludidas só poderá ser evitado se se previr uma protecção equivalente no caso de cisão;\n\nConsiderando que a protecção dos interesses dos sócios e de terceiros requer uma coordenação das legislações dos Estados-membros no que respeita às cisões das sociedades anónimas, quando os Estados-membros permitam esta operação;\n\nConsiderando que, no âmbito desta coordenação, é particularmente importante assegurar aos accionistas das sociedades participantes na cisão uma informação adequada e tanto quanto possível objectiva, bem como garantir uma protecção apropriada dos seus direitos;\n\nConsiderando que a protecção dos direitos dos trabalhadores no caso de transmissão de empresas, estabelecimentos ou partes de estabelecimentos está actualmente disciplinada pela Directiva n.º 77/187/CEE ([^9^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0009));\n\nConsiderando que os credores, obrigacionistas ou não, e os portadores de outros títulos das sociedades participantes na cisão devem ser protegidos de modo a evitar que a realização da cisão os prejudique;\n\nConsiderando que a publicidade prevista pela Directiva n.º 68/151/CEE deve ser extensiva às operações relativas à ciasão, a fim de que os terceiros dela sejam suficientemente informados;\n\nConsiderando que é necessário alargar as garantias previstas a favor dos sócios e de terceiros, no âmbito do processo de cisão, a certas operações jurídicas que têm, em certos pontos essenciais, características análogas às da cisão, a fim de que esta protecção não possa ser iludida;\n\nConsiderando que, para assegurar a segurança jurídica nas relações tanto entre as sociedades participantes na cisão, como entre estas e terceiros, bem como entre os accionistas, há que limitar os casos de invalidade, estabelecendo, por um lado, que os vícios do acto sejam sanáveis, sempre que possível, e, por outro lado, um prazo breve para invocar a invalidade,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b605e481c094f279": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Se os Estados-membros permitirem a operação de cisão mediante incorporação, conforme adiante definida no artigo 2.º, de sociedades sujeitas à sua legislação e referidas no n.º 1 do artigo 1.º da Directiva n.º 78/855/CEE, submeterão esta operação às disposições do capítulo I da presente directiva.\n\n2. Se os Estados-membros permitirem a operação de cisão das sociedades referidas no n.º 1 mediante constituição de novas sociedades, conforme definida no artigo 21.º, submeterão esta operação às disposições do capítulo II.\n\n3. Se os Estados-membros permitirem, para as sociedades indicadas no n.º 1, a operação pela qual uma cisão mediante incorporação, definida no n.º 1 do artigo 2.º, é combinada com uma cisão mediante constituição de uma ou mais novas sociedades, definida no n.º 1 do artigo 21.º, submeterão esta operação às disposições do capítulo I e do artigo 22.º.\n\n4. É aplicável o artigo 1.º, n.^os^ 2, 3 e 4, da Diretiva 2011/35/UE do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0010))."
+  },
+  "10047fecf894bd88": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO projecto de cisão deve ser objecto de publicidade a efectuar segundo os moldes previstos pela legislação de cada Estado-membro, nos termos do artigo 3.º da Directiva n.º 68/151/CEE ([^11^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0011)), relativamente a cada uma das sociedades participantes na cisão, com uma antecedência mínima de um mês sobre a data da reunião da assembleia geral convocada para se pronunciar sobre o projecto de cisão.\n\nO requisito de publicação estabelecido no artigo 3.º da Directiva 68/151/CEE não é aplicável a nenhuma das sociedades participantes na cisão que, num prazo contínuo, com uma antecedência mínima de um mês sobre a data da reunião da assembleia-geral em que será decidido o projecto de cisão e até à conclusão dessa reunião, coloque o projecto de cisão à disposição no seu próprio sítio *web* ou no sítio *web* de outra entidade, de forma gratuita para o público. Os Estados-Membros não sujeitam essa isenção a requisitos ou condições para além dos que forem necessários para garantir a segurança do sítio *web* e a autenticidade dos documentos, e podem impor tais requisitos ou condições apenas na medida em que forem proporcionais à concretização desses objectivos.\n\nNão obstante disposto no segundo parágrafo, os Estados-Membros podem exigir que a publicação referida nesse parágrafo seja concretizada através da plataforma electrónica central a que se refere o n.º 4 do artigo 3.º da Directiva 68/151/CEE. Em alternativa, os Estados-Membros podem exigir que a essa publicação seja feita em qualquer outro sítio *web* para o efeito designado pelo Estado-Membro. Quando recorrerem a uma dessas possibilidades, os Estados-Membros devem garantir que não seja cobrada às sociedades uma taxa específica por tal publicação.\n\nQuando for utilizado um sítio *web* distinto da plataforma electrónica central, deve ser publicada na plataforma electrónica central uma menção que dê acesso a esse sítio *web* pelo menos um mês antes da data fixada para a assembleia-geral. A referida menção deve incluir a data de publicação do projecto de cisão no sítio *web* e ser acessível ao público de forma gratuita. Não deve ser cobrada às sociedades uma taxa específica por tal publicação.\n\nA proibição prevista no terceiro e quarto parágrafos, de cobrança às sociedades de uma taxa específica pela publicação, não afecta o direito dos Estados-Membros de repercutirem sobre as sociedades os custos relacionados com a plataforma electrónica central.\n\nOs Estados-Membros podem exigir que as sociedades mantenham a informação durante um período específico após a assembleia-geral no respectivo sítio *web* ou, se for o caso, na plataforma electrónica central ou noutro sítio *web* designado pelo Estado-Membro interessado. Os Estados-Membros podem determinar as consequências da indisponibilidade temporária do acesso ao sítio *web* ou à plataforma electrónica central, por razões técnicas ou de outra natureza.."
+  },
+  "5e23d864f1a4262d": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA protecção dos direitos dos trabalhadores de cada uma das sociedades participantes na cisão é regulada nos termos da Directiva n.º 77/187/CEE ([^12^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#E0012))."
+  },
+  "9cd75a6b61e67d78": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nSem prejuízo do artigo 6.º, os Estados-Membros não exigem a aprovação da cisão pela assembleia-geral da sociedade cindida, se as sociedades beneficiárias, no seu conjunto, forem titulares de todas as acções da sociedade cindida e de todas as outras participações que conferem direito de voto na assembleia-geral da sociedade cindida, se estiverem reunidas as seguintes condições:\n\na) A publicidade prescrita no artigo 4.º deve ser efectuada por cada uma das sociedades participantes na operação, um mês antes, pelo menos, de a operação produzir efeitos;\n\nb) Todos os accionistas das sociedades participantes na operação devem ter o direito de consultar, na sede social da sua sociedade, pelo menos um mês antes de a operação produzir efeitos, os documentos indicados no n.º 1 do artigo 9.º; [**►M2**](http://publications.europa.eu/resource/celex/32009L0109) —————**◄**\n\nd) Na falta de convocação da assembleia geral da sociedade cindida para deliberar sobre a cisão, a informação referida no n.º 3 do artigo 7.º dirá respeito a qualquer mudança importante do património activo e passivo, ocorrida depois da elaboração do projecto de cisão.\n\nPara efeitos da alínea b) do primeiro parágrafo, são aplicáveis os n.^os^ 2, 3 e 4 do artigo 9.º e o artigo 10.º."
+  },
+  "a34a38602ceb8ca4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0001)) JO n.º C 89 de 14.7.1970, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0002)) JO n.º C 129 de 11.12.1979, p. 50, e JO n.º C 95 de 28.4.1975, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0003)) JO n.º C 88 de 6.9.1971, p. 18.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0004)) JO n.º 2 de 15.1.1962, p. 36/62.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0005)) JO n.º L 65 de 14.3.1968, p. 8.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0006)) JO n.º L 26 de 31.1.1977, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0007)) JO n.º L 222 de 14.8.1978, p. 11.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0008)) JO n.º L 295 de 20.10.1978, p. 36.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0009)) JO n.º L 61 de 5.3.1977, p. 26.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0010)) Diretiva 2011/35/UE do Parlamento Europeu e do Conselho, de 5 de abril de 2011, relativa à fusão das sociedades anónimas (JO L 110 de 29.4.2011, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0011)) JO n.º L 65 de 14.3.1968, p. 9.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/48b160ca-829b-49f4-a5e6-aab6cbe9071e.0015.02/DOC_1#src.E0012)) JO n.º L 61 de 5.3.1977, p. 26."
+  },
+  "9c33845fa0e324da": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01982L0891 — PT — 20.07.2017 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31982L0891) [SEXTA DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31982L0891) [de 17 de Dezembro de 1982](http://publications.europa.eu/resource/celex/31982L0891) [fundada no n.º 3, alínea g), do artigo 54.º do Tratado, relativa às cisões de sociedades anónimas](http://publications.europa.eu/resource/celex/31982L0891) [(82/891/CEE)](http://publications.europa.eu/resource/celex/31982L0891) (JO L 378, 31.12.1982, p.47)\n\n**revogado por:**\n\n- [Diretiva (UE) 2017/1132 do Parlamento Europeu e do Conselho de 14 de junho de 2017](http://publications.europa.eu/resource/celex/32017L1132) — L 169 — 46 — 30.6.2017"
+  }
+ }
+}

@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:411667:por
+title: Decreto-Lei n.º 605/73
+short_title: null
+summary: Autoriza o Ministro das Comunicações a conceder subsídios de sobrevivência aos herdeiros de titulares de subsídios
+  vitalícios atribuídos pela Administração-Geral do Porto de Lisboa e pela Administração dos Portos do Douro e Leixões
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Comunicações
+proposing_entity: null
+official_number: 605/73
+official_date: null
+publication_date: '1973-11-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 265/1973, Série I de 1973-11-13
+  number: '265'
+  series: I
+  supplement: null
+  pages: 2193 - 2194
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/11/26500/21932194.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '411667'
+  dre_path: /dr/detalhe/decreto-lei/605-1973-411667
+  internal: pt:dre:411667:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1973-411667
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/605-1973-411667
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 448637942a5d0e0f1394b21e40ec5d870f6fd14b8683958613a7d0af73089966
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:29:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração do Porto de Lisboa
+- Administração dos Portos do Douro e Leixões
+relationships:
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:29:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 605/73
+
+de 13 de Novembro
+
+Tem sido seguida a orientação de, na medida do possível, fazer participar os titulares de subsídios vitalícios concedidos pela Administração-Geral do Porto de Lisboa (A. G. P. L.) e pela Administração dos Portos do Douro e Leixões (A. P. D. L.), quer ao abrigo dos artigos 115.º e 83.º, respectivamente dos Decretos-Leis n.os 36976 e 36977, ambos de 20 de Julho de 1948, quer do [Decreto-Lei n.º 42880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42880-1960-282495), de 21 de Março de 1960, das melhorias atribuídas aos beneficiários de pensões de aposentação.
+
+Dentro desta linha de orientação, entende-se que os titulares dos aludidos subsídios vitalícios deverão beneficiar, também, de um regime paralelo ao já existente para as pensões de sobrevivência instituídas pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março;
+
+E aproveita-se, como é de justiça, para fazer coincidir a vigência do [Decreto-Lei n.º 248/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1973-422205), de 17 de Maio, com a do Estatuto da Aposentação - [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro -,de modo a abranger todos os casos que teve em vista contemplar.
+
+Nestes termos, usando da faculdade concedida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. Aos herdeiros dos subsidiados, nos termos dos artigos 115.º e 83.º, respectivamente dos Decretos-Leis n.os 36976 e 36977, poderá o Ministro das Comunicações, mediante proposta da A. G. P. L. e da A. P. D. L., conceder subsídios de sobrevivência de quantitativo igual a metade do respectivo subsídio vitalício.
+
+2. Para os efeitos do n.º 1 deste artigo, consideram-se herdeiros todos os indivíduos que como tal sejam, igualmente, qualificados pela Estatuto das Pensões de Sobrevivência - [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março.
+
+3. Poderão ser concedidos aos herdeiros dos subsidiados, nos termos do [Decreto-Lei n.º 42880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42880-1960-282495), aos quais o Montepio dos Servidores do Estado tenha atribuído pensões de sobrevivência, subsídios de sobrevivência de quantitativo também igual a metade do respectivo subsídio vitalício.
+
+Art. 2.º O processo para concessão de subsídios de sobrevivência, a que se refere o n.º 1 do artigo anterior será organizado e instruído de forma semelhante ao regulado para a atribuição das pensões de sobrevivência.
+
+Art. 3.º - 1. Para a concessão dos subsídios de sobrevivência a que se refere o n.º 3 do artigo 1.º serão organizados os competentes processos, instruídos com os indispensáveis elementos, a solicitar, se necessário, ao Montepio dos Servidores do Estado.
+
+2. Os processos a que alude o presente artigo terão início logo que seja concedida a pensão de sobrevivência, sendo o subsídio de sobrevivência satisfeito desde o dia em que se começar a vencer aquela pensão.
+
+Art. 4.º - 1. A aplicação das disposições deste diploma dependerá de requerimento dos subsidiados, a entregar no prazo de cento e vinte dias a contar da sua entrada em vigor.
+
+2. Relativamente aos subsidiados falecidos posteriormente a 1 de Março do corrente ano, a concessão do subsídio de sobrevivência dependerá, igualmente, de requerimento dos seus herdeiros, desde que como tal sejam reconhecidos em face das disposições precedentes, o qual deverá ser apresentado dentro do prazo fixado no n.º 1 deste artigo.
+
+Art. 5.º Tanto os subsidiados ao abrigo dos artigos 115.º e 83.º, respectivamente dos Decretos-Leis n.os 36976 e 36977, como os abrangidos pelas disposições do [Decreto-Lei n.º 42880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42880-1960-282495) ficam sujeitos ao pagamento de 1%, calculado, quanto aos primeiros, sobre o quantitativo ilíquido actual do subsídio vitalício anual pelo número de anos que serviu de base à sua concessão e, quanto aos segundos, pala diferença entre a contribuição que teriam de pagar se fossem aposentados integralmente gela Caixa Geral de Aposentações e aquela que lhes foi estabelecida pelo Montepio dos Servidores do Estado.
+
+Art. 6.º O pagamento da contribuição a que alude o artigo anterior poder-se-á fazer em prestações mensais, até ao limite de noventa e seis, sendo este encargo transmissível aos beneficiários dos subsídios de sobrevivência, que por ele responderão se o mesmo não for liquidado, na totalidade, em vida dos subsidiados.
+
+Art. 7.º O disposto no [Decreto-Lei n.º 248/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1973-422205), de 17 de Maio, considera-se aplicável desde 1 de Janeiro de 1973.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Alves da Silva Sanches.
+
+Promulgado em 24 de Outubro de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

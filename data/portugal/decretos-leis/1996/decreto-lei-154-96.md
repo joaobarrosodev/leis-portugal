@@ -1,0 +1,386 @@
+---
+schema_version: '1.0'
+id: pt:dre:241400:por
+title: Decreto-Lei n.º 154/96
+short_title: null
+summary: Altera o Decreto-Lei n.º 227/95, de 11 de Setembro (cria a Inspecção-Geral da Administração Interna - IGAI)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 154/96
+official_date: null
+publication_date: '1996-08-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/1996, Série I-A de 1996-08-31
+  number: '202'
+  series: I
+  supplement: null
+  pages: 2882 - 2885
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/08/202a00/28822885.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/154/1996/08/31/p/dre/pt/html
+  oj: null
+  dre: '241400'
+  dre_path: /dr/detalhe/decreto-lei/154-1996-241400
+  internal: pt:dre:241400:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400
+  metadata_url: https://data.dre.pt/eli/dec-lei/154/1996/08/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:44:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8bb1a05a9dc108b13ad058484e362f326fe00fc7a712beb8c892bd9ce8aa7fac
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Criação de Serviços
+- Definição de Competências
+- Inspeção Geral da Administração Interna
+- Orgânica
+- Pessoal de Inspecção
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Remuneração
+- Remuneração Acessória
+- Segredo Profissional
+- Sistema Retributivo
+relationships:
+- type: amended_by
+  target: pt:dre:553450:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:492272:por
+  label: "Alterado o quadro de pessoal anexo pelo DEC LEI.3/99.1999.01.04.MAI DR.IS-A [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1999-492272
+  date: '1999-01-04'
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561468:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/227/1995/09/11/p/dre
+- type: repealed_by
+  target: pt:dre:553450:por
+  label: "Revogado, a partir de 01.04.2012, com exceção do art. 13º, o Dec Lei 227/95 de 11-set , alterado pelo presente diploma,\
+    \ pelo DEC LEI.58/2012.14.03.2012.MAI, DR.IS [53] de 14.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2012-553450
+  date: '2012-03-14'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:44:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 154/96
+
+de 31 de Agosto
+
+O [Decreto-Lei n.º 227/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1995-561468), de 11 de Setembro, criou a Inspecção-Geral da Administração Interna (IGAI), com competência fiscalizadora e inspectiva sobre todos os serviços directamente dependentes ou tutelados pelo Ministro da Administração Interna.
+
+O referido diploma não chegou a ser regulamentado nem o serviço implementado.
+
+Considera o Governo que se trata de um serviço da maior importância para a defesa dos direitos dos cidadãos e potenciador da dignificação das entidades policiais, inserível na política governamental de maior e melhor segurança para as populações.
+
+A IGAI é concebida, desde a sua origem, como um serviço a preencher por «indivíduos com grande maturidade e experiência profissional, altamente qualificados e com credibilidade para o exercício das melindrosas funções cometidas à IGAI com isenção, independência, neutralidade, dedicação e abnegação».
+
+Verifica-se, contudo, que algumas das características do figurino institucional definido, bem como algumas das soluções concretas em matéria de recrutamento de pessoal, não são as requeridas pela especificidade das competências cometidas àquele serviço e pela singularidade das funções conferidas ao pessoal de inspecção e fiscalização.
+
+Com efeito, trata-se de estabelecer um mecanismo operacional de controlo e fiscalização da legalidade num dos domínios seguramente mais delicados da actuação do Estado de direito democrático, isto é, no domínio do exercício dos poderes de autoridade e do uso legítimo de meios de coerção, pelas forças e serviços de segurança que podem, em alguns casos, conflituar com os direitos, liberdades e garantias fundamentais dos cidadãos.
+
+Considera-se, por isso, que os objectivos essenciais visados através da criação da IGAI só poderão ser alcançados se a estrutura do novo serviço e a qualificação do pessoal que a há-de integrar se revelarem adequadas.
+
+O nível, especificidade e complexidade dos organismos, serviços e entidades que ficam, por diversas formas, sujeitos aos poderes inspectivos e fiscalizadores da IGAI justificam plenamente que esta assuma um figurino institucional sujeito a regime jurídico especial.
+
+Pretende-se, acima de tudo, criar uma estrutura leve, com grande flexibilidade de recrutamento, com agilidade de actuação e dotada de pessoas, como originariamente se visou, com plenas condições para investigar, com total isenção, acontecimentos que se podem revestir do maior melindre, na sequência dos quais, com muita frequência, se torna necessário, num Estado de direito, apurar a verdade, única forma de administrar justiça e de assumir ou recusar responsabilidades.
+
+Assim, nos termos da alínea a) do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 1.º, 3.º, 7.º, 9.º, 16.º, 17.º, 19.º a 21.º, 23.º, 24.º e 30.º do [Decreto-Lei n.º 227/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1995-561468), de 11 de Setembro, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+Natureza
+
+1 - A Inspecção-Geral da Administração Interna (IGAI) é um serviço central de inspecção, fiscalização e apoio técnico do Ministério da Administração Interna (MAI), dotado de autonomia técnica e administrativa, que funciona na directa dependência do Ministro.
+
+2 - Para todos os efeitos não excepcionados neste diploma, a IGAI é caracterizada como inspecção de alto nível e o pessoal dirigente e de inspecção que o integra constitui um corpo especial sujeito a regime próprio.
+
+Artigo 3.º
+
+Competências
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Efectuar inquéritos, sindicâncias e peritagens, determinados pelo Ministro da Administração Interna, necessários à prossecução das respectivas competências;
+
+f) Instaurar processos de averiguações;
+
+g) Propor a instrução de processos disciplinares e instruir aqueles que forem determinados pelo Ministro da Administração Interna;
+
+h) Participar aos órgãos competentes para a investigação criminal os factos com relevância jurídico-criminal e colaborar com aqueles órgãos na obtenção de provas, sempre que isso for solicitado;
+
+i) Propor ao Ministro providências legislativas relativas à melhoria da qualidade e eficiência dos serviços e ao aperfeiçoamento das instituições de segurança e de protecção civil;
+
+j) Exercer outras competências previstas na lei ou superiormente ordenadas, no domínio das respectivas atribuições.
+
+3 - ...
+
+Artigo 7.º
+
+Competência do inspector-geral
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Determinar a instauração de processos de averiguações.
+
+Artigo 9.º
+
+Competências do SIF
+
+1 - Compete ao SIF:
+
+a) Realizar inspecções, inquéritos, sindicâncias e processos de averiguações aos serviços centrais, aos governos civis e às forças e serviços de segurança integrados na orgânica do MAI;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+2 - ...
+
+Artigo 16.º
+
+Dever de cooperação
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - A IGAI poderá solicitar a qualquer pessoa colectiva de direito privado ou cidadão informações e ainda a este último depoimentos, sempre que o repute necessário para o apuramento dos factos da sua competência.
+
+Artigo 17.º
+
+Quadro privativo
+
+1 - O pessoal da IGAI integra um quadro privativo, que abrange os seguintes grupos e categorias:
+
+a) Pessoal dirigente;
+
+b) Pessoal de chefia;
+
+c) Pessoal de inspecção;
+
+d) Pessoal de apoio técnico;
+
+e) Pessoal administrativo;
+
+f) Pessoal auxiliar.
+
+2 - O quadro do pessoal dirigente e de chefia é o constante do mapa anexo ao presente diploma, que dele faz parte integrante.
+
+3 - A composição do quadro, bem como as respectivas dotações do pessoal de inspecção, apoio técnico, administrativo e auxiliar, são fixados por portaria conjunta dos Ministros das Finanças e da Administração Interna e do Ministro Adjunto.
+
+4 - ...
+
+Artigo 19.º
+
+Pessoal de inspecção
+
+1 - O pessoal de inspecção integra um corpo especial sujeito a regime próprio e não se desenvolve em carreira.
+
+2 - As categorias do pessoal de inspecção são as de inspector superior principal, inspector superior e inspector principal.
+
+Artigo 20.º
+
+Função de interesse público
+
+O exercício de funções dirigentes e de inspecção é de reconhecido interesse público para efeito do disposto no n.º 1, alínea c), do artigo 6.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
+
+Artigo 21.º
+
+Recrutamento do pessoal de inspecção
+
+1 - Para os lugares de inspecção podem ser nomeados funcionários ou agentes da Administração Pública, de institutos e de empresas públicas com pelo menos seis anos de serviço e conhecimentos e experiência profissional adequados, nomeadamente nas seguintes áreas:
+
+a) Actividade inspectiva ou de auditoria no âmbito dos serviços públicos;
+
+b) Investigação criminal;
+
+c) Consultadoria jurídica, sobretudo em matérias de direito público e, em especial, do direito disciplinar e contra-ordenacional;
+
+d) Investigação, estudo e concepção de métodos e processos científico-técnicos no âmbito da Administração Pública;
+
+e) Comando, direcção ou coordenação, nomeadamente no âmbito das forças ou serviços de segurança.
+
+2 - ...
+
+3 - ...
+
+4 - O recrutamento para os lugares de inspecção é feito por escolha, por despacho do Ministro da Administração Interna, mediante proposta do inspector-geral.
+
+5 - O provimento é feito em regime de comissão de serviço, por períodos de três anos, renováveis, podendo igualmente ser feito em regime de requisição ou destacamento, nos termos da lei geral.
+
+Artigo 23.º
+
+Conteúdo funcional
+
+1 - Ao pessoal de inspecção de alto nível compete:
+
+a) A execução de acções inspectivas, de fiscalização e de auditoria;
+
+b) A realização de averiguações, inquéritos e sindicâncias;
+
+c) A instrução de processos disciplinares;
+
+d) A elaboração de estudos, pareceres e informações no âmbito das atribuições institucionais da IGAI.
+
+2 - Ao pessoal técnico de apoio à inspecção compete, em geral, realizar o conjunto de actividades de investigação, concepção, assessoria, apoio e suporte ao planeamento, organização, execução e controlo das acções de inspecção, fiscalização e auditoria.
+
+Artigo 24.º
+
+Remunerações
+
+1 - Ao exercício de funções do pessoal de inspecção corresponde o estatuto remuneratório do lugar de origem, com todas as regalias ao mesmo inerentes.
+
+2 - O pessoal dirigente e de inspecção tem direito a um suplemento correspondente a 30% do vencimento base ilíquido, o qual é considerado para todos os efeitos como vencimento, nomeadamente para efeitos do cálculo dos subsídios de férias e de Natal, bem como da pensão de aposentação.
+
+Artigo 30.º
+
+Preenchimento transitório de lugares
+
+Durante três anos contados a partir da data da primeira tomada de posse do inspector-geral, a IGAI pode, nos termos da lei e dentro das respectivas dotações orçamentais, recorrer à contratação de pessoal técnico e administrativo devidamente habilitado.»
+
+###### Artigo 2.º
+
+São aditados ao [Decreto-Lei n.º 227/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1995-561468), de 11 de Setembro, os artigos 18.º-A, 29.º-A e 29.º-B, com a seguinte redacção:
+
+«Artigo 18.º-A
+
+Pessoal de chefia
+
+1 - O recrutamento para o lugar de chefe de repartição é feito mediante concurso de entre:
+
+a) Chefes de secção com, pelo menos, três anos de serviço na categoria e classificação de Muito bom;
+
+b) Indivíduos possuidores de curso superior adequado e experiência profissional não inferior a três anos na Administração Pública.
+
+2 - Os lugares de chefe de secção são providos nos termos da lei geral.
+
+3 - O lugar de chefe da Secção de Processos e Expediente Geral (SPEG) pode ainda ser preenchido por escrivão de direito com, pelo menos, três anos de serviço na categoria, em comissão de serviço, por períodos de três anos, renováveis, aplicando-se-lhe, com as devidas adaptações, o regime previsto no n.º 2 do artigo 18.º e podendo optar pelo estatuto remuneratório do lugar de origem.
+
+Artigo 29.º-A
+
+Uso e porte de arma
+
+1 - O pessoal dirigente e de inspecção, enquanto no exercício efectivo de funções na IGAI, é dispensado de licença de uso e porte de arma de defesa, valendo como tal o cartão de identificação referido no artigo 25.º
+
+2 - O pessoal referido no número anterior tem direito a que lhe seja distribuída, por conta do Estado, arma de defesa, em condições a regulamentar por despacho do Ministro da Administração Interna, mediante proposta do inspector-geral.
+
+Artigo 29.º-B
+
+Garantias
+
+O pessoal da IGAI não pode ser prejudicado no seu emprego, na estabilidade e progresso da carreira, bem como quanto ao regime de segurança social, de que beneficie nos lugares de origem.»
+
+###### Artigo 3.º
+
+São revogados os artigos 22.º e 31.º do [Decreto-Lei n.º 227/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1995-561468), de 11 de Setembro.
+
+###### Artigo 4.º
+
+Os mapas I e II referidos, respectivamente, nos n.os 1 e 2 do artigo 17.º do [Decreto-Lei n.º 227/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1995-561468), de 11 de Setembro, são substituídos pelo mapa anexo ao presente diploma.
+
+###### Artigo 5.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 12 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - José Augusto de Carvalho - José Eduardo Vera Cruz Jardim - Jorge Paulo Sacadura Almeida Coelho.
+
+Promulgado em 14 de Agosto de 1996.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 21 de Agosto de 1996.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+MAPA ANEXO
+
+Quadro do pessoal dirigente e de chefia da IGAI
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/202a00/28822885.pdf)

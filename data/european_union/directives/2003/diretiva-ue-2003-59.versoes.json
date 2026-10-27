@@ -1,0 +1,439 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0059:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0059-20230112",
+ "dre_path": null,
+ "source_lastmod": "2023-01-12",
+ "versions": [
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02003L0059-20190726",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a1089d87f3a40462",
+    "0a2284c6d2bb7345",
+    "153b5ca495320af0",
+    "4dfe94de601eb3ca",
+    "5f872f56e1d62824",
+    "6905792844c7ba09",
+    "43237bb59a98334c",
+    "3668ea71204e38f0",
+    "f00506dfe8c58021",
+    "f4534b8d2c60ca61",
+    "2f56df12c58f38f7",
+    "d173a504a8f80055",
+    "50e9ede300297de3",
+    "2f0674f57fc21aac",
+    "8fa3676d9fef8cba",
+    "39aa312cd8ecde36",
+    "069a042f9219d700",
+    "0135b65638ad0668",
+    "337c24ec8d19d764",
+    "d664376e2a8dcecd",
+    "bc2d43c7ef20fb73",
+    "a59cc4ce3268e8dd",
+    "423f954486c7d01e",
+    "fa241f0e22d411e6",
+    "f391501c0f6482ec",
+    "8082ef0804a2c0a9",
+    "84560245555b50c2",
+    "a6e069e2d924a299",
+    "2ae67adf9dd7e592",
+    "e2edcee29ad47aa3",
+    "2140f9a8a2d80d34",
+    "852174729551523b",
+    "0f14da449e7ebf21",
+    "25a8ce6654ed3a47",
+    "ea91fabe3be2e1db",
+    "9289e162cd40e867",
+    "87aba8657abf2feb",
+    "720af75c92791b10",
+    "dd2cf7742214b0b1",
+    "3c2b872e056fff15"
+   ]
+  },
+  {
+   "date": "2023-01-12",
+   "future": false,
+   "celex": "02003L0059-20230112",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Âmbito",
+    "Suprime Artigo 2.º — Isenções",
+    "Suprime Artigo 3.º — Qualificação e formação",
+    "Suprime Artigo 4.º — Direitos adquiridos",
+    "Suprime Artigo 5.º — Qualificação inicial",
+    "Suprime Artigo 6.º — CAP comprovativo da qualificação inicial",
+    "Suprime Artigo 7.º — Formação contínua",
+    "Suprime Artigo 8.º — CAP comprovativo da formação contínua",
+    "Suprime Artigo 9.º — Local da formação",
+    "Suprime Artigo 10.º — Código da União",
+    "Suprime Artigo 10.º-A — Rede de execução",
+    "Suprime Artigo 11.º — Adaptação ao progresso científico e técnico",
+    "Suprime Artigo 11.º-A — Exercício da delegação",
+    "Suprime Artigo 13.º — Relatório",
+    "Suprime Artigo 14.º — Transposição e aplicação",
+    "Suprime Artigo 15.º — Revogação",
+    "Suprime Artigo 16.º — Entrada em vigor",
+    "Suprime Artigo 17.º — Destinatários",
+    "Suprime ANEXO I",
+    "Suprime EXIGÊNCIAS MÍNIMAS PARA A QUALIFICAÇÃO E FORMAÇÃO",
+    "Suprime Secção 1: Lista das matérias",
+    "Suprime 1. Aperfeiçoamento para uma condução racional baseada nas regras de segurança",
+    "Suprime 2. Aplicação das regulamentações",
+    "Suprime 3. Saúde, segurança rodoviária e segurança ambiental, serviço, logística",
+    "Suprime Secção 2: Qualificação inicial obrigatória prevista na alínea a) do n.º 1 do artigo 3.º",
+    "Suprime 2.1. Opção que inclui simultaneamente a frequência de cursos e um exame",
+    "Suprime 2.2. Opção que inclui exames",
+    "Suprime Secção 3: Qualificação inicial acelerada prevista no artigo 3.º, n.º 2",
+    "Suprime Secção 4: Formação contínua obrigatória prevista no artigo 3.º, n.º 1, alínea b)",
+    "Suprime Secção 5: Reconhecimento da qualificação inicial e da formação contínua",
+    "Suprime ANEXO II",
+    "Suprime DISPOSIÇÕES RELATIVAS AO MODELO DA UNIÃO EUROPEIA DE CARTA DE QUALIFICAÇÃO DE MOTORISTA",
+    "Suprime 3. Segurança, incluindo a protecção de dados",
+    "Suprime 4. Disposições específicas",
+    "Suprime 5. Disposições transitórias",
+    "Suprime MODELO DA UNIÃO EUROPEIA DE CARTA DE QUALIFICAÇÃO DE MOTORISTA",
+    "Suprime ANEXO III",
+    "Suprime TABELA DE CORRESPONDÊNCIA DAS REFERÊNCIAS A DETERMINADAS CATEGORIAS DE CARTAS DE CONDUÇÃO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "93a44a171ee07a31"
+   ]
+  }
+ ],
+ "fragments": {
+  "a1089d87f3a40462": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Julho de 2003\n\nrelativa à qualificação inicial e à formação contínua dos motoristas de determinados veículos rodoviários afectos ao transporte de mercadorias e de passageiros, que altera o Regulamento (CEE) n.º 3820/85 do Conselho e a Directiva 91/439/CEE do Conselho e que revoga a Directiva 76/914/CEE do Conselho"
+  },
+  "0a2284c6d2bb7345": {
+   "fragment_id": "Artigo 1.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nA presente diretiva aplica-se à atividade de condução exercida por:\n\na) Nacionais de um Estado-Membro; e\n\nb) Nacionais de um país terceiro empregados ou contratados por uma empresa estabelecida num Estado-Membro,\n\na seguir denominados «motoristas», que efetuam transportes rodoviários na União, em estradas abertas ao público, por meio de:\n\n— veículos para os quais seja exigida uma carta de condução das categorias C1, C1 + E, C ou C + E, tal como definidas pela Diretiva 2006/126/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#E0001)), ou uma carta de condução reconhecida como equivalente,\n\n— veículos para os quais seja exigida uma carta de condução das categorias D1, D1 + E, D ou D + E, tal como definidas pela Diretiva 2006/126/CE, ou uma carta de condução reconhecida como equivalente.\n\nPara efeitos da presente diretiva, as referências a categorias de cartas de condução com um sinal mais («+» são lidas de acordo com a tabela de correspondência constante do anexo III."
+  },
+  "153b5ca495320af0": {
+   "fragment_id": "Artigo 2.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Isenções\n\n1.\n\nA presente diretiva não se aplica aos motoristas de veículos:\n\na) Cuja velocidade máxima autorizada não ultrapasse 45 km/h;\n\nb) Ao serviço ou sob o comando das forças armadas, da proteção civil, dos bombeiros, das forças policiais ou dos serviços de transporte de urgência em ambulância, quando o transporte seja efetuado em resultado das tarefas atribuídas a esses serviços;\n\nc) Submetidos a ensaios de estrada para fins de aperfeiçoamento técnico, de reparação ou de manutenção, ou aos motoristas de veículos novos ou transformados que ainda não tenham sido postos em circulação;\n\nd) Para os quais seja exigida uma carta de condução da categoria D ou D1 e que sejam conduzidos, sem passageiros a bordo, por pessoal de manutenção para ou a partir de um centro de manutenção situado nas imediações da base de manutenção mais próxima utilizada pelo operador de transportes, desde que a condução do veículo não constitua a atividade principal do motorista;\n\ne) Utilizados em situações de emergência ou afetados a missões de salvamento, incluindo veículos utilizados em operações não comerciais de transporte de ajuda humanitária;\n\nf) Utilizados em aulas ou exames de condução automóvel destinados à obtenção de uma carta de condução ou de um Certificado de Aptidão Profissional (CAP), nos termos do artigo 6.º e do artigo 8.º, n.º 1, desde que não sejam utilizados para o transporte comercial de mercadorias ou de passageiros;\n\ng) Utilizados para o transporte não comercial de passageiros ou de bens;\n\nh) Que transportem material, equipamento ou máquinas destinados a ser utilizados pelo motorista no exercício da sua profissão, desde que a condução do veículo não constitua a atividade principal do motorista.\n\nNo que diz respeito à alínea f) do presente número, a presente diretiva não se aplica a uma pessoa que pretenda obter uma carta de condução ou um CAP, nos termos do artigo 6.º e do artigo 8.º, n.º 1, quando essa pessoa estiver em fase de formação complementar de condução durante a aprendizagem em contexto de trabalho, desde que essa pessoa esteja acompanhada por outra pessoa com um CAP, ou por um instrutor de condução, para a categoria de veículo utilizado para os fins estabelecidos nessa alínea.\n\n2.\n\nA presente diretiva não se aplica caso sejam preenchidas todas as condições a seguir indicadas:\n\na) Os motoristas dos veículos circulem em zonas rurais para aprovisionar a sua própria empresa;\n\nb) Os motoristas não ofereçam serviços de transporte; e\n\nc) Os Estados-Membros considerem que o transporte é ocasional e não tem impacto na segurança rodoviária.\n\n3. A presente diretiva não se aplica aos motoristas de veículos utilizados ou alugados sem motorista por empresas agrícolas, hortícolas, florestais, pecuárias ou de pesca para o transporte de mercadorias como parte da sua própria atividade empresarial, exceto se a condução fizer parte da atividade principal do motorista ou exceder a distância máxima prevista no direito nacional a partir do local de estabelecimento da empresa que é proprietária do veículo, o aluga ou o toma em locação."
+  },
+  "4dfe94de601eb3ca": {
+   "fragment_id": "Artigo 3.º — Qualificação e formação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Qualificação e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Qualificação e formação\n\n1.\n\nA actividade de condução, definida no artigo 1.º, está subordinada às obrigações de qualificação inicial e de formação contínua. Para o efeito, os Estados-Membros estabelecem:\n\na) Um sistema de qualificação inicial\n\ni) Opção que inclui simultaneamente a frequência de cursos e um exame\n\nii) Opção que inclui apenas exames\n\nb) Um sistema de formação contínua\n\n2. Os Estados-Membros podem também prever um sistema de qualificação inicial acelerada a fim de permitir ao motorista exercer a actividade de condução nos casos previstos no artigo 5.º, n.º 2, alínea a), subalínea ii), e alínea b), e n.º 3, alínea a), subalínea i), e alínea b).\n\nNos termos da secção 3 do anexo I, a qualificação inicial acelerada inclui a frequência obrigatória de um curso, terminando com um exame. Em caso de aproveitamento nesse exame, é certificada pelo CAP previsto no n.º 2 do artigo 6.º\n\n3. Os Estados-Membros podem dispensar os motoristas que tenham obtido o CAP previsto na Directiva 96/26/CE ([^2^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#E0002)) dos exames previstos nas subalíneas i) e ii) da alínea a) do n.º 1 e no n.º 2 quanto às matérias abrangidas pelo exame previsto na Directiva 96/26/CE e, eventualmente, da frequência da parte dos cursos correspondentes a essas matérias."
+  },
+  "5f872f56e1d62824": {
+   "fragment_id": "Artigo 4.º — Direitos adquiridos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direitos adquiridos\n\nEstão isentos da obrigação de qualificação inicial os motoristas que:\n\na) Sejam titulares de uma carta de condução de uma das categorias D1, D1+E, D ou D+E ou de uma carta reconhecida como equivalente, emitida até dois anos após a data-limite de transposição da presente directiva;\n\nb) Sejam titulares de uma carta de condução de uma das categorias C1, C1+E, C ou C+E ou de uma carta reconhecida como equivalente, emitida no prazo de três anos após a data-limite de transposição da presente directiva."
+  },
+  "6905792844c7ba09": {
+   "fragment_id": "Artigo 5.º — Qualificação inicial",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Qualificação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Qualificação inicial\n\n1. O acesso à qualificação inicial não obriga à aquisição prévia da carta de condução correspondente.\n\n2.\n\nO motorista de um veículo destinado ao transporte de mercadorias pode conduzir:\n\na) A partir da idade de 18 anos:\n\ni) um veículo das categorias de carta C e C+E, na condição de ser titular do CAP referido no n.º1 do artigo 6.º,\n\nii) um veículo das categorias de carta C1 e C1+E, na condição de ser titular do CAP referido no n.º2 do artigo 6.º;\n\nb) A partir da idade de 21 anos, um veículo das categorias de carta C e C+E, na condição de ser titular do CAP referido no n.º 2 do artigo 6.º\n\n3.\n\nO motorista de um veículo destinado aos transportes de passageiros pode conduzir:\n\na) A partir da idade de 21 anos:\n\ni) um veículo das categorias de carta D e D+E para efectuar o transporte de passageiros sob a forma de serviço regular em que o percurso de linha não exceda 50 quilómetros, bem como um veículo das categorias de carta D1 e D1+E, na condição de ser titular do CAP referido no n.º 2 do artigo 6.º\n\nii) um veículo das categorias de carta D e D+E, na condição de ser titular do CAP referido no n.º1 do artigo 6.º\n\nb) A partir da idade de 23 anos, um veículo das categorias de carta D e D+E, na condição de ser titular do CAP referido no n.º2 do artigo 6.º\n\n4. Sem prejuízo da idade fixada no n.º 2, os motoristas que efectuem transportes rodoviários de mercadorias e sejam titulares de um CAP referido no artigo 6.º para uma das categorias previstas no n.º 2 do presente artigo são dispensados de obter um CAP para as outras categorias de veículos previstas no referido número.\n\nEstas disposições aplicam-se nas mesmas condições aos motoristas que efectuem transportes de passageiros para as categorias de veículos referidas no n.º3.\n\n5. Os motoristas que efectuem transportes de mercadorias e que alarguem ou alterem a sua actividade por forma a fazer o transporte de passageiros, ou inversamente, e que sejam titulares de um CAP referido no artigo 6.º, só têm que repetir as partes específicas da nova qualificação e não as partes comuns das qualificações iniciais."
+  },
+  "43237bb59a98334c": {
+   "fragment_id": "Artigo 6.º — CAP comprovativo da qualificação inicial",
+   "type": "artigo",
+   "heading": "Artigo 6.º — CAP comprovativo da qualificação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — CAP comprovativo da qualificação inicial\n\n1.\n\nCAP comprovativo da qualificação inicial\n\na) CAP emitido com base na frequência de um curso e num exame\n\nb) CAP emitido com base em exames\n\n2.\n\nCAP comprovativo da qualificação inicial acelerada\n\nEm conformidade com o n.º 2 do artigo 3.º, o Estado-Membro impõe ao candidato a motorista a frequência de um curso num centro de formação reconhecido. Esse curso incide em todas as matérias incluídas na lista constante da secção 1 do anexo I. A referida formação termina com o exame previsto na secção 3 do anexo I. Esse exame, organizado pelas autoridades competentes do Estado-Membro ou por qualquer entidade que estas designarem, visa verificar se o candidato a motorista possui o nível de conhecimentos exigido na secção 1 do anexo I sobre as matérias em questão. As mesmas autoridades ou entidades supervisam o exame e, em caso de aproveitamento no referido exame, emitem ao motorista um CAP comprovativo da qualificação inicial acelerada."
+  },
+  "3668ea71204e38f0": {
+   "fragment_id": "Artigo 7.º — Formação contínua",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Formação contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formação contínua\n\nA formação contínua permite que os titulares de um CAP atualizem os conhecimentos fundamentais para a sua função, com especial destaque para a segurança rodoviária, a saúde e a segurança no trabalho e a redução do impacto ambiental da condução.\n\nEssa formação é organizada por um centro de formação reconhecido, em conformidade com a secção 5 do anexo I. A formação consiste em ensino em salas de aula, em formação prática e, se disponível, em formação ministrada através de ferramentas das tecnologias da informação e da comunicação (TIC) ou de simuladores de topo de gama. Se um motorista mudar de empresa, a formação contínua já efetuada deve ser tomada em consideração.\n\nA formação contínua tem por objetivo aprofundar e rever algumas das matérias referidas na secção 1 do anexo I. Deve abranger uma variedade de matérias e deve incluir sempre pelo menos uma matéria relacionada com a segurança rodoviária. As matérias da formação devem ter em conta a evolução da legislação e da tecnologia pertinentes e, tanto quanto possível, as necessidades específicas dos motoristas em matéria de formação."
+  },
+  "f00506dfe8c58021": {
+   "fragment_id": "Artigo 8.º — CAP comprovativo da formação contínua",
+   "type": "artigo",
+   "heading": "Artigo 8.º — CAP comprovativo da formação contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — CAP comprovativo da formação contínua\n\n1. No final da formação contínua referida no artigo 7.º, as autoridades competentes do Estado-Membro ou o centro de formação reconhecido emite ao motorista um CAP comprovativo da formação contínua.\n\n2.\n\nDeve ser seguida uma primeira formação contínua:\n\na) Pelos titulares de um CAP referido no artigo 6.º, nos cinco anos seguintes à data de emissão do CAP;\n\nb) Pelos motoristas referidos nas alíneas a) e b) do artigo 4.º, nos cinco anos seguintes, respectivamente, às datas a que se refere o n.º 2 do artigo 14.º, segundo um calendário fixado pelos Estados-Membros.\n\nOs Estados-Membros podem reduzir ou prorrogar os prazos referidos nas alíneas a) e b), nomeadamente a fim de os fazerem coincidir com o fim do prazo de validade da carta de condução ou para permitir a instauração gradual da formação contínua. No entanto, esse prazo não pode ser inferior a três anos nem superior a sete anos.\n\n3. Os motoristas que tiverem completado a primeira formação contínua referida no n.º 2 devem seguir uma formação contínua de cinco em cinco anos antes do fim do período de validade do CAP comprovativo da formação contínua.\n\n4. Os titulares de um CAP referido no artigo 6.º ou do CAP referido no n.º 1 do artigo 8.º, bem como os motoristas referidos no artigo 4.º que tenham deixado de exercer a profissão e que não respondam às exigências dos n.^os^ 1, 2 e 3, devem seguir uma formação contínua antes de retomar o exercício da profissão.\n\n5. Os motoristas que efectuem transportes rodoviários de mercadorias ou de passageiros e tenham seguido uma formação contínua para uma das categorias de carta de condução previstas nos n.^os^ 2 e 3 do artigo 5.º não são obrigados a seguir uma formação contínua para as outras categorias de veículos previstas nos referidos números."
+  },
+  "f4534b8d2c60ca61": {
+   "fragment_id": "Artigo 9.º — Local da formação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Local da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Local da formação\n\nOs motoristas referidos no artigo 1.º, alínea a), da presente diretiva obtêm a qualificação inicial referida no artigo 5.º da presente diretiva no Estado-Membro onde têm a sua residência habitual, tal como definida no artigo 12.º da Diretiva 2006/126/CE.\n\nOs motoristas a que se refere a alínea b) do artigo 1.º obtêm essa qualificação no Estado-Membro em que a empresa está estabelecida ou no Estado-Membro que lhes tiver emitido a autorização de trabalho.\n\nOs motoristas a que se referem as alíneas a) e b) do artigo 1.º seguem a formação contínua referida no artigo 7.º no Estado-Membro onde têm a sua residência habitual ou no Estado-Membro onde trabalham."
+  },
+  "2f56df12c58f38f7": {
+   "fragment_id": "Artigo 10.º — Código da União",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Código da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Código da União\n\n1.\n\nCom base no CAP comprovativo da qualificação inicial e no CAP comprovativo da formação contínua, as autoridades competentes dos Estados-Membros apõem o código harmonizado «95» da União previsto no anexo I da Diretiva 2006/126/CE ao lado das categorias de cartas de condução correspondentes, tendo em conta o disposto no artigo 5.º, n.^os^ 2 e 3, e no artigo 8.º da presente diretiva:\n\n— na carta de condução, ou\n\n— na carta de qualificação de motorista, estabelecida em conformidade com o modelo descrito no anexo II da presente diretiva.\n\nSe as autoridades competentes do Estado-Membro em que o CAP foi obtido não puderem apor o código da União na carta de condução do motorista, devem emitir-lhe uma carta de qualificação de motorista.\n\nAs cartas de qualificação de motorista emitidas pelos Estados-Membros são reconhecidas mutuamente. Aquando da emissão da carta, as autoridades competentes devem verificar a validade da carta de condução para a categoria de veículos em causa.\n\n2. Um motorista referido no artigo 1.º, alínea b), que conduza veículos utilizados no transporte de mercadorias por via rodoviária também é autorizado a comprovar que possui a qualificação e a formação previstas na presente diretiva por meio do certificado de motorista previsto no Regulamento (CE) n.º 1072/2009 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#E0003)), desde que o certificado ostente o código «95» da União. Para efeitos da presente diretiva, o Estado-Membro emissor refere o código «95» da União na secção de observações do certificado, se o motorista em causa tiver cumprido os requisitos de qualificação e os requisitos de formação previstos na presente diretiva.\n\n3. Os certificados de motorista que não ostentem o código «95» da União e que tenham sido emitidos antes de 23 de maio de 2020 em conformidade com o artigo 5.º, em particular com o n.º 7, do Regulamento (CE) n.º 1072/2009, a fim de atestar o cumprimento dos requisitos de formação estabelecidos na presente diretiva, são aceites como prova de qualificação até ao termo do seu prazo de validade."
+  },
+  "d173a504a8f80055": {
+   "fragment_id": "Artigo 10.º-A — Rede de execução",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A — Rede de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A — Rede de execução\n\n1. Para efeitos de execução, os Estados-Membros trocam informações sobre os CAP emitidos ou retirados. Para esse efeito, os Estados-Membros criam, em cooperação com a Comissão, uma rede eletrónica ou trabalham na extensão de uma rede existente, tendo em conta a avaliação da opção mais rentável efetuada pela Comissão.\n\n2. A rede pode conter informações constantes dos CAP, bem como informações sobre os procedimentos administrativos relacionados com os CAP.\n\n3. Os Estados-Membros asseguram que o tratamento dos dados pessoais seja efetuado unicamente para efeitos de verificação do cumprimento da presente diretiva, nomeadamente dos requisitos de formação nela estabelecidos, nos termos do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#E0004)).\n\n4. O acesso à rede deve ser protegido. Os Estados-Membros podem limitar o acesso às autoridades competentes responsáveis pela aplicação e pelo controlo do cumprimento da presente diretiva."
+  },
+  "50e9ede300297de3": {
+   "fragment_id": "Artigo 11.º — Adaptação ao progresso científico e técnico",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Adaptação ao progresso científico e técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Adaptação ao progresso científico e técnico\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 11.º-A no que diz respeito a alterar os anexos I e II a fim de os adaptar ao progresso científico e técnico."
+  },
+  "2f0674f57fc21aac": {
+   "fragment_id": "Artigo 11.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 11.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 11.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 11.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^5^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#E0005)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 11.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "8fa3676d9fef8cba": {
+   "fragment_id": "Artigo 13.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Relatório\n\nA Comissão deve apresentar, antes de 10 de Setembro de 2011, ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões um relatório que incluirá uma primeira avaliação da aplicação da presente directiva, nomeadamente no tocante à equivalência dos diferentes sistemas de qualificação inicial referidos no artigo 3.º e à sua eficácia com vista a alcançar o nível de qualificação visado. Esse relatório será acompanhado, se for caso disso, de propostas adequadas."
+  },
+  "39aa312cd8ecde36": {
+   "fragment_id": "Artigo 14.º — Transposição e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Transposição e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transposição e aplicação\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 10 de Setembro de 2006 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2.\n\nOs Estados-Membros devem aplicar estas disposições:\n\n— no que se refere à qualificação inicial para a condução dos veículos das categorias de carta de condução D1, D1+E, D e D+E, a partir de 10 de Setembro de 2008,\n\n— no que se refere à qualificação inicial para a condução de veículos das categorias de carta de condução C1, C1+E, C e C+E, a partir de 10 de Setembro de 2009.\n\nOs Estados-Membros devem informar imediatamente a Comissão desse facto e prestar-se assistência mútua para fins de aplicação destas disposições."
+  },
+  "069a042f9219d700": {
+   "fragment_id": "Artigo 15.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\n1.\n\nO artigo 5.º do Regulamento (CEE) n.º 3820/85 é alterado nos termos seguintes:\n\na) O n.º 1 é revogado com efeitos a partir de 10 de Setembro de 2009;\n\nb) Os n.^os^ 2 e 4 são revogados com efeitos a partir de 10 de Setembro de 2008.\n\n2. A Directiva 76/914/CEE é revogada com efeitos a partir de 10 de Setembro de 2009.\n\n3.\n\nAs disposições legislativas, regulamentares e administrativas aprovadas para dar cumprimento à Directiva 76/914/CEE deixam de ser aplicáveis:\n\n— no que diz respeito aos motoristas de veículos de transporte rodoviário de passageiros, a partir de 10 de Setembro de 2008,\n\n— no que diz respeito aos motoristas de veículos de transporte rodoviário de mercadorias, a partir de 10 de Setembro de 2009."
+  },
+  "0135b65638ad0668": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "337c24ec8d19d764": {
+   "fragment_id": "Artigo 17.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "bc2d43c7ef20fb73": {
+   "fragment_id": "EXIGÊNCIAS MÍNIMAS PARA A QUALIFICAÇÃO E FORMAÇÃO",
+   "type": "divisao",
+   "heading": "EXIGÊNCIAS MÍNIMAS PARA A QUALIFICAÇÃO E FORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EXIGÊNCIAS MÍNIMAS PARA A QUALIFICAÇÃO E FORMAÇÃO"
+  },
+  "a59cc4ce3268e8dd": {
+   "fragment_id": "Secção 1: Lista das matérias",
+   "type": "divisao",
+   "heading": "Secção 1: Lista das matérias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Secção 1: Lista das matérias\n\nOs conhecimentos a ter em consideração para a comprovação da qualificação inicial e da formação contínua do motorista pelos Estados-Membros devem versar pelo menos sobre as matérias referidas na presente lista. Os candidatos a motoristas devem atingir o nível de conhecimentos e de aptidões práticas necessário para conduzir com toda a segurança veículos da categoria em causa da carta de condução.\n\nO nível mínimo de qualificação deve ser comparável, pelo menos, ao nível 2 do Quadro Europeu de Qualificações, previsto no anexo II da Recomendação do Parlamento Europeu e do Conselho de 23 de abril de 2008 ([^6^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#E0006))."
+  },
+  "423f954486c7d01e": {
+   "fragment_id": "1. Aperfeiçoamento para uma condução racional baseada nas regras de segurança",
+   "type": "divisao",
+   "heading": "1. Aperfeiçoamento para uma condução racional baseada nas regras de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Aperfeiçoamento para uma condução racional baseada nas regras de segurança\n\n1.1. Objectivo: conhecer as características da cadeia cinemática para optimizar a respectiva utilização.\n\n1.2. Objetivo: conhecer as características técnicas e o funcionamento dos órgãos de segurança a fim de dominar o veículo, de minimizar a sua usura e de prevenir os seus disfuncionamentos:\n\n1.3. Objetivo: ser capaz de otimizar o consumo de combustível:\n\n1.3-A. Objetivo: ser capaz de antecipar, de avaliar e de se adaptar aos riscos do tráfego:\n\n1.4. Objetivo: ser capaz de assegurar uma carga, respeitando as instruções de segurança e a boa utilização do veículo:\n\n1.5. Objetivo: ser capaz de assegurar a segurança e o conforto dos passageiros:\n\n1.6. Objetivo: ser capaz de assegurar uma carga, respeitando as instruções de segurança e a boa utilização do veículo:"
+  },
+  "fa241f0e22d411e6": {
+   "fragment_id": "2. Aplicação das regulamentações",
+   "type": "divisao",
+   "heading": "2. Aplicação das regulamentações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Aplicação das regulamentações\n\n2.1. Objetivo: conhecer o ambiente social do transporte rodoviário e a sua regulamentação:\n\n2.2. Objetivo: conhecer a regulamentação relativa ao transporte de mercadorias:\n\n2.3. Objectivo: conhecer a regulamentação relativa ao transporte de passageiros."
+  },
+  "f391501c0f6482ec": {
+   "fragment_id": "3. Saúde, segurança rodoviária e segurança ambiental, serviço, logística",
+   "type": "divisao",
+   "heading": "3. Saúde, segurança rodoviária e segurança ambiental, serviço, logística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Saúde, segurança rodoviária e segurança ambiental, serviço, logística\n\n3.1. Objectivo: ficar sensibilizado para os riscos da estrada e os acidentes de trabalho.\n\n3.2. Objectivo: ser capaz de prevenir a criminalidade e o tráfico de clandestinos.\n\n3.3. Objectivo: ser capaz de prevenir os riscos físicos.\n\n3.4. Objectivo: estar consciente da importância da aptidão física e mental.\n\n3.5. Objectivo: estar apto a avaliar situações de emergência.\n\n3.6. Objectivo: poder adoptar comportamentos que contribuam para a valorização da imagem de marca de uma empresa de serviços.\n\n3.7. Objetivo: conhecer o contexto económico do transporte rodoviário de mercadorias e a organização do mercado:\n\n3.8. Objetivo: conhecer o contexto económico do transporte rodoviário de passageiros e a organização do mercado:"
+  },
+  "8082ef0804a2c0a9": {
+   "fragment_id": "Secção 2: Qualificação inicial obrigatória prevista na alínea a) do n.º 1 do artigo 3.º",
+   "type": "divisao",
+   "heading": "Secção 2: Qualificação inicial obrigatória prevista na alínea a) do n.º 1 do artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Secção 2: Qualificação inicial obrigatória prevista na alínea a) do n.º 1 do artigo 3.º"
+  },
+  "84560245555b50c2": {
+   "fragment_id": "2.1. Opção que inclui simultaneamente a frequência de cursos e um exame",
+   "type": "divisao",
+   "heading": "2.1. Opção que inclui simultaneamente a frequência de cursos e um exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.1. Opção que inclui simultaneamente a frequência de cursos e um exame\n\nA qualificação inicial comporta o ensino de todas as matérias incluídas na lista constante da secção 1. A duração desta qualificação inicial é de 280 horas.\n\nCada candidato a motorista deve efetuar pelo menos 20 horas de condução individual num veículo da categoria em causa, que satisfaça no mínimo os critérios dos veículos de exame tal como estabelecidos na Diretiva 2006/126/CE.\n\nDurante a condução individual, o candidato a motorista é acompanhado por um instrutor, empregado por um centro de formação reconhecido. Cada candidato a motorista pode efetuar, no máximo, oito horas das 20 horas de condução individual num terreno especial ou num simulador de alta qualidade, a fim de avaliar o aperfeiçoamento em condução racional baseado nas regras de segurança, nomeadamente no que se refere ao domínio do veículo ligado às diferentes condições do piso, bem como às suas variações segundo as condições atmosféricas, durante o dia e durante a noite, assim como a aptidão para otimizar o consumo de combustível.\n\nOs Estados-Membros podem autorizar que uma parte da formação seja ministrada pelo centro de formação reconhecido, através de ferramentas das TIC, tais como a aprendizagem eletrónica, sem deixar de assegurar que a elevada qualidade e a eficácia da formação sejam mantidas, e selecionando os temas para os quais a utilização de ferramentas das TIC é mais eficaz. Os Estados-Membros exigem, em particular, uma identificação fiável do utilizador e meios de controlo adequados. Os Estados-Membros podem considerar como parte do programa de formação outros módulos específicos exigidos nos termos de outros atos legislativos da União. Tal inclui, nomeadamente, a formação requerida ao abrigo da Diretiva 2008/68/CE do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#E0009)) para o transporte de mercadorias perigosas, a formação relativa à sensibilização para a deficiência ao abrigo do Regulamento (UE) n.º 181/2011 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#E0010)) e a formação relativa ao transporte de animais ao abrigo do Regulamento (CE) n.º 1/2005 do Conselho ([^11^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#E0011)).\n\nPara os motoristas referidos no artigo 5.º, n.º 5, a duração da qualificação inicial é de 70 horas, cinco das quais de condução individual.\n\nNo final dessa formação, as autoridades competentes dos Estados-Membros ou a entidade por elas designada submetem o motorista a um exame escrito ou oral. Esse exame inclui pelo menos uma questão por objetivo referido na lista das matérias que consta da secção 1."
+  },
+  "a6e069e2d924a299": {
+   "fragment_id": "2.2. Opção que inclui exames",
+   "type": "divisao",
+   "heading": "2.2. Opção que inclui exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.2. Opção que inclui exames\n\nAs autoridades competentes dos Estados-Membros ou a entidade por elas designada organizarão os exames, teórico e prático, acima referidos para verificar se os candidatos a motoristas possuem o nível de conhecimentos exigido na secção 1, no que se refere a todos os objectivos e às matérias aí indicadas.\n\na) O exame teórico é composto, no mínimo, por duas provas:\n\ni) perguntas que incluem perguntas de resposta múltipla, ou perguntas de resposta directa, ou uma combinação dos dois sistemas,\n\nii) estudo de casos.\n\nb) O exame prático é composto por duas provas:\n\ni) uma prova de condução destinada a avaliar o aperfeiçoamento na condução racional baseada nas regras de segurança. Esta prova terá lugar, se possível, em estradas situadas fora das aglomerações, em vias rápidas e em auto-estradas (ou similares), bem como em todos os tipos de vias urbanas, devendo estas apresentar os diferentes tipos de dificuldades que um motorista é susceptível de encontrar. É desejável que esta prova se possa desenrolar em diferentes condições de densidade do trânsito. O tempo de condução na estrada deve ser utilizado de forma óptima a fim de avaliar o candidato em todas as zonas de circulação susceptíveis de serem encontradas. A duração mínima desta prova é de 90 minutos,\n\nii) uma prova prática versando pelo menos sobre os pontos 1.4, 1.5, 1.6, 3.2, 3.3 e 3.5."
+  },
+  "2ae67adf9dd7e592": {
+   "fragment_id": "Secção 3: Qualificação inicial acelerada prevista no artigo 3.º, n.º 2",
+   "type": "divisao",
+   "heading": "Secção 3: Qualificação inicial acelerada prevista no artigo 3.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Secção 3: Qualificação inicial acelerada prevista no artigo 3.º, n.º 2\n\nA qualificação inicial acelerada comporta o ensino de todas as matérias incluídas na lista constante da secção 1. A duração é de 140 horas.\n\nCada candidato a motorista deve efetuar pelo menos 10 horas de condução individual num veículo da categoria em causa, que satisfaça no mínimo os critérios dos veículos de exame estabelecidos na Diretiva 2006/126/CE.\n\nDurante a condução individual, o candidato a motorista é acompanhado por um instrutor, empregado por um centro de formação reconhecido. Cada candidato a motorista pode efetuar, no máximo, quatro horas das 10 horas de condução individual num terreno especial ou num simulador de alta qualidade, a fim de avaliar o aperfeiçoamento em condução racional baseado nas regras de segurança, nomeadamente no que se refere ao domínio do veículo ligado às diferentes condições do piso, bem como às suas variações segundo as condições atmosféricas, durante o dia e durante a noite, assim como a aptidão para otimizar o consumo de combustível.\n\nAs disposições do ponto 2.1, quarto parágrafo, aplicam-se igualmente à qualificação inicial acelerada.\n\nPara os motoristas referidos no artigo 5.º, n.º 5, a duração da qualificação inicial acelerada é de 35 horas, das quais duas e meia em condução individual.\n\nNo final dessa formação, as autoridades competentes dos Estados-Membros ou a entidade por elas designada submetem o motorista a um exame escrito ou oral. Esse exame inclui pelo menos uma questão por objetivo referido na lista das matérias que consta da secção 1."
+  },
+  "e2edcee29ad47aa3": {
+   "fragment_id": "Secção 4: Formação contínua obrigatória prevista no artigo 3.º, n.º 1, alínea b)",
+   "type": "divisao",
+   "heading": "Secção 4: Formação contínua obrigatória prevista no artigo 3.º, n.º 1, alínea b)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Secção 4: Formação contínua obrigatória prevista no artigo 3.º, n.º 1, alínea b)\n\nSão organizados cursos de formação contínua obrigatória por um centro de formação reconhecido. A sua duração é de 35 horas de cinco em cinco anos, lecionadas por períodos de pelo menos sete horas, que podem ser repartidos por dois dias consecutivos. Em caso de recurso à aprendizagem eletrónica, o centro de formação reconhecido deve assegurar que a manutenção da devida qualidade da formação, inclusive selecionando os temas para os quais a utilização das TIC é mais eficaz. Os Estados-Membros exigem, em particular, uma identificação fiável do utilizador e meios de controlo adequados. A duração máxima da formação eletrónica é de 12 horas. Pelo menos um dos períodos do curso de formação deve abranger uma matéria relacionada com segurança rodoviária. O teor da formação deve ter em conta as necessidades de formação específicas das operações de transportes efetuadas pelo motorista e a evolução da legislação e da tecnologia pertinentes, bem como, tanto quanto possível, as necessidades específicas do motorista em matéria de formação. Durante as 35 horas, deverão ser abordadas diferentes matérias, incluindo a repetição de conteúdos da formação, caso se verifique que o motorista precisa de medidas de apoio específicas.\n\nOs Estados-Membros podem ponderar que a formação específica completada exigida nos termos de outra legislação da União seja contabilizada até ao equivalente de um dos períodos fixados de sete horas. Tal inclui, nomeadamente, a formação requerida ao abrigo da Diretiva 2008/68/CE para o transporte de mercadorias perigosas, a formação relativa ao transporte de animais ao abrigo do Regulamento (CE) n.º 1/2005 e, para o transporte de passageiros, a formação relativa à sensibilização para a deficiência ao abrigo do Regulamento (UE) n.º 181/2011. Contudo, os Estados-Membros podem decidir que a formação específica completada requerida ao abrigo da Diretiva 2008/68/CE para o transporte de mercadorias perigosas conte como dois dos períodos de sete horas, desde que esta seja a única formação tida em conta na formação contínua."
+  },
+  "2140f9a8a2d80d34": {
+   "fragment_id": "Secção 5: Reconhecimento da qualificação inicial e da formação contínua",
+   "type": "divisao",
+   "heading": "Secção 5: Reconhecimento da qualificação inicial e da formação contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Secção 5: Reconhecimento da qualificação inicial e da formação contínua\n\n5.1. Os centros de formação que intervêm na qualificação inicial e na formação contínua devem ser reconhecidos pelas autoridades competentes dos Estados-Membros. Este reconhecimento só será concedido mediante pedido escrito. O pedido deve ser acompanhado de documentos que incluam:\n\n5.1.1. um programa de qualificação e de formação adequado especificando as matérias ensinadas e indicando o plano de execução e os métodos de ensino previstos,\n\n5.1.2. as qualificações e domínios de actividade dos formadores,\n\n5.1.3. informações sobre os locais onde se realizam os cursos, os materiais pedagógicos, os meios postos à disposição para os trabalhos práticos, o parque de veículos utilizado,\n\n5.1.4. condições de participação nos cursos (número de participantes).\n\n5.2. A autoridade competente deve conceder o reconhecimento por escrito e sob reserva das seguintes condições:\n\n5.2.1. a formação deve ser dispensada em conformidade com os documentos que acompanham o pedido,\n\n5.2.2. a possibilidade de enviar pessoas autorizadas para assistirem aos cursos de formação e de dispor de um direito de controlo dos centros reconhecidos relativamente aos meios utilizados e ao correcto desenrolar das formações e dos exames,\n\n5.2.3. o reconhecimento pode ser retirado ou suspenso se não forem satisfeitas as condições de reconhecimento."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "0f14da449e7ebf21": {
+   "fragment_id": "DISPOSIÇÕES RELATIVAS AO MODELO DA UNIÃO EUROPEIA DE CARTA DE QUALIFICAÇÃO DE MOTORISTA",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES RELATIVAS AO MODELO DA UNIÃO EUROPEIA DE CARTA DE QUALIFICAÇÃO DE MOTORISTA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES RELATIVAS AO MODELO DA UNIÃO EUROPEIA DE CARTA DE QUALIFICAÇÃO DE MOTORISTA\n\n1. As características físicas da carta de qualificação de motorista de modelo comunitário são conformes com as normas ISO 7810 e ISO 7816-1.\n\n2. A carta é composta por duas faces:\n\na) A menção «Carta de qualificação de motorista» impressa em grandes caracteres na ou nas línguas do Estado-Membro que emite a carta;\n\nb) A menção do nome do Estado-Membro que emite a carta, que é facultativa;\n\nc) [**►M1**](http://publications.europa.eu/resource/celex/32004L0066)\n\nO símbolo distintivo do Estado-Membro que emite a carta, impresso em negativo num rectângulo azul e rodeado de 12 estrelas amarelas; os símbolos distintivos são os seguintes:\n\n| B | : | Bélgica |\n| --- | --- | --- |\n\n| BG | : | Bulgária |\n| --- | --- | --- |\n\n| CZ | : | República Checa |\n| --- | --- | --- |\n\n| DK | : | Dinamarca |\n| --- | --- | --- |\n\n| D | : | Alemanha |\n| --- | --- | --- |\n\n| EST | : | Estónia |\n| --- | --- | --- |\n\n| GR | : | Grécia |\n| --- | --- | --- |\n\n| E | : | Espanha |\n| --- | --- | --- |\n\n| F | : | França |\n| --- | --- | --- |\n\n| HR | : | Croácia |\n| --- | --- | --- |\n\n| IRL | : | Irlanda |\n| --- | --- | --- |\n\n| I | : | Itália |\n| --- | --- | --- |\n\n| CY | : | Chipre |\n| --- | --- | --- |\n\n| LV | : | Letónia |\n| --- | --- | --- |\n\n| LT | : | Lituânia |\n| --- | --- | --- |\n\n| L | : | Luxemburgo |\n| --- | --- | --- |\n\n| H | : | Hungria |\n| --- | --- | --- |\n\n| M | : | Malta |\n| --- | --- | --- |\n\n| NL | : | Países Baixos |\n| --- | --- | --- |\n\n| A | : | Áustria |\n| --- | --- | --- |\n\n| PL | : | Polónia |\n| --- | --- | --- |\n\n| P | : | Portugal |\n| --- | --- | --- |\n\n| RO | : | Roménia |\n| --- | --- | --- |\n\n| SLO | : | Eslovénia |\n| --- | --- | --- |\n\n| SK | : | Eslováquia |\n| --- | --- | --- |\n\n| FIN | : | Finlândia |\n| --- | --- | --- |\n\n| S | : | Suécia |\n| --- | --- | --- |\n\n| UK | : | Reino Unido; |\n| --- | --- | --- |\n\nd) As informações específicas da carta, numeradas do seguinte modo:\n\n1. apelido do titular,\n\n2. nome do titular,\n\n3. data e local de nascimento do titular,\n\n4.\n\na) data de emissão,\n\nb) data de caducidade,\n\nc) designação da autoridade que emite a carta (pode ser impressa na face 2),\n\nd) um número que não seja o número da carta de condução útil para a gestão da carta de qualificação de motorista (menção facultativa);\n\n5.\n\na) número da carta de condução,\n\nb) número de série;\n\n6. fotografia do titular,\n\n7. assinatura do titular,\n\n8. residência, domicílio ou endereço postal (menção facultativa),\n\n9. as categorias de veículos para as quais o motorista satisfaz as obrigações de qualificação inicial e de formação contínua;\n\ne) [**►M5**](http://publications.europa.eu/resource/celex/32018L0645) A menção «Modelo da União Europeia» na ou nas línguas do Estado-Membro que emite a carta e a menção «Carta de qualificação de motorista», nas restantes línguas oficiais da União, impressa a azul, a fim de constituir o pano de fundo da carta:**◄**\n\nf) Cores de referência:\n\n— azul: Pantone Reflex blue,\n\n— amarelo: Pantone yellow.\n\na)\n\n►M5 9. as categorias de veículos para as quais o motorista satisfaz as obrigações de qualificação inicial e de formação contínua,\n\n10. o código harmonizado «95» da União previsto no anexo I da Diretiva 2006/126/CE,**◄**\n\n11. um espaço reservado para a eventual inscrição, pelo Estado-Membro que emite a carta, das menções indispensáveis à gestão ou relativas à segurança rodoviária (menção facultativa). No caso de a menção dizer respeito a uma rubrica definida no presente anexo, essa menção deverá ser precedida do número da rubrica correspondente;\n\nb) Uma explicação das rubricas numeradas que surgem nas faces 1 e 2 da carta [pelo menos as rubricas 1, 2, 3, 4a), 4b), 4c), 5a), 5b) e 10]."
+  },
+  "25a8ce6654ed3a47": {
+   "fragment_id": "3. Segurança, incluindo a protecção de dados",
+   "type": "divisao",
+   "heading": "3. Segurança, incluindo a protecção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Segurança, incluindo a protecção de dados\n\nOs diferentes elementos constitutivos da carta destinam-se a excluir qualquer falsificação ou manipulação e a detectar qualquer tentativa deste tipo.\n\nO Estado-Membro garante que o nível de segurança da carta seja pelo menos comparável ao nível de segurança da carta de condução."
+  },
+  "ea91fabe3be2e1db": {
+   "fragment_id": "4. Disposições específicas",
+   "type": "divisao",
+   "heading": "4. Disposições específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Disposições específicas\n\nApós consulta à Comissão, os Estados-Membros podem acrescentar cores ou marcações, tais como códigos de barras, símbolos nacionais e elementos de segurança, sem prejuízo das outras disposições do presente anexo.\n\nNo âmbito do reconhecimento mútuo das cartas, o código de barras não pode conter informações para além das que constam já de forma legível na carta de qualificação e de formação do motorista ou que sãos indispensáveis para o processo de emissão da carta."
+  },
+  "9289e162cd40e867": {
+   "fragment_id": "5. Disposições transitórias",
+   "type": "divisao",
+   "heading": "5. Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Disposições transitórias\n\nAs cartas de qualificação de motorista emitidas antes de 23 de maio de 2020 são válidas até ao termo do seu prazo de validade."
+  },
+  "87aba8657abf2feb": {
+   "fragment_id": "MODELO DA UNIÃO EUROPEIA DE CARTA DE QUALIFICAÇÃO DE MOTORISTA",
+   "type": "divisao",
+   "heading": "MODELO DA UNIÃO EUROPEIA DE CARTA DE QUALIFICAÇÃO DE MOTORISTA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODELO DA UNIÃO EUROPEIA DE CARTA DE QUALIFICAÇÃO DE MOTORISTA\n\n[**►(^1^) M5**](http://publications.europa.eu/resource/celex/32018L0645)"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "dd2cf7742214b0b1": {
+   "fragment_id": "TABELA DE CORRESPONDÊNCIA DAS REFERÊNCIAS A DETERMINADAS CATEGORIAS DE CARTAS DE CONDUÇÃO",
+   "type": "divisao",
+   "heading": "TABELA DE CORRESPONDÊNCIA DAS REFERÊNCIAS A DETERMINADAS CATEGORIAS DE CARTAS DE CONDUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TABELA DE CORRESPONDÊNCIA DAS REFERÊNCIAS A DETERMINADAS CATEGORIAS DE CARTAS DE CONDUÇÃO\n\nReferência na presente diretiva Referência na Diretiva 2006/126/CE\n\nC + E CE\n\nC1 + E C1E\n\nD + E DE\n\nD1 + E D1E\n\n---"
+  },
+  "3c2b872e056fff15": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#src.E0001)) Diretiva 2006/126/CE do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, relativa à carta de condução (JO L 403 de 30.12.2006, p. 18).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#src.E0002)) Directiva 96/26/CE do Conselho, de 29 de Abril de 1996, relativa ao acesso à profissão de transportador rodoviário de mercadorias e de transportador rodoviário de passageiros, bem como ao reconhecimento mútuo dos diplomas, certificados e outros títulos, com o objectivo de favorecer o exercício efectivo da liberdade de estabelecimento desses transportadores no domínio dos transportes nacionais e internacionais (JO L 124 de 23.5.1996, p. 1). Directiva com a última redacção que lhe foi dada pela Directiva 98/76/CE (JO L 277 de 14.10.1998, p. 17).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#src.E0003)) Regulamento (CE) n.º 1072/2009 do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece regras comuns para o acesso ao mercado do transporte internacional rodoviário de mercadorias (JO L 300 de 14.11.2009, p. 72).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#src.E0004)) Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados) (JO L 119 de 4.5.2016, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#src.E0005)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#src.E0006)) Recomendação do Parlamento Europeu e do Conselho de 23 de abril de 2008 relativa à instituição do Quadro Europeu de Qualificações para a aprendizagem ao longo da vida (JO C 111 de 6.5.2008, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#src.E0007)) Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho, de 15 de março de 2006, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários, que altera os Regulamentos (CEE) n.º 3821/85 e (CEE) n.º 2135/98 do Conselho e revoga o Regulamento (CEE) n.º 3820/85 do Conselho (JO L 102 de 11.4.2006, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#src.E0008)) Regulamento (UE) n.º 165/2014 do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014, relativo à utilização de tacógrafos nos transportes rodoviários, que revoga o Regulamento (CEE) n.º 3821/85 do Conselho relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários e que altera o Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários (JO L 60 de 28.2.2014, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#src.E0009)) Diretiva 2008/68/CE do Parlamento Europeu e do Conselho, de 24 de setembro de 2008, relativa ao transporte terrestre de mercadorias perigosas (JO L 260 de 30.9.2008, p. 13).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#src.E0010)) Regulamento (UE) n.º 181/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, respeitante aos direitos dos passageiros no transporte de autocarro e que altera o Regulamento (CE) n.º 2006/2004 (JO L 55 de 28.2.2011, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/b8496b59-e440-11e9-9c4e-01aa75ed71a1.0019.03/DOC_3#src.E0011)) Regulamento (CE) n.º 1/2005 do Conselho, de 22 de dezembro de 2004, relativo à proteção dos animais durante o transporte e operações afins e que altera as Diretivas 64/432/CEE e 93/119/CE e o Regulamento (CE) n.º 1255/97 (JO L 3 de 5.1.2005, p. 1)."
+  },
+  "93a44a171ee07a31": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02003L0059 — PT — 12.01.2023 — 007.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32003L0059) [DIRECTIVA 2003/59/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32003L0059) [de 15 de Julho de 2003](http://publications.europa.eu/resource/celex/32003L0059) [relativa à qualificação inicial e à formação contínua dos motoristas de determinados veículos rodoviários afectos ao transporte de mercadorias e de passageiros, que altera o Regulamento (CEE) n.º 3820/85 do Conselho e a Directiva 91/439/CEE do Conselho e que revoga a Directiva 76/914/CEE do Conselho](http://publications.europa.eu/resource/celex/32003L0059) (JO L 226, 10.9.2003, p.4)\n\n**Revogada por:**\n\n- [Diretiva (UE) 2022/2561 do Parlamento Europeu e do Conselho de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2561) — L 330 — 46 — 23.12.2022"
+  }
+ }
+}

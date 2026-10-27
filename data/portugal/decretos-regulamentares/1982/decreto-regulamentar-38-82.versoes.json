@@ -1,0 +1,256 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:394533:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1982-1096116875",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/38-1982-394533",
+ "source_lastmod": "2026-10-07",
+ "versions": [
+  {
+   "date": "1991-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:674060:por",
+     "title": "Decreto-Lei n.º 300/91",
+     "published": "1991-08-16",
+     "dre_path": "/dr/detalhe/decreto-lei/300-1991-674060"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "1096117075",
+    "1171918675",
+    "1171918875",
+    "1171919075",
+    "1171915275",
+    "1171915475",
+    "1171915675",
+    "1171919275",
+    "1171915875",
+    "1096117275"
+   ]
+  },
+  {
+   "date": "1997-09-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:643129:por",
+     "title": "Decreto-Lei n.º 237/97",
+     "published": "1997-09-08",
+     "dre_path": "/dr/detalhe/decreto-lei/237-1997-643129"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "1096117075",
+    "1175060375",
+    "1171918875",
+    "1171919075",
+    "1171915275",
+    "1171915475",
+    "1171915675",
+    "1171919275",
+    "1171915875",
+    "1096117275"
+   ]
+  },
+  {
+   "date": "2005-04-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:563009:por",
+     "title": "Decreto-Lei n.º 75/2005",
+     "published": "2005-04-04",
+     "dre_path": "/dr/detalhe/decreto-lei/75-2005-563009"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "1096117075",
+    "1176357475",
+    "1171918875",
+    "1171919075",
+    "1171915275",
+    "1171915475",
+    "1171915675",
+    "1171919275",
+    "1171915875",
+    "1096117275"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:469069:por",
+     "title": "Decreto-Lei n.º 229/2005",
+     "published": "2005-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/229-2005-469069"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "1096117075",
+    "1176357475",
+    "1171918875",
+    "1177966675",
+    "1171915275",
+    "1171915475",
+    "1171915675",
+    "1171919275",
+    "1171915875",
+    "1096117275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1096117075": {
+   "fragment_id": "1096116975",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "São infelizmente frequentes nos estabelecimentos prisionais as situações de perigo a que são sujeitos os funcionários.\n\nDelinquentes de elevada perigosidade e cumprindo grandes penas concentram-se nos estabelecimentos, onde os motins, as depredações, as ofensas corporais, o ficar-se refém, a perda de vidas são realidades que não podem deixar de medir-se quando se encare a situação do funcionário prisional.\n\nHá efectivamente em relação a estes funcionários que considerar o ónus da sua permanência dentro da instituição ou do desempenho de determinados cargos que, directa ou indirectamente, se colocam potencialmente sob um risco permanente e elevado que não surge no exercício de outras funções.\n\nRazões de ordem semelhante, mas ligadas a outra zona de luta contra a criminalidade, estiveram na origem da publicação do Decreto Regulamentar n.º 10-A/80, de 5 de Maio, que se refere a determinado pessoal da PJ.\n\nNos serviços prisionais e por equiparação ao pessoal da PSP, só os guardas prisionais recebem, e justamente, conpensação que decorre do risco.\n\nO reconhecimento de que essa compensação devia ser tornada extensiva a outras categorias de funcionários levou a que, no preâmbulo da nova lei orgânica da Direcção-Geral dos Serviços Prisionais, aprovada pelo Decreto-Lei n.º 268/81, de 16 de Setembro, se anunciasse já a intenção de promover o seu alargamento.\n\nPor intermédio deste diploma vem pois concretizar-se esse intento, graduando-se o subsídio de risco de forma correspondente ao risco das funções exercidas pelas diversas categorias de funcionários abrangidos.\n\nAssim, tendo em vista o disposto no n.º 2 do artigo 8.º do Decreto-Lei n.º 110-A/81, de 14 de Maio:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "1171918675": {
+   "fragment_id": "1171896675",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1991-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O pessoal dirigente da Direcção-Geral dos Serviços Prisionais tem direito a um suplemento de risco fixado em 20% do índice 100 da respectiva escala remuneratória, para os titulares dos cargos de director-geral e de subdirector-geral, e em 13% da mesma escala, para os titulares dos cargos de director de serviços e de chefe de divisão.\n\n2 - O pessoal da Direcção-Geral dos Serviços Prisionais pertencente às carreiras técnica superior de vigilância e técnica auxiliar de vigilância, bem como o pessoal com a categoria de inspector, têm direito a um suplemento de risco correspondente a 35% do índice 100 da escala salarial do regime geral.\n\n3 - Ao pessoal que, a qualquer título, preste serviço na Direcção-Geral dos Serviços Prisionais mas não pertença ao grupo de pessoal de vigilância, quando em serviço efectivo nos estabelecimentos prisionais, é atribuído um suplemento de risco correspondente ao montante calculado nos termos dos números seguintes.\n\n4 - O suplemento de risco para os titulares do cargo de director de estabelecimento prisional é fixado em 15% do índice 100 da escala remuneratória do pessoal dirigente.\n\n5 - Os adjuntos e substitutos de director de estabelecimento prisional têm direito a um suplemento de risco correspondente a 13% do índice 100 da escala remuneratória, do pessoal dirigente.\n\n6 - O suplemento de risco para o pessoal pertencente aos grupos de pessoal técnico superior, de pessoal técnico, de pessoal técnico-profissional e de pessoal operário, bem como para aquele que possua a categoria de assistente religioso, é fixado em 35% do índice 100 da escala salarial do regime geral.\n\n7 - Os docentes do Ministério da Educação que prestem serviço em estabelecimentos prisionais têm direito a um suplemento de risco de montante calculado nos termos do número anterior.\n\n8 - O suplemento de risco para os grupos de pessoal administrativo e de pessoal auxiliar é fixado em 25% do índice 100 da escala salarial do regime geral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+  },
+  "1171918875": {
+   "fragment_id": "1171896875",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1991-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+   ],
+   "markdown": "###### Artigo 2.º\n\nO suplemento instituído pelo presente diploma está sujeito ao desconto de quota para aposentação e sobrevivência e é apurado com arredondamento para a centena de escudos imediatamente superior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+  },
+  "1171919075": {
+   "fragment_id": "1171897375",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1991-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+   ],
+   "markdown": "###### Artigo 3.º\n\nAo pessoal a que se refere o presente diploma é contado, para efeitos de aposentação, um acréscimo de 20% no tempo de serviço efectivamente prestado no âmbito da Direcção-Geral dos Serviços Prisionais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+  },
+  "1171915275": {
+   "fragment_id": "1171897675",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1991-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs funcionários referidos no n.º 2 do artigo 2.º terão os seus subsídios acrescidos de 1000$00 e de 500$00 quando, respectivamente, prestem serviço em estabelecimentos de segurança máxima ou em estabelecimentos com secções de segurança máxima.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+  },
+  "1171915475": {
+   "fragment_id": "1171897875",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1991-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+   ],
+   "markdown": "###### Artigo 5.º\n\nO subsídio a que se refere os artigos anteriores é considerado para efeitos da alínea a) do n.º 1 do artigo 47.º do Decreto-Lei n.º 498/72, de 9 de Dezembro.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+  },
+  "1171915675": {
+   "fragment_id": "1171898075",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1991-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+   ],
+   "markdown": "###### Artigo 6.º\n\nO disposto no presente diploma produz efeitos a partir de 1 de Junho de 1982.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+  },
+  "1171919275": {
+   "fragment_id": "1171898275",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1991-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+   ],
+   "markdown": "###### Artigo 7.º\n\nOs encargos resultantes da aplicação deste diploma são suportados pelos fundos geridos pelo Gabiente de Gestão Financeira do Ministério da Justiça, enquanto a respectiva dotação no Orçamento do Estado não se encontrar devidamente consignada.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+  },
+  "1171915875": {
+   "fragment_id": "1171918475",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1991-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+   ],
+   "markdown": "###### Artigo 8.º\n\nAs dúvidas que surgirem na aplicação do presente diploma serão resolvidas por despacho do Ministro da Justiça em conjunto com o Ministro de Estado e das Finanças e do Plano e o Ministro da Reforma Administrativa, de acordo com as respectivas competências.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+  },
+  "1096117275": {
+   "fragment_id": "1096117175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.\n\nPromulgado em 24 de Junho de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "1175060375": {
+   "fragment_id": "1171896675",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1997-09-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 237/97 - Diário da República n.º 207/1997, Série I-A de 1997-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1997-643129), em vigor a partir de 1997-09-13, com efeitos a partir de 1997-01-01.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O pessoal da Direcção-Geral dos Serviços Prisionais (DGSP) tem direito a um suplemento de risco pago 12 vezes por ano com a remuneração mensal, calculado em percentagem do índice 100 da respectiva escala remuneratória, nos termos do presente diploma.\n\n2 - O pessoal dirigente tem o suplemento calculado em função do índice 100 da escala remuneratória do pessoal dirigente da função pública, nas seguintes percentagens:\n\na) Director-geral e subdirector-geral - 23,4%;\n\nb) Director de estabelecimento prisional - 17,6%;\n\nc) Director de serviços, chefe de divisão, adjuntos e substitutos de director de estabelecimento prisional - 15,2%.\n\n3 - O pessoal da categoria de inspector e das carreiras de técnico superior de vigilância e técnico auxiliar de vigilância tem o suplemento de 41% do índice 100 da respectiva escala remuneratória.\n\n4 - O pessoal da DGSP, bem como o pessoal de outros ministérios que preste serviço efectivo nos estabelecimentos prisionais, tem direito a um suplemento calculado nas seguintes percentagens do índice 100 da respectiva escala remuneratória:\n\na) Pessoal dos grupos de técnico superior, técnico, docente, assistente religioso, técnico profissional e operário - 41%;\n\nb) Chefe de repartição e pessoal dos grupos administrativo e auxiliar - 29,3%.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 237/97 - Diário da República n.º 207/1997, Série I-A de 1997-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1997-643129), em vigor a partir de 1997-09-13, com efeitos a partir de 1997-01-01.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+  },
+  "1176357475": {
+   "fragment_id": "1171896675",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2005-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 75/2005 - Diário da República n.º 65/2005, Série I-A de 2005-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2005-563009), em vigor a partir de 2005-04-09.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 237/97 - Diário da República n.º 207/1997, Série I-A de 1997-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1997-643129), em vigor a partir de 1997-09-13, com efeitos a partir de 1997-01-01.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O pessoal da Direcção-Geral dos Serviços Prisionais (DGSP) tem direito a um suplemento de risco pago 12 vezes por ano com a remuneração mensal, calculado nos termos dos números seguintes.\n\n2 - O pessoal dirigente tem o suplemento calculado em função do índice 100 da escala remuneratória do pessoal dirigente da função pública, nas seguintes percentagens:\n\na) Director-geral e subdirector-geral - 23,4%;\n\nb) Director de estabelecimento prisional - 17,6%;\n\nc) Director de serviços, chefe de divisão, adjuntos e substitutos de director de estabelecimento prisional - 15,2%.\n\n3 - O pessoal da categoria de inspector e das carreiras de técnico superior de vigilância e técnico auxiliar de vigilância tem o suplemento de 41% do índice 100 da escala remuneratória do regime geral.\n\n4 - O pessoal da DGSP, bem como o pessoal de outros ministérios que preste serviço efectivo nos estabelecimentos prisionais, tem direito a um suplemento calculado nas seguintes percentagens do índice 100 da escala remuneratória do regime geral:\n\na) Pessoal dos grupos de técnico superior, técnico, docente, assistente religioso, técnico profissional e operário - 41%;\n\nb) Chefe de repartição e pessoal dos grupos administrativo e auxiliar - 29,3%.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 75/2005 - Diário da República n.º 65/2005, Série I-A de 2005-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2005-563009), em vigor a partir de 2005-04-09.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 237/97 - Diário da República n.º 207/1997, Série I-A de 1997-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1997-643129), em vigor a partir de 1997-09-13, com efeitos a partir de 1997-01-01.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+  },
+  "1177966675": {
+   "fragment_id": "1171897375",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+   ],
+   "markdown": "###### Artigo 3.º\n\nAo pessoal a que se refere o presente diploma é contado, para efeitos de aposentação, um acréscimo de 20% no tempo de serviço efectivamente prestado no âmbito da Direcção-Geral dos Serviços Prisionais.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 300/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060), em vigor a partir de 1991-08-21."
+  }
+ }
+}

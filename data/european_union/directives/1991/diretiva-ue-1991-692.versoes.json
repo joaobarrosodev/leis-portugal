@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0692:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0692-20180704",
+ "dre_path": null,
+ "source_lastmod": "2018-07-04",
+ "versions": [
+  {
+   "date": "2003-11-20",
+   "future": false,
+   "celex": "01991L0692-20031120",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "208d8aac07b7388f",
+    "4844c42204fa0923",
+    "3dab39e20561a494",
+    "7134c2897c21995c",
+    "24509e994922f622",
+    "2afecd17b030a21d",
+    "8e319dc9936efb54",
+    "63c3bec9d16588fa",
+    "2f4f7a2d67125efb",
+    "8f49c670ddabad01",
+    "df2392de8996bd6e",
+    "586d5a2f329da88b",
+    "79a240d9dcb4b223",
+    "61b6fbdc56268cf5",
+    "5a072d7dda4d2105"
+   ]
+  },
+  {
+   "date": "2018-07-04",
+   "future": false,
+   "celex": "01991L0692-20180704",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime ANEXO I — Directivas alteradas nos termos do n.o 1 do artigo 2.o da presente directiva",
+    "Suprime ANEXO II — Directivas alteradas nos termos do n.o 2 do artigo 2.o da presente directiva",
+    "Suprime ANEXO III — Directivas alteradas nos termos do n.o 1 do artigo 4.o da presente directiva",
+    "Suprime ANEXO IV — Directivas alteradas nos termos do n.o 2 do artigo 4.o da presente directiva",
+    "Suprime ANEXO V — Directivas alteradas nos termos do n.o 3 do artigo 4.o da presente directiva",
+    "Suprime ANEXO VI — Directiva alterada nos termos do artigo 5.o da presente directiva"
+   ],
+   "fragments": [
+    "72cbf896d1f0adfd"
+   ]
+  }
+ ],
+ "fragments": {
+  "208d8aac07b7388f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1991L0692 — PT — 20.11.2003 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT) [DIRECTIVA DO CONSELHO de 23 de Dezembro de 1991 relativa à normalização e à racionalização dos relatórios sobre a aplicação de determinadas directivas respeitantes ao ambiente (91/692/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT) (JO L 377, 31.12.1991, p.48)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT) | [Regulamento (CE) n.o 1882/2003 do Parlamento Europeu e do Conselho de 29 de Setembro de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT) | L 284 | 1 | 31.10.2003 |\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692R(01):PT:NOT) [Rectificação, JO L 146, 13.6.2003, p. 52 (91/692)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692R(01):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 23 de Dezembro de 1991\n\nrelativa à normalização e à racionalização dos relatórios sobre a aplicação de determinadas directivas respeitantes ao ambiente\n\n(91/692/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 130.oS,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0003)),\n\nConsiderando que certas directivas comunitárias em matéria de ambiente prevêem a elaboração pelos Estados-membros de um relatório sobre a aplicação dessas directivas; que esses relatórios são objecto de um relatório de síntese elaborado pela Comissão; que outras directivas em matéria de ambiente não prevêem a elaboração de tais relatórios;\n\nConsiderando que as disposições existentes sobre a elaboração dos relatórios apresentam um carácter discordante tanto à respectiva periodicidade como ao seu conteúdo;\n\nConsiderando que importa introduzir essa obrigação simultaneamente em relação aos Estados-membros e à Comissão, para permitir uma avaliação do estado de aplicação dessas directivas em todo o território da Comunidade e proporcionar à opinião pública um instrumento de informação relativo a essa matéria;\n\nConsiderando que é, pois, necessário harmonizar as disposições existentes de modo a torna-las mais completas e mais coerentes numa base sectorial;\n\nConsiderando que parece adequado passar a periodicidade da elaboração desses relatórios e da respectiva transmissão à Comissão pelos Estados-membros a três anos e a um ano de intervalo por sector abrangido; que os relatórios serão redigidos com base num questionário elaborado pela Comissão, assistida por um comité, e enviado aos Estados-membros seis meses antes do início do período abrangido pelo relatório; que a Comissão publicará um relatório de síntese por sector dentro de um prazo de nove meses a contar da apresentação, pelos Estados-membros, dos respectivos relatórios;\n\nConsiderando que, no que diz respeito em especial à aplicação da Directiva 76/160/CEE do Conselho, de 8 de Dezembro de 1975, relativa à qualidade das águas balneares ([4](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0004)), com a última redacção que lhe foi dada pela Acto de Adesão de 1985, o respectivo relatório deveria aparecer anualmente e suficientemente cedo para informar o público sobre a qualidade das águas balneares do período mais recente;\n\nConsiderando que as medidas necessárias a tomar pelos Estados-membros não implicam a adopção de actos legislativos ou regulamentares quando a elaboração dos relatórios sobre a aplicação das directivas comunitárias não exigir de facto a adopção de tais disposições ao nível dos Estados-membros,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "4844c42204fa0923": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva tem por objectivo racionalizar e melhorar, numa base sectorial, as disposições relativas à transmissão de informações e à publicação de relatórios relativos a certas directivas comunitárias no domínio da protecção do ambiente, sem prejuízo do disposto no primeiro travessão do artigo 155.o do Tratado."
+  },
+  "3dab39e20561a494": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O texto das disposições a que se refere o anexo I passa a ter a seguinte redacção:\n\n«De três em três anos os Estados-membros transmitirão à Comissão informações sobre a aplicação da presente directiva, no âmbito de um relatório sectorial que abranja igualmente as outras directivas comunitárias pertinentes. Esse relatório deve ser elaborado com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6.o da Directiva 91/692/CEE ([5](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0005)). Esse questionário ou esquema deve ser enviado aos Estados-membros seis meses antes do início do período abrangido pelo relatório. Orelatório deve ser enviado à Comissão num prazo de nove meses a contar do final de período de três anos a que se refere.\n\nO primeiro relatório abrangerá o período de 1993 a 1995, inclusive.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva num prazo de noves meses a contar da recepção dos relatórios dos Estados-membros.»\n\n2. O texto constante do n.o1 deve ser inserido nas directivas a que se refere o anexo II, de acordo com as indicações dele constantes."
+  },
+  "7134c2897c21995c": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO artigo 13.o da Directiva 76/160/CEE passa a ter a seguinte redacção:\n\n«Artigo 13.o\n\nAnualmente, e pela primeira vez em 31 Dezembro de 1993, os Estados-membros transmitirão à Comissão um relatório sobre a aplicação da presente directiva durante esse ano. Esse relatório será elaborado com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6.o da Directiva 91/692/CEE ([6](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0006)). O questionário ou o esquema deve ser enviado aos Estados-membros seis meses antes do início do período abrangido pelo relatório. O relatório deve ser enviado à Comissão antes de terminar o ano em questão.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva num prazo de quatro meses a contar da recepção dos relatórios dosEstados-membros.»"
+  },
+  "24509e994922f622": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O texto das disposições a que se refere o anexo III passa a ter a seguinte redacção:\n\n«De três em três anos os Estados-membros transmitirão à Comissão informações sobre a aplicação da presente directiva, no âmbito de um relatório sectorial que abranja igualmente as outras directivas comunitárias pertinentes. Esse relatório será elaborado com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6.o da Directiva 91/692/CEE ([7](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0007)). Esse questionário ou esquema deve ser enviado aos Estados-membros seis meses antes do início do período abrangido pelo relatório. O relatório deve ser enviado à Comissão num prazo de nove meses a contar do final do período de três anos a que se refere.\n\nO primeiro relatório abrangerá o período de 1994 a 1996, inclusive.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva num prazo de nove meses a contar da recepção dos relatórios dos Estados-membros.»\n\n2. O texto constante do n.o 1 deve inserido nas directivas a que se refere o anexo IV, de acordo com as indicações dele constantes.\n\n3. O texto seguinte deve ser inserido nas directivas a que se refere o anexo V, de acordo com as indicações dele constantes:\n\n«A Comissão transmitirá anualmente aos Estados-membros as informações recebidas em aplicação do presente artigo.»"
+  },
+  "2afecd17b030a21d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO texto da disposições a que se refere o anexo VI passa a ter a seguinte redacção:\n\n«De três em três anos os Estados-membros transmitirão à Comissão informações sobre a aplicação da presente directiva, no âmbito de um relatório sectorial que abranja igualmente as outras directivas comunitárias pertinentes. Esse relatório deve ser elaborado com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6.o da Directiva 91/692/CEE ([8](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0008)). Esse questionário ou esquema deve ser enviado aos Estados-membros seis meses antes do início do período abrangido pelo relatório. O relatório deve ser enviado à Comissão num prazo de nove meses a contar do final do período de três anos a que se refere.\n\nO primeiro relatório abrangerá o período de 1995 a 1997, inclusive.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva num prazo de nove meses a contar da recepção dos relatórios dos Estados-membros.»\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT)"
+  },
+  "8e319dc9936efb54": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE ([9](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0009)), tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de um mês.\n\n3. O Comité aprovará o seu regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)"
+  },
+  "63c3bec9d16588fa": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros tomarão as medidas necessárias para darem cumprimento às disposições:\n\n— dos artigos 2.o e 3.o, o mais tardar a partir de 1 de Janeiro de 1993,\n\n— do artigo 4.o, o mais tardar a partir de 1 de Janeiro de 1994,\n\n— do artigo 5.o, o mais tardar a partir de 1 de Janeiro de 1995.\n\nDesse facto informarão imediamente a Comissão.\n\n2. As disposições existentes das diferentes directivas alteradas por novas disposições manter-se-ão em vigor até às datas mencionadas no primeiro parágrafo do número anterior.\n\n3. Sempre que os Estados-membros adoptarem as medidas a que se refere o n.o 1, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "2f4f7a2d67125efb": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "8f49c670ddabad01": {
+   "fragment_id": "ANEXO I — Directivas alteradas nos termos do n.o 1 do artigo 2.o da presente directiva",
+   "type": "divisao",
+   "heading": "ANEXO I — Directivas alteradas nos termos do n.o 1 do artigo 2.o da presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Directivas alteradas nos termos do n.o 1 do artigo 2.o da presente directiva\n\na) N.o 1 do artigo 13.o da Directiva 76/464/CEE do Conselho, de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias perigosas no meio aquático da Comunidade ([10](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0010)).\n\nb) Artigo 14.o da Directiva 78/176/CEE do Conselho, de 20 de Fevereiro de 1978, relativa aos detritos povenientes da indústria do dióxido de titânio ([11](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0011)), alterado pela Directiva 83/29/CEE ([12](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0012)).\n\nc) Artigo 16.o da Directiva 78/659/CEE do Conselho, de 18 Julho de 1978, relativa à qualidade das águas doces que necessitam de ser protegidas ou melhoradas a fim de estarem aptas para a vida dos peixes ([13](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0013)), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985.\n\nd) Artigo 8.o da Directiva 79/869/CEE do Conselho, de 9 de Outubro de 1979, relativa aos métodos de medida e à frequência das amostragens e da análise das águas superficiais destinadas à produção de água potável nos Estados-membros ([14](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0014)), com a última redacção que lhe foi dada pela Directiva 81/855/CEE ([15](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0015)).\n\ne) Artigo 14.o da Directiva 79/923/CEE do Conselho, de 30 de Outubro de 1979, relativa à qualidade exigida das águas conquícolas ([16](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0016)).\n\nf) N.o 1 do artigo 16.o da Directiva 80/68/CEE do Conselho, de 17 de Dezembro de 1979, relativa à protecção das águas subterrâneas contra a poluição causada por certas substâncias perigosas ([17](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0017)).\n\ng) N.o 1 e n.o 2, primeiro parágrafo, do artigo 5.o da Directiva 82/176/CEE do Conselho, de 22 de Março de 1982, relativa aos valores-limite e aos objectivos de qualidade para as descargas de mercúrio do sector da electrólise dos cloretos alcalinos ([18](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0018)).\n\nh) N.o 1 do artigo 5.o da Directiva 83/513/CEE do Conselho, de 26 de Septembro de 1983, relativa aos valores-limite e aos objectivos de qualidade para as descargas de cádmio ([19](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0019)).\n\ni) N.o 1 do artigo 6.o da Directiva 84/156/CEE do Conselho, de 8 de Março de 1984, relativa aos valores-limite e aos objectivos de qualidade para as descargas de mercúrio de sectores que não o da electrólise dos cloretos alcalinos ([20](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0020)).\n\nj) N.o 1 e n.o 2 do artigo 5.o da Directiva 84/491/CEE do Conselho, de 9 de Outubro de 1984, relativa aos valores-limite e aos objectivos de qualidade para as descargas de hexaclociclohexano ([21](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0021)).\n\nk) N.o 1 e n.o 2 do artigo 6.o da Directiva 86/280/CEE do Conselho, de 12 de Junho de 1986, relativa aos valores-limite e aos objectivos de qualidade para as descargas de certas substâncias periogosas incluídas na lista I do anexo da Directiva 76/464/CEE ([22](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0022)), com a última redacção que lhe foi dada pela Directiva 90/415/CEE ([23](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0023))."
+  },
+  "df2392de8996bd6e": {
+   "fragment_id": "ANEXO II — Directivas alteradas nos termos do n.o 2 do artigo 2.o da presente directiva",
+   "type": "divisao",
+   "heading": "ANEXO II — Directivas alteradas nos termos do n.o 2 do artigo 2.o da presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Directivas alteradas nos termos do n.o 2 do artigo 2.o da presente directiva\n\na) Directiva 75/440/CEE do Conselho, de 16 de Julho de 1975, relativa à qualidade das águas superficiais destinadas à produção de água potável nos Estados-membros ([24](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0024)), com a última redacção que lhe foi dada pela Directiva 79/869/CEE ([25](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0025)).\n\nO texto constante do n.o 1 do artigo 2.o da presente directiva é inserido como artigo 9.oA.\n\nb) Directiva 80/778/CEE do Conselho, de 15 de Julho de 1980, relativa à qualidade das águas destinadas ao consumo humano ([26](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0026)), com a última redacção que lhe foi dada pela Directiva 81/858/CEE ([27](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0027)).\n\nO texto constante do n.o 1 do artigo 2.o da presente directiva é inserido como artigo 17.oA."
+  },
+  "586d5a2f329da88b": {
+   "fragment_id": "ANEXO III — Directivas alteradas nos termos do n.o 1 do artigo 4.o da presente directiva",
+   "type": "divisao",
+   "heading": "ANEXO III — Directivas alteradas nos termos do n.o 1 do artigo 4.o da presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Directivas alteradas nos termos do n.o 1 do artigo 4.o da presente directiva\n\na) Artigo 8.o da Directiva 80/779/CEE do Conselho, de 15 de Julho de 1980, relativa a valores-limite e a valores-guia de qualidade do ar para o dióxido de enxofre e as partículas em suspensão ([28](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0028)), com a última redacção que lhe foi dada pela Directiva 89/427/CEE ([29](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0029)).\n\nb) Artigo 18.o da Directiva 82/501/CEE do Conselho, de 24 de Junho de 1982, relativa aos riscos de acidentes graves de certas actividades industriais ([30](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0030)), com a última redacção que lhe foi dada pela Directiva 88/160/CEE ([31](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0031)).\n\nc) Artigo 6.o da Directiva 82/884/CEE do Conselho, de 3 de Dezembro de 1982, relativa a um valor-limite para o chumbo contido na atmosfera ([32](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0032)).\n\nd) Artigo 8.o da Directiva 85/203/CEE do Conselho, de 7 de Março de 1985, relativa às normas de qualidade do ar para o dióxido de azoto ([33](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0033)), com a última redacção que lhe foi dada pela Directiva 85/850/CEE ([34](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0034)).\n\ne) N.o 1 do artigo 3.o da Directiva 87/217/CEE do Conselho, de 19 de Março de 1987, relativa à prevenção e à redução da poluição do ambiente provocada pelo amianto ([35](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0035))."
+  },
+  "79a240d9dcb4b223": {
+   "fragment_id": "ANEXO IV — Directivas alteradas nos termos do n.o 2 do artigo 4.o da presente directiva",
+   "type": "divisao",
+   "heading": "ANEXO IV — Directivas alteradas nos termos do n.o 2 do artigo 4.o da presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Directivas alteradas nos termos do n.o 2 do artigo 4.o da presente directiva\n\na) Directiva 75/116/CEE do Conselho, de 24 Novembro de 1975, relativa à aproximação das legislações dos Estados-membros respeitantes ao teor de enxofre de certos combustíveis líquidos ([36](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0036)), com a última redacção que lhe foi dada pela Directiva 87/219/CEE ([37](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0037)).\n\nO texto constante de n.o 2 do artigo 4.o da presente directiva é inserido como artigo 7.oA.\n\nb) Directiva 84/360/CEE do Conselho, de 28 de Junho de 1984, relativa à luta contra a poluição atmosférica provocada por instalações industriais ([38](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0038)).\n\nO texto contido no n.o 2 do artigo 4.o da presente directiva é inserido como artigo 15.oA."
+  },
+  "61b6fbdc56268cf5": {
+   "fragment_id": "ANEXO V — Directivas alteradas nos termos do n.o 3 do artigo 4.o da presente directiva",
+   "type": "divisao",
+   "heading": "ANEXO V — Directivas alteradas nos termos do n.o 3 do artigo 4.o da presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Directivas alteradas nos termos do n.o 3 do artigo 4.o da presente directiva\n\na) Directiva 80/779/CEE do Conselho, de 15 de Julho de 1980, relativa a valores-limite e a valores-guia de qualidade do ar para o dióxido de enxofre e as partículas em suspensão, alterada pela Directiva 89/427/CEE.\n\nO texto constante do n.o 3 do artigo 4.o da presente directiva é inserido como n.o 4 do artigo 7.o\n\nb) Directiva 82/884/CEE do Conselho, de 3 de Dezembro de 1982, relativa a um valor-limite para o chumbo contido na atmosfera.\n\nO texto constante do n.o 3 do artigo 4.o da presente directiva é inserido como n.o 4 do artigo 5.o\n\nc) Directiva 85/203/CEE do Conselho, de 7 de Março de 1985, relativa às normas de qualidade do ar para o dióxido de azoto, com a última redacção que lhe foi dada pela Directiva 85/580/CEE.\n\nO texto constante do n.o 3 do artigo 4.o da presente directiva é inserido como n.o 4 do artigo 7.o"
+  },
+  "5a072d7dda4d2105": {
+   "fragment_id": "ANEXO VI — Directiva alterada nos termos do artigo 5.o da presente directiva",
+   "type": "divisao",
+   "heading": "ANEXO VI — Directiva alterada nos termos do artigo 5.o da presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Directiva alterada nos termos do artigo 5.o da presente directiva\n\na) Artigo 18.o da Directiva 75/439/CEE do Conselho, de 16 de Junho de 1975, relativa à eliminação dos óleos usados ([39](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0039)), alterada pela Directiva 87/101/CEE ([40](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0040)).\n\nb) [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692R(01):PT:NOT) Artigo 16.o da Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos ([41](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0041)), alterada pela Directiva 91/156/CEE ([42](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0042)). ◄\n\nc) Artigo 10.o da Directiva 76/403/CEE do Conselho, de 6 Abril de 1976, relativa à eliminação dos políclorobifenilos e policlorotrifenilos ([43](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0043)).\n\nd) Artigo 16.o da Directiva 78/319/CEE do Conselho, de 20 de Março de 1978, relativa aos resíduos tóxicos e perigosos ([44](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0044)), com a última redacção que lhe foi dada pelo Acto de Adesão de 1985.\n\ne) N.o 1 do artigo 13.o da Directiva 84/631/CEE do Conselho, de 6 de Dezembro de 1984, relativa à vigilância e ao controlo na Comunidade das transferências transfronteira de resíduos perigosos ([45](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0045)), com a última redacção que lhe foi dada pela Directiva 87/112/CEE da Comissão ([46](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0046)).\n\nf) Artigo 6.o da Directiva 85/339/CEE do Conselho, de 27 de Junho de 1985, relativa às embalagens para líquidos alimentares ([47](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0047)).\n\ng) Artigo 17.o da Directiva 86/278/CEE do Conselho, de 12 de Junho de 1986, relativa à protecção do ambiente, e em especial dos solos, na utilização agrícola de lamas de depuração ([48](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#E0048)).\n\n([1](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0001)) JO n.o C 214 de 29. 9. 1990, p. 6.\n\n([2](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0002)) JO n.o C 19 de 28. 1. 1991, p. 587.\n\n([3](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0003)) JO n.o C 60 de 8. 3. 1991, p. 15.\n\n([4](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0004)) JO n.o L 31 de 5. 2. 1976, p. 1.\n\n([5](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0005)) JO n.o L 377 de 31. 12. 1991, p. 48.\n\n([6](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0006)) JO n.o L 377 de 31. 12. 1991, p. 48.\n\n([7](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0007)) JO n.o L 377 de 31. 12. 1991, p. 48.\n\n([8](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0008)) JO n.o L 377 de 31. 12. 1991, p. 48.\n\n([9](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0009)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n([10](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0010)) JO n.o L 129 de 18. 5. 1976, p. 23.\n\n([11](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0011)) JO n.o L 54 de 25. 2. 1978, p. 19.\n\n([12](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0012)) JO n.o L 32 de 3. 2. 1983, p. 28.\n\n([13](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0013)) JO n.o L 222 de 14. 8. 1978, p. 1.\n\n([14](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0014)) JO n.o L 271 de 29. 10. 1979, p. 44.\n\n([15](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0015)) JO n.o L 319 de 7. 11. 1981, p. 16.\n\n([16](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0016)) JO n.o L 281 de 10. 11. 1979, p. 47.\n\n([17](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0017)) JO n.o L 20 de 26. 1. 1980, p. 43.\n\n([18](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0018)) JO n.o L 81 de 27. 3. 1982, p. 29.\n\n([19](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0019)) JO n.o L 291 de 24. 10. 1983, p. 1.\n\n([20](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0020)) JO n.o L 74 de 17. 3. 1984, p. 49.\n\n([21](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0021)) JO n.o L 274 de 17. 10. 1984, p. 11.\n\n([22](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0022)) JO n.o L 181 de 4. 7. 1986, p. 16.\n\n([23](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0023)) JO n.o L 219 de 14. 8. 1990, p. 49.\n\n([24](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0024)) JO n.o L 194 de 25. 7. 1975, p. 26.\n\n([25](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0025)) JO n.o L 271 de 29. 10. 1979, p. 44.\n\n([26](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0026)) JO n.o L 229 de 30. 8. 1980, p. 11.\n\n([27](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0027)) JO n.o L 319 de 7. 11. 1981, p. 19.\n\n([28](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0028)) JO n.o L 229 de 30. 8. 1980, p. 30.\n\n([29](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0029)) JO n.o L 201 de 14. 7. 1989, p. 53.\n\n([30](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0030)) JO n.o L 230 de 5. 8. 1982, p. 1.\n\n([31](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0031)) JO n.o L 336 de 7. 12. 1988, p. 14.\n\n([32](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0032)) JO n.o L 378 de 31. 12. 1982, p. 15.\n\n([33](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0033)) JO n.o L 87 de 27. 3. 1985, p. 1.\n\n([34](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0034)) JO n.o L 372 de 31. 12. 1985, p. 36.\n\n([35](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0035)) JO n.o L 85 de 28. 3. 1987, p. 40.\n\n([36](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0036)) JO n.o L 307 de 27. 11. 1975, p. 22.\n\n([37](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0037)) JO n.o L 91 de 3. 4. 1987, p. 19.\n\n([38](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0038)) JO n.o L 188 de 16. 7. 1984, p. 20.\n\n([39](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0039)) JO n.o L 194 de 25. 7. 1975, p. 23.\n\n([40](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0040)) JO n.o L 42 de 12. 2. 1987, p. 43.\n\n([41](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0041)) JO n.o L 194 de 25. 7. 1975, p. 39.\n\n([42](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0042)) JO n.o L 78 de 26. 3. 1991, p. 32.\n\n([43](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0043)) JO n.o L 108 de 26. 4. 1976, p. 41.\n\n([44](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0044)) JO n.o L 84 de 31. 3. 1978, p. 43.\n\n([45](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0045)) JO n.o L 236 de 13. 12. 1984, p. 31.\n\n([46](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0046)) JO n.o L 48 de 17. 2. 1987, p. 31.\n\n([47](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0047)) JO n.o L 176 de 6. 7. 1985, p. 18.\n\n([48](http://publications.europa.eu/resource/cellar/2a721625-12fa-40d0-932b-4c2e4170dd02.0018.02/DOC_1#src.E0048)) JO n.o L 181 de 4. 7. 1986, p. 6."
+  },
+  "72cbf896d1f0adfd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01991L0692 — PT — 04.07.2018 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31991L0692) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0692) [de 23 de Dezembro de 1991](http://publications.europa.eu/resource/celex/31991L0692) [relativa à normalização e à racionalização dos relatórios sobre a aplicação de determinadas directivas respeitantes ao ambiente](http://publications.europa.eu/resource/celex/31991L0692) [(91/692/CEE)](http://publications.europa.eu/resource/celex/31991L0692) (JO L 377, 31.12.1991, p.48)\n\n**Revogada por:**\n\n- [Decisão (UE) 2018/853 do Parlamento Europeu e do Conselho de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018D0853) — L 150 — 155 — 14.6.2018"
+  }
+ }
+}

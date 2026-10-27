@@ -1,0 +1,408 @@
+---
+schema_version: '1.0'
+id: pt:dre:532450:por
+title: Decreto Legislativo Regional n.º 27/99/M
+short_title: null
+summary: Regula a detenção, a importação e a introdução no território da Região Autónoma da Madeira de espécies não indígenas
+  da fauna
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 27/99/M
+official_date: null
+publication_date: '1999-08-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 201/1999, Série I-A de 1999-08-28
+  number: '201'
+  series: I
+  supplement: null
+  pages: 5955 - 5959
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/201a00/59555959.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/27/1999/08/28/m/dre/pt/html
+  oj: null
+  dre: '532450'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/27-1999-532450
+  internal: pt:dre:532450:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-1999-532450
+  metadata_url: https://data.dre.pt/eli/declegreg/27/1999/08/28/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-1999-532450
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:39:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 30ff8c1306f38a2371793ce2b0cf59ba931c0642dd3f4d6a12eab00c6819d62e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Contra-ordenação
+- Controlo Sanitário
+- Definição de Competências
+- Diversidade Biológica
+- Fiscalização
+- Importação
+- Licenciamento
+- Madeira.região Autónoma
+- Medidas Preventivas
+- Multa
+- Parque Natural da Madeira
+- Proteção do Ambiente
+- Reserva Natural
+- Vida Selvagem
+- Zona de Proteção
+relationships:
+- type: amended_by
+  target: pt:dre:211580660:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: repealed_by
+  target: pt:dre:211580660:por
+  label: Revogado, a partir de 11.05.2023, o presente diploma, pelo(a) Decreto Legislativo Regional n.º 17/2023/M - Diário
+    da República n.º 71/2023, Série I de 2023-04-11, nos termos do art. 38.º deste.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2023-211580660
+  date: '2023-04-11'
+article_structure:
+  article_count: 22
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:39:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 27/99/M
+
+Regula a detenção, a importação e a introdução no território da Região Autónoma da Madeira de espécies não indígenas da fauna
+
+A extraordinária mobilidade das pessoas e o aumento exponencial das trocas comerciais entre as diferentes partes do Globo fizeram com que o número de espécies da flora e da fauna em trânsito por todo o Mundo também tivesse crescido. Este facto tem facilitado a introdução deliberada ou acidental de espécies de animais exóticos em ecossistemas naturais, por vezes com efeitos bastante nefastos e irreversíveis do ponto de vista ambiental.
+
+A introdução de espécies alóctones em espaços insulares envolve riscos ecológicos acrescidos, nomeadamente através da possibilidade de desencadear processos de competição com as espécies autóctones ou constituindo uma porta de entrada para agentes transmissores de novas doenças e parasitas, pondo em causa todo o equilíbrio da biodiversidade existente e a própria segurança do Homem.
+
+Conscientes desta realidade, dos impactes ambientais que podem afectar os ecossistemas regionais com prejuízos irreversíveis para a fauna e flora e atendendo à situação de isolamento geográfico da Região Autónoma da Madeira, é urgente regular a detenção, a importação e a introdução de espécies exóticas da fauna no seu território.
+
+Esta iniciativa insere-se no âmbito das obrigações internacionalmente assumidas por Portugal ao aprovar, para ratificação, a Convenção sobre a Conservação das Espécies Migradoras Pertencentes à Fauna Selvagem, a Convenção Relativa à Protecção da Vida Selvagem e do Ambiente Natural na Europa e a Convenção sobre a Diversidade Biológica, que preconizam a adopção de medidas que condicionem as introduções intencionais e evitem as introduções acidentais, bem como o controlo ou erradicação das espécies já introduzidas.
+
+Assim:
+
+A Assembleia Legislativa Regional da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
+
+### CAPÍTULO I — Disposições introdutórias
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma regula a detenção, a importação e a introdução no território da Região Autónoma da Madeira de espécies não indígenas da fauna.
+
+2 - A importação, introdução, comercialização, utilização e detenção de exemplares de espécies destinadas ao fomento pecuário, cinegético e espécies destinadas ao fomento dos recursos piscícolas é regulada por legislação própria.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma, entende-se por:
+
+a) PNM - Parque Natural da Madeira;
+
+b) DRP - Direcção Regional de Pecuária;
+
+c) Espécie - conjunto de indivíduos com a mesma morfologia hereditária e um ciclo de vida comum, incluindo quaisquer subespécies ou as suas populações geograficamente isoladas;
+
+d) Espécime - qualquer indivíduo vivo de uma espécie da fauna, incluindo os ovos;
+
+e) Espécie nefasta - é uma espécie susceptível de causar risco ecológico;
+
+f) Não indígena - qualquer espécie da fauna não originária de um determinado território e nunca aí observada como ocorrendo naturalmente e com populações auto-sustentadas durante os tempos históricos;
+
+g) Fauna - conjunto de espécies animais características de uma região;
+
+h) Território - unidade geográfica equivalente ao conjunto das ilhas que constituem o Arquipélago da Madeira (Madeira, Porto Santo, ilhas Desertas e ilhas Selvagens);
+
+i) Habitat - conjunto dos elementos físicos e biológicos que uma determinada espécie utiliza para completar o seu ciclo de vida;
+
+j) Detenção - faculdade de manter em seu poder um ou mais espécimes;
+
+l) Importação - entrada no território da Região Autónoma da Madeira de espécimes de espécies não indígenas;
+
+m) Introdução - estabelecimento de populações selvagens através de um acto de disseminação ou de libertação, intencional ou acidental, num local não confinado, de um ou mais espécimes de espécies não indígenas;
+
+n) Local confinado - espaço demarcado e cercado por barreiras físicas, químicas ou biológicas, destinado ao cultivo ou criação de uma ou mais espécies ou onde as mesmas são mantidas apenas por acção do Homem, incluindo os campos agrícolas e excluindo as explorações de aquacultura;
+
+o) Risco ecológico - impacte negativo potencial, susceptível de causar uma modificação significativa nos ecossistemas de um dado território;
+
+p) Anexo I - lista das espécies não abrangidas pelo presente diploma.
+
+### CAPÍTULO II — Da importação e introdução
+
+###### Artigo 3.º — Interdição
+
+Sem prejuízo do disposto no artigo seguinte, é proibida a detenção, a importação e a introdução na Natureza de espécimes de espécies não indígenas no território da Região Autónoma da Madeira.
+
+###### Artigo 4.º — Excepções
+
+1 - O disposto neste diploma não se aplica às espécies descritas no anexo I.
+
+2 - Mediante despacho do Secretário Regional de Agricultura, Florestas e Pescas, após parecer do Parque Natural da Madeira (PNM), poderá ser excepcionalmente autorizada a importação e ou a introdução de espécimes de espécies de animais não indígenas, caso se verifiquem cumulativamente os seguintes requisitos:
+
+a) Existam vantagens inequívocas para o Homem ou para as biocenoses naturais;
+
+b) Não haja nenhuma espécie indígena apta para o fim pretendido;
+
+c) Seja precedida da elaboração de um estudo de impacte ambiental aprofundado e minuciosamente planificado, cujas conclusões são determinantes para a autorização.
+
+3 - A execução do estudo de impacte ambiental será obrigatório para a introdução de espécimes de espécies não indígenas e facultativo, dependente de decisão do PNM, para a importação dos mesmos.
+
+4 - O estudo de impacte referido na alínea c) do n.º 2 deve conter elementos sobre:
+
+a) A taxonomia, etologia e ecologia, nomeadamente habitat, dieta e relações interespecíficas da espécie em causa;
+
+b) A biologia da reprodução, as patologias, a capacidade de dispersão e os riscos da hibridação com espécies indígenas;
+
+c) O habitat de suporte, compreendendo a avaliação das consequências da introdução sobre o habitat e os circundantes e das medidas apropriadas para reduzir ou minimizar os seus efeitos negativos;
+
+d) Os riscos da introdução em causa, bem como as medidas que podem ser tomadas para eliminar ou controlar a população introduzida, caso surjam efeitos imprevistos e danosos dessa introdução;
+
+e) As introduções da espécie em causa noutros locais, quando existam, e as suas consequências;
+
+f) A identificação da entidade técnico-científica responsável pelo processo de introdução em causa e a descrição dos métodos a utilizar.
+
+###### Artigo 5.º — Ensaio controlado
+
+1 - Havendo condições, nos termos do artigo anterior, para autorizar a introdução, o despacho que a autoriza pode fazê-la depender da realização de ensaio controlado, com espécimes da espécie em causa, em local confinado com características ecológicas idênticas à do território onde se pretende efectuar a introdução.
+
+2 - O ensaio controlado é realizado sob a orientação e coordenação do PNM, dependendo a autorização da apreciação positiva que este faça do seu resultado.
+
+###### Artigo 6.º — Quarentena
+
+Os espécimes da fauna a importar e ou a introduzir poderão ser sujeitos a um período de quarentena, em condições a definir caso a caso pelo parecer do PNM referido no n.º 2 do artigo 4.º ou por imposição sanitária.
+
+### CAPÍTULO III — Licenciamento
+
+###### Artigo 7.º — Licenças
+
+1 - Sem prejuízo do disposto no n.º 2 do artigo 4.º, a detenção e a importação de espécimes de espécies não indígenas na Região Autónoma da Madeira depende sempre da obtenção da correspondente licença.
+
+2 - As licenças, mediante solicitação dos interessados, são concedidas pelo PNM, de acordo com os modelos a aprovar por portaria do Secretário Regional de Agricultura, Florestas e Pescas, e pressupõem:
+
+a) O preenchimento de um requerimento a fornecer pelo PNM;
+
+b) A apresentação de condições mínimas de segurança e sanidade que deverão ser mantidas enquanto o espécime estiver na posse do requerente;
+
+c) A prova da inscrição da actividade económica na DRP, no caso de se tratar de comerciante ou de estabelecimento comercial.
+
+3 - Os comerciantes e os estabelecimentos que importem ou detenham espécies não indígenas poderão requerer uma licença anual por espécie, ficando, no entanto, obrigados a comunicar por escrito ao PNM qualquer venda ou alienação dos seus espécimes no prazo de 90 dias.
+
+4 - O licenciamento da detenção e ou importação por particulares sem intenção de venda será concedido por espécime, sendo o prazo de validade da licença o da duração da vida do espécime, sem prejuízo do disposto no artigo 10.º
+
+###### Artigo 8.º — Obrigações dos titulares de licenças
+
+1 - Os titulares de licenças ficam obrigados a:
+
+a) Participar ao PNM a morte, fuga ou alienação dos espécimes de espécies não indígenas, bem como as entradas e saídas da Região Autónoma da Madeira dos mesmos;
+
+b) Manter as condições de segurança e sanidade referidas no n.º 2 do artigo 7.º do presente diploma, durante toda a vida dos espécimes;
+
+c) Comunicar à DRP, com pelo menos quarenta e oito horas de antecedência, a chegada à Região Autónoma da Madeira de espécimes de espécies não indígenas;
+
+d) Assegurar condições de segurança em qualquer transporte ou deslocação dos espécimes.
+
+2 - Os comerciantes e os estabelecimentos comerciais são ainda obrigados a:
+
+a) Informar todo o comprador de espécimes não indígenas sobre a obrigatoriedade de este adquirir as respectivas licenças de detenção;
+
+b) Afixar em local visível do estabelecimento um extracto resumo do presente diploma;
+
+c) Fornecer aos compradores a documentação dos espécimes vendidos, nomeadamente cópia das licenças de importação e factura de venda discriminando o nome da espécie e o sexo;
+
+d) Manter um registo actualizado dos espécimes vendidos e dos seus proprietários, durante três anos após o acto de venda.
+
+###### Artigo 9.º — Condições de sanidade
+
+1 - Os espécimes importados deverão ser acompanhados pelos respectivos certificados sanitários comprovativos da isenção de doenças infecto-contagiosas próprias da espécie.
+
+2 - O não cumprimento da formalidade prevista no número anterior implica a apreensão temporária do espécime.
+
+###### Artigo 10.º — Cessação das licenças
+
+1 - O não cumprimento do disposto no artigo 8.º implica a caducidade das licenças concedidas ao abrigo do presente diploma.
+
+2 - Os espécimes cujas licenças caduquem serão apreendidos pelos serviços com funções de fiscalização no âmbito deste diploma.
+
+3 - Serão igualmente apreendidos os espécimes cujos detentores não tenham requerido as respectivas licenças, de acordo com o artigo 12.º
+
+###### Artigo 11.º — Espécimes apreendidos
+
+1 - Em caso de doença ou de perigo directo ou indirecto para o Homem, os espécimes apreendidos poderão ser abatidos.
+
+2 - Verificados os condicionalismos dos n.os 2 e 3 do artigo 10.º, o PNM apreciará o melhor destino a dar aos espécimes apreendidos.
+
+###### Artigo 12.º — Espécimes já existentes
+
+1 - Os particulares e estabelecimentos comerciais que detenham espécimes de espécies não indígenas devem, no prazo de seis meses a contar da data da publicação deste diploma, declarar a sua existência ao PNM e requerer as respectivas licenças de detenção.
+
+2 - As instalações onde se encontram os espécimes devem ser vistoriadas pelo PNM e pela DRP, no prazo de 60 dias a contar do recebimento do requerimento referido no número anterior, com o objectivo de verificar as condições sanitárias e de segurança.
+
+3 - A entidade que efectua a vistoria elabora um relatório e, se for caso disso, propõe as alterações a introduzir nas instalações e o prazo em que devem ser executadas, sob pena de não ser licenciada a detenção de todas ou de algumas das espécies não indígenas detidas ou cuja detenção é pretendida.
+
+### CAPÍTULO IV — Funções administrativas e científicas
+
+###### Artigo 13.º — Competências
+
+As funções administrativas necessárias à aplicação do presente diploma são asseguradas pelo PNM.
+
+###### Artigo 14.º — Comissão científica
+
+1 - As funções técnico-científicas decorrentes do presente diploma são desempenhadas por uma comissão científica.
+
+2 - A comissão científica é composta por elementos do PNM, da Direcção Regional de Florestas e da Direcção Regional de Pecuária, nomeados por despacho do Secretário Regional de Agricultura, Florestas e Pescas.
+
+3 - À comissão científica compete, nomeadamente:
+
+a) Apreciar os pedidos de importação e introdução, nomeadamente os estudos de impacte ambiental e fundamentar o parecer do PNM para a decisão a que se refere o artigo 4.º;
+
+b) Propor a revisão do anexo I;
+
+c) Apreciar os planos de controlo e erradicação de espécies nefastas.
+
+###### Artigo 15.º — Controlo e erradicação
+
+Compete ao PNM propor ao Secretário Regional de Agricultura, Florestas e Pescas planos de controlo e erradicação de espécies não indígenas que se mostrem nefastas para as biocenoses indígenas.
+
+### CAPÍTULO V — Contra-ordenações
+
+###### Artigo 16.º — Contra-ordenações
+
+1 - As infracções ao disposto no presente diploma constituem contra-ordenações puníveis, nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com uma coima:
+
+a) De 350000$00 a 750000$00, em caso de prática de actos ou actividades proibidos efectuados deliberadamente, quando tenham por objecto espécies que comportam risco ecológico, por violação do disposto no artigo 3.º;
+
+b) De 250000$00 a 650000$00, em caso de disseminação ou libertação na Natureza de espécimes de espécies não indígenas, sem vontade deliberada de provocar uma introdução, por violação do disposto no artigo 3.º;
+
+c) De 150000$00 a 550000$00, em caso de inexistência das licenças de detenção ou importação, por violação do disposto no artigo 7.º;
+
+d) De 150000$00 a 500000$00, em caso de não cumprimento das obrigações inerentes ao licenciamento, por violação do disposto no artigo 8.º;
+
+e) De 100000$00 a 400000$00, em caso de não cumprimento das condições da quarentena imposta, por violação do disposto no artigo 6.º;
+
+f) De 30000$00 a 100000$00, em caso de atraso no requerimento do licenciamento de espécimes de espécies não indígenas já existentes, por violação do disposto no artigo 12.º;
+
+g) De 10000$00 a 100000$00, em caso de inexistência dos certificados sanitários, por violação do disposto no artigo 9.º
+
+2 - Se o infractor for uma pessoa colectiva, os montantes mínimos e máximos previstos no número anterior podem ser multiplicados até 12 vezes.
+
+3 - A tentativa e a negligência são sempre puníveis.
+
+###### Artigo 17.º — Sanções acessórias
+
+Cumulativamente com as coimas previstas no artigo anterior, e nos termos da lei, podem ser aplicadas as seguintes sanções acessórias:
+
+a) Apreensão dos espécimes que estejam na origem da infracção, bem como do equipamento utilizado, que revertem a favor do PNM;
+
+b) Suspensão de autorizações e licenças;
+
+c) Interdição do exercício da profissão ou da actividade comercial;
+
+d) Privação do direito a subsídios ou benefícios outorgados por entidades ou serviços públicos;
+
+e) Privação do direito de participação ou arrematação em concursos promovidos por entidades ou serviços públicos, de obras públicas, de fornecimento de bens e serviços, ou concessão de serviços, licenças ou alvarás;
+
+f) Encerramento do estabelecimento.
+
+###### Artigo 18.º — Afectação das coimas
+
+A receita das coimas previstas no artigo 16.º reverte:
+
+a) 50% para a entidade fiscalizadora;
+
+b) 50% para o PNM.
+
+###### Artigo 19.º — Fiscalização, instrução e decisão
+
+1 - As funções de fiscalização, para efeitos deste diploma, competem ao PNM, à DRP, aos serviços alfandegários, à Polícia Florestal, à Guarda Nacional Republicana e demais autoridades policiais.
+
+2 - Compete ao PNM o processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias previstas nos artigos 16.º e 17.º deste diploma.
+
+###### Artigo 20.º — Reposição da situação anterior
+
+1 - Independentemente da aplicação da coima e das sanções acessórias, o PNM pode intimar o infractor a que proceda à reposição da situação anterior à infracção, fixando-lhe as acções necessárias para a erradicação da espécie introduzida e o respectivo prazo de execução.
+
+2 - Após a notificação ao infractor para que proceda à erradicação da espécie introduzida, se a obrigação não for cumprida no prazo fixado, o PNM procede ou manda proceder às acções necessárias para essa erradicação, por conta do infractor.
+
+3 - As despesas realizadas por força do número anterior, quando não forem pagas voluntariamente pelo infractor no prazo de 20 dias a contar da sua notificação, são cobradas nos termos do processo de execução fiscal, constituindo a nota de despesas título executivo bastante, devendo dela constar o nome e o domicílio do devedor, a proveniência da dívida e a indicação, por extenso, do seu montante, bem como a data a partir da qual são devidos juros de mora.
+
+### CAPÍTULO VI — Disposições finais
+
+###### Artigo 21.º
+
+## Anexo I
+
+O anexo I deste diploma poderá ser revisto por portaria do Secretário Regional de Agricultura, Florestas e Pescas, após parecer da comissão científica prevista no artigo 14.º
+
+###### Artigo 22.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 28 de Julho de 1999.
+
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 13 de Agosto de 1999.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+## ANEXO I — Lista das espécies não abrangidas pelo presente diploma
+
+a) Canídeos domésticos;
+
+b) Felídeos domésticos;
+
+c) Roedores: porcos-da-índia, hamsters e ratos brancos;
+
+d) Cágados;
+
+e) Peixes de aquário de água doce;
+
+f) Todas as aves pertencentes às ordens passariformes e psitaciformes, quando produzidas em cativeiro e não abrangidas pelas convenções internacionais sobre a protecção de animais selvagens e seus habitats.

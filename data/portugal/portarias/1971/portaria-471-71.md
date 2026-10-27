@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:630243:por
+title: Portaria n.º 471/71
+short_title: null
+summary: Autoriza o Gabinete do Plano do Zambeze a contratar com um construtor civil a empreitada de execução de um edifício
+  para uma oficina de reparação de automóveis no centro urbano de Cabora Bassa
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Plano do Zambeze
+proposing_entity: null
+official_number: 471/71
+official_date: null
+publication_date: '1971-08-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 205/1971, Série I de 1971-08-31
+  number: '205'
+  series: I
+  supplement: null
+  pages: 1253 - 1253
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/08/20500/12531253.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '630243'
+  dre_path: /dr/detalhe/portaria/471-1971-630243
+  internal: pt:dre:630243:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/471-1971-630243
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/471-1971-630243
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:33:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 22090c206fadf2ffbd38b3094e7729fe110cc6651471502aa979e73c0b073dc8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:339383:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:33:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 471/71
+
+de 31 de Agosto
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 74.º do [Decreto n.º 41968](https://diariodarepublica.pt/dr/detalhe/decreto/41968-1958-339383), de 2 de Novembro de 1968, autorizar o Gabinete do Plano do Zambeze a adoptar o seguinte procedimento:
+
+1 - Contratar com o construtor civil António Joaquim Lopes, Vila Pery, Moçambique, a empreitada de execução de um edifício para uma oficina de reparação de automóveis, no centro urbano de Cabora Bassa, por quantia não superior a 1520000$00, com o seguinte escalonamento:
+
+1971 ... 1100000$00
+
+1972 ... 420000$00
+
+... 1520000$00
+
+2 - Fazer face ao encargo previsto no número anterior para o ano em curso por conta das dotações dos artigos 5.º e 21.º da tabela de despesa do seu orçamento em vigor.
+
+3 - Suportar as despesas previstas para o ano de 1972 por conta de verbas próprias a inscrever no orçamento do Gabinete e correspondentes àquele ano.
+
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.

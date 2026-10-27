@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:656411:por
+title: Portaria n.º 204/93
+short_title: null
+summary: Fixa as normas relativas à imposição suplementar prevista no regime das quotas leiteiras
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 204/93
+official_date: null
+publication_date: '1993-02-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/1993, Série I-B de 1993-02-18
+  number: '41'
+  series: I
+  supplement: null
+  pages: 686 - 686
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/02/041b00/06860686.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/204/1993/02/18/p/dre/pt/html
+  oj: null
+  dre: '656411'
+  dre_path: /dr/detalhe/portaria/204-1993-656411
+  internal: pt:dre:656411:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/204-1993-656411
+  metadata_url: https://data.dre.pt/eli/port/204/1993/02/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/204-1993-656411
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:50:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4b2e94cc7e84bfa164e6495495526409a7bdf43bf53f211c7fad7a023cf9a465
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:50:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Leite
+- Produção Leiteira
+relationships:
+- type: amended_by
+  target: pt:dre:522233:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31988R1546
+  label: null
+  source: http://data.europa.eu/eli/reg/1988/1546/oj
+- type: repealed_by
+  target: pt:dre:522233:por
+  label: "Revogada pela PORT.97/94.09.02.1994.MA, DR.IS-B [33] de 09.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-1994-522233
+  date: '1994-02-09'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:50:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 204/93
+
+de 18 de Fevereiro
+
+Considerando que o Decreto-Lei n.º 108/91, de 15 de Março, veio definir as medidas de execução do regime comunitário de quotas leiteiras;
+
+Considerando que se torna necessário explicitar o processo de instituição de uma imposição suplementar sobre as quantidades de leite e produtos lácteos que excedam as quantidades de referência;
+
+Considerando que se deve definir como será feita a redistribuição pelos produtores das quantidades de referência não utilizadas:
+
+Manda o Governo, pelo Ministro da Agricultura, ao abrigo da alínea b) do n.º 1 do artigo 6.º do Decreto-Lei n.º 108/91, de 15 de Março, o seguinte:
+
+1.º A imposição suplementar a que se refere o artigo 5.º do Decreto-Lei n.º 108/91, de 15 de Março, é aplicada a todas as quantidades de leite ou equivalente a leite, comercializadas durante o período da campanha a que se refere e que ultrapassem as respectivas quantidades de referência.
+
+2.º A imposição suplementar é repartida pelos produtores que contribuíram para a situação referida no número anterior.
+
+3.º A aplicação da imposição suplementar referida no n.º 1.º será feita tendo em conta o disposto no artigo 12.º do Regulamento (CEE) n.º [1546/88](http://data.europa.eu/eli/reg/1988/1546/oj?locale=pt), de 3 de Julho.
+
+4.º A imposição suplementar é fixada em 115% do preço indicativo do leite para as entregas e 75% do preço indicativo do leite para as vendas directas.
+
+5.º A contribuição dos produtores para o pagamento de imposição suplementar será estabelecida em função do excedente que subsistir após redistribuição das quantidades de referência não utilizadas, de um modo proporcional, pelas quantidades de referência dos produtores.
+
+6.º O Instituto Nacional de Intervenção e Garantia Agrícola - INGA procederá à redistribuição das quantidades de referência não utilizadas pelos compradores a nível nacional.
+
+Ministério da Agricultura.
+
+Assinada em 20 de Janeiro de 1993.
+
+Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.

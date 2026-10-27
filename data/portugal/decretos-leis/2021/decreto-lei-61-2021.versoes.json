@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:167923976:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-947174741",
+ "dre_path": "/dr/detalhe/decreto-lei/61-2021-167923976",
+ "source_lastmod": "2026-04-29",
+ "versions": [
+  {
+   "date": "2026-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1095309146:por",
+     "title": "Decreto-Lei n.º 92/2026",
+     "published": "2026-04-29",
+     "dre_path": "/dr/detalhe/decreto-lei/92-2026-1095309146"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "947334175",
+    "947334375",
+    "947334575",
+    "947334775",
+    "947334975",
+    "947335175",
+    "1101110275",
+    "947335575",
+    "1101110475",
+    "1101110675",
+    "947336175",
+    "947336375",
+    "947336575",
+    "947336775",
+    "947336975",
+    "947337175",
+    "947337375",
+    "947337575",
+    "947337775",
+    "947337975",
+    "947338175",
+    "947338375",
+    "947338575",
+    "947338775",
+    "947338975",
+    "947339175",
+    "947339375"
+   ]
+  }
+ ],
+ "fragments": {
+  "947334175": {
+   "fragment_id": "947334075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Sumário: Procede ao reconhecimento de interesse público de três instituições de ensino superior privadas.\n\nO presente decreto-lei procede, nos termos do Regime Jurídicos das Instituições de Ensino Superior (RJIES), aprovado pela Lei n.º 62/2007, de 10 de setembro, ao reconhecimento de interesse público de dois estabelecimentos de ensino superior privados, o Instituto Politécnico Jean Piaget do Norte e o Instituto Superior de Tecnologias Avançadas do Porto, e à alteração do reconhecimento de interesse público de um outro estabelecimento de ensino superior privado, o ISMAI - Instituto Universitário da Maia.\n\nO reconhecimento de interesse público de um estabelecimento de ensino privado determina, nos termos do RJIES, a sua integração no sistema de ensino superior, incluindo o poder de atribuição de graus académicos dotados de valor oficial, e é condição necessária, a par do registo dos respetivos estatutos, para o seu funcionamento.\n\nNeste enquadramento, o Instituto Piaget - Cooperativa para o Desenvolvimento Humano, Integral e Ecológico, C. R. L., na qualidade de entidade instituidora, requereu o reconhecimento de interesse público do Instituto Politécnico Jean Piaget do Norte.\n\nDo mesmo modo, também o ITA - Instituto de Tecnologias Avançadas para a Formação, Lda., na qualidade de entidade instituidora, requereu o reconhecimento de interesse público do Instituto Superior de Tecnologias Avançadas do Porto.\n\nPor fim, a Maiêutica - Cooperativa de Ensino Superior, C. R. L., na qualidade de entidade instituidora do ISMAI - Instituto Universitário da Maia, estabelecimento de ensino superior privado reconhecido de interesse público pelo Decreto-Lei n.º 6/2014, de 14 de janeiro, com natureza de instituto universitário, requereu a alteração da natureza daquele estabelecimento para universidade e da sua denominação para Universidade da Maia.\n\nDe acordo com os pareceres da Direção-Geral do Ensino Superior, encontram-se reunidas, quer pelas entidades instituidoras supraidentificadas, quer pelos respetivos estabelecimentos de ensino superior, as condições previstas no RJIES para o deferimento dos correspondentes pedidos de reconhecimento de interesse público e de alteração do reconhecimento de interesse público.\n\nAssim:\n\nNos termos do n.º 1 do artigo 35.º da Lei n.º 62/2007, de 10 de setembro, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "947334375": {
+   "fragment_id": "947334275",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "947334575": {
+   "fragment_id": "947334475",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei procede ao reconhecimento de interesse público:\n\na) Do Instituto Politécnico Jean Piaget do Norte;\n\nb) Do Instituto Superior de Tecnologias Avançadas do Porto.\n\n2 - O presente decreto-lei procede, ainda, à alteração do reconhecimento de interesse público do ISMAI - Instituto Universitário da Maia, conferido pelo Decreto-Lei n.º 6/2014, de 14 de janeiro."
+  },
+  "947334775": {
+   "fragment_id": "947334675",
+   "type": 1,
+   "heading": "Capítulo II — Instituto Politécnico Jean Piaget do Norte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Instituto Politécnico Jean Piaget do Norte"
+  },
+  "947334975": {
+   "fragment_id": "947334875",
+   "type": 11,
+   "heading": "Artigo 2.º — Reconhecimento de interesse público e denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Reconhecimento de interesse público e denominação\n\n1 - É reconhecido o interesse público do Instituto Politécnico Jean Piaget do Norte e registada a respetiva denominação.\n\n2 - O estabelecimento de ensino referido no número anterior utiliza a sigla IPJP/Norte."
+  },
+  "947335175": {
+   "fragment_id": "947335075",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza e objetivos\n\nO Instituto Politécnico Jean Piaget do Norte (IPJP/Norte) é um estabelecimento de ensino superior politécnico integrado, vocacionado para o ensino, a investigação orientada e a prestação de serviços nos domínios de especialização das suas unidades orgânicas."
+  },
+  "1101110275": {
+   "fragment_id": "947335275",
+   "type": 11,
+   "heading": "Artigo 4.º — Unidades orgânicas de ensino",
+   "in_force_from": "2026-04-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2026 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2026-1095309146), em vigor a partir de 2026-04-30."
+   ],
+   "markdown": "###### Artigo 4.º — Unidades orgânicas de ensino\n\nO IPJP/Norte integra as seguintes unidades orgânicas de ensino:\n\na) Escola Superior de Saúde Jean Piaget de Vila Nova de Gaia;\n\nb) Escola Superior de Desporto e Educação Jean Piaget de Vila Nova de Gaia;\n\nc) Escola Superior de Saúde Jean Piaget de Viseu;\n\nd) Escola Superior de Tecnologia e Gestão Jean Piaget de Viseu.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 92/2026 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2026-1095309146) As alterações introduzidas pelo Decreto-Lei n.º 92/2026, de 29 de abril, produzem efeitos a partir do início do ano letivo de 2026-2027.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2026 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2026-1095309146), em vigor a partir de 2026-04-30."
+  },
+  "947335575": {
+   "fragment_id": "947335475",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidade instituidora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidade instituidora\n\nA entidade instituidora do IPJP/Norte é o Instituto Piaget - Cooperativa para o Desenvolvimento Humano, Integral e Ecológico, C. R. L., com sede em Lisboa."
+  },
+  "1101110475": {
+   "fragment_id": "947335675",
+   "type": 11,
+   "heading": "Artigo 6.º — Localização e instalações",
+   "in_force_from": "2026-04-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2026 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2026-1095309146), em vigor a partir de 2026-04-30."
+   ],
+   "markdown": "###### Artigo 6.º — Localização e instalações\n\n1 - O IPJP/Norte é autorizado a funcionar nos concelhos de Vila Nova de Gaia e de Viseu.\n\n2 - O IPJP/Norte pode ministrar o ensino dos seus ciclos de estudos em instalações situadas nos concelhos referidos no número anterior que, por despacho do presidente do Instituto para o Ensino Superior, I. P. (IES, I. P.), a publicar na 2.ª série do Diário da República, sejam consideradas adequadas nos termos da lei.\n\n3 - O IPJP/Norte fica autorizado a ministrar o ensino dos ciclos de estudos referidos no artigo seguinte nas instalações onde decorre atualmente, sem prejuízo das eventuais adaptações que venham a ser determinadas por despacho do diretor-geral do Ensino Superior, tendo em vista a satisfação do disposto na Lei n.º 62/2007, de 10 de setembro.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 92/2026 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2026-1095309146) As alterações introduzidas pelo Decreto-Lei n.º 92/2026, de 29 de abril, produzem efeitos a partir do início do ano letivo de 2026-2027.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2026 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2026-1095309146), em vigor a partir de 2026-04-30."
+  },
+  "1101110675": {
+   "fragment_id": "947335875",
+   "type": 11,
+   "heading": "Artigo 7.º — Ciclos de estudos",
+   "in_force_from": "2026-04-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2026 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2026-1095309146), em vigor a partir de 2026-04-30."
+   ],
+   "markdown": "###### Artigo 7.º — Ciclos de estudos\n\n1 - O IPJP/Norte é autorizado a ministrar:\n\na) Os ciclos de estudos conferentes de grau académico acreditados pela Agência de Avaliação e Acreditação do Ensino Superior (A3ES) e registados pelo IES, I. P., para funcionar nas instalações a que se refere o artigo anterior;\n\nb) Os cursos técnicos superiores profissionais registados pelo IES, I. P.\n\n2 - Transitam para a Escola Superior de Saúde Jean Piaget de Viseu do IPJP/Norte:\n\na) Os ciclos de estudos da Escola Superior de Saúde Jean Piaget de Viseu acreditados pela A3ES e registados pelo IES, I. P.;\n\nb) Os cursos técnicos superiores profissionais da Escola Superior de Saúde Jean Piaget de Viseu registados pelo IES, I. P.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 92/2026 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2026-1095309146) As alterações introduzidas pelo Decreto-Lei n.º 92/2026, de 29 de abril, produzem efeitos a partir do início do ano letivo de 2026-2027.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2026 - Diário da República n.º 83/2026, Série I de 2026-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2026-1095309146), em vigor a partir de 2026-04-30."
+  },
+  "947336175": {
+   "fragment_id": "947336075",
+   "type": 1,
+   "heading": "Capítulo III — Instituto Superior de Tecnologias Avançadas do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Instituto Superior de Tecnologias Avançadas do Porto"
+  },
+  "947336375": {
+   "fragment_id": "947336275",
+   "type": 11,
+   "heading": "Artigo 8.º — Reconhecimento de interesse público e denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reconhecimento de interesse público e denominação\n\n1 - É reconhecido o interesse público do Instituto Superior de Tecnologias Avançadas do Porto e registada a respetiva denominação.\n\n2 - O estabelecimento de ensino referido no número anterior utiliza a sigla ISTEC Porto."
+  },
+  "947336575": {
+   "fragment_id": "947336475",
+   "type": 11,
+   "heading": "Artigo 9.º — Natureza e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Natureza e objetivos\n\nO Instituto Superior de Tecnologias Avançadas do Porto (ISTEC Porto) é um estabelecimento de ensino superior politécnico não integrado, vocacionado para o ensino, a investigação orientada e a prestação de serviços nos domínios da informática e da multimédia."
+  },
+  "947336775": {
+   "fragment_id": "947336675",
+   "type": 11,
+   "heading": "Artigo 10.º — Entidade instituidora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entidade instituidora\n\nA entidade instituidora do ISTEC Porto é o ITA - Instituto de Tecnologias Avançadas para a Formação, Lda., com sede em Lisboa."
+  },
+  "947336975": {
+   "fragment_id": "947336875",
+   "type": 11,
+   "heading": "Artigo 11.º — Localização e instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Localização e instalações\n\n1 - O ISTEC Porto é autorizado a funcionar no concelho do Porto.\n\n2 - O ISTEC Porto pode ministrar o ensino dos seus ciclos de estudos em instalações situadas no concelho do Porto que, por despacho do diretor-geral do Ensino Superior, publicado na 2.ª série do Diário da República, sejam consideradas adequadas nos termos da lei.\n\n3 - O ISTEC Porto fica autorizado a ministrar o ensino dos ciclos de estudos referidos no artigo seguinte nas instalações onde decorre atualmente, sem prejuízo das eventuais adaptações que venham a ser determinadas por despacho do diretor-geral do Ensino Superior, tendo em vista a satisfação do disposto na Lei n.º 62/2007, de 10 de setembro."
+  },
+  "947337175": {
+   "fragment_id": "947337075",
+   "type": 11,
+   "heading": "Artigo 12.º — Ciclos de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Ciclos de estudos\n\nTransitam para o ISTEC Porto os ciclos de estudos acreditados pela A3ES e registados pela DGES e os cursos técnicos superiores profissionais registados pela DGES cujo funcionamento se encontra autorizado para as instalações que o Instituto Superior de Tecnologias Avançadas de Lisboa possui no Porto."
+  },
+  "947337375": {
+   "fragment_id": "947337275",
+   "type": 1,
+   "heading": "Capítulo IV — Universidade da Maia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Universidade da Maia"
+  },
+  "947337575": {
+   "fragment_id": "947337475",
+   "type": 11,
+   "heading": "Artigo 13.º — Natureza e denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Natureza e denominação\n\nO ISMAI - Instituto Universitário da Maia passa a ter a natureza de universidade e adota a denominação Universidade da Maia."
+  },
+  "947337775": {
+   "fragment_id": "947337675",
+   "type": 11,
+   "heading": "Artigo 14.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Objetivos\n\nA Universidade da Maia é uma instituição orientada para a criação, transmissão e difusão da cultura, do saber e da ciência e tecnologia, através da articulação do estudo, do ensino, da investigação e do desenvolvimento experimental."
+  },
+  "947337975": {
+   "fragment_id": "947337875",
+   "type": 11,
+   "heading": "Artigo 15.º — Entidade instituidora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entidade instituidora\n\nA entidade instituidora da Universidade da Maia é a Maiêutica - Cooperativa de Ensino Superior, C. R. L., cooperativa com sede no concelho da Maia."
+  },
+  "947338175": {
+   "fragment_id": "947338075",
+   "type": 11,
+   "heading": "Artigo 16.º — Localização e instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Localização e instalações\n\n1 - A Universidade da Maia é autorizada a funcionar no concelho da Maia.\n\n2 - A Universidade da Maia pode ministrar o ensino dos seus ciclos de estudos em instalações situadas no concelho da Maia que, por despacho do diretor-geral do Ensino Superior, a publicar na 2.ª série do Diário da República, sejam consideradas adequadas nos termos da lei.\n\n3 - A Universidade da Maia fica autorizada a ministrar o ensino dos ciclos de estudos referidos no artigo seguinte nas instalações onde o mesmo decorre atualmente, sem prejuízo das eventuais adaptações que venham a ser determinadas por despacho do diretor-geral do Ensino Superior, tendo em vista a satisfação do disposto na Lei n.º 62/2007, de 10 de setembro."
+  },
+  "947338375": {
+   "fragment_id": "947338275",
+   "type": 11,
+   "heading": "Artigo 17.º — Ciclos de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Ciclos de estudos\n\nTransitam para a Universidade da Maia os ciclos de estudos acreditados pela A3ES e registados pela DGES a funcionar no Instituto Universitário da Maia - ISMAI."
+  },
+  "947338575": {
+   "fragment_id": "947338475",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime de instalação\n\nA Universidade da Maia funciona em regime de instalação por um período máximo de cinco anos letivos, nos termos dos artigos 38.º e 46.º da Lei n.º 62/2007, de 10 de setembro."
+  },
+  "947338775": {
+   "fragment_id": "947338675",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "947338975": {
+   "fragment_id": "947338875",
+   "type": 11,
+   "heading": "Artigo 19.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a partir da data de início do ano letivo de 2021-2022."
+  },
+  "947339175": {
+   "fragment_id": "947339075",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "947339375": {
+   "fragment_id": "947339275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de junho de 2021. - Pedro Gramaxo de Carvalho Siza Vieira - Manuel Frederico Tojal de Valsassina Heitor.\n\nPromulgado em 12 de julho de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 15 de julho de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

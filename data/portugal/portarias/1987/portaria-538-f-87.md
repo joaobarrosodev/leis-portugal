@@ -1,0 +1,509 @@
+---
+schema_version: '1.0'
+id: pt:dre:622320:por
+title: Portaria n.º 538-F/87
+short_title: null
+summary: Aprova o Regulamento do Estágio Relativo aos Contadores-Verificadores Estagiários da Direcção-Geral do Tribunal de
+  Contas. Revoga a Portaria n.º 1071/81, de 17 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Direcção-Geral do Tribunal de Contas
+proposing_entity: null
+official_number: 538-F/87
+official_date: null
+publication_date: '1987-06-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/1987, 3º Suplemento, Série I de 1987-06-30
+  number: '147'
+  series: I
+  supplement: null
+  pages: 2516-(22) a 2516-(25)
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/06/14703/00220025.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '622320'
+  dre_path: /dr/detalhe/portaria/538-f-1987-622320
+  internal: pt:dre:622320:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/538-f-1987-622320
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/538-f-1987-622320
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:10:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1e55f0880b575cbba9645754598362df5ab359220aa1ac59005a4af665afe794
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:10:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Avaliação de Conhecimentos
+- Contador-verificador
+- Curso de Formação
+- Direcção Geral do Tribunal de Contas
+- Estágio de Formação
+- Formação Profissional
+- Regulamento de Estágio
+relationships:
+- type: amended_by
+  target: pt:dre:618739:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:462063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567381:por
+  label: null
+  source: null
+article_structure:
+  article_count: 21
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:10:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 538-F/87
+
+de 30 de Junho
+
+Considerando a necessidade de proceder à revisão da regulamentação do processo de selecção referente ao período de estágio a que estão sujeitos os contadores-verificadores estagiários da Direcção-Geral do Tribunal de Contas:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do artigo 46.º do [Decreto-Lei n.º 478/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1980-462063), de 15 de Outubro, o seguinte:
+
+1.º É aprovado o Regulamento do Estágio Relativo aos Contadores-Verificadores Estagiários da Direcção-Geral do Tribunal de Contas anexo a esta portaria e que dela faz parte integrante.
+
+2.º É revogada a [Portaria n.º 1071/81](https://diariodarepublica.pt/dr/detalhe/portaria/1071-1981-567381), de 17 de Dezembro, em tudo o que contraria o Regulamento aprovado pela presente portaria.
+
+3.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério das Finanças.
+
+Assinada em 30 de Junho de 1987.
+
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
+
+REGULAMENTO DO ESTÁGIO RELATIVO AOS CONTADORES-VERIFICADORES ESTAGIÁRIOS DA DIRECÇÃO-GERAL DO TRIBUNAL DE CONTAS
+
+### CAPÍTULO I — Âmbito de aplicação e objectivos
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente diploma regulamenta o período de estágio a que deverão ser submetidos os contadores-verificadores estagiários, nos termos do n.º 1 do artigo 13.º do [Decreto-Lei n.º 478/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1980-462063), de 15 de Outubro.
+
+###### Artigo 2.º — Objectivos
+
+O estágio tem como objectivos a preparação e formação do estagiário, com vista ao desempenho eficaz e competente das funções para que foi recrutado, e a avaliação da respectiva capacidade de adaptação.
+
+### CAPÍTULO II — Estágio
+
+#### SECÇÃO I — Plano do estágio
+
+###### Artigo 3.º — Plano do estágio
+
+O estágio, com a duração de um ano, engloba três fases:
+
+a) Fase de sensibilização;
+
+b) Fase teórico-prática;
+
+c) Fase prática.
+
+#### SECÇÃO II — Fase de sensibilização
+
+###### Artigo 4.º — Acolhimento
+
+A primeira fase destina-se ao estabelecimento de um contacto inicial com os serviços, concretizando-se num processo de acolhimento que deverá abranger o conhecimento da estrutura, competências e funcionamento do Tribunal de Contas e da respectiva Direcção-Geral e proporcionar uma visão geral dos direitos e deveres dos funcionários públicos.
+
+#### SECÇÃO III — Fase teórico-prática
+
+###### Artigo 5.º — Acções de formação
+
+A segunda fase, que integra a frequência de acções de formação, destina-se a proporcionar ao recém-admitido uma visão integral e globalizante das atribuições e competências do Tribunal de Contas e da respectiva Direcção-Geral e a fornecer os conhecimentos básicos indispensáveis ao exercício das respectivas funções.
+
+###### Artigo 6.º — Programa das acções de formação
+
+O programa das acções de formação integra o anexo ao presente Regulamento.
+
+###### Artigo 7.º — Calendarização
+
+A duração, calendarização, sequência, horário e local de realização das acções de formação constarão de despacho do Ministro das Finanças, sob proposta do director-geral, com a anuência do presidente do Tribunal de Contas.
+
+###### Artigo 8.º — Obrigatoriedade de frequência
+
+A frequência das acções de formação é obrigatória para os contadores-verificadores estagiários e condicionante do ingresso na carreira.
+
+###### Artigo 9.º — Faltas
+
+1 - Os participantes cujas ausências sejam superiores a um terço do número total de horas de cada acção não poderão submeter-se às provas de avaliação final.
+
+2 - Os participantes que, por motivos devidamente justificados, não possam comparecer às provas de avaliação final, ou que tenham ultrapassado o número máximo de ausências referido no número anterior, poderão requerer admissão a exame de equivalência.
+
+3 - O requerimento, dirigido ao presidente do Tribunal, deverá ser apresentado no prazo de cinco dias, contados a partir da data da realização das provas de avaliação ou, no caso de existência de impedimento, contados a partir da data da respectiva cessação.
+
+4 - Em caso de decisão favorável, o presidente do Tribunal determinará os termos a observar para a realização do exame de equivalência.
+
+###### Artigo 10.º — Designação de formadores
+
+1 - Os formadores serão designados nos termos e condições fixados no n.º 2 do artigo 44.º do [Decreto-Lei n.º 478/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/478-1980-462063), de 15 de Outubro.
+
+2 - Um dos formadores será designado, nos mesmos termos, coordenador das acções de formação.
+
+3 - As remunerações que vierem a ser fixadas serão suportadas pelo Cofre do Tribunal de Contas.
+
+###### Artigo 11.º — Deveres e direitos do formador
+
+1 - Constituem deveres do formador:
+
+a) Planificar a acção a desenvolver;
+
+b) Preparar o material pedagógico e outros instrumentos de apoio às sessões a realizar;
+
+c) Conduzir as acções de acordo com os programas estabelecidos;
+
+d) Proporcionar atempadamente aos participantes textos e outros elementos de estudo;
+
+e) Avaliar os conhecimentos adquiridos pelos participantes;
+
+f) Participar nas reuniões de coordenação das acções de formação para que for convocado.
+
+2 - Pelo exercício das suas funções, o formador tem direito:
+
+a) À percepção de uma remuneração;
+
+b) À obtenção de apoio na preparação e elaboração dos suportes materiais para as sessões de formação e à utilização dos meios áudio-visuais disponíveis;
+
+c) A ser informado sobre as condições de funcionamento dos cursos, participantes e outros elementos necessários ao desenvolvimento da acção;
+
+d) A que a apreciação da sua actividade como funcionário não seja influenciada pelas suas actuações como formador.
+
+###### Artigo 12.º — Competências do formador-coordenador
+
+Compete ao formador-coordenador:
+
+a) Assegurar a coordenação das acções de formação;
+
+b) Garantir a uniformidade e coerência dos critérios e procedimentos a adoptar no processo de avaliação de conhecimentos;
+
+c) Proceder ao apuramento da classificação final atribuída nas acções de formação.
+
+###### Artigo 13.º — Avaliação de conhecimentos
+
+1 - No final de cada acção de formação os estagiários serão submetidos a uma prova escrita de avalição de conhecimentos.
+
+2 - A classificação dos participantes em cada uma das provas variará numa escala de 0 a 20 valores.
+
+3 - A classificação final resultará da média aritmética das classificações obtidas nas várias acções de formação.
+
+###### Artigo 14.º — Consulta de elementos de apoio
+
+Durante a prestação das provas os participantes poderão solicitar o fornecimento do Diário da República, sendo-lhes também permitida a consulta de todos os elementos de que sejam portadores.
+
+#### SECÇÃO IV — Fase prática
+
+###### Artigo 15.º — Aprendizagem prática
+
+A terceira fase, a decorrer no serviço onde o estagiário irá desempenhar as suas funções, deverá:
+
+a) Contribuir para a aquisição de métodos de trabalho e de estudo, com vista a um desenvolvimento e actualização permanentes;
+
+b) Servir para avaliar a capacidade de adaptação à função.
+
+###### Artigo 16.º — Avaliação da capacidade de adaptação à função
+
+1 - A avaliação da capacidade dos estagiários às respectivas funções compete aos contadores-gerais sob cuja direcção os estagiários hajam sido colocados, constituindo factores de ponderação obrigatória:
+
+a) O interesse e facilidade demonstrados em integrar-se nos objectivos e estrutura do serviço (IOE);
+
+b) A facilidade e rapidez de execução das tarefas (RE);
+
+c) O interesse demonstrado na procura de soluções novas e adequadas - criatividade (C);
+
+d) A capacidade de ponderação dos actos que pratica - responsabilidade (R);
+
+e) As relações humanas no trabalho (RH).
+
+2 - Cada factor de ponderação será avaliado numa escala de 0 a 20, resulado a nota final da aplicação da seguinte fórmula:
+
+(3 IOE + 2 RE + 3 C + 3 R + 2 RH)/13
+
+3 - A nota final atribuída deverá ser comunicada pelos contadores-gerais ao júri de avaliação final do estágio.
+
+### CAPÍTULO III — Avaliação final do estágio
+
+###### Artigo 17.º — Nota final do estágio
+
+1 - A nota final do estágio resulta da média aritmética das notas obtidas na classificação final atribuída nas acções de formação e na avaliação da capacidade de adaptação à função.
+
+2 - Não obtêm aproveitamento os estagiáros cuja nota final seja inferior a 10 valores.
+
+###### Artigo 18.º — Constituição do júri
+
+1 - O júri de avaliação final do estágio será designado pelo presidente do Tribunal de Contas e constituído pelo director-geral, que presidirá, pelo formador-coordenador e por um terceiro elemento a designar.
+
+2 - O director-geral poderá delegar a competência referida no número anterior.
+
+###### Artigo 19.º — Funcionamento do júri
+
+1 - O júri só pode funcionar estando presentes todos os seus membros.
+
+2 - As deliberações serão tomadas por maioria de votos.
+
+3 - Das reuniões do júri serão lavradas actas.
+
+4 - O secretário do júri será designado de entre os seus membros pelo respectivo presidente.
+
+###### Artigo 20.º — Competência do júri
+
+Compete ao júri, nomeadamente:
+
+a) Resolver as dúvidas que se suscitarem durante o período do estágio;
+
+b) Proceder à avaliação final do estágio;
+
+c) Elaborar e remeter para publicação no Diário da República a lista de avaliação final.
+
+###### Artigo 21.º — Recursos
+
+Os interessados podem interpor recurso, directamente para o presidente do Tribunal, no prazo de dez dias, contados da publicação da lista referida no artigo anterior, apenas com fundamento em ilegalidade.
+
+Anexo a que se refere o artigo 6.º
+
+Programa das acções de formação para contadores-verificadores estagiários
+
+I
+
+Tribunal de contas
+
+O Tribunal de Contas português:
+
+Evolução histórica;
+
+Natureza e organização;
+
+Competência;
+
+A Direcção-Geral do Tribunal de Contas:
+
+Estrutura;
+
+Órgãos e serviços;
+
+Atribuições.
+
+O Tribunal de Contas das Comunidades Europeias:
+
+Criação;
+
+Natureza e organização;
+
+Competências;
+
+Ligações com os tribunais de contas nacionais.
+
+II
+
+Administração pública financeira
+
+Organização financeira.
+
+Administração financeira:
+
+Regime administrativo dos serviços públicos;
+
+Orçamento do Estado;
+
+Orçamentos privativos.
+
+Intervenção do Tribunal de Contas.
+
+III
+
+Contabilidade dos serviços públicos
+
+Contabilidade pública:
+
+Despesas e receitas públicas:
+
+Conceito;
+
+Classificação orçamental;
+
+Arrecadação da receita;
+
+Realização de despesas;
+
+Órgãos competentes para autorizar despesas;
+
+Registos contabilísticos.
+
+Contabilidade patrimonial:
+
+Plano Oficial de Contas (POC). Noções gerais;
+
+Aplicação do POC aos serviços públicos.
+
+IV
+
+O Tribunal de Contas e o controle do Orçamento do Estado
+
+O Plano e o Orçamento do Estdo.
+
+Preparação e aprovação do Orçamento do Estado. Prazos.
+
+Alterações orçamentais.
+
+Execução orçamental.
+
+Responsabilidade orçamental e contas públicas.
+
+Operações do Tesouro.
+
+Dívida pública.
+
+A Conta Geral do Estado:
+
+Preparação da Conta. Prazos;
+
+Conteúdo e regime;
+
+Parecer do Tribunal de Contas;
+
+Aprovação pela Assembleia da República.
+
+V
+
+Contas de gerência
+
+A conta de gerência.
+
+Prazos de remessa ao Tribunal de Contas:
+
+Prazo geral;
+
+Prazos especiais.
+
+Instruções:
+
+Sua análise.
+
+Preparação para julgamento.
+
+Comunicação de actos processuais.
+
+Julgamento.
+
+Notificação do acórdão.
+
+Recursos.
+
+VI
+
+Auditoria
+
+Auditoria interna e auditoria externa:
+
+Diferenciação;
+
+Complementaridade;
+
+Cooperação.
+
+Auditoria interna:
+
+Objectivos;
+
+Conceitos.
+
+Auditoria externa:
+
+Tipos de auditoria:
+
+Auditoria de gestão;
+
+Auditoria contabilística;
+
+Outras formas de controle;
+
+Bases de selecção e técnicas de amostragem;
+
+Auditoria e comunicação;
+
+Relatórios de auditoria.
+
+VII
+
+Fiscalização preventiva
+
+O visto e a anotação.
+
+Âmbito da fiscalização preventiva:
+
+Actos e contrados sujeitos a visto.
+
+Instruções dos respectivos processos.
+
+Apreciação e reapreciação dos processos.
+
+Assentos.
+
+VIII
+
+Finanças públicas regionais
+
+Introdução.
+
+A administração financeira regional.
+
+O orçamento regional:
+
+Estrutura. Elaboração;
+
+Aprovação;
+
+Execução.
+
+A fiscalização.
+
+A conta da região.
+
+Receitas e despesas.
+
+O plano regional.

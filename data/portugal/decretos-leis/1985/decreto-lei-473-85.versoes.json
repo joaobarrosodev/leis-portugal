@@ -1,0 +1,104 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:171522:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-131293593",
+ "dre_path": "/dr/detalhe/decreto-lei/473-1985-171522",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1985-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "131290560",
+    "131290561",
+    "131290562",
+    "131290563"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A"
+   ],
+   "fragments": [
+    "131290560",
+    "131290561",
+    "131290562",
+    "131290565",
+    "131290566",
+    "131290567"
+   ]
+  }
+ ],
+ "fragments": {
+  "131290560": {
+   "fragment_id": "131293594",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 473/85\n\nde 11 de Novembro\n\nCircunstancialismos diversos exigem muitas vezes que os motoristas e elementos da segurança tenham de aguardar os membros do Governo durante várias horas, não podendo ausentar-se para ir tomar as suas refeições aos locais habituais.\n\nO mesmo sucede com o pessoal que exerce idênticas funções na Presidência da República.\n\nNestes casos, não é possível, por falta de apoio legal, reembolsar aqueles servidores, como se afigura justo, do custo das refeições que são obrigados a despender.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "131290561": {
+   "fragment_id": "131293595",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAos motoristas dos gabinetes dos membros do Governo e da Presidência da República, bem como ao pessoal referido nos Decretos-Leis n.º 305/82, de 2 de Agosto, e 434-B1/82, de 29 de Outubro, e ainda aos elementos da Polícia de Segurança Pública que garantem a segurança pessoal aos membros do Governo não abrangidos pelos referidos diplomas poderá ser satisfeito o encargo com a refeição, até ao limite de 25% da correspondente ajuda de custo diária, sempre que, deslocados em serviço que não dê origem ao pagamento de ajudas de custo, o período da deslocação abranja a hora da refeição e, em virtude da função desempenhada, este pessoal fique impossibilitado de a tomar no local habitual."
+  },
+  "131290562": {
+   "fragment_id": "131293596",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nQuando o encargo satisfeito nos termos do artigo anterior corresponder ao almoço, será deduzido do valor do subsídio diário de refeição a que houver direito."
+  },
+  "131290563": {
+   "fragment_id": "131293597",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "131290565": {
+   "fragment_id": "131293599",
+   "type": 11,
+   "heading": "Artigo 2.º-A",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 385.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 2.º-A\n\nAos encargos pagos ao abrigo do artigo 1.º do presente diploma é aplicável a alínea d) do n.º 3 do artigo 2.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, com as necessárias adaptações.\n\n> Aditado pelo/a Artigo 385.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "131290566": {
+   "fragment_id": "131293597",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "131290567": {
+   "fragment_id": "131293598",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.\n\nPromulgado em 28 de Outubro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 30 de Outubro de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

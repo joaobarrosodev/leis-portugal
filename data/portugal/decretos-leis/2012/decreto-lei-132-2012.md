@@ -1,0 +1,1759 @@
+---
+schema_version: '1.0'
+id: pt:dre:178492:por
+title: Decreto-Lei n.º 132/2012
+short_title: null
+summary: Estabelece o novo regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário e de formadores
+  e técnicos especializados
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 132/2012
+official_date: null
+publication_date: '2012-06-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/2012, Série I de 2012-06-27
+  number: '123'
+  series: I
+  supplement: null
+  pages: 3257 - 3270
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/06/12300/0325703270.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-05-09'
+version_history:
+  file: decreto-lei-132-2012.versoes.json
+  count: 9
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-10-23'
+    amending: pt:dre:502866:por
+    amending_title: Decreto-Lei n.º 146/2013
+    changes:
+    - Altera Artigo 41.º
+  - date: '2013-12-01'
+    amending: pt:dre:484160:por
+    amending_title: Lei n.º 80/2013
+    changes:
+    - Adita Secção III
+    - Adita Artigo 47.º-A
+    - Adita Artigo 47.º-B
+    - Adita Artigo 47.º-C
+    - Adita Artigo 47.º-D
+    - Adita Artigo 47.º-E
+    - Adita Artigo 47.º-F
+    - Adita Secção IV
+    - Adita Artigo 47.º-G
+    - Adita Artigo 47.º-H
+    - Adita Artigo 47.º-I
+    - Altera Secção III
+  - date: '2014-05-26'
+    amending: pt:dre:55021024:por
+    amending_title: Declaração de Retificação n.º 36/2014; Decreto-Lei n.º 83-A/2014
+    changes:
+    - Retifica Artigo 10.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Anexo
+    - Revoga Artigo 52.º
+  - date: '2016-03-08'
+    amending: pt:dre:73788169:por
+    amending_title: Decreto-Lei n.º 9/2016
+    changes:
+    - Altera Artigo 32.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Revoga Artigo 40.º
+  - date: '2016-04-29'
+    amending: pt:dre:74277007:por
+    amending_title: Lei n.º 12/2016
+    changes:
+    - Revoga Artigo 47.º-G
+    - Revoga Artigo 47.º-H
+    - Revoga Artigo 47.º-I
+  - date: '2017-03-16'
+    amending: pt:dre:106607298:por
+    amending_title: Decreto-Lei n.º 28/2017
+    changes:
+    - Adita Artigo 42.º-A
+    - Adita Artigo 50.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Revoga Artigo 46.º
+    - Revoga Artigo 47.º
+    - Revoga Artigo 47.º-A
+    - Revoga Artigo 47.º-B
+    - Revoga Artigo 47.º-C
+    - Revoga Artigo 47.º-D
+    - Revoga Artigo 47.º-E
+    - Revoga Artigo 47.º-F
+    - Revoga Artigo 48.º
+  - date: '2018-01-01'
+    amending: pt:dre:114425586:por
+    amending_title: Lei n.º 114/2017
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 42.º
+  - date: '2023-05-09'
+    amending: pt:dre:212770101:por
+    amending_title: Decreto-Lei n.º 32-A/2023
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/132/2012/p/cons/20230508/pt/html
+  oj: null
+  dre: '178492'
+  dre_path: /dr/detalhe/decreto-lei/132-2012-178492
+  internal: pt:dre:178492:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492
+  metadata_url: https://data.dre.pt/eli/dec-lei/132/2012/p/cons/20230508/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-73798884
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-73798884
+  retrieved_at: '2026-10-22T12:05:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: dd0cd09e3ae3e4c3315e3cd1d4dfbb46144bdb6ae6de4a75c99a663e23be13b5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:05:56Z'
+  notes: 9 versão(ões); histórico completo em decreto-lei-132-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Colocação de Professores
+- Concurso
+- Destacamento de Pessoal
+- Disciplina de Religião e Moral
+- Educador de Infância
+- Carreira Profissional
+- Recrutamento de Pessoal
+- Habilitações Literárias
+- Nomeação
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Profissionalização em Exercicio
+- Ensino Básico
+- Quadro de Pessoal
+- Regime Jurídico
+- Mobilidade de Pessoal
+- Educação Pré-escolar
+- Transferência de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:502866:por
+  label: Altera Artigo 41.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2013-502866
+  date: '2013-10-22'
+- type: amended_by
+  target: pt:dre:484160:por
+  label: Adita Secção III; Adita Artigo 47.º-A; Adita Artigo 47.º-B; Adita Artigo 47.º-C; Adita Artigo 47.º-D; Adita Artigo
+    47.º-E; Adita Artigo 47.º-F; Adita Secção IV; Adita Artigo 47.º-G; Adita Artigo 47.º-H; Adita Artigo 47.º-I; Altera Secção
+    III
+  source: https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160
+  date: '2013-11-28'
+- type: amended_by
+  target: pt:dre:25345121:por
+  label: Retifica Artigo 10.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 19.º;
+    Altera Artigo 20.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 26.º; Altera Artigo 28.º; Altera Artigo 31.º;
+    Altera Artigo 32.º; Altera Artigo 33.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121
+  date: '2014-05-23'
+- type: amended_by
+  target: pt:dre:55021024:por
+  label: Retifica Artigo 10.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 19.º;
+    Altera Artigo 20.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 26.º; Altera Artigo 28.º; Altera Artigo 31.º;
+    Altera Artigo 32.º; Altera Artigo 33.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/36-2014-55021024
+  date: '2014-07-22'
+- type: amended_by
+  target: pt:dre:73788169:por
+  label: Altera Artigo 32.º; Altera Artigo 36.º; Altera Artigo 37.º; Altera Artigo 38.º; Altera Artigo 39.º; Altera Artigo
+    41.º; Revoga Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2016-73788169
+  date: '2016-03-07'
+- type: amended_by
+  target: pt:dre:74277007:por
+  label: Revoga Artigo 47.º-G; Revoga Artigo 47.º-H; Revoga Artigo 47.º-I
+  source: https://diariodarepublica.pt/dr/detalhe/lei/12-2016-74277007
+  date: '2016-04-28'
+- type: amended_by
+  target: pt:dre:106607298:por
+  label: Adita Artigo 42.º-A; Adita Artigo 50.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo
+    6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 16.º;
+    Altera Artigo 18.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 26.º;
+    Altera Artigo 28.º; Altera Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298
+  date: '2017-03-15'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Altera Artigo 10.º; Altera Artigo 42.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:212770101:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101
+  date: '2023-05-08'
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/35/2003/02/27/p/dre
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
+- type: cites
+  target: pt:dre:240043:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/121/2005/07/26
+- type: cites
+  target: pt:dre:249230:por
+  label: null
+  source: http://data.dre.pt/eli/lei/21/2008/05/12/p/dre
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/3/2008/01/07/p/dre
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/105/1997/04/29/p/dre
+- type: cites
+  target: pt:dre:491397:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/281/2009/10/06/p/dre
+- type: cites
+  target: pt:dre:675019:por
+  label: null
+  source: http://data.dre.pt/eli/port/1102/1997/11/03/p/dre
+article_structure:
+  article_count: 67
+  section_count: 23
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:05:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 132/2012
+
+Decreto-Lei n.º 132/2012
+
+de 27 de junho
+
+A gestão dos recursos humanos docentes desempenha um papel de inquestionável importância na eficiência, racionalidade e qualidade do serviço de educação prestado pela rede pública de estabelecimentos de ensino da educação pré-escolar e dos ensinos básico e secundário na dependência do Ministério da Educação e Ciência.
+
+Nesse âmbito, os procedimentos pré-contratuais e contratuais de recrutamento, seleção, mobilidade e contratação do pessoal docente são cruciais na satisfação de necessidades de recursos humanos docentes e de formação dos estabelecimentos de ensino, dotando-os para o cumprimento das suas atribuições no domínio da função educativa.
+
+Assim, o presente diploma constitui um instrumento estruturante de política de gestão dos recursos humanos educativos, não só na vertente de racionalização e estabilidade do corpo docente, como também no reforço da sua qualidade profissional, com vista à melhoria dos processos de ensino, que asseguram o sucesso educativo dos alunos.
+
+O modelo de seleção, recrutamento e mobilidade dos docentes e formadores ora estatuído procede à unificação do regime jurídico que se encontrava disperso em diferentes diplomas, promovendo a coerência, a equidade e transparência do sistema.
+
+No procedimento concursal de mobilidade dos docentes de carreira, para além das situações de obrigatoriedade de apresentação ao concurso de modo a minorar o desperdício de recursos humanos docentes sem componente letiva, possibilita-se também que anualmente, e por interesse do próprio, os docentes possam candidatar-se à aproximação à residência habitual num esforço de salvaguarda da compatibilidade entre a vida profissional e pessoal, conjugando-se os interesses dos diversos intervenientes.
+
+Em sentido idêntico, a permuta entre docentes passa a contemplar os docentes contratados sendo definidas regras claras e de fácil exequibilidade, reforçando-se a estabilidade destes profissionais.
+
+Após a colocação nacional dos docentes de carreira e contratados, os procedimentos da reserva de recrutamento respeitam a satisfação das preferências manifestadas pelos candidatos, com publicitação das listas de colocação, observando o respeito pelo princípio da transparência, o qual constitui uma garantia preventiva de imparcialidade, de modo a projetar no sistema um sentimento de confiança.
+
+Procede-se à manutenção e ao aprofundamento do funcionamento dos estabelecimentos de ensino, através das regras da continuidade pedagógica aplicáveis ao corpo docente, dando resposta às expectativas profissionais dos candidatos e configurando uma maior rentabilidade da atividade letiva.
+
+O regime contratual definido estabelece regras comuns aplicáveis a todos os procedimentos de colocação das necessidades temporárias que subsistem após o integral aproveitamento dos recursos humanos já existentes no sistema educativo.
+
+Por outro lado, na contratação realizada pelas escolas impõem-se novos critérios de seleção que visam a igualdade de tratamento do universo de candidatos, uma maior razoabilidade na sua seleção e a eliminação de situações de ilegalidade detetadas na aplicação do regime antecedente.
+
+De modo a concretizar a garantia constitucional da liberdade de aprender e ensinar e do reconhecimento dos estabelecimentos do ensino particular e cooperativo como «parte integrante da rede escolar», consagradas no n.º 1 do artigo 43.º e no n.º 2 do artigo 75.º da Constituição da República Portuguesa e no n.º 1 do artigo 55.º da Lei de Bases do Sistema Educativo, valoriza-se a prestação de serviço público dos docentes do ensino particular e cooperativo com contratos de associação celebrados com o Ministério da Educação e Ciência.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foram ouvidos os sindicatos, associações de sindicatos e federações sindicais representativas do pessoal docente do ensino da rede pública do Ministério da Educação e Ciência, nos termos da Lei n.º 23/98, de 26 de maio, alterada pela Lei n.º 59/2008, de 11 de setembro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+#### Secção I — Objeto e âmbito do concurso
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 1.º — Objeto
+
+1 - O presente diploma regula os concursos para seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário, constituindo estes o processo normal e obrigatório de seleção e recrutamento do pessoal docente.
+
+2 - Prevê, ainda, os procedimentos necessários à operacionalização da mobilidade de docentes colocados nos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário na dependência do Ministério da Educação e contratação dos formadores e técnicos especializados.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+###### Artigo 2.º — Âmbito pessoal
+
+O presente decreto-lei é aplicável aos docentes de carreira cujo vínculo de emprego público é titulado por contrato de trabalho em funções públicas por tempo indeterminado e aos portadores de qualificação profissional para a docência, sem prejuízo do disposto no artigo 38.º
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+###### Artigo 3.º — Âmbito material
+
+1 - O presente diploma aplica-se à generalidade das modalidades de educação escolar.
+
+2 - O regime da mobilidade interna e de contratação regulado no presente diploma é aplicado às organizações que possuam protocolos no âmbito da colocação de docentes com o Ministério da Educação e Ciência.
+
+3 - Excetuam-se do disposto no número anterior as seguintes modalidades de educação escolar que constituem objeto de diplomas próprios:
+
+a) Ensino português no estrangeiro;
+
+b) Agentes de cooperação;
+
+c) Instituições de educação especial abrangidas pela Portaria n.º 1102/97, de 3 de novembro, alterada pelo Decreto-Lei n.º 3/2008, de 7 de janeiro, pela Lei n.º 21/2008, de 12 de maio, e pelo Decreto-Lei n.º 281/2009, de 6 de outubro.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 4.º — Âmbito territorial
+
+1 - O presente decreto-lei aplica-se ao território de Portugal continental.
+
+2 - O presente decreto-lei é, ainda, aplicável aos docentes de carreira vinculados às Regiões Autónomas da Madeira e dos Açores para efeitos de concurso interno e de mobilidade interna.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+#### Secção II — Natureza e objetivos do concurso
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 5.º — Natureza e objetivos
+
+1 - A seleção e o recrutamento do pessoal docente pode revestir a natureza de:
+
+a) Concurso interno;
+
+b) Concurso externo;
+
+c) Concursos para a satisfação de necessidades temporárias.
+
+2 - Os concursos interno e externo visam a satisfação das necessidades permanentes de pessoal docente dos agrupamentos de escolas e escolas não agrupadas.
+
+3 - O concurso interno visa, ainda, a mobilidade dos docentes de carreira que pretendam concorrer a vagas dos agrupamentos de escolas ou escolas não agrupadas, por transição de grupo de recrutamento ou por transferência de agrupamento ou escola.
+
+4 - O concurso externo destina-se ao recrutamento de candidatos não integrados na carreira que pretendam aceder a vagas dos agrupamentos de escolas ou escolas não agrupadas e preencham os requisitos previstos no artigo 22.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, alterado pelos Decretos-Leis n.os 105/97, de 29 de abril, 1/98, de 2 de janeiro, 35/2003, de 27 de fevereiro, 121/2005, de 26 de julho, 229/2005, de 29 de dezembro, 224/2006, de 13 de novembro, 15/2007, de 19 de janeiro, 35/2007, de 15 de fevereiro, 270/2009, de 30 de setembro, 75/2010, de 23 de junho, e 41/2012, de 21 de fevereiro, doravante designado abreviadamente por ECD.
+
+2 - Os concursos interno e externo visam a satisfação das necessidades permanentes de pessoal docente dos agrupamentos de escolas e escolas não agrupadas e dos quadros de zona pedagógica.
+
+3 - O concurso interno visa, ainda, a mobilidade dos docentes de carreira que pretendam concorrer a vagas dos agrupamentos de escolas ou escolas não agrupadas e vagas dos quadros de zona pedagógica, por transição de grupo de recrutamento ou por transferência de agrupamento ou escola.
+
+4 - O concurso externo destina-se ao recrutamento de candidatos que, preenchendo os requisitos previstos no artigo 22.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, doravante designado abreviadamente por ECD, pretendam ingressar na carreira.
+
+5 - O ingresso na carreira é feito através do preenchimento de vagas nos quadros de zona pedagógica.
+
+6 - Os concursos para a satisfação de necessidades temporárias visam suprir necessidades que não sejam satisfeitas pelos concursos interno e externo ou que ocorram no intervalo da sua abertura.
+
+7 - A satisfação de necessidades temporárias é ainda assegurada pela colocação de docentes de carreira candidatos à mobilidade interna e pela contratação a termo resolutivo.
+
+8 - A satisfação de necessidades temporárias, quando assegurada pelos concursos de contratação inicial, de reserva de recrutamento e de contratação de escola, com celebração de contrato de trabalho a termo resolutivo, tem por limite máximo o termo do ano escolar.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+#### Secção III — Procedimentos dos concursos
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 6.º — Abertura dos concursos
+
+1 - Sem prejuízo do disposto no número seguinte, a abertura dos concursos do pessoal docente obedece à seguinte periodicidade:
+
+a) Anual para o concurso externo;
+
+b) Quadrienal para o concurso interno;
+
+c) O prazo previsto na alínea anterior pode ser antecipado por despacho do membro do Governo responsável pela área da educação, caso se verifique a necessidade de proceder a um reajustamento na afetação de docentes às necessidades dos agrupamentos de escolas e escolas não agrupadas.
+
+2 - Para efeitos de preenchimento dos horários que surjam em resultado da variação de necessidades temporárias são abertos anualmente os seguintes concursos:
+
+a) Mobilidade interna;
+
+b) Contratação inicial;
+
+c) Reserva de recrutamento;
+
+d) Contratação de escola.
+
+3 - A colocação de docentes de carreira referidos na alínea a) do número anterior, mantém-se até ao primeiro concurso interno que vier a ter lugar, desde que no agrupamento de escolas ou escola não agrupada onde o docente tenha sido colocado até ao final do primeiro período em horário anual completo ou incompleto, subsista componente letiva com a duração mínima de seis horas.
+
+4 - A abertura dos concursos referidos nas alíneas a) a c) do n.º 2 obedece ao princípio da unidade, traduzido na apresentação de uma única candidatura, aplicável a todos os grupos de recrutamento e a todos os momentos do concurso.
+
+5 - Os concursos são abertos pelo diretor-geral da Administração Escolar, mediante aviso publicado na 2.ª série do Diário da República, por um prazo mínimo de cinco dias úteis para efeitos de candidatura.
+
+6 - A candidatura pode ser precedida por uma fase de inscrição a realizar durante um prazo mínimo de cinco dias úteis.
+
+7 - Do aviso de abertura dos concursos constam as seguintes menções:
+
+a) Tipos de concursos e referência à legislação aplicável;
+
+b) Requisitos gerais e específicos de admissão a concurso;
+
+c) Número e local de vagas a ocupar nos concursos interno e externo;
+
+d) Entidade a quem deve ser apresentada a candidatura, com indicação do respetivo endereço eletrónico, dos documentos a juntar e das demais indicações necessárias à correta formalização da candidatura;
+
+e) Local de publicitação das listas de candidatos e da consequente lista de colocações;
+
+f) Identificação e local de disponibilização do formulário de candidatura;
+
+g) Menção da regra para apuramento da quota de emprego a preencher por pessoas com deficiência e de outras adaptações em matéria de colocação;
+
+h) Obrigatoriedade de utilização de formulários eletrónicos em todas as etapas dos concursos;
+
+i) Motivos de exclusão da candidatura;
+
+j) Campos inalteráveis nos procedimentos correspondentes ao aperfeiçoamento da candidatura.
+
+k) Calendário indicativo das várias fases dos concursos.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 7.º — Candidatura
+
+1 - A candidatura aos concursos é apresentada através de formulário eletrónico, a disponibilizar pela Direção-Geral da Administração Escolar, concebido de forma a recolher a seguinte informação obrigatória:
+
+a) Elementos legais de identificação do candidato;
+
+b) Prioridade em que o candidato concorre;
+
+c) Elementos necessários à ordenação do candidato;
+
+d) Formulação das preferências por agrupamentos de escolas ou escolas não agrupadas, concelhos ou quadros de zona pedagógica, de acordo com a codificação estabelecida no aviso de abertura do concurso, nos termos do artigo 9.º
+
+2 - O formulário de candidatura deve ser preenchido de acordo com as respetivas instruções emitidas pela Direção-Geral da Administração Escolar, sob pena de exclusão da candidatura.
+
+3 - Os elementos constantes do formulário devem ser comprovados mediante fotocópia simples dos documentos adequados, no decurso do prazo de candidatura, sob pena de exclusão.
+
+4 - Os candidatos são dispensados da entrega dos documentos comprovativos que se encontrem arquivados e válidos no respetivo processo individual no agrupamento de escolas ou escola não agrupada que procede à validação da candidatura.
+
+5 - Os elementos constantes do processo individual do candidato, existente no agrupamento de escolas ou escola não agrupada, são certificados pelo órgão de direção respetivo.
+
+6 - O tempo de serviço declarado no boletim de candidatura é contado até ao dia 31 de agosto imediatamente anterior à data de abertura do concurso, devendo ser apurado de acordo com:
+
+a) O registo biográfico do candidato, confirmado pelo órgão de direção do agrupamento de escolas ou escola não agrupada onde aquele exerce funções, tendo em consideração a última lista de antiguidade publicada;
+
+b) O disposto no Decreto-Lei n.º 152/2013, de 4 de novembro, para os candidatos provenientes do ensino particular e cooperativo;
+
+c) A apresentação da fotocópia simples da declaração emitida pela entidade onde o serviço foi prestado, ou pelo serviço com competência para o certificar, para os candidatos com tempo de serviço docente, prestado até 31 de agosto do ano imediatamente anterior à data de abertura do concurso, relevante para efeitos de graduação e que não possa ser apurado através do registo biográfico.
+
+7 - Aos candidatos ao concurso externo que se encontrem a completar um dos limites previstos no n.º 2 do artigo 42.º, para efeitos de candidatura, o tempo de serviço é contado até ao dia 31 de agosto desse ano.
+
+8 - No caso de os candidatos referidos no número anterior não completarem os limites previstos no n.º 2 do artigo 42.º, a candidatura na 1.ª prioridade do concurso externo é nula, mantendo-se a candidatura apresentada para efeitos da 2.ª ou 3.ª prioridade do concurso externo e do concurso para satisfação de necessidades temporárias, nos termos do n.º 7 do artigo 5.º
+
+9 - A informação recolhida através do formulário eletrónico de anos anteriores pode ser parcialmente recuperada pelo candidato no ato da candidatura.
+
+10 - O número de candidato de acesso aos formulários eletrónicos mantém-se inalterado de um ano para o outro.
+
+11 - A falta de habilitação determina a exclusão da candidatura ou a nulidade da colocação e da subsequente relação jurídica de emprego público, a declarar pelo diretor-geral da Administração Escolar.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 8.º — Âmbito das candidaturas
+
+1 - Os candidatos ao concurso interno podem ser opositores, em simultâneo, à transferência de um agrupamento de escolas ou escola não agrupada ou zona pedagógica no grupo de recrutamento em que se encontram vinculados e à transição de grupo de recrutamento.
+
+2 - Os candidatos ao concurso externo podem ser opositores no máximo de quatro grupos de recrutamento para os quais possuam qualificação profissional.
+
+3 - Os candidatos aos concursos previstos nas alíneas b) e c) do n.º 2 do artigo 6.º são obrigatoriamente opositores ao concurso externo.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 9.º — Preferências
+
+1 - Os candidatos manifestam as suas preferências, por ordem decrescente de prioridade, por códigos de agrupamentos de escolas ou escolas não agrupadas, códigos de concelhos e códigos de zonas pedagógicas.
+
+2 - Na manifestação das suas preferências, os candidatos devem indicar os códigos referidos nas alíneas seguintes, podendo alternar as preferências dessas alíneas ou conjugar as preferências contidas em cada uma delas:
+
+a) Códigos de agrupamentos de escolas ou escolas não agrupadas;
+
+b) Códigos de concelhos;
+
+c) Códigos de zona pedagógica.
+
+3 - (Revogado.)
+
+4 - Os docentes de carreira providos em quadro de zona pedagógica são obrigados a concorrer a todo o seu quadro de zona pedagógica.
+
+5 - Quando os candidatos indicarem códigos de concelhos, considera-se que manifestam igual preferência por todos os agrupamentos de escolas ou escolas não agrupadas de cada um desses concelhos, exceto pela escola de vinculação do candidato, que se considera excluída da preferência, fazendo-se a colocação por ordem crescente do respetivo código.
+
+6 - Considera-se que são opositores a todos os agrupamentos de escolas ou escolas não agrupadas integrados no âmbito geográfico das zonas pedagógicas quando os candidatos indicarem códigos de zona pedagógica, fazendo-se a colocação por ordem crescente do respetivo código de agrupamento de escolas ou escolas não agrupadas.
+
+7 - Quando os candidatos indicarem códigos de zona pedagógica, identificam se o código se refere a todos os agrupamentos de escolas ou escolas não agrupadas integrados no âmbito geográfico dessas zonas pedagógicas ou às zonas pedagógicas.
+
+8 - Os candidatos à contratação a termo resolutivo previstos nas alíneas b) e c) do n.º 2 do artigo 6.º podem manifestar preferências para cada um dos intervalos seguintes:
+
+a) Horário completo;
+
+b) Horário entre quinze e vinte e uma horas;
+
+c) Horário entre oito e catorze horas.
+
+9 - Para cada uma das preferências manifestadas, os candidatos são obrigados a respeitar a sequencialidade dos intervalos de horários, do completo para o incompleto, do anual para o temporário.
+
+10 - Para efeitos de contratação a termo resolutivo, devem ainda os candidatos, respeitados os intervalos mencionados no n.º 8, indicar, para cada uma das preferências manifestadas, a duração previsível do contrato nos termos previstos nas alíneas seguintes:
+
+a) Contratos com termo a 31 de agosto;
+
+b) Contratos de duração temporária.
+
+11 - (Revogado.)
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 10.º — Prioridades na ordenação dos candidatos
+
+1 - Os candidatos ao concurso interno são ordenados de acordo com as seguintes prioridades:
+
+a) 1.ª prioridade - docentes de carreira vinculados a agrupamento de escolas ou escola não agrupada que pretendam a mudança do respetivo lugar;
+
+b) 2.ª prioridade - docentes de carreira vinculados a quadro de zona pedagógica que pretendam a mudança do respetivo lugar;
+
+c) (Revogada).
+
+d) 3.ª prioridade - docentes de carreira que pretendam transitar de grupo de recrutamento e sejam portadores de qualificação profissional adequada.
+
+2 - Os docentes de carreira vinculados às Regiões Autónomas da Madeira e dos Açores são ordenados de acordo com as mesmas prioridades aplicadas aos docentes de carreira do continente nos respetivos regimes jurídicos de concurso, em condições de reciprocidade.
+
+3 - Os candidatos ao concurso externo são ordenados, na sequência da última prioridade referente ao concurso interno, de acordo com as seguintes prioridades:
+
+a) 1.ª prioridade - docentes que, nos termos do artigo 42.º, se encontram no último ano do limite do contrato ou da segunda renovação;
+
+b) 2.ª prioridade - indivíduos qualificados profissionalmente para o grupo de recrutamento a que se candidatam, que tenham prestado funções docentes em pelo menos 365 dias nos últimos seis anos escolares, nos estabelecimentos referidos no número seguinte;
+
+c) (Revogada.)
+
+d) 3.ª prioridade - indivíduos qualificados profissionalmente para o grupo de recrutamento a que se candidatam.
+
+4 -O disposto na alínea b) do número anterior é aplicado aos docentes que tenham exercido ou exerçam funções em:
+
+a) Estabelecimentos integrados na rede pública do Ministério da Educação e Ciência;
+
+b) Estabelecimentos integrados na rede pública das Regiões Autónomas;
+
+c) Estabelecimentos do ensino superior público;
+
+d) Estabelecimentos ou instituições de ensino dependentes ou sob a tutela de outros ministérios que tenham protocolo com o Ministério da Educação e Ciência;
+
+e) Estabelecimentos do ensino português no estrangeiro, incluindo ainda o exercício de funções docentes como agentes da cooperação portuguesa nos termos do correspondente estatuto jurídico.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 315.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16, produz efeitos a partir de 2019-01-01
+
+> Retificado pelo/a [Declaração de Retificação n.º 36/2014 - Diário da República n.º 139/2014, Série I de 2014-07-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/36-2014-55021024), em vigor a partir de 2014-05-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 11.º — Graduação dos docentes
+
+1 - A graduação dos docentes para a docência é determinada pelo resultado da soma dos valores obtidos, nos termos das alíneas seguintes:
+
+a) A classificação profissional, obtida de acordo com a legislação em vigor à data da sua obtenção, expressa na escala de 0 a 20 e com o número de casas decimais igual ao constante no documento comprovativo da referida classificação;
+
+b) Com o resultado da divisão por 365, com arredondamento às milésimas, da soma:
+
+i) O número de dias de serviço docente ou equiparado avaliado com a menção qualitativa mínima de Bom, nos termos do ECD, contado a partir do dia 1 de setembro do ano civil em que o docente obteve qualificação profissional para o grupo de recrutamento a que é opositor até ao dia 31 de agosto do ano imediatamente anterior ao da data de abertura do concurso, ou 31 de agosto do próprio ano no caso do concurso externo a que se refere o n.º 13 do artigo 42.º do presente decreto-lei;
+
+ii) Aos docentes de carreira, o tempo de serviço é contado desde a última avaliação mínima de Bom obtida no último ciclo em que foi avaliado nos termos do ECD;
+
+iii) Com o número de dias de serviço docente ou equiparado prestado anteriormente à obtenção da qualificação profissional, ponderado pelo fator 0,5, com arredondamento às milésimas;
+
+c) (Revogada)
+
+d) (Revogada)
+
+2 - Para efeitos de graduação de docentes, considera-se tempo de serviço o prestado como educador de infância ou professor dos ensinos básico e secundário, sem prejuízo do disposto no artigo 39.º do ECD, bem como o tempo de serviço prestado no ensino superior público, independentemente do ciclo ou nível de ensino a que se pretenda aceder.
+
+3 - Para efeitos de aplicação do presente artigo, é contado como tempo de serviço o prestado pelos docentes em regime de contrato de trabalho a termo resolutivo, ainda que não satisfaça a verificação do requisito do tempo mínimo exigido para a avaliação de desempenho.
+
+4 - Para efeitos da graduação profissional dos docentes de carreira com formação especializada em educação especial ao abrigo da alínea a) do n.º 1 do artigo 56.º do ECD, é aplicado o disposto no n.º 1, relevando para o efeito, a classificação profissional da graduação obtida no curso de especialização, sendo considerado o dia 1 de setembro do ano civil em que o docente, nos termos da Portaria n.º 212/2009, de 23 de fevereiro, concluiu a formação especializada.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 12.º — Ordenação de candidatos
+
+1 - A ordenação de candidatos para a docência faz-se, dentro dos critérios de prioridade fixados no artigo 10.º, por ordem decrescente da respetiva graduação.
+
+2 - Em caso de igualdade na graduação, a ordenação dos candidatos respeita a seguinte ordem de preferências:
+
+a) Candidatos com classificação profissional mais elevada, nos termos do artigo anterior;
+
+b) Candidatos com maior tempo de serviço docente prestado após a profissionalização;
+
+c) Candidatos com maior tempo de serviço docente prestado antes da profissionalização;
+
+d) Candidatos com maior idade;
+
+e) Candidatos com o número de candidatura mais baixo.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 13.º — Validação da candidatura
+
+1 - A validação de candidaturas consiste na confirmação da veracidade dos dados da candidatura por parte dos órgãos dos agrupamentos de escolas ou escolas não agrupadas e da Direção-Geral da Administração Escolar.
+
+2 - A validação referida no número anterior processa-se em três momentos distintos:
+
+a) No primeiro momento, as entidades responsáveis pela validação procedem à verificação dos dados da candidatura, por um período de, pelo menos, cinco dias úteis;
+
+b) No segundo momento, a Direção-Geral da Administração Escolar disponibiliza ao candidato o acesso à sua candidatura, por um período de, pelo menos, dois dias úteis, para proceder ao aperfeiçoamento dos dados introduzidos aquando da candidatura dos campos alteráveis e não validados no primeiro momento;
+
+c) No terceiro momento, as entidades responsáveis procedem a nova validação caso tenha havido por parte do candidato o aperfeiçoamento dos dados da candidatura, por um período de, pelo menos, dois dias úteis.
+
+3 - O processo de validação é realizado exclusivamente em formato eletrónico.
+
+4 - A não validação de um dado da candidatura nos termos da alínea c) do n.º 2 por parte das entidades de validação determina a exclusão do candidato nas listas provisórias.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 14.º — Listas provisórias
+
+1 - Terminada a verificação dos requisitos de admissão aos concursos, são elaboradas as listas provisórias de candidatos admitidos e ordenados e de candidatos excluídos, as quais são publicitadas na página da Internet da Direção-Geral da Administração Escolar.
+
+2 - Dos elementos constantes das listas provisórias, bem como da transposição informática dos elementos que o candidato registou no seu formulário de candidatura, expressos nos verbetes, cujo acesso é disponibilizado pela Direção-Geral da Administração Escolar aos candidatos, cabe reclamação no prazo de cinco dias úteis a contar do dia imediato ao da publicitação das listas.
+
+3 - A reclamação é apresentada em formulário eletrónico, a disponibilizar pela Direção-Geral da Administração Escolar, na respetiva página da Internet.
+
+4 - Considera-se, para todos os efeitos, que a não apresentação de reclamação equivale à aceitação de todos os elementos referidos no n.º 2.
+
+5 - Os candidatos cujas reclamações forem indeferidas são notificados de tal facto, no prazo de 30 dias úteis a contar do termo do prazo para apresentação das reclamações.
+
+6 - As reclamações dos candidatos que não forem notificados nos termos do número anterior consideram-se deferidas.
+
+7 - São admitidas desistências totais e parciais do concurso, em formulário eletrónico, a disponibilizar pela Direção-Geral da Administração Escolar na respetiva página da Internet até ao termo do prazo para as reclamações, não sendo, porém, admitidas quaisquer alterações às preferências inicialmente manifestadas.
+
+8 - Não são admitidas alterações aos campos da candidatura eletrónica que impliquem a redefinição da opção de candidatura inicialmente manifestada e que configurem uma nova candidatura.
+
+9 - Os campos não alteráveis constam do aviso de abertura do concurso.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 15.º — Listas definitivas
+
+1 - Esgotado o prazo de notificação referido no n.º 5 do artigo anterior, as listas provisórias convertem-se em definitivas, contendo as alterações decorrentes das reclamações julgadas procedentes e as provenientes das desistências.
+
+2 - O preenchimento dos lugares respeita as preferências identificadas no presente diploma e materializa-se nas listas de colocações, as quais dão origem igualmente a listas graduadas de candidatos não colocados, publicitadas nos termos do aviso de abertura do concurso.
+
+3 - As listas definitivas de ordenação, de exclusão, de colocação e de candidatos não colocados são homologadas pelo diretor-geral da Administração Escolar, sendo publicitadas pela Direção-Geral da Administração Escolar na respetiva página da Internet.
+
+4 - Das listas definitivas de colocação, de ordenação e de exclusão pode ser interposto recurso hierárquico, elaborado em formulário eletrónico, sem efeito suspensivo, a apresentar no prazo de cinco dias úteis.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 16.º — Aceitação
+
+1 - Os candidatos colocados na sequência do concurso interno ou externo devem obrigatoriamente aceitar a colocação na aplicação informática a disponibilizar pela Direção-Geral da Administração Escolar, no prazo de cinco dias úteis.
+
+2 - Os candidatos colocados na sequência dos restantes concursos, salvo o procedimento concursal previsto no artigo 38.º, devem obrigatoriamente aceitar a colocação na aplicação informática a disponibilizar pela Direção-Geral da Administração Escolar, no prazo de 48 horas, correspondentes aos dois primeiros dias úteis seguintes à publicitação da lista de colocação.
+
+3 - (Revogado.)
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 17.º — Apresentação
+
+1 - Os candidatos colocados nos concursos interno e externo devem apresentar-se no agrupamento de escolas ou escola não agrupada onde foram colocados no 1.º dia útil do mês de setembro.
+
+2 - Os candidatos colocados nos restantes concursos devem apresentar-se no prazo de 72 horas após a respetiva colocação.
+
+3 - Nos casos em que a apresentação por motivo de férias, maternidade, doença ou outro motivo previsto na lei não puder ser presencial, deve o candidato colocado, no 1.º dia útil do mês de setembro, por si ou por interposta pessoa, comunicar o facto ao agrupamento de escolas ou escola não agrupada com apresentação, no prazo de cinco dias úteis, do respetivo documento comprovativo.
+
+4 - Os docentes de carreira integrados na reserva de recrutamento sem serviço atribuído devem apresentar-se no 1.º dia útil do mês de setembro no último agrupamento de escolas ou escola não agrupada onde exerceram funções para aguardar nova colocação.
+
+5 - Os docentes que no ano de integração na carreira não obtenham colocação no concurso de mobilidade interna devem apresentar-se no 1.º dia útil do mês de setembro no agrupamento de escolas ou escola não agrupada indicada como escola de validação, enquanto aguardam colocação.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2019-03-16
+
+###### Artigo 18.º — Deveres de aceitação e apresentação
+
+1 - O não cumprimento dos deveres de aceitação e apresentação é considerado, para todos os efeitos legais, como não aceitação da colocação e determina a:
+
+a) Anulação da colocação obtida;
+
+b) Instauração de processo disciplinar aos docentes de carreira;
+
+c) Impossibilidade de os docentes não integrados na carreira serem colocados em exercício de funções docentes nesse ano, através dos procedimentos concursais regulados no presente decreto-lei, após audição escrita ao candidato a seu pedido, no prazo de 48 horas.
+
+2 - Para os efeitos da alínea b) do número anterior, é instaurado processo disciplinar pelo diretor do agrupamento de escolas ou escola não agrupada a que o docente se encontra vinculado ou onde se encontra colocado, consoante seja docente vinculado a agrupamento de escolas ou escola não agrupada ou a quadro de zona pedagógica, o qual é imediatamente remetido à Inspeção-Geral da Educação e Ciência, para efeitos de instrução.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+### Capítulo II — Necessidades permanentes
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+#### Secção I — Dotação de pessoal
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 19.º — Dotação das vagas
+
+1 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação, é fixada a dotação das vagas dos agrupamentos de escolas ou de escolas não agrupadas e dos quadros de zonas pedagógica.
+
+2 - As vagas não ocupadas dos agrupamentos de escolas ou escolas não agrupadas, bem como as vagas que excedam as necessidades permanentes, são publicitadas em anexo ao aviso de abertura referido no n.º 5 do artigo 6.º
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 20.º — Recuperação de vagas
+
+1 - Sempre que uma vaga seja libertada por um candidato, é automaticamente colocada a concurso para ser preenchida pelo docente melhor posicionado na lista de ordenação, de acordo com a sua prioridade e as preferências por si manifestadas.
+
+2 - O concurso interno realiza-se com recuperação automática de vagas, de modo a que cada candidato não seja ultrapassado em qualquer das suas preferências por outro candidato com menor graduação, na mesma prioridade.
+
+3 - As vagas que excedam as necessidades permanentes dos respetivos agrupamentos de escolas ou escola não agrupada e dos quadros de zona pedagógica não são objeto de recuperação nos termos do n.º 1.
+
+4 - Os candidatos aos concursos interno e externo podem indicar, de entre as suas preferências, os agrupamentos de escolas ou escolas não agrupadas em que pretendem ser colocados e os quadros de zona pedagógica, independentemente de naqueles existirem vagas a ocupar à data de abertura do concurso.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+#### Secção II — Concurso interno
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 21.º — Vagas a concurso
+
+Para efeitos de concurso interno, são consideradas todas as vagas não ocupadas dos agrupamentos de escolas ou de escolas não agrupadas e as resultantes da recuperação automática prevista no artigo anterior, sem prejuízo do disposto no seu n.º 3.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 22.º — Candidatos
+
+1 - Podem ser opositores ao concurso interno os seguintes candidatos:
+
+a) Os docentes de carreira vinculados a agrupamento de escolas ou escola não agrupada que pretendam mudar para outro agrupamento de escolas ou escola não agrupada ou para quadro de zona pedagógica;
+
+b) Os docentes de carreira vinculados a quadro de zona pedagógica que pretendam mudar para agrupamento de escolas ou escola não agrupada ou para outro quadro de zona pedagógica;
+
+c) Os docentes de carreira que pretendam mudar de grupo de recrutamento.
+
+d) Os docentes de carreira das Regiões Autónomas da Madeira e dos Açores.
+
+2 - Os docentes de carreira sem componente letiva devem ser opositores ao concurso interno.
+
+3 - Os docentes de carreira na situação de licença sem vencimento de longa duração podem candidatar-se ao concurso interno desde que tenham requerido o regresso ao agrupamento de escolas ou escola não agrupada de origem até ao final do mês de setembro do ano letivo anterior àquele em que pretendem regressar e tenham sido informados de inexistência de vaga.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+#### Secção III — Concurso externo
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 23.º — Vagas a concurso
+
+Para efeitos do concurso externo, são consideradas:
+
+a) As vagas correspondentes à aplicação do n.º 13 do artigo 42.º;
+
+b) As vagas correspondentes às necessidades dos quadros de zona pedagógica;
+
+c) (Revogada)
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 24.º — Candidatos
+
+1 - Podem ser opositores ao concurso externo os candidatos referidos no n.º 4 do artigo 5.º
+
+2 - Os docentes de carreira em gozo de licença sem vencimento de longa duração podem candidatar-se ao concurso externo nessa condição desde que tenham requerido à Direção-Geral da Administração Escolar o regresso ao agrupamento de escolas ou escola não agrupada ou zona pedagógica de origem até ao final do mês de setembro do ano letivo anterior àquele em que pretendem regressar e tenham sido informados de inexistência de vaga.
+
+3 - O vínculo de emprego público dos candidatos colocados no âmbito do concurso externo é estabelecido por contrato de trabalho em funções públicas por tempo indeterminado.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+### Capítulo III — Necessidades temporárias
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+#### Secção I — Identificação e suprimento das necessidades temporárias
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 25.º — Necessidades temporárias
+
+1 - Consideram-se necessidades temporárias as que resultem da não satisfação pelos concursos interno e externo, das variações anuais de serviço docente e as correspondentes à recuperação automática dos horários da mobilidade interna.
+
+2 - (Revogado);
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+###### Artigo 26.º — Ordenação das necessidades temporárias
+
+Para efeitos de necessidades temporárias dos agrupamentos de escolas ou escolas não agrupadas, os docentes são ordenados de acordo com a graduação profissional e na seguinte sequência:
+
+a) Docentes de carreira a quem não é possível atribuir, pelo menos, seis horas de componente letiva;
+
+b) (Revogada);
+
+c) Docentes de carreira vinculados a quadro de zona pedagógica a quem não é possível atribuir, pelo menos, seis horas de componente letiva;
+
+d) Docentes de carreira dos agrupamentos de escolas ou de escolas não agrupadas que pretendam exercer transitoriamente funções docentes noutro agrupamento de escolas ou em escola não agrupada;
+
+e) Candidatos não colocados no concurso externo, bem como candidatos à contratação inicial.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 27.º — Procedimento de colocação
+
+1 - As necessidades temporárias, estruturadas em horários completos ou incompletos, são recolhidas pela Direção-Geral da Administração Escolar mediante proposta do órgão de direção do agrupamento de escolas ou da escola não agrupada.
+
+2 - O procedimento de recolha das necessidades temporárias é definido pelo diretor-geral da Administração Escolar, de forma a garantir a correta utilização dos recursos humanos docentes.
+
+3 - O preenchimento dos horários é realizado através de uma colocação nacional, efetuada pela Direção-Geral da Administração Escolar pelos docentes referidos nas alíneas do artigo anterior, seguindo a ordem nele indicada.
+
+4 - As necessidades que persistam após a colocação referida no número anterior são satisfeitas pela colocação de docentes, pela ordem indicada no artigo anterior, conforme os procedimentos previstos no artigo 37.º
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+#### Secção II — Mobilidade interna
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 28.º — Candidatos
+
+1 - A mobilidade interna destina-se aos candidatos que se encontrem numa das seguintes situações:
+
+a) 1.ª prioridade - docentes de carreira vinculados a agrupamento de escolas ou escolas não agrupadas a quem não é possível atribuir, pelo menos, seis horas de componente letiva;
+
+b) 2.ª prioridade - docentes de carreira vinculados a quadros de zona pedagógica a quem não é possível atribuir, pelo menos, seis horas de componente letiva;
+
+c) (Revogada).
+
+d) 3.ª prioridade - docentes de carreira vinculados a agrupamentos de escolas e escolas não agrupadas do continente que pretendam exercer transitoriamente funções docentes noutro agrupamento de escolas ou escola não agrupada do continente.
+
+2 - Para efeitos da alínea d) do número anterior, os docentes de carreira vinculados a agrupamentos de escolas e escolas não agrupadas das Regiões Autónomas da Madeira e dos Açores são ordenados de acordo com a mesma prioridade aplicada aos docentes de carreira do continente nos respetivos regimes jurídicos de concurso, em condições de reciprocidade.
+
+3 - Para efeitos das alíneas a) e b) do n.º 1, a distribuição do serviço letivo, nos termos da alínea d) do n.º 4 do artigo 20.º do Decreto-Lei n.º 75/2008, de 22 de abril, alterado pelos Decretos-Leis n.os 224/2009, de 11 de setembro, e 137/2012, de 2 de julho, deve abranger em primeiro lugar os docentes de carreira do agrupamento de escolas ou escola não agrupada, até ao preenchimento da componente letiva a que aqueles estão obrigados nos termos dos artigos 77.º e 79.º do ECD.
+
+4 - A colocação de docentes de carreira referidos no n.º 1 mantém-se até ao limite de quatro anos, de modo a garantir a continuidade pedagógica, se no agrupamento de escolas ou escola não agrupada em que o docente foi colocado, até ao final do primeiro período em horário anual, subsistir componente letiva com a duração mínima de seis horas.
+
+5 - Os docentes de carreira dos agrupamentos de escolas ou escolas não agrupadas incluídos na alínea a) do n.º 1 podem regressar à escola de origem quando nesta surja disponibilidade de horário letivo com um mínimo de seis horas e o docente manifeste interesse nesse regresso.
+
+6 - (Revogado.)
+
+7 - Os docentes referidos nas alíneas a) e b) do n.º 1 que não se apresentem ao procedimento previsto na presente secção são sujeitos à aplicação do disposto na alínea b) do artigo 18.º
+
+8 - (Revogado.)
+
+9 - Aos docentes referidos nas alíneas a) e b) do n.º 1 que possuam qualificação profissional para outro grupo de recrutamento, além daquele em que se encontram providos, é dada a faculdade de, também para esse grupo, poderem manifestar preferência, ocupando horário, desde que não existam outros docentes providos nesses grupos de recrutamento, também candidatos a mobilidade interna e abrangidos pelas mesmas alíneas, por colocar e tenham manifestado a mesma preferência.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 29.º — Manifestação de preferências
+
+1 - Sem prejuízo dos números seguintes, para efeitos de colocação na mobilidade interna, os docentes têm de manifestar as suas preferências de acordo com o disposto no artigo 9.º
+
+2 - Considera-se que os professores de carreira de zona pedagógica, cuja candidatura não esgote a totalidade dos agrupamentos de escola ou escolas não agrupadas do âmbito geográfico da zona pedagógica a que se encontram vinculados, manifestam igual preferência por todos os restantes agrupamentos ou escolas não agrupadas dessa mesma zona pedagógica, fazendo-se a colocação por ordem crescente do código de agrupamento de escolas ou escola não agrupada.
+
+3 - Sem prejuízo das preferências manifestadas nos termos do artigo 9.º, quando a candidatura dos docentes de carreira de agrupamentos de escolas ou escolas não agrupadas, incluídos na alínea a) do n.º 1 do artigo anterior, não esgote a totalidade dos agrupamentos de escolas ou escolas não agrupadas do âmbito geográfico do concelho de vinculação, considera-se que manifestam igual preferência por todos os restantes agrupamentos de escolas ou escolas não agrupadas desse mesmo concelho, fazendo-se a colocação por ordem crescente do código de agrupamento de escolas ou escola não agrupada.
+
+4 - Se o lugar de vinculação do docente abrangido pelo número anterior se situar nas áreas dos concelhos de Lisboa e do Porto ou na área dos concelhos enunciados no número seguinte, a colocação faz-se para lugares neles situados, independentemente do acordo do interessado.
+
+5 - Para efeitos do número anterior, consideram-se, relativamente a Lisboa, os concelhos de Amadora, Odivelas, Vila Franca de Xira, Loures, Cascais, Sintra, Oeiras, Almada, Seixal, Barreiro, Moita, Montijo e Alcochete e, relativamente ao Porto, os de Matosinhos, Maia, Gondomar, Valongo e Vila Nova de Gaia.
+
+6 - O processo referido nas alíneas a) e b) do n.º 1 do artigo anterior é desencadeado pelo órgão de direção do agrupamento de escolas ou escola não agrupada, mediante a identificação dos docentes, de acordo com as seguintes regras:
+
+a) Caso o número de voluntários exceda a necessidade, o diretor deve indicar por ordem decrescente da graduação profissional;
+
+b) Na falta de docentes voluntários, deve o diretor indicar por ordem crescente da graduação profissional.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+###### Artigo 30.º — Procedimento
+
+1 - O procedimento da mobilidade interna é aberto anualmente pela Direção-Geral da Administração Escolar pelo prazo de cinco dias úteis e após a publicação do aviso da lista definitiva de colocação dos concursos interno e externo, quando a eles houver lugar.
+
+2 - Os docentes que não forem opositores ao concurso interno devem indicar, para efeitos de graduação e ordenação, os elementos identificados nas alíneas a) a c) do n.º 1 do artigo 7.º
+
+3 - (Revogado);
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+###### Artigo 31.º — Lista da mobilidade interna
+
+1 -  As listas definitivas de exclusão, de colocação dos candidatos e de candidatos não colocados são homologadas pelo diretor-geral da Administração Escolar, sendo as listas publicitadas na página na Internet da Direção-Geral da Administração Escolar, cabendo recurso hierárquico elaborado em formulário eletrónico sem efeito suspensivo, a apresentar no prazo de cinco dias úteis ao membro do Governo competente.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+#### Secção III — Contratação inicial
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 32.º — Âmbito de aplicação
+
+O disposto na presente secção é também aplicável aos agrupamentos de escolas ou escolas não agrupadas abrangidos pelo Programa Territórios Educativos de Intervenção Prioritária e/ou com contrato de autonomia.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2016 - Diário da República n.º 46/2016, Série I de 2016-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2016-73788169), em vigor a partir de 2016-03-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 33.º — Contratação inicial
+
+1 - As necessidades temporárias não satisfeitas por docentes de carreira são preenchidas por recrutamento de indivíduos detentores de habilitação profissional para a docência, mediante celebração de contrato de trabalho a termo resolutivo, nos termos do número seguinte.
+
+2 - A celebração de contrato a termo resolutivo só é possível nas situações identificadas no Regime dos Contratos de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de setembro.
+
+3 - Para o recrutamento previsto no número anterior, a Direção-Geral da Administração Escolar abre concurso pelo prazo de cinco dias úteis, após a data da publicação do aviso que publicita a lista definitiva de colocação do concurso externo, quando a este houver lugar.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 34.º — Procedimento
+
+1 - Os candidatos não colocados no concurso externo, que pretendam ser opositores ao concurso de contratação inicial, declaram essa intenção na candidatura manifestando as suas preferências nos termos do artigo 9.º
+
+2 - Os candidatos que se apresentem ao concurso de contratação inicial formalizam a sua candidatura de acordo com o estabelecido no aviso de abertura, nos termos do artigo 7.º
+
+3 - Os candidatos ao concurso externo que não obtiveram colocação mantêm a posição relativa de ordenação da lista dos candidatos não colocados naquele concurso.
+
+4 - Os candidatos na situação de licença sem vencimento de longa duração podem ser opositores ao concurso externo e aos concursos de contratação.
+
+5 - A ordenação dos candidatos à contratação inicial a que se refere o n.º 2 é feita de acordo com as prioridades fixadas para o concurso externo, com a respetiva graduação nos termos do artigo 11.º, e tendo em conta as preferências indicadas.
+
+6 - Os verbetes, contendo a transcrição informática das preferências manifestadas, são disponibilizados aos candidatos por via eletrónica.
+
+7 - O disposto nos n.os 2 a 7 do artigo 14.º é aplicável, com as devidas adaptações, a este concurso.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 35.º — Listas de contratação inicial
+
+1 - A lista de colocação para efeitos da contratação inicial é homologada pelo diretor-geral da Administração Escolar.
+
+2 - Das listas de colocação, ordenação e exclusão, publicadas na página da Internet da Direção-Geral da Administração Escolar, pode ser interposto recurso hierárquico, elaborado em formulário eletrónico, sem efeito suspensivo, a apresentar no prazo de cinco dias úteis.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+#### Secção IV — Reserva de recrutamento
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 36.º — Constituição de reserva
+
+1 - O disposto na presente secção é também aplicável aos agrupamentos de escolas ou escolas não agrupadas abrangidos pelo Programa Territórios Educativos de Intervenção Prioritária e/ou com contrato de autonomia.
+
+2 - Os candidatos não colocados nas alíneas a) e b) do n.º 1 do artigo 28.º e no n.º 1 do artigo 33.º integram a reserva de recrutamento, com vista à satisfação de necessidades surgidas após a mobilidade interna e a contratação inicial.
+
+3 - Aos docentes de carreira colocados ao abrigo do concurso de reserva de recrutamento é aplicado o disposto no n.º 4 do artigo 28.º
+
+4 - Os candidatos à contratação de escola, quando colocados, são retirados da reserva de recrutamento, sem prejuízo do disposto no n.º 20 do artigo 39.º
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2016 - Diário da República n.º 46/2016, Série I de 2016-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2016-73788169), em vigor a partir de 2016-03-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 37.º — Procedimento
+
+1 - Para a satisfação das necessidades referidas no artigo anterior, os agrupamentos de escolas ou escolas não agrupadas acedem a uma aplicação informática disponibilizada pela Direção-Geral da Administração Escolar, introduzindo o respetivo grupo de recrutamento, o número de horas do horário e a duração prevista da colocação.
+
+2 - Os candidatos são selecionados respeitando as alíneas a), c) e e) do artigo 26.º e a ordenação das suas preferências manifestadas nos termos do presente decreto-lei.
+
+3 - No âmbito da reserva de recrutamento, os docentes referidos na alínea a) do n.º 1 do artigo 28.º podem ser colocados em horários completos e incompletos, de duração igual ou inferior a um ano escolar, até ao final do correspondente ano letivo.
+
+4 - A colocação de candidatos à contratação através do procedimento previsto neste artigo realiza-se até ao final do ano letivo.
+
+5 - Os candidatos referidos nos n.os 3 e 4 cuja colocação caduque regressam à reserva de recrutamento para efeitos de nova colocação.
+
+6 - O regresso dos docentes contratados fica sujeito à indicação por parte do agrupamento de escolas ou escola não agrupada do fim da colocação e à manifestação de interesse dos candidatos em voltarem a ser contratados.
+
+7 - Os docentes de carreira que regressam à reserva de recrutamento mantêm-se, até nova colocação, no agrupamento de escolas ou escola não agrupada da última colocação.
+
+8 - Os candidatos são informados da sua colocação através da publicitação de listas na página da Internet da Direção-Geral da Administração Escolar.
+
+9 - A aceitação da colocação pelo candidato faz-se por via de aplicação informática no prazo de 48 horas, correspondentes aos dois primeiros dias úteis após a publicitação da colocação, assim como a respetiva apresentação no agrupamento de escolas ou escola não agrupada.
+
+10 - (Revogado.)
+
+11 - Na ausência de aceitação ou apresentação considera-se a colocação sem efeito, aplicando-se o disposto no artigo 18.º, com as necessárias adaptações.
+
+12 - Da colocação pode ser interposto recurso hierárquico, elaborado em formulário eletrónico, sem efeito suspensivo, a apresentar no prazo de cinco dias úteis ao membro do Governo competente.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2016 - Diário da República n.º 46/2016, Série I de 2016-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2016-73788169), em vigor a partir de 2016-03-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+#### Secção V — Contratação de escola
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 38.º — Objeto
+
+1 - As necessidades temporárias de serviço docente e de formação em áreas técnicas específicas podem ser asseguradas pelos agrupamentos de escolas ou escolas não agrupadas, mediante contratos de trabalho a termo resolutivo a celebrar com pessoal docente ou pessoal técnico especializado.
+
+2 - Para efeitos do número anterior, consideram-se necessidades temporárias:
+
+a) [Revogada];
+
+b) Os horários inferiores a oito horas letivas, desde que não sejam utilizados para completamento;
+
+c) As resultantes de duas não colocações na reserva de recrutamento, referentes ao mesmo horário, independentemente do motivo;
+
+d) As resultantes de duas não aceitações, referentes ao mesmo horário, nas colocações da reserva de recrutamento.
+
+3 - Consideram-se ainda necessidades temporárias as necessidades de serviço a prestar por formadores ou técnicos especializados, nas áreas de natureza profissional, tecnológica, vocacional ou artística dos ensinos básico e secundário que não se enquadrem nos grupos de recrutamento a que se refere o Decreto-Lei n.º 27/2006, de 10 de fevereiro.
+
+4 - Aos docentes colocados ao abrigo da contratação de escola é aplicado o disposto no artigo 42.º
+
+5 - (Revogado).
+
+6 - (Revogado.)
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2016 - Diário da República n.º 46/2016, Série I de 2016-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2016-73788169), em vigor a partir de 2016-03-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 39.º — Abertura do procedimento e critérios de seleção
+
+1 - A celebração de contrato de trabalho é precedida de um procedimento de seleção e recrutamento que obedece às disposições constantes dos números seguintes.
+
+2 - O concurso de contratação de escola realiza-se através de uma aplicação informática disponibilizada para o efeito pela Direção-Geral da Administração Escolar.
+
+3 - O procedimento de seleção é aberto pelo órgão de direção do agrupamento de escolas ou escola não agrupada, pelo prazo de três dias úteis.
+
+4 - A oferta de contratação de escola é também divulgada na página da Internet do respetivo agrupamento de escolas ou escola não agrupada.
+
+5 - A publicitação referida no número anterior inclui os seguintes elementos:
+
+a) Identificação da modalidade de contrato de trabalho a termo resolutivo;
+
+b) Identificação da duração do contrato;
+
+c) Identificação do local de trabalho;
+
+d) Caracterização das funções;
+
+e) Requisitos de admissão e critérios de seleção.
+
+6 - São critérios objetivos de seleção, a seguir obrigatoriamente, para os grupos de recrutamento previstos no Decreto-Lei n.º 27/2006, de 10 de fevereiro, e no Decreto-Lei n.º 176/2014, de 12 de dezembro:
+
+a) A graduação profissional nos termos do n.º 1 do artigo 11.º;
+
+b) (Revogada.)
+
+c) Para efeitos de desempate é utilizado o previsto no n.º 2 do artigo 12.º
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - Os candidatos são ordenados de acordo com as alíneas a) e c) do n.º 6, sendo a lista divulgada na página eletrónica do agrupamento de escolas ou escola não agrupada.
+
+11 - Esgotada a possibilidade de colocação de docentes profissionalizados, pode a escola, a título excecional, selecionar docentes com habilitação própria, seguindo os critérios de seleção identificados no n.º 6, substituindo a graduação profissional pela classificação académica, acrescida de 0,5 pontos por cada ano escolar completo, arredondada às milésimas, nos termos da subalínea iii) da alínea b) do n.º 1 do artigo 11.º
+
+12 - São critérios objetivos de seleção, a seguir obrigatoriamente, para os técnicos especializados:
+
+a) A avaliação do portfólio com uma ponderação de 30 %;
+
+b) Número de anos de experiência profissional na área, com uma ponderação de 35 %;
+
+c) Entrevista de avaliação de competências com uma ponderação de 35 %, aplicável apenas aos primeiros 10 candidatos, a convocar por tranches sucessivas, por ordem decrescente de classificação conjunta das alíneas anteriores.
+
+13 - Nos casos referidos no número anterior, as ponderações a aplicar a cada critério devem constar na aplicação eletrónica, para conhecimento dos candidatos.
+
+14 - Ao disposto no n.º 12 aplicam-se as normas constantes na Portaria n.º 83-A/2009, de 22 de janeiro, alterada pela Portaria n.º 145-A/2011, de 6 de abril.
+
+15 - Terminado o procedimento de seleção, o órgão de direção aprova e publicita a lista final ordenada do concurso na página da Internet do respetivo agrupamento de escolas ou escola não agrupada e em local visível da escola ou da sede do agrupamento.
+
+16 - A seleção é transmitida aos candidatos através da aplicação eletrónica da Direção-Geral da Administração Escolar.
+
+17 - A aceitação da colocação pelo candidato efetua-se por via da aplicação referida no número anterior, até ao 1.º dia útil seguinte ao da comunicação da seleção.
+
+18 - A apresentação é realizada no agrupamento de escolas ou escola não agrupada até ao 2.º dia útil seguinte ao da comunicação da colocação.
+
+19 - O não cumprimento dos prazos referidos nos números anteriores determina a anulação da colocação e a aplicação do disposto na alínea c) do artigo 18.º
+
+20 - Os candidatos colocados ao abrigo da contratação de escola que tenham sido opositores à reserva de recrutamento e cuja colocação caduque podem regressar ao concurso referido no artigo 36.º para efeitos de nova colocação.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2016 - Diário da República n.º 46/2016, Série I de 2016-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2016-73788169), em vigor a partir de 2016-03-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 40.º — Bolsa de contratação de escola
+
+1 - Os agrupamentos de escolas ou escolas não agrupadas com contrato de autonomia e a escolas portuguesas no estrangeiro constituem, através dos procedimentos da contratação de escola, uma bolsa de contratação.
+
+2 - Terminado o procedimento de seleção, o órgão de direção das escolas aprova e publicita a lista ordenada do concurso na página na Internet do respetivo agrupamento de escolas ou escola não agrupada, em local visível da escola ou da sede do agrupamento.
+
+3 - Os candidatos que constam na lista graduada integram a bolsa de contratação daquela escola ou agrupamento de escolas, com vista à satisfação das necessidades temporárias surgidas ao longo daquele ano escolar através da celebração de contratos a termo resolutivo, nos termos do n.º 2 do artigo 33.º
+
+4 - A bolsa de contratação tem a duração de um ano letivo.
+
+5 - A satisfação das necessidades docentes é feita prioritariamente pelos docentes de carreira e, subsidiariamente, pelos docentes que se encontram na bolsa de contratação, por ordem decrescente da lista graduada.
+
+6 - A colocação dos docentes constantes na bolsa de contratação de escola é comunicada aos candidatos através da aplicação eletrónica da Direção-Geral da Administração Escolar.
+
+7 - Os candidatos cuja colocação caduque regressam à bolsa de contratação para efeitos de nova colocação.
+
+8 - O regresso à bolsa de contratação fica sujeito à manifestação do interesse do próprio.
+
+9 - A abertura dos procedimentos destinados à constituição da bolsa de contratação é feita durante o mês de julho.
+
+10 - À bolsa de contratação de escola é aplicado o disposto nos n.os 15 a 19 do artigo anterior.
+
+11 - Para efeitos do disposto no n.º 2 do artigo 42.º, releva o contrato que resulta da colocação na primeira bolsa de contratação de escola, em horário completo e com termo a 31 de agosto.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2016 - Diário da República n.º 46/2016, Série I de 2016-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2016-73788169), em vigor a partir de 2016-03-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 41.º — Documentos
+
+1 - No momento da celebração do contrato, o docente selecionado deve apresentar prova documental dos seguintes dados:
+
+a) Habilitações profissionalmente exigidas para a docência, no nível de ensino e grupo de recrutamento a que se candidata;
+
+b) Declaração de robustez física, perfil psíquico e características de personalidade indispensáveis ao exercício da função e vacinação obrigatória;
+
+c) [Revogada];
+
+d)[Revogada];
+
+2 - O formador ou técnico especializado selecionado está dispensado da apresentação dos elementos referidos na alínea a) do número anterior, sendo obrigado a apresentar prova documental das habilitações aplicáveis ao seu domínio de especialização ou requisitos específicos que a entidade competente vier a definir.
+
+3 - Ao presente artigo é aplicável o disposto no n.º 4 do artigo 7.º, com as necessárias adaptações.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2016 - Diário da República n.º 46/2016, Série I de 2016-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2016-73788169), em vigor a partir de 2016-03-08
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 146/2013 - Diário da República n.º 204/2013, Série I de 2013-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2013-502866), em vigor a partir de 2013-10-23
+
+#### Secção VI — Contrato
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 42.º — Contrato a termo resolutivo
+
+1 - O contrato de trabalho a termo resolutivo produz efeitos a partir do 1.º dia útil imediatamente a seguir ao da aceitação, e tem a duração mínima de 30 dias e máxima até ao final do ano escolar, incluindo período de férias.
+
+2 - A sucessão de contratos de trabalho a termo resolutivo celebrados com o Ministério da Educação na sequência de colocação obtida em horário anual e completo, no mesmo grupo de recrutamento ou em grupos de recrutamento diferentes, não pode exceder o limite de três anos ou duas renovações.
+
+3 - Os contratos celebrados nos termos do número anterior correspondem ao intervalo definido no artigo 42.º-A, pelo que, para efeitos de aplicação do presente artigo, não se consideram os completamentos e aditamentos ao horário de colocação.
+
+4 - A renovação do contrato a termo resolutivo em horário anual e completo depende do preenchimento cumulativo dos seguintes requisitos:
+
+a) Inexistência de docentes de carreira no grupo de recrutamento a concurso e que tenham manifestado preferência por esse agrupamento de escolas ou escola não agrupada;
+
+b) Manutenção do horário letivo anual e completo, apurado à data em que a necessidade é declarada;
+
+c) Avaliação de desempenho com a classificação mínima de Bom;
+
+d) Concordância expressa das partes.
+
+5 - A renovação do contrato é sujeita à forma escrita.
+
+6 - A verificação dos requisitos do n.º 4 é efetuada num único momento, através da plataforma eletrónica da Direção-Geral da Administração Escolar.
+
+7 - A renovação dos contratos é sempre subsidiária à satisfação das necessidades por docentes da carreira.
+
+8 - Não há lugar à renovação dos contratos nos anos escolares em que se realizam colocações decorrentes do concurso interno.
+
+9 - O contrato destinado à lecionação das disciplinas ou módulos de uma disciplina de natureza profissional, tecnológica, vocacional ou artística dos ensinos básico e secundário vigora apenas pelo período de duração do serviço letivo distribuído e dos respetivos procedimentos de avaliação.
+
+10 - Ao contrato referido no número anterior aplica-se o disposto no artigo 76.º do ECD, incluindo as atividades administrativas inerentes à avaliação, a prestação de serviço especializado em estruturas de apoio educativo no âmbito do respetivo agrupamento de escolas ou escola não agrupada, integrada na componente não letiva.
+
+11 - O contrato destinado à substituição temporária de docente vigora pelo tempo necessário à sua substituição ou até ao 3.º dia útil a contar do dia imediato ao da apresentação do docente substituído, sem prejuízo do disposto no número seguinte.
+
+12 - No caso de o docente substituído se apresentar durante o período de realização dos trabalhos de avaliação, o contrato mantém-se em vigor até à sua respetiva conclusão.
+
+13 - A verificação do limite indicado no n.º 2 determina a abertura de vaga no grupo de recrutamento e no quadro de zona pedagógica onde se situa o agrupamento de escolas ou escola não agrupada em que o docente se encontra a lecionar.
+
+14 - Para efeitos do disposto no número anterior, só releva o tempo de serviço prestado em estabelecimentos de educação ou ensino da rede do Ministério da Educação, em grupo de recrutamento, com qualificação profissional e componente letiva.
+
+15 - Os contratos de trabalho e as renovações são outorgados pelo órgão de direção da escola ou agrupamento de escolas em representação do Estado.
+
+16 - Os modelos destinados à celebração do contrato e à renovação são aprovados pela Direção-Geral da Administração Escolar, estando disponibilizados na respetiva aplicação informática.
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121) A renovação do contrato a termo resolutivo prevista no n.º 3 do artigo 42.º do Decreto-Lei n.º 132/2012, de 27 de junho, é aplicada a partir de 1 de setembro de 2014.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 315.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2019-03-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 42.º-A — Horário anual
+
+1 - Para efeitos do disposto no presente decreto-lei, considera-se 'horário anual' aquele que decorre da colocação do concurso de contratação inicial.
+
+2 - É considerado 'equiparado a horário anual' aquele que corresponde à colocação obtida através da reserva de recrutamento, até ao último dia estabelecido pelo calendário escolar para o início das atividades educativas ou letivas, e o fim do ano escolar.
+
+3 - A qualificação estabelecida no número anterior produz os mesmos efeitos que a estabelecida no n.º 1, com exceção dos remuneratórios.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+###### Artigo 43.º — Retribuição
+
+1 - Os docentes contratados a termo resolutivo são remunerados pelo índice 167 da escala indiciária constante em anexo ao ECD, sendo a retribuição mensal respetiva calculada na proporção do período normal de trabalho semanal.
+
+2 - Completados 1461 dias de serviço efetivo em horário anual, completo e sucessivo o docente contratado passa a ser remunerado pelo índice 188, da mesma escala indiciária.
+
+3 - A transição ao nível remuneratório 188, além do tempo de serviço, é sujeita à verificação cumulativa dos seguintes requisitos:
+
+a) Avaliação anual de desempenho com a menção mínima de Bom;
+
+b) Frequência, com aproveitamento, de formação contínua no mínimo de 50 horas.
+
+4 - A contagem do tempo de serviço é sujeita às regras gerais aplicadas à Administração Pública em matéria de contagem de tempo para efeitos da carreira.
+
+5 - Aos técnicos especiais é aplicada a tabela do anexo ao presente diploma, que dele faz parte integrante, sendo a retribuição mensal respetiva calculada na proporção do período normal de trabalho semanal.
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121) O disposto no artigo 43.º do Decreto-Lei n.º 132/2012, de 27 de junho, produz efeitos a partir do dia 1 de setembro de 2014.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 44.º — Período experimental e denúncia de contrato
+
+1 - O período experimental é cumprido no primeiro contrato celebrado em cada ano escolar.
+
+2 - Ao período experimental aplica-se o regime da lei geral destinado aos contratos de trabalho em funções públicas.
+
+3 - A denúncia do contrato pelo candidato no decurso do período experimental impede o seu regresso à reserva de recrutamento, bem como outra colocação no mesmo agrupamento de escolas ou escola não agrupada nesse ano escolar.
+
+4 - A denúncia do contrato pelo candidato fora do período experimental impede a celebração de qualquer outro contrato ao abrigo do presente diploma no mesmo ano escolar.
+
+5 - Ao período experimental não é aplicado o disposto no artigo 288.º do Regime do Contrato de Trabalho em Funções Públicas.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+### Capítulo IV — Situações especiais
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+#### Secção I — Licença sem vencimento de longa duração
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 45.º — Docentes em gozo de licença sem vencimento de longa duração
+
+1 - Os docentes que se encontram em licença sem vencimento de longa duração podem, nos termos do artigo 107.º do ECD, requerer até final do mês de setembro do ano anterior o regresso ao lugar de origem.
+
+2 - A autorização só é concedida se o agrupamento de escolas ou escola não agrupada dispuser de vaga e de horário nos termos dos artigos 77.º e 79.º do ECD.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+#### Secção II — Permutas
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 46.º — Âmbito de aplicação
+
+1 - Aos docentes colocados nos concursos previstos nas alíneas a) e b) do n.º 1 do artigo 5.º e nas alíneas a) e b) do n.º 1 do artigo 28.º pode ser autorizada a permuta, desde que os permutantes se encontrem em exercício efetivo de funções no mesmo grupo de recrutamento e com igual duração e o mesmo número de horas de componente letiva.
+
+2 - Os docentes colocados no concurso de contratação inicial podem permutar entre si, desde que se encontrem em exercício efetivo de funções no mesmo grupo de recrutamento, com horário anual e completo.
+
+3 - A permuta autorizada entre docentes colocados nos concursos interno e externo vigora obrigatoriamente pelo período correspondente a quatro anos escolares, sem prejuízo da perda da componente letiva que ocorra no seu período de duração.
+
+4 - O disposto na parte final do número anterior obriga a que o docente que perde a componente letiva seja opositor ao disposto na alínea a) do n.º 1 do artigo 28.º
+
+5 - A permuta dos docentes colocados no procedimento de mobilidade interna e no concurso de contratação inicial vigora pelo período correspondente às respetivas colocações, sem prejuízo de cada um dos permutantes ser obrigado a permanecer no lugar para que permutou pelo período correspondente à sua colocação em plurianualidade nos termos do presente diploma.
+
+6 - A colocação em permuta reporta os seus efeitos à data de início do ano letivo.
+
+7 - Verificado o decurso do prazo previsto no n.º 3, a permuta dos docentes de carreira consolida-se, caso não haja oposição declarada pelos permutantes e desde que ambos permaneçam em exercício efetivo de funções.
+
+8 - As docentes que em resultado de gravidez de risco pretendam mudar de estabelecimento devem primeiro esgotar a possibilidade de permutar antes de serem deslocalizadas para outro estabelecimento mais próximo do local de assistência.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+###### Artigo 47.º — Procedimento da permuta
+
+1 - O pedido de permuta, com o acordo expresso dos interessados, deve ser apresentado ao diretor-geral da Administração Escolar no prazo de 10 dias, contados a partir da data de publicação das listas definitivas de colocação dos concursos referidos nos n.os 1 e 2 do artigo anterior ou da comunicação da decisão de colocação em mobilidade prevista no n.º 5 do referido artigo.
+
+2 - O requerimento de permuta é instruído com declaração de consentimento dos diretores dos agrupamentos de escolas ou escolas não agrupadas permutadas.
+
+3 - A decisão sobre o pedido de permuta deverá ser proferida pelo diretor-geral da Administração Escolar no prazo de cinco dias, contados a partir da data de receção do requerimento.
+
+4 - Se a decisão não for proferida no prazo estabelecido no número anterior, a pretensão dos requerentes considera-se tacitamente deferida.
+
+5 - O deferimento dos pedidos é comunicado pelo diretor-geral da Administração Escolar aos diretores dos agrupamentos de escolas e escolas não agrupadas dos docentes permutantes.
+
+6 - Não é admitida a desistência da permuta após o seu deferimento.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+#### Secção III — Mobilidade por iniciativa da Administração
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Aditado pelo/a Artigo 43.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+###### Artigo 47.º-A — Natureza
+
+A presente secção regula a mobilidade prevista no n.º 3 do artigo 64.º do ECD.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Aditado pelo/a Artigo 42.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+###### Artigo 47.º-B — Âmbito de aplicação
+
+1 - Os procedimentos previstos na presente secção são aplicados aos docentes dos quadros de agrupamento ou de escola não agrupada ou providos em quadro de zona pedagógica sem componente letiva.
+
+2 - Cabe ao diretor-geral da Administração Escolar efetivar a presente mobilidade.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Aditado pelo/a Artigo 42.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+###### Artigo 47.º-C — Âmbito geográfico
+
+1 - A mobilidade dos docentes de quadro de agrupamento ou de escola não agrupada ocorre dentro do espaço geográfico correspondente ao quadro de zona pedagógica onde se encontra situado o estabelecimento de ensino ou de educação de provimento.
+
+2 - A mobilidade dos docentes de quadro de zona pedagógica, além do seu quadro de colocação, ocorre dentro do segundo quadro de zona pedagógica identificado no n.º 4 do artigo 9.º do presente decreto-lei.
+
+3 - A mobilidade pode ter a duração de quatro anos, desde que o docente mantenha a componente letiva.
+
+4 - Sem prejuízo do disposto no número anterior, os docentes podem anualmente ser opositores à mobilidade interna na primeira prioridade, considerando o disposto no n.º 4 do artigo 28.º
+
+5 - Os docentes identificados no n.º 1 podem requerer o regresso ao estabelecimento de origem, desde que se verifique a existência de horário com componente letiva.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Aditado pelo/a Artigo 42.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+###### Artigo 47.º-D — Identificação dos docentes
+
+A identificação dos docentes a quem se aplicam os procedimentos da mobilidade obedece às seguintes regras:
+
+a) Havendo no agrupamento de escolas ou escola não agrupada mais docentes interessados na mobilidade que os necessários, os candidatos são identificados por ordem decrescente da graduação profissional;
+
+b) Havendo no agrupamento de escolas ou escola não agrupada um número insuficiente de docentes interessados na mobilidade, os docentes são identificados por ordem crescente da sua graduação profissional.
+
+c) Na identificação dos docentes de quadro de zona pedagógica aplica-se o disposto nas alíneas anteriores, considerando a lista de graduação por quadro de zona pedagógica.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Aditado pelo/a Artigo 42.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+###### Artigo 47.º-E — Manifestação de preferências
+
+1 - Para efeitos do presente procedimento, podem os docentes manifestar preferências de acordo com o disposto no n.º 2 do artigo 8.º quanto aos grupos para os quais possuem habilitação profissional e nos termos do artigo 9.º, sem prejuízo do disposto nos n.os 1 e 2 do artigo 47.º-C.
+
+2 - Após a aplicação dos procedimentos previstos na presente secção e verificadas as condições para a mobilidade, pode a Administração Escolar aplicar o disposto no artigo 61.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66/2012, de 31 de dezembro, e 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 47/2013, de 5 de abril.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Aditado pelo/a Artigo 42.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+###### Artigo 47.º-F — Procedimentos
+
+Os procedimentos destinados à colocação em mobilidade são definidos em aviso de abertura a publicitar na página eletrónica da Administração Escolar.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+> Aditado pelo/a Artigo 42.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+#### Secção IV — Requalificação
+
+> Nota: [Artigo 44.º, Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160) O regime de requalificação, na redação dada pela Lei n.º 80/2013, de 28 de novembro, é aplicado aos docentes a partir do ano escolar de 2014-2015.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Aditado pelo/a Artigo 43.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+###### Artigo 47.º-G — Requalificação
+
+1 - Sem prejuízo do disposto nos artigos anteriores, o sistema de requalificação previsto no artigo 64.º-A do ECD é aplicado aos docentes de carreira que não obtenham colocação através do concurso da mobilidade interna até 31 de janeiro do ano letivo em curso.
+
+2 - Cabe ao docente que se encontra em situação de requalificação manifestar interesse em se manter na lista de não colocados para efeitos de procedimentos concursais destinados à satisfação de necessidades temporárias até ao final do ano letivo em curso.
+
+3 - Os docentes que se encontram em situação de requalificação à data de abertura do concurso interno ou do concurso destinado à satisfação de necessidades temporárias são opositores na 1.ª prioridade nos termos do presente decreto-lei.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 12/2016 - Diário da República n.º 82/2016, Série I de 2016-04-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2016-74277007), em vigor a partir de 2016-04-29, produz efeitos a partir de 2016-01-29
+
+> Aditado pelo/a Artigo 42.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+###### Artigo 47.º-H — Contagem do prazo
+
+1 - A atribuição de horário letivo durante, pelo menos, 90 dias úteis consecutivos interrompe o prazo para efeitos de requalificação.
+
+2 - Para efeitos do disposto no número anterior, é considerado o período letivo referido no n.º 4 do artigo 28.º
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 12/2016 - Diário da República n.º 82/2016, Série I de 2016-04-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2016-74277007), em vigor a partir de 2016-04-29, produz efeitos a partir de 2016-01-29
+
+> Aditado pelo/a Artigo 42.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+###### Artigo 47.º-I — Regime supletivo
+
+Em tudo o que não estiver previsto na presente secção, aplica-se o regime jurídico da requalificação de trabalhadores em funções públicas.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 2.º do/a [Lei n.º 12/2016 - Diário da República n.º 82/2016, Série I de 2016-04-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2016-74277007), em vigor a partir de 2016-04-29, produz efeitos a partir de 2016-01-29
+
+> Aditado pelo/a Artigo 42.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+#### Secção V — Normas transitórias
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01
+
+###### Artigo 48.º — Consolidação da mobilidade
+
+Considerando o disposto no artigo 64.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterado pelo artigo 35.º da Lei n.º 64-B/2011, de 30 de dezembro, é consolidada a mobilidade dos docentes portadores de deficiência visual total, amblíopes ou que se deslocam em cadeira de rodas desde que satisfaçam os seguintes requisitos:
+
+a) O estabelecimento onde se encontram no exercício das suas funções possua as condições físicas e materiais que garantam o exercício de funções letivas;
+
+b) O docente tenha no presente ano componente letiva não inferior a seis horas e seja garantida a sua continuidade;
+
+c) Seja requerida pelo docente.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+###### Artigo 49.º — Situações específicas de graduação profissional
+
+1 - Os docentes de carreira com formação inicial conferente do grau académico de bacharelato que, complementarmente à formação profissional inicial, tenham concluído um dos cursos identificados nos despachos referidos nos n.os 2 e 3 do artigo 55.º do ECD até à entrada em vigor do Decreto-Lei n.º 15/2007, de 19 de janeiro, podem optar, para efeitos de graduação profissional, entre a classificação profissional relativa à formação inicial ou a classificação conjunta da formação inicial e daquele curso.
+
+2 - Aos docentes de carreira com formação especializada em educação especial aplica-se o disposto no n.º 4 do artigo 11.º
+
+3 - Para efeito do disposto no n.º 1 e sempre que não tenha sido atribuída classificação final ponderada, esta é determinada através da fórmula seguinte, cujo quociente é arredondado às milésimas:
+
+(3CP + 2C)/5
+
+sendo que CP corresponde à classificação profissional, obtida na formação inicial e C corresponde à classificação obtida no curso a que se refere o n.º 1 do presente artigo.
+
+4 - A graduação profissional dos professores de carreira com nomeação definitiva que adquiriram a categoria de efetivo ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 150-A/85, de 8 de maio, na redação dada pela Lei n.º 8/86, de 15 de abril, que não sejam profissionalizados, é determinada pelo resultado da soma, com arredondamento às milésimas, da classificação académica, expressa na escala de 0 a 20, e com o número de casas decimais igual ao constante no documento comprovativo, com o resultado da divisão por 365, com arredondamento às milésimas, do número de dias de serviço docente ou equiparado avaliado com menção de Bom contados a partir do dia 1 de setembro de 1985 até ao dia 31 de agosto imediatamente anterior ao concurso.
+
+5 - A graduação profissional dos professores dispensados da profissionalização em serviço ao abrigo dos respetivos despachos publicados no Diário da República é determinada nos termos seguintes:
+
+a) Pelo resultado da soma, com arredondamento às milésimas, da classificação académica expressa na escala de 0 a 20, e com o número de casas decimais igual ao constante no documento comprovativo;
+
+b) Com o resultado da divisão por 365, com arredondamento às milésimas, do resultado da soma:
+
+i) Do número de dias de serviço docente ou equiparado, contado a partir do dia 1 de setembro do ano civil em que o docente obteve a dispensa da profissionalização, para o grupo de docência a que é opositor, até ao dia 31 de agosto do ano imediatamente anterior ao da data da abertura do concurso;
+
+ii) Com o número de dias de serviço docente ou equiparado prestado anteriormente à obtenção da dispensa da profissionalização, ponderado pelo fator 0,5, com arredondamento às milésimas.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+### Capítulo V — Disposições finais
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 50.º — Autorização para a celebração de contratos a termo resolutivo
+
+A contratação de pessoal docente em regime de contrato de trabalho a termo resolutivo depende de despacho de autorização dos membros do Governo responsáveis pelas áreas das finanças e da educação que fixa a quota anual de contratos a celebrar.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 50.º-A — Consolidação da mobilidade
+
+Pode ser consolidada a mobilidade dos docentes portadores de deficiência visual total, amblíopes ou portadores de deficiência motora, de carácter permanente e que implique a locomoção em cadeira de rodas, desde que satisfaçam os seguintes requisitos:
+
+a) O estabelecimento onde se encontram no exercício das suas funções possua os recursos físicos e os instrumentos de trabalho que garantam o exercício de funções letivas;
+
+b) O docente tenha componente letiva não inferior a seis horas e seja garantida a sua continuidade;
+
+c) Seja requerida pelo docente.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série I de 2017-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298), em vigor a partir de 2017-03-16
+
+###### Artigo 51.º — Falsas declarações
+
+1 - Sem prejuízo dos procedimentos disciplinar e criminal a que haja lugar, às falsas declarações e confirmações dos elementos necessários à instrução dos procedimentos previstos no presente diploma é aplicado o disposto no artigo 18.º
+
+2 - As confirmações indevidas dos elementos constantes da candidatura por parte das entidades intervenientes fazem incorrer os seus agentes em procedimento disciplinar.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 52.º — Educação moral e religiosa católica
+
+Mantém-se em vigor o Decreto-Lei n.º 407/89, de 16 de novembro, considerando que todas as remissões feitas para o Decreto-Lei n.º 18/88, de 21 de janeiro, passam a ser para as disposições correspondentes do presente diploma.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26
+
+###### Artigo 53.º — Legislação subsidiária
+
+Em tudo o que não estiver regulado no presente diploma é aplicável o regime geral de recrutamento dos trabalhadores que exercem funções públicas e o regime do contrato de trabalho em funções públicas.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 54.º — Norma transitória
+
+Para efeitos de prosseguimento do concurso de professores para o ano escolar de 2012-2013, a referência aos candidatos à contratação inicial prevista na alínea e) do artigo 26.º do presente diploma considera-se feita aos candidatos à contratação anual abrangidos pela alínea f) do artigo 38.º-A do Decreto-Lei n.º 20/2006, de 31 de janeiro, na redação que lhe foi conferida pelo Decreto-Lei n.º 51/2009, de 27 de fevereiro.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 55.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 20/2006, de 31 de janeiro, alterado pelos Decretos-Leis n.os 35/2007, de 15 de fevereiro, 51/2009, de 27 de fevereiro, e 270/2009, de 30 de setembro;
+
+b) O Decreto-Lei n.º 35/2007, de 15 de fevereiro;
+
+c) A Portaria n.º 622-A/92, de 30 de junho.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+###### Artigo 56.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+Visto e aprovado em Conselho de Ministros de 3 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.
+
+Promulgado em 18 de junho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 21 de junho de 2012.
+
+Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+## Anexo — (a que se refere o artigo 43.º)
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 32-A/2023 - Diário da República n.º 88/2023, 1º Suplemento, Série I de 2023-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), em vigor a partir de 2023-05-09
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 83-A/2014 - Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), em vigor a partir de 2014-05-26

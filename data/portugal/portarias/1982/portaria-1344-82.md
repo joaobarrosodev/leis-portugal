@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:626782:por
+title: Portaria n.º 1344/82
+short_title: null
+summary: Aprova o quadro de pessoal do Instituto do Comércio Externo de Portugal (ICEP)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Indústria, Energia e Exportação e da Reforma Administrativa
+proposing_entity: null
+official_number: 1344/82
+official_date: null
+publication_date: '1982-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 301/1982, 3º Suplemento, Série I de 1982-12-31
+  number: '301'
+  series: I
+  supplement: null
+  pages: 4326-(39) a 4326-(40)
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/12/30103/00390040.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '626782'
+  dre_path: /dr/detalhe/portaria/1344-1982-626782
+  internal: pt:dre:626782:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1344-1982-626782
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1344-1982-626782
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 48fdecb248380e3d20585f864b709e743c32243991c24c34def5203a266826ce
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:08:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ICEP
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:373421:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:373421:por
+  label: "Alargado o quadro de pessoal aprovado presente diploma, pela PORT.697/84.08.09.1984.PCM, DR.IS [209] de 08.09.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/697-1984-373421
+  date: '1984-09-08'
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607335:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:08:50Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1344/82
+
+de 31 de Dezembro
+
+Publicado o [Decreto-Lei n.º 115/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1982-607335), de 14 de Abril, que cria o Instituto do Comércio Externo de Portugal, por abreviatura ICEP, e estabelece a sua organização, torna-se necessário fixar os seus quadros de pessoal.
+
+Nesta fixação não pode deixar de se fazer reflectir o incremento que se pretende dar à acção do ICEP junto da actividade exportadora, à integração no quadro dos actuais delegados no estrangeiro, nos termos do artigo 37.º do referido decreto-lei, e a necessária correcção dos desequilíbrios da actual estrutura de pessoal, desequilíbrios que, aliás, se verificaram na generalidade da função pública.
+
+Há, assim, necessidade de proceder ao reforço das dotações do pessoal técnico, estabelecendo-se, por outro lado, a redução nas carreiras de pessoal técnico-profissional e administrativo.
+
+Todavia, tendo em atenção o disposto no n.º 2 do artigo 43.º do [Decreto-Lei n.º 115/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1982-607335) e os efectivos actualmente existentes, aquele reforço só poderá ser concretizado à medida que ocorra a prevista redução de lugares e de encargos nas carreiras inferiores.
+
+Assim, e em execução do n.º 1 do artigo 35.º do [Decreto-Lei n.º 115/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1982-607335), tendo em consideração o n.º 2 do mesmo artigo e ainda o artigo 6.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio:
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Indústria, Energia e Exportação e da Reforma Administrativa, o seguinte:
+
+1.º O Instituto do Comércio Externo de Portugal passa a dispor do quadro de pessoal constante do mapa anexo à presente portaria.
+
+2.º Da execução da presente portaria não poderão resultar aumentos de efectivos reais e de encargos orçamentais relativamente aos existentes à data da sua publicação.
+
+Ministérios das Finanças e do Plano, da Indústria, Energia e Exportação e da Reforma Administrativa, 23 de Dezembro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Indústria, Energia e Exportação, Ricardo Manuel Simões Bayão Horta. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
+
+Quadro de pessoal do Instituto do Comércio Externo de Portugal (ICEP)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30103/00390040.pdf)

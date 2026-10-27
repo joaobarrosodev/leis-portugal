@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:116130013:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2018-116130026",
+ "dre_path": "/dr/detalhe/lei/59-2018-116130013",
+ "source_lastmod": "2024-09-24",
+ "versions": [
+  {
+   "date": "2018-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116130087",
+    "116130088",
+    "116130089"
+   ]
+  }
+ ],
+ "fragments": {
+  "116130087": {
+   "fragment_id": "116130027",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 59/2018\n\nde 21 de agosto\n\nPrimeira alteração, por apreciação parlamentar, ao Decreto-Lei n.º 97/2017, de 10 de agosto, que estabelece o regime das instalações de gases combustíveis em edifícios\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "116130088": {
+   "fragment_id": "116130028",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à primeira alteração, por apreciação parlamentar, ao Decreto-Lei n.º 97/2017, de 10 de agosto, que estabelece o regime das instalações de gases combustíveis em edifícios."
+  },
+  "116130089": {
+   "fragment_id": "116130029",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 97/2017, de 10 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 97/2017, de 10 de agosto\n\nOs artigos 3.º, 5.º, 8.º, 21.º, 23.º e 29.º do Decreto-Lei n.º 96/2017, de 10 de agosto, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - Excluem-se da obrigação estabelecida no número anterior as edificações destinadas a atividade agrária, industrial, comercial e de serviços que não tenham prevista a utilização de gás.\n\n3 - ...\n\nArtigo 5.º\n\nElementos do projeto\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - A conformidade do projeto com as normas regulamentares e técnicas aplicáveis deve ser atestada mediante declaração emitida por uma EIG.\n\n5 - ...\n\n6 - ...\n\nArtigo 8.º\n\n[...]\n\n1 - ...\n\na) Estar conforme com o projeto aprovado e com o regulamento técnico relativo ao projeto, construção, exploração e manutenção das instalações de gás combustível canalizado em edifícios;\n\nb) ...\n\nc) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\nArtigo 21.º\n\n[...]\n\n1 - ...\n\na) A cada três anos, para instalações de gás afetas a edifícios e recintos classificados como utilizações-tipo iii, iv, v, vi, vii, viii, ix, x, xi e xii, ou outros não enquadrados nas utilizações-tipo descritas, mas que recebam público;\n\ni) (Revogada.)\n\nii) (Revogada.)\n\nb) A cada cinco anos, as instalações de gás executadas há mais de 10 anos e que não tenham sido objeto de remodelação.\n\n2 - ...\n\n3 - ...\n\n4 - A DGEG deve desenvolver um mecanismo de aviso às entidades referidas no artigo 17.º, o qual é comunicado com seis meses de antecedência, sobre a data em que se torna exigível a realização da inspeção.\n\n5 - É proibida a cobrança ou imposição, pela entidade distribuidora ou instaladora de gás, de comissões a serem pagas pela entidade inspetora pela realização de inspeções nos termos previstos no presente artigo.\n\nArtigo 23.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - A mudança de comercializador de gás e a mudança de titularidade no contrato de fornecimento de gás não implicam a realização de inspeção extraordinária desde que não haja interrupção de fornecimento de gás por motivos técnicos, nem se verifique nenhuma das situações descritas no n.º 1 e exista uma declaração de inspeção válida que aprove a instalação e que permita validar que não ocorreu a substituição de qualquer dos aparelhos a gás e dos sistemas de ventilação e exaustão dos produtos da combustão dos aparelhos a gás.\n\n4 - ...\n\n5 - É proibida a cobrança ou imposição, pela entidade distribuidora ou instaladora de gás, de comissões a serem pagas pela entidade inspetora pela realização de inspeções nos termos previstos no presente artigo.\n\nArtigo 29.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) O incumprimento pelas entidades distribuidoras ou EI do previsto no n.º 5 do artigo 21.º e no n.º 5 do artigo 23.º\n\n2 - ...»"
+  }
+ }
+}

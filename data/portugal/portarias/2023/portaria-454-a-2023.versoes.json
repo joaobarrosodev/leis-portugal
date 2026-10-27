@@ -1,0 +1,441 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:835862896:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-858575197",
+ "dre_path": "/dr/detalhe/portaria/454-a-2023-835862896",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "858575068",
+    "858575069",
+    "858575070",
+    "858575071",
+    "858575072",
+    "858575073",
+    "858575074",
+    "858575275",
+    "858575276",
+    "858575277",
+    "858575278",
+    "858575279",
+    "858575280",
+    "858575281",
+    "858575282",
+    "858575283",
+    "858575284",
+    "858575285",
+    "858575286",
+    "858575287",
+    "858575288",
+    "858575289",
+    "858575290",
+    "858575291",
+    "858575292",
+    "858575293",
+    "858575295"
+   ]
+  },
+  {
+   "date": "2024-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:858522279:por",
+     "title": "Portaria n.º 127-A/2024/1",
+     "published": "2024-04-01",
+     "dre_path": "/dr/detalhe/portaria/127-a-2024-858522279"
+    }
+   ],
+   "changes": [
+    "Adita Anexo II",
+    "Altera Artigo 17.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "858575068",
+    "858575069",
+    "858575070",
+    "858575071",
+    "858575072",
+    "858575073",
+    "858575074",
+    "858575275",
+    "858575276",
+    "858575277",
+    "858575278",
+    "858575279",
+    "858575280",
+    "858575281",
+    "891432708",
+    "858575283",
+    "858575284",
+    "858575285",
+    "858575286",
+    "858575287",
+    "891432709",
+    "858575307",
+    "891432710",
+    "858575291",
+    "858575292",
+    "858575293",
+    "891432711",
+    "891432712",
+    "891432713"
+   ]
+  },
+  {
+   "date": "2024-10-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:891337591:por",
+     "title": "Portaria n.º 270/2024/1",
+     "published": "2024-10-17",
+     "dre_path": "/dr/detalhe/portaria/270-2024-891337591"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "858575068",
+    "858575069",
+    "858575070",
+    "858575071",
+    "858575072",
+    "858575073",
+    "858575074",
+    "858575275",
+    "858575276",
+    "858575277",
+    "858575278",
+    "858575279",
+    "858575280",
+    "858575281",
+    "891432708",
+    "858575283",
+    "858575284",
+    "858575285",
+    "858575286",
+    "858575287",
+    "891432709",
+    "892250568",
+    "891432710",
+    "858575291",
+    "858575292",
+    "858575293",
+    "891432711",
+    "891432712",
+    "892297834"
+   ]
+  }
+ ],
+ "fragments": {
+  "858575068": {
+   "fragment_id": "858575198",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 454-A/2023\n\nde 28 de dezembro\n\nSumário: Regula o procedimento de candidatura aplicável à constituição das unidades de saúde familiar modelo B, os processos de monitorização e de acompanhamento e ainda os mecanismos de transição para unidades de saúde familiar modelo B.\n\nTendo presente que os cuidados de saúde primários são a base central do Serviço Nacional de Saúde (SNS), o XXIII Governo Constitucional assumiu o compromisso de prosseguir o trabalho de revisão e generalização das unidades de saúde familiar (USF), enquanto modelo organizacional assente em equipas multiprofissionais, constituídas por médicos, enfermeiros e assistentes técnicos, que respondem com autonomia funcional e técnica às necessidades em saúde da população, valorizando as boas práticas clínicas e contribuindo para maior motivação dos profissionais e satisfação dos utentes.\n\nA publicação do Decreto-Lei n.º 103/2023, de 7 de novembro, na sua redação atual, que aprovou o novo regime jurídico da organização e funcionamento das USF, doravante designado de Regime, veio criar as condições para generalizar as USF modelo B.\n\nPara regulamentar este decreto-lei, foi aprovada a Portaria n.º 411-A/2023, de 5 de dezembro, que regula o índice de desempenho da equipa multiprofissional das USF modelo B, e a atribuição dos incentivos institucionais a estas e às unidades de cuidados de saúde personalizados (UCSP), e foi publicado o Despacho n.º 12456-B/2023, de 5 de dezembro, através do qual se determina a carteira básica e os princípios da carteira adicional de serviços das USF.\n\nImporta agora completar esta regulamentação, considerando a nova estrutura organizacional do SNS, nomeadamente a que resulta das atribuições da Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), e da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.), e do processo de generalização das unidades locais de saúde (ULS), a ocorrer nos termos previstos no Decreto-Lei n.º 102/2023, de 7 de novembro.\n\nEm concreto, através da presente portaria, procede-se: (i) à definição do procedimento de candidatura aplicável à constituição das USF modelo B, reforçando o seu carácter voluntário e os princípios de descentralização, auto-organização e responsabilização pelos resultados; (ii) à densificação do processo de monitorização e acompanhamento destas unidades funcionais, em especial no que concerne à explicitação da natureza, composição e competências da Equipa Nacional de Apoio (ENA); (iii) à regulação dos mecanismos de transição para USF modelo B, nos termos previstos no Regime, permitindo a criação de 222 novas USF modelo B, já a partir de 1 de janeiro de 2024.\n\nAssim:\n\nNos termos e ao abrigo do disposto no n.º 1 do artigo 7.º, nos n.os 2, 3 e 4 do artigo 36.º, no artigo 39.º e no n.º 2 do artigo 40.º do regime jurídico da organização e do funcionamento das unidades de saúde familiar, aprovado em anexo ao Decreto-Lei n.º 103/2023, de 7 de novembro, na sua redação atual, e ao abrigo dos poderes delegados pelas alíneas f) e g) do n.º 2 do Despacho n.º 12167/2022, de 18 de outubro, publicado no Diário da República, 2.ª série, n.º 201, de 18 de outubro de 2022, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "858575069": {
+   "fragment_id": "858575199",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "858575070": {
+   "fragment_id": "858575200",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regula:\n\na) O procedimento de candidatura aplicável à constituição das USF modelo B previsto no n.º 1 do artigo 7.º do regime jurídico da organização e do funcionamento das unidades de saúde familiar (USF), aprovado em anexo ao Decreto-Lei n.º 103/2023, de 7 de novembro, na sua redação atual, doravante designado por Regime;\n\nb) O processo de monitorização e acompanhamento das USF modelo B, previsto no artigo 39.º e no n.º 2 do artigo 40.º do Regime;\n\nc) O mecanismo de transição para USF modelo B, previsto nos n.os 2, 3 e 4 do artigo 36.º do Regime."
+  },
+  "858575071": {
+   "fragment_id": "858575201",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA presente portaria aplica-se às USF modelo B."
+  },
+  "858575072": {
+   "fragment_id": "858575202",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza e composição da Equipa Nacional de Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza e composição da Equipa Nacional de Apoio\n\n1 - A Equipa Nacional de Apoio (ENA), prevista no n.º 2 do artigo 40.º do Regime, é uma equipa técnica, que funciona junto da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.), cabendo-lhe, por um lado, dinamizar e uniformizar o procedimento de constituição das USF modelo B e, por outro lado, acompanhar e desenvolver as boas práticas de gestão e de governação clínica e de saúde nestas USF, em articulação com a unidade local de saúde (ULS) respetiva.\n\n2 - A ENA é dirigida por um coordenador e integra profissionais com conhecimentos e experiência no âmbito dos cuidados de saúde primários, nomeadamente em áreas de gestão, governação clínica e de saúde, contratualização, recursos humanos e sistemas de informação.\n\n3 - O coordenador e a respetiva equipa da ENA são designados por despacho do diretor executivo da DE-SNS, I. P., para um período de três anos, renovável por iguais períodos.\n\n4 - A ENA pode solicitar a colaboração de representantes de outros serviços e organismos do Ministério da Saúde, assim como de outras entidades ou personalidades de reconhecido mérito e competência nas matérias em causa.\n\n5 - O funcionamento da ENA é definido em regulamento interno, aprovado pela DE-SNS, I. P."
+  },
+  "858575073": {
+   "fragment_id": "858575203",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da ENA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências da ENA\n\nÀ ENA compete, nomeadamente:\n\na) Operacionalizar as linhas estratégicas definidas para o desenvolvimento organizacional dos cuidados de saúde primários no SNS, promovendo a discussão participada, interna e externa;\n\nb) Coordenar e apoiar tecnicamente, a constituição de novas USF modelo B, nomeadamente através do acompanhamento das equipas multiprofissionais durante o processo de candidatura e da sua avaliação, realizada em articulação com os órgãos de gestão e de governação clínica das ULS onde se inserem;\n\nc) Acompanhar o desenvolvimento organizacional das USF, procurando aprofundar os seus princípios enquadradores, nomeadamente a prestação de cuidados de saúde em proximidade, centrados no cidadão, praticados por equipas multiprofissionais com autonomia funcional e técnica, num quadro de responsabilidade, solidariedade, compromisso e assunção de objetivos comuns, que são contratualizados e, portanto, sujeitos a avaliação;\n\nd) Colaborar no desenvolvimento de uma política de gestão da qualidade, que promova a prestação de contas e a melhoria contínua do desempenho;\n\ne) Elaborar pareceres ou documentos técnicos, no âmbito das suas competências;\n\nf) Pronunciar-se, ou propor orientações, procedimentos ou intervenções, no âmbito das suas competências, incluindo o que respeitar a recursos humanos e a instalações e equipamentos para as USF;\n\ng) Propor e participar em iniciativas de divulgação, debate e promoção das USF."
+  },
+  "858575074": {
+   "fragment_id": "858575204",
+   "type": 1,
+   "heading": "Capítulo II — Constituição das USF modelo B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Constituição das USF modelo B"
+  },
+  "858575275": {
+   "fragment_id": "858575205",
+   "type": 11,
+   "heading": "Artigo 5.º — Iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Iniciativa\n\nA constituição das USF modelo B inicia-se com a apresentação voluntária de uma candidatura, a realizar por parte dos profissionais da equipa multiprofissional."
+  },
+  "858575276": {
+   "fragment_id": "858575206",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos\n\n1 - Uma USF modelo B pode ser constituída desde que se verifiquem, cumulativamente, os seguintes requisitos:\n\na) População a abranger não ser inferior a 4000 nem superior a 18 000 utentes, sem prejuízo do disposto no n.º 3 do artigo 8.º do Regime;\n\nb) Equipa multiprofissional adequada à dimensão da população a abranger e ajustada às especificidades das respostas em proximidade e do território onde a população reside;\n\nc) Parecer técnico favorável emitido pela ENA.\n\n2 - Verificados os requisitos referidos no número anterior, o órgão máximo de gestão da respetiva ULS pode aprovar a constituição da USF modelo B."
+  },
+  "858575277": {
+   "fragment_id": "858575207",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma de apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Forma de apresentação da candidatura\n\n1 - A apresentação da candidatura é efetuada em suporte eletrónico, através do preenchimento de formulário próprio, o qual contém, entre outros, os seguintes elementos:\n\na) Identificação do coordenador da USF modelo B;\n\nb) Constituição nominal da equipa multiprofissional ou, no caso de não ser possível indicar a totalidade dos elementos da equipa, a definição das necessidades de recursos humanos adequadas ao cumprimento do compromisso assistencial;\n\nc) Compromisso assistencial nos termos do artigo 6.º do Regime;\n\nd) População a abranger;\n\ne) Definição do local ou locais de prestação;\n\nf) Indicação da sede e respetivos polos da unidade de funcional de origem, quando aplicável;\n\ng) Horários e serviços da carteira básica de serviços por local de prestação;\n\nh) Carteiras adicionais de serviços, quando aplicável;\n\ni) Mapa de investimentos necessários à constituição da USF modelo B.\n\n2 - O responsável pela candidatura é o profissional médico identificado pela equipa multiprofissional para o cargo de coordenador da USF modelo B.\n\n3 - A candidatura é submetida através da plataforma disponibilizada pela Administração Central do Sistema de Saúde, I. P., (ACSS, I. P.)."
+  },
+  "858575278": {
+   "fragment_id": "858575208",
+   "type": 11,
+   "heading": "Artigo 8.º — Apreciação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apreciação da candidatura\n\n1 - O órgão máximo de gestão da ULS, nos 30 dias seguintes à submissão da candidatura, procede à:\n\na) Apreciação da necessidade da constituição da USF modelo B;\n\nb) Verificação dos elementos constantes da respetiva candidatura;\n\nc) Avaliação da existência dos recursos físicos e financeiros necessários à constituição da USF modelo B.\n\n2 - Caso, nos termos previstos da alínea a) do número anterior, se considere desnecessária a constituição da USF, assegurando o princípio da participação dos interessados, deve o órgão máximo de gestão da ULS comunicar a sua deliberação, devidamente fundamentada, ao responsável da candidatura e à ENA.\n\n3 - No caso de deliberação favorável do órgão máximo de gestão da ULS, a ENA aprecia a candidatura e elabora um parecer técnico nos termos previstos no artigo seguinte."
+  },
+  "858575279": {
+   "fragment_id": "858575209",
+   "type": 11,
+   "heading": "Artigo 9.º — Parecer técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Parecer técnico\n\n1 - O parecer técnico, referido no n.º 3 do artigo anterior, é elaborado pela ENA, tendo por base a análise e a verificação dos requisitos previstos no artigo 6.º, bem como dos elementos da integram a candidatura, nos termos previstos no artigo 7.º\n\n2 - O parecer técnico é constituído pelos seguintes elementos:\n\na) Identificação da unidade funcional;\n\nb) Identificação do coordenador da USF modelo B;\n\nc) Identificação dos elementos da equipa e, quando aplicável, das necessidades de recursos humanos adequadas ao cumprimento do compromisso assistencial proposto;\n\nd) Caracterização da população a inscrever nos termos do disposto do artigo 9.º do Regime, especificando a dimensão das listas de utentes por médico e por enfermeiro de família, bem como os rácios de utentes no caso dos assistentes técnicos;\n\ne) Caracterização demográfica da população abrangida pela USF;\n\nf) Avaliação global da candidatura quanto a:\n\ni) Horários e serviços da carteira básica de serviços, propostos para cada local de prestação;\n\nii) Carteiras adicionais propostas, quando aplicável;\n\niii) Mapa de investimentos necessários até à abertura;\n\niv) Data prevista para início da atividade da USF modelo B;\n\ng) Verificação das instalações, designadamente da sede e dos eventuais polos;\n\nh) Apreciação da sustentabilidade, coesão e desenvolvimento da equipa multiprofissional;\n\ni) Análise qualitativa global do projeto.\n\n3 - Para os efeitos nos números anteriores, a ENA pode realizar as diligências que considere necessárias à emissão do parecer técnico, designadamente pedir elementos adicionais ao responsável pela candidatura ou à ULS, realização de visitas aos locais de prestação e de entrevistas aos elementos que compõem a equipa multiprofissional."
+  },
+  "858575280": {
+   "fragment_id": "858575210",
+   "type": 11,
+   "heading": "Artigo 10.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prazo\n\n1 - A emissão do parecer técnico e a comunicação do seu resultado ao órgão máximo de gestão da ULS, tem lugar no prazo máximo de 30 dias após a deliberação prevista no n.º 3 do artigo 8.º\n\n2 - O prazo fixado no número anterior suspende-se sempre que se realizem de diligências adicionais, nos termos previstos no n.º 3 do artigo anterior."
+  },
+  "858575281": {
+   "fragment_id": "858575211",
+   "type": 11,
+   "heading": "Artigo 11.º — Início de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Início de atividade\n\nA data de início da atividade da USF modelo B é fixada na deliberação a que se refere o n.º 2 do artigo 6.º, sendo comunicada ao responsável pela candidatura, à ACSS, I. P., e à DE-SNS, I. P."
+  },
+  "858575282": {
+   "fragment_id": "858575212",
+   "type": 1,
+   "heading": "Capítulo III — Monitorização e acompanhamento das USF modelo B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Monitorização e acompanhamento das USF modelo B"
+  },
+  "858575283": {
+   "fragment_id": "858575213",
+   "type": 11,
+   "heading": "Artigo 12.º — Monitorização e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Monitorização e acompanhamento\n\n1 - A monitorização das USF modelo B incumbe às ULS, em articulação com DE-SNS, I. P., e assenta, designadamente, na análise dos resultados dos indicadores contantes na matriz de indicadores dos cuidados de saúde primários, prevista no artigo 3.º da Portaria n.º 411-A/2023, de 5 de dezembro.\n\n2 - O acompanhamento das USF modelo B tem por base, em especial, o modelo de matriz nacional de avaliação da qualidade organizacional previsto no artigo 16.º, e pressupõe:\n\na) Acompanhamento interno, realizado através de uma autoavaliação;\n\nb) Acompanhamento externo, realizado através de avaliações interpares, de avaliações cruzadas entre USF e de auditorias.\n\n3 - Para os efeitos previstos nos números anteriores, a ULS elabora, semestralmente, um relatório síntese de monitorização e acompanhamento interno das USF modelo B, o qual é objeto de publicação na sua página eletrónica.\n\n4 - O relatório referido no número anterior, segue o modelo proposto pela ENA e publicado pela DE-SNS, I. P., na sua página eletrónica."
+  },
+  "858575284": {
+   "fragment_id": "858575214",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acompanhamento interno\n\n1 - As ULS asseguram o acompanhamento da atividade e da qualidade organizacional das respetivas unidades funcionais, garantindo a realização, bianual, da autoavaliação das USF modelo B.\n\n2 - A autoavaliação referida no número anterior é realizada através da aplicação do instrumento previsto no artigo 16.º, competindo ao coordenador e ao conselho técnico da USF modelo B registar os respetivos resultados na plataforma E-Qualidade.\n\n3 - Registando-se desvios negativos ao desempenho ou qualidade organizacional, há lugar à definição de um plano de melhoria, subscrito pela ULS e pela USF modelo B."
+  },
+  "858575285": {
+   "fragment_id": "858575215",
+   "type": 11,
+   "heading": "Artigo 14.º — Acompanhamento externo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acompanhamento externo\n\n1 - O acompanhamento externo é assegurado pela ENA, e concretiza-se:\n\na) Pelo apoio técnico à equipa multiprofissional da USF modelo B, visando a melhoria da governação clínica e de saúde, o desenvolvimento organizacional e a concretização adequada dos processos de contratualização interna e externa;\n\nb) Pela colaboração no desenvolvimento de políticas de gestão da qualidade, procurando assegurar as boas práticas e a melhoria contínua do desempenho da equipa;\n\nc) Pela realização de auditorias às USF modelo B, a realizar nos termos do artigo seguinte.\n\n2 - A ENA promove, ainda, a realização de avaliações interpares e cruzadas entre USF."
+  },
+  "858575286": {
+   "fragment_id": "858575216",
+   "type": 11,
+   "heading": "Artigo 15.º — Auditorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Auditorias\n\n1 - A ENA elabora um plano anual de auditorias, o qual deve considerar o universo de USF modelo B em atividade.\n\n2 - Os princípios e os procedimentos de atuação constam do manual de auditoria a elaborar pela ENA, sendo em todo o caso garantido, o seguinte:\n\na) Comunicação prévia, ao órgão máximo de gestão da ULS e à USF modelo B, da data de início da auditoria, bem como informação sobre âmbito e o objeto, os elementos da equipa e o prazo estimado de conclusão;\n\nb) Exercício do direito ao contraditório.\n\n3 - Por cada auditoria é elaborado um relatório que contém, pelo menos, os resultados apurados e as conclusões relevantes, assim como as recomendações aplicáveis, incluindo os respetivos prazos de implementação.\n\n4 - Se necessário, podem ser realizadas auditorias de acompanhamento com o objetivo de verificar a implementação das recomendações referidas no número anterior."
+  },
+  "858575287": {
+   "fragment_id": "858575217",
+   "type": 11,
+   "heading": "Artigo 16.º — Modelo de matriz nacional de avaliação da qualidade organizacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Modelo de matriz nacional de avaliação da qualidade organizacional\n\n1 - A ACSS, I. P., conjuntamente com a ENA, define e publica, na respetiva página eletrónica, o modelo de matriz nacional de avaliação da qualidade organizacional, com as respetivas regras e metodologia de classificação.\n\n2 - Este instrumento visa avaliar o desenvolvimento organizacional da USF modelo B, por forma a potenciar a qualidade organizacional de excelência.\n\n3 - O E-Qualidade é a plataforma que operacionaliza a implementação do referido instrumento."
+  },
+  "858575288": {
+   "fragment_id": "858575218",
+   "type": 1,
+   "heading": "Capítulo IV — Mecanismos de transição para USF modelo B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Mecanismos de transição para USF modelo B"
+  },
+  "858575289": {
+   "fragment_id": "858575219",
+   "type": 11,
+   "heading": "Artigo 17.º — Transição das USF modelo A e UCSP para USF modelo B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transição das USF modelo A e UCSP para USF modelo B\n\n1 - Para os efeitos do previsto nos n.os 2 e 4 do artigo 36.º do Regime, aplica-se integralmente, com efeitos a 1 de janeiro de 2024, o regime jurídico da organização e do funcionamento das unidades de saúde, incluindo o regime de carreiras, suplementos e incentivos previsto no capítulo vii, às seguintes unidades funcionais:\n\na) USF modelo A e Unidades de Cuidados de Saúde Personalizados (UCSP) que à data de entrada em vigor do Regime tenham apresentado candidatura a USF, cujo valor percentual de Índice de Desempenho Global (IDG) relativo ao ano de 2022, último período com resultados finais apurados, seja superior ou igual a 60 %;\n\nb) USF modelo A e UCSP que à data de entrada em vigor do Regime tenham apresentado candidatura a USF, cujo valor percentual de IDG relativo ao ano de 2023 seja superior ou igual a 60 %.\n\n2 - Às USF modelo A abrangidas pelo n.º 3 do artigo 36.º do Regime, aplica-se o regime de carreiras, suplementos e incentivos previsto no capítulo vii, a partir do dia 1 do mês seguinte àquele em que atinjam um IDE superior ou igual a 65 %, apurado nos termos da Portaria n.º 411-A/2023, de 5 de dezembro.\n\n3 - A lista das unidades funcionais a que se refere a alínea a) do n.º 1 consta do anexo à presente portaria e dela faz parte integrante.\n\n4 - A lista das unidades funcionais a que se refere a alínea b) do n.º 1 é elaborada e remetida pela ACSS, I. P., ao membro do Governo responsável pela área da saúde, findo o processo de apuramento do IDG relativo ao ano de 2023.\n\n5 - A lista das unidades funcionais a que se refere o n.º 2 é elaborada e remetida pela ACSS, I. P., mensalmente, ao membro do Governo responsável pela área da saúde."
+  },
+  "858575290": {
+   "fragment_id": "858575220",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares e finais"
+  },
+  "858575291": {
+   "fragment_id": "858575221",
+   "type": 11,
+   "heading": "Artigo 18.º — Adequação dos sistemas de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Adequação dos sistemas de informação\n\nA SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., em articulação com a ACSS, I. P., e a DE-SNS, I. P., adequam os sistemas de informação do SNS às regras previstas na presente portaria."
+  },
+  "858575292": {
+   "fragment_id": "858575222",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\nSão revogados:\n\na) O Despacho Normativo n.º 5/2011, de 15 de março;\n\nb) O Despacho n.º 14723/2016, de 6 de dezembro."
+  },
+  "858575293": {
+   "fragment_id": "858575223",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2024."
+  },
+  "858575295": {
+   "fragment_id": "858575225",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 17.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 17.º)\n\nLista de USF modelo A e UCSP que transitam a USF modelo B\n\n|  | Nome da USF modelo B |\n| --- | --- |\n|  |  |\n| 1 | A Ribeirinha. |\n| 2 | Abel Salazar. |\n| 3 | Afurada. |\n| 4 | Águas do Gonde. |\n| 5 | Águeda Mais Saúde. |\n| 6 | AlbaSaúde. |\n| 7 | Alburrica. |\n| 8 | Alcais. |\n| 9 | Aldoar. |\n| 10 | Alfena. |\n| 11 | Algar de Lagoa. |\n| 12 | Al-Gharb. |\n| 13 | Alijó. |\n| 14 | Almada. |\n| 15 | Almedina. |\n| 16 | Alpiarça. |\n| 17 | Alto da Vila. |\n| 18 | Amadeo de Souza Cardoso. |\n| 19 | Amanhecer. |\n| 20 | Amoreira. |\n| 21 | Amorosa XXI. |\n| 22 | Aquae Flaviae. |\n| 23 | AquaSaúde. |\n| 24 | Aquilino Ribeiro. |\n| 25 | Aradas. |\n| 26 | Arco de Baúlhe/Cavez. |\n| 27 | Arcos Saúde. |\n| 28 | Argoncilhe. |\n| 29 | Arouca. |\n| 30 | Arquis Nova. |\n| 31 | Artemisa. |\n| 32 | As Gandras. |\n| 33 | Atlântico Norte. |\n| 34 | Atlântico Sul. |\n| 35 | Avencas. |\n| 36 | Avintes. |\n| 37 | Azevedo de Campanhã. |\n| 38 | Bacelo. |\n| 39 | Baesuris. |\n| 40 | Baía Tejo. |\n| 41 | Barrosas Saúde. |\n| 42 | Bástulos. |\n| 43 | Beira Douro. |\n| 44 | Beira Vouga. |\n| 45 | Bem Viver. |\n| 46 | Boa Nova. |\n| 47 | Bom Caminho. |\n| 48 | Brás-Oleiro. |\n| 49 | Caminho de Santiago. |\n| 50 | Caminhos do Cértoma. |\n| 51 | CampuSaúde. |\n| 52 | Cândido Figueiredo. |\n| 53 | Cardilium. |\n| 54 | Carnaxide. |\n| 55 | Castendo. |\n| 56 | Cávado Saúde. |\n| 57 | Cedofeita. |\n| 58 | Charneca do Sol. |\n| 59 | Citânia. |\n| 60 | Coimbra Centro. |\n| 61 | Coimbra Norte. |\n| 62 | CoimbraCelas. |\n| 63 | Colina de Odivelas. |\n| 64 | Coração da Beira. |\n| 65 | Côrtes D'Almeirim. |\n| 66 | Costa de Prata. |\n| 67 | Costa do Estoril. |\n| 68 | Cruzeiro. |\n| 69 | Cuidarte. |\n| 70 | Cynthia. |\n| 71 | D. Fernando II. |\n| 72 | D. João V. |\n| 73 | Dallem D Ave. |\n| 74 | Damião de Góis. |\n| 75 | Despertar. |\n| 76 | do Douro. |\n| 77 | Dona Amélia de Portugal. |\n| 78 | dos Lagos. |\n| 79 | Douro Vita. |\n| 80 | Dunas. |\n| 81 | Entre Margens. |\n| 82 | EntreMarés. |\n| 83 | Esgueira Mais. |\n| 84 | Esporões. |\n| 85 | Esteva. |\n| 86 | Estrela do Mar. |\n| 87 | Extramuros. |\n| 88 | Extremus. |\n| 89 | Farol Esposende. |\n| 90 | Felgaria Rubeans. |\n| 91 | Fénix. |\n| 92 | Fénix de Aveiro. |\n| 93 | Figueiró dos Vinhos. |\n| 94 | Flor d'Areosa. |\n| 95 | Flor de Sal. |\n| 96 | Fonte de Água. |\n| 97 | Foral. |\n| 98 | Foral Novo. |\n| 99 | Foz do Minho. |\n| 100 | Freixo Saúde. |\n| 101 | Gago Coutinho. |\n| 102 | Gilão. |\n| 103 | Golfinho. |\n| 104 | Homem do Leme. |\n| 105 | Ilumina. |\n| 106 | Jardins da Encarnação. |\n| 107 | Laços. |\n| 108 | Lafões. |\n| 109 | Lamego. |\n| 110 | Lapiás. |\n| 111 | Leça. |\n| 112 | Leiria Nascente. |\n| 113 | Leme. |\n| 114 | Linda-a-Velha. |\n| 115 | Lindo Vale. |\n| 116 | Lordelo do Ouro. |\n| 117 | Lusitano. |\n| 118 | Luz do Tejo. |\n| 119 | Mãe D Água. |\n| 120 | Mangualde. |\n| 121 | Manuel Cunha. |\n| 122 | Mar à Vista. |\n| 123 | Mare. |\n| 124 | Martim. |\n| 125 | Martingil. |\n| 126 | Mealhada. |\n| 127 | Mesão Frio. |\n| 128 | Mimar Meda. |\n| 129 | Monção. |\n| 130 | Monte da Luz. |\n| 131 | Monte Murado. |\n| 132 | Moreira de Cónegos. |\n| 133 | Moscavide. |\n| 134 | Murça. |\n| 135 | Natividade. |\n| 136 | Nautilus. |\n| 137 | Nisa. |\n| 138 | Norton de Matos. |\n| 139 | Nov'Adaúfe. |\n| 140 | Nova Era. |\n| 141 | Nova Mateus. |\n| 142 | Nove Torres. |\n| 143 | Novo Este. |\n| 144 | Novo Mirante. |\n| 145 | Nuno Grande. |\n| 146 | O Basto. |\n| 147 | Oeiras. |\n| 148 | Paredes. |\n| 149 | Paredes de Coura. |\n| 150 | Parque da Cidade. |\n| 151 | Pessoas. |\n| 152 | Polis. |\n| 153 | Pombal Oeste. |\n| 154 | Portas do Arade. |\n| 155 | Portel. |\n| 156 | Porto de Mar. |\n| 157 | Progresso. |\n| 158 | Progresso e Saúde. |\n| 159 | Pulsar. |\n| 160 | Quarteira. |\n| 161 | Quinta das Lindas. |\n| 162 | Raia Maior. |\n| 163 | Rainha D. Teresa. |\n| 164 | Régua. |\n| 165 | Reynaldo dos Santos. |\n| 166 | Ribeira Nova. |\n| 167 | Rio Dão. |\n| 168 | Rio de Mouro. |\n| 169 | Ruães. |\n| 170 | Sá de Miranda. |\n| 171 | Sacavém. |\n| 172 | Sado. |\n| 173 | Salinas. |\n| 174 | Salinas de Rio Maior. |\n| 175 | SalusVida. |\n| 176 | Salutis. |\n| 177 | Santa Cruz. |\n| 178 | Santa Justa. |\n| 179 | Santa Marta. |\n| 180 | Santa Marta do Pinhal. |\n| 181 | Santo André de Poiares.. |\n| 182 | São Domingos de Gusmão |\n| 183 | São Geraldo. |\n| 184 | São Gonçalo. |\n| 185 | São João de Ovar. |\n| 186 | São Julião da Figueira. |\n| 187 | São Neutel. |\n| 188 | São Pedro da Cova. |\n| 189 | São Salvador. |\n| 190 | São Tiago. |\n| 191 | Senhora de Vagos. |\n| 192 | SerraMar. |\n| 193 | Sétima Colina. |\n| 194 | Sofia Abecassis. |\n| 195 | Sol Nascente. |\n| 196 | Terra da Nóbrega. |\n| 197 | Terra Marinhoa. |\n| 198 | Terras da Maia. |\n| 199 | Terras de Bouro. |\n| 200 | Terras de Cira. |\n| 201 | Tondela. |\n| 202 | Topázio. |\n| 203 | Trilhos Dueça. |\n| 204 | Trofa Mais. |\n| 205 | Tua Saúde. |\n| 206 | Uadiana. |\n| 207 | Valbom. |\n| 208 | Vale de Cambra. |\n| 209 | Vale do Cértima. |\n| 210 | Vale do Este. |\n| 211 | Vale do Lima. |\n| 212 | Valflores. |\n| 213 | Vasco da Gama. |\n| 214 | Venda Nova |\n| 215 | Vendas Novas. |\n| 216 | Vidago. |\n| 217 | Vila. |\n| 218 | Vila Meã. |\n| 219 | Vila Presépio. |\n| 220 | Vilar Saúde. |\n| 221 | VitaSaurium. |\n| 222 | Viver Saúde. |\n\n117203293"
+  },
+  "891432708": {
+   "fragment_id": "858575212",
+   "type": 1,
+   "heading": "Capítulo III — Monitorização e acompanhamento das USF modelo B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Monitorização e acompanhamento das USF modelo B"
+  },
+  "891432709": {
+   "fragment_id": "858575218",
+   "type": 1,
+   "heading": "Capítulo IV — Mecanismos de transição para USF modelo B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Mecanismos de transição para USF modelo B"
+  },
+  "858575307": {
+   "fragment_id": "858575219",
+   "type": 11,
+   "heading": "Artigo 17.º — Transição das USF modelo A e UCSP para USF modelo B",
+   "in_force_from": "2024-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 127-A/2024/1 - Diário da República n.º 64/2024, Suplemento, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2024-858522279), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Transição das USF modelo A e UCSP para USF modelo B\n\n1 - Para os efeitos do previsto nos n.os 2 e 4 do artigo 36.º do Regime, aplica-se integralmente, com efeitos a 1 de janeiro de 2024, o regime jurídico da organização e do funcionamento das unidades de saúde, incluindo o regime de carreiras, suplementos e incentivos previsto no capítulo vii, às seguintes unidades funcionais:\n\na) USF modelo A e Unidades de Cuidados de Saúde Personalizados (UCSP) que à data de entrada em vigor do Regime tenham apresentado candidatura a USF, cujo valor percentual de Índice de Desempenho Global (IDG) relativo ao ano de 2022, último período com resultados finais apurados, seja superior ou igual a 60 %;\n\nb) USF modelo A e UCSP que à data de entrada em vigor do Regime tenham apresentado candidatura a USF, cujo valor percentual de IDG relativo ao ano de 2023 seja superior ou igual a 60 %.\n\n2 - Às USF modelo A abrangidas pelo n.º 3 do artigo 36.º do Regime, aplica-se o regime de carreiras, suplementos e incentivos previsto no capítulo vii, a partir do dia 1 do mês seguinte àquele em que atinjam um IDE superior ou igual a 65 %, apurado nos termos da Portaria n.º 411-A/2023, de 5 de dezembro.\n\n3 - A lista das unidades funcionais a que se refere a alínea a) do n.º 1 consta do anexo I à presente portaria e dela faz parte integrante.\n\n4 - A lista das unidades funcionais a que se refere a alínea b) do n.º 1 é elaborada e remetida pela ACSS, I. P., ao membro do Governo responsável pela área da saúde, findo o processo de apuramento do IDG relativo ao ano de 2023.\n\n5 - A lista das unidades funcionais a que se refere o número anterior consta do anexo II à presente portaria e dela faz parte integrante.\n\n6 - A lista das unidades funcionais a que se refere o n.º 2 é elaborada e remetida pela ACSS, I. P., mensalmente, ao membro do Governo responsável pela área da saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 127-A/2024/1 - Diário da República n.º 64/2024, Suplemento, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2024-858522279), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-01-01"
+  },
+  "891432710": {
+   "fragment_id": "858575220",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares e finais"
+  },
+  "891432711": {
+   "fragment_id": "858575224",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre, em 22 de dezembro de 2023."
+  },
+  "891432712": {
+   "fragment_id": "858575225",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 3 do artigo 17.º)",
+   "in_force_from": "2024-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 127-A/2024/1 - Diário da República n.º 64/2024, Suplemento, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2024-858522279), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 3 do artigo 17.º)\n\n|  | Nome da USF modelo B |\n| --- | --- |\n|  |  |\n| 1 | A Ribeirinha. |\n| 2 | Abel Salazar. |\n| 3 | Afurada. |\n| 4 | Águas do Gonde. |\n| 5 | Águeda Mais Saúde. |\n| 6 | AlbaSaúde. |\n| 7 | Alburrica. |\n| 8 | Alcais. |\n| 9 | Aldoar. |\n| 10 | Alfena. |\n| 11 | Algar de Lagoa. |\n| 12 | Al-Gharb. |\n| 13 | Alijó. |\n| 14 | Almada. |\n| 15 | Almedina. |\n| 16 | Alpiarça. |\n| 17 | Alto da Vila. |\n| 18 | Amadeo de Souza Cardoso. |\n| 19 | Amanhecer. |\n| 20 | Amoreira. |\n| 21 | Amorosa XXI. |\n| 22 | Aquae Flaviae. |\n| 23 | AquaSaúde. |\n| 24 | Aquilino Ribeiro. |\n| 25 | Aradas. |\n| 26 | Arco de Baúlhe/Cavez. |\n| 27 | Arcos Saúde. |\n| 28 | Argoncilhe. |\n| 29 | Arouca. |\n| 30 | Arquis Nova. |\n| 31 | Artemisa. |\n| 32 | As Gandras. |\n| 33 | Atlântico Norte. |\n| 34 | Atlântico Sul. |\n| 35 | Avencas. |\n| 36 | Avintes. |\n| 37 | Azevedo de Campanhã. |\n| 38 | Bacelo. |\n| 39 | Baesuris. |\n| 40 | Baía Tejo. |\n| 41 | Barrosas Saúde. |\n| 42 | Bástulos. |\n| 43 | Beira Douro. |\n| 44 | Beira Vouga. |\n| 45 | Bem Viver. |\n| 46 | Boa Nova. |\n| 47 | Bom Caminho. |\n| 48 | Brás-Oleiro. |\n| 49 | Caminho de Santiago. |\n| 50 | Caminhos do Cértoma. |\n| 51 | CampuSaúde. |\n| 52 | Cândido Figueiredo. |\n| 53 | Cardilium. |\n| 54 | Carnaxide. |\n| 55 | Castendo. |\n| 56 | Cávado Saúde. |\n| 57 | Cedofeita. |\n| 58 | Charneca do Sol. |\n| 59 | Citânia. |\n| 60 | Coimbra Centro. |\n| 61 | Coimbra Norte. |\n| 62 | CoimbraCelas. |\n| 63 | Colina de Odivelas. |\n| 64 | Coração da Beira. |\n| 65 | Côrtes D'Almeirim. |\n| 66 | Costa de Prata. |\n| 67 | Costa do Estoril. |\n| 68 | Cruzeiro. |\n| 69 | Cuidarte. |\n| 70 | Cynthia. |\n| 71 | D. Fernando II. |\n| 72 | D. João V. |\n| 73 | Dallem D Ave. |\n| 74 | Damião de Góis. |\n| 75 | Despertar. |\n| 76 | do Douro. |\n| 77 | Dona Amélia de Portugal. |\n| 78 | dos Lagos. |\n| 79 | Douro Vita. |\n| 80 | Dunas. |\n| 81 | Entre Margens. |\n| 82 | EntreMarés. |\n| 83 | Esgueira Mais. |\n| 84 | Esporões. |\n| 85 | Esteva. |\n| 86 | Estrela do Mar. |\n| 87 | Extramuros. |\n| 88 | Extremus. |\n| 89 | Farol Esposende. |\n| 90 | Felgaria Rubeans. |\n| 91 | Fénix. |\n| 92 | Fénix de Aveiro. |\n| 93 | Figueiró dos Vinhos. |\n| 94 | Flor d'Areosa. |\n| 95 | Flor de Sal. |\n| 96 | Fonte de Água. |\n| 97 | Foral. |\n| 98 | Foral Novo. |\n| 99 | Foz do Minho. |\n| 100 | Freixo Saúde. |\n| 101 | Gago Coutinho. |\n| 102 | Gilão. |\n| 103 | Golfinho. |\n| 104 | Homem do Leme. |\n| 105 | Ilumina. |\n| 106 | Jardins da Encarnação. |\n| 107 | Laços. |\n| 108 | Lafões. |\n| 109 | Lamego. |\n| 110 | Lapiás. |\n| 111 | Leça. |\n| 112 | Leiria Nascente. |\n| 113 | Leme. |\n| 114 | Linda-a-Velha. |\n| 115 | Lindo Vale. |\n| 116 | Lordelo do Ouro. |\n| 117 | Lusitano. |\n| 118 | Luz do Tejo. |\n| 119 | Mãe D Água. |\n| 120 | Mangualde. |\n| 121 | Manuel Cunha. |\n| 122 | Mar à Vista. |\n| 123 | Mare. |\n| 124 | Martim. |\n| 125 | Martingil. |\n| 126 | Mealhada. |\n| 127 | Mesão Frio. |\n| 128 | Mimar Meda. |\n| 129 | Monção. |\n| 130 | Monte da Luz. |\n| 131 | Monte Murado. |\n| 132 | Moreira de Cónegos. |\n| 133 | Moscavide. |\n| 134 | Murça. |\n| 135 | Natividade. |\n| 136 | Nautilus. |\n| 137 | Nisa. |\n| 138 | Norton de Matos. |\n| 139 | Nov'Adaúfe. |\n| 140 | Nova Era. |\n| 141 | Nova Mateus. |\n| 142 | Nove Torres. |\n| 143 | Novo Este. |\n| 144 | Novo Mirante. |\n| 145 | Nuno Grande. |\n| 146 | O Basto. |\n| 147 | Oeiras. |\n| 148 | Paredes. |\n| 149 | Paredes de Coura. |\n| 150 | Parque da Cidade. |\n| 151 | Pessoas. |\n| 152 | Polis. |\n| 153 | Pombal Oeste. |\n| 154 | Portas do Arade. |\n| 155 | Portel. |\n| 156 | Porto de Mar. |\n| 157 | Progresso. |\n| 158 | Progresso e Saúde. |\n| 159 | Pulsar. |\n| 160 | Quarteira. |\n| 161 | Quinta das Lindas. |\n| 162 | Raia Maior. |\n| 163 | Rainha D. Teresa. |\n| 164 | Régua. |\n| 165 | Reynaldo dos Santos. |\n| 166 | Ribeira Nova. |\n| 167 | Rio Dão. |\n| 168 | Rio de Mouro. |\n| 169 | Ruães. |\n| 170 | Sá de Miranda. |\n| 171 | Sacavém. |\n| 172 | Sado. |\n| 173 | Salinas. |\n| 174 | Salinas de Rio Maior. |\n| 175 | SalusVida. |\n| 176 | Salutis. |\n| 177 | Santa Cruz. |\n| 178 | Santa Justa. |\n| 179 | Santa Marta. |\n| 180 | Santa Marta do Pinhal. |\n| 181 | Santo André de Poiares.. |\n| 182 | São Domingos de Gusmão |\n| 183 | São Geraldo. |\n| 184 | São Gonçalo. |\n| 185 | São João de Ovar. |\n| 186 | São Julião da Figueira. |\n| 187 | São Neutel. |\n| 188 | São Pedro da Cova. |\n| 189 | São Salvador. |\n| 190 | São Tiago. |\n| 191 | Senhora de Vagos. |\n| 192 | SerraMar. |\n| 193 | Sétima Colina. |\n| 194 | Sofia Abecassis. |\n| 195 | Sol Nascente. |\n| 196 | Terra da Nóbrega. |\n| 197 | Terra Marinhoa. |\n| 198 | Terras da Maia. |\n| 199 | Terras de Bouro. |\n| 200 | Terras de Cira. |\n| 201 | Tondela. |\n| 202 | Topázio. |\n| 203 | Trilhos Dueça. |\n| 204 | Trofa Mais. |\n| 205 | Tua Saúde. |\n| 206 | Uadiana. |\n| 207 | Valbom. |\n| 208 | Vale de Cambra. |\n| 209 | Vale do Cértima. |\n| 210 | Vale do Este. |\n| 211 | Vale do Lima. |\n| 212 | Valflores. |\n| 213 | Vasco da Gama. |\n| 214 | Venda Nova |\n| 215 | Vendas Novas. |\n| 216 | Vidago. |\n| 217 | Vila. |\n| 218 | Vila Meã. |\n| 219 | Vila Presépio. |\n| 220 | Vilar Saúde. |\n| 221 | VitaSaurium. |\n| 222 | Viver Saúde. |\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 127-A/2024/1 - Diário da República n.º 64/2024, Suplemento, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2024-858522279), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-01-01"
+  },
+  "891432713": {
+   "fragment_id": "859556895",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere n.º 5 do artigo 17.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Anexo II do/a [Portaria n.º 127-A/2024/1 - Diário da República n.º 64/2024, Suplemento, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2024-858522279), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo II — (a que se refere n.º 5 do artigo 17.º)\n\n|  | Nome da USF modelo B |\n| --- | --- |\n| 1 | Águas Livres |\n| 2 | Aire e Candeeiros |\n| 3 | Aldegalega |\n| 4 | Anadia Saúde |\n| 5 | Armamar |\n| 6 | Baía Azul |\n| 7 | Barquinha |\n| 8 | Beira Mar |\n| 9 | Beira Saúde |\n| 10 | Beira Tejo |\n| 11 | Boa Viagem |\n| 12 | Caminho Novo |\n| 13 | Campos ConVida |\n| 14 | Canaviais |\n| 15 | Carolina Beatriz Ângelo |\n| 16 | Carregal do Sal |\n| 17 | Cereja |\n| 18 | Chamusca |\n| 19 | Cidade Jardim |\n| 20 | Colares |\n| 21 | D. Maria I |\n| 22 | da Villa |\n| 23 | de Campo |\n| 24 | Dólmen |\n| 25 | Du Bocage |\n| 26 | Estrela do Dão |\n| 27 | Feira Sul |\n| 28 | Flor de Lis |\n| 29 | Foco |\n| 30 | Fonte do Rei |\n| 31 | Kosmus |\n| 32 | Lendas d’Olhão |\n| 33 | Manuel Teixeira Gomes |\n| 34 | Marés |\n| 35 | Margens do Neiva |\n| 36 | Matriz |\n| 37 | Mónicas |\n| 38 | Monsanto |\n| 39 | Novo Ser |\n| 40 | Ouriceira |\n| 41 | Penacova |\n| 42 | Queluz |\n| 43 | Rainha do Tejo |\n| 44 | Remo |\n| 45 | Restelo |\n| 46 | Ribeiro Sanches |\n| 47 | São Roque da Lameira |\n| 48 | São Sebastião |\n| 49 | São Teotónio |\n| 50 | Saúde Laranjeiro |\n| 51 | Semear |\n| 52 | Sesimbra |\n| 53 | Souto Rio |\n| 54 | Stephens |\n| 55 | Tadim |\n| 56 | Távora |\n| 57 | Terra Verde |\n| 58 | Terras do Românico |\n| 59 | Vagos Sul |\n| 60 | Vale do Arunca |\n| 61 | Vale do Tâmega |\n| 62 | Vouzela |\n\n> Aditado pelo/a Anexo II do/a [Portaria n.º 127-A/2024/1 - Diário da República n.º 64/2024, Suplemento, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2024-858522279), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-01-01"
+  },
+  "892250568": {
+   "fragment_id": "858575219",
+   "type": 11,
+   "heading": "Artigo 17.º — Transição das USF modelo A e UCSP para USF modelo B",
+   "in_force_from": "2024-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2024/1 - Diário da República n.º 202/2024, Série I de 2024-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/270-2024-891337591), em vigor a partir de 2024-10-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 127-A/2024/1 - Diário da República n.º 64/2024, Suplemento, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2024-858522279), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Transição das USF modelo A e UCSP para USF modelo B\n\n1 - Para os efeitos do previsto nos n.os 2 e 4 do artigo 36.º do Regime, aplica-se integralmente, com efeitos a 1 de janeiro de 2024, o regime jurídico da organização e do funcionamento das unidades de saúde, incluindo o regime de carreiras, suplementos e incentivos previsto no capítulo vii, às seguintes unidades funcionais:\n\na) USF modelo A e Unidades de Cuidados de Saúde Personalizados (UCSP) que à data de entrada em vigor do Regime tenham apresentado candidatura a USF, cujo valor percentual de Índice de Desempenho Global (IDG) relativo ao ano de 2022, último período com resultados finais apurados, seja superior ou igual a 60 %;\n\nb) USF modelo A e UCSP que à data de entrada em vigor do Regime tenham apresentado candidatura a USF, cujo valor percentual de IDG relativo ao ano de 2023 seja superior ou igual a 60 %.\n\n2 - Às USF modelo A abrangidas pelo n.º 3 do artigo 36.º do Regime, aplica-se o regime de carreiras, suplementos e incentivos previsto no capítulo vii, a partir do dia 1 do mês seguinte àquele em que atinjam um IDE superior ou igual a 65 %, apurado nos termos da Portaria n.º 411-A/2023, de 5 de dezembro.\n\n3 - A lista das unidades funcionais a que se refere a alínea a) do n.º 1 consta do anexo I à presente portaria e dela faz parte integrante.\n\n4 - A lista das unidades funcionais a que se refere a alínea b) do n.º 1 é elaborada e remetida pela ACSS, I. P., ao membro do Governo responsável pela área da saúde, findo o processo de apuramento do IDG relativo ao ano de 2023.\n\n5 - A lista das unidades funcionais a que se refere o número anterior consta do anexo II à presente portaria e dela faz parte integrante.\n\n6 - A lista das unidades funcionais a que se refere o n.º 2 é elaborada e remetida pela ACSS, I. P., mensalmente, ao membro do Governo responsável pela área da saúde.\n\n7 - A lista das unidades funcionais a que se refere o número anterior é divulgada no sítio eletrónico da Administração Central do Sistema de Saúde, I. P., e é objeto de atualização mensal, após homologação pelo membro do Governo responsável pela área da saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2024/1 - Diário da República n.º 202/2024, Série I de 2024-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/270-2024-891337591), em vigor a partir de 2024-10-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 127-A/2024/1 - Diário da República n.º 64/2024, Suplemento, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2024-858522279), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-01-01"
+  },
+  "892297834": {
+   "fragment_id": "859556895",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere n.º 5 do artigo 17.º)",
+   "in_force_from": "2024-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2024/1 - Diário da República n.º 202/2024, Série I de 2024-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/270-2024-891337591), em vigor a partir de 2024-10-18, produz efeitos a partir de 2024-01-01",
+    "Aditado pelo/a Anexo II do/a [Portaria n.º 127-A/2024/1 - Diário da República n.º 64/2024, Suplemento, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2024-858522279), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo II — (a que se refere n.º 5 do artigo 17.º)\n\n|  | **Nome da USF modelo B** |\n| --- | --- |\n| 1 | Águas Livres |\n| 2 | Aire e Candeeiros |\n| 3 | Aldegalega |\n| 4 | Anadia Saúde |\n| 5 | Armamar |\n| 6 | Baía Azul |\n| 7 | Barquinha |\n| 8 | Beira Mar |\n| 9 | Beira Saúde |\n| 10 | Beira Tejo |\n| 11 | Boa Viagem |\n| 12 | Caminho Novo |\n| 13 | Campos ConVida |\n| 14 | Canaviais |\n| 15 | Carolina Beatriz Ângelo |\n| 16 | Carregal do Sal |\n| 17 | Cereja |\n| 18 | Chamusca |\n| 19 | Cidade Jardim |\n| 20 | Colares |\n| 21 | D. Maria I |\n| 22 | da Villa |\n| 23 | de Campo |\n| 24 | Dólmen |\n| 25 | Du Bocage |\n| 26 | Estrela do Dão |\n| 27 | Feira Sul |\n| 28 | Flor de Lis |\n| 29 | Foco |\n| 30 | Fonte do Rei |\n| 31 | Kosmus |\n| 32 | Lendas d’Olhão |\n| 33 | Manuel Teixeira Gomes |\n| 34 | Marés |\n| 35 | Margens do Neiva |\n| 36 | Matriz |\n| 37 | Mónicas |\n| 38 | Monsanto |\n| 39 | Novo Ser |\n| 40 | Ouriceira |\n| 41 | Penacova |\n| 42 | Queluz |\n| 43 | Rainha do Tejo |\n| 44 | Remo |\n| 45 | Restelo |\n| 46 | Ribeiro Sanches |\n| 47 | São Roque da Lameira |\n| 48 | São Sebastião |\n| 49 | São Teotónio |\n| 50 | Saúde Laranjeiro |\n| 51 | Semear |\n| 52 | Sesimbra |\n| 53 | Souto Rio |\n| 54 | Stephens |\n| 55 | Tadim |\n| 56 | Távora |\n| 57 | Terra Verde |\n| 58 | Terras do Românico |\n| 59 | Vagos Sul |\n| 60 | Vale do Arunca |\n| 61 | Vale do Tâmega |\n| 62 | Vouzela |\n| 63 | Arcos d´Ouro |\n| 64 | Campos do Mondego |\n| 65 | Claridade |\n| 66 | Mosteiro |\n| 67 | Louzada Nascente |\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 270/2024/1 - Diário da República n.º 202/2024, Série I de 2024-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/270-2024-891337591), em vigor a partir de 2024-10-18, produz efeitos a partir de 2024-01-01\n\n> Aditado pelo/a Anexo II do/a [Portaria n.º 127-A/2024/1 - Diário da República n.º 64/2024, Suplemento, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2024-858522279), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-01-01"
+  }
+ }
+}

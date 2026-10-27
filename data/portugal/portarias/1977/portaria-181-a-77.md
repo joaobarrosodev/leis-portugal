@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:289213:por
+title: Portaria n.º 181-A/77
+short_title: null
+summary: Fixa a tabela de preços dos estabelecimentos hoteleiros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 181-A/77
+official_date: null
+publication_date: '1977-03-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 76/1977, 2º Suplemento, Série I de 1977-03-31
+  number: '76'
+  series: I
+  supplement: null
+  pages: 662-(3) a 662-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '289213'
+  dre_path: /dr/detalhe/portaria/181-a-1977-289213
+  internal: pt:dre:289213:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/181-a-1977-289213
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/181-a-1977-289213
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 16c20afa629d20a25dd059ae4ef992c602073c0e3a1e50050afa0462608cd14a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:16:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral do Turismo
+- Estabelecimento Hoteleiro
+- Fixação de Preços
+- Infraestrutura Turística
+- Preço
+relationships:
+- type: amended_by
+  target: pt:dre:279184:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:160735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279184:por
+  label: Revogada, a partir de 01.11.1977, pelo(a) Portaria n.º 636/77 - Diário da República n.º 231/1977, Série I de 1977-10-06,
+    que manteve, contudo, transitoriamente em vigor, o regime de preços dela constantes para as Regiões Autónomas até que
+    cada um dos respectivos Governos disponha diversamente.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/636-1977-279184
+  date: '1977-10-06'
+- type: repealed_by
+  target: pt:dre:31007000:por
+  label: "Revogada pela PORT.37/77.29.11.1977.SRCI-RAA, JOA-IS [17] de 29.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/37-1977-31007000
+  date: '1977-11-29'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:16:08Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 181-A/77
+
+de 31 de Março
+
+Esgotando-se no próximo dia 31 de Março o prazo de validade da tabela de preços dos estabelecimentos hoteleiros anexa à [Portaria n.º 472/76](https://diariodarepublica.pt/dr/detalhe/portaria/472-1976-430850), de 2 de Agosto, e convindo por outro lado sistematizar uma série de regras aplicáveis aos estabelecimentos hoteleiros de interesse para o turismo, que se encontravam dispersas por vários textos legais ou constituíam simplesmente práticas correntes nesta actividade, sem que porém tivessem assumido alguma vez força de norma legal, entendeu-se necessário e conveniente sistematizar todas essas regras e práticas num texto legal único. Daí a presente portaria.
+
+Aproveitou-se a oportunidade para introduzir o princípio da vigência das tabelas de preços, aplicáveis na indústria hoteleira, segundo um limite temporal coincidente com o ano turístico, cujo termo é tradicionalmente fixado em 31 de Outubro de cada ano.
+
+Nestes termos:
+
+Ao abrigo do disposto no artigo 17.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Comércio e Turismo, o seguinte:
+
+1.º Os preços do aposento, do primeiro almoço, almoço e jantar (refeição completa) a praticar nos estabelecimentos hoteleiros de interesse para o turismo ficam sujeitos ao disposto nas Portarias n.os [168/75](https://diariodarepublica.pt/dr/detalhe/portaria/168-1975-160735), de 7 de Março, [472/76](https://diariodarepublica.pt/dr/detalhe/portaria/472-1976-430850), de 2 de Agosto, e na presente portaria.
+
+2.º Nos estabelecimentos referidos no número anterior poderão ser praticados, relativamente ao aposento, quaisquer preços compreendidos entre os limites máximos e mínimos fixados nos quadros I e II anexos à presente portaria e, em relação às refeições, quaisquer preços até aos máximos constantes do quadro III.
+
+3.º O preço do aposento que, dentro dos limites legais, tiver sido comunicado ao hóspede quando da sua entrada no estabelecimento não pode ser alterado durante a sua estada.
+
+4.º Do preço do aposento a praticar nos hotéis, pensões e estalagens (grupos 1, 2 e 4, a que se refere o n.º 1 do artigo 15.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969) fazem parte integrante os serviços de alojamento e de pequeno-almoço «continental».
+
+5.º A composição mínima do pequeno-almoço «continental» será fixada por despacho do Secretário de Estado do Turismo.
+
+6.º Nos estabelecimentos referidos no n.º 4.º, quando um quarto duplo for ocupado apenas por uma pessoa, será obrigatoriamente descontado no preço do aposento o valor correspondente ao preço de um serviço de pequeno-almoço «continental».
+
+7.º Nos estabelecimentos referidos no n.º 4.º, quando eventualmente haja uma impossibilidade de facto de prestar ao cliente o serviço de pequeno almoço «continental», o valor correspondente ao seu preço será obrigatoriamente descontado no preço do aposento.
+
+8.º Salvo nos casos previstos nos n.os 6.º e 7.º, o hóspede não poderá exigir qualquer desconto correspondente à não utilização do serviço de pequeno-almoço «continental».
+
+9.º O primeiro almoço «à inglesa» constitui um serviço extra, sujeito ao regime de preços livres.
+
+10.º Nos estabelecimentos referidos no n.º 4.º o hoteleiro não poderá cobrar ao hóspede qualquer quantia pelo serviço de primeiro almoço, salvo se o hóspede optar pelo pequeno-almoço «à inglesa».
+
+11.º Ao hóspede, quando da sua entrada no estabelecimento, deverá ser entregue um cartão, do qual constem obrigatoriamente, no mínimo, os seguintes elementos:
+
+a) Identificação do estabelecimento (denominação, endereço e classificação);
+
+b) Nome do hóspede;
+
+c) Número e preço do quarto;
+
+d) Data de entrada;
+
+e) Data prevista de saída,
+
+f) Número de pessoas que ocupam o quarto.
+
+12.º Do cartão deverá ainda constar, textualmente, a seguinte menção:
+
+Guarde este cartão para efeitos de qualquer reclamação perante os serviços oficiais de turismo.
+
+13.º O texto deste cartão deve sempre ser escrito em português e, pelo menos, numa das seguintes línguas: francês, inglês, alemão ou espanhol; a escolha da língua estrangeira utilizada deve ser feita em função da nacionalidade dos clientes que constituem a frequência dominante do estabelecimento.
+
+14.º O único preço do aposento que vale para o efeito do disposto no n.º 3.º, dentro dos limites legais, será o constante do cartão entregue ao hóspede.
+
+15.º Os preços dos serviços complementares prestados nos estabelecimentos hoteleiros, designadamente os de lavadaria, sauna e piscina, ficam sujeitos ao regime de preços declarados.
+
+16.º Nos estabelecimentos hoteleiros abrangidos pela presente portaria deve afixar-se em cada quarto, em local bem visível, um impresso normalizado, de modelo a estabelecer pela Direcção-Geral do Turismo, do qual constem a denominação e classificação do estabelecimento, os limites legais máximos e mínimos do preço do aposento e o preço do primeiro almoço «continental», do almoço e do jantar (refeição completa).
+
+17.º Estes impressos devem ser escritos, cumulativamente, em português, francês, inglês e alemão.
+
+18.º As acções praticadas em contravenção da presente portaria às quais não corresponda sanção específica mais grave serão punidas nos termos do disposto nos artigos 234.º e 235.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, com multa de 1000$00 a 10000$00.
+
+19.º São revogados os n.os 4.º e 11.º da [Portaria n.º 168/75](https://diariodarepublica.pt/dr/detalhe/portaria/168-1975-160735), de 7 de Março, e os n.os 10.º a 18.º, inclusive, da [Portaria n.º 472/76](https://diariodarepublica.pt/dr/detalhe/portaria/472-1976-430850), de 2 de Agosto.
+
+20.º Esta portaria entra em vigor em 1 de Abril de 1977, devendo as tabelas constantes dos quadros anexos ser revistas até 31 de Outubro do ano corrente.
+
+Ministério do Comércio e Turismo, 30 de Março de 1977. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.
+
+TABELAS ANEXAS
+
+A que se refere o n.º 2.º da Portaria n.º 181-A/77, de 31 de Março
+
+QUADRO I
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf)
+
+QUADRO II
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf)
+
+QUADRO III
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/07602/00030006.pdf)
+
+O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.

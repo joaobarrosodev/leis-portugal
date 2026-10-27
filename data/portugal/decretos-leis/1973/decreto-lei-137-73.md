@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:675061:por
+title: Decreto-Lei n.º 137/73
+short_title: null
+summary: Regula o sistema de preços «tudo incluído», previsto no artigo 60.º do Decreto-Lei n.º 49399, e torna obrigatória
+  a sua prática nos estabelecimentos hoteleiros de interesse para o turismo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho - Secretaria de Estado da Informação e Turismo
+proposing_entity: null
+official_number: 137/73
+official_date: null
+publication_date: '1973-03-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 76/1973, Série I de 1973-03-30
+  number: '76'
+  series: I
+  supplement: null
+  pages: 497 - 499
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/03/07600/04970499.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '675061'
+  dre_path: /dr/detalhe/decreto-lei/137-1973-675061
+  internal: pt:dre:675061:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1973-675061
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1973-675061
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:26:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 77dc88d61eeb8e4de0d614c4693c9b3cff2116221068b405d2cba7dd5e7fce11
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cobrança de Impostos
+- Contribuições e Impostos
+- Definição de Competências
+- Direcção Geral de Turismo
+- Fiscalização
+- Fundo de Socorro Social
+- Imposto de Turismo
+- Infraestrutura Turística
+- Inspecção Geral das Actividades Económicas
+- Multa
+- Taxa
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:26:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 137/73
+
+de 30 de Março
+
+No artigo 60.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, previa-se a publicação de um diploma regulador do sistema «tudo incluído», dando-se, desde logo, às empresas a faculdade de proporem a aprovação de tabelas cujos preços incluíssem todas as taxas e impostos a cobrar, ou sejam a taxa de serviço, taxa para o Fundo de Socorro Social e imposto de turismo.
+
+Dá-se, agora, em parte, execução a essa disposição legal, tornando-se obrigatória a sua prática para certos estabelecimentos, depois de ouvidos os respectivos organismos corporativos.
+
+Com efeito, dada a diversidade de exploração da indústria hoteleira, considerou-se ser mais aconselhável não estender desde já a todos os estabelecimentos o regime agora instituído.
+
+Assim, excluíram-se, nesta primeira fase, os estabelecimentos similares classificados como «estabelecimentos de bebidas», ainda que classificados simultaneamente noutros grupos, e os classificados sem interesse para o turismo, visto ser de prever, pelas suas características, uma difícil adaptação ao sistema.
+
+Permite-se, porém, que tais empresas continuem a adoptar voluntariamente esse sistema, se se considerarem dotadas dos meios necessários para tal.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. Os preços a praticar nos estabelecimentos hoteleiros de interesse para o turismo e similares de interesse para o turismo classificados como restaurantes e salas de dança deverão sempre incluir a taxa de serviço, taxa para o Fundo de Socorro Social e o imposto de turismo, que, nos termos da lei e dos instrumentos de regulamentação colectiva de trabalho, incidem sobre as respectivas importâncias e sejam devidos pelos clientes.
+
+2. O disposto no número anterior não é aplicável aos preços dos estabelecimentos similares classificados em mais de um grupo, desde que um desses grupos seja o de «estabelecimentos de bebidas», salvo se o estabelecimento for classificado como sala de dança.
+
+Art. 2.º - 1. Nas tabelas de preços a submeter a aprovação deverá ser indicado o preço a praticar, discriminando-se o preço base e as importâncias de cada um dos impostos, taxas e outros encargos incluídos, sem o que não poderão ser apreciadas.
+
+2. O preço a praticar será arredondado, por excesso, para os cinquenta centavos ou para o escudo, nos termos a determinar pela Direcção-Geral do Turismo.
+
+3. Nas tabelas de preços e contas será obrigatoriamente aposta a indicação de estarem incluídos todos os imposto, taxas e demais encargos, que não podem ser indicados, directa ou indirectamente.
+
+4. A indicação prevista no número anterior poderá fazer-se através da sigla internacionalmente usada - «T. S. C.».
+
+Art. 3.º As pessoas que explorem os estabelecimentos a que se aplica este diploma deverão organizar a sua escrita de modo a poder apurar-se o montante cobrado de cada um dos impostos, taxas e demais encargos incluídos nos preços.
+
+Art. 4.º São competentes para fiscalizar o cumprimento do disposto neste diploma a Direcção-Geral do Turismo, a Inspecção-Geral das Actividades Económicas e as entidades competentes para fiscalizar a liquidação e cobrança dos impostos, taxas e outros encargos abrangidos por este decreto-lei.
+
+Art. 5.º 1. A infracção ao disposto no n.º 1 do artigo 1.º será punida com a multa de 5000$00 a 50000$00.
+
+2. A infracção ao disposto no n.º 3 do artigo 2.º será punida com a multa de 1000$00 a 5000$00.
+
+3. A infracção ao disposto no artigo 3.º será punida com a multa de 2000 a 50000$00.
+
+4. Os limites das multas previstas nos números anteriores serão aumentados para o dobro em caso de reincidência.
+
+5. Considera-se que há reincidência sempre que no período de um ano contado da prática de uma infracção seja praticada no mesmo estabelecimento qualquer outra à mesma regra anteriormente violada.
+
+6. As multas previstas neste artigo serão fixadas dentro dos limites estabelecidos, tendo em atenção a natureza e circunstância da infracção, os antecedentes do infractor e a sua capacidade económica.
+
+7. A aplicação das multas é da competência do director-geral do Turismo.
+
+8. Na falta de pagamento voluntário de uma multa, será o processo enviado aos tribunais fiscais para execução, nos termos do Código de Processo das Contribuições e Impostos.
+
+Art. 6.º - 1. Sendo infractor uma pessoa colectiva ou uma sociedade, serão solidariamente responsáveis pelo pagamento da multa os directores, administradores, gerentes, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
+
+2. Das pessoas referidas no número anterior só responderão, porém, as que tiverem praticado ou sancionado a omissão ou o acto delituosos.
+
+Art. 7.º O disposto neste diploma não prejudica a aplicação das normas próprias dos impostos, taxas e outros encargos por ele abrangidos.
+
+Art. 8.º - 1. As modificações introduzidas nos impostos, taxas e demais encargos previstos no artigo 1.º, posteriormente às datas referidas no artigo 201.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, das quais resulte alteração das tabelas de preços em vigor para determinado ano, só serão aplicadas no ano seguinte àquele para o qual essas tabelas se consideram aprovadas.
+
+2. No caso previsto no número anterior, os exploradores dos estabelecimentos deverão apresentar no ano seguinte novas tabelas de preços contemplando as modificações introduzidas, sob pena de se considerar que não têm preços aprovados.
+
+Art. 9.º O disposto no presente decreto-lei aplicar-se-á aos estabelecimentos não abrangidos pelo n.º 1 do artigo 1.º, sempre que os respectivos exploradores solicitem a aprovação de tabelas de preços com observância das normas estabelecidas nos artigos 1.º e 2.º
+
+Art. 10.º - 1. A competência atribuída neste diploma à Direcção-Geral do Turismo será exercida, relativamente aos estabelecimentos hoteleiros e similares sem interesse para o turismo, pelo presidente da câmara municipal do concelho da respectiva situação.
+
+2. No caso estabelecido no número anterior, os limites das multas previstas no artigo 5.º, que constituirão receita municipal, serão reduzidos pela forma seguinte:
+
+a) A do n.º 1, para 1000$00 a 10000$00;
+
+b) A do n.º 2, para 100$00 a 1000$00;
+
+c) A do n.º 3, para 500$00 a 10000$00.
+
+Art. 11.º O disposto nos §§ 1.º, 2.º e 5.º do artigo 773.º do Código Administrativo não é aplicável aos estabelecimentos abrangidos por este diploma.
+
+Art. 12.º - 1. No prazo de sessenta dias, contado da publicação do presente diploma, deverão os exploradores dos estabelecimentos por ele abrangidos submeter à aprovação da Direcção-Geral do Turismo novas tabelas de preços, para cumprimento do disposto nos artigos 1.º e 2.º
+
+2. A Direcção-Geral do Turismo, no prazo de oito dias, contado da data da entrada da proposta dos preços que os interessados pretendem praticar, remeterá à Inspecção-Geral das Actividades Económicas um exemplar da mesma proposta.
+
+3. Para execução do disposto no número anterior devem os interessados apresentar na Direcção-Geral do Turismo, em triplicado e em impresso normalizado, a proposta dos preços que pretendem praticar, destinando-se um dos exemplares a ser-lhes devolvido, com a data da entrada, para servir de recibo.
+
+4. A Direcção-Geral do Turismo não poderá aprovar os preços propostos sem o prévio parecer favorável da Inspecção-Geral das Actividades Económicas, que, para o efeito, se deverá pronunciar no prazo de trinta dias, contado da data da entrada nos serviços do exemplar mencionado no n.º 3. Findo esse prazo e não havendo qualquer comunicação, entender-se-á que o parecer é concordante com a tabela apresentada.
+
+5. A Direcção-Geral do Turismo terá um prazo de trinta dias para aprovar os preços propostos, contado da data em que terminar o prazo para a Inspecção-Geral das Actividades Económicas dar o seu parecer, findo o qual se considerarão tacitamente aprovados.
+
+6. Recebidas as tabelas de preços aprovadas nos termos deste artigo, ou verificada a aprovação tácita prevista no número anterior, os exploradores dos estabelecimentos deverão enviar à Direcção-Geral do Turismo as anteriores tabelas em seu poder, no prazo de quinze dias, sob pena de incorrerem no crime de desobediência previsto no artigo 188.º do Código Penal.
+
+Art. 13.º O presente diploma entra em vigor no dia 15 de Junho de 1973, com excepção do artigo 12.º, que entrará imediatamente.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
+
+Promulgado em 15 de Março de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.

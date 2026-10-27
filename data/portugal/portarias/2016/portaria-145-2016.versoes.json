@@ -1,0 +1,644 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74454615:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-117128585",
+ "dre_path": "/dr/detalhe/portaria/145-2016-74454615",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114682828:por",
+     "title": "Portaria n.º 46/2018",
+     "published": "2018-02-12",
+     "dre_path": "/dr/detalhe/portaria/46-2018-114682828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "117127725",
+    "117127726",
+    "117127727",
+    "117127728",
+    "117127729",
+    "117127730",
+    "117127731",
+    "117127732",
+    "117127733",
+    "117127734",
+    "117127735",
+    "117127736",
+    "117127737",
+    "117127738",
+    "117127739",
+    "117127740",
+    "117127741",
+    "117127742",
+    "117127743",
+    "117127744",
+    "117127745",
+    "117127746",
+    "117127747",
+    "117127748",
+    "117127749",
+    "117127750",
+    "117127751",
+    "117127752",
+    "117127753",
+    "117127755",
+    "117127756",
+    "117127757"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:75341997:por",
+     "title": "Portaria n.º 249/2016",
+     "published": "2016-09-15",
+     "dre_path": "/dr/detalhe/portaria/249-2016-75341997",
+     "date": "2016-05-29"
+    }
+   ]
+  },
+  {
+   "date": "2018-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117114264:por",
+     "title": "Portaria n.º 303/2018",
+     "published": "2018-11-26",
+     "dre_path": "/dr/detalhe/portaria/303-2018-117114264"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "117127725",
+    "117127726",
+    "117127727",
+    "117127728",
+    "117127729",
+    "117127730",
+    "117127731",
+    "117127732",
+    "117127733",
+    "117127734",
+    "117132982",
+    "117127736",
+    "117127737",
+    "117132983",
+    "117127739",
+    "117127740",
+    "117127741",
+    "117127742",
+    "117127743",
+    "117127760",
+    "117127745",
+    "117127746",
+    "117132984",
+    "117127748",
+    "117127749",
+    "117127750",
+    "117132985",
+    "117127752",
+    "117127753",
+    "117127754",
+    "117127755",
+    "117127756",
+    "117127757"
+   ]
+  },
+  {
+   "date": "2019-07-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123513822:por",
+     "title": "Portaria n.º 236/2019",
+     "published": "2019-07-26",
+     "dre_path": "/dr/detalhe/portaria/236-2019-123513822"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "117127725",
+    "117127726",
+    "117127727",
+    "117127728",
+    "117127729",
+    "117127730",
+    "117127731",
+    "123540896",
+    "123540897",
+    "117127734",
+    "117132982",
+    "117127736",
+    "117127737",
+    "117132983",
+    "123540898",
+    "117127740",
+    "117127741",
+    "117127742",
+    "117127743",
+    "117127760",
+    "117127745",
+    "117127746",
+    "117132984",
+    "117127748",
+    "117127749",
+    "117127750",
+    "117132985",
+    "117127752",
+    "117127753",
+    "117127754",
+    "117127755",
+    "117127756",
+    "117127757"
+   ]
+  },
+  {
+   "date": "2021-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:170794629:por",
+     "title": "Portaria n.º 186/2021",
+     "published": "2021-09-06",
+     "dre_path": "/dr/detalhe/portaria/186-2021-170794629"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "117127725",
+    "117127726",
+    "117127727",
+    "117127728",
+    "117127729",
+    "117127730",
+    "117127731",
+    "123540896",
+    "123540897",
+    "117127734",
+    "170793922",
+    "117127736",
+    "117127737",
+    "117132983",
+    "123540898",
+    "117127740",
+    "117127741",
+    "117127742",
+    "117127743",
+    "117127760",
+    "117127745",
+    "117127746",
+    "117132984",
+    "117127748",
+    "117127749",
+    "117127750",
+    "117132985",
+    "117127752",
+    "117127753",
+    "117127754",
+    "117127755",
+    "117127756",
+    "117127757"
+   ]
+  },
+  {
+   "date": "2023-01-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:206564389:por",
+     "title": "Portaria n.º 36/2023",
+     "published": "2023-01-26",
+     "dre_path": "/dr/detalhe/portaria/36-2023-206564389"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "117127725",
+    "117127726",
+    "117127727",
+    "117127728",
+    "117127729",
+    "117127730",
+    "117127731",
+    "123540896",
+    "123540897",
+    "117127734",
+    "206401537",
+    "117127736",
+    "117127737",
+    "117132983",
+    "123540898",
+    "117127740",
+    "117127741",
+    "117127742",
+    "117127743",
+    "117127760",
+    "117127745",
+    "117127746",
+    "117132984",
+    "117127748",
+    "117127749",
+    "117127750",
+    "117132985",
+    "117127752",
+    "117127753",
+    "117127754",
+    "117127755",
+    "117127756",
+    "117127757"
+   ]
+  }
+ ],
+ "fragments": {
+  "117127725": {
+   "fragment_id": "117128586",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 145/2016\n\nde 17 de maio\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, estabeleceu o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), e determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural, um para o continente, designado PDR 2020, outro para a Região Autónoma dos Açores, designado PRORURAL+, e outro para a Região Autónoma da Madeira, designado PRODERAM 2020.\n\nNo âmbito da arquitetura do PDR 2020, formalmente aprovado pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014, a área relativa à «Inovação e conhecimento» obedece à visão da estratégia nacional para o desenvolvimento rural, no domínio da inovação e capacitação, cujo objetivo estratégico consiste no aumento da capacidade de inovação e na geração e transferência de conhecimento nos setores agrícola e florestal e nas zonas rurais.\n\nInserida na referida área encontra-se a medida «Conhecimento», cujo objetivo é melhorar a informação e a capacitação técnica e empresarial dos ativos do setor agrícola, alimentar e florestal, tendo em vista a promoção do crescimento económico e o desenvolvimento das zonas rurais através da melhoria da sustentabilidade, competitividade, eficiência de recursos e desempenho ambiental das explorações e empresas.\n\nNesta medida, inscreve-se a ação «Capacitação e divulgação», que prevê a realização de ações de transferência de conhecimentos e de informação, recorrendo a processos, linguagens e tempos de transmissão diferenciados, tendo em conta o perfil de habilitações dos ativos do setor, bem como um conjunto de necessidades a que as explorações e empresas têm de dar resposta para um bom desempenho e inserção nos mercados.\n\nAssim, à semelhança dos apoios relativos às «ações de informação», em face da concreta avaliação das necessidades formativas dos jovens agricultores com projeto de instalação aprovado e dos demais ativos nos setores agrícola, agroalimentar e florestal, optou-se por regulamentar, desde já, os apoios relativos às ações de formação, com o intuito de promover, atempadamente, a aquisição do conhecimento necessário à concretização de projetos de instalação de jovens agricultores apresentados ao abrigo do PDR 2020 e do Programa de Desenvolvimento Rural do Continente 2007-2013 (PRODER), aprovados a partir de 1 de janeiro de 2013, bem como a aquisição de capacitação técnica em domínios relevantes para a atividade desenvolvida por ativos nos setores agrícola, agroalimentar e florestal.\n\nO apoio previsto complementa as restantes respostas disponíveis e vocacionadas para o apoio à qualificação dos recursos humanos e das empresas, nomeadamente do Fundo Social Europeu (FSE), permitindo-se uma abordagem que potencia de forma concertada o apoio dos vários instrumentos de política para a capacitação dos agentes do setor, em função das suas especificidades, através de operações ajustadas no conteúdo e no modo de operacionalização.\n\nAs ações de formação a apoiar dividem-se em dois grupos, designadamente, a formação base, de carácter mais generalista, dirigida a jovens agricultores com projeto de instalação aprovado ao abrigo do PDR 2020 ou do programa PRODER, e a formação específica, de carácter especializado, capacitando para a intervenção em condições mais concretas de contexto produtivo, e que se dirige a ativos de explorações agrícolas ou florestais, de empresas agroalimentares com atividade na produção de produtos enumerados na lista constante do anexo I do Tratado sobre o Funcionamento da União Europeia, e de entidades gestoras de zonas de intervenção florestal e a técnicos que exerçam atividade de apoio técnico ao setor agrícola, agroalimentar ou florestal.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, o seguinte:"
+  },
+  "117127726": {
+   "fragment_id": "117128587",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "117127727": {
+   "fragment_id": "117128588",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação da operação n.º 2.1.1, «Ações de formação», inserida na ação n.º 2.1, «Capacitação e divulgação», da medida n.º 2, «Conhecimento», integrada na área n.º 1, «Inovação e conhecimento», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "117127728": {
+   "fragment_id": "117128589",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos na presente portaria têm como objetivo promover a aquisição, por ativos dos setores agrícola, agroalimentar e florestal, de conhecimentos necessários à concretização dos projetos de investimento apresentados por jovens agricultores, quer no âmbito do PDR 2020, quer no âmbito do PRODER, bem como promover a capacitação técnica em domínios relevantes para a sua atividade."
+  },
+  "117127729": {
+   "fragment_id": "117128590",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes no artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Entidade formadora certificada», a entidade certificada para a prestação da formação profissional nos termos da legislação nacional;\n\nb) «Jovem agricultor», o agricultor que, à data da apresentação da candidatura, tenha idade compreendida entre os 18 e os 40 anos, inclusive, e se instale pela primeira vez numa exploração agrícola, na qualidade de responsável por essa exploração."
+  },
+  "117127730": {
+   "fragment_id": "117128591",
+   "type": 11,
+   "heading": "Artigo 4.º — Auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Auxílios de Estado\n\n1 - O apoio previsto na presente portaria é concedido nas condições constantes dos artigos 38.º e 47.º do Regulamento (UE) n.º 702/2014 da Comissão, de 25 de junho, que declara certas categorias de auxílios no setor agrícola e florestal e nas zonas rurais compatíveis com o mercado comum, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia (TFUE).\n\n2 - Os apoios concedidos são alvo de divulgação no portal do Gabinete de Planeamento, Políticas e Administração Geral, em www.gpp.pt, através de hiperligações às páginas eletrónicas das entidades relevantes."
+  },
+  "117127731": {
+   "fragment_id": "117128592",
+   "type": 1,
+   "heading": "Capítulo II — Ações de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Ações de formação"
+  },
+  "117127732": {
+   "fragment_id": "117128593",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem beneficiar do apoio previsto na presente portaria as pessoas coletivas, de natureza pública ou privada, que desenvolvam atividades de transferência de conhecimentos e ações de informação, na aceção do artigo 14.º do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.\n\n2 - São excluídas do apoio previsto na presente portaria, no que se refere a ações de formação dirigidas ao setor florestal ou dirigidas a técnicos superiores que exerçam a atividade de apoio técnico ao setor agrícola, agroalimentar e florestal, as entidades:\n\na) Que sejam consideradas empresas em dificuldade, na aceção do ponto n.º 14 do artigo 2.º do Regulamento (UE) n.º 702/2014, da Comissão, de 25 de junho de 2014, que declara certas categorias de auxílios no setor agrícola e florestal e nas zonas rurais compatíveis com o mercado comum, em aplicação dos artigos 107.º e 108.º do TFUE;\n\nb) Sobre as quais impenda um processo de recuperação de auxílios de Estado, declarados incompatíveis com o mercado interno, pela Comissão Europeia."
+  },
+  "117127733": {
+   "fragment_id": "117128594",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologia de ações de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipologia de ações de formação\n\n1 - Podem ser concedidos apoios às seguintes tipologias de ações de formação:\n\na) Formação base dirigida a:\n\ni) Jovens agricultores com projeto de instalação aprovado ao abrigo do PDR 2020;\n\nii) Jovens agricultores com projeto de instalação aprovado ao abrigo do Programa de Desenvolvimento Rural do Continente 2007-2013 (PRODER), com projetos de investimento aprovados a partir de 1 de janeiro de 2013.\n\nb) Formação específica dirigida a:\n\ni) Ativos de explorações agrícolas ou florestais e de empresas agroalimentares com atividade na produção de produtos enumerados na lista constante do anexo I do TFUE, e de entidades gestoras de zonas de intervenção florestal;\n\nii) Técnicos superiores que exerçam atividade de apoio técnico ao setor agrícola, agroalimentar ou florestal.\n\n2 - A formação prevista na subalínea i) da alínea a) do n.º 1 tem por base as unidades de formação de curta duração do referencial de formação 621312, «Técnico/a de produção Agropecuária», de nível 4, do Catálogo Nacional de Qualificações, constituída pelo código 7580, com 50 horas de duração.\n\n3 - A formação prevista na subalínea ii) da alínea a) do n.º 1 deve respeitar os módulos previstos no Anexo I da Portaria n.º 357-A/2008, de 9 de maio.\n\n4 - A formação específica tem uma duração máxima de 135 horas quando realizada em território nacional e de 140 horas quando realizada noutro Estado membro da União Europeia e incide sobre os domínios temáticos previstos no anexo I da presente portaria, que desta faz parte integrante, conforme as necessidades setoriais identificadas pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) e que não sejam enquadráveis nos programas operacionais financiados pelo Fundo Social Europeu."
+  },
+  "117127734": {
+   "fragment_id": "117128595",
+   "type": 11,
+   "heading": "Artigo 7.º — Critério de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critério de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos na presente portaria, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem cumprir os seguintes critérios:\n\na) Estarem legalmente constituídos;\n\nb) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 3;\n\nc) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER e do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\nd) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\ne) Deterem um sistema de contabilidade organizada ou cumprirem as regras do regime simplificado de tributação, nos termos da legislação em vigor;\n\nf) Estarem certificados como entidade formadora pela Direção-Geral do Emprego e das Relações de Trabalho para os domínios do conhecimento que se propõem transmitir ou, no caso de certificação regulada setorialmente, pelo organismo competente;\n\ng) Afetarem os meios materiais necessários à realização das atividades a que se propõem realizar;\n\nh) Afetarem os recursos humanos adequados à realização das atividades propostas no plano de formação, os quais devem cumprir os seguintes requisitos:\n\ni) Estarem habilitados com grau académico adequado;\n\nii) Possuírem competências pedagógicas, quando exigível;\n\niii) Possuírem experiência profissional não inferior a três anos ou terem formação profissional nos domínios temáticos a transferir.\n\n2 - Quando não disponham da certificação prevista na alínea f) do n.º 1, os candidatos podem subcontratar entidades formadoras certificadas, devendo as mesmas ser identificadas na candidatura, bem como os domínios temáticos dos serviços a contratar.\n\n3 - O critério previsto na alínea b) do n.º 1 pode ser aferido até à data de apresentação do primeiro pedido de pagamento.\n\n4 - Os critérios previstos nas alíneas g) e h) do n.º 1 podem ser aferidos até à data de assinatura do termo de aceitação."
+  },
+  "117127735": {
+   "fragment_id": "117128596",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios de elegibilidade das operações\n\nPodem beneficiar dos apoios previstos na presente portaria, as operações que se enquadrem nos objetivos do artigo 2.º e que cumpram os seguintes critérios:\n\na) Apresentem um plano de formação, com uma duração não superior a dois anos, que desenvolva de forma fundamentada, designadamente, os seguintes elementos relativos às ações de formação previstas:\n\ni) Domínio temático e duração;\n\nii) Identificação dos destinatários;\n\niii) Objetivos e metas a alcançar;\n\niv) Descrição, calendarização e âmbito territorial;\n\nv) Identificação dos recursos humanos e materiais envolvidos;\n\nvi) Orçamento detalhado;\n\nb) Não sejam desenvolvidas para promoção de marcas comerciais;\n\nc) Não sejam desenvolvidas exclusivamente a favor de pessoas que exerçam atividade de forma permanente para o candidato, tenham ou não vínculo laboral com este;\n\nd) Tenham início após a data de apresentação da candidatura."
+  },
+  "117127736": {
+   "fragment_id": "117128597",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis e não elegíveis\n\nAs despesas elegíveis e as não elegíveis são, designadamente, as constantes do anexo II da presente portaria, e da qual faz parte integrante."
+  },
+  "117127737": {
+   "fragment_id": "117128598",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Critérios de seleção das candidaturas\n\n1 - Para efeitos de seleção de candidaturas aos apoios previstos na presente portaria, são considerados, designadamente, os seguintes critérios:\n\na) Relevância das ações de formação;\n\nb) Abrangência do plano de formação, em termos territoriais, temáticos e de destinatários;\n\nc) Experiência e qualificação dos candidatos;\n\nd) Nível de representatividade setorial.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate são definidos pela autoridade de gestão e divulgados no portal do PDR 2020 em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas."
+  },
+  "117127738": {
+   "fragment_id": "117128599",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos na presente portaria, além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:\n\na) Executar a operação nos termos e condições aprovados;\n\nb) Manter as condições legais necessárias ao exercício da respetiva atividade até ao final da operação;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das atividades, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada, nos termos da legislação em vigor;\n\ng) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;\n\nh) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior;\n\ni) Dispor de um processo relativo à operação, incluindo a componente técnico-pedagógica, devidamente organizado nos termos definidos em Orientação Técnica Específica (OTE), preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nj) Proceder à ampla divulgação das ações de formação, bem como remeter informação sobre as mesmas à DGADR e à autoridade de gestão do PDR 2020;\n\nk) Entregar o certificado de frequência da ação de formação a todos os formandos com aproveitamento, com indicação da respetiva duração, programa e conteúdo, observando as demais disposições aplicáveis nesta matéria;\n\nl) Elaborar relatório de avaliação da ação de formação, que inclua a apreciação efetuada pelo formador e pelos formandos;\n\nm) Apresentar à autoridade de gestão, nos termos definidos em OTE, no prazo máximo de 90 dias a contar da conclusão do plano de formação, o relatório final de execução;\n\nn) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\no) Assegurar o fornecimento de elementos necessários às atividades de monitorização e de avaliação da operação e participar em processos de inquirição relacionados com as mesmas."
+  },
+  "117127739": {
+   "fragment_id": "117128600",
+   "type": 11,
+   "heading": "Artigo 12.º — Forma, nível e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Forma, nível e limites do apoio\n\n1 - O apoio previsto na presente portaria é concedido sob a forma de subvenção não reembolsável.\n\n2 - Os apoios a conceder estão limitados a:\n\na) 100 % da despesa total elegível para as ações de formação base;\n\nb) 80 % da despesa total elegível para as ações de formação específica dirigidas aos ativos de explorações agrícolas ou florestais, de empresas agroalimentares e de entidades gestoras de zonas de intervenção florestal;\n\nc) 60 % da despesa total elegível para as ações de formação específica dirigidas aos quadros técnicos que exerçam atividade de apoio técnico ao setor agrícola, agroalimentar ou florestal.\n\n3 - As despesas gerais decorrentes da organização e realização da ação de formação, classificadas como custos indiretos no anexo II, assumem a modalidade de custos simplificados, sendo determinadas por aplicação de uma taxa fixa de 3 % da totalidade das despesas diretas com pessoal, referidas no n.º 1 da alínea A) do ponto II e no n.º 1 da alínea A) do ponto III do Anexo II da presente portaria, e de acordo com o previsto na subalínea ii) da alínea e) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro.\n\n4 - As despesas elegíveis previstas no Anexo II estão sujeitas, quando aplicável, aos limites previstos na Portaria n.º 60-A/2015, de 2 de março.\n\n5 - Caso os beneficiários optem por imputar o custo da formação aos formandos, o mesmo é limitado ao valor da despesa total elegível não comparticipada, nos termos do n.º 2."
+  },
+  "117127740": {
+   "fragment_id": "117128601",
+   "type": 1,
+   "heading": "Capítulo III — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimento"
+  },
+  "117127741": {
+   "fragment_id": "117128602",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação das candidaturas\n\n1 - São estabelecidos períodos para apresentação de candidaturas de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, cuja publicitação se efetua no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt e em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou no portal do PDR 2020, em www.pdr-2020.pt, e estão sujeitas a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura."
+  },
+  "117127742": {
+   "fragment_id": "117128603",
+   "type": 11,
+   "heading": "Artigo 14.º — Anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A tipologia das operações a apoiar;\n\nc) A dotação orçamental a atribuir;\n\nd) O número máximo de candidaturas admitidas por beneficiário;\n\ne) Os critérios de seleção e respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;\n\nf) A forma, o nível e os limites dos apoios a conceder, respeitando o disposto no artigo 12.º\n\n2 - Os anúncios são divulgados pela autoridade de gestão, no portal do Portugal 2020, em www.portugal2020.pt e no portal do PDR 2020, em www.pdr-2020.pt e publicitados em dois órgãos de comunicação social."
+  },
+  "117127743": {
+   "fragment_id": "117128604",
+   "type": 11,
+   "heading": "Artigo 15.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Análise e decisão das candidaturas\n\n1 - A autoridade de gestão analisa e emite parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação, e do beneficiário, bem como a aplicação dos critérios referidos no artigo 10.º, o apuramento do montante do custo total elegível e o nível de apoio previsional.\n\n2 - A DGADR emite parecer quanto ao conteúdo pedagógico das ações de formação específica, sempre que solicitado pela autoridade de gestão.\n\n3 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação da candidatura.\n\n4 - O parecer referido no n.º 1 é emitido num prazo máximo de 45 dias úteis contados a partir da data limite para apresentação das candidaturas.\n\n5 - O secretariado técnico aplica os critérios de seleção, em função do princípio da coesão territorial e da dotação orçamental referida no respetivo anúncio e submete à decisão do gestor a aprovação das candidaturas.\n\n6 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código do Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n7 - As candidaturas são objeto de decisão pelo gestor no prazo de 60 dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão."
+  },
+  "117127744": {
+   "fragment_id": "117128605",
+   "type": 11,
+   "heading": "Artigo 16.º — Transição das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transição das candidaturas\n\n1 - As candidaturas que tenham sido objeto de parecer favorável e que não tenham sido aprovadas por razões de insuficiência orçamental transitam para o período de apresentação de candidaturas seguinte, sendo sujeitas à aplicação dos critérios de seleção deste novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida."
+  },
+  "117127745": {
+   "fragment_id": "117128606",
+   "type": 11,
+   "heading": "Artigo 17.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no seu portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "117127746": {
+   "fragment_id": "117128607",
+   "type": 11,
+   "heading": "Artigo 18.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Execução das operações\n\n1 - A execução física da operação deve ser iniciada no prazo de seis meses contados a partir da data da submissão autenticada do termo de aceitação e concluída no prazo estipulado no plano de formação aprovado.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos previstos no número anterior."
+  },
+  "117127747": {
+   "fragment_id": "117128608",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Podem ser apresentados até três pedidos de pagamento por ano e por cada candidatura aprovada.\n\n5 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do plano de formação, sendo o respetivo pagamento efetuado após verificação pela autoridade de gestão do relatório final de execução.\n\n6 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n7 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal do PDR 2020, em www.pdr-2020.pt.;\n\n8 - O disposto nos n.os 2 e 3 não é aplicável às despesas que assumam a modalidade de custos simplificados."
+  },
+  "117127748": {
+   "fragment_id": "117128609",
+   "type": 11,
+   "heading": "Artigo 20.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação do pedido.\n\n3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.\n\n4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores adota os procedimentos necessários ao respetivo pagamento.\n\n5 - Os critérios de realização das visitas ao local da operação, durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013."
+  },
+  "117127749": {
+   "fragment_id": "117128610",
+   "type": 11,
+   "heading": "Artigo 21.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Pagamentos\n\n1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.\n\n2 - Os pagamentos dos apoios são efetuados por transferência bancária, para a conta referida na alínea g) do n.º 1 do artigo 11.º"
+  },
+  "117127750": {
+   "fragment_id": "117128611",
+   "type": 11,
+   "heading": "Artigo 22.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Controlo\n\nA operação, incluindo a candidatura e os pedidos de pagamento, está sujeita a ações de controlo administrativo e in loco, a partir da data de submissão autenticada do termo de aceitação, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável."
+  },
+  "117127751": {
+   "fragment_id": "117128612",
+   "type": 11,
+   "heading": "Artigo 23.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 11.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo III da presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou das obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "117127752": {
+   "fragment_id": "117128613",
+   "type": 1,
+   "heading": "Capítulo IV — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposição final"
+  },
+  "117127753": {
+   "fragment_id": "117128614",
+   "type": 11,
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nA presente portaria entra em vigor no décimo segundo dia após a sua publicação."
+  },
+  "117127755": {
+   "fragment_id": "117128616",
+   "type": 14,
+   "heading": "Anexo I — Domínios temáticos das ações de formação específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Domínios temáticos das ações de formação específica\n\n(a que se refere o n.º 4 do artigo 6.º)\n\nAções de Formação Específica:\n\na) Tecnologias de produção, no setor agrícola ou florestal, e que promovam a sustentabilidade no uso dos recursos.\n\nb) Métodos e tecnologias de proteção ambiental, incluindo conservação da biodiversidade, no setor agrícola ou florestal.\n\nc) Gestão da água no setor agrícola.\n\nd) Eficiência na utilização da energia e fontes de energia renováveis no setor agrícola ou agroalimentar e florestal.\n\ne) Organização de cadeias de abastecimento curtas de produtos agrícolas e agroalimentares."
+  },
+  "117127756": {
+   "fragment_id": "117128617",
+   "type": 14,
+   "heading": "Anexo II — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 9.º)\n\nDespesas elegíveis\n\nI - Custos com Formandos:\n\n1 - Transporte, alimentação e alojamento - Despesas com transporte, alimentação e alojamento dos formandos, de acordo com as alíneas g), i) e l) do n.º 1 do artigo 13.º da Portaria n.º 60-A/2015, de 2 de março.\n\n2 - Seguros de acidentes pessoais - Despesas com seguros de acidentes pessoais.\n\nII - Custos com Formadores:\n\nA) Custos Diretos com pessoal:\n\n1 - Remunerações ou partes de remunerações e respetivos encargos associados, com formadores internos, permanentes ou eventuais, ou externos, em condições a definir em OTE e de acordo com os limites previstos no artigo 14.º da Portaria n.º 60-A/2015, de 2 de março.\n\nB) Outros custos diretos:\n\n1 - Transporte, alojamento e alimentação - Despesas com transporte, alojamento e alimentação dos formadores de acordo com os limites previstos na alínea c) do n.º 1 do artigo 14.º da Portaria n.º 60-A/2015, de 2 de março.\n\nIII - Outros custos com organização, execução, acompanhamento e avaliação das ações de formação, designadamente:\n\nA) Custos diretos com pessoal:\n\n1 - Remunerações ou partes de remunerações e respetivos encargos associados, em condições a definir em OTE, dos técnicos e outro pessoal, afetos à ação de formação, e de acordo com os limites previstos no artigo 15.º da Portaria n.º 60-A/2015, de 2 de março, na atual redação.\n\nB) Outros custos diretos:\n\n1 - Transporte, alojamento e alimentação - Despesas com transporte, alojamento e alimentação dos técnicos e outro pessoal afeto às ações de formação, de acordo com os limites previstos no artigo 15.º da Portaria n.º 60-A/2015, de 2 de março, na atual redação.\n\n2 - Espaços, bens e equipamentos - Aluguer dos espaços onde decorrem as atividades de formação, bem como dos bens ou equipamentos necessários à realização das mesmas.\n\n3 - Bens e serviços técnicos especializados - Despesas com serviços técnicos especializados ou bens necessários à implementação da operação, designadamente, produção e aquisição de material pedagógico, em suporte físico ou eletrónico, publicitação da ação, bibliografia técnica e materiais consumíveis.\n\nC) Custos indiretos:\n\n1 - Despesas gerais decorrentes da organização e realização da ação de formação, como despesas com comunicações, eletricidade, água, higiene e segurança das instalações.\n\nOs custos máximos elegíveis previstos no presente ponto III são aferidos em função do indicador de custo máximo por hora e por formando (C/H/F), cujo somatório, apurado nos termos do artigo 16.º da Portaria n.º 60-A/2015, de 2 de março, na atual redação, tem como limite 2,5 (euro).\n\nDespesas não elegíveis\n\n1 - Aquisição ou locação financeira de bens móveis ou equipamentos, novos ou em segunda mão, passíveis de amortização nos termos da legislação fiscal.\n\n2 - Contribuições em espécie.\n\n3 - Amortizações de bens e equipamentos.\n\n4 - IVA recuperável nos termos da legislação fiscal."
+  },
+  "117127757": {
+   "fragment_id": "117128618",
+   "type": 14,
+   "heading": "Anexo III — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Reduções e exclusões\n\n(a que se refere o n.º 2 do artigo 23.º)\n\n1 - O incumprimento das obrigações dos beneficiários, previstas no artigo 11.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:\n\n(ver documento original)\n\n2 - O disposto no número anterior não prejudica, designadamente, a aplicação:\n\na) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nb) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nc) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nd) Do artigo 63.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014;\n\ne) De outras cominações, designadamente de natureza penal, que ao caso couberem.\n\n3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt."
+  },
+  "117132982": {
+   "fragment_id": "117128596",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 8.º — Critérios de elegibilidade das operações\n\nPodem beneficiar dos apoios previstos na presente portaria, as operações que se enquadrem nos objetivos do artigo 2.º e que cumpram os seguintes critérios:\n\na) Apresentem um plano de formação, com uma duração não superior a quatro anos, que desenvolva de forma fundamentada, designadamente, os seguintes elementos relativos às ações de formação previstas:\n\ni) Domínio temático e duração;\n\nii) Identificação dos destinatários;\n\niii) Objetivos e metas a alcançar;\n\niv) Descrição, calendarização e âmbito territorial;\n\nv) Identificação dos recursos humanos e materiais envolvidos;\n\nvi) Orçamento detalhado;\n\nb) Não sejam desenvolvidas para promoção de marcas comerciais;\n\nc) Não sejam desenvolvidas exclusivamente a favor de pessoas que exerçam atividade de forma permanente para o candidato, tenham ou não vínculo laboral com este;\n\nd) Tenham início após a data de apresentação da candidatura.\n\n> Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117132983": {
+   "fragment_id": "117128599",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos na presente portaria, além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, são obrigados a:\n\na) Executar a operação nos termos e condições aprovados;\n\nb) Manter as condições legais necessárias ao exercício da respetiva atividade até ao final da operação;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das atividades, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada, nos termos da legislação em vigor;\n\ng) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;\n\nh) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior;\n\ni) Dispor de um processo relativo à operação, incluindo a componente técnico-pedagógica, devidamente organizado nos termos definidos em Orientação Técnica Específica (OTE), preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nj) Proceder à ampla divulgação das ações de formação, bem como remeter informação sobre as mesmas à DGADR e à autoridade de gestão do PDR 2020;\n\nk) Entregar o certificado de frequência da ação de formação a todos os formandos com aproveitamento, com indicação da respetiva duração, programa e conteúdo, observando as demais disposições aplicáveis nesta matéria;\n\nl) Elaborar relatório de avaliação da ação de formação, que inclua a apreciação efetuada pelo formador e pelos formandos;\n\nm) Apresentar à autoridade de gestão, nos termos definidos em OTE, no prazo máximo de 90 dias a contar da conclusão do plano de formação, o relatório final de execução;\n\nn) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\no) Assegurar o fornecimento de elementos necessários às atividades de monitorização e de avaliação da operação e participar em processos de inquirição relacionados com as mesmas;\n\np) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea p) do número anterior.\n\n> Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117127760": {
+   "fragment_id": "117128605",
+   "type": 11,
+   "heading": "Artigo 16.º — Transição das candidaturas",
+   "in_force_from": "2016-02-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13",
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-05-29"
+   ],
+   "markdown": "###### Artigo 16.º — Transição das candidaturas\n\n1 - As candidaturas que tenham sido objeto de parecer favorável e que não tenham sido aprovadas por razões de insuficiência orçamental transitam para o período de apresentação de candidaturas seguinte, sendo sujeitas à aplicação dos critérios de seleção deste novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida.\n\n> Revogado pelo/a Artigo 28.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-05-29"
+  },
+  "117132984": {
+   "fragment_id": "117128608",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 19.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Podem ser apresentados até quatro pedidos de pagamento por ano e por cada candidatura aprovada.\n\n5 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do plano de formação, sendo o respetivo pagamento efetuado após verificação pela autoridade de gestão do relatório final de execução.\n\n6 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n7 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal do PDR 2020, em www.pdr-2020.pt.;\n\n8 - O disposto nos n.os 2 e 3 não é aplicável às despesas que assumam a modalidade de custos simplificados.\n\n> Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117132985": {
+   "fragment_id": "117128612",
+   "type": 11,
+   "heading": "Artigo 23.º — Reduções e exclusões",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 21.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13"
+   ],
+   "markdown": "###### Artigo 23.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 11.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo III da presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n5 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou das obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n6 - A não comprovação do início da execução física da operação no prazo previsto na alínea p) do n.º 1 do artigo 11.º ou no n.º 2 do artigo 11.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.\n\n> Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 21.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13"
+  },
+  "117127754": {
+   "fragment_id": "117128615",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 11 de maio de 2016."
+  },
+  "123540896": {
+   "fragment_id": "117128593",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": "2019-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 236/2019 - Diário da República n.º 142/2019, Série I de 2019-07-26](https://diariodarepublica.pt/dr/detalhe/portaria/236-2019-123513822), em vigor a partir de 2019-07-27"
+   ],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem beneficiar do apoio previsto na presente portaria as pessoas coletivas, de natureza pública ou privada, que desenvolvam atividades de transferência de conhecimentos e ações de informação, na aceção do artigo 14.º do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.\n\n2 - São excluídas do apoio previsto na presente portaria, no que se refere a ações de formação dirigidas ao setor florestal ou dirigidas a técnicos superiores que intervêm no setor agrícola, agroalimentar ou florestal, nas atividades de apoio técnico, as entidades:\n\na) Que sejam consideradas empresas em dificuldade, na aceção do ponto n.º 14 do artigo 2.º do Regulamento (UE) n.º 702/2014, da Comissão, de 25 de junho de 2014, que declara certas categorias de auxílios no setor agrícola e florestal e nas zonas rurais compatíveis com o mercado comum, em aplicação dos artigos 107.º e 108.º do TFUE;\n\nb) Sobre as quais impenda um processo de recuperação de auxílios de Estado, declarados incompatíveis com o mercado interno, pela Comissão Europeia.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 236/2019 - Diário da República n.º 142/2019, Série I de 2019-07-26](https://diariodarepublica.pt/dr/detalhe/portaria/236-2019-123513822), em vigor a partir de 2019-07-27"
+  },
+  "123540897": {
+   "fragment_id": "117128594",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologia de ações de formação",
+   "in_force_from": "2019-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 236/2019 - Diário da República n.º 142/2019, Série I de 2019-07-26](https://diariodarepublica.pt/dr/detalhe/portaria/236-2019-123513822), em vigor a partir de 2019-07-27"
+   ],
+   "markdown": "###### Artigo 6.º — Tipologia de ações de formação\n\n1 - Podem ser concedidos apoios às seguintes tipologias de ações de formação:\n\na) Formação base dirigida a:\n\ni) Jovens agricultores com projeto de instalação aprovado ao abrigo do PDR 2020;\n\nii) Jovens agricultores com projeto de instalação aprovado ao abrigo do Programa de Desenvolvimento Rural do Continente 2007-2013 (PRODER), com projetos de investimento aprovados a partir de 1 de janeiro de 2013.\n\nb) Formação específica dirigida a:\n\ni) Ativos de explorações agrícolas ou florestais e de empresas agroalimentares com atividade na produção de produtos enumerados na lista constante do anexo I do TFUE, e de entidades gestoras de zonas de intervenção florestal;\n\nii) Técnicos superiores que intervêm no setor agrícola, agroalimentar ou florestal, nas atividades de apoio técnico.\n\n2 - A formação prevista na subalínea i) da alínea a) do n.º 1 tem por base as unidades de formação de curta duração do referencial de formação 621312, «Técnico/a de produção Agropecuária», de nível 4, do Catálogo Nacional de Qualificações, constituída pelo código 7580, com 50 horas de duração.\n\n3 - A formação prevista na subalínea ii) da alínea a) do n.º 1 deve respeitar os módulos previstos no Anexo I da Portaria n.º 357-A/2008, de 9 de maio.\n\n4 - A formação específica tem uma duração máxima de 135 horas quando realizada em território nacional e de 140 horas quando realizada noutro Estado membro da União Europeia e incide sobre os domínios temáticos previstos no anexo I da presente portaria, que desta faz parte integrante, conforme as necessidades setoriais identificadas pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) e que não sejam enquadráveis nos programas operacionais financiados pelo Fundo Social Europeu.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 236/2019 - Diário da República n.º 142/2019, Série I de 2019-07-26](https://diariodarepublica.pt/dr/detalhe/portaria/236-2019-123513822), em vigor a partir de 2019-07-27"
+  },
+  "123540898": {
+   "fragment_id": "117128600",
+   "type": 11,
+   "heading": "Artigo 12.º — Forma, nível e limites do apoio",
+   "in_force_from": "2019-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 236/2019 - Diário da República n.º 142/2019, Série I de 2019-07-26](https://diariodarepublica.pt/dr/detalhe/portaria/236-2019-123513822), em vigor a partir de 2019-07-27"
+   ],
+   "markdown": "###### Artigo 12.º — Forma, nível e limites do apoio\n\n1 - O apoio previsto na presente portaria é concedido sob a forma de subvenção não reembolsável.\n\n2 - Os apoios a conceder estão limitados a:\n\na) 100 % da despesa total elegível para as ações de formação base;\n\nb) 80 % da despesa total elegível para as ações de formação específica;\n\nc) (Revogada.)\n\n3 - As despesas gerais decorrentes da organização e realização da ação de formação, classificadas como custos indiretos no anexo II, assumem a modalidade de custos simplificados, sendo determinadas por aplicação de uma taxa fixa de 3 % da totalidade das despesas diretas com pessoal, referidas no n.º 1 da alínea A) do ponto II e no n.º 1 da alínea A) do ponto III do Anexo II da presente portaria, e de acordo com o previsto na subalínea ii) da alínea e) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro.\n\n4 - As despesas elegíveis previstas no Anexo II estão sujeitas, quando aplicável, aos limites previstos na Portaria n.º 60-A/2015, de 2 de março.\n\n5 - Caso os beneficiários optem por imputar o custo da formação aos formandos, o mesmo é limitado ao valor da despesa total elegível não comparticipada, nos termos do n.º 2.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 236/2019 - Diário da República n.º 142/2019, Série I de 2019-07-26](https://diariodarepublica.pt/dr/detalhe/portaria/236-2019-123513822), em vigor a partir de 2019-07-27"
+  },
+  "170793922": {
+   "fragment_id": "117128596",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2021-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 186/2021 - Diário da República n.º 173/2021, Série I de 2021-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/186-2021-170794629), em vigor a partir de 2021-09-07, produz efeitos a partir de 2021-01-22",
+    "Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 8.º — Critérios de elegibilidade das operações\n\nPodem beneficiar dos apoios previstos na presente portaria, as operações que se enquadrem nos objetivos do artigo 2.º e que cumpram os seguintes critérios:\n\na) Apresentem um plano de formação, cuja duração não pode ultrapassar a data de 31 de dezembro de 2022, que desenvolva de forma fundamentada, designadamente, os seguintes elementos relativos às ações de formação previstas:\n\ni) Domínio temático e duração;\n\nii) Identificação dos destinatários;\n\niii) Objetivos e metas a alcançar;\n\niv) Descrição, calendarização e âmbito territorial;\n\nv) Identificação dos recursos humanos e materiais envolvidos;\n\nvi) Orçamento detalhado;\n\nb) Não sejam desenvolvidas para promoção de marcas comerciais;\n\nc) Não sejam desenvolvidas exclusivamente a favor de pessoas que exerçam atividade de forma permanente para o candidato, tenham ou não vínculo laboral com este;\n\nd) Tenham início após a data de apresentação da candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 186/2021 - Diário da República n.º 173/2021, Série I de 2021-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/186-2021-170794629), em vigor a partir de 2021-09-07, produz efeitos a partir de 2021-01-22\n\n> Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "206401537": {
+   "fragment_id": "117128596",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2023-01-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36/2023 - Diário da República n.º 19/2023, Série I de 2023-01-26](https://diariodarepublica.pt/dr/detalhe/portaria/36-2023-206564389), em vigor a partir de 2023-01-27, produz efeitos a partir de 2021-01-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 186/2021 - Diário da República n.º 173/2021, Série I de 2021-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/186-2021-170794629), em vigor a partir de 2021-09-07, produz efeitos a partir de 2021-01-22",
+    "Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 8.º — Critérios de elegibilidade das operações\n\nPodem beneficiar dos apoios previstos na presente portaria as operações que se enquadrem nos objetivos do artigo 2.º e que cumpram os seguintes critérios:\n\na) Apresentem um plano de formação, cuja duração não pode ultrapassar a data de 30 de junho de 2023, que desenvolva de forma fundamentada, designadamente, os seguintes elementos relativos às ações de formação previstas:\n\ni) Domínio temático e duração;\n\nii) Identificação dos destinatários;\n\niii) Objetivos e metas a alcançar;\n\niv) Descrição, calendarização e âmbito territorial;\n\nv) Identificação dos recursos humanos e materiais envolvidos;\n\nvi) Orçamento detalhado;\n\nb) Não sejam desenvolvidas para promoção de marcas comerciais;\n\nc) Não sejam desenvolvidas exclusivamente a favor de pessoas que exerçam atividade de forma permanente para o candidato, tenham ou não vínculo laboral com este;\n\nd) Tenham início após a data de apresentação da candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36/2023 - Diário da República n.º 19/2023, Série I de 2023-01-26](https://diariodarepublica.pt/dr/detalhe/portaria/36-2023-206564389), em vigor a partir de 2023-01-27, produz efeitos a partir de 2021-01-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 186/2021 - Diário da República n.º 173/2021, Série I de 2021-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/186-2021-170794629), em vigor a partir de 2021-09-07, produz efeitos a partir de 2021-01-22\n\n> Alterado pelo/a Artigo 14.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  }
+ }
+}

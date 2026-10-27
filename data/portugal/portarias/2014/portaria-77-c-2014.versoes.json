@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25344050:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-130616181",
+ "dre_path": "/dr/detalhe/portaria/77-c-2014-25344050",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-04-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "130616280",
+    "130616281",
+    "130616282",
+    "130616283",
+    "130616285"
+   ]
+  },
+  {
+   "date": "2020-03-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130600799:por",
+     "title": "Portaria n.º 79/2020",
+     "published": "2020-03-24",
+     "dre_path": "/dr/detalhe/portaria/79-2020-130600799"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "130616280",
+    "130616281",
+    "130616282",
+    "130616283",
+    "130616284",
+    "130620375"
+   ]
+  }
+ ],
+ "fragments": {
+  "130616280": {
+   "fragment_id": "130616182",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 77-C/2014\n\nde 1 de abril\n\nO Decreto-Lei n.º 254/2012, de 28 de novembro, alterado pelo Decreto-Lei n.º 108/2013, de 31 de julho, promoveu uma profunda remodelação do quadro legal e regulatório do serviço público aeroportuário e, no caso específico da taxa de segurança, veio proceder a uma delimitação precisa das duas componentes da taxa, discriminando, concretamente aquela que se reporta aos encargos gerais, do Instituto Nacional de Aviação Civil, I. P., adiante designado INAC, I. P., e das forças de segurança, daquela que constitui contrapartida dos encargos específicos das entidades gestoras aeroportuárias com a prestação de serviços afetos à segurança da aviação civil.\n\nProcede-se, ainda, por via desta alteração, à reestruturação do sistema de cobrança e liquidação da taxa de segurança, redefinindo-se os sujeitos ativos e passivos no ato de pagamento da taxa e alargando-se o pagamento da mesma aos voos de natureza não comercial. Por outro lado, remete-se para portaria do membro do Governo responsável pela área dos transportes a indicação dos aeroportos e aeródromos, situados em território português, nos quais tem lugar a cobrança da taxa de segurança, por passageiro embarcado.\n\nNeste contexto, a presente portaria, nos termos e para os efeitos do n.º 2 do artigo 48.º do citado diploma legal, vem fixar o elenco dos aeroportos e aeródromos nos quais é cobrada a taxa de segurança, mantendo a cobrança da mesma nas infraestruturas em que atualmente já era cobrada, por prestarem os serviços que dão lugar à mesma, acrescentando-se, contudo, a exigência da certificação legal das mesmas infraestruturas, à luz do novo regime jurídico de certificação de aeródromos, previsto no Decreto-Lei n.º 186/2007, de 10 de maio, alterado e republicado pelo Decreto-Lei n.º 55/2010, de 31 de maio.\n\nNo que respeita às infraestruturas ainda não incluídas na lista agora aprovada, por ainda não terem sido ali prestados os serviços correspondentes ao pagamento da taxa, a sobredita lista é suscetível de alteração, caso essas entidades gestoras aeroportuárias, cumulativamente, sejam titulares de certificado válido, demonstrem reunir as condições para assegurar a prestação dos serviços relacionados com a prevenção e repressão de atos ilícitos no âmbito da segurança da aviação civil, e apresentem proposta devidamente instruída com o parecer dos utilizadores ou dos seus representantes ou associações de utilizadores, tendo como referência os custos inerentes aos serviços de segurança prestados, em conformidade com o disposto no n.º 2 do artigo 52.º do Decreto-Lei n.º 254/2012, de 28 de novembro.\n\nPor outro lado, e dando cumprimento ao disposto no n.º 2 do artigo 50.º do Decreto-Lei n.º 254/2012, de 28 de novembro, afigura-se necessário determinar as condições e o prazo de entrega das importâncias cobradas aos transportadores ou operadores de aeronaves referente à contrapartida dos encargos gerais do INAC, I. P. Neste âmbito definem-se as obrigações derivadas das condições e da imposição de prazos para materializar a cobrança efetiva da taxa, alertando-se para as consequências do incumprimento, conforme disposto no artigo 55.º daquele diploma legal.\n\nFoi ouvido o Instituto Nacional de Aviação Civil, I. P.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 48.º e n.º 2 do artigo 50.º do Decreto-Lei n.º 254/2012, de 28 de novembro, alterado pelo Decreto-Lei n.º 108/2013, de 31 de julho, manda o Governo, pelo Secretário de Estado das Infraestruturas, Transportes e Comunicações, no uso da competência delegada através da alínea c) do ponto 3.1. do Despacho n.º 12100/2013, do Ministro da Economia, publicado na 2.ª série do Diário da República, n.º 183, de 23 de setembro, o seguinte:"
+  },
+  "130616281": {
+   "fragment_id": "130616183",
+   "type": 11,
+   "heading": "Artigo 1.º — Aeroportos e aeródromos nos quais é devida a taxa de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aeroportos e aeródromos nos quais é devida a taxa de segurança\n\n1 - A taxa de segurança é devida, por passageiro embarcado, nos voos comerciais e nos voos não comerciais, pelo transportador e operador da aeronave.\n\n2 - Os membros da tripulação técnica, da tripulação de voo e de cabina desde que em serviço, os elementos das equipas que integram as missões, de busca e salvamento, de emergência médica e de combate a incêndios, os sinistrados e os doentes, os alunos-pilotos, os examinadores e instrutores nos voos de instrução e treino, bem como o pessoal com funções de inspeção ao serviços da autoridade aeronáutica e nessa qualidade, não integram o conceito de passageiro embarcado para efeitos do disposto no número anterior.\n\n3 - A taxa de segurança referida no n.º 1 é devida em todos os aeroportos e aeródromos situados em território português, que constam da lista anexa à presente portaria, da qual faz parte integrante, desde que certificados nos termos da lei.\n\n4 - As infraestruturas aeroportuárias nacionais não constantes na lista referida no número anterior podem vir a ser incluídas na mesma, mediante alteração à presente portaria, desde que demonstrem ser titulares de um certificado de aeródromo válido, sem derrogações em matérias de security e cujas entidades gestoras aeroportuárias apresentem uma estrutura de custos, nos termos do n.º 2 do artigo 52.º do Decreto-Lei n.º 254/2012, de 28 de novembro."
+  },
+  "130616282": {
+   "fragment_id": "130616184",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições e prazo de entrega da taxa de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições e prazo de entrega da taxa de segurança\n\n1 - A componente da taxa de segurança que constitui receita do Instituto Nacional de Aviação Civil, I. P., nos termos da alínea a) do artigo 49.º do Decreto-Lei n.º 254/2012, de 28 de novembro, deve ser entregue pelos transportadores ou operadores de aeronaves ao INAC, I. P., no prazo de 30 dias a contar da data da emissão da fatura.\n\n2 - Para efeitos de cumprimento do disposto no número anterior, deve a entidade gestora aeroportuária disponibilizar aos transportadores ou aos operadores de aeronaves um formulário de tráfego, que deve ser devolvido àquela entidade no prazo máximo de duas horas após a descolagem ou aterragem.\n\n3 - O formulário de tráfego identificado no número anterior é autenticado com carimbo e assinatura dos transportadores ou dos operadores de aeronaves ou do agente autorizado, bem como das autoridades envolvidas no despacho de voo.\n\n4 - Após o recebimento do formulário de tráfego referido no n.º 2, a entidade gestora aeroportuária procede ao envio para o INAC, I. P., até ao terceiro dia útil do mês seguinte para efeitos de faturação aos transportadores ou operadores de aeronaves.\n\n5 - O não cumprimento do disposto no presente artigo por parte dos transportadores ou operadores de aeronaves constitui contraordenação, conforme artigo 55.º do Decreto-Lei n.º 254/2012, de 28 de novembro."
+  },
+  "130616283": {
+   "fragment_id": "130616185",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de abril de 2014."
+  },
+  "130616285": {
+   "fragment_id": "130616187",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 1.º)\n\n(ver documento original)"
+  },
+  "130616284": {
+   "fragment_id": "130616186",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado das Infraestruturas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 1 de abril de 2014."
+  },
+  "130620375": {
+   "fragment_id": "130616187",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 1.º)",
+   "in_force_from": "2020-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2020 - Diário da República n.º 59/2020, Série I de 2020-03-24](https://diariodarepublica.pt/dr/detalhe/portaria/79-2020-130600799), em vigor a partir de 2020-03-25"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 1.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 79/2020 - Diário da República n.º 59/2020, Série I de 2020-03-24](https://diariodarepublica.pt/dr/detalhe/portaria/79-2020-130600799), em vigor a partir de 2020-03-25"
+  }
+ }
+}

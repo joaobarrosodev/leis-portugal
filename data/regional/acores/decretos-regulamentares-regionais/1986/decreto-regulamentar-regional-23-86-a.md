@@ -1,0 +1,268 @@
+---
+schema_version: '1.0'
+id: pt:dre:228226:por
+title: Decreto Regulamentar Regional n.º 23/86/A
+short_title: null
+summary: Reestrutura o quadro de pessoal da Secretaria Regional da Administração Pública
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Administração Pública - Direcção Regional de Administração
+  e Pessoal
+proposing_entity: null
+official_number: 23/86/A
+official_date: null
+publication_date: '1986-07-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 155/1986, Série I de 1986-07-09
+  number: '155'
+  series: I
+  supplement: null
+  pages: 1642 - 1645
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/07/15500/16421645.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '228226'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/23-1986-228226
+  internal: pt:dre:228226:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1986-228226
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1986-228226
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:26:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 74111f728e9adcf352c3e5bdb78f2b6a85ee01bd275e09e779d25632ab8e6108
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Orgânica
+- Secretaria Regional da Administração Pública
+- Serviço Regional de Protecção Civil dos Açores
+relationships:
+- type: amended_by
+  target: pt:dre:333276:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:221985:por
+  label: "Alterado o quadro de pessoal, reestruturado pelo presente diploma, pelo DRR.33/86/A.12.08.1986.GR-RAA, DR.IS [212]\
+    \ de 15.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-1986-221985
+  date: '1986-08-12'
+- type: amended_by
+  target: pt:dre:357701:por
+  label: "Alterado o quadro de pessoal, aprovado pelo Decreto Regulamentar Regional n.º 45/81/A, de 7 de Outubro, com as alterações\
+    \ constantes do presente diploma e do Decreto Regulamentar Regional 33/86/A, de 15 de Setembro, pelo DRR.69/88/A.24.10.1988.GR-RAA,\
+    \ DR.IS [266] de 17.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/69-1988-357701
+  date: '1988-10-24'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333276:por
+  label: "Revogado pelo DRR.10/90/A.23.02.1990.GR-RAA, DR.IS [65] de 19.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1990-333276
+  date: '1990-02-23'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:26:35Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 23/86/A
+
+Considerando que a actual orgânica da Secretaria Regional da Administração Pública (SRAP), aprovado pelo [Decreto Regulamentar Regional n.º 45/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1981-561599), de 7 de Outubro, se encontra desajustada em alguns dos seus aspectos;
+
+Considerando que a assunção de tarefas legalmente atribuídas à Repartição dos Serviços Administrativos impõe a reformulação das competências das respectivas secções administrativas;
+
+Considerando que a necessidade da informatização dos serviços da SRAP implica o aditamento das competências no que diz respeito ao serviço onde vai ficar integrado o sector de informática;
+
+Considerando, ainda, que a reestruturação das carreiras na função pública operada pelo [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, obriga à revisão do actual quadro de pessoal da SRAP:
+
+Nestes termos, o Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
+
+Artigo 1.º O n.º 4 do artigo 4.º do [Decreto Regulamentar Regional n.º 45/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1981-561599), de 7 de Outubro, passa a ter a seguinte redacção:
+
+4 - Junto da SRAP funcionará também o Serviço Regional de Protecção Civil, a que se refere o [Decreto Regional n.º 21/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/21-1981-568702), de 10 de Novembro.
+
+Art. 2.º Os artigos 8.º a 11.º do diploma referido no artigo anterior passam a ter a seguinte redacção:
+
+Art. 8.º Compete ao chefe da Repartição dos Serviços Administrativos, em especial:
+
+a) Dirigir, coordenar e superintender na acção desenvolvida pelos chefes de secção;
+
+b) Exercer as funções de oficial público e ou de notário que lhe competirem nos termos da lei;
+
+c) Executar tudo o mais que as leis e os regulamentos expressamente lhe cometerem ou por decorrência lógica do normal desempenho das suas funções;
+
+d) Dirigir e superintender o pessoal auxiliar e o serviço de reprografia.
+
+Art. 9.º A Repartição dos Serviços Administrativos compreende as seguintes secções:
+
+a) Secção de Expediente e Contabilidade;
+
+b) Secção de ADSE, Passaportes e Licenças.
+
+Art. 10.º À Secção de Expediente e Contabilidade compete, em especial:
+
+a) Executar o serviço de expediente geral e arquivo;
+
+b) Promover as actividades necessárias à administração do pessoal da Secretaria Regional;
+
+c) Assegurar o serviço de economato e de contabilidade, bem como a elaboração do projecto de orçamento da SRAP;
+
+d) Manter em ordem o inventário do mobiliário e de outros bens afectos à Secretaria Regional, velando pela sua boa conservação e aproveitamento;
+
+e) Prestar apoio às direcções regionais da SRAP.
+
+Art. 11.º À Secção de ADSE, Passaportes e Licenças compete, em especial:
+
+a) Assegurar todo o expediente respeitante à ADSE na Região;
+
+b) Assegurar o expediente respeitante a passaportes;
+
+c) Organizar os processos de licença de importação de armas de caça, bem como de emissão de alvarás de armeiro;
+
+d) Proceder ao registo e à licença de exploração de máquinas de jogo do tipo flipper;
+
+e) Executar todo o expediente respeitante ao Regulamento Policial da Região Autónoma dos Açores;
+
+f) Proceder ao registo das associações civis e canónicas da Região;
+
+g) Emitir os cartões de identidade dos funcionários da administração regional;
+
+h) Assegurar o expediente respeitante à atribuição de habitação aos funcionários da Região.
+
+Art. 3.º É aditada a alínea f) ao n.º 1 do artigo 23.º do [Decreto Regulamentar Regional n.º 45/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1981-561599), de 7 de Outubro, com a seguinte redacção:
+
+a) ...
+
+...
+
+f) Coordenar e desenvolver a análise e programação das aplicações definidas para os serviços da SRAP, bem como proceder ao registo de dados e tratamento automático da informação com interesse para a realização das atribuições da Secretaria Regional.
+
+Art. 4.º O capítulo IV «Pessoal» do [Decreto Regulamentar Regional n.º 45/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1981-561599), de 7 de Novembro, passa a ter a seguinte redacção:
+
+Art. 30.º O pessoal da SRAP será agrupado de acordo com a seguinte classificação:
+
+a) Pessoal dirigente;
+
+b) Pessoal técnico superior;
+
+c) Pessoal de informática;
+
+d) Pessoal técnico;
+
+e) Pessoal técnico-profissional;
+
+f) Pessoal administrativo;
+
+g) Pessoal auxiliar.
+
+Art. 31.º O pessoal da SRAP é o constante do mapa anexo a este diploma, podendo o Secretário Regional afectá-lo temporariamente aos diversos departamentos, de harmonia com as necessidades e a conveniência de serviço e as aptidões dos funcionários.
+
+Art. 32.º As condições e regras de ingresso e acesso dos funcionários da SRAP serão, para as respectivas categorias, as estabelecidas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, as previstas neste diploma e na legislação regional e geral complementar.
+
+Art. 33.º O pessoal dirigente será provido de acordo com o disposto no [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril.
+
+Art. 34.º Os requisitos para o ingresso e acesso na carreira de técnico auxiliar de BAD são os constantes do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+
+Art. 35.º O ingresso na carreira de operador de meios áudio-visuais far-se-á, enquanto não existirem cursos técnico-profissionais adequados ao desempenho daquelas funções, de entre indivíduos habilitados com o 9.º ano de escolaridade e dois anos de experiência comprovada na área que se pretende recrutar.
+
+Art. 36.º Para efeitos de ingresso nas carreiras de técnico auxiliar de formação e de secretário-recepcionista considera-se equiparado ao curso de formação profissional previsto na alínea b) do n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, o curso complementar de secretariado e relações públicas.
+
+Art. 37.º O pessoal de informática será recrutado e provido nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+
+Art. 38.º - 1 - O ingresso na carreira de operador de reprografia far-se-á na categoria de 3.ª classe de entre indivíduos habilitados com a escolaridade obrigatória.
+
+2 - O acesso à categoria imediatamente superior depende da prestação de cinco anos de bom e efectivo serviço na categoria imediatamente anterior.
+
+Art. 5.º No capítulo «Disposições gerais e transitórias» é aditado o artigo 39.º, com a seguinte redacção:
+
+Art. 39.º - 1 - A transição do pessoal que mantenha no novo quadro a mesma categoria e situação jurídico-funcional do quadro anterior far-se-á nos termos da lei geral.
+
+2 - Os segundos-oficiais do quadro de pessoal da Repartição dos Serviços Administrativos da Secretaria Regional da Administração Pública que exerçam funções na delegação de Ponta Delgada daquela Secretaria Regional transitam para a mesma carreira e categoria do quadro de pessoal da referida delegação.
+
+Art. 6.º Os artigos 33.º e 34.º do [Decreto Regulamentar Regional n.º 45/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1981-561599), de 7 de Outubro, passam a artigos 40.º e 41.º
+
+Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 2 de Maio de 1986.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 20 de Junho de 1986.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
+
+Mapa a que se refere o artigo 31.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15500/16421645.pdf)
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

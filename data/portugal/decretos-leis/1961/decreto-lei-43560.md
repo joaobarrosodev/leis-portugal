@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:559422:por
+title: Decreto-Lei n.º 43560
+short_title: null
+summary: Define a competência dos governadores e dos comandantes das forças armadas das províncias ultramarinas na condução
+  da política da defesa do respectivo território
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho e Ministério do Ultramar
+proposing_entity: null
+official_number: '43560'
+official_date: null
+publication_date: '1961-03-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 71/1961, Série I de 1961-03-27
+  number: '71'
+  series: I
+  supplement: null
+  pages: 327 - 328
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/03/07100/03270328.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '559422'
+  dre_path: /dr/detalhe/decreto-lei/43560-1961-559422
+  internal: pt:dre:559422:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43560-1961-559422
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43560-1961-559422
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:36:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e0a002db94666a8e98eafb64b4fd331112755702bbde7204792277435569ff8c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Ultramarina
+- Comandante
+- Definição de Competências
+- Forças Armadas
+- Governador
+- Política de Defesa
+relationships:
+- type: cites
+  target: pt:dre:603062:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:36:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43560
+
+Considerando que ao Governo incumbe definir a política da defesa nacional e que a preparação geral e a conduta militar do conjunto das operações são da responsabilidade do Departamento da Defesa Nacional;
+
+Tendo em consideração que tudo quanto respeite a legislação sobre preparação e organização da defesa ou a planeamento das respectivas operações é matéria do interesse comum da metrópole e das províncias ultramarinas, uma vez que a estrutura orgânica da defesa nacional é una para todo o território português;
+
+Considerando que, em matéria preceituada para o regime político e administrativo das províncias ultramarinas, o governador é, no respectivo território, a autoridade superior a todas as outras que ali servem, tanto civis como militares, por ser o mais alto agente e representante do Governo da Nação, perante o qual responde pelo exercício das suas funções;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º O governador de cada província ultramarina, como representante local do Governo da Nação, e sempre de acordo com directiva conjunta dos Ministros da Defesa Nacional e do Ultramar, conduz a política da defesa no respectivo território.
+
+Art. 2.º Das disposições que tomar para a condução da política da defesa no território o governador deve dar imediato e perfeito conhecimento ao comandante-chefe e mantê-lo sempre informado da situação na província em tudo aquilo que seja de interesse para a preparação, localização, emprego e conduta das forças armadas ali estacionadas.
+
+§ único. Se o comandante-chefe ainda não estiver nomeado, o governador deve tomar igual procedimento em relação a cada um dos comandantes dos ramos das forças armadas locais, para que estes possam preparar e conduzir as suas acções, sob a mesma orientação e em mútua coordenação.
+
+Art. 3.º As funções do comandante-chefe e as dos outros comandantes a que se refere o § único do artigo anterior, sempre que se relacionem com as actividades político-administrativas da província, devem ser exercidas em íntimo acordo com o respectivo governador, sem prejuízo das atribuições que lhes são conferidas e das demais disposições fixadas pelas leis e regulamentos militares.
+
+Art. 4.º No caso de operações militares para a segurança e defesa da província, o comandante-chefe ou, na sua falta, cada um dos comandantes dos ramos das forças armadas locais executa e conduz as mesmas de harmonia com as directivas do Ministro da Defesa Nacional que forem transmitidas pelo chefe do Estado-Maior General das Forças Armadas e em íntima concordância com a conduta político-administrativa que for esclarecida pelo governador da província.
+
+§ único. No conceito de operações militares são incluídas as acções a desenvolver por qualquer ramo das forças armadas, ou pelo conjunto das mesmas, para manter ou restabelecer a ordem em qualquer zona da província.
+
+Art. 5.º O comandante-chefe ou, na sua falta, cada um dos comandantes dos ramos das forças armadas locais deve manter o governador da província sempre informado da preparação e localização das forças sob as suas ordens, da situação dos trabalhos relativos ao seu emprego operacional e de tudo o que respeitar à condução das operações.
+
+§ único. O governador pode convocar o comandante-chefe ou, na sua falta, cada um dos comandantes das forças armadas locais a fim de obter os esclarecimentos que necessitar para exercer a sua acção político-administrativa.
+
+Art. 6.º Quando na província, e depois do recurso ao disposto na base VIII da [Lei n.º 2051](https://diariodarepublica.pt/dr/detalhe/lei/2051-1952-603062), subsistir alguma divergência entre as medidas estabelecidas para o regime político-administrativo e aquelas que tenham de ser preconizadas para a condução das operações militares, sem que as correspondentes entidades responsáveis possam definir matéria conjunta para procedimentos de interesse comum, deverão estas, sem demora, expor o assunto pela via mais rápida, respectivamente, para o Ministério do Ultramar e para o Secretariado-Geral da Defesa Nacional, a fim de ser submetido à apreciação ministerial dos titulares dos departamentos interessados ou, se necessário, à deliberação do Conselho Superior da Defesa Nacional.
+
+Art. 7.º Quando a segurança e a defesa da província, bem como a manutenção ou o restabelecimento da ordem na mesma, não possam nem devam aguardar a decisão resultante do procedimento constante do artigo anterior e exijam o emprego imediato de forças militares, o comandante-chefe ou, na sua falta, cada um dos comandantes das forças armadas locais conduzirá as respectivas acções estritamente de acordo com a decisão político-administrativa que em tais condições for fixada pelo governador e sob a inteira responsabilidade deste perante o Governo.
+
+§ 1.º A decisão a que se refere o corpo do presente artigo deve constar sempre de documento escrito, obrigatòriamente entregue pelo governador da província ao comandante que responda perante o Departamento da Defesa Nacional pela execução e condução das operações.
+
+§ 2.º O referido comandante, logo que tenha conhecimento ou seja detentor daquela decisão do governador da província, deverá transmitir a mesma, imediatamente e pela via mais rápida, para o Secretariado-Geral da Defesa Nacional.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 27 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves.

@@ -1,0 +1,445 @@
+---
+schema_version: '1.0'
+id: pt:dre:692409:por
+title: Despacho Normativo n.º 70/95
+short_title: null
+summary: Altera o Despacho Normativo n.º 548/94, de 29 de Julho (regulamenta o Regime de Apoio à Realização de Estratégias
+  Empresariais Integradas)
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 70/95
+official_date: null
+publication_date: '1995-11-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 272/1995, Série I-B de 1995-11-24
+  number: '272'
+  series: I
+  supplement: null
+  pages: 7303 - 7307
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/11/272b00/73037307.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/70/1995/11/24/p/dre/pt/html
+  oj: null
+  dre: '692409'
+  dre_path: /dr/detalhe/despacho-normativo/70-1995-692409
+  internal: pt:dre:692409:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/70-1995-692409
+  metadata_url: https://data.dre.pt/eli/despnorm/70/1995/11/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/70-1995-692409
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:29:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 31dd0c95228416d1658a59c5eef7826cdd01386a427976d9fbfeeb8dbefd2d45
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio ao Investimento
+- Desenvolvimento Industrial
+- Empresa
+- Financiamento
+- IAPMEI
+- Indústria
+- Modernização Industrial
+- Pedip II
+- Política Industrial
+- Projeto de Investimento
+- Regime de Apoio
+- Sistema de Incentivos Pedip
+- Subsídio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:231893:por
+  label: null
+  source: http://data.dre.pt/eli/despnorm/548/1994/07/29/p/dre
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
+- type: cites
+  target: pt:dre:291631:por
+  label: null
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:29:19Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 70/95
+
+O [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, criou o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II.
+
+No âmbito do PEDIP II insere-se o Sistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP), o qual previu, nos termos do disposto no n.º I, n.º 1, da [Resolução do Conselho de Ministros n.º 50/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-1994-291631), de 1 de Julho, vir a ser desenvolvido através de regimes de apoio específicos.
+
+Um desses regimes foi o Regime de Apoio à Realização de Estratégias Empresariais Integradas, aprovado pelo [Despacho Normativo n.º 548/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/548-1994-231893), de 29 de Julho.
+
+A aplicação deste Regime de Apoio veio a demonstrar a necessidade de introdução nele de certos ajustamentos e alterações, tendo em vista melhorar as condições da sua aplicabilidade.
+
+De entre esses vários ajustamentos e alterações ressalta o que diz respeito aos critérios para a determinação da valia industrial dos projectos. Com efeito, a metodologia adoptada assenta em três critérios: a adequação do projecto às estratégias industrial e empresarial, o grau de modernização da empresa pós-projecto e o nível de produtividade da empresa pós-projecto.
+
+Verificou-se, deste modo, uma redundância na consideração de critérios de eficácia produtiva, entre o subcritério A(índice 2) - Grau de Satisfação das Necessidades da Empresa de Acordo com as Suas Orientações Estratégicas e o critério C - Nível de Produtividade da Empresa Pós-Projecto, os quais se inspiram, de resto, em dois níveis de exigência diferentes: o das orientações estratégicas da empresa, no primeiro caso, e o da média nacional, no segundo.
+
+Tornando-se, então, necessário anular a redundância e privilegiar a lógica de empresa que inspira o PEDIP II, optou-se pela exclusão do critério C, mantendo-se, todavia, no âmbito do subcritério A(índice 2) a preocupação da medida de eficácia empresarial.
+
+De entre as restantes alterações que ora se introduzem avulta, de igual modo, o tratamento autónomo ao incentivo ao investimento em ambiente externo, o qual é retirado do limite de 250000 contos estabelecido para o subsídio a fundo perdido na alínea a) do n.º 2 do artigo 12.º, apoiando-se, assim, mais fortemente as empresas que invistam em factores dinâmicos de competitividade.
+
+Assim determina-se:
+
+As alíneas c), g) e j) do n.º 1 e o n.º 2 do artigo 8.º, a alínea a) do n.º 2 do artigo 12.º, o n.º 1 do n.º 1.º e o n.º 4.º do anexo A, o n.º 3.º do anexo B, o n.º 1 do anexo C e o anexo D, todos do [Despacho Normativo n.º 548/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/548-1994-231893), de 29 de Julho, passam a ter a seguinte redacção:
+
+###### Artigo 8.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) Custos com a aquisição de instalações fabris já existentes, nomeadamente os resultantes de processos de fusão e absorção, desde que justificada a sua necessidade e a razoabilidade entre o valor contabilístico e o de compra dos bens a adquirir;
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) Participações de capital relativas a projectos de internacionalização até ao limite de 30% do investimento em capital fixo, podendo esta taxa ser excedida em casos excepcionais, devidamente fundamentados, por despacho do Ministro da Indústria e Energia, após parecer da comissão de selecção;
+
+h) ...
+
+i) ...
+
+j) Investimentos corpóreos relativos à gestão, à modernização da logística, ao controlo, medição e ensaio na área da qualidade, ao ambiente interno e externo, ao design, à manutenção, à racionalização da energia, às técnicas avançadas de gestão e à comercialização e marketing;
+
+k) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) ...
+
+p) ...
+
+q) ...
+
+r) ...
+
+2 - Constitui ainda aplicação relevante o fundo de maneio associado ao projecto, limitado a 20% do investimento em activo fixo corpóreo, em projectos inseridos no âmbito da alínea a) do n.º 1 do artigo 2.º, bem como os investimentos relativos à logística, não envolvendo modernização, referidos na alínea j).
+
+3 - ...
+
+4 - ...
+
+###### Artigo 12.º — [...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+...
+
+250000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido, com excepção do incentivo relativo à formação profissional e ao ambiente externo;
+
+b) ...
+
+3 - ...
+
+4 - ...
+
+## ANEXO A — Metodologia para a determinação da valia industrial
+
+1.º
+
+Critérios de selecção
+
+1 - Os critérios referidos no artigo 7.º são os seguintes:
+
+Critério A - Adequação do projecto às estratégias industrial e empresarial;
+
+Critério B - Grau de modernização da empresa pós-projecto.
+
+Os critérios referidos são quantificados num intervalo de valores compreendido entre 0 e 100, valor este a determinar nos termos dos números seguintes, sendo a valia industrial (VI) determinada pela soma ponderada das pontuações parcelares obtidas para cada um dos critérios:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/73037307.pdf)
+
+Nestes termos, a VI de um projecto será obtida pela aplicação da fórmula:
+
+VI = 0,65A + 0,35B
+
+A VI será considerada nula sempre que A = 0.
+
+2 - ...
+
+2.º
+
+[...]
+
+...
+
+3.º
+
+[...]
+
+...
+
+4.º
+
+Metodologia de classificação do subcritério A(índice 1)
+
+A metodologia de classificação dos parâmetros do subcritério A(índice 1) em Muito bom, Bom, Médio ou Fraco é a seguinte:
+
+Efeitos induzidos na estrutura industrial para a pontuação deste parâmetro são definidas duas componentes:
+
+A primeira componente mede a importância da empresa para os sectores fornecedores - valorização a montante da produção de origem nacional.
+
+A quantificação desta componente resulta, assim, da percentagem das matérias-primas e de matérias subsidiárias adquiridas no aparelho produtivo nacional relativamente ao total de consumos de matérias-primas e de matérias subsidiárias da empresa.
+
+No caso da indústria extractiva, este indicador deve ser pontuado pelo máximo; no caso de empresas cujo tipo de produção seja o trabalho a feitio, este indicador não deve ser considerado;
+
+A segunda componente mede a importância da empresa para os sectores industriais a jusante, para o sector em que se insere a empresa ou mesmo para esta (v. g., verticalização da produção a jusante).
+
+Esta componente é calculada para a empresa a partir do volume de vendas, total ou parcialmente, dirigidas a outras unidades produtivas nacionais (ou a outras unidades produtivas da empresa) que utilizem, na sua laboração, os respectivos produtos como matérias-primas, matérias subsidiárias ou produtos intermédios, em relação às vendas totais.
+
+A pontuação final deste parâmetro resulta da média aritmética simples das duas componentes referidas, sendo a sua classificação de:
+
+Muito bom, quando superior a 75%;
+
+Bom, quando superior a 50% e inferior ou igual a 75%;
+
+Médio, quando superior a 25% e inferior ou igual a 50%;
+
+Fraco, quando inferior ou igual a 25%.
+
+Na pontuação final deste parâmetro poderão ainda ser tidos em consideração os seguintes aspectos:
+
+Inserção da empresa numa cadeia de valor;
+
+Contributo para o adensamento da estrutura de clusters com vantagens competitivas (exemplo: equipamentos, tecnologias de informação, componentes, etc.);
+
+Utilização de recursos naturais e de reciclagem de resíduos industriais, comparativamente aos materiais totais utilizados, sendo o grau de utilização medido por aquela relação e classificado de:
+
+Muito bom, quando for igual ou superior a 50%;
+
+Bom, quando for igual ou superior a 30% e inferior a 50%;
+
+Médio, quando for igual ou superior a 15% e inferior a 30%;
+
+Fraco quando for inferior a 15%.
+
+Complementarmente serão ainda tidos em consideração os seguintes critérios:
+
+Integração a jusante em cadeias de valor baseadas em recursos naturais (exemplo: produções mais próximas do mercado final, desenvolvimento de novas aplicações de recursos naturais, etc.);
+
+Reciclagem de resíduos industriais ligada ao cumprimento de directivas comunitárias sobre a matéria;
+
+Compatibilização da competitividade empresarial com as preocupações ambientais, sendo o grau de compatibilização:
+
+Muito bom, quando o impacte for neutro ou, não o sendo, a empresa tiver neutralizado totalmente os seus efeitos;
+
+Bom, quando o impacte potencial não for neutro, tendo a empresa neutralizado substancialmente os seus efeitos, respeitando as normas legais estabelecidas;
+
+Médio, quando o impacte potencial não for neutro, tendo a empresa neutralizado razoavelmente os seus efeitos ou, tendo criado condições para tal, respeitando as normas legais estabelecidas;
+
+Fraco, nas restantes situações;
+
+Eficiência energética, comparando o consumo líquido de energia com o valor da produção, sendo o grau de eficiência medido por aquela relação e classificado de:
+
+Muito bom, quando for inferior a 5%;
+
+Bom, quando for igual ou superior a 5% e inferior a 10%;
+
+Médio, quando for igual ou superior a 10% e inferior a 15%;
+
+Fraco, quando for superior ou igual a 15%;
+
+Utilização de factores dinâmicos de competividade, medida pela existência de condições estruturais da empresa pós-projecto para aplicação eficiente de políticas de qualidade, design, marca, valorização de recursos humanos, engenharia de desenvolvimento, flexibilidade organizacional e produtiva, informatização e gestão estratégica, sendo o grau de utilização de factores dinâmicos função da cobertura daqueles factores, tendo como referência as potencialidades da actividade em que a empresa se insere.
+
+Este parâmetro será classificado de:
+
+Muito bom, quando cobrir satisfatoriamente todos aqueles factores;
+
+Bom, quando cobrir satisfatoriamente a maioria daqueles factores;
+
+Médio, quando cobrir satisfatoriamente poucos daqueles factores;
+
+Fraco, nas restantes situações;
+
+Controlo dos circuitos de distribuição, sendo o grau de controlo classificado da seguinte forma:
+
+Muito bom, quando a empresa se encontrar internacionalizada, controlando os circuitos de distribuição;
+
+Bom, quando a empresa mantiver relações consolidadas nos circuitos de distribuição;
+
+Médio, quando a empresa, não mantendo relações consolidadas nos circuitos de distribuição, apresentar uma estratégia comercial nesse sentido;
+
+Fraco, nas restantes situações;
+
+Modelo de financiamento, avaliando a consistência da estrutura de financiamento da empresa, sendo o grau de consistência considerado:
+
+Muito bom, quando a cobertura do activo líquido total pelos capitais próprios for superior a 50% e a empresa recorrer a uma estrutura de financiamento adequada, designadamente tendo em vista a diversificação das fontes de financiamento de médio e longo prazo;
+
+Bom, quando a cobertura do activo líquido total pelos capitais próprios for superior a 40% e inferior ou igual a 50% e a empresa recorrer a uma estrutura de financiamento adequada, designadamente tendo em vista a diversificação das fontes de financiamento de médio e longo prazo;
+
+Médio, quando a cobertura do activo líquido total pelos capitais próprios for superior a 35% e inferior ou igual a 40% e a empresa recorrer a uma estrutura de financiamento adequada, designadamente tendo em vista a diversificação das fontes de financiamento de médio e longo prazo;
+
+Fraco, nas restantes situações.
+
+A pontuação final de A1 é classificada da seguinte forma:
+
+Muito boa - pelo menos quatro critérios de Muito bom e os outros de Bom;
+
+Boa - pelo menos quatro critérios de Bom e os outros de Médio;
+
+Média - pelos menos quatro critérios de Médio;
+
+Fraca - outras situações.
+
+## ANEXO B — [...]
+
+1.º
+
+[...]
+
+...
+
+2.º
+
+[...]
+
+...
+
+3.º
+
+[...]
+
+1 - ...
+
+2 - A percentagem final do incentivo relativa ao subsídio a fundo perdido (I(índice fp)), com excepção do que corresponde a investimentos em ambiente externo a que se refere a alínea j) do artigo 8.º do presente diploma e à formação profissional, é calculada através da fórmula:
+
+I(índice fp) = I(índice p) + M + N
+
+sendo:
+
+I(índice p) = percentagem do incentivo relativa ao subsídio a fundo perdido, calculada de acordo com o n.º 1.º do anexo B;
+
+M = somatório das majorações de carácter industrial, até ao limite máximo de 15%;
+
+N = majoração de carácter regional (15%);
+
+3 - A percentagem final do incentivo a fundo perdido (I'(índice fp)) correspondente aos investimentos em ambiente externo referidos na alínea j) do artigo 8.º do presente diploma é calculado através da fórmula:
+
+I'(índice fp) = I(índice p) + M
+
+sendo:
+
+I(índice p) = percentagem do incentivo relativa ao subsídio a fundo perdido, calculada de acordo com o n.º 1.º do anexo B;
+
+M = somatório das majorações de carácter industrial, até ao limite máximo de 15%;
+
+4 - A percentagem final do incentivo não deverá ultrapassar 80% das aplicações relevantes a que se refere o n.º 1 do artigo 9.º nem 70% das aplicações relevantes a que se refere o n.º 2 do mesmo artigo.
+
+## ANEXO C — [...]
+
+1 - A percentagem do incentivo a atribuir será determinada em função dos critérios A e B referidos no anexo A, acrescidos dos seguintes critérios complementares:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+2 - ...
+
+3 -
+
+## ANEXO D — [...]
+
+...
+
+1.º
+
+Subsídios reembolsáveis
+
+Incentivo = I(índice fr) x AR(índice r):
+
+sendo:
+
+I(índice fr) = percentagem final do incentivo relativa ao subsídio reembolsável, calculada, no caso de projectos de inovação e internacionalização das estruturas empresariais, de acordo com o disposto no n.º 1 do n.º 3.º do anexo B;
+
+AR(índice r) = aplicações relevantes relativas às componentes referidas no n.º 1 do artigo 9.º
+
+2.º Subsídios a fundo perdido, com excepção do que se refere à formação profissional
+
+Incentivo = I(índice fp) x AR(índice fp) + I'(índice fp) x AR'(índice fp):
+
+sendo:
+
+I(índice fp) = percentagem final do incentivo relativa a subsídio a fundo perdido, calculada, no caso de projectos de inovação e internacionalização das estruturas empresariais, de acordo com o n.º 2 do n.º 3.º do anexo B;
+
+AR(índice fp) = aplicações relevantes relativas às componentes referidas no n.º 2 do artigo 9.º com excepção das correspondentes aos investimentos a que se refere a alínea j) do artigo 8.º;
+
+I'(índice fp) = percentagem final do incentivo relativa a subsídio a fundo perdido, calculada de acordo com o n.º 3 do n.º 3.º do anexo B;
+
+AR'(índice fp) = aplicações relevantes correspondentes aos investimentos em ambiente externo referidos na alínea j) do artigo 8.º do presente diploma.
+
+3.º
+
+[...]
+
+...
+
+Ministério da Indústria e Energia, 25 de Setembro de 1995. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

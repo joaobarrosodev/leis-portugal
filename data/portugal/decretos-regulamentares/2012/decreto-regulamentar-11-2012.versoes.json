@@ -1,0 +1,208 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544170:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-114581114",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/11-2012-544170",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-01-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114581214",
+    "114581215",
+    "114581216",
+    "114581217",
+    "114581218",
+    "114581219",
+    "114581220",
+    "114581221",
+    "114581222",
+    "114581223",
+    "114581224",
+    "114581225",
+    "114581226",
+    "114581227",
+    "114581228",
+    "114581229",
+    "114581230",
+    "114581231",
+    "114581232",
+    "114581234"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:114561767:por",
+     "title": "Decreto Regulamentar n.º 3/2018",
+     "published": "2018-01-25",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/3-2018-114561767",
+     "date": "2017-01-26"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "114581214": {
+   "fragment_id": "114581115",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 11/2012\n\nde 19 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nCabe à Direcção-Geral de Política Externa assegurar a coordenação da acção externa do Estado nos assuntos de natureza político-diplomática e económica, incluindo os respeitantes à Política Externa e de Segurança Comum e à Política Europeia de Segurança e Defesa da União Europeia, bem como noutras matérias no domínio da segurança e defesa, e em questões bilaterais e multilaterais de natureza política, económica, científica e técnica contribuindo, desse modo, para uma visão global das diferentes matérias relevantes para a definição e execução da política externa portuguesa.\n\nA nova Lei Orgânica do Ministério dos Negócios Estrangeiros (MNE) prevê a extinção da Direcção-Geral dos Assuntos Técnicos e Económicos, sucedendo nas suas atribuições a Direcção-Geral de Política Externa, a qual passará a ter também por missão dar efectividade, continuidade e unidade à acção do MNE, quer no plano internacional bilateral e multilateral, quer no que toca aos assuntos de carácter económico, científico e técnico.\n\nCom efeito, um dos novos objectivos desta Direcção-Geral é contribuir para a diplomacia económica definida pelo Governo, em articulação com os outros departamentos, serviços ou organismos sectoriais competentes e assegurar a cooperação entre os outros serviços, organismos e estruturas do MNE e a Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.).\n\nA atribuição de novas competências à Direcção-Geral de Política Externa permite-lhe o tratamento adequado e coordenado não só das matérias político-diplomáticas, mas também das económicas, científicas e técnicas, as quais não se podem dissociar daquelas e assumem uma importância crescente no plano das relações internacionais.\n\nO presente diploma visa, assim, dotar o MNE do quadro orgânico indispensável à prossecução dinâmica dos objectivos ditados pelas prioridades nacionais nos vectores político e económico da sua acção externa, proporcionando, simultaneamente, as condições para um activo fomento da diplomacia económica e uma mais sustentada afirmação internacional de Portugal.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114581215": {
+   "fragment_id": "114581116",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção-Geral de Política Externa, abreviadamente designada por DGPE, é um serviço central da administração directa do Estado."
+  },
+  "114581216": {
+   "fragment_id": "114581117",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGPE tem por missão assegurar a coordenação e decisão dos assuntos de natureza político-diplomática e económica, incluindo a Política Externa e de Segurança Comum (PESC) e a Política Comum de Segurança e Defesa (PCSD), bem como dos assuntos no domínio da segurança e defesa, e executar a política externa portuguesa no plano das relações bilaterais e multilaterais.\n\n2 - A DGPE prossegue as seguintes atribuições:\n\na) Assegurar genericamente as funções de coordenação político-diplomática, bem como a coordenação interministerial no tratamento de todas as questões de política externa, no âmbito das suas competências, por forma a garantir a necessária coerência e unidade da acção externa do Estado;\n\nb) Assegurar a coordenação interministerial de todas as visitas bilaterais ao nível político e económico no âmbito das suas competências;\n\nc) Estudar, emitir pareceres, decidir ou apresentar propostas de actuação sobre todos os assuntos atinentes às matérias da sua competência;\n\nd) Recolher informação, analisar e apresentar propostas de actuação sobre assuntos de particular relevância político-diplomática;\n\ne) Acompanhar e assegurar a participação em organismos internacionais, designadamente os que assumem carácter estratégico no âmbito da actividade externa do Estado;\n\nf) Assegurar a representação do MNE nas comissões interministeriais e outros organismos nacionais quando as atribuições destes abranjam questões de natureza política e económica, no âmbito das suas competências;\n\ng) Assegurar a presidência das comissões e delegações de carácter político e económico, que caiba ao MNE, no domínio das suas atribuições;\n\nh) Garantir, a nível nacional, o desenvolvimento das acções necessárias à aplicação da Política Externa e de Segurança Comum (PESC) e da Política Comum de Segurança e Defesa (PCSD);\n\ni) Orientar e coordenar a participação nacional na Organização das Nações Unidas e instituições especializadas;\n\nj) Orientar e coordenar a participação nacional na Organização do Tratado do Atlântico Norte, na Organização para a Segurança e Cooperação na Europa e no Conselho da Europa;\n\nl) Orientar e coordenar a participação nacional na Comunidade dos Países de Língua Portuguesa (CPLP);\n\nm) Assegurar o apoio necessário à Autoridade Nacional para a Convenção sobre a Proibição do Desenvolvimento, Produção, Armazenamento e Utilização das Armas Químicas (ANCPAQ) e à Autoridade Nacional para efeitos do Tratado de Proibição Total de Ensaios Nucleares (ANTPEN);\n\nn) Orientar e coordenar a participação nacional nas cimeiras ibero-americanas;\n\no) Coordenar a condução e a promoção das candidaturas nacionais às organizações internacionais, no âmbito das suas competências;\n\np) Recolher informações sobre a realidade política nas diferentes regiões e países não membros da União Europeia e assegurar a actualização de elementos sobre essa mesma realidade;\n\nq) Contribuir para a diplomacia económica definida pelo Governo, em articulação com o membro do Governo responsável pela área da economia e com os outros departamentos, serviços ou organismos sectoriais competentes;\n\nr) Assegurar a cooperação entre os outros serviços, organismos e estruturas do MNE e a Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.);\n\ns) Assegurar a coordenação com os outros departamentos, serviços ou entidades públicas de todos os assuntos de carácter económico, técnico ou científico cuja decisão vincule o Estado Português;\n\nt) Preparar, coordenar e assegurar a transmissão das instruções que, na área das suas atribuições, devam ser enviadas às embaixadas, missões e representações permanentes, missões temporárias e postos consulares de Portugal;\n\nu) Prestar apoio técnico em matéria de definição e estruturação das políticas, prioridades e objectivos do MNE, bem como acompanhar e avaliar a execução das políticas e programas do Ministério;\n\nv) Apoiar a definição das principais opções em matéria orçamental, bem como assegurar a articulação entre os instrumentos de planeamento, de previsão orçamental e de reporte;\n\nx) Analisar, em colaboração com o Ministério da Defesa Nacional, os pedidos de entidades estrangeiras para a utilização do espaço aéreo, bases militares e aeroportos portugueses por aeronaves militares e ou de Estado e propor superiormente a respectiva autorização diplomática;\n\nz) Analisar, em concertação com outros ministérios e entidades públicas e privadas, os pedidos para entrada e pesquisa em águas territoriais portuguesas por navios militares e oceanográficos e propor superiormente a respectiva autorização."
+  },
+  "114581217": {
+   "fragment_id": "114581118",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - A DGPE é dirigida por um director-geral, coadjuvado por três subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n2 - Junto da DGPE funcionam:\n\na) O Conselho Coordenador Político-Diplomático;\n\nb) A Comissão Interministerial de Política Externa;\n\nc) A Autoridade Nacional para a Convenção sobre a Proibição do Desenvolvimento, Produção, Armazenamento e Utilização das Armas Químicas;\n\nd) A Autoridade Nacional para efeitos do Tratado de Proibição Total de Ensaios Nucleares."
+  },
+  "114581218": {
+   "fragment_id": "114581119",
+   "type": 11,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director-geral:\n\na) Dirigir e coordenar as actividades de natureza político-diplomática no âmbito do MNE;\n\nb) Assegurar a coordenação com os outros departamentos, serviços ou entidades públicas de todos os assuntos de carácter económico, técnico ou científico cuja decisão vincule o Estado Português;\n\nc) Propor as acções tendentes ao desenvolvimento e à execução das grandes linhas da política externa portuguesa, no âmbito das atribuições da DGPE;\n\nd) Convocar e presidir às reuniões do Conselho Coordenador Político-Diplomático;\n\ne) Convocar e presidir às reuniões da Comissão Interministerial de Política Externa e proceder à adequada difusão das iniciativas aí anunciadas e ou de outras decisões ou questões relevantes;\n\nf) Preparar, coordenar e assegurar a transmissão de instruções aos serviços internos e serviços periféricos externos.\n\n2 - Os subdirectores-gerais exercem as competências que lhe sejam delegadas ou subdelegadas pelo director-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos."
+  },
+  "114581219": {
+   "fragment_id": "114581120",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho Coordenador Político-Diplomático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho Coordenador Político-Diplomático\n\n1 - O Conselho Coordenador Político-Diplomático tem por missão assistir o director-geral de política externa, no exercício das funções de coordenação da actividade dos serviços do MNE, nos assuntos de natureza político-diplomática.\n\n2 - Participam nas reuniões do Conselho Coordenador Político-Diplomático:\n\na) O director-geral de política externa, que preside;\n\nb) O director-geral dos assuntos europeus;\n\nc) O Presidente da AICEP, E. P. E.;\n\nd) Outros directores-gerais do MNE, quando a sua presença seja necessária face à natureza das questões a analisar;\n\ne) Quaisquer outros funcionários, sempre que, em razão dos assuntos a discutir, sejam convocados pelo director-geral de política externa."
+  },
+  "114581220": {
+   "fragment_id": "114581121",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissão Interministerial de Política Externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comissão Interministerial de Política Externa\n\n1 - A Comissão Interministerial de Política Externa tem por missão assegurar a coordenação das intervenções dos restantes ministérios no âmbito das relações internacionais, visando a acção unitária e coerente do Estado Português na ordem internacional.\n\n2 - A composição, as competências e o funcionamento da Comissão Interministerial de Política Externa são previstos em diploma próprio."
+  },
+  "114581221": {
+   "fragment_id": "114581122",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAutoridade Nacional para a Convenção sobre a Proibição do Desenvolvimento, Produção, Armazenamento e Utilização das Armas Químicas\n\n1 - A Autoridade Nacional para a Convenção sobre a Proibição do Desenvolvimento, Produção, Armazenamento e Utilização das Armas Químicas tem por missão a ligação directa com a Organização para a Proibição de Armas Químicas (OPAQ) e com os outros Estados Partes para garantir o cumprimento das obrigações decorrentes da referida Convenção.\n\n2 - A composição, competências e funcionamento da Autoridade Nacional para a Convenção sobre a Proibição do Desenvolvimento, Produção, Armazenamento e Utilização das Armas Químicas constam de diploma próprio."
+  },
+  "114581222": {
+   "fragment_id": "114581123",
+   "type": 11,
+   "heading": "Artigo 8.º — Autoridade Nacional para efeitos do Tratado de Proibição Total de Ensaios Nucleares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Autoridade Nacional para efeitos do Tratado de Proibição Total de Ensaios Nucleares\n\n1 - A Autoridade Nacional para efeitos do Tratado de Proibição Total de Ensaios Nucleares tem por missão a ligação directa com a organização do Tratado de Proibição Total de Ensaios Nucleares e com os Estados Partes para garantir o cumprimento das obrigações decorrentes da ratificação do referido Tratado.\n\n2 - A composição, competências e funcionamento da Autoridade Nacional para efeitos do Tratado de Proibição Total de Ensaios Nucleares constam de diploma próprio."
+  },
+  "114581223": {
+   "fragment_id": "114581124",
+   "type": 11,
+   "heading": "Artigo 9.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Tipo de organização interna\n\nA organização interna da DGPE obedece ao modelo de estrutura hierarquizada."
+  },
+  "114581224": {
+   "fragment_id": "114581125",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime administrativo e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime administrativo e financeiro\n\n1 - O apoio em matéria administrativa e financeira da DGPE cabe ao Departamento Geral de Administração da Secretaria-Geral do MNE, a cujo director compete a autorização e pagamento das despesas.\n\n2 - A DGPE envia ao Departamento Geral de Administração da Secretaria-Geral do MNE toda a informação necessária ao exercício das competências que lhe são atribuídas."
+  },
+  "114581225": {
+   "fragment_id": "114581126",
+   "type": 11,
+   "heading": "Artigo 11.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Receitas\n\n1 - A DGPE dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A gestão das receitas da DGPE é assegurada pelo Departamento Geral de Administração da Secretaria-Geral do MNE."
+  },
+  "114581226": {
+   "fragment_id": "114581127",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas\n\n1 - Constituem despesas da DGPE as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.\n\n2 - As despesas da DGPE são centralizadas no Departamento Geral de Administração da Secretaria-Geral do MNE."
+  },
+  "114581227": {
+   "fragment_id": "114581128",
+   "type": 11,
+   "heading": "Artigo 13.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante."
+  },
+  "114581228": {
+   "fragment_id": "114581129",
+   "type": 11,
+   "heading": "Artigo 14.º — Designação dos titulares dos cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Designação dos titulares dos cargos dirigentes\n\nNos termos do n.º 6 do artigo 20.º do Decreto-Lei n.º 121/2011, de 29 de Dezembro, podem ser designados, nos termos da lei geral, os cargos de direcção intermédia da DGPE."
+  },
+  "114581229": {
+   "fragment_id": "114581130",
+   "type": 11,
+   "heading": "Artigo 15.º — Afectação de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Afectação de pessoal\n\nA afectação à DGPE do pessoal do mapa do MNE é feita, por despacho do secretário-geral do MNE, ouvido o director-geral de política externa."
+  },
+  "114581230": {
+   "fragment_id": "114581131",
+   "type": 11,
+   "heading": "Artigo 16.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sucessão\n\nA DGPE sucede nas atribuições da Direcção-Geral dos Assuntos Técnicos e Económicos, no domínio da diplomacia económica decorrente do relacionamento com países que recaem no âmbito das suas competências e nas suas atribuições nos domínios das organizações internacionais de natureza económica e técnico-científica."
+  },
+  "114581231": {
+   "fragment_id": "114581132",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto Regulamentar n.º 45/2007, de 27 de Abril;\n\nb) O Decreto Regulamentar n.º 46/2007, de 27 de Abril."
+  },
+  "114581232": {
+   "fragment_id": "114581133",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "114581234": {
+   "fragment_id": "114581135",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 13.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  }
+ }
+}

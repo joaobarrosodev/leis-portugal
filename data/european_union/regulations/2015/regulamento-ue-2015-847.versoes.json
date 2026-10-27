@@ -1,0 +1,470 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32015R0847:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0847-20200101",
+ "dre_path": null,
+ "source_lastmod": "2020-01-01",
+ "versions": [
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "celex": "02015R0847-20200101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1fed2adee7b0ac0f",
+    "226c39ffd0a88dad",
+    "caecec51de70a2e7",
+    "3d4fc5d4fbd21223",
+    "d5662ab4b55d4cf3",
+    "5d66481915853904",
+    "f0f8c960bfdbce9b",
+    "ddce8f2e0b657d12",
+    "9b406af514eb9164",
+    "69cb7ce8a2a0db42",
+    "33f2ec6844fbd30a",
+    "3b78d2f23dd4ba53",
+    "4b0bbedd2bc122e6",
+    "c42c0c2b3cabd519",
+    "c5b7ece1b37053fc",
+    "cb537e7c99d05ab9",
+    "e39b80ec1d452ac3",
+    "de6474a51e1d9bfd",
+    "ac8387eef8dd0a6f",
+    "c746706de1d4f671",
+    "92051a13881b86b2",
+    "b449dc1173514f30",
+    "f310e0c7f72a1b2f",
+    "c27eb3177b749e6a",
+    "1e7a0903d2eed348",
+    "8b682ced59874c10",
+    "c2e5059a4b46458b",
+    "73d71b5bd4f7a538",
+    "939375311b90fb11",
+    "1ecfc79da3f1ac7f",
+    "b6e7b9fc4b51947b",
+    "38da05585c3409e2",
+    "868f66a9da3b9595",
+    "1a43c4382fc57420",
+    "6591e0beb3f05f20",
+    "f31f81e7507bf81d",
+    "adf385ba2a5e1184",
+    "40ed6b62e188ac6f",
+    "22c362bb17584381",
+    "7279ae5d36d6c755",
+    "b76d202a844f758e",
+    "10c1fe4e27f034c9",
+    "c83525d355260c65",
+    "3cff5574ade266b9",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "8ca1d5781b00ad6b",
+    "0a2dd325cb4fa471",
+    "b6b38d88b306f704",
+    "b56840da6288fbca"
+   ]
+  }
+ ],
+ "fragments": {
+  "1fed2adee7b0ac0f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de maio de 2015\n\nrelativo às informações que acompanham as transferências de fundos e que revoga o Regulamento (CE) n.º 1781/2006\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "caecec51de70a2e7": {
+   "fragment_id": "OBJETO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJETO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJETO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "3d4fc5d4fbd21223": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece as regras relativas às informações sobre o ordenante e o beneficiário que devem acompanhar as transferências de fundos, em qualquer moeda, para efeitos de prevenção, deteção e investigação do branqueamento de capitais e do financiamento do terrorismo, quando pelo menos um dos prestadores de serviços de pagamento implicados na transferência de fundos estiver estabelecido na União."
+  },
+  "d5662ab4b55d4cf3": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento é aplicável às transferências de fundos, em qualquer moeda, enviadas ou recebidas por um prestador de serviços de pagamento ou um prestador de serviços de pagamento intermediário estabelecido na União.\n\n2. O presente regulamento não é aplicável aos serviços enumerados no artigo 3.º, alíneas a) a m) e o), da Diretiva 2007/64/CE.\n\n3. O presente regulamento não é aplicável às transferências de fundos efetuadas por meio de cartões de pagamento, instrumentos de moeda eletrónica, telemóveis ou outros dispositivos digitais ou informáticos pré-pagos ou pós-pagos com características semelhantes, se estiverem reunidas as seguintes condições:\n\na) Esse cartão, instrumento ou dispositivo é utilizado exclusivamente para pagar bens ou serviços; e\n\nb) O número desse cartão, instrumento ou dispositivo acompanha todas as transferências resultantes da operação.\n\nTodavia, o presente regulamento é aplicável quando forem utilizados cartões de pagamento, instrumentos de moeda eletrónica, telemóveis ou outros dispositivos digitais ou informáticos pré-pagos ou pós-pagos com características semelhantes para efetuar transferências de fundos entre particulares.\n\n4. O presente regulamento não é aplicável às pessoas cuja atividade se limita à conversão de documentos em papel em dados eletrónicos e que desenvolvam tal atividade ao abrigo de um contrato com um prestador de serviços de pagamento, nem às pessoas cuja atividade se limita ao fornecimento a prestadores de serviços de pagamento, de sistemas de mensagens ou outros sistemas de apoio para a transmissão de fundos ou de sistemas de liquidação e compensação.\n\nO presente regulamento não é aplicável às transferências de fundos:\n\na) Que impliquem que o ordenante levante numerário da sua própria conta de pagamento;\n\nb) Em que haja transferência de fundos para uma autoridade pública destinada ao pagamento de impostos, coimas ou outras taxas no território de um Estado-Membro;\n\nc) Nas quais tanto o ordenante como o beneficiário sejam prestadores de serviços de pagamento agindo por conta própria;\n\nd) Realizadas através de trocas de imagens de cheques, incluindo de cheques truncados.\n\n5. Os Estados-Membros podem decidir não aplicar o presente regulamento às transferências de fundos efetuadas no seu território para a conta de pagamento de um beneficiário para efeitos de pagamento exclusivo da prestação de bens ou serviços, se estiverem preenchidas, cumulativamente, as condições seguintes:\n\na) O prestador de serviços de pagamento do beneficiário está abrangido pela Diretiva (UE) 2015/849;\n\nb) O prestador de serviços de pagamento do beneficiário pode rastrear, através do beneficiário e por meio do identificador único da operação, a transferência de fundos da pessoa que tem um acordo com o beneficiário para a prestação de bens ou serviços;\n\nc) O montante da transferência de fundos não excede 1 000 EUR."
+  },
+  "5d66481915853904": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Financiamento do terrorismo», o financiamento do terrorismo, na aceção do artigo 1.º, n.º 5, da Diretiva (UE) 2015/849;\n\n2) «Branqueamento de capitais», as atividades de branqueamento de capitais referidas no artigo 1.º, n.^os^ 3 e 4, da Diretiva (UE) 2015/849;\n\n3) «Ordenante», uma pessoa que é titular de uma conta de pagamento e que autoriza uma transferência de fundos a partir dessa conta, ou, na ausência de conta de pagamento, que emite uma ordem de transferência de fundos;\n\n4) «Beneficiário», uma pessoa que é o destinatário previsto da transferência de fundos;\n\n5) «Prestador de serviços de pagamento», as categorias de prestadores de serviços de pagamento a que se refere o artigo 1.º, n.º 1, da Diretiva 2007/64/CE, as pessoas singulares ou coletivas que beneficiem da derrogação nos termos do artigo 26.º dessa diretiva e as pessoas coletivas que beneficiem da derrogação nos termos do artigo 9.º da Diretiva 2009/110/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#E0001)), que prestam serviços de transferência de fundos;\n\n6) «Prestador de serviços de pagamento intermediário», um prestador de serviços de pagamento, que não seja nem o do ordenante, nem o do beneficiário, que recebe e transmite uma transferência de fundos por conta do prestador de serviços de pagamento do ordenante ou do beneficiário ou de outro prestador de serviços de pagamento intermediário;\n\n7) «Conta de pagamento», uma conta de pagamento na aceção do artigo 4.º, ponto 14, da Diretiva 2007/64/CE;\n\n8) «Fundos», fundos na aceção do artigo 4.º, ponto 15, da Diretiva 2007/64/CE;\n\n9) «Transferência de fundos», qualquer operação realizada pelo menos parcialmente por meios eletrónicos por conta de um ordenante através de um prestador de serviços de pagamento, com vista a colocar os fundos à disposição de um beneficiário através de um prestador de serviços de pagamento, independentemente de o ordenante e o beneficiário serem a mesma pessoa e independentemente de o prestador de serviços de pagamento do ordenante e o do beneficiário serem idênticos, incluindo:\n\na) As transferências a crédito na aceção do artigo 2.º, ponto 1, do Regulamento (UE) n.º 260/2012;\n\nb) Os débitos diretos na aceção do artigo 2.º, ponto 2, do Regulamento (UE) n.º 260/2012;\n\nc) Os envios de fundos na aceção do artigo 4.º, ponto 13, da Diretiva 2007/64/CE, nacionais ou transfronteiras;\n\nd) As transferências realizadas através da utilização de cartões de pagamento, instrumentos de moeda eletrónica, telemóveis ou outros dispositivos digitais ou informáticos pré-pagos ou pós-pagos com características semelhantes.\n\n10) «Transferência por lotes» (*batch file transfers*), um conjunto de várias transferências de fundos individuais, agregadas para efeitos de transmissão;\n\n11) «Identificador único da operação», uma combinação de letras, números ou símbolos, determinada pelo prestador de serviços de pagamento, em conformidade com os protocolos dos sistemas de pagamento e liquidação ou dos sistemas de mensagens utilizados para efetuar a transferência de fundos, e que permite rastrear a operação até ao ordenante e ao beneficiário;\n\n12) «Transferência de fundos entre particulares», uma operação entre pessoas singulares agindo, enquanto consumidores, para outros fins que não fins comerciais, empresariais ou profissionais."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "ddce8f2e0b657d12": {
+   "fragment_id": "OBRIGAÇÕES DOS PRESTADORES DE SERVIÇOS DE PAGAMENTO",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DOS PRESTADORES DE SERVIÇOS DE PAGAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DOS PRESTADORES DE SERVIÇOS DE PAGAMENTO"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "69cb7ce8a2a0db42": {
+   "fragment_id": "Obrigações do prestador de serviços de pagamento do ordenante",
+   "type": "divisao",
+   "heading": "Obrigações do prestador de serviços de pagamento do ordenante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Obrigações do prestador de serviços de pagamento do ordenante"
+  },
+  "33f2ec6844fbd30a": {
+   "fragment_id": "Artigo 4.º — Informações que acompanham as transferências de fundos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Informações que acompanham as transferências de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informações que acompanham as transferências de fundos\n\n1. O prestador de serviços de pagamento do ordenante assegura que a transferência de fundos é acompanhada das seguintes informações sobre o ordenante:\n\na) Nome do ordenante;\n\nb) Número de conta de pagamento do ordenante; e\n\nc) Endereço do ordenante, número do documento de identificação oficial, número de identificação de cliente ou data e local de nascimento.\n\n2. O prestador de serviços de pagamento do ordenante assegura que as transferências de fundos são acompanhadas das seguintes informações sobre o beneficiário:\n\na) Nome do beneficiário; e\n\nb) Número de conta de pagamento do beneficiário.\n\n3. Em derrogação do n.º 1, alínea b), e do n.º 2, alínea b), no caso de transferências não efetuadas a partir de uma conta de pagamento ou para uma conta de pagamento, o prestador de serviços de pagamento do ordenante assegura que as transferências de fundos são acompanhadas de um identificador único da operação em vez do número ou números da conta de pagamento.\n\n4. Antes de efetuar a transferência de fundos, o prestador de serviços de pagamento do ordenante verifica a exatidão das informações referidas no n.º 1, com base em documentos, dados ou informações obtidas junto de uma fonte fiável e independente.\n\n5. Considera-se que foi efetuada a verificação prevista no n.º 4 se:\n\na) A identidade do ordenante tiver sido verificada nos termos do artigo 13.º da Diretiva (UE) 2015/849 e as informações obtidas através dessa verificação tiverem sido conservadas nos termos do artigo 40.º da referida diretiva; ou\n\nb) For aplicável ao ordenante o disposto no artigo 14.º, n.º 5, da Diretiva (UE) 2015/849.\n\n6. Sem prejuízo das derrogações constantes dos artigos 5.º e 6.º, o prestador de serviços de pagamento do ordenante não pode executar qualquer transferência de fundos antes de assegurar a plena observância do presente artigo."
+  },
+  "3b78d2f23dd4ba53": {
+   "fragment_id": "Artigo 5.º — Transferências de fundos dentro da União",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Transferências de fundos dentro da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transferências de fundos dentro da União\n\n1. Em derrogação do artigo 4.º, n.^os^ 1 e 2, caso todos os prestadores de serviços de pagamento implicados na cadeia de pagamento estiverem estabelecidos na União, as transferências de fundos são acompanhadas pelo menos do número de conta de pagamento do ordenante e do beneficiário ou, se for aplicável o artigo 4.º, n.º 3, do identificador único da operação, sem prejuízo dos requisitos em matéria de informações estabelecidos no Regulamento (UE) n.º 260/2012, se aplicável.\n\n2. Não obstante o disposto no n.º 1, o prestador de serviços de pagamento do ordenante deve, no prazo de três dias úteis a contar da receção do pedido de informações por parte do prestador de serviços de pagamento do beneficiário ou por parte do prestador de serviços de pagamento intermediário, disponibilizar o seguinte:\n\na) Para as transferências de fundos superiores a 1 000 EUR, independentemente de essas transferências serem efetuadas através de uma operação única ou de várias operações aparentemente relacionadas entre si, as informações sobre o ordenante ou o beneficiário, nos termos do artigo 4.º;\n\nb) Para as transferências de fundos que não excedam 1 000 EUR e que não aparentem estar relacionadas com outras transferências de fundos que, juntamente com a transferência em questão, sejam superiores a 1 000 EUR, pelo menos:\n\ni) o nome do ordenante e o do beneficiário, e\n\nii) o número de conta de pagamento do ordenante e do beneficiário ou, se for aplicável o artigo 4.º, n.º 3, o identificador único da operação.\n\n3. Em derrogação do artigo 4.º, n.º 4, no caso das transferências de fundos a que se refere o n.º 2, alínea b), do presente artigo, o prestador de serviços de pagamento do ordenante não é obrigado a verificar as informações sobre o ordenante, a menos que o prestador de serviços de pagamento do ordenante:\n\na) Tenha recebido os fundos a transferir em numerário ou sob a forma de moeda eletrónica anónima; ou\n\nb) Tenha motivos razoáveis para suspeitar de branqueamento de capitais ou de financiamento do terrorismo."
+  },
+  "4b0bbedd2bc122e6": {
+   "fragment_id": "Artigo 6.º — Transferências de fundos para fora da União",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Transferências de fundos para fora da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transferências de fundos para fora da União\n\n1. No caso de transferências por lotes a partir de um único ordenante, em que os prestadores de serviços de pagamento dos beneficiários estejam estabelecidos fora da União, o disposto no artigo 4.º, n.º 1, não é aplicável às transferências individuais agrupadas nesse lote, desde que o respetivo ficheiro contenha as informações referidas no artigo 4.º, n.^os^ 1, 2 e 3, que essas informações tenham sido verificadas nos termos do artigo 4.º, n.^os^ 4 e 5 e que as transferências individuais contenham o número de conta de pagamento do ordenante ou, se for aplicável o artigo 4.º, n.º 3, o identificador único da operação.\n\n2. Em derrogação do artigo 4.º, n.º 1, e, se for caso disso, sem prejuízo das informações exigidas nos termos do Regulamento (UE) n.º 260/2012, se o prestador de serviços de pagamento do beneficiário estiver estabelecido fora da União, as transferências de fundos que não excedam 1 000 EUR e que não aparentem estar relacionadas com outras transferências de fundos que, juntamente com a transferência em questão, sejam superiores a 1 000 EUR, são acompanhadas pelo menos das seguintes informações:\n\na) Os nomes do ordenante e do beneficiário; e\n\nb) O número de conta de pagamento tanto do ordenante como do beneficiário ou, se for aplicável o artigo 4.º, n.º 3, o identificador único da operação.\n\nEm derrogação do artigo 4.º, n.º 4, o prestador de serviços de pagamento do beneficiário não é obrigado a verificar a exatidão das informações relativas ao ordenante a que se refere o presente número, a menos que o prestador de serviços de pagamento do ordenante:\n\na) Tenha recebido os fundos a transferir em numerário ou sob a forma de moeda eletrónica anónima; ou\n\nb) Tenha motivos razoáveis para suspeitar de branqueamento de capitais ou de financiamento do terrorismo."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "c5b7ece1b37053fc": {
+   "fragment_id": "Obrigações do prestador de serviços de pagamento do beneficiário",
+   "type": "divisao",
+   "heading": "Obrigações do prestador de serviços de pagamento do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Obrigações do prestador de serviços de pagamento do beneficiário"
+  },
+  "cb537e7c99d05ab9": {
+   "fragment_id": "Artigo 7.º — Deteção da omissão de informações sobre o ordenante ou o beneficiário",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Deteção da omissão de informações sobre o ordenante ou o beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Deteção da omissão de informações sobre o ordenante ou o beneficiário\n\n1. O prestador de serviços de pagamento do beneficiário aplica procedimentos eficazes para detetar se os campos relativos às informações sobre o ordenante e o beneficiário no sistema de mensagens ou de pagamento e liquidação utilizado para efetuar uma transferência de fundos, foram preenchidos por meio dos carateres ou dados admissíveis em conformidade com as convenções desse sistema.\n\n2. O prestador de serviços de pagamento do beneficiário aplica procedimentos eficazes, incluindo, se adequado, o acompanhamento *ex post* ou o acompanhamento em tempo real, para detetar qualquer omissão das seguintes informações sobre o ordenante ou o beneficiário:\n\na) Relativamente às transferências de fundos em que o prestador de serviços de pagamento do ordenante esteja estabelecido na União, as informações a que se refere o artigo 5.º;\n\nb) Relativamente às transferências de fundos em que o prestador de serviços de pagamento do ordenante esteja estabelecido fora da União, as informações a que se refere o artigo 4.º, n.^os^ 1 e 2;\n\nc) Relativamente às transferências por lotes em que o prestador de serviços de pagamento do ordenante esteja estabelecido fora da União, as informações a que se refere o artigo 4.º, n.^os^ 1 e 2, respeitantes a essa transferência por lotes.\n\n3. No que se refere às transferências de fundos que excedam 1 000 EUR, independentemente de essas transferências serem efetuadas através de uma operação única ou de várias operações aparentemente relacionadas entre si, antes de creditar a conta de pagamento do beneficiário ou de colocar os fundos à disposição deste, o prestador de serviços de pagamento do beneficiário verifica a exatidão das informações relativas ao beneficiário a que se refere o n.º 2 do presente artigo com base em documentos, dados ou informações obtidos junto de uma fonte fiável e independente, sem prejuízo dos requisitos previstos nos artigos 69.º e 70.º da Diretiva 2007/64/CE.\n\n4. No que se refere às transferências de fundos que não excedam 1 000 EUR e não aparentem estar relacionadas com outras transferências de fundos que, juntamente com a transferência em questão, sejam superiores a 1 000 EUR, o prestador de serviços de pagamento do beneficiário não é obrigado a verificar a exatidão das informações relativas ao beneficiário, a menos que o prestador de serviços de pagamento do beneficiário:\n\na) Efetue o pagamento dos fundos em numerário ou sob a forma de moeda eletrónica anónima; ou\n\nb) Tenha motivos razoáveis para suspeitar de branqueamento de capitais ou de financiamento do terrorismo.\n\n5. Considera-se que foi efetuada a verificação prevista nos n.^os^ 3 e 4 se:\n\na) A identidade do beneficiário tiver sido verificada nos termos do artigo 13.º da Diretiva (UE) 2015/849 e as informações obtidas ao abrigo dessa verificação tiverem sido conservadas nos termos do artigo 40.º da referida diretiva; ou\n\nb) For aplicável ao beneficiário o disposto no artigo 14.º, n.º 5, da Diretiva (UE) 2015/849."
+  },
+  "e39b80ec1d452ac3": {
+   "fragment_id": "Artigo 8.º — Transferências de fundos em que estão omissas ou incompletas as informações sobre o ordenante ou o beneficiário",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Transferências de fundos em que estão omissas ou incompletas as informações sobre o ordenante ou o beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Transferências de fundos em que estão omissas ou incompletas as informações sobre o ordenante ou o beneficiário\n\n1. O prestador de serviços de pagamento do beneficiário aplica procedimentos eficazes baseados nos riscos, incluindo procedimentos baseados nos riscos a que se refere o artigo 13.º da Diretiva (UE) 2015/849, para determinar quando deverá executar, rejeitar ou suspender uma transferência de fundos que não seja acompanhada das informações completas exigidas sobre o ordenante e o beneficiário, e para tomar medidas de acompanhamento adequadas.\n\nCaso tenha conhecimento, aquando da receção de transferências de fundos, de que são omissas ou incompletas as informações a que se refere o artigo 4.º, n.^os^ 1 ou 2, o artigo 5.º, n.º 1, ou o artigo 6.º, ou que não foram preenchidas por meio dos carateres ou dados convencionados em conformidade com o sistema de mensagens ou de pagamento e liquidação a que se refere o artigo 7.º, n.º 1, o prestador de serviços de pagamento do beneficiário rejeita a transferência ou solicita as informações exigidas sobre o ordenante e o beneficiário, antes ou depois de creditar a conta de pagamento do beneficiário ou de colocar os fundos à disposição deste, em função dos riscos.\n\n2. Quando, repetidamente, um prestador de serviços de pagamento não prestar as informações exigidas sobre o ordenante ou o beneficiário, o prestador de serviços de pagamento do beneficiário toma medidas, que podem inicialmente incluir a emissão de avisos e a fixação de prazos, antes de rejeitar quaisquer futuras transferências de fundos desse prestador de serviços de pagamento, ou restringir ou cessar as suas relações comerciais com esse prestador de serviços de pagamento.\n\nO prestador de serviços de pagamento do beneficiário comunica essa omissão e as medidas adotadas à autoridade competente responsável por fiscalizar o cumprimento das disposições em matéria de luta contra o branqueamento de capitais e o financiamento do terrorismo."
+  },
+  "de6474a51e1d9bfd": {
+   "fragment_id": "Artigo 9.º — Avaliação e obrigação de comunicação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Avaliação e obrigação de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Avaliação e obrigação de comunicação\n\nO prestador de serviços de pagamento do beneficiário considera o caráter omisso ou incompleto das informações sobre o ordenante ou o beneficiário como um elemento a ter em conta para avaliar se a transferência de fundos, ou qualquer operação conexa, é suspeita, e se deve ser comunicada à unidade de informação financeira (UIF) nos termos da Diretiva (UE) 2015/849."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "c746706de1d4f671": {
+   "fragment_id": "Obrigações dos prestadores de serviços de pagamento intermediários",
+   "type": "divisao",
+   "heading": "Obrigações dos prestadores de serviços de pagamento intermediários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Obrigações dos prestadores de serviços de pagamento intermediários"
+  },
+  "92051a13881b86b2": {
+   "fragment_id": "Artigo 10.º — Conservação das informações sobre o ordenante e o beneficiário com as transferências",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Conservação das informações sobre o ordenante e o beneficiário com as transferências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conservação das informações sobre o ordenante e o beneficiário com as transferências\n\nOs prestadores de serviços de pagamento intermediários asseguram que todas as informações recebidas sobre o ordenante e o beneficiário que acompanham uma transferência de fundos são conservadas com a transferência."
+  },
+  "b449dc1173514f30": {
+   "fragment_id": "Artigo 11.º — Deteção da omissão de informações sobre o ordenante ou o beneficiário",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Deteção da omissão de informações sobre o ordenante ou o beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Deteção da omissão de informações sobre o ordenante ou o beneficiário\n\n1. O prestador de serviços de pagamento intermediário aplica procedimentos eficazes para detetar se, no sistema de mensagens ou de pagamento e liquidação utilizado para efetuar uma transferência de fundos, os campos relativos às informações sobre o ordenante e o beneficiário foram preenchidos por meio dos carateres ou dados admissíveis em conformidade com as convenções desses sistemas.\n\n2. O prestador de serviços de pagamento intermediário aplica procedimentos eficazes, incluindo, se adequado, acompanhamento *ex post* ou acompanhamento em tempo real, para detetar a omissão das seguintes informações sobre o ordenante ou o beneficiário:\n\na) Relativamente às transferências de fundos em que os prestadores de serviços de pagamento do ordenante e do beneficiário estejam estabelecidos na União, as informações a que se refere o artigo 5.º;\n\nb) Relativamente às transferências de fundos em que o prestador de serviços de pagamento do ordenante ou do beneficiário esteja estabelecido fora da União, as informações a que se refere o artigo 4.º, n.^os^ 1 e 2;\n\nc) Relativamente às transferências por lotes em que o prestador de serviços de pagamento do ordenante ou do beneficiário esteja estabelecido fora da União, as informações a que se refere o artigo 4.º, n.^os^ 1 e 2, respeitantes a essa transferência por lotes."
+  },
+  "f310e0c7f72a1b2f": {
+   "fragment_id": "Artigo 12.º — Transferências de fundos em que são omissas as informações sobre o ordenante ou o beneficiário",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Transferências de fundos em que são omissas as informações sobre o ordenante ou o beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Transferências de fundos em que são omissas as informações sobre o ordenante ou o beneficiário\n\n1. O prestador de serviços de pagamento intermediário institui procedimentos eficazes baseados nos riscos para determinar quando deverá executar, rejeitar ou suspender uma transferência de fundos que não seja acompanhada das informações exigidas sobre o ordenante e o beneficiário, e para tomar as medidas de acompanhamento adequadas.\n\nCaso tenha conhecimento, aquando da receção de transferências de fundos, de que são omissas ou incompletas as informações a que se refere o artigo 4.º, n.^os^ 1 ou 2, do artigo 5.º, n.º 1, ou do artigo 6.º, ou que não foram preenchidas por meio dos carateres ou dados convencionados em conformidade com as convenções do sistema de mensagens ou de pagamento e liquidação a que se refere o artigo 7.º, n.º 1, o prestador de serviços de pagamento intermediário rejeita a transferência, ou solicita as informações exigidas sobre o ordenante e o beneficiário, antes ou depois da transmissão da transferência de fundos, em função dos riscos.\n\n2. Quando, repetidamente, um prestador de serviços de pagamento não prestar as informações exigidas sobre o ordenante ou o beneficiário, o prestador de serviços de pagamento intermediário toma medidas que podem incluir inicialmente a emissão de avisos e a fixação de prazos, antes de rejeitar futuras transferências de fundos desse prestador de serviços de pagamento, ou restringir ou cessar as suas relações comerciais com esse prestador de serviços de pagamento.\n\nO prestador de serviços de pagamento intermediário comunica essa omissão e as medidas adotadas à autoridade competente responsável por fiscalizar o cumprimento das disposições em matéria de luta contra o branqueamento de capitais e o financiamento do terrorismo."
+  },
+  "c27eb3177b749e6a": {
+   "fragment_id": "Artigo 13.º — Avaliação e obrigação de comunicação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Avaliação e obrigação de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliação e obrigação de comunicação\n\nO prestador de serviços de pagamento intermediário considera o caráter omisso ou incompleto das informações sobre o ordenante ou o beneficiário como um elemento a ter em conta para avaliar se a transferência de fundos, ou qualquer operação conexa, é suspeita, e se deve ser comunicada à UIF nos termos da Diretiva (UE) 2015/849."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "8b682ced59874c10": {
+   "fragment_id": "INFORMAÇÕES, PROTEÇÃO DE DADOS E CONSERVAÇÃO DE REGISTOS",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES, PROTEÇÃO DE DADOS E CONSERVAÇÃO DE REGISTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES, PROTEÇÃO DE DADOS E CONSERVAÇÃO DE REGISTOS"
+  },
+  "c2e5059a4b46458b": {
+   "fragment_id": "Artigo 14.º — Prestação de informações",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prestação de informações\n\nOs prestadores de serviços de pagamento dão uma resposta completa e sem demora, nomeadamente através de um ponto de contacto central nos termos do artigo 45.º, n.º 9, da Diretiva (UE) 2015/849, caso esse ponto de contacto tenha sido nomeado, e em conformidade com os requisitos processuais previstos no direito nacional do Estado-Membro em que estão estabelecidos, aos pedidos apresentados exclusivamente pelas autoridades desse Estado-Membro responsáveis pela prevenção e pelo combate ao branqueamento de capitais ou ao financiamento do terrorismo, relativamente às informações exigidas ao abrigo do presente regulamento."
+  },
+  "73d71b5bd4f7a538": {
+   "fragment_id": "Artigo 15.º — Proteção de dados",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Proteção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Proteção de dados\n\n1. O tratamento de dados pessoais ao abrigo do presente regulamento está sujeito ao cumprimento do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#E0002)). O tratamento de dados pessoais ao abrigo do presente regulamento pela Comissão ou pela EBA, está sujeito ao Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#E0003)).\n\n2. Os dados pessoais são tratados pelos prestadores de serviços de pagamento com base no presente regulamento exclusivamente para efeitos da prevenção do branqueamento de capitais e do financiamento do terrorismo e não podem ser posteriormente tratados de forma incompatível com essas finalidades. É proibido o tratamento de dados pessoais com base no presente regulamento para fins comerciais.\n\n3. Os prestadores de serviços de pagamento prestam aos novos clientes as informações exigidas ao abrigo do artigo 10.º da Diretiva 95/46/CE antes de estabelecerem uma relação de negócio ou de efetuarem uma operação ocasional. Essas informações incluem, nomeadamente, um aviso geral quanto às obrigações legais dos prestadores de serviços de pagamento nos termos do presente regulamento em matéria de tratamento de dados pessoais para efeitos da prevenção do branqueamento de capitais e do financiamento do terrorismo.\n\n4. Os prestadores de serviços de pagamento asseguram o respeito pela confidencialidade dos dados tratados."
+  },
+  "939375311b90fb11": {
+   "fragment_id": "Artigo 16.º — Conservação de registos",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Conservação de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conservação de registos\n\n1. As informações sobre o ordenante e o beneficiário não podem ser conservadas para além do período estritamente necessário. Os prestadores de serviços de pagamento do ordenante e do beneficiário conservam, por um período de cinco anos, os registos das informações a que se referem os artigos 4.º a 7.º.\n\n2. Findo o período a que se refere o n.º 1, os prestadores de serviços de pagamento asseguram que os dados pessoais são apagados, a não ser que o direito nacional disponha de outra forma, devendo este determinar as circunstâncias em que os prestadores de serviços de pagamento podem ou devem conservar os dados por mais tempo. Os Estados-Membros só podem autorizar ou exigir a conservação por período adicional após terem efetuado uma avaliação exaustiva da necessidade e proporcionalidade de tal conservação por período adicional e se considerarem que tal é justificado com base na necessidade de prevenir, detetar ou investigar o branqueamento de capitais ou o financiamento do terrorismo. Essa conservação por período adicional não pode exceder cinco anos.\n\n3. Caso, em 25 de junho de 2015, estiverem pendentes num Estado-Membro procedimentos legais relativos à prevenção, deteção, investigação ou repressão de suspeita de branqueamento de capitais ou de financiamento do terrorismo, e um prestador de serviços de pagamento conservar informações ou documentos relativos a esses processos, essas informações ou esses documentos podem ser conservados pelo prestador de serviços de pagamento nos termos do direito nacional durante um período de cinco anos a contar de 25 de junho de 2015. Sem prejuízo das disposições nacionais de direito penal em matéria de meios de prova aplicáveis a investigações criminais e procedimentos legais em curso, os Estados-Membros podem autorizar ou exigir a conservação dessas informações ou desses documentos por um período adicional de cinco anos, se necessário e proporcionado para a prevenção, deteção, investigação ou repressão de suspeita de branqueamento de capitais ou de financiamento do terrorismo."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "b6e7b9fc4b51947b": {
+   "fragment_id": "SANÇÕES E FISCALIZAÇÃO",
+   "type": "divisao",
+   "heading": "SANÇÕES E FISCALIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SANÇÕES E FISCALIZAÇÃO"
+  },
+  "38da05585c3409e2": {
+   "fragment_id": "Artigo 17.º — Sanções e medidas administrativas",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Sanções e medidas administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Sanções e medidas administrativas\n\n1. Sem prejuízo do direito de prever e impor sanções penais, os Estados-Membros fixam as regras relativas às sanções e medidas administrativas aplicáveis em caso de infração às disposições do presente regulamento e tomam todas as medidas necessárias para garantir a sua execução. As sanções e medidas previstas devem ser efetivas, proporcionadas e dissuasivas e ser coerentes com as que forem estabelecidas de acordo com o Capítulo VI, Secção 4, da Diretiva (UE) 2015/849.\n\nOs Estados-Membros podem decidir não estabelecer regras em matéria de sanções ou medidas administrativas aplicáveis a infrações ao presente regulamento que estejam sujeitas ao seu direito penal nacional. Nesse caso, os Estados-Membros notificam a Comissão das disposições do seu direito penal aplicáveis.\n\n2. Os Estados-Membros asseguram que, se as obrigações forem aplicáveis aos prestadores de serviços de pagamento, em caso de infração às disposições do presente regulamento, podem ser aplicadas sanções ou medidas administrativas, sob reserva do disposto no direito nacional, aos membros do órgão de administração e a quaisquer outras pessoas singulares que, nos termos do direito nacional, sejam responsáveis pela infração.\n\n3. Até 26 de junho de 2017, os Estados-Membros notificam as regras a que se refere o n.º 1 à Comissão e ao Comité Conjunto das ESAs. Os Estados-Membros notificam à Comissão e à ESMA, sem demora injustificada, quaisquer alterações subsequentes dessas regras.\n\n4. Nos termos do artigo 58.º, n.º 4, da Diretiva (UE) 2015/849, as autoridades competentes dispõem de todos os poderes de supervisão e de investigação necessários ao exercício das suas funções. No exercício dos seus poderes para aplicar sanções e medidas administrativas, as autoridades competentes cooperam estreitamente para garantir que essas sanções ou medidas administrativas produzem os efeitos desejados e coordenam a sua atuação quando se trata de casos transfronteiras.\n\n5. Os Estados-Membros asseguram que as pessoas coletivas podem ser responsabilizadas pelas infrações a que se refere o artigo 18.º, cometidas em seu benefício por qualquer pessoa, agindo quer a título individual quer como membro de um órgão da pessoa coletiva e nela ocupando um cargo de direção com base num dos seguintes elementos:\n\na) Poder de representação da pessoa coletiva;\n\nb) Autoridade para tomar decisões em nome da pessoa coletiva, ou\n\nc) Autoridade para exercer o controlo no seio da pessoa coletiva.\n\n6. Os Estados-Membros asseguram que as pessoas coletivas podem ser responsabilizadas caso a falta de supervisão ou de controlo por parte de uma pessoa a que se refere o n.º 5 do presente artigo torne possível a prática das infrações a que se refere o artigo 18.º, em benefício da pessoa coletiva, por uma pessoa sob a sua autoridade.\n\n7. As autoridades competentes exercem os seus poderes para impor sanções e medidas administrativas nos termos do presente regulamento, das seguintes formas:\n\na) Diretamente;\n\nb) Em colaboração com outras autoridades;\n\nc) Sob a sua responsabilidade, por delegação nessas autoridades;\n\nd) Por requerimento às autoridades judiciais competentes.\n\nNo exercício dos seus poderes para impor sanções e medidas administrativas, as autoridades competentes cooperam estreitamente para garantir que essas sanções e medidas administrativas produzem os efeitos desejados e coordenam a sua atuação quando se trate de casos transfronteiras."
+  },
+  "868f66a9da3b9595": {
+   "fragment_id": "Artigo 18.º — Disposições específicas",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Disposições específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Disposições específicas\n\nOs Estados-Membros asseguram que as suas sanções e medidas administrativas incluem pelo menos as estabelecidas no artigo 59.º, n.^os^ 2 e 3, da Diretiva (UE) 2015/849, no caso das seguintes infrações ao presente regulamento:\n\na) Incumprimento repetido ou sistemático, por parte dos prestadores de serviços de pagamento, da inclusão das informações exigidas sobre o ordenante ou o beneficiário, em violação dos artigos 4.º, 5.º ou 6.º;\n\nb) Incumprimento repetido, sistemático ou grave, por parte dos prestadores de serviços de pagamento, da obrigação de conservação de registos, em violação do artigo 16.º;\n\nc) Incumprimento, por parte do prestador de serviços de pagamento, da obrigação de aplicar procedimentos eficazes baseados nos riscos, em violação dos artigos 8.º ou 12.º;\n\nd) Incumprimento grave dos artigos 11.º ou 12.º por parte dos prestadores de serviços de pagamento intermediários."
+  },
+  "1a43c4382fc57420": {
+   "fragment_id": "Artigo 19.º — Publicação das sanções e das medidas",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Publicação das sanções e das medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Publicação das sanções e das medidas\n\nEm conformidade com o artigo 60.º, n.^os^ 1, 2 e 3, da Diretiva (UE) 2015/849, as autoridades competentes publicam as sanções e medidas administrativas impostas nos casos previstos no artigo 17.º e no artigo 18.º do presente regulamento, sem demora injustificada, incluindo informações sobre o tipo e a natureza da infração e a identidade das pessoas responsáveis por ela, se tal for necessário e proporcionado após uma avaliação caso a caso."
+  },
+  "6591e0beb3f05f20": {
+   "fragment_id": "Artigo 20.º — Aplicação das sanções e medidas pelas autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Aplicação das sanções e medidas pelas autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Aplicação das sanções e medidas pelas autoridades competentes\n\n1. Quando determinarem o tipo de sanções ou medidas administrativas e o nível das coimas administrativas, as autoridades competentes têm em consideração todas as circunstâncias pertinentes, incluindo as enumeradas no artigo 60.º, n.º 4, da Diretiva (UE) 2015/849.\n\n2. No que respeita às sanções e medidas administrativas impostas em conformidade com o presente regulamento, é aplicável o artigo 62.º da Diretiva (UE) 2015/849."
+  },
+  "f31f81e7507bf81d": {
+   "fragment_id": "Artigo 21.º — Comunicação das infrações",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Comunicação das infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comunicação das infrações\n\n1. Os Estados-Membros devem criar mecanismos eficazes para incentivar a comunicação às autoridades competentes das infrações ao disposto no presente regulamento.\n\nEsses mecanismos incluem pelo menos aqueles a que se refere o artigo 61.º, n.º 2, da Diretiva (UE) 2015/849.\n\n2. Os prestadores de serviços de pagamento, em cooperação com as autoridades competentes, instituem procedimentos internos adequados que permitam que os seus funcionários ou pessoas em posição equiparada comuniquem infrações cometidas a nível interno através de um canal seguro, independente, específico e anónimo, proporcionado à natureza e à dimensão do prestador de serviços de pagamento em causa."
+  },
+  "adf385ba2a5e1184": {
+   "fragment_id": "Artigo 22.º — Fiscalização",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Fiscalização\n\n1. Os Estados-Membros exigem que as autoridades competentes fiscalizem eficazmente o cumprimento do presente regulamento e tomem as medidas necessárias para assegurar esse cumprimento, e incentivam através de mecanismos eficazes a comunicação às autoridades competentes das infrações ao disposto no presente regulamento.\n\n2. Após uma notificação nos termos do artigo 17.º, n.º 3, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação do Capítulo IV, com especial atenção para os casos transfronteiriços."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "22c362bb17584381": {
+   "fragment_id": "COMPETÊNCIAS DE EXECUÇÃO",
+   "type": "divisao",
+   "heading": "COMPETÊNCIAS DE EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMPETÊNCIAS DE EXECUÇÃO"
+  },
+  "7279ae5d36d6c755": {
+   "fragment_id": "Artigo 23.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité de Prevenção do Branqueamento de Capitais e do Financiamento do Terrorismo («Comité»). Este comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "10c1fe4e27f034c9": {
+   "fragment_id": "DERROGAÇÕES",
+   "type": "divisao",
+   "heading": "DERROGAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DERROGAÇÕES"
+  },
+  "c83525d355260c65": {
+   "fragment_id": "Artigo 24.º — Acordos com países e territórios que não fazem parte do território da União",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Acordos com países e territórios que não fazem parte do território da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Acordos com países e territórios que não fazem parte do território da União\n\n1. A Comissão pode autorizar qualquer Estado-Membro a celebrar, com um país terceiro ou com um território que não faça parte do âmbito de aplicação territorial do TUE e do TFUE a que se refere o artigo 355.º do TFUE («país ou território em causa»), acordos que prevejam derrogações do presente regulamento, a fim de permitir que as transferências de fundos entre esse país ou território e o Estado-Membro em causa sejam tratadas como transferências de fundos efetuadas dentro desse Estado-Membro.\n\nEsses acordos apenas podem ser autorizados se estiverem preenchidas todas as seguintes condições:\n\na) O país ou território em causa integra uma união monetária com o Estado-Membro em causa ou faz parte do espaço monetário desse Estado-Membro, ou assinou uma convenção monetária com a União representada por um Estado-Membro;\n\nb) Os prestadores de serviços de pagamento no país ou território em causa participam direta ou indiretamente nos sistemas de pagamento e liquidação desse Estado-Membro; e\n\nc) O país ou território em causa impõe aos prestadores de serviços de pagamento abrangidos pela sua jurisdição a aplicação das mesmas regras que as estabelecidas no presente regulamento.\n\n2. Um Estado-Membro que pretenda celebrar um acordo a que se refere o n.º 1 envia um pedido nesse sentido à Comissão e presta-lhe todas as informações necessárias para a avaliação do mesmo.\n\n3. Aquando da receção pela Comissão de tal pedido, as transferências de fundos entre esse Estado-Membro e o país ou território em causa são provisoriamente tratadas como transferências de fundos efetuadas dentro desse Estado-Membro, até ser tomada uma decisão nos termos do presente artigo.\n\n4. Caso, no prazo de dois meses a contar da receção do pedido, a Comissão considere que não dispõe de todas as informações necessárias para a avaliação do mesmo, a Comissão contacta o Estado-Membro em causa, especificando as informações adicionais exigidas.\n\n5. No prazo de um mês a contar da receção de todas as informações que considere serem necessárias para efeitos de apreciação do pedido, a Comissão notifica o Estado-Membro requerente e transmite cópias do pedido aos demais Estados-Membros.\n\n6. No prazo de três meses a contar da notificação a que se refere o n.º 5 do presente artigo, a Comissão decide, nos termos do artigo 23.º, n.º 2, se autoriza o Estado-Membro em causa a celebrar o acordo que é objeto do pedido.\n\nA Comissão adota, em todo o caso, a decisão prevista no primeiro parágrafo, no prazo de 18 meses a contar da receção do pedido.\n\n7. Até 26 de março de 2017, os Estados-Membros que tenham sido autorizados a celebrar acordos com um país ou território em causa nos termos da Decisão de Execução 2012/43/UE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#E0004)), da Decisão 2010/259/UE da Comissão ([^5^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#E0005)), da Decisão 2009/853/CE da Comissão ([^6^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#E0006)) ou da Decisão 2008/982/CE da Comissão ([^7^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#E0007)) prestam à Comissão informações atualizadas necessárias para a avaliação ao abrigo do n.º 1, segundo parágrafo, alínea c).\n\nNo prazo de três meses a contar da receção dessas informações, a Comissão analisa as informações prestadas para se certificar de que o país ou território em causa impõe aos prestadores de serviços de pagamento abrangidos pela sua jurisdição a aplicação das mesmas regras que as estabelecidas no presente regulamento. Se, na sequência dessa análise, a Comissão considerar que deixou de ser cumprida a condição prevista no n.º 1, segundo parágrafo, alínea c), revoga a decisão pertinente da Comissão ou a decisão de execução da Comissão."
+  },
+  "3cff5574ade266b9": {
+   "fragment_id": "Artigo 25.º — Orientações",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Orientações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Orientações\n\nAté 26 de junho de 2017, as ESA emitem orientações dirigidas às autoridades competentes e aos prestadores de serviços de pagamento, nos termos do artigo 16.º do Regulamento (UE) n.º 1093/2010 sobre as medidas a tomar nos termos do presente regulamento, nomeadamente no que se refere à aplicação dos artigos 7.º, 8.º, 11.º e 12.º. A partir de 1 de janeiro de 2020, a ABE emite, se for caso disso, tais orientações."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "8ca1d5781b00ad6b": {
+   "fragment_id": "Artigo 26.º — Revogação do Regulamento (CE) n.º 1781/2006",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Revogação do Regulamento (CE) n.º 1781/2006",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revogação do Regulamento (CE) n.º 1781/2006\n\nÉ revogado o Regulamento (CE) n.º 1781/2006.\n\nAs referências ao regulamento revogado devem entender-se como referências ao presente regulamento e ser lidas de acordo com a tabela de correspondência constante do anexo."
+  },
+  "0a2dd325cb4fa471": {
+   "fragment_id": "Artigo 27.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 26 de junho de 2017.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "b6b38d88b306f704": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nRegulamento (CE) n.º 1781/2006 Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 3.º\n\nArtigo 3.º Artigo 2.º\n\nArtigo 4.º Artigo 4.º, n.º 1\n\nArtigo 5.º Artigo 4.º\n\nArtigo 6.º Artigo 5.º\n\nArtigo 7.º Artigo 7.º\n\nArtigo 8.º Artigo 7.º\n\nArtigo 9.º Artigo 8.º\n\nArtigo 10.º Artigo 9.º\n\nArtigo 11.º Artigo 16.º\n\nArtigo 12.º Artigo 10.º\n\n— Artigo 11.º\n\n— Artigo 12.º\n\n— Artigo 13.º\n\nArtigo 13.º —\n\nArtigo 14.º Artigo 15.º\n\nArtigo 15.º Artigos 17.º a 22.º\n\nArtigo 16.º Artigo 23.º\n\nArtigo 17.º Artigo 24.º\n\nArtigo 18.º —\n\nArtigo 19.º —\n\n— Artigo 26.º\n\nArtigo 20.º Artigo 27.º\n\n---"
+  },
+  "b56840da6288fbca": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#src.E0001)) Diretiva 2009/110/CE do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, relativa ao acesso à atividade das instituições de moeda eletrónica, ao seu exercício e à sua supervisão prudencial, que altera as Diretivas 2005/60/CE e 2006/48/CE e revoga a Diretiva 2000/46/CE (JO L 267 de 10.10.2009, p. 7).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#src.E0002)) Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados) (JO L 119 de 4.5.2016, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#src.E0003)) Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho, de 23 de outubro de 2018, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos e organismos da União e à livre circulação desses dados, e que revoga o Regulamento (CE) n.º 45/2001 e a Decisão n.º 1247/2002/CE (JO L 295 de 21.11.2018, p. 39).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#src.E0004)) Decisão de Execução 2012/43/UE da Comissão, de 25 de janeiro de 2012, que autoriza o Reino da Dinamarca a celebrar acordos com a Gronelândia e as Ilhas Faroé para que as transferências de fundos entre a Dinamarca e cada um destes territórios sejam tratadas como transferências de fundos dentro da Dinamarca, nos termos do Regulamento (CE) n.º 1781/2006 do Parlamento Europeu e do Conselho (JO L 24 de 27.1.2012, p. 12).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#src.E0005)) Decisão 2010/259/UE da Comissão, de 4 de maio de 2010, que autoriza a República Francesa a celebrar um acordo com o Principado do Mónaco para que as transferências de fundos entre a República Francesa e o Principado do Mónaco sejam tratadas como transferências de fundos dentro da República Francesa, em conformidade com o Regulamento (CE) n.º 1781/2006 do Parlamento Europeu e do Conselho (JO L 112 de 5.5.2010, p. 23).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#src.E0006)) Decisão 2009/853/CE da Comissão, de 26 de novembro de 2009, que autoriza a França a celebrar acordos com São Pedro e Miquelon, Mayotte, a Nova Caledónia, a Polinésia Francesa e Wallis e Futuna, respetivamente, para que as transferências de fundos entre a França e cada um destes territórios sejam tratadas como transferências de fundos dentro da França, nos termos do Regulamento (CE) n.º 1781/2006 do Parlamento Europeu e do Conselho (JO L 312 de 27.11.2009, p. 71).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/21d8415a-6a2b-11ea-b735-01aa75ed71a1.0020.03/DOC_1#src.E0007)) Decisão 2008/982/CE da Comissão, de 8 de dezembro de 2008, que autoriza o Reino Unido a concluir um acordo com o Bailiado de Jersey, o Bailiado de Guernsey e a Ilha de Man no sentido de que as transferências de fundos entre o Reino Unido e cada um desses territórios sejam tratadas como transferências de fundos no interior do Reino Unido, nos termos do Regulamento (CE) n.º 1781/2006 do Parlamento Europeu e do Conselho (JO L 352 de 31.12.2008, p. 34)."
+  }
+ }
+}

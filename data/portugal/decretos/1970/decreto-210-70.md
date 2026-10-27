@@ -1,0 +1,164 @@
+---
+schema_version: '1.0'
+id: pt:dre:142275:por
+title: Decreto n.º 210/70
+short_title: null
+summary: Define as zonas que ficam sujeitas ao regime de servidão militar confinantes com as instalações do depósito POLNATO
+  de Ponta Delgada
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho e Ministério da Marinha
+proposing_entity: null
+official_number: 210/70
+official_date: null
+publication_date: '1970-05-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 113/1970, Série I de 1970-05-14
+  number: '113'
+  series: I
+  supplement: null
+  pages: 616 - 617
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/05/11300/06160617.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '142275'
+  dre_path: /dr/detalhe/decreto/210-1970-142275
+  internal: pt:dre:142275:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/210-1970-142275
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/210-1970-142275
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dc265dda6bab7a4276d858dbd862a11166fe33bb59d9f43ddf14204f29aad879
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:12:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 210/70
+
+Considerando a necessidade de estabelecer o regime de servidão militar das zonas confinantes com o depósito POLNATO de Ponta Delgada, situado no distrito autónomo de Ponta Delgada, ilha de S. Miguel, arquipélago dos Açores;
+
+Considerando o disposto nos artigos 1.º e 2.º, alíneas a) e b), e no artigo 6.º, alínea b), da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e no [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º - 1. Ficam sujeitas ao regime de servidão militar as zonas confinantes com as instalações do depósito POLNATO de Ponta Delgada, definidas como segue:
+
+a) Zona 1: corresponde à zona de segurança das instalações vedadas do depósito e é limitada exteriormente pelo polígono de lados paralelos à vedação daquelas instalações e distantes de 10 m da mesma vedação;
+
+b) Zona 2: corresponde à zona de segurança das condutas enterradas desde a zona 1 até ao enraizamento do molhe do porto de Ponta Delgada e é constituída pela faixa de terreno com 4 m de largura, cujo eixo coincide com o eixo do feixe das referidas condutas;
+
+c) Zona 3: corresponde à zona de segurança das condutas colocadas ao longo do molhe do porto de Ponta Delgada e é delimitada pelas faces exteriores da vala coberta em que estão colocadas essas condutas.
+
+2. A demarcação da zona 2 é efectuada por meio de marcos de pedra ou de cimento, colocados lateralmente aos pontos de inflexão do eixo do feixe de condutas e tendo inscrita a indicação de respectiva distância em decímetros ao referido eixo.
+
+Art. 2.º - 1. Nos termos do artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), nas zonas 1 e 2 definidas no artigo anterior é proibida a execução, sem licença da autoridade militar competente, dos trabalhos e actividades seguintes:
+
+a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
+
+b) Alterações de qualquer forma, por meio de escavações ou aterros, do relevo e da configuração do solo;
+
+c) Depósitos permanentes ou temporários de materiais explosivos ou inflamáveis;
+
+d) Trabalhos de levantamento fotográfico ou topográfico;
+
+e) Plantação de árvores e arbustos;
+
+f) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segurança das instalações.
+
+2. Na zona 3, definida no artigo anterior, é proibida, nas mesmas condições, a execução de trabalhos ou actividades que impliquem a abertura da vala das condutas ou que de qualquer modo possam prejudicar as referidas condutas ou a estrutura da respectiva vala.
+
+3. As proibições exaradas neste artigo não abrangem as obras de conservação, salvo no que respeita a obras de conservação de pavimentos na zona 2 que impliquem escavações para além de 0,5 m de profundidade.
+
+Art. 3.º - 1. Compete ao Ministério da Marinha, pelo Comando Naval dos Açores, ouvido o Estado-Maior da Armada, a concessão das licenças a que se refere o presente decreto, competindo à direcção do depósito POLNATO de Ponta Delgada a fiscalização do cumprimento das disposições e dos condicionamentos impostos nas licenças concedidas, bem como ordenar a demolição das obras e aplicar as multas pelas infracções verificadas nos casos e nas condições previstas no [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
+
+2. Das decisões tomadas ao abrigo deste artigo, quanto à concessão das licenças e à determinação das demolições, poderão os interessados recorrer, respectivamente, para o Ministro da Marinha e para o comandante naval dos Açores.
+
+Art. 4.º Em conformidade com o disposto no § 1.º do artigo 7.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), os trabalhos e actividades condicionados pela servidão estabelecida pelo presente decreto, que hajam de ser executados pelo Estado, nomeadamente pela Junta Autónoma dos Portos do Distrito de Ponta Delgada, e pelas autarquias locais, não carecem de licença, mas só podem realizar-se com a concordância do Ministério da Marinha.
+
+Art. 5.º - 1. Dos requerimentos das licenças a que se refere o artigo 3.º deverão constar:
+
+a) A descrição precisa e clara dos trabalhos ou actividades cuja execução se pretende, com a pormenorização necessária à sua conveniente caracterização;
+
+b) A localização do prédio em que se pretende efectuar os trabalhos ou actividades, com a menção dos necessários elementos de referência.
+
+2. Os requerimentos deverão ser acompanhados de planta geral, em triplicado, com a situação da obra em relação ao prédio onde ela se projecta e, se for caso disso, de memória descritiva da construção projectada, em triplicado, e planta e alçado do contorno da construção projectada, também em triplicado, em escala não inferior a 1:200.
+
+Art. 6.º As zonas 1 e 2 sujeitas a servidão militar serão demarcadas em planta apropriada, sendo destinados exemplares às seguintes entidades:
+
+Secretariado-Geral da Defesa Nacional;
+
+Estado-Maior da Armada;
+
+Comando Naval dos Açores;
+
+Depósito POLNATO de Ponta Delgada;
+
+Ministério do Interior (Câmara Municipal de Ponta Delgada);
+
+Ministério das Obras Públicas (Direcção-Geral dos Serviços de Urbanização);
+
+Ministério das Comunicações (Junta Autónoma do Porto de Ponta Delgada).
+
+Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Manuel Pereira Crespo - Rui Alves da Silva Sanches.
+
+Promulgado em 4 de Maio de 1970.
+
+Publique-se.
+
+Presidência da República, 14 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -1,0 +1,401 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:234509:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-169780027",
+ "dre_path": "/dr/detalhe/portaria/58-2002-234509",
+ "source_lastmod": "2025-06-09",
+ "versions": [
+  {
+   "date": "2002-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169790798"
+   ]
+  },
+  {
+   "date": "2004-05-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:302286:por",
+     "title": "Portaria n.º 440/2004",
+     "published": "2004-04-30",
+     "dre_path": "/dr/detalhe/portaria/440-2004-302286"
+    }
+   ],
+   "changes": [
+    "Altera 20.º"
+   ],
+   "fragments": [
+    "169790798",
+    "921168987",
+    "921168986",
+    "921168990",
+    "921168984",
+    "921168983",
+    "921168982",
+    "921168981",
+    "921168980",
+    "921168979",
+    "921168978",
+    "921168977",
+    "921168976",
+    "921168975",
+    "921142074",
+    "921142073",
+    "921142072",
+    "921142071",
+    "921142070",
+    "921142069",
+    "921194621",
+    "921142067",
+    "921142066",
+    "921142065",
+    "921142064",
+    "921142063",
+    "921142062",
+    "921142061",
+    "921142060",
+    "921142059",
+    "921142058",
+    "921142057",
+    "921142056",
+    "921142055",
+    "921142054",
+    "921142053",
+    "921142052",
+    "921142051",
+    "921142050",
+    "169790799"
+   ]
+  }
+ ],
+ "fragments": {
+  "169790798": {
+   "fragment_id": "169780028",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 58/2002\n\nde 15 de Janeiro\n\nO Decreto-Lei n.º 538/99, de 13 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 313/2001, de 10 de Dezembro, que estabeleceu o regime da actividade de co-geração, remeteu, pelos n.os 1 e 2 do seu artigo 10.º, para portarias do Ministro da Economia a aprovação dos tarifários de venda de energia eléctrica pelas instalações de co-geração à rede do sistema eléctrico de serviço público (SEP).\n\nDe acordo com o n.º 2 do referido artigo 10.º, as portarias estabelecem quatro tarifários distintos, aplicáveis a toda a energia eléctrica fornecida pelas respectivas instalações à rede do SEP, consoante:\n\na) A potência de ligação das instalações de co-geração seja inferior ou igual a 10 MW, utilizando como combustível gás natural, GPL ou combustíveis líquidos, com excepção do fuelóleo;\n\nb) A potência de ligação das instalações de co-geração seja superior a 10 MW, utilizando como combustível gás natural, GPL ou combustíveis líquidos, com excepção do fuelóleo;\n\nc) As instalações de co-geração sejam utilizadoras de energia primária que, em cada ano, seja constituída em mais de 50% por recursos renováveis ou resíduos industriais, agrícolas ou urbanos, independentemente da potência de ligação;\n\nd) As instalações de co-geração utilizem como combustível fuelóleo, independentemente da potência de ligação.\n\nA presente portaria tem por finalidade estabelecer o tarifário aplicável às instalações de co-geração, licenciadas ao abrigo do Decreto-Lei n.º 538/99, de 13 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 313/2001, de 10 de Dezembro, cuja potência de ligação à rede do SEP seja inferior ou igual a 10 MW, utilizando como combustível gás natural, GPL ou combustíveis líquidos, com excepção do fuelóleo, bem como estabelecer as disposições relativas ao período de vigência das modalidades do mesmo tarifário.\n\nAssim:\n\nManda o Governo, pelo Ministro da Economia, ao abrigo dos n.os 1 e 2 do artigo 10.º do Decreto-Lei n.º 538/99, de 13 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 313/2001 de 10 de Dezembro, o seguinte:"
+  },
+  "921168987": {
+   "fragment_id": "921168630",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nAs instalações licenciadas ao abrigo do Decreto-Lei n.º 538/99, de 13 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 313/2001, de 10 de Dezembro, cuja potência de ligação seja inferior ou igual a 10 MW, utilizando como combustível gás natural, GPL ou combustíveis líquidos, com excepção do fuelóleo, adiante designadas por instalações de co-geração, são remuneradas, pelo fornecimento da energia entregue à rede, através da fórmula seguinte:\n\nVRD(índice m) = [PF(VRD)(índice m) + PV(VRD)(índice m) + PA(VRD)(índice m)]/(1 - LEV)"
+  },
+  "921168986": {
+   "fragment_id": "921168629",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nNa fórmula do número anterior:\n\na) VRD(índice m) é a remuneração aplicável a instalações de co-geração, no mês m;\n\nb) PF(VRD)(índice m) é a parcela fixa da remuneração aplicável a instalações de co-geração, no mês m;\n\nc) PV(VRD)(índice m) é a parcela variável da remuneração aplicável a instalações de co-geração, no mês m;\n\nd) PA(VRD)(índice m) é a parcela ambiental da remuneração aplicável a instalações de co-geração, no mês m;\n\ne) LEV representa as perdas, nas redes de transporte e distribuição, evitadas pela instalação de co-geração."
+  },
+  "921168990": {
+   "fragment_id": "921168628",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 8-J/2002 - Diário da República n.º 50/2002, 3º Suplemento, Série I-B de 2002-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-j-2002-657467), produz efeitos a partir de 2002-01-20"
+   ],
+   "markdown": "###### 3.º\n\nO valor de PF(VRD)(índice m), previsto no n.º 1.º, é calculado através da fórmula seguinte:\n\nPF(VRD) (índice m) = PF(U) (índice ref) x CPOT (índice m) x POT (índice p,m) x IPC (índice dez)/IPC (índice ref)\n\n> Retificado pelo/a [Declaração de Rectificação n.º 8-J/2002 - Diário da República n.º 50/2002, 3º Suplemento, Série I-B de 2002-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-j-2002-657467), produz efeitos a partir de 2002-01-20"
+  },
+  "921168984": {
+   "fragment_id": "921168627",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nNa fórmula do número anterior:\n\na) PF(U)(índice ref) é o valor unitário de referência para PF(VRD)(índice m), o qual:\n\ni) Deve corresponder à mensualização do custo unitário de investimento nos novos meios de produção cuja construção é evitada por uma instalação de co-geração que assegure o mesmo nível de garantia de potência que seria proporcionado por esses novos meios;\n\nii) É fixado anualmente por despacho do Ministro da Economia, a publicar no Diário da República, 2.ª série, durante o mês de Fevereiro, podendo a sua fixação ser delegada no director-geral da Energia;\n\niii) É aplicável às instalações de co-geração cujo processo de licenciamento seja considerado pela DGE completo, na parte de que é responsável o co-gerador, no ano daquela publicação;\n\niv) É expresso em euros por quilowatts por mês;\n\nb) IPC(índice dez) é o índice de preços no consumidor, sem habitação, no continente, no mês de Dezembro do ano imediatamente anterior ao do mês m;\n\nc) IPC(índice ref) é o índice de preços no consumidor, sem habitação, no continente, referente ao mês de Dezembro do ano anterior ao da publicação do despacho que estabeleceu o valor de PF(U)(índice ref) aplicável à instalação de co-geração;\n\nd) CPOT(índice m) é um coeficiente adimensional que traduz a contribuição da instalação de co-geração, no mês m, para a garantia de potência proporcionada pela rede do SEP;\n\ne) POT(índice p,m) é a potência média disponibilizada pela instalação de co-geração à rede do SEP, durante as horas de ponta do mês m, expressa em quilowatts."
+  },
+  "921168983": {
+   "fragment_id": "921168626",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nO valor de CPOT(índice m), previsto no n.º 3.º, é calculado através das fórmulas seguintes:\n\na) CPOT(índice m) = (1 - NRM(índice m))/0,85, para potência de ligação > 1 MW;\n\nb) CPOT(índice m) = 1, para potência de ligação =<1 MW."
+  },
+  "921168982": {
+   "fragment_id": "921168625",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nNa fórmula da alínea a) do número anterior, NRM(índice m) representa a relação entre o número de medidas, tomadas nas horas de ponta do mês m, em que a potência disponibilizada à rede do SEP pela instalação de co-geração foi inferior a metade da potência POT(índice p,m) e o número total de medidas de potência, tomadas nas horas de ponta do mês m."
+  },
+  "921168981": {
+   "fragment_id": "921168624",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nO valor de POT(índice p,m), previsto no n.º 3.º, é calculado através da fórmula seguinte:\n\nPOT(índice p,m) = EEC(índice p,m)/NHM(índice p,m)"
+  },
+  "921168980": {
+   "fragment_id": "921168622",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nNa fórmula do número anterior:\n\na) EEC(índice p,m) é a energia fornecida à rede do SEP pela instalação de co-geração nas horas de ponta do mês m, expressa em quilowatts-hora;\n\nb) NHM(índice p,m) é o número de horas do mês m que, nos termos do tarifário geral aplicável ao nível de tensão da ligação da instalação de co-geração à rede do SEP, são consideradas, num ciclo semanal, horas de ponta."
+  },
+  "921168979": {
+   "fragment_id": "921168620",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nO valor de PV(VRD)(índice m), previsto no n.º 1.º, é calculado através da fórmula seguinte:\n\nPV(VRD)(índice m) = PVC(VRD)(índice m) + PVR(VRD)(índice m) + PVO(VRD)(índice m)"
+  },
+  "921168978": {
+   "fragment_id": "921168619",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nNa fórmula do número anterior:\n\na) PVC(VRD)(índice m) é a parte de PV(VRD)(índice m) correspondente a despesas com combustível;\n\nb) PVR(VRD)(índice m) é a parte de PV(VRD)(índice m) correspondente aos custos evitados nas redes a montante;\n\nc) PVO(VRD)(índice m) é a parte de PV(VRD)(índice m) correspondente a outras despesas."
+  },
+  "921168977": {
+   "fragment_id": "921168618",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º\n\nO valor de PVC(VRD)(índice m), previsto no n.º 9.º, é calculado através da fórmula seguinte:\n\nPVC(VRD)(índice m) = PVC(U)(índice ref) x IPVC(índice m) x EEC(índice m) x KMHO"
+  },
+  "921168976": {
+   "fragment_id": "921168617",
+   "type": 11,
+   "heading": "12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º\n\nNa fórmula do número anterior:\n\na) PVC(U)(índice ref) é o valor unitário de referência para PVC(VRD)(índice m), o qual:\n\ni) Deve corresponder aos custos com combustível que seriam necessários à operação dos novos meios de produção cuja construção é evitada pela instalação de co-geração;\n\nii) É fixado anualmente por despacho do Ministro da Economia, a publicar no Diário da República, 2.ª série, durante o mês de Fevereiro, podendo a sua fixação ser delegada no director-geral da Energia;\n\niii) É aplicável às instalações de co-geração cujo processo de licenciamento seja considerado pela DGE completo, na parte de que é responsável o co-gerador, no ano daquela publicação;\n\niv) É expresso em euros por quilowatt-hora;\n\nb) IPVC(índice m) é o indexante de PVC(U)(índice ref) relativo ao mês m;\n\nc) EEC(índice m) é a energia fornecida à rede do SEP pela instalação de co-geração, no mês m, expressa em quilowatts-hora;\n\nd) KMHO é um coeficiente facultativo que modula o valor de PVC(VRD)(índice m), consoante o posto horário, definido, num ciclo semanal, nos mesmos termos que se encontrem estabelecidos no tarifário geral aplicável ao nível de tensão da ligação da instalação de co-geração à rede do SEP, em que a energia tenha sido fornecida."
+  },
+  "921168975": {
+   "fragment_id": "921168616",
+   "type": 11,
+   "heading": "13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 13.º\n\nO valor de IPVC(índice m), previsto no n.º 11.º, é calculado através da fórmula seguinte:\n\nIPVC(índice m) = 0,55 x ALB(índice m) x TCUSD(índice m)/(ALB(índice ref) x TCUSD(índice ref)) + 0,45 x IPC(índice dez)/IPC(índice ref)"
+  },
+  "921142074": {
+   "fragment_id": "921168615",
+   "type": 11,
+   "heading": "14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 14.º\n\nNa fórmula do número anterior:\n\na) ALB(índice m) é a média dos valores do Arabian light breakeven, publicados, nos dois trimestres anteriores ao trimestre que inclui o mês m, no Platt's Oilgram Price Report, expressos em dólares dos Estados Unidos da América por barril;\n\nb) ALB(índice ref) é a média dos valores do Arabian light breakeven, publicados, no último semestre do ano anterior ao da publicação do despacho que estabeleceu o valor de PVC(U)(índice ref) aplicável à instalação de co-geração, no Platt's Oilgram Price Report, expressos em dólares dos Estados Unidos da América por barril;\n\nc) TCUSD(índice m) é a média das taxas de câmbio entre o euro e o dólar dos Estados Unidos da América, publicadas pelo Banco de Portugal durante o mês m;\n\nd) TCUSD(índice ref) é a média das taxas de câmbio entre o euro e o dólar dos Estados Unidos da América, publicadas pelo Banco de Portugal durante o mês de Dezembro do ano anterior ao da publicação do despacho que estabeleceu o valor de PVC(U)(índice ref) aplicável à instalação de co-geração."
+  },
+  "921142073": {
+   "fragment_id": "921168614",
+   "type": 11,
+   "heading": "15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 15.º\n\nAs instalações de co-geração deverão decidir, no acto de licenciamento, se optam ou não pela modulação tarifária traduzida pelo coeficiente KMHO, o qual será calculado através da fórmula seguinte:\n\nKMHO(índice m) = (KMHO(índice pc) x EEC(índice pc,m) + KMHO(índice vs) x EEC(índice vs,m))/EEC(índice m)"
+  },
+  "921142072": {
+   "fragment_id": "921168613",
+   "type": 11,
+   "heading": "16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 16.º\n\nNa fórmula do número anterior:\n\na) KMHO(índice pc) é o factor que representa a modulação correspondente a horas cheias e de ponta, o qual, para efeitos do presente diploma, toma o valor 1,250;\n\nb) EEC(índice pc,m) é a energia fornecida à rede do SEP pela instalação de co-geração durante as horas cheias e de ponta do mês m, expressa em quilowatts-hora;\n\nc) KMHO(índice vs) é o factor que representa a modulação correspondente a horas de vazio normal e de super vazio, o qual, para efeitos do presente diploma, toma o valor 0,725;\n\nd) EEC(índice vs,m) é a energia fornecida à rede do SEP pela instalação de co-geração, durante as horas de vazio normal e super vazio no mês m, expressa em quilowatts-hora."
+  },
+  "921142071": {
+   "fragment_id": "921168612",
+   "type": 11,
+   "heading": "17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 17.º\n\nPara as instalações de co-geração que, no acto de licenciamento e nos termos do n.º 15.º, não tiverem optado pela modulação tarifária traduzida pelo coeficiente KMHO, este tomará o valor 1."
+  },
+  "921142070": {
+   "fragment_id": "921168611",
+   "type": 11,
+   "heading": "18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 18.º\n\nO valor de PVR(VRD)(índice m), previsto no n.º 9.º, é calculado através da fórmula seguinte:\n\nPVR(VRD)(índice m) = PVR(U) x EEC(índice pc,m) x IPC(índice dez)/IPC(índice ref)"
+  },
+  "921142069": {
+   "fragment_id": "921168610",
+   "type": 11,
+   "heading": "19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 19.º\n\nNa fórmula do número anterior, PVR(U) é o valor unitário que serve para determinar o valor de PVR(VRD)(índice m), o qual:\n\na) Deve corresponder aos custos de constituição e operação das redes a montante do ponto de interligação que são evitados pela instalação de co-geração;\n\nb) É expresso em euros por quilowatt-hora."
+  },
+  "921194621": {
+   "fragment_id": "921168609",
+   "type": 11,
+   "heading": "20.º",
+   "in_force_from": "2004-05-05",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 440/2004 - Diário da República n.º 102/2004, Série I-B de 2004-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/440-2004-302286), em vigor a partir de 2004-05-05"
+   ],
+   "markdown": "###### 20.º\n\nO valor de PVR(U), previsto no n.º 18.º, é calculado através da fórmula seguinte:\n\nPVR(U) = [13500 - (POT(índice pc,r,m) - 1000)] x PVR(U)(índice ref)/13500\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 440/2004 - Diário da República n.º 102/2004, Série I-B de 2004-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/440-2004-302286), em vigor a partir de 2004-05-05"
+  },
+  "921142067": {
+   "fragment_id": "921168608",
+   "type": 11,
+   "heading": "21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 21.º\n\nNa fórmula do número anterior:\n\na) PVR(U)(índice ref) é um parâmetro definidor de PVR(U), estabelecido anualmente por despacho do Ministro da Economia, a publicar no Diário da República, 2.ª série, durante o mês de Fevereiro, podendo o seu estabelecimento ser delegado no director-geral da Energia, e aplicável às instalações de co-geração cujo processo de licenciamento seja considerado pela DGE completo, na parte de que é responsável o co-gerador, no ano daquela publicação;\n\nb) POT(índice pc,r,m) é a potência média disponibilizada, para efeitos de cálculo de PVR(U), pela instalação ou instalações de co-geração associadas ao mesmo conjunto de utilizadores de energia térmica, à rede do SEP, durante as horas cheias e de ponta do mês m, expresso em quilowatts, a qual é calculada através das seguintes fórmulas:\n\ni) POT(índice pc,r,m) = 1000 kW, nos casos em que POT(índice pc,m) =<1000 kW;\n\nii) POT(índice pc,rm) = POT(índice pc,m), nos casos em que 1000 kWc) Nas fórmulas da alínea anterior, o valor de POT(índice pc,m) é calculado da seguinte forma:\n\nPOT(índice pc,m) = EEC(índice pc,m)/NHM(índice pc,m)\n\nonde NHM(índice pc,m) é o número de horas do mês m que, nos termos do tarifário geral aplicável ao nível de tensão da ligação da instalação de co-geração à rede do SEP, são consideradas, num ciclo semanal, horas de ponta e cheia."
+  },
+  "921142066": {
+   "fragment_id": "921168607",
+   "type": 11,
+   "heading": "22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 22.º\n\nO valor de PVO(VRD)(índice m), previsto no n.º 9.º, é calculado através da fórmula seguinte:\n\nPVO(VRD)(índice m) = PVO(U)(índice ref) x EEC(índice m) x KMHO x IPC(índice dez)/IPC(índice ref)"
+  },
+  "921142065": {
+   "fragment_id": "921168606",
+   "type": 11,
+   "heading": "23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 23.º\n\nNa fórmula do número anterior, PVO(U)(índice ref) é o valor unitário de referência para PVO(VRD), o qual:\n\na) Deve corresponder aos outros custos, com excepção dos custos com combustível, que seriam necessários à operação dos novos meios de produção cuja construção é evitada pela instalação de co-geração;\n\nb) É fixado anualmente por despacho do Ministro da Economia, a publicar no Diário da República, 2.ª série, durante o mês de Fevereiro, podendo a sua fixação ser delegada no director-geral da Energia;\n\nc) É aplicável às instalações de co-geração cujo processo de licenciamento seja considerado pela DGE completo, na parte de que é responsável o co-gerador, no ano daquela publicação;\n\nd) É expresso em euros por quilowatt-hora."
+  },
+  "921142064": {
+   "fragment_id": "921168605",
+   "type": 11,
+   "heading": "24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 24.º\n\nO valor de PA(VRD)(índice m), previsto no n.º 1.º, é calculado através da fórmula seguinte:\n\nPA(VRD)(índice m) = PA(U)(índice ref) x CCR(índice ref) x CEA x EEC(índice m) x KMHO x IPC(índice dez)/IPC(índice ref)"
+  },
+  "921142063": {
+   "fragment_id": "921168604",
+   "type": 11,
+   "heading": "25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 25.º\n\nNa fórmula do número anterior:\n\na) PA(U)(índice ref) é um valor unitário de referência, o qual:\n\ni) Deve corresponder a uma valorização unitária do dióxido de carbono que seria emitido pelos novos meios de produção cuja construção é evitada pela instalação de co-geração;\n\nii) É fixado anualmente por despacho do Ministro da Economia, a publicar no Diário da República, 2.ª série, durante o mês de Fevereiro, podendo a sua fixação ser delegada no director-geral da Energia;\n\niii) É aplicável, durante o período de tempo estabelecido no n.º 34.º, às instalações de co-geração cujo processo de licenciamento seja considerado pela DGE completo, na parte de que é responsável o co-gerador, no ano daquela publicação;\n\niv) É expresso em euros por grama;\n\nb) CCR(índice ref) é o montante unitário das emissões de dióxido de carbono evitadas pela instalação de co-geração de referência, o qual toma o valor de 133 g/kWh;\n\nc) CEA é um coeficiente adimensional que traduz a eficiência ambiental da instalação de co-geração."
+  },
+  "921142062": {
+   "fragment_id": "921168603",
+   "type": 11,
+   "heading": "26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 26.º\n\nPara centrais que utilizem, em mais de 90% das suas horas de funcionamento, um único combustível, o valor de CEA, previsto no n.º 24.º, é calculado através da fórmula seguinte:\n\nCEA = (20 x (eta)(índice hom) - 11) x (2,5 - 0,004 x EMI55(índice m))/4"
+  },
+  "921142061": {
+   "fragment_id": "921168602",
+   "type": 11,
+   "heading": "27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 27.º\n\nNa fórmula do número anterior:\n\na) (eta)(índice hom) é o valor homologado pela DGE para a eficiência ambiental da instalação de co-geração;\n\nb) EMI55(índice m) é o número de gramas de dióxido de carbono por quilowatts-hora que uma instalação convencional de produção de energia eléctrica teria emitido, no mês m, se utilizasse combustível com as mesmas características do combustível utilizado pela instalação de co-geração e tivesse um rendimento de 55%, o qual, para instalações que consumam gás natural e para efeitos da presente portaria, é fixado em 370 g/kWh, sendo, para as restantes instalações, fixado no respectivo acto de licenciamento."
+  },
+  "921142060": {
+   "fragment_id": "921168601",
+   "type": 11,
+   "heading": "28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 28.º\n\nO valor de (eta)(índice hom), previsto no n.º 26.º, corresponde inicialmente ao valor certificado pela DGE no acto de licenciamento da instalação de co-geração, sendo calculado através da fórmula seguinte:\n\n(eta)(índice hom) = min[0,75; EE(índice lic)/(CB(índice lic) - ET(índice lic)/0,9)]"
+  },
+  "921142059": {
+   "fragment_id": "921168600",
+   "type": 11,
+   "heading": "29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 29.º\n\nNa fórmula do número anterior:\n\na) EE(índice lic) é o valor, certificado pela DGE no acto de licenciamento, da energia eléctrica que será produzida anualmente pela instalação de co-geração, excluindo os consumos nos sistemas auxiliares internos de produção, expresso em quilowatts-hora;\n\nb) ET(índice lic) é o valor, certificado pela DGE no acto de licenciamento, da energia térmica útil que será consumida anualmente a partir da energia térmica produzida pela instalação de co-geração, excluindo os consumos nos sistemas auxiliares internos de produção energética, expresso em quilowatts-hora;\n\nc) CB(índice lic) é o valor, certificado pela DGE no acto de licenciamento, da energia primária que será consumida anualmente na instalação de co-geração, avaliada a partir do poder calorífico inferior do combustível utilizado, expresso em quilowatts-hora."
+  },
+  "921142058": {
+   "fragment_id": "921168599",
+   "type": 11,
+   "heading": "30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 30.º\n\nSempre que for realizada uma auditoria à instalação de co-geração, realizada por uma entidade independente designada pela DGE e resultante de uma iniciativa sua ou do co-gerador, o valor de (eta)(índice hom) que se encontrar em vigor, (eta)(índice hom) é recalculado através das fórmulas seguintes:\n\na) (eta)(índice hom) = 0,75, quando (eta)(índice ver) > 0,75;\n\nb) (eta)(índice hom) = (eta)(índice ver), quando (eta)(índice hom,v)<(eta)(índice ver) =<0,75;\n\nc) (eta)(índice hom) = (eta)(índice hom,v), quando (eta)(índice hom,v) - 0,05<(eta)(índice ver) =<(eta)(índice hom,v);\n\nd) (eta)(índice hom) = (eta)(índice ver), quando (eta)(índice ver) =<(eta)(índice hom,v) - 0,05."
+  },
+  "921142057": {
+   "fragment_id": "921168598",
+   "type": 11,
+   "heading": "31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 31.º\n\nNas fórmulas do número anterior:\n\na) (eta)(índice ver) é o valor de EE/(CB - ET/0,9) verificado pela auditoria;\n\nb) (eta)(índice hom,v) é o valor de (eta)(índice hom) que vigorava antes da realização da auditoria;\n\nc) (eta)(índice hom) é o valor de (eta)(índice hom) que passa a vigorar após a realização da auditoria."
+  },
+  "921142056": {
+   "fragment_id": "921168597",
+   "type": 11,
+   "heading": "32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 32.º\n\nPara centrais que utilizem, entre 10% e 50% das suas horas de funcionamento, mais de um único combustível, o valor de CEA, previsto no n.º 24.º, decorre de fórmula de cálculo homologada pela DGE no acto de licenciamento."
+  },
+  "921142055": {
+   "fragment_id": "921168596",
+   "type": 11,
+   "heading": "33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 33.º\n\nO parâmetro LEV, previsto no n.º 1.º, toma os seguintes valores:\n\na) Centrais com potência de ligação maior ou igual que 5 MW - 0,020;\n\nb) Centrais com potência de ligação menor que 5 MW - 0,040."
+  },
+  "921142054": {
+   "fragment_id": "921168595",
+   "type": 11,
+   "heading": "34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 34.º\n\nO montante de remuneração definido por VRD é aplicável à energia fornecida, à rede do SEP, pelas instalações de co-geração, nos primeiros 120 meses, contados a partir:\n\na) Da data do início da exploração da instalação, se esta ocorrer antes do 15.º mês após a DGE ter considerado o respectivo processo de licenciamento completo, na parte de que é responsável o co-gerador;\n\nb) Do 15.º mês após a DGE ter considerado o respectivo processo de licenciamento completo, na parte de que é responsável o co-gerador, se o início da exploração da instalação ocorrer após esta data."
+  },
+  "921142053": {
+   "fragment_id": "921168594",
+   "type": 11,
+   "heading": "35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 35.º\n\nApós o período aplicável a VRD, nos termos do n.º 34, a energia que a instalação fornecer à rede do SEP continuará a ser paga através da fórmula apresentada no n.º 1.º, mas com o valor de PA(VRD)(índice m) reduzido e calculado de acordo com a fórmula seguinte:\n\nPA(VRD)(índice m) = PA(U)(índice ref) x CCR(índice ref) x CEA(índice red) x EEC(índice m) x KMHO x IPC(índice dez)/IPC(índice ref)\n\npassando o valor de CEA(índice red) a ser calculado pela seguinte expressão:\n\nCEA(índice red) = (20 x (eta)(índice hom) - 11) x (2,5 - 0,004 x EMI55)/8"
+  },
+  "921142052": {
+   "fragment_id": "921168593",
+   "type": 11,
+   "heading": "36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 36.º\n\nAs instalações que, nos termos do n.º 1 do artigo 28.º do Decreto-Lei n.º 538/99, com a redacção dada pelo Decreto-Lei n.º 313/2001, exercerem a opção de passagem ao regime previsto nesse diploma deixam de receber eventuais garantias de Estado a que ainda tivessem direito, sendo o período inicial, nos termos do n.º 34.º, contado a partir da data da primeira ligação à rede."
+  },
+  "921142051": {
+   "fragment_id": "921168592",
+   "type": 11,
+   "heading": "37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 37.º\n\nNo primeiro ano de aplicação da presente portaria, os despachos previstos nos n.os 4.º, 12.º, 21.º, 23.º e 25.º serão publicados nos 30 dias posteriores à entrada em vigor deste diploma, aplicando-se às centrais cuja construção seja iniciada nesse ano."
+  },
+  "921142050": {
+   "fragment_id": "921168591",
+   "type": 11,
+   "heading": "38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 38.º\n\nA presente portaria revoga a Portaria n.º 30/2000, de 27 de Janeiro.\n\nAções"
+  },
+  "169790799": {
+   "fragment_id": "169780029",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Economia, Luís Garcia Braga da Cruz, em 14 de Dezembro de 2001."
+  }
+ }
+}

@@ -1,0 +1,315 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74788783:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-124530588",
+ "dre_path": "/dr/detalhe/decreto-lei/29-2016-74788783",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-06-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124530396",
+    "124530397",
+    "124530398",
+    "124530399",
+    "124530400",
+    "124530401",
+    "124530402",
+    "124530403",
+    "124530404",
+    "124530405",
+    "124530406",
+    "124530408",
+    "124530409",
+    "124530410",
+    "124530411",
+    "124530412",
+    "124530413",
+    "124530414",
+    "124530415",
+    "124530416",
+    "124530417",
+    "124530418",
+    "124530419",
+    "124530420",
+    "124530421"
+   ]
+  },
+  {
+   "date": "2019-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124500725:por",
+     "title": "Decreto-Lei n.º 135/2019",
+     "published": "2019-09-06",
+     "dre_path": "/dr/detalhe/decreto-lei/135-2019-124500725"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "124530396",
+    "124530397",
+    "124530398",
+    "124530399",
+    "124530400",
+    "124530401",
+    "124530402",
+    "124530403",
+    "124530404",
+    "124530405",
+    "124530406",
+    "124530407",
+    "124530408",
+    "124530409",
+    "124530435",
+    "124530411",
+    "124530412",
+    "124530413",
+    "124530437",
+    "124530415",
+    "124530416",
+    "124530417",
+    "124530418",
+    "124530419",
+    "124530420",
+    "124530421"
+   ]
+  }
+ ],
+ "fragments": {
+  "124530396": {
+   "fragment_id": "124530589",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 29/2016\n\nde 24 de junho\n\nA Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela Lei Orgânica n.º 1-A/2009, de 7 de julho, alterada e republicada pela Lei Orgânica n.º 6/2014, de 1 de setembro, determina, no n.º 2 do artigo 20.º, a propósito dos órgãos de conselho dos ramos das Forças Armadas, que os conselhos de classes na Marinha são definidos em lei especial.\n\nA composição, competências e funcionamento dos conselhos de classes na Marinha são regulados no Decreto-Lei n.º 199/93, de 3 de junho, alterado pelo Decreto-Lei n.º 356/98, de 18 de novembro, o qual, na sequência da reorganização da estrutura superior da Defesa Nacional e das Forças Armadas, se tornou desajustado ao novo enquadramento normativo organizacional e estatutário, que consta do Decreto-Lei n.º 185/2014, de 29 de dezembro, que aprova a Lei Orgânica da Marinha, do Decreto Regulamentar n.º 10/2015, de 31 de julho, alterado pelo Decreto Regulamentar n.º 1/2016, de 24 de maio, que aprova a estrutura interna da Marinha, e do Estatuto dos Militares das Forças Armadas, aprovado em anexo ao Decreto-Lei n.º 90/2015, de 29 de maio.\n\nConsiderando que houve modificações estatutárias significativas, com a alteração de modalidades de promoção para alguns postos e a criação de um novo posto para a categoria de praças da Marinha, o cabo-mor, assim como alterações funcionais e orgânicas, mormente na designação de órgãos e serviços, torna-se necessário alterar o regime dos conselhos de classes da Marinha.\n\nForam ouvidas as associações de militares, nos termos do disposto na alínea b) do artigo 2.º da Lei Orgânica n.º 3/2001, de 29 de agosto.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei Orgânica n.º 1-A/2009, de 7 de julho, alterada e republicada pela Lei Orgânica n.º 6/2014, de 1 de setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "124530397": {
+   "fragment_id": "124530590",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei define a composição, as competências, o funcionamento e o processo eleitoral dos conselhos de classes na Marinha."
+  },
+  "124530398": {
+   "fragment_id": "124530591",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nOs conselhos de classes na Marinha são órgãos de conselho do ramo aos quais compete apoiar o Superintendente do Pessoal."
+  },
+  "124530399": {
+   "fragment_id": "124530592",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\nAos conselhos de classes na Marinha compete, em especial:\n\na) Propor a ordenação, por mérito relativo, dos oficiais, sargentos e praças dos quadros permanentes, elegíveis para promoção por escolha;\n\nb) Prestar apoio ao Superintendente do Pessoal na apreciação das avaliações relativas a oficiais, em qualquer forma de prestação de serviço, ou a militares a ingressar nesta categoria, para verificação das três primeiras condições gerais de promoção;\n\nc) Prestar apoio ao Diretor de Pessoal na apreciação das avaliações relativas a sargentos e praças, em qualquer forma de prestação de serviço, ou a militares a ingressar nestas categorias, para verificação das três primeiras condições gerais de promoção;\n\nd) Emitir parecer acerca da satisfação das três primeiras condições gerais de promoção relativamente a sargentos e praças, em qualquer forma de prestação de serviço, quando solicitado pelo Superintendente do Pessoal;\n\ne) Preparar a elaboração das listas de promoção, de acordo com as modalidades de promoção estabelecidas no Estatuto dos Militares das Forças Armadas, aprovado em anexo ao Decreto-Lei n.º 90/2015, de 29 de maio."
+  },
+  "124530400": {
+   "fragment_id": "124530593",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - Os conselhos de classes na Marinha são constituídos por militares dos quadros permanentes, integrando membros por inerência e membros eleitos.\n\n2 - Os membros eleitos, em número não inferior a 50 % do quantitativo global dos elementos que integram o respetivo conselho, devem assegurar a representatividade das diferentes classes."
+  },
+  "124530401": {
+   "fragment_id": "124530594",
+   "type": 11,
+   "heading": "Artigo 5.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Duração do mandato\n\nO mandato dos membros eleitos tem a duração de dois anos, com início no ano civil seguinte ao da eleição."
+  },
+  "124530402": {
+   "fragment_id": "124530595",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funcionamento\n\n1 - Funcionam na Superintendência do Pessoal os seguintes conselhos de classes na Marinha:\n\na) O Conselho de Classes de Oficiais, presidido pelo Superintendente do Pessoal;\n\nb) O Conselho de Classes de Sargentos, presidido pelo Diretor de Pessoal;\n\nc) O Conselho de Classes de Praças, presidido pelo Diretor de Pessoal.\n\n2 - Os conselhos de classes na Marinha funcionam por comissões, para efeito das competências referidas no artigo 3.º, e reúnem mediante convocação do respetivo presidente, com a ordem de trabalhos por este previamente estabelecida."
+  },
+  "124530403": {
+   "fragment_id": "124530596",
+   "type": 11,
+   "heading": "Artigo 7.º — Composição, regras de funcionamento e processo eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Composição, regras de funcionamento e processo eleitoral\n\nA composição, as regras de funcionamento e as regras relativas ao processo eleitoral dos conselhos de classes na Marinha constam, respetivamente, dos anexos i, ii e iii ao presente decreto-lei, que dele fazem parte integrante."
+  },
+  "124530404": {
+   "fragment_id": "124530597",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma transitória\n\n1 - Nas classes em alimentação e até existirem militares dessas classes em todos os postos, o militar mais antigo de cada classe toma o lugar do membro por inerência, sempre que tal estiver previsto na composição e funcionamento dos conselhos e comissões.\n\n2 - Até existirem militares promovidos ao posto de cabo-mor, o Conselho de Classes de Praças, a que se refere o artigo 3.º do anexo i, funciona com as seguintes alterações na sua composição:\n\na) Os cabos mais antigos na situação do ativo das diversas classes, que prestem serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocados em Portugal Continental, como membros por inerência no lugar, respetivamente, dos cabos-mores mais antigos na situação do ativo das diversas classes, que prestem serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocados em Portugal Continental;\n\nb) Os cabos, dois de cada classe, se os houver, eleitos em lugar dos cabos-mores, são membros eleitos.\n\n3 - Até existirem militares promovidos ao posto de cabo-mor, as comissões do Conselho de Classes de Praças funcionam com as seguintes alterações:\n\na) Para efeitos de promoção a cabo-mor, são membros eleitos em cada comissão cinco cabos, determinados por sorteio entre todas as classes, exceto a classe dos cabos a promover;\n\nb) Para efeitos de verificação de condições gerais de promoção, a praça mais antiga da classe da praça a apreciar, de entre os membros eleitos do conselho, e quatro cabos, sendo um da classe da praça a apreciar, se a houver.\n\n4 - Os membros por inerência e eleitos indicados nos números anteriores são contabilizados para o quórum mínimo das reuniões dos conselhos de classes a que se refere o n.º 2 do artigo 1.º do anexo ii."
+  },
+  "124530405": {
+   "fragment_id": "124530598",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 199/93, de 3 de junho, alterado pelo Decreto-Lei n.º 356/98, de 18 de novembro."
+  },
+  "124530406": {
+   "fragment_id": "124530599",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "124530408": {
+   "fragment_id": "124530601",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 7.º)\n\nComposição dos Conselhos de Classes na Marinha"
+  },
+  "124530409": {
+   "fragment_id": "124530602",
+   "type": 11,
+   "heading": "Artigo 1.º — Composição do Conselho de Classes de Oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Composição do Conselho de Classes de Oficiais\n\n1 - O Conselho de Classes de Oficiais (CCO) é presidido pelo Superintendente do Pessoal e tem a seguinte composição:\n\na) Membros por inerência:\n\ni) O Superintendente do Pessoal;\n\nii) O contra-almirante mais antigo da Marinha, na situação do ativo, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental e que não seja já membro por inerência;\n\niii) O Diretor de Pessoal;\n\niv) Os contra-almirantes, ou os comodoros ou os oficiais superiores mais antigos na situação de ativo das diversas classes, que prestem serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocados em Portugal Continental, e que não sejam já membros por inerência;\n\nv) O Chefe da Repartição da Direção de Pessoal com a competência de controlo dos efetivos;\n\nb) Membros eleitos:\n\ni) Os capitães-de-mar-e-guerra, dois de cada classe, se os houver;\n\nii) Os capitães-de-fragata, dois de cada classe, se os houver;\n\niii) Os capitães-tenentes, dois de cada classe, se os houver.\n\n2 - O CCO funciona por comissões, cada uma constituída por cinco membros por inerência e cinco membros eleitos:\n\na) São membros por inerência em cada comissão:\n\ni) O Superintendente do Pessoal, que preside;\n\nii) O contra-almirante mais antigo da Marinha, na situação do ativo, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental e que não seja já membro por inerência;\n\niii) O Diretor de Pessoal;\n\niv) O contra-almirante, ou o comodoro ou o oficial superior mais antigo, na situação do ativo da classe dos oficiais dos quadros permanentes a apreciar, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental, e que não seja já membro por inerência ou, quando se trate de outros militares, da classe a designar pelo presidente;\n\nv) O Chefe da Repartição da Direção de Pessoal com a competência de controlo dos efetivos;\n\nb) São membros eleitos em cada comissão:\n\ni) Para efeitos de promoção a capitão-de-mar-e-guerra, cinco oficiais deste posto, sendo dois da classe dos oficiais a promover, se os houver;\n\nii) Para efeitos de promoção a capitão-de-fragata, dois capitães-de-mar-e-guerra, sendo um da classe a promover, se o houver, e três capitães-de-fragata, sendo dois da classe dos oficiais a promover, se os houver;\n\niii) Para efeitos de promoção a capitão-tenente, um capitão-de-mar-e-guerra e um capitão-de-fragata da classe dos oficiais a promover, se os houver, e três capitães-tenentes, sendo dois da classe dos oficiais a promover, se os houver;\n\niv) Para efeitos de verificação de condições gerais de promoção de oficiais dos quadros permanentes, o oficial mais antigo da classe do oficial a apreciar, de entre os membros eleitos do conselho e quatro capitães-de-mar-e-guerra, sendo um da classe dos oficiais a apreciar, se o houver;\n\nv) Para efeitos de verificação de condições gerais de promoção de outros militares, cinco capitães-de-mar-e-guerra, sendo um de classe funcionalmente afim à do militar a apreciar, a designar pelo presidente;\n\nc) Nos casos em que haja mais de um oficial do mesmo posto em condições de participar numa dada comissão de acordo com os critérios decorrentes do disposto na alínea anterior, são determinados por sorteio os oficiais a incluir nessa comissão, sendo os apurados sucessivamente excluídos dos sorteios seguintes;\n\nd) Nos casos em que uma classe não disponha do número suficiente de oficiais do posto para assumir a respetiva representatividade nas comissões, o Superintendente do Pessoal designa, de entre os restantes oficiais eleitos do posto, o que deve assumir aquelas funções;\n\ne) As funções de relator são desempenhadas, em cada comissão, pelo membro designado pelo presidente."
+  },
+  "124530410": {
+   "fragment_id": "124530603",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição do Conselho de Classes de Sargentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição do Conselho de Classes de Sargentos\n\n1 - O Conselho de Classes de Sargentos (CCS) é presidido pelo Diretor de Pessoal e tem a seguinte composição:\n\na) Membros por inerência:\n\ni) O Diretor de Pessoal;\n\nii) O Chefe da Repartição da Direção de Pessoal com a competência de controlo dos efetivos;\n\niii) O oficial na situação do ativo, que exerça o cargo funcionalmente afim à classe dos militares a apreciar, a estabelecer por despacho do Chefe do Estado-Maior da Armada;\n\niv) O sargento-mor mais antigo da Marinha na situação do ativo, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental;\n\nv) Os sargentos-mores ou os sargentos mais antigos na situação do ativo das diversas classes, que prestem serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocados em Portugal Continental;\n\nb) Membros eleitos:\n\ni) Sargentos-mores, dois de cada classe, se os houver;\n\nii) Sargentos-chefes, dois de cada classe, se os houver;\n\niii) Sargentos-ajudantes, dois de cada classe, se os houver.\n\n2 - O CCS funciona por comissões, cada uma constituída por cinco membros por inerência e cinco membros eleitos:\n\na) São membros por inerência em cada comissão:\n\ni) O Diretor de Pessoal, que preside;\n\nii) O Chefe da Repartição da Direção de Pessoal com a competência de controlo dos efetivos;\n\niii) O oficial na situação do ativo, que exerça o cargo funcionalmente afim à classe dos militares a apreciar, conforme é indicado na subalínea iii) da alínea a) do número anterior;\n\niv) O sargento-mor mais antigo da Marinha na situação do ativo, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental;\n\nv) O sargento-mor ou o sargento mais antigo na situação do ativo da classe dos sargentos dos quadros permanentes a apreciar, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental, e que não seja já membro por inerência ou, quando se trate de outros militares, da classe a designar pelo presidente;\n\nb) São membros eleitos em cada comissão:\n\ni) Para efeitos de promoção a sargento-mor, cinco sargentos deste posto, sendo dois da classe dos sargentos a promover, se os houver;\n\nii) Para efeitos de promoção a sargento-chefe, cinco sargentos deste posto, sendo dois da classe dos sargentos a promover, se os houver;\n\niii) Para efeitos de promoção a sargento-ajudante, um sargento-chefe e quatro sargentos daquele posto, sendo dois da classe dos sargentos a promover, se os houver;\n\niv) Para efeitos de verificação das condições gerais de promoção, o sargento mais antigo da classe do sargento a apreciar, de entre os membros eleitos do conselho, e quatro sargentos-mores, sendo um da classe do militar a apreciar, se o houver;\n\nc) Nos casos em que haja mais de um sargento do mesmo posto em condições de participar numa dada comissão de acordo com os critérios decorrentes do número anterior, são determinados por sorteio os sargentos a incluir nessa comissão, sendo os apurados sucessivamente excluídos dos sorteios seguintes;\n\nd) Nos casos em que uma classe não disponha do número suficiente de sargentos do posto para assumir a respetiva representatividade nas comissões, o Diretor de Pessoal designa, de entre os restantes sargentos eleitos do posto, o que deve assumir aquelas funções;\n\ne) Toma parte nos trabalhos das comissões, como membro agregado, sem direito a voto nem intervenção no âmbito da apreciação dos militares, o oficial da repartição com atribuição de controlo dos efetivos, a nomear pelo Diretor de Pessoal, competindo-lhe assistir o presidente, para efeitos do conveniente tratamento processual;\n\nf) As funções de relator são desempenhadas, em cada comissão, pelo membro designado pelo presidente."
+  },
+  "124530411": {
+   "fragment_id": "124530604",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição do Conselho de Classes de Praças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição do Conselho de Classes de Praças\n\n1 - O Conselho de Classes de Praças (CCP) é presidido pelo Diretor de Pessoal e tem a seguinte composição:\n\na) Membros por inerência:\n\ni) O Diretor de Pessoal;\n\nii) O Chefe da Repartição da Direção de Pessoal com a competência de controlo dos efetivos;\n\niii) O oficial na situação do ativo, que exerça o cargo funcionalmente afim à classe dos militares a apreciar, a estabelecer por despacho do Chefe do Estado-Maior da Armada;\n\niv) Os sargentos-mores, ou sargentos-chefes ou sargentos-ajudantes, mais antigos na situação do ativo das diversas classes homónimas, que prestem serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocados em Portugal Continental;\n\nv) O cabo-mor mais antigo da Marinha na situação do ativo, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental;\n\nb) São membros eleitos os cabos-mores, dois de cada classe, se os houver.\n\n2 - O CCP funciona por comissões, cada uma constituída por cinco membros por inerência e cinco membros eleitos:\n\na) São membros por inerência em cada comissão:\n\ni) O Diretor de Pessoal, que preside;\n\nii) O Chefe da Repartição da Direção de Pessoal com a competência de controlo dos efetivos;\n\niii) O oficial na situação do ativo, exercendo cargo funcionalmente afim à classe dos militares a apreciar, conforme é indicado na subalínea iii) da alínea a) do número anterior;\n\niv) O sargento-mor, ou o sargento-chefe ou sargento-ajudante mais antigo na situação do ativo da classe homónima dos quadros permanentes a apreciar, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental, e que não seja já membro por inerência ou, quando se trate de outros militares, da classe a designar pelo presidente;\n\nv) O cabo-mor mais antigo da Marinha na situação do ativo, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental;\n\nb) São membros eleitos em cada comissão:\n\ni) Para efeitos de promoção a cabo-mor, cinco cabos-mores, sendo dois da classe dos cabos a promover, se os houver;\n\nii) Para efeitos de verificação das condições gerais de promoção, a praça mais antiga da classe da praça a apreciar, de entre os membros eleitos do conselho e quatro cabos-mores, sendo um da classe da praça a apreciar, se o houver;\n\nc) Nos casos em que haja mais de uma praça do mesmo posto em condições de participar numa dada comissão de acordo com os critérios decorrentes do número anterior, são determinados por sorteio as praças a incluir nessa comissão, sendo as apuradas sucessivamente excluídas dos sorteios seguintes;\n\nd) Nos casos em que uma classe não disponha na classe homónima de um sargento-mor, ou de um sargento-chefe ou de um sargento-ajudante para membro por inerência ou, na classe, do número suficiente de cabos-mores para assumir a respetiva representatividade nas comissões, o Diretor de Pessoal designa, de entre os sargentos-mores mais antigos das outras classes e dos restantes cabos-mores eleitos, os que devem assumir aquelas funções, respetivamente por inerência e por eleição;\n\ne) Toma parte nos trabalhos das comissões, como membro agregado, sem direito a voto nem intervenção no âmbito da apreciação dos militares, o oficial da repartição com atribuição de controlo de efetivos, a nomear pelo Diretor de Pessoal, competindo-lhe assistir o presidente, para efeitos do conveniente tratamento processual;\n\nf) As funções de relator são desempenhadas, em cada comissão, pelo membro designado pelo presidente."
+  },
+  "124530412": {
+   "fragment_id": "124530605",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 7.º)\n\nRegras de funcionamento dos Conselhos de Classes na Marinha"
+  },
+  "124530413": {
+   "fragment_id": "124530606",
+   "type": 11,
+   "heading": "Artigo 1.º — Funcionamento dos conselhos de classes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Funcionamento dos conselhos de classes\n\n1 - Os conselhos de classes (CC) reúnem, por comissões, mediante convocação do respetivo presidente, com a ordem de trabalhos por este previamente estabelecida.\n\n2 - As comissões dos CC só podem funcionar estando presentes pelo menos quatro quintos dos seus membros em funções e sem impedimentos, desde que sejam mais do que cinco.\n\n3 - Relativamente a cada comissão, na primeira reunião efetuada em cada ano, são estabelecidos, pelo respetivo presidente, os critérios pelos quais os membros das comissões se guiam nos seus trabalhos, ouvidos os membros da comissão e atento o fixado nas disposições legais aplicáveis e observadas as eventuais orientações definidas pelo Chefe do Estado-Maior da Armada.\n\n4 - Para cada reunião dos CC, a repartição da Direção de Pessoal com a competência de controlo dos efetivos prepara e disponibiliza aos membros da respetiva comissão os elementos de informação próprios à avaliação do mérito dos militares presentes à apreciação.\n\n5 - Os CC podem solicitar a comparência de militares não pertencentes aos conselhos, cujo testemunho permita complementar os elementos de informação referidos no número anterior, devendo desse testemunho ser lavrado termo."
+  },
+  "124530414": {
+   "fragment_id": "124530607",
+   "type": 11,
+   "heading": "Artigo 2.º — Condução das reuniões das comissões do Conselho de Classes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condução das reuniões das comissões do Conselho de Classes\n\n1 - As reuniões de cada comissão compreendem:\n\na) A apreciação e discussão sobre os militares presentes ao conselho;\n\nb) A votação, que se deve realizar por escrutínio secreto.\n\n2 - A apreciação é feita individualmente por cada um dos membros da comissão e baseia-se nos elementos constantes dos documentos que integram os processos de avaliação do mérito.\n\n3 - A discussão é orientada pelo presidente e nela intervêm todos os membros da respetiva comissão, cada um dos quais emite a opinião que tenha formado acerca dos militares a apreciar.\n\n4 - Não é considerada matéria de apreciação ou discussão aquela sobre a qual exista processo pendente de qualquer natureza enquanto sobre o mesmo não for proferida decisão definitiva.\n\n5 - As votações, quando destinadas a ordenar, em mérito relativo, militares do mesmo posto para promoção por escolha, obedecem aos seguintes procedimentos:\n\na) Cada membro identifica o militar que, em sua opinião, deve ser promovido em primeiro lugar, repetindo-se a operação tantas vezes quantas as necessárias até se completar o número fixado de militares que devem integrar a lista de promoções;\n\nb) O militar que obtenha a maioria absoluta de votos expressos é ordenado na posição a que a votação disser respeito;\n\nc) Caso numa primeira votação nenhum militar atinja o número de votos requerido, procede-se a um máximo de mais duas votações, após o que, se ainda não for atingido o número de votos requerido, a escolha recai sobre o militar que obtenha maioria relativa de votos na última votação;\n\nd) Na última votação, caso se verifique que os militares mais votados têm o mesmo número de votos, procede-se a votação nominal.\n\n6 - Os resultados das votações, destinadas à emissão de parecer sobre a apreciação de avaliações para efeitos de verificação da satisfação das condições gerais de promoção, são obtidos por maioria simples.\n\n7 - A apreciação, a discussão e a votação iniciam-se pelo membro da comissão mais moderno e seguem a ordem inversa de antiguidade."
+  },
+  "124530415": {
+   "fragment_id": "124530608",
+   "type": 11,
+   "heading": "Artigo 3.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Impedimentos\n\nOs membros dos CC não podem apreciar militares que sejam seus cônjuges ou se encontrem em situação de facto análoga à dos cônjuges, ou que sejam parentes ou afins na linha reta ou até ao 3.º grau da linha colateral, devendo, nestas circunstâncias, apenas intervir nas votações indicadas no n.º 5 do artigo anterior após estes terem a sua posição definida no ordenamento de mérito relativo."
+  },
+  "124530416": {
+   "fragment_id": "124530609",
+   "type": 11,
+   "heading": "Artigo 4.º — Atas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atas\n\n1 - Ao relator incumbe a elaboração da ata da reunião, a qual deve conter a síntese dos factos e procedimentos ocorridos, bem como a fundamentação dos pareceres da comissão.\n\n2 - As atas dos CC são confidenciais, sem prejuízo da sua consulta, mediante requerimento, pelos militares apreciados."
+  },
+  "124530417": {
+   "fragment_id": "124530610",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o artigo 7.º)\n\nProcesso eleitoral nos Conselhos de Classe na Marinha"
+  },
+  "124530418": {
+   "fragment_id": "124530611",
+   "type": 11,
+   "heading": "Artigo 1.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Funcionamento\n\n1 - A eleição dos membros para os conselhos de classes (CC) é feita por voto secreto e pessoal, no último trimestre do ano anterior ao da respetiva entrada em funções, podendo ser antecipada, para assunção imediata de funções, quando se verifiquem condições que não permitam assegurar o seu funcionamento de acordo com o presente decreto-lei.\n\n2 - São eleitores todos os oficiais superiores e subalternos, os sargentos e as praças dos quadros permanentes, na situação do ativo e na efetividade de serviço, que votam para a eleição de membros do CC da respetiva categoria.\n\n3 - Cada eleitor vota na eleição dos membros da sua classe, conforme a seguir se descreve:\n\na) Os capitães-de-mar-e-guerra votam num capitão-de-mar-e-guerra da sua classe;\n\nb) Os capitães-de-fragata votam num capitão-de-fragata e num capitão-de-mar-e-guerra, ambos da sua classe;\n\nc) Os capitães-tenentes votam num capitão-tenente e num capitão-de-fragata, ambos da sua classe;\n\nd) Os subtenentes, guardas-marinhas, segundos-tenentes e primeiros-tenentes votam num capitão-tenente da sua classe;\n\ne) Os sargentos-mores e os sargentos-chefes votam num sargento-mor da sua classe;\n\nf) Os sargentos-chefes votam num sargento-chefe e num sargento-mor, ambos da sua classe;\n\ng) Os sargentos-ajudantes votam num sargento-ajudante e num sargento-chefe, ambos da sua classe;\n\nh) Os subsargentos, segundos-sargentos e primeiros-sargentos votam num sargento-ajudante da sua classe;\n\ni) Os cabos-mores e os cabos votam num cabo-mor da sua classe;\n\nj) Os cabos e os primeiros marinheiros votam num cabo-mor da sua classe;\n\nk) Quando numa eleição o número de militares elegíveis ou o número de militares eleitores da mesma classe for inferior a 6, votam também os militares do posto inferior da mesma classe.\n\n4 - A eleição dos dois membros do mesmo posto e classe, eleitos por universos diferentes conforme descrito no número anterior, é feita em escrutínio separado, votando em cada urna o universo definido respetivo."
+  },
+  "124530419": {
+   "fragment_id": "124530612",
+   "type": 11,
+   "heading": "Artigo 2.º — Militares elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Militares elegíveis\n\n1 - São elegíveis os seguintes militares dos quadros permanentes, na situação do ativo e na efetividade de serviço em comissão normal, no desempenho de cargos ou funções na estrutura da Defesa Nacional e das Forças Armadas, colocados em Portugal Continental:\n\na) Para o Conselho de Classes de Oficiais, oficiais superiores;\n\nb) Para o Conselho de Classes de Sargentos, os sargentos-mores, os sargentos-chefes e os sargentos-ajudantes;\n\nc) Para o Conselho de Classes de Praças, os cabos-mores.\n\n2 - São excluídos da eleição os que, ocupando lugar em quadro especial com seis ou mais militares do posto e classe, tenham exercido mandato no CC anterior ou o integrem na qualidade de membros por inerência."
+  },
+  "124530420": {
+   "fragment_id": "124530613",
+   "type": 11,
+   "heading": "Artigo 3.º — Realização da eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Realização da eleição\n\nA eleição para os CC é feita num único escrutínio, nos seguintes termos:\n\na) No escrutínio, são apurados, em cada eleição, os militares que obtiverem o maior número de votos;\n\nb) Havendo igualdade de votos, tem preferência o militar mais antigo;\n\nc) Constituem membros suplentes, sucessivamente, os militares mais votados seguintes."
+  },
+  "124530421": {
+   "fragment_id": "124530614",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência e publicação de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência e publicação de resultados\n\n1 - A data da realização do ato eleitoral é fixada pelo Chefe do Estado-Maior da Armada.\n\n2 - Compete à Superintendência do Pessoal:\n\na) Preparar e organizar o processo eleitoral;\n\nb) Submeter os resultados eleitorais à homologação do Chefe do Estado-Maior da Armada.\n\n3 - Os resultados eleitorais são publicados na ordem da Direção de Pessoal."
+  },
+  "124530407": {
+   "fragment_id": "124530600",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de junho de 2016. - António Luís Santos da Costa - José Alberto de Azeredo Ferreira Lopes.\n\nPromulgado em 17 de junho de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 21 de junho de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "124530435": {
+   "fragment_id": "124530603",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição do Conselho de Classes de Sargentos",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2019-124500725), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 2.º — Composição do Conselho de Classes de Sargentos\n\n1 - O Conselho de Classes de Sargentos (CCS) é presidido pelo Diretor de Pessoal e tem a seguinte composição:\n\na) Membros por inerência:\n\ni) O Diretor de Pessoal;\n\nii) O Chefe da Repartição da Direção de Pessoal com a competência de controlo dos efetivos;\n\niii) O oficial na situação do ativo, que exerça o cargo funcionalmente afim à classe dos militares a apreciar, a estabelecer por despacho do Chefe do Estado-Maior da Armada;\n\niv) O sargento-mor mais antigo da Marinha na situação do ativo, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental;\n\nv) Os sargentos-mores ou os sargentos mais antigos na situação do ativo das diversas classes, que prestem serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocados em Portugal Continental;\n\nb) Membros eleitos:\n\ni) Sargentos-mores, dois de cada classe, se os houver;\n\nii) Para efeitos de promoção a sargento-chefe, dois sargentos-mores, sendo um da classe dos sargentos a promover, se os houver, e três sargentos-chefes, sendo dois da classe dos sargentos a promover, se os houver;\n\niii) Para efeitos de promoção a sargento-ajudante, um sargento-mor e um sargento-chefe da classe dos sargentos a promover, se os houver, e três sargentos-ajudantes, sendo dois da classe dos sargentos a promover, se os houver;\n\n2 - O CCS funciona por comissões, cada uma constituída por cinco membros por inerência e cinco membros eleitos:\n\na) São membros por inerência em cada comissão:\n\ni) O Diretor de Pessoal, que preside;\n\nii) O Chefe da Repartição da Direção de Pessoal com a competência de controlo dos efetivos;\n\niii) O oficial na situação do ativo, que exerça o cargo funcionalmente afim à classe dos militares a apreciar, conforme é indicado na subalínea iii) da alínea a) do número anterior;\n\niv) O sargento-mor mais antigo da Marinha na situação do ativo, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental;\n\nv) O sargento-mor ou o sargento mais antigo na situação do ativo da classe dos sargentos dos quadros permanentes a apreciar, que preste serviço nas estruturas da Defesa Nacional e das Forças Armadas, colocado em Portugal Continental, e que não seja já membro por inerência ou, quando se trate de outros militares, da classe a designar pelo presidente;\n\nb) São membros eleitos em cada comissão:\n\ni) Para efeitos de promoção a sargento-mor, cinco sargentos deste posto, sendo dois da classe dos sargentos a promover, se os houver;\n\nii) Para efeitos de promoção a sargento-chefe, cinco sargentos deste posto, sendo dois da classe dos sargentos a promover, se os houver;\n\niii) Para efeitos de promoção a sargento-ajudante, um sargento-chefe e quatro sargentos daquele posto, sendo dois da classe dos sargentos a promover, se os houver;\n\niv) Para efeitos de verificação das condições gerais de promoção, o sargento mais antigo da classe do sargento a apreciar, de entre os membros eleitos do conselho, e quatro sargentos-mores, sendo um da classe do militar a apreciar, se o houver;\n\nc) Nos casos em que haja mais de um sargento do mesmo posto em condições de participar numa dada comissão de acordo com os critérios decorrentes do número anterior, são determinados por sorteio os sargentos a incluir nessa comissão, sendo os apurados sucessivamente excluídos dos sorteios seguintes;\n\nd) Nos casos em que uma classe não disponha do número suficiente de sargentos do posto para assumir a respetiva representatividade nas comissões, o Diretor de Pessoal designa, de entre os restantes sargentos eleitos do posto, o que deve assumir aquelas funções;\n\ne) Toma parte nos trabalhos das comissões, como membro agregado, sem direito a voto nem intervenção no âmbito da apreciação dos militares, o oficial da repartição com atribuição de controlo dos efetivos, a nomear pelo Diretor de Pessoal, competindo-lhe assistir o presidente, para efeitos do conveniente tratamento processual;\n\nf) As funções de relator são desempenhadas, em cada comissão, pelo membro designado pelo presidente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2019-124500725), em vigor a partir de 2019-09-07"
+  },
+  "124530437": {
+   "fragment_id": "124530607",
+   "type": 11,
+   "heading": "Artigo 2.º — Condução das reuniões das comissões do Conselho de Classes",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2019-124500725), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 2.º — Condução das reuniões das comissões do Conselho de Classes\n\n1 - As reuniões de cada comissão compreendem:\n\na) A apreciação e discussão sobre os militares presentes ao conselho;\n\nb) A votação, que se deve realizar por escrutínio secreto.\n\n2 - A apreciação é feita individualmente por cada um dos membros da comissão e baseia-se nos elementos constantes dos documentos que integram os processos de avaliação do mérito.\n\n3 - A discussão é orientada pelo presidente e nela intervêm todos os membros da respetiva comissão, cada um dos quais emite a opinião que tenha formado acerca dos militares a apreciar.\n\n4 - Não é considerada matéria de apreciação ou discussão aquela sobre a qual exista processo pendente de qualquer natureza enquanto sobre o mesmo não for proferida decisão definitiva.\n\n5 - As votações, quando destinadas a ordenar, em mérito relativo, militares do mesmo posto para promoção por escolha, obedecem aos seguintes procedimentos:\n\na) Cada membro do Conselho de Classes atribui a cada um dos militares em apreciação um valor de avaliação complementar, até às centésimas, cujo máximo é definido por despacho do Chefe do Estado-Maior da Armada;\n\nb) Para cada militar em apreciação, calcula-se a média dos valores da avaliação complementar atribuídos por cada membro do Conselho de Classes, que se soma à classificação da Ficha de Avaliação do Mérito, de forma a obter a cota de mérito desse militar, sendo todos valores arredondados até às centésimas;\n\nc) Os militares em apreciação são ordenados por ordem decrescente de cota de mérito, ocupando por essa ordem as posições da lista de promoção;\n\nd) Se de uma votação resultarem cotas de mérito idênticas para dois ou mais militares, os militares em apreço são ordenados por antiguidade.\n\n6 - Os resultados das votações, destinadas à emissão de parecer sobre a apreciação de avaliações para efeitos de verificação da satisfação das condições gerais de promoção, são obtidos por maioria simples.\n\n7 - A apreciação, a discussão e a votação iniciam-se pelo membro da comissão mais moderno e seguem a ordem inversa de antiguidade.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2019-124500725), em vigor a partir de 2019-09-07"
+  }
+ }
+}

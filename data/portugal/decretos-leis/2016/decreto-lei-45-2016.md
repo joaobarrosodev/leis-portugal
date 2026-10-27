@@ -1,0 +1,308 @@
+---
+schema_version: '1.0'
+id: pt:dre:75150257:por
+title: Decreto-Lei n.º 45/2016
+short_title: null
+summary: Aprova um conjunto de regras complementares do processo de transição dos docentes do ensino superior politécnico
+  regulado pelo Decreto-Lei n.º 207/2009, de 31 de agosto, alterado pela Lei n.º 7/2010, de 13 de maio
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ciência, Tecnologia e Ensino Superior
+proposing_entity: null
+official_number: 45/2016
+official_date: null
+publication_date: '2016-08-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/2016, Série I de 2016-08-17
+  number: '157'
+  series: I
+  supplement: null
+  pages: 2746 - 2749
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/08/15700/0274602749.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-08-14'
+version_history:
+  file: decreto-lei-45-2016.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-08-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-08-14'
+    amending: pt:dre:107981648:por
+    amending_title: Lei n.º 65/2017
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Revoga Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/45/2016/p/cons/20170809/pt/html
+  oj: null
+  dre: '75150257'
+  dre_path: /dr/detalhe/decreto-lei/45-2016-75150257
+  internal: pt:dre:75150257:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2016-75150257
+  metadata_url: https://data.dre.pt/eli/dec-lei/45/2016/p/cons/20170809/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-107972012
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-107972012
+  retrieved_at: '2026-10-22T12:13:40Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: fd3bc1a18e9e17b59174392e82b0bfc4166c0e71250ce58d21aa3eb1e6fe9658
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:13:40Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-45-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Doutoramento
+- Ensino Superior Politécnico
+- Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico
+- Carreira Docente Universitária
+- Pessoal Docente
+- Prorrogação de Prazo
+- Contrato de Trabalho
+- Estatuto Remuneratório
+relationships:
+- type: amended_by
+  target: pt:dre:107981648:por
+  label: Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/65-2017-107981648
+  date: '2017-08-09'
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:488490:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/207/2009/08/31/p/dre
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/115/2013/08/07/p/dre
+- type: cites
+  target: pt:dre:615030:por
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2010/05/13/p/dre
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+- type: cites
+  target: pt:dre:73973889:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/53/2016/03/28/p/dre
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: http://data.dre.pt/eli/lei/18/2016/06/20/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:13:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45/2016
+
+Decreto-Lei n.º 45/2016
+
+de 17 de agosto
+
+O Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, aprovado pelo Decreto-Lei n.º 185/81, de 1 de julho, foi objeto, em 2009, de uma profunda revisão, operada pelo Decreto-Lei n.º 207/2009, de 31 de agosto, que entrou em vigor a 1 de setembro de 2009.
+
+Entre outras medidas, esta revisão introduziu o doutoramento ou o título de especialista como exigência de qualificação para a entrada na carreira; a obrigatoriedade de concursos para professores com júris maioritariamente externos à instituição; a constituição de júris a nível nacional, sempre que se trate de áreas em que a instituição não detém competência específica; o reforço da transparência nos concursos e a valorização, nestes, de todas as componentes das funções dos docentes, com expressa consideração do desempenho científico, da capacidade pedagógica e de outras atividades relevantes para a missão da instituição de ensino superior.
+
+No âmbito desta revisão, foram tomadas medidas que visaram promover a estabilização do corpo docente dos institutos politécnicos, designadamente removendo a precariedade de vínculos que era dominante em algumas instituições, determinando a abertura de concursos de forma faseada, fixando um largo período de transição para que os equiparados a docentes pudessem adquirir as qualificações necessárias ao ingresso na carreira e criando condições para apoiar o processo de obtenção do grau de doutor pelos docentes em funções.
+
+Neste contexto foi criado, de imediato, um programa de financiamento dos institutos politécnicos destinado a apoiar o processo de qualificação dos seus docentes, o PROTEC (2009), financiamento que foi prosseguido através do Contrato de Confiança firmado, em 2010, entre o Governo e os institutos superiores politécnicos.
+
+Em 2010, por iniciativa parlamentar, o Decreto-Lei n.º 207/2009, de 31 de agosto, foi alterado pela Lei n.º 7/2010, de 13 de maio. Essas alterações tiveram especial incidência no regime transitório, introduzindo alterações aos critérios de prorrogação contratual e, sobretudo, substituindo o procedimento concursal então previsto por um procedimento de transição automática para contrato por tempo indeterminado aos que, reunindo determinadas condições, viessem a obter o grau de doutor ou o título de especialista dentro de determinados prazos.
+
+No apuramento da situação da aplicação do regime transitório, realizado no decurso do segundo trimestre de 2016 pelo Conselho Coordenador dos Institutos Superiores Politécnicos, a pedido do Governo, constatou-se que, de entre os docentes que, em 1 de setembro de 2009, reuniam as condições fixadas pela lei para a transição automática para contrato por tempo indeterminado, cerca de 80% já tinham obtido o grau de doutor ou o título de especialista e, em consequência, tinham sido contratados por tempo indeterminado.
+
+Porém, de entre os docentes que, em 1 de setembro de 2009, estavam abrangidos pela transição automática, cerca de 20% ainda não tinham obtido o grau de doutor ou o título de especialista, sendo que a sua não obtenção até ao final do prazo de prorrogação do contrato fixado pela Lei n.º 7/2010, de 13 de maio, determina a perda do vínculo contratual.
+
+As condições que foram dadas aos docentes em causa nem sempre terão sido as mais adequadas ao processo de preparação do doutoramento pelo que, ponderado esse facto, o Governo entendeu, em consonância com as linhas principais da recomendação constante da Resolução da Assembleia da República n.º 53/2016, de 28 de março, tomar a iniciativa de aprovar uma prorrogação adicional dos contratos dos docentes atrás referidos, bem como do prazo para beneficiarem da transição automática para contrato por tempo indeterminado, caso obtenham, até ao fim dos referidos contratos, o grau de doutor ou o título de especialista.
+
+O levantamento da situação realizado pelo Conselho Coordenador dos Institutos Superiores Politécnicos permitiu igualmente identificar um conjunto de docentes, em regra mais jovens que, estando em regime de tempo integral ou de dedicação exclusiva a 1 de setembro de 2009, e não tendo sido abrangidos pelo regime de transição automática para contrato por tempo indeterminado, iriam perder o vínculo contratual no final do período de prorrogação dos contratos, ainda que tivessem obtido entretanto o grau de doutor ou o título de especialista.
+
+O Governo considera indispensável promover o aumento da qualificação do corpo docente das instituições de ensino superior, pelo que entendeu que se deveria continuar a assegurar a continuidade da colaboração destes docentes, que desenvolvem a sua atividade nas instituições de ensino superior politécnico há vários anos, promovendo, através do presente decreto-lei, a sua transição para o regime de contrato de trabalho em funções públicas por tempo indeterminado.
+
+Faculta-se igualmente possibilidade de a realização das provas públicas para a transição para a carreira, introduzida pela Lei n.º 7/2010, de 13 de maio, através do aditamento dos n.os 9, 10 e 11 ao artigo 6.º e do n.º 5 do artigo 8.º-A ao Decreto-Lei n.º 207/2009, de 31 de agosto, aos docentes que contem, desde 1 de setembro de 2009, 20 anos de serviço em regime de tempo integral ou de dedicação exclusiva,
+
+Enquanto se mantiverem as restrições às valorizações remuneratórias decorrentes das medidas excecionais de estabilidade orçamental anualmente fixadas para cumprimento das obrigações internacionais e europeias, as medidas tomadas pelo presente decreto-lei não podem traduzir-se em aumento de encargos, pelo que os valores das remunerações atualmente auferidas pelos docentes que transitam para contratos por tempo indeterminado, assegurando assim sua estabilidade contratual, não podem ser acompanhadas de alterações das suas posições remuneratórias.
+
+Não estamos, pois, perante um caso de aumento de despesa em consequência da execução de alterações legislativas aprovadas após a celebração, a 16 de julho de 2016, do contrato entre o Governo e um conjunto de politécnicos públicos no âmbito do Compromisso com a Ciência e o Conhecimento.
+
+Excetua-se o caso, residual, dos docentes abrangidos pelo presente decreto-lei que exerciam funções em regime de tempo integral ou de dedicação exclusiva a 1 de setembro de 2009, e que, posteriormente e sem interrupção de funções superior a três meses, as passaram a exercer em regime de tempo parcial e cuja transição para um contrato por tempo indeterminado se opera na mesma categoria mas em regime de tempo integral. Se vierem a surgir situações dessa natureza, essa diferença será certamente assegurada pelos orçamentos das instituições, sem necessidade de contrapartida em qualquer aumento das transferências do Orçamento do Estado.
+
+Aproveitou-se ainda a oportunidade para proceder à clarificação do conceito de fase adiantada de preparação do doutoramento.
+
+Estas medidas inserem-se nos objetivos fixados pelo Programa do Governo de aumento da qualificação do corpo docente e integram-se no quadro dos objetivos aprovados no âmbito do Programa Nacional de Reformas, de abril de 2016, designadamente no que se refere ao Programa de Modernização e Valorização dos Institutos Politécnicos, e ao reforço do emprego científico em condições de estabilidade e dignidade profissional.
+
+Foi ouvido o Conselho Coordenador dos Institutos Superiores Politécnicos.
+
+Foram observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei aprova um conjunto de regras complementares do processo de transição dos docentes do ensino superior politécnico regulado pelo Decreto-Lei n.º 207/2009, de 31 de agosto, alterado pela Lei n.º 7/2010, de 13 de maio.
+
+###### Artigo 2.º — Prorrogação do regime transitório
+
+1 - É prorrogado, até 31 de agosto de 2018, o prazo para obtenção do grau de doutor ou do título de especialista, bem como o prazo dos respetivos contratos de trabalho em funções públicas na modalidade de contrato a termo resolutivo certo dos assistentes e dos equiparados a assistentes, a professor adjunto ou a professor coordenador que exerciam funções em regime de tempo integral ou de dedicação exclusiva na data da entrada em vigor do Decreto-Lei n.º 207/2009, de 31 de agosto, alterado pela Lei n.º 7/2010, de 13 de maio.
+
+2 - O disposto no n.º 1 aplica-se ainda aos docentes cujo processo de contratação se encontrava em curso e o contrato tenha sido celebrado no ano letivo 2009-2010.
+
+3 - Findo o prazo a que alude o n.º 1, e caso os docentes se encontrem em fase adiantada de preparação do doutoramento, os contratos podem ser renovados, a título excecional, pelo período de um ano.
+
+4 - O disposto no presente artigo aplica-se aos assistentes e aos equiparados a assistente, a professor adjunto ou a professor coordenador que exerciam funções em regime de tempo integral ou de dedicação exclusiva na data da entrada em vigor do Decreto-Lei n.º 207/2009, de 31 de agosto, alterado pela Lei n.º 7/2010, de 13 de maio, que, posteriormente e sem interrupção de funções superior a três meses, as passaram a exercer em regime de tempo parcial.
+
+5 - O disposto no presente artigo aplica-se ainda aos docentes cujo contrato se encontrava suspenso por força de bolsa atribuída para obtenção de grau académico.
+
+6 - Os docentes a que alude o n.º 4 são contratados, durante o período da prorrogação prevista no presente artigo, em regime de tempo parcial, salvo se o órgão competente da instituição decidir, fundamentadamente, proceder à contratação em regime de tempo integral.
+
+7 - O prazo dos contratos referidos no presente artigo é, ainda, prorrogado até à data da prestação das provas para a atribuição do grau de doutor ou do título de especialista quando, na data da cessação da prorrogação ou da renovação prevista nos n.os 1 e 3, os docentes as tenham requerido e aguardem a nomeação do júri ou, estando o júri nomeado, aguardem a sua prestação.
+
+8 - Os docentes abrangidos pelos números anteriores que não tenham usufruído de dispensa ou redução de serviço docente para efeitos de conclusão de doutoramento podem, por decisão fundamentada do órgão legal e estatutariamente competente da instituição de ensino superior, ter dispensa ou redução de serviço docente para esse efeito por um período máximo de dois semestres.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 65/2017 - Diário da República n.º 153/2017, Série I de 2017-08-09](https://diariodarepublica.pt/dr/detalhe/lei/65-2017-107981648), em vigor a partir de 2017-08-14, produz efeitos a partir de 2016-08-18
+
+###### Artigo 3.º — Suspensão de prazos
+
+Os prazos previstos no artigo anterior ficam suspensos:
+
+a) No decurso de licenças por situação de risco clínico durante a gravidez ou por interrupção da gravidez;
+
+b) No decurso de licença por adoção ou de licença parental de qualquer modalidade;
+
+c) Em caso de impossibilidade de prestação de trabalho por faltas por doença superiores a 90 dias, e enquanto durar essa impossibilidade;
+
+d) Durante o exercício das funções a que se refere o n.º 1 do artigo 41.º do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, aprovado pelo Decreto-Lei n.º 185/81, de 1 de julho.
+
+###### Artigo 4.º — Fase adiantada de preparação do doutoramento
+
+1 - Para os efeitos do disposto no n.º 2 do artigo 2.º e no n.º 2 do artigo 8.º-A do Decreto-Lei n.º 207/2009, de 31 de agosto, alterado pela Lei n.º 7/2010, de 13 de maio, considera-se que se encontra em fase adiantada de preparação do doutoramento o docente que, cumulativamente:
+
+a) Concluiu o curso de doutoramento a que se refere o n.º 3 do artigo 31.º do Decreto-Lei n.º 74/2006, de 24 de março, alterado e republicado pelo Decreto-Lei n.º 115/2013, de 7 de agosto, quando exista;
+
+b) Entregou ao orientador uma versão provisória da tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º do Decreto-Lei n.º 74/2006, de 24 de março, alterado e republicado pelo Decreto-Lei n.º 115/2013, de 7 de agosto.
+
+2 - A situação a que se refere o número anterior comprova-se através de documento emitido pelo conselho científico da instituição de ensino superior onde o docente se encontra inscrito num ciclo de estudos de doutoramento, ouvido o orientador.
+
+###### Artigo 5.º — Integração na carreira
+
+1 - Após a obtenção do grau de doutor ou do título de especialista no período da prorrogação ou da renovação contratual a que se refere o artigo 2.º, transitam, sem outras formalidades, para o regime de contrato de trabalho em funções públicas na modalidade de contrato por tempo indeterminado, os seguintes docentes:
+
+a) Os assistentes e equiparados a assistentes, para a categoria de professor adjunto com um período experimental de cinco anos, findo o qual se aplica o procedimento previsto no artigo 10.º-B do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, aprovado pelo Decreto-Lei n.º 185/81, de 1 de julho;
+
+b) Os equiparados a professores adjuntos para a categoria de professor adjunto com um período experimental de cinco anos, findo o qual se aplica o procedimento previsto no artigo 10.º-B do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, aprovado pelo Decreto-Lei n.º 185/81, de 1 de julho;
+
+c) Os equiparados a professores coordenadores para a categoria de professores coordenadores com um período experimental de um ano, findo o qual se aplica o procedimento previsto no artigo 10.º do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, aprovado pelo Decreto-Lei n.º 185/81, de 1 de julho.
+
+2 - O disposto no número anterior é aplicável aos assistentes, aos equiparados a assistente, a professor adjunto ou a professor coordenador que exerciam funções em regime de tempo integral ou de dedicação exclusiva na data da entrada em vigor do Decreto-Lei n.º 207/2009, de 31 de agosto, alterado pela Lei n.º 7/2010, de 13 de maio, detentores do grau de doutor àquela data e que não beneficiaram da transição, sem outras formalidades, para o contrato de trabalho em funções públicas na modalidade de contrato por tempo indeterminado, por não reunirem o requisito temporal mínimo previsto no regime transitório vigente.
+
+3 - O disposto no n.º 1 é igualmente aplicável aos assistentes, aos equiparados a assistente, a professor adjunto ou a professor coordenador, que exerciam funções em regime de tempo integral ou dedicação exclusiva na data da entrada em vigor do Decreto-Lei n.º 207/2009, de 31 de agosto, alterado pela Lei n.º 7/2010, de 13 de maio, e que, tendo obtido o grau de doutor ou o título de especialista até à data da entrada em vigor do presente decreto-lei, não beneficiaram da transição, sem outras formalidades, para o contrato de trabalho em funções públicas, na modalidade de contrato por tempo indeterminado, por não reunirem os requisitos temporais, incluindo os referentes à data de inscrição em doutoramento, previstos no regime transitório vigente.
+
+4 - O disposto no n.º 3 aplica-se ainda aos docentes cujo processo de contratação se encontrava em curso e o contrato tenha sido celebrado no ano letivo 2009-2010.
+
+5 - O disposto no presente artigo aplica-se, ainda, aos assistentes, aos equiparados a assistente, a professor adjunto ou a professor coordenador que exerciam funções em regime de tempo integral ou de dedicação exclusiva na data da entrada em vigor do Decreto-Lei n.º 207/2009, de 31 de agosto, alterado pela Lei n.º 7/2010, de 13 de maio, que, posteriormente e sem interrupção de funções superior a três meses, as passaram a exercer em regime de tempo parcial.
+
+6 - Os docentes a que alude o número anterior são contratados em regime de tempo integral.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 65/2017 - Diário da República n.º 153/2017, Série I de 2017-08-09](https://diariodarepublica.pt/dr/detalhe/lei/65-2017-107981648), em vigor a partir de 2017-08-14, produz efeitos a partir de 2016-08-18
+
+###### Artigo 6.º — Provas públicas de avaliação de competência
+
+1 - Os assistentes e os equiparados a assistente, a professor adjunto ou a professor coordenador que, à data da entrada em vigor do presente decreto-lei, exerçam funções em regime de tempo integral ou de dedicação exclusiva há mais de 15 anos podem, até 31 de dezembro de 2017, requerer a prestação das provas a que se referem os n.os 9, 10 e 11 do artigo 6.º do Decreto-Lei n.º 207/2009, de 31 de agosto, alterado pela Lei n.º 7/2010, de 13 de maio.
+
+2 - Os docentes referidos no número anterior transitam, em caso de aprovação nas referidas provas, sem outras formalidades, para o regime de contrato de trabalho em funções públicas na modalidade de contrato por tempo indeterminado, na mesma categoria em que exercem funções.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 65/2017 - Diário da República n.º 153/2017, Série I de 2017-08-09](https://diariodarepublica.pt/dr/detalhe/lei/65-2017-107981648), em vigor a partir de 2017-08-14, produz efeitos a partir de 2016-08-18
+
+###### Artigo 7.º — Regime remuneratório
+
+1 - Os docentes que transitam ao abrigo do disposto no presente decreto-lei para o regime de contrato de trabalho em funções públicas na modalidade de contrato por tempo indeterminado, na mesma categoria, mantêm a remuneração que auferem atualmente na respetiva categoria enquanto se mantiverem as restrições às valorizações remuneratórias decorrentes das medidas excecionais de estabilidade orçamental anualmente fixadas para cumprimento de obrigações internacionais e europeias.
+
+2 - Os docentes que transitam ao abrigo do disposto no presente decreto-lei do regime de tempo parcial para o regime de contrato de trabalho em funções públicas na modalidade de contrato por tempo indeterminado em tempo integral, na mesma categoria, passam a auferir a remuneração correspondente ao regime de tempo integral da categoria a que se encontravam equiparados.
+
+3 - Qualquer alteração de remuneração que venha a ocorrer após a cessação da vigência das restrições referidas no n.º 1 não pode produzir efeitos em data anterior a essa cessação.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 65/2017 - Diário da República n.º 153/2017, Série I de 2017-08-09](https://diariodarepublica.pt/dr/detalhe/lei/65-2017-107981648), em vigor a partir de 2017-08-14
+
+###### Artigo 8.º — Aplicação no tempo
+
+1 - O disposto no presente decreto-lei aplica-se aos contratos por ele abrangidos que estejam em vigor em 30 de junho de 2016.
+
+2 - O presente decreto-lei aplica-se às situações jurídicas constituídas ao abrigo do Decreto-Lei n.º 207/2009, de 31 de agosto, alterado pela Lei n.º 7/2010, de 13 de maio, quando essa aplicação seja mais favorável ao docente.
+
+3 -  (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 65/2017 - Diário da República n.º 153/2017, Série I de 2017-08-09](https://diariodarepublica.pt/dr/detalhe/lei/65-2017-107981648), em vigor a partir de 2017-08-14
+
+###### Artigo 9.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 28 de julho de 2016. - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - Helena Maria Mesquita Ribeiro - Manuel Frederico Tojal de Valsassina Heitor.
+
+Promulgado em 9 de agosto de 2016.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 10 de agosto de 2016.
+
+O Primeiro-Ministro, António Luís Santos da Costa.

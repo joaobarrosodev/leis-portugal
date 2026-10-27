@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978R2183:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978R2183-19950101",
+ "dre_path": null,
+ "source_lastmod": "1995-01-01",
+ "versions": [
+  {
+   "date": "1978-09-21",
+   "future": false,
+   "celex": "31978R2183",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d1675218f633aea5",
+    "b8f689d0b012ebdd",
+    "e9d5fd160926194c",
+    "20d7c1f50c09febb",
+    "d813ffdd5dfbc727",
+    "52bce28bc33abd9f",
+    "a983b73e61b9d8c0",
+    "aa5c21d98765e2d0",
+    "25ab9e1cb0d55fbb",
+    "c60f5d9dbf6a9f13",
+    "efdade6dbf534abb"
+   ]
+  }
+ ],
+ "fragments": {
+  "d1675218f633aea5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2183/78 do Conselho, de 19 de Setembro de 1978, relativo à fixação de princípios uniformes para o cálculo dos custos das empresas de caminho-de-ferro** *Jornal Oficial nº L 258 de 21/09/1978 p. 0001 - 0006 Edição especial finlandesa: Capítulo 7 Fascículo 2 p. 0096 Edição especial grega: Capítulo 07 Fascículo 2 p. 0081 Edição especial sueca: Capítulo 7 Fascículo 2 p. 0096 Edição especial espanhola: Capítulo 07 Fascículo 2 p. 0125 Edição especial portuguesa: Capítulo 07 Fascículo 2 p. 0125*\n\nREGULAMENTO (CEE) No 2183/78 DO CONSELHO de 19 de Setembro de 1978 relativo à fixação de princípios uniformes para o cálculo dos custos das empresas de caminho-de-ferro\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75o,\n\nTendo em conta a Decisão 75/327/CEE do Conselho, de 20 de Maio de 1975, relativa ao saneamento da situação das empresas de caminho-de-ferro e à harmonização das regras que regulam as relações financeiras entre essas empresas e os Estados (1) e, nomeadamente, o no 2 do seu artigo 8o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a fixação de princípios uniformes para o cálculo dos custos das empresas de caminho-de-ferro é adequada para assegurar uma melhor cooperação entre estas e pode contribuir para a melhoria da sua situação financeira;\n\nConsiderando que é preferível, numa primeira fase, limitar o âmbito de aplicação deste cálculo de custos ao tráfego internacional de mercadorias por comboio completo;\n\nConsiderando que a informação, constituída por cálculos dos custos feitos de acordo com princípios uniformes, e a sua troca entre as empresas de caminho-de-ferro abrangidas são importantes para a tomada de decisões comerciais no que diz respeito às condições de aceitação ou de recusa dum tráfego internacional de mercadorias ou à cessação da exploração dum tráfego existente;\n\nConsiderando que, com vista a assistir a Comissão no estudo da aplicação dos princípios uniformes para o cálculo dos custos e das medidas que permitam melhorias posteriores, se justifica a criação de um Comité Consultivo,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b8f689d0b012ebdd": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os princípios uniformes para o cálculo dos custos das empresas de caminho-de-ferro, fixados pelo presente regulamento, aplicam-se aos transportes internacionais de mercadorias efectuados por comboio completo.\n\n2. Por «transportes internacionais de mercadorias» entende-se os transportes de mercadorias efectuados por comboios que circulem nas linhas das redes de pelo menos dois Estados-membros, inteiramente por caminho-de-ferro ou por «comboio-ferry».\n\n3. «Efectuados por comboio completo» significa que uma remessa é composta de vários vagões completos entregues para despacho ao mesmo tempo, pelo mesmo expedidor, na mesma gare, e directamente encaminhados em comboio completo para o mesmo destinatário e para a mesma gare."
+  },
+  "e9d5fd160926194c": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nO presente regulamento aplica-se às empresas de caminho-de-ferro seguintes:\n\n- Société nationale de chemins de fer belges (SNCB) /Nationale Maatschappij der Belgische Spoorwegen (NMBS),\n\n- Danske Statsbaner (DSB),\n\n- Deutsche Bundesbahn (DB),\n\n- Société nationale des chemins de fer français (SNCF),\n\n- Córas Iompair Éireann (CIE),\n\n- Azienda autonoma delle ferrovie dello Stato (FS),\n\n- Société nationale des chemins de fer luxembourgeois (CFL),\n\n- Naamloze Vennootschap Nederlandse Spoorwegen (NS),\n\n- British Railways Board (BRB),\n\n- Northern Ireland Railways Company Ltd (NIR)."
+  },
+  "20d7c1f50c09febb": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. A partir de 1 de Janeiro de 1979, as empresas de caminho-de-ferro efectuarão os cálculos de custos dos transportes de mercadorias referidos no artigo 1o de acordo com o princípio geral seguinte:\n\nSão considerados como «custos» as variações de custos que resultam, relativamente ao conjunto dos custos da empresa de caminho-de-ferro, da introdução dum novo tráfego, do aumento ou da redução do volume dum tráfego existente ou da cessação dum tal tráfego. Por «variações de custos» entende-se:\n\n- para um novo tráfego ou em caso de aumento do volume dum tráfego existente, os custos suplementares a que a empresa deve fazer face pelo facto de aceitar esse tráfego;\n\n- para um tráfego existente e para o qual se encara a cessação, ou para a redução do volume dum tráfego existente, as economias geradas pela cessação ou pela redução desse tráfego.\n\n2. Para além do cálculo dos custos efectuado de acordo com o princípio geral definido no no 1, as empresas de caminho-de-ferro calculam os custos totais definidos no Anexo IV, contanto que, porém, a empresa de caminho-de-ferro os utilize para as actividades ferroviárias referidas no presente regulamento ou exista um acordo com as outras empresas de caminho-de-ferro participantes no mesmo tráfego para quem eles sejam calculados."
+  },
+  "d813ffdd5dfbc727": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. O cálculo dos custos é efectuado para o mesmo período da duração prevista para o tráfego em relação ao qual se determinam os custos e tendo em conta as previsões das condições económicas desse mesmo período.\n\n2. O cálculo dos custos é estabelecido em função da lista tipo apresentada no Anexo I, segundo as linhas directrizes contidas no Anexo II e tendo em conta as diferentes características dos tráfegos cuja lista indicativa consta do Anexo III.\n\n3. Para efectuar o cálculo dos custos, as empresas de caminho-de-ferro podem utilizar as bases-tipo de cálculo definidas no Anexo IV."
+  },
+  "52bce28bc33abd9f": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nNo âmbito da sua responsabilidade comercial, as empresas de caminho-de-ferro que participam nos transportes internacionais de mercadorias referidos no artigo 1o comunicarão às outras empresas de caminho-de-ferro que participam no mesmo tráfego, numa base de reciprocidade, a pedido destes últimos e a título confidencial, as informações referidas no artigo 3o, indicando as bases utilizadas para o cálculo."
+  },
+  "a983b73e61b9d8c0": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. É instituído junto da Comissão um Comité Consultivo que tem por missão assisti-la no estudo da aplicação dos princípios enunciados no presente regulamento.\n\n2. O Comité dará o seu parecer sobre todas as questões relativas à aplicação do presente regulamento e estudará as medidas que visem melhorar as suas disposições.\n\n3. O Comité é presidido por um representante da Comissão e é composto por dois representantes designados por cada Estado-membro. Os membros do Comité podem fazer-se assistir pelos peritos que designarem. O Comité é convocado pela Comissão, a qual assegurará o secretariado.\n\n4. O relatório que a Comissão enviará de dois em dois anos ao Conselho, em aplicação do no 1 do artigo 14o da Decisão 75/327/CEE, apresentará as conclusões dos trabalhos do Comité.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 19 de Setembro de 1978.\n\nPelo Conselho\n\nO Presidente\n\nH.-D. GENSCHER\n\n(1) JO no L 152 de 12. 6. 1975, p. 3.(2) JO no C 266 de 7. 11. 1977, p. 14.(3) JO no C 18 de 23. 1. 1978, p. 30."
+  },
+  "aa5c21d98765e2d0": {
+   "fragment_id": "ANEXO I — Lista-tipo dos elementos a tomar em consideração, de modo adequado, para o cálculo dos custos",
+   "type": "divisao",
+   "heading": "ANEXO I — Lista-tipo dos elementos a tomar em consideração, de modo adequado, para o cálculo dos custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Lista-tipo dos elementos a tomar em consideração, de modo adequado, para o cálculo dos custos\n\n1 - Operações terminais\n\n2 - Manobras\n\n3 - Acompanhamento dos comboios\n\n4 - Condução dos veículos motores\n\n5 - Consumo dos veículos motores\n\n6 - Manutenção dos veículos motores\n\n7 - Manutenção dos veículos de mercadorias\n\n8 - Preparação dos veículos motores\n\n9 - Manutenção de outro equipamento de transporte\n\n10 - Amortização ou renovação (escolher) e locação dos veículos motores, veículos de mercadorias e outro equipamento de transporte\n\n11 - Manutenção e amortização ou renovação (escolher) da via\n\n12 - Manutenção e amortização ou renovação (escolher) das instalações fixas de tracção eléctrica\n\n13 - Manutenção e amortização ou renovação (escolher) das instalações de segurança e de telecomunicação\n\n14 - Outras despesas das gares\n\n15 - Serviço geral de depósitos\n\n16 - Manutenção e amortização ou renovação (escolher) das obras de arte\n\n17 - Manutenção e amortização ou renovação (escolher) dos edifícios\n\n18 - Manutenção e amortização ou renovação (escolher) de outras instalações fixas\n\n19 - Serviço administrativo\n\n20 - Outras despesas gerais\n\n21 - Impostos e taxas\n\n22 - Encargos gerais diversos e indemnizações\n\n23 - Encargos financeiros\n\n24 - Encargos com os serviços marítimos\n\nTotal dos custos...\n\nNota:\n\n1. As rubricas de custos que dizem respeito às despesas com o pessoal incluem os encargos sociais respectivos.\n\n2. Aquando da comunicação dos custos referidos no artigo 5o, as empresas de caminho-de-ferro indicam (de maneira não quantificada mas, por exemplo, por um cruz, os elementos que foram tomados em consideração nos cálculos dos custos; o total é quantificado.\n\n3. Para as rubricas de custos relativos à amortização e à renovação, as empresas de caminho-de-ferro adoptam as respectivas práticas contabilísticas habituais, mencionadas no Regulamento (CEE) no 2830/77 (1).\n\n(1) JO no L 334 de 24. 12. 1977, p. 13."
+  },
+  "25ab9e1cb0d55fbb": {
+   "fragment_id": "ANEXO II — Linhas directivas para a aplicação dos princípios estabelecidos no artigo 3o",
+   "type": "divisao",
+   "heading": "ANEXO II — Linhas directivas para a aplicação dos princípios estabelecidos no artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Linhas directivas para a aplicação dos princípios estabelecidos no artigo 3o\n\nOs custos cuja lista consta do Anexo I são calculados segundo as directrizes seguintes:\n\n1. O cálculo dos custos deve ter em conta, na medida do possível:\n\n- as características do tráfego considerado e todos os movimentos e operações ligados à realização desse tráfego;\n\n- a situação de referência relativamente à qual os custos devem ser calculados (nomeadamente o grau de saturação da capacidade das instalações).\n\n2. O cálculo dos custos é efectuado considerando os recursos afectos para responder à variação de tráfego previsto, e especialmente:\n\n- se os recursos existem especificamente para este tráfego ou também para outros tráfegos;\n\n- as condições em que os recursos devem ser alterados;\n\n- em que medida, os recursos em pessoal e em material rolante devem ser adaptados.\n\n3. Ter-se-à em conta, na medida do possível, a eventualidade das condições em que se efectua o tráfego poderem mudar no decurso do período considerado."
+  },
+  "c60f5d9dbf6a9f13": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nLista indicativa das características dum transporte e dos dados específicos de cada empresa de caminho-de-ferro participante no transporte, a tomar em consideração na determinação dos custos\n\nI. Características gerais do transporte\n\n- natureza e volume do tráfego a assegurar,\n\n- tipo de tráfego: regular, sazonal ou ocasional,\n\n- frequência das expedições e duração do tráfego,\n\n- gare de origem e de destino das expedições,\n\n- itinerário para o transporte em carga e, eventualmente, para o retorno dos vagões em vazio,\n\n- regime de expedição,\n\n- número de vagões por comboio,\n\n- categoria, tipo e características dos vagões utilizados: vagões da rede ou vagões de particulares - cobertos, abertos, plataformas... - tara, comprimento,...\n\n- pesos por expedição e carga média por vagão,\n\n- coeficientes de retorno e de percurso em vazio dos vagões.\n\nII. Dados específicos de cada empresa de caminho-de-ferro participante no transporte\n\n- distância percorrida nas linhas da empresa (para o percurso em carga, e, eventualmente, para o percurso em vazio),\n\n- duração de rotação dos vagões,\n\n- manobras para o trajecto em carga e, eventualmente, para o retorno em vazio dos vagões (à partida, durante o percurso, à chegada),\n\n- para cada secção do percurso:\n\n- distância percorrida,\n\n- potencialidade das linhas utilizadas (traduzindo as dificuldades do perfil),\n\n- categorias das linhas utilizadas (do ponto de vista da classificação para a manutenção),\n\n- veículos motores utilizados (modo de tracção, série),\n\n- percurso dos veículos motores (incluindo percurso desatrelado e em reforço),\n\n- tonelagem bruta rebocada dos comboios (autorizada e real),\n\n- duração de serviço do pessoal de condução, de acompanhamento..."
+  },
+  "efdade6dbf534abb": {
+   "fragment_id": "ANEXO IV — Bases-tipo de cálculo de custos",
+   "type": "divisao",
+   "heading": "ANEXO IV — Bases-tipo de cálculo de custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Bases-tipo de cálculo de custos\n\nPara efectuar o cálculo dos custos referidos no artigo 3o, as empresas de caminho-de-ferro podem utilizar, de maneira adequada, as bases seguintes, indicando-as aquando da comunicação referida no artigo 5o.\n\nPara o cálculo referido no no 1 do artigo 3o:\n\n- os custos variáveis, isto é, o conjunto dos custos que variam com o número das operações ou das prestações efectuadas;\n\n- os custos directos, isto é, o conjunto dos custos que podem ser imputados directamente sem recurso a uma regra de repartição a uma operação ou conjunto de operações, ou a um serviço ou conjunto de serviços;\n\n- os custos evitáveis, isto é, os custos que seriam evitados se os serviços ou a actividade cujos custos são calculados não existissem.\n\nPara o cálculo referido no no 2 do artigo 3:\n\nOs custos totais: todos os custos da empresa são repartidos entre as diferentes actividades, eventualmente com base em critérios relativos a essas actividades, de maneira que o total dos custos para o período em questão seja inteiramente tomado em consideração.\n\nPor «total dos custos do período considerado» entendem-se os custos por natureza constantes do Anexo III do Regulamento (CEE) no 2830/77, após dedução das compensações recebidas a título da normalização das contas bem como dos pagamentos que a regulamentação comunitária em matéria de auxílios aos transportes define expressamente como auxílios e que não são equiparáveis às receitas, entendendo-se que as redes que, no domínio do cálculo dos custos, não efectuam tais diminuições o indiquem aquando da comunicação referida no artigo 5o."
+  }
+ }
+}

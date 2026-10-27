@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:116330682:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-176519671",
+ "dre_path": "/dr/detalhe/decreto-lei/71-2018-116330682",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-09-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176600261",
+    "176600262",
+    "176600263",
+    "176600264"
+   ]
+  },
+  {
+   "date": "2022-01-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176492356:por",
+     "title": "Decreto-Lei n.º 120/2021",
+     "published": "2021-12-24",
+     "dre_path": "/dr/detalhe/decreto-lei/120-2021-176492356"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "176600261",
+    "176600262",
+    "176600266",
+    "176600264",
+    "176600265"
+   ]
+  }
+ ],
+ "fragments": {
+  "176600261": {
+   "fragment_id": "176519672",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 71/2018\n\nde 5 de setembro\n\nAs tarifas de portagem são aplicadas com base na classificação dos veículos em quatro classes distintas, de acordo, entre outros, com a altura medida à vertical do primeiro eixo do veículo, sendo que a diferenciação entre as classes 1 e 2 é estabelecida pelo limiar dos 1,10 m de altura. O Decreto-Lei n.º 39/2005, de 17 de fevereiro, estabeleceu, contudo, uma exceção àquela regra geral de classificação, com o propósito de promover os automóveis monovolumes e que veio atribuir-lhes a classe 1, não obstante terem uma altura superior a 1,10 m.\n\nAssim, desde 2005, os veículos ligeiros de passageiros e mistos com uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,10 m e inferior a 1,30 m, com peso bruto superior a 2300 kg e igual ou inferior a 3500 kg, com lotação igual ou superior a 5 lugares e que não apresentem tração às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1 quando utilizem o sistema de pagamento automático.\n\nAquela exceção conduziu, não obstante, a um desajustamento no sistema de classificação de veículos para efeitos de portagem em Portugal. Com efeito, são classificados como classe 2 veículos com caraterísticas geométricas semelhantes aos automóveis monovolumes mas que, por terem um peso bruto igual ou inferior a 2300 kg, não se reconduzem à exceção e, portanto, pagam taxas de portagem mais elevadas.\n\nEste desajustamento tornou-se mais evidente com os desenvolvimentos ocorridos na indústria automóvel, nomeadamente com a tendência de compactação do design dos novos modelos, motivada por questões de eficiência energética e ambiental e por questões de segurança.\n\nEm particular, a Diretiva sobre Proteção de Peões - a Diretiva n.º 2003/102/CE, do Parlamento Europeu e do Conselho, de 17 de novembro de 2003, que veio alterar a Diretiva 70/156/CEE do Conselho, e que foi entretanto substituída pelo Regulamento (CE) n.º 78/2009, do Parlamento Europeu e do Conselho, de 14 de janeiro - veio obrigar os construtores de automóveis a introduzirem alterações significativas no design dos veículos, aumentando a sua altura frontal e a inclinação do capot e, consequentemente, a altura média ao solo medida sobre o centro do eixo dianteiro. De igual modo, a procura incessante de eficiência nas emissões de CO(índice 2) tem levado à tendência de redução da dimensão e peso dos veículos, em simultâneo com o aumento do seu habitáculo interior, tendo como resultado o aumento da altura final do capot dos veículos.\n\nOra, a desadequação dos critérios de distinção das classes 1 e 2 de veículos em Portugal a esta realidade provocou uma distorção do mercado automóvel, que se traduz numa menor penetração de uma nova tipologia de veículos compactos mais eficientes e seguros em comparação com outros países europeus e em relação ao que seria desejável.\n\nUrge, por isso, corrigir este manifesto desajustamento e repor condições para que Portugal possa continuar a beneficiar dos desenvolvimentos positivos da indústria automóvel.\n\nParalelamente, é inegável o esforço europeu no sentido da consideração do impacto ambiental na tarifação dos veículos que circulam em autoestradas. Esta tendência traduz-se, não só, nas alterações aprovadas em 2006 e 2011 à Diretiva n.º 1999/62/CE, do Parlamento Europeu e do Conselho, de 17 de junho de 1999, relativa à aplicação de imposições aos veículos pesados de mercadorias pela utilização de certas infraestruturas - a «Diretiva Eurovinheta» - como também pelas medidas que a Comissão Europeia tem vindo a propor e a implementar no âmbito da agenda «A Europa em Movimento» em matéria de mobilidade limpa.\n\nNesse sentido, impõe-se que os ajustamentos ao sistema de classes de portagem tomem expressamente em conta as Normas Ambientais EURO relativas às emissões automóveis - nomeadamente a Norma EURO 6, prevista no Regulamento (UE) n.º 459/2012, da Comissão, de 29 de maio de 2012.\n\nOs ajustamentos ora introduzidos aplicam-se a todos os lanços de autoestrada com portagem, independentemente do respetivo regime de exploração, implicando a modificação dos respetivos contratos de concessão ou subconcessão.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "176600262": {
+   "fragment_id": "176519673",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente decreto-lei procede ao ajustamento das classes 1 e 2 de veículos para efeitos de aplicação das tarifas de portagem por quilómetro de autoestrada."
+  },
+  "176600263": {
+   "fragment_id": "176519674",
+   "type": 11,
+   "heading": "Artigo 2.º — Tarifa de portagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tarifa de portagem\n\n1 - Os veículos ligeiros de passageiros e mistos, com dois eixos, peso bruto superior a 2300 kg e igual ou inferior a 3500 kg, com lotação igual ou superior a cinco lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,10 m e inferior a 1,30 m, desde que não apresentem tração às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1 quando utilizem o sistema de pagamento automático e cumpram a Norma EURO 6, prevista no Regulamento (UE) n.º 459/2012, da Comissão, de 29 de maio de 2012.\n\n2 - Os veículos ligeiros de passageiros, mistos ou mercadorias, com dois eixos, peso bruto igual ou inferior a 2300 kg, e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,10 m e inferior a 1,30 m, desde que não apresentem tração às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1, quando utilizem o sistema de pagamento automático e cumpram a Norma EURO 6."
+  },
+  "176600264": {
+   "fragment_id": "176626575",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor no dia 1 de janeiro de 2019.\n\n2 - A exigência do cumprimento da Norma EURO 6 prevista no n.º 1 do artigo anterior só é aplicável aos veículos com matrícula posterior à entrada em vigor do presente decreto-lei."
+  },
+  "176600266": {
+   "fragment_id": "176519674",
+   "type": 11,
+   "heading": "Artigo 2.º — Tarifa de portagem",
+   "in_force_from": "2022-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2021-176492356), em vigor a partir de 2022-01-23"
+   ],
+   "markdown": "###### Artigo 2.º — Tarifa de portagem\n\n1 - Os veículos ligeiros de passageiros e mistos, com dois eixos, peso bruto superior a 2300 kg e igual ou inferior a 3500 kg, com lotação igual ou superior a cinco lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,10 m e inferior a 1,30 m, desde que não apresentem tração às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1 quando utilizem o sistema de pagamento automático e cumpram a Norma EURO 6, prevista no Regulamento (UE) n.º 459/2012, da Comissão, de 29 de maio de 2012.\n\n2 - Os veículos ligeiros de passageiros, mistos ou mercadorias, com dois eixos, peso bruto igual ou inferior a 2300 kg, e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,10 m e inferior a 1,30 m, desde que não apresentem tração às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1, quando utilizem o sistema de pagamento automático e cumpram a Norma EURO 6.\n\n3 - Para efeitos dos números anteriores, a exigência da não apresentação de tração às quatro rodas permanente ou inserível aplica-se à tração mecânica, não sendo considerados para tal efeito os eixos que apresentem tração elétrica.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2021-176492356), em vigor a partir de 2022-01-23"
+  },
+  "176600265": {
+   "fragment_id": "176626576",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de agosto de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Guilherme Waldemar Goulão dos Reis d'Oliveira Martins.\n\nPromulgado em 29 de agosto de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 30 de agosto de 2018.\n\nPelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa.\n\n111621404"
+  }
+ }
+}

@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:158408:por
+title: Portaria n.º 269/75
+short_title: null
+summary: Fixa os limites máximos de custos diários para os diferentes ranchos das forças terrestres e aéreas ultramarinas,
+  a partir de 1 de Abril de 1975
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho dos Chefes dos Estados-Maiores das Forças Armadas - Estado-Maior-General das Forças Armadas
+proposing_entity: null
+official_number: 269/75
+official_date: null
+publication_date: '1975-04-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 94/1975, Série I de 1975-04-22
+  number: '94'
+  series: I
+  supplement: null
+  pages: 610 - 611
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/04/09400/06100611.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '158408'
+  dre_path: /dr/detalhe/portaria/269-1975-158408
+  internal: pt:dre:158408:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/269-1975-158408
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/269-1975-158408
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:42:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 452ba9989bb14e17ebb221106362a316867a09ce701d9886586b5b0a424e8ca5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:42:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:193229:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:42:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 269/75
+
+de 22 de Abril
+
+De harmonia com o disposto no artigo 27.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, e usando da faculdade conferida pelo artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho:
+
+Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe do Estado-Maior-General das Forças Armadas, o seguinte:
+
+1.º Enquanto não for actualizado e unificado o regime alimentar normal dos militares dos três ramos das forças armadas em serviço no ultramar, por forma a assegurar o fornecimento da alimentação, por conta do Estado, em obediência a ementas aprovadas, os limites máximos de custos diários para os diferentes ranchos das forças terrestres e aéreas ultramarinas são fixados nos seguintes quantitativos, a partir de 1 de Abril de 1975:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/04/09400/06100611.pdf)
+
+2.º Nas situações em que, por desarranchamento, haja lugar a alimentação a dinheiro, os valores diários a abonar serão dos quantitativos seguintes:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/04/09400/06100611.pdf)
+
+Estado-Maior-General das Forças Armadas, 10 de Março de 1975. - O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes.
+
+Para ser publicada nos Boletins Oficiais de todos os territórios ultramarinos. - António de Almeida Santos.

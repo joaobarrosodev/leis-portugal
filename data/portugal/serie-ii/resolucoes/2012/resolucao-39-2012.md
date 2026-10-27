@@ -1,0 +1,272 @@
+---
+schema_version: '1.0'
+id: pt:dre:1457998:por
+title: Resolução n.º 39/2012
+short_title: null
+summary: Designa os membros do conselho diretivo do Instituto da Habitação e da Reabilitação Urbana, I. P.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 39/2012
+official_date: null
+publication_date: '2012-10-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/2012, Série II de 2012-10-16
+  number: '200'
+  series: II
+  supplement: null
+  pages: 34373 - 34374
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/10/200000000/3437334374.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1457998'
+  dre_path: /dr/detalhe/resolucao/39-2012-1457998
+  internal: pt:dre:1457998:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/39-2012-1457998
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/39-2012-1457998
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: cef451054d3efab12f1365ad53fb1e745e8aa31ce34181a2a67abcfd1cb9b302
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Diretivo
+- Instituto da Habitação e da Reabilitação Urbana
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:1044400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1044401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1765802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:14:58Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 39/2012
+
+O Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), é um instituto público de regime especial e gestão participada, cuja orgânica se encontra definida pelo [Decreto-Lei n.º 175/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2012-179064), de 2 de agosto.
+
+Nos termos do artigo 5.º do referido diploma, o conselho diretivo do IHRU, I. P., é composto por um presidente e por dois vogais, nomeados por resolução do Conselho de Ministros, sob proposta da assembleia comum de participantes.
+
+Atendendo às alterações promovidas à [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, pela [Lei n.º 64/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-2011-145045), de 22 de dezembro, e à [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, que aprova a lei-quadro dos institutos públicos, pelo [Decreto-Lei n.º 5/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2012-544395), de 17 de janeiro, até à entrada em vigor da nova Lei Orgânica do IHRU, I. P., e ao reconhecimento deste como instituto de regime especial e de gestão participada, pela [Resolução do Conselho de Ministros n.º 71/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/71-2012-174787), de 29 de agosto, os atuais membros do seu conselho diretivo foram designados para o exercício dos respetivos cargos, em regime de substituição, pelos despachos n.os [2640/2012](https://diariodarepublica.pt/dr/detalhe/despacho/2640-2012-1044400) e [2641/2012](https://diariodarepublica.pt/dr/detalhe/despacho/2641-2012-1044401), ambos publicados no Diário da República, 2.ª série, de 23 de fevereiro, e pelo [Despacho n.º 2713/2012](https://diariodarepublica.pt/dr/detalhe/despacho/2713-2012-1765802), publicado no Diário da República, 2.ª série, de 24 de fevereiro de 2012.
+
+Considerando a entrada em vigor da nova Lei Orgânica do IHRU, I. P., e atendendo ao meritório trabalho desenvolvido pelo atual conselho diretivo, importa assegurar a continuidade das suas funções, pelo que, sob proposta da assembleia comum de participantes reunida em 3 de outubro de 2012, se vem agora proceder à sua designação, nos novos termos legalmente previstos.
+
+Foi suscitada a intervenção da Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as designações constantes da presente resolução.
+
+Assim:
+
+Nos termos do artigo 5.º do [Decreto-Lei n.º 175/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2012-179064), de 2 de agosto, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, sob proposta da assembleia comum de participantes, para o conselho diretivo do Instituto da Habitação e da Reabilitação Urbana, I. P., para o quinquénio 2012-2017, Vítor Manuel Roque Martins dos Reis e Marta Rebelo de Andrade de Pimentel Santos Arruda Moreira e Luís Maria Vieira Pereira Roxo Gonçalves, respetivamente para os cargos de presidente e vogais, cujas idoneidade, experiência e competências profissionais são patentes nas notas curriculares que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Determinar que a presente resolução produz efeitos à data da sua aprovação.
+
+4 de outubro de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+Nota curricular
+
+Vítor Manuel Roque Martins dos Reis.
+
+Data de nascimento - 3 de fevereiro de 1959.
+
+Licenciado em Arquitetura pela Faculdade de Arquitetura da Universidade Técnica de Lisboa em 1984.
+
+Em 2010 concluiu o FORGEP - Curso de Formação em Gestão Pública - pelo ISCTE -IUL.
+
+Atividades mais relevantes:
+
+2007-2012 - técnico do quadro do Instituto da Habitação e da Reabilitação Urbana (IHRU) com a categoria de assessor, sendo desde Junho de 2007 coordenador do Gabinete de Sistemas de Informação;
+
+1990-2007 - técnico do quadro do Instituto Nacional de Habitação (INH) com a categoria de assessor, onde desempenhou as seguintes funções:
+
+1998-2002 e 2006 -2007 - diretor do Departamento de Sistemas de Informação;
+
+1998 - coordenou o Programa de Intempéries entre janeiro e maio destinado ao realojamento das famílias atingidas pelas cheias de novembro de 1997 nos Açores e Alentejo;
+
+1996-1997 - diretor do Departamento de Comercialização;
+
+1990-1991 - chefiou o Gabinete de Relações Públicas;
+
+2002-2005 - deputado na Assembleia da República eleito pelo círculo eleitoral de Lisboa, tendo nesta qualidade sido membro da Comissão de Poder Local, do Ordenamento do Território e Ambiente e da Comissão Eventual para os Incêndios Florestais de 2003;
+
+1997-2001 - vereador da Câmara Municipal de Lisboa;
+
+1991-1995 - vogal do conselho diretivo do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE), onde desempenhou as seguintes tarefas:
+
+Responsável pelo pelouro da gestão habitacional dos bairros sociais;
+
+Responsável pela implementação em 1992 do Incentivo ao Arrendamento por Jovens (IAJ - vulgo subsídio de renda para jovens);
+
+Responsável pela preparação do diploma do novo Regime de Renda Apoiada publicado no [Decreto-Lei n.º 166/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1993-274240);
+
+1994-1997 - vogal do Conselho Fiscal da TMN;
+
+1993-1997 - membro da Assembleia Municipal de Lisboa;
+
+1990-1993 - vogal do Conselho Fiscal da Rodoviária Nacional Investimentos e Participações;
+
+1990 - assessor do Secretário de Estado da Habitação e Comunicações;
+
+1985-1989 - vereador da Câmara Municipal de Lisboa com os pelouros da Cultura e da Reabilitação Urbana, sendo de salientar os seguintes aspetos:
+
+Iniciou as operações de reabilitação urbana de Alfama, Mouraria e Olivais Velho;
+
+Coordenou a elaboração dos primeiros planos de salvaguarda de Alfama e Mouraria;
+
+Iniciou a implementação do programa RECRIA em Lisboa em 1988;
+
+Foi o responsável em 1989 pela apresentação da candidatura de Lisboa a Capital Europeia da Cultura de 1994;
+
+1983-1984 - vogal do Conselho Fiscal do Centro Desportivo Universitário de Lisboa (CDUL), eleito pelas Associações de Estudantes da Academia de Lisboa;
+
+1981-1984 - presidente da Associação de Estudantes da Faculdade de Arquitetura de Lisboa.
+
+Nota curricular
+
+Marta Rebelo de Andrade de Pimentel Santos d'Arruda Moreira.
+
+Habilitações académicas:
+
+Licenciatura em Gestão e Administração de Empresas em 1997 pela Universidade Católica Portuguesa;
+
+Pós-graduação em Gestão e Avaliação Imobiliária em 2008 pelo Instituto Superior de Economia e Gestão (ISEG).
+
+Experiência profissional:
+
+Desde março de 2002 - Caixa Geral de Depósitos:
+
+Desde abril de 2007 - Direção de Financiamento Imobiliário:
+
+Participação na Unidade de Construção e Promoção Imobiliária, assistindo a Direção na análise de projetos imobiliários no âmbito do negócio;
+
+Técnica no núcleo de desenvolvimento de produtos, tendo como principal função a conceção e análise de produtos no âmbito do Negócio Imobiliário;
+
+De abril de 2005 a abril de 2007 - Caixa Geral de Depósitos - Direção de Empresas Sul no Núcleo de Apoio Técnico à Direção Central;
+
+De março de 2002 a abril de 2005 - Caixa Geral de Depósitos - Direção de Particulares do Sul no Núcleo de Apoio Técnico à Direção Central;
+
+De agosto de 1999 a março de 2002 - gestora de master franchise na Team, Projectos de Investimento, Lda.;
+
+De setembro de 1997 a agosto de 1999 - market research executive na Unilever Portugal;
+
+Participou ainda em diversos seminários e formações, nacionais e europeus, nomeadamente no que respeita ao setor do imobiliário em Portugal, habitação e reabilitação urbana, métodos de avaliação imobiliária, marketing research e category managment.
+
+Nota curricular
+
+Luís Maria Vieira Pereira Roxo Gonçalves.
+
+Data de nascimento - 12 de junho de 1970.
+
+Qualificações académicas:
+
+Licenciado em Arquitetura, na Faculdade de Arquitetura da Universidade do Porto, com classificação final de 16 valores, em 1995, tendo frequentado a Facultà d'Achitettura dell'Università degli Studi di Firenze, com dois louvores.
+
+Percurso profissional:
+
+Desde 1997, desenvolveu a sua atividade profissional como arquiteto, realizando projetos nas áreas de habitação coletiva e unifamiliar, reabilitação de edifícios, planos de pormenor, complexos de cinemas, espaços comerciais, escritórios, instalações industriais e empreendimentos turísticos;
+
+Dirigiu e coordenou a equipa técnica para elaboração dos projetos de reabilitação do espaço público na zona de intervenção da Frente Ribeirinha da Baixa Pombalina;
+
+Recebeu vários prémios em concursos internacionais de conceção arquitetónica, decorrente de projetos desenvolvidos no âmbito da sua atividade profissional;
+
+Como consultor, elaborou pareceres e estudos técnicos no âmbito da promoção imobiliária, construção, reabilitação urbana e gestão de património, como suporte a operações de aquisição de imóveis e urbanização para habitações e equipamentos, procedendo, entre outros aspetos, à avaliação de custos e adequação funcional.
+
+Atividade académica:
+
+Docente do Curso de Arquitetura da Universidade Moderna de Lisboa, tendo lecionado as cadeiras de Elementos de Arquitetura, Projeto I, III e IV.
+
+Doutoramento na Universidade de Sevilha, em Teoria e Prática de Reabilitação Arquitetónica e Urbana - conclusão da parte curricular.
+
+Pós-graduação em Avaliação Imobiliária na Escola Superior de Atividades Imobiliárias.
+
+Outras atividades profissionais:
+
+Desenvolveu atividade de avaliação imobiliária, conexa com garantias de colaterais para concessão de financiamento hipotecário;
+
+Colaborou em diversos artigos e monografias. Coordenou e participou em seminários sobre património arquitetónico, habitação e reabilitação urbana.
+
+18622012

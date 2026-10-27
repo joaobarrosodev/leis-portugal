@@ -1,0 +1,280 @@
+---
+schema_version: '1.0'
+id: pt:dre:517861:por
+title: Portaria n.º 19047
+short_title: null
+summary: Abre um crédito destinado a reforçar verbas inscritas na tabela de despesa ordinária do orçamento geral para o ano
+  de 1961 da província ultramarina de Moçambique
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '19047'
+official_date: null
+publication_date: '1962-02-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 42/1962, Série I de 1962-02-24
+  number: '42'
+  series: I
+  supplement: null
+  pages: 170 - 171
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/02/04200/01700171.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '517861'
+  dre_path: /dr/detalhe/portaria/19047-1962-517861
+  internal: pt:dre:517861:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19047-1962-517861
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19047-1962-517861
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:11:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 87895c08f542234b7aae0c57b408f068a264c7e6a03da30aa482207350e0b28b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:149807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643174:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:11:59Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19047
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugado com a alínea e) do artigo 3.º do mesmo diploma, com a redacção que lhe foi dada pelo artigo 4.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, abrir na província de Moçambique um crédito especial da quantia de 66704542$50, para reforçar com as importâncias que se indicam as seguintes verbas da tabela de despesa ordinária do orçamento geral para o ano de 1961:
+
+### CAPÍTULO 1.º — Dívida da província
+
+Artigo 3.º «Para pagamento dos encargos previstos no artigo 5.º do [Decreto-Lei n.º 39139](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39139-1953-527255), de 19 de Março de 1953» ... 559041$10
+
+Artigo 9.º «Para pagamento dos encargos criados pelo [Decreto-Lei n.º 42817](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42817-1960-277144), de 25 de Janeiro de 1960» ... 2815301$00
+
+### CAPÍTULO 4.º — Inspecção de Administração Ultramarina, Financeira, das Alfândegas, de Fomento, de Saúde, do Ensino e de Serviços Judiciais
+
+Artigo 69.º, n.º 1), alínea a), «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos dos inspectores e respectivos secretários» ... 630000$00
+
+Serviços de instrução
+
+Ensino liceal
+
+Artigo 237.º «Despesas com o pessoal - Remunerações acidentais»:
+
+N.º 1) «Gratificações» ... 160000$00
+
+N.º 2), alínea a) «Horas extraordinárias e serviços especiais - Gratificações devidas nos termos do artigo 1.º do [Decreto n.º 39791](https://diariodarepublica.pt/dr/detalhe/decreto/39791-1954-638475), de 27 de Agosto de 1954» ... 3500$00
+
+Serviços de saúde e higiene
+
+Artigo 345.º, n.º 3) «Diversos encargos - Encargos administrativos - Para ocorrer ao encargo com o internamento, no hospital psiquiátrico da Ordem Hospitalar de S. João de Deus, de doentes mentais» ... 850000$00
+
+Serviços de economia e estatística geral
+
+Artigo 603.º, n.º 2) «Diversos serviços - Publicações estatísticas» ... 1610400$40
+
+### CAPÍTULO 7.º — Serviços de agrimensura
+
+Artigo 1446.º n.º 1) «Outras despesas com o pessoal dentro da província - Subsídio de campo, nos termos do artigo 28.º do [Decreto n.º 35945](https://diariodarepublica.pt/dr/detalhe/decreto/35945-1946-149807), de 14 de Novembro de 1946» ... 450000$00
+
+### CAPÍTULO 9.º — Serviços de marinha
+
+Artigo 1587.º, n.º 1) «Pagamento de serviços - Diversos serviços - Para pagamento de encargos com os serviços de dragagem nos portos» ... 500000$00
+
+Artigo 1605.º, n.º 1) «Despesas de conservação e aproveitamento - De semoventes» ... 1250000$00
+
+Artigo 1606.º «Material de consumo corrente» ... 250000$00
+
+### CAPÍTULO 10.º — Encargos gerais
+
+Artigo 1681.º, n.º 10), alínea b) «Subsídios e pensões - Outros subsídios - Subsídios a instituições culturais e despesas de intercâmbio cultural» ... 250000$00
+
+Artigo 1682.º «Despesas de comunicações»:
+
+N.º 1), alínea a) «Portes de correio e telégrafo e endereços telegráficos e caixas de apartados - Para pagamento aos serviços dos correios, telégrafos e telefones de portes de correio de toda a correspondência oficial de telégrafo e endereços telegráficos e caixas de apartados (com exclusão dos serviços autónomos)» ... 700000$00
+
+N.º 2) «Despesas com os telefones de todos os serviços»:
+
+Alínea b) «Chamadas telefónicas» ... 220000$00
+
+Alínea c) «Conversações interurbanas e internacionais» ... 500000$00
+
+N.º 3), alínea c) «Transportes de material, fretes, seguros, despachos e outras despesas conexas - Dentro da província» ... 360000$00
+
+Artigo 1683.º «Deslocações de pessoal»:
+
+N.º 1) «Ajudas de custo dentro da província» ... 3200000$00
+
+N.º 2), alínea b) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na província» ... 330000$00
+
+N.º 3) «Passagens dentro da província» ... 3670000$00
+
+N.º 4) «Passagens de ou para o exterior»:
+
+Alínea a), I) «Por motivo de licença graciosa - A pagar na província - Para o 1.º grupo» ... 2050000$00
+
+Alínea b) «Por quaisquer outros motivos - A pagar na província» ... 300000$00
+
+Artigo 1684.º «Diversas despesas»:
+
+N.º 2), alínea b) «Despesas com valores selados - A pagar na província» ... 510000$00
+
+N.º 3), alínea b) «Diferenças de câmbios e outras despesas com transferências de fundos - A pagar na província» ... 500000$00
+
+N.º 4, alínea b) «Despesas eventuais - Não especificadas - Na província» ... 1500000$00
+
+N.º 5) «Para fazer face às despesas com funcionários e outras individualidades que venham à província em missão especial de serviço público, bem como com pessoal que aqui se torne indispensável recrutar para cooperar com esses funcionários e individualidades» ... 250000$00
+
+N.º 6) «Restituição de rendimentos indevidamente cobrados» ... 500000$00
+
+N.º 12) «Despesas de carácter reservado» ... 1250000$00
+
+N.º 26) «Para pagamento aos municípios da compensação referida no artigo 63.º do Regulamento do Código da Estrada, aprovado pela [Portaria n.º 13469](https://diariodarepublica.pt/dr/detalhe/portaria/13469-1951-323744), de 6 de Novembro de 1959» ... 8136300$00
+
+N.º 28) «Alimentação, passagens e vestuário de presos indigentes, incluindo os condenados a trabalhos públicos e os expulsos e deportados dentro e fora da província» ... 100000$00
+
+Artigo 1685.º «Gratificação de isolamento (artigo 168.º do Estatuto do Funcionalismo Ultramarino)» ... 4500000$00
+
+Artigo 1687.º «Abono de família» ... 25000000$00
+
+Artigo 1689.º, n.º 1) «Complemento de vencimentos - Para pagamento de complemento de vencimentos aos funcionários em serviço na cidade da Beira, nos termos do § único do artigo 14.º do Decreto n.º 31896, de 27 de Fevereiro de 1942, e [Portaria n.º 12247](https://diariodarepublica.pt/dr/detalhe/portaria/12247-1948-153342), de 28 de Dezembro de 1957» ... 3800000$00
+
+... 66704542$00
+
+tomando como contrapartida o excesso de cobrança sobre a previsão das receitas, verificado nas seguintes verbas do orçamento da receita ordinária do referido ano:
+
+### CAPÍTULO 1.º — Impostos directos gerais
+
+Artigo 2.º, alínea a) «Contribuição predial urbana» ... 4313520$00
+
+Artigo 3.º, alínea a) «Imposto profissional - 1.º grupo» ... 805520$00
+
+Artigo 6.º «Imposto de rendimentos» ... 15368510$00
+
+### CAPÍTULO 2.º — Impostos indirectos
+
+Artigo 13.º, alínea a) «Direitos de importação - Mercadorias nacionais ou nacionalizadas» ... 5579130$00
+
+Artigo 14.º, alínea b) «Direitos de exportação - Para qualquer outro destino» ... 549590$00
+
+Artigo 16.º «Estampilha fiscal» ... 4083110$00
+
+Artigo 18.º «Imposto do selo»:
+
+Alínea b) «Letras seladas e impressão» ... 966050$00
+
+Alínea f) «Selo especial de conhecimento» ... 1487060$00
+
+Alínea g) «Selos diversos» ... 1354930$00
+
+### CAPÍTULO 3.º — Indústrias em regime tributário especial
+
+Artigo 20.º «Imposto de consumo de cerveja» ... 4125000$00
+
+Artigo 21.º «Receita do Regulamento de Armas e Substâncias Explosivas» ... 288170$00
+
+Artigo 23.º «Imposto de fabricação e consumo de tabaco» ... 1597140$00
+
+Artigo 26.º «Imposto algodoeiro» ... 16480890$00
+
+Artigo 28.º «Imposto de farolagem» ... 1271820$00
+
+Artigo 29.º «Imposto de tonelagem» ... 298090$00
+
+Artigo 30.º «Imposto de comércio marítimo» ... 805220$00
+
+### CAPÍTULO 4.º — Taxas - Rendimento de diversos serviços
+
+Artigo 31.º «Rendimento do Laboratório de Ensaios de Materiais e Mecânica do Solo» ... 1409480$00
+
+Artigo 42.º «Emolumentos diversos» ... 791840$00
+
+Artigo 53.º «Emolumentos das Conservatórias do Registo Comercial e da Propriedade Automóvel» ... 429650$00
+
+Artigo 61.º «Receitas nos termos do Código da Estrada» ... 1635810$00
+
+### CAPÍTULO 5.º — Domínio privado, empresas e indústrias do Estado, participação de lucros
+
+Artigo 77.º «Comparticipação na renda a pagar pelo Banco Nacional Ultramarino, nos termos da cláusula 26.ª das fixadas pelo [Decreto-Lei n.º 39221](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39221-1953-643174), de 25 de Maio de 1953» ... 3064012$50
+
+... 66704542$50
+
+Ministério do Ultramar, 24 de Fevereiro de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.
+
+Para ser publicada no Boletim Oficial de Moçambique. - A. Moreira.

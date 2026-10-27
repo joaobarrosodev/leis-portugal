@@ -1,0 +1,316 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:469069:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34506175",
+ "dre_path": "/dr/detalhe/decreto-lei/229-2005-469069",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493501:por",
+     "title": "Lei n.º 77/2009",
+     "published": "2009-08-13",
+     "dre_path": "/dr/detalhe/lei/77-2009-493501"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "48651675",
+    "48651775",
+    "48651875",
+    "48651975",
+    "48652075",
+    "863008663",
+    "48652275",
+    "48652375",
+    "48735975",
+    "48652475",
+    "48652575",
+    "48652675",
+    "48652775",
+    "48652875",
+    "48652975",
+    "48653075",
+    "48653175"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º",
+    "Revoga Anexo I",
+    "Revoga Anexo II",
+    "Revoga Anexo III",
+    "Revoga Anexo IV",
+    "Revoga Anexo V",
+    "Revoga Anexo VI",
+    "Revoga Anexo VII",
+    "Revoga Anexo VIII"
+   ],
+   "fragments": [
+    "48651675",
+    "48651775",
+    "48651875",
+    "48651975",
+    "48652075",
+    "863008664",
+    "48652275",
+    "48652375",
+    "48735975",
+    "863008665",
+    "863008666",
+    "863008667",
+    "863008668",
+    "863008669",
+    "863008670",
+    "863008671",
+    "863008672"
+   ]
+  }
+ ],
+ "fragments": {
+  "48651675": {
+   "fragment_id": "35125975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "No quadro das iniciativas destinadas a reforçar a convergência e a equidade entre os subscritores da Caixa Geral de Aposentações e os contribuintes da segurança social e a garantir a sustentabilidade dos sistemas de protecção social, foi efectuada a avaliação dos regimes especiais que consagram, para determinados grupos de subscritores da Caixa Geral de Aposentações, desvios às regras do Estatuto da Aposentação, por forma a convergirem com o regime geral.\n\nNão se visa a igualização de todos os regimes. Pretende-se antes a sua harmonização ao nível das regras de formação de direitos e de atribuição das prestações entre os subscritores da Caixa Geral de Aposentações, independentemente de pertencerem ou não a corpos especiais, e igualmente a aproximação das que vigoram para a generalidade dos trabalhadores por conta de outrem, no regime geral de segurança social.\n\nNesse sentido, após cuidada avaliação dos regimes especiais em causa e das especificidades das funções por eles abrangidas, que constituíram fundamento da instituição dos actuais desvios ao Estatuto da Aposentação, em matérias como a titularidade, condições de atribuição e montante das prestações, bem como, em particular, as regras de acesso à aposentação antecipada e a bonificação de tempo de serviço, optou-se por eliminar aqueles desprovidos de justificação razoável na actualidade e por adaptar os restantes ao novo contexto ditado pela convergência entre regimes e pela necessidade de garantir a sustentabilidade financeira dos mesmos.\n\nAssim, procede-se ao aumento do tempo de serviço efectivo, por via da substituição das inúmeras percentagens de acréscimo de tempo de serviço por uma única, de valor inferior e que incide apenas sobre o tempo de serviço prestado em condições de risco efectivo ou potencial.\n\nAssegura-se, paralelamente, que o factor idade acompanha o sentido da alteração do Estatuto da Aposentação, quer através da sua elevação enquanto requisito de aposentação, quer, indirectamente, pela reformulação de situações que estão na base da passagem à aposentação, como a disponibilidade, cujo acesso passa a ter condições mais exigentes e cuja remuneração é reconfigurada por forma a adequar-se melhor à natureza particular daquele Estatuto.\n\nEm todas as situações, o esforço de convergência dos regimes especiais entre si e com o regime aplicável à generalidade dos subscritores da Caixa Geral de Aposentações, ele próprio em mutação, privilegia uma transição gradual e harmoniosa, respeitando legítimas expectativas daqueles que por ela sejam abrangidos, aos quais se garante, igualmente, a possibilidade de optarem pelas modalidades de aposentação do regime geral do Estatuto da Aposentação quando estas se revelarem em concreto mais favoráveis.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "48651775": {
+   "fragment_id": "35779875",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei procede à revisão dos regimes que consagram desvios às regras previstas no Estatuto da Aposentação em matéria de tempo de serviço, idade de aposentação, fórmula de cálculo e actualização das pensões, para determinados grupos de subscritores da Caixa Geral de Aposentações, por forma a compatibilizá-los com a convergência do regime de protecção social da função pública ao regime geral da segurança social no que respeita às condições de aposentação e cálculo das pensões.\n\n2 - Ficam excluídos do âmbito do presente decreto-lei:\n\na) Os regimes especiais de carácter temporário;\n\nb) Os subscritores cujos direitos à pensão, garantidos através de fundos de pensões, foram transferidos para a Caixa Geral de Aposentações, juntamente com as provisões necessárias para suportar os correspondentes encargos, que mantêm o regime com base no qual foi determinado, através de cálculo actuarial, o património transferido;\n\nc) Os bombeiros profissionais e voluntários;\n\nd) Os titulares de cargos políticos, os juízes e magistrados do Ministério Público, o pessoal da carreira diplomática, os militares das Forças Armadas e da Guarda Nacional Republicana, o pessoal militarizado da Polícia Marítima, o pessoal do quadro de pessoal militarizado da Marinha e do Exército, o pessoal com funções policiais da Polícia de Segurança Pública e o pessoal da carreira de investigação criminal da Polícia Judiciária, que devem ter os respectivos estatutos adaptados aos princípios do presente decreto-lei através de legislação própria."
+  },
+  "48651875": {
+   "fragment_id": "35779975",
+   "type": 11,
+   "heading": "Artigo 2.º — Normas revogadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Normas revogadas\n\nSão revogadas todas as normas que estabelecem acréscimos de tempo de serviço e regimes de aposentação ou reforma antecipada no âmbito da Caixa Geral de Aposentações, designadamente os constantes das seguintes disposições:\n\na) Artigos 90.º e 101.º do Decreto-Lei n.º 633/76, de 28 de Julho, que criou o Instituto Nacional de Meteorologia e Geofísica e estabeleceu a sua orgânica geral, na redacção e numeração dadas pelo Decreto-Lei n.º 335/81, de 9 de Dezembro;\n\nb) Portaria n.º 496/78, de 30 de Agosto, que determinou que o tempo de serviço prestado pelo pessoal dos extintos Serviço Meteorológico Nacional e Serviços Meteorológicos do Ultramar fosse acrescido, para efeitos de aposentação, das percentagens referidas no artigo 91.º do Decreto-Lei n.º 633/76, de 28 de Julho, alterado pelo Decreto-Lei n.º 335/81, de 9 de Dezembro;\n\nc) Artigo 72.º do Decreto-Lei n.º 361/78, de 27 de Novembro, que aprovou o Estatuto do Pessoal do Instituto Nacional de Pilotagem dos Portos, com as alterações do Decreto-Lei n.º 188/89, de 3 de Junho;\n\nd) N.os 2 e 3 do artigo 96.º do Decreto-Lei n.º 513/80, de 28 de Outubro, que aprovou a organização do Instituto Geográfico e Cadastral (IGC);\n\ne) Artigo 1.º do Decreto-Lei n.º 171/81, de 24 de Junho, que estabeleceu normas sobre a prestação de serviço como conservador e notário nas Regiões Autónomas;\n\nf) Artigo 3.º do Decreto Regulamentar n.º 38/82, de 7 de Julho, alterado pelo Decreto-Lei n.º 300/91, de 16 de Agosto, que atribuiu um subsídio aos funcionários da Direcção-Geral dos Serviços Prisionais destinado a compensar as condições de risco específicas das actividades relacionadas com estabelecimentos prisionais;\n\ng) Artigo 18.º do Estatuto do Pessoal das Portagens, aprovado pelo Decreto-Lei n.º 360/83, de 14 de Setembro;\n\nh) Artigo 39.º do Decreto-Lei n.º 225/85, de 4 de Julho, que estabeleceu a orgânica do Serviço de Informações de Segurança, com as alterações do Decreto-Lei n.º 245/95, de 14 de Setembro;\n\ni) Artigo 182.º-A do Decreto-Lei n.º 376/87, de 11 de Dezembro, que aprovou a Lei Orgânica das Secretarias Judiciais e o Estatuto dos Funcionários de Justiça, com as alterações dos Decretos-Leis n.os 167/89, de 23 de Maio, 378/91, de 9 de Outubro, e 364/93, de 22 de Outubro;\n\nj) Artigo 81.º do Decreto-Lei n.º 387-C/87, de 29 de Dezembro, que reestruturou os institutos de medicina legal;\n\nl) Artigo 3.º do Decreto-Lei n.º 66/88, de 1 de Março, que criou incentivos à colocação nas Regiões Autónomas para os conservadores, notários e funcionários dos registos e do notariado, no que respeita à aposentação;\n\nm) Artigo 11.º do Decreto-Lei n.º 466/88, de 15 de Dezembro, que extinguiu a Comissão Reguladora dos Produtos Químicos e Farmacêuticos, o Instituto dos Produtos Florestais e o Instituto dos Têxteis;\n\nn) N.º 1 do artigo 13.º e n.º 6 do artigo 39.º do Decreto-Lei n.º 73/90, de 6 de Março, que aprovou o regime das carreiras médicas, com a redacção do Decreto-Lei n.º 412/99, de 15 de Outubro;\n\no) Artigos 104.º, 118.º, 120.º e 127.º do Decreto-Lei n.º 139-A/90, de 28 de Abril, que aprovou o Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, com as alterações do Decreto-Lei n.º 1/98, de 2 de Janeiro;\n\np) N.º 2 do artigo 30.º do Decreto-Lei n.º 414/91, de 22 de Outubro, que define o regime legal da carreira de técnicos superiores de saúde dos serviços e estabelecimentos do Ministério da Saúde e da Santa Casa da Misericórdia de Lisboa;\n\nq) N.º 8 do artigo 55.º e artigo 62.º do Decreto-Lei n.º 437/91, de 8 de Novembro, que aprovou o regime legal da carreira de enfermagem;\n\nr) Artigo 40.º do Decreto-Lei n.º 254/95, de 30 de Setembro, que estabeleceu a orgânica de Serviço de Informações Estratégicas de Defesa e Militares (SIEDM);\n\ns) Artigo 8.º do Decreto-Lei n.º 111/98, de 24 de Abril, que revalorizou a carreira de guarda florestal da Direcção-Geral das Florestas;\n\nt) Artigo 14.º do Decreto-Lei n.º 470/99, de 17 de Novembro, que unificou e reestruturou as carreiras de vigilante da natureza e de guarda da natureza dos quadros de pessoal do Ministério do Ambiente;\n\nu) N.º 7 do artigo 75.º do Decreto-Lei n.º 564/99, de 21 de Dezembro, que estabelece o estatuto legal da carreira de técnico de diagnóstico e terapêutica;\n\nv) N.º 2 do n.º 36.º da Portaria n.º 1098/99, de 21 de Dezembro, que estabeleceu as tabelas salariais e outras remunerações específicas, o mapa de pessoal e a descrição de funções das carreiras e categorias profissionais, bem como os critérios a considerar no recrutamento para os cargos de direcção e chefia e o respectivo regime de substituição, do pessoal das administrações portuárias, com as alterações da Portaria n.º 1182/2004, de 14 de Setembro;\n\nx) N.os 9 e 10 do artigo 67.º do Decreto-Lei n.º 204-A/2001, de 26 de Julho, que aprovou a Lei Orgânica do Instituto de Reinserção Social;\n\nz) N.º 1 do artigo 9.º e artigos 71.º e 72.º do estatuto do pessoal do Serviço de Estrangeiros e Fronteiras (SEF), aprovado pelo Decreto-Lei n.º 290-A/2001, de 17 de Novembro;\n\naa) Artigo 33.º do Decreto-Lei n.º 46/2004, de 3 de Março, que aprovou a orgânica da Inspecção-Geral das Actividades Económicas (IGAE)."
+  },
+  "48651975": {
+   "fragment_id": "35780075",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de aposentação\n\n1 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, a partir de 1 de Janeiro de 2015, aposenta-se obrigatoriamente quando atinge os 65 anos de idade ou voluntariamente quando completa 60 anos de idade e o prazo de garantia do regime geral de segurança social:\n\na) O pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras;\n\nb) O pessoal da carreira de guarda florestal da Direcção-Geral dos Recursos Florestais ou do organismo que lhe suceda;\n\nc) Os funcionários e agentes integrados no Sistema de Informações da República Portuguesa (SIRP), desde que contem, pelo menos, oito anos de serviço nestes organismos;\n\nd) O pessoal do Corpo da Guarda Prisional em serviço nos estabelecimentos prisionais e no grupo de intervenção e segurança prisional da Direcção-Geral dos Serviços Prisionais;\n\ne) O pessoal das carreiras de inspecção da IGAE ou do organismo que lhe suceda, desde que conte, pelo menos, cinco anos de serviço efectivo nas carreiras de inspecção.\n\n2 - O pessoal referido no número anterior beneficia de um acréscimo de 15% de tempo de serviço para efeitos de aposentação em relação ao serviço prestado naquelas carreiras e organismos.\n\n3 - Ficam revogadas todas as disposições legais que contrariem o disposto nos números anteriores, designadamente as que prevêem a passagem à aposentação ou reforma por renúncia à situação de pré-aposentação ou disponibilidade.\n\n4 - A desligação do serviço e a passagem à situação de aposentação do pessoal abrangido pelo disposto nos números anteriores processa-se nos termos do Estatuto da Aposentação."
+  },
+  "48652075": {
+   "fragment_id": "35780175",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de passagem à disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de passagem à disponibilidade\n\n1 - O pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras e o pessoal do Corpo da Guarda Prisional em serviço nos estabelecimentos prisionais e no grupo de intervenção e segurança prisional da Direcção-Geral dos Serviços Prisionais passa à disponibilidade:\n\na) Obrigatoriamente, quando atinge 60 anos de idade, excepto se se encontrar em comissão de serviço em cargo dirigente, podendo neste caso terminar a respectiva comissão;\n\nb) Voluntariamente, quando conta, pelo menos, 55 anos de idade e 36 anos de serviço.\n\n2 - Na situação de disponibilidade, o funcionário presta serviço compatível com o seu estado físico e intelectual, em conformidade com os respectivos conhecimentos e experiência e com as necessidades e conveniências dos serviços, não lhe podendo ser cometido o exercício de funções de chefia.\n\n3 - O regime de prestação de serviço na disponibilidade é definido por portaria do ministro do qual dependem os serviços nos quais se insere o pessoal referido no n.º 1.\n\n4 - A remuneração do funcionário na situação de disponibilidade é igual à que teria direito se estivesse no activo.\n\n5 - O tempo de serviço no SEF e no Corpo da Guarda Prisional e no grupo de intervenção e segurança prisional da Direcção-Geral dos Serviços Prisionais relevante para o cálculo da pensão de aposentação inclui todo o período no qual sejam efectuados descontos, incluindo o decorrido na situação de disponibilidade."
+  },
+  "863008663": {
+   "fragment_id": "35780275",
+   "type": 11,
+   "heading": "Artigo 5.º — Regimes transitórios",
+   "in_force_from": "2009-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 77/2009 - Diário da República n.º 156/2009, Série I de 2009-08-13](https://diariodarepublica.pt/dr/detalhe/lei/77-2009-493501), em vigor a partir de 2009-09-01"
+   ],
+   "markdown": "###### Artigo 5.º — Regimes transitórios\n\n1 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, o pessoal da carreira de guarda florestal pode, até 31 de Dezembro de 2014, aposentar-se, desde que tenha a idade mínima estabelecida no anexo I.\n\n2 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, até 31 de Dezembro de 2021 podem aposentar-se, desde que tenham a idade mínima estabelecida no anexo II:\n\na) Os vigilantes da natureza;\n\nb) Os oficiais de justiça.\n\n3 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, até 31 de Dezembro de 2014 podem aposentar-se, desde que tenham a idade mínima estabelecida no anexo I e 36 anos de serviço:\n\na) Os funcionários e agentes com, pelo menos, oito anos de serviço prestado nos serviços integrados no SIRP;\n\nb) O pessoal das carreiras de inspecção da IGAE com, pelo menos, cinco anos de serviço nas carreiras de inspecção.\n\n4 - O pessoal da carreira de investigação e fiscalização do SEF que tenha a idade estabelecida no anexo I e 36 anos de serviço pode, até 31 de Dezembro de 2014, requerer que lhe seja aplicável o regime de passagem à disponibilidade vigente até 31 de Dezembro de 2005.\n\n5 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, o pessoal da carreira de investigação e fiscalização do SEF pode, até 31 de Dezembro de 2014, aposentar-se, sem redução da pensão, nos termos vigentes até 31 de Dezembro de 2005, desde que:\n\na) Tendo passado à disponibilidade, ao abrigo do número anterior, complete cinco anos nessa situação;\n\nb) Tenha 55 anos de idade e o tempo de serviço estabelecido no anexo III;\n\nc) Tenha 36 anos de serviço e a idade estabelecida no anexo I.\n\n6 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, os enfermeiros podem, até 31 de Dezembro de 2018, aposentar-se, desde que tenham a idade e o tempo de serviço mínimos estabelecidos nos anexos IV e V, considerando-se, para o cálculo da pensão, como carreira completa a do anexo VI.\n\n7 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, os educadores de infância e os professores do 1.º ciclo do ensino básico do ensino público em regime de monodocência podem aposentar-se:\n\na) Até 31 de Dezembro de 2021, desde que tenham a idade e o tempo de serviço estabelecidos nos anexos II e VII, considerando-se, para o cálculo da pensão, como carreira completa a do anexo VIII; ou, em alternativa\n\nb) Até 31 de Dezembro de 2010, desde que, possuindo, em 31 de Dezembro de 1989, 13 ou mais anos de serviço docente, tenham, pelo menos, 52 anos de idade e 32 anos de serviço, considerando-se para o cálculo de pensão como carreira completa 32 anos de serviço.\n\n8 - Para efeitos do disposto no número anterior, na contagem de tempo de serviço prestado até 31 de Agosto de 2006 não são considerados os períodos referidos nos artigos 36.º e 37.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.\n\n9 - Para os efeitos previstos no n.º 7 do presente artigo, na contagem do tempo de serviço prestado a partir de 1 de Setembro de 2006 apenas são considerados os períodos correspondentes ao exercício efectivo de funções docentes em regime de monodocência, incluindo o tempo de exercício de cargos de direcção executiva em escolas ou agrupamentos de escolas públicas, não se considerando qualquer outro tempo de serviço, nomeadamente o prestado:\n\na) Em regime de requisição, comissão de serviço ou destacamento, ainda que em funções técnico-pedagógicas;\n\nb) Em outros níveis ou graus de ensino;\n\nc) Com dispensa da componente lectiva.\n\n10 - Até 31 de Dezembro de 2014, a idade legal de aposentação voluntária do pessoal do Corpo da Guarda Prisional continua a ser de 60 anos.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 77/2009 - Diário da República n.º 156/2009, Série I de 2009-08-13](https://diariodarepublica.pt/dr/detalhe/lei/77-2009-493501), em vigor a partir de 2009-09-01"
+  },
+  "48652275": {
+   "fragment_id": "35780375",
+   "type": 11,
+   "heading": "Artigo 6.º — Salvaguarda de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Salvaguarda de direitos\n\n1 - Os subscritores da Caixa Geral de Aposentações que até 31 de Dezembro de 2005 reúnam as condições para passagem à disponibilidade ou de aposentação fixadas nos regimes alterados pelo presente decreto-lei podem passar a essas situações de acordo com o regime legal que lhes seria aplicável naquela data, independentemente do momento em que se apresentem a requerê-la.\n\n2 - A revogação operada pelo artigo 2.º não prejudica a aplicação dos acréscimos de tempo previstos nas normas nele referidas ao tempo de serviço prestado até 31 de Dezembro de 2005."
+  },
+  "48652375": {
+   "fragment_id": "35780475",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor em 1 de Janeiro de 2006."
+  },
+  "48735975": {
+   "fragment_id": "35781375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Novembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Luís Medeiros Vieira - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - Francisco Ventura Ramos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago.\n\nPromulgado em 21 de Dezembro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Dezembro de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "48652475": {
+   "fragment_id": "35780575",
+   "type": 14,
+   "heading": "Anexo I — [referido nos n.os 1, 3 e 4 e na alínea c) do n.º 5 do artigo 5.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [referido nos n.os 1, 3 e 4 e na alínea c) do n.º 5 do artigo 5.º]\n\nA partir de 1 de Janeiro de 2006 - 55 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 56 anos.\n\nA partir de 1 de Janeiro de 2008 - 56 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 57 anos.\n\nA partir de 1 de Janeiro de 2010 - 57 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 58 anos.\n\nA partir de 1 de Janeiro de 2012 - 58 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 59 anos.\n\nA partir de 1 de Janeiro de 2014 - 59 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 60 anos."
+  },
+  "48652575": {
+   "fragment_id": "35780675",
+   "type": 14,
+   "heading": "Anexo II — [referido no n.º 2 e na alínea a) do n.º 7 do artigo 5.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — [referido no n.º 2 e na alínea a) do n.º 7 do artigo 5.º]\n\nA partir de 1 de Janeiro de 2006 - 55 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 56 anos.\n\nA partir de 1 de Janeiro de 2008 - 56 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 57 anos.\n\nA partir de 1 de Janeiro de 2010 - 57 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 58 anos.\n\nA partir de 1 de Janeiro de 2012 - 58 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 59 anos.\n\nA partir de 1 de Janeiro de 2014 - 59 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 60 anos e 3 meses.\n\nA partir de 1 de Janeiro de 2016 - 61 anos.\n\nA partir de 1 de Janeiro de 2017 - 61 anos e 9 meses.\n\nA partir de 1 de Janeiro de 2018 - 62 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2019 - 63 anos e 3 meses.\n\nA partir de 1 de Janeiro de 2020 - 64 anos.\n\nA partir de 1 de Janeiro de 2021 - 64 anos e 9 meses.\n\nA partir de 1 de Janeiro de 2022 - 65 anos."
+  },
+  "48652675": {
+   "fragment_id": "35780775",
+   "type": 14,
+   "heading": "Anexo III — [referido na alínea b) do n.º 5 do artigo 5.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — [referido na alínea b) do n.º 5 do artigo 5.º]\n\nA partir de 1 de Janeiro de 2006 - 36 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 37 anos.\n\nA partir de 1 de Janeiro de 2008 - 37 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 38 anos.\n\nA partir de 1 de Janeiro de 2010 - 38 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 39 anos.\n\nA partir de 1 de Janeiro de 2012 - 39 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 40 anos."
+  },
+  "48652775": {
+   "fragment_id": "35780875",
+   "type": 14,
+   "heading": "Anexo IV — (referido no n.º 6 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (referido no n.º 6 do artigo 5.º)\n\nA partir de 1 de Janeiro de 2006 - 57 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 58 anos.\n\nA partir de 1 de Janeiro de 2008 - 58 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 59 anos.\n\nA partir de 1 de Janeiro de 2010 - 59 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 60 anos.\n\nA partir de 1 de Janeiro de 2012 - 60 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 61 anos.\n\nA partir de 1 de Janeiro de 2014 - 61 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 62 anos e 3 meses.\n\nA partir de 1 de Janeiro de 2016 - 63 anos.\n\nA partir de 1 de Janeiro de 2017 - 63 anos e 9 meses.\n\nA partir de 1 de Janeiro de 2018 - 64 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2019 - 65 anos."
+  },
+  "48652875": {
+   "fragment_id": "35780975",
+   "type": 14,
+   "heading": "Anexo V — (referido no n.º 6 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (referido no n.º 6 do artigo 5.º)\n\nA partir de 1 de Janeiro de 2006 - 35 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 36 anos."
+  },
+  "48652975": {
+   "fragment_id": "35781075",
+   "type": 14,
+   "heading": "Anexo VI — (referido no n.º 6 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — (referido no n.º 6 do artigo 5.º)\n\nA partir de 1 de Janeiro de 2006 - 35 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 36 anos.\n\nA partir de 1 de Janeiro de 2008 - 36 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 37 anos.\n\nA partir de 1 de Janeiro de 2010 - 37 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 38 anos.\n\nA partir de 1 de Janeiro de 2012 - 38 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 39 anos.\n\nA partir de 1 de Janeiro de 2014 - 39 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 40 anos."
+  },
+  "48653075": {
+   "fragment_id": "35781175",
+   "type": 14,
+   "heading": "Anexo VII — [referido na alínea a) do n.º 7 do artigo 5.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — [referido na alínea a) do n.º 7 do artigo 5.º]\n\nA partir de 1 de Janeiro de 2006 - 30 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 31 anos.\n\nA partir de 1 de Janeiro de 2008 - 31 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 32 anos.\n\nA partir de 1 de Janeiro de 2010 - 32 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 33 anos.\n\nA partir de 1 de Janeiro de 2012 - 33 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 34 anos.\n\nA partir de 1 de Janeiro de 2014 - 34 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 35 anos e 3 meses.\n\nA partir de 1 de Janeiro de 2016 - 36 anos."
+  },
+  "48653175": {
+   "fragment_id": "35781275",
+   "type": 14,
+   "heading": "Anexo VIII — [referido na alínea a) do n.º 7 do artigo 5.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — [referido na alínea a) do n.º 7 do artigo 5.º]\n\nA partir de 1 de Janeiro de 2006 - 30 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 31 anos.\n\nA partir de 1 de Janeiro de 2008 - 31 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 32 anos.\n\nA partir de 1 de Janeiro de 2010 - 32 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 33 anos.\n\nA partir de 1 de Janeiro de 2012 - 33 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 34 anos.\n\nA partir de 1 de Janeiro de 2014 - 34 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 35 anos e 3 meses.\n\nA partir de 1 de Janeiro de 2016 - 36 anos.\n\nA partir de 1 de Janeiro de 2017 - 36 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2018 - 37 anos.\n\nA partir de 1 de Janeiro de 2019 - 37 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2020 - 38 anos.\n\nA partir de 1 de Janeiro de 2021 - 38 anos e 6 meses."
+  },
+  "863008664": {
+   "fragment_id": "35780275",
+   "type": 11,
+   "heading": "Artigo 5.º — Regimes transitórios",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 77/2009 - Diário da República n.º 156/2009, Série I de 2009-08-13](https://diariodarepublica.pt/dr/detalhe/lei/77-2009-493501), em vigor a partir de 2009-09-01"
+   ],
+   "markdown": "###### Artigo 5.º — Regimes transitórios\n\n1 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, o pessoal da carreira de guarda florestal pode, até 31 de Dezembro de 2014, aposentar-se, desde que tenha a idade mínima estabelecida no anexo I.\n\n2 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, até 31 de Dezembro de 2021 podem aposentar-se, desde que tenham a idade mínima estabelecida no anexo II:\n\na) Os vigilantes da natureza;\n\nb) Os oficiais de justiça.\n\n3 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, até 31 de Dezembro de 2014 podem aposentar-se, desde que tenham a idade mínima estabelecida no anexo I e 36 anos de serviço:\n\na) Os funcionários e agentes com, pelo menos, oito anos de serviço prestado nos serviços integrados no SIRP;\n\nb) O pessoal das carreiras de inspecção da IGAE com, pelo menos, cinco anos de serviço nas carreiras de inspecção.\n\n4 - O pessoal da carreira de investigação e fiscalização do SEF que tenha a idade estabelecida no anexo I e 36 anos de serviço pode, até 31 de Dezembro de 2014, requerer que lhe seja aplicável o regime de passagem à disponibilidade vigente até 31 de Dezembro de 2005.\n\n5 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, o pessoal da carreira de investigação e fiscalização do SEF pode, até 31 de Dezembro de 2014, aposentar-se, sem redução da pensão, nos termos vigentes até 31 de Dezembro de 2005, desde que:\n\na) Tendo passado à disponibilidade, ao abrigo do número anterior, complete cinco anos nessa situação;\n\nb) Tenha 55 anos de idade e o tempo de serviço estabelecido no anexo III;\n\nc) Tenha 36 anos de serviço e a idade estabelecida no anexo I.\n\n6 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, os enfermeiros podem, até 31 de Dezembro de 2018, aposentar-se, desde que tenham a idade e o tempo de serviço mínimos estabelecidos nos anexos IV e V, considerando-se, para o cálculo da pensão, como carreira completa a do anexo VI.\n\n7 - Sem prejuízo das modalidades previstas no Estatuto da Aposentação, os educadores de infância e os professores do 1.º ciclo do ensino básico do ensino público em regime de monodocência podem aposentar-se:\n\na) Até 31 de Dezembro de 2021, desde que tenham a idade e o tempo de serviço estabelecidos nos anexos II e VII, considerando-se, para o cálculo da pensão, como carreira completa a do anexo VIII; ou, em alternativa\n\nb) Até 31 de Dezembro de 2010, desde que, possuindo, em 31 de Dezembro de 1989, 13 ou mais anos de serviço docente, tenham, pelo menos, 52 anos de idade e 32 anos de serviço, considerando-se para o cálculo de pensão como carreira completa 32 anos de serviço.\n\n8 - Para efeitos do disposto no número anterior, na contagem de tempo de serviço prestado até 31 de Agosto de 2006 não são considerados os períodos referidos nos artigos 36.º e 37.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.\n\n9 - Para os efeitos previstos no n.º 7 do presente artigo, na contagem do tempo de serviço prestado a partir de 1 de Setembro de 2006 apenas são considerados os períodos correspondentes ao exercício efectivo de funções docentes em regime de monodocência, incluindo o tempo de exercício de cargos de direcção executiva em escolas ou agrupamentos de escolas públicas, não se considerando qualquer outro tempo de serviço, nomeadamente o prestado:\n\na) Em regime de requisição, comissão de serviço ou destacamento, ainda que em funções técnico-pedagógicas;\n\nb) Em outros níveis ou graus de ensino;\n\nc) Com dispensa da componente lectiva.\n\n10 - Até 31 de Dezembro de 2014, a idade legal de aposentação voluntária do pessoal do Corpo da Guarda Prisional continua a ser de 60 anos.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 77/2009 - Diário da República n.º 156/2009, Série I de 2009-08-13](https://diariodarepublica.pt/dr/detalhe/lei/77-2009-493501), em vigor a partir de 2009-09-01"
+  },
+  "863008665": {
+   "fragment_id": "35780575",
+   "type": 14,
+   "heading": "Anexo I — [referido nos n.os 1, 3 e 4 e na alínea c) do n.º 5 do artigo 5.º]",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "## Anexo I — [referido nos n.os 1, 3 e 4 e na alínea c) do n.º 5 do artigo 5.º]\n\nA partir de 1 de Janeiro de 2006 - 55 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 56 anos.\n\nA partir de 1 de Janeiro de 2008 - 56 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 57 anos.\n\nA partir de 1 de Janeiro de 2010 - 57 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 58 anos.\n\nA partir de 1 de Janeiro de 2012 - 58 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 59 anos.\n\nA partir de 1 de Janeiro de 2014 - 59 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 60 anos.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "863008666": {
+   "fragment_id": "35780675",
+   "type": 14,
+   "heading": "Anexo II — [referido no n.º 2 e na alínea a) do n.º 7 do artigo 5.º]",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "## Anexo II — [referido no n.º 2 e na alínea a) do n.º 7 do artigo 5.º]\n\nA partir de 1 de Janeiro de 2006 - 55 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 56 anos.\n\nA partir de 1 de Janeiro de 2008 - 56 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 57 anos.\n\nA partir de 1 de Janeiro de 2010 - 57 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 58 anos.\n\nA partir de 1 de Janeiro de 2012 - 58 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 59 anos.\n\nA partir de 1 de Janeiro de 2014 - 59 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 60 anos e 3 meses.\n\nA partir de 1 de Janeiro de 2016 - 61 anos.\n\nA partir de 1 de Janeiro de 2017 - 61 anos e 9 meses.\n\nA partir de 1 de Janeiro de 2018 - 62 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2019 - 63 anos e 3 meses.\n\nA partir de 1 de Janeiro de 2020 - 64 anos.\n\nA partir de 1 de Janeiro de 2021 - 64 anos e 9 meses.\n\nA partir de 1 de Janeiro de 2022 - 65 anos.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "863008667": {
+   "fragment_id": "35780775",
+   "type": 14,
+   "heading": "Anexo III — [referido na alínea b) do n.º 5 do artigo 5.º]",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "## Anexo III — [referido na alínea b) do n.º 5 do artigo 5.º]\n\nA partir de 1 de Janeiro de 2006 - 36 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 37 anos.\n\nA partir de 1 de Janeiro de 2008 - 37 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 38 anos.\n\nA partir de 1 de Janeiro de 2010 - 38 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 39 anos.\n\nA partir de 1 de Janeiro de 2012 - 39 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 40 anos.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "863008668": {
+   "fragment_id": "35780875",
+   "type": 14,
+   "heading": "Anexo IV — (referido no n.º 6 do artigo 5.º)",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "## Anexo IV — (referido no n.º 6 do artigo 5.º)\n\nA partir de 1 de Janeiro de 2006 - 57 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 58 anos.\n\nA partir de 1 de Janeiro de 2008 - 58 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 59 anos.\n\nA partir de 1 de Janeiro de 2010 - 59 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 60 anos.\n\nA partir de 1 de Janeiro de 2012 - 60 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 61 anos.\n\nA partir de 1 de Janeiro de 2014 - 61 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 62 anos e 3 meses.\n\nA partir de 1 de Janeiro de 2016 - 63 anos.\n\nA partir de 1 de Janeiro de 2017 - 63 anos e 9 meses.\n\nA partir de 1 de Janeiro de 2018 - 64 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2019 - 65 anos.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "863008669": {
+   "fragment_id": "35780975",
+   "type": 14,
+   "heading": "Anexo V — (referido no n.º 6 do artigo 5.º)",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "## Anexo V — (referido no n.º 6 do artigo 5.º)\n\nA partir de 1 de Janeiro de 2006 - 35 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 36 anos.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "863008670": {
+   "fragment_id": "35781075",
+   "type": 14,
+   "heading": "Anexo VI — (referido no n.º 6 do artigo 5.º)",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "## Anexo VI — (referido no n.º 6 do artigo 5.º)\n\nA partir de 1 de Janeiro de 2006 - 35 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 36 anos.\n\nA partir de 1 de Janeiro de 2008 - 36 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 37 anos.\n\nA partir de 1 de Janeiro de 2010 - 37 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 38 anos.\n\nA partir de 1 de Janeiro de 2012 - 38 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 39 anos.\n\nA partir de 1 de Janeiro de 2014 - 39 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 40 anos.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "863008671": {
+   "fragment_id": "35781175",
+   "type": 14,
+   "heading": "Anexo VII — [referido na alínea a) do n.º 7 do artigo 5.º]",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "## Anexo VII — [referido na alínea a) do n.º 7 do artigo 5.º]\n\nA partir de 1 de Janeiro de 2006 - 30 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 31 anos.\n\nA partir de 1 de Janeiro de 2008 - 31 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 32 anos.\n\nA partir de 1 de Janeiro de 2010 - 32 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 33 anos.\n\nA partir de 1 de Janeiro de 2012 - 33 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 34 anos.\n\nA partir de 1 de Janeiro de 2014 - 34 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 35 anos e 3 meses.\n\nA partir de 1 de Janeiro de 2016 - 36 anos.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "863008672": {
+   "fragment_id": "35781275",
+   "type": 14,
+   "heading": "Anexo VIII — [referido na alínea a) do n.º 7 do artigo 5.º]",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "## Anexo VIII — [referido na alínea a) do n.º 7 do artigo 5.º]\n\nA partir de 1 de Janeiro de 2006 - 30 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 31 anos.\n\nA partir de 1 de Janeiro de 2008 - 31 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 32 anos.\n\nA partir de 1 de Janeiro de 2010 - 32 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 33 anos.\n\nA partir de 1 de Janeiro de 2012 - 33 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 34 anos.\n\nA partir de 1 de Janeiro de 2014 - 34 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2015 - 35 anos e 3 meses.\n\nA partir de 1 de Janeiro de 2016 - 36 anos.\n\nA partir de 1 de Janeiro de 2017 - 36 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2018 - 37 anos.\n\nA partir de 1 de Janeiro de 2019 - 37 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2020 - 38 anos.\n\nA partir de 1 de Janeiro de 2021 - 38 anos e 6 meses.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  }
+ }
+}

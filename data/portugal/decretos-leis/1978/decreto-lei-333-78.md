@@ -1,0 +1,237 @@
+---
+schema_version: '1.0'
+id: pt:dre:325934:por
+title: Decreto-Lei n.º 333/78
+short_title: null
+summary: Autoriza a Petrogal a estabelecer uma zona franca nas instalações do seu complexo industrial na região de Sines
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 333/78
+official_date: null
+publication_date: '1978-11-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 262/1978, Série I de 1978-11-14
+  number: '262'
+  series: I
+  supplement: null
+  pages: 2369 - 2371
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/11/26200/23692371.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '325934'
+  dre_path: /dr/detalhe/decreto-lei/333-1978-325934
+  internal: pt:dre:325934:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1978-325934
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1978-325934
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:14:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c937720ddd2a6cc370c5a8d786963b6a4a3bda0d5ffcfbea29c9b60926ea01e8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alfândega
+- Controlo Aduaneiro
+- Gabinete da Área de Sines
+- Petrogal
+- Posto Fiscal
+- Sines
+- Zona Franca
+relationships:
+- type: amended_by
+  target: pt:dre:1718244:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:1718244:por
+  label: "Extinto o posto fiscal pela PORT.835/2004(2ªSérie).08.06.2004.MF, DR.IIS [173] de 24.07.2004\004\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/835-2004-1718244
+  date: '2004-06-08'
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:14:23Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 333/78
+
+de 14 de Novembro
+
+Considerando a dimensão do complexo industrial petrolífero de Sines, que possibilita uma capacidade de armazenagem da ordem dos 2,5 milhões de metros cúbicos de produtos petrolíferos;
+
+Atendendo a que o escoamento se processará para navios, carros-tanques e vagões, com sistemas de medições de temperaturas e de níveis controlados por processos complexos;
+
+Verificando-se a possibilidade de operações permanentes de bombagem, implicando uma maior flexibilidade dos métodos de contrôle aduaneiro:
+
+Há que criar uma zona franca no complexo petrolífero de Sines, pelo que:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - É autorizada a Petrogal a estabelecer uma zona franca nas instalações do seu complexo industrial na região de Sines.
+
+2 - A zona será exteriormente resguardada por uma vedação, de conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, fazendo-se todo o movimento de entrada e de saída por portões devidamente fiscalizados, nas condições que vierem a ser aprovadas pela Alfândega, e através das tubagens aprovadas para o efeito.
+
+3 - Para os fins do disposto no § único do artigo 144.º da Reforma Aduaneira, referida no número antecedente, o Gabinete da Área de Sines deverá promover a pavimentação do lado exterior da zona, de modo a possibilitar a circulação de veículos automóveis utilizados pela fiscalização.
+
+4 - A zona franca não poderá funcionar sem que seja aprovada pela Direcção-Geral das Alfândegas.
+
+Art. 2.º Junto da zona franca e a ela contígua funcionará uma estância aduaneira, subordinada à Alfândega de Lisboa, cujas despesas de instalação e manutenção constituirão encargo da referida empresa, nos termos que forem indicados pela Direcção-Geral das Alfândegas.
+
+Art. 3.º Junto da zona franca funcionará também um posto fiscal com os efectivos julgados necessários para o seu conveniente funcionamento, de harmonia com as instruções especiais aduaneiras, sendo todas as despesas de instalação e manutenção do posto encargo da referida empresa. A instalação deverá ser aprovada pelo Comando-Geral da Guarda Fiscal.
+
+Art. 4.º O Gabinete da Área de Sines promoverá a construção de residências para o pessoal colocado na estância aduaneira e no posto fiscal, em conformidade com os programas elaborados pela Direcção-Geral das Alfândegas e Comando-Geral da Guarda Fiscal, respectivamente, ficando desde já obrigado a fornecer habitação enquanto tal construção se não concluir.
+
+Art. 5.º Sempre que o entenda conveniente, a Alfândega mandará visitar a zona franca, podendo fazê-lo em relação a todas as dependências, examinar documentos e livros e exigir os esclarecimentos que julgue necessários, a fim de averiguar das condições de segurança fiscal da referida zona.
+
+Art. 6.º - 1 - As matérias-primas, materiais, máquinas e aparelhos procedentes do estrangeiro, necessários para a construção, montagem e laboração das instalações fabris, entrarão no recinto da zona franca mediante o bilhete de entrada referido no § 2.º do artigo 146.º da Reforma Aduaneira, de modelo adequado às condições especiais do serviço aduaneiro, previamente aprovado pela Direcção-Geral das Alfândegas, mediante proposta da Alfândega de Lisboa.
+
+2 - No caso de a empresa prever que algum material, máquina ou aparelho tenha de ser retirado do recinto para entrar no consumo, poderá pedir, aquando da sua entrada na zona, que sejam tomados os elementos necessários para a sua identificação.
+
+3 - A simplificação de formalidades na entrada de mercadorias estrangeiras na zona franca não dispensa a apresentação do competente boletim de registo, para comprovação de ter sido dado cumprimento às disposições relativas ao comércio externo. Quando se tratar de máquinas, aparelhos e outros bens de equipamento, o boletim de registo será emitido precedendo parecer favorável do organismo oficial competente para comprovação de haverem sido utilizadas, no máximo, as possibilidades de recurso à indústria nacional.
+
+Art. 7.º - 1 - A entrada de mercadorias nacionais ou nacionalizadas no recinto da zona franca far-se-á, sempre que a Alfândega o considere conveniente, mediante a apresentação de relações dessas mercadorias, em duplicado, as quais serão conferidas e visadas pela fiscalização aduaneira, ficando arquivado nos seus serviços um dos exemplares e entregando-se o outro à interessada.
+
+2 - No caso de a empresa prever que algum material tenha de ser retirado do recinto, poderá pedir que a estância aduaneira tome as confrontações necessárias para futura identificação.
+
+3 - É livre a entrada e saída de veículos de matrícula nacional que se destinem à movimentação de cargas na zona franca, sem embargo de ficarem sujeitos à fiscalização julgada necessária, na entrada e na saída.
+
+Art. 8.º As mercadorias que não puderem ser identificadas como nacionais ou nacionalizadas ficam sujeitas ao pagamento de direitos de importação, no estado em que se encontrem, se forem retiradas da zona franca para consumo no País.
+
+Art. 9.º - 1 - A entrada na zona franca de máquinas, aparelhos, ferramentas e utensílios de trabalho que não sejam nacionais ou nacionalizados, destinados a utilização temporária, far-se-á mediante o processamento de guia especial, sem prestação de garantia, mas com verificação e reverificação e tomada de sinais para futuras confrontações.
+
+2 - Estas guias serão registadas e transcritas num livro existente na estância aduaneira, sendo nele dada baixa da respectiva mercadoria sempre que se efectue a correspondente saída da zona franca.
+
+3 - A reexportação será feita no prazo de seis meses, com o processamento da respectiva guia.
+
+4 - O prazo a que se refere o número anterior poderá ser prorrogado pela chefia da estância aduaneiro, a solicitação da empresa, em pedido devidamente justificado.
+
+Art. 10.º É livre de direitos a saída da zona franca:
+
+a) Das mercadorias referidas no n.º 2 do artigo 7.º e respectivos desperdícios;
+
+b) Das taras de uso habitual sem inscrição especial na Pauta de Importação e, também, das taras com inscrição especial naquela Pauta, desde que seja comprovada, por parte da Alfândega, a sua inutilização.
+
+Art. 11.º - 1 - É permitida a saída temporária da zona franca de máquinas, aparelhos, ferramentas e utensílios para reparação.
+
+2 - A saída far-se-á mediante garantia dos direitos e com processamento de guia especial, da qual constarão o local em que o trabalho será executado e os sinais para futuras confrontações, sendo a verificação e a reverificação feitas pela Alfândega na saída e no regresso à zona franca.
+
+3 - O regresso deverá ser feito no prazo de seis meses, podendo ser prorrogado pela chefia da estância aduaneira, a solicitação da empresa, mediante pedido devidamente fundamentado.
+
+4 - A guia a que se refere o n.º 2 do presente artigo será registada e transcrita num livro existente na estância aduaneira e nele será dada baixa quando as mercadorias regressarem à zona franca.
+
+Art. 12.º - 1 - A circulação de ferramentas portáteis, nacionais ou nacionalizadas, entre a zona franca e outras instalações afectas à refinaria que fiquem situadas fora daquela zona far-se-á livremente desde que as caixas acondicionadoras, de modelo previamente aprovado pela Alfândega, conservem relações discriminativas, autenticadas pelos serviços aduaneiros.
+
+2 - Por «instalações afectas à refinaria» entendem-se desde já os terminais ou tubagens ligados directamente à zona franca, além das que como tal venham a ser reconhecidas pela Direcção-Geral das Alfândegas, por se integrarem no mesmo complexo industrial e ser a sua manutenção assegurada pelos serviços a esse fim destinados e instalados no recinto da zona franca.
+
+Art. 13.º - 1 - A circulação entre os mesmos locais de ferramentas, de máquinas-ferramentas e utensílios nacionais ou nacionalizados far-se-á livremente desde que se encontrem referenciados com a marca da empresa e com o número de fabrico ou de inventário.
+
+2 - A empresa deverá fornecer previamente à Alfândega listas discriminativas de tais ferramentas, máquinas-ferramentas e utensílios, com a indicação do respectivo número de fabrico ou de inventário.
+
+Art. 14.º - 1 - A circulação entre os mesmos locais de ferramentas, máquinas-ferramentas e utensílios que não se encontrem nas condições mencionadas nos artigos anteriores far-se-á mediante relações, em duplicado, emitidas pela empresa, donde constem, além da indicação do local onde vão ser utilizados, todos os elementos indispensáveis a uma perfeita e rápida identificação e nas quais sejam indicadas as quantidades por cada tipo de ferramenta, máquina-ferramenta ou utensílio.
+
+2 - As ferramentas, máquinas-ferramentas e utensílios estrangeiros que estejam mencionados em listas previamente fornecidas à Alfândega - e que serão distintas das listas a que alude o n.º 2 do artigo 12.º - donde constem todos os elementos indispensáveis a uma perfeita e rápida identificação deverão ter apostas, por forma permanente, chapas de tipo especial, aprovadas pela Alfândega, com indicação do respectivo número de lista, considerando-se, normalmente, que a simples indicação deste número nas relações a que alude o n.º 1 deste artigo é elemento suficiente de identificação.
+
+3 - Tanto no original como no duplicado serão feitas e anotadas as conferências de saída e entrada.
+
+4 - O original permanecerá em poder da Alfândega, que o arquivará depois da entrada das ferramentas, máquinas-ferramentas e utensílios a que se reporta.
+
+5 - O duplicado deverá acompanhar as ferramentas, máquinas-ferramentas e utensílios e, depois da entrada, que deverá verificar-se no prazo de trinta dias, prorrogável pela chefia da estância aduaneira, a pedido justificado da empresa, será por ela arquivado.
+
+Art. 15.º - 1 - A saída da zona franca para as «instalações afectas à refinaria» de materiais destinados à sua manutenção far-se-á por meio de relações, em duplicado, emitidas pela empresa, donde constem a quantidade e qualidade dos materiais, a indicação do local onde vão ser utilizados e os demais elementos necessários para a respectiva classificação pautal, que serão conferidos pela verificação aduaneira.
+
+2 - Com base nesta relação serão feitas as conferências de saída e entrada no despacho de importação da parte dos materiais que não regressar à zona franca dentro do prazo de noventa dias, prorrogáveis nas mesmas condições dos artigos anteriores.
+
+3 - O original da relação permanecerá na Alfândega e o duplicado, que deverá acompanhar os materiais, será entregue à empresa.
+
+Art. 16.º - 1 - A entrada no recinto da zona franca, para reparação ou beneficiação, de peças, aparelhos e maquinismos das «instalações afectas à refinaria» far-se-á por meio de relações, em duplicado, emitidas pela empresa, donde constem todos os elementos de identificação daqueles objectos, nomeadamente a sua natureza, marcas, número de fabrico e quantidades e ainda a indicação da «instalação» a que pertencem.
+
+2 - Com base nestas relações serão feitas e anotadas as conferências de entrada e saída.
+
+3 - O original da relação permanecerá na Alfândega e o duplicado, que deverá acompanhar os objectos, será entregue à empresa.
+
+4 - No acto da saída das peças, aparelhos ou máquinas é obrigatória a indicação, por parte da empresa, se houve ou não aplicação de peças ou materiais de origem estrangeira e, em caso afirmativo, deverá a Alfândega proceder de conformidade com as disposições aplicáveis na matéria.
+
+Art. 17.º - 1 - Para a saída da zona franca de produtos ali fabricados ou não, será processada pela empresa uma guia especial donde constem a quantidade e a qualidade, o peso, o valor, a forma de embalagem e o destino desses produtos, a qual servirá de título de propriedade para conferir o respectivo bilhete de despacho, que será:
+
+a) De importação, se o destino for o consumo interno;
+
+b) De reexportação, se o destino for um país estrangeiro e o produto não tiver sido transformado;
+
+c) De exportação, se o destino for um país estrangeiro e o produto tiver sido transformado ou se se tratar de abastecimento de navio que não implique o pagamento de direitos de importação;
+
+d) De transferência, se o destino for outra zona franca ou um depósito afiançado.
+
+2 - Os direitos devidos pelos produtos fabricados na zona franca serão iguais aos menores direitos que onerarem os mesmos produtos originários do estrangeiro.
+
+3 - Qualquer dos despachos referidos no corpo deste artigo será processado nos termos do Regulamento das Alfândegas e sujeito ao cumprimento de todas as formalidades legais.
+
+Art. 18.º - 1 - Os produtos despachados para exportação seguirão acompanhados de fiscalização até à fronteira ou local de embarque, consoante a via utilizada.
+
+2 - Quando a exportação não possa efectuar-se, no todo ou em parte, deverão os aludidos produtos regressar à zona franca, salvo se se preferir pagar os respectivos direitos de importação e outras imposições.
+
+Art. 19.º Se a saída se fizer através da tubagem, proceder-se-á em conformidade com as regras que forem aprovadas para a movimentação dos produtos por esta via.
+
+Art. 20.º - 1 - O desvio do destino ou aplicação das matérias-primas, materiais, peças e máquinas estrangeiras entrados na zona franca sem pagamento de direitos, ao abrigo do regime estabelecido no presente decreto-lei, constitui transgressão punível com a pena de multa de duas a dez vezes a importância dos direitos que deixarem de ser pagos.
+
+2 - A empresa será civil e subsidiariamente responsável pelo pagamento das importâncias em que os seus empregados sejam condenados no processo fiscal.
+
+Art. 21.º A Alfândega dará ao serviço da Guarda Fiscal junto da zona franca as instruções que julgue convenientes para a defesa dos interesses da Fazenda Nacional e resolverá as dúvidas que pelo mesmo serviço forem postas.
+
+Art. 22.º As guias especiais aludidas no articulado deste diploma serão de modelo a aprovar pela Direcção-Geral das Alfândegas, mediante proposta da Alfândega de Lisboa.
+
+Art. 23.º Tudo o que não estiver previsto no presente regulamento será resolvido de acordo com os preceitos aplicáveis da legislação aduaneira e, na sua falta, por despacho do Ministro das Finanças e do Plano.
+
+Alfredo Jorge Nobre da Costa - José da Silva Lopes.
+
+Promulgado em 25 de Outubro de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

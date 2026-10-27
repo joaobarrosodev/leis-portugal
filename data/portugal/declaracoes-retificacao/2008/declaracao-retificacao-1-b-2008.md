@@ -1,0 +1,250 @@
+---
+schema_version: '1.0'
+id: pt:dre:462824:por
+title: Declaração de Rectificação n.º 1-B/2008
+short_title: null
+summary: Rectifica o Decreto-Lei n.º 373/2007, de 6 de Novembro, do Ministério da Agricultura, do Desenvolvimento Rural e
+  das Pescas, que estabelece novos limites máximos de resíduos de substâncias activas de produtos fitofarmacêuticos permitidos
+  nos produtos agrícolas de origem vegetal, transpondo para a ordem jurídica interna as Directivas n.os 2007/7/CE, de 14 de
+  Fevereiro, 2007/8/CE, de 20 de Fevereiro, 2007/9/CE, de 20 de Fevereiro, 2007/12/CE de 26 de Fevereiro, e 2007/39/CE, de
+  26 de Junho, da Comissão, bem como parcialmente as Directivas n.os 2007/11/CE, de 20 de Fevereiro, 2007/27/CE, de 15 de
+  Maio, e 2007/28/CE, de 25 de Maio, da Comissão, nas partes respeitantes aos produtos agrícolas de origem vegetal, publicado
+  no Diário da República, 1.ª série, n.º 213, de 6 de Novembro de 2007
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros - Centro Jurídico
+proposing_entity: null
+official_number: 1-B/2008
+official_date: null
+publication_date: '2008-01-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 3/2008, 1º Suplemento, Série I de 2008-01-04
+  number: '3'
+  series: I
+  supplement: null
+  pages: 150-(2) a 150-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00301/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/1-b/2008/01/04/p/dre/pt/html
+  oj: null
+  dre: '462824'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1-b-2008-462824
+  internal: pt:dre:462824:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-b-2008-462824
+  metadata_url: https://data.dre.pt/eli/declrectif/1-b/2008/01/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-b-2008-462824
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:09:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 91d47ac5e787e2f658e39f9fa79035d5dfcd148a4f14f914a46b67872c79c966
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:09:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Aproximação das Legislações
+- ASAE
+- Comércio Internacional
+- Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
+- Madeira.região Autónoma
+- Multa
+- Produção Vegetal
+- Produto Agrícola
+- Produto Fitofarmacêutico
+- Proteção do Consumidor
+- Saúde Pública
+relationships:
+- type: cites
+  target: celex:32007L0007
+  label: null
+  source: http://data.europa.eu/eli/dir/2007/7/oj
+- type: cites
+  target: celex:32007L0008
+  label: null
+  source: http://data.europa.eu/eli/dir/2007/8/oj
+- type: cites
+  target: celex:32007L0009
+  label: null
+  source: http://data.europa.eu/eli/dir/2007/9/oj
+- type: cites
+  target: celex:32007L0011
+  label: null
+  source: http://data.europa.eu/eli/dir/2007/11/oj
+- type: cites
+  target: celex:32007L0012
+  label: null
+  source: http://data.europa.eu/eli/dir/2007/12/oj
+- type: cites
+  target: celex:32007L0027
+  label: null
+  source: http://data.europa.eu/eli/dir/2007/27/oj
+- type: cites
+  target: celex:32007L0028
+  label: null
+  source: http://data.europa.eu/eli/dir/2007/28/oj
+- type: cites
+  target: celex:32007L0039
+  label: null
+  source: http://data.europa.eu/eli/dir/2007/39/oj
+- type: cites
+  target: pt:dre:178802:por
+  label: null
+  source: http://data.dre.pt/eli/port/625/1996/11/04/p/dre
+- type: cites
+  target: pt:dre:223629:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/68/2003/04/08/p/dre
+- type: cites
+  target: pt:dre:269642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358492:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/123/2006/06/28/p/dre
+- type: cites
+  target: pt:dre:379707:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215/2001/08/02/p/dre
+- type: cites
+  target: pt:dre:408499:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/27/2000/03/03/p/dre
+- type: cites
+  target: pt:dre:425484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/162/2007/05/03/p/dre
+- type: cites
+  target: pt:dre:545386:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/233/2006/11/29/p/dre
+- type: cites
+  target: pt:dre:557409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629450:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/373/2007/11/06/p/dre
+- type: cites
+  target: pt:dre:639288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683842:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/2006/02/15/p/dre
+- type: corrects
+  target: pt:numero:decreto-lei:373/2007
+  label: "Rectifica o Decreto-Lei n.º 373/2007, de 6 de Novembro, DR.IS [213]\0\0"
+  source: null
+  date: '2007-11-06'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:09:28Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 1-B/2008
+
+Ao abrigo da alínea h) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 162/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2007-521257), de 3 de Maio, declara-se que o [Decreto-Lei n.º 373/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-2007-629450), publicado no Diário da República, 1.ª série, n.º 213, de 6 de Novembro de 2007, saiu com inexactidões que, mediante declaração da entidade emitente, assim se rectificam:
+
+1 - No artigo 5.º, onde se lê «No anexo da [Portaria n.º 625/96](https://diariodarepublica.pt/dr/detalhe/portaria/625-1996-178802), de 4 de Novembro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [27/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2000-408499), de 3 de Março, [215/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2001-379707), de 2 de Agosto, [68/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2003-223629), de 8 de Abril, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, [123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, [233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, e [235/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2007-639288), de 19 de Junho, é suprimida a rubrica referente à substância activa aldicarbe.» deve ler-se «No anexo da [Portaria n.º 625/96](https://diariodarepublica.pt/dr/detalhe/portaria/625-1996-178802), de 4 de Novembro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [27/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2000-408499), de 3 de Março, [215/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2001-379707), de 2 de Agosto, [68/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2003-223629), de 8 de Abril, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, [123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, e [233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, é suprimida a rubrica referente à substância activa aldicarbe.».
+
+2 - No artigo 6.º, onde se lê «No anexo da [Portaria n.º 49/97](https://diariodarepublica.pt/dr/detalhe/portaria/49-1997-582406), de 18 de Janeiro, com as alterações que lhe foram introduzidas pela [Portaria n.º 1101/99](https://diariodarepublica.pt/dr/detalhe/portaria/1101-1999-661750), de 21 de Dezembro, e pelos Decretos-Leis n.os [27/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2000-408499), de 3 de Março, [245/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2002-425484), de 8 de Novembro, [68/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2003-223629), de 8 de Abril, [156/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2003-671041), de 18 de Julho, [300/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2003-440083), de 4 de Dezembro, [116/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2004-269642), de 18 de Maio, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, [123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, [233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, e [235/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2007-639288), de 19 de Junho, são suprimidas as rubricas referentes às substâncias activas diazinão, MCPA e tribenurão-metilo.» deve ler-se «No anexo da [Portaria n.º 49/97](https://diariodarepublica.pt/dr/detalhe/portaria/49-1997-582406), de 18 de Janeiro, com as alterações que lhe foram introduzidas pela [Portaria n.º 1101/99](https://diariodarepublica.pt/dr/detalhe/portaria/1101-1999-661750), de 21 de Dezembro, e pelos Decretos-Leis n.os [27/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2000-408499), de 3 de Março, [245/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2002-425484), de 8 de Novembro, [68/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2003-223629), de 8 de Abril, [156/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2003-671041), de 18 de Julho, [300/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2003-440083), de 4 de Dezembro, [116/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2004-269642), de 18 de Maio, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, [123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, e [233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, são suprimidas as rubricas referentes às substâncias activas diazinão, MCPA e tribenurão-metilo.».
+
+3 - No artigo 7.º, onde se lê «No anexo da [Portaria n.º 102/97](https://diariodarepublica.pt/dr/detalhe/portaria/102-1997-557409), de 14 de Fevereiro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [27/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2000-408499), de 3 de Março, [215/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2001-379707), de 2 de Agosto, [245/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2002-425484), de 8 de Novembro, [68/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2003-223629), de 8 de Abril, [116/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2004-269642), de 18 de Maio, [205/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2004-480523), de 19 de Agosto, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, [123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, [233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, e [235/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2007-639288), de 19 de Junho, são suprimidas as rubricas referentes às substâncias activas MCPA, metolacloro e tribenurão-metilo.» deve ler-se «No anexo da [Portaria n.º 102/97](https://diariodarepublica.pt/dr/detalhe/portaria/102-1997-557409), de 14 de Fevereiro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [27/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2000-408499), de 3 de Março, [215/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2001-379707), de 2 de Agosto, [245/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2002-425484), de 8 de Novembro, [68/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2003-223629), de 8 de Abril, [116/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2004-269642), de 18 de Maio, [205/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2004-480523), de 19 de Agosto, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, [123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, e [233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, são suprimidas as rubricas referentes às substâncias activas MCPA, metolacloro e tribenurão-metilo.».
+
+4 - No artigo 8.º, onde se lê «No anexo da [Portaria n.º 1101/99](https://diariodarepublica.pt/dr/detalhe/portaria/1101-1999-661750), de 21 de Dezembro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [215/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2001-379707), de 2 de Agosto, [31/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2002-278027), de 19 de Fevereiro, [245/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2002-425484), de 8 de Novembro, [156/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2003-671041), de 18 de Julho, [116/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2004-269642), de 18 de Maio, [205/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2004-480523), de 19 de Agosto, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, [233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, e [235/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2007-639288), de 19 de Junho, na rubrica referente à substância activa tetraconazol, o valor do LMR em uvas de vinho é substituído por 0,2 mg/kg.» deve ler-se «No anexo da [Portaria n.º 1101/99](https://diariodarepublica.pt/dr/detalhe/portaria/1101-1999-661750), de 21 de Dezembro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [215/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2001-379707), de 2 de Agosto, [31/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2002-278027), de 19 de Fevereiro, [245/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2002-425484), de 8 de Novembro, [156/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2003-671041), de 18 de Julho, [116/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2004-269642), de 18 de Maio, [205/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2004-480523), de 19 de Agosto, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, e [233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, na rubrica referente à substância activa tetraconazol, o valor do LMR em uvas de vinho é substituído por 0,2 mg/kg.».
+
+5 - No artigo 9.º, onde se lê «No anexo ao [Decreto-Lei n.º 215/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2001-379707), de 2 de Agosto, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [256/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2001-611882), de 22 de Setembro, [31/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2002-278027), de 19 de Fevereiro, [245/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2002-425484), de 8 de Novembro, [300/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2003-440083), de 4 de Dezembro, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, [123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, [233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, e [235/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2007-639288), de 19 de Junho, são suprimidas as rubricas referentes às substâncias activas aldicarbe e diazinão.» deve ler-se «No anexo ao [Decreto-Lei n.º 215/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2001-379707), de 2 de Agosto, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [256/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2001-611882), de 22 de Setembro, [31/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2002-278027), de 19 de Fevereiro, [245/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2002-425484), de 8 de Novembro, [300/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2003-440083), de 4 de Dezembro, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, [123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, e [233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, são suprimidas as rubricas referentes às substâncias activas aldicarbe e diazinão.».
+
+6 - No artigo 10.º, onde se lê «No anexo ao [Decreto-Lei n.º 300/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2003-440083), de 4 de Dezembro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [116/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2004-269642), de 18 de Maio, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, [123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, e [235/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2007-639288), de 19 de Junho, é suprimida a rubrica referente à substância activa clorfenapir.» deve ler-se «No anexo ao [Decreto-Lei n.º 300/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2003-440083), de 4 de Dezembro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [116/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2004-269642), de 18 de Maio, [32/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2006-683842), de 15 de Fevereiro, e [123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, é suprimida a rubrica referente à substância activa clorfenapir.».
+
+7 - No artigo 12.º, onde se lê «O [Decreto-Lei n.º 123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, e [235/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2007-639288), de 19 de Junho, é alterado do seguinte modo:» deve ler-se «O [Decreto-Lei n.º 123/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2006-358492), de 28 de Junho, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, é alterado do seguinte modo:».
+
+8 - No artigo 13.º, onde se lê «O [Decreto-Lei n.º 233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, com as alterações introduzidas pelo [Decreto-Lei n.º 235/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2007-639288), de 19 de Junho, é alterado do seguinte modo:» deve ler-se «O [Decreto-Lei n.º 233/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2006-545386), de 29 de Novembro, é alterado do seguinte modo:».
+
+9 - No anexo i, na coluna «Atrazina»:
+
+No n.º 2), n.º iii), onde se lê «Frutos de hortícolas - (*) 0,05» deve ler-se «Frutos de hortícolas - -»;
+
+No n.º 2), n.º iii), alínea a), onde se lê «Solanáceas:» deve ler-se «Solanáceas: - (*) 0,05»;
+
+No n.º 2), n.º vii), onde se lê «Legumes de caule - -» deve ler-se «Legumes de caule - (*) 0,05».
+
+10 - No anexo v, na nota de rodapé, onde se lê «(*) Limite de determinação analítica.» deve ler-se «(*) Indica o limite de determinação analítica. (t) Indica que o LMR foi estabelecido temporariamente até 31 de Dezembro de 2007 na pendência dos dados a apresentar pelo requerente, sendo que se não tiverem sido recebidos quaisquer dados até essa data, o LMR será retirado por directiva ou regulamento.».
+
+11 - No anexo vii, na coluna «Metaxil», no n.º 1), n.º ii), onde se lê «Frutos de casca rija (com ou sem casca) - 0,05» deve ler-se «Frutos de casca rija (com ou sem casca) - (*) 0,05».
+
+Centro Jurídico, 3 de Janeiro de 2008. - A Directora, Susana Brito.

@@ -1,0 +1,1474 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0091:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0091-20260701",
+ "dre_path": null,
+ "source_lastmod": "2026-07-01",
+ "versions": [
+  {
+   "date": "2003-10-08",
+   "future": false,
+   "celex": "32003L0091",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4b1f7d61b3994221",
+    "d2f40fa73c587d5c",
+    "425cc63e2b1295bd",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "565724549ff2ff8b",
+    "539c34aa45879bb2",
+    "0009a0628f7e61ee",
+    "2dbd380271c49e6c",
+    "df9cdc2c0935ad2b"
+   ]
+  },
+  {
+   "date": "2006-12-28",
+   "future": false,
+   "celex": "02003L0091-20061228",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0127:por",
+     "title": "DIRECTIVA 2006/127/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006L0127"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 8.º",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita Notas",
+    "Suprime ANEXO I — LISTA DE ESPÉCIES QUE DEVEM OBEDECER AOS PRINCÍPIOS DIRECTORES DO ICVV",
+    "Suprime ANEXO II — LISTA DE ESPÉCIES QUE DEVEM OBEDECER AOS PRINCÍPIOS DIRECTORES DA UPOV"
+   ],
+   "fragments": [
+    "4e7ce2ecca38bdc0",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "ddcd434cab44c57d",
+    "fb6d76080b736245",
+    "5a5791d37f740ed4"
+   ]
+  },
+  {
+   "date": "2007-08-16",
+   "future": false,
+   "celex": "02003L0091-20070816",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0049:por",
+     "title": "DIRECTIVA 2007/49/CE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de Julho de 2007",
+     "published": null,
+     "celex": "32007L0049"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I",
+    "Altera ANEXO II",
+    "Altera Notas",
+    "Adita Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio emitidos pelo ICVV",
+    "Adita Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem respeitar os princípios directores emitidos pela UPOV"
+   ],
+   "fragments": [
+    "f40db5cd78d70557",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "d664376e2a8dcecd",
+    "aaef359dbec31e1c",
+    "852174729551523b",
+    "90307d123dfc9802",
+    "2530c773d467272c"
+   ]
+  },
+  {
+   "date": "2008-09-03",
+   "future": false,
+   "celex": "02003L0091-20080903",
+   "acts": [
+    {
+     "id": "eu:celex:32008L0083:por",
+     "title": "DIRECTIVA 2008/83/CE DA COMISSÃO Texto relevante para efeitos do EEE de 13 de Agosto de 2008",
+     "published": null,
+     "celex": "32008L0083"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio emitidos pelo ICVV",
+    "Altera Notas",
+    "Adita Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores da UPOV",
+    "Suprime Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem respeitar os princípios directores emitidos pela UPOV"
+   ],
+   "fragments": [
+    "61dd66f23bc0366d",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "d664376e2a8dcecd",
+    "1b6b8f3e71ca617c",
+    "852174729551523b",
+    "8ed6bf1d78156ae0",
+    "66079313d9dbd9f7"
+   ]
+  },
+  {
+   "date": "2009-08-24",
+   "future": false,
+   "celex": "02003L0091-20090824",
+   "acts": [
+    {
+     "id": "eu:celex:32009L0097:por",
+     "title": "DIRECTIVA 2009/97/CE DA COMISSÃO Texto relevante para efeitos do EEE de 3 de Agosto de 2009",
+     "published": null,
+     "celex": "32009L0097"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores da UPOV",
+    "Altera Notas",
+    "Adita Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem obedecer aos protocolos de ensaio do ICVV",
+    "Suprime Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio emitidos pelo ICVV"
+   ],
+   "fragments": [
+    "f82a1259d13cd14c",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "d664376e2a8dcecd",
+    "d4d80cee95ae0e7c",
+    "852174729551523b",
+    "01a5a7495aa44e73",
+    "ee2c0514099b3259"
+   ]
+  },
+  {
+   "date": "2010-07-23",
+   "future": false,
+   "celex": "02003L0091-20100723",
+   "acts": [
+    {
+     "id": "eu:celex:32010L0046:por",
+     "title": "DIRECTIVA 2010/46/UE DA COMISSÃO Texto relevante para efeitos do EEE de 2 de Julho de 2010",
+     "published": null,
+     "celex": "32010L0046"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Notas",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV",
+    "Suprime Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem obedecer aos protocolos de ensaio do ICVV",
+    "Suprime Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores da UPOV"
+   ],
+   "fragments": [
+    "9c6a13018a5e218a",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "d664376e2a8dcecd",
+    "b89a9228c99005ea",
+    "852174729551523b",
+    "b63aedf81b436bd1",
+    "6b0a6e4e4cabcf3b"
+   ]
+  },
+  {
+   "date": "2011-07-22",
+   "future": false,
+   "celex": "02003L0091-20110722",
+   "acts": [
+    {
+     "id": "eu:celex:32011L0068:por",
+     "title": "DIRECTIVA DE EXECUÇÃO 2011/68/UE DA COMISSÃO Texto relevante para efeitos do EEE de 1 de Julho de 2011",
+     "published": null,
+     "celex": "32011L0068"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+    "Altera Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "ca39f752635e1082",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "d664376e2a8dcecd",
+    "83080721afd23f72",
+    "852174729551523b",
+    "0342f3ffe2cf5c0f",
+    "302cbbe4aac6ef05"
+   ]
+  },
+  {
+   "date": "2012-12-17",
+   "future": false,
+   "celex": "02003L0091-20121217",
+   "acts": [
+    {
+     "id": "eu:celex:32012L0044:por",
+     "title": "DIRETIVA DE EXECUÇÃO 2012/44/UE DA COMISSÃO Texto relevante para efeitos do EEE de 26 de novembro de 2012",
+     "published": null,
+     "celex": "32012L0044"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I",
+    "Altera ANEXO II",
+    "Altera Notas",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV"
+   ],
+   "fragments": [
+    "66624e3205919faf",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "247e7abb4374ec61",
+    "0555c49e452673cc",
+    "aa8801eb5db81275"
+   ]
+  },
+  {
+   "date": "2013-12-11",
+   "future": false,
+   "celex": "02003L0091-20131211",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0057:por",
+     "title": "DIRETIVA DE EXECUÇÃO 2013/57/UE DA COMISSÃO Texto relevante para efeitos do EEE de 20 de novembro de 2013",
+     "published": null,
+     "celex": "32013L0057"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I",
+    "Altera ANEXO II",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "2433a984db2dcb9c",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "f3fef405bbc98204",
+    "d58cc5c50cb411a7",
+    "a66feae78e14e919"
+   ]
+  },
+  {
+   "date": "2014-12-25",
+   "future": false,
+   "celex": "02003L0091-20141225",
+   "acts": [
+    {
+     "id": "eu:celex:32014L0105:por",
+     "title": "DIRETIVA DE EXECUÇÃO 2014/105/UE DA COMISSÃO Texto relevante para efeitos do EEE de 4 de dezembro de 2014",
+     "published": null,
+     "celex": "32014L0105"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I",
+    "Altera ANEXO II",
+    "Altera Notas",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV"
+   ],
+   "fragments": [
+    "6a55ad241e7965b9",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "d664376e2a8dcecd",
+    "7f515ff237433c1a",
+    "852174729551523b",
+    "90284822693219e3",
+    "5832be821f4ba5cc"
+   ]
+  },
+  {
+   "date": "2016-07-01",
+   "future": false,
+   "celex": "02003L0091-20160701",
+   "acts": [
+    {
+     "id": "eu:celex:32015L1168:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2015/1168 DA COMISSÃO Texto relevante para efeitos do EEE de 15 de julho de 2015",
+     "published": null,
+     "celex": "32015L1168"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I",
+    "Altera ANEXO II",
+    "Altera Notas",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV"
+   ],
+   "fragments": [
+    "277771a958bf33f9",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "e4e45b2a9186eff3",
+    "1cf1741e290fa95c",
+    "038102dc24884193"
+   ]
+  },
+  {
+   "date": "2017-07-01",
+   "future": false,
+   "celex": "02003L0091-20170701",
+   "acts": [
+    {
+     "id": "eu:celex:32016L1914:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2016/1914 DA COMISSÃO Texto relevante para efeitos do EEE de 31 de outubro de 2016",
+     "published": null,
+     "celex": "32016L1914"
+    }
+   ],
+   "changes": [
+    "Altera ANEXO I",
+    "Altera ANEXO II",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "277771a958bf33f9",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "d664376e2a8dcecd",
+    "3d683e1c88bbd8ac",
+    "852174729551523b",
+    "80dabec4bc8b79a5"
+   ]
+  },
+  {
+   "date": "2019-09-01",
+   "future": false,
+   "celex": "02003L0091-20190901",
+   "acts": [
+    {
+     "id": "eu:celex:32018L0100:por",
+     "title": "M12",
+     "published": null,
+     "celex": "32018L0100"
+    },
+    {
+     "id": "eu:celex:32019L0114:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2019/114 DA COMISSÃO Texto relevante para efeitos do EEE de 24 de janeiro de 2019",
+     "published": null,
+     "celex": "32019L0114"
+    }
+   ],
+   "changes": [
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV 1 ([^1^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0001))",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV ([^2^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0002))",
+    "Adita Notas",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV"
+   ],
+   "fragments": [
+    "277771a958bf33f9",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "d664376e2a8dcecd",
+    "fc8cbbc2938abd22",
+    "852174729551523b",
+    "76c11a884ee51e4d",
+    "731073c58e48bf83"
+   ]
+  },
+  {
+   "date": "2020-06-01",
+   "future": false,
+   "celex": "02003L0091-20200601",
+   "acts": [
+    {
+     "id": "eu:celex:32019L1985:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2019/1985 DA COMISSÃO Texto relevante para efeitos do EEE de 28 de novembro de 2019",
+     "published": null,
+     "celex": "32019L1985"
+    }
+   ],
+   "changes": [
+    "Altera Notas",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0001))",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0002))",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV 1 ([^1^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0001))",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV ([^2^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0002))"
+   ],
+   "fragments": [
+    "277771a958bf33f9",
+    "30ca22b32c33a365",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "e27afa59a5bafc5e",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "d664376e2a8dcecd",
+    "1119034f2196ea8f",
+    "852174729551523b",
+    "b5800ea44061c453",
+    "9dcd5b4d5f90dfad"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "celex": "02003L0091-20220101",
+   "acts": [
+    {
+     "id": "eu:celex:32021L0746:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2021/746 DA COMISSÃO de 6 de maio de 2021",
+     "published": null,
+     "celex": "32021L0746"
+    }
+   ],
+   "changes": [
+    "Altera Notas",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0002))",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0001))",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0002))"
+   ],
+   "fragments": [
+    "277771a958bf33f9",
+    "df5feb0d1ae861ab",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "12406cb47c6a158c",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "d664376e2a8dcecd",
+    "dc63ad649172b4fe",
+    "852174729551523b",
+    "aed24e8997ee9b61",
+    "26a90a67e9572617"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "celex": "02003L0091-20230101",
+   "acts": [
+    {
+     "id": "eu:celex:32022L0905:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2022/905 DA COMISSÃO de 9 de junho de 2022",
+     "published": null,
+     "celex": "32022L0905"
+    }
+   ],
+   "changes": [
+    "Altera ANEXO I",
+    "Altera ANEXO II",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))",
+    "Suprime Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0002))",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "277771a958bf33f9",
+    "df5feb0d1ae861ab",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "12406cb47c6a158c",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "4e8efd409abf5981",
+    "985ca6edbd46927a"
+   ]
+  },
+  {
+   "date": "2023-07-01",
+   "future": false,
+   "celex": "02003L0091-20230701",
+   "acts": [
+    {
+     "id": "eu:celex:32022L1648:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2022/1648 DA COMISSÃO de 23 de setembro de 2022",
+     "published": null,
+     "celex": "32022L1648"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Adita ANEXO III",
+    "Adita PARTE A",
+    "Adita Lista de espécies referidas no artigo 1.º, n.º 2, segundo parágrafo",
+    "Adita PARTE B",
+    "Adita Disposições específicas respeitantes a ensaios de distinção, homogeneidade e estabilidade para as variedades biológicas de espécies hortícolas adequadas à produção biológica",
+    "Adita 1. Regra geral",
+    "Adita 2. Derrogação dos protocolos técnicos"
+   ],
+   "fragments": [
+    "277771a958bf33f9",
+    "c21c4bc2453e1a8e",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "12406cb47c6a158c",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "4e8efd409abf5981",
+    "985ca6edbd46927a",
+    "720af75c92791b10",
+    "87cee521b2f0bb1e",
+    "731aa40f2ad90118",
+    "6041be3baf7dcb43",
+    "c441eac9e69e5d79",
+    "6194f7cf719d1718",
+    "f2cfbcbe7705669c"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "celex": "02003L0091-20240101",
+   "acts": [
+    {
+     "id": "eu:celex:32023L1438:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2023/1438 DA COMISSÃO de 10 de julho de 2023",
+     "published": null,
+     "celex": "32023L1438"
+    }
+   ],
+   "changes": [
+    "Altera ANEXO I",
+    "Altera ANEXO II"
+   ],
+   "fragments": [
+    "277771a958bf33f9",
+    "c21c4bc2453e1a8e",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "12406cb47c6a158c",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "769cbf11342a5bec",
+    "5644ae559f733d2b",
+    "720af75c92791b10",
+    "87cee521b2f0bb1e",
+    "731aa40f2ad90118",
+    "6041be3baf7dcb43",
+    "c441eac9e69e5d79",
+    "6194f7cf719d1718",
+    "f2cfbcbe7705669c"
+   ]
+  },
+  {
+   "date": "2025-06-01",
+   "future": false,
+   "celex": "02003L0091-20250601",
+   "acts": [
+    {
+     "id": "eu:celex:32024L2963:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2024/2963 DA COMISSÃO de 29 de novembro de 2024",
+     "published": null,
+     "celex": "32024L2963"
+    }
+   ],
+   "changes": [
+    "Altera ANEXO I"
+   ],
+   "fragments": [
+    "277771a958bf33f9",
+    "c21c4bc2453e1a8e",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "12406cb47c6a158c",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "4dc9e0b898f8b519",
+    "9249d91df0251aa9",
+    "720af75c92791b10",
+    "87cee521b2f0bb1e",
+    "731aa40f2ad90118",
+    "6041be3baf7dcb43",
+    "c441eac9e69e5d79",
+    "6194f7cf719d1718",
+    "f2cfbcbe7705669c"
+   ]
+  },
+  {
+   "date": "2026-01-01",
+   "future": false,
+   "celex": "02003L0091-20260101",
+   "acts": [
+    {
+     "id": "eu:celex:32025L1079:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2025/1079 DA COMISSÃO de 2 de junho de 2025",
+     "published": null,
+     "celex": "32025L1079"
+    }
+   ],
+   "changes": [
+    "Altera ANEXO I"
+   ],
+   "fragments": [
+    "277771a958bf33f9",
+    "c21c4bc2453e1a8e",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "12406cb47c6a158c",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "6fb9054528a29d83",
+    "9249d91df0251aa9",
+    "720af75c92791b10",
+    "87cee521b2f0bb1e",
+    "731aa40f2ad90118",
+    "6041be3baf7dcb43",
+    "c441eac9e69e5d79",
+    "6194f7cf719d1718",
+    "f2cfbcbe7705669c"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "future": false,
+   "celex": "02003L0091-20260701",
+   "acts": [
+    {
+     "id": "eu:celex:32025L2449:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2025/2449 DA COMISSÃO de 4 de dezembro de 2025",
+     "published": null,
+     "celex": "32025L2449"
+    }
+   ],
+   "changes": [
+    "Altera ANEXO I",
+    "Adita Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/23f37c98-4e3c-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1#E0001))",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "277771a958bf33f9",
+    "c21c4bc2453e1a8e",
+    "f9da966f77dcbab9",
+    "224ce1bc5bd18f64",
+    "20304cda61aaa8f3",
+    "49c1536a4d52766c",
+    "12406cb47c6a158c",
+    "22f6e8a062687f01",
+    "053e62569513f0fc",
+    "d664376e2a8dcecd",
+    "b405de4b0f954930",
+    "9249d91df0251aa9",
+    "720af75c92791b10",
+    "87cee521b2f0bb1e",
+    "731aa40f2ad90118",
+    "6041be3baf7dcb43",
+    "c441eac9e69e5d79",
+    "6194f7cf719d1718",
+    "4ff1731c38bcbac1",
+    "3b3561fa19800f98"
+   ]
+  }
+ ],
+ "fragments": {
+  "4b1f7d61b3994221": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2003/91/CE da Comissão, de 6 de Outubro de 2003, que estabelece regras de execução do artigo 7.° da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 254 de 08/10/2003 p. 0011 - 0013*\n\nDirectiva 2003/91/CE da Comissão\n\nde 6 de Outubro de 2003\n\nque estabelece regras de execução do artigo 7.o da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002, respeitante à comercialização de sementes de produtos hortícolas(1), alterada pela Directiva 2003/61/CE(2), e, nomeadamente, o n.o 2, alíneas a) e b), do seu artigo 7.o,\n\nConsiderando o seguinte:\n\n(1) A Directiva 72/168/CEE da Comissão, de 14 de Abril de 1972, que diz respeito à fixação dos caracteres e das condições mínimas para o exame das variedades das espécies de produtos hortícolas(3), alterada pela Directiva 2002/8/CE(4), estabeleceu, com vista à admissão oficial das variedades nos catálogos dos Estados-Membros, os caracteres que devem, no mínimo, ser submetidos a exame relativamente às várias espécies e as condições mínimas para a realização dos exames.\n\n(2) Foram recentemente estabelecidos princípios directores para o exame das variedades pelo Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) criado pelo Regulamento (CE) n.o 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais(5), com a redacção que lhe foi dada pelo Regulamento (CE) n.o 1650/2003(6), no que diz respeito a certas espécies.\n\n(3) Existem, a nível internacional, princípios directores para o exame das variedades. A União Internacional para a protecção das variedades vegetais (UPOV) estabeleceu tais princípios directores.\n\n(4) A Directiva 72/168/CEE foi alterada pela Directiva 2002/8/CE para assegurar uma coerência entre os princípios directores do ICVV e as condições de exame das variedades com vista à sua admissão nos catálogos nacionais de variedades dos Estados-Membros na medida em que existiam princípios directores do ICVV. O ICVV estabeleceu entretanto princípios directores para várias outras espécies.\n\n(5) Deve ser assegurada a coerência entre os princípios directores do ICVV e as condições aplicáveis às variedades com vista à sua admissão nos catálogos nacionais dos Estados-Membros.\n\n(6) Quando o ICVV não tenha estabelecido ainda princípios directores específicos, é adequado basear o sistema comunitário nos princípios directores da UPOV. A legislação nacional é aplicável às espécies não abrangidas pela presente directiva.\n\n(7) A Directiva 72/168/CEE deve, pois, ser revogada.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d2f40fa73c587d5c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-Membros assegurarão a inclusão num catálogo nacional, na acepção do n.o 2 do artigo 3.o da Directiva 2002/55/CE, das variedades das espécies hortícolas que respeitem as condições estabelecidas no n.o 2.\n\n2. No que diz respeito à distinção, estabilidade e homogeneidade:\n\na) As espécies que constam do anexo I devem obedecer às condições estabelecidas nos protocolos sobre os ensaios de distinção, homogeneidade e estabilidade do Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) indicados no mesmo anexo;\n\nb) As espécies que constam do anexo II devem obedecer aos princípios directores para a realização dos ensaios de distinção, homogeneidade e estabilidade da União Internacional para a protecção das variedades vegetais (UPOV) indicados no mesmo anexo."
+  },
+  "425cc63e2b1295bd": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nTodos os caracteres varietais na acepção do n.o 2, alínea a) do artigo 1.o, bem como quaisquer caracteres assinalados por um asterisco (*) nos princípios directores referidos no n.o 2, alínea b) do artigo 1.o, serão utilizados, desde que a sua observação não seja impossibilitada pela expressão de outros caracteres e que a sua expressão não seja impedida pelas condições ambientais de realização do ensaio."
+  },
+  "224ce1bc5bd18f64": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros assegurarão que, aquando dos exames, sejam respeitadas, relativamente às espécies constantes dos anexos I e II, as condições mínimas para a realização dos exames no que diz respeito ao delineamento do ensaio e às condições de crescimento, conforme estabelecidas nos princípios directores referidos nesses anexos."
+  },
+  "20304cda61aaa8f3": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÉ revogada a Directiva 72/168/CEE."
+  },
+  "49c1536a4d52766c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 31 de Março de 2004. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-Membros adoptem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros determinarão as modalidades dessa referência.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "565724549ff2ff8b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Nos casos em que, aquando da entrada em vigor da presente directiva, certas variedades não tenham sido aceites para inclusão no catálogo comum das variedades das espécies hortícolas, e exames oficiais tenham sido iniciados antes dessa data, em conformidade com as disposições estabelecidas:\n\na) Na Directiva 72/168/CEE, ou\n\nb) Nos princípios directores do ICVV referidos no anexo I ou nos princípios directores da UPOV referidos na anexo II, em função das espécies,\n\nas variedades em questão devem ser consideradas como obedecendo aos requisitos da presente directiva.\n\n2. O n.o 1 só é aplicável nos casos em que os ensaios tenham permitido concluir que as variedades obedecem às regras estabelecidas:\n\na) Na Directiva 72/168/CEE; ou\n\nb) Nos princípios directores do ICVV referidos no anexo I ou nos princípios directores do UPOV referidos no anexo II, em função das espécies."
+  },
+  "539c34aa45879bb2": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA presente directiva entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "0009a0628f7e61ee": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 6 de Outubro de 2003.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 193 de 20.7.2002, p. 23.\n\n(2) JO L 165 de 3.7.2003, p. 23.\n\n(3) JO L 103 de 2.5.1972, p. 6.\n\n(4) JO L 37 de 7.2.2002, p. 7.\n\n(5) JO L 227 de 1.9.1994, p. 1.\n\n(6) JO L 245 de 29.9.2003, p. 28."
+  },
+  "2dbd380271c49e6c": {
+   "fragment_id": "ANEXO I — LISTA DE ESPÉCIES QUE DEVEM OBEDECER AOS PRINCÍPIOS DIRECTORES DO ICVV",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DE ESPÉCIES QUE DEVEM OBEDECER AOS PRINCÍPIOS DIRECTORES DO ICVV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DE ESPÉCIES QUE DEVEM OBEDECER AOS PRINCÍPIOS DIRECTORES DO ICVV\n\nAlho-porro, protocolo TP/85/1 de 15.11.2001\n\nEspargo, protocolo TP/130/1 de 27.3.2002\n\nCouve-flor, protocolo TP/45/1 de 15.11.2001\n\nBrócolos, protocolo TP/151/1 de 27.3.2002\n\nCouve de Bruxelas, protocolo TP/54/1 de 27.3.2002\n\nCouve de Milão, protocolo TP/48/1 de 15.11.2001\n\nRepolho, protocolo TP/48/1 de 15.11.2001\n\nCouve encarnada, protocolo TP/48/1 de 15.11.2001\n\nPimentão/pimento, protocolo TP/76/1 de 27.3.2002\n\nChicória escarola, protocolo TP/118/1 de 27.3.2002\n\nMelão, protocolo TP/104/1 de 27.3.2002\n\nPepino, protocolo TP/61/1 de 27.3.2002\n\nCenoura, protocolo TP/49/6 de 27.3.2002\n\nAlface, protocolo TP/13/1 de 15.11.2001\n\nTomate, protocolo TP/44/2 de 15.11.2001\n\nFeijões, protocolo TP/12/1 de 15.11.2001\n\nRabanete, protocolo TP/64/6 de 27.3.2002\n\nEspinafre, protocolo TP/55/6 de 27.3.2002\n\nAlface de Cordeiro, protocolo TP/75/6 de 27.3.2002\n\nO texto destes protocolos encontra-se no sítio web do ICVV (www.cpvo.eu.int)."
+  },
+  "df9cdc2c0935ad2b": {
+   "fragment_id": "ANEXO II — LISTA DE ESPÉCIES QUE DEVEM OBEDECER AOS PRINCÍPIOS DIRECTORES DA UPOV",
+   "type": "divisao",
+   "heading": "ANEXO II — LISTA DE ESPÉCIES QUE DEVEM OBEDECER AOS PRINCÍPIOS DIRECTORES DA UPOV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — LISTA DE ESPÉCIES QUE DEVEM OBEDECER AOS PRINCÍPIOS DIRECTORES DA UPOV\n\nCebolinha, princípio director TG/161/3 de 1.4.1998\n\nAlho, princípio director TG/162/4 de 4.4.2001\n\nAipo, princípio director TG/82/4 de 17.4.2002\n\nAcelga, princípio director TG/106/3 de 7.10.1987\n\nBeterraba, princípio director TG/60/6 de 18.10.1996\n\nCouve crespa, princípio director TG/90/6 de 17.4.2002\n\nCouve-rábano, princípio director TG/65/4 de 17.4.2002\n\nCouve da China, princípio director TG/105/4 de 9.4.2003\n\nNabo, princípio director TG/37/10 de 4.4.2001\n\nEndívia, princípio director TG/173/3 de 5.4.2000\n\nChicória com folhas largas, princípio director TG/154/3 de 18.10.1996\n\nChicória para café, princípio director TG/172/3 de 4.4.2001\n\nMelancia, princípio director TG/142/3 de 26.10.1993\n\nAbóbora, princípio director TG/155/3 de 18.10.1996\n\nAboborinha, princípio director TG/119/4 de 17.4.2002\n\nAlcachofra, princípio director TG/184/3 de 4.4.2001\n\nFuncho, princípio director TG/183/3 de 4.4.2001\n\nSalsa, princípio director TG/136/4 de 18.10.1991\n\nFeijões de Espanha, princípio director TG/9/5 de 9.4.2003\n\nErvilha, princípio director TG/7/9 de 4.11.1994 (e correcção de 18.10.1996)\n\nRuibarbo, princípio director TG/62/6 de 24.3.1999\n\nEscorcioneira, princípio director TG/116/3 de 21.10.1988\n\nBeringela, princípio director TG/117/4 de 17.4.2002\n\nFava, princípio director TG/206/1 of 9.4.2003\n\nO texto destes princípios orientadores encontra-se no sítio web da UPOV (www.upov.int)."
+  },
+  "4e7ce2ecca38bdc0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro de 2003\n\nque estabelece regras de execução do artigo 7.º da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002, respeitante à comercialização de sementes de produtos hortícolas ([^1^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#E0001)), alterada pela Directiva 2003/61/CE ([^2^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#E0002)), e, nomeadamente, o n.º 2, alíneas a) e b), do seu artigo 7.º,\n\n(1) A Directiva 72/168/CEE da Comissão, de 14 de Abril de 1972, que diz respeito à fixação dos caracteres e das condições mínimas para o exame das variedades das espécies de produtos hortícolas ([^3^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#E0003)), alterada pela Directiva 2002/8/CE ([^4^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#E0004)), estabeleceu, com vista à admissão oficial das variedades nos catálogos dos Estados-Membros, os caracteres que devem, no mínimo, ser submetidos a exame relativamente às várias espécies e as condições mínimas para a realização dos exames.\n\n(2) Foram recentemente estabelecidos princípios directores para o exame das variedades pelo Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) criado pelo Regulamento (CE) n.º 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais ([^5^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#E0005)), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1650/2003 ([^6^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#E0006)), no que diz respeito a certas espécies.\n\n(3) Existem, a nível internacional, princípios directores para o exame das variedades. A União Internacional para a protecção das variedades vegetais (UPOV) estabeleceu tais princípios directores.\n\n(4) A Directiva 72/168/CEE foi alterada pela Directiva 2002/8/CE para assegurar uma coerência entre os princípios directores do ICVV e as condições de exame das variedades com vista à sua admissão nos catálogos nacionais de variedades dos Estados-Membros na medida em que existiam princípios directores do ICVV. O ICVV estabeleceu entretanto princípios directores para várias outras espécies.\n\n(5) Deve ser assegurada a coerência entre os princípios directores do ICVV e as condições aplicáveis às variedades com vista à sua admissão nos catálogos nacionais dos Estados-Membros.\n\n(6) Quando o ICVV não tenha estabelecido ainda princípios directores específicos, é adequado basear o sistema comunitário nos princípios directores da UPOV. A legislação nacional é aplicável às espécies não abrangidas pela presente directiva.\n\n(7) A Directiva 72/168/CEE deve, pois, ser revogada.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "30ca22b32c33a365": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-Membros assegurarão a inclusão num catálogo nacional, na acepção do n.º 2 do artigo 3.º da Directiva 2002/55/CE, das variedades das espécies hortícolas que respeitem as condições estabelecidas no n.º 2.\n\n2. No que diz respeito à distinção, estabilidade e homogeneidade:\n\na) As espécies que constam do anexo I devem obedecer às condições estabelecidas nos protocolos sobre os ensaios de distinção, homogeneidade e estabilidade do Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) indicados no mesmo anexo;\n\nb) As espécies que constam do anexo II devem obedecer aos princípios directores para a realização dos ensaios de distinção, homogeneidade e estabilidade da União Internacional para a protecção das variedades vegetais (UPOV) indicados no mesmo anexo."
+  },
+  "f9da966f77dcbab9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nTodos os caracteres varietais na acepção do n.º 2, alínea a) do artigo 1.º, bem como quaisquer caracteres assinalados por um asterisco (*) nos princípios directores referidos no n.º 2, alínea b) do artigo 1.º, serão utilizados, desde que a sua observação não seja impossibilitada pela expressão de outros caracteres e que a sua expressão não seja impedida pelas condições ambientais de realização do ensaio."
+  },
+  "e27afa59a5bafc5e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Nos casos em que, aquando da entrada em vigor da presente directiva, certas variedades não tenham sido aceites para inclusão no catálogo comum das variedades das espécies hortícolas, e exames oficiais tenham sido iniciados antes dessa data, em conformidade com as disposições estabelecidas:\n\na) Na Directiva 72/168/CEE, ou\n\nb) Nos princípios directores do ICVV referidos no anexo I ou nos princípios directores da UPOV referidos na anexo II, em função das espécies,\n\nas variedades em questão devem ser consideradas como obedecendo aos requisitos da presente directiva.\n\n2. O n.º 1 só é aplicável nos casos em que os ensaios tenham permitido concluir que as variedades obedecem às regras estabelecidas:\n\na) Na Directiva 72/168/CEE; ou\n\nb) Nos princípios directores do ICVV referidos no anexo I ou nos princípios directores do UPOV referidos no anexo II, em função das espécies."
+  },
+  "22f6e8a062687f01": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA presente directiva entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "053e62569513f0fc": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "ddcd434cab44c57d": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Nome científico | Designação comum | Protocolo ICVV |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo *cepa*) | Cebola e “echalion” | TP 46/1 de 14.6.2005 |\n| *Allium cepa* L. (grupo *aggregatum*) | Chalota | TP 46/1 de 14.6.2005 |\n| *Allium porrum* L. | Alho-porro | TP 85/1 de 15.11.2001 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Asparagus officinalis* L. | Espargo | TP 130/1 de 27.3.2002 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/1 de 15.11.2001 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/1 de 27.3.2002 |\n| *Brassica oleracea* L. | Couve-de-bruxelas | TP 54/2 de 1.12.2005 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 de 25.3.2004 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/2 de 1.12.2005 |\n| *Capsicum annuum* L. | Pimento | TP 76/1 de 27.3.2002 |\n| *Cichorium endivia* L. | Chicória frisada e escarola | TP 118/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória para café | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória “witloof” | TP 173/1 de 25.3.2004 |\n| *Cucumis melo* L. | Melão | TP 104/1 de 27.3.2002 |\n| *Cucumis sativus* L. | Pepinos | TP 61/1 de 27.3.2002 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 de 25.3.2004 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/1 de 25.3.2004 |\n| *Daucus carota* L. | Cenoura e cenoura forrageira | TP 49/2 de 1.12.2005 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/2 de 1.12.2005 |\n| *Lycopersicon esculentum* Mill. | Tomate | TP 44/2 de 15.11.2001 |\n| *Phaseolus vulgaris* L. | Feijões | TP 12/2 de 1.12.2005 |\n| *Pisum sativum* L. (partim) | Ervilha rugosa, ervilha lisa e ervilha torta | TP 07/1 de 6.11.2003 |\n| *Raphanus sativus* L. | Rabanete | TP 64/1 de 27.3.2002 |\n| *Spinacia oleracea* L. | Espinafre | TP 55/1 de 27.3.2002 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/1 de 27.3.2002 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho doce e milho pipoca | TP 2/2 de 15.11.2001 |\n\nO texto destes protocolos encontra-se no sítio *web* do ICVV (www.cpvo.europa.eu)."
+  },
+  "fb6d76080b736245": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| Nome científico | Designação comum | Princípio director UPOV |\n| --- | --- | --- |\n| *Allium fistulosum* L. | Cebolinha comum | TG/161/3 de 1.4.1998 |\n| *Allium schoenoprasum* L. | Cebolinho | TG/198/1 de 9.4.2003 |\n| *Apium graveolens* L. | Aipo | TG/82/4 de 17.4.2002 |\n| *Apium graveolens* L. | Aipo-rábano | TG/74/4 corr. de 17.4.2002 + 5.4.2006 |\n| *Beta vulgaris* L. | Acelga | TG/106/4 de 31.3.2004 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TG/60/6 de 18.10.1996 |\n| *Brassica oleracea* L. | Couve-frisada | TG/90/6 de 31.3.2004 |\n| *Brassica rapa* L. | Couve-chinesa | TG/105/4 de 9.4.2003 |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n| *Cichorium intybus* L. | Chicória com folhas largas ou chicória italiana | TG/154/3 de 18.10.1996 |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TG/142/4 de 31.3.2004 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TG/155/3 de 18.10.1996 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TG/136/5 de 6.4.2005 |\n| *Phaseolus coccineus* L. | Feijão-escarlate | TG/9/5 de 9.4.2003 |\n| *Raphanus sativus* L. | Rábano | TG/63/6 de 24.3.1999 |\n| *Rheum rhabarbarum* L. | Ruibarbo | TG/62/6 de 24.3.1999 |\n| *Scorzonera hispanica* L. | Escorcioneira | TG/116/3 de 21.10.1988 |\n| *Solanum melongena* L. | Beringela | TG/117/4 de 17.4.2002 |\n\nO texto destes princípios orientadores encontra-se no sítio *web* da UPOV (www.upov.int).\n\n---"
+  },
+  "5a5791d37f740ed4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#src.E0001)) JO L 193 de 20.7.2002, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#src.E0002)) JO L 165 de 3.7.2003, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#src.E0003)) JO L 103 de 2.5.1972, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#src.E0004)) JO L 37 de 7.2.2002, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#src.E0005)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/3d27d970-97aa-4c98-b92d-a457efe656b9.0016.03/DOC_1#src.E0006)) JO L 245 de 29.9.2003, p. 28."
+  },
+  "f40db5cd78d70557": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro de 2003\n\nque estabelece regras de execução do artigo 7.º da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002, respeitante à comercialização de sementes de produtos hortícolas ([^1^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#E0001)), alterada pela Directiva 2003/61/CE ([^2^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#E0002)), e, nomeadamente, o n.º 2, alíneas a) e b), do seu artigo 7.º,\n\n(1) A Directiva 72/168/CEE da Comissão, de 14 de Abril de 1972, que diz respeito à fixação dos caracteres e das condições mínimas para o exame das variedades das espécies de produtos hortícolas ([^3^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#E0003)), alterada pela Directiva 2002/8/CE ([^4^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#E0004)), estabeleceu, com vista à admissão oficial das variedades nos catálogos dos Estados-Membros, os caracteres que devem, no mínimo, ser submetidos a exame relativamente às várias espécies e as condições mínimas para a realização dos exames.\n\n(2) Foram recentemente estabelecidos princípios directores para o exame das variedades pelo Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) criado pelo Regulamento (CE) n.º 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais ([^5^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#E0005)), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1650/2003 ([^6^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#E0006)), no que diz respeito a certas espécies.\n\n(3) Existem, a nível internacional, princípios directores para o exame das variedades. A União Internacional para a protecção das variedades vegetais (UPOV) estabeleceu tais princípios directores.\n\n(4) A Directiva 72/168/CEE foi alterada pela Directiva 2002/8/CE para assegurar uma coerência entre os princípios directores do ICVV e as condições de exame das variedades com vista à sua admissão nos catálogos nacionais de variedades dos Estados-Membros na medida em que existiam princípios directores do ICVV. O ICVV estabeleceu entretanto princípios directores para várias outras espécies.\n\n(5) Deve ser assegurada a coerência entre os princípios directores do ICVV e as condições aplicáveis às variedades com vista à sua admissão nos catálogos nacionais dos Estados-Membros.\n\n(6) Quando o ICVV não tenha estabelecido ainda princípios directores específicos, é adequado basear o sistema comunitário nos princípios directores da UPOV. A legislação nacional é aplicável às espécies não abrangidas pela presente directiva.\n\n(7) A Directiva 72/168/CEE deve, pois, ser revogada.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "aaef359dbec31e1c": {
+   "fragment_id": "Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio emitidos pelo ICVV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio emitidos pelo ICVV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio emitidos pelo ICVV\n\n| Nome científico | Designação comum | Protocolo ICVV |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo cepa) | Cebola e «echalion» | TP 46/1 de 14.6.2005 |\n| *Allium cepa* L. (grupo aggregatum) | Chalota | TP 46/1 de 14.6.2005 |\n| *Allium porrum* L. | Alho-porro | TP 85/1 de 15.11.2001 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Asparagus officinalis* L. | Espargo | TP 130/1 de 27.3.2002 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/1 de 15.11.2001 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 de 21.3.2007 |\n| *Brassica oleracea* L. | Couve-de-bruxelas | TP 54/2 de 1.12.2005 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 de 25.3.2004 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/2 de 1.12.2005 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 de 21.3.2007 |\n| *Cichorium endivia* L. | Chicória frisada e escarola | TP 118/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória para café | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/1 de 25.3.2004 |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/1 de 21.3.2007 |\n| *Cucumis melo* L. | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus* L. | Pepinos | TP 61/1 de 27.3.2002 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 de 25.3.2004 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/1 de 25.3.2004 |\n| *Daucus carota* L. | Cenoura e cenoura forrageira | TP 49/2 de 1.12.2005 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/3 de 21.3.2007 |\n| *Lycopersicon esculentum* Mill. | Tomate | TP 44/3 de 21.3.2007 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijão-escarlate | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijões | TP 12/2 de 1.12.2005 |\n| *Pisum sativum* L. (partim) | Ervilha rugosa, ervilha lisa e ervilha torta | TP 7/1 de 6.11.2003 |\n| *Raphanus sativus* L. | Rabanete | TP 64/1 de 27.3.2002 |\n| *Spinacia oleracea* L. | Espinafre | TP 55/1 de 27.3.2002 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho doce e milho pipoca | TP 2/2 de 15.11.2001 |\n\nO texto destes protocolos encontra-se no sítio web do ICVV (www.cpvo.europa.eu)."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "90307d123dfc9802": {
+   "fragment_id": "Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem respeitar os princípios directores emitidos pela UPOV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem respeitar os princípios directores emitidos pela UPOV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem respeitar os princípios directores emitidos pela UPOV\n\n| Nome científico | Designação comum | Princípio director UPOV |\n| --- | --- | --- |\n| *Allium fistulosum* L. | Cebolinha comum | TG/161/3 de 1.4.1998 |\n| *Allium schoenoprasum* L. | Cebolinho | TG/198/1 de 9.4.2003 |\n| *Apium graveolens* L. | Aipo | TG/82/4 de 17.4.2002 |\n| *Apium graveolens* L. | Aipo-rábano | TG/74/4 corr. de 17.4.2002 + 5.4.2006 |\n| *Beta vulgaris* L. | Acelga | TG/106/4 de 31.3.2004 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TG/60/6 de 18.10.1996 |\n| *Brassica oleracea* L. | Couve-frisada | TG/90/6 de 31.3.2004 |\n| *Brassica rapa* L. | Couve-chinesa | TG/105/4 de 9.4.2003 |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n| *Cichorium intybus* L. | Chicória com folhas largas ou chicória italiana | TG/154/3 de 18.10.1996 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TG/155/4 de 14.3.2007 |\n| *Raphanus sativus* L. | Rábano | TG/63/6 de 24.3.1999 |\n| *Rheum rhabarbarum* L. | Ruibarbo | TG/62/6 de 24.3.1999 |\n| *Scorzonera hispanica* L. | Escorcioneira | TG/116/3 de 21.10.1988 |\n| *Solanum melongena* L. | Beringela | TG/117/4 de 17.4.2002 |\n\nO texto destes princípios directores encontra-se no sítio web da UPOV (www.upov.int).\n\n---"
+  },
+  "2530c773d467272c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#src.E0001)) JO L 193 de 20.7.2002, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#src.E0002)) JO L 165 de 3.7.2003, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#src.E0003)) JO L 103 de 2.5.1972, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#src.E0004)) JO L 37 de 7.2.2002, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#src.E0005)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e7dff04f-96a4-4178-9924-19b5c5c853e0.0017.03/DOC_1#src.E0006)) JO L 245 de 29.9.2003, p. 28."
+  },
+  "61dd66f23bc0366d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro de 2003\n\nque estabelece regras de execução do artigo 7.º da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002, respeitante à comercialização de sementes de produtos hortícolas ([^1^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#E0001)), alterada pela Directiva 2003/61/CE ([^2^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 2, alíneas a) e b), do seu artigo 7.º,\n\n(1) A Directiva 72/168/CEE da Comissão, de 14 de Abril de 1972, que diz respeito à fixação dos caracteres e das condições mínimas para o exame das variedades das espécies de produtos hortícolas ([^3^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#E0003)), alterada pela Directiva 2002/8/CE ([^4^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#E0004)), estabeleceu, com vista à admissão oficial das variedades nos catálogos dos Estados-Membros, os caracteres que devem, no mínimo, ser submetidos a exame relativamente às várias espécies e as condições mínimas para a realização dos exames.\n\n(2) Foram recentemente estabelecidos princípios directores para o exame das variedades pelo Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) criado pelo Regulamento (CE) n.º 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais ([^5^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#E0005)), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1650/2003 ([^6^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#E0006)), no que diz respeito a certas espécies.\n\n(3) Existem, a nível internacional, princípios directores para o exame das variedades. A União Internacional para a protecção das variedades vegetais (UPOV) estabeleceu tais princípios directores.\n\n(4) A Directiva 72/168/CEE foi alterada pela Directiva 2002/8/CE para assegurar uma coerência entre os princípios directores do ICVV e as condições de exame das variedades com vista à sua admissão nos catálogos nacionais de variedades dos Estados-Membros na medida em que existiam princípios directores do ICVV. O ICVV estabeleceu entretanto princípios directores para várias outras espécies.\n\n(5) Deve ser assegurada a coerência entre os princípios directores do ICVV e as condições aplicáveis às variedades com vista à sua admissão nos catálogos nacionais dos Estados-Membros.\n\n(6) Quando o ICVV não tenha estabelecido ainda princípios directores específicos, é adequado basear o sistema comunitário nos princípios directores da UPOV. A legislação nacional é aplicável às espécies não abrangidas pela presente directiva.\n\n(7) A Directiva 72/168/CEE deve, pois, ser revogada.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1b6b8f3e71ca617c": {
+   "fragment_id": "Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio emitidos pelo ICVV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio emitidos pelo ICVV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem respeitar os protocolos de ensaio emitidos pelo ICVV\n\n| Nome científico | Denominação comum | Protocolo ICVV |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo *cepa*) | Cebola e «echalion» | TP 46/1 de 14.6.2005 |\n| *Allium cepa* L. (grupo *aggregatum*) | Chalota | TP 46/1 de 14.6.2005 |\n| *Allium porrum* L. | Alho-porro | TP 85/1 de 15.11.2001 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargo | TP 130/1 de 27.3.2002 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/1 de 15.11.2001 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 de 21.3.2007 |\n| *Brassica oleracea* L. | Couve-de-bruxelas | TP 54/2 de 1.12.2005 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 de 25.3.2004 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/2 de 1.12.2005 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 de 21.3.2007 |\n| *Cichorium endivia* L. | Chicória frisada e escarola | TP 118/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória para café | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória “witloof” | TP 173/1 de 25.3.2004 |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/1 de 21.3.2007 |\n| *Cucumis melo* L. | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus* L. | Pepinos | TP 61/2 de 13.3.2008 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 de 25.3.2004 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/1 de 25.3.2004 |\n| *Daucus carota* L. | Cenoura e cenoura forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/3 de 21.3.2007 |\n| *Lycopersicon esculentum* Mill. | Tomate | TP 44/3 de 21.3.2007 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijão-escarlate | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijões | TP 12/2 de 1.12.2005 |\n| *Pisum sativum* L. (partim) | Ervilha rugosa, ervilha lisa e ervilha torta | TP 7/1 de 6.11.2003 |\n| *Raphanus sativus* L. | Rabanete | TP 64/1 de 27.3.2002 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafre | TP 55/2 de 13.3.2008 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho doce e milho pipoca | TP 2/2 de 15.11.2001 |\n\nO texto destes protocolos encontra-se no sítio *web* do ICVV (www.cpvo.europa.eu)."
+  },
+  "8ed6bf1d78156ae0": {
+   "fragment_id": "Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores da UPOV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores da UPOV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores da UPOV\n\n| Nome científico | Denominação comum | Princípio director UPOV |\n| --- | --- | --- |\n| *Allium fistulosum* L. | Cebolinha comum | TG/161/3 de 1.4.1998 |\n| *Allium schoenoprasum* L. | Cebolinho de | TG/198/1 de 9.4.2003 |\n| *Beta vulgaris* L. | Acelga | TG/106/4 de 31.3.2004 |\n| *Beta vulgaris* L. | Beterraba, incluindo “Cheltenham beet” | TG/60/7 de 9.4.2008 |\n| *Brassica oleracea* L. | Couve-frisada | TG/90/6 de 31.3.2004 |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n| *Cichorium intybus* L. | Chicória com folhas largas ou chicória italiana | TG/154/3 de 18.10.1996 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TG/155/4 de 28.3.2007 |\n| *Raphanus sativus* L. | Rábano | TG/63/6 de 24.3.1999 |\n| *Rheum rhabarbarum* L. | Ruibarbo | TG/62/6 de 24.3.1999 |\n| *Scorzonera hispanica* L. | Escorcioneira | TG/116/3 de 21.10.1988 |\n\nO texto destes princípios orientadores encontra-se no sítio *web* da UPOV (www.upov.int).\n\n---"
+  },
+  "66079313d9dbd9f7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#src.E0001)) JO L 193 de 20.7.2002, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#src.E0002)) JO L 165 de 3.7.2003, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#src.E0003)) JO L 103 de 2.5.1972, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#src.E0004)) JO L 37 de 7.2.2002, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#src.E0005)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8ad8525a-bcc1-43a0-8d84-fcae715d34dd.0018.03/DOC_1#src.E0006)) JO L 245 de 29.9.2003, p. 28."
+  },
+  "f82a1259d13cd14c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro de 2003\n\nque estabelece regras de execução do artigo 7.º da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002, respeitante à comercialização de sementes de produtos hortícolas ([^1^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#E0001)), alterada pela Directiva 2003/61/CE ([^2^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 2, alíneas a) e b), do seu artigo 7.º,\n\n(1) A Directiva 72/168/CEE da Comissão, de 14 de Abril de 1972, que diz respeito à fixação dos caracteres e das condições mínimas para o exame das variedades das espécies de produtos hortícolas ([^3^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#E0003)), alterada pela Directiva 2002/8/CE ([^4^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#E0004)), estabeleceu, com vista à admissão oficial das variedades nos catálogos dos Estados-Membros, os caracteres que devem, no mínimo, ser submetidos a exame relativamente às várias espécies e as condições mínimas para a realização dos exames.\n\n(2) Foram recentemente estabelecidos princípios directores para o exame das variedades pelo Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) criado pelo Regulamento (CE) n.º 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais ([^5^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#E0005)), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1650/2003 ([^6^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#E0006)), no que diz respeito a certas espécies.\n\n(3) Existem, a nível internacional, princípios directores para o exame das variedades. A União Internacional para a protecção das variedades vegetais (UPOV) estabeleceu tais princípios directores.\n\n(4) A Directiva 72/168/CEE foi alterada pela Directiva 2002/8/CE para assegurar uma coerência entre os princípios directores do ICVV e as condições de exame das variedades com vista à sua admissão nos catálogos nacionais de variedades dos Estados-Membros na medida em que existiam princípios directores do ICVV. O ICVV estabeleceu entretanto princípios directores para várias outras espécies.\n\n(5) Deve ser assegurada a coerência entre os princípios directores do ICVV e as condições aplicáveis às variedades com vista à sua admissão nos catálogos nacionais dos Estados-Membros.\n\n(6) Quando o ICVV não tenha estabelecido ainda princípios directores específicos, é adequado basear o sistema comunitário nos princípios directores da UPOV. A legislação nacional é aplicável às espécies não abrangidas pela presente directiva.\n\n(7) A Directiva 72/168/CEE deve, pois, ser revogada.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d4d80cee95ae0e7c": {
+   "fragment_id": "Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem obedecer aos protocolos de ensaio do ICVV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem obedecer aos protocolos de ensaio do ICVV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no n.º 2, alínea a), do artigo 1.º, que devem obedecer aos protocolos de ensaio do ICVV\n\n| Nome científico | Denominação comum | Protocolo ICVV |\n| --- | --- | --- |\n| *Allium cepa* L. (Cepa group) | Cebola e «echalion» | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo *aggregatum*) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium porrum* L. | Alho-porro | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/1 de 1.4.2009 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Celeriac | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargo | TP 130/1 de 27.3.2002 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/1 de 15.11.2001 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 de 21.3.2007 |\n| *Brassica oleracea* L. | Couve-de-bruxelas | TP 54/2 de 1.12.2005 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 de 25.3.2004 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/2 de 1.12.2005 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 de 21.3.2007 |\n| *Cichorium endivia* L. | Chicória frisada e escarola | TP 118/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória para café | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/1 de 25.3.2004 |\n| *Citrullus lanatus* (Thumb.) Matsum. et Nakai | Melancia | TP 142/1 de 21.3.2007 |\n| *Cucumis melo* L. | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus* L. | Pepinos | TP 61/2 de 13.3.2008 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 de 25.3.2004 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/1 de 25.3.2004 |\n| *Daucus carota* L. | Cenoura e cenoura forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/4 de 1.4.2009 |\n| *Lycopersicon esculentum* Mill. | Tomate | TP 44/3 de 21.3.2007 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijão-escarlate | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijões | TP 12/3 de 1.4.2009 |\n| *Pisum sativum* L. (partim) | Ervilha rugosa, ervilha lisa e ervilha torta | TP 7/1 de 6.11.2003 |\n| *Raphanus sativus* L. | Rabanete | TP 64/1 de 27.3.2002 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafre | TP 55/2 de 13.3.2008 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho doce e milho pipoca | TP 2/2 de 15.11.2001 |\n\nO texto destes protocolos encontra-se no sítio *web* do ICVV (www.cpvo.europa.eu)."
+  },
+  "01a5a7495aa44e73": {
+   "fragment_id": "Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores da UPOV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores da UPOV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no n.º 2, alínea b), do artigo 1.º, que devem obedecer aos princípios directores da UPOV\n\n| Nome científico | Denominação comum | Princípios directores UPOV |\n| --- | --- | --- |\n| *Allium fistulosum* L. | Cebolinha-comum | TG/161/3 de 1.4.1998 |\n| *Beta vulgaris* L. | Acelga | TG/106/4 de 31.3.2004 |\n| *Brassica oleracea* L. | Couve-frisada | TG/90/6 de 31.3.2004 |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n| *Cichorium intybus* L. | Chicória com folhas largas ou chicória italiana | TG/154/3 de 18.10.1996 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TG/155/4 de 28.3.2007 |\n| *Raphanus sativus* L. | Rábano | TG/63/6 de 24.3.1999 |\n| *Rheum rhabarbarum* L. | Ruibarbo | TG/62/6 de 24.3.1999 |\n| *Scorzonera hispanica* L. | Escorcioneira | TG/116/3 de 21.10.1988 |\n\nO texto destes princípios directores encontra-se no sítio *web* da UPOV (www.upov.int).\n\n---"
+  },
+  "ee2c0514099b3259": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#src.E0001)) JO L 193 de 20.7.2002, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#src.E0002)) JO L 165 de 3.7.2003, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#src.E0003)) JO L 103 de 2.5.1972, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#src.E0004)) JO L 37 de 7.2.2002, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#src.E0005)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/63c289fc-2d8c-4da6-abee-d4d44f2242c2.0018.03/DOC_1#src.E0006)) JO L 245 de 29.9.2003, p. 28."
+  },
+  "9c6a13018a5e218a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro de 2003\n\nque estabelece regras de execução do artigo 7.º da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002, respeitante à comercialização de sementes de produtos hortícolas ([^1^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#E0001)), alterada pela Directiva 2003/61/CE ([^2^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 2, alíneas a) e b), do seu artigo 7.º,\n\n(1) A Directiva 72/168/CEE da Comissão, de 14 de Abril de 1972, que diz respeito à fixação dos caracteres e das condições mínimas para o exame das variedades das espécies de produtos hortícolas ([^3^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#E0003)), alterada pela Directiva 2002/8/CE ([^4^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#E0004)), estabeleceu, com vista à admissão oficial das variedades nos catálogos dos Estados-Membros, os caracteres que devem, no mínimo, ser submetidos a exame relativamente às várias espécies e as condições mínimas para a realização dos exames.\n\n(2) Foram recentemente estabelecidos princípios directores para o exame das variedades pelo Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) criado pelo Regulamento (CE) n.º 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais ([^5^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#E0005)), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1650/2003 ([^6^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#E0006)), no que diz respeito a certas espécies.\n\n(3) Existem, a nível internacional, princípios directores para o exame das variedades. A União Internacional para a protecção das variedades vegetais (UPOV) estabeleceu tais princípios directores.\n\n(4) A Directiva 72/168/CEE foi alterada pela Directiva 2002/8/CE para assegurar uma coerência entre os princípios directores do ICVV e as condições de exame das variedades com vista à sua admissão nos catálogos nacionais de variedades dos Estados-Membros na medida em que existiam princípios directores do ICVV. O ICVV estabeleceu entretanto princípios directores para várias outras espécies.\n\n(5) Deve ser assegurada a coerência entre os princípios directores do ICVV e as condições aplicáveis às variedades com vista à sua admissão nos catálogos nacionais dos Estados-Membros.\n\n(6) Quando o ICVV não tenha estabelecido ainda princípios directores específicos, é adequado basear o sistema comunitário nos princípios directores da UPOV. A legislação nacional é aplicável às espécies não abrangidas pela presente directiva.\n\n(7) A Directiva 72/168/CEE deve, pois, ser revogada.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b89a9228c99005ea": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV\n\n| Nome científico | Denominação comum | Protocolo ICVV |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo *cepa*) | Cebola e “echalion” | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo *aggregatum*) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alho-porro | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/1 de 1.4.2009 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargo | TP 130/1 de 27.3.2002 |\n| *Beta vulgaris* L. | Beterraba, incluindo “Cheltenham beet” | TP 60/1 de 1.4.2009 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 de 11.3.2010 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 de 21.3.2007 |\n| *Brassica oleracea* L. | Couve-de-bruxelas | TP 54/2 de 1.12.2005 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 de 25.3.2004 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/2 de 1.12.2005 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 de 21.3.2007 |\n| *Cichorium endivia* L. | Chicória frisada e escarola | TP 118/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória para café | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória “witloof” | TP 173/1 de 25.3.2004 |\n| *Citrullus lanatus* (Thumb.) Matsum. et Nakai | Melancia | TP 142/1 de 21.3.2007 |\n| *Cucumis melo* L. | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus* L. | Pepinos e pepininhos | TP 61/2 de 13.3.2008 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 de 25.3.2004 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/1 de 25.3.2004 |\n| *Daucus carota* L. | Cenoura e cenoura forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/4 de 1.4.2009 |\n| *Lycopersicon esculentum* Mill. | Tomate | TP 44/3 de 21.3.2007 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijão-escarlate | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijões | TP 12/3 de 1.4.2009 |\n| *Pisum sativum* L. (partim) | Ervilha rugosa, ervilha lisa e ervilha torta | TP 7/2 de 11.3.2010 |\n| *Raphanus sativus* L. | Rabanete | TP 64/1 de 27.3.2002 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafre | TP 55/3 de 11.3.2010 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho doce e milho pipoca | TP 2/3 de 11.3.2010 |\n\nO texto destes protocolos encontra-se no sítio *web* do ICVV (www.cpvo.europa.eu)."
+  },
+  "b63aedf81b436bd1": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV\n\n| Nome científico | Denominação comum | Princípios directores UPOV |\n| --- | --- | --- |\n| *Beta vulgaris* L. | Acelga | TG/106/4 de 31.3.2004 |\n| *Brassica oleracea* L. | Couve-frisada | TG/90/6 de 31.3.2004 |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n| *Cichorium intybus* L. | Chicória com folhas largas ou chicória italiana | TG/154/3 de 18.10.1996 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TG/155/4rev. de 28.3.2007 + 1.4.2009 |\n| *Raphanus sativus* L. | Rábano | TG/63/6 de 24.3.1999 |\n| *Rheum rhabarbarum* L. | Ruibarbo | TG/62/6 de 24.3.1999 |\n| *Scorzonera hispanica* L. | Escorcioneira | TG/116/4 de 24.3.2010 |\n\nO texto destes princípios directores encontra-se no sítio *web* da UPOV (www.upov.int).\n\n---"
+  },
+  "6b0a6e4e4cabcf3b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#src.E0001)) JO L 193 de 20.7.2002, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#src.E0002)) JO L 165 de 3.7.2003, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#src.E0003)) JO L 103 de 2.5.1972, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#src.E0004)) JO L 37 de 7.2.2002, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#src.E0005)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/18b8d697-d20e-4b77-bf78-423b907d1896.0018.03/DOC_1#src.E0006)) JO L 245 de 29.9.2003, p. 28."
+  },
+  "ca39f752635e1082": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro de 2003\n\nque estabelece regras de execução do artigo 7.º da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002, respeitante à comercialização de sementes de produtos hortícolas ([^1^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#E0001)), alterada pela Directiva 2003/61/CE ([^2^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 2, alíneas a) e b), do seu artigo 7.º,\n\n(1) A Directiva 72/168/CEE da Comissão, de 14 de Abril de 1972, que diz respeito à fixação dos caracteres e das condições mínimas para o exame das variedades das espécies de produtos hortícolas ([^3^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#E0003)), alterada pela Directiva 2002/8/CE ([^4^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#E0004)), estabeleceu, com vista à admissão oficial das variedades nos catálogos dos Estados-Membros, os caracteres que devem, no mínimo, ser submetidos a exame relativamente às várias espécies e as condições mínimas para a realização dos exames.\n\n(2) Foram recentemente estabelecidos princípios directores para o exame das variedades pelo Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) criado pelo Regulamento (CE) n.º 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais ([^5^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#E0005)), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1650/2003 ([^6^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#E0006)), no que diz respeito a certas espécies.\n\n(3) Existem, a nível internacional, princípios directores para o exame das variedades. A União Internacional para a protecção das variedades vegetais (UPOV) estabeleceu tais princípios directores.\n\n(4) A Directiva 72/168/CEE foi alterada pela Directiva 2002/8/CE para assegurar uma coerência entre os princípios directores do ICVV e as condições de exame das variedades com vista à sua admissão nos catálogos nacionais de variedades dos Estados-Membros na medida em que existiam princípios directores do ICVV. O ICVV estabeleceu entretanto princípios directores para várias outras espécies.\n\n(5) Deve ser assegurada a coerência entre os princípios directores do ICVV e as condições aplicáveis às variedades com vista à sua admissão nos catálogos nacionais dos Estados-Membros.\n\n(6) Quando o ICVV não tenha estabelecido ainda princípios directores específicos, é adequado basear o sistema comunitário nos princípios directores da UPOV. A legislação nacional é aplicável às espécies não abrangidas pela presente directiva.\n\n(7) A Directiva 72/168/CEE deve, pois, ser revogada.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "83080721afd23f72": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV\n\n| Nome científico | Denominação comum | Protocolo ICVV |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo *cepa*) | Cebola e «echalion» | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo *aggregatum*) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alho-porro | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/1 de 1.4.2009 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargo | TP 130/2 de 16.2.2011 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009 |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 de 11.3.2010 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 de 21.3.2007 |\n| *Brassica oleracea* L. | Couve-de-bruxelas | TP 54/2 de 1.12.2005 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 de 25.3.2004 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 de 16.2.2011 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 de 21.3.2007 |\n| *Cichorium endivia* L. | Chicória frisada e escarola | TP 118/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória para café | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/1 de 25.3.2004 |\n| *Citrullus lanatus* (Thumb.) Matsum. et Nakai | Melancia | TP 142/1 de 21.3.2007 |\n| *Cucumis melo* L. | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus* L. | Pepinos e pepininhos | TP 61/2 de 13.3.2008 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 de 25.3.2004 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/1 de 25.3.2004 |\n| *Daucus carota* L. | Cenoura e cenoura forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/5 de 16.2.2011 |\n| *Lycopersicon esculentum* Mill. | Tomate | TP 44/3 de 21.3.2007 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijão-escarlate | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijões | TP 12/3 de 1.4.2009 |\n| *Pisum sativum* L. (partim) | Ervilha rugosa, ervilha lisa e ervilha torta | TP 7/2 de 11.3.2010 |\n| *Raphanus sativus* L. | Rabanete | TP 64/1 de 27.3.2002 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafre | TP 55/3 de 11.3.2010 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004. |\n| *Zea mays* L. (partim) | Milho doce e milho pipoca | TP 2/3 de 11.3.2010. |\n\nO texto destes protocolos encontra-se no sítio *web* do ICVV (www.cpvo.europa.eu)."
+  },
+  "0342f3ffe2cf5c0f": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV\n\n| Nome científico | Denominação comum | Princípios directores UPOV |\n| --- | --- | --- |\n| *Beta vulgaris* L. | Acelga | TG/106/4 de 31.3.2004 |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001. |\n| *Cichorium intybus* L. | Chicória com folhas largas ou chicória italiana | TG/154/3 de 18.10.1996. |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TG/155/4rev. de 28.3.2007 + 1.4.2009 |\n| *Raphanus sativus* L. | Rábano | TG/63/6 de 24.3.1999 |\n| *Rheum rhabarbarum* L. | Ruibarbo | TG/62/6 de 24.3.1999 |\n| *Scorzonera hispanica* L. | Escorcioneira | TG/116/4 de 24.3.2010 |\n\nO texto destes princípios directores encontra-se no sítio *web* da UPOV (www.upov.int).\n\n---"
+  },
+  "302cbbe4aac6ef05": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#src.E0001)) JO L 193 de 20.7.2002, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#src.E0002)) JO L 165 de 3.7.2003, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#src.E0003)) JO L 103 de 2.5.1972, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#src.E0004)) JO L 37 de 7.2.2002, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#src.E0005)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/9e8b0733-3540-4c53-8a6d-16adde63403f.0018.03/DOC_1#src.E0006)) JO L 245 de 29.9.2003, p. 28."
+  },
+  "66624e3205919faf": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro de 2003\n\nque estabelece regras de execução do artigo 7.º da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002, respeitante à comercialização de sementes de produtos hortícolas ([^1^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#E0001)), alterada pela Directiva 2003/61/CE ([^2^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 2, alíneas a) e b), do seu artigo 7.º,\n\n(1) A Directiva 72/168/CEE da Comissão, de 14 de Abril de 1972, que diz respeito à fixação dos caracteres e das condições mínimas para o exame das variedades das espécies de produtos hortícolas ([^3^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#E0003)), alterada pela Directiva 2002/8/CE ([^4^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#E0004)), estabeleceu, com vista à admissão oficial das variedades nos catálogos dos Estados-Membros, os caracteres que devem, no mínimo, ser submetidos a exame relativamente às várias espécies e as condições mínimas para a realização dos exames.\n\n(2) Foram recentemente estabelecidos princípios directores para o exame das variedades pelo Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) criado pelo Regulamento (CE) n.º 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais ([^5^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#E0005)), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1650/2003 ([^6^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#E0006)), no que diz respeito a certas espécies.\n\n(3) Existem, a nível internacional, princípios directores para o exame das variedades. A União Internacional para a protecção das variedades vegetais (UPOV) estabeleceu tais princípios directores.\n\n(4) A Directiva 72/168/CEE foi alterada pela Directiva 2002/8/CE para assegurar uma coerência entre os princípios directores do ICVV e as condições de exame das variedades com vista à sua admissão nos catálogos nacionais de variedades dos Estados-Membros na medida em que existiam princípios directores do ICVV. O ICVV estabeleceu entretanto princípios directores para várias outras espécies.\n\n(5) Deve ser assegurada a coerência entre os princípios directores do ICVV e as condições aplicáveis às variedades com vista à sua admissão nos catálogos nacionais dos Estados-Membros.\n\n(6) Quando o ICVV não tenha estabelecido ainda princípios directores específicos, é adequado basear o sistema comunitário nos princípios directores da UPOV. A legislação nacional é aplicável às espécies não abrangidas pela presente directiva.\n\n(7) A Directiva 72/168/CEE deve, pois, ser revogada.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "247e7abb4374ec61": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Nome científico | Denominação comum | Protocolo ICVV |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo cepa) | Cebola e «echalion» | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo aggregatum) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alhos franceses (alho porro) | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinhos | TP 198/1 de 1.4.2009 |\n| *Apium graveolens* L. | Aipos | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipos-rábanos | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargos | TP 130/2 de 16.2.2011 |\n| *Beta vulgaris L.* | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009 |\n| *Brassica oleracea L.* | Couve-frisada | TP 90/1 de 16.2.2011 |\n| *Brassica oleracea L.* | Couves-flor | TP 45/2 de 11.3.2010 |\n| *Brassica oleracea L.* | Couve-brócolo | TP 151/2 de 21.3.2007 |\n| *Brassica oleracea L.* | Couves-de-bruxelas | TP 54/2 de 1.12.2005 |\n| *Brassica oleracea L.* | Couves rábano | TP 65/1 de 25.3.2004 |\n| *Brassica oleracea L.* | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 de 16.2.2011 |\n| *Brassica rapa L.* | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum L.* | Pimento | TP 76/2 de 21.3.2007 |\n| *Cichorium endivia L.* | Chicória frisada e escarola | TP 118/2 de 1.12.2005 |\n| *Cichorium intybus L.* | Chicória para café | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus L.* | Chicória «witloof» | TP 173/1 de 25.3.2004 |\n| *Citrullus lanatus (Thunb.) Matsum. et Nakai* | Melancia | TP 142/1 de 21.3.2007 |\n| *Cucumis melo L.* | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus L.* | Pepinos e pepininhos | TP 61/2 de 13.3.2008 |\n| *Cucurbita pepo L.* | Abóbora-porqueira e aboborinha | TP 119/1 de 25.3.2004 |\n| *Cynara cardunculus L.* | Alcachofra e cardo | TP 184/1 de 25.3.2004 |\n| *Daucus carota L.* | Cenoura e cenoura forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare Mill.* | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa L.* | Alface | TP 13/5 de 16.2.2011 |\n| *Lycopersicon esculentum Mill.* | Tomates | TP 44/4 de 21.3.2012 |\n| *Petroselinum crispum (Miller) Nyman ex A. W. Hill* | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus L.* | Feijão-escarlate | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris L.* | Feijões | TP 12/3 de 1.4.2009 |\n| *Pisum sativum L. (partim)* | Ervilha rugosa, ervilha lisa e ervilha torta | TP 7/2 de 11.3.2010 |\n| *Raphanus sativus L.* | Rabanete | TP 64/1 de 27.3.2002 |\n| *Solanum melongena L.* | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea L.* | Espinafres | TP 55/4 de 21.3.2012 |\n| *Valerianella locusta (L.) Laterr.* | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho doce e milho pipoca | TP 2/3 de 11.3.2010 |\n| O texto destes protocolos encontra-se no sítio *web* do ICVV (www.cpvo.europa.eu). |  |  |"
+  },
+  "0555c49e452673cc": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| Nome científico | Denominação comum | Princípios diretores UPOV |\n| --- | --- | --- |\n| *Beta vulgaris* L. | Acelga | TG/106/4 de 31.3.2004 |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n| *Cichorium intybus* L. | Chicória com folhas largas ou chicória italiana | TG/154/3 de 18.10.1996 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TG/155/4rev. de 28.3.2007 + 1.4.2009 |\n| *Raphanus sativus* L. | Rábano | TG/63/7 de 28.3.2012 |\n| *Rheum rhabarbarum* L. | Ruibarbos | TG/62/6 de 24.3.1999 |\n| *Scorzonera hispanica* L. | Escorcioneira | TG/116/4 de 24.3.2010 |\n| O texto destes princípios diretores encontra-se no sítio *web* da UPOV (www.upov.int). |  |  |\n\n---"
+  },
+  "aa8801eb5db81275": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#src.E0001)) JO L 193 de 20.7.2002, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#src.E0002)) JO L 165 de 3.7.2003, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#src.E0003)) JO L 103 de 2.5.1972, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#src.E0004)) JO L 37 de 7.2.2002, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#src.E0005)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/dd93a046-0a43-449f-bf7c-09683ca57b38.0018.03/DOC_1#src.E0006)) JO L 245 de 29.9.2003, p. 28."
+  },
+  "2433a984db2dcb9c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro de 2003\n\nque estabelece regras de execução do artigo 7.º da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002, respeitante à comercialização de sementes de produtos hortícolas ([^1^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0001)), alterada pela Directiva 2003/61/CE ([^2^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 2, alíneas a) e b), do seu artigo 7.º,\n\n(1) A Directiva 72/168/CEE da Comissão, de 14 de Abril de 1972, que diz respeito à fixação dos caracteres e das condições mínimas para o exame das variedades das espécies de produtos hortícolas ([^3^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0003)), alterada pela Directiva 2002/8/CE ([^4^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0004)), estabeleceu, com vista à admissão oficial das variedades nos catálogos dos Estados-Membros, os caracteres que devem, no mínimo, ser submetidos a exame relativamente às várias espécies e as condições mínimas para a realização dos exames.\n\n(2) Foram recentemente estabelecidos princípios directores para o exame das variedades pelo Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) criado pelo Regulamento (CE) n.º 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais ([^5^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0005)), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1650/2003 ([^6^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#E0006)), no que diz respeito a certas espécies.\n\n(3) Existem, a nível internacional, princípios directores para o exame das variedades. A União Internacional para a protecção das variedades vegetais (UPOV) estabeleceu tais princípios directores.\n\n(4) A Directiva 72/168/CEE foi alterada pela Directiva 2002/8/CE para assegurar uma coerência entre os princípios directores do ICVV e as condições de exame das variedades com vista à sua admissão nos catálogos nacionais de variedades dos Estados-Membros na medida em que existiam princípios directores do ICVV. O ICVV estabeleceu entretanto princípios directores para várias outras espécies.\n\n(5) Deve ser assegurada a coerência entre os princípios directores do ICVV e as condições aplicáveis às variedades com vista à sua admissão nos catálogos nacionais dos Estados-Membros.\n\n(6) Quando o ICVV não tenha estabelecido ainda princípios directores específicos, é adequado basear o sistema comunitário nos princípios directores da UPOV. A legislação nacional é aplicável às espécies não abrangidas pela presente directiva.\n\n(7) A Directiva 72/168/CEE deve, pois, ser revogada.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f3fef405bbc98204": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Nome científico | Nome comum | Protocolo ICVV |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo *Cepa*) | Cebola e «echalion» | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo *aggregatum*) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alhos-franceses (alho-porro) | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinhos | TP 198/1 de 1.4.2009 |\n| *Apium graveolens* L. | Aipos | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipos-rábanos | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargos | TP 130/2 de 16.2.2011 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009 |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011 |\n| *Brassica oleracea* L. | Couves-flor | TP 45/2 de 11.3.2010 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 de 21.3.2007 |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 de 1.12.2005 |\n| *Brassica oleracea* L. | Couves-rábano | TP 65/1 de 25.3.2004 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 de 16.2.2011 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 de 21.3.2007 |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória para café | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/1 de 25.3.2004 |\n| *Citrullus lanatus* (Thumb.) Matsum. et Nakai | Melancia | TP 142/1 de 21.3.2007 |\n| *Cucumis melo* L. | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus* L. | Pepinos e pepininhos | TP 61/2 de 13.3.2008 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 de 25.3.2004 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 de 27.2.2013 |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/5 de 16.2.2011 |\n| *Solanum Lycopersicum* L. | Tomates | TP 44/4 rev. 1 de 27.2.2013 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijão-escarlate | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijões | TP 12/4 de 27.2.2013 |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 de 11.3.2010 |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 de 27.2.2013 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafres | TP 55/5 de 27.2.2013 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010 |\n| O texto destes protocolos encontra-se no sítio *web* do ICVV (www.cpvo.europa.eu). |  |  |"
+  },
+  "d58cc5c50cb411a7": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| Nome científico | Nome comum | Princípios diretores UPOV |\n| --- | --- | --- |\n| *Beta vulgaris* L. | Acelga | TG/106/4 de 31.3.2004 |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n| *Cichorium intybus* L. | Chicória-com-folhas-largas ou chicória-italiana | TG/154/3 de 18.10.1996 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TG/155/4rev. de 28.3.2007 + 1.4.2009 |\n| *Rheum rhabarbarum* L. | Ruibarbos | TG/62/6 de 24.3.1999 |\n| *Scorzonera hispanica* L. | Escorcioneira | TG/116/4 de 24.3.2010 |\n| *Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg* | Porta-enxertos de tomate | TG/294/1 de 20.3.2013 |\n| O texto destes princípios diretores encontra-se no sítio *web* da UPOV (www.upov.int). |  |  |\n\n---"
+  },
+  "a66feae78e14e919": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0001)) JO L 193 de 20.7.2002, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0002)) JO L 165 de 3.7.2003, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0003)) JO L 103 de 2.5.1972, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0004)) JO L 37 de 7.2.2002, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0005)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/874710c5-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1#src.E0006)) JO L 245 de 29.9.2003, p. 28."
+  },
+  "6a55ad241e7965b9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro de 2003\n\nque estabelece regras de execução do artigo 7.º da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/55/CE do Conselho, de 13 de Junho de 2002, respeitante à comercialização de sementes de produtos hortícolas ([^1^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#E0001)), alterada pela Directiva 2003/61/CE ([^2^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#E0002)), e, nomeadamente, o n.º 2, alíneas a) e b), do seu artigo 7.º,\n\n(1) A Directiva 72/168/CEE da Comissão, de 14 de Abril de 1972, que diz respeito à fixação dos caracteres e das condições mínimas para o exame das variedades das espécies de produtos hortícolas ([^3^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#E0003)), alterada pela Directiva 2002/8/CE ([^4^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#E0004)), estabeleceu, com vista à admissão oficial das variedades nos catálogos dos Estados-Membros, os caracteres que devem, no mínimo, ser submetidos a exame relativamente às várias espécies e as condições mínimas para a realização dos exames.\n\n(2) Foram recentemente estabelecidos princípios directores para o exame das variedades pelo Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) criado pelo Regulamento (CE) n.º 2100/94 do Conselho, de 27 de Julho de 1994, relativo ao regime comunitário de protecção das variedades vegetais ([^5^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#E0005)), com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1650/2003 ([^6^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#E0006)), no que diz respeito a certas espécies.\n\n(3) Existem, a nível internacional, princípios directores para o exame das variedades. A União Internacional para a protecção das variedades vegetais (UPOV) estabeleceu tais princípios directores.\n\n(4) A Directiva 72/168/CEE foi alterada pela Directiva 2002/8/CE para assegurar uma coerência entre os princípios directores do ICVV e as condições de exame das variedades com vista à sua admissão nos catálogos nacionais de variedades dos Estados-Membros na medida em que existiam princípios directores do ICVV. O ICVV estabeleceu entretanto princípios directores para várias outras espécies.\n\n(5) Deve ser assegurada a coerência entre os princípios directores do ICVV e as condições aplicáveis às variedades com vista à sua admissão nos catálogos nacionais dos Estados-Membros.\n\n(6) Quando o ICVV não tenha estabelecido ainda princípios directores específicos, é adequado basear o sistema comunitário nos princípios directores da UPOV. A legislação nacional é aplicável às espécies não abrangidas pela presente directiva.\n\n(7) A Directiva 72/168/CEE deve, pois, ser revogada.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "7f515ff237433c1a": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV\n\n| Nome científico | Nome comum | Protocolo ICVV |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo *Ccepa*) | Cebola e “echalion” | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo *aggregatum*) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alho-francês (alho-porro) | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/1 de 1.4.2009 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargos | TP 130/2 de 16.2.2011 |\n| *Beta vulgaris* L. | Beterraba, incluindo “Cheltenham beet” | TP 60/1 de 1.4.2009 |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 de 11.3.2010 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 de 21.3.2007 |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 de 1.12.2005 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 de 25.3.2004 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 de 16.2.2011 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 de 21.3.2007 |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/3 de 19.3.2014 |\n| *Cichorium intybus* L. | Chicória para café | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória “witloof” | TP 173/1 de 25.3.2004 |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/2 de 19.3.2014 |\n| *Cucumis melo* L. | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus* L. | Pepino e pepininho | TP 61/2 de 13.3.2008 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1rev. de 19.3.2014 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 de 27.2.2013 |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/5 de 16.2.2011 |\n| *Solanum lycopersicum* L. | Tomate | TP 44/4 rev. de 27.2.2013 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijão-escarlate | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijões | TP 12/4 de 27.2.2013 |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 de 11.3.2010 |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 de 27.2.2013 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafres | TP 55/5 de 27.2.2013 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010 |\n| *Solanum lycopersicum* L. × *Solanum habrochaites* S. Knapp & D.M. Spooner; *Solanum lycopersicum* L. × *Solanum peruvianum* (L.) Mill.; *Solanum lycopersicum* L. × *Solanum cheesmaniae* (L. Ridley) Fosberg | Porta-enxertos de tomate | TP 294/1 de 19.3.2014 |\n\nO texto destes protocolos encontra-se no sítio *web* do ICVV (www.cpvo.europa.eu)."
+  },
+  "90284822693219e3": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios directores da UPOV\n\n| Nome científico | Nome comum | Princípios diretores UPOV |\n| --- | --- | --- |\n| *Beta vulgaris* L. | Acelga | TG/106/4 de 31.3.2004 |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n| *Cichorium intybus* L. | Chicória-com-folhas-largas ou chicória-italiana | TG/154/3 de 18.10.1996 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TG/155/4rev. de 28.3.2007 + 1.4.2009 |\n| *Rheum rhabarbarum* L. | Ruibarbo | TG/62/6 de 24.3.1999 |\n| *Scorzonera hispanica* L. | Escorcioneira | TG/116/4 de 24.3.2010 |\n\nO texto destes princípios diretores encontra-se no sítio *web* da UPOV(www.upov.int).\n\n---"
+  },
+  "5832be821f4ba5cc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#src.E0001)) JO L 193 de 20.7.2002, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#src.E0002)) JO L 165 de 3.7.2003, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#src.E0003)) JO L 103 de 2.5.1972, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#src.E0004)) JO L 37 de 7.2.2002, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#src.E0005)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a39a762a-b404-40fc-96d9-6711f585a31f.0015.02/DOC_1#src.E0006)) JO L 245 de 29.9.2003, p. 28."
+  },
+  "277771a958bf33f9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro de 2003\n\nque estabelece regras de execução do artigo 7.º da Directiva 2002/55/CE do Conselho no que diz respeito aos caracteres que, no mínimo, devem ser apreciados pelo exame e às condições mínimas para o exame de determinadas variedades de espécies hortícolas\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "e4e45b2a9186eff3": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| **Nome científico** | **Nome comum** | **Protocolo ICVV** |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo cepa) | Cebola e echalion | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo *Aggregatum*) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alho-francês (alho-porro) | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/2 de 11.3.2015 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargo | TP 130/2 de 16.2.2011 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009 |\n| *Beta vulgaris* L. | Acelga | TP 106/1 de 11.3.2015 |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 de 11.3.2010 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 de 21.3.2007 |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 de 1.12.2005 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 de 25.3.2004 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 de 16.2.2011 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 de 21.3.2007 |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/3 de 19.3.2014 |\n| *Cichorium intybus* L. | Chicória para café | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/1 de 25.3.2004 |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/2 de 19.3.2014 |\n| *Cucumis melo* L. | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus* L. | Pepino e pepininho | TP 61/2 de 13.3.2008 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TP 155/1 de 11.3.2015 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1rev. de 19.3.2014 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 de 27.2.2013 |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/5 de 16.2.2011 |\n| *Solanum lycopersicum* L. | Tomate | TP 44/4 rev. de 27.2.2013 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijão-escarlate | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijões | TP 12/4 de 27.2.2013 |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 rev. de 11.3.2015 |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 rev. de 11.3.2015 |\n| *Scorzonera hispanica* L. | Escorcioneira | TP 116/1 de 11.3.2015 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafres | TP 55/5 de 27.2.2013 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010 |\n| *Solanum lycopersicum L. × Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. × Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. × Solanum cheesmaniae (L. Ridley) Fosberg* | Porta-enxertos de tomate | TP 294/1 de 19.3.2014 |\n\nO texto destes protocolos encontra-se no sítio *web* do ICVV (www.cpvo.europa.eu)."
+  },
+  "1cf1741e290fa95c": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| **Nome científico** | **Nome comum** | **Princípios diretores UPOV** |\n| --- | --- | --- |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n| *Cichorium intybus* L. | Chicória-com-folhas-largas ou chicória-italiana | TG/154/3 de 18.10.1996 |\n| *Rheum rhabarbarum* L. | Ruibarbo | TG/62/6 de 24.3.1999 |\n\nO texto destes princípios diretores encontra-se no sítio *web* da UPOV (www.upov.int).\n\n---"
+  },
+  "038102dc24884193": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/764aa434-3a2d-4b4e-8f81-853f97471960.0015.02/DOC_1#src.E0001)) JO L 193 de 20.7.2002, p. 23.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/764aa434-3a2d-4b4e-8f81-853f97471960.0015.02/DOC_1#src.E0002)) JO L 165 de 3.7.2003, p. 23.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/764aa434-3a2d-4b4e-8f81-853f97471960.0015.02/DOC_1#src.E0003)) JO L 103 de 2.5.1972, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/764aa434-3a2d-4b4e-8f81-853f97471960.0015.02/DOC_1#src.E0004)) JO L 37 de 7.2.2002, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/764aa434-3a2d-4b4e-8f81-853f97471960.0015.02/DOC_1#src.E0005)) JO L 227 de 1.9.1994, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/764aa434-3a2d-4b4e-8f81-853f97471960.0015.02/DOC_1#src.E0006)) JO L 245 de 29.9.2003, p. 28."
+  },
+  "3d683e1c88bbd8ac": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV\n\n| **Nome científico** | **Nome comum** | **Protocolo ICVV** |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo cepa) | Cebola e «echalion» | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo *Aggregatum)* | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alho-francês (alho-porro) | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/2 de 11.3.2015 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargos | TP 130/2 de 16.2.2011 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009 |\n| *Beta vulgaris* L. | Acelga | TP 106/1 de 11.3.2015 |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 de 11.3.2010 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 de 21.3.2007 |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 de 1.12.2005 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 de 25.3.2004 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 de 16.2.2011 |\n| *Brassica rapa* L. | Couve-da-china | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 de 21.3.2007 |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/3 de 19.3.2014 |\n| *Cichorium intybus* L. | Chicória para café | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/1 de 25.3.2004 |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/2 de 19.3.2014 |\n| *Cucumis melo* L. | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus* L. | Pepino e pepininho | TP 61/2 de 13.3.2008 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TP 155/1 de 11.3.2015 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1rev. de 19.3.2014 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 de 27.2.2013 |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/5 rev de 19.4.2016 |\n| *Solanum lycopersicum* L. | Tomate | TP 44/4 rev.2 de 19.4.2016 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijão-escarlate | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijões | TP 12/4 de 27.2.2013 |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 rev. de 11.3.2015 |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 rev. de 11.3.2015 |\n| *Rheum rhabarbarum* L | Ruibarbo | TP 62/1 de 19.4.2016 |\n| *Scorzonera hispanica* L. | Escorcioneira | TP 116/1 de 11.3.2015 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafres | TP 55/5rev. de 19.4.2016 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010 |\n| *Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg* | Porta-enxertos de tomate | TP 294/1rev de 19.4.2016 |\n\nO texto destes protocolos encontra-se no sítio do ICVV (www.cpvo.europa.eu)."
+  },
+  "80dabec4bc8b79a5": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV\n\n| **Nome científico** | **Nome comum** | **Princípios diretores UPOV** |\n| --- | --- | --- |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n| *Cichorium intybus* L. | Chicória-com-folhas-largas ou chicória-italiana | TG/154/3 de 18.10.1996 |\n| *Cucurbita maxima x Cucurbita moschata* | Híbridos interespecíficos de *Cucurbita maxima* Duch. x *Cucurbita moschata* Duch. para utilização como porta-enxertos | TG/311/1 de 25.3.2015 |\n\nO texto destes princípios diretores encontra-se no sítio da UPOV (www.upov.int)."
+  },
+  "fc8cbbc2938abd22": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV 1 ([^1^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0001))",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV 1 ([^1^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0001))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos de ensaio do ICVV 1 ([^1^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0001))\n\n| **Nome científico** | **Nome comum** | **Protocolo ICVV** |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo Cepa) | Cebola e «echalion» | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo Aggregatum) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alho-francês (alho-porro) | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/2 de 11.3.2015 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargo | TP 130/2 de 16.2.2011 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009 |\n| *Beta vulgaris* L. | Acelga | TP 106/1 de 11.3.2015 |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 rev. 2 de 21.3.2018 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 rev. de 15.3.2017 |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 rev. de 15.3.2017 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 rev. de 15.3.2017 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 rev. de 15.3.2017 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 rev. de 15.3.2017 |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/3 de 19.3.2014 |\n| *Cichorium intybus* L. | Chicória-industrial | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória com folhas largas | TP 154/1 de 21.3.2018 |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/2 de 21.3.2018 |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/2 de 19.3.2014 |\n| *Cucumis melo* L. | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus* L. | Pepino e pepininho | TP 61/2 rev. de 21.3.2018 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TP 155/1 de 11.3.2015 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 rev. de 19.3.2014 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 de 27.2.2013 |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/6 de 21.3.2018 |\n| *Solanum lycopersicum* L. | Tomate | TP 44/4 rev. 3 de 21.3.2018 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijoca | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijão-anão e feijão-de-trepar | TP 12/4 de 27.2.2013 |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 rev. 2 de 15.3.2017 |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 rev. de 11.3.2015 |\n| *Rheum rhabarbarum* L | Ruibarbo | TP 62/1 de 19.4.2016 |\n| *Scorzonera hispanica* L. | Escorcioneira | TP 116/1 de 11.3.2015 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafre | TP 55/5 rev. 2 de 15.3.2017 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010 |\n| *Solanum habrochaites* S. Knapp & D.M. Spooner; *Solanum lycopersicum* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum peruvianum* (L.) Mill.; *Solanum lycopersicum* L. x *Solanum cheesmaniae* (L. Ridley) Fosberg; *Solanum pimpinellifolium* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner | Porta-enxertos de tomate | TP 294/1 rev. 3 de 21.3.2018 |\n| *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne | Híbridos interespecíficos de *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne para utilização como porta-enxertos | TP 311/1 de 15.3.2017 |"
+  },
+  "76c11a884ee51e4d": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV ([^2^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0002))",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV ([^2^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0002))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV ([^2^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0002))\n\n| **Nome científico** | **Nome comum** | **Princípios diretores UPOV** |\n| --- | --- | --- |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n\n---"
+  },
+  "731073c58e48bf83": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#src.E0001)) O texto destes protocolos encontra-se no sítio Web do ICVV (www.cpvo.europa.eu).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/506ab1fa-f12e-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#src.E0002)) O texto destes princípios diretores encontra-se no sítio Web da UPOV (www.upov.int)."
+  },
+  "1119034f2196ea8f": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0001))",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0001))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0001))\n\n| **Nome científico** | **Nome comum** | **Protocolo ICVV** |\n| --- | --- | --- |\n| *Allium cepa* L*. (*grupo Cepa) | Cebola e «echalion» | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo Aggregatum) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alho-francês (alho-porro) | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/2 de 11.3.2015 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargo | TP 130/2 de 16.2.2011 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009 |\n| *Beta vulgaris* L. | Acelga | TP 106/1 de 11.3.2015 |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 rev. 2 de 21.3.2018 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 rev. de 15.3.2017 |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 rev. de 15.3.2017 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 rev. de 15.3.2017 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 rev. de 15.3.2017 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 rev. de 15.3.2017 |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/3 de 19.3.2014 |\n| *Cichorium intybus* L. | Chicória-industrial | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória de folhas | TP 154/1 rev. de 19.3.2019 |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/2 de 21.3.2018 |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/2 de 19.3.2014 |\n| *Cucumis melo* L. | Melão | TP 104/2 de 21.3.2007 |\n| *Cucumis sativus* L. | Pepino e pepininho | TP 61/2 rev. 2 de 19.3.2019 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TP 155/1 de 11.3.2015 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 rev. de 19.3.2014 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 de 27.2.2013 |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/6 rev. de 15.2.2019 |\n| *Solanum lycopersicum* L. | Tomate | TP 44/4 rev. 3 de 21.3.2018 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijoca | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijão-anão e feijão-de-trepar | TP 12/4 de 27.2.2013 |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 rev. 2 de 15.3.2017 |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 rev. de 11.3.2015 |\n| *Rheum rhabarbarum* L | Ruibarbo | TP 62/1 de 19.4.2016 |\n| *Scorzonera hispanica* L. | Escorcioneira | TP 116/1 de 11.3.2015 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafre | TP 55/5 rev. 2 de 15.3.2017 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP Broadbean/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010 |\n| *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum peruvianum* (L.) Mill*.; Solanum lycopersicum* L. x *Solanum cheesmaniae* (L. Ridley) Fosberg*; Solanum pimpinellifolium* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner | Porta-enxertos de tomate | TP 294/1 rev. 3 de 21.3.2018 |\n| *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne | Híbridos interespecíficos de *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne para utilização como porta-enxertos | TP 311/1 de 15.3.2017 |"
+  },
+  "b5800ea44061c453": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0002))",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0002))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#E0002))\n\n| **Nome científico** | **Nome comum** | **Princípios diretores UPOV** |\n| --- | --- | --- |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n\n---"
+  },
+  "9dcd5b4d5f90dfad": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#src.E0001)) O texto destes protocolos encontra-se no sítio Web do ICVV (www.cpvo.europa.eu).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d1346e18-9f77-11ea-9d2d-01aa75ed71a1.0019.02/DOC_1#src.E0002)) O texto destes princípios diretores encontra-se no sítio Web da UPOV (www.upov.int)."
+  },
+  "df5feb0d1ae861ab": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-Membros assegurarão a inclusão num catálogo nacional, na acepção do n.º 2 do artigo 3.º da Directiva 2002/55/CE, das variedades das espécies hortícolas que respeitem as condições estabelecidas no n.º 2.\n\n2.\n\nNo que diz respeito à distinção, estabilidade e homogeneidade:\n\na) As espécies que constam do anexo I devem obedecer às condições estabelecidas nos protocolos sobre os ensaios de distinção, homogeneidade e estabilidade do Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) indicados no mesmo anexo;\n\nb) As espécies que constam do anexo II devem obedecer aos princípios directores para a realização dos ensaios de distinção, homogeneidade e estabilidade da União Internacional para a protecção das variedades vegetais (UPOV) indicados no mesmo anexo."
+  },
+  "12406cb47c6a158c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1.\n\nNos casos em que, aquando da entrada em vigor da presente directiva, certas variedades não tenham sido aceites para inclusão no catálogo comum das variedades das espécies hortícolas, e exames oficiais tenham sido iniciados antes dessa data, em conformidade com as disposições estabelecidas:\n\na) Na Directiva 72/168/CEE, ou\n\nb) Nos princípios directores do ICVV referidos no anexo I ou nos princípios directores da UPOV referidos na anexo II, em função das espécies,\n\nas variedades em questão devem ser consideradas como obedecendo aos requisitos da presente directiva.\n\n2.\n\nO n.º 1 só é aplicável nos casos em que os ensaios tenham permitido concluir que as variedades obedecem às regras estabelecidas:\n\na) Na Directiva 72/168/CEE; ou\n\nb) Nos princípios directores do ICVV referidos no anexo I ou nos princípios directores do UPOV referidos no anexo II, em função das espécies."
+  },
+  "dc63ad649172b4fe": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))\n\n| **Nome científico** | **Nome comum** | **Protocolo ICVV** |\n| --- | --- | --- |\n| *Allium cepa* L*. (*grupo Cepa) | Cebola e «echalion» | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo Aggregatum) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alho-francês (alho-porro) | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/2 de 11.3.2015 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargo | TP 130/2 de 16.2.2011 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009 |\n| *Beta vulgaris* L. | Acelga | TP 106/1 de 11.3.2015 |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 rev. 2 de 21.3.2018 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 rev. 2 de 21.4.2020 |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 rev. de 15.3.2017 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 rev. de 15.3.2017 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 rev. de 15.3.2017 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 rev. 2 de 21.4.2020 |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/3 de 19.3.2014 |\n| *Cichorium intybus* L. | Chicória-industrial | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória de folhas | TP 154/1 rev. de 19.3.2019 |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/2 de 21.3.2018 |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/2 de 19.3.2014 |\n| *Cucumis melo* L. | Melão | TP 104/2 rev. de 21.4.2020 |\n| *Cucumis sativus* L. | Pepino e pepininho | TP 61/2 rev. 2 de 19.3.2019 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TP 155/1 de 11.3.2015 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 rev. de 19.3.2014 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 rev. de 6.3.2020 |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/1 de 25.3.2004 |\n| *Lactuca sativa* L. | Alface | TP 13/6 rev. de 15.2.2019 |\n| *Solanum lycopersicum* L. | Tomate | TP 44/4 rev. 4 de 21.4.2020 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijoca | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijão-anão e feijão-de-trepar | TP 12/4 de 27.2.2013 |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 rev. 3 de 6.3.2020 |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 rev. corr. de 11.3.2015 |\n| *Rheum rhabarbarum* L | Ruibarbo | TP 62/1 de 19.4.2016 |\n| *Scorzonera hispanica* L. | Escorcioneira | TP 116/1 de 11.3.2015 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafre | TP 55/5 rev. 3 de 6.3.2020 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP 206/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010 |\n| *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum peruvianum* (L.) Mill*.; Solanum lycopersicum* L. x *Solanum cheesmaniae* (L. Ridley) Fosberg*; Solanum pimpinellifolium* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner | Porta-enxertos de tomate | TP 294/1 rev. 4 de 21.4.2020 |\n| *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne | Híbridos interespecíficos de *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne para utilização como porta-enxertos | TP 311/1 de 15.3.2017 |"
+  },
+  "aed24e8997ee9b61": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0002))",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0002))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea b), que devem obedecer aos princípios diretores da UPOV para a realização de ensaios ([^2^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0002))\n\n| **Nome científico** | **Nome comum** | **Princípios diretores UPOV** |\n| --- | --- | --- |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n\n---"
+  },
+  "26a90a67e9572617": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0001)) O texto destes protocolos encontra-se no sítio Web do ICVV (www.cpvo.europa.eu).\n\n> ([^*2^](http://publications.europa.eu/resource/cellar/8835a6b2-53c6-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0002)) O texto destes princípios diretores encontra-se no sítio Web da UPOV (www.upov.int)."
+  },
+  "4e8efd409abf5981": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| **Nome científico** | **Nome comum** | **Protocolo ICVV** |\n| --- | --- | --- |\n| *Allium cepa* L*. (*grupo Cepa) | Cebola e «echalion» | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo Aggregatum) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alho-francês (alho-porro) | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/1 corr. de 25.3.2004 |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/2 de 11.3.2015 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargo | TP 130/2 de 16.2.2011 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009 |\n| *Beta vulgaris* L. | Acelga | TP 106/2 de 14.4.2021 |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 rev. 2 de 21.3.2018 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 rev. 2 de 21.4.2020 |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 rev. de 15.3.2017 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/1 rev. de 15.3.2017 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 rev. 2 de 25.3.2021 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 rev. 2 corr. de 21.4.2020 |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/3 de 19.3.2014 |\n| *Cichorium intybus* L. | Chicória-industrial | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória de folhas | TP 154/1 rev. 2 corr. de 14.4.2021 |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/2 de 21.3.2018 |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/2 rev. de 14.4.2021 |\n| *Cucumis melo* L. | Melão | TP 104/2 rev. 2 de 25.3.2021 |\n| *Cucumis sativus* L. | Pepino e pepininho | TP 61/2 rev. 2 de 19.3.2019 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TP 155/1 de 11.3.2015 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 rev. de 19.3.2014 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 rev. de 6.3.2020 |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/2 de 14.4.2021 |\n| *Lactuca sativa* L. | Alface | TP 13/6 rev. 3 de 27.4.2022 |\n| *Solanum lycopersicum* L. | Tomate | TP 44/4 rev. 5 de 14.4.2021 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 corr. de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijoca | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijão-anão e feijão-de-trepar | TP 12/4 de 27.2.2013 |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 rev. 3 corr. de 16.3.2020 |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 rev. corr. de 11.3.2015 |\n| *Rheum rhabarbarum* L | Ruibarbo | TP 62/1 de 19.4.2016 |\n| *Scorzonera hispanica* L. | Escorcioneira | TP 116/1 de 11.3.2015 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafre | TP 55/5 rev. 4 de 27.4.2022 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP 206/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010 |\n| *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum peruvianum* (L.) Mill*.; Solanum lycopersicum* L. x *Solanum cheesmaniae* (L. Ridley) Fosberg*; Solanum pimpinellifolium* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner | Porta-enxertos de tomate | TP 294/1 rev. 5 de 14.4.2021 |\n| *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne | Híbridos interespecíficos de *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne para utilização como porta-enxertos | TP 311/1 de 15.3.2017 |\n| (^*1^) O texto destes protocolos encontra-se no sítio Web do ICVV (www.cpvo.europa.eu). |  |  |"
+  },
+  "985ca6edbd46927a": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| **Nome científico** | **Nome comum** | **Princípios diretores UPOV** |\n| --- | --- | --- |\n| *Brassica rapa* L. | Nabo | TG/37/10 de 4.4.2001 |\n| (^*1^) O texto destes princípios diretores encontra-se no sítio Web da UPOV (www.upov.int). |  |  |"
+  },
+  "c21c4bc2453e1a8e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-Membros assegurarão a inclusão num catálogo nacional, na acepção do n.º 2 do artigo 3.º da Directiva 2002/55/CE, das variedades das espécies hortícolas que respeitem as condições estabelecidas no n.º 2.\n\n2.\n\nNo que diz respeito à distinção, homogeneidade e estabilidade:\n\na) As espécies que constam do anexo I devem obedecer às condições estabelecidas nos protocolos sobre os ensaios de distinção, homogeneidade e estabilidade do Conselho de Administração do Instituto Comunitário das Variedades Vegetais (ICVV) indicados no mesmo anexo;\n\nb) As espécies que constam do anexo II devem obedecer aos princípios diretores para a realização dos ensaios de distinção, homogeneidade e estabilidade da União Internacional para a Proteção das Obtenções Vegetais (UPOV) indicados no mesmo anexo.\n\nEm derrogação do primeiro parágrafo, no que diz respeito à homogeneidade, as variedades biológicas adequadas à produção biológica pertencentes às espécies enumeradas no anexo III, parte A, podem em alternativa obedecer às condições enumeradas na parte B do mesmo anexo.\n\nAté 31 de dezembro de 2030, os Estados-Membros devem comunicar à Comissão e aos outros Estados-Membros até 31 de dezembro de cada ano o número de pedidos de registo de variedades e os resultados dos exames de distinção, homogeneidade e estabilidade (DHE) relativos a essas variedades biológicas."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "731aa40f2ad90118": {
+   "fragment_id": "Lista de espécies referidas no artigo 1.º, n.º 2, segundo parágrafo",
+   "type": "divisao",
+   "heading": "Lista de espécies referidas no artigo 1.º, n.º 2, segundo parágrafo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies referidas no artigo 1.º, n.º 2, segundo parágrafo"
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "c441eac9e69e5d79": {
+   "fragment_id": "Disposições específicas respeitantes a ensaios de distinção, homogeneidade e estabilidade para as variedades biológicas de espécies hortícolas adequadas à produção biológica",
+   "type": "divisao",
+   "heading": "Disposições específicas respeitantes a ensaios de distinção, homogeneidade e estabilidade para as variedades biológicas de espécies hortícolas adequadas à produção biológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições específicas respeitantes a ensaios de distinção, homogeneidade e estabilidade para as variedades biológicas de espécies hortícolas adequadas à produção biológica"
+  },
+  "6194f7cf719d1718": {
+   "fragment_id": "1. Regra geral",
+   "type": "divisao",
+   "heading": "1. Regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Regra geral\n\nO seguinte aplica-se a variedades biológicas de espécies hortícolas adequadas à produção biológica\n\n1.1. No que diz respeito à distinção e à estabilidade, devem ser observados e descritos todos os carateres dos protocolos e dos princípios diretores referidos nos anexos I e II.\n\n1.2. No que diz respeito à homogeneidade, devem ser observados e descritos todos os carateres dos protocolos e dos princípios diretores referidos nos anexos I e II, aplicando-se o seguinte aos carateres enumeradas no ponto 2:\n\na) Esses carateres podem ser avaliados de forma menos rigorosa;\n\nb) Sempre que, para esses carateres, esteja prevista uma derrogação ao respetivo protocolo técnico no referido ponto 2, o nível de homogeneidade dentro da variedade deve ser semelhante ao nível de homogeneidade de variedades comparáveis de conhecimento comum na União."
+  },
+  "f2cfbcbe7705669c": {
+   "fragment_id": "2. Derrogação dos protocolos técnicos",
+   "type": "divisao",
+   "heading": "2. Derrogação dos protocolos técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Derrogação dos protocolos técnicos\n\nPara as variedades pertencentes à espécie cenoura (*Daucus carota* L.), os seguintes carateres de DHE do protocolo do ICVV CPVO-TP/049/3 da variedade testada podem desviar-se dos seguintes requisitos de DHE em matéria de homogeneidade:\n\n| ICVV n.º 4 | – | Folha: divisão |\n| --- | --- | --- |\n\n| ICVV n.º 5 | – | Folha: intensidade da cor verde |\n| --- | --- | --- |\n\n| ICVV n.º 19 | – | Raiz: diâmetro do coração em relação ao diâmetro total |\n| --- | --- | --- |\n\n| ICVV n.º 20 | – | Raiz: cor do coração |\n| --- | --- | --- |\n\n| ICVV n.º 21 | – | Excluindo variedades com coração branco; raiz: intensidade da cor do coração |\n| --- | --- | --- |\n\n| ICVV n.º 28 | – | Raiz: época de coloração da extremidade |\n| --- | --- | --- |\n\n| ICVV n.º 29 | – | Planta: altura da umbela primária à floração |\n| --- | --- | --- |\n\nPara as variedades pertencentes à espécie couve-rábano (*Brassica oleracea* L.), os seguintes carateres de DHE do protocolo ICVV CPVO-TP/065/1 Rev. da variedade testada podem desviar-se dos seguintes requisitos de DHE em matéria de homogeneidade do respetivo protocolo técnico do ICVV:\n\n| ICVV n.º 2 | – | Plântula: intensidade da coloração verde dos cotilédones |\n| --- | --- | --- |\n\n| ICVV n.º 6 | – | Pecíolo: porte |\n| --- | --- | --- |\n\n| ICVV n.º 8 | – | Limbo da folha: comprimento |\n| --- | --- | --- |\n\n| ICVV n.º 9 | – | Limbo da folha: largura |\n| --- | --- | --- |\n\n| ICVV n.º 10 | – | Limbo da folha: forma do ápice |\n| --- | --- | --- |\n\n| ICVV n.º 11 | – | Limbo da folha: divisão até à nervura central (na parte inferior da folha) |\n| --- | --- | --- |\n\n| ICVV n.º 12 | – | Limbo da folha: número de recortes da margem (na parte superior da folha) |\n| --- | --- | --- |\n\n| ICVV n.º 13 | – | Limbo da folha: profundidade dos recortes da margem (na parte superior da folha) |\n| --- | --- | --- |\n\n| ICVV n.º 14 | – | Limbo da folha: forma em secção transversal |\n| --- | --- | --- |\n\n| ICVV n.º 19 | – | Couve-rábano: número de folhas internas. |\n| --- | --- | --- |"
+  },
+  "769cbf11342a5bec": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| **Nome científico** | **Nome comum** | **Protocolo ICVV** |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo cepa) | Cebola e «echalion» | TP 46/2 de 1.4.2009 |\n| *Allium cepa* L. (grupo Aggregatum ) | Chalota | TP 46/2 de 1.4.2009 |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010 |\n| *Allium porrum* L. | Alho-francês (alho-porro) | TP 85/2 de 1.4.2009 |\n| *Allium sativum* L. | Alho | TP 162/2 de 30.5.2023 |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/2 de 11.3.2015 |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008 |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008 |\n| *Asparagus officinalis* L. | Espargo | TP 130/2 de 16.2.2011 |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009 |\n| *Beta vulgaris* L. | Acelga | TP 106/2 de 14.4.2021 |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011 |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 rev. 2 de 21.3.2018 |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 rev. 2 de 21.4.2020 |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 rev. de 15.3.2017 |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/2 de 30.5.2023 |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 rev. 2 de 25.3.2021 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008 |\n| *Capsicum annuum* L. | Pimento | TP 76/2 rev. 2 corr. de 21.4.2020 |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/3 de 19.3.2014 |\n| *Cichorium intybus* L. | Chicória-industrial | TP 172/2 de 1.12.2005 |\n| *Cichorium intybus* L. | Chicória de folhas | TP 154/2 rev. de 31.3.2023 |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/2 de 21.3.2018 |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/2 rev. 2 de 31.3.2023 |\n| *Cucumis melo* L. | Melão | TP 104/2 rev. 2 corr. de 25.3.2021 |\n| *Cucumis sativus* L. | Pepino e pepininho | TP 61/2 rev. 2 de 19.3.2019 |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TP 155/1 de 11.3.2015 |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 rev. de 19.3.2014 |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 rev. de 6.3.2020 |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 corr. de 13.3.2008 |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/2 de 14.4.2021 |\n| *Lactuca sativa* L. | Alface | TP 13/6 rev. 3 de 27.4.2022 |\n| *Solanum lycopersicum* L. | Tomate | TP 44/4 rev. 5 de 14.4.2021 |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 corr. de 21.3.2007 |\n| *Phaseolus coccineus* L. | Feijoca | TP 9/1 de 21.3.2007 |\n| *Phaseolus vulgaris* L. | Feijão-anão e feijão-de-trepar | TP 12/4 de 27.2.2013 |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 rev. 3 corr. de 6.3.2020 |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 rev. corr. de 11.3.2015 |\n| *Rheum rhabarbarum* L | Ruibarbo | TP 62/1 de 19.4.2016 |\n| *Scorzonera hispanica* L. | Escorcioneira | TP 116/1 de 11.3.2015 |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008 |\n| *Spinacia oleracea* L. | Espinafre | TP 55/5 rev. 4 de 27.4.2022 |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 de 21.3.2007 |\n| *Vicia faba* L. (partim) | Fava | TP 206/1 de 25.3.2004 |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010 |\n| *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum peruvianum* (L.) Mill.*; Solanum lycopersicum* L. x *Solanum cheesmaniae* (L. Ridley) Fosberg*; Solanum pimpinellifolium* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner | Porta-enxertos de tomate | TP 294/1 rev. 5 de 14.4.2021 |\n| *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne | Híbridos interespecíficos de *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne para utilização como porta-enxertos | TP 311/1 de 15.3.2017 |\n| (^*1^) O texto destes protocolos encontra-se no sítio Web do ICVV (www.cpvo.europa.eu). |  |  |"
+  },
+  "5644ae559f733d2b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| **Nome científico** | **Nome comum** | **Princípios diretores UPOV** |\n| --- | --- | --- |\n| *Brassica rapa* L. | Nabo | TG/37/11 de 23.9.2022 |\n| (^*1^) O texto destes princípios diretores encontra-se no sítio Web da UPOV (www.upov.int). |  |  |"
+  },
+  "4dc9e0b898f8b519": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| **Nome científico** | **Nome comum** | **Protocolo ICVV** |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo cepa) | Cebola e “echalion” | TP 46/2 de 1.4.2009. |\n| *Allium cepa* L. (grupo Aggregatum) | Chalota | TP 46/2 de 1.4.2009. |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010. |\n| *Allium porrum* L. | Alho-francês (alho-porro) | TP 85/2 de 1.4.2009. |\n| *Allium sativum* L. | Alho | TP 162/2 de 30.5.2023. |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/2 de 11.3.2015. |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008. |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008. |\n| *Asparagus officinalis* L. | Espargo | TP 130/2 de 16.2.2011. |\n| *Beta vulgaris* L. | Beterraba, incluindo “Cheltenham beet” | TP 60/1 de 1.4.2009. |\n| *Beta vulgaris* L. | Acelga | TP 106/2 de 14.4.2021. |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011. |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 rev. 3 de 11.4.2024. |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 rev. 3 corr. de 11.4.2024. |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 rev. 2 de 11.4.2024. |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/2 rev. de 11.4.2024. |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 rev. 3 de 11.4.2024. |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008. |\n| *Capsicum annuum* L. | Pimento | TP 76/2 rev. 2 corr. de 21.4.2020. |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/3 de 19.3.2014. |\n| *Cichorium intybus* L. | Chicória-industrial | TP 172/2 de 1.12.2005. |\n| *Cichorium intybus* L. | Chicória de folhas | TP 154/2 rev. de 31.3.2023. |\n| *Cichorium intybus* L. | Chicória “witloof” | TP 173/2 de 21.3.2018. |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/2 rev. 3 de 29.2.2024. |\n| *Cucumis melo* L. | Melão | TP 104/2 rev. 2 corr. de 25.3.2021. |\n| *Cucumis sativus* L. | Pepino e pepininho | TP 61/2 rev. 2 de 19.3.2019. |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TP 155/1 de 11.3.2015. |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 rev. de 19.3.2014. |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 rev. de 6.3.2020. |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 corr. de 13.3.2008. |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/2 de 14.4.2021. |\n| *Lactuca sativa* L. | Alface | TP 13/6 rev. 4 de 29.2.2024. |\n| *Solanum lycopersicum* L. | Tomate | TP 44/4 rev. 5 de 14.4.2021. |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 corr. de 21.3.2007. |\n| *Phaseolus coccineus* L. | Feijoca | TP 9/1 de 21.3.2007. |\n| *Phaseolus vulgaris* L. | Feijão-anão e feijão-de-trepar | TP 12/4 de 27.2.2013. |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 rev. 3 corr. de 6.3.2020. |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 rev. 2 de 29.2.2024. |\n| *Rheum rhabarbarum* L | Ruibarbo | TP 62/1 de 19.4.2016. |\n| *Scorzonera hispanica* L. | Escorcioneira | TP 116/1 de 11.3.2015. |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008. |\n| *Spinacia oleracea* L. | Espinafre | TP 55/5 rev. 4 de 27.4.2022. |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 rev. de 29.2.2024. |\n| *Vicia faba* L. (partim) | Fava | TP 206/1 de 25.3.2004. |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010. |\n| *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum peruvianum* (L.) Mill.*; Solanum pimpinellifolium* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner | Porta-enxertos de tomate | TP 294/1 rev. 6 de 29.2.2024. |\n| *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne | Híbridos interespecíficos de *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne para utilização como porta-enxertos | TP 311/1 de 15.3.2017. |\n| (^*1^) O texto destes protocolos encontra-se no sítio Web do ICVV (www.cpvo.europa.eu). |  |  |"
+  },
+  "9249d91df0251aa9": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| **Nome científico** | **Nome comum** | **Princípios diretores UPOV** |\n| --- | --- | --- |\n| *Brassica rapa* L. | Nabo | TG/37/11 de 23.9.2022. |\n| (^*1^) O texto destes princípios diretores encontra-se no sítio Web da UPOV (www.upov.int). |  |  |"
+  },
+  "6fb9054528a29d83": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| **Nome científico** | **Nome comum** | **Protocolo ICVV** |\n| --- | --- | --- |\n| *Allium cepa* L*. (*grupo Cepa) | Cebola e «echalion» | TP 46/2 de 1.4.2009. |\n| *Allium cepa* L. (grupo Aggregatum) | Chalota | TP 46/2 de 1.4.2009. |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010. |\n| *Allium porrum* L. | Alho-francês (alho-porro) | TP 85/2 de 1.4.2009. |\n| *Allium sativum* L. | Alho | TP 162/2 de 30.5.2023. |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/2 de 11.3.2015. |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008. |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008. |\n| *Asparagus officinalis* L. | Espargo | TP 130/2 rev. de 3.1.2025. |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009. |\n| *Beta vulgaris* L. | Acelga | TP 106/2 de 14.4.2021. |\n| *Brassica oleracea* L. | Couve-frisada | TP 90/1 de 16.2.2011. |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 rev. 3 de 11.4.2024. |\n| *Brassica oleracea* L. | Couve-brócolo | TP 151/2 rev. 3 corr. de 11.4.2024. |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 rev. 2 de 11.4.2024. |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/2 rev. de 11.4.2024. |\n| *Brassica oleracea* L. | Couve-lombarda, couve-repolho e couve-roxa | TP 48/3 rev. 3 de 11.4.2024. |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/1 de 13.3.2008. |\n| *Capsicum annuum* L. | Pimento | TP 76/3 de 31.3.2025. |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/3 de 19.3.2014. |\n| *Cichorium intybus* L. | Chicória-industrial | TP 172/2 rev. de 28.1.2025. |\n| *Cichorium intybus* L. | Chicória de folhas | TP 154/2 rev. de 31.3.2023. |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/2 de 21.3.2018. |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/2 rev. 3 de 29.2.2024. |\n| *Cucumis melo* L. | Melão | TP 104/2 rev. 3 de 31.3.2025. |\n| *Cucumis sativus* L. | Pepino e pepininho | TP 61/2 rev. 3 de 3.1.2025. |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TP 155/1 de 11.3.2015. |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 rev. 2 de 31.3.2025. |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 rev. de 6.3.2020. |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 corr. de 13.3.2008. |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/2 de 14.4.2021. |\n| *Lactuca sativa* L. | Alface | TP 13/6 rev. 5 de 3.1.2025. |\n| *Solanum lycopersicum* L. | Tomate | TP 44/4 rev. 5 de 14.4.2021. |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 corr. de 21.3.2007. |\n| *Phaseolus coccineus* L. | Feijoca | TP 9/1 de 21.3.2007. |\n| *Phaseolus vulgaris* L. | Feijão-anão e feijão-de-trepar | TP 12/4 de 27.2.2013. |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 rev. 3 corr. de 6.3.2020. |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 rev. 2 de 29.2.2024. |\n| *Rheum rhabarbarum* L | Ruibarbo | TP 62/1 de 19.4.2016. |\n| *Scorzonera hispanica* L. | Escorcioneira | TP 116/1 de 11.3.2015. |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008. |\n| *Spinacia oleracea* L. | Espinafre | TP 55/5 rev. 4 de 27.4.2022. |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 rev. de 29.2.2024. |\n| *Vicia faba* L. (partim) | Fava | TP 206/1 de 25.3.2004. |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010. |\n| *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum peruvianum* (L.) Mill*.; Solanum pimpinellifolium* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner | Porta-enxertos de tomate | TP 294/1 rev. 6 de 29.2.2024. |\n| *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne | Híbridos interespecíficos de *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne para utilização como porta-enxertos | TP 311/1 de 15.3.2017. |\n| (^*1^) O texto destes protocolos encontra-se no sítio Web do ICVV (www.cpvo.europa.eu). |  |  |"
+  },
+  "b405de4b0f954930": {
+   "fragment_id": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/23f37c98-4e3c-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1#E0001))",
+   "type": "divisao",
+   "heading": "Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/23f37c98-4e3c-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1#E0001))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de espécies, referidas no artigo 1.º, n.º 2, alínea a), que devem obedecer aos protocolos técnicos do ICVV ([^1^](http://publications.europa.eu/resource/cellar/23f37c98-4e3c-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1#E0001))\n\n| Nome científico | Nome comum | Protocolo ICVV |\n| --- | --- | --- |\n| *Allium cepa* L. (grupo *cepa*) | Cebola e «echalion» | TP 46/2 de 1.4.2009. |\n| *Allium cepa* L. (grupo *aggregatum*) | Chalota | TP 46/2 de 1.4.2009. |\n| *Allium fistulosum* L. | Cebolinha-comum | TP 161/1 de 11.3.2010. |\n| *Allium porrum* L. | Alho-francês (alho-porro) | TP 85/2 de 1.4.2009. |\n| *Allium sativum* L. | Alho | TP 162/2 de 30.5.2023. |\n| *Allium schoenoprasum* L. | Cebolinho | TP 198/2 de 11.3.2015. |\n| *Apium graveolens* L. | Aipo | TP 82/1 de 13.3.2008. |\n| *Apium graveolens* L. | Aipo-rábano | TP 74/1 de 13.3.2008. |\n| *Asparagus officinalis* L. | Espargo | TP 130/2 rev. de 3.1.2025. |\n| *Beta vulgaris* L. | Beterraba, incluindo «Cheltenham beet» | TP 60/1 de 1.4.2009. |\n| *Beta vulgaris* L. | Acelga | TP 106/2 de 14.4.2021. |\n| *Brassica oleracea* L. | Grupo couve-de-folhas | TP 90/2 de 23.4.2025. |\n| *Brassica oleracea* L. | Couve-flor | TP 45/2 rev. 3 de 11.4.2024. |\n| *Brassica oleracea* L. | Brócolo (tipo calabrese e tipo couve-brócolo) | TP 151/2 rev. 3 corr. de 11.4.2024. |\n| *Brassica oleracea* L. | Couves-de-bruxelas | TP 54/2 rev. 2 de 11.4.2024. |\n| *Brassica oleracea* L. | Couve-rábano | TP 65/2 rev. de 11.4.2024. |\n| *Brassica oleracea* L. | Couve-lombarda | TP 48/3 rev. 3 de 11.4.2024. |\n| *Brassica oleracea* L. | Grupo *capitata* (couve-repolho e couve-roxa) | TP 48/3 rev. 3 de 11.4.2024 |\n| *Brassica oleracea* L. | Grupo couve-palmeira | TP 90/2 de 23.4.2025 |\n| *Brassica oleracea* L. | Grupo tronchuda (couve-portuguesa) | TP 90/2 de 23.4.2025 |\n| *Brassica rapa* L. | Couve-chinesa | TP 105/2 de 23.4.2025. |\n| *Capsicum annuum* L. | Pimento | TP 76/3 de 31.3.2025. |\n| *Cichorium endivia* L. | Chicória-frisada e escarola | TP 118/3 de 19.3.2014. |\n| *Cichorium intybus* L. | Chicória-industrial | TP 172/2 rev. de 28.1.2025. |\n| *Cichorium intybus* L. | Chicória de folhas | TP 154/2 rev. de 31.3.2023. |\n| *Cichorium intybus* L. | Chicória «witloof» | TP 173/2 de 21.3.2018. |\n| *Citrullus lanatus* (Thunb.) Matsum. et Nakai | Melancia | TP 142/2 rev. 3 de 29.2.2024. |\n| *Cucumis melo* L. | Melão | TP 104/2 rev. 3 de 31.3.2025. |\n| *Cucumis sativus* L. | Pepino e pepininho | TP 61/2 rev. 3 de 3.1.2025. |\n| *Cucurbita maxima* Duchesne | Abóbora-menina | TP 155/1 de 11.3.2015. |\n| *Cucurbita pepo* L. | Abóbora-porqueira e aboborinha | TP 119/1 rev. 2 de 31.3.2025. |\n| *Cynara cardunculus* L. | Alcachofra e cardo | TP 184/2 rev. de 6.3.2020. |\n| *Daucus carota* L. | Cenoura e cenoura-forrageira | TP 49/3 corr. de 13.3.2008. |\n| *Foeniculum vulgare* Mill. | Funcho | TP 183/2 de 14.4.2021. |\n| *Lactuca sativa* L. | Alface | TP 13/6 rev. 5 de 3.1.2025. |\n| *Solanum lycopersicum* L. | Tomate | TP 44/5 de 23.4.2025. |\n| *Petroselinum crispum* (Mill.) Nyman ex A. W. Hill | Salsa | TP 136/1 corr. de 21.3.2007. |\n| *Phaseolus coccineus* L. | Feijoca | TP 9/1 de 21.3.2007. |\n| *Phaseolus vulgaris* L. | Feijão-anão e feijão-de-trepar | TP 12/4 de 27.2.2013. |\n| *Pisum sativum* L. (partim) | Ervilha-rugosa, ervilha-lisa e ervilha-torta | TP 7/2 rev. 3 corr. de 6.3.2020. |\n| *Raphanus sativus* L. | Rabanete, rábano | TP 64/2 rev. 2 de 29.2.2024. |\n| *Rheum rhabarbarum* L | Ruibarbo | TP 62/1 de 19.4.2016. |\n| *Scorzonera hispanica* L. | Escorcioneira | TP 116/1 de 11.3.2015. |\n| *Solanum melongena* L. | Beringela | TP 117/1 de 13.3.2008. |\n| *Spinacia oleracea* L. | Espinafre | TP 55/5 rev. 5 de 23.4.2025. |\n| *Valerianella locusta* (L.) Laterr. | Alface-de-cordeiro | TP 75/2 rev. de 29.2.2024. |\n| *Vicia faba* L. (partim) | Fava | TP 206/1 de 25.3.2004. |\n| *Zea mays* L. (partim) | Milho-doce e milho-pipoca | TP 2/3 de 11.3.2010. |\n| *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner*; Solanum lycopersicum* L. x *Solanum peruvianum* (L.) Mill.; *Solanum pimpinellifolium* L. x *Solanum habrochaites* S. Knapp & D.M. Spooner | Porta-enxertos de tomate | TP 294/1 rev. 6 de 29.2.2024. |\n| *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne | Híbridos interespecíficos de *Cucurbita maxima* Duchesne x *Cucurbita moschata* Duchesne para utilização como porta-enxertos | TP 311/1 de 15.3.2017. |"
+  },
+  "4ff1731c38bcbac1": {
+   "fragment_id": "2. Derrogação dos protocolos técnicos",
+   "type": "divisao",
+   "heading": "2. Derrogação dos protocolos técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Derrogação dos protocolos técnicos\n\nPara as variedades pertencentes à espécie cenoura (*Daucus carota* L.), os seguintes carateres de DHE do protocolo do ICVV CPVO-TP/049/3 da variedade testada podem desviar-se dos seguintes requisitos de DHE em matéria de homogeneidade:\n\n| ICVV n.º 4 | – | Folha: divisão |\n| --- | --- | --- |\n\n| ICVV n.º 5 | – | Folha: intensidade da cor verde |\n| --- | --- | --- |\n\n| ICVV n.º 19 | – | Raiz: diâmetro do coração em relação ao diâmetro total |\n| --- | --- | --- |\n\n| ICVV n.º 20 | – | Raiz: cor do coração |\n| --- | --- | --- |\n\n| ICVV n.º 21 | – | Excluindo variedades com coração branco; raiz: intensidade da cor do coração |\n| --- | --- | --- |\n\n| ICVV n.º 28 | – | Raiz: época de coloração da extremidade |\n| --- | --- | --- |\n\n| ICVV n.º 29 | – | Planta: altura da umbela primária à floração |\n| --- | --- | --- |\n\nPara as variedades pertencentes à espécie couve-rábano (*Brassica oleracea* L.), os seguintes carateres de DHE do protocolo ICVV CPVO-TP/065/1 Rev. da variedade testada podem desviar-se dos seguintes requisitos de DHE em matéria de homogeneidade do respetivo protocolo técnico do ICVV:\n\n| ICVV n.º 2 | – | Plântula: intensidade da coloração verde dos cotilédones |\n| --- | --- | --- |\n\n| ICVV n.º 6 | – | Pecíolo: porte |\n| --- | --- | --- |\n\n| ICVV n.º 8 | – | Limbo da folha: comprimento |\n| --- | --- | --- |\n\n| ICVV n.º 9 | – | Limbo da folha: largura |\n| --- | --- | --- |\n\n| ICVV n.º 10 | – | Limbo da folha: forma do ápice |\n| --- | --- | --- |\n\n| ICVV n.º 11 | – | Limbo da folha: divisão até à nervura central (na parte inferior da folha) |\n| --- | --- | --- |\n\n| ICVV n.º 12 | – | Limbo da folha: número de recortes da margem (na parte superior da folha) |\n| --- | --- | --- |\n\n| ICVV n.º 13 | – | Limbo da folha: profundidade dos recortes da margem (na parte superior da folha) |\n| --- | --- | --- |\n\n| ICVV n.º 14 | – | Limbo da folha: forma em secção transversal |\n| --- | --- | --- |\n\n| ICVV n.º 19 | – | Couve-rábano: número de folhas internas. |\n| --- | --- | --- |\n\n---"
+  },
+  "3b3561fa19800f98": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/23f37c98-4e3c-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1#src.E0001)) O texto destes protocolos encontra-se no sítio Web do ICVV ([www.cpvo.europa.eu](http://www.cpvo.europa.eu))."
+  }
+ }
+}

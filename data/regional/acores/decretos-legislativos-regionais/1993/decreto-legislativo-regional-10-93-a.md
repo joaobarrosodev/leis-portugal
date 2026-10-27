@@ -1,0 +1,204 @@
+---
+schema_version: '1.0'
+id: pt:dre:346745:por
+title: Decreto Legislativo Regional n.º 10/93/A
+short_title: null
+summary: Aprova o Orçamento da Região Autónoma dos Açores para o ano de 1993
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 10/93/A
+official_date: null
+publication_date: '1993-07-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 170/1993, Série I-A de 1993-07-22
+  number: '170'
+  series: I
+  supplement: null
+  pages: 3953 - 3963
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/07/170a00/39533963.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/10/1993/07/22/a/dre/pt/html
+  oj: null
+  dre: '346745'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/10-1993-346745
+  internal: pt:dre:346745:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1993-346745
+  metadata_url: https://data.dre.pt/eli/declegreg/10/1993/07/22/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1993-346745
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:18:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 539a81ebe15e53779d42225b9c1038b5e792a7507697cdb36c4ba1d3f7f4a6d3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Orçamento Regional
+- Plano Económico
+- Plano Regional
+relationships:
+- type: amended_by
+  target: pt:dre:566789:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:numero:decreto-legislativo-regional:20/93/A
+  label: ALTERADOS OS MAPAS I, II, III E V ANEXOS E REVOGADO O ARTIGO 8, PELO DECRETO LEGISLATIVO REGIONAL 20/93/A, DE 25
+    DE NOVEMBRO, PUBLICADO NO DR.IS-A, 294, DE 931218, MANTENDO-SE EM VIGOR TODAS AS RESTANTES DISPOSIÇÕES DO PRESENTE DIPLOMA
+    QUE NAO CONTRARIEM AS NORMAS DO CITADO DECRETO LEGISLATIVO REGIONAL.
+  source: null
+- type: cites
+  target: pt:dre:229921:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/1/1993/01/05/a/dre
+- type: cites
+  target: pt:dre:496889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498732:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:566789:por
+  label: "Rectificado pela DECL-RECT.152/93.31.08.1993.PCM, DR.IS-A [204-3ºSupl] de 31.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/152-1993-566789
+  date: '1993-08-31'
+article_structure:
+  article_count: 10
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:18:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 10/93/A
+
+Aprova o Orçamento da Região Autónoma dos Açores para o ano de 1993
+
+A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea o) do n.º 1 do artigo 229.º e do n.º 1 do artigo 234.º da Constituição e da alínea m) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
+
+### CAPÍTULO I — Aprovação do Orçamento
+
+###### Artigo 1.º — Aprovação
+
+São aprovados pelo presente diploma:
+
+a) O Orçamento da Região Autónoma dos Açores para 1993 constante dos mapas I a IV e respectivos anexos aos mapas I e II;
+
+b) Os programas do Plano para 1993, constantes do mapa V.
+
+###### Artigo 2.º — Orçamentos privativos
+
+1 - Os serviços e fundos autónomos não poderão aplicar as receitas próprias na realização de despesas sem que o Governo Regional aprove os respectivos orçamentos ordinários e suplementares.
+
+2 - Os orçamentos referidos no número anterior estão sujeitos a visto do Secretário Regional das Finanças, Planeamento e Administração Pública.
+
+3 - A emissão de garantias a favor de terceiros pelos serviços e fundos autónomos depende de autorização prévia do Secretário Regional das Finanças, Planeamento e Administração Pública.
+
+### CAPÍTULO II — Empréstimos
+
+###### Artigo 3.º — Necessidades de financiamento
+
+Revelando-se insuficientes os recursos entregues pelo Estado à Região Autónoma dos Açores, com base nos artigos 93.º e 98.º do Estatuto Político-Administrativo da Região Autónoma dos Açores (EPARAA), e, bem assim, os recursos financeiros provenientes dos fundos estruturais da CEE, fica o Governo Regional autorizado, nos termos da alínea n) do artigo 32.º do EPARAA, a contrair empréstimos, incluindo créditos bancários, inscrevendo a verba correspondente ao valor do empréstimo, para fazer face exclusivamente ao défice do Orçamento da Região Autónoma dos Açores.
+
+###### Artigo 4.º — Condições gerais dos empréstimos
+
+Os empréstimos a realizar pelo Governo devem subordinar-se às seguintes condições gerais:
+
+a) Serem empréstimos amortizáveis a colocar junto das instituições financeiras, incluindo o Banco de Portugal, ou outras entidades nacionais e internacionais, não podendo, em caso algum, exceder o montante de 10 milhões de contos de endividamento da Região no ano de 1993;
+
+b) Serem aplicados no financiamento de investimentos ou de outros empreendimentos especialmente reprodutivos;
+
+c) Serem os empréstimos externos contraídos em condições mais favoráveis do que as praticadas no mercado nacional de capitais, em matéria de prazo, taxa de juro e demais encargos.
+
+###### Artigo 5.º — Garantia de empréstimos
+
+1 - Fica o Governo Regional autorizado a garantir, nas condições correntes nos respectivos mercados, operações financeiras internas e externas requeridas pela execução de empreendimentos de reconhecido interesse económico e social para a Região.
+
+2 - A concessão de avales da Região fica subordinada ao limite fixado por resolução da Assembleia Legislativa Regional, nos termos da alínea o) do n.º 1 do artigo 32.º do EPARAA, e ao disposto no [Decreto Legislativo Regional n.º 23/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1987-498732), de 3 de Dezembro.
+
+### CAPÍTULO III — Execução e alterações orçamentais
+
+###### Artigo 6.º — Realização de despesas públicas
+
+O Governo Regional tomará as medidas necessárias à rigorosa contenção das despesas públicas e ao controlo da sua eficiência, de forma a alcançar possíveis reduções do défice orçamental e uma melhor aplicação dos recursos públicos.
+
+###### Artigo 7.º — Alterações orçamentais
+
+1 - Na execução do Orçamento da Região Autónoma dos Açores para 1993 a dotação provisional a que se refere o n.º 2 do artigo 19.º do [Decreto Legislativo Regional n.º 17/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1987-496889), de 13 de Novembro, poderá ser aplicada para fazer face às despesas com pessoal determinadas por medidas de política orçamental de âmbito nacional e de outras, igualmente não previstas e inadiáveis, que eventualmente ocorram nos orçamentos dos diferentes departamentos governamentais.
+
+2 - Quando se verifique a deslocação ou transferência de serviços entre departamentos da administração regional e transferências de pessoal justificadas pela mobilidade e reafectação de recursos humanos e seu racional aproveitamento, as dotações orçamentais inscritas nos orçamentos dos serviços de origem poderão ser transferidas para os departamentos de destino.
+
+3 - A estrutura do orçamento de despesas é adaptada e reajustada em conformidade com o mapa II anexo ao presente diploma e na sequência das alterações à orgânica governamental introduzidas pelo [Decreto Legislativo Regional n.º 1/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1993-229921), de 5 de Janeiro.
+
+###### Artigo 8.º — Subvenção extraordinária
+
+1 - Atendendo a as restrições financeiras da Região, derivadas em parte da quebra de receitas provenientes dos acordos internacionais, e a circunstância do eventual diferimento de pagamentos daí resultantes poderem criar, temporária e pontualmente, dificuldades económicas e financeiras significativas a fornecedores de bens e serviços à Região, fica o Governo Regional autorizado a assumir os encargos financeiros resultantes do recurso a financiamentos bancários por parte dessas entidades, até ao montante que se encontre em dívida, de acordo com os prazos legais de pagamento, e mediante contrato que justifique documentalmente a origem e causas da despesa em questão.
+
+2 - O disposto no número anterior é aplicável a projectos cuja execução esteja em curso e que constem dos planos e orçamentos aprovados pela Assembleia Legislativa Regional.
+
+3 - Os financiamentos bancários e respectivos encargos financeiros em causa reger-se-ão pelos valores e parâmetros que vigorarem na prática bancária corrente no momento de celebração dos contratos, devendo cada projecto ser considerado caso a caso de modo a ponderar da melhor forma todas as circunstâncias relevantes.
+
+### CAPÍTULO IV — Disposições finais
+
+###### Artigo 9.º — Execução orçamental
+
+O Orçamento da Região Autónoma dos Açores será posto em execução pelo Governo Regional dos Açores mediante decreto regulamentar regional, que estabelecerá medidas regulamentares e de desenvolvimento do disposto no presente diploma, aplicáveis a todos os serviços que integram a Administração Pública Regional Autónoma, incluindo os organismos dotados de autonomia administrativa e autonomia administrativa e financeira.
+
+###### Artigo 10.º — Produção de efeitos
+
+O presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro de 1993.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Maio de 1993.
+
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
+
+Assinado em Angra do Heroísmo em 21 de Junho de 1993.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
+
+Do MAPA I ao MAPA V
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/170a00/39533963.pdf)

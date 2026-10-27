@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R0164:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0164-20260216",
+ "dre_path": null,
+ "source_lastmod": "2026-02-16",
+ "versions": [
+  {
+   "date": "2026-01-27",
+   "future": false,
+   "celex": "32026R0164",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "aa758e63fae46003",
+    "82e3436489931981",
+    "78c4930a76b9a5c4",
+    "7e38d39770980c79",
+    "e2e6863c25be2e56",
+    "af5e91a409bf373d"
+   ]
+  },
+  {
+   "date": "2026-02-16",
+   "future": false,
+   "celex": "02026R0164-20260216",
+   "acts": [
+    {
+     "id": "eu:celex:32026R2070:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2026/2070 DA COMISSÃO de 17 de setembro de 2026",
+     "published": null,
+     "celex": "32026R2070"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º — Entrada em vigor",
+    "Adita ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "36af91c77e1879e2",
+    "82e3436489931981",
+    "78c4930a76b9a5c4",
+    "7e38d39770980c79",
+    "a8b3f34bc86b1c1c",
+    "ba605e9ad38b16b3"
+   ]
+  }
+ ],
+ "fragments": {
+  "aa758e63fae46003": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de janeiro de 2026\n\nrelativo à renovação da autorização de uma solução aquosa de cloreto de colina e de uma preparação de cloreto de colina como aditivos em alimentos para todas as espécies animais e que revoga o Regulamento de Execução (UE) n.º 795/2013\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1831/2003 do Parlamento Europeu e do Conselho, de 22 de setembro de 2003, relativo aos aditivos destinados à alimentação animal [([^1])](http://publications.europa.eu/resource/cellar/d1984667-fb23-11f0-8da5-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202600164PT.000101-E0001), nomeadamente o artigo 9.º, n.º 2,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 1831/2003 determina que os aditivos destinados à alimentação animal carecem de autorização e estabelece as condições e os procedimentos para a concessão e a renovação dessa autorização.\n\n(2) As preparações de cloreto de colina em estado sólido e líquido foram autorizadas por um período de 10 anos como aditivos em alimentos para animais de todas as espécies pelo Regulamento de Execução (UE) n.º 795/2013 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/d1984667-fb23-11f0-8da5-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202600164PT.000101-E0002).\n\n(3) Em conformidade com o artigo 14.º, n.º 1, do Regulamento (CE) n.º 1831/2003, foi apresentado um pedido de renovação da autorização do cloreto de colina em solução aquosa e da preparação de cloreto de colina, solicitando que os aditivos fossem classificados na categoria de aditivos designada por «aditivos nutritivos» e no grupo funcional «vitaminas, provitaminas e substâncias quimicamente bem definidas de efeito semelhante». Esse pedido foi acompanhado dos dados e documentos exigidos nos termos do artigo 14.º, n.º 2, do Regulamento (CE) n.º 1831/2003.\n\n(4) No seu parecer de 29 de janeiro de 2025 [([^3])](http://publications.europa.eu/resource/cellar/d1984667-fb23-11f0-8da5-01aa75ed71a1.0020.03/DOC_1#ntr3-L_202600164PT.000101-E0003), a Autoridade Europeia para a Segurança dos Alimentos («Autoridade») concluiu que o requerente apresentou provas de que a utilização do cloreto de colina na alimentação animal continua a ser segura para todas as espécies animais, para os consumidores e para o ambiente. A Autoridade concluiu ainda que a substância ativa cloreto de colina deve ser considerada um potencial sensibilizante cutâneo e respiratório. Qualquer exposição através da pele ou das vias respiratórias é, por conseguinte, considerada um risco. Embora as soluções aquosas que contêm até 70 % de cloreto de colina sejam consideradas não irritantes para os olhos, não é possível chegar a uma conclusão sobre o potencial de irritação ocular das formas mais concentradas. Estas conclusões aplicar-se-iam, em princípio, a todas as preparações produzidas com a substância ativa. A Autoridade declarou que o pedido de renovação da autorização não inclui uma proposta para alterar ou complementar as condições da autorização original suscetível de ter um impacto na eficácia dos aditivos. Por conseguinte, a Autoridade concluiu que não é necessário avaliar a eficácia dos aditivos no contexto da renovação da autorização. Não considerou que haja necessidade de requisitos específicos de monitorização pós-comercialização.\n\n(5) O laboratório de referência instituído pelo Regulamento (CE) n.º 1831/2003 considerou que as conclusões e recomendações formuladas na avaliação do método de análise do cloreto de colina como aditivo para a alimentação animal no âmbito da autorização anterior são válidas e aplicáveis ao pedido atual. Em conformidade com o artigo 5.º, n.º 4, alínea c), do Regulamento (CE) n.º 378/2005 da Comissão [([^4])](http://publications.europa.eu/resource/cellar/d1984667-fb23-11f0-8da5-01aa75ed71a1.0020.03/DOC_1#ntr4-L_202600164PT.000101-E0004), não é, por conseguinte, necessário um relatório de avaliação do laboratório de referência.\n\n(6) O Regulamento de Execução (UE) n.º 795/2013 estabelece que o cloreto de colina pode ser colocado no mercado sob a forma de preparações, mas, por erro, a composição dessas preparações não foi especificada nos termos da autorização. Deve ser incluída uma descrição mais precisa das preparações que contêm cloreto de colina, especificando a composição dos aditivos para a alimentação animal autorizados como preparações. Deve também ser atribuído um número de identificação diferente para se fazer a distinção entre a solução aquosa e a preparação.\n\n(7) Tendo em conta o que precede, a Comissão considera que a solução aquosa de cloreto de colina e a preparação de cloreto de colina preenchem as condições previstas no artigo 5.º do Regulamento (CE) n.º 1831/2003. Por conseguinte, a autorização desses aditivos deve ser renovada. Além disso, a Comissão considera que devem ser tomadas medidas de proteção adequadas para evitar efeitos adversos para a saúde dos utilizadores do aditivo. Essas medidas de proteção não devem prejudicar outros requisitos de segurança dos trabalhadores nos termos do direito da União.\n\n(8) Na sequência da renovação da autorização da solução aquosa de cloreto de colina e da preparação de cloreto de colina, o Regulamento de Execução (UE) n.º 795/2013 deve ser revogado.\n\n(9) Dado que o número de identificação dos aditivos foi alterado, é adequado prever um período transitório para que as partes interessadas possam preparar-se para dar cumprimento aos novos requisitos decorrentes da renovação da autorização.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "82e3436489931981": {
+   "fragment_id": "Artigo 1.º — Autorização",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Autorização\n\nA autorização da solução aquosa e da preparação especificadas no anexo, pertencentes à categoria de aditivos designada por «aditivos nutritivos» e ao grupo funcional «vitaminas, provitaminas e substâncias quimicamente bem definidas de efeito semelhante», é renovada nas condições estabelecidas no mesmo anexo."
+  },
+  "78c4930a76b9a5c4": {
+   "fragment_id": "Artigo 2.º — Revogação do Regulamento de Execução (UE) n.º 795/2013",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Revogação do Regulamento de Execução (UE) n.º 795/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revogação do Regulamento de Execução (UE) n.º 795/2013\n\nO Regulamento de Execução (UE) n.º 795/2013 é revogado."
+  },
+  "7e38d39770980c79": {
+   "fragment_id": "Artigo 3.º — Medidas transitórias",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Medidas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Medidas transitórias\n\n1. As preparações de cloreto de colina, autorizadas pelo Regulamento de Execução (UE) n.º 795/2013, e as pré-misturas que contenham essas preparações, que sejam produzidas e rotuladas antes de 16 de agosto de 2026 em conformidade com as regras aplicáveis antes de 16 de fevereiro de 2026, podem continuar a ser colocadas no mercado e utilizadas até que se esgotem as suas existências.\n\n2. Os alimentos compostos para animais e as matérias-primas para a alimentação animal que contenham os aditivos para a alimentação animal referidos no n.º 1, que sejam produzidos e rotulados antes de 16 de fevereiro de 2027 em conformidade com as regras aplicáveis antes de 16 de fevereiro de 2026, podem continuar a ser colocados no mercado e utilizados até que se esgotem as suas existências se forem destinados a animais utilizados na alimentação humana.\n\n3. Os alimentos compostos para animais e as matérias-primas para a alimentação animal que contenham os aditivos para a alimentação animal referidos no n.º 1, que sejam produzidos e rotulados antes de 16 de fevereiro de 2028 em conformidade com as regras aplicáveis antes de 16 de fevereiro de 2026, podem continuar a ser colocados no mercado e utilizados até que se esgotem as suas existências se forem destinados a animais não utilizados na alimentação humana."
+  },
+  "e2e6863c25be2e56": {
+   "fragment_id": "Artigo 4.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 26 de janeiro de 2026.\n\n***Pela Comissão***\n\n***A Presidente***\n\n**Ursula VON DER LEYEN**\n\n---"
+  },
+  "af5e91a409bf373d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d1984667-fb23-11f0-8da5-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202600164PT.000101-E0001) [JO L 268 de 18.10.2003, p. 29](http://publications.europa.eu/resource/oj/JOL_2003_268_R_TOC), ELI: [http://data.europa.eu/eli/reg/2003/1831/oj](http://data.europa.eu/eli/reg/2003/1831/oj).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/d1984667-fb23-11f0-8da5-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202600164PT.000101-E0002) Regulamento de Execução (UE) n.º 795/2013 da Comissão, de 21 de agosto de 2013, relativo à autorização de cloreto de colina como aditivo em alimentos para animais de todas as espécies ([JO L 224 de 22.8.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_224_R_TOC), ELI: [http://data.europa.eu/eli/reg_impl/2013/795/oj](http://data.europa.eu/eli/reg_impl/2013/795/oj)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/d1984667-fb23-11f0-8da5-01aa75ed71a1.0020.03/DOC_1#ntc3-L_202600164PT.000101-E0003) *EFSA Journal*, vol. 23, artigo e9264, 2025, [https://doi.org/10.2903/j.efsa.2025.9264](https://doi.org/10.2903/j.efsa.2025.9264).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/d1984667-fb23-11f0-8da5-01aa75ed71a1.0020.03/DOC_1#ntc4-L_202600164PT.000101-E0004) Regulamento (CE) n.º 378/2005 da Comissão, de 4 de março de 2005, sobre as regras de execução do Regulamento (CE) n.º 1831/2003 do Parlamento Europeu e do Conselho relativo às competências e funções do Laboratório Comunitário de Referência no respeitante aos pedidos de autorização de aditivos destinados à alimentação animal ([JO L 59 de 5.3.2005, p. 8](http://publications.europa.eu/resource/oj/JOL_2005_059_R_TOC), ELI: [http://data.europa.eu/eli/reg/2005/378/oj](http://data.europa.eu/eli/reg/2005/378/oj))."
+  },
+  "36af91c77e1879e2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de janeiro de 2026\n\nrelativo à renovação da autorização de uma solução aquosa de cloreto de colina e de uma preparação de cloreto de colina como aditivos em alimentos para todas as espécies animais e que revoga o Regulamento de Execução (UE) n.º 795/2013\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "a8b3f34bc86b1c1c": {
+   "fragment_id": "Artigo 4.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "ba605e9ad38b16b3": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Número de identificação do aditivo | Aditivo | Composição, fórmula química, descrição e método analítico | Espécie ou categoria animal | Idade máxima | Teor mínimo | Teor máximo | Outras disposições | Fim do período de autorização |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| mg da substância ativa/kg de alimento completo com um teor de humidade de 12 % |  |  |  |  |  |  |  |  |\n| **Categoria: aditivos nutritivos. Grupo funcional: vitaminas, provitaminas e substâncias quimicamente bem definidas de efeito semelhante** |  |  |  |  |  |  |  |  |\n| 3a890i | Cloreto de colina | *Composição do aditivo* Solução aquosa contendo um mínimo de 74 % de cloreto de colina *Caracterização da substância ativa* Cloreto de colina C5H14Cl·NO Número CAS: 67-48-1 Forma sólida, produzida por síntese química Critérios de pureza: mín. 99 % numa base anidra 2-Cloroetanol: no máximo, 40mg/kg de óxido de etileno [(^1^)](http://publications.europa.eu/resource/cellar/13f1e358-c1ca-11f1-988f-01aa75ed71a1.0021.02/DOC_1#E0001) (soma de óxido de etileno e 2-cloroetanol, expressa em óxido de etileno) *Método analítico* [(^2^)](http://publications.europa.eu/resource/cellar/13f1e358-c1ca-11f1-988f-01aa75ed71a1.0021.02/DOC_1#E0002) Para a determinação do cloreto de colina no aditivo para a alimentação animal, nas pré-misturas, nos alimentos compostos para animais e na água de abeberamento: cromatografia iónica com deteção por condutividade (IC-CD) | Todas as espécies animais | — | — | — | 1. O aditivo pode ser utilizado através da água de abeberamento. 2. As instruções de utilização do aditivo e das pré-misturas devem indicar as condições de armazenamento, a estabilidade ao tratamento térmico e a estabilidade na água de abeberamento. 3. Não é permitida a utilização simultânea de cloreto de colina nos alimentos para animais e na água de abeberamento. 4. A rotulagem dos alimentos que contenham cloreto de colina destinados a aves de capoeira e a porcos deve conter a seguinte menção: «Recomenda-se que não seja ultrapassado um nível de suplementação de 1 000 mg de cloreto de colina/kg de alimento completo destinado a aves de capoeira e a porcos.». 5. Nas instruções de utilização dos alimentos que contenham cloreto de colina destinados a aves de capoeira ou a porcos, deve indicar-se: «Não é permitida a utilização simultânea com água de abeberamento à qual tenha sido adicionado cloreto de colina.». 6. Para os utilizadores do aditivo e das pré-misturas, os operadores das empresas do setor dos alimentos para animais devem estabelecer procedimentos operacionais e medidas organizativas a fim de minimizar os potenciais riscos resultantes da sua utilização. Quando esses procedimentos e medidas não eliminarem os referidos riscos, o aditivo e as pré-misturas devem ser utilizados com equipamento individual de proteção cutânea, ocular e respiratória. | 16 de fevereiro de 2036 |\n| (^1^) Embora o nível de 40 mg seja expresso em óxido de etileno, refere-se à presença da impureza 2-cloroetanol. O método de análise requer que o 2-cloroetanol seja expresso desta forma. (^2^) Os detalhes dos métodos analíticos estão disponíveis no seguinte endereço do laboratório de referência: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_pt. |  |  |  |  |  |  |  |  |\n\n| Número de identificação do aditivo | Aditivo | Composição, fórmula química, descrição e método analítico | Espécie ou categoria animal | Idade máxima | Teor mínimo | Teor máximo | Outras disposições | Fim do período de autorização |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| mg da substância ativa/kg de alimento completo com um teor de humidade de 12 % |  |  |  |  |  |  |  |  |\n| **Categoria: aditivos nutritivos. Grupo funcional: vitaminas, provitaminas e substâncias quimicamente bem definidas de efeito semelhante** |  |  |  |  |  |  |  |  |\n| 3a890ii | Cloreto de colina | *Composição do aditivo* Preparação contendo um mínimo de 50 % de cloreto de colina Forma sólida *Caracterização da substância ativa* Cloreto de colina C5H14Cl·NO Número CAS: 67-48-1 Forma sólida, produzida por síntese química Critérios de pureza: mín. 99 % numa base anidra 2-Cloroetanol: no máximo, 40mg/kg de óxido de etileno [(^1^)](http://publications.europa.eu/resource/cellar/13f1e358-c1ca-11f1-988f-01aa75ed71a1.0021.02/DOC_1#E0003) (soma de óxido de etileno e 2-cloroetanol, expressa em óxido de etileno) *Método analítico* [(^2^)](http://publications.europa.eu/resource/cellar/13f1e358-c1ca-11f1-988f-01aa75ed71a1.0021.02/DOC_1#E0004) Para a determinação do cloreto de colina no aditivo para a alimentação animal, nas pré-misturas, nos alimentos compostos para animais e na água de abeberamento: cromatografia iónica com deteção por condutividade (IC-CD) | Todas as espécies animais | — | — | — | 1. O aditivo pode ser utilizado através da água de abeberamento. 2. As instruções de utilização do aditivo e das pré-misturas devem indicar as condições de armazenamento, a estabilidade ao tratamento térmico e a estabilidade na água de abeberamento. 3. Não é permitida a utilização simultânea de cloreto de colina nos alimentos para animais e na água de abeberamento. 4. A rotulagem dos alimentos que contenham cloreto de colina destinados a aves de capoeira e a porcos deve conter a seguinte menção: «Recomenda-se que não seja ultrapassado um nível de suplementação de 1 000 mg de cloreto de colina/kg de alimento completo destinado a aves de capoeira e a porcos.». 5. Nas instruções de utilização dos alimentos que contenham cloreto de colina destinados a aves de capoeira ou a porcos, deve indicar-se: «Não é permitida a utilização simultânea com água de abeberamento à qual tenha sido adicionado cloreto de colina.». 6. Para os utilizadores do aditivo e das pré-misturas, os operadores das empresas do setor dos alimentos para animais devem estabelecer procedimentos operacionais e medidas organizativas a fim de minimizar os potenciais riscos resultantes da sua utilização. Quando esses procedimentos e medidas não eliminarem os referidos riscos, o aditivo e as pré-misturas devem ser utilizados com equipamento individual de proteção cutânea, ocular e respiratória. | 16 de fevereiro de 2036 |\n| (^1^) Embora o nível de 40 mg seja expresso em óxido de etileno, refere-se à presença da impureza 2-cloroetanol. O método de análise requer que o 2-cloroetanol seja expresso desta forma. (^2^) Os detalhes dos métodos analíticos estão disponíveis no seguinte endereço do laboratório de referência: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_pt. |  |  |  |  |  |  |  |  |"
+  }
+ }
+}

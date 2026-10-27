@@ -1,0 +1,563 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:277850:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-180477634",
+ "dre_path": "/dr/detalhe/decreto-lei/139-2004-277850",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-06-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "180397135",
+    "180397136",
+    "180397137",
+    "180397138",
+    "180397139",
+    "180397140",
+    "180397141",
+    "180397142",
+    "180397143",
+    "180397144",
+    "180397145",
+    "180397146",
+    "180397147",
+    "180397148",
+    "180397149",
+    "180397150",
+    "180397151",
+    "180397152",
+    "180397153",
+    "180397154",
+    "180397155",
+    "180397156",
+    "180397157",
+    "180397158",
+    "180397159",
+    "180397160",
+    "180397161",
+    "180397162",
+    "180397163",
+    "180397164",
+    "180397166"
+   ]
+  },
+  {
+   "date": "2022-04-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:180474163:por",
+     "title": "Decreto-Lei n.º 25/2022",
+     "published": "2022-03-15",
+     "dre_path": "/dr/detalhe/decreto-lei/25-2022-180474163"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º"
+   ],
+   "fragments": [
+    "180397135",
+    "180397136",
+    "869634897",
+    "869634898",
+    "869634899",
+    "869634900",
+    "869634901",
+    "869634902",
+    "869634903",
+    "869634904",
+    "180397145",
+    "180397146",
+    "869634905",
+    "180397148",
+    "180397149",
+    "869634906",
+    "180397151",
+    "869634907",
+    "869634908",
+    "869634909",
+    "180397155",
+    "869634910",
+    "180397157",
+    "869634911",
+    "869634912",
+    "180397160",
+    "869634913",
+    "180397162",
+    "869634914",
+    "869634915",
+    "180397165",
+    "180397166"
+   ]
+  }
+ ],
+ "fragments": {
+  "180397135": {
+   "fragment_id": "180477635",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 139/2004\n\nde 5 de Junho\n\nRelativamente à organização do tempo de trabalho do pessoal móvel da aviação civil, a Comunidade Europeia adoptou a Directiva n.º <a href=\"eurlex.asp?ano=2000&id=300L0079\" title=\"Link para Directiva da Comunidade Europeia\">2000/79/CE</a>, do Conselho, de 27 de Novembro, com o objectivo de dar aplicação ao Acordo Europeu sobre a Organização do Tempo de Trabalho do Pessoal Móvel da Aviação Civil, celebrado em 22 de Março de 2000 entre as organizações patronais e sindicais do sector da aviação civil, ou seja, a Associação das Companhias Aéreas Europeias (AEA), a Federação Europeia dos Trabalhadores dos Transportes (ETF), a Associação Europeia do Pessoal Navegante (ECA), a Associação das Companhias Aéreas das Regiões da Europa (ERA) e a Associação Internacional de Chárteres Aéreos (AICA).\n\nUrge, pois, transpor para a ordem jurídica interna a referida directiva, que visa o estabelecimento de normas mínimas de protecção da saúde e da segurança dos trabalhadores, com vista a garantir a própria segurança de voo. A limitação do tempo de voo e do período de serviço de voo estabelecida no presente diploma visa, assim, assegurar aos tripulantes, no início e durante cada período de serviço de voo, o domínio e a utilização de todas as suas capacidades físicas e psíquicas.\n\nTendo em conta que o sistema jurídico nacional já continha normas relativas às condições de repouso e de trabalho do pessoal móvel da aviação civil, estabelecidas na Portaria n.º 238-A/98, de 15 de Abril, baseadas num princípio geral de adaptação do trabalho ao homem, considerando as condicionantes específicas da actividade em causa, o presente diploma acolhe as normas da referida portaria, adequando-as à actual realidade, nomeadamente às condições concorrenciais existentes relacionadas com as situações diferenciadas de cada operador.\n\nPor outro lado, tipificam-se, ainda, os ilícitos contra-ordenacionais estabelecidos em função da censurabilidade específica dos interesses a tutelar, de acordo com a classificação constante do regime de contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro.\n\nO presente diploma foi sujeito a apreciação pública, mediante publicação na separata n.º 3 do Boletim do Trabalho e Emprego, de 18 de Fevereiro de 2004, não tendo sido objecto de pareceres pelos parceiros sociais e demais interessados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "180397136": {
+   "fragment_id": "180477636",
+   "type": 1,
+   "heading": "Capítulo I — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições genéricas"
+  },
+  "180397137": {
+   "fragment_id": "180477637",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente diploma transpõe a Directiva n.º <a href=\"eurlex.asp?ano=2000&id=300L0079\" title=\"Link para Directiva da Comunidade Europeia\">2000/79/CE</a>, do Conselho, de 27 de Novembro, e define e regula o tempo de trabalho do pessoal móvel da aviação civil, designadamente no que respeita aos limites dos tempos de serviço de voo e de repouso.\n\n2 - As disposições contidas no presente diploma são aplicáveis a todos os tripulantes de aeronaves na execução de quaisquer operações de transporte aéreo de passageiros, carga ou correio por operadores nacionais.\n\n3 - A limitação do tempo de voo e do serviço de voo visa garantir a segurança de voo, assegurando aos tripulantes, no início e durante cada período de serviço de voo, o domínio e a utilização de todas as suas capacidades físicas e psíquicas e as adequadas condições de trabalho."
+  },
+  "180397138": {
+   "fragment_id": "180477638",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições e abreviaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições e abreviaturas\n\nPara efeitos do presente diploma, entende-se como:\n\na) «Alojamento adequado» - quarto individual, devidamente mobilado, sujeito ao mínimo de ruído, bem ventilado e que tenha possibilidades de controlo dos níveis de luz e temperatura;\n\nb) «Ano» - período de 52 semanas consecutivas;\n\nc) «INAC» - Instituto Nacional de Aviação Civil;\n\nd) «Base» - local onde a empresa tem a sua sede, ou onde o tripulante normalmente inicia os seus períodos de serviço de voo, ou outro que, para o efeito, seja definido no contrato de trabalho entre o tripulante e o operador;\n\ne) «Dia» - período de vinte e quatro horas, que começa às 0 horas locais;\n\nf) «Dia de folga» - período livre de qualquer tipo de serviço para o tripulante, com a duração de vinte e quatro horas;\n\ng) «Dia de folga local» - período livre de qualquer tipo de serviço para o tripulante, com a duração de vinte e quatro horas, gozado na base;\n\nh) «Dia útil» - dia legal de serviço no qual o trabalhador pode estar livre de todo e qualquer serviço caso o operador não necessite de o utilizar;\n\ni) «Folga semanal» - período de trinta e seis horas livre de serviço para o tripulante, que inclui duas noites consecutivas;\n\nj) «Hora de apresentação» - hora determinada pelo operador para um tripulante se apresentar para executar qualquer operação de transporte aéreo ou outro tipo de serviço;\n\nl) «Intervalo» - período de tempo igual ou superior a três horas e inferior ao período de repouso, contado a partir do final de um sector voado até ao início do sector seguinte, sendo contabilizado como período de serviço de voo;\n\nm) «Mês» - período de quatro semanas consecutivas;\n\nn) «Hora local» - período de sessenta minutos, reportado ao local da base, até ao limite de quarenta e oito horas, a contar da partida desse local, e reportado ao local de origem do voo após decorridas quarenta e oito horas da partida do local da base;\n\no) «Noite local» - qualquer período de oito horas, entre as 22 e as 8 horas locais;\n\np) «Período crítico do ritmo circadiano» - período compreendido entre as 2 e as 6 horas locais;\n\nq) «Período de repouso» - período de tempo que antecede o início de um período de serviço de voo e que se destina a dar ao tripulante a oportunidade de descanso antes do voo em alojamento adequado e que inclui oito horas de descanso consecutivas;\n\nr) «Período de serviço de assistência» - período de serviço em que o tripulante está contactável, a uma distância equivalente à existente entre o seu domicílio e a base, com vista a, por ordem do operador, executar um período de serviço de voo;\n\ns) «Período de serviço nocturno» - período de serviço compreendido entre as 23 e as 6 horas e 29 minutos locais;\n\nt) «Período de serviço de voo» - intervalo de tempo compreendido entre o momento, designado pelo operador, em que o tripulante se apresenta para efectuar um voo ou série de voos e o momento em que a aeronave se imobiliza definitivamente, após o último sector voado;\n\nu) «Período de serviço de voo repartido» - período de serviço de voo constituído por dois ou mais sectores separados por um intervalo;\n\nv) «Pessoal móvel da aviação civil» - membros da tripulação a bordo de uma aeronave civil empregues por operadores nacionais na execução de quaisquer operações de transporte aéreo de passageiros, carga ou correio;\n\nx) «Posicionamento» - deslocação, por qualquer meio de transporte, de um tripulante para um determinado local para iniciar um período de serviço e que é contabilizado como período de serviço de voo;\n\nz) «Sector» - período de serviço de voo compreendido entre uma descolagem e a aterragem imediatamente seguinte;\n\naa) «Semana» - período de sete dias consecutivos;\n\nbb) «Série de voos» - conjunto de voos entre os quais não tenha havido período de repouso;\n\ncc) «Tempo de trabalho» - qualquer período durante o qual o trabalhador está a trabalhar ou se encontra à disposição da entidade patronal e no exercício da sua actividade ou das suas funções, nos termos do presente diploma;\n\ndd) «Tempo de transporte» - tempo a considerar pelo operador para o trânsito de um tripulante, fora da base, entre o local de repouso e o local onde deve apresentar-se para o serviço, e vice-versa;\n\nee) «Tempo de voo total (block time)» - tempo decorrido entre o momento em que a aeronave se desloca do local onde se encontra estacionada com o objectivo de descolar até ao momento em que estaciona e os motores param;\n\nff) «Tripulação de cabina» - conjunto de tripulantes que, não fazendo parte da tripulação técnica, são nomeados pelo operador para executar, nomeadamente, tarefas de assistência e segurança aos passageiros;\n\ngg) «Tripulação mínima» - tripulação que estiver definida para cada equipamento de voo pela autoridade aeronáutica competente com o fim de garantir a segurança do voo;\n\nhh) «Tripulação reforçada» - tripulação que compreende mais do que a tripulação mínima e na qual cada membro da tripulação pode deixar o seu posto e ser substituído por outro membro da tripulação devidamente qualificado;\n\nii) «Tripulação técnica» - conjunto de tripulantes, com funções específicas resultantes das suas licenças e qualificações, envolvidos na condução da aeronave;\n\njj) «Tripulante» - indivíduo que desempenha funções específicas a bordo de uma aeronave, de acordo com as suas licenças, qualificações ou autorizações;\n\nll) «Tripulante em funções» - tripulante actuando de acordo com as suas competências numa aeronave durante um voo ou parte de um voo;\n\nmm) «Zona horária» - extensão do globo terrestre, geralmente coincidente com um fuso horário, que corresponde a 1/24 do globo terrestre e com uma extensão de 15º de longitude, ou seja, uma hora de tempo."
+  },
+  "180397139": {
+   "fragment_id": "180477639",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições exigíveis ao tripulante e ao operador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições exigíveis ao tripulante e ao operador\n\n1 - O tripulante não pode iniciar um período de serviço de voo, nem o operador lho pode exigir, quando se encontre em condições físicas, psíquicas ou outras que não permitam ou não garantam adequada execução das suas funções específicas a bordo.\n\n2 - A prestação de qualquer tipo de serviço de voo a outra entidade depende da concordância do operador, devendo este coordenar aquela actividade com a que lhe é prestada, de forma que não seja violado o disposto no presente diploma.\n\n3 - Sempre que o operador tome conhecimento de violações decorrentes da aplicação do número anterior, deve comunicá-las ao INAC.\n\n4 - Os voos de lazer efectuados em aeronaves de massa máxima à descolagem até 2750 kg não são considerados para efeitos do número anterior, à excepção dos voos efectuados com o propósito de ministrar instrução a qualquer título."
+  },
+  "180397140": {
+   "fragment_id": "180477640",
+   "type": 11,
+   "heading": "Artigo 4.º — Manual de operações de voo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Manual de operações de voo\n\n1 - O operador deve indicar no seu manual de operações de voo os limites de tempo de voo, de período de serviço de voo e de período de repouso que utiliza, em conformidade com os limites fixados no presente diploma.\n\n2 - É contabilizado como período de serviço de voo o período mínimo de trinta minutos para a preparação do voo."
+  },
+  "180397141": {
+   "fragment_id": "180477641",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização\n\n1 - Compete ao INAC, sem prejuízo das competências atribuídas a outras entidades, fiscalizar o cumprimento do presente diploma, designadamente através da realização de inspecções e da consulta dos relatórios dos operadores e dos comandantes e demais documentos apropriados.\n\n2 - O operador deve manter pelo período de três anos e colocar à disposição do INAC, quando solicitado, registos detalhados sobre os tripulantes referentes a:\n\na) Tempos de voo;\n\nb) Períodos de serviço de voo;\n\nc) Períodos de repouso e folgas."
+  },
+  "180397142": {
+   "fragment_id": "180477642",
+   "type": 11,
+   "heading": "Artigo 6.º — Exame médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exame médico\n\n1 - Os trabalhadores móveis da aviação civil, antes da respectiva colocação e, seguidamente, a intervalos regulares, têm direito a que o operador lhes proporcione um exame médico gratuito destinado a avaliar o seu estado de saúde, nos termos da legislação aplicável relativa à saúde, higiene e segurança.\n\n2 - Os trabalhadores móveis da aviação civil que sofram de problemas de saúde reconhecidos como tendo uma relação directa com o facto de também trabalharem durante a noite serão transferidos, na medida do possível, para um trabalho diurno móvel ou não móvel que estejam aptos a desempenhar.\n\n3 - O exame médico gratuito referido no n.º 1 do presente artigo deve respeitar o sigilo médico, não podendo o operador utilizar os resultados médicos para qualquer outra finalidade que não seja a referida.\n\n4 - Os encargos decorrentes da realização dos exames médicos referidos no n.º 1 do presente artigo são suportados pelo operador."
+  },
+  "180397143": {
+   "fragment_id": "180477643",
+   "type": 11,
+   "heading": "Artigo 7.º — Programa de segurança e de protecção da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Programa de segurança e de protecção da saúde\n\n1 - O operador deve estabelecer um programa de segurança e de protecção da saúde adequado à natureza do trabalho exercido pelo pessoal móvel da aviação civil, nos termos da legislação aplicável relativa à saúde, higiene e segurança.\n\n2 - O programa referido no número anterior deve prever que os serviços e meios adequados de protecção e prevenção em matéria de segurança e saúde estejam à disposição dos trabalhadores.\n\n3 - O programa de segurança e de protecção da saúde estabelecido pelo operador deve ser aprovado pelo INAC."
+  },
+  "180397144": {
+   "fragment_id": "180477644",
+   "type": 11,
+   "heading": "Artigo 8.º — Normas operacionais excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Normas operacionais excepcionais\n\n1 - Em caso de reconhecida necessidade, o INAC pode fixar, por períodos de tempo limitados, normas de operação excepcionais, distintas das que são fixadas no presente diploma, mediante requerimento apresentado pelo operador, com uma antecedência mínima de três dias úteis relativamente ao início da operação em causa, ouvidos os representantes do pessoal móvel da aviação civil ou, na ausência destes últimos, o pessoal móvel da aviação civil directamente implicado na operação em causa.\n\n2 - Para efeitos do disposto no número anterior, entende-se por casos de reconhecida necessidade, nomeadamente, aqueles em que esteja em causa o interesse público ou interesses económicos relevantes para o operador, devidamente reconhecidos pelo INAC, tendo em conta a natureza da operação em causa.\n\n3 - O operador que apresente qualquer pedido de derrogação às normas operacionais previstas no presente diploma deve demonstrar, junto do INAC, que o pedido garante um nível de segurança adequado, experiência operacional e conhecimentos científicos actuais.\n\n4 - As condições de operação excepcionais a que se referem os números anteriores constam das especificações operacionais constantes do manual de operações de voo e só são eficazes para os tripulantes quando publicadas nesse manual."
+  },
+  "180397145": {
+   "fragment_id": "180477645",
+   "type": 1,
+   "heading": "Capítulo II — Tempo de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Tempo de trabalho"
+  },
+  "180397146": {
+   "fragment_id": "180477646",
+   "type": 8,
+   "heading": "Secção I — Períodos de serviço de voo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Períodos de serviço de voo"
+  },
+  "180397147": {
+   "fragment_id": "180477647",
+   "type": 11,
+   "heading": "Artigo 9.º — Período de serviço de voo do pessoal móvel da aviação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Período de serviço de voo do pessoal móvel da aviação civil\n\n1 - Os limites máximos de período de serviço de voo aplicáveis à tripulação técnica são os constantes dos quadros n.os 1 e 2, publicados em anexo ao presente diploma e que dele fazem parte integrante.\n\n2 - Aos comandos da aeronave, os tempos máximos para os períodos de serviço de voo do quadro n.º 2 não podem exceder sete horas, se a aeronave não estiver equipada com piloto automático, certificado e operativo.\n\n3 - Os máximos de período de serviço de voo aplicáveis a tripulantes de cabina são os constantes do quadro n.º 1."
+  },
+  "180397148": {
+   "fragment_id": "180477648",
+   "type": 11,
+   "heading": "Artigo 10.º — Período de serviço de voo com tripulação reforçada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Período de serviço de voo com tripulação reforçada\n\n1 - Em caso de tripulação reforçada, os limites máximos de serviço de voo previstos no artigo anterior são os constantes do quadro n.º 3, publicado em anexo ao presente diploma e que dele faz parte integrante.\n\n2 - Devem existir a bordo as condições de descanso previstas no artigo 17.º\n\n3 - O tempo de voo total aos comandos e o descanso a bordo devem ser distribuídos equitativamente por todos os membros da tripulação técnica.\n\n4 - O somatório das diferenças entre os períodos de serviço de voo planeados em regime de tripulação reforçada e os limites correspondentes constantes do quadro n.º 1 não pode exceder oito horas em cada semana, relativamente a cada tripulante, sem prejuízo dos limites constantes do quadro n.º 5, publicado em anexo ao presente diploma e que dele faz parte integrante.\n\n5 - Não podem ser efectuadas mais de três aterragens dentro dos limites de períodos de serviço de voo constantes do quadro n.º 3.\n\n6 - Caso se efectuem quatro aterragens, os limites referidos no número anterior são reduzidos em duas horas."
+  },
+  "180397149": {
+   "fragment_id": "180477649",
+   "type": 11,
+   "heading": "Artigo 11.º — Período de serviço de voo repartido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Período de serviço de voo repartido\n\n1 - Nos casos de períodos de serviço de voo repartidos, os limites máximos constantes do quadro n.º 1 são aumentados de acordo com o quadro n.º 4, publicado em anexo ao presente diploma e que dele faz parte integrante, desde que o sector ou a soma de sectores antes do intervalo, ou o sector posterior ao intervalo, não exceda dez horas e o tempo total de período de serviço de voo repartido não exceda vinte horas.\n\n2 - O aumento dos limites máximos do período de serviço de voo previsto no número anterior não pode ser combinado com o aumento previsto no n.º 1 do artigo 14.º\n\n3 - Para efeitos dos limites semanais, mensais, trimestrais e anuais previstos no artigo 15.º, o tempo do intervalo igual ou inferior a oito horas é contado a 100% e o tempo do intervalo superior a oito horas é contado a 50%.\n\n4 - Quando o tripulante se encontre em funções, após o intervalo só pode haver uma aterragem planeada.\n\n5 - Quando o tripulante se encontre em funções, não pode efectuar mais de dois sectores, separados por um intervalo.\n\n6 - Não pode haver uma diferença superior a duas zonas horárias entre o ponto de início do serviço de voo e o ponto onde tem lugar o intervalo.\n\n7 - Quando o intervalo for inferior a seis horas, a tripulação tem direito a repousar num lugar não aberto ao público, em condições de conforto e de controlo de luz e temperatura.\n\n8 - No caso de o repouso previsto no número anterior ocorrer a bordo da aeronave, não podem estar passageiros a bordo e podem ser utilizadas fontes alternativas de energia para o controlo de luz e temperatura.\n\n9 - Sempre que o intervalo for igual ou superior a seis horas, o repouso deve ocorrer em alojamento adequado.\n\n10 - Os períodos de serviço de voo repartidos que incluam, no todo ou em parte, o período crítico do ritmo circadiano só podem ocorrer por planeamento, no máximo duas vezes em cada sete dias consecutivos, devendo sempre existir entre um e outro um período de repouso que inclua uma noite local."
+  },
+  "180397150": {
+   "fragment_id": "180477650",
+   "type": 11,
+   "heading": "Artigo 12.º — Período de serviço nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Período de serviço nocturno\n\n1 - Um tripulante não pode efectuar mais de dois períodos de serviço nocturno consecutivos.\n\n2 - No caso de serem efectuados dois períodos consecutivos de serviço nocturno, apenas um deles pode incluir, no todo ou em parte, o período crítico do ritmo circadiano.\n\n3 - Em caso de alteração operacional imprevista, um tripulante pode completar o segundo período de serviço nocturno consecutivo para regresso à base, sem sujeição à limitação prevista no número anterior.\n\n4 - Um tripulante não pode efectuar mais de três períodos de serviço nocturno numa semana, dos quais dois podem ser consecutivos se forem antecedidos ou precedidos de uma folga semanal.\n\n5 - Em caso de alteração operacional imprevista que ocorra fora da base e implique um atraso no voo, abrangendo o período de serviço nocturno, não se aplicam as limitações previstas no número anterior.\n\n6 - As situações excepcionais previstas nos n.os 3 e 5 não podem ser cumuladas."
+  },
+  "180397151": {
+   "fragment_id": "180477651",
+   "type": 11,
+   "heading": "Artigo 13.º — Período de serviço de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Período de serviço de assistência\n\n1 - A duração máxima do período de serviço de assistência é de doze horas consecutivas.\n\n2 - Quando o tripulante for nomeado para um voo durante o período crítico do ritmo circadiano e o tempo entre a notificação e a hora de apresentação for igual ou inferior a duas horas, o período de serviço de voo começa a contar imediatamente a 100% desde o momento da notificação.\n\n3 - O tempo do período de serviço de assistência é contabilizado a 25% como período de serviço de voo, exclusivamente para efeitos dos limites semanais, mensais, trimestrais e anuais previstos no artigo 15.º"
+  },
+  "180397152": {
+   "fragment_id": "180477652",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do comandante decorrentes de razões operacionais imprevistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências do comandante decorrentes de razões operacionais imprevistas\n\n1 - Por razões operacionais imprevistas, ocorridas a partir da apresentação do tripulante para o serviço, o período de serviço de voo pode exceder, por decisão do comandante, até duas horas os limites constantes dos quadros anexos ao presente diploma.\n\n2 - Sempre que o período de serviço de voo exceder em mais de trinta minutos os limites constantes dos quadros anexos ao presente diploma, o comandante deve apresentar ao operador um relatório justificativo.\n\n3 - O operador deve enviar ao INAC o relatório previsto no número anterior, no prazo máximo de 15 dias.\n\n4 - O período de repouso subsequente deve ser acrescido do dobro do tempo em que o período de serviço de voo exceder os limites constantes dos quadros anexos ao presente diploma."
+  },
+  "180397153": {
+   "fragment_id": "180477653",
+   "type": 11,
+   "heading": "Artigo 15.º — Deslocação do tripulante como passageiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Deslocação do tripulante como passageiro\n\n1 - Quando o tripulante se deslocar como passageiro para, sem repouso intercalar subsequente, iniciar um voo como tripulante em funções, o tempo gasto no voo de posicionamento é contabilizado como período de serviço de voo para efeitos dos limites constantes dos quadros n.os 1, 2, 3, 4 e 5 e cálculo do período de repouso subsequente.\n\n2 - No caso previsto no número anterior, quando o tripulante puder efectuar o período de repouso entre a chegada do voo de posicionamento e a partida do voo de serviço, o tempo gasto no voo de posicionamento é contabilizado a 50% como período de serviço de voo apenas para efeitos dos limites constantes do quadro n.º 5.\n\n3 - Quando o tripulante se deslocar como passageiro, após um voo, para iniciar o período de repouso ou folga, o tempo gasto no voo de deslocação é contabilizado a 50% como período de serviço de voo apenas para efeitos dos limites constantes do quadro n.º 5, não devendo a deslocação conter mais de dois sectores."
+  },
+  "180397154": {
+   "fragment_id": "180477654",
+   "type": 11,
+   "heading": "Artigo 16.º — Limites semanais, mensais, trimestrais e anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Limites semanais, mensais, trimestrais e anuais\n\nOs limites semanais, mensais, trimestrais e anuais de tempo de voo total e de período de serviço de voo são os constantes do quadro n.º 5."
+  },
+  "180397155": {
+   "fragment_id": "180477655",
+   "type": 8,
+   "heading": "Secção II — Condições de descanso, períodos de repouso, folgas e férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Condições de descanso, períodos de repouso, folgas e férias"
+  },
+  "180397156": {
+   "fragment_id": "180477656",
+   "type": 11,
+   "heading": "Artigo 17.º — Condições de descanso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Condições de descanso\n\n1 - Se o período de serviço de voo para tripulação técnica reforçada exceder dezasseis horas, deve existir a bordo, para cada tripulante técnico de reforço, um beliche separado e isolado da cabina de pilotagem e dos passageiros.\n\n2 - Se o período de serviço de voo para a tripulação técnica reforçada for igual ou inferior a dezasseis horas, deve existir a bordo, para cada tripulante técnico de reforço, um beliche ou uma cadeira confortável e reclinável, separados e isolados da cabina de pilotagem e dos passageiros.\n\n3 - Devem existir a bordo cadeiras confortáveis e reclináveis, separadas da cabina de pilotagem e isoladas dos passageiros, para descanso de um terço ou de um quarto dos tripulantes de cabina, consoante o período de serviço de voo seja superior a dezasseis horas ou entre catorze e dezasseis horas."
+  },
+  "180397157": {
+   "fragment_id": "180477657",
+   "type": 11,
+   "heading": "Artigo 18.º — Períodos mínimos de repouso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Períodos mínimos de repouso\n\n1 - O período de repouso é contínuo e deve ser antecipadamente calculado.\n\n2 - O período de repouso é livre de quaisquer obrigações para com o operador e não pode ser interrompido por este.\n\n3 - O operador deve comunicar ao tripulante, com a antecedência mínima de quarenta e oito horas, a necessidade de efectuar qualquer voo, de forma que este possa planear o seu período de repouso.\n\n4 - O operador deve fornecer alojamento adequado ao tripulante sempre que este, por imposição de serviço, tenha de cumprir períodos de repouso fora da base.\n\n5 - Sem prejuízo dos números seguintes, o período de repouso tem a duração de onze horas, salvo autorização expressa do INAC.\n\n6 - No caso em que o tripulante efectue um período de serviço de voo de duração superior à do período de repouso fixado nos termos do número anterior, o operador apenas pode planear e o tripulante só pode aceitar um novo período de serviço de voo depois de o tripulante ter gozado um período de repouso de duração igual à do período de serviço de voo anterior.\n\n7 - Quando, fora da base, a soma do tempo de transporte gasto nos dois sentidos, de e para o local de repouso, exceder duas horas, o período de repouso é acrescentado da diferença.\n\n8 - Quando a diferença de longitude entre os pontos de início e fim do período de serviço de voo for igual ou superior a três zonas horárias, o período de repouso tem a duração de catorze horas, acrescidas de trinta minutos por cada zona horária a partir da 4.ª zona total ou parcialmente percorrida, ou de 100% do período de serviço de voo, caso este último seja superior.\n\n9 - Quando a diferença de longitude entre os pontos de início e fim do período de serviço de voo for igual ou superior a seis zonas horárias, o período de repouso fora da base tem duração igual a vinte e quatro horas, incluindo uma noite local.\n\n10 - O período de repouso pode ser reduzido pelo comandante, num máximo de duas horas, mas para não menos de onze horas, desde que o período de repouso anterior não tenha sido reduzido e o tempo de redução seja acrescentado ao período de repouso seguinte, o qual não pode ser reduzido."
+  },
+  "180397158": {
+   "fragment_id": "180477658",
+   "type": 11,
+   "heading": "Artigo 19.º — Folga semanal e dia de folga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Folga semanal e dia de folga\n\n1 - O operador deve assegurar ao tripulante:\n\na) Uma folga semanal em cada sete dias consecutivos;\n\nb) Sete dias de folga locais por cada mês;\n\nc) 24 dias de folga por cada período de 12 semanas consecutivas;\n\nd) 96 dias de folga locais por cada ano.\n\n2 - Para efeito de contagem do previsto nas alíneas b), c) e d) do número anterior, a folga semanal é contada como dia de folga.\n\n3 - Para efeitos de contagem do previsto na alínea a) do n.º 1, a folga semanal tem de iniciar-se, pelo menos, durante o 7.º dia.\n\n4 - Os períodos de repouso podem ser incluídos nas folgas semanais e nos dias de folga."
+  },
+  "180397159": {
+   "fragment_id": "180477659",
+   "type": 11,
+   "heading": "Artigo 20.º — Férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Férias\n\n1 - O pessoal móvel da aviação civil tem direito a férias anuais remuneradas de 22 dias úteis.\n\n2 - O direito a férias é irrenunciável e o seu gozo efectivo não pode ser substituído por qualquer compensação económica, excepto nos casos de cessação da relação de trabalho.\n\n3 - Em tudo o que não for contrário ao presente diploma, é aplicável o regime jurídico das férias previsto para o contrato individual de trabalho."
+  },
+  "180397160": {
+   "fragment_id": "180477660",
+   "type": 1,
+   "heading": "Capítulo III — Disposições contra-ordenacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições contra-ordenacionais"
+  },
+  "180397161": {
+   "fragment_id": "180477661",
+   "type": 11,
+   "heading": "Artigo 21.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contra-ordenações\n\n1 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, são classificadas de infracções muito graves:\n\na) A violação, pelo tripulante ou pelo operador, do disposto no n.º 1 do artigo 3.º;\n\nb) A inexistência de exame médico gratuito proporcionado pelo operador aos trabalhadores móveis da aviação civil, violando o disposto nos n.os 1 e 4 do artigo 6.º;\n\nc) O desrespeito do sigilo médico pelo operador, em violação do disposto no n.º 3 do artigo 6.º;\n\nd) A falta de disponibilização pelo operador aos trabalhadores dos serviços e meios adequados de protecção e prevenção em matéria de segurança e saúde, em violação do disposto no n.º 2 do artigo 7.º;\n\ne) A falta de aprovação pelo INAC do programa de segurança e de protecção da saúde, nos termos do n.º 3 do artigo 7.º;\n\nf) A excedência dos limites de períodos de serviço de voo, em violação, pelo tripulante ou pelo operador, do disposto no n.º 1 do artigo 9.º;\n\ng) A violação, pelo operador ou pelo tripulante, do disposto no n.º 2 do artigo 9.º;\n\nh) A excedência dos limites de períodos de serviço de voo, em violação, pelo tripulante ou pelo operador, do disposto no n.º 3 do artigo 9.º;\n\ni) A excedência dos limites de períodos de serviço de voo, em violação, pelo tripulante ou pelo operador, do disposto no n.º 1 do artigo 10.º;\n\nj) A violação, pelo tripulante ou pelo operador, do disposto no n.º 5 do artigo 10.º;\n\nl) A excedência dos limites de períodos de serviço de voo, em violação, pelo tripulante ou pelo operador, do disposto no n.º 6 do artigo 10.º;\n\nm) A violação, pelo tripulante ou pelo operador, do disposto no n.º 4 do artigo 11.º;\n\nn) A violação, pelo tripulante ou pelo operador, do disposto no n.º 5 do artigo 11.º;\n\no) A violação, pelo tripulante ou pelo operador, do disposto no n.º 6 do artigo 11.º;\n\np) A violação, pelo tripulante ou pelo operador, do disposto no n.º 10 do artigo 11.º;\n\nq) A violação, pelo operador ou pelo tripulante, do disposto no n.º 1 do artigo 12.º;\n\nr) A violação, pelo operador ou pelo tripulante, do disposto no n.º 2 do artigo 12.º;\n\ns) A violação, pelo operador ou pelo tripulante, do disposto no n.º 4 do artigo 12.º;\n\nt) A excedência superior a duas horas dos limites de períodos de serviço de voo, em violação, pelo tripulante ou pelo operador, do disposto no n.º 1 do artigo 14.º;\n\nu) A não apresentação ao operador, pelo comandante, do relatório justificativo, nos termos do n.º 2 do artigo 14.º;\n\nv) O não envio ao INAC, pelo operador, do relatório justificativo, nos termos do n.º 3 do artigo 14.º;\n\nx) A violação, pelo operador ou pelo tripulante, do disposto no n.º 1 do artigo 19.º\n\n2 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, são classificadas de infracções graves:\n\na) A falta da comunicação, pelo operador ao INAC, prevista no n.º 3 do artigo 3.º;\n\nb) A falta de manutenção, pelo operador, dos registos detalhados sobre os tripulantes, pelo período de três anos, nos termos do n.º 2 do artigo 5.º;\n\nc) A não disponibilização, pelo operador ao INAC, quando solicitado, dos registos referidos no n.º 2 do artigo 5.º;\n\nd) A violação, pelo operador ou pelo tripulante, do disposto no n.º 4 do artigo 14.º;\n\ne) A violação, pelo operador, do disposto nos n.os 1, 2 e 3 do artigo 17.º;\n\nf) A violação, pelo operador ou pelo tripulante, do disposto no n.º 4 do artigo 18.º;\n\ng) A violação, pelo operador ou pelo tripulante, do disposto no n.º 5 do artigo 18.º;\n\nh) A violação, pelo operador, do disposto no n.º 6 do artigo 18.º;\n\ni) A violação, pelo operador, do disposto no n.º 7 do artigo 18.º\n\n3 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, são classificadas de infracções leves:\n\na) A violação, pelo operador ou pelo tripulante, do disposto no n.º 7 do artigo 11.º;\n\nb) A violação, pelo operador ou pelo tripulante, do disposto no n.º 8 do artigo 11.º;\n\nc) A excedência dos limites de período de serviço de assistência, em violação, pelo tripulante ou pelo operador, do disposto no n.º 1 do artigo 13.º\n\n4 - Compete ao INAC a instauração e instrução dos processos de contra-ordenação relativos às infracções previstas no presente diploma.\n\n5 - O montante das coimas cobradas pelo INAC em execução do presente diploma reverte para o Estado e para esse Instituto, nas percentagens de 60% e 40%, respectivamente."
+  },
+  "180397162": {
+   "fragment_id": "180477662",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "180397163": {
+   "fragment_id": "180477663",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nÉ revogada a Portaria n.º 238-A/98, de 15 de Abril."
+  },
+  "180397164": {
+   "fragment_id": "180477664",
+   "type": 11,
+   "heading": "Artigo 23.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Produção de efeitos\n\nO presente diploma produz efeitos 30 dias a contar da data da sua publicação."
+  },
+  "180397166": {
+   "fragment_id": "180477666",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nQUADRO N.º 1\n\nMáximos de período de serviço de voo para tripulação de dois pilotos\n\n(ver quadro no documento original)\n\nNota. - A hora de apresentação refere-se à hora local do ponto de partida.\n\nQUADRO N.º 2\n\nMáximos de período de serviço de voo para tripulação de um piloto\n\n(ver quadro no documento original)\n\nNota. - A hora de apresentação refere-se à hora local do ponto de partida.\n\nQUADRO N.º 3\n\nMáximos de período de serviço de voo com tripulação reforçada\n\n(ver quadro no documento original)\n\nQUADRO N.º 4\n\nServiço de voo repartido\n\n(ver quadro no documento original)\n\nNota. - Este limite será ajustado ao do período mínimo de repouso estabelecido pelo operador, quando superior ao fixado no presente diploma e constante do manual de operações de voo respectivo.\n\nQUADRO N.º 5\n\nLimites de tempo de voo total e de período de serviço de voo\n\n(ver quadro no documento original)\n\n> Nota: [Artigo 33.º, Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163) Mantêm-se em vigor os quadros n.ºs 3, 4 e 5 do presente anexo."
+  },
+  "869634897": {
+   "fragment_id": "180477637",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente diploma transpõe a Directiva n.º <a href=\"eurlex.asp?ano=2000&id=300L0079\" title=\"Link para Directiva da Comunidade Europeia\">2000/79/CE</a>, do Conselho, de 27 de Novembro, e define e regula o tempo de trabalho do pessoal móvel da aviação civil, designadamente no que respeita aos limites dos tempos de serviço de voo e de repouso.\n\n2 - As disposições contidas no presente diploma são aplicáveis a todos os tripulantes de aeronaves na execução de quaisquer operações de transporte aéreo de passageiros, carga ou correio por operadores nacionais.\n\n3 - A limitação do tempo de voo e do serviço de voo visa garantir a segurança de voo, assegurando aos tripulantes, no início e durante cada período de serviço de voo, o domínio e a utilização de todas as suas capacidades físicas e psíquicas e as adequadas condições de trabalho.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634898": {
+   "fragment_id": "180477638",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições e abreviaturas",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 2.º — Definições e abreviaturas\n\nPara efeitos do presente diploma, entende-se como:\n\na) «Alojamento adequado» - quarto individual, devidamente mobilado, sujeito ao mínimo de ruído, bem ventilado e que tenha possibilidades de controlo dos níveis de luz e temperatura;\n\nb) «Ano» - período de 52 semanas consecutivas;\n\nc) «INAC» - Instituto Nacional de Aviação Civil;\n\nd) «Base» - local onde a empresa tem a sua sede, ou onde o tripulante normalmente inicia os seus períodos de serviço de voo, ou outro que, para o efeito, seja definido no contrato de trabalho entre o tripulante e o operador;\n\ne) «Dia» - período de vinte e quatro horas, que começa às 0 horas locais;\n\nf) «Dia de folga» - período livre de qualquer tipo de serviço para o tripulante, com a duração de vinte e quatro horas;\n\ng) «Dia de folga local» - período livre de qualquer tipo de serviço para o tripulante, com a duração de vinte e quatro horas, gozado na base;\n\nh) «Dia útil» - dia legal de serviço no qual o trabalhador pode estar livre de todo e qualquer serviço caso o operador não necessite de o utilizar;\n\ni) «Folga semanal» - período de trinta e seis horas livre de serviço para o tripulante, que inclui duas noites consecutivas;\n\nj) «Hora de apresentação» - hora determinada pelo operador para um tripulante se apresentar para executar qualquer operação de transporte aéreo ou outro tipo de serviço;\n\nl) «Intervalo» - período de tempo igual ou superior a três horas e inferior ao período de repouso, contado a partir do final de um sector voado até ao início do sector seguinte, sendo contabilizado como período de serviço de voo;\n\nm) «Mês» - período de quatro semanas consecutivas;\n\nn) «Hora local» - período de sessenta minutos, reportado ao local da base, até ao limite de quarenta e oito horas, a contar da partida desse local, e reportado ao local de origem do voo após decorridas quarenta e oito horas da partida do local da base;\n\no) «Noite local» - qualquer período de oito horas, entre as 22 e as 8 horas locais;\n\np) «Período crítico do ritmo circadiano» - período compreendido entre as 2 e as 6 horas locais;\n\nq) «Período de repouso» - período de tempo que antecede o início de um período de serviço de voo e que se destina a dar ao tripulante a oportunidade de descanso antes do voo em alojamento adequado e que inclui oito horas de descanso consecutivas;\n\nr) «Período de serviço de assistência» - período de serviço em que o tripulante está contactável, a uma distância equivalente à existente entre o seu domicílio e a base, com vista a, por ordem do operador, executar um período de serviço de voo;\n\ns) «Período de serviço nocturno» - período de serviço compreendido entre as 23 e as 6 horas e 29 minutos locais;\n\nt) «Período de serviço de voo» - intervalo de tempo compreendido entre o momento, designado pelo operador, em que o tripulante se apresenta para efectuar um voo ou série de voos e o momento em que a aeronave se imobiliza definitivamente, após o último sector voado;\n\nu) «Período de serviço de voo repartido» - período de serviço de voo constituído por dois ou mais sectores separados por um intervalo;\n\nv) «Pessoal móvel da aviação civil» - membros da tripulação a bordo de uma aeronave civil empregues por operadores nacionais na execução de quaisquer operações de transporte aéreo de passageiros, carga ou correio;\n\nx) «Posicionamento» - deslocação, por qualquer meio de transporte, de um tripulante para um determinado local para iniciar um período de serviço e que é contabilizado como período de serviço de voo;\n\nz) «Sector» - período de serviço de voo compreendido entre uma descolagem e a aterragem imediatamente seguinte;\n\naa) «Semana» - período de sete dias consecutivos;\n\nbb) «Série de voos» - conjunto de voos entre os quais não tenha havido período de repouso;\n\ncc) «Tempo de trabalho» - qualquer período durante o qual o trabalhador está a trabalhar ou se encontra à disposição da entidade patronal e no exercício da sua actividade ou das suas funções, nos termos do presente diploma;\n\ndd) «Tempo de transporte» - tempo a considerar pelo operador para o trânsito de um tripulante, fora da base, entre o local de repouso e o local onde deve apresentar-se para o serviço, e vice-versa;\n\nee) «Tempo de voo total (block time)» - tempo decorrido entre o momento em que a aeronave se desloca do local onde se encontra estacionada com o objectivo de descolar até ao momento em que estaciona e os motores param;\n\nff) «Tripulação de cabina» - conjunto de tripulantes que, não fazendo parte da tripulação técnica, são nomeados pelo operador para executar, nomeadamente, tarefas de assistência e segurança aos passageiros;\n\ngg) «Tripulação mínima» - tripulação que estiver definida para cada equipamento de voo pela autoridade aeronáutica competente com o fim de garantir a segurança do voo;\n\nhh) «Tripulação reforçada» - tripulação que compreende mais do que a tripulação mínima e na qual cada membro da tripulação pode deixar o seu posto e ser substituído por outro membro da tripulação devidamente qualificado;\n\nii) «Tripulação técnica» - conjunto de tripulantes, com funções específicas resultantes das suas licenças e qualificações, envolvidos na condução da aeronave;\n\njj) «Tripulante» - indivíduo que desempenha funções específicas a bordo de uma aeronave, de acordo com as suas licenças, qualificações ou autorizações;\n\nll) «Tripulante em funções» - tripulante actuando de acordo com as suas competências numa aeronave durante um voo ou parte de um voo;\n\nmm) «Zona horária» - extensão do globo terrestre, geralmente coincidente com um fuso horário, que corresponde a 1/24 do globo terrestre e com uma extensão de 15º de longitude, ou seja, uma hora de tempo.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634899": {
+   "fragment_id": "180477639",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições exigíveis ao tripulante e ao operador",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 3.º — Condições exigíveis ao tripulante e ao operador\n\n1 - O tripulante não pode iniciar um período de serviço de voo, nem o operador lho pode exigir, quando se encontre em condições físicas, psíquicas ou outras que não permitam ou não garantam adequada execução das suas funções específicas a bordo.\n\n2 - A prestação de qualquer tipo de serviço de voo a outra entidade depende da concordância do operador, devendo este coordenar aquela actividade com a que lhe é prestada, de forma que não seja violado o disposto no presente diploma.\n\n3 - Sempre que o operador tome conhecimento de violações decorrentes da aplicação do número anterior, deve comunicá-las ao INAC.\n\n4 - Os voos de lazer efectuados em aeronaves de massa máxima à descolagem até 2750 kg não são considerados para efeitos do número anterior, à excepção dos voos efectuados com o propósito de ministrar instrução a qualquer título.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634900": {
+   "fragment_id": "180477640",
+   "type": 11,
+   "heading": "Artigo 4.º — Manual de operações de voo",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 4.º — Manual de operações de voo\n\n1 - O operador deve indicar no seu manual de operações de voo os limites de tempo de voo, de período de serviço de voo e de período de repouso que utiliza, em conformidade com os limites fixados no presente diploma.\n\n2 - É contabilizado como período de serviço de voo o período mínimo de trinta minutos para a preparação do voo.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634901": {
+   "fragment_id": "180477641",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 5.º — Fiscalização\n\n1 - Compete ao INAC, sem prejuízo das competências atribuídas a outras entidades, fiscalizar o cumprimento do presente diploma, designadamente através da realização de inspecções e da consulta dos relatórios dos operadores e dos comandantes e demais documentos apropriados.\n\n2 - O operador deve manter pelo período de três anos e colocar à disposição do INAC, quando solicitado, registos detalhados sobre os tripulantes referentes a:\n\na) Tempos de voo;\n\nb) Períodos de serviço de voo;\n\nc) Períodos de repouso e folgas.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634902": {
+   "fragment_id": "180477642",
+   "type": 11,
+   "heading": "Artigo 6.º — Exame médico",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 6.º — Exame médico\n\n1 - Os trabalhadores móveis da aviação civil, antes da respectiva colocação e, seguidamente, a intervalos regulares, têm direito a que o operador lhes proporcione um exame médico gratuito destinado a avaliar o seu estado de saúde, nos termos da legislação aplicável relativa à saúde, higiene e segurança.\n\n2 - Os trabalhadores móveis da aviação civil que sofram de problemas de saúde reconhecidos como tendo uma relação directa com o facto de também trabalharem durante a noite serão transferidos, na medida do possível, para um trabalho diurno móvel ou não móvel que estejam aptos a desempenhar.\n\n3 - O exame médico gratuito referido no n.º 1 do presente artigo deve respeitar o sigilo médico, não podendo o operador utilizar os resultados médicos para qualquer outra finalidade que não seja a referida.\n\n4 - Os encargos decorrentes da realização dos exames médicos referidos no n.º 1 do presente artigo são suportados pelo operador.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634903": {
+   "fragment_id": "180477643",
+   "type": 11,
+   "heading": "Artigo 7.º — Programa de segurança e de protecção da saúde",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 7.º — Programa de segurança e de protecção da saúde\n\n1 - O operador deve estabelecer um programa de segurança e de protecção da saúde adequado à natureza do trabalho exercido pelo pessoal móvel da aviação civil, nos termos da legislação aplicável relativa à saúde, higiene e segurança.\n\n2 - O programa referido no número anterior deve prever que os serviços e meios adequados de protecção e prevenção em matéria de segurança e saúde estejam à disposição dos trabalhadores.\n\n3 - O programa de segurança e de protecção da saúde estabelecido pelo operador deve ser aprovado pelo INAC.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634904": {
+   "fragment_id": "180477644",
+   "type": 11,
+   "heading": "Artigo 8.º — Normas operacionais excepcionais",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 8.º — Normas operacionais excepcionais\n\n1 - Em caso de reconhecida necessidade, o INAC pode fixar, por períodos de tempo limitados, normas de operação excepcionais, distintas das que são fixadas no presente diploma, mediante requerimento apresentado pelo operador, com uma antecedência mínima de três dias úteis relativamente ao início da operação em causa, ouvidos os representantes do pessoal móvel da aviação civil ou, na ausência destes últimos, o pessoal móvel da aviação civil directamente implicado na operação em causa.\n\n2 - Para efeitos do disposto no número anterior, entende-se por casos de reconhecida necessidade, nomeadamente, aqueles em que esteja em causa o interesse público ou interesses económicos relevantes para o operador, devidamente reconhecidos pelo INAC, tendo em conta a natureza da operação em causa.\n\n3 - O operador que apresente qualquer pedido de derrogação às normas operacionais previstas no presente diploma deve demonstrar, junto do INAC, que o pedido garante um nível de segurança adequado, experiência operacional e conhecimentos científicos actuais.\n\n4 - As condições de operação excepcionais a que se referem os números anteriores constam das especificações operacionais constantes do manual de operações de voo e só são eficazes para os tripulantes quando publicadas nesse manual.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634905": {
+   "fragment_id": "180477647",
+   "type": 11,
+   "heading": "Artigo 9.º — Período de serviço de voo do pessoal móvel da aviação civil",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 9.º — Período de serviço de voo do pessoal móvel da aviação civil\n\n1 - Os limites máximos de período de serviço de voo aplicáveis à tripulação técnica são os constantes dos quadros n.os 1 e 2, publicados em anexo ao presente diploma e que dele fazem parte integrante.\n\n2 - Aos comandos da aeronave, os tempos máximos para os períodos de serviço de voo do quadro n.º 2 não podem exceder sete horas, se a aeronave não estiver equipada com piloto automático, certificado e operativo.\n\n3 - Os máximos de período de serviço de voo aplicáveis a tripulantes de cabina são os constantes do quadro n.º 1.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634906": {
+   "fragment_id": "180477650",
+   "type": 11,
+   "heading": "Artigo 12.º — Período de serviço nocturno",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 12.º — Período de serviço nocturno\n\n1 - Um tripulante não pode efectuar mais de dois períodos de serviço nocturno consecutivos.\n\n2 - No caso de serem efectuados dois períodos consecutivos de serviço nocturno, apenas um deles pode incluir, no todo ou em parte, o período crítico do ritmo circadiano.\n\n3 - Em caso de alteração operacional imprevista, um tripulante pode completar o segundo período de serviço nocturno consecutivo para regresso à base, sem sujeição à limitação prevista no número anterior.\n\n4 - Um tripulante não pode efectuar mais de três períodos de serviço nocturno numa semana, dos quais dois podem ser consecutivos se forem antecedidos ou precedidos de uma folga semanal.\n\n5 - Em caso de alteração operacional imprevista que ocorra fora da base e implique um atraso no voo, abrangendo o período de serviço nocturno, não se aplicam as limitações previstas no número anterior.\n\n6 - As situações excepcionais previstas nos n.os 3 e 5 não podem ser cumuladas.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634907": {
+   "fragment_id": "180477652",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do comandante decorrentes de razões operacionais imprevistas",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 14.º — Competências do comandante decorrentes de razões operacionais imprevistas\n\n1 - Por razões operacionais imprevistas, ocorridas a partir da apresentação do tripulante para o serviço, o período de serviço de voo pode exceder, por decisão do comandante, até duas horas os limites constantes dos quadros anexos ao presente diploma.\n\n2 - Sempre que o período de serviço de voo exceder em mais de trinta minutos os limites constantes dos quadros anexos ao presente diploma, o comandante deve apresentar ao operador um relatório justificativo.\n\n3 - O operador deve enviar ao INAC o relatório previsto no número anterior, no prazo máximo de 15 dias.\n\n4 - O período de repouso subsequente deve ser acrescido do dobro do tempo em que o período de serviço de voo exceder os limites constantes dos quadros anexos ao presente diploma.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634908": {
+   "fragment_id": "180477653",
+   "type": 11,
+   "heading": "Artigo 15.º — Deslocação do tripulante como passageiro",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 15.º — Deslocação do tripulante como passageiro\n\n1 - Quando o tripulante se deslocar como passageiro para, sem repouso intercalar subsequente, iniciar um voo como tripulante em funções, o tempo gasto no voo de posicionamento é contabilizado como período de serviço de voo para efeitos dos limites constantes dos quadros n.os 1, 2, 3, 4 e 5 e cálculo do período de repouso subsequente.\n\n2 - No caso previsto no número anterior, quando o tripulante puder efectuar o período de repouso entre a chegada do voo de posicionamento e a partida do voo de serviço, o tempo gasto no voo de posicionamento é contabilizado a 50% como período de serviço de voo apenas para efeitos dos limites constantes do quadro n.º 5.\n\n3 - Quando o tripulante se deslocar como passageiro, após um voo, para iniciar o período de repouso ou folga, o tempo gasto no voo de deslocação é contabilizado a 50% como período de serviço de voo apenas para efeitos dos limites constantes do quadro n.º 5, não devendo a deslocação conter mais de dois sectores.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634909": {
+   "fragment_id": "180477654",
+   "type": 11,
+   "heading": "Artigo 16.º — Limites semanais, mensais, trimestrais e anuais",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 16.º — Limites semanais, mensais, trimestrais e anuais\n\nOs limites semanais, mensais, trimestrais e anuais de tempo de voo total e de período de serviço de voo são os constantes do quadro n.º 5.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634910": {
+   "fragment_id": "180477656",
+   "type": 11,
+   "heading": "Artigo 17.º — Condições de descanso",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 17.º — Condições de descanso\n\n1 - Se o período de serviço de voo para tripulação técnica reforçada exceder dezasseis horas, deve existir a bordo, para cada tripulante técnico de reforço, um beliche separado e isolado da cabina de pilotagem e dos passageiros.\n\n2 - Se o período de serviço de voo para a tripulação técnica reforçada for igual ou inferior a dezasseis horas, deve existir a bordo, para cada tripulante técnico de reforço, um beliche ou uma cadeira confortável e reclinável, separados e isolados da cabina de pilotagem e dos passageiros.\n\n3 - Devem existir a bordo cadeiras confortáveis e reclináveis, separadas da cabina de pilotagem e isoladas dos passageiros, para descanso de um terço ou de um quarto dos tripulantes de cabina, consoante o período de serviço de voo seja superior a dezasseis horas ou entre catorze e dezasseis horas.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634911": {
+   "fragment_id": "180477658",
+   "type": 11,
+   "heading": "Artigo 19.º — Folga semanal e dia de folga",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 19.º — Folga semanal e dia de folga\n\n1 - O operador deve assegurar ao tripulante:\n\na) Uma folga semanal em cada sete dias consecutivos;\n\nb) Sete dias de folga locais por cada mês;\n\nc) 24 dias de folga por cada período de 12 semanas consecutivas;\n\nd) 96 dias de folga locais por cada ano.\n\n2 - Para efeito de contagem do previsto nas alíneas b), c) e d) do número anterior, a folga semanal é contada como dia de folga.\n\n3 - Para efeitos de contagem do previsto na alínea a) do n.º 1, a folga semanal tem de iniciar-se, pelo menos, durante o 7.º dia.\n\n4 - Os períodos de repouso podem ser incluídos nas folgas semanais e nos dias de folga.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634912": {
+   "fragment_id": "180477659",
+   "type": 11,
+   "heading": "Artigo 20.º — Férias",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 20.º — Férias\n\n1 - O pessoal móvel da aviação civil tem direito a férias anuais remuneradas de 22 dias úteis.\n\n2 - O direito a férias é irrenunciável e o seu gozo efectivo não pode ser substituído por qualquer compensação económica, excepto nos casos de cessação da relação de trabalho.\n\n3 - Em tudo o que não for contrário ao presente diploma, é aplicável o regime jurídico das férias previsto para o contrato individual de trabalho.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634913": {
+   "fragment_id": "180477661",
+   "type": 11,
+   "heading": "Artigo 21.º — Contra-ordenações",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 21.º — Contra-ordenações\n\n1 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, são classificadas de infracções muito graves:\n\na) A violação, pelo tripulante ou pelo operador, do disposto no n.º 1 do artigo 3.º;\n\nb) A inexistência de exame médico gratuito proporcionado pelo operador aos trabalhadores móveis da aviação civil, violando o disposto nos n.os 1 e 4 do artigo 6.º;\n\nc) O desrespeito do sigilo médico pelo operador, em violação do disposto no n.º 3 do artigo 6.º;\n\nd) A falta de disponibilização pelo operador aos trabalhadores dos serviços e meios adequados de protecção e prevenção em matéria de segurança e saúde, em violação do disposto no n.º 2 do artigo 7.º;\n\ne) A falta de aprovação pelo INAC do programa de segurança e de protecção da saúde, nos termos do n.º 3 do artigo 7.º;\n\nf) A excedência dos limites de períodos de serviço de voo, em violação, pelo tripulante ou pelo operador, do disposto no n.º 1 do artigo 9.º;\n\ng) A violação, pelo operador ou pelo tripulante, do disposto no n.º 2 do artigo 9.º;\n\nh) A excedência dos limites de períodos de serviço de voo, em violação, pelo tripulante ou pelo operador, do disposto no n.º 3 do artigo 9.º;\n\ni) A excedência dos limites de períodos de serviço de voo, em violação, pelo tripulante ou pelo operador, do disposto no n.º 1 do artigo 10.º;\n\nj) A violação, pelo tripulante ou pelo operador, do disposto no n.º 5 do artigo 10.º;\n\nl) A excedência dos limites de períodos de serviço de voo, em violação, pelo tripulante ou pelo operador, do disposto no n.º 6 do artigo 10.º;\n\nm) A violação, pelo tripulante ou pelo operador, do disposto no n.º 4 do artigo 11.º;\n\nn) A violação, pelo tripulante ou pelo operador, do disposto no n.º 5 do artigo 11.º;\n\no) A violação, pelo tripulante ou pelo operador, do disposto no n.º 6 do artigo 11.º;\n\np) A violação, pelo tripulante ou pelo operador, do disposto no n.º 10 do artigo 11.º;\n\nq) A violação, pelo operador ou pelo tripulante, do disposto no n.º 1 do artigo 12.º;\n\nr) A violação, pelo operador ou pelo tripulante, do disposto no n.º 2 do artigo 12.º;\n\ns) A violação, pelo operador ou pelo tripulante, do disposto no n.º 4 do artigo 12.º;\n\nt) A excedência superior a duas horas dos limites de períodos de serviço de voo, em violação, pelo tripulante ou pelo operador, do disposto no n.º 1 do artigo 14.º;\n\nu) A não apresentação ao operador, pelo comandante, do relatório justificativo, nos termos do n.º 2 do artigo 14.º;\n\nv) O não envio ao INAC, pelo operador, do relatório justificativo, nos termos do n.º 3 do artigo 14.º;\n\nx) A violação, pelo operador ou pelo tripulante, do disposto no n.º 1 do artigo 19.º\n\n2 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, são classificadas de infracções graves:\n\na) A falta da comunicação, pelo operador ao INAC, prevista no n.º 3 do artigo 3.º;\n\nb) A falta de manutenção, pelo operador, dos registos detalhados sobre os tripulantes, pelo período de três anos, nos termos do n.º 2 do artigo 5.º;\n\nc) A não disponibilização, pelo operador ao INAC, quando solicitado, dos registos referidos no n.º 2 do artigo 5.º;\n\nd) A violação, pelo operador ou pelo tripulante, do disposto no n.º 4 do artigo 14.º;\n\ne) A violação, pelo operador, do disposto nos n.os 1, 2 e 3 do artigo 17.º;\n\nf) A violação, pelo operador ou pelo tripulante, do disposto no n.º 4 do artigo 18.º;\n\ng) A violação, pelo operador ou pelo tripulante, do disposto no n.º 5 do artigo 18.º;\n\nh) A violação, pelo operador, do disposto no n.º 6 do artigo 18.º;\n\ni) A violação, pelo operador, do disposto no n.º 7 do artigo 18.º\n\n3 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, são classificadas de infracções leves:\n\na) A violação, pelo operador ou pelo tripulante, do disposto no n.º 7 do artigo 11.º;\n\nb) A violação, pelo operador ou pelo tripulante, do disposto no n.º 8 do artigo 11.º;\n\nc) A excedência dos limites de período de serviço de assistência, em violação, pelo tripulante ou pelo operador, do disposto no n.º 1 do artigo 13.º\n\n4 - Compete ao INAC a instauração e instrução dos processos de contra-ordenação relativos às infracções previstas no presente diploma.\n\n5 - O montante das coimas cobradas pelo INAC em execução do presente diploma reverte para o Estado e para esse Instituto, nas percentagens de 60% e 40%, respectivamente.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634914": {
+   "fragment_id": "180477663",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nÉ revogada a Portaria n.º 238-A/98, de 15 de Abril.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "869634915": {
+   "fragment_id": "180477664",
+   "type": 11,
+   "heading": "Artigo 23.º — Produção de efeitos",
+   "in_force_from": "2022-04-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+   ],
+   "markdown": "###### Artigo 23.º — Produção de efeitos\n\nO presente diploma produz efeitos 30 dias a contar da data da sua publicação.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163), em vigor a partir de 2022-04-14"
+  },
+  "180397165": {
+   "fragment_id": "180477665",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Abril de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - António José de Castro Bagão Félix - António Pedro de Nobre Carmona Rodrigues.\n\nPromulgado em 24 de Maio de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Maio de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

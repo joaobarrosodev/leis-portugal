@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0079:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0079-20021104",
+ "dre_path": null,
+ "source_lastmod": "2002-11-04",
+ "versions": [
+  {
+   "date": "2002-10-28",
+   "future": false,
+   "celex": "32002L0079",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a7b302d051c3d4de",
+    "cecc40004438e604",
+    "efd5efddf76eb1f9",
+    "838cbfc1d1638777",
+    "044d2dda4901eda1",
+    "2320f2fdcdaedfe8",
+    "bb016559593ebd4e",
+    "213ab54f9ca4d184",
+    "f1dcd38a5979a2f4",
+    "17bd5a7b0a91ad4d",
+    "e1adc1d3542ad1cc",
+    "f10756c5e176f315"
+   ]
+  }
+ ],
+ "fragments": {
+  "a7b302d051c3d4de": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/79/CE da Comissão, de 2 de Outubro de 2002, que altera os anexos das Directivas 76/895/CEE, 86/362/CEE, 86/363/CEE e 90/642/CEE do Conselho no respeitante à fixação de teores máximos de resíduos de certos pesticidas à superfície e no interior dos cereais, dos géneros alimentícios de origem animal e de determinados produtos de origem vegetal, incluindo frutas e produtos hortícolas (Texto relevante para efeitos do EEE.)** *Jornal Oficial nº L 291 de 28/10/2002 p. 0001 - 0019*\n\nDirectiva 2002/79/CE da Comissão\n\nde 2 de Outubro de 2002\n\nque altera os anexos das Directivas 76/895/CEE, 86/362/CEE, 86/363/CEE e 90/642/CEE do Conselho no respeitante à fixação de teores máximos de resíduos de certos pesticidas à superfície e no interior dos cereais, dos géneros alimentícios de origem animal e de determinados produtos de origem vegetal, incluindo frutas e produtos hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/895/CEE do Conselho, de 23 de Novembro de 1976, relativa à fixação de teores máximos de resíduos de pesticidas nas e sobre as frutas e produtos hortícolas(1), com a última redacção que lhe foi dada pela Directiva 2002/71/CE da Comissão(2), e, nomeadamente, o seu artigo 5.o,\n\nTendo em conta a Directiva 86/362/CEE do Conselho, de 24 de Julho de 1986, relativa à fixação de teores máximos para os resíduos de pesticidas à superfície e no interior dos cereais(3), com a última redacção que lhe foi dada pela Directiva 2002/76/CE da Comissão(4), e, nomeadamente, o seu artigo 10.o,\n\nTendo em conta a Directiva 86/363/CEE do Conselho, de 24 de Julho de 1986, relativa à fixação de teores máximos para os resíduos de pesticidas à superfície e no interior dos géneros alimentícios de origem animal(5), com a última redacção que lhe foi dada pela Directiva 2002/71/CE, e, nomeadamente, o seu artigo 10.o,\n\nTendo em conta a Directiva 90/642/CEE do Conselho, de 27 de Novembro de 1990, relativa à fixação de teores máximos para os resíduos de pesticidas nos e sobre determinados produtos de origem vegetal, incluindo frutas e produtos hortícolas(6), com a última redacção que lhe foi dada pela Directiva 2002/76/CE, e, nomeadamente, o seu artigo 7.o,\n\nConsiderando o seguinte:\n\n(1) Os anexos das Directivas 76/895/CEE, 86/362/CEE, 86/363/CEE e 90/642/CE são constituídos por listas de resíduos de pesticidas e respectivos teores máximos.\n\n(2) O reexame dos dados disponíveis permitiu concluir pela existência de informação suficiente para possibilitar a fixação de teores máximos para certos resíduos de pesticidas, nomeadamente a abamectina, o azocicloestanho, a bioresmetrina, a bifentrina, o bitertanol, o bromopropilato, a clofentezina, a ciromazina, o ci-hexaestanho, o fenepropimorfe, o flucitrinato, o hexaconazol, o metacrifos, o miclobutanil, o penconazol, o procloraz, o profenofos, a resmetrina, o tridemorfe, o triadimefão e o triadimenol.\n\n(3) Os produtos alimentares de origem animal podem conter resíduos de pesticidas em consequência das práticas agrícolas. É necessário ter em conta determinados dados pertinentes obtidos no contexto da utilização autorizada de pesticidas e de ensaios supervisionados e estudos de alimentação animal.\n\n(4) A informação disponível foi reapreciada. Em relação a muitas combinações pesticida/produto agrícola, os dados disponíveis são suficientes para possibilitar o cálculo de um teor máximo ao qual os resíduos do pesticida possam ser considerados seguros para a saúde humana. Quando esse teor for superior ao limite inferior da determinação analítica, deve fixar-se o teor máximo de resíduos no teor calculado. No caso de algumas combinações, a informação disponível é inadequada, sendo conveniente fixar o teor máximo de resíduos no limite inferior da determinação analítica. Noutros casos, a informação é adequada, mas mostra que a fixação de um teor máximo de resíduos acima do limite inferior da determinação analítica poderia dar lugar a exposições agudas ou crónicas inaceitáveis dos consumidores aos resíduos. Em tais casos, os teores máximos de resíduos devem ser fixados no limite inferior da determinação analítica.\n\n(5) A exposição ao longo da vida e a exposição aguda dos consumidores aos pesticidas em causa por via de produtos alimentares susceptíveis de conterem resíduos dos mesmos foi determinada e avaliada com base nas metodologias e práticas comunitárias e nas directrizes publicadas pela Organização Mundial de Saúde(7). Para a abamectina, foram estabelecidos teores máximos de resíduos conformes com o Regulamento (CEE) n.o 2377/90 do Conselho(8), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1752/2002 da Comissão(9), resultando estes da utilização de medicamentos veterinários, em cuja composição entra essa substância, no tratamento de animais produtores de alimentos para consumo humano [Regulamento (CE) n.o 3425/93 da Comissão(10). Foram tidas em conta essas utilizações e também a avaliação da dose diária admissível efectuada pelo Comité dos Medicamentos Veterinários, em que os referidos teores máximos se basearam. Concluiu-se que os teores máximos de resíduos propostos na presente directiva não implicarão a superação das doses diárias admissíveis, nem efeitos tóxicos agudos.\n\n(6) Para garantir uma protecção adequada dos consumidores da exposição a resíduos presentes no interior ou à superfície de produtos que não tenham sido autorizados, é julgado prudente fixar como teor máximo de resíduos, para todos os produtos nessas condições abrangidos pelas Directivas 86/362/CEE, 86/363/CEE e 90/642/CEE, o limite inferior da determinação analítica.\n\n(7) Os anexos das Directivas 86/362/CEE, 86/363/CEE e 90/642/CEE devem, portanto, ser alterados em conformidade.\n\n(8) Os parceiros comerciais da Comunidade foram consultados, no âmbito da Organização Mundial do Comércio, sobre os teores propostos na presente directiva e os comentários produzidos a esse propósito foram tidos em conta.\n\n(9) Também foram tidos em conta os pontos de vista manifestados pelo Comité Científico das Plantas, nomeadamente o seu parecer e as suas recomendações sobre a protecção dos consumidores de culturas alimentares tratadas com produtos fitofarmacêuticos(11).\n\n(10) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "cecc40004438e604": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNo anexo II da Directiva 76/895/CEE: é suprimida a entrada relativa ao \"bromopropilato\"."
+  },
+  "efd5efddf76eb1f9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão aditados à parte A do anexo II da Directiva 86/362/CEE os teores máximos de resíduos dos pesticidas abamectina, azocicloestanho e ci-hexaestanho, bifentrina, bitertanol, bromopropilato, clofentezina, ciromazina, fenepropimorfe, flucitrinato, hexaconazol, metacrifos, miclobutanil, penconazol, procloraz, profenofos, resmetrina e bioresmetrina, tridemorfe, triadimefão e triadimenol constantes do anexo I da presente directiva."
+  },
+  "838cbfc1d1638777": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO anexo II da Directiva 86/363/CEE é alterado do seguinte modo:\n\na) São aditados à parte A os teores máximos de resíduos dos pesticidas abamectina, bifentrina, bitertanol, bromopropilato, ciromazina, flucitrinato, metacrifos, penconazol, procloraz, profenofos, resmetrina e bioresmetrina, tridemorfe, triadimefão e triadimenol constantes do anexo II da presente directiva.\n\nb) São aditados à parte B os teores máximos de resíduos dos pesticidas azocicloestanho e ci-hexaestanho, fenepropimorfe, clofentezina e miclobutanil constantes do anexo III da presente directiva."
+  },
+  "044d2dda4901eda1": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO anexo II da Directiva 90/642/CEE é alterado do seguinte modo:\n\na) São aditados os teores máximos de resíduos dos pesticidas abamectina, azocicloestanho e ci-hexaestanho, bifentrina, bitertanol, bromopropilato, clofentezina, ciromazina, fenepropimorfe, flucitrinato, hexaconazol, metacrifos, miclobutanil, penconazol, procloraz, profenofos, resmetrina e bioresmetrina, tridemorfe, triadimefão e triadimenol constantes do anexo IV da presente directiva.\n\nb) O teor máximo de resíduos do pesticida etião no chá passa a ser 3 mg/kg."
+  },
+  "2320f2fdcdaedfe8": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros porão em vigor, o mais tardar em 31 de Dezembro de 2002, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à alínea b) do artigo 4.o Do facto informarão imediatamente a Comissão.\n\nO Estados-Membros aplicarão essas disposições a partir de 1 de Janeiro de 2003.\n\n2. Os Estados-Membros porão em vigor, o mais tardar em 31 de Maio de 2003, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento aos artigos 1.o, 2.o e 3.o e à alínea a) do artigo 4.o Do facto informarão imediatamente a Comissão.\n\nOs Estados-Membros aplicarão essas disposições a partir de 1 de Agosto de 2003.\n\n3. Quando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "bb016559593ebd4e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente directiva entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "213ab54f9ca4d184": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 2 de Outubro de 2002.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 340 de 9.12.1976, p. 26.\n\n(2) JO L 225 de 22.8.2002, p. 21.\n\n(3) JO L 221 de 7.8.1986, p. 37.\n\n(4) JO L 240 de 7.9.2002, p. 45.\n\n(5) JO L 221 de 7.8.1986, p. 43.\n\n(6) JO L 350 de 14.12.1990, p. 71.\n\n(7) Guidelines for predicting dietary intake of pesticide residues - edição revista das directrizes para a estimativa da ingestão de resíduos de pesticidas preparadas pelo grupo GEMS/Programa alimentar em colaboração com o comité do Codex para os resíduos de pesticidas, publicada pela Organização Mundial de Saúde em 1997 (WHO/FSF/FOS/97.7).\n\n(8) JO L 224 de 18.8.1990, p. 1.\n\n(9) JO L 264 de 2.10.2002, p. 18.\n\n(10) JO L 312 de 15.12.1993, p. 12.\n\n(11) SCP/RESI/021; SCP/RESI/024."
+  },
+  "f1dcd38a5979a2f4": {
+   "fragment_id": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >POSIÇÃO NUMA TABELA>"
+  },
+  "17bd5a7b0a91ad4d": {
+   "fragment_id": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >POSIÇÃO NUMA TABELA>"
+  },
+  "e1adc1d3542ad1cc": {
+   "fragment_id": "ANEXO III — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO III — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >POSIÇÃO NUMA TABELA>"
+  },
+  "f10756c5e176f315": {
+   "fragment_id": "ANEXO IV — RESÍDUOS DE PESTICIDAS E TEORES MÁXIMOS DE RESÍDUOS (mg/kg)",
+   "type": "divisao",
+   "heading": "ANEXO IV — RESÍDUOS DE PESTICIDAS E TEORES MÁXIMOS DE RESÍDUOS (mg/kg)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — RESÍDUOS DE PESTICIDAS E TEORES MÁXIMOS DE RESÍDUOS (mg/kg)\n\n>POSIÇÃO NUMA TABELA>"
+  }
+ }
+}

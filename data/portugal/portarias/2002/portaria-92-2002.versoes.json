@@ -1,0 +1,316 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:276213:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-1001268039",
+ "dre_path": "/dr/detalhe/portaria/92-2002-276213",
+ "source_lastmod": "2026-01-14",
+ "versions": [
+  {
+   "date": "2002-01-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1001525375",
+    "1001525575",
+    "1001525775",
+    "1001525975",
+    "1001526175",
+    "1001526375",
+    "1001526575",
+    "1001526775",
+    "1001526975",
+    "1001527175",
+    "1001527375",
+    "1001527575",
+    "1001527775",
+    "1001527975"
+   ]
+  },
+  {
+   "date": "2003-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632726:por",
+     "title": "Portaria n.º 892/2003",
+     "published": "2003-08-26",
+     "dre_path": "/dr/detalhe/portaria/892-2003-632726"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "1001525375",
+    "1001525575",
+    "1001525775",
+    "1006421877",
+    "1001526175",
+    "1001526375",
+    "1001526575",
+    "1001526775",
+    "1001526975",
+    "1001527175",
+    "1001527375",
+    "1001527575",
+    "1001527775",
+    "1006421878"
+   ]
+  },
+  {
+   "date": "2008-07-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456800:por",
+     "title": "Portaria n.º 620/2008",
+     "published": "2008-07-16",
+     "dre_path": "/dr/detalhe/portaria/620-2008-456800"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "1001525375",
+    "1001525575",
+    "1001525775",
+    "1011550728",
+    "1001526175",
+    "1001526375",
+    "1001526575",
+    "1001526775",
+    "1001526975",
+    "1001527175",
+    "1001527375",
+    "1001527575",
+    "1001527775",
+    "1006421878"
+   ]
+  },
+  {
+   "date": "2016-07-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74889524:por",
+     "title": "Portaria n.º 182/2016",
+     "published": "2016-07-08",
+     "dre_path": "/dr/detalhe/portaria/182-2016-74889524"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "1001525375",
+    "1001525575",
+    "1001525775",
+    "1016882375",
+    "1016882376",
+    "1001526375",
+    "1001526575",
+    "1001526775",
+    "1016882377",
+    "1001527175",
+    "1001527375",
+    "1001527575",
+    "1001527775",
+    "1016882378"
+   ]
+  }
+ ],
+ "fragments": {
+  "1001525375": {
+   "fragment_id": "1001525275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ao abrigo do disposto no artigo 3.º da Lei n.º 78/2001, de 13 de Julho, e no n.º 2 do artigo 7.º do Decreto-Lei n.º 329/2001, de 20 de Dezembro, manda o Governo, pelo Ministro da Justiça, o seguinte:"
+  },
+  "1001525575": {
+   "fragment_id": "1001525475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Justiça, Diogo Campos Barradas de Lacerda Machado, em 22 de Janeiro de 2002."
+  },
+  "1001525775": {
+   "fragment_id": "1001525675",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO INTERNO DO JULGADO DE PAZ DO SEIXAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO INTERNO DO JULGADO DE PAZ DO SEIXAL"
+  },
+  "1001525975": {
+   "fragment_id": "1001525875",
+   "type": 11,
+   "heading": "Artigo 1.º — Sede e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Sede e funcionamento\n\n1 - O Julgado de Paz do Seixal fica sediado no Beco dos Cordoeiros, 11-13, no Seixal.\n\n2 - O período de funcionamento do Julgado de Paz é das 11 às 19 horas, de segunda-feira a sexta-feira."
+  },
+  "1001526175": {
+   "fragment_id": "1001526075",
+   "type": 11,
+   "heading": "Artigo 2.º — Coordenação do Julgado de Paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Coordenação do Julgado de Paz\n\n1 - A coordenação, representação e gestão do Julgado de Paz compete ao juiz de paz que, de entre os que exerçam aí funções, tenha obtido a classificação mais elevada no respectivo concurso de recrutamento e selecção.\n\n2 - Nas ausências e impedimentos do juiz de paz-coordenador, este será substituído pelo que, de entre os que exerçam funções no Julgado de Paz, tenha obtido melhor classificação no concurso de recrutamento e selecção."
+  },
+  "1001526375": {
+   "fragment_id": "1001526275",
+   "type": 11,
+   "heading": "Artigo 3.º — Secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Secção\n\nO Julgado de Paz dispõe de uma secção dirigida pelo juiz a quem competir a respectiva coordenação nos termos do artigo anterior."
+  },
+  "1001526575": {
+   "fragment_id": "1001526475",
+   "type": 11,
+   "heading": "Artigo 4.º — Distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Distribuição\n\nOs processos são distribuídos pelos juízes de paz de forma a garantir a repartição, com igualdade, do serviço do Julgado de Paz."
+  },
+  "1001526775": {
+   "fragment_id": "1001526675",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviço de Mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviço de Mediação\n\n1 - O Serviço de Mediação é assegurado por mediadores, aos quais compete, designadamente, realizar a pré-mediação, quando solicitada, informar as partes acerca da escolha do mediador, facultar aos interessados o regulamento interno do Serviço de Mediação e demais legislação conexa.\n\n2 - Na falta de indicação das partes, a escolha do mediador ou mediadores que intervêm na mediação é efectuada de forma a garantir a igualdade de repartição do Serviço de Mediação."
+  },
+  "1001526975": {
+   "fragment_id": "1001526875",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência da Direcção-Geral da Administração Extrajudicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência da Direcção-Geral da Administração Extrajudicial\n\nÀ Direcção-Geral da Administração Extrajudicial compete:\n\na) Elaborar, mensalmente, as escalas de turno dos mediadores e zelar pelo respectivo cumprimento;\n\nb) Proceder ao pagamento da remuneração dos juízes de paz;\n\nc) Proceder ao pagamento das mediações efectuadas."
+  },
+  "1001527175": {
+   "fragment_id": "1001527075",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência da Câmara Municipal do Seixal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência da Câmara Municipal do Seixal\n\nÀ Câmara Municipal do Seixal compete fixar o horário de pessoal do Serviço de Atendimento e do Serviço de Apoio Administrativo e zelar pela respectiva observância."
+  },
+  "1001527375": {
+   "fragment_id": "1001527275",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviço de Atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviço de Atendimento\n\n1 - O Serviço de Atendimento é assegurado, preferencialmente, por licenciados em Direito ou por solicitadores.\n\n2 - A coordenação do Serviço de Atendimento é assegurada por quem para o efeito vier a ser designado pelo juiz de paz-coordenador."
+  },
+  "1001527575": {
+   "fragment_id": "1001527475",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências\n\nAs competências do Serviço de Mediação e do Serviço de Atendimento são as previstas nos artigos 8.º e 9.º do Decreto-Lei n.º 329/2001, de 20 de Dezembro."
+  },
+  "1001527775": {
+   "fragment_id": "1001527675",
+   "type": 11,
+   "heading": "Artigo 10.º — Serviço de Apoio Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Serviço de Apoio Administrativo\n\n1 - Para além das competências previstas no artigo 10.º do Decreto-Lei n.º 329/2001, de 20 de Dezembro, compete-lhe, designadamente:\n\na) Proceder à distribuição de processos pelos juízes de paz;\n\nb) Receber e expedir correspondência;\n\nc) Proceder às citações e notificações;\n\nd) Manter organizado o arquivo de documentos;\n\ne) Manter organizado o inventário;\n\nf) Manter organizado o registo contabilístico das mediações efectuadas, por mediador;\n\ng) Manter actualizado o registo de assiduidade dos funcionários do Serviço de Atendimento e do Serviço de Apoio Administrativo;\n\nh) Apoiar a actividade desenvolvida pelo Julgado de Paz.\n\n2 - A coordenação do Serviço de Apoio Administrativo é assegurada por quem para o efeito vier a ser designado pelo juiz de paz-coordenador."
+  },
+  "1001527975": {
+   "fragment_id": "1001527875",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposição final\n\nO Julgado de Paz do Seixal rege-se pelas normas constantes deste regulamento e pelo protocolo celebrado entre o Ministério da Justiça e a Câmara Municipal do Seixal em 26 de Novembro de 2001."
+  },
+  "1006421877": {
+   "fragment_id": "1001525875",
+   "type": 11,
+   "heading": "Artigo 1.º — Sede e funcionamento",
+   "in_force_from": "2003-08-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 892/2003 - Diário da República n.º 196/2003, Série I-B de 2003-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/892-2003-632726), em vigor a partir de 2003-08-27"
+   ],
+   "markdown": "###### Artigo 1.º — Sede e funcionamento\n\n1 - O Julgado de Paz do Seixal fica sediado no Beco dos Cordoeiros, 11-13, no Seixal.\n\n2 - O período de funcionamento do Julgado de Paz é das 9 às 19 horas, de segunda-feira a sexta-feira.\n\n3 - O período de atendimento do Julgado de Paz é das 9 horas e 15 minutos às 18 horas e 30 minutos, de segunda-feira a sexta-feira.\n\n> Alterado pelo/a [Portaria n.º 892/2003 - Diário da República n.º 196/2003, Série I-B de 2003-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/892-2003-632726), em vigor a partir de 2003-08-27"
+  },
+  "1006421878": {
+   "fragment_id": "1001527875",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposição final",
+   "in_force_from": "2003-08-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 892/2003 - Diário da República n.º 196/2003, Série I-B de 2003-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/892-2003-632726), em vigor a partir de 2003-08-27"
+   ],
+   "markdown": "###### Artigo 11.º — Disposição final\n\nO Julgado de Paz do Seixal rege-se pelas normas constantes neste Regulamento e pelo protocolo celebrado em 26 de Novembro de 2001 entre o Ministério da Justiça e a Câmara Municipal do Seixal, com as alterações introduzidas pela respectiva adenda de 7 de Maio de 2003.\n\n> Alterado pelo/a [Portaria n.º 892/2003 - Diário da República n.º 196/2003, Série I-B de 2003-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/892-2003-632726), em vigor a partir de 2003-08-27"
+  },
+  "1011550728": {
+   "fragment_id": "1001525875",
+   "type": 11,
+   "heading": "Artigo 1.º — Sede e funcionamento",
+   "in_force_from": "2008-07-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 620/2008 - Diário da República n.º 136/2008, Série I de 2008-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/620-2008-456800), em vigor a partir de 2008-07-18",
+    "Alterado pelo/a [Portaria n.º 892/2003 - Diário da República n.º 196/2003, Série I-B de 2003-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/892-2003-632726), em vigor a partir de 2003-08-27"
+   ],
+   "markdown": "###### Artigo 1.º — Sede e funcionamento\n\n1 - O Julgado de Paz do Seixal fica sedeado na Avenida do Infante D. Augusto, 104-B, rés-do-chão, esquerdo, Quinta do Batateiro, Cruz de Pau, no Seixal.\n\n2 - O período de funcionamento do Julgado de Paz é das 9 às 19 horas, de segunda-feira a sexta-feira.\n\n3 - O período de atendimento do Julgado de Paz é das 9 horas e 15 minutos às 18 horas e 30 minutos, de segunda-feira a sexta-feira.\n\n4 - O local da sede do Julgado de Paz do Seixal pode ser alterado por protocolo celebrado entre o Gabinete de Resolução Alternativa de Litígios e a Câmara Municipal do Seixal.\n\n> Alterado pelo/a [Portaria n.º 620/2008 - Diário da República n.º 136/2008, Série I de 2008-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/620-2008-456800), em vigor a partir de 2008-07-18\n\n> Alterado pelo/a [Portaria n.º 892/2003 - Diário da República n.º 196/2003, Série I-B de 2003-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/892-2003-632726), em vigor a partir de 2003-08-27"
+  },
+  "1016882375": {
+   "fragment_id": "1001525875",
+   "type": 11,
+   "heading": "Artigo 1.º — Sede e funcionamento",
+   "in_force_from": "2016-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 182/2016 - Diário da República n.º 130/2016, Série I de 2016-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/182-2016-74889524), em vigor a partir de 2016-07-09",
+    "Alterado pelo/a [Portaria n.º 620/2008 - Diário da República n.º 136/2008, Série I de 2008-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/620-2008-456800), em vigor a partir de 2008-07-18",
+    "Alterado pelo/a [Portaria n.º 892/2003 - Diário da República n.º 196/2003, Série I-B de 2003-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/892-2003-632726), em vigor a partir de 2003-08-27"
+   ],
+   "markdown": "###### Artigo 1.º — Sede e funcionamento\n\n1 - O Julgado de Paz do Seixal fica sedeado na Avenida do Infante D. Augusto, 104-B, rés-do-chão, esquerdo, Quinta do Batateiro, Cruz de Pau, no Seixal.\n\n2 - O horário de funcionamento do Julgado de Paz é das 9 horas às 17 horas, de segunda a sexta-feira.\n\n3 - O horário de atendimento do Julgado de Paz é das 9 horas às 16 horas e 30 minutos, de segunda a sexta-feira.\n\n4 - O local da sede do Julgado de Paz do Seixal pode ser alterado por protocolo celebrado entre a Direção-Geral da Política de Justiça e a Câmara Municipal do Seixal.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 182/2016 - Diário da República n.º 130/2016, Série I de 2016-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/182-2016-74889524), em vigor a partir de 2016-07-09\n\n> Alterado pelo/a [Portaria n.º 620/2008 - Diário da República n.º 136/2008, Série I de 2008-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/620-2008-456800), em vigor a partir de 2008-07-18\n\n> Alterado pelo/a [Portaria n.º 892/2003 - Diário da República n.º 196/2003, Série I-B de 2003-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/892-2003-632726), em vigor a partir de 2003-08-27"
+  },
+  "1016882376": {
+   "fragment_id": "1001526075",
+   "type": 11,
+   "heading": "Artigo 2.º — Coordenação do Julgado de Paz",
+   "in_force_from": "2016-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 182/2016 - Diário da República n.º 130/2016, Série I de 2016-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/182-2016-74889524), em vigor a partir de 2016-07-09"
+   ],
+   "markdown": "###### Artigo 2.º — Coordenação do Julgado de Paz\n\n1 - A coordenação, representação e gestão do Julgado de Paz compete ao juiz de paz que para o efeito for designado pelo Conselho dos Julgados de Paz.\n\n2 - Nas ausências e impedimentos do juiz de paz coordenador, este é substituído pelo que, de entre os restantes juízes de paz, o Conselho dos Julgados de Paz definir como sendo aquele que se encontra em melhores condições para assegurar a substituição daquele.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 182/2016 - Diário da República n.º 130/2016, Série I de 2016-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/182-2016-74889524), em vigor a partir de 2016-07-09"
+  },
+  "1016882377": {
+   "fragment_id": "1001526875",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência da Direção-Geral da Política de Justiça",
+   "in_force_from": "2016-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 182/2016 - Diário da República n.º 130/2016, Série I de 2016-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/182-2016-74889524), em vigor a partir de 2016-07-09"
+   ],
+   "markdown": "###### Artigo 6.º — Competência da Direção-Geral da Política de Justiça\n\nÀ Direção-Geral da Política de Justiça compete:\n\na) Elaborar e atualizar, nos termos da lei, a lista dos mediadores que prestam serviço no Julgado de Paz e zelar pelo respetivo cumprimento;\n\nb) Acompanhar e apoiar o funcionamento do Julgado de Paz, sem prejuízo das competências nesta matéria atribuídas a outras entidades;\n\nc) Proceder ao pagamento da remuneração dos juízes de paz;\n\nd) Proceder ao pagamento das mediações efectuadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 182/2016 - Diário da República n.º 130/2016, Série I de 2016-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/182-2016-74889524), em vigor a partir de 2016-07-09"
+  },
+  "1016882378": {
+   "fragment_id": "1001527875",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposição final",
+   "in_force_from": "2016-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 182/2016 - Diário da República n.º 130/2016, Série I de 2016-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/182-2016-74889524), em vigor a partir de 2016-07-09",
+    "Alterado pelo/a [Portaria n.º 892/2003 - Diário da República n.º 196/2003, Série I-B de 2003-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/892-2003-632726), em vigor a partir de 2003-08-27"
+   ],
+   "markdown": "###### Artigo 11.º — Disposição final\n\nO Julgado de Paz do Seixal rege-se pelas normas constantes deste Regulamento e pelo protocolo celebrado em 26 de novembro de 2001 entre o Ministério da Justiça e a Câmara Municipal do Seixal, com as alterações introduzidas pela respetiva adenda de 7 de maio de 2003, exceto no que se refere aos turnos dos Juízes de Paz que se suprimem.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 182/2016 - Diário da República n.º 130/2016, Série I de 2016-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/182-2016-74889524), em vigor a partir de 2016-07-09\n\n> Alterado pelo/a [Portaria n.º 892/2003 - Diário da República n.º 196/2003, Série I-B de 2003-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/892-2003-632726), em vigor a partir de 2003-08-27"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:205690985:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-838656803",
+ "dre_path": "/dr/detalhe/portaria/7-a-2023-205690985",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-01-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "838656544",
+    "838656545",
+    "838656546",
+    "838656547"
+   ]
+  }
+ ],
+ "fragments": {
+  "838656544": {
+   "fragment_id": "838656804",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 7-A/2023\n\nde 3 de janeiro\n\nSumário: Fixa o valor médio de construção por metro quadrado, para efeitos do artigo 39.º do Código do Imposto Municipal sobre Imóveis, a vigorar no ano de 2023.\n\nO Código do Imposto Municipal sobre Imóveis, aprovado pelo Decreto-Lei n.º 287/2003, de 12 de novembro, estabelece nos artigos 38.º e 39.º que um dos elementos objetivos integrados na fórmula de cálculo do sistema de avaliação de prédios urbanos é o valor médio de construção por metro quadrado, a fixar anualmente, sob proposta da Comissão Nacional de Avaliação de Prédios Urbanos, ouvidas as entidades previstas na lei, em conformidade com o previsto na alínea d) do n.º 1 do artigo 62.º do mesmo código.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, em conformidade com o n.º 3 do artigo 62.º do Código do Imposto Municipal sobre Imóveis, e na sequência de proposta da Comissão Nacional de Avaliação de Prédios Urbanos, o seguinte:\n\n> Nota: [Artigo 1.º, Portaria n.º 16/2024 - Diário da República n.º 16/2024, Série I de 2024-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/16-2024-838512865) mantém em vigor a presente portaria, durante o ano de 2024."
+  },
+  "838656545": {
+   "fragment_id": "838656805",
+   "type": 11,
+   "heading": "Artigo 1.º — Fixação do valor médio de construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Fixação do valor médio de construção\n\nÉ fixado em (euro) 532 o valor médio de construção por metro quadrado, para efeitos do artigo 39.º do Código do Imposto Municipal sobre Imóveis, a vigorar no ano de 2023."
+  },
+  "838656546": {
+   "fragment_id": "838656806",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito da aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito da aplicação\n\nA presente portaria aplica-se a todos os prédios urbanos cujas declarações modelo 1, a que se referem os artigos 13.º e 37.º do Código do Imposto Municipal sobre Imóveis, sejam entregues a partir da sua entrada em vigor."
+  },
+  "838656547": {
+   "fragment_id": "838656807",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

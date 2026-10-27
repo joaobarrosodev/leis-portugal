@@ -1,0 +1,299 @@
+---
+schema_version: '1.0'
+id: pt:dre:899582839:por
+title: Decreto Regulamentar Regional n.º 22/2024/A
+short_title: null
+summary: Regulamenta a concessão de apoios à compra de sementes de milho e sorgo, para a produção de forragem ou milho grão,
+  na Região Autónoma dos Açores.
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 22/2024/A
+official_date: null
+publication_date: '2024-12-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 239/2024, Série I de 2024-12-10
+  number: '239'
+  series: I
+  supplement: null
+  pages: 26 - 30
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23900/0002600030.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-03-25'
+version_history:
+  file: decreto-regulamentar-regional-22-2024-a.versoes.json
+  count: 3
+  source_lastmod: '2025-07-14'
+  versions:
+  - date: '2024-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-07-15'
+    amending: pt:dre:924672855:por
+    amending_title: Decreto Regulamentar Regional n.º 20/2025/A
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+  - date: '2026-03-25'
+    amending: pt:dre:1075988798:por
+    amending_title: Decreto Regulamentar Regional n.º 3/2026/A
+    changes:
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/22/2024/a/cons/20260324/pt/html
+  oj: null
+  dre: '899582839'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/22-2024-899582839
+  internal: pt:dre:899582839:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2024-899582839
+  metadata_url: https://data.dre.pt/eli/decregulreg/22/2024/a/cons/20260324/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2024-924709932
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2024-924709932
+  retrieved_at: '2026-10-22T13:32:00Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-07-14T00:00:00Z'
+integrity:
+  source_sha256: 5ecb08dbf0a081db395a924627dade48e4703951213c9d8bbb2f962c2e3fb09d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:32:00Z'
+  notes: 3 versão(ões); histórico completo em decreto-regulamentar-regional-22-2024-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Indústria Agro-alimentar
+- Exploração Agrícola
+- Regulamento
+- Açores
+- Subsídio não Reembolsável
+- Direção Regional do Desenvolvimento Rural
+relationships:
+- type: amended_by
+  target: pt:dre:924672855:por
+  label: Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855
+  date: '2025-07-14'
+- type: amended_by
+  target: pt:dre:1075988798:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1075988798
+  date: '2026-03-24'
+- type: cites
+  target: celex:32013R1408
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1408/oj
+- type: cites
+  target: pt:dre:454777:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/31/2008/07/25/a/dre
+article_structure:
+  article_count: 16
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:32:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 22/2024/A
+
+Decreto Regulamentar Regional n.º 22/2024/A
+
+Regulamenta a concessão de apoios à compra de sementes de milho e sorgo, para a produção de forragem ou milho grão, na Região Autónoma dos Açores
+
+Numa região com as características produtivas dos Açores, os custos e disponibilidade da alimentação animal são determinantes para a sustentabilidade da produção regional de leite e carne.
+
+A persistente instabilidade dos mercados agrícolas e dos fatores de produção, bem como os impactos cada vez mais determinantes das alterações climáticas na produção agrícola, impõem a adoção de medidas de política pública que incentivem os agricultores a adotar práticas produtivas sustentáveis que fomentem ganhos de produtividade e acréscimos de competitividade nas suas explorações, aumentando a sua resiliência às crises e contribuindo para a segurança alimentar regional.
+
+A produção de forragem ou milho grão, através das culturas de milho e sorgo, é uma produção ambiental e economicamente sustentável e constitui uma excelente alternativa de rotação com as pastagens típicas dos Açores, garantindo facilidade de armazenamento na forma de silagem, fornecendo energia rápida e digestível para os bovinos durante todo o ano, reduzindo os custos de produção e desempenhando um papel fundamental na redução da dependência da Região Autónoma dos Açores em relação a importações de alimentos para os animais e na resiliência do setor aos efeitos das alterações climáticas.
+
+Neste contexto, nos anos de 2022 e 2023 já foram adotadas, com sucesso, medidas de apoio à compra de sementes de milho e sorgo, para a produção de forragem ou milho grão, como forma de minorar os efeitos da invasão da Ucrânia pela Rússia nos mercados agrícolas, importando continuar este apoio para as compras daquelas sementes realizadas durante o ano de 2024.
+
+Estes apoios enquadram-se nos objetivos estratégicos do desenvolvimento rural consagrados no Decreto Legislativo Regional n.º 31/2008/A, de 25 de julho, que aprova o regime jurídico que fixa as bases gerais do desenvolvimento rural, nomeadamente nos objetivos previstos nas alíneas a) e b) do artigo 2.º
+
+A atribuição dos apoios objeto do presente diploma respeita as regras comunitárias aplicáveis em matéria de auxílios de Estado, nomeadamente as disposições do Regulamento (UE) n.º 1408/2013 da Comissão, de 18 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis no setor agrícola.
+
+Assim, nos termos da alínea d) do artigo 227.º da Constituição da República Portuguesa, da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e ao abrigo do disposto no artigo 27.º do Decreto Legislativo Regional n.º 31/2008/A, de 25 de julho, o Governo Regional decreta o seguinte:
+
+### Capítulo I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Objeto
+
+O presente diploma regulamenta a concessão de apoios à compra de sementes de milho e sorgo, destinadas à produção de forragem ou milho grão, para o ano de 2024.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O presente diploma é aplicável aos agricultores com exploração agrícola situada no território da Região Autónoma dos Açores.
+
+###### Artigo 3.º — Objetivos
+
+Os apoios objeto do presente diploma prosseguem os objetivos previstos nas alíneas a) e b) do artigo 2.º do Decreto Legislativo Regional n.º 31/2008/A, de 25 de julho.
+
+### Capítulo II — BENEFICIÁRIOS
+
+###### Artigo 4.º — Beneficiários
+
+Podem beneficiar dos apoios objeto do presente diploma os agricultores que tenham procedido à compra de sementes de milho e, ou, de sorgo, para o cultivo no ano de 2024.
+
+###### Artigo 5 — Condições de elegibilidade dos beneficiários
+
+1 - Os beneficiários dos apoios previstos no presente diploma devem cumprir as seguintes condições de elegibilidade:
+
+a) Terem apresentado pedido de apoio, referente ao ano de 2024, à Ajuda aos Produtores de Culturas Arvenses do subprograma POSEI para a Região Autónoma dos Açores (POSEI - RAA), nos termos da respetiva legislação aplicável, sem prejuízo do disposto nos números seguintes;
+
+b) Terem apresentado a declaração relativa ao tipo de empresa, de acordo com o modelo disponível no Portal do Beneficiário (https://beneficiario-agricola.azores.gov.pt), até à data da apresentação do pedido de apoio;
+
+c) Estarem inscritos na Autoridade Tributária e Aduaneira com, pelo menos, um código de Classificação de Atividades Económicas (CAE) identificado em lista a divulgar no aviso referido no artigo 9.º, até à data da apresentação do pedido de apoio;
+
+d) Estarem inscritos no Balcão dos Fundos ou no sistema de informação de registo central de auxílios de minimis - SIRCAMINIMIS, com, pelo menos, um código de CAE referido na alínea anterior, até à data da decisão de aprovação do pedido de apoio.
+
+2 - A condição de elegibilidade a que se refere a alínea a) do número anterior, sempre que ocorra a morte de agricultor que a cumpra, tem-se por verificada na herança indivisa, ou em terceiro, desde que obtida a concordância de todos os herdeiros.
+
+3 - A condição de beneficiário prevista no artigo 4.º é transmitida, por morte do agricultor, para a herança indivisa ou para terceiro, desde que obtida a concordância de todos os herdeiros.
+
+4 - Nas situações a que refere o número anterior, a condição de elegibilidade a que se refere a alínea a) do n.º 1 tem-se por verificada na herança indivisa, ou em terceiro, desde que obtida a concordância de todos os herdeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2026/A - Diário da República n.º 58/2026, Série I de 2026-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1075988798), em vigor a partir de 2026-03-25 00:00:00, com efeitos a partir de 2024-12-11 00:00:00.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 20/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855), em vigor a partir de 2025-07-15, produz efeitos a partir de 2024-12-11
+
+### Capítulo III — PEDIDOS DE APOIO
+
+###### Artigo 6.º — Condições de elegibilidade dos pedidos de apoio
+
+1 - São considerados elegíveis, para efeitos do presente diploma, os pedidos de apoio para a compra de sementes de milho e, ou, de sorgo, que cumpram as seguintes condições de elegibilidade:
+
+a) Respeitem as seguintes densidades máximas:
+
+i) No caso das sementes de milho, até uma densidade máxima de 90 000 sementes por hectare de superfície determinada de milho, no âmbito do pedido de ajuda apresentado, a título do ano de 2024, à Ajuda aos Produtores de Culturas Arvenses do subprograma POSEI - RAA;
+
+ii) No caso das sementes de sorgo, até uma densidade máxima de 70 kg por hectare de superfície determinada de sorgo, no âmbito do pedido de ajuda apresentado, a título do ano de 2024, à Ajuda aos Produtores de Culturas Arvenses do subprograma POSEI - RAA;
+
+b) Apresentem toda a informação relativa às faturas comprovativas da compra das sementes de milho e, ou, de sorgo, bem como, quando aplicável, aos respetivos documentos retificativos.
+
+2 - As faturas comprovativas da compra das sementes de milho e, ou, de sorgo referidas na alínea b) do número anterior devem ter data compreendida entre 1 de janeiro e 15 de junho de 2024.
+
+### Capítulo IV — APOIOS
+
+###### Artigo 7.º — Forma e valor do apoio
+
+1 - O apoio é atribuído sob a forma de subvenção não reembolsável.
+
+2 - O valor máximo do apoio a conceder corresponde a 80 % do montante elegível da compra de sementes de milho e, ou, de sorgo, até ao limite de 265,00 € (duzentos e sessenta e cinco euros) por hectare, no caso do milho, e de 145,00 € (cento e quarenta e cinco euros) por hectare, no caso do sorgo.
+
+3 - Para efeitos do disposto no número anterior, o montante elegível corresponde à soma dos montantes constantes das faturas de compra e, quando aplicável, dos respetivos documentos retificativos, excluindo o imposto sobre o valor acrescentado, ajustado, se for o caso, em conformidade com as regras para as reduções e exclusões previstas no artigo 14.º
+
+4 - O valor do apoio a conceder por beneficiário está sujeito ao limite previsto no Regulamento (UE) n.º 1408/2013 da Comissão, de 18 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis no setor agrícola, bem como, ao limite orçamental definido no artigo seguinte.
+
+5 - Os apoios concedidos ao abrigo do presente diploma não são cumuláveis com outros auxílios para as mesmas despesas elegíveis.
+
+###### Artigo 8.º — Limite orçamental
+
+1 - O limite orçamental dos apoios a conceder ao abrigo do presente diploma é de 2 700 000,00 € (dois milhões e setecentos mil euros).
+
+2 - Caso o montante total dos pedidos de apoio exceda o limite orçamental disponível, o montante elegível é objeto de rateio, aplicável a todos os beneficiários.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 20/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855), em vigor a partir de 2025-07-15, produz efeitos a partir de 2024-12-11
+
+### Capítulo V — PROCEDIMENTOS
+
+###### Artigo 9.º — Aviso para apresentação dos pedidos de apoio
+
+O período para apresentação dos pedidos de apoio, bem como a lista referida na alínea c) do artigo 5.º, são definidos em aviso emitido pela Direção Regional de Desenvolvimento Rural, a divulgar no Portal do Governo Regional dos Açores, disponível no sítio da Internet em https://portal.azores.gov.pt/web/drdr.
+
+###### Artigo 10.º — Apresentação dos pedidos de apoio
+
+Os pedidos de apoio devem ser apresentados, com toda a documentação aplicável, junto dos Serviços de Desenvolvimento Agrário de ilha, ou submetidos através de formulário eletrónico disponível em https://gestpdr.azores.gov.pt, mediante autenticação com a inserção de senha de identificação atribuída para o efeito.
+
+###### Artigo 11.º — Análise e decisão
+
+Os pedidos de apoio são analisados pela Direção Regional do Desenvolvimento Rural e são decididos pelo respetivo diretor regional, que pode delegar esta competência nos termos do Código do Procedimento Administrativo.
+
+### Capítulo VI — PAGAMENTOS E CONTROLOS
+
+###### Artigo 12.º — Pagamentos
+
+Os pagamentos dos apoios objeto do presente diploma são efetuados pela Direção Regional do Desenvolvimento Rural.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 20/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2025-924672855), em vigor a partir de 2025-07-15, produz efeitos a partir de 2024-12-11
+
+###### Artigo 13.º — Controlos
+
+1 - Os controlos, administrativo e no local, são efetuados de modo a assegurar a verificação eficaz do cumprimento dos requisitos de concessão do apoio.
+
+2 - O controlo administrativo a que se refere o número anterior abrange a totalidade dos pedidos de apoio.
+
+3 - Com base numa amostra, são selecionados para controlo no local, pelo menos, 5 % dos pedidos de apoio, devendo a amostra representar, também, no mínimo, 5 % dos montantes em causa nos pedidos de apoio.
+
+### Capítulo VII — INCUMPRIMENTOS
+
+###### Artigo 14.º — Reduções e exclusões
+
+1 - Nos casos em que se verifique que o montante declarado no pedido de apoio é superior ao montante determinado, o apoio é calculado com base no montante determinado, sem prejuízo do disposto nos números seguintes.
+
+2 - Sempre que o montante declarado no pedido de apoio exceder o montante determinado, o apoio é calculado da seguinte forma:
+
+a) Caso a diferença seja igual ou inferior a 10 % do montante determinado, o apoio é calculado com base no montante determinado;
+
+b) Caso a diferença seja superior a 10 %, mas inferior ou igual a 30 % do montante determinado, o apoio é calculado com base no montante determinado, diminuído do dobro da diferença verificada entre o montante declarado e o montante determinado;
+
+c) Se a diferença for superior a 30 % do montante determinado, não é concedido qualquer apoio.
+
+3 - Caso as superfícies determinadas de milho ou de sorgo sejam nulas, o respetivo montante declarado no pedido de apoio é recusado.
+
+4 - Para efeitos do presente artigo, considera-se montante determinado o montante obtido através de controlos administrativos ou no local.
+
+### Capítulo VIII — DISPOSIÇÕES FINAIS
+
+###### Artigo 15.º — Publicidade
+
+A listagem nominal dos apoios atribuídos consta de despacho do membro do Governo Regional com competência em matéria agricultura, a publicar no Jornal Oficial da Região Autónoma dos Açores.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, na Povoação, em 13 de novembro de 2024.
+
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
+
+Assinado em Angra do Heroísmo em 6 de dezembro de 2024.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+118442107

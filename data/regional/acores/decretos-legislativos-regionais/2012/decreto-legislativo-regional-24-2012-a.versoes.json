@@ -1,0 +1,1125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177801:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-960670740",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/24-2012-177801",
+ "source_lastmod": "2026-03-12",
+ "versions": [
+  {
+   "date": "2012-06-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "961943775",
+    "961943975",
+    "961944175",
+    "961944375",
+    "961944575",
+    "961944775",
+    "961944975",
+    "961945175",
+    "961945375",
+    "961945575",
+    "961945775",
+    "961945975",
+    "961946175",
+    "961946375",
+    "961946575",
+    "961946775",
+    "961946975",
+    "961947175",
+    "961947375",
+    "961947575",
+    "961947775",
+    "961947975",
+    "961948175",
+    "961948375",
+    "961948575",
+    "961948775",
+    "961948975",
+    "961949175",
+    "961949375",
+    "961949575",
+    "961949775",
+    "961949975",
+    "961950175",
+    "961950375",
+    "961950575",
+    "961950775",
+    "961950975",
+    "961951175",
+    "961951375",
+    "961951575",
+    "961951775",
+    "961951975",
+    "961952175",
+    "961952375",
+    "961952575",
+    "961952775",
+    "961952975",
+    "961953175",
+    "961953375",
+    "961953575",
+    "961953775",
+    "961953975",
+    "961954175",
+    "961954375",
+    "961954575",
+    "961954775",
+    "961954975",
+    "961955175",
+    "961955375",
+    "961955575",
+    "961955775",
+    "961955975",
+    "961956175",
+    "961956375",
+    "961956575",
+    "961956775",
+    "961956975",
+    "961957175",
+    "961957375",
+    "961957575",
+    "961957775",
+    "961957975",
+    "961958175",
+    "961958375",
+    "961958575",
+    "961958775",
+    "961958975",
+    "961959175",
+    "961959375",
+    "961959575",
+    "961959775",
+    "961959975",
+    "961960175",
+    "961960375",
+    "961960575",
+    "961960775",
+    "961960975",
+    "961961175",
+    "961961375",
+    "961961575",
+    "961961775",
+    "961961975",
+    "961962175",
+    "961962375",
+    "961962575",
+    "961962775",
+    "961962975",
+    "961963175"
+   ]
+  },
+  {
+   "date": "2026-04-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1070724089:por",
+     "title": "Decreto Legislativo Regional n.º 7/2026/A",
+     "published": "2026-03-11",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 62.º",
+    "Revoga Artigo 52.º",
+    "Revoga Artigo 53.º",
+    "Revoga Artigo 54.º",
+    "Revoga Artigo 55.º",
+    "Revoga Artigo 56.º",
+    "Revoga Artigo 57.º",
+    "Revoga Artigo 59.º"
+   ],
+   "fragments": [
+    "961943775",
+    "961943975",
+    "1071208975",
+    "961944375",
+    "961944575",
+    "1071209175",
+    "961944975",
+    "961945175",
+    "961945375",
+    "961945575",
+    "961945775",
+    "961945975",
+    "961946175",
+    "961946375",
+    "961946575",
+    "961946775",
+    "961946975",
+    "961947175",
+    "961947375",
+    "961947575",
+    "961947775",
+    "961947975",
+    "961948175",
+    "961948375",
+    "961948575",
+    "961948775",
+    "961948975",
+    "961949175",
+    "961949375",
+    "961949575",
+    "961949775",
+    "961949975",
+    "961950175",
+    "961950375",
+    "961950575",
+    "961950775",
+    "961950975",
+    "961951175",
+    "961951375",
+    "961951575",
+    "961951775",
+    "961951975",
+    "961952175",
+    "961952375",
+    "961952575",
+    "961952775",
+    "961952975",
+    "961953175",
+    "961953375",
+    "961953575",
+    "961953775",
+    "961953975",
+    "961954175",
+    "961954375",
+    "961954575",
+    "961954775",
+    "961954975",
+    "961955175",
+    "961955375",
+    "961955575",
+    "961955775",
+    "961955975",
+    "961956175",
+    "961956375",
+    "961956575",
+    "961956775",
+    "1071340175",
+    "1071340375",
+    "1071340575",
+    "1071340775",
+    "1071340975",
+    "1071341275",
+    "961958175",
+    "1071341575",
+    "961958575",
+    "961958775",
+    "961958975",
+    "1071209375",
+    "961959375",
+    "961959575",
+    "961959775",
+    "961959975",
+    "961960175",
+    "961960375",
+    "961960575",
+    "961960775",
+    "961960975",
+    "961961175",
+    "961961375",
+    "961961575",
+    "961961775",
+    "961961975",
+    "961962175",
+    "961962375",
+    "961962575",
+    "961962775",
+    "961962975",
+    "961963175"
+   ]
+  }
+ ],
+ "fragments": {
+  "961943775": {
+   "fragment_id": "961943675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprova as normas que regulamentam a gestão de fluxos específicos de resíduos\n\nO Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que fixou o regime geral de prevenção e gestão de resíduos, estabeleceu o enquadramento jurídico global das operações de prevenção, produção e gestão de resíduos e aprovou o regime jurídico do licenciamento e concessão das operações de gestão de resíduos. Elaborado numa ótica de política integrada do produto, destinada a prevenir ou reduzir a produção de resíduos, aquele diploma visa reduzir o caráter nocivo e os impactes adversos decorrentes da produção e gestão de resíduos e diminuir os impactes associados à utilização dos recursos, de forma a melhorar a eficiência da sua utilização e a proteção do ambiente e da saúde humana.\n\nAquele mesmo diploma estabelece, no seu artigo 234.º, um conjunto de fluxos específicos de resíduos que pelas suas características, perigosidade, origem, destino final ou método de eliminação devam ser tratados de forma diferenciada em relação aos restantes resíduos. A regulamentação de alguns daqueles fluxos, pela sua generalidade ou representatividade, foi definida no próprio diploma base, estabelecendo-se contudo, no n.º 3 daquele artigo, que, sem prejuízo das normas gerais fixadas nesse diploma, as normas especiais aplicáveis à regulação dos fluxos específicos de resíduos são aprovadas por decreto legislativo regional.\n\nEm execução do disposto no n.º 3 do artigo 234.º do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que fixa o regime geral de prevenção e gestão de resíduos, pelo presente diploma aprovam-se as normas específicas aplicáveis aos seguintes fluxos específicos: (1) pneus e pneus usados; (2) óleos minerais novos e usados; (3) veículos e veículos em fim de vida e seus componentes e materiais; (4) equipamentos elétricos e eletrónicos e resíduos de equipamentos elétricos e eletrónicos; (5) pilhas, acumuladores e baterias, e respetivos resíduos, e (6) óleos alimentares.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos das disposições conjugadas dos artigos 112.º, n.º 4, e 227.º, n.º 1, alínea a), da Constituição da República Portuguesa e dos artigos 37.º, n.os 1 e 2, 40.º e 57.º, n.º 1 e n.º 2, alíneas a), j), m) e n), do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:"
+  },
+  "961943975": {
+   "fragment_id": "961943875",
+   "type": 1,
+   "heading": "Capítulo I — Disposições e princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições e princípios gerais"
+  },
+  "961944175": {
+   "fragment_id": "961944075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma estabelece o regime jurídico a que fica sujeita a gestão dos seguintes fluxos específicos de resíduos:\n\na) Pneus e pneus usados;\n\nb) Óleos minerais novos e usados;\n\nc) Veículos e veículos em fim de vida e seus componentes e materiais;\n\nd) Equipamentos elétricos e eletrónicos e resíduos de equipamentos elétricos e eletrónicos;\n\ne) Pilhas, acumuladores e baterias, e respetivos resíduos;\n\nf) Óleos alimentares, novos e usados, produzidos pelos sectores industrial, da hotelaria e restauração e doméstico.\n\n2 - O presente diploma transpõe para a ordem jurídica regional os seguintes normativos:\n\na) Diretiva n.º 1987/101/CEE, do Conselho, de 22 de dezembro de 1986, que altera a Diretiva n.º 75/439/CEE, do Conselho, de 16 de junho, relativa à eliminação de óleos usados;\n\nb) Diretiva n.º 2000/53/CE, do Parlamento Europeu e do Conselho, de 18 de setembro, relativa aos veículos em fim de vida, alterada pela Diretiva n.º 2011/37/EU, da Comissão, de 30 de março, que altera o anexo ii da Diretiva n.º 2000/53/CE, do Parlamento Europeu e do Conselho, de 18 de setembro;\n\nc) Diretiva n.º 2011/65/UE, do Parlamento Europeu e do Conselho, de 8 de junho, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos;\n\nd) Diretiva n.º 2002/96/CE, do Parlamento Europeu e do Conselho, de 27 de janeiro de 2003, alterada pela Diretiva n.º 2003/108/CE, do Parlamento Europeu e do Conselho, de 8 de dezembro, relativas a resíduos de equipamentos elétricos e eletrónicos;\n\ne) Diretiva n.º 2008/103/CE, do Parlamento Europeu e do Conselho, de 19 de novembro, que altera a Diretiva n.º 2006/66/CE, do Parlamento Europeu e do Conselho, de 6 de setembro, relativa a pilhas e acumuladores e respetivos resíduos, no que respeita à colocação de pilhas e acumuladores no mercado;\n\nf) Diretiva n.º 2008/112/CE, do Parlamento Europeu e do Conselho, de 16 de dezembro, na parte em que esta altera as Diretivas n.os 2002/96/CE, do Parlamento Europeu e do Conselho, de 27 de janeiro de 2003, e 2000/53/CE, do Parlamento Europeu e do Conselho, de 18 de setembro, a fim de a adaptar ao Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro, relativo à classificação, rotulagem e embalagem de substâncias e misturas."
+  },
+  "961944375": {
+   "fragment_id": "961944275",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente diploma aplica-se à gestão de fluxos de resíduos realizada na Região Autónoma dos Açores, qualquer que seja a origem ou proveniência dos resíduos.\n\n2 - O presente diploma é aplicável a todos os produtos a que se refere o n.º 1 do artigo anterior, bem como aos respetivos resíduos.\n\n3 - O disposto no presente diploma não prejudica:\n\na) A sujeição à legislação em vigor em matéria de segurança rodoviária;\n\nb) A aplicação da legislação relativa à higiene e segurança, à proteção da saúde, ao controlo das emissões para a atmosfera, ao controlo de ruído, à proteção do solo e das águas, bem como a aplicação da regulamentação aplicável à produção e comercialização de biocombustíveis;\n\nc) A regulamentação do modo de manutenção e reparação de um veículo ou a obrigatoriedade de estar equipado com componentes fornecidos pelo fabricante ou com outros componentes, como peças sobressalentes ou de substituição, cuja montagem cumpra o disposto na legislação aplicável;\n\nd) A aplicação do Decreto-Lei n.º 32/94, de 5 de fevereiro, relativo à obtenção, utilização e comercialização de gorduras e óleos comestíveis;\n\ne) A aplicação do Decreto-Lei n.º 106/2005, de 29 de junho, alterado pelo Decreto-Lei n.º 13/2006, de 20 de janeiro, que fixa as características a que devem obedecer as gorduras e os óleos vegetais destinados à alimentação humana e as condições a observar na sua obtenção ou tratamento, bem como as regras da sua comercialização.\n\n4 - Excluem-se do âmbito de aplicação do presente diploma:\n\na) Os óleos minerais usados contendo bifenilos policlorados e terfenilos policlorados (PCB), abrangidos pelo Decreto-Lei n.º 277/99, de 23 de julho, alterado pelo Decreto-Lei n.º 72/2007, de 27 de março, à exceção do disposto no artigo 34.º, na parte respeitante às operações de reciclagem e de reprocessamento;\n\nb) Os equipamentos elétricos e eletrónicos que façam parte de outro tipo de equipamento não abrangido pelas normas constantes do presente diploma;\n\nc) Os equipamentos elétricos e eletrónicos, as pilhas e acumuladores associados à defesa dos interesses essenciais de segurança do Estado, bem como as armas, as munições e o material de guerra destinados a fins especificamente militares;\n\nd) As pilhas e acumuladores utilizados em aparelhos concebidos para serem enviados para o espaço exterior."
+  },
+  "961944575": {
+   "fragment_id": "961944475",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\n1 - O presente diploma tem por objetivo proteger o ambiente e a saúde humana e a segurança das pessoas e bens, prevenindo ou reduzindo os impactes adversos decorrentes da geração e gestão de resíduos, diminuindo os impactes gerais da utilização dos recursos e melhorando a eficiência dessa utilização.\n\n2 - É, também, objetivo do presente regime jurídico a melhoria contínua do desempenho ambiental de todos os intervenientes do ciclo de vida dos produtos e resíduos a que se refere o presente diploma."
+  },
+  "961944775": {
+   "fragment_id": "961944675",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\n1 - Para efeitos do presente diploma entende-se por:\n\na) «Aparelho alimentado a bateria» qualquer equipamento elétrico ou eletrónico, conforme definido nos termos da alínea l), que seja alimentado por pilhas ou acumuladores ou suscetível de o ser;\n\nb) «Armazenagem» a deposição temporária e controlada, por prazo determinado, de resíduos antes do seu tratamento, valorização ou eliminação;\n\nc) «Bateria de pilhas» o conjunto de pilhas ou acumuladores ligados entre si ou encerrados num invólucro formando uma unidade completa, não destinada a ser separada, nem aberta pelo utilizador final;\n\nd) «Bateria industrial» ou «acumulador industrial» a bateria ou acumulador concebidos exclusivamente para fins industriais ou profissionais ou utilizados em qualquer tipo de veículos elétricos, designadamente os utilizados como fonte de energia de emergência ou de reserva nos hospitais, aeroportos ou escritórios, os concebidos exclusivamente para terminais de pagamento portáteis em lojas e restaurantes e para leitores de código de barras em lojas, os utilizados em instrumentação ou em diversos tipos de aparelhos de medição, os utilizados em ligação com aplicações de energias renováveis como os painéis solares e os utilizados em veículos elétricos, como, por exemplo, carros, cadeiras de rodas, bicicletas, veículos utilizados nos aeroportos e veículos automáticos de transporte;\n\ne) «Bateria ou acumulador para veículos automóveis» a bateria ou acumulador utilizados para fornecer energia ao motor de arranque, para as luzes ou para a ignição;\n\nf) «Centro de desmantelamento» a instalação onde se procede à remoção e separação dos componentes de resíduos com vista à sua despoluição e à reutilização, à fragmentação, ao corte e ao retalhamento ou preparação para a valorização ou eliminação e quaisquer outras operações realizadas para fins de valorização e ou eliminação de veículos em fim de vida e dos seus componentes;\n\ng) «Centro de receção de resíduos» a instalação onde se procede à armazenagem e triagem de resíduos inseridos quer em sistemas integrados de gestão de fluxos de resíduos, quer em sistemas de gestão de resíduos urbanos;\n\nh) «Colocação no mercado» o fornecimento ou disponibilização de um produto a terceiros, a título oneroso ou gratuito, incluindo a importação para o território nacional e a transferência a partir de outro Estado membro;\n\ni) «Detentor de resíduos» o produtor dos resíduos ou a pessoa singular ou coletiva que tem os resíduos na sua posse;\n\nj) «Distribuidor» qualquer pessoa singular ou coletiva que, no âmbito da sua atividade profissional, forneça produtos a um utilizador;\n\nk) «Eliminação» qualquer operação que não seja de valorização, mesmo que tenha como consequência secundária a recuperação de substâncias ou de energia, nomeadamente as previstas no anexo i do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos;\n\nl) «Equipamentos elétricos ou eletrónicos» ou «EEE» os equipamentos cujo funcionamento adequado depende de correntes elétricas ou de campos eletromagnéticos, bem como os equipamentos para geração, transferência e medição dessas correntes e campos, pertencentes às categorias indicadas no anexo vi do presente diploma, do qual faz parte integrante, e concebidos para a utilização com uma tensão nominal não superior a 1000 V para corrente alterna e 1500 V para corrente contínua;\n\nm) «Ferramenta elétrica sem fios» qualquer aparelho portátil, incluído na categoria 6 da parte A do anexo vi, alimentado por pilhas ou acumuladores e destinado a atividades de construção, manutenção ou jardinagem;\n\nn) «Fluxos de resíduos» o tipo de produto componente de uma categoria de resíduos transversal a todas as origens, nomeadamente óleos minerais usados, óleos alimentares usados, pneus usados, resíduos de pilhas, acumuladores e baterias, veículos em fim de vida e resíduos de equipamentos elétricos e eletrónicos;\n\no) «Informações de desmantelamento» todas as informações necessárias ao tratamento adequado e compatível com o ambiente de um veículo em fim de vida;\n\np) «Melhores técnicas disponíveis» ou «MTDs» a fase de desenvolvimento mais avançada e eficaz das atividades e dos respetivos modos de exploração, que demonstre a aptidão prática de técnicas específicas para constituir, em princípio, a base dos valores limite de emissão com vista a evitar e, quando tal não seja possível, a reduzir de um modo geral as emissões e o impacte no ambiente no seu todo, entendendo-se por: (i) «melhores» as técnicas mais eficazes para alcançar um nível geral elevado de proteção do ambiente no seu todo; (ii) «técnicas» o modo como a instalação é projetada, construída, conservada, explorada e desativada, bem como as técnicas utilizadas no processo de produção, e (iii) «disponíveis» as técnicas desenvolvidas a uma escala que possibilite a sua aplicação no contexto do sector económico em causa em condições económica e tecnicamente viáveis, tendo em conta os custos e os benefícios, quer sejam ou não utilizadas ou produzidas a nível nacional ou comunitário e desde que acessíveis ao operador em condições razoáveis;\n\nq) «Óleo alimentar» o óleo, ou mistura de dois ou mais óleos, destinado à alimentação humana que cumpra o disposto no Decreto-Lei n.º 32/94, de 5 de fevereiro, e no Decreto-Lei n.º 106/2005, de 29 de junho, alterado pelo Decreto-Lei n.º 13/2006, de 20 de janeiro;\n\nr) «Óleos usados» quaisquer lubrificantes minerais ou sintéticos ou óleos industriais que se tenham tornado impróprios para o uso a que estavam inicialmente destinados, tais como os óleos usados dos motores de combustão e dos sistemas de transmissão, os óleos lubrificantes usados e os óleos usados de turbinas e sistemas hidráulicos;\n\ns) «Operador de gestão de resíduos» ou «operador» pessoas singulares ou coletivas, licenciadas ou concessionadas, responsáveis pela recolha, transporte, armazenagem, triagem, tratamento, valorização e eliminação dos resíduos, bem como pelas operações de descontaminação dos solos e monitorização dos locais de destino final após encerramento das respetivas instalações;\n\nt) «Outros veículos» quaisquer veículos classificados em categorias diferentes das indicadas na definição de veículo constante da alínea zz);\n\nu) «PCB» os policlorobifenilos, os policlorotrifenilos, o monometilotetraclorodifenilmetano, o monometilodiclorodifenilmetano, o monometilodibromodifenilmetano ou qualquer mistura com um teor acumulado das substâncias acima referidas superior a 0,005 % em peso;\n\nv) «Pilha ou acumulador portátil» qualquer pilha, pilha-botão, bateria de pilhas ou acumulador que seja fechado hermeticamente, possa ser transportado à mão e não seja uma bateria ou acumulador industrial, nem uma bateria ou acumulador para veículos automóveis, nomeadamente as pilhas constituídas por um elemento único, como, por exemplo, as pilhas AA e AAA, bem como as pilhas e acumuladores utilizados em telemóveis, computadores portáteis, ferramentas elétricas sem fios, brinquedos e aparelhos domésticos;\n\nw) «Pilha ou acumulador» qualquer fonte de energia elétrica obtida por transformação direta de energia química, constituída por uma ou mais células primárias não recarregáveis ou por um ou mais elementos secundários recarregáveis;\n\nx) «Pilha-botão» pequena pilha ou pequeno acumulador cilíndrico portátil de diâmetro superior à altura, utilizado para fins especiais, designadamente para aparelhos auditivos, relógios, pequenos aparelhos portáteis e dispositivos de alimentação de reserva;\n\ny) «Pneu recauchutado» o pneu usado que é objeto de processo industrial de acordo com as especificações técnicas aplicáveis, com vista à sua reutilização, sendo de novo colocado no mercado;\n\nz) «Pneus» os pneus utilizados em veículos motorizados, aeronaves, reboques, velocípedes e outros equipamentos, motorizados ou não motorizados, que os contenham;\n\naa) «Prevenção» as medidas previstas no n.º 2 do artigo 11.º do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos, quando tomadas antes de uma substância, material ou produto se ter transformado em resíduo;\n\nbb) «Produtor de produtos» qualquer pessoa, singular ou coletiva, que desenvolva, fabrique, embale ou faça embalar, transforme, trate, venda ou importe produtos, incluindo pneus em segunda mão, no âmbito da sua atividade profissional, independentemente da técnica de venda utilizada, incluindo a venda através da comunicação a distância;\n\ncc) «Produtor de resíduos» qualquer pessoa, singular ou coletiva, cuja atividade produza resíduos (produtor inicial dos resíduos) ou qualquer pessoa que efetue operações de pré-processamento, de mistura ou outras, que conduzam a uma alteração da natureza ou da composição inicial desses resíduos;\n\ndd) «Reciclagem» processo de transformação dos resíduos através do qual os materiais constituintes dos resíduos são novamente transformados em produtos, materiais ou substâncias para o seu fim original ou para outros fins, incluindo o reprocessamento de materiais orgânicos e excluindo a valorização energética e o reprocessamento em materiais que devam ser utilizados como combustível ou em operações de enchimento;\n\nee) «Recauchutagem» operação pela qual um pneu já utilizado, após cumprir o seu ciclo de vida para o qual foi projetado e concebido, é reconstruído de modo a permitir a sua utilização para o mesmo fim para que foi concebido;\n\nff) «Recolha seletiva» a recolha efetuada mantendo o fluxo de resíduos separado por tipo e natureza de forma a facilitar o tratamento específico;\n\ngg) «Recolha» a coleta de resíduos, incluindo a triagem e o armazenamento preliminares dos resíduos com vista ao seu transporte para uma instalação de tratamento de resíduos;\n\nhh) «Regeneração de óleos minerais usados», qualquer operação de reciclagem que permita produzir óleos de base mediante a refinação de óleos usados, designadamente mediante a remoção dos contaminantes, produtos de oxidação e aditivos que os referidos óleos contenham;\n\nii) «Reservatório» qualquer equipamento, superficial ou subterrâneo, que seja usado para a armazenagem de óleos minerais usados e que possua uma capacidade superior a 1000 L;\n\njj) «Resíduos» quaisquer substâncias ou objetos de que o detentor se desfaz ou tem intenção ou obrigação de se desfazer;\n\nkk) «Resíduos de equipamentos elétricos e eletrónicos (REEE) provenientes de particulares» os REEE provenientes do sector doméstico, bem como os REEE provenientes de fontes comerciais, industriais, institucionais ou outras que, pela sua natureza e quantidade, sejam semelhantes aos REEE provenientes do sector doméstico;\n\nll) «Resíduos de equipamentos elétricos e eletrónicos» ou «REEE» os equipamentos elétricos e eletrónicos que constituam um resíduo na aceção da alínea jj), incluindo todos os componentes, subconjuntos e materiais consumíveis que fazem parte integrante do equipamento no momento em que este é descartado, com exceção dos que façam parte de outros equipamentos não indicados no anexo vi;\n\nmm) «Reutilização» a utilização de produtos ou componentes mais de uma vez, sem que sofram qualquer tipo de alteração ou processamento complexo, apenas podendo ser sujeitos a lavagem, e independentemente de lhes ser atribuída a mesma função;\n\nnn) «Salvado» o veículo que, em consequência de acidente, tenha sofrido danos que impossibilitem definitivamente a sua circulação ou afetem gravemente as suas condições de segurança e que integre a esfera jurídica patrimonial de uma companhia de seguros por força de um contrato de seguro automóvel, nos termos da legislação aplicável, e que constitui um resíduo nos termos da alínea jj);\n\noo) «Sector da distribuição» o sector de atividade que procede à comercialização do produto;\n\npp) «Sector doméstico» o sector relativo às habitações;\n\nqq) «Sector da hotelaria, restauração e comércio alimentar» ou «sector HORECA» o sector de atividade relativo aos empreendimentos turísticos, ao alojamento local e aos estabelecimentos de restauração e bebidas;\n\nrr) «Sector industrial» o sector de atividade relativo à indústria transformadora, designadamente às indústrias alimentares;\n\nss) «Sistemas intermunicipais» os sistemas municipais de abastecimento público de água, de disposição de águas residuais urbanas e de gestão de resíduos urbanos, geridos através de associações de municípios;\n\ntt) «Sistemas multimunicipais» sistemas de abastecimento público de água, de disposição de águas residuais urbanas e de gestão de resíduos urbanos, que sirvam pelo menos dois municípios e exijam, ou tenham exigido, um investimento predominante a efetuar pela administração regional autónoma em função de razões de interesse regional;\n\nuu) «Sistemas municipais» os sistemas de abastecimento público de água, de disposição de águas residuais urbanas e de gestão de resíduos urbanos, não abrangidos pela alínea anterior, independentemente de servirem um ou mais municípios;\n\nvv) «Substância ou mistura perigosa», qualquer substância ou mistura que preencha os critérios de qualquer das seguintes classes ou categorias de perigo estabelecidas no anexo i do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro: (i) classes de perigo 2.1 a 2.4, 2.6 e 2.7, 2.8 dos tipos A e B, 2.9, 2.10, 2.12, 2.13 das categorias 1 e 2, 2.14 das categorias 1 e 2, e 2.15 dos tipos A a F; (ii) classes de perigo 3.1 a 3.6, 3.7 (efeitos nocivos para a função sexual e a fertilidade ou para o desenvolvimento), 3.8 (efeitos que não sejam efeitos narcóticos), 3.9 e 3.10; (iii) classe de perigo 4.1, e (iv) classe de perigo 5.1;\n\nww) «Tratamento» qualquer operação de valorização ou de eliminação, incluindo a preparação prévia à valorização ou eliminação;\n\nxx) «Valorização» qualquer operação cujo resultado principal seja a transformação dos resíduos de modo a servirem um fim útil, substituindo outros materiais que, caso contrário, teriam sido utilizados para um fim específico, ou a preparação dos resíduos para esse fim, na instalação ou no conjunto da economia, nomeadamente as previstas no anexo iv do Decreto Legislativo Regional n.º 29/2011/A, de 16 de Novembro, que aprova o regime geral de prevenção e gestão de resíduos;\n\nyy) «Veículo em fim de vida» ou «VFV» um veículo que constitui um resíduo de acordo com a definição constante da alínea jj);\n\nzz) «Veículo» qualquer veículo classificado nas categorias M1 (veículos a motor destinados ao transporte de passageiros com oito lugares sentados, no máximo, além do lugar do condutor) ou N1 (veículos concebidos e construídos para o transporte de mercadorias com massa máxima não superior a 3,5 t) definidas no anexo ii do Decreto-Lei n.º 16/2010, de 12 de março, bem como os veículos a motor de três rodas definidos no Decreto-Lei n.º 30/2002, de 16 de fevereiro, na sua atual redação, com exclusão dos triciclos a motor.\n\n2 - Sem prejuízo do estipulado no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos, aos veículos abrangidos pelo disposto na alínea t) do número anterior é aplicável o disposto nos n.os 7 e 8 do artigo 37.º e nos artigos 38.º a 42.º"
+  },
+  "961944975": {
+   "fragment_id": "961944875",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios de gestão\n\n1 - Constituem princípios fundamentais da gestão dos produtos e dos resíduos aos quais se refere o presente diploma a prevenção da produção desses resíduos, em quantidade e nocividade, e a adoção das melhores técnicas disponíveis nas diversas operações de gestão, de forma a minimizar os riscos para a saúde pública e para o ambiente.\n\n2 - Constituem, ainda, princípios fundamentais para a gestão dos resíduos aos quais se refere o presente diploma os princípios constantes do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos."
+  },
+  "961945175": {
+   "fragment_id": "961945075",
+   "type": 11,
+   "heading": "Artigo 6.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Responsabilidade\n\nTodos os intervenientes no ciclo de vida do produto, desde a sua conceção, fabrico, distribuição, comercialização e utilização até ao manuseamento dos respetivos resíduos, são corresponsáveis pela sua gestão, devendo contribuir, na medida da respetiva intervenção e responsabilidade, para o funcionamento dos sistemas de gestão criados nos termos do presente diploma."
+  },
+  "961945375": {
+   "fragment_id": "961945275",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências da autoridade ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências da autoridade ambiental\n\n1 - A função de autoridade ambiental é exercida pelo departamento do Governo Regional competente em matéria de ambiente, nos termos da respetiva lei orgânica.\n\n2 - Compete à autoridade ambiental:\n\na) Supervisionar o cumprimento dos princípios instituídos no presente diploma;\n\nb) Coordenar e gerir administrativamente os procedimentos de licenciamento e de autorização da entidade gestora a que se refere o artigo 15.º;\n\nc) Elaborar a proposta de despacho a que se refere o artigo 15.º e submetê-la ao membro do Governo Regional competente em matéria de ambiente;\n\nd) Acompanhar e monitorizar a atividade dos sistemas integrados e individuais;\n\ne) Organizar, atualizar e promover a divulgação da informação relativa aos operadores, às entidades gestoras e aos sistemas individuais;\n\nf) Monitorizar o cumprimento dos objetivos de prevenção, valorização e gestão."
+  },
+  "961945575": {
+   "fragment_id": "961945475",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho Regional do Ambiente e do Desenvolvimento Sustentável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho Regional do Ambiente e do Desenvolvimento Sustentável\n\nCabe ao Conselho Regional do Ambiente e do Desenvolvimento Sustentável (CRADS) acompanhar o funcionamento do regime estipulado no presente diploma, formular recomendações e emitir pareceres nas matérias que considere relevantes para a melhoria do seu desempenho."
+  },
+  "961945775": {
+   "fragment_id": "961945675",
+   "type": 1,
+   "heading": "Capítulo II — Sistemas de gestão e de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistemas de gestão e de registo"
+  },
+  "961945975": {
+   "fragment_id": "961945875",
+   "type": 8,
+   "heading": "Secção I — Sistemas de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Sistemas de gestão"
+  },
+  "961946175": {
+   "fragment_id": "961946075",
+   "type": 11,
+   "heading": "Artigo 9.º — Sistemas de gestão de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sistemas de gestão de resíduos\n\n1 - Para efeitos do cumprimento das obrigações estabelecidas no presente diploma, os produtores dos produtos ficam obrigados a submeter a gestão dos resíduos a um sistema individual ou a um sistema integrado, cujas normas de funcionamento são as constantes do presente diploma.\n\n2 - Os produtores devem garantir que os sistemas referidos no número anterior utilizam as melhores técnicas disponíveis para a proteção da saúde e do ambiente, bem como para o tratamento dos resíduos."
+  },
+  "961946375": {
+   "fragment_id": "961946275",
+   "type": 8,
+   "heading": "Secção II — Sistema individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Sistema individual"
+  },
+  "961946575": {
+   "fragment_id": "961946475",
+   "type": 11,
+   "heading": "Artigo 10.º — Sistema individual de gestão de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sistema individual de gestão de resíduos\n\n1 - Em alternativa ao sistema integrado previsto nos artigos 11.º e seguintes, os produtores poderão optar por assumir as suas obrigações a título individual, carecendo para o efeito de uma autorização específica da autoridade ambiental.\n\n2 - O regime estabelecido para o sistema integrado é aplicável, com as necessárias adaptações, ao sistema individual de gestão de resíduos."
+  },
+  "961946775": {
+   "fragment_id": "961946675",
+   "type": 8,
+   "heading": "Secção III — Sistema integrado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Sistema integrado"
+  },
+  "961946975": {
+   "fragment_id": "961946875",
+   "type": 11,
+   "heading": "Artigo 11.º — Sistema integrado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sistema integrado\n\n1 - Com a adesão a um sistema integrado, a responsabilidade dos produtores do produto pela gestão dos respetivos resíduos é transferida para a entidade gestora desse sistema, desde que devidamente licenciada ou autorizada para exercer essa atividade, nos termos do presente diploma.\n\n2 - A transferência de responsabilidade de cada produtor do produto para a entidade gestora é objeto de contrato escrito, com a duração mínima de cinco anos, o qual deverá conter obrigatoriamente:\n\na) A quantidade, características e tipos de produtos abrangidos pelo contrato;\n\nb) A previsão da quantidade de resíduos a retomar anualmente pela entidade gestora;\n\nc) As ações de controlo a desenvolver pela entidade gestora, de forma a verificar o cumprimento das condições estipuladas no contrato;\n\nd) As contrapartidas financeiras devidas à entidade gestora e a forma da sua atualização tendo em conta as respetivas obrigações, definidas no presente diploma."
+  },
+  "961947175": {
+   "fragment_id": "961947075",
+   "type": 11,
+   "heading": "Artigo 12.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entidade gestora\n\n1 - A entidade gestora é uma pessoa coletiva sem fins lucrativos.\n\n2 - A composição da entidade gestora deve ser assegurada exclusiva e obrigatoriamente por mais de um produtor do produto.\n\n3 - Os resultados contabilísticos da entidade gestora devem ser obrigatoriamente reinvestidos ou utilizados na sua atividade, podendo ser constituídos em provisões ou reservas para operações futuras, sendo expressamente vedada a distribuição de resultados, dividendos ou lucros pelos acionistas, sócios ou associados."
+  },
+  "961947375": {
+   "fragment_id": "961947275",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências da entidade gestora\n\nSão competências da entidade gestora do sistema integrado:\n\na) Assegurar os objetivos de prevenção, valorização e gestão aplicáveis;\n\nb) Organizar a rede de receção, recolha seletiva, transporte e tratamento de resíduos, celebrando os contratos necessários com os distribuidores, sistemas municipais, intermunicipais e multimunicipais de gestão de resíduos, operadores, centros de processamento de resíduos e outras entidades, devendo esses contratos fixar as receitas e os encargos decorrentes dessa atividade;\n\nc) Promover a realização de campanhas de educação, formação e promoção ambiental sobre boas práticas de gestão dos resíduos e sobre os possíveis impactes negativos para a saúde e para o ambiente decorrentes da sua gestão inadequada;\n\nd) Promover o acompanhamento técnico das operações de gestão de resíduos e a realização de ações de esclarecimento e formação neste âmbito;\n\ne) Promover estudos e projetos de investigação de novos processos de prevenção e valorização de resíduos a implementar a nível regional;\n\nf) Assegurar a monitorização do sistema integrado, nomeadamente no que diz respeito à quantidade de produto colocado no mercado, ao fluxo dos resíduos e dos materiais resultantes do seu tratamento, bem como ao acompanhamento dos intervenientes no sistema;\n\ng) Reportar à autoridade ambiental a monitorização do sistema integrado, através do Sistema Regional de Informação sobre Resíduos, definido pelos artigos 160.º e seguintes do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos."
+  },
+  "961947575": {
+   "fragment_id": "961947475",
+   "type": 11,
+   "heading": "Artigo 14.º — Financiamento da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Financiamento da entidade gestora\n\n1 - A entidade gestora é financiada, nomeadamente, através de uma prestação financeira a suportar pelos produtores do produto.\n\n2 - O valor da prestação financeira é determinado em função da quantidade de produtos colocados anualmente no mercado regional, características e natureza dos materiais presentes nos resíduos, bem como das operações de tratamento a que os mesmos são sujeitos.\n\n3 - O valor da prestação financeira deve refletir os princípios gerais estabelecidos neste diploma, nomeadamente a minimização da utilização de substâncias perigosas e a aptidão para a regeneração, reciclagem, reutilização e valorização.\n\n4 - Caberá à entidade gestora propor, aquando do pedido de atribuição de licença ou autorização previsto no artigo seguinte, o valor da prestação financeira.\n\n5 - O critério de determinação da prestação financeira a suportar por cada produtor, fabricante ou importador dos produtos será estabelecido na licença ou autorização atribuída à entidade gestora nos termos do artigo seguinte.\n\n6 - O valor da prestação financeira pode ser atualizado, nomeadamente, através de proposta da entidade gestora a apresentar à autoridade ambiental até 30 de setembro do ano imediatamente anterior àquele a que diz respeito e carece de aprovação por despacho do membro do Governo Regional competente em matéria de ambiente."
+  },
+  "961947775": {
+   "fragment_id": "961947675",
+   "type": 11,
+   "heading": "Artigo 15.º — Licenciamento e autorização da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Licenciamento e autorização da entidade gestora\n\n1 - A atividade da entidade gestora carece:\n\na) De autorização, no caso de a entidade possuir licença para gerir resíduos no âmbito de um sistema integrado, emitida pela autoridade nacional de resíduos;\n\nb) De licença, nos restantes casos.\n\n2 - Para ambas as situações referidas no número anterior, o respetivo requerimento deve ser apresentado à autoridade ambiental.\n\n3 - A licença ou autorização a que se refere o n.º 1 é publicada no Jornal Oficial, mediante despacho do membro de Governo Regional competente em matéria de ambiente.\n\n4 - A atribuição da licença ou autorização depende da capacidade técnica e financeira da entidade gestora para a gestão do sistema integrado em causa.\n\n5 - Para efeitos de pedido de autorização, a entidade gestora apresenta à autoridade ambiental um requerimento e a respetiva licença emitida pela autoridade nacional de resíduos.\n\n6 - Para efeitos da atribuição da licença, a entidade gestora apresenta à autoridade ambiental um requerimento e um caderno de encargos do qual consta obrigatoriamente o seguinte:\n\na) Tipos e características técnicas dos produtos abrangidos;\n\nb) Previsão das quantidades dos produtos colocados no mercado e dos resíduos a recolher anualmente;\n\nc) Bases da contribuição financeira exigida aos produtores, designadamente a fórmula de cálculo do valor respetivo, tendo em conta as quantidades previstas, os tipos e características dos resíduos e o tratamento a que os mesmos deverão ser sujeitos;\n\nd) Proposta de articulação da atividade da entidade gestora com os restantes operadores, em especial o modo como se propõe assegurar a gestão dos resíduos recolhidos por estes;\n\ne) Condições de articulação com outras entidades gestoras que recolham resíduos, designadamente tendo em vista evitar a dupla cobrança das contrapartidas financeiras devidas a estes sistemas;\n\nf) A rede de receção, recolha seletiva, transporte e tratamento de resíduos, de acordo com o disposto no artigo 17.º;\n\ng) Definição de uma verba destinada ao financiamento de campanhas de educação, formação e promoção ambiental sobre boas práticas de gestão dos resíduos e sobre os possíveis impactes negativos para a saúde e para o ambiente decorrentes da sua gestão não adequada;\n\nh) Descrição do circuito económico concebido para as operações previstas de gestão de resíduos, evidenciando os termos da relação entre a entidade gestora e as outras entidades envolvidas."
+  },
+  "961947975": {
+   "fragment_id": "961947875",
+   "type": 11,
+   "heading": "Artigo 16.º — Funcionamento do sistema integrado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Funcionamento do sistema integrado\n\n1 - A entidade gestora é obrigada a proceder, por si ou através de operador de gestão de resíduos ou entidade autorizada para o transporte, à recolha dos resíduos entregues na respetiva rede regional de receção e recolha seletiva e ao transporte dos resíduos para encaminhamento de acordo com o número seguinte.\n\n2 - A entidade gestora assegura o encaminhamento dos resíduos de acordo com as metas de gestão a que se refere o artigo 23.º\n\n3 - Excetua-se do disposto n.º 1 o funcionamento do sistema integrado de veículos em fim de vida, ao qual se aplica o seguinte:\n\na) Quando se trate de veículo inutilizado, nos termos do disposto no n.º 2 do artigo 119.º do Código da Estrada, o proprietário é responsável pelo seu encaminhamento, e respetivos custos, para um centro de receção ou para um centro de desmantelamento, no prazo máximo de 30 dias a contar da data em que o veículo fique inutilizado, com exceção dos casos previstos nas alíneas a) e b) do artigo 1.º do Decreto-Lei n.º 31/85, de 25 de janeiro, na sua redação atual;\n\nb) Sempre que se verifiquem situações de abandono de veículos, nos termos fixados pelo Código da Estrada, as autoridades municipais ou policiais competentes procedem ao respetivo encaminhamento para um centro de receção ou para um centro de desmantelamento, sendo os custos decorrentes dessa operação da responsabilidade do proprietário do veículo abandonado;\n\nc) Quando se trate de salvados que integrem a esfera patrimonial de uma companhia de seguros, esta fica responsável pelo seu encaminhamento para um centro de receção ou para um centro de desmantelamento, no prazo máximo de 30 dias a contar da data em que o veículo seja considerado salvado, sendo responsável pelos respetivos custos."
+  },
+  "961948175": {
+   "fragment_id": "961948075",
+   "type": 11,
+   "heading": "Artigo 17.º — Rede de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Rede de gestão\n\n1 - A rede de gestão integra a receção, recolha seletiva, transporte ou tratamento de resíduos.\n\n2 - A rede de receção e recolha seletiva considera-se adequada a prosseguir os objetivos do presente diploma quando preencha, pelo menos, os seguintes requisitos:\n\na) Sejam de âmbito territorial integral, tendo em conta a densidade populacional da respetiva área de influência;\n\nb) Sejam de fácil acesso para a deposição e para a recolha dos resíduos;\n\nc) Contribuam para uma correta triagem dos resíduos;\n\nd) Promovam a reutilização e o encaminhamento dos resíduos que não possam ser reutilizados para a reciclagem ou outras formas de valorização;\n\ne) Previnam riscos para o ambiente, a saúde pública e a segurança das pessoas e bens.\n\n3 - A rede de receção e recolha seletiva é estruturada, mediante proposta da entidade gestora, a partir de:\n\na) Sistemas municipais, intermunicipais e multimunicipais, criados no âmbito das atribuições autárquicas de recolha de resíduos urbanos, os quais se constituem como centros de receção de resíduos;\n\nb) Distribuidores, assegurando a receção ou retoma de resíduos, os quais se podem constituir como centros de receção de resíduos;\n\nc) Centros de processamento de resíduos;\n\nd) Outros pontos de recolha, instalados pela entidade gestora licenciada nos termos do presente diploma ou por produtores;\n\ne) Sistemas individuais ou coletivos de recolha de resíduos, instalados diretamente pela entidade gestora ou por produtores;\n\nf) Operadores de gestão de resíduos.\n\n4 - No caso de resíduos de equipamentos elétricos e eletrónicos, a rede deve, ainda, ser alargada aos comerciantes, assegurando a recolha desses resíduos à razão de um por um, no âmbito do fornecimento de um novo equipamento elétrico e eletrónico, desde que os resíduos sejam de equipamentos equivalentes e desempenhem as mesmas funções que os equipamentos fornecidos.\n\n5 - A recolha de resíduos de pilhas e acumuladores portáteis pode ser efetuada em conjunto com os sistemas de gestão de resíduos de equipamentos elétricos e eletrónicos, caso em que as entidades gestoras devem acordar as condições da respetiva participação.\n\n6 - A recolha de resíduos de baterias e acumuladores para veículos automóveis pode ser efetuada em conjunto com os sistemas de gestão de veículos em fim de vida previstos no presente diploma, caso em que as entidades gestoras devem acordar as condições da respetiva participação.\n\n7 - A entrega e a receção dos resíduos na respetiva rede de recolha seletiva são efetuadas sem encargos para o respetivo detentor."
+  },
+  "961948375": {
+   "fragment_id": "961948275",
+   "type": 11,
+   "heading": "Artigo 18.º — Ações de esclarecimento e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Ações de esclarecimento e formação\n\n1 - As ações de esclarecimento e formação referidas na alínea c) do artigo 13.º devem incluir, pelo menos, informação sobre:\n\na) Boas práticas de prevenção e reutilização;\n\nb) A importância e a obrigação da separação na origem dos resíduos, por fluxos e fileiras, contribuindo para a sua recolha seletiva;\n\nc) A rede de recolha seletiva e os respetivos locais de entrega de resíduos;\n\nd) As funções da entidade gestora no âmbito da gestão de resíduos;\n\ne) Os efeitos sobre o ambiente e a saúde humana decorrentes da presença de substâncias ou misturas perigosas nos resíduos;\n\nf) Os resultados na área da investigação e desenvolvimento no domínio da prevenção e valorização de resíduos.\n\n2 - No caso de equipamentos elétricos e eletrónicos, pilhas e acumuladores, as ações de esclarecimento e formação devem, ainda, incluir informação sobre o significado do símbolo referido nos artigos 45.º e 49.º, bem como dos símbolos químicos do mercúrio (Hg), do cádmio (Cd) e do chumbo (Pb)."
+  },
+  "961948575": {
+   "fragment_id": "961948475",
+   "type": 11,
+   "heading": "Artigo 19.º — Informação ao público nos locais de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Informação ao público nos locais de venda\n\nEm todos os locais de venda dos produtos aos quais se refere o presente diploma deverá ser disponibilizada informação ao público sobre os métodos adotados para a recolha dos respetivos resíduos, nomeadamente através da afixação de letreiros ou da disponibilização de folhetos informativos fornecidos pela entidade gestora."
+  },
+  "961948775": {
+   "fragment_id": "961948675",
+   "type": 11,
+   "heading": "Artigo 20.º — Articulação entre entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Articulação entre entidades gestoras\n\nSem prejuízo do disposto na alínea e) do n.º 6 do artigo 15.º, as entidades gestoras dos diversos fluxos de resíduos podem, sempre que se justificar, agir em articulação entre si de modo a otimizar sinergias, minimizar os custos globais da gestão dos resíduos e a dar cumprimento às metas de gestão a que se refere o artigo 23.º"
+  },
+  "961948975": {
+   "fragment_id": "961948875",
+   "type": 8,
+   "heading": "Secção IV — Sistemas de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Sistemas de registo"
+  },
+  "961949175": {
+   "fragment_id": "961949075",
+   "type": 11,
+   "heading": "Artigo 21.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Registo\n\n1 - Os produtores do produto que optem pela adesão a um sistema integrado estão sujeitos a uma obrigação de registo, de forma a acompanhar e fiscalizar o cumprimento das obrigações e dos objetivos fixados no presente diploma e demais legislação aplicável.\n\n2 - Quando esteja licenciada uma única entidade para a gestão de um sistema integrado de um fluxo de resíduos, a entidade responsável pela organização do registo é essa entidade gestora.\n\n3 - Quando exista mais de uma entidade gestora para a gestão de um sistema integrado de um fluxo de resíduos, é necessário que seja criada uma entidade de registo constituída pelas associações de produtores e pelas entidades gestoras.\n\n4 - Às entidades de registo aplica-se o disposto na secção iii do capítulo ii, com as necessárias adaptações.\n\n5 - Os produtores do produto devem comunicar à entidade responsável pela organização do registo, numa base anual, o tipo e quantidade de produtos colocados no mercado, bem como o sistema de gestão por que optaram em relação a cada tipo de resíduo.\n\n6 - Os produtores do produto devem identificar o respetivo número de registo nas faturas que emitem, nos documentos de transporte e nos documentos equivalentes.\n\n7 - Os produtores dos produtos que os coloquem no mercado através de comunicação a distância também estão sujeitos às obrigações constantes dos números anteriores.\n\n8 - O não cumprimento da obrigação estabelecida no n.º 1 implica a proibição de comercialização de produtos no mercado."
+  },
+  "961949375": {
+   "fragment_id": "961949275",
+   "type": 8,
+   "heading": "Secção V — Operações e metas de gestão de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Operações e metas de gestão de resíduos"
+  },
+  "961949575": {
+   "fragment_id": "961949475",
+   "type": 11,
+   "heading": "Artigo 22.º — Operações de gestão de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Operações de gestão de resíduos\n\n1 - As operações de gestão de resíduos estão sujeitas a licenciamento ou a concessão nos termos constantes do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos.\n\n2 - As operações de gestão de resíduos só podem ser realizadas por entidades autorizadas para o efeito e no cumprimento das normas técnicas das operações de gestão de resíduos, nos termos do disposto no diploma referido no número anterior e no presente diploma.\n\n3 - Sem prejuízo do disposto no n.º 1, a armazenagem de resíduos em locais de venda de produtos que façam parte da rede de recolha das entidades gestoras não está sujeita a licenciamento ou concessão, devendo sempre cumprir os requisitos técnicos definidos pelas entidades gestoras e no presente diploma."
+  },
+  "961949775": {
+   "fragment_id": "961949675",
+   "type": 11,
+   "heading": "Artigo 23.º — Metas de gestão de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Metas de gestão de resíduos\n\nAs metas de reutilização, reciclagem e valorização de resíduos são as fixadas no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos."
+  },
+  "961949975": {
+   "fragment_id": "961949875",
+   "type": 1,
+   "heading": "Capítulo III — Fluxos de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fluxos de resíduos"
+  },
+  "961950175": {
+   "fragment_id": "961950075",
+   "type": 8,
+   "heading": "Secção I — Pneus usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Pneus usados"
+  },
+  "961950375": {
+   "fragment_id": "961950275",
+   "type": 11,
+   "heading": "Artigo 24.º — Proibições no âmbito da gestão de pneus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Proibições no âmbito da gestão de pneus\n\n1 - É proibida:\n\na) A queima a céu aberto de pneus e pneus usados;\n\nb) A combustão de pneus e de pneus usados sem recuperação energética;\n\nc) A utilização de pneus e de pneus usados dentro de lagoas de abastecimento de água;\n\nd) A utilização de pneus e de pneus usados na fixação de telhados de edifícios.\n\n2 - É igualmente proibida a deposição em aterro de pneus usados, com exceção dos pneus utilizados como elementos de proteção em aterros e dos pneus que tenham um diâmetro exterior superior a 1400 mm e para os quais, comprovadamente, não haja solução de valorização adequada, em conformidade com o disposto no artigo 65.º do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos."
+  },
+  "961950575": {
+   "fragment_id": "961950475",
+   "type": 11,
+   "heading": "Artigo 25.º — Armazenagem de pneus usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Armazenagem de pneus usados\n\n1 - A instalação onde se realize a operação de armazenagem de pneus usados deverá:\n\na) Estar localizada a uma distância adequada das áreas florestais ou de outras instalações industriais, de modo a evitar a propagação de fogos, sem prejuízo do cumprimento de outras disposições vigentes;\n\nb) Contemplar medidas de prevenção dos riscos de incêndio em conformidade com as normas em vigor para proteção de incêndio, medidas de segurança e autoproteção e um plano de emergência interno relativo à prevenção de riscos, sistemas de alarme, evacuação e emergência;\n\nc) Ter piso impermeabilizado e ser dotada de sistema de drenagem e recolha das águas pluviais, assegurando o seu encaminhamento até um sistema de tratamento adequado compatível com a descarga no meio recetor;\n\nd) Impedir a dispersão dos pneus armazenados e a nidificação de insetos e roedores.\n\n2 - Os pneus usados não podem ser armazenados misturados com outros resíduos ou materiais.\n\n3 - O armazenamento de pneus usados deve ser efetuado em filas, dispondo-se os pneus em pilhas, que devem ter, no máximo, 3 m de altura, 15 m de comprimento e 8 m de largura.\n\n4 - O disposto nos n.os 2 e 3 não é aplicável ao armazenamento realizado imediatamente antes da queima em instalações de tratamento por valorização energética, desde que sejam tidas em conta as melhores técnicas disponíveis para garantir as necessárias condições de segurança e proteção ambiental."
+  },
+  "961950775": {
+   "fragment_id": "961950675",
+   "type": 11,
+   "heading": "Artigo 26.º — Reutilização e valorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reutilização e valorização\n\n1 - Na reutilização de pneus usados deve ser promovida a recauchutagem.\n\n2 - É permitida a valorização de pneus usados através da reciclagem e da valorização, incluindo a valorização energética.\n\n3 - É permitida a utilização de pneus usados:\n\na) No revestimento dos suportes dos separadores de vias de circulação automóvel em observância de especificações técnicas ou de normas técnicas regionais, nacionais e comunitárias aplicáveis;\n\nb) Em pistas de corridas com o objetivo de promover a proteção de pessoas e bens;\n\nc) Em trabalhos de construção civil e obras públicas;\n\nd) Na cobertura de silos e na proteção de produções agrícolas;\n\ne) Em defensas de embarcações.\n\n4 - A utilização de pneus usados nas situações previstas no número anterior depende de autorização a conceder pela autoridade ambiental, mediante o preenchimento e envio de formulário próprio disponível no portal do Governo Regional na Internet.\n\n5 - A autorização concedida nos termos do número anterior define o número de pneus cuja utilização é permitida a cada utilizador e é concedida pelo prazo de três anos, sucessivamente renovável por igual período, mediante requerimento."
+  },
+  "961950975": {
+   "fragment_id": "961950875",
+   "type": 11,
+   "heading": "Artigo 27.º — Recauchutagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Recauchutagem\n\nAs entidades que procedam à recauchutagem de pneus usados devem, sempre que aplicável, respeitar as normas técnicas e de qualidade constantes dos Regulamentos n.os 108 e 109 anexos ao Acordo Relativo à Adoção de Condições Uniformes de Homologação e ao Reconhecimento Recíproco de Homologação dos Equipamentos e Peças de Veículos a Motor, concluído em Genebra em 20 de março de 1958, aprovado para adesão pelo Decreto n.º 138-A/79, de 22 de dezembro."
+  },
+  "961951175": {
+   "fragment_id": "961951075",
+   "type": 8,
+   "heading": "Secção II — Óleos minerais usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Óleos minerais usados"
+  },
+  "961951375": {
+   "fragment_id": "961951275",
+   "type": 11,
+   "heading": "Artigo 28.º — Proibições no âmbito da gestão de óleos minerais usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Proibições no âmbito da gestão de óleos minerais usados\n\nSem prejuízo do cumprimento de outras disposições legais aplicáveis, é expressamente proibido:\n\na) Qualquer descarga de óleos minerais usados nas águas de superfície, nas águas subterrâneas, nas águas de transição, nas águas costeiras e marinhas e nos sistemas de drenagem, individuais ou coletivos, de águas residuais;\n\nb) Qualquer depósito e ou descarga de óleos minerais usados no solo, assim como qualquer descarga não controlada de resíduos resultantes das operações de gestão de óleos usados;\n\nc) Qualquer operação de gestão de óleos minerais usados suscetível de provocar emissões atmosféricas que ultrapassem os valores limite previstos em legislação aplicável;\n\nd) A valorização energética de óleos minerais usados na indústria alimentar, nomeadamente em padarias, nos casos em que os gases resultantes estejam em contacto com os alimentos produzidos;\n\ne) A valorização energética de óleos minerais usados em que não sejam tidas em conta as melhores técnicas disponíveis para garantir as necessárias condições de segurança e proteção ambiental;\n\nf) Qualquer mistura de óleos minerais usados de diferentes características, bem como a mistura de óleos usados com outro tipo de óleos ou substâncias ou com outros resíduos, que dificulte a sua valorização em condições ambientalmente adequadas, nomeadamente para fins de regeneração;\n\ng) Sem prejuízo do disposto na alínea anterior, nas unidades de valorização energética os óleos minerais poderão ser armazenados com outras tipologias de óleos, desde que sejam tidas em conta as melhores técnicas disponíveis para garantir as necessárias condições de segurança e proteção ambiental."
+  },
+  "961951575": {
+   "fragment_id": "961951475",
+   "type": 11,
+   "heading": "Artigo 29.º — Recolha e transporte de óleos minerais usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Recolha e transporte de óleos minerais usados\n\n1 - O operador responsável pela recolha e transporte de óleos minerais usados fica obrigado, aquando da recolha junto do produtor dos óleos, a respeitar o procedimento de amostragem previsto no artigo 35.º\n\n2 - Sem prejuízo do disposto no artigo 44.º do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos, os óleos minerais usados são recolhidos seletivamente, sempre que tecnicamente exequível, e tratados em conformidade com a seguinte hierarquia de operações de gestão, sem prejuízo da aplicação do conceito do ciclo de vida aos impactes globais da geração e gestão desses resíduos:\n\na) Regeneração;\n\nb) Outras formas de reciclagem;\n\nc) Outras formas de valorização.\n\n3 - Quando esteja em causa uma quantidade igual ou superior a 300 L, a entidade gestora procede, por si ou através de um operador de gestão de óleos usados, à sua recolha e transporte, num prazo máximo de 10 dias seguidos a contar da data da solicitação do produtor de óleos usados à entidade gestora e sem qualquer encargo para o produtor.\n\n4 - Nos municípios com uma população inferior a 6000 habitantes, a quantidade a que se refere o número anterior é de 190 L.\n\n5 - A entidade gestora procede, por si ou através de um operador de óleos usados, à disponibilização de um ponto de recolha por município onde os produtores não abrangidos pelos n.os 3 e 4 podem entregar gratuitamente os óleos usados."
+  },
+  "961951775": {
+   "fragment_id": "961951675",
+   "type": 11,
+   "heading": "Artigo 30.º — Instalações de armazenagem de óleos minerais usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Instalações de armazenagem de óleos minerais usados\n\n1 - Sem prejuízo do disposto na legislação em matéria de instrumentos de gestão territorial, a construção e o funcionamento de instalações de armazenagem de óleos minerais usados são proibidos nas seguintes localizações:\n\na) Em áreas sujeitas a inundação;\n\nb) Em terrenos cujas dimensões, confrontação ou disposição não permitam a aplicação de todas as normas constantes do presente diploma;\n\nc) Em zonas de elevada vulnerabilidade à poluição de águas subterrâneas e de ocorrência de fenómenos hidrotermais.\n\n2 - As instalações de armazenagem de óleos usados deverão:\n\na) Ser construídas em materiais incombustíveis e resistentes ao fogo;\n\nb) Ser devidamente impermeabilizadas e, quando localizadas no exterior, impedir a entrada de chuva;\n\nc) Prever a obtenção de eventuais escorrências.\n\n3 - Os pavimentos da instalação deverão dispor de caleiras, devendo a capacidade de contenção das respetivas bacias ser de 110 % da capacidade de armazenagem do maior contentor ou de 25 % da capacidade total dos contentores, consoante o que for maior, ou, em alternativa, os equipamentos poderão estar colocados dentro de bacia de contenção individual, a qual deverá possuir, pelo menos, 50 % da capacidade máxima do mesmo.\n\n4 - Os locais de armazenagem de óleos minerais usados devem:\n\na) Estar dotados de material absorvente pronto a usar em caso de pequenos derrames e ostentar, em local visível, instruções sobre a sua utilização e encaminhamento a dar aos resíduos resultantes da limpeza;\n\nb) Assegurar a adequada ventilação, sendo que o sistema de ventilação deverá ser dimensionado de forma a impedir a acumulação de gases inflamáveis em concentrações suscetíveis de causar danos para a saúde humana e para o ambiente, devendo ser considerados os quantitativos máximos de óleos minerais usados armazenados, bem como as características de construção do local;\n\nc) Estar devidamente identificado, sendo que todos os locais de acesso devem ostentar avisos relativos à proibição de fumar, atear fogo ou utilizar equipamentos suscetíveis de provocar faíscas ou calor;\n\nd) Ser dotados de extintores e outros meios de combate a incêndios, devidamente dimensionados, devendo ser considerados os quantitativos máximos de óleos minerais usados armazenados e as características de construção do local."
+  },
+  "961951975": {
+   "fragment_id": "961951875",
+   "type": 11,
+   "heading": "Artigo 31.º — Armazenagem de óleos minerais usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Armazenagem de óleos minerais usados\n\n1 - A armazenagem de óleos minerais usados, no local de produção e em instalações de operações de gestão de resíduos, independentemente da capacidade do equipamento, está sujeita ao cumprimento dos requisitos técnicos definidos nos números seguintes.\n\n2 - A armazenagem de óleos minerais usados deve ser efetuada de forma a não provocar qualquer dano para o ambiente nem para a saúde humana e a evitar a possibilidade de derrame, incêndio ou explosão, devendo ser respeitadas as condições de segurança relativas às características que conferem perigosidade aos resíduos.\n\n3 - A armazenagem em altura dos óleos minerais usados não deverá ultrapassar as três paletes, devendo as pilhas ser arrumadas de forma a permitir a circulação entre si e em relação às paredes da instalação e o necessário acesso de equipamento e veículos de emergência.\n\n4 - Os reservatórios ou embalagens utilizados na armazenagem de óleos minerais usados devem estar em boas condições, não apresentando sinais de enferrujamento severo nem exibindo sinais de deterioração, defeitos estruturais ou fugas visíveis.\n\n5 - A identificação dos óleos minerais usados deverá ser efetuada de acordo com as normas e regulamentos em vigor, devendo ser indelével e identificar, com toda a clareza, o código da Lista Europeia de Resíduos e as características que conferem perigosidade ao resíduo.\n\n6 - A armazenagem de óleos minerais usados deve, ainda, cumprir as seguintes regras:\n\na) Ser efetuada em equipamentos separados, relativamente a outros resíduos, nomeadamente resíduos facilmente inflamáveis;\n\nb) Ser efetuada de maneira que não seja possível a contaminação dos óleos, nomeadamente por água ou poeiras;\n\nc) Ser efetuada de forma que, em qualquer altura, seja possível a deteção de derrames e fugas."
+  },
+  "961952175": {
+   "fragment_id": "961952075",
+   "type": 11,
+   "heading": "Artigo 32.º — Construção de reservatórios superficiais para armazenamento de óleos minerais usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Construção de reservatórios superficiais para armazenamento de óleos minerais usados\n\nNa construção de reservatórios superficiais, na aceção da alínea ii) do n.º 1 do artigo 4.º, deverão ser observadas as seguintes disposições:\n\na) Os materiais utilizados na construção dos reservatórios deverão ser resistentes e totalmente impermeáveis, sendo que, no caso de serem usados materiais metálicos, as chapas devem possuir uma camada de proteção anticorrosão, incluindo a base, e ser soldadas ou cravadas de forma a serem absolutamente estanques, devendo ser cumpridas as normas internacionais EN 14015, API 650, BS 2654, DIN 4119, NEN 3850, CPR 9-3, BS 2594 ou BS 4994, relativas a esta matéria;\n\nb) Os reservatórios deverão estar colocados dentro da bacia de contenção, a qual deverá possuir, pelo menos, 50 % da capacidade máxima do reservatório, e encontrar-se em local devidamente coberto, sendo que, no caso de mais de um reservatório, a bacia de contenção deve ter 110 % da capacidade de armazenagem do maior reservatório ou 25 % da capacidade total dos reservatórios colocados dentro da bacia, consoante o que for maior;\n\nc) Em alternativa ao disposto na alínea anterior, os reservatórios podem ser de parede dupla e equipados com um detetor de fugas;\n\nd) A base e as paredes dos reservatórios não devem ser penetradas por qualquer dispositivo tipo válvula, tubo ou outra abertura para utilização como sistema de drenagem;\n\ne) Qualquer válvula, filtro ou outro equipamento auxiliar do reservatório deve estar situado dentro de uma bacia de contenção secundária;\n\nf) Caso a entrada de enchimento não esteja situada dentro de bacia de contenção secundária, deverá ser usado um tabuleiro para contenção de eventuais escorrências durante o processo de enchimento do reservatório."
+  },
+  "961952375": {
+   "fragment_id": "961952275",
+   "type": 11,
+   "heading": "Artigo 33.º — Construção de reservatórios subterrâneos para armazenamento de óleos minerais usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Construção de reservatórios subterrâneos para armazenamento de óleos minerais usados\n\n1 - É proibida a instalação de reservatórios subterrâneos, na aceção da alínea ii) do n.º 1 do artigo 4.º, para armazenamento de óleos minerais usados.\n\n2 - Os reservatórios subterrâneos para armazenamento de óleos minerais usados, existentes à data de entrada em vigor do presente diploma, deverão observar as seguintes disposições:\n\na) Ser de parede dupla ou de parede única com bacia de contenção com, pelo menos, 50 % da capacidade máxima do reservatório, e não poderão ter qualquer tipo de juntas, exceto nos locais destinados a acesso e inspeção, devidamente apetrechados com tampa;\n\nb) Ficar completamente envolvidos por uma camada de material não combustível que não danifique o material do mesmo, devendo ser cumpridas as normas internacionais API 1615, ASTM D 4021-92, DIN 6600, DIN EN 976, BS EN 976, AFNOR NF EN 976, CPR 9-1, referentes a esta matéria;\n\nc) O material de construção deve garantir a proteção adequada e resistência a danos físicos, bem como proteção anticorrosão;\n\nd) Estar devidamente apetrechados com dispositivo para a deteção de fugas, o qual deverá funcionar em contínuo e ser mantido e testado em intervalos de tempo apropriado, de modo a garantir o seu funcionamento adequado;\n\ne) Ser dotados de sistema de prevenção de extravase no caso de não ser acessível a observação do seu enchimento.\n\n3 - Os reservatórios referidos no número anterior, e caso não exista dispositivo para deteção de fugas, deverão ser devidamente testados, pelo menos, de três em três anos.\n\n4 - No prazo máximo de 15 anos, a contar da data da entrada em vigor do presente diploma, deverão ser desativados todos os reservatórios subterrâneos para armazenamento de óleos minerais usados."
+  },
+  "961952575": {
+   "fragment_id": "961952475",
+   "type": 11,
+   "heading": "Artigo 34.º — Reciclagem e valorização de óleos minerais usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Reciclagem e valorização de óleos minerais usados\n\n1 - São consideradas operações de reciclagem as operações de reprocessamento, no âmbito de um processo de produção, de óleos usados para o fim original ou para outros fins, nomeadamente a regeneração, a reutilização como lubrificante após tratamento e como matéria-prima para a transformação em produtos passíveis de serem utilizados posteriormente, excluindo a valorização energética.\n\n2 - As especificações técnicas a que terão de obedecer os óleos minerais usados e os óleos minerais usados resultantes da valorização, incluindo os óleos de base resultantes da regeneração, são aprovadas pela autoridade ambiental, mediante proposta da entidade gestora.\n\n3 - Os óleos minerais usados recolhidos terão obrigatoriamente de passar por um processo de tratamento caso não respeitem as especificações técnicas para a sua regeneração ou outras formas de valorização.\n\n4 - Os operadores de regeneração de óleos minerais usados deverão garantir que os óleos de base resultantes dessa operação não constituem substâncias perigosas nos termos da legislação aplicável.\n\n5 - É permitida a regeneração de óleos usados que contenham bifenilos e terfenilos policlorados (PCB), se a operação de regeneração permitir a destruição total desses PCB.\n\n6 - A comercialização de óleos minerais novos, formulados a partir de óleo de base resultante da regeneração, deverá ser efetuada em embalagens que ostentem informações relativas a essa prática, nomeadamente a percentagem de óleo de base resultante da regeneração efetivamente incorporada."
+  },
+  "961952775": {
+   "fragment_id": "961952675",
+   "type": 11,
+   "heading": "Artigo 35.º — Regras de amostragem e análise de óleos minerais usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Regras de amostragem e análise de óleos minerais usados\n\n1 - Os operadores de gestão de óleos minerais usados deverão assegurar, em função da operação que realizam, um sistema de controlo que permita:\n\na) A determinação das características do óleo usado recolhido junto de cada produtor;\n\nb) A determinação das características do óleo de base resultante das unidades de regeneração.\n\n2 - Para efeitos do cumprimento do previsto no número anterior, a determinação qualitativa de PCB nos óleos usados poderá ser realizada com recurso a método colorimétrico, devendo a determinação quantitativa de PCB nos óleos usados ser realizada com recurso aos métodos de referência adotados pela Decisão n.º 2001/68/CE, da Comissão, de 16 de janeiro.\n\n3 - Se determinado óleo usado, em resultado da aplicação do sistema de controlo previsto no n.º 1, for incompatível com o tipo de reciclagem ou valorização previsto, nomeadamente no que diz respeito ao cumprimento do limite máximo de 50 ppm de PCB, o operador de gestão fica obrigado a notificar a autoridade ambiental no prazo máximo de três dias, identificando o produtor de óleos usados e as quantidades envolvidas."
+  },
+  "961952975": {
+   "fragment_id": "961952875",
+   "type": 8,
+   "heading": "Secção III — Veículos em fim de vida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Veículos em fim de vida"
+  },
+  "961953175": {
+   "fragment_id": "961953075",
+   "type": 11,
+   "heading": "Artigo 36.º — Prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Prevenção\n\n1 - Com vista à promoção da prevenção e da valorização dos resíduos de veículos e de veículos em fim de vida, os fabricantes de veículos, em colaboração com os fabricantes de materiais e equipamentos, devem:\n\na) Controlar e reduzir a utilização de substâncias perigosas nos veículos, a partir da fase da sua conceção, com vista a evitar a sua libertação para o ambiente, a facilitar a reciclagem e a evitar a necessidade de eliminar resíduos perigosos;\n\nb) Nas fases de conceção e de produção de novos veículos, tomar em consideração a necessidade de desmantelamento, reutilização e valorização, especialmente a reciclagem, de veículos em fim de vida, bem como dos seus componentes e materiais;\n\nc) Integrar, progressivamente, uma quantidade crescente de materiais reciclados nos veículos, seus componentes ou outros produtos, com vista ao desenvolvimento do mercado de materiais reciclados.\n\n2 - Os fabricantes ou importadores de veículos e os fabricantes de materiais e de equipamentos para veículos devem adotar as medidas necessárias para que os materiais e os componentes dos veículos introduzidos no mercado não contenham chumbo, cádmio, mercúrio e crómio hexavalente, exceto nos casos expressamente admitidos pelo anexo i do presente diploma e que dele faz parte integrante, e nas condições aí especificadas.\n\n3 - O disposto no presente artigo não é aplicável aos veículos a motor de três rodas definidos na legislação aplicável."
+  },
+  "961953375": {
+   "fragment_id": "961953275",
+   "type": 11,
+   "heading": "Artigo 37.º — Codificação e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Codificação e informação\n\n1 - Com vista a facilitar a identificação dos componentes e materiais passíveis de reutilização e de valorização, os fabricantes ou importadores de veículos devem utilizar, para rotulagem e identificação de componentes e materiais de veículos, em colaboração com os fabricantes de materiais e de equipamentos, a nomenclatura das normas ISO de codificação referidas no anexo ii do presente diploma e que dele faz parte integrante.\n\n2 - Os fabricantes ou importadores de veículos fornecerão informações de ordem ambiental aos eventuais compradores, devendo as mesmas ser incluídas em publicações ou em meios eletrónicos de caráter publicitário utilizados na comercialização do novo veículo e referir-se:\n\na) À conceção dos veículos e seus componentes, tendo em vista a sua suscetibilidade de valorização, especialmente de reciclagem;\n\nb) Ao correto tratamento de veículos em fim de vida e, em especial, à remoção de todos os fluidos e ao desmantelamento;\n\nc) Ao desenvolvimento e otimização de formas de reutilização e de valorização, especialmente de reciclagem, de veículos em fim de vida e dos seus componentes;\n\nd) Aos progressos realizados em matéria de valorização, especialmente de reciclagem, no sentido de reduzir a quantidade de resíduos a eliminar e aumentar as taxas correspondentes.\n\n3 - Os operadores de tratamento deverão fornecer aos fabricantes ou importadores de veículos as informações previstas nas alíneas c) e d) do número anterior.\n\n4 - Os fabricantes ou importadores de veículos fornecerão, no prazo máximo de seis meses após o início da sua comercialização, informações de desmantelamento para cada tipo de novo veículo colocado no mercado, devendo as mesmas identificar os diferentes componentes e materiais, bem como a localização de todas as substâncias perigosas dos veículos, na medida do necessário para que os centros de tratamento possam cumprir as disposições estabelecidas no presente diploma e, nomeadamente, para que sejam atingidos os objetivos previstos no artigo 23.º\n\n5 - As informações de desmantelamento referidas no número anterior serão, nomeadamente, disponibilizadas pelos fabricantes ou importadores de veículos ou de peças, sob a forma de manuais ou meios eletrónicos aos centros de tratamento.\n\n6 - Sem prejuízo do segredo comercial e industrial, os fabricantes de componentes utilizados em veículos facultarão aos centros de tratamento, na medida em que estes o solicitem, as devidas informações sobre o desmantelamento, a armazenagem e o controlo dos componentes que podem ser reutilizados.\n\n7 - Sempre que tenham qualquer intervenção num processo que leve à declaração de perda total de um veículo interveniente num acidente, nos termos do disposto no artigo 41.º do Decreto-Lei n.º 291/2007, de 21 de agosto, com as alterações introduzidas pelo Decreto-Lei n.º 153/2008, de 6 de agosto, as empresas de seguros informam o respetivo proprietário da obrigatoriedade de apresentação de um certificado de destruição para efeitos de cancelamento da matrícula e do registo, e de quem é responsável por essa apresentação, sendo que este só poderá ser emitido por operadores licenciados ou concessionados.\n\n8 - A informação referida no número anterior é prestada pelas companhias de seguros no âmbito das comunicações previstas na alínea c) do n.º 4 do artigo 41.º do Decreto-Lei n.º 291/2007, de 21 de agosto.\n\n9 - O disposto no presente artigo não é aplicável aos fabricantes ou importadores de veículos que fabriquem ou importem exclusivamente veículos que cumpram as normas específicas aplicáveis aos veículos produzidos em pequenas séries."
+  },
+  "961953575": {
+   "fragment_id": "961953475",
+   "type": 11,
+   "heading": "Artigo 38.º — Centros de receção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Centros de receção\n\n1 - Os centros de receção de veículos em fim de vida estão sujeitos a licenciamento simplificado nos termos do disposto na alínea c) do n.º 1 do artigo 96.º do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos.\n\n2 - O funcionamento dos centros de receção está sujeito ao cumprimento dos requisitos técnicos mínimos constantes do n.º 1 do anexo iii do presente diploma, do qual faz parte integrante, sem prejuízo do cumprimento da demais legislação aplicável."
+  },
+  "961953775": {
+   "fragment_id": "961953675",
+   "type": 11,
+   "heading": "Artigo 39.º — Centros de desmantelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Centros de desmantelamento\n\n1 - As operações de gestão de veículos em fim de vida realizadas nos centros de desmantelamento estão sujeitas a licenciamento nos termos do disposto no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos, bem como aos requisitos técnicos mínimos constantes dos n.os 2, 2.1 e 2.2 do anexo iii do presente diploma, do qual faz parte integrante, sem prejuízo da demais legislação aplicável.\n\n2 - Os operadores de desmantelamento ficam obrigados a realizar as operações descritas no n.º 2.2 do anexo iii imediatamente após a receção de veículos em fim de vida, em todo o caso nunca excedendo o prazo de 15 dias úteis.\n\n3 - Os operadores de desmantelamento ficam obrigados a realizar as operações descritas no n.º 2.3 do anexo iii no prazo máximo de um ano após a receção do veículo em fim de vida.\n\n4 - É proibida a alteração da forma física de veículos em fim de vida, nomeadamente através de compactação ou fragmentação, que não tenham sido submetidos às operações referidas nos n.os 2.2 e 2.3 do anexo iii.\n\n5 - Não é considerada uma operação de reciclagem a valorização energética de resíduos de veículos em fim de vida."
+  },
+  "961953975": {
+   "fragment_id": "961953875",
+   "type": 11,
+   "heading": "Artigo 40.º — Sistema de controlo e registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Sistema de controlo e registo\n\n1 - Nos centros de receção deve ser implementado:\n\na) Um sistema de controlo dos documentos dos veículos em fim de vida rececionados e de registo dos seguintes elementos:\n\ni) Data da receção do veículo, matrícula, número de chassis, categoria, marca e modelo;\n\nii) Nome e número de identificação civil do último proprietário ou detentor;\n\nb) Sistema de registo do destinatário dos veículos em fim de vida rececionados.\n\n2 - Nos centros de desmantelamento deve ser implementado:\n\na) Um sistema de controlo dos documentos dos veículos em fim de vida rececionados e de registo dos seguintes elementos:\n\ni) Data da receção do veículo, matrícula, número de chassis, categoria, marca e modelo;\n\nii) Nome e número de identificação civil do último proprietário ou detentor;\n\niii) Nome e endereço do centro de receção de proveniência;\n\nb) Sistema de registo de quantidades de componentes e materiais retirados e encaminhados, por tipo de materiais ou componentes, e do respetivo destinatário, incluindo a parte remanescente da carroçaria ou chassis;\n\nc) Sistema de registo de frações resultantes da fragmentação, por tipo de materiais, e dos respetivos destinatários."
+  },
+  "961954175": {
+   "fragment_id": "961954075",
+   "type": 11,
+   "heading": "Artigo 41.º — Cancelamento da matrícula e emissão do certificado de destruição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Cancelamento da matrícula e emissão do certificado de destruição\n\n1 - O cancelamento da matrícula de um veículo em fim de vida encontra-se condicionado à exibição, perante o departamento do Governo Regional competente em matéria de transportes terrestres, de um certificado de destruição emitido por um centro de desmantelamento.\n\n2 - Para efeitos do disposto no n.º 1, aquando da entrega de um veículo em fim de vida num centro de receção ou num centro de desmantelamento o seu proprietário ou outros legítimos possuidores devem:\n\na) Entregar o documento único automóvel (DUA) ou documento legal equivalente;\n\nb) Requerer o cancelamento da respetiva matrícula, através do preenchimento de impresso de modelo legal, que será disponibilizado pelo centro de receção ou pelo centro de desmantelamento.\n\n3 - Quando se trate de veículos abandonados que se encontrem na posse das autoridades municipais ou policiais competentes nos termos do disposto no artigo 165.º do Código da Estrada, estas ficam dispensadas da apresentação da documentação referida no n.º 2.\n\n4 - Quando se trate de salvados e de veículos em situação de perda total na aceção do n.º 1 do artigo 41.º do Decreto-Lei n.º 291/2007, de 21 de agosto, a companhia de seguros fica dispensada de apresentar a documentação referida no n.º 2.\n\n5 - Nas situações previstas nos n.os 3 e 4, o detentor do veículo fica dispensado de apresentar o DUA ou documento legal equivalente, devendo apenas fazer prova de que o remeteu ao departamento do Governo Regional competente em matéria de transportes terrestres.\n\n6 - O centro de receção que recebe o veículo em fim de vida deverá proceder à sua identificação, conferir a respetiva documentação e remeter a mesma ao operador de desmantelamento, em conjunto com o veículo em fim de vida.\n\n7 - O centro de desmantelamento que recebe o veículo em fim de vida deve proceder à sua identificação, conferir a respetiva documentação, desmantelar o veículo e proceder à emissão do certificado de destruição, cujo modelo consta do anexo iv do presente diploma, do qual faz parte integrante.\n\n8 - A emissão do certificado de destruição só pode ocorrer após o desmantelamento do veículo em fim de vida.\n\n9 - O centro de desmantelamento deve conservar uma cópia do certificado de destruição por um período não inferior a cinco anos e remeter, no prazo máximo de cinco dias úteis a contar da data de desmantelamento do veículo em fim de vida:\n\na) O original do certificado de destruição ao proprietário ou legal detentor do veículo em fim de vida;\n\nb) Uma cópia do certificado de destruição à entidade gestora prevista no artigo 12.º ou aos fabricantes ou importadores de veículos que tenham optado pela constituição de sistemas individuais nos termos do disposto no artigo 10.º do presente diploma;\n\nc) Uma cópia do certificado de destruição, acompanhada da documentação referida no n.º 2 ao departamento do Governo Regional competente em matéria de transportes terrestres.\n\n10 - O departamento do Governo Regional competente em matéria de transportes terrestres, no prazo de 10 dias úteis:\n\na) Procede ao cancelamento da matrícula;\n\nb) Informa a autoridade ambiental de que procedeu ao cancelamento da matrícula e envia cópia do certificado de destruição.\n\n11 - A emissão de certificados de destruição não confere ao centro de desmantelamento o direito à perceção de qualquer reembolso.\n\n12 - Os certificados de destruição emitidos por outros Estados membros da União Europeia e que contenham todas as informações requeridas no anexo iv são válidos para efeitos de cancelamento da matrícula no território nacional."
+  },
+  "961954375": {
+   "fragment_id": "961954275",
+   "type": 11,
+   "heading": "Artigo 42.º — Atividade de transporte de veículos em fim de vida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Atividade de transporte de veículos em fim de vida\n\na) Sem prejuízo do estipulado no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos, o transporte de veículos em fim de vida está, ainda, sujeito ao cumprimento dos requisitos técnicos fixados no anexo v do presente diploma, do qual faz parte integrante.\n\nb) O transporte de veículos em fim de vida pode ser realizado por entidades licenciadas para a atividade de pronto-socorro.\n\nc) As disposições referidas nos números anteriores não são aplicáveis às situações em que o veículo é conduzido pelo respetivo proprietário ou detentor para um centro de receção ou um centro de desmantelamento."
+  },
+  "961954575": {
+   "fragment_id": "961954475",
+   "type": 11,
+   "heading": "Artigo 43.º — Carga, transporte e descarga dos veículos em fim de vida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Carga, transporte e descarga dos veículos em fim de vida\n\nÉ proibido proceder a alterações à forma física dos veículos em fim de vida durante a carga, transporte ou descarga daqueles resíduos, designadamente:\n\na) Por utilização de pinças metálicas para as operações de carga e descarga, devendo ser usadas cintas ou guinchos no caso dos porta-carros, ou outros métodos equivalentes;\n\nb) Por sobreposição direta dos veículos em fim de vida nas galeras, durante a carga, transporte e descarga, devendo ser utilizado um sistema de separação entre camadas."
+  },
+  "961954775": {
+   "fragment_id": "961954675",
+   "type": 8,
+   "heading": "Secção IV — Equipamentos elétricos e eletrónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Equipamentos elétricos e eletrónicos"
+  },
+  "961954975": {
+   "fragment_id": "961954875",
+   "type": 11,
+   "heading": "Artigo 44.º — Princípios de conceção e gestão de equipamentos elétricos e eletrónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Princípios de conceção e gestão de equipamentos elétricos e eletrónicos\n\n1 - Os equipamentos elétricos e eletrónicos pertencentes às categorias indicadas na parte A do anexo vi do presente diploma, do qual faz parte integrante, devem ser concebidos de forma a limitar a utilização das substâncias ou misturas perigosas referidas na parte B daquele anexo, com os valores máximos de concentração ponderal tolerados em materiais homogéneos ali referidos, reduzindo o caráter nocivo e a quantidade dos resíduos a eliminar.\n\n2 - Os equipamentos elétricos e eletrónicos pertencentes às categorias indicadas no anexo vi devem ser concebidos de forma a facilitar o seu desmantelamento e valorização e a não impedir a sua reutilização ou reciclagem, bem como dos seus componentes e materiais, salvo se essas características ou processos de fabrico específicos apresentarem vantagens de maior relevo, nomeadamente no que respeita à proteção do ambiente ou aos requisitos de segurança."
+  },
+  "961955175": {
+   "fragment_id": "961955075",
+   "type": 11,
+   "heading": "Artigo 45.º — Proibição de colocação no mercado de equipamentos elétricos e eletrónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Proibição de colocação no mercado de equipamentos elétricos e eletrónicos\n\n1 - Os equipamentos elétricos e eletrónicos abrangidos pelas categorias 1, 2, 3, 4, 5, 6, 7 e 10 indicadas no anexo vi, as lâmpadas elétricas e os aparelhos de iluminação de uso doméstico só podem ser colocados no mercado se não contiverem chumbo, mercúrio, cádmio, crómio hexavalente, polibromobifenilo (PBB) nem éter de difenilo polibromado (PBDE).\n\n2 - A proibição constante do n.º 1 não se aplica às utilizações indicadas no anexo vii do presente diploma, do qual faz parte integrante."
+  },
+  "961955375": {
+   "fragment_id": "961955275",
+   "type": 11,
+   "heading": "Artigo 46.º — Rotulagem de equipamentos elétricos e eletrónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Rotulagem de equipamentos elétricos e eletrónicos\n\n1 - Cada equipamento elétrico e eletrónico colocado no mercado após 13 de agosto de 2005 deve conter a identificação do produtor e exibir um símbolo que permita distingui-lo dos equipamentos elétricos e eletrónicos colocados no mercado antes da referida data.\n\n2 - Só podem ser colocados no mercado os equipamentos elétricos e eletrónicos que preencham todos os requisitos definidos no presente diploma e demais legislação aplicável.\n\n3 - De forma a facilitar a recolha seletiva de resíduos de equipamentos elétricos e eletrónicos, os produtores devem pôr, nos equipamentos elétricos e eletrónicos colocados no mercado depois de 13 de agosto de 2005, um símbolo cujo modelo consta do anexo viii do presente diploma, do qual faz parte integrante."
+  },
+  "961955575": {
+   "fragment_id": "961955475",
+   "type": 11,
+   "heading": "Artigo 47.º — Armazenagem e tratamento de resíduos de equipamentos elétricos e eletrónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Armazenagem e tratamento de resíduos de equipamentos elétricos e eletrónicos\n\n1 - A armazenagem e o tratamento de resíduos de equipamentos elétricos e eletrónicos devem, sem prejuízo do estipulado no número seguinte, ser efetuados de acordo com os requisitos técnicos definidos no anexo ix do presente diploma, do qual faz parte integrante.\n\n2 - O tratamento de resíduos de equipamentos elétricos e eletrónicos deve incluir, no mínimo, a remoção de todos os fluidos e um tratamento seletivo, de acordo com o disposto no anexo x do presente diploma, do qual faz parte integrante.\n\n3 - Não é considerada uma operação de reciclagem a valorização energética de resíduos de equipamentos elétricos e eletrónicos."
+  },
+  "961955775": {
+   "fragment_id": "961955675",
+   "type": 8,
+   "heading": "Secção V — Pilhas e acumuladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Pilhas e acumuladores"
+  },
+  "961955975": {
+   "fragment_id": "961955875",
+   "type": 11,
+   "heading": "Artigo 48.º — Obrigações dos fabricantes de pilhas ou acumuladores e dos fabricantes dos aparelhos que os contêm incorporados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Obrigações dos fabricantes de pilhas ou acumuladores e dos fabricantes dos aparelhos que os contêm incorporados\n\n1 - Os produtores de pilhas e acumuladores devem promover a investigação e o desenvolvimento de novas tecnologias de fabrico, bem como de tratamento e de reciclagem dos respetivos resíduos, tendo em vista a melhoria do desempenho ambiental das pilhas e acumuladores ao longo do ciclo de vida.\n\n2 - Os fabricantes de pilhas ou acumuladores devem conceber pilhas e acumuladores que progressivamente contenham menos substâncias perigosas, designadamente através da substituição dos metais pesados como o mercúrio, o cádmio e o chumbo, de forma a diminuir o seu impacte negativo no ambiente e na saúde humana.\n\n3 - Os fabricantes de aparelhos que contêm pilhas ou acumuladores incorporados devem assegurar que os mesmos são:\n\na) Concebidos de modo a facilitar a remoção dos resíduos de pilhas ou acumuladores;\n\nb) Acompanhados de instruções que informem o utilizador final sobre o tipo de pilhas ou acumuladores neles incorporados e sobre a remoção segura dos respetivos resíduos.\n\n4 - O disposto no número anterior não é aplicável quando, por razões médicas, de segurança, de desempenho do aparelho ou de preservação de dados, seja necessária a continuidade do fornecimento de energia exigindo uma ligação permanente entre o aparelho e a pilha ou acumulador."
+  },
+  "961956175": {
+   "fragment_id": "961956075",
+   "type": 11,
+   "heading": "Artigo 49.º — Proibição de colocação no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Proibição de colocação no mercado\n\n1 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 36.º, é proibida a colocação no mercado de:\n\na) Pilhas ou acumuladores, incorporados ou não em aparelhos, que contenham um teor ponderal de mercúrio superior a 5 ppm;\n\nb) Pilhas ou acumuladores portáteis, incluindo os incorporados em aparelhos, com um teor ponderal de cádmio superior a 20 ppm.\n\n2 - O disposto na alínea a) do número anterior não é aplicável às pilhas-botão com um teor ponderal de mercúrio inferior a 20 000 ppm.\n\n3 - O disposto na alínea b) do n.º 1 não é aplicável às pilhas e acumuladores portáteis utilizados em sistemas de alarme e de emergência, incluindo iluminação de emergência, aparelhos médicos e ferramentas elétricas sem fios."
+  },
+  "961956375": {
+   "fragment_id": "961956275",
+   "type": 11,
+   "heading": "Artigo 50.º — Rotulagem de pilhas e acumuladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Rotulagem de pilhas e acumuladores\n\n1 - Os produtores estão obrigados a rotular as pilhas e os acumuladores ou as baterias de pilhas colocadas no mercado com o símbolo cujo modelo consta do anexo viii, de forma a facilitar a recolha seletiva dos respetivos resíduos.\n\n2 - Os produtores de pilhas e acumuladores portáteis e de baterias e acumuladores para veículos automóveis estão obrigados a indicar nos mesmos, de forma visível, legível e indelével, a respetiva capacidade, de acordo com os métodos harmonizados de determinação da capacidade e do uso apropriado a definir pela Comissão Europeia.\n\n3 - As pilhas, os acumuladores e as pilhas-botão que contenham mais de 5 ppm de mercúrio, mais de 20 ppm de cádmio ou mais de 40 ppm de chumbo são marcados com o símbolo químico correspondente ao metal pesado em causa, o qual é impresso por baixo do símbolo referido no n.º 1 e deve abranger uma superfície mínima equivalente a um quarto da dimensão deste símbolo."
+  },
+  "961956575": {
+   "fragment_id": "961956475",
+   "type": 11,
+   "heading": "Artigo 51.º — Armazenagem e tratamento de pilhas e acumuladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Armazenagem e tratamento de pilhas e acumuladores\n\n1 - Os resíduos de baterias e acumuladores devem ser acondicionados em recipientes estanques, com uma composição que não reaja com os componentes dos referidos resíduos, e armazenados com o líquido no seu interior e na posição vertical, com aberturas fechadas e voltadas para cima.\n\n2 - Nos processos de tratamento devem ser extraídos todos os fluidos e ácidos.\n\n3 - É proibida a eliminação por deposição em aterro ou por incineração de resíduos de baterias e acumuladores industriais e para veículos automóveis.\n\n4 - A eliminação em aterro ou o armazenamento subterrâneo de resíduos de pilhas e de acumuladores portáteis que contenham mercúrio, cádmio ou chumbo só é admissível nos seguintes casos:\n\na) Quando o encaminhamento para valorização não seja viável;\n\nb) Quando resulte de um plano de gestão de resíduos, aprovado nos termos do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos, que preveja a eliminação progressiva dos referidos metais pesados e que demonstre, com base numa avaliação ambiental, económica e social, que a opção de eliminação é preferível à de reciclagem.\n\n5 - Compete à autoridade ambiental publicitar, no portal do Governo Regional na Internet, a avaliação ambiental referida no número anterior, bem como notificar a Comissão das medidas adotadas nos termos do Decreto-Lei n.º 58/2000, de 18 de abril, relativas aos procedimentos de informação no domínio das normas e regulamentação técnicas e às regras relativas aos serviços da sociedade de informação."
+  },
+  "961956775": {
+   "fragment_id": "961956675",
+   "type": 8,
+   "heading": "Secção VI — Óleos alimentares usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Óleos alimentares usados"
+  },
+  "961956975": {
+   "fragment_id": "961956875",
+   "type": 11,
+   "heading": "Artigo 52.º — Modalidades de gestão de óleos alimentares usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Modalidades de gestão de óleos alimentares usados\n\nSem prejuízo no disposto no artigo 9.º, a gestão dos óleos alimentares usados poderá ser assegurada por uma estrutura de gestão que inclua representantes dos produtores de óleos alimentares novos, dos sectores de distribuição, HORECA e industrial, dos municípios ou das entidades às quais estes tenham transmitido a responsabilidade pela gestão dos óleos alimentares usados e dos operadores de gestão de resíduos envolvidos no ciclo de vida dos óleos alimentares."
+  },
+  "961957175": {
+   "fragment_id": "961957075",
+   "type": 11,
+   "heading": "Artigo 53.º — Proibições no âmbito da gestão de óleos alimentares usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Proibições no âmbito da gestão de óleos alimentares usados\n\nNo âmbito da gestão de óleos alimentares usados, são proibidos os seguintes atos:\n\na) A introdução de óleos alimentares usados ou de substâncias recuperadas desses óleos na cadeia alimentar;\n\nb) A descarga de óleos alimentares usados nos sistemas de drenagem, individuais ou coletivos, de águas residuais;\n\nc) A deposição em aterro de óleos alimentares usados, nos termos do disposto no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos;\n\nd) A mistura de óleos alimentares usados com substâncias ou resíduos perigosos;\n\ne) A utilização, como combustível em veículos, de óleos alimentares usados que não cumpram os requisitos técnicos aplicáveis aos biocombustíveis nos termos do disposto na legislação em vigor."
+  },
+  "961957375": {
+   "fragment_id": "961957275",
+   "type": 11,
+   "heading": "Artigo 54.º — Rede de recolha seletiva municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Rede de recolha seletiva municipal\n\n1 - Os municípios são responsáveis pela recolha dos óleos alimentares usados, no caso de se tratar de resíduos urbanos cuja produção diária não exceda 1100 L ou 250 kg por produtor.\n\n2 - Para efeitos do disposto no número anterior, os municípios ou as entidades às quais estes tenham transmitido a responsabilidade pela gestão dos óleos alimentares usados promovem e gerem redes de recolha seletiva municipal de óleos alimentares usados.\n\n3 - Sem prejuízo do disposto no n.º 1, a rede de recolha seletiva municipal de óleos alimentares usados pode receber esses óleos provenientes de produtores cuja produção diária de resíduos urbanos exceda 1100 L ou 250 kg por produtor mediante a celebração de acordos voluntários para o efeito, entre o produtor e o município ou a entidade à qual este tenha transmitido a responsabilidade pela gestão desses óleos.\n\n4 - O sector da distribuição responsável por estabelecimentos de comércio a retalho e de comércio por grosso, em consonância com o Decreto Legislativo Regional n.º 26/2007/A, de 7 de dezembro, contribui para a constituição da rede de recolha seletiva municipal, devendo, para o efeito, disponibilizar locais adequados para a colocação de pontos de recolha seletiva de óleos alimentares usados.\n\n5 - Os produtores e os importadores de óleos alimentares novos podem igualmente contribuir, se solicitados pelo município ou pela entidade à qual este tenha transmitido a responsabilidade pela gestão dos óleos alimentares usados, para a constituição da rede de recolha seletiva municipal de óleos alimentares usados, disponibilizando locais adequados para a colocação de pontos de recolha seletiva.\n\n6 - O transporte de óleos alimentares usados referidos no n.º 1 para um ponto de recolha da rede de recolha seletiva municipal não carece da guia de acompanhamento de resíduos prevista no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro.\n\n7 - Em alternativa à constituição da rede de recolha seletiva municipal, podem os municípios constituir redes de recolha seletiva intermunicipais, entendendo-se como tal as que sejam geridas através de associações de municípios."
+  },
+  "961957575": {
+   "fragment_id": "961957475",
+   "type": 11,
+   "heading": "Artigo 55.º — Planeamento municipal da recolha seletiva de óleos alimentares usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Planeamento municipal da recolha seletiva de óleos alimentares usados\n\n1 - Os municípios evidenciam, nos planos de ação elaborados ao abrigo do disposto no artigo 23.º do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos, as ações previstas em matéria de recolha seletiva municipal de óleos alimentares usados.\n\n2 - Tendo em vista a constituição progressiva da rede de recolha seletiva municipal de óleos alimentares usados, são estabelecidos os seguintes objetivos para a disponibilização de pontos de recolha respeitando, no mínimo, os seguintes limiares:\n\na) Até 31 de dezembro de 2013, devem ser disponibilizados, pelo menos:\n\ni) 12 pontos de recolha por cada município com mais de 50 000 habitantes;\n\nii) Oito pontos de recolha por cada município com mais de 25 000 habitantes;\n\niii) Seis pontos de recolha por cada município com mais de 10 000 habitantes;\n\niv) Quatro pontos de recolha por cada município com mais de 5000 habitantes;\n\nv) Dois pontos de recolha por cada município com mais de 1000 habitantes;\n\nvi) Um ponto de recolha por cada município com menos de 1000 habitantes;\n\nb) Até 31 de dezembro de 2015, devem ser disponibilizados, pelo menos:\n\ni) 18 pontos de recolha por cada município com mais de 50 000 habitantes;\n\nii) 12 pontos de recolha por cada município com mais de 25 000 habitantes;\n\niii) Oito pontos de recolha por cada município com mais de 10 000 habitantes;\n\niv) Seis pontos de recolha por cada município com mais de 5000 habitantes;\n\nv) Três pontos de recolha por cada município com mais de 1000 habitantes;\n\nvi) Um ponto de recolha por cada município com menos de 1000 habitantes."
+  },
+  "961957775": {
+   "fragment_id": "961957675",
+   "type": 11,
+   "heading": "Artigo 56.º — Encaminhamento dos óleos alimentares usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Encaminhamento dos óleos alimentares usados\n\n1 - Os municípios são responsáveis pelo transporte e posterior valorização dos óleos alimentares usados recolhidos nas redes de recolha seletiva municipais.\n\n2 - A responsabilidade dos municípios prevista no n.º 1 extingue-se pela transmissão dos resíduos a um operador de gestão de resíduos licenciado ou concessionado.\n\n3 - Quando os municípios ou as entidades às quais estes tenham transmitido a responsabilidade pela gestão de óleos alimentares usados produzirem biocombustível, podem, nos termos da lei, beneficiar do regime de isenção fiscal em vigor."
+  },
+  "961957975": {
+   "fragment_id": "961957875",
+   "type": 11,
+   "heading": "Artigo 57.º — Encaminhamento dos óleos alimentares usados do sector HORECA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Encaminhamento dos óleos alimentares usados do sector HORECA\n\n1 - Os produtores de óleos alimentares usados do sector HORECA são responsáveis pelo seu encaminhamento para um dos seguintes destinos:\n\na) Operador de gestão de resíduos devidamente licenciado ou concessionado, sem custos para o produtor ou detentor;\n\nb) Município respetivo, através dos pontos de recolha previamente indicados pelo mesmo.\n\n2 - O encaminhamento de óleos alimentares usados de um estabelecimento HORECA para o município respetivo, nos casos em que a produção diária de resíduos urbanos exceda 1100 L ou 250 kg por produtor, é feito nos termos de acordo voluntário a estabelecer.\n\n3 - Os estabelecimentos do sector HORECA devem divulgar ao público o encaminhamento dos óleos alimentares usados produzidos mediante a afixação, em local visível, do certificado de óleos alimentares usados, com a seguinte informação:\n\na) Denominação e endereço da entidade que emite o certificado de recolha de óleos alimentares usados;\n\nb) Denominação, endereço e número de identificação fiscal do estabelecimento HORECA;\n\nc) Data de emissão e validade do certificado;\n\nd) Assinatura do operador de recolha de óleos alimentares usados ou do responsável do município.\n\n4 - O certificado de óleos alimentares usados referido no número anterior é emitido pelo município ou pelo operador de gestão de resíduos que assegura o encaminhamento dos respetivos óleos e tem a validade máxima de três anos."
+  },
+  "961958175": {
+   "fragment_id": "961958075",
+   "type": 11,
+   "heading": "Artigo 58.º — Encaminhamento dos óleos alimentares usados do sector industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Encaminhamento dos óleos alimentares usados do sector industrial\n\n1 - Os produtores de óleos alimentares usados do sector industrial são responsáveis pelo seu encaminhamento para um dos seguintes destinos:\n\na) Operador de gestão de resíduos devidamente licenciado ou concessionado, sem custos para o produtor ou detentor;\n\nb) Município respetivo, com o qual tenha celebrado acordos voluntários para o efeito, através dos pontos de recolha previamente indicados pelo mesmo.\n\n2 - O município ou o operador de gestão de resíduos que assegura o encaminhamento dos respetivos óleos alimentares usados emite um certificado de óleos alimentares usados com o conteúdo referido no n.º 3 do artigo anterior, com as devidas adaptações.\n\n3 - O certificado de óleos alimentares usados a que se refere o número anterior tem a validade máxima de três anos."
+  },
+  "961958375": {
+   "fragment_id": "961958275",
+   "type": 11,
+   "heading": "Artigo 59.º — Informação e sensibilização do público no domínio dos óleos alimentares usados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Informação e sensibilização do público no domínio dos óleos alimentares usados\n\n1 - As entidades representadas na estrutura de gestão a que se refere o artigo 52.º são corresponsáveis, na medida da intervenção de cada uma, pela promoção de ações de informação e sensibilização do público sobre boas práticas de gestão dos óleos alimentares usados e sobre os potenciais impactes negativos para a saúde e para o ambiente decorrentes da sua gestão inadequada.\n\n2 - Os produtores de óleos alimentares, individualmente ou através da estrutura de gestão a que se refere o artigo 52.º, promovem a execução de um programa trianual prevendo:\n\na) Ações de sensibilização e de informação do público, designadamente a disponibilização de informação nos rótulos dos óleos alimentares novos e junto dos locais de venda, bem como a realização de campanhas específicas;\n\nb) Ações na área da investigação e desenvolvimento no domínio da prevenção e valorização dos óleos alimentares usados.\n\n3 - O programa referido no número anterior deve estabelecer os objetivos a atingir, as ações previstas e os meios humanos, materiais e financeiros a afetar.\n\n4 - Os produtores dos óleos alimentares estão obrigados a reportar à autoridade ambiental a informação relativa às quantidades anualmente colocadas no mercado.\n\n5 - Os produtores de óleos alimentares, individualmente ou através da estrutura de gestão a que se refere o artigo 52.º, estão obrigados a remeter à autoridade ambiental o programa trianual de ações, até 30 de setembro do ano anterior ao triénio a que se reporta."
+  },
+  "961958575": {
+   "fragment_id": "961958475",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e regime contraordenacional"
+  },
+  "961958775": {
+   "fragment_id": "961958675",
+   "type": 11,
+   "heading": "Artigo 60.º — Fiscalização e inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Fiscalização e inspeção\n\n1 - A inspeção e fiscalização do cumprimento das disposições previstas no presente diploma compete aos serviços inspetivos competentes em matéria de ambiente, sem prejuízo das competências próprias da autoridade ambiental, da entidade reguladora dos serviços de águas e resíduos dos Açores, dos municípios, da Inspeção Regional das Atividades Económicas e das autoridades policiais.\n\n2 - Os serviços inspetivos competentes em matéria de ambiente podem solicitar a outras entidades, públicas ou privadas, a participação de técnicos e de especialistas nas ações de fiscalização ou de inspeção, sempre que essa intervenção se revelar necessária.\n\n3 - Sempre que a autoridade ambiental ou qualquer outra entidade competente tome conhecimento de situações que indiciem a prática de uma contraordenação prevista no presente diploma, deve dar notícia aos serviços inspetivos competentes em matéria de ambiente e remeter-lhes toda a documentação de que disponha, para efeito da instrução do processo de contraordenação e consequente decisão."
+  },
+  "961958975": {
+   "fragment_id": "961958875",
+   "type": 11,
+   "heading": "Artigo 61.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Instrução de processos e aplicação de sanções\n\nCompete aos serviços inspetivos competentes em matéria de ambiente a instrução dos processos de contraordenação instaurados no âmbito do presente diploma, bem como a decisão e aplicação das correspondentes coimas, apreensões e sanções acessórias."
+  },
+  "961959175": {
+   "fragment_id": "961959075",
+   "type": 11,
+   "heading": "Artigo 62.º — Classificação das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Classificação das contraordenações\n\n1 - Para efeitos da aplicação do disposto na Lei-Quadro das Contraordenações Ambientais, republicada pela Lei n.º 89/2009, de 31 de agosto, constitui contraordenação leve:\n\na) A violação, por parte da entidade gestora, da obrigação de reinvestir ou utilizar na sua atividade os resultados contabilísticos da sua atividade nos termos do disposto no n.º 3 do artigo 12.º;\n\nb) O não cumprimento, por parte dos distribuidores, do dever de aceitar a devolução dos respetivos resíduos, nos termos do disposto no n.º 4 do artigo 17.º;\n\nc) O não cumprimento do estipulado no n.º 7 do artigo 17.º;\n\nd) A não disponibilização de informação ao público nos locais de venda, em violação do disposto no artigo 19.º;\n\ne) O não cumprimento, por parte do produtor, das obrigações previstas nos n.os 1, 5, 6 e 7 do artigo 21.º;\n\nf) O não cumprimento do disposto nos n.os 2 e 3 do artigo 21.º;\n\ng) A armazenagem de resíduos em violação do disposto na parte final do n.º 3 do artigo 22.º;\n\nh) A violação do disposto nas alíneas c) e d) do n.º 1 e no n.º 2 do artigo 24.º;\n\ni) A violação das normas de armazenagem de pneus constantes do artigo 25.º;\n\nj) A utilização de pneus usados sem a autorização a que se refere o n.º 4 do artigo 26.º;\n\nk) A recolha e o transporte de óleos minerais usados em violação do disposto no artigo 29.º;\n\nl) A não rotulagem e a não prestação das informações previstas no n.º 6 do artigo 34.º;\n\nm) A não rotulagem e a não identificação de componentes e materiais de veículos e a não prestação das informações previstas no artigo 37.º;\n\nn) A violação dos requisitos aos quais se refere o n.º 1 do artigo 42.º;\n\no) A alteração da forma física dos veículos em fim de vida, em violação do disposto no artigo 43.º;\n\np) O não cumprimento, por parte dos produtores de equipamentos elétricos e eletrónicos, da obrigação de rotulagem, prevista no artigo 46.º;\n\nq) O não cumprimento, por parte dos produtores de pilhas e acumuladores portáteis e de baterias e acumuladores para veículos automóveis, da obrigação de rotulagem, prevista no artigo 50.º;\n\nr) A violação do disposto nas alíneas b) e c) do artigo 53.º;\n\ns) A não disponibilização, pelo sector da distribuição responsável por estabelecimentos de comércio a retalho e de comércio por grosso, de locais adequados para a colocação de pontos de recolha seletiva de óleos alimentares usados, em violação do disposto no n.º 4 do artigo 54.º;\n\nt) A violação do disposto no n.º 2 do artigo 55.º;\n\nu) O não encaminhamento dos óleos alimentares usados para os destinos adequados previstos nos n.os 1 e 2 do artigo 56.º, no n.º 1 do artigo 57.º e no n.º 1 do artigo 58.º;\n\nv) A não divulgação ao público do certificado de óleos alimentares usados, nos termos previstos no n.º 3 do artigo 57.º;\n\nw) O não cumprimento da obrigação de executar um programa trianual de ações, prevista no n.º 2 do artigo 59.º;\n\nx) O não cumprimento da obrigação de reportar à autoridade ambiental a informação relativa às quantidades anualmente colocadas no mercado, prevista no n.º 4 do artigo 59.º;\n\ny) O não cumprimento da obrigação de remeter à autoridade ambiental o programa trianual de ações, prevista no n.º 5 do artigo 59.º;\n\nz) O não cumprimento do disposto nos n.os 4 e 5 do artigo 68.º\n\n2 - Para efeitos da aplicação do disposto na Lei-Quadro das Contraordenações Ambientais, republicada pela Lei n.º 89/2009, de 31 de agosto, constitui contraordenação grave:\n\na) A colocação no mercado de produtos sem que a gestão dos respetivos resíduos tenha sido assegurada nos termos do disposto no n.º 1 do artigo 9.º;\n\nb) O não cumprimento da obrigação de garantir que os sistemas individuais ou integrados utilizem as melhores técnicas disponíveis para a proteção da saúde e do ambiente, bem como para o tratamento dos resíduos, prevista no n.º 2 do artigo 9.º;\n\nc) A violação do disposto no n.º 2 do artigo 11.º;\n\nd) O não exercício das competências previstas para a entidade gestora no artigo 13.º;\n\ne) O exercício da atividade da entidade gestora em violação do disposto no artigo 15.º;\n\nf) A violação do disposto no artigo 16.º;\n\ng) A realização de operações de gestão de resíduos em violação do disposto no artigo 22.º;\n\nh) A violação do disposto nas alíneas a) e b) do n.º 1 do artigo 24.º;\n\ni) A violação das disposições constantes do artigo 30.º;\n\nj) A violação das disposições constantes do artigo 31.º;\n\nk) A violação das disposições constantes do artigo 32.º;\n\nl) A violação das disposições constantes do artigo 33.º;\n\nm) O não cumprimento das regras de amostragem e análise previstas no n.º 1 do artigo 35.º, bem como a falta da notificação prevista no n.º 3 do artigo 35.º;\n\nn) A violação do disposto no artigo 36.º;\n\no) O exercício da atividade em violação do disposto no artigo 38.º, no artigo 39.º e no artigo 40.º;\n\np) A violação do disposto no artigo 41.º;\n\nq) O não cumprimento das obrigações de armazenagem e tratamento de resíduos elétricos e eletrónicos previstas nos n.os 1 e 2 do artigo 47.º;\n\nr) O não cumprimento, pelos fabricantes de aparelhos que contenham pilhas ou acumuladores, das obrigações previstas nos n.os 1, 2 e 3 do artigo 48.º;\n\ns) A violação das disposições constantes dos n.os 1 e 2 do artigo 51.º;\n\nt) A violação do disposto nas alíneas a), d) e e) do artigo 53.º;\n\nu) A violação do disposto no n.º 6 do artigo 68.º\n\n3 - Para efeitos da aplicação do disposto na Lei-Quadro das Contraordenações Ambientais, republicada pela Lei n.º 89/2009, de 31 de agosto, constitui contraordenação muito grave:\n\na) A violação do disposto nos artigos 28.º e 44.º e no n.º 1 do artigo 49.º;\n\nb) A colocação no mercado nacional de equipamentos elétricos e eletrónicos contendo substâncias proibidas, em violação do disposto no n.º 1 do artigo 45.º;\n\nc) A eliminação em aterro ou por incineração de resíduos de baterias e acumuladores industriais e para veículos automóveis em violação do disposto no n.º 3 artigo 51.º;\n\nd) A eliminação em aterro ou o armazenamento subterrâneo de resíduos de pilhas e acumuladores portáteis que contenham mercúrio, cádmio ou chumbo, sem que se verifique qualquer uma das condições de admissibilidade fixadas no n.º 4 do artigo 51.º\n\n4 - A tentativa e a negligência são puníveis."
+  },
+  "961959375": {
+   "fragment_id": "961959275",
+   "type": 11,
+   "heading": "Artigo 63.º — Sanções acessórias e apreensão cautelar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Sanções acessórias e apreensão cautelar\n\n1 - Sempre que a gravidade da infração o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos no regime das contraordenações ambientais.\n\n2 - A autoridade competente pode, ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no regime das contraordenações ambientais."
+  },
+  "961959575": {
+   "fragment_id": "961959475",
+   "type": 11,
+   "heading": "Artigo 64.º — Reposição da situação anterior à infração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Reposição da situação anterior à infração\n\n1 - Sem prejuízo do disposto no artigo anterior, o infrator está sempre obrigado à remoção das causas da infração e à reconstituição da situação anterior à prática da mesma.\n\n2 - Sempre que o dever de reposição da situação anterior não seja voluntariamente cumprido, os serviços competentes atuarão diretamente por conta do infrator, sendo as despesas cobradas coercivamente através do processo previsto para as execuções fiscais quando estas não forem pagas voluntariamente pelo infrator no prazo de 20 dias a contar da sua notificação, sem prejuízo do disposto no número seguinte.\n\n3 - Nas situações em que o infrator tenha prestado caução ou outra forma de garantia financeira no âmbito do licenciamento ou concessão das operações de gestão de resíduos nos termos da legislação aplicável, deverá a referida caução ser acionada para o pagamento das despesas não pagas voluntariamente a que se refere o número anterior e, em caso de insuficiência, ser o restante cobrado nos termos do mesmo número.\n\n4 - Constituem título executivo os documentos que titulam as despesas realizadas ao abrigo do disposto no n.º 2."
+  },
+  "961959775": {
+   "fragment_id": "961959675",
+   "type": 11,
+   "heading": "Artigo 65.º — Afetação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Afetação do produto das coimas\n\nO produto das coimas previstas no presente diploma constitui receita da Região Autónoma dos Açores, sem prejuízo da participação de outras entidades na receita, nos termos legalmente aplicáveis."
+  },
+  "961959975": {
+   "fragment_id": "961959875",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "961960175": {
+   "fragment_id": "961960075",
+   "type": 11,
+   "heading": "Artigo 66.º — Intercâmbio de informação e cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Intercâmbio de informação e cooperação\n\n1 - No âmbito do estabelecido pelo presente diploma, compete à autoridade ambiental manter o intercâmbio de informação em matéria de gestão de fluxos específicos de resíduos com as entidades nacionais e comunitárias.\n\n2 - Cabe à autoridade ambiental compilar e fornecer as informações necessárias para dar cumprimento aos relatórios trienais previstos nas diretivas transpostas pelo presente diploma.\n\n3 - No âmbito do disposto no n.º 2, a autoridade ambiental elabora, de três em três anos, relatórios técnicos de aplicação do disposto no presente diploma, os quais devem ser disponibilizados ao público nos termos previstos no Decreto Legislativo Regional n.º 19/2010/A, de 25 de maio, que regulamenta a elaboração e disponibilização de relatórios e informação pública sobre o estado do ambiente, regula o apoio às organizações não governamentais de ambiente e altera a composição e normas de funcionamento do CRADS.\n\n4 - Os relatórios devem conter informações técnicas pertinentes, nomeadamente sobre as experiências e resultados decorrentes da aplicação do disposto no presente diploma."
+  },
+  "961960375": {
+   "fragment_id": "961960275",
+   "type": 11,
+   "heading": "Artigo 67.º — Procedimentos em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Procedimentos em curso\n\nAos procedimentos já iniciados e não concluídos à data da entrada em vigor do presente diploma aplica-se o disposto nos regimes legais em vigor à data de entrada dos respetivos processos na autoridade ambiental."
+  },
+  "961960575": {
+   "fragment_id": "961960475",
+   "type": 11,
+   "heading": "Artigo 68.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Regime transitório\n\n1 - As autorizações atribuídas às entidades gestoras emitidas até à data de entrada em vigor do presente diploma mantêm-se posteriormente em vigor nos termos e nas condições em que foram emitidas, sem prejuízo do disposto no número seguinte.\n\n2 - No caso de serem necessárias alterações para a progressiva adaptação das autorizações referidas no número anterior às disposições previstas no presente diploma, a autoridade ambiental fixará um prazo, devidamente calendarizado, com as medidas adequadas para a sua concretização, atentas as situações concretas existentes.\n\n3 - O disposto no n.º 1 do artigo 21.º aplica-se, à data de entrada em vigor do presente diploma, apenas aos produtores de equipamentos elétricos e eletrónicos, pilhas, baterias e acumuladores e, após 2020, a todos os produtores.\n\n4 - Os pneus em utilização para os fins referidos nas alíneas c) e d) do n.º 1 do artigo 24.º devem ser retirados no prazo máximo de um ano após a entrada em vigor do presente diploma.\n\n5 - Os resíduos de equipamentos elétricos e eletrónicos utilizados como bebedouros para animais devem ser retirados no prazo máximo de dois anos após a entrada em vigor do presente diploma.\n\n6 - No caso de reservatórios superficiais para armazenamento de óleos usados, aos quais se refere o artigo 32.º, existentes à data de entrada em vigor do presente diploma e que tenham os dispositivos mencionados na alínea d) do mesmo artigo, as juntas desses dispositivos com as paredes ou com a base do reservatório deverão ser adequadamente seladas, de modo a garantir a estanquidade do mesmo.\n\n7 - O disposto no n.º 1 do artigo 45.º não é aplicável à reutilização de equipamentos elétricos e eletrónicos colocados no mercado antes de 1 de julho de 2006 ou às peças sobressalentes para reparação daqueles equipamentos."
+  },
+  "961960775": {
+   "fragment_id": "961960675",
+   "type": 11,
+   "heading": "Artigo 69.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Regime subsidiário\n\nEm tudo o que não estiver especialmente regulado no presente diploma em matéria de gestão dos resíduos a que este se refere, aplica-se subsidiariamente o disposto no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos."
+  },
+  "961960975": {
+   "fragment_id": "961960875",
+   "type": 11,
+   "heading": "Artigo 70.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias úteis após a data da sua publicação."
+  },
+  "961961175": {
+   "fragment_id": "961961075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de março de 2012.\n\nO Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.\n\nAssinado em Angra do Heroísmo em 7 de maio de 2012.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  },
+  "961961375": {
+   "fragment_id": "961961275",
+   "type": 14,
+   "heading": "Anexo I — Materiais e componentes isentos da aplicação do disposto no n.º 2 do artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Materiais e componentes isentos da aplicação do disposto no n.º 2 do artigo 36.º\n\n(ver documento original)\n\nNotas\n\na) Será tolerada uma concentração máxima de 0,1 %, em massa e por material homogéneo, de chumbo, crómio hexavalente e mercúrio e de 0,01 %, em massa por material homogéneo, de cádmio.\n\nb) É permitida a reutilização, sem limitações, de peças de veículos já colocadas no mercado na data do termo da exclusão, dado que a reutilização não está abrangida pelo disposto no n.º 2 do artigo 36.º\n\nc) As peças sobressalentes comercializadas depois de 1 de julho de 2003 e destinadas à utilização em veículos comercializados antes de 1 de julho de 2003 são isentas do disposto no n.º 2 do artigo 36.º Esta cláusula não se aplica à massa de equilíbrio de rodas, às escovas de carbono para motores elétricos e aos calços de travões."
+  },
+  "961961575": {
+   "fragment_id": "961961475",
+   "type": 14,
+   "heading": "Anexo II — Normas de codificação de componentes e materiais para veículos (às quais se refere o artigo 37.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Normas de codificação de componentes e materiais para veículos (às quais se refere o artigo 37.º)\n\n1 - As seguintes nomenclaturas aplicam-se à rotulagem e identificação de componentes e materiais plásticos, com peso superior a 100 g, utilizados em veículos:\n\nISO 1043-1 plásticos - símbolos e abreviaturas;\n\nParte 1: polímeros de base e suas características especiais;\n\nISO 1043-1 plásticos - símbolos e abreviaturas;\n\nParte 2: cargas e materiais de reforço;\n\nISO 11469 plásticos - identificação genérica e marcação de produtos plásticos.\n\n2 - A seguinte nomenclatura aplica-se à rotulagem e identificação de componentes e materiais elastómeros, com peso superior a 200 g, utilizados em veículos:\n\nISO 1629 borracha e látex - nomenclatura. Esta disposição não se aplica à rotulagem de pneus.\n\nOs símbolos «(menor que)» e «(maior que)» utilizados nas normas ISO podem ser substituídos por parêntesis."
+  },
+  "961961775": {
+   "fragment_id": "961961675",
+   "type": 14,
+   "heading": "Anexo III — Requisitos mínimos para a armazenagem e tratamento de veículos em fim de vida (aos quais se referem os artigos 38.º e 39.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Requisitos mínimos para a armazenagem e tratamento de veículos em fim de vida (aos quais se referem os artigos 38.º e 39.º)\n\n1 - Centros de receção de veículos em fim de vida antes do respetivo tratamento:\n\n1.1 - Requisitos para as instalações onde se realiza a armazenagem de veículos em fim de vida:\n\na) Equipamento de combate a incêndios;\n\nb) Zona de armazenagem de veículos em fim de vida impermeabilizada, com área suficiente para que os veículos em fim de vida não sejam colocados uns em cima dos outros ou de lado, equipada com sistema de recolha e tratamento de águas pluviais, águas de limpeza e de derramamentos e dotada de decantadores e separadores de óleos e gorduras, que permita cumprir a legislação relativa a descarga de águas residuais.\n\n2 - Centros de desmantelamento de veículos em fim de vida:\n\n2.1 - Requisitos para as instalações onde se realiza o desmantelamento de veículos em fim de vida:\n\na) Equipamento de combate a incêndios;\n\nb) Zona de armazenagem de veículos em fim de vida impermeabilizada, com área suficiente para que os mesmos não sejam colocados uns em cima dos outros ou de lado, equipada com sistema de recolha e tratamento de águas pluviais, águas de limpeza e de derramamentos e dotada de decantadores e separadores de óleos e gorduras, que permita cumprir a legislação relativa a descarga de águas residuais;\n\nc) Zona de desmantelamento devidamente coberta de forma a proporcionar proteção suficiente contra a chuva e contra o vento, com superfície impermeável e equipada com sistema de recolha e tratamento de águas de limpeza e de derramamentos e dotada de decantadores e separadores de óleos e gorduras, que permita cumprir a legislação relativa a descarga de águas residuais;\n\nd) Zona de armazenagem de componentes e materiais retirados, devidamente coberta de forma a proporcionar proteção suficiente contra a chuva e contra o vento, com superfície impermeável e equipada com sistema de recolha e tratamento de águas de limpeza e de derramamentos e dotada de decantadores e separadores de óleos e gorduras, que permita cumprir a legislação relativa a descarga de águas residuais.\n\ne) Esta zona deverá estar equipada com recipientes adequados e devidamente identificados para o armazenamento separado de acumuladores (com neutralização dos eletrólitos no próprio local ou noutro local), filtros, condensadores contendo PCB, fluidos e de componentes destinados a reutilização;\n\nf) Zona de armazenagem de frações resultantes da fragmentação impermeabilizada, equipada com sistema de recolha e tratamento de águas pluviais, águas de limpeza e de derramamentos e dotada de decantadores e separadores de óleos e gorduras, que permita cumprir a legislação nacional relativa a descarga de águas residuais.\n\ng) As operações de armazenagem são realizadas de forma a evitar danos nos componentes que contenham fluidos, nos componentes recuperáveis ou nos sobressalentes;\n\nh) Zona de armazenagem de pneus usados.\n\n2.2 - Operações de tratamento para a despoluição de veículos em fim de vida:\n\na) Remoção dos acumuladores e dos depósitos de gás liquefeito (GPL);\n\nb) Remoção ou neutralização dos componentes pirotécnicos, nomeadamente airbags e pré-tensores dos cintos de segurança;\n\nc) Remoção do combustível, incluindo o GPL, do óleo do motor, do óleo da transmissão, do óleo da caixa de velocidades, do óleo dos sistemas hidráulicos, dos líquidos de arrefecimento, do anticongelante, dos fluidos dos travões, dos fluidos dos sistemas de ar condicionado e de quaisquer outros fluidos contidos no VFV, a menos que sejam necessários para efeitos de reutilização das peças visadas;\n\nd) Remoção, na medida do possível, de todos os componentes identificados como contendo mercúrio;\n\ne) Remoção de todos os componentes e materiais rotulados ou de outro modo indicados nos termos do anexo i, no caso dos VFV das categorias M1, N1 e de veículos a motor de três rodas, com exclusão dos triciclos a motor.\n\n2.3 - Operações de tratamento a fim de promover a reutilização e a reciclagem de veículos em fim de vida:\n\na) Remoção de todos os componentes suscetíveis de reutilização como peças em segunda mão, quando técnica e economicamente viável;\n\nb) Remoção dos catalisadores;\n\nc) Remoção dos componentes metálicos que contenham cobre, alumínio e magnésio, se esses metais não forem separados no ato de fragmentação;\n\nd) Remoção de pneus;\n\ne) Remoção de grandes componentes de plástico, nomeadamente para-choques, painel de bordo, reservatórios de fluidos e outros, se estes materiais não forem separados no ato de fragmentação;\n\nf) Remoção dos vidros."
+  },
+  "961961975": {
+   "fragment_id": "961961875",
+   "type": 14,
+   "heading": "Anexo IV — Certificado de destruição de veículos em fim de vida (a que se refere o artigo 41.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Certificado de destruição de veículos em fim de vida (a que se refere o artigo 41.º)\n\n1 - Entidade que emite o certificado de destruição ou desmantelamento qualificado:\n\nDenominação: ...\n\nEndereço: ...\n\nNúmero da autorização prévia: ...\n\n2 - Autoridade competente responsável pela autorização prévia concedida à entidade que emite o certificado de destruição:\n\nDenominação: ...\n\nEndereço: ...\n\n3 - Proprietário/detentor:\n\nNome: ...\n\nEndereço: ...\n\n4 - Veículo em fim de vida:\n\nMatrícula: ...\n\nNúmero do quadro: ...\n\nCategoria: ...\n\nMarca: ...\n\nModelo: ...\n\n5 - Data em que é emitido o certificado: ...\n\n6 - Assinaturas do emissor do certificado e do proprietário/detentor do veículo entregue: ..."
+  },
+  "961962175": {
+   "fragment_id": "961962075",
+   "type": 14,
+   "heading": "Anexo V — Condições técnicas para a atividade de transporte rodoviário de veículos em fim de vida (às quais se refere o artigo 42.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Condições técnicas para a atividade de transporte rodoviário de veículos em fim de vida (às quais se refere o artigo 42.º)\n\n1 - Os veículos afetos ao exercício da atividade de transporte de veículos em fim de vida devem estar dotados de sistema adequado para contenção de eventuais derrames ou escorrências, de forma a impedir a afetação de solos e águas, tendo em vista a proteção do ambiente.\n\n2 - Em cada unidade de transporte de veículos em fim de vida estão disponíveis os meios adequados de combate a incêndio, bem como os produtos absorventes e adsorventes em quantidade adequada à dimensão da carga.\n\n3 - Quando, durante a carga, o transporte ou a descarga de veículos em fim de vida, se verificar um derrame de fluidos, a zona contaminada é imediatamente limpa com recurso a produtos absorventes ou adsorventes e os resíduos resultantes da limpeza são obrigatoriamente encaminhados para um destino licenciado para o respetivo tratamento, valorização ou eliminação, nos termos do disposto no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que fixou o regime geral de prevenção e gestão de resíduos."
+  },
+  "961962375": {
+   "fragment_id": "961962275",
+   "type": 14,
+   "heading": "Anexo VI — Categorias e normas referentes a equipamentos elétricos e eletrónicos (EEE) e seus resíduos (às quais se refere o artigo 44.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Categorias e normas referentes a equipamentos elétricos e eletrónicos (EEE) e seus resíduos (às quais se refere o artigo 44.º)\n\nParte A - Categorias de EEE abrangidos pelo presente diploma:\n\n1 - Grandes eletrodomésticos.\n\n2 - Pequenos eletrodomésticos.\n\n3 - Equipamento informático e de telecomunicações.\n\n4 - Equipamento de consumo.\n\n5 - Equipamento de iluminação.\n\n6 - Ferramentas elétricas e eletrónicas.\n\n7 - Brinquedos e equipamento de desporto e lazer.\n\n8 - Dispositivos médicos.\n\n9 - Instrumentos de monitorização e controlo, incluindo instrumentos industriais de monitorização e controlo.\n\n10 - Distribuidores automáticos.\n\n11 - Outros EEE não incluídos em nenhuma das categorias acima.\n\nParte B - Substâncias sujeitas à restrição a que se refere o n.º 1 do artigo 44.º e valores máximos de concentração ponderal tolerados em materiais homogéneos:\n\n1 - Chumbo - 0,1 %.\n\n2 - Mercúrio - 0,1 %.\n\n3 - Cádmio - 0,01 %.\n\n4 - Crómio hexavalente - 0,1 %.\n\n5 - Bifenilos polibromados (PBB) - 0,1 %.\n\n6 - Éteres difenílicos polibromados (PBDE) - 0,1 %."
+  },
+  "961962575": {
+   "fragment_id": "961962475",
+   "type": 14,
+   "heading": "Anexo VII — Aplicações isentas da restrição prevista no n.º 3 do artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — Aplicações isentas da restrição prevista no n.º 3 do artigo 44.º\n\nParte A - Aplicações isentas e âmbito e período de isenção\n\n(ver documento original)\n\nParte B - Aplicações isentas da restrição prevista no n.º 1 do artigo 44.º, no que respeita aos dispositivos médicos e aos instrumentos de monitorização e controlo\n\nEquipamentos que utilizam ou detetam radiação ionizante:\n\n1 - Chumbo, cádmio e mercúrio em detetores de radiação ionizante.\n\n2 - Rolamentos de chumbo em tubos de raios X.\n\n3 - Chumbo em dispositivos de amplificação da radiação eletromagnética: placas de microcanais (microchannel) e placas capilares.\n\n4 - Chumbo em fritas de vidro de tubos de raios X e intensificadores de imagem e chumbo em colas de fritas de vidro para a montagem de lasers a gás e de tubos de vácuo que convertem a radiação eletromagnética em eletrões.\n\n5 - Chumbo em blindagens contra a radiação ionizante.\n\n6 - Chumbo em objetos que servem como alvo para ensaios de raios X.\n\n7 - Cristais de estearato de chumbo para a difração de raios X.\n\n8 - Fontes de isótopos radioativos de cádmio para espectrómetros de fluorescência de raios X portáteis.\n\nSensores, detetores e elétrodos:\n\nChumbo:\n\na) Chumbo e cádmio em elétrodos seletivos de iões, incluindo o vidro dos elétrodos de pH.\n\nb) Ânodos de chumbo nos sensores eletroquímicos de oxigénio.\n\nc) Chumbo, cádmio e mercúrio em detetores de infravermelhos.\n\nd) Mercúrio em elétrodos de referência: cloreto de mercúrio com baixo teor de cloro, sulfato de mercúrio e óxidos de mercúrio.\n\nOutros:\n\n1 - Cádmio em lasers de hélio-cádmio.\n\n2 - Chumbo e cádmio em lâmpadas para espectroscopia de absorção atómica.\n\n3 - Chumbo em ligas, nomeadamente como supercondutor e condutor de temperatura em IRM.\n\n4 - Chumbo e cádmio em ligações metálicas para materiais supercondutores, em detetores IRM e SQUID.\n\n5 - Chumbo em contrapesos.\n\n6 - Chumbo em materiais piezoelétricos de cristal único para transdutores ultrassónicos.\n\n7 - Chumbo em soldas para a ligação a transdutores ultrassónicos.\n\n8 - Mercúrio em bridges de medição de alta precisão da capacidade e das perdas e em interruptores e relés RF de alta frequência em instrumentos de monitorização e controlo, que não excedam 20 mg de mercúrio por interruptor ou relé.\n\n9 - Chumbo em soldaduras de desfibrilhadores portáteis de emergência.\n\n10 - Chumbo em soldaduras de módulos de imagem de alto desempenho na zona dos infravermelhos, para deteção na gama dos 8-14 (mi)m.\n\n11 - Chumbo em ecrãs de cristais líquidos sobre silício (LCoS).\n\n12 - Cádmio em filtros de medição de raios X."
+  },
+  "961962775": {
+   "fragment_id": "961962675",
+   "type": 14,
+   "heading": "Anexo VIII — Símbolo para a marcação (a que se referem o n.º 3 do artigo 46.º e o artigo 50.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — Símbolo para a marcação (a que se referem o n.º 3 do artigo 46.º e o artigo 50.º)\n\n1 - O símbolo que indica a recolha separada de equipamentos elétricos e eletrónicos e de resíduos de pilhas e acumuladores é constituído por um contentor de lixo barrado com uma cruz, conforme indicado infra. O símbolo deve observar os seguintes requisitos:\n\na) Ser impresso de forma visível, legível e indelével;\n\nb) Ter uma dimensão máxima de 5 cm x 5 cm.\n\n2 - No caso das pilhas o símbolo deve:\n\na) Ocupar, no caso das pilhas cilíndricas, pelo menos 1,5 % da superfície da pilha ou acumulador e ter uma dimensão máxima de 5 cm x 5 cm;\n\nb) Ocupar, no mínimo, 3 % da superfície da face maior da pilha, acumulador ou bateria de pilhas.\n\n3 - Caso a pilha, acumulador ou bateria de pilhas tenha uma dimensão reduzida face aos requisitos referidos no número anterior, não é obrigatória a sua marcação, devendo imprimir-se na embalagem o símbolo com a dimensão mínima de 1 cm x 1 cm.\n\n(ver documento original)"
+  },
+  "961962975": {
+   "fragment_id": "961962875",
+   "type": 14,
+   "heading": "Anexo IX — Requisitos técnicos dos locais de armazenagem e tratamento (aos quais se refere o n.º 1 do artigo 47.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — Requisitos técnicos dos locais de armazenagem e tratamento (aos quais se refere o n.º 1 do artigo 47.º)\n\n1 - Locais para armazenagem, incluindo armazenamento temporário, dos resíduos de equipamentos elétricos e eletrónicos antes do tratamento, sem prejuízo do disposto na Diretiva n.º 1999/31/CE, do Conselho, de 26 de abril, relativa à deposição de resíduos em aterro:\n\na) Superfícies impermeáveis para áreas adequadas, apetrechadas com sistemas de recolha de derramamentos e, quando apropriado, decantadores e purificadores-desengorduradores;\n\nb) Revestimentos à prova de intempéries para áreas adequadas.\n\n2 - Locais para tratamento de resíduos de equipamentos elétricos e eletrónicos:\n\na) Balanças para medição do peso dos resíduos tratados;\n\nb) Superfícies impermeáveis e revestimentos à prova de intempéries para áreas adequadas, apetrechadas com sistemas de recolha de derramamentos e, quando apropriado, decantadores e purificadores-desengorduradores;\n\nc) Armazenamento adequado de peças sobressalentes desmontadas;\n\nd) Contentores adequados para armazenamento de pilhas, condensadores com PCB/PCT e outros resíduos perigosos, como resíduos radioativos;\n\ne) Equipamento para tratamento de águas, de acordo com a legislação em vigor nesta matéria."
+  },
+  "961963175": {
+   "fragment_id": "961963075",
+   "type": 14,
+   "heading": "Anexo X — Tratamento seletivo de materiais e componentes de resíduos de equipamentos elétricos e eletrónicos (a que se refere o n.º 2 do artigo 47.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo X — Tratamento seletivo de materiais e componentes de resíduos de equipamentos elétricos e eletrónicos (a que se refere o n.º 2 do artigo 47.º)\n\n1 - No mínimo, as substâncias, preparações e componentes a seguir indicados devem ser retirados de todos os resíduos de equipamentos elétricos e eletrónicos recolhidos separadamente:\n\na) Condensadores com policlorobifenilos (PCB) nos termos do disposto na Diretiva n.º 96/59/CE, do Conselho, de 16 de setembro, relativa à eliminação dos policlorobifenilos e dos policlorotrifenilos (PCB/PCT);\n\nb) Componentes contendo mercúrio, como interruptores ou lâmpadas de retroiluminação;\n\nc) Pilhas e baterias;\n\nd) Placas de circuitos impressos de telemóveis em geral e de outros aparelhos, se a superfície das placas de circuito impresso for superior a 10 cm2;\n\ne) Cartuchos de tóner, líquido e pastoso, bem como de tóner de cor;\n\nf) Plásticos contendo retardadores de chama bromados;\n\ng) Resíduos de amianto e componentes contendo amianto;\n\nh) Tubos de raios catódicos;\n\ni) Clorofluorocarbonetos (CFC), hidroclorofluorocarbonetos (HCFC), hidrofluorocarbonetos (HFC) e hidrocarbonetos (HC);\n\nj) Lâmpadas de descarga de gás;\n\nk) Ecrãs de cristais líquidos com a embalagem, sempre que adequado, com uma superfície superior a 100 cm2 e todos os ecrãs retroiluminados por lâmpadas de descarga de gás;\n\nl) Cabos elétricos para exterior;\n\nm) Componentes contendo fibras cerâmicas refratárias, tal como definidos na Diretiva n.º 97/69/CE, da Comissão, de 5 de dezembro, que adapta ao progresso técnico a Diretiva n.º 67/548/CEE, do Conselho, de 27 de junho, respeitante à classificação, embalagem e rotulagem das substâncias perigosas;\n\nn) Componentes contendo substâncias radioativas, com exceção dos componentes que estejam abaixo dos limiares de isenção estabelecidos no artigo 3.º e no anexo i da Diretiva n.º 96/29/EURATOM, do Conselho, de 13 de maio, que fixa as normas de segurança de base relativas à proteção sanitária da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes;\n\no) Condensadores eletrolíticos que contenham substâncias que causam preocupação (altura (maior que) 25 mm; diâmetro (maior que) 25 mm, ou volumes de proporções semelhantes).\n\n2 - As substâncias, preparações e componentes referidos no número anterior devem ser eliminados ou valorizados em conformidade com o disposto no artigo 4.º da Diretiva n.º 75/442/CEE, do Conselho, de 15 de julho.\n\n3 - Os componentes a seguir enumerados dos resíduos de equipamentos elétricos e eletrónicos recolhidos separadamente devem ser tratados conforme indicado:\n\na) Tubos de raios catódicos: o revestimento fluorescente deve ser retirado;\n\nb) Equipamentos contendo gases que empobreçam a camada de ozono ou tenham um potencial de aquecimento global (GWP) superior a 15, como os que se encontram na espuma e nos circuitos de refrigeração: os gases têm de ser devidamente extraídos e devidamente tratados. Os gases que empobrecem a camada de ozono têm de ser devidamente tratados em conformidade com o disposto no Regulamento (CE) n.º 2037/2000, do Parlamento Europeu e do Conselho, de 29 de junho, relativo às substâncias que empobrecem a camada de ozono;\n\nc) Lâmpadas de descarga de gás: o mercúrio deve ser retirado.\n\n4 - Atendendo a considerações de caráter ambiental e ao interesse da reutilização e da reciclagem, os n.os 1 e 2 devem ser aplicados de forma a não impedir uma reutilização ou reciclagem ambientalmente corretas dos componentes ou aparelhos completos."
+  },
+  "1071208975": {
+   "fragment_id": "961944075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma estabelece o regime jurídico a que fica sujeita a gestão dos seguintes fluxos específicos de resíduos:\n\na) Pneus e pneus usados;\n\nb) Óleos minerais novos e usados;\n\nc) Veículos e veículos em fim de vida e seus componentes e materiais;\n\nd) Equipamentos elétricos e eletrónicos e resíduos de equipamentos elétricos e eletrónicos;\n\ne) Pilhas, acumuladores e baterias, e respetivos resíduos;\n\nf) [Revogada.]\n\n2 - O presente diploma transpõe para a ordem jurídica regional os seguintes normativos:\n\na) Diretiva n.º 1987/101/CEE, do Conselho, de 22 de dezembro de 1986, que altera a Diretiva n.º 75/439/CEE, do Conselho, de 16 de junho, relativa à eliminação de óleos usados;\n\nb) Diretiva n.º 2000/53/CE, do Parlamento Europeu e do Conselho, de 18 de setembro, relativa aos veículos em fim de vida, alterada pela Diretiva n.º 2011/37/EU, da Comissão, de 30 de março, que altera o anexo ii da Diretiva n.º 2000/53/CE, do Parlamento Europeu e do Conselho, de 18 de setembro;\n\nc) Diretiva n.º 2011/65/UE, do Parlamento Europeu e do Conselho, de 8 de junho, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos;\n\nd) Diretiva n.º 2002/96/CE, do Parlamento Europeu e do Conselho, de 27 de janeiro de 2003, alterada pela Diretiva n.º 2003/108/CE, do Parlamento Europeu e do Conselho, de 8 de dezembro, relativas a resíduos de equipamentos elétricos e eletrónicos;\n\ne) Diretiva n.º 2008/103/CE, do Parlamento Europeu e do Conselho, de 19 de novembro, que altera a Diretiva n.º 2006/66/CE, do Parlamento Europeu e do Conselho, de 6 de setembro, relativa a pilhas e acumuladores e respetivos resíduos, no que respeita à colocação de pilhas e acumuladores no mercado;\n\nf) Diretiva n.º 2008/112/CE, do Parlamento Europeu e do Conselho, de 16 de dezembro, na parte em que esta altera as Diretivas n.os 2002/96/CE, do Parlamento Europeu e do Conselho, de 27 de janeiro de 2003, e 2000/53/CE, do Parlamento Europeu e do Conselho, de 18 de setembro, a fim de a adaptar ao Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro, relativo à classificação, rotulagem e embalagem de substâncias e misturas.\n\n> Alterado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+  },
+  "1071209175": {
+   "fragment_id": "961944675",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": "2026-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+   ],
+   "markdown": "###### Artigo 4.º — Definições\n\n1 - Para efeitos do presente diploma entende-se por:\n\na) «Aparelho alimentado a bateria» qualquer equipamento elétrico ou eletrónico, conforme definido nos termos da alínea l), que seja alimentado por pilhas ou acumuladores ou suscetível de o ser;\n\nb) «Armazenagem» a deposição temporária e controlada, por prazo determinado, de resíduos antes do seu tratamento, valorização ou eliminação;\n\nc) «Bateria de pilhas» o conjunto de pilhas ou acumuladores ligados entre si ou encerrados num invólucro formando uma unidade completa, não destinada a ser separada, nem aberta pelo utilizador final;\n\nd) «Bateria industrial» ou «acumulador industrial» a bateria ou acumulador concebidos exclusivamente para fins industriais ou profissionais ou utilizados em qualquer tipo de veículos elétricos, designadamente os utilizados como fonte de energia de emergência ou de reserva nos hospitais, aeroportos ou escritórios, os concebidos exclusivamente para terminais de pagamento portáteis em lojas e restaurantes e para leitores de código de barras em lojas, os utilizados em instrumentação ou em diversos tipos de aparelhos de medição, os utilizados em ligação com aplicações de energias renováveis como os painéis solares e os utilizados em veículos elétricos, como, por exemplo, carros, cadeiras de rodas, bicicletas, veículos utilizados nos aeroportos e veículos automáticos de transporte;\n\ne) «Bateria ou acumulador para veículos automóveis» a bateria ou acumulador utilizados para fornecer energia ao motor de arranque, para as luzes ou para a ignição;\n\nf) «Centro de desmantelamento» a instalação onde se procede à remoção e separação dos componentes de resíduos com vista à sua despoluição e à reutilização, à fragmentação, ao corte e ao retalhamento ou preparação para a valorização ou eliminação e quaisquer outras operações realizadas para fins de valorização e ou eliminação de veículos em fim de vida e dos seus componentes;\n\ng) «Centro de receção de resíduos» a instalação onde se procede à armazenagem e triagem de resíduos inseridos quer em sistemas integrados de gestão de fluxos de resíduos, quer em sistemas de gestão de resíduos urbanos;\n\nh) «Colocação no mercado» o fornecimento ou disponibilização de um produto a terceiros, a título oneroso ou gratuito, incluindo a importação para o território nacional e a transferência a partir de outro Estado membro;\n\ni) «Detentor de resíduos» o produtor dos resíduos ou a pessoa singular ou coletiva que tem os resíduos na sua posse;\n\nj) «Distribuidor» qualquer pessoa singular ou coletiva que, no âmbito da sua atividade profissional, forneça produtos a um utilizador;\n\nk) «Eliminação» qualquer operação que não seja de valorização, mesmo que tenha como consequência secundária a recuperação de substâncias ou de energia, nomeadamente as previstas no anexo i do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos;\n\nl) «Equipamentos elétricos ou eletrónicos» ou «EEE» os equipamentos cujo funcionamento adequado depende de correntes elétricas ou de campos eletromagnéticos, bem como os equipamentos para geração, transferência e medição dessas correntes e campos, pertencentes às categorias indicadas no anexo vi do presente diploma, do qual faz parte integrante, e concebidos para a utilização com uma tensão nominal não superior a 1000 V para corrente alterna e 1500 V para corrente contínua;\n\nm) «Ferramenta elétrica sem fios» qualquer aparelho portátil, incluído na categoria 6 da parte A do anexo vi, alimentado por pilhas ou acumuladores e destinado a atividades de construção, manutenção ou jardinagem;\n\nn) «Fluxos de resíduos» o tipo de produto componente de uma categoria de resíduos transversal a todas as origens, nomeadamente óleos minerais usados, óleos alimentares usados, pneus usados, resíduos de pilhas, acumuladores e baterias, veículos em fim de vida e resíduos de equipamentos elétricos e eletrónicos;\n\no) «Informações de desmantelamento» todas as informações necessárias ao tratamento adequado e compatível com o ambiente de um veículo em fim de vida;\n\np) «Melhores técnicas disponíveis» ou «MTDs» a fase de desenvolvimento mais avançada e eficaz das atividades e dos respetivos modos de exploração, que demonstre a aptidão prática de técnicas específicas para constituir, em princípio, a base dos valores limite de emissão com vista a evitar e, quando tal não seja possível, a reduzir de um modo geral as emissões e o impacte no ambiente no seu todo, entendendo-se por: (i) «melhores» as técnicas mais eficazes para alcançar um nível geral elevado de proteção do ambiente no seu todo; (ii) «técnicas» o modo como a instalação é projetada, construída, conservada, explorada e desativada, bem como as técnicas utilizadas no processo de produção, e (iii) «disponíveis» as técnicas desenvolvidas a uma escala que possibilite a sua aplicação no contexto do sector económico em causa em condições económica e tecnicamente viáveis, tendo em conta os custos e os benefícios, quer sejam ou não utilizadas ou produzidas a nível nacional ou comunitário e desde que acessíveis ao operador em condições razoáveis;\n\nq)  [Revogada.]\n\nr) «Óleos usados» quaisquer lubrificantes minerais ou sintéticos ou óleos industriais que se tenham tornado impróprios para o uso a que estavam inicialmente destinados, tais como os óleos usados dos motores de combustão e dos sistemas de transmissão, os óleos lubrificantes usados e os óleos usados de turbinas e sistemas hidráulicos;\n\ns) «Operador de gestão de resíduos» ou «operador» pessoas singulares ou coletivas, licenciadas ou concessionadas, responsáveis pela recolha, transporte, armazenagem, triagem, tratamento, valorização e eliminação dos resíduos, bem como pelas operações de descontaminação dos solos e monitorização dos locais de destino final após encerramento das respetivas instalações;\n\nt) «Outros veículos» quaisquer veículos classificados em categorias diferentes das indicadas na definição de veículo constante da alínea zz);\n\nu) «PCB» os policlorobifenilos, os policlorotrifenilos, o monometilotetraclorodifenilmetano, o monometilodiclorodifenilmetano, o monometilodibromodifenilmetano ou qualquer mistura com um teor acumulado das substâncias acima referidas superior a 0,005 % em peso;\n\nv) «Pilha ou acumulador portátil» qualquer pilha, pilha-botão, bateria de pilhas ou acumulador que seja fechado hermeticamente, possa ser transportado à mão e não seja uma bateria ou acumulador industrial, nem uma bateria ou acumulador para veículos automóveis, nomeadamente as pilhas constituídas por um elemento único, como, por exemplo, as pilhas AA e AAA, bem como as pilhas e acumuladores utilizados em telemóveis, computadores portáteis, ferramentas elétricas sem fios, brinquedos e aparelhos domésticos;\n\nw) «Pilha ou acumulador» qualquer fonte de energia elétrica obtida por transformação direta de energia química, constituída por uma ou mais células primárias não recarregáveis ou por um ou mais elementos secundários recarregáveis;\n\nx) «Pilha-botão» pequena pilha ou pequeno acumulador cilíndrico portátil de diâmetro superior à altura, utilizado para fins especiais, designadamente para aparelhos auditivos, relógios, pequenos aparelhos portáteis e dispositivos de alimentação de reserva;\n\ny) «Pneu recauchutado» o pneu usado que é objeto de processo industrial de acordo com as especificações técnicas aplicáveis, com vista à sua reutilização, sendo de novo colocado no mercado;\n\nz) «Pneus» os pneus utilizados em veículos motorizados, aeronaves, reboques, velocípedes e outros equipamentos, motorizados ou não motorizados, que os contenham;\n\naa) «Prevenção» as medidas previstas no n.º 2 do artigo 11.º do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos, quando tomadas antes de uma substância, material ou produto se ter transformado em resíduo;\n\nbb) «Produtor de produtos» qualquer pessoa, singular ou coletiva, que desenvolva, fabrique, embale ou faça embalar, transforme, trate, venda ou importe produtos, incluindo pneus em segunda mão, no âmbito da sua atividade profissional, independentemente da técnica de venda utilizada, incluindo a venda através da comunicação a distância;\n\ncc) «Produtor de resíduos» qualquer pessoa, singular ou coletiva, cuja atividade produza resíduos (produtor inicial dos resíduos) ou qualquer pessoa que efetue operações de pré-processamento, de mistura ou outras, que conduzam a uma alteração da natureza ou da composição inicial desses resíduos;\n\ndd) «Reciclagem» processo de transformação dos resíduos através do qual os materiais constituintes dos resíduos são novamente transformados em produtos, materiais ou substâncias para o seu fim original ou para outros fins, incluindo o reprocessamento de materiais orgânicos e excluindo a valorização energética e o reprocessamento em materiais que devam ser utilizados como combustível ou em operações de enchimento;\n\nee) «Recauchutagem» operação pela qual um pneu já utilizado, após cumprir o seu ciclo de vida para o qual foi projetado e concebido, é reconstruído de modo a permitir a sua utilização para o mesmo fim para que foi concebido;\n\nff) «Recolha seletiva» a recolha efetuada mantendo o fluxo de resíduos separado por tipo e natureza de forma a facilitar o tratamento específico;\n\ngg) «Recolha» a coleta de resíduos, incluindo a triagem e o armazenamento preliminares dos resíduos com vista ao seu transporte para uma instalação de tratamento de resíduos;\n\nhh) «Regeneração de óleos minerais usados», qualquer operação de reciclagem que permita produzir óleos de base mediante a refinação de óleos usados, designadamente mediante a remoção dos contaminantes, produtos de oxidação e aditivos que os referidos óleos contenham;\n\nii) «Reservatório» qualquer equipamento, superficial ou subterrâneo, que seja usado para a armazenagem de óleos minerais usados e que possua uma capacidade superior a 1000 L;\n\njj) «Resíduos» quaisquer substâncias ou objetos de que o detentor se desfaz ou tem intenção ou obrigação de se desfazer;\n\nkk) «Resíduos de equipamentos elétricos e eletrónicos (REEE) provenientes de particulares» os REEE provenientes do sector doméstico, bem como os REEE provenientes de fontes comerciais, industriais, institucionais ou outras que, pela sua natureza e quantidade, sejam semelhantes aos REEE provenientes do sector doméstico;\n\nll) «Resíduos de equipamentos elétricos e eletrónicos» ou «REEE» os equipamentos elétricos e eletrónicos que constituam um resíduo na aceção da alínea jj), incluindo todos os componentes, subconjuntos e materiais consumíveis que fazem parte integrante do equipamento no momento em que este é descartado, com exceção dos que façam parte de outros equipamentos não indicados no anexo vi;\n\nmm) «Reutilização» a utilização de produtos ou componentes mais de uma vez, sem que sofram qualquer tipo de alteração ou processamento complexo, apenas podendo ser sujeitos a lavagem, e independentemente de lhes ser atribuída a mesma função;\n\nnn) «Salvado» o veículo que, em consequência de acidente, tenha sofrido danos que impossibilitem definitivamente a sua circulação ou afetem gravemente as suas condições de segurança e que integre a esfera jurídica patrimonial de uma companhia de seguros por força de um contrato de seguro automóvel, nos termos da legislação aplicável, e que constitui um resíduo nos termos da alínea jj);\n\noo)  [Revogada.]\n\npp) «Sector doméstico» o sector relativo às habitações;\n\nqq)  [Revogada.]\n\nrr)  [Revogada.]\n\nss) «Sistemas intermunicipais» os sistemas municipais de abastecimento público de água, de disposição de águas residuais urbanas e de gestão de resíduos urbanos, geridos através de associações de municípios;\n\ntt) «Sistemas multimunicipais» sistemas de abastecimento público de água, de disposição de águas residuais urbanas e de gestão de resíduos urbanos, que sirvam pelo menos dois municípios e exijam, ou tenham exigido, um investimento predominante a efetuar pela administração regional autónoma em função de razões de interesse regional;\n\nuu) «Sistemas municipais» os sistemas de abastecimento público de água, de disposição de águas residuais urbanas e de gestão de resíduos urbanos, não abrangidos pela alínea anterior, independentemente de servirem um ou mais municípios;\n\nvv) «Substância ou mistura perigosa», qualquer substância ou mistura que preencha os critérios de qualquer das seguintes classes ou categorias de perigo estabelecidas no anexo i do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro: (i) classes de perigo 2.1 a 2.4, 2.6 e 2.7, 2.8 dos tipos A e B, 2.9, 2.10, 2.12, 2.13 das categorias 1 e 2, 2.14 das categorias 1 e 2, e 2.15 dos tipos A a F; (ii) classes de perigo 3.1 a 3.6, 3.7 (efeitos nocivos para a função sexual e a fertilidade ou para o desenvolvimento), 3.8 (efeitos que não sejam efeitos narcóticos), 3.9 e 3.10; (iii) classe de perigo 4.1, e (iv) classe de perigo 5.1;\n\nww) «Tratamento» qualquer operação de valorização ou de eliminação, incluindo a preparação prévia à valorização ou eliminação;\n\nxx) «Valorização» qualquer operação cujo resultado principal seja a transformação dos resíduos de modo a servirem um fim útil, substituindo outros materiais que, caso contrário, teriam sido utilizados para um fim específico, ou a preparação dos resíduos para esse fim, na instalação ou no conjunto da economia, nomeadamente as previstas no anexo iv do Decreto Legislativo Regional n.º 29/2011/A, de 16 de Novembro, que aprova o regime geral de prevenção e gestão de resíduos;\n\nyy) «Veículo em fim de vida» ou «VFV» um veículo que constitui um resíduo de acordo com a definição constante da alínea jj);\n\nzz) «Veículo» qualquer veículo classificado nas categorias M1 (veículos a motor destinados ao transporte de passageiros com oito lugares sentados, no máximo, além do lugar do condutor) ou N1 (veículos concebidos e construídos para o transporte de mercadorias com massa máxima não superior a 3,5 t) definidas no anexo ii do Decreto-Lei n.º 16/2010, de 12 de março, bem como os veículos a motor de três rodas definidos no Decreto-Lei n.º 30/2002, de 16 de fevereiro, na sua atual redação, com exclusão dos triciclos a motor.\n\n2 - Sem prejuízo do estipulado no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos, aos veículos abrangidos pelo disposto na alínea t) do número anterior é aplicável o disposto nos n.os 7 e 8 do artigo 37.º e nos artigos 38.º a 42.º\n\n> Alterado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+  },
+  "1071340175": {
+   "fragment_id": "961956875",
+   "type": 11,
+   "heading": "Artigo 52.º — Modalidades de gestão de óleos alimentares usados",
+   "in_force_from": "2026-04-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+   ],
+   "markdown": "###### Artigo 52.º — Modalidades de gestão de óleos alimentares usados\n\nSem prejuízo no disposto no artigo 9.º, a gestão dos óleos alimentares usados poderá ser assegurada por uma estrutura de gestão que inclua representantes dos produtores de óleos alimentares novos, dos sectores de distribuição, HORECA e industrial, dos municípios ou das entidades às quais estes tenham transmitido a responsabilidade pela gestão dos óleos alimentares usados e dos operadores de gestão de resíduos envolvidos no ciclo de vida dos óleos alimentares.\n\n> Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+  },
+  "1071340375": {
+   "fragment_id": "961957075",
+   "type": 11,
+   "heading": "Artigo 53.º — Proibições no âmbito da gestão de óleos alimentares usados",
+   "in_force_from": "2026-04-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+   ],
+   "markdown": "###### Artigo 53.º — Proibições no âmbito da gestão de óleos alimentares usados\n\nNo âmbito da gestão de óleos alimentares usados, são proibidos os seguintes atos:\n\na) A introdução de óleos alimentares usados ou de substâncias recuperadas desses óleos na cadeia alimentar;\n\nb) A descarga de óleos alimentares usados nos sistemas de drenagem, individuais ou coletivos, de águas residuais;\n\nc) A deposição em aterro de óleos alimentares usados, nos termos do disposto no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos;\n\nd) A mistura de óleos alimentares usados com substâncias ou resíduos perigosos;\n\ne) A utilização, como combustível em veículos, de óleos alimentares usados que não cumpram os requisitos técnicos aplicáveis aos biocombustíveis nos termos do disposto na legislação em vigor.\n\n> Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+  },
+  "1071340575": {
+   "fragment_id": "961957275",
+   "type": 11,
+   "heading": "Artigo 54.º — Rede de recolha seletiva municipal",
+   "in_force_from": "2026-04-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+   ],
+   "markdown": "###### Artigo 54.º — Rede de recolha seletiva municipal\n\n1 - Os municípios são responsáveis pela recolha dos óleos alimentares usados, no caso de se tratar de resíduos urbanos cuja produção diária não exceda 1100 L ou 250 kg por produtor.\n\n2 - Para efeitos do disposto no número anterior, os municípios ou as entidades às quais estes tenham transmitido a responsabilidade pela gestão dos óleos alimentares usados promovem e gerem redes de recolha seletiva municipal de óleos alimentares usados.\n\n3 - Sem prejuízo do disposto no n.º 1, a rede de recolha seletiva municipal de óleos alimentares usados pode receber esses óleos provenientes de produtores cuja produção diária de resíduos urbanos exceda 1100 L ou 250 kg por produtor mediante a celebração de acordos voluntários para o efeito, entre o produtor e o município ou a entidade à qual este tenha transmitido a responsabilidade pela gestão desses óleos.\n\n4 - O sector da distribuição responsável por estabelecimentos de comércio a retalho e de comércio por grosso, em consonância com o Decreto Legislativo Regional n.º 26/2007/A, de 7 de dezembro, contribui para a constituição da rede de recolha seletiva municipal, devendo, para o efeito, disponibilizar locais adequados para a colocação de pontos de recolha seletiva de óleos alimentares usados.\n\n5 - Os produtores e os importadores de óleos alimentares novos podem igualmente contribuir, se solicitados pelo município ou pela entidade à qual este tenha transmitido a responsabilidade pela gestão dos óleos alimentares usados, para a constituição da rede de recolha seletiva municipal de óleos alimentares usados, disponibilizando locais adequados para a colocação de pontos de recolha seletiva.\n\n6 - O transporte de óleos alimentares usados referidos no n.º 1 para um ponto de recolha da rede de recolha seletiva municipal não carece da guia de acompanhamento de resíduos prevista no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro.\n\n7 - Em alternativa à constituição da rede de recolha seletiva municipal, podem os municípios constituir redes de recolha seletiva intermunicipais, entendendo-se como tal as que sejam geridas através de associações de municípios.\n\n> Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+  },
+  "1071340775": {
+   "fragment_id": "961957475",
+   "type": 11,
+   "heading": "Artigo 55.º — Planeamento municipal da recolha seletiva de óleos alimentares usados",
+   "in_force_from": "2026-04-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+   ],
+   "markdown": "###### Artigo 55.º — Planeamento municipal da recolha seletiva de óleos alimentares usados\n\n1 - Os municípios evidenciam, nos planos de ação elaborados ao abrigo do disposto no artigo 23.º do Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, que aprova o regime geral de prevenção e gestão de resíduos, as ações previstas em matéria de recolha seletiva municipal de óleos alimentares usados.\n\n2 - Tendo em vista a constituição progressiva da rede de recolha seletiva municipal de óleos alimentares usados, são estabelecidos os seguintes objetivos para a disponibilização de pontos de recolha respeitando, no mínimo, os seguintes limiares:\n\na) Até 31 de dezembro de 2013, devem ser disponibilizados, pelo menos:\n\ni) 12 pontos de recolha por cada município com mais de 50 000 habitantes;\n\nii) Oito pontos de recolha por cada município com mais de 25 000 habitantes;\n\niii) Seis pontos de recolha por cada município com mais de 10 000 habitantes;\n\niv) Quatro pontos de recolha por cada município com mais de 5000 habitantes;\n\nv) Dois pontos de recolha por cada município com mais de 1000 habitantes;\n\nvi) Um ponto de recolha por cada município com menos de 1000 habitantes;\n\nb) Até 31 de dezembro de 2015, devem ser disponibilizados, pelo menos:\n\ni) 18 pontos de recolha por cada município com mais de 50 000 habitantes;\n\nii) 12 pontos de recolha por cada município com mais de 25 000 habitantes;\n\niii) Oito pontos de recolha por cada município com mais de 10 000 habitantes;\n\niv) Seis pontos de recolha por cada município com mais de 5000 habitantes;\n\nv) Três pontos de recolha por cada município com mais de 1000 habitantes;\n\nvi) Um ponto de recolha por cada município com menos de 1000 habitantes.\n\n> Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+  },
+  "1071340975": {
+   "fragment_id": "961957675",
+   "type": 11,
+   "heading": "Artigo 56.º — Encaminhamento dos óleos alimentares usados",
+   "in_force_from": "2026-04-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+   ],
+   "markdown": "###### Artigo 56.º — Encaminhamento dos óleos alimentares usados\n\n1 - Os municípios são responsáveis pelo transporte e posterior valorização dos óleos alimentares usados recolhidos nas redes de recolha seletiva municipais.\n\n2 - A responsabilidade dos municípios prevista no n.º 1 extingue-se pela transmissão dos resíduos a um operador de gestão de resíduos licenciado ou concessionado.\n\n3 - Quando os municípios ou as entidades às quais estes tenham transmitido a responsabilidade pela gestão de óleos alimentares usados produzirem biocombustível, podem, nos termos da lei, beneficiar do regime de isenção fiscal em vigor.\n\n> Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+  },
+  "1071341275": {
+   "fragment_id": "961957875",
+   "type": 11,
+   "heading": "Artigo 57.º — Encaminhamento dos óleos alimentares usados do sector HORECA",
+   "in_force_from": "2026-04-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+   ],
+   "markdown": "###### Artigo 57.º — Encaminhamento dos óleos alimentares usados do sector HORECA\n\n1 - Os produtores de óleos alimentares usados do sector HORECA são responsáveis pelo seu encaminhamento para um dos seguintes destinos:\n\na) Operador de gestão de resíduos devidamente licenciado ou concessionado, sem custos para o produtor ou detentor;\n\nb) Município respetivo, através dos pontos de recolha previamente indicados pelo mesmo.\n\n2 - O encaminhamento de óleos alimentares usados de um estabelecimento HORECA para o município respetivo, nos casos em que a produção diária de resíduos urbanos exceda 1100 L ou 250 kg por produtor, é feito nos termos de acordo voluntário a estabelecer.\n\n3 - Os estabelecimentos do sector HORECA devem divulgar ao público o encaminhamento dos óleos alimentares usados produzidos mediante a afixação, em local visível, do certificado de óleos alimentares usados, com a seguinte informação:\n\na) Denominação e endereço da entidade que emite o certificado de recolha de óleos alimentares usados;\n\nb) Denominação, endereço e número de identificação fiscal do estabelecimento HORECA;\n\nc) Data de emissão e validade do certificado;\n\nd) Assinatura do operador de recolha de óleos alimentares usados ou do responsável do município.\n\n4 - O certificado de óleos alimentares usados referido no número anterior é emitido pelo município ou pelo operador de gestão de resíduos que assegura o encaminhamento dos respetivos óleos e tem a validade máxima de três anos.\n\n> Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+  },
+  "1071341575": {
+   "fragment_id": "961958275",
+   "type": 11,
+   "heading": "Artigo 59.º — Informação e sensibilização do público no domínio dos óleos alimentares usados",
+   "in_force_from": "2026-04-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+   ],
+   "markdown": "###### Artigo 59.º — Informação e sensibilização do público no domínio dos óleos alimentares usados\n\n1 - As entidades representadas na estrutura de gestão a que se refere o artigo 52.º são corresponsáveis, na medida da intervenção de cada uma, pela promoção de ações de informação e sensibilização do público sobre boas práticas de gestão dos óleos alimentares usados e sobre os potenciais impactes negativos para a saúde e para o ambiente decorrentes da sua gestão inadequada.\n\n2 - Os produtores de óleos alimentares, individualmente ou através da estrutura de gestão a que se refere o artigo 52.º, promovem a execução de um programa trianual prevendo:\n\na) Ações de sensibilização e de informação do público, designadamente a disponibilização de informação nos rótulos dos óleos alimentares novos e junto dos locais de venda, bem como a realização de campanhas específicas;\n\nb) Ações na área da investigação e desenvolvimento no domínio da prevenção e valorização dos óleos alimentares usados.\n\n3 - O programa referido no número anterior deve estabelecer os objetivos a atingir, as ações previstas e os meios humanos, materiais e financeiros a afetar.\n\n4 - Os produtores dos óleos alimentares estão obrigados a reportar à autoridade ambiental a informação relativa às quantidades anualmente colocadas no mercado.\n\n5 - Os produtores de óleos alimentares, individualmente ou através da estrutura de gestão a que se refere o artigo 52.º, estão obrigados a remeter à autoridade ambiental o programa trianual de ações, até 30 de setembro do ano anterior ao triénio a que se reporta.\n\n> Revogado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+  },
+  "1071209375": {
+   "fragment_id": "961959075",
+   "type": 11,
+   "heading": "Artigo 62.º — Classificação das contraordenações",
+   "in_force_from": "2026-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+   ],
+   "markdown": "###### Artigo 62.º — Classificação das contraordenações\n\n1 - Para efeitos da aplicação do disposto na Lei-Quadro das Contraordenações Ambientais, republicada pela Lei n.º 89/2009, de 31 de agosto, constitui contraordenação leve:\n\na) A violação, por parte da entidade gestora, da obrigação de reinvestir ou utilizar na sua atividade os resultados contabilísticos da sua atividade nos termos do disposto no n.º 3 do artigo 12.º;\n\nb) O não cumprimento, por parte dos distribuidores, do dever de aceitar a devolução dos respetivos resíduos, nos termos do disposto no n.º 4 do artigo 17.º;\n\nc) O não cumprimento do estipulado no n.º 7 do artigo 17.º;\n\nd) A não disponibilização de informação ao público nos locais de venda, em violação do disposto no artigo 19.º;\n\ne) O não cumprimento, por parte do produtor, das obrigações previstas nos n.os 1, 5, 6 e 7 do artigo 21.º;\n\nf) O não cumprimento do disposto nos n.os 2 e 3 do artigo 21.º;\n\ng) A armazenagem de resíduos em violação do disposto na parte final do n.º 3 do artigo 22.º;\n\nh) A violação do disposto nas alíneas c) e d) do n.º 1 e no n.º 2 do artigo 24.º;\n\ni) A violação das normas de armazenagem de pneus constantes do artigo 25.º;\n\nj) A utilização de pneus usados sem a autorização a que se refere o n.º 4 do artigo 26.º;\n\nk) A recolha e o transporte de óleos minerais usados em violação do disposto no artigo 29.º;\n\nl) A não rotulagem e a não prestação das informações previstas no n.º 6 do artigo 34.º;\n\nm) A não rotulagem e a não identificação de componentes e materiais de veículos e a não prestação das informações previstas no artigo 37.º;\n\nn) A violação dos requisitos aos quais se refere o n.º 1 do artigo 42.º;\n\no) A alteração da forma física dos veículos em fim de vida, em violação do disposto no artigo 43.º;\n\np) O não cumprimento, por parte dos produtores de equipamentos elétricos e eletrónicos, da obrigação de rotulagem, prevista no artigo 46.º;\n\nq) O não cumprimento, por parte dos produtores de pilhas e acumuladores portáteis e de baterias e acumuladores para veículos automóveis, da obrigação de rotulagem, prevista no artigo 50.º;\n\nr) [Revogada.]\n\ns) [Revogada.]\n\nt) [Revogada.]\n\nu) [Revogada.]\n\nv) [Revogada.]\n\nw) [Revogada.]\n\nx) [Revogada.]\n\ny) [Revogada.]\n\nz) O não cumprimento do disposto nos n.os 4 e 5 do artigo 68.º\n\n2 - Para efeitos da aplicação do disposto na Lei-Quadro das Contraordenações Ambientais, republicada pela Lei n.º 89/2009, de 31 de agosto, constitui contraordenação grave:\n\na) A colocação no mercado de produtos sem que a gestão dos respetivos resíduos tenha sido assegurada nos termos do disposto no n.º 1 do artigo 9.º;\n\nb) O não cumprimento da obrigação de garantir que os sistemas individuais ou integrados utilizem as melhores técnicas disponíveis para a proteção da saúde e do ambiente, bem como para o tratamento dos resíduos, prevista no n.º 2 do artigo 9.º;\n\nc) A violação do disposto no n.º 2 do artigo 11.º;\n\nd) O não exercício das competências previstas para a entidade gestora no artigo 13.º;\n\ne) O exercício da atividade da entidade gestora em violação do disposto no artigo 15.º;\n\nf) A violação do disposto no artigo 16.º;\n\ng) A realização de operações de gestão de resíduos em violação do disposto no artigo 22.º;\n\nh) A violação do disposto nas alíneas a) e b) do n.º 1 do artigo 24.º;\n\ni) A violação das disposições constantes do artigo 30.º;\n\nj) A violação das disposições constantes do artigo 31.º;\n\nk) A violação das disposições constantes do artigo 32.º;\n\nl) A violação das disposições constantes do artigo 33.º;\n\nm) O não cumprimento das regras de amostragem e análise previstas no n.º 1 do artigo 35.º, bem como a falta da notificação prevista no n.º 3 do artigo 35.º;\n\nn) A violação do disposto no artigo 36.º;\n\no) O exercício da atividade em violação do disposto no artigo 38.º, no artigo 39.º e no artigo 40.º;\n\np) A violação do disposto no artigo 41.º;\n\nq) O não cumprimento das obrigações de armazenagem e tratamento de resíduos elétricos e eletrónicos previstas nos n.os 1 e 2 do artigo 47.º;\n\nr) O não cumprimento, pelos fabricantes de aparelhos que contenham pilhas ou acumuladores, das obrigações previstas nos n.os 1, 2 e 3 do artigo 48.º;\n\ns) A violação das disposições constantes dos n.os 1 e 2 do artigo 51.º;\n\nt) [Revogada.]\n\nu) A violação do disposto no n.º 6 do artigo 68.º\n\n3 - Para efeitos da aplicação do disposto na Lei-Quadro das Contraordenações Ambientais, republicada pela Lei n.º 89/2009, de 31 de agosto, constitui contraordenação muito grave:\n\na) A violação do disposto nos artigos 28.º e 44.º e no n.º 1 do artigo 49.º;\n\nb) A colocação no mercado nacional de equipamentos elétricos e eletrónicos contendo substâncias proibidas, em violação do disposto no n.º 1 do artigo 45.º;\n\nc) A eliminação em aterro ou por incineração de resíduos de baterias e acumuladores industriais e para veículos automóveis em violação do disposto no n.º 3 artigo 51.º;\n\nd) A eliminação em aterro ou o armazenamento subterrâneo de resíduos de pilhas e acumuladores portáteis que contenham mercúrio, cádmio ou chumbo, sem que se verifique qualquer uma das condições de admissibilidade fixadas no n.º 4 do artigo 51.º\n\n4 - A tentativa e a negligência são puníveis.\n\n> Alterado pelo/a Artigo 157.º do/a [Decreto Legislativo Regional n.º 7/2026/A - Diário da República n.º 49/2026, Série I de 2026-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2026-1070724089), em vigor a partir de 2026-04-10."
+  }
+ }
+}

@@ -1,0 +1,1196 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:284919:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-136478786",
+ "dre_path": "/dr/detalhe/portaria/1102-b-2000-284919",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-02-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:676832:por",
+     "title": "Portaria n.º 144/2006",
+     "published": "2006-02-20",
+     "dre_path": "/dr/detalhe/portaria/144-2006-676832"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "216136014",
+    "136574584",
+    "136574585",
+    "136574586",
+    "136574587",
+    "136574588",
+    "136574589",
+    "136574590",
+    "136574591",
+    "136574592",
+    "136574593",
+    "136574594",
+    "136574595",
+    "136574596",
+    "136574597",
+    "136574598",
+    "136574599",
+    "136574600",
+    "136574601",
+    "136574602",
+    "136574603",
+    "136574604",
+    "136574606",
+    "136574607",
+    "136574608",
+    "136574609",
+    "136574610"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:515207:por",
+     "title": "Declaração de Rectificação n.º 16-L/2000",
+     "published": "2000-11-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/16-l-2000-515207",
+     "date": "2000-11-27"
+    }
+   ]
+  },
+  {
+   "date": "2001-05-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:313810:por",
+     "title": "Portaria n.º 477/2001",
+     "published": "2001-05-10",
+     "dre_path": "/dr/detalhe/portaria/477-2001-313810"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "136574583",
+    "136574584",
+    "136574585",
+    "136574586",
+    "136574587",
+    "136574588",
+    "136574589",
+    "136574590",
+    "136574591",
+    "136574592",
+    "136574593",
+    "136574594",
+    "136574613",
+    "136574617",
+    "136574597",
+    "136574598",
+    "136574599",
+    "136574600",
+    "136574601",
+    "136574602",
+    "136574603",
+    "136574604",
+    "136574605",
+    "136574614",
+    "136574607",
+    "136574608",
+    "136574609",
+    "136574610"
+   ]
+  },
+  {
+   "date": "2006-02-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:676832:por",
+     "title": "Portaria n.º 144/2006",
+     "published": "2006-02-20",
+     "dre_path": "/dr/detalhe/portaria/144-2006-676832"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Revoga Artigo 11.º",
+    "Revoga Anexo II",
+    "Revoga Anexo III",
+    "Revoga Anexo IV",
+    "Revoga Anexo V"
+   ],
+   "fragments": [
+    "136574583",
+    "136574584",
+    "136574652",
+    "136574586",
+    "136574587",
+    "136574588",
+    "136574653",
+    "136574590",
+    "136574654",
+    "136574655",
+    "136574593",
+    "136574594",
+    "136574656",
+    "136574663",
+    "136574657",
+    "136574598",
+    "136574658",
+    "136574600",
+    "136574661",
+    "136574602",
+    "136574659",
+    "136574660",
+    "136574605",
+    "136574662",
+    "136574664",
+    "136574665",
+    "136574666",
+    "136574667"
+   ]
+  },
+  {
+   "date": "2010-12-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:306657:por",
+     "title": "Portaria n.º 1228/2010",
+     "published": "2010-12-06",
+     "dre_path": "/dr/detalhe/portaria/1228-2010-306657"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º",
+    "Altera Capítulo III",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "136574583",
+    "136574584",
+    "136574652",
+    "136574586",
+    "136574587",
+    "136574588",
+    "136582909",
+    "136582910",
+    "136574654",
+    "136574655",
+    "136574593",
+    "136574594",
+    "136582911",
+    "136574663",
+    "136574657",
+    "136582916",
+    "136582912",
+    "136582913",
+    "136582914",
+    "136582919",
+    "136582920",
+    "136582915",
+    "136574605",
+    "136582917",
+    "136582918",
+    "136574665",
+    "136574666",
+    "136574667"
+   ]
+  },
+  {
+   "date": "2020-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:136476387:por",
+     "title": "Portaria n.º 157/2020",
+     "published": "2020-06-24",
+     "dre_path": "/dr/detalhe/portaria/157-2020-136476387"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "136574583",
+    "136574584",
+    "136574652",
+    "136574586",
+    "136574587",
+    "136574588",
+    "136582909",
+    "136582910",
+    "136574654",
+    "136574655",
+    "136574593",
+    "136574594",
+    "136582911",
+    "136574663",
+    "136574657",
+    "136582916",
+    "136582921",
+    "136582922",
+    "136582914",
+    "136582919",
+    "136582920",
+    "136582915",
+    "136574605",
+    "136582917",
+    "136582918",
+    "136574665",
+    "136574666",
+    "136574667"
+   ]
+  },
+  {
+   "date": "2023-07-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216055969:por",
+     "title": "Portaria n.º 229/2023",
+     "published": "2023-07-24",
+     "dre_path": "/dr/detalhe/portaria/229-2023-216055969"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "216136014",
+    "216136015",
+    "216136016",
+    "216136017",
+    "216136018",
+    "216136019",
+    "216136020",
+    "216136021",
+    "216136022",
+    "216136023",
+    "216136024",
+    "216136025",
+    "216136026",
+    "216136027",
+    "216136028",
+    "216136029",
+    "216136030",
+    "216136031",
+    "216136032",
+    "216136033",
+    "216136034",
+    "216136035",
+    "216136036",
+    "216136037",
+    "216136038",
+    "216136039",
+    "216136040",
+    "216136041"
+   ]
+  }
+ ],
+ "fragments": {
+  "216136014": {
+   "fragment_id": "136478787",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-29",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1102-B/2000\n\nde 22 de Novembro\n\nO Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que define as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, determina no seu artigo 3.º quais os métodos de pesca admitidos em águas oceânicas e em águas interiores marítimas, remetendo para portaria do membro do Governo responsável pelo sector das pescas o estabelecimento das disposições reguladoras das características das artes e condições de exercício da pesca por qualquer daqueles métodos.\n\nCom a presente portaria regulamenta-se o método de pesca denominado «apanha», dando cumprimento ao citado normativo.\n\nAssim, ao abrigo do disposto no artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o Regulamento da Apanha, que faz parte integrante da presente portaria.\n\n2.º É revogado o n.º 3.º da Portaria n.º 305/89, de 21 de Abril.\n\n3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nREGULAMENTO DA APANHA"
+  },
+  "136574584": {
+   "fragment_id": "136478788",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "136574585": {
+   "fragment_id": "136478789",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento estabelece o regime jurídico da apanha de espécies animais marinhas.\n\n2 - O disposto neste Regulamento não se aplica à apanha em áreas concessionadas ou dominiais cujo uso privativo haja sido autorizado, bem como aos estabelecimentos de culturas marinhas e conexos."
+  },
+  "136574586": {
+   "fragment_id": "136478790",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito\n\nPara efeitos deste Regulamento, entende-se por apanha qualquer método de pesca que se caracteriza por ser uma actividade individual em que, de um modo geral, não são utilizados utensílios especialmente fabricados para esse fim, mas apenas as mãos ou os pés, ou eventualmente um animal, sem provocar ferimentos graves nas capturas."
+  },
+  "136574587": {
+   "fragment_id": "136478791",
+   "type": 1,
+   "heading": "Capítulo II — Regime de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime de actividade"
+  },
+  "136574588": {
+   "fragment_id": "136478792",
+   "type": 11,
+   "heading": "Artigo 3.º — Espécies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Espécies\n\n1 - Sem prejuízo do disposto no número seguinte, apenas podem ser objecto de apanha as espécies constantes do anexo I ao presente Regulamento.\n\n2 - Por despacho do membro do Governo responsável pelo sector das pescas, pode ser autorizada a apanha de outras espécies animais marinhas além das referidas no anexo I ao presente Regulamento."
+  },
+  "136574589": {
+   "fragment_id": "136478793",
+   "type": 11,
+   "heading": "Artigo 4.º — Apanha com fins científicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apanha com fins científicos\n\n1 - Sem prejuízo do disposto no número seguinte, a apanha de espécies animais marinhas com fins científicos compete aos organismos e entidades públicas que tenham por objecto a realização de estudos técnico-científicos no meio marinho ou a defesa da saúde pública, devendo para tal efeito os respectivos colectores estar munidos de uma declaração do organismo a que pertencem.\n\n2 - A apanha de espécies animais marinhas com fins científicos por outras pessoas singulares ou colectivas depende de autorização da Direcção-Geral das Pescas e Aquicultura (DGPA), ouvido o Instituto de Investigação das Pescas e do Mar (IPIMAR), a requerimento dos interessados, devendo ser dado conhecimento dessa autorização à autoridade marítima local."
+  },
+  "136574590": {
+   "fragment_id": "136478794",
+   "type": 11,
+   "heading": "Artigo 5.º — Apanha com fins comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apanha com fins comerciais\n\n1 - Considera-se apanha de espécies animais marinhas com fins comerciais toda a actividade definida nos termos do artigo 2.º que tenha por finalidade a comercialização das espécies capturadas.\n\n2 - A apanha com fins comerciais é exercida por pessoas singulares titulares de cartão e de licença de apanhador de espécies animais, só podendo efectivar-se em zonas públicas não licenciadas para outros fins nem interditas a esta actividade."
+  },
+  "136574591": {
+   "fragment_id": "136478795",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de exercício da apanha com fins comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de exercício da apanha com fins comerciais\n\nSem prejuízo das condições fixadas ao abrigo do disposto no artigo 10.º, a apanha com fins comerciais só pode ser exercida nas zonas definidas no anexo II ao presente Regulamento, do nascer ao pôr do Sol."
+  },
+  "136574592": {
+   "fragment_id": "136478796",
+   "type": 11,
+   "heading": "Artigo 7.º — Utensílios e instrumentos auxiliares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Utensílios e instrumentos auxiliares\n\n1 - Na apanha de espécies animais marinhas com fins comerciais só podem ser utilizados os utensílios ou instrumentos constantes das alíneas seguintes e caracterizados no anexo III ao presente Regulamento:\n\na) Adriça;\n\nb) Ancinho;\n\nc) Arrilhada;\n\nd) Faca de destroncar e de mariscar;\n\ne) Lapeira;\n\nf) Sacho de cabo curto;\n\ng) Outros utensílios ou instrumentos de uso marcadamente local, cujas características serão fixadas em regulamentos adequados.\n\n2 - Os apanhadores poderão ser portadores de dispositivo, tipo bolsa, que sirva exclusivamente para o transporte do resultado da apanha."
+  },
+  "136574593": {
+   "fragment_id": "136478797",
+   "type": 11,
+   "heading": "Artigo 8.º — Utilização de embarcação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Utilização de embarcação\n\nA utilização de embarcação na apanha de espécies animais marinhas só é permitida desde que se trate de embarcação de pesca ou auxiliar local, como meio de transporte dos apanhadores, dos utensílios, equipamentos e dos espécimes capturados."
+  },
+  "136574594": {
+   "fragment_id": "136478798",
+   "type": 11,
+   "heading": "Artigo 9.º — Exercício da apanha por mergulho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exercício da apanha por mergulho\n\n1 - A apanha exercida por apanhador totalmente imerso na água designa-se por apanha por mergulho.\n\n2 - A apanha por mergulho só é permitida desde que efectuada em apneia, isto é, sem auxílio de qualquer equipamento autónomo ou semiautónomo de respiração.\n\n3 - Durante a actividade, é obrigatória a utilização de uma bóia sinalizadora, de cor amarela, laranja ou vermelha, que pode ser esférica ou cilíndrica, com, pelo menos, 15 cm de raio e 15 l de capacidade e arvorando a bandeira A do Código Internacional de Sinais."
+  },
+  "136574595": {
+   "fragment_id": "136478799",
+   "type": 11,
+   "heading": "Artigo 10.º — Zonas de actividade e período de defeso - Proibição de uso de utensílios e equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Zonas de actividade e período de defeso - Proibição de uso de utensílios e equipamento\n\n1 - Para todas as espécies de moluscos bivalves é fixado, entre 1 de Maio e 15 de Junho de cada ano, um período de interdição de apanha por motivos biológicos.\n\n2 - Tendo em conta a situação dos recursos e factores de ordem sócio-económica, pode o membro do Governo responsável pelo sector das pescas, mediante despacho:\n\na) Proibir a apanha de qualquer das espécies referidas no anexo I ao presente Regulamento;\n\nb) Fixar máximos de captura por espécies e contingentes das licenças referidas no n.º 2 do artigo 50.º"
+  },
+  "136574596": {
+   "fragment_id": "136478800",
+   "type": 11,
+   "heading": "Artigo 11.º — Manifesto de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Manifesto de captura\n\n1 - Os titulares de licença de apanhador de espécies animais marinhas são obrigados a manifestar, trimestralmente, junto da DGPA as quantidades apanhadas das espécies referidas no anexo I ao presente Regulamento, bem como indicar o respectivo destino.\n\n2 - O manifesto previsto no número anterior é feito em impresso do modelo constante do anexo IV ao presente Regulamento e deve ser entregue nos 30 dias subsequentes ao termo do ano civil a que respeita.\n\n3 - O manifesto previsto nos números anteriores é obrigatório mesmo nos casos de repovoamento, devendo ser indicados as quantidades e o estabelecimento receptor."
+  },
+  "136574597": {
+   "fragment_id": "136478801",
+   "type": 11,
+   "heading": "Artigo 12.º — Tamanhos mínimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Tamanhos mínimos\n\nÀs espécies que podem ser objecto da apanha com fins comerciais aplica-se o disposto no artigo 48.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio."
+  },
+  "136574598": {
+   "fragment_id": "136478802",
+   "type": 1,
+   "heading": "Capítulo III — Do cartão de apanhador e licenciamento da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do cartão de apanhador e licenciamento da actividade"
+  },
+  "136574599": {
+   "fragment_id": "136478803",
+   "type": 11,
+   "heading": "Artigo 13.º — Cartão de apanhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cartão de apanhador\n\n1 - O cartão de apanhador, do modelo constante do anexo V ao presente Regulamento, é concedido pela DGPA aos indivíduos maiores de 16 anos.\n\n2 - O pedido de cartão deve ser dirigido ao director-geral das Pescas e Aquicultura em requerimento de que devem constar a identificação do requerente, a residência, as habilitações literárias ou profissionais e a área de actividade, devendo ser acompanhado dos seguintes elementos:\n\na) Fotocópia do bilhete de identidade;\n\nb) Fotocópia do cartão de contribuinte;\n\nc) Duas fotografias tipo passe.\n\n3 - O cartão de apanhador é pessoal e intransmissível."
+  },
+  "136574600": {
+   "fragment_id": "136478804",
+   "type": 11,
+   "heading": "Artigo 14.º — Validade e renovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Validade e renovação\n\nO cartão de apanhador é válido por 10 anos, sendo renovado a pedido do respectivo titular com a antecedência mínima de seis meses sobre a data da respectiva caducidade."
+  },
+  "136574601": {
+   "fragment_id": "136478805",
+   "type": 11,
+   "heading": "Artigo 15.º — Licença de apanhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Licença de apanhador\n\n1 - O exercício da actividade de apanha está sujeito a licenciamento a requerer anualmente à DGPA, através de formulário próprio a estabelecer por este organismo, pelos titulares de cartão válido de apanhador, nos termos dos artigos 75.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, sem prejuízo das especialidades constantes do presente Regulamento.\n\n2 - As licenças são atribuídas para a captura de uma ou mais espécies ou grupos de espécies constantes do anexo I ao presente Regulamento, a requerimento do interessado.\n\n3 - As licenças têm validade correspondente ao ano civil a que respeitam, devendo ser sempre acompanhadas do cartão de apanhador do respectivo titular.\n\n4 - A renovação da licença está condicionada ao cumprimento da obrigação prevista no artigo 11.º, bem como aos critérios e condições a fixar nos termos do artigo 74.º-A do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio."
+  },
+  "136574602": {
+   "fragment_id": "136478806",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo\n\nCompete à DGPA organizar e manter actualizado o registo de apanhadores de espécies animais marinhas licenciados nos termos do presente Regulamento."
+  },
+  "136574603": {
+   "fragment_id": "136478807",
+   "type": 11,
+   "heading": "Artigo 17.º — Substituição das licenças de mariscador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Substituição das licenças de mariscador\n\n1 - Por solicitação do respectivo titular, a DGPA substituirá, no prazo de 90 dias a contar do termo do prazo referido no número seguinte, as licenças de mariscadores emitidas ao abrigo do Decreto n.º 446/72, de 10 de Novembro, da Portaria n.º 254/79, de 31 de Maio, e do Decreto Regulamentar n.º 11/80, de 7 de Maio, pelos documentos referidos nos artigos 13.º e 15.º do presente Regulamento.\n\n2 - O pedido de substituição das licenças de mariscadores será feito dentro do período de 90 dias após a entrada em vigor do presente Regulamento, findo o qual não conferem ao seu titular qualquer legitimidade para o exercício da actividade."
+  },
+  "136574604": {
+   "fragment_id": "136478808",
+   "type": 11,
+   "heading": "Artigo 18.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regiões Autónomas\n\nAs competências atribuídas nos artigos 4.º, 11.º, 13.º, 15.º, 16.º e 17.º à DGPA consideram-se cometidas aos órgãos de Governo próprio das Regiões Autónomas."
+  },
+  "136574606": {
+   "fragment_id": "136478810",
+   "type": 14,
+   "heading": "Anexo I — Espécies animais marinhas que podem ser objecto de apanha nos termos do artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Espécies animais marinhas que podem ser objecto de apanha nos termos do artigo 3.º\n\nI - Univalves ou gastrópodos:\n\na) Borrelho, burrié ou caramujo (Littorina littorea, Gibbula spp. e Monodonta lineata);\n\nb) Buzina (Charonia spp.);\n\nc) Búzio, canilha (Phyllonotus trunculus e Bolinus brandaris);\n\nd) Ferro de engomar (Cymbium olla);\n\ne) Lapa (Patella spp.);\n\nf) Orelha ou lapa-real (Haliotis spp.).\n\nII - Bivalves ou lamelibrânquios:\n\na) Amêijoa-boa ou cristã (Ruditapes decussatus);\n\nb) Amêijoa-branca (Spisula solida e Spisula subtruncata);\n\nc) Amêijola, amêijoa-brilhante ou clame-dura (Callista chione);\n\nd) Amêijoa-cão ou bicuda (Venerupis aurea);\n\ne) Amêijoa-macha ou judia (Venerupispullastra);\n\nf) Amêijoa-redonda ou relógio (Dosinia exoleta);\n\ng) Amêijoa-vermelha ou amêijoa-rolada (Venerupis rhomboides);\n\nh) Amêijoa-lisa (Mactra spp.);\n\ni) Berbigão ou crica (Cerastoderma edule, Cerastoderma lamarckii e Cerastoderma glaucum);\n\nj) Berbigão-lustroso, (Laevicardium norvegicum);\n\nk) Castanhola, amêndoa-da-pedra ou castanha (Glycymeris glycymeris);\n\nl) Conquilha ou cadelinha (Donax trunculus e Donax vittatus);\n\nm) Lambujinha (Scrobicularia plana);\n\nn) Longueirão, lingueirão, faca, navalha ou canivete (Solen marginatus, Pharus legumen e Ensis spp.);\n\no) Mexilhão (Mytilus edulis e M. galloprovincialis);\n\np) Ostra-portuguesa, carcanhola ou cascabulho (Crassostrea angulata);\n\nq) Ostra-redonda ou ostra-plana (Ostrea edulis);\n\nr) Pé-de-burrinho (Venus striatula e Chamelea gallina);\n\ns) Pé-de-burro (Venus verrucosa);\n\nt) Taralhão (Lutraria lutraria);\n\nu) Vieira (Pecten maximus e Chlamys spp.);\n\nv) Funil escamudo, conquilhão (Pinna spp.).\n\nIII - Anelídeos e Sipunculídeos:\n\na) Casuleta (Sabella pavonina);\n\nb) Minhocão ou ganso (Marphysa sanguinea e Sipunculus spp.);\n\nc) Minhocas e casulos (poliquetas dos géneros Marphysa, Diopatra e Nereis).\n\nIV - Equinodermes:\n\na) Ouriços-do-mar (Paracentrotus lividus, Sphaerechinus granularis e Echinus spp.);\n\nb) Pepinos-do-mar (Holoturidae).\n\nV - Crustáceos:\n\na) Caranguejo-murraceiro (Eriphia verrucosa);\n\nb) Caranguejo-verde ou caranguejo-mouro (Carcinus maenas);\n\nc) Caranguejo-real (Chaceon affinis);\n\nd) Cavaco (Scyllarides latus);\n\ne) Craca (Megabalanus spp.);\n\nf) Escava-terra ou bocas-de-cavalete (Uca tangeri);\n\ng) Grilos, cigarros ou bruxas (Scyllarus arctus);\n\nh) Navalheiras (Necora puber e Liocarcinus spp.);\n\ni) Percebe ou perceve (Pollicipes pollicipes);\n\nj) Ralo (Upogebia spp.);\n\nl) Santola (Maja squinado)."
+  },
+  "136574607": {
+   "fragment_id": "136478811",
+   "type": 14,
+   "heading": "Anexo II — Zonas a que se refere o artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Zonas a que se refere o artigo 6.º\n\nZona Norte:\n\nDesde a foz do rio Minho (fronteira) até ao monte Negro, a sul da praia da Cortegaça (área de jurisdição das capitanias de Caminha, Viana do Castelo, Póvoa de Varzim, Vila do Conde, Leixões e Douro).\n\nZona Centro-Norte:\n\nDesde o monte Negro, a sul da praia da Cortegaça, até Pedrógão, no ponto em que a ribeira entre esta povoação e a de Casal Ventoso encontra a linha de baixa-mar (área de jurisdição das capitanias de Aveiro e Figueira da Foz).\n\nZona Centro-Sul:\n\nDesde Pedrógão, no ponto em que a ribeira entre esta povoação e a de Casal Ventoso encontra a linha de baixa-mar, até à foz da ribeira de Seixe, definida pela intersecção do curso da ribeira com a linha de baixa-mar (área de jurisdição das capitanias de Nazaré, Peniche, Cascais, Lisboa, Setúbal e Sines).\n\nZona Sul:\n\nDesde a foz da ribeira de Seixe, definida pela intersecção do curso da ribeira com a linha de baixa-mar, até à foz do rio Guadiana (fronteira) (área de jurisdição das capitanias de Lagos, Portimão, Faro, Olhão, Tavira e Vila Real de Santo António).\n\nRegião Autónoma dos Açores (ver nota *).\n\nRegião Autónoma da Madeira (ver nota *).\n\n(nota *) A definir pelos órgãos próprios de Governo Regional."
+  },
+  "136574608": {
+   "fragment_id": "136478812",
+   "type": 14,
+   "heading": "Anexo III — Reprodução dos utensílios e instrumentos auxiliares referidos no artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Reprodução dos utensílios e instrumentos auxiliares referidos no artigo 7.º\n\na) Adriça - utensílio constituído por uma haste metálica em ponta, normalmente de forma cónica.\n\n(ver documento original)\n\nb) Ancinho - utensílio constituído por uma barra com dentes fixada a um cabo.\n\n(ver figuras no documento original)\n\nc) Arrilhada - utensílio constituído por uma lâmina romba, de forma aproximadamente rectangular, montada num cabo ou adaptada para se prender ao braço.\n\n(ver figura no documento original)\n\nd) Faca de destroncar - utensílio constituído por uma lâmina metálica com forma variável, de bordos cortantes, fixada ou não a um cabo de madeira curto.\n\n(ver figura no documento original)\n\ne) Lapeira - utensílio constituído por uma lâmina com forma rectangular, normalmente afiada na extremidade, fixada a um cabo de madeira ou de outro material.\n\n(ver figura no documento original)\n\nf) Sacho de cabo curto para apanha de poliquetas\n\n(ver figura no documento original)"
+  },
+  "136574609": {
+   "fragment_id": "136478813",
+   "type": 14,
+   "heading": "Anexo IV — Manifesto de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Manifesto de captura\n\n(a que se refere o artigo 11.º)\n\n(ver modelo no documento original)"
+  },
+  "136574610": {
+   "fragment_id": "136478814",
+   "type": 14,
+   "heading": "Anexo V — Modelos do cartão de apanhador e da licença de apanhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Modelos do cartão de apanhador e da licença de apanhador\n\n(ver modelos no documento original)"
+  },
+  "136574583": {
+   "fragment_id": "136478787",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que define as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, determina no seu artigo 3.º quais os métodos de pesca admitidos em águas oceânicas e em águas interiores marítimas, remetendo para portaria do membro do Governo responsável pelo sector das pescas o estabelecimento das disposições reguladoras das características das artes e condições de exercício da pesca por qualquer daqueles métodos.\n\nCom a presente portaria regulamenta-se o método de pesca denominado «apanha», dando cumprimento ao citado normativo.\n\nAssim, ao abrigo do disposto no artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o Regulamento da Apanha, que faz parte integrante da presente portaria.\n\n2.º É revogado o n.º 3.º da Portaria n.º 305/89, de 21 de Abril.\n\n3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nREGULAMENTO DA APANHA"
+  },
+  "136574613": {
+   "fragment_id": "136478799",
+   "type": 11,
+   "heading": "Artigo 10.º — Zonas de actividade e período de defeso - Proibição de uso de utensílios e equipamento",
+   "in_force_from": "2000-11-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+   ],
+   "markdown": "###### Artigo 10.º — Zonas de actividade e período de defeso - Proibição de uso de utensílios e equipamento\n\n1 - Para todas as espécies de moluscos bivalves é fixado, entre 1 de Maio e 15 de Junho de cada ano, um período de interdição de apanha por motivos biológicos.\n\n2 - Tendo em conta a situação dos recursos e factores de ordem sócio-económica, pode o membro do Governo responsável pelo sector das pescas, mediante despacho:\n\na) Proibir a apanha de qualquer das espécies referidas no anexo I ao presente Regulamento;\n\nb) Fixar máximos de captura por espécies e contingentes das licenças referidas no n.º 2 do artigo 5.º\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+  },
+  "136574617": {
+   "fragment_id": "136478800",
+   "type": 11,
+   "heading": "Artigo 11.º — Manifesto de captura",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 477/2001 - Diário da República n.º 108/2001, Série I-B de 2001-05-10](https://diariodarepublica.pt/dr/detalhe/portaria/477-2001-313810), em vigor a partir de 2001-05-15"
+   ],
+   "markdown": "###### Artigo 11.º — Manifesto de captura\n\n1 - Os titulares de licença de apanhador de espécies animais marinhas são obrigados a manifestar, trimestralmente, junto da DGPA as quantidades apanhadas das espécies referidas no anexo I ao presente Regulamento, bem como indicar o respectivo destino.\n\n2 - O manifesto previsto no número anterior é feito em impresso de modelo constante do anexo IV ao presente Regulamento e deve ser entregue nos 30 dias subsequentes ao termo do trimestre a que respeita.\n\n3 - O manifesto previsto nos números anteriores é obrigatório mesmo nos casos de repovoamento, devendo ser indicados as quantidades e o estabelecimento receptor.\n\n> Alterado pelo/a [Portaria n.º 477/2001 - Diário da República n.º 108/2001, Série I-B de 2001-05-10](https://diariodarepublica.pt/dr/detalhe/portaria/477-2001-313810), em vigor a partir de 2001-05-15"
+  },
+  "136574605": {
+   "fragment_id": "136478809",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 22 de Novembro de 2000."
+  },
+  "136574614": {
+   "fragment_id": "136478810",
+   "type": 14,
+   "heading": "Anexo I — Espécies animais marinhas que podem ser objecto de apanha nos termos do artigo 3.º",
+   "in_force_from": "2000-11-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+   ],
+   "markdown": "## Anexo I — Espécies animais marinhas que podem ser objecto de apanha nos termos do artigo 3.º\n\nI - Univalves ou gastrópodos:\n\na) Borrelho, burrié ou caramujo (Littorina littorea, Gibbula spp. e Monodonta lineata);\n\nb) Buzina (Charonia spp.);\n\nc) Búzio, canilha (Phyllonotus trunculus e Bolinus brandaris);\n\nd) Ferro de engomar (Cymbium olla);\n\ne) Lapa (Patella spp.);\n\nf) Orelha ou lapa-real (Haliotis spp.).\n\nII - Bivalves ou lamelibrânquios:\n\na) Amêijoa-boa ou cristã (Ruditapes decussatus);\n\nb) Amêijoa-branca (Spisula solida e Spisula subtruncata);\n\nc) Amêijola, amêijoa-brilhante ou clame-dura (Callista chione);\n\nd) Amêijoa-cão ou bicuda (Venerupis aurea);\n\ne) Amêijoa-macha ou judia (Venerupis pullastra);\n\nf) Amêijoa-redonda ou relógio (Dosinia exoleta);\n\ng) Amêijoa-vermelha ou amêijoa-rolada (Venerupis rhomboides);\n\nh) Amêijoa-lisa (Mactra spp.);\n\ni) Berbigão ou crica (Cerastoderma edule, Cerastoderma lamarckii e Cerastoderma glaucum);\n\nj) Berbigão-lustroso, (Laevicardium norvegicum);\n\nk) Castanhola, amêndoa-da-pedra ou castanha (Glycymeris glycymeris);\n\nl) Conquilha ou cadelinha (Donax trunculus e Donax vittatus);\n\nm) Lambujinha (Scrobicularia plana);\n\nn) Longueirão, lingueirão, faca, navalha ou canivete (Solen marginatus, Pharus legumen e Ensis spp.);\n\no) Mexilhão (Mytilus edulis e M. galloprovincialis);\n\np) Ostra-portuguesa, carcanhola ou cascabulho (Crassostrea angulata);\n\nq) Ostra-redonda ou ostra-plana (Ostrea edulis);\n\nr) Pé-de-burrinho (Venus striatula e Chamelea gallina);\n\ns) Pé-de-burro (Venus verrucosa);\n\nt) Taralhão (Lutraria lutraria);\n\nu) Vieira (Pecten maximus e Chlamys spp.);\n\nv) Funil escamudo, conquilhão (Pinna spp.).\n\nIII - Anelídeos e Sipunculídeos:\n\na) Casuleta (Sabella pavonina);\n\nb) Minhocão ou ganso (Marphysa sanguinea e Sipunculus spp.);\n\nc) Minhocas e casulos (poliquetas dos géneros Marphysa, Diopatra e Nereis).\n\nIV - Equinodermes:\n\na) Ouriços-do-mar (Paracentrotus lividus, Sphaerechinus granularis e Echinus spp.);\n\nb) Pepinos-do-mar (Holoturidae).\n\nV - Crustáceos:\n\na) Caranguejo-murraceiro (Eriphia verrucosa);\n\nb) Caranguejo-verde ou caranguejo-mouro (Carcinus maenas);\n\nc) Caranguejo-real (Chaceon affinis);\n\nd) Cavaco (Scyllarides latus);\n\ne) Craca (Megabalanus spp.);\n\nf) Escava-terra ou bocas-de-cavalete (Uca tangeri);\n\ng) Grilos, cigarros ou bruxas (Scyllarus arctus);\n\nh) Navalheiras (Necora puber e Liocarcinus spp.);\n\ni) Percebe ou perceve (Pollicipes pollicipes);\n\nj) Ralo (Upogebia spp.);\n\nl) Santola (Maja squinado).\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+  },
+  "136574652": {
+   "fragment_id": "136478789",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento estabelece o regime jurídico da apanha de espécie animais marinhas em águas oceânicas e em águas interiores marítimas e não marítimas.\n\n2 - O disposto neste Regulamento não se aplica à apanha em áreas concessionadas ou dominiais cujo uso privativo haja sido autorizado, bem como aos estabelecimentos de culturas marinhas e conexos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574653": {
+   "fragment_id": "136478793",
+   "type": 11,
+   "heading": "Artigo 4.º — Apanha com fins científicos",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 4.º — Apanha com fins científicos\n\n1 - Sem prejuízo do disposto no número seguinte, a apanha de espécies animais marinhas com fins científicos compete aos organismos e entidades públicas que tenham por objecto a realização de estudos técnico-científicos no meio marinho ou a defesa da saúde pública, devendo para tal efeito os respectivos colectores estar munidos de uma declaração do organismo a que pertencem.\n\n2 - A apanha de espécies animais marinhas com fins científicos por outras pessoas singulares ou colectivas depende de autorização da Direcção-Geral das Pescas e Aquicultura (DGPA), ouvido o Instituto Nacional de Investigação Agrária e das Pescas (INIAP), a requerimento dos interessados, devendo ser dado conhecimento dessa autorização à autoridade marítima local.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574654": {
+   "fragment_id": "136478795",
+   "type": 11,
+   "heading": "Artigo 6.º — Zonas e período de operação",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 6.º — Zonas e período de operação\n\nA apanha com fins comerciais só pode ser exercida nas zonas da capitania da área de residência do titular da licença e nas capitanias limítrofes, do nascer ao pôr-do-sol.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574655": {
+   "fragment_id": "136478796",
+   "type": 11,
+   "heading": "Artigo 7.º — Utensílios e instrumentos auxiliares",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 7.º — Utensílios e instrumentos auxiliares\n\n1 - Na apanha de espécies animais marinhas com fins comerciais só podem ser utilizados os seguintes utensílios ou instrumentos:\n\na) Adriça - utensílio constituído por uma haste metálica em ponta, normalmente de forma cónica. Espécies alvo - bivalves;\n\nb) Ancinho - utensílio constituído exclusivamente por uma barra com dentes fixada a um cabo. Espécies alvo - bivalves;\n\nc) Arrilhada - utensílio constituído por uma lâmina romba, de forma aproximadamente rectangular, montada num cabo ou adaptada para se prender ao braço. Espécie alvo - perceves;\n\nd) Faca de destroncar ou de mariscar - utensílio constituído por uma lâmina metálica com forma variável, de bordos cortantes, fixada ou não a um cabo de madeira curto. Espécies alvo - as constantes do anexo I ao presente Regulamento;\n\ne) Lapeira - utensílio constituído por uma lâmina com forma rectangular, normalmente afiada na extremidade, fixada a um cabo de madeira ou de outro material. Espécies alvo - lapas;\n\nf) Sacho de cabo curto - utensílio constituído por um sacho de pequena dimensão, fixado a um cabo de madeira ou de outro material. Espécies alvo - anelídeos;\n\ng) Gancho - Utensílio constituído por três a cinco dentes metálicos e por um cabo curto. Espécies alvo - equinodermes;\n\nh) Outros utensílios ou instrumentos de uso marcadamente local, cujas características serão fixadas em regulamentos próprios.\n\n2 - Os apanhadores poderão ainda utilizar, como instrumento auxiliar da apanha, um xalavar com rede simples, com malhagem mínima de 25 mm.\n\n3 - Os apanhadores poderão ser portadores de dispositivo, tipo bolsa, que sirva exclusivamente para o transporte do resultado da apanha.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574656": {
+   "fragment_id": "136478799",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas de gestão",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21",
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+   ],
+   "markdown": "###### Artigo 10.º — Medidas de gestão\n\n1 - Em águas oceânicas e águas interiores marítimas é fixado, entre 1 de Maio e 15 de Junho de cada ano, um período de interdição de apanha por motivos biológicos relativamente a todas as espécies de moluscos bivalves.\n\n2 - Tendo em conta a situação dos recursos e ponderados os factores de ordem sócio-económica, pode o membro do Governo responsável pelo sector das pescas, mediante despacho:\n\na) Proibir a apanha de qualquer das espécies referidas no anexo I ao presente Regulamento;\n\nb) Fixar máximos de captura por espécies e contingentes das licenças referidas no n.º 2 do artigo 5.º\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+  },
+  "136574663": {
+   "fragment_id": "136478800",
+   "type": 11,
+   "heading": "Artigo 11.º — Manifesto de captura",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21",
+    "Alterado pelo/a [Portaria n.º 477/2001 - Diário da República n.º 108/2001, Série I-B de 2001-05-10](https://diariodarepublica.pt/dr/detalhe/portaria/477-2001-313810), em vigor a partir de 2001-05-15"
+   ],
+   "markdown": "###### Artigo 11.º — Manifesto de captura\n\n1 - Os titulares de licença de apanhador de espécies animais marinhas são obrigados a manifestar, trimestralmente, junto da DGPA as quantidades apanhadas das espécies referidas no anexo I ao presente Regulamento, bem como indicar o respectivo destino.\n\n2 - O manifesto previsto no número anterior é feito em impresso de modelo constante do anexo IV ao presente Regulamento e deve ser entregue nos 30 dias subsequentes ao termo do trimestre a que respeita.\n\n3 - O manifesto previsto nos números anteriores é obrigatório mesmo nos casos de repovoamento, devendo ser indicados as quantidades e o estabelecimento receptor.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21\n\n> Alterado pelo/a [Portaria n.º 477/2001 - Diário da República n.º 108/2001, Série I-B de 2001-05-10](https://diariodarepublica.pt/dr/detalhe/portaria/477-2001-313810), em vigor a partir de 2001-05-15"
+  },
+  "136574657": {
+   "fragment_id": "136478801",
+   "type": 11,
+   "heading": "Artigo 12.º — Tamanhos mínimos",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 12.º — Tamanhos mínimos\n\n1 - Às espécies que podem ser objecto da apanha com fins comerciais aplica-se o disposto no artigo 48.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio.\n\n2 - A apanha de espécimes com tamanho inferior ao referido no número anterior apenas poderá ser realizada, para repovoamento de estabelecimentos de aquicultura, por titulares da licença prevista no artigo 14.º do presente Regulamento, previamente autorizados pela DGPA para o efeito.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574658": {
+   "fragment_id": "136478803",
+   "type": 11,
+   "heading": "Artigo 13.º — Cartão de apanhador",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 13.º — Cartão de apanhador\n\n1 - O cartão de apanhador, de modelo a aprovar pela DGPA, é concedido por este organismo aos indivíduos maiores de 16 anos.\n\n2 - O pedido de cartão deve ser dirigido ao director-geral das Pescas e Aquicultura em requerimento de que devem constar a identificação do requerente e a sua residência, com a indicação da capitania respectiva, devendo ser acompanhado dos seguintes elementos:\n\na) Fotocópia do bilhete de identidade;\n\nb) Fotocópia do cartão de contribuinte;\n\nc) Duas fotografias tipo passe;\n\nd) Comprovativo da inscrição nas finanças, na actividade de pesca;\n\ne) Atestado de residência.\n\n3 - O cartão de apanhador é pessoal e intransmissível.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574661": {
+   "fragment_id": "136478805",
+   "type": 11,
+   "heading": "Artigo 15.º — Licença de apanhador",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 15.º — Licença de apanhador\n\n1 - O exercício da actividade de apanha está sujeito a licenciamento a requerer anualmente à DGPA, através de formulário próprio a estabelecer por este organismo, pelos titulares de cartão válido de apanhador, nos termos dos artigos 75.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, sem prejuízo das especialidades constantes do presente Regulamento.\n\n2 - As licenças são atribuídas para a apanha manual e ou utilização de um ou mais utensílios ou instrumentos constantes do presente Regulamento, a requerimento do interessado.\n\n3 - As licenças têm validade correspondente ao ano civil a que respeitam, devendo ser sempre acompanhadas do cartão de apanhador do respectivo titular.\n\n4 - A renovação da licença está condicionada ao cumprimento dos critérios e condições a fixar nos termos do artigo 74.º-A do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574659": {
+   "fragment_id": "136478807",
+   "type": 11,
+   "heading": "Artigo 17.º — Substituição das licenças de mariscador",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 17.º — Substituição das licenças de mariscador\n\n1 - Por solicitação do respectivo titular, a DGPA substituirá, no prazo de 90 dias a contar do termo do prazo referido no número seguinte, as licenças de mariscadores emitidas pelas autoridades marítimas para águas interiores não marítimas, pelos documentos referidos nos artigos 13.º e 15.º do presente Regulamento.\n\n2 - O pedido de substituição das licenças de mariscadores referidas no número anterior será feito dentro do prazo de 90 dias após a entrada em vigor do presente Regulamento, findo o qual não conferem ao seu titular qualquer legitimidade para o exercício da actividade.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574660": {
+   "fragment_id": "136478808",
+   "type": 11,
+   "heading": "Artigo 18.º — Regiões Autónomas",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 18.º — Regiões Autónomas\n\nAs competências atribuídas nos artigos 4.º, 13.º, 15.º, 16.º e 17.º à DGPA consideram-se cometidas aos órgãos de governo próprio das Regiões Autónomas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574662": {
+   "fragment_id": "136478810",
+   "type": 14,
+   "heading": "Anexo I — Espécies animais marinhas que podem ser objecto de apanha nos termos do artigo 3.º",
+   "in_force_from": "2000-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2000-02-21",
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+   ],
+   "markdown": "## Anexo I — Espécies animais marinhas que podem ser objecto de apanha nos termos do artigo 3.º\n\nI - Univalves ou gastrópodos:\n\na) Burrié (Gibbula spp., Littorina littorea e Monodonta lineata);\n\nb) Buzina (Charonia spp.);\n\nc) Búzio (Bolinus brandaris e Hexaplex trunculus);\n\nd) Ferro-de-engomar (Cymbium olla);\n\ne) Lapa (Patella spp.);\n\nf) Orelha-do-mar (Haliotis spp.).\n\nII - Bivalves ou lamelibrânquios:\n\na) Amêijoa-boa (Ruditapes decussatus);\n\nb) Amêijoa-branca (Spisula solida);\n\nc) Amêijoa-dourada (Spisula subtruncata);\n\nd) Amêijoa-cão (Venerupis aurea);\n\ne) Amêijoa-macha (Venerupis pullastra);\n\nf) Amêijoa-relógio (Dosinia exoleta);\n\ng) Amêijoa-vermelha (Venerupis rhomboides);\n\nh) Amêijola (Callista chione, Mactra spp.);\n\ni) Berbigão (Cerastoderma spp., Laevicardium crassum);\n\nj) Castanhola (Glycymeris glycymeris);\n\nl) Conquilha (Donax spp.);\n\nm) Funil (Pinna spp.);\n\nn) Lambujinha (Scrobicularia plana);\n\no) Longueirão (Ensis spp., Pharus legumen e Solen spp.);\n\np) Mexilhão (Mytilus spp.);\n\nq) Ostra (Crassostrea spp., Ostrea spp.);\n\nr) Pé-de-burro (Venus verrucosa);\n\ns) Pé-de-burrico (Venus casina);\n\nt) Pé-de-burrinho (Chamelea gallina);\n\nu) Taralhão (Lutraria lutraria);\n\nv) Vieira (Aequipecten opercularis, Chlamys spp., Pecten spp.).\n\nIII - Anelídeos e sipunculídeos:\n\na) Casuleta (Sabella pavonina);\n\nb) Minhocão (Marphysa sanguinea);\n\nc) Minhocas (Diopatra spp., Nereis spp. e Sipunculus spp.).\n\nIV - Equinodermes:\n\na) Ouriço-do-mar (Echinus spp., Paracentrotus lividus e Sphaerechinus granularis);\n\nb) Pepino-do-mar (Holothuria forskal, Mesothuria intestinalis e Stichopus regalis).\n\nV - Crustáceos:\n\na) Caranguejo (Carcinus maenas, Chaceon affinis, Eriphia verrucosa e Uca tangeri);\n\nb) Cavaco (Scyllarides latus);\n\nc) Cigarra-do-mar (Scyllarus arctus);\n\nd) Craca (Megabalanus azoricus);\n\ne) Navalheiras (Liocarcinus spp. e Necora spp.);\n\nf) Perceve (Pollicipes pollicipes);\n\ng) Ralo (Upogebia spp.);\n\nh) Santola (Maja squinado).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2000-02-21\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+  },
+  "136574664": {
+   "fragment_id": "136478811",
+   "type": 14,
+   "heading": "Anexo II — Zonas a que se refere o artigo 6.º",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "## Anexo II — Zonas a que se refere o artigo 6.º\n\nZona Norte:\n\nDesde a foz do rio Minho (fronteira) até ao monte Negro, a sul da praia da Cortegaça (área de jurisdição das capitanias de Caminha, Viana do Castelo, Póvoa de Varzim, Vila do Conde, Leixões e Douro).\n\nZona Centro-Norte:\n\nDesde o monte Negro, a sul da praia da Cortegaça, até Pedrógão, no ponto em que a ribeira entre esta povoação e a de Casal Ventoso encontra a linha de baixa-mar (área de jurisdição das capitanias de Aveiro e Figueira da Foz).\n\nZona Centro-Sul:\n\nDesde Pedrógão, no ponto em que a ribeira entre esta povoação e a de Casal Ventoso encontra a linha de baixa-mar, até à foz da ribeira de Seixe, definida pela intersecção do curso da ribeira com a linha de baixa-mar (área de jurisdição das capitanias de Nazaré, Peniche, Cascais, Lisboa, Setúbal e Sines).\n\nZona Sul:\n\nDesde a foz da ribeira de Seixe, definida pela intersecção do curso da ribeira com a linha de baixa-mar, até à foz do rio Guadiana (fronteira) (área de jurisdição das capitanias de Lagos, Portimão, Faro, Olhão, Tavira e Vila Real de Santo António).\n\nRegião Autónoma dos Açores (ver nota *).\n\nRegião Autónoma da Madeira (ver nota *).\n\n(nota *) A definir pelos órgãos próprios de Governo Regional.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574665": {
+   "fragment_id": "136478812",
+   "type": 14,
+   "heading": "Anexo III — Reprodução dos utensílios e instrumentos auxiliares referidos no artigo 7.º",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "## Anexo III — Reprodução dos utensílios e instrumentos auxiliares referidos no artigo 7.º\n\na) Adriça - utensílio constituído por uma haste metálica em ponta, normalmente de forma cónica.\n\n(ver documento original)\n\nb) Ancinho - utensílio constituído por uma barra com dentes fixada a um cabo.\n\n(ver figuras no documento original)\n\nc) Arrilhada - utensílio constituído por uma lâmina romba, de forma aproximadamente rectangular, montada num cabo ou adaptada para se prender ao braço.\n\n(ver figura no documento original)\n\nd) Faca de destroncar - utensílio constituído por uma lâmina metálica com forma variável, de bordos cortantes, fixada ou não a um cabo de madeira curto.\n\n(ver figura no documento original)\n\ne) Lapeira - utensílio constituído por uma lâmina com forma rectangular, normalmente afiada na extremidade, fixada a um cabo de madeira ou de outro material.\n\n(ver figura no documento original)\n\nf) Sacho de cabo curto para apanha de poliquetas\n\n(ver figura no documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574666": {
+   "fragment_id": "136478813",
+   "type": 14,
+   "heading": "Anexo IV — Manifesto de captura",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "## Anexo IV — Manifesto de captura\n\n(a que se refere o artigo 11.º)\n\n(ver modelo no documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136574667": {
+   "fragment_id": "136478814",
+   "type": 14,
+   "heading": "Anexo V — Modelos do cartão de apanhador e da licença de apanhador",
+   "in_force_from": "2006-02-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "## Anexo V — Modelos do cartão de apanhador e da licença de apanhador\n\n(ver modelos no documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136582909": {
+   "fragment_id": "136478793",
+   "type": 11,
+   "heading": "Artigo 4.º — Apanha com fins científicos",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 4.º — Apanha com fins científicos\n\n1 - Sem prejuízo do disposto no número seguinte, a apanha de espécies animais marinhas com fins científicos compete aos organismos e entidades públicas que tenham por objecto a realização de estudos técnico-científicos no meio marinho ou a defesa da saúde pública, devendo para tal efeito os respectivos colectores estar munidos de uma declaração do organismo a que pertencem.\n\n2 - A apanha de espécies animais marinhas com fins científicos por outras pessoas singulares ou colectivas depende de autorização da Direcção-Geral das Pescas e Aquicultura (DGPA), ouvido o Instituto Nacional de Recursos Biológicos, I. P. (L-IPIMAR), a requerimento dos interessados, devendo ser dado conhecimento dessa autorização à autoridade marítima local.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136582910": {
+   "fragment_id": "136478794",
+   "type": 11,
+   "heading": "Artigo 5.º — Apanha com fins comerciais",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+   ],
+   "markdown": "###### Artigo 5.º — Apanha com fins comerciais\n\n1 - Considera-se apanha de espécies animais marinhas com fins comerciais toda a actividade definida nos termos do artigo 2.º que tenha por finalidade a comercialização das espécies capturadas.\n\n2 - A apanha com fins comerciais é exercida por pessoas singulares mediante licença de apanhador de espécies animais, só podendo efectivar-se em zonas públicas não licenciadas para outros fins nem interditas a esta actividade.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+  },
+  "136582911": {
+   "fragment_id": "136478799",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas de gestão",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21",
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+   ],
+   "markdown": "###### Artigo 10.º — Medidas de gestão\n\n1 - Os períodos de interdição de apanha, por motivos biológicos, relativamente a algumas espécies animais marinhas que podem ser objecto de apanha, constam do anexo ii ao presente Regulamento.\n\n2 - Tendo em conta a situação dos recursos e ponderados os factores de ordem socioeconómica, pode o membro do Governo responsável pelo sector das pescas, mediante despacho:\n\na) Proibir a apanha de qualquer das espécies referidas no anexo i ao presente Regulamento;\n\nb) Fixar máximos de captura por apanhador e por espécie;\n\nc) Estabelecer contingentes das licenças referidas no n.º 2 do artigo 5.º\n\n3 - Sem prejuízo de outros limites já estabelecidos para a apanha de certas espécies em águas interiores não marítimas, no continente, são estabelecidos os seguintes limites máximos de capturas diárias por espécie:\n\na) Amêijoa-boa (Ruditapes decussatus) - 10 kg;\n\nb) Amêijoa-cão (Venerupis aurea) - 20 kg;\n\nc) Amêijoa-macha (Venerupis pullastra) - 20 kg;\n\nd) Anelídeos e sipunculídeos - 4 l;\n\ne) Berbigão (Cerastoderma spp.) - 150 kg;\n\nf) Mexilhão (Mytilus spp.) - 150 kg;\n\ng) Ouriços - 50 kg;\n\nh) Perceve (Pollicipes pollicipes) - 20 kg.\n\n4 - A triagem e devolução à água dos espécimes devem ser efectuadas no local de captura.\n\n5 - Os exemplares de crustáceos, com excepção do perceve, quando ovados, devem ser imediatamente devolvidos ao meio natural.\n\n6 - É proibida a apanha de animais marinhos em zonas onde o pisoteio tenha sido interdito por razões de protecção dos ecossistemas.\n\n7 - Tendo em vista o acompanhamento e monitorização da actividade pode o membro do Governo responsável pelo sector das pescas, mediante despacho, estabelecer um 'diário de apanhador' de que conste um conjunto de informações sobre a actividade.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+  },
+  "136582916": {
+   "fragment_id": "136478802",
+   "type": 1,
+   "heading": "Capítulo III — Licenciamento",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+   ],
+   "markdown": "### Capítulo III — Licenciamento\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+  },
+  "136582912": {
+   "fragment_id": "136478803",
+   "type": 11,
+   "heading": "Artigo 13.º — Licença de apanhador",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 13.º — Licença de apanhador\n\n1 - No continente, o exercício da actividade de apanha está sujeito a licenciamento a requerer anualmente à DGPA, através de formulário próprio a estabelecer por este organismo, pelos apanhadores previamente registados na DGPA, na pesca sem embarcação, nos termos dos artigos 75.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, sem prejuízo das especificidades constantes do presente Regulamento.\n\n2 - As licenças são atribuídas para a apanha manual e ou utilização de um ou mais utensílios constantes do presente Regulamento, em águas oceânicas e interiores marítimas e para as diversas zonas de águas interiores não marítimas sob jurisdição das capitanias.\n\n3 - As licenças têm validade correspondente ao ano civil a que respeitam, devendo ser sempre acompanhadas do bilhete de identidade ou do cartão de cidadão.\n\n4 - As licenças requeridas depois de 30 de Junho de cada ano apenas serão consideradas para o ano civil seguinte.\n\n5 - A renovação da licença está condicionada ao cumprimento dos critérios e condições a fixar no despacho a proferir nos termos do artigo 74.º-A do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio.\n\n6 - A menos que o apanhador demonstre, mediante a entrega de facturas ou cópia de documentos de acompanhamento, que o produto capturado no ano anterior em zona de estatuto sanitário C, identificada no despacho proferido ao abrigo da Portaria n.º 1421/2006, de 21 de Dezembro, teve por destino a indústria, aquando do pedido de renovação da licença para apanha de bivalves, esta será emitida com a referência 'excepto zona C', não podendo o apanhador licenciado exercer a actividade de apanha de bivalves nas zonas em causa.\n\n7 - O modelo da licença de apanhador de animais marinhos é aprovado por despacho do director-geral das Pescas e Aquicultura.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136582913": {
+   "fragment_id": "136478804",
+   "type": 11,
+   "heading": "Artigo 14.º — Registo como apanhador",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+   ],
+   "markdown": "###### Artigo 14.º — Registo como apanhador\n\n1 - No continente, podem ser registados como apanhador de animais marinhos indivíduos maiores de 16 anos.\n\n2 - O pedido de registo como apanhador deve ser dirigido ao director geral das Pescas e Aquicultura em requerimento de que conste a identificação do requerente e a sua residência, com a indicação da capitania respectiva, devendo ser acompanhado dos seguintes elementos:\n\na) Fotocópia do bilhete de identidade ou do cartão de cidadão;\n\nb) Fotocópia do cartão de contribuinte.\n\n3 - O comprovativo da inscrição na actividade de pesca deverá também ser apresentado, e remetido juntamente com o pedido referido no artigo anterior ou até um mês depois da comunicação de deferimento pela DGPA, sem o qual não se efectivará o registo nem será emitida a licença de pesca.\n\n4 - No despacho que fixa critérios e condições para renovação das licenças nos termos do artigo 74.º-A do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, podem ser estabelecidos requisitos específicos para registo como apanhador de animais marinhos.\n\n5 - O registo como apanhador poderá ser requerido, em cada ano, até 31 de Agosto, para o licenciamento do ano seguinte.\n\n6 - Compete à DGPA organizar e manter actualizado o registo de apanhadores de espécies de animais marinhos nos termos do presente Regulamento.\n\n7 - Os apanhadores licenciados à data de entrada em vigor do presente diploma constarão automaticamente do registo referido no presente artigo.\n\n8 - O registo caduca ao fim de dois anos após a data limite de validade da última licença emitida.\n\n9 - O número de apanhadores registados por capitania não pode ser superior em 10 % ao número de apanhadores licenciados em 2009, por capitania.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+  },
+  "136582914": {
+   "fragment_id": "136478805",
+   "type": 11,
+   "heading": "Artigo 15.º — Substituição do cartão de apanhador",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 15.º — Substituição do cartão de apanhador\n\nOs cartões de apanhadores de animais marinhos manter-se-ão em vigor para os actuais licenciados e para os apanhadores que forem licenciados até à entrada em vigor do novo modelo de licença, o mais tardar até 31 de Dezembro de 2011, findo o qual não conferem ao seu titular qualquer legitimidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136582919": {
+   "fragment_id": "136478806",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+   ],
+   "markdown": "###### Artigo 16.º — Registo\n\nCompete à DGPA organizar e manter actualizado o registo de apanhadores de espécies animais marinhas licenciados nos termos do presente Regulamento.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+  },
+  "136582920": {
+   "fragment_id": "136478807",
+   "type": 11,
+   "heading": "Artigo 17.º — Substituição das licenças de mariscador",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 17.º — Substituição das licenças de mariscador\n\n1 - Por solicitação do respectivo titular, a DGPA substituirá, no prazo de 90 dias a contar do termo do prazo referido no número seguinte, as licenças de mariscadores emitidas pelas autoridades marítimas para águas interiores não marítimas, pelos documentos referidos nos artigos 13.º e 15.º do presente Regulamento.\n\n2 - O pedido de substituição das licenças de mariscadores referidas no número anterior será feito dentro do prazo de 90 dias após a entrada em vigor do presente Regulamento, findo o qual não conferem ao seu titular qualquer legitimidade para o exercício da actividade.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136582915": {
+   "fragment_id": "136478808",
+   "type": 11,
+   "heading": "Artigo 18.º — Regiões Autónomas",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 18.º — Regiões Autónomas\n\nAs competências atribuídas nos artigos 4.º, 13.º, 14.º e 15.º à DGPA consideram-se cometidas aos órgãos de governo próprios das Regiões Autónomas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136582917": {
+   "fragment_id": "136478810",
+   "type": 14,
+   "heading": "Anexo I — Espécies animais marinhas que podem ser objecto de apanha nos termos do artigo 3.º",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2000-02-21",
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+   ],
+   "markdown": "## Anexo I — Espécies animais marinhas que podem ser objecto de apanha nos termos do artigo 3.º\n\nI - Univalves ou gastrópodes:\n\na) Burrié (Gibbula spp., Littorina littorea e Monodonta lineata);\n\nb) Buzina (Charonia spp.);\n\nc) Búzio (Bolinus brandaris e Hexaplex trunculus);\n\nd) Ferro-de-engomar (Cymbium olla);\n\ne) Lapa (Patella spp.);\n\nf) Orelha-do-mar (Haliotis spp.).\n\nII - Bivalves ou lamelibrânquios:\n\na) Amêijoas (Ruditapes spp., Venerupis spp.);\n\nb) Amêijoa-relógio (Dosinia exoleta);\n\nc) Berbigão (Cerastoderma spp., Laevicardium crassum);\n\nd) Lambujinha (Scrobicularia plana);\n\ne) Longueirão (Ensis spp., Pharus legumen e Solen spp.);\n\nf) Mexilhão (Mytilus spp.);\n\ng) Ostra (Crassostrea spp., Ostrea spp.);\n\nh) Pé-de-burrico (Venus casina);\n\ni) Pé-de-burro (Venus verrucosa);\n\nj) Taralhão (Lutraria lutraria);\n\nl) Vieira (Aequipecten opercularis, Chlamys spp. e Pecten spp.).\n\nIII - Anelídeos e sipunculídeos:\n\na) Casuleta (Sabella pavonina);\n\nb) Minhocão (Marphysa sanguinea);\n\nc) Minhocas (Diopatra spp., Nereis spp. e Sipunculus spp.).\n\nIV - Equinodermes:\n\na) Ouriços (Echinus spp., Paracentrotus lividus e Sphaerechinus granularis);\n\nb) Pepinos-do-mar (Holothuria forskal, Mesothuria intestinalis e Sthichopus regalis).\n\nV - Crustáceos:\n\na) Caranguejo (Carcinus maenas, Chaceon affinis, Eriphia verrucosa e Uca tangeri);\n\nb) Cavaco (Scyllarides latus);\n\nc) Cigarra-do-mar (Scyllarus arctus);\n\nd) Craca (Megabalanus azoricus);\n\ne) Navalheiras (Liocarcinus spp. e Necora puber);\n\nf) Perceve (Pollicipes pollicipes);\n\ng) Ralo (Upogebia spp.);\n\nh) Santola (Maja squinado).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2000-02-21\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+  },
+  "136582918": {
+   "fragment_id": "136478811",
+   "type": 14,
+   "heading": "Anexo II — Períodos de defeso aplicáveis no continente, por espécies ou grupos de espécies, nos termos do n.º 1 do artigo 10.º",
+   "in_force_from": "2010-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "## Anexo II — Períodos de defeso aplicáveis no continente, por espécies ou grupos de espécies, nos termos do n.º 1 do artigo 10.º\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136582921": {
+   "fragment_id": "136478803",
+   "type": 11,
+   "heading": "Artigo 13.º — Licença de apanhador",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2020 - Diário da República n.º 121/2020, Série I de 2020-06-24](https://diariodarepublica.pt/dr/detalhe/portaria/157-2020-136476387), em vigor a partir de 2020-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 13.º — Licença de apanhador\n\n1 - No continente, o exercício da actividade de apanha está sujeito a licenciamento a requerer anualmente à DGPA, através de formulário próprio a estabelecer por este organismo, pelos apanhadores previamente registados na DGPA, na pesca sem embarcação, nos termos dos artigos 75.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, sem prejuízo das especificidades constantes do presente Regulamento.\n\n2 - As licenças são atribuídas para a apanha manual e ou utilização de um ou mais utensílios constantes do presente Regulamento, em águas oceânicas e interiores marítimas e para as diversas zonas de águas interiores não marítimas sob jurisdição das capitanias.\n\n3 - As licenças têm validade correspondente ao ano civil a que respeitam, devendo ser sempre acompanhadas do bilhete de identidade ou do cartão de cidadão.\n\n4 - [Revogado.]\n\n5 - A renovação da licença está condicionada ao cumprimento dos critérios e condições a fixar no despacho a proferir nos termos do artigo 74.º-A do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio.\n\n6 - A menos que o apanhador demonstre, mediante a entrega de facturas ou cópia de documentos de acompanhamento, que o produto capturado no ano anterior em zona de estatuto sanitário C, identificada no despacho proferido ao abrigo da Portaria n.º 1421/2006, de 21 de Dezembro, teve por destino a indústria, aquando do pedido de renovação da licença para apanha de bivalves, esta será emitida com a referência 'excepto zona C', não podendo o apanhador licenciado exercer a actividade de apanha de bivalves nas zonas em causa.\n\n7 - O modelo da licença de apanhador de animais marinhos é aprovado por despacho do director-geral das Pescas e Aquicultura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2020 - Diário da República n.º 121/2020, Série I de 2020-06-24](https://diariodarepublica.pt/dr/detalhe/portaria/157-2020-136476387), em vigor a partir de 2020-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "136582922": {
+   "fragment_id": "136478804",
+   "type": 11,
+   "heading": "Artigo 14.º — Registo como apanhador",
+   "in_force_from": "2020-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2020 - Diário da República n.º 121/2020, Série I de 2020-06-24](https://diariodarepublica.pt/dr/detalhe/portaria/157-2020-136476387), em vigor a partir de 2020-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+   ],
+   "markdown": "###### Artigo 14.º — Registo como apanhador\n\n1 - No continente, podem ser registados como apanhador de animais marinhos indivíduos maiores de 16 anos.\n\n2 - O pedido de registo como apanhador deve ser dirigido ao director geral das Pescas e Aquicultura em requerimento de que conste a identificação do requerente e a sua residência, com a indicação da capitania respectiva, devendo ser acompanhado dos seguintes elementos:\n\na) Fotocópia do bilhete de identidade ou do cartão de cidadão;\n\nb) Fotocópia do cartão de contribuinte.\n\n3 - O comprovativo da inscrição na actividade de pesca deverá também ser apresentado, e remetido juntamente com o pedido referido no artigo anterior ou até um mês depois da comunicação de deferimento pela DGPA, sem o qual não se efectivará o registo nem será emitida a licença de pesca.\n\n4 - No despacho que fixa critérios e condições para renovação das licenças nos termos do artigo 74.º-A do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, podem ser estabelecidos requisitos específicos para registo como apanhador de animais marinhos.\n\n5 - [Revogado.]\n\n6 - Compete à DGPA organizar e manter actualizado o registo de apanhadores de espécies de animais marinhos nos termos do presente Regulamento.\n\n7 - Os apanhadores licenciados à data de entrada em vigor do presente diploma constarão automaticamente do registo referido no presente artigo.\n\n8 - O registo caduca ao fim de dois anos após a data limite de validade da última licença emitida.\n\n9 - O número de apanhadores registados por capitania não pode ser superior em 20 % ao número de apanhadores licenciados em 2009, por capitania.\n\n10 - Sem prejuízo do disposto no número anterior, são concedidas até mais 5 licenças para apanhador por capitania relativamente ao limite estabelecido em 2009 e é estabelecido em 10 o número mínimo de apanhadores registados por capitania.\n\n11 - As licenças passam a estar limitadas a um máximo de 8 espécies em simultâneo, sem prejuízo das já existentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2020 - Diário da República n.º 121/2020, Série I de 2020-06-24](https://diariodarepublica.pt/dr/detalhe/portaria/157-2020-136476387), em vigor a partir de 2020-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+  },
+  "216136015": {
+   "fragment_id": "136478788",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+  },
+  "216136016": {
+   "fragment_id": "136478789",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento estabelece o regime jurídico da apanha de espécie animais marinhas em águas oceânicas e em águas interiores marítimas e não marítimas.\n\n2 - O disposto neste Regulamento não se aplica à apanha em áreas concessionadas ou dominiais cujo uso privativo haja sido autorizado, bem como aos estabelecimentos de culturas marinhas e conexos.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136017": {
+   "fragment_id": "136478790",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+   ],
+   "markdown": "###### Artigo 2.º — Conceito\n\nPara efeitos deste Regulamento, entende-se por apanha qualquer método de pesca que se caracteriza por ser uma actividade individual em que, de um modo geral, não são utilizados utensílios especialmente fabricados para esse fim, mas apenas as mãos ou os pés, ou eventualmente um animal, sem provocar ferimentos graves nas capturas.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+  },
+  "216136018": {
+   "fragment_id": "136478791",
+   "type": 1,
+   "heading": "Capítulo II — Regime de actividade",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+   ],
+   "markdown": "### Capítulo II — Regime de actividade\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+  },
+  "216136019": {
+   "fragment_id": "136478792",
+   "type": 11,
+   "heading": "Artigo 3.º — Espécies",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+   ],
+   "markdown": "###### Artigo 3.º — Espécies\n\n1 - Sem prejuízo do disposto no número seguinte, apenas podem ser objecto de apanha as espécies constantes do anexo I ao presente Regulamento.\n\n2 - Por despacho do membro do Governo responsável pelo sector das pescas, pode ser autorizada a apanha de outras espécies animais marinhas além das referidas no anexo I ao presente Regulamento.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+  },
+  "216136020": {
+   "fragment_id": "136478793",
+   "type": 11,
+   "heading": "Artigo 4.º — Apanha com fins científicos",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 4.º — Apanha com fins científicos\n\n1 - Sem prejuízo do disposto no número seguinte, a apanha de espécies animais marinhas com fins científicos compete aos organismos e entidades públicas que tenham por objecto a realização de estudos técnico-científicos no meio marinho ou a defesa da saúde pública, devendo para tal efeito os respectivos colectores estar munidos de uma declaração do organismo a que pertencem.\n\n2 - A apanha de espécies animais marinhas com fins científicos por outras pessoas singulares ou colectivas depende de autorização da Direcção-Geral das Pescas e Aquicultura (DGPA), ouvido o Instituto Nacional de Recursos Biológicos, I. P. (L-IPIMAR), a requerimento dos interessados, devendo ser dado conhecimento dessa autorização à autoridade marítima local.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136021": {
+   "fragment_id": "136478794",
+   "type": 11,
+   "heading": "Artigo 5.º — Apanha com fins comerciais",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+   ],
+   "markdown": "###### Artigo 5.º — Apanha com fins comerciais\n\n1 - Considera-se apanha de espécies animais marinhas com fins comerciais toda a actividade definida nos termos do artigo 2.º que tenha por finalidade a comercialização das espécies capturadas.\n\n2 - A apanha com fins comerciais é exercida por pessoas singulares mediante licença de apanhador de espécies animais, só podendo efectivar-se em zonas públicas não licenciadas para outros fins nem interditas a esta actividade.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+  },
+  "216136022": {
+   "fragment_id": "136478795",
+   "type": 11,
+   "heading": "Artigo 6.º — Zonas e período de operação",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 6.º — Zonas e período de operação\n\nA apanha com fins comerciais só pode ser exercida nas zonas da capitania da área de residência do titular da licença e nas capitanias limítrofes, do nascer ao pôr-do-sol.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136023": {
+   "fragment_id": "136478796",
+   "type": 11,
+   "heading": "Artigo 7.º — Utensílios e instrumentos auxiliares",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 7.º — Utensílios e instrumentos auxiliares\n\n1 - Na apanha de espécies animais marinhas com fins comerciais só podem ser utilizados os seguintes utensílios ou instrumentos:\n\na) Adriça - utensílio constituído por uma haste metálica em ponta, normalmente de forma cónica. Espécies alvo - bivalves;\n\nb) Ancinho - utensílio constituído exclusivamente por uma barra com dentes fixada a um cabo. Espécies alvo - bivalves;\n\nc) Arrilhada - utensílio constituído por uma lâmina romba, de forma aproximadamente rectangular, montada num cabo ou adaptada para se prender ao braço. Espécie alvo - perceves;\n\nd) Faca de destroncar ou de mariscar - utensílio constituído por uma lâmina metálica com forma variável, de bordos cortantes, fixada ou não a um cabo de madeira curto. Espécies alvo - as constantes do anexo I ao presente Regulamento;\n\ne) Lapeira - utensílio constituído por uma lâmina com forma rectangular, normalmente afiada na extremidade, fixada a um cabo de madeira ou de outro material. Espécies alvo - lapas;\n\nf) Sacho de cabo curto - utensílio constituído por um sacho de pequena dimensão, fixado a um cabo de madeira ou de outro material. Espécies alvo - anelídeos;\n\ng) Gancho - Utensílio constituído por três a cinco dentes metálicos e por um cabo curto. Espécies alvo - equinodermes;\n\nh) Outros utensílios ou instrumentos de uso marcadamente local, cujas características serão fixadas em regulamentos próprios.\n\n2 - Os apanhadores poderão ainda utilizar, como instrumento auxiliar da apanha, um xalavar com rede simples, com malhagem mínima de 25 mm.\n\n3 - Os apanhadores poderão ser portadores de dispositivo, tipo bolsa, que sirva exclusivamente para o transporte do resultado da apanha.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136024": {
+   "fragment_id": "136478797",
+   "type": 11,
+   "heading": "Artigo 8.º — Utilização de embarcação",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+   ],
+   "markdown": "###### Artigo 8.º — Utilização de embarcação\n\nA utilização de embarcação na apanha de espécies animais marinhas só é permitida desde que se trate de embarcação de pesca ou auxiliar local, como meio de transporte dos apanhadores, dos utensílios, equipamentos e dos espécimes capturados.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+  },
+  "216136025": {
+   "fragment_id": "136478798",
+   "type": 11,
+   "heading": "Artigo 9.º — Exercício da apanha por mergulho",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+   ],
+   "markdown": "###### Artigo 9.º — Exercício da apanha por mergulho\n\n1 - A apanha exercida por apanhador totalmente imerso na água designa-se por apanha por mergulho.\n\n2 - A apanha por mergulho só é permitida desde que efectuada em apneia, isto é, sem auxílio de qualquer equipamento autónomo ou semiautónomo de respiração.\n\n3 - Durante a actividade, é obrigatória a utilização de uma bóia sinalizadora, de cor amarela, laranja ou vermelha, que pode ser esférica ou cilíndrica, com, pelo menos, 15 cm de raio e 15 l de capacidade e arvorando a bandeira A do Código Internacional de Sinais.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+  },
+  "216136026": {
+   "fragment_id": "136478799",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas de gestão",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21",
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+   ],
+   "markdown": "###### Artigo 10.º — Medidas de gestão\n\n1 - Os períodos de interdição de apanha, por motivos biológicos, relativamente a algumas espécies animais marinhas que podem ser objecto de apanha, constam do anexo ii ao presente Regulamento.\n\n2 - Tendo em conta a situação dos recursos e ponderados os factores de ordem socioeconómica, pode o membro do Governo responsável pelo sector das pescas, mediante despacho:\n\na) Proibir a apanha de qualquer das espécies referidas no anexo i ao presente Regulamento;\n\nb) Fixar máximos de captura por apanhador e por espécie;\n\nc) Estabelecer contingentes das licenças referidas no n.º 2 do artigo 5.º\n\n3 - Sem prejuízo de outros limites já estabelecidos para a apanha de certas espécies em águas interiores não marítimas, no continente, são estabelecidos os seguintes limites máximos de capturas diárias por espécie:\n\na) Amêijoa-boa (Ruditapes decussatus) - 10 kg;\n\nb) Amêijoa-cão (Venerupis aurea) - 20 kg;\n\nc) Amêijoa-macha (Venerupis pullastra) - 20 kg;\n\nd) Anelídeos e sipunculídeos - 4 l;\n\ne) Berbigão (Cerastoderma spp.) - 150 kg;\n\nf) Mexilhão (Mytilus spp.) - 150 kg;\n\ng) Ouriços - 50 kg;\n\nh) Perceve (Pollicipes pollicipes) - 20 kg.\n\n4 - A triagem e devolução à água dos espécimes devem ser efectuadas no local de captura.\n\n5 - Os exemplares de crustáceos, com excepção do perceve, quando ovados, devem ser imediatamente devolvidos ao meio natural.\n\n6 - É proibida a apanha de animais marinhos em zonas onde o pisoteio tenha sido interdito por razões de protecção dos ecossistemas.\n\n7 - Tendo em vista o acompanhamento e monitorização da actividade pode o membro do Governo responsável pelo sector das pescas, mediante despacho, estabelecer um 'diário de apanhador' de que conste um conjunto de informações sobre a actividade.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+  },
+  "216136027": {
+   "fragment_id": "136478800",
+   "type": 11,
+   "heading": "Artigo 11.º — Manifesto de captura",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21",
+    "Alterado pelo/a [Portaria n.º 477/2001 - Diário da República n.º 108/2001, Série I-B de 2001-05-10](https://diariodarepublica.pt/dr/detalhe/portaria/477-2001-313810), em vigor a partir de 2001-05-15"
+   ],
+   "markdown": "###### Artigo 11.º — Manifesto de captura\n\n1 - Os titulares de licença de apanhador de espécies animais marinhas são obrigados a manifestar, trimestralmente, junto da DGPA as quantidades apanhadas das espécies referidas no anexo I ao presente Regulamento, bem como indicar o respectivo destino.\n\n2 - O manifesto previsto no número anterior é feito em impresso de modelo constante do anexo IV ao presente Regulamento e deve ser entregue nos 30 dias subsequentes ao termo do trimestre a que respeita.\n\n3 - O manifesto previsto nos números anteriores é obrigatório mesmo nos casos de repovoamento, devendo ser indicados as quantidades e o estabelecimento receptor.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21\n\n> Alterado pelo/a [Portaria n.º 477/2001 - Diário da República n.º 108/2001, Série I-B de 2001-05-10](https://diariodarepublica.pt/dr/detalhe/portaria/477-2001-313810), em vigor a partir de 2001-05-15"
+  },
+  "216136028": {
+   "fragment_id": "136478801",
+   "type": 11,
+   "heading": "Artigo 12.º — Tamanhos mínimos",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 12.º — Tamanhos mínimos\n\n1 - Às espécies que podem ser objecto da apanha com fins comerciais aplica-se o disposto no artigo 48.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio.\n\n2 - A apanha de espécimes com tamanho inferior ao referido no número anterior apenas poderá ser realizada, para repovoamento de estabelecimentos de aquicultura, por titulares da licença prevista no artigo 14.º do presente Regulamento, previamente autorizados pela DGPA para o efeito.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136029": {
+   "fragment_id": "136478802",
+   "type": 1,
+   "heading": "Capítulo III — Licenciamento",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+   ],
+   "markdown": "### Capítulo III — Licenciamento\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+  },
+  "216136030": {
+   "fragment_id": "136478803",
+   "type": 11,
+   "heading": "Artigo 13.º — Licença de apanhador",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2020 - Diário da República n.º 121/2020, Série I de 2020-06-24](https://diariodarepublica.pt/dr/detalhe/portaria/157-2020-136476387), em vigor a partir de 2020-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 13.º — Licença de apanhador\n\n1 - No continente, o exercício da actividade de apanha está sujeito a licenciamento a requerer anualmente à DGPA, através de formulário próprio a estabelecer por este organismo, pelos apanhadores previamente registados na DGPA, na pesca sem embarcação, nos termos dos artigos 75.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, sem prejuízo das especificidades constantes do presente Regulamento.\n\n2 - As licenças são atribuídas para a apanha manual e ou utilização de um ou mais utensílios constantes do presente Regulamento, em águas oceânicas e interiores marítimas e para as diversas zonas de águas interiores não marítimas sob jurisdição das capitanias.\n\n3 - As licenças têm validade correspondente ao ano civil a que respeitam, devendo ser sempre acompanhadas do bilhete de identidade ou do cartão de cidadão.\n\n4 - [Revogado.]\n\n5 - A renovação da licença está condicionada ao cumprimento dos critérios e condições a fixar no despacho a proferir nos termos do artigo 74.º-A do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio.\n\n6 - A menos que o apanhador demonstre, mediante a entrega de facturas ou cópia de documentos de acompanhamento, que o produto capturado no ano anterior em zona de estatuto sanitário C, identificada no despacho proferido ao abrigo da Portaria n.º 1421/2006, de 21 de Dezembro, teve por destino a indústria, aquando do pedido de renovação da licença para apanha de bivalves, esta será emitida com a referência 'excepto zona C', não podendo o apanhador licenciado exercer a actividade de apanha de bivalves nas zonas em causa.\n\n7 - O modelo da licença de apanhador de animais marinhos é aprovado por despacho do director-geral das Pescas e Aquicultura.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2020 - Diário da República n.º 121/2020, Série I de 2020-06-24](https://diariodarepublica.pt/dr/detalhe/portaria/157-2020-136476387), em vigor a partir de 2020-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136031": {
+   "fragment_id": "136478804",
+   "type": 11,
+   "heading": "Artigo 14.º — Registo como apanhador",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2020 - Diário da República n.º 121/2020, Série I de 2020-06-24](https://diariodarepublica.pt/dr/detalhe/portaria/157-2020-136476387), em vigor a partir de 2020-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+   ],
+   "markdown": "###### Artigo 14.º — Registo como apanhador\n\n1 - No continente, podem ser registados como apanhador de animais marinhos indivíduos maiores de 16 anos.\n\n2 - O pedido de registo como apanhador deve ser dirigido ao director geral das Pescas e Aquicultura em requerimento de que conste a identificação do requerente e a sua residência, com a indicação da capitania respectiva, devendo ser acompanhado dos seguintes elementos:\n\na) Fotocópia do bilhete de identidade ou do cartão de cidadão;\n\nb) Fotocópia do cartão de contribuinte.\n\n3 - O comprovativo da inscrição na actividade de pesca deverá também ser apresentado, e remetido juntamente com o pedido referido no artigo anterior ou até um mês depois da comunicação de deferimento pela DGPA, sem o qual não se efectivará o registo nem será emitida a licença de pesca.\n\n4 - No despacho que fixa critérios e condições para renovação das licenças nos termos do artigo 74.º-A do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, podem ser estabelecidos requisitos específicos para registo como apanhador de animais marinhos.\n\n5 - [Revogado.]\n\n6 - Compete à DGPA organizar e manter actualizado o registo de apanhadores de espécies de animais marinhos nos termos do presente Regulamento.\n\n7 - Os apanhadores licenciados à data de entrada em vigor do presente diploma constarão automaticamente do registo referido no presente artigo.\n\n8 - O registo caduca ao fim de dois anos após a data limite de validade da última licença emitida.\n\n9 - O número de apanhadores registados por capitania não pode ser superior em 20 % ao número de apanhadores licenciados em 2009, por capitania.\n\n10 - Sem prejuízo do disposto no número anterior, são concedidas até mais 5 licenças para apanhador por capitania relativamente ao limite estabelecido em 2009 e é estabelecido em 10 o número mínimo de apanhadores registados por capitania.\n\n11 - As licenças passam a estar limitadas a um máximo de 8 espécies em simultâneo, sem prejuízo das já existentes.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2020 - Diário da República n.º 121/2020, Série I de 2020-06-24](https://diariodarepublica.pt/dr/detalhe/portaria/157-2020-136476387), em vigor a partir de 2020-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+  },
+  "216136032": {
+   "fragment_id": "136478805",
+   "type": 11,
+   "heading": "Artigo 15.º — Substituição do cartão de apanhador",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 15.º — Substituição do cartão de apanhador\n\nOs cartões de apanhadores de animais marinhos manter-se-ão em vigor para os actuais licenciados e para os apanhadores que forem licenciados até à entrada em vigor do novo modelo de licença, o mais tardar até 31 de Dezembro de 2011, findo o qual não conferem ao seu titular qualquer legitimidade.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136033": {
+   "fragment_id": "136478806",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+   ],
+   "markdown": "###### Artigo 16.º — Registo\n\nCompete à DGPA organizar e manter actualizado o registo de apanhadores de espécies animais marinhas licenciados nos termos do presente Regulamento.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11"
+  },
+  "216136034": {
+   "fragment_id": "136478807",
+   "type": 11,
+   "heading": "Artigo 17.º — Substituição das licenças de mariscador",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 17.º — Substituição das licenças de mariscador\n\n1 - Por solicitação do respectivo titular, a DGPA substituirá, no prazo de 90 dias a contar do termo do prazo referido no número seguinte, as licenças de mariscadores emitidas pelas autoridades marítimas para águas interiores não marítimas, pelos documentos referidos nos artigos 13.º e 15.º do presente Regulamento.\n\n2 - O pedido de substituição das licenças de mariscadores referidas no número anterior será feito dentro do prazo de 90 dias após a entrada em vigor do presente Regulamento, findo o qual não conferem ao seu titular qualquer legitimidade para o exercício da actividade.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136035": {
+   "fragment_id": "136478808",
+   "type": 11,
+   "heading": "Artigo 18.º — Regiões Autónomas",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "###### Artigo 18.º — Regiões Autónomas\n\nAs competências atribuídas nos artigos 4.º, 13.º, 14.º e 15.º à DGPA consideram-se cometidas aos órgãos de governo próprios das Regiões Autónomas.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136036": {
+   "fragment_id": "136478809",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+   ],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 22 de Novembro de 2000.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29"
+  },
+  "216136037": {
+   "fragment_id": "136478810",
+   "type": 14,
+   "heading": "Anexo I — Espécies animais marinhas que podem ser objecto de apanha nos termos do artigo 3.º",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2000-02-21",
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+   ],
+   "markdown": "## Anexo I — Espécies animais marinhas que podem ser objecto de apanha nos termos do artigo 3.º\n\nI - Univalves ou gastrópodes:\n\na) Burrié (Gibbula spp., Littorina littorea e Monodonta lineata);\n\nb) Buzina (Charonia spp.);\n\nc) Búzio (Bolinus brandaris e Hexaplex trunculus);\n\nd) Ferro-de-engomar (Cymbium olla);\n\ne) Lapa (Patella spp.);\n\nf) Orelha-do-mar (Haliotis spp.).\n\nII - Bivalves ou lamelibrânquios:\n\na) Amêijoas (Ruditapes spp., Venerupis spp.);\n\nb) Amêijoa-relógio (Dosinia exoleta);\n\nc) Berbigão (Cerastoderma spp., Laevicardium crassum);\n\nd) Lambujinha (Scrobicularia plana);\n\ne) Longueirão (Ensis spp., Pharus legumen e Solen spp.);\n\nf) Mexilhão (Mytilus spp.);\n\ng) Ostra (Crassostrea spp., Ostrea spp.);\n\nh) Pé-de-burrico (Venus casina);\n\ni) Pé-de-burro (Venus verrucosa);\n\nj) Taralhão (Lutraria lutraria);\n\nl) Vieira (Aequipecten opercularis, Chlamys spp. e Pecten spp.).\n\nIII - Anelídeos e sipunculídeos:\n\na) Casuleta (Sabella pavonina);\n\nb) Minhocão (Marphysa sanguinea);\n\nc) Minhocas (Diopatra spp., Nereis spp. e Sipunculus spp.).\n\nIV - Equinodermes:\n\na) Ouriços (Echinus spp., Paracentrotus lividus e Sphaerechinus granularis);\n\nb) Pepinos-do-mar (Holothuria forskal, Mesothuria intestinalis e Sthichopus regalis).\n\nV - Crustáceos:\n\na) Caranguejo (Carcinus maenas, Chaceon affinis, Eriphia verrucosa e Uca tangeri);\n\nb) Cavaco (Scyllarides latus);\n\nc) Cigarra-do-mar (Scyllarus arctus);\n\nd) Craca (Megabalanus azoricus);\n\ne) Navalheiras (Liocarcinus spp. e Necora puber);\n\nf) Perceve (Pollicipes pollicipes);\n\ng) Ralo (Upogebia spp.);\n\nh) Santola (Maja squinado).\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2000-02-21\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-L/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-l-2000-515207), em vigor a partir de 2000-11-27"
+  },
+  "216136038": {
+   "fragment_id": "136478811",
+   "type": 14,
+   "heading": "Anexo II — Períodos de defeso aplicáveis no continente, por espécies ou grupos de espécies, nos termos do n.º 1 do artigo 10.º",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11",
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "## Anexo II — Períodos de defeso aplicáveis no continente, por espécies ou grupos de espécies, nos termos do n.º 1 do artigo 10.º\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1228/2010 - Diário da República n.º 235/2010, Série I de 2010-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2010-306657), em vigor a partir de 2010-12-11\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136039": {
+   "fragment_id": "136478812",
+   "type": 14,
+   "heading": "Anexo III — Reprodução dos utensílios e instrumentos auxiliares referidos no artigo 7.º",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "## Anexo III — Reprodução dos utensílios e instrumentos auxiliares referidos no artigo 7.º\n\na) Adriça - utensílio constituído por uma haste metálica em ponta, normalmente de forma cónica.\n\n(ver documento original)\n\nb) Ancinho - utensílio constituído por uma barra com dentes fixada a um cabo.\n\n(ver figuras no documento original)\n\nc) Arrilhada - utensílio constituído por uma lâmina romba, de forma aproximadamente rectangular, montada num cabo ou adaptada para se prender ao braço.\n\n(ver figura no documento original)\n\nd) Faca de destroncar - utensílio constituído por uma lâmina metálica com forma variável, de bordos cortantes, fixada ou não a um cabo de madeira curto.\n\n(ver figura no documento original)\n\ne) Lapeira - utensílio constituído por uma lâmina com forma rectangular, normalmente afiada na extremidade, fixada a um cabo de madeira ou de outro material.\n\n(ver figura no documento original)\n\nf) Sacho de cabo curto para apanha de poliquetas\n\n(ver figura no documento original)\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136040": {
+   "fragment_id": "136478813",
+   "type": 14,
+   "heading": "Anexo IV — Manifesto de captura",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "## Anexo IV — Manifesto de captura\n\n(a que se refere o artigo 11.º)\n\n(ver modelo no documento original)\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  },
+  "216136041": {
+   "fragment_id": "136478814",
+   "type": 14,
+   "heading": "Anexo V — Modelos do cartão de apanhador e da licença de apanhador",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29",
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+   ],
+   "markdown": "## Anexo V — Modelos do cartão de apanhador e da licença de apanhador\n\n(ver modelos no documento original)\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 229/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/229-2023-216055969), em vigor a partir de 2023-07-29\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 144/2006 - Diário da República n.º 36/2006, Série I-B de 2006-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/144-2006-676832), em vigor a partir de 2006-02-21"
+  }
+ }
+}

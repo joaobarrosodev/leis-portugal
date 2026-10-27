@@ -1,0 +1,238 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:543733:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-75688302",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/23-2012-543733",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-02-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75670651",
+    "75670652",
+    "75670653",
+    "75670654",
+    "75670655",
+    "75670656",
+    "75670657",
+    "75670658",
+    "75670659",
+    "75670660",
+    "75670661",
+    "75670662",
+    "75670664"
+   ]
+  },
+  {
+   "date": "2016-11-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75688300:por",
+     "title": "Decreto Regulamentar n.º 4/2016",
+     "published": "2016-11-08",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/4-2016-75688300"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "75670651",
+    "75670652",
+    "75670670",
+    "75670654",
+    "75670655",
+    "75670656",
+    "75670657",
+    "75670658",
+    "75670659",
+    "75670660",
+    "75670661",
+    "75670662",
+    "75670663",
+    "75670664"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201414019:por",
+     "title": "Decreto-Lei n.º 61/2022",
+     "published": "2022-09-23",
+     "dre_path": "/dr/detalhe/decreto-lei/61-2022-201414019"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "75670651",
+    "75670652",
+    "1090529075",
+    "75670654",
+    "75670655",
+    "75670656",
+    "75670657",
+    "75670658",
+    "75670659",
+    "75670660",
+    "75670661",
+    "75670662",
+    "75670663",
+    "201540309"
+   ]
+  }
+ ],
+ "fragments": {
+  "75670651": {
+   "fragment_id": "75688303",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 23/2012\n\nde 9 de fevereiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nCom o novo quadro regulador do Ministério da Saúde promove-se a racionalização das estruturas e melhor utilização dos seus recursos humanos, reforçando as competências de cada serviço na área da sua missão nuclear.\n\nPelo presente decreto regulamentar procede-se à aprovação da lei orgânica da Secretaria-Geral do Ministério da Saúde, prevendo-se um modelo de funcionamento e organização que pretende concretizar a prossecução das atribuições definidas pelo Governo, através do reforço das competências ao nível da gestão do cadastro do património de todo o ministério.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938) O presente decreto regulamentar encontra-se revogado pelo Decreto-Lei n.º 43-B/2024, de 2 de julho. Contudo, a revogação apenas produz efeitos em 1 de janeiro de 2026, nos termos do faseamento operacional definido no Anexo IV deste."
+  },
+  "75670652": {
+   "fragment_id": "75688304",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria-Geral do Ministério da Saúde (MS), abreviadamente designada por SG, é um serviço central da administração directa do Estado, dotado de autonomia administrativa."
+  },
+  "75670653": {
+   "fragment_id": "75688305",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MS e aos demais órgãos, serviços e organismos deste Ministério que não integram o SNS, nos domínios da gestão de recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação e da comunicação e relações públicas.\n\n2 - A SG prossegue as seguintes atribuições:\n\na) Prestar o apoio administrativo, técnico, jurídico e de contencioso aos gabinetes dos membros do Governo integrados no MS, bem como aos demais serviços, organismos e outras estruturas que não disponham de unidades orgânicas com competências nas referidas áreas;\n\nb) Assegurar as actividades do MS no âmbito do atendimento e informação ao público, da comunicação e relações públicas, bem como proceder à recolha, tratamento e difusão de informação de carácter geral ou especializado, facilitando o seu acesso aos cidadãos e profissionais da saúde, designadamente, privilegiando os meios electrónicos;\n\nc) Promover boas práticas de gestão de documentos nos serviços e organismos do MS, bem como organizar e manter um serviço de documentação;\n\nd) Estudar, programar e coordenar a aplicação de medidas tendentes a promover a inovação, modernização e a política de qualidade, no âmbito do ministério, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;\n\ne) Coordenar as acções referentes à organização e preservação do património e arquivo histórico e proceder à recolha, tratamento, conservação e comunicação dos arquivos, que deixem de ser de uso corrente nos respectivos organismos produtores;\n\nf) Coordenar as acções referentes à organização, preservação e actualização do cadastro do património do MS e das entidades por ele tuteladas, assegurando a correcta articulação com os serviços responsáveis pelo património do Estado;\n\ng) Instruir processos de aquisição, alienação, arrendamento, permuta, avaliação, locação financeira, restituição por desocupação e de constituição de direitos sobre imóveis dos serviços e organismos do MS;\n\nh) Gerir o edifício sede do MS, bem como outras instalações que lhe estejam afectas;\n\ni) Assegurar as funções de unidade ministerial de compras em relação aos bens e serviços cuja contratação não seja da competência da entidade pública prestadora de serviços partilhados do MS;\n\nj) Gerir o pessoal em situação de mobilidade especial que lhe seja afecto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais;\n\nl) Assegurar a elaboração do orçamento de funcionamento da SG e dos gabinetes dos membros do Governo do MS, bem como acompanhar a respectiva execução de acordo com a legislação em vigor;\n\nm) Assegurar o normal funcionamento do MS nas áreas que não sejam da competência específica de outros serviços;\n\nn) Prestar apoio logístico e administrativo aos serviços, organismos e órgãos do MS cujos diplomas orgânicos assim o determinem.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) . As alterações ao presente artigo produzem efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023."
+  },
+  "75670654": {
+   "fragment_id": "75688306",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nA SG é dirigida por um secretário-geral, cargo de direcção superior de 1.º grau."
+  },
+  "75670655": {
+   "fragment_id": "75688307",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Secretário-geral\n\n1 - Compete ao secretário-geral dirigir e orientar a acção dos órgãos e serviços da SG, nos termos das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas.\n\n2 - O secretário-geral identifica o titular do cargo de direcção intermédia de 1.º grau que o substitui nas suas faltas e impedimentos."
+  },
+  "75670656": {
+   "fragment_id": "75688308",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna dos serviços da SG obedece ao seguinte modelo estrutural misto:\n\na) Nas áreas de actividade de apoio administrativo, apoio técnico-jurídico e de contencioso, de gestão de recursos e de informação, o modelo de estrutura hierarquizada;\n\nb) Nas áreas da comunicação, da modernização e inovação e das políticas de qualidade transversais ao MS, o modelo de estrutura matricial, assente em equipas multidisciplinares."
+  },
+  "75670657": {
+   "fragment_id": "75688309",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Receitas\n\n1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A SG dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) O produto da emissão de certidões e da autenticação de documentos e do fornecimento de reproduções de documentos oficiais, em suporte analógico ou digital;\n\nc) As receitas provenientes da realização de projectos financiados com fundos estruturais comunitários;\n\nd) O produto da venda de publicações e trabalhos editados em qualquer tipo de suporte pela SG;\n\ne) Quaisquer outras receitas provenientes da prossecução das suas actividades que lhe sejam atribuídas por lei, contrato ou outro título.\n\n3 - A SG fica autorizada a aceitar comparticipações e subsídios concedidos por quaisquer entidades, públicas ou privadas, nacionais, internacionais e estrangeiras, a inscrever no respectivo orçamento em dotações com compensação em receita, destinadas à realização de acções inseridas no âmbito do seu programa de actividades.\n\n4 - As quantias cobradas pela SG são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento."
+  },
+  "75670658": {
+   "fragment_id": "75688310",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas\n\nConstituem despesas da SG as que resultam de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "75670659": {
+   "fragment_id": "75688311",
+   "type": 11,
+   "heading": "Artigo 8.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º grau e de direcção intermédia de 1.º grau da SG constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante."
+  },
+  "75670660": {
+   "fragment_id": "75688312",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estatuto remuneratório dos chefes de equipas multidisciplinares\n\nAos chefes de equipas multidisciplinares é atribuído o estatuto remuneratório equiparado a chefe de divisão."
+  },
+  "75670661": {
+   "fragment_id": "75688313",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar n.º 65/2007, de 29 de Maio."
+  },
+  "75670662": {
+   "fragment_id": "75688314",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "75670664": {
+   "fragment_id": "75688316",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 8.º)\n\n(ver documento original)\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) . A alteração ao presente anexo produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023."
+  },
+  "75670670": {
+   "fragment_id": "75688305",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2016-11-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2016-75688300), em vigor a partir de 2016-11-09"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MS e aos demais órgãos, serviços e organismos deste Ministério que não integram o SNS, nos domínios da gestão de recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação e da comunicação e relações públicas.\n\n2 - A SG prossegue as seguintes atribuições:\n\na) Prestar o apoio administrativo, técnico, jurídico e de contencioso aos gabinetes dos membros do Governo integrados no MS, bem como aos demais serviços, organismos e outras estruturas que não disponham de unidades orgânicas com competências nas referidas áreas;\n\nb) Assegurar as actividades do MS no âmbito do atendimento e informação ao público, da comunicação e relações públicas, bem como proceder à recolha, tratamento e difusão de informação de carácter geral ou especializado, facilitando o seu acesso aos cidadãos e profissionais da saúde, designadamente, privilegiando os meios electrónicos;\n\nc) Promover boas práticas de gestão de documentos nos serviços e organismos do MS, bem como organizar e manter um serviço de documentação;\n\nd) Estudar, programar e coordenar a aplicação de medidas tendentes a promover a inovação, modernização e a política de qualidade, no âmbito do ministério, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;\n\ne) Coordenar as acções referentes à organização e preservação do património e arquivo histórico e proceder à recolha, tratamento, conservação e comunicação dos arquivos, que deixem de ser de uso corrente nos respectivos organismos produtores;\n\nf) Coordenar as acções referentes à organização, preservação e actualização do cadastro do património do MS e das entidades por ele tuteladas, assegurando a correcta articulação com os serviços responsáveis pelo património do Estado;\n\ng) Instruir processos de aquisição, alienação, arrendamento, permuta, avaliação, locação financeira, restituição por desocupação e de constituição de direitos sobre imóveis dos serviços e organismos do MS;\n\nh) Gerir o edifício sede do MS, bem como outras instalações que lhe estejam afectas;\n\ni) Assegurar as funções de unidade ministerial de compras em relação aos bens e serviços cuja contratação não seja da competência da entidade pública prestadora de serviços partilhados do MS;\n\nj) Gerir o pessoal em situação de mobilidade especial que lhe seja afecto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais;\n\nl) Assegurar a elaboração do orçamento de funcionamento da SG e dos gabinetes dos membros do Governo do MS, bem como acompanhar a respectiva execução de acordo com a legislação em vigor;\n\nm) Assegurar o normal funcionamento do MS nas áreas que não sejam da competência específica de outros serviços;\n\nn) Prestar apoio logístico e administrativo aos serviços, organismos e órgãos do MS cujos diplomas orgânicos assim o determinem;\n\no) Assegurar o apoio, coordenação e acompanhamento do Subsistema de Avaliação do Desempenho dos Serviços da Administração Pública (SIADAP 1) no âmbito dos órgãos, serviços e organismos do MS que não integram o SNS.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2016-75688300), em vigor a partir de 2016-11-09"
+  },
+  "75670663": {
+   "fragment_id": "75688315",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.\n\nPromulgado em 2 de Fevereiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 6 de Fevereiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "1090529075": {
+   "fragment_id": "75688305",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2016-75688300), em vigor a partir de 2016-11-09"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MS e aos demais órgãos, serviços e organismos deste Ministério que não integram o SNS, nos domínios da gestão de recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação e da comunicação e relações públicas.\n\n2 - A SG prossegue as seguintes atribuições:\n\na) Prestar o apoio administrativo, técnico, jurídico e de contencioso aos gabinetes dos membros do Governo integrados no MS, bem como aos demais serviços, organismos e outras estruturas que não disponham de unidades orgânicas com competências nas referidas áreas;\n\nb) Assegurar as actividades do MS no âmbito do atendimento e informação ao público, da comunicação e relações públicas, bem como proceder à recolha, tratamento e difusão de informação de carácter geral ou especializado, facilitando o seu acesso aos cidadãos e profissionais da saúde, designadamente, privilegiando os meios electrónicos;\n\nc) Promover boas práticas de gestão de documentos nos serviços e organismos do MS, bem como organizar e manter um serviço de documentação;\n\nd) Estudar, programar e coordenar a aplicação de medidas tendentes a promover a inovação, modernização e a política de qualidade, no âmbito do ministério, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;\n\ne) Coordenar as acções referentes à organização e preservação do património e arquivo histórico e proceder à recolha, tratamento, conservação e comunicação dos arquivos, que deixem de ser de uso corrente nos respectivos organismos produtores;\n\nf) Coordenar as acções referentes à organização, preservação e actualização do cadastro do património do MS e das entidades por ele tuteladas, assegurando a correcta articulação com os serviços responsáveis pelo património do Estado;\n\ng) Instruir processos de aquisição, alienação, arrendamento, permuta, avaliação, locação financeira, restituição por desocupação e de constituição de direitos sobre imóveis dos serviços e organismos do MS;\n\nh) Gerir o edifício sede do MS, bem como outras instalações que lhe estejam afectas;\n\ni) Assegurar as funções de unidade ministerial de compras em relação aos bens e serviços cuja contratação não seja da competência da entidade pública prestadora de serviços partilhados do MS;\n\nj) (Revogada.)\n\nl) Assegurar a elaboração do orçamento de funcionamento da SG e dos gabinetes dos membros do Governo do MS, bem como acompanhar a respectiva execução de acordo com a legislação em vigor;\n\nm) Assegurar o normal funcionamento do MS nas áreas que não sejam da competência específica de outros serviços;\n\nn) Prestar apoio logístico e administrativo aos serviços, organismos e órgãos do MS cujos diplomas orgânicos assim o determinem;\n\no) Assegurar o apoio, coordenação e acompanhamento do Subsistema de Avaliação do Desempenho dos Serviços da Administração Pública (SIADAP 1) no âmbito dos órgãos, serviços e organismos do MS que não integram o SNS.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) . As alterações ao presente artigo produzem efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2016-75688300), em vigor a partir de 2016-11-09"
+  },
+  "201540309": {
+   "fragment_id": "75688316",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 8.º)",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 8.º)\n\n(ver documento original)\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) . A alteração ao presente anexo produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01"
+  }
+ }
+}

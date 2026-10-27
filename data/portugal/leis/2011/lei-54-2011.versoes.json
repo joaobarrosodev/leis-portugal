@@ -1,0 +1,526 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:146915:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2011-927159192",
+ "dre_path": "/dr/detalhe/lei/54-2011-146915",
+ "source_lastmod": "2025-07-30",
+ "versions": [
+  {
+   "date": "2011-10-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "926904890",
+    "926904891",
+    "926904892",
+    "926904893",
+    "926904895",
+    "926904896",
+    "926904897",
+    "926904898",
+    "926904899",
+    "926904900",
+    "926904901",
+    "926904902",
+    "926904903",
+    "926904904",
+    "926904905",
+    "926904906",
+    "926904907",
+    "926904908",
+    "926904909",
+    "926904910",
+    "926904911",
+    "926904912",
+    "926904913",
+    "926904914",
+    "926904915",
+    "926904916",
+    "926904917",
+    "926904918",
+    "926904919",
+    "926904920",
+    "926904921",
+    "926904922",
+    "926904923",
+    "926904924",
+    "926904925",
+    "926904926",
+    "926904927",
+    "926904928",
+    "926904929",
+    "926904930",
+    "926904931",
+    "926904932",
+    "926904933",
+    "926904934",
+    "926904935",
+    "926904936"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66016527:por",
+     "title": "Lei n.º 82-B/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-b-2014-66016527"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "926904890",
+    "926904891",
+    "926904892",
+    "926904893",
+    "926904894",
+    "926904895",
+    "926904896",
+    "926904897",
+    "926904898",
+    "926904899",
+    "926904900",
+    "926904901",
+    "926904902",
+    "926904903",
+    "926904904",
+    "926904905",
+    "926904906",
+    "926904907",
+    "926904908",
+    "926904909",
+    "926904910",
+    "926904911",
+    "926904912",
+    "926904913",
+    "926904914",
+    "926904937",
+    "926904916",
+    "926904917",
+    "926904918",
+    "926904919",
+    "926904920",
+    "926904921",
+    "926904922",
+    "926904923",
+    "926904924",
+    "926904925",
+    "926904926",
+    "926904927",
+    "926904938",
+    "926904929",
+    "926904930",
+    "926904931",
+    "926904932",
+    "926904933",
+    "926904934",
+    "926904935",
+    "926904936"
+   ]
+  }
+ ],
+ "fragments": {
+  "926904890": {
+   "fragment_id": "927159193",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 54/2011\n\nde 19 de Outubro\n\nAprova os estatutos do conselho das finanças públicas, criado pelo artigo 12.º-I da Lei n.º 91/2001, de 20 de Agosto (lei de enquadramento orçamental), republicada pela Lei n.º 22/2011, de 20 de Maio.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "926904891": {
+   "fragment_id": "927159194",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei visa aprovar os estatutos do conselho das finanças públicas, adiante designado por conselho, criado pelo artigo 12.º-I da Lei n.º 91/2001, de 20 de Agosto, republicada pela Lei n.º 22/2011, de 20 de Maio, publicados em anexo à presente lei, da qual fazem parte integrante."
+  },
+  "926904892": {
+   "fragment_id": "927159195",
+   "type": 11,
+   "heading": "Artigo 2.º — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Disposições transitórias e finais\n\n1 - No prazo de 10 dias a contar da primeira nomeação dos membros do conselho será disponibilizada a verba necessária para assegurar o início do seu funcionamento, por despacho do Ministro das Finanças.\n\n2 - Nos anos subsequentes ao do início do funcionamento do conselho, será inscrita no Orçamento do Estado a verba necessária a assegurar o seu pleno funcionamento, a qual só pode ser reduzida em circunstâncias excepcionais, devidamente fundamentadas.\n\n3 - A primeira nomeação dos membros do conselho ocorre no prazo de 60 dias a contar da entrada em vigor da presente lei, iniciando o exercício efectivo das suas funções a partir da atribuição das dotações necessárias ao funcionamento do conselho.\n\n4 - Na primeira nomeação após a aprovação da presente lei, os mandatos dos membros do conselho têm a seguinte duração:\n\na) O mandato do presidente, sete anos;\n\nb) Os mandatos do vice-presidente e do vogal executivo, cinco anos;\n\nc) Os mandatos dos vogais não executivos, três anos."
+  },
+  "926904893": {
+   "fragment_id": "927159196",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "926904895": {
+   "fragment_id": "927159198",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DO CONSELHO DAS FINANÇAS PÚBLICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTOS DO CONSELHO DAS FINANÇAS PÚBLICAS\n\n(a que se refere o artigo 1.º)"
+  },
+  "926904896": {
+   "fragment_id": "927159199",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "926904897": {
+   "fragment_id": "927159200",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO conselho das finanças públicas, adiante designado por conselho, é uma pessoa colectiva de direito público, com a natureza de entidade administrativa independente, dotada de autonomia administrativa e financeira e de património próprio, estando sujeita ao regime dos serviços e fundos autónomos."
+  },
+  "926904898": {
+   "fragment_id": "927159201",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime jurídico\n\nO conselho rege-se pelos presentes estatutos, pelas disposições legais que lhe sejam especificamente aplicáveis e pelo seu regulamento interno."
+  },
+  "926904899": {
+   "fragment_id": "927159202",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede\n\nO conselho tem a sua sede em Portugal."
+  },
+  "926904900": {
+   "fragment_id": "927159203",
+   "type": 11,
+   "heading": "Artigo 4.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Missão\n\nO conselho tem como missão proceder a uma avaliação independente sobre a consistência, cumprimento e sustentabilidade da política orçamental, promovendo ao mesmo tempo a sua transparência, de modo a contribuir para a qualidade da democracia e das decisões de política económica e para o reforço da credibilidade financeira do Estado."
+  },
+  "926904901": {
+   "fragment_id": "927159204",
+   "type": 11,
+   "heading": "Artigo 5.º — Independência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Independência\n\n1 - O conselho e os membros dos respectivos órgãos actuam de forma independente no desempenho das funções que lhes estão cometidas por lei e pelos presentes estatutos, não podendo solicitar nem receber instruções da Assembleia da República, do Governo ou de quaisquer outras entidades públicas ou privadas.\n\n2 - A independência financeira do conselho, bem como a sua capacidade de cumprir integralmente a respectiva missão, são asseguradas financeiramente pelo Orçamento do Estado."
+  },
+  "926904902": {
+   "fragment_id": "927159205",
+   "type": 11,
+   "heading": "Artigo 6.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atribuições\n\nPara o desempenho da sua missão, são conferidas ao conselho as seguintes atribuições:\n\na) Avaliar os cenários macroeconómicos adoptados pelo Governo e a consistência das projecções orçamentais com esses cenários;\n\nb) Avaliar o cumprimento das regras orçamentais estabelecidas;\n\nc) Analisar a dinâmica da dívida pública e a evolução da sua sustentabilidade;\n\nd) Analisar a dinâmica de evolução dos compromissos existentes, com particular incidência nos sistemas de pensões e saúde e nas parcerias público-privadas e concessões, incluindo a avaliação das suas implicações na sustentabilidade das finanças públicas;\n\ne) Avaliar a situação financeira das regiões autónomas e das autarquias locais;\n\nf) Avaliar a situação económica e financeira das entidades do sector público empresarial e o seu potencial impacto sobre a situação consolidada das contas públicas e sua sustentabilidade;\n\ng) Analisar a despesa fiscal;\n\nh) Acompanhar a execução orçamental."
+  },
+  "926904903": {
+   "fragment_id": "927159206",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação de relatórios\n\n1 - No âmbito das suas atribuições, o conselho produz, obrigatória e previamente à sua apreciação na Assembleia da República, relatórios sobre:\n\na) O Programa de Estabilidade e Crescimento e demais procedimentos no quadro regulamentar europeu do Pacto de Estabilidade e Crescimento;\n\nb) O Quadro Plurianual de Programação Orçamental;\n\nc) A proposta de Orçamento do Estado.\n\n2 - A produção do relatório sobre a proposta de Orçamento do Estado e a sua apresentação na Assembleia da República não prejudica o início do processo da sua discussão, previsto na lei de enquadramento orçamental.\n\n3 - O conselho deve igualmente produzir relatórios regulares sobre a sustentabilidade das contas públicas e outros que considere convenientes.\n\n4 - Todos os relatórios elaborados pelo conselho são enviados ao Presidente da República, à Assembleia da República, ao Governo, ao Tribunal de Contas e ao Banco de Portugal e disponibilizados na sua página electrónica."
+  },
+  "926904904": {
+   "fragment_id": "927159207",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso à informação\n\n1 - O conselho tem acesso a toda a informação de natureza económica e financeira necessária ao cumprimento da sua missão, estando todas as entidades públicas obrigadas ao fornecimento atempado de tal informação, e aos esclarecimentos adicionais que lhes forem solicitados.\n\n2 - Cabe ao conselho definir o conjunto de informação a que tem de aceder de forma automática e regular, de acordo com um calendário predefinido.\n\n3 - O acesso à informação referido nos números anteriores obedece às restrições previstas na lei em matéria de segredo de Estado, de segredo de justiça e de sigilo bancário.\n\n4 - Para efeitos da avaliação prevista na alínea a) do artigo 6.º, o Governo disponibiliza obrigatoriamente ao conselho os modelos macroeconómicos utilizados, bem como os pressupostos assumidos.\n\n5 - O incumprimento do dever de prestação de informação em tempo oportuno por parte das entidades públicas será objecto de divulgação na página electrónica do conselho.\n\n6 - Se o incumprimento for considerado grave pelo conselho, deve ser comunicado ao Presidente da República, à Assembleia da República, ao Tribunal de Contas e ao Banco de Portugal."
+  },
+  "926904905": {
+   "fragment_id": "927159208",
+   "type": 11,
+   "heading": "Artigo 9.º — Cooperação com entidades externas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cooperação com entidades externas\n\nO conselho deve promover a cooperação com entidades internacionais que prossigam missão semelhante, podendo participar em fóruns relacionados com questões orçamentais ou macroeconómicas."
+  },
+  "926904906": {
+   "fragment_id": "927159209",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "926904907": {
+   "fragment_id": "927159210",
+   "type": 8,
+   "heading": "Secção I — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos"
+  },
+  "926904908": {
+   "fragment_id": "927159211",
+   "type": 11,
+   "heading": "Artigo 10.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Órgãos\n\nSão órgãos do conselho das finanças públicas o conselho superior, a comissão executiva e o fiscal único."
+  },
+  "926904909": {
+   "fragment_id": "927159212",
+   "type": 8,
+   "heading": "Secção II — Conselho superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho superior"
+  },
+  "926904910": {
+   "fragment_id": "927159213",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselho superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselho superior\n\nO conselho superior é o órgão máximo do conselho, sendo responsável pelo cumprimento da sua missão, pela prossecução das suas atribuições, pela definição do seu plano de actividades e pela aprovação dos regulamentos internos."
+  },
+  "926904911": {
+   "fragment_id": "927159214",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - O conselho superior é um órgão colegial constituído por cinco membros.\n\n2 - Os membros do conselho superior devem ser personalidades de reconhecido mérito, com experiência nas áreas económica e de finanças públicas e com elevado grau de independência.\n\n3 - O conselho superior pode integrar até dois membros não nacionais, preferencialmente de outros Estados membros da União Europeia.\n\n4 - São membros do conselho superior o presidente, o vice-presidente, um vogal executivo e dois vogais não executivos.\n\n5 - O presidente e o vogal executivo são obrigatoriamente residentes em Portugal.\n\n6 - O presidente será um cidadão nacional.\n\n7 - Os membros do conselho superior não podem ser todos do mesmo género."
+  },
+  "926904912": {
+   "fragment_id": "927159215",
+   "type": 11,
+   "heading": "Artigo 13.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Nomeação\n\n1 - Os membros do conselho superior são nomeados pelo Conselho de Ministros, sob proposta conjunta do Presidente do Tribunal de Contas e do Governador do Banco de Portugal.\n\n2 - Até 60 dias antes do final dos mandatos dos membros do conselho superior deve proceder-se à nomeação dos novos membros.\n\n3 - Nos 30 dias posteriores à cessação do mandato de um membro do conselho superior, por qualquer das causas previstas nas alíneas b) a h) do n.º 1 do artigo 15.º, proceder-se-á à nomeação de um novo membro.\n\n4 - As nomeações referidas nos números anteriores são publicadas na 2.ª série do Diário da República nos cincos dias posteriores à deliberação do Conselho de Ministros.\n\n5 - Os membros do conselho superior tomam posse perante o Presidente da Assembleia da República no prazo máximo de 30 dias após o final do mandato dos seus antecessores ou da publicação da respectiva nomeação, nos casos previstos no n.º 3."
+  },
+  "926904913": {
+   "fragment_id": "927159216",
+   "type": 11,
+   "heading": "Artigo 14.º — Duração e renovação dos mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Duração e renovação dos mandatos\n\n1 - O mandato dos membros do conselho superior tem a duração de sete anos.\n\n2 - Os membros do conselho superior cessam funções com a tomada de posse dos novos membros.\n\n3 - O mandato dos membros do conselho superior não é renovável, com a excepção do mandato dos vogais não executivos, que pode ser renovado uma vez.\n\n4 - Os membros cessantes não podem voltar a ser nomeados antes de decorridos cinco anos desde o termo do seu mandato anterior."
+  },
+  "926904914": {
+   "fragment_id": "927159217",
+   "type": 11,
+   "heading": "Artigo 15.º — Cessação do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Cessação do mandato\n\n1 - O mandato dos membros do conselho superior cessa:\n\na) Na data do respectivo termo;\n\nb) Por morte ou incapacidade permanente;\n\nc) Por interdição ou inabilitação decretada judicialmente;\n\nd) Por renúncia;\n\ne) Por condenação, transitada em julgado, pela prática de qualquer crime;\n\nf) Por incompatibilidade;\n\ng) Por falta injustificada a duas reuniões;\n\nh) Por exoneração, com fundamento em falta grave no exercício das suas funções, sob proposta conjunta do Presidente do Tribunal de Contas e do Governador do Banco de Portugal.\n\n2 - A justificação da falta prevista na alínea g) do número anterior é verificada pelos restantes membros do conselho superior, ficando a denegação da justificação sujeita a unanimidade.\n\n3 - O membro do conselho superior cuja justificação esteja a ser alvo de deliberação, nos termos do número anterior, está impedido de participar e votar nessa deliberação."
+  },
+  "926904915": {
+   "fragment_id": "927159218",
+   "type": 11,
+   "heading": "Artigo 16.º — Garantias de independência e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Garantias de independência e incompatibilidades\n\n1 - Sem prejuízo do disposto nas alíneas b), c), e), f), g) e h) do n.º 1 do artigo anterior, os membros do conselho superior são inamovíveis.\n\n2 - Não pode ser nomeado membro do conselho superior quem seja, ou nos últimos dois anos tenha sido, Deputado ao Parlamento Europeu, Deputado de Parlamento Nacional, membro do Governo, membro dos Governos Regionais, de órgãos executivos das autarquias locais, de órgãos executivos nacionais de um partido político ou gestor público.\n\n3 - Durante o seu mandato, os membros do conselho superior não podem desempenhar outras funções públicas ou privadas em Portugal nem em quaisquer outras entidades cujas atribuições possam objectivamente ser geradoras de conflitos de interesse com as suas funções no conselho.\n\n4 - O disposto no número anterior não abrange o exercício gratuito de funções docentes no ensino superior e de actividade de investigação."
+  },
+  "926904916": {
+   "fragment_id": "927159219",
+   "type": 11,
+   "heading": "Artigo 17.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reuniões e deliberações\n\n1 - O conselho superior reúne por iniciativa do presidente ou a solicitação de dois dos seus membros e obrigatoriamente:\n\na) Para avaliar os resultados da execução orçamental do ano anterior e as propostas contidas no Programa de Estabilidade e Crescimento;\n\nb) Para apreciar o Quadro Plurianual de Programação Orçamental e a proposta de Orçamento do Estado.\n\n2 - A reunião destinada a apreciar a proposta de Orçamento do Estado é realizada em tempo útil e não prejudica o processo da sua discussão na Assembleia da República, previsto na lei de enquadramento orçamental.\n\n3 - O conselho superior só pode deliberar com a presença de um mínimo de quatro dos seus membros.\n\n4 - Cada membro do conselho superior dispõe de um voto, sendo as decisões adoptadas por maioria simples.\n\n5 - Em caso de empate tem voto de qualidade o presidente e, na sua ausência, o vice-presidente.\n\n6 - O director dos serviços técnicos prepara e secretaria as reuniões do conselho superior, assistindo às mesmas, sem direito de voto.\n\n7 - Os relatórios são objecto de discussão e aprovação pelo conselho superior antes de serem tornados públicos.\n\n8 - As reuniões realizadas para efeitos do disposto no n.º 1 são seguidas de audições parlamentares ao presidente e ao vice-presidente, bem como de posterior conferência de imprensa de ambos."
+  },
+  "926904917": {
+   "fragment_id": "927159220",
+   "type": 11,
+   "heading": "Artigo 18.º — Competências do presidente do conselho superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competências do presidente do conselho superior\n\nCompete ao presidente do conselho superior:\n\na) Convocar e presidir ao conselho superior, ouvindo previamente o vice-presidente, e dirigir as suas reuniões;\n\nb) Coordenar a actividade do conselho superior;\n\nc) Presidir à comissão executiva e, nessa qualidade, participar na gestão corrente do conselho;\n\nd) Participar nas audições parlamentares e nas conferências de imprensa;\n\ne) Exercer quaisquer outras competências que lhe sejam cometidas pelo regulamento interno ou delegadas pelo conselho superior."
+  },
+  "926904918": {
+   "fragment_id": "927159221",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências do vice-presidente do conselho superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências do vice-presidente do conselho superior\n\nCompete ao vice-presidente do conselho superior:\n\na) Pronunciar-se previamente sobre a convocatória do conselho superior e sobre as matérias a tratar;\n\nb) Substituir o presidente nas suas funções não executivas nas suas ausências ou impedimentos;\n\nc) Participar nas audições parlamentares e nas conferências de imprensa;\n\nd) Exercer quaisquer outras competências que lhe sejam atribuídas pelo regulamento interno."
+  },
+  "926904919": {
+   "fragment_id": "927159222",
+   "type": 11,
+   "heading": "Artigo 20.º — Estatuto dos membros do conselho superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Estatuto dos membros do conselho superior\n\n1 - O estatuto remuneratório dos membros do conselho superior é fixado por uma comissão de vencimentos, constituída por três membros e nomeada por despacho do Ministro das Finanças, sob proposta conjunta do Presidente do Tribunal de Contas e do Governador do Banco de Portugal.\n\n2 - Na fixação do estatuto remuneratório dos membros do conselho superior a comissão de vencimentos deve, tanto quanto seja compatível com a preservação da respectiva independência, ter em conta a situação financeira e orçamental do Estado e o limite decorrente da Lei n.º 102/88, de 25 de Agosto.\n\n3 - Os membros do conselho superior beneficiam do regime de segurança social de que gozavam à data da respectiva nomeação ou, na sua falta, do regime geral da segurança social."
+  },
+  "926904920": {
+   "fragment_id": "927159223",
+   "type": 8,
+   "heading": "Secção III — Comissão executiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Comissão executiva"
+  },
+  "926904921": {
+   "fragment_id": "927159224",
+   "type": 11,
+   "heading": "Artigo 21.º — Comissão executiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comissão executiva\n\nA comissão executiva assegura a gestão corrente do conselho."
+  },
+  "926904922": {
+   "fragment_id": "927159225",
+   "type": 11,
+   "heading": "Artigo 22.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Composição\n\n1 - A comissão executiva é composta, por inerência das respectivas funções, pelo presidente do conselho superior, pelo vogal executivo e pelo director dos serviços técnicos do conselho.\n\n2 - O presidente do conselho superior preside à comissão executiva.\n\n3 - O vogal executivo substitui o presidente da comissão executiva, nas suas ausências ou impedimentos, no que se refere exclusivamente às funções executivas."
+  },
+  "926904923": {
+   "fragment_id": "927159226",
+   "type": 8,
+   "heading": "Secção IV — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Fiscal único"
+  },
+  "926904924": {
+   "fragment_id": "927159227",
+   "type": 11,
+   "heading": "Artigo 23.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Fiscal único\n\nO fiscal único é o órgão responsável pelo controlo da gestão financeira e patrimonial do conselho e sua legalidade."
+  },
+  "926904925": {
+   "fragment_id": "927159228",
+   "type": 11,
+   "heading": "Artigo 24.º — Designação, mandato e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Designação, mandato e remuneração\n\n1 - O fiscal único é um revisor oficial de contas ou uma sociedade de revisores oficiais de contas, designado por despacho do Ministro das Finanças, sob proposta conjunta do Presidente do Tribunal de Contas e do Governador do Banco de Portugal.\n\n2 - O fiscal único é designado por um período de cinco anos, não renovável, devendo assegurar funções até à sua substituição.\n\n3 - A remuneração do fiscal único é fixada sob proposta conjunta do Presidente do Tribunal de Contas e do Governador do Banco de Portugal."
+  },
+  "926904926": {
+   "fragment_id": "927159229",
+   "type": 11,
+   "heading": "Artigo 25.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competência\n\nCompete, designadamente, ao fiscal único:\n\na) Acompanhar e controlar a gestão financeira e patrimonial do conselho;\n\nb) Examinar periodicamente a situação financeira e económica do conselho e verificar o cumprimento das normas reguladoras da sua actividade;\n\nc) Emitir parecer prévio no prazo máximo de 10 dias sobre a aquisição, oneração, arrendamento e alienação de bens imóveis;\n\nd) Emitir parecer sobre o relatório de gestão e contas do conselho;\n\ne) Emitir parecer sobre qualquer assunto que lhe seja submetido pelo conselho superior ou pela comissão executiva;\n\nf) Participar às entidades competentes as irregularidades que detecte."
+  },
+  "926904927": {
+   "fragment_id": "927159230",
+   "type": 1,
+   "heading": "Capítulo III — Organização dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização dos serviços"
+  },
+  "926904928": {
+   "fragment_id": "927159231",
+   "type": 11,
+   "heading": "Artigo 26.º — Serviços técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Serviços técnicos\n\n1 - O conselho dispõe dos serviços técnicos necessários ao desempenho das suas atribuições, sendo a respectiva dotação, organização, funcionamento e competências fixados em regulamento interno.\n\n2 - Os serviços técnicos são dirigidos por um director.\n\n3 - O director é designado de entre o pessoal dos serviços técnicos, em regime de comissão de serviços com a duração de três anos, podendo ser renovada por deliberação do conselho superior.\n\n4 - O director exerce as competências que lhe são delegadas pela comissão executiva.\n\n5 - O regime de recrutamento do pessoal dos serviços técnicos é definido pela comissão executiva, dando prioridade aos instrumentos de mobilidade dentro da Administração Pública, sem prejuízo da possibilidade de abertura de concursos internacionais.\n\n6 - O pessoal dos serviços técnicos encontra-se sujeito ao regime do contrato individual de trabalho, sendo abrangido pelo regime geral da segurança social.\n\n7 - O pessoal que detenha uma relação jurídica de emprego público exerce as suas funções por acordo de cedência de interesse público, nos termos da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n8 - O estatuto remuneratório do pessoal dos serviços técnicos é fixado pela comissão de vencimentos.\n\n9 - O pessoal dos serviços técnicos tem regime de exclusividade, não podendo desempenhar quaisquer outras funções públicas ou privadas."
+  },
+  "926904929": {
+   "fragment_id": "927159232",
+   "type": 1,
+   "heading": "Capítulo IV — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime financeiro"
+  },
+  "926904930": {
+   "fragment_id": "927159233",
+   "type": 11,
+   "heading": "Artigo 27.º — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Receitas e despesas\n\n1 - Constituem receitas do conselho as verbas provenientes do Orçamento do Estado.\n\n2 - O conselho dispõe ainda das seguintes receitas próprias:\n\na) Os subsídios, doações, heranças, legados e quaisquer liberalidades feitas a seu favor por entidades públicas ou privadas, aceites nos termos legais;\n\nb) O produto de venda de bens próprios ou da constituição de direitos sobre eles;\n\nc) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título.\n\n3 - As verbas provenientes do Orçamento do Estado só podem ser reduzidas em circunstâncias excepcionais, devidamente fundamentadas.\n\n4 - Constituem despesas do conselho as que resultem dos encargos e responsabilidades decorrentes do seu funcionamento, bem como quaisquer outras necessárias à prossecução das suas atribuições.\n\n5 - Os saldos das dotações orçamentais apurados em cada ano transitam para o orçamento do ano seguinte no montante e nos termos a definir anualmente no decreto-lei de execução orçamental."
+  },
+  "926904931": {
+   "fragment_id": "927159234",
+   "type": 11,
+   "heading": "Artigo 28.º — Vinculação do conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Vinculação do conselho\n\n1 - O conselho obriga-se pela assinatura:\n\na) De dois membros da comissão executiva, se de outra forma não for deliberado pelo conselho superior;\n\nb) De quem estiver habilitado para o efeito, nos termos e âmbito do respectivo mandato.\n\n2 - Os actos de mero expediente podem ser assinados por qualquer membro da comissão executiva ou por pessoal dos serviços técnicos a quem tal poder tenha sido expressamente conferido."
+  },
+  "926904932": {
+   "fragment_id": "927159235",
+   "type": 11,
+   "heading": "Artigo 29.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Orçamento\n\nA preparação do orçamento do conselho é da responsabilidade do conselho superior, estando sujeito a parecer favorável emitido conjuntamente pelo Presidente do Tribunal de Contas e pelo Governador do Banco de Portugal."
+  },
+  "926904933": {
+   "fragment_id": "927159236",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização"
+  },
+  "926904934": {
+   "fragment_id": "927159237",
+   "type": 11,
+   "heading": "Artigo 30.º — Fiscalização do Tribunal de Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Fiscalização do Tribunal de Contas\n\nO conselho está sujeito à jurisdição e controlo financeiro do Tribunal de Contas."
+  },
+  "926904935": {
+   "fragment_id": "927159238",
+   "type": 11,
+   "heading": "Artigo 31.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Responsabilidade\n\n1 - Os titulares dos órgãos do conselho e o pessoal dos serviços técnicos respondem civil, criminal, disciplinar e financeiramente pelos actos e omissões que pratiquem no exercício das suas funções.\n\n2 - A responsabilidade financeira é efectivada pelo Tribunal de Contas, nos termos da respectiva legislação."
+  },
+  "926904936": {
+   "fragment_id": "927159239",
+   "type": 11,
+   "heading": "Artigo 32.º — Página electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Página electrónica\n\nAs análises e relatórios elaborados pelo conselho são disponibilizados ao público na sua página electrónica, em língua portuguesa e língua inglesa, que deve conter:\n\na) Os dados relevantes sobre o conselho, nomeadamente os diplomas legislativos que lhe dizem respeito, os regulamentos internos, a composição dos seus órgãos, incluindo os correspondentes elementos biográficos, e os relatórios de gestão e contas;\n\nb) Os relatórios técnicos expressamente previstos no presente diploma, bem como os documentos de análise produzidos pelo conselho;\n\nc) Informação sobre situações de incumprimento em matéria de solicitação de informações, nos termos do n.º 5 do artigo 8.º"
+  },
+  "926904894": {
+   "fragment_id": "927159197",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de Setembro de 2011.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 7 de Outubro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 10 de Outubro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\nANEXO\n\nESTATUTOS DO CONSELHO DAS FINANÇAS PÚBLICAS\n\n(a que se refere o artigo 1.º)"
+  },
+  "926904937": {
+   "fragment_id": "927159218",
+   "type": 11,
+   "heading": "Artigo 16.º — Garantias de independência e incompatibilidades",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 187.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Garantias de independência e incompatibilidades\n\n1 - Sem prejuízo do disposto nas alíneas b), c), e), f), g) e h) do n.º 1 do artigo anterior, os membros do conselho superior são inamovíveis.\n\n2 - Não pode ser nomeado membro do conselho superior quem seja, ou nos últimos dois anos tenha sido, Deputado ao Parlamento Europeu, Deputado de Parlamento Nacional, membro do Governo, membro dos Governos Regionais, de órgãos executivos das autarquias locais, de órgãos executivos nacionais de um partido político ou gestor público.\n\n3 - Durante o seu mandato, os membros do conselho superior não podem desempenhar outras funções públicas ou privadas em Portugal nem em quaisquer outras entidades cujas atribuições possam objectivamente ser geradoras de conflitos de interesse com as suas funções no conselho.\n\n4 - O disposto no número anterior não abrange o exercício de funções docentes no ensino superior e de atividade de investigação, salvaguardada a prioridade ao trabalho prestado a favor do conselho.\n\n> Alterado pelo/a Artigo 187.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "926904938": {
+   "fragment_id": "927159231",
+   "type": 11,
+   "heading": "Artigo 26.º — Serviços técnicos",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 187.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Serviços técnicos\n\n1 - O conselho dispõe dos serviços técnicos necessários ao desempenho das suas atribuições, sendo a respectiva dotação, organização, funcionamento e competências fixados em regulamento interno.\n\n2 - Os serviços técnicos são dirigidos por um director.\n\n3 - O director é designado de entre o pessoal dos serviços técnicos, em regime de comissão de serviços com a duração de três anos, podendo ser renovada por deliberação do conselho superior.\n\n4 - O director exerce as competências que lhe são delegadas pela comissão executiva.\n\n5 - O regime de recrutamento do pessoal dos serviços técnicos é definido pela comissão executiva, dando prioridade aos instrumentos de mobilidade dentro da Administração Pública, sem prejuízo da possibilidade de abertura de concursos internacionais.\n\n6 - O pessoal dos serviços técnicos encontra-se sujeito ao regime do contrato individual de trabalho, sendo abrangido pelo regime geral da segurança social.\n\n7 - O pessoal que detenha uma relação jurídica de emprego público exerce as suas funções por acordo de cedência de interesse público, nos termos da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n8 - O estatuto remuneratório do pessoal dos serviços técnicos é fixado pela comissão de vencimentos.\n\n9 - O conselho pode solicitar a colaboração de pessoal pertencente a quadros de pessoas coletivas de direito público, do setor empresarial do Estado, local e regional, e de empresas privadas, para o desempenho das suas atribuições.\n\n10 - O pessoal dos serviços técnicos tem regime de exclusividade, não podendo desempenhar quaisquer outras funções públicas ou privadas, sem prejuízo, mediante autorização da comissão executiva, do exercício de funções docentes no ensino superior e de atividade de investigação, bem como a realização de conferências, palestras, ações de formação de curta duração e outras atividades de idêntica natureza.\n\n> Alterado pelo/a Artigo 187.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  }
+ }
+}

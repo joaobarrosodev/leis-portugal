@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:106829419:por
+title: Decreto-Lei n.º 41/2017
+short_title: null
+summary: Procede à criação do Julgado de Paz do Oeste
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Justiça
+proposing_entity: null
+official_number: 41/2017
+official_date: null
+publication_date: '2017-04-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 68/2017, Série I de 2017-04-05
+  number: '68'
+  series: I
+  supplement: null
+  pages: 1728 - 1729
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/04/06800/0172801729.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/41/2017/04/05/p/dre/pt/html
+  oj: null
+  dre: '106829419'
+  dre_path: /dr/detalhe/decreto-lei/41-2017-106829419
+  internal: pt:dre:106829419:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2017-106829419
+  metadata_url: https://data.dre.pt/eli/dec-lei/41/2017/04/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2017-106829419
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:33:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a35ee29595b9621b19b7cdc903322ca27124aba7098c99ffce4be02a5cfcd9e1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alcobaça
+- Alenquer
+- Arruda dos Vinhos
+- Bombarral
+- Cadaval
+- Caldas da Rainha
+- Criação de Serviços
+- Extinção de Serviços
+- Julgado de Paz
+- Lourinhã
+- Nazaré
+- Óbidos
+- Peniche
+- Sobral de Monte Agraço
+- Torres Vedras
+relationships:
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
+- type: cites
+  target: pt:dre:498679:por
+  label: null
+  source: http://data.dre.pt/eli/lei/54/2013/07/31/p/dre
+- type: cites
+  target: pt:dre:604782:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/60/2009/03/04/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:33:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 41/2017
+
+de 5 de abril
+
+O Programa do XXI Governo Constitucional assume o compromisso de promoção de mecanismos de resolução alternativa de litígios, designadamente através do alargamento da rede dos Julgados de Paz.
+
+Até à presente data, a rede dos Julgados de Paz, constituída por 25 Julgados de Paz distribuídos pelo território nacional, abrangendo 61 Concelhos e 3 415 023 habitantes, assenta em parcerias públicas, firmadas pela celebração de protocolos entre a área governativa da justiça e os municípios.
+
+Com a publicação da [Lei n.º 54/2013](https://diariodarepublica.pt/dr/detalhe/lei/54-2013-498679), de 31 de julho, que procedeu à primeira alteração à [Lei n.º 78/2001](https://diariodarepublica.pt/dr/detalhe/lei/78-2001-388220), de 13 de julho, que aprovou a Lei de organização, competência e funcionamento dos Julgados de Paz, passou a prever-se que podem ser constituídos Julgados de Paz junto de entidades públicas de reconhecido mérito.
+
+Por outro lado, e de acordo com o disposto no n.º 1 do artigo 3.º da [Lei n.º 78/2001](https://diariodarepublica.pt/dr/detalhe/lei/78-2001-388220), de 13 de julho, a criação dos Julgados de Paz é efetuada por diploma do Governo.
+
+Assim, e tendo em vista a concretização de um novo modelo de organização dos Julgados de Paz que permita não só servir mais cidadãos e empresas, mas também fazê-lo com uma utilização mais eficiente dos meios existentes, o presente decreto-lei procede à criação de um novo Julgado de Paz em parceria com a Comunidade Intermunicipal do Oeste.
+
+A competência territorial do novo Julgado da Paz abrangerá 12 municípios, que, em conjunto, têm mais de 360 000 habitantes, ou seja, de acordo com os dados do Censos de 2011, cerca de 3,4 % do total da população nacional.
+
+Como consequência da criação deste Julgado de Paz, procede-se à extinção do Julgado de Paz do Agrupamento de Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos, transferindo-se os processos que se encontrem pendentes neste tribunal à data da sua extinção para o Julgado de Paz ora criado.
+
+Foram ouvidos o Conselho dos Julgados de Paz, o Conselho Superior da Magistratura, a Ordem dos Solicitadores e Agentes de Execução, a Associação dos Juízes de Paz Portugueses e a Associação Nacional de Freguesias.
+
+Foi promovida a audição da Ordem dos Advogados, da Associação Nacional de Municípios Portugueses, da Federação Nacional de Mediação de Conflitos e da Associação de Mediadores de Conflitos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à criação do Julgado de Paz do Oeste, extinguindo o Julgado de Paz do Agrupamento dos Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos.
+
+###### Artigo 2.º — Julgado de Paz do Oeste
+
+1 - É criado o Julgado de Paz do Oeste, cuja circunscrição territorial abrange os seguintes municípios:
+
+a) Alcobaça;
+
+b) Alenquer;
+
+c) Arruda dos Vinhos;
+
+d) Bombarral;
+
+e) Cadaval;
+
+f) Caldas da Rainha;
+
+g) Lourinhã;
+
+h) Nazaré;
+
+i) Óbidos;
+
+j) Peniche;
+
+k) Sobral de Monte Agraço;
+
+l) Torres Vedras.
+
+2 - O Julgado de Paz do Oeste tem sede no município do Bombarral e uma delegação em cada um dos restantes municípios referidos no número anterior.
+
+3 - O lugar da sede e das delegações locais do Julgado de Paz do Oeste são definidos nos termos previstos pelo regulamento interno, aprovado por portaria do membro do Governo responsável pela área da justiça, e os respetivos horários são definidos por protocolo entre o membro do Governo responsável pela área da justiça e a Comunidade Intermunicipal do Oeste.
+
+4 - A composição, a organização e o funcionamento do Julgado de Paz a que se refere o n.º 1 são definidos nos termos do seu regulamento interno.
+
+5 - Os montantes obtidos a título de custas no Julgado de Paz do Oeste são repartidos pela área governativa da justiça e pela Comunidade Intermunicipal do Oeste, nos termos a fixar na portaria a que se refere o n.º 5 do artigo 5.º da [Lei n.º 78/2001](https://diariodarepublica.pt/dr/detalhe/lei/78-2001-388220), de 13 de julho, na redação dada pela [Lei n.º 54/2013](https://diariodarepublica.pt/dr/detalhe/lei/54-2013-498679), de 31 de julho, com as necessárias adaptações.
+
+###### Artigo 3.º — Extinção do Julgado de Paz do Agrupamento dos Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos
+
+É extinto o Julgado de Paz do Agrupamento dos Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos.
+
+###### Artigo 4.º — Transferência de processos para o Julgado de Paz do Oeste
+
+1 - Os processos que se encontrem pendentes no Julgado de Paz do Agrupamento dos Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos à data da sua extinção transferem-se para o Julgado de Paz referido no n.º 1 do artigo 2.º
+
+2 - A transferência de processos referida no número anterior opera-se nos seguintes termos:
+
+a) Os processos cujo demandante seja residente ou tenha domicílio nos municípios de Alcobaça ou Nazaré são transferidos para a delegação de Alcobaça;
+
+b) Os processos cujo demandante seja residente ou tenha domicílio nos municípios de Caldas da Rainha ou Óbidos são transferidos para a sede do Julgado de Paz.
+
+###### Artigo 5.º — Norma revogatória
+
+É revogada a alínea a) do artigo 1.º e o n.º 1 do artigo 2.º do [Decreto-Lei n.º 60/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2009-604782), de 4 de março.
+
+###### Artigo 6.º — Entrada em vigor
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - Sem prejuízo do disposto no número anterior, os artigos 3.º e 5.º entram em vigor na data da instalação do Julgado de Paz do Oeste.
+
+Visto e aprovado em Conselho de Ministros de 23 de fevereiro de 2017. - António Luís Santos da Costa - Fernando António Portela Rocha de Andrade - Francisca Eugénia da Silva Dias Van Dunem.
+
+Promulgado em 13 de março de 2017.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 23 de março de 2017.
+
+O Primeiro-Ministro, António Luís Santos da Costa.

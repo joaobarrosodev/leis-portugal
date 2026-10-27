@@ -1,0 +1,424 @@
+---
+schema_version: '1.0'
+id: pt:dre:660957:por
+title: Decreto Legislativo Regional n.º 14/2006/M
+short_title: null
+summary: Estabelece o regime jurídico de núcleo infantil na Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 14/2006/M
+official_date: null
+publication_date: '2006-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 80/2006, Série I-A de 2006-04-24
+  number: '80'
+  series: I
+  supplement: null
+  pages: 2881 - 2885
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/04/080a00/28812885.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-03-23'
+version_history:
+  file: decreto-legislativo-regional-14-2006-m.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-03-23'
+    amending: pt:dre:180830504:por
+    amending_title: Decreto Legislativo Regional n.º 7/2022/M
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/14/2006/m/cons/20220322/pt/html
+  oj: null
+  dre: '660957'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/14-2006-660957
+  internal: pt:dre:660957:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2006-660957
+  metadata_url: https://data.dre.pt/eli/declegreg/14/2006/m/cons/20220322/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-180863746
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2006-180863746
+  retrieved_at: '2026-10-22T12:49:53Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8591d7e27bdb8a02740b1aebf1002668789a85ec7de430eb9e90a573131d6c09
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:49:53Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-14-2006-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- AMA
+- Núcleo Infantil
+- Licenciamento
+- Secretaria Regional da Educação
+- Madeira.região Autónoma
+- Regime Jurídico
+- Educação Pré-escolar
+relationships:
+- type: amended_by
+  target: pt:dre:180830504:por
+  label: Altera Artigo 5.º; Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2022-180830504
+  date: '2022-03-22'
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 27
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:49:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 14/2006/M
+
+Decreto Legislativo Regional n.º 14/2006/M
+
+Estabelece o regime jurídico de núcleo infantil na Região Autónoma da Madeira
+
+As modificações progressivamente introduzidas na organização da vida social e familiar, designadamente as novas realidades profissionais das mães e a impossibilidade, não rara, de recurso à família alargada, têm traçado uma moldura de exigência de assunção de novas estruturas que assegurem o bem-estar quotidiano das crianças. Esta nova realidade tem conduzido à necessidade de encontrar estruturas que assumam acolher as crianças durante o período de trabalho dos pais e encarregados de educação, garantindo as condições adequadas e efectivas de continuidade do processo educativo da criança, favorecendo a sua formação e o seu desenvolvimento equilibrado e integral, tendo em vista a plena inserção na sociedade como ser autónomo, livre e solidário.
+
+Sendo de realçar todo o predominante empenho que, por iniciativa pública e privada, tem contribuído para a implementação de estabelecimentos de educação vocacionados para a educação de infância, designadamente creches, jardins-de-infância e infantários, urge apresentar, satisfatoriamente, respostas complementares às já existentes, tornando-se imperioso a regulação de outras estruturas que possam alargar a oferta sócio-educativa já disponível e criar uma nova opção de escolha para os pais e encarregados de educação no que concerne ao acolher crianças situadas na faixa etária dos 3 meses aos 3 anos de idade.
+
+A adequação das estruturas sócio-educativas às necessidades e exigências da sociedade moderna é, pois, um vector fulcral para a sua sustentabilidade e evolução.
+
+Com o objectivo de proceder à satisfação das necessidades da população nas vertentes educativa e social, contribuindo para assegurar a igualdade de oportunidades de educação a todas as crianças, salvaguardando a qualidade dos serviços prestados e a homogeneidade no tratamento das realidades, o presente diploma estabelece o regime jurídico aplicável aos titulares de núcleos infantis e define o respectivo enquadramento.
+
+Importa, assim, adequar este diploma às especificidades próprias da Região Autónoma da Madeira no que respeita ao licenciamento de pessoas para acolher crianças em núcleos infantis durante o tempo de trabalho ou impedimento dos pais e encarregados de educação e condições de enquadramento.
+
+Assim:
+
+A Assembleia Legislativa da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, com a redacção dada pela Lei n.º 130/99, de 21 de Agosto, alterada pela Lei n.º 12/2000, de 21 de Junho, decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Âmbito e objectivo
+
+1 - O presente diploma estabelece o regime jurídico aplicável aos núcleos infantis e as condições do seu enquadramento.
+
+2 - O objectivo da resposta prosseguida através dos núcleos infantis visa contribuir para assegurar o acolhimento de crianças de idades compreendidas entre os 3 meses e os 3 anos durante o período do trabalho dos pais e encarregados de educação, proporcionando-lhes condições favoráveis ao seu desenvolvimento equilibrado e integral e à satisfação das necessidades da sociedade.
+
+###### Artigo 2.º — Conceitos
+
+Para efeitos do presente diploma considera-se:
+
+a) «Titular de núcleo infantil» a pessoa detentora de licença para acolher crianças que não sejam suas parentes ou afins na linha recta, por um período de tempo diário correspondente ao trabalho ou impedimento dos pais e encarregados de educação e não superior a onze horas;
+
+b) «Núcleo infantil» a estrutura com fins sócio-educativos, frequentada por crianças dos 3 meses aos 3 anos, excepcionalmente os 4 anos de idade, cuja gestão é da inteira responsabilidade do titular;
+
+c) «Instituição elo» o estabelecimento de educação da rede escolar regional, com a valência de creche ou educação pré-escolar, enquadradora de um conjunto de titulares de núcleos infantis, nos termos do presente diploma.
+
+### Capítulo II — Dos titulares
+
+#### Secção I — Licenciamento
+
+###### Artigo 3.º — Competência
+
+1 - Compete à Secretaria Regional de Educação, designada no presente diploma por SRE, promover e desenvolver o processo de licenciamento de titular de núcleo infantil.
+
+2 - Compete à SRE a definição da programação no que concerne aos titulares de núcleos infantis, tendo por referência, designadamente, as instituições elo, visando o respectivo apoio e supervisão.
+
+###### Artigo 4.º — Inscrição
+
+Os interessados na candidatura a titular de núcleo infantil deverão proceder a uma inscrição na SRE, a fim de serem avaliadas as condições de natureza habitacional e familiar apresentadas.
+
+###### Artigo 5.º — Autorização de funcionamento do núcleo infantil
+
+1 - A avaliação das condições do núcleo infantil é realizada por uma equipa constituída por técnicos da SRE, com formação e experiência na área de infância.
+
+2 - Compete ao membro do Governo Regional responsável pela área da educação autorizar o funcionamento do núcleo infantil cuja avaliação prevista no número anterior seja favorável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2022/M - Diário da República n.º 57/2022, Série I de 2022-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2022-180830504), em vigor a partir de 2022-03-23
+
+###### Artigo 6.º — Candidatura e requisitos
+
+A pessoa cuja avaliação referida no artigo anterior seja favorável, poderá formalizar na SRE a candidatura a titular de núcleo infantil, devendo ainda satisfazer os requisitos de ordem pessoal seguintes:
+
+a) Idade superior ou igual a 21 anos;
+
+b) Portadora de habilitações académicas mínimas;
+
+c) Portadora de robustez física e mental.
+
+###### Artigo 7.º — Recrutamento e selecção
+
+1 - O recrutamento e selecção dos candidatos a titular de núcleo infantil deverá harmonizar-se com a programação estabelecida a nível deste segmento complementar, no que respeita a cada concelho da Região, e na observância das disposições constantes do presente diploma.
+
+2 - Para efeitos do previsto no número anterior, será nomeada uma comissão de análise de candidaturas, abreviadamente designada por CAC, constituída por três técnicos de educação com formação e experiência nas áreas de educação de infância, de inspecção de educação e de psicologia.
+
+###### Artigo 8.º — Período experimental
+
+1 - Aos candidatos seleccionados será exigido, na qualidade de condição prévia, um período experimental a desenvolver num estabelecimento de educação que prossiga a valência de creche ou, na ausência desta, com educação pré-escolar, sob a orientação de uma equipa técnico-pedagógica.
+
+2 - O período experimental com a duração de quatro a cinco semanas será avaliado pela equipa técnico-pedagógica e deverá integrar três componentes:
+
+a) A interacção com as crianças;
+
+b) A vertente teórica a incidir, nomeadamente, nos aspectos de saúde preventiva e do desenvolvimento integral da criança;
+
+c) A abordagem ao enquadramento dos núcleos infantis face aos estabelecimentos de educação com a valência de creche.
+
+3 - Excepcionalmente, mediante apresentação de documento comprovativo de formação específica na área de educação de infância ou exercício de funções em estabelecimento de educação com valência de creche ou educação pré-escolar, com avaliação favorável do desempenho no mesmo, sob proposta da CAC, poderá a SRE autorizar a dispensa no que concerne ao previsto nas alíneas a) e b) do número anterior.
+
+###### Artigo 9.º — Licença
+
+1 - Concluído o período experimental com avaliação favorável, mediante comprovativo de que o candidato procedeu aos devidos registos nas finanças e na segurança social, a SRE concederá a licença, cujo modelo será aprovado por portaria, pelo período de cinco anos, renovável por iguais períodos.
+
+2 - Não será concedida a licença a pessoas com idade superior a 65 anos, salvo situações excepcionais devidamente fundamentadas.
+
+###### Artigo 10.º — Suspensão e cancelamento da licença de titular e encerramento do núcleo
+
+1 - A licença de titular de núcleo pode ser temporariamente suspensa nos casos em que:
+
+a) O titular decida, justificadamente e com carácter transitório, suspender o funcionamento do núcleo infantil, comunicando-o com a antecedência mínima de 60 dias, salvo situações ponderosas;
+
+b) A SRE tenha conhecimento de alteração nas condições do funcionamento do núcleo infantil e considere que aquelas aconselham a suspensão temporária, visando o bem-estar das crianças.
+
+2 - O cancelamento da licença de titular de núcleo ocorre:
+
+a) Face à decisão do titular em proceder ao encerramento definitivo do núcleo infantil, comunicada à SRE com a antecedência mínima de 60 dias;
+
+b) Por decisão da SRE, sempre que ocorram factos que comprovem a falta de condições exigidas para o exercício da atividade de titular de núcleo e dos quais possa resultar perigo para a integridade física ou moral das crianças;
+
+c) Face ao incumprimento do disposto no presente diploma.
+
+3 - Constituem causas de encerramento compulsivo do núcleo infantil:
+
+a) A não existência de licença do titular ou de autorização do núcleo nos termos previstos no presente diploma;
+
+b) O funcionamento do núcleo infantil em condições de grave degradação e dos quais possa resultar perigo para a integridade física ou moral das crianças.
+
+4 - O procedimento de suspensão ou cancelamento da licença de titular e o encerramento compulsivo do núcleo é instaurado por despacho do membro do Governo Regional responsável pela área da educação e instruído pela Inspeção Regional de Educação.
+
+5 - A decisão de suspensão ou cancelamento da licença de titular e o encerramento compulsivo do núcleo tem lugar por despacho fundamentado do membro do Governo Regional responsável pela área da educação, o qual fixa as condições e os prazos em que o mesmo pode ocorrer.
+
+6 - A decisão de suspensão ou cancelamento da licença de titular e o encerramento compulsivo do núcleo é precedida da audição do titular de núcleo, sob pena de nulidade.
+
+7 - O encerramento compulsivo do núcleo infantil pode ser solicitado às autoridades administrativas e policiais, com comunicação do despacho correspondente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2022/M - Diário da República n.º 57/2022, Série I de 2022-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2022-180830504), em vigor a partir de 2022-03-23
+
+#### Secção II — Dos direitos e obrigações
+
+###### Artigo 11.º — Contratos de apoio aos titulares de núcleo infantil
+
+1 - A formação e os apoios técnico-pedagógico e administrativo aos titulares de núcleo infantil serão objeto de contrato de cooperação.
+
+2 - Poderão ser celebrados contratos-programa entre o Governo Regional e os titulares de núcleo infantil, nos termos definidos no diploma que aprova o orçamento da Região Autónoma da Madeira, com vista a apoiar o funcionamento do núcleo.
+
+3 - Os critérios para atribuição de apoios financeiros aos titulares de núcleo infantil previstos no número anterior são regulados por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da educação e das finanças.
+
+4 - Os núcleos infantis cujos titulares recebam apoios da Região ficam sujeitos às inspeções administrativas e financeiras dos serviços competentes da SRE que se mostrem necessárias em função das obrigações contratuais assumidas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2022/M - Diário da República n.º 57/2022, Série I de 2022-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2022-180830504), em vigor a partir de 2022-03-23
+
+###### Artigo 12.º — Dotação global de crianças
+
+Compete à SRE a autorização, por núcleo infantil, da dotação global de crianças a acolher, preferencialmente de idades distintas, dentro do grupo etário estipulado, integrando a contabilização os filhos ou crianças familiares do titular, com idades compreendidas entre os 3 meses e os 3 anos, excepcionalmente os 4 anos de idade, devendo esta ser de:
+
+a) Seis, máximo de sete no caso de existirem irmãos;
+
+b) Quatro, no caso de existir uma criança com deficiência;
+
+c) Três, no caso de existirem duas crianças com deficiência.
+
+###### Artigo 13.º — Selecção e admissão das crianças
+
+1 - O titular, em cada ano escolar, procederá à selecção das crianças a admitir no núcleo infantil, garantindo a execução do direito de preferência para aquelas que, já frequentando o núcleo, os pais e encarregados de educação não manifestem interesse na cessação do serviço.
+
+2 - O cômputo do número de crianças admitidas e a frequentar o núcleo infantil não deverá exceder a dotação global autorizada.
+
+###### Artigo 14.º — Remuneração
+
+No início do ano escolar, o titular fixará o valor da remuneração mensal por cada criança que frequente o núcleo infantil, sendo o pagamento do mesmo encargo dos pais e encarregados de educação e devido durante 11 meses.
+
+###### Artigo 15.º — Períodos de interrupção
+
+O titular procederá a um período de interrupção do funcionamento do núcleo infantil:
+
+a) Nas épocas do Natal, do Carnaval e da Páscoa, nos dias considerados festivos e nos feriados;
+
+b) Durante um mês, no período de Junho a Setembro, o qual será determinado tendo em consideração, também, os interesses dos pais e encarregados de educação.
+
+###### Artigo 16.º — Obrigações
+
+O titular do núcleo infantil fica vinculado ao cumprimento, designadamente, das seguintes obrigações:
+
+a) Garantir um bom nível qualitativo dos serviços prestados, de acordo com os princípios estabelecidos no presente diploma e com as orientações técnicas da instituição elo;
+
+b) Prestar às crianças cuidados infantis adequados, assegurando-lhes a rotina da vida diária, bem como a satisfação das suas necessidades físicas, emocionais, educativas e sociais;
+
+c) Manter as crianças em boas condições de segurança e higiene, prevenindo a ocorrência de situações de acidente;
+
+d) Estar disponível para acolher as crianças durante cinco dias semanais;
+
+e) Promover, em colaboração com o educador de infância, a participação das crianças que frequentam o núcleo em actividades na instituição elo, nomeadamente as referentes ao Natal, ao Carnaval, à Páscoa e ao encerramento do ano escolar;
+
+f) Aceitar os apoios técnico-pedagógicos e administrativos e a formação disponibilizados pela instituição elo, bem como a supervisão a implementar pela mesma;
+
+g) Comunicar à instituição elo as crianças admitidas, disponibilizando os respectivos dados;
+
+h) Proceder ao seguro obrigatório de cada criança que frequente o núcleo infantil;
+
+i) Permitir o livre acesso ao núcleo infantil dos técnicos da SRE;
+
+j) Efectuar os descontos obrigatórios de acordo a legislação vigente e aplicável.
+
+### Capítulo III — Funcionamento
+
+#### Secção I — Das crianças
+
+###### Artigo 17.º — Inscrições
+
+Compete à SRE promover o processo de divulgação para as inscrições das crianças, sendo que as mesmas poderão concretizar-se nos núcleos infantis ou nas instituições elo.
+
+###### Artigo 18.º — Condições e requisitos de admissão
+
+1 - As crianças a admitir nos núcleos infantis deverão satisfazer as seguintes condições:
+
+a) Ter idade compreendida entre os 3 meses e os 3 anos, excepcionalmente, os 4 anos de idade;
+
+b) Não sofrer de qualquer doença infecto-contagiosa;
+
+c) Ausência ou impossibilidade, por parte dos pais e encarregados de educação, em assegurar às crianças os cuidados e acompanhamento necessários.
+
+2 - Para efeitos de admissão nos núcleos infantis, deverão ser apresentados os seguintes documentos:
+
+a) Assento de nascimento;
+
+b) Boletim de vacinas actualizado;
+
+c) Declaração médica comprovativa de que a criança não sofre de qualquer doença infecto-contagiosa.
+
+###### Artigo 19.º — Integração, recepção e permanência
+
+1 - Revestindo-se de vital importância a integração das crianças no núcleo infantil, esta deverá decorrer na moldura mais adequada às características de cada uma, sendo concretizada de forma planeada e progressiva.
+
+2 - A recepção de cada criança deve processar-se em condições de segurança pelos pais e encarregados de educação ou outros devidamente autorizados e o titular do núcleo infantil, salvo nos dias em que estas participem nas actividades da instituição elo.
+
+3 - As crianças têm o direito de crescer em condições de segurança, de saúde e de educação favoráveis ao seu desenvolvimento harmonioso e integral, pelo que os períodos de permanência diária e semanal no núcleo infantil de cada uma serão objecto de acordo entre os pais e encarregados de educação e o titular, devendo, portanto, os mesmos circunscrever ao necessário e adequado.
+
+###### Artigo 20.º — Seguro
+
+As crianças colocadas nos núcleos infantis terão obrigatoriamente um seguro para acidentes e cobertura médica para urgências e cuidados primários, sendo da responsabilidade das famílias o pagamento dos respectivos prémios.
+
+###### Artigo 21.º — Alimentação
+
+A alimentação das crianças colocadas em núcleos infantis constitui encargo das famílias.
+
+#### Secção II — Instituições elo
+
+###### Artigo 22.º — Atribuições e competências
+
+1 - No âmbito das suas atribuições e competências, a instituição elo implementará a sua intervenção nas áreas da formação, dos apoios técnico-pedagógico e administrativo e da supervisão.
+
+2 - O exercício das atribuições cometidas à instituição elo efectivar-se-á em harmonização com as orientações emanadas pela SRE e com as respectivas competências da directora e dos órgãos do estabelecimento e monitorizado por um educador de infância que coordenará, no âmbito da sua componente lectiva, o trabalho de um grupo de titulares, cujo número não deve exceder 10.
+
+###### Artigo 23.º — Formação e apoio
+
+1 - No que concerne à formação, compete à instituição elo:
+
+a) Promover a participação dos titulares na formação que a SRE determinar;
+
+b) Promover a actualização dos conhecimentos dos titulares através dos meios que considerar mais apropriados.
+
+2 - No âmbito do apoio técnico-pedagógico e administrativo, à instituição elo compete:
+
+a) Colaborar na colocação das crianças nos núcleos infantis;
+
+b) Em cumprimento das orientações superiormente emanadas, prestar todo o apoio técnico-pedagógico necessário ao bom desempenho dos titulares e do funcionamento dos núcleos infantis;
+
+c) Promover a harmonização permanente entre os titulares e os pais e encarregados de educação, pelos meios considerados mais adequados, privilegiando sempre a interacção pessoal, de forma a existirem garantias da efectiva continuidade do processo sócio-educativo de cada criança;
+
+d) Promover, em colaboração com os titulares e os pais e encarregados de educação, a participação das crianças que frequentam os núcleos infantis em actividades na instituição elo, designadamente as referentes ao Natal, ao Carnaval, à Páscoa e ao encerramento do ano escolar;
+
+e) Acolher as crianças durante as ausências e impedimentos, devidamente fundamentados, dos titulares;
+
+f) Proceder à organização e actualização dos processos das crianças colocadas nos núcleos infantis e dos respectivos titulares.
+
+###### Artigo 24.º — Supervisão
+
+Sendo atribuição da instituição elo a função de supervisão, compete-lhe:
+
+a) Implementar os mecanismos de acompanhamento e controlo adequados ao garantir da prestação de um serviço sócio-educativo de qualidade, nomeadamente através de presenças regulares do educador de infância nos núcleos infantis;
+
+b) Avaliar no que respeita à adequação do material e do equipamento disponíveis em cada núcleo infantil;
+
+c) Proceder à avaliação do desempenho dos titulares e funcionamento dos núcleos infantis.
+
+### Capítulo IV — Disposições finais e transitórias
+
+###### Artigo 25.º — Disposições finais
+
+1 - Os titulares de núcleos infantis ficam obrigatoriamente abrangidos pelo regime de segurança social dos trabalhadores independentes, em vigor e aplicável.
+
+2 - O presente diploma será regulamentado através de portaria nos 30 dias seguintes ao da sua publicação.
+
+###### Artigo 26.º — Disposição transitória
+
+As pessoas que se encontrem a acolher crianças deverão iniciar a regularização da sua situação de acordo com as normas ora estabelecidas nos 60 dias seguintes à data da publicação do presente diploma.
+
+###### Artigo 27.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Março de 2006.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 10 de Abril de 2006.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

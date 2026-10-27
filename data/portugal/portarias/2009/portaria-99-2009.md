@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:601751:por
+title: Portaria n.º 99/2009
+short_title: null
+summary: Extingue a zona de caça associativa de Vale de Frades (processo n.º 1918-AFN) e cria a zona de caça municipal de
+  Vale de Frades, pelo período de seis anos, e transfere a sua gestão para a Associação de Caça e Pescas de Vale de Frades,
+  passando a integrar os terrenos cinegéticos sitos na freguesia de Vale de Frades, município de Vimioso (processo n.º 5137-AFN)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento
+  Rural e das Pescas
+proposing_entity: null
+official_number: 99/2009
+official_date: null
+publication_date: '2009-01-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/2009, Série I de 2009-01-29
+  number: '20'
+  series: I
+  supplement: null
+  pages: 620 - 620
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/01/02000/0062000620.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/99/2009/01/29/p/dre/pt/html
+  oj: null
+  dre: '601751'
+  dre_path: /dr/detalhe/portaria/99-2009-601751
+  internal: pt:dre:601751:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/99-2009-601751
+  metadata_url: https://data.dre.pt/eli/port/99/2009/01/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/99-2009-601751
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:43:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2242a86296f67304fe7783609975b74a25da2be6be5c062d2ec903df84ea13ca
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:43:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- Vimioso
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: pt:dre:194596:por
+  label: null
+  source: http://data.dre.pt/eli/port/768/1997/08/28/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:43:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 99/2009
+
+de 29 de Janeiro
+
+Pela [Portaria n.º 768/97](https://diariodarepublica.pt/dr/detalhe/portaria/768-1997-194596), de 28 de Agosto, foi concessionada à Associação de Caça e Pesca de Vale de Frades, a zona de caça associativa de Vale de Frades (processo n.º 1918-AFN), situada no município de Vimioso, válida até 28 de Agosto de 2009.
+
+Veio agora aquela Associação solicitar a extinção desta zona de caça, requerendo ao mesmo tempo a criação de uma zona de caça municipal que englobasse aqueles terrenos.
+
+Com fundamento no disposto na alínea a) do artigo 50.º, no artigo 26.º e no n.º 1 do artigo 118.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, ouvido o Conselho Cinegético Municipal;
+
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º É extinta a zona de caça associativa de Vale de Frades (processo n.º 1918-AFN).
+
+2.º Pela presente portaria é criada a zona de caça municipal de Vale de Frades (processo n.º 5137-AFN), pelo período de seis anos, e transferida a sua gestão para a Associação de Caça e Pescas de Vale de Frades, com o número de identificação fiscal 503619744 e sede em 5230-253 Vale de Frades.
+
+3.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Vale de Frades, município de Vimioso, com a área de 1739 ha.
+
+4.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:
+
+a) 50 % relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;
+
+b) 10 % relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;
+
+c) 25 % relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;
+
+d) 15 % aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º
+
+5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.
+
+6.º A zona de caça criada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 16 de Janeiro de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 20 de Janeiro de 2009.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/02000/0062000620.pdf)

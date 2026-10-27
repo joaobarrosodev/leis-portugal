@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:659973:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2000-960548003",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/172-2000-659973",
+ "source_lastmod": "2025-12-03",
+ "versions": [
+  {
+   "date": "2000-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "960548096"
+   ]
+  }
+ ],
+ "fragments": {
+  "960548096": {
+   "fragment_id": "960548004",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 172/2000\n\nConsiderando que a proliferação de meios diversificados de natureza nuclear, química e biológica é hoje uma realidade internacionalmente reconhecida, que vem motivando a preocupação de um número crescente de países e de organizações internacionais de segurança colectiva, nomeadamente da OTAN;\n\nConsiderando que a crescente facilidade na aquisição dos materiais e da tecnologia necessários para produzir e utilizar aqueles meios, designadamente em acções criminosas ou terroristas, constitui uma ameaça, com efeitos altamente gravosos para a população, que vem adquirindo, progressivamente, uma maior consistência e verosimilhança;\n\nConsiderando que, apesar de não haver unanimidade no que respeita ao grau de probabilidade da concretização deste tipo de ameaça, a geral concordância acerca da elevada extensão e gravidade das suas consequências justifica a criação de uma adequada capacidade que garanta a segurança das populações perante a mesma;\n\nConsiderando que, dadas as características desta ameaça, a capacidade para lhe fazer face deverá assentar num sistema global que proporcione uma intervenção imediata e coordenada, a implantar em superfície, cobrindo a totalidade do território nacional e envolvendo recursos e organismos diversificados, designadamente o Serviço Nacional de Protecção Civil, o Serviço Nacional de Bombeiros, as Forças Armadas, as forças de segurança, os serviços de saúde, os serviços de informações, os serviços de protecção do ambiente, a agricultura e as instituições de investigação científica;\n\nConsiderando ainda que o País não está devidamente preparado para responder eficazmente a este tipo de ameaça:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve o seguinte:\n\n1 - É constituído um grupo de trabalho (GT), de natureza interministerial, que integra:\n\na) O vice-presidente do Conselho Nacional de Planeamento Civil de Emergência, que preside;\n\nb) Um dos vice-presidentes do Serviço Nacional de Protecção Civil, que o substitui nas suas faltas e impedimentos;\n\nc) Um adjunto do vice-presidente do Conselho Nacional de Planeamento Civil de Emergência;\n\nd) Representantes dos Ministérios da Defesa Nacional, da Administração Interna, da Economia, da Justiça, do Ambiente e do Ordenamento do Território, da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e da Ciência e Tecnologia, nomeados por despacho ministerial.\n\n2 - O GT pode ainda integrar outros membros que o desenvolvimento dos trabalhos venha a aconselhar, mediante proposta a apresentar ao Ministro da Defesa Nacional.\n\n3 - Compete ao GT:\n\na) Estudar e avaliar, à escala nacional, os riscos decorrentes da ameaça de emprego de meios de natureza nuclear, química e biológica, designadamente no âmbito de acções criminosas ou terroristas, identificando e analisando os potenciais alvos e suas vulnerabilidades;\n\nb) Elaborar uma proposta de política nacional visando a protecção das populações contra a ameaça de emprego dos referidos meios;\n\nc) Elaborar uma proposta para um sistema global que, a nível nacional, assegure uma resposta minimamente credível e eficaz à ameaça daqueles meios.\n\n4 - O GT elabora e apresenta ao Ministro da Defesa Nacional, no prazo de 60 dias a partir da data de publicação desta resolução no Diário da República, uma proposta preliminar sobre os pontos do seu mandato, orientadora da continuação dos trabalhos e, no prazo de 180 dias após a data da comunicação do despacho que sobre esta recair, uma proposta definitiva.\n\n5 - O apoio administrativo ao GT é garantido pelos Serviços de Apoio do Conselho Nacional de Planeamento Civil de Emergência."
+  }
+ }
+}

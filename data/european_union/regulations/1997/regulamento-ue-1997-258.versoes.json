@@ -1,0 +1,518 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R0258:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R0258-20090807",
+ "dre_path": null,
+ "source_lastmod": "2009-08-07",
+ "versions": [
+  {
+   "date": "1997-02-14",
+   "future": false,
+   "celex": "31997R0258",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ffe25dbebd974b0d",
+    "440e5c0aeb60c177",
+    "035ba9c0eb5a09b8",
+    "c1269015f4c3d6ee",
+    "306ca00e0baf8b37",
+    "9f92eb3b684edfe2",
+    "dabeecd33f3a195d",
+    "4dbde691a3b2522f",
+    "c56b533b59b5f539",
+    "02b26882e7a593a9",
+    "e874b1174e8a97fa",
+    "d338ed8c25e4f802",
+    "dbfab4a674f2ab94",
+    "066096b65f11e6ab",
+    "2352dfc2f65b8113",
+    "97b5ed9d5d013186"
+   ]
+  },
+  {
+   "date": "2009-01-20",
+   "future": false,
+   "celex": "01997R0258-20090120",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1829:por",
+     "title": "REGULAMENTO (CE) N. o 1829/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1829"
+    },
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32008R1332:por",
+     "title": "REGULAMENTO (CE) N. o 1332/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008",
+     "published": null,
+     "celex": "32008R1332"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º — As normas de protecção dos dados fornecidos pelo requerente serão adoptadas nos termos do artigo 13º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º"
+   ],
+   "fragments": [
+    "91018e3406909e38",
+    "b85a271ae78de067",
+    "9167dd8234fccce6",
+    "844781b6ea668010",
+    "f16ece14d0c08284",
+    "b427389d2da92dfb",
+    "573bde233112c613",
+    "5343c29cebe14b8c",
+    "eb9c633bdd8567db",
+    "545376849c6a28eb",
+    "fb3315bae7ffa72f",
+    "1eefbffe6007bb9d",
+    "09445523fd2a183d",
+    "8fcd7a75efbfc2ef",
+    "4a7630165bb651e7",
+    "97748b680402312b"
+   ]
+  },
+  {
+   "date": "2009-08-07",
+   "future": false,
+   "celex": "01997R0258-20090807",
+   "acts": [
+    {
+     "id": null,
+     "title": "Regulamento (CE) n. o 1829/2003 do Parlamento Europeu e do Conselho de 22 de Setembro de 2003",
+     "published": null,
+     "celex": "303R1829"
+    },
+    {
+     "id": null,
+     "title": "Regulamento (CE) n. o 1882/2003 do Parlamento Europeu e do Conselho de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "303R1882"
+    },
+    {
+     "id": null,
+     "title": "Regulamento (CE) n. o 1332/2008 do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008",
+     "published": null,
+     "celex": "308R1332"
+    },
+    {
+     "id": null,
+     "title": "Regulamento (CE) n. o 596/2009 do Parlamento Europeu e do Conselho de 18 de Junho de 2009",
+     "published": null,
+     "celex": "309R0596"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "014149a11b8f93cd",
+    "4666ce408a575b32",
+    "ef404f3f48c7c58d",
+    "c4cd6228f81c1cd6",
+    "fd5ae9337f6afb24",
+    "b427389d2da92dfb",
+    "573bde233112c613",
+    "a72b688ec5627909",
+    "851a87a61c16392f",
+    "372f4d71a5166a08",
+    "fb3315bae7ffa72f",
+    "97fcb9555d26e488",
+    "e67dc0a5491cece2",
+    "8fcd7a75efbfc2ef",
+    "4a7630165bb651e7",
+    "b82e44df7d80e9ec"
+   ]
+  }
+ ],
+ "fragments": {
+  "ffe25dbebd974b0d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 258/97 do Parlamento Europeu e do Conselho de 27 de Janeiro de 1997 relativo a novos alimentos e ingredientes alimentares** *Jornal Oficial nº L 043 de 14/02/1997 p. 0001 - 0006*\n\nREGULAMENTO (CE) Nº 258/97 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de Janeiro de 1997 relativo a novos alimentos e ingredientes alimentares\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado (3), tendo em conta o projecto comum aprovado pelo comité de conciliação em 9 de Dezembro de 1996,\n\n(1) Considerando que as disparidades entre as legislações nacionais relativas a novos alimentos e ingredientes alimentares podem prejudicar a livre circulação de géneros alimentícios e criar condições de concorrência desleal, afectando directamente o funcionamento do mercado interno;\n\n(2) Considerando que, para proteger a saúde pública, é necessário garantir que os novos alimentos e ingredientes alimentares sejam sujeitos a uma avaliação de inocuidade única mediante um procedimento comunitário, antes de serem colocados no mercado da Comunidade; que, no caso dos novos alimentos e ingredientes alimentares substancialmente idênticos aos já existentes, se deve prever um procedimento simplificado;\n\n(3) Considerando que os aditivos e aromatizantes alimentares utilizados nos alimentos e os solventes de extracção são abrangidos por outra legislação comunitária e devem, por isso, ser excluídos do âmbito do presente regulamento;\n\n(4) Considerando que devem ser tomadas medidas adequadas para a colocação no mercado de novos alimentos e ingredientes alimentares provenientes de variedades vegetais sujeitas à Directiva 70/457/CEE do Conselho, de 29 de Setembro de 1970, que diz respeito ao catálogo comum das espécies de plantas agrícolas (4) e à Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, respeitante à comercialização das sementes de produtos hortícolas (5);\n\n(5) Considerando que os riscos para o ambiente podem estar associados a novos alimentos e ingredientes alimentares que contenham ou consistam em organismos geneticamente modificados; que a Directiva 90/220/CEE do Conselho, de 23 de Abril de 1990, relativa à libertação deliberada no ambiente de organismos geneticamente modificados (6), determina que deve ser sempre efectuada uma avaliação de riscos ambientais desses produtos, de modo a garantir a segurança do ambiente; que, para prever um sistema comunitário unificado de avaliação desses produtos, se devem tomar disposições no âmbito deste regulamento, relacionadas com uma avaliação de riscos ambientais específicos - avaliação essa que deve ser semelhante à da Directiva 90/220/CEE, nos termos do artigo 10º dessa mesma Directiva -, juntamente com a avaliação do produto a utilizar como alimento ou ingrediente alimentar;\n\n(6) Considerando que o Comité científico para a alimentação humana, instituído pela Decisão 74/234/CEE (7) deve ser consultado sobre todas as questões regulamentares que possam ter efeitos na saúde pública;\n\n(7) Considerando que as disposições da Directiva 89/397/CEE do Conselho, de 14 de Junho de 1989, relativa ao controlo oficial dos géneros alimentícios (8) e da Directiva 93/99/CEE do Conselho, de 29 de Outubro de 1993, relativa a medidas adicionais respeitantes ao controlo oficial dos géneros alimentícios (9), são aplicáveis aos novos alimentos e ingredientes alimentares;\n\n(8) Considerando que, sem prejuízo dos outros requisitos da legislação comunitária relacionados com a rotulagem de géneros alimentícios, devem ser previstos requisitos específicos adicionais de rotulagem; que esses requisitos devem ser sujeitos a disposições precisas para garantir a informação necessária do consumidor; que existem determinados grupos da população, associados a práticas alimentares bem definidas, que devem ser informados da presença num novo alimento de substâncias que não se encontrem no género alimentício equivalente já existente, sempre que esse facto suscite a esses grupos reservas de ordem ética; que os alimentos e ingredientes alimentares que contenham organismos geneticamente modificados e que sejam colocados no mercado não devem ser prejudiciais à saúde humana; que se poderá garantir que o não sejam através da observância do processo de autorização previsto na Directiva 90/220/CEE e/ou através do processo de avaliação único previsto no presente regulamento; que na medida em que «organismo» é definido pelo direito comunitário, no que respeita à rotulagem, a informação do consumidor acerca da presença de um organismo que tenha sido geneticamente modificado constitui uma exigência adicional aplicável aos alimentos e ingredientes alimentares a que se refere o presente regulamento;\n\n(9) Considerando que, no que respeita aos alimentos e ingredientes alimentares destinados à colocação no mercado a fim de serem fornecidos ao consumidor final, e que possam conter tanto produtos tradicionais quanto produtos geneticamente modificados considera-se, sem prejuízo das outras exigências em matéria de rotulagem constantes do presente regulamento, que a informação dos consumidores acerca da possibilidade de organismos geneticamente modificados se encontrarem presentes nos alimentos e ingredientes alimentares preenche - por via de excepção, em especial no que respeita aos transportes em larga escala - os requisitos do artigo 8º;\n\n(10) Considerando que nada impede um fornecedor de informar os consumidores, por meio da rotulagem de um alimento ou ingrediente alimentar, de que o produto em questão não é um novo alimento na acepção do presente regulamento, ou de que as técnicas utilizadas para a obtenção de novos alimentos e que constam do nº 2 do artigo 1º não foram utilizadas na produção do alimento ou ingrediente alimentar em questão;\n\n(11) Considerando que há que prever, no âmbito do presente regulamento, um procedimento que institua uma estreita cooperação entre os Estados-membros e a Comissão no comité permanente dos géneros alimentícios, instituído pela Decisão 69/414/CEE (10);\n\n(12) Considerando que em 20 de Dezembro de 1994 se concluiu um modus vivendi entre o Parlamento Europeu, o Conselho e a Comissão no que respeita às medidas de execução dos actos adoptados segundo o procedimento previsto no artigo 189ºB do Tratado (11),\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "440e5c0aeb60c177": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento tem por objecto a colocação no mercado de novos alimentos ou ingredientes alimentares,\n\n2. O presente regulamento é aplicável à colocação no mercado de alimentos ou de ingredientes alimentares ainda não significativamente utilizados para consumo humano na Comunidade e que se integrem numa das seguintes categorias:\n\na) Alimentos e ingredientes alimentares que contenham ou consistam em organismos geneticamente modificados, na acepção da Directiva 90/220/CEE;\n\nb) Alimentos e ingredientes alimentares produzidos a partir de organismos geneticamente modificados, mas que não os contenham;\n\nc) Alimentos e ingredientes alimentares com uma estrutura molecular primária nova ou intencionalmente alterada;\n\nd) Alimentos e ingredientes alimentares que consistam em ou tenham sido isolados a partir de microrganismos, fungos ou algas;\n\ne) Alimentos e ingredientes alimentares que consistam em ou tenham sido isolados a partir de plantas e ingredientes alimentares isolados a partir de animais, excepto os alimentos e ingredientes alimentares obtidos por meio de práticas de multiplicação ou de reprodução tradicionais, cujos antecedentes sejam seguros no que se refere à utilização como géneros alimentícios;\n\nf) Alimentos e ingredientes alimentares que tenham sido objecto de um processo de fabrico não utilizado correntemente, se esse processo conduzir, em termos de composição ou estrutura dos alimentos ou ingredientes alimentares, a alterações significativas do seu valor nutritivo, metabolismo ou teor de substâncias indesejáveis.\n\n3. Se necessário, poder-se-á determinar, nos termos do artigo 13º, se um tipo de alimento ou de ingrediente alimentar é abrangido pelo nº 2 do presente artigo."
+  },
+  "035ba9c0eb5a09b8": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. O presente regulamento não é aplicável a:\n\na) Aditivos alimentares abrangidos pela Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana (12);\n\nb) Aromatizantes destinados a ser utilizados em géneros alimentícios abrangidos pela Directiva 88/388/CEE do Conselho, de 22 de Junho de 1988, relativa à aproximação das legislações dos Estados-membros no domínio dos aromas destinados a serem utilizados nos géneros alimentícios e dos materiais de base para a respectiva produção (13);\n\nc) Solventes de extracção utilizados na produção de géneros alimentícios abrangidos pela Directiva 88/344/CEE do Conselho, de 13 de Junho de 1988, relativa à aproximação das legislações dos Estados-membros sobre os solventes de extracção utilizados no fabrico de géneros alimentícios e dos respectivos ingredientes (14).\n\n2. As exclusões ao âmbito de aplicação do presente regulamento a que se referem as alíneas a) a c) do nº 1 só serão aplicáveis enquanto os níveis de segurança previstos nas Directivas 89/107/CEE, 88/388/CEE e 88/344/CEE corresponderem ao nível de segurança do presente regulamento.\n\n3. Com a devida observância pelo disposto no artigo 11º, a Comissão assegurará que os níveis de segurança previstos nas directivas a que se refere o nº 2, bem como nas medidas de execução dessas directivas e do presente regulamento, correspondem ao nível de segurança do presente regulamento."
+  },
+  "c1269015f4c3d6ee": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os alimentos ou ingredientes alimentares abrangidos pelo presente regulamento não devem:\n\n- apresentar riscos para o consumidor,\n\n- induzir o consumidor em erro,\n\n- diferir dos alimentos e ingredientes alimentares que estejam destinados a substituir de tal forma que o seu consumo normal possa implicar, em termos nutritivos, uma desvantagem para o consumidor.\n\n2. Os procedimentos previstos nos artigos 4º, 6º, 7º e 8º são aplicáveis à colocação no mercado da Comunidade de alimentos e ingredientes alimentares abrangidos pelo presente regulamento, com base nos critérios definidos no nº 1 do presente artigo e noutros factores pertinentes mencionados nos referidos artigos.\n\nTodavia, em relação aos alimentos ou ingredientes alimentares referidos no presente regulamento e provenientes de variedades vegetais previstas nas Directivas 70/457/CEE e 70/458/CEE, a decisão de autorização referida no artigo 7º será tomada no âmbito dos procedimentos previstos nessas directivas, desde que os princípios de avaliação estabelecidos no presente regulamento bem como os critérios enunciados no nº 1 sejam tomados em consideração, com excepção das disposições relativas à rotulagem desses alimentos ou ingredientes alimentares, que serão estabelecidas nos termos do artigo 8º, de acordo com o procedimento previsto no artigo 13º\n\n3. O nº 2 não é aplicável aos alimentos e ingredientes alimentares referidos no nº 2, alínea b), do artigo 1º, se o organismo geneticamente modificado utilizado no fabrico do alimento ou do ingrediente alimentar for colocado no mercado nos termos do presente regulamento.\n\n4. Em derrogação do nº 2, o procedimento previsto no artigo 5º é aplicável aos alimentos e ingredientes alimentares referidos no nº 2, alíneas b), d) e e), do artigo 1º que, com base nos dados científicos disponíveis e geralmente reconhecidos ou em parecer de um dos organismos competentes referidos no nº 3 do artigo 4º, sejam substancialmente equivalentes a alimentos ou ingredientes alimentares existentes em termos de composição, valor nutritivo, metabolismo, utilização prevista e teor de substâncias indesejáveis.\n\nSe necessário, poder-se-á determinar, de acordo com o procedimento previsto no artigo 13º, se um tipo de alimento ou de ingrediente alimentar é abrangido pelo presente número."
+  },
+  "306ca00e0baf8b37": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. O responsável pela colocação no mercado comunitário, adiante designado «requerente», apresentará o pedido ao Estado-membro onde o produto seja colocado no mercado pela primeira vez e transmitirá, simultaneamente, uma cópia do pedido à Comissão.\n\n2. Proceder-se-á à avaliação inicial prevista no artigo 6º\n\nNo final do procedimento previsto no nº 4 do artigo 6º, o Estado-membro referido no nº 1 informará sem demora o requerente de que:\n\n- pode proceder à colocação no mercado do alimento ou ingrediente alimentar, sempre que a avaliação complementar referida no nº 3 do artigo 6º não seja requerida e não tenha sido formulada qualquer objecção fundamentada nos termos do nº 4 do artigo 6º, ou,\n\n- é necessária uma decisão de autorização nos termos do artigo 7º\n\n3. Todos os Estados-membros notificarão a Comissão do nome e do endereço dos organismos de avaliação dos alimentos competentes no seu território, para elaborar os relatórios de avaliação preliminar previsto no nº 2 do artigo 6º\n\n4. Antes da data de entrada em vigor do presente regulamento, a Comissão publicará recomendações sobre os aspectos científicos respeitantes:\n\n- às informações que devem acompanhar o pedido, bem como à respectiva apresentação,\n\n- à elaboração dos relatórios de avaliação preliminar previstos no artigo 6º\n\n5. As eventuais normas de execução do presente artigo serão adoptadas nos termos do artigo 13º"
+  },
+  "9f92eb3b684edfe2": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nO requerente notificará a Comissão da colocação no mercado de alimentos ou ingredientes alimentares referidos no nº 4 do artigo 3º Essa notificação será acompanhada dos elementos pertinentes referidos no nº 4 do artigo 3º A Comissão enviará aos Estados-membros uma cópia dessa notificação no prazo de 60 dias bem como, a pedido de um Estado-membro, uma cópia dos elementos pertinentes acima referidos. A Comissão publicará anualmente o resumo dessas notificações na série C do Jornal Oficial das Comunidades Europeias.\n\nNo que respeita à rotulagem, aplicar-se-á o disposto no artigo 8º"
+  },
+  "dabeecd33f3a195d": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. O pedido referido no nº 1 do artigo 4º incluirá as informações necessárias, incluindo uma cópia dos estudos efectuados e quaisquer outros elementos que permitam comprovar que o alimento ou ingrediente alimentar preenche os requisitos do nº 1 do artigo 3º, bem como uma proposta adequada de apresentação e rotulagem do alimento ou ingrediente alimentar, de acordo com os requisitos do artigo 8º Além disso, o pedido será acompanhado de um resumo do processo.\n\n2. Após recepção do pedido, o Estado-membro referido no nº 1 do artigo 4º garantirá a realização de uma avaliação preliminar. Para o efeito, comunicará à Comissão a designação do organismo competente em matéria de avaliação de géneros alimentícios que elaborará o relatório de avaliação preliminar ou solicitará à Comissão que contacte outro Estado-membro para que o referido relatório seja elaborado por um dos organismos competentes em matéria de avaliação de géneros alimentícios previstos no nº 3 do artigo 4º\n\nA Comissão comunicará sem demora a todos os Estados-membros uma cópia do resumo do processo apresentado pelo requerente e a designação do organismo encarregado de proceder à avaliação preliminar.\n\n3. O relatório de avaliação preliminar será elaborado num prazo de três meses a contar da data de recepção do pedido que preencha os requisitos do nº 1, de acordo com as recomendações referidas no nº 4 do artigo 4º, e indicará se o alimento ou ingrediente alimentar deve ou não ser sujeito a uma avaliação complementar, nos termos do artigo 7º\n\n4. O Estado-membro em questão comunicará sem demora à Comissão o relatório do organismo competente em matéria de avaliação de géneros alimentícios, e esta transmiti-lo-á aos restantes Estados-membros. No prazo de sessenta dias a contar da data de envio do relatório pela Comissão, os Estados-membros ou a Comissão podem apresentar observações ou objecções fundamentadas em relação à comercialização do alimento ou do ingrediente alimentar em questão. As observações ou objecções poderão incidir também sobre a apresentação ou a rotulagem do alimento ou ingrediente alimentar.\n\nAs observações ou objecções formuladas deverão ser enviadas à Comissão, que as comunicará aos Estados-membros no prazo de sessenta dias referido no parágrafo anterior.\n\nA pedido de um Estado-membro, o requerente fornecerá uma cópia das informações úteis incluídas no pedido."
+  },
+  "4dbde691a3b2522f": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Será tomada uma decisão de autorização, nos termos do artigo 13º, sempre que for exigida uma avaliação complementar, nos termos do nº 3 do artigo 6º, ou que for apresentada uma objecção, nos termos do nº 4 do artigo 6º\n\n2. A decisão definirá o âmbito da autorização e especificará, se necessário:\n\n- as condições de utilização do alimento ou do ingrediente alimentar,\n\n- a designação do alimento ou do ingrediente alimentar, bem como as suas características,\n\n- os requisitos específicos de rotulagem referidos no artigo 8º\n\n3. A Comissão informará sem demora o requerente da decisão tomada. As decisões serão publicadas no Jornal Oficial das Comunidades Europeias."
+  },
+  "c56b533b59b5f539": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Sem prejuízo dos outros requisitos da legislação comunitária sobre rotulagem dos géneros alimentícios, serão aplicáveis aos géneros alimentícios os seguintes requisitos específicos suplementares em matéria de rotulagem para informar o consumidor final:\n\na) De qualquer característica alimentar ou propriedade alimentar, como por exemplo:\n\n- a composição,\n\n- o valor nutritivo ou os efeitos nutricionais,\n\n- a utilização dada ao alimento,\n\ndesde que torne um novo alimento ou ingrediente alimentar não equivalente a um alimento ou ingrediente alimentar já existente.\n\nConsidera-se que um novo alimento ou ingrediente alimentar já não é equivalente, para efeitos de aplicação do presente artigo, se a avaliação científica, baseada numa análise adequada dos dados existentes, puder demonstrar que as características avaliadas são diferentes comparativamente a um alimento ou ingrediente alimentar convencional, tendo em conta os limites aceites das variações naturais de tais características.\n\nNesse caso, a rotulagem deve indicar essas características ou propriedades alteradas e fazer referência ao método segundo o qual essa característica ou propriedade foi obtida;\n\nb) Da presença do novo alimento ou ingrediente alimentar de substâncias que não estejam presentes num género alimentício equivalente já existente e que possam ter implicações para a saúde de determinados sectores da população;\n\nc) Da presença no novo alimento de substâncias que não estejam presentes num género alimentício equivalente já existente e que suscitem reservas de ordem ética;\n\nd) A presença de um organismo geneticamente modificado por técnicas de modificação genética, das quais se encontra uma lista não exaustiva no anexo IA, parte I da Directiva 90/220/CEE.\n\n2. Na falta de alimento ou ingrediente alimentar equivalente existente, serão adoptadas se necessário disposições adequadas para garantir que o consumidor seja devidamente informado da natureza do alimento ou do ingrediente alimentar.\n\n3. As eventuais normas de execução do presente artigo serão adoptadas nos termos do artigo 13º"
+  },
+  "02b26882e7a593a9": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Se um alimento ou ingrediente alimentar abrangido pelo presente regulamento contiver ou consistir num organismo geneticamente modificado, na acepção dos nºs 1 e 2 do artigo 2º da Directiva 90/220/CEE, a informação que deve constar do pedido de colocação no mercado referido no nº 1 artigo 6º deve ser acompanhada:\n\n- de uma cópia do eventual consentimento escrito da autoridade competente para a libertação deliberada de organismos geneticamente modificados para fins de investigação e desenvolvimento nos termos do nº 4 do artigo 6º da Directiva 90/220/CEE, bem como dos resultados da libertação ou libertações no que diz respeito a eventuais riscos para a saúde humana e o ambiente,\n\n- do processo técnico completo, de que constem as informações relevantes previstas no artigo 11º da Directiva 90/220/CEE, e da avaliação do risco ambiental nelas baseada, bem como dos resultados de eventuais estudos efectuados para fins de investigação e desenvolvimento, ou, eventualmente, da decisão de autorização de colocação no mercado prevista na parte C da Directiva 90/220/CEE.\n\nOs artigos 11º a 18º da Directiva 90/220/CEE não são aplicáveis aos alimentos e ingredientes alimentares que contenham ou consistam em organismos geneticamente modificados.\n\n2. Em relação aos alimentos ou ingredientes alimentares abrangidos pelo presente regulamento que contenham ou consistam em organismos geneticamente modificados, a decisão referida no artigo 7º atenderá aos requisitos de segurança do ambiente previstos na Directiva 90/220/CEE, por forma a assegurar a adopção de todas as medidas adequadas para evitar efeitos nocivos para a saúde humana e o ambiente eventualmente decorrentes da libertação deliberada de organismos geneticamente modificados. Durante o processo de avaliação dos pedidos de colocação no mercado de produtos que contenham ou consistam em organismos desse tipo, a Comissão ou os Estados-membros procederão às consultas necessárias com os organismos instituídos pela Comunidade ou pelos Estados-membros nos termos da Directiva 90/220/CEE."
+  },
+  "e874b1174e8a97fa": {
+   "fragment_id": "Artigo 10º — As normas de protecção dos dados fornecidos pelo requerente serão adoptadas nos termos do artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 10º — As normas de protecção dos dados fornecidos pelo requerente serão adoptadas nos termos do artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — As normas de protecção dos dados fornecidos pelo requerente serão adoptadas nos termos do artigo 13º"
+  },
+  "d338ed8c25e4f802": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nO Comité científico da alimentação humana será consultado sobre todas as questões relacionadas com o presente regulamento, que possam ter implicações para a saúde pública."
+  },
+  "dbfab4a674f2ab94": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Se, na sequência de novas informações ou de uma reavaliação das informações existentes, um Estado-membro tiver motivos precisos para considerar que a utilização de um alimento ou de um ingrediente alimentar conforme ao presente regulamento constitui um risco para a saúde humana ou para o ambiente, esse Estado-membro poderá restringir temporariamente ou suspender a comercialização e utilização do referido alimento ou ingrediente alimentar no seu território. Desse facto informará imediatamente a Comissão e os restantes Estados-membros, apresentando os motivos da sua decisão.\n\n2. A Comissão examinará, logo que possível, no âmbito do Comité permanente dos géneros alimentícios, os motivos referidos no nº 1, devendo adoptar as medidas adequadas nos termos do artigo 13º O Estado-membro que tiver adoptado a decisão referida no nº 1 poderá mantê-la até à entrada em vigor dessas medidas."
+  },
+  "066096b65f11e6ab": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Se for aplicável o procedimento definido no presente artigo, a Comissão será assistida pelo Comité permanente dos géneros alimentícios, adiante designado «comité».\n\n2. O comité será chamado a pronunciar-se pelo seu Presidente, por iniciativa deste, ou a pedido do representante de um Estado-membro.\n\n3. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O Presidente não participa na votação.\n\n4. a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este último ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "2352dfc2f65b8113": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. O mais tardar num prazo de cinco anos a contar da data de entrada em vigor do presente regulamento e em função da experiência adquirida, a Comissão enviará ao Parlamento Europeu e ao Conselho um relatório sobre a execução do presente regulamento, acompanhado, se necessário, de propostas adequadas.\n\n2. Sem prejuízo da revisão prevista no nº 1, a Comissão supervisionará a aplicação do presente regulamento e o seu impacto sobre a saúde, a defesa dos consumidores, a informação dos consumidores e o funcionamento do mercado interno e, caso tal seja necessário, apresentará propostas com a maior brevidade."
+  },
+  "97b5ed9d5d013186": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nO presente regulamento entra em vigor noventa dias depois da data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 27 de Janeiro de 1997.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nJ. M. GIL-ROBLES\n\nPelo Conselho\n\nO Presidente\n\nG. ZALM\n\n(1) JO nº C 190 de 29. 7. 1992, p. 3 e JO nº C 16 de 19. 1. 1994, p. 10.\n\n(2) JO nº C 108 de 19. 4. 1993, p. 8.\n\n(3) Parecer do Parlamento Europeu de 27 de Outubro de 1993 (JO nº C 315 de 22. 11. 1993, p. 139), posição comum do Conselho de 23 de Outubro de 1995 (JO nº C 320 de 30. 11. 1995, p. 1) e decisão do Parlamento Europeu de 12 de Março de 1996 (JO nº C 96 de 1. 4. 1996, p. 26). Decisão do Conselho de 19 de Dezembro de 1996 e decisão do Parlamento Europeu de 16 de Janeiro de 1997.\n\n(4) JO nº L 225 de 12. 10. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO nº L 353 de 17. 12. 1990, p. 48).\n\n(5) JO nº L 225 de 12. 10. 1970, p. 7. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO nº L 353 de 17. 12. 1990, p. 48).\n\n(6) JO nº L 117 de 8. 5. 1990, p. 15. Directiva com a última redacção que lhe foi dada pela Directiva 94/15/CE (JO nº L 103 de 22. 4. 1994, p. 20).\n\n(7) JO nº L 136 de 20. 5. 1974, p. 1.\n\n(8) JO nº L 186 de 30. 6. 1989, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva 93/99/CE (JO nº L 290 de 24. 11. 1993, p. 14).\n\n(9) JO nº L 290 de 24. 11. 1993, p. 14.\n\n(10) JO nº L 291 de 19. 11. 1969, p. 9.\n\n(11) JO nº C 102 de 4. 4. 1996, p. 1.\n\n(12) JO nº L 40 de 11. 2. 1989, p. 27. Directiva com a última redacção que lhe foi dada pela Directiva 94/34/CE (JO nº L 237 de 10. 9. 1994, p. 1).\n\n(13) JO nº L 184 de 15. 7. 1988, p. 61. Directiva com a última redacção que lhe foi dada pela Directiva 91/71/CEE (JO nº L 42 de 15. 2. 1991, p. 25).\n\n(14) JO nº L 157 de 24. 6. 1988, p. 28. Directiva com a última redacção que lhe foi dada pela Directiva 92/115/CEE (JO nº L 409 de 31. 12. 1994, p. 31).\n\nDECLARAÇÃO DA COMISSÃO - AD ARTIGO 2º\n\nA Comissão confirma que caso se venha a verificar, à luz da experiência, que existem lacunas no sistema de protecção da saúde pública previsto no quadro jurídico existente, em especial no que respeita ao processamento das ajudas, formulará propostas adequadas a fim de colmatar essas lacunas."
+  },
+  "91018e3406909e38": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Janeiro de 1997\n\nrelativo a novos alimentos e ingredientes alimentares\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do procedimento previsto no artigo 189.ºB do Tratado ([^3^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0003)), tendo em conta o projecto comum aprovado pelo comité de conciliação em 9 de Dezembro de 1996,\n\n(1) Considerando que as disparidades entre as legislações nacionais relativas a novos alimentos e ingredientes alimentares podem prejudicar a livre circulação de géneros alimentícios e criar condições de concorrência desleal, afectando directamente o funcionamento do mercado interno;\n\n(2) Considerando que, para proteger a saúde pública, é necessário garantir que os novos alimentos e ingredientes alimentares sejam sujeitos a uma avaliação de inocuidade única mediante um procedimento comunitário, antes de serem colocados no mercado da Comunidade; que, no caso dos novos alimentos e ingredientes alimentares substancialmente idênticos aos já existentes, se deve prever um procedimento simplificado;\n\n(3) Considerando que os aditivos e aromatizantes alimentares utilizados nos alimentos e os solventes de extracção são abrangidos por outra legislação comunitária e devem, por isso, ser excluídos do âmbito do presente regulamento;\n\n(4) Considerando que devem ser tomadas medidas adequadas para a colocação no mercado de novos alimentos e ingredientes alimentares provenientes de variedades vegetais sujeitas à Directiva 70/457/CEE do Conselho, de 29 de Setembro de 1970, que diz respeito ao catálogo comum das espécies de plantas agrícolas ([^4^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0004)) e à Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, respeitante à comercialização das sementes de produtos hortícolas ([^5^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0005));\n\n(5) Considerando que os riscos para o ambiente podem estar associados a novos alimentos e ingredientes alimentares que contenham ou consistam em organismos geneticamente modificados; que a Directiva 90/220/CEE do Conselho, de 23 de Abril de 1990, relativa à libertação deliberada no ambiente de organismos geneticamente modificados ([^6^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0006)), determina que deve ser sempre efectuada uma avaliação de riscos ambientais desses produtos, de modo a garantir a segurança do ambiente; que, para prever um sistema comunitário unificado de avaliação desses produtos, se devem tomar disposições no âmbito deste regulamento, relacionadas com uma avaliação de riscos ambientais específicos — avaliação essa que deve ser semelhante à da Directiva 90/220/CEE, nos termos do artigo 10.º dessa mesma Directiva —, juntamente com a avaliação do produto a utilizar como alimento ou ingrediente alimentar;\n\n(6) Considerando que o Comité científico para a alimentação humana, instituído pela Decisão 74/234/CEE ([^7^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0007)) deve ser consultado sobre todas as questões regulamentares que possam ter efeitos na saúde pública;\n\n(7) Considerando que as disposições da Directiva 89/397/CEE do Conselho, de 14 de Junho de 1989, relativa ao controlo oficial dos géneros alimentícios ([^8^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0008)) e da Directiva 93/99/CEE do Conselho, de 29 de Outubro de 1993, relativa a medidas adicionais respeitantes ao controlo oficial dos géneros alimentícios ([^9^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0009)), são aplicáveis aos novos alimentos e ingredientes alimentares;\n\n(8) Considerando que, sem prejuízo dos outros requisitos da legislação comunitária relacionados com a rotulagem de géneros alimentícios, devem ser previstos requisitos específicos adicionais de rotulagem; que esses requisitos devem ser sujeitos a disposições precisas para garantir a informação necessária do consumidor; que existem determinados grupos da população, associados a práticas alimentares bem definidas, que devem ser informados da presença num novo alimento de substâncias que não se encontrem no género alimentício equivalente já existente, sempre que esse facto suscite a esses grupos reservas de ordem ética; que os alimentos e ingredientes alimentares que contenham organismos geneticamente modificados e que sejam colocados no mercado não devem ser prejudiciais à saúde humana; que se poderá garantir que o não sejam através da observância do processo de autorização previsto na Directiva 90/220/CEE e/ou através do processo de avaliação único previsto no presente regulamento; que na medida em que «organismo» é definido pelo direito comunitário, no que respeita à rotulagem, a informação do consumidor acerca da presença de um organismo que tenha sido geneticamente modificado constitui uma exigência adicional aplicável aos alimentos e ingredientes alimentares a que se refere o presente regulamento;\n\n(9) Considerando que, no que respeita aos alimentos e ingredientes alimentares destinados a colocação no mercado a fim de serem fornecidos ao consumidor final, e que possam conter tanto produtos tradicionais quanto produtos geneticamente modificados considera-se, sem prejuízo das outras exigências em matéria de rotulagem constantes do presente regulamento, que a informação dos consumidores acerca da possibilidade de organismos geneticamente modificados se encontrarem presentes nos alimentos e ingredientes alimentares preenche — por via de excepção, em especial no que respeita aos transportes em larga escala — os requisitos do artigo 8.º;\n\n(10) Considerando que nada impede um fornecedor de informar os consumidores, por meio da rotulagem de um alimento ou ingrediente alimentar, de que o produto em questão não é um novo alimento na acepção do presente regulamento, ou de que as técnicas utilizadas para a obtenção de novos alimentos e que constam do n.º 2 do artigo 1.º não foram utilizadas na produção do alimento ou ingrediente alimentar em questão;\n\n(11) Considerando que há que prever, no âmbito do presente regulamento, um procedimento que institua uma estreita cooperação entre os Estados-membros e a Comissão no comité permanente dos géneros alimentícios, instituído pela Decisão 69/414/CEE ([^10^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0010));\n\n(12) Considerando que em 20 de Dezembro de 1994 se concluiu um *modus vivendi* entre o Parlamento Europeu, o Conselho e a Comissão no que respeita às medidas de execução dos actos adoptados segundo o procedimento previsto no artigo 189.ºB do Tratado ([^11^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0011)),\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "b85a271ae78de067": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento tem por objecto a colocação no mercado de novos alimentos ou ingredientes alimentares,\n\n2. O presente regulamento é aplicável à colocação no mercado de alimentos ou de ingredientes alimentares ainda não significativamente utilizados para consumo humano na Comunidade e que se integrem numa das seguintes categorias:\n\nc) Alimentos e ingredientes alimentares com uma estrutura molecular primária nova ou intencionalmente alterada;\n\nd) Alimentos e ingredientes alimentares que consistam em ou tenham sido isolados a partir de microrganismos, fungos ou algas;\n\ne) Alimentes e ingredientes alimentares que consistam em ou tenham sido isolados a partir de plantas e ingredientes alimentares isolados a partir de animais, excepto os alimentos e ingredientes alimentares obtidos por meio de práticas de multiplicação ou de reprodução tradicionais, cujos antecedentes sejam seguros no que se refere à utilização como géneros alimentícios;\n\nf) Alimentos e ingredientes alimentares que tenham sido objecto de um processo de fabrico não utilizado correntemente, se esse processo conduzir, em termos de composição ou estrutura dos alimentos ou ingredientes alimentares, a alterações significativas do seu valor nutritivo, metabolismo ou teor de substâncias indesejáveis.\n\n3. Se necessário, poder-se-á determinar, nos termos do artigo 13.º, se um tipo de alimento ou de ingrediente alimentar é abrangido pelo n.º 2 do presente artigo."
+  },
+  "9167dd8234fccce6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O presente regulamento não é aplicável a:\n\na) Aditivos alimentares abrangidos pela Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana ([^12^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0012));\n\nb) Aromatizantes destinados a ser utilizados em géneros alimentícios abrangidos pela Directiva 88/388/CEE do Conselho, de 22 de Junho de 1988, relativa à aproximação das legislações dos Estados-membros no domínio dos aromas destinados a serem utilizados nos géneros alimentícios e dos materiais de base para a respectiva produção ([^13^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0013));\n\nc) Solventes de extracção utilizados na produção de géneros alimentícios abrangidos pela Directiva 88/344/CEE do Conselho, de 13 de Junho de 1988, relativa à aproximação das legislações dos Estados-membros sobre os solventes de extracção utilizados no fabrico de géneros alimentícios e dos respectivos ingredientes ([^14^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0014));\n\nd) Enzimas alimentares abrangidas pelo Regulamento (CE) n.º 1332/2008 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008, relativo às enzimas alimentares ([^15^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0015)).\n\n2. As exclusões ao âmbito de aplicação do presente regulamento a que se referem as alíneas a) a c) do n.º 1 só serão aplicáveis enquanto os níveis de segurança previstos nas Directivas 89/107/CEE, 88/388/CEE e 88/344/CEE corresponderem ao nível de segurança do presente regulamento.\n\n3. Com a devida observância pelo disposto no artigo 11.º, a Comissão assegurará que os níveis de segurança previstos nas directivas a que se refere o n.º 2, bem como nas medidas de execução dessas directivas e do presente regulamento, correspondem ao nível de segurança do presente regulamento."
+  },
+  "844781b6ea668010": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os alimentos ou ingredientes alimentares abrangidos pelo presente regulamento não devem:\n\n— apresentar riscos para o consumidor,\n\n— induzir o consumidor em erro,\n\n— diferir dos alimentos e ingredientes alimentares que estejam destinados a substituir de tal forma que o seu consumo normal possa implicar, em termos nutritivos, uma desvantagem para o consumidor.\n\n2. Os procedimentos previstos nos artigos 4.º, 6.º, 7.º e 8.º são aplicáveis à colocação no mercado da Comunidade de alimentos e ingredientes alimentares abrangidos pelo presente regulamento, com base nos critérios definidos no n.º 1 do presente artigo e noutros factores pertinentes mencionados nos referidos artigos.\n\n4. Em derrogação do n.º 2, o procedimento previsto no artigo 5.º é aplicável aos géneros alimentícios e ingredientes alimentares referidos nas alíneas d) e e) do n.º 2 do artigo 1.º que, com base nos dados científicos disponíveis e geralmente reconhecidos ou num parecer de um dos organismos competentes a que se refere o n.º 3 do artigo 4.º, sejam substancialmente equivalentes a géneros alimentícios ou ingredientes alimentares existentes, em termos de composição, valor nutritivo, metabolismo, utilização prevista e teor de substâncias indesejáveis.\n\nSe necessário, poder-se-á determinar, de acordo com o procedimento previsto no artigo 13.º, se um tipo de alimento ou de ingrediente alimentar é abrangido pelo presente número."
+  },
+  "f16ece14d0c08284": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O responsável pela colocação no mercado comunitário, adiante designado «requerente», apresentará o pedido ao Estado-membro onde o produto seja colocado no mercado pela primeira vez e transmitirá, simultaneamente, uma cópia do pedido à Comissão.\n\n2. Proceder-se-á à avaliação inicial prevista no artigo 6.º\n\nNo final do procedimento previsto no n.º 4 do artigo 6.º, o Estado-membro referido no n.º 1 informará sem demora o requerente de que:\n\n— pode proceder à colocação no mercado do alimento ou ingrediente alimentar, sempre que a avaliação complementar referida no n.º 3 do artigo 6.º não seja requerida e não tenha sido formulada qualquer objecção fundamentada nos termos do n.º 4 do artigo 6.º, ou,\n\n— é necessária uma decisão de autorização nos termos do artigo 7.º\n\n3. Todos os Estados-membros notificarão a Comissão do nome e do endereço dos organismos de avaliação dos alimentos competentes no seu território, para elaborar os relatórios de avaliação preliminar previsto no n.º 2 do artigo 6.º\n\n4. Antes da data de entrada em vigor do presente regulamento, a Comissão publicará recomendações sobre os aspectos científicos respeitantes:\n\n— às informações que devem acompanhar o pedido, bem como à respectiva apresentação,\n\n— à elaboração dos relatórios de avaliação preliminar previstos no artigo 6.º\n\n5. As eventuais normas de execução do presente artigo serão adoptadas nos termos do artigo 13.º"
+  },
+  "b427389d2da92dfb": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO requerente notificará a Comissão da colocação no mercado de alimentos ou ingredientes alimentares referidos no n.º 4 do artigo 3.º Essa notificação será acompanhada dos elementos pertinentes referidos no n.º 4 do artigo 3.º A Comissão enviará aos Estados-membros uma cópia dessa notificação no prazo de 60 dias bem como, a pedido de um Estado-membro, uma cópia dos elementos pertinentes acima referidos. A Comissão publicará anualmente o resumo dessas notificações na série C do *Jornal Oficial das Comunidades Europeias*.\n\nNo que respeita à rotulagem, aplicar-se-á o disposto no artigo 8.º"
+  },
+  "573bde233112c613": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O pedido referido no n.º 1 do artigo 4.º incluirá as informações necessárias, incluindo uma cópia dos estudos efectuados e quaisquer outros elementos que permitam comprovar que o alimento ou ingrediente alimentar preenche os requisitos do n.º 1 do artigo 3.º, bem como uma proposta adequada de apresentação e rotulagem do alimento ou ingrediente alimentar, de acordo com os requisitos do artigo 8.º Além disso, o pedido será acompanhado de um resumo do processo.\n\n2. Após recepção do pedido, o Estado-membro referido no n.º 1 do artigo 4.º garantirá a realização de uma avaliação preliminar. Para o efeito, comunicará à Comissão a designação do organismo competente em matéria de avaliação de géneros alimentícios que elaborará o relatório de avaliação preliminar ou solicitará à Comissão que contacte outro Estado-membro para que o referido relatório seja elaborado por um dos organismos competentes em matéria de avaliação de géneros alimentícios previstos no n.º 3 do artigo 4.º\n\nA Comissão comunicará sem demora a todos os Estados-membros uma cópia do resumo do processo apresentado pelo requerente e a designação do organismo encarregado de proceder à avaliação preliminar.\n\n3. O relatório de avaliação preliminar será elaborado num prazo de três meses a contar da data de recepção do pedido que preencha os requisitos do n.º 1, de acordo com as recomendações referidas no n.º 4 do artigo 4.º, e indicará se o alimento ou ingrediente alimentar deve ou não ser sujeito a uma avaliação complementar, nos termos do artigo 7.º\n\n4. O Estado-membro em questão comunicará sem demora à Comissão o relatório do organismo competente em matéria de avaliação de géneros alimentícios, e esta transmiti-lo-á aos restantes Estados-membros. No prazo de sessenta dias a contar da data de envio do relatório pela Comissão, os Estados-membros ou a Comissão podem apresentar observações ou objecções fundamentadas em relação à comercialização do alimento ou do ingrediente alimentar em questão. As observações ou objecções poderão incidir também sobre a apresentação ou a rotulagem do alimento ou ingrediente alimentar.\n\nAs observações ou objecções formuladas deverão ser enviadas à Comissão, que as comunicará aos Estados-membros no prazo de sessenta dias referido no parágrafo anterior.\n\nA pedido de um Estado-membro, o requerente fornecerá uma cópia das informações úteis incluídas no pedido."
+  },
+  "5343c29cebe14b8c": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Será tomada uma decisão de autorização, nos termos do artigo 13.º, sempre que for exigida uma avaliação complementar, nos termos do n.º 3 do artigo 6.º, ou que for apresentada uma objecção, nos termos do n.º 4 do artigo 6.º\n\n2. A decisão definirá o âmbito da autorização e especificará, se necessário:\n\n— as condições de utilização do alimento ou do ingrediente alimentar,\n\n— a designação do alimento ou do ingrediente alimentar, bem como as suas características,\n\n— os requisitos específicos de rotulagem referidos no artigo 8.º\n\n3. A Comissão informará sem demora o requerente da decisão tomada. As decisões serão publicadas no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "eb9c633bdd8567db": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Sem prejuízo dos outros requisitos da legislação comunitária sobre rotulagem dos géneros alimentícios, serão aplicáveis aos géneros alimentícios os seguintes requisitos específicos suplementares em matéria de rotulagem para informar o consumidor final:\n\na) De qualquer característica alimentar ou propriedade alimentar, como por exemplo:\n\n— a composição,\n\n— o valor nutritivo ou os efeitos nutricionais,\n\n— a utilização dada ao alimento,\n\nb) Da presença do novo alimento ou ingrediente alimentar de substâncias que não estejam presentes num género alimentício equivalente já existente e que possam ter implicações para a saúde de determinados sectores da população;\n\nc) Da presença no novo alimento de substâncias que não estejam presentes num género alimentício equivalente já existente e que suscitem reservas de ordem ética.\n\n2. Na falta de alimento ou ingrediente alimentar equivalente existente, serão adoptadas se necessário disposições adequadas para garantir que o consumidor seja devidamente informado da natureza do alimento ou do ingrediente alimentar.\n\n3. As eventuais normas de execução do presente artigo serão adoptadas nos termos do artigo 13.º"
+  },
+  "545376849c6a28eb": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs normas de protecção dos dados fornecidos pelo requerente serão adoptadas nos termos do artigo 13.º"
+  },
+  "fb3315bae7ffa72f": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO Comité científico da alimentação humana será consultado sobre todas as questões relacionadas com o presente regulamento, que possam ter implicações para a saúde pública."
+  },
+  "1eefbffe6007bb9d": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Se, na sequência de novas informações ou de uma reavaliação das informações existentes, um Estado-membro tiver motivos precisos para considerar que a utilização de um alimento ou de um ingrediente alimentar conforme ao presente regulamento constitui um risco para a saúde humana ou para o ambiente, esse Estado-membro poderá restringir temporariamente ou suspender a comercialização e utilização do referido alimento ou ingrediente alimentar no seu território. Desse facto informará imediatamente a Comissão e os restantes Estados-membros, apresentando os motivos da sua decisão.\n\n2. A Comissão examinará, logo que possível, no âmbito do Comité permanente dos géneros alimentícios, os motivos referidos no n.º 1, devendo adoptar as medidas adequadas nos termos do artigo 13.º O Estado-membro que tiver adoptado a decisão referida no n.º 1 poderá mantê-la até à entrada em vigor dessas medidas."
+  },
+  "09445523fd2a183d": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^16^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0016)), a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^17^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#E0017)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "8fcd7a75efbfc2ef": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. O mais tardar num prazo de cinco anos a contar da data de entrada em vigor do presente regulamento e em função da experiência adquirida, a Comissão enviará ao Parlamento Europeu e ao Conselho um relatório sobre a execução do presente regulamento, acompanhado, se necessário, de propostas adequadas.\n\n2. Sem prejuízo da revisão prevista no n.º 1, a Comissão supervisionará a aplicação do presente regulamento e o seu impacto sobre a saúde, a defesa dos consumidores, a informação dos consumidores e o funcionamento do mercado interno e, caso tal seja necessário, apresentará propostas com a maior brevidade."
+  },
+  "4a7630165bb651e7": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO presente regulamento entra em vigor noventa dias depois da data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "97748b680402312b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0001)) JO n.º C 190 de 29. 7. 1992, p. 3 e JO n.º C 16 de 19. 1. 1994, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0002)) JO n.º C 108 de 19. 4. 1993, p. 8.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 27 de Outubro de 1993 (JO n.º C 315 de 22. 11. 1993, p. 139), posição comum do Conselho de 23 de Outubro de 1995 (JO n.º C 320 de 30. 11. 1995, p. 1) e decisão do Parlamento Europeu de 12 de Março de 1996 (JO n.º C 96 de 1. 4. 1996, p. 26). Decisão do Conselho de 19 de Dezembro de 1996 e decisão do Parlamento Europeu de 16 de Janeiro de 1997.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0004)) JO n.º L 225 de 12. 10. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO n.º L 353 de 17. 12. 1990, p. 48).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0005)) JO n.º L 225 de 12. 10. 1970, p. 7. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO n.º L 353 de 17. 12. 1990, p. 48).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0006)) JO n.º L 117 de 8. 5. 1990, p. 15. Directiva com a última redacção que lhe foi dada pela Directiva 94/15/CE (JO n.º L 103 de 22. 4. 1994, p. 20).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0007)) JO n.º L 136 de 20. 5. 1974, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0008)) JO n.º L 186 de 30. 6. 1989, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva 93/99/CE (JO n.º L 290 de 24. 11. 1993, p. 14).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0009)) JO n.º L 290 de 24. 11. 1993, p. 14.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0010)) JO n.º L 291 de 19. 11. 1969, p. 9.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0011)) JO n.º C 102 de 4. 4. 1996, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0012)) JO n.º L 40 de 11. 2. 1989, p. 27. Directiva com a última redacção que lhe foi dada pela Directiva 94/34/CE (JO n.º L 237 de 10. 9. 1994, p. 1).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0013)) JO n.º L 184 de 15. 7. 1988, p. 61. Directiva com a última redacção que lhe foi dada pela Directiva 91/71/CEE (JO n.º L 42 de 15. 2. 1991, p. 25).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0014)) JO n.º L 157 de 24. 6. 1988, p. 28. Directiva com a última redacção que lhe foi dada pela Directiva 92/115/CEE (JO n.º L 409 de 31. 12. 1994, p. 31).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0015)) JO L 354 de 31.12.2008, p. 7.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0016)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/261d33d0-32cb-4d2a-bd31-2856caac29c5.0018.03/DOC_1#src.E0017)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "014149a11b8f93cd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Janeiro de 1997\n\nrelativo a novos alimentos e ingredientes alimentares\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do procedimento previsto no artigo 189.ºB do Tratado ([^3^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0003)), tendo em conta o projecto comum aprovado pelo comité de conciliação em 9 de Dezembro de 1996,\n\n(1) Considerando que as disparidades entre as legislações nacionais relativas a novos alimentos e ingredientes alimentares podem prejudicar a livre circulação de géneros alimentícios e criar condições de concorrência desleal, afectando directamente o funcionamento do mercado interno;\n\n(2) Considerando que, para proteger a saúde pública, é necessário garantir que os novos alimentos e ingredientes alimentares sejam sujeitos a uma avaliação de inocuidade única mediante um procedimento comunitário, antes de serem colocados no mercado da Comunidade; que, no caso dos novos alimentos e ingredientes alimentares substancialmente idênticos aos já existentes, se deve prever um procedimento simplificado;\n\n(3) Considerando que os aditivos e aromatizantes alimentares utilizados nos alimentos e os solventes de extracção são abrangidos por outra legislação comunitária e devem, por isso, ser excluídos do âmbito do presente regulamento;\n\n(4) Considerando que devem ser tomadas medidas adequadas para a colocação no mercado de novos alimentos e ingredientes alimentares provenientes de variedades vegetais sujeitas à Directiva 70/457/CEE do Conselho, de 29 de Setembro de 1970, que diz respeito ao catálogo comum das espécies de plantas agrícolas ([^4^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0004)) e à Directiva 70/458/CEE do Conselho, de 29 de Setembro de 1970, respeitante à comercialização das sementes de produtos hortícolas ([^5^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0005));\n\n(5) Considerando que os riscos para o ambiente podem estar associados a novos alimentos e ingredientes alimentares que contenham ou consistam em organismos geneticamente modificados; que a Directiva 90/220/CEE do Conselho, de 23 de Abril de 1990, relativa à libertação deliberada no ambiente de organismos geneticamente modificados ([^6^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0006)), determina que deve ser sempre efectuada uma avaliação de riscos ambientais desses produtos, de modo a garantir a segurança do ambiente; que, para prever um sistema comunitário unificado de avaliação desses produtos, se devem tomar disposições no âmbito deste regulamento, relacionadas com uma avaliação de riscos ambientais específicos — avaliação essa que deve ser semelhante à da Directiva 90/220/CEE, nos termos do artigo 10.º dessa mesma Directiva —, juntamente com a avaliação do produto a utilizar como alimento ou ingrediente alimentar;\n\n(6) Considerando que o Comité científico para a alimentação humana, instituído pela Decisão 74/234/CEE ([^7^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0007)) deve ser consultado sobre todas as questões regulamentares que possam ter efeitos na saúde pública;\n\n(7) Considerando que as disposições da Directiva 89/397/CEE do Conselho, de 14 de Junho de 1989, relativa ao controlo oficial dos géneros alimentícios ([^8^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0008)) e da Directiva 93/99/CEE do Conselho, de 29 de Outubro de 1993, relativa a medidas adicionais respeitantes ao controlo oficial dos géneros alimentícios ([^9^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0009)), são aplicáveis aos novos alimentos e ingredientes alimentares;\n\n(8) Considerando que, sem prejuízo dos outros requisitos da legislação comunitária relacionados com a rotulagem de géneros alimentícios, devem ser previstos requisitos específicos adicionais de rotulagem; que esses requisitos devem ser sujeitos a disposições precisas para garantir a informação necessária do consumidor; que existem determinados grupos da população, associados a práticas alimentares bem definidas, que devem ser informados da presença num novo alimento de substâncias que não se encontrem no género alimentício equivalente já existente, sempre que esse facto suscite a esses grupos reservas de ordem ética; que os alimentos e ingredientes alimentares que contenham organismos geneticamente modificados e que sejam colocados no mercado não devem ser prejudiciais à saúde humana; que se poderá garantir que o não sejam através da observância do processo de autorização previsto na Directiva 90/220/CEE e/ou através do processo de avaliação único previsto no presente regulamento; que na medida em que «organismo» é definido pelo direito comunitário, no que respeita à rotulagem, a informação do consumidor acerca da presença de um organismo que tenha sido geneticamente modificado constitui uma exigência adicional aplicável aos alimentos e ingredientes alimentares a que se refere o presente regulamento;\n\n(9) Considerando que, no que respeita aos alimentos e ingredientes alimentares destinados a colocação no mercado a fim de serem fornecidos ao consumidor final, e que possam conter tanto produtos tradicionais quanto produtos geneticamente modificados considera-se, sem prejuízo das outras exigências em matéria de rotulagem constantes do presente regulamento, que a informação dos consumidores acerca da possibilidade de organismos geneticamente modificados se encontrarem presentes nos alimentos e ingredientes alimentares preenche — por via de excepção, em especial no que respeita aos transportes em larga escala — os requisitos do artigo 8.º;\n\n(10) Considerando que nada impede um fornecedor de informar os consumidores, por meio da rotulagem de um alimento ou ingrediente alimentar, de que o produto em questão não é um novo alimento na acepção do presente regulamento, ou de que as técnicas utilizadas para a obtenção de novos alimentos e que constam do n.º 2 do artigo 1.º não foram utilizadas na produção do alimento ou ingrediente alimentar em questão;\n\n(11) Considerando que há que prever, no âmbito do presente regulamento, um procedimento que institua uma estreita cooperação entre os Estados-membros e a Comissão no comité permanente dos géneros alimentícios, instituído pela Decisão 69/414/CEE ([^10^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0010));\n\n(12) Considerando que em 20 de Dezembro de 1994 se concluiu um *modus vivendi* entre o Parlamento Europeu, o Conselho e a Comissão no que respeita às medidas de execução dos actos adoptados segundo o procedimento previsto no artigo 189.ºB do Tratado ([^11^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0011)),\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "4666ce408a575b32": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento tem por objecto a colocação no mercado de novos alimentos ou ingredientes alimentares,\n\n2. O presente regulamento é aplicável à colocação no mercado de alimentos ou de ingredientes alimentares ainda não significativamente utilizados para consumo humano na Comunidade e que se integrem numa das seguintes categorias:\n\nc) Alimentos e ingredientes alimentares com uma estrutura molecular primária nova ou intencionalmente alterada;\n\nd) Alimentos e ingredientes alimentares que consistam em ou tenham sido isolados a partir de microrganismos, fungos ou algas;\n\ne) Alimentes e ingredientes alimentares que consistam em ou tenham sido isolados a partir de plantas e ingredientes alimentares isolados a partir de animais, excepto os alimentos e ingredientes alimentares obtidos por meio de práticas de multiplicação ou de reprodução tradicionais, cujos antecedentes sejam seguros no que se refere à utilização como géneros alimentícios;\n\nf) Alimentos e ingredientes alimentares que tenham sido objecto de um processo de fabrico não utilizado correntemente, se esse processo conduzir, em termos de composição ou estrutura dos alimentos ou ingredientes alimentares, a alterações significativas do seu valor nutritivo, metabolismo ou teor de substâncias indesejáveis.\n\n3. Se necessário, poder-se-á determinar, nos termos do [**►M4**](http://publications.europa.eu/resource/celex/309R0596) n.º 2 do artigo 13.º **◄**, se um tipo de alimento ou de ingrediente alimentar é abrangido pelo n.º 2 do presente artigo."
+  },
+  "ef404f3f48c7c58d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O presente regulamento não é aplicável a:\n\na) Aditivos alimentares abrangidos pela Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana ([^12^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0012));\n\nb) Aromatizantes destinados a ser utilizados em géneros alimentícios abrangidos pela Directiva 88/388/CEE do Conselho, de 22 de Junho de 1988, relativa à aproximação das legislações dos Estados-membros no domínio dos aromas destinados a serem utilizados nos géneros alimentícios e dos materiais de base para a respectiva produção ([^13^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0013));\n\nc) Solventes de extracção utilizados na produção de géneros alimentícios abrangidos pela Directiva 88/344/CEE do Conselho, de 13 de Junho de 1988, relativa à aproximação das legislações dos Estados-membros sobre os solventes de extracção utilizados no fabrico de géneros alimentícios e dos respectivos ingredientes ([^14^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0014));\n\nd) Enzimas alimentares abrangidas pelo Regulamento (CE) n.º 1332/2008 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008, relativo às enzimas alimentares ([^15^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0015)).\n\n2. As exclusões ao âmbito de aplicação do presente regulamento a que se referem as alíneas a) a c) do n.º 1 só serão aplicáveis enquanto os níveis de segurança previstos nas Directivas 89/107/CEE, 88/388/CEE e 88/344/CEE corresponderem ao nível de segurança do presente regulamento.\n\n3. Com a devida observância pelo disposto no artigo 11.º, a Comissão assegurará que os níveis de segurança previstos nas directivas a que se refere o n.º 2, bem como nas medidas de execução dessas directivas e do presente regulamento, correspondem ao nível de segurança do presente regulamento."
+  },
+  "c4cd6228f81c1cd6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os alimentos ou ingredientes alimentares abrangidos pelo presente regulamento não devem:\n\n— apresentar riscos para o consumidor,\n\n— induzir o consumidor em erro,\n\n— diferir dos alimentos e ingredientes alimentares que estejam destinados a substituir de tal forma que o seu consumo normal possa implicar, em termos nutritivos, uma desvantagem para o consumidor.\n\n2. Os procedimentos previstos nos artigos 4.º, 6.º, 7.º e 8.º são aplicáveis à colocação no mercado da Comunidade de alimentos e ingredientes alimentares abrangidos pelo presente regulamento, com base nos critérios definidos no n.º 1 do presente artigo e noutros factores pertinentes mencionados nos referidos artigos.\n\n4. Em derrogação do n.º 2, o procedimento previsto no artigo 5.º é aplicável aos géneros alimentícios e ingredientes alimentares referidos nas alíneas d) e e) do n.º 2 do artigo 1.º que, com base nos dados científicos disponíveis e geralmente reconhecidos ou num parecer de um dos organismos competentes a que se refere o n.º 3 do artigo 4.º, sejam substancialmente equivalentes a géneros alimentícios ou ingredientes alimentares existentes, em termos de composição, valor nutritivo, metabolismo, utilização prevista e teor de substâncias indesejáveis.\n\nSe necessário, poder-se-á determinar, de acordo com o procedimento previsto [**►M4**](http://publications.europa.eu/resource/celex/309R0596) n.º 2 do artigo 13.º **◄**, se um tipo de alimento ou de ingrediente alimentar é abrangido pelo presente número."
+  },
+  "fd5ae9337f6afb24": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O responsável pela colocação no mercado comunitário, adiante designado «requerente», apresentará o pedido ao Estado-membro onde o produto seja colocado no mercado pela primeira vez e transmitirá, simultaneamente, uma cópia do pedido à Comissão.\n\n2. Proceder-se-á à avaliação inicial prevista no artigo 6.º\n\nNo final do procedimento previsto no n.º 4 do artigo 6.º, o Estado-membro referido no n.º 1 informará sem demora o requerente de que:\n\n— pode proceder à colocação no mercado do alimento ou ingrediente alimentar, sempre que a avaliação complementar referida no n.º 3 do artigo 6.º não seja requerida e não tenha sido formulada qualquer objecção fundamentada nos termos do n.º 4 do artigo 6.º, ou,\n\n— é necessária uma decisão de autorização nos termos do artigo 7.º\n\n3. Todos os Estados-membros notificarão a Comissão do nome e do endereço dos organismos de avaliação dos alimentos competentes no seu território, para elaborar os relatórios de avaliação preliminar previsto no n.º 2 do artigo 6.º\n\n4. Antes da data de entrada em vigor do presente regulamento, a Comissão publicará recomendações sobre os aspectos científicos respeitantes:\n\n— às informações que devem acompanhar o pedido, bem como à respectiva apresentação,\n\n— à elaboração dos relatórios de avaliação preliminar previstos no artigo 6.º\n\n5. As eventuais normas de execução do presente artigo serão adoptadas nos termos do [**►M4**](http://publications.europa.eu/resource/celex/309R0596) n.º 2 do artigo 13.º **◄**"
+  },
+  "a72b688ec5627909": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Será tomada uma decisão de autorização, nos termos do [**►M4**](http://publications.europa.eu/resource/celex/309R0596) n.º 2 do artigo 13.º **◄**, sempre que for exigida uma avaliação complementar, nos termos do n.º 3 do artigo 6.º, ou que for apresentada uma objecção, nos termos do n.º 4 do artigo 6.º\n\n2. A decisão definirá o âmbito da autorização e especificará, se necessário:\n\n— as condições de utilização do alimento ou do ingrediente alimentar,\n\n— a designação do alimento ou do ingrediente alimentar, bem como as suas características,\n\n— os requisitos específicos de rotulagem referidos no artigo 8.º\n\n3. A Comissão informará sem demora o requerente da decisão tomada. As decisões serão publicadas no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "851a87a61c16392f": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Sem prejuízo dos outros requisitos da legislação comunitária sobre rotulagem dos géneros alimentícios, serão aplicáveis aos géneros alimentícios os seguintes requisitos específicos suplementares em matéria de rotulagem para informar o consumidor final:\n\na) De qualquer característica alimentar ou propriedade alimentar, como por exemplo:\n\n— a composição,\n\n— o valor nutritivo ou os efeitos nutricionais,\n\n— a utilização dada ao alimento,\n\nb) Da presença do novo alimento ou ingrediente alimentar de substâncias que não estejam presentes num género alimentício equivalente já existente e que possam ter implicações para a saúde de determinados sectores da população;\n\nc) Da presença no novo alimento de substâncias que não estejam presentes num género alimentício equivalente já existente e que suscitem reservas de ordem ética.\n\n2. Na falta de alimento ou ingrediente alimentar equivalente existente, serão adoptadas se necessário disposições adequadas para garantir que o consumidor seja devidamente informado da natureza do alimento ou do ingrediente alimentar.\n\n3. As eventuais normas de execução do presente artigo serão adoptadas nos termos do [**►M4**](http://publications.europa.eu/resource/celex/309R0596) n.º 2 do artigo 13.º **◄**"
+  },
+  "372f4d71a5166a08": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs normas de protecção dos dados fornecidos pelo requerente são aprovadas pela Comissão. Estas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 13.º."
+  },
+  "97fcb9555d26e488": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Se, na sequência de novas informações ou de uma reavaliação das informações existentes, um Estado-membro tiver motivos precisos para considerar que a utilização de um alimento ou de um ingrediente alimentar conforme ao presente regulamento constitui um risco para a saúde humana ou para o ambiente, esse Estado-membro poderá restringir temporariamente ou suspender a comercialização e utilização do referido alimento ou ingrediente alimentar no seu território. Desse facto informará imediatamente a Comissão e os restantes Estados-membros, apresentando os motivos da sua decisão.\n\n2. A Comissão examinará, logo que possível, no âmbito do Comité permanente dos géneros alimentícios, os motivos referidos no n.º 1, devendo adoptar as medidas adequadas destinadas a confirmar, alterar ou revogar a medida nacional nos termos do procedimento de regulamentação previsto no n.º 2 do artigo 13.º. O Estado-Membro que tiver adoptado a decisão referida no n.º 1 poderá mantê-la até à entrada em vigor dessas medidas."
+  },
+  "e67dc0a5491cece2": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^16^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0016)), a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^17^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#E0017)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º."
+  },
+  "b82e44df7d80e9ec": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0001)) JO n.º C 190 de 29. 7. 1992, p. 3 e JO n.º C 16 de 19. 1. 1994, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0002)) JO n.º C 108 de 19. 4. 1993, p. 8.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 27 de Outubro de 1993 (JO n.º C 315 de 22. 11. 1993, p. 139), posição comum do Conselho de 23 de Outubro de 1995 (JO n.º C 320 de 30. 11. 1995, p. 1) e decisão do Parlamento Europeu de 12 de Março de 1996 (JO n.º C 96 de 1. 4. 1996, p. 26). Decisão do Conselho de 19 de Dezembro de 1996 e decisão do Parlamento Europeu de 16 de Janeiro de 1997.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0004)) JO n.º L 225 de 12. 10. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO n.º L 353 de 17. 12. 1990, p. 48).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0005)) JO n.º L 225 de 12. 10. 1970, p. 7. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO n.º L 353 de 17. 12. 1990, p. 48).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0006)) JO n.º L 117 de 8. 5. 1990, p. 15. Directiva com a última redacção que lhe foi dada pela Directiva 94/15/CE (JO n.º L 103 de 22. 4. 1994, p. 20).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0007)) JO n.º L 136 de 20. 5. 1974, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0008)) JO n.º L 186 de 30. 6. 1989, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva 93/99/CE (JO n.º L 290 de 24. 11. 1993, p. 14).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0009)) JO n.º L 290 de 24. 11. 1993, p. 14.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0010)) JO n.º L 291 de 19. 11. 1969, p. 9.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0011)) JO n.º C 102 de 4. 4. 1996, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0012)) JO n.º L 40 de 11. 2. 1989, p. 27. Directiva com a última redacção que lhe foi dada pela Directiva 94/34/CE (JO n.º L 237 de 10. 9. 1994, p. 1).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0013)) JO n.º L 184 de 15. 7. 1988, p. 61. Directiva com a última redacção que lhe foi dada pela Directiva 91/71/CEE (JO n.º L 42 de 15. 2. 1991, p. 25).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0014)) JO n.º L 157 de 24. 6. 1988, p. 28. Directiva com a última redacção que lhe foi dada pela Directiva 92/115/CEE (JO n.º L 409 de 31. 12. 1994, p. 31).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0015)) JO L 354 de 31.12.2008, p. 7.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0016)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/b68135bb-cc6b-4b29-837e-eacbda737081.0018.03/DOC_1#src.E0017)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  }
+ }
+}

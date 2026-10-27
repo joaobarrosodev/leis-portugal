@@ -1,0 +1,249 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:160534624:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-175532487",
+ "dre_path": "/dr/detalhe/decreto-lei/25-b-2021-160534624",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-03-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175531126",
+    "175531127",
+    "175531128",
+    "175531129",
+    "175531130",
+    "175531131",
+    "175531132",
+    "175531133",
+    "175531134"
+   ]
+  },
+  {
+   "date": "2021-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175506672:por",
+     "title": "Decreto-Lei n.º 109/2021",
+     "published": "2021-12-07",
+     "dre_path": "/dr/detalhe/decreto-lei/109-2021-175506672"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "175531126",
+    "175531127",
+    "175531128",
+    "175531129",
+    "175531130",
+    "175531131",
+    "175531132",
+    "175531133",
+    "175531136",
+    "175531135"
+   ]
+  },
+  {
+   "date": "2022-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205493447:por",
+     "title": "Decreto-Lei n.º 90/2022",
+     "published": "2022-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/90-2022-205493447"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "175531126",
+    "205492229",
+    "205492230",
+    "175531129",
+    "175531130",
+    "205492232",
+    "205492233",
+    "205492234",
+    "205492235",
+    "205492236",
+    "205492237"
+   ]
+  }
+ ],
+ "fragments": {
+  "175531126": {
+   "fragment_id": "175532488",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 25-B/2021\n\nde 30 de março\n\nSumário: Estabelece um regime transitório de reconhecimento e troca das cartas de condução emitidas pelo Reino Unido.\n\nFindo o período de transição fixado no artigo 126.º do Acordo sobre a saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica, deixa de ser aplicável o regime de reconhecimento e troca de cartas de condução previsto para os títulos de condução emitidos por Estados-Membros da União Europeia ou do Espaço Económico Europeu, previsto nos artigos 125.º e 128.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, na sua redação atual.\n\nFace à mesma raiz de habilitação à condução, concretizada em cartas de condução idênticas, e atendendo ao elevado número de cidadãos do Reino Unido residentes em Portugal, encontra-se em negociação um acordo bilateral de reconhecimento e troca de cartas de condução entre Portugal e o Reino Unido.\n\nConsiderando que as negociações entre os dois Estados ainda se encontram em curso, torna-se necessário que se prolongue um regime de transição que permita a condução em território nacional com cartas de condução do Reino Unido, ainda que os seus titulares sejam residentes, dado que regime equivalente vigora transitoriamente para titulares de cartas de condução portuguesas residentes no Reino Unido.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "175531127": {
+   "fragment_id": "175532489",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime transitório de reconhecimento e troca das cartas de condução do Reino Unido."
+  },
+  "175531128": {
+   "fragment_id": "175532490",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se aos residentes em Portugal titulares de cartas de condução válidas emitidas pelo Reino Unido."
+  },
+  "175531129": {
+   "fragment_id": "175532491",
+   "type": 11,
+   "heading": "Artigo 3.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reconhecimento\n\nAs cartas de condução emitidas pelo Reino Unido, desde que válidas, são reconhecidas nos mesmos termos das cartas de condução emitidas por Estado-Membro da União Europeia."
+  },
+  "175531130": {
+   "fragment_id": "175532492",
+   "type": 11,
+   "heading": "Artigo 4.º — Troca de cartas de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Troca de cartas de condução\n\n1 - Os titulares de cartas de condução emitidas pelo Reino Unido residentes em Portugal podem proceder à troca do título por carta de condução portuguesa nos termos do artigo 14.º do Regulamento da Habilitação legal para conduzir, aprovado pelo Decreto-Lei n.º 138/2012, de 5 de julho, na sua redação atual.\n\n2 - Nas situações previstas no número anterior, é dispensada a realização de prova do exame de condução, nos mesmos termos do disposto na alínea a) do n.º 2 do artigo 128.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, na sua redação atual.\n\n3 - Na carta de condução portuguesa concedida por troca de título estrangeiro, nos termos dos números anteriores, são averbadas as categorias de veículos registadas no título estrangeiro trocado."
+  },
+  "175531131": {
+   "fragment_id": "175532493",
+   "type": 11,
+   "heading": "Artigo 5.º — Tratamento equivalente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tratamento equivalente\n\n1 - A aplicação do presente decreto-lei pressupõe um tratamento equivalente das autoridades britânicas para com os cidadãos portugueses residentes no Reino Unido.\n\n2 - Caso os cidadãos portugueses residentes no Reino Unido não sejam objeto de tratamento equivalente ao disposto no presente decreto-lei, a sua aplicação é total ou parcialmente suspensa.\n\n3 - Para os efeitos do número anterior, cabe ao Conselho de Ministros, mediante resolução, o reconhecimento de inexistência, total ou parcial, de tratamento equivalente."
+  },
+  "175531132": {
+   "fragment_id": "175532494",
+   "type": 11,
+   "heading": "Artigo 6.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Processos pendentes\n\nO presente decreto-lei aplica-se aos processos de troca de título de condução pendentes à data de produção de efeitos do presente decreto-lei."
+  },
+  "175531133": {
+   "fragment_id": "175532495",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 1 de abril de 2021."
+  },
+  "175531134": {
+   "fragment_id": "175532496",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2021."
+  },
+  "175531136": {
+   "fragment_id": "175532496",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor e vigência",
+   "in_force_from": "2021-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2021-175506672), em vigor a partir de 2021-12-08"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2022.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2021-175506672), em vigor a partir de 2021-12-08"
+  },
+  "175531135": {
+   "fragment_id": "175532497",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de março de 2021. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Hugo Santos Mendes.\n\nPromulgado em 29 de março de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 29 de março de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114112592"
+  },
+  "205492229": {
+   "fragment_id": "175532489",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2022-205493447), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece um regime transitório de reconhecimento e troca das cartas de condução do Reino Unido.\n\n2 - O presente decreto-lei estabelece ainda um regime transitório de reconhecimento dos cartões de estacionamento para pessoas com deficiência condicionadas na sua mobilidade, emitidos pelo Reino Unido.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2022-205493447), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01"
+  },
+  "205492230": {
+   "fragment_id": "175532490",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2022-205493447), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se aos residentes em Portugal titulares de cartas de condução válidas emitidas pelo Reino Unido e aos titulares de cartões de estacionamento para pessoas com deficiência condicionadas na sua mobilidade, emitidos pelo Reino Unido.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2022-205493447), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01"
+  },
+  "205492232": {
+   "fragment_id": "205557247",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Reconhecimento dos cartões de estacionamento do Reino Unido",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2022-205493447), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 4.º-A — Reconhecimento dos cartões de estacionamento do Reino Unido\n\n1 - Os cartões de estacionamento para pessoas com deficiência, emitidos pelas autoridades do Reino Unido, são reconhecidos em Portugal.\n\n2 - À utilização, fiscalização e apreensão, aplica-se o regime estabelecido no Decreto-Lei n.º 307/2003, de 10 de dezembro, na sua redação atual.\n\n3 - Surgindo fundadas dúvidas quanto à autenticidade dos cartões de estacionamento a que se refere o presente artigo, cabe ao Instituto da Mobilidade e dos Transportes, I. P., proceder à verificação da respetiva autenticidade junto das entidades emissoras.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2022-205493447), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01"
+  },
+  "205492233": {
+   "fragment_id": "175532493",
+   "type": 11,
+   "heading": "Artigo 5.º — Tratamento equivalente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tratamento equivalente\n\n1 - A aplicação do presente decreto-lei pressupõe um tratamento equivalente das autoridades britânicas para com os cidadãos portugueses residentes no Reino Unido.\n\n2 - Caso os cidadãos portugueses residentes no Reino Unido não sejam objeto de tratamento equivalente ao disposto no presente decreto-lei, a sua aplicação é total ou parcialmente suspensa.\n\n3 - Para os efeitos do número anterior, cabe ao Conselho de Ministros, mediante resolução, o reconhecimento de inexistência, total ou parcial, de tratamento equivalente."
+  },
+  "205492234": {
+   "fragment_id": "175532494",
+   "type": 11,
+   "heading": "Artigo 6.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Processos pendentes\n\nO presente decreto-lei aplica-se aos processos de troca de título de condução pendentes à data de produção de efeitos do presente decreto-lei."
+  },
+  "205492235": {
+   "fragment_id": "175532495",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 1 de abril de 2021."
+  },
+  "205492236": {
+   "fragment_id": "175532496",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2022-205493447), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2021-175506672), em vigor a partir de 2021-12-08"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2023.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2022-205493447), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 109/2021 - Diário da República n.º 236/2021, Série I de 2021-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2021-175506672), em vigor a partir de 2021-12-08"
+  },
+  "205492237": {
+   "fragment_id": "175532497",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de março de 2021. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Hugo Santos Mendes.\n\nPromulgado em 29 de março de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 29 de março de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114112592"
+  }
+ }
+}

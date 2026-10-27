@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:578338:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-105808897",
+ "dre_path": "/dr/detalhe/portaria/150-2004-578338",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-02-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "933651659"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:209621:por",
+     "title": "Declaração de Rectificação n.º 31/2004",
+     "published": "2004-03-23",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/31-2004-209621",
+     "date": "2004-02-18"
+    }
+   ]
+  },
+  {
+   "date": "2011-11-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146525:por",
+     "title": "Portaria n.º 292/2011",
+     "published": "2011-11-08",
+     "dre_path": "/dr/detalhe/portaria/292-2011-146525"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "105826798",
+    "105810676"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "178696124",
+    "105810676"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152637737:por",
+     "title": "Portaria n.º 309-A/2020",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/portaria/309-a-2020-152637737"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "178696125",
+    "105810676"
+   ]
+  },
+  {
+   "date": "2025-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:934278891:por",
+     "title": "Portaria n.º 292/2025/1",
+     "published": "2025-09-05",
+     "dre_path": "/dr/detalhe/portaria/292-2025-934278891"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "933651659",
+    "105810676"
+   ]
+  }
+ ],
+ "fragments": {
+  "933651659": {
+   "fragment_id": "105808898",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-09-06",
+   "changed_by": [],
+   "markdown": "Portaria n.º 150/2004\n\nde 13 de Fevereiro\n\nA luta contra a evasão e fraude internacionais passa também pela adopção de medidas defensivas, tradicionalmente designadas por medidas antiabuso, traduzidas em práticas restritivas no âmbito dos impostos sobre o rendimento e sobre o património, benefícios fiscais e imposto do selo, que têm como alvo operações realizadas com entidades localizadas em países, territórios ou regiões qualificados como «paraísos fiscais» ou sujeitos a regimes de tributação privilegiada.\n\nTendo em conta as dificuldades em definir «paraíso fiscal» ou «regime fiscal claramente mais favorável», o legislador nacional, na esteira das orientações seguidas por outros ordenamentos jurídico-fiscais, optou, nuns casos, por razões de segurança jurídica, pelo sistema de enumeração casuística e, noutros, por um sistema misto, estando, no entanto, ciente de que tais soluções obrigam a revisões periódicas dos países, territórios ou regiões que figuram na lista.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, o seguinte:\n\nPara todos os efeitos previstos na lei, designadamente no n.º 3 do artigo 16.º do Código do IRS, no n.º 2 do artigo 59.º e no n.º 3 e na alínea c) do n.º 7 do artigo 60.º do Código do IRC, na alínea b) do artigo 26.º, no n.º 7 do artigo 41.º e no n.º 8 do artigo 42.º do EBF, no n.º 3 do artigo 7.º do Código do Imposto do Selo, no artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, no n.º 4 do artigo 2.º e no n.º 3 do artigo 4.º do Decreto-Lei n.º 219/2001, de 4 de Agosto, no n.º 7 do artigo 9.º e no n.º 3 do artigo 112.º do Código do Imposto Municipal sobre Imóveis (CIMI) e no n.º 4 do artigo 17.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT), a lista dos países, territórios e regiões com regimes de tributação privilegiada, claramente mais favoráveis, é a seguinte:\n\n1) Revogado;\n\n2) Anguilha;\n\n3) Antígua e Barbuda;\n\n4) Antilhas Holandesas;\n\n5) Aruba;\n\n6) Ascensão;\n\n7) Bahamas;\n\n8) Bahrain;\n\n9) Barbados;\n\n10) Belize;\n\n11) Ilhas Bermudas;\n\n12) Bolívia;\n\n13) Brunei;\n\n14) Ilhas do Canal (Alderney, Guernesey, Jersey, Great Stark, Herm, Little Sark, Brechou, Jethou e Lihou);\n\n15) Ilhas Cayman;\n\n16) Ilhas Cocos o Keeling;\n\n17) (Revogado.)\n\n18) Ilhas Cook;\n\n19) Costa Rica;\n\n20) Djibouti;\n\n21) Dominica;\n\n22) Emiratos Árabes Unidos;\n\n23) Ilhas Falkland ou Malvinas;\n\n24) Ilhas Fiji;\n\n25) Gâmbia;\n\n26) Grenada;\n\n27) Gibraltar;\n\n28) Ilha de Guam;\n\n29) Guiana;\n\n30) Honduras;\n\n31) (Revogado);\n\n32) Jamaica;\n\n33) Jordânia;\n\n34) Ilhas de Queshm;\n\n35) Ilha de Kiribati;\n\n36) Koweit;\n\n37) Labuán;\n\n38) Líbano;\n\n39) Libéria;\n\n40) (Revogado);\n\n41) (Revogado.)\n\n42) Ilhas Maldivas;\n\n43) Ilha de Man;\n\n44) Ilhas Marianas do Norte;\n\n45) Ilhas Marshall;\n\n46) Maurícias;\n\n47) Mónaco;\n\n48) Monserrate;\n\n49) Nauru;\n\n50) Ilhas Natal;\n\n51) Ilha de Niue;\n\n52) Ilha Norfolk;\n\n53) Sultanato de Oman;\n\n54) Ilhas do Pacífico não compreendidas nos restantes números;\n\n55) Ilhas Palau;\n\n56) Panamá;\n\n57) Ilha de Pitcairn;\n\n58) Polinésia Francesa;\n\n59) Porto Rico;\n\n60) Quatar;\n\n61) Ilhas Salomão;\n\n62) Samoa Americana;\n\n63) Samoa Ocidental;\n\n64) Ilha de Santa Helena;\n\n65) Santa Lúcia;\n\n66) São Cristóvão e Nevis;\n\n67) São Marino;\n\n68) Ilha de São Pedro e Miguelon;\n\n69) São Vicente e Grenadinas;\n\n70) Seychelles;\n\n71) Suazilândia;\n\n72) Ilhas Svalbard (arquipélago Spitsbergen e ilha Bjornoya);\n\n73) Ilha de Tokelau;\n\n74) Tonga;\n\n75) Trinidad e Tobago;\n\n76) Ilha Tristão da Cunha;\n\n77) Ilhas Turks e Caicos;\n\n78) Ilha Tuvalu;\n\n79) (Revogado);\n\n80) República de Vanuatu;\n\n81) Ilhas Virgens Britânicas;\n\n82) Ilhas Virgens dos Estados Unidos da América;\n\n83) República Árabe do Yémen.\n\n> Nota: [Artigo 290.º, Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586) São repostos da lista dos países, territórios e regiões com regimes de tributação privilegiada claramente mais favoráveis, aprovada pela Portaria n.º 150/2004, de 13 de fevereiro, a Ilha de Man, Jersey e o Uruguai, como consequência da revogação do disposto na Portaria n.º 345-A/2016 de 30 de dezembro, pela Lei n.º 114/2017, de 29 de dezembro."
+  },
+  "105826798": {
+   "fragment_id": "105808898",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2011-11-09",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 31/2004 - Diário da República n.º 70/2004, Série I-B de 2004-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2004-209621), em vigor a partir de 2004-02-18",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 292/2011 - Diário da República n.º 214/2011, Série I de 2011-11-08](https://diariodarepublica.pt/dr/detalhe/portaria/292-2011-146525), em vigor a partir de 2011-11-09"
+   ],
+   "markdown": "Portaria n.º 150/2004\n\nde 13 de Fevereiro\n\nA luta contra a evasão e fraude internacionais passa também pela adopção de medidas defensivas, tradicionalmente designadas por medidas antiabuso, traduzidas em práticas restritivas no âmbito dos impostos sobre o rendimento e sobre o património, benefícios fiscais e imposto do selo, que têm como alvo operações realizadas com entidades localizadas em países, territórios ou regiões qualificados como «paraísos fiscais» ou sujeitos a regimes de tributação privilegiada.\n\nTendo em conta as dificuldades em definir «paraíso fiscal» ou «regime fiscal claramente mais favorável», o legislador nacional, na esteira das orientações seguidas por outros ordenamentos jurídico-fiscais, optou, nuns casos, por razões de segurança jurídica, pelo sistema de enumeração casuística e, noutros, por um sistema misto, estando, no entanto, ciente de que tais soluções obrigam a revisões periódicas dos países, territórios ou regiões que figuram na lista.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, o seguinte:\n\nPara todos os efeitos previstos na lei, designadamente no n.º 3 do artigo 16.º do Código do IRS, no n.º 2 do artigo 59.º e no n.º 3 e na alínea c) do n.º 7 do artigo 60.º do Código do IRC, na alínea b) do artigo 26.º, no n.º 7 do artigo 41.º e no n.º 8 do artigo 42.º do EBF, no n.º 3 do artigo 7.º do Código do Imposto do Selo, no artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, no n.º 4 do artigo 2.º e no n.º 3 do artigo 4.º do Decreto-Lei n.º 219/2001, de 4 de Agosto, no n.º 7 do artigo 9.º e no n.º 3 do artigo 112.º do Código do Imposto Municipal sobre Imóveis (CIMI) e no n.º 4 do artigo 17.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT), a lista dos países, territórios e regiões com regimes de tributação privilegiada, claramente mais favoráveis, é a seguinte:\n\n1) Andorra;\n\n2) Anguilha;\n\n3) Antígua e Barbuda;\n\n4) Antilhas Holandesas;\n\n5) Aruba;\n\n6) Ascensão;\n\n7) Bahamas;\n\n8) Bahrain;\n\n9) Barbados;\n\n10) Belize;\n\n11) Ilhas Bermudas;\n\n12) Bolívia;\n\n13) Brunei;\n\n14) Ilhas do Canal (Alderney, Guernesey, Jersey, Great Stark, Herm, Little Sark, Brechou, Jethou e Lihou);\n\n15) Ilhas Cayman;\n\n16) Ilhas Cocos o Keeling;\n\n17) (Revogado.)\n\n18) Ilhas Cook;\n\n19) Costa Rica;\n\n20) Djibouti;\n\n21) Dominica;\n\n22) Emiratos Árabes Unidos;\n\n23) Ilhas Falkland ou Malvinas;\n\n24) Ilhas Fiji;\n\n25) Gâmbia;\n\n26) Grenada;\n\n27) Gibraltar;\n\n28) Ilha de Guam;\n\n29) Guiana;\n\n30) Honduras;\n\n31) Hong Kong;\n\n32) Jamaica;\n\n33) Jordânia;\n\n34) Ilhas de Queshm;\n\n35) Ilha de Kiribati;\n\n36) Koweit;\n\n37) Labuán;\n\n38) Líbano;\n\n39) Libéria;\n\n40) Liechtenstein;\n\n41) (Revogado.)\n\n42) Ilhas Maldivas;\n\n43) Ilha de Man;\n\n44) Ilhas Marianas do Norte;\n\n45) Ilhas Marshall;\n\n46) Maurícias;\n\n47) Mónaco;\n\n48) Monserrate;\n\n49) Nauru;\n\n50) Ilhas Natal;\n\n51) Ilha de Niue;\n\n52) Ilha Norfolk;\n\n53) Sultanato de Oman;\n\n54) Ilhas do Pacífico não compreendidas nos restantes números;\n\n55) Ilhas Palau;\n\n56) Panamá;\n\n57) Ilha de Pitcairn;\n\n58) Polinésia Francesa;\n\n59) Porto Rico;\n\n60) Quatar;\n\n61) Ilhas Salomão;\n\n62) Samoa Americana;\n\n63) Samoa Ocidental;\n\n64) Ilha de Santa Helena;\n\n65) Santa Lúcia;\n\n66) São Cristóvão e Nevis;\n\n67) São Marino;\n\n68) Ilha de São Pedro e Miguelon;\n\n69) São Vicente e Grenadinas;\n\n70) Seychelles;\n\n71) Suazilândia;\n\n72) Ilhas Svalbard (arquipélago Spitsbergen e ilha Bjornoya);\n\n73) Ilha de Tokelau;\n\n74) Tonga;\n\n75) Trinidad e Tobago;\n\n76) Ilha Tristão da Cunha;\n\n77) Ilhas Turks e Caicos;\n\n78) Ilha Tuvalu;\n\n79) Uruguai;\n\n80) República de Vanuatu;\n\n81) Ilhas Virgens Britânicas;\n\n82) Ilhas Virgens dos Estados Unidos da América;\n\n83) República Árabe do Yémen.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 31/2004 - Diário da República n.º 70/2004, Série I-B de 2004-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2004-209621), em vigor a partir de 2004-02-18\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 292/2011 - Diário da República n.º 214/2011, Série I de 2011-11-08](https://diariodarepublica.pt/dr/detalhe/portaria/292-2011-146525), em vigor a partir de 2011-11-09"
+  },
+  "105810676": {
+   "fragment_id": "105808899",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, Vasco Jorge Valdez Ferreira Matia"
+  },
+  "178696124": {
+   "fragment_id": "105808898",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 31/2004 - Diário da República n.º 70/2004, Série I-B de 2004-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2004-209621), em vigor a partir de 2004-02-18",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 292/2011 - Diário da República n.º 214/2011, Série I de 2011-11-08](https://diariodarepublica.pt/dr/detalhe/portaria/292-2011-146525), em vigor a partir de 2011-11-09",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 345-A/2016 - Diário da República n.º 250/2016, 3º Suplemento, Série I de 2016-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/345-a-2016-105669774), produz efeitos a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 290.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "Portaria n.º 150/2004\n\nde 13 de Fevereiro\n\nA luta contra a evasão e fraude internacionais passa também pela adopção de medidas defensivas, tradicionalmente designadas por medidas antiabuso, traduzidas em práticas restritivas no âmbito dos impostos sobre o rendimento e sobre o património, benefícios fiscais e imposto do selo, que têm como alvo operações realizadas com entidades localizadas em países, territórios ou regiões qualificados como «paraísos fiscais» ou sujeitos a regimes de tributação privilegiada.\n\nTendo em conta as dificuldades em definir «paraíso fiscal» ou «regime fiscal claramente mais favorável», o legislador nacional, na esteira das orientações seguidas por outros ordenamentos jurídico-fiscais, optou, nuns casos, por razões de segurança jurídica, pelo sistema de enumeração casuística e, noutros, por um sistema misto, estando, no entanto, ciente de que tais soluções obrigam a revisões periódicas dos países, territórios ou regiões que figuram na lista.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, o seguinte:\n\nPara todos os efeitos previstos na lei, designadamente no n.º 3 do artigo 16.º do Código do IRS, no n.º 2 do artigo 59.º e no n.º 3 e na alínea c) do n.º 7 do artigo 60.º do Código do IRC, na alínea b) do artigo 26.º, no n.º 7 do artigo 41.º e no n.º 8 do artigo 42.º do EBF, no n.º 3 do artigo 7.º do Código do Imposto do Selo, no artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, no n.º 4 do artigo 2.º e no n.º 3 do artigo 4.º do Decreto-Lei n.º 219/2001, de 4 de Agosto, no n.º 7 do artigo 9.º e no n.º 3 do artigo 112.º do Código do Imposto Municipal sobre Imóveis (CIMI) e no n.º 4 do artigo 17.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT), a lista dos países, territórios e regiões com regimes de tributação privilegiada, claramente mais favoráveis, é a seguinte:\n\n1) Andorra;\n\n2) Anguilha;\n\n3) Antígua e Barbuda;\n\n4) Antilhas Holandesas;\n\n5) Aruba;\n\n6) Ascensão;\n\n7) Bahamas;\n\n8) Bahrain;\n\n9) Barbados;\n\n10) Belize;\n\n11) Ilhas Bermudas;\n\n12) Bolívia;\n\n13) Brunei;\n\n14) Ilhas do Canal (Alderney, Guernesey, Jersey, Great Stark, Herm, Little Sark, Brechou, Jethou e Lihou);\n\n15) Ilhas Cayman;\n\n16) Ilhas Cocos o Keeling;\n\n17) (Revogado.)\n\n18) Ilhas Cook;\n\n19) Costa Rica;\n\n20) Djibouti;\n\n21) Dominica;\n\n22) Emiratos Árabes Unidos;\n\n23) Ilhas Falkland ou Malvinas;\n\n24) Ilhas Fiji;\n\n25) Gâmbia;\n\n26) Grenada;\n\n27) Gibraltar;\n\n28) Ilha de Guam;\n\n29) Guiana;\n\n30) Honduras;\n\n31) Hong Kong;\n\n32) Jamaica;\n\n33) Jordânia;\n\n34) Ilhas de Queshm;\n\n35) Ilha de Kiribati;\n\n36) Koweit;\n\n37) Labuán;\n\n38) Líbano;\n\n39) Libéria;\n\n40) Liechtenstein;\n\n41) (Revogado.)\n\n42) Ilhas Maldivas;\n\n43) Ilha de Man;\n\n44) Ilhas Marianas do Norte;\n\n45) Ilhas Marshall;\n\n46) Maurícias;\n\n47) Mónaco;\n\n48) Monserrate;\n\n49) Nauru;\n\n50) Ilhas Natal;\n\n51) Ilha de Niue;\n\n52) Ilha Norfolk;\n\n53) Sultanato de Oman;\n\n54) Ilhas do Pacífico não compreendidas nos restantes números;\n\n55) Ilhas Palau;\n\n56) Panamá;\n\n57) Ilha de Pitcairn;\n\n58) Polinésia Francesa;\n\n59) Porto Rico;\n\n60) Quatar;\n\n61) Ilhas Salomão;\n\n62) Samoa Americana;\n\n63) Samoa Ocidental;\n\n64) Ilha de Santa Helena;\n\n65) Santa Lúcia;\n\n66) São Cristóvão e Nevis;\n\n67) São Marino;\n\n68) Ilha de São Pedro e Miguelon;\n\n69) São Vicente e Grenadinas;\n\n70) Seychelles;\n\n71) Suazilândia;\n\n72) Ilhas Svalbard (arquipélago Spitsbergen e ilha Bjornoya);\n\n73) Ilha de Tokelau;\n\n74) Tonga;\n\n75) Trinidad e Tobago;\n\n76) Ilha Tristão da Cunha;\n\n77) Ilhas Turks e Caicos;\n\n78) Ilha Tuvalu;\n\n79) Urugai;\n\n80) República de Vanuatu;\n\n81) Ilhas Virgens Britânicas;\n\n82) Ilhas Virgens dos Estados Unidos da América;\n\n83) República Árabe do Yémen.\n\n> Nota: [Artigo 290.º, Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586) São repostos da lista dos países, territórios e regiões com regimes de tributação privilegiada claramente mais favoráveis, aprovada pela Portaria n.º 150/2004, de 13 de fevereiro, a Ilha de Man, Jersey e o Uruguai, como consequência da revogação do disposto na Portaria n.º 345-A/2016 de 30 de dezembro, pela Lei n.º 114/2017, de 29 de dezembro.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 31/2004 - Diário da República n.º 70/2004, Série I-B de 2004-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2004-209621), em vigor a partir de 2004-02-18\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 292/2011 - Diário da República n.º 214/2011, Série I de 2011-11-08](https://diariodarepublica.pt/dr/detalhe/portaria/292-2011-146525), em vigor a partir de 2011-11-09\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 345-A/2016 - Diário da República n.º 250/2016, 3º Suplemento, Série I de 2016-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/345-a-2016-105669774), produz efeitos a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 290.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "178696125": {
+   "fragment_id": "105808898",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 31/2004 - Diário da República n.º 70/2004, Série I-B de 2004-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2004-209621), em vigor a partir de 2004-02-18",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 292/2011 - Diário da República n.º 214/2011, Série I de 2011-11-08](https://diariodarepublica.pt/dr/detalhe/portaria/292-2011-146525), em vigor a partir de 2011-11-09",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 345-A/2016 - Diário da República n.º 250/2016, 3º Suplemento, Série I de 2016-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/345-a-2016-105669774), produz efeitos a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 290.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 309-A/2020 - Diário da República n.º 253/2020, 2º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/309-a-2020-152637737), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "Portaria n.º 150/2004\n\nde 13 de Fevereiro\n\nA luta contra a evasão e fraude internacionais passa também pela adopção de medidas defensivas, tradicionalmente designadas por medidas antiabuso, traduzidas em práticas restritivas no âmbito dos impostos sobre o rendimento e sobre o património, benefícios fiscais e imposto do selo, que têm como alvo operações realizadas com entidades localizadas em países, territórios ou regiões qualificados como «paraísos fiscais» ou sujeitos a regimes de tributação privilegiada.\n\nTendo em conta as dificuldades em definir «paraíso fiscal» ou «regime fiscal claramente mais favorável», o legislador nacional, na esteira das orientações seguidas por outros ordenamentos jurídico-fiscais, optou, nuns casos, por razões de segurança jurídica, pelo sistema de enumeração casuística e, noutros, por um sistema misto, estando, no entanto, ciente de que tais soluções obrigam a revisões periódicas dos países, territórios ou regiões que figuram na lista.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, o seguinte:\n\nPara todos os efeitos previstos na lei, designadamente no n.º 3 do artigo 16.º do Código do IRS, no n.º 2 do artigo 59.º e no n.º 3 e na alínea c) do n.º 7 do artigo 60.º do Código do IRC, na alínea b) do artigo 26.º, no n.º 7 do artigo 41.º e no n.º 8 do artigo 42.º do EBF, no n.º 3 do artigo 7.º do Código do Imposto do Selo, no artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, no n.º 4 do artigo 2.º e no n.º 3 do artigo 4.º do Decreto-Lei n.º 219/2001, de 4 de Agosto, no n.º 7 do artigo 9.º e no n.º 3 do artigo 112.º do Código do Imposto Municipal sobre Imóveis (CIMI) e no n.º 4 do artigo 17.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT), a lista dos países, territórios e regiões com regimes de tributação privilegiada, claramente mais favoráveis, é a seguinte:\n\n1) Revogado;\n\n2) Anguilha;\n\n3) Antígua e Barbuda;\n\n4) Antilhas Holandesas;\n\n5) Aruba;\n\n6) Ascensão;\n\n7) Bahamas;\n\n8) Bahrain;\n\n9) Barbados;\n\n10) Belize;\n\n11) Ilhas Bermudas;\n\n12) Bolívia;\n\n13) Brunei;\n\n14) Ilhas do Canal (Alderney, Guernesey, Jersey, Great Stark, Herm, Little Sark, Brechou, Jethou e Lihou);\n\n15) Ilhas Cayman;\n\n16) Ilhas Cocos o Keeling;\n\n17) (Revogado.)\n\n18) Ilhas Cook;\n\n19) Costa Rica;\n\n20) Djibouti;\n\n21) Dominica;\n\n22) Emiratos Árabes Unidos;\n\n23) Ilhas Falkland ou Malvinas;\n\n24) Ilhas Fiji;\n\n25) Gâmbia;\n\n26) Grenada;\n\n27) Gibraltar;\n\n28) Ilha de Guam;\n\n29) Guiana;\n\n30) Honduras;\n\n31) Hong Kong;\n\n32) Jamaica;\n\n33) Jordânia;\n\n34) Ilhas de Queshm;\n\n35) Ilha de Kiribati;\n\n36) Koweit;\n\n37) Labuán;\n\n38) Líbano;\n\n39) Libéria;\n\n40) Liechtenstein;\n\n41) (Revogado.)\n\n42) Ilhas Maldivas;\n\n43) Ilha de Man;\n\n44) Ilhas Marianas do Norte;\n\n45) Ilhas Marshall;\n\n46) Maurícias;\n\n47) Mónaco;\n\n48) Monserrate;\n\n49) Nauru;\n\n50) Ilhas Natal;\n\n51) Ilha de Niue;\n\n52) Ilha Norfolk;\n\n53) Sultanato de Oman;\n\n54) Ilhas do Pacífico não compreendidas nos restantes números;\n\n55) Ilhas Palau;\n\n56) Panamá;\n\n57) Ilha de Pitcairn;\n\n58) Polinésia Francesa;\n\n59) Porto Rico;\n\n60) Quatar;\n\n61) Ilhas Salomão;\n\n62) Samoa Americana;\n\n63) Samoa Ocidental;\n\n64) Ilha de Santa Helena;\n\n65) Santa Lúcia;\n\n66) São Cristóvão e Nevis;\n\n67) São Marino;\n\n68) Ilha de São Pedro e Miguelon;\n\n69) São Vicente e Grenadinas;\n\n70) Seychelles;\n\n71) Suazilândia;\n\n72) Ilhas Svalbard (arquipélago Spitsbergen e ilha Bjornoya);\n\n73) Ilha de Tokelau;\n\n74) Tonga;\n\n75) Trinidad e Tobago;\n\n76) Ilha Tristão da Cunha;\n\n77) Ilhas Turks e Caicos;\n\n78) Ilha Tuvalu;\n\n79) Urugai;\n\n80) República de Vanuatu;\n\n81) Ilhas Virgens Britânicas;\n\n82) Ilhas Virgens dos Estados Unidos da América;\n\n83) República Árabe do Yémen.\n\n> Nota: [Artigo 290.º, Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586) São repostos da lista dos países, territórios e regiões com regimes de tributação privilegiada claramente mais favoráveis, aprovada pela Portaria n.º 150/2004, de 13 de fevereiro, a Ilha de Man, Jersey e o Uruguai, como consequência da revogação do disposto na Portaria n.º 345-A/2016 de 30 de dezembro, pela Lei n.º 114/2017, de 29 de dezembro.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 31/2004 - Diário da República n.º 70/2004, Série I-B de 2004-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/31-2004-209621), em vigor a partir de 2004-02-18\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 292/2011 - Diário da República n.º 214/2011, Série I de 2011-11-08](https://diariodarepublica.pt/dr/detalhe/portaria/292-2011-146525), em vigor a partir de 2011-11-09\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 345-A/2016 - Diário da República n.º 250/2016, 3º Suplemento, Série I de 2016-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/345-a-2016-105669774), produz efeitos a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 290.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 309-A/2020 - Diário da República n.º 253/2020, 2º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/309-a-2020-152637737), em vigor a partir de 2021-01-01"
+  }
+ }
+}

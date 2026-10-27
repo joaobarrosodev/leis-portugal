@@ -1,0 +1,463 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67072253:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2015-924708952",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/9-2015-67072253",
+ "source_lastmod": "2025-07-14",
+ "versions": [
+  {
+   "date": "2015-04-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "924671258",
+    "924671259",
+    "924671260",
+    "924671261",
+    "924671263",
+    "924671264",
+    "924671265",
+    "924671266",
+    "924671267",
+    "924671268",
+    "924671269",
+    "924671270",
+    "924671271",
+    "924671272",
+    "924671273",
+    "924671274",
+    "924789475",
+    "924789476",
+    "924789477",
+    "924789478",
+    "924789479",
+    "924789480",
+    "924789481",
+    "924789482",
+    "924789483",
+    "924789484",
+    "924789485",
+    "924789486",
+    "924789487",
+    "924789488"
+   ]
+  },
+  {
+   "date": "2025-07-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:924672854:por",
+     "title": "Decreto Regulamentar Regional n.º 19/2025/A",
+     "published": "2025-07-14",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Adita Artigo 6.º-B",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "924671258",
+    "924671259",
+    "924671260",
+    "924671261",
+    "924671262",
+    "924671263",
+    "924671264",
+    "924671265",
+    "924671266",
+    "924671267",
+    "924671268",
+    "924789503",
+    "924789504",
+    "924789505",
+    "924789489",
+    "924789496",
+    "924789497",
+    "924789506",
+    "924789499",
+    "924789500",
+    "924789501",
+    "924789502",
+    "924789478",
+    "924789479",
+    "924789480",
+    "924789481",
+    "924789482",
+    "924789483",
+    "924789507",
+    "924789485",
+    "924789486",
+    "924789487",
+    "924789488"
+   ]
+  }
+ ],
+ "fragments": {
+  "924671258": {
+   "fragment_id": "924708953",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 9/2015/A\n\nOrgânica e o quadro de pessoal dirigente do Centro de Oncologia dos Açores Prof. Doutor José Conde\n\nO Decreto Regional n.º 7/79/A, de 24 de abril, criou o Centro de Oncologia dos Açores. O Decreto Regulamentar Regional n.º 33/89/A, de 22 de setembro, fez cessar o regime de instalação a que estava sujeito aquele serviço.\n\nEm 2007 procedeu-se à elaboração da estrutura orgânica e do quadro de pessoal do Centro de Oncologia dos Açores Prof. Doutor José Conde que foram aprovados pelo Decreto Regulamentar Regional n.º 1/2007/A, de 24 de janeiro.\n\nDecorridos sete anos, e considerando a experiência entretanto colhida, designadamente, no que concerne ao trabalho desenvolvido no rastreio das várias doenças oncológicas, reconhecido pelas instituições e pela população açoriana, torna-se necessário rever essa orgânica, adequando-a às novas realidades administrativas e potenciando o seu papel no combate às doenças oncológicas.\n\nAssim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, e em execução do artigo 6.º do Decreto Regional n.º 7/79/A, de 24 de abril, o Governo decreta o seguinte:"
+  },
+  "924671259": {
+   "fragment_id": "924708954",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados a orgânica e o quadro de pessoal dirigente afeto ao Centro de Oncologia dos Açores Prof. Doutor José Conde, constantes do Anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "924671260": {
+   "fragment_id": "924708955",
+   "type": 11,
+   "heading": "Artigo 2.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revogação\n\nÉ revogado o Decreto Regulamentar Regional n.º 1/2007/A, de 24 de janeiro."
+  },
+  "924671261": {
+   "fragment_id": "924708956",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "924671263": {
+   "fragment_id": "924708958",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "924671264": {
+   "fragment_id": "924708959",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e atribuições"
+  },
+  "924671265": {
+   "fragment_id": "924708960",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Centro de Oncologia dos Açores Prof. Doutor José Conde (COA) é uma pessoa coletiva de direito público, dotada de autonomia administrativa, financeira, técnica e científica e reveste a natureza de serviço especializado integrado no Serviço Regional de Saúde (SRS), funcionando sob a superintendência e tutela do membro do Governo Regional com competência em matéria de saúde."
+  },
+  "924671266": {
+   "fragment_id": "924708961",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA atividade do COA é de âmbito regional."
+  },
+  "924671267": {
+   "fragment_id": "924708962",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nSão atribuições do COA:\n\na) Promover o diagnóstico precoce das doenças oncológicas, utilizando, para o efeito, os seus próprios recursos, ou estabelecendo parcerias e protocolos com as demais instituições do SRS ou com entidades privadas prestadoras de cuidados de saúde;\n\nb) Conceber, coordenar e desenvolver programas de rastreio organizado, de base populacional;\n\nc) Conceber, desenvolver e participar em programas e ações de rastreio oportunista;\n\nd) Garantir os procedimentos necessários à execução, coordenação e desenvolvimento do registo oncológico da Região Autónoma dos Açores (RAA);\n\ne) Desenvolver, em conjunto com a Direção Regional da Saúde (DRS), campanhas direcionadas para a prevenção oncológica, nomeadamente as campanhas para a cessação tabágica e promoção de estilos de vida saudáveis;\n\nf) Colaborar na elaboração e desenvolvimento da estratégia regional de combate às doenças oncológicas;\n\ng) Representar a RAA em conselhos ou comissões nacionais com homólogas competências."
+  },
+  "924671268": {
+   "fragment_id": "924708963",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos, serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos, serviços e suas competências"
+  },
+  "924671269": {
+   "fragment_id": "924708964",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura\n\nSão órgãos e serviços do COA:\n\na) De caráter consultivo - Conselho Consultivo para o Combate à Doença Oncológica nos Açores (CCCDOA);\n\nb) De caráter executivo - Conselho de Administração;\n\nc) De apoio instrumental - Serviço de Apoio Geral."
+  },
+  "924671270": {
+   "fragment_id": "924708965",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho Consultivo para o Combate à Doença Oncológica nos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho Consultivo para o Combate à Doença Oncológica nos Açores\n\n1 - O CCCDOA é o órgão de consulta do COA, cujo funcionamento será definido por regulamento interno elaborado e aprovado pelo próprio.\n\n2 - Ao CCCDOA compete:\n\na) Assessorar o COA no desenvolvimento da sua atividade;\n\nb) Colaborar na elaboração, acompanhamento e execução do Plano Regional de Saúde, na vertente das doenças oncológicas;\n\nc) Submeter à DRS uma proposta de rede de referenciação oncológica nos Açores e propostas de alteração ou atualização;\n\nd) Acompanhar e estimular a articulação entre o COA, os hospitais da Região e as unidades de saúde de ilha;\n\ne) Emitir pareceres sempre que solicitados pelo conselho de administração do COA;\n\nf) Acompanhar e estimular as medidas e ações relacionadas com a investigação científica da problemática oncológica;\n\ng) Colaborar na conceção, manutenção e desenvolvimento de um programa global de controlo e garantia de qualidade das medidas e ações adotadas.\n\n3 - A coordenação operacional do CCCDOA é efetuada pelo COA."
+  },
+  "924671271": {
+   "fragment_id": "924708966",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição\n\n1 - O CCCDOA será composto por elementos de reconhecida idoneidade na matéria, num número máximo de sete conselheiros.\n\n2 - O CCCDOA integrará o presidente do Conselho de Administração do COA, e os responsáveis por cada um dos serviços ou unidades de oncologia dos hospitais da Região.\n\n3 - O CCCDOA escolherá, entre os seus membros, o respetivo presidente.\n\n4 - Ao presidente caberá a coordenação geral do CCCDOA e a sua representação.\n\n5 - A nomeação do CCCDOA ocorre por despacho do membro do Governo Regional com competência em matéria de saúde."
+  },
+  "924671272": {
+   "fragment_id": "924708967",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho de Administração\n\n1 - O Conselho de Administração é composto por três elementos, nomeados em comissão de serviço, por três anos, renovável, por despacho conjunto do Presidente do Governo Regional e do membro do Governo Regional com competência em matéria de saúde.\n\n2 - Os membros do Conselho de Administração são um presidente e dois vogais, vinculados, ou não, à administração pública, com licenciatura adequada."
+  },
+  "924671273": {
+   "fragment_id": "924708968",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências do Conselho de Administração\n\n1 - Compete ao Conselho de Administração, nomeadamente:\n\na) Definir as diretrizes orientadoras da gestão e funcionamento do COA e assegurar o seu cumprimento;\n\nb) Elaborar o plano anual de atividades e o orçamento;\n\nc) Elaborar o plano plurianual e o respetivo orçamento previsional;\n\nd) Elaborar o relatório anual de atividades e a conta de gerência;\n\ne) Assegurar a articulação com as unidades de saúde do SRS;\n\nf) Planear e coordenar os setores de atividade;\n\ng) Celebrar contratos-programa com a SAUDAÇOR, S. A., bem como protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades e visando atingir os seus objetivos;\n\nh) Promover a formação do pessoal;\n\ni) Avaliar, sistematicamente, o desempenho global do funcionamento do COA;\n\nj) Aprovar os regulamentos internos dos setores de atividade.\n\n2 - O Conselho de Administração exerce, também, as seguintes competências, que pode delegar no seu presidente ou nos vogais:\n\na) Gerir os recursos humanos, financeiros, materiais e patrimoniais do COA;\n\nb) Aprovar os horários de trabalho e os planos de férias do pessoal;\n\nc) Promover a cobrança e arrecadação das receitas;\n\nd) Autorizar a realização de despesas e o seu pagamento;\n\ne) Promover a organização da contabilidade e o cadastro dos bens;\n\nf) Contratar a prestação de serviços com terceiros."
+  },
+  "924671274": {
+   "fragment_id": "924708969",
+   "type": 11,
+   "heading": "Artigo 9.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Presidente\n\nAo presidente do Conselho de Administração compete:\n\na) Orientar e coordenar a atividade do COA;\n\nb) Assegurar a coordenação geral dos programas de rastreio;\n\nc) Assegurar a aplicação das políticas de gestão e das normas de funcionamento do COA;\n\nd) Chefiar os setores de atividade;\n\ne) Convocar e presidir às reuniões do Conselho de Administração e assegurar o cumprimento das deliberações tomadas;\n\nf) Exercer a autoridade administrativa e disciplinar sobre todo o pessoal ao serviço do COA;\n\ng) Representar o COA em juízo ou fora dele;\n\nh) Desempenhar todos os demais atos necessários ao regular funcionamento do COA que lhe sejam cometidos por lei, regulamento ou por delegação."
+  },
+  "924789475": {
+   "fragment_id": "924708970",
+   "type": 11,
+   "heading": "Artigo 10.º — Vogais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vogais\n\n1 - Aos vogais do Conselho de Administração compete:\n\na) Assessorar o presidente do Conselho de Administração na coordenação e orientação do funcionamento corrente dos setores de prestação de cuidados de saúde;\n\nb) Assegurar a direção operacional dos programas de rastreio;\n\nc) Chefiar o serviço de apoio geral;\n\nd) Cooperar na coordenação e orientação do funcionamento corrente dos serviços;\n\ne) Praticar os atos subsequentes à autorização de despesas, nomeadamente os relativos ao processo de aquisição e pagamento de bens e serviços;\n\nf) Informar e submeter a despacho do Conselho de Administração os processos relativos à movimentação de pessoal;\n\ng) Exercer as funções que lhes forem delegadas pelo Conselho de Administração, nomeadamente em matéria de gestão corrente;\n\nh) Responsabilizar os diversos setores de atividade pela utilização dos meios postos à sua disposição e pelos resultados obtidos;\n\ni) Praticar uma política de informação que permita aos trabalhadores e aos utentes o conhecimento correto dos aspetos fundamentais do funcionamento do COA.\n\n2 - A repartição destas competências pelos vogais cabe ao Conselho de Administração."
+  },
+  "924789476": {
+   "fragment_id": "924708971",
+   "type": 11,
+   "heading": "Artigo 11.º — Setores de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Setores de atividade\n\n1 - O COA organiza a sua atividade com base nos seguintes setores:\n\na) Setor de rastreio organizado;\n\nb) Setor de rastreio oportunista;\n\nc) Setor de registo oncológico;\n\nd) Setor de diagnóstico e terapêutica.\n\n2 - O funcionamento dos setores de atividade é estabelecido por regulamento interno."
+  },
+  "924789477": {
+   "fragment_id": "924708972",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviço de apoio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Serviço de apoio geral\n\nAo serviço de apoio geral compete, designadamente:\n\na) Executar as operações administrativas relacionadas com o recrutamento, gestão corrente e mobilidade do pessoal;\n\nb) Organizar e manter atualizado o cadastro e o registo biográfico do pessoal;\n\nc) Efetuar as operações de controlo da assiduidade e pontualidade do pessoal;\n\nd) Assegurar a receção e expedição da correspondência e documentação;\n\ne) Prestar apoio administrativo na marcação de consultas e exames;\n\nf) Organizar e manter o arquivo geral do COA;\n\ng) Elaborar a proposta de orçamento do COA;\n\nh) Processar as retribuições devidas ao pessoal;\n\ni) Processar as despesas relativas a serviços e diversos encargos;\n\nj) Proceder a todas as operações contabilísticas;\n\nk) Propor alterações orçamentais e transferências de verbas, de acordo com a execução efetuada e a evolução verificada nas despesas;\n\nl) Promover, acompanhar e verificar as atividades de segurança, limpeza, manutenção e reparação das instalações e equipamentos;\n\nm) Executar as operações administrativas relacionadas com a aquisição de bens e serviços e com a alienação de quaisquer bens;\n\nn) Emitir certidões;\n\no) Executar as demais tarefas que lhe sejam superiormente determinadas."
+  },
+  "924789478": {
+   "fragment_id": "924708973",
+   "type": 1,
+   "heading": "Capítulo III — Administração financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Administração financeira e patrimonial"
+  },
+  "924789479": {
+   "fragment_id": "924708974",
+   "type": 11,
+   "heading": "Artigo 13.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Instrumentos de gestão\n\n1 - A gestão económica e financeira do COA é disciplinada, nomeadamente, pelos seguintes instrumentos de gestão previsional:\n\na) Plano de atividades;\n\nb) Orçamento de tesouraria;\n\nc) Demonstração de resultados;\n\nd) Balanço previsional;\n\ne) Contrato de gestão.\n\n2 - O COA deve elaborar, entre outros, os seguintes documentos de prestação de contas:\n\na) Relatório de atividades;\n\nb) Conta de fluxos de tesouraria;\n\nc) Balanço analítico;\n\nd) Demonstração de resultados líquidos;\n\ne) Anexos ao balanço e demonstração de resultados.\n\n3 - O COA utiliza, também, instrumentos adequados de gestão do pessoal e de aperfeiçoamento permanente do seu funcionamento, nomeadamente:\n\na) Sistema de avaliação do desempenho;\n\nb) Balanço social;\n\nc) Programa de formação do pessoal;\n\nd) Programas específicos de promoção da saúde;\n\ne) Sistema de qualidade."
+  },
+  "924789480": {
+   "fragment_id": "924789575",
+   "type": 11,
+   "heading": "Artigo 14.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Receitas\n\nConstituem receitas do COA:\n\na) As resultantes da sua atividade específica;\n\nb) Doações, legados ou heranças;\n\nc) Outras que, por lei ou contrato, lhe devam pertencer;\n\nd) Comparticipações, dotações, transferências e subsídios provenientes do Orçamento do Estado, do Orçamento da Região, do Orçamento da Segurança Social ou de quaisquer entidades públicas ou privadas, bem como do Orçamento da União Europeia."
+  },
+  "924789481": {
+   "fragment_id": "924789576",
+   "type": 11,
+   "heading": "Artigo 15.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Despesas\n\nSão despesas do COA:\n\na) Os encargos com o seu funcionamento e com a prossecução das suas atribuições e das competências dos seus órgãos e serviços;\n\nb) Os encargos resultantes da execução de planos e programas plurianuais;\n\nc) Os custos de aquisição, construção e manutenção de bens e equipamentos;\n\nd) Os custos de aquisição de serviços."
+  },
+  "924789482": {
+   "fragment_id": "924789577",
+   "type": 11,
+   "heading": "Artigo 16.º — Plano oficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Plano oficial\n\nAs receitas e despesas do COA são classificadas, orçamentadas e contabilizadas segundo o Plano Oficial de Contas dos serviços de saúde."
+  },
+  "924789483": {
+   "fragment_id": "924789578",
+   "type": 11,
+   "heading": "Artigo 17.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Património\n\n1 - Os bens, direitos e obrigações patrimoniais transferidos ou adquiridos nos termos do presente diploma constituem património da Região e os respetivos registos são titulados ao COA.\n\n2 - O COA só poderá proceder a capitalizações de fundos ou à alienação ou cedência de bens ou direitos do seu património mediante autorização dos membros do Governo Regional com competência em matéria de finanças e de saúde."
+  },
+  "924789484": {
+   "fragment_id": "924789579",
+   "type": 11,
+   "heading": "Artigo 18.º — Gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Gestão orçamental\n\nA gestão orçamental do COA está sujeita às regras e princípios orientadores da SAUDAÇOR, S. A., à qual compete, igualmente, acompanhar a respetiva execução."
+  },
+  "924789485": {
+   "fragment_id": "924789580",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "924789486": {
+   "fragment_id": "924789581",
+   "type": 11,
+   "heading": "Artigo 19.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Quadro de pessoal\n\n1 - O quadro de pessoal dirigente consta do Anexo I da presente orgânica, da qual faz parte integrante.\n\n2 - O pessoal afeto ao COA consta dos quadros regionais de ilha em vigor."
+  },
+  "924789487": {
+   "fragment_id": "924789582",
+   "type": 11,
+   "heading": "Artigo 20.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pessoal dirigente\n\n1 - Os cargos de presidente e vogais do Conselho de Administração regem-se pelas disposições constantes do regime previsto no Estatuto do Pessoal Dirigente.\n\n2 - A remuneração do presidente do Conselho de Administração é estabelecida por despacho dos membros do Governo Regional com competência em matéria de finanças e de saúde.\n\n3 - Os vogais do Conselho de Administração exercem as funções correspondentes em acumulação com as respeitantes às respetivas carreiras.\n\n4 - As remunerações a auferir pelos titulares dos cargos referidos no número anterior são estabelecidas por despacho dos membros do Governo Regional com competência em matéria de finanças e de saúde."
+  },
+  "924789488": {
+   "fragment_id": "924789583",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal dirigente do Centro de Oncologia dos Açores - Prof. Doutor José Conde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro de pessoal dirigente do Centro de Oncologia dos Açores - Prof. Doutor José Conde\n\n(ver documento original)"
+  },
+  "924671262": {
+   "fragment_id": "924708957",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de fevereiro de 2015.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 7 de abril de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\nANEXO\n\nOrgânica do Centro de Oncologia dos Açores Prof. Doutor José Conde"
+  },
+  "924789503": {
+   "fragment_id": "924708964",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura",
+   "in_force_from": "2025-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+   ],
+   "markdown": "###### Artigo 4.º — Estrutura\n\nSão órgãos e serviços do COA:\n\na) De caráter consultivo:\n\ni) Conselho Consultivo (CC);\n\nii) Comissão de Ética (CES);\n\nb) De caráter executivo - Conselho de Administração;\n\nc) De apoio instrumental - Serviço de Apoio Geral.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+  },
+  "924789504": {
+   "fragment_id": "924708965",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho Consultivo",
+   "in_force_from": "2025-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho Consultivo\n\n1 - O CC é o órgão de consulta do COA, cujo funcionamento é definido por regulamento interno, elaborado e aprovado pelo próprio.\n\n2 - O CC tem a seguinte composição:\n\na) O Diretor Regional da Saúde;\n\nb) Os responsáveis por cada um dos serviços de oncologia dos hospitais da Região, ou quem seja por estes indicado;\n\nc) Um representante dos cuidados de saúde primários, indicado por despacho do membro do Governo Regional com competência em matéria de saúde;\n\nd) Um elemento representativo da sociedade civil, sempre que possível, de entre os membros das associações de utentes dos serviços de saúde na área da oncologia, designado por despacho do membro do Governo Regional com competência em matéria de saúde, sob proposta do conselho de administração do COA.\n\ne) Os elementos do conselho de administração do COA.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+  },
+  "924789505": {
+   "fragment_id": "924708966",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências e funcionamento",
+   "in_force_from": "2025-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+   ],
+   "markdown": "###### Artigo 6.º — Competências e funcionamento\n\n1 - Compete ao CC, por sua iniciativa ou por solicitação dos órgãos de tutela do Serviço Regional de Saúde, nomeadamente do membro do Governo Regional com competência em matéria de saúde:\n\na) Emitir parecer sobre o relatório de atividades do COA;\n\nb) Pronunciar-se sobre o desenvolvimento do Plano Regional de Saúde, na área oncológica;\n\nc) Aprovar o regulamento interno de funcionamento e submetê-lo a homologação do membro do Governo Regional com competência em matéria de saúde.\n\n2 - Compete ainda ao CC, para além do previsto na alínea b) do número anterior, pronunciar-se sobre quaisquer outras matérias relacionadas com a doença oncológica que lhe sejam solicitados.\n\n3 - O CC elege, de entre os seus membros, o presidente, o qual terá voto de qualidade.\n\n4 - O CC reúne anualmente ou extraordinariamente, mediante convocatória do seu presidente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+  },
+  "924789489": {
+   "fragment_id": "924789584",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Comissão de Ética",
+   "in_force_from": "2025-07-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+   ],
+   "markdown": "###### Artigo 6.º-A — Comissão de Ética\n\n1 - A CES é um órgão dotado de independência técnica e científica, de natureza consultiva que tem por missão contribuir para a observância de princípios da ética e da bioética na atividade do COA, na prestação de cuidados de saúde e na realização de investigação epidemiológica, em especial no exercício das ciências da saúde, à luz do princípio da dignidade da pessoa humana, como garante do exercício dos seus direitos fundamentais, bem como a integridade, confiança e segurança dos procedimentos em vigor na respetiva instituição.\n\n2 - São competências da CES:\n\na) Emitir pareceres, relatórios, recomendações e outros documentos, por sua iniciativa ou por solicitação, sobre questões éticas relacionadas com as atividades do COA, e divulgar os que considere particularmente relevantes, na área da CES, no sítio da Internet do COA;\n\nb) Elaborar documentos de reflexão sobre questões de bioética de âmbito geral, designadamente com interesse direto no âmbito da atividade do COA, e divulgá-los na área da CES no sítio da Internet do COA, promovendo uma cultura de formação e de pedagogia na esfera da sua ação, incluindo a divulgação dos princípios gerais da bioética;\n\nc) Colaborar, a nível regional, nacional e internacional, com outras entidades relevantes no âmbito da ética e bioética, tendo em vista a partilha de melhores práticas;\n\nd) Promover ações de formação sobre assuntos relacionados com a ética e bioética no âmbito do COA;\n\ne) Pronunciar-se sobre a elaboração de documentos institucionais que tenham implicações no domínio da ética;\n\nf) Zelar pelo respeito dos princípios éticos da dignidade da pessoa humana, da beneficência, da justiça e da autonomia pessoal na prestação de cuidados de saúde;\n\ng) Colaborar com os serviços e profissionais da instituição envolvidos na prestação de cuidados de saúde, no domínio da ética;\n\nh) Zelar pela proteção e pelo respeito dos direitos e deveres dos utentes e dos profissionais de saúde da instituição;\n\ni) Prestar assistência ética e mediação na tomada de decisões que afetem a prática clínica e assistencial;\n\nj) Assessorar, numa perspetiva ética, a tomada de decisões de saúde, organizativas e institucionais;\n\nk) Elaborar orientações e recomendações nos casos e nas situações que gerem ou possam gerar conflitos éticos colocados pela prática clínica;\n\nl) Verificar o cumprimento dos requisitos éticos legalmente estabelecidos;\n\nm) Colaborar com o Comité de Ética para as Ciências e Novas Tecnologias da Saúde da Região Autónoma dos Açores (CECNTS-RAA) e com a Rede Nacional das Comissões de Ética para a Saúde (RNCES) no exercício das suas atribuições.\n\n3 - No exercício das suas competências, a CES pondera, em especial, o estabelecido na lei, nos códigos deontológicos, assim como nas convenções, declarações e diretrizes internacionais, existentes sobre as matérias a apreciar.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+  },
+  "924789496": {
+   "fragment_id": "924789585",
+   "type": 11,
+   "heading": "Artigo 6.º-B — Composição e funcionamento",
+   "in_force_from": "2025-07-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+   ],
+   "markdown": "###### Artigo 6.º-B — Composição e funcionamento\n\n1 - A CES tem uma composição multidisciplinar, sendo os seus membros designados pelo conselho de administração do COA, para um mandato de quatro anos, renovável uma única vez, por igual período.\n\n2 - A CES é constituída por um número ímpar de membros, que não pode ser inferior a 5, nem superior a 11, e inclui um presidente e um vice-presidente, que são eleitos por esta, de entre os seus membros.\n\n3 - Devem ser designados para a CES profissionais de reconhecido mérito nas áreas adequadas ao desempenho das suas competências, dos quais, pelo menos, dois são externos ao COA, e que garantam, sempre que possível, os valores culturais e morais da comunidade, sem prejuízo da CES poder, sempre que o considere necessário, face à natureza das matérias a abordar, solicitar o apoio de outros técnicos ou peritos.\n\n4 - A CES elabora e aprova o respetivo regulamento interno de funcionamento, que se encontra sujeito a homologação por parte do órgão máximo da instituição.\n\n5 - No exercício das suas competências, a CES atua com total independência relativamente aos órgãos de direção do COA, sem prejuízo do dever de dar conhecimento das solicitações que lhe sejam dirigidas, assim como das suas deliberações.\n\n6 - Podem solicitar à CES a emissão de pareceres, relatórios, recomendações e outros documentos:\n\na) O órgão máximo do COA;\n\nb) Qualquer profissional do COA;\n\nc) Qualquer investigador que pretenda realizar estudos de investigação clínica ou epidemiológica no COA;\n\nd) Qualquer participante ou potencial participante em estudos a realizar no COA;\n\ne) Os utentes da instituição, seus representantes ou familiares que demonstrem a existência de um interesse objetivo com impacto no exercício dos seus direitos junto do COA.\n\n7 - Os pareceres emitidos pela CES assumem sempre a forma escrita e não têm caráter vinculativo, sem prejuízo do disposto no regime legal relativo à realização de estudos clínicos, em que a realização de estudos clínicos é obrigatoriamente precedida de parecer favorável da CES, sem o qual o estudo não pode ser realizado.\n\n8 - O apoio logístico, administrativo e financeiro indispensável ao funcionamento da CES é assegurado pelo COA, designadamente o secretariado de apoio, o suporte informático e um espaço próprio para a realização de reuniões e para o arquivo da documentação.\n\n9 - Os membros da CES, assim como os técnicos e peritos que colaborem com esta, e o seu secretariado de apoio, estão sujeitos ao cumprimento de deveres de confidencialidade e proteção dos dados pessoais a que tenham acesso no exercício da sua atividade, mesmo após a cessação da mesma.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+  },
+  "924789497": {
+   "fragment_id": "924708967",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho de Administração\n\n1 - O Conselho de Administração é composto por três elementos, nomeados em comissão de serviço, por três anos, renovável, por despacho conjunto do Presidente do Governo Regional e do membro do Governo Regional com competência em matéria de saúde.\n\n2 - Os membros do Conselho de Administração são um presidente e dois vogais, vinculados, ou não, à administração pública, com licenciatura adequada."
+  },
+  "924789506": {
+   "fragment_id": "924708968",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências do Conselho de Administração",
+   "in_force_from": "2025-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+   ],
+   "markdown": "###### Artigo 8.º — Competências do Conselho de Administração\n\n1 - Compete ao Conselho de Administração, nomeadamente:\n\na) Definir as diretrizes orientadoras da gestão e funcionamento do COA e assegurar o seu cumprimento;\n\nb) Elaborar o plano anual de atividades e o orçamento;\n\nc) Elaborar o plano plurianual e o respetivo orçamento previsional;\n\nd) Elaborar o relatório anual de atividades e a conta de gerência;\n\ne) Assegurar a articulação com as unidades de saúde do SRS;\n\nf) Planear e coordenar os setores de atividade;\n\ng) Celebrar protocolos de colaboração ou de apoio, e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades e visando atingir os seus objetivos;\n\nh) Promover a formação do pessoal;\n\ni) Avaliar, sistematicamente, o desempenho global do funcionamento do COA;\n\nj) Aprovar os regulamentos internos dos setores de atividade.\n\n2 - O Conselho de Administração exerce, também, as seguintes competências, que pode delegar no seu presidente ou nos vogais:\n\na) Gerir os recursos humanos, financeiros, materiais e patrimoniais do COA;\n\nb) Aprovar os horários de trabalho e os planos de férias do pessoal;\n\nc) Promover a cobrança e arrecadação das receitas;\n\nd) Autorizar a realização de despesas e o seu pagamento;\n\ne) Promover a organização da contabilidade e o cadastro dos bens;\n\nf) Contratar a prestação de serviços com terceiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+  },
+  "924789499": {
+   "fragment_id": "924708969",
+   "type": 11,
+   "heading": "Artigo 9.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Presidente\n\nAo presidente do Conselho de Administração compete:\n\na) Orientar e coordenar a atividade do COA;\n\nb) Assegurar a coordenação geral dos programas de rastreio;\n\nc) Assegurar a aplicação das políticas de gestão e das normas de funcionamento do COA;\n\nd) Chefiar os setores de atividade;\n\ne) Convocar e presidir às reuniões do Conselho de Administração e assegurar o cumprimento das deliberações tomadas;\n\nf) Exercer a autoridade administrativa e disciplinar sobre todo o pessoal ao serviço do COA;\n\ng) Representar o COA em juízo ou fora dele;\n\nh) Desempenhar todos os demais atos necessários ao regular funcionamento do COA que lhe sejam cometidos por lei, regulamento ou por delegação."
+  },
+  "924789500": {
+   "fragment_id": "924708970",
+   "type": 11,
+   "heading": "Artigo 10.º — Vogais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vogais\n\n1 - Aos vogais do Conselho de Administração compete:\n\na) Assessorar o presidente do Conselho de Administração na coordenação e orientação do funcionamento corrente dos setores de prestação de cuidados de saúde;\n\nb) Assegurar a direção operacional dos programas de rastreio;\n\nc) Chefiar o serviço de apoio geral;\n\nd) Cooperar na coordenação e orientação do funcionamento corrente dos serviços;\n\ne) Praticar os atos subsequentes à autorização de despesas, nomeadamente os relativos ao processo de aquisição e pagamento de bens e serviços;\n\nf) Informar e submeter a despacho do Conselho de Administração os processos relativos à movimentação de pessoal;\n\ng) Exercer as funções que lhes forem delegadas pelo Conselho de Administração, nomeadamente em matéria de gestão corrente;\n\nh) Responsabilizar os diversos setores de atividade pela utilização dos meios postos à sua disposição e pelos resultados obtidos;\n\ni) Praticar uma política de informação que permita aos trabalhadores e aos utentes o conhecimento correto dos aspetos fundamentais do funcionamento do COA.\n\n2 - A repartição destas competências pelos vogais cabe ao Conselho de Administração."
+  },
+  "924789501": {
+   "fragment_id": "924708971",
+   "type": 11,
+   "heading": "Artigo 11.º — Setores de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Setores de atividade\n\n1 - O COA organiza a sua atividade com base nos seguintes setores:\n\na) Setor de rastreio organizado;\n\nb) Setor de rastreio oportunista;\n\nc) Setor de registo oncológico;\n\nd) Setor de diagnóstico e terapêutica.\n\n2 - O funcionamento dos setores de atividade é estabelecido por regulamento interno."
+  },
+  "924789502": {
+   "fragment_id": "924708972",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviço de apoio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Serviço de apoio geral\n\nAo serviço de apoio geral compete, designadamente:\n\na) Executar as operações administrativas relacionadas com o recrutamento, gestão corrente e mobilidade do pessoal;\n\nb) Organizar e manter atualizado o cadastro e o registo biográfico do pessoal;\n\nc) Efetuar as operações de controlo da assiduidade e pontualidade do pessoal;\n\nd) Assegurar a receção e expedição da correspondência e documentação;\n\ne) Prestar apoio administrativo na marcação de consultas e exames;\n\nf) Organizar e manter o arquivo geral do COA;\n\ng) Elaborar a proposta de orçamento do COA;\n\nh) Processar as retribuições devidas ao pessoal;\n\ni) Processar as despesas relativas a serviços e diversos encargos;\n\nj) Proceder a todas as operações contabilísticas;\n\nk) Propor alterações orçamentais e transferências de verbas, de acordo com a execução efetuada e a evolução verificada nas despesas;\n\nl) Promover, acompanhar e verificar as atividades de segurança, limpeza, manutenção e reparação das instalações e equipamentos;\n\nm) Executar as operações administrativas relacionadas com a aquisição de bens e serviços e com a alienação de quaisquer bens;\n\nn) Emitir certidões;\n\no) Executar as demais tarefas que lhe sejam superiormente determinadas."
+  },
+  "924789507": {
+   "fragment_id": "924789579",
+   "type": 11,
+   "heading": "Artigo 18.º — Gestão orçamental",
+   "in_force_from": "2025-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+   ],
+   "markdown": "###### Artigo 18.º — Gestão orçamental\n\nA gestão orçamental do COA está sujeita às regras e princípios orientadores aplicáveis à DRS, à qual compete, igualmente, acompanhar a respetiva execução.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 19/2025/A - Diário da República n.º 133/2025, Série I de 2025-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2025-924672854), em vigor a partir de 2025-07-15"
+  }
+ }
+}

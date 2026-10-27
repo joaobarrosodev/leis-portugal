@@ -1,0 +1,632 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174801:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2012-105657367",
+ "dre_path": "/dr/detalhe/lei/49-2012-174801",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "105665498",
+    "105665499",
+    "105665500",
+    "105665501",
+    "105665502",
+    "105665503",
+    "105665504",
+    "105665505",
+    "105665506",
+    "105665507",
+    "105665508",
+    "105665509",
+    "105665510",
+    "105665511",
+    "105665512",
+    "105665513",
+    "105665514",
+    "105665515",
+    "105665516",
+    "105665517",
+    "105665518",
+    "105665519",
+    "105665520",
+    "105665521",
+    "105665522",
+    "105665523",
+    "105665524",
+    "105665525",
+    "105665526",
+    "105665527",
+    "105665528",
+    "105665529",
+    "105665530",
+    "105665531",
+    "105665532"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66016527:por",
+     "title": "Lei n.º 82-B/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-b-2014-66016527"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "105665498",
+    "105665499",
+    "105665500",
+    "105665501",
+    "105665502",
+    "105665503",
+    "105665504",
+    "105665505",
+    "105665506",
+    "105665507",
+    "105665508",
+    "105665509",
+    "105665510",
+    "105665511",
+    "105665512",
+    "105665513",
+    "105665514",
+    "105665515",
+    "105665516",
+    "105665517",
+    "105665518",
+    "105665519",
+    "105665520",
+    "105665521",
+    "105665522",
+    "105665534",
+    "105665535",
+    "105665525",
+    "105665526",
+    "105665527",
+    "105665528",
+    "105665529",
+    "105665530",
+    "105665531",
+    "105665532",
+    "105665533"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105637672:por",
+     "title": "Lei n.º 42/2016",
+     "published": "2016-12-28",
+     "dre_path": "/dr/detalhe/lei/42-2016-105637672"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 21.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 25.º"
+   ],
+   "fragments": [
+    "105665498",
+    "105665499",
+    "105665500",
+    "105665536",
+    "105665502",
+    "105665503",
+    "105665504",
+    "105665505",
+    "105665506",
+    "105665507",
+    "105665538",
+    "105665539",
+    "105665510",
+    "105665511",
+    "105665512",
+    "105665513",
+    "105665514",
+    "105665515",
+    "105665516",
+    "105665517",
+    "105665518",
+    "105665519",
+    "105665520",
+    "105665521",
+    "105665522",
+    "105665534",
+    "105665537",
+    "105665525",
+    "105665526",
+    "105665527",
+    "105665528",
+    "105665540",
+    "105665530",
+    "105665531",
+    "105665532",
+    "105665533"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Revoga Capítulo V"
+   ],
+   "fragments": [
+    "105665498",
+    "105665499",
+    "105665500",
+    "105665536",
+    "105665502",
+    "105665503",
+    "105665504",
+    "105665505",
+    "114431455",
+    "114431456",
+    "105665538",
+    "105665539",
+    "105665510",
+    "105665511",
+    "105665512",
+    "105665513",
+    "105665514",
+    "105665515",
+    "105665516",
+    "105665517",
+    "105665518",
+    "105665519",
+    "105665520",
+    "105665521",
+    "114431457",
+    "114431458",
+    "114431459",
+    "105665525",
+    "105665526",
+    "105665527",
+    "105665528",
+    "105665540",
+    "105665530",
+    "105665531",
+    "105665532",
+    "105665533"
+   ]
+  }
+ ],
+ "fragments": {
+  "105665498": {
+   "fragment_id": "105657368",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 49/2012\n\nde 29 de agosto\n\nProcede à adaptação à administração local da Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64/2011, de 22 de dezembro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "105665499": {
+   "fragment_id": "105657369",
+   "type": 1,
+   "heading": "Capítulo I — Disposições preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições preliminares"
+  },
+  "105665500": {
+   "fragment_id": "105657370",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à adaptação à administração local da Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64/2011, de 22 de dezembro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado."
+  },
+  "105665501": {
+   "fragment_id": "105657371",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro, com exceção da secção iii do capítulo i, aplica-se ao pessoal dirigente das câmaras municipais e dos serviços municipalizados, com as adaptações previstas da presente lei.\n\n2 - O estatuto do pessoal dirigente de outras entidades autárquicas ou equiparadas é regulado por legislação especial."
+  },
+  "105665502": {
+   "fragment_id": "105657372",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos da presente lei, entende-se por:\n\na) «População» o total da população residente e da população em movimento pendular;\n\nb) «População residente» a população residente no território do município, de acordo com os dados do último recenseamento geral da população;\n\nc) «População em movimento pendular» a população em movimento pendular em deslocação para o território do município, de acordo com os dados do último recenseamento geral da população;\n\nd) «Dormidas turísticas» as dormidas turísticas no território dos municípios, de acordo com os dados do ano do último recenseamento geral da população."
+  },
+  "105665503": {
+   "fragment_id": "105657373",
+   "type": 1,
+   "heading": "Capítulo II — Cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Cargos dirigentes"
+  },
+  "105665504": {
+   "fragment_id": "105657374",
+   "type": 11,
+   "heading": "Artigo 4.º — Cargos dirigentes das câmaras municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cargos dirigentes das câmaras municipais\n\n1 - Os cargos dirigentes das câmaras municipais são os seguintes:\n\na) Diretor municipal, que corresponde a cargo de direção superior de 1.º grau;\n\nb) Diretor de departamento municipal, que corresponde a cargo de direção intermédia de 1.º grau;\n\nc) Chefe de divisão municipal, que corresponde a cargo de direção intermédia de 2.º grau.\n\n2 - A estrutura orgânica pode prever a existência de cargos de direção intermédia de 3.º grau ou inferior.\n\n3 - No caso previsto no número anterior, cabe à assembleia municipal, sob proposta da câmara municipal, a definição das competências, da área, dos requisitos do recrutamento, entre os quais a exigência de licenciatura adequada, e do período de experiência profissional, bem como da respetiva remuneração, a qual deve ser fixada entre a 3.ª e 6.ª posições remuneratórias, inclusive, da carreira geral de técnico superior."
+  },
+  "105665505": {
+   "fragment_id": "105669175",
+   "type": 11,
+   "heading": "Artigo 5.º — Cargos dirigentes dos serviços municipalizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cargos dirigentes dos serviços municipalizados\n\n1 - Os cargos dirigentes dos serviços municipalizados são os seguintes:\n\na) Diretor-delegado;\n\nb) Diretor de departamento municipal;\n\nc) Chefe de divisão municipal.\n\n2 - O cargo de diretor-delegado pode ser equiparado, para efeitos de estatuto remuneratório, ao mais elevado grau de direção previsto na estrutura organizativa do município, por deliberação da câmara municipal, sob proposta do conselho de administração.\n\n3 - Só pode ser criado o cargo de diretor de departamento municipal no caso de equiparação do diretor-delegado a diretor municipal.\n\n4 - Os dirigentes dos serviços municipalizados são contabilizados para efeitos dos limites de dirigentes a prover previstos na presente lei, tendo em consideração, no caso do diretor-delegado, o cargo dirigente relativamente ao qual o respetivo estatuto remuneratório é equiparado."
+  },
+  "105665506": {
+   "fragment_id": "105669176",
+   "type": 11,
+   "heading": "Artigo 6.º — Provimento de diretores municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Provimento de diretores municipais\n\n1 - Sem prejuízo do disposto nos n.os 3 e 4, o cargo de diretor municipal apenas pode ser provido nos municípios cuja população seja igual ou superior a 100 000.\n\n2 - A cada fração populacional de 100 000 corresponde a faculdade de provimento de um diretor municipal.\n\n3 - Os municípios cuja participação no montante total dos fundos a que se refere o n.º 1 do artigo 19.º da Lei n.º 2/2007, de 15 de janeiro, seja igual ou superior a 8 (por mil) podem prover um diretor municipal, a acrescer aos providos nos termos dos números anteriores.\n\n4 - Os municípios cujo número de dormidas turísticas seja igual ou superior a 1 000 000 por cada ano civil, e por cada fração igual, podem prover um diretor municipal, a acrescer aos providos nos termos dos números anteriores, com o limite de dois."
+  },
+  "105665507": {
+   "fragment_id": "105669177",
+   "type": 11,
+   "heading": "Artigo 7.º — Provimento de diretores de departamento municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Provimento de diretores de departamento municipal\n\n1 - Sem prejuízo do disposto nos n.os 3 e 4, o cargo de diretor de departamento municipal apenas pode ser provido nos municípios com população igual ou superior a 40 000.\n\n2 - A cada fração populacional de 40 000 corresponde a faculdade de provimento de um diretor de departamento municipal.\n\n3 - Os municípios cuja participação no montante total dos fundos a que se refere o n.º 1 do artigo 19.º da Lei n.º 2/2007, de 15 de janeiro, seja igual ou superior a 2 (por mil) podem prover um diretor de departamento municipal, a acrescer aos providos nos termos dos números anteriores.\n\n4 - Os municípios cujo número de dormidas turísticas seja igual ou superior a 400 000 por cada ano civil, e por cada fração igual, podem prover um diretor de departamento municipal, a acrescer aos providos nos termos dos números anteriores, com o limite de quatro."
+  },
+  "105665508": {
+   "fragment_id": "105669178",
+   "type": 11,
+   "heading": "Artigo 8.º — Provimento de chefes de divisão municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Provimento de chefes de divisão municipal\n\n1 - O cargo de chefe de divisão municipal pode ser provido em todos os municípios, nos termos das alíneas seguintes:\n\na) Nos municípios com população inferior a 10 000, podem ser providos dois chefes de divisão municipal;\n\nb) Nos municípios com população igual ou superior a 10 000 podem ser providos três chefes de divisão municipal, aos quais pode acrescer um cargo de chefe de divisão municipal por cada fração igual.\n\n2 - Os municípios cujo número de dormidas turísticas seja igual ou superior a 100 000 por cada ano civil, e por cada fração igual, podem prover um chefe de divisão, a acrescer aos providos nos termos do número anterior, com o limite de seis."
+  },
+  "105665509": {
+   "fragment_id": "105669179",
+   "type": 11,
+   "heading": "Artigo 9.º — Provimento de cargos de direção intermédia de 3.º grau ou inferior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Provimento de cargos de direção intermédia de 3.º grau ou inferior\n\n1 - Todos os municípios podem prover um cargo de direção intermédia de 3.º grau ou inferior, a criar nos termos dos n.os 2 e 3 do artigo 4.º\n\n2 - Sem prejuízo do disposto no número anterior, à fração populacional de 40 000 corresponde o direito ao provimento de um dirigente de direção intermédia de 3.º grau ou inferior.\n\n3 - O limite global de dirigentes de direção intermédia de 3.º grau ou inferior, a prover nos termos dos números anteriores, é de seis."
+  },
+  "105665510": {
+   "fragment_id": "105669180",
+   "type": 11,
+   "heading": "Artigo 10.º — Exceções aos limites ao provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Exceções aos limites ao provimento\n\n1 - Não são contabilizados, para efeitos dos limites previstos nos artigos anteriores:\n\na) Os cargos dirigentes ou de comando impostos por lei específica, designadamente os relativos a corpos de bombeiros, polícia municipal, serviço municipal de proteção civil e serviços veterinários municipais;\n\nb) Os cargos dirigentes dos serviços intermunicipalizados.\n\n2 - Os chefes de equipa multidisciplinar, criados nos termos do artigo 12.º do Decreto-Lei n.º 305/2009, de 23 de outubro, são contabilizados para efeitos dos limites previstos nos artigos anteriores, tendo em consideração o cargo dirigente relativamente ao qual o respetivo estatuto remuneratório é equiparado."
+  },
+  "105665511": {
+   "fragment_id": "105669181",
+   "type": 11,
+   "heading": "Artigo 11.º — Recrutamento, seleção e provimento dos cargos de direção superior de 1.º grau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Recrutamento, seleção e provimento dos cargos de direção superior de 1.º grau\n\n1 - Os titulares dos cargos de direção superior são recrutados, por procedimento concursal, nos termos da presente lei, de entre indivíduos com licenciatura concluída à data de abertura do concurso há pelo menos oito anos, vinculados ou não à Administração Pública, que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções.\n\n2 - O recrutamento para os cargos referidos no número anterior de entre indivíduos licenciados não vinculados à Administração Pública fica sujeito a aprovação prévia da câmara municipal, sob proposta do respetivo presidente.\n\n3 - Os cargos de direção superior de 1.º grau são providos por deliberação da câmara municipal ou do conselho de administração dos serviços municipalizados, em regime de comissão de serviço, por um período de cinco anos, renovável por igual período sem necessidade de recurso a procedimento concursal.\n\n4 - A duração da comissão de serviço e da respetiva renovação não pode exceder, na globalidade, 10 anos consecutivos, não podendo o dirigente ser provido no mesmo cargo do respetivo serviço antes de decorridos cinco anos.\n\n5 - O provimento nos cargos de direção superior produz efeitos à data do despacho de designação, salvo se outra data for expressamente fixada.\n\n6 - O despacho de designação, devidamente fundamentado, é publicado no Diário da República, no prazo máximo de 30 dias após a respetiva data, juntamente com uma nota relativa ao currículo académico e profissional do designado.\n\n7 - São nulos os despachos de designação para cargos de direção superior proferidos entre a realização de eleições gerais ou de eleições intercalares para o órgão executivo e a instalação da câmara municipal recém-eleita.\n\n8 - Excetuam-se do disposto no número anterior as designações em regime de substituição, nos termos do artigo 27.º da Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro, e do artigo 19.º da presente lei."
+  },
+  "105665512": {
+   "fragment_id": "105669182",
+   "type": 11,
+   "heading": "Artigo 12.º — Recrutamento para os cargos de direção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Recrutamento para os cargos de direção intermédia\n\n1 - A área de recrutamento para os cargos de direção intermédia de 1.º e 2.º graus é a prevista nos n.os 1 e 3 do artigo 20.º da Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro.\n\n2 - A confirmação de que as funções da unidade orgânica a que se refere o n.º 3 do artigo 20.º da Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro, correspondem a uma atividade específica e são essencialmente asseguradas por pessoal integrado em carreiras ou categorias de grau 3 de complexidade funcional, depende de aprovação prévia da câmara municipal, sob proposta do respetivo presidente.\n\n3 - Nos casos em que o procedimento concursal fique deserto ou em que nenhum dos candidatos reúna condições para ser nomeado, nos termos do n.º 7 do artigo 21.º da Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro, os titulares dos cargos de direção intermédia podem igualmente ser recrutados, em subsequente procedimento concursal, de entre indivíduos licenciados sem vínculo à Administração Pública que reúnam os requisitos previstos no n.º 1, encontrando-se a sua abertura sujeita a aprovação prévia da câmara municipal, sob proposta do respetivo presidente."
+  },
+  "105665513": {
+   "fragment_id": "105669183",
+   "type": 11,
+   "heading": "Artigo 13.º — Composição do júri de recrutamento dos cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição do júri de recrutamento dos cargos dirigentes\n\n1 - O júri de recrutamento é designado por deliberação da assembleia municipal, sob proposta da câmara municipal, e é composto por um presidente e dois vogais.\n\n2 - O presidente é designado de entre personalidades de reconhecidos mérito profissional, credibilidade e integridade pessoal.\n\n3 - Os vogais são designados de entre personalidades de reconhecidos mérito profissional, credibilidade e integridade pessoal, cuja atividade seja ou tenha sido exercida preferencialmente na área dos recursos humanos ou da administração local autárquica.\n\n4 - Aos membros do júri que não sejam vinculados à Administração Pública é devida remuneração, a fixar pela câmara municipal, cujo montante não pode ser superior ao fixado nos termos do n.º 5 do artigo 21.º da Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro.\n\n5 - A pedido da câmara municipal ou do serviço municipalizado interessado, o procedimento concursal é assegurado por entidade pública competente, não integrada nos serviços do município, com dispensa de constituição de júri mas com intervenção da pessoa referida no n.º 2, sendo, nesse caso, aplicável, com as devidas adaptações, o disposto nos n.os 1, 2, 5, 6, 7 e 12 a 16 do artigo 21.º da Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro."
+  },
+  "105665514": {
+   "fragment_id": "105669184",
+   "type": 1,
+   "heading": "Capítulo III — Formação profissional e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Formação profissional e competências"
+  },
+  "105665515": {
+   "fragment_id": "105669185",
+   "type": 11,
+   "heading": "Artigo 14.º — Formação profissional específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Formação profissional específica\n\n1 - O exercício de funções dirigentes implica o aproveitamento em cursos específicos para alta direção em Administração Pública ou administração autárquica, diferenciados, se necessário, em função do nível, grau e conteúdo funcional dos cargos dirigentes.\n\n2 - Sem prejuízo da definição de conteúdos próprios da administração local, a formação profissional específica inclui necessariamente as seguintes áreas de competência:\n\na) Organização e atividade administrativa;\n\nb) Gestão de pessoas e liderança;\n\nc) Gestão de recursos humanos, orçamentais, materiais e tecnológicos;\n\nd) Informação e conhecimento;\n\ne) Qualidade, inovação e modernização;\n\nf) Internacionalização e assuntos comunitários;\n\ng) Gestão da mudança.\n\n3 - Os cursos adequados à formação profissional específica a que se refere o presente artigo, qualquer que seja a sua designação e duração, são assegurados, no âmbito da administração local, pela Fundação CEFA - Fundação para os Estudos e Formação Autárquica, devendo os respetivos regulamentos e condições de acesso ser objeto de portaria dos membros do Governo responsáveis pelas áreas da administração local e da Administração Pública.\n\n4 - A formação profissional específica acima referida pode ser igualmente garantida por instituições de ensino superior, em termos a fixar em diploma regulamentar.\n\n5 - Os titulares dos cargos dirigentes frequentam um dos cursos a que se refere o n.º 1 durante os dois primeiros anos de exercício de funções ou, em caso de impossibilidade por causa que não lhes seja imputável, no mais breve prazo."
+  },
+  "105665516": {
+   "fragment_id": "105669186",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências do pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências do pessoal dirigente\n\n1 - Sem prejuízo do disposto no n.º 3 do artigo 4.º, os titulares dos cargos de direção exercem, na respetiva unidade orgânica, as seguintes competências:\n\na) Submeter a despacho do presidente da câmara ou a deliberação do conselho de administração dos serviços municipalizados, devidamente instruídos e informados, os assuntos que dependam da sua resolução;\n\nb) Receber e fazer distribuir pelos serviços da unidade orgânica a correspondência a eles referente;\n\nc) Propor ao presidente da câmara municipal ou ao conselho de administração dos serviços municipalizados tudo o que seja do interesse dos órgãos referidos;\n\nd) Colaborar na elaboração dos instrumentos de gestão previsional e dos relatórios e contas;\n\ne) Estudar os problemas de que sejam encarregados pelo presidente dos órgãos executivos e propor as soluções adequadas;\n\nf) Promover a execução das decisões do presidente e das deliberações dos órgãos executivos nas matérias que interessam à respetiva unidade orgânica que dirige.\n\n2 - Compete ainda aos titulares de cargos de direção:\n\na) Definir os objetivos de atuação da unidade orgânica que dirigem, tendo em conta os objetivos gerais estabelecidos;\n\nb) Orientar, controlar e avaliar o desempenho e a eficiência dos serviços dependentes, com vista à execução dos planos de atividades e à prossecução dos resultados obtidos e a alcançar;\n\nc) Garantir a coordenação das atividades e a qualidade técnica da prestação dos serviços na sua dependência;\n\nd) Gerir com rigor e eficiência os recursos humanos, patrimoniais e tecnológicos afetos à sua unidade orgânica, otimizando os meios e adotando medidas que permitam simplificar e acelerar procedimentos e promover a aproximação à sociedade e a outros serviços públicos;\n\ne) Assegurar a qualidade técnica do trabalho produzido na sua unidade orgânica e garantir o cumprimento dos prazos adequados à eficaz prestação do serviço, tendo em conta a satisfação do interesse dos destinatários;\n\nf) Efetuar o acompanhamento profissional no local de trabalho, apoiando e motivando os trabalhadores e proporcionando-lhes os adequados conhecimentos e apti-dões profissionais necessários ao exercício do respetivo posto de trabalho, bem como os procedimentos mais adequados ao incremento da qualidade do serviço a prestar;\n\ng) Divulgar junto dos trabalhadores os documentos internos e as normas de procedimento a adotar pelo serviço, bem como debater e esclarecer as ações a desenvolver para o cumprimento dos objetivos do serviço, de forma a garantir o empenho e a assunção de responsabilidades por parte dos trabalhadores;\n\nh) Proceder de forma objetiva à avaliação do mérito dos trabalhadores, em função dos resultados individuais e de grupo e à forma como cada um se empenha na prossecução dos objetivos e no espírito de equipa;\n\ni) Identificar as necessidades de formação específica dos trabalhadores da sua unidade orgânica e propor a frequência das ações de formação consideradas adequadas ao suprimento das referidas necessidades, sem prejuízo do direito à autoformação;\n\nj) Proceder ao controlo efetivo da assiduidade, pontualidade e cumprimento do período normal de trabalho por parte dos trabalhadores da sua unidade orgânica;\n\nk) Autorizar a passagem de certidões de documentos arquivados na respetiva unidade orgânica, exceto quando contenham matéria confidencial ou reservada, bem como a restituição de documentos aos interessados."
+  },
+  "105665517": {
+   "fragment_id": "105669187",
+   "type": 11,
+   "heading": "Artigo 16.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Delegação de competências\n\n1 - Os titulares de cargos de direção exercem também as competências que neles forem delegadas ou subdelegadas, nos termos da lei.\n\n2 - Os titulares de cargos de direção podem delegar ou subdelegar nos titulares de cargos de direção de nível e grau inferior as competências que neles tenham sido delegadas ou subdelegadas, com a faculdade de subdelegação, e desde que exista a correspondente autorização do delegante ou subdelegante.\n\n3 - A delegação de assinatura da correspondência ou do expediente necessário à mera instrução dos processos é possível em qualquer trabalhador.\n\n4 - A delegação e subdelegação de competências constituem instrumentos privilegiados de gestão, cabendo aos titulares dos cargos de direção a promoção da sua adoção, enquanto meios que propiciam a redução de circuitos de decisão e uma gestão mais célere e desburocratizada."
+  },
+  "105665518": {
+   "fragment_id": "105669188",
+   "type": 1,
+   "heading": "Capítulo IV — Comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Comissão de serviço"
+  },
+  "105665519": {
+   "fragment_id": "105669189",
+   "type": 11,
+   "heading": "Artigo 17.º — Decisão da renovação da comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Decisão da renovação da comissão de serviço\n\nÉ aplicável, com as devidas adaptações, à decisão sobre a renovação da comissão de serviço a que se referem os artigos 22.º e 23.º da Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro, o disposto no artigo 24.º do mesmo diploma."
+  },
+  "105665520": {
+   "fragment_id": "105669190",
+   "type": 11,
+   "heading": "Artigo 18.º — Cessação da comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Cessação da comissão de serviço\n\n1 - A comissão de serviço dos titulares dos cargos dirigentes das câmaras municipais e dos serviços municipalizados cessa, com as necessárias adaptações, nos termos do disposto no artigo 25.º da Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro, com exceção do disposto na subalínea ii) da alínea e) do seu n.º 1.\n\n2 - É aplicável, com as devidas adaptações, o disposto nos artigos 26.º e 26.º-A da Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro."
+  },
+  "105665521": {
+   "fragment_id": "105669191",
+   "type": 11,
+   "heading": "Artigo 19.º — Substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Substituição\n\n1 - A substituição a que se refere o artigo 27.º da Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro, defere-se pela seguinte ordem:\n\na) Titular de cargo dirigente de grau e nível imediatamente inferior na escala hierárquica;\n\nb) Trabalhador que reúna as condições legais de recrutamento para o cargo dirigente a substituir.\n\n2 - Nos casos referidos na alínea b) do número anterior, pode ser dispensado o requisito do módulo de tempo de experiência profissional legalmente exigido, em caso de manifesta inexistência de trabalhador que reúna todos os requisitos legais para o provimento do cargo."
+  },
+  "105665522": {
+   "fragment_id": "105669192",
+   "type": 1,
+   "heading": "Capítulo V — Situação económico-financeira e mecanismos de flexibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Situação económico-financeira e mecanismos de flexibilidade"
+  },
+  "105665523": {
+   "fragment_id": "105669193",
+   "type": 11,
+   "heading": "Artigo 20.º — Situação económico-financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Situação económico-financeira\n\nAos municípios que se encontrem em situação de desequilíbrio financeiro estrutural ou de rutura financeira nos termos do disposto no artigo 41.º da Lei n.º 2/2007, de 15 de janeiro, e aos municípios com um montante de endividamento líquido superior ao limite legalmente permitido, ainda que não tenha sido declarada a situação de desequilíbrio financeiro estrutural ou de rutura financeira, é vedada a possibilidade de aumentar o número de dirigentes providos à data da entrada em vigor da presente lei."
+  },
+  "105665524": {
+   "fragment_id": "105669194",
+   "type": 11,
+   "heading": "Artigo 21.º — Mecanismos de flexibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Mecanismos de flexibilidade\n\n1 - Os municípios podem aprovar estruturas orgânicas com um número de cargos dirigentes superior até 20 % por nível e grau ao número de dirigentes cujo provimento é legalmente permitido, no mínimo de um.\n\n2 - Os municípios podem prover um número de diretores de departamento municipal superior ao resultante da aplicação dos critérios e limites previstos na presente lei, desde que tal implique o não provimento, em igual número, de diretores municipais.\n\n3 - O disposto no número anterior é aplicável, com as devidas adaptações, às relações entre chefe de divisão municipal e diretor de departamento municipal e entre dirigente intermédio de 3.º grau ou inferior e chefe de divisão municipal."
+  },
+  "105665525": {
+   "fragment_id": "105669195",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "105665526": {
+   "fragment_id": "105669196",
+   "type": 11,
+   "heading": "Artigo 22.º — Reposição de verbas indevidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reposição de verbas indevidas\n\nSem prejuízo da responsabilidade civil, financeira e disciplinar a que houver lugar nos termos gerais, o pessoal que receba indevidamente remuneração e demais abonos inerentes a lugar dirigente fica obrigado à reposição das quantias recebidas, sendo solidariamente responsável pela referida reposição aquele que informe favoravelmente ou omita informação relativa ao provimento ou permanência de pessoal dirigente em violação do disposto na presente lei."
+  },
+  "105665527": {
+   "fragment_id": "105669197",
+   "type": 11,
+   "heading": "Artigo 23.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competências\n\nConsideram-se reportadas ao presidente da câmara municipal ou ao conselho de administração dos serviços municipalizados as referências feitas aos membros do Governo e aos dirigentes máximos na Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro."
+  },
+  "105665528": {
+   "fragment_id": "105669198",
+   "type": 11,
+   "heading": "Artigo 24.º — Despesas de representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Despesas de representação\n\n1 - Aos titulares de cargos de direção superior de 1.º grau e de direção intermédia de 1.º e 2.º graus podem ser abonadas despesas de representação no montante fixado para o pessoal dirigente da administração central, através do despacho conjunto a que se refere o n.º 2 do artigo 31.º da Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro, sendo-lhes igualmente aplicáveis as correspondentes atualizações anuais.\n\n2 - A atribuição de despesas de representação nos termos do número anterior é da competência da assembleia municipal, sob proposta da câmara municipal."
+  },
+  "105665529": {
+   "fragment_id": "105669199",
+   "type": 11,
+   "heading": "Artigo 25.º — Mecanismos de adequação da estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Mecanismos de adequação da estrutura orgânica\n\n1 - Os municípios devem aprovar a adequação das suas estruturas orgânicas, nos termos do Decreto-Lei n.º 305/2009, de 23 de outubro, às regras e critérios previstos na presente lei até 31 de dezembro de 2012.\n\n2 - Nos 30 dias posteriores à aprovação da adequação das respetivas estruturas orgânicas, os municípios devem enviar à Direção-Geral das Autarquias Locais cópia das deliberações dos competentes órgãos autárquicos respeitantes à aprovação da adequação das estruturas orgânicas prevista na presente lei.\n\n3 - Nos casos em que da aprovação da adequação das estruturas orgânicas resultar uma redução do número de dirigentes cujo provimento é legalmente permitido superior a 30 % do número de dirigentes atualmente providos, esta pode ocorrer de forma gradual, nos termos do número seguinte.\n\n4 - É admitida a faculdade de uma renovação das comissões de serviço, com exceção das respeitantes aos diretores municipais e cargos legalmente equiparados, em número igual à diferença entre o número de dirigentes correspondente ao valor percentual previsto no número anterior e o número total de dirigentes providos a reduzir, a qual, quando utilizada, determina a suspensão dos efeitos das correspondentes alterações decorrentes da adequação orgânica.\n\n5 - A faculdade prevista no número anterior é vedada aos municípios que se encontrem em situação de desequilíbrio financeiro estrutural ou de rutura financeira nos termos do disposto no artigo 41.º da Lei n.º 2/2007, de 15 de janeiro, e aos municípios com um montante de endividamento líquido superior ao limite legalmente permitido, ainda que não tenha sido declarada a situação de desequilíbrio financeiro estrutural ou de rutura financeira.\n\n6 - Os municípios devem enviar à Direção-Geral das Autarquias Locais, no prazo previsto no n.º 2, a lista de dirigentes em exercício de funções e prazos de termo das comissões de serviço respetivas e, no caso do n.º 3, as comissões de serviço suscetíveis de renovação.\n\n7 - É admitida a faculdade da manutenção até ao final do respetivo período das comissões de serviço dos dirigentes em funções à data da entrada em vigor da presente lei, a qual, quando utilizada, determina a suspensão dos efeitos das correspondentes alterações decorrentes da adequação orgânica."
+  },
+  "105665530": {
+   "fragment_id": "105669200",
+   "type": 11,
+   "heading": "Artigo 26.º — Percentagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Percentagens\n\nO resultado da aplicação das percentagens previstas na presente lei é calculado segundo as regras gerais do arredondamento."
+  },
+  "105665531": {
+   "fragment_id": "105669201",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 93/2004, de 20 de abril, alterado pelos Decretos-Leis n.os 104/2006, de 7 de junho, e 305/2009, de 23 de outubro."
+  },
+  "105665532": {
+   "fragment_id": "105669202",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "105665534": {
+   "fragment_id": "105669193",
+   "type": 11,
+   "heading": "Artigo 20.º — Situação económico-financeira",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 165.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Situação económico-financeira\n\nAos municípios que se encontrem em qualquer das situações previstas nas alíneas a) e b) do n.º 1 do artigo 58.º da Lei n.º 73/2013, de 3 de setembro, é vedada a possibilidade de aumentar o número de dirigentes providos à data da entrada em vigor da presente lei.\n\n> Alterado pelo/a Artigo 165.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "105665535": {
+   "fragment_id": "105669194",
+   "type": 11,
+   "heading": "Artigo 21.º — Mecanismos de flexibilidade",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 165.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Mecanismos de flexibilidade\n\n1 - Os municípios podem aprovar estruturas orgânicas com um número de cargos dirigentes superior até 20 % por nível e grau ao número de dirigentes cujo provimento é legalmente permitido, no mínimo de um.\n\n2 - Os municípios podem prover um número de diretores de departamento municipal superior ao resultante da aplicação dos critérios e limites previstos na presente lei, desde que tal implique o não provimento, em igual número, de diretores municipais.\n\n3 - O disposto no número anterior é aplicável, com as devidas adaptações, às relações entre chefe de divisão municipal e diretor de departamento municipal e entre dirigente intermédio de 3.º grau ou inferior e chefe de divisão municipal.\n\n4 - O município que não se encontre nas situações referidas no artigo anterior pode aprovar estruturas orgânicas e prover um número de cargos dirigentes superior ao previsto na presente lei se, por efeito conjugado com outras medidas de racionalização, ao final de cada um dos exercícios orçamentais não existir um aumento global dos custos com pessoal e prestação de serviços a pessoas singulares.\n\n5 - Quando nos casos do número anterior se verifique um aumento dos custos cessa automaticamente o provimento dos dirigentes que tenha sido efetuado para além dos limites previstos na presente lei.\n\n6 - Para efeitos do disposto nos n.os 4 e 5 não relevam os aumentos dos custos com pessoal que decorram de um seguintes factos:\n\na) Decisão legislativa ou judicial;\n\nb) Assunção pelo município de pessoal necessário para assegurar o exercício de atividades objeto de transferência ou contratualização de competências da administração central para a administração local;\n\nc) Assunção de despesas com pessoal que decorram dos respetivos processos de dissolução e da internalização das atividades pelo município.\n\n> Alterado pelo/a Artigo 165.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "105665533": {
+   "fragment_id": "105669203",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 25 de julho de 2012.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 20 de agosto de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 21 de agosto de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "105665536": {
+   "fragment_id": "105657371",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A Lei n.º 2/2004, de 15 de janeiro, na redação que lhe foi dada pela Lei n.º 64/2011, de 22 de dezembro, com exceção da secção iii do capítulo i, aplica-se ao pessoal dirigente das câmaras municipais e dos serviços municipalizados, com as adaptações previstas da presente lei.\n\n2 - O estatuto do pessoal dirigente de outras entidades que integram o subsetor local da Administração Pública é regulado por legislação especial.\n\n> Alterado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+  },
+  "105665538": {
+   "fragment_id": "105669178",
+   "type": 11,
+   "heading": "Artigo 8.º — Provimento de chefes de divisão municipal",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Provimento de chefes de divisão municipal\n\n1 - O cargo de chefe de divisão municipal pode ser provido em todos os municípios, nos termos das alíneas seguintes:\n\na) Nos municípios com população inferior a 10 000, podem ser providos dois chefes de divisão municipal;\n\nb) Nos municípios com população igual ou superior a 10 000 podem ser providos três chefes de divisão municipal, aos quais pode acrescer um cargo de chefe de divisão municipal por cada fração igual.\n\n2 - Os municípios cujo número de dormidas turísticas seja igual ou superior a 100 000 por cada ano civil, e por cada fração igual, podem prover um chefe de divisão, a acrescer aos providos nos termos do número anterior, com o limite de seis.\n\n> Revogado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+  },
+  "105665539": {
+   "fragment_id": "105669179",
+   "type": 11,
+   "heading": "Artigo 9.º — Provimento de cargos de direção intermédia de 3.º grau ou inferior",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Provimento de cargos de direção intermédia de 3.º grau ou inferior\n\n1 - Todos os municípios podem prover um cargo de direção intermédia de 3.º grau ou inferior, a criar nos termos dos n.os 2 e 3 do artigo 4.º\n\n2 - Sem prejuízo do disposto no número anterior, à fração populacional de 40 000 corresponde o direito ao provimento de um dirigente de direção intermédia de 3.º grau ou inferior.\n\n3 - O limite global de dirigentes de direção intermédia de 3.º grau ou inferior, a prover nos termos dos números anteriores, é de seis.\n\n> Revogado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+  },
+  "105665537": {
+   "fragment_id": "105669194",
+   "type": 11,
+   "heading": "Artigo 21.º — Mecanismos de flexibilidade",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 165.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Mecanismos de flexibilidade\n\n1 - Os municípios podem aprovar estruturas orgânicas com um número de cargos dirigentes superior até 20 % por nível e grau ao número de dirigentes cujo provimento é legalmente permitido, no mínimo de um.\n\n2 - Os municípios podem prover um número de diretores de departamento municipal superior ao resultante da aplicação dos critérios e limites previstos na presente lei, desde que tal implique o não provimento, em igual número, de diretores municipais.\n\n3 - O disposto no número anterior é aplicável, com as devidas adaptações, às relações entre chefe de divisão municipal e diretor de departamento municipal.\n\n4 - O município que não se encontre nas situações referidas no artigo anterior pode aprovar estruturas orgânicas e prover um número de cargos dirigentes superior ao previsto na presente lei se, por efeito conjugado com outras medidas de racionalização, ao final de cada um dos exercícios orçamentais não existir um aumento global dos custos com pessoal e prestação de serviços a pessoas singulares.\n\n5 - Quando nos casos do número anterior se verifique um aumento dos custos cessa automaticamente o provimento dos dirigentes que tenha sido efetuado para além dos limites previstos na presente lei.\n\n6 - Para efeitos do disposto nos n.os 4 e 5 não relevam os aumentos dos custos com pessoal que decorram de um seguintes factos:\n\na) Ato legislativo ou decisão judicial;\n\nb) Assunção pelo município de pessoal necessário para assegurar o exercício de atividades objeto de transferência ou contratualização de competências da administração central para a administração local;\n\nc) Assunção de despesas com pessoal que decorram dos respetivos processos de dissolução e da internalização das atividades pelo município.\n\n> Alterado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 165.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "105665540": {
+   "fragment_id": "105669199",
+   "type": 11,
+   "heading": "Artigo 25.º — Mecanismos de adequação da estrutura orgânica",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Mecanismos de adequação da estrutura orgânica\n\n1 - Os municípios devem aprovar a adequação das suas estruturas orgânicas, nos termos do Decreto-Lei n.º 305/2009, de 23 de outubro, às regras e critérios previstos na presente lei até 31 de dezembro de 2012.\n\n2 - Nos 30 dias posteriores à aprovação da adequação das respetivas estruturas orgânicas, os municípios devem enviar à Direção-Geral das Autarquias Locais cópia das deliberações dos competentes órgãos autárquicos respeitantes à aprovação da adequação das estruturas orgânicas prevista na presente lei.\n\n3 - Nos casos em que da aprovação da adequação das estruturas orgânicas resultar uma redução do número de dirigentes cujo provimento é legalmente permitido superior a 30 % do número de dirigentes atualmente providos, esta pode ocorrer de forma gradual, nos termos do número seguinte.\n\n4 - É admitida a faculdade de uma renovação das comissões de serviço, com exceção das respeitantes aos diretores municipais e cargos legalmente equiparados, em número igual à diferença entre o número de dirigentes correspondente ao valor percentual previsto no número anterior e o número total de dirigentes providos a reduzir, a qual, quando utilizada, determina a suspensão dos efeitos das correspondentes alterações decorrentes da adequação orgânica.\n\n5 - A faculdade prevista no número anterior é vedada aos municípios que se encontrem em situação de desequilíbrio financeiro estrutural ou de rutura financeira nos termos do disposto no artigo 41.º da Lei n.º 2/2007, de 15 de janeiro, e aos municípios com um montante de endividamento líquido superior ao limite legalmente permitido, ainda que não tenha sido declarada a situação de desequilíbrio financeiro estrutural ou de rutura financeira.\n\n6 - Os municípios devem enviar à Direção-Geral das Autarquias Locais, no prazo previsto no n.º 2, a lista de dirigentes em exercício de funções e prazos de termo das comissões de serviço respetivas e, no caso do n.º 3, as comissões de serviço suscetíveis de renovação.\n\n7 - É admitida a faculdade da manutenção até ao final do respetivo período das comissões de serviço dos dirigentes em funções à data da entrada em vigor da presente lei, a qual, quando utilizada, determina a suspensão dos efeitos das correspondentes alterações decorrentes da adequação orgânica.\n\n> Revogado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01"
+  },
+  "114431455": {
+   "fragment_id": "105669176",
+   "type": 11,
+   "heading": "Artigo 6.º — Provimento de diretores municipais",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 298.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Provimento de diretores municipais\n\n1 - O cargo de diretor municipal pode ser provido nos municípios desde que assegurada a correspondente cobertura orçamental e demonstrados critérios de racionalidade organizacional face às atribuições e competências detidas.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 298.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "114431456": {
+   "fragment_id": "105669177",
+   "type": 11,
+   "heading": "Artigo 7.º — Provimento de diretores de departamento municipal",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 298.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Provimento de diretores de departamento municipal\n\n1 - O cargo de diretor de departamento municipal pode ser provido nos municípios desde que assegurada a correspondente cobertura orçamental e demonstrados critérios de racionalidade organizacional face às atribuições e competências detidas.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 298.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "114431457": {
+   "fragment_id": "105669192",
+   "type": 1,
+   "heading": "Capítulo V — Situação económico-financeira e mecanismos de flexibilidade",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 299.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "### Capítulo V — Situação económico-financeira e mecanismos de flexibilidade\n\n> Revogado pelo/a Artigo 299.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "114431458": {
+   "fragment_id": "105669193",
+   "type": 11,
+   "heading": "Artigo 20.º — Situação económico-financeira",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 299.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 165.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Situação económico-financeira\n\nAos municípios que se encontrem em qualquer das situações previstas nas alíneas a) e b) do n.º 1 do artigo 58.º da Lei n.º 73/2013, de 3 de setembro, é vedada a possibilidade de aumentar o número de dirigentes providos à data da entrada em vigor da presente lei.\n\n> Revogado pelo/a Artigo 299.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 165.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "114431459": {
+   "fragment_id": "105669194",
+   "type": 11,
+   "heading": "Artigo 21.º — Mecanismos de flexibilidade",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 299.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 165.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Mecanismos de flexibilidade\n\n1 - Os municípios podem aprovar estruturas orgânicas com um número de cargos dirigentes superior até 20 % por nível e grau ao número de dirigentes cujo provimento é legalmente permitido, no mínimo de um.\n\n2 - Os municípios podem prover um número de diretores de departamento municipal superior ao resultante da aplicação dos critérios e limites previstos na presente lei, desde que tal implique o não provimento, em igual número, de diretores municipais.\n\n3 - O disposto no número anterior é aplicável, com as devidas adaptações, às relações entre chefe de divisão municipal e diretor de departamento municipal.\n\n4 - O município que não se encontre nas situações referidas no artigo anterior pode aprovar estruturas orgânicas e prover um número de cargos dirigentes superior ao previsto na presente lei se, por efeito conjugado com outras medidas de racionalização, ao final de cada um dos exercícios orçamentais não existir um aumento global dos custos com pessoal e prestação de serviços a pessoas singulares.\n\n5 - Quando nos casos do número anterior se verifique um aumento dos custos cessa automaticamente o provimento dos dirigentes que tenha sido efetuado para além dos limites previstos na presente lei.\n\n6 - Para efeitos do disposto nos n.os 4 e 5 não relevam os aumentos dos custos com pessoal que decorram de um seguintes factos:\n\na) Ato legislativo ou decisão judicial;\n\nb) Assunção pelo município de pessoal necessário para assegurar o exercício de atividades objeto de transferência ou contratualização de competências da administração central para a administração local;\n\nc) Assunção de despesas com pessoal que decorram dos respetivos processos de dissolução e da internalização das atividades pelo município.\n\n> Revogado pelo/a Artigo 299.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 255.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 165.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  }
+ }
+}

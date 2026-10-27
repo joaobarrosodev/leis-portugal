@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:658598:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-944386276",
+ "dre_path": "/dr/detalhe/decreto-lei/259-1997-658598",
+ "source_lastmod": "2025-11-04",
+ "versions": [
+  {
+   "date": "1997-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944179027",
+    "944179028",
+    "944179029",
+    "944179030",
+    "944179031",
+    "944179032",
+    "944179033",
+    "944179034",
+    "944179035",
+    "944179036"
+   ]
+  },
+  {
+   "date": "1997-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:437847:por",
+     "title": "Declaração de Rectificação n.º 17-E/97",
+     "published": "1997-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/17-e-1997-437847"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 4.º"
+   ],
+   "fragments": [
+    "944179027",
+    "944179028",
+    "944179029",
+    "944179030",
+    "944179040",
+    "944179032",
+    "944179033",
+    "944179034",
+    "944179035",
+    "944179036",
+    "944179037"
+   ]
+  }
+ ],
+ "fragments": {
+  "944179027": {
+   "fragment_id": "944386277",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 259/97\n\nde 30 de Setembro\n\nOs distritos de Bragança, Castelo Branco, Guarda e Vila Real foram atingidos, entre 5 de Dezembro de 1996 e 7 de Janeiro de 1997, por severas condições climatéricas, com temporais e quedas de neve de excepcional intensidade, provocando danos na actividade económica, designadamente no comércio e indústria.\n\nDe acordo com o disposto na alínea c) do n.º 2 da Resolução de Conselho de Ministros n.º 74/97, de 13 de Maio, os danos sofridos devem ser minoradas através do acesso a uma linha de crédito bonificado, no valor global de 300000000$00.\n\nTorna-se, pois, necessário concretizar esta medida especial de apoio, definindo as regras de acesso ao referido crédito.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "944179028": {
+   "fragment_id": "944386278",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criada uma linha de crédito especial, até ao montante global máximo de 300000000$00, com o objectivo de minimizar os danos sofridos na actividade comercial e industrial, por efeito directo das condições climáticas anormais verificadas entre 5 de Dezembro de 1996 e 7 de Janeiro de 1997."
+  },
+  "944179029": {
+   "fragment_id": "944386279",
+   "type": 11,
+   "heading": "Artigo 2.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acesso\n\n1 - Têm acesso à linha de crédito referida no artigo anterior as entidades que tenham sofrido danos na sua actividade comercial ou industrial causados pelas intempéries ocorridas entre 5 de Dezembro de 1996 e 7 de Janeiro de 1997 nos distritos de Bragança, Castelo Branco, Guarda e Vila Real.\n\n2 - A possibilidade de acesso a esta linha de crédito deve ser comprovada pelo Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI)."
+  },
+  "944179030": {
+   "fragment_id": "944386280",
+   "type": 11,
+   "heading": "Artigo 3.º — Montante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Montante\n\n1 - O crédito é concedido pelas instituições autorizadas a conceder crédito sob a forma de empréstimo reembolsável.\n\n2 - Para efeitos do controlo do limite estabelecido no número anterior, as instituições autorizadas a conceder crédito devem de imediato comunicar ao IAPMEI a autorização de cada empréstimo, bem como o respectivo montante."
+  },
+  "944179031": {
+   "fragment_id": "944386281",
+   "type": 11,
+   "heading": "Artigo 4.º — Prazo de apresentação das propostas e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prazo de apresentação das propostas e decisão\n\n1 - Os pedidos de empréstimo deverão ser apresentados às instituições referidas no artigo anterior até 30 de Setembro de 1997.\n\n2 - O prazo para contratação dos empréstimos termina em 30 de Novembro de 1997."
+  },
+  "944179032": {
+   "fragment_id": "944386282",
+   "type": 11,
+   "heading": "Artigo 5.º — Utilização, prazo e condições financeiras dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Utilização, prazo e condições financeiras dos empréstimos\n\n1 - Os empréstimos beneficiam de um período de diferimento até dois anos e o seu prazo total não pode exceder seis anos, devendo ser estabelecido em função de situação específica.\n\n2 - A utilização dos empréstimos é realizada no prazo máximo de seis meses após a data do contrato.\n\n3 - Os empréstimos vencem juros, contabilizados dia a dia sobre o capital em dívida, à taxa contratual.\n\n4 - Os reembolsos e o pagamento de juros são efectuados em prestações trimestrais iguais e sucessivas."
+  },
+  "944179033": {
+   "fragment_id": "944386283",
+   "type": 11,
+   "heading": "Artigo 6.º — Bonificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Bonificações\n\n1 - Sobre o montante de juros devidos é concedida uma bonificação, a suportar pelo IAPMEI, de 40% da taxa de referência para o cálculo das bonificações (TRCB), criada pelo Decreto-Lei n.º 359/89, de 18 de Outubro.\n\n2 - A bonificação não pode exceder 5 pontos percentuais.\n\n3 - A bonificação de juros é processada apenas enquanto se verificar o cumprimento pontual de todas as obrigações contratualmente assumidas pelos mutuários.\n\n4 - O incumprimento pelos mutuários de qualquer das obrigações referidas no número anterior deverá ser imediatamente comunicado ao IAPMEI pelas instituições financiadoras e acarreta a suspensão das bonificações, nos termos legalmente estabelecidos.\n\n5 - A suspensão das bonificações implica o pagamento pelos mutuários de juros contabilizados à taxa contratual desde a data do último vencimento anterior à data do incumprimento."
+  },
+  "944179034": {
+   "fragment_id": "944386284",
+   "type": 11,
+   "heading": "Artigo 7.º — Reembolso às instituições de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reembolso às instituições de crédito\n\nO pagamento das bonificações previstas neste diploma será efectuado, de acordo com as instruções que forem dirigidas às instituições de crédito, pelo IAPMEI."
+  },
+  "944179035": {
+   "fragment_id": "944386285",
+   "type": 11,
+   "heading": "Artigo 8.º — Outras condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Outras condições\n\nO IAPMEI adoptará as normas técnicas e financeiras necessárias à aplicação do presente diploma, designadamente no que se refere à afectação, por distritos, do montante global de crédito disponível."
+  },
+  "944179036": {
+   "fragment_id": "944386286",
+   "type": 11,
+   "heading": "Artigo 9.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Financiamento\n\n1 - A cobertura dos encargos resultantes da bonificação da taxa de juro dos empréstimos é suportada pelo IAPMEI.\n\n2 - Pelos serviços prestados no âmbito do presente diploma o IAPMEI recebe uma compensação, a definir por portaria conjunta dos Ministros das Finanças e da Economia."
+  },
+  "944179040": {
+   "fragment_id": "944386281",
+   "type": 11,
+   "heading": "Artigo 4.º — Prazo de apresentação das propostas e decisão",
+   "in_force_from": "1997-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 17-E/97 - Diário da República n.º 253/1997, 3º Suplemento, Série I-A de 1997-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-e-1997-437847), em vigor a partir de 1997-10-31"
+   ],
+   "markdown": "###### Artigo 4.º — Prazo de apresentação das propostas e decisão\n\n1 - Os pedidos de empréstimos deverão ser apresentados às instituições referidas no artigo anterior até 30 de Novembro de 1997.\n\n2 - O prazo para contratação dos empréstimos termina em 15 de Dezembro de 1997.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 17-E/97 - Diário da República n.º 253/1997, 3º Suplemento, Série I-A de 1997-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-e-1997-437847), em vigor a partir de 1997-10-31"
+  },
+  "944179037": {
+   "fragment_id": "944386287",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - Augusto Carlos Serra Ventura Mateus.\n\nPromulgado em 15 de Setembro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 18 de Setembro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

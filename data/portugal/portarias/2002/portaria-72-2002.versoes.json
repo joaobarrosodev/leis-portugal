@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:234942:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-115362977",
+ "dre_path": "/dr/detalhe/portaria/72-2002-234942",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-01-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115348626"
+   ]
+  },
+  {
+   "date": "2018-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115360039:por",
+     "title": "Portaria n.º 143/2018",
+     "published": "2018-05-21",
+     "dre_path": "/dr/detalhe/portaria/143-2018-115360039"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "115348626",
+    "115348627",
+    "115348633",
+    "115348644",
+    "115348635",
+    "115348636",
+    "115348637",
+    "115348638",
+    "115348639",
+    "115348640",
+    "115348641",
+    "115348642",
+    "115348643"
+   ]
+  }
+ ],
+ "fragments": {
+  "115348626": {
+   "fragment_id": "115362978",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 72/2002\n\nde 19 de Janeiro\n\nAo abrigo do disposto no artigo 3.º da Lei n.º 78/2001, de 13 de Julho, e no n.º 2 do artigo 7.º do Decreto-Lei n.º 329/2001, de 20 de Dezembro:\n\nManda o Governo, pelo Ministro da Justiça, o seguinte:\n\n1.º É instalado o Julgado de Paz de Oliveira do Bairro, que entra em funcionamento em 22 de Janeiro de 2002."
+  },
+  "115348627": {
+   "fragment_id": "115362979",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Justiça, Diogo Campos Barradas de Lacerda Machado, em 8 de Janeiro de 2002."
+  },
+  "115348633": {
+   "fragment_id": "115362986",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nREGULAMENTO INTERNO DO JULGADO DE PAZ DE OLIVEIRA DO BAIRRO"
+  },
+  "115348644": {
+   "fragment_id": "115362987",
+   "type": 11,
+   "heading": "Artigo 1.º — Sede e horários",
+   "in_force_from": "2018-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/143-2018-115360039), em vigor a partir de 2018-06-01"
+   ],
+   "markdown": "###### Artigo 1.º — Sede e horários\n\n1 - O Julgado de Paz do Agrupamento de Concelhos de Oliveira do Bairro, Águeda, Anadia e Mealhada tem a sua sede na Rua do Foral, 20, 3.º, Oliveira do Bairro.\n\n2 - O período de funcionamento do Julgado de Paz é das 9 horas e 30 minutos às 12 horas e 30 minutos e das 13 horas e 30 minutos às 17 horas e 30 minutos.\n\n3 - O horário de atendimento do Julgado de Paz é das 10 horas às 12 horas e 30 minutos e das 13 horas e 30 minutos às 17 horas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 143/2018 - Diário da República n.º 97/2018, Série I de 2018-05-21](https://diariodarepublica.pt/dr/detalhe/portaria/143-2018-115360039), em vigor a partir de 2018-06-01"
+  },
+  "115348635": {
+   "fragment_id": "115362988",
+   "type": 11,
+   "heading": "Artigo 2.º — Coordenação do Julgado de Paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Coordenação do Julgado de Paz\n\n1 - A coordenação, representação e gestão do Julgado de Paz compete ao juiz de paz que, de entre os que exerçam aí funções, tenha obtido a classificação mais elevada no respectivo concurso de recrutamento e selecção.\n\n2 - Nas ausências e impedimentos do juiz de paz-coordenador, este será substituído pelo que, de entre os que exerçam funções no Julgado de Paz, tenha obtido melhor classificação no concurso de recrutamento e selecção."
+  },
+  "115348636": {
+   "fragment_id": "115362989",
+   "type": 11,
+   "heading": "Artigo 3.º — Secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Secção\n\nO Julgado de Paz dispõe de uma secção dirigida pelo juiz a quem competir a respectiva coordenação nos termos do artigo anterior."
+  },
+  "115348637": {
+   "fragment_id": "115362990",
+   "type": 11,
+   "heading": "Artigo 4.º — Distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Distribuição\n\nOs processos são distribuídos pelos juízes de paz de forma a garantir a repartição, com igualdade, do serviço do Julgado de Paz."
+  },
+  "115348638": {
+   "fragment_id": "115362991",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviço de Mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviço de Mediação\n\n1 - O Serviço de Mediação é assegurado por mediadores, aos quais compete, designadamente, realizar a pré-mediação quando solicitada, informar as partes acerca da escolha do mediador, facultar aos interessados o regulamento interno de serviço de mediação e demais legislação conexa.\n\n2 - Na falta de indicação das partes, escolha do mediador ou mediadores que intervêm na mediação é efectuada de forma a garantir a igualdade de repartição do Serviço de Mediação."
+  },
+  "115348639": {
+   "fragment_id": "115362992",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência da Direcção-Geral da Administração Extrajudicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência da Direcção-Geral da Administração Extrajudicial\n\nÀ Direcção-Geral da Administração Extrajudicial compete:\n\na) Elaborar, mensalmente, as escalas de turno dos mediadores e zelar pelo respectivo cumprimento;\n\nb) Proceder ao pagamento da remuneração dos juízes de paz;\n\nc) Proceder ao pagamento das mediações efectuadas;\n\nd) Fixar o horário de pessoal do Serviço de Atendimento e do Serviço de Apoio Administrativo e zelar pela respectiva observância."
+  },
+  "115348640": {
+   "fragment_id": "115362993",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviço de Atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviço de Atendimento\n\n1 - O Serviço de Atendimento é assegurado, preferencialmente, por licenciados em Direito ou por solicitadores.\n\n2 - A coordenação do Serviço de Atendimento é assegurada por quem para o efeito vier a ser designado pelo juiz de paz-coordenador."
+  },
+  "115348641": {
+   "fragment_id": "115362994",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências\n\nAs competências do Serviço de Mediação e do Serviço de Atendimento são as previstas nos artigos 8.º e 9.º do Decreto-Lei n.º 329/2001, de 20 de Dezembro."
+  },
+  "115348642": {
+   "fragment_id": "115362995",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviço de Apoio Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Serviço de Apoio Administrativo\n\n1 - Para além das competências previstas no artigo 10.º do Decreto-Lei n.º 329/2001, de 20 de Dezembro, compete-lhe designadamente:\n\na) Proceder à distribuição de processos pelos juízes de paz;\n\nb) Receber e expedir correspondência;\n\nc) Proceder às citações e notificações;\n\nd) Manter organizado o arquivo de documentos;\n\ne) Manter organizado o inventário;\n\nf) Manter organizado o registo contabilístico das mediações efectuadas, por mediador;\n\ng) Manter actualizado o registo de assiduidade dos funcionários do Serviço de Atendimento e do Serviço de Apoio Administrativo;\n\nh) Apoiar a actividade desenvolvida pelo Julgado de Paz.\n\n2 - A coordenação do Serviço de Apoio Administrativo é assegurada por quem para o efeito vier a ser designado pelo juiz de paz-coordenador."
+  },
+  "115348643": {
+   "fragment_id": "115362996",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposição final\n\nO Julgado de Paz de Oliveira do Bairro rege-se pelas normas constantes deste regulamento e pelo protocolo celebrado entre o Ministério da Justiça e a Câmara Municipal de Oliveira do Bairro em 27 de Novembro de 2001."
+  }
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:128726981:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-128761345",
+ "dre_path": "/dr/detalhe/portaria/30-2020-128726981",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-01-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "128764228",
+    "128764229",
+    "128764230",
+    "128764231",
+    "128764232"
+   ]
+  },
+  {
+   "date": "2021-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176075693:por",
+     "title": "Portaria n.º 307/2021",
+     "published": "2021-12-17",
+     "dre_path": "/dr/detalhe/portaria/307-2021-176075693"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "128764228",
+    "176126182",
+    "176126183",
+    "176126184",
+    "176126185",
+    "176126186"
+   ]
+  }
+ ],
+ "fragments": {
+  "128764228": {
+   "fragment_id": "128761346",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 30/2020\n\nde 31 de janeiro\n\nSumário: Estabelece a idade normal de acesso à pensão de velhice em 2021.\n\nO Decreto-Lei n.º 187/2007, de 10 de outubro, na sua redação atual, estabelece no n.º 3 do artigo 20.º que a idade normal de acesso à pensão de velhice após 2014 varia em função da esperança média de vida aos 65 anos de idade verificada entre o segundo e terceiro ano anteriores ao início da pensão, de acordo com a fórmula nele prevista.\n\nA idade normal de acesso à pensão deve ser publicitada em portaria do membro do Governo responsável pela área da solidariedade e segurança social, no segundo ano imediatamente anterior ao ano a que se reporta, em conformidade com o disposto no n.º 9 do artigo 20.º do referido decreto-lei.\n\nPor outro lado, o fator de sustentabilidade previsto no artigo 35.º do citado decreto-lei, elemento do cálculo das pensões de velhice do regime geral de segurança social, tem em conta a evolução da esperança média de vida aos 65 anos entre o ano 2000 e o ano anterior ao do início da pensão.\n\nTendo sido apurado e publicitado pelo Instituto Nacional de Estatística o indicador da esperança média de vida aos 65 anos de idade relativo ao ano de 2019, está o Governo em condições de determinar o fator de sustentabilidade a vigorar durante o ano de 2020, bem como a idade normal de acesso à pensão de velhice a vigorar em 2021.\n\nAssim, considerando que o indicador da esperança média de vida aos 65 anos verificado no triénio 1998-2000 foi de 16,63 anos e no triénio 2017-2019 se fixou nos 19,61 anos, o fator de sustentabilidade aplicável às pensões de velhice iniciadas em 2020 é de 0,8480.\n\nPor último, tendo em conta os efeitos da evolução da esperança média de vida aos 65 anos verificada entre 2018 e 2019 na aplicação da fórmula prevista no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, a idade normal de acesso à pensão de velhice do regime geral de segurança social em 2021 é 66 anos e 6 meses.\n\nAssim:\n\nNos termos do n.º 9 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelos Decretos-Leis n.os 167-E/2013, de 31 de dezembro, 8/2015, de 14 de janeiro, 10/2016, de 8 de março, 126-B/2017, de 6 de outubro, 33/2018, de 15 de maio, 73/2018, de 17 de setembro, 119/2018, de 27 de dezembro, e 79/2019, de 14 de julho, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "128764229": {
+   "fragment_id": "128761347",
+   "type": 11,
+   "heading": "Artigo 1.º — Idade normal de acesso à pensão de velhice em 2021",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Idade normal de acesso à pensão de velhice em 2021\n\nA idade normal de acesso à pensão de velhice do regime geral de segurança social em 2021, nos termos do disposto no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, é 66 anos e 6 meses."
+  },
+  "128764230": {
+   "fragment_id": "128761348",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de sustentabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fator de sustentabilidade\n\nO fator de sustentabilidade a aplicar ao montante estatutário das pensões de velhice do regime geral de segurança social, nos termos do disposto no artigo 35.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, é de 0,8480."
+  },
+  "128764231": {
+   "fragment_id": "128761349",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 25/2018, de 18 de janeiro, e o artigo 2.º da Portaria n.º 50/2019, de 8 de fevereiro."
+  },
+  "128764232": {
+   "fragment_id": "128761350",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir de 1 de janeiro de 2020."
+  },
+  "176126182": {
+   "fragment_id": "128761347",
+   "type": 11,
+   "heading": "Artigo 1.º — Idade normal de acesso à pensão de velhice em 2021",
+   "in_force_from": "2021-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Idade normal de acesso à pensão de velhice em 2021\n\nA idade normal de acesso à pensão de velhice do regime geral de segurança social em 2021, nos termos do disposto no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, é 66 anos e 6 meses.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+  },
+  "176126183": {
+   "fragment_id": "128761348",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de sustentabilidade",
+   "in_force_from": "2021-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01",
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 53/2021 - Diário da República n.º 48/2021, Série I de 2021-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/53-2021-159174081), produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Fator de sustentabilidade\n\nO fator de sustentabilidade a aplicar ao montante estatutário das pensões de velhice do regime geral de segurança social, nos termos do disposto no artigo 35.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, é de 0,8480.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 53/2021 - Diário da República n.º 48/2021, Série I de 2021-03-10](https://diariodarepublica.pt/dr/detalhe/portaria/53-2021-159174081), produz efeitos a partir de 2021-01-01"
+  },
+  "176126184": {
+   "fragment_id": "128761349",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": "2021-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 25/2018, de 18 de janeiro, e o artigo 2.º da Portaria n.º 50/2019, de 8 de fevereiro.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+  },
+  "176126185": {
+   "fragment_id": "128761350",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": "2021-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir de 1 de janeiro de 2020.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+  },
+  "176126186": {
+   "fragment_id": "128761351",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 23 de dezembro de 2019.\n\n112964467\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+  }
+ }
+}

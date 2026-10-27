@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:693390:por
+title: Decreto n.º 45185
+short_title: null
+summary: Autoriza a Junta Autónoma do Porto de Aveiro a celebrar contrato para a execução das obras de adaptação de um troço
+  da antiga estrada nacional n.º 109-7 a um arruamento do porto bacalhoeiro de Aveiro
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Comunicações - Junta Central de Portos
+proposing_entity: null
+official_number: '45185'
+official_date: null
+publication_date: '1963-08-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 187/1963, Série I de 1963-08-09
+  number: '187'
+  series: I
+  supplement: null
+  pages: 1072 - 1072
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/08/18700/10721072.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '693390'
+  dre_path: /dr/detalhe/decreto/45185-1963-693390
+  internal: pt:dre:693390:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45185-1963-693390
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45185-1963-693390
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:36:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e263ec9ed27fdfcf041a2082800be96870ad1b16b99ad03271901c31fb8261db
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:36:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:418261:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:36:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45185
+
+Considerando que foram adjudicadas a Serafim Pinto Guimarães Júnior, empreiteiro de obras públicas, residente em Souto, Feira, as obras de adaptação de um troço da antiga estrada nacional n.º 109-7 a um arruamento do porto bacalhoeiro de Aveiro;
+
+Considerando que para a execução de tais obras, como se verifica do respectivo caderno de encargos, está fixado o prazo de 200 dias, que abrange parte dos anos económicos de 1963 e 1964;
+
+Tendo em vista o § único do artigo 4.º do [Decreto-Lei n.º 27563](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27563-1937-418261), de 13 de Março de 1937;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte.
+
+Artigo 1.º É autorizada a Junta Autónoma do Porto de Aveiro a celebrar contrato com Serafim Pinto Guimarães Júnior para a execução das obras de adaptação de um troço da antiga estrada nacional n.º 109-7 a um arruamento do porto bacalhoeiro de Aveiro, pela importância de 326082$60, acrescida de 73917$40 para ocorrer a possíveis aumentos das quantidades de trabalho constantes do projecto, em virtude de, nos termos do caderno de encargos, toda a empreitada ser liquidada pelas quantidades de trabalho efectivamente executadas, excepto o indicado no capítulo I e seus artigos do mapa de medição, que é pago por preço global.
+
+Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Junta Autónoma do Porto de Aveiro despender com pagamentos relativos às obras executadas, por virtude do contrato, mais de 280000$00 no corrente ano e 120000$00, ou o que se apurar como saldo, no ano de 1964.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 9 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

@@ -1,0 +1,842 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012R0389:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0389-20230213",
+ "dre_path": null,
+ "source_lastmod": "2023-02-13",
+ "versions": [
+  {
+   "date": "2012-05-08",
+   "future": false,
+   "celex": "32012R0389",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1513fb311581d5af",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "f3fea0357f149a45",
+    "d98801bcea2ad86b",
+    "2284311dd9d37a7e",
+    "f8859aef717fcf52",
+    "b7ab2d5499eb47da",
+    "8167202aec26157c",
+    "e6cfaff17f2ddf4b",
+    "f0f8c960bfdbce9b",
+    "6236c0beb0b96f58",
+    "cd798f35f02e219c",
+    "5bfc75318947768a",
+    "9d1dd1f65a351791",
+    "84a690793e0dd803",
+    "c3502440ebc1043b",
+    "8aa1c1a51bf5aab7",
+    "d1e4f7c74c3a68f1",
+    "1e7a0903d2eed348",
+    "463ffb42626ad1e2",
+    "bf47dc745ba43084",
+    "78a9a1225e0cc280",
+    "c3cac45360550ac6",
+    "d026e06a14d7f58b",
+    "1ecfc79da3f1ac7f",
+    "0eda459c2fbba6d7",
+    "de332e4886d6089d",
+    "280224182f4610a4",
+    "6f6e0fa2289e3b6a",
+    "8ea010b84acdad91",
+    "40ed6b62e188ac6f",
+    "98ecba8f86d5a060",
+    "2e92ffa314f9abd8",
+    "57b062ea939c6ff0",
+    "01176078106dce77",
+    "3e162cf4bf9bda5f",
+    "3561b6f3246873d2",
+    "d447f3a294cc86cb",
+    "d62a2d34ffae1ce2",
+    "712a3e7096917027",
+    "60ac03484f6e17b7",
+    "3f4fec3af1ca527e",
+    "2e5861385d223f5b",
+    "b76d202a844f758e",
+    "90ceb0858da80f7b",
+    "ad3c47d30c3d3381",
+    "939e2714de0fe6e1",
+    "781b6d47c1b3ad3a",
+    "8a1f5e78c8da4e9b",
+    "445022b86433fa12",
+    "4f4ff9c49d769f0b",
+    "6de5ebf823827adc"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02012R0389-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0517:por",
+     "title": "REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013R0517"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Autoridades competentes",
+    "Altera Artigo 14.º — Pedido de notificação de decisões e medidas administrativas",
+    "Altera Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos fiscais",
+    "Altera Artigo 39.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO"
+   ],
+   "fragments": [
+    "0e2efe42ce6aa234",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "f3fea0357f149a45",
+    "3c5890677d5ab992",
+    "0f29204b4a298fab",
+    "f8859aef717fcf52",
+    "b7ab2d5499eb47da",
+    "8167202aec26157c",
+    "e6cfaff17f2ddf4b",
+    "f0f8c960bfdbce9b",
+    "6236c0beb0b96f58",
+    "cd798f35f02e219c",
+    "5bfc75318947768a",
+    "9d1dd1f65a351791",
+    "84a690793e0dd803",
+    "c3502440ebc1043b",
+    "8aa1c1a51bf5aab7",
+    "9e131fdc64202128",
+    "1e7a0903d2eed348",
+    "463ffb42626ad1e2",
+    "bf47dc745ba43084",
+    "78a9a1225e0cc280",
+    "c3cac45360550ac6",
+    "d026e06a14d7f58b",
+    "1ecfc79da3f1ac7f",
+    "0eda459c2fbba6d7",
+    "fde94322a40b93a6",
+    "280224182f4610a4",
+    "6f6e0fa2289e3b6a",
+    "8ea010b84acdad91",
+    "40ed6b62e188ac6f",
+    "98ecba8f86d5a060",
+    "2e92ffa314f9abd8",
+    "57b062ea939c6ff0",
+    "01176078106dce77",
+    "3e162cf4bf9bda5f",
+    "3561b6f3246873d2",
+    "d447f3a294cc86cb",
+    "d62a2d34ffae1ce2",
+    "712a3e7096917027",
+    "60ac03484f6e17b7",
+    "3f4fec3af1ca527e",
+    "2e5861385d223f5b",
+    "b76d202a844f758e",
+    "90ceb0858da80f7b",
+    "ad3c47d30c3d3381",
+    "939e2714de0fe6e1",
+    "781b6d47c1b3ad3a",
+    "8a1f5e78c8da4e9b",
+    "445022b86433fa12",
+    "e5a2155bf3ebaf73",
+    "8603950425455bb7",
+    "d079c1311b2f3cad"
+   ]
+  },
+  {
+   "date": "2023-02-13",
+   "future": false,
+   "celex": "02012R0389-20230213",
+   "acts": [
+    {
+     "id": "eu:celex:32020R0261:por",
+     "title": "REGULAMENTO (UE) 2020/261 DO CONSELHO de 19 de dezembro de 2019",
+     "published": null,
+     "celex": "32020R0261"
+    },
+    {
+     "id": "eu:celex:32021R0774:por",
+     "title": "REGULAMENTO (UE) 2021/774 DO CONSELHO de 10 de maio de 2021",
+     "published": null,
+     "celex": "32021R0774"
+    },
+    {
+     "id": "eu:celex:32023R0246:por",
+     "title": "REGULAMENTO (UE) 2023/246 DO CONSELHO de 30 de janeiro de 2023",
+     "published": null,
+     "celex": "32023R0246"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 14.º — Pedido de notificação de decisões e medidas administrativas",
+    "Altera Artigo 15.º — Troca obrigatória de informações",
+    "Altera Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos fiscais",
+    "Altera Artigo 20.º — Acesso à informação e retificação dos dados",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "5c2a1e88fe979a86",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "f3fea0357f149a45",
+    "1314edbf9f60a8e0",
+    "0f29204b4a298fab",
+    "f8859aef717fcf52",
+    "b7ab2d5499eb47da",
+    "d17d1408b3b81c15",
+    "e6cfaff17f2ddf4b",
+    "f0f8c960bfdbce9b",
+    "6236c0beb0b96f58",
+    "cd798f35f02e219c",
+    "4268ea286e1603ff",
+    "9d1dd1f65a351791",
+    "84a690793e0dd803",
+    "c3502440ebc1043b",
+    "8aa1c1a51bf5aab7",
+    "4c6f049b3258225b",
+    "1e7a0903d2eed348",
+    "463ffb42626ad1e2",
+    "2736a4610b7084f1",
+    "7fbd46d15dcf8f8b",
+    "c3cac45360550ac6",
+    "d026e06a14d7f58b",
+    "1ecfc79da3f1ac7f",
+    "0eda459c2fbba6d7",
+    "6ea9f04becc406f5",
+    "5aa6a740be63260f",
+    "6f6e0fa2289e3b6a",
+    "8ea010b84acdad91",
+    "40ed6b62e188ac6f",
+    "98ecba8f86d5a060",
+    "2e92ffa314f9abd8",
+    "57b062ea939c6ff0",
+    "30fbfe4d3f9b2ab8",
+    "3e162cf4bf9bda5f",
+    "3561b6f3246873d2",
+    "98c5212dff4a09b0",
+    "d62a2d34ffae1ce2",
+    "712a3e7096917027",
+    "3af22e531d5a9529",
+    "3f4fec3af1ca527e",
+    "2e5861385d223f5b",
+    "b76d202a844f758e",
+    "90ceb0858da80f7b",
+    "7529459f117e8504",
+    "939e2714de0fe6e1",
+    "781b6d47c1b3ad3a",
+    "8a1f5e78c8da4e9b",
+    "445022b86433fa12",
+    "e5a2155bf3ebaf73",
+    "8603950425455bb7",
+    "59b41e98e29a7d6b"
+   ]
+  }
+ ],
+ "fragments": {
+  "1513fb311581d5af": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de maio de 2012\n\nrelativo à cooperação administrativa no domínio dos impostos especiais de consumo e que revoga o Regulamento (CE) n.º 2073/2004\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 113.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr1-L_2012121PT.01000101-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr2-L_2012121PT.01000101-E0002),\n\nDeliberando de acordo com um processo legislativo especial,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 2073/2004 do Conselho, de 16 de novembro de 2004, relativo à cooperação administrativa no domínio dos impostos especiais de consumo [([^3])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr3-L_2012121PT.01000101-E0003) prevê um sistema comum segundo o qual, a fim de garantir uma aplicação correta da legislação em matéria de impostos especiais de consumo e, por outro lado, combater a evasão aos impostos especiais de consumo e as consequentes distorções no mercado interno, os Estados-Membros prestam assistência mútua e cooperam com a Comissão. Tendo em conta a experiência adquirida e os desenvolvimentos recentes, é necessário introduzir algumas alterações no supracitado regulamento. Atendendo ao número de alterações necessárias, esse regulamento deverá ser substituído por motivos de clareza.\n\n(2) A realização do mercado interno continua a exigir um sistema de cooperação administrativa no domínio dos impostos especiais de consumo, que deverá abranger todos os aspetos relativos à aplicação da legislação em matéria de produtos sujeitos a impostos especiais de consumo a que se refere o artigo 1.º da Diretiva 2008/118/CE do Conselho, de 16 de dezembro de 2008, relativa ao regime geral dos impostos especiais de consumo [([^4])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr4-L_2012121PT.01000101-E0004).\n\n(3) Por motivos de eficácia, rapidez e custo, é essencial melhorar a utilização dos meios eletrónicos na troca de informações. Tendo em conta o caráter repetitivo de certos pedidos e a diversidade linguística na União, é importante garantir uma utilização mais ampla de formatos uniformes para a troca de informações, que garantam um tratamento mais rápido dos pedidos de informação. A melhor forma de cumprir estes requisitos consiste numa utilização mais sistemática do sistema informatizado previsto na Decisão n.º 1152/2003/CE do Parlamento Europeu e do Conselho, de 16 de junho de 2003, relativa à informatização dos movimentos e dos controlos dos produtos sujeitos a impostos especiais de consumo [([^5])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr5-L_2012121PT.01000101-E0005). Esse sistema oferece agora mais possibilidades do que na data da entrada em vigor do Regulamento (CE) n.º 2073/2004 e continuará a ser desenvolvido. Os Estados-Membros deverão, portanto, recorrer a esse sistema sempre que possível.\n\n(4) A troca de informações em matéria de impostos especiais de consumo é em grande medida necessária para estabelecer a situação real de determinadas pessoas no que diz respeito aos impostos especiais de consumo, muito embora os Estados-Membros não tenham liberdade para efetuar investigações aleatórias, nem para solicitar informações com pouca probabilidade de virem a ser pertinentes para a situação de uma dada pessoa ou de um determinado grupo ou categoria de pessoas no que diz respeito aos impostos especiais de consumo.\n\n(5) Para garantir uma coordenação adequada dos fluxos de informação, é necessário manter as disposições do Regulamento (CE) n.º 2073/2004 sobre a criação de um ponto de contacto único em cada Estado-Membro. Uma vez que, por razões de eficiência, poderão ser necessários mais contactos diretos entre as autoridades e os funcionários, deverão também ser mantidas as disposições em matéria de designação dos funcionários competentes e de delegação.\n\n(6) Para que as informações necessárias sejam disponibilizadas em tempo útil, importa igualmente manter as disposições do Regulamento (CE) n.º 2073/2004 que exigem uma ação tão rápida quanto possível da autoridade requerida e, o mais tardar, dentro de um prazo determinado. No entanto, o prazo para transmissão de informações de que o Estado-Membro requerido já disponha deverá ser mais curto do que o prazo geral.\n\n(7) Para garantir um controlo eficaz dos procedimentos aplicáveis aos impostos especiais de consumo na circulação transfronteiras, é necessário continuar a prever a possibilidade de controlos simultâneos pelos Estados-Membros, bem como a presença de funcionários de um Estado-Membro no território de outro Estado-Membro no âmbito da cooperação administrativa.\n\n(8) As dificuldades relacionadas com a notificação transfronteiras de decisões e medidas administrativas deverão também continuar a ser tratadas através das disposições do Regulamento (CE) n.º 2073/2004 nesta matéria, que deverão ser mantidas.\n\n(9) A fim de combater eficazmente a fraude, deverão ser mantidas as disposições relativas à troca de informações sem pedido prévio. Para facilitar essa troca, importa especificar as categorias de informações a trocar obrigatoriamente.\n\n(10) Os Estados-Membros deverão continuar a ter a possibilidade de proceder à troca facultativa das informações necessárias à correta aplicação da legislação relativa aos impostos especiais de consumo, nos casos em que a informação em causa não esteja abrangida por nenhuma categoria de troca automática.\n\n(11) A informação de retorno é um meio adequado para assegurar uma melhoria contínua da qualidade das informações trocadas. Por conseguinte, deverá ser consagrado um enquadramento legal para a transmissão dessa informação de retorno.\n\n(12) A armazenagem eletrónica pelos Estados-Membros de certos dados específicos sobre autorizações de operadores económicos e entrepostos fiscais é indispensável para o bom funcionamento do sistema de impostos especiais de consumo e para o combate à fraude. Permite uma troca rápida desses dados entre Estados-Membros e um acesso automático às informações. Tal é possível mediante a utilização de informações já existentes nos sistemas informatizados nacionais sobre os impostos especiais de consumo, mediante o desenvolvimento de uma análise de risco que reforce as informações nacionais sobre os operadores económicos de produtos sujeitos a impostos especiais de consumo e a sua circulação dentro da União, e mediante a inclusão de mais informações sobre os sujeitos passivos e as respetivas transações. Atendendo a que os procedimentos de determinação ou cobrança dos impostos especiais de consumo, bem como os prazos de prescrição e outro tipo de prazos, diferem de um Estado-Membro para outro, é necessário, a fim de garantir a eficácia da assistência mútua na aplicação da legislação relativa aos impostos especiais de consumo em situações transfronteiras, prever um período mínimo durante o qual cada Estado-Membro deverá armazenar essas informações.\n\n(13) Para que as informações armazenadas nas bases de dados eletrónicas sejam fiáveis, deverão ser adotadas disposições que garantam a sua atualização a intervalos regulares.\n\n(14) Os operadores económicos deverão poder efetuar rapidamente as verificações necessárias à circulação de produtos sujeitos a impostos especiais de consumo. Deverão ter a possibilidade de obter confirmação eletrónica da validade dos números relativos ao imposto especial de consumo através de um registo central gerido pela Comissão e alimentado pelas informações contidas nas bases de dados nacionais.\n\n(15) As regras nacionais em matéria de sigilo bancário podem prejudicar a eficiência dos mecanismos previstos no presente regulamento. Consequentemente, os Estados-Membros não deverão poder recusar a transmissão de informações apenas com base nessas regras.\n\n(16) O presente regulamento não deverá afetar outras medidas adotadas a nível da União que contribuam para combater as irregularidades e a fraude em matéria de impostos especiais de consumo, devendo antes complementar essas medidas.\n\n(17) Por motivos de clareza, é conveniente confirmar no presente regulamento que, caso as informações ou os documentos sejam obtidos mediante autorização de uma autoridade judiciária ou a pedido desta, a comunicação das informações ou dos documentos à autoridade competente de outro Estado-Membro fica sujeita à autorização da autoridade judiciária se tal autorização for exigida pela legislação do Estado-Membro que comunica as informações.\n\n(18) A Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados [([^6])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr6-L_2012121PT.01000101-E0006) rege o tratamento dos dados pessoais pelos Estados-Membros ao abrigo do presente regulamento. O Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2000, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos da Comunidade e à livre circulação desses dados [([^7])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr7-L_2012121PT.01000101-E0007) rege o tratamento dos dados pessoais pela Comissão ao abrigo do presente regulamento.\n\n(19) As disposições sobre troca de informações com países terceiros têm contribuído para a correta aplicação da legislação relativa aos impostos especiais de consumo, devendo, portanto, ser mantidas. A Diretiva 95/46/CE estabelece os requisitos de comunicação que os Estados-Membros devem respeitar com os países terceiros.\n\n(20) Para garantir uma aplicação eficaz do presente regulamento, poderá ser necessário limitar o âmbito de determinados direitos e obrigações previstos na Diretiva 95/46/CE, mais concretamente dos direitos previstos nos artigo 10.º, no artigo 11.º, n.º 1, no artigo 12.º e no artigo 21.º, de modo a salvaguardar os interesses económicos ou financeiros importantes dos Estados-Membros, tendo em conta a potencial perda de receitas para os Estados-Membros e a importância crucial das informações abrangidas pelo presente regulamento para a eficácia do combate à fraude. Tendo em conta a necessidade de conservar elementos de prova em casos de suspeita de irregularidades ou fraude fiscal, bem como de evitar interferências na avaliação adequada do cumprimento da legislação relativa aos impostos especiais de consumo, pode ser necessário restringir as obrigações do responsável pelo tratamento de dados e os direitos da pessoa em causa em matéria de fornecimento de informações, acesso aos dados e publicidade de operações de tratamento de dados durante a troca de dados pessoais a título do presente regulamento. Os Estados-Membros deverão ser obrigados a introduzir tais limitações, na medida em que sejam necessárias e proporcionadas.\n\n(21) A fim de garantir condições uniformes de execução de certos artigos do presente regulamento e de descrever as principais categorias de dados que podem ser objeto de troca pelos Estados-Membros a título do mesmo, deverá ser conferida competência de execução à Comissão. Essa competência deverá ser exercida nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão [([^8])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr8-L_2012121PT.01000101-E0008).\n\n(22) Deverá ser utilizado o procedimento de exame para a adoção desses atos de execução, atendendo a que são atos de alcance geral na aceção do artigo 2.º, n.º 2, alínea a), do Regulamento (UE) n.º 182/2011.\n\n(23) É necessário controlar e avaliar a aplicação do presente regulamento. Deverão, por conseguinte, ser adotadas disposições para a recolha de estatísticas e outras informações pelos Estados-Membros e para a elaboração de relatórios periódicos pela Comissão.\n\n(24) Atendendo a que o objetivo do presente regulamento, a saber, a simplificação e o reforço da cooperação administrativa entre Estados-Membros, que exigem uma abordagem harmonizada, não pode ser suficientemente realizado unicamente pelos Estados-Membros e pode, devido à uniformidade e eficácia pretendidas, ser melhor alcançado a nível da União, esta pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aquele objetivo.\n\n(25) O presente regulamento respeita os direitos fundamentais e observa os princípios reconhecidos pela Carta dos Direitos Fundamentais da União Europeia e, em especial, o direito à proteção de dados pessoais (artigo 8.º). Tendo em conta os limites fixados pelo presente regulamento, o tratamento de tais dados efetuado no âmbito do mesmo não vai além do que é necessário e proporcionado para efeitos da proteção dos legítimos interesses fiscais dos Estados-Membros.\n\n(26) Por conseguinte, deverá ser revogado o Regulamento (CE) n.º 2073/2004.\n\n(27) Foi consultada a Autoridade Europeia para a Proteção de Dados que emitiu o seu parecer [([^9])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr9-L_2012121PT.01000101-E0009),\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "f3fea0357f149a45": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece as condições em que as autoridades competentes dos Estados-Membros responsáveis pela aplicação da legislação relativa aos impostos especiais de consumo devem cooperar entre si e com a Comissão para assegurar o cumprimento dessa legislação. Para esse efeito, define as regras e os procedimentos que permitem que as autoridades competentes dos Estados-Membros cooperem e troquem as informações necessárias, quer por via eletrónica, quer por outros meios, para garantir a correta aplicação da legislação relativa aos impostos especiais de consumo.\n\n2. O presente regulamento não prejudica a aplicação nos Estados-Membros das regras relativas ao auxílio judiciário mútuo em matéria penal.\n\n3. O presente regulamento não prejudica o cumprimento de obrigações que incumbam aos Estados-Membros quanto a uma cooperação administrativa resultante de outros instrumentos jurídicos, incluindo eventuais acordos bilaterais ou multilaterais."
+  },
+  "d98801bcea2ad86b": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Autoridade competente», a autoridade designada nos termos do artigo 3.º, n.º 1;\n\n2) «Autoridade requerente», o serviço central de ligação dos impostos especiais de consumo ou qualquer serviço de ligação ou funcionário competente de um Estado-Membro que solicite assistência em nome da autoridade competente;\n\n3) «Autoridade requerida», o serviço central de ligação dos impostos especiais de consumo de ou qualquer serviço de ligação ou funcionário competente de um Estado-Membro a quem seja dirigido um pedido de assistência em nome da autoridade competente;\n\n4) «Serviço dos impostos especiais de consumo», qualquer serviço em que possam ser cumpridas as formalidades estabelecidas pelas regras relativas aos impostos especiais de consumo;\n\n5) «Troca automática na sequência de um evento», a comunicação sistemática, e sem pedido prévio, de informações sobre um evento de interesse, de acordo com uma estrutura predefinida e à medida que essas informações vão ficando disponíveis, com exceção da troca de informações a que se refere o artigo 21.º da Diretiva 2008/118/CE;\n\n6) «Troca automática regular», a comunicação sistemática, sem pedido prévio, de informações, de acordo com uma estrutura predefinida, realizada a intervalos regulares previamente estabelecidos;\n\n7) «Troca espontânea», a comunicação, sem pedido prévio, de informações não abrangidas pelo artigo 21.º, pontos 5) e 6), da Diretiva 2008/118/CE;\n\n8) «Sistema informatizado», o sistema informatizado de acompanhamento e de controlo da circulação dos produtos sujeitos a impostos especiais de consumo previsto na Decisão n.º 1152/2003/CE do Parlamento Europeu e do Conselho, de 16 de junho de 2003, relativa à informatização dos movimentos e dos controlos dos produtos sujeitos a impostos especiais de consumo [([^10])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr10-L_2012121PT.01000101-E0010);\n\n9) «Pessoa», uma pessoa singular, uma pessoa coletiva, qualquer associação de pessoas à qual seja reconhecida, ao abrigo do direito da União ou do direito nacional, capacidade para praticar atos jurídicos, sem ter o estatuto jurídico de pessoa coletiva, ou qualquer outra estrutura jurídica, seja qual for a sua natureza ou forma, dotada ou não de personalidade jurídica;\n\n10) «Operador económico», qualquer pessoa que, no exercício da sua atividade profissional, esteja ligada a atividades abrangidas pela legislação relativa aos impostos especiais de consumo, independentemente de estar ou não autorizada para tal;\n\n11) «Meio eletrónico», a utilização de qualquer tipo de equipamento eletrónico que permita o tratamento (incluindo a transmissão e a compressão) e a armazenagem de dados e que inclua o sistema informatizado definido no ponto 8);\n\n12) «Número de imposto especial de consumo», o número de identificação atribuído pelos Estados-Membros para efeitos de impostos especiais de consumo aos registos dos operadores económicos e dos locais a que se refere o artigo 19.º, n.º 1, alíneas a) e b);\n\n13) «Circulação de produtos sujeitos a impostos especiais de consumo na União», a circulação entre dois ou mais Estados-Membros de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, na aceção do Capítulo IV da Diretiva 2008/118/CE, ou de produtos sujeitos a impostos especiais de consumo após a introdução no consumo, na aceção do Capítulo V, Secção 2, da Diretiva 2008/118/CE;\n\n14) «Inquérito administrativo», os controlos, verificações ou ações realizados pelas autoridades competentes em aplicação da legislação em matéria de impostos especiais de consumo no exercício da sua competência, com o objetivo de assegurar a correta aplicação daquela legislação;\n\n15) «Rede CCN/CSI», a plataforma comum baseada na Rede Comum de Comunicações (CCN) e na Interface Comum de Sistemas (CSI), desenvolvida pela União para assegurar todas as transmissões por via eletrónica entre as autoridades competentes nos domínios aduaneiro e fiscal;\n\n16) «Produtos sujeitos a impostos especiais de consumo», os produtos a que se refere o artigo 1.º, n.º 1, da Diretiva 2008/118/CE;\n\n17) «Documento de assistência mútua administrativa», o documento eletrónico utilizado para trocar informações a título dos artigos 8.º, 15.º ou 16.º e efetuar o acompanhamento nos termos dos artigos 8.º ou 16.º;\n\n18) «Documento de assistência mútua administrativa de substituição», o documento em papel utilizado para trocar informações a título dos artigos 8.º ou 15.º, caso o sistema informatizado não se encontre disponível;\n\n19) «Controlo simultâneo», o controlo coordenado da situação de um operador económico ou de pessoas a ele ligadas no que respeita à legislação relativa aos impostos especiais de consumo, organizado por dois ou mais Estados-Membros participantes com interesses comuns ou complementares."
+  },
+  "2284311dd9d37a7e": {
+   "fragment_id": "Artigo 3.º — Autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridades competentes\n\n1. Cada Estado-Membro designa a autoridade competente em cujo nome o presente regulamento deva ser aplicado. Logo que possível, comunica essa designação à Comissão, bem como qualquer alteração posterior da mesma.\n\n2. A Comissão deve disponibilizar uma lista completa das autoridades competentes e publicar essa informação no *Jornal Oficial da União Europeia.*"
+  },
+  "f8859aef717fcf52": {
+   "fragment_id": "Artigo 4.º — Serviços centrais de ligação dos impostos especiais de consumo e serviços de ligação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Serviços centrais de ligação dos impostos especiais de consumo e serviços de ligação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Serviços centrais de ligação dos impostos especiais de consumo e serviços de ligação\n\n1. A autoridade competente de cada Estado-Membro designa um serviço central de ligação dos impostos especiais de consumo, em que delega a principal responsabilidade pelos contactos com os outros Estados-Membros no domínio da cooperação administrativa em matéria de impostos especiais de consumo, e informa desse facto a Comissão e as autoridades dos outros Estados-Membros.\n\nPara efeitos do presente regulamento, o serviço central de ligação dos impostos especiais de consumo pode também ser designado responsável pelos contactos com a Comissão.\n\n2. A autoridade competente de cada Estado-Membro pode designar serviços de ligação com competências atribuídas de acordo com a legislação ou a política nacional, distintos do serviço central de ligação dos impostos especiais de consumo, para assegurar a troca direta de informações a título do presente regulamento.\n\nO serviço central de ligação é responsável pela atualização da lista desses serviços e pela sua disponibilização aos serviços centrais de ligação dos impostos especiais de consumo dos outros Estados-Membros interessados."
+  },
+  "b7ab2d5499eb47da": {
+   "fragment_id": "Artigo 5.º — Funcionários competentes",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Funcionários competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionários competentes\n\n1. A autoridade competente de cada Estado-Membro pode designar, nas condições estabelecidas pelo Estado-Membro, funcionários competentes para proceder à troca direta de informações a título do presente regulamento.\n\nA autoridade competente pode limitar o âmbito dessa designação.\n\nO serviço central de ligação é responsável pela atualização da lista desses funcionários e pela sua disponibilização aos serviços centrais de ligação dos impostos especiais de consumo dos outros Estados-Membros interessados.\n\n2. Os funcionários que procedam à troca de informações a título dos artigos 12.º e 13.º são considerados funcionários competentes para efeitos desses artigos, nas condições definidas pelas autoridades competentes."
+  },
+  "8167202aec26157c": {
+   "fragment_id": "Artigo 6.º — Obrigações do serviço central de ligação dos impostos especiais de consumo, dos serviços de ligação e dos funcionários competentes",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações do serviço central de ligação dos impostos especiais de consumo, dos serviços de ligação e dos funcionários competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações do serviço central de ligação dos impostos especiais de consumo, dos serviços de ligação e dos funcionários competentes\n\n1. O serviço central de ligação dos impostos especiais de consumo tem a responsabilidade principal pela troca de informações sobre a circulação entre Estados-Membros de produtos sujeitos a impostos especiais de consumo e, nomeadamente, a responsabilidade principal pelo seguinte:\n\na) Troca de informações a título do artigo 8.º;\n\nb) Transmissão das notificações de decisões e medidas administrativas solicitadas pelos Estados-Membros a título do artigo 14.º;\n\nc) Troca obrigatória de informações a título do artigo 15.º;\n\nd) Troca facultativa e espontânea de informações a título do artigo 16.º;\n\ne) Apresentação de informação de retorno sobre as ações de acompanhamento a título dos artigos 8.º, n.º 5, e 16.º, n.º 2;\n\nf) Troca de informações armazenadas nas bases de dados eletrónicas previstas no artigo 19.º;\n\ng) Disponibilização de dados estatísticos e de outras informações a título do artigo 34.º.\n\n2. Sempre que um serviço de ligação ou um funcionário competente envie ou receba um pedido de assistência ou uma resposta a um pedido de assistência, deve informar desse facto o serviço central de ligação dos impostos especiais de consumo do seu Estado-Membro nas condições definidas por este último.\n\n3. Sempre que um serviço de ligação ou um funcionário competente receba um pedido de assistência que exija uma ação fora da sua área territorial ou operacional, deve enviar sem demora esse pedido ao serviço central de ligação dos impostos especiais de consumo do seu Estado-Membro e ao funcionário competente do serviço de ligação responsável, informando do facto a autoridade requerente. Nesse caso, os prazos fixados no artigo 11.º começam a correr no dia seguinte ao do envio do pedido de assistência ao serviço central de ligação dos impostos especiais de consumo e ao funcionário competente do serviço de ligação responsável e, o mais tardar, uma semana a contar da data de receção do pedido a que se refere o primeiro período do presente número."
+  },
+  "e6cfaff17f2ddf4b": {
+   "fragment_id": "Artigo 7.º — Informações ou documentos obtidos mediante autorização da autoridade judiciária ou a pedido desta",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Informações ou documentos obtidos mediante autorização da autoridade judiciária ou a pedido desta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Informações ou documentos obtidos mediante autorização da autoridade judiciária ou a pedido desta\n\n1. A comunicação à autoridade competente de outro Estado-Membro de informações ou documentos obtidos por uma autoridade competente mediante autorização de uma autoridade judiciária ou a pedido desta fica sujeita à autorização prévia da autoridade judiciária se tal autorização for exigida pelo direito nacional.\n\n2. Se, no caso de um pedido de informações, a autoridade judiciária recusar essa autorização à autoridade requerida, esta última informa desse facto a autoridade requerente nos termos do artigo 25.º, n.º 5."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "6236c0beb0b96f58": {
+   "fragment_id": "COOPERAÇÃO A PEDIDO",
+   "type": "divisao",
+   "heading": "COOPERAÇÃO A PEDIDO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COOPERAÇÃO A PEDIDO"
+  },
+  "cd798f35f02e219c": {
+   "fragment_id": "Artigo 8.º — Obrigações gerais da autoridade requerida",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Obrigações gerais da autoridade requerida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações gerais da autoridade requerida\n\n1. A pedido da autoridade requerente, a autoridade requerida comunica as informações necessárias para assegurar a correta aplicação da legislação relativa aos impostos especiais de consumo, incluindo quaisquer informações relativas a um caso ou casos específicos, em especial no que diz respeito à circulação na União de produtos sujeitos a impostos especiais de consumo.\n\n2. Para efeitos da comunicação a que se refere o n.º 1, a autoridade requerida manda efetuar os inquéritos administrativos necessários à obtenção de tais informações.\n\n3. O pedido a que se refere o n.º 1 pode incluir um pedido fundamentado para a realização de um inquérito administrativo específico. Caso a autoridade requerida decida que o inquérito administrativo não é necessário, informa imediatamente a autoridade requerente das razões dessa decisão.\n\n4. A fim de obter as informações solicitadas ou levar a cabo o inquérito administrativo requerido, a autoridade requerida ou qualquer autoridade administrativa a que aquela se dirija deve proceder como se agisse por conta própria ou a pedido de outra autoridade do seu próprio Estado-Membro.\n\n5. A autoridade requerida pode solicitar à autoridade requerente a apresentação de um relatório sobre as medidas de acompanhamento tomadas pelo Estado-Membro requerente com base nas informações facultadas. Se for efetuado um pedido deste tipo, a autoridade requerente envia esse relatório o mais rapidamente possível, sem prejuízo das regras em matéria de proteção de dados e confidencialidade aplicáveis no respetivo Estado-Membro, e desde que tal não acarrete encargos desproporcionados."
+  },
+  "5bfc75318947768a": {
+   "fragment_id": "Artigo 9.º — Formulário do pedido e da resposta",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Formulário do pedido e da resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formulário do pedido e da resposta\n\n1. Os pedidos de informação e de inquérito administrativo a título do artigo 8.º e as respostas a esses pedidos são transmitidos por meio do documento de assistência mútua, sob reserva do n.º 4 do presente artigo.\n\nSe o sistema informatizado estiver indisponível, é utilizado o documento de assistência mútua administrativa de substituição em vez do documento de assistência mútua administrativa.\n\n2. A Comissão adota atos de execução a fim de determinar:\n\na) A estrutura e o conteúdo dos documentos de assistência mútua administrativa;\n\nb) As regras e os procedimentos aplicáveis à troca de documentos de assistência mútua administrativa;\n\nc) O modelo do formulário e o conteúdo do documento de assistência mútua administrativa de substituição;\n\nd) As regras e os procedimentos relativos à utilização do documento de assistência mútua administrativa de substituição.\n\nA Comissão pode também adotar atos de execução para determinar a estrutura e o conteúdo da informação de retorno a que se refere o artigo 8.º, n.º 5.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 35.º, n.º 2.\n\n3. Cada Estado-Membro determina as situações em que o sistema informatizado pode ser considerado indisponível.\n\n4. Nos casos em que a utilização do documento de assistência mútua administrativa não seja viável, a troca de mensagens pode ser efetuada, na sua totalidade ou em parte, por outros meios. Em tais casos, a mensagem deve ser acompanhada das razões que determinaram a inviabilidade da utilização do documento de assistência mútua administrativa."
+  },
+  "9d1dd1f65a351791": {
+   "fragment_id": "Artigo 10.º — Disponibilização de documentos",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disponibilização de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disponibilização de documentos\n\n1. Seja qual for o seu conteúdo, os documentos a disponibilizar a título do artigo 8.º devem ser anexados ao documento de assistência mútua administrativa a que se refere o artigo 9.º, n.º 1.\n\nTodavia, quando tal for impossível ou impraticável, os documentos podem ser transmitidos por via eletrónica ou por outro meio.\n\n2. A autoridade requerida só é obrigada a facultar os documentos originais quando estes forem necessários para o objetivo prosseguido pela autoridade requerente e tal não for contrário às disposições aplicáveis no Estado-Membro da autoridade requerida."
+  },
+  "84a690793e0dd803": {
+   "fragment_id": "Artigo 11.º — Prazos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prazos\n\n1. A autoridade requerida comunica as informações a que se refere o artigo 8.º o mais rapidamente possível e, o mais tardar, no prazo de três meses a contar da data de receção do pedido.\n\nTodavia, nos casos em que a autoridade requerida já disponha dessas informações, o prazo é de um mês.\n\n2. Para determinadas categorias de casos específicos, podem ser acordados entre a autoridade requerida e a autoridade requerente prazos diferentes dos previstos no n.º 1.\n\n3. Quando a autoridade requerida não estiver em condições de responder a um pedido dentro do prazo previsto no n.º 1, deve informar a autoridade requerente, no prazo de um mês, das razões que a impedem de respeitar esse prazo e indicar a data previsível de resposta, utilizando para o efeito um documento de assistência mútua administrativa."
+  },
+  "c3502440ebc1043b": {
+   "fragment_id": "Artigo 12.º — Participação de funcionários de outros Estados-Membros nos inquéritos administrativos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Participação de funcionários de outros Estados-Membros nos inquéritos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Participação de funcionários de outros Estados-Membros nos inquéritos administrativos\n\n1. Mediante acordo entre a autoridade requerente e a autoridade requerida, e nos termos estabelecidos por esta última, os funcionários autorizados pela autoridade requerente podem estar presentes nas instalações onde exercem funções as autoridades administrativas do Estado-Membro da autoridade requerida, ou em qualquer outro local onde exerçam funções as referidas autoridades, tendo em vista a troca das informações necessárias à correta aplicação da legislação relativa aos impostos especiais de consumo.\n\nSempre que as informações solicitadas constem de documentação a que os funcionários da autoridade requerida tenham acesso, devem ser facultadas aos funcionários da autoridade requerente cópias dessa documentação.\n\n2. Mediante acordo entre a autoridade requerente e a autoridade requerida, e nos termos estabelecidos por esta última, os funcionários designados pela autoridade requerente podem estar presentes durante os inquéritos administrativos realizados no território do Estado-Membro requerido, tendo em vista a troca das informações necessárias à correta aplicação da legislação relativa aos impostos especiais de consumo.\n\nNo caso de existir um acordo deste tipo, os funcionários da autoridade requerente podem ter acesso às mesmas instalações e aos mesmos documentos que os funcionários da autoridade requerida, por intermédio destes funcionários e unicamente para a realização do inquérito administrativo. Os funcionários da autoridade requerente apenas podem conduzir inquéritos ou efetuar interrogatórios com o acordo e sob a supervisão de funcionários da autoridade requerida. Os funcionários da autoridade requerente não podem exercer, em circunstância alguma, os poderes de inspeção conferidos aos funcionários da autoridade requerida.\n\n3. Os funcionários da autoridade requerente presentes noutro Estado-Membro nos termos dos n.^os^ 1 e 2 devem poder apresentar, em qualquer momento, um mandato escrito em que estejam indicadas a sua identidade e qualidade oficial."
+  },
+  "8aa1c1a51bf5aab7": {
+   "fragment_id": "Artigo 13.º — Controlos simultâneos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Controlos simultâneos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Controlos simultâneos\n\n1. Tendo em vista assegurar a troca das informações necessárias à correta aplicação da legislação relativa aos impostos especiais de consumo, dois ou mais Estados-Membros podem acordar, com base numa análise de risco, na realização de controlos simultâneos, nos respetivos territórios, da situação em termos de impostos especiais de consumo de um ou vários operadores económicos ou de outras pessoas que apresentem um interesse comum ou complementar, sempre que tais controlos se afigurem mais eficazes do que os controlos efetuados por um único Estado-Membro.\n\n2. Tendo em vista iniciar controlos simultâneos a que se refere o n.º 1, a autoridade competente de um Estado-Membro deve apresentar uma proposta às autoridades competentes dos outros Estados-Membros interessados.\n\nA proposta deve:\n\na) Especificar o caso ou casos propostos para controlo simultâneo;\n\nb) Identificar individualmente cada pessoa relativamente à qual se pretenda efetuar esse controlo;\n\nc) Justificar a necessidade do controlo comum;\n\nd) Especificar o período de tempo previsto para a realização dos controlos.\n\n3. Após terem recebido a proposta a que se refere o n.º 2, as autoridades competentes dos Estados-Membros em causa devem confirmar à autoridade competente que apresentou a proposta o seu acordo em participar nos controlos simultâneos ou informá-la das razões que justificam a sua recusa, logo que possível e, o mais tardar, até um mês após a receção da proposta.\n\n4. Cada uma das autoridades competentes participantes num controlo simultâneo designa um representante responsável pela supervisão e coordenação dos controlos simultâneos.\n\n5. Após realização dos controlos simultâneos, as autoridades competentes informam sem demora os serviços centrais de ligação dos impostos especiais de consumo dos outros Estados-Membros de quaisquer métodos ou procedimentos, detetados durante os controlos simultâneos, que tenham sido utilizados ou que se presuma terem sido utilizados para infringir a legislação relativa aos impostos especiais de consumo, sempre que tal informação revista especial interesse para os outros Estados-Membros."
+  },
+  "d1e4f7c74c3a68f1": {
+   "fragment_id": "Artigo 14.º — Pedido de notificação de decisões e medidas administrativas",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Pedido de notificação de decisões e medidas administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pedido de notificação de decisões e medidas administrativas\n\n1. A pedido da autoridade requerente, a autoridade requerida procede, nos termos das disposições aplicáveis às notificações análogas no respetivo Estado-Membro, à notificação ao destinatário de todas as decisões e medidas tomadas pelas autoridades administrativas do Estado-Membro requerente sobre a aplicação da legislação relativa aos impostos especiais de consumo.\n\n2. Os pedidos de notificação a que se refere o n.º 1 devem mencionar o objeto da decisão ou medida a notificar e indicar o nome, endereço e qualquer outra informação útil para identificar o destinatário.\n\n3. A autoridade requerida informa sem demora a autoridade requerente do seguimento dado ao pedido de notificação a que se refere o n.º 1 e comunica-lhe a data de notificação da decisão ou da medida ao destinatário.\n\n4. Se a autoridade requerida não puder dar seguimento ao pedido de notificação a que se refere o n.º 1, informa desse facto a autoridade requerente, por escrito, no prazo de um mês a contar da data de receção do pedido.\n\nA autoridade requerida não pode recusar-se a dar seguimento a um pedido de notificação com base no conteúdo da decisão ou da medida a notificar.\n\n5. A autoridade requerente só apresenta um pedido de notificação ao abrigo do presente artigo quando não estiver em condições de notificar o destinatário nos termos das disposições que regem a notificação dos instrumentos em causa no Estado-Membro requerente, ou quando tal notificação acarretar dificuldades desproporcionadas.\n\n6. O presente artigo não se aplica aos documentos a que se refere o artigo 8.º da Diretiva 2010/24/UE do Conselho, de 16 de março de 2010, relativa à assistência mútua em matéria de cobrança de créditos respeitantes a impostos, direitos e outras medidas [([^11])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr11-L_2012121PT.01000101-E0011)."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "463ffb42626ad1e2": {
+   "fragment_id": "TROCA DE INFORMAÇÕES SEM PEDIDO PRÉVIO",
+   "type": "divisao",
+   "heading": "TROCA DE INFORMAÇÕES SEM PEDIDO PRÉVIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TROCA DE INFORMAÇÕES SEM PEDIDO PRÉVIO"
+  },
+  "bf47dc745ba43084": {
+   "fragment_id": "Artigo 15.º — Troca obrigatória de informações",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Troca obrigatória de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Troca obrigatória de informações\n\n1. A autoridade competente de cada Estado-Membro comunica, sem pedido prévio, por meio da troca automática regular ou na sequência de um evento, as informações necessárias à correta aplicação da legislação relativa aos impostos especiais de consumo às autoridades competentes de todos os outros Estados-Membros interessados, nos seguintes casos:\n\na) Sempre que tenha sido cometida ou existam suspeitas de que terá sido cometida uma irregularidade ou uma infração à legislação relativa aos impostos especiais de consumo noutro Estado-Membro;\n\nb) Sempre que tenha sido cometida ou existam suspeitas de que terá sido cometida uma irregularidade ou uma infração à legislação relativa aos impostos especiais de consumo no território de um Estado-Membro que possa ter repercussões noutro Estado-Membro;\n\nc) Sempre que exista um risco de fraude ou perda de impostos especiais de consumo noutro Estado-Membro;\n\nd) Sempre que tenha ocorrido a inutilização total ou a perda irremediável dos produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto;\n\ne) Sempre que se verifique um evento excecional durante a circulação de produtos sujeitos a impostos especiais de consumo na União que não esteja previsto nas disposições da Diretiva 2008/118/CE e que possa afetar o cálculo dos impostos especiais de consumo devidos por um operador económico.\n\n2. Qualquer autoridade que transmita informações a outra autoridade a título do n.º 1 pode solicitar a essa autoridade que apresente a informação de retorno sobre as medidas de acompanhamento por ela adotadas com base nas informações prestadas. Nesse caso, e sem prejuízo das regras em matéria de confidencialidade e de proteção de dados aplicáveis no respetivo Estado-Membro, a outra autoridade deve enviar a informação de retorno mais rapidamente possível e desde que tal não implique encargos administrativos desproporcionados.\n\n3. Caso as informações a que se refere o n.º 1 digam respeito à circulação de produtos sujeitos a impostos especiais de consumo na União, devem ser enviadas através de um documento de assistência mútua administrativa, sob reserva do disposto no n.º 4.\n\nNo entanto, se a utilização do referido documento não for viável, a troca de mensagens pode ser excecionalmente efetuada, na sua totalidade ou em parte, por outros meios. Em tais casos, a mensagem deve ser acompanhada das razões que determinaram a inviabilidade da utilização do documento de assistência mútua administrativa.\n\n4. Se o sistema informatizado estiver indisponível, é utilizado o documento de assistência mútua administrativa de substituição em vez do documento a que se refere o n.º 3.\n\n5. A Comissão adota atos de execução a fim de determinar:\n\na) As categorias exatas das informações objeto de troca a título do n.º 1, que devam incluir, para as pessoas singulares, dados tais como o nome, apelido, rua e número, código postal, cidade, Estado-Membro, número de identificação fiscal ou outro número de identificação, código ou descrição do produto e outros dados pessoais conexos, quando disponíveis;\n\nb) A frequência da troca regular e os prazos da troca na sequência de um evento para cada categoria de informações a que se refere o n.º 1;\n\nc) A estrutura e o conteúdo dos documentos de assistência mútua administrativa;\n\nd) A forma e o conteúdo do documento de assistência mútua administrativa de substituição;\n\ne) As regras e os procedimentos aplicáveis à troca dos documentos a que se referem as alíneas c) e d).\n\nAlém disso, a Comissão pode adotar atos de execução para determinar os casos em que as autoridades competentes podem considerar o sistema informatizado indisponível para efeitos do n.º 4 do presente artigo.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 35.º, n.º 2."
+  },
+  "78a9a1225e0cc280": {
+   "fragment_id": "Artigo 16.º — Troca facultativa de informações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Troca facultativa de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Troca facultativa de informações\n\n1. As autoridades competentes dos Estados-Membros podem trocar sem pedido prévio e de forma espontânea todas as informações necessárias para assegurar a correta aplicação da legislação relativa aos impostos especiais de consumo de que tenham conhecimento e que não estejam abrangidas pelo artigo 15.º.\n\nPara o efeito, podem utilizar o sistema informatizado desde que este tenha capacidade para tratar essa informação.\n\n2. Qualquer autoridade que transmita informações a outra autoridade a título do n.º 1 pode solicitar a essa autoridade que apresente a informação de retorno sobre as medidas de acompanhamento por ela adotadas com base nas informações prestadas. Nesse caso, e sem prejuízo das regras em matéria de confidencialidade e de proteção de dados aplicáveis no respetivo Estado-Membro, a outra autoridade deve enviar essa informação de retorno o mais rapidamente possível e desde que tal não implique encargos administrativos desproporcionados.\n\n3. A Comissão adota atos de execução a fim de determinar:\n\na) A estrutura e o conteúdo dos documentos de assistência mútua administrativa destinados a cobrir os tipos de informação mais comuns a que se refere o n.º 1;\n\nb) As regras e os procedimentos aplicáveis à troca dos documentos de assistência mútua administrativa.\n\nA Comissão pode adotar atos de execução para determinar a estrutura e o conteúdo da informação de retorno a que se refere o n.º 2.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 35.º, n.º 2."
+  },
+  "c3cac45360550ac6": {
+   "fragment_id": "Artigo 17.º — Obrigação de os Estados-Membros facilitarem a troca de informações sem pedido prévio",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Obrigação de os Estados-Membros facilitarem a troca de informações sem pedido prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigação de os Estados-Membros facilitarem a troca de informações sem pedido prévio\n\nOs Estados-Membros tomam as medidas administrativas e organizativas necessárias a fim de permitir as trocas de informações previstas no presente capítulo."
+  },
+  "d026e06a14d7f58b": {
+   "fragment_id": "Artigo 18.º — Limitação das obrigações",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Limitação das obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Limitação das obrigações\n\nPara efeitos da aplicação do presente capítulo, os Estados-Membros não são obrigados a impor às pessoas novas obrigações em matéria de recolha de informações, nem encargos administrativos desproporcionados."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "0eda459c2fbba6d7": {
+   "fragment_id": "ARMAZENAGEM E TROCA DE INFORMAÇÕES ELETRÓNICAS SOBRE OS OPERADORES ECONÓMICOS",
+   "type": "divisao",
+   "heading": "ARMAZENAGEM E TROCA DE INFORMAÇÕES ELETRÓNICAS SOBRE OS OPERADORES ECONÓMICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ARMAZENAGEM E TROCA DE INFORMAÇÕES ELETRÓNICAS SOBRE OS OPERADORES ECONÓMICOS"
+  },
+  "de332e4886d6089d": {
+   "fragment_id": "Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos fiscais",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos fiscais\n\n1. Cada Estado-Membro deve dispor de uma base de dados eletrónica contendo os seguintes registos:\n\na) Um registo dos operadores económicos pertencentes a uma das seguintes categorias: i) depositários autorizados, na aceção do artigo 4.º, ponto 1, da Diretiva 2008/118/CE, ii) destinatários registados, na aceção do artigo 4.º, ponto 9, da Diretiva 2008/118/CE, iii) expedidores registados, na aceção do artigo 4.º, ponto 10, da Diretiva 2008/118/CE;\n\ni) depositários autorizados, na aceção do artigo 4.º, ponto 1, da Diretiva 2008/118/CE,\n\nii) destinatários registados, na aceção do artigo 4.º, ponto 9, da Diretiva 2008/118/CE,\n\niii) expedidores registados, na aceção do artigo 4.º, ponto 10, da Diretiva 2008/118/CE;\n\nb) Um registo dos locais autorizados como entrepostos fiscais, na aceção do artigo 4.º, ponto 11, da Diretiva 2008/118/CE.\n\n2. Os registos a que se refere o n.º 1 devem conter as seguintes informações:\n\na) O número único de imposto especial de consumo emitido pela autoridade competente para um operador económico ou um local;\n\nb) O nome e o endereço do operador económico ou do local;\n\nc) A categoria do produto sujeito a impostos especiais de consumo (CAT) e/ou o código do produto sujeito a impostos especiais de consumo (EPC) abrangidos pela autorização a que se refere o Anexo II, lista de códigos 11, do Regulamento (CE) n.º 684/2009, de 24 de julho de 2009, que aplica a Diretiva 2008/118/CE do Conselho no que diz respeito aos processos informatizados para a circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto [([^12])](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntr12-L_2012121PT.01000101-E0012);\n\nd) A identificação do serviço central de ligação dos impostos especiais de consumo ou do serviço dos impostos especiais de consumo junto do qual possam ser obtidas outras informações;\n\ne) A data a partir da qual a autorização é válida, é alterada e, quando aplicável, deixa de ser válida;\n\nf) Relativamente aos depositários autorizados, o entreposto fiscal ou a lista de entrepostos fiscais a que se aplica a autorização e, se aplicável a título da legislação nacional, a indicação de que estão autorizados a omitir os detalhes do expedidor no momento da expedição e a repartir a circulação nos termos do artigo 23.º da Diretiva 2008/118/CE, ou de que estão autorizados a fazer circular os produtos sujeitos a impostos especiais de consumo para um local de entrega direta, nos termos do artigo 17.º, n.º 2, dessa diretiva;\n\ng) Relativamente aos destinatários, e se aplicável a título da legislação nacional, a indicação de que estão autorizados a fazer circular os produtos sujeitos a impostos especiais de consumo para um local de entrega direta, nos termos do artigo 17.º, n.º 2, da Diretiva 2008/118/CE;\n\nh) Relativamente aos destinatários registados a que se refere o artigo 19.º, n.º 3, da Diretiva 2008/118/CE, mas que não sejam referidos na alínea i) do presente número, os termos da autorização no que diz respeito à quantidade de produtos sujeitos a impostos especiais de consumo, à identidade do expedidor no Estado-Membro de expedição e ao período de validade da autorização;\n\ni) Relativamente aos destinatários registados a que se refere o artigo 19.º, n.º 3, da Diretiva 2008/118/CE, que estejam autorizados a receber vinho de expedidores que beneficiem da derrogação prevista no artigo 40.º da Diretiva 2008/118/CE, os termos da autorização no que diz respeito à quantidade de produtos sujeitos a impostos especiais de consumo e o período de validade da autorização. Deve ser indicada no registo a derrogação concedida a título do artigo 40.º da Diretiva 2008/118/CE;\n\nj) Relativamente aos entrepostos fiscais, o depositário autorizado ou lista de depositários autorizados a utilizar o entreposto fiscal em causa.\n\n3. O serviço central de ligação dos impostos especiais de consumo ou os serviços de ligação dos Estados-Membros devem assegurar que as informações contidas nos registos nacionais estão completas, corretas e atualizadas.\n\n4. As informações contidas em cada registo nacional a que se refere o n.º 2 respeitantes a operadores económicos que efetuem movimentos entre Estados-Membros de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto devem ser trocadas automaticamente através de um registo central.\n\nA Comissão deve gerir o registo enquanto parte do sistema informatizado, de forma a garantir, em qualquer momento, uma panorâmica correta e atualizada do conjunto de dados dos registos nacionais fornecidos pelos Estados-Membros.\n\nOs serviços centrais de ligação dos impostos especiais de consumo ou os serviços de ligação dos Estados-Membros devem comunicar à Comissão, em tempo útil, o conteúdo dos seus registos nacionais, bem como qualquer alteração dos mesmos."
+  },
+  "280224182f4610a4": {
+   "fragment_id": "Artigo 20.º — Acesso à informação e retificação dos dados",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Acesso à informação e retificação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acesso à informação e retificação dos dados\n\n1. A Comissão deve garantir que as pessoas envolvidas na circulação entre Estados-Membros de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto podem receber uma confirmação por via eletrónica da validade do número de imposto especial de consumo inscrito no registo central a que se refere o artigo 19.º, n.º 4. A Comissão deve transmitir todos os pedidos de retificação dessa informação emanados dos operadores económicos ao serviço central de ligação dos impostos especiais de consumo ou ao serviço de ligação responsável pela autorização desse operador económico.\n\n2. Os serviços centrais de ligação dos impostos especiais de consumo ou os serviços de ligação dos Estados-Membros devem garantir que os operadores económicos podem obter confirmação das informações que lhes digam respeito, a título do artigo 19.º, n.º 2, e solicitar a retificação de eventuais imprecisões.\n\n3. A autoridade competente de um Estado-Membro pode autorizar, nas condições fixadas por esse Estado-Membro, o serviço central de ligação dos impostos especiais de consumo ou os serviços de ligação designados a comunicarem a confirmação das informações detidas a título do artigo 19.º, n.º 2."
+  },
+  "6f6e0fa2289e3b6a": {
+   "fragment_id": "Artigo 21.º — Conservação de dados",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Conservação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Conservação de dados\n\n1. Cada Estado-Membro deve conservar a informação relativa à circulação de produtos sujeitos a impostos especiais de consumo no território da União e os dados armazenados nos registos nacionais a que se refere o artigo 19.º pelo menos durante cinco anos a contar do termo do ano civil em que teve início a circulação, a fim de permitir a utilização dessa informação para efeitos dos procedimentos previstos no presente regulamento. Esse período pode ser limitado a três anos no que diz respeito às informações recebidas nos registos nacionais antes de 1 de julho de 2012.\n\n2. A informação recolhida através do sistema informatizado deve ser conservada nesse sistema de forma a possibilitar a extração e o posterior tratamento dos dados pelo sistema, em resposta a um pedido de informação a que se refere o artigo 8.º."
+  },
+  "8ea010b84acdad91": {
+   "fragment_id": "Artigo 22.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Execução\n\nA Comissão adota atos de execução a fim de:\n\na) Especificar as características técnicas da atualização automática das bases de dados a que se refere o artigo 19.º, n.º 1, e do registo central a que se refere o artigo 19.º, n.º 4;\n\nb) Especificar as regras e os procedimentos que regem o acesso à informação e a retificação dos dados a título do artigo 20.º, n.º 1.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 35.º, n.º 2."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "98ecba8f86d5a060": {
+   "fragment_id": "CONDIÇÕES COMUNS DA ASSISTÊNCIA",
+   "type": "divisao",
+   "heading": "CONDIÇÕES COMUNS DA ASSISTÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES COMUNS DA ASSISTÊNCIA"
+  },
+  "2e92ffa314f9abd8": {
+   "fragment_id": "Artigo 23.º — Regime linguístico",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Regime linguístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime linguístico\n\nOs pedidos de assistência, incluindo os pedidos de notificação, e os documentos apensos podem ser apresentados em qualquer língua acordada entre as autoridades requerida e requerente. Os pedidos só necessitam de ser traduzidos para a língua oficial ou para uma das línguas oficiais do Estado-Membro em que a autoridade requerida está estabelecida se a autoridade requerida justificar a necessidade dessa tradução."
+  },
+  "57b062ea939c6ff0": {
+   "fragment_id": "Artigo 24.º — Qualidade do serviço",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Qualidade do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Qualidade do serviço\n\n1. A Comissão e os Estados-Membros devem assegurar que as partes do sistema informatizado necessárias para a troca de informações descrita no presente regulamento se encontram operacionais, são objeto de manutenção adequada e continuam a ser desenvolvidas.\n\n2. A Comissão e os Estados-Membros celebram um acordo de nível de serviço e acordam na política de segurança aplicável ao sistema informatizado. O acordo de nível de serviço deve definir a qualidade técnica e a quantidade de serviços a prestar pela Comissão e pelos Estados-Membros, de modo a garantir o bom funcionamento de todas as partes do sistema informatizado e das comunicações eletrónicas e a repartição das responsabilidades em matéria de desenvolvimento do sistema."
+  },
+  "01176078106dce77": {
+   "fragment_id": "Artigo 25.º — Limites gerais das obrigações da autoridade requerida",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Limites gerais das obrigações da autoridade requerida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Limites gerais das obrigações da autoridade requerida\n\n1. A autoridade requerida comunica à autoridade requerente as informações solicitadas nos termos do presente regulamento, desde que:\n\na) A autoridade requerente tenha esgotado as fontes habituais de informação a que, segundo as circunstâncias, teria podido recorrer para obter as informações solicitadas sem correr o risco de prejudicar a obtenção do resultado pretendido; e\n\nb) O número e a natureza dos pedidos de informação apresentados por essa autoridade requerente em determinado período não imponham encargos administrativos desproporcionados à autoridade requerida.\n\n2. O presente regulamento não impõe às autoridades competentes de um Estado-Membro qualquer obrigação de realização de inquéritos ou de prestação de informações quando a legislação ou a prática administrativa desse Estado-Membro não autorizar as autoridades a efetuarem esses inquéritos ou a recolherem ou utilizarem essas informações para as próprias necessidades do Estado-Membro em causa.\n\n3. A autoridade competente de um Estado-Membro pode recusar facultar informações quando o Estado-Membro requerente não puder, por razões legais, prestar informações similares.\n\n4. A prestação de informações pode ser recusada caso conduza à divulgação de um segredo comercial, industrial ou profissional ou de um processo comercial ou ainda de uma informação cuja divulgação seja contrária à ordem pública.\n\n5. A autoridade requerida informa a autoridade requerente dos motivos que obstam a que o pedido de assistência seja satisfeito. Para efeitos estatísticos, as autoridades competentes informam anualmente a Comissão, das categorias de motivos que fundamentam tais recusas.\n\n6. O disposto nos n.^os^ 2, 3 ou 4, não pode, em caso algum, ser interpretado no sentido de autorizar a autoridade requerida a não prestar informações apenas pelo facto de as informações em causa estarem na posse de uma instituição bancária, de outra instituição financeira, de uma pessoa designada ou atuando na qualidade de agente ou de fiduciário ou pelo facto de estarem relacionadas com uma participação no capital de uma pessoa."
+  },
+  "3e162cf4bf9bda5f": {
+   "fragment_id": "Artigo 26.º — Despesas",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Despesas\n\nOs Estados-Membros renunciam a qualquer pedido de reembolso de despesas resultantes da aplicação do presente regulamento, com exceção dos honorários pagos a peritos."
+  },
+  "3561b6f3246873d2": {
+   "fragment_id": "Artigo 27.º — Montante mínimo",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Montante mínimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Montante mínimo\n\n1. O pedido de assistência pode ficar sujeito a um montante mínimo baseado no imposto especial de consumo potencialmente devido.\n\n2. A Comissão pode adotar atos de execução para especificar o montante mínimo a que se refere o n.º 1 do presente artigo.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 35.º, n.º 2."
+  },
+  "d447f3a294cc86cb": {
+   "fragment_id": "Artigo 28.º — Sigilo profissional, proteção dos dados e utilização das informações comunicadas ao abrigo do presente regulamento",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Sigilo profissional, proteção dos dados e utilização das informações comunicadas ao abrigo do presente regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Sigilo profissional, proteção dos dados e utilização das informações comunicadas ao abrigo do presente regulamento\n\n1. As informações comunicadas ou recolhidas pelos Estados-Membros ao abrigo do presente regulamento ou quaisquer informações a que um funcionário ou outro agente ou contratante tenha tido acesso no exercício das suas funções estão sujeitas ao sigilo profissional e beneficiam da proteção concedida a informações da mesma natureza pela legislação nacional do Estado-Membro que recebe essas informações.\n\n2. As informações a que se refere o n.º 1 podem ser utilizadas para os seguintes fins:\n\na) Determinação da base tributável dos impostos especiais de consumo;\n\nb) Cobrança ou controlo administrativo dos impostos especiais de consumo;\n\nc) Controlo da circulação de produtos sujeitos a impostos especiais de consumo;\n\nd) Análise de risco no domínio dos impostos especiais de consumo;\n\ne) Inquéritos no domínio dos impostos especiais de consumo;\n\nf) Estabelecimento de outros impostos, direitos e imposições abrangidos pelo artigo 2.º da Diretiva 2010/24/UE.\n\nNo entanto, a autoridade competente do Estado-Membro que presta as informações autoriza a sua utilização para outros fins no Estado-Membro da autoridade requerente, se a legislação do Estado-Membro da autoridade requerida autorizar a utilização dessas informações para fins semelhantes nesse Estado-Membro.\n\nNa medida em que a legislação nacional o permita, e sem prejuízo do artigo 1.º, n.º 2, as informações a que se refere o n.º 1 do presente artigo podem ser utilizadas em processos administrativos ou judiciais que possam acarretar sanções, instaurados na sequência de infrações à legislação fiscal, sem prejuízo das regras que regem os direitos dos arguidos e das testemunhas em processos dessa natureza.\n\n3. Se a autoridade requerente considerar que as informações que recebeu da autoridade requerida podem ser úteis à autoridade competente de outro Estado-Membro, pode transmitir-lhe essas informações, informando do facto a autoridade requerida.\n\nA autoridade requerida pode sujeitar a transmissão de informações a outro Estado-Membro ao seu consentimento prévio.\n\n4. Qualquer tratamento de dados pessoais pelos Estados-Membros previsto no presente regulamento fica sujeito às disposições nacionais de execução da Diretiva 95/46/CE.\n\nPara efeitos da correta aplicação do presente regulamento, os Estados-Membros devem limitar o âmbito das obrigações e dos direitos previstos nos artigos 10.º, 11.º, n.º 1, 12.º e 21.º da Diretiva 95/46/CE na medida em que tal seja necessário para salvaguardar os interesses a que se refere o artigo 13.º, n.º 1, alínea e), dessa diretiva. Essas limitações devem ser proporcionais ao interesse em questão."
+  },
+  "d62a2d34ffae1ce2": {
+   "fragment_id": "Artigo 29.º — Acesso à informação mediante autorização da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Acesso à informação mediante autorização da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Acesso à informação mediante autorização da Comissão\n\nAs pessoas devidamente autorizadas pela Comissão podem aceder às informações a que se refere o artigo 28.º, n.º 4, unicamente na medida do necessário para a assistência, manutenção e desenvolvimento da rede CCN/CSI e para o funcionamento do registo central.\n\nEssas pessoas ficam sujeitas à obrigação de sigilo profissional. As informações acedidas beneficiam da proteção prevista para os dados pessoais a título do Regulamento (CE) n.º 45/2001."
+  },
+  "712a3e7096917027": {
+   "fragment_id": "Artigo 30.º — Valor probatório das informações obtidas",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Valor probatório das informações obtidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Valor probatório das informações obtidas\n\nOs relatórios, certificados e quaisquer outros documentos ou cópias autenticadas ou extratos dos mesmos, comunicados pela autoridade competente de um Estado-Membro à autoridade competente de outro Estado-Membro ao abrigo do presente regulamento podem ser invocados como elementos de prova pelas instâncias competentes do outro Estado-Membro do mesmo modo que os documentos equivalentes comunicados por outra autoridade desse outro Estado-Membro."
+  },
+  "60ac03484f6e17b7": {
+   "fragment_id": "Artigo 31.º — Obrigação de cooperação",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Obrigação de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Obrigação de cooperação\n\n1. Para efeitos da aplicação do presente regulamento, os Estados-Membros tomam todas as medidas necessárias para:\n\na) Assegurar uma boa coordenação interna entre as autoridades competentes a que se referem os artigos 3.º a 5.º;\n\nb) Estabelecer uma cooperação direta entre as autoridades autorizadas para efeitos da coordenação a que se refere a alínea a) do presente número;\n\nc) Assegurar o bom funcionamento do sistema de troca de informações previsto no presente regulamento.\n\n2. A Comissão comunica o mais rapidamente possível à autoridade competente de cada Estado-Membro as informações necessárias para assegurar a correta aplicação da legislação relativa aos impostos especiais de consumo que receba e esteja em condições de prestar."
+  },
+  "3f4fec3af1ca527e": {
+   "fragment_id": "Artigo 32.º — Relações com países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Relações com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Relações com países terceiros\n\n1. Quando um país terceiro comunicar informações à autoridade competente de um Estado-Membro, esta última pode transmiti-las às autoridades competentes dos Estados-Membros que possam estar interessados nessas informações e, em todo o caso, às autoridades competentes que apresentem um pedido nesse sentido, desde que tal esteja previsto nos acordos de assistência celebrados com o país terceiro em causa. Essas informações podem também ser transmitidas à Comissão, sempre que tal seja do interesse da União e para fins idênticos aos do presente regulamento.\n\n2. Se o país terceiro em causa tiver assumido o compromisso legal de prestar a assistência necessária para reunir provas do caráter irregular das operações que alegadamente configuram uma violação da legislação relativa aos impostos especiais de consumo, as informações obtidas a título do presente regulamento podem ser comunicadas pela autoridade competente de um Estado-Membro a esse país terceiro, nos termos da respetiva legislação nacional relativa às transferências de dados pessoais para países terceiros, para efeitos da correta aplicação dos impostos especiais de consumo ou de taxas similares, direitos e encargos aplicáveis no país terceiro com o consentimento das autoridades nacionais que facultaram as informações, nos termos da respetiva legislação nacional."
+  },
+  "2e5861385d223f5b": {
+   "fragment_id": "Artigo 33.º — Assistência aos operadores económicos",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Assistência aos operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Assistência aos operadores económicos\n\n1. As autoridades de um Estado-Membro em que um expedidor de produtos sujeitos a impostos especiais de consumo se encontre estabelecido podem conceder assistência a esse expedidor sempre que este último não receba o aviso de receção a que se refere o artigo 24.º, n.º 4, da Diretiva 2008/118/CE, o relatório de exportação a que se refere o artigo 25.º, n.º 3, dessa diretiva, ou, nas situações a que se refere o artigo 33.º, n.º 1, dessa diretiva, uma cópia do documento de acompanhamento a que se refere o artigo 34.º dessa diretiva.\n\nA concessão dessa assistência não prejudica as obrigações fiscais do expedidor assistido.\n\n2. Sempre que um Estado-Membro conceda assistência ao abrigo do n.º 1 do presente artigo e considere necessário obter informações de outro Estado-Membro, deve solicitar essas informações nos termos do artigo 8.º. O outro Estado-Membro pode recusar obter as informações solicitadas, caso o expedidor não tenha esgotado todos os meios à sua disposição para obter a prova de que a circulação entre Estados-Membros dos produtos sujeitos a impostos especiais de consumo terminou."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "90ceb0858da80f7b": {
+   "fragment_id": "AVALIAÇÃO E DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "AVALIAÇÃO E DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AVALIAÇÃO E DISPOSIÇÕES FINAIS"
+  },
+  "ad3c47d30c3d3381": {
+   "fragment_id": "Artigo 34.º — Avaliação das disposições, recolha de estatísticas operacionais e apresentação de relatórios",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Avaliação das disposições, recolha de estatísticas operacionais e apresentação de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Avaliação das disposições, recolha de estatísticas operacionais e apresentação de relatórios\n\n1. Os Estados-Membros e a Comissão devem analisar e avaliar a aplicação do presente regulamento. Para o efeito, a Comissão apresenta regularmente um resumo da experiência dos Estados-Membros, com o objetivo de melhorar o funcionamento do sistema estabelecido pelo presente regulamento.\n\n2. Os Estados-Membros comunicam à Comissão as seguintes informações:\n\na) Todas as informações disponíveis relevantes sobre a sua experiência no que se refere à aplicação do presente regulamento, incluindo todos os dados estatísticos necessários para a sua avaliação;\n\nb) Todas as informações disponíveis sobre os métodos ou práticas utilizados ou que se presuma terem sido utilizados para infringir a legislação relativa aos impostos especiais de consumo, sempre que esses métodos ou práticas revelem insuficiências ou lacunas na aplicação dos procedimentos previstos no presente regulamento.\n\nA fim de avaliar a eficácia deste sistema de cooperação administrativa no que diz respeito à aplicação efetiva da legislação relativa aos impostos especiais de consumo e no combate à evasão e à fraude no domínio dos impostos especiais de consumo, os Estados-Membros podem comunicar à Comissão qualquer outra informação disponível além das informações a que se refere o primeiro parágrafo.\n\nA Comissão transmite as informações comunicadas pelos Estados-Membros aos outros Estados-Membros em causa.\n\nA obrigação de comunicar informações e dados estatísticos não pode justificar um aumento injustificado dos encargos administrativos.\n\n3. A Comissão pode extrair informações diretamente das mensagens transmitidas pelo sistema informatizado, para efeitos estatísticos e de diagnóstico, sob reserva do artigo 28.º.\n\n4. As informações comunicadas pelos Estados-Membros ou extraídas pela Comissão para efeitos dos n.^os^ 1 a 3 não devem conter dados de caráter individual ou pessoal.\n\n5. A Comissão adota atos de execução a fim de determinar, para efeitos da execução do presente artigo, os dados estatísticos relevantes comunicados pelos Estados-Membros, as informações que podem ser extraídas pela Comissão e os relatórios estatísticos a elaborar pela Comissão e pelos Estados-Membros.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 35.º, n.º 2."
+  },
+  "939e2714de0fe6e1": {
+   "fragment_id": "Artigo 35.º — Comité dos Impostos Especiais de Consumo",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Comité dos Impostos Especiais de Consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Comité dos Impostos Especiais de Consumo\n\n1. A Comissão é assistida pelo Comité dos Impostos Especiais de Consumo instituído pelo artigo 43.º, n.º 1, da Diretiva 2008/118/CE. Esse comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Sempre que se faça referência ao presente número, é aplicável o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "781b6d47c1b3ad3a": {
+   "fragment_id": "Artigo 36.º — Revogação do Regulamento (CE) n.º 2073/2004",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Revogação do Regulamento (CE) n.º 2073/2004",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Revogação do Regulamento (CE) n.º 2073/2004\n\nÉ revogado o Regulamento (CE) n.º 2073/2004.\n\nAs remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento, de acordo com o quadro de correspondência constante do anexo ao presente regulamento."
+  },
+  "8a1f5e78c8da4e9b": {
+   "fragment_id": "Artigo 37.º — Apresentação de relatórios ao Parlamento Europeu e ao Conselho",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Apresentação de relatórios ao Parlamento Europeu e ao Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Apresentação de relatórios ao Parlamento Europeu e ao Conselho\n\nDe cinco em cinco anos, a contar da data da entrada em vigor do presente regulamento, e nomeadamente com base nas informações prestadas pelos Estados-Membros, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento."
+  },
+  "445022b86433fa12": {
+   "fragment_id": "Artigo 38.º — Acordos bilaterais",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Acordos bilaterais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Acordos bilaterais\n\nSempre que as autoridades competentes celebrem acordos sobre questões bilaterais abrangidas pelo presente regulamento, exceto as relativas a casos específicos, devem sem demora notificar desse facto a Comissão. Por seu lado, a Comissão transmite essas informações às autoridades competentes dos outros Estados-Membros."
+  },
+  "4f4ff9c49d769f0b": {
+   "fragment_id": "Artigo 39.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de julho de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 2 de maio de 2012.\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**M. VESTAGER**\n\n---"
+  },
+  "6de5ebf823827adc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc1-L_2012121PT.01000101-E0001) Parecer de 29 de março de 2012 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc2-L_2012121PT.01000101-E0002) [JO C 68 de 6.3.2012, p. 45](http://publications.europa.eu/resource/oj/JOC_2012_068_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc3-L_2012121PT.01000101-E0003) [JO L 359 de 4.12.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_359_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc4-L_2012121PT.01000101-E0004) [JO L 9 de 14.1.2009, p. 12](http://publications.europa.eu/resource/oj/JOL_2009_009_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc5-L_2012121PT.01000101-E0005) [JO L 162 de 1.7.2003, p. 5](http://publications.europa.eu/resource/oj/JOL_2003_162_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc6-L_2012121PT.01000101-E0006) [JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc7-L_2012121PT.01000101-E0007) [JO L 8 de 12.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc8-L_2012121PT.01000101-E0008) [JO L 55 de 28.2.2011, p. 13](http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc9-L_2012121PT.01000101-E0009) Parecer de 18 de janeiro de 2012.\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc10-L_2012121PT.01000101-E0010) [JO L 162 de 1.7.2003, p. 5](http://publications.europa.eu/resource/oj/JOL_2003_162_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc11-L_2012121PT.01000101-E0011) [JO L 84 de 31.3.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_084_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/83bae21f-9266-4c4c-908a-b939f649a31d.0006.02/DOC_1#ntc12-L_2012121PT.01000101-E0012) [JO L 197 de 29.7.2009, p. 24](http://publications.europa.eu/resource/oj/JOL_2009_197_R_TOC)."
+  },
+  "0e2efe42ce6aa234": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de maio de 2012\n\nrelativo à cooperação administrativa no domínio dos impostos especiais de consumo e que revoga o Regulamento (CE) n.º 2073/2004\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 113.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0002)),\n\nDeliberando de acordo com um processo legislativo especial,\n\n(1) O Regulamento (CE) n.º 2073/2004 do Conselho, de 16 de novembro de 2004, relativo à cooperação administrativa no domínio dos impostos especiais de consumo ([^3^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0003)) prevê um sistema comum segundo o qual, a fim de garantir uma aplicação correta da legislação em matéria de impostos especiais de consumo e, por outro lado, combater a evasão aos impostos especiais de consumo e as consequentes distorções no mercado interno, os Estados-Membros prestam assistência mútua e cooperam com a Comissão. Tendo em conta a experiência adquirida e os desenvolvimentos recentes, é necessário introduzir algumas alterações no supracitado regulamento. Atendendo ao número de alterações necessárias, esse regulamento deverá ser substituído por motivos de clareza.\n\n(2) A realização do mercado interno continua a exigir um sistema de cooperação administrativa no domínio dos impostos especiais de consumo, que deverá abranger todos os aspetos relativos à aplicação da legislação em matéria de produtos sujeitos a impostos especiais de consumo a que se refere o artigo 1.º da Diretiva 2008/118/CE do Conselho, de 16 de dezembro de 2008, relativa ao regime geral dos impostos especiais de consumo ([^4^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0004)).\n\n(3) Por motivos de eficácia, rapidez e custo, é essencial melhorar a utilização dos meios eletrónicos na troca de informações. Tendo em conta o caráter repetitivo de certos pedidos e a diversidade linguística na União, é importante garantir uma utilização mais ampla de formatos uniformes para a troca de informações, que garantam um tratamento mais rápido dos pedidos de informação. A melhor forma de cumprir estes requisitos consiste numa utilização mais sistemática do sistema informatizado previsto na Decisão n.º 1152/2003/CE do Parlamento Europeu e do Conselho, de 16 de junho de 2003, relativa à informatização dos movimentos e dos controlos dos produtos sujeitos a impostos especiais de consumo ([^5^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0005)). Esse sistema oferece agora mais possibilidades do que na data da entrada em vigor do Regulamento (CE) n.º 2073/2004 e continuará a ser desenvolvido. Os Estados-Membros deverão, portanto, recorrer a esse sistema sempre que possível.\n\n(4) A troca de informações em matéria de impostos especiais de consumo é em grande medida necessária para estabelecer a situação real de determinadas pessoas no que diz respeito aos impostos especiais de consumo, muito embora os Estados-Membros não tenham liberdade para efetuar investigações aleatórias, nem para solicitar informações com pouca probabilidade de virem a ser pertinentes para a situação de uma dada pessoa ou de um determinado grupo ou categoria de pessoas no que diz respeito aos impostos especiais de consumo.\n\n(5) Para garantir uma coordenação adequada dos fluxos de informação, é necessário manter as disposições do Regulamento (CE) n.º 2073/2004 sobre a criação de um ponto de contacto único em cada Estado-Membro. Uma vez que, por razões de eficiência, poderão ser necessários mais contactos diretos entre as autoridades e os funcionários, deverão também ser mantidas as disposições em matéria de designação dos funcionários competentes e de delegação.\n\n(6) Para que as informações necessárias sejam disponibilizadas em tempo útil, importa igualmente manter as disposições do Regulamento (CE) n.º 2073/2004 que exigem uma ação tão rápida quanto possível da autoridade requerida e, o mais tardar, dentro de um prazo determinado. No entanto, o prazo para transmissão de informações de que o Estado-Membro requerido já disponha deverá ser mais curto do que o prazo geral.\n\n(7) Para garantir um controlo eficaz dos procedimentos aplicáveis aos impostos especiais de consumo na circulação transfronteiras, é necessário continuar a prever a possibilidade de controlos simultâneos pelos Estados-Membros, bem como a presença de funcionários de um Estado-Membro no território de outro Estado-Membro no âmbito da cooperação administrativa.\n\n(8) As dificuldades relacionadas com a notificação transfronteiras de decisões e medidas administrativas deverão também continuar a ser tratadas através das disposições do Regulamento (CE) n.º 2073/2004 nesta matéria, que deverão ser mantidas.\n\n(9) A fim de combater eficazmente a fraude, deverão ser mantidas as disposições relativas à troca de informações sem pedido prévio. Para facilitar essa troca, importa especificar as categorias de informações a trocar obrigatoriamente.\n\n(10) Os Estados-Membros deverão continuar a ter a possibilidade de proceder à troca facultativa das informações necessárias à correta aplicação da legislação relativa aos impostos especiais de consumo, nos casos em que a informação em causa não esteja abrangida por nenhuma categoria de troca automática.\n\n(11) A informação de retorno é um meio adequado para assegurar uma melhoria contínua da qualidade das informações trocadas. Por conseguinte, deverá ser consagrado um enquadramento legal para a transmissão dessa informação de retorno.\n\n(12) A armazenagem eletrónica pelos Estados-Membros de certos dados específicos sobre autorizações de operadores económicos e entrepostos fiscais é indispensável para o bom funcionamento do sistema de impostos especiais de consumo e para o combate à fraude. Permite uma troca rápida desses dados entre Estados-Membros e um acesso automático às informações. Tal é possível mediante a utilização de informações já existentes nos sistemas informatizados nacionais sobre os impostos especiais de consumo, mediante o desenvolvimento de uma análise de risco que reforce as informações nacionais sobre os operadores económicos de produtos sujeitos a impostos especiais de consumo e a sua circulação dentro da União, e mediante a inclusão de mais informações sobre os sujeitos passivos e as respetivas transações. Atendendo a que os procedimentos de determinação ou cobrança dos impostos especiais de consumo, bem como os prazos de prescrição e outro tipo de prazos, diferem de um Estado-Membro para outro, é necessário, a fim de garantir a eficácia da assistência mútua na aplicação da legislação relativa aos impostos especiais de consumo em situações transfronteiras, prever um período mínimo durante o qual cada Estado-Membro deverá armazenar essas informações.\n\n(13) Para que as informações armazenadas nas bases de dados eletrónicas sejam fiáveis, deverão ser adotadas disposições que garantam a sua atualização a intervalos regulares.\n\n(14) Os operadores económicos deverão poder efetuar rapidamente as verificações necessárias à circulação de produtos sujeitos a impostos especiais de consumo. Deverão ter a possibilidade de obter confirmação eletrónica da validade dos números relativos ao imposto especial de consumo através de um registo central gerido pela Comissão e alimentado pelas informações contidas nas bases de dados nacionais.\n\n(15) As regras nacionais em matéria de sigilo bancário podem prejudicar a eficiência dos mecanismos previstos no presente regulamento. Consequentemente, os Estados-Membros não deverão poder recusar a transmissão de informações apenas com base nessas regras.\n\n(16) O presente regulamento não deverá afetar outras medidas adotadas a nível da União que contribuam para combater as irregularidades e a fraude em matéria de impostos especiais de consumo, devendo antes complementar essas medidas.\n\n(17) Por motivos de clareza, é conveniente confirmar no presente regulamento que, caso as informações ou os documentos sejam obtidos mediante autorização de uma autoridade judiciária ou a pedido desta, a comunicação das informações ou dos documentos à autoridade competente de outro Estado-Membro fica sujeita à autorização da autoridade judiciária se tal autorização for exigida pela legislação do Estado-Membro que comunica as informações.\n\n(18) A Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados ([^6^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0006)) rege o tratamento dos dados pessoais pelos Estados-Membros ao abrigo do presente regulamento. O Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2000, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos da Comunidade e à livre circulação desses dados ([^7^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0007)) rege o tratamento dos dados pessoais pela Comissão ao abrigo do presente regulamento.\n\n(19) As disposições sobre troca de informações com países terceiros têm contribuído para a correta aplicação da legislação relativa aos impostos especiais de consumo, devendo, portanto, ser mantidas. A Diretiva 95/46/CE estabelece os requisitos de comunicação que os Estados-Membros devem respeitar com os países terceiros.\n\n(20) Para garantir uma aplicação eficaz do presente regulamento, poderá ser necessário limitar o âmbito de determinados direitos e obrigações previstos na Diretiva 95/46/CE, mais concretamente dos direitos previstos nos artigo 10.º, no artigo 11.º, n.º 1, no artigo 12.º e no artigo 21.º, de modo a salvaguardar os interesses económicos ou financeiros importantes dos Estados-Membros, tendo em conta a potencial perda de receitas para os Estados-Membros e a importância crucial das informações abrangidas pelo presente regulamento para a eficácia do combate à fraude. Tendo em conta a necessidade de conservar elementos de prova em casos de suspeita de irregularidades ou fraude fiscal, bem como de evitar interferências na avaliação adequada do cumprimento da legislação relativa aos impostos especiais de consumo, pode ser necessário restringir as obrigações do responsável pelo tratamento de dados e os direitos da pessoa em causa em matéria de fornecimento de informações, acesso aos dados e publicidade de operações de tratamento de dados durante a troca de dados pessoais a título do presente regulamento. Os Estados-Membros deverão ser obrigados a introduzir tais limitações, na medida em que sejam necessárias e proporcionadas.\n\n(21) A fim de garantir condições uniformes de execução de certos artigos do presente regulamento e de descrever as principais categorias de dados que podem ser objeto de troca pelos Estados-Membros a título do mesmo, deverá ser conferida competência de execução à Comissão. Essa competência deverá ser exercida nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([^8^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0008)).\n\n(22) Deverá ser utilizado o procedimento de exame para a adoção desses atos de execução, atendendo a que são atos de alcance geral na aceção do artigo 2.º, n.º 2, alínea a), do Regulamento (UE) n.º 182/2011.\n\n(23) É necessário controlar e avaliar a aplicação do presente regulamento. Deverão, por conseguinte, ser adotadas disposições para a recolha de estatísticas e outras informações pelos Estados-Membros e para a elaboração de relatórios periódicos pela Comissão.\n\n(24) Atendendo a que o objetivo do presente regulamento, a saber, a simplificação e o reforço da cooperação administrativa entre Estados-Membros, que exigem uma abordagem harmonizada, não pode ser suficientemente realizado unicamente pelos Estados-Membros e pode, devido à uniformidade e eficácia pretendidas, ser melhor alcançado a nível da União, esta pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aquele objetivo.\n\n(25) O presente regulamento respeita os direitos fundamentais e observa os princípios reconhecidos pela Carta dos Direitos Fundamentais da União Europeia e, em especial, o direito à proteção de dados pessoais (artigo 8.º). Tendo em conta os limites fixados pelo presente regulamento, o tratamento de tais dados efetuado no âmbito do mesmo não vai além do que é necessário e proporcionado para efeitos da proteção dos legítimos interesses fiscais dos Estados-Membros.\n\n(26) Por conseguinte, deverá ser revogado o Regulamento (CE) n.º 2073/2004.\n\n(27) Foi consultada a Autoridade Europeia para a Proteção de Dados que emitiu o seu parecer ([^9^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0009)),\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "3c5890677d5ab992": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Autoridade competente», a autoridade designada nos termos do artigo 3.º, n.º 1;\n\n2) «Autoridade requerente», o serviço central de ligação dos impostos especiais de consumo ou qualquer serviço de ligação ou funcionário competente de um Estado-Membro que solicite assistência em nome da autoridade competente;\n\n3) «Autoridade requerida», o serviço central de ligação dos impostos especiais de consumo de ou qualquer serviço de ligação ou funcionário competente de um Estado-Membro a quem seja dirigido um pedido de assistência em nome da autoridade competente;\n\n4) «Serviço dos impostos especiais de consumo», qualquer serviço em que possam ser cumpridas as formalidades estabelecidas pelas regras relativas aos impostos especiais de consumo;\n\n5) «Troca automática na sequência de um evento», a comunicação sistemática, e sem pedido prévio, de informações sobre um evento de interesse, de acordo com uma estrutura predefinida e à medida que essas informações vão ficando disponíveis, com exceção da troca de informações a que se refere o artigo 21.º da Diretiva 2008/118/CE;\n\n6) «Troca automática regular», a comunicação sistemática, sem pedido prévio, de informações, de acordo com uma estrutura predefinida, realizada a intervalos regulares previamente estabelecidos;\n\n7) «Troca espontânea», a comunicação, sem pedido prévio, de informações não abrangidas pelo artigo 21.º, pontos 5) e 6), da Diretiva 2008/118/CE;\n\n8) «Sistema informatizado», o sistema informatizado de acompanhamento e de controlo da circulação dos produtos sujeitos a impostos especiais de consumo previsto na Decisão n.º 1152/2003/CE do Parlamento Europeu e do Conselho, de 16 de junho de 2003, relativa à informatização dos movimentos e dos controlos dos produtos sujeitos a impostos especiais de consumo ([^10^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0010));\n\n9) «Pessoa», uma pessoa singular, uma pessoa coletiva, qualquer associação de pessoas à qual seja reconhecida, ao abrigo do direito da União ou do direito nacional, capacidade para praticar atos jurídicos, sem ter o estatuto jurídico de pessoa coletiva, ou qualquer outra estrutura jurídica, seja qual for a sua natureza ou forma, dotada ou não de personalidade jurídica;\n\n10) «Operador económico», qualquer pessoa que, no exercício da sua atividade profissional, esteja ligada a atividades abrangidas pela legislação relativa aos impostos especiais de consumo, independentemente de estar ou não autorizada para tal;\n\n11) «Meio eletrónico», a utilização de qualquer tipo de equipamento eletrónico que permita o tratamento (incluindo a transmissão e a compressão) e a armazenagem de dados e que inclua o sistema informatizado definido no ponto 8);\n\n12) «Número de imposto especial de consumo», o número de identificação atribuído pelos Estados-Membros para efeitos de impostos especiais de consumo aos registos dos operadores económicos e dos locais a que se refere o artigo 19.º, n.º 1, alíneas a) e b);\n\n13) «Circulação de produtos sujeitos a impostos especiais de consumo na União», a circulação entre dois ou mais Estados-Membros de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, na aceção do Capítulo IV da Diretiva 2008/118/CE, ou de produtos sujeitos a impostos especiais de consumo após a introdução no consumo, na aceção do Capítulo V, Secção 2, da Diretiva 2008/118/CE;\n\n14) «Inquérito administrativo», os controlos, verificações ou ações realizados pelas autoridades competentes em aplicação da legislação em matéria de impostos especiais de consumo no exercício da sua competência, com o objetivo de assegurar a correta aplicação daquela legislação;\n\n15) «Rede CCN/CSI», a plataforma comum baseada na Rede Comum de Comunicações (CCN) e na Interface Comum de Sistemas (CSI), desenvolvida pela União para assegurar todas as transmissões por via eletrónica entre as autoridades competentes nos domínios aduaneiro e fiscal;\n\n16) «Produtos sujeitos a impostos especiais de consumo», os produtos a que se refere o artigo 1.º, n.º 1, da Diretiva 2008/118/CE;\n\n17) «Documento de assistência mútua administrativa», o documento eletrónico utilizado para trocar informações a título dos artigos 8.º, 15.º ou 16.º e efetuar o acompanhamento nos termos dos artigos 8.º ou 16.º;\n\n18) «Documento de assistência mútua administrativa de substituição», o documento em papel utilizado para trocar informações a título dos artigos 8.º ou 15.º, caso o sistema informatizado não se encontre disponível;\n\n19) «Controlo simultâneo», o controlo coordenado da situação de um operador económico ou de pessoas a ele ligadas no que respeita à legislação relativa aos impostos especiais de consumo, organizado por dois ou mais Estados-Membros participantes com interesses comuns ou complementares."
+  },
+  "0f29204b4a298fab": {
+   "fragment_id": "Artigo 3.º — Autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridades competentes\n\n1. Cada Estado-Membro designa a autoridade competente em cujo nome o presente regulamento deva ser aplicado. Logo que possível, comunica essa designação à Comissão, bem como qualquer alteração posterior da mesma.\n\nAté 1 de julho de 2013, a Croácia notifica à Comissão a sua autoridade competente.\n\n2. A Comissão deve disponibilizar uma lista completa das autoridades competentes e publicar essa informação no *Jornal Oficial da União Europeia.*"
+  },
+  "9e131fdc64202128": {
+   "fragment_id": "Artigo 14.º — Pedido de notificação de decisões e medidas administrativas",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Pedido de notificação de decisões e medidas administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pedido de notificação de decisões e medidas administrativas\n\n1. A pedido da autoridade requerente, a autoridade requerida procede, nos termos das disposições aplicáveis às notificações análogas no respetivo Estado-Membro, à notificação ao destinatário de todas as decisões e medidas tomadas pelas autoridades administrativas do Estado-Membro requerente sobre a aplicação da legislação relativa aos impostos especiais de consumo.\n\n2. Os pedidos de notificação a que se refere o n.º 1 devem mencionar o objeto da decisão ou medida a notificar e indicar o nome, endereço e qualquer outra informação útil para identificar o destinatário.\n\n3. A autoridade requerida informa sem demora a autoridade requerente do seguimento dado ao pedido de notificação a que se refere o n.º 1 e comunica-lhe a data de notificação da decisão ou da medida ao destinatário.\n\n4. Se a autoridade requerida não puder dar seguimento ao pedido de notificação a que se refere o n.º 1, informa desse facto a autoridade requerente, por escrito, no prazo de um mês a contar da data de receção do pedido.\n\nA autoridade requerida não pode recusar-se a dar seguimento a um pedido de notificação com base no conteúdo da decisão ou da medida a notificar.\n\n5. A autoridade requerente só apresenta um pedido de notificação ao abrigo do presente artigo quando não estiver em condições de notificar o destinatário nos termos das disposições que regem a notificação dos instrumentos em causa no Estado-Membro requerente, ou quando tal notificação acarretar dificuldades desproporcionadas.\n\n6. O presente artigo não se aplica aos documentos a que se refere o artigo 8.º da Diretiva 2010/24/UE do Conselho, de 16 de março de 2010, relativa à assistência mútua em matéria de cobrança de créditos respeitantes a impostos, direitos e outras medidas ([^11^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0011))."
+  },
+  "fde94322a40b93a6": {
+   "fragment_id": "Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos fiscais",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos fiscais\n\n1. Cada Estado-Membro deve dispor de uma base de dados eletrónica contendo os seguintes registos:\n\na) Um registo dos operadores económicos pertencentes a uma das seguintes categorias:\n\ni) depositários autorizados, na aceção do artigo 4.º, ponto 1, da Diretiva 2008/118/CE,\n\nii) destinatários registados, na aceção do artigo 4.º, ponto 9, da Diretiva 2008/118/CE,\n\niii) expedidores registados, na aceção do artigo 4.º, ponto 10, da Diretiva 2008/118/CE;\n\nb) Um registo dos locais autorizados como entrepostos fiscais, na aceção do artigo 4.º, ponto 11, da Diretiva 2008/118/CE.\n\n2. Os registos a que se refere o n.º 1 devem conter as seguintes informações:\n\na) O número único de imposto especial de consumo emitido pela autoridade competente para um operador económico ou um local;\n\nb) O nome e o endereço do operador económico ou do local;\n\nc) A categoria do produto sujeito a impostos especiais de consumo (CAT) e/ou o código do produto sujeito a impostos especiais de consumo (EPC) abrangidos pela autorização a que se refere o Anexo II, lista de códigos 11, do Regulamento (CE) n.º 684/2009, de 24 de julho de 2009, que aplica a Diretiva 2008/118/CE do Conselho no que diz respeito aos processos informatizados para a circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto ([^12^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#E0012));\n\nd) A identificação do serviço central de ligação dos impostos especiais de consumo ou do serviço dos impostos especiais de consumo junto do qual possam ser obtidas outras informações;\n\ne) A data a partir da qual a autorização é válida, é alterada e, quando aplicável, deixa de ser válida;\n\nf) Relativamente aos depositários autorizados, o entreposto fiscal ou a lista de entrepostos fiscais a que se aplica a autorização e, se aplicável a título da legislação nacional, a indicação de que estão autorizados a omitir os detalhes do expedidor no momento da expedição e a repartir a circulação nos termos do artigo 23.º da Diretiva 2008/118/CE, ou de que estão autorizados a fazer circular os produtos sujeitos a impostos especiais de consumo para um local de entrega direta, nos termos do artigo 17.º, n.º 2, dessa diretiva;\n\ng) Relativamente aos destinatários, e se aplicável a título da legislação nacional, a indicação de que estão autorizados a fazer circular os produtos sujeitos a impostos especiais de consumo para um local de entrega direta, nos termos do artigo 17.º, n.º 2, da Diretiva 2008/118/CE;\n\nh) Relativamente aos destinatários registados a que se refere o artigo 19.º, n.º 3, da Diretiva 2008/118/CE, mas que não sejam referidos na alínea i) do presente número, os termos da autorização no que diz respeito à quantidade de produtos sujeitos a impostos especiais de consumo, à identidade do expedidor no Estado-Membro de expedição e ao período de validade da autorização;\n\ni) Relativamente aos destinatários registados a que se refere o artigo 19.º, n.º 3, da Diretiva 2008/118/CE, que estejam autorizados a receber vinho de expedidores que beneficiem da derrogação prevista no artigo 40.º da Diretiva 2008/118/CE, os termos da autorização no que diz respeito à quantidade de produtos sujeitos a impostos especiais de consumo e o período de validade da autorização. Deve ser indicada no registo a derrogação concedida a título do artigo 40.º da Diretiva 2008/118/CE;\n\nj) Relativamente aos entrepostos fiscais, o depositário autorizado ou lista de depositários autorizados a utilizar o entreposto fiscal em causa.\n\n3. O serviço central de ligação dos impostos especiais de consumo ou os serviços de ligação dos Estados-Membros devem assegurar que as informações contidas nos registos nacionais estão completas, corretas e atualizadas.\n\n4. As informações contidas em cada registo nacional a que se refere o n.º 2 respeitantes a operadores económicos que efetuem movimentos entre Estados-Membros de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto devem ser trocadas automaticamente através de um registo central.\n\nA Comissão deve gerir o registo enquanto parte do sistema informatizado, de forma a garantir, em qualquer momento, uma panorâmica correta e atualizada do conjunto de dados dos registos nacionais fornecidos pelos Estados-Membros.\n\nOs serviços centrais de ligação dos impostos especiais de consumo ou os serviços de ligação dos Estados-Membros devem comunicar à Comissão, em tempo útil, o conteúdo dos seus registos nacionais, bem como qualquer alteração dos mesmos."
+  },
+  "e5a2155bf3ebaf73": {
+   "fragment_id": "Artigo 39.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de julho de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "8603950425455bb7": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nN.º do artigo do Regulamento (CE) n.º 2073/2004 N.º do artigo do Regulamento (UE) n.º 389/2012\n\n1 1\n\n2 2\n\n3 3, 4, 5, 6\n\n4 7\n\n5 8\n\n6 9\n\n7 7, 10\n\n8 11\n\n9 11\n\n10 11\n\n11 12\n\n12 13\n\n13 13\n\n14 14\n\n15 14\n\n16 14\n\n17 15\n\n18 15\n\n19 16\n\n20 17\n\n21 18\n\n22 19, 20\n\n23 —\n\n24 33\n\n25 21\n\n26 34\n\n27 32\n\n28 9, 15, 16, 22\n\n29 23\n\n30 25, 27, 28\n\n31 28, 29, 32\n\n32 30\n\n33 31\n\n34 35\n\n35 37\n\n36 38\n\n37 39\n\n---"
+  },
+  "d079c1311b2f3cad": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0001)) Parecer de 29 de março de 2012 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0002)) JO C 68 de 6.3.2012, p. 45.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0003)) JO L 359 de 4.12.2004, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0004)) JO L 9 de 14.1.2009, p. 12.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0005)) JO L 162 de 1.7.2003, p. 5.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0006)) JO L 281 de 23.11.1995, p. 31.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0007)) JO L 8 de 12.1.2001, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0008)) JO L 55 de 28.2.2011, p. 13.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0009)) Parecer de 18 de janeiro de 2012.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0010)) JO L 162 de 1.7.2003, p. 5.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0011)) JO L 84 de 31.3.2010, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/c0d2aa9f-9ced-4d12-9e58-179a514cf85a.0018.03/DOC_1#src.E0012)) JO L 197 de 29.7.2009, p. 24."
+  },
+  "5c2a1e88fe979a86": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de maio de 2012\n\nrelativo à cooperação administrativa no domínio dos impostos especiais de consumo e que revoga o Regulamento (CE) n.º 2073/2004"
+  },
+  "1314edbf9f60a8e0": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Autoridade competente», a autoridade designada nos termos do artigo 3.º, n.º 1;\n\n2) «Autoridade requerente», o serviço central de ligação dos impostos especiais de consumo ou qualquer serviço de ligação ou funcionário competente de um Estado-Membro que solicite assistência em nome da autoridade competente;\n\n3) «Autoridade requerida», o serviço central de ligação dos impostos especiais de consumo de ou qualquer serviço de ligação ou funcionário competente de um Estado-Membro a quem seja dirigido um pedido de assistência em nome da autoridade competente;\n\n4) «Serviço dos impostos especiais de consumo», qualquer serviço em que possam ser cumpridas as formalidades estabelecidas pelas regras relativas aos impostos especiais de consumo;\n\n5) «Troca automática na sequência de um evento», a comunicação sistemática, e sem pedido prévio, de informações sobre um evento de interesse, de acordo com uma estrutura predefinida e à medida que essas informações vão ficando disponíveis, com exceção da troca de informações a que se refere o artigo 21.º da Diretiva 2008/118/CE;\n\n6) «Troca automática regular», a comunicação sistemática, sem pedido prévio, de informações, de acordo com uma estrutura predefinida, realizada a intervalos regulares previamente estabelecidos;\n\n7) «Troca espontânea», a comunicação, sem pedido prévio, de informações não abrangidas pelo artigo 21.º, pontos 5) e 6), da Diretiva 2008/118/CE;\n\n8) «Sistema informatizado», o sistema informatizado de acompanhamento e de controlo da circulação dos produtos sujeitos a impostos especiais de consumo previsto na Decisão n.º 1152/2003/CE do Parlamento Europeu e do Conselho, de 16 de junho de 2003, relativa à informatização dos movimentos e dos controlos dos produtos sujeitos a impostos especiais de consumo ([^1^](http://publications.europa.eu/resource/cellar/5299c370-9667-11ed-b508-01aa75ed71a1.0019.02/DOC_2#E0001));\n\n9) «Pessoa», uma pessoa singular, uma pessoa coletiva, qualquer associação de pessoas à qual seja reconhecida, ao abrigo do direito da União ou do direito nacional, capacidade para praticar atos jurídicos, sem ter o estatuto jurídico de pessoa coletiva, ou qualquer outra estrutura jurídica, seja qual for a sua natureza ou forma, dotada ou não de personalidade jurídica;\n\n10) «Operador económico», qualquer pessoa que, no exercício da sua atividade profissional, esteja ligada a atividades abrangidas pela legislação relativa aos impostos especiais de consumo, independentemente de estar ou não autorizada para tal;\n\n11) «Meio eletrónico», a utilização de qualquer tipo de equipamento eletrónico que permita o tratamento (incluindo a transmissão e a compressão) e a armazenagem de dados e que inclua o sistema informatizado definido no ponto 8);\n\n12) «Número de imposto especial de consumo», o número de identificação atribuído pelos Estados-Membros para efeitos de impostos especiais de consumo aos registos dos operadores económicos e dos locais a que se refere o artigo 19.º, n.º 1, alíneas a) e b);\n\n13) «Circulação de produtos sujeitos a impostos especiais de consumo na União», a circulação entre dois ou mais Estados-Membros de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, na aceção do Capítulo IV da Diretiva 2008/118/CE, ou de produtos sujeitos a impostos especiais de consumo após a introdução no consumo, na aceção do Capítulo V, Secção 2, da Diretiva 2008/118/CE;\n\n14) «Inquérito administrativo», os controlos, verificações ou ações realizados pelas autoridades competentes em aplicação da legislação em matéria de impostos especiais de consumo no exercício da sua competência, com o objetivo de assegurar a correta aplicação daquela legislação;\n\n15) «Rede CCN/CSI», a plataforma comum baseada na Rede Comum de Comunicações (CCN) e na Interface Comum de Sistemas (CSI), desenvolvida pela União para assegurar todas as transmissões por via eletrónica entre as autoridades competentes nos domínios aduaneiro e fiscal;\n\n16) «Produtos sujeitos a impostos especiais de consumo», os produtos a que se refere o artigo 1.º, n.º 1, da Diretiva 2008/118/CE;\n\n17) «Documento de assistência mútua administrativa», o documento eletrónico utilizado para trocar informações a título dos artigos 8.º, 15.º ou 16.º e efetuar o acompanhamento nos termos dos artigos 8.º ou 16.º;\n\n18) «Documento de assistência mútua administrativa de substituição», o documento em papel utilizado para trocar informações a título dos artigos 8.º ou 15.º, caso o sistema informatizado não se encontre disponível;\n\n19) «Controlo simultâneo», o controlo coordenado da situação de um operador económico ou de pessoas a ele ligadas no que respeita à legislação relativa aos impostos especiais de consumo, organizado por dois ou mais Estados-Membros participantes com interesses comuns ou complementares."
+  },
+  "d17d1408b3b81c15": {
+   "fragment_id": "Artigo 6.º — Obrigações do serviço central de ligação dos impostos especiais de consumo, dos serviços de ligação e dos funcionários competentes",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações do serviço central de ligação dos impostos especiais de consumo, dos serviços de ligação e dos funcionários competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações do serviço central de ligação dos impostos especiais de consumo, dos serviços de ligação e dos funcionários competentes\n\n1.\n\nO serviço central de ligação dos impostos especiais de consumo tem a responsabilidade principal pela troca de informações sobre a circulação entre Estados-Membros de produtos sujeitos a impostos especiais de consumo e, nomeadamente, a responsabilidade principal pelo seguinte:\n\na) Troca de informações a título do artigo 8.º;\n\nb) Transmissão das notificações de decisões e medidas administrativas solicitadas pelos Estados-Membros a título do artigo 14.º;\n\nc) Troca obrigatória de informações a título do artigo 15.º;\n\nd) Troca facultativa e espontânea de informações a título do artigo 16.º;\n\ne) Apresentação de informação de retorno sobre as ações de acompanhamento a título dos artigos 8.º, n.º 5, e 16.º, n.º 2;\n\nf) Troca de informações armazenadas nas bases de dados eletrónicas previstas no artigo 19.º;\n\ng) Disponibilização de dados estatísticos e de outras informações a título do artigo 34.º.\n\n2. Sempre que um serviço de ligação ou um funcionário competente envie ou receba um pedido de assistência ou uma resposta a um pedido de assistência, deve informar desse facto o serviço central de ligação dos impostos especiais de consumo do seu Estado-Membro nas condições definidas por este último.\n\n3. Sempre que um serviço de ligação ou um funcionário competente receba um pedido de assistência que exija uma ação fora da sua área territorial ou operacional, deve enviar sem demora esse pedido ao serviço central de ligação dos impostos especiais de consumo do seu Estado-Membro e ao funcionário competente do serviço de ligação responsável, informando do facto a autoridade requerente. Nesse caso, os prazos fixados no artigo 11.º começam a correr no dia seguinte ao do envio do pedido de assistência ao serviço central de ligação dos impostos especiais de consumo e ao funcionário competente do serviço de ligação responsável e, o mais tardar, uma semana a contar da data de receção do pedido a que se refere o primeiro período do presente número."
+  },
+  "4268ea286e1603ff": {
+   "fragment_id": "Artigo 9.º — Formulário do pedido e da resposta",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Formulário do pedido e da resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formulário do pedido e da resposta\n\n1. Os pedidos de informação e de inquérito administrativo a título do artigo 8.º e as respostas a esses pedidos são transmitidos por meio do documento de assistência mútua, sob reserva do n.º 4 do presente artigo.\n\nSe o sistema informatizado estiver indisponível, é utilizado o documento de assistência mútua administrativa de substituição em vez do documento de assistência mútua administrativa.\n\n2.\n\nA Comissão adota atos de execução a fim de determinar:\n\na) A estrutura e o conteúdo dos documentos de assistência mútua administrativa;\n\nb) As regras e os procedimentos aplicáveis à troca de documentos de assistência mútua administrativa;\n\nc) O modelo do formulário e o conteúdo do documento de assistência mútua administrativa de substituição;\n\nd) As regras e os procedimentos relativos à utilização do documento de assistência mútua administrativa de substituição.\n\nA Comissão pode também adotar atos de execução para determinar a estrutura e o conteúdo da informação de retorno a que se refere o artigo 8.º, n.º 5.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 35.º, n.º 2.\n\n3. Cada Estado-Membro determina as situações em que o sistema informatizado pode ser considerado indisponível.\n\n4. Nos casos em que a utilização do documento de assistência mútua administrativa não seja viável, a troca de mensagens pode ser efetuada, na sua totalidade ou em parte, por outros meios. Em tais casos, a mensagem deve ser acompanhada das razões que determinaram a inviabilidade da utilização do documento de assistência mútua administrativa."
+  },
+  "4c6f049b3258225b": {
+   "fragment_id": "Artigo 14.º — Pedido de notificação de decisões e medidas administrativas",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Pedido de notificação de decisões e medidas administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pedido de notificação de decisões e medidas administrativas\n\n1. A pedido da autoridade requerente, a autoridade requerida procede, nos termos das disposições aplicáveis às notificações análogas no respetivo Estado-Membro, à notificação ao destinatário de todas as decisões e medidas tomadas pelas autoridades administrativas do Estado-Membro requerente sobre a aplicação da legislação relativa aos impostos especiais de consumo.\n\n2. Os pedidos de notificação a que se refere o n.º 1 devem mencionar o objeto da decisão ou medida a notificar e indicar o nome, endereço e qualquer outra informação útil para identificar o destinatário.\n\n3. A autoridade requerida informa sem demora a autoridade requerente do seguimento dado ao pedido de notificação a que se refere o n.º 1 e comunica-lhe a data de notificação da decisão ou da medida ao destinatário.\n\n4. Se a autoridade requerida não puder dar seguimento ao pedido de notificação a que se refere o n.º 1, informa desse facto a autoridade requerente, por escrito, no prazo de um mês a contar da data de receção do pedido.\n\nA autoridade requerida não pode recusar-se a dar seguimento a um pedido de notificação com base no conteúdo da decisão ou da medida a notificar.\n\n5. A autoridade requerente só apresenta um pedido de notificação ao abrigo do presente artigo quando não estiver em condições de notificar o destinatário nos termos das disposições que regem a notificação dos instrumentos em causa no Estado-Membro requerente, ou quando tal notificação acarretar dificuldades desproporcionadas.\n\n6. O presente artigo não se aplica aos documentos a que se refere o artigo 8.º da Diretiva 2010/24/UE do Conselho, de 16 de março de 2010, relativa à assistência mútua em matéria de cobrança de créditos respeitantes a impostos, direitos e outras medidas ([^2^](http://publications.europa.eu/resource/cellar/5299c370-9667-11ed-b508-01aa75ed71a1.0019.02/DOC_2#E0002))."
+  },
+  "2736a4610b7084f1": {
+   "fragment_id": "Artigo 15.º — Troca obrigatória de informações",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Troca obrigatória de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Troca obrigatória de informações\n\n1.\n\nA autoridade competente de cada Estado-Membro comunica, sem pedido prévio, por meio da troca automática regular ou na sequência de um evento, as informações necessárias à correta aplicação da legislação relativa aos impostos especiais de consumo às autoridades competentes de todos os outros Estados-Membros interessados, nos seguintes casos:\n\na) Sempre que tenha sido cometida ou existam suspeitas de que terá sido cometida uma irregularidade ou uma infração à legislação relativa aos impostos especiais de consumo noutro Estado-Membro;\n\nb) Sempre que tenha sido cometida ou existam suspeitas de que terá sido cometida uma irregularidade ou uma infração à legislação relativa aos impostos especiais de consumo no território de um Estado-Membro que possa ter repercussões noutro Estado-Membro;\n\nc) Sempre que exista um risco de fraude ou perda de impostos especiais de consumo noutro Estado-Membro;\n\nd) Sempre que tenha ocorrido a inutilização total ou a perda irremediável dos produtos sujeitos a impostos especiais de consumo;\n\ne) Sempre que se verifique um evento excecional durante a circulação de produtos sujeitos a impostos especiais de consumo na União que não esteja previsto nas disposições da Diretiva 2008/118/CE e que possa afetar o cálculo dos impostos especiais de consumo devidos por um operador económico.\n\n2. Qualquer autoridade que transmita informações a outra autoridade a título do n.º 1 pode solicitar a essa autoridade que apresente a informação de retorno sobre as medidas de acompanhamento por ela adotadas com base nas informações prestadas. Nesse caso, e sem prejuízo das regras em matéria de confidencialidade e de proteção de dados aplicáveis no respetivo Estado-Membro, a outra autoridade deve enviar a informação de retorno mais rapidamente possível e desde que tal não implique encargos administrativos desproporcionados.\n\n3. Caso as informações a que se refere o n.º 1 digam respeito à circulação de produtos sujeitos a impostos especiais de consumo na União, devem ser enviadas através de um documento de assistência mútua administrativa, sob reserva do disposto no n.º 4.\n\nNo entanto, se a utilização do referido documento não for viável, a troca de mensagens pode ser excecionalmente efetuada, na sua totalidade ou em parte, por outros meios. Em tais casos, a mensagem deve ser acompanhada das razões que determinaram a inviabilidade da utilização do documento de assistência mútua administrativa.\n\n4. Se o sistema informatizado estiver indisponível, é utilizado o documento de assistência mútua administrativa de substituição em vez do documento a que se refere o n.º 3.\n\n5.\n\nA Comissão adota atos de execução a fim de determinar:\n\na) As categorias exatas das informações objeto de troca a título do n.º 1, que devam incluir, para as pessoas singulares, dados tais como o nome, apelido, rua e número, código postal, cidade, Estado-Membro, número de identificação fiscal ou outro número de identificação, código ou descrição do produto e outros dados pessoais conexos, quando disponíveis;\n\nb) A frequência da troca regular e os prazos da troca na sequência de um evento para cada categoria de informações a que se refere o n.º 1;\n\nc) A estrutura e o conteúdo dos documentos de assistência mútua administrativa;\n\nd) A forma e o conteúdo do documento de assistência mútua administrativa de substituição;\n\ne) As regras e os procedimentos aplicáveis à troca dos documentos a que se referem as alíneas c) e d).\n\nAlém disso, a Comissão pode adotar atos de execução para determinar os casos em que as autoridades competentes podem considerar o sistema informatizado indisponível para efeitos do n.º 4 do presente artigo.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 35.º, n.º 2."
+  },
+  "7fbd46d15dcf8f8b": {
+   "fragment_id": "Artigo 16.º — Troca facultativa de informações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Troca facultativa de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Troca facultativa de informações\n\n1. As autoridades competentes dos Estados-Membros podem trocar sem pedido prévio e de forma espontânea todas as informações necessárias para assegurar a correta aplicação da legislação relativa aos impostos especiais de consumo de que tenham conhecimento e que não estejam abrangidas pelo artigo 15.º.\n\nPara o efeito, podem utilizar o sistema informatizado desde que este tenha capacidade para tratar essa informação.\n\n2. Qualquer autoridade que transmita informações a outra autoridade a título do n.º 1 pode solicitar a essa autoridade que apresente a informação de retorno sobre as medidas de acompanhamento por ela adotadas com base nas informações prestadas. Nesse caso, e sem prejuízo das regras em matéria de confidencialidade e de proteção de dados aplicáveis no respetivo Estado-Membro, a outra autoridade deve enviar essa informação de retorno o mais rapidamente possível e desde que tal não implique encargos administrativos desproporcionados.\n\n3.\n\nA Comissão adota atos de execução a fim de determinar:\n\na) A estrutura e o conteúdo dos documentos de assistência mútua administrativa destinados a cobrir os tipos de informação mais comuns a que se refere o n.º 1;\n\nb) As regras e os procedimentos aplicáveis à troca dos documentos de assistência mútua administrativa.\n\nA Comissão pode adotar atos de execução para determinar a estrutura e o conteúdo da informação de retorno a que se refere o n.º 2.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 35.º, n.º 2."
+  },
+  "6ea9f04becc406f5": {
+   "fragment_id": "Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos fiscais",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Armazenagem e troca de informações sobre as autorizações relativas a operadores económicos e entrepostos fiscais\n\n1.\n\nCada Estado-Membro deve dispor de uma base de dados eletrónica contendo os seguintes registos:\n\na) Um registo dos operadores económicos pertencentes a uma das seguintes categorias:\n\ni) depositários autorizados, na aceção do artigo 4.º, ponto 1, da Diretiva 2008/118/CE,\n\nii) destinatários registados, na aceção do artigo 4.º, ponto 9, da Diretiva 2008/118/CE,\n\niii) expedidores registados, na aceção do artigo 4.º, ponto 10, da Diretiva 2008/118/CE,\n\niv) expedidores certificados, na aceção do artigo 3.º, ponto 12, da Diretiva (UE) 2020/262 ([^3^](http://publications.europa.eu/resource/cellar/5299c370-9667-11ed-b508-01aa75ed71a1.0019.02/DOC_2#E0003)),\n\nv) destinatários certificados, na aceção do artigo 3.º, ponto 13, da Diretiva (UE) 2020/262;\n\nb) Um registo dos locais autorizados como entrepostos fiscais, na aceção do artigo 4.º, ponto 11, da Diretiva 2008/118/CE.\n\n2.\n\nOs registos a que se refere o n.º 1 devem conter as seguintes informações:\n\na) O número único de imposto especial de consumo emitido pela autoridade competente para um operador económico ou um local;\n\nb) O nome e o endereço do operador económico ou do local;\n\nc) A categoria do produto sujeito a impostos especiais de consumo (CAT) e/ou o código do produto sujeito a impostos especiais de consumo (EPC) dos produtos abrangidos pela autorização a que se refere o anexo II, lista de códigos 10, do Regulamento Delegado (UE) 2022/1636 da Comissão ([^4^](http://publications.europa.eu/resource/cellar/5299c370-9667-11ed-b508-01aa75ed71a1.0019.02/DOC_2#E0004));\n\nd) A identificação do serviço central de ligação dos impostos especiais de consumo ou do serviço dos impostos especiais de consumo junto do qual possam ser obtidas outras informações;\n\ne) A data a partir da qual a autorização é válida, é alterada e, quando aplicável, deixa de ser válida;\n\nf) Relativamente aos depositários autorizados, o entreposto fiscal ou a lista de entrepostos fiscais a que se aplica a autorização e, se aplicável a título da legislação nacional, a indicação de que estão autorizados a omitir os dados respeitantes ao destinatário no momento da expedição nos termos do artigo 22.º da Diretiva (UE) 2020/262, a repartir a circulação nos termos do artigo 23.º dessa diretiva ou a fazer circular os produtos sujeitos a impostos especiais de consumo para um local de entrega direta nos termos do artigo 16.º, n.º 4, dessa diretiva, e a indicação de que estão a atuar na qualidade de expedidor certificado ou de destinatário certificado, nos termos do artigo 35.º, n.^os^ 6 e 7, dessa diretiva;\n\ng) Relativamente aos destinatários registados, e se aplicável a título da legislação nacional, a indicação de que estão autorizados a fazer circular os produtos sujeitos a impostos especiais de consumo para um local de entrega direta nos termos do artigo 16.º, n.º 4, da Diretiva (UE) 2020/262, bem como a indicação de que estão a atuar na qualidade de destinatário certificado, nos termos do artigo 35.º, n.º 7, dessa diretiva;\n\nh) Relativamente aos destinatários registados a que se refere o artigo 19.º, n.º 3, da Diretiva 2008/118/CE, mas que não sejam referidos na alínea i) do presente número, os termos da autorização no que diz respeito à quantidade de produtos sujeitos a impostos especiais de consumo, à identidade do expedidor no Estado-Membro de expedição e ao período de validade da autorização;\n\ni) Relativamente aos destinatários registados a que se refere o artigo 19.º, n.º 3, da Diretiva 2008/118/CE, que estejam autorizados a receber vinho de expedidores que beneficiem da derrogação prevista no artigo 40.º da Diretiva 2008/118/CE, os termos da autorização no que diz respeito à quantidade de produtos sujeitos a impostos especiais de consumo e o período de validade da autorização. Deve ser indicada no registo a derrogação concedida a título do artigo 40.º da Diretiva 2008/118/CE;\n\nj) Relativamente aos entrepostos fiscais, o depositário autorizado ou lista de depositários autorizados a utilizar o entreposto fiscal em causa;\n\nk) Relativamente aos expedidores registados, a indicação de que estão autorizados a omitir os dados respeitantes ao destinatário no momento da expedição nos termos do artigo 22.º da Diretiva (UE) 2020/262, bem como a indicação de que estão a atuar na qualidade de expedidor certificado, nos termos do artigo 35.º, n.º 6, dessa diretiva;\n\nl) relativamente aos expedidores certificados que apenas ocasionalmente enviem produtos sujeitos a impostos especiais de consumo referidos no artigo 35.º, n.º 8, da Diretiva (UE) 2020/262, a quantidade de produtos sujeitos a impostos especiais de consumo, a identidade do destinatário no Estado-Membro de destino e o período de validade da certificação temporária;\n\nm) relativamente aos destinatários certificados que apenas ocasionalmente recebam produtos sujeitos a impostos especiais de consumo referidos no artigo 35.º, n.º 8, da Diretiva (UE) 2020/262, a quantidade de produtos sujeitos a impostos especiais de consumo, a identidade do expedidor no Estado-Membro de expedição e o período de validade da certificação temporária.\n\n3. O serviço central de ligação dos impostos especiais de consumo ou os serviços de ligação dos Estados-Membros devem assegurar que as informações contidas nos registos nacionais estão completas, corretas e atualizadas.\n\n4. [**►M4**](http://publications.europa.eu/resource/celex/32023R0246) As informações contidas em cada registo nacional a que se refere o n.º 2 respeitantes a operadores económicos envolvidos na circulação de produtos sujeitos a impostos especiais de consumo a que se referem o capítulo IV e o capítulo V, secção 2, da Diretiva (UE) 2020/262 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/5299c370-9667-11ed-b508-01aa75ed71a1.0019.02/DOC_2#E0005)) devem ser trocadas automaticamente através de um registo central.**◄**\n\nA Comissão deve gerir o registo enquanto parte do sistema informatizado, de forma a garantir, em qualquer momento, uma panorâmica correta e atualizada do conjunto de dados dos registos nacionais fornecidos pelos Estados-Membros.\n\nOs serviços centrais de ligação dos impostos especiais de consumo ou os serviços de ligação dos Estados-Membros devem comunicar à Comissão, em tempo útil, o conteúdo dos seus registos nacionais, bem como qualquer alteração dos mesmos."
+  },
+  "5aa6a740be63260f": {
+   "fragment_id": "Artigo 20.º — Acesso à informação e retificação dos dados",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Acesso à informação e retificação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acesso à informação e retificação dos dados\n\n1. [**►M4**](http://publications.europa.eu/resource/celex/32023R0246) A Comissão deve garantir que as pessoas envolvidas na circulação de produtos sujeitos a impostos especiais de consumo a que se referem o capítulo IV e o capítulo V, secção 2, da Diretiva (UE) 2020/262 podem receber uma confirmação por via eletrónica da validade do número de imposto especial de consumo inscrito no registo central a que se refere o artigo 19.º, n.º 4. do presente regulamento.**◄** A Comissão deve transmitir todos os pedidos de retificação dessa informação emanados dos operadores económicos ao serviço central de ligação dos impostos especiais de consumo ou ao serviço de ligação responsável pela autorização desse operador económico.\n\n2. Os serviços centrais de ligação dos impostos especiais de consumo ou os serviços de ligação dos Estados-Membros devem garantir que os operadores económicos podem obter confirmação das informações que lhes digam respeito, a título do artigo 19.º, n.º 2, e solicitar a retificação de eventuais imprecisões.\n\n3. A autoridade competente de um Estado-Membro pode autorizar, nas condições fixadas por esse Estado-Membro, o serviço central de ligação dos impostos especiais de consumo ou os serviços de ligação designados a comunicarem a confirmação das informações detidas a título do artigo 19.º, n.º 2."
+  },
+  "30fbfe4d3f9b2ab8": {
+   "fragment_id": "Artigo 25.º — Limites gerais das obrigações da autoridade requerida",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Limites gerais das obrigações da autoridade requerida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Limites gerais das obrigações da autoridade requerida\n\n1.\n\nA autoridade requerida comunica à autoridade requerente as informações solicitadas nos termos do presente regulamento, desde que:\n\na) A autoridade requerente tenha esgotado as fontes habituais de informação a que, segundo as circunstâncias, teria podido recorrer para obter as informações solicitadas sem correr o risco de prejudicar a obtenção do resultado pretendido; e\n\nb) O número e a natureza dos pedidos de informação apresentados por essa autoridade requerente em determinado período não imponham encargos administrativos desproporcionados à autoridade requerida.\n\n2. O presente regulamento não impõe às autoridades competentes de um Estado-Membro qualquer obrigação de realização de inquéritos ou de prestação de informações quando a legislação ou a prática administrativa desse Estado-Membro não autorizar as autoridades a efetuarem esses inquéritos ou a recolherem ou utilizarem essas informações para as próprias necessidades do Estado-Membro em causa.\n\n3. A autoridade competente de um Estado-Membro pode recusar facultar informações quando o Estado-Membro requerente não puder, por razões legais, prestar informações similares.\n\n4. A prestação de informações pode ser recusada caso conduza à divulgação de um segredo comercial, industrial ou profissional ou de um processo comercial ou ainda de uma informação cuja divulgação seja contrária à ordem pública.\n\n5. A autoridade requerida informa a autoridade requerente dos motivos que obstam a que o pedido de assistência seja satisfeito. Para efeitos estatísticos, as autoridades competentes informam anualmente a Comissão, das categorias de motivos que fundamentam tais recusas.\n\n6. O disposto nos n.^os^ 2, 3 ou 4, não pode, em caso algum, ser interpretado no sentido de autorizar a autoridade requerida a não prestar informações apenas pelo facto de as informações em causa estarem na posse de uma instituição bancária, de outra instituição financeira, de uma pessoa designada ou atuando na qualidade de agente ou de fiduciário ou pelo facto de estarem relacionadas com uma participação no capital de uma pessoa."
+  },
+  "98c5212dff4a09b0": {
+   "fragment_id": "Artigo 28.º — Sigilo profissional, proteção dos dados e utilização das informações comunicadas ao abrigo do presente regulamento",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Sigilo profissional, proteção dos dados e utilização das informações comunicadas ao abrigo do presente regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Sigilo profissional, proteção dos dados e utilização das informações comunicadas ao abrigo do presente regulamento\n\n1. As informações comunicadas ou recolhidas pelos Estados-Membros ao abrigo do presente regulamento ou quaisquer informações a que um funcionário ou outro agente ou contratante tenha tido acesso no exercício das suas funções estão sujeitas ao sigilo profissional e beneficiam da proteção concedida a informações da mesma natureza pela legislação nacional do Estado-Membro que recebe essas informações.\n\n2.\n\nAs informações a que se refere o n.º 1 podem ser utilizadas para os seguintes fins:\n\na) Determinação da base tributável dos impostos especiais de consumo;\n\nb) Cobrança ou controlo administrativo dos impostos especiais de consumo;\n\nc) Controlo da circulação de produtos sujeitos a impostos especiais de consumo;\n\nd) Análise de risco no domínio dos impostos especiais de consumo;\n\ne) Inquéritos no domínio dos impostos especiais de consumo;\n\nf) Estabelecimento de outros impostos, direitos e imposições abrangidos pelo artigo 2.º da Diretiva 2010/24/UE.\n\nNo entanto, a autoridade competente do Estado-Membro que presta as informações autoriza a sua utilização para outros fins no Estado-Membro da autoridade requerente, se a legislação do Estado-Membro da autoridade requerida autorizar a utilização dessas informações para fins semelhantes nesse Estado-Membro.\n\nNa medida em que a legislação nacional o permita, e sem prejuízo do artigo 1.º, n.º 2, as informações a que se refere o n.º 1 do presente artigo podem ser utilizadas em processos administrativos ou judiciais que possam acarretar sanções, instaurados na sequência de infrações à legislação fiscal, sem prejuízo das regras que regem os direitos dos arguidos e das testemunhas em processos dessa natureza.\n\n3. Se a autoridade requerente considerar que as informações que recebeu da autoridade requerida podem ser úteis à autoridade competente de outro Estado-Membro, pode transmitir-lhe essas informações, informando do facto a autoridade requerida.\n\nA autoridade requerida pode sujeitar a transmissão de informações a outro Estado-Membro ao seu consentimento prévio.\n\n4. Qualquer tratamento de dados pessoais pelos Estados-Membros previsto no presente regulamento fica sujeito às disposições nacionais de execução da Diretiva 95/46/CE.\n\nPara efeitos da correta aplicação do presente regulamento, os Estados-Membros devem limitar o âmbito das obrigações e dos direitos previstos nos artigos 10.º, 11.º, n.º 1, 12.º e 21.º da Diretiva 95/46/CE na medida em que tal seja necessário para salvaguardar os interesses a que se refere o artigo 13.º, n.º 1, alínea e), dessa diretiva. Essas limitações devem ser proporcionais ao interesse em questão."
+  },
+  "3af22e531d5a9529": {
+   "fragment_id": "Artigo 31.º — Obrigação de cooperação",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Obrigação de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Obrigação de cooperação\n\n1.\n\nPara efeitos da aplicação do presente regulamento, os Estados-Membros tomam todas as medidas necessárias para:\n\na) Assegurar uma boa coordenação interna entre as autoridades competentes a que se referem os artigos 3.º a 5.º;\n\nb) Estabelecer uma cooperação direta entre as autoridades autorizadas para efeitos da coordenação a que se refere a alínea a) do presente número;\n\nc) Assegurar o bom funcionamento do sistema de troca de informações previsto no presente regulamento.\n\n2. A Comissão comunica o mais rapidamente possível à autoridade competente de cada Estado-Membro as informações necessárias para assegurar a correta aplicação da legislação relativa aos impostos especiais de consumo que receba e esteja em condições de prestar."
+  },
+  "7529459f117e8504": {
+   "fragment_id": "Artigo 34.º — Avaliação das disposições, recolha de estatísticas operacionais e apresentação de relatórios",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Avaliação das disposições, recolha de estatísticas operacionais e apresentação de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Avaliação das disposições, recolha de estatísticas operacionais e apresentação de relatórios\n\n1. Os Estados-Membros e a Comissão devem analisar e avaliar a aplicação do presente regulamento. Para o efeito, a Comissão apresenta regularmente um resumo da experiência dos Estados-Membros, com o objetivo de melhorar o funcionamento do sistema estabelecido pelo presente regulamento.\n\n2.\n\nOs Estados-Membros comunicam à Comissão as seguintes informações:\n\na) Todas as informações disponíveis relevantes sobre a sua experiência no que se refere à aplicação do presente regulamento, incluindo todos os dados estatísticos necessários para a sua avaliação;\n\nb) Todas as informações disponíveis sobre os métodos ou práticas utilizados ou que se presuma terem sido utilizados para infringir a legislação relativa aos impostos especiais de consumo, sempre que esses métodos ou práticas revelem insuficiências ou lacunas na aplicação dos procedimentos previstos no presente regulamento.\n\nA fim de avaliar a eficácia deste sistema de cooperação administrativa no que diz respeito à aplicação efetiva da legislação relativa aos impostos especiais de consumo e no combate à evasão e à fraude no domínio dos impostos especiais de consumo, os Estados-Membros podem comunicar à Comissão qualquer outra informação disponível além das informações a que se refere o primeiro parágrafo.\n\nA Comissão transmite as informações comunicadas pelos Estados-Membros aos outros Estados-Membros em causa.\n\nA obrigação de comunicar informações e dados estatísticos não pode justificar um aumento injustificado dos encargos administrativos.\n\n3. A Comissão pode extrair informações diretamente das mensagens transmitidas pelo sistema informatizado, para efeitos estatísticos e de diagnóstico, sob reserva do artigo 28.º.\n\n4. As informações comunicadas pelos Estados-Membros ou extraídas pela Comissão para efeitos dos n.^os^ 1 a 3 não devem conter dados de caráter individual ou pessoal.\n\n5. A Comissão adota atos de execução a fim de determinar, para efeitos da execução do presente artigo, os dados estatísticos relevantes comunicados pelos Estados-Membros, as informações que podem ser extraídas pela Comissão e os relatórios estatísticos a elaborar pela Comissão e pelos Estados-Membros.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 35.º, n.º 2."
+  },
+  "59b41e98e29a7d6b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5299c370-9667-11ed-b508-01aa75ed71a1.0019.02/DOC_2#src.E0001)) JO L 162 de 1.7.2003, p. 5.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5299c370-9667-11ed-b508-01aa75ed71a1.0019.02/DOC_2#src.E0002)) JO L 84 de 31.3.2010, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5299c370-9667-11ed-b508-01aa75ed71a1.0019.02/DOC_2#src.E0003)) Diretiva (UE) 2020/262 do Conselho, de 19 de dezembro de 2019, que estabelece o regime geral dos impostos especiais de consumo (JO L 58 de 27.2.2020, p. 4.).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5299c370-9667-11ed-b508-01aa75ed71a1.0019.02/DOC_2#src.E0004)) Regulamento Delegado (UE) 2022/1636 da Comissão, de 5 de julho de 2022, que complementa a Diretiva (UE) 2020/262 do Conselho ao estabelecer a estrutura e o conteúdo dos documentos trocados no contexto da circulação de produtos sujeitos a impostos especiais de consumo e ao estabelecer limiares para as perdas devidas à natureza dos produtos (JO L 247 de 23.9.2022, p. 2).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5299c370-9667-11ed-b508-01aa75ed71a1.0019.02/DOC_2#src.E0005)) Diretiva (UE) 2020/262 do Conselho, de 19 de dezembro de 2019, que estabelece o regime geral dos impostos especiais de consumo (JO L 58 de 27.2.2020, p. 4.).**◄**"
+  }
+ }
+}

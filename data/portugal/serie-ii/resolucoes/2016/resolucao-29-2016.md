@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:75519508:por
+title: Resolução n.º 29/2016
+short_title: null
+summary: Designa o presidente e o vice-presidente do Conselho Nacional de Saúde
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 29/2016
+official_date: null
+publication_date: '2016-10-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 198/2016, Série II de 2016-10-14
+  number: '198'
+  series: II
+  supplement: null
+  pages: 30611 - 30611
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/10/198000000/3061130611.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '75519508'
+  dre_path: /dr/detalhe/resolucao/29-2016-75519508
+  internal: pt:dre:75519508:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/29-2016-75519508
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/29-2016-75519508
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4871d0f4e4a818f5cef8b327373e96d1319455fca24c2607c8c3e9e2eb4e3552
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Nacional de Saúde
+- Nomeação
+- Presidente
+- Vice-presidente
+relationships:
+- type: cites
+  target: pt:dre:75170443:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:15:54Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 29/2016
+
+Embora legalmente previsto há mais de 25 anos na Lei de Bases da Saúde e ao longo das várias leis orgânicas do Ministério da Saúde, só com a publicação do [Decreto-Lei n.º 49/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2016-75170443), de 23 de agosto, veio a ser estabelecido o regime jurídico do Conselho Nacional de Saúde (CNS).
+
+Trata-se de um órgão consultivo do Governo, independente, composto por 30 membros, representativo dos interessados no funcionamento das entidades prestadoras de cuidados de saúde que vai não só garantir a participação das várias forças científicas, sociais, culturais e económicas na procura de consensos alargados relativamente à política de saúde, como garantir a participação dos cidadãos utilizadores do Serviço Nacional de Saúde, tendo em vista a promoção de uma cultura de transparência e prestação de contas perante a sociedade.
+
+Atendendo que, nos termos da alínea a) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 49/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2016-75170443), de 23 de agosto, o presidente e o vice-presidente do CNS são designados pelo Conselho de Ministros, sob proposta do membro do Governo responsável pela área da saúde.
+
+Atendendo que, nos termos do n.º 1 do artigo 6.º do [Decreto-Lei n.º 49/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2016-75170443), de 23 de agosto, os membros do CNS exercem funções por um período de quatro anos não renovável.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 5.º e do n.º 1 do artigo 6.º do [Decreto-Lei n.º 49/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2016-75170443), de 23 de agosto, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, por um período de quatro anos, não renovável, sob proposta do Ministro da Saúde, Jorge Manuel Trigo de Almeida Simões e Maria do Céu Lourinho Soares Machado, respetivamente para os cargos de presidente e de vice-presidente do Conselho Nacional de Saúde, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Determinar que a presente resolução produz efeitos a partir da data da sua publicação.
+
+15 de setembro de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — Notas curriculares
+
+Jorge Manuel Trigo de Almeida Simões
+
+Habilitações Profissionais
+
+Licenciado em Direito pela Faculdade de Direito da Universidade de Coimbra, diplomado em Administração Hospitalar pela Escola Nacional de Saúde Pública, diplomado em Estudos Europeus pela Faculdade de Direito da Universidade de Coimbra, diplomado em Application of Industrial Engineering Techniques to Hospital Management, pelo Health Policy Institute, da Universidade de Boston (EUA), doutorado em Ciências da Saúde pela Universidade de Aveiro, agregado (provas de agregação) no ramo de Ciências da Saúde, na Universidade de Aveiro.
+
+Atividade Profissional
+
+É professor catedrático convidado no Instituto de Higiene e Medicina Tropical da Universidade Nova de Lisboa, onde leciona sobre Análise de Sistemas de Saúde; Planeamento e Gestão em Saúde; Sistemas de Saúde em Diferentes Níveis de Desenvolvimento; Economia da Saúde; Politicas, Planeamento e Estratégia em Saúde; Regulação em Saúde.
+
+É, também, professor catedrático convidado na Universidade de Aveiro.
+
+Reconhecimento Externo
+
+Foi presidente do conselho de administração da Entidade Reguladora da Saúde, entre 2010 e 2016; foi um dos dois coordenadores nacionais do Plano Nacional de Saúde, em 2009-2010; foi o coordenador da Equipa de Análise Estratégica sobre o processo de criação e desenvolvimento das parcerias público privadas nos hospitais, em 2008-2009; foi presidente da Comissão para a Sustentabilidade do Financiamento do Serviço Nacional de Saúde, em 2006-2007; foi Consultor para os Assuntos da Saúde, durante os dois mandatos do Presidente da República Dr. Jorge Sampaio, entre 1996 e 2006.
+
+Publicou cinco livros sobre políticas de saúde, coordenou a edição de sete livros, publicou dezoito capítulos de livros e dezenas de artigos em revistas.
+
+Recebeu do Presidente da República a Grã-Cruz da Ordem do Infante D. Henrique.
+
+Maria do Céu Lourinho Soares Machado é Professora Catedrática da Faculdade de Medicina da Universidade de Lisboa (FMUL), Diretora do Departamento de Pediatria do Hospital Santa Maria (Centro Hospitalar Lisboa Norte/CHLN), Membro do Conselho de Escola da Faculdade de Medicina de Lisboa, Membro do Conselho da Universidade de Évora, Vice-Presidente da Academia Portuguesa de Medicina, Vice-presidente da European Federation of the Academies of Medicine, Vogal do Conselho de Diagnóstico Precoce, Professora Convidada de Políticas de Saúde do Instituto Superior de Ciências Sociais e Políticas. Perita da Direção Geral de Saúde para o Plano Nacional de Saúde, Comissária do Projeto Saúde e Bem-estar da Criança da Fundação Calouste Gulbenkian, Presidente da Associação para as Crianças de Santa Maria e Presidente da Associação de Amigos do Hospital Santa Maria, Membro do Conselho Social da Universidade Lusíada e do Conselho Consultivo da SERES.
+
+Foi Alta Comissária para a Saúde (2006-2011), Membro do Conselho Científico da FMUL (2011-2015), Diretora Clínica do CHLN (2013-2014) e do Hospital Fernando Fonseca (2005-2006), Presidente do Conselho Geral da Universidade de Évora (2010-2012), Presidente da Comissão de Saúde da Criança e Adolescente (2004-2009). Integrou o grupo da Health Platform da Fundação Calouste Gulbenkian (2012-2014), a Comissão para a Natalidade (2014) e a Agenda Criança (2012). Foi Presidente do Colégio de Pediatria (1994-1995), Presidente da Distrital de Lisboa da Ordem dos Médicos (1996-1998). Tem Competência em Gestão pela Ordem dos Médicos (2002).
+
+Teve 8 Bolsas de Investigação (3 da Fundação para a Ciência e Tecnologia), 2 Prémios Bial de Medicina Clínica (2002 e 2006), Prémio de Qualidade Amélia de Mello (2005). Tem 153 artigos publicados, 4 livros e 626 comunicações científicas.
+
+Foi agraciada como Grande Oficial da Ordem de Mérito (2010) e Medalha de Ouro do Ministério da Saúde (2012).
+
+209929535

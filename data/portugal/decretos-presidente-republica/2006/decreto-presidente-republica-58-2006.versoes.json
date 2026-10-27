@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:345302:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2006-979328551",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/58-2006-345302",
+ "source_lastmod": "2026-06-01",
+ "versions": [
+  {
+   "date": "2006-06-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1127910175",
+    "981635075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1127910175": {
+   "fragment_id": "981634775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:\n\nÉ ratificada a revisão dos Estatutos da Comunidade dos Países de Língua Portuguesa (CPLP), adoptada pelo Conselho de Ministros da CPLP na sua VII Reunião Ordinária, realizada em Brasília em 30 de Julho de 2002, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 47/2006, em 20 de Abril de 2006."
+  },
+  "981635075": {
+   "fragment_id": "981634975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinado em 1 de Junho de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 6 de Junho de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

@@ -1,0 +1,382 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:558978:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-73610581",
+ "dre_path": "/dr/detalhe/decreto-lei/228-2000-558978",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-09-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "73610402",
+    "73610403",
+    "73610404",
+    "73610405",
+    "73610406",
+    "73610407",
+    "73610408",
+    "73610409",
+    "73610410",
+    "73610411",
+    "73610412",
+    "73610413"
+   ]
+  },
+  {
+   "date": "2008-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:626446:por",
+     "title": "Decreto-Lei n.º 211-A/2008",
+     "published": "2008-11-03",
+     "dre_path": "/dr/detalhe/decreto-lei/211-a-2008-626446"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "73610402",
+    "73610403",
+    "73610434",
+    "73610405",
+    "73610406",
+    "73610407",
+    "73610408",
+    "73610435",
+    "73610436",
+    "73610411",
+    "73610412",
+    "73610413",
+    "73610414"
+   ]
+  },
+  {
+   "date": "2013-10-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:503035:por",
+     "title": "Decreto-Lei n.º 143/2013",
+     "published": "2013-10-18",
+     "dre_path": "/dr/detalhe/decreto-lei/143-2013-503035"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "73610402",
+    "73610403",
+    "73610437",
+    "73610438",
+    "73610439",
+    "73610445",
+    "73610440",
+    "73610441",
+    "73610442",
+    "73610443",
+    "73610444",
+    "73610413",
+    "73610414"
+   ]
+  },
+  {
+   "date": "2015-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70139954:por",
+     "title": "Lei n.º 118/2015",
+     "published": "2015-08-31",
+     "dre_path": "/dr/detalhe/lei/118-2015-70139954"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "73610402",
+    "73610403",
+    "73610446",
+    "73610438",
+    "73610447",
+    "73610445",
+    "73610440",
+    "73610441",
+    "73610442",
+    "73610443",
+    "73610444",
+    "73610413",
+    "73610414"
+   ]
+  }
+ ],
+ "fragments": {
+  "73610402": {
+   "fragment_id": "73610582",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 228/2000\n\nde 23 de Setembro\n\nA supervisão do sistema financeiro nacional cabe a três autoridades distintas e independentes entre si, o Banco de Portugal (BP), a Comissão do Mercado de Valores Mobiliários (CMVM) e o Instituto de Seguros de Portugal (ISP).\n\nA eliminação das fronteiras entre os diversos sectores da actividade financeira, de que os conglomerados financeiros são corolário, reforça a necessidade de as diversas autoridades de supervisão estreitarem a respectiva cooperação, criarem canais eficientes de comunicação de informações relevantes e coordenarem a sua actuação com o objectivo de eliminar, designadamente, conflitos de competência, lacunas de regulamentação, múltipla utilização de recursos próprios.\n\nÉ nesse quadro com tais propósitos que o Governo decide instituir o Conselho Nacional de Supervisores Financeiros.\n\nJustifica-se que o Conselho seja presidido pelo governador do Banco de Portugal, em virtude de essa entidade ser a principal responsável pela estabilidade do sistema financeiro. Para alem do seu presidente, no Conselho terão assento permanente representantes das três autoridades de supervisão, estando prevista a possibilidade de serem chamados a participar nas suas reuniões outras entidades, públicas ou privadas, em especial representantes do Fundo de Garantia de Depósitos, do Fundo de Garantia do Crédito Agrícola Mútuo, do Sistema de Indemnização aos Investidores, das entidades gestoras de mercados regulamentados.\n\nA criação do Conselho de Supervisores Financeiros, sem afectar a competência e a autonomia das diferentes autoridades, tem por objectivo institucionalizar e organizar a cooperação entre elas, criando um fórum de coordenação da actuação de supervisão do sistema financeiro para facilitar o mútuo intercâmbio de informações.\n\nOs membros do Conselho, bem como todas as outras pessoas que com ele colaborem, ficam obrigados ao dever de segredo, sendo suposto que as informações a que cada autoridade tenha acesso no Conselho sejam utilizadas na perspectiva do interesse público que a criação do Conselho visa acautelar.\n\nForam ouvidos o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "73610403": {
+   "fragment_id": "73610583",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ criado o Conselho Nacional de Supervisores Financeiros (CNSF), adiante designado por Conselho, com as finalidades a seguir definidas, sem prejuízo das competências e autonomia das diferentes autoridades que o compõem."
+  },
+  "73610404": {
+   "fragment_id": "73610584",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência\n\nO Conselho tem por competências:\n\na) Promover a coordenação da actuação das autoridades de supervisão do sistema financeiro (autoridades de supervisão);\n\nb) Facilitar e coordenar o intercâmbio de informações entre as autoridades de supervisão;\n\nc) Promover o desenvolvimento de regras e mecanismos de supervisão de conglomerados financeiros;\n\nd) Formular propostas de regulamentação de matérias conexas com a esfera de acção de mais de uma das autoridades de supervisão;\n\ne) Emitir pareceres, nos termos do artigo 7.º;\n\nf) Promover a formulação ou a adopção de políticas de actuação coordenadas junto de entidades estrangeiras e organizações internacionais;\n\ng) Realizar quaisquer acções que, consensualmente, sejam consideradas, pelos seus membros, adequadas às finalidades indicadas nas alíneas precedentes e que caibam na esfera de competência de qualquer das autoridades de supervisão."
+  },
+  "73610405": {
+   "fragment_id": "73610585",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos deste diploma, são considerados:\n\na) Autoridades de supervisão do sistema financeiro as autoridades a quem compete, em Portugal, a supervisão prudencial:\n\ni) Das instituições de crédito e sociedades financeiras, incluindo as empresas de investimento na acepção do Regime Geral das Instituições de Crédito a Sociedades Financeiras;\n\nii) Da actividade seguradora, resseguradora e de intermediação de seguros, das empresas conexas ou complementares daquelas e das actividades dos fundos de pensões;\n\niii) Do mercado de valores mobiliários;\n\nb) Conglomerados financeiros: grupos de empresas que abranjam, simultaneamente, entidades sujeitas a supervisão prudencial do Banco de Portugal e do Instituto de Seguros de Portugal."
+  },
+  "73610406": {
+   "fragment_id": "73610586",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - São membros permanentes do Conselho:\n\na) O governador do Banco de Portugal, que preside;\n\nb) O membro do conselho de administração do Banco de Portugal com o pelouro da supervisão das instituições de crédito e das sociedades financeiras;\n\nc) O presidente do Instituto de Seguros de Portugal;\n\nd) O presidente da Comissão do Mercado de Valores Mobiliários.\n\n2 - Em caso de ausência, por motivos justificados, os membros permanentes referidos nas alíneas b), c) e d) do número anterior podem fazer-se representar pelos substitutos legais ou estatutários, os quais terão todos os direitos e obrigações dos representados.\n\n3 - Poderão ser convidados a participar nos trabalhos do Conselho outras entidades públicas ou privadas, em especial representantes do Fundo de Garantia de Depósitos, do Fundo de Garantia do Crédito Agrícola Mútuo, do Sistema de Indemnização aos Investidores, das entidades gestoras de mercados regulamentados e associações representativas de quaisquer categorias de instituições sujeitas a supervisão prudencial."
+  },
+  "73610407": {
+   "fragment_id": "73610587",
+   "type": 11,
+   "heading": "Artigo 5.º — Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Coordenação\n\n1 - Na ausência ou impedimento do presidente, os trabalhos são coordenados por um dos restantes membros do Conselho, que servirá de suplente.\n\n2 - As funções de suplente, a que se refere o número anterior, são exercidas rotativamente, por períodos de um ano, coincidentes com o ano civil."
+  },
+  "73610408": {
+   "fragment_id": "73610588",
+   "type": 11,
+   "heading": "Artigo 6.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deliberações\n\n1 - As conclusões das reuniões do Conselho serão objecto de uma súmula, que será apresentada em sessão do órgão de administração de cada uma das autoridades representadas.\n\n2 - As conclusões consensuais que não contenham elementos por lei sujeitos a sigilo poderão ser levadas ao conhecimento do Ministro das Finanças, de quaisquer entidades do sector público ou privado, bem como do público em geral, se tal for consensualmente considerado conveniente."
+  },
+  "73610409": {
+   "fragment_id": "73610589",
+   "type": 11,
+   "heading": "Artigo 7.º — Emissão de pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Emissão de pareceres\n\n1 - O Ministro das Finanças e o governador do Banco de Portugal, este em representação do Banco enquanto entidade responsável pela estabilidade do sistema financeiro nacional, podem solicitar pareceres ao Conselho ou enviar-lhe comunicações sobre quaisquer assuntos do seu âmbito de competência.\n\n2 - O Conselho poderá tomar a iniciativa de emitir pareceres sobre quaisquer assuntos da sua competência."
+  },
+  "73610410": {
+   "fragment_id": "73610590",
+   "type": 11,
+   "heading": "Artigo 8.º — Sessões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sessões\n\n1 - As sessões do Conselho não têm periodicidade definida, são marcadas com uma antecedência de 15 dias e convocadas pelo presidente, por sua iniciativa ou a solicitação de qualquer dos restantes membros permanentes.\n\n2 - Em caso de urgência, podem ser marcadas sessões sem a antecedência referida no número anterior."
+  },
+  "73610411": {
+   "fragment_id": "73610591",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio técnico\n\nMediante prévio acordo entre os membros do Conselho, os mesmos podem fazer-se acompanhar por colaboradores, que terão o estatuto de observadores, ou determinar a criação de grupos de trabalho para o estudo de questões comuns às autoridades que integram o Conselho."
+  },
+  "73610412": {
+   "fragment_id": "73610592",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de segredo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dever de segredo\n\nOs membros do Conselho, bem como todas as outras pessoas que com ele colaborem, ficam sujeitos ao dever de segredo, relativamente a factos e elementos cobertos por tal dever, nos termos previstos na lei aplicável a cada caso."
+  },
+  "73610413": {
+   "fragment_id": "73610593",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nEste diploma entra em vigor no dia imediato ao da respectiva publicação."
+  },
+  "73610434": {
+   "fragment_id": "73610584",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência",
+   "in_force_from": "2008-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+   ],
+   "markdown": "###### Artigo 2.º — Competência\n\n1 - O Conselho tem por competências:\n\na) Coordenar a actuação das autoridades de supervisão do sistema financeiro (autoridades de supervisão);\n\nb) Coordenar o intercâmbio de informações entre autoridades de supervisão;\n\nc) Coordenar a realização conjunta de acções de supervisão presencial junto das entidades supervisionadas;\n\nd) Desenvolver regras e mecanismos de supervisão de conglomerados financeiros;\n\ne) Formular propostas de regulamentação em matérias conexas com a esfera de actuação de mais de uma das autoridades de supervisão;\n\nf) Emitir pareceres e formular recomendações concretas no âmbito das respectivas competências, nos termos do artigo 7.º;\n\ng) Coordenar a actuação conjunta das autoridades de supervisão junto quer de entidades nacionais quer de entidades estrangeiras ou organizações internacionais;\n\nh) Acompanhar e avaliar os desenvolvimentos em matéria de estabilidade financeira, assegurar a troca de informação relevante neste domínio entre as autoridades de supervisão, estabelecendo os mecanismos adequados para o efeito, e decidir actuações coordenadas no âmbito das respectivas competências;\n\ni) Realizar quaisquer acções que, consensualmente, sejam consideradas, pelos seus membros, adequadas às finalidades indicadas nas alíneas anteriores e que estejam compreendidas na esfera de competências de qualquer das entidades de supervisão;\n\nj) Elaborar as linhas de orientação estratégica da actividade do Conselho.\n\n2 - No âmbito da competência prevista na alínea h) do número anterior, deve o CNSF prestar ao membro do Governo responsável pela área das finanças a informação relevante em matéria de estabilidade financeira, ainda que abrangida por dever legal de segredo.\n\n3 - As informações trocadas ao abrigo dos números anteriores estão abrangidas pelo dever de segredo que vincula legalmente as pessoas e entidades aí identificadas.\n\n4 - O CNSF deve ainda elaborar um relatório anual de actividades, que deve ser enviado ao membro do Governo responsável pela área das finanças e publicado até ao dia 31 de Março de cada ano.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+  },
+  "73610435": {
+   "fragment_id": "73610589",
+   "type": 11,
+   "heading": "Artigo 7.º — Pareceres e recomendações",
+   "in_force_from": "2008-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+   ],
+   "markdown": "###### Artigo 7.º — Pareceres e recomendações\n\n1 - O membro do Governo responsável pela área das finanças e o governador do Banco de Portugal, este em representação do Banco enquanto entidade responsável pela estabilidade do sistema financeiro nacional, podem solicitar pareceres ao Conselho ou enviar-lhe comunicações sobre quaisquer assuntos do seu âmbito de competência.\n\n2 - O Conselho pode tomar a iniciativa de emitir pareceres ou formular recomendações concretas sobre quaisquer assuntos da sua competência.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+  },
+  "73610436": {
+   "fragment_id": "73610590",
+   "type": 11,
+   "heading": "Artigo 8.º — Sessões",
+   "in_force_from": "2008-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+   ],
+   "markdown": "###### Artigo 8.º — Sessões\n\n1 - As sessões têm uma periodicidade mínima bimestral, sendo a respectiva data marcada pelo presidente do Conselho com uma antecedência mínima de 15 dias.\n\n2 - Podem ser realizadas sessões extraordinárias em qualquer momento por iniciativa do presidente ou mediante solicitação de qualquer dos restantes membros permanentes do Conselho, sem a antecedência referida no número anterior.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+  },
+  "73610414": {
+   "fragment_id": "73610594",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Agosto de 2000. - Jaime José Matos da Gama - Fernando Manuel dos Santos Vigário Pacheco.\n\nPromulgado em 31 de Agosto de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Setembro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "73610437": {
+   "fragment_id": "73610584",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência",
+   "in_force_from": "2013-10-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+   ],
+   "markdown": "###### Artigo 2.º — Competência\n\n1 - O Conselho exerce funções de coordenação entre as autoridades de supervisão do sistema financeiro no exercício das respetivas competências de regulação e supervisão das entidades e atividades financeiras e assume funções consultivas para com o Banco de Portugal, enquanto autoridade macroprudencial nacional, no contexto da definição e execução da política macroprudencial para o sistema financeiro nacional.\n\n2 - No exercício de funções de coordenação em matéria de regulação e supervisão das entidades e atividades financeiras, compete ao Conselho:\n\na) Coordenar a atuação das autoridades de supervisão do sistema financeiro (autoridades de supervisão);\n\nb) Coordenar o intercâmbio de informações entre autoridades de supervisão;\n\nc) Coordenar a realização conjunta de ações de supervisão presencial junto das entidades supervisionadas;\n\nd) Desenvolver regras e mecanismos de supervisão de conglomerados financeiros;\n\ne) Formular propostas de regulamentação em matérias conexas com a esfera de atuação de mais de uma das autoridades de supervisão;\n\nf) Emitir pareceres e formular recomendações concretas no âmbito das respetivas competências, nos termos do artigo 7.º;\n\ng) Coordenar a atuação conjunta das autoridades de supervisão junto quer de entidades nacionais, quer de entidades estrangeiras ou organizações internacionais;\n\nh) Acompanhar e avaliar os desenvolvimentos em matéria de estabilidade financeira, assegurar a troca de informação relevante neste domínio entre as autoridades de supervisão, estabelecendo os mecanismos adequados para o efeito, e decidir atuações coordenadas no âmbito das respetivas competências;\n\ni) Realizar quaisquer ações que, consensualmente, sejam consideradas, pelos seus membros, adequadas às finalidades indicadas nas alíneas anteriores e que estejam compreendidas na esfera de competências de qualquer das autoridades de supervisão;\n\nj) Elaborar as linhas de orientação estratégica da atividade do Conselho.\n\n3 - No exercício de funções consultivas para com a autoridade macroprudencial nacional, compete designadamente ao Conselho:\n\na) Contribuir para a identificação, acompanhamento e avaliação dos riscos para a estabilidade do sistema financeiro;\n\nb) Analisar propostas concretas de política macroprudencial, com o objetivo, nomeadamente, de mitigar ou reduzir os riscos sistémicos, com vista a reforçar a estabilidade do sistema financeiro.\n\n4 - Para efeitos do exercício das funções previstas no número anterior, o Conselho define mecanismos adequados e eficazes de troca de informação entre as autoridades de supervisão, de forma a permitir realizar uma análise e avaliação adequadas e atempadas dos riscos e das interdependências do sistema financeiro.\n\n5 - As autoridades de supervisão prestam a colaboração e assistência que seja solicitada pelo Conselho com vista à prossecução das suas funções.\n\n6 - Para efeitos do disposto no n.º 3, o Conselho emite o seu parecer num prazo razoável, podendo, em casos excecionais justificados por razões de estabilidade financeira, esse parecer ser emitido no prazo definido pela autoridade macroprudencial nacional.\n\n7 - As informações trocadas ao abrigo dos números anteriores estão abrangidas pelo dever de segredo que vincula legalmente as pessoas e entidades aí identificadas.\n\n8 - O Conselho elabora um relatório anual de atividades, que é enviado ao membro do Governo responsável pela área das finanças e publicado até ao dia 31 de março de cada ano.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+  },
+  "73610438": {
+   "fragment_id": "73610585",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2013-10-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do disposto no presente decreto-lei, são considerados:\n\na) Autoridades de supervisão do sistema financeiro, as autoridades nacionais a quem compete, em Portugal, a supervisão:\n\ni) Das instituições de crédito e sociedades financeiras, incluindo as empresas de investimento, na aceção do Regime Geral das Instituições de Crédito e Sociedades Financeiras;\n\nii) Da atividade seguradora, resseguradora e de intermediação de seguros, das empresas conexas ou complementares daquelas e das atividades dos fundos de pensões;\n\niii) Do mercado de valores mobiliários;\n\nb) Entidades e atividades financeiras, as entidades e atividades sujeitas à regulação e supervisão das autoridades identificadas na alínea anterior;\n\nc) Conglomerados financeiros, grupos de empresas que abranjam, simultaneamente, entidades sujeitas a supervisão do Banco de Portugal e do Instituto de Seguros de Portugal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+  },
+  "73610439": {
+   "fragment_id": "73610586",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": "2013-10-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+   ],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - São membros permanentes do Conselho:\n\na) O governador do Banco de Portugal, que preside;\n\nb) O membro do conselho de administração do Banco de Portugal com o pelouro da supervisão das instituições de crédito e das sociedades financeiras;\n\nc) O presidente do Instituto de Seguros de Portugal;\n\nd) O presidente da Comissão do Mercado de Valores Mobiliários.\n\n2 - No exercício das funções previstas no n.º 3 do artigo 2.º, participam como observadores nas reuniões do Conselho, sem direito de voto, um representante do membro do Governo responsável pela área das finanças e o membro do conselho de administração do Banco de Portugal com o pelouro da política macroprudencial.\n\n3 - O representante do membro do Governo responsável pela área das finanças encontra-se sujeito ao dever legal de segredo sobre todos os assuntos de que tenha tomado conhecimento ou que lhe tenham sido confiados no exercício das suas funções.\n\n4 - Na ausência ou impedimento do presidente, os trabalhos são coordenados por um dos restantes membros do Conselho, que servirá de suplente.\n\n5 - As funções de suplente, a que se refere o número anterior, são exercidas rotativamente, por períodos de um ano, coincidentes com o ano civil.\n\n6 - Em caso de ausência, por motivos justificados, os membros permanentes referidos nas alíneas b), c) e d) do n.º 1 podem fazer-se representar pelos substitutos legais ou estatutários, os quais têm todos os direitos e obrigações dos representados.\n\n7 - Podem ser convidados a participar nos trabalhos do Conselho outras entidades públicas ou privadas, designadamente representantes do Fundo de Garantia de Depósitos, do Fundo de Garantia do Crédito Agrícola Mútuo, do Sistema de Indemnização aos Investidores, do Fundo de Resolução, das entidades gestoras de mercados regulamentados, das contrapartes centrais e das entidades gestoras de sistemas de liquidação, de associações representativas de quaisquer categorias de instituições sujeitas a supervisão, bem como individualidades pertencentes ao universo académico ou outros peritos nas matérias objeto da atividade do Conselho.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+  },
+  "73610445": {
+   "fragment_id": "73610587",
+   "type": 11,
+   "heading": "Artigo 5.º — Coordenação",
+   "in_force_from": "2013-10-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+   ],
+   "markdown": "###### Artigo 5.º — Coordenação\n\n1 - Na ausência ou impedimento do presidente, os trabalhos são coordenados por um dos restantes membros do Conselho, que servirá de suplente.\n\n2 - As funções de suplente, a que se refere o número anterior, são exercidas rotativamente, por períodos de um ano, coincidentes com o ano civil.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+  },
+  "73610440": {
+   "fragment_id": "73610588",
+   "type": 11,
+   "heading": "Artigo 6.º — Deliberações",
+   "in_force_from": "2013-10-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+   ],
+   "markdown": "###### Artigo 6.º — Deliberações\n\n1 - As deliberações do Conselho são objeto de uma súmula, que deve ser apresentada, para informação, em sessão do órgão de administração de cada uma das autoridades de supervisão do sistema financeiro representadas.\n\n2 - Em matéria macroprudencial, a súmula referida no número anterior é enviada ao membro do Governo responsável pela área das finanças.\n\n3 - As deliberações consensuais do Conselho que não contenham elementos sujeitos por lei a sigilo podem ser levadas ao conhecimento de quaisquer entidades do setor público ou privado, bem como do público em geral, se tal for consensualmente considerado conveniente.\n\n4 - As reuniões do Conselho podem realizar-se através do recurso a meios telemáticos, desde que com o consentimento prévio de todos os seus membros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+  },
+  "73610441": {
+   "fragment_id": "73610589",
+   "type": 11,
+   "heading": "Artigo 7.º — Pareceres e recomendações",
+   "in_force_from": "2013-10-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+   ],
+   "markdown": "###### Artigo 7.º — Pareceres e recomendações\n\n1 - O membro do Governo responsável pela área das finanças e o governador do Banco de Portugal, este em representação do Banco enquanto autoridade responsável pela estabilidade do sistema financeiro nacional, podem solicitar pareceres ao Conselho ou enviar-lhe comunicações sobre quaisquer assuntos do seu âmbito de atribuições.\n\n2 - O Conselho pode tomar a iniciativa de emitir pareceres ou formular recomendações concretas sobre quaisquer assuntos do seu âmbito de atribuições.\n\n3 - No exercício das suas funções consultivas no plano macroprudencial, o Conselho emite pareceres não vinculativos dirigidos ao Banco de Portugal, enquanto autoridade macroprudencial nacional.\n\n4 - Os representantes das autoridades de supervisão do sistema financeiro podem tomar a iniciativa de submeter ao Conselho quaisquer assuntos da sua competência que sejam suscetíveis de afetar a estabilidade do sistema financeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+  },
+  "73610442": {
+   "fragment_id": "73610590",
+   "type": 11,
+   "heading": "Artigo 8.º — Sessões",
+   "in_force_from": "2013-10-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+   ],
+   "markdown": "###### Artigo 8.º — Sessões\n\n1 - As sessões têm uma periodicidade mínima trimestral, devendo realizar-se em separado, de acordo com uma ordem de trabalhos específica, as sessões que tenham como objeto o exercício das suas atribuições previstas nos n.os 2 e 3 do artigo 2.º\n\n2 - A data das sessões é marcada pelo presidente do Conselho com uma antecedência mínima de 15 dias.\n\n3 - Podem ser realizadas sessões extraordinárias em qualquer momento por iniciativa do presidente ou mediante solicitação de qualquer dos restantes membros permanentes do Conselho, sem a antecedência referida no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+  },
+  "73610443": {
+   "fragment_id": "73610591",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio técnico",
+   "in_force_from": "2013-10-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+   ],
+   "markdown": "###### Artigo 9.º — Apoio técnico\n\n1 - Mediante prévio acordo entre os membros do Conselho, os mesmos podem fazer-se acompanhar por colaboradores, que terão o estatuto de observadores, ou determinar a criação de grupos de trabalho para o estudo de questões comuns às autoridades que integram o Conselho.\n\n2 - O Banco de Portugal assegura o secretariado indispensável ao bom funcionamento do Conselho.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+  },
+  "73610444": {
+   "fragment_id": "73610592",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de segredo",
+   "in_force_from": "2013-10-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+   ],
+   "markdown": "###### Artigo 10.º — Dever de segredo\n\nOs membros do Conselho e os observadores referidos no n.º 2 do artigo 4.º, bem como todas as outras pessoas que com eles colaborem, ficam sujeitos ao dever de segredo, relativamente a todas as matérias de que tomem conhecimento no exercício das funções previstas no presente decreto-lei, nos termos previstos na lei que lhes seja aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+  },
+  "73610446": {
+   "fragment_id": "73610584",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência",
+   "in_force_from": "2015-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 118/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/lei/118-2015-70139954), em vigor a partir de 2015-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+   ],
+   "markdown": "###### Artigo 2.º — Competência\n\n1 - O Conselho exerce funções de coordenação entre as autoridades de supervisão do sistema financeiro no exercício das respetivas competências de regulação e supervisão das entidades e atividades financeiras e assume funções consultivas para com o Banco de Portugal, enquanto autoridade macroprudencial nacional, no contexto da definição e execução da política macroprudencial para o sistema financeiro nacional.\n\n2 - No exercício de funções de coordenação em matéria de regulação e supervisão das entidades e atividades financeiras, compete ao Conselho:\n\na) Coordenar a atuação das autoridades de supervisão do sistema financeiro (autoridades de supervisão);\n\nb) Coordenar o intercâmbio de informações entre autoridades de supervisão;\n\nc) Coordenar a realização conjunta de ações de supervisão presencial junto das entidades supervisionadas;\n\nd) Desenvolver regras e mecanismos de supervisão de conglomerados financeiros;\n\ne) Formular propostas de regulamentação em matérias conexas com a esfera de atuação de mais de uma das autoridades de supervisão;\n\nf) Emitir pareceres e formular recomendações concretas no âmbito das respetivas competências, nos termos do artigo 7.º;\n\ng) Pronunciar-se sobre quaisquer iniciativas legislativas relativas à regulação do setor financeiro que se insiram no âmbito das respetivas competências e prestar informações nos termos previstos no n.º 8;\n\nh) Coordenar a atuação conjunta das autoridades de supervisão junto quer de entidades nacionais, quer de entidades estrangeiras ou organizações internacionais;\n\ni) Acompanhar e avaliar os desenvolvimentos em matéria de estabilidade financeira, assegurar a troca de informação relevante neste domínio entre as autoridades de supervisão, estabelecendo os mecanismos adequados para o efeito, e decidir atuações coordenadas no âmbito das respetivas competências;\n\nj) Realizar quaisquer ações que, consensualmente, sejam consideradas, pelos seus membros, adequadas às finalidades indicadas nas alíneas anteriores e que estejam compreendidas na esfera de competências de qualquer das autoridades de supervisão;\n\nk) Avaliar a legislação em vigor à luz da necessidade de garantir uma efetiva coordenação da atuação das entidades responsáveis pela regulação e supervisão do sistema financeiro português;\n\nl) Elaborar as linhas de orientação estratégica da atividade do Conselho.\n\n3 - No exercício de funções consultivas para com a autoridade macroprudencial nacional, compete designadamente ao Conselho:\n\na) Contribuir para a identificação, acompanhamento e avaliação dos riscos para a estabilidade do sistema financeiro;\n\nb) Analisar propostas concretas de política macroprudencial, com o objetivo, nomeadamente, de mitigar ou reduzir os riscos sistémicos, com vista a reforçar a estabilidade do sistema financeiro.\n\n4 - Para efeitos do exercício das funções previstas no número anterior, o Conselho define mecanismos adequados e eficazes de troca de informação entre as autoridades de supervisão, de forma a permitir realizar uma análise e avaliação adequadas e atempadas dos riscos e das interdependências do sistema financeiro.\n\n5 - As autoridades de supervisão prestam a colaboração e assistência que seja solicitada pelo Conselho com vista à prossecução das suas funções.\n\n6 - Para efeitos do disposto no n.º 3, o Conselho emite o seu parecer num prazo razoável, podendo, em casos excecionais justificados por razões de estabilidade financeira, esse parecer ser emitido no prazo definido pela autoridade macroprudencial nacional.\n\n7 - As informações trocadas ao abrigo dos números anteriores estão abrangidas pelo dever de segredo que vincula legalmente as pessoas e entidades aí identificadas.\n\n8 - O Conselho elabora um relatório anual de atividades, que é enviado à Assembleia da República e ao membro do Governo responsável pela área das finanças e publicado até ao dia 31 de março de cada ano.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 118/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/lei/118-2015-70139954), em vigor a partir de 2015-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), em vigor a partir de 2008-11-08"
+  },
+  "73610447": {
+   "fragment_id": "73610586",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": "2015-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 118/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/lei/118-2015-70139954), em vigor a partir de 2015-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+   ],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - São membros permanentes do Conselho:\n\na) O governador do Banco de Portugal, que preside;\n\nb) Um membro do conselho de administração do Banco de Portugal com o pelouro da supervisão;\n\nc) O presidente da Autoridade de Supervisão de Seguros e Fundos de Pensões;\n\nd) O presidente da Comissão do Mercado de Valores Mobiliários.\n\n2 - No exercício das funções previstas no n.º 3 do artigo 2.º, participam como observadores nas reuniões do Conselho, sem direito de voto, um representante do membro do Governo responsável pela área das finanças e o membro do conselho de administração do Banco de Portugal com o pelouro da política macroprudencial.\n\n3 - O representante do membro do Governo responsável pela área das finanças encontra-se sujeito ao dever legal de segredo sobre todos os assuntos de que tenha tomado conhecimento ou que lhe tenham sido confiados no exercício das suas funções.\n\n4 - Na ausência ou impedimento do presidente, os trabalhos são coordenados por um dos restantes membros do Conselho, que servirá de suplente.\n\n5 - As funções de suplente, a que se refere o número anterior, são exercidas rotativamente, por períodos de um ano, coincidentes com o ano civil.\n\n6 - Em caso de ausência, por motivos justificados, os membros permanentes referidos nas alíneas b), c) e d) do n.º 1 podem fazer-se representar pelos substitutos legais ou estatutários, os quais têm todos os direitos e obrigações dos representados.\n\n7 - Podem ser convidados a participar nos trabalhos do Conselho outras entidades públicas ou privadas, designadamente representantes do Fundo de Garantia de Depósitos, do Fundo de Garantia do Crédito Agrícola Mútuo, do Sistema de Indemnização aos Investidores, do Fundo de Resolução, das entidades gestoras de mercados regulamentados, das contrapartes centrais e das entidades gestoras de sistemas de liquidação, de associações representativas de quaisquer categorias de instituições sujeitas a supervisão, bem como individualidades pertencentes ao universo académico ou outros peritos nas matérias objeto da atividade do Conselho.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 118/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/lei/118-2015-70139954), em vigor a partir de 2015-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 143/2013 - Diário da República n.º 202/2013, Série I de 2013-10-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035), em vigor a partir de 2013-10-19"
+  }
+ }
+}

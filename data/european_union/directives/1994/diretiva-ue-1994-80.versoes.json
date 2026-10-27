@@ -1,0 +1,684 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0080:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0080-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "1994-12-31",
+   "future": false,
+   "celex": "31994L0080",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8230a56f57bf1bc0",
+    "3419150a6a315728",
+    "8f43a47c771f06c9",
+    "22e388df07c833b1",
+    "5a07f0d802bdd71a",
+    "4d2a605005184d65",
+    "ecb17cae602d4b2a",
+    "02bd9b093cf0d332",
+    "f3d7f36c33253367",
+    "ae8268291a4db255",
+    "4f107514752a8ae1",
+    "b840cc727e7edd52",
+    "df087dd9a22d7692",
+    "a8551f41c80216e6",
+    "236a77c77e1b0aa5",
+    "e8837dfe8b1ab289",
+    "560b8b66f7cbeb6a",
+    "ba5447ba453a6617"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01994L0080-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31996L0030:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31996L0030"
+    },
+    {
+     "id": "eu:celex:32006L0106:por",
+     "title": "DIRECTIVA 2006/106/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0106"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 16º",
+    "Altera ANEXO",
+    "Adita CAPÍTULO I",
+    "Adita Generalidades",
+    "Adita Artigo 1º",
+    "Adita CAPÍTULO II",
+    "Adita Do exercício do direito de voto e da elegibilidade",
+    "Adita Artigo 7º",
+    "Adita CAPÍTULO III",
+    "Adita Disposições derrogatórias e transitórias",
+    "Adita Artigo 12º",
+    "Adita CAPÍTULO IV",
+    "Adita Disposições finais",
+    "Adita Artigo 13º",
+    "Adita Declaração para a acta da delegação alemanã relativa ao n.º 1, alinea b), do artigo 2.º",
+    "Adita Declaração para a acta do Conselho e da Comissão relativa ao artigo 3.º",
+    "Adita Declaração para a acta da delegação luxemburguesa respeitante à declaração do Conselho e da Comissão relativa ao artigo 3.º",
+    "Adita Declaração para a acta do Conselho e da Comissão relativa ao artigo 3, terciero parágrafo, do artigo 5.º",
+    "Adita Declaração para a acta da delegação francesa relativa ao n.º 4 do artigo 5.º",
+    "Adita Declaração para a acta do Conselho respeitante à declaração da delegação belga relativa ao n.º 2 do artigo 12.º",
+    "Adita Declaração para a acta da delegação belga relativa ao nº 2 do artigo 12º",
+    "Adita Declaração para a acta do Conselho respeitante à declaração da Comassão relativa ao artigo 13.º",
+    "Adita Declaração para a acta da Comissão relativa ao artigo 13º",
+    "Adita Declaração para a acta da delegação grega relativa ao artigo 13.º",
+    "Adita Declaração para a acta da delegação espanhola relativa a Gibraltar",
+    "Adita Notas",
+    "Suprime CAPÍTULO I Generalidades — Artigo 1º",
+    "Suprime CAPÍTULO II Do exercício do direito de voto e da elegibilidade — Artigo 7º",
+    "Suprime CAPÍTULO III Disposições derrogatórias e transitórias — Artigo 12º",
+    "Suprime CAPÍTULO IV Disposições finais — Artigo 13º"
+   ],
+   "fragments": [
+    "324c733a5454966e",
+    "226c39ffd0a88dad",
+    "3c57990c1f7aa23f",
+    "b62a002bc6ce0a05",
+    "8f43a47c771f06c9",
+    "22e388df07c833b1",
+    "08346431b8a72180",
+    "ea20a0f05a452b7d",
+    "ecb17cae602d4b2a",
+    "f0f8c960bfdbce9b",
+    "276892b5b39f4e55",
+    "9c685b19b9ea770b",
+    "f3d7f36c33253367",
+    "ae8268291a4db255",
+    "4f107514752a8ae1",
+    "b840cc727e7edd52",
+    "1e7a0903d2eed348",
+    "bb8ccb00dbdc6181",
+    "13be8163b4335f4c",
+    "1ecfc79da3f1ac7f",
+    "bbdde795c58f027f",
+    "78c04c48110c0f72",
+    "236a77c77e1b0aa5",
+    "f3be5dc0de880ae1",
+    "b2bdf85f73245cd5",
+    "c3afc51b070832ff",
+    "1c026c8d96fe8387",
+    "9f01322ad6a873cc",
+    "097b85478e89393d",
+    "26a8424a529b16db",
+    "be348b7ab762d077",
+    "1323a7f5c9415e5f",
+    "d7da5f6a943a5d3c",
+    "a1fadacabd571cfe",
+    "e744afaaff08f7af",
+    "8a1f377418d31b15",
+    "cbff80ff125ccbf3",
+    "9e70d31b685f1730"
+   ]
+  },
+  {
+   "date": "2012-07-21",
+   "future": false,
+   "celex": "01994L0080-20120721",
+   "acts": [
+    {
+     "id": "eu:celex:32012D0412:por",
+     "title": "DECISÃO DE EXECUÇÃO DA COMISSÃO de 19 de julho de 2012",
+     "published": null,
+     "celex": "32012D0412"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "b7af1d7f6f9a3569",
+    "226c39ffd0a88dad",
+    "3c57990c1f7aa23f",
+    "b62a002bc6ce0a05",
+    "8f43a47c771f06c9",
+    "22e388df07c833b1",
+    "08346431b8a72180",
+    "ea20a0f05a452b7d",
+    "ecb17cae602d4b2a",
+    "f0f8c960bfdbce9b",
+    "276892b5b39f4e55",
+    "9c685b19b9ea770b",
+    "f3d7f36c33253367",
+    "ae8268291a4db255",
+    "4f107514752a8ae1",
+    "b840cc727e7edd52",
+    "1e7a0903d2eed348",
+    "bb8ccb00dbdc6181",
+    "13be8163b4335f4c",
+    "1ecfc79da3f1ac7f",
+    "bbdde795c58f027f",
+    "78c04c48110c0f72",
+    "236a77c77e1b0aa5",
+    "f3be5dc0de880ae1",
+    "b2bdf85f73245cd5",
+    "0ba57d4badf71192",
+    "1c026c8d96fe8387",
+    "9f01322ad6a873cc",
+    "097b85478e89393d",
+    "26a8424a529b16db",
+    "be348b7ab762d077",
+    "1323a7f5c9415e5f",
+    "d7da5f6a943a5d3c",
+    "a1fadacabd571cfe",
+    "e744afaaff08f7af",
+    "8a1f377418d31b15",
+    "cbff80ff125ccbf3",
+    "9f2496449ec958b2"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01994L0080-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0019:por",
+     "title": "DIRETIVA 2013/19/UE DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013L0019"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO",
+    "Altera Notas",
+    "Suprime Declaração para a acta da delegação alemanã relativa ao n.º 1, alinea b), do artigo 2.º",
+    "Suprime Declaração para a acta do Conselho e da Comissão relativa ao artigo 3.º",
+    "Suprime Declaração para a acta da delegação luxemburguesa respeitante à declaração do Conselho e da Comissão relativa ao artigo 3.º",
+    "Suprime Declaração para a acta do Conselho e da Comissão relativa ao artigo 3, terciero parágrafo, do artigo 5.º",
+    "Suprime Declaração para a acta da delegação francesa relativa ao n.º 4 do artigo 5.º",
+    "Suprime Declaração para a acta do Conselho respeitante à declaração da delegação belga relativa ao n.º 2 do artigo 12.º",
+    "Suprime Declaração para a acta da delegação belga relativa ao nº 2 do artigo 12º",
+    "Suprime Declaração para a acta do Conselho respeitante à declaração da Comassão relativa ao artigo 13.º",
+    "Suprime Declaração para a acta da Comissão relativa ao artigo 13º",
+    "Suprime Declaração para a acta da delegação grega relativa ao artigo 13.º",
+    "Suprime Declaração para a acta da delegação espanhola relativa a Gibraltar"
+   ],
+   "fragments": [
+    "4b289ddfb1f1282a",
+    "226c39ffd0a88dad",
+    "3c57990c1f7aa23f",
+    "b62a002bc6ce0a05",
+    "8f43a47c771f06c9",
+    "22e388df07c833b1",
+    "08346431b8a72180",
+    "ea20a0f05a452b7d",
+    "ecb17cae602d4b2a",
+    "f0f8c960bfdbce9b",
+    "276892b5b39f4e55",
+    "9c685b19b9ea770b",
+    "f3d7f36c33253367",
+    "ae8268291a4db255",
+    "4f107514752a8ae1",
+    "b840cc727e7edd52",
+    "1e7a0903d2eed348",
+    "bb8ccb00dbdc6181",
+    "13be8163b4335f4c",
+    "1ecfc79da3f1ac7f",
+    "bbdde795c58f027f",
+    "78c04c48110c0f72",
+    "236a77c77e1b0aa5",
+    "f3be5dc0de880ae1",
+    "b2bdf85f73245cd5",
+    "73a94cd6db50436f",
+    "7ff6bcdc5b923af1"
+   ]
+  }
+ ],
+ "fragments": {
+  "8230a56f57bf1bc0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/80/CE do Conselho, de 19 de Dezembro de 1994, que estabelece as regras de exercício do direito de voto e de elegibilidade nas eleições autárquicas dos cidadãos da União residentes num Estado-membro de que não tenham a nacionalidade** *Jornal Oficial nº L 368 de 31/12/1994 p. 0038 - 0047 Edição especial finlandesa: Capítulo 1 Fascículo 4 p. 0080 Edição especial sueca: Capítulo 1 Fascículo 4 p. 0080*\n\nDIRECTIVA 94/80/CE DO CONSELHO de 19 de Dezembro de 1994 que estabelece as regras de exercício do direito de voto e de elegibilidade nas eleições autárquicas dos cidadãos da União residentes num Estado-membro de que não tenham a nacionalidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 1 do seu artigo 8ºB,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nTendo em conta o parecer do Comité das Regiões (3),\n\nConsiderando que o Tratado da União Europeia constitui uma nova etapa no processo de criação de uma união cada vez mais estreita entre os povos da Europa; que a União tem, nomeadamente, como missão organizar coerente e solidariamente as relações entre os povos dos Estados-membros e que um dos seus objectivos fundamentais é o reforço da defesa dos direitos e dos interesses dos nacionais dos seus Estados-membros mediante a instituição de uma cidadania da União;\n\nConsiderando que, para o efeito, as disposições do título II do Tratado da União Europeia instituem uma cidadania da União em benefício de todos os nacionais dos Estados-membros, reconhecendo-lhes, a esse título, um conjunto de direitos;\n\nConsiderando que o direito de eleger e de ser eleito nas eleições autárquicas do Estado-membro de residência, previsto no nº 1 do artigo 8ºB do Tratado que institui a Comunidade Europeia, constitui uma aplicação do princípio da igualdade e da não discriminação entre cidadãos nacionais e não nacionais e um corolário do direito de livre circulação e permanência consagrado no artigo 8ºA do Tratado;\n\nConsiderando que a aplicação do nº 1 do artigo 8ºB do Tratado não implica uma harmonização global dos regimes eleitorais dos Estados-membros; que se destina essencialmente a suprimir a condição de nacionalidade que actualmente é exigida na maior parte dos Estados-membros para o exercício do direito de voto e de elegibilidade e que, além disso, para ter em conta o princípio da proporcionalidade, consignado no terceiro parágrafo do artigo 3ºB do Tratado, o conteúdo da legislação comunitária nessa matéria não deve exceder o necessário para atingir o objectivo do nº 1 do artigo 8ºB do Tratado;\n\nConsiderando que o nº 1 do artigo 8ºB do Tratado tem por objectivo assegurar que todos os cidadãos da União, nacionais ou não do Estado-membro de residência, possam aí exercer o seu direito de voto e ser eleitos nas eleições autárquicas nas mesmas condições, e que é necessário, por conseguinte, que as condições, nomeadamente em matéria de período e de prova de residência, válidas para os não nacionais sejam idênticas às eventualmente aplicáveis aos nacionais do Estado-membro em questão; que os cidadãos não nacionais não estarão sujeitos a condições específicas a não ser que, a título excepcional, se justifique um tratamento diferente dos nacionais e dos não nacionais por circunstâncias específicas destes últimos que os distingam dos primeiros;\n\nConsiderando que o nº 1 do artigo 8ºB do Tratado reconhece o direito de eleger e de ser eleito nas eleições autárquicas do Estado-membro de residência sem, no entanto, suprimir o direito de eleger e de ser eleito no Estado-membro de que o cidadão da União é nacional; que é necessário respeitar a liberdade de escolha dos cidadãos de participarem ou não nas eleições autárquicas do Estado-membro de residência; que, como tal, é conveniente que esses cidadãos manifestem a vontade de aí exercerem o seu direito de voto; e que, nos Estados-membros em que o voto não é obrigatório, possam ser automaticamente inscritos nos cadernos eleitorais;\n\nConsiderando que a administração local dos Estados-membros reflecte tradições políticas e jurídicas diferentes e se caracteriza por uma grande riqueza de estruturas; que o conceito de eleições autárquicas não é o mesmo em todos os Estados-membros; que é conveniente, por conseguinte, especificar o objecto da directiva definindo a noção de eleições autárquicas; que estas eleições incluem as eleições por sufrágio universal directo a nível das pessoas colectivas territoriais de base e das suas subdivisões; que se trata tanto das eleições por sufrágio universal directo para as assembleias representativas da autarquia como dos membros do executivo autárquico;\n\nConsiderando que a inelegibilidade pode resultar de uma decisão individual tomada pelos poderes constituídos tanto do Estado-membro de residência como do Estado-membro de origem; que, dada a importância política da função do eleito autárquico, é conveniente que os Estados-membros possam tomar as medidas adequadas para evitar que uma pessoa privada do direito de ser eleito no seu Estado-membro de origem seja reintegrada nesse direito pelo simples facto de residir noutro Estado-membro; que este problema específico dos candidatos não nacionais justifica que os Estados-membros que o entendam necessário possam sujeitá-los não só ao regime de inelegibilidade do Estado-membro de residência mas também ao regime do Estado-membro de origem nessa matéria; que, tendo em conta o princípio da proporcionalidade, é suficiente subordinar o direito de voto apenas ao regime de incapacidade eleitoral do Estado-membro de residência;\n\nConsiderando que as atribuições do executivo das autarquias locais podem incluir a participação no exercício da autoridade pública e na salvaguarda dos interesses gerais; que é, pois, conveniente que os Estados-membros possam reservar essas funções para os respectivos nacionais; que é igualmente conveniente que, para o efeito, os Estados-membros possam tomar as medidas adequadas, não podendo, no entanto, estas medidas limitar, para além do necessário à realização deste objectivo, a possibilidade de os nacionais de outros Estados-membros serem eleitos;\n\nConsiderando que, da mesma forma, convém reservar aos nacionais do Estado-membro em questão que tenham sido eleitos membros do executivo autárquico a possibilidade de participarem na eleição da assembleia parlamentar;\n\nConsiderando que, sempre que as legislações dos Estados-membros prevejam incompatibilidades entre a qualidade de eleito municipal e outras funções, é conveniente que os Estados-membros possam alargar essas incompatibilidades a funções equivalentes exercidas noutros Estados-membros;\n\nConsiderando que as derrogações às regras gerais da presente directiva devem ser justificadas, nos termos do nº 1 do artigo 8ºB do Tratado, por problemas específicos de um Estado-membro, e que estas disposições derrogatórias, pela sua natureza, devem ser sujeitas a reexame;\n\nConsiderando que esses problemas específicos se podem colocar, nomeadamente, num Estado-membro em que a proporção de cidadãos da União que nele residem sem que tenham a sua nacionalidade e tenham atingido a idade de voto é muito significativamente superior à média; que uma proporção de 20 % desses cidadãos relativamente ao conjunto do eleitorado justifica disposições derrogatórias que se baseiem no critério do período de residência;\n\nConsiderando que a cidadania da União se destina a uma melhor integração dos cidadãos da União no seu país de acolhimento e que, neste contexto, é coerente com as intenções dos autores do Tratado evitar qualquer polarização entre listas de candidatos nacionais e não nacionais;\n\nConsiderando que o risco de polarização diz especialmente respeito a um Estado-membro em que a proporção de cidadãos da União não nacionais que atingiram a idade de voto excede 20 % do conjunto dos cidadãos da União em idade de voto aí residentes e que, por conseguinte, esse Estado-membro deve poder prever disposições específicas, no respeito do artigo 8ºB do Tratado, relativas à composição das listas de candidatos;\n\nConsiderando que é necessário tomar em consideração o facto de em determinados Estados-membros os nacionais de outros Estados-membros aí residentes disporem do direito de voto para o parlamento nacional, pelo que as formalidades previstas pela presente directiva poderão ser simplificadas;\n\nConsiderando que o Reino da Bélgica apresenta particularidades e equilíbrios próprios relacionados com o facto de a sua Constituição prever, nos artigos 1º a 4º, três línguas oficiais e uma repartição em regiões e comunidades; e que, por essas razões, a aplicação integral da presente directiva em determinadas autarquias poderá ter efeitos tais que convirá prever uma possibilidade de derrogação ao disposto na presente directiva para ter em conta essas particularidades e equilíbrios;\n\nConsiderando que a Comissão procederá à avaliação da aplicação da directiva do ponto de vista jurídico e prático, incluindo a evolução do eleitorado verificada após a entrada em vigor da directiva; que, para o efeito, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3419150a6a315728": {
+   "fragment_id": "CAPÍTULO I Generalidades — Artigo 1º",
+   "type": "divisao",
+   "heading": "CAPÍTULO I Generalidades — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I Generalidades — Artigo 1º\n\n1. A presente directiva estabelece as regras de exercício do direito de voto e de elegibilidade nas eleições autárquicas dos cidadãos da União residentes num Estado-membro de que não tenham a nacionalidade.\n\n2. As disposições da presente directiva não afectam as disposições dos Estados-membros sobre o direito de voto e a elegibilidade quer dos seus nacionais que residam fora do seu território nacional quer dos nacionais de países terceiros que residam nesse Estado."
+  },
+  "8f43a47c771f06c9": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Para os efeitos da presente directiva, entende-se por:\n\na) «Autarquia local», as unidades administrativas que constam do anexo e que, nos termos da legislação de cada Estado-membro, têm órgãos eleitos por sufrágio universal directo e dispõem de competência para administrar, ao nível de base da organização política e administrativa e sob responsabilidade própria, determinados assuntos locais;\n\nb) «Eleições autárquicas», as eleições por sufrágio universal directo destinadas a designar os membros da assembleia representativa e, eventualmente, nos termos da legislação de cada Estado-membro, o presidente e os membros do executivo de uma autarquia local;\n\nc) «Estado-membro de residência», o Estado-membro em que o cidadão da União reside sem que tenha a respectiva nacionalidade;\n\nd) «Estado-membro de origem», o Estado-membro de que o cidadão da União é nacional;\n\ne) «Caderno eleitoral», o registo oficial de todos os eleitores com direito de voto numa determinada autarquia local ou numa das suas circunscrições, elaborado e actualizado pela autoridade competente nos termos do direito eleitoral do Estado-membro de residência, ou o recenseamento da população, se este mencionar a qualidade de eleitor;\n\nf) «Dia de referência», o dia ou dias em que os cidadãos da União devem preencher, nos termos do direito do Estado-membro de residência, as condições exigidas para aí serem eleitores ou elegíveis;\n\ng) «Declaração formal», o acto do interessado cuja inexactidão é passível de sanções nos termos da legislação nacional aplicável.\n\n2. Se, por motivo de uma alteração da legislação nacional, uma das autarquias locais referidas no anexo for substituída por outra autarquia com as competências referidas na alínea a) do nº 1 do presente artigo ou se, por força de tal alteração, uma dessas autarquias for suprimida ou forem criadas outras autarquias, o Estado-membro em causa notificará do facto a Comissão.\n\nNo prazo de três meses a contar da data de recepção da notificação e com a declaração do Estado-membro de que os direitos previstos na presente directiva não serão prejudicados, a Comissão adaptará o anexo procedendo às necessárias substituições, supressões ou aditamentos. O anexo assim revisto será publicado no Jornal Oficial."
+  },
+  "22e388df07c833b1": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nQualquer pessoa que, no dia de referência:\n\na) Seja cidadão da União na acepção do nº 1, segundo parágrafo, do artigo 8º do Tratado, e que\n\nb) Embora não tenha a nacionalidade do Estado-membro de residência, preencha todas as outras condições a que a legislação desse Estado sujeita o direito de voto e a elegibilidade dos seus nacionais,\n\ntem direito de voto e é elegível nas eleições autárquicas do Estado-membro de residência, em conformidade com o disposto na presente directiva."
+  },
+  "5a07f0d802bdd71a": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Se, para serem eleitores ou elegíveis, os nacionais do Estado-membro de residência necessitarem de ter residido durante um período mínimo no território nacional, considera-se que os eleitores e elegíveis referidos no artigo 3º preenchem esta condição quando tenham residido durante um período equivalente noutros Estados-membros.\n\n2. Se, nos termos da legislação do Estado-membro de residência, os seus nacionais só puderem ser eleitores ou elegíveis na autarquia local em que têm a sua residência principal, esta condição é igualmente aplicável aos eleitores e elegíveis referidos no artigo 3º\n\n3. O disposto no nº 1 não prejudica as disposições de cada Estado-membro que subordinem o exercício do direito de voto e a elegibilidade de todo o eleitor ou elegível numa determinada autarquia local à condição de terem residido durante um período mínimo no território dessa autarquia local.\n\nO disposto no nº 1 também não prejudica as disposições nacionais já em vigor à data de adopção da presente directiva que subordinem o exercício do direito de voto e a elegibilidade à condição de um período mínimo de residência na parte do Estado-membro em que se insere a autarquia local em questão."
+  },
+  "4d2a605005184d65": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os Estados-membros de residência podem dispor que qualquer cidadão da União que seja inelegível em consequência de uma decisão individual em matéria civil ou de uma decisão penal, por força da legislação do seu Estado-membro de origem, fica privado do exercício desse direito nas eleições autárquicas.\n\n2. A candidatura de qualquer cidadão da União às eleições autárquicas do Estado-membro de residência pode ser indeferida se o cidadão não puder apresentar a declaração prevista no nº 2, alínea a), do artigo 9º, ou o atestado previsto no nº 2, alínea b), do artigo 9º\n\n3. Os Estados-membros podem dispor que somente os seus nacionais são elegíveis para as funções de presidente ou de membro do órgão colegial executivo de uma autarquia local, se estas pessoas forem eleitas para exercer essas funções durante a duração do mandato.\n\nOs Estados-membros podem dispor também que o exercício a título provisório ou interino das funções de presidente ou de membro do órgão colegial executivo de uma autarquia local fica reservado aos seus nacionais.\n\nAs disposições que os Estados-membros podem adoptar para garantir o exercício das funções referidas no primeiro parágrafo e do exercício a título provisório ou interno referido na segundo parágrafo exclusivamente pelos seus nacionais, deverão respeitar o Tratado e os princípios gerais do direito, bem como serem adequadas, necessárias e proporcionais aos objectivos prosseguidos.\n\n4. Os Estados-membros podem dispor também que os cidadãos da União eleitos membros de um órgão representativo não poderão participar na designação dos eleitores de uma assembleia parlamentar nem na eleição dos membros dessa assembleia."
+  },
+  "ecb17cae602d4b2a": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os elegíveis referidos no artigo 3º estão sujeitos às condições de incompatibilidade que se aplicam, nos termos da legislação do Estado-membro de residência, aos nacionais desse Estado.\n\n2. Os Estados-membros podem dispor que a qualidade de eleito autárquico no Estado-membro de residência é igualmente incompatível com as funções exercidas noutros Estados-membros equivalentes às que implicam uma incompatibilidade no Estado-membro de residência."
+  },
+  "02bd9b093cf0d332": {
+   "fragment_id": "CAPÍTULO II Do exercício do direito de voto e da elegibilidade — Artigo 7º",
+   "type": "divisao",
+   "heading": "CAPÍTULO II Do exercício do direito de voto e da elegibilidade — Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II Do exercício do direito de voto e da elegibilidade — Artigo 7º\n\n1. O eleitor referido no artigo 3º que tenha manifestado essa vontade exercerá o direito de voto no Estado-membro de residência.\n\n2. Se o voto for obrigatório no Estado-membro de residência, essa obrigação é igualmente aplicável aos eleitores referidos no artigo 3º que se encontrem inscritos nos cadernos eleitorais.\n\n3. Os Estados-membros em que o voto não seja obrigatório poderão prever a inscrição automática nos cadernos eleitorais dos eleitores referidos no artigo 3º"
+  },
+  "f3d7f36c33253367": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os Estados-membros adoptarão as medidas necessárias para permitir que os eleitores referidos no artigo 3º sejam inscritos nos cadernos eleitorais em prazo útil antes do acto eleitoral.\n\n2. Para serem inscritos nos cadernos eleitorais, os eleitores referidos no artigo 3º devem apresentar as mesmas provas que os eleitores nacionais.\n\nAlém disso, o Estado-membro de residência pode exigir que os eleitores referidos no artigo 3º apresentem um documento de identidade válido, bem como uma declaração formal que especifique a sua nacionalidade e endereço no Estado-membro de residência.\n\n3. Os eleitores referidos no artigo 3º inscritos nos cadernos eleitorais mantêm a sua inscrição nas mesmas condições que os eleitores nacionais, até que sejam automaticamente eliminados dos cadernos eleitorais por terem deixado de preencher as condições necessárias para o exercício do direito de voto.\n\nOs eleitores que tenham sido inscritos nos cadernos eleitorais a seu pedido podem igualmente ser eliminados desses cadernos se o solicitarem.\n\nEm caso de mudança de residência para outra autarquia local do mesmo Estado-membro, o eleitor será inscrito nos cadernos eleitorais dessa autarquia nas mesmas condições que um eleitor nacional."
+  },
+  "ae8268291a4db255": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Na apresentação da declaração de candidatura, cada elegível referido no artigo 3º deve apresentar as mesmas provas que um candidato nacional. O Estado-membro de residência pode exigir que o candidato apresente uma declaração formal que especifique a sua nacionalidade e endereço nesse Estado-membro.\n\n2. O Estado-membro de residência pode ainda exigir que o elegível referido no artigo 3º:\n\na) Ao apresentar a declaração de candidatura, indique, na declaração formal prevista no nº 1, que não está privado do direito de ser eleito no Estado-membro de origem;\n\nb) Em caso de dúvida quanto ao teor da declaração referida na alínea a) ou se a legislação do Estado-membro em causa assim o exigir, apresente, antes ou após o acto eleitoral, um atestado emitido pelas autoridades administrativas competentes do Estado-membro de origem, certificando que não está privado do direito de ser eleito nesse Estado-membro ou que as referidas autoridades não têm conhecimento dessa incapacidade;\n\nc) Apresente um documento de identidade válido;\n\nd) Especifique, na sua declaração formal referida no nº 1, que não exerce nenhuma das funções incompatíveis referidas no nº 2 do artigo 6º;\n\ne) Indique, eventualmente, o seu último endereço no Estado-membro de origem."
+  },
+  "4f107514752a8ae1": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. O Estado-membro de residência informará atempadamente o interessado do seguimento dada ao seu pedido de inscrição nos cadernos eleitorais ou da decisão respeitante à admissão da sua candidatura.\n\n2. Em caso de recusa de inscrição nos cadernos eleitorais, de recusa do pedido de inscrição nos cadernos eleitorais ou de indeferimento da candidatura, o interessado pode interpor os recursos previstos na legislação do Estado-membro de residência em casos idênticos para os eleitores e elegíveis nacionais."
+  },
+  "b840cc727e7edd52": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nO Estado-membro de residência informará, com a devida antecedência e de forma adequada, os eleitores e elegíveis referidos no artigo 3º das condições e regras de exercício do direito de voto e de elegibilidade nesse Estado."
+  },
+  "df087dd9a22d7692": {
+   "fragment_id": "CAPÍTULO III Disposições derrogatórias e transitórias — Artigo 12º",
+   "type": "divisao",
+   "heading": "CAPÍTULO III Disposições derrogatórias e transitórias — Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III Disposições derrogatórias e transitórias — Artigo 12º\n\n1. Se num Estado-membro, em 1 de Janeiro de 1996, a proporção de cidadãos da União aí residentes que não tenham a sua nacionalidade e que tenham atingido a idade de voto ultrapassar 20 % do conjunto dos cidadãos da União em idade de voto aí residentes, esse Estado-membro pode, em derrogação ao disposto na presente directiva:\n\na) Reservar o direito de voto aos eleitores referidos no artigo 3º que tenham residido nesse Estado-membro durante um período mínimo que não pode ser superior à duração de um mandato de assembleia representativa da autarquia;\n\nb) Reservar a elegibilidade ao elegíveis referidos no artigo 3º que tenham residido nesse Estado-membro durante um período mínimo que não pode ser superior à duração de dois mandatos da referida assembleia; e\n\nc) Adoptar as medidas adequadas em matéria de composição das listas de candidatos, destinadas nomeadamente a facilitar a integração dos cidadãos da União nacionais de um outro Estado-membro.\n\n2. O Reino da Bélgica pode, em derrogação ao disposto na presente directiva, aplicar as disposições da alínea a) do nº 1 a um número limitado de autarquias cuja lista comunicará pelo menos um ano antes do acto eleitoral autárquico para o qual está prevista a utilização da derrogação.\n\n3. Se, em 1 de Janeiro de 1996, a legislação de um Estado-membro determinar que os nacionais de um Estado-membro que residam noutro Estado-membro têm neste último direito de voto para o parlamento nacional e podem ser inscritos, para o efeito, nos cadernos eleitorais exactamente nas mesmas condições que os eleitores nacionais, o primeiro Estado-membro pode não aplicar os artigos 6º a 11º a esses nacionais, em derrogação às disposições da presente directiva.\n\n4. Até 31 de Dezembro de 1998 o mais tardar e, posteriormente, de seis anos em seis anos, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório em que analisará a persistência das razões que justificam a concessão, aos Estados-membros em causa, de uma derrogação nos termos do nº 1 do artigo 8ºB do Tratado e proporá, eventualmente, que se proceda às adaptações necessárias. Os Estados-membros que adoptem disposições derrogatórias nos termos dos nºs 1 e 2 fornecerão à Comissão todos os elementos justificativos necessários."
+  },
+  "a8551f41c80216e6": {
+   "fragment_id": "CAPÍTULO IV Disposições finais — Artigo 13º",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV Disposições finais — Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV Disposições finais — Artigo 13º\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva, incluindo a evolução do eleitorado verificada desde a sua entrada em vigor, no prazo de um ano a contar da realização em todos os Estados-membros de eleições autárquicas organizadas com base nas disposições da presente directiva e proporá, eventualmente, as adaptações adequadas."
+  },
+  "236a77c77e1b0aa5": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros porão em vigor as disposições legais, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Janeiro de 1996. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades da referência são adoptadas pelos Estados-membros."
+  },
+  "e8837dfe8b1ab289": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "560b8b66f7cbeb6a": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 19 de Dezembro de 1994.\n\nPelo Conselho\n\nO Presidente\n\nK. KINKEL\n\n(1) JO nº C 323 de 21. 11. 1994.\n\n(2) Parecer emitido em 14 de Setembro de 1994 (ainda não publicado no Jornal Oficial).\n\n(3) Parecer emitido em 28 de Setembro de 1994 (ainda não publicado no Jornal Oficial)."
+  },
+  "ba5447ba453a6617": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nPara os efeitos do nº 1, alínea a), do artigo 2º da presente directiva, entende-se por «autoridade local»:\n\nDinamarca:\n\namtskommune, Københavns kommune, Frederiksberg kommune, primørkommune,\n\nBélgica:\n\ncommune/gemeente/Gemeinde,\n\nAlemanha:\n\nkreisfreie Stadt bzw. Stadtkreis; Kreis;\n\nGemeinde, Bezirk in der Freien und Hansestadt Hamburg und im Land Berlin;\n\nStadtgemeinde Bremen in der Freien Hansestadt Bremen,\n\nStadt-, Gemeinde-, oder Ortsbezirke bzw., Ortschaften,\n\nGrécia:\n\nêïéíüôçò;\n\näÞìïò;\n\nEspanha:\n\nmunicipio,\n\nentidad de ámbito territorial al municipal,\n\nFrança:\n\ncommune,\n\narrondissement dans les villes déterminées par la législation interne, section de commune,\n\nIrlanda:\n\ncounty, county borough\n\nborough, urban district, town\n\nItália:\n\ncomune,\n\ncircoscrizione,\n\nO Luxemburgo:\n\ncommune,\n\nPaíses Baixos:\n\ngemeente,\n\ndeelgemeente,\n\nPortugal:\n\nmunicípio,\n\nfreguesia,\n\nReino Unido:\n\ncounties in England; counties, county boroughs and communities in Wales: regions and Islands in Scotland; districts in England, Scotland and Northern Ireland; London boroughs; parishes in England; the City of London in relation to ward elections for common councilmen.\n\nDeclaração para a acta da delegação alemã relativa ao nº 1, alínea b), do artigo 2º\n\nA República Federal da Alemanha entende que a definição do nº 1, alínea b), do artigo 2º, relativa à eleição do presidente e dos membros do executivo de uma autarquia local, abrange também a destituição por voto popular (Abwahl).\n\nA República Federal da Alemanha observa que, nos termos do direito constitucional alemão, as disposições em matéria de eleições autárquicas se aplicam por analogia às assembleias locais quando estas substituam órgãos representativos eleitos.\n\nDeclaração para a acta do Conselho e da Comissão relativa ao artigo 3º\n\nO artigo 3º não exclui a possibilidade de um Estado-membro verificar de maneira não discriminatória se um eleitor, na acepção do artigo 3º, não está privado do direito de voto num Estado-membro que não o Estado-membro de residência, se essa condição também for aplicável aos seus próprios cidadãos.\n\nDeclaração para a acta da delegação luxemburguesa respeitante à declaração do Conselho e da Comissão relativa ao artigo 3º\n\nPara as autoridades luxemburguesas, a palavra «verificar» equivale a uma declaração sob compromisso de honra que o eleitor, na acepção do artigo 3º, fará quando se inscrever nos cadernos eleitorais.\n\nDeclaração para a acta do Conselho e da Comissão relativa ao nº 3, terceiro parágrafo, do artigo 5º\n\nAs medidas referidas no nº 3, terceiro parágrafo, do artigo 5º não podem limitar, para além do necessário, a realização dos objectivos enumerados no nº 3, primeiro e segundo parágrafos, do artigo 5º, a possibilidade de os nacionais dos outros Estados-membros serem eleitos.\n\nDeclaração para a acta da delegação francesa relativa ao nº 4 do artigo 5º\n\nA possibilidade de excluir os cidadãos da União nacionais de outros Estados-membros da eleição e da participação no colégio eleitoral encarregado de proceder à eleição do Senado em França, a que se refere o nº 4 do artigo 5º, não pretende, de modo algum, pôr em causa o direito de voto e a elegibilidade nas eleições autárquicas decorrentes do disposto no nº 1 do artigo 8ºB do Tratado que institui a Comunidade Europeia.\n\nDeclaração para a acta do Conselho respeitante à declaração da delegação belga relativa ao nº 2 do artigo 12º\n\nO Conselho toma nota da seguinte declaração da delegação belga:\n\nDeclaração para a acta da delegação belga relativa ao nº 2 do artigo 12º\n\nA Bélgica declara que, caso recorra à derrogação prevista no nº 2 do artigo 12º, esta derrogação só se aplicará a determinadas autarquias em que o número de eleitores referidos no artigo 3º ultrapasse 20 % do número total de eleitores e em que uma situação específica possa justificar, na opinião do Governo federal belga, o recurso a essa derrogação excepcional.\n\nDeclaração para a acta do Conselho respeitante à declaração da Comissão relativa ao artigo 13º\n\nO Conselho toma nota da seguinte declaração da Comissão:\n\nDeclaração para a acta da Comissão relativa ao artigo 13º\n\nA Comissão declara que concederá especial atenção à evolução do eleitorado após a entrada em vigor da directiva, que possa criar problemas específicos em determinados Estados-membros.\n\nDeclaração para a acta da delegação grega relativa ao artigo 13º\n\nTendo em conta a sua posição geográfica, a Grécia atribui especial importância ao relatório a elaborar pela Comissão nos termos do artigo 13º\n\nA Grécia espera que a Comissão, tendo em conta a evolução do eleitorado nos Estados-membros, avalie os problemas específicos que possam surgir em cada um deles após a entrada em vigor da directiva.\n\nDeclaração para a acta da delegação espanhola relativa a Gibraltar\n\nO Reino de Espanha declara que se, nos termos da Directiva 94/80/CE do Conselho, de 19 de Dezembro de 1994, que estabelece as regras de exercício do direito de voto e de elegibilidade nas eleições autárquicas dos cidadãos da União residentes num Estado-membro de que não tenham a nacionalidade, o Reino Unido decidir alargar a sua aplicação a Gibraltar, essa aplicação entender-se-á sem prejuízo da posição espanhola em relação a Gibraltar."
+  },
+  "324c733a5454966e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 1994\n\nque establece as regras de exercício do direito de voto e de eligibilidade nas eleições autárquicas dos cidadãos da União residentes num Estado-membro de que não tenham a nacionalidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 1 do seu artigo 8ºB,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/145f4dba-4b7e-43bc-81a5-54e1d143fc72.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/145f4dba-4b7e-43bc-81a5-54e1d143fc72.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/145f4dba-4b7e-43bc-81a5-54e1d143fc72.0018.03/DOC_1#E0003)),\n\nConsiderando que o Tratado da União Europeia constitui uma nova etapa no processo de criação de uma união cada vez mais estreita entre os povos da Europa; que a União tem, nomeadamente, como missão organizar coerente e solidariamente as relações entre os povos dos Estados-membros e que um dos seus objectivos fundamentais é o reforço da defesa dos direitos e dos interesses dos nacionais dos seus Estados-membros mediante a instituição de uma cidadania da União;\n\nConsiderando que, para o efeito, as disposições do título II do Tratado da União Europeia instituem uma cidadania da União em benefício de todos os nacionais dos Estados-membros, reconhecendo-lhes, a esse título, um conjunto de direitos;\n\nConsiderando que o direito de eleger e de ser eleito nas eleições autárquicas do Estado-membro de residência, previsto no nº 1 do artigo 8ºB do Tratado que institui a Comunidade Europeia, constitui uma aplicação do princípio da igualdade e da não discriminação entre cidadãos nacionais e não nacionais e um corolário do direito de livre circulação e permanência consagrado no artigo 8ºA do Tratado;\n\nConsiderando que a aplicação do nº 1 do artigo 8ºB do Tratado não implica uma harmonização global dos regimes eleitorais dos Estados-membros; que se destina essencialmente a suprimir a condição de nacionalidade que actualmente é exigida na maior parte dos Estados-membros para o exercício do direito de voto e de elegibilidade e que, além disso, para ter em conta o princípio da proporcionalidade, consignado no terceiro parágrafo do artigo 3ºB do Tratado, o conteúdo da legislação comunitária nessa matéria não deve exceder o necessário para atingir o objectivo do nº 1 do artigo 8ºB do Tratado;\n\nConsiderando que o nº 1 do artigo 8ºB do Tratado tem por objectivo assegurar que todos os cidadãos da União, nacionais ou não do Estado-membro de residência, possam aí exercer o seu direito de voto e ser eleitos nas eleições autárquicas nas mesmas condições, e que é necessário, por conseguinte, que as condições, nomeadamente em matéria de período e de prova de residência, válidas para os não nacionais sejam idênticas às eventualmente aplicáveis aos nacionais do Estado-membro em questão; que os cidadãos não nacionais não estarão sujeitos a condições específicas a não ser que, a título excepcional, se justifique um tratamento diferente dos nacionais e dos não nacionais por circunstâncias específicas destes últimos que os distingam dos primeiros;\n\nConsiderando que o nº 1 do artigo 8ºB do Tratado reconhece o direito de eleger e de ser eleito nas eleições autárquicas do Estado-membro de residência sem, no entanto, suprimir o direito de eleger e de ser eleito no Estado-membro de que o cidadão da União é nacional; que é necessário respeitar a liberdade de escolha dos cidadãos de participarem ou não nas eleições autárquicas do Estado-membro de residência; que, como tal, é conveniente que esses cidadãos manifestem a vontade de aí exercerem o seu direito de voto; e que, nos Estados-membros em que o voto não é obrigatório, possam ser automaticamente inscritos nos cadernos eleitorais;\n\nConsiderando que a administração local dos Estados-membros reflecte tradições políticas e jurídicas diferentes e se caracteriza por uma grande riqueza de estruturas; que o conceito de eleições autárquicas não é o mesmo em todos os Estados-membros; que é conveniente, por conseguinte, especificar o objecto da directiva definindo a noção de eleições autárquicas; que estas eleições incluem as eleições por sufrágio universal directo a nível das pessoas colectivas territoriais de base e das suas subdivisões; que se trata tanto das eleições por sufrágio universal directo para as assembleias representativas da autarquia como dos membros do executivo autárquico;\n\nConsiderando que a inelegibilidade pode resultar de uma decisão individual tomada pelos poderes constituídos tanto do Estado-membro de residência como do Estado-membro de origem; que, dada a importância política da função do eleito autárquico, é conveniente que os Estados-membros possam tomar as medidas adequadas para evitar que uma pessoa privada do direito de ser eleito no seu Estado-membro de origem seja reintegrada nesse direito pelo simples facto de residir noutro Estado-membro; que este problema específico dos candidatos não nacionais justifica que os Estados-membros que o entendam necessário possam sujeitá-los não só ao regime de inelegibilidade do Estado-membro de residência mas também ao regime do Estado-membro de origem nessa matéria; que, tendo em conta o princípio da proporcionalidade, é suficiente subordinar o direito de voto apenas ao regime de incapacidade eleitoral do Estado-membro de residência;\n\nConsiderando que as atribuições do executivo das autarquias locais podem incluir a participação no exercício da autoridade pública e na salvaguarda dos interesses gerais; que é, pois, conveniente que os Estados-membros possam reservar essas funções para os respectivos nacionais; que é igualmente conveniente que, para o efeito, os Estados-membros possam tomar as medidas adequadas, não podendo, no entanto, estas medidas limitar, para além do necessário à realização deste objectivo, a possibilidade de os nacionais de outros Estados-membros serem eleitos;\n\nConsiderando que, da mesma forma, convém reservar aos nacionais do Estado-membro em questão que tenham sido eleitos membros do executivo autárquico a possibilidade de participarem na eleição da assembleia parlamentar;\n\nConsiderando que, sempre que as legislações dos Estados-membros prevejam incompatibilidades entre a qualidade de eleito municipal e outras funções, é conveniente que os Estados-membros possam alargar essas incompatibilidades a funções equivalentes exercidas noutros Estados-membros;\n\nConsiderando que as derrogações às regras gerais da presente directiva devem ser justificadas, nos termos do nº 1 do artigo 8ºB do Tratado, por problemas específicos de um Estado-membro, e que estas disposições derrogatórias, pela sua natureza, devem ser sujeitas a reexame;\n\nConsiderando que esses problemas específicos se podem colocar, nomeadamente, num Estado-membro em que a proporção de cidadãos da União que nele residem sem que tenham a sua nacionalidade e tenham atingido a idade de voto é muito significativamente superior à média; que uma proporção de 20% desses cidadãos relativamente ao conjunto do eleitorado justifica disposições derrogatórias que se baseiem no critério do período de residência;\n\nConsiderando que a cidadania da União se destina a uma melhor integração dos cidadãos da União no seu país de acolhimento e que, neste contexto, é coerente com as intenções dos autores do Tratado evitar qualquer polarização entre listas de candidatos nacionais e não nacionais;\n\nConsiderando que o risco de polarização diz especialmente respeito a um Estado-membro em que a proporção de cidadãos da União não nacionais que atingiram a idade de voto excede 20% do conjunto dos cidadãos da União em idade de voto aí residentes e que, por conseguinte, esse Estado-membro deve poder prever disposições específicas, no respeito do artigo 8ºB do Tratado, relativas à composição das listas de candidatos;\n\nConsiderando que é necessário tomar em consideração o facto de em determinados Estados-membros os nacionais de outros Estados-membros aí residentes disporem do direito de voto para o parlamento nacional, pelo que as formalidades previstas pela presente directiva poderão ser simplificadas;\n\nConsiderando que o Reino da Bélgica apresenta particularidades e equilíbrios próprios relacionados com o facto de a sua Constituição prever, nos artigos 1º a 4º, três línguas oficiais e uma repartição em regiões e comunidades; e que, por essas razões, a aplicação integral da presente directiva em determinadas autarquias poderá ter efeitos tais que convirá prever uma possibilidade de derrogação ao disposto na presente directiva para ter em conta essas particularidades e equilíbrios;\n\nConsiderando que a Comissão procederá à avaliação da aplicação da directiva do ponto de vista jurídico e prático, incluindo a evolução do eleitorado verificada após a entrada em vigor da directiva; que, para o efeito, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "3c57990c1f7aa23f": {
+   "fragment_id": "Generalidades",
+   "type": "divisao",
+   "heading": "Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Generalidades"
+  },
+  "b62a002bc6ce0a05": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva estabelece as regras de exercício do direito de voto e de elegibilidade nas eleições autárquicas dos cidadãos da União residentes num Estado-membro de que não tenham a nacionalidade.\n\n2. As disposições da presente directiva não afectam as disposições dos Estados-membros sobre o direito de voto e a elegibilidade quer dos seus nacionais que residam fora do seu território nacional quer dos nacionais de países terceiros que residam nesse Estado."
+  },
+  "08346431b8a72180": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Se, para serem eleitores ou elegíveis, os nacionais do Estado-membro de residência necessitarem de ter residido durante um período mínimo no território nacional, considera-se que os eleitores e elegíveis referidos no artigo 3º preenchem esta condição quando tenham residido durante um período equivalente noutros Estados-membros.\n\n2. Se, nos termos da legislação do Estado-membro de residência, os seus nacionais só puderem ser eleitores ou elegíveis na autarquia local em que têm a sua residência principal, esta condição é igualmente aplicável aos eleitores e elegíveis referidos no artigo 3º.\n\n3. O disposto no nº 1 não prejudica as disposições de cada Estado-membro que subordinem o exercício do direito de voto e a elegibilidade de todo o eleitor ou elegível numa determinada autarquia local à condição de terem residido durante um período mínimo no território dessa autarquia local.\n\nO disposto no nº 1 também não prejudica as disposições nacionais já em vigor à data de adopção da presente directiva que subordinem o exercício do direito de voto e a elegibilidade à condição de um período mínimo de residência na parte do Estado-membro em que se insere a autarquia local em questão."
+  },
+  "ea20a0f05a452b7d": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os Estados-membros de residência podem dispor que qualquer cidadão da União que seja inelegível em consequência de uma decisão individual em matéria civil ou de uma decisão penal, por força da legislação do seu Estado-membro de origem, fica privado do exercício desse direito nas eleições autárquicas.\n\n2. A candidatura de qualquer cidadão da União às eleições autárquicas do Estado-membro de residência pode ser indeferida se o cidadão não puder apresentar a declaração prevista no nº 2, alínea a), do artigo 9º, ou o atestado previsto no nº 2, alínea b), do artigo 9º.\n\n3. Os Estados-membros podem dispor que somente os seus nacionais são elegíveis para as funções de presidente ou de membro do órgão colegial executivo de uma autarquia local, se estas pessoas forem eleitas para exercer essas funções durante a duração do mandato.\n\nOs Estados-membros podem dispor também que o exercício a título provisório ou interino das funções de presidente ou de membro do órgão colegial executivo de uma autarquia local fica reservado aos seus nacionais.\n\nAs disposições que os Estados-membros podem adoptar para garantir o exercício das funções referidas no primeiro parágrafo e do exercício a título provisório ou interno referido na segundo parágrafo exclusivamente pelos seus nacionais, deverão respeitar o Tratado e os princípios gerais do direito, bem como serem adequadas, necessárias e proporcionais aos objectivos prosseguidos.\n\n4. Os Estados-membros podem dispor também que os cidadãos da União eleitos membros de um órgão representativo não poderão participar na designação dos eleitores de uma assembleia parlamentar nem na eleição dos membros dessa assembleia."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "276892b5b39f4e55": {
+   "fragment_id": "Do exercício do direito de voto e da elegibilidade",
+   "type": "divisao",
+   "heading": "Do exercício do direito de voto e da elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Do exercício do direito de voto e da elegibilidade"
+  },
+  "9c685b19b9ea770b": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. O eleitor referido no artigo 3º que tenha manifestado essa vontade exercerá o direito de voto no Estado-membro de residência.\n\n2. Se o voto for obrigatório no Estado-membro de residência, essa obrigação é igualmente aplicável aos eleitores referidos no artigo 3º que se encontrem inscritos nos cadernos eleitorais.\n\n3. Os Estados-membros em que o voto não seja obrigatório poderão prever a inscrição automática nos cadernos eleitorais dos eleitores referidos no artigo 3º."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "bb8ccb00dbdc6181": {
+   "fragment_id": "Disposições derrogatórias e transitórias",
+   "type": "divisao",
+   "heading": "Disposições derrogatórias e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições derrogatórias e transitórias"
+  },
+  "13be8163b4335f4c": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Se num Estado-membro, em 1 de Janeiro de 1996, a proporção de cidadãos da União aí residentes que não tenham a sua nacionalidade e que tenham atingido a idade de voto ultrapassar 20% do conjunto dos cidadãos da União em idade de voto aí residentes, esse Estado-membro pode, em derrogação ao disposto na presente directiva:\n\na) Reservar o direito de voto aos eleitores referidos no artigo 3º que tenham residido nesse Estado-membro durante um período mínimo que não pode ser superior à duração de um mandato de assembleia representativa da autarquia;\n\nb) Reservar a elegibilidade ao elegíveis referidos no artigo 3º que tenham residido nesse Estado-membro durante um período mínimo que não pode ser superior à duração de dois mandatos da referida assembleia; e\n\nc) Adoptar as medidas adequadas em matéria de composição das listas de candidatos, destinadas nomeadamente a facilitar a integração dos cidadãos da União nacionais de um outro Estado-membro.\n\n2. O Reino da Bélgica pode, em derrogação ao disposto na presente directiva, aplicar as disposições da alínea a) do nº 1 a um número limitado de autarquias cuja lista comunicará pelo menos um ano antes do acto eleitoral autárquico para o qual está prevista a utilização da derrogação.\n\n3. Se, em 1 de Janeiro de 1996, a legislação de um Estado-membro determinar que os nacionais de um Estado-membro que residam noutro Estado-membro têm neste último direito de voto para o parlamento nacional e podem ser inscritos, para o efeito, nos cadernos eleitorais exactamente nas mesmas condições que os eleitores nacionais, o primeiro Estado-membro pode não aplicar os artigos 6º a 11º a esses nacionais, em derrogação às disposições da presente directiva.\n\n4. Até 31 de Dezembro de 1998 o mais tardar e, posteriormente, de seis anos em seis anos, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório em que analisará a persistência das razões que justificam a concessão, aos Estados-membros em causa, de uma derrogação nos termos do nº 1 do artigo 8ºB do Tratado e proporá, eventualmente, que se proceda às adaptações necessárias. Os Estados-membros que adoptem disposições derrogatórias nos termos dos nº ^s^ 1 e 2 fornecerão à Comissão todos os elementos justificativos necessários."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "78c04c48110c0f72": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva, incluindo a evolução do eleitorado verificada desde a sua entrada em vigor, no prazo de um ano a contar da realização em todos os Estados-membros de eleições autárquicas organizadas com base nas disposições da presente directiva e proporá, eventualmente, as adaptações adequadas."
+  },
+  "f3be5dc0de880ae1": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "b2bdf85f73245cd5": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "c3afc51b070832ff": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nPara os efeitos da alínea a) do n.º 1 do artigo 2.º da presente directiva, entende-se por «autoridade local»:\n\nBélgica:\n\ncommune/gemeente/Gemeinde,\n\nBulgária:\n\nобщина/кметство/Общината е основната административно-териториална единица, в която се осъществява местното самоуправление,\n\nRepública Checa:\n\n*obec, městský obvod nebo městská část územně členěného statutárního města, městská část hlavního města Prahy,*\n\nDinamarca:\n\n*amtskommune, Koøbenhavns kommune, Frederiksberg kommune, primærkommune,*\n\nAlemanha:\n\nkreisfreie Stadt bzw. Stadtkreis; Kreis; Gemeinde, Bezirk in der Freien und Hansestadt Hamburg und im Land Berlin; Stadtgemeinde Bremen in der Freien Hansestadt Bremen, Stadt-, Gemeinde-, oder Ortsbezirke bzw. Ortschaften,\n\nEstónia:\n\n*vald, linn,*\n\nGrécia:\n\n*κοινότης, δήμος,*\n\nEspanha:\n\n*municipio, entidad de ámbito territorial inferior al municipal,*\n\nFrança:\n\n*commune, arrondissement dans les villes déterminées par la législation interne, section de commune,*\n\nIrlanda:\n\n*country, county borough, borough, urban district, town,*\n\nItália:\n\n*comune, circoscrizione,*\n\nChipre:\n\n*δήμος, κοινότητα,*\n\nLetónia:\n\n*pagasts, novads, pilsēta,*\n\nLituânia:\n\n*Savivaldybės taryba,*\n\nLuxemburgo:\n\n*commune*,\n\nHungria:\n\n*települési önkormányzat; község, nagyközség, város, megyei jogú város, főváros, főváros kerületei; területi önkormányzat; megye*,\n\nMalta:\n\n*Kunsill Lokali*,\n\nPaíses Baixos:\n\n*gemeente, deelgemeente*,\n\nÁustria:\n\n*Gemeinden, Bezirke in der Stadt Wien*,\n\nPolónia:\n\n*gmina*,\n\nPortugal:\n\nmunicípio, freguesia,\n\nRoménia:\n\ncomuna, orașul, municipiul, sectorul (numai în municipiul București) și județul,\n\nEslovénia:\n\n*občina*,\n\nEslováquia:\n\n*samospráva obce: obec, mesto, hlavné mesto Slovenskej republiky Bratislava, mesto Košice, mestská časť hlavného mesta Slovenskej republiky Bratislavy, mestská časť mesta Košice, samospráva vyššieho územného celku: samosprávny kraj*,\n\nFinlândia:\n\n*kunta, kommun, kommun på Åland*,\n\nSuécia:\n\n*kommuner, landsting*,\n\nReno Unido:\n\n*counties in England; counties, county boroughs and communities in Wales: regions and Islands in Scotland; districts in England, Scotland and Northern Ireland; London boroughs; parishes in England; the City of London in relation to ward elections for common councilmen*."
+  },
+  "1c026c8d96fe8387": {
+   "fragment_id": "Declaração para a acta da delegação alemanã relativa ao n.º 1, alinea b), do artigo 2.º",
+   "type": "divisao",
+   "heading": "Declaração para a acta da delegação alemanã relativa ao n.º 1, alinea b), do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declaração para a acta da delegação alemanã relativa ao n.º 1, alinea b), do artigo 2.º\n\nA República Federal da Alemanha entende que a definição do nº 1, alínea b), do artigo 2º, relativa à eleição do presidente e dos membros do executivo de uma autarquia local, abrange também a destituição por voto popular (*Abwah*l).\n\nA República Federal da Alemanha observa que, nos termos do direito constitucional alemão, as disposições em matéria de eleições autárquicas se aplicam por analogia às assembleias locais quando estas substituam órgãos representativos eleitos."
+  },
+  "9f01322ad6a873cc": {
+   "fragment_id": "Declaração para a acta do Conselho e da Comissão relativa ao artigo 3.º",
+   "type": "divisao",
+   "heading": "Declaração para a acta do Conselho e da Comissão relativa ao artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declaração para a acta do Conselho e da Comissão relativa ao artigo 3.º\n\nO artigo 3º não exclui a possibilidade de um Estado-membro verificar de maneira não discriminatória se um eleitor, na acepção do artigo 3º, não está privado do direito de voto num Estado-membro que não o Estado-membro de residência, se essa condição também for aplicável aos seus próprios cidadãos."
+  },
+  "097b85478e89393d": {
+   "fragment_id": "Declaração para a acta da delegação luxemburguesa respeitante à declaração do Conselho e da Comissão relativa ao artigo 3.º",
+   "type": "divisao",
+   "heading": "Declaração para a acta da delegação luxemburguesa respeitante à declaração do Conselho e da Comissão relativa ao artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declaração para a acta da delegação luxemburguesa respeitante à declaração do Conselho e da Comissão relativa ao artigo 3.º\n\nPara as autoridades luxemburguesas, a palavra «verificar» equivale a uma declaração sob compromisso de honra que o eleitor, na acepção do artigo 3º, fará quando se inscrever nos cadernos eleitorais."
+  },
+  "26a8424a529b16db": {
+   "fragment_id": "Declaração para a acta do Conselho e da Comissão relativa ao artigo 3, terciero parágrafo, do artigo 5.º",
+   "type": "divisao",
+   "heading": "Declaração para a acta do Conselho e da Comissão relativa ao artigo 3, terciero parágrafo, do artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declaração para a acta do Conselho e da Comissão relativa ao artigo 3, terciero parágrafo, do artigo 5.º\n\nAs medidas referidas no nº 3, terceiro parágrafo, do artigo 5º não podem limitar, para além do necessário, a realização dos objectivos enumerados no nº 3, primeiro e segundo parágrafos, do artigo 5º, a possibilidade de os nacionais dos outros Estados-membros serem eleitos."
+  },
+  "be348b7ab762d077": {
+   "fragment_id": "Declaração para a acta da delegação francesa relativa ao n.º 4 do artigo 5.º",
+   "type": "divisao",
+   "heading": "Declaração para a acta da delegação francesa relativa ao n.º 4 do artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declaração para a acta da delegação francesa relativa ao n.º 4 do artigo 5.º\n\nA possibilidade de excluir os cidadãos da União nacionais de outros Estados-membros da eleição e da participação no colégio eleitoral encarregado de proceder à eleição do Senado em França, a que se refere o nº 4 do artigo 5º, não pretende, de modo algum, pôr em causa o direito de voto e a elegibilidade nas eleições autárquicas decorrentes do disposto no nº 1 do artigo 8ºB do Tratado que institui a Comunidade Europeia."
+  },
+  "1323a7f5c9415e5f": {
+   "fragment_id": "Declaração para a acta do Conselho respeitante à declaração da delegação belga relativa ao n.º 2 do artigo 12.º",
+   "type": "divisao",
+   "heading": "Declaração para a acta do Conselho respeitante à declaração da delegação belga relativa ao n.º 2 do artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declaração para a acta do Conselho respeitante à declaração da delegação belga relativa ao n.º 2 do artigo 12.º\n\nO Conselho toma nota da seguinte declaração da delegação belga:"
+  },
+  "d7da5f6a943a5d3c": {
+   "fragment_id": "Declaração para a acta da delegação belga relativa ao nº 2 do artigo 12º",
+   "type": "divisao",
+   "heading": "Declaração para a acta da delegação belga relativa ao nº 2 do artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Declaração para a acta da delegação belga relativa ao nº 2 do artigo 12º\n\nA Bélgica declara que, caso recorra à derrogação prevista no nº 2 do artigo 12º, esta derrogação só se aplicará a determinadas autarquias em que o número de eleitores referidos no artigo 3º ultrapasse 20% do número total de eleitores e em que uma situação específica possa justificar, na opinião do Governo federal belga, o recurso a essa derrogação excepcional."
+  },
+  "a1fadacabd571cfe": {
+   "fragment_id": "Declaração para a acta do Conselho respeitante à declaração da Comassão relativa ao artigo 13.º",
+   "type": "divisao",
+   "heading": "Declaração para a acta do Conselho respeitante à declaração da Comassão relativa ao artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declaração para a acta do Conselho respeitante à declaração da Comassão relativa ao artigo 13.º\n\nO Conselho toma nota da seguinte declaração da Comissão:"
+  },
+  "e744afaaff08f7af": {
+   "fragment_id": "Declaração para a acta da Comissão relativa ao artigo 13º",
+   "type": "divisao",
+   "heading": "Declaração para a acta da Comissão relativa ao artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Declaração para a acta da Comissão relativa ao artigo 13º\n\nA Comissão declara que concederá especial atenção à evolução do eleitorado após a entrada em vigor da directiva, que possa criar problemas específicos em determinados Estados-membros."
+  },
+  "8a1f377418d31b15": {
+   "fragment_id": "Declaração para a acta da delegação grega relativa ao artigo 13.º",
+   "type": "divisao",
+   "heading": "Declaração para a acta da delegação grega relativa ao artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declaração para a acta da delegação grega relativa ao artigo 13.º\n\nTendo em conta a sua posição geográfica, a Grécia atribui especial importância ao relatório a elaborar pela Comissão nos termos do artigo 13º\n\nA Grécia espera que a Comissão, tendo em conta a evolução do eleitorado nos Estados-membros, avalie os problemas específicos que possam surgir em cada um deles após a entrada em vigor da directiva."
+  },
+  "cbff80ff125ccbf3": {
+   "fragment_id": "Declaração para a acta da delegação espanhola relativa a Gibraltar",
+   "type": "divisao",
+   "heading": "Declaração para a acta da delegação espanhola relativa a Gibraltar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declaração para a acta da delegação espanhola relativa a Gibraltar\n\nO Reino de Espanha declara que se, nos termos da Directiva 94/80/CE do Conselho, de 19 de Dezembro de 1994, que estabelece as regras de exercício do direito de voto e de elegibilidade nas eleições autárquicas dos cidadãos da União residentes num Estado-membro de que não tenham a nacionalidade, o Reino Unido decidir alargar a sua aplicação a Gibraltar, essa aplicação entender-se-á sem prejuízo da posição espanhola em relação a Gibraltar.\n\n---"
+  },
+  "9e70d31b685f1730": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/145f4dba-4b7e-43bc-81a5-54e1d143fc72.0018.03/DOC_1#src.E0001)) JO nº C 323 de 21. 11. 1994.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/145f4dba-4b7e-43bc-81a5-54e1d143fc72.0018.03/DOC_1#src.E0002)) Parecer emitido em 14 de Setembro de 1994 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/145f4dba-4b7e-43bc-81a5-54e1d143fc72.0018.03/DOC_1#src.E0003)) Parecer emitido em 28 de Setembro de 1994 (ainda não publicado no Jornal Oficial)."
+  },
+  "b7af1d7f6f9a3569": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 1994\n\nque establece as regras de exercício do direito de voto e de eligibilidade nas eleições autárquicas dos cidadãos da União residentes num Estado-membro de que não tenham a nacionalidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 1 do seu artigo 8ºB,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/9250bcad-3283-4171-81cd-06adeb001883.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/9250bcad-3283-4171-81cd-06adeb001883.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/9250bcad-3283-4171-81cd-06adeb001883.0018.03/DOC_1#E0003)),\n\nConsiderando que o Tratado da União Europeia constitui uma nova etapa no processo de criação de uma união cada vez mais estreita entre os povos da Europa; que a União tem, nomeadamente, como missão organizar coerente e solidariamente as relações entre os povos dos Estados-membros e que um dos seus objectivos fundamentais é o reforço da defesa dos direitos e dos interesses dos nacionais dos seus Estados-membros mediante a instituição de uma cidadania da União;\n\nConsiderando que, para o efeito, as disposições do título II do Tratado da União Europeia instituem uma cidadania da União em benefício de todos os nacionais dos Estados-membros, reconhecendo-lhes, a esse título, um conjunto de direitos;\n\nConsiderando que o direito de eleger e de ser eleito nas eleições autárquicas do Estado-membro de residência, previsto no nº 1 do artigo 8ºB do Tratado que institui a Comunidade Europeia, constitui uma aplicação do princípio da igualdade e da não discriminação entre cidadãos nacionais e não nacionais e um corolário do direito de livre circulação e permanência consagrado no artigo 8ºA do Tratado;\n\nConsiderando que a aplicação do nº 1 do artigo 8ºB do Tratado não implica uma harmonização global dos regimes eleitorais dos Estados-membros; que se destina essencialmente a suprimir a condição de nacionalidade que actualmente é exigida na maior parte dos Estados-membros para o exercício do direito de voto e de elegibilidade e que, além disso, para ter em conta o princípio da proporcionalidade, consignado no terceiro parágrafo do artigo 3ºB do Tratado, o conteúdo da legislação comunitária nessa matéria não deve exceder o necessário para atingir o objectivo do nº 1 do artigo 8ºB do Tratado;\n\nConsiderando que o nº 1 do artigo 8ºB do Tratado tem por objectivo assegurar que todos os cidadãos da União, nacionais ou não do Estado-membro de residência, possam aí exercer o seu direito de voto e ser eleitos nas eleições autárquicas nas mesmas condições, e que é necessário, por conseguinte, que as condições, nomeadamente em matéria de período e de prova de residência, válidas para os não nacionais sejam idênticas às eventualmente aplicáveis aos nacionais do Estado-membro em questão; que os cidadãos não nacionais não estarão sujeitos a condições específicas a não ser que, a título excepcional, se justifique um tratamento diferente dos nacionais e dos não nacionais por circunstâncias específicas destes últimos que os distingam dos primeiros;\n\nConsiderando que o nº 1 do artigo 8ºB do Tratado reconhece o direito de eleger e de ser eleito nas eleições autárquicas do Estado-membro de residência sem, no entanto, suprimir o direito de eleger e de ser eleito no Estado-membro de que o cidadão da União é nacional; que é necessário respeitar a liberdade de escolha dos cidadãos de participarem ou não nas eleições autárquicas do Estado-membro de residência; que, como tal, é conveniente que esses cidadãos manifestem a vontade de aí exercerem o seu direito de voto; e que, nos Estados-membros em que o voto não é obrigatório, possam ser automaticamente inscritos nos cadernos eleitorais;\n\nConsiderando que a administração local dos Estados-membros reflecte tradições políticas e jurídicas diferentes e se caracteriza por uma grande riqueza de estruturas; que o conceito de eleições autárquicas não é o mesmo em todos os Estados-membros; que é conveniente, por conseguinte, especificar o objecto da directiva definindo a noção de eleições autárquicas; que estas eleições incluem as eleições por sufrágio universal directo a nível das pessoas colectivas territoriais de base e das suas subdivisões; que se trata tanto das eleições por sufrágio universal directo para as assembleias representativas da autarquia como dos membros do executivo autárquico;\n\nConsiderando que a inelegibilidade pode resultar de uma decisão individual tomada pelos poderes constituídos tanto do Estado-membro de residência como do Estado-membro de origem; que, dada a importância política da função do eleito autárquico, é conveniente que os Estados-membros possam tomar as medidas adequadas para evitar que uma pessoa privada do direito de ser eleito no seu Estado-membro de origem seja reintegrada nesse direito pelo simples facto de residir noutro Estado-membro; que este problema específico dos candidatos não nacionais justifica que os Estados-membros que o entendam necessário possam sujeitá-los não só ao regime de inelegibilidade do Estado-membro de residência mas também ao regime do Estado-membro de origem nessa matéria; que, tendo em conta o princípio da proporcionalidade, é suficiente subordinar o direito de voto apenas ao regime de incapacidade eleitoral do Estado-membro de residência;\n\nConsiderando que as atribuições do executivo das autarquias locais podem incluir a participação no exercício da autoridade pública e na salvaguarda dos interesses gerais; que é, pois, conveniente que os Estados-membros possam reservar essas funções para os respectivos nacionais; que é igualmente conveniente que, para o efeito, os Estados-membros possam tomar as medidas adequadas, não podendo, no entanto, estas medidas limitar, para além do necessário à realização deste objectivo, a possibilidade de os nacionais de outros Estados-membros serem eleitos;\n\nConsiderando que, da mesma forma, convém reservar aos nacionais do Estado-membro em questão que tenham sido eleitos membros do executivo autárquico a possibilidade de participarem na eleição da assembleia parlamentar;\n\nConsiderando que, sempre que as legislações dos Estados-membros prevejam incompatibilidades entre a qualidade de eleito municipal e outras funções, é conveniente que os Estados-membros possam alargar essas incompatibilidades a funções equivalentes exercidas noutros Estados-membros;\n\nConsiderando que as derrogações às regras gerais da presente directiva devem ser justificadas, nos termos do nº 1 do artigo 8ºB do Tratado, por problemas específicos de um Estado-membro, e que estas disposições derrogatórias, pela sua natureza, devem ser sujeitas a reexame;\n\nConsiderando que esses problemas específicos se podem colocar, nomeadamente, num Estado-membro em que a proporção de cidadãos da União que nele residem sem que tenham a sua nacionalidade e tenham atingido a idade de voto é muito significativamente superior à média; que uma proporção de 20% desses cidadãos relativamente ao conjunto do eleitorado justifica disposições derrogatórias que se baseiem no critério do período de residência;\n\nConsiderando que a cidadania da União se destina a uma melhor integração dos cidadãos da União no seu país de acolhimento e que, neste contexto, é coerente com as intenções dos autores do Tratado evitar qualquer polarização entre listas de candidatos nacionais e não nacionais;\n\nConsiderando que o risco de polarização diz especialmente respeito a um Estado-membro em que a proporção de cidadãos da União não nacionais que atingiram a idade de voto excede 20% do conjunto dos cidadãos da União em idade de voto aí residentes e que, por conseguinte, esse Estado-membro deve poder prever disposições específicas, no respeito do artigo 8ºB do Tratado, relativas à composição das listas de candidatos;\n\nConsiderando que é necessário tomar em consideração o facto de em determinados Estados-membros os nacionais de outros Estados-membros aí residentes disporem do direito de voto para o parlamento nacional, pelo que as formalidades previstas pela presente directiva poderão ser simplificadas;\n\nConsiderando que o Reino da Bélgica apresenta particularidades e equilíbrios próprios relacionados com o facto de a sua Constituição prever, nos artigos 1º a 4º, três línguas oficiais e uma repartição em regiões e comunidades; e que, por essas razões, a aplicação integral da presente directiva em determinadas autarquias poderá ter efeitos tais que convirá prever uma possibilidade de derrogação ao disposto na presente directiva para ter em conta essas particularidades e equilíbrios;\n\nConsiderando que a Comissão procederá à avaliação da aplicação da directiva do ponto de vista jurídico e prático, incluindo a evolução do eleitorado verificada após a entrada em vigor da directiva; que, para o efeito, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0ba57d4badf71192": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nPara os efeitos do artigo 2.º, n.º 1, alínea a), da presente diretiva, entende-se por «autarquia local»:\n\n— *na Áustria:*\n\n— Gemeinden, Bezirke in der Stadt Wien,\n\n— *na Bélgica:*\n\n— commune/gemeente/Gemeinde,\n\n— *na Bulgária:*\n\n— община/кметство/Общината е основната административно-териториална единица, в която се осъществява местното самоуправление,\n\n— *em Chipre:*\n\n— δήμος, κοινότητα,\n\n— *na República Checa:*\n\n— obec, městský obvod nebo městská část územně členěného statutárního města, městská část hlavního města Prahy,\n\n— *na Dinamarca:*\n\n— kommune, region,\n\n— *na Estónia:*\n\n— vald, linn,\n\n— *na Finlândia:*\n\n— kunta, kommun, kommun på Åland,\n\n— *em França:*\n\n— commune, arrondissement dans les villes déterminées par la législation interne, section de commune,\n\n— *na Alemanha:*\n\n— kreisfreie Stadt bzw. Stadtkreis; Kreis; Gemeinde, Bezirk in der Freien und Hansestadt Hamburg und im Land Berlin; Stadtgemeinde Bremen in der Freien Hansestadt Bremen, Stadt-, Gemeinde-, oder Ortsbezirke bzw. Ortschaften,\n\n— *na Grécia:*\n\n— δήμος,\n\n— *na Hungria:*\n\n— települési önkormányzat; község, nagyközség, város, megyei jogú város, főváros, főváros kerületei; területi önkormányzat; megye,\n\n— *na Irlanda:*\n\n— City Council, County Council, Borough Council, Town Council,\n\n— *em Itália:*\n\n— comune, circoscrizione,\n\n— *na Letónia:*\n\n— novads, republikas pilsēta\n\n— *na Lituânia:*\n\n— Savivaldybė\n\n— *no Luxemburgo:*\n\n— commune,\n\n— *em Malta:*\n\n— Kunsill Lokali,\n\n— *nos Países Baixos:*\n\n— gemeente, deelgemeente,\n\n— *na Polónia:*\n\n— gmina,\n\n— *em Portugal:*\n\n— município, freguesia,\n\n— *na Roménia:*\n\n— comuna, orașul, municipiul, sectorul (numai în municipiul București) și județul,\n\n— *na Eslováquia:*\n\n— samospráva obce: obec, mesto, hlavné mesto Slovenskej republiky Bratislava, mesto Košice, mestská časť hlavného mesta Slovenskej republiky Bratislavy, mestská časť mesta Košice; samospráva vyššieho územného celku: samosprávny kraj,\n\n— *na Eslovénia:*\n\n— občina,\n\n— *em Espanha:*\n\n— municipio, entidad de ámbito territorial inferior al municipal,\n\n— *na Suécia:*\n\n— kommuner, landsting,\n\n— *no Reino Unido:*\n\n— counties in England; counties, county boroughs and communities in Wales; regions and Islands in Scotland; districts in England, Scotland and Northern Ireland; London boroughs; parishes in England; the City of London in relation to ward elections for common councilmen."
+  },
+  "9f2496449ec958b2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9250bcad-3283-4171-81cd-06adeb001883.0018.03/DOC_1#src.E0001)) JO nº C 323 de 21. 11. 1994.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9250bcad-3283-4171-81cd-06adeb001883.0018.03/DOC_1#src.E0002)) Parecer emitido em 14 de Setembro de 1994 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9250bcad-3283-4171-81cd-06adeb001883.0018.03/DOC_1#src.E0003)) Parecer emitido em 28 de Setembro de 1994 (ainda não publicado no Jornal Oficial)."
+  },
+  "4b289ddfb1f1282a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Dezembro de 1994\n\nque establece as regras de exercício do direito de voto e de eligibilidade nas eleições autárquicas dos cidadãos da União residentes num Estado-membro de que não tenham a nacionalidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 1 do seu artigo 8ºB,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/66b0bb24-9e5f-4de3-ac3a-6ea94c890516.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/66b0bb24-9e5f-4de3-ac3a-6ea94c890516.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/66b0bb24-9e5f-4de3-ac3a-6ea94c890516.0018.03/DOC_1#E0003)),\n\nConsiderando que o Tratado da União Europeia constitui uma nova etapa no processo de criação de uma união cada vez mais estreita entre os povos da Europa; que a União tem, nomeadamente, como missão organizar coerente e solidariamente as relações entre os povos dos Estados-membros e que um dos seus objectivos fundamentais é o reforço da defesa dos direitos e dos interesses dos nacionais dos seus Estados-membros mediante a instituição de uma cidadania da União;\n\nConsiderando que, para o efeito, as disposições do título II do Tratado da União Europeia instituem uma cidadania da União em benefício de todos os nacionais dos Estados-membros, reconhecendo-lhes, a esse título, um conjunto de direitos;\n\nConsiderando que o direito de eleger e de ser eleito nas eleições autárquicas do Estado-membro de residência, previsto no nº 1 do artigo 8ºB do Tratado que institui a Comunidade Europeia, constitui uma aplicação do princípio da igualdade e da não discriminação entre cidadãos nacionais e não nacionais e um corolário do direito de livre circulação e permanência consagrado no artigo 8ºA do Tratado;\n\nConsiderando que a aplicação do nº 1 do artigo 8ºB do Tratado não implica uma harmonização global dos regimes eleitorais dos Estados-membros; que se destina essencialmente a suprimir a condição de nacionalidade que actualmente é exigida na maior parte dos Estados-membros para o exercício do direito de voto e de elegibilidade e que, além disso, para ter em conta o princípio da proporcionalidade, consignado no terceiro parágrafo do artigo 3ºB do Tratado, o conteúdo da legislação comunitária nessa matéria não deve exceder o necessário para atingir o objectivo do nº 1 do artigo 8ºB do Tratado;\n\nConsiderando que o nº 1 do artigo 8ºB do Tratado tem por objectivo assegurar que todos os cidadãos da União, nacionais ou não do Estado-membro de residência, possam aí exercer o seu direito de voto e ser eleitos nas eleições autárquicas nas mesmas condições, e que é necessário, por conseguinte, que as condições, nomeadamente em matéria de período e de prova de residência, válidas para os não nacionais sejam idênticas às eventualmente aplicáveis aos nacionais do Estado-membro em questão; que os cidadãos não nacionais não estarão sujeitos a condições específicas a não ser que, a título excepcional, se justifique um tratamento diferente dos nacionais e dos não nacionais por circunstâncias específicas destes últimos que os distingam dos primeiros;\n\nConsiderando que o nº 1 do artigo 8ºB do Tratado reconhece o direito de eleger e de ser eleito nas eleições autárquicas do Estado-membro de residência sem, no entanto, suprimir o direito de eleger e de ser eleito no Estado-membro de que o cidadão da União é nacional; que é necessário respeitar a liberdade de escolha dos cidadãos de participarem ou não nas eleições autárquicas do Estado-membro de residência; que, como tal, é conveniente que esses cidadãos manifestem a vontade de aí exercerem o seu direito de voto; e que, nos Estados-membros em que o voto não é obrigatório, possam ser automaticamente inscritos nos cadernos eleitorais;\n\nConsiderando que a administração local dos Estados-membros reflecte tradições políticas e jurídicas diferentes e se caracteriza por uma grande riqueza de estruturas; que o conceito de eleições autárquicas não é o mesmo em todos os Estados-membros; que é conveniente, por conseguinte, especificar o objecto da directiva definindo a noção de eleições autárquicas; que estas eleições incluem as eleições por sufrágio universal directo a nível das pessoas colectivas territoriais de base e das suas subdivisões; que se trata tanto das eleições por sufrágio universal directo para as assembleias representativas da autarquia como dos membros do executivo autárquico;\n\nConsiderando que a inelegibilidade pode resultar de uma decisão individual tomada pelos poderes constituídos tanto do Estado-membro de residência como do Estado-membro de origem; que, dada a importância política da função do eleito autárquico, é conveniente que os Estados-membros possam tomar as medidas adequadas para evitar que uma pessoa privada do direito de ser eleito no seu Estado-membro de origem seja reintegrada nesse direito pelo simples facto de residir noutro Estado-membro; que este problema específico dos candidatos não nacionais justifica que os Estados-membros que o entendam necessário possam sujeitá-los não só ao regime de inelegibilidade do Estado-membro de residência mas também ao regime do Estado-membro de origem nessa matéria; que, tendo em conta o princípio da proporcionalidade, é suficiente subordinar o direito de voto apenas ao regime de incapacidade eleitoral do Estado-membro de residência;\n\nConsiderando que as atribuições do executivo das autarquias locais podem incluir a participação no exercício da autoridade pública e na salvaguarda dos interesses gerais; que é, pois, conveniente que os Estados-membros possam reservar essas funções para os respectivos nacionais; que é igualmente conveniente que, para o efeito, os Estados-membros possam tomar as medidas adequadas, não podendo, no entanto, estas medidas limitar, para além do necessário à realização deste objectivo, a possibilidade de os nacionais de outros Estados-membros serem eleitos;\n\nConsiderando que, da mesma forma, convém reservar aos nacionais do Estado-membro em questão que tenham sido eleitos membros do executivo autárquico a possibilidade de participarem na eleição da assembleia parlamentar;\n\nConsiderando que, sempre que as legislações dos Estados-membros prevejam incompatibilidades entre a qualidade de eleito municipal e outras funções, é conveniente que os Estados-membros possam alargar essas incompatibilidades a funções equivalentes exercidas noutros Estados-membros;\n\nConsiderando que as derrogações às regras gerais da presente directiva devem ser justificadas, nos termos do nº 1 do artigo 8ºB do Tratado, por problemas específicos de um Estado-membro, e que estas disposições derrogatórias, pela sua natureza, devem ser sujeitas a reexame;\n\nConsiderando que esses problemas específicos se podem colocar, nomeadamente, num Estado-membro em que a proporção de cidadãos da União que nele residem sem que tenham a sua nacionalidade e tenham atingido a idade de voto é muito significativamente superior à média; que uma proporção de 20% desses cidadãos relativamente ao conjunto do eleitorado justifica disposições derrogatórias que se baseiem no critério do período de residência;\n\nConsiderando que a cidadania da União se destina a uma melhor integração dos cidadãos da União no seu país de acolhimento e que, neste contexto, é coerente com as intenções dos autores do Tratado evitar qualquer polarização entre listas de candidatos nacionais e não nacionais;\n\nConsiderando que o risco de polarização diz especialmente respeito a um Estado-membro em que a proporção de cidadãos da União não nacionais que atingiram a idade de voto excede 20% do conjunto dos cidadãos da União em idade de voto aí residentes e que, por conseguinte, esse Estado-membro deve poder prever disposições específicas, no respeito do artigo 8ºB do Tratado, relativas à composição das listas de candidatos;\n\nConsiderando que é necessário tomar em consideração o facto de em determinados Estados-membros os nacionais de outros Estados-membros aí residentes disporem do direito de voto para o parlamento nacional, pelo que as formalidades previstas pela presente directiva poderão ser simplificadas;\n\nConsiderando que o Reino da Bélgica apresenta particularidades e equilíbrios próprios relacionados com o facto de a sua Constituição prever, nos artigos 1º a 4º, três línguas oficiais e uma repartição em regiões e comunidades; e que, por essas razões, a aplicação integral da presente directiva em determinadas autarquias poderá ter efeitos tais que convirá prever uma possibilidade de derrogação ao disposto na presente directiva para ter em conta essas particularidades e equilíbrios;\n\nConsiderando que a Comissão procederá à avaliação da aplicação da directiva do ponto de vista jurídico e prático, incluindo a evolução do eleitorado verificada após a entrada em vigor da directiva; que, para o efeito, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "73a94cd6db50436f": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nPara os efeitos do artigo 2.º, n.º 1, alínea a), da presente diretiva, entende–se por «autarquia local»:\n\n— *na Bélgica:*\n\n— commune/gemeente/Gemeinde,\n\n— *na Bulgária:*\n\n— община/кметство/Общината е основната административно–териториална единица, в която се осъществява местното самоуправление,\n\n— *na República Checa:*\n\n— obec, městský obvod nebo městská část územně členěného statutárního města, městská část hlavního města Prahy,\n\n— *na Dinamarca:*\n\n— kommune, region,\n\n— *na Alemanha:*\n\n— kreisfreie Stadt bzw. Stadtkreis; Kreis; Gemeinde, Bezirk in der Freien und Hansestadt Hamburg und im Land Berlin; Stadtgemeinde Bremen in der Freien Hansestadt Bremen, Stadt–, Gemeinde–, oder Ortsbezirke bzw. Ortschaften,\n\n— *na Estónia:*\n\n— vald, linn,\n\n— *na Irlanda:*\n\n— City Council, County Council, Borough Council, Town Council,\n\n— *na Grécia:*\n\n— δήμος,\n\n— *em Espanha:*\n\n— municipio, entidad de ámbito territorial inferior al municipal,\n\n— *em França:*\n\n— commune, arrondissement dans les villes déterminées par la législation interne, section de commune,\n\n— *na Croácia:*\n\n— općina, grad, županija,\n\n— *em Itália:*\n\n— comune, circoscrizione,\n\n— *em Chipre:*\n\n— δήμος, κοινότητα,\n\n— *na Letónia:*\n\n— novads, republikas pilsēta,\n\n— *na Lituânia:*\n\n— Savivaldybė,\n\n— *no Luxemburgo:*\n\n— commune,\n\n— *na Hungria:*\n\n— települési önkormányzat; község, nagyközség, város, megyei jogú város, főváros, főváros kerületei; területi önkormányzat; megye,\n\n— *em Malta:*\n\n— Kunsill Lokali,\n\n— *nos Países Baixos:*\n\n— gemeente, deelgemeente,\n\n— *na Áustria:*\n\n— Gemeinden, Bezirke in der Stadt Wien,\n\n— *na Polónia:*\n\n— gmina,\n\n— *em Portugal:*\n\n— município, freguesia,\n\n— *na Roménia:*\n\n— comuna, orașul, municipiul, sectorul (numai în municipiul București) și județul,\n\n— *na Eslovénia:*\n\n— občina,\n\n— *na Eslováquia:*\n\n— samospráva obce: obec, mesto, hlavné mesto Slovenskej republiky Bratislava, mesto Košice, mestská časť hlavného mesta Slovenskej republiky Bratislavy, mestská časť mesta Košice; samospráva vyššieho územného celku: samosprávny kraj,\n\n— *na Finlândia:*\n\n— kunta, kommun, kommun på Åland,\n\n— *na Suécia:*\n\n— kommuner, landsting,\n\n— *no Reino Unido:*\n\n— counties in England; counties, county boroughs and communities in Wales; regions and Islands in Scotland; districts in England, Scotland and Northern Ireland; London boroughs; parishes in England; the City of London in relation to ward elections for common councilmen.\n\n---"
+  },
+  "7ff6bcdc5b923af1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/66b0bb24-9e5f-4de3-ac3a-6ea94c890516.0018.03/DOC_1#src.E0001)) JO nº C 323 de 21. 11. 1994.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/66b0bb24-9e5f-4de3-ac3a-6ea94c890516.0018.03/DOC_1#src.E0002)) Parecer emitido em 14 de Setembro de 1994 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/66b0bb24-9e5f-4de3-ac3a-6ea94c890516.0018.03/DOC_1#src.E0003)) Parecer emitido em 28 de Setembro de 1994 (ainda não publicado no Jornal Oficial)."
+  }
+ }
+}

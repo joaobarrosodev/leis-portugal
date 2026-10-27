@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517242:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2000-75070866",
+ "dre_path": "/dr/detalhe/lei/12-b-2000-517242",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-07-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75071090"
+   ]
+  },
+  {
+   "date": "2002-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:196970:por",
+     "title": "Lei n.º 19/2002",
+     "published": "2002-07-31",
+     "dre_path": "/dr/detalhe/lei/19-2002-196970"
+    }
+   ],
+   "changes": [
+    "Altera Artigo Único"
+   ],
+   "fragments": [
+    "75071090",
+    "75071097",
+    "75071091"
+   ]
+  }
+ ],
+ "fragments": {
+  "75071090": {
+   "fragment_id": "75070867",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 12-B/2000\n\nde 8 de Julho\n\nProíbe como contra-ordenação os espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas e revoga o Decreto n.º 15355, de 14 de Abril de 1928.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "75071097": {
+   "fragment_id": "75070869",
+   "type": 11,
+   "heading": "Artigo Único",
+   "in_force_from": "2002-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 19/2002 - Diário da República n.º 175/2002, Série I-A de 2002-07-31](https://diariodarepublica.pt/dr/detalhe/lei/19-2002-196970), em vigor a partir de 2002-08-05"
+   ],
+   "markdown": "###### Artigo Único\n\n1 - São proibidos os espectáculos tauromáquicos com touros de morte, mesmo que realizados fora dos recintos previstos na lei, constituindo contra-ordenação a prática de lide com tal desfecho, bem como a autorização, organização, promoção e direcção de espectáculos em causa ou o fornecimento quer de reses quer de local para a respectiva realização.\n\n2 - Exceptuam-se do disposto no número anterior as autorizações excepcionais concedidas ao abrigo do disposto no artigo 3.º da Lei n.º 92/95, de 12 de Setembro.\n\n3 - O Governo, ao abrigo da sua competência legislativa própria, definirá o regime contra-ordenacional aplicável, até ao limite máximo de 50000000$00 ou, no caso de entidades colectivas, 80000000$00 no valor das coimas.\n\n4 - É revogado o Decreto n.º 15355, de 14 de Abril de 1928.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 19/2002 - Diário da República n.º 175/2002, Série I-A de 2002-07-31](https://diariodarepublica.pt/dr/detalhe/lei/19-2002-196970), em vigor a partir de 2002-08-05"
+  },
+  "75071091": {
+   "fragment_id": "75070868",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 15 de Junho de 2000.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 3 de Julho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 7 de Julho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

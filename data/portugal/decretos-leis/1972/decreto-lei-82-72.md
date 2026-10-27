@@ -1,0 +1,221 @@
+---
+schema_version: '1.0'
+id: pt:dre:396765:por
+title: Decreto-Lei n.º 82/72
+short_title: null
+summary: Reorganiza a Polícia Judiciária
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça - Gabinete do Ministro
+proposing_entity: null
+official_number: 82/72
+official_date: null
+publication_date: '1972-03-11'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 60/1972, Série I de 1972-03-11
+  number: '60'
+  series: I
+  supplement: null
+  pages: 310 - 312
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/03/06000/03100312.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '396765'
+  dre_path: /dr/detalhe/decreto-lei/82-1972-396765
+  internal: pt:dre:396765:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1972-396765
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1972-396765
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:25:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ee425d85bf2245a4783fb8a47ea83093319c71dd7b0bbc366939c240ac527787
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Admissão de Pessoal
+- Avaliação do Pessoal
+- Carreira Profissional
+- Concurso
+- Extinção de Lugares
+- Formação Profissional
+- Formas de Provimento
+- Orgânica
+- Polícia Judiciária
+- Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:324492:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:475726:por
+  label: "Alterado o art. 13.º, pelo DEC LEI.389/74.1974.08.26.MJ DG.IS [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/389-1974-475726
+  date: '1974-08-26'
+- type: cites
+  target: pt:dre:464989:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307605:por
+  label: "Revogado o art. 17.º, pelo DEC LEI.481/75.1975.09.04.MJ DG.IS [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/481-1975-307605
+  date: '1975-09-04'
+- type: repealed_by
+  target: pt:dre:286514:por
+  label: "Revogado pelo DEC LEI.364/77.1977.09.02.MJ DR.IS [203], sem prejuízo do disposto nos seus arts. 147.º, n.º 2 e 148.º.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/364-1977-286514
+  date: '1977-09-02'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:25:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 82/72
+
+de 11 de Março
+
+A dimensão e as formas evoluídas e complexas da criminalidade dos nossos dias exigem cada vez mais do sistema policial, a que a sociedade confia a sua defesa, uma organização adequada, meios técnicos eficazes e elementos qualificados.
+
+O Ministério da Justiça - que oportunamente criou na Polícia Judiciária, entre outros serviços, um laboratório de polícia científica e um arquivo central de registos dotado de um gabinete para identificação e recolha de vestígios - propõe-se aperfeiçoar estruturas e preparar quadros capazes de responder ao desafio da moderna delinquência. E, contudo, mantém-se pràticamente o número de unidades de trabalho.
+
+Dentro deste espírito, institui-se agora uma orgânica maleável, estabelecem-se carreiras susceptíveis de atrair e dinamizar valores, exigem-se maiores habilitações literárias como condição de ingresso dos funcionários e intensifica-se a sua preparação através de cursos e estágios, no País e no estrangeiro, dando-se corpo à ideia de uma formação permanente. Mantém-se, em tudo o mais, a legislação em vigor.
+
+O presente diploma retoma o caminho iniciado há cerca de vinte e seis anos pelo [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945, e continuado especialmente pelos Decretos-Leis n.º 39351, de 7 de Setembro de 1953, n.º 41306, de 2 de Outubro de 1957, e n.º 45914, de 14 de Setembro de 1964. Tem-se, no entanto, a consciência de que se dá apenas mais um passo em direcção ao objectivo pretendido: as soluções desejáveis hão-de resultar de um esforço gradual e constante, em obediência a planos de antemão delineados e com os ajustamentos que a experiência aconselhe.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. O pessoal da Polícia Judiciária constitui um quadro único, com a composição constante do mapa anexo ao presente diploma.
+
+2. O pessoal técnico é integrado em carreiras, organizadas nos termos do mapa referido no número anterior.
+
+Art. 2.º Para admissão aos lugares abaixo indicados são exigíveis as seguintes habilitações mínimas:
+
+a) Inspectores de 3.ª classe e chefes de secretaria - licenciatura em Direito;
+
+b) Técnicos de laboratório de 3.ª classe - curso superior adequado;
+
+c) Agentes de 3.ª classe e técnicos auxiliares de 3.ª classe de lofoscopia e de laboratório - curso geral dos liceus ou habilitação equiparada.
+
+Art. 3.º - 1. A nomeação para os cargos de inspector de 3.ª classe, técnico de laboratório de 3.ª classe e chefe de secretaria terá carácter provisório durante o período de dois anos, prorrogável por mais um ano.
+
+2. Findo o período inicial, ou a sua prorrogação, o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
+
+Art. 4.º - 1. Quando recair em delegado do procurador da República ou juiz de direito de 3.ª classe, o provimento dos lugares de inspector de 3.ª classe será feito em comissão de serviço, pelo prazo de três anos, prorrogável por iguais períodos, até que o magistrado seja promovido a juiz de direito de 1.ª classe, podendo a nomeação converter-se em definitiva após três anos de bom e efectivo serviço.
+
+2. Os inspectores providos em comissão de serviço, nos termos do número anterior, serão abrangidos nas promoções da carreira do pessoal superior de investigação criminal, sendo-lhes, porém, atribuído o ordenado correspondente ao lugar de origem, se for mais elevado.
+
+Art. 5.º - 1. A nomeação para os cargos de agente de 3.ª classe recairá em indivíduos com idade não superior a 30 anos, que revelem as necessárias aptidões em inspecção médica, testes adequados e mediante outros elementos de informação.
+
+2. O provimento terá carácter provisório durante um ano e, enquanto não se converter em definitivo, os agentes de 3.ª classe são considerados agentes estagiários.
+
+Art. 6.º - 1. Os agentes estagiários são providos definitivamente como agentes de 3.ª classe, decorrido o prazo a que se refere o n.º 2 do artigo anterior, se tiverem aproveitamento em curso de preparação adequado e revelarem aptidão para o exercício das funções, ou exonerados, logo que, na frequência do curso ou na execução do serviço, mostrem não possuir a necessária capacidade.
+
+2. O provimento definitivo será efectuado pela ordem da classificação obtida no curso, conjugada com as informações do estágio.
+
+Art. 7.º São condições especiais de promoção:
+
+a) A agente de 1.ª classe - classificação de serviço de Bom na categoria anterior e aproveitamento em trás cursos de aperfeiçoamento;
+
+b) A subinspector de 2.ª classe - classificação de serviço de Muito bom na categoria anterior e aproveitamento, com igual classificação, em curso de formação especial;
+
+c) A subinspector de 1.ª classe - classificação de serviço de Muito bom na categoria anterior.
+
+Art. 8.º Na falta de agentes de 1.ª classe com as condições de acesso, podem ser promovidos a subinspector de 2.ª classe os agentes de 2.ª classe com seis anos de serviço efectivo na categoria, que satisfaçam aos demais requisitos estabelecidos na alínea b) do artigo anterior.
+
+Art. 9.º Os artigos 5.º a 8.º são aplicáveis, com as necessárias adaptações, às carreiras do pessoal técnico auxiliar de lofoscopia e de laboratório.
+
+Art. 10.º O ingresso e a promoção no quadro único podem ainda depender, mediante despacho do Ministro da Justiça, da frequência de cursos ou estágios, no País ou no estrangeiro.
+
+Art. 11.º Sem prejuízo do disposto no n.º 1 do artigo 5.º, o provimento dos lugares de categoria igual ou inferior à letra S será feito por contrato.
+
+Art. 12.º - 1. Aos funcionários das carreiras do pessoal técnico auxiliar de investigação criminal e de lofoscopia é aplicável o disposto no n.º 4 do artigo 60.º e no artigo 61.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945.
+
+2. O limite de idade de aposentação dos subinspectores poderá ser elevado para os 65 anos, por despacho do Ministro da Justiça, a requerimento dos interessados e mediante parecer do conselho de polícia.
+
+Art. 13.º Os subdirectores e inspectores da Polícia Judiciária são considerados magistrados do Ministério Público.
+
+Art. 14.º Serão regulados por despacho do Ministro da Justiça:
+
+a) Os sistemas de notação dos funcionários, as condições relativas à distribuição do pessoal e os regimes de substituição, na falta ou impedimento dos titulares;
+
+b) A composição e atribuições do conselho de polícia, das secções e das brigadas e a discriminação do número e categoria dos lugares afectos a cada serviço;
+
+c) Os requisitos a que deve obedecer a designação de inspectores e de subinspectores para o exercício das funções de adjunto do director ou subdirector e de chefe de brigada, respectivamente;
+
+d) O esclarecimento das dúvidas que se suscitem na execução do presente diploma.
+
+Art. 15.º - 1. Serão extintos, à medida que vagarem, os actuais cargos que ultrapassem o número de lugares previsto no mapa anexo.
+
+2. Os concursos para chefe de brigada já realizados na data da publicação do presente diploma mantêm a sua validade e substituem, para todos os efeitos, o aproveitamento, com classificação de Muito bom, no curso a que se refere a alínea b) do artigo 7.º
+
+Art. 16.º A colocação dos actuais funcionários nos lugares correspondentes do mapa anexo far-se-á mediante publicação no Diário do Governo de lista nominativa assinada pelo Ministro da Justiça, considerando-se definitivamente providos nos novos cargos sem dependência de outra formalidade que não seja a anotação pelo Tribunal de Contas.
+
+Art. 17.º O pessoal dos órgãos privativos de polícia judiciária com funções auxiliares de investigação criminal tem direito a indemnizações de tecnicidade, cujo quantitativo será fixado por despacho do Ministro das Finanças e do Ministro da respectiva pasta.
+
+Art. 18.º - 1. Os encargos a que der lugar a execução do presente diploma, na parte consignada a vencimentos e salários com o pessoal da Polícia Judiciária, que excedam a respectiva dotação do Orçamento Geral do Estado, serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
+
+2. Enquanto não for corrigido o Orçamento Geral do Estado, os encargos serão satisfeitos pelas disponibilidades da dotação de vencimentos dos quadros da Polícia Judiciária e do Laboratório de Polícia Científica.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
+
+Promulgado em 26 de Fevereiro de 1972.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.
+
+Quadro único do pessoal da Polícia Judiciária
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/03/06000/03100312.pdf)
+
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

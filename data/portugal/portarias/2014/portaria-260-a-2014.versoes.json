@@ -1,0 +1,309 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:65891082:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-107553352",
+ "dre_path": "/dr/detalhe/portaria/260-a-2014-65891082",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-12-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107550522",
+    "107550523",
+    "107550524",
+    "107550525",
+    "107550526",
+    "107550527",
+    "107550528",
+    "107550529",
+    "107550530",
+    "107550531",
+    "107550532",
+    "107550533",
+    "107550534",
+    "107550535",
+    "107550536",
+    "107550537",
+    "107550538"
+   ]
+  },
+  {
+   "date": "2017-06-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107549823:por",
+     "title": "Portaria n.º 197/2017",
+     "published": "2017-06-23",
+     "dre_path": "/dr/detalhe/portaria/197-2017-107549823"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 13.º-B",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "107550522",
+    "107550559",
+    "107550524",
+    "107550560",
+    "107550561",
+    "107550562",
+    "107550528",
+    "107550529",
+    "107550530",
+    "107550531",
+    "107550532",
+    "107550533",
+    "107550534",
+    "107550535",
+    "107550549",
+    "107550554",
+    "107550555",
+    "107550556",
+    "107550563",
+    "107550558"
+   ]
+  }
+ ],
+ "fragments": {
+  "107550522": {
+   "fragment_id": "107553353",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 260-A/2014\n\nde 15 de dezembro\n\nO Decreto-Lei n.º 176/2014, de 12 de dezembro, introduziu, com carácter obrigatório, o ensino do Inglês a partir do 3.º ano de escolaridade.\n\nConcretizando essa medida, o mesmo diploma criou um novo grupo de recrutamento, destinado a professores de Inglês para o 1.º ciclo do ensino básico, o grupo 120, e um novo ciclo de estudos de mestrado destinado à formação de professores deste grupo.\n\nTendo em vista o início da aplicação daquela medida no ano letivo de 2015-2016, o referido diploma legal previu, entre outras medidas, a possibilidade de os titulares de qualificação profissional para a docência nos grupos de recrutamento 110, 220 e 330 que já detenham, ou venham a realizar, formação certificada no domínio do ensino de inglês no 1.º ciclo do ensino básico, poderem adquirir qualificação profissional para a docência no grupo 120 nos termos fixados por portaria do membro do Governo responsável pelas áreas da educação e do ensino superior.\n\nAssim:\n\nOuvido o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado:\n\nAo abrigo do disposto no n.º 2 do artigo 9.º do Decreto-Lei n.º 176/2014, de 12 de dezembro:\n\nManda o Governo, pelo Ministro da Educação e Ciência, o seguinte:"
+  },
+  "107550523": {
+   "fragment_id": "107553354",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regula:\n\na) A aquisição de qualificação profissional para a docência no grupo de recrutamento 120 pelos titulares de qualificação profissional para a docência nos grupos de recrutamento 110, 220 e 330 que já detenham, ou venham a obter, formação certificada no domínio do ensino de inglês no 1.º ciclo do ensino básico;\n\nb) Os níveis de proficiência linguística em Inglês do 3.º ao 12.º ano nos ensinos básico e secundário."
+  },
+  "107550524": {
+   "fragment_id": "107553355",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto na presente portaria entende-se por:\n\na) «Atividades de enriquecimento do currículo» as atividades a que se refere o artigo 14.º do Decreto-Lei n.º 139/2012, de 5 de julho, alterado pelos Decretos-Leis n.os 91/2013, de 10 de julho, e n.º 176/2014, de 12 de dezembro;\n\nb) «Créditos» os créditos atribuídos segundo o sistema europeu de transferência e acumulação de créditos (European Credit Transfer and Accumulation System) regulados pelo Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho;\n\nc) «Diploma CELTA» o Certificate in Teaching English to Speakers of Other Languages emitido pela Cambridge University;\n\nd) «Diploma CiPELT» o Certificate in Primary English Language Teaching emitido pelo British Council;\n\ne) «Diploma YL» o diploma Young Learner (YL) Extension to CELTA emitido pela Cambridge University;\n\nf) «Oferta Complementar» a componente do currículo do 1.º ciclo do ensino básico a que se refere o n.º 3 do artigo 12.º do Decreto-Lei n.º 139/2012, de 5 de julho, alterado pelos Decretos-Leis n.os 91/2013, de 10 de julho, e n.º 176/2014, de 12 de dezembro;\n\ng) «Quadro Europeu Comum de Referência para as Línguas» o quadro de referência para a aprendizagem, ensino e avaliação de línguas estrangeiras desenvolvido no âmbito do Conselho da Europa."
+  },
+  "107550525": {
+   "fragment_id": "107553356",
+   "type": 11,
+   "heading": "Artigo 3.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 110",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 110\n\nFicam qualificados profissionalmente para a docência no grupo de recrutamento 120 os titulares de qualificação profissional para a docência no grupo de recrutamento 110 que satisfaçam, cumulativamente, as seguintes condições:\n\na) Ter um ano de experiência de ensino de Inglês no 1.º ciclo do ensino básico;\n\nb) Ser titular de uma das seguintes qualificações:\n\n(i) Complemento de formação superior com 40 créditos;\n\n(ii) Diplomas CELTA e YL;\n\n(iii) Módulos READY, STEADY e GO do diploma CiPELT."
+  },
+  "107550526": {
+   "fragment_id": "107553357",
+   "type": 11,
+   "heading": "Artigo 4.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 220",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 220\n\nFicam qualificados profissionalmente para a docência no grupo de recrutamento 120 os titulares de qualificação profissional para a docência no grupo de recrutamento 220 que satisfaçam, cumulativamente, as seguintes condições:\n\na) Ter um ano de experiência de ensino de Inglês no 1.º ciclo do ensino básico;\n\nb) Ser titular de uma das seguintes qualificações:\n\n(i) Complemento de formação superior com 30 créditos;\n\n(ii) Módulos STEADY e GO do diploma CiPELT."
+  },
+  "107550527": {
+   "fragment_id": "107553358",
+   "type": 11,
+   "heading": "Artigo 5.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 330",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 330\n\nFicam qualificados profissionalmente para a docência no grupo de recrutamento 120 os titulares de qualificação profissional para a docência no grupo de recrutamento 330 que satisfaçam, cumulativamente, as seguintes condições:\n\na) Ter um ano de experiência de ensino de Inglês no 1.º ciclo do ensino básico;\n\nb) Ser titular de uma das seguintes qualificações:\n\n(i) Complemento de formação superior com 30 créditos;\n\n(ii) Módulos STEADY e GO do diploma CiPELT."
+  },
+  "107550528": {
+   "fragment_id": "107553359",
+   "type": 11,
+   "heading": "Artigo 6.º — Experiência de ensino de Inglês no 1.º ciclo do ensino básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Experiência de ensino de Inglês no 1.º ciclo do ensino básico\n\n1 - A experiência de ensino de Inglês no 1.º ciclo do ensino básico a que se referem os artigos 3.º a 5.º deve ter sido adquirida no âmbito da Oferta Complementar ou das Atividades de Enriquecimento do Currículo.\n\n2 - O modo de apuramento da duração da experiência de ensino de Inglês no 1.º ciclo do ensino básico a que se refere o número anterior, as entidades escolares competentes para certificar e a forma de proceder à certificação são fixados por despacho do Diretor-Geral da Administração Escolar publicado na 2.ª série do Diário da República.\n\n3 - A experiência de ensino de Inglês no 1.º ciclo do ensino básico a que se referem os artigos 3.º a 5.º pode ser adquirida nos termos fixados pela presente portaria, simultaneamente com os restantes requisitos previstos para aquisição de qualificação profissional para a docência no grupo de recrutamento 120."
+  },
+  "107550529": {
+   "fragment_id": "107553360",
+   "type": 11,
+   "heading": "Artigo 7.º — Complementos de formação superior: estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Complementos de formação superior: estrutura\n\n1 - O complemento de formação superior a que se refere o artigo 3.º abrange as seguintes componentes:\n\na) Culturas de expressão inglesa: 10 créditos;\n\nb) Didática do inglês para crianças (Teaching English to young learners): 10 créditos;\n\nc) Spoken English (competências da oralidade: speaking e listening, de nível C2): 10 créditos;\n\nd) Inglês de nível C2: 10 créditos.\n\n2 - O complemento de formação superior a que se referem os artigos 4.º abrange as seguintes componentes:\n\na) Didática do inglês para crianças (Teaching English to young learners): 10 créditos;\n\nb) Spoken English (competências da oralidade: speaking e listening, de nível C2): 10 créditos;\n\nc) Inglês de nível C2: 10 créditos.\n\n3 - O complemento de formação superior a que se refere o artigo 5.º abrange as seguintes componentes:\n\na) Desenvolvimento da linguagem na criança: 20 créditos;\n\nb) Didática do inglês para crianças (Teaching English to young learners): 10 créditos."
+  },
+  "107550530": {
+   "fragment_id": "107553361",
+   "type": 11,
+   "heading": "Artigo 8.º — Complementos de formação superior: requisitos para a admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Complementos de formação superior: requisitos para a admissão\n\n1 - A inscrição nos complementos de formação superior a que se refere o n.º 1 do artigo anterior só é facultada aos que comprovem um nível de Inglês C1 ou superior.\n\n2 - A comprovação do requisito a que se refere o número anterior é verificada pela instituição de ensino superior e pode ser feita:\n\na) Documentalmente, através de certificação equivalente ao nível de Inglês C1 ou superior emitido por entidade credível; ou\n\nb) Através da realização, pela instituição de ensino superior, de provas escritas e orais adequadas ao fim em vista."
+  },
+  "107550531": {
+   "fragment_id": "107553362",
+   "type": 11,
+   "heading": "Artigo 9.º — Complementos de formação superior: instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Complementos de formação superior: instituições\n\n1 - Os complementos de formação superior só podem ser ministrados por instituições de ensino superior que satisfaçam cumulativamente os seguintes requisitos:\n\na) Tenham um projeto educativo que integre a formação de professores do ensino básico;\n\nb) Tenham uma experiência de formação na área do inglês;\n\nc) Disponham de corpo docente próprio qualificado para a ministração das unidades curriculares que integram o respetivo plano de estudos.\n\n2 - Compete à Direção-Geral do Ensino Superior, no quadro do processo de registo a que se refere o artigo 10.º, proceder à verificação da satisfação dos requisitos a que se refere o número anterior."
+  },
+  "107550532": {
+   "fragment_id": "107553363",
+   "type": 11,
+   "heading": "Artigo 10.º — Complementos de formação superior: registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Complementos de formação superior: registo\n\n1 - A entrada em funcionamento dos complementos de formação superior carece de registo prévio por despacho do Diretor-Geral do Ensino Superior publicado na 2.ª série do Diário da República.\n\n2 - É recusado o registo aos complementos de formação superior que não satisfaçam os requisitos fixados pela presente portaria."
+  },
+  "107550533": {
+   "fragment_id": "107553364",
+   "type": 11,
+   "heading": "Artigo 11.º — Creditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Creditação\n\n1 - Nos cursos de complemento de formação só pode ser creditada:\n\na) A formação adquirida no âmbito de cursos de ensino superior conferentes de grau académico;\n\nb) A formação contínua na área específica do ensino de Inglês para o 1.º ciclo do ensino básico acreditada pelo Conselho Científico-Pedagógico da Formação Contínua até ao limite de 10 créditos;\n\nc) A formação no domínio do inglês ministrada por instituições de ensino superior ou outras instituições credíveis até ao limite de 20 créditos.\n\n2 - Cabe ao órgão legal e estatutariamente competente da instituição de ensino superior decidir sobre a creditação a conceder nos termos dos números anteriores."
+  },
+  "107550534": {
+   "fragment_id": "107553365",
+   "type": 11,
+   "heading": "Artigo 12.º — Complementos de formação superior: certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Complementos de formação superior: certificação\n\nOs documentos comprovativos da realização dos complementos de formação superior são emitidos pelas instituições de ensino superior nos termos fixados por despacho do Diretor-Geral do Ensino Superior publicado na 2.ª série do Diário da República."
+  },
+  "107550535": {
+   "fragment_id": "107553366",
+   "type": 11,
+   "heading": "Artigo 13.º — Certificação da qualificação profissional para a docência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Certificação da qualificação profissional para a docência\n\n1 - A certificação da qualificação profissional para a docência no grupo de recrutamento 120 adquirida nos termos fixados pela presente portaria é da competência do Diretor-Geral da Administração Escolar.\n\n2 - O pedido de emissão do certificado é instruído com:\n\na) Requerimento de modelo aprovado por despacho do Diretor-Geral da Administração Escolar, disponibilizado no sítio da Internet da Direção-Geral da Administração Escolar;\n\nb) Documentos comprovativos da satisfação dos requisitos a que se referem os artigos 3.º a 5.º, conforme o caso.\n\n3 - O Diretor-Geral da Administração Escolar regula, por seu despacho publicado na 2.ª série do Diário da República, o processo de certificação a que se refere o presente artigo."
+  },
+  "107550536": {
+   "fragment_id": "107553367",
+   "type": 11,
+   "heading": "Artigo 14.º — Níveis de proficiência por anos de escolaridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Níveis de proficiência por anos de escolaridades\n\nOs níveis de proficiência do Quadro Europeu Comum de Referência para as Línguas para a aprendizagem do Inglês entre o 3.º e o 12.º ano de escolaridade devem apresentar a seguinte correspondência:\n\n(ver documento original)"
+  },
+  "107550537": {
+   "fragment_id": "107553368",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "107550538": {
+   "fragment_id": "107553369",
+   "type": 11,
+   "heading": "Artigo 16.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Aplicação\n\n1 - O regime de aquisição de qualificação profissional aprovado pela presente portaria vigora exclusivamente nos anos letivos de 2014-2015 e 2015-2016.\n\n2 - A aplicação do disposto no artigo 14.º é feita progressivamente, a partir do ano letivo de 2015-2016."
+  },
+  "107550559": {
+   "fragment_id": "107553354",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2017-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regula:\n\na) A aquisição de qualificação profissional para a docência no grupo de recrutamento 120 pelos titulares de qualificação profissional para a docência nos grupos de recrutamento 110, 220 e 330 que já detenham, ou venham a obter, formação certificada no domínio do ensino de inglês no 1.º ciclo do ensino básico;\n\nb) A aquisição de qualificação profissional para a docência no grupo de recrutamento 120 pelos titulares do grau de mestre em ensino de Inglês e de outra língua estrangeira no ensino básico previsto na referência 7 do anexo ao Decreto-Lei n.º 43/2007, de 22 de fevereiro, que não tenham realizado a prática de ensino supervisionada de Inglês no 1.º ciclo;\n\nc) Os níveis de proficiência linguística em Inglês do 3.º ao 12.º ano nos ensinos básico e secundário.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+  },
+  "107550560": {
+   "fragment_id": "107553356",
+   "type": 11,
+   "heading": "Artigo 3.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 110",
+   "in_force_from": "2017-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+   ],
+   "markdown": "###### Artigo 3.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 110\n\nFicam qualificados profissionalmente para a docência no grupo de recrutamento 120 os titulares de qualificação profissional para a docência no grupo de recrutamento 110 que satisfaçam, cumulativamente, as seguintes condições:\n\na) Ter experiência de ensino de Inglês no 1.º ciclo do ensino básico;\n\nb) Ser titular de uma das seguintes qualificações:\n\n(i) Complemento de formação superior com 40 créditos;\n\n(ii) Diplomas CELTA e YL;\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+  },
+  "107550561": {
+   "fragment_id": "107553357",
+   "type": 11,
+   "heading": "Artigo 4.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 220",
+   "in_force_from": "2017-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+   ],
+   "markdown": "###### Artigo 4.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 220\n\nFicam qualificados profissionalmente para a docência no grupo de recrutamento 120 os titulares de qualificação profissional para a docência no grupo de recrutamento 220 que satisfaçam, cumulativamente, as seguintes condições:\n\na) Ter experiência de ensino de Inglês no 1.º ciclo do ensino básico;\n\nb) Ser titular de uma das seguintes qualificações:\n\n(i) Complemento de formação superior com 30 créditos;\n\n(ii) Módulos STEADY e GO do diploma CiPELT.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+  },
+  "107550562": {
+   "fragment_id": "107553358",
+   "type": 11,
+   "heading": "Artigo 5.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 330 e titulares do grau de mestre",
+   "in_force_from": "2017-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+   ],
+   "markdown": "###### Artigo 5.º — Titulares de qualificação profissional para a docência do grupo de recrutamento 330 e titulares do grau de mestre\n\n1 - Ficam qualificados profissionalmente para a docência no grupo de recrutamento 120 os titulares de qualificação profissional para a docência no grupo de recrutamento 330 e os titulares do grau de mestre em ensino de Inglês e de outra língua estrangeira no ensino básico previsto na referência 7 do anexo ao Decreto-Lei n.º 43/2007, de 22 de fevereiro, que não tenham realizado a prática de ensino supervisionada de Inglês no 1.º ciclo, que satisfaçam, cumulativamente, as seguintes condições:\n\na) Ter experiência de ensino de Inglês no 1.º ciclo do ensino básico;\n\nb) Ser titular de uma das seguintes qualificações:\n\n(i) Complemento de formação superior com 30 créditos;\n\n(ii) Módulos STEADY e GO do diploma CiPELT.\n\n2 - A classificação profissional para o grupo de recrutamento 120 dos titulares do grau de mestre em ensino de Inglês e de outra língua estrangeira no ensino básico previsto na referência 7 do anexo ao Decreto-Lei n.º 43/2007, de 22 de fevereiro, cuja qualificação profissional tenha sido adquirida nos termos do número anterior, corresponde à sua classificação académica correspondente ao grau de mestre.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+  },
+  "107550549": {
+   "fragment_id": "107556784",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Situações especiais das Regiões Autónomas da Madeira e dos Açores",
+   "in_force_from": "2017-06-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+   ],
+   "markdown": "###### Artigo 13.º-A — Situações especiais das Regiões Autónomas da Madeira e dos Açores\n\n1 - Nos termos do n.º 2 do artigo 8.º do Decreto-Lei n.º 176/2014, de 12 de dezembro, os titulares do grau de licenciado dos cursos de Professores do 2.º ciclo do Ensino Básico-variante de Português e Inglês, de Professores do Ensino Básico-variante Português e Inglês e de Professores do Ensino Básico, 2.º ciclo, variante de Português e Inglês, que estão vinculados ao grupo de recrutamento 120 - Língua Inglesa na Região Autónoma da Madeira, no âmbito das Atividades de Enriquecimento do Currículo, desde que tenham estado vinculados ao 1.º ciclo (grupo 110), não necessitam da formação certificada no domínio do ensino de Inglês no 1.º ciclo do ensino básico, para adquirirem qualificação profissional para a docência no grupo 120.\n\n2 - Os titulares das licenciaturas previstas no n.º 2 do artigo 8.º do Decreto-Lei n.º 176/2014, de 12 de dezembro, que lecionam ou lecionaram inglês no 1.º ciclo em área curricular de enriquecimento na Região Autónoma dos Açores, ao abrigo do artigo 6.º do Decreto Legislativo Regional n.º 21/2010/A, de 24 de junho, desde que tenham estado vinculados ao 1.º ciclo (grupo 110), não necessitam da formação certificada no domínio do ensino de Inglês no 1.º ciclo do ensino básico, para adquirirem qualificação profissional para a docência no grupo 120.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+  },
+  "107550554": {
+   "fragment_id": "107556785",
+   "type": 11,
+   "heading": "Artigo 13.º-B — Contagem do tempo de serviço",
+   "in_force_from": "2017-06-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+   ],
+   "markdown": "###### Artigo 13.º-B — Contagem do tempo de serviço\n\n1 - Nos termos do disposto no n.º 3 do artigo 9.º do Decreto-Lei n.º 176/2014, de 12 de dezembro, o número de dias de serviço docente ou equiparado é contado a partir do dia 1 de setembro do ano civil em que o docente obteve qualificação profissional no grupo de recrutamento 110, 220 ou 330.\n\n2 - O disposto no número anterior aplica-se de igual forma aos docentes que adquiram habilitação profissional nos termos do n.º 2 do artigo 8.º do Decreto-Lei n.º 176/2014, de 12 de dezembro.\n\n3 - A qualificação da classificação profissional para o grupo de recrutamento 120 dos titulares do grau de mestre em ensino de Inglês e de outra língua estrangeira no ensino básico previsto na referência 7 do anexo ao Decreto-Lei n.º 43/2007, de 22 de fevereiro considera-se obtida na data da conclusão do respetivo Mestrado.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+  },
+  "107550555": {
+   "fragment_id": "107553367",
+   "type": 11,
+   "heading": "Artigo 14.º — Níveis de proficiência por anos de escolaridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Níveis de proficiência por anos de escolaridades\n\nOs níveis de proficiência do Quadro Europeu Comum de Referência para as Línguas para a aprendizagem do Inglês entre o 3.º e o 12.º ano de escolaridade devem apresentar a seguinte correspondência:\n\n(ver documento original)"
+  },
+  "107550556": {
+   "fragment_id": "107553368",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "107550563": {
+   "fragment_id": "107553369",
+   "type": 11,
+   "heading": "Artigo 16.º — Aplicação",
+   "in_force_from": "2017-06-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+   ],
+   "markdown": "###### Artigo 16.º — Aplicação\n\n1 - O regime de aquisição de qualificação profissional aprovado pela presente portaria vigora exclusivamente nos anos letivos de 2014-2015 e 2015-2016.\n\n2 - A aplicação do disposto no artigo 14.º é feita progressivamente, a partir do ano letivo de 2015-2016.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+  },
+  "107550558": {
+   "fragment_id": "107553370",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 12 de dezembro de 2014."
+  }
+ }
+}

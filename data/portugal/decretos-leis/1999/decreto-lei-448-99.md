@@ -1,0 +1,894 @@
+---
+schema_version: '1.0'
+id: pt:dre:694011:por
+title: Decreto-Lei n.º 448/99
+short_title: null
+summary: Aprova as bases da concessão do serviço postal universal, a outorgar entre o Estado Português e os CTT - Correios
+  de Portugal, S. A.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 448/99
+official_date: null
+publication_date: '1999-11-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 257/1999, Série I-A de 1999-11-04
+  number: '257'
+  series: I
+  supplement: null
+  pages: 7584 - 7593
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/11/257a00/75847593.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2013-11-24'
+version_history:
+  file: decreto-lei-448-99.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1999-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-08-05'
+    amending: pt:dre:316079:por
+    amending_title: Decreto-Lei n.º 150/2001
+    changes:
+    - Altera Base XX
+  - date: '2003-06-17'
+    amending: pt:dre:684060:por
+    amending_title: Decreto-Lei n.º 116/2003
+    changes:
+    - Altera Base I
+    - Altera Base II
+    - Altera Base VIII
+    - Altera Base XX
+    - Altera Base XXIV
+    - Altera Base XXXV
+  - date: '2006-06-10'
+    amending: pt:dre:346360:por
+    amending_title: Decreto-Lei n.º 112/2006
+    changes:
+    - Altera Base II
+    - Altera Base IV
+    - Altera Base V
+    - Altera Base VI
+    - Altera Base VII
+    - Altera Base VIII
+    - Altera Base XI
+    - Altera Base XVII
+    - Altera Base XIX
+    - Altera Base XX
+    - Altera Base XXI
+    - Altera Base XXII
+    - Altera Base XXIII
+    - Altera Base XXVII
+    - Altera Base XXIX
+    - Altera Base XXXI
+    - Altera Base XXXVI
+  - date: '2013-11-24'
+    amending: pt:dre:504161:por
+    amending_title: Decreto-Lei n.º 160/2013
+    changes:
+    - Altera Base I
+    - Altera Base II
+    - Altera Base V
+    - Altera Base VI
+    - Altera Base VII
+    - Altera Base VIII
+    - Altera Base IX
+    - Altera Base X
+    - Altera Base XII
+    - Altera Base XIII
+    - Altera Base XIV
+    - Altera Base XV
+    - Altera Base XVII
+    - Altera Base XX
+    - Altera Base XXII
+    - Altera Base XXIII
+    - Altera Base XXIV
+    - Altera Base XXV
+    - Altera Base XXVI
+    - Altera Base XXVII
+    - Altera Base XXIX
+    - Altera Base XXXI
+    - Altera Base XXXIV
+    - Altera Base XXXV
+    - Altera Base XXXVI
+    - Altera Base XXXVII
+    - Altera Base XXXVIII
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/448/1999/p/cons/20131119/pt/html
+  oj: null
+  dre: '694011'
+  dre_path: /dr/detalhe/decreto-lei/448-1999-694011
+  internal: pt:dre:694011:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1999-694011
+  metadata_url: https://data.dre.pt/eli/dec-lei/448/1999/p/cons/20131119/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-858522296
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-858522296
+  retrieved_at: '2026-10-22T13:04:26Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a9c9516ed5bfa7c1c3eb33358f935763aa3c8c80fe736acaa37251dd8f61fcef
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:04:26Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-448-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Serviço Postal
+- Contrato de Concessão
+- CTT
+- Rescisão de Contrato
+- Fiscalização
+- Fixação de Preços
+- Fundo de Compensação
+- Instituto das Comunicações de Portugal
+- Serviço Público
+- REDE Postal Pública
+- Responsabilidade Extracontratual
+- Serviço Postal Universal
+- Tribunal Arbitral
+relationships:
+- type: amended_by
+  target: pt:dre:316079:por
+  label: Altera Base XX
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2001-316079
+  date: '2001-05-07'
+- type: amended_by
+  target: pt:dre:684060:por
+  label: Altera Base I; Altera Base II; Altera Base VIII; Altera Base XX; Altera Base XXIV; Altera Base XXXV
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2003-684060
+  date: '2003-06-12'
+- type: amended_by
+  target: pt:dre:346360:por
+  label: Altera Base II; Altera Base IV; Altera Base V; Altera Base VI; Altera Base VII; Altera Base VIII; Altera Base XI;
+    Altera Base XVII; Altera Base XIX; Altera Base XX; Altera Base XXI; Altera Base XXII; Altera Base XXIII; Altera Base XXVII;
+    Altera Base XXIX; Altera Base XXXI; Altera Base XXXVI
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360
+  date: '2006-06-09'
+- type: amended_by
+  target: pt:dre:504161:por
+  label: Altera Base I; Altera Base II; Altera Base V; Altera Base VI; Altera Base VII; Altera Base VIII; Altera Base IX;
+    Altera Base X; Altera Base XII; Altera Base XIII; Altera Base XIV; Altera Base XV; Altera Base XVII; Altera Base XX; Altera
+    Base XXII; Altera Base XXIII; Altera Base XXIV; Altera Base XXV; Altera Base XXVI; Altera Base XXVII
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161
+  date: '2013-11-19'
+- type: cites
+  target: pt:dre:353348:por
+  label: null
+  source: http://data.dre.pt/eli/lei/102/1999/07/26/p/dre
+article_structure:
+  article_count: 42
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:04:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 448/99
+
+Decreto-Lei n.º 448/99
+
+de 4 de Novembro
+
+A lei de bases do estabelecimento, gestão e exploração de serviços postais no território nacional, bem como dos serviços internacionais com origem ou destino no território nacional - Lei n.º 102/99, de 26 de Julho -, veio dar execução aos objectivos de política comunitária no sentido de criar progressivamente um mercado único e aberto dos serviços de correios, com vista à liberalização gradual e controlada do mesmo, mantendo-se, porém, as garantias necessárias no que se refere à prestação de um serviço universal, correspondente a um determinado conjunto mínimo de serviços de boa qualidade, a preço acessível a todos os utentes, independentemente da sua localização geográfica.
+
+Importa agora dar cumprimento ao disposto na referida lei de bases, especificando, nas bases do contrato de concessão a outorgar, as exactas condições em que deve ser prestado o serviço postal universal.
+
+Com efeito, sendo as necessidades inerentes ao serviço postal universal bastante amplas, é indispensável a definição do concreto conteúdo do regime de concessão, por forma a explicitar-se e a definir-se o conjunto de direitos e obrigações que o Estado e os CTT reciprocamente assumem, com vista à prossecução dos inerentes objectivos.
+
+É assim que as bases da concessão do serviço público, que pelo presente diploma se aprovam, vêm estabelecer um quadro claro e rigoroso não só das áreas de actuação exclusiva dos CTT, quer ao nível das infra-estruturas de correios, quer dos serviços que os mesmos ficam incumbidos de prestar, como também da forma como essas mesmas infra-estruturas e serviços devem ser geridos e prestados, bem como, ainda, vêm estabelecer níveis de qualidade e de fiabilidade nos serviços a prestar pelos CTT, por forma a assegurar os direitos dos utentes no acesso e uso desses mesmos serviços.
+
+A aprovação das presentes bases revela-se, pois, da maior importância e significado para a garantia do desenvolvimento da rede postal pública e de todos os serviços que através da mesma sejam prestados, procurando, desta forma, assegurar a continuidade de uma capacidade nacional ao nível das comunicações postais que se revista de permanente modernidade e garanta a melhor qualidade.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 102/99, de 26 de Julho, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º
+
+São aprovadas as bases da concessão do serviço postal universal a celebrar com os CTT - Correios de Portugal, S. A., nos termos constantes do anexo ao presente diploma e que dele faz parte integrante.
+
+###### Artigo 2.º
+
+É o Ministro do Equipamento, do Planeamento e da Administração do Território autorizado a outorgar, em nome do Governo, o contrato de concessão do serviço postal universal.
+
+Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - José Sócrates Carvalho Pinto de Sousa.
+
+Promulgado em 19 de Outubro de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 21 de Outubro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ANEXO
+
+Bases da concessão do serviço postal universal
+
+## Anexo
+
+Bases da concessão do serviço postal universal
+
+#### Secção I — Definições
+
+###### Base I — Definições
+
+1 - Para efeitos do disposto nas presentes bases, entende-se por:
+
+a) Concedente - o Estado Português;
+
+b) Concessionária - os CTT - Correios de Portugal, S. A.;
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) Encargos terminais - a remuneração devida à concessionária pelo transporte, tratamento e distribuição do correio internacional proveniente de outros países;
+
+f) (Revogada.)
+
+g) Caso de força maior - todo o evento imprevisível e insuperável cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais das partes, designadamente as situações de catástrofe natural, actos de guerra, declarada ou não, de subversão, alteração da ordem pública, bloqueio económico e incêndio.
+
+h) Estabelecimentos postais, locais onde são prestados serviços postais concessionados e podem ser comercializados outros serviços e produtos da concessionária e de terceiros, nomeadamente estações de correios e postos de correios;
+
+i) Estações de correios, estabelecimentos da concessionária onde são prestados serviços postais concessionados e onde podem também ser comercializados outros serviços e produtos da concessionária e de terceiros, de acordo com os objetivos da concessionária;
+
+j) Postos de correios, estabelecimentos de entidades públicas ou particulares onde, conjuntamente com outras atividades, são prestados serviços postais concessionados, mediante contrato ou outro instrumento jurídico celebrado com a concessionária.
+
+2 - São aplicáveis nas presentes bases as definições e classificações constantes da Lei n.º 17/2012, de 26 de abril.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 116/2003 - Diário da República n.º 135/2003, Série I-A de 2003-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2003-684060), em vigor a partir de 2003-06-17
+
+#### Secção II — Objecto e âmbito da concessão
+
+###### Base II — Objeto e âmbito da concessão
+
+1 - A concessão tem por objecto:
+
+a) A prestação do serviço postal universal nos termos e com o âmbito definido nos artigos 10.º a 12.º da Lei n.º 17/2012, de 26 de abril, incluindo o serviço de correio registado utilizado em procedimentos judiciais ou administrativos;
+
+b) A emissão e venda de selos, de bilhetes-postais estampilhados e de outras formas estampilhadas com a menção «Portugal»;
+
+c) A colocação na via pública de marcos e caixas de correio destinados à aceitação de envios postais;
+
+d) A prestação do serviço público de caixa postal eletrónica previsto na Resolução do Conselho de Ministros n.º 50/2006, de 5 de maio, e definido no artigo 4.º do Decreto-Lei n.º 112/2006, de 9 de junho, que permite aos aderentes a este serviço receber, por via eletrónica ou por via eletrónica e física, comunicações escritas ou outras provenientes dos serviços e organismos da administração direta, indireta ou autónoma do Estado, bem como das entidades administrativas independentes e dos tribunais, incluindo, designadamente, citações e notificações no quadro de procedimentos administrativos ou de processos judiciais, de qualquer natureza, faturas, avisos de receção, correspondência e publicidade endereçada;
+
+e) A prestação do serviço de ordens de pagamento especiais que permite efetuar a transferência de fundos, por via eletrónica e física, no âmbito nacional e internacional, designado por serviço de vales postais;
+
+2 - O serviço de correio registado utilizado em procedimentos judiciais ou administrativos referido na alínea a) do número anterior, bem como os serviços e atividades referidos nas alíneas b), c) e e) do mesmo número, são prestados pela concessionária em regime de exclusividade.
+
+3 - A concessão integra a manutenção, desenvolvimento e exploração do conjunto de meios humanos e materiais necessários à prestação do serviço postal universal e dos demais serviços e atividades integrados no objeto da concessão, os quais consistem na rede postal afeta à concessão.
+
+4 - Para além do disposto no n.º 1, pode o concedente, por razões de interesse público, cometer à concessionária a exploração de outros serviços, mediante condições a acordar entre ambas as partes, que ficam integrados em aditamento ao contrato de concessão, precedido da correspondente alteração às presentes bases da concessão.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 116/2003 - Diário da República n.º 135/2003, Série I-A de 2003-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2003-684060), em vigor a partir de 2003-06-17
+
+###### Base III — Âmbito da concessão
+
+Para efeitos do objecto da concessão, são conferidos à concessionária todos os direitos e obrigações compreendidos no estabelecimento, gestão e exploração da rede postal pública e na prestação dos serviços e actividades constantes do n.º 1 da base II no território nacional.
+
+###### Base IV — Regime de exploração
+
+1 - É conferido o regime de exclusivo ao estabelecimento, gestão e exploração da rede postal pública e à prestação dos serviços e actividades reservados constantes da alínea b) do n.º 1 da base II.
+
+2 - A exploração económica em regime de exclusivo fixada nos termos do número anterior vigora enquanto não for liberalizada pelo concedente toda a actividade objecto da presente concessão, nomeadamente em conformidade com o direito comunitário.
+
+3 - Verificada a restrição, limitação ou perda de exclusivos, a concessionária continua obrigada a prestar, em regime de serviço universal, os serviços a que se refere o artigo 6.º da Lei n.º 102/99, de 26 de Julho, garantindo todas as obrigações que lhe estão cometidas nos termos da concessão.
+
+4 - A situação referida no número anterior não prejudica a manutenção do direito de prestação dos serviços postais objecto da concessão e reconhecido à concessionária.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+###### Base V — Rede postal afeta à concessão
+
+1 - A concessionária obriga-se a afetar à concessão o conjunto de meios humanos e materiais necessários à prestação do serviço postal universal e dos demais serviços e atividades integrados no objeto da concessão, incluindo, designadamente, os existentes nas suas unidades operativas.
+
+2 - O disposto no número anterior não prejudica a possibilidade de alienação, substituição ou oneração dos bens que integram a rede postal afeta à concessão, excetuando os que pertençam ao domínio público ou privado do Estado, desde que tal em nada afete a prestação dos serviços concessionados.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+###### Base VI — Prazo da concessão
+
+1 - O contrato de concessão é válido até 31 de dezembro de 2020.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+###### Base VII — Outros serviços e actividades da concessionária
+
+1 - Para além dos serviços concessionados, pode a concessionária, em Portugal e no estrangeiro, prestar outros serviços postais, nos termos do n.º 8 do artigo 57.º da Lei n.º 17/2012, de 26 de abril, bem como exercer quaisquer outras atividades, designadamente as que permitam a rentabilização da rede do serviço universal, diretamente ou através da constituição ou participação em sociedades ou em outras formas jurídicas de cooperação entre empresas.
+
+2 - As atividades a que se refere o número anterior abrangem a prestação de serviços de interesse público ou de interesse geral mediante condições a acordar com o Estado, podendo igualmente abranger a prestação de serviços bancários.
+
+3 - A prestação dos serviços e o exercício das atividades a que se referem os números anteriores não podem afetar o cumprimento pela concessionária das obrigações constantes do contrato de concessão e, quando seja o caso, regem-se pelos respetivos títulos habilitantes e demais legislação e regulamentação aplicável aos serviços e atividades em questão.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+#### Secção III — Obrigações da concessionária
+
+###### Base VIII — Obrigações genéricas da concessionária
+
+1 - Pelo contrato de concessão fica a concessionária investida nas seguintes obrigações genéricas:
+
+a) Garantir a prestação dos serviços concessionados em todo o território nacional;
+
+b) Prestar os serviços concessionados, assegurando a sua interoperabilidade, continuidade, disponibilidade e qualidade;
+
+c) Garantir e fazer respeitar o sigilo e a inviolabilidade dos envios postais, bem como a proteção de dados, com os limites e exceções fixados na lei;
+
+d) Assegurar a protecção da vida privada em todos os serviços postais prestados;
+
+e) Garantir a todas as pessoas, em paridade de condições, a igualdade e a transparência no acesso e na utilização dos serviços concessionados, mediante o cumprimento dos requisitos e o pagamento dos preços correspondentes, não devendo demonstrar preferência ou exercer discriminação, indevida ou injustificada, relativamente a qualquer pessoa, singular ou coletiva, que os requeira;
+
+f) Publicitar de forma adequada, nomeadamente no seu sítio na Internet, e fornecer regularmente aos utilizadores informações sobre as condições gerais de acesso e de utilização dos serviços prestados, bem como os respetivos preços e níveis de qualidade;
+
+g) Disponibilizar e remeter ao ICP-ANACOM a informação e os dados estatísticos por este considerados necessários ao acompanhamento das atividades desenvolvidas no âmbito da concessão, incluindo os solicitados ao abrigo do artigo 45.º da Lei n.º 17/2012, de 26 de abril;
+
+h) Permitir e facilitar a fiscalização pelo concedente da execução do contrato de concessão, nos termos da base XVII;
+
+i) Cumprir as leis nacionais vigentes, na parte em que lhe forem aplicáveis, e as ordens, injunções, comandos, diretivas e instruções que, nos termos da lei, lhe sejam dirigidos pelas autoridades competentes, bem como as determinações que, nos termos do contrato de concessão, lhe sejam endereçadas pelo concedente ou pelo ICP-ANACOM;
+
+j) Não ceder, alienar ou onerar, a qualquer título, os direitos emergentes da concessão, salvo nos casos previstos na lei ou devidamente autorizados;
+
+k) Cumprir as leis nacionais vigentes, na parte em que lhe forem aplicáveis, e as ordens, injunções, comandos, directivas e instruções que, nos termos da lei, lhe sejam dirigidos pelas autoridades competentes, bem como as determinações que, nos termos do contrato de concessão, lhe sejam endereçadas pelo concedente;
+
+l) Garantir a existência de serviços de apoio ao utilizador, nomeadamente através da disponibilização de um sistema adequado de informação e assistência e do tratamento das reclamações nos termos do artigo 41.º da Lei n.º 17/2012, de 26 de abril;
+
+m) Adotar medidas que garantam facilidades de utilização do serviço por parte de utilizadores com necessidades especiais, devendo, designadamente, adequar as estruturas onde esse serviço é prestado de molde a assegurar o seu fácil acesso, nos termos da lei;
+
+n) Cumprir obrigações inerentes à prestação do serviço postal universal que resultem de vinculação internacional do Estado português.
+
+2 - Para efeitos do disposto nas alíneas c) e d) do número anterior, a concessionária obriga-se a tomar todas as medidas necessárias e adequadas ao seu alcance para assegurar e fazer respeitar a inviolabilidade e o sigilo dos envios postais, bem como a proteção de dados pessoais e a proteção da vida privada, nos termos da legislação em vigor, não derivando, porém, para a mesma quaisquer responsabilidades por ações ou omissões que lhe não sejam imputáveis.
+
+3 - Os trabalhadores e outros colaboradores da concessionária ficam obrigados a não revelar o conteúdo dos envios postais ou outras informações de que, por causa do exercício das suas funções, fiquem conhecedores, exceto nos casos legalmente admitidos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 116/2003 - Diário da República n.º 135/2003, Série I-A de 2003-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2003-684060), em vigor a partir de 2003-06-17
+
+###### Base IX — Obrigações específicas no âmbito da rede postal
+
+1 - Constituem obrigações da concessionária no tocante à rede postal afeta à concessão:
+
+a) Estabelecer e manter em bom estado de funcionamento, segurança e conservação a rede postal, bem como zelar pela sua operacionalidade e adequada exploração;
+
+b) Desenvolver, qualitativa e quantitativamente, a rede postal, de modo a assegurar os níveis de qualidade adequados aos serviços que nela se suportem, cumprindo, nomeadamente os objetivos que vierem a ser fixados nos termos da base XV;
+
+c) Cumprir a legislação aplicável no domínio do ordenamento do território, da proteção do ambiente e do património.
+
+2 - Para além do disposto no número anterior, constituem ainda obrigações da concessionária:
+
+a) Assegurar aos outros prestadores de serviços postais o acesso, em condições transparentes e não discriminatórias, à rede do serviço universal, nos termos do artigo 38.º da Lei n.º 17/2012, de 26 de abril;
+
+b) Disponibilizar aos outros prestadores de serviços postais o acesso a elementos da sua infraestrutura postal ou a serviços por si prestados, nos termos do artigo 39.º da Lei n.º 17/2012, de 26 de abril.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+###### Base X — Obrigações específicas no âmbito dos serviços concessionados
+
+1 - Constituem obrigações específicas da concessionária no domínio da prestação dos serviços de envios postais incluídos no âmbito do serviço postal universal, referido na alínea a) do n.º 1 da base II:
+
+a) A sua recolha, pelo menos uma vez por dia e em todos os dias úteis, dos pontos de acesso à rede do serviço universal, salvo em circunstâncias ou condições geográficas excecionais previamente definidas pelo ICP-ANACOM;
+
+b) A sua distribuição, pelo menos uma vez por dia e em todos os dias úteis, salvo em circunstâncias ou condições geográficas excecionais previamente definidas pelo ICP-ANACOM, no domicílio de cada destinatário ou, nos casos e condições previamente definidos pelo ICP-ANACOM, em instalações apropriadas.
+
+2 - Os distribuidores dos envios postais no âmbito dos serviços de citação e notificação judiciais por via postal, previstos na alínea a) do n.º 1 da base II:
+
+a) São considerados funcionários para efeitos da alínea d) do n.º 1 do artigo 386.º do Código Penal;
+
+b) Devem respeitar as regras processuais relativas à citação e notificação judiciais por via postal, designadamente o disposto nos artigos 228.º e 246.º do Código de Processo Civil e no artigo 113.º do Código de Processo Penal.
+
+3 - As obrigações específicas da concessionária no domínio da emissão e venda de selos, de bilhetes-postais estampilhados e de outras formas estampilhadas, do serviço de caixa postal eletrónica e do serviço de vales postais referidos nas alíneas b), d) e e) do n.º 1 da base II, constam de regulamentação própria, nacional e internacional no caso do serviço de vales postais.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+###### Base XI — Obrigações específicas no âmbito dos serviços não reservados
+
+1 - Constituem obrigações específicas da concessionária no domínio da prestação dos serviços não reservados que integram o serviço universal, referidos na alínea c) do n.º 1 da base II, as constantes do n.º 1 da base anterior.
+
+2 - As obrigações específicas da concessionária no domínio do serviço de caixa postal electrónica referido na alínea d) do n.º 1 da base II que decorrem de especiais exigências legais são objecto de regulamentação própria.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+###### Base XII — Qualidade dos serviços
+
+1 - A concessionária obriga-se a prestar os serviços que integram o serviço universal de acordo com os parâmetros de qualidade de serviço e os objetivos de desempenho fixados pelo ICP-ANACOM, nos termos do n.º 1 do artigo 13.º da Lei n.º 17/2012, de 26 de abril.
+
+2 - Sem prejuízo das sanções aplicáveis, em caso de incumprimento dos objetivos de desempenho fixados nos termos do n.º 1 do artigo 13.º da Lei n.º 17/2012, de 26 de abril, o ICP-ANACOM deve aplicar mecanismos de compensação destinados aos utilizadores do serviço universal, nos termos do artigo 47.º da Lei n.º 17/2012, de 26 de abril.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+###### Base XIII — Contabilidade analítica
+
+1 - A concessionária obriga-se a dispor de um sistema de contabilidade anual analítica, nos termos do disposto nos artigos 15.º e 16.º da Lei n.º 17/2012, de 26 de abril.
+
+2 - O sistema de contabilidade analítica referido no número anterior deve adicionalmente permitir a separação de contas entre cada um dos serviços e produtos objeto da concessão, aplicando-se, com as necessárias adaptações, o disposto nos artigos 15.º e 16.º da Lei n.º 17/2012, de 26 de abril.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+###### Base XIV — Inventário da concessionária
+
+1 - A concessionária obriga-se a elaborar e manter atualizado o inventário do património imobiliário e dos bens móveis afetos à concessão cujo valor de aquisição seja superior ao montante definido pelo ICP-ANACOM nos termos das regras referidas no n.º 4.
+
+2 - O inventário aludido no número anterior deve ainda incluir os bens a que se refere o n.º 8.
+
+3 - O inventário deve distinguir claramente entre os bens afetos à prestação do serviço universal e os demais bens afetos à concessão.
+
+4 - Sem prejuízo do disposto no n.º 8, compete ao ICP-ANACOM, ouvida a concessionária, definir as regras relativas ao inventário do património afeto à concessão a que se refere o n.º 1.
+
+5 - O ICP-ANACOM aprecia se o inventário está em conformidade com as regras definidas e procede anualmente à sua aprovação ou não aprovação.
+
+6 - Em caso de não aprovação, o processo de inventário será submetido ao tribunal arbitral para decisão.
+
+7 - Sem prejuízo de outras penalidades que se mostrem aplicáveis, em caso de incumprimento do fixado no n.º 1 ou das regras definidas nos termos do n.º 4 ou, ainda, de não aprovação do inventário nos termos do número anterior, o concedente reserva-se o direito de proceder à inventariação dos bens afetos à concessão, correndo os correspondentes custos por conta da concessionária.
+
+8 - Os bens do domínio público e privado do Estado afetos à concessão regem-se pela legislação que lhes é especificamente aplicável, nomeadamente pelo regime jurídico de gestão do património imobiliário do domínio público do Estado, das Regiões Autónomas e das autarquias locais e pelo regime jurídico da gestão dos bens imóveis do domínio privado do Estado e dos institutos públicos, previstos na lei, nomeadamente em matéria de inventário.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+###### Base XV — Objetivos de densidade da rede postal e de ofertas mínimas de serviços
+
+1 - Compete à concessionária comunicar ao ICP-ANACOM:
+
+a) Os objetivos de densidade no que respeita a estabelecimentos postais e outros pontos de acesso à rede postal afeta à concessão;
+
+b) Os objetivos de ofertas mínimas de serviços, incluindo regras sobre períodos mínimos de funcionamento dos estabelecimentos postais.
+
+2 - Os objetivos e regras constantes do número anterior são fixados para períodos de três anos, podendo ser revistos antes do termo de cada período de vigência, se circunstâncias excecionais assim o justificarem.
+
+3 - Para efeitos do disposto no n.º 1, a concessionária deve ter em conta nomeadamente, os seguintes fatores:
+
+a) Distribuição da população no território nacional;
+
+b) Distância entre os pontos de acesso;
+
+c) Natureza urbana ou rural das zonas abrangidas;
+
+d) Evolução do tráfego e da procura.
+
+4 - A comunicação a que se refere o n.º 1 deve ser fundamentada com base nos fatores indicados no número anterior.
+
+5 - Caso o ICP-ANACOM considere que os objetivos e regras apresentados pela concessionária não correspondem às necessidades dos utilizadores, notifica a concessionária, fundamentadamente, no prazo de 60 dias úteis contado da comunicação a que se refere o número anterior, para que esta proceda à revisão dos mesmos, no prazo de 30 dias úteis.
+
+6 - Se, após a revisão a que se refere o número anterior, o ICP-ANACOM considerar que os objetivos e regras apresentados pela concessionária não correspondem ainda às necessidades dos utilizadores, emite uma deliberação, ouvidos os utilizadores e a concessionária, no prazo de 60 dias úteis, na qual fixa os referidos objetivos e regras, com base nos fatores indicados no n.º 3.
+
+7 - Quando o ICP-ANACOM considere, após a comunicação da concessionária a que se refere o n.º 1 ou após a proposta revista a que alude o número anterior, que os objetivos e regras apresentados pela concessionária são adequados às necessidades dos utilizadores, emite uma decisão de aprovação dos referidos objetivos, ouvidos os utilizadores, no prazo de 50 dias úteis.
+
+8 - Na fixação dos objetivos de densidade da rede postal e de ofertas mínimas de serviços devem ser tidos em consideração os princípios constantes da Lei n.º 17/2012, de 26 de abril, nomeadamente aqueles a que se referem as alíneas a) e b) do n.º 2 do artigo 2.º da referida lei, no sentido de assegurar a existência, disponibilidade, acessibilidade e qualidade da prestação do serviço universal, bem como a sua sustentabilidade e viabilidade económico-financeira.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+###### Base XVI — Plano de desenvolvimento
+
+1 - Por forma a permitir à entidade fiscalizadora a verificação da perfeita adequação entre os desenvolvimentos da rede postal pública e dos serviços e níveis de evolução tecnológica e de qualidade de serviço fixados nos termos da base anterior, bem como das subsequentes alterações que venham a ser fixadas, a concessionária obriga-se a elaborar, até ao 3.º trimestre de cada ano civil, um plano de desenvolvimento para os três anos subsequentes, onde se estabeleçam os objectivos a prosseguir no domínio da extensão da rede, bem como dos serviços objecto da concessão.
+
+2 - O plano de desenvolvimento a que alude o número anterior deve contemplar, para cada ano, os seguintes objectivos:
+
+a) Quanto à rede postal pública, a introdução de novas tecnologias na sua exploração, gestão e manutenção, quantificando as consequências associadas;
+
+b) Quanto aos serviços objecto da concessão:
+
+i) Introdução de novas facilidades de serviço e melhoria da qualidade dos serviços prestados;
+
+ii) Progressos no acesso aos serviços prestados por parte de cidadãos com necessidades especiais.
+
+3 - Os objectivos mencionados no número anterior devem ser discriminados por zonas geográficas, de molde a evidenciar uma adequada harmonização das ofertas no território nacional.
+
+4 - O plano de desenvolvimento deve conter a quantificação e valoração dos investimentos necessários à sua concretização, distinguindo nomeadamente entre os investimentos de expansão da rede postal pública e os investimentos de substituição daquela rede.
+
+###### Base XVII — Fiscalização da concessão
+
+1 - A fiscalização da concessão, incluindo a fiscalização da rede postal afeta à concessão, cabe ao membro do Governo responsável pela área das finanças, para as questões financeiras, e nas demais questões ao membro do Governo responsável pela área das comunicações, coadjuvado pelo ICP-ANACOM, e, individualmente, ao ICP-ANACOM, no âmbito das suas atribuições.
+
+2 - Para os efeitos do disposto no número anterior, a concessionária deve prestar ao membro do Governo responsável pela área das finanças ou a entidade por este indicada para o efeito, ao membro do Governo responsável pela área das comunicações e ao ICP-ANACOM toda a colaboração que lhe seja determinada, obrigando-se a facultar o acesso às suas instalações, equipamentos de qualquer natureza e toda a documentação e arquivos, a prestar todas as informações e a disponibilizar todos e quaisquer elementos que lhe sejam solicitados, designadamente as estatísticas e os registos de gestão utilizados, e prestar sobre tais documentos os esclarecimentos solicitados, nos prazos, na forma e com o grau de pormenor exigidos.
+
+3 - Podem ser efetuados, por solicitação do ICP-ANACOM, na presença de representantes da concessionária, exames que permitam avaliar, quer as condições de funcionamento, segurança e estado de conservação da rede postal afeta à concessão, quer os níveis de qualidade prestados nos diferentes serviços incluídos na concessão.
+
+4 - As determinações do ICP-ANACOM que vierem a ser emitidas no âmbito dos poderes de fiscalização são aplicáveis no prazo para o efeito fixado e vinculam a concessionária, sem prejuízo da possibilidade de recurso ao processo de resolução de litígios previsto na base XXXVII.
+
+5 - O ICP-ANACOM, bem como os seus agentes, estão obrigados a manter sob sigilo todas as informações recolhidas, designadamente as de natureza comercial, no âmbito de ações de fiscalização desenvolvidas, não as podendo utilizar ou divulgar para outras finalidades que não as da própria ação de fiscalização ou outra que a lei considere relevante.
+
+6 - Quando a concessionária não tenha respeitado determinações emitidas pelo ICP- ANACOM no âmbito dos seus poderes de fiscalização, assiste a este a faculdade de proceder à correção da situação, diretamente ou através de terceiro, correndo os correspondentes custos por conta da concessionária, sem prejuízo das sanções aplicáveis.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+###### Base XVIII — Renda ao Estado
+
+1 - Pelo estabelecimento, gestão e exploração da rede postal pública e pela prestação dos serviços concessionados, fica a concessionária obrigada a pagar anualmente ao Estado, a título de renda, o valor correspondente a 1% da receita bruta de exploração dos serviços objecto da concessão prestados em regime de exclusivo.
+
+2 - Serão deduzidos ao quantitativo anual da renda as eventuais margens de exploração negativas eventualmente decorrentes do cumprimento de obrigações da prestação do serviço universal, determinadas de acordo com o fixado na base XIX.
+
+3 - Podem ainda ser deduzidos ao quantitativo anual da renda os valores relativos às isenções e reduções respeitantes aos serviços concessionados e que resultem de disposições regulamentares aplicáveis e como tal fixados no convénio a que alude a base XXIV, bem como outras importâncias de que o Estado seja devedor à concessionária.
+
+4 - O pagamento da renda será efectuado no mês seguinte ao da aprovação das contas respeitantes ao exercício do ano civil anterior.
+
+5 - Por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área das comunicações será fixada a percentagem do montante da renda que será entregue ao ICP como contrapartida de custos associados ao controlo e fiscalização da concessão.
+
+###### Base XIX — Determinação e compensação de custos do serviço universal
+
+1 - Os encargos económicos e financeiros não razoáveis emergentes do cumprimento de obrigações da prestação do serviço universal previstas nos termos das alíneas b) e c) da base II serão compensados, em caso de aprovação, alternativa ou cumulativamente, pelas formas seguintes:
+
+a) Através do fundo de compensação previsto nos termos da base XXVI;
+
+b) Através da dedução do respectivo valor à renda a pagar pela concessionário ao Estado;
+
+c) Através dos sistemas tarifários em vigor.
+
+2 - Para efeitos do disposto no número anterior, deve a concessionária, em complemento e simultaneamente com a entrega do plano de desenvolvimento a que alude a base XVI, demonstrar especificamente os custos associados à prestação do serviço universal e submetê-los à aprovação de uma comissão integrada por representantes do ICP-ANACOM e da concessionária, que tem de pronunciar-se no prazo de 30 dias.
+
+3 - Em caso de aprovação, deve a concessionária adaptar a sua contabilidade ao perfeito acompanhamento e demonstração dos proveitos e custos associados à prestação do serviço universal.
+
+4 - Em caso de não aprovação, nomeadamente por falta de acordo, entre a comissão e a concessionária, o ICP promoverá uma consulta a prestadores de serviços postais existentes no mercado com vista a escolher um prestador que, satisfazendo o mesmo nível e grau de obrigações de serviço universal, ofereça condições economicamente mais vantajosas para o concedente.
+
+5 - Nos casos referidos no número anterior, a entidade que assumir a obrigação de prestar o serviço universal é compensada pelos custos associados a essa prestação, nos termos do n.º 1.
+
+6 - Em caso de não existência de prestadores alternativos que, nos termos do n.º 4, assegurem a prestação do serviço ou enquanto vigorarem os exclusivos constantes da base IV, compete ao tribunal arbitral decidir sobre a verificação dos encargos económicos e financeiros não razoáveis, em caso de não aprovação pela comissão, nos termos do n.º 2.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+###### Base XX — Deliberações sujeitas a autorização
+
+1 - A concessionária não pode, sem autorização do concedente, tomar qualquer deliberação social que, direta ou indiretamente, tenha por fim ou possa levar a uma das seguintes situações:
+
+a) Alteração do objecto da sociedade;
+
+b) Transformação, fusão, cisão ou dissolução da sociedade;
+
+c) Redução do capital social;
+
+d) Suspensão ou cessação, temporária ou definitiva, total ou parcial, de qualquer dos serviços concessionados ou que esteja obrigada a prestar nos termos das presentes bases;
+
+e) Alienação de participações financeiras em sociedades constituídas para prestação de serviços concessionados.
+
+2 - A autorização a que se refere o número anterior considera-se tacitamente concedida se não for recusada no prazo de 30 dias seguidos a contar da data do respectivo pedido.
+
+3 - Compete à concessionária, respeitando os objetivos de densidade da rede postal e de ofertas mínimas de serviços fixados nos termos da base XV:
+
+a) A criação e encerramento dos estabelecimentos postais;
+
+b) A alteração do horário de funcionamento dos estabelecimentos postais, tendo em conta as necessidades do serviço e os níveis de procura.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 116/2003 - Diário da República n.º 135/2003, Série I-A de 2003-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2003-684060), em vigor a partir de 2003-06-17
+
+> Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 150/2001 - Diário da República n.º 105/2001, Série I-A de 2001-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2001-316079), em vigor a partir de 2001-08-05
+
+###### Base XXI — Subconcessão
+
+1 - É permitido à concessionária, mediante prévia autorização do concedente, subconceder, no todo ou em parte, a exploração de algum ou de alguns serviços objecto da concessão.
+
+2 - A autorização do concedente considera-se tacitamente concedida se não for recusada no prazo de 60 dias seguidos a contar da data do respectivo pedido.
+
+3 - Nos casos em que seja autorizada a subconcessão, a concessionária mantém os direitos e continua, directa e pessoalmente, sujeita às obrigações decorrentes do contrato de concessão.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+> Retificado pelo/a [Declaração de Rectificação n.º 23-A/99 - Diário da República n.º 303/1999, 2º Suplemento, Série I-A de 1999-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-a-1999-249984), produz efeitos a partir de 1999-11-09
+
+###### Base XXII — Participação de terceiros na actividade
+
+1 - Sem prejuízo do disposto na base anterior, a concessionária fica desde já autorizada a subcontratar terceiros para efectuar trabalhos e ou prestar serviços que constituam ou que se relacionem com as obrigações assumidas pela concessionária ao abrigo do contrato de concessão.
+
+2 - Nos termos do disposto no número anterior, a concessionária pode, nomeadamente, subcontratar:
+
+a) Qualquer das operações que integram a atividade de serviço postal, como tal definida no artigo 4.º da Lei n.º 17/2012, de 26 de abril;
+
+b) Os serviços de postos de correios e de venda de selos postais;
+
+c) Outros serviços de terceiros complementares ou coadjuvantes da exploração do objecto da concessão.
+
+3 - No caso de intervenção de terceiros nas actividades da concessão, a concessionária mantém os direitos e continua, directa e pessoalmente, sujeita às obrigações decorrentes das presentes bases.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+#### Secção IV — Direitos da concessionária
+
+###### Base XXIII — Direitos da concessionária
+
+1 - O contrato de concessão constitui título bastante para a prestação de todos os serviços concessionados.
+
+2 - Pelo contrato de concessão é a concessionária expressamente investida nos seguintes direitos:
+
+a) Explorar a concessão nos termos das presentes bases;
+
+b) Cobrar os preços dos serviços que presta;
+
+c) Proceder, de acordo com a lei e nos termos do disposto no regime jurídico da urbanização e edificação, com isenção de controlo prévio, a obras e trabalhos necessários à colocação, na via pública, de marcos e caixas de correio destinados à recolha de envios postais;
+
+d) Requerer ao membro do Governo responsável pela área das comunicações as expropriações por utilidade pública, requerer a constituição de servidões administrativas, estabelecer zonas de proteção e aceder a terrenos e edifícios públicos, sempre que tal se mostre necessário à exploração dos serviços concessionados e com observância da legislação em vigor.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+###### Base XXIV — Regime de preços do serviço universal
+
+1 - A concessionária obriga-se a fixar os preços dos serviços que integram o serviço universal de acordo com o disposto nos artigos 14.º e 14.º-A da Lei n.º 17/2012, de 26 de abril.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 116/2003 - Diário da República n.º 135/2003, Série I-A de 2003-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2003-684060), em vigor a partir de 2003-06-17
+
+###### Base XXV — Encargos terminais
+
+1 - Os encargos terminais devem ser transparentes e não discriminatórios, fixados em função dos custos resultantes para a concessionária pelo transporte, tratamento e distribuição do correio internacional de entrada e relacionados com a qualidade do serviço prestado.
+
+2 - Os acordos sobre encargos terminais celebrados pela concessionária devem respeitar os princípios referidos no número anterior.
+
+3 - A concessionária deve comunicar ao ICP-ANACOM os acordos a que alude o número anterior no prazo de 30 dias úteis a contar da sua celebração.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+###### Base XXVI — Compensação e financiamento do serviço universal
+
+1 - A concessionária tem direito à compensação do custo líquido do serviço universal nos termos do disposto nos artigos 18.º e 19.º da Lei n.º 17/2012, de 26 de abril.
+
+2 - Verificada a existência de um custo líquido do serviço universal que seja considerado um encargo financeiro não razoável pelo ICP-ANACOM, este é compensado através do fundo de compensação previsto nos artigos 20.º a 22.º da Lei n.º 17/2012, de 26 de abril.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+#### Secção V — Incumprimento do contrato
+
+###### Base XXVII — Multas contratuais
+
+1 - Sem prejuízo das situações de incumprimento que podem dar origem a sequestro ou rescisão da concessão nos termos das bases XXIX e XXXIV, o incumprimento pela concessionária das obrigações emergentes da concessão, das determinações do concedente emitidas nos termos da lei ou do contrato de concessão e das determinações do ICP-ANACOM emitidas nos termos do n.º 4 da base XVII, determina a aplicação de multas contratuais até ao montante de (euro) 565 000, atualizado anualmente pelo índice de preços no consumidor, consoante a gravidade das infrações cometidas e dos prejuízos delas resultantes, bem como o grau de culpa da concessionária.
+
+2 - A aplicação de multas é precedida da audiência da concessionária, nos termos do artigo 100.º do Código do Procedimento Administrativo.
+
+3 - As multas referidas no n.º 1 são aplicadas por despacho do membro do Governo responsável pela área das comunicações, sob proposta do ICP-ANACOM, devendo ser comunicadas por escrito à concessionária, e produzem os seus efeitos independentemente de qualquer outra formalidade.
+
+4 - O montante das multas aplicadas nos termos da presente base reverte para o Estado em 60% e para o ICP-ANACOM em 40%.
+
+5 - O pagamento das multas aplicadas nos termos da presente base não isenta a concessionária da responsabilidade civil por perdas e danos resultantes da infração.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+> Retificado pelo/a [Declaração de Rectificação n.º 23-A/99 - Diário da República n.º 303/1999, 2º Suplemento, Série I-A de 1999-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-a-1999-249984), produz efeitos a partir de 1999-11-09
+
+###### Base XXVIII — Responsabilidade extracontratual
+
+A concessionária responderá, nos termos da lei geral, por quaisquer prejuízos causados a terceiros no exercício das actividades que constituem o objecto da concessão, pela culpa ou pelo risco, não sendo assumido pelo concedente qualquer tipo de responsabilidade neste âmbito.
+
+###### Base XXIX — Sequestro
+
+1 - Em caso de incumprimento grave pela concessionária das obrigações emergentes do contrato de concessão, pode o concedente, mediante sequestro, tomar a seu cargo o desenvolvimento das actividades e a exploração dos serviços objecto da concessão.
+
+2 - O sequestro pode ter lugar, nomeadamente, caso se verifique qualquer das seguintes situações:
+
+a) Cessação ou interrupção, total ou parcial, do desenvolvimento das actividades e da exploração dos serviços objecto da concessão;
+
+b) Deficiências graves no regular desenvolvimento das actividades e serviços objecto da concessão, bem como situações de insegurança de pessoas e bens;
+
+c) Deficiências no estado geral das instalações e equipamentos da rede postal afeta à concessão que comprometam a continuidade e ou a qualidade da prestação dos serviços objeto da concessão.
+
+3 - Verificando-se qualquer situação que possa dar lugar ao sequestro da concessão nos termos previstos nos números anteriores, observa-se, com as devidas adaptações, o processo de sanação do incumprimento previsto nos n.os 2 e 3 da base XXXIV.
+
+4 - Verificado o sequestro, a concessionária suportará todos os encargos resultantes da manutenção dos serviços e as despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração.
+
+5 - Logo que cessem as razões que motivaram o sequestro e o concedente o julgue oportuno, será a concessionária notificada para retomar, no prazo que lhe for fixado, a normalidade da exploração das actividades e serviços objecto da concessão.
+
+6 - Se a concessionária não quiser ou não puder retomar a concessão ou, quando o tiver feito, continuarem a verificar-se graves deficiências na exploração das actividades e serviços objecto da concessão, poderá o concedente determinar a imediata rescisão do contrato.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+###### Base XXX — Força maior
+
+1 - Verificando-se, durante a vigência do contrato de concessão, casos de força maior que impeçam o cumprimento das obrigações de quaisquer das partes ou obriguem à suspensão dos serviços concessionados, haverá lugar à suspensão, total ou parcial, das correspondentes obrigações ou do contrato, pelo período correspondente ao da duração do caso de força maior, ou à revisão, por acordo, do contrato, quando tal se justifique.
+
+2 - A parte que pretender invocar caso de força maior deverá, logo que dele tenha conhecimento, avisar por escrito a outra, indicando os seus efeitos na execução do contrato.
+
+3 - Sem prejuízo da possibilidade do acordo previsto no n.º 1, verificando-se caso de força maior, a concessionária deverá sempre acautelar o funcionamento e continuidade dos serviços postais, tomando as medidas que se mostrem necessárias e adequadas para o efeito, nomeadamente no domínio do planeamento, de prevenção de operação e de meios humanos.
+
+###### Base XXXI — Caso de guerra ou crise
+
+1 - Sem prejuízo do disposto na alínea k) do n.º 1 da base VIII e da base anterior, em caso de guerra ou de crise, o concedente, através do membro do Governo responsável pela área das comunicações, reserva-se o direito de gerir e explorar os serviços objeto de concessão.
+
+2 - Durante o período referido no número anterior suspende-se, em relação a todo o objecto da concessão, o prazo da concessão estipulado contratualmente.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+> Retificado pelo/a [Declaração de Rectificação n.º 23-A/99 - Diário da República n.º 303/1999, 2º Suplemento, Série I-A de 1999-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-a-1999-249984), produz efeitos a partir de 1999-11-09
+
+#### Secção VI — Modificação e extinção do contrato
+
+###### Base XXXII — Modificação do contrato
+
+1 - Na eventualidade de, na vigência do contrato de concessão, ocorrerem circunstâncias que, pela sua importância e efeitos, devam ser consideradas como alteração anormal das circunstâncias, nos termos do artigo 437.º do Código Civil, as partes comprometem-se a rever o contrato de acordo com os princípios da boa-fé e da equidade.
+
+2 - Na falta de acordo entre as partes quanto à alteração do contrato prevista no número anterior, num prazo não superior a 90 dias a contar da comunicação de uma das partes à outra da alteração das circunstâncias, haverá recurso ao tribunal arbitral previsto na base XXXVIII.
+
+###### Base XXXIII — Extinção da concessão
+
+A concessão extingue-se por acordo entre o concedente e a concessionária, por rescisão, por resgate e pelo decurso do respectivo prazo.
+
+###### Base XXXIV — Rescisão da concessão
+
+1 - O concedente pode rescindir a concessão, sem prejuízo do disposto no n.º 2, em casos de violação grave, contínua e não sanada ou não sanável das obrigações da concessionária, nomeadamente por verificação dos seguintes factos:
+
+a) Incumprimento das obrigações assumidas pela concessionária ao abrigo do contrato de concessão;
+
+b) Violação da legislação aplicável à atividade objeto da concessão;
+
+c) Dissolução da concessionária;
+
+d) Oposição infundada e repetida ao exercício da fiscalização e reiterada e injustificada desobediência às legítimas determinações do concedente e do ICP- ANACOM;
+
+e) Recusa em proceder devidamente à conservação e reparação das instalações e equipamentos que constituam a rede postal afeta à concessão;
+
+f) Recusa ou impossibilidade da concessionária em retomar a exploração da concessão, nos termos do n.º 5 da base XXIX, ou, quando o tiver feito, se mantenham as situações que motivaram o sequestro;
+
+g) Incumprimento culposo de decisões judiciais ou arbitrais transitadas em julgado.
+
+2 - Verificando-se um dos casos de incumprimento que, nos termos do número anterior, fundamentem a rescisão da concessão, o concedente notifica a concessionária para que, no prazo que razoavelmente for fixado, sejam integralmente cumpridas as suas obrigações e corrigidas ou reparadas as consequências dos seus atos, exceto tratando-se de violação não sanável.
+
+3 - Caso a concessionária não promova a correcção ou reparação das consequências do incumprimento nos termos determinados pelo concedente, pode este rescindir a concessão, mediante notificação enviada à concessionária.
+
+4 - A rescisão é da competência do membro do Governo responsável pela área das comunicações e produz efeitos mediante notificação à concessionária, independentemente de qualquer outra formalidade.
+
+5 - Em caso de rescisão, a universalidade constituída por todos os bens e direitos afectos, de modo permanente e necessário, à concessão reverte a favor do Estado, sem qualquer indemnização e sem prejuízo da responsabilidade civil em que incorrer a concessionária e das sanções previstas na lei ou no contrato de concessão.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Retificado pelo/a [Declaração de Rectificação n.º 23-A/99 - Diário da República n.º 303/1999, 2º Suplemento, Série I-A de 1999-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-a-1999-249984), produz efeitos a partir de 1999-11-09
+
+###### Base XXXV — Resgate da concessão
+
+1 - O concedente pode resgatar a concessão sempre que motivos de interesse público o justifiquem, mediante notificação à concessionária com a antecedência mínima de 1 ano, decorridos que sejam pelo menos 15 anos a contar da data do início do respectivo prazo.
+
+2 - O concedente assume, decorrido o período de um ano sobre a notificação de resgate, todos os direitos e obrigações contraídos pela concessionária anteriormente à data da notificação, com vista a assegurar o prosseguimento das atividades e a prestação dos serviços concessionados, e ainda aqueles que tenham sido assumidos pela concessionária após essa data, desde que tenham sido previamente autorizados pelo concedente.
+
+3 - Em caso de resgate, assiste à concessionária o direito a uma indemnização em valor correspondente ao número de anos que faltarem para o termo do prazo da concessão, multiplicado pelo valor médio do resultado antes de juros, impostos, depreciações e amortizações (EBITDA) resultante das atividades de prestação dos serviços concessionados apurados nos cinco anos anteriores à notificação do resgate.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 116/2003 - Diário da República n.º 135/2003, Série I-A de 2003-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2003-684060), em vigor a partir de 2003-06-17
+
+###### Base XXXVI — Reversão de bens e direitos no termo da concessão
+
+1 - Sem prejuízo do disposto no n.º 5 da base XXXIV, em caso de extinção da concessão, por qualquer uma das formas previstas na lei, revertem gratuita e automaticamente para o concedente os bens dos domínios público e privado do Estado, obrigando-se a concessionária a entregá-los em perfeitas condições de funcionamento, conservação e segurança, sem prejuízo do normal desgaste resultante da sua utilização, e livres de quaisquer ónus ou encargos, não podendo a concessionária invocar, com qualquer fundamento, o direito de retenção.
+
+2 - Caso a reversão de bens para o concedente não se processe nas condições previstas no número anterior, a concessionária indemniza o concedente, devendo a indemnização ser calculada nos termos legais.
+
+3 - No termo da concessão, o concedente procede a uma vistoria dos bens a que se alude no n.º 1, na qual participa um representante da concessionária, destinada à verificação do estado de conservação e manutenção daqueles bens, devendo ser lavrado auto da vistoria realizada.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2006 - Diário da República n.º 112/2006, Série I-A de 2006-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360), em vigor a partir de 2006-06-10
+
+#### Secção VII — Resolução de diferendos
+
+###### Base XXXVII — Processo de resolução de litígios
+
+1 - Os eventuais litígios que possam surgir entre as partes em matéria de aplicação, interpretação ou integração de lacunas do contrato de concessão são resolvidos por recurso a um tribunal arbitral, nos termos previstos na base seguinte.
+
+2 - A submissão de qualquer questão ao processo de resolução de litígios não exonera a concessionária do pontual cumprimento das disposições das presentes bases e das determinações do concedente ou do ICP-ANACOM que no seu âmbito lhe sejam comunicadas, incluindo as emitidas após a data daquela submissão, nem permite qualquer interrupção do desenvolvimento das atividades objeto da concessão, que devem continuar a processar-se nos termos em vigor à data da submissão da questão, até que uma decisão final seja obtida no processo de resolução de litígios relativamente à matéria em causa.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+###### Base XXXVIII — Tribunal arbitral
+
+1 - Qualquer das partes pode submeter o litígio a um tribunal arbitral composto por três membros, um nomeado por cada uma das partes e o terceiro escolhido de comum acordo pelos árbitros que as partes tiverem designado.
+
+2 - A parte que decida submeter determinado litígio a tribunal arbitral nos termos do número anterior apresenta os seus fundamentos e designa de imediato o árbitro da sua nomeação no requerimento de constituição do tribunal arbitral que dirija à outra parte através de carta registada com aviso de receção, devendo esta, no prazo de 20 dias úteis a contar da receção daquele requerimento, designar o árbitro da sua nomeação e deduzir a sua defesa.
+
+3 - Os árbitros designados nos termos do número anterior designam o terceiro árbitro do tribunal no prazo de 10 dias úteis a contar da designação do árbitro nomeado pela parte reclamada.
+
+4 - Na falta de acordo quanto à designação do terceiro árbitro, a escolha do árbitro em falta é feita pelo presidente do Tribunal da Relação de Lisboa, a requerimento de qualquer das partes.
+
+5 - O tribunal arbitral considera-se constituído na data em que o terceiro árbitro aceitar a sua nomeação e o comunicar a ambas as partes.
+
+6 - O tribunal arbitral pode ser assistido pelos peritos técnicos que considere conveniente designar, devendo, em qualquer caso, fazer-se assessorar por pessoas ou entidades com formação jurídica adequada em direito português.
+
+7 - O tribunal arbitral julga segundo o direito constituído e das suas decisões não cabe recurso, sem prejuízo do disposto na lei em matéria de anulação de decisão arbitral.
+
+8 - As decisões do tribunal arbitral devem ser proferidas no prazo máximo de seis meses a contar da data de constituição do tribunal determinada nos termos do n.º 5, configuram a decisão final do processo de resolução de litígios e incluem a fixação das custas do processo e a forma da sua repartição pelas partes.
+
+9 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 160/2013 - Diário da República n.º 224/2013, Série I de 2013-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161), em vigor a partir de 2013-11-24
+
+#### Secção VIII — Disposições transitórias
+
+###### Base XXXIX — Inventário de bens
+
+No prazo de dois anos, contado a partir da data da celebração do contrato, fica a concessionária obrigada a apresentar ao ICP um inventário donde constem os bens afectos à concessão, nos termos da base XIV.
+
+###### Base XL — Relações com terceiros
+
+A celebração do contrato de concessão não prejudica a vigência de todos os direitos e obrigações resultantes de contratos já celebrados, ou a celebrar, entre a concessionária e outras administrações postais ou organismos estrangeiros.

@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:321279:por
+title: Resolução do Conselho de Ministros n.º 91/2000
+short_title: null
+summary: Acolhe a preferência manifestada pela Comissão Científica Independente pela localização do projecto de co-incineração
+  nas unidades cimenteiras de Souselas (Coimbra) e Outão (Setúbal)
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 91/2000
+official_date: null
+publication_date: '2000-07-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 166/2000, Série I-B de 2000-07-20
+  number: '166'
+  series: I
+  supplement: null
+  pages: 3366 - 3367
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/07/166b00/33663367.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/91/2000/07/20/p/dre/pt/html
+  oj: null
+  dre: '321279'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/91-2000-321279
+  internal: pt:dre:321279:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-2000-321279
+  metadata_url: https://data.dre.pt/eli/resolconsmin/91/2000/07/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-2000-321279
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:43:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dbfe93f704eba84a74dcf4ac6e5f70a913953be0dba68f6df7e237d167d0b679
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:43:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Coimbra
+- Comissão Científica Independente de Controlo e Fiscalização Ambiental da Co-incineração
+- Definição de Competências
+- Eliminação de Resíduos
+- Empresa Cimenteira
+- Gestão de Resíduos
+- Incineração
+- Incineração de Resíduos
+- Instituto de Promoção Ambiental
+- Política do Ambiente
+- Poluição Industrial
+- Rectificação de Numero de Diploma
+- Saúde Pública
+- Setúbal
+relationships:
+- type: amended_by
+  target: pt:dre:586444:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31994L0067
+  label: null
+  source: http://data.europa.eu/eli/dir/1994/67/oj
+- type: corrected_by
+  target: pt:dre:210029:por
+  label: "Rectificados o sumário e a epígrafe deste diploma, publicado primeiramente sob o nº 91/2000, pela DECL-RECT.7-A/2000.2000.07.20.PCM\
+    \ DR.IS-B [166]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-a-2000-210029
+  date: '2000-07-20'
+- type: corrected_by
+  target: pt:dre:586444:por
+  label: "Rectificada pela DECL-RECT.7-AG/2000.2000.08.31.PCM DR.IS-B [201]3º Supl de 31/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-ag-2000-586444
+  date: '2000-08-31'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:43:50Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 91/2000
+
+1 - Face à dimensão e gravidade que assume o problema dos resíduos industriais, em especial no que respeita às consequências ambientais emergentes da ausência de tratamento adequado e da proliferação de lixeiras e locais contaminados existentes por todo o País, onde são depositados clandestinamente, sem qualquer controlo, toda a espécie de resíduos industriais, o XIII Governo Constitucional, através da Resolução do Conselho de Ministros n.º 98/97, de 25 de Junho, definiu uma estratégia de gestão dos resíduos industriais capaz de conduzir a uma gestão eficiente, moderna e adequada deste tipo de resíduos, clarificando regras e identificando as responsabilidades dos diversos intervenientes.
+
+De entre os vários princípios orientadores da estratégia de gestão dos resíduos industriais, o Governo optou, designadamente, por eleger como princípio fundamental a necessidade de se proceder à separação dos resíduos industriais, quer em relação aos restantes tipos principais de resíduos (urbanos, hospitalares e outros), quer através da separação, na origem, entre os resíduos industriais perigosos e não perigosos, atenta a significativa diferença existente quanto aos correspondentes métodos de gestão a adoptar - formas de recolha e transporte, tipos de valorização, tratamento e destino final.
+
+No que diz respeito em especial aos resíduos industriais perigosos, cuja classificação resulta de critérios de distinção objectivos válidos no espaço da União Europeia, o Governo, considerando as vantagens ambientais e económicas comprovadas em vários estudos comparativos, a necessidade de atingir os requisitos ambientais exigidos pela legislação nacional e europeia, a existência de um saldo de custo-benefício ambientalmente favorável, bem como a maior flexibilidade na implementação e funcionamento deste sistema, optou pela solução da co-incineração em unidades cimenteiras nacionais, como forma preferencial de tratamento de resíduos industriais perigosos incineráveis cuja produção não possa ser evitada e que não sejam susceptíveis de reutilização ou reciclagem.
+
+Acentue-se que a maior flexibilidade da opção pela co-incineração se traduz na possibilidade de funcionar com uma quantidade de resíduos variável entre zero e a percentagem máxima de substituição do combustível permitida pela lei, sendo por isso compatível com a redução progressiva das quantidades, por via do aumento da redução, reutilização ou reciclagem, ao contrário do que sucede com a incineração dedicada.
+
+2 - Nessa conformidade, o XIII Governo Constitucional, através do Decreto-Lei n.º 273/98, de 2 de Setembro, estabeleceu as regras a que fica sujeita a incineração de resíduos perigosos por forma a prevenir ou reduzir ao mínimo os efeitos negativos no ambiente, em especial a poluição do ar, do solo e das águas superficiais e subterrâneas, bem como os riscos para a saúde pública, transpondo para o direito interno, no mesmo instrumento normativo, as disposições constantes da Directiva n.º [94/67/CE](http://data.europa.eu/eli/dir/1994/67/oj?locale=pt), de 16 de Dezembro. Importava, então, implementar o processo.
+
+Na sequência da apresentação de um projecto de eliminação de resíduos industriais pelo sector cimenteiro, incluindo o respectivo estudo de impacte ambiental, foi nomeada pelo despacho conjunto n.º 541/98, de 21 de Julho, dos Ministros do Equipamento, do Planeamento e da Administração do Território e do Ambiente, uma comissão de avaliação do impacte ambiental e decorreram entre 31 de Agosto a 23 de Novembro de 1998 diversas audiências públicas, uma em cada uma das potenciais localizações relevantes para a implementação do processo de co-incineração. Em 21 de Dezembro de 1998, foi concluído o parecer da comissão de avaliação do impacte ambiental.
+
+Este parecer concluiu que «não se colocam questões de carácter técnico inibidoras da localização de qualquer das componentes do projecto» e que os «problemas de natureza técnica suscitados pelas diversas localizações das diversas componentes do projecto são passíveis de ser enfrentados tecnicamente com suficiente eficácia ambiental, uma vez adoptadas as soluções que reflictam o estado da arte e assegurado o cumprimento rigoroso dos procedimentos legais e a satisfação das condicionantes constantes deste parecer». Não obstante a possibilidade de qualquer das localizações, a comissão de avaliação de impacte ambiental propôs as localizações de Maceira e de Souselas no que respeita à co-incineração. Esta proposta mereceu a concordância da Ministra do Ambiente por despacho de 28 de Dezembro de 1998.
+
+Posteriormente, decretou a Assembleia da República, através da Lei n.º 20/99, de 15 de Abril, a suspensão da aplicação do Decreto-Lei n.º 273/98, de 2 de Setembro, no que respeita às operações de co-incineração de resíduos industriais perigosos, incluindo a avaliação e selecção de locais para queima e tratamento desses resíduos, condicionando a continuação do processo de co-incineração ao parecer de uma comissão científica independente.
+
+Face às orientações emergentes da referida Lei n.º 20/99, de 15 de Abril, o Governo, através do Decreto-Lei n.º 120/99, de 16 de Abril, criou a Comissão Científica Independente de Controlo e Fiscalização Ambiental da Co-Incineração exigida pela Assembleia da República, dotando-a de personalidade jurídica e de autonomia administrativa e financeira, de forma que dúvidas não subsistissem a propósito da sua imparcialidade e isenção. Afirmou-se, expressamente, o princípio da independência dos membros da Comissão, quer no que respeita à sua designação pelo Conselho de Reitores das Universidades Portuguesas, quer no que respeita ao respectivo estatuto. Por outro lado, o artigo 18.º atribuiu aos pareceres emitidos pela Comissão em causa, para efeitos de concessão das licenças necessárias à realização das operações provisórias e definitivas de co-incineração, a natureza de pareceres obrigatórios e vinculativos em tudo o que seja negativo. Através do artigo 1.º do Decreto-Lei n.º 121/99, da mesma data, o Governo esclareceu ainda que as competências previstas no artigo 4.º da Lei n.º 20/99, de 15 de Abril, deveriam ser exercidas pela Comissão em apreço.
+
+A Assembleia da República, de resto através das Leis n.os 148/99 e 149/99, ambas de 3 de Setembro, precisou alguns dos aspectos enunciados naqueles diplomas governamentais, designadamente quanto aos procedimentos necessários à implementação do processo de co-incineração e no que tange à composição e designação da Comissão, determinando que se considerassem como não definitivas as decisões até então tomadas relativas à localização.
+
+Pode assim concluir-se que a Assembleia da República, querendo aproveitar todos os actos já produzidos neste procedimento, razão da opção pela mera suspensão, pretendeu introduzir um novo factor de certificação da decisão governamental, consubstanciado no parecer prévio da Comissão Científica Independente, com eventual reponderação da decisão de localização.
+
+3 - Em Maio de 2000, a Comissão Científica Independente, constituída na sequência da designação de três dos seus membros pelo Conselho de Reitores das Universidades Portuguesas e de um pelo Ministro do Ambiente e do Ordenamento do Território, concluiu a elaboração do relatório técnico relativo ao tratamento de resíduos industriais perigosos, no qual foi analisado, designadamente, nos termos do artigo 4.º da Lei n.º 20/99, de 15 de Abril, o impacte de cada uma das possíveis modalidades de tratamento sobre o ambiente e a saúde pública, a sua segurança e fiabilidade, os limites e condições de localização das respectivas instalações em relação às zonas habitadas.
+
+Nos termos do relatório em apreço e depois de aludir à necessidade premente de Portugal dispor de unidades de queima de resíduos industriais perigosos, a Comissão recomendou a implementação do «processo de co-incineração em fornos de unidades cimenteiras por não implicar um acréscimo previsível de emissões nocivas para a saúde quando comparado com a utilização de combustíveis tradicionais, por ter menores impactes ambientais que as incineradoras dedicadas, contribuir para um decréscimo do efeito de estufa, conduzir a uma maior recuperação de energia, por não ter impactes ambientais acrescidos em relação aos da produção de cimento quando respeitando os limites fixados, por razões económicas mais favoráveis em termos de investimentos e de custos de operação, e por se revelar como uma solução mais flexível para a gestão dos resíduos industriais perigosos, permitindo acompanhar melhor a evolução tecnológica».
+
+A Comissão recomendou, por outro lado e sempre fundamentadamente, que o processo de co-incineração fosse implementado nas cimenteiras de Souselas (Coimbra) e do Outão (Setúbal) e que fossem observadas determinadas regras e procedimentos destinados a garantir a inexistência de impactes ambientais acrescidos em relação à produção de cimento e a ausência de riscos para as populações e a segurança dos operadores.
+
+4 - A Assembleia da República havia decretado que as operações de co-incineração de resíduos industriais perigosos, incluindo a avaliação e selecção de locais para queima e tratamento desses resíduos, ficariam condicionadas ao parecer de uma comissão científica independente.
+
+Ora, tendo em conta o parecer da Comissão Científica Independente, entende o Governo que não há razões para introduzir alterações ao Decreto-Lei n.º 273/98, de 2 de Setembro, face à inexistência de matéria susceptível de ser revista.
+
+Assim, atendendo às recomendações emitidas pela Comissão Científica Independente e à intervenção que esta terá no procedimento, nos termos dos artigos 1.º e 2.º do Decreto-Lei n.º 120/99, de 16 de Abril, com a redacção que lhes foi conferida pela Lei n.º 149/99, de 3 de Setembro, e nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Acolher, sem prejuízo do número seguinte e até ao despacho previsto no n.º 3, a preferência manifestada pela Comissão Científica Independente pela localização do projecto de co-incineração nas unidades cimenteiras de Souselas (Coimbra) e Outão (Setúbal), nos termos e com as limitações ali recomendadas.
+
+2 - Facultar aos interessados referidos no n.º 1, nos termos do artigo 4.º, alínea b), do Decreto-Lei n.º 120/99, de 16 de Abril, com as alterações decorrentes do artigo único da Lei n.º 149/99, de 3 de Setembro, a possibilidade de se pronunciarem por escrito, através do Instituto de Promoção Ambiental (IPAMB), até 15 dias após a publicação desta resolução, sobre as medidas decorrentes do número anterior e constantes do relatório da Comissão Científica Independente.
+
+3 - Remeter, finda a audiência prevista no número anterior, para despacho do Ministro do Ambiente e do Ordenamento do Território, a conclusão sobre a ponderação das recomendações da Comissão Científica Independente e dos argumentos aduzidos pelos interessados quanto à localização do projecto de co-incineração em unidades cimenteiras.
+
+4 - Declarar, para todos os efeitos legais, que face à premência em tomar medidas que permitam resolver o grave problema ambiental do tratamento dos resíduos industriais, o desenvolvimento do processo de co-incineração de resíduos industriais perigosos nas unidades cimenteiras nacionais e os actos em que o mesmo se concretize revestem relevante interesse público.
+
+5 - Reconhecer que prolongar ou agravar a actual situação relativa à insuficiência do tratamento dos resíduos industriais perigosos em causa constitui grave lesão do interesse público.
+
+Presidência do Conselho de Ministros, 8 de Junho de 2000. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

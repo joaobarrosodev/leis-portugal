@@ -1,0 +1,172 @@
+---
+schema_version: '1.0'
+id: pt:dre:662761:por
+title: Decreto do Governo n.º 10/87
+short_title: null
+summary: Sujeita a servidão radioeléctrica as áreas adjacentes ao percurso da ligação hertziana entre os centros radioeléctricos
+  da Covilhã e do Fundão
+jurisdiction: portugal
+territory: null
+document_type: decreto-governo
+document_type_label: Decreto do Governo
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 10/87
+official_date: null
+publication_date: '1987-02-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/1987, Série I de 1987-02-09
+  number: '33'
+  series: I
+  supplement: null
+  pages: 502 - 504
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03300/05020504.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '662761'
+  dre_path: /dr/detalhe/decreto-governo/10-1987-662761
+  internal: pt:dre:662761:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/10-1987-662761
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/10-1987-662761
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:29:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7a6c372dd6f51f2816f50e812a018c5ac1591016b1e006ecf0c0e8969bb5f47b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comunicações
+- Covilhã
+- Fundão
+- Instalações Radioelétricas
+- Ministro das Obras Públicas Transportes e Comunicações
+- Recurso
+- Servidão Radioelétrica
+relationships:
+- type: amended_by
+  target: pt:dre:240814:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:240814:por
+  label: "Revogado pelo DEC.19/2003.2003.04.29.MECO DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/19-2003-240814
+  date: '2003-04-29'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:29:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Governo n.º 10/87
+
+de 9 de Fevereiro
+
+Considerando que se torna necessário delimitar as áreas de terreno indispensáveis à protecção da ligação hertziana entre os centros radioeléctricos situados na Covilhã, no edifício dos CTT, na Rua de António Augusto de Aguiar, e no Fundão, no edifício dos CTT, na Avenida da Liberdade, pertencentes à empresa pública CTT, constituiu-se, para tal efeito, uma servidão radioeléctrica;
+
+Considerando que as populações dos conselhos das áreas abrangidas pelas restrições desta servidão, depois de terem sido convidadas a manifestar-se, de acordo com o disposto nos artigos 3.º e 5.º do [Decreto-Lei n.º 181/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1970-225986), de 28 de Abril, não apresentaram qualquer reclamação que obste à sua constituição;
+
+Considerando o disposto no artigo 14.º, n.º 1, do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro:
+
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+
+Artigo 1.º As áreas adjacentes ao percurso da ligação hertziana entre os centros radioeléctricos da Covilhã e do Fundão, numa distância de 15,454 km, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
+
+Art. 2.º A ligação hertziana referida no artigo anterior é composta por duas estações terminais, situadas, respectivamente, no edifício dos CTT, na Rua de António Augusto de Aguiar, na Covilhã, e no edifício dos CTT, na Avenida da Liberdade, no Fundão.
+
+Art. 3.º As antenas directivas utilizadas nos centros radioeléctricos da Covilhã e do Fundão encontram-se instaladas às cotas de, respectivamente, 700 m e 504 m, em relação ao nível médio do mar, e situam-se em pontos com as seguintes coordenadas geográficas:
+
+a) Covilhã:
+
+Latitude - 40º 16' 51,9" N.;
+
+Longitude - 7º 30' 5,4" W.;
+
+b) Fundão:
+
+Latitude - 40º 8' 30" N.;
+
+Longitude - 7º 29' 50,4" W.
+
+Art. 4.º - 1 - A zona de desobstrução a que aludem a alínea b) do n.º 1 do artigo 6.º e o artigo 11.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, tem a largura de 20 m.
+
+2 - Esta zona de desobstrução, que é medida perpendicularmente e para cada lado da projecção horizontal da linha recta que une as antenas dos centros radioeléctricos terminais, encontra-se demarcada em plano horizontal na planta topográfica, na escala de 1:250000, conforme a figura 1 em anexo a este diploma.
+
+Art. 5.º - 1 - Na zona de desobstrução definida no artigo anterior é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem da linha recta que une as antenas terminais menos de [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03300/05020504.pdf) m, sendo d(índice 1), e d(índice 2) obtidos pela projecção sobre a linha recta atrás referida das distâncias, em quilómetros, entre o ponto considerado e os pontos extremos, respectivamente Covilhã e Fundão.
+
+2 - O elipsóide da 1.ª zona de Fresnel e o perfil do terreno entre as antenas consideradas estão representados em plano vertical na figura 2, em anexo a este diploma, nas escalas seguintes:
+
+Eixo das abcissas - 1:100000;
+
+Eixo das ordenadas - 1:10000.
+
+Art. 6.º O conselho de administração dos CTT é a entidade competente para:
+
+a) Ordenar a demolição, remoção, abate ou inutilização dos obstáculos perturbadores referidos nos termos do artigo 20.º, n.º 2, do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro;
+
+b) Fiscalizar o cumprimento das disposições legais respeitantes à presente servidão;
+
+c) Aplicar, nos termos do artigo 24.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, as coimas decorrentes das infracções verificadas.
+
+Art. 7.º Das decisões tomadas nos termos das alíneas a) e c) do artigo anterior cabe recurso para o Ministro das Obras Públicas, Transportes e Comunicações.
+
+Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins.
+
+Assinado em 7 de Janeiro de 1987.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 12 de Janeiro de 1987.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03300/05020504.pdf)

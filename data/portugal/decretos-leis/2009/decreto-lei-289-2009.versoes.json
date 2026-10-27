@@ -1,0 +1,236 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:491241:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-122305229",
+ "dre_path": "/dr/detalhe/decreto-lei/289-2009-491241",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-10-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122308421",
+    "122308422",
+    "122308423",
+    "122308424",
+    "122308425",
+    "122308426",
+    "122308427",
+    "122308428",
+    "122308429",
+    "122308430",
+    "122308431",
+    "122308432",
+    "122308433",
+    "122308434",
+    "122308435",
+    "122308436",
+    "122308437"
+   ]
+  },
+  {
+   "date": "2019-05-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122305208:por",
+     "title": "Decreto-Lei n.º 62/2019",
+     "published": "2019-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/62-2019-122305208"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "122308421",
+    "122308422",
+    "122308439",
+    "122308440",
+    "122308425",
+    "122308426",
+    "122308427",
+    "122308428",
+    "122308429",
+    "122308430",
+    "122308431",
+    "122308432",
+    "122308433",
+    "122308434",
+    "122308435",
+    "122308436",
+    "122308437",
+    "122308438"
+   ]
+  }
+ ],
+ "fragments": {
+  "122308421": {
+   "fragment_id": "122305230",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 289/2009\n\nde 8 de Outubro\n\nO Programa do XVII Governo Constitucional assume o compromisso de desenvolver e reforçar a rede nacional de julgados de paz.\n\nOs julgados de paz são tribunais de proximidade, resultantes de uma parceria entre o Estado e as autarquias locais, que resolvem litígios muito directamente relacionados com a vida das pessoas, de forma simples e rápida e com todas as garantias da decisão de um tribunal judicial. Julgam, frequentemente, conflitos em matéria de arrendamento, condomínio, pequenas dívidas e demarcação de prédios. Os julgados de paz promovem, por outro lado, uma cultura de participação e responsabilização das partes na superação dos conflitos, oferecendo meios não adversariais de resolução de litígios como a mediação, efectuada por um mediador de conflitos, ou a conciliação, perante um juiz de paz.\n\nNo cumprimento dos compromissos assumidos no Programa do Governo, foi publicamente apresentado, em 2007, o Plano de Desenvolvimento da Rede dos Julgados de Paz (PDRJP). Este Plano, realizado por uma equipa do Instituto Superior de Ciências do Trabalho e da Empresa, estabelece, com base em critérios científicos, 12 fases de alargamento da rede de julgados de paz, concebendo uma estratégia clara e transparente para levar estes tribunais de proximidade a todos os concelhos do território nacional.\n\nAssim, em cumprimento dos objectivos traçados no Plano de Acção para o Descongestionamento dos Tribunais II (PADT II), aprovado pela Resolução do Conselho de Ministros n.º 172/2007, de 6 de Novembro, e na sequência da candidatura dos municípios habilitados, nos termos do PDRJP, o Governo procedeu à criação de quatro novos julgados de paz em 2008, através do Decreto-Lei n.º 22/2008, de 1 de Fevereiro, e de cinco em 2009, através do Decreto-Lei n.º 60/2009, de 4 de Março.\n\nOs julgados de paz têm apresentado bons resultados ao longo do tempo, o que deve ser assinalado. Desde 2002, ano de entrada em funcionamento dos primeiros quatro julgados de paz, que estes tribunais de proximidade têm visto o seu número de processos entrados aumentar todos os anos, tendo-se superado já os 28 mil processos. Realça-se, todavia, que, apesar deste aumento, os julgados de paz têm tido uma boa capacidade de resposta, resolvendo os litígios em cerca de dois a três meses. Este bom resultado reforça a necessidade de continuar a apostar nestes tribunais de proximidade, oferecendo assim a mais portugueses um serviço público de justiça de qualidade, que resolve os seus problemas do dia-a-dia de forma simples, célere e barata.\n\nAssim, analisadas as novas candidaturas apresentadas pelos municípios, tendo em conta o PDRJP, procede-se agora à criação de cinco novos julgados de paz: o Julgado de Paz do Agrupamento dos Concelhos de Alcochete, Barreiro, Moita e Montijo, o Julgado de Paz do Agrupamento dos Concelhos de Alvaiázere, Ansião, Figueiró dos Vinhos, Pedrógão Grande e Penela, o Julgado de Paz do Agrupamento dos Concelhos de Câmara de Lobos e Funchal, o Julgado de Paz do Concelho de Loures e o Julgado de Paz do Agrupamento dos Concelhos de Odemira e Sines.\n\nForam ouvidos o Conselho Superior da Magistratura, a Ordem dos Advogados, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nFoi ouvido, a título facultativo, o Conselho de Acompanhamento dos Julgados de Paz.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Decreto-Lei n.º 62/2019 - Diário da República n.º 93/2019, Série I de 2019-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2019-122305208) A extinção do Julgado de Paz do Agrupamento dos Concelhos de Câmara de Lobos e Funchal, produz efeitos na data da instalação do Julgado de Paz do Agrupamento dos Concelhos de Câmara de Lobos, Funchal e Santa Cruz."
+  },
+  "122308422": {
+   "fragment_id": "122305231",
+   "type": 1,
+   "heading": "Capítulo I — Julgados de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Julgados de paz"
+  },
+  "122308423": {
+   "fragment_id": "122305232",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei procede, nos termos e ao abrigo do disposto no artigo 3.º da Lei n.º 78/2001, de 13 de Julho, à criação dos seguintes julgados de paz:\n\na) Julgado de Paz do Agrupamento dos Concelhos de Alcochete, Barreiro, Moita e Montijo;\n\nb) Julgado de Paz do Agrupamento dos Concelhos de Alvaiázere, Ansião, Figueiró dos Vinhos, Pedrógão Grande e Penela;\n\nc) Julgado de Paz do Agrupamento dos Concelhos de Câmara de Lobos e Funchal;\n\nd) Julgado de Paz do Concelho de Loures;\n\ne) Julgado de Paz do Agrupamento dos Concelhos de Odemira e Sines."
+  },
+  "122308424": {
+   "fragment_id": "122305233",
+   "type": 11,
+   "heading": "Artigo 2.º — Circunscrição territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Circunscrição territorial\n\n1 - O Julgado de Paz do Agrupamento dos Concelhos de Alcochete, Barreiro, Moita e Montijo abrange todas as freguesias destes concelhos.\n\n2 - O Julgado de Paz do Agrupamento dos Concelhos de Alvaiázere, Ansião, Figueiró dos Vinhos, Pedrógão Grande e Penela abrange todas as freguesias destes concelhos.\n\n3 - O Julgado de Paz do Agrupamento dos Concelhos de Câmara de Lobos e Funchal abrange todas as freguesias destes concelhos.\n\n4 - O Julgado de Paz do Concelho de Loures abrange todas as freguesias deste concelho.\n\n5 - O Julgado de Paz do Agrupamento dos Concelhos de Odemira e Sines abrange todas as freguesias destes concelhos."
+  },
+  "122308425": {
+   "fragment_id": "122305234",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede dos julgados de paz dos agrupamentos de concelhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede dos julgados de paz dos agrupamentos de concelhos\n\nConsidera-se sede do julgado de paz de agrupamento de concelhos o local onde seja proposta a acção."
+  },
+  "122308426": {
+   "fragment_id": "122305235",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição e organização dos julgados de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição e organização dos julgados de paz\n\n1 - Cada julgado de paz é composto por uma ou mais secções, dirigida cada uma delas por um juiz de paz.\n\n2 - O número de secções de cada julgado de paz é estabelecido na portaria que procede à sua instalação.\n\n3 - Os julgados de paz criados pelo presente decreto-lei podem dispor, caso se justifique, de várias instalações no âmbito da respectiva área de circunscrição, nos termos a fixar nos respectivos regulamentos internos, aprovados por portaria do membro do Governo responsável pela área da justiça.\n\n4 - As instalações referidas no número anterior devem dispor de um serviço de atendimento, de serviço de apoio administrativo e de serviço de mediação, bem como de instalações adequadas à realização de actos processuais, nomeadamente audiências de julgamento."
+  },
+  "122308427": {
+   "fragment_id": "122305236",
+   "type": 11,
+   "heading": "Artigo 5.º — Período de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Período de funcionamento\n\n1 - Os julgados de paz funcionam todos os dias úteis, podendo ainda funcionar aos sábados, domingos e feriados.\n\n2 - O horário de funcionamento de cada julgado de paz deve assegurar o adequado atendimento na circunscrição territorial por ele abrangida, podendo compreender o período entre as 8 horas e 30 minutos e as 22 horas.\n\n3 - O período de funcionamento de cada julgado de paz é fixado no respectivo regulamento interno, aprovado por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "122308428": {
+   "fragment_id": "122305237",
+   "type": 11,
+   "heading": "Artigo 6.º — Coordenação do julgado de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Coordenação do julgado de paz\n\n1 - A coordenação, representação e gestão corrente do julgado de paz compete ao juiz de paz.\n\n2 - Nos julgados de paz onde exista mais de um juiz, as atribuições enunciadas no número anterior competem ao juiz de paz-coordenador, designado nos termos definidos no respectivo regulamento interno."
+  },
+  "122308429": {
+   "fragment_id": "122305238",
+   "type": 1,
+   "heading": "Capítulo II — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Serviços"
+  },
+  "122308430": {
+   "fragment_id": "122305239",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviço de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviço de mediação\n\n1 - O serviço de mediação disponibiliza a qualquer interessado a mediação como forma alternativa de resolução de quaisquer litígios, ainda que excluídos da competência do julgado de paz, com excepção dos que tenham por objecto direitos indisponíveis.\n\n2 - Compete-lhe, em especial:\n\na) Realizar a sessão de pré-mediação, explicando às partes a natureza, as características e o objectivo da mediação, bem como as regras a que a mesma obedece;\n\nb) Informar as partes sobre a escolha do mediador e respectiva forma de intervenção e posição de neutralidade e imparcialidade face às partes;\n\nc) Verificar a predisposição das partes para um possível acordo na base da mediação;\n\nd) Submeter, se for o caso, o acordo de mediação assinado pelas partes à imediata homologação pelo juiz de paz quando o julgado de paz seja competente para a apreciação da causa respectiva;\n\ne) Facultar a qualquer interessado o regulamento interno do serviço de mediação e demais legislação conexa, bem como prestar, em conjunto com o serviço de atendimento, todas as informações solicitadas pelos intervenientes relativas aos serviços de mediação nos julgados de paz.\n\n3 - O serviço de mediação é assegurado pelos mediadores inscritos na lista do julgado de paz, nos termos do regulamento dos serviços de mediação aprovado por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "122308431": {
+   "fragment_id": "122305240",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviço de atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviço de atendimento\n\n1 - Compete ao serviço de atendimento, junto do qual funciona a secretaria do julgado de paz, designadamente:\n\na) Assegurar o atendimento ao público, prestando informação sobre as atribuições e competências do julgado de paz e respectiva tramitação processual, bem como sobre a pré-mediação e a mediação;\n\nb) Receber os requerimentos apresentados pelos interessados, reduzindo a escrito, mediante o preenchimento do formulário, os pedidos formulados verbalmente;\n\nc) Proceder às citações e notificações previstas na lei;\n\nd) Receber a contestação, reduzindo-a a escrito quando apresentada verbalmente;\n\ne) Designar os mediadores na falta de escolha consensual pelas partes;\n\nf) Marcar as sessões de pré-mediação e de mediação;\n\ng) Comunicar a data de audiência de julgamento, nos casos previstos na lei, de acordo com a orientação do juiz de paz.\n\n2 - É dada prioridade à marcação da mediação solicitada pelas partes em processos judiciais pendentes mediante suspensão voluntária da instância."
+  },
+  "122308432": {
+   "fragment_id": "122305241",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviço de apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Serviço de apoio administrativo\n\nAo serviço de apoio administrativo compete a prestação de apoio administrativo necessário ao funcionamento eficaz dos serviços do julgado de paz."
+  },
+  "122308433": {
+   "fragment_id": "122305242",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "122308434": {
+   "fragment_id": "122305243",
+   "type": 11,
+   "heading": "Artigo 10.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pessoal\n\nO funcionamento dos julgados de paz criados pelo presente decreto-lei é preferencialmente assegurado por trabalhadores dos órgãos e serviços da administração autárquica sem prejuízo do recurso aos instrumentos de mobilidade legalmente previstos para os trabalhadores que exercem funções públicas."
+  },
+  "122308435": {
+   "fragment_id": "122305244",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas de funcionamento\n\n1 - Sem prejuízo do disposto no número seguinte, as despesas decorrentes da instalação e funcionamento dos julgados de paz criados pelo presente decreto-lei, incluindo as relativas ao pessoal a eles afecto, são suportadas nos termos dos protocolos celebrados entre o Ministério da Justiça e os municípios referidos no artigo 1.º\n\n2 - As despesas com a remuneração dos juízes de paz e com o pagamento dos honorários dos mediadores são suportadas pelo Ministério da Justiça, nos termos a definir por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "122308436": {
+   "fragment_id": "122305245",
+   "type": 11,
+   "heading": "Artigo 12.º — Instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instalação\n\nOs julgados de paz criados pelo presente decreto-lei entram em funcionamento na data prevista na portaria que, nos termos do n.º 3 do artigo 3.º da Lei n.º 78/2001, de 13 de Julho, proceda à respectiva instalação."
+  },
+  "122308437": {
+   "fragment_id": "122305246",
+   "type": 11,
+   "heading": "Artigo 13.º — Juízes de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Juízes de paz\n\n1 - Quando as necessidades e as possibilidades do serviço o exijam, o funcionamento dos julgados de paz criados pelo presente decreto-lei é assegurado por juízes de paz de entre os que tenham sido nomeados para julgados de paz já existentes, mediante deliberação do Conselho de Acompanhamento dos Julgados de Paz.\n\n2 - Os juízes de paz têm direito a ajudas de custo e a pagamento de transportes, nos termos do regime da função pública, nas deslocações de serviço que efectuem no cumprimento do disposto no número anterior."
+  },
+  "122308439": {
+   "fragment_id": "122305232",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2019-05-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 62/2019 - Diário da República n.º 93/2019, Série I de 2019-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2019-122305208), em vigor a partir de 2019-05-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei procede, nos termos e ao abrigo do disposto no artigo 3.º da Lei n.º 78/2001, de 13 de Julho, à criação dos seguintes julgados de paz:\n\na) Julgado de Paz do Agrupamento dos Concelhos de Alcochete, Barreiro, Moita e Montijo;\n\nb) Julgado de Paz do Agrupamento dos Concelhos de Alvaiázere, Ansião, Figueiró dos Vinhos, Pedrógão Grande e Penela;\n\nc) (Revogada);\n\nd) Julgado de Paz do Concelho de Loures;\n\ne) Julgado de Paz do Agrupamento dos Concelhos de Odemira e Sines.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 62/2019 - Diário da República n.º 93/2019, Série I de 2019-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2019-122305208), em vigor a partir de 2019-05-20"
+  },
+  "122308440": {
+   "fragment_id": "122305233",
+   "type": 11,
+   "heading": "Artigo 2.º — Circunscrição territorial",
+   "in_force_from": "2019-05-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 62/2019 - Diário da República n.º 93/2019, Série I de 2019-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2019-122305208), em vigor a partir de 2019-05-20"
+   ],
+   "markdown": "###### Artigo 2.º — Circunscrição territorial\n\n1 - O Julgado de Paz do Agrupamento dos Concelhos de Alcochete, Barreiro, Moita e Montijo abrange todas as freguesias destes concelhos.\n\n2 - O Julgado de Paz do Agrupamento dos Concelhos de Alvaiázere, Ansião, Figueiró dos Vinhos, Pedrógão Grande e Penela abrange todas as freguesias destes concelhos.\n\n3 - (Revogado);\n\n4 - O Julgado de Paz do Concelho de Loures abrange todas as freguesias deste concelho.\n\n5 - O Julgado de Paz do Agrupamento dos Concelhos de Odemira e Sines abrange todas as freguesias destes concelhos.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 62/2019 - Diário da República n.º 93/2019, Série I de 2019-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2019-122305208), em vigor a partir de 2019-05-20"
+  },
+  "122308438": {
+   "fragment_id": "122305247",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José Manuel Vieira Conde Rodrigues.\n\nPromulgado em 22 de Setembro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 22 de Setembro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:643374:por
+title: Portaria n.º 815/97
+short_title: null
+summary: Cria cursos profissionais, de nível secundário, de Mestre de Cerâmica Artística (Técnico Empresário), Lojista (Técnico
+  Empresário de Comércio Tradicional) e Técnico Auxiliar de Conservação e Restauro de Talha
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Educação e para a Qualificação e o Emprego
+proposing_entity: null
+official_number: 815/97
+official_date: null
+publication_date: '1997-09-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 204/1997, Série I-B de 1997-09-04
+  number: '204'
+  series: I
+  supplement: null
+  pages: 4667 - 4668
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/09/204b00/46674668.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/815/1997/09/04/p/dre/pt/html
+  oj: null
+  dre: '643374'
+  dre_path: /dr/detalhe/portaria/815-1997-643374
+  internal: pt:dre:643374:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/815-1997-643374
+  metadata_url: https://data.dre.pt/eli/port/815/1997/09/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/815-1997-643374
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:05:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9cd655005662bedc01ceff155f30381683793e141f3b08a006be2cff927a34ba
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:05:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Profissional
+- Escola Profissional
+- Estabelecimento de Ensino
+- Formação Profissional
+- Plano de Estudos
+relationships:
+- type: amended_by
+  target: pt:dre:544845:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:147651:por
+  label: "Extinto a partir de 27.09.2005 o curso profissional de Lojista (Técnico Empresário de Comércio Tradicional), criado\
+    \ pelo presente diploma, que é revogado parcialmente, no que àquele curso se refere, pela PORT.909/2005.26.09.2005.ME,\
+    \ DR.IS-B [185] de 26.09.2005, sem prejuízo disposto no nº 9º da citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/909-2005-147651
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:147653:por
+  label: "Extinto a partir de 27.09.2005 o curso profissional de Mestre de Cerâmica Artística (Técnico Empresário), criado\
+    \ pelo presente diploma, que é revogado parcialmente, no que àquele curso se refere, pela PORT.918/2005.26.09.2005.ME,\
+    \ DR.IS-B [185] de 26.09.2005, sem prejuízo do disposto no nº 9º da citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/918-2005-147653
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:544845:por
+  label: "Extinto o curso profissional de técnico auxiliar de conservação e restauro de talha, criado pelo presente diploma,\
+    \ revogado no que àquele curso se refere, permanecendo em vigor o respectivo plano de estudos nos termos do nº 6º pela\
+    \ PORT.1272/2006.21.11.2006.ME, DR.IS [224] de 21.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1272-2006-544845
+  date: '2006-11-21'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:05:13Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 815/97
+
+de 4 de Setembro
+
+O [Decreto-Lei n.º 70/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1993-628044), de 10 de Março, ao revogar o [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, passou a estabelecer e a disciplinar o regime de criação, organização e funcionamento das escolas profissionais no âmbito do ensino não superior.
+
+Assim, para além de uma perspectiva de desenvolvimento de um sistema de aprendizagem e de formação profissional inserida no mercado do emprego, importa, desde logo, promover a formação profissional enquanto modalidade especial de educação escolar, em conformidade com o disposto na [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro - Lei de Bases do Sistema Educativo.
+
+Neste alcance e no desenvolvimento do regime jurídico estabelecido nos referidos diplomas, torna-se necessário criar os cursos que, para além dos existentes, poderão funcionar nas escolas profissionais criados ao abrigo daqueles diplomas.
+
+Assim, ao abrigo do disposto nos n.os 1 e 3 do artigo 8.º do [Decreto-Lei n.º 70/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1993-628044), de 10 de Março:
+
+1 - São criados os seguintes cursos profissionais, de nível secundário:
+
+1.1 - Mestre de Cerâmica Artística (Técnico Empresário);
+
+1.2 - Lojista (Técnico Empresário de Comércio Tradicional);
+
+1.3 - Técnico Auxiliar de Conservação e Restauro de Talha.
+
+2 - Têm acesso aos cursos aprovados no número anterior os jovens que concluíram o 3.º ciclo do ensino básico ou equivalente e que procuram um percurso educativo predominantemente orientado para a inserção no mundo do trabalho.
+
+3 - A conclusão, com aproveitamento, dos cursos criados pela presente portaria confere um diploma de nível III de qualificação profissional equivalente ao ensino secundário.
+
+4 - Os planos de estudos dos cursos criados no n.º 1 são os constantes dos mapas anexos à presente portaria e dela fazem parte integrante.
+
+Ministérios da Educação e para a Qualificação e o Emprego.
+
+Assinada em 13 de Agosto de 1997.
+
+O Ministro da Educação, Eduardo Carrega Marçal Grilo. - Pela Ministra para a Qualificação e o Emprego, António de Lemos Monteiro Fernandes, Secretário de Estado do Trabalho.
+
+Planos curriculares
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/204b00/46674668.pdf)

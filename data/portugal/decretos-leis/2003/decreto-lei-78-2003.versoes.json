@@ -1,0 +1,337 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:239798:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-34449975",
+ "dre_path": "/dr/detalhe/decreto-lei/78-2003-239798",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-04-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "53274775",
+    "51041475",
+    "51041575",
+    "51041675",
+    "51041775",
+    "51041875",
+    "51041975",
+    "51042075",
+    "51042175",
+    "51042275",
+    "51042375",
+    "51042475",
+    "51042575",
+    "51042675"
+   ]
+  },
+  {
+   "date": "2008-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247223:por",
+     "title": "Decreto-Lei n.º 40/2008",
+     "published": "2008-03-10",
+     "dre_path": "/dr/detalhe/decreto-lei/40-2008-247223"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51651375",
+    "51651275",
+    "51658175",
+    "51658375",
+    "51658575",
+    "51041875",
+    "51658775",
+    "51042075",
+    "51660475",
+    "51660575",
+    "51660675",
+    "51042475",
+    "51042575",
+    "51660775",
+    "51042775"
+   ]
+  },
+  {
+   "date": "2012-06-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:411608:por",
+     "title": "Decreto-Lei n.º 117-A/2012",
+     "published": "2012-06-14",
+     "dre_path": "/dr/detalhe/decreto-lei/117-a-2012-411608"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "53274775",
+    "51651275",
+    "51658175",
+    "53274675",
+    "51658575",
+    "51041875",
+    "51658775",
+    "51042075",
+    "51660475",
+    "51660575",
+    "51660675",
+    "51042475",
+    "51042575",
+    "51660775",
+    "51042775"
+   ]
+  }
+ ],
+ "fragments": {
+  "53274775": {
+   "fragment_id": "35069775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2012-06-15",
+   "changed_by": [],
+   "markdown": "A constituição de uma base de informação que assegure a ligação entre a oferta e a procura de emprego público utilizando as potencialidades que se abrem no âmbito da sociedade da informação é um objectivo que se insere nas linhas de orientação do Governo para o desenvolvimento da política de emprego e gestão de recursos humanos na Administração Pública.\n\nO presente diploma cria a bolsa de emprego público, a qual constitui uma base de informação que tem por objectivo dinamizar os processos de divulgação e publicitação das oportunidades de recrutamento e de mobilidade geográfica, interdepartamental e profissional dos recursos humanos na Administração Pública, mediante a previsão de mecanismos que, simplificando e organizando aqueles procedimentos, permitem contribuir para uma melhor e mais eficaz política de gestão dos recursos humanos com reflexos na qualidade dos serviços prestados ao cidadão.\n\nProcurando conciliar a sociedade da informação com as reais possibilidades de todo o leque de potenciais utilizadores, a bolsa de emprego público será disponibilizada prioritariamente através da Internet, não descurando, contudo, outros suportes, constituindo ainda um mecanismo adicional de divulgação das oportunidades de emprego na Administração que não dispensa aqueles que já estão previstos na lei.\n\nCaberá à Direcção-Geral da Administração Pública, como organismo, do Ministério das Finanças, responsável pela execução das políticas de emprego público, recrutamento e mobilidade dos recursos humanos, organizar e gerir a bolsa de emprego público, garantindo a segurança e actualização da informação disponibilizada, seja a que é fornecida pelos serviços públicos seja a inscrita pelos que procuram a mudança de local de trabalho, serviço ou carreira.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias e a Comissão Nacional de Protecção de Dados.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "51041475": {
+   "fragment_id": "36111375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada a bolsa de emprego público, adiante designada por BEP.\n\n2 - A BEP é uma base de informação que visa simplificar e agilizar a divulgação dos processos de recrutamento, de mobilidade geográfica, interdepartamental e profissional e de reafectação dos recursos humanos da Administração Pública."
+  },
+  "51041575": {
+   "fragment_id": "36111475",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente diploma aplica-se aos serviços e organismos da Administração Pública, incluindo os institutos públicos, nas modalidades de serviços personalizados do Estado, de estabelecimentos públicos e de fundos públicos.\n\n2 - A utilização da BEP bem como o registo das necessidades de recrutamento nos termos previstos no presente diploma pela administração regional e pela administração local têm carácter facultativo."
+  },
+  "51041675": {
+   "fragment_id": "36111575",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidade gestora\n\nA gestão da BEP compete à Direcção-Geral da Administração Pública, adiante designada por DGAP."
+  },
+  "51041775": {
+   "fragment_id": "36111675",
+   "type": 11,
+   "heading": "Artigo 4.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conteúdo\n\n1 - A BEP contém o registo e divulgação de:\n\na) Necessidades de recrutamento de pessoal, por recurso aos mecanismos de mobilidade;\n\nb) Abertura de concursos externos e internos de ingresso, de acesso geral e de acesso misto, bem como de pessoal dirigente;\n\nc) Ofertas de emprego público nas modalidades de contrato administrativo de provimento, de contrato a termo certo, de contrato individual de trabalho ou outras formas de vinculação ao abrigo de regimes de direito público privativos;\n\nd) Pessoal disponível para colocação em actividade na sequência de legislação especial que lhe confira o direito de ingresso ou regresso aos quadros da função pública;\n\ne) Pessoal disponível para colocação em actividade afecto a quadros de supranumerários;\n\nf) Pessoal interessado em mudança de local de trabalho, de serviço ou de carreira;\n\ng) Outras informações respeitantes a processos de recrutamento ou de mobilidade na Administração Pública.\n\n2 - O registo da informação na BEP compete:\n\na) A cada serviço utilizador, nos casos das alíneas a), b) e c);\n\nb) À DGAP, nos casos das alíneas d) e g);\n\nc) Aos serviços com competência na gestão dos quadros de supranumerários, no caso da alínea e);\n\nd) Aos interessados, nos casos previstos na alínea f)."
+  },
+  "51041875": {
+   "fragment_id": "36111775",
+   "type": 11,
+   "heading": "Artigo 5.º — Suporte e disponibilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Suporte e disponibilização\n\n1 - A BEP tem como suporte uma aplicação informática disponibilizada através da Internet, sem prejuízo da utilização de outros suportes.\n\n2 - O registo e divulgação na BEP não substitui, quando legalmente exigida, a publicação em jornal oficial ou órgão de comunicação social."
+  },
+  "51041975": {
+   "fragment_id": "36111875",
+   "type": 11,
+   "heading": "Artigo 6.º — Estrutura da informação institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estrutura da informação institucional\n\n1 - A informação constante da BEP é estruturada, a nível geográfico, por região autónoma, distrito e concelho, a nível orgânico, por ministério, secretaria regional, serviço central, serviço desconcentrado e instituto público e, a nível funcional, por carreira, categoria e área funcional.\n\n2 - A divulgação das necessidades de recrutamento identifica o tipo de instrumento de mobilidade a utilizar, o serviço, a carreira, a categoria e a remuneração correspondente, o local de trabalho, através da localidade e concelho, os requisitos habilitacionais e profissionais, o número de postos de trabalho a preencher, o conteúdo funcional e eventuais condições preferenciais para o desempenho.\n\n3 - A divulgação da abertura de concursos identifica a classificação do concurso, o serviço, a categoria e carreira, a remuneração, o local de trabalho, através da localidade e concelho, os requisitos de admissão, o número de lugares a preencher, o conteúdo funcional, quando exigido pelo tipo de concurso, o local e a data da publicação do aviso de abertura e o prazo de entrega de candidaturas.\n\n4 - No caso de concursos externos, deve igualmente ser feita referência expressa aos requisitos de nacionalidade para ingresso na carreira, bem como à quota a preencher por pessoas com deficiência, quando aplicável.\n\n5 - A divulgação dos processos de selecção para celebração de contratos administrativos de provimento, contratos a termo certo, contratos individuais de trabalho e outras formas de vinculação ao abrigo de regimes de direito público privativos identifica o tipo de contrato, o serviço, a categoria e carreira ou funções a desempenhar, a remuneração, o local de trabalho, os requisitos habilitacionais e profissionais, o número de contratos a celebrar, o conteúdo funcional, o local e a data da publicação da oferta de emprego e o prazo de entrega de candidaturas, bem como o prazo de duração dos contratos e a quota a preencher por pessoas com deficiência, quando aplicável.\n\n6 - A divulgação de informação respeitante a pessoal a que se referem as alíneas d) e e) do n.º 1 do artigo 4.º menciona as habilitações literárias e profissionais, a área funcional, a carreira e categoria e o concelho de residência."
+  },
+  "51042075": {
+   "fragment_id": "36111975",
+   "type": 11,
+   "heading": "Artigo 7.º — Estrutura da informação individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estrutura da informação individual\n\n1 - O pessoal interessado na mudança de local de trabalho, de serviço ou de carreira preenche um formulário de identificação profissional de acordo com modelo disponível em formato electrónico, especificando a carreira e categoria, habilitações literárias e profissionais, remuneração auferida e local de trabalho pretendido, através da indicação de uma ou mais localidades e ou concelhos dos serviços da sua preferência, devendo ainda identificar-se através de nome completo, data de nascimento, morada, número de telefone e endereço electrónico, quando exista.\n\n2 - Os dados de identificação referidos no número anterior são divulgados pela BEP apenas com autorização do interessado, podendo este desde logo optar por divulgar todos ou alguns daqueles dados."
+  },
+  "51042175": {
+   "fragment_id": "36112075",
+   "type": 11,
+   "heading": "Artigo 8.º — Obrigatoriedade do registo e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigatoriedade do registo e duração\n\n1 - É obrigatório o registo na BEP da informação a que se referem as alíneas b), c), d) e e) do n.º 1 do artigo 4.º, com a estrutura mencionada no artigo 6.º, sem prejuízo do disposto no n.º 2 do artigo 2.º\n\n2 - É igualmente obrigatório o registo na BEP da informação a que se refere a alínea a) do n.º 1 do artigo 4.º, quando a mesma seja objecto de divulgação em qualquer órgão de comunicação social, sem prejuízo do disposto no n.º 2 do artigo 2.º\n\n3 - São anuláveis os recrutamentos externos feitos com preterição do disposto nos números anteriores, sem prejuízo da responsabilidade civil e disciplinar que ao caso couber.\n\n4 - Os serviços devem efectuar a inscrição da oferta de emprego na BEP até ao 2.º dia útil após a data:\n\na) Da publicação no Diário da República ou no Jornal Oficial da respectiva região autónoma, quando esta seja obrigatória;\n\nb) Da publicação nos órgãos de comunicação social;\n\nc) Em que se verifiquem as restantes situações previstas no n.º 1 do artigo 4.º\n\n5 - A informação é disponibilizada na BEP durante:\n\na) O prazo de entrega de candidaturas prefixado, no caso dos concursos e processos de selecção para celebração de contrato administrativo de provimento e contratos a termo certo;\n\nb) O período em que se mantiverem as situações de disponibilidade a que se referem as alíneas d) e e) do n.º 1 do artigo 4.º;\n\nc) 90 dias seguidos, nos restantes casos, sem prejuízo de poder ser renovada através de instruções expressas nesse sentido.\n\n6 - O disposto no número anterior não impede a eliminação da informação em prazo inferior, quando esta tenha perdido utilidade ou por iniciativa do interessado.\n\n7 - Os serviços utilizadores da BEP são obrigados a comunicar à DGAP, no prazo máximo de 10 dias úteis, todos os recrutamentos efectuados e a que se aplique o regime de registo obrigatório, identificando ainda, de entre aqueles, os que foram concretizados com apoio da BEP."
+  },
+  "51042275": {
+   "fragment_id": "36112175",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo e acesso à bolsa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo e acesso à bolsa\n\n1 - O registo da informação na BEP, institucional ou individual, depende de obtenção prévia do correspondente código de acesso, a atribuir pela DGAP.\n\n2 - A BEP é de consulta directa, possibilitando o acesso à estrutura de informação referida no artigo 6.º\n\n3 - A informação individual constante do n.º 1 do artigo 7.º é de acesso restrito aos serviços e entidades referidos no artigo 2.º"
+  },
+  "51042375": {
+   "fragment_id": "36112275",
+   "type": 11,
+   "heading": "Artigo 10.º — Entidade responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entidade responsável\n\n1 - À DGAP, enquanto entidade gestora da BEP, compete especialmente:\n\na) Disponibilizar os recursos técnicos indispensáveis à estruturação e correcto funcionamento da BEP, satisfazendo os necessários requisitos de actualização, segurança e acessibilidade;\n\nb) Definir e assegurar os procedimentos adequados à salvaguarda da confidencialidade dos dados pessoais;\n\nc) Efectuar os registos de informação que lhe estejam confiados;\n\nd) Garantir e controlar a qualidade da informação disponibilizada através da BEP, recusando ou eliminando registos ou informação irrelevante, desactualizada ou inadequada aos objectivos da BEP, gerindo a emissão e controlo dos códigos de acesso para registo de informação;\n\ne) Emitir documentos comprovativos dos resultados das pesquisas efectuadas, quando solicitados pelos serviços utilizadores;\n\nf) Facultar o acesso à BEP aos serviços e entidades referidas no artigo 2.º e ao pessoal que, para os efeitos do n.º 1 do artigo 7.º, a ela pretenda aceder;\n\ng) Recusar o acesso à BEP a pessoas ou entidades que a ela não devam ter acesso ou que dela façam uso inadequado;\n\nh) Proceder ao tratamento estatístico da informação registada na BEP, incluindo, nomeadamente, o número de ofertas de emprego e de candidatos admitidos e não admitidos, desagregados por sexo;\n\ni) Promover a utilização da BEP;\n\nj) Disponibilizar um serviço de apoio aos utilizadores;\n\nl) Acompanhar o funcionamento da BEP e elaborar relatórios periódicos da sua actividade e resultados.\n\n2 - Os relatórios a que se refere a alínea l) do número anterior são de acesso não condicionado e divulgados no site da BEP."
+  },
+  "51042475": {
+   "fragment_id": "36112375",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos e garantias individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos e garantias individuais\n\nA qualquer pessoa, desde que devidamente identificada, é reconhecido o direito de conhecer o conteúdo do registo ou registos da base de dados que lhe respeitem, bem como o de exigir a correcção das informações nela contidas e o complemento das total ou parcialmente omissas."
+  },
+  "51042575": {
+   "fragment_id": "36112475",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamentação\n\nSerão objecto de regulamentação, a aprovar por despacho do membro do Governo responsável pela Administração Pública, a definição dos formulários electrónicos de recolha de dados, bem como das normas de segurança a adoptar."
+  },
+  "51042675": {
+   "fragment_id": "36112575",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em funcionamento\n\nA BEP entra em funcionamento no prazo máximo de seis meses após a entrada em vigor do presente diploma."
+  },
+  "51651375": {
+   "fragment_id": "35069775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2008-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+   ],
+   "markdown": "A constituição de uma base de informação que assegure a ligação entre a oferta e a procura de emprego público utilizando as potencialidades que se abrem no âmbito da sociedade da informação é um objectivo que se insere nas linhas de orientação do Governo para o desenvolvimento da política de emprego e gestão de recursos humanos na Administração Pública.\n\nO presente diploma cria a bolsa de emprego público, a qual constitui uma base de informação que tem por objectivo dinamizar os processos de divulgação e publicitação das oportunidades de recrutamento e de mobilidade geográfica, interdepartamental e profissional dos recursos humanos na Administração Pública, mediante a previsão de mecanismos que, simplificando e organizando aqueles procedimentos, permitem contribuir para uma melhor e mais eficaz política de gestão dos recursos humanos com reflexos na qualidade dos serviços prestados ao cidadão.\n\nProcurando conciliar a sociedade da informação com as reais possibilidades de todo o leque de potenciais utilizadores, a bolsa de emprego público será disponibilizada prioritariamente através da Internet, não descurando, contudo, outros suportes, constituindo ainda um mecanismo adicional de divulgação das oportunidades de emprego na Administração que não dispensa aqueles que já estão previstos na lei.\n\nCaberá à Direcção-Geral da Administração Pública, como organismo, do Ministério das Finanças, responsável pela execução das políticas de emprego público, recrutamento e mobilidade dos recursos humanos, organizar e gerir a bolsa de emprego público, garantindo a segurança e actualização da informação disponibilizada, seja a que é fornecida pelos serviços públicos seja a inscrita pelos que procuram a mudança de local de trabalho, serviço ou carreira.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias e a Comissão Nacional de Protecção de Dados.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+  },
+  "51651275": {
+   "fragment_id": "36111375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2008-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada a bolsa de emprego público, adiante designada por BEP.\n\n2 - A BEP é uma base de informação que visa simplificar e agilizar a divulgação dos processos de recrutamento e de mobilidade dos recursos humanos da Administração Pública.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+  },
+  "51658175": {
+   "fragment_id": "36111475",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2008-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente diploma aplica-se aos serviços e organismos da Administração Pública, incluindo os institutos públicos, nas modalidades de serviços personalizados do Estado, de estabelecimentos públicos e de fundos públicos.\n\n2 - Sem prejuízo do disposto no número seguinte, a utilização da BEP bem como o registo das necessidades de recrutamento nos termos previstos no presente decreto-lei pela administração regional e pela administração autárquica têm carácter facultativo.\n\n3 - Os serviços da administração regional e autárquica, com excepção das respectivas entidades públicas empresariais, estão directa e imediatamente abrangidos pelo presente decreto-lei em tudo o que respeite aos procedimentos tendentes ao reinício de funções em serviço de pessoal colocado em situação de mobilidade especial, nos termos do disposto no n.º 3 do artigo 2.º da Lei n.º 53/2006, de 7 de Dezembro.\n\n4 - As associações públicas, as entidades públicas empresariais e as instituições particulares de solidariedade social que, ao abrigo do disposto nos artigos 35.º e 36.º da Lei n.º 53/2006, de 7 de Dezembro, pretendam recrutar pessoal em situação de mobilidade especial, podem utilizar a BEP para efeitos de divulgação das ofertas de emprego e, ou, respectivos procedimentos de selecção, aplicando-se, com as devidas adaptações, o regime previsto para os serviços e organismos referidos no n.º 1.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+  },
+  "51658375": {
+   "fragment_id": "36111575",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidade gestora",
+   "in_force_from": "2008-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+   ],
+   "markdown": "###### Artigo 3.º — Entidade gestora\n\nA gestão da BEP compete à Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E., adiante designada por GeRAP.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+  },
+  "51658575": {
+   "fragment_id": "36111675",
+   "type": 11,
+   "heading": "Artigo 4.º — Conteúdo",
+   "in_force_from": "2008-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+   ],
+   "markdown": "###### Artigo 4.º — Conteúdo\n\n1 - A BEP contém o registo e divulgação de:\n\na) Necessidades de recrutamento de pessoal, por recurso aos mecanismos de mobilidade;\n\nb) Abertura de concursos externos e internos de ingresso, de acesso geral e de acesso misto, bem como de pessoal dirigente;\n\nc) Ofertas de emprego público nas modalidades de contrato ou outras formas de vinculação ao abrigo de regimes de direito público privativos;\n\nd) Procedimentos de selecção de pessoal em situação de mobilidade especial, abertos nos termos do artigo 34.º da Lei n.º 53/2006, de 7 de Dezembro;\n\ne) Pessoal disponível para colocação em actividade na sequência de legislação especial que lhe confira o direito de ingresso ou regresso aos quadros da função pública;\n\nf) Pessoal colocado na situação de mobilidade especial, disponível para reinício de funções, nos termos do disposto na Lei n.º 53/2006, de 7 de Dezembro;\n\ng) Listas de pessoal dos serviços objecto de extinção, durante o decurso do respectivo processo, tendo em vista o apoio à mobilidade voluntária, nos termos do n.º 3 do artigo 12.º da Lei n.º 53/2006, de 7 de Dezembro;\n\nh) Pessoal interessado em mudança de local de trabalho, de serviço ou de carreira;\n\ni) Outras informações respeitantes a processos de recrutamento ou de mobilidade na Administração Pública.\n\n2 - O registo da informação prevista no número anterior compete:\n\na) A cada serviço utilizador, nos casos das alíneas a), b) e c);\n\nb) Aos serviços referidos no n.º 1 do artigo 41.º da Lei n.º 53/2006, de 7 de Dezembro, no caso da alínea d), sempre que, efectuada a consulta à BEP, se verifique a existência de pessoal em situação de mobilidade especial na carreira ou categoria em causa, conforme os casos, ou em carreira ou categoria diferentes, que permita a satisfação da necessidade de efectivos através do recurso à reclassificação ou reconversão profissionais;\n\nc) À GeRAP, no caso da alínea e);\n\nd) Ao dirigente máximo do serviço objecto de reorganização ou ao dirigente designado para coordenar o respectivo procedimento, no caso da alínea f), aquando da transição de pessoal para a situação de mobilidade especial;\n\ne) Aos serviços competentes para a gestão do pessoal em situação de mobilidade especial, no caso da alínea f), para efeitos de actualização da situação e dos dados relativos àquele pessoal;\n\nf) Ao dirigente máximo do serviço objecto de processo de extinção, no caso da alínea g);\n\ng) Aos interessados, nos casos previstos na alínea h);\n\nh) À Direcção-Geral da Administração e do Emprego Público e à GeRAP, no caso previsto na alínea i).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+  },
+  "51658775": {
+   "fragment_id": "36111875",
+   "type": 11,
+   "heading": "Artigo 6.º — Estrutura da informação institucional",
+   "in_force_from": "2008-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+   ],
+   "markdown": "###### Artigo 6.º — Estrutura da informação institucional\n\n1 - A informação constante da BEP é estruturada:\n\na) A nível geográfico, por Região Autónoma, distrito e concelho;\n\nb) A nível orgânico, por ministério, secretaria regional, serviço central, serviço desconcentrado e instituto público;\n\nc) A nível funcional, por carreira, categoria, actividade e, quando necessário, área de formação académica ou profissional.\n\n2 - Sem prejuízo do disposto nos n.os 6 a 8, a divulgação das necessidades de recrutamento identifica o tipo de instrumento de mobilidade a utilizar, o serviço, a carreira, a categoria e a remuneração correspondente, o local de trabalho, através da localidade e concelho, os requisitos habilitacionais e profissionais, o número de postos de trabalho a preencher, o conteúdo funcional e eventuais condições preferenciais para o desempenho.\n\n3 - A divulgação da abertura de concursos identifica a classificação do concurso, o serviço, a categoria e carreira, a remuneração, o local de trabalho, através da localidade e concelho, os requisitos de admissão, o número de lugares a preencher, o conteúdo funcional, quando exigido pelo tipo de concurso, o local e a data da publicação do aviso de abertura e o prazo de entrega de candidaturas.\n\n4 - No caso de concursos externos, deve igualmente ser feita referência expressa aos requisitos de nacionalidade para ingresso na carreira, bem como à quota a preencher por pessoas com deficiência, quando aplicável.\n\n5 - Sem prejuízo do disposto nos n.os 6 a 8, a divulgação dos processos de selecção para celebração de contratos e outras formas de vinculação ao abrigo de regimes de direito público privativos identifica o tipo de contrato, o serviço, a categoria e carreira ou funções a desempenhar, a remuneração, o local de trabalho, os requisitos habilitacionais e profissionais, o número de contratos a celebrar, o conteúdo funcional, o local e a data da publicação da oferta de emprego e o prazo de entrega de candidaturas, bem como o prazo de duração dos contratos e a quota a preencher por pessoas com deficiência, quando aplicável.\n\n6 - A divulgação dos procedimentos de selecção referidos na alínea d) do n.º 1 do artigo 4.º rege-se pelo disposto no n.º 2 do artigo 34.º da Lei n.º 53/2006, de 7 de Dezembro, e demais legislação especial aplicável.\n\n7 - A divulgação de informação respeitante a pessoal a que se referem as alíneas e) e g) do n.º 1 do artigo 4.º menciona as habilitações literárias e profissionais, actividade desempenhada, a carreira e a categoria e o concelho de residência.\n\n8 - A divulgação de informação respeitante ao pessoal a que se refere a alínea f) do n.º 1 do artigo 4.º, para além de outros dados previstos em legislação especial aplicável, menciona as habilitações literárias e profissionais, actividade desempenhada, a carreira, a categoria e a remuneração correspondentes, bem como os concelhos da sua residência e da localização do serviço de origem.\n\n9 - A divulgação das ofertas de emprego referidas nas alíneas a), b) e c) do n.º 1 do artigo 4.º, quando respeitem a exercício de funções por tempo indeterminado, está condicionada ao cumprimento do disposto no artigo 41.º da Lei n.º 53/2006, de 7 de Dezembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+  },
+  "51660475": {
+   "fragment_id": "36112075",
+   "type": 11,
+   "heading": "Artigo 8.º — Obrigatoriedade do registo e duração",
+   "in_force_from": "2008-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+   ],
+   "markdown": "###### Artigo 8.º — Obrigatoriedade do registo e duração\n\n1 - É obrigatório o registo na BEP da informação a que se referem as alíneas b), c), d), e), f) e g) do n.º 1 do artigo 4.º, com a estrutura mencionada no artigo 6.º, sem prejuízo do disposto no n.º 2 do artigo 2.º\n\n2 - É igualmente obrigatório o registo na BEP da informação a que se refere a alínea a) do n.º 1 do artigo 4.º, quando a mesma seja objecto de divulgação em qualquer órgão de comunicação social, sem prejuízo do disposto no n.º 2 do artigo 2.º\n\n3 - São anuláveis os recrutamentos externos feitos com preterição do disposto nos números anteriores, sem prejuízo da responsabilidade civil e disciplinar que ao caso couber.\n\n4 - O disposto no número anterior é igualmente aplicável aos recrutamentos por tempo indeterminado efectuados com preterição das formalidades relativas ao reinício de funções do pessoal na situação de mobilidade especial previstas nos artigos 34.º e 41.º da Lei n.º 53/2006, de 7 de Dezembro.\n\n5 - Sem prejuízo do disposto nos números seguintes, os serviços devem efectuar a inscrição da oferta de emprego na BEP até ao 2.º dia útil após a data:\n\na) Da publicação no Diário da República ou no Jornal Oficial da respectiva região autónoma, quando esta seja obrigatória;\n\nb) Da publicação nos órgãos de comunicação social;\n\nc) Em que se verifiquem as restantes situações previstas no n.º 1 do artigo 4.º\n\n6 - A informação relativa ao pessoal referido na alínea f) do n.º 1 do artigo 4.º deve ser disponibilizada na BEP no prazo de oito dias úteis a contar da publicação no Diário da República da respectiva colocação.\n\n7 - A actualização da informação prevista na alínea e) do n.º 2 do artigo 4.º deve ser disponibilizada na BEP no prazo de cinco dias úteis após o conhecimento, pelas entidades mencionadas naquele dispositivo legal, dos factos determinantes da actualização.\n\n8 - As listas previstas na alínea g) do n.º 1 do artigo 4.º devem ser disponibilizadas na BEP até cinco dias úteis após o início do processo de extinção do serviço.\n\n9 - A informação é disponibilizada na BEP durante:\n\na) O prazo de entrega de candidaturas prefixado, no caso dos procedimentos previstos na alínea d) do n.º 1 do artigo 4.º e no caso dos concursos e processos de selecção para celebração de contratos;\n\nb) O período em que se mantiverem as situações de disponibilidade a que se referem as alíneas e), f) e g) do n.º 1 do artigo 4.º;\n\nc) 90 dias seguidos, nos restantes casos, sem prejuízo de poder ser renovada através de instruções expressas nesse sentido.\n\n10 - O disposto no número anterior não impede a eliminação da informação em prazo inferior, quando esta tenha perdido utilidade ou por iniciativa do interessado.\n\n11 - Os serviços utilizadores da BEP são obrigados a comunicar à GeRAP, no prazo máximo de 10 dias úteis, todos os recrutamentos efectuados e a que se aplique o regime de registo obrigatório, identificando ainda, de entre aqueles, os que foram concretizados com apoio da BEP.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+  },
+  "51660575": {
+   "fragment_id": "36112175",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo e acesso à bolsa",
+   "in_force_from": "2008-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+   ],
+   "markdown": "###### Artigo 9.º — Registo e acesso à bolsa\n\n1 - O registo da informação na BEP, institucional ou individual, depende de obtenção prévia do correspondente código de acesso, a atribuir pela GeRAP.\n\n2 - A BEP é de consulta directa, possibilitando o acesso à estrutura de informação referida no artigo 6.º\n\n3 - A informação individual constante do n.º 1 do artigo 7.º é de acesso restrito aos serviços e entidades referidos no artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+  },
+  "51660675": {
+   "fragment_id": "36112275",
+   "type": 11,
+   "heading": "Artigo 10.º — Entidade responsável",
+   "in_force_from": "2008-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+   ],
+   "markdown": "###### Artigo 10.º — Entidade responsável\n\n1 - À GeRAP, enquanto entidade gestora da BEP, compete especialmente:\n\na) Disponibilizar os recursos técnicos indispensáveis à estruturação e correcto funcionamento da BEP, satisfazendo os necessários requisitos de actualização, segurança e acessibilidade;\n\nb) Definir e assegurar os procedimentos adequados à salvaguarda da confidencialidade dos dados pessoais;\n\nc) Efectuar os registos de informação que lhe estejam confiados;\n\nd) Garantir e controlar a qualidade da informação disponibilizada através da BEP, recusando ou eliminando registos ou informação irrelevante, desactualizada ou inadequada aos objectivos da BEP, gerindo a emissão e controlo dos códigos de acesso para registo de informação;\n\ne) Emitir documentos comprovativos dos resultados das pesquisas efectuadas, quando solicitados pelos serviços utilizadores;\n\nf) Facultar o acesso à BEP aos serviços e entidades referidas no artigo 2.º e ao pessoal que, para os efeitos do n.º 1 do artigo 7.º, a ela pretenda aceder;\n\ng) Recusar o acesso à BEP a pessoas ou entidades que a ela não devam ter acesso ou que dela façam uso inadequado;\n\nh) Proceder ao tratamento estatístico da informação registada na BEP, incluindo, nomeadamente, o número de ofertas de emprego e de candidatos admitidos e não admitidos, desagregados por sexo, ministério, carreira e categoria;\n\ni) Promover a utilização da BEP;\n\nj) Disponibilizar um serviço de apoio aos utilizadores;\n\nl) Acompanhar o funcionamento da BEP e elaborar relatórios periódicos da sua actividade e resultados.\n\n2 - Os relatórios a que se refere a alínea l) do número anterior são de acesso não condicionado e divulgados no site da BEP.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+  },
+  "51660775": {
+   "fragment_id": "36112575",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em funcionamento",
+   "in_force_from": "2008-03-11",
+   "changed_by": [
+    "Republicado pelo/a Anexo do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+   ],
+   "markdown": "###### Artigo 13.º — Entrada em funcionamento\n\nA BEP entra em funcionamento no prazo máximo de seis meses após a entrada em vigor do presente decreto-lei.\n\n> Republicado pelo/a Anexo do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+  },
+  "51042775": {
+   "fragment_id": "36112675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José Luís Fazenda Arnaut Duarte - Isaltino Afonso de Morais.\n\nPromulgado em 4 de Abril de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Abril de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "53274675": {
+   "fragment_id": "36111575",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidade gestora",
+   "in_force_from": "2012-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15, produz efeitos a partir de 2012-06-15",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+   ],
+   "markdown": "###### Artigo 3.º — Entidade gestora\n\nA gestão da BEP compete à Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas.\n\n> Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15, produz efeitos a partir de 2012-06-15\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 40/2008 - Diário da República n.º 49/2008, Série I de 2008-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223), em vigor a partir de 2008-03-11"
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:131058336:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2020-1177985175",
+ "dre_path": "/dr/detalhe/despacho-extrato/4098-2020-131058336",
+ "source_lastmod": "2026-10-06",
+ "versions": [
+  {
+   "date": "2020-04-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1177986475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1177986475": {
+   "fragment_id": "1177985275",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, por despacho de 5 de março de 2020, do Vice-Presidente do Grupo Parlamentar do Partido Social Democrata, é exonerada do cargo de assessora no Grupo Parlamentar do Partido Social Democrata:\n\nLicenciada Maria Eugénia Nobre Gamboa, com efeitos a 9 de março de 2020."
+  }
+ }
+}

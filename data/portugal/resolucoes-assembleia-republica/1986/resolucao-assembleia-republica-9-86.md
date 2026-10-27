@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:196187:por
+title: Resolução da Assembleia da República n.º 9/86
+short_title: null
+summary: Inquérito parlamentar sobre a actuação do Ministério da Agricultura quanto à Reforma Agrária
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 9/86
+official_date: null
+publication_date: '1986-03-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 73/1986, Série I de 1986-03-29
+  number: '73'
+  series: I
+  supplement: null
+  pages: 734 - 735
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/03/07300/07340735.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '196187'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/9-1986-196187
+  internal: pt:dre:196187:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-1986-196187
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-1986-196187
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:52:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a956bbb489ccbeab619d814bf79498b3c9b260592198613244f00447e489894e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:52:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo XI
+- Inquérito Parlamentar
+- Ministério da Agricultura
+- Reforma Agrária
+relationships:
+- type: cites
+  target: pt:dre:253068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425528:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:52:46Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 9/86
+
+Inquérito parlamentar sobre a actuação do Ministério da Agricultura quanto à Reforma Agrária
+
+A Assembleia da República resolve, nos termos dos artigos 169.º, n.º 4, e 181.º da Constituição, da [Lei n.º 43/77](https://diariodarepublica.pt/dr/detalhe/lei/43-1977-253068), de 18 de Junho, e dos artigos 251.º e seguintes do Regimento, o seguinte:
+
+1 - Constituir uma comissão parlamentar de inquérito com o objectivo genérico de apreciar as situações pendentes, os actos e as omissões do Ministério da Agricultura e serviços dele dependentes no que respeita à Reforma Agrária, designadamente sobre a sua conformidade com a lei.
+
+2 - No exercício do seu mandato, compete à comissão, numa primeira fase:
+
+a) Realizar um exame processual e legal aos actos administrativos do Ministério da Agricultura, em particular aos casos apresentados, até esta data, à Assembleia da República por peticionários e interessados;
+
+b) Proceder a uma avaliação das situações relativas a casos cujos processos foram apreciados pelo Supremo Tribunal Administrativo e sobre os quais este lavrou acórdãos pondo em causa a regularidade ou legalidade dos processos administrativos, particularmente em relação àqueles em que se verifique eventual reabertura dos processos ou eventual inexecução dos acórdãos.
+
+3 - O presente inquérito parlamentar, no que respeita ao número anterior, deverá, especialmente, averiguar:
+
+a) Eventuais casos de:
+
+Falta de fundamentação de facto e de direito dos actos administrativos;
+
+Devolução de toda a terra aos antigos proprietários sem que fosse feita sob a forma de portaria, como impõem os artigos 26.º, 27.º e 28.º do [Decreto-Lei n.º 81/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1978-425528), de 29 de Abril;
+
+Não produção de prova nos termos do artigo 6.º do mesmo decreto-lei;
+
+Admissão de requerimentos de reserva fora do prazo (artigo 7.º do [Decreto-Lei n.º 81/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1978-425528), de 29 de Abril), cujo limite máximo foi 30 de Junho de 1978, utilizando o expediente de não aposição da data de entrada no respectivo requerimento;
+
+Falta de notificações previstas nos artigos 10.º e 12.º do [Decreto-Lei n.º 81/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1978-425528) e no artigo 34.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro;
+
+b) Eventuais ilegalidades materiais devidas a:
+
+Atribuição de reserva em terra expropriada e cultivada por cooperativas com a área máxima permitida pelo artigo 22.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704) estando o antigo proprietário na posse de outros prédios situados na zona e sendo dono deles;
+
+Atribuição de eficácia às doações e às vendas de terras praticadas com intenção de subtrair essas terras às medidas de reforma agrária, com infracção do artigo 24.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704);
+
+Atribuição de majorações indevidas da área de reserva, com infracção do disposto no artigo 28.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704);
+
+Exclusão de benfeitorias para efeitos de pontuação da reserva sem observância do limite máximo de rendimento previsto no artigo 31.º, n.º 4, da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704);
+
+Atribuição de mais de uma reserva a marido e mulher, herdeiros e comproprietários, contra o disposto no artigo 32.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704);
+
+Atribuição de reservas autónomas a rendeiros e usufrutuários em vez de lhes ser atribuído o direito de arrendamento ou de usufruto relativamente à área de reserva atribuída ao antigo proprietário, com infracção do artigo 37.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704).
+
+4 - Compete à comissão proceder, numa segunda fase, a uma avaliação global das medidas adoptadas pelo Ministério da Agricultura face à legislação sobre a Reforma Agrária, nomeadamente através dos seguintes meios:
+
+a) Inspecção técnica, económica e legal a um número representativo de empresas e explorações agrícolas da zona de intervenção da Reforma Agrária, incluindo uma amostragem de: grandes empresas não expropriadas nem ocupadas; grandes empresas ocupadas e não expropriadas; empresas expropriadas mas que se mantêm na posse dos seus antigos proprietários; reservas demarcadas e atribuídas; majorações atribuídas; reservas entregues com e sem tratamento unitário dos indivisos; cooperativas e unidades colectivas de produção; parcelas entregues a pequenos e médios agricultores e ulteriormente retiradas;
+
+b) Avaliação das situações relativas a indemnizações e compensações pagas ou devidas por medidas de expropriação, devolução e requisição decorrentes da Reforma Agrária.
+
+5 - Numa terceira fase, compete à comissão proceder a uma avaliação exaustiva das situações de facto quanto às áreas abrangidas pelas diversas formas de empresas agrícolas, número e natureza das empresas e situação perante a [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704).
+
+6 - Nos termos do n.º 2 do artigo 11.º da [Lei n.º 43/77](https://diariodarepublica.pt/dr/detalhe/lei/43-1977-253068), de 18 de Junho, a comissão poderá apresentar relatórios separados sobre cada um dos n.os 2, 4 e 5.
+
+7 - De acordo com as disposições legais e regimentais em vigor, a comissão poderá dotar-se dos meios necessários à execução do seu mandato, nomeadamente através da requisição e destacamento de técnicos qualificados ou da aquisição de serviços especializados.
+
+8 - O prazo de conclusão da primeira fase do inquérito é de três meses, devendo o relatório final, incluindo os relativos às segunda e terceira fases, ser apresentado no prazo de seis meses.
+
+9 - A comissão terá a seguinte composição:
+
+PSD - 8 deputados;
+
+PS - 5 deputados;
+
+PRD - 4 deputados;
+
+PCP - 3 deputados;
+
+CDS - 2 deputados;
+
+MDP/CDE - 1 deputado.
+
+Aprovada em 13 de Março de 1986.
+
+O Vice-Presidente da Assembleia da República, em exercício, Carlos Cardoso Lage.

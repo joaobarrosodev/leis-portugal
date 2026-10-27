@@ -1,0 +1,384 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:441567:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1983-895808344",
+ "dre_path": "/dr/detalhe/lei/34-1983-441567",
+ "source_lastmod": "2024-11-06",
+ "versions": [
+  {
+   "date": "1983-10-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "895688873",
+    "895688874",
+    "895810075",
+    "895810076",
+    "895810077",
+    "895810078",
+    "895810079",
+    "895810080",
+    "895810081",
+    "895810082"
+   ]
+  },
+  {
+   "date": "1984-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:661905:por",
+     "title": "Decreto-Lei n.º 94/84",
+     "published": "1984-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/94-1984-661905"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "895688873",
+    "895810088",
+    "895810075",
+    "895810076",
+    "895810077",
+    "895810089",
+    "895810079",
+    "895810080",
+    "895810081",
+    "895810082",
+    "895810083"
+   ]
+  },
+  {
+   "date": "1986-06-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:228842:por",
+     "title": "Decreto-Lei n.º 131/86",
+     "published": "1986-06-12",
+     "dre_path": "/dr/detalhe/decreto-lei/131-1986-228842"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "895688873",
+    "895942091",
+    "895810075",
+    "895810076",
+    "895810077",
+    "895810089",
+    "895810079",
+    "895810080",
+    "895810081",
+    "895810082",
+    "895810083"
+   ]
+  },
+  {
+   "date": "1987-04-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:666357:por",
+     "title": "Decreto-Lei n.º 159/87",
+     "published": "1987-04-03",
+     "dre_path": "/dr/detalhe/decreto-lei/159-1987-666357"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "895688873",
+    "895942091",
+    "895810075",
+    "895942096",
+    "895810077",
+    "895810089",
+    "895810079",
+    "895810080",
+    "895810081",
+    "895810082",
+    "895810083"
+   ]
+  },
+  {
+   "date": "1989-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:611535:por",
+     "title": "Decreto-Lei n.º 154/89",
+     "published": "1989-05-11",
+     "dre_path": "/dr/detalhe/decreto-lei/154-1989-611535"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "895688873",
+    "895942097",
+    "895810075",
+    "895942098",
+    "895810077",
+    "895810089",
+    "895942099",
+    "895810080",
+    "895810081",
+    "895810082",
+    "895810083"
+   ]
+  },
+  {
+   "date": "1990-07-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:575356:por",
+     "title": "Decreto-Lei n.º 209/90",
+     "published": "1990-06-27",
+     "dre_path": "/dr/detalhe/decreto-lei/209-1990-575356"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "895688873",
+    "895942115",
+    "895810075",
+    "895942109",
+    "895810077",
+    "895942114",
+    "895942110",
+    "895810080",
+    "895810081",
+    "895810082",
+    "895810083"
+   ]
+  }
+ ],
+ "fragments": {
+  "895688873": {
+   "fragment_id": "895808345",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 34/83\n\nde 21 de Outubro\n\nImposto especial sobre veículos ligeiros de passageiros, motociclos, barcos de recreio e aeronaves\n\nA Assembleia da República decreta, nos termos da alínea d) do artigo 164.º, da alínea i) do n.º 1 do artigo 168.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:\n\n> Nota: [Decreto-Lei n.º 214/91 - Diário da República n.º 136/1991, Série I-A de 1991-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1991-658902) É eliminado o imposto especial criado pela presente Lei.\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 209/90 - Diário da República n.º 146/1990, Série I de 1990-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1990-575356) O imposto especial criado pela presenteLei, passa a designar-se por imposto especial sobre motociclos, barcos de recreio aeronaves."
+  },
+  "895688874": {
+   "fragment_id": "895808346",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado um imposto que incide sobre os seguintes bens móveis:\n\na) Veículos automóveis ligeiros de passageiros e automóveis ligeiros mistos, com cilindrada superior a 1700 cm3 e com antiguidade inferior a 5 anos;\n\nb) Motociclos de cilindrada superior a 500 cm3 com antiguidade inferior a 5 anos;\n\nc) Aeronaves de peso superior a 1400 kg, à descolagem, com antiguidade inferior a 15 anos;\n\nd) Barcos de recreio, de tonelagem de arqueação bruta superior a 2 t, com antiguidade inferior a 15 anos."
+  },
+  "895810075": {
+   "fragment_id": "895808347",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO sujeito passivo do imposto é o proprietário constante do respectivo registo à data em que o imposto se vence."
+  },
+  "895810076": {
+   "fragment_id": "895808348",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Ficam isentos do imposto previsto no artigo 1.º:\n\na) O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os órgãos de coordenação da assistência;\n\nb) As autarquias locais e suas associações;\n\nc) As pessoas colectivas de utilidade pública administrativa, nos termos do n.º 2 deste artigo;\n\nd) Os Estados estrangeiros, quando haja reciprocidade de tratamento;\n\ne) O pessoal das missões diplomáticas e consulares, nos termos das respectivas convenções;\n\nf) As organizações estrangeiras ou internacionais, nos termos de acordos celebrados pelo Estado Português;\n\ng) Os veículos automóveis com condutor (táxis e letras A e T) e sem condutor;\n\nh) Os veículos automóveis destinados à instrução, quando propriedade de escolas de condução;\n\ni) As aeronaves de instrução e treino, quando propriedade de escolas e aeroclubes, cujo funcionamento esteja autorizado pela Direcção-Geral de Aeronáutica Civil;\n\nj) As aeronaves cuja utilização se destina exclusivamente a fins agrícolas ou silvícolas.\n\n2 - Na hipótese da alínea c) do número anterior, a mera aprovação dos estatutos não confere, só por si, isenção deste imposto, devendo cada caso ser submetido à apreciação do Secretário de Estado do Orçamento, que, ouvida a Direcção-Geral das Contribuições e Impostos e conforme as circunstâncias, definirá em despacho a amplitude da respectiva isenção, sendo dispensado este condicionalismo relativamente a isenções concedidas em anos anteriores.\n\n3 - Ficam dispensadas da observância do condicionalismo referido no número anterior as pessoas colectivas de utilidade pública administrativa a quem já foi concedida a isenção do imposto sobre veículos."
+  },
+  "895810077": {
+   "fragment_id": "895808349",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO imposto é devido por inteiro em cada ano civil, desde que o bem sobre que incide tenha sido adquirido até 30 de Setembro do ano a que o imposto diga respeito."
+  },
+  "895810078": {
+   "fragment_id": "895808350",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs taxas do imposto são as seguintes:\n\na) Automóveis de cilindrada de 1700 cm3 a 2600 cm3 - 40000$00;\n\nb) Automóveis de cilindrada de mais de 2600 cm3 - 60000$00;\n\nc) Motociclos de cilindrada de mais de 500 cm3 - 15000$00;\n\nd) Aeronaves - peso máximo autorizado à descolagem (quilogramas):\n\nDe 1400 até 1800 - 100000$00;\n\nDe 1800 até 2500 - 150000$00;\n\nDe 2500 até 4200 - 200000$00;\n\nDe 4200 até 5700 - 300000$00;\n\nSuperior a 5700 - 500000$00;\n\ne) Barcos de recreio:\n\nDe mais de 2 t até 5 t:\n\n600$00 por tonelada ou fracção;\n\n300$00 por cada H. P. ou fracção;\n\nDe mais de 5 t até 10 t:\n\n800$00 por tonelada ou fracção;\n\n400$00 por cada H. P. ou fracção;\n\nDe mais de 10 t até 20 t:\n\n1000$00 por tonelada ou fracção;\n\n500$00 por cada H. P. ou fracção;\n\nDe mais de 20 t até 50 t:\n\n1200$00 por tonelada ou fracção;\n\n600$00 por cada H. P. ou fracção;\n\nDe mais de 50 t:\n\n1400$00 por tonelada ou fracção;\n\n700$00 por cada H. P. ou fracção."
+  },
+  "895810079": {
+   "fragment_id": "895808351",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO imposto é liquidado e pago durante o mês de Novembro de cada ano por meio de dístico a adquirir em qualquer tesouraria da Fazenda Pública."
+  },
+  "895810080": {
+   "fragment_id": "895808352",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAplicar-se-ão supletivamente as normas constantes do imposto sobre veículos constantes do Decreto-Lei n.º 143/78, de 12 de Junho, e legislação complementar, especialmente no que diz respeito à liquidação, cobrança, reclamações, recursos e penalidades."
+  },
+  "895810081": {
+   "fragment_id": "895808353",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO imposto previsto nesta lei reverte integralmente para o Estado."
+  },
+  "895810082": {
+   "fragment_id": "895808354",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA presente lei entra em vigor no dia imediato ao da sua publicação."
+  },
+  "895810088": {
+   "fragment_id": "895808346",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1984-03-31",
+   "changed_by": [
+    "Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ criado um imposto que incide sobre os seguintes bens móveis:\n\na) Veículos automóveis ligeiros de passageiros e automóveis ligeiros mistos de peso bruto igual ou inferior a 2500 kg, com cilindrada superior a 1700 cm3 e com antiguidade inferior a 5 anos;\n\nb) Motociclos de cilindrada superior a 500 cm3 com antiguidade inferior a 5 anos;\n\nc) Aeronaves de peso superior a 1400 kg, à descolagem, com antiguidade inferior a 15 anos;\n\nd) Barcos de recreio de tonelagem de arqueação bruta superior a 2 t e com antiguidade inferior a 10 anos.\n\n> Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+  },
+  "895810089": {
+   "fragment_id": "895808350",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1984-03-31",
+   "changed_by": [
+    "Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+   ],
+   "markdown": "###### Artigo 5.º\n\nAs taxas do imposto são as seguintes:\n\na) Automóveis de cilindrada de 1700 cm3 a 2600 cm3 - 40000$00;\n\nb) Automóveis de cilindrada de mais de 2600 cm3 - 60000$00;\n\nc) Motociclos de cilindrada de mais de 500 cm3 - 15000$00;\n\nd) Aeronaves - peso máximo autorizado à descolagem (quilogramas):\n\nDe 1400 até 1800 - 100000$00;\n\nDe 1800 até 2500 - 150000$00;\n\nDe 2500 até 4200 - 200000$00;\n\nDe 4200 até 5700 - 300000$00;\n\nSuperior a 5700 - 500000$00;\n\ne) Barcos de recreio:\n\nDe mais de 2 t até 5 t:\n\n600$00 por tonelada ou fracção;\n\n300$00 por cada 10 H. P. ou fracção;\n\nDe mais de 5 t até 10 t:\n\n800$00 por tonelada ou fracção;\n\n400$00 por cada 10 H. P ou fracção;\n\nDe mais de 10 t até 20 t:\n\n1000$00 por tonelada ou fracção;\n\n500$00 por cada 10 H. P. ou fracção;\n\nDe mais de 20 t até 50 t:\n\n1200$00 por tonelada ou fracção;\n\n600$00 por cada 10 H. P. ou fracção;\n\nDe mais de 50 t:\n\n1400$00 por tonelada ou fracção;\n\n700$00 por cada 10 H. P. ou fracção.\n\n> Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+  },
+  "895810083": {
+   "fragment_id": "895808355",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de Setembro de 1983.\n\nO Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.\n\nPromulgada em 4 de Outubro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 7 de Outubro de 1983.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "895942091": {
+   "fragment_id": "895808346",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1986-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/86 - Diário da República n.º 133/1986, Série I de 1986-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1986-228842), em vigor a partir de 1986-06-17",
+    "Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ criado um imposto que incide sobre os seguintes bens móveis:\n\na) Veículos automóveis ligeiros de passageiros e automóveis ligeiros mistos de peso bruto igual ou inferior a 2500 kg com cilindrada superior a 1700 cm3 e a 2000 cm3, respectivamente para os veículos a gasolina e a diesel, com antiguidade inferior a cinco anos;\n\nb) Motociclos de cilindrada superior a 500 cm3 com antiguidade inferior a 5 anos;\n\nc) Aeronaves de peso superior a 1400 kg, à descolagem, com antiguidade inferior a 15 anos;\n\nd) Barcos de recreio de tonelagem de arqueação bruta superior a 2 t e com antiguidade inferior a 10 anos.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/86 - Diário da República n.º 133/1986, Série I de 1986-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1986-228842), em vigor a partir de 1986-06-17\n\n> Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+  },
+  "895942096": {
+   "fragment_id": "895808348",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1987-04-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 159/87 - Diário da República n.º 78/1987, Série I de 1987-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1987-666357), em vigor a partir de 1987-04-08"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Ficam isentos do imposto previsto no artigo 1.º:\n\na) O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os órgãos de coordenação da assistência;\n\nb) As autarquias locais e suas associações;\n\nc) As pessoas colectivas de utilidade pública administrativa, nos termos do n.º 2 deste artigo;\n\nd) Os Estados estrangeiros, quando haja reciprocidade de tratamento;\n\ne) O pessoal das missões diplomáticas e consulares, nos termos das respectivas convenções;\n\nf) As organizações estrangeiras ou internacionais, nos termos de acordos celebrados pelo Estado Português;\n\ng) Os veículos automóveis com condutor (táxis e letras A e T) e sem condutor;\n\nh) Os veículos automóveis destinados à instrução, quando propriedade de escolas de condução;\n\ni) As aeronaves de instrução e treino, quando propriedade de escolas e aeroclubes, cujo funcionamento esteja autorizado pela Direcção-Geral de Aeronáutica Civil;\n\nj) As aeronaves cuja utilização se destina exclusivamente a fins agrícolas ou silvícolas;\n\nl) Os deficientes cujo grau de invalidez seja igual ou superior a 60%, nos termos do n.º 4 deste artigo.\n\n2 - Na hipótese da alínea c) do número anterior, a mera aprovação dos estatutos não confere, só por si, isenção deste imposto, devendo cada caso ser submetido à apreciação do Secretário de Estado do Orçamento, que, ouvida a Direcção-Geral das Contribuições e Impostos e conforme as circunstâncias, definirá em despacho a amplitude da respectiva isenção, sendo dispensado este condicionalismo relativamente a isenções concedidas em anos anteriores.\n\n3 - Ficam dispensadas da observância do condicionalismo referido no número anterior as pessoas colectivas de utilidade pública administrativa a quem já foi concedida a isenção do imposto sobre veículos.\n\n4 - A isenção prevista na alínea l) do n.º 1 deste artigo pode ser usufruída por cada beneficiário em relação a um veículo que utilize como combustível o gasóleo, desde que a respectiva cilindrada não ultrapasse 2500 cm3 e a propriedade esteja registada unicamente em seu nome.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 159/87 - Diário da República n.º 78/1987, Série I de 1987-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1987-666357), em vigor a partir de 1987-04-08"
+  },
+  "895942097": {
+   "fragment_id": "895808346",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1989-05-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/86 - Diário da República n.º 133/1986, Série I de 1986-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1986-228842), em vigor a partir de 1986-06-17",
+    "Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ criado um imposto que incide sobre os seguintes bens móveis:\n\na) Veículos automóveis ligeiros de passageiros e automóveis ligeiros mistos de peso bruto igual ou inferior a 2500 kg com cilindrada superior a 1750 cm3 e a 2000 cm3, respectivamente para os veículos a gasolina e a diesel, com antiguidade inferior a cinco anos;\n\nb) Motociclos de cilindrada superior a 500 cm3 com antiguidade inferior a 5 anos;\n\nc) Aeronaves de peso superior a 1400 kg, à descolagem, com antiguidade inferior a 15 anos;\n\nd) Barcos de recreio de tonelagem de arqueação bruta superior a 2 t e com antiguidade inferior a 10 anos.\n\n> Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/86 - Diário da República n.º 133/1986, Série I de 1986-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1986-228842), em vigor a partir de 1986-06-17\n\n> Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+  },
+  "895942098": {
+   "fragment_id": "895808348",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1989-05-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 159/87 - Diário da República n.º 78/1987, Série I de 1987-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1987-666357), em vigor a partir de 1987-04-08"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Ficam isentos do imposto previsto no artigo 1.º:\n\na) O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os órgãos de coordenação da assistência;\n\nb) As autarquias locais e suas associações;\n\nc) As pessoas colectivas de utilidade pública administrativa, nos termos do n.º 2 deste artigo;\n\nd) Os Estados estrangeiros, quando haja reciprocidade de tratamento;\n\ne) O pessoal das missões diplomáticas e consulares, nos termos das respectivas convenções;\n\nf) As organizações estrangeiras ou internacionais, nos termos de acordos celebrados pelo Estado Português;\n\ng) Os veículos automóveis com condutor com a classificação de táxis e de letras A e T;\n\nh) Os veículos automóveis destinados à instrução, quando propriedade de escolas de condução;\n\ni) As aeronaves de instrução e treino, quando propriedade de escolas e aeroclubes, cujo funcionamento esteja autorizado pela Direcção-Geral de Aeronáutica Civil;\n\nj) As aeronaves cuja utilização se destina exclusivamente a fins agrícolas ou silvícolas;\n\nl) Os deficientes cujo grau de invalidez seja igual ou superior a 60%, nos termos do n.º 4 deste artigo.\n\n2 - Na hipótese da alínea c) do número anterior, a mera aprovação dos estatutos não confere, só por si, isenção deste imposto, devendo cada caso ser submetido à apreciação do Secretário de Estado do Orçamento, que, ouvida a Direcção-Geral das Contribuições e Impostos e conforme as circunstâncias, definirá em despacho a amplitude da respectiva isenção, sendo dispensado este condicionalismo relativamente a isenções concedidas em anos anteriores.\n\n3 - Ficam dispensadas da observância do condicionalismo referido no número anterior as pessoas colectivas de utilidade pública administrativa a quem já foi concedida a isenção do imposto sobre veículos.\n\n4 - A isenção prevista na alínea l) do n.º 1 deste artigo pode ser usufruída por cada beneficiário em relação a um veículo que utilize como combustível o gasóleo, desde que a respectiva cilindrada não ultrapasse 2500 cm3 e a propriedade esteja registada unicamente em seu nome.\n\n> Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 159/87 - Diário da República n.º 78/1987, Série I de 1987-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1987-666357), em vigor a partir de 1987-04-08"
+  },
+  "895942099": {
+   "fragment_id": "895808351",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1989-05-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16"
+   ],
+   "markdown": "###### Artigo 6.º\n\nO imposto será liquidado e pago nos prazos previstos no artigo 9.º do Decreto-Lei n.º 143/78, de 12 de Junho, por meio de dísticos, a adquirir nas tesourarias da Fazenda Pública.\n\n> Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16"
+  },
+  "895942115": {
+   "fragment_id": "895808346",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1990-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 209/90 - Diário da República n.º 146/1990, Série I de 1990-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1990-575356), em vigor a partir de 1990-07-02",
+    "Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/86 - Diário da República n.º 133/1986, Série I de 1986-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1986-228842), em vigor a partir de 1986-06-17",
+    "Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ criado um imposto que incide sobre os seguintes bens móveis:\n\na) Eliminada;\n\nb) Motociclos de cilindrada superior a 500 cm3 com antiguidade inferior a 5 anos;\n\nc) Aeronaves de peso superior a 1400 kg, à descolagem, com antiguidade inferior a 15 anos;\n\nd) Barcos de recreio de tonelagem de arqueação bruta superior a 2 t e com antiguidade inferior a 10 anos.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 209/90 - Diário da República n.º 146/1990, Série I de 1990-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1990-575356), em vigor a partir de 1990-07-02\n\n> Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/86 - Diário da República n.º 133/1986, Série I de 1986-06-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1986-228842), em vigor a partir de 1986-06-17\n\n> Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+  },
+  "895942109": {
+   "fragment_id": "895808348",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1990-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 209/90 - Diário da República n.º 146/1990, Série I de 1990-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1990-575356), em vigor a partir de 1990-07-02",
+    "Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 159/87 - Diário da República n.º 78/1987, Série I de 1987-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1987-666357), em vigor a partir de 1987-04-08"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Ficam isentos do imposto previsto no artigo 1.º:\n\na) O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os órgãos de coordenação da assistência;\n\nb) As autarquias locais e suas associações;\n\nc) As pessoas colectivas de utilidade pública administrativa;\n\nd) Os Estados estrangeiros, quando haja reciprocidade de tratamento;\n\ne) O pessoal das missões diplomáticas e consulares, nos termos das respectivas convenções;\n\nf) As organizações estrangeiras ou internacionais, nos termos de acordos celebrados pelo Estado Português;\n\ng) As aeronaves de instrução e treino, quando propriedade de escolas e aeroclubes, cujo funcionamento esteja autorizado pela Direcção-Geral de Aeronáutica Civil;\n\nh) As aeronaves cuja utilização se destina exclusivamente a fins agrícolas ou silvícolas.\n\n2 - As isenções a que se referem as alíneas c), d), e) e f) do número anterior serão concedidas mediante despacho do director-geral das Contribuições e Impostos sobre requerimento das entidades interessadas, devidamente documentado, sendo dispensado este condicionalismo relativamente às isenções reconhecidas em anos anteriores.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 209/90 - Diário da República n.º 146/1990, Série I de 1990-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1990-575356), em vigor a partir de 1990-07-02\n\n> Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 159/87 - Diário da República n.º 78/1987, Série I de 1987-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1987-666357), em vigor a partir de 1987-04-08"
+  },
+  "895942114": {
+   "fragment_id": "895808350",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1990-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 209/90 - Diário da República n.º 146/1990, Série I de 1990-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1990-575356), em vigor a partir de 1990-07-02",
+    "Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+   ],
+   "markdown": "###### Artigo 5.º\n\nAs taxas do imposto são as seguintes:\n\na) Eliminada;\n\nb) Eliminada;\n\nc) Motociclos de cilindrada de mais de 500 cm3 - 15000$00;\n\nd) Aeronaves - peso máximo autorizado à descolagem (quilogramas):\n\nDe 1400 até 1800 - 100000$00;\n\nDe 1800 até 2500 - 150000$00;\n\nDe 2500 até 4200 - 200000$00;\n\nDe 4200 até 5700 - 300000$00;\n\nSuperior a 5700 - 500000$00;\n\ne) Barcos de recreio:\n\nDe mais de 2 t até 5 t:\n\n600$00 por tonelada ou fracção;\n\n300$00 por cada 10 H. P. ou fracção;\n\nDe mais de 5 t até 10 t:\n\n800$00 por tonelada ou fracção;\n\n400$00 por cada 10 H. P ou fracção;\n\nDe mais de 10 t até 20 t:\n\n1000$00 por tonelada ou fracção;\n\n500$00 por cada 10 H. P. ou fracção;\n\nDe mais de 20 t até 50 t:\n\n1200$00 por tonelada ou fracção;\n\n600$00 por cada 10 H. P. ou fracção;\n\nDe mais de 50 t:\n\n1400$00 por tonelada ou fracção;\n\n700$00 por cada 10 H. P. ou fracção.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 209/90 - Diário da República n.º 146/1990, Série I de 1990-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1990-575356), em vigor a partir de 1990-07-02\n\n> Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 94/84 - Diário da República n.º 72/1984, Série I de 1984-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), em vigor a partir de 1984-03-31"
+  },
+  "895942110": {
+   "fragment_id": "895808351",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1990-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 209/90 - Diário da República n.º 146/1990, Série I de 1990-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1990-575356), em vigor a partir de 1990-07-02",
+    "Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16"
+   ],
+   "markdown": "###### Artigo 6.º\n\nO imposto será liquidado e pago nos prazos previstos no artigo 9.º do Regulamento do Imposto sobre Veículos, aprovado pelo Decreto-Lei n.º 143/78, de 12 de Junho, por meio de guia modelo n.º 5.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 209/90 - Diário da República n.º 146/1990, Série I de 1990-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1990-575356), em vigor a partir de 1990-07-02\n\n> Alterado pelo/a [Decreto-Lei n.º 154/89 - Diário da República n.º 108/1989, Série I de 1989-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), em vigor a partir de 1989-05-16"
+  }
+ }
+}

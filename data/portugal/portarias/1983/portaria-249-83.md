@@ -1,0 +1,245 @@
+---
+schema_version: '1.0'
+id: pt:dre:309751:por
+title: Portaria n.º 249/83
+short_title: null
+summary: Autoriza a Universidade Técnica de Lisboa, através do Instituto Superior Técnico, a conceder o grau de mestre em
+  Matemática Aplicada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 249/83
+official_date: null
+publication_date: '1983-03-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 52/1983, Série I de 1983-03-04
+  number: '52'
+  series: I
+  supplement: null
+  pages: 810 - 812
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05200/08100812.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '309751'
+  dre_path: /dr/detalhe/portaria/249-1983-309751
+  internal: pt:dre:309751:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-1983-309751
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-1983-309751
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:35:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: db5bbeb28b4629a13ba34d6587e397b4e09ff761d81f5587f2bdfc4934ad3907
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:35:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Mestrado em Matemática Aplicada
+- Universidade Técnica de Lisboa
+relationships:
+- type: amended_by
+  target: pt:dre:420579:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:182177:por
+  label: "Alterado o n.º 4, pela Port.411/85.29.06.1985.ME, DR.IS [147] de 29.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-1985-182177
+  date: '1985-06-29'
+- type: amended_by
+  target: pt:dre:420579:por
+  label: "Alterado o n.º 4 do presente diploma, com a redacção dada pela Port 411/85, de 29-Jun, pela PORT.634/87.20.07.1987.MEC,\
+    \ DR.IS [164] de 20.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/634-1987-420579
+  date: '1987-07-20'
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:35:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 249/83
+
+de 4 de Março
+
+Sob proposta do conselho científico do Instituto Superior Técnico, da Universidade Técnica de Lisboa;
+
+Ao abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+
+1.º
+
+(Criação)
+
+A Universidade Técnica de Lisboa, através do Instituto Superior Técnico, concede o grau de mestre em Matemática Aplicada.
+
+2.º
+
+(Organização do curso)
+
+O curso especializado conducente ao mestrado indicado no n.º 1.º, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.
+
+3.º
+
+(Área científica)
+
+A área científica do curso é a Matemática Aplicada.
+
+4.º
+
+(Áreas científicas e unidades de crédito)
+
+As áreas científicas e as unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:
+
+a) Áreas científicas obrigatórias:
+
+I) Análise Funcional ... 6
+
+II) Equações Diferenciais ... 4
+
+III) Análise Numérica ... 4
+
+b) Áreas científicas optativas:
+
+I) Análise Funcional ... 8
+
+II) Equações Diferenciais ... 8
+
+III) Análise Numérica ... 8
+
+IV) Probabilidades Aplicadas ... 8
+
+Total ... 22
+
+5.º
+
+(Duração normal)
+
+A duração normal do curso é de 2 anos lectivos.
+
+6.º
+
+(Habilitação de acesso)
+
+1 - São admitidos à candidatura à matrícula no curso os licenciados em Matemática, Física, Agronomia, Silvicultura, Engenharia e Economia pelas universidades portuguesas, bem como os titulares de uma licenciatura pelas universidades portuguesas cujo plano de estudos assegure uma preparação científica de base na área de Matemática Aplicada adequada ao ingresso e progressão no curso ou os titulares de habilitações legalmente equivalentes, em qualquer dos casos com a classificação mínima de 14 valores.
+
+2 - Cabe ao conselho científico definir quais os cursos que satisfazem as condições referidas no n.º 1 e deles dar público conhecimento antes da abertura da candidatura à matrícula.
+
+3 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.
+
+4 - Excepcionalmente, em casos devidamente justificados, e nos termos no n.º 2 do n.º 7.º, poderá admitir à candidatura à matrícula no curso os titulares de outra licenciatura pelas universidades portuguesas, ou legalmente equivalente, cujo currículo demonstre uma adequada preparação científica de base.
+
+7.º
+
+(Critérios de selecção)
+
+1 - Os candidatos à matrícula no curso serão seleccionados por um júri a designar pelo conselho científico, tendo em consideração os seguintes critérios:
+
+a) Classificação da licenciatura referida no n.º 6.º;
+
+b) Currículo académico e científico;
+
+c) Informação resultante de entrevista destinada a apreciar o grau de maturidade científica do candidato e o seu interesse em prosseguir uma carreira de Matemática.
+
+2 - Os candidatos a que se refere o n.º 4 do n.º 6.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 3 do mesmo número.
+
+3 - A decisão do júri deverá ser homologada pelo conselho científico do Instituto Superior Técnico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.
+
+8.º
+
+(Precedências)
+
+A tabela e o regime de precedências serão fixados pelo conselho científico e sujeitos à aprovação e publicação nos termos do disposto no artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.
+
+9.º
+
+(Regime geral)
+
+As regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão os previstos na lei para os cursos de licenciatura, naquilo em que não fossem contrariados pelo disposto na presente portaria e pela natureza do curso.
+
+10.º
+
+(«Numerus clausus»)
+
+1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação, sob proposta da Universidade.
+
+2 - Poderá ser fixado no mesmo despacho um número mínimo de inscrições indispensável ao funcionamento do curso.
+
+3 - Cada proposta de numerus clausus deverá ser acompanhada de um relatório comprovativo de estarem satisfeitas as condições referidas no n.º 12.º
+
+11.º
+
+(Calendário)
+
+Os prazos de candidatura e de inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 10.º
+
+12.º
+
+(Entrada em funcionamento)
+
+A entrada em funcionamento do curso ficará dependente da existência dos recursos humanos e materiais necessários à sua completa concretização.
+
+13.º
+
+(Dispensa das provas complementares de doutoramento)
+
+Os titulares de aprovação no curso terão dispensa das provas a que se refere o n.º 3.º do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Matemática pela Universidade Técnica de Lisboa.
+
+Ministério da Educação, 4 de Fevereiro de 1983. - Pelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior.

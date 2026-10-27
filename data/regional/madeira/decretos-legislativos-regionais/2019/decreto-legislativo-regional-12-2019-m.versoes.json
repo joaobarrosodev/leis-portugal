@@ -1,0 +1,526 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:123968672:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-123993291",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2019-123968672",
+ "source_lastmod": "2026-05-20",
+ "versions": [
+  {
+   "date": "2019-08-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123969943",
+    "123969944",
+    "123969945",
+    "123969946",
+    "123969947",
+    "123969948",
+    "123969949",
+    "123969950",
+    "123969951",
+    "123969952",
+    "123969953",
+    "123969954",
+    "123969955",
+    "123969956",
+    "123969957",
+    "123969958",
+    "123969959",
+    "123969960",
+    "123969961",
+    "123969962",
+    "123969963",
+    "123969964",
+    "123969965",
+    "123969966",
+    "123969967",
+    "123969968",
+    "123969969",
+    "123969970",
+    "123969971",
+    "123969972",
+    "123969973",
+    "123969974",
+    "123993375",
+    "123993376",
+    "123993377",
+    "123993378",
+    "123993379",
+    "123993380",
+    "123993381",
+    "123993382",
+    "123993383",
+    "123993384",
+    "123993385",
+    "123993386",
+    "123993387",
+    "123993388"
+   ]
+  },
+  {
+   "date": "2023-07-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215267035:por",
+     "title": "Decreto Legislativo Regional n.º 24/2023/M",
+     "published": "2023-07-06",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/24-2023-215267035"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "123969943",
+    "123969944",
+    "123969945",
+    "123969946",
+    "123969947",
+    "123969948",
+    "1118686275",
+    "123969950",
+    "123969951",
+    "123969952",
+    "123969953",
+    "123969954",
+    "123969955",
+    "123969956",
+    "123969957",
+    "123969958",
+    "123969959",
+    "123969960",
+    "123969961",
+    "123969962",
+    "123969963",
+    "123969964",
+    "123969965",
+    "123969966",
+    "123969967",
+    "123969968",
+    "123969969",
+    "123969970",
+    "123969971",
+    "123969972",
+    "123969973",
+    "123969974",
+    "123993375",
+    "123993376",
+    "123993377",
+    "123993378",
+    "123993379",
+    "123993380",
+    "1118686475",
+    "123993382",
+    "123993383",
+    "123993384",
+    "123993385",
+    "123993386",
+    "123993387",
+    "123993388",
+    "123993389"
+   ]
+  }
+ ],
+ "fragments": {
+  "123969943": {
+   "fragment_id": "123993292",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 12/2019/M\n\nSumário: Estabelece o regime das instalações de gases combustíveis em edifícios, adiante designadas por instalações de gás, e dos aparelhos que aquelas abastecem, com exceção dos aparelhos alimentados diretamente por garrafas de gás colocadas no local do consumo, bem como a definição do sistema de supervisão e regulação das atividades a elas associadas.\n\nAdapta à Região Autónoma da Madeira o Decreto-Lei n.º 97/2017, de 10 de agosto, retificado pela Declaração de Retificação n.º 34/2017, de 9 de outubro, e alterado pela Lei n.º 59/2018, de 21 de agosto, retificada pela Declaração de Retificação n.º 28/2018, de 23 de agosto, que estabelece o regime das instalações de gases combustíveis em edifícios, adiante designadas por instalações de gás, e dos aparelhos que aquelas abastecem, com exceção dos aparelhos alimentados diretamente por garrafas de gás colocadas no local de consumo, bem como a definição do sistema de supervisão e regulação das atividades a elas associadas.\n\nConsiderando que o Decreto-Lei n.º 97/2017, de 10 de agosto, retificado pela Declaração de Retificação n.º 34/2017, de 9 de outubro, e alterado pela Lei n.º 59/2018, de 21 de agosto, retificada pela Declaração de Retificação n.º 28/2018, de 23 de agosto, estabelece o regime das instalações de gases combustíveis em edifícios, adiante designadas por instalações de gás, e dos aparelhos que aquelas abastecem, com exceção dos aparelhos alimentados diretamente por garrafas de gás colocadas no local de consumo, bem como a definição do sistema de supervisão e regulação das atividades a elas associadas;\n\nConsiderando que se mantêm as entidades inspetoras e são criados procedimentos simples e adequados de forma a assegurar a verificação da conformidade dos projetos e da respetiva execução, estabelecendo a obrigação de realização de inspeções periódicas às instalações de gás, nos termos atualmente vigentes;\n\nConsiderando que o presente diploma visa, assim, contribuir para a promoção do cumprimento da regulamentação aplicável, a qualidade dos serviços prestados e, sobretudo, um maior grau de segurança, assegurando-se, mediante a criação de uma plataforma eletrónica, maior eficiência e celeridade no acompanhamento e registo das atividades relacionadas com as instalações de gás;\n\nConsiderando que tais medidas constituem um reforço das medidas de segurança relativamente às instalações de gás e à proteção das pessoas e bens.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "123969944": {
+   "fragment_id": "123993293",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "123969945": {
+   "fragment_id": "123993294",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Decreto Legislativo Regional estabelece o regime das instalações de gases combustíveis em edifícios, adiante designadas por instalações de gás, e dos aparelhos que aquelas abastecem, com exceção dos aparelhos alimentados diretamente por garrafas de gás colocadas no local do consumo, bem como a definição do sistema de supervisão e regulação das atividades a elas associadas."
+  },
+  "123969946": {
+   "fragment_id": "123993295",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente Decreto Legislativo Regional entende-se por:\n\na) «Aparelho a gás», os aparelhos abrangidos pela regulamentação europeia em vigor que queimam combustíveis gasosos, utilizados para cozinhar, refrigerar, condicionar o ar, aquecer o ambiente, produzir água quente, iluminar ou lavar, bem como queimadores com ventilador e geradores de calor a serem equipados com esses queimadores;\n\nb) «Aparelho do Tipo A (aparelho não ligado)», o aparelho a gás concebido para funcionar não ligado a uma conduta de evacuação dos produtos da combustão para o exterior do local onde o aparelho está instalado, tal como definido no relatório técnico DNP CEN/TR 1749, que estabelece o modelo europeu para a classificação dos aparelhos que utilizam combustíveis gasosos segundo o modo de evacuação dos produtos da combustão (tipos);\n\nc) «Aparelho do Tipo B (aparelho ligado)», o aparelho a gás concebido para funcionar ligado a uma conduta de evacuação dos produtos da combustão para o exterior do local onde o aparelho está instalado, tal como definido no mencionado relatório técnico DNP CEN/TR 1749;\n\nd) «Aparelho do Tipo C (aparelho estanque)», o aparelho a gás no qual o circuito de combustão (entrada de ar, câmara de combustão, permutador de calor e evacuação dos produtos de combustão) é isolado em relação ao local onde o aparelho está instalado, tal como definido no mencionado relatório técnico DNP CEN/TR 1749;\n\ne) «Comercializador», a entidade registada nos termos da alínea k) do artigo 3.º e do artigo 37.º do Decreto-Lei n.º 30/2006, de 15 de fevereiro, alterado pelos Decretos-Leis n.os 66/2010, de 11 de junho, 77/2011, de 20 de junho, 74/2012, de 26 de março, 112/2012, de 23 de maio, e 230/2012, de 26 de outubro, e pela Lei n.º 42/2016, de 28 de dezembro, e das alíneas h) e i) do artigo 3.º do Decreto-Lei n.º 31/2006, de 15 de fevereiro, alterado pelo Decreto-Lei n.º 244/2015, de 19 de outubro;\n\nf) «Conversão», a operação que consiste em dotar um edifício já existente com uma instalação de gás;\n\ng) «Defeito», a situação que não esteja conforme com o disposto nos regulamentos e/ou normas técnicas aplicáveis, podendo usar-se alternativamente o termo não-conformidade, segundo o que melhor se adequar às definições da Norma NP EN ISO 9000;\n\nh) «Entidade distribuidora», a entidade concessionária, a entidade exploradora das armazenagens e das redes e ramais de distribuição de gás da classe I e II (EEG) ou quaisquer outras que estejam legalmente autorizadas a comercializar gases combustíveis;\n\ni) «Entidade instaladora de gás (EI)», a entidade habilitada nos termos da Lei n.º 15/2015, de 16 de fevereiro, para a execução, reparação, alteração ou manutenção de instalações de gás, e de redes e ramais de distribuição de gás, bem como à instalação de aparelhos a gás e intervenção em quaisquer atos para adaptar, reparar e efetuar a manutenção destes aparelhos;\n\nj) «Entidade inspetora de gás (EIG)», a entidade habilitada nos termos da Lei n.º 15/2015, de 16 de fevereiro, para realizar a inspeção de instalações de gás e de redes e ramais de distribuição de gás, incluindo equipamentos e outros sistemas de utilização de gases combustíveis, para verificar as condições de instalação e de funcionamento dos aparelhos a gás e as condições indicadas no projeto, dos sistemas de ventilação dos locais onde existam aparelhos a gás ou destinados à sua instalação;\n\nk) «Gases combustíveis», o GN, os gases de petróleo liquefeito (GPL), os gases provenientes do tratamento de carvões e os resultantes da biomassa, ou outros destinados a alimentar aparelhos de acordo com a norma NP EN 437:2003+A1, relativa aos Gases de Ensaio, Pressões de Ensaio e Categorias de Aparelhos;\n\nl) «Instalação de gás», o sistema instalado num edifício constituído pelo conjunto de tubagens, dispositivos, acessórios e instrumentos de medição, que assegura a alimentação de gás desde a válvula de corte geral ao edifício até às válvulas de corte dos aparelhos a gás, abrangendo essas válvulas, bem como alguma eventual extensão da tubagem a jusante destas;\n\nm) «Projetista», o profissional responsável pelo projeto da instalação ou das redes e ramais de distribuição de gás e pela definição ou verificação da adequação e das características dos aparelhos a instalar, desde que habilitado nos termos da Lei n.º 15/2015, de 16 de fevereiro;\n\nn) «Reconversão», a operação de adaptação de uma instalação de gás e dos respetivos aparelhos por mudança de família de gás combustível."
+  },
+  "123969947": {
+   "fragment_id": "123993296",
+   "type": 1,
+   "heading": "Capítulo II — Instalações de gás e aparelhos a gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Instalações de gás e aparelhos a gás"
+  },
+  "123969948": {
+   "fragment_id": "123993297",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais relativas às instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais relativas às instalações"
+  },
+  "123969949": {
+   "fragment_id": "123993298",
+   "type": 11,
+   "heading": "Artigo 3.º — Obrigatoriedade da instalação de gás nos edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigatoriedade da instalação de gás nos edifícios\n\n1 - Todos os edifícios a construir ou sujeitos a obras com controlo prévio nos termos do regime jurídico da urbanização e edificação devem ser dotados de uma instalação de gás que cubra todos os fogos, devendo as obras de construção, de reconstrução, de ampliação e de alteração respeitar o projeto dessa instalação de gás.\n\n2 - Excluem-se da obrigação estabelecida no número anterior as edificações destinadas a atividade agrária, industrial, comercial e de serviços que não tenham prevista a utilização de gás e os edifícios ou frações abrangidos pelo âmbito de aplicação do Decreto-Lei n.º 53/2014, de 8 de abril.\n\n3 - Os edifícios e frações referidos no número anterior que pretendam, posteriormente, utilizar gás devem ser dotados de uma instalação de gás e cumprir todos os procedimentos previstos neste diploma."
+  },
+  "123969950": {
+   "fragment_id": "123993299",
+   "type": 11,
+   "heading": "Artigo 4.º — Elementos principais das instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Elementos principais das instalações\n\n1 - São elementos principais das instalações de gás:\n\na) Válvula de corte geral ao edifício;\n\nb) Redutor de 3.ª classe, no caso da pressão de alimentação do edifício ser superior a 1,5 bar;\n\nc) Limitador de pressão, quando aplicável;\n\nd) Regulador ou redutor de pressão, podendo ter segurança incorporada;\n\ne) Coluna montante;\n\nf) Derivação de piso, no caso de edifícios com mais de um fogo por piso, e derivação de fogo;\n\ng) Dispositivos de corte, automáticos ou manuais;\n\nh) Instrumentos de medição.\n\n2 - Além dos elementos referidos no número anterior, as instalações de gás devem ainda incluir os elementos que constem das normas aplicáveis a cada tipo específico de edifício.\n\n3 - Os instrumentos de medição de gás integram a instalação de gás, embora não pertençam ao proprietário da mesma."
+  },
+  "123969951": {
+   "fragment_id": "123993300",
+   "type": 8,
+   "heading": "Secção II — Projeto das instalações de gás e da instalação dos aparelhos a gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Projeto das instalações de gás e da instalação dos aparelhos a gás"
+  },
+  "123969952": {
+   "fragment_id": "123993301",
+   "type": 11,
+   "heading": "Artigo 5.º — Projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Projeto\n\n1 - O projeto das instalações de gás e de instalação dos aparelhos a gás deve obedecer às normas regulamentares e técnicas aplicáveis.\n\n2 - O projeto das instalações de gás e da instalação dos aparelhos a gás deve ser elaborado por um projetista.\n\n3 - O projeto mencionado no número anterior deve ser acompanhado do respetivo termo de responsabilidade do autor, que ateste a conformidade com as normas regulamentares e técnicas aplicáveis.\n\n4 - A conformidade do projeto com as normas regulamentares e técnicas aplicáveis deve ser atestada mediante declaração emitida por uma EIG.\n\n5 - As alterações ao projeto devem obedecer ao disposto nos números anteriores.\n\n6 - Está isenta de projeto a operação de reconversão de instalações de gás, caso não ocorram alterações nas mesmas."
+  },
+  "123969953": {
+   "fragment_id": "123993302",
+   "type": 11,
+   "heading": "Artigo 6.º — Elementos do projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Elementos do projeto\n\n1 - O projeto deve demonstrar a aplicabilidade das soluções adotadas, em função das normas legais, regulamentares e técnicas aplicáveis, sendo composto pela memória descritiva e justificativa e pelas peças escritas e desenhadas necessárias à boa execução da obra.\n\n2 - A memória descritiva e justificativa deve incluir informação detalhada, a fornecer pelo dono da obra, sobre o sistema de ventilação do edifício e da sua adequação para instalação e funcionamento dos aparelhos a gás com as características técnicas definidas de acordo com o disposto no n.º 3 do artigo seguinte.\n\n3 - A terminologia, a simbologia e as unidades utilizadas devem respeitar as normas e as disposições legais e regulamentares aplicáveis.\n\n4 - Os edifícios onde sejam executados projetos de gás devem cumprir os requisitos das normas da série NP 1037 sobre a ventilação dos edifícios com aparelhos a gás."
+  },
+  "123969954": {
+   "fragment_id": "123993303",
+   "type": 11,
+   "heading": "Artigo 7.º — Bases do projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Bases do projeto\n\n1 - O projetista deve dimensionar a instalação entre a válvula de corte geral e os diferentes pontos de utilização, de modo a assegurar a passagem dos caudais de gás necessários à regular alimentação dos aparelhos a gás.\n\n2 - A memória descritiva deve indicar as condições específicas do gás combustível que efetivamente vai ser utilizado na instalação, de modo a permitir efetuar, designadamente, os ensaios de resistência mecânica, quando aplicável, devendo a entidade distribuidora na área onde se localiza o edifício disponibilizar as características do gás a considerar na elaboração do projeto, bem como a pressão de alimentação das instalações.\n\n3 - O projetista deve elencar as características técnicas dos aparelhos a gás a instalar, os quais devem:\n\na) Ser adequados à família ou famílias de gases combustíveis que previsivelmente podem ser utilizados nessa instalação;\n\nb) Obedecer à legislação específica dos aparelhos a gás; e\n\nc) Ser compatíveis com os restantes equipamentos, com a arquitetura do local da instalação e do edifício onde se insere, bem como com os tipos de ventilação do mesmo.\n\n4 - No caso de projetos para a indústria onde sejam instalados aparelhos a gás especiais não abrangidos pela legislação específica dos aparelhos a gás mencionada na alínea b) do número anterior, o projetista deve assegurar que os mesmos estão devidamente homologados em Estados-membros da União Europeia e cumprem todas as condições de segurança, devendo referir as respetivas características, nos termos do número anterior.\n\n5 - Para além das disposições e regulamentos aplicáveis, o projeto das instalações de gás deve obedecer ao Regulamento Técnico de Segurança contra Incêndio em Edifícios, a que se refere o artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de novembro, alterado e republicado pelo Decreto-Lei n.º 224/2015, de 9 de outubro."
+  },
+  "123969955": {
+   "fragment_id": "123993304",
+   "type": 8,
+   "heading": "Secção III — Instalações e aparelhos a gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Instalações e aparelhos a gás"
+  },
+  "123969956": {
+   "fragment_id": "123993305",
+   "type": 11,
+   "heading": "Artigo 8.º — Requisitos da execução de instalações a gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requisitos da execução de instalações a gás\n\n1 - A instalação de gás e a instalação dos aparelhos a gás devem ser executadas por EI e obedecer aos seguintes requisitos:\n\na) Estar conforme com o projeto aprovado e com o regulamento técnico relativo ao projeto, construção, exploração e manutenção das instalações de gás combustível canalizado em edifícios;\n\nb) Os aparelhos e os componentes da instalação utilizados devem ostentar a marcação «CE», sendo que os aparelhos devem também estar acompanhados pela respetiva declaração de conformidade emitida pelo fabricante;\n\nc) Cumprir a legislação específica dos aparelhos a gás e as instruções do fabricante.\n\n2 - As derivações para abastecimento de uma instalação de gás devem possuir, no seu início e no exterior do local de consumo, uma válvula de corte que possa ser selada pela entidade distribuidora em caso de necessidade de interrupção do fornecimento de gás.\n\n3 - A instalação deve ser dotada de ligação à terra, em conformidade com os regulamentos técnicos e normas aplicáveis, utilizando a instalação de terra do edifício, exceto nos casos de conversão ou reconversão em que tal não seja possível, devendo, neste caso, instalar-se um elétrodo de terra exclusivo para ligação da instalação de gás que cumpra os requisitos indicados pelo projetista para este tipo de instalação.\n\n4 - No caso das reconversões devem ser respeitadas as normas específicas relativas à adaptação dos aparelhos a gás.\n\n5 - No caso da instalação de aparelhos a gás de condensação, deve ser verificada a adequada recolha de condensados.\n\n6 - No caso da instalação de aparelhos a gás ligados a um sistema solar térmico deve ser garantido que o aparelho possa ser isolado do sistema de modo a que seja possível o seu ensaio aquando da inspeção.\n\n7 - O regulamento técnico previsto na alínea a) do n.º 1 é aprovado por portaria do membro do Governo responsável pela área da energia."
+  },
+  "123969957": {
+   "fragment_id": "123993306",
+   "type": 11,
+   "heading": "Artigo 9.º — Válvula de corte geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Válvula de corte geral\n\n1 - No limite da propriedade, na entrada de cada edifício ou na proximidade deste, mas sempre acessível pelo seu exterior, deve existir uma válvula de corte geral, nas condições a definir no regulamento técnico referido no n.º 7 do artigo anterior.\n\n2 - O fecho da válvula de corte geral só pode ser efetuado pela entidade distribuidora, ou por entidade por ela autorizada ou, quando se verifique perigo iminente, por qualquer pessoa, devendo ser dado conhecimento imediato à entidade distribuidora.\n\n3 - O rearmamento da válvula de corte geral, aquando do abastecimento da coluna montante, deve ser feito pela entidade distribuidora, ou por entidade por ela autorizada, devendo ser colocado um aviso, resistente à deterioração, junto à válvula com esta informação e os contactos da entidade distribuidora.\n\n4 - Nos edifícios multifamiliares e nos que recebam público ou similares, a válvula de corte geral deve ser única para todos os fogos ou frações, ainda que para tipologias de utilização e consumo diferentes.\n\n5 - Excetua-se do disposto no número anterior, o caso das frações que não possuam acesso por zona comum ou que sejam alimentados por rede ou ramal diferente, que podem ser dotadas de válvula de corte geral própria, desde que todas as válvulas estejam devidamente identificadas, para eventual intervenção de emergência.\n\n6 - A válvula de corte geral pode ser manobrada pelas EI e EIG, para o exercício das respetivas competências profissionais, desde que autorizadas pela entidade distribuidora."
+  },
+  "123969958": {
+   "fragment_id": "123993307",
+   "type": 11,
+   "heading": "Artigo 10.º — Equipamentos auxiliares de segurança e meios portáteis e imóveis de extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Equipamentos auxiliares de segurança e meios portáteis e imóveis de extinção\n\n1 - Consideram-se equipamentos auxiliares de segurança os dispositivos que se destinam a evitar situações potencialmente perigosas ou a permitir a sua deteção, nomeadamente:\n\na) Dispositivos de deteção de monóxido de carbono (CO);\n\nb) Dispositivos que impeçam o funcionamento simultâneo de um exaustor mecânico e de um aparelho ligado do tipo B(índice 11BS), colocados no mesmo local; e\n\nc) Dispositivos para a deteção de gás combustível.\n\n2 - Consideram-se meios portáteis e móveis de extinção os extintores e as mantas ignífugas.\n\n3 - O aparelho do tipo B(índice 11BS) mencionado na alínea b) do n.º 1 é definido no relatório técnico DNP CEN/TR 1749.\n\n4 - Os equipamentos auxiliares de segurança são de utilização facultativa, salvo disposição em contrário, nomeadamente no caso dos meios portáteis e móveis de extinção e dos sistemas automáticos de deteção de CO e de gás combustível previstos nos n.os 4 e 5 do artigo 163.º e nos artigos 181.º, 184.º e 185.º do Regulamento Técnico Contra Incêndios de Edifícios a que se refere o artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de novembro, alterado e republicado pelo Decreto-Lei n.º 224/2015, de 9 de outubro.\n\n5 - Os equipamentos auxiliares de segurança, quando existentes, são objeto de manutenção segundo as respetivas regras, devendo os procedimentos de inspeção abranger a verificação das suas condições de instalação, estado e funcionamento.\n\n6 - A instalação dos equipamentos auxiliares de segurança depende, quando aplicável, da sua certificação ou aposição da marcação «CE» e a sua instalação deve seguir as normas estabelecidas pelos organismos competentes ou, na falta destas, pelas instruções de instalação do fabricante."
+  },
+  "123969959": {
+   "fragment_id": "123993308",
+   "type": 11,
+   "heading": "Artigo 11.º — Declaração de conformidade de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Declaração de conformidade de execução\n\n1 - Concluída a execução da instalação de gás ou de aparelhos a gás, a EI deve subscrever e emitir uma declaração de conformidade de execução, sempre que ocorra uma das seguintes situações:\n\na) Sejam executadas novas instalações;\n\nb) Sejam alteradas, reparadas ou alvo de manutenção as instalações existentes;\n\nc) Os aparelhos a gás sejam instalados, reparados, adaptados ou alvo de manutenção.\n\n2 - A declaração mencionada no número anterior atesta a conformidade de execução, em consonância com o disposto no n.º 1 do artigo 8.º"
+  },
+  "123969960": {
+   "fragment_id": "123993309",
+   "type": 11,
+   "heading": "Artigo 12.º — Reclamações relativas a instalações de gás e aparelhos a gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reclamações relativas a instalações de gás e aparelhos a gás\n\n1 - As reclamações de natureza técnica relativas à execução das instalações de gás ou da instalação de aparelhos a gás são dirigidas à Direção Regional da Economia e Transportes, adiante designada por DRET, devendo conter:\n\na) A identificação do reclamante, do reclamado e da instalação de gás;\n\nb) A descrição dos motivos, bem como dos elementos informativos facilitadores ou complementares para caraterização da situação reclamada.\n\n2 - A DRET profere decisão fundamentada sobre a reclamação no prazo de 10 dias, da qual constam as medidas a serem adotadas.\n\n3 - O prazo previsto no número anterior suspende-se durante o prazo de pendência de resposta das entidades notificadas para se pronunciar sobre os factos reclamados ou até à conclusão de outras diligências promovidas pela DRET."
+  },
+  "123969961": {
+   "fragment_id": "123993310",
+   "type": 8,
+   "heading": "Secção IV — Inspeção das instalações de gás e dos aparelhos a gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Inspeção das instalações de gás e dos aparelhos a gás"
+  },
+  "123969962": {
+   "fragment_id": "123993311",
+   "type": 11,
+   "heading": "Artigo 13.º — Inspeção para o início do fornecimento de gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Inspeção para o início do fornecimento de gás\n\n1 - Concluída a execução procede-se à inspeção, que ateste a conformidade da instalação ou aparelho de gás para o início do fornecimento de gás, nos termos do disposto no artigo 19.º\n\n2 - A inspeção é realizada por uma EIG, devendo estar presente o técnico de gás da EI, bem como o representante da entidade distribuidora para efeitos de ligação do gás, desde que o serviço de fornecimento de gás tenha sido contratado e, sempre que possível, o projetista.\n\n3 - Para efeitos de inspeção, a EIG pode aceder ao projeto da instalação de gás e à declaração de conformidade de execução através da plataforma eletrónica a disponibilizar pela DRET e regista nesta a declaração de inspeção emitida nos termos do artigo 16.º"
+  },
+  "123969963": {
+   "fragment_id": "123993312",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimentos de inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimentos de inspeção\n\n1 - A EIG procede, durante a inspeção, às seguintes operações de avaliação e verificação:\n\na) Avaliação da conformidade com os regulamentos e as normas técnicas aplicáveis;\n\nb) Avaliação da conformidade e da adequação das partes visíveis da instalação com o projeto da instalação de gás e a declaração de conformidade de execução, e quando não existam, menção deste facto;\n\nc) Verificação da conformidade das condições de ventilação para o funcionamento dos aparelhos a gás, tendo em conta a informação sobre ventilação constante do projeto da instalação;\n\nd) Verificação da instalação e do funcionamento dos aparelhos a gás;\n\ne) Verificação do funcionamento dos dispositivos de corte e do seu estado de conservação.\n\n2 - Os procedimentos técnicos para a realização da inspeção de instalações de gás e de aparelhos a gás, bem como de redes e ramais de distribuição são aprovados por despacho do diretor regional da Economia e Transportes e publicitados no sítio da Internet da DRET, tendo em atenção as normas técnicas estabelecidas no âmbito do Sistema Português da Qualidade (SPQ).\n\n3 - Para efeitos da verificação do funcionamento dos aparelhos a gás, o abastecimento de gás pode ser ligado durante a realização da inspeção."
+  },
+  "123969964": {
+   "fragment_id": "123993313",
+   "type": 11,
+   "heading": "Artigo 15.º — Defeitos da instalação a gás e limitações ao fornecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Defeitos da instalação a gás e limitações ao fornecimento\n\n1 - Tendo em conta a gravidade do impacto das anomalias da instalação de gás sobre a sua aptidão para o início ou a continuidade do abastecimento de gás, classificam-se tais anomalias como defeitos segundo a tipologia seguinte:\n\na) Graves (G); e\n\nb) Não graves (NG).\n\n2 - São defeitos tipo G as anomalias que constituem perigo grave, e impedem que se estabeleça o fornecimento de gás ou obrigam a que o mesmo seja imediatamente interrompido.\n\n3 - São defeitos de tipo NG as anomalias que não constituem perigo grave, considerando-se:\n\na) De tipo NG-1 aqueles em que a instalação de gás ou a instalação do aparelho a gás apresenta uma anomalia cuja gravidade não impeça o fornecimento ou a interrupção do fornecimento de gás, mas obriga à sua reparação no prazo máximo de 60 dias;\n\nb) De tipo NG-2, aqueles em que a instalação de gás ou o aparelho a gás apresentam uma anomalia cuja correção é aconselhável apenas quando se fizer uma intervenção na instalação ou no aparelho.\n\n4 - A DRET elabora e publicita no respetivo sítio na Internet, no prazo de 60 dias após a entrada em vigor do presente Decreto Legislativo Regional, uma lista dos defeitos cuja existência determina o enquadramento em cada um dos tipos mencionados nos números anteriores, tendo em conta os normativos aplicáveis no âmbito do SPQ."
+  },
+  "123969965": {
+   "fragment_id": "123993314",
+   "type": 11,
+   "heading": "Artigo 16.º — Declaração de inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Declaração de inspeção\n\n1 - Concluída a inspeção, a EIG emite uma declaração de inspeção da mesma instalação a gás, que remete ao proprietário no prazo de 3 dias, dando conhecimento à entidade distribuidora e à DRET em suporte digital.\n\n2 - A declaração de inspeção deve mencionar se a instalação está aprovada ou reprovada, indicando, neste último caso, de forma clara e precisa, o tipo de defeito que evidencia e as limitações que lhe estão associadas, nos termos do artigo anterior, designadamente a proibição de abastecimento com gás quando aplicável.\n\n3 - Quando a declaração de inspeção faça menção à existência de um defeito do tipo NG-1, a sua validade é de apenas 60 dias da data da realização da inspeção.\n\n4 - Se existirem pontos de abastecimento de gás para ligação aos aparelhos que não estejam em utilização e se a EIG não detetar defeitos do tipo G, pode proceder-se ao abastecimento de gás desde que o mesmo fique tamponado, mencionando-se este facto na declaração de inspeção.\n\n5 - No caso previsto no número anterior, deve ficar expresso na declaração de inspeção, de forma percetível para o promotor da inspeção, que se deve recorrer a uma EI para a instalação do aparelho a gás e realizar inspeção se o aparelho se destinar à produção de água quente.\n\n6 - Não é permitida a colocação em serviço de instalações de gás que não tenham, pelo menos, um aparelho a gás instalado e pronto a funcionar."
+  },
+  "123969966": {
+   "fragment_id": "123993315",
+   "type": 11,
+   "heading": "Artigo 17.º — Promoção e encargo com as inspeções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Promoção e encargo com as inspeções\n\n1 - Cabe ao proprietário ou ao usufrutuário da instalação ou aparelho a gás promover a inspeção e suportar o respetivo encargo.\n\n2 - Excetua-se do disposto no número anterior as inspeções realizadas:\n\na) Às partes comuns de prédio constituído em propriedade horizontal, cuja responsabilidade cabe ao condomínio;\n\nb) Às frações arrendadas, quando o respetivo contrato transferir a responsabilidade para o arrendatário, sendo este ainda responsável pela inspeção relativa a aparelhos a gás que adquira e mande instalar;\n\nc) À conversão ou reconversão das instalações de gás, por serem da responsabilidade da entidade que contratar os respetivos trabalhos."
+  },
+  "123969967": {
+   "fragment_id": "123993316",
+   "type": 11,
+   "heading": "Artigo 18.º — Reclamações relativas a inspeções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reclamações relativas a inspeções\n\n1 - O resultado da inspeção pode ser objeto de reclamação a apresentar por escrito junto da EIG, no prazo de 10 dias úteis contados da data da receção da declaração de inspeção.\n\n2 - A EIG analisa e pronuncia-se sobre a reclamação no prazo de 10 dias, submetendo à DRET para decisão, juntamente com o relatório da inspeção.\n\n3 - Para efeitos da decisão mencionada no número anterior, a DRET pode promover uma verificação técnica da instalação de gás ou da instalação dos aparelhos a gás.\n\n4 - Caso a decisão da DRET seja favorável ao reclamante, os custos associados à verificação técnica referida no número anterior são imputados à EIG.\n\n5 - Caso a decisão da DRET seja favorável à EIG, os custos associados à verificação técnica referida no n.º 3 são imputados ao reclamante."
+  },
+  "123969968": {
+   "fragment_id": "123993317",
+   "type": 8,
+   "heading": "Secção V — Ligação, abastecimento de gás e manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Ligação, abastecimento de gás e manutenção"
+  },
+  "123969969": {
+   "fragment_id": "123993318",
+   "type": 11,
+   "heading": "Artigo 19.º — Abastecimento da instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Abastecimento da instalação\n\nO abastecimento de gás à instalação de gás só pode ocorrer quando exista declaração de inspeção atestando a aptidão da instalação para o início ou a continuidade do abastecimento de gás."
+  },
+  "123969970": {
+   "fragment_id": "123993319",
+   "type": 11,
+   "heading": "Artigo 20.º — Dever de manutenção e casos de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Dever de manutenção e casos de urgência\n\n1 - As instalações de gás, quando abastecidas, e os aparelhos a elas ligados devem ser sujeitos a manutenção para garantir o seu bom estado de funcionamento.\n\n2 - As intervenções de manutenção devem ser realizadas, em todos os casos, por uma EI, e compreendem a instalação de gás e os aparelhos a gás e obedecem às normas e aos regulamentos técnicos aplicáveis, às indicações das declarações de inspeção e às recomendações dos manuais do fabricante, tendo em atenção a data de execução da instalação de gás.\n\n3 - A responsabilidade pelo pedido e pelos encargos da manutenção é do proprietário ou do usufrutuário, caso exista, exceto quando as intervenções sejam realizadas:\n\na) Nas partes comuns de um condomínio ou propriedade horizontal, sendo responsabilidade do condomínio;\n\nb) Em frações arrendadas, quando o respetivo contrato transferir a responsabilidade para o arrendatário.\n\n4 - Se, da intervenção de manutenção na instalação, resultar a necessidade de inspeção extraordinária, esta deve ser realizada no prazo de 30 dias contados daquela, devendo este facto ser registado na declaração de conformidade de execução."
+  },
+  "123969971": {
+   "fragment_id": "123993320",
+   "type": 8,
+   "heading": "Secção VI — Inspeções periódicas e extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Inspeções periódicas e extraordinárias"
+  },
+  "123969972": {
+   "fragment_id": "123993321",
+   "type": 11,
+   "heading": "Artigo 21.º — Instalações sujeitas a inspeção periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instalações sujeitas a inspeção periódica\n\n1 - Todas as instalações de gás abastecidas afetas a edifícios e recintos classificadas nos termos do Decreto-Lei n.º 220/2008, de 12 de novembro, alterado pelo Decreto-Lei n.º 224/2015, de 9 de outubro, devem ser submetidas a inspeção periódica, de acordo com a seguinte periodicidade:\n\na) A cada três anos, para instalações de gás afetas a edifícios e recintos classificados como utilizações-tipo III, IV, V, VI, VII, VIII, IX, X, XI e XII, ou outros não enquadrados nas utilizações-tipo descritas, mas que recebam público;\n\nb) A cada cinco anos, as instalações de gás executadas há mais de 10 anos e que não tenham sido objeto de remodelação.\n\n2 - As inspeções periódicas devem ser realizadas por EIG, a solicitação dos proprietários, durante os 60 dias anterior aos prazos previstos no número anterior.\n\n3 - Compete a entidade distribuidora alertar ao proprietário da instalação, por escrito, antes do termo do prazo referido no número anterior, para a necessidade de realização da inspeção, bem como à DRET em suporte digital.\n\n4 - Se a inspeção periódica não for promovida no prazo previsto no n.º 2, a entidade distribuidora notifica o proprietário de que irá proceder ao corte do gás, no prazo de 10 dias.\n\n5 - Decorrido o prazo de 10 dias previsto no número anterior sem que a inspeção periódica tenha sido promovida, a entidade distribuidora procede ao corte do abastecimento de gás, dando conhecimento a DRET em suporte digital, sendo necessária a realização de uma inspeção através de uma EIG, para poderem retomar o abastecimento de gás.\n\n6 - É proibida, à entidade distribuidora ou instaladora de gás, a cobrança ou imposição à entidade inspetora, de quaisquer tarifas ou taxas pela realização de inspeções nos termos previstos no presente artigo."
+  },
+  "123969973": {
+   "fragment_id": "123993322",
+   "type": 11,
+   "heading": "Artigo 22.º — Inspeções periódicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Inspeções periódicas\n\n1 - A inspeção periódica deve ter em conta as disposições regulamentares existentes à data em que foi realizada a instalação de gás e a instalação dos aparelhos a gás.\n\n2 - Se na inspeção periódica forem detetados defeitos do tipo G, a EIG informa de imediato a entidade distribuidora para efeitos de corte do gás, disponibilizando-lhe a respetiva declaração de inspeção, no prazo máximo de 24 horas, dando conhecimento à DRET em suporte digital.\n\n3 - Se na inspeção periódica forem detetados defeitos do tipo NG-1, a EIG determina a respetiva correção no prazo e nas condições estabelecidas na alínea a) do n.º 3 do artigo 15.º, registando esse facto na declaração de inspeção, remetendo por escrito ao proprietário no prazo de 3 dias, dando conhecimento à entidade distribuidora e à DRET em suporte digital.\n\n4 - Se, no âmbito da verificação dos defeitos do tipo NG-1, forem ainda detetados defeitos nas condições de funcionamento e segurança da instalação, a EIG informa de imediato a entidade distribuidora para efeitos de corte do gás, disponibilizando-lhe a respetiva declaração de inspeção, no prazo máximo de 24 horas, dando conhecimento à DRET em suporte digital.\n\n5 - Se findo o prazo fixado no n.º 3, a entidade distribuidora não tiver conhecimento de nova declaração de inspeção com a correção dos defeitos encontrados, a entidade distribuidora notifica o proprietário da instalação que irá proceder ao corte do gás, no prazo de 10 dias.\n\n6 - Decorrido o prazo referido no número anterior, a entidade distribuidora procede ao corte do abastecimento de gás, dando conhecimento a DRET em suporte digital.\n\n7 - Nos casos previstos nos n.os 2, 4 e 6, a entidade distribuidora após efetuar o corte gás, deverá dar conhecimento à DRET em suporte digital.\n\n8 - Após o corte do gás, nos termos dos n.os 2, 4 e 6, o abastecimento de gás só pode ser retomado depois das necessárias correções e mediante a apresentação à entidade distribuidora de nova declaração de inspeção com a respetiva aprovação."
+  },
+  "123969974": {
+   "fragment_id": "123993323",
+   "type": 11,
+   "heading": "Artigo 23.º — Inspeções extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Inspeções extraordinárias\n\n1 - As instalações de gás e a instalação dos aparelhos a gás devem ser sujeitas a inspeção extraordinária quando ocorra uma das seguintes situações:\n\na) Se proceda à sua reconversão;\n\nb) Sejam efetuadas alterações no traçado, na secção ou na natureza da tubagem nas partes comuns ou no interior dos fogos, ou substituição dos componentes da instalação por outros de tipo diferente;\n\nc) Fuga de gás ou interrupção do seu fornecimento por existência de defeito do tipo G.\n\n2 - Às inspeções extraordinárias aplicam-se os procedimentos previstos para as inspeções periódicas.\n\n3 - A mudança de comercializador de gás e a mudança de titularidade no contrato de fornecimento de gás não implicam a realização de inspeção extraordinária desde que não haja interrupção de fornecimento de gás por motivos técnicos, nem se verifique nenhuma das situações descritas no n.º 1 e exista declaração de inspeção válida que aprove a instalação e que permita validar que não ocorreu a substituição de qualquer dos aparelhos a gás e dos sistemas de ventilação e exaustão dos produtos da combustão dos aparelhos a gás.\n\n4 - Quando exista inspeção extraordinária, o prazo para a inspeção periódica conta-se a partir desta.\n\n5 - É proibida, à entidade distribuidora ou instaladora de gás, a cobrança ou imposição à entidade inspetora, de quaisquer tarifas ou taxas pela realização de inspeções nos termos previstos no presente artigo."
+  },
+  "123993375": {
+   "fragment_id": "123993324",
+   "type": 1,
+   "heading": "Capítulo III — Acompanhamento das atividades de projeto, de execução, de inspeção e exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Acompanhamento das atividades de projeto, de execução, de inspeção e exploração"
+  },
+  "123993376": {
+   "fragment_id": "123993325",
+   "type": 11,
+   "heading": "Artigo 24.º — Atribuições da Direção Regional da Economia e Transportes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Atribuições da Direção Regional da Economia e Transportes\n\n1 - Sem prejuízo das competências da ERSE previstas no capítulo seguinte, a DRET é a entidade que, nos termos da Lei n.º 15/2015, de 16 de fevereiro, assegura o controlo da aplicação da disciplina do acesso e exercício das atividades de projeto, de execução e de inspeção das instalações de gás e da instalação de aparelhos a gás e de redes de gás e procede ao respetivo acompanhamento.\n\n2 - Neste quadro, a DRET exerce as seguintes atribuições e competências:\n\na) Criar, manter e gerir uma plataforma eletrónica para o armazenamento e tratamento de dados destinados à monitorização e à produção de indicadores das atividades;\n\nb) Organizar, manter e gerir o registo na plataforma eletrónica das instalações de gás nos termos do artigo seguinte;\n\nc) Elaborar e divulgar procedimentos e formulários, assegurando a sua harmonização e respeito pelas normas legais e regulamentares e pelas instruções emitidas pelas entidades competentes, velando pelo cumprimento das normas técnicas aplicáveis;\n\nd) Promover verificações técnicas, através de entidades exteriores independentes, relativamente às atividades e entidades que supervisiona, quando tal se mostre necessário atendendo à complexidade da instalação;\n\ne) Efetuar a análise e instrução das reclamações relativas às atividades que supervisiona promovendo as correspondentes verificações técnicas necessárias e dando o encaminhamento devido ao respetivo processo, nomeadamente por remessa às entidades competentes nos termos do presente decreto legislativo regional;\n\nf) Contribuir para a promoção de ações de divulgação e sensibilização para a realização das inspeções periódicas das instalações de gás, informando os consumidores;\n\ng) Proceder ao estudo e à elaboração de códigos de boa prática, especificações e procedimentos técnicos nas áreas onde atua e não abrangidas pelo n.º 2 do artigo 14.º;\n\nh) Criar e manter um centro de atendimento telefónico e digital, nos termos do Decreto-Lei n.º 74/2014, de 13 de maio, para apoio e informação aos profissionais e ao público e promover a difusão de informações sobre as atividades técnicas e científicas do setor;\n\ni) Apoiar a formação de técnicos qualificados que possam constituir uma bolsa de auditores à disposição do organismo nacional de acreditação para as respetivas auditorias às EIG;\n\nj) Promover a harmonização dos procedimentos técnicos das EI;\n\nk) Promover campanhas de sensibilização, informação e formação, tendo em vista a segurança de pessoas e bens;\n\nl) Disponibilizar a lista atualizada de todas as EI e EIG;\n\nm) Colaborar com as entidades competentes em todas as questões que respeitem às atividades que supervisiona e, em geral, que respeitem à melhoria da segurança e utilização do gás;\n\nn) Informar as entidades competentes de qualquer anomalia que detete no exercício da sua atividade e que necessite de medidas de natureza regulamentar;\n\no) Cooperar com entidades homólogas estrangeiras, ou com outras entidades nacionais ou internacionais cuja área de atividade seja relevante para a sua missão."
+  },
+  "123993377": {
+   "fragment_id": "123993326",
+   "type": 11,
+   "heading": "Artigo 25.º — Registo e informação das instalações a gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Registo e informação das instalações a gás\n\n1 - O registo referido na alínea b) do n.º 2 do artigo anterior contém a seguinte informação:\n\na) Os projetos de instalações de gás e respetivos termos de responsabilidade emitidos pelos projetistas, incluindo a modificação do projeto caso exista;\n\nb) As declarações de conformidade de execução emitidas pelas EI e suas sucessivas alterações;\n\nc) Os elementos definidores da instalação de gás exigidos pela plataforma eletrónica;\n\nd) As declarações de inspeção emitidas pelas EIG.\n\n2 - Os projetistas, as EI, as EIG e as entidades distribuidoras, devem proceder à inscrição dos elementos relativos às atividades exercidas e atos praticados no registo referido no número anterior e à sua atualização no prazo de 10 dias após a realização.\n\n3 - Com o primeiro registo relativo a cada instalação é atribuído um número de registo e respetivo código de acesso, que acompanha todo o procedimento.\n\n4 - O número de registo pode ser utilizado perante todas as entidades públicas e privadas que solicitem o respetivo código de acesso, dispensando a apresentação da documentação em suporte papel.\n\n5 - Sem prejuízo das suas obrigações legais e para efeitos da alínea b) do n.º 1, as entidades distribuidoras e as EIG devem proporcionar à DRET a informação que detenham à data da constituição da plataforma eletrónica.\n\n6 - Os registos e outros dados referidos no presente artigo obedecem às regras aplicáveis à constituição e manutenção de bases de dados e respeitam as regras de confidencialidade exigíveis, não podendo os dados pessoais ser cedidos a terceiros nem utilizados para outros fins que não os previstos no presente decreto legislativo regional."
+  },
+  "123993378": {
+   "fragment_id": "123993327",
+   "type": 1,
+   "heading": "Capítulo IV — Supervisão de mercado, regulação e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Supervisão de mercado, regulação e fiscalização"
+  },
+  "123993379": {
+   "fragment_id": "123993328",
+   "type": 11,
+   "heading": "Artigo 26.º — Atribuições da Entidade Reguladora dos Serviços Energéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Atribuições da Entidade Reguladora dos Serviços Energéticos\n\n1 - As atividades de projeto, de execução e de inspeção e exploração das instalações de gás previstas no presente decreto legislativo regional estão sujeitas a supervisão de mercado e regulação da qualidade de serviço exercidas pela ERSE, sem prejuízo das competências atribuídas a outras entidades administrativas, no domínio específico das suas atribuições e competências.\n\n2 - A supervisão a que se refere o número anterior tem por finalidade:\n\na) O bom funcionamento dos mercados de serviços relativos a instalações de gás, procedendo ao seu acompanhamento sistemático e permanente;\n\nb) A promoção da eficiência e condições concorrenciais transparentes;\n\nc) A monitorização da formação dos preços e a informação destes, tendo em conta a defesa dos interesses dos clientes e dos consumidores.\n\n3 - A regulação da qualidade de serviço visa assegurar padrões mínimos de qualidade dos serviços prestados, na vertente comercial e técnica.\n\n4 - A ERSE elabora a proposta de fixação das taxas devidas às EIG, nos termos do n.º 4 do artigo 55.º da Lei n.º 15/2015 de 16 de fevereiro."
+  },
+  "123993380": {
+   "fragment_id": "123993329",
+   "type": 11,
+   "heading": "Artigo 27.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Fiscalização\n\nA DRET é a entidade competente para fiscalização do cumprimento das disposições constantes no presente diploma, sem prejuízo das competências próprias que a lei atribua a outras entidades, nomeadamente as competências da Autoridade Regional das Atividades Económicas."
+  },
+  "123993381": {
+   "fragment_id": "123993330",
+   "type": 11,
+   "heading": "Artigo 28.º — Contraordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Contraordenações e coimas\n\n1 - Constituem contraordenações, puníveis com coima de (euro) 250 a (euro) 3500, se o infrator for uma pessoa singular, e de (euro) 450 a (euro) 40 000, se o infrator for uma pessoa coletiva, a violação das seguintes disposições do presente decreto legislativo regional:\n\na) O incumprimento do previsto no disposto no n.º 1 do artigo 3.º, nos n.os 1, 2, 3 e 5 do artigo 5.º, no artigo 8.º, nos n.os 2, 3 e 6 do artigo 9.º;\n\nb) O incumprimento pelas EI do previsto no artigo 11.º e no n.º 2 do artigo 20.º;\n\nc) O incumprimento pelas EIG do disposto nos artigos 14.º, 16.º, no n.º 2 do artigo 18.º e nos n.os 2, 3 e 4 do artigo 22.º;\n\nd) O incumprimento pelas entidades distribuidoras do disposto nos n.os 3, 4 e 5 do artigo 21.º e nos n.os 5, 6, 7 e 8 do artigo 22.º;\n\ne) O incumprimento do disposto no n.º 2 e 5 do artigo 25.º;\n\nf) O incumprimento pelas entidades distribuidoras ou EI do previsto no n.º 6 do artigo 21.º e no n.º 5 do artigo 23.º\n\n2 - A negligência e a tentativa são puníveis, sendo os limites mínimos e máximos das coimas, previstos no número anterior, reduzidos para metade, e com a coima aplicável à contraordenação consumada, especialmente atenuada, respetivamente."
+  },
+  "123993382": {
+   "fragment_id": "123993331",
+   "type": 11,
+   "heading": "Artigo 29.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Sanções acessórias\n\n1 - Consoante a gravidade da infração e a culpa do agente, podem ser aplicadas as sanções acessórias previstas no n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.\n\n2 - Pode ser objeto de publicidade, nos termos do disposto no n.º 3 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro, a condenação pela prática das infrações previstas no n.º 1 do artigo anterior."
+  },
+  "123993383": {
+   "fragment_id": "123993332",
+   "type": 11,
+   "heading": "Artigo 30.º — Competência sancionatória e destino das receitas das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competência sancionatória e destino das receitas das coimas\n\n1 - A entidade competente para instauração e instrução dos processos de contraordenação é a DRET.\n\n2 - A aplicação das coimas e das sanções acessórias é da competência do Diretor Regional da Economia e Transportes.\n\n3 - O produto das coimas constitui receita da Região Autónoma da Madeira."
+  },
+  "123993384": {
+   "fragment_id": "123993333",
+   "type": 11,
+   "heading": "Artigo 31.º — Responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Responsabilidade civil\n\nO incumprimento das normas constantes do presente decreto legislativo regional por parte do comercializador, da entidade distribuidora, da EI, da EIG, dos técnicos ao seu serviço ou de projetistas de instalações de gás e de instalação de aparelhos a gás gera responsabilidade civil, nos termos gerais do direito."
+  },
+  "123993385": {
+   "fragment_id": "123993334",
+   "type": 1,
+   "heading": "Capítulo V — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições transitórias e finais"
+  },
+  "123993386": {
+   "fragment_id": "123993335",
+   "type": 11,
+   "heading": "Artigo 32.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Disposições transitórias\n\n1 - Até à disponibilização na plataforma eletrónica de novos modelos e formulários, mantêm-se em uso os modelos de termo de responsabilidade previsto no n.º 1 do artigo 11.º do Decreto Legislativo Regional n.º 19/2012/M, de 16 de agosto, e no n.º 3 do artigo 6.º do Decreto Legislativo Regional n.º 18/2012/M, de 16 de agosto, os certificados previstos nos anexos I e II do Estatuto das Entidades Inspetoras das Redes e Ramais de Distribuição e Instalações de Gás, aprovado pelo anexo II da Portaria n.º 145/2012, de 23 de novembro.\n\n2 - Até à publicitação dos procedimentos aplicáveis às inspeções previstas no n.º 2 do artigo 14.º, aplica-se o disposto nos anexos I e II da Portaria n.º 145/2012, de 23 de novembro, nas matérias correspondentes.\n\n3 - Até à publicação da listagem prevista no n.º 4 do artigo 15.º, aplica-se o disposto no artigo 10.º do anexo I da Portaria n.º 145/2012, de 23 de novembro, acrescentando-se à relação de defeitos críticos a ocorrência de concentrações de monóxido de carbono no ambiente superiores ao estabelecido no procedimento utilizado pelas entidades inspetoras acreditadas.\n\n4 - Enquanto não estiver implementado e operacional a plataforma eletrónica prevista na alínea a) do n.º 2 do artigo 24.º, a EIG acede aos documentos mencionados no n.º 3 do artigo 13.º através do proprietário ou do usufrutuário da instalação ou ainda pela EI.\n\n5 - Até à publicação de novo quadro regulamentador das taxas dos serviços prestados pelas entidades inspetoras, previstas no n.º 3 do artigo 18.º do Decreto Legislativo Regional n.º 19/2012/M, de 16 de agosto, estas não podem cobrar pelos seus serviços montantes inferiores a 50 % dos valores máximos previstos na Portaria n.º 147/2012, de 23 de novembro."
+  },
+  "123993387": {
+   "fragment_id": "123993336",
+   "type": 11,
+   "heading": "Artigo 33.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto Legislativo Regional n.º 19/2012/M, de 16 de agosto;\n\nb) O artigo 12.º do Decreto Legislativo Regional n.º 18/2012/M, de 16 de agosto;\n\nc) O n.º 1 e o anexo I da Portaria n.º 145/2012, de 23 de novembro, que aprova os procedimentos relativos às inspeções e à manutenção das redes e ramais de distribuição de gás, na data de entrada em vigor do despacho previsto no n.º 2 do artigo 14.º;\n\nd) O n.º 2 e o anexo II da Portaria n.º 145/2012, de 23 de novembro, que aprova o estatuto das entidades inspetoras das redes e ramais de distribuição e instalações de gás."
+  },
+  "123993388": {
+   "fragment_id": "123993337",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor 180 dias após a sua publicação.\n\n2 - O disposto no artigo 25.º produz efeitos a partir da data de disponibilização da plataforma eletrónica referida no artigo 24.º"
+  },
+  "1118686275": {
+   "fragment_id": "123993298",
+   "type": 11,
+   "heading": "Artigo 3.º — Instalação de gás nos edifícios",
+   "in_force_from": "2023-07-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 24/2023/M - Diário da República n.º 130/2023, Série I de 2023-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2023-215267035), em vigor a partir de 2023-07-07, com efeitos a partir de 2023-03-01."
+   ],
+   "markdown": "###### Artigo 3.º — Instalação de gás nos edifícios\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - A execução de instalações de gás em edifícios carece de projeto elaborado e atestado nos termos dos artigos seguintes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 24/2023/M - Diário da República n.º 130/2023, Série I de 2023-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2023-215267035), em vigor a partir de 2023-07-07, com efeitos a partir de 2023-03-01."
+  },
+  "1118686475": {
+   "fragment_id": "123993330",
+   "type": 11,
+   "heading": "Artigo 28.º — Contraordenações e coimas",
+   "in_force_from": "2023-07-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 24/2023/M - Diário da República n.º 130/2023, Série I de 2023-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2023-215267035), em vigor a partir de 2023-07-07, com efeitos a partir de 2023-03-01."
+   ],
+   "markdown": "###### Artigo 28.º — Contraordenações e coimas\n\n1 - Constituem contraordenações, puníveis com coima de (euro) 250 a (euro) 3500, se o infrator for uma pessoa singular, e de (euro) 450 a (euro) 40 000, se o infrator for uma pessoa coletiva, a violação das seguintes disposições do presente decreto legislativo regional:\n\na) O incumprimento do previsto no disposto no artigo 3.º, nos n.os 1, 2, 3 e 5 do artigo 5.º, no artigo 8.º e nos n.os 2, 3 e 6 do artigo 9.º;\n\nb) O incumprimento pelas EI do previsto no artigo 11.º e no n.º 2 do artigo 20.º;\n\nc) O incumprimento pelas EIG do disposto nos artigos 14.º, 16.º, no n.º 2 do artigo 18.º e nos n.os 2, 3 e 4 do artigo 22.º;\n\nd) O incumprimento pelas entidades distribuidoras do disposto nos n.os 3, 4 e 5 do artigo 21.º e nos n.os 5, 6, 7 e 8 do artigo 22.º;\n\ne) O incumprimento do disposto no n.º 2 e 5 do artigo 25.º;\n\nf) O incumprimento pelas entidades distribuidoras ou EI do previsto no n.º 6 do artigo 21.º e no n.º 5 do artigo 23.º\n\n2 - A negligência e a tentativa são puníveis, sendo os limites mínimos e máximos das coimas, previstos no número anterior, reduzidos para metade, e com a coima aplicável à contraordenação consumada, especialmente atenuada, respetivamente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 24/2023/M - Diário da República n.º 130/2023, Série I de 2023-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2023-215267035), em vigor a partir de 2023-07-07, com efeitos a partir de 2023-03-01."
+  },
+  "123993389": {
+   "fragment_id": "123993338",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 11 de julho de 2019.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 26 de julho de 2019.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\n112488721"
+  }
+ }
+}

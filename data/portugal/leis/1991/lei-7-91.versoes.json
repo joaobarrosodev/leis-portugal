@@ -1,0 +1,106 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:475539:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1991-953217977",
+ "dre_path": "/dr/detalhe/lei/7-1991-475539",
+ "source_lastmod": "2025-11-26",
+ "versions": [
+  {
+   "date": "1991-03-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "953216170",
+    "953216171",
+    "953216172",
+    "953216173"
+   ]
+  },
+  {
+   "date": "1991-05-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:631200:por",
+     "title": "Rectificação n.º 11/91",
+     "published": "1991-05-25",
+     "dre_path": "/dr/detalhe/rectificacao/11-1991-631200"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º",
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "953216170",
+    "953218277",
+    "953218278",
+    "953216173",
+    "953216174"
+   ]
+  }
+ ],
+ "fragments": {
+  "953216170": {
+   "fragment_id": "953217978",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 7/91\n\nde 15 de Março\n\nAutorização ao Governo para legislar sobre regime jurídico das operações de loteamentos urbanos e obras de urbanização e respectivo regime sancionatório.\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea e), 168.º e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "953216171": {
+   "fragment_id": "953217979",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ o Governo autorizado a legislar em matéria da competência dos órgãos das autarquias locais e dos tribunais e sobre a definição e regime dos bens do domínio público municipal e dos regimes gerais das expropriações por utilidade pública e ilícitos de mera ordenação social no âmbito do regime jurídico das oporações de loteamento e de obras de urbanização, bem como a estabelecer um adequado regime sancionatório, nomeadamente no que respeita à punição de infracções disciplinares."
+  },
+  "953216172": {
+   "fragment_id": "953217980",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A legislação a publicar pelo Governo nos termos do artigo anterior terá o seguinte sentido e extensão:\n\na) Cometer às câmaras municipais a competência para o licenciamento das operações de loteamento e de obras de urbanização;\n\nb) Cometer às câmaras municipais ou às juntas de freguesia competências para aprovação das operações de loteamento de sua iniciativa quando a área a lotear esteja abrangida por um plano municipal de ordenamento do território plenamente eficaz;\n\nc) Cometer às assembleias municipais ou às assembleias de freguesia a competência para aprovação das operações de loteamento da iniciativa das câmaras municipais ou das juntas de freguesia quando não haja plano municipal de ordenamento do território plenamente eficaz;\n\nd) Cometer aos presidentes das câmaras municipais a competência para, com possibilidade de delegação no vereador responsável pelo pelouro do urbanismo, apreciar e decidir as questões de ordem formal e processual que possam obstar ao conhecimento dos pedidos de licenciamento de loteamento e de obras de urbanização;\n\ne) Cometer às câmaras municipais, juntamente com a administração central, competência para fiscalizar o cumprimento por parte dos particulares das disposições legais relativas a operações de loteamento e obras de urbanização, bem como a embargar e demolir as obras executadas em violação do disposto nas disposições legais relativas a operações de loteamento e obras de urbanização;\n\nf) Cometer às câmaras municipais, juntamente com a administração central, competência para ordenar a reposição dos terrenos nas condições em que se encontravam antes da data do início das obras executadas em violação do disposto nas disposições legais relativas a operações de loteamento e obras de urbanização;\n\ng) Classificar como ilegalidade grave, para efeitos do disposto na alínea c) do n.º 1 e do n.º 3 do artigo 9.º, bem como na alínea g) do n.º 1 do artigo 13.º da Lei n.º 87/89, de 9 de Setembro, todos os actos camarários que licenciarem operações de loteamento, obras de urbanização e quaisquer outras obras de construção civil em violação de planos municipais de ordenamento do território, de áreas de desenvolvimento urbano prioritário ou de áreas de construção prioritária plenamente eficazes;\n\nh) Cometer competências em razão da matéria e do território aos tribunais judiciais para conhecimento das acções, bem como disciplinar a sua tramitação, em que se requeira autorização judicial para a promoção directa, por parte de qualquer interessado, da execução das obras ou de parte das obras de urbanização, nos casos em que tais obras não sejam realizadas nem pelos loteadores, nem pelas câmaras municipais;\n\ni) Atribuir carácter urgente às acções de reconhecimento de direitos previstas na Lei de Processo nos Tribunais Administrativos em caso de deferimento tácito dos pedidos de licenciamento de loteamento e de obras de urbanização, bem como disciplinar a tramitação desta forma de processo por forma a prever a intervenção das câmaras municipais, das comissões de coordenação regional e do Ministério Público;\n\nj) Fixar a pena de multa para os funcionários municipais encarregados de fiscalizar as obras sujeitas a licenciamento municipal que deixarem de participar às câmaras municipais as infracções às disposições legais relativas a loteamentos urbanos e obras de urbanização de que tiverem conhecimento no exercício das suas funções;\n\nl) Fixar a pena de suspensão para os funcionários municipais encarregados de fiscalizar as obras sujeitas a licenciamento municipal que prestarem informações falsas ou erradas às câmaras municipais sobre as infracções às disposições legais relativas a loteamentos urbanos e obras de urbanização de que tiverem conhecimento no exercício das suas funções;\n\nm) Integração no domínio público municipal das áreas cedidas pelos loteadores para espaços verdes, equipamentos públicos e arruamentos, não podendo tais parcelas ser afectas a fim distinto do previto no alvará de loteamento;\n\nn) Possibilidade de os moradores ou grupos de moradores das zonas loteadas e urbanizadas poderem gerir as áreas classificadas como zonas verdes e integradas no domínio público municipal, através da celebração com as câmaras municipais de acordos de cooperação, contratos de prestação de serviços ou contratos administrativos de concessão de uso privativo do domínio público municipal;\n\no) Possibilidade de os loteadores recorrerem, com as necessárias adaptações, ao direito de reversão previsto no Código das Expropriações, sempre que haja desvio da finalidade das cedências de parcelas integradas no domínio público municipal;\n\np) Estipular os montantes das coimas correspondentes aos ilícitos de mera ordenação social por violação das disposições legais relativas a operações de loteamento e de obras de urbanização entre o mínimo de 500000$00 e o máximo de 25000000$00.\n\n2 - A caracterização das penas referidas nas alíneas j) e l) do número anterior será a constante do Decreto-Lei n.º 24/84, de 16 de Janeiro.\n\n3 - São revogados os n.os 3 e 4 do artigo 10.º do Decreto-lei n.º 77/84, de 8 de Março, em matéria de operações de loteamento."
+  },
+  "953216173": {
+   "fragment_id": "953217981",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente autorização legislativa tem a duração de 180 dias."
+  },
+  "953218277": {
+   "fragment_id": "953217979",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1991-05-25",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação n.º 11/91 - Diário da República n.º 120/1991, Série I-A de 1991-05-25](https://diariodarepublica.pt/dr/detalhe/rectificacao/11-1991-631200), em vigor a partir de 1991-05-25"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ o Governo autorizado a legislar em matéria da competência dos órgãos das autarquias locais e dos tribunais e sobre a definição e regime dos bens do domínio público municipal e dos regimes gerais das expropriações por utilidade pública e ilícitos de mera ordenação social no âmbito do regime jurídico das operações de loteamento e obras de urbanização, bem como a estabelecer um adequado regime sancionatório, nomeadamente no que respeita à punição de infracções disciplinares.\n\n> Retificado pelo/a [Rectificação n.º 11/91 - Diário da República n.º 120/1991, Série I-A de 1991-05-25](https://diariodarepublica.pt/dr/detalhe/rectificacao/11-1991-631200), em vigor a partir de 1991-05-25"
+  },
+  "953218278": {
+   "fragment_id": "953217980",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1991-05-25",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação n.º 11/91 - Diário da República n.º 120/1991, Série I-A de 1991-05-25](https://diariodarepublica.pt/dr/detalhe/rectificacao/11-1991-631200), em vigor a partir de 1991-05-25"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - A legislação a publicar pelo Governo nos termos do artigo anterior terá o seguinte sentido e extensão:\n\na) Cometer às câmaras municipais a competência para o licenciamento das operações de loteamento e de obras de urbanização;\n\nb) Cometer às câmaras municipais ou às juntas de freguesia competências para aprovação das operações de loteamento de sua iniciativa quando a área a lotear esteja abrangida por um plano municipal de ordenamento do território plenamente eficaz;\n\nc) Cometer às assembleias municipais ou às assembleias de freguesia a competência para aprovação das operações de loteamento da iniciativa das câmaras municipais ou das juntas de freguesia quando não haja plano municipal de ordenamento do território plenamente eficaz;\n\nd) Cometer aos presidentes das câmaras municipais a competência para, com possibilidade de delegação no vereador responsável pelo pelouro do urbanismo, apreciar e decidir as questões de ordem formal e processual que possam obstar ao conhecimento dos pedidos de licenciamento de loteamento e de obras de urbanização;\n\ne) Cometer às câmaras municipais, juntamente com a administração central, competência para fiscalizar o cumprimento por parte dos particulares das disposições legais relativas a operações de loteamento e obras de urbanização, bem como a embargar e demolir as obras executadas em violação do disposto nas disposições legais relativas a operações de loteamento e obras de urbanização;\n\nf) Cometer às câmaras municipais, juntamente com a administração central, competência para ordenar a reposição dos terrenos nas condições em que se encontravam antes da data do início das obras executadas em violação do disposto nas disposições legais relativas a operações de loteamento e obras de urbanização;\n\ng) Classificar como ilegalidade grave, para efeitos do disposto na alínea c) do n.º 1 e do n.º 3 do artigo 9.º, bem como na alínea g) do n.º 1 do artigo 13.º da Lei n.º 87/89, de 9 de Setembro, todos os actos camarários que licenciarem operações de loteamento, obras de urbanização e quaisquer outras obras de construção civil em violação de planos municipais de ordenamento do território, de áreas de desenvolvimento urbano prioritário ou de áreas de construção prioritária plenamente eficazes;\n\nh) Cometer competências em razão da matéria e do território aos tribunais judiciais para conhecimento das acções, bem como disciplinar a sua tramitação, em que se requeira autorização judicial para a promoção directa, por parte de qualquer interessado, da execução das obras ou de parte das obras de urbanização, nos casos em que tais obras não sejam realizadas nem pelos loteadores, nem pelas câmaras municipais;\n\ni) Atribuir carácter urgente às acções de reconhecimento de direitos previstas na Lei de Processo nos Tribunais Administrativos em caso de deferimento tácito dos pedidos de licenciamento de loteamento e de obras de urbanização, bem como disciplinar a tramitação desta forma de processo por forma a prever a intervenção das câmaras municipais, das comissões de coordenação regional e do Ministério Público;\n\nj) Fixar a pena de multa para os funcionários municipais encarregados de fiscalizar as obras sujeitas a licenciamento municipal que deixarem de participar às câmaras municipais as infracções às disposições legais relativas a loteamentos urbanos e obras de urbanização de que tiverem conhecimento no exercício das suas funções;\n\nl) Fixar a pena de suspensão para os funcionários municipais encarregados de fiscalizar as obras sujeitas a licenciamento municipal que prestarem informações falsas ou erradas às câmaras municipais sobre as infracções às disposições legais relativas a loteamentos urbanos e obras de urbanização de que tiverem conhecimento no exercício das suas funções;\n\nm) Integração no domínio público municipal das áreas cedidas pelos loteadores para espaços verdes, equipamentos públicos e arruamentos, não podendo tais parcelas ser afectas a fim distinto do previsto no alvará de loteamento;\n\nn) Possibilidade de os moradores ou grupos de moradores das zonas loteadas e urbanizadas poderem gerir as áreas classificadas como zonas verdes e integradas no domínio público municipal, através da celebração com as câmaras municipais de acordos de cooperação, contratos de prestação de serviços ou contratos administrativos de concessão de uso privativo do domínio público municipal;\n\no) Possibilidade de os loteadores recorrerem, com as necessárias adaptações, ao direito de reversão previsto no Código das Expropriações, sempre que haja desvio da finalidade das cedências de parcelas integradas no domínio público municipal;\n\np) Estipular os montantes das coimas correspondentes aos ilícitos de mera ordenação social por violação das disposições legais relativas a operações de loteamento e de obras de urbanização entre o mínimo de 500000$00 e o máximo de 25000000$00.\n\n2 - A caracterização das penas referidas nas alíneas j) e l) do número anterior será a constante do Decreto-Lei n.º 24/84, de 16 de Janeiro.\n\n3 - São revogados os n.os 3 e 4 do artigo 10.º do Decreto-lei n.º 77/84, de 8 de Março, em matéria de operações de loteamento.\n\n> Retificado pelo/a [Rectificação n.º 11/91 - Diário da República n.º 120/1991, Série I-A de 1991-05-25](https://diariodarepublica.pt/dr/detalhe/rectificacao/11-1991-631200), em vigor a partir de 1991-05-25"
+  },
+  "953216174": {
+   "fragment_id": "953217982",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 15 de Janeiro de 1991.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 25 de Fevereiro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 27 de Fevereiro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

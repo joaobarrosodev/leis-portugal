@@ -1,0 +1,49 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984L0156:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984L0156-20121222",
+ "dre_path": null,
+ "source_lastmod": "2012-12-22",
+ "versions": [
+  {
+   "date": "2009-01-13",
+   "future": false,
+   "celex": "01984L0156-20090113",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b634806a521c632b"
+   ]
+  },
+  {
+   "date": "2012-12-22",
+   "future": false,
+   "celex": "01984L0156-20121222",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "363b16f8eef7ae01"
+   ]
+  }
+ ],
+ "fragments": {
+  "b634806a521c632b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984L0156 — PT — 13.01.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/384L0156) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/384L0156) [de 8 de Março de 1984](http://publications.europa.eu/resource/celex/384L0156) [relativa aos valores-limite e aos objectivos de qualidade para as descargas de mercúrio de sectores que não o da electrólise dos cloretos alcalinos](http://publications.europa.eu/resource/celex/384L0156) [(84/156/CEE)](http://publications.europa.eu/resource/celex/384L0156) (JO L 074, 17.3.1984, p.49)\n\n**revogado por:**"
+  },
+  "363b16f8eef7ae01": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984L0156 — PT — 22.12.2012 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31984L0156) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31984L0156) [de 8 de Março de 1984](http://publications.europa.eu/resource/celex/31984L0156) [relativa aos valores-limite e aos objectivos de qualidade para as descargas de mercúrio de sectores que não o da electrólise dos cloretos alcalinos](http://publications.europa.eu/resource/celex/31984L0156) [(84/156/CEE)](http://publications.europa.eu/resource/celex/31984L0156) (JO L 074, 17.3.1984, p.49)\n\n**revogado por:**\n\n- [Directiva 2008/105/CE do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0105) — L 348 — 84 — 24.12.2008"
+  }
+ }
+}

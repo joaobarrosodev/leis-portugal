@@ -1,0 +1,684 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75195061:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-187455237",
+ "dre_path": "/dr/detalhe/decreto-lei/54-2016-75195061",
+ "source_lastmod": "2026-08-18",
+ "versions": [
+  {
+   "date": "2016-08-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "187453458",
+    "187453459",
+    "187453460",
+    "187453461",
+    "187453462",
+    "187453463",
+    "187453464",
+    "187453465",
+    "187453466",
+    "187453467",
+    "187453468",
+    "187453469",
+    "187453470",
+    "187453471",
+    "187453472",
+    "187453473",
+    "187453474",
+    "187481175",
+    "187481176",
+    "187481177",
+    "187481178",
+    "187481179",
+    "187481180",
+    "187481181",
+    "187481182"
+   ]
+  },
+  {
+   "date": "2022-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:187413389:por",
+     "title": "Decreto-Lei n.º 53/2022",
+     "published": "2022-08-12",
+     "dre_path": "/dr/detalhe/decreto-lei/53-2022-187413389"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "187453458",
+    "187453459",
+    "187453460",
+    "187453461",
+    "187453462",
+    "187453463",
+    "187453464",
+    "187453465",
+    "187453466",
+    "187453467",
+    "187453468",
+    "187453469",
+    "187453470",
+    "187453471",
+    "187453472",
+    "187453473",
+    "187453474",
+    "187481175",
+    "187481176",
+    "187481177",
+    "187481178",
+    "187481179",
+    "187481216",
+    "187481181",
+    "187481182",
+    "187481183"
+   ]
+  },
+  {
+   "date": "2025-04-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:914597186:por",
+     "title": "Decreto-Lei n.º 64/2025",
+     "published": "2025-04-10",
+     "dre_path": "/dr/detalhe/decreto-lei/64-2025-914597186"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "187453458",
+    "187453459",
+    "187453460",
+    "914666438",
+    "187453462",
+    "187453463",
+    "187453464",
+    "914666439",
+    "187453466",
+    "187453467",
+    "187453468",
+    "914666449",
+    "914666450",
+    "914666456",
+    "914666457",
+    "914666458",
+    "914666459",
+    "914666460",
+    "187453473",
+    "187453474",
+    "187481175",
+    "187481176",
+    "914666444",
+    "187481178",
+    "187481179",
+    "914666461",
+    "187481181",
+    "187481182",
+    "187481183"
+   ]
+  },
+  {
+   "date": "2025-11-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:947168580:por",
+     "title": "Decreto-Lei n.º 122/2025",
+     "published": "2025-11-19",
+     "dre_path": "/dr/detalhe/decreto-lei/122-2025-947168580"
+    }
+   ],
+   "changes": [
+    "Adita Anexo",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "187453458",
+    "947235124",
+    "187453460",
+    "914666438",
+    "947235125",
+    "187453463",
+    "187453464",
+    "914666439",
+    "187453466",
+    "187453467",
+    "947235126",
+    "914666449",
+    "914666450",
+    "914666456",
+    "914666457",
+    "947235975",
+    "914666459",
+    "914666460",
+    "947235127",
+    "187453474",
+    "187481175",
+    "187481176",
+    "914666444",
+    "187481178",
+    "947235128",
+    "914666461",
+    "187481181",
+    "187481182",
+    "947235129",
+    "947235130"
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1154275215:por",
+     "title": "Decreto-Lei n.º 158/2026",
+     "published": "2026-08-04",
+     "dre_path": "/dr/detalhe/decreto-lei/158-2026-1154275215"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "187453458",
+    "947235124",
+    "187453460",
+    "914666438",
+    "947235125",
+    "187453463",
+    "187453464",
+    "914666439",
+    "187453466",
+    "187453467",
+    "947235126",
+    "914666449",
+    "1154812475",
+    "914666456",
+    "1154812675",
+    "1154812875",
+    "1154813075",
+    "914666460",
+    "947235127",
+    "187453474",
+    "187481175",
+    "187481176",
+    "914666444",
+    "187481178",
+    "947235128",
+    "914666461",
+    "187481181",
+    "187481182",
+    "947235129",
+    "947235130"
+   ]
+  }
+ ],
+ "fragments": {
+  "187453458": {
+   "fragment_id": "187455238",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 54/2016\n\nde 25 de agosto\n\nOutrora presente em todo o território continental, o lobo-ibérico (Canis lupus signatus Cabrera, 1907) encontra-se atualmente circunscrito a algumas áreas do norte e do centro do país, estando classificado com o estatuto de Em Perigo (Livro Vermelho dos Vertebrados de Portugal, 2005). A escassez de presas selvagens e o consequente recurso a presas domésticas tem gerado conflitos com algumas atividades desenvolvidas pelo ser humano, comprometendo a sobrevivência desta espécie.\n\nEm resultado da política de proteção decorrente da Lei n.º 90/88, de 13 de agosto, que estabeleceu, pela primeira vez, as bases para a proteção do lobo-ibérico em Portugal, o lobo nunca desapareceu do território nacional, ao contrário do que aconteceu com a espécie noutros países da Europa. Esta circunstância confere ao país uma responsabilidade acrescida, designadamente no contexto da União Europeia, até que se atinja o estado de conservação favorável, o que depende da coexistência entre as atividades humanas e a presença do lobo.\n\nO presente decreto-lei visa consolidar o regime de conservação do lobo-ibérico, integrando-o no desenvolvimento da política de conservação da natureza e da biodiversidade a nível nacional e da União Europeia.\n\nCom efeito, a conservação do lobo-ibérico em Portugal e na União Europeia está consagrada na Diretiva 92/43/CEE do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens (Diretiva Habitats), transposta para o direito interno pelo Decreto-Lei n.º 140/99, de 24 de abril, alterado pelos Decretos-Leis n.os 49/2005, de 24 de fevereiro, e 156-A/2013, de 8 de novembro, e com o enquadramento dado pelo Decreto-Lei n.º 142/2008, de 24 de julho, alterado e republicado pelo Decreto-Lei n.º 242/2015, de 15 de outubro, que estabelece o Regime Jurídico da Conservação da Natureza e da Biodiversidade, estando igualmente contextualizada na Convenção Relativa à Conservação da Vida Selvagem e dos Habitats Naturais da Europa (Convenção de Berna), regulamentada em Portugal através do Decreto-Lei n.º 316/89, de 22 de setembro.\n\nA implementação das políticas de conservação ativa dirigidas à proteção do lobo tem logrado alcançar resultados na melhoria do estado de conservação desta espécie. Com base na experiência adquirida e com o objetivo de potenciar a compatibilização da prática do pastoreio com a presença do lobo, o presente decreto-lei fixa as espécies animais passíveis de indemnização, em caso de danos provocados pelo lobo-ibérico, e estabelece os requisitos exigidos para que seja reconhecido o direito a essa indemnização, com vista a fomentar uma proteção eficaz dos efetivos pecuários. É ainda introduzido no presente decreto-lei um mecanismo de cálculo do montante a indemnizar adaptado à realidade observada, remetendo-se para diploma complementar a regulamentação destas matérias.\n\nCom o objetivo de permitir a adaptação de modos de pastoreio existentes ao regime indemnizatório, que ora se pretende instituir, está prevista uma norma transitória, durante a vigência da qual as autoridades nacionais, em colaboração com os produtores pecuários, suas associações e outros agentes relevantes, promovem a divulgação e a aplicação dos mecanismos de apoio disponíveis e necessários à completa aplicação deste regime.\n\nEstas medidas, aliadas à criação de um plano de ação para a conservação do lobo-ibérico, a aprovar por despacho dos membros do Governo responsáveis pelas áreas da conservação da natureza e da agricultura, constituem verdadeiros e decisivos contributos para uma conservação adequada e eficaz das populações de lobo-ibérico em Portugal.\n\nPor fim, em matéria sancionatória, aproveitou-se o ensejo para harmonizar o regime jurídico da proteção do lobo-ibérico, em face da experiência adquirida e da evolução legislativa no domínio contraordenacional, procurando-se conciliar as previsões contraordenacionais no contexto da aprovação e vigência da lei-quadro das contraordenações ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto, alterada e republicada pela Lei n.º 114/2015, de 28 de agosto, em especial nas matérias atinentes às coimas, às sanções acessórias e ao concurso de infrações.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 90/88, de 13 de agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "187453459": {
+   "fragment_id": "187455239",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "187453460": {
+   "fragment_id": "187455240",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei visa desenvolver os princípios da proteção e conservação do lobo-ibérico (Canis lupus signatus, Cabrera, 1907), consagrados na Lei n.º 90/88, de 13 de agosto."
+  },
+  "187453461": {
+   "fragment_id": "187455241",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Atividade pecuária», toda a atividade de reprodução, produção, detenção, comercialização, exposição e outras relativas a animais das espécies pecuárias;\n\nb) «Cão de condução de rebanho», cão cuja função seja auxiliar o pastor na condução do rebanho;\n\nc) «Cão de proteção de rebanho contra ataques de lobo», adiante designado por cão de proteção de rebanho, cão do tipo mastim de montanha cujas características tenham correspondido, na origem histórica da raça à função de proteção de rebanhos contra ataques de lobo, designadamente os pertencentes às raças cão de Castro Laboreiro, cão de gado transmontano e cão da Serra da Estrela;\n\nd) «Espécime», lobo-ibérico, vivo ou morto, bem como qualquer parte do mesmo;\n\ne) «Espécime naturalizado», cadáver de lobo-ibérico preparado por forma a manter as características morfológicas que possuía em vida;\n\nf) «Produtor», qualquer pessoa singular ou coletiva que exerce uma atividade pecuária e se responsabiliza pela mesma."
+  },
+  "187453462": {
+   "fragment_id": "187455242",
+   "type": 1,
+   "heading": "Capítulo II — Proteção do lobo-ibérico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Proteção do lobo-ibérico"
+  },
+  "187453463": {
+   "fragment_id": "187455243",
+   "type": 11,
+   "heading": "Artigo 3.º — Atos e atividades proibidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atos e atividades proibidos\n\nCom vista à conservação das populações de lobo-ibérico, é proibido:\n\na) Abater ou eliminar por qualquer forma os seus espécimes;\n\nb) Capturar os seus espécimes;\n\nc) Perturbar os seus espécimes;\n\nd) Deteriorar ou destruir os seus locais ou áreas de reprodução e repouso;\n\ne) Deter, transportar e expor os seus espécimes vivos, mortos ou naturalizados, incluindo qualquer parte ou produto obtido a partir dos mesmos; e\n\nf) Comercializar, deter para comercialização ou expor para comercialização os seus espécimes vivos ou mortos, incluindo qualquer parte ou produto obtido a partir dos mesmos."
+  },
+  "187453464": {
+   "fragment_id": "187455244",
+   "type": 11,
+   "heading": "Artigo 4.º — Meios e métodos de captura e eliminação proibidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Meios e métodos de captura e eliminação proibidos\n\nSão, igualmente, proibidos:\n\na) O fabrico, a comercialização e a detenção de todos os meios que se destinem à captura do lobo-ibérico;\n\nb) A utilização de meios e métodos de captura não seletivos, suscetíveis de capturar espécimes de lobo-ibérico;\n\nc) O fabrico, a comercialização, a detenção e a utilização de todos os meios e métodos que se destinem à eliminação do lobo-ibérico."
+  },
+  "187453465": {
+   "fragment_id": "187455245",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime excecional\n\n1 - Em casos fundamentados, os atos e atividades proibidos no artigo 3.º podem ser excecionalmente permitidos, desde que não exista alternativa satisfatória e não seja prejudicada a manutenção das populações da espécie num estado de conservação favorável, na sua área de distribuição natural, designadamente nas seguintes situações:\n\na) Os atos e atividades proibidos nas alíneas b), c), e) e f) do artigo 3.º, no que respeita a espécimes vivos de origem de cativeiro, quando a sua prática vise permitir a investigação, a educação, o repovoamento, a reintrodução, a translocação ou a reprodução em cativeiro, inseridos em projetos de conservação da espécie aprovados pelo Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.);\n\nb) Os atos proibidos nas alíneas c) e d) do artigo 3.º, quando a sua prática vise atingir interesses públicos prioritários, designadamente de caráter social ou económico;\n\nc) Os atos e atividades proibidos nas alíneas e) e f) do artigo 3.º, com exceção da exposição relativamente a espécimes mortos, quando os mesmos tenham sido legalmente adquiridos.\n\n2 - Para além das situações previstas no número anterior, podem ser excecionalmente permitidos os atos proibidos na alínea a) do artigo 3.º quando a sua prática vise garantir a segurança pública, a saúde pública ou a sanidade animal.\n\n3 - Quando for autorizada a detenção de espécimes de lobo-ibérico em cativeiro, nos termos da alínea a) do n.º 1, o responsável pela mesma fica sujeito às obrigações gerais a que estão sujeitos os detentores, em cativeiro, de fauna selvagem listada nos anexos da legislação de proteção de espécies.\n\n4 - Pode ser ainda excecionalmente autorizada a utilização de meios e métodos de captura proibidos na alínea b) do artigo anterior, se esta tiver sido autorizada nos termos e condições da alínea a) do n.º 1 do presente artigo.\n\n5 - A utilização dos meios e métodos de captura, permitida nos termos do número anterior, deve ser feita por forma a minimizar os eventuais efeitos negativos sobre os espécimes.\n\n6 - Compete ao ICNF, I. P., licenciar os atos e atividades previstos nos números anteriores, salvo os do n.º 2, cuja prática compete à Direção-Geral da Saúde (DGS) ou à Direção-Geral de Alimentação e Veterinária (DGAV)."
+  },
+  "187453466": {
+   "fragment_id": "187455246",
+   "type": 11,
+   "heading": "Artigo 6.º — Licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Licenças\n\n1 - A autorização para a prática dos atos e atividades excecionalmente permitidos, nos termos e condições previstos no artigo anterior, é titulada por licença do ICNF, I. P., na qual devem constar os seguintes elementos, sempre que aplicáveis:\n\na) O ato ou a atividade autorizada;\n\nb) O fim a que se destina;\n\nc) A identificação do titular;\n\nd) O número de espécimes atingidos, vivos ou mortos, ou a descrição das partes, produtos ou amostras obtidos a partir deles;\n\ne) As freguesias e os concelhos abrangidos pela autorização;\n\nf) Os métodos e os meios de equipamento que se podem utilizar;\n\ng) A indicação do respetivo prazo de validade, se o houver, o qual não pode ser superior a um ano;\n\nh) Outras condicionantes que, no caso concreto, a entidade emitente julgue necessárias à prossecução dos interesses em causa.\n\n2 - Os requerimentos para a obtenção das licenças referidas no número anterior são instruídos com todos os elementos necessários à demonstração das condições aí referidas e devem ser decididos no prazo máximo de 30 dias úteis.\n\n3 - Finda a validade das licenças referidas no n.º 1 e no prazo de 30 dias a contar do seu termo, os respetivos titulares devem enviar ao ICNF, I. P., um relatório dos atos ou atividades autorizados.\n\n4 - Do relatório referido no número anterior deve constar, se for o caso, o número, o sexo e a idade dos espécimes efetivamente capturados ao abrigo da licença emitida, bem como os métodos utilizados e a sua eficácia, a data e o local de captura e eventuais danos ocorridos sobre os espécimes capturados, sendo que, na eventualidade de terem sido capturados, acidentalmente, espécimes de outras espécies, o relatório deve incluir essa mesma informação.\n\n5 - A emissão de futuras licenças de autorização ao mesmo requerente, ao abrigo do disposto no n.º 1, fica dependente da apresentação e da avaliação positiva dos relatórios referidos no número anterior.\n\n6 - As disposições do presente artigo não são aplicáveis aos atos cuja prática compete à DGS e à DGAV, nos termos do n.º 6 do artigo anterior."
+  },
+  "187453467": {
+   "fragment_id": "187455247",
+   "type": 11,
+   "heading": "Artigo 7.º — Plano de ação para a conservação do lobo-ibérico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Plano de ação para a conservação do lobo-ibérico\n\n1 - O ICNF, I. P., elabora, no prazo máximo de um ano após a entrada em vigor do presente decreto-lei, uma proposta de plano de ação para a conservação do lobo-ibérico, no qual se definem objetivos e ações concretas que visam atingir o estado de conservação favorável desta espécie no território nacional, bem como a sua manutenção a longo prazo.\n\n2 - O plano de ação previsto no número anterior, de caráter multidisciplinar e com a intervenção de entidades públicas e privadas relevantes em razão da matéria, é aprovado por despacho dos membros do Governo responsáveis pelas áreas da conservação da natureza e da agricultura."
+  },
+  "187453468": {
+   "fragment_id": "187455248",
+   "type": 1,
+   "heading": "Capítulo III — Indemnização por danos causados pelo lobo-ibérico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Indemnização por danos causados pelo lobo-ibérico"
+  },
+  "187453469": {
+   "fragment_id": "187455249",
+   "type": 11,
+   "heading": "Artigo 8.º — Danos em animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Danos em animais\n\n1 - Quando ocorram danos em animais causados diretamente pela ação do lobo-ibérico, os mesmos são passíveis de indemnização ao respetivo produtor, mediante participação ao ICNF, I. P., nos termos do disposto nos números seguintes.\n\n2 - São passíveis de indemnização os danos provocados em:\n\na) Bovinos, caprinos e ovinos;\n\nb) Equinos, asininos e seus cruzamentos;\n\nc) Cães de proteção de rebanho e cães de condução de rebanho.\n\n3 - Quando de um ataque de lobo-ibérico resultar o desaparecimento de animais, os danos causados nos mesmos apenas podem ser considerados para efeitos de indemnização se os animais ou os seus cadáveres forem encontrados até sete dias seguidos após a participação a que se refere o n.º 1."
+  },
+  "187453470": {
+   "fragment_id": "187455250",
+   "type": 11,
+   "heading": "Artigo 9.º — Verificação dos danos em animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Verificação dos danos em animais\n\n1 - Recebida a participação a que se refere o artigo anterior, o ICNF, I. P., procede, no prazo de três dias, a uma vistoria ao local da ocorrência e aos animais afetados, sendo elaborado um relatório da mesma.\n\n2 - O produtor dos animais objeto de dano ou o seu representante tem o dever de colaborar no agendamento e na realização dessa vistoria, designadamente disponibilizando-se para comparecer no local, na data e na hora definidas para a mesma, bem como prestar todas as informações relevantes para a elaboração do respetivo relatório.\n\n3 - Do relatório referido nos números anteriores consta:\n\na) A identificação do produtor dos animais ou do seu representante;\n\nb) A marca ou as marcas da exploração;\n\nc) O local da ocorrência e data e hora da mesma, se conhecidas;\n\nd) O número de identificação individual, constante dos registos oficiais, do animal ou dos animais que sofreram os danos ou, na ausência daquele, a sua espécie, a sua raça, a sua idade e o seu sexo;\n\ne) A descrição dos danos apurados;\n\nf) A referência relativa ao cumprimento dos requisitos mínimos de segurança exigidos de acordo com o disposto nos artigos 10.º e 19.º;\n\ng) Outros elementos de interesse para a atribuição, ou não, do dano à ação do lobo, bem como para a determinação do valor a ter em conta no cálculo da indemnização;\n\nh) A data da vistoria e a assinatura dos intervenientes na mesma.\n\n4 - Findo o procedimento referido nos números anteriores e verificados os requisitos necessários para a obtenção da indemnização, nos termos do presente decreto-lei, o ICNF, I. P., determina se os danos sofridos são efetivamente passíveis de indemnização ou não."
+  },
+  "187453471": {
+   "fragment_id": "187455251",
+   "type": 11,
+   "heading": "Artigo 10.º — Indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Indemnização\n\n1 - Nos termos e para os efeitos do Regulamento (UE) n.º 1408/2013 da Comissão Europeia, de 18 de dezembro de 2013, as indemnizações por danos causados pelo lobo-ibérico, em acumulação com outros auxílios de estado, não podem exceder (euro) 15 000,00 ao longo de um período de três anos.\n\n2 - Os montantes e limites máximos das indemnizações são definidos em despacho dos membros do Governo responsáveis pelas áreas da conservação da natureza e da agricultura, sem prejuízo do disposto no artigo 19.º\n\n3 - Se o relatório referido no artigo anterior permitir concluir que os danos participados foram diretamente causados pelo lobo, os mesmos dão lugar a pagamento de indemnização, nos seguintes termos:\n\na) Os animais objeto de dano estavam:\n\ni) Guardados por pastor e cão de proteção de rebanho da propriedade do produtor, em número a definir por portaria dos membros do Governo responsáveis pelas áreas da conservação da natureza e da agricultura; ou\n\nii) Confinados em locais com estruturas adequadas à defesa dos animais contra eventuais ataques de lobo;\n\nb) Os cães de proteção de rebanho e cães de condução de rebanho, objeto de dano, estavam no exercício destas funções.\n\n4 - No que respeita a animais mortos ou que tenham de ser abatidos na sequência de um ataque, a indemnização é atribuída:\n\na) Nos casos previstos na alínea a) do número anterior, pelo valor fixado no despacho referido no n.º 2, a qual é progressivamente reduzida no mesmo ano civil, nos termos a definir pela portaria referida na subalínea i) da alínea a) do número anterior;\n\nb) Nos casos previstos na alínea b) do número anterior, pelo valor fixado no despacho referido no n.º 2.\n\n5 - As despesas decorrentes de ferimentos em animais apenas são ressarcidas até ao valor de 80 % da despesa realizada, o qual é progressivamente reduzido, nos casos previstos na alínea a) do número anterior e nos termos definidos pela portaria referida na subalínea i) da alínea a) do n.º 3.\n\n6 - Para os efeitos da previsão da subalínea i) da alínea a) do n.º 3, apenas se considera válida a presença de cão ou cães, de proteção de rebanho se, em relação a estes, se mostrarem cumpridas as obrigações legais, em matéria de registo animal.\n\n7 - Para efeitos de pagamento das indemnizações previstas no n.º 2, os produtores devem proceder à sua inscrição na base de dados de beneficiários do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), ou atualizar os respetivos dados, caso se verifiquem alterações ou necessidade de informação complementar."
+  },
+  "187453472": {
+   "fragment_id": "187455252",
+   "type": 11,
+   "heading": "Artigo 11.º — Exclusão e suspensão da indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Exclusão e suspensão da indemnização\n\n1 - Não há lugar a indemnização quando:\n\na) Os animais objeto do dano tiverem idade inferior a um mês;\n\nb) O corpo ou as partes do animal objeto de dano ou quaisquer outros vestígios dessa mesma ocorrência tiverem sido removidos antes da vistoria a que se refere o n.º 1 do artigo 9.º, a menos que tenha sido concedida autorização para o efeito pelo ICNF, I. P.;\n\nc) As obrigações legais, em matéria de registo animal, não se mostrarem cumpridas em relação aos animais em causa;\n\nd) O lesado impedir culposamente o agendamento ou na realização da vistoria prevista no artigo 9.º\n\n2 - Não há, igualmente, lugar a indemnização quando:\n\na) O lesado tenha sido condenado pela prática de um dos crimes ou de uma das contraordenações muito graves previstas no presente decreto-lei, tendo a condenação transitado em julgado nos cinco anos anteriores ao pedido de indemnização;\n\nb) O lesado tenha sido condenado pela prática de uma das contraordenações graves previstas no presente decreto-lei, tendo a condenação transitado em julgado nos três anos anteriores ao pedido de indemnização.\n\n3 - Quando o titular do direito de indemnização for arguido em processo penal ou contraordenacional relativo aos ilícitos a que se refere o número anterior, o processo de indemnização suspende-se até trânsito em julgado da decisão naquele processo."
+  },
+  "187453473": {
+   "fragment_id": "187455253",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime sancionatório"
+  },
+  "187453474": {
+   "fragment_id": "187455254",
+   "type": 11,
+   "heading": "Artigo 12.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contraordenações\n\n1 - Constitui contraordenação ambiental muito grave, punível nos termos da lei-quadro das contraordenações ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto, alterada e republicada pela Lei n.º 114/2015, de 28 de agosto, a infração ao disposto nas alíneas a), b) e f) do artigo 3.º\n\n2 - Constituem contraordenações ambientais graves, puníveis nos termos da lei-quadro das contraordenações ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto, alterada e republicada pela Lei n.º 114/2015, de 28 de agosto, a infração ao disposto nas alíneas c), d) e e) do artigo 3.º e no artigo 4.º\n\n3 - Constitui contraordenação ambiental leve, punível nos termos da lei-quadro das contraordenações ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto, alterada e republicada pela Lei n.º 114/2015, de 28 de agosto, a infração ao disposto nos n.os 3 e 4 do artigo 6.º\n\n4 - A tentativa é punível apenas nos casos previstos nos n.os 1 e 2."
+  },
+  "187481175": {
+   "fragment_id": "187455255",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\n1 - A entidade competente para a aplicação da coima pode aplicar as seguintes sanções acessórias, relativamente a contraordenações graves e muito graves:\n\na) Apreensão e perda a favor do Estado dos objetos pertencentes ao arguido, utilizados ou produzidos aquando da infração;\n\nb) Interdição do exercício de profissões ou atividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a benefícios ou subsídios outorgados por entidades ou serviços públicos, nacionais ou comunitários;\n\nd) Encerramento de estabelecimento que beneficie da conduta ilícita praticada e cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ne) Cessação ou suspensão de licenças, alvarás ou autorizações relacionados com o exercício da respetiva atividade que se relacione com a conduta ilícita;\n\nf) Perda de benefícios fiscais, de benefícios de crédito e de linhas de financiamento de crédito de que haja usufruído e que se relacione com a conduta ilícita;\n\ng) Selagem de equipamentos destinados à laboração que se relacionem com a conduta ilícita;\n\nh) Imposição das medidas que se mostrem adequadas à prevenção de danos ambientais, à reposição da situação anterior à infração e à minimização dos efeitos decorrentes da mesma;\n\ni) Publicidade da condenação;\n\nj) Apreensão de animais.\n\n2 - A aplicação das referidas sanções acessórias rege-se, com as devidas adaptações, pelo disposto nos artigos 30.º e 31.º da lei-quadro das contraordenações ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto, alterada e republicada pela Lei n.º 114/2015, de 28 de agosto."
+  },
+  "187481176": {
+   "fragment_id": "187455256",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\nA fiscalização do cumprimento do presente decreto-lei compete às seguintes entidades:\n\na) O ICNF, I. P., especialmente através do serviço de vigilantes da natureza,\n\nb) A Guarda Nacional Republicana, especialmente através do Serviço de Proteção da Natureza e do Ambiente; e\n\nc) As demais autoridades policiais."
+  },
+  "187481177": {
+   "fragment_id": "187455257",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrução dos processos contraordenacionais e sua decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instrução dos processos contraordenacionais e sua decisão\n\n1 - A instrução dos processos contraordenacionais previstos no artigo 13.º e respetivas decisões, incluindo a aplicação das coimas e sanções acessórias, compete ao ICNF, I. P., sem prejuízo do número seguinte.\n\n2 - Quando o ICNF, I. P., tiver procedido ao levantamento de auto de notícia por prática de contraordenação, o respetivo processo é instruído e decidido pela Inspeção-Geral da Agricultura, Mar, Ambiente e Ordenamento do Território."
+  },
+  "187481178": {
+   "fragment_id": "187455258",
+   "type": 11,
+   "heading": "Artigo 16.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cobertura orçamental\n\nAs verbas inscritas no orçamento do ICNF, I. P., para pagamento das indemnizações devidas pelos danos causados pelo lobo-ibérico são diretamente transferidas para o IFAP, I. P."
+  },
+  "187481179": {
+   "fragment_id": "187455259",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "187481180": {
+   "fragment_id": "187455260",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma transitória\n\n1 - Durante os cinco anos seguintes à entrada em vigor do presente decreto-lei, são ressarcidos danos em animais que não se encontrem nas situações referidas na alínea a) do n.º 3 do artigo 10.º, se o relatório referido no artigo 9.º permitir concluir que esses danos foram diretamente causados pelo lobo.\n\n2 - Nos casos previstos no número anterior, o valor máximo da indemnização é de 50 % do valor do dano, sem prejuízo das reduções previstas nos números seguintes.\n\n3 - O ressarcimento dos danos é progressivamente reduzido, nos termos a definir pela portaria referida na subalínea i) da alínea a) do n.º 3 do artigo 10.º, quando o lesado sofra repetidos danos num mesmo ano civil.\n\n4 - As despesas decorrentes de ferimentos em animais apenas são ressarcidas até ao valor de 80 % da despesa realizada, o qual é progressivamente reduzido, nos termos a definir pela portaria referida na subalínea i) da alínea a) do n.º 3 do artigo 10.º"
+  },
+  "187481181": {
+   "fragment_id": "187455261",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 139/90, de 27 de abril."
+  },
+  "187481182": {
+   "fragment_id": "187455262",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de janeiro de 2017."
+  },
+  "187481216": {
+   "fragment_id": "187455260",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma transitória",
+   "in_force_from": "2022-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 154.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Norma transitória\n\n1 - Até 31 de dezembro de 2024, são ressarcidos danos em animais que não se encontrem nas situações referidas na alínea a) do n.º 3 do artigo 10.º, se o relatório referido no artigo 9.º permitir concluir que esses danos foram diretamente causados pelo lobo.\n\n2 - Nos casos previstos no número anterior, o valor máximo da indemnização é de 50 % do valor do dano, sem prejuízo das reduções previstas nos números seguintes.\n\n3 - O ressarcimento dos danos é progressivamente reduzido, nos termos a definir pela portaria referida na subalínea i) da alínea a) do n.º 3 do artigo 10.º, quando o lesado sofra repetidos danos num mesmo ano civil.\n\n4 - As despesas decorrentes de ferimentos em animais apenas são ressarcidas até ao valor de 80 % da despesa realizada, o qual é progressivamente reduzido, nos termos a definir pela portaria referida na subalínea i) da alínea a) do n.º 3 do artigo 10.º\n\n> Alterado pelo/a Artigo 154.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-01-01"
+  },
+  "187481183": {
+   "fragment_id": "187455263",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de junho de 2016. - Augusto Ernesto Santos Silva - José Fernando Gomes Mendes - Luís Medeiros Vieira.\n\nPromulgado em 9 de agosto de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 11 de agosto de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "914666438": {
+   "fragment_id": "187455241",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2025-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Atividade pecuária», toda a atividade de reprodução, produção, detenção, comercialização, exposição e outras relativas a animais das espécies pecuárias;\n\nb) ‘Cão de condução de gado’, cão cuja função seja auxiliar o pastor na condução do gado;\n\nc) ‘Cão de proteção de gado contra ataques de lobo’, adiante designado cão de proteção de gado, cão do tipo mastim de montanha com características físicas e comportamentais adequadas à função de proteção de gado contra ataques de lobo, tais como os pertencentes às raças cão de Castro Laboreiro, cão de gado transmontano e cão da Serra da Estrela, e que para o exercício da sua função não podem estar de trela ou usar açaime;\n\nd) «Espécime», lobo-ibérico, vivo ou morto, bem como qualquer parte do mesmo;\n\ne) «Espécime naturalizado», cadáver de lobo-ibérico preparado por forma a manter as características morfológicas que possuía em vida;\n\nf) «Produtor», qualquer pessoa singular ou coletiva que exerce uma atividade pecuária e se responsabiliza pela mesma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "914666439": {
+   "fragment_id": "187455245",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime excecional",
+   "in_force_from": "2025-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 5.º — Regime excecional\n\n1 - Em casos fundamentados, os atos e atividades proibidos no artigo 3.º podem ser excecionalmente permitidos, desde que não exista alternativa satisfatória e não seja prejudicada a manutenção das populações da espécie num estado de conservação favorável, na sua área de distribuição natural, designadamente nas seguintes situações:\n\na) Os atos e atividades proibidos nas alíneas b), c), e) e f) do artigo 3.º, no que respeita a espécimes vivos de origem de cativeiro, quando a sua prática vise permitir a investigação, a educação, o repovoamento, a reintrodução, a translocação ou a reprodução em cativeiro, inseridos em projetos de conservação da espécie aprovados pelo Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.);\n\nb) Os atos proibidos nas alíneas c) e d) do artigo 3.º, quando a sua prática vise atingir interesses públicos prioritários, designadamente de caráter social ou económico;\n\nc) Os atos e atividades proibidos nas alíneas e) e f) do artigo 3.º, com exceção da exposição relativamente a espécimes mortos, quando os mesmos tenham sido legalmente adquiridos.\n\n2 - Para além das situações previstas no número anterior, podem ser excecionalmente permitidos os atos proibidos na alínea a) do artigo 3.º quando a sua prática vise garantir a segurança pública, a saúde pública ou a sanidade animal.\n\n3 - Quando for autorizada a detenção de espécimes de lobo-ibérico em cativeiro, nos termos da alínea a) do n.º 1, o responsável pela mesma fica sujeito às obrigações gerais a que estão sujeitos os detentores, em cativeiro, de fauna selvagem listada nos anexos da legislação de proteção de espécies.\n\n4 - Pode ser ainda excecionalmente autorizada a utilização de meios e métodos de captura proibidos na alínea b) do artigo anterior, se esta tiver sido autorizada nos termos e condições da alínea a) do n.º 1 do presente artigo.\n\n5 - A utilização dos meios e métodos de captura, permitida nos termos do número anterior, deve ser feita por forma a minimizar os eventuais efeitos negativos sobre os espécimes.\n\n6 - Compete ao ICNF, I. P., licenciar os atos e atividades previstos nos números anteriores, salvo os do n.º 2, cuja prática compete à Direção-Geral da Saúde (DGS) ou à Direção-Geral de Alimentação e Veterinária (DGAV), após parecer, não vinculativo, do ICNF, I. P., a emitir no prazo de 20 dias úteis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "914666449": {
+   "fragment_id": "914673995",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Adoção de medidas de proteção",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 7.º-A — Adoção de medidas de proteção\n\nCabe ao produtor adotar as medidas de proteção que melhor se adequem à sua prática de pastoreio, de modo a minimizar o risco de ataque de lobo, seja pela presença de pastor e cães de proteção de gado, seja pela utilização de estruturas que confinem os animais, nomeadamente os mais vulneráveis, como crias ou fêmeas gestantes, ou durante os períodos de maior risco, como o inverno ou a noite.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "914666450": {
+   "fragment_id": "187455249",
+   "type": 11,
+   "heading": "Artigo 8.º — Danos em animais",
+   "in_force_from": "2025-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 8.º — Danos em animais\n\n1 - Quando ocorram danos em animais atribuíveis diretamente ao lobo-ibérico, os mesmos são passíveis de indemnização ao respetivo produtor, mediante participação, efetuada diretamente pelo interessado ou por quem o represente, na área reservada do portal do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), nos termos do disposto nos números seguintes.\n\n2 - São passíveis de indemnização os danos provocados em:\n\na) Bovinos, caprinos e ovinos;\n\nb) Equinos, asininos e seus cruzamentos;\n\nc) Cães de proteção de gado e cães de condução de gado, quando no exercício das suas funções.\n\n3 - Quando de um ataque de lobo-ibérico resultar o desaparecimento de animais, os danos causados nos mesmos apenas podem ser considerados para efeitos de indemnização se o seu aparecimento ou do respetivo cadáver for comunicado até sete dias seguidos após a participação a que se refere o n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "914666456": {
+   "fragment_id": "914673996",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Animais em sequestro",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 8.º-A — Animais em sequestro\n\nOs danos causados em animais sujeitos a sequestro sanitário dão lugar ao pagamento de indemnização, salvo nos casos em que haja indicação por parte da DGAV ou de outra entidade competente para o efeito, de que a sujeição a sequestro resulta de negligência do proprietário.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "914666457": {
+   "fragment_id": "187455250",
+   "type": 11,
+   "heading": "Artigo 9.º — Verificação dos danos em animais",
+   "in_force_from": "2025-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 9.º — Verificação dos danos em animais\n\n1 - Recebida a participação a que se refere o artigo anterior, o ICNF, I. P., procede, no prazo de três dias, a uma vistoria ao local da ocorrência e aos animais afetados, sendo elaborado um relatório da mesma.\n\n2 - O produtor dos animais objeto de dano ou o seu representante tem o dever de colaborar no agendamento e na realização dessa vistoria, designadamente disponibilizando-se para comparecer no local, na data e na hora definidas para a mesma, bem como prestar todas as informações relevantes para a elaboração do respetivo relatório.\n\n3 - Do relatório referido nos números anteriores consta:\n\na) A identificação do produtor dos animais ou do seu representante;\n\nb) A marca ou as marcas da exploração;\n\nc) O local da ocorrência e data e hora da mesma, se conhecidas;\n\nd) O número de identificação individual, constante dos registos oficiais, do animal ou dos animais que sofreram os danos ou, na ausência daquele, a sua espécie, a sua raça, a sua idade e o seu sexo;\n\ne) A descrição dos danos apurados;\n\nf) A referência relativa ao cumprimento ou não dos requisitos de segurança referidos no n.º 5 do artigo seguinte;\n\ng) Outros elementos de interesse para a atribuição, ou não, do dano à ação do lobo, bem como para a determinação do valor a ter em conta no cálculo da indemnização;\n\nh) A data da vistoria e a assinatura dos intervenientes na mesma.\n\n4 - Findo o procedimento referido nos números anteriores, o ICNF, I. P., determina se os danos sofridos são efetivamente passíveis de indemnização ou não.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "914666458": {
+   "fragment_id": "187455251",
+   "type": 11,
+   "heading": "Artigo 10.º — Indemnização",
+   "in_force_from": "2025-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 10.º — Indemnização\n\n1 - As indemnizações de danos causados por lobo-ibérico enquadram-se no Regulamento (UE) 2022/2472, da Comissão Europeia, de 14 de dezembro de 2022.\n\n2 - A indemnização a atribuir é calculada com base nos valores definidos em despacho dos membros do Governo responsáveis pelas áreas do ambiente e da agricultura.\n\n3 - Se o relatório referido no artigo anterior permitir concluir que os danos participados podem ter sido diretamente causados por lobo, os mesmos dão lugar a pagamento de indemnização, a qual é progressivamente reduzida no mesmo ano civil e calculada nos termos do número seguinte.\n\n4 - A indemnização só é devida a um mesmo proprietário até ao 15.º ataque atribuído ao lobo em cada ano civil e corresponde:\n\na) Ao valor fixado no despacho referido no n.º 2 para os três primeiros ataques;\n\nb) A 90 % do valor referido na alínea anterior, do 4.º ao 7.º ataque;\n\nc) A 70 % do valor referido na alínea a), do 8.º ao 11.º ataque;\n\nd) A 50 % do valor referido na alínea a), do 12.º ao 15.º ataque.\n\n5 - O montante da indemnização é reduzido em 50 % do valor referido no n.º 2, e conforme a regressão progressiva descrita no número anterior, caso os animais objeto de dano, no momento do ataque, não cumpram nenhum dos seguintes requisitos de segurança:\n\na) Estarem guardados por pastor e por cão de proteção de gado, na propriedade do produtor e com as obrigações legais em matéria de registo animal cumpridas, na seguinte proporção:\n\ni) Em caso de bovinos, equinos, asininos ou seus cruzamentos, 1 cão de proteção de gado por cada 50 cabeças normais, até ao limite exigível de 5 cães no total;\n\nii) Em caso de ovinos ou caprinos, 1 cão de proteção de gado por cada 10 cabeças normais, até ao limite exigível de 5 cães no total;\n\nb) Estarem confinados em locais com estruturas adequadas à sua proteção contra eventuais ataques de lobo.\n\n6 - Para efeitos do disposto no número anterior, considera-se cabeça normal (CN) a unidade padrão de equivalência usada para comparar e agregar números de animais de diferentes espécies ou categorias, tendo em consideração a espécie animal e a idade, constante da tabela anexa ao presente decreto-lei e da qual faz parte integrante.\n\n7 - No caso de danos provocados em cães de proteção de gado e cães de condução de gado, quando no exercício das suas funções, o valor da indemnização devida é sempre o previsto na alínea a) do n.º 4, independentemente do número de ataques de lobo.\n\n8 - Se os danos a indemnizar por ataque de lobo forem de ferimentos nos animais, a indemnização devida é a seguinte, sem prejuízo do disposto nos n.os 4, 5 e 7:\n\na) Se a gravidade dos ferimentos permitir concluir que o animal não vai sobreviver ou que fica incapacitado para o desempenho das suas funções, o produtor deve providenciar o seu abate e é indemnizado de acordo com o valor fixado no despacho referido no n.º 2;\n\nb) Se a gravidade dos ferimentos permitir concluir que o animal vai sobreviver e manter a capacidade para o desempenho das suas funções, o produtor deve proceder ao seu tratamento e é indemnizado pelo valor das despesas inerentes a esse tratamento, contra a apresentação de comprovativo de despesa em nome do respetivo produtor, até ao valor fixado no despacho referido no n.º 2;\n\nc) Se o animal previsto na alínea anterior vier a morrer até 30 dias após o ataque do lobo, em consequência dos ferimentos causados diretamente pelo lobo, o produtor é indemnizado pelas despesas contraídas com o seu tratamento nos termos da alínea anterior, e pela morte do animal, nos termos previstos na alínea a).\n\n9 - Para efeitos de pagamento das indemnizações previstas no n.º 2, os produtores devem proceder à sua inscrição na base de dados de beneficiários do IFAP, I. P., ou atualizar os respetivos dados, caso se verifiquem alterações ou necessidade de informação suplementar.\n\n10 - A indemnização por danos em animais referida nos números anteriores é equiparada a subsídio ou subvenção, para os efeitos previstos no artigo 21.º e no artigo 36.º do Decreto-Lei n.º 28/84, de 20 de janeiro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "914666459": {
+   "fragment_id": "187455252",
+   "type": 11,
+   "heading": "Artigo 11.º — Exclusão e suspensão da indemnização",
+   "in_force_from": "2025-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 11.º — Exclusão e suspensão da indemnização\n\n1 - Não há lugar a indemnização quando:\n\na) Os animais objeto do dano tiverem idade inferior a um mês;\n\nb) O corpo ou as partes do animal objeto de dano ou quaisquer outros vestígios dessa mesma ocorrência tiverem sido removidos antes da vistoria a que se refere o n.º 1 do artigo 9.º, a menos que tenha sido concedida autorização para o efeito pelo ICNF, I. P.;\n\nc) As obrigações legais, em matéria de registo animal, não se mostrarem cumpridas em relação aos animais em causa;\n\nd) O lesado não colaborar no agendamento ou na realização da vistoria prevista no artigo 9.º\n\n2 - Não há, igualmente, lugar a indemnização quando:\n\na) O lesado tenha sido condenado pela prática de um dos crimes ou de uma das contraordenações muito graves previstas no presente decreto-lei, tendo a condenação transitado em julgado nos cinco anos anteriores ao pedido de indemnização;\n\nb) O lesado tenha sido condenado pela prática de uma das contraordenações graves previstas no presente decreto-lei, tendo a condenação transitado em julgado nos três anos anteriores ao pedido de indemnização.\n\n3 - Quando o titular do direito de indemnização for arguido em processo penal ou contraordenacional relativo aos ilícitos a que se refere o número anterior, o processo de indemnização suspende-se até trânsito em julgado da decisão naquele processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "914666460": {
+   "fragment_id": "914673997",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Competências para a indemnização",
+   "in_force_from": "2025-04-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 11.º-A — Competências para a indemnização\n\n1 - Compete ao ICNF, I. P., reconhecer o direito à indemnização, na sequência do procedimento referido no artigo 9.º, e registar essa decisão no Sistema de Informação do IFAP, I. P.\n\n2 - O IFAP, I. P., procede ao pagamento das indemnizações devidas, até 30 dias após o reconhecimento do direito à indemnização referida no número anterior, em função do cabimento e disponibilidade orçamentais.\n\n3 - O IFAP, I. P., disponibiliza informação relativa a pagamentos efetuados, ao ICNF, I. P.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "914666444": {
+   "fragment_id": "187455257",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrução dos processos contraordenacionais e sua decisão",
+   "in_force_from": "2025-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 15.º — Instrução dos processos contraordenacionais e sua decisão\n\nA instrução dos processos contraordenacionais previstos no artigo 12.º e respetivas decisões, incluindo a aplicação das coimas e sanções acessórias, compete ao ICNF, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "914666461": {
+   "fragment_id": "187455260",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma transitória",
+   "in_force_from": "2025-04-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15",
+    "Alterado pelo/a Artigo 154.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Norma transitória\n\n1 - Até 31 de dezembro de 2024, são ressarcidos danos em animais que não se encontrem nas situações referidas na alínea a) do n.º 3 do artigo 10.º, se o relatório referido no artigo 9.º permitir concluir que esses danos foram diretamente causados pelo lobo.\n\n2 - Nos casos previstos no número anterior, o valor máximo da indemnização é de 50 % do valor do dano, sem prejuízo das reduções previstas nos números seguintes.\n\n3 - O ressarcimento dos danos é progressivamente reduzido, nos termos a definir pela portaria referida na subalínea i) da alínea a) do n.º 3 do artigo 10.º, quando o lesado sofra repetidos danos num mesmo ano civil.\n\n4 - As despesas decorrentes de ferimentos em animais apenas são ressarcidas até ao valor de 80 % da despesa realizada, o qual é progressivamente reduzido, nos termos a definir pela portaria referida na subalínea i) da alínea a) do n.º 3 do artigo 10.º\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15\n\n> Alterado pelo/a Artigo 154.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-01-01"
+  },
+  "947235124": {
+   "fragment_id": "187455239",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "947235125": {
+   "fragment_id": "187455242",
+   "type": 1,
+   "heading": "Capítulo II — Proteção do lobo-ibérico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Proteção do lobo-ibérico"
+  },
+  "947235126": {
+   "fragment_id": "187455248",
+   "type": 1,
+   "heading": "Capítulo III — Indemnização por danos causados pelo lobo-ibérico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Indemnização por danos causados pelo lobo-ibérico"
+  },
+  "947235975": {
+   "fragment_id": "187455251",
+   "type": 11,
+   "heading": "Artigo 10.º — Indemnização",
+   "in_force_from": "2025-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2025 - Diário da República n.º 224/2025, Série I de 2025-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2025-947168580), em vigor a partir de 2025-11-20, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 10.º — Indemnização\n\n1 - As indemnizações de danos causados por lobo-ibérico enquadram-se no Regulamento (UE) 2022/2472, da Comissão Europeia, de 14 de dezembro de 2022.\n\n2 - A indemnização a atribuir é calculada com base nos valores definidos em despacho dos membros do Governo responsáveis pelas áreas do ambiente e da agricultura.\n\n3 - Se o relatório referido no artigo anterior permitir concluir que os danos participados podem ter sido diretamente causados por lobo, os mesmos dão lugar a pagamento de indemnização, a qual é progressivamente reduzida no mesmo ano civil e calculada nos termos do número seguinte.\n\n4 - A indemnização só é devida a um mesmo proprietário até ao 15.º ataque atribuído ao lobo em cada ano civil e corresponde:\n\na) Ao valor fixado no despacho referido no n.º 2 para os três primeiros ataques;\n\nb) A 90 % do valor referido na alínea anterior, do 4.º ao 7.º ataque;\n\nc) A 70 % do valor referido na alínea a), do 8.º ao 11.º ataque;\n\nd) A 50 % do valor referido na alínea a), do 12.º ao 15.º ataque.\n\n5 - O montante da indemnização é reduzido em 50 % do valor referido no n.º 2, e conforme a regressão progressiva descrita no número anterior, caso os animais objeto de dano, no momento do ataque, não cumpram nenhum dos seguintes requisitos de segurança:\n\na) Estarem guardados por pastor e por cão de proteção de gado, da propriedade do produtor e com as obrigações legais em matéria de registo animal cumpridas, na seguinte proporção:\n\ni) Em caso de bovinos, equinos, asininos ou seus cruzamentos, 1 cão de proteção de gado por cada 50 cabeças normais, até ao limite exigível de 5 cães no total;\n\nii) Em caso de ovinos ou caprinos, 1 cão de proteção de gado por cada 10 cabeças normais, até ao limite exigível de 5 cães no total;\n\nb) Estarem confinados em locais com estruturas adequadas à sua proteção contra eventuais ataques de lobo.\n\n6 - Para efeitos do disposto no número anterior, considera-se cabeça normal (CN) a unidade padrão de equivalência usada para comparar e agregar números de animais de diferentes espécies ou categorias, tendo em consideração a espécie animal e a idade, constante da tabela anexa ao presente decreto-lei e do qual faz parte integrante.\n\n7 - No caso de danos provocados em cães de proteção de gado e cães de condução de gado, quando no exercício das suas funções, o valor da indemnização devida é sempre o previsto na alínea a) do n.º 4, independentemente do número de ataques de lobo.\n\n8 - Se os danos a indemnizar por ataque de lobo forem de ferimentos nos animais, a indemnização devida é a seguinte, sem prejuízo do disposto nos n.os 4, 5 e 7:\n\na) Se a gravidade dos ferimentos permitir concluir que o animal não vai sobreviver ou que fica incapacitado para o desempenho das suas funções, o produtor deve providenciar o seu abate e é indemnizado de acordo com o valor fixado no despacho referido no n.º 2;\n\nb) Se a gravidade dos ferimentos permitir concluir que o animal vai sobreviver e manter a capacidade para o desempenho das suas funções, o produtor deve proceder ao seu tratamento e é indemnizado pelo valor das despesas inerentes a esse tratamento, contra a apresentação de comprovativo de despesa em nome do respetivo produtor, até ao valor fixado no despacho referido no n.º 2;\n\nc) Se o animal previsto na alínea anterior vier a morrer até 30 dias após o ataque do lobo, em consequência dos ferimentos causados diretamente pelo lobo, o produtor é indemnizado pelas despesas contraídas com o seu tratamento nos termos da alínea anterior, e pela morte do animal, nos termos previstos na alínea a).\n\n9 - Para efeitos de pagamento das indemnizações previstas no n.º 2, os produtores devem proceder à sua inscrição na base de dados de beneficiários do IFAP, I. P., ou atualizar os respetivos dados, caso se verifiquem alterações ou necessidade de informação suplementar.\n\n10 - A indemnização por danos em animais referida nos números anteriores é equiparada a subsídio ou subvenção, para os efeitos previstos no artigo 21.º e no artigo 36.º do Decreto-Lei n.º 28/84, de 20 de janeiro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2025 - Diário da República n.º 224/2025, Série I de 2025-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2025-947168580), em vigor a partir de 2025-11-20, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "947235127": {
+   "fragment_id": "187455253",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime sancionatório"
+  },
+  "947235128": {
+   "fragment_id": "187455259",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "947235129": {
+   "fragment_id": "187455263",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de junho de 2016. - Augusto Ernesto Santos Silva - José Fernando Gomes Mendes - Luís Medeiros Vieira.\n\nPromulgado em 9 de agosto de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 11 de agosto de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "947235130": {
+   "fragment_id": "947233452",
+   "type": 14,
+   "heading": "Anexo — Conversão de cabeças normais",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Anexo do/a [Decreto-Lei n.º 122/2025 - Diário da República n.º 224/2025, Série I de 2025-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2025-947168580), em vigor a partir de 2025-11-20, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo — Conversão de cabeças normais\n\n(Tabela a que se refere o n.º 6 do artigo 10.º)\n\n| Espécies | Cabeças normais (CN) |  |\n| --- | --- | --- |\n| Touros, vacas e outros bovinos com mais de 2 anos e equídeos com mais de 6 meses | 1,000 |  |\n| Bovinos de 6 meses a 2 anos | 0,600 |  |\n| Bovinos com menos de 6 meses | 0,400 |  |\n| Ovinos com mais de 1 ano | 0,150 |  |\n| Ovinos com menos de 1 ano | 0,070 |  |\n| Caprinos com mais de 1 ano | 0,150 |  |\n| Caprinos com menos de 1 ano | 0,070 |  |\n| Equídeos com menos de 6 meses | 0,400 |  |\n\n> Aditado pelo/a Anexo do/a [Decreto-Lei n.º 122/2025 - Diário da República n.º 224/2025, Série I de 2025-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2025-947168580), em vigor a partir de 2025-11-20, produz efeitos a partir de 2025-01-01"
+  },
+  "1154812475": {
+   "fragment_id": "187455249",
+   "type": 11,
+   "heading": "Artigo 8.º — Danos em animais",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 158/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2026-1154275215), em vigor a partir de 2026-08-05.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 8.º — Danos em animais\n\n1 - Quando ocorram danos em animais atribuíveis diretamente ao lobo-ibérico, os mesmos são passíveis de indemnização ao respetivo produtor, mediante participação, efetuada diretamente pelo interessado ou por quem o represente, na área reservada do portal do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), nos termos do disposto nos números seguintes.\n\n2 - São passíveis de indemnização os danos provocados em:\n\na) Bovinos, caprinos e ovinos;\n\nb) Equinos, asininos e seus cruzamentos;\n\nc) Cães de proteção de gado e cães de condução de gado, quando no exercício das suas funções.\n\n3 - Quando de um ataque de lobo-ibérico resultar o desaparecimento de animais, os danos causados, atribuíveis diretamente ao lobo-ibérico, devem ser considerados para efeitos de indemnização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 158/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2026-1154275215), em vigor a partir de 2026-08-05.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "1154812675": {
+   "fragment_id": "187455250",
+   "type": 11,
+   "heading": "Artigo 9.º — Verificação dos danos em animais",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 158/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2026-1154275215), em vigor a partir de 2026-08-05.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 9.º — Verificação dos danos em animais\n\n1 - Recebida a participação a que se refere o artigo anterior, o ICNF, I. P., procede, no prazo de três dias, a uma vistoria ao local da ocorrência e aos animais afetados, sendo elaborado um relatório da mesma.\n\n2 - O produtor dos animais objeto de dano ou o seu representante tem o dever de colaborar no agendamento e na realização dessa vistoria, designadamente disponibilizando-se para comparecer no local, na data e na hora definidas para a mesma, bem como prestar todas as informações relevantes para a elaboração do respetivo relatório.\n\n3 - Do relatório referido nos números anteriores consta:\n\na) A identificação do produtor dos animais ou do seu representante;\n\nb) A marca ou as marcas da exploração;\n\nc) O local da ocorrência e data e hora da mesma, se conhecidas;\n\nd) O número de identificação individual, constante dos registos oficiais, do animal ou dos animais que sofreram os danos ou, na ausência daquele, a sua espécie, a sua raça, a sua idade e o seu sexo;\n\ne) A descrição dos danos apurados;\n\nf) A referência relativa ao cumprimento ou não dos requisitos de segurança referidos no n.º 5 do artigo seguinte;\n\ng) Outros elementos de interesse para a atribuição, ou não, do dano à ação do lobo, bem como para a determinação do valor a ter em conta no cálculo da indemnização;\n\nh) A data da vistoria e a assinatura dos intervenientes na mesma.\n\ni) Caso o animal atacado permaneça desaparecido à data da vistoria, a análise dos elementos de prova que indiciem como resultado a sua morte.\n\n4 - Findo o procedimento referido nos números anteriores, o ICNF, I. P., determina se os danos sofridos são efetivamente passíveis de indemnização ou não.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 158/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2026-1154275215), em vigor a partir de 2026-08-05.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "1154812875": {
+   "fragment_id": "187455251",
+   "type": 11,
+   "heading": "Artigo 10.º — Indemnização",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 158/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2026-1154275215), em vigor a partir de 2026-08-05.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2025 - Diário da República n.º 224/2025, Série I de 2025-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2025-947168580), em vigor a partir de 2025-11-20, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 10.º — Indemnização\n\n1 - As indemnizações de danos causados por lobo-ibérico enquadram-se no Regulamento (UE) 2022/2472, da Comissão Europeia, de 14 de dezembro de 2022.\n\n2 - A indemnização a atribuir é calculada com base nos valores definidos em despacho dos membros do Governo responsáveis pelas áreas do ambiente e da agricultura.\n\n3 - Se o relatório referido no artigo anterior permitir concluir que os danos participados podem ter sido diretamente causados por lobo-ibérico, os mesmos dão lugar a pagamento de indemnização.\n\n4 - [Revogado.]\n\n5 - O montante da indemnização é reduzido em 50 % do valor referido no n.º 2, caso os animais objeto de dano, no momento do ataque, não cumpram nenhum dos seguintes requisitos de segurança:\n\na) Estarem guardados por pastor e por cão de proteção de gado, da propriedade do produtor e com as obrigações legais em matéria de registo animal cumpridas, na seguinte proporção:\n\ni) Em caso de bovinos, equinos, asininos ou seus cruzamentos, 1 cão de proteção de gado por cada 50 cabeças normais, até ao limite exigível de 5 cães no total;\n\nii) Em caso de ovinos ou caprinos, 1 cão de proteção de gado por cada 10 cabeças normais, até ao limite exigível de 5 cães no total;\n\nb) Estarem confinados em locais com estruturas adequadas à sua proteção contra eventuais ataques de lobo.\n\n6 - Para efeitos do disposto no número anterior, considera-se cabeça normal (CN) a unidade padrão de equivalência usada para comparar e agregar números de animais de diferentes espécies ou categorias, tendo em consideração a espécie animal e a idade, constante da tabela anexa ao presente decreto-lei e do qual faz parte integrante.\n\n7 - No caso de danos provocados em cães de proteção de gado e cães de condução de gado, no exercício daquelas funções, o valor da indemnização devida é o previsto no despacho mencionado no n.º 2.\n\n8 - Se os danos a indemnizar por ataque de lobo forem de ferimentos nos animais, a indemnização devida é a seguinte, sem prejuízo do disposto no n.º 5:\n\na) Se a gravidade dos ferimentos permitir concluir que o animal não vai sobreviver ou que fica incapacitado para o desempenho das suas funções, o produtor deve providenciar o seu abate e é indemnizado de acordo com o valor fixado no despacho referido no n.º 2;\n\nb) Se a gravidade dos ferimentos permitir concluir que o animal vai sobreviver e manter a capacidade para o desempenho das suas funções, o produtor deve proceder ao seu tratamento e é indemnizado pelo valor das despesas inerentes a esse tratamento, contra a apresentação de comprovativo de despesa em nome do respetivo produtor, até ao valor fixado no despacho referido no n.º 2;\n\nc) Se o animal previsto na alínea anterior vier a morrer até 30 dias após o ataque do lobo, em consequência dos ferimentos causados diretamente pelo lobo, o produtor é indemnizado pelas despesas contraídas com o seu tratamento nos termos da alínea anterior, e pela morte do animal, nos termos previstos na alínea a).\n\n9 - Para efeitos de pagamento das indemnizações previstas no n.º 2, os produtores devem proceder à sua inscrição na base de dados de beneficiários do IFAP, I. P., ou atualizar os respetivos dados, caso se verifiquem alterações ou necessidade de informação suplementar.\n\n10 - A indemnização por danos em animais referida nos números anteriores é equiparada a subsídio ou subvenção, para os efeitos previstos no artigo 21.º e no artigo 36.º do Decreto-Lei n.º 28/84, de 20 de janeiro, na sua redação atual.\n\n11 - Nos casos referidos no n.º 3 do artigo 8.º, em caso de aparecimento do animal atacado ou do respetivo cadáver, este facto deve ser comunicado até sete dias seguidos após a participação a que se refere o n.º 1 do artigo 8.º\n\n12 - Nos casos referidos no número anterior, a indemnização a atribuir é a constante do n.º 2, sem prejuízo do disposto nos n.os 5 e 8.\n\n13 - Caso o animal não apareça no prazo de sete dias seguidos após a participação a que se refere o n.º 1 do artigo 8.º, a indemnização a que se refere o número anterior é reduzida em 50 %.\n\n14 - Caso o animal objeto do dano tenha idade inferior a um mês, o valor da indemnização previsto nos termos do n.º 2, corresponde a 50 % do valor previsto para a classe de idade cujo limite mínimo seja um mês, sem prejuízo do disposto nos n.os 5 e 8.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 158/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2026-1154275215), em vigor a partir de 2026-08-05.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 122/2025 - Diário da República n.º 224/2025, Série I de 2025-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2025-947168580), em vigor a partir de 2025-11-20, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  },
+  "1154813075": {
+   "fragment_id": "187455252",
+   "type": 11,
+   "heading": "Artigo 11.º — Exclusão e suspensão da indemnização",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 158/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2026-1154275215), em vigor a partir de 2026-08-05.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+   ],
+   "markdown": "###### Artigo 11.º — Exclusão e suspensão da indemnização\n\n1 - Não há lugar a indemnização quando:\n\na) [Revogado];\n\nb) O corpo ou as partes do animal objeto de dano ou quaisquer outros vestígios dessa mesma ocorrência tiverem sido removidos antes da vistoria a que se refere o n.º 1 do artigo 9.º, a menos que tenha sido concedida autorização para o efeito pelo ICNF, I. P.;\n\nc) As obrigações legais, em matéria de registo animal, não se mostrarem cumpridas em relação aos animais em causa;\n\nd) O lesado não colaborar no agendamento ou na realização da vistoria prevista no artigo 9.º\n\n2 - Não há, igualmente, lugar a indemnização quando:\n\na) O lesado tenha sido condenado pela prática de um dos crimes ou de uma das contraordenações muito graves previstas no presente decreto-lei, tendo a condenação transitado em julgado nos cinco anos anteriores ao pedido de indemnização;\n\nb) O lesado tenha sido condenado pela prática de uma das contraordenações graves previstas no presente decreto-lei, tendo a condenação transitado em julgado nos três anos anteriores ao pedido de indemnização.\n\n3 - Quando o titular do direito de indemnização for arguido em processo penal ou contraordenacional relativo aos ilícitos a que se refere o número anterior, o processo de indemnização suspende-se até trânsito em julgado da decisão naquele processo.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 158/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2026-1154275215), em vigor a partir de 2026-08-05.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2025 - Diário da República n.º 71/2025, Série I de 2025-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2025-914597186), em vigor a partir de 2025-04-15"
+  }
+ }
+}

@@ -1,0 +1,456 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R2508:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R2508-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2000-11-16",
+   "future": false,
+   "celex": "32000R2508",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5a9dac4c08cae6e0",
+    "6323529c5dd18c76",
+    "f241405ce070e674",
+    "02cde55257880d06",
+    "ce414f0065085529",
+    "2d0a5f1d533aa0a8",
+    "6f705f36380cf312",
+    "947e99429c9cd373",
+    "4fe0ec07ebe3035c",
+    "4a5c06e3ca0a3222",
+    "e5b2580d5c96b2e7",
+    "960c996b3365a301",
+    "067bc980b1b9f590",
+    "94365a5f9e6f74b3",
+    "046b30548f5a0f14",
+    "c4849881cf3b9ff8",
+    "2436cc19b10584b6",
+    "a44f9ff9ca527f46"
+   ]
+  },
+  {
+   "date": "2013-12-14",
+   "future": false,
+   "celex": "02000R2508-20131214",
+   "acts": [
+    {
+     "id": "eu:celex:32013R1282:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32013R1282"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 13.º",
+    "Adita CAPÍTULO I",
+    "Adita Estratégia de comercialização e plano de captura das organizações de produtores do sector das pescas",
+    "Adita CAPÍTULO II",
+    "Adita Estratégia de comercialização e plano de produção das organizações de produtores do sector da aquicultura",
+    "Adita CAPÍTULO III",
+    "Adita Medidas aplicáveis às espécies dos anexos I, IV e V do Regulamento (CE) n.º 104/2000",
+    "Adita CAPÍTULO IV",
+    "Adita Aspectos processuais",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — Estratégia de comercialização e plano de captura das organizações de produtores do sector das pescas",
+    "Suprime CAPÍTULO II — Estratégia de comercialização e plano de produção das organizações de produtores do sector da aquicultura",
+    "Suprime CAPÍTULO III — Medidas aplicáveis às espécies dos anexos I, IV e V do Regulamento (CE) n.o 104/2000",
+    "Suprime CAPÍTULO IV — Aspectos processuais"
+   ],
+   "fragments": [
+    "29f68a7d48d4deb4",
+    "226c39ffd0a88dad",
+    "ba38b7b2a010e4cc",
+    "fac399c32cf26be5",
+    "457e29fb8a31bb17",
+    "f0f8c960bfdbce9b",
+    "3bfc5ddd333451ec",
+    "1477c873eef470fb",
+    "a5367dc81d5b7329",
+    "1e7a0903d2eed348",
+    "b80f2f9fb3175162",
+    "f0c70d7f6fb6cb0a",
+    "5ea8fb2217a0bf72",
+    "819927a005cb7a81",
+    "c1fe933eae62a1a3",
+    "1ecfc79da3f1ac7f",
+    "2a1748012d4ad859",
+    "94365a5f9e6f74b3",
+    "2f68e2c06ec14fbb",
+    "d5c2c4c53345a6ca",
+    "9c6be3b322d11a6f",
+    "40ed98ce7be998e6",
+    "50571498d627f4f0"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02000R2508-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime Estratégia de comercialização e plano de captura das organizações de produtores do sector das pescas",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime CAPÍTULO II",
+    "Suprime Estratégia de comercialização e plano de produção das organizações de produtores do sector da aquicultura",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime CAPÍTULO III",
+    "Suprime Medidas aplicáveis às espécies dos anexos I, IV e V do Regulamento (CE) n.º 104/2000",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime Aspectos processuais",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "d8d00d2c0a486742"
+   ]
+  }
+ ],
+ "fragments": {
+  "5a9dac4c08cae6e0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.o 2508/2000 da Comissão, de 15 de Novembro de 2000, que estabelece as regras de execução do Regulamento (CE) n.o 104/2000 do Conselho no que diz respeito aos programas operacionais no sector das pescas** *Jornal Oficial nº L 289 de 16/11/2000 p. 0008 - 0010*\n\nRegulamento (CE) n.o 2508/2000 da Comissão\n\nde 15 de Novembro de 2000\n\nque estabelece as regras de execução do Regulamento (CE) n.o 104/2000 do Conselho no que diz respeito aos programas operacionais no sector das pescas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 104/2000 do Conselho, de 17 de Dezembro de 1999, que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura(1), e, nomeadamente, o n.o 5 do seu artigo 9.o e o n.o 4 do seu artigo 10.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 104/2000 estabelece que as organizações de produtores devem apresentar, no início de cada campanha de pesca, um programa operacional de planificação da oferta e fixar antecipadamente as entregas dos seus membros.\n\n(2) O conteúdo do programa operacional deve ser definido de tal forma que as organizações de produtores cumpram as suas obrigações. Em consequência, é necessário precisar os elementos necessários na estratégia de comercialização, no plano de captura e no plano de produção das organizações de produtores do sector das pescas e do sector da aquicultura.\n\n(3) As organizações de produtores devem assegurar uma disciplina interna, por forma a garantir a execução do programa operacional. As sanções devem ser proporcionadas relativamente à infracção e previamente comunicadas aos membros.\n\n(4) O calendário estabelecido para a apresentação dos programas operacionais pelas organizações de produtores e para a sua aprovação pelas autoridades nacionais competentes deve ser estabelecido de forma a garantir uma aplicação eficaz das medidas tomadas.\n\n(5) Deve ser concedido um adiantamento às organizações de produtores, a fim de cobrir uma parte dos custos financeiros suportados aquando do estabelecimento dos programas operacionais.\n\n(6) Convém prever a apresentação de um relatório sobre a execução do programa operacional no final da campanha de pesca a fim de permitir à organização de produtores avaliar a eficácia do seu programa e às autoridades nacionais determinar se deve ser concedida a compensação financeira.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Produtos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6323529c5dd18c76": {
+   "fragment_id": "CAPÍTULO I — Estratégia de comercialização e plano de captura das organizações de produtores do sector das pescas",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Estratégia de comercialização e plano de captura das organizações de produtores do sector das pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Estratégia de comercialização e plano de captura das organizações de produtores do sector das pescas"
+  },
+  "f241405ce070e674": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nRelativamente às espécies constantes dos anexos I e IV do Regulamento (CE) n.o 104/2000, a estratégia de comercialização referida no n.o 1, alínea a), do artigo 9.o do mesmo regulamento conterá os seguintes elementos:\n\na) Número de membros registados da organização de produtores no primeiro dia da campanha de pesca, como definido no n.o 1 do artigo 9.o do presente regulamento;\n\nb) Número e tipo dos navios de pesca membros da organização de produtores no primeiro dia da campanha de pesca;\n\nc) Volume de produção e das operações de intervenção por espécie na campanha anterior;\n\nd) Volume de negócios global da organização de produtores na campanha anterior;\n\ne) Quota atribuída à organização de produtores por espécie;\n\nf) Percentagem de pescado vendido nas lotas ou por outros na campanha anterior;\n\ng) Estratégia de melhoramento ou de manutenção da qualidade dos produtos escoados através da organização de produtores ou dos seus membros;\n\nh) Rotulagem dos produtos voluntária ou outras actividades de promoção;\n\ni) Novos mercados propostos ou outras possibilidades comerciais."
+  },
+  "02cde55257880d06": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As espécies que representam uma parte significativa dos desembarques da organização de produtores são as espécies que contribuem:\n\na) Com pelo menos 5 % da produção total da organização de produtores na campanha anterior, em volume ou em valor, no caso das espécies sujeitas a quotas de captura, fixadas em conformidade com o n.o 4 do artigo 8.o do Regulamento (CEE) n.o 3760/92 do Conselho(2); ou\n\nb) Com pelo menos 10 % da produção total da organização de produtores na campanha anterior, em volume ou em valor, no caso das espécies não sujeitas às quotas de captura referidas na alínea a).\n\n2. Relativamente às espécies referidas no n.o 1, alínea b), do artigo 9.o do Regulamento (CE) n.o 104/2000 que cumpram os requisitos do n.o 1 do presente artigo, o plano de captura incluirá um programa indicativo da oferta estabelecido ao longo da campanha de pesca e baseado nas tendências sazonais (preços, produção e procura) no mercado.\n\n3. Sempre que não se verifiquem dificuldades de mercado e, especialmente, retiradas, o plano de captura poderá ser simplificado.\n\n4. Se, num Estado-Membro, forem estabelecidos planos de captura num nível diferente do das organizações de produtores, a organização de produtores poderá referir-se a esses planos.\n\nContudo, a existência desses planos não isenta a organização de produtores de adoptar medidas complementares para adaptar a oferta dos seus membros, como indicado no artigo 5.o"
+  },
+  "ce414f0065085529": {
+   "fragment_id": "CAPÍTULO II — Estratégia de comercialização e plano de produção das organizações de produtores do sector da aquicultura",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Estratégia de comercialização e plano de produção das organizações de produtores do sector da aquicultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Estratégia de comercialização e plano de produção das organizações de produtores do sector da aquicultura"
+  },
+  "2d0a5f1d533aa0a8": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nRelativamente às espécies constantes do anexo V do Regulamento (CE) n.o 104/2000, a estratégia de comercialização referida no n.o 1, alínea a), do artigo 9.o do mesmo regulamento conterá os seguintes elementos:\n\na) Número de membros registados da organização de produtores no primeiro dia da campanha de pesca, como definido no n.o 1 do artigo 9.o do presente regulamento;\n\nb) Volume de espécies capturadas na campanha anterior;\n\nc) Preço médio de venda das espécies em causa na campanha anterior;\n\nd) Volume de negócios global da organização de produtores na campanha anterior;\n\ne) Método de cultura utilizado;\n\nf) Estações altas de produção e venda;\n\ng) Estratégia de melhoramento ou de manutenção da qualidade dos produtos escoados através da organização de produtores ou dos seus membros;\n\nh) Rotulagem voluntária dos produtos ou outras actividades de promoção;\n\ni) Avaliação do mercado, incluindo novos mercados propostos ou outras possibilidades comerciais."
+  },
+  "6f705f36380cf312": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO plano de produção referido no n.o 1, segundo travessão da alínea b), do artigo 9.o do Regulamento (CE) n.o 104/2000 incluirá um programa indicativo da oferta para a campanha de pesca com base nos factores de produção sazonais e nas tendências previstas no mercado."
+  },
+  "947e99429c9cd373": {
+   "fragment_id": "CAPÍTULO III — Medidas aplicáveis às espécies dos anexos I, IV e V do Regulamento (CE) n.o 104/2000",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Medidas aplicáveis às espécies dos anexos I, IV e V do Regulamento (CE) n.o 104/2000",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Medidas aplicáveis às espécies dos anexos I, IV e V do Regulamento (CE) n.o 104/2000"
+  },
+  "4fe0ec07ebe3035c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO programa operacional referido no n.o 1 do artigo 9.o do Regulamento (CE) n.o 104/2000 exporá os motivos de quaisquer dificuldades tradicionais de comercialização registadas nas últimas campanhas e especificará as medidas preventivas tomadas para adaptar a oferta."
+  },
+  "4a5c06e3ca0a3222": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. As organizações de produtores tomarão todas as medidas necessárias para tentar resolver a situação sempre que as condições de mercado mudem de forma a que:\n\na) As retiradas em percentagem das quantidades colocadas à venda em qualquer mês aumentem 5 pontos percentuais em comparação com a percentagem média de retiradas dos três meses anteriores; ou\n\nb) Surjam outras dificuldades graves no mercado.\n\nOs produtos retirados para efeitos da ajuda ao reporte em conformidade com o artigo 23.o e n.o 4 do artigo 24.o do Regulamento (CE) n.o 104/2000 não serão considerados retiradas para efeitos do presente número.\n\n2. As organizações de produtores informarão as autoridades competentes do Estado-Membro de quaisquer medidas tomadas em conformidade com o n.o 1. Não será necessário proceder a uma revisão do programa operacional, excepto se as autoridades competentes do Estado-Membro o exigirem."
+  },
+  "e5b2580d5c96b2e7": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs organizações de produtores estabelecerão e colocarão à disposição de todos os seus membros uma lista das sanções referidas no n.o 1, alínea d), do artigo 9.o do Regulamento (CE) n.o 104/2000.\n\nAs sanções serão proporcionadas relativamente à infracção."
+  },
+  "960c996b3365a301": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs circunstâncias imprevistas referidas no n.o 1 do artigo 9.o do Regulamento (CE) n.o 104/2000 serão acontecimentos independentes das acções da organização de produtores que afectem o mercado das espécies em causa."
+  },
+  "067bc980b1b9f590": {
+   "fragment_id": "CAPÍTULO IV — Aspectos processuais",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Aspectos processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Aspectos processuais"
+  },
+  "94365a5f9e6f74b3": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A campanha de pesca decorrerá durante um período de 12 meses, com início, normalmente, em 1 de Janeiro, a não ser que um período ou uma data de início alternativos se justifiquem e sejam aprovados pelas autoridades competentes do Estado-Membro.\n\n2. As organizações de produtores apresentarão os seus programas operacionais no prazo de sete semanas a contar do início da campanha de pesca. A organização de produtores executará imediatamente o programa.\n\n3. O Estado-Membro interessado aprovará o programa operacional no prazo de 12 semanas a contar do início da campanha de pesca.\n\nSe o Estado-Membro pretender que a organização de produtores introduza alterações importantes no programa, o prazo de aprovação será prorrogado por duas semanas."
+  },
+  "046b30548f5a0f14": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nApós ter aprovado o programa operacional, e o mais tardar quatro meses após o início da campanha de pesca, o Estado-Membro em causa pode conceder um adiantamento de 50 % do valor da indemnização concedida à organização de produtores ao abrigo do n.o 1 do artigo 10.o do Regulamento (CE) n.o 104/2000, sob condição de a organização de produtores ter constituído uma garantia não inferior a 105 % do montante do adiantamento."
+  },
+  "c4849881cf3b9ff8": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. O número de navios utilizado para calcular o montante mencionado no n.o 2, alínea a), do artigo 10.o do Regulamento (CE) n.o 104/2000 será o número total de navios membros da organização de produtores no primeiro dia da campanha de pesca.\n\n2. O grau de representatividade de uma organização de produtores utilizado para calcular o montante mencionado no n.o 2, alínea b), do artigo 10.o do Regulamento (CE) n.o 104/2000 será estabelecido com base nos dados da campanha anterior à campanha para a qual é estabelecido o programa operacional.\n\n3. O período de cinco anos referido no n.o 1, segundo e terceiro parágrafos, do artigo 10.o e no anexo VII do Regulamento (CE) n.o 104/2000 será igual a cinco das campanhas de pesca definidas no n.o 1 do artigo 9.o do presente regulamento."
+  },
+  "2436cc19b10584b6": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nNo prazo de sete semanas a contar do final da campanha de pesca, as organizações de produtores estabelecerão um relatório das suas actividades e enviá-lo-ão às autoridades competentes do Estado-Membro. O relatório incluirá os seguintes elementos:\n\na) Um relatório sobre o mercado das espécies cobertas pelo programa operacional, que será centrado em quaisquer dificuldades de comercialização verificadas durante a campanha, nas medidas adoptadas para fazer face a essas dificuldades, tais como as referidas no artigo 6.o, incluindo as sanções adoptadas e, se for caso disso, nos motivos pelos quais a organização de produtores não pôde resolver essas dificuldades;\n\nb) Uma cópia das regras da organização de produtores, no primeiro ano de execução do programa, bem como, posteriormente, quaisquer alterações dessas regras;\n\nc) A lista das sanções estabelecida pela organização de produtores nos termos do artigo 7.o"
+  },
+  "a44f9ff9ca527f46": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 2001.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 15 de Novembro de 2000.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) JO L 17 de 21.1.2000, p. 22.\n\n(2) JO L 389 de 31.12.1992, p. 1."
+  },
+  "29f68a7d48d4deb4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Novembro de 2000\n\nque estabelece as regras de execução do Regulamento (CE) n.º 104/2000 do Conselho no que diz respeito aos programas operacionais no sector das pescas\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 104/2000 do Conselho, de 17 de Dezembro de 1999, que estabelece a organização comum de mercado no sector dos produtos da pesca e da aquicultura ([^1^](http://publications.europa.eu/resource/cellar/70a8fed6-6885-4ace-bd28-0f2c32bc7d12.0019.02/DOC_1#E0001)), e, nomeadamente, o n.º 5 do seu artigo 9.º e o n.º 4 do seu artigo 10.º,\n\n(1) O Regulamento (CE) n.º 104/2000 estabelece que as organizações de produtores devem apresentar, no início de cada campanha de pesca, um programa operacional de planificação da oferta e fixar antecipadamente as entregas dos seus membros.\n\n(2) O conteúdo do programa operacional deve ser definido de tal forma que as organizações de produtores cumpram as suas obrigações. Em consequência, é necessário precisar os elementos necessários na estratégia de comercialização, no plano de captura e no plano de produção das organizações de produtores do sector das pescas e do sector da aquicultura.\n\n(3) As organizações de produtores devem assegurar uma disciplina interna, por forma a garantir a execução do programa operacional. As sanções devem ser proporcionadas relativamente à infracção e previamente comunicadas aos membros.\n\n(4) O calendário estabelecido para a apresentação dos programas operacionais pelas organizações de produtores e para a sua aprovação pelas autoridades nacionais competentes deve ser estabelecido de forma a garantir uma aplicação eficaz das medidas tomadas.\n\n(5) Deve ser concedido um adiantamento às organizações de produtores, a fim de cobrir uma parte dos custos financeiros suportados aquando do estabelecimento dos programas operacionais.\n\n(6) Convém prever a apresentação de um relatório sobre a execução do programa operacional no final da campanha de pesca a fim de permitir à organização de produtores avaliar a eficácia do seu programa e às autoridades nacionais determinar se deve ser concedida a compensação financeira.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão dos Produtos da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "ba38b7b2a010e4cc": {
+   "fragment_id": "Estratégia de comercialização e plano de captura das organizações de produtores do sector das pescas",
+   "type": "divisao",
+   "heading": "Estratégia de comercialização e plano de captura das organizações de produtores do sector das pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Estratégia de comercialização e plano de captura das organizações de produtores do sector das pescas"
+  },
+  "fac399c32cf26be5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nRelativamente às espécies constantes dos anexos I e IV do Regulamento (CE) n.º 104/2000, a estratégia de comercialização referida no n.º 1, alínea a), do artigo 9.º do mesmo regulamento conterá os seguintes elementos:\n\na) Número de membros registados da organização de produtores no primeiro dia da campanha de pesca, como definido no n.º 1 do artigo 9.º do presente regulamento;\n\nb) Número e tipo dos navios de pesca membros da organização de produtores no primeiro dia da campanha de pesca;\n\nc) Volume de produção e das operações de intervenção por espécie na campanha anterior;\n\nd) Volume de negócios global da organização de produtores na campanha anterior;\n\ne) Quota atribuída à organização de produtores por espécie;\n\nf) Percentagem de pescado vendido nas lotas ou por outros na campanha anterior;\n\ng) Estratégia de melhoramento ou de manutenção da qualidade dos produtos escoados através da organização de produtores ou dos seus membros;\n\nh) Rotulagem dos produtos voluntária ou outras actividades de promoção;\n\ni) Novos mercados propostos ou outras possibilidades comerciais."
+  },
+  "457e29fb8a31bb17": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As espécies que representam uma parte significativa dos desembarques da organização de produtores são as espécies que contribuem:\n\na) Com pelo menos 5 % da produção total da organização de produtores na campanha anterior, em volume ou em valor, no caso das espécies sujeitas a quotas de captura, fixadas em conformidade com o n.º 4 do artigo 8.º do Regulamento (CEE) n.º 3760/92 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/70a8fed6-6885-4ace-bd28-0f2c32bc7d12.0019.02/DOC_1#E0002)); ou\n\nb) Com pelo menos 10 % da produção total da organização de produtores na campanha anterior, em volume ou em valor, no caso das espécies não sujeitas às quotas de captura referidas na alínea a).\n\n2. Relativamente às espécies referidas no n.º 1, alínea b), do artigo 9.º do Regulamento (CE) n.º 104/2000 que cumpram os requisitos do n.º 1 do presente artigo, o plano de captura incluirá um programa indicativo da oferta estabelecido ao longo da campanha de pesca e baseado nas tendências sazonais (preços, produção e procura) no mercado.\n\n3. Sempre que não se verifiquem dificuldades de mercado e, especialmente, retiradas, o plano de captura poderá ser simplificado.\n\n4. Se, num Estado-Membro, forem estabelecidos planos de captura num nível diferente do das organizações de produtores, a organização de produtores poderá referir-se a esses planos.\n\nContudo, a existência desses planos não isenta a organização de produtores de adoptar medidas complementares para adaptar a oferta dos seus membros, como indicado no artigo 5.º"
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "3bfc5ddd333451ec": {
+   "fragment_id": "Estratégia de comercialização e plano de produção das organizações de produtores do sector da aquicultura",
+   "type": "divisao",
+   "heading": "Estratégia de comercialização e plano de produção das organizações de produtores do sector da aquicultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Estratégia de comercialização e plano de produção das organizações de produtores do sector da aquicultura"
+  },
+  "1477c873eef470fb": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nRelativamente às espécies constantes do anexo V do Regulamento (CE) n.º 104/2000, a estratégia de comercialização referida no n.º 1, alínea a), do artigo 9.º do mesmo regulamento conterá os seguintes elementos:\n\na) Número de membros registados da organização de produtores no primeiro dia da campanha de pesca, como definido no n.º 1 do artigo 9.º do presente regulamento;\n\nb) Volume de espécies capturadas na campanha anterior;\n\nc) Preço médio de venda das espécies em causa na campanha anterior;\n\nd) Volume de negócios global da organização de produtores na campanha anterior;\n\ne) Método de cultura utilizado;\n\nf) Estações altas de produção e venda;\n\ng) Estratégia de melhoramento ou de manutenção da qualidade dos produtos escoados através da organização de produtores ou dos seus membros;\n\nh) Rotulagem voluntária dos produtos ou outras actividades de promoção;\n\ni) Avaliação do mercado, incluindo novos mercados propostos ou outras possibilidades comerciais."
+  },
+  "a5367dc81d5b7329": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO plano de produção referido no n.º 1, segundo travessão da alínea b), do artigo 9.º do Regulamento (CE) n.º 104/2000 incluirá um programa indicativo da oferta para a campanha de pesca com base nos factores de produção sazonais e nas tendências previstas no mercado."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "b80f2f9fb3175162": {
+   "fragment_id": "Medidas aplicáveis às espécies dos anexos I, IV e V do Regulamento (CE) n.º 104/2000",
+   "type": "divisao",
+   "heading": "Medidas aplicáveis às espécies dos anexos I, IV e V do Regulamento (CE) n.º 104/2000",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas aplicáveis às espécies dos anexos I, IV e V do Regulamento (CE) n.º 104/2000"
+  },
+  "f0c70d7f6fb6cb0a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO programa operacional referido no n.º 1 do artigo 9.º do Regulamento (CE) n.º 104/2000 exporá os motivos de quaisquer dificuldades tradicionais de comercialização registadas nas últimas campanhas e especificará as medidas preventivas tomadas para adaptar a oferta."
+  },
+  "5ea8fb2217a0bf72": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. As organizações de produtores tomarão todas as medidas necessárias para tentar resolver a situação sempre que as condições de mercado mudem de forma a que:\n\na) As retiradas em percentagem das quantidades colocadas à venda em qualquer mês aumentem 5 pontos percentuais em comparação com a percentagem média de retiradas dos três meses anteriores; ou\n\nb) Surjam outras dificuldades graves no mercado.\n\nOs produtos retirados para efeitos da ajuda ao reporte em conformidade com o artigo 23.º e n.º 4 do artigo 24.º do Regulamento (CE) n.º 104/2000 não serão considerados retiradas para efeitos do presente número.\n\n2. As organizações de produtores informarão as autoridades competentes do Estado-Membro de quaisquer medidas tomadas em conformidade com o n.º 1. Não será necessário proceder a uma revisão do programa operacional, excepto se as autoridades competentes do Estado-Membro o exigirem."
+  },
+  "819927a005cb7a81": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs organizações de produtores estabelecerão e colocarão à disposição de todos os seus membros uma lista das sanções referidas no n.º 1, alínea d), do artigo 9.º do Regulamento (CE) n.º 104/2000.\n\nAs sanções serão proporcionadas relativamente à infracção."
+  },
+  "c1fe933eae62a1a3": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs circunstâncias imprevistas referidas no n.º 1 do artigo 9.º do Regulamento (CE) n.º 104/2000 serão acontecimentos independentes das acções da organização de produtores que afectem o mercado das espécies em causa."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "2a1748012d4ad859": {
+   "fragment_id": "Aspectos processuais",
+   "type": "divisao",
+   "heading": "Aspectos processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Aspectos processuais"
+  },
+  "2f68e2c06ec14fbb": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nApós ter aprovado o programa operacional, e o mais tardar quatro meses após o início da campanha de pesca, o Estado-Membro em causa pode conceder um adiantamento de 50 % do valor da indemnização concedida à organização de produtores ao abrigo do n.º 1 do artigo 10.º do Regulamento (CE) n.º 104/2000, sob condição de a organização de produtores ter constituído uma garantia não inferior a 105 % do montante do adiantamento."
+  },
+  "d5c2c4c53345a6ca": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. O número de navios utilizado para calcular o montante mencionado no n.º 2, alínea a), do artigo 10.º do Regulamento (CE) n.º 104/2000 será o número total de navios membros da organização de produtores no primeiro dia da campanha de pesca.\n\n2. O grau de representatividade de uma organização de produtores utilizado para calcular o montante mencionado no n.º 2, alínea b), do artigo 10.º do Regulamento (CE) n.º 104/2000 será estabelecido com base nos dados da campanha anterior à campanha para a qual é estabelecido o programa operacional.\n\n3. O período de cinco anos referido no n.º 1, segundo e terceiro parágrafos, do artigo 10.º e no anexo VII do Regulamento (CE) n.º 104/2000 será igual a cinco das campanhas de pesca definidas no n.º 1 do artigo 9.º do presente regulamento."
+  },
+  "9c6be3b322d11a6f": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nNo prazo de sete semanas a contar do final da campanha de pesca, as organizações de produtores estabelecerão um relatório das suas actividades e enviá-lo-ão às autoridades competentes do Estado-Membro. O relatório incluirá os seguintes elementos:\n\na) Um relatório sobre o mercado das espécies cobertas pelo programa operacional, que será centrado em quaisquer dificuldades de comercialização verificadas durante a campanha, nas medidas adoptadas para fazer face a essas dificuldades, tais como as referidas no artigo 6.º, incluindo as sanções adoptadas e, se for caso disso, nos motivos pelos quais a organização de produtores não pôde resolver essas dificuldades;\n\nb) Uma cópia das regras da organização de produtores, no primeiro ano de execução do programa, bem como, posteriormente, quaisquer alterações dessas regras;\n\nc) A lista das sanções estabelecida pela organização de produtores nos termos do artigo 7.º"
+  },
+  "40ed98ce7be998e6": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Janeiro de 2001.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "50571498d627f4f0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/70a8fed6-6885-4ace-bd28-0f2c32bc7d12.0019.02/DOC_1#src.E0001)) JO L 17 de 21.1.2000, p. 22.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/70a8fed6-6885-4ace-bd28-0f2c32bc7d12.0019.02/DOC_1#src.E0002)) JO L 389 de 31.12.1992, p. 1."
+  },
+  "d8d00d2c0a486742": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000R2508 — PT — 01.01.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000R2508) [REGULAMENTO (CE) N.º 2508/2000 DA COMISSÃO](http://publications.europa.eu/resource/celex/32000R2508) [de 15 de Novembro de 2000](http://publications.europa.eu/resource/celex/32000R2508) [que estabelece as regras de execução do Regulamento (CE) n.º 104/2000 do Conselho no que diz respeito aos programas operacionais no sector das pescas](http://publications.europa.eu/resource/celex/32000R2508) (JO L 289, 16.11.2000, p.8)\n\n**revogado por:**\n\n- [Regulamento de Execução (UE) n.o 1420/2013 da Comissão de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1420) — L 353 — 48 — 28.12.2013"
+  }
+ }
+}

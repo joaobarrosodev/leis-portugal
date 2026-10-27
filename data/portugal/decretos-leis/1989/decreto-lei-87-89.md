@@ -1,0 +1,226 @@
+---
+schema_version: '1.0'
+id: pt:dre:613933:por
+title: Decreto-Lei n.º 87/89
+short_title: null
+summary: Altera a disposição do Decreto-Lei n.º 519-C1/79, de 29 de Dezembro, sobre a negociação colectiva das relações de
+  trabalho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 87/89
+official_date: null
+publication_date: '1989-03-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 69/1989, Série I de 1989-03-23
+  number: '69'
+  series: I
+  supplement: null
+  pages: 1269 - 1271
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/03/06900/12691271.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '613933'
+  dre_path: /dr/detalhe/decreto-lei/87-1989-613933
+  internal: pt:dre:613933:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1989-613933
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1989-613933
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:57:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ebe3cf4cc0907095229928cff884eedb978d321fbee5ff01517088e123494061
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contratação Colectiva
+- Contrato Coletivo de Trabalho
+- Convenção Coletiva de Trabalho
+- Empresa Pública
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:233312:por
+  label: "Alterados os arts. 16º, 24º e 26º do Dec Lei 519-C1/79 de 29-Dez, com a redacção constante do presente diploma,\
+    \ pelo DEC LEI.209/92.02.10.1992.MESS, DR.IS-A [228] de 02.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1992-233312
+  date: '1992-10-02'
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Alterada a redacção do art. 44.º do Dec Lei 519-C1/79, de 29-Dez DR.IS [299]3ºSupl, na redacção dada pelo presente\
+    \ diploma e pelo Dec Lei 209/92, de 02-Out, pela LEI.118/99.1999.08.11.AR\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: cites
+  target: pt:dre:157052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365946:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:57:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 87/89
+
+de 23 de Março
+
+O [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro, prevê no n.º 1 do artigo 11.º que as convenções colectivas e as decisões arbitrais vigorem pelo prazo que delas conste expressamente.
+
+Não obstante, fixaram-se prazos mínimos de vigência obrigatória, embora no preâmbulo se refira que a nível de princípios tal não é aconselhável.
+
+Razões de política macroeconómica associadas à necessidade de preservação da estabilidade das relações laborais não permitem ainda devolver integralmente aos parceiros sociais a livre fixação dos períodos mínimos de vigência.
+
+Porém, considerando-se que o tempo decorrido desde a entrada em vigor do [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro, permitiu amadurecer e consolidar o sistema de relações profissionais, julga-se oportuno proceder a alguns reajustamentos no que toca à vigência das convenções colectivas e das decisões arbitrais.
+
+Assim, sem prejuízo da reafirmação do princípio geral da entrada em vigor após a publicação, prevê-se que os prazos para a denúncia e depósito dos referidos instrumentos passem a contar-se da data da sua entrega para depósito. Deste modo, aproxima-se a vigência das convenções do momento em que as partes as concluem sem, por outro lado, prescindir da certeza e segurança asseguradas pela intervenção administrativa.
+
+Quanto às empresas públicas e de capitais exclusivamente públicos, a necessidade do requisito adicional da autorização tutelar impõe a adaptação do respectivo regime de depósito em termos de, satisfeitos os demais requisitos, este só se tornar definitivo após a junção de documento comprovativo daquele acto. Permite-se, assim, que a Administração exerça de modo eficaz os seus poderes de tutela, ao mesmo tempo que se preserva a unidade do sistema.
+
+Finalmente, julga-se oportuno unificar o regime da vigência das convenções colectivas e das decisões arbitrais, não distinguindo entre revisões ou alterações de tabelas salariais e de cláusulas de expressão pecuniária e revisões da restante regulamentação. Com efeito, no tempo decorrido desde a data da entrada em vigor do [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro, foi possível proceder, por várias vezes, a revisões de toda a regulamentação, mostrando a experiência não ter havido, nessas situações, alterações significativas de conflitualidade laboral. Por isso, crê-se poder dar mais um passo no sentido da atenuação das restrições do conteúdo da negociação.
+
+Por último, prosseguindo o mesmo objectivo, aproveita-se a oportunidade para revogar os preceitos que subtraem as pessoas colectivas de direito privado e utilidade pública ao regime geral da negociação colectiva e para proceder à revogação do [Decreto-Lei n.º 121/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1978-294717), de 2 de Junho, e do [Decreto-Lei n.º 490/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1979-365946), de 19 de Dezembro, recuperando apenas destes últimos diplomas as normas que a experiência mostrou haver vantagem em manter.
+
+No âmbito da apreciação pública do projecto de diploma feita através da sua publicação na separata n.º 3 do Boletim do Trabalho e Emprego, de 9 de Dezembro de 1988, foram formuladas algumas propostas de alteração, vindas da área sindical, no sentido de serem eliminadas todas as restrições substantivas e formais ao processo da negociação colectiva.
+
+Contém este preâmbulo o esclarecimento do alcance da presente revisão, qualificando-a como um passo intermédio que visa aumentar as oportunidades de negociação e melhorar a sua eficácia, sem prejuízo de uma futura alteração substancial do regime actualmente em vigor.
+
+Por isso não se considerou oportuno o acolhimento das profundas alterações propostas ao regime em vigor, tendo-se aceitado as sugestões que, sem dúvida, favorecem uma melhor interpretação de certas normas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º Os artigos 11.º, 13.º, 16.º, 23.º, 24.º, 25.º e 26.º do [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro, passam a ter a seguinte redacção:
+
+Art. 11.º - 1 - ...
+
+2 - A convenção colectiva e a decisão arbitral mantêm-se em vigor até serem substituídas por outro instrumento de regulamentação colectiva.
+
+Art. 13.º Pode ser atribuída eficácia retroactiva às tabelas salariais até à data em que se tenha esgotado o prazo de resposta à proposta de negociação ou, no caso de revisão de uma convenção anterior, até ao termo do prazo de doze meses após a data da sua entrega para depósito.
+
+Art. 16.º - 1 - ...
+
+2 - As convenções colectivas e as decisões arbitrais não podem ser denunciadas antes de decorridos dez meses após a data da sua entrega para depósito.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+Art. 23.º - 1 - O texto final das convenções colectivas e das decisões arbitrais deverá referir obrigatoriamente:
+
+a) A designação das entidades celebrantes;
+
+b) A área e âmbito de aplicação;
+
+c) A data da celebração.
+
+2 - As tabelas salariais devem conter valores salariais expressos para todas as profissões e categorias profissionais.
+
+Art. 24.º - 1 - ...
+
+2 - ...
+
+3 - ...
+
+a) ...
+
+b) ...
+
+c) Se não tiver decorrido o prazo de doze meses após a data da entrega para depósito da convenção ou da decisão arbitral que se visa alterar ou substituir;
+
+d) Se a convenção não for acompanhada de declaração subscrita pelos outorgantes, indicando, em termos percentuais, o aumento das tabelas salariais e de outras prestações de natureza pecuniária, bem como, no caso de acordos colectivos ou de empresa, o aumento dos encargos resultantes da aplicação das referidas tabelas e prestações pecuniárias e, ainda, o aumento global dos encargos resultantes destes acordos.
+
+4 - Tratando-se de empresas públicas ou de capitais exclusivamente públicos, a falta de autorização ou aprovação tutelar determina a provisoriedade do depósito, o qual só se converte em definitivo após a junção de documento comprovativo daqueles actos.
+
+5 - No caso de o instrumento substituir ou alterar vários instrumentos de regulamentação colectiva, poderá ser depositado desde que, em relação a um deles, tenha decorrido o prazo de doze meses referido na alínea c) do n.º 3 do presente artigo.
+
+6 - (Actual n.º 5.)
+
+Art. 25.º - 1 - ...
+
+2 - ...
+
+3 - No caso previsto no n.º 1 do presente artigo e nos casos de recusa de depósito dos instrumentos referidos no n.º 1 do artigo anterior, os efeitos previstos no presente diploma relativos à entrega para depósito passam a reportar-se à data da entrega que ocorrer, respectivamente, após a alteração ou a sanação dos vícios.
+
+Art. 26.º - 1 - ...
+
+2 - Os instrumentos referidos no número anterior são publicados no Boletim do Trabalho e Emprego nos quinze dias seguintes ao depósito definitivo.
+
+Art. 2.º As referências feitas no [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro, a empresas de capitais públicos consideram-se feitas a empresas de capitais exclusivamente públicos.
+
+Art. 3.º - 1 - São revogados o n.º 5 do artigo 1.º e o n.º 2 do artigo 36.º do [Decreto-Lei n.º 519-C1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c1-1979-157052), de 29 de Dezembro.
+
+2 - São revogados os Decretos-Leis n.os [121/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1978-294717), de 2 de Junho, e [490/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1979-365946), de 19 de Dezembro.
+
+Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1989. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.
+
+Promulgado em 11 de Março de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 11 de Março de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

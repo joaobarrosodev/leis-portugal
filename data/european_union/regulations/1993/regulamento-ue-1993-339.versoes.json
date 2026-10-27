@@ -1,0 +1,399 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R0339:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R0339-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "1993-02-17",
+   "future": false,
+   "celex": "31993R0339",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "604f9a3a0b488d35",
+    "ae3a17684ef66358",
+    "55e1dcb4f1d95370",
+    "e1333bef22c190f2",
+    "4129397af0414777",
+    "1a02a07cf107060f",
+    "b1e7fb3e2edbabc5",
+    "68b808bb47e2a9fb",
+    "5a1c3052f111678e",
+    "5c35345069cfc56a",
+    "32728ed4fd43ebff",
+    "720e7d6b7f4650cc",
+    "d0782c8216c26808",
+    "cf769e5187d58b33",
+    "48d4a1e1f4b99cea"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01993R0339-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32003R0806:por",
+     "title": "REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0806"
+    },
+    {
+     "id": "eu:celex:32006R1791:por",
+     "title": "REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006R1791"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o"
+   ],
+   "fragments": [
+    "1bbbe76c9714c481",
+    "816796a95ddfcdf6",
+    "72c73c84296769fc",
+    "a10d5ea83d90499f",
+    "f017070556baa2cf",
+    "86dee1b773e95161",
+    "d805185fa30f3834",
+    "07614b7449663315",
+    "6ae64ed43b759df5",
+    "9ee570045b1b3e9a",
+    "2a000282aac52a4c",
+    "d0848d8a84201211",
+    "d949fdf808cf6de1",
+    "c327f246328375ba",
+    "33e47c923fd0d2f1",
+    "28e1d6d3b8c1d34c"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "01993R0339-20100101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "5cac6912f14be27a"
+   ]
+  }
+ ],
+ "fragments": {
+  "604f9a3a0b488d35": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 339/93 do Conselho, de 8 de Fevereiro de 1993, relativo aos controlos da conformidade dos produtos importados de países terceiros com as regras aplicáveis em matéria de segurança dos produtos** *Jornal Oficial nº L 040 de 17/02/1993 p. 0001 - 0004 Edição especial finlandesa: Capítulo 15 Fascículo 12 p. 0081 Edição especial sueca: Capítulo 15 Fascículo 12 p. 0081*\n\nREGULAMENTO (CEE) No 339/93 DO CONSELHO de 8 de Fevereiro de 1993 relativo aos controlos da conformidade dos produtos importados de países terceiros com as regras aplicáveis em matéria de segurança dos produtos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 113o,\n\nTendo em conta a proposta da Comissão (1),\n\nConsiderando que um produto não pode ser colocado no mercado comunitário se não for conforme com a regulamentação que lhe é aplicável e que os Estados-membros têm a responsabilidade de proceder ao controlo da conformidade dos produtos;\n\nConsiderando que convém assegurar, dada a supressão dos controlos nas fronteiras internas da Comunidade, nos termos do artigo 8oA do Tratado, que cada Estado-membro actue, no exercício dos referidos controlos nas fronteiras externas, de acordo com critérios semelhantes, de modo a evitar qualquer distorção prejudicial à segurança e à saúde;\n\nConsiderando que, respeitando as competências e meios respectivos das autoridades administrativas nacionais competentes, as autoridades aduaneiras devem ser estreitamente associadas às operações de fiscalização do mercado e aos sistemas de informação previstos pelas regras comunitárias e nacionais, sempre que se trate de produtos provenientes de países terceiros;\n\nConsiderando, nomeadamente, que sempre que as autoridades aduaneiras constatem, ao verificarem as operações de colocação em livre prática, que há produtos que apresentam características que suscitam sérias dúvidas, que levem a crer na existência de um perigo grave e imediato para a saúde e a segurança, essas autoridades devem poder suspender a autorização de entrada dos produtos e informar as autoridades nacionais competentes em matéria de fiscalização do mercado, a fim de que estas possam tomar as medidas apropriadas;\n\nConsiderando que se deve actuar da mesma forma sempre que, em idênticas circunstâncias, as autoridades aduaneiras constatem a ausência de um documento de acompanhamento dos produtos e/ou a ausência de uma marcação previstos pelas regras comunitárias ou nacionais em matéria de segurança dos produtos, que se encontrem em vigor no Estado-membro em que é solicitada a colocação em livre prática;\n\nConsiderando que se impõe, num intuito de eficácia e de coordenação, que os Estados-membros designem a ou as autoridades nacionais competentes em matéria de fiscalização do mercado que devem ser informadas pelas autoridades aduaneiras nos casos acima referidos;\n\nConsiderando que, quando assim informadas, as autoridades competentes devem poder assegurar que os produtos referidos obedecem às regras comunitárias ou nacionais em matéria de segurança dos produtos;\n\nConsiderando, no entanto, que essas autoridades devem intervir num prazo suficientemente curto, tendo em conta as sérias dúvidas acima referidas e os compromissos internacionais da Comunidade, nomeadamente em matéria de controlo de conformidade com as normas técnicas;\n\nConsiderando ainda que, na ausência de medidas, incluindo de medidas cautelares, tomadas naquele prazo pelas autoridades nacionais competentes em matéria de fiscalização do mercado, a colocação em livre prática dos referidos produtos deve ser autorizada, sem prejuízo do cumprimento do conjunto das restantes formalidades de importação;\n\nConsiderando, no entanto, num intuito de coerência, que o presente regulamento só deve aplicar-se na medida em que não existam, no âmbito das regulamentações comunitárias em matéria de saúde e de segurança, disposições específicas relativas à organização de controlos de determinados produtos específicos nas fronteiras;\n\nConsiderando que o exercício de tais controlos deve obedecer, por um lado, ao princípio da proporcionalidade, e ser portanto estritamente adequado às necessidades, e, por outro, às obrigações impostas pela convenção internacional sobre a harmonização dos controlos das mercadorias nas fronteiras, aprovada em nome da Comunidade pelo Regulamento (CEE) no 1262/84 (2);\n\nConsiderando que, para assegurar um alto nível de segurança das operações de importação, compete à Comissão e a cada Estado-membro garantir a transparência das medidas de aplicação do presente regulamento e ao conjunto dos Estados-membros a prestar mutuamente toda a assistência necessária;\n\nConsiderando nomeadamente que as autoridades aduaneiras devem poder dispor de informações adaptadas ao exercício das suas funções através do conhecimento, por um lado, dos produtos ou categorias de produtos mais particularmente visados e, por outro, das marcações e dos documentos que acompanham os produtos em causa;\n\nConsiderando que a aplicação do presente regulamento deve ser objecto de um acompanhamento que permita os ajustamentos necessários à sua eficácia;\n\nConsiderando que o presente regulamento faz parte integrante da política comercial comum; que se limita ao necessário para o funcionamento harmonioso dos controlos da conformidade dos produtos importados de países terceiros com as regras aplicáveis em matéria de segurança dos produtos no mercado comunitário;\n\nConsiderando que tais controlos devem respeitar as obrigações que incumbem à Comunidade no âmbito do GATT no que respeita ao desenvolvimento das trocas comerciais numa base não discriminatória, bem como as obrigações decorrentes do código do GATT relativo aos entraves técnicos ao comércio, segundo o qual as normas não devem ser aplicadas como meio de levantar obstáculos ao comércio internacional,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ae3a17684ef66358": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara efeitos do presente regulamento, entende-se por:\n\n- « autoridades nacionais competentes em matéria de fiscalização do mercado »: a ou as autoridades nacionais designadas pelos Estados-membros e por eles encarregadas de efectuar controlos que permitam verificar a conformidade dos produtos colocados no mercado comunitário ou nacional com a legislação comunitária ou nacional que lhes é aplicável,\n\n- « documento de acompanhamento »: o ou os documentos que devem acompanhar fisicamente um produto ao ser colocado no mercado, de acordo com a legislação comunitária ou nacional em vigor,\n\n- « marcação »: a marcação ou rotulagem que deve obrigatoriamente ser aposta num produto de acordo com a legislação comunitária ou nacional em vigor e que atesta a conformidade do referido produto com essa legislação,\n\n- « autoridades aduaneiras »: as autoridades competentes, nomeadamente, para a aplicação da regulamentação aduaneira."
+  },
+  "55e1dcb4f1d95370": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nSempre que, ao efectuarem os controlos das mercadorias declaradas aptas para serem colocadas em livre prática, as autoridades aduaneiras verifiquem:\n\n- a presença de um produto - ou de um lote de produtos - que apresente características que suscitem sérias dúvidas que levem a crer na existência de um perigo grave e imediato para a saúde ou a segurança se utilizado em condições normais e previsíveis\n\ne/ou\n\n- a ausência de um documento que deva acompanhar um produto - ou um lote de produtos - ou a ausência de uma marcação previstos pelas regras comunitárias ou nacionais aplicáveis em matéria de segurança dos produtos e em vigor no Estado-membro em que é solicitada a colocação em livre prática,\n\ndevem suspender a autorização de entrada do produto - ou lote de produtos - em causa e informar imediatamente a autoridade nacional competente em matéria de fiscalização do mercado."
+  },
+  "e1333bef22c190f2": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nCada Estado-membro indicará à Comissão, que disso informará os restantes Estados-membros, as autoridades nacionais competentes em matéria de fiscalização do mercado que tiver designado para serem informadas dos casos de aplicação do artigo 2o"
+  },
+  "4129397af0414777": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. As autoridades nacionais competentes em matéria de fiscalização do mercado devem poder intervir a respeito de qualquer produto que tenha sido objecto de suspensão de autorização de entrada pelas autoridades aduaneiras por força do disposto no artigo 2o Na falta de intervenção, é aplicável o segundo parágrafo do artigo 5o\n\n2. No caso de mercadorias perecíveis, as autoridades nacionais competentes em matéria de fiscalização de mercado e as autoridades aduaneiras devem atender, na medida do possível, a que as condições de armazenamento das mercadorias ou de estacionamento dos veículos de transporte que possam eventualmente ordenar não sejam incompatíveis com a conservação das mercadorias."
+  },
+  "1a02a07cf107060f": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nSempre que as autoridades nacionais competentes em matéria de fiscalização do mercado considerem, após terem intervindo nos termos do artigo 4o, que o produto em causa não apresenta um perigo grave e imediato para a saúde e a segurança e/ou não pode ser considerado como não conforme com as regras comunitárias ou nacionais aplicáveis em matéria de segurança dos produtos, o produto será colocado em livre prática, desde que tenham sido cumpridas todas as restantes condições e formalidades de colocação em livre prática.\n\nO mesmo acontece se, num prazo de três dias úteis a contar da suspensão da autorização de entrada do produto, as autoridades aduaneiras que tenham feito aplicação do artigo 2o não tiverem recebido comunicação de medidas de intervenção, incluindo medidas cautelares, tomadas pelas autoridades nacionais competentes em matéria de fiscalização do mercado."
+  },
+  "b1e7fb3e2edbabc5": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Sempre que as autoridades nacionais competentes em matéria de fiscalização do mercado verificarem que o produto em causa apresenta um perigo grave e imediato, devem tomar medidas de proibição da colocação no mercado, de acordo com as regras comunitárias ou nacionais aplicáveis, e solicitar às autoridades aduaneiras a aposição na factura comercial que acompanha o produto, bem como em qualquer outro documento de acompanhamento apropriado, de uma das seguintes menções:\n\n- Producto peligroso - no se autoriza su despacho a libre práctica - Reglamento (CEE) no 339/93;\n\n- Farligt produkt - overgang til fri omsaetning ikke tilladt - forordning (EOEF) nr. 339/93;\n\n- Gefaehrliches Erzeugnis - UEberfuehrung in den zollrechtlich freien Verkehr nicht gestattet - Verordnung (EWG) Nr. 339/93;\n\n- Epikindyno proion - den epitrepetai i eleftheri kykloforia - Kanonismos (EOK) arith. 339/93;\n\n- Dangerous product - release for free circulation not authorized - Regulation (EEC) No 339/93;\n\n- Produit dangereux - mise en libre pratique non autorisée - règlement (CEE) no 339/93;\n\n- Prodotto pericoloso - immissione in libera pratica non autorizzata - regolamento (CEE) n. 339/93;\n\n- Gevaarlijk produkt - het in het vrije verkeer brengen ervan niet toegestaan - Verordening (EEG) nr. 339/93;\n\n- Produto perigoso - colocação em livre prática não permitida - Regulamento (CEE) no 339/93.\n\n2. Sempre que as autoridades nacionais competentes na matéria de fiscalização do mercado verificarem que o produto em causa não respeita as regras comunitárias ou nacionais em vigor em matéria de segurança dos produtos, devem tomar as medidas apropriadas, que podem ir, se necessário, até à proibição da colocação no mercado, em conformidade com as referidas regras; em caso de proibição da colocação no mercado, devem solicitar às autoridades aduaneiras a aposição na factura comercial que acompanha o produto, bem como em qualquer outro documento de acompanhamento apropriado, de uma das seguintes menções:\n\n- Producto no conforme - no se autoriza su despacho a libre práctica - Reglamento (CEE) no 336/93;\n\n- Ikke overensstemmende produkt - overgang til fri omsaetning ikke tilladt - forordning (EOEF) nr. 339/93;\n\n- Nichtkonformes Erzeugnis - UEberfuehrung in den zollrechtlich freien Verkehr nicht gestattet - Verordnung (EWG) Nr. 339/93;\n\n- Akatallilo proion - den epitrepetai i eleftheri kykloforia - Kanonismos (EOK) arith. 339/93;\n\n- Product not in conformity - release for free circulation not authorized - Regulation (EEC) No 339/93;\n\n- Produit non conforme - mise en libre pratique non autorisée - règlement (CEE) no 339/93;\n\n- Prodotto non conforme - immissione in libera pratica non autorizzata - regolamento (CEE) n. 339/93;\n\n- Niet-conform produkt - het in het vrije verkeer brengen ervan niet toegestaan - Verordening (EEG) nr. 339/93;\n\n- Produto não conforme - colocação em livre prática não permitida - Regulamento (CEE) no 339/93.\n\n3. Para efeitos da aplicação do presente regulamento, são aplicáveis mutatis mutandis as disposições do Regulamento (CEE) no 1468/81, de 19 de Maio de 1981, relativo à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das regulamentações aduaneira ou agrícola (3).\n\n4. Se o produto em causa for posteriormente declarado apto para um destino aduaneiro diferente da colocação em livre prática, as menções constantes dos nos 1 e 2 poderão igualmente ser apostas, nas mesmas condições, nos documentos relativos a este destino, se as autoridades nacionais competentes em matéria de fiscalização do mercado assim o entenderem."
+  },
+  "68b808bb47e2a9fb": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO presente regulamento é aplicável na medida em que não existam, no âmbito das regulamentações comunitárias, disposições específicas à organização de controlos de determinados produtos específicos nas fronteiras.\n\nDe qualquer forma, o presente regulamento não é aplicável aos casos abrangidos pelas regulamentações comunitárias relativas aos controlos fitossanitários, veterinários, zootécnicos e relativos à protecção dos animais."
+  },
+  "5a1c3052f111678e": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nNo prazo de três meses a contar da entrada em vigor do presente regulamento e para efeitos da sua aplicação, será estabelecida, nos termos do procedimento previsto no artigo 9o, a lista dos produtos ou categorias de produtos que, nos limites da regulamentação comunitária, são particularmente visados pelo segundo travessão do artigo 2o; esta lista será estabelecida com base na experiência e/ou nas regras aplicáveis em matéria de segurança dos produtos. De acordo com o mesmo processo, a referida lista será revista sempre que necessário, a fim de a ajustar às novas situações resultantes da experiência e da evolução das regras aplicáveis em matéria de segurança dos produtos."
+  },
+  "5c35345069cfc56a": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. A Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité o projecto de medidas que estabelece - ou altera - a lista dos produtos, ou categorias de produtos, especialmente visados pelo segundo travessão do artigo 2o O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência das medidas a tomar. O parecer será emitido por maioria, nos termos previstos no no 2 do artigo 148o do Tratado para a adopção das medidas que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adoptará medidas que são imediatamente aplicáveis.\n\nb) Todavia, se não forem conformes com o parecer emitido pelo comité, serão imediatamente comunicadas pela Comissão ao Conselho. Nesse caso:\n\n- a Comissão difere a aplicação das medidas que aprovou, por um período de três meses no máximo a contar da data dessa comunicação,\n\n- o Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no primeiro travessão."
+  },
+  "32728ed4fd43ebff": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nCada Estado-membro deve comunicar à Comissão as características das marcações e dos documentos de acompanhamento dos produtos definidos no artigo 1o que são exigidos pela regulamentação comunitária ou pela respectiva regulamentação nacional, bem como a fundamentação das instruções dadas às autoridades aduaneiras para aplicação do segundo travessão do artigo 2o A Comissão deve transmitir imediatamente aos restantes Estados-membros as comunicações que receber. A primeira comunicação dever ter lugar no prazo de dois meses a contar da entrada em vigor do presente regulamento."
+  },
+  "720e7d6b7f4650cc": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Se, para efeitos do presente regulamento, um Estado-membro considerar necessário designar pontos especializados de desalfandegamento para o controlo de certas mercadorias, deve informar do facto a Comissão e os restantes Estados-membros; a Comissão deve manter actualizada a lista dos pontos especializados de desalfandegamento, que tornará pública.\n\n2. A obrigação de passagem por um ponto especializado de desalfandegamento por força do no 1 não pode impor aos operadores económicos limitações desproporcionadas em relação ao objectivo pretendido e deve atender a circunstâncias de facto que a justifiquem."
+  },
+  "d0782c8216c26808": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nNo prazo de dois meses a contar da entrada em vigor do presente regulamento, cada Estado-membro deve comunicar à Comissão as disposições tomadas em sua aplicação. A Comissão comunicará essas disposições aos restantes Estados-membros."
+  },
+  "cf769e5187d58b33": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nNo prazo de dois anos a contar da data de entrada em vigor do presente regulamento, a Comissão apresentará ao Parlamento e ao Conselho um relatório sobre as modalidades da sua aplicação, propondo todas as alterações que lhe pareçam adequadas. Para a elaboração do referido relatório, os Estados-membros devem transmitir à Comissão todas as informações relevantes sobre a forma como aplicam o regulamento, e nomeadamente sobre as estatísticas referentes à aplicação do artigo 6o"
+  },
+  "48d4a1e1f4b99cea": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nO presente regulamento entra em vigor um mês após a sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 8 de Fevereiro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nJ. TROEJBORG\n\n(1) JO no C 329 de 15. 12. 1992, p. 3.\n\n(2) JO no L 126 de 12. 5. 1984, p. 1.\n\n(3) JO no L 144 de 2. 6. 1981, p. 1. Com a última redacção que lhe foi dada pelo Regulamento (CEE) no 945/87 (JO no L 90 de 2. 4. 1987, p. 3)."
+  },
+  "1bbbe76c9714c481": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Fevereiro de 1993\n\nrelativo aos controlos da conformidade dos produtos importados de países terceiros com as regras aplicáveis em matéria de segurança dos produtos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 113.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/1c7e8697-a852-4468-909b-6674f85e4ef2.0018.03/DOC_1#E0001)),\n\nConsiderando que um produto não pode ser colocado no mercado comunitário se não for conforme com a regulamentação que lhe é aplicável e que os Estados-membros têm a responsabilidade de proceder ao controlo da conformidade dos produtos;\n\nConsiderando que convém assegurar, dada a supressão dos controlos nas fronteiras internas da Comunidade, nos termos do artigo 8.ºA do Tratado, que cada Estado-membro actue, no exercício dos referidos controlos nas fronteiras externas, de acordo com critérios semelhantes, de modo a evitar qualquer distorção prejudicial à segurança e à saúde;\n\nConsiderando que, respeitando as competências e meios respectivos das autoridades administrativas nacionais competentes, as autoridades aduaneiras devem ser estreitamente associadas às operações de fiscalização do mercado e aos sistemas de informação previstos pelas regras comunitárias e nacionais, sempre que se trate de produtos provenientes de países terceiros;\n\nConsiderando, nomeadamente, que sempre que as autoridades aduaneiras constatem, ao verificarem as operações de colocação em livre prática, que há produtos que apresentam características que suscitam sérias dúvidas, que levem a crer na existência de um perigo grave e imediato para a saúde e a segurança, essas autoridades devem poder suspender a autorização de entrada dos produtos e informar as autoridades nacionais competentes em matéria de fiscalização do mercado, a fim de que estas possam tomar as medidas apropriadas;\n\nConsiderando que se deve actuar da mesma forma sempre que, em idênticas circunstâncias, as autoridades aduaneiras constatem a ausência de um documento de acompanhamento dos produtos e/ou a ausência de uma marcação previstos pelas regras comunitárias ou nacionais em matéria de segurança dos produtos, que se encontrem em vigor no Estado-membro em que é solicitada a colocação em livre prática;\n\nConsiderando que se impõe, num intuito de eficácia e de coordenação, que os Estados-membros designem a ou as autoridades nacionais competentes em matéria de fiscalização do mercado que devem ser informadas pelas autoridades aduaneiras nos casos acima referidos;\n\nConsiderando que, quando assim informadas, as autoridades competentes devem poder assegurar que os produtos referidos obedecem às regras comunitárias ou nacionais em matéria de segurança dos produtos;\n\nConsiderando, no entanto, que essas autoridades devem intervir num prazo suficientemente curto, tendo em conta as sérias dúvidas acima referidas e os compromissos internacionais da Comunidade, nomeadamente em matéria de controlo de conformidade com as normas técnicas;\n\nConsiderando ainda que, na ausência de medidas, incluindo de medidas cautelares, tomadas naquele prazo pelas autoridades nacionais competentes em matéria de fiscalização do mercado, a colocação em livre prática dos referidos produtos deve ser autorizada, sem prejuízo do cumprimento do conjunto das restantes formalidades de importação;\n\nConsiderando, no entanto, num intuito de coerência, que o presente regulamento só deve aplicar-se na medida em que não existam, no âmbito das regulamentações comunitárias em matéria de saúde e de segurança, disposições específicas relativas à organização de controlos de determinados produtos específicos nas fronteiras;\n\nConsiderando que o exercício de tais controlos deve obedecer, por um lado, ao princípio da proporcionalidade, e ser portanto estritamente adequado às necessidades, e, por outro, às obrigações impostas pela convenção internacional sobre a harmonização dos controlos das mercadorias nas fronteiras, aprovada em nome da Comunidade pelo Regulamento (CEE) n.º 1262/84 ([^2^](http://publications.europa.eu/resource/cellar/1c7e8697-a852-4468-909b-6674f85e4ef2.0018.03/DOC_1#E0002));\n\nConsiderando que, para assegurar um alto nível de segurança das operações de importação, compete à Comissão e a cada Estado-membro garantir a transparência das medidas de aplicação do presente regulamento e ao conjunto dos Estados-membros a prestar mutuamente toda a assistência necessária;\n\nConsiderando nomeadamente que as autoridades aduaneiras devem poder dispor de informações adaptadas ao exercício das suas funções através do conhecimento, por um lado, dos produtos ou categorias de produtos mais particularmente visados e, por outro, das marcações e dos documentos que acompanham os produtos em causa;\n\nConsiderando que a aplicação do presente regulamento deve ser objecto de um acompanhamento que permita os ajustamentos necessários à sua eficácia;\n\nConsiderando que o presente regulamento faz parte integrante da política comercial comum; que se limita ao necessário para o funcionamento harmonioso dos controlos da conformidade dos produtos importados de países terceiros com as regras aplicáveis em matéria de segurança dos produtos no mercado comunitário;\n\nConsiderando que tais controlos devem respeitar as obrigações que incumbem à Comunidade no âmbito do GATT no que respeita ao desenvolvimento das trocas comerciais numa base não discriminatória, bem como as obrigações decorrentes do código do GATT relativo aos entraves técnicos ao comércio, segundo o qual as normas não devem ser aplicadas como meio de levantar obstáculos ao comércio internacional,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "816796a95ddfcdf6": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos do presente regulamento, entende-se por:\n\n— «autoridades nacionais competentes em matéria de fiscalização do mercado»: a ou as autoridades nacionais designadas pelos Estados-membros e por eles encarregadas de efectuar controlos que permitam verificar a conformidade dos produtos colocados no mercado comunitário ou nacional com a legislação comunitária ou nacional que lhes é aplicável,\n\n— «documento de acompanhamento»: o ou os documentos que devem acompanhar fisicamente um produto ao ser colocado no mercado, de acordo com a legislação comunitária ou nacional em vigor,\n\n— «marcação»: a marcação ou rotulagem que deve obrigatoriamente ser aposta num produto de acordo com a legislação comunitária ou nacional em vigor e que atesta a conformidade do referido produto com essa legislação,\n\n— «autoridades aduaneiras»: as autoridades competentes, nomeadamente, para a aplicação da regulamentação aduaneira."
+  },
+  "72c73c84296769fc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSempre que, ao efectuarem os controlos das mercadorias declaradas aptas para serem colocadas em livre prática, as autoridades aduaneiras verifiquem:\n\n— a presença de um produto — ou de um lote de produtos — que apresente características que suscitem sérias dúvidas que levem a crer na existência de um perigo grave e imediato para a saúde ou a segurança se utilizado em condições normais e previsíveis\n\n— e/ou\n\n— a ausência de um documento que deva acompanhar um produto — ou um lote de produtos — ou a ausência de uma marcação previstos pelas regras comunitárias ou nacionais aplicáveis em matéria de segurança dos produtos e em vigor no Estado-membro em que é solicitada a colocação em livre prática,\n\ndevem suspender a autorização de entrada do produto — ou lote de produtos — em causa e informar imediatamente a autoridade nacional competente em matéria de fiscalização do mercado."
+  },
+  "a10d5ea83d90499f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCada Estado-membro indicará à Comissão, que disso informará os restantes Estados-membros, as autoridades nacionais competentes em matéria de fiscalização do mercado que tiver designado para serem informadas dos casos de aplicação do artigo 2.º"
+  },
+  "f017070556baa2cf": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As autoridades nacionais competentes em matéria de fiscalização do mercado devem poder intervir a respeito de qualquer produto que tenha sido objecto de suspensão de autorização de entrada pelas autoridades aduaneiras por força do disposto no artigo 2.º Na falta de intervenção, é aplicável o segundo parágrafo do artigo 5.º\n\n2. No caso de mercadorias perecíveis, as autoridades nacionais competentes em matéria de fiscalização de mercado e as autoridades aduaneiras devem atender, na medida do possível, a que as condições de armazenamento das mercadorias ou de estacionamento dos veículos de transporte que possam eventualmente ordenar não sejam incompatíveis com a conservação das mercadorias."
+  },
+  "86dee1b773e95161": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSempre que as autoridades nacionais competentes em matéria de fiscalização do mercado considerem, após terem intervindo nos termos do artigo 4.º, que o produto em causa não apresenta um perigo grave e imediato para a saúde e a segurança e/ou não pode ser considerado como não conforme com as regras comunitárias ou nacionais aplicáveis em matéria de segurança dos produtos, o produto será colocado em livre prática, desde que tenham sido cumpridas todas as restantes condições e formalidades de colocação em livre prática.\n\nO mesmo acontece se, num prazo de três dias úteis a contar da suspensão da autorização de entrada do produto, as autoridades aduaneiras que tenham feito aplicação do artigo 2.º não tiverem recebido comunicação de medidas de intervenção, incluindo medidas cautelares, tomadas pelas autoridades nacionais competentes em matéria de fiscalização do mercado."
+  },
+  "d805185fa30f3834": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Sempre que as autoridades nacionais competentes em matéria de fiscalização do mercado verificarem que o produto em causa apresenta um perigo grave e imediato, devem tomar medidas de proibição da colocação no mercado, de acordo com as regras comunitárias ou nacionais aplicáveis, e solicitar às autoridades aduaneiras a aposição na factura comercial que acompanha o produto, bem como em qualquer outro documento de acompanhamento apropriado, de uma das seguintes menções:\n\n— Producto peligroso — no se autoriza su despacho a libre práctica — Reglamento (CEE) n.º 339/93;\n\n— Farligt produkt — overgang til fri omsætning ikke tilladt — forordning (EØF) nr. 339/93;\n\n— Gefährliches Erzeugnis — Überführung in den zollrechtlich freien Verkehr nicht gestattet — Verordnung (EWG) Nr. 339/93;\n\n— Επικίνδυνο προϊόν — δεν επιτρέπεται η ελεύθερη κυκλοφορία — Κανονισμός (ΕΟΚ) αριθ. 339/93;\n\n— Dangerous product — release for free circulation not authorized — Regulation (EEC) No 339/93;\n\n— Produit dangereux — mise en libre pratique non autorisée — règlement (CEE) n.º 339/93;\n\n— Prodotto pericoloso — immissione in libera pratica non autorizzata — regolamento (CEE) n. 339/93;\n\n— Gevaarlijk produkt — het in het vrije verkeer brengen ervan niet toegestaan — Verordening (EEG) nr. 339/93;\n\n— Produto perigoso — colocação em livre prática não permitida — Regulamento (CEE) n.º 339/93;\n\n— Vaarallinen tuote — ei saa laskea vapaavern liikkeevern. Asetus (ETY) n:o 339/93;\n\n— Farlig produkt — ej godkänd för fri omsättning. Förordning (EEG) nr 339/93;\n\n— Nebezpečný výrobek — propuštění do volného oběhu není povoleno — Nařízení (EHS) č. 339/93;\n\n— Ohtlik toode — vabasse ringlusse mitte lubatud — nõukogu määrus (EMÜ) nr 339/93;\n\n— Bīstama prece — izlaišana brīvā apgrozībā nav atļauta. EEK Regula Nr.339/93;\n\n— Pavojingas produktas — išleisti laisvai cirkuliuoti draudžiama — reglamentas (EEB) Nr. 339/93;\n\n— Veszélyes áru — szabad forgalomba nem bocsátható — 339/93/EGK rendelet;\n\n— Prodott perikoluż — ir-rilaxx għaċ-ċirkolazzjoni libera mhux awtorizzat — Regolament (KEE) Nru. 339/93;\n\n— Produkt niebezpieczny — niedopuszczony do obrotu — Rozporządzenie (EWG) Nr 339/93;\n\n— Nevaren izdelek — sprostitev v prosti promet ni dovoljena — Uredba (EGS) št. 339/93;\n\n— Nebezpečný výrobok — uvoľnenie do voľného obehu nie je povolené — nariadenie (EHS) č. 339/93;\n\n— Опасен продукт — допускане за свободно обращение не е разрешено — Регламент (ЕИО) № 339/93;\n\n— Produs periculos — import neautorizat — Regulamentul (CEE) nr. 339/93.\n\n2. Sempre que as autoridades nacionais competentes na matéria de fiscalização do mercado verificarem que o produto em causa não respeita as regras comunitárias ou nacionais em vigor em matéria de segurança dos produtos, devem tomar as medidas apropriadas, que podem ir, se necessário, até à proibição da colocação no mercado, em conformidade com as referidas regras; em caso de proibição da colocação no mercado, devem solicitar às autoridades aduaneiras a aposição na factura comercial que acompanha o produto, bem como em qualquer outro documento de acompanhamento apropriado, de uma das seguintes menções:\n\n— Producto no conforme — no se autoriza su despacho a libre práctica — Reglamento (CEE) n.º 336/93;\n\n— Ikke overensstemmende produkt — overgang til fri omsætning ikke tilladt — forordning (EØF) nr. 339/93;\n\n— Nichtkonformes Erzeugnis — Überführung in den zollrechtlich freien Verkehr nicht gestattet — Verordnung (EWG) Nr. 339/93;\n\n— Ακατάλληλο προϊόν — δεν επιτρέπεται η ελεύθερη κυκλοφορία — Κανονισμός (ΕΟΚ) αριθ. 339/93;\n\n— Product not in conformity — release for free circulation not authorized — Regulation (EEC) No 339/93;\n\n— Produit non conforme — mise en libre pratique non autorisée — règlement (CEE) n.º 339/93;\n\n— Prodotto non conforme — immissione in libera pratica non autorizzata — regolamento (CEE) n. 339/93;\n\n— Niet-conform produkt — het in het vrije verkeer brengen ervan niet toegestaan — Verordening (EEG) nr. 339/93;\n\n— Produto não conforme — colocação em livre prática não permitida — Regulamento (CEE) n.º 339/93;\n\n— Tuote ei vaatimusten mukainen — ei saa laskea vapaavern liikkeevern. Asetus (ETY) n:o339/93;\n\n— Icke överensstämmande produkt — ej godkänd för fri omsättning. Förordning (EEG) nr339/93;\n\n— Výrobek není ve shodě — propuštění do volného oběhu není povoleno — Nařízení (EHS) č. 339/93;\n\n— Nõuetele mittevastav toode — vabasse ringlusse mitte lubatud — nõukogu määrus (EMÜ) nr 339/93;\n\n— Neatbilstoša prece — izlaišana brīvā apgrozībā nav atļauta. EEK Regula Nr. 339/93;\n\n— Produktas neatitinka reikalavimų — išleisti laisvai cirkuliuoti draudžiama — Reglamentas (EEB) Nr. 339/93;\n\n— Nem megfelelő áru — szabad forgalomba nem bocsátható — 339/93/EGK rendelet;\n\n— Prodott mhux konformi — ir-rilaxx għaċ-ċirkolazzjoni libera mhux awtorizzat — Regolament (KEE) Nru. 339/93;\n\n— Produkt niezgodny — niedopuszczony do obrotu — Rozporządzenie (EWG) Nr 339/93;\n\n— Neskladen izdelek — sprostitev v prosti promet ni dovoljena — Uredba (EGS) št. 339/93;\n\n— Výrobok nie je v zhode — uvoľnenie do voľného obehu nie je povolené — nariadenie (EHS) č.339/93;\n\n— Продукт несъответстващ на изискванията — допускане за свободно обращение не е разрешено — Регламент (ЕИО) № 339/93;\n\n— Produs neconform — import neautorizat — Regulamentul (CEE) nr. 339/93.\n\n3. Para efeitos da aplicação do presente regulamento, são aplicáveis *mutatis mutandis* as disposições do Regulamento (CEE) n.º 1468/81, de 19 de Maio de 1981, relativo à assistência mútua entre as autoridades administrativas dos Estados-membros e à colaboração entre estas e a Comissão, tendo em vista assegurar a boa aplicação das regulamentações aduaneira ou agrícola ([^3^](http://publications.europa.eu/resource/cellar/1c7e8697-a852-4468-909b-6674f85e4ef2.0018.03/DOC_1#E0003)).\n\n4. Se o produto em causa for posteriormente declarado apto para um destino aduaneiro diferente da colocação em livre prática, as menções constantes dos n.^os^ 1 e 2 poderão igualmente ser apostas, nas mesmas condições, nos documentos relativos a este destino, se as autoridades nacionais competentes em matéria de fiscalização do mercado assim o entenderem."
+  },
+  "07614b7449663315": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente regulamento é aplicável na medida em que não existam, no âmbito das regulamentações comunitárias, disposições específicas à organização de controlos de determinados produtos específicos nas fronteiras.\n\nDe qualquer forma, o presente regulamento não é aplicável aos casos abrangidos pelas regulamentações comunitárias relativas aos controlos fitossanitários, veterinários, zootécnicos e relativos à protecção dos animais."
+  },
+  "6ae64ed43b759df5": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nNo prazo de três meses a contar da entrada em vigor do presente regulamento e para efeitos da sua aplicação, será estabelecida, nos termos do procedimento previsto no artigo 9.º, a lista dos produtos ou categorias de produtos que, nos limites da regulamentação comunitária, são particularmente visados pelo segundo travessão do artigo 2.º; esta lista será estabelecida com base na experiência e/ou nas regras aplicáveis em matéria de segurança dos produtos. De acordo com o mesmo processo, a referida lista será revista sempre que necessário, a fim de a ajustar às novas situações resultantes da experiência e da evolução das regras aplicáveis em matéria de segurança dos produtos."
+  },
+  "9ee570045b1b3e9a": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^4^](http://publications.europa.eu/resource/cellar/1c7e8697-a852-4468-909b-6674f85e4ef2.0018.03/DOC_1#E0004)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "2a000282aac52a4c": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nCada Estado-membro deve comunicar à Comissão as características das marcações e dos documentos de acompanhamento dos produtos definidos no artigo 1.º que são exigidos pela regulamentação comunitária ou pela respectiva regulamentação nacional, bem como a fundamentação das instruções dadas às autoridades aduaneiras para aplicação do segundo travessão do artigo 2.º A Comissão deve transmitir imediatamente aos restantes Estados-membros as comunicações que receber. A primeira comunicação dever ter lugar no prazo de dois meses a contar da entrada em vigor do presente regulamento."
+  },
+  "d0848d8a84201211": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Se, para efeitos do presente regulamento, um Estado-membro considerar necessário designar pontos especializados de desalfandegamento para o controlo de certas mercadorias, deve informar do facto a Comissão e os restantes Estados-membros; a Comissão deve manter actualizada a lista dos pontos especializados de desalfandegamento, que tornará pública.\n\n2. A obrigação de passagem por um ponto especializado de desalfandegamento por força do n.º 1 não pode impor aos operadores económicos limitações desproporcionadas em relação ao objectivo pretendido e deve atender a circunstâncias de facto que a justifiquem."
+  },
+  "d949fdf808cf6de1": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nNo prazo de dois meses a contar da entrada em vigor do presente regulamento, cada Estado-membro deve comunicar à Comissão as disposições tomadas em sua aplicação. A Comissão comunicará essas disposições aos restantes Estados-membros."
+  },
+  "c327f246328375ba": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nNo prazo de dois anos a contar da data de entrada em vigor do presente regulamento, a Comissão apresentará ao Parlamento e ao Conselho um relatório sobre as modalidades da sua aplicação, propondo todas as alterações que lhe pareçam adequadas. Para a elaboração do referido relatório, os Estados-membros devem transmitir à Comissão todas as informações relevantes sobre a forma como aplicam o regulamento, e nomeadamente sobre as estatísticas referentes à aplicação do artigo 6.º"
+  },
+  "33e47c923fd0d2f1": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO presente regulamento entra em vigor um mês após a sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "28e1d6d3b8c1d34c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/1c7e8697-a852-4468-909b-6674f85e4ef2.0018.03/DOC_1#src.E0001)) JO n.º C 329 de 15. 12. 1992, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/1c7e8697-a852-4468-909b-6674f85e4ef2.0018.03/DOC_1#src.E0002)) JO n.º L 126 de 12. 5. 1984, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/1c7e8697-a852-4468-909b-6674f85e4ef2.0018.03/DOC_1#src.E0003)) JO n.º L 144 de 2. 6. 1981, p. 1. Com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 945/87 (JO n.º L 90 de 2. 4. 1987, p. 3).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/1c7e8697-a852-4468-909b-6674f85e4ef2.0018.03/DOC_1#src.E0004)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ."
+  },
+  "5cac6912f14be27a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993R0339 — PT — 01.01.2010 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993R0339) [REGULAMENTO (CEE) N.º 339/93 DO CONSELHO](http://publications.europa.eu/resource/celex/31993R0339) [de 8 de Fevereiro de 1993](http://publications.europa.eu/resource/celex/31993R0339) [relativo aos controlos da conformidade dos produtos importados de países terceiros com as regras aplicáveis em matéria de segurança dos produtos](http://publications.europa.eu/resource/celex/31993R0339) (JO L 040, 17.2.1993, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 765/2008 do Parlamento Europeu e do Conselho de 9 Julho de 2008](http://publications.europa.eu/resource/celex/32008R0765) — L 218 — 30 — 13.8.2008"
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008D0689:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008D0689-20080826",
+ "dre_path": null,
+ "source_lastmod": "2008-08-26",
+ "versions": [
+  {
+   "date": "2008-08-23",
+   "future": false,
+   "celex": "32008D0689",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3cc0c22cc25a59ad",
+    "4a1f00de44607ae5",
+    "ccfe652984fe55fe",
+    "f738c263a717636d",
+    "50cb025ca1818947"
+   ]
+  }
+ ],
+ "fragments": {
+  "3cc0c22cc25a59ad": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Agosto de 2008\n\nque altera o anexo II da Directiva 2000/53/CE do Parlamento Europeu e do Conselho relativa aos veículos em fim de vida\n\n[notificada com o número C(2008) 4017]\n\n(Texto relevante para efeitos do EEE)\n\n(2008/689/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2000/53/CE do Parlamento Europeu e do Conselho, de 18 de Setembro de 2000, relativa aos veículos em fim de vida [([^1])](http://publications.europa.eu/resource/cellar/151c8e0d-fdf3-4382-a7c4-bf586896e407.0018.02/DOC_1#ntr1-L_2008225PT.01001001-E0001), nomeadamente o n.º 2, alínea b), do artigo 4.º,\n\nConsiderando o seguinte:\n\n(1) O n.º 2, alínea a), do artigo 4.º da Directiva 2000/53/CE proíbe a utilização de chumbo, mercúrio, cádmio ou crómio hexavalente nos materiais e componentes dos veículos comercializados a partir de 1 de Julho de 2003, com excepção dos casos enunciados no anexo II da directiva e nas condições aí especificadas. De acordo com o n.º 2, alínea b), do artigo 4.º da Directiva 2000/53/CE, o anexo II dessa directiva deve ser adaptado regularmente ao progresso científico e técnico pela Comissão.\n\n(2) O anexo II da Directiva 2000/53/CE enumera os materiais e componentes de veículos isentos da proibição relativa aos metais pesados estabelecida no n.º 2, alínea a), do artigo 4.º. Algumas dessas isenções terminam em datas fixadas no referido anexo. Os veículos comercializados antes da data de termo de uma determinada isenção podem conter metais pesados nos materiais e componentes enumerados no anexo II da Directiva 2000/53/CE.\n\n(3) Determinadas isenções à proibição estabelecidas no n.º 2, alínea a), do artigo 4.º da Directiva 2000/53/CE não deverão ser prorrogadas dado que a utilização de chumbo, mercúrio, cádmio ou crómio hexavalente nessas aplicações se tornou evitável graças ao progresso técnico.\n\n(4) Determinados materiais e componentes com chumbo, mercúrio, cádmio ou crómio hexavalente deverão continuar isentos da proibição estabelecida no n.º 2, alínea a), do artigo 4.º, dado que a utilização dessas substâncias nesses materiais e componentes específicos continua a ser inevitável. Em alguns casos, é oportuno proceder à revisão do termo da vigência dessas isenções, a fim de dar tempo suficiente para a eliminação das substâncias proibidas no futuro.\n\n(5) O anexo II da Directiva 2000/53/CE, com a redacção que lhe foi dada pela Decisão 2005/438/CE da Comissão, de 10 de Junho de 2005, que altera o anexo II da Directiva 2000/53/CE do Parlamento Europeu e do Conselho relativa aos veículos em fim de vida [([^2])](http://publications.europa.eu/resource/cellar/151c8e0d-fdf3-4382-a7c4-bf586896e407.0018.02/DOC_1#ntr2-L_2008225PT.01001001-E0002) estabelece, no terceiro travessão das notas, que as peças sobressalentes comercializadas após 1 de Julho de 2003 e destinadas a utilização em veículos comercializados até 1 de Julho de 2003 estão isentas do disposto no n.º 2, alínea a), do artigo 4.º da Directiva 2000/53/CE. Esta isenção permite a reparação dos veículos comercializados antes da entrada em vigor da proibição relativa a metais pesados estabelecida no n.º 2, alínea a), do artigo 4.º da Directiva 2000/53/CE com peças sobressalentes que satisfaçam requisitos de qualidade e segurança idênticos aos aplicáveis às peças com que foram originalmente equipados.\n\n(6) As peças sobressalentes destinadas a veículos comercializados após 1 de Julho de 2003, mas antes da data de termo da vigência de uma determinada isenção do anexo II da Directiva 2000/53/CE, não estão abrangidas pelo terceiro travessão das notas desse anexo. Por conseguinte, as peças sobressalentes destinadas a esses veículos não devem conter metais pesados, mesmo que sejam utilizadas para substituir peças que originalmente continham metais pesados.\n\n(7) Em determinados casos é tecnicamente impossível proceder à reparação de veículos com peças sobressalentes diferentes das originais, dado que tal implicaria alterações nas propriedades dimensionais e funcionais de todo um sistema dos veículos. Essas peças sobressalentes não podem ser montadas em sistemas de veículos originalmente fabricados com peças que contém metais pesados, pelo que esses veículos não podem ser reparados e poderá ser necessário proceder prematuramente à sua eliminação. Em consequência, o anexo II deve ser alterado em conformidade. A presente decisão deverá afectar apenas um número limitado de veículos e de materiais e componentes de veículos, durante um período de tempo limitado.\n\n(8) Dado que a segurança dos consumidores é essencial e que a reutilização, renovação e prolongamento do ciclo de vida dos produtos são benéficos para o ambiente, deverão estar disponíveis peças sobressalentes para a reparação dos veículos comercializados entre 1 de Julho de 2003 e a data de termo da vigência de uma determinada isenção. Deverá, por conseguinte, ser tolerada a utilização de chumbo, mercúrio, cádmio ou crómio hexavalente em materiais e componentes utilizados em peças sobressalentes destinadas à reparação desses veículos.\n\n(9) É oportuno harmonizar os termos das isenções com as de outras directivas ambientais relacionadas com os resíduos nos casos em que são mencionadas isenções semelhantes.\n\n(10) A Directiva 2000/53/CE deverá, por conseguinte, ser alterada em conformidade.\n\n(11) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité estabelecido ao abrigo do n.º 1 do artigo 18.º da Directiva 2006/12/CE do Parlamento Europeu e do Conselho, de 5 de Abril de 2006, relativa aos resíduos [([^3])](http://publications.europa.eu/resource/cellar/151c8e0d-fdf3-4382-a7c4-bf586896e407.0018.02/DOC_1#ntr3-L_2008225PT.01001001-E0003),\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "4a1f00de44607ae5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo II da Directiva 2000/53/CE é substituído pelo texto constante do anexo à presente decisão."
+  },
+  "ccfe652984fe55fe": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente decisão entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "f738c263a717636d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 1 de Agosto de 2008.\n\n***Pela Comissão***\n\n**Stavros DIMAS**\n\n***Membro da Comissão***\n\n---"
+  },
+  "50cb025ca1818947": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/151c8e0d-fdf3-4382-a7c4-bf586896e407.0018.02/DOC_1#ntc1-L_2008225PT.01001001-E0001) [JO L 269 de 21.10.2000, p. 34](http://publications.europa.eu/resource/oj/JOL_2000_269_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2008/33/CE ([JO L 81 de 20.3.2008, p. 62](http://publications.europa.eu/resource/oj/JOL_2008_081_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/151c8e0d-fdf3-4382-a7c4-bf586896e407.0018.02/DOC_1#ntc2-L_2008225PT.01001001-E0002) [JO L 152 de 15.6.2005, p. 19](http://publications.europa.eu/resource/oj/JOL_2005_152_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/151c8e0d-fdf3-4382-a7c4-bf586896e407.0018.02/DOC_1#ntc3-L_2008225PT.01001001-E0003) [JO L 114 de 27.4.2006, p. 9](http://publications.europa.eu/resource/oj/JOL_2006_114_R_TOC)."
+  }
+ }
+}

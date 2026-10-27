@@ -1,0 +1,770 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:480519:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2004-165226687",
+ "dre_path": "/dr/detalhe/lei/45-2004-480519",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-08-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165200830",
+    "165200831",
+    "165200832",
+    "165200833",
+    "165200834",
+    "165200835",
+    "165200836",
+    "165200837",
+    "165200838",
+    "165200839",
+    "165200840",
+    "165200841",
+    "165200842",
+    "165200843",
+    "165200844",
+    "165200845",
+    "165200846",
+    "165200847",
+    "165200848",
+    "165200849",
+    "165200850",
+    "165200851",
+    "165200852",
+    "165200853",
+    "165200854",
+    "165200855",
+    "165200856",
+    "165200857",
+    "165200858",
+    "165200859",
+    "165200860",
+    "165200861",
+    "165200862",
+    "165200863",
+    "165200864",
+    "165200865",
+    "165200866",
+    "165200867",
+    "165200868",
+    "165200869",
+    "165200870",
+    "165200871",
+    "165200872",
+    "165200873",
+    "165200874"
+   ]
+  },
+  {
+   "date": "2021-06-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165228577:por",
+     "title": "Decreto-Lei n.º 53/2021",
+     "published": "2021-06-16",
+     "dre_path": "/dr/detalhe/decreto-lei/53-2021-165228577"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º"
+   ],
+   "fragments": [
+    "165200830",
+    "165200831",
+    "165261835",
+    "165261836",
+    "165261837",
+    "165200835",
+    "165261838",
+    "165261839",
+    "165261840",
+    "165261841",
+    "165261842",
+    "165261843",
+    "165261844",
+    "165200843",
+    "165200844",
+    "165200845",
+    "165261845",
+    "165261834",
+    "165200847",
+    "165200848",
+    "165261846",
+    "165261847",
+    "165200851",
+    "165261848",
+    "165261849",
+    "165200854",
+    "165200855",
+    "165261850",
+    "165261851",
+    "165200858",
+    "165200859",
+    "165200860",
+    "165261852",
+    "165200862",
+    "165200863",
+    "165200864",
+    "165200865",
+    "165261853",
+    "165261854",
+    "165261855",
+    "165200869",
+    "165261856",
+    "165261857",
+    "165261858",
+    "165200873",
+    "165200874",
+    "165261775"
+   ]
+  }
+ ],
+ "fragments": {
+  "165200830": {
+   "fragment_id": "165226688",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 45/2004\n\nde 19 de Agosto\n\nEstabelece o regime jurídico das perícias médico-legais e forenses\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "165200831": {
+   "fragment_id": "165226689",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "165200832": {
+   "fragment_id": "165226690",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece o regime jurídico da realização das perícias médico-legais e forenses."
+  },
+  "165200833": {
+   "fragment_id": "165226691",
+   "type": 11,
+   "heading": "Artigo 2.º — Realização de perícias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Realização de perícias\n\n1 - As perícias médico-legais são realizadas, obrigatoriamente, nas delegações e nos gabinetes médico-legais do Instituto Nacional de Medicina Legal, adiante designado por Instituto, nos termos dos respectivos estatutos.\n\n2 - Excepcionalmente, perante manifesta impossibilidade dos serviços, as perícias referidas no número anterior poderão ser realizadas por entidades terceiras, públicas ou privadas, contratadas ou indicadas para o efeito pelo Instituto.\n\n3 - Nas comarcas não compreendidas na área de actuação das delegações e dos gabinetes médico-legais em funcionamento, as perícias médico-legais podem ser realizadas por médicos a contratar pelo Instituto nos termos dos artigos 28.º, 29.º e 31.º da presente lei.\n\n4 - As perícias médico-legais solicitadas ao Instituto em que se verifique a necessidade de formação médica especializada noutros domínios e que não possam ser realizadas nas delegações do Instituto ou nos gabinetes médico-legais, por aí não existirem peritos com a formação requerida ou condições materiais para a sua realização, poderão ser efectuadas, por indicação do Instituto, em serviço universitário ou de saúde público ou privado.\n\n5 - Sempre que necessário, as perícias médico-legais e forenses de natureza laboratorial poderão ser realizadas por entidades terceiras, públicas ou privadas, contratadas ou indicadas pelo Instituto.\n\n6 - Quando se verifiquem os casos previstos nos n.os 2, 4 e 5 será dada preferência, em circunstâncias equivalentes, a serviços públicos ou integrados no Serviço Nacional de Saúde."
+  },
+  "165200834": {
+   "fragment_id": "165226692",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisição de perícias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisição de perícias\n\n1 - As perícias médico-legais solicitadas por autoridade judiciária ou judicial são ordenadas por despacho da mesma, nos termos da lei de processo, não sendo, todavia, aplicáveis às efectuadas nas delegações do Instituto ou nos gabinetes médico-legais as disposições contidas nos artigos 154.º e 155.º do Código de Processo Penal.\n\n2 - Por razões de celeridade processual, a requisição dos exames periciais deve ser acompanhada das informações clínicas disponíveis ou que possam vir a ser obtidas pela entidade requisitante até à data da sua realização."
+  },
+  "165200835": {
+   "fragment_id": "165226693",
+   "type": 11,
+   "heading": "Artigo 4.º — Denúncia de crimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Denúncia de crimes\n\n1 - As delegações e os gabinetes médico-legais do Instituto podem receber denúncias de crimes, no âmbito da actividade pericial que desenvolvam, devendo remetê-las no mais curto prazo ao Ministério Público.\n\n2 - Sempre que tal se mostre necessário para a boa execução das perícias médico-legais, as delegações e os gabinetes médico-legais do Instituto podem praticar os actos cautelares necessários e urgentes para assegurar os meios de prova, procedendo, nomeadamente, ao exame, colheita e preservação dos vestígios, sem prejuízo das competências legais da autoridade policial à qual competir a investigação.\n\n3 - O disposto nos números anteriores é igualmente aplicável ao perito médico da delegação ou gabinete médico-legal do Instituto cuja intervenção seja solicitada no âmbito do serviço de escala para a realização de perícias médico-legais urgentes."
+  },
+  "165200836": {
+   "fragment_id": "165226694",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsabilidade pelas perícias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Responsabilidade pelas perícias\n\n1 - As perícias e pareceres solicitados às delegações e aos gabinetes médico-legais do Instituto, bem como às entidades previstas nos n.os 2, 4 e 5 do artigo 2.º, são realizados pelos peritos designados pelos dirigentes ou coordenadores dos respectivos serviços.\n\n2 - As perícias e pareceres solicitados a médicos contratados para o exercício de funções periciais em comarcas não compreendidas na área de actuação das delegações ou dos gabinetes médico-legais em funcionamento são realizadas pelos médicos constantes da lista referida no n.º 2 do artigo 28.º, nomeados por despacho da autoridade judiciária ou judicial.\n\n3 - A nomeação dos médicos referidos no número anterior é feita pela forma que mais convier ao movimento pericial da comarca e deve respeitar uma equitativa distribuição do serviço.\n\n4 - No exercício das suas funções periciais, os médicos e outros técnicos especialistas em medicina legal, os médicos contratados para o exercício dessas funções, os médicos dos serviços de saúde e as entidades terceiras referidas nos n.os 2, 4 e 5 do artigo 2.º gozam de autonomia e são responsáveis pelas perícias, relatórios e pareceres por si realizados.\n\n5 - Sem prejuízo do disposto no número anterior, os peritos e entidades nele referidos encontram-se obrigados a respeitar as normas, modelos e metodologias periciais em vigor no Instituto, bem como as recomendações decorrentes da supervisão técnico-científica dos serviços.\n\n6 - Por urgente conveniência de serviço ou em caso de manifesta impossibilidade do perito que efectuou o exame pericial, a elaboração ou conclusão do respectivo relatório poderá ser cometida pelos dirigentes ou coordenadores dos respectivos serviços a outro perito, desde que detentor de qualificação profissional igual ou superior à do primeiro e disponha das condições necessárias para esse efeito."
+  },
+  "165200837": {
+   "fragment_id": "165226695",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigatoriedade de sujeição a exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigatoriedade de sujeição a exames\n\n1 - Ninguém pode eximir-se a ser submetido a qualquer exame médico-legal quando este se mostrar necessário ao inquérito ou à instrução de qualquer processo e desde que ordenado pela autoridade judiciária competente, nos termos da lei.\n\n2 - Qualquer pessoa devidamente notificada ou convocada pelo director de delegação do Instituto ou pelo coordenador de gabinete médico-legal para a realização de uma perícia deve comparecer no dia, hora e local designados, sendo a falta comunicada, para os devidos efeitos, à autoridade judiciária competente.\n\n3 - O examinado pode, nos termos do disposto no artigo 155.º do Código de Processo Penal, com as necessárias adaptações, fazer-se acompanhar por pessoa da sua confiança para a realização do exame pericial.\n\n4 - A autoridade judiciária competente pode assistir à realização dos exames periciais."
+  },
+  "165200838": {
+   "fragment_id": "165226696",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas de deslocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas de deslocação\n\n1 - As pessoas que residam fora da área da comarca em que se encontre sediada a delegação do Instituto, o gabinete médico-legal ou o estabelecimento universitário ou de saúde especializado no qual tenham comparecido para a realização de exames, podem requerer que lhes seja arbitrada uma quantia a título de compensação pelas despesas realizadas.\n\n2 - A quantia referida no número anterior terá por base os valores estabelecidos nas tabelas aprovadas pelo Ministro da Justiça e será paga pelo Cofre Geral dos Tribunais através da sua delegação junto do tribunal que solicitou o exame.\n\n3 - As quantias arbitradas são consideradas custas do processo."
+  },
+  "165200839": {
+   "fragment_id": "165226697",
+   "type": 11,
+   "heading": "Artigo 8.º — Custo dos exames e perícias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Custo dos exames e perícias\n\n1 - Pela realização dos exames e perícias requisitados aos serviços do Instituto ou por este deferidas às entidades indicadas nos n.os 2 e 5 do artigo 2.º são pagas ao Instituto as quantias estabelecidas em tabela aprovada por portaria do Ministro da Justiça.\n\n2 - As quantias devidas pelos exames e perícias médico-legais realizados por médicos contratados para o exercício de funções periciais nas comarcas não compreendidas na área de actuação das delegações ou dos gabinetes médico-legais em funcionamento são-lhes pagas directamente pelo tribunal que os requisitou, de acordo com a tabela aprovada por portaria do Ministro da Justiça.\n\n3 - Os exames e perícias realizados nos estabelecimentos previstos no n.º 4 do artigo 2.º são pagos directamente a estes pelos tribunais de acordo com os valores fixados por portaria do Ministro da Justiça ou com as tabelas em vigor no Serviço Nacional de Saúde, consoante se trate de exames periciais clínicos, de exames laboratoriais, imagiológicos ou outros complementares de diagnóstico.\n\n4 - Nos casos previstos no número anterior, poderá uma parte da quantia paga pelos tribunais ao serviço de saúde reverter, até um máximo de 50%, para os médicos ou técnicos que os tenham efectuado.\n\n5 - As quantias a que se referem os números anteriores são consideradas custas do processo.\n\n6 - O pagamento ao Instituto é liquidado, independentemente da cobrança das custas, pelo preparo para despesas que tiver sido efectuado pelo requerente dos exames periciais ou pelo Cofre Geral dos Tribunais, conforme for o caso.\n\n7 - O disposto no presente artigo aplica-se ainda que haja lugar ao arquivamento do processo."
+  },
+  "165200840": {
+   "fragment_id": "165226698",
+   "type": 11,
+   "heading": "Artigo 9.º — Exames complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exames complementares\n\nO Instituto pode celebrar protocolos com instituições públicas ou privadas ou celebrar contratos com médicos ou outros técnicos, com vista à realização de exames periciais complementares e de exames complementares de diagnóstico requeridos pelas perícias efectuadas nos seus serviços."
+  },
+  "165200841": {
+   "fragment_id": "165226699",
+   "type": 11,
+   "heading": "Artigo 10.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acesso à informação\n\n1 - No exercício das suas funções periciais, os médicos e outros técnicos têm acesso à informação relevante, nomeadamente à constante dos autos, a qual lhes deve ser facultada em tempo útil pelas entidades competentes por forma a permitir a indispensável compreensão dos factos e uma mais exaustiva e rigorosa investigação pericial.\n\n2 - Para efeitos do disposto no número anterior, o presidente do Instituto, os directores das delegações, os directores dos serviços técnicos ou os coordenadores dos gabinetes médico-legais podem, observado o disposto nos n.os 3 e 4 do artigo 156.º do Código de Processo Penal, solicitar informações clínicas referentes aos examinados em processos médico-legais, directamente aos serviços clínicos hospitalares, serviços clínicos de companhias seguradoras ou outras entidades públicas ou privadas, que as devem prestar no prazo máximo de 30 dias."
+  },
+  "165200842": {
+   "fragment_id": "165226700",
+   "type": 11,
+   "heading": "Artigo 11.º — Livre trânsito e direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Livre trânsito e direito de acesso\n\n1 - Os funcionários envolvidos em investigação pericial no âmbito de situações de vítimas mortais de crime doloso ou em que exista a suspeita de tal, quando devidamente identificados e em missão de serviço, têm direito de acesso às instalações públicas ou privadas onde decorra a investigação.\n\n2 - A identificação a que se refere o número anterior faz-se por meio de cartão de identificação, aprovado pelo conselho directivo do Instituto."
+  },
+  "165200843": {
+   "fragment_id": "165226701",
+   "type": 11,
+   "heading": "Artigo 12.º — Esclarecimentos complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Esclarecimentos complementares\n\nNa prestação de esclarecimentos complementares posteriores à realização da perícia e envio do respectivo relatório médico-legal deverá prescindir-se, sempre que possível, da presença do perito, devendo a autoridade judicial que a solicita usar os meios técnicos processualmente previstos."
+  },
+  "165200844": {
+   "fragment_id": "165226702",
+   "type": 1,
+   "heading": "Capítulo II — Exames e perícias médico-legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exames e perícias médico-legais"
+  },
+  "165200845": {
+   "fragment_id": "165226703",
+   "type": 8,
+   "heading": "Secção I — Perícias médico-legais urgentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Perícias médico-legais urgentes"
+  },
+  "165200846": {
+   "fragment_id": "165226704",
+   "type": 11,
+   "heading": "Artigo 13.º — Realização de perícias urgentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Realização de perícias urgentes\n\n1 - Consideram-se perícias médico-legais urgentes aquelas em que se imponha assegurar com brevidade a observação de vítimas de violência, tendo designadamente em vista a colheita de vestígios ou amostras susceptíveis de se perderem ou alterarem rapidamente, bem como o exame do local em situações de vítimas mortais de crime doloso ou em que exista suspeita de tal.\n\n2 - Para a realização das perícias médico-legais urgentes a que se refere o número anterior haverá, diariamente, em cada delegação e gabinete médico-legal, um perito em serviço de escala, sendo da responsabilidade do director da delegação ou do coordenador do gabinete médico-legal indicar, para cada mês, os médicos escalados.\n\n3 - Para assegurar a realização de perícias médico-legais urgentes fora do horário normal de funcionamento dos serviços, as delegações do Instituto e os gabinetes médico-legais elaboram e remetem às autoridades judiciárias e aos órgãos de polícia criminal da respectiva área de actuação a lista dos peritos em serviço de escala no mês seguinte, indicando os seguintes elementos:\n\na) Nome dos peritos;\n\nb) Período de tempo assegurado por cada perito;\n\nc) Contacto de cada perito durante o respectivo período de prevenção.\n\n4 - O disposto nos n.os 2 e 3 só se aplica aos gabinetes médico-legais em funcionamento que disponham de peritos do quadro do Instituto em número suficiente para assegurar o período de prevenção.\n\n5 - As perícias médico-legais urgentes relativas a vítimas de agressão realizadas fora das horas normais de funcionamento dos serviços médico-legais poderão ter lugar em serviços de urgência de hospitais públicos ou outros estabelecimentos oficiais de saúde, dependendo, neste último caso, da prévia celebração de protocolos de cooperação entre estes e o Instituto.\n\n6 - Nas situações previstas no n.º 4, excepcionalmente, sempre que se verificar o impedimento do perito médico de escala ou nas comarcas não compreendidas na área de actuação das delegações ou dos gabinetes médico-legais em funcionamento, pode a autoridade judiciária nomear médico contratado para o exercício de funções periciais ou médico de reconhecida competência para a realização de perícias médico-legais urgentes.\n\n7 - O Instituto ou os médicos referidos no número anterior podem cobrar, por cada perícia médico-legal urgente efectuada, os preços previstos em tabela aprovada por portaria do Ministro da Justiça, valendo as quantias arbitradas como custas do processo."
+  },
+  "165200847": {
+   "fragment_id": "165226705",
+   "type": 8,
+   "heading": "Secção II — Exames e perícias no âmbito da tanatologia forense",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Exames e perícias no âmbito da tanatologia forense"
+  },
+  "165200848": {
+   "fragment_id": "165226706",
+   "type": 11,
+   "heading": "Artigo 14.º — Verificação e certificação dos óbitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Verificação e certificação dos óbitos\n\nA verificação e certificação dos óbitos é da competência dos médicos, nos termos da lei."
+  },
+  "165200849": {
+   "fragment_id": "165226707",
+   "type": 11,
+   "heading": "Artigo 15.º — Óbito verificado em instituições de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Óbito verificado em instituições de saúde\n\n1 - Nas situações de morte violenta ou de suspeita de morte violenta, bem como nas mortes de causa ignorada e quando o óbito for verificado em instituições públicas de saúde ou em instituições privadas de saúde, deve o seu director ou director clínico:\n\na) Comunicar o facto, no mais curto prazo, à autoridade judiciária competente, remetendo-lhe, devidamente preenchido, o boletim de informação clínica aprovado por portaria conjunta dos Ministros da Justiça e da Saúde, bem como qualquer outra informação relevante para a averiguação da causa e das circunstâncias da morte;\n\nb) Assegurar a permanência do corpo em local apropriado e providenciar pela preservação dos vestígios que importe examinar.\n\n2 - Compete ao conselho directivo do Instituto propor alterações ao modelo do boletim de informação clínica a que se refere a alínea a) do n.º 1.\n\n3 - Nos casos em que seja ordenada a realização de autópsia médico-legal, a autoridade judiciária envia ao serviço médico-legal ou ao médico contratado que a vai realizar, juntamente com o despacho que a ordena, cópia do boletim de informação clínica."
+  },
+  "165200850": {
+   "fragment_id": "165226708",
+   "type": 11,
+   "heading": "Artigo 16.º — Óbito verificado fora de instituições de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Óbito verificado fora de instituições de saúde\n\n1 - Em situações de morte violenta ou de causa ignorada, e quando o óbito for verificado fora de instituições de saúde, deve a autoridade policial:\n\na) Inspeccionar e preservar o local;\n\nb) Comunicar o facto, no mais curto prazo, à autoridade judiciária competente, relatando-lhe os dados relevantes para averiguação da causa e das circunstâncias da morte que tiver apurado;\n\nc) Providenciar, nos casos de crime doloso ou em que haja suspeita de tal, pela comparência do perito médico da delegação do Instituto ou do gabinete médico-legal que se encontre em serviço de escala para as perícias médico-legais urgentes, o qual procede à verificação do óbito, se nenhum outro médico tiver comparecido previamente, bem assim como ao exame do local, sem prejuízo das competências legais da autoridade policial à qual competir a investigação.\n\n2 - Quando haja lugar ao exame do local, nos termos da alínea c) do número anterior, é elaborada informação pelo perito médico, a enviar à autoridade judiciária.\n\n3 - No caso das restantes situações de morte violenta ou de causa ignorada e das referidas na alínea c) do n.º 1, que se verifiquem em comarcas não compreendidas na área de actuação das delegações do Instituto ou de gabinetes médico-legais em funcionamento, compete à autoridade de saúde da área onde tiver sido encontrado o corpo proceder à verificação do óbito, se nenhum outro médico tiver comparecido previamente e, se detectada a presença de vestígios que possam fazer suspeitar de crime doloso, providenciar pela comunicação imediata do facto à autoridade judiciária.\n\n4 - O disposto no número anterior aplica-se também perante a manifesta impossibilidade de contactar o perito médico em serviço de escala.\n\n5 - O transporte do perito médico ou da autoridade de saúde ao local é assegurado pela autoridade policial que tiver tomado conta da ocorrência.\n\n6 - Em todas as situações em que não haja certeza do óbito, as autoridades policiais ou os bombeiros devem conduzir as pessoas com a máxima brevidade ao serviço de urgência hospitalar mais próximo.\n\n7 - Na situação referida no n.º 1, compete às autoridades policiais promover a remoção dos cadáveres, consoante o local em que se tiver verificado o óbito, para a casa mortuária do serviço médico-legal da área ou, na sua inexistência, para a do hospital ou do cemitério mais próximos:\n\na) Após a verificação do óbito e a realização do exame de vestígios nos casos referidos na alínea c) do n.º 1; ou\n\nb) Por determinação da autoridade judiciária competente.\n\n8 - Excepcionalmente, perante a manifesta impossibilidade de contactar o perito médico em serviço de escala, a autoridade de saúde ou a autoridade judiciária competente, e existindo substanciais prejuízos decorrentes da permanência do corpo no local, pode a autoridade policial determinar e proceder à sua remoção para os locais referidos no número anterior, observando-se com as necessárias adaptações o disposto no n.º 3 do presente artigo.\n\n9 - Para o efeito do disposto nos dois números anteriores, as autoridades policiais podem requisitar a colaboração dos bombeiros, dos serviços médico-legais, dos serviços de saúde ou de agências funerárias.\n\n10 - Nas situações previstas nos números anteriores em que existam dados identificativos, compete, ainda, às autoridades policiais promover a comunicação do óbito às famílias.\n\n11 - As despesas inerentes às situações previstas nos números anteriores são satisfeitas pelo Cofre Geral dos Tribunais, através da sua delegação junto do tribunal territorialmente competente, e são consideradas custas do processo.\n\n12 - As disposições previstas nos números anteriores aplicam-se, com as devidas adaptações, em todas as situações de morte de pessoas detidas em estabelecimentos prisionais, esquadras ou postos de autoridades policiais ou outras forças de segurança.\n\n13 - Os cadáveres que derem entrada nos serviços médico-legais devem ser sujeitos a um exame pericial do hábito externo, cujo resultado será comunicado por escrito no mais curto prazo à autoridade judiciária competente, tendo em vista o estipulado no n.º 1 do artigo 18.º"
+  },
+  "165200851": {
+   "fragment_id": "165226709",
+   "type": 11,
+   "heading": "Artigo 17.º — Intervenção das autoridades judiciárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Intervenção das autoridades judiciárias\n\nO disposto nos artigos anteriores não dispensa a intervenção pessoal da autoridade judiciária competente que se demonstre necessária a garantir os direitos dos cidadãos e às exigências da investigação criminal."
+  },
+  "165200852": {
+   "fragment_id": "165226710",
+   "type": 11,
+   "heading": "Artigo 18.º — Autópsia médico-legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Autópsia médico-legal\n\n1 - A autópsia médico-legal tem lugar em situações de morte violenta ou de causa ignorada, salvo se existirem informações clínicas suficientes que associadas aos demais elementos permitam concluir, com segurança, pela inexistência de suspeita de crime, admitindo-se, neste caso, a possibilidade da dispensa de autópsia.\n\n2 - Tal dispensa nunca se poderá verificar em situações de morte violenta atribuível a acidente de trabalho ou acidente de viação dos quais tenha resultado morte imediata.\n\n3 - A autópsia médico-legal pode, ainda, ser dispensada nos casos em que a sua realização pressupõe o contacto com factores de risco particularmente significativo susceptíveis de comprometer de forma grave as condições de salubridade ou afectar a saúde pública.\n\n4 - Compete ao presidente do conselho directivo do Instituto autorizar a dispensa da realização de autópsia médico-legal nos casos previstos no número anterior, mediante comunicação escrita do facto, no mais curto prazo, à entidade judiciária competente.\n\n5 - A autópsia médico-legal pode ser realizada após a constatação de sinais de certeza de morte, competindo a sua marcação, com a possível brevidade, ao serviço médico-legal ou à autoridade judiciária nas comarcas não compreendidas na área de actuação das delegações do Instituto ou de gabinetes médico-legais em funcionamento, de acordo com a capacidade do serviço.\n\n6 - Compete à autoridade judiciária autorizar a remoção dos corpos com vista à realização da autópsia médico-legal, bem como assegurar a sua adequada preservação nos casos em que os mesmos não sejam removidos para as delegações ou gabinetes médico-legais.\n\n7 - As remoções efectuadas nas condições previstas no número anterior não estão sujeitas a averbamento nos assentos de óbito nem a licenças ou a taxas especiais."
+  },
+  "165200853": {
+   "fragment_id": "165226711",
+   "type": 11,
+   "heading": "Artigo 19.º — Realização das perícias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Realização das perícias\n\n1 - As autópsias médico-legais são realizadas por um médico perito coadjuvado por um auxiliar de perícias tanatológicas.\n\n2 - Havendo fundadas suspeitas de crime doloso, as autópsias médico-legais realizadas em comarca não compreendida na área de actuação de delegação do Instituto ou de gabinete médico-legal em funcionamento são obrigatoriamente executadas por dois médicos peritos, coadjuvados por um auxiliar de perícias tanatológicas.\n\n3 - Excepcionalmente, perante particular complexidade da autópsia ou impossibilidade de coadjuvação por auxiliar de perícias tanatológicas pode, também, a autópsia ser realizada por dois médicos peritos."
+  },
+  "165200854": {
+   "fragment_id": "165226712",
+   "type": 11,
+   "heading": "Artigo 20.º — Local de realização das perícias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Local de realização das perícias\n\nOs exames periciais de tanatologia forense solicitados pelas autoridades judiciárias de comarca compreendida na área de actuação de delegação do Instituto ou de gabinete médico-legal em funcionamento são obrigatoriamente realizados nestes serviços médico-legais, excepto se o presidente do conselho directivo do Instituto, o director da delegação ou o coordenador do gabinete médico-legal decidir a sua execução em local diferente."
+  },
+  "165200855": {
+   "fragment_id": "165226713",
+   "type": 8,
+   "heading": "Secção III — Exames e perícias no âmbito da clínica médico-legal e forense",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Exames e perícias no âmbito da clínica médico-legal e forense"
+  },
+  "165200856": {
+   "fragment_id": "165226714",
+   "type": 11,
+   "heading": "Artigo 21.º — Realização das perícias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Realização das perícias\n\n1 - Os exames e perícias de clínica médico-legal e forense são realizados por um médico perito.\n\n2 - Os exames de vítimas de agressão sexual podem ser realizados, sempre que necessário, por dois médicos peritos ou por um médico perito auxiliado por um profissional de enfermagem.\n\n3 - O disposto no n.º 1 não se aplica aos exames em que outros normativos legais determinem disposição diferente.\n\n4 - Dado o grau de especialização dos médicos peritos e a organização das delegações e gabinetes médico-legais do Instituto, deverá ser dada primazia, nestes serviços, aos exames singulares, ficando as perícias colegiais previstas no Código de Processo Civil reservadas para os casos em que o juiz, na falta de alternativa, o determine de forma fundamentada."
+  },
+  "165200857": {
+   "fragment_id": "165226715",
+   "type": 11,
+   "heading": "Artigo 22.º — Local de realização das perícias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Local de realização das perícias\n\n1 - Os exames e perícias singulares de clínica médico-legal e forense solicitados pelas autoridades judiciárias de comarca compreendida na área de actuação de delegação do Instituto ou de gabinete médico-legal em funcionamento são obrigatoriamente realizados por estes serviços médico-legais, nas suas instalações, excepto se o presidente do Instituto, o director da delegação ou o coordenador do gabinete médico-legal decidir a sua execução em local diferente.\n\n2 - As juntas médicas que devam ser presididas por juiz podem realizar-se em instalações do tribunal quando as delegações do Instituto ou os gabinetes médico-legais em funcionamento não disponham de condições para tal, ou mediante acordo previamente estabelecido com o director da delegação ou coordenador do gabinete médico-legal."
+  },
+  "165200858": {
+   "fragment_id": "165226716",
+   "type": 8,
+   "heading": "Secção IV — Exames e perícias no âmbito da genética, biologia e toxicologia forenses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Exames e perícias no âmbito da genética, biologia e toxicologia forenses"
+  },
+  "165200859": {
+   "fragment_id": "165226717",
+   "type": 11,
+   "heading": "Artigo 23.º — Realização das perícias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Realização das perícias\n\n1 - Os exames de genética, biologia e toxicologia forenses são obrigatoriamente solicitados à delegação do Instituto da área territorial do tribunal ou da autoridade policial que os requer.\n\n2 - O disposto no número anterior não se aplica aos exames de genética no âmbito da criminalística biológica que podem ser também solicitados ao Laboratório de Polícia Científica da Polícia Judiciária.\n\n3 - Estes exames podem também ser directamente solicitados pelos tribunais às entidades terceiras referidas no n.º 5 do artigo 2.º"
+  },
+  "165200860": {
+   "fragment_id": "165226718",
+   "type": 8,
+   "heading": "Secção V — Exames e perícias no âmbito da psiquiatria e psicologia forenses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Exames e perícias no âmbito da psiquiatria e psicologia forenses"
+  },
+  "165200861": {
+   "fragment_id": "165226719",
+   "type": 11,
+   "heading": "Artigo 24.º — Realização das perícias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Realização das perícias\n\n1 - Os exames e perícias de psiquiatria e psicologia forense são solicitados pela entidade competente à delegação do Instituto da área territorial do tribunal que os requer.\n\n2 - Sempre que a delegação não disponha de especialistas nestas áreas em número suficiente para assegurar a resposta às solicitações, pode deferir os exames e perícias a serviços especializados do Serviço Nacional de Saúde.\n\n3 - A distribuição dos exames e perícias nos termos do número anterior deverá ter em conta as possibilidades de resposta desses serviços e, sempre que possível, a sua área assistencial e o local de residência habitual dos examinandos."
+  },
+  "165200862": {
+   "fragment_id": "165226720",
+   "type": 8,
+   "heading": "Secção VI — Produtos e objectos examinados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Produtos e objectos examinados"
+  },
+  "165200863": {
+   "fragment_id": "165226721",
+   "type": 11,
+   "heading": "Artigo 25.º — Destino dos objectos e produtos examinados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Destino dos objectos e produtos examinados\n\n1 - Após a realização do exame pericial de vestígios, produtos biológicos ou peças anatómicas, o perito procede à recolha, acondicionamento e selagem de uma amostra susceptível de possibilitar a realização de nova perícia no caso de os objectos e produtos examinados o permitirem e à destruição do remanescente.\n\n2 - A amostra fica depositada no serviço médico-legal durante o período de dois anos, após o qual o serviço médico-legal pode proceder à sua destruição, salvo se, entretanto, o tribunal tiver comunicado determinação em contrário.\n\n3 - No caso de crimes da competência reservada de investigação da Polícia Judiciária, pode o Laboratório de Polícia Científica, sob sua exclusiva responsabilidade, proceder ao transporte e conservação das respectivas amostras."
+  },
+  "165200864": {
+   "fragment_id": "165226722",
+   "type": 11,
+   "heading": "Artigo 26.º — Objectos e produtos que revertem a favor dos serviços médico-legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Objectos e produtos que revertem a favor dos serviços médico-legais\n\n1 - Os objectos que sejam declarados perdidos a favor do Estado e as peças anatómicas que devam ter o destino referido no artigo 25.º podem ser afectos ao espólio museológico do serviço médico-legal que tiver procedido ao seu exame sempre que se revistam de interesse científico ou serem utilizados para fins de ensino e investigação.\n\n2 - No caso de peças anatómicas deve observar-se o estipulado na legislação que regula a dissecação de cadáveres ou de parte deles, bem como a extracção de peças, tecidos ou órgãos para fins de ensino e de investigação científica.\n\n3 - A declaração da utilidade relativa aos objectos que sejam declarados perdidos a favor do Estado deve ser proposta ao tribunal competente pelo serviço médico-legal que procedeu ao exame, fazendo-o constar no respectivo relatório."
+  },
+  "165200865": {
+   "fragment_id": "165226723",
+   "type": 8,
+   "heading": "Secção VII — Médicos a contratar para o exercício de funções periciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Médicos a contratar para o exercício de funções periciais"
+  },
+  "165200866": {
+   "fragment_id": "165226724",
+   "type": 11,
+   "heading": "Artigo 27.º — Exercício de funções periciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Exercício de funções periciais\n\n1 - A realização de perícias médico-legais e forenses compete aos médicos do quadro do Instituto ou contratados nos termos definidos na presente lei.\n\n2 - Podem, ainda, exercer funções periciais docentes ou investigadores do ensino superior no âmbito de protocolos para o efeito celebrados pelo Instituto com instituições de ensino públicas ou privadas."
+  },
+  "165200867": {
+   "fragment_id": "165226725",
+   "type": 11,
+   "heading": "Artigo 28.º — Médicos a contratar para o exercício de funções periciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Médicos a contratar para o exercício de funções periciais\n\n1 - A selecção de médicos a contratar para o exercício de funções nas comarcas não compreendidas na área de actuação das delegações e dos gabinetes médico-legais em funcionamento é feita por concursos trienais abertos pelo Instituto.\n\n2 - Até 15 de Junho do ano anterior a cada triénio, o Instituto procede à abertura dos concursos referidos no número anterior devendo as listas de classificação final ser publicadas até 15 de Outubro.\n\n3 - Os factores a ponderar na selecção de candidatos são definidos pelo conselho directivo do Instituto, ouvidos o órgão consultivo do Instituto e o conselho médico-legal, e constarão do respectivo aviso de abertura, podendo envolver uma avaliação de conhecimentos.\n\n4 - O conselho directivo do Instituto pode proceder às diligências que considere indispensáveis à verificação dos dados pessoais fornecidos pelos candidatos, bem assim como de todos os elementos curriculares necessários ao cabal exercício da função."
+  },
+  "165200868": {
+   "fragment_id": "165226726",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regime dos contratos\n\n1 - Os contratos para o exercício de funções periciais têm a natureza de contratos de prestação de serviços nos termos da lei geral, podendo prever o pagamento por acto pericial e vigoram por um período de três anos.\n\n2 - Para os efeitos do número anterior, os médicos das diversas carreiras médicas que se encontrem em regime de dedicação exclusiva ou de disponibilidade permanente, incluindo os da carreira médica de medicina legal, podem exercer funções periciais, sem quebra do compromisso de renúncia e sendo as remunerações daí decorrentes estabelecidas em norma constante de diploma específico.\n\n3 - Os candidatos podem ser contratados para mais de um gabinete ou comarca, nos termos a definir no aviso de abertura do concurso.\n\n4 - Os contratos são celebrados entre os médicos e o Instituto, podendo este contratar médicos directamente sempre que se verifique a impossibilidade de celebrar contrato com os médicos constantes das listas referidas no n.º 2 do artigo 28.º ou venham a ficar vagos lugares previamente ocupados.\n\n5 - O Instituto envia a cada tribunal das comarcas não compreendidas na área de actuação das delegações e dos gabinetes médico-legais em funcionamento a lista nominativa dos médicos contratados para exercerem funções na respectiva área, assim como as alterações que lhe sejam introduzidas.\n\n6 - Os contratos podem ser rescindidos a todo o tempo pelo Instituto.\n\n7 - Os médicos podem denunciar os seus contratos, desde que o façam com a antecedência mínima de 90 dias, sob pena de incorrerem em responsabilidade civil pelos danos causados.\n\n8 - Aos médicos contratados pelo Instituto para o exercício de funções periciais são vedadas, no âmbito da actividade pericial do tribunal ou tribunais da comarca da área de actuação do serviço médico-legal relativo ao contrato, nesses tribunais, outras intervenções periciais, nomeadamente como peritos representantes de seguradoras ou de sinistrados.\n\n9 - Excepcionalmente, pode o conselho directivo do Instituto autorizar o afastamento do impedimento referido no número anterior, em casos devidamente fundamentados."
+  },
+  "165200869": {
+   "fragment_id": "165226727",
+   "type": 8,
+   "heading": "Secção VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Disposições finais e transitórias"
+  },
+  "165200870": {
+   "fragment_id": "165226728",
+   "type": 11,
+   "heading": "Artigo 30.º — Acesso a informação genética ou biológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Acesso a informação genética ou biológica\n\nO acesso à informação genética ou biológica bem como o tratamento dos respectivos dados são regulados em legislação específica que salvaguarde os direitos fundamentais das pessoas, nos termos da Constituição e do direito internacional aplicável."
+  },
+  "165200871": {
+   "fragment_id": "165226729",
+   "type": 11,
+   "heading": "Artigo 31.º — Abertura de concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Abertura de concursos\n\n1 - O primeiro triénio a que se refere o n.º 1 do artigo 28.º tem início a 1 de Janeiro de 2005, considerando-se automaticamente denunciados e rescindidos a partir desta data todos os contratos para o exercício de funções periciais médicas em vigor, nomeadamente nos tribunais do trabalho.\n\n2 - Consideram-se automaticamente denunciados e rescindidos os contratos para o exercício de funções periciais médicas, nomeadamente nos tribunais de trabalho, em vigor nas comarcas que passem a estar abrangidas na área de actuação dos gabinetes médico-legais, a partir do momento em que estes são instalados."
+  },
+  "165200872": {
+   "fragment_id": "165226730",
+   "type": 11,
+   "heading": "Artigo 32.º — Contratos de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Contratos de prestação de serviços\n\n1 - O Instituto pode celebrar contratos nos termos do artigo 17.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, com médicos especialistas ou outros de reconhecida competência em áreas específicas, enquanto não estiverem preenchidos os lugares dos quadros da carreira médica de medicina legal e da carreira médica hospitalar.\n\n2 - O disposto no número anterior aplica-se aos médicos que se encontrem em regime de dedicação exclusiva, sem que a percepção das remunerações decorrentes do contrato envolva quebra do compromisso de renúncia."
+  },
+  "165200873": {
+   "fragment_id": "165226731",
+   "type": 11,
+   "heading": "Artigo 33.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Norma revogatória\n\nSão revogados:\n\na) Os artigos 40.º a 54.º e 78.º a 82.º do Decreto-Lei n.º 11/98, de 24 de Janeiro;\n\nb) O artigo 6.º, in fine, do Decreto-Lei n.º 96/2001, de 26 de Março;\n\nc) O n.º 2 do artigo 91.º do Código das Custas Judiciais, aprovado pelo Decreto-Lei n.º 224-A/96, de 26 de Novembro, com a redacção introduzida pelos Decretos-Leis n.os 320-B/2000, de 15 de Dezembro, e 324/2003, de 27 de Dezembro;\n\nd) A Portaria n.º 283/98, de 6 de Maio;\n\ne) A Portaria n.º 608/99, de 9 de Agosto."
+  },
+  "165200874": {
+   "fragment_id": "165226732",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\n1 - A presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - A disposição legal referida na alínea c) do artigo 33.º mantém-se transitoriamente em vigor até à publicação das portarias referidas no artigo 8.º"
+  },
+  "165261835": {
+   "fragment_id": "165226690",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece o regime jurídico da realização das perícias médico-legais e forenses, doravante designadas por perícias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261836": {
+   "fragment_id": "165226691",
+   "type": 11,
+   "heading": "Artigo 2.º — Realização de perícias",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 2.º — Realização de perícias\n\n1 - As perícias são realizadas, obrigatoriamente, nas delegações e nos gabinetes médico-legais e forenses do Instituto Nacional de Medicina Legal e Ciências Forenses, I. P. (INMLCF, I. P.), nos termos dos respetivos estatutos.\n\n2 - Excepcionalmente, perante manifesta impossibilidade dos serviços, as perícias referidas no número anterior poderão ser realizadas por entidades terceiras, públicas ou privadas, contratadas ou indicadas para o efeito pelo Instituto.\n\n3 - Nas comarcas não compreendidas na área de atuação das delegações e dos gabinetes médico-legais e forenses em funcionamento, as perícias podem ser realizadas por médicos contratados pelo INMLCF, I. P., nos termos dos artigos 28.º e 29.º\n\n4 - As perícias médico-legais solicitadas ao Instituto em que se verifique a necessidade de formação médica especializada noutros domínios e que não possam ser realizadas nas delegações do Instituto ou nos gabinetes médico-legais, por aí não existirem peritos com a formação requerida ou condições materiais para a sua realização, poderão ser efectuadas, por indicação do Instituto, em serviço universitário ou de saúde público ou privado.\n\n5 - Sempre que necessário, as perícias médico-legais e forenses de natureza laboratorial poderão ser realizadas por entidades terceiras, públicas ou privadas, contratadas ou indicadas pelo Instituto.\n\n6 - Quando se verifiquem os casos previstos nos n.os 2, 4 e 5, é dada preferência, em circunstâncias equivalentes, a serviços e entidades públicas integrados no Serviço Nacional de Saúde.\n\n7 - Às perícias e exames previstos no número anterior deve ser atribuída natureza urgente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261837": {
+   "fragment_id": "165226692",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisição de perícias",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 3.º — Requisição de perícias\n\n1 - As perícias solicitadas por autoridade judiciária ou judicial são ordenadas por despacho da mesma, nos termos da lei de processo, não sendo, todavia, aplicáveis às efetuadas nas delegações do INMLCF, I. P., ou nos gabinetes médico-legais e forenses as disposições contidas nos artigos 154.º e 155.º do Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de fevereiro, na sua redação atual, podendo contudo o examinado fazer-se acompanhar por uma pessoa da sua confiança para a realização do exame pericial, exceto em situações em que tal comprometa o objeto da perícia.\n\n2 - Por razões de celeridade processual, a requisição dos exames periciais deve ser acompanhada das informações clínicas disponíveis ou que possam vir a ser obtidas pela entidade requisitante até à data da sua realização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261838": {
+   "fragment_id": "165226694",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsabilidade pelas perícias",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 5.º — Responsabilidade pelas perícias\n\n1 - As perícias e pareceres solicitados às delegações e aos gabinetes médico-legais do Instituto, bem como às entidades previstas nos n.os 2, 4 e 5 do artigo 2.º, são realizados pelos peritos designados pelos dirigentes ou coordenadores dos respectivos serviços.\n\n2 - As perícias e pareceres solicitados a médicos contratados para o exercício de funções periciais em comarcas não compreendidas na área de atuação das delegações ou dos gabinetes médico-legais e forenses em funcionamento são realizadas pelos médicos nos termos do n.º 2 do artigo 28.º, nomeados por despacho da autoridade judiciária ou judicial.\n\n3 - A designação de médicos nos termos do número anterior é efetuada em função da conveniência face ao movimento pericial da comarca, devendo assegurar uma equitativa distribuição do serviço.\n\n4 - No exercício das suas funções periciais, os médicos e outros técnicos especialistas em medicina legal, os médicos ou outros técnicos contratados nos termos do disposto nos artigos 28.º e 29.º para o exercício dessas funções, os médicos dos serviços de saúde e as entidades terceiras referidas nos n.os 2, 4 e 5 do artigo 2.º gozam de autonomia e são responsáveis pelas perícias, relatórios e pareceres por si realizados.\n\n5 - Sem prejuízo do disposto no número anterior, os peritos e entidades nele referidos encontram-se obrigados a respeitar as normas, modelos e metodologias periciais em vigor no Instituto, bem como as recomendações decorrentes da supervisão técnico-científica dos serviços.\n\n6 - Por urgente conveniência de serviço ou em caso de manifesta impossibilidade do perito que efectuou o exame pericial, a elaboração ou conclusão do respectivo relatório poderá ser cometida pelos dirigentes ou coordenadores dos respectivos serviços a outro perito, desde que detentor de qualificação profissional igual ou superior à do primeiro e disponha das condições necessárias para esse efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261839": {
+   "fragment_id": "165226695",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigatoriedade de sujeição a exames",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 6.º — Obrigatoriedade de sujeição a exames\n\n1 - Ninguém pode eximir-se a ser submetido a qualquer exame médico-legal quando este se mostrar necessário ao inquérito ou à instrução de qualquer processo e desde que ordenado pela autoridade judiciária competente, nos termos da lei.\n\n2 - Qualquer pessoa devidamente notificada ou convocada pelo director de delegação do Instituto ou pelo coordenador de gabinete médico-legal para a realização de uma perícia deve comparecer no dia, hora e local designados, sendo a falta comunicada, para os devidos efeitos, à autoridade judiciária competente.\n\n3 - (Revogado.)\n\n4 - A autoridade judiciária competente pode assistir à realização dos exames periciais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261840": {
+   "fragment_id": "165226696",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas de deslocação",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 7.º — Despesas de deslocação\n\n1 - As pessoas que residam fora da área da comarca em que se encontre sediada a delegação do Instituto, o gabinete médico-legal ou o estabelecimento universitário ou de saúde especializado no qual tenham comparecido para a realização de exames, podem requerer que lhes seja arbitrada uma quantia a título de compensação pelas despesas realizadas.\n\n2 - A quantia referida no número anterior tem por base os valores estabelecidos nas tabelas aprovadas pelo membro do Governo responsável pela área da justiça e é paga pelo Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), através da sua delegação junto do tribunal que solicitou o exame.\n\n3 - As quantias arbitradas são consideradas custas do processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261841": {
+   "fragment_id": "165226697",
+   "type": 11,
+   "heading": "Artigo 8.º — Custo dos exames e perícias",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 8.º — Custo dos exames e perícias\n\n1 - Pela realização dos exames e perícias requisitados aos serviços do INMLCF, I. P., ou por este deferidas às entidades indicadas nos n.os 2 e 5 do artigo 2.º são pagas ao INMLCF, I. P., as quantias previstas na Portaria n.º 175/2011, de 28 de abril.\n\n2 - As quantias devidas pelos exames e perícias realizados por médicos contratados para o exercício de funções periciais, nas comarcas não compreendidas na área de atuação das delegações ou dos gabinetes médico-legais e forenses em funcionamento, são-lhes pagas diretamente pelo tribunal que os requisitou, de acordo com o previsto na Portaria n.º 685/2005, de 18 de agosto.\n\n3 - Os exames e perícias realizados nos estabelecimentos referidos no n.º 4 do artigo 2.º são pagos diretamente a estes pelos tribunais de acordo com os valores fixados na Portaria n.º 175/2011, de 28 de abril, ou com as tabelas em vigor no Serviço Nacional de Saúde, consoante se trate de exames periciais clínicos, de exames laboratoriais, imagiológicos ou outros exames complementares de diagnóstico.\n\n4 - Nos casos previstos no número anterior, a quantia paga pelos tribunais ao serviço de saúde reverte, até um máximo de 50 %, para os médicos ou outros técnicos que tenham efetuado os exames ou perícias.\n\n5 - As quantias a que se referem os números anteriores são consideradas custas do processo.\n\n6 - O pagamento ao INMLCF, I. P., é liquidado, independentemente da cobrança das custas, pelo preparo para despesas que tiver sido efetuado pelo requerente dos exames periciais ou pelo IGFEJ, I. P., conforme o caso.\n\n7 - O disposto no presente artigo aplica-se ainda que haja lugar ao arquivamento do processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261842": {
+   "fragment_id": "165226698",
+   "type": 11,
+   "heading": "Artigo 9.º — Exames complementares",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 9.º — Exames complementares\n\nO INMLCF, I. P., pode celebrar protocolos com instituições públicas ou privadas ou celebrar contratos com médicos ou outros técnicos, nos termos do disposto nos artigos 28.º e 29.º, com vista à realização de exames periciais complementares e de exames complementares de diagnóstico requeridos pelas perícias efetuadas nos seus serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261843": {
+   "fragment_id": "165226699",
+   "type": 11,
+   "heading": "Artigo 10.º — Acesso à informação",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 10.º — Acesso à informação\n\n1 - No exercício das suas funções periciais, os médicos e outros técnicos têm acesso à informação relevante, nomeadamente à constante dos autos, a qual lhes deve ser facultada em tempo útil pelas entidades competentes por forma a permitir a indispensável compreensão dos factos e uma mais exaustiva e rigorosa investigação pericial.\n\n2 - O presidente do conselho diretivo do INMLCF, I. P., os diretores das delegações, os diretores dos serviços técnicos, os coordenadores das unidades funcionais ou dos gabinetes médico-legais e forenses, no exercício das funções periciais ou de supervisão técnico-científica dos serviços, ou os médicos e outros técnicos no exercício das suas funções periciais podem solicitar, preferencialmente por via eletrónica, observado o disposto nos n.os 3 e 4 do artigo 156.º do Código de Processo Penal, as informações clínicas referentes aos examinados em processos médico-legais e forenses diretamente aos serviços clínicos hospitalares, aos serviços clínicos de empresas de seguros ou a outras entidades públicas ou privadas, que as devem prestar, preferencialmente pela mesma via, no prazo máximo de 30 dias.\n\n3 - O acesso à informação referida no n.º 1 é efetuado preferencialmente por via eletrónica, mediante a adoção de canais seguros, a definição de perfis de acesso baseados na necessidade de conhecer a informação e a implementação de mecanismos de rastreabilidade, de acordo com as regras de tratamento de dados pessoais constantes de regulamento aprovado pelo conselho diretivo do INMLCF, I. P.\n\n4 - O acesso previsto nos números anteriores é feito no estrito cumprimento do sigilo médico, do segredo profissional, do segredo de justiça e do regime de proteção de dados pessoais, previsto no Regulamento (UE) 2016/679 do Parlamento e do Conselho, de 27 de abril de 2016, e na Lei n.º 58/2019, de 8 de agosto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261844": {
+   "fragment_id": "165226700",
+   "type": 11,
+   "heading": "Artigo 11.º — Livre trânsito e direito de acesso",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 11.º — Livre trânsito e direito de acesso\n\n1 - Os médicos e outros técnicos envolvidos em investigação pericial de mortes que tenham resultado ou se suspeite terem resultado de crime doloso, quando devidamente identificados e em missão de serviço, têm direito de acesso às instalações públicas ou privadas onde decorra a investigação.\n\n2 -(Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261845": {
+   "fragment_id": "165226704",
+   "type": 11,
+   "heading": "Artigo 13.º — Realização de perícias urgentes e autópsias em dias não úteis",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 13.º — Realização de perícias urgentes e autópsias em dias não úteis\n\n1 - Consideram-se perícias médico-legais urgentes aquelas em que se imponha assegurar com brevidade a observação de vítimas de violência, tendo designadamente em vista a colheita de vestígios ou amostras susceptíveis de se perderem ou alterarem rapidamente, bem como o exame do local em situações de vítimas mortais de crime doloso ou em que exista suspeita de tal.\n\n2 - Para assegurar a realização de perícias urgentes fora do horário normal de funcionamento dos serviços, bem como de autópsias médico-legais em dias não úteis, deve haver, em cada delegação e gabinete médico-legal e forense do INMLCF, I. P., um perito em serviço em cada uma das escalas.\n\n3 - Para efeitos do disposto no número anterior, as delegações e os gabinetes médico-legais e forenses do INMLCF, I. P., elaboram a lista dos peritos em serviço de escala no mês seguinte, dando conhecimento dos elementos essenciais identificadores dos peritos às autoridades judiciárias e aos órgãos de polícia criminal.\n\n4 - O disposto nos n.os 2 e 3 só se aplica às delegações e aos gabinetes médico-legais e forenses em funcionamento que disponham de peritos do mapa de pessoal do INMLCF, I. P., em número suficiente para assegurar o período de prevenção.\n\n5 - As perícias médico-legais urgentes relativas a vítimas de agressão realizadas fora das horas normais de funcionamento dos serviços médico-legais poderão ter lugar em serviços de urgência de hospitais públicos ou outros estabelecimentos oficiais de saúde, dependendo, neste último caso, da prévia celebração de protocolos de cooperação entre estes e o Instituto.\n\n6 - Nas situações previstas no n.º 4, excecionalmente, sempre que se verifique o impedimento do perito médico de escala ou nas comarcas não compreendidas na área de atuação das delegações ou dos gabinetes médico-legais e forenses em funcionamento, pode a autoridade judiciária designar médico contratado nos termos dos artigos 28.º e 29.º, ou médico de reconhecida competência, para a realização de perícias urgentes.\n\n7 - Ao INMLCF, I. P., ou aos médicos referidos no número anterior são devidas, por cada perícia médico-legal urgente efetuada, as remunerações previstas, respetivamente, na Portaria n.º 175/2011, de 28 de abril, ou na Portaria n.º 685/2005, de 18 de agosto, que são consideradas custas do processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261834": {
+   "fragment_id": "165261994",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Equipa médico-legal de intervenção em catástrofes",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 13.º-A — Equipa médico-legal de intervenção em catástrofes\n\nA equipa médico-legal de intervenção em catástrofes, designada para o efeito pelo conselho diretivo do INMLCF, I. P., atua em situações em que uma ocorrência ocasione um número de vítimas mortais superior à capacidade de resposta dos serviços locais ou exija destes uma atuação técnica de exceção, sendo constituída por médicos, médicos dentistas, antropólogos, técnicos e outros profissionais devidamente habilitados.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261846": {
+   "fragment_id": "165226707",
+   "type": 11,
+   "heading": "Artigo 15.º — Óbito verificado em instituições de saúde",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 15.º — Óbito verificado em instituições de saúde\n\n1 - Nas situações de morte violenta ou de suspeita de morte violenta, bem como nas situações de morte cuja causa é ignorada, e quando o óbito for verificado em serviços e entidades públicas integrados no Serviço Nacional de Saúde ou em hospitais e serviços clínicos privados, deve o seu diretor ou diretor clínico:\n\na) Comunicar o facto, no mais curto prazo, à autoridade judiciária competente, remetendo-lhe, devidamente preenchido, o boletim de informação clínica disponibilizado no Sistema de Informação dos Certificados de Óbito, bem como qualquer outra informação relevante para a averiguação da causa e das circunstâncias da morte;\n\nb) Assegurar a permanência do corpo em local apropriado e providenciar pela preservação dos vestígios que importe examinar.\n\n2 - Compete ao conselho directivo do Instituto propor alterações ao modelo do boletim de informação clínica a que se refere a alínea a) do n.º 1.\n\n3 - Nos casos em que seja ordenada a realização de autópsia médico-legal, a autoridade judiciária envia ao serviço médico-legal, ou ao médico contratado nos termos do disposto nos artigos 28.º e 29.º que a vai realizar, juntamente com o despacho que a ordena, o número do boletim de informação clínica disponibilizado no Sistema de Informação dos Certificados de Óbito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261847": {
+   "fragment_id": "165226708",
+   "type": 11,
+   "heading": "Artigo 16.º — Óbito verificado fora de instituições de saúde",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 16.º — Óbito verificado fora de instituições de saúde\n\n1 - Em situações de morte violenta ou de causa ignorada, e quando o óbito for verificado fora de instituições de saúde, deve a autoridade policial:\n\na) Inspeccionar e preservar o local;\n\nb) Comunicar o facto, no mais curto prazo, à autoridade judiciária competente, relatando-lhe os dados relevantes para averiguação da causa e das circunstâncias da morte que tiver apurado;\n\nc) Providenciar, nos casos de crime doloso ou em que haja suspeita de tal, pela comparência do perito médico da delegação do Instituto ou do gabinete médico-legal que se encontre em serviço de escala para as perícias médico-legais urgentes, o qual procede à verificação do óbito, se nenhum outro médico tiver comparecido previamente, bem assim como ao exame do local, sem prejuízo das competências legais da autoridade policial à qual competir a investigação.\n\n2 - Quando haja lugar ao exame do local, nos termos da alínea c) do número anterior, é elaborada informação pelo perito médico, a enviar à autoridade judiciária.\n\n3 - No caso das restantes situações de morte violenta ou de causa ignorada e das referidas na alínea c) do n.º 1, que se verifiquem em comarcas não compreendidas na área de actuação das delegações do Instituto ou de gabinetes médico-legais em funcionamento, compete à autoridade de saúde da área onde tiver sido encontrado o corpo proceder à verificação do óbito, se nenhum outro médico tiver comparecido previamente e, se detectada a presença de vestígios que possam fazer suspeitar de crime doloso, providenciar pela comunicação imediata do facto à autoridade judiciária.\n\n4 - O disposto no número anterior aplica-se também perante a manifesta impossibilidade de contactar o perito médico em serviço de escala.\n\n5 - O transporte do perito médico ou da autoridade de saúde ao local é assegurado pela autoridade policial que tiver tomado conta da ocorrência.\n\n6 - Em todas as situações em que não haja certeza do óbito, as autoridades policiais ou os bombeiros devem conduzir as pessoas com a máxima brevidade ao serviço de urgência hospitalar mais próximo.\n\n7 - Na situação referida no n.º 1, compete às autoridades policiais promover a remoção dos cadáveres, consoante o local em que se tiver verificado o óbito, para a casa mortuária do serviço médico-legal da área ou, na sua inexistência, para a do hospital ou do cemitério mais próximos:\n\na) Após a verificação do óbito e a realização do exame de vestígios nos casos referidos na alínea c) do n.º 1; ou\n\nb) Por determinação da autoridade judiciária competente.\n\n8 - Excepcionalmente, perante a manifesta impossibilidade de contactar o perito médico em serviço de escala, a autoridade de saúde ou a autoridade judiciária competente, e existindo substanciais prejuízos decorrentes da permanência do corpo no local, pode a autoridade policial determinar e proceder à sua remoção para os locais referidos no número anterior, observando-se com as necessárias adaptações o disposto no n.º 3 do presente artigo.\n\n9 - Para o efeito do disposto nos dois números anteriores, as autoridades policiais podem requisitar a colaboração dos bombeiros, dos serviços médico-legais, dos serviços de saúde ou de agências funerárias.\n\n10 - Nas situações previstas nos números anteriores em que existam dados identificativos, compete, ainda, às autoridades policiais promover a comunicação do óbito às famílias.\n\n11 - As despesas inerentes às situações previstas nos números anteriores são satisfeitas pelo IGFEJ, I. P., através da sua delegação junto do tribunal territorialmente competente, e são consideradas custas do processo.\n\n12 - As disposições previstas nos números anteriores aplicam-se, com as devidas adaptações, em todas as situações de morte de pessoas detidas em estabelecimentos prisionais, esquadras ou postos de autoridades policiais ou outras forças de segurança, e ainda em centros educativos ou em outros estabelecimentos protocolados.\n\n13 - Os cadáveres que derem entrada nos serviços médico-legais devem ser sujeitos a um exame pericial do hábito externo, cujo resultado será comunicado por escrito no mais curto prazo à autoridade judiciária competente, tendo em vista o estipulado no n.º 1 do artigo 18.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261848": {
+   "fragment_id": "165226710",
+   "type": 11,
+   "heading": "Artigo 18.º — Autópsia médico-legal",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 18.º — Autópsia médico-legal\n\n1 - A autópsia médico-legal tem lugar em situações de morte violenta ou de causa ignorada, salvo se existirem informações clínicas suficientes que associadas aos demais elementos permitam concluir, com segurança, pela inexistência de suspeita de crime, admitindo-se, neste caso, a possibilidade da dispensa de autópsia.\n\n2 - A dispensa referida no número anterior nunca pode verificar-se em situações de morte violenta atribuível a acidente de trabalho ou acidente de viação dos quais tenha resultado morte imediata, bem como em situações de morte sob custódia policial ou associada a uma intervenção policial ou militar, ou em casos em que haja suspeita de tortura ou tratamentos cruéis, desumanos ou degradantes.\n\n3 - A autópsia médico-legal pode, ainda, ser dispensada nos casos em que a sua realização pressupõe o contacto com fatores de risco particularmente significativo suscetíveis de comprometer de forma grave as condições de salubridade, afetar a saúde pública ou colocar em risco a saúde dos trabalhadores nela envolvidos.\n\n4 - Compete ao presidente do conselho directivo do Instituto autorizar a dispensa da realização de autópsia médico-legal nos casos previstos no número anterior, mediante comunicação escrita do facto, no mais curto prazo, à entidade judiciária competente.\n\n5 - A autópsia médico-legal pode ser realizada após a constatação de sinais de certeza de morte, competindo a sua marcação, com a possível brevidade, ao serviço médico-legal ou à autoridade judiciária nas comarcas não compreendidas na área de actuação das delegações do Instituto ou de gabinetes médico-legais em funcionamento, de acordo com a capacidade do serviço.\n\n6 - Compete à autoridade judiciária autorizar a remoção dos corpos com vista à realização da autópsia médico-legal, bem como assegurar a sua adequada preservação nos casos em que os mesmos não sejam removidos para as delegações ou gabinetes médico-legais.\n\n7 - As remoções efectuadas nas condições previstas no número anterior não estão sujeitas a averbamento nos assentos de óbito nem a licenças ou a taxas especiais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261849": {
+   "fragment_id": "165226711",
+   "type": 11,
+   "heading": "Artigo 19.º — Realização das perícias",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 19.º — Realização das perícias\n\n1 - As autópsias médico-legais são realizadas por um médico perito coadjuvado por um auxiliar de perícias tanatológicas e, se necessário, com a colaboração de um médico dentista perito para a realização de perícias de medicina dentária forense.\n\n2 - Havendo fundadas suspeitas de crime doloso, as autópsias médico-legais realizadas em comarca não compreendida na área de actuação de delegação do Instituto ou de gabinete médico-legal em funcionamento são obrigatoriamente executadas por dois médicos peritos, coadjuvados por um auxiliar de perícias tanatológicas.\n\n3 - Excepcionalmente, perante particular complexidade da autópsia ou impossibilidade de coadjuvação por auxiliar de perícias tanatológicas pode, também, a autópsia ser realizada por dois médicos peritos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261850": {
+   "fragment_id": "165226714",
+   "type": 11,
+   "heading": "Artigo 21.º — Realização das perícias",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 21.º — Realização das perícias\n\n1 - Os exames e perícias de clínica médico-legal e forense são realizados por um médico perito.\n\n2 - Os exames de vítimas de agressão sexual podem ser realizados, sempre que necessário, por dois médicos peritos ou por um médico perito coadjuvado por um profissional de enfermagem.\n\n3 - O disposto no n.º 1 não se aplica aos exames em que outros normativos legais determinem disposição diferente.\n\n4 - Dado o grau de especialização dos médicos peritos e a organização das delegações e gabinetes médico-legais do Instituto, deverá ser dada primazia, nestes serviços, aos exames singulares, ficando as perícias colegiais previstas no Código de Processo Civil reservadas para os casos em que o juiz, na falta de alternativa, o determine de forma fundamentada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261851": {
+   "fragment_id": "165226715",
+   "type": 11,
+   "heading": "Artigo 22.º — Local de realização das perícias",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 22.º — Local de realização das perícias\n\n1 - Os exames e perícias singulares de clínica médico-legal e forense solicitados pelas autoridades judiciárias de comarca compreendida na área de atuação de delegação do INMLCF, I. P., ou de gabinete médico-legal e forense em funcionamento são obrigatoriamente realizados por estes serviços médico-legais, nas suas instalações, exceto se o presidente do conselho diretivo do INMLCF, I. P., o diretor da delegação ou o coordenador do gabinete médico-legal e forense decidir a sua execução em local diferente.\n\n2 - As juntas médicas que devam ser presididas por juiz podem realizar-se em instalações do tribunal quando as delegações do Instituto ou os gabinetes médico-legais em funcionamento não disponham de condições para tal, ou mediante acordo previamente estabelecido com o director da delegação ou coordenador do gabinete médico-legal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261852": {
+   "fragment_id": "165226719",
+   "type": 11,
+   "heading": "Artigo 24.º — Realização das perícias",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 24.º — Realização das perícias\n\n1 - Os exames e perícias de psiquiatria e psicologia forense são solicitados pela entidade competente à delegação do Instituto da área territorial do tribunal que os requer.\n\n2 - Sempre que a delegação não disponha de especialistas nestas áreas em número suficiente para assegurar a resposta às solicitações, pode deferir os exames e perícias a serviços especializados do Serviço Nacional de Saúde.\n\n3 - A distribuição dos exames e perícias nos termos do número anterior deverá ter em conta as possibilidades de resposta desses serviços e, sempre que possível, a sua área assistencial e o local de residência habitual dos examinandos.\n\n4 - Em tudo o que não estiver especialmente previsto no presente artigo aplica-se o disposto no artigo 159.º do Código de Processo Penal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261853": {
+   "fragment_id": "165226724",
+   "type": 11,
+   "heading": "Artigo 27.º — Exercício de funções periciais",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 27.º — Exercício de funções periciais\n\n1 - A realização de perícias compete aos médicos integrados no mapa de pessoal do INMLCF, I. P., ou contratados nos termos definidos na presente lei, com a colaboração, se necessário, de médicos dentistas peritos para a realização de perícias de medicina dentária forense.\n\n2 - Podem, ainda, exercer funções periciais docentes ou investigadores, no âmbito de protocolos celebrados pelo INMLCF, I. P., com instituições de ensino superior públicas ou privadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261854": {
+   "fragment_id": "165226725",
+   "type": 11,
+   "heading": "Artigo 28.º — Médicos a contratar para o exercício de funções periciais",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 28.º — Médicos a contratar para o exercício de funções periciais\n\n1 - Os médicos não pertencentes ao mapa de pessoal do INMLCF, I. P., podem exercer, na sequência de procedimento trienal, funções periciais em regime de contrato de prestação de serviços.\n\n2 - A seleção de médicos a contratar para o exercício de funções médico-legais e forenses é feita através do procedimento adequado à formação de contratos de prestação de serviços nos termos estabelecidos na Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e, subsidiariamente, no Código dos Contratos Públicos (CCP), aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual.\n\n3 - Os critérios de pontuação ou ponderação para a seleção e avaliação dos candidatos são estabelecidos em conformidade com os princípios consagrados na LTFP, no CCP e no Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual.\n\n4 - (Revogado.)\n\n5 - O disposto nos números anteriores aplica-se, com as devidas adaptações, à contratação de médicos dentistas para a realização de perícias de medicina dentária forense.\n\n6 - As decisões de contratar e outras, a escolha do procedimento e a aprovação das peças do procedimento cabem ao conselho diretivo do INMLCF, I. P., nos termos estabelecidos na LTFP e no CCP.\n\n7 - O recurso a prestadores externos apenas pode ocorrer na impossibilidade da satisfação das necessidades periciais através do regime de produção adicional previsto no artigo seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261855": {
+   "fragment_id": "165226726",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime do exercício de funções periciais",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 29.º — Regime do exercício de funções periciais\n\n1 - (Revogado.)\n\n2 - Para efeitos do disposto no artigo anterior, os médicos da carreira especial médica que se encontrem em regime de dedicação exclusiva ou de disponibilidade permanente podem, se para tal autorizados pelo respetivo órgão máximo de gestão, exercer funções periciais sem quebra do compromisso de renúncia, sendo as remunerações daí decorrentes as previstas na Portaria n.º 685/2005, de 18 de agosto.\n\n3 - Os candidatos podem ser contratados para mais de um gabinete médico-legal e forense ou comarca, nos termos a definir na respetiva peça do procedimento para a formação do contrato de prestação de serviços.\n\n4 - Sem prejuízo do disposto nos números anteriores, pode ser determinada, sempre que se mostre necessária, a contratação de médicos ou outros técnicos para, designadamente, a prática de atos médicos isolados, preenchimento de lugares não ocupados ou para substituição em caso de cessação de contratos.\n\n5 - O INMLCF, I. P., envia a cada tribunal das comarcas não compreendidas na área de atuação das delegações e dos gabinetes médico-legais e forenses, a lista nominativa dos médicos contratados para exercerem funções na respetiva área, assim como as alterações que lhe sejam introduzidas.\n\n6 - Os contratos podem ser rescindidos a todo o tempo pelo Instituto.\n\n7 - O incumprimento das obrigações contratuais legitima a resolução contratual e a consequente indemnização nos termos gerais da responsabilidade civil.\n\n8 - Aos médicos contratados pelo INMLCF, I. P., são vedadas, no âmbito da atividade pericial do tribunal ou tribunais da comarca da área de atuação do serviço médico-legal e forense relativo ao contrato, nesses tribunais, outras intervenções periciais, nomeadamente como peritos representantes de seguradoras ou de sinistrados.\n\n9 - (Revogado.)\n\n10 - O disposto nos números anteriores aplica-se, com as devidas adaptações, à contratação de médicos dentistas para a realização de perícias de medicina dentária forense.\n\n11 - Os médicos da carreira médica de medicina legal pertencentes ao mapa de pessoal do INMLCF, I. P., mesmo que se encontrem em regime de dedicação exclusiva, e os médicos internos de formação especializada em medicina legal podem, além da sua produção normal, exercer funções periciais adicionais no INMLCF, I. P., em regime de contratualização interna, regulado por portaria dos membros do Governo responsáveis pelas áreas das finanças, da justiça e da Administração Pública.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261856": {
+   "fragment_id": "165226728",
+   "type": 11,
+   "heading": "Artigo 30.º — Acesso a informação genética ou biológica",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 30.º — Acesso a informação genética ou biológica\n\nO acesso à informação genética ou biológica bem como o tratamento dos respectivos dados são regulados em legislação específica que salvaguarde os direitos fundamentais das pessoas, nos termos da Constituição e do direito internacional aplicável.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261857": {
+   "fragment_id": "165226729",
+   "type": 11,
+   "heading": "Artigo 31.º — Abertura de concursos",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 31.º — Abertura de concursos\n\n1 - O primeiro triénio a que se refere o n.º 1 do artigo 28.º tem início a 1 de Janeiro de 2005, considerando-se automaticamente denunciados e rescindidos a partir desta data todos os contratos para o exercício de funções periciais médicas em vigor, nomeadamente nos tribunais do trabalho.\n\n2 - Consideram-se automaticamente denunciados e rescindidos os contratos para o exercício de funções periciais médicas, nomeadamente nos tribunais de trabalho, em vigor nas comarcas que passem a estar abrangidas na área de actuação dos gabinetes médico-legais, a partir do momento em que estes são instalados.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261858": {
+   "fragment_id": "165226730",
+   "type": 11,
+   "heading": "Artigo 32.º — Contratos de prestação de serviços",
+   "in_force_from": "2021-06-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+   ],
+   "markdown": "###### Artigo 32.º — Contratos de prestação de serviços\n\n1 - O Instituto pode celebrar contratos nos termos do artigo 17.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, com médicos especialistas ou outros de reconhecida competência em áreas específicas, enquanto não estiverem preenchidos os lugares dos quadros da carreira médica de medicina legal e da carreira médica hospitalar.\n\n2 - O disposto no número anterior aplica-se aos médicos que se encontrem em regime de dedicação exclusiva, sem que a percepção das remunerações decorrentes do contrato envolva quebra do compromisso de renúncia.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 53/2021 - Diário da República n.º 115/2021, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2021-165228577), em vigor a partir de 2021-06-21"
+  },
+  "165261775": {
+   "fragment_id": "165226733",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de Julho de 2004.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 2 de Agosto de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 5 de Agosto de 2004.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  }
+ }
+}

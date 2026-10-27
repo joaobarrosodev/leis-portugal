@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:580975:por
+title: Decreto Legislativo Regional n.º 22/2000/M
+short_title: null
+summary: Reafirma a qualificação de bens e dos imóveis onde estão implantadas as infra-estruturas do Aeroporto do Funchal
+  e seus serviços
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 22/2000/M
+official_date: null
+publication_date: '2000-09-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/2000, Série I-A de 2000-09-01
+  number: '202'
+  series: I
+  supplement: null
+  pages: 4611 - 4612
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/09/202a00/46114612.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/22/2000/09/01/m/dre/pt/html
+  oj: null
+  dre: '580975'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/22-2000-580975
+  internal: pt:dre:580975:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2000-580975
+  metadata_url: https://data.dre.pt/eli/declegreg/22/2000/09/01/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2000-580975
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 257b5d397816f28c0f4293a0892a9a01381dbfb073a0b93db68278d9166491a8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeroporto
+- ANAM
+- Expropriação
+- Funchal
+- Isenção de Taxas e Emolumentos
+- Madeira.região Autónoma
+- Prédio Urbano
+- Propriedade do Estado
+relationships:
+- type: cites
+  target: pt:dre:217922:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/8/1992/04/21/m/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:39:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 22/2000/M
+
+Reafirma a qualificação de bens e dos imóveis onde estão implantadas as infra-estruturas do Aeroporto do Funchal e seus serviços.
+
+A construção da 2.ª fase da ampliação da pista do Aeroporto do Funchal constitui, como se afirmou no preâmbulo do [Decreto Legislativo Regional n.º 8/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-217922), de 21 de Abril, um marco relevante na prossecução da estratégia de desenvolvimento da Região Autónoma da Madeira.
+
+A ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., foi concebida para, mediante concessão, se encarregar da exploração das infra-estruturas aeroportuárias da Região Autónoma da Madeira e da promoção das obras de ampliação, sucedendo, legalmente, ao Gabinete para os Aeroportos da Região Autónoma da Madeira (GARAM) e sendo para ela transferida a universalidade de direitos e obrigações de que o referido Gabinete era titular. À ANAM é reconhecida a natureza de pessoa colectiva de utilidade pública regional.
+
+Nos termos dos artigos 5.º, 6.º e 10.º do [Decreto Legislativo Regional n.º 8/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-217922), de 21 de Abril, a exploração do serviço de apoio à aviação civil é feita em regime de serviço público, as obras de ampliação e desenvolvimento dos aeroportos da Região Autónoma compreendem, nomeadamente, a construção das obras de ampliação da 2.ª fase do Aeroporto do Funchal e a construção da nova aerogare do Aeroporto do Porto Santo, e as infra-estruturas aeroportuárias integram o domínio público regional, à semelhança dos instrumentos, instalações e equipamento utilizados pela ANAM, revertendo para a Região Autónoma da Madeira finda a concessão.
+
+Assim, e para que não subsistam dúvidas na interpretação do contrato de concessão de 9 de Julho de 1993, designadamente da sua cláusula 13.ª:
+
+A Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º e das alíneas i) e o) do artigo 228.º, ambos da Constituição da República Portuguesa, e da alínea c) do n.º 1 do artigo 37.º, das alíneas d) e e) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, revisto pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, o seguinte:
+
+###### Artigo 1.º
+
+Os imóveis adquiridos ou a adquirir por via do direito privado ou de expropriação integrados nas obras de construção, ampliação e desenvolvimento do Aeroporto do Funchal, bem como os destinados à instalação e funcionamento dos serviços concessionados, pertencem ao domínio público do concedente.
+
+###### Artigo 2.º
+
+O presente diploma constitui título bastante para o registo e inscrição daqueles imóveis nas respectivas conservatórias do registo predial e repartições de finanças, com dispensa do trato sucessivo e isenção de emolumentos.
+
+###### Artigo 3.º
+
+O presente diploma entra em vigor 30 dias após a data da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 20 de Julho de 2000.
+
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 4 de Agosto de 2000.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

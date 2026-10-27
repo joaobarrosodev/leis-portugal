@@ -1,0 +1,237 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:451642:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1983-895613502",
+ "dre_path": "/dr/detalhe/decreto-lei/233-1983-451642",
+ "source_lastmod": "2024-11-05",
+ "versions": [
+  {
+   "date": "1983-05-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "895613898",
+    "895613889",
+    "895613890",
+    "895613891"
+   ]
+  },
+  {
+   "date": "1985-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151914:por",
+     "title": "Decreto-Lei n.º 184/85",
+     "published": "1985-05-28",
+     "dre_path": "/dr/detalhe/decreto-lei/184-1985-151914"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "895613888",
+    "895613893",
+    "895613894",
+    "895613895",
+    "895613892"
+   ]
+  },
+  {
+   "date": "1985-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:431017:por",
+     "title": "Declaração",
+     "published": "1985-06-29",
+     "dre_path": "/dr/detalhe/declaracao/1985-431017"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º",
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "895613888",
+    "895613896",
+    "895613897",
+    "895613895",
+    "895613892"
+   ]
+  },
+  {
+   "date": "2001-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:314190:por",
+     "title": "Decreto-Lei n.º 156/2001",
+     "published": "2001-05-11",
+     "dre_path": "/dr/detalhe/decreto-lei/156-2001-314190"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "895613898",
+    "895613899",
+    "895613900",
+    "895613901",
+    "895613902"
+   ]
+  }
+ ],
+ "fragments": {
+  "895613898": {
+   "fragment_id": "895613503",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2001-05-16",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 233/83\n\nde 30 de Maio\n\nMostrando-se necessário actualizar a estrutura e composição do conselho administrativo dos cofres do Ministério da Justiça:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "895613889": {
+   "fragment_id": "895613504",
+   "type": 11,
+   "heading": "Artigo 1.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Composição)\n\nO Cofre dos Conservadores, Notários e Funcionários de Justiça e o Cofre Geral dos Tribunais são geridos por um conselho administrativo constituído pelo presidente do Supremo Tribunal de Justiça, que presidirá, pelo procurador-geral da República, que será o vice-presidente, pelo secretário-geral do Ministério da Justiça, pelos directores-gerais dos Serviços Judiciários e dos Registos e do Notariado e pelo director do Gabinete de Gestão Financeira do Ministério da Justiça."
+  },
+  "895613890": {
+   "fragment_id": "895613505",
+   "type": 11,
+   "heading": "Artigo 2.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Competência)\n\nCompete ao conselho administrativo:\n\na) Deliberar sobre tudo que interesse à administração dos cofres e não seja, por lei ou determinação superior, excluído da sua competência;\n\nb) Submeter a despacho do Ministro da Justiça, com a sua informação, os assuntos que careçam de resolução superior;\n\ne) Expedir as instruções convenientes à boa execução dos serviços dos cofres por todas as entidades a quem cabe a arrecadação das suas receitas e a satisfação dos respectivos encargos;\n\nd) Autorizar, dentro dos limites previstos no Decreto-Lei n.º 211/79 e legislação complementar, as despesas do Gabinete de Gestão Financeira do Ministério da Justiça;\n\ne) Submeter, para aprovação do Ministro da Justiça, os orçamentos e as contas de cada gerência do Cofre dos Conservadores, Notários e Funcionários de Justiça e do Cofre Geral dos Tribunais."
+  },
+  "895613891": {
+   "fragment_id": "895613506",
+   "type": 11,
+   "heading": "Artigo 3.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Funcionamento)\n\n1 - O conselho administrativo reunir-se-á, ordinariamente, 2 vezes por mês e, extraordinariamente, quando o seu presidente o julgar necessário.\n\n2 - As deliberações são tomadas por maioria de votos dos membros presentes, tendo o presidente voto de qualidade.\n\n3 - Nas suas faltas e impedimentos, o presidente será substituído pelo vice-presidente. Os outros membros serão substituídos por quem os substituir nos respectivos cargos.\n\n4 - As reuniões serão secretariadas pelo director de serviços de gestão económica e financeira do Gabinete de Gestão Financeira.\n\n5 - O conselho administrativo elaborará o seu regulamento interno."
+  },
+  "895613888": {
+   "fragment_id": "895613503",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 233/83\n\nde 30 de Maio\n\nMostrando-se necessário actualizar a estrutura e composição do conselho administrativo dos cofres do Ministério da Justiça:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "895613893": {
+   "fragment_id": "895613504",
+   "type": 11,
+   "heading": "Artigo 1.º — (Composição)",
+   "in_force_from": "1985-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+   ],
+   "markdown": "###### Artigo 1.º — (Composição)\n\nO conselho administrativo do Cofre dos Conservadores, Notários e Funcionários de justiça e do Cofre Geral dos Tribunais, previsto no artigo 3.º do Decreto-Lei n.º 35483, de 2 de Fevereiro de 1946, com a redacção do Decreto-Lei n.º 37353, de 26 de Março de 1949, é constituído pelo Presidente do Supremo Tribunal de Justiça, que a ele preside, pelo procurador-geral da República, que é o vice-presidente, pelo secretário-geral do Ministério da Justiça, pelos directores-gerais dos Serviços Judiciários e dos Registos e do Notariado e pelo director do Gabinete de Gestão Financeira do Ministério da Justiça.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+  },
+  "895613894": {
+   "fragment_id": "895613505",
+   "type": 11,
+   "heading": "Artigo 2.º — (Competência)",
+   "in_force_from": "1985-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+   ],
+   "markdown": "###### Artigo 2.º — (Competência)\n\nCompete ao conselho administrativo:\n\na) Dar parecer sobre a política geral de actuação do Gabinete de Gestão Financeira do Ministério da Justiça definida pelo Ministro e fiscalizar a mesma actuação;\n\nb) Pronunciar-se sobre os orçamentos e contas de gerência elaborados pelo Gabinete de Gestão Financeira, submetendo-os à aprovação do Ministro da Justiça;\n\nc) Apreciar e dar parecer sobre o plano financeiro e sobre o relatório anual de actividades do Gabinete de Gestão Financeira;\n\nd) Propor, fundamentalmente, ao Ministro da Justiça as providências que repute adequadas em matéria de gestão financeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+  },
+  "895613895": {
+   "fragment_id": "895613506",
+   "type": 11,
+   "heading": "Artigo 3.º — (Funcionamento)",
+   "in_force_from": "1985-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+   ],
+   "markdown": "###### Artigo 3.º — (Funcionamento)\n\n1 - O conselho administrativo reunir-se-á ordinariamente de 2 em 2 meses e extraordinariamente quando o seu presidente o julgar necessário.\n\n2 - As deliberações são tomadas por maioria de votos dos membros presentes, tendo o presidente voto de qualidade.\n\n3 - Nas suas faltas e impedimentos, o presidente será substituído pelo vice-presidente. Os outros membros serão substituídos por quem os substituir nos respectivos cargos.\n\n4 - As reuniões serão secretariadas pelo director de serviços de gestão económica e financeira do Gabinete de Gestão Financeira.\n\n5 - O conselho administrativo elaborará o seu regulamento interno.\n\n6 - O apoio técnico e administrativo do conselho será assegurado pela Secretaria-Geral do Ministério da Justiça ou pelo Gabinete de Gestão Financeira, conforme for proposto pelo conselho e aprovado pelo Ministro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+  },
+  "895613892": {
+   "fragment_id": "895613507",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.\n\nPromulgado em 12 de Maio de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 13 de Maio de 1983.\n\nPelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida."
+  },
+  "895613896": {
+   "fragment_id": "895613504",
+   "type": 11,
+   "heading": "Artigo 1.º — (Composição)",
+   "in_force_from": "1985-06-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+   ],
+   "markdown": "###### Artigo 1.º — (Composição)\n\nO conselho administrativo do Cofre dos Conservadores, Notários e Funcionários de justiça e do Cofre Geral dos Tribunais, previsto no artigo 3.º do Decreto-Lei n.º 35483, de 2 de Fevereiro de 1946, com a redacção do Decreto-Lei n.º 37353, de 26 de Março de 1949, é constituído pelo Presidente do Supremo Tribunal de Justiça, que a ele preside, pelo procurador-geral da República, que é o vice-presidente, pelo secretário-geral do Ministério da Justiça, pelos directores-gerais dos Serviços Judiciários, dos Registos e do Notariado e do Gabinete de Gestão Financeira do Ministério da Justiça.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+  },
+  "895613897": {
+   "fragment_id": "895613505",
+   "type": 11,
+   "heading": "Artigo 2.º — (Competência)",
+   "in_force_from": "1985-06-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+   ],
+   "markdown": "###### Artigo 2.º — (Competência)\n\nCompete ao conselho administrativo:\n\na) Dar parecer sobre a política geral de actuação do Gabinete de Gestão Financeira do Ministério da Justiça definida pelo Ministro e fiscalizar a mesma actuação;\n\nb) Pronunciar-se sobre os orçamentos e contas de gerência elaborados pelo Gabinete de Gestão Financeira, submetendo-os à aprovação do Ministro da Justiça;\n\nc) Apreciar e dar parecer sobre o plano financeiro e sobre o relatório anual de actividades do Gabinete de Gestão Financeira;\n\nd) Propor, fundamentadamente, ao Ministro da Justiça as providências que repute adequadas em matéria de gestão financeira.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+  },
+  "895613899": {
+   "fragment_id": "895613504",
+   "type": 11,
+   "heading": "Artigo 1.º — (Composição)",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16",
+    "Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+   ],
+   "markdown": "###### Artigo 1.º — (Composição)\n\nO conselho administrativo do Cofre dos Conservadores, Notários e Funcionários de justiça e do Cofre Geral dos Tribunais, previsto no artigo 3.º do Decreto-Lei n.º 35483, de 2 de Fevereiro de 1946, com a redacção do Decreto-Lei n.º 37353, de 26 de Março de 1949, é constituído pelo Presidente do Supremo Tribunal de Justiça, que a ele preside, pelo procurador-geral da República, que é o vice-presidente, pelo secretário-geral do Ministério da Justiça, pelos directores-gerais dos Serviços Judiciários, dos Registos e do Notariado e do Gabinete de Gestão Financeira do Ministério da Justiça.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16\n\n> Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+  },
+  "895613900": {
+   "fragment_id": "895613505",
+   "type": 11,
+   "heading": "Artigo 2.º — (Competência)",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16",
+    "Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+   ],
+   "markdown": "###### Artigo 2.º — (Competência)\n\nCompete ao conselho administrativo:\n\na) Dar parecer sobre a política geral de actuação do Gabinete de Gestão Financeira do Ministério da Justiça definida pelo Ministro e fiscalizar a mesma actuação;\n\nb) Pronunciar-se sobre os orçamentos e contas de gerência elaborados pelo Gabinete de Gestão Financeira, submetendo-os à aprovação do Ministro da Justiça;\n\nc) Apreciar e dar parecer sobre o plano financeiro e sobre o relatório anual de actividades do Gabinete de Gestão Financeira;\n\nd) Propor, fundamentadamente, ao Ministro da Justiça as providências que repute adequadas em matéria de gestão financeira.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16\n\n> Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+  },
+  "895613901": {
+   "fragment_id": "895613506",
+   "type": 11,
+   "heading": "Artigo 3.º — (Funcionamento)",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+   ],
+   "markdown": "###### Artigo 3.º — (Funcionamento)\n\n1 - O conselho administrativo reunir-se-á ordinariamente de 2 em 2 meses e extraordinariamente quando o seu presidente o julgar necessário.\n\n2 - As deliberações são tomadas por maioria de votos dos membros presentes, tendo o presidente voto de qualidade.\n\n3 - Nas suas faltas e impedimentos, o presidente será substituído pelo vice-presidente. Os outros membros serão substituídos por quem os substituir nos respectivos cargos.\n\n4 - As reuniões serão secretariadas pelo director de serviços de gestão económica e financeira do Gabinete de Gestão Financeira.\n\n5 - O conselho administrativo elaborará o seu regulamento interno.\n\n6 - O apoio técnico e administrativo do conselho será assegurado pela Secretaria-Geral do Ministério da Justiça ou pelo Gabinete de Gestão Financeira, conforme for proposto pelo conselho e aprovado pelo Ministro.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/85 - Diário da República n.º 122/1985, Série I de 1985-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1985-151914), em vigor a partir de 1985-06-02"
+  },
+  "895613902": {
+   "fragment_id": "895613507",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.\n\nPromulgado em 12 de Maio de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 13 de Maio de 1983.\n\nPelo Primeiro-Ministro, Gonçalo Pereira Ribeiro Teles, Ministro de Estado e da Qualidade de Vida.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+  }
+ }
+}

@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:853137075:por
+title: Portaria n.º 321/2024
+short_title: null
+summary: Altera os n.os 1 e 2 da Portaria n.º 585/2023, publicada no Diário da República, 2.ª série, n.º 211, de 31 de outubro
+  de 2023
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Saúde - Gabinetes da Secretária de Estado do Orçamento e do Secretário de Estado da Saúde
+proposing_entity: null
+official_number: 321/2024
+official_date: null
+publication_date: '2024-02-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 36/2024, Série II de 2024-02-20
+  number: '36'
+  series: II
+  supplement: null
+  pages: 61 - 61
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/02/036000000/0006100061.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '853137075'
+  dre_path: /dr/detalhe/portaria/321-2024-853137075
+  internal: pt:dre:853137075:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/321-2024-853137075
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/321-2024-853137075
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4a932f332ba54d7a8bcdb7014370f7753c5bf5e4a25266ef8e41c8410995e3a4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:53:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Centro Hospitalar de Trás-os-montes e ALTO Douro
+- Contrato
+- Despesas Públicas
+- Equipamento Hospitalar
+relationships:
+- type: amends
+  target: pt:numero:portaria:585/2023
+  label: Altera os n.os 1 e 2 da Portaria n.º 585/2023 de 31 de outubro, DR.IIS[211]
+  source: null
+  date: '2023-10-31'
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223596677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:53:27Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 321/2024
+
+O Centro Hospitalar de Trás-os-Montes e Alto Douro, E. P. E., foi autorizado a proceder à aquisição de dispositivos de catarata, vitrectomia refrativa e outros, para o período de 2023 a 2025, mediante a [Portaria n.º 585/2023](https://diariodarepublica.pt/dr/detalhe/portaria/585-2023-223596677), publicada no Diário da República, 2.ª série, n.º 211, de 31 de outubro de 2023.
+
+Por motivos relacionados com início da execução do contrato, da retificação das quantidades e preços unitários dos bens a concurso, verifica-se a necessidade de ajustar o montante financeiro do encargo autorizado, pelo que se torna necessário proceder à alteração da referida Portaria.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Saúde e pela Secretária de Estado do Orçamento, ao abrigo do disposto no n.º 2 do artigo 45.º da [Lei n.º 91/2001](https://diariodarepublica.pt/dr/detalhe/lei/91-2001-516051), de 20 de agosto, na sua atual redação, e no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, alterada e republicada pela [Lei n.º 22/2015](https://diariodarepublica.pt/dr/detalhe/lei/22-2015-66773610), de 17 de março, e no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, alterado e republicado pelo [Decreto-Lei n.º 99/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), de 2 de junho, e nos n.os 9 e 10 do artigo 44.º [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, o seguinte:
+
+1 - São alterados os n.os 1 e 2 da [Portaria n.º 585/2023](https://diariodarepublica.pt/dr/detalhe/portaria/585-2023-223596677), publicada no Diário da República, 2.ª série, n.º 211, de 31 de outubro de 2023, que passam a ter a seguinte redação:
+
+«1 - Fica a Unidade Local de Saúde de Trás-os-Montes e Alto Douro, E. P. E., autorizada a assumir um encargo plurianual até ao montante de 1 589 163,15 EUR (um milhão, quinhentos e oitenta e nove mil, cento e sessenta e três euros e quinze cêntimos), a que acresce IVA à taxa legal em vigor, referente à aquisição de dispositivos de catarata, vitrectomia refrativa e outros.
+
+2 - Os encargos resultantes do contrato não excederão, em cada ano económico, as seguintes importâncias:
+
+2024: 529 721,05 EUR, a que acresce IVA à taxa legal em vigor;
+
+2025: 529 721,05 EUR, a que acresce IVA à taxa legal em vigor;
+
+2026: 529 721,05 EUR, a que acresce IVA à taxa legal em vigor.»
+
+2 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+8 de fevereiro de 2024. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha. - 9 de fevereiro de 2024. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre.
+
+317354942

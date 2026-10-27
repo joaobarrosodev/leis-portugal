@@ -1,0 +1,307 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:122110905:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-122116607",
+ "dre_path": "/dr/detalhe/decreto-lei/50-2019-122110905",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122116553",
+    "122116554",
+    "122116555",
+    "122116556",
+    "122116557",
+    "122116558",
+    "122116559",
+    "122116560",
+    "122116561",
+    "122116562",
+    "122116563",
+    "122116564",
+    "122116565",
+    "122116566",
+    "122116567",
+    "122116568",
+    "122116569",
+    "122116570",
+    "122116571",
+    "122116572",
+    "122116573",
+    "122116574",
+    "122116875"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "122116553",
+    "122116554",
+    "122116555",
+    "122116556",
+    "122116557",
+    "122116558",
+    "122116559",
+    "122116560",
+    "122116561",
+    "122116562",
+    "122116563",
+    "122116564",
+    "122116565",
+    "122116566",
+    "157265985",
+    "122116568",
+    "157265986",
+    "157265987",
+    "122116571",
+    "122116572",
+    "122116573",
+    "122116574",
+    "122116875",
+    "122116876"
+   ]
+  }
+ ],
+ "fragments": {
+  "122116553": {
+   "fragment_id": "122116608",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 50/2019\n\nde 16 de abril\n\nO Regulamento (UE) 2016/1628 do Parlamento Europeu e do Conselho, de 14 de setembro de 2016, contém requisitos respeitantes aos limites de emissão e procedimentos de homologação UE de motores de máquinas móveis não rodoviárias, visando assegurar o funcionamento do mercado único na colocação desses motores no mercado.\n\nO referido regulamento estabelece novos limites de emissão para os motores de combustão interna destinados a equipar máquinas móveis não rodoviárias, refletindo o progresso tecnológico e garantindo convergência com as políticas da União Europeia para o setor rodoviário. Com o estabelecimento desses limites, pretende reduzir-se as emissões de gases e partículas poluentes provenientes de máquinas móveis não rodoviárias, contribuindo, assim, para a realização dos objetivos de política de qualidade do ar na União Europeia.\n\nAinda que este regulamento seja direta e obrigatoriamente aplicável, torna-se necessário assegurar a sua efetiva execução na ordem jurídica interna, pelo que o presente decreto-lei adota as disposições necessárias para a concretização de certas exigências específicas ou opções genericamente atribuídas aos Estados-membros.\n\nO presente decreto-lei visa primordialmente designar a entidade homologadora e a autoridade de fiscalização do mercado, bem como estabelecer as sanções aplicáveis ao incumprimento das disposições previstas no regulamento.\n\nTendo em conta que a anterior legislação da União Europeia aplicável aos limites de emissão e à homologação de motores de combustão interna destinados a equipar as máquinas móveis não rodoviárias foi revogada e substituída pelo regulamento em apreço, o presente decreto-lei procede também à revogação da correspondente legislação nacional.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122116554": {
+   "fragment_id": "122116609",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "122116555": {
+   "fragment_id": "122116610",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei assegura a execução na ordem jurídica interna do disposto no Regulamento (UE) 2016/1628 do Parlamento Europeu e do Conselho, de 14 de setembro (Regulamento), que estabelece os requisitos respeitantes aos limites de emissão de gases e partículas poluentes e à homologação de motores de combustão interna para máquinas móveis não rodoviárias, que altera os Regulamentos (UE) n.º 1024/2012, do Parlamento Europeu e do Conselho, de 25 de outubro, e (UE) n.º 167/2013, do Parlamento Europeu e do Conselho, de 5 de fevereiro, e que revoga a Diretiva 97/68/CE, do Parlamento Europeu e do Conselho, de 16 de dezembro.\n\n2 - Para efeitos do disposto no número anterior, o presente decreto-lei:\n\na) Procede à designação das autoridades nacionais competentes para a execução do Regulamento;\n\nb) Define os procedimentos para a comunicação de dados à Comissão Europeia e aos outros Estados-membros;\n\nc) Elenca as obrigações da entidade homologadora e da autoridade de fiscalização do mercado nos termos do Regulamento;\n\nd) Procede à criação do quadro sancionatório aplicável em caso de infração ao disposto no Regulamento e no presente decreto-lei."
+  },
+  "122116556": {
+   "fragment_id": "122116611",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente decreto-lei aplica-se a todos os motores abrangidos pelas categorias enunciadas no n.º 1 do artigo 4.º do Regulamento, instalados ou destinados a ser instalados em máquinas móveis não rodoviárias e, no que respeita aos limites de emissão de gases e partículas poluentes desses motores, às referidas máquinas móveis não rodoviárias.\n\n2 - O presente decreto-lei não é aplicável aos motores destinados aos fins do n.º 2 do artigo 2.º do Regulamento."
+  },
+  "122116557": {
+   "fragment_id": "122116612",
+   "type": 1,
+   "heading": "Capítulo II — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Entidades competentes"
+  },
+  "122116558": {
+   "fragment_id": "122116613",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências do IAPMEI - Agência para a Competitividade e Inovação, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências do IAPMEI - Agência para a Competitividade e Inovação, I. P.\n\n1 - Para efeitos do disposto no n.º 1 do artigo 5.º do Regulamento, o IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), é a entidade homologadora nacional.\n\n2 - Compete ao IAPMEI, I. P., no âmbito das suas atribuições:\n\na) Dar cumprimento às obrigações específicas previstas no artigo 6.º do Regulamento;\n\nb) Assegurar o cumprimento das restantes obrigações atribuídas à entidade homologadora, previstas no Regulamento;\n\nc) Solicitar aos fabricantes cópias dos certificados de homologação concedidos por entidades homologadoras de outros Estados-membros, nos termos do n.º 9 do artigo 8.º do Regulamento;\n\nd) Solicitar aos mandatários documentação que demonstre a conformidade de produção de um motor, nos termos da alínea b) do artigo 10.º do Regulamento;\n\ne) Notificar a Comissão Europeia dos serviços técnicos que designar, nos termos do n.º 1 do artigo 50.º do Regulamento e do n.º 1 do artigo 8.º do presente decreto-lei.\n\n3 - Compete ao IAPMEI, I. P., em matéria de isenções previstas no Regulamento:\n\na) Analisar os pedidos dos fabricantes que solicitem a homologação UE de motores que cumpram os valores-limite das emissões de gases e partículas poluentes definidos para motores para fins especiais, estabelecidos no Regulamento, e, se for o caso, autorizar a colocação no mercado desses motores, nos termos do n.º 6 do artigo 34.º do Regulamento;\n\nb) Avaliar a verificação da existência de dificuldades técnicas significativas associadas à instalação de motores de substituição, relativamente a motores colocados no mercado até 31 de dezembro de 2011, das categorias RLL ou RLR, definidas nas alíneas 7) e 8) do n.º 1 do artigo 4.º do Regulamento, e decidir quanto à autorização da sua colocação no mercado, nos termos do primeiro parágrafo do n.º 7 do artigo 34.º do Regulamento;\n\nc) Autorizar a colocação no mercado de motores de substituição que substituam motores das categorias RLL ou RLR, definidas nas alíneas 7) e 8) do n.º 1 do artigo 4.º do Regulamento, colocados no mercado depois de 31 de dezembro de 2011, na medida em que cumpram os limites de emissão que os motores a substituir cumpriram quando foram inicialmente colocados no mercado, nos termos do 2.º parágrafo do n.º 7 do artigo 34.º do Regulamento;\n\nd) Autorizar a colocação no mercado, nos termos do n.º 8 do artigo 34.º do Regulamento, de motores das categorias RLL ou RLR, definidas nas alíneas 7) e 8) do n.º 1 do artigo 4.º do Regulamento, desde que esses motores cumpram os limites de emissão mais recentes estabelecidos no Decreto-Lei n.º 236/2005, de 30 de dezembro, na sua redação atual, enquanto legislação relevante aplicável na data de entrada em vigor do Regulamento, e desde que:\n\ni) Os motores façam parte de um projeto que estivesse em fase avançada de desenvolvimento em 6 de outubro de 2016, na aceção da Diretiva 2008/57/CE do Parlamento Europeu e do Conselho, de 17 de junho de 2008, relativa à interoperabilidade do sistema ferroviário na Comunidade; e\n\nii) Se demonstre que a utilização de motores que cumpram os limites de emissão aplicáveis previstos no Regulamento acarreta custos desproporcionados.\n\n4 - Compete ainda ao IAPMEI, I. P.:\n\na) Informar a Comissão Europeia e os demais Estados-membros de qualquer homologação UE provisória emitida, nos termos do n.º 4 do artigo 35.º do Regulamento, a um tipo de motor ou família de motores que incorpore novas tecnologias ou novos conceitos e que por esse motivo seja incompatível com um ou mais requisitos do Regulamento;\n\nb) Autorizar a aceitação no território nacional de homologações UE provisórias emitidas por entidades homologadoras de outros Estados-membros, nos termos do n.º 5 do artigo 35.º do Regulamento, e informar a Comissão Europeia e a entidade homologadora relevante dessa decisão."
+  },
+  "122116559": {
+   "fragment_id": "122116614",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências do Instituto da Mobilidade e dos Transportes, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências do Instituto da Mobilidade e dos Transportes, I. P.\n\n1 - Compete ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), no quadro das suas atribuições, colaborar com o IAPMEI, I. P., nomeadamente emitindo parecer, sempre que solicitado sobre as avaliações previstas nas alíneas b) e d) do n.º 3 do artigo anterior.\n\n2 - Enquanto organismo nacional representante no Comité Técnico Veículos a Motor (CTVM), previsto no artigo 56.º do Regulamento, o IMT, I. P., deve, no que se refere a emissões de motores de combustão interna para máquinas móveis não rodoviárias:\n\na) Manter o IAPMEI, I. P., devidamente informado de todas as atividades relevantes, desenvolvidas no âmbito do referido Comité;\n\nb) Consultar o IAPMEI, I. P., sempre que se justifique;\n\nc) Ceder a representação ao IAPMEI, I. P., nas reuniões do CTVM expressamente convocadas para tratar matérias específicas do âmbito do Regulamento."
+  },
+  "122116560": {
+   "fragment_id": "122116615",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências da Autoridade Tributária e Aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências da Autoridade Tributária e Aduaneira\n\nCompete à Autoridade Tributária e Aduaneira (AT), nos termos do artigo 5.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, o controlo na fronteira externa dos motores e máquinas móveis não rodoviárias abrangidos pelo Regulamento provenientes de países terceiros."
+  },
+  "122116561": {
+   "fragment_id": "122116616",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências da Autoridade de Segurança Alimentar e Económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências da Autoridade de Segurança Alimentar e Económica\n\n1 - A fiscalização do disposto no Regulamento e no presente decreto-lei compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências por lei atribuídas a outras entidades.\n\n2 - A ASAE dá cumprimento, em particular, às obrigações específicas previstas no artigo 7.º do Regulamento.\n\n3 - A ASAE é a entidade competente para a receção da cópia do certificado de homologação UE prevista no n.º 9 do artigo 8.º do Regulamento.\n\n4 - A ASAE é a entidade competente para, em articulação com o IAPMEI, I. P., solicitar as informações e documentação previstas no n.º 7 do artigo 11.º e no n.º 4 do artigo 13.º do Regulamento."
+  },
+  "122116562": {
+   "fragment_id": "122116617",
+   "type": 1,
+   "heading": "Capítulo III — Outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Outras disposições"
+  },
+  "122116563": {
+   "fragment_id": "122116618",
+   "type": 11,
+   "heading": "Artigo 7.º — Língua usada nos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Língua usada nos documentos\n\n1 - Para efeitos da alínea d) do n.º 2 do artigo 13.º do Regulamento, as informações e as instruções destinadas aos fabricantes de equipamento de origem (OEM) e aos utilizadores finais, previstas nos n.os 2 e 3 do artigo 43.º do Regulamento, são disponibilizadas em língua portuguesa.\n\n2 - Relativamente aos motores colocados no mercado nacional ou máquinas móveis não rodoviárias colocadas no mercado nacional, nas quais estejam instalados motores que estejam abrangidos pelo Regulamento, a declaração de conformidade, se exigida, é apresentada em língua portuguesa, nos termos do n.º 2 do artigo 31.º do Regulamento."
+  },
+  "122116564": {
+   "fragment_id": "122116619",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviços técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviços técnicos\n\n1 - Para efeitos do n.º 1 do artigo 47.º do Regulamento, o IAPMEI, I. P., pode designar serviços técnicos para uma ou mais das categorias de atividades previstas no referido artigo que cumpram os requisitos aplicáveis nos termos do Regulamento.\n\n2 - O cumprimento dos requisitos referidos no número anterior é demonstrado através da apresentação de certificado de acreditação que contemple a competência para uma ou mais das categorias de atividades previstas no n.º 1 do artigo 47.º do Regulamento, emitido pelo Instituto Português de Acreditação, I. P."
+  },
+  "122116565": {
+   "fragment_id": "122116620",
+   "type": 11,
+   "heading": "Artigo 9.º — Sistema de Informação do Mercado Interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sistema de Informação do Mercado Interno\n\n1 - Para efeitos de publicitação, disponibilização e intercâmbio de dados e informações, é utilizada a plataforma eletrónica do Sistema de Informação do Mercado Interno (IMI), prevista no Regulamento (UE) n.º 1024/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo à cooperação administrativa através do Sistema de Informação do Mercado Interno.\n\n2 - A entidade coordenadora nacional do IMI é a Agência para a Modernização Administrativa, I. P. (AMA, I. P.), com as competências atribuídas pelo Regulamento referido no número anterior."
+  },
+  "122116566": {
+   "fragment_id": "122116621",
+   "type": 1,
+   "heading": "Capítulo IV — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Contraordenações"
+  },
+  "122116567": {
+   "fragment_id": "122116622",
+   "type": 11,
+   "heading": "Artigo 10.º — Contraordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contraordenações e coimas\n\n1 - A violação das regras previstas no Regulamento constitui contraordenação punível nos termos do presente artigo.\n\n2 - Sem prejuízo da responsabilidade civil ou criminal, são puníveis com coima no valor de (euro) 1 000 a (euro) 3 740, quando cometidas por pessoas singulares, e de (euro) 2 500 a (euro) 44 890, quando cometidas por pessoas coletivas, as seguintes infrações:\n\na) A prestação de falsas declarações, em especial durante os procedimentos de homologação UE, procedimentos de recolha ou procedimentos relativos às isenções;\n\nb) A falsificação dos resultados de ensaios no que diz respeito a uma homologação UE ou à monitorização de motores em serviço;\n\nc) A retenção de dados ou especificações técnicas suscetíveis de conduzir à recolha dos motores ou à recusa ou retirada da homologação UE;\n\nd) A utilização de estratégias manipuladoras, nos termos do n.º 4 do artigo 18.º do Regulamento;\n\ne) A recusa de acesso às informações previstas nos n.os 8 e 9 do artigo 8.º, nas alíneas a) e b) do artigo 10.º, no n.º 3 do artigo 11.º, no n.º 4 do artigo 13.º, nas alíneas a) e b) do artigo 17.º e no n.º 3 do artigo 38.º do Regulamento;\n\nf) A não conservação pelo fabricante, ou seu mandatário, do certificado de homologação UE e, se aplicável, da declaração de conformidade, pelo período previsto no n.º 8 do artigo 8.º e nos termos previstos na alínea a) do artigo 10.º do Regulamento;\n\ng) A não conservação pelo importador da declaração de conformidade pelo período previsto no n.º 3 do artigo 11.º do Regulamento;\n\nh) A colocação no mercado de motores sujeitos a homologação UE que não a tenham obtido;\n\ni) A falsificação do certificado de homologação UE emitido nos termos do n.º 1 do artigo 23.º do Regulamento;\n\nj) A violação do cumprimento dos requisitos, inexistência ou não conformidade do conteúdo da declaração de conformidade a que se refere o artigo 31.º do Regulamento e o respetivo ato delegado;\n\nk) A não apresentação em língua portuguesa da declaração de conformidade em violação do disposto no n.º 2 do artigo 7.º do presente decreto-lei;\n\nl) A aposição da marcação regulamentar em violação do previsto no artigo 32.º do Regulamento ou a ausência desta marcação;\n\nm) A ausência de marcação temporária prevista no n.º 1 do artigo 33.º do Regulamento;\n\nn) O não fornecimento ao OEM do duplicado da marcação regulamentar, nos temos previstos no n.º 6 do artigo 8.º do Regulamento;\n\no) A não aposição num motor, ou, se tal não for possível, num documento de acompanhamento do motor, da identificação do fabricante, nos termos previstos no n.º 5 do artigo 8.º do Regulamento;\n\np) A não comunicação atempada prevista nos n.os 4 e 5 do artigo 30.º do Regulamento;\n\nq) A não apresentação e conservação pelo fabricante da lista com o número dos motores nos termos previstos nos n.os 1 e 4 do artigo 37.º do Regulamento;\n\nr) A não apresentação pelo fabricante do plano original para monitorização de motores em serviço, no prazo previsto no n.º 4 do artigo 20.º do Regulamento;\n\ns) A não disponibilização, pelo fabricante, das informações e instruções relevantes e necessárias previstas nos n.os 2 e 3 do artigo 43.º do Regulamento;\n\nt) A não disponibilização, pelo fabricante, do valor das emissões de dióxido de carbono (CO(índice 2)) nos termos previstos no n.º 4 do artigo 43.º do Regulamento;\n\nu) A não aposição da etiqueta a afixar, prevista no artigo 61.º do Regulamento, no caso de motores colocados no mercado ao abrigo do n.º 2 do artigo 14.º do presente decreto-lei;\n\nv) A não observância pelo importador das obrigações relativas ao certificado de homologação UE, à marcação regulamentar e à identificação do fabricante, previstas nas alíneas a), b) e c) do n.º 2 do artigo 11.º do Regulamento;\n\nw) A não disponibilização pelo importador das informações e documentação previstas no n.º 7 do artigo 11.º do Regulamento;\n\nx) A colocação no mercado pelo importador de motores não acompanhados das informações e instruções de segurança previstas no artigo 43.º, nos termos do n.º 5 do artigo 11.º do Regulamento;\n\ny) A não aposição num motor ou, se tal não for possível, num documento de acompanhamento do motor, da identificação do importador, nos termos previstos no n.º 4 do artigo 11.º do Regulamento;\n\nz) A disponibilização, pelo distribuidor, de um motor no mercado sem que se tenha assegurado do cumprimento das obrigações do fabricante quanto à sua identificação, das obrigações do importador, previstas no n.º 2 do artigo 11.º, bem como à sua identificação prevista no n.º 4 do artigo 11.º, da aposição da marcação regulamentar prevista no n.º 1 do artigo 32.º, bem como às instruções e informações previstas no artigo 43.º todos do Regulamento, nos termos estabelecidos no n.º 2 do artigo 13.º do Regulamento;\n\naa) A colocação no mercado pelo OEM de máquinas móveis não rodoviárias em violação das obrigações previstas nos n.os 2 a 5 do artigo 15.º do Regulamento;\n\nbb) A colocação no mercado de motores de substituição em violação das regras de isenção, previstas no n.º 7 do artigo 34.º do Regulamento;\n\ncc) A violação das restrições enunciadas nos n.os 3 e 4 do artigo 35.º do Regulamento;\n\ndd) A colocação no mercado de um motor modificado não conforme com as especificações da sua homologação UE;\n\nee) A instalação de um motor numa máquina móvel não rodoviária para outras utilizações que não as previstas no artigo 4.º do Regulamento;\n\nff) A colocação no mercado de um motor para fins especiais nos termos dos n.os 5 ou 6 do artigo 34.º do Regulamento para utilização em máquinas móveis não rodoviárias diferentes das previstas nesses números;\n\ngg) A colocação no mercado de motores de transição e das máquinas móveis não rodoviárias onde esses motores estejam instalados em violação das condições previstas no n.º 5 do artigo 58.º do Regulamento;\n\nhh) A colocação no mercado de um motor ao abrigo dos n.os 7 ou 8 do artigo 34.º e dos n.os 9, 10 e 11 do artigo 58.º do Regulamento para utilização em máquinas diferentes das previstas naqueles artigos;\n\nii) A colocação no mercado de máquinas móveis não rodoviárias nas quais estão instalados motores sujeitos a homologação UE, ao abrigo do Regulamento, que a não tenham obtido;\n\njj) A colocação no mercado de máquinas móveis não rodoviárias em violação de uma restrição relativa às máquinas móveis não rodoviárias prevista no n.º 8 do artigo 34.º do Regulamento.\n\n3 - A negligência é punível, sendo os limites mínimos e máximos reduzidos para metade.\n\n4 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada."
+  },
+  "122116568": {
+   "fragment_id": "122116623",
+   "type": 11,
+   "heading": "Artigo 11.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Instrução de processos e aplicação de sanções\n\nSem prejuízo das competências da AT, compete à ASAE a instrução dos processos de contraordenação, bem como a aplicação das coimas e das sanções acessórias previstas no presente decreto-lei."
+  },
+  "122116569": {
+   "fragment_id": "122116624",
+   "type": 11,
+   "heading": "Artigo 12.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Produto das coimas\n\nO produto das coimas resultantes da aplicação do disposto no presente decreto-lei é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 10 % para a entidade que levantou o auto;\n\nc) 20 % para a entidade que procedeu à instrução e decisão do processo;\n\nd) 10 % para o IAPMEI, I. P."
+  },
+  "122116570": {
+   "fragment_id": "122116625",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\nConsoante a gravidade da infração e a culpa do agente, podem ser aplicadas as sanções acessórias previstas no Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual."
+  },
+  "122116571": {
+   "fragment_id": "122116626",
+   "type": 1,
+   "heading": "Capítulo V — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições transitórias e finais"
+  },
+  "122116572": {
+   "fragment_id": "122116627",
+   "type": 11,
+   "heading": "Artigo 14.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposições transitórias\n\n1 - O IAPMEI, I. P., pode, para efeitos do artigo 58.º do Regulamento, e em conformidade com os Decretos-Leis n.os 236/2005, de 30 de dezembro, e 47/2006, de 27 de fevereiro, na sua redação atual:\n\na) Conceder homologações UE e isenções até às datas obrigatórias para a homologação UE e colocação de motores no mercado, fixadas no anexo III do Regulamento, nos termos do primeiro parágrafo do n.º 2 do seu artigo 58.º;\n\nb) Continuar a permitir a colocação no mercado de motores até às datas obrigatórias de colocação de motores no mercado fixadas no anexo III do Regulamento, nos termos do segundo parágrafo do n.º 2 do seu artigo 58.º\n\n2 - Sem prejuízo do disposto na alínea b) do número anterior, o IAPMEI, I. P., analisa os pedidos dos OEM para colocação no mercado de motores que cumpram os limites da fase III - A, desde que esses motores se destinem a ser instalados em máquinas móveis não rodoviárias para utilização em atmosferas potencialmente explosivas, tal como definidas na alínea d) do artigo 3.º do Decreto-Lei n.º 111-C/2017, de 31 de agosto, e na Diretiva 2014/34/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa à harmonização da legislação dos Estados-membros relativa a aparelhos e sistemas de proteção destinados a ser utilizados em atmosferas potencialmente explosivas, quando acompanhados de comprovativos de que os motores se destinam a ser instalados exclusivamente em máquinas móveis não rodoviárias que satisfazem esses requisitos.\n\n3 - Os motores instalados nas máquinas de colheita de algodão estão isentos da aplicação do disposto na legislação relevante aplicável antes da entrada em vigor do Regulamento.\n\n4 - O Regulamento não é aplicável aos motores instalados em máquinas de colheita de algodão até 17 de setembro de 2026, nos termos do n.º 12 do artigo 58.º do Regulamento."
+  },
+  "122116573": {
+   "fragment_id": "122116628",
+   "type": 11,
+   "heading": "Artigo 15.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regiões Autónomas\n\n1 - Os atos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - O produto resultante da aplicação das respetivas coimas pelas Regiões Autónomas constitui receita própria."
+  },
+  "122116574": {
+   "fragment_id": "122116629",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\nSem prejuízo do disposto na alínea d) do n.º 3 do artigo 3.º e dos n.os 1 a 3 do artigo 14.º, são revogados o Decreto-Lei n.º 236/2005, de 30 de dezembro, e o Decreto-Lei n.º 47/2006, de 27 de fevereiro."
+  },
+  "122116875": {
+   "fragment_id": "122116630",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação"
+  },
+  "157265985": {
+   "fragment_id": "122116622",
+   "type": 11,
+   "heading": "Artigo 10.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 172.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 10.º — Contraordenações\n\n1 - A violação das regras previstas no Regulamento constitui contraordenação económica punível nos termos do presente artigo.\n\n2 - Sem prejuízo da responsabilidade civil ou criminal, constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), as seguintes infrações:\n\na) A prestação de falsas declarações, em especial durante os procedimentos de homologação UE, procedimentos de recolha ou procedimentos relativos às isenções;\n\nb) A falsificação dos resultados de ensaios no que diz respeito a uma homologação UE ou à monitorização de motores em serviço;\n\nc) A retenção de dados ou especificações técnicas suscetíveis de conduzir à recolha dos motores ou à recusa ou retirada da homologação UE;\n\nd) A utilização de estratégias manipuladoras, nos termos do n.º 4 do artigo 18.º do Regulamento;\n\ne) A recusa de acesso às informações previstas nos n.os 8 e 9 do artigo 8.º, nas alíneas a) e b) do artigo 10.º, no n.º 3 do artigo 11.º, no n.º 4 do artigo 13.º, nas alíneas a) e b) do artigo 17.º e no n.º 3 do artigo 38.º do Regulamento;\n\nf) A não conservação pelo fabricante, ou seu mandatário, do certificado de homologação UE e, se aplicável, da declaração de conformidade, pelo período previsto no n.º 8 do artigo 8.º e nos termos previstos na alínea a) do artigo 10.º do Regulamento;\n\ng) A não conservação pelo importador da declaração de conformidade pelo período previsto no n.º 3 do artigo 11.º do Regulamento;\n\nh) A colocação no mercado de motores sujeitos a homologação UE que não a tenham obtido;\n\ni) A falsificação do certificado de homologação UE emitido nos termos do n.º 1 do artigo 23.º do Regulamento;\n\nj) A violação do cumprimento dos requisitos, inexistência ou não conformidade do conteúdo da declaração de conformidade a que se refere o artigo 31.º do Regulamento e o respetivo ato delegado;\n\nk) A não apresentação em língua portuguesa da declaração de conformidade em violação do disposto no n.º 2 do artigo 7.º do presente decreto-lei;\n\nl) A aposição da marcação regulamentar em violação do previsto no artigo 32.º do Regulamento ou a ausência desta marcação;\n\nm) A ausência de marcação temporária prevista no n.º 1 do artigo 33.º do Regulamento;\n\nn) O não fornecimento ao OEM do duplicado da marcação regulamentar, nos temos previstos no n.º 6 do artigo 8.º do Regulamento;\n\no) A não aposição num motor, ou, se tal não for possível, num documento de acompanhamento do motor, da identificação do fabricante, nos termos previstos no n.º 5 do artigo 8.º do Regulamento;\n\np) A não comunicação atempada prevista nos n.os 4 e 5 do artigo 30.º do Regulamento;\n\nq) A não apresentação e conservação pelo fabricante da lista com o número dos motores nos termos previstos nos n.os 1 e 4 do artigo 37.º do Regulamento;\n\nr) A não apresentação pelo fabricante do plano original para monitorização de motores em serviço, no prazo previsto no n.º 4 do artigo 20.º do Regulamento;\n\ns) A não disponibilização, pelo fabricante, das informações e instruções relevantes e necessárias previstas nos n.os 2 e 3 do artigo 43.º do Regulamento;\n\nt) A não disponibilização, pelo fabricante, do valor das emissões de dióxido de carbono (CO(índice 2)) nos termos previstos no n.º 4 do artigo 43.º do Regulamento;\n\nu) A não aposição da etiqueta a afixar, prevista no artigo 61.º do Regulamento, no caso de motores colocados no mercado ao abrigo do n.º 2 do artigo 14.º do presente decreto-lei;\n\nv) A não observância pelo importador das obrigações relativas ao certificado de homologação UE, à marcação regulamentar e à identificação do fabricante, previstas nas alíneas a), b) e c) do n.º 2 do artigo 11.º do Regulamento;\n\nw) A não disponibilização pelo importador das informações e documentação previstas no n.º 7 do artigo 11.º do Regulamento;\n\nx) A colocação no mercado pelo importador de motores não acompanhados das informações e instruções de segurança previstas no artigo 43.º, nos termos do n.º 5 do artigo 11.º do Regulamento;\n\ny) A não aposição num motor ou, se tal não for possível, num documento de acompanhamento do motor, da identificação do importador, nos termos previstos no n.º 4 do artigo 11.º do Regulamento;\n\nz) A disponibilização, pelo distribuidor, de um motor no mercado sem que se tenha assegurado do cumprimento das obrigações do fabricante quanto à sua identificação, das obrigações do importador, previstas no n.º 2 do artigo 11.º, bem como à sua identificação prevista no n.º 4 do artigo 11.º, da aposição da marcação regulamentar prevista no n.º 1 do artigo 32.º, bem como às instruções e informações previstas no artigo 43.º todos do Regulamento, nos termos estabelecidos no n.º 2 do artigo 13.º do Regulamento;\n\naa) A colocação no mercado pelo OEM de máquinas móveis não rodoviárias em violação das obrigações previstas nos n.os 2 a 5 do artigo 15.º do Regulamento;\n\nbb) A colocação no mercado de motores de substituição em violação das regras de isenção, previstas no n.º 7 do artigo 34.º do Regulamento;\n\ncc) A violação das restrições enunciadas nos n.os 3 e 4 do artigo 35.º do Regulamento;\n\ndd) A colocação no mercado de um motor modificado não conforme com as especificações da sua homologação UE;\n\nee) A instalação de um motor numa máquina móvel não rodoviária para outras utilizações que não as previstas no artigo 4.º do Regulamento;\n\nff) A colocação no mercado de um motor para fins especiais nos termos dos n.os 5 ou 6 do artigo 34.º do Regulamento para utilização em máquinas móveis não rodoviárias diferentes das previstas nesses números;\n\ngg) A colocação no mercado de motores de transição e das máquinas móveis não rodoviárias onde esses motores estejam instalados em violação das condições previstas no n.º 5 do artigo 58.º do Regulamento;\n\nhh) A colocação no mercado de um motor ao abrigo dos n.os 7 ou 8 do artigo 34.º e dos n.os 9, 10 e 11 do artigo 58.º do Regulamento para utilização em máquinas diferentes das previstas naqueles artigos;\n\nii) A colocação no mercado de máquinas móveis não rodoviárias nas quais estão instalados motores sujeitos a homologação UE, ao abrigo do Regulamento, que a não tenham obtido;\n\njj) A colocação no mercado de máquinas móveis não rodoviárias em violação de uma restrição relativa às máquinas móveis não rodoviárias prevista no n.º 8 do artigo 34.º do Regulamento.\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 172.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157265986": {
+   "fragment_id": "122116624",
+   "type": 11,
+   "heading": "Artigo 12.º — Produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 172.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 12.º — Produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 172.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157265987": {
+   "fragment_id": "122116625",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 172.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\nConsoante a gravidade da infração e a culpa do agente, podem ser aplicadas as sanções acessórias previstas no RJCE.\n\n> Alterado pelo/a Artigo 172.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "122116876": {
+   "fragment_id": "122116631",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de março de 2019. - Augusto Ernesto Santos Silva - Mariana Guimarães Vieira da Silva - Mário José Gomes de Freitas Centeno - João Jorge Arede Correia Neves - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 2 de abril de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 8 de abril de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n112213758"
+  }
+ }
+}

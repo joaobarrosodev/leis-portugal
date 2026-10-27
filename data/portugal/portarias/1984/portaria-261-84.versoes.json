@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:654965:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-889495849",
+ "dre_path": "/dr/detalhe/portaria/261-1984-654965",
+ "source_lastmod": "2024-09-30",
+ "versions": [
+  {
+   "date": "1984-04-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889496023"
+   ]
+  },
+  {
+   "date": "1984-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:607286:por",
+     "title": "Declaração",
+     "published": "1984-05-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-607286"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "889496023",
+    "889495993",
+    "889495994",
+    "889495995"
+   ]
+  }
+ ],
+ "fragments": {
+  "889496023": {
+   "fragment_id": "889495850",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1984-05-31",
+   "changed_by": [],
+   "markdown": "Portaria n.º 261/84\n\nde 24 de Abril\n\nSob proposta da comissão instaladora da Escola Superior de Polícia;\n\nAo abrigo do n.º 5 do artigo 27.º do Decreto-Lei n.º 423/82, de 15 de Outubro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Administração Interna, o seguinte:\n\n1.º O Plano de Estudo do Curso de Formação de Oficiais de Polícia é o constante do anexo II.\n\n2.º O programa a ministrar nas disciplinas da zona de formação técnico-policial é o constante do anexo I.\n\nMinistério da Administração Interna."
+  },
+  "889495993": {
+   "fragment_id": "889495851",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 2 de Abril de 1984\n\nO Ministro da Administração Interna, Eduardo Ribeiro Pereira.\n\nPolícia de Segurança Pública\n\nEscola Superior de Polícia"
+  },
+  "889495994": {
+   "fragment_id": "889495852",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nPrograma das disciplinas de formação da zona técnico-policial\n\nInstrução militar geral (25):\n\nLegislação militar.\n\nEducação cívica e militar.\n\nOrdem unida.\n\nChefia e arte de comandar\n\nMétodos de instrução.\n\nHigiene.\n\nArmamento e tiro (26):\n\nHistória do armamento.\n\nEvolução e características das armas de fogo.\n\nMunições e explosivos.\n\nTiro: balística, instrução preliminar de tiro, tiro prático de precisão, instintivo e de competição.\n\nTopografia (27):\n\nCartas topográficas.\n\nNomenclatura e formas do terreno\n\nPerfis e esboços.\n\nOrientação, leitura e interpretação de carta\n\nTransmissões (28):\n\nMeios de transmissões.\n\nExploração.\n\nManutenção.\n\nSegurança.\n\nOrganização policial (29):\n\nHistória da Polícia.\n\nCaracterísticas das forças e organizações de segurança.\n\nOrganização e estrutura da PSP.\n\nRegulamentos e outra legislação.\n\nTáctica das forças de segurança (30):\n\nMissão e princípios gerais de actuação.\n\nExercício de comando e estado-maior.\n\nSegurança, informações, contra-informações e operações policiais.\n\nFormações policiais, deslocamentos e estacionamento.\n\nAcções conjuntas com outras forças ou organizações.\n\nTécnica do serviço policial (31):\n\nEnquadramento das ocorrências e litígios na legislação.\n\nElaboração dos processos inerentes às ocorrências.\n\nPrevenção, protecção e segurança.\n\nFiscalização e regularização do trânsito.\n\nColaboração com as autoridades judiciais, administrativas, policiais e militares.\n\nInvestigação criminal (32):\n\nPrincípios gerais de investigação.\n\nCiências afins e auxiliares.\n\nTécnica e táctica.\n\nDiligências processuais.\n\nAdministração de pessoal (33):\n\nPrincípios gerais de administração.\n\nFunções administrativas: planeamento, organização, direcção, coordenação e controle.\n\nJustiça e disciplina.\n\nLogística (34):\n\nPrincípios fundamentais da logística.\n\nAs funções logísticas: abastecimento, transporte, manutenção, evacuação, hospitalização e serviços.\n\nServiços e órgãos de apoio.\n\nAcções conjuntas com outras forças ou organizações em situações de emergência.\n\nÉtica policial (35):\n\nValores fundamentais.\n\nA Polícia na defesa dos valores fundamentais.\n\nDeontologia profissional.\n\nRelações humanas."
+  },
+  "889495995": {
+   "fragment_id": "889495853",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\nPlano do curso de formação de oficiais de polícia\n\n(ver documento original)"
+  }
+ }
+}

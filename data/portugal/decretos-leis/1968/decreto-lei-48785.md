@@ -1,0 +1,248 @@
+---
+schema_version: '1.0'
+id: pt:dre:306647:por
+title: Decreto-Lei n.º 48785
+short_title: null
+summary: Atribui à Estação Agronómica Nacional e à Estação de Melhoramento de Plantas quadros privativos de pessoal e regula
+  o provimento do seu pessoal - Aplica à Estação de Cultura Mecânica o disposto do artigo 6.º do Decreto-Lei n.º 47934 (autonomia
+  administrativa) e revoga os artigos 5.º e 6.º do Decreto Lei n.º 42696
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura
+proposing_entity: null
+official_number: '48785'
+official_date: null
+publication_date: '1968-12-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 300/1968, 1º Suplemento, Série I de 1968-12-21
+  number: '300'
+  series: I
+  supplement: null
+  pages: 1885 - 1888
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/12/30001/18851888.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '306647'
+  dre_path: /dr/detalhe/decreto-lei/48785-1968-306647
+  internal: pt:dre:306647:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48785-1968-306647
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48785-1968-306647
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1c78a5bccc9aa6c944143501eae8fd31f58fc9a34c72d478302a0091d2a7c0f9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:07:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autonomia Administrativa
+- Concurso
+- Conselho Administrativo
+- Direcção Geral dos Serviços Agrícolas
+- Estação Agronómica Nacional
+- Extinção de Lugares
+- Formas de Provimento
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Investigador
+- Pessoal Administrativo
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:147274:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:147274:por
+  label: "Altera o art. 12º e o quadro de pessoal da Estação Agronómica Nacional referido no art. 1º pelo DEC LEI.569/70.20.11.1970.MECO,\
+    \ DG.IS [270] de 20.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/569-1970-147274
+  date: '1970-11-20'
+- type: cites
+  target: pt:dre:390987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462613:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:526673:por
+  label: Rectificado pela DECL.DD10579.28.01.1969.PC, DG.IS [23] de 28.01.1969
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1969-526673
+  date: '1969-01-28'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:07:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 48785
+
+A Estação Agronómica Nacional e a Estação de Melhoramento de Plantas executam os seus trabalhos com pessoal pertencente a quadros gerais da Direcção-Geral dos Serviços Agrícolas.
+
+A longa experiência colhida através desse sistema aconselha a modificá-lo e a atribuir quadros privativos a cada um daqueles organismos, constituídos por forma a permitir-lhes realizar com maior eficiência os trabalhos que lhes estão confiados e tendo em vista as necessidades actuais da investigação.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. A Estação Agronómica Nacional e a Estação de Melhoramento de Plantas passam a dispor de quadros privativos de pessoal permanente constantes do mapa n.º 1 anexo ao presente diploma.
+
+2. Além do pessoal dos quadros e do assalariado nos termos legais vigentes, poderá ser contratado, mediante autorização do Secretário de Estado da Agricultura e com o acordo do Ministro das Finanças, o pessoal indispensável à execução dos serviços dos referidos estabelecimentos, por força das verbas para esse fim inscritas no orçamento.
+
+3. O contrato, nos termos do número anterior, de pessoal de investigação e técnico far-se-á inicialmente para a categoria ou classe correspondente aos lugares de ingresso no quadro, de entre os habilitados com as condições de admissão nestes, podendo os contratados ascender a categorias ou classes superiores mediante proposta do director do estabelecimento, desde que tenham boas informações de serviço e que nessas categorias ou classes o funcionário mais moderno do quadro correspondente possua igual ou superior tempo de serviço.
+
+Art. 2.º - 1. Os cargos de director dos estabelecimentos a que se refere o artigo anterior serão exercidos, em acumulação com as respectivas funções, por investigadores do quadro de qualquer delas, designados pelo Secretário de Estado da Agricultura.
+
+2. Quando os lugares de investigador do quadro da Estação de Melhoramento de Plantas não estiverem integralmente preenchidos, poderá ser designado para exercer as funções de director do mesmo estabelecimento um especialista do respectivo quadro, o qual terá direito, durante o desempenho daquelas funções, ao vencimento correspondente a investigador sem diuturnidade.
+
+Art. 3.º - 1. Os lugares de subdirector dos mesmos estabelecimentos são providos em comissão de serviço, por escolha do Secretário de Estado da Agricultura, mediante proposta dos respectivos directores, entre os engenheiros agrónomos dos quadros de qualquer deles ou da Direcção-Geral dos Serviços Agrícolas.
+
+2. A comissão de serviço não determina a abertura de vaga, mas o lugar do funcionário designado para a desempenhar poderá ser provido interinamente enquanto durar o impedimento do titular.
+
+Art. 4.º - 1. Os lugares de investigador do quadro serão providos de entre os investigadores contratados além dos quadros em serviço nas respectivas Estações, mediante proposta do director, atendendo-se, como preferência, às melhores informações de serviço, e, em igualdade de condições, ao maior tempo de serviço prestado na categoria.
+
+2. Os lugares de especialista do quadro serão providos, nos mesmos termos, de entre especialistas contratados além dos quadros ou candidatos aprovados em concurso.
+
+Art. 5.º - 1. A admissão de investigadores e de especialistas será feita por concurso.
+
+2. Podem ser admitidos:
+
+a) Aos concursos para investigadores, os especialistas de qualquer dos dois estabelecimentos, do quadro ou contratados, e quaisquer engenheiros agrónomos e outros diplomados com curso superior adequado às funções a exercer;
+
+b) Aos concursos para especialistas, os estagiários, engenheiros agrónomos e outros diplomados com curso superior adequado às funções a exercer que tenham prestado serviço ou a qualquer título efectuado trabalhos numa ou noutra das Estações, sem interrupção, durante os três anos anteriores à abertura do concurso, ainda que remunerados por organismos corporativos.
+
+3. Os concursos para especialistas serão regulamentados mediante portaria do Secretário de Estado da Agricultura, nos termos do artigo 32.º do [Decreto-Lei n.º 35422](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35422-1945-462613), de 29 de Dezembro de 1945, devendo considerar-se como base principal da classificação o curriculum dos candidatos.
+
+Art. 6.º - 1. Aos concursos de promoção para lugares administrativos dos quadros privativos de qualquer das Estações poderá ser admitido o pessoal do quadro da Direcção-Geral dos Serviços Agrícolas.
+
+2. O pessoal administrativo dos quadros das Estações poderá ser admitido aos concursos de promoção para lugares do quadro da mesma Direcção-Geral.
+
+Art. 7.º Na admissão e promoção de pessoal observar-se-ão, na parte não especialmente regulada neste diploma, as disposições em vigor para o pessoal da Direcção-Geral dos Serviços Agrícolas.
+
+Art. 8.º - 1. O Secretário de Estado da Agricultura poderá autorizar a permuta de lugares entre pessoal de investigação e técnico dos quadros da Estação Agronómica Nacional e da Estação de Melhoramento de Plantas, desde que os dois lugares tenham a mesma categoria e classe e haja parecer favorável dos directores dos estabelecimentos e do conselho de investigadores.
+
+2. O disposto no número anterior é extensivo à permuta entre pessoal contratado além dos quadros.
+
+Art. 9.º - 1. A Estação Agronómica Nacional poderá instituir, dentro das verbas inscritas no orçamento para esse fim, bolsas de estudo, prémios e outras formas de recompensa, para concessão ao seu pessoal ou de outros serviços da Secretaria de Estado da Agricultura.
+
+2. A instituição e a concessão dos benefícios a que se refere o número anterior serão regulamentadas por portaria do Secretário de Estado.
+
+Art. 10.º Os directores da Estação Agronómica Nacional e da Estação de Melhoramento de Plantas poderão delegar nos subdirectores a presidência dos respectivos conselhos administrativos.
+
+Art. 11.º Os funcionários que se encontrem a desempenhar as funções de director e subdirector das Estações a que se refere o artigo 1.º consideram-se investidos nas suas funções, segundo o regime estabelecido, respectivamente no n.º 1 do artigo 2.º e no artigo 3.º, com dispensa de todas as formalidades legais.
+
+Art. 12.º - 1. Serão providos em lugares de especialista dos quadros das respectivas Estações:
+
+a) Os actuais estagiários do quadro do pessoal de investigação e os técnicos do quadro técnico da Direcção-Geral dos Serviços Agrícolas que, sem interrupção, tenham prestado serviço com boas informações de mérito científico nos últimos nove anos, respectivamente, na Estação Agronómica Nacional e na Estação de Melhoramento de Plantas;
+
+b) Os actuais especialistas contratados da referida Direcção-Geral que anteriormente a essa situação tenham sido estagiários do quadro, bem como os médicos veterinários do mesmo quadro que trabalhem em serviços de investigação, desde que, uns e outros, tenham prestado serviço nos últimos nove anos, sem interrupção, na respectiva estação, com boas informações de mérito científico.
+
+2. Os provimentos a que se refere o número anterior serão feitos segundo a categoria e a ordem de antiguidade.
+
+3. O pessoal que se encontre nas condições previstas no n.º 1, mas que, por falta de vaga, não seja provido nos termos da mesma disposição, poderá ser contratado como especialista, além do quadro, ingressando neste, naquela categoria, segundo a ordem de antiguidade no estabelecimento, à medida que se forem verificando vagas.
+
+4. O provimento regulado no artigo 5.º só será observado depois de concluídos os provimentos ordenados pelo presente artigo.
+
+Art. 13.º - 1. O pessoal que à data da publicação do presente diploma se encontre a prestar serviço nas Estações a que se refere o artigo 1.º, ocupando vaga, a qualquer título, no quadro da Direcção-Geral dos Serviços Agrícolas, será provido, de harmonia com as funções exercidas, nos lugares dos quadros das respectivas Estações cujo provimento não seja efectuado nos termos dos dois anteriores artigos.
+
+2. O provimento a que se refere o número antecedente será feito com carácter definitivo e segundo a categoria e a ordem de antiguidade.
+
+3. O pessoal que se encontre nas condições referidas no n.º 1 e que não seja provido nos termos da mesma disposição considerar-se-á na situação de colocado além dos quadros, nas actuais categorias, ingressando no quadro à medida que se forem dando as respectivas vagas, de harmonia com o disposto no n.º 2.
+
+4. Até se verificar o provimento, ou até ser contratado além do quadro nos termos do número anterior, o referido pessoal será abonado por verba inscrita para esse fim, ou pelas sobras das verbas destinadas aos vencimentos de pessoal das duas Estações ou da Direcção-Geral dos Serviços Agrícolas.
+
+Art. 14.º Ao pessoal que à data da publicação do presente diploma preste serviço nas Estações a que se refere o artigo 1.º, na situação de contratado além do quadro da Direcção-Geral dos Serviços Agrícolas, e que não ingressar nos quadros das mesmas Estações, nos termos do n.º 1 do artigo 12.º, é mantida a actual situação, considerando-se contratado, porém, além do quadro, para estabelecimento onde se encontre a prestar serviço.
+
+Art. 15.º - 1. A colocação de pessoal nos termos previstos no n.º 1 do artigo 12.º, no n.º 1 e na primeira parte do n.º 3 do artigo 13.º e no artigo 14.º será feita mediante lista, aprovada pelo Secretário de Estado da Agricultura e publicada no Diário do Governo, donde constem a relação nominal do pessoal e as categorias e situações em que fica colocado.
+
+2. A colocação do pessoal nos termos do número anterior e o abono das respectivas remunerações não dependem de qualquer outra formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
+
+Art. 16.º O disposto no artigo 5.º não é aplicável aos concursos abertos à data do início da vigência do presente diploma.
+
+Art. 17.º - 1. A partir da entrada em vigor do presente diploma consideram-se abatidos ao quadro da Direcção-Geral dos Serviços Agrícolas os lugares constantes do mapa n.º 2 anexo a este decreto-lei.
+
+2. Para contrapartida das verbas a atribuir no ano de 1969 à Estação Agronómica Nacional e à Estação de Melhoramento de Plantas para «Pessoal contratado não pertencente aos quadros» será eliminado da correspondente verba da Direcção-Geral dos Serviços Agrícolas o número de lugares necessário para efectuar a compensação.
+
+Art. 18.º O regulamento da Estação de Melhoramento de Plantas será aprovado por portaria do Secretário de Estado da Agricultura, a publicar no prazo de noventa dias, a contar da publicação do presente diploma.
+
+Art. 19.º - 1. Não carecem de autorização ministerial as requisições de fundos pelos organismos dependentes da Direcção-Geral dos Serviços Agrícolas que gozem de autonomia administrativa.
+
+2. Os mesmos serviços podem promover a publicação de estudos e trabalhos nele efectuados.
+
+Art. 20.º É aplicável à Estação de Cultura Mecânica o disposto no artigo 6.º do [Decreto-Lei n.º 47934](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47934-1967-390987), de 13 de Setembro de 1967.
+
+Art. 21.º Ficam revogados os artigos 5.º e 6.º do [Decreto-Lei n.º 42696](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42696-1959-438923), de 3 de Dezembro de 1959.
+
+Art. 22.º O presente diploma entra em vigor no dia 1 de Janeiro de 1969, podendo, porém, antes daquela data, mas para produzir efeitos a partir da mesma, ser publicada a lista a que se refere o artigo 15.º
+
+Marcello Caetano - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Domingos Rogado Vitória Pires.
+
+Promulgado em 11 de Dezembro de 1968.
+
+Publique-se.
+
+Presidência da República, 21 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.
+
+MAPA N.º 1
+
+Artigo 1.º do Decreto-Lei n.º 48785, de 21 de Dezembro de 1968
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30001/18851888.pdf)
+
+MAPA N.º 2
+
+Artigo 17.º do Decreto-Lei n.º 48785, de 21 de Dezembro de 1968
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30001/18851888.pdf)
+
+Secretaria de Estado da Agricultura, 21 de Dezembro de 1968. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.

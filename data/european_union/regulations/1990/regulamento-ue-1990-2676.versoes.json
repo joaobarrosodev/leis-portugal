@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990R2676:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990R2676-20090801",
+ "dre_path": null,
+ "source_lastmod": "2009-08-01",
+ "versions": [
+  {
+   "date": "2009-08-01",
+   "future": false,
+   "celex": "01990R2676-20090801",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0e5a2dcac8aeceb0"
+   ]
+  }
+ ],
+ "fragments": {
+  "0e5a2dcac8aeceb0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990R2676 — PT — 01.08.2009 — 012.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990R2676) [REGULAMENTO (CEE) N.º 2676/90 DA COMISSÃO](http://publications.europa.eu/resource/celex/31990R2676) [de 17 de Setembro de 1990](http://publications.europa.eu/resource/celex/31990R2676) [que determina os métodos de análise comunitários aplicáveis no sector do vinho](http://publications.europa.eu/resource/celex/31990R2676) (JO L 272, 3.10.1990, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 606/2009 da Comissão de 10 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0606) — L 193 — 1 — 24.7.2009"
+  }
+ }
+}

@@ -1,0 +1,850 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0025:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0025-20100901",
+ "dre_path": null,
+ "source_lastmod": "2010-09-01",
+ "versions": [
+  {
+   "date": "1996-05-23",
+   "future": false,
+   "celex": "31996L0025",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e5478c946ad33468",
+    "ac5f9624b23a23be",
+    "0e12ad8055f1d9e1",
+    "87e4ac115eadc2a9",
+    "e125ae7f26a7ed05",
+    "f2f8738cc3d11271",
+    "7bce0bb281c18904",
+    "598d8c2f81af019f",
+    "79e339c2b911420a",
+    "f174126c043dac31",
+    "7668ab669557097d",
+    "86ee972bcd567131",
+    "64603febd32e4d70",
+    "e28fe68f86842d5f",
+    "d553d1aac996aeee",
+    "f064950e5d54ff5c",
+    "6444e5c6cf0289f2",
+    "a2d83234df8d3854",
+    "be4abf260c42f107",
+    "5ee6ec7474e731e4",
+    "30cd7f7118acf9fc",
+    "2567273bfacb2a74"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "01996L0025-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:31998L0067:por",
+     "title": "DIRECTIVA 98/67/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Setembro de 1998",
+     "published": null,
+     "celex": "31998L0067"
+    },
+    {
+     "id": "eu:celex:31999L0029:por",
+     "title": "DIRECTIVA 1999/29/CE DO CONSELHO de 22 de Abril de 1999",
+     "published": null,
+     "celex": "31999L0029"
+    },
+    {
+     "id": "eu:celex:31999L0061:por",
+     "title": "DIRECTIVA 1999/61/CE DA COMISSÃO Texto relevante para efeitos do EEE de 18 de Junho de 1999",
+     "published": null,
+     "celex": "31999L0061"
+    },
+    {
+     "id": "eu:celex:32000L0016:por",
+     "title": "DIRECTIVA 2000/16/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de Abril de 2000",
+     "published": null,
+     "celex": "32000L0016"
+    },
+    {
+     "id": "eu:celex:32001L0046:por",
+     "title": "DIRECTIVA 2001/46/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de Julho de 2001",
+     "published": null,
+     "celex": "32001L0046"
+    },
+    {
+     "id": "eu:celex:32003R0806:por",
+     "title": "REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0806"
+    },
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita ANEXO",
+    "Adita PARTE A",
+    "Adita Generalidades",
+    "Adita I. NOTAS EXPLICATIVAS",
+    "Adita II. DISPOSIÇÕES RELATIVAS À PUREZA BOTÂNICA E QUÍMICA",
+    "Adita III. DlSPOSIÇÕES RELATIVAS À DESIGNAÇÃO",
+    "Adita IV. DlSPOSlÇÕES RELATIVAS AO GLOSSÁRIO",
+    "Adita V. DlSPOSlÇÕES RELATIVAS AOS TEORES INDICADOS OU A DECLARAR EM CONFORMIDADE COM AS PARTES B E C",
+    "Adita VI. DlSPOSlÇÕES RELATIVAS AOS AGENTES DESNATURANTES OU AGLOMERANTES",
+    "Adita VII. DISPOSlÇÕES RELATIVAS ÀS TOLERÂNCIAS INDICADAS OU A DECLARAR, CONFORME ESPECIFICADO NAS PARTES B E C",
+    "Adita VIII. DISPOSlÇÕES RELATIVAS À ROTULAGEM DAS MATÉRIAS-PRIMAS PARA ALIMENTAÇÃO ANIMAL OBTIDAS A PARTIR DE PRODUTOS PROTEICOS PROVENIENTES DE TECIDOS DE MAMÍFEROS",
+    "Adita PARTE B",
+    "Adita Lista não exaustiva das principais matérias-primas para alimentação animal",
+    "Adita 1. GRÃOS DE CEREAIS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Adita 2. SEMENTES OU FRUTOS OLEAGINOSOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Adita 3. SEMENTES DE LEGUMINOSAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Adita 4. TUBÉRCULOS E RAÍZES, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Adita 5. OUTRAS SEMENTES E FRUTOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Adita 6. FORRAGENS E OUTROS ALIMENTOS GROSSEIROS",
+    "Adita 7. OUTRAS PLANTAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Adita 8. PRODUTOS LÁCTEOS",
+    "Adita 9. PRODUTOS PROVENIENTES DE ANIMAIS TERRESTRES",
+    "Adita 10. PEIXES, OUTROS ANIMAIS MARINHOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Adita 11. MINERAIS",
+    "Adita 12. DIVERSOS",
+    "Adita PARTE C",
+    "Adita Disposições relativas à designação e declaração de determinados constituintes de matérias-primas não incluídas na lista",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime ANEXO — PARTE A Generalidades"
+   ],
+   "fragments": [
+    "c126710b388f3732",
+    "d9362b62aaeac6d4",
+    "90120f55b3f87da0",
+    "9e509f18f23ad851",
+    "738d0619bd8a432b",
+    "1da91d8b7ab8cf42",
+    "e4cb6654d1e899b2",
+    "7ba83d71629346a7",
+    "8e35fd8f3723d777",
+    "3a7d49a9657e261b",
+    "1f84043ff78464f4",
+    "90bfeb84a538cad2",
+    "d5f4f28d80ce9d61",
+    "879e8297471d8647",
+    "ac5f3d50e8795f85",
+    "dbfa774f60560ce0",
+    "e27b41e1897d8664",
+    "e8077be8c59b6fad",
+    "7fd34061b3b5d001",
+    "3c97d94856cc584f",
+    "4cf47e67828f7377",
+    "10220b9774fa9034",
+    "87cee521b2f0bb1e",
+    "3c57990c1f7aa23f",
+    "755369a63e6654f3",
+    "0daa02e08ada32c3",
+    "1ddfbcab3326d944",
+    "9c439163c6971e33",
+    "a5b0fc7b469dec8c",
+    "e10937d6063a5052",
+    "0ff2e5cd444d94a4",
+    "1be2328d62f019f5",
+    "6041be3baf7dcb43",
+    "8bf334e1b0ecb912",
+    "567fbeae9829f92a",
+    "29f57300ebd823b8",
+    "3f7f2d11b45aa658",
+    "60caa1e45d01b19a",
+    "14725775eac779a0",
+    "294cc5f91416fab4",
+    "6a8d4a1171fe4766",
+    "ec73be6682d8077f",
+    "e50af0180eb26fd6",
+    "7268e0567b5903b5",
+    "2ddf3d20873d1921",
+    "b386f89bfada08b0",
+    "f47f12ac437a185c",
+    "41eaee80988eb244",
+    "40d935704fd49309"
+   ]
+  },
+  {
+   "date": "2010-09-01",
+   "future": false,
+   "celex": "01996L0025-20100901",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime ANEXO",
+    "Suprime PARTE A",
+    "Suprime Generalidades",
+    "Suprime I. NOTAS EXPLICATIVAS",
+    "Suprime II. DISPOSIÇÕES RELATIVAS À PUREZA BOTÂNICA E QUÍMICA",
+    "Suprime III. DlSPOSIÇÕES RELATIVAS À DESIGNAÇÃO",
+    "Suprime IV. DlSPOSlÇÕES RELATIVAS AO GLOSSÁRIO",
+    "Suprime V. DlSPOSlÇÕES RELATIVAS AOS TEORES INDICADOS OU A DECLARAR EM CONFORMIDADE COM AS PARTES B E C",
+    "Suprime VI. DlSPOSlÇÕES RELATIVAS AOS AGENTES DESNATURANTES OU AGLOMERANTES",
+    "Suprime VII. DISPOSlÇÕES RELATIVAS ÀS TOLERÂNCIAS INDICADAS OU A DECLARAR, CONFORME ESPECIFICADO NAS PARTES B E C",
+    "Suprime VIII. DISPOSlÇÕES RELATIVAS À ROTULAGEM DAS MATÉRIAS-PRIMAS PARA ALIMENTAÇÃO ANIMAL OBTIDAS A PARTIR DE PRODUTOS PROTEICOS PROVENIENTES DE TECIDOS DE MAMÍFEROS",
+    "Suprime PARTE B",
+    "Suprime Lista não exaustiva das principais matérias-primas para alimentação animal",
+    "Suprime 1. GRÃOS DE CEREAIS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Suprime 2. SEMENTES OU FRUTOS OLEAGINOSOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Suprime 3. SEMENTES DE LEGUMINOSAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Suprime 4. TUBÉRCULOS E RAÍZES, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Suprime 5. OUTRAS SEMENTES E FRUTOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Suprime 6. FORRAGENS E OUTROS ALIMENTOS GROSSEIROS",
+    "Suprime 7. OUTRAS PLANTAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Suprime 8. PRODUTOS LÁCTEOS",
+    "Suprime 9. PRODUTOS PROVENIENTES DE ANIMAIS TERRESTRES",
+    "Suprime 10. PEIXES, OUTROS ANIMAIS MARINHOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+    "Suprime 11. MINERAIS",
+    "Suprime 12. DIVERSOS",
+    "Suprime PARTE C",
+    "Suprime Disposições relativas à designação e declaração de determinados constituintes de matérias-primas não incluídas na lista",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e0657da0593fce72"
+   ]
+  }
+ ],
+ "fragments": {
+  "e5478c946ad33468": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/25/CE do Conselho, de 29 de Abril de 1996, relativa à circulação de matérias-primas para alimentação animal, que altera as Directivas 70/524/CEE, 74/63/CEE, 82/471/CEE e 93/74/CEE e revoga a Directiva 77/101/CEE** *Jornal Oficial nº L 125 de 23/05/1996 p. 0035 - 0058*\n\nDIRECTIVA 96/25/CE DO CONSELHO de 29 de Abril de 1996 relativa à circulação de matérias-primas para alimentação animal, que altera as Directivas 70/524/CEE, 74/63/CEE, 82/471/CEE e 93/74/CEE e revoga a Directiva 77/101/CEE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\n(1) Considerando que as matérias-primas para alimentação animal desempenham um papel importante na agricultura, no âmbito da produção, da transformação e do consumo dos produtos agrícolas;\n\n(2) Considerando que a importância na agricultura das matérias-primas para alimentação animal irá ainda aumentar, dado o crescente interesse pela qualidade, eficiência e respeito pelo ambiente;\n\n(3) Considerando que, nessas circunstâncias, as normas que regulam a circulação das matérias-primas para alimentação animal são particularmente úteis para garantir uma transparência suficiente em toda a cadeia alimentar, melhorando a qualidade da produção agrícola e, especificamente, da produção pecuária;\n\n(4) Considerando que a Directiva 77/101/CEE do Conselho, de 23 de Novembro de 1976, relativa à comercialização dos alimentos simples para animais (4), estabelece normas para a comercialização de alimentos simples para animais; que os Estados-membros têm diferentes tradições no que se refere à regulamentação da comercialização das matérias-primas em bruto; que, por conseguinte, a Directiva 77/101/CEE autoriza os Estados-membros a estabelecer derrogações em certos casos;\n\n(5) Considerando que estas derrogações levaram a que, em certos Estados-membros, a Directiva 77/101/CEE seja aplicável tanto à comercialização de alimentos simples para animais como das matérias-primas brutas para alimentação animal, ao passo que noutros Estados-membros a mesma directiva é aplicável apenas à comercialização dos alimentos simples para animais, o que permite a comercialização de alimentos simples para animais como matérias-primas brutas para alimentação animal, não sujeitas a qualquer regulamentação;\n\n(6) Considerando que, para garantir o bom funcionamento do mercado interno, é necessário eliminar as discrepâncias que ainda se verificam entre Estados-membros; que, tendo em conta a importância do sector em causa, a Directiva 77/101/CEE deve ser substituída por uma nova regulamentação;\n\n(7) Considerando que, dada a grande semelhança e proximidade entre os alimentos simples para animais e as matérias-primas brutas para alimentação animal, é necessário, para definir de forma coerente o âmbito de aplicação da presente directiva, incluir ambos no conceito de «matérias-primas para alimentação animal»;\n\n(8) Considerando que a nova definição de «matérias-primas para animais» inclui o destino desses produtos ou seja a utilização na alimentação animal por via oral, tal como previsto nas definições já existentes de «alimentos para animais» e de «alimentos compostos para animais»; que assim se garante um alcance geral, à expressão «alimentos para animais», de modo a abranger todas as matérias-primas para a alimentação animal e os alimentos compostos;\n\n(9) Considerando que uma definição lata de alimentos para animais é extremamente importante no que se refere à Directiva 70/524/CEE do Conselho, de 23 de Novembro de 1970, relativa aos aditivos na alimentação para animais (5) e à Directiva 74/63/CEE do Conselho, de 17 de Dezembro de 1973, relativa às substâncias e produtos indesejáveis nos alimentos para animais (6); que de facto, algumas disposições desta última directiva podem ser aplicáveis apenas às matérias-primas para alimentação animal e outras disposições a todos os alimentos, incluindo as matérias-primas para alimentação animal, pelo que há que utilizar ambas as expressões «alimentos para animais» e «matérias-primas para alimentação animal»;\n\n(10) Considerando que, para assegurar a necessária transparência em toda a cadeia alimentar, a presente directiva deve abranger a «circulação» das matérias-primas para alimentação animal;\n\n(11) Considerando que a obtenção de resultados satisfatórios no domínio da produção pecuária depende em grande medida da utilização correcta de matérias-primas adequadas e de boa qualidade para alimentação animal; que as matérias-primas para alimentação animal devem por conseguinte ser sempre de qualidade sã, íntegra e comercializável; que essas matérias-primas não devem representar um perigo para a saúde animal ou humana, nem ser comercializadas de forma que possa induzir em erro;\n\n(12) Considerando que muitos produtos podem ser utilizados tanto para a produção de alimentos como para outros fins, devendo aqueles que se destinem à produção de alimentos ser obrigatoriamente rotulados com uma menção clara nesse sentido aquando da sua colocação no mercado;\n\n(13) Considerando que as matérias-primas para alimentação animal circulam muitas vezes em remessas a granel, divididas ou não em várias unidades; que essas matérias-primas circulam geralmente acompanhadas de facturas ou guias de trânsito; que esses documentos podem ser utilizados como «documentos de acompanhamento» na acepção do artigo 5º da presente directiva; que esta utilização só será autorizada se a identificação (das unidades) da remessa e a existência de uma referência comum e do documento de acompanhamento estiverem devidamente asseguradas em todas as etapas da circulação, por exemplo através da utilização de números ou de sinais de referência;\n\n(14) Considerando que, dado que as matérias-primas para alimentação animal podem diferir do ponto de vista da qualidade sanitária e nutritiva, a sua colocação no mercado deve ser precedida de uma distinção clara entre as diferentes matérias-primas para alimentação animal, através de um rótulo obrigatório mencionando as respectivas designações específicas;\n\n(15) Considerando que, ao longo de toda a cadeia alimentar, é conveniente fornecer aos compradores ou aos utilizadores de matérias-primas para alimentação animal informações adicionais precisas e válidas, tais como as quantidades dos componentes analíticos que influenciam directamente a qualidade das matérias-primas para alimentação animal; que é conveniente evitar que o vendedor omita na sua declaração os componentes analíticos, de forma a proteger os pequenos compradores que solicitem essa informação e a evitar despesas desnecessárias decorrentes da multiplicação das análises imediatamente antes do fim da cadeia alimentar; que alguns Estados-membros têm dificuldade em realizar o controlo nas explorações agrícolas; que, nestas circunstâncias, é necessário aprovar disposições que prevejam a declaração das quantidades de componentes analíticos no início da cadeia alimentar;\n\n(16) Considerando que as indicações de rotulagem relativas à composição analítica das matérias-primas para alimentação animal não são obrigatórias se, antes da transacção, o comprador considerar que não necessita dessas informações e que essa isenção de rotulagem se pode aplicar nomeadamente aos produtos armazenados até ao momento em que são objecto de uma nova transacção;\n\n(17) Considerando que a circulação de matérias-primas para alimentação animal entre agricultores consiste, na grande maioria dos casos, no transporte de produtos de origem vegetal ou animal, no seu estado natural, frescos ou conservados, submetidos ou não a um tratamento físico simples, como o corte ou a moenda, e sem aditivos a não ser que se trate de conservantes; que, por razões de ordem prática e de conhecimento geral das características destes produtos, não deve ser exigida qualquer das declarações previstas na presente directiva no documento de acompanhamento, por exemplo, numa factura; que essa declaração deve ser exigida caso os produtos tenham sido tratados com aditivos, já que esse tratamento pode provocar alterações na composição química e no valor nutritivo dos referidos produtos;\n\n(18) Considerando que numerosos retalhistas vendem pequenas quantidades de matérias-primas de origem vegetal ou animal para alimentação animal, geralmente para a alimentação de animais de companhia; que, por razões de ordem prática e de conhecimento geral dos componentes desses produtos, não deve ser exigida nesses casos a declaração dos componentes;\n\n(19) Considerando que certos países terceiros nem sempre dispõem dos meios necessários para proceder às análises que permitam fornecer as informações exigidas pela presente directiva no que se refere à composição analítica das matérias-primas para alimentação animal; que, por conseguinte, convém que os Estados-membros sejam autorizados a admitir, em certas condições, a colocação em circulação dessas matérias-primas na Comunidade, acompanhada de dados provisórios relativos à sua composição;\n\n(20) Considerando que, quando não estiverem disponíveis dados definitivos e fiáveis sobre os componentes analíticos, em especial de matérias-primas para alimentação animal provenientes de países terceiros postas pela primeira vez em circulação na Comunidade, deve ser concedida a possibilidade de os dados provisórios fornecidos poderem ser confirmados no prazo de dez dias úteis, a fim de evitar o congestionamento desnecessário dos portos e das ligações rodo-ferroviárias;\n\n(21) Considerando que diversos regulamentos comunitários de base prevêem listas de ingredientes e de matérias-primas para alimentação animal;\n\n(22) Considerando que, por razões práticas e de coerência e eficácia jurídica, deve ser elaborada uma lista das principais matérias-primas para alimentação animal, à semelhança do que já foi feito em áreas comparáveis;\n\n(23) Considerando que a referida lista não pode ser exaustiva, dada a grande diversidade de produtos e subprodutos comercializados e utilizados, a constante evolução da tecnologia alimentar e a necessidade de preservar a liberdade de escolha dos fabricantes e dos agricultores; que pode ser permitida a circulação de matérias-primas para alimentação animal que não constem dessa lista, desde que essas matérias-primas sejam designadas por nomes específicos que evitem qualquer confusão com as matérias-primas para alimentação animal abrangidas por uma das denominações estabelecidas a nível comunitário;\n\n(24) Considerando que as matérias-primas para alimentação animal com um teor em substâncias e produtos indesejáveis superior aos valores indicados para os alimentos simples para animais no anexo I da Directiva 74/63/CEE só devem ser entregues a fabricantes autorizados de alimentos compostos para animais nos termos do disposto na Directiva 95/69/CE do Conselho, de 22 de Dezembro de 1995, que estabelece as condições e regras aplicáveis à autorização e ao registo de certos estabelecimentos e intermediários no sector da alimentação animal (7); que, nesse caso, deve ser incluída no rótulo uma declaração específica obrigatória do fim a que o produto se destina; que as referidas substâncias e produtos indesejáveis devem ser enumeradas na parte B do anexo II da Directiva 74/63/CEE com algumas excepções quanto à aflatoxina, ao cádmio, ao arsénico, e às matérias-primas para alimentação animal em que estas substâncias e produtos se encontram presentes, já incluídas na parte A do anexo II da Directiva 74/63/CEE;\n\n(25) Considerando que a alteração da lista das principais matérias-primas para alimentação animal constitui uma medida de carácter científico;\n\n(26) Considerando que a lista da parte B do anexo da presente directiva deve ser utilizada para a circulação de matérias-primas para alimentação animal, independentemente do fim a que se destinam, bem como para a rotulagem das matérias-primas para alimentação animal utilizadas nos alimentos compostos para animais;\n\n(27) Considerando que a Directiva 92/87/CEE da Comissão, de 26 de Outubro de 1992, que estabelece uma lista não exclusiva dos principais ingredientes normalmente utilizados e comercializados para o fabrico de alimentos compostos para animais destinados a espécies diferentes dos animais de companhia (8), prevê a elaboração de uma lista de ingredientes a incluir no rótulo dos alimentos compostos para animais; que será conveniente revogar a referida directiva aquando da aplicação das partes A e B do anexo da presente directiva;\n\n(28) Considerando que, para evitar ambiguidades e tornar mais comparáveis a nível internacional os sistemas de identificação e o intercâmbio de dados relativos às matérias-primas para alimentação animal, deve ser confiada à Comissão a adopção de normas de execução para a eventual criação de um sistema internacional de codificação prática das matérias-primas para alimentação animal, baseado em glossários relativos à origem, ao papel, ao procedimento e à maturidade/qualidade das matérias-primas para alimentação animal;\n\n(29) Considerando que, para facilitar a adopção das normas de execução, se deve recorrer a um processo de cooperação entre os Estados-membros e a Comissão no âmbito do Comité permanente dos alimentos para animais;\n\n(30) Considerando que é necessário assegurar que a exactidão das declarações prestadas possa ser verificada oficialmente de forma uniforme em toda a Comunidade, de acordo com as disposições da directiva, em todas as etapas da circulação das matérias-primas para alimentação animal;\n\n(31) Considerando que, com a adopção da presente directiva são suprimidas na legislação comunitária as expressões «alimentos simples para animais», «matérias-primas (ingredientes)», «matérias-primas brutas» e «ingredientes»; que estas expressões devem ser substituídas na legislação comunitária actual, especialmente nas Directivas 70/524/CEE, 74/63/CEE, 82/471/CEE (9) e 93/74/CEE (10) do Conselho, pela expressão «matérias-primas para alimentação animal» e, que, se necessário, a definição de «matérias-primas para alimentação animal» deve ser substituída pela definição dada na presente directiva; que esta alteração tem também repercussões na definição dos alimentos compostos para animais; que devem ser tomadas medidas para que as Directivas 80/511/CEE (11), 82/475/CEE (12) e 91/357/CEE (13) da Comissão e a Decisão 91/516/CEE da Comissão (14) sejam alteradas pela mesma razão, mediante um acto da Comissão;\n\n(32) Considerando que é necessário assegurar que as disposições dos anexos sejam adaptadas regularmente aos novos progressos dos conhecimentos científicos ou técnicos; que essas alterações deverão ser introduzidas com a maior brevidade no âmbito do processo previsto na presente directiva, a fim de instaurar uma estreita cooperação entre os Estados-membros e a Comissão no seio do Comité permanente dos alimentos para animais;\n\n(33) Considerando que a protecção eficaz da saúde humana e animal, bem como o bom funcionamento do mercado interno, exigem uma acção a nível comunitário,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ac5f9624b23a23be": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva é aplicável à circulação de matérias-primas para alimentação animal no interior da Comunidade.\n\n2. A presente directiva é aplicável sem prejuízo de outras disposições comunitárias sobre alimentação animal."
+  },
+  "0e12ad8055f1d9e1": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Matérias-primas para alimentação animal», os diversos produtos de origem vegetal ou animal, no seu estado natural, frescos ou conservados, bem como os produtos derivados da sua transformação industrial, e as substâncias orgânicas ou inorgânicas, com ou sem aditivos, destinados a ser utilizados na alimentação animal por via oral, quer directamente, sem transformação, quer, após transformação, na preparação de alimentos compostos para animais ou como suportes em pré-misturas;\n\nb) «Colocação em circulação» («circulação»), a detenção de matérias-primas para alimentação animal para efeitos de venda, incluindo a oferta, ou qualquer outra forma de tranferência para terceiros, gratuita ou não, bem como a própria venda e as outras formas de transferência."
+  },
+  "87e4ac115eadc2a9": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros determinarão que as matérias-primas para alimentação animal só podem circular na Comunidade se forem de qualidade sã, íntegra e comercializável. Os Estados-membros determinarão que essas matérias-primas não podem representar qualquer perigo para a saúde animal ou humana nem ser colocadas em circulação de forma que possa induzir em erro."
+  },
+  "e125ae7f26a7ed05": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros determinarão que as disposições gerais da parte B do anexo sejam aplicáveis à colocação em circulação de matérias-primas para alimentação animal."
+  },
+  "f2f8738cc3d11271": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os Estados-membros determinarão que as matérias-primas para alimentação animal só podem ser colocadas em circulação se, num documento de acompanhamento ou, eventualmente, na embalagem, no recipiente ou num rótulo preso a estes, figurarem, de forma bem visível, claramente legível e indelével, as indicações adiante mencionadas, que responsabilizam o produtor, acondicionador, importador, vendedor ou distribuidor estabelecidos na Comunidade:\n\na) A expressão «matérias-primas para alimentação animal»;\n\nb) A designação da matéria-prima para alimentação animal e, eventualmente, as outras indicações previstas no artigo 7º;\n\nc) Para as matérias-primas para alimentação animal enumeradas na parte B do anexo, as informações indicadas na quarta coluna dessa mesma parte B do anexo;\n\nd) Para as matérias-primas para alimentação animal que não constem da parte B do anexo, as informações indicadas na segunda coluna do quadro da parte C do anexo;\n\ne) Eventualmente, as indicações previstas na parte A do anexo;\n\nf) A quantidade líquida, expressa em unidades de massa para os produtos sólidos e em unidades de massa ou de volume para os produtos líquidos;\n\ng) O nome ou a firma e o endereço ou a sede do responsável pelas indicações referidas no presente número.\n\n2. Podem ser fornecidas outras informações nas embalagens, recipientes, rótulos ou documentos de acompanhamento desde que digam respeito a elementos objectivos ou quantificáveis que possam ser justificados e não induzam o consumidor em erro. Essas informações devem estar separadas das informações referidas no nº 1.\n\n3. Para as quantidades de matérias-primas para alimentação animal inferiores ou iguais a 10 quilogramas destinadas ao utilizador final, as indicações referidas nos nºs 1 e 2 podem ser transmitidas ao comprador no local de venda por meio de um aviso adequado.\n\n4. Se um lote for objecto de fraccionamento durante a circulação, as indicações previstas no nº 1, com uma referência ao lote inicial, devem constar da embalagem, do recipiente ou do documento de acompanhamento de cada uma das fracções do lote.\n\n5. Sempre que a composição da matéria-prima para alimentação animal for alterada durante a circulação, as indicações referidas no nº 1 devem ser alteradas em conformidade sob a responsabilidade da pessoa que fornece as novas indicações."
+  },
+  "7bce0bb281c18904": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Em derrogação do artigo 5º, as indicações referidas no nº 1, alíneas c) e d), do artigo 5º e na secção V, pontos 2 e 3, da parte A do anexo não são exigidas nos seguintes casos:\n\na) Se, antes de cada transacção, o comprador renunciar por escrito a essas informações;\n\nb) Sem prejuízo do disposto na Directiva 90/667/CEE (15), quando se trate da colocação em circulação de matérias-primas para alimentação animal, de origem vegetal ou animal, frescas ou conservadas, submetidas ou não a um tratamento físico simples, em quantidades inferiores ou iguais a 10 quilogramas, destinadas a animais de companhia e entregues directamente ao utilizador final por um vendedor estabelecido no mesmo Estado-membro.\n\n2. Sempre que, no caso de matérias-primas para alimentação animal provenientes de países terceiros e colocadas pela primeira vez em circulação na Comunidade, não tiver sido possível fornecer as garantias de composição requeridas no nº 1, alíneas c) e d), do artigo 5º e na secção V, pontos 2 e 3, da parte A do anexo, por não existirem meios que assegurem as medidas analíticas necessárias no país em causa, os Estados-membros podem admitir que o responsável referido no nº 1, alínea g), do artigo 5º forneça dados provisórios de composição desde que:\n\na) As autoridades competentes encarregadas dos controlos sejam previamente informadas da chegada das matérias-primas;\n\nb) Os dados definitivos referentes à composição sejam fornecidos ao comprador e às autoridades competentes num prazo de dez dias úteis a contar da data de chegada à Comunidade;\n\nc) As indicações referentes à composição constantes da documentação sejam acompanhadas das seguintes menções, em caracteres a negro:\n\n«dados provisórios a confirmar por... (nome e morada do laboratório mandatado para as análises) relativos a... (número de referência da amostra a analisar) até... (indicação da data).».\n\nd) Os Estados-membros informem a Comissão das circunstâncias em que aplicaram a derrogação prevista no presente número.\n\n3. Em derrogação do disposto no artigo 5º:\n\na) As indicações referidas no nº 1 do artigo 5º não são exigidas, sem prejuízo do disposto na Directiva 90/667/CEE, se se tratar de produtos de origem vegetal ou animal, no estado natural, frescos ou conservados, sujeitos ou não a um tratamento físico simples sem aditivos, excepto conservantes, cedidos por um agricultor-produtor a um criador-utilizador, ambos estabelecidos no mesmo Estado-membro;\n\nb) As indicações referidas no nº 1, alíneas c), d), e) e f), do artigo 5º e na parte A do anexo não são exigidas se se tratar da circulação de subprodutos de origem vegetal ou animal resultantes de um processo de tranformação agro-industrial com um teor em água superior a 50 %.\n\n4. Em derrogação do nº 1, alínea a), do artigo 5º:\n\n- a denominação em língua alemã «Futtermittel-Ausgangserzeugnis» pode ser substituída pela denominação «Einzelfuttermittel»,\n\n- a denominação em língua italiana «materie prime per alimenti degli animali» pode ser substituída pela denominação «mangime semplice»,\n\n- a denominação em língua grega «ðñþôç ýëç æùïôñïöþí» pode ser substituída pela denominação «áðëÞ æùïôñïöÞ»."
+  },
+  "598d8c2f81af019f": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os Estados-membros determinarão que as matérias-primas para alimentação animal enumeradas na parte B do anexo só possam circular sob as designações nela previstas e desde que correspondam às descrições nela indicadas.\n\n2. Os Estados-membros admitirão a circulação de matérias-primas para alimentação animal diferentes das constantes da lista referida no nº 1, desde que essas matérias-primas circulem sob designações e/ou qualificativos diferentes dos enumerados no anexo e que não sejam susceptíveis de induzir o comprador em erro quanto à verdadeira identidade do produto que lhe é oferecido."
+  },
+  "79e339c2b911420a": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nOs Estados-membros determinarão que:\n\na) As matérias-primas para alimentação animal com um teor em substâncias ou produtos indesejáveis superior aos valores autorizados para as matérias-primas para alimentação animal ao abrigo da Directiva 74/63/CEE só possam ser postas em circulação para utilização em estabelecimentos aprovados de alimentos compostos para animais inscritos numa lista nacional nos termos da Directiva 95/69/CE;\n\nb) Em derrogação do nº 1, alínea a), do artigo 5º, as matérias-primas para alimentação animal, na acepção da alínea a) do presente artigo, devem ser rotuladas como «matéria-prima para alimentação animal destinada a estabelecimentos aprovados que fabricam alimentos compostos para animais», sendo aplicável o disposto no nº 4 do artigo 6º"
+  },
+  "f174126c043dac31": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nPara efeitos de circulação intracomunitária, as indicações impressas no documento de acompanhamento, na embalagem, no recipiente ou no rótulo preso a estes, serão redigidas pelo menos numa ou em várias línguas a determinar pelo país destinatário, entre as línguas nacionais ou oficiais da Comunidade."
+  },
+  "7668ab669557097d": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros garantirão que as matérias-primas para alimentação animal não sejam sujeitas a restrições de circulação diferentes das previstas na presente directiva, por motivos relacionados com as disposições da presente directiva."
+  },
+  "86ee972bcd567131": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nNos termos do procedimento previsto no artigo 14º:\n\na) Pode ser adoptado um sistema de codificação numérica para as matérias-primas para alimentação animal incluídas na lista, baseado em glossários relativos à origem, à parte do produto/subproduto utilizada, ao processamento e à maturidade/qualidade das matérias-primas que permita a identificação internacional dos alimentos para animais, nomeadamente mediante uma designação e uma descrição;\n\nb) O anexo pode ser alterado em função da evolução dos conhecimentos científicos e técnicos."
+  },
+  "64603febd32e4d70": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs Estados-membros tomarão todas as medidas necessárias para que, durante a circulação, seja efectuado, pelo menos por amostragem, um controlo oficial da observância das condições previstas na presente directiva."
+  },
+  "e28fe68f86842d5f": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. A Comissão será assistida pelo Comité permanente dos alimentos para animais, criado pela Decisão 70/372/CEE (16), adiante designado «comité».\n\n2. Quando se faça referência ao procedimento previsto no presente artigo, o comité será convocado a breve prazo pelo presidente, por sua própria iniciativa ou a pedido do representante de um Estado-membro.\n\n3. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n4. a) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na falta de parecer, a Comissão submeterá imediatamente ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que a proposta lhe foi submetida, o Conselho não tiver deliberado, a Comissão adoptará as medidas propostas, excepto se o Conselho se pronunciar por maioria simples contra as medidas em causa."
+  },
+  "d553d1aac996aeee": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. A Directiva 70/524/CEE é alterada do seguinte modo:\n\na) Em todos os casos, a expressão «alimentos simples para animais» é substituída por «matérias-primas para alimentação animal»;\n\nb) A alínea f) do artigo 2º passa a ter a seguinte redacção:\n\n«f) \"matérias-primas para alimentação animal\": os diversos produtos de origem vegetal ou animal, no seu estado natural, frescos ou conservados, bem como os produtos derivados da sua transformação industrial e as substâncias orgânicas ou inorgânicas, com ou sem aditivos, destinados a ser utilizados na alimentação animal por via oral, quer directamente, sem transformação, quer, após transformação, na preparação de alimentos compostos para animais ou como suportes em pré-misturas;»;\n\nc) A alínea g) do artigo 2º passa a ter a seguinte redacção:\n\n«g) \"Alimentos compostos para animais\": as misturas de matérias-primas para alimentação animal, com ou sem aditivos, destinadas à alimentação animal por via oral, sob a forma de alimentos completos ou de alimentos complementares;»;\n\n2. A Directiva 74/63/CEE é alterada do seguinte modo:\n\na) Em todos os casos, a expressão «alimento(s) simples para animais» é substituída pela expressão «matéria(s)-prima(s) para alimentação animal»;\n\nb) A alínea b) do artigo 2º passa a ter a seguinte redacção:\n\n«b) \"matérias-primas para alimentação animal\": os diversos produtos de origem vegetal ou animal, no seu estado natural, frescos ou conservados, bem como os produtos derivados da sua transformação industrial e as substâncias orgânicas ou inorgânicas, com ou sem aditivos, destinados a ser utilizados na alimentação animal por via oral, quer directamente, sem transformação, quer, após transformação, na preparação de alimentos compostos para animais ou como suportes em pré-misturas;»;\n\nc) A alínea h) do artigo 2º passa a ter a seguinte redacção:\n\n«h) \"Alimentos compostos para animais\": as misturas de matérias-primas para alimentação animal, com ou sem aditivos, destinadas à alimentação animal, por via oral, sob a forma de alimentos completos ou de alimentos complementares;»;\n\nd) A alínea i) do artigo 2º é revogada;\n\ne) Em todos os casos, a expressão «matérias-primas» é substituída por «matérias-primas para alimentação animal».\n\n3. No artigo 1º da Directiva 82/471/CEE o nº 2 é alterado do seguinte modo:\n\na) Na alínea d), são suprimidos os termos «simples e»;\n\nb) É aditada uma nova alínea do seguinte teor:\n\n«g) A circulação de matérias-primas para alimentação animal;»;\n\n4. A Directiva 93/74/CEE é alterada do seguinte modo:\n\na) No ponto 8 do artigo 5º, o termo «ingredientes» é sempre substituído pela expressão «matérias-primas para alimentação animal».\n\nb) A alínea b) do artigo 2º passa a ter a seguinte redacção:\n\n«b) \"Alimentos compostos para animais\": as misturas de matérias-primas para alimentação animal, com ou sem aditivos, destinadas à alimentação animal por via oral, sob a forma de alimentos completos ou complementares;»."
+  },
+  "f064950e5d54ff5c": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA Directiva 77/101/CEE é revogada em 1 de Julho de 1998."
+  },
+  "6444e5c6cf0289f2": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nCom base nas informações fornecidas pelos Estados-membros, a Comissão apresentará um relatório ao Conselho, antes de 1 de Julho de 2001, sobre a experiência adquirida com a aplicação do nº 1, alínea a), nº 2 e nº 3, alínea a), do artigo 6º, acompanhado, se necessário, das propostas adequadas."
+  },
+  "a2d83234df8d3854": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar em 30 de Junho de 1998. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "be4abf260c42f107": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nAs disposições adoptadas serão aplicáveis a partir de 1 de Julho de 1998. No entanto, os Estados-membros determinarão que as matérias-primas para alimentação animal postas em circulação antes de 1 de Julho de 1998 que não estejam em conformidade com a presente directiva possam ser mantidas em circulação até 30 de Junho de 1999."
+  },
+  "5ee6ec7474e731e4": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nA presente Directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "30cd7f7118acf9fc": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 29 de Abril de 1996.\n\nPelo Conselho\n\nO Presidente\n\nW. LUCHETTI\n\n(1) JO nº C 236 de 24. 8. 1994, p. 7.\n\n(2) JO nº C 305 de 31. 10. 1994, p. 147.\n\n(3) JO nº C 102 de 24. 4. 1995, p. 10.\n\n(4) JO nº L 32 de 3. 2. 1977, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO nº L 353 de 17. 12. 1990, p. 48).\n\n(5) JO nº L 270 de 14. 12. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 95/55/CE da Comissão (JO nº L 263 de 4. 11. 1995, p. 18).\n\n(6) JO nº L 38 de 11. 2. 1974, p. 31. Directiva com a última redacção que lhe foi dada pela Directiva 93/74/CEE (JO nº L 237 de 22. 9. 1993, p. 23).\n\n(7) JO nº L 332 de 30. 12. 1995, p. 15.\n\n(8) JO nº L 319 de 4. 11. 1992, p. 19.\n\n(9) JO nº L 213 de 21. 7. 1982, p. 8.\n\n(10) JO nº L 237 de 22. 9. 1993, p. 23.\n\n(11) JO nº L 126 de 21. 5. 1980, p. 14.\n\n(12) JO nº L 213 de 21. 7. 1982, p. 27.\n\n(13) JO nº L 193 de 17. 7. 1991, p. 34.\n\n(14) JO nº L 281 de 9. 10. 1991, p. 23.\n\n(15) JO nº L 363 de 27. 12. 1990, p. 51.\n\n(16) JO nº L 170 de 3. 8. 1970, p. 1."
+  },
+  "2567273bfacb2a74": {
+   "fragment_id": "ANEXO — PARTE A Generalidades",
+   "type": "divisao",
+   "heading": "ANEXO — PARTE A Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PARTE A Generalidades\n\nI. NOTAS EXPLICATIVAS\n\n1. As matérias-primas para alimentação animal são enumeradas e designadas na parte B de acordo com os seguintes critérios:\n\n- origem do produto/subproduto, por exemplo, vegetal, animal, mineral,\n\n- parte do produto/subproduto utilizada, por exemplo, totalidade, sementes, tubérculos, ossos,\n\n- processo de transformação a que o produto/subproduto foi sujeito, por exemplo, descasque, extracção, aquecimento e/ou o produto/subproduto resultante, por exemplo, flocos, sêmeas, polpa, matérias gordas,\n\n- maturidade do produto/subproduto e/ou qualidade do produto/subproduto, por exemplo, «com baixo teor de glucosinolatos», «rico em matérias gordas», «com baixo teor de açúcar».\n\n2. A lista da parte B está dividida em doze capítulos.\n\n1. Grãos de cereais, respectivos produtos e subprodutos;\n\n2. Sementes ou frutos oleaginosos, respectivos produtos e subprodutos;\n\n3. Sementes de leguminosas, respectivos produtos e subprodutos;\n\n4. Tubérculos e raízes, respectivos produtos e subprodutos;\n\n5. Outras sementes e frutos, respectivos produtos e subprodutos;\n\n6. Forragens, e outros alimentos grosseiros;\n\n7. Outras plantas, respectivos produtos e subprodutos;\n\n8. Produtos lácteos;\n\n9. Produtos provenientes de animais terrestres;\n\n10. Peixes, outros animais marinhos, respectivos produtos e subprodutos;\n\n11. Minerais;\n\n12. Diversos.\n\nII. DISPOSIÇÕES RELATIVAS À PUREZA BOTÂNICA\n\n1. A pureza botânica dos produtos e subprodutos enumerados nas partes B e C deve ser no mínimo de 95 %, excepto se nelas for mencionado um teor diferente.\n\n2. São consideradas impurezas botânicas:\n\na) As impurezas naturais mas inofensivas (por exemplo a palha, restos de palha, as sementes de outras espécies cultivadas ou infestantes);\n\nb) Os resíduos inofensivos de outras sementes ou frutos oleaginosos provenientes de um processo de fabrico anterior, desde que o seu teor não exceda 0,5 %.\n\n3. Os teores indicados dizem respeito ao peso do produto ou subproduto no estado em que se encontra.\n\nIII. DISPOSIÇÕES RELATIVAS À DESIGNAÇÃO\n\nQuando a designação de uma matéria-prima para alimentação animal contiver um ou vários termos entre parênteses, estes últimos podem ser ou não incluídos; por exemplo, o óleo (de sementes) de soja pode ser denominado «óleo de sementes de soja» ou «óleo de soja».\n\nIV. DISPOSIÇÕES RELATIVAS AO GLOSSÁRIO\n\nO glossário que se apresenta em seguida refere-se aos principais processos utilizados no fabrico das matérias-primas para alimentação animal mencionadas nas partes B e C do presente anexo. Quando as designações dessas matérias-primas incluírem uma designação comum ou um termo qualificativo, o processo de fabrico utilizado deve corresponder à definição constante do glossário.\n\n>POSIÇÃO NUMA TABELA>\n\nV. DISPOSIÇÕES RELATIVAS AOS TEORES INDICADOS OU A DECLARAR EM CONFORMIDADE COM AS PARTES B e C\n\n1. Os teores indicados ou a declarar referem-se, salvo indicações em contrário, ao peso da matéria-prima para alimentação animal.\n\n2. Sob reserva das disposições previstas no artigo 3º e do nº 3, alínea b), do artigo 6º da directiva, e na medida em que na parte B do presente anexo não seja fixado outro teor, o teor em água da matéria-prima para alimentação animal deve ser declarado, salvo indicação em contrário, sempre que exceda 14,5 % em peso de matéria-prima. No caso de matérias-primas para alimentação animal cujo teor em humidade não exceda o limite acima referido, este teor deve ser declarado a pedido do comprador.\n\n3. Sob reserva das disposições do artigo 3º da directiva e na medida em que na parte B do presente anexo não seja fixado outro teor, o teor de cinza insolúvel em ácido clorídrico das matérias-primas para alimentação animal deve ser declarado sempre que exceda 2,2 % da matéria seca.\n\nVI. DISPOSIÇÕES RELATIVAS AOS AGENTES DESNATURANTES OU AGLOMERANTES\n\nSempre que os produtos referidos na coluna 2 da parte B ou na coluna 1 da parte C do presente anexo sejam utilizados como desnaturantes ou aglomerantes de matérias-primas para alimentação animal, devem ser prestadas as seguintes informações:\n\n- agentes desnaturantes: natureza e quantidade dos produtos utilizados,\n\n- agentes aglomerantes: natureza dos produtos utilizados.\n\nNo caso dos aglomerantes, a quantidade dos produtos utilizados não pode exceder 3 % do peso total.\n\nVII. DISPOSIÇÕES RELATIVAS AOS TEORES MÍNIMOS TOLERADOS INDICADOS OU A DECLARAR, CONFORME ESPECIFICADO NAS PARTES B e C\n\nSe, na sequência dos controlos oficiais na acepção do artigo 12º da directiva, forem detectadas discrepâncias entre o resultado do controlo e o teor declarado, susceptíveis de diminuir o valor da matéria para alimentação animal, serão admitidas as seguintes tolerâncias mínimas:\n\na) Proteína bruta:\n\n- 2 unidades caso o teor declarado seja superior ou igual a 20 %,\n\n- 10 % do teor declarado caso este seja inferior a 20 % mas superior ou igual a 10 %,\n\n- 1 unidade caso o teor declarado seja inferior a 10 %;\n\nb) Açúcares totais, açúcares redutores, sacarose, lactose e glucose (dextrose):\n\n- 2 unidades caso o teor declarado seja superior ou igual a 20 %,\n\n- 10 % do teor declarado caso este seja inferior a 20 % mas superior ou igual a 5 %,\n\n- 0,5 unidade caso o teor declarado seja inferior a 5 %;\n\nc) Amido e inulina:\n\n- 3 unidades caso o teor declarado seja superior ou igual a 30 %,\n\n- 10 % do teor declarado caso este seja inferior a 30 % mas superior ou igual a 10 %,\n\n- 1 unidade caso o teor declarado seja inferior a 10 %;\n\nd) Matéria gorda:\n\n- 1,8 unidades caso o teor declarado seja superior ou igual a 15 %,\n\n- 12 % do teor declarado caso este seja inferior a 15 % mas superior ou igual a 5 %,\n\n- 0,6 unidade caso o teor declarado seja inferior a 5 %;\n\ne) Fibra bruta:\n\n- 2,1 unidades caso o teor declarado seja superior ou igual a 14 %,\n\n- 15 % do teor declarado caso este seja inferior a 14 % mas superior ou igual a 6 %,\n\n- 0,9 unidade caso o teor declarado seja inferior a 6 %;\n\nf) Humidade e cinza total:\n\n- 1 unidade caso o teor declarado seja de 10 % ou mais,\n\n- 10 % do teor declarado caso este seja inferior a 10 % mas superior ou igual a 5 %,\n\n- 0,5 unidade caso o teor declarado seja inferior a 5 %;\n\ng) Fósforo total, sódio, carbonato de cálcio, cálcio, magnésio, índice de acidez e matéria insolúvel em éter:\n\n- 1,5 unidades caso o teor (valor) declarado seja superior ou igual a 15 % (15), conforme o caso,\n\n- 10 % do teor (valor) declarado caso este seja inferior a 15 % (15) mas superior ou igual a 2 % (2), conforme o caso,\n\n- 0,2 unidade caso o teor (valor) declarado seja inferior a 2 % (2), conforme o caso;\n\nh) Cinzas insolúveis em ácido clorídico e cloretos expressos em NaCl:\n\n- 10 % do teor declarado caso este seja superior ou igual a 3 %,\n\n- 0,3 unidade caso o teor declarado seja inferior a 3 %;\n\ni) Caroteno, vitamina A e xantofila:\n\n- 30 % do teor declarado;\n\nj) Metionina, lisina e bases azotadas voláteis:\n\n- 20 % do teor declarado.\n\nPARTE B Lista não exaustiva das principais matérias-primas para alimentação animal\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\nPARTE C Disposições relativas à declaração de determinados constituintes de matérias para alimentação animal não incluídas na lista\n\nAs matérias-primas para alimentação animal colocadas em circulação que não constem da parte B do presente anexo serão objecto de uma declaração obrigatória dos constituintes indicados na coluna 2 do quadro seguinte, nos termos do nº 1, alínea d), do artigo 5º da directiva:\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "c126710b388f3732": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 1996\n\nrelativa à circulação e à utilização de matérias-primas para alimentação animal, que altera as Directivas 70/524/CEE, 74/63/CEE, 82/471/CEE e 93/74/CEE e revoga a Directiva 77/101/CEE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0003)),\n\n(1) Considerando que as matérias-primas para alimentação animal desempenham um papel importante na agricultura, no âmbito da produção, da transformação e do consumo dos produtos agrícolas;\n\n(2) Considerando que a importância na agricultura das matérias-primas para alimentação animal irá ainda aumentar, dado o crescente interesse pela qualidade, eficiência e respeito pelo ambiente;\n\n(3) Considerando que, nessas circunstâncias, as normas que regulam a circulação das matérias-primas para alimentação animal são particularmente úteis para garantir uma transparência suficiente em toda a cadeia alimentar, melhorando a qualidade da produção agrícola e, especificamente, da produção pecuária;\n\n(4) Considerando que a Directiva 77/101/CEE do Conselho, de 23 de Novembro de 1976, relativa à comercialização dos alimentos simples para animais ([^4^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0004)), estabelece normas para a comercialização de alimentos simples para animais; que os Estados-membros têm diferentes tradições no que se refere à regulamentação da comercialização das matérias-primas em bruto; que, por conseguinte, a Directiva 77/101/CEE autoriza os Estados-membros a estabelecer derrogações em certos casos;\n\n(5) Considerando que estas derrogações levaram a que, em certos Estados-membros, a Directiva 77/101/CEE seja aplicável tanto à comercialização de alimentos simples para animais como das matérias-primas brutas para alimentação animal, ao passo que noutros Estados-membros a mesma directiva é aplicável apenas à comercialização dos alimentos simples para animais, o que permite a comercialização de alimentos simples para animais como matérias-primas brutas para alimentação animal, não sujeitas a qualquer regulamentação;\n\n(6) Considerando que, para garantir o bom funcionamento do mercado interno, é necessário eliminar as discrepâncias que ainda se verificam entre Estados-membros; que, tendo em conta a importância do sector em causa, a Directiva 77/101/CEE deve ser substituída por uma nova regulamentação;\n\n(7) Considerando que, dada a grande semelhança e proximidade entre os alimentos simples para animais e as matérias-primas brutas para alimentação animal, é necessário, para definir de forma coerente o âmbito de aplicação da presente directiva, incluir ambos no conceito de «matérias-primas para alimentação animal»;\n\n(8) Considerando que a nova definição de «matérias-primas para animais» inclui o destino desses produtos ou seja a utilização na alimentação animal por via oral, tal como previsto nas definições já existentes de «alimentos para animais» e de «alimentos compostos para animais»; que assim se garante um alcance geral, à expressão «alimentos para animais», de modo a abranger todas as matérias-primas para a alimentação animal e os alimentos compostos;\n\n(9) Considerando que uma definição lata de alimentos para animais é extremamente importante no que se refere à Directiva 70/524/CEE do Conselho, de 23 de Novembro de 1970, relativa aos aditivos na alimentação para animais ([^5^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0005)) e à Directiva 74/63/CEE do Conselho, de 17 de Dezembro de 1973, relativa às substâncias e produtos indesejáveis nos alimentos para animais ([^6^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0006)); que de facto, algumas disposições desta última directiva podem ser aplicáveis apenas às matérias-primas para alimentação animal e outras disposições a todos os alimentos, incluindo as matérias-primas para alimentação animal, pelo que há que utilizar ambas as expressões «alimentos para animais» e «matérias-primas para alimentação animal»;\n\n(10) Considerando que, para assegurar a necessária transparência em toda a cadeia alimentar, a presente directiva deve abranger a «circulação» das matérias-primas para alimentação animal;\n\n(11) Considerando que a obtenção de resultados satisfatórios no domínio da produção pecuária depende em grande medida da utilização correcta de matérias-primas adequadas e de boa qualidade para alimentação animal; que as matérias-primas para alimentação animal devem por conseguinte ser sempre de qualidade sã, íntegra e comercializável; que essas matérias-primas não devem representar um perigo para a saúde animal ou humana, nem ser comercializadas de forma que possa induzir em erro;\n\n(12) Considerando que muitos produtos podem ser utilizados tanto para a produção de alimentos como para outros fins, devendo aqueles que se destinem à produção de alimentos ser obrigatoriamente rotulados com uma menção clara nesse sentido aquando da sua colocação no mercado;\n\n(13) Considerando que as matérias-primas para alimentação animal circulam muitas vezes em remessas a granel, divididas ou não em várias unidades; que essas matérias-primas circulam geralmente acompanhadas de facturas ou guias de trânsito; que esses documentos podem ser utilizados como «documentos de acompanhamento» na acepção do artigo 5.º da presente directiva; que esta utilização só será autorizada se a identificação (das unidades) da remessa e a existência de uma referência comum e do documento de acompanhamento estiverem devidamente asseguradas em todas as etapas da circulação, por exemplo através da utilização de números ou de sinais de referência;\n\n(14) Considerando que, dado que as matérias-primas para alimentação animal podem diferir do ponto de vista da qualidade sanitária e nutritiva, a sua colocação no mercado deve ser precedida de uma distinção clara entre as diferentes matérias-primas para alimentação animal, através de um rótulo obrigatório mencionando as respectivas designações específicas;\n\n(15) Considerando que, ao longo de toda a cadeia alimentar, é conveniente fornecer aos compradores ou aos utilizadores de matérias-primas para alimentação animal informações adicionais precisas e válidas, tais como as quantidades dos componentes analíticos que influenciam directamente a qualidade das matérias-primas para alimentação animal; que é conveniente evitar que o vendedor omita na sua declaração os componentes analíticos, de forma a proteger os pequenos compradores que solicitem essa informação e a evitar despesas desnecessárias decorrentes da multiplicação das análises imediatamente antes do fim da cadeia alimentar; que alguns Estados-membros têm dificuldade em realizar o controlo nas explorações agrícolas; que, nestas circunstâncias, é necessário aprovar disposições que prevejam a declaração das quantidades de componentes analíticos no início da cadeia alimentar;\n\n(16) Considerando que as indicações de rotulagem relativas à composição analítica das matérias-primas para alimentação animal não são obrigatórias se, antes da transacção, o comprador considerar que não necessita dessas informações e que essa isenção de rotulagem se pode aplicar nomeadamente aos produtos armazenados até ao momento em que são objecto de uma nova transacção;\n\n(17) Considerando que a circulação de matérias-primas para alimentação animal entre agricultores consiste, na grande maioria dos casos, no transporte de produtos de origem vegetal ou animal, no seu estado natural, frescos ou conservados, submetidos ou não a um tratamento físico simples, como o corte ou a moenda, e sem aditivos a não ser que se trate de conservantes; que, por razões de ordem prática e de conhecimento geral das características destes produtos, não deve ser exigida qualquer das declarações previstas na presente directiva no documento de acompanhamento, por exemplo, numa factura; que essa declaração deve ser exigida caso os produtos tenham sido tratados com aditivos, já que esse tratamento pode provocar alterações na composição química e no valor nutritivo dos referidos produtos;\n\n(18) Considerando que numerosos retalhistas vendem pequenas quantidades de matérias-primas de origem vegetal ou animal para alimentação animal, geralmente para a alimentação de animais de companhia; que, por razões de ordem prática e de conhecimento geral dos componentes desses produtos, não deve ser exigida nesses casos a declaração dos componentes;\n\n(19) Considerando que certos países terceiros nem sempre dispõem dos meios necessários para proceder às análises que permitam fornecer as informações exigidas pela presente directiva no que se refere à composição analítica das matérias-primas para alimentação animal; que, por conseguinte, convém que os Estados-membros sejam autorizados a admitir, em certas condições, a colocação em circulação dessas matérias-primas na Comunidade, acompanhada de dados provisórios relativos à sua composição;\n\n(20) Considerando que, quando não estiverem disponíveis dados definitivos e fiáveis sobre os componentes analíticos, em especial de matérias-primas para alimentação animal provenientes de países terceiros postas pela primeira vez em circulação na Comunidade, deve ser concedida a possibilidade de os dados provisórios fornecidos poderem ser confirmados no prazo de dez dias úteis, a fim de evitar o congestionamento desnecessário dos portos e das ligações rodo-ferroviárias;\n\n(21) Considerando que diversos regulamentos comunitários de base prevêem listas de ingredientes e de matérias-primas para alimentação animal;\n\n(22) Considerando que, por razões práticas e de coerência e eficácia jurídica, deve ser elaborada uma lista das principais matérias-primas para alimentação animal, à semelhança do que já foi feito em áreas comparáveis;\n\n(23) Considerando que a referida lista não pode ser exaustiva, dada a grande diversidade de produtos e subprodutos comercializados e utilizados, a constante evolução da tecnologia alimentar e a necessidade de preservar a liberdade de escolha dos fabricantes e dos agricultores; que pode ser permitida a circulação de matérias-primas para alimentação animal que não constem dessa lista, desde que essas matérias-primas sejam designadas por nomes específicos que evitem qualquer confusão com as matérias-primas para alimentação animal abrangidas por uma das denominações estabelecidas a nível comunitário;\n\n(24) Considerando que as matérias-primas para alimentação animal com um teor em substâncias e produtos indesejáveis superior aos valores indicados para os alimentos simples para animais no anexo I da Directiva 74/63/CEE só devem ser entregues a fabricantes autorizados de alimentos compostos para animais nos termos do disposto na Directiva 95/69/CE do Conselho, de 22 de Dezembro de 1995, que estabelece as condições e regras aplicáveis à autorização e ao registo de certos estabelecimentos e intermediários no sector da alimentação animal ([^7^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0007)); que, nesse caso, deve ser incluída no rótulo uma declaração específica obrigatória do fim a que o produto se destina; que as referidas substâncias e produtos indesejáveis devem ser enumeradas na parte B do anexo II da Directiva 74/63/CEE com algumas excepções quanto à aflatoxina, ao cádmio, ao arsénico, e às matérias-primas para alimentação animal em que estas substâncias e produtos se encontram presentes, já incluídas na parte A do anexo II da Directiva 74/63/CEE;\n\n(25) Considerando que a alteração da lista das principais matérias-primas para alimentação animal constitui uma medida de carácter científico;\n\n(26) Considerando que a lista da parte B do anexo da presente directiva deve ser utilizada para a circulação de matérias-primas para alimentação animal, independentemente do fim a que se destinam, bem como para a rotulagem das matérias-primas para alimentação animal utilizadas nos alimentos compostos para animais;\n\n(27) Considerando que a Directiva 92/87/CEE da Comissão, de 26 de Outubro de 1992, que estabelece uma lista não exclusiva dos principais ingredientes normalmente utilizados e comercializados para o fabrico de alimentos compostos para animais destinados a espécies diferentes dos animais de companhia ([^8^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0008)), prevê a elaboração de uma lista de ingredientes a incluir no rótulo dos alimentos compostos para animais; que será conveniente revogar a referida directiva aquando da aplicação das partes A e B do anexo da presente directiva;\n\n(28) Considerando que, para evitar ambiguidades e tornar mais comparáveis a nível internacional os sistemas de identificação e o intercâmbio de dados relativos às matérias-primas para alimentação animal, deve ser confiada à Comissão a adopção de normas de execução para a eventual criação de um sistema internacional de codificação prática das matérias-primas para alimentação animal, baseado em glossários relativos à origem, ao papel, ao procedimento e à maturidade/qualidade das matérias-primas para alimentação animal;\n\n(29) Considerando que, para facilitar a adopção das normas de execução, se deve recorrer a um processo de cooperação entre os Estados-membros e a Comissão no âmbito do Comité permanente dos alimentos para animais;\n\n(30) Considerando que é necessário assegurar que a exactidão das declarações prestadas possa ser verificada oficialmente de forma uniforme em toda a Comunidade, de acordo com as disposições da directiva, em todas as etapas da circulação das matérias-primas para alimentação animal;\n\n(31) Considerando que, com a adopção da presente directiva são suprimidas na legislação comunitária as expressões «alimentos simples para animais», «matérias-primas (ingredientes)», «matérias-primas brutas» e «ingredientes»; que estas expressões devem ser substituídas na legislação comunitária actual, especialmente nas Directivas 70/524/CEE, 74/63/CEE, 82/471/CEE ([^9^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0009)) e 93/74/CEE ([^10^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0010)) do Conselho, pela expressão «matérias-primas para alimentação animal» e, que, se necessário, a definição de «matérias-primas para alimentação animal» deve ser substituída pela definição dada na presente directiva; que esta alteração tem também repercussões na definição dos alimentos compostos para animais; que devem ser tomadas medidas para que as Directivas 80/511/CEE ([^11^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0011)), 82/475/CEE ([^12^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0012)) e 91/357/CEE ([^13^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0013)) da Comissão e a Decisão 91/516/CEE da Comissão ([^14^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0014)) sejam alteradas pela mesma razão, mediante um acto da Comissão;\n\n(32) Considerando que é necessário assegurar que as disposições dos anexos sejam adaptadas regularmente aos novos progressos dos conhecimentos científicos ou técnicos; que essas alterações deverão ser introduzidas com a maior brevidade no âmbito do processo previsto na presente directiva, a fim de instaurar uma estreita cooperação entre os Estados-membros e a Comissão no seio do Comité permanente dos alimentos para animais;\n\n(33) Considerando que a protecção eficaz da saúde humana e animal, bem como o bom funcionamento do mercado interno, exigem uma acção a nível comunitário,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d9362b62aaeac6d4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é aplicável à circulação e à utilização de matérias-primas para alimentação animal no interior da Comunidade.\n\n2. A presente directiva é aplicável sem prejuízo de outras disposições comunitárias sobre alimentação animal."
+  },
+  "90120f55b3f87da0": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Matérias-primas para alimentação animal», os diversos produtos de origem vegetal ou animal, no seu estado natural, frescos ou conservados, bem como os produtos derivados da sua transformação industrial, e as substâncias orgânicas ou inorgânicas, com ou sem aditivos, destinados a ser utilizados na alimentação animal por via oral, quer directamente, sem transformação, quer, após transformação, na preparação de alimentos compostos para animais ou como suportes em pré-misturas;\n\nb) «colocação em circulação» ou «circulação»: a detenção de quaisquer produtos destinados à alimentação animal para efeitos de venda, incluindo a proposta de venda, ou de qualquer outra forma de transmissão para terceiros, a título gratuito ou oneroso, bem como a própria venda e qualquer outra forma de transmissão."
+  },
+  "9e509f18f23ad851": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSem prejuízo das obrigações resultantes de outras disposições comunitárias, os Estados-Membros determinarão que as matérias-primas para alimentação animal só podem ser colocadas em circulação na Comunidade se forem de qualidade sã, íntegra e comercializável. Os Estados-Membros determinarão que, quando forem colocadas em circulação ou utilizadas, essas matérias-primas não poderão representar qualquer perigo para a saúde humana ou animal, ou para o ambiente, nem ser colocadas em circulação de forma que possa induzir em erro."
+  },
+  "738d0619bd8a432b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros determinarão que as disposições gerais da parte B do anexo sejam aplicáveis à colocação em circulação de matérias-primas para alimentação animal."
+  },
+  "1da91d8b7ab8cf42": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros determinarão que as matérias-primas para alimentação animal só podem ser colocadas em circulação se, num documento de acompanhamento ou, eventualmente, na embalagem, no recipiente ou num rótulo preso a estes, figurarem, de forma bem visível, claramente legível e indelével, as indicações adiante mencionadas, que responsabilizam o produtor, acondicionador, importador, vendedor ou distribuidor estabelecidos na Comunidade:\n\na) A expressão «matérias-primas para alimentação animal»;\n\nb) A designação da matéria-prima para alimentação animal e, eventualmente, as outras indicações previstas no artigo 7.º;\n\nc) Para as matérias-primas para alimentação animal enumeradas na parte B do anexo, as informações indicadas na quarta coluna dessa mesma parte B do anexo;\n\nd) Para as matérias-primas para alimentação animal que não constem da parte B do anexo, as informações indicadas na segunda coluna do quadro da parte C do anexo;\n\ne) Eventualmente, as indicações previstas na parte A do anexo;\n\nf) A quantidade líquida, expressa em unidades de massa para os produtos sólidos e em unidades de massa ou de volume para os produtos líquidos;\n\ng) O nome ou a firma, o endereço ou a sede social do estabelecimento produtor e o número de aprovação, bem como o número de referência do lote ou qualquer outra indicação que permita seguir o percurso da matéria-prima, quando o estabelecimento deva ser aprovado com base:\n\n— no disposto na Directiva 90/667/CEE ([^15^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0015));\n\n— em medidas comunitárias incluídas numa lista a elaborar pela Comissão. Essa medida, que tem por objecto alterar elementos não essenciais da presente directiva, completando-a, é aprovada pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 13.º;\n\nh) O nome ou a firma e o endereço ou a sede social do responsável pelas indicações referidas no presente número, se não se tratar do produtor referido na alínea g).\n\n2. Podem ser fornecidas outras informações nas embalagens, recipientes, rótulos ou documentos de acompanhamento desde que digam respeito a elementos objectivos ou quantificáveis que possam ser justificados e não induzam o consumidor em erro. Essas informações devem estar separadas das informações referidas no n.º 1.\n\n3. Para as quantidades de matérias-primas para alimentação animal inferiores ou iguais a 10 quilogramas destinadas ao utilizador final, as indicações referidas nos n.^os^ 1 e 2 podem ser transmitidas ao comprador no local de venda por meio de um aviso adequado.\n\n4. Se um lote for objecto de fraccionamento durante a circulação, as indicações previstas no n.º 1, com uma referência ao lote inicial, devem constar da embalagem, do recipiente ou do documento de acompanhamento de cada uma das fracções do lote.\n\n5. Sempre que a composição da matéria-prima para alimentação animal for alterada durante a circulação, as indicações referidas no n.º 1 devem ser alteradas em conformidade sob a responsabilidade da pessoa que fornece as novas indicações."
+  },
+  "e4cb6654d1e899b2": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Em derrogação do artigo 5.º, as indicações referidas no n.º 1, alíneas c) e d), do artigo 5.º e na secção V, pontos 2 e 3, da parte A do anexo não são exigidas nos seguintes casos:\n\na) Se, antes de cada transacção, o comprador renunciar por escrito a essas informações;\n\nb) Sem prejuízo do disposto na Directiva 90/667/CEE ([^16^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0016)), quando se trate da colocação em circulação de matérias-primas para alimentação animal, de origem vegetal ou animal, frescas ou conservadas, submetidas ou não a um tratamento físico simples, em quantidades inferiores ou iguais a 10 quilogramas, destinadas a animais de companhia e entregues directamente ao utilizador final por um vendedor estabelecido no mesmo Estado-membro.\n\n2. Sempre que, no caso de matérias-primas para alimentação animal provenientes de países terceiros e colocadas pela primeira vez em circulação na Comunidade, não tiver sido possível fornecer as garantias de composição requeridas no n.º 1, alíneas c) e d), do artigo 5.º e na secção V, pontos 2 e 3, da parte A do anexo, por não existirem meios que assegurem as medidas analíticas necessárias no país em causa, os Estados-membros podem admitir que o responsável referido no n.º 1, alínea g), do artigo 5.º forneça dados provisórios de composição desde que:\n\na) As autoridades competentes encarregadas dos controlos sejam previamente informadas da chegada das matérias-primas;\n\nb) Os dados definitivos referentes à composição sejam fornecidos ao comprador e às autoridades competentes num prazo de dez dias úteis a contar da data de chegada à Comunidade;\n\nc) As indicações referentes à composição constantes da documentação sejam acompanhadas das seguintes menções, em caracteres a negro: «dados provisórios a confirmar por … (nome e morada do laboratório mandatado para as análises) relativos a … (número de referência da amostra a analisar) até … (indicação da data).».\n\nd) Os Estados-membros informem a Comissão das circunstâncias em que aplicaram a derrogação prevista no presente número.\n\n3. Em derrogação do disposto no artigo 5.º:\n\na) As indicações referidas no n.º 1 do artigo 5.º não são exigidas, sem prejuízo do disposto na Directiva 90/667/CEE, se se tratar de produtos de origem vegetal ou animal, no estado natural, frescos ou conservados, sujeitos ou não a um tratamento físico simples sem aditivos, excepto conservantes, cedidos por um agricultor-produtor a um criador-utilizador, ambos estabelecidos no mesmo Estado-membro;\n\nb) As indicações referidas no n.º 1, alíneas c), d), e) e f), do artigo 5.º e na parte A do anexo não são exigidas se se tratar da circulação de subprodutos de origem vegetal ou animal resultantes de um processo de tranformação agro-industrial com um teor em água superior a 50 %.\n\n4. Em derrogação do n.º 1, alínea a), do artigo 5.º:\n\n— a denominação em língua alemã «Futtermittel-Ausgangserzeugnis» pode ser substituída pela denominação «Einzelfuttermittel»,\n\n— a denominação em língua italiana «materie prime per alimenti degli animali» pode ser substituída pela denominação «mangime semplice»,\n\n— a denominação em língua grega «πρώτη ύλη ζωοτροφών» pode ser substituída pela denominação «απλή ζωοτροφή»."
+  },
+  "7ba83d71629346a7": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros determinarão que as matérias-primas para alimentação animal enumeradas na parte B do anexo só possam circular sob as designações nela previstas e desde que correspondam às descrições nela indicadas.\n\n2. Os Estados-membros admitirão a circulação de matérias-primas para alimentação animal diferentes das constantes da lista referida no n.º 1, desde que essas matérias-primas circulem sob designações e/ou qualificativos diferentes dos enumerados no anexo e que não sejam susceptíveis de induzir o comprador em erro quanto à verdadeira identidade do produto que lhe é oferecido."
+  },
+  "8e35fd8f3723d777": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros determinarão que:\n\na) As matérias-primas para alimentação animal com um teor em substâncias ou produtos indesejáveis superior aos valores autorizados para as matérias-primas para alimentação animal ao abrigo da Directiva 74/63/CEE só possam ser postas em circulação para utilização em estabelecimentos aprovados de alimentos compostos para animais inscritos numa lista nacional nos termos da Directiva 95/69/CE;\n\nb) Em derrogação do n.º 1, alínea a), do artigo 5.º, as matérias-primas para alimentação animal, na acepção da alínea a) do presente artigo, devem ser rotuladas como «matéria-prima para alimentação animal destinada a estabelecimentos aprovados que fabricam alimentos compostos para animais», sendo aplicável o disposto no n.º 4 do artigo 6.º"
+  },
+  "3a7d49a9657e261b": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nPara efeitos de circulação intracomunitária, as indicações impressas no documento de acompanhamento, na embalagem, no recipiente ou no rótulo preso a estes, serão redigidas pelo menos numa ou em várias línguas a determinar pelo país destinatário, entre as línguas nacionais ou oficiais da Comunidade."
+  },
+  "1f84043ff78464f4": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros garantirão que as matérias-primas para alimentação animal não sejam sujeitas a restrições de circulação diferentes das previstas na presente directiva, por motivos relacionados com as disposições da presente directiva."
+  },
+  "90bfeb84a538cad2": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Pode ser aprovado, pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 13.º, um sistema de codificação numérica para as matérias-primas para alimentação animal incluídas na lista, baseado em glossários relativos à origem, à parte do produto/subproduto utilizada, ao processamento e à maturidade/qualidade das matérias-primas que permita a identificação internacional dos alimentos para animais, nomeadamente mediante uma designação e uma descrição.\n\n2. A Comissão elabora uma lista de substâncias cuja circulação ou utilização para alimentação animal sejam limitadas ou proibidas para garantir o respeito do disposto no artigo 3.º. Essa medida, que tem por objecto alterar elementos não essenciais da presente directiva, completando-a, é aprovada pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 13.º.\n\n3. A Comissão altera a lista a que se refere o n.º 2, em função da evolução dos conhecimentos científicos e técnicos. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 13.º. Por imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 5 do artigo 13.º, tendo em vista a aprovação dessas medidas.\n\n4. A Comissão aprova as alterações a inserir no anexo em função da evolução dos conhecimentos científicos e técnicos. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 4 do artigo 13.º."
+  },
+  "d5f4f28d80ce9d61": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros tomarão todas as medidas necessárias para que, durante a circulação, seja efectuado, pelo menos por amostragem, um controlo oficial da observância das condições previstas na presente directiva."
+  },
+  "879e8297471d8647": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^17^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0017)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^18^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0018)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 e a alínea b) do n.º 5 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nOs prazos previstos na alínea c) do n.º 3 e nas alíneas b) e e) do n.º 4 do artigo 5.º-A da Decisão 1999/468/CE são de dois meses, um mês e dois meses, respectivamente.\n\n5. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "ac5f3d50e8795f85": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. A Directiva 70/524/CEE é alterada do seguinte modo:\n\na) Em todos os casos, a expressão «alimentos simples para animais» é substituída por «matérias-primas para alimentação animal»;\n\nb) A alínea f) do artigo 2.\n\n«f) “matérias-primas para alimentação animal”: os diversos produtos de origem vegetal ou animal, no seu estado natural, frescos ou conservados, bem como os produtos derivados da sua transformação industrial e as substâncias orgânicas ou inorgânicas, com ou sem aditivos, destinados a ser utilizados na alimentação animal por via oral, quer directamente, sem transformação, quer, após transformação, na preparação de alimentos compostos para animais ou como suportes em pré-misturas;»\n\nc) A alínea g) do artigo 2.\n\n«g) “Alimentos compostos para animais”: as misturas de matérias-primas para alimentação animal, com ou sem aditivos, destinadas à alimentação animal por via oral, sob a forma de alimentos completos ou de alimentos complementares;»\n\n3. No artigo 1.º da Directiva 82/471/CEE o n.º 2 é alterado do seguinte modo:\n\na) Na alínea d), são suprimidos os termos «simples e»;\n\nb) É aditada uma nova alínea do seguinte teor:\n\n«g) A circulação de matérias-primas para alimentação animal;»\n\n4. A Directiva 93/74/CEE é alterada do seguinte modo:\n\na) No ponto 8 do artigo 5.º, o termo «ingredientes» é sempre substituído pela expressão «matérias-primas para alimentação animal».\n\nb) A alínea b) do artigo 2.\n\n«b) “Alimentos compostos para animais”: as misturas de matérias-primas para alimentação animal, com ou sem aditivos, destinadas à alimentação animal por via oral, sob a forma de alimentos completos ou complementares;»"
+  },
+  "dbfa774f60560ce0": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA Directiva 77/101/CEE é revogada em 1 de Julho de 1998."
+  },
+  "e27b41e1897d8664": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nCom base nas informações fornecidas pelos Estados-membros, a Comissão apresentará um relatório ao Conselho, antes de 1 de Julho de 2001, sobre a experiência adquirida com a aplicação do n.º 1, alínea a), n.º 2 e n.º 3, alínea a), do artigo 6.º, acompanhado, se necessário, das propostas adequadas."
+  },
+  "e8077be8c59b6fad": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar em 30 de Junho de 1998. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "7fd34061b3b5d001": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs disposições adoptadas serão aplicáveis a partir de 1 de Julho de 1998. No entanto, os Estados-membros determinarão que as matérias-primas para alimentação animal postas em circulação antes de 1 de Julho de 1998 que não estejam em conformidade com a presente directiva possam ser mantidas em circulação até 30 de Junho de 1999."
+  },
+  "3c97d94856cc584f": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA presente Directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "4cf47e67828f7377": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "3c57990c1f7aa23f": {
+   "fragment_id": "Generalidades",
+   "type": "divisao",
+   "heading": "Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Generalidades"
+  },
+  "755369a63e6654f3": {
+   "fragment_id": "I. NOTAS EXPLICATIVAS",
+   "type": "divisao",
+   "heading": "I. NOTAS EXPLICATIVAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. NOTAS EXPLICATIVAS\n\n1. As matérias-primas para alimentação animal são enumeradas e designadas na parte B de acordo com os seguintes critérios: — origem do produto/subproduto, por exemplo, vegetal, animal, mineral, — parte do produto/subproduto utilizada, por exemplo, totalidade, sementes, tubérculos, ossos, — processo de transformação a que o produto/subproduto foi sujeito, por exemplo, descasque, extracção, aquecimento e/ou o produto/subproduto resultante, por exemplo, flocos, sêmeas, polpa, matérias gordas, — maturidade do produto/subproduto e/ou qualidade do produto/subproduto, por exemplo, «com baixo teor de glucosinolatos», «rico em matérias gordas», «com baixo teor de açúcar».\n\n2. A lista da parte B está dividida em doze capítulos: 1. Grãos de cereais, respectivos produtos e subprodutos; 2. Sementes ou frutos oleaginosos, respectivos produtos e subprodutos; 3. Sementes de leguminosas, respectivos produtos e subprodutos; 4. Tubérculos e raízes, respectivos produtos e subprodutos; 5. Outras sementes e frutos, respectivos produtos e subprodutos; 6. Forragens e outros alimentos grosseiros; 7. Outras plantas, respectivos produtos e subprodutos; 8. Produtos lácteos; 9. Produtos provenientes de animais terrestres; 10. Peixes, outros animais marinhos, respectivos produtos e subprodutos; 11. Minerais; 12. Diversos."
+  },
+  "0daa02e08ada32c3": {
+   "fragment_id": "II. DISPOSIÇÕES RELATIVAS À PUREZA BOTÂNICA E QUÍMICA",
+   "type": "divisao",
+   "heading": "II. DISPOSIÇÕES RELATIVAS À PUREZA BOTÂNICA E QUÍMICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. DISPOSIÇÕES RELATIVAS À PUREZA BOTÂNICA E QUÍMICA\n\n1. Sem prejuízo das disposições do artigo 3.º, as matérias-primas para alimentação animal devem, tanto quanto o permitam as boas práticas de fabrico, estar isentas de impurezas químicas provenientes da utilização, no seu processo de fabricação, de adjuvantes tecnológicos abrangidos pela Directiva 70/524/CEE, salvo se, para a matéria-prima para alimentação animal em questão, for fixado na parte B do anexo um teor máximo específico.\n\n2. A pureza botânica dos produtos e subprodutos enumerados nas partes B e C deve ser, no mínimo, de 95 %, excepto se nelas for mencionado um teor diferente. São consideradas impurezas botânicas: a) As impurezas naturais, mais inofensivas (por exemplo, a palha, restos de palha ou as sementes de outras espécies cultivadas ou de infestantes); b) Os resíduos inofensivos de outras sementes ou frutos oleaginosos provenientes de um processo de fabrico anterior, desde que o seu teor não exceda 0,5 %.\n\n3. Os teores relativos à pureza botânica indicados dizem respeito ao peso do produto ou subproduto no estado em que se encontra."
+  },
+  "1ddfbcab3326d944": {
+   "fragment_id": "III. DlSPOSIÇÕES RELATIVAS À DESIGNAÇÃO",
+   "type": "divisao",
+   "heading": "III. DlSPOSIÇÕES RELATIVAS À DESIGNAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. DlSPOSIÇÕES RELATIVAS À DESIGNAÇÃO\n\nQuando a designação de uma matéria-prima para alimentação animal indicada na parte B contiver um ou vários termos entre parênteses, estes últimos podem ser ou não incluídos; por exemplo, o óleo (de sementes) de soja pode ser denominado óleo de sementes de soja ou óleo de soja."
+  },
+  "9c439163c6971e33": {
+   "fragment_id": "IV. DlSPOSlÇÕES RELATIVAS AO GLOSSÁRIO",
+   "type": "divisao",
+   "heading": "IV. DlSPOSlÇÕES RELATIVAS AO GLOSSÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IV. DlSPOSlÇÕES RELATIVAS AO GLOSSÁRIO\n\nO glossário que se apresenta em seguida refere-se aos principais processos utilizados no fabrico das matérias-primas para alimentação animal mencionadas nas partes B e C do presente anexo. Quando as designações dessas matérias-primas incluírem uma designação comum ou um termo qualificativo, o processo do fabrico utilizado deve corresponder à definição constante do glossário.\n\n|  | Processo | Definição | Designação comum/termo qualificativo |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1 | Concentração [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0019) | Aumento de certos teores através da remoção de água ou de outros constituintes | Concentrado |\n| 2 | Descasque [(^2^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0020) | Remoção parcial ou total dos tecidos exteriores dos grãos, sementes, frutos, frutos de casca rija e outros | Descascado, parcialmente descascado |\n| 3 | Secagem | Desidratação artificial ou natural | Seco (ao sol ou artificialmente) |\n| 4 | Extracção | Remoção, com um solvente orgânico, de gorduras ou óleos de certas substâncias, ou, com um solvente aquoso, do açúcar ou outros componentes solúveis em água. Em caso de utilização de um solvente orgânico, o produto resultante deve ficar tecnicamente isento desse solvente | Bagaço de extracção (no caso de substâncias oleaginosas) Melaço, polpa (no caso dos produtos contendo açúcar ou outros componentes solúveis em água) |\n| 5 | Extrusão | Compressão ou propulsão sob pressão de um produto através de um orifício (ver também a pré-gelatinização) | Extrudido |\n| 6 | Transformação em flocos | Esmagamento de material tratado com vapor quente | Em flocos |\n| 7 | Moagem | Transformação física dos grãos destinada a reduzir a dimensão das partículas e facilitar a separação nas fracções constituintes (principalmente farinha, sêmeas e farinha forrageira) | Farinha, sêmea grosseira, sêmea, farinha forrageira [(^3^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0021) |\n| 8 | Aquecimento | Termo geral que abrange diversos tipos de tratamento térmico efectuados em certas condições para alterar o valor nutritivo ou a estrutura da substância | Torrado, cozido, tratado termicamente |\n| 9 | Hidrogenação | Transformação dos glicéridos insaturados em glicéridos saturados (endurecimento dos óleos e gorduras) | Hidrogenado, parcialmente hidrogenado |\n| 10 | Hidrólise | Fraccionamento em constituintes químicos mais simples através de tratamento adequado com água e, eventualmente, enzimas ou ácido/base | Hidrolisado |\n| 11 | Prensagem [(^4^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0022) | Remoção, por pressão (por meio de uma prensa de rosca ou de outro tipo), e eventualmente sob ligeiro tratamento térmico, das gorduras/óleos de substâncias oleaginosas ou do sumo de frutos ou de outros produtos vegetais | Bagaço de pressão [(^5^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0023) (no caso de substâncias oleaginosas) Polpa de bagaço (de frutos, etc.) Prensado de beterraba (no caso de beterraba sacarina) |\n| 12 | Aglomeração | Obtenção de formas especiais por passagem sob pressão num atomizador | Aglomerado |\n| 13 | Pré-gelatinização | Modificação do amido a fim de melhorar claramente as suas propriedades de intumescimento em água fria | Pré-gelatinizado [(^6^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0024), intumescido |\n| 14 | Refinação | Remoção, total ou parcial, das impurezas nos açúcares, óleos, gorduras e outros produtos naturais através de tratamento químico/físico | Refinado, parcialmente refinado |\n| 15 | Moagem por via húmida | Separação mecânica das partes constituintes de amêndoa/grão, se for caso disso após imersão em água com ou sem dióxido de enxofre, por extracção do amido | Germe, glúten, amido |\n| 16 | Trituração | Transformação mecânica de grãos ou outras matérias-primas para alimentação animal com vista à redução do seu tamanho | Triturado |\n| 17 | Dessacarificação | Extracção total ou parcial dos mono e dissacáridos do melaço ou de outros produtos com açúcares por processos químicos ou físicos | Desaçurado, parcialmente desaçucarado |\n| (^1^)Na versão em língua alemã, «Konzentrieren», pode, se adequado, ser substituído por «Eindicken». A designação comum/termo qualificativo deve, nesse caso ser «eingedickt». (^2^)«Descasque» pode, se adequado, ser substituído por «decorticagem» ou «despeliculação». A designação comum/termo qualificativo deve, nesse caso, ser «descorticado» ou «sem película». (^3^)Na versão em língua francesa, pode utilizar-se a designação «issues». (^4^)Na versão em língua francesa «Pressage» pode, se adequado, ser substituído por por «Extraction méchanique». (^5^)Se necessário, a expressão «bagaço de pressão» pode ser substituída pelo simples termo «bagaço». (^6^)Na versão em língua alemã, podem utilizar-se o termo qualificativo «aufgeschlossen» e a designação comum «Quellwasser» (relativamente ao amido). |  |  |  |"
+  },
+  "a5b0fc7b469dec8c": {
+   "fragment_id": "V. DlSPOSlÇÕES RELATIVAS AOS TEORES INDICADOS OU A DECLARAR EM CONFORMIDADE COM AS PARTES B E C",
+   "type": "divisao",
+   "heading": "V. DlSPOSlÇÕES RELATIVAS AOS TEORES INDICADOS OU A DECLARAR EM CONFORMIDADE COM AS PARTES B E C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### V. DlSPOSlÇÕES RELATIVAS AOS TEORES INDICADOS OU A DECLARAR EM CONFORMIDADE COM AS PARTES B E C\n\n1. Os teores indicados ou a declarar referem-se, salvo indicação em contrário, ao peso da matéria-prima para alimentação animal.\n\n2. Sob reserva das disposições previstas no artigo 3.º e do n.º 3, alínea b), do artigo 6.º da directiva, e na medida em que nas partes B e C do presente anexo não seja fixado outro teor, o teor de água da matéria-prima para alimentação animal deve ser declarado sempre que exceda 14 % em peso. No caso de matérias-primas para alimentação animal cujo teor de humidade não exceda o limite acima referido, esse teor será declarado a pedido do comprador.\n\n3. Sob reserva das disposições do artigo 3.º da directiva e na medida em que nas partes B ou C do presente anexo não seja fixado outro teor, o teor de cinza insolúvel em ácido clorídico das matérias-primas para alimentação animal deve ser declarado sempre que exceda 2,2 % da matéria seca."
+  },
+  "e10937d6063a5052": {
+   "fragment_id": "VI. DlSPOSlÇÕES RELATIVAS AOS AGENTES DESNATURANTES OU AGLOMERANTES",
+   "type": "divisao",
+   "heading": "VI. DlSPOSlÇÕES RELATIVAS AOS AGENTES DESNATURANTES OU AGLOMERANTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VI. DlSPOSlÇÕES RELATIVAS AOS AGENTES DESNATURANTES OU AGLOMERANTES\n\nSempre que os produtos referidos na coluna 2 da parte B ou na coluna 1 da parte C do presente anexo sejam utilizados como desnaturantes ou aglomerantes de matérias-primas para alimentação animal, devem ser prestadas as seguintes informações:\n\n— agentes desnaturantes: natureza e quantidade dos produtos utilizados,\n\n— agentes aglomerantes: natureza dos produtos utilizados.\n\nNo caso dos aglomerantes, a quantidade dos produtos utilizados não pode exceder 3 % do peso total."
+  },
+  "0ff2e5cd444d94a4": {
+   "fragment_id": "VII. DISPOSlÇÕES RELATIVAS ÀS TOLERÂNCIAS INDICADAS OU A DECLARAR, CONFORME ESPECIFICADO NAS PARTES B E C",
+   "type": "divisao",
+   "heading": "VII. DISPOSlÇÕES RELATIVAS ÀS TOLERÂNCIAS INDICADAS OU A DECLARAR, CONFORME ESPECIFICADO NAS PARTES B E C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VII. DISPOSlÇÕES RELATIVAS ÀS TOLERÂNCIAS INDICADAS OU A DECLARAR, CONFORME ESPECIFICADO NAS PARTES B E C\n\nSe, na sequência do controlo oficial na acepção do artigo 12.º da directiva, forem detectadas discrepâncias entre o resultado do controlo e o teor declarado susceptíveis de diminuir o valor da matéria-prima para alimentação animal, serão admitidas as seguintes tolerâncias mínimas:\n\na) Proteína bruta:\n\n— duas unidades caso o teor declarado seja superior ou igual a 20 %,\n\n— 10 % do teor declarado caso este seja inferior a 20 %, mas superior ou igual a 10 %,\n\n— uma unidade caso o teor declarado seja inferior a 10 %;\n\nb) Açúcares totais, açúcares redutores, sacarose, lactose e glucose (dextrose):\n\n— duas unidades caso o teor declarado seja superior ou igual a 20 %,\n\n— 10 % do teor declarado caso este seja inferior a 20 %, mas superior ou igual a 5 %,\n\n— 0,5 unidade caso o teor declarado seja inferior a 5 %;\n\nc) Amido e inulina:\n\n— três unidades caso o teor declarado seja superior ou igual a 30 %,\n\n— 10 % do teor declarado caso este seja inferior a 30 %, mas superior ou igual a 10 %,\n\n— uma unidade caso o teor declarado seja inferior a 10 %;\n\nd) Matéria gorda:\n\n— 1,8 unidades caso o teor declarado seja superior ou igual a 15 %,\n\n— 12 % do teor declarado caso este seja inferior a 15 %, mas superior ou igual a 5 %,\n\n— 0,6 unidades caso o teor declarado seja inferior a 5 %;\n\ne) Fibra bruta:\n\n— 2,1 unidades caso o teor declarado seja superior ou igual a 14 %,\n\n— 15 % do teor declarado caso este seja inferior a 14 %, mas superior ou igual a 6 %,\n\n— 0,9 unidade caso o teor declarado seja inferior a 6 %;\n\nf) Humidade e cinza total:\n\n— uma unidade caso o teor declarado seja superior ou igual a 10 %,\n\n— 10 % do teor declarado caso este seja inferior a 10 %, mas superior ou igual a 5 %,\n\n— 0,5 unidade caso o teor declarado seja inferior a 5 %;\n\ng) Fósforo total, sódio, carbonato de cálcio, cálcio, magnésio, índice de acidez e matérias insolúveis em éter de petróleo:\n\n— 1,5 unidades caso o teor (valor) declarado seja superior ou igual a 15 % (15),\n\n— 10 % do teor (valor) declarado caso este seja inferior a 15 % (15), mas superior ou igual a 2 % (2),\n\n— 0,2 unidade caso o teor (valor) declarado seja inferior a 2 % (2);\n\nh) Cinza insolúvel em ácido clorídrico e cloretos expressos em NaCl:\n\n— 10 % do teor declarado caso este seja superior ou igual a 3 %,\n\n— 0,3 unidade caso o teor declarado seja inferior a 3 %;\n\ni) Caroteno, vitamina A e xantofila:\n\n— 30 % do teor declarado;\n\nj) Metionina, lisina e bases azotadas voláteis:\n\n— 20 % do teor declarado."
+  },
+  "1be2328d62f019f5": {
+   "fragment_id": "VIII. DISPOSlÇÕES RELATIVAS À ROTULAGEM DAS MATÉRIAS-PRIMAS PARA ALIMENTAÇÃO ANIMAL OBTIDAS A PARTIR DE PRODUTOS PROTEICOS PROVENIENTES DE TECIDOS DE MAMÍFEROS",
+   "type": "divisao",
+   "heading": "VIII. DISPOSlÇÕES RELATIVAS À ROTULAGEM DAS MATÉRIAS-PRIMAS PARA ALIMENTAÇÃO ANIMAL OBTIDAS A PARTIR DE PRODUTOS PROTEICOS PROVENIENTES DE TECIDOS DE MAMÍFEROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VIII. DISPOSlÇÕES RELATIVAS À ROTULAGEM DAS MATÉRIAS-PRIMAS PARA ALIMENTAÇÃO ANIMAL OBTIDAS A PARTIR DE PRODUTOS PROTEICOS PROVENIENTES DE TECIDOS DE MAMÍFEROS\n\n1. Dos rótulos das matérias-primas para alimentação animal constituídas por produtos proteícos derivados de tecidos de mamíferos deve constar a seguinte indicação: «Esta matéria-prima para alimentação animal é constituída por produtos proteicos, derivados de tecidos de mamíferos, proibidos para alimentação de ruminantes.». Esta disposição não é aplicável: — ao leite e produtos lácteos, — à gelatina, [▼M3](http://publications.europa.eu/resource/celex/31999L0061) — às proteínas hidrolisadas com um peso molecular inferior a 10 000 daltons que:— i) derivem de peles provenientes de animais abatidos num matadouro que tenham sido sujeitos a uma inspecção *ante mortem* efectuada por um veterinário oficial, em conformidade com o capítulo VI do anexo I da Directiva 64/433/CEE, e que, após tal inspecção, tenham sido declarados adequados para abate, nos termos do disposto na referida directiva, e ii) produzidas através de um processo de produção que envolva medidas adequadas para minimizar a contaminação das peles, a preparação de peles por salga, calagem e lavagem intensiva, seguida da exposição dos materiais a um pH>11 durante mais de 3 horas a uma temperatura superior a 80 °C, a que se deve seguir um tratamento térmico a mais de 140 °C durante 30 minutos e a 3,6 bar, ou por um método de produção equivalente aprovado pela Comissão, após consulta do Comité Científico adequado; e iii) provenientes de estabelecimentos que disponham de um programa próprio de verificação (HACCP), [▼M1](http://publications.europa.eu/resource/celex/31998L0067) — ao fosfato dibásico de cálcio obtido a partir de ossos desengordurados, — ao plasma seco e outros produtos do sangue.\n\n2. Quando um Estado-membro tenha proibido a utilização de produtos proteicos derivados de tecidos de mamíferos, referidos no primeiro período do ponto 1, na alimentação de certos animais que não os ruminantes, conforme permitido pelo n.º 2 do artigo 1.º da Directiva 90/667/CEE do Conselho, a indicação mencionada no ponto 1 precisará as outras espécies ou categorias de animais a que a proibição de utilização dos produtos em causa foi alargada."
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "8bf334e1b0ecb912": {
+   "fragment_id": "Lista não exaustiva das principais matérias-primas para alimentação animal",
+   "type": "divisao",
+   "heading": "Lista não exaustiva das principais matérias-primas para alimentação animal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista não exaustiva das principais matérias-primas para alimentação animal"
+  },
+  "567fbeae9829f92a": {
+   "fragment_id": "1. GRÃOS DE CEREAIS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "type": "divisao",
+   "heading": "1. GRÃOS DE CEREAIS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. GRÃOS DE CEREAIS, RESPECTIVOS PRODUTOS E SUBPRODUTOS\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 1.01 | Aveia | Grãos de *Avena sativa* L. e outras cultivares de aveia. |  |\n| 1.02 | Flocos de aveia | Produto obtido por tratamento com vapor e esmagamento de aveia descascada. Pode conter uma pequena proporção de cascas de aveia. | Amido |\n| 1.03 | Sêmea de aveia | Subproduto obtido durante a transformação de aveia descascada e crivada em farinha e grumos de aveia. É constituído, principalmente, por sêmea grosseira de aveia e algum endosperma | Fibra bruta |\n| 1.04 | Cascas e sêmea grosseira de aveia | Subproduto obtido durante a transformação de aveia crivada em grumos de aveia. É constituído, principalmente, por cascas de aveia e sêmea grosseira | Fibra bruta |\n| 1.05 | Cevada | Grãos de *Hordeum vulgare* L. |  |\n| 1.06 | Sêmea de cevada | Subproduto obtido durante a transformação de cevada descascada e crivada em cevadinha, semolina e farinha | Fibra bruta |\n| 1.07 | Proteína de cevada | Subproduto seco do fabrico de amido de cevada. É constituído, principalmente, por proteínas obtidas durante a separação do amido | Proteína bruta Amido |\n| 1.08 | Trincas de arroz | Subproduto obtido na preparação de arroz *Oryza sativa* L. polido ou branqueado. É constituído, principalmente, por grãos pequenos e/ou partidos | Amido |\n| 1.09 | Sêmea grosseira de arroz (escura) | Subproduto obtido durante o primeiro polimento do arroz descascado. É constituído, principalmente por películas prateadas, partículas da camada de aleurona, endosperma e germe | Fibra bruta |\n| 1.10 | Sêmea grosseira de arroz (clara) | Subproduto obtido durante o segundo polimento do arroz descascado. É constituído, principalmente, por partículas da camada de aleurona, endosperma e germe | Fibra bruta |\n| 1.11 | Sêmea grosseira de arroz com carbonato de cálcio | Subproduto do polimento do arroz descascado. É constituído, principalmente, por películas prateadas, partículas da camada de aleurona, endosperma, germe e quantidades variáveis de carbonato de cálcio proveniente do processo de fabrico | Fibra bruta Carbonato de cálcio |\n| 1.12 | Farinha forrageira de arroz estufado | Subproduto do polimento de arroz descascado estufado. É constituído, principalmente, por películas prateadas, partículas da camada de aleurona, endosperma, germe e quantidades variáveis de carbonato de cálcio proveniente do processo de fabrico | Fibra bruta Carbonato de cálcio |\n| 1.13 | Arroz forrageiro moído | Produto da moagem de arroz forrageiro, constituído por grãos verdes, imaturos ou gessados, obtidos por tamisagem durante o processamento do arroz descascado, ou por por grãos de arroz normais, descascados, manchados ou amarelos | Amido |\n| 1.14 | Bagaço de gérmen de arroz obtido por pressão | Subproduto da indústria do óleo, obtido por pressão a partir de germe de arroz, contendo ainda algum endosperma e tegumento | Proteína bruta Matéria gorda Fibra bruta |\n| 1.15 | Bagaço de gérmen de arroz obtido por extracção | Subproduto da indústria do óleo, obtido por extração a partir de germe de arroz, contendo ainda algum endosperma e tegumento | Proteína bruta |\n| 1.16 | Amido de arroz | Amido de arroz tecnicamente puro | Amido |\n| 1.17 | Milho painço | Grãos de *Panicum miliaceum* L. |  |\n| 1.18 | Centeio | Grãos de *Secale cereale* L. |  |\n| 1.19 | Sêmea de centeio [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0025) | Subproduto do fabrico da farinha, obtido a partir de centeio crivado. É constituído, principalmente, por partículas de endosperma, com fragmentos finos das camadas exteriores e alguns resíduos de grãos | Amido |\n| 1.20 | Farinha forrageira de centeio | Subproduto do fabrico da farinha, obtido a partir de centeio crivado. É constituído, principalmente, por fragmentos das camadas exteriores e por partículas do grão, ao qual foi retirado menos endosperma do que na sêmea grosseira de centeio | Fibra bruta |\n| 1.21 | Sêmea grosseira de centeio | Subproduto do fabrico da farinha, obtido a partir de centeio crivado. É constituído, principalmente, por fragmentos das camadas exteriores e por partículas do grão, ao qual foi retirada a maior parte do endosperma | Fibra bruta |\n| 1.22 | Sorgo | Grãos de *Shorghum bicolor* (L.) Moench s.l. |  |\n| 1.23 | Trigo | Grãos de *Triticum aestivum* (L.), *Triticum durum* Desf. e outras cultivares de trigo |  |\n| 1.24 | Sêmea de trigo [(^2^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0026) | Subproduto do fabrico da farinha, obtido a partir de grãos de trigo crivados ou de espelta descascada. É constituído principalmente, por partículas de endosperma, com fragmentos finos das camadas exteriores e alguns resíduos de grãos | Amido |\n| 1.25 | Farinha forrageira de trigo | Subproduto do fabrico da farinha, obtido a partir de grãos de trigo crivados ou de espelta descascada. É constituído, principalmente, por fragmentos das camadas exteriores e por partículas do grão, ao qual foi retirado menos endosperma do que na sêmea grosseira de trigo | Fibra bruta |\n| 1.26 | Sêmea grosseira de trigo [(^3^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0027) | Subproduto do fabrico da farinha, obtido a partir de grãos de trigo crivados ou de espelta descascada. É constituído, principalmente, por fragmentos das camadas exteriores e por partículas do grão, ao qual foi retirada a maior parte do endosperma | Fibra bruta |\n| 1.27 | Gérmen de trigo | Subproduto do fabrico da farinha constituído, essencialmente, por gérmen de trigo, esmagado ou não, podendo ainda conter fragmentos de endosperma e camadas exteriores | Proteína bruta Matéria gorda |\n| 1.28 | Glúten de trigo | Subproduto seco do fabrico de amido de trigo. É constituído, principalmente, por glúten obtido durante a separação do amido | Proteína bruta |\n| 1.29 | Glúten *feed* de trigo | Subproduto do fabrico de amido e glúten de trigo. É constituído por sêmea grosseira, da qual foi ou não parcialmente removido o germe, e por glúten, aos quais se podem adicionar quantidades muito pequenas de trincas de trigo resultantes de crivagem dos grãos e quantidades muito pequenas de resíduos de hidrólise de amido | Proteína bruta Amido |\n| 1.30 | Amido de trigo | Amido de trigo tecnicamente puro | Amido |\n| 1.31 | Amido de trigo pré-gelatinizado | Produto constituído por amido de trigo, fortemente pré-gelatinizado por tratamento térmico | Amido |\n| 1.32 | Espelta | Grãos de espelta *Triticum spelta* L., *Triticum dioccum* Schrank, *Triticum monococcum* |  |\n| 1.33 | Triticale | Grãos de híbrido *Triticum* X *Secale* |  |\n| 1.34 | Milho | Grãos de *Zea mays* L. |  |\n| 1.35 | Farinha forrageira de milho [(^4^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0028) | Subproduto do fabrico de farinha ou semolina de milho. É constituído, principalmente, por fragmentos das camadas exteriores e por partículas do grão, ao qual foi retirado menos endosperma do que sêmea grosseira de milho | Fibra bruta |\n| 1.36 | Sêmea grosseira de milho | Subproduto do fabrico de farinha ou semolina de milho. É constituído, principalmente, pelas camadas exteriores e por alguns fragmentos de germe de milho, com algumas partículas de endosperma | Fibra bruta |\n| 1.37 | Bagaço de gérmen de milho obtido por pressão | Subproduto da indústria do óleo, obtido por pressão a partir de germe de milho processado por via seca ou húmida, podendo ainda conter algum endosperma e tegumento | Proteína bruta Matéria gorda |\n| 1.38 | Bagaço de gérmen de milho obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir de germe de milho processado por via seca ou húmida, podendo ainda conter algum endosperma e tegumento | Proteína bruta |\n| 1.39 | Glúten *feed* de milho [(^5^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0029) | Subproduto do fabrico de amido de milho por via húmida. É constituído por sêmea grosseira e glúten e por resíduos da crivagem de milho, numa proporção não superior a 15 %, em peso, e/ou resíduos das águas de maceração do milho utilizadas na produção de álcool ou de outros derivados do amido. O produto pode conter ainda resíduos da extracção de óleo de germe de milho, igualmente obtidos por via húmida. | Proteína bruta Amido Matéria gorda, quando > 4,5 % |\n| 1.40 | Glúten de milho | Subproduto seco do fabrico de amido de milho. É constituído, principalmente, por glúten obtido durante a separação do amido | Proteína bruta |\n| 1.41 | Amido de milho | Amido de milho tenicamente puro | Amido |\n| 1.42 | Amido de milho pré-gelatinizado [(^6^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0030) | Produto constituído por amido de milho, fortemente pré-gelatinizado por tratamento térmico | Amido |\n| 1.43 | Radículas de malte | Subproduto da indústria do malte que consiste, fundamentalmente, em radículas e rebentos secos de cereais germinados | Proteína bruta |\n| 1.44 | «Drèches» secos da indústria cervejeira | Subproduto de fabrico de cerveja, obtido por secagem dos resíduos sólidos de grãos fermentados | Proteína bruta |\n| 1.45 | «Drèches» escuros da indústria de destilação [(^7^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0031) | Subproduto da destilação do álcool, obtido por secagem dos resíduos de grãos fermentados | Proteína bruta |\n| 1.46 | «Drèches» escuros da indústria de destilação [(^8^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0032) | Subproduto de destilação do álcool, obtido por secagem dos resíduos sólidos de grãos fermentados, aos quais foram adicionados xarope de resíduos da fermentação ou resíduos evaporados das águas de maceração | Proteína bruta |\n| (^1^)Os produtos com mais de 40 % de amido podem ser qualificados de «ricos en amido». Em língua alemã, podem ser designados por «Roggennachmehl». (^2^)Os produtos com mais de 40 % de amido podem ser qualificados de «ricos em amido». Em língua alemã, podem ser designados por «Weizennachmehl». (^3^)Sempre que este ingrediente tenha sido submetido a uma moagem fina, o termo qualificativo «fina» pode ser aditado à designação ou a designação pode ser substituída por uma denominação correspondente. (^4^)Os produtos com mais de 40 % de amido podem ser qualificados de «ricos em amido». Em língua alemã, podem ser designados por «Maisnachmehl». (^5^)Esta designação pode ser substituída por «corn gluten feed». (^6^)Esta designação pode ser substituída por «amido de milho submetido a extrusão». (^7^)Esta designação pode ser completada com a espécie de cereal. (^8^)Esta designação pode ser substituída por «drèches» secos e solúveis da indústria de destilação. A designação pode ser completada com a espécie de cereal. |  |  |  |"
+  },
+  "29f57300ebd823b8": {
+   "fragment_id": "2. SEMENTES OU FRUTOS OLEAGINOSOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "type": "divisao",
+   "heading": "2. SEMENTES OU FRUTOS OLEAGINOSOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. SEMENTES OU FRUTOS OLEAGINOSOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 2.01 | Bagaço de amendoim parcialmente descascado, obtido por pressão | Subproduto da indústria do óleo, obtido por pressão a partir de amendoim *Arachis hypogaea* L. parcialmente descascado e de outras espécies de *Arachis* (teor máximo de fibra bruta: 16 % da matéria seca) | Proteína bruta Matéria gorda Fibra bruta |\n| 2.02 | Bagaço de amendoim parcialmente descascado, obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir de amendoim parcialmente descascado (teor máximo de fibra bruta: 16 % da matéria seca) | Proteína bruta Fibra bruta |\n| 2.03 | Bagaço de amendoim descascado, obtido por pressão | Subproduto da indústria do óleo, obtido por pressão a partir de amendoim descascado | Proteína bruta Matéria gorda Fibra bruta |\n| 2.04 | Bagaço de amendoim descascado, obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir de amendoim descascado | Proteína bruta Fibra bruta |\n| 2.05 | Colza [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0033) | Sementes de *Brassica napus* L. ssp. *oleifera* (Metzg.) Sinsk., de «Indian sarson»*Brassica napus* L. Var. *Glauca* (Roxb.) O. E. Schulz e de *Brassica napa* ssp. *oleifera* (Metzg.) Sinsk. (pureza botânica mínima: 94 %) |  |\n| 2.06 | Bagaço de colza, [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0033) obtido por pressão | Subproduto da indústria do óleo, obtido por prensagem de sementes de colza (pureza botânica mínima: 94 %) | Proteína bruta Matéria gorda Fibra bruta |\n| 2.07 | Bagaço de colza [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0033), obtido por extracção | Subproduto da indústria do óleo por extracção de sementes de colza (pureza botânica mínima: 94 %) | Proteína bruta |\n| 2.08 | Cascas de colza | Subproduto obtido durante o descasque de sementes de colza | Fibra bruta |\n| 2.09 | Bagaço de cártamo parcialmente descascado, obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir de sementes parcialmente descascadas de cártamo *Carthamus tinctorius* L. | Proteína bruta Fibra bruta |\n| 2.10 | Bagaço de copra (coco) obtido por pressão | Subproduto da indústria do óleo, obtido por pressão a partir da amêndoa seca (endosperma) e da película exterior (tegumento) da semente do coqueiro *Cocos nucifera* L. | Proteína bruta Matéria gorda Fibra bruta |\n| 2.11 | Bagaço de copra (coco) obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir da amêndoa seca (endosperma) e da película exterior (tegumento) da semente de coqueiro | Proteína bruta |\n| 2.12 | Bagaço de palmiste obtido por pressão | Subproduto da indústria do óleo, obtido por pressão a partir da noz de palma *Elaeis guineensis* Jacq., *Corozo oleifera* (HBK) L. H. Bailey *(Elaeis melanococca auct.)*, a qual foi retirado, tanto quanto possível, o invólucro lenhoso | Proteína bruta Matéria gorda Fibra bruta |\n| 2.13 | Bagaço de palmiste obtido por extracção | Subproduto da indústria de óleo, obtido por extracção a partir da noz de palma, à qual foi retirado, tanto quanto possível, o invólucro lenhoso | Proteína bruta Fibra bruta |\n| 2.14 | Sementes de soja torradas | Sementes de soja *Glycine max* L. *Merr*. submetidas a un tratamento térmico apropriado (Actividade ureásica máxima: 0,4 mg N/g × min.) |  |\n| 2.15 | Bagaço de soja torrada, obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir de sementes de soja submetidas a um tratamento térmico apropriado (Actividade ureásica máxima: 0,4 mg N/g × min.) | Proteína bruta Fibra bruta, quando > 8 % |\n| 2.16 | Bagaço de soja descascada e torrada, obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir de sementes de soja descascadas submetidas a um tratamento térmico apropriado. (Teor máximo de fibra bruta: 8 % da matéria seca) (Actividade ureásica máxima: 0,5 mg N/g × min.) | Proteína bruta |\n| 2.17 | Concentrado proteico de soja | Produto obtido a partir de sementes de soja descascadas, às quais foi extraída a gordura | Proteína bruta |\n| 2.18 | Óleo vegetal [(^2^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0034) | Óleo obtido a partir de vegetais | Humidade quando > 1 % |\n| 2.19 | Cascas (de sementes) de soja | Subproduto obtido durante o descasque de sementes de soja | Fibra bruta |\n| 2.20 | Sementes de algodão | Sementes de algodão *Gossypium* ssp. das quais foram removidas as fibras | Proteína bruta Matéria gorda Fibra bruta |\n| 2.21 | Bagaço de algodão parcialmente descascado, obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir de sementes de algodão às quais foram retiradas as fibras e uma parte das cascas (teor máximo de fibra bruta: 22,5 % da matéria seca) | Proteína bruta Fibra bruta |\n| 2.22 | Bagaço de algodão, obtido por pressão | Subproduto da indústria do óleo, obtido por pressão a partir de sementes de algodão às quais foram retiradas as fibras | Proteína bruta Matéria gorda Fibra bruta |\n| 2.23 | Bagaço de níger, obtido por pressão | Subproduto da indústria do óleo, obtido por pressão a partir de sementes de níger *Guizotia abyssinica* (Lf) Cass. (cinza insolúvel em HCl: máximo 3,4 %) | Proteína bruta Matéria gorda Fibra bruta |\n| 2.24 | Sementes de girassol | Sementes de girassol *Helianthus annuus* L. |  |\n| 2.25 | Bagaço de girassol, obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir de sementes de girassol | Proteína bruta |\n| 2.26 | Bagaço de girassol parcialmente descascado, obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir de sementes de girassol às quais foi retirada uma parte das cascas (teor máximo de fibra bruta: 27,5 % da matéria seca) | Proteína bruta Fibra bruta |\n| 2.27 | Sementes de linho | Sementes de linho *Linum usitatissimum* L. (pureza botânica mínima: 93 %) |  |\n| 2.28 | Bagaço de linho, obtido por pressão | Subproduto da indústria do óleo, obtido por pressão a partir de sementes de linho (pureza botânica mínima: 93 %) | Proteína bruta Matéria gorda Fibra bruta |\n| 2.29 | Bagaço de linho, obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir de sementes de linho (pureza botânica mínima: 93 %) | Proteína bruta |\n| 2.30 | Polpa de azeitona | Subproduto da indústria do óleo, obtido por extracção a partir de azeitonas *Olea europaea* L. prensadas e separadas, na medida do possível, dos pedaços de caroço | Proteína bruta Fibra bruta |\n| 2.31 | Bagaço de sésamo, obtido por pressão | Subproduto da indústria do óleo por pressão a partir de sementes de sésamo *Sesamum indicum* L. (cinza insolúvel em HCl: máximo 5 %) | Proteína bruta Fibra bruta Matéria gorda |\n| 2.32 | Bagaço de sementes de cacau parcialmente descascado, obtido por extracção | Subproduto da indústria do óleo, obtido por extracção a partir de sementes secas e torradas de cacau *Theobroma cacao* L. às quais foi retirada uma parte das cascas | Proteína bruta Fibra bruta |\n| 2.33 | Casca de cacau | Tegumentos de sementes secas e torradas de cacau *Theobroma cacao* L. | Fibra bruta |\n| (^1^)Quando adequado, pode juntar-se à designação a expressão «baixo teor de glucosinolatos», na acepção da legislação comunitária. (^2^)Esta designação deve ser completada com a espécie vegetal. |  |  |  |"
+  },
+  "3f7f2d11b45aa658": {
+   "fragment_id": "3. SEMENTES DE LEGUMINOSAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "type": "divisao",
+   "heading": "3. SEMENTES DE LEGUMINOSAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. SEMENTES DE LEGUMINOSAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 3.01 | Grão-de-bico | Sementes de *Cicer arietinum* L. |  |\n| 3.02 | Bagaço de guar obtido por extracção | Subproduto obtido após extracção de mucilagem de sementes de *Cyamopsis tetragonoloba* L. Taub | Proteína bruta |\n| 3.03 | Ervilha-de-pomba | Sementes de *Ervum ervilia* L. |  |\n| 3.04 | Chícharo comum [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0035) | Sementes de *Lathyrus sativus* L. submetidas a um tratamento térmico adequado |  |\n| 3.05 | Lentilhas | Sementes de *Lens culinaris a.o.* Medik |  |\n| 3.06 | Tremoço doce | Sementes de *Lupinus* ssp., com baixo teor de sementes amargas |  |\n| 3.07 | Feijões torrados | Sementes de *Phaseolus* ou *Vigna* ssp. submetidas a um tratamento térmico adequado com vista à destruição das lectinas tóxicas |  |\n| 3.08 | Ervilhas | Sementes de *Pisum* ssp. |  |\n| 3.09 | Farinha forrageira de ervilha | Subproduto obtido durante o fabrico de farinha de ervilha. É constituído, principalmente, por partículas do endosperma e, em menor quantidade por cascas | Proteína bruta Fibra bruta |\n| 3.10 | Sêmea grosseira de ervilha | Subproduto obtido durante o fabrico de farinha de ervilha. É constituído, principalmente, por cascas retiradas durante o descasque e a limpeza das ervilhas | Fibra bruta |\n| 3.11 | Favas forrageiras | Sementes de *Vicia faba* L. ssp. *faba* var. *equina Pers*. e var. *minuta (Alef.)* Mansf |  |\n| 3.12 | Ervilhaca parda | Sementes de *Vicia monanthos* Desf |  |\n| 3.13 | Ervilhacas | Sementes de *Vicia sativa* L. var. *sativa* e outras variedades |  |\n| (^1^)Esta designação deve ser completada com a natureza do tratamento térmico efectuado. |  |  |  |"
+  },
+  "60caa1e45d01b19a": {
+   "fragment_id": "4. TUBÉRCULOS E RAÍZES, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "type": "divisao",
+   "heading": "4. TUBÉRCULOS E RAÍZES, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. TUBÉRCULOS E RAÍZES, RESPECTIVOS PRODUTOS E SUBPRODUTOS\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 4.01 | Polpa de beterraba (sacarina) | Subproduto do fabrico de açúcar, constituído por pedaços secos da extracção de beterraba sacarina *Beta vulgaris* L. spp. *vulgaris* var. *altissima* Doell (Teor máximo de cinza insolúvel em HCl: 4,5 % da matéria seca) | Cinza insolúvel em HCl, quando > 3,5 % da matéria seca Açúcares totais, expressos em sacarose, quando > 10,5 % |\n| 4.02 | Melaço de beterraba (sacarina) | Subproduto constituído pelo resíduo xaroposo obtido durante o fabrico ou refinação de açúcar de beterraba | Açúcares totais, expressos em sacarose Humidade, quando > 28 % |\n| 4.03 | Polpa de beterraba (sacarina) melaçada | Subproduto do fabrico de açúcar, constituído por polpa seca de beterraba sacarina à qual foram adicionados melaços (Teor máximo de cinza insolúvel em HCl: 4,5 % da matéria seca) | Açúcares totais, expressos em sacarose Cinza insolúvel em HCl, quando > 3,5 % da matéria seca |\n| 4.04 | Vinassa de beterraba (sacarina) | Subproduto obtido após fermentação de melaços de beterraba para produção de álcool, leveduras, ácido cítrico ou outras substâncias orgânicas | Proteína bruta Humidade, quando > 35 % |\n| 4.05 | Açúcar (de beterraba) [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0036) | Açúcar extraído da beterraba sacarina | Sacarose |\n| 4.06 | Batata doce | Tubérculos de *Ipomoea batatas* (L.) Poir, independentemente da sua apresentação | Amido |\n| 4.07 | Mandioca [(^2^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0037) | Raízes de *Manihot esculenta* Crantz, independentemente da sua apresentação (Teor máximo de cinza insolúvel em HCl: 4,5 % da matéria seca) | Amido Cinza insolúvel em HCl, quando > 3,5 % da matéria seca |\n| 4.08 | Amido de mandioca pré-gelatinizado [(^3^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0038) | Amido obtido a partir de raízes de mandioca, fortemente pré-gelatinizado através de um tratamento térmico adequado | Amido |\n| 4.09 | Polpa de batata | Subproduto seco do fabrico de fécula de batata *Solanum tuberosum L* |  |\n| 4.10 | Fécula de batata | Fécula de batata tecnicamente pura | Amido |\n| 4.11 | Proteína de batata | Subproduto seco do fabrico de fécula de batata, constituído principalmente, por substâncias proteicas obtidas após a separação da fécula | Proteína bruta |\n| 4.12 | Flocos de batata | Produto obtido por secagem em secador de rolos de batatas lavadas, descascadas ou não, e estufadas | Amido Fibra bruta |\n| 4.13 | Suco de batata concentrado | Subproduto do fabrico de fécula de batata, a que foi extraída uma parte das proteínas e da água | Proteína bruta Cinza total |\n| 4.14 | Fécula de batata pré-gelatinizada | Produto constituído por fécula de batata fortemente pré-gelatinizada | Amido |\n| (^1^)Esta designação pode ser substituída por «sacarose». (^2^)Esta designação pode ser substituída por «tapioca». (^3^)Esta designação pode ser substituída por «amido de tapioca». |  |  |  |"
+  },
+  "14725775eac779a0": {
+   "fragment_id": "5. OUTRAS SEMENTES E FRUTOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "type": "divisao",
+   "heading": "5. OUTRAS SEMENTES E FRUTOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. OUTRAS SEMENTES E FRUTOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 5.01 | Triturado de alfarroba | Produto obtido por trituração do fruto seco (vagens) da alfarrobeira *Ceratonia siliqua* L., ao qual foram extraídas as sementes | Fibra bruta |\n| 5.02 | Polpa de citrinos | Subproduto obtido por pressão durante o fabrico de sumo de citrinos *Citrus* spp. | Fibra bruta |\n| 5.03 | Bagaço de fruta [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0039) | Subproduto obtido por pressão durante o fabrico de sumo de frutos de grainha ou caroço | Fibra bruta |\n| 5.04 | Polpa de tomate | Subproduto obtido por pressão durante o fabrico de sumo de tomate *Solanum lycopersicum* Karst | Fibra bruta |\n| 5.05 | Bagaço de grainha de uva | Subproduto da extracção do óleo de grainha de uva | Fibra bruta, quando > 45 % |\n| 5.06 | Bagaço de uva | Bagaço de uva, seco rapidamente após a extracção do álcool, do qual se separaram tanto quanto possível os engaços e grainhas | Fibra bruta, quando > 25 % |\n| 5.07 | Grainhas de uva | Grainhas separadas do bagaço de uva, antes da extracção do óleo | Matéria gorda Fibra bruta, quando > 45 % |\n| (^1^)Esta designação pode ser completada com a espécie de fruto. |  |  |  |"
+  },
+  "294cc5f91416fab4": {
+   "fragment_id": "6. FORRAGENS E OUTROS ALIMENTOS GROSSEIROS",
+   "type": "divisao",
+   "heading": "6. FORRAGENS E OUTROS ALIMENTOS GROSSEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. FORRAGENS E OUTROS ALIMENTOS GROSSEIROS\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 6.01 | Farinha de luzerna [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0040) | Produto obtido por secagem e moenda de plantas jovens de luzerna *Medicago sativa* L. e *Medicago* var. *Martyn*.; pode, no entanto, conter até 20 % de plantas jovens de trevo ou de outras plantas forrageiras que tenham sido sujeitas a secagem e moenda juntamente com a luzerna | Proteína bruta Fibra bruta Cinza insolúvel em HCl, quando > 3,5 % da matéria seca |\n| 6.02 | Bagaço de luzerna | Subproduto seco da luzerna após extracção mecânica do suco | Proteína bruta |\n| 6.03 | Concentrado proteico de luzerna | Produto obtido por secagem artificial de fracções de suco de luzerna obtido por pressão, submetido a centrifugação e a tratamento térmico a fim de precipitar as proteínas | Caroteno Proteína bruta |\n| 6.04 | Farinha de trevo [(^2^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0041) | Produto obtido por secagem e moenda de plantas jovens de trevo *Trifolium spp*.; pode, no entanto, conter até 20 % de plantas jovens de luzerna ou de outras plantas forrageiras que tenham sido sujeitas a secagem e moenda juntamente com o trevo | Proteína bruta Fibra bruta Cinza insolúvel em HCl, quando > 3,5 % da matéria seca |\n| 6.05 | Farinha de erva [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0040) [(^2^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0041) | Produto obtido por secagem e moenda de plantas forrageiras jovens | Proteína bruta Fibra bruta Cinza insolúvel em HCl, quando > 3,5 % da matéria seca |\n| 6.06 | Palha de cereais [(^3^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0042) | Palha de cereais |  |\n| 6.07 | Palha de cereais tratada [(^4^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0043) | Produto obtido por tratamento adequado de palha de cereais | Sódio, se tratada com NaOH |\n| (^1^)O termo «farinha» pode ser substituído por «pellets». O método de secagem também pode ser indicado na designação. (^2^)Esta designação pode ser completada com a espécie de planta forrageira. (^3^)Esta designação deve ser completada com a espécie de cereal. (^4^)Esta designação deve ser completada com a natureza do tratamento químico efectuado. |  |  |  |"
+  },
+  "6a8d4a1171fe4766": {
+   "fragment_id": "7. OUTRAS PLANTAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "type": "divisao",
+   "heading": "7. OUTRAS PLANTAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. OUTRAS PLANTAS, RESPECTIVOS PRODUTOS E SUBPRODUTOS\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 7.01 | Melaço de cana-de-açúcar | Subproduto constituído pelo resíduo xaroposo recolhido durante o fabrico ou refinação de açúcar proveniente da cana-de-açúcar *Saccharum officinarum* L. | Açúcares totais, expressos em sacarose Humidade, quando > 30 % |\n| 7.02 | Vinassa de cana-de-açúcar | Subproduto obtido após fermentação de melaços de cana para a produção de álcoois, leveduras, ácido cítrico ou outras substâncias orgânicas | Proteína bruta Humidade, quando > 35 % |\n| 7.03 | Açúcar (de cana) [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0044) | Açúcar extraído da cana-de-açúcar | Sacarose |\n| 7.04 | Farinha de algas marinhas | Produto obtido por secagem e trituração de algas marinhas, em especial de algas castanhas. Pode ter sido lavado para reduzir o teor de iodo | Cinza total |\n| (^1^)Esta designação pode ser substituída por «sacarose». |  |  |  |"
+  },
+  "ec73be6682d8077f": {
+   "fragment_id": "8. PRODUTOS LÁCTEOS",
+   "type": "divisao",
+   "heading": "8. PRODUTOS LÁCTEOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. PRODUTOS LÁCTEOS\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 8.01 | Leite desnatado em pó | Produto obtido por secagem de leite ao qual foi retirada a maior parte da gordura | Proteína bruta Humidade, quando > 5 % |\n| 8.02 | Leitelho em pó | Produto obtido por secagem do líquido separado na batedura da manteiga | Proteína bruta Matéria gorda Lactose Humidade, quando > 6 % |\n| 8.03 | Soro de leite (lactossoro) em pó | Produto obtido por secagem do líquido separado no fabrico de queijo, «quark» ou caseína ou em processos semelhantes | Proteína bruta Lactose Humidade, quando > 8 % Cinza total |\n| 8.04 | Soro de leite em pó com baixo teor de açúcar | Produto obtido por secagem de soro de leite, ao qual foi parcialmente retirada a lactose | Proteína bruta Lactose Humidade, quando > 8 % Cinza total |\n| 8.05 | Proteína de soro de leite em pó [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0045) | Produto obtido por secagem dos constituintes proteicos extraídos do soro de leite ou do leite através de um tratamento químico ou físico | Proteína bruta Humidade, quando > 8 % |\n| 8.06 | Caseína (láctea) em pó | Produto obtido a partir de leite desnatado ou de leitelho, por secagem da caseína precipitada através de ácidos ou de coalho | Proteína bruta Humidade, quando > 10 % |\n| 8.07 | Lactose em pó | Açúcar separado do leite ou do soro de leite por purificação e secagem | Lactose Humidade, quando > 5 % |\n| (^1^)Esta designação pode ser substituída por «lactoalbumina em pó». |  |  |  |"
+  },
+  "e50af0180eb26fd6": {
+   "fragment_id": "9. PRODUTOS PROVENIENTES DE ANIMAIS TERRESTRES",
+   "type": "divisao",
+   "heading": "9. PRODUTOS PROVENIENTES DE ANIMAIS TERRESTRES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. PRODUTOS PROVENIENTES DE ANIMAIS TERRESTRES\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 9.01 | Farinha de carne [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0046) | Produto obtido por aquecimento, secagem e trituração da totalidade ou de partes de animais terrestres de sangue quente, dos quais a gordura pode ter sido parcialmente extraída ou separada por processos físicos. Deve estar praticamente isento de cascos, cornos, cerdas, pêlos e penas e do conteúdo do tracto digestivo. (Teor mínimo de proteína bruta: 50 % da matéria seca) (Teor máximo de fósforo total: 8 %) | Proteína bruta Matéria gorda Cinza total Humidade, quando > 8 % |\n| 9.02 | Farinha de carne e ossos [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0046) | Produto obtido por aquecimento, secagem e trituração da totalidade ou de partes de animais terrestres de sangue quente, dos quais a gordura pode ter sido parcialmente extraída ou separada por processos físicos. Deve estar praticamente isento de cascos, cornos, cerdas, pêlos e penas e do conteúdo do tracto digestivo | Proteíno bruta Matéria gorda Cinza total Humidade, quando > 8 % |\n| 9.03 | Farinha de ossos | Produto obtido por secagem, aquecimento e trituração fina de ossos de animais terrestres de sangue quente, dos quais grande parte da gordura foi extraída ou separada por processos físicos. Deve estar praticamente isento de cascos, cornos, cerdas, pêlos e penas e do conteúdo do tracto digestivo | Proteína bruta Cinza total Humidade, quando > 8 % |\n| 9.04 | Torresmos | Produto residual do fabrico de sebo, banha e outras gorduras de origem animal extraídas ou separadas por processos físicos | Proteína bruta Matéria gorda Humidade, quando > 8 % |\n| 9.05 | Farinha de aves de capoeira [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0046) | Produto obtido por aquecimento, secagem e trituração de subprodutos do abate de aves de capoeira. Deve estar praticamente isento de penas | Proteína bruta Matéria gorda Cinza total Cinza insolúvel em HCl, quando > 3,3 % Humidade, quando > 8 % |\n| 9.06 | Farinha de penas hidrolisadas | Produto obtido por hidrólise, secagem e trituração de penas de aves | Proteína bruta Cinza insolúvel em HCl, quando > 3,4 % Humidade, quando > 8 % |\n| 9.07 | Farinha de sangue | Produto obtido por secagem do sangue de animais de sangue quente abatidos. Deve estar praticamente isento de substâncias estranhas | Proteína bruta Humidade, quando > 8 % |\n| 9.08 | Gorduras animais [(^2^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0047) | Produto constituído por gordura de animais terrestres de sangue quente | Humidade, quando > 1 % |\n| (^1^)Os produtos com teor de matérias gordas superior a 13 % da matéria seca devem ser qualificados de «rico em matérias gordas». (^2^)Esta designação pode ser completada por uma indicação por uma indicação mais precisa do tipo de gordura animal, em função da origem e do modo de obtenção da mesma (sebo, banha, gordura de ossos, etc.) |  |  |  |"
+  },
+  "7268e0567b5903b5": {
+   "fragment_id": "10. PEIXES, OUTROS ANIMAIS MARINHOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "type": "divisao",
+   "heading": "10. PEIXES, OUTROS ANIMAIS MARINHOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. PEIXES, OUTROS ANIMAIS MARINHOS, RESPECTIVOS PRODUTOS E SUBPRODUTOS\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 10.01 | Farinha de peixe [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0048) | Produto obtido por transformação da totalidade ou de partes de peixes, aos quais pode ter sido extraída uma parte do óleo e readicionado o solúvel de peixe | Proteína bruta Matéria gorda Cinza total, quando > 20 % Humidade, quando > 8 % |\n| 10.02 | Concentrado de solúveis de peixe | Produto obtido durante o fabrico de farinha de peixe, separado e estabilizado por acidificação ou secagem | Proteína bruta Matéria gorda Humidade, quando > 5 % |\n| 10.03 | Óleo de peixe | Óleo obtido a partir de peixe ou partes de peixe | Humidade, quando > 1 % |\n| 10.04 | Óleo de peixe refinado e hidrogenado | Óleo obtido a partir de peixe ou partes de peixe sujeito a refinação e a hidrogenação | Índice de iodo Humidade, quando > 1 % |\n| (^1^)Os produtos cujo teor de proteína bruta seja superior a 75 % da matéria seca podem ser qualificados de «rico em proteínas». |  |  |  |"
+  },
+  "2ddf3d20873d1921": {
+   "fragment_id": "11. MINERAIS",
+   "type": "divisao",
+   "heading": "11. MINERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. MINERAIS\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 11.01 | Carbonato de cálcio [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0049) | Produto obtido através da trituração de fontes de carbonato de cálcio, como calcário ou conchas de ostras ou mexilhões, ou por precipitação com uma solução ácida | Cálcio Cinza insolúvel em HCl, quando > 5 % |\n| 11.02 | Carbonato de cálcio e magnésio | Mistura natural de carbonato de cálcio e de carbonato de magnésio | Cálcio Magnésio |\n| 11.03 | Algas marinhas calcárias (Maerl) | Produto de origem natural obtido a partir de algas marinhas calcárias moídas ou granuladas | Cálcio Cinza insolúvel em HCl, quando > 5 % |\n| 11.04 | Óxido de magnésio | Óxido de magnésio (MgO) tecnicamente puro | Magnésio |\n| 11.05 | Sulfato de magnésio | Sulfato de magnésio (MgSO4.7H20) tecnicamente puro | Magnésio Enxofre |\n| 11.06 | Fosfato dibásico de cálcio [(^2^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0050) | Hidrogenofosfato de cálcio (CaHPO4.xH2O) precipitado a partir de ossos ou de fontes inorgânicas | Cálcio Fósforo total |\n| 11.07 | Fosfato monobásico e dibásico de cálcio | Produto [CaHPO4-Ca(H2PO4)2.H20] obtido quimicamente e composto por partes iguais de fosfato dibásico de cálcio e de fosfato monobásico de cálcio | Fósforo total Cálcio |\n| 11.08 | Fosfatos naturais desfluorados | Produto obtido através da trituração de fosfatos naturais purificados e devidamente desfluorados | Fósforo total Cálcio |\n| 11.09 | Farinha de ossos degelatinizados | Ossos degelatinizados, esterilizados e triturados, aos quais foi extraída a gordura | Fósforo total Cálcio |\n| 11.10 | Fosfato monocálcico | Bis-(dihidrogenofosfato) de cálcio [Ca(H2PO4)2.xH20] tecnicamente puro | Fósforo total Cálcio |\n| 11.11 | Fosfato de cálcio e magnésio | Fosfato de cálcio e de magnésio tecnicamente puro | Cálcio Magnésio Fósforo total |\n| 11.12 | Fosfato monoamónico | Fosfato monoamónico (NH4H2PO4) tecnicamente puro | Azoto total Fósforo total |\n| 11.13 | Cloreto de sódio [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0049) | Cloreto de sódio tecnicamente puro ou produto obtido por trituração de fontes naturais de cloreto de sódio, como sal-gema e sal marinho | Sódio |\n| 11.14 | Propionato de magnésio | Propionato de magnésio tecnicamente puro | Magnésio |\n| 11.15 | Fosfato de magnésio | Produto constituído por fosfato dibásico de magnésio (MgHPO4.xH2O) tecnicamente puro | Fósforo total Magnésio |\n| 11.16 | Fosfato de sódio, cálcio e magnésio | Produto constituído por fosfato de sódio, de cálcio e de magnésio | Fósforo total Magnésio Cálcio Sódio |\n| 11.17 | Fosfato monossódico | Fosfato monossódico (NaH2PO4.H2O) tecnicamente puro | Fósforo total Sódio |\n| 11.18 | Bicarbonato de sódio | Bicarbonato de sódio (NaHCO3) tecnicamente puro | Sódio |\n| (^1^)A natureza da fonte pode substituir ou ser incluída na designação. (^2^)A designação pode ser completada com o processo de fabrico. |  |  |  |"
+  },
+  "b386f89bfada08b0": {
+   "fragment_id": "12. DIVERSOS",
+   "type": "divisao",
+   "heading": "12. DIVERSOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. DIVERSOS\n\n| Número | Designação | Descrição | Declarações obrigatórias |\n| --- | --- | --- | --- |\n| (1) | (2) | (3) | (4) |\n| 12.01 | Produtos e subprodutos das indústrias de panificação e massas [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0051) | Produto ou subproduto da indústria da panificação, incluindo a padaria fina e as bolachas e biscoitos, e da indústria das massas alimentícias | Amido Açúcares totais, expressos em sacarose |\n| 12.02 | Produtos e subprodutos de confeitaria [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0051) | Produto ou subproduto do fabrico de doces, incluindo o chocolate | Açúcares totais, expressos em sacarose |\n| 12.03 | Produtos e subprodutos de pastelaria e da indústria dos gelados [(^1^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0051) | Produto ou subproduto do fabrico de pastelaria ou de gelados | Amido Açúcares totais, expressos em sacarose Matéria gorda |\n| 12.04 | Ácidos gordos | Subproduto obtido durante a desacidificação, através de lixívia, ou por destilação de óleos e gorduras de origem animal ou vegetal não especificados | Matéria gorda Humidade, quando > 1 % |\n| 12.05 | Sais de ácidos gordos [(^2^)](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#E0052) | Produto obtido por saponificação de ácidos gordos com hidróxido de cálcio, de sódio ou de potássio | Matéria gorda Ca (ou Na ou K, conforme o caso) |\n| (^1^)Esta designação deve ser alterada ou completada de modo a precisar o processo agro-alimentar de que provém a matéria-prima para alimentação animal. (^2^)Esta designação pode ser completada com a indicação do sal obtido. |  |  |  |"
+  },
+  "f47f12ac437a185c": {
+   "fragment_id": "PARTE C",
+   "type": "divisao",
+   "heading": "PARTE C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE C"
+  },
+  "41eaee80988eb244": {
+   "fragment_id": "Disposições relativas à designação e declaração de determinados constituintes de matérias-primas não incluídas na lista",
+   "type": "divisao",
+   "heading": "Disposições relativas à designação e declaração de determinados constituintes de matérias-primas não incluídas na lista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições relativas à designação e declaração de determinados constituintes de matérias-primas não incluídas na lista\n\nAs matérias-primas para alimentação animal colocadas em circulação que não constem da parte B do presente anexo serão objecto de uma declaração obrigatória dos constituintes indicados na coluna 2 do quadro seguinte nos termos do n.º 1, alínea d), do artigo 5.º da directiva:\n\nAs matérias-primas para alimentação animal que não figurem na lista da parte B devem ser designadas de acordo com os critérios do ponto I.1 da parte A do presente anexo.\n\n| Matérias-primas para alimentação animal | Declaração obrigatória de |  |\n| --- | --- | --- |\n| (1) | (2) |  |\n| 1 | Grãos de cereais |  |\n| 2 | Produtos e subprodutos de grãos de cereais | Amido, quando > 20 % Proteína bruta, quando > 10 % Matéria gorda, quando > 5 % Fibra bruta |\n| 3 | Sementes e frutos oleaginosos |  |\n| 4 | Produtos e subprodutos de sementes e frutos oleaginosos | Proteína bruta, quando > 10 % Matéria gorda, quando > 5 % Fibra bruta |\n| 5 | Sementes de leguminosas |  |\n| 6 | Produtos e subprodutos de sementes de leguminosas | Proteína bruta, quando > 10 % Fibra bruta |\n| 7 | Raízes e tubérculos |  |\n| 8 | Produtos e subprodutos da transformação de raízes e tubérculos | Amido Fibra bruta Cinza insolúvel em HC1, quando > 3,5 % |\n| 9 | Outros produtos e subprodutos da transformação da beterraba sacarina | Fibra bruta, quando > 15 % Açúcares totais, expressos em sacarose Cinza insolúvel em HCl, quando > 3,5 % |\n| 10 | Outras sementes e frutos, respectivos produtos e subprodutos | Proteína bruta Fibra bruta Matéria gorda, quando > 10 % |\n| 11 | Forragens e outros alimentos grosseiros | Proteína bruta, quando > 10 % Fibra bruta |\n| 12 | Outras plantas, respectivos produtos e subprodutos | Proteína bruta, quando > 10 % Fibra bruta |\n| 13 | Produtos e subprodutos da transformação da cana-de-açúcar | Fibra bruta, quando > 15 % Açúcares totais, expressos em sacarose |\n| 14 | Produtos e subprodutos lácteos | Proteína bruta Humidade, quando > 5 % Lactose, quando > 10 % |\n| 15 | Produtos de animais terrestres | Proteína bruta, quando > 10 % Matéria gorda, quando > 5 % Humidade, quando > 8 % |\n| 16 | Peixes, outros animais marinhos e respectivos produtos e subprodutos | Proteína bruta, quando > 10 % Matéria gorda, quando > 5 % Humidade, quando > 8 % |\n| 17 | Minerais | Minerais utilizados |\n| 18 | Diversos | Proteína bruta, quando > 10 % Fibra bruta Matéria gorda quando > 10 % Amido, quando > 30 % Açúcares totais, expressos em sacarose, quando > 10 % |\n\n---"
+  },
+  "40d935704fd49309": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0001)) JO n.º C 236 de 24.8.1994, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0002)) JO n.º C 305 de 31.10.1994, p. 147.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0003)) JO n.º C 102 de 24.4.1995, p. 10.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0004)) JO n.º L 32 de 3.2.1977, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 90/654/CEE (JO n.º L 353 de 17.12.1990, p. 48).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0005)) JO n.º L 270 de 14.12.1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 95/55/CE da Comissão (JO n.º L 263 de 4.11.1995, p. 18).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0006)) JO n.º L 38 de 11.2.1974, p. 31. Directiva com a última redacção que lhe foi dada pela Directiva 93/74/CEE (JO n.º L 237 de 22.9.1993, p. 23).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0007)) JO n.º L 332 de 30.12.1995, p. 15.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0008)) JO n.º L 319 de 4.11.1992, p. 19.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0009)) JO n.º L 213 de 21.7.1982, p. 8.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0010)) JO n.º L 237 de 22.9.1993, p. 23.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0011)) JO n.º L 126 de 21.5.1980, p. 14.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0012)) JO n.º L 213 de 21.7.1982, p. 27.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0013)) JO n.º L 193 de 17.7.1991, p. 34.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0014)) JO n.º L 281 de 9.10.1991, p. 23.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0015)) JO L 363 de 27.12.1990, p. 51. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0016)) JO n.º L 363 de 27.12.1990, p. 51.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0017)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/5d1827b9-c231-4f22-aa2f-118275c24c02.0018.03/DOC_1#src.E0018)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "e0657da0593fce72": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1996L0025 — PT — 01.09.2010 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31996L0025) [DIRECTIVA 96/25/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31996L0025) [de 29 de Abril de 1996](http://publications.europa.eu/resource/celex/31996L0025) [relativa à circulação e à utilização de matérias-primas para alimentação animal, que altera as Directivas 70/524/CEE, 74/63/CEE, 82/471/CEE e 93/74/CEE e revoga a Directiva 77/101/CEE](http://publications.europa.eu/resource/celex/31996L0025) (JO L 125, 23.5.1996, p.35)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 767/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0767) — L 229 — 1 — 1.9.2009"
+  }
+ }
+}

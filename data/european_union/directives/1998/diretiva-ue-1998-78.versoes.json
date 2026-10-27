@@ -1,0 +1,689 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0078:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0078-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "1998-12-05",
+   "future": false,
+   "celex": "31998L0078",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2005-04-13",
+   "future": false,
+   "celex": "01998L0078-20050413",
+   "acts": [
+    {
+     "id": "eu:celex:32002L0087:por",
+     "title": "DIRECTIVA 2002/87/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2002",
+     "published": null,
+     "celex": "32002L0087"
+    },
+    {
+     "id": "eu:celex:32005L0001:por",
+     "title": "DIRECTIVA 2005/1/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 9 de Março de 2005",
+     "published": null,
+     "celex": "32005L0001"
+    }
+   ],
+   "changes": [
+    "Adita preambulo",
+    "Adita Artigo 1.º — Definições",
+    "Adita Artigo 2.º — Aplicabilidade da fiscalização complementar das empresas de seguros",
+    "Adita Artigo 3.º — Âmbito da fiscalização complementar",
+    "Adita Artigo 4.º — Autoridades competentes incumbidas de exercer a fiscalização complementar",
+    "Adita Artigo 5.º — Disponibilidade e qualidade das informações",
+    "Adita Artigo 6.º — Acesso às informações",
+    "Adita Artigo 7.º — Cooperação entre as autoridades competentes",
+    "Adita Artigo 8.º — Operações intragrupo",
+    "Adita Artigo 9.º — Requisito de solvência corrigido",
+    "Adita Artigo 10.º — Empresas de resseguros, sociedades gestoras de participações no sector dos seguros e empresas de seguros de um país terceiro",
+    "Adita Artigo 10.ºA — Cooperação com as autoridades competentes de países terceiros",
+    "Adita Artigo 10.ºB — Órgão de gestão das sociedades gestoras de participações no sector dos seguros",
+    "Adita Artigo 11.º — Aplicação",
+    "Adita Artigo 12.º — Entrada em vigor",
+    "Adita Artigo 13.º — Destinatários",
+    "Adita ANEXO I",
+    "Adita CÁLCULO DA SOLVÊNCIA CORRIGIDA DAS EMPRESAS DE SEGUROS",
+    "Adita 1. ESCOLHA DO MÉTODO DE CÁLCULO E PRINCÍPIOS GERAIS",
+    "Adita 2. APLICAÇÃO DOS MÉTODOS DE CÁLCULO",
+    "Adita 2.1. Empresas de seguros coligadas",
+    "Adita 2.2. Empresas de resseguros coligadas",
+    "Adita 2.3. Sociedades gestoras de participações no sector dos seguros intermédias",
+    "Adita 2.4. Empresas de seguros ou de resseguros coligadas cuja sede se situe em países terceiros",
+    "Adita A. Empresas de seguros coligadas de países terceiros",
+    "Adita B. Empresas de resseguros coligadas de países terceiros",
+    "Adita 2.4A. Instituições de crédito, empresas de investimento e instituições financeiras coligadas",
+    "Adita 2.5. Indisponibilidade da informação necessária",
+    "Adita 3. MÉTODOS DE CÁLCULO",
+    "Adita Método 1: Método de dedução e agregação",
+    "Adita Método 2: Método de dedução de um requisito",
+    "Adita Método 3: Método baseado na consolidação contabilística",
+    "Adita ANEXO II",
+    "Adita FISCALIZAÇÃO COMPLEMENTAR PARA AS EMPRESAS DE SEGUROS QUE SEJAM FILIAIS DE UMA SOCIEDADE GESTORA DE PARTICIPAÇÕES NO SECTOR DOS SEGUROS, DE UMA EMPRESA DE RESSEGUROS OU DE UMA EMPRESA DE SEGUROS DE UM PAÍS TERCEIRO",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "d388cab881724a9a",
+    "2af32bad5f18c360",
+    "a153891a59537134",
+    "5bee80c5d8375a35",
+    "fdcb503a330fbb0e",
+    "4b2388bcdbea7cb3",
+    "feb17b085d2dca39",
+    "ed9fcacf1adcc6b1",
+    "cbbe0ac961c3905a",
+    "500285ef10a9433e",
+    "ab9cf0dfe1774408",
+    "d2719aaf74310590",
+    "333230b183b97d87",
+    "4f83afc007969b12",
+    "d1212ee0ec6d214b",
+    "4164a202cb4e3305",
+    "d664376e2a8dcecd",
+    "46439e81e46344d3",
+    "f5398ff91d08e42a",
+    "7c03c08d33a83c8d",
+    "a27e31df5bb04edf",
+    "c8644481946cf86d",
+    "507ef8f58cbc7773",
+    "5fd157d84a7779cf",
+    "1390a5150ca502c5",
+    "32d2ec70a60b4520",
+    "ae830810c80370e8",
+    "229ed4cb33782e43",
+    "119284b5edccf612",
+    "e6dbf4e323f29af7",
+    "aa9c7854c24465c2",
+    "369bfa1beec57c15",
+    "852174729551523b",
+    "4c0d1d12cfdb7d8b",
+    "382ca2d16dfa0828"
+   ]
+  },
+  {
+   "date": "2005-12-10",
+   "future": false,
+   "celex": "01998L0078-20051210",
+   "acts": [
+    {
+     "id": "eu:celex:32005L0068:por",
+     "title": "DIRECTIVA 2005/68/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de Novembro de 2005",
+     "published": null,
+     "celex": "32005L0068"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Definições",
+    "Altera Artigo 5.º — Disponibilidade e qualidade das informações",
+    "Altera Artigo 9.º — Requisito de solvência corrigido",
+    "Altera Artigo 10.ºA — Cooperação com as autoridades competentes de países terceiros",
+    "Altera 1. ESCOLHA DO MÉTODO DE CÁLCULO E PRINCÍPIOS GERAIS",
+    "Altera 2. APLICAÇÃO DOS MÉTODOS DE CÁLCULO",
+    "Altera 3. MÉTODOS DE CÁLCULO",
+    "Altera Notas",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 10.º",
+    "Adita Sociedades gestoras de participações, empresas de seguros de países terceiros e empresas de resseguros de países terceiros",
+    "Adita CÁLCULO DA SOLVÊNCIA CORRIGIDA DAS EMPRESAS DE SEGUROS E DE RESSEGUROS",
+    "Adita SUPERVISÃO COMPLEMENTAR PARA AS EMPRESAS DE SEGUROS E EMPRESAS DE RESSEGUROS QUE SEJAM FILIAIS DE UMA SOCIEDADE GESTORA DE PARTICIPAÇÕES NO SECTOR DOS SEGUROS OU DE UMA EMPRESA DE SEGUROS OU DE RESSEGUROS DE UM PAÍS TERCEIRO",
+    "Suprime Artigo 2.º — Aplicabilidade da fiscalização complementar das empresas de seguros",
+    "Suprime Artigo 3.º — Âmbito da fiscalização complementar",
+    "Suprime Artigo 4.º — Autoridades competentes incumbidas de exercer a fiscalização complementar",
+    "Suprime Artigo 6.º — Acesso às informações",
+    "Suprime Artigo 7.º — Cooperação entre as autoridades competentes",
+    "Suprime Artigo 8.º — Operações intragrupo",
+    "Suprime Artigo 10.º — Empresas de resseguros, sociedades gestoras de participações no sector dos seguros e empresas de seguros de um país terceiro",
+    "Suprime CÁLCULO DA SOLVÊNCIA CORRIGIDA DAS EMPRESAS DE SEGUROS",
+    "Suprime 2.1. Empresas de seguros coligadas",
+    "Suprime 2.2. Empresas de resseguros coligadas",
+    "Suprime 2.3. Sociedades gestoras de participações no sector dos seguros intermédias",
+    "Suprime 2.4. Empresas de seguros ou de resseguros coligadas cuja sede se situe em países terceiros",
+    "Suprime A. Empresas de seguros coligadas de países terceiros",
+    "Suprime B. Empresas de resseguros coligadas de países terceiros",
+    "Suprime 2.4A. Instituições de crédito, empresas de investimento e instituições financeiras coligadas",
+    "Suprime 2.5. Indisponibilidade da informação necessária",
+    "Suprime Método 1: Método de dedução e agregação",
+    "Suprime Método 2: Método de dedução de um requisito",
+    "Suprime Método 3: Método baseado na consolidação contabilística",
+    "Suprime FISCALIZAÇÃO COMPLEMENTAR PARA AS EMPRESAS DE SEGUROS QUE SEJAM FILIAIS DE UMA SOCIEDADE GESTORA DE PARTICIPAÇÕES NO SECTOR DOS SEGUROS, DE UMA EMPRESA DE RESSEGUROS OU DE UMA EMPRESA DE SEGUROS DE UM PAÍS TERCEIRO"
+   ],
+   "fragments": [
+    "727e35e4f367ab65",
+    "2e8d1d62d3e600a4",
+    "46d539a741af620c",
+    "13ce8d4c43a3d418",
+    "a06eaa581897c8dd",
+    "3910f9a17ede9ff3",
+    "cfb5fa1b86ff772e",
+    "e4f571aa6f20d581",
+    "b0d2b444189f0c04",
+    "d12efd4c523c9078",
+    "7c50ed4343b1e48a",
+    "35ad540952967051",
+    "5d2c9c3ab585a57f",
+    "333230b183b97d87",
+    "4f83afc007969b12",
+    "d1212ee0ec6d214b",
+    "4164a202cb4e3305",
+    "d664376e2a8dcecd",
+    "f5979747ad042ab4",
+    "98d4a61119ba3464",
+    "0b55106bc290496c",
+    "79ceffbc1d6c4bef",
+    "852174729551523b",
+    "635f7323f6fd97b5",
+    "f4b401a150e2d962"
+   ]
+  },
+  {
+   "date": "2011-12-09",
+   "future": false,
+   "celex": "01998L0078-20111209",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Definições",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º — Disponibilidade e qualidade das informações",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º — Requisito de solvência corrigido",
+    "Suprime Artigo 10.º",
+    "Suprime Sociedades gestoras de participações, empresas de seguros de países terceiros e empresas de resseguros de países terceiros",
+    "Suprime Artigo 10.ºA — Cooperação com as autoridades competentes de países terceiros",
+    "Suprime Artigo 10.ºB — Órgão de gestão das sociedades gestoras de participações no sector dos seguros",
+    "Suprime Artigo 11.º — Aplicação",
+    "Suprime Artigo 12.º — Entrada em vigor",
+    "Suprime Artigo 13.º — Destinatários",
+    "Suprime ANEXO I",
+    "Suprime CÁLCULO DA SOLVÊNCIA CORRIGIDA DAS EMPRESAS DE SEGUROS E DE RESSEGUROS",
+    "Suprime 1. ESCOLHA DO MÉTODO DE CÁLCULO E PRINCÍPIOS GERAIS",
+    "Suprime 2. APLICAÇÃO DOS MÉTODOS DE CÁLCULO",
+    "Suprime 3. MÉTODOS DE CÁLCULO",
+    "Suprime ANEXO II",
+    "Suprime SUPERVISÃO COMPLEMENTAR PARA AS EMPRESAS DE SEGUROS E EMPRESAS DE RESSEGUROS QUE SEJAM FILIAIS DE UMA SOCIEDADE GESTORA DE PARTICIPAÇÕES NO SECTOR DOS SEGUROS OU DE UMA EMPRESA DE SEGUROS OU DE RESSEGUROS DE UM PAÍS TERCEIRO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "3c45ae80305ac43e"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "01998L0078-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "343687f38daacc5a"
+   ]
+  }
+ ],
+ "fragments": {
+  "d388cab881724a9a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Outubro de 1998\n\nrelativa à fiscalização complementar das empresas de seguros que fazem parte de um grupo segurador\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 57.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 189.ºB do Tratado ([^3^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0003)),\n\n(1) Considerando que a Primeira Directiva 73/239/CEE do Conselho, de 24 de Julho de 1973, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguro directo não vida e ao seu exercício ([^4^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0004)), e a Primeira Directiva 79/267/CEE do Conselho, de 5 de Março de 1979, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguro directo de vida e ao seu exercício ([^5^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0005)), exigem que as empresas de seguros disponham de uma margem de solvência;\n\n(2) Considerando que, por força da Directiva 92/49/CEE do Conselho, de 18 de Junho de 1992, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro directo não vida e que altera as Directivas 73/239/CEE e 88/357/CEE (terceira directiva sobre o seguro não vida) ([^6^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0006)), e da Directiva 92/96/CEE do Conselho, de 10 de Novembro de 1992, que estabelece a coordenação das disposições legislativas, regulamentares e administrativas relativas ao seguro directo vida e que altera as Directivas 79/267/CEE e 90/619/CEE (terceira directiva sobre o seguro de vida) ([^7^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0007)), o acesso à actividade seguradora e o seu exercício se encontram subordinados à concessão de uma autorização administrativa única, emitida pelas autoridades competentes do Estado-membro no qual se situa a sede da empresa de seguros (Estado-membro de origem); que esta autorização permite que as empresas desenvolvam as suas actividades em toda a Comunidade, quer em regime de liberdade de estabelecimento quer em regime de livre prestação de serviços; que as autoridades competentes dos Estados-membros de origem são responsáveis pela fiscalização da solidez financeira das empresas de seguros, e nomeadamente da sua solvabilidade;\n\n(3) Considerando que as medidas relativas à fiscalização complementar das empresas de seguros que façam parte de um grupo de seguros devem permitir às autoridades incumbidas da fiscalização de uma empresa de seguros fazer um juízo mais fundamentado sobre a situação financeira daquelas; que esta fiscalização complementar deve tomar em consideração certas empresas que não se encontram actualmente sujeitas a fiscalização ao abrigo das directivas comunitárias; que a presente directiva não implica de modo algum que os Estados-membros sejam obrigados a exercer uma função fiscalizadora sobre essas empresas individualmente consideradas;\n\n(4) Considerando que, num mercado comum dos seguros, as empresas de seguros estão em concorrência directa entre si, pelo que as regras relativas aos requisitos de capital devem ser equivalentes; que, para o efeito, os critérios aplicados na determinação da fiscalização complementar não devem ser deixados unicamente à apreciação dos Estados-membros; que, sendo assim, a adopção de regras de base comuns servirá da melhor forma os interesses da Comunidade, na medida em que evitará distorções da concorrência; que é necessário eliminar certas diferenças entre as legislações dos Estados-membros em matéria de supervisão prudencial das empresas de seguros que fazem parte de um grupo de seguros;\n\n(5) Considerando que o sistema adoptado consiste em realizar a harmonização essencial, necessária e suficiente para alcançar um reconhecimento mútuo dos sistemas de supervisão prudencial neste domínio; que a presente directiva tem, nomeadamente, por objectivo a protecção dos interesses dos segurados;\n\n(6) Considerando que certas disposições da presente directiva definem normas mínimas; que o Estado-membro de origem pode criar regras mais estritas em relação às empresas de seguros autorizadas pelas suas próprias autoridades competentes;\n\n(7) Considerando que a presente directiva prevê a fiscalização complementar de todas as empresas de seguros que sejam empresas participantes em pelo menos uma empresa de seguros, uma empresa de resseguros ou uma empresa de seguros de um país terceiro, bem como a fiscalização complementar, segundo regras diferentes, de todas as empresas de seguros cuja empresa-mãe seja uma sociedade gestora de participações no sector de seguros, uma empresa de resseguros, uma empresa de seguros de um país terceiro ou uma sociedade gestora de participações mista de seguros; que a fiscalização das empresas de seguros numa base individual por parte das autoridades competentes continua a ser o princípio fundamental da fiscalização da actividade seguradora;\n\n(8) Considerando que é necessário calcular a situação de solvência corrigida das empresas de seguros que fazem parte de um grupo de seguros; que as autoridades competentes na Comunidade aplicam diferentes métodos, a fim de tomarem em consideração as repercussões sobre a situação financeira das empresas de seguros decorrentes do facto de estas fazerem parte de um grupo de seguros; que a presente directiva estabelece três métodos para efeitos desse cálculo; que se aceita o princípio de que estes métodos são equivalentes do ponto de vista prudencial;\n\n(9) Considerando que a solvência de uma empresa de seguros filial de uma sociedade gestora de participações no sector seguros, de uma empresa de resseguros ou de uma empresa de seguros de um país terceiro pode ser afectada pelos recursos financeiros do grupo de que faz parte a empresa de seguros e pela repartição dos recursos financeiros no interior do grupo; que é importante dar às autoridades competentes meios para exercerem uma fiscalização complementar e tomarem medidas adequadas ao nível da empresa de seguros quando a solvência desta estiver ou puder vir a estar em risco;\n\n(10) Considerando que as autoridades competentes deverão ter acesso a todas as informações úteis para o exercício da fiscalização complementar; que deverá ser instituída uma colaboração entre as autoridades responsáveis pela fiscalização das empresas de seguros, bem como entre as autoridades responsáveis pela fiscalização dos diferentes sectores financeiros;\n\n(11) Considerando que determinados tipos de transacções intragrupo são susceptíveis de afectar a situação financeira de uma empresa de seguros; que as autoridades competentes deverão poder exercer uma fiscalização geral dessas operações intragrupo e tomar as medidas adequadas ao nível da empresa de seguros quando a solvência da empresa de seguros estiver ou puder vir a estar em risco,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "2af32bad5f18c360": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) *Empresa de seguros:* uma empresa que tenha recebido uma autorização administrativa nos termos do artigo 6.º da Directiva 73/239/CEE ou do artigo 6.º da Directiva 79/267/CEE;\n\nb) *Empresa de seguros de um país terceiro:* uma empresa que, se a sua sede estivesse situada na Comunidade, seria obrigada a dispor de uma autorização nos termos do artigo 6.º da Directiva 73/239/CEE ou do artigo 6.º da Directiva 79/267/CEE;\n\nc) *Empresa de resseguros:* uma empresa que não seja uma empresa de seguros ou uma empresa de seguros de um país terceiro e cuja actividade principal consista em aceitar riscos cedidos por uma empresa de seguros, por uma empresa de seguros de um país terceiro ou por outras empresas de resseguros;\n\nd) *Empresa-mãe:* uma empresa-mãe na acepção do artigo 1.º da Directiva 83/349/CEE ([^8^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0008)), bem como qualquer empresa que, no parecer das autoridades competentes, exerça efectivamente uma influência dominante sobre outra empresa;\n\ne) *Filial:* uma empresa filial na acepção do artigo 1.º da Directiva 83/349/CEE, bem como qualquer empresa sobre a qual, no parecer das autoridades competentes, uma empresa-mãe exerça efectivamente uma influência dominante. Qualquer empresa filial de uma empresa filial é igualmente considerada como filial da empresa-mãe de que essa empresa depende;\n\nf) *Participação:* uma participação na acepção da primeira frase do artigo 17.º da Directiva 78/660/CEE ([^9^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0009)) ou a titularidade, directa ou indirecta, de 20 % ou mais dos direitos de voto ou do capital de uma empresa;\n\ng) *Empresa participante:* uma empresa que seja uma empresa-mãe ou uma empresa que detenha uma participação, ou uma empresa ligada a outra empresa por uma relação na acepção do n.º 1 do artigo 12.º da Directiva 83/349/CEE;\n\nh) *Empresa coligada:* uma empresa que seja ou uma filial, ou qualquer outra empresa na qual é detida uma participação, ou uma empresa ligada a outra empresa por uma relação na acepção do n.º 1 do artigo 12.º da Directiva 83/349/CEE;\n\ni) *Sociedade gestora de participações no sector dos seguros:* uma empresa-mãe cuja actividade principal consista na aquisição e detenção de participações em empresas filiais quando essas empresas sejam exclusiva ou principalmente empresas de seguros, empresas de resseguro ou empresas de seguros de um país terceiro, sendo pelo menos uma destas filiais uma empresa de seguros, e que não seja uma companhia financeira mista na acepção da Directiva 2002/87/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002, relativa à supervisão complementar de instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro ([^10^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0010));\n\nj) *Sociedade gestora de participações de seguros mista:* uma empresa-mãe que não seja uma empresa de seguros, uma empresa de seguros de um país terceiro, uma empresa de resseguro ou uma companhia financeira mista, na acepção da Directiva 2002/87/CE, sendo pelo menos uma das suas filiais uma empresa de seguros;\n\nk) *Autoridades competentes:* as autoridades nacionais que exercem, por força de lei ou de regulamentação, a supervisão das empresas de seguros."
+  },
+  "a153891a59537134": {
+   "fragment_id": "Artigo 2.º — Aplicabilidade da fiscalização complementar das empresas de seguros",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Aplicabilidade da fiscalização complementar das empresas de seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aplicabilidade da fiscalização complementar das empresas de seguros\n\n1. Para além das disposições da Directiva 73/239/CEE e da Directiva 79/267/CEE, que estabelecem as regras em matéria de fiscalização das empresas de seguros, os Estados-membros devem prever a fiscalização complementar das empresas de seguros que sejam empresas participantes de pelo menos uma empresa de seguros, uma empresa de resseguros ou uma empresa de seguros de um país terceiro, segundo as regras constantes dos artigos 5.º, 6.º, 8.º e 9.º\n\n2. Todas as empresas de seguros cuja empresa-mãe seja uma sociedade gestora de participações no sector dos seguros, uma empresa de resseguros ou uma empresa de seguros de um país terceiro estão sujeitas, segundo as regras previstas no n.º 2 do artigo 5.º e nos artigos 6.º, 8.º e 10.º, a uma fiscalização complementar.\n\n3. Todas as empresas de seguros cuja empresa-mãe seja uma sociedade gestora de participações mista de seguros estão sujeitas, na medida e segundo as regras previstas no n.º 2 do artigo 5.º e nos artigos 6.º e 8.º, a uma fiscalização complementar."
+  },
+  "5bee80c5d8375a35": {
+   "fragment_id": "Artigo 3.º — Âmbito da fiscalização complementar",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito da fiscalização complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito da fiscalização complementar\n\n1. O exercício da fiscalização complementar nos termos do artigo 2.º não implica de modo algum que as autoridades competentes sejam obrigadas a exercer uma função de fiscalização sobre a empresa de seguros de um país terceiro, a sociedade gestora de participações no sector dos seguros, a sociedade gestora de participações mista de seguros ou a empresa de resseguros, individualmente consideradas.\n\n2. A fiscalização complementar deve ter em conta:\n\n— as empresas coligadas da empresa de seguros,\n\n— as empresas participantes da empresa de seguros,\n\n— as empresas coligadas de uma empresa participante da empresa de seguros, a que se referem os artigos 5.º, 6.º, 8.º, 9.º e 10.º\n\n3. Os Estados-membros podem decidir não ter em conta, na fiscalização complementar prevista no artigo 2.º, empresas cuja sede se situe num país terceiro em que existam obstáculos jurídicos à transferência da informação necessária, sem prejuízo do disposto no ponto 2.5 do anexo I e no ponto 4 do anexo II.\n\nAlém disso, as autoridades competentes incumbidas do exercício da fiscalização complementar podem decidir, caso a caso, não ter em conta uma empresa na fiscalização complementar prevista no mesmo artigo, nos seguintes casos:\n\n— quando a empresa a incluir apresentar um interesse pouco significativo, atendendo aos objectivos da fiscalização complementar das empresas de seguros,\n\n— quando a inclusão da situação financeira da empresa for inadequada ou susceptível de induzir em erro, atendendo aos objectivos da fiscalização complementar das empresas de seguros."
+  },
+  "fdcb503a330fbb0e": {
+   "fragment_id": "Artigo 4.º — Autoridades competentes incumbidas de exercer a fiscalização complementar",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Autoridades competentes incumbidas de exercer a fiscalização complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autoridades competentes incumbidas de exercer a fiscalização complementar\n\n1. A fiscalização complementar é exercida pelas autoridades competentes do Estado-membro em que a empresa de seguros tenha obtido a autorização administrativa nos termos do artigo 6.º da Directiva 73/239/CEE ou do artigo 6.º da Directiva 79/267/CEE.\n\n2. No caso de empresas de seguros autorizadas em dois ou mais Estados-membros terem como empresa-mãe a mesma sociedade gestora de participações no sector dos seguros, a mesma empresa de resseguros, a mesma empresa de seguros de um país terceiro, ou a mesma sociedade gestora de participações mista de seguros, as autoridades competentes dos Estados-membros em causa podem chegar a um acordo no sentido de designar as que, de entre elas, serão incumbidas de exercer a fiscalização complementar.\n\n3. Quando num Estado-membro exista mais do que uma autoridade competente em matéria de supervisão prudencial das empresas de seguros e das empresas de resseguros, esse Estado-membro tomará as medidas necessárias à organização da coordenação entre essas autoridades."
+  },
+  "4b2388bcdbea7cb3": {
+   "fragment_id": "Artigo 5.º — Disponibilidade e qualidade das informações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disponibilidade e qualidade das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disponibilidade e qualidade das informações\n\n1. Os Estados-membros determinarão que as autoridades competentes devem exigir que todas as empresas de seguros sujeitas à fiscalização complementar disponham de procedimentos de controlo interno adequados à produção de dados e informações úteis para efeitos do exercício dessa fiscalização complementar.\n\n2. Os Estados-membros tomarão as medidas adequadas para que, no âmbito da sua competência, nenhum obstáculo de natureza jurídica impeça as empresas sujeitas à fiscalização complementar ou as respectivas empresas coligadas ou participantes de trocarem entre si informações úteis para efeitos do exercício dessa fiscalização complementar."
+  },
+  "feb17b085d2dca39": {
+   "fragment_id": "Artigo 6.º — Acesso às informações",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Acesso às informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acesso às informações\n\n1. Os Estados-membros determinarão que as autoridades competentes incumbidas de exercer a fiscalização complementar tenham acesso a todas as informações úteis para efeitos do exercício da fiscalização das empresas de seguros sujeitas à fiscalização complementar. As autoridades competentes só poderão dirigir-se directamente às empresas em causa referidas no n.º 2 do artigo 3.º para obter a comunicação das informações necessárias, se essas informações tiverem sido solicitadas à empresa de seguros e esta as não tiver prestado.\n\n2. Os Estados-membros determinarão que as suas autoridades competentes possam proceder no seu território, directamente ou por intermédio de pessoas que tenham mandatado para o efeito, à verificação *in loco* das informações a que se refere o n.º 1:\n\n— na empresa de seguros sujeita à fiscalização complementar,\n\n— nas empresas filiais dessa empresa de seguros,\n\n— nas empresas-mãe dessa empresa de seguros,\n\n— nas empresas filiais de uma empresa-mãe dessa empresa de seguros.\n\n3. Se, no âmbito da aplicação do presente artigo, as autoridades competentes de um Estado-membro desejarem, em determinados casos, verificar informações importantes respeitantes a uma empresa cuja sede se situe noutro Estado-membro, que seja uma empresa de seguros coligada, uma empresa filial, uma empresa-mãe ou uma empresa filial de uma empresa-mãe da empresa de seguros sujeita à fiscalização complementar, deverão solicitar às autoridades competentes desse outro Estado-membro que seja efectuada essa verificação. As autoridades que tiverem recebido o pedido devem, no âmbito da sua competência, dar-lhe o devido seguimento, quer procedendo elas próprias a essa verificação quer permitindo que as autoridades que apresentaram o pedido a efectuem, quer ainda permitindo que um revisor ou um perito a realize.[**►M1**](http://publications.europa.eu/resource/celex/32002L0087) Quando não efectue ela própria a verificação, a autoridade competente que apresentou o pedido pode, se o desejar, participar na verificação.**◄**"
+  },
+  "ed9fcacf1adcc6b1": {
+   "fragment_id": "Artigo 7.º — Cooperação entre as autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Cooperação entre as autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cooperação entre as autoridades competentes\n\n1. No caso de empresas de seguros estabelecidas em diferentes Estados-membros se encontrarem directa ou indirectamente coligadas ou terem uma empresa participante comum, as autoridades competentes de cada Estado-membro comunicarão reciprocamente, a pedido, todas as informações úteis susceptíveis de permitir ou facilitar o exercício da fiscalização prevista no âmbito da presente directiva e comunicarão, por iniciativa própria, qualquer informação que se lhes afigure essencial para as outras autoridades competentes.\n\n2. No caso de uma empresa de seguros e, quer uma instituição de crédito na acepção da Directiva 77/780/CEE ([^11^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0011)) ou uma empresa de investimento na acepção da Directiva 93/22/CEE ([^12^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0012)), quer ambas, se encontrarem directa ou indirectamente coligadas, ou terem uma empresa participante comum, as autoridades competentes e as autoridades investidas da missão pública de fiscalização dessas outras empresas colaborarão estreitamente. Sem prejuízo das respectivas competências, as citadas autoridades comunicarão reciprocamente todas as informações susceptíveis de facilitar o cumprimento da sua missão, em especial no contexto da presente directiva.\n\n3. As informações recebidas por força da presente directiva, e designadamente as trocas de informações entre autoridades competentes previstas na presente directiva, são abrangidas pelo segredo profissional definido no artigo 16.º da Directiva 92/49/CEE e no artigo 15.º da Directiva 92/96/CEE."
+  },
+  "cbbe0ac961c3905a": {
+   "fragment_id": "Artigo 8.º — Operações intragrupo",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Operações intragrupo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Operações intragrupo\n\n1. Os Estados-membros determinarão que as autoridades competentes exerçam uma fiscalização geral das operações entre:\n\na) Uma empresa de seguros e:\n\ni) uma empresa coligada da empresa de seguros,\n\nii) uma empresa participante da empresa de seguros,\n\niii) uma empresa coligada de uma empresa participante da empresa de seguros;\n\nb) Uma empresa de seguros e uma pessoa singular detentora de uma participação:\n\ni) na empresa de seguros ou numa das suas empresas coligadas,\n\nii) numa empresa participante da empresa de seguros,\n\niii) numa empresa coligada de uma empresa participante da empresa de seguros.\n\nEstas operações dizem respeito, nomeadamente, a:\n\n— empréstimos,\n\n— garantias e operações extrapatrimoniais,\n\n— elementos a considerar na margem de solvência,\n\n— investimentos,\n\n— operações de resseguro,\n\n— acordos de repartição de custos.\n\n2. [**►M1**](http://publications.europa.eu/resource/celex/32002L0087) Os Estados-Membros exigem às empresas de seguros que possuam processos de gestão dos riscos e mecanismos de controlo interno adequados, incluindo procedimentos de prestação de informações e contabilísticos sólidos que lhes permitam identificar, medir, acompanhar e controlar, de modo adequado, as operações referidas no n.º 1. Para esse efeito, os Estados-Membros exigem igualmente às empresas de seguros que declarem pelo menos uma vez por ano às autoridades competentes as operações significativas. Estes processos e mecanismos são objecto de supervisão por parte das autoridades competentes.**◄**\n\nSe, com base nessas informações, se afigurar que a solvência da empresa de seguros está ou pode vir a estar em risco, a autoridade competente tomará as medidas adequadas ao nível da empresa de seguros."
+  },
+  "500285ef10a9433e": {
+   "fragment_id": "Artigo 9.º — Requisito de solvência corrigido",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Requisito de solvência corrigido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisito de solvência corrigido\n\n1. No caso previsto no n.º 1 do artigo 2.º, os Estados-membros exigirão que seja efectuado um cálculo de solvência corrigida, de acordo com o anexo I.\n\n2. As empresas coligadas, empresas participantes e empresas coligadas de uma empresa participante serão incluídas no cálculo previsto no n.º 1.\n\n3. Se o cálculo previsto no n.º 1 revelar que a solvência corrigida é negativa, as autoridades competentes tomarão as medidas adequadas ao nível da empresa de seguros em questão."
+  },
+  "ab9cf0dfe1774408": {
+   "fragment_id": "Artigo 10.º — Empresas de resseguros, sociedades gestoras de participações no sector dos seguros e empresas de seguros de um país terceiro",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Empresas de resseguros, sociedades gestoras de participações no sector dos seguros e empresas de seguros de um país terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Empresas de resseguros, sociedades gestoras de participações no sector dos seguros e empresas de seguros de um país terceiro\n\n1. No caso previsto no n.º 2 do artigo 2.º, os Estados-membros exigirão a aplicação do método de fiscalização complementar, nos termos do anexo II.\n\n2. No caso previsto no n.º 2 do artigo 2.º, o cálculo deve incluir todas as empresas coligadas da sociedade gestora de participações no sector dos seguros, da empresa de resseguros ou da empresa de seguros de um país terceiro, de acordo com o método previsto no anexo II.\n\n3. Se, com base nesse cálculo, as autoridades competentes concluírem que a solvência de uma empresa de seguros filial da sociedade gestora de participações no sector dos seguros, da empresa de resseguros ou de uma empresa de seguros de um país terceiro está ou pode vir a estar em risco, tomarão as medidas adequadas ao nível dessa empresa de seguros."
+  },
+  "d2719aaf74310590": {
+   "fragment_id": "Artigo 10.ºA — Cooperação com as autoridades competentes de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 10.ºA — Cooperação com as autoridades competentes de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.ºA — Cooperação com as autoridades competentes de países terceiros\n\n1. A Comissão pode submeter propostas ao Conselho, quer a pedido de um Estado-Membro, quer por sua própria iniciativa, para negociar acordos com um ou mais países terceiros relativamente às modalidades de exercício da supervisão complementar das seguintes empresas:\n\na) Empresas de seguros que tenham, como empresas participantes, empresas na acepção do artigo 2.º com sede num país terceiro;\n\nb) Empresas de seguros de um país terceiro que tenham, como empresas participantes, empresas na acepção do artigo 2.º com sede na Comunidade.\n\n2. Os acordos referidos no n.º 1 destinam-se nomeadamente a garantir que:\n\na) As autoridades competentes dos Estados-Membros possam obter as informações necessárias para a supervisão complementar das empresas de seguros com sede na Comunidade e que tenham filiais ou detenham participações em empresas fora da Comunidade;\n\nb) As autoridades competentes dos países terceiros possam obter as informações necessárias para a supervisão complementar das empresas de seguros com sede no seu território e que tenham filiais ou detenham participações em empresas num ou mais Estados-Membros.\n\n3. Sem prejuízo dos n.^os^ 1 e 2 do artigo 300.º do Tratado, a Comissão, assistida pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma, avaliará o resultado das negociações a que se refere o n.º 1 e a situação daí resultante."
+  },
+  "333230b183b97d87": {
+   "fragment_id": "Artigo 10.ºB — Órgão de gestão das sociedades gestoras de participações no sector dos seguros",
+   "type": "artigo",
+   "heading": "Artigo 10.ºB — Órgão de gestão das sociedades gestoras de participações no sector dos seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.ºB — Órgão de gestão das sociedades gestoras de participações no sector dos seguros\n\nOs Estados-Membros exigem das pessoas que dirigem efectivamente as sociedades gestoras de participações no sector dos seguros que tenham a idoneidade e competência necessárias para desempenhar essas funções."
+  },
+  "4f83afc007969b12": {
+   "fragment_id": "Artigo 11.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, o mais tardar até 5 de Junho de 2000. Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros determinarão que as disposições a que se refere o n.º 1 se apliquem pela primeira vez à fiscalização das contas do exercício que tem início em 1 de Janeiro de 2001 ou durante esse ano civil.\n\n3. Quando os Estados-membros adoptarem as disposições a que se refere o n.º 1, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n4. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva.\n\n5. O mais tardar até 1 de Janeiro de 2006, a Comissão publicará um relatório sobre a aplicação da presente directiva, e, se for caso disso, sobre a necessidade de posterior harmonização."
+  },
+  "d1212ee0ec6d214b": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publição no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "4164a202cb4e3305": {
+   "fragment_id": "Artigo 13.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Destinatários\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "46439e81e46344d3": {
+   "fragment_id": "CÁLCULO DA SOLVÊNCIA CORRIGIDA DAS EMPRESAS DE SEGUROS",
+   "type": "divisao",
+   "heading": "CÁLCULO DA SOLVÊNCIA CORRIGIDA DAS EMPRESAS DE SEGUROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CÁLCULO DA SOLVÊNCIA CORRIGIDA DAS EMPRESAS DE SEGUROS"
+  },
+  "f5398ff91d08e42a": {
+   "fragment_id": "1. ESCOLHA DO MÉTODO DE CÁLCULO E PRINCÍPIOS GERAIS",
+   "type": "divisao",
+   "heading": "1. ESCOLHA DO MÉTODO DE CÁLCULO E PRINCÍPIOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. ESCOLHA DO MÉTODO DE CÁLCULO E PRINCÍPIOS GERAIS\n\nA. Os Estados-membros determinarão que o cálculo da solvência corrigida das empresas de seguros referidas no n.º 1 do artigo 2.º seja efectuado de acordo com um dos métodos descritos no ponto 3. Contudo, um Estado-membro pode determinar que as autoridades competentes autorizem ou imponham a aplicação de um método previsto no ponto 3, diferente do escolhido pelo Estado-membro.\n\nB. ProporcionalidadeO cálculo da solvência corrigida de uma empresa de seguros tomará em consideração a parte proporcional detida pela empresa participante nas suas empresas coligadas. Por «parte proporcional» entende-se quer, quando forem utilizados os métodos 1 ou 2 descritos no ponto 3, a fracção do capital subscrito que é detida, directa ou indirectamente, pela empresa participante quer, quando for utilizado o método 3 descrito no ponto 3, as percentagens utilizadas para a elaboração das contas consolidadas. No entanto, independentemente do método utilizado, quando a empresa coligada for uma filial e tiver um défice de solvência, deverá ser tomado em consideração o défice de solvência total da filial. Todavia, se, no parecer das autoridades competentes, a responsabilidade da empresa-mãe que detém uma parte do capital estiver limitada estritamente e sem ambiguidade a essa parte do capital, essas autoridades competentes poderão permitir que o défice de solvência da filial seja tomado em consideração proporcionalmente. [▼M1](http://publications.europa.eu/resource/celex/32002L0087) Nos casos em que não existam ligações de capital entre algumas das empresas de um grupo segurador, as autoridades competentes determinam a parte proporcional a ter em conta. [▼B](http://publications.europa.eu/resource/celex/31998L0078)\n\nC. Eliminação da dupla utilização dos elementos da margem de solvênciaC.1. **Tratamento geral dos elementos da margem de solvência** Independentemente do método utilizado para o cálculo da solvência corrigida de uma empresa de seguros, deve ser eliminada a dupla utilização dos elementos a considerar na margem de solvência entre as diferentes empresas de seguros tomadas em consideração nesse cálculo. Para o efeito, ao ser calculada a solvência corrigida de uma empresa de seguros a quando tal não for previsto pelos métodos descritos no ponto 3, devem ser eliminados os seguintes montantes: — o valor de qualquer activo dessa empresa de seguros que represente o financiamento de elementos a considerar na margem de solvência de uma das suas empresas de seguros coligadas, — o valor de qualquer activo de uma empresa de seguros coligada dessa empresa de seguros que represente o financiamento de elementos a considerar na margem de solvência dessa empresa de seguros, — o valor de qualquer activo de uma empresa de seguros coligada dessa empresa de seguros que represente o financiamento de elementos a considerar na margem de solvência de qualquer outra empresa de seguros coligada dessa empresa de seguros. C.2. **Tratamento de determinados elementos** Sem prejuízo do disposto no ponto C.1: — as reservas de lucros e os lucros futuros gerados numa empresa de seguros de vida coligada da empresa de seguros em relação à qual se efectua o cálculo da solvência corrigida, e — as fracções subscritas mas não realizadas do capital de uma empresa de seguros coligada da empresa de seguros em relação à qual se efectua o cálculo da solvência corrigida, só podem ser incluídos no cálculo na medida em que sejam a considerar para satisfazer o requisito de margem de solvência dessa empresa coligada. No entanto, qualquer fracção subscrita mas não realizada do capital que represente uma obrigação potencial para a empresa participante deve ser inteiramente excluída do cálculo. As fracções subscritas mas não realizadas do capital da empresa de seguros participante que representem uma obrigação potencial para a empresa de seguros coligada devem também ser excluídas do cálculo. As fracções subscritas mas não realizadas do capital de uma empresa de seguros coligada que representem uma obrigação potencial para outra empresa de seguros coligada da mesma empresa participante devem ser excluídas do cálculo. C.3. **Transferibilidade** Se as autoridades competentes estimarem que certos elementos, que não os referidos no ponto C.2, a considerar na margem de solvência de uma empresa de seguros coligada, não podem ser efectivamente disponibilizados para satisfazer o requisito de margem de solvência da empresa de seguros participante em relação à qual se efectua o cálculo da solvência corrigida, esses elementos só podem ser incluídos no cálculo na medida em que sejam a considerar para satisfazer o requisito de margem de solvência da empresa coligada. C.4. A soma dos elementos referidos nos pontos C.2 e C.3 não pode ultrapassar o requisito de margem de solvência da empresa de seguros coligada.\n\nC.4. A soma dos elementos referidos nos pontos C.2 e C.3 não pode ultrapassar o requisito de margem de solvência da empresa de seguros coligada.\n\nD. Eliminação da criação intragrupo de capitalNo cálculo da solvência corrigida não deve ser tomado em consideração nenhum elemento a considerar na margem de solvência que provenha de um financiamento recíproco entre a empresa de seguros e: — uma empresa coligada, — uma empresa participante, — uma outra empresa coligada de qualquer das suas empresas participantes. Além disso, não deve ser tomado em consideração nenhum elemento a considerar na margem de solvência de uma empresa de seguros coligada da empresa de seguros em relação à qual se efectua o cálculo da solvência corrigida, quando o elemento em questão provenha de um financiamento recíproco com uma outra empresa coligada dessa empresa de seguros. Existe financiamento recíproco, designadamente, quando uma empresa de seguros ou qualquer das suas empresas coligadas detém uma participação noutra empresa que, directa ou indirectamente, detém um elemento a considerar na margem de solvência da primeira empresa, ou lhe concede empréstimos.\n\nE. As autoridades competentes assegurarão que a solvência corrigida seja calculada com a mesma frequência que a prevista nas Directivas 73/239/CEE e 79/267/CEE no que diz respeito ao cálculo da margem de solvência das empresas de seguros. Os elementos do activo e do passivo devem ser avaliados de acordo com as disposições pertinentes das Directivas 73/239/CEE, 79/267/CEE e 91/674/CEE ([^13^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#E0013))."
+  },
+  "7c03c08d33a83c8d": {
+   "fragment_id": "2. APLICAÇÃO DOS MÉTODOS DE CÁLCULO",
+   "type": "divisao",
+   "heading": "2. APLICAÇÃO DOS MÉTODOS DE CÁLCULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. APLICAÇÃO DOS MÉTODOS DE CÁLCULO"
+  },
+  "a27e31df5bb04edf": {
+   "fragment_id": "2.1. Empresas de seguros coligadas",
+   "type": "divisao",
+   "heading": "2.1. Empresas de seguros coligadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Empresas de seguros coligadas\n\nO cálculo da solvência corrigida será efectuado de acordo com os princípios gerais e métodos estabelecidos no presente anexo.\n\nEm todos os métodos, quando a empresa de seguros tiver mais de uma empresa de seguros coligada, o cálculo da solvência corrigida será efectuado integrando cada uma dessas empresas de seguros coligadas.\n\nNo caso de participações sucessivas (por exemplo, no caso de uma empresa de seguros ser uma empresa participante de outra empresa de seguros que, por seu turno, seja igualmente uma empresa participante de uma empresa de seguros), o cálculo da solvência corrigida será efectuado a nível de cada empresa de seguros participante que tenha pelo menos uma empresa de seguros coligada.\n\nOs Estados-membros podem renunciar ao cálculo da solvência corrigida de uma empresa de seguros:\n\n— no caso de se tratar de uma empresa coligada de outra empresa de seguros autorizada no mesmo Estado-membro e de essa empresa coligada ser tomada em consideração no cálculo da solvência corrigida da empresa de seguros participante, ou\n\n— no caso de se tratar quer de uma empresa coligada, ou de uma sociedade gestora de participações no sector dos seguros, ou ainda de uma empresa de resseguros que tenha a sede no mesmo Estado-membro que a empresa de seguros e se a sociedade gestora de participações no sector dos seguros, ou a empresa de resseguros, ou ainda a empresa de seguros coligada, forem tomadas em consideração no cálculo.\n\nOs Estados-membros podem igualmente renunciar ao cálculo de solvência corrigida de uma empresa de seguros, no caso de uma empresa de seguros coligada, ou de outra empresa de seguros, ou de uma empresa de resseguros, ou ainda de uma sociedade gestora de participações no sector dos seguros que tenha a sede noutro Estado-membro e se as autoridades competentes dos Estados-membros em causa estiverem de acordo em atribuir à autoridade competente desse outro Estado-membro o exercício da fiscalização complementar.\n\nEm qualquer caso, a derrogação só poderá ser concedida se os elementos a considerar na margem de solvência das empresas de seguros tomadas em consideração no cálculo estiverem adequadamente repartidos entre as referidas empresas, a contento das autoridades competentes.\n\nOs Estados-membros podem prever que, quando uma empresa de seguros coligada tenha a sua sede num Estado-membro distinto daquele onde se situa a empresa de seguros em relação à qual se efectua o cálculo da solvência corrigida, o cálculo tome em consideração, no que se refere à empresa coligada, a situação de solvência tal como avaliada pelas autoridades competentes desse outro Estado-membro."
+  },
+  "c8644481946cf86d": {
+   "fragment_id": "2.2. Empresas de resseguros coligadas",
+   "type": "divisao",
+   "heading": "2.2. Empresas de resseguros coligadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Empresas de resseguros coligadas\n\nNo cálculo da solvência corrigida de uma empresa de seguros participante de uma empresa de resseguros, esta empresa de resseguros coligada será tratada, exclusivamente para efeitos do cálculo, de forma análoga a uma empresa de seguros coligada, sendo aplicáveis os princípios gerais e os métodos descritos no presente anexo.\n\nPara o efeito, deverá calcular-se um requisito de solvência nocional para cada empresa de resseguros coligada, de acordo com as mesmas regras que as previstas nos n.^os^ 2 a 5 do artigo 16.º da Directiva 73/239/CEE ou no artigo 19.º da Directiva 79/267/CEE. Contudo, em caso de dificuldades importantes na aplicação destas regras, as autoridades competentes poderão admitir que o requisito de solvência nocional «vida» seja calculado com base no primeiro resultado previsto no n.º 3 do artigo 16.º da Directiva 73/239/CEE. Serão considerados como elementos a considerar na margem de solvência nocional os mesmos elementos que os previstos no n.º 1 do artigo 16.º da Directiva 73/239/CEE e no artigo 18.º da Directiva 79/267/CEE. Os elementos do activo e do passivo devem ser avaliados de acordo com as disposições dessas directivas e da Directiva 91/674/CEE."
+  },
+  "507ef8f58cbc7773": {
+   "fragment_id": "2.3. Sociedades gestoras de participações no sector dos seguros intermédias",
+   "type": "divisao",
+   "heading": "2.3. Sociedades gestoras de participações no sector dos seguros intermédias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.3. Sociedades gestoras de participações no sector dos seguros intermédias\n\nNo cálculo da solvência corrigida de uma empresa de seguros detentora de uma participação numa empresa de seguros, ou numa empresa de resseguros, ou ainda numa empresa de seguros de um país terceiro, através de uma sociedade gestora de participações no sector dos seguros, tomar-se-á em consideração a situação da sociedade gestora de participações no sector dos seguros intermédia. Exclusivamente para efeitos deste cálculo, a efectuar de acordo com os princípios gerais e os métodos descritos no presente anexo, a sociedade gestora de participações no sector dos seguros será tratada como se fosse uma empresa de seguros sujeita a um requisito de solvência igual a zero e, no que se refere ao elementos elegíveis para a margem de solvência, estivesse sujeita às mesmas condições que as estabelecidas no n.º 1 do artigo 16.º da Directiva 73/239/CEE ou no artigo 18.º da Directiva 79/267/CEE."
+  },
+  "5fd157d84a7779cf": {
+   "fragment_id": "2.4. Empresas de seguros ou de resseguros coligadas cuja sede se situe em países terceiros",
+   "type": "divisao",
+   "heading": "2.4. Empresas de seguros ou de resseguros coligadas cuja sede se situe em países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4. Empresas de seguros ou de resseguros coligadas cuja sede se situe em países terceiros"
+  },
+  "1390a5150ca502c5": {
+   "fragment_id": "A. Empresas de seguros coligadas de países terceiros",
+   "type": "divisao",
+   "heading": "A. Empresas de seguros coligadas de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Empresas de seguros coligadas de países terceiros\n\nNo cálculo da solvência corrigida de uma empresa de seguros participante de uma empresa de seguros de um país terceiro, esta última será tratada, exclusivamente para efeitos do cálculo, de forma análoga a uma empresa de seguros coligada, sendo aplicáveis os princípios gerais e os métodos descritos no presente anexo.\n\nTodavia, se o país terceiro onde essa empresa coligada tiver a sua sede a sujeitar a uma autorização e lhe impuser um requisito de solvência pelo menos comparável ao previsto nas Directivas 73/239/CEE ou 79/267/CEE tendo em conta os elementos de cobertura desse requisito, os Estados-membros podem prever que o cálculo tome em consideração, quanto a esta última empresa, o requisito de solvência e os elementos que o país terceiro em causa tomar em consideração para satisfazer esse requisito."
+  },
+  "32d2ec70a60b4520": {
+   "fragment_id": "B. Empresas de resseguros coligadas de países terceiros",
+   "type": "divisao",
+   "heading": "B. Empresas de resseguros coligadas de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Empresas de resseguros coligadas de países terceiros\n\nNão obstante o ponto 2.2, no cálculo da solvência corrigida de uma empresa de seguros participante de uma empresa de resseguros que tenha a sua sede num país terceiro, e sob reserva das condições enunciadas no ponto A, os Estados-membros podem prever que o cálculo tome em consideração, quanto a esta última empresa, o requisito de fundos próprios e os elementos que o país terceiro em causa toma em consideração para satisfazer esse requisito. Nos casos em que apenas as empresas de seguros desse país terceiro estiverem sujeitas a essas disposições, o requisito nocional de fundos próprios da empresa de resseguros coligada e os elementos a considerar para satisfazer esse requisito nocional podem ser calculados como se se tratasse de uma empresa de seguros coligada desse país terceiro."
+  },
+  "ae830810c80370e8": {
+   "fragment_id": "2.4A. Instituições de crédito, empresas de investimento e instituições financeiras coligadas",
+   "type": "divisao",
+   "heading": "2.4A. Instituições de crédito, empresas de investimento e instituições financeiras coligadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.4A. Instituições de crédito, empresas de investimento e instituições financeiras coligadas\n\nNo cálculo da solvência corrigida de uma empresa de seguros participante de uma instituição de crédito, empresa de investimento ou instituição financeira, aplicam-se *mutatis mutandis* as regras fixadas no n.º 1 do artigo 16.º da Directiva 73/239/CEE e no artigo 18.º da Directiva 79/267/CEE para a dedução dessas participações, bem como o disposto sobre a faculdade dos Estados-Membros de, em determinadas condições, autorizarem métodos alternativos e permitirem que essas participações não sejam deduzidas."
+  },
+  "229ed4cb33782e43": {
+   "fragment_id": "2.5. Indisponibilidade da informação necessária",
+   "type": "divisao",
+   "heading": "2.5. Indisponibilidade da informação necessária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.5. Indisponibilidade da informação necessária\n\nQuando as autoridades competentes não puderem, por qualquer motivo, dispor das informações necessárias para o cálculo da solvência corrigida de uma empresa de seguros, relativas a uma empresa coligada cuja sede se situe num Estado-membro ou num país terceiro, o valor contabilístico desta empresa na empresa de seguros participante é deduzido dos elementos a considerar na margem de solvência corrigida. Nesse caso, nenhuma mais-valia latente associada a essa participação será admitida como elemento a considerar na margem de solvência corrigida."
+  },
+  "119284b5edccf612": {
+   "fragment_id": "3. MÉTODOS DE CÁLCULO",
+   "type": "divisao",
+   "heading": "3. MÉTODOS DE CÁLCULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. MÉTODOS DE CÁLCULO"
+  },
+  "e6dbf4e323f29af7": {
+   "fragment_id": "Método 1: Método de dedução e agregação",
+   "type": "divisao",
+   "heading": "Método 1: Método de dedução e agregação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método 1: Método de dedução e agregação\n\nA solvência corrigida de uma empresa de seguros participante é a diferença entre:\n\ni) A soma:\n\na) Dos elementos a considerar na margem de solvência da empresa de seguros participante, e\n\nb) Da parte proporcional da empresa de seguros participante nos elementos a considerar na margem de solvência da empresa de seguros coligada,\n\nii) A soma:\n\na) Do valor contabilístico da empresa de seguros coligada na empresa de seguros participante,\n\nb) Do requisito de solvência da empresa de seguros participante, e\n\nc) Da parte proporcional do requisito de solvência da empresa de seguros coligada.\n\nQuando a participação na empresa de seguros coligada consista, no todo ou em parte, numa titularidade indirecta, a subalínea a) da alínea ii) deverá incluir o valor dos elementos detidos indirectamente, tomando em consideração os interesses sucessivos pertinentes; a subalínea b) da alínea i) e a subalínea c) da alínea ii) deverão incluir, respectivamente, as partes proporcionais correspondentes dos elementos a considerar na margem de solvência da empresa de seguros coligada e as do requisito de solvência da empresa de seguros coligada."
+  },
+  "aa9c7854c24465c2": {
+   "fragment_id": "Método 2: Método de dedução de um requisito",
+   "type": "divisao",
+   "heading": "Método 2: Método de dedução de um requisito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método 2: Método de dedução de um requisito\n\nA solvência corrigida da empresa de seguros participante é a diferença entre:\n\n— a soma dos elementos a considerar na margem de solvência da empresa de seguros participante\n\n— e\n\n— a soma:\n\na) do requisito de solvência da empresa de seguros participante e\n\nb) da parte proporcional do requisito de solvência da empresa de seguros coligada.\n\nPara efeitos de avaliação dos elementos a considerar na margem de solvência, as participações, na acepção da presente directiva, serão avaliadas pelo método da equivalência patrimonial, de acordo com a opção prevista no n.º 2, alínea b), do artigo 59.º da Directiva 78/660/CEE."
+  },
+  "369bfa1beec57c15": {
+   "fragment_id": "Método 3: Método baseado na consolidação contabilística",
+   "type": "divisao",
+   "heading": "Método 3: Método baseado na consolidação contabilística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método 3: Método baseado na consolidação contabilística\n\nO cálculo da solvência corrigida da empresa de seguros participante é efectuado a partir das contas consolidadas. A solvência corrigida da empresa de seguros participante é a diferença entre:\n\nos elementos a considerar na margem de solvência calculados a partir dos dados consolidados e\n\na) A soma do requisito de solvência da empresa de seguros participante e da parte proporcional dos requisitos de solvência das empresas de seguros coligadas, correspondente às percentagens utilizadas para a elaboração das contas consolidadas, ou\n\nb) O requisito de solvência calculado a partir dos dados consolidados.\n\nO disposto nas Directivas 73/239/CEE, 79/267/CEE e 91/674/CEE é aplicável ao cálculo dos elementos a considerar na margem de solvência e do requisito de solvência a partir dos dados consolidados."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "4c0d1d12cfdb7d8b": {
+   "fragment_id": "FISCALIZAÇÃO COMPLEMENTAR PARA AS EMPRESAS DE SEGUROS QUE SEJAM FILIAIS DE UMA SOCIEDADE GESTORA DE PARTICIPAÇÕES NO SECTOR DOS SEGUROS, DE UMA EMPRESA DE RESSEGUROS OU DE UMA EMPRESA DE SEGUROS DE UM PAÍS TERCEIRO",
+   "type": "divisao",
+   "heading": "FISCALIZAÇÃO COMPLEMENTAR PARA AS EMPRESAS DE SEGUROS QUE SEJAM FILIAIS DE UMA SOCIEDADE GESTORA DE PARTICIPAÇÕES NO SECTOR DOS SEGUROS, DE UMA EMPRESA DE RESSEGUROS OU DE UMA EMPRESA DE SEGUROS DE UM PAÍS TERCEIRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FISCALIZAÇÃO COMPLEMENTAR PARA AS EMPRESAS DE SEGUROS QUE SEJAM FILIAIS DE UMA SOCIEDADE GESTORA DE PARTICIPAÇÕES NO SECTOR DOS SEGUROS, DE UMA EMPRESA DE RESSEGUROS OU DE UMA EMPRESA DE SEGUROS DE UM PAÍS TERCEIRO\n\n1. No caso das várias empresas de seguros a que se refere o n.º 2 do artigo 2.º que sejam filiais de uma sociedade gestora de participações no sector dos seguros, de uma empresa de resseguros ou de uma empresa de seguros de um país terceiro e que estejam estabelecidas em diferentes Estados-membros, as autoridades competentes garantirão que o método descrito no presente anexo seja aplicado de um modo coerente. As autoridades competentes exercerão a fiscalização complementar com a mesma frequência que a prevista nas Directivas 73/239/CEE e 79/267/CEE no que respeita ao cálculo da margem de solvência das empresas de seguros.\n\n2. Os Estados-membros podem renunciar ao cálculo previsto no presente anexo no que se refere a uma empresa de seguros: — se essa empresa de seguros for uma empresa coligada de outra empresa de seguros e se for tomada em consideração no cálculo previsto no presente anexo efectuado para essa outra empresa, — se essa empresa de seguros e uma ou várias outras empresas de seguros autorizadas no mesmo Estado-membro tiverem como empresa-mãe a mesma sociedade gestora de participações no sector dos seguros, empresa de resseguros ou empresa de seguros de um país terceiro e a empresa de seguros for tomada em consideração no cálculo previsto no presente anexo efectuado para uma dessas empresas, — se essa empresa de seguros e uma ou várias outras empresas de seguros autorizadas noutros Estados-membros tiverem como empresa-mãe a mesma sociedade gestora de participações no sector dos seguros, empresa de resseguros ou empresa de seguros de um país terceiro e tiver sido celebrado um acordo nos termos do n.º 2 do artigo 4.º que atribua o exercício da fiscalização complementar prevista no presente anexo à autoridade de controlo de um outro Estado-membro. Em caso de participações sucessivas (por exemplo, uma sociedade gestora de participações no sector dos seguros ou uma empresa de resseguros que por sua vez é detida por outra sociedade gestora de participações no sector dos seguros, uma empresa de resseguros ou uma empresa de seguros de um país terceiro), os Estados-membros podem aplicar os cálculos previstos no presente anexo apenas ao nível da última empresa-mãe da empresa de seguros que tem a qualidade de sociedade gestora de participações no sector dos seguros, de empresa de resseguros ou de empresa de seguros de um país terceiro.\n\n3. As autoridades competentes assegurarão que sejam efectuados, ao nível da sociedade gestora de participações no sector dos seguros, da empresa de resseguros ou da empresa de seguros de um país terceiro cálculos análogos aos que se encontram descritos no anexo I. Esta analogia consiste na aplicação dos princípios gerais e dos métodos descritos no anexo I ao nível da sociedade gestora de participações no sector dos seguros, empresa de resseguros ou empresa de seguros de um país terceiro. Exclusivamente para efeitos deste cálculo, a empresa-mãe será tratada como se fosse uma empresa de seguros sujeita: — a um requisito de solvência igual a zero quando se trate de uma sociedade gestora de participações no sector dos seguros, — a um requisito de solvência nocional tal como previsto no ponto 2.2 do anexo I quando se trate de uma empresa de resseguros, ou tal como previsto no ponto 2.4.B) do anexo I, quando se trate de uma empresa de resseguros que tenha sede num país terceiro, — a um requisito de solvência determinado segundo os princípios previstos no ponto 2.4.A) do anexo I, quando se trate de uma empresa de seguros de um país terceiro, e, no que se refere aos elementos a considerar na margem de solvência, sujeita às mesmas condições que as constantes do n.º 1 do artigo 16.º da Directiva 73/239/CEE ou do artigo 18.º da Directiva 79/267/CEE.\n\n4. Indisponibilidade da informação necessáriaQuando as autoridades competentes não puderem, por qualquer motivo, dispor das informações necessárias para o cálculo previsto no presente anexo relativas a uma empresa coligada que tenha sede num Estado-membro ou num país terceiro, o valor contabilístico desta empresa na empresa participante é deduzido dos elementos a considerar no cálculo previsto no presente anexo. Nesse caso, nenhuma mais-valia latente associada a essa participação será admitida como elemento a considerar nesse cálculo.\n\n---"
+  },
+  "382ca2d16dfa0828": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0001)) JO C 341 de 19.12.1995, p. 16 e\n\n> JO C 108 de 7.4.1998, p. 48.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0002)) JO C 174 de 17.6.1996, p. 16.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 23 de Outubro de 1997 (JO C 339 de 10.11.1997, p. 130), posição comum do Conselho de 30 de Março de 1998 (JO C 204 de 30.6.1998, p. 1) e decisão do Parlamento Europeu de 16 de Setembro de 1998 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 13 de Outubro de 1998.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0004)) JO L 228 de 16.8.1973, p. 3. Directiva com a última redacção que lhe foi dada pela Directiva 95/26/CE (JO L 168 de 18.7.1995, p. 7).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0005)) JO L 63 de 13.3.1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 95/26/CE.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0006)) JO L 228 de 11.8.1992, p. 1. Directiva alterada pela Directiva 95/26/CE.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0007)) JO L 360 de 9.12.1992, p. 1. Directiva alterada pela Directiva 95/26/CE.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0008)) Sétima Directiva 83/349/CEE do Conselho, de 13 de Junho de 1983, baseada no n.º 3, alínea g), do artigo 54.º do Tratado e relativa às contas consolidadas (JO L 193 de 18.7.1983, p. 1). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0009)) Quarta Directiva 78/660/CEE do Conselho, de 25 de Julho de 1978, baseada no artigo 54.º, n.º 3, alínea g), do Tratado e relativa às contas anuais, de certas formas de sociedades (JO L 222 de 14.8.1978, p. 11). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0010)) JO L 35 de 11.2.2003.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0011)) Primeira Directiva 77/780/CEE do Conselho, de 12 de Dezembro de 1977, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade dos estabelecimentos de crédito e ao seu exercício (JO L 322 de 17.12.1977, p. 30). Directiva com a última redacção que lhe foi dada pela Directiva 96/13/CE (JO L 66 de 16.3.1996, p. 15).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0012)) Directiva 93/22/CEE do Conselho, de 10 de Maio de 1993, relativa aos serviços de investimento no domínio dos valores mobiliários (JO L 141 de 11.6.1993, p. 27). Directiva com a última redacção que lhe foi dada pela Directiva 97/9/CE (JO L 84 de 26.3.1997, p. 22).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/138a1bc6-1cbb-4958-a428-954b55f9f299.0010.03/DOC_1#src.E0013)) Directiva 91/674/CEE do Conselho, de 19 de Dezembro de 1991, relativa às contas anuais e às contas consolidadas das empresas de seguros (JO L 374 de 31.12.1991, p. 7)."
+  },
+  "727e35e4f367ab65": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Outubro de 1998\n\nrelativa à supervisão complementar das empresas de seguros e de resseguros que fazem parte de um grupo segurador ou de um grupo ressegurador\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 57.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 189.ºB do Tratado ([^3^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0003)),\n\n(1) Considerando que a Primeira Directiva 73/239/CEE do Conselho, de 24 de Julho de 1973, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguro directo não vida e ao seu exercício ([^4^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0004)), e a Primeira Directiva 79/267/CEE do Conselho, de 5 de Março de 1979, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguro directo de vida e ao seu exercício ([^5^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0005)), exigem que as empresas de seguros disponham de uma margem de solvência;\n\n(2) Considerando que, por força da Directiva 92/49/CEE do Conselho, de 18 de Junho de 1992, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro directo não vida e que altera as Directivas 73/239/CEE e 88/357/CEE (terceira directiva sobre o seguro não vida) ([^6^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0006)), e da Directiva 92/96/CEE do Conselho, de 10 de Novembro de 1992, que estabelece a coordenação das disposições legislativas, regulamentares e administrativas relativas ao seguro directo vida e que altera as Directivas 79/267/CEE e 90/619/CEE (terceira directiva sobre o seguro de vida) ([^7^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0007)), o acesso à actividade seguradora e o seu exercício se encontram subordinados à concessão de uma autorização administrativa única, emitida pelas autoridades competentes do Estado-membro no qual se situa a sede da empresa de seguros (Estado-membro de origem); que esta autorização permite que as empresas desenvolvam as suas actividades em toda a Comunidade, quer em regime de liberdade de estabelecimento quer em regime de livre prestação de serviços; que as autoridades competentes dos Estados-membros de origem são responsáveis pela fiscalização da solidez financeira das empresas de seguros, e nomeadamente da sua solvabilidade;\n\n(3) Considerando que as medidas relativas à fiscalização complementar das empresas de seguros que façam parte de um grupo de seguros devem permitir às autoridades incumbidas da fiscalização de uma empresa de seguros fazer um juízo mais fundamentado sobre a situação financeira daquelas; que esta fiscalização complementar deve tomar em consideração certas empresas que não se encontram actualmente sujeitas a fiscalização ao abrigo das directivas comunitárias; que a presente directiva não implica de modo algum que os Estados-membros sejam obrigados a exercer uma função fiscalizadora sobre essas empresas individualmente consideradas;\n\n(4) Considerando que, num mercado comum dos seguros, as empresas de seguros estão em concorrência directa entre si, pelo que as regras relativas aos requisitos de capital devem ser equivalentes; que, para o efeito, os critérios aplicados na determinação da fiscalização complementar não devem ser deixados unicamente à apreciação dos Estados-membros; que, sendo assim, a adopção de regras de base comuns servirá da melhor forma os interesses da Comunidade, na medida em que evitará distorções da concorrência; que é necessário eliminar certas diferenças entre as legislações dos Estados-membros em matéria de supervisão prudencial das empresas de seguros que fazem parte de um grupo de seguros;\n\n(5) Considerando que o sistema adoptado consiste em realizar a harmonização essencial, necessária e suficiente para alcançar um reconhecimento mútuo dos sistemas de supervisão prudencial neste domínio; que a presente directiva tem, nomeadamente, por objectivo a protecção dos interesses dos segurados;\n\n(6) Considerando que certas disposições da presente directiva definem normas mínimas; que o Estado-membro de origem pode criar regras mais estritas em relação às empresas de seguros autorizadas pelas suas próprias autoridades competentes;\n\n(7) Considerando que a presente directiva prevê a fiscalização complementar de todas as empresas de seguros que sejam empresas participantes em pelo menos uma empresa de seguros, uma empresa de resseguros ou uma empresa de seguros de um país terceiro, bem como a fiscalização complementar, segundo regras diferentes, de todas as empresas de seguros cuja empresa-mãe seja uma sociedade gestora de participações no sector de seguros, uma empresa de resseguros, uma empresa de seguros de um país terceiro ou uma sociedade gestora de participações mista de seguros; que a fiscalização das empresas de seguros numa base individual por parte das autoridades competentes continua a ser o princípio fundamental da fiscalização da actividade seguradora;\n\n(8) Considerando que é necessário calcular a situação de solvência corrigida das empresas de seguros que fazem parte de um grupo de seguros; que as autoridades competentes na Comunidade aplicam diferentes métodos, a fim de tomarem em consideração as repercussões sobre a situação financeira das empresas de seguros decorrentes do facto de estas fazerem parte de um grupo de seguros; que a presente directiva estabelece três métodos para efeitos desse cálculo; que se aceita o princípio de que estes métodos são equivalentes do ponto de vista prudencial;\n\n(9) Considerando que a solvência de uma empresa de seguros filial de uma sociedade gestora de participações no sector seguros, de uma empresa de resseguros ou de uma empresa de seguros de um país terceiro pode ser afectada pelos recursos financeiros do grupo de que faz parte a empresa de seguros e pela repartição dos recursos financeiros no interior do grupo; que é importante dar às autoridades competentes meios para exercerem uma fiscalização complementar e tomarem medidas adequadas ao nível da empresa de seguros quando a solvência desta estiver ou puder vir a estar em risco;\n\n(10) Considerando que as autoridades competentes deverão ter acesso a todas as informações úteis para o exercício da fiscalização complementar; que deverá ser instituída uma colaboração entre as autoridades responsáveis pela fiscalização das empresas de seguros, bem como entre as autoridades responsáveis pela fiscalização dos diferentes sectores financeiros;\n\n(11) Considerando que determinados tipos de transacções intragrupo são susceptíveis de afectar a situação financeira de uma empresa de seguros; que as autoridades competentes deverão poder exercer uma fiscalização geral dessas operações intragrupo e tomar as medidas adequadas ao nível da empresa de seguros quando a solvência da empresa de seguros estiver ou puder vir a estar em risco,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "2e8d1d62d3e600a4": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) *Empresa de seguros:* uma empresa que tenha recebido uma autorização administrativa nos termos do artigo 6.º da Directiva 73/239/CEE ou do artigo 6.º da Directiva 79/267/CEE;\n\nb) *Empresa de seguros de um país terceiro:* uma empresa que, se a sua sede estivesse situada na Comunidade, seria obrigada a dispor de uma autorização nos termos do artigo 6.º da Directiva 73/239/CEE ou do artigo 6.º da Directiva 79/267/CEE;\n\nc) *Empresa de resseguros:* uma empresa que tenha recebido uma autorização administrativa nos termos do artigo 3.º da Directiva 2005/68/CE do Parlamento Europeu e do Conselho, de 16 de Novembro de 2005, relativa ao resseguro ([^8^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0028));\n\nd) *Empresa-mãe:* uma empresa-mãe na acepção do artigo 1.º da Directiva 83/349/CEE ([^9^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0008)), bem como qualquer empresa que, no parecer das autoridades competentes, exerça efectivamente uma influência dominante sobre outra empresa;\n\ne) *Filial:* uma empresa filial na acepção do artigo 1.º da Directiva 83/349/CEE, bem como qualquer empresa sobre a qual, no parecer das autoridades competentes, uma empresa-mãe exerça efectivamente uma influência dominante. Qualquer empresa filial de uma empresa filial é igualmente considerada como filial da empresa-mãe de que essa empresa depende;\n\nf) *Participação:* uma participação na acepção da primeira frase do artigo 17.º da Directiva 78/660/CEE ([^10^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0009)) ou a titularidade, directa ou indirecta, de 20 % ou mais dos direitos de voto ou do capital de uma empresa;\n\ng) *Empresa participante:* uma empresa que seja uma empresa-mãe ou uma empresa que detenha uma participação, ou uma empresa ligada a outra empresa por uma relação na acepção do n.º 1 do artigo 12.º da Directiva 83/349/CEE;\n\nh) *Empresa coligada:* uma empresa que seja ou uma filial, ou qualquer outra empresa na qual é detida uma participação, ou uma empresa ligada a outra empresa por uma relação na acepção do n.º 1 do artigo 12.º da Directiva 83/349/CEE;\n\ni) *Sociedade gestora de participações no sector dos seguros:* uma empresa-mãe cuja actividade principal consista na aquisição e detenção de participações em empresas filiais, quando essas empresas sejam exclusiva ou principalmente empresas de seguros, empresas de resseguros ou empresas de seguros ou de resseguros de um país terceiro, sendo pelo menos uma destas filiais uma empresa de seguros ou uma empresa de resseguros que não seja uma sociedade gestora de participações mista de seguros na acepção da Directiva 2002/87/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002, relativa à supervisão complementar de instituições de crédito, empresas de seguros e empresas de investimento de um conglomerado financeiro ([^11^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0029));\n\nj) *Sociedade gestora de participações mista de seguros:* uma empresa-mãe que não seja uma empresa de seguros, uma empresa de seguros de um país terceiro, uma empresa de resseguros, uma empresa de resseguros de um país terceiro, uma sociedade gestora de participações no sector dos seguros ou uma sociedade gestora de participações mista na acepção da Directiva 2002/87/CE, sendo pelo menos uma das suas filiais uma empresa de seguros ou uma empresa de resseguros;\n\nk) *Autoridades competentes:* as autoridades nacionais que exercem, por força de lei ou de regulamentação, a supervisão das empresas de seguros ou das empresas de resseguros;\n\nl) *Empresa de resseguros de um país terceiro:* uma empresa que, se a sua administração central estivesse situada na Comunidade, seria obrigada a dispor de uma autorização nos termos do artigo 3.º da Directiva 2005/68/CE."
+  },
+  "46d539a741af620c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAplicabilidade da supervisão complementar das empresas de seguros e das empresas de resseguros\n\n1. Para além das disposições da Directiva 73/239/CEE, da Directiva 2002/83/CE do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002, relativa aos seguros de vida ([^12^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0030)), e da Directiva 2005/68/CE, que estabelecem as regras em matéria de supervisão das empresas de seguros e das empresas de resseguros, os Estados-Membros devem prever a supervisão complementar das empresas de seguros e das empresas de resseguros que sejam empresas participantes pelo menos numa empresa de seguros, numa empresa de resseguros ou numa empresa de seguros ou de resseguros de um país terceiro, segundo as regras constantes dos artigos 5.º, 6.º, 8.º e 9.º da presente directiva.\n\n2. Todas as empresas de seguros ou de resseguros cuja empresa-mãe seja uma sociedade gestora de participações no sector dos seguros, uma empresa de seguros ou uma empresa de resseguros de um país terceiro estão sujeitas, segundo as regras previstas no n.º 2 do artigo 5.º e nos artigos 6.º, 8.º e 10.º, a uma supervisão complementar.\n\n3. Todas as empresas de seguros ou de resseguros cuja empresa-mãe seja uma sociedade gestora de participações mista de seguros estão sujeitas, na medida e segundo as regras previstas no n.º 2 do artigo 5.º e nos artigos 6.º e 8.º, a uma supervisão complementar."
+  },
+  "13ce8d4c43a3d418": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÂmbito da supervisão complementar\n\n1. O exercício da supervisão complementar nos termos do artigo 2.º não implica de modo algum que as autoridades competentes sejam obrigadas a exercer uma função de supervisão sobre empresas de seguros ou de resseguros de um país terceiro, sobre sociedades gestoras de participações no sector dos seguros ou sobre sociedades gestoras de participações mistas de seguros, consideradas a título individual.\n\n2. A supervisão complementar tem em conta as seguintes empresas a que se referem os artigos 5.º, 6.º, 8.º, 9.º e 10.º:\n\n— empresas coligadas da empresa de seguros ou de resseguros,\n\n— empresas participantes da empresa de seguros ou da empresa de resseguros,\n\n— empresas coligadas de uma empresa participante da empresa de seguros ou de resseguros.\n\n3. Os Estados-Membros podem decidir não ter em conta, na supervisão complementar prevista no artigo 2.º, empresas cuja administração central se situe num país terceiro em que existam obstáculos jurídicos à transferência das informações necessárias, sem prejuízo do disposto no ponto 2.5 do anexo I e no ponto 4 do anexo II.\n\nAlém disso, as autoridades competentes incumbidas do exercício da supervisão complementar podem decidir, caso a caso, não ter em conta uma empresa na supervisão complementar prevista no artigo 2.º nos seguintes casos:\n\n— quando a empresa a incluir apresentar um interesse pouco significativo, atendendo aos objectivos da supervisão complementar das empresas de seguros ou de resseguros,\n\n— quando a inclusão da situação financeira da empresa for inadequada ou susceptível de induzir em erro, atendendo aos objectivos da supervisão complementar das empresas de seguros ou de resseguros."
+  },
+  "a06eaa581897c8dd": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAutoridades competentes incumbidas de exercer a supervisão complementar\n\n1. A supervisão complementar é exercida pelas autoridades competentes do Estado-Membro em que a empresa de seguros ou de resseguros tenha obtido a autorização administrativa nos termos do artigo 6.º da Directiva 73/239/CEE, do artigo 4.º da Directiva 2002/83/CE ou do artigo 3.º da Directiva 2005/68/CE.\n\n2. No caso de empresas de seguros ou de resseguros autorizadas em dois ou mais Estados-Membros terem como empresa-mãe a mesma sociedade gestora de participações no sector dos seguros, a mesma empresa de seguros de um país terceiro, a mesma empresa de resseguros de um país terceiro ou a mesma sociedade gestora de participações mista de seguros, as autoridades competentes dos Estados-Membros em causa podem chegar a um acordo no sentido de designar as que, de entre elas, serão incumbidas de exercer a supervisão complementar.\n\n3. Caso num Estado-Membro exista mais do que uma autoridade competente em matéria de supervisão prudencial das empresas de seguros e de resseguros, esse Estado-Membro tomará as medidas necessárias à organização da coordenação entre essas autoridades."
+  },
+  "3910f9a17ede9ff3": {
+   "fragment_id": "Artigo 5.º — Disponibilidade e qualidade das informações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disponibilidade e qualidade das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disponibilidade e qualidade das informações\n\n1. Os Estados-Membros devem determinar que as autoridades competentes exijam que todas as empresas de seguros e de resseguros sujeitas a supervisão complementar disponham de procedimentos de controlo interno adequados à produção de dados e informações que possam ser úteis para efeitos do exercício dessa supervisão complementar.\n\n2. Os Estados-membros tomarão as medidas adequadas para que, no âmbito da sua competência, nenhum obstáculo de natureza jurídica impeça as empresas sujeitas à fiscalização complementar ou as respectivas empresas coligadas ou participantes de trocarem entre si informações úteis para efeitos do exercício dessa fiscalização complementar."
+  },
+  "cfb5fa1b86ff772e": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAcesso às informações\n\n1. Os Estados-Membros devem determinar que as autoridades competentes incumbidas de exercer a supervisão complementar tenham acesso a todas as informações úteis para efeitos do exercício da supervisão das empresas de seguros e de resseguros sujeitas a supervisão complementar. As autoridades competentes só podem dirigir-se directamente às empresas em causa referidas no n.º 2 do artigo 3.º para obter a comunicação das informações necessárias se essas informações tiverem sido solicitadas à empresa de seguros ou de resseguros e esta as não tiver prestado.\n\n2. Os Estados-Membros devem determinar que as suas autoridades competentes possam proceder no seu território, directamente ou por intermédio de pessoas que tenham mandatado para o efeito, à verificação *in loco* das informaes a que se refere o n.º1:\n\n— na empresa de seguros sujeita a supervisão complementar,\n\n— na empresa de resseguros sujeita a supervisão complementar,\n\n— nas empresas filiais dessa empresa de seguros,\n\n— nas empresas filiais dessa empresa de resseguros,\n\n— na empresa-mãe dessa empresa de seguros,\n\n— na empresa-mãe dessa empresa de resseguros,\n\n— nas empresas filiais da empresa-mãe dessa empresa de seguros,\n\n— nas empresas filiais da empresa-mãe dessa empresa de resseguros.\n\n3. Se, no âmbito da aplicação do presente artigo, as autoridades competentes de um Estado-Membro desejarem, em determinados casos, verificar informações importantes respeitantes a uma empresa situada noutro Estado-Membro que seja uma empresa de seguros ou de resseguros coligada, uma empresa filial, uma empresa-mãe ou uma empresa filial de uma empresa-mãe da empresa de seguros ou de resseguros sujeita a supervisão complementar, devem solicitar às autoridades competentes desse outro Estado-Membro que seja efectuada essa verificação. As autoridades que tiverem recebido o pedido devem, no âmbito da sua competência, dar-lhe o devido seguimento, quer procedendo elas próprias a essa verificação, quer permitindo que as autoridades que apresentaram o pedido a efectuem, quer ainda permitindo que um auditor ou um perito a realize.\n\nA autoridade competente que efectuou o pedido pode, se o desejar, participar na verificação, quando ela própria não a realizar."
+  },
+  "e4f571aa6f20d581": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nCooperação entre autoridades competentes\n\n1. No caso de empresas de seguros ou de resseguros estabelecidas em diferentes Estados-Membros se encontrarem directa ou indirectamente coligadas ou terem uma empresa participante comum, as autoridades competentes de cada um dos Estados-Membros interessados devem comunicar reciprocamente, a pedido, todas as informações úteis susceptíveis de permitir ou facilitar o exercício da supervisão prevista na presente directiva e comunicarão, por iniciativa própria, qualquer informação que considerarem essencial para as outras autoridades competentes.\n\n2. No caso de uma empresa de seguros ou de resseguros e, quer uma instituição de crédito na acepção da Directiva 2000/12/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa ao acesso à actividade das instituições de crédito e ao seu exercício ([^13^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0031)), ou uma empresa de investimento na acepção da Directiva 93/22/CEE do Conselho, de 10 de Maio de 1993, relativa aos serviços de investimento no domínio dos valores mobiliários ([^14^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0032)), quer ambas, se encontrarem directa ou indirectamente coligadas ou terem uma empresa participante comum, as autoridades competentes e as autoridades investidas da missão pública de supervisão dessas outras empresas colaborarão estreitamente. Sem prejuízo das respectivas competências, as citadas autoridades devem comunicar reciprocamente todas as informações susceptíveis de facilitar o cumprimento da sua missão, em especial no contexto da presente directiva.\n\n3. As informações recebidas por força da presente directiva, designadamente as trocas de informações entre autoridades competentes nela previstas, são abrangidas pelo sigilo profissional definido no artigo 16.º da Directiva 92/49/CEE do Conselho, de 18 de Junho de 1992, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro directo não vida (terceira directiva sobre o seguro não vida) ([^15^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#E0033)), e no artigo 16.º da Directiva 2002/83/CE, bem como nos artigos 24.º a 30.º da Directiva 2005/68/CE."
+  },
+  "b0d2b444189f0c04": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOperações intragrupo\n\n1. Os Estados-Membros devem determinar que as autoridades competentes exerçam uma supervisão geral das operações entre:\n\na) Uma empresa de seguros ou de resseguros e:\n\ni) as empresas coligadas da empresa de seguros ou de resseguros;\n\nii) as empresas participantes na empresa de seguros ou de resseguros;\n\niii) as empresas coligadas de uma empresa participante na empresa de seguros ou de resseguros;\n\nb) Uma empresa de seguros ou de resseguros e uma pessoa singular detentora de uma participação:\n\ni) na empresa de seguros, na empresa de resseguros ou numa das suas empresas coligadas;\n\nii) numa empresa participante na empresa de seguros ou de resseguros;\n\niii) numa empresa coligada de uma empresa participante na empresa de seguros ou de resseguros.\n\nEstas operações dizem respeito, nomeadamente, a:\n\n— empréstimos,\n\n— garantias e operações extrapatrimoniais,\n\n— elementos a considerar para efeitos da margem de solvência,\n\n— investimentos,\n\n— operações de resseguro e de retrocessão,\n\n— acordos de partilha de custos.\n\n2. Para esse efeito, os Estados-Membros exigirão que as empresas de seguros e de resseguros disponham de procedimentos adequados de gestão de riscos e mecanismos de controlo interno, incluindo procedimentos sólidos de informação financeira e de contabilidade, a fim de identificar, quantificar, acompanhar e controlar operações, tal como previsto no n.º 1, de forma apropriada. Os Estados-Membros exigirão igualmente que as empresas de seguros e de resseguros notifiquem às autoridades competentes, pelo menos uma vez por ano, as operações significativas. Estes procedimentos e mecanismos estarão sujeitos à supervisão das autoridades competentes.\n\nSe, com base nessas informações, se afigurar que a solvência da empresa de seguros ou de resseguros está ou pode vir a estar em risco, a autoridade competente tomará as medidas adequadas a nível da empresa de seguros ou de resseguros."
+  },
+  "d12efd4c523c9078": {
+   "fragment_id": "Artigo 9.º — Requisito de solvência corrigido",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Requisito de solvência corrigido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisito de solvência corrigido\n\n1. No caso previsto no n.º 1 do artigo 2.º, os Estados-membros exigirão que seja efectuado um cálculo de solvência corrigida, de acordo com o anexo I.\n\n2. As empresas coligadas, empresas participantes e empresas coligadas de uma empresa participante serão incluídas no cálculo previsto no n.º 1.\n\n3. Se o cálculo previsto no n.º 1 revelar que a solvência corrigida é negativa, as autoridades competentes tomarão as medidas adequadas a nível da empresa de seguros ou de resseguros em questão."
+  },
+  "7c50ed4343b1e48a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º"
+  },
+  "35ad540952967051": {
+   "fragment_id": "Sociedades gestoras de participações, empresas de seguros de países terceiros e empresas de resseguros de países terceiros",
+   "type": "divisao",
+   "heading": "Sociedades gestoras de participações, empresas de seguros de países terceiros e empresas de resseguros de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Sociedades gestoras de participações, empresas de seguros de países terceiros e empresas de resseguros de países terceiros\n\n1. No caso previsto no n.º 2 do artigo 2.º, os Estados-membros exigirão a aplicação do método de fiscalização complementar, nos termos do anexo II.\n\n2. No caso previsto no n.º 2 do artigo 2.º, o cálculo deve incluir todas as empresas coligadas da sociedade gestora de participações no sector dos seguros, da empresa de seguros ou da empresa de resseguros de um país terceiro, de acordo com o método previsto no anexo II.\n\n3. Se, com base nesse cálculo, as autoridades competentes concluírem que a solvência de uma empresa de seguros ou de resseguros filial da sociedade gestora de participações no sector dos seguros, da empresa de seguros ou da empresa de resseguros de um país terceiro está ou pode vir a estar em risco, tomarão as medidas adequadas a nível dessa empresa de seguros ou de resseguros."
+  },
+  "5d2c9c3ab585a57f": {
+   "fragment_id": "Artigo 10.ºA — Cooperação com as autoridades competentes de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 10.ºA — Cooperação com as autoridades competentes de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.ºA — Cooperação com as autoridades competentes de países terceiros\n\n1. A Comissão pode submeter propostas ao Conselho, quer a pedido de um Estado-Membro, quer por sua própria iniciativa, para negociar acordos com um ou mais países terceiros relativamente às modalidades de exercício da supervisão complementar das seguintes empresas:\n\na) Empresas de seguros que tenham, como empresas participantes, empresas na acepção do artigo 2.º com sede num país terceiro;\n\nb) Empresas de seguros que tenham, como empresas participantes, empresas na acepção do artigo 2.º com administração central num país terceiro;\n\nc) Empresas de seguros ou de resseguros de um país terceiro que tenham, como empresas participantes, empresas na acepção do artigo 2.º com administração central na Comunidade.\n\n2. Os acordos referidos no n.º 1 destinam-se nomeadamente a garantir que:\n\na) As autoridades competentes dos Estados-Membros possam obter as informações necessárias para a supervisão complementar das empresas de seguros ou de resseguros com administração central na Comunidade e que tenham filiais ou detenham participações em empresas fora da Comunidade; e\n\nb) As autoridades competentes dos países terceiros possam obter as informações necessárias para a supervisão complementar das empresas de seguros ou de resseguros com administração central no seu território e que tenham filiais ou detenham participações em empresas num ou mais Estados-Membros.\n\n3. Sem prejuízo dos n.^os^ 1 e 2 do artigo 300.º do Tratado, a Comissão, assistida pelo Comité Europeu dos Seguros e Pensões Complementares de Reforma, avaliará o resultado das negociações a que se refere o n.º 1 e a situação daí resultante."
+  },
+  "f5979747ad042ab4": {
+   "fragment_id": "CÁLCULO DA SOLVÊNCIA CORRIGIDA DAS EMPRESAS DE SEGUROS E DE RESSEGUROS",
+   "type": "divisao",
+   "heading": "CÁLCULO DA SOLVÊNCIA CORRIGIDA DAS EMPRESAS DE SEGUROS E DE RESSEGUROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CÁLCULO DA SOLVÊNCIA CORRIGIDA DAS EMPRESAS DE SEGUROS E DE RESSEGUROS"
+  },
+  "98d4a61119ba3464": {
+   "fragment_id": "1. ESCOLHA DO MÉTODO DE CÁLCULO E PRINCÍPIOS GERAIS",
+   "type": "divisao",
+   "heading": "1. ESCOLHA DO MÉTODO DE CÁLCULO E PRINCÍPIOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. ESCOLHA DO MÉTODO DE CÁLCULO E PRINCÍPIOS GERAIS\n\nA. Os Estados-Membros determinarão que o cálculo da solvência corrigida das empresas de seguros e de resseguros referidas no n.º 1 do artigo 2.º seja efectuado de acordo com um dos métodos descritos no ponto 3. Contudo, um Estado-Membro pode determinar que as autoridades competentes autorizem ou imponham a aplicação de um dos métodos previstos no ponto 3, que não o escolhido pelo Estado-Membro.\n\nB. **Proporcionalidade**\n\nC. **Eliminação da dupla utilização dos elementos da margem de solvência**\n\nC.1. *Tratamento geral dos elementos da margem de solvência*\n\n— o valor de qualquer activo dessa empresa de seguros ou empresa de resseguros que represente o financiamento de elementos a considerar na margem de solvência de uma das suas empresas de seguros ou de resseguros coligadas,\n\n— o valor de qualquer activo de uma empresa de seguros ou de resseguros coligada dessa empresa de seguros ou de resseguros que represente o financiamento de elementos a considerar na margem de solvência dessa empresa de seguros ou de resseguros,\n\n— o valor de qualquer activo de uma empresa de seguros ou de resseguros coligada dessa empresa de seguros ou de resseguros que represente o financiamento de elementos a considerar na margem de solvência de qualquer outra empresa de seguros ou de resseguros coligada dessa empresa de seguros ou de resseguros.\n\nC.2. *Tratamento de determinados elementos*\n\n— as reservas de lucros e os lucros futuros gerados numa empresa de seguros de vida coligada ou numa empresa de resseguros de vida coligada da empresa de seguros ou de resseguros em relação à qual se efectua o cálculo da solvência corrigida e\n\n— as fracções subscritas mas não realizadas do capital de uma empresa de seguros ou de resseguros coligada da empresa de seguros ou de resseguros em relação à qual se efectua o cálculo da solvência corrigida\n\nC.3. *Possibilidade de transferência*\n\nC.4. A soma dos elementos referidos nos pontos C.2 e C.3 não pode ultrapassar o requisito de margem de solvência da empresa de seguros ou de resseguros coligada.\n\nD. **Eliminação da criação de capital intragrupo**\n\n— uma empresa coligada,\n\n— uma empresa participante,\n\n— uma outra empresa coligada de qualquer das suas empresas participantes.\n\nE. As autoridades competentes assegurarão que a solvência corrigida seja calculada com a mesma frequência que a prevista nas Directivas 73/239/CEE, 91/674/CEE, 2002/83/CE e 2005/68/CE no que diz respeito ao cálculo da margem de solvência das empresas de seguros e de resseguros. Os elementos do activo e do passivo devem ser avaliados de acordo com as disposições aplicáveis das Directivas 73/239/CEE, 91/674/CEE, 2002/83/CE e 2005/68/CE."
+  },
+  "0b55106bc290496c": {
+   "fragment_id": "2. APLICAÇÃO DOS MÉTODOS DE CÁLCULO",
+   "type": "divisao",
+   "heading": "2. APLICAÇÃO DOS MÉTODOS DE CÁLCULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. APLICAÇÃO DOS MÉTODOS DE CÁLCULO\n\n2.1. **Empresas de seguros e de resseguros coligadas**\n\n— no caso de se tratar de uma empresa de seguros ou resseguros coligada com outra empresa de seguros ou de resseguros autorizada no mesmo Estado-Membro e de essa empresa coligada ser tomada em consideração no cálculo da solvência corrigida da empresa de seguros ou de resseguros participante, ou\n\n— no caso de se tratar de uma empresa de seguros ou de resseguros coligada de uma sociedade gestora de participações no sector dos seguros, que tenha a sua sede estatutária no mesmo Estado-Membro que a empresa de seguros ou de resseguros e se a sociedade gestora de participações no sector dos seguros e a empresa de seguros ou de resseguros coligada forem tomadas em consideração no cálculo.\n\n2.2. **Sociedades gestoras de participações no sector dos seguros intermédias**\n\n2.3. **Empresas de seguros ou de resseguros coligadas de países terceiros**\n\n2.4. **Instituições de crédito, empresas de investimento e instituições financeiras coligadas**\n\n2.5. **Indisponibilidade da informação necessária**"
+  },
+  "79ceffbc1d6c4bef": {
+   "fragment_id": "3. MÉTODOS DE CÁLCULO",
+   "type": "divisao",
+   "heading": "3. MÉTODOS DE CÁLCULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. MÉTODOS DE CÁLCULO\n\n*Método 1:* **Método de dedução e agregação**\n\nA solvência corrigida de uma empresa de seguros ou de resseguros participante é a diferença entre:\n\ni) a soma:\n\na) dos elementos a considerar na margem de solvência da empresa de seguros ou de resseguros participante, e\n\nb) da parte proporcional da empresa de seguros ou de resseguros participante nos elementos a considerar na margem de solvência da empresa de seguros ou de resseguros coligada,\n\nii) a soma:\n\na) do valor contabilístico da empresa de seguros ou de resseguros coligada na empresa de seguros ou de resseguros participante, e\n\nb) do requisito de solvência da empresa de seguros ou de resseguros participante, e\n\nc) da parte proporcional do requisito de solvência da empresa de seguros ou de resseguros coligada.\n\nQuando a participação na empresa de seguros ou de resseguros coligada consista, no todo ou em parte, numa titularidade indirecta, a alínea a) do ponto ii) deverá incluir o valor dos elementos detidos indirectamente, tomando em consideração os interesses sucessivos pertinentes; a alínea b) do ponto i) e a alínea c) do ponto ii) devem incluir, respectivamente, as partes proporcionais correspondentes dos elementos a considerar na margem de solvência da empresa de seguros ou de resseguros coligada.\n\n*Método 2:* **Método de dedução de um requisito**\n\nA solvência corrigida da empresa de seguros ou de resseguros participante é a diferença entre:\n\ni) a soma dos elementos a considerar na margem de solvência da empresa de seguros ou de resseguros participante\n\nii) a soma:\n\na) do requisito de solvência da empresa de seguros ou de resseguros participante, e\n\nb) da parte proporcional do requisito de solvência da empresa de seguros ou de resseguros coligada.\n\nPara efeitos de avaliação dos elementos a considerar na margem de solvência, as participações, na acepção da presente directiva, serão avaliadas pelo método da equivalência patrimonial, de acordo com a opção prevista na alínea b) do n.º 2 do artigo 59.º da Directiva 78/660/CEE.\n\n*Método 3:* **Método baseado na consolidação contabilística**\n\nO cálculo da solvência corrigida da empresa de seguros ou de resseguros participante é efectuado a partir das contas consolidadas. A solvência corrigida da empresa de seguros ou de resseguros participante é a diferença entre os elementos a considerar na margem de solvência calculados a partir dos dados consolidados e:\n\na) a soma do requisito de solvência da empresa de seguros ou de resseguros participante e da parte proporcional dos requisitos de solvência das empresas de seguros ou de resseguros coligadas, correspondente às percentagens utilizadas para a elaboração das contas consolidadas, ou\n\nb) o requisito de solvência calculado a partir dos dados consolidados.\n\nO disposto nas Directivas 73/239/CEE, 91/674/CEE, 2002/83/CE e 2005/68/CE é aplicável ao cálculo dos elementos admissíveis para efeitos da margem de solvência e ao cálculo do requisito de solvência a partir dos dados consolidados."
+  },
+  "635f7323f6fd97b5": {
+   "fragment_id": "SUPERVISÃO COMPLEMENTAR PARA AS EMPRESAS DE SEGUROS E EMPRESAS DE RESSEGUROS QUE SEJAM FILIAIS DE UMA SOCIEDADE GESTORA DE PARTICIPAÇÕES NO SECTOR DOS SEGUROS OU DE UMA EMPRESA DE SEGUROS OU DE RESSEGUROS DE UM PAÍS TERCEIRO",
+   "type": "divisao",
+   "heading": "SUPERVISÃO COMPLEMENTAR PARA AS EMPRESAS DE SEGUROS E EMPRESAS DE RESSEGUROS QUE SEJAM FILIAIS DE UMA SOCIEDADE GESTORA DE PARTICIPAÇÕES NO SECTOR DOS SEGUROS OU DE UMA EMPRESA DE SEGUROS OU DE RESSEGUROS DE UM PAÍS TERCEIRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SUPERVISÃO COMPLEMENTAR PARA AS EMPRESAS DE SEGUROS E EMPRESAS DE RESSEGUROS QUE SEJAM FILIAIS DE UMA SOCIEDADE GESTORA DE PARTICIPAÇÕES NO SECTOR DOS SEGUROS OU DE UMA EMPRESA DE SEGUROS OU DE RESSEGUROS DE UM PAÍS TERCEIRO\n\n1. No caso de duas ou mais empresas de seguros ou de resseguros a que se refere o n.º 2 do artigo 2.º, que sejam filiais de uma sociedade gestora de participações no sector dos seguros, de uma empresa de seguros ou de resseguros de um país terceiro e que estejam estabelecidas em diferentes Estados-Membros, as autoridades competentes garantirão que o método descrito no presente anexo será aplicado de um modo coerente.\n\n2. Os Estados-Membros podem permitir que não seja realizado o cálculo previsto no presente anexo no que se refere a uma empresa de seguros ou de resseguros:\n\n— se essa empresa de seguros ou de resseguros for uma empresa coligada de outra empresa de seguros ou de resseguros e se for tomada em consideração no cálculo previsto no presente anexo efectuado para essa outra empresa,\n\n— se essa empresa de seguros ou de resseguros e uma ou várias outras empresas de seguros ou de resseguros autorizadas no mesmo Estado-Membro tiverem como empresa-mãe a mesma sociedade gestora de participações no sector dos seguros, a mesma empresa de seguros ou de resseguros de um país terceiro e a empresa de seguros ou de resseguros for tomada em consideração no cálculo previsto no presente anexo efectuado para uma dessas empresas,\n\n— se essa empresa de seguros ou de resseguros e uma ou várias outras empresas de seguros ou de resseguros autorizadas noutros Estados-Membros tiverem como empresa-mãe a mesma sociedade gestora de participações no sector dos seguros, a mesma empresa de seguros ou de resseguros de um país terceiro e tiver sido celebrado um acordo nos termos do n.º 2 do artigo 4.º que atribua o exercício da supervisão complementar prevista no presente anexo à autoridade de supervisão de um outro Estado-Membro.\n\n— Em caso de participações sucessivas (por exemplo, uma sociedade gestora de participações no sector dos seguros ou uma empresa de resseguros de um país terceiro que por sua vez é detida por outra sociedade gestora de participações no sector dos seguros ou uma empresa de seguros de um país terceiro), os Estados-Membros podem aplicar os cálculos previstos no presente anexo apenas a nível da empresa-mãe em última instância da empresa de seguros ou de resseguros que tem a qualidade de sociedade gestora de participações no sector dos seguros, ou de uma empresa de seguros ou de resseguros de um país terceiro.\n\n3. As autoridades competentes assegurarão que sejam efectuados, a nível da sociedade gestora de participações no sector dos seguros e empresa de seguros ou de resseguros de um país terceiro, cálculos análogos aos que se encontram descritos no anexo I.\n\n— a um requisito de solvência igual a zero quando se trate de uma sociedade gestora de participações no sector dos seguros,\n\n— a um requisito de solvência estabelecido de acordo com os princípios enunciados na secção 2.3 do anexo I, quando se trate de uma empresa de seguros ou de resseguros de um país terceiro,\n\n4. **Indisponibilidade da informação necessária**\n\n---"
+  },
+  "f4b401a150e2d962": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0001)) JO C 341 de 19.12.1995, p. 16 e\n\n> JO C 108 de 7.4.1998, p. 48.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0002)) JO C 174 de 17.6.1996, p. 16.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 23 de Outubro de 1997 (JO C 339 de 10.11.1997, p. 130), posição comum do Conselho de 30 de Março de 1998 (JO C 204 de 30.6.1998, p. 1) e decisão do Parlamento Europeu de 16 de Setembro de 1998 (ainda não publicada no Jornal Oficial). Decisão do Conselho de 13 de Outubro de 1998.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0004)) JO L 228 de 16.8.1973, p. 3. Directiva com a última redacção que lhe foi dada pela Directiva 95/26/CE (JO L 168 de 18.7.1995, p. 7).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0005)) JO L 63 de 13.3.1979, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 95/26/CE.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0006)) JO L 228 de 11.8.1992, p. 1. Directiva alterada pela Directiva 95/26/CE.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0007)) JO L 360 de 9.12.1992, p. 1. Directiva alterada pela Directiva 95/26/CE.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0028)) JO L 323 de 9.12.2005, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0008)) Sétima Directiva 83/349/CEE do Conselho, de 13 de Junho de 1983, baseada no n.º 3, alínea g), do artigo 54.º do Tratado e relativa às contas consolidadas (JO L 193 de 18.7.1983, p. 1). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0009)) Quarta Directiva 78/660/CEE do Conselho, de 25 de Julho de 1978, baseada no artigo 54.º, n.º 3, alínea g), do Tratado e relativa às contas anuais, de certas formas de sociedades (JO L 222 de 14.8.1978, p. 11). Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0029)) JO L 35 de 11.2.2003, p. 1. Directiva alterada pela Directiva 2005/1/CE (JO L 79 de 24.3.2005, p. 9).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0030)) JO L 345 de 19.12.2002, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2005/1/CE.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0031)) JO L 126 de 26.5.2000, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2005/1/CE.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0032)) JO L 141 de 11.6.1993, p. 27. Directiva com a última redacção que lhe foi dada pela Directiva 2002/87/CE.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/25214663-0b9b-4d1b-b5bd-5a91751a1039.0018.03/DOC_1#src.E0033)) JO L 228 de 11.8.1992, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2005/1/CE."
+  },
+  "3c45ae80305ac43e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1998L0078 — PT — 09.12.2011 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31998L0078) [DIRECTIVA 98/78/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/31998L0078) [de 27 de Outubro de 1998](http://publications.europa.eu/resource/celex/31998L0078) [relativa à supervisão complementar das empresas de seguros e de resseguros que fazem parte de um grupo segurador ou de um grupo ressegurador](http://publications.europa.eu/resource/celex/31998L0078) (JO L 330, 5.12.1998, p.1)\n\n**revogado por:**"
+  },
+  "343687f38daacc5a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01998L0078 — PT — 01.01.2014 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31998L0078) [DIRECTIVA 98/78/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/31998L0078) [de 27 de Outubro de 1998](http://publications.europa.eu/resource/celex/31998L0078) [relativa à supervisão complementar das empresas de seguros e de resseguros que fazem parte de um grupo segurador ou de um grupo ressegurador](http://publications.europa.eu/resource/celex/31998L0078) (JO L 330, 5.12.1998, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/138/CE do Parlamento Europeu e do Conselho, de 25 de Novembro de 2009,](http://publications.europa.eu/resource/celex/32009L0138) — L 335 — 1 — 17.12.2009"
+  }
+ }
+}

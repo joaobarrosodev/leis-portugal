@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:278915:por
+title: Decreto n.º 518/74
+short_title: null
+summary: Nomeia vários Secretários de Estado
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência da República
+proposing_entity: null
+official_number: 518/74
+official_date: null
+publication_date: '1974-10-02'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 230/1974, 2º Suplemento, Série I de 1974-10-02
+  number: '230'
+  series: I
+  supplement: null
+  pages: 1170-(3) a 1170-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23002/00030003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '278915'
+  dre_path: /dr/detalhe/decreto/518-1974-278915
+  internal: pt:dre:278915:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/518-1974-278915
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/518-1974-278915
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:34:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7ee8cadde144a872de6fdfaee4c67323706bef65743df06a5b91e788cec7e9bc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:34:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo Provisório
+- Governo Provisório III
+- Ministro
+- Nomeação
+- Secretário de Estado da Administração
+- Secretário de Estado da Administração Escolar
+- Secretário de Estado da Agricultura
+- Secretário de Estado da Comunicação Social
+- Secretário de Estado da Emigração
+- Secretário de Estado da Habitação e Urbanismo
+- Secretário de Estado da Indústria e Energia
+- Secretário de Estado da Marinha Mercante
+- Secretário de Estado da Orientação Pedagógica
+- Secretário de Estado da Saúde
+- Secretário de Estado da Segurança Social
+- Secretário de Estado das Obras Públicas
+- Secretário de Estado das Pescas
+- Secretário de Estado do Abastecimento e Preços
+- Secretário de Estado do Comércio Externo e Turismo
+- Secretário de Estado do Emprego
+- Secretário de Estado do Orçamento
+- Secretário de Estado do Planeamento Económico
+- Secretário de Estado do Trabalho
+- Secretário de Estado dos Assuntos Económicos
+- Secretário de Estado dos Negócios Estrangeiros
+- Secretário de Estado dos Transportes e Comunicações
+relationships:
+- type: amended_by
+  target: pt:dre:138789:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:158010:por
+  label: "Exonerado o Secretário de Estado da Administração, Dr. Deodato Nuno de Azevedo Coutinho, pelo DEC.76-A/75.21.02.1975.PR,\
+    \ DG.IS [44]Supl de 21.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/76-a-1975-158010
+  date: '1975-02-21'
+- type: amended_by
+  target: pt:dre:138789:por
+  label: "Exonerado o Secretário de Estado da Comunicação Social, capitão-de-fragata Guilherme George Conceição Silva, pelo\
+    \ DEC.83-A/75.24.02.1975.PR, DG.IS [46]Supl de 24.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/83-a-1975-138789
+  date: '1975-02-24'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:34:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 518/74
+
+de 2 de Outubro
+
+Usando da faculdade concedida pelo n.º 3.º do artigo 7.º da Lei Constitucional n.º 3/74, de 14 de Maio, e nos termos do n.º 2 do artigo 1.º da Lei Constitucional n.º 5/74, de 12 de Julho, tenho por bem:
+
+Nomear, sob proposta do Primeiro-Ministro, o Dr. Deodato de Azevedo Coutinho, o engenheiro Fernando de Castro Fontes, o Dr. António da Costa Leal, o Dr. Artur Alves Conde, o Dr. Vítor Manuel Constâncio, o engenheiro José de Torres Campos, o Dr. Alfredo Esteves Belo, o Dr. José Vera Jardim, o Dr. Nelson Rocha Trigo, o Dr. Mário de Oliveira Ruivo, o Prof. Doutor Joaquim Jorge Campinos, o tenente-coronel de engenharia Amadeu Garcia dos Santos, o engenheiro Manuel Ferreira de Lima, o arquitecto Nuno Portas, o engenheiro José Carlos Viana, o engenheiro José Manuel Prostes da Fonseca, a Prof.ª Doutora Maria de Lurdes Belchior, o Dr. António Avelãs Nunes, o Dr. Rui Grácio, o engenheiro Pedro Amadeu dos Santos Coelho, o Dr. Carlos Alberto Carvalhas, o engenheiro José Balseiro Fragata, o major médico da F. A. Carlos Cruz e Oliveira, o Dr. Henrique Santa Clara Gomes e o capitão-de-fragata Guilherme George Conceição Silva, respectivamente, Secretários de Estado da Administração, dos Assuntos Económicos, do Orçamento, do Tesouro, do Planeamento Económico, da Indústria e Energia, da Agricultura, do Comércio Externo e Turismo, do Abastecimento e Preços, das Pescas, dos Negócios Estrangeiros, das Obras Públicas, dos Transportes e Comunicações, da Habitação e Urbanismo, da Marinha Mercante, da Administração Escolar, dos Assuntos Culturais e Investigação Científica, dos Desportos e Acção Social Escolar, da Orientação Pedagógica, da Emigração, do Trabalho, do Emprego, da Saúde, da Segurança Social e da Comunicação Social.
+
+Assinado em 2 de Outubro de 1974.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES. - Vasco dos Santos Gonçalves.

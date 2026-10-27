@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:2357238:por
+title: Declaração de Rectificação n.º 953/2011
+short_title: null
+summary: Por ter saído com inexactidão o aviso n.º 15701/2010, se rectifica a publicação em Diário da República referente
+  ao procedimento concursal na carreira e categoria de assistente operacional, para o ACES Cascais
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Saúde - Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.
+proposing_entity: null
+official_number: 953/2011
+official_date: null
+publication_date: '2011-06-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/2011, Série II de 2011-06-03
+  number: '108'
+  series: II
+  supplement: null
+  pages: 24094 - 24094
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/06/108000000/2409424094.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2357238'
+  dre_path: /dr/detalhe/declaracao-rectificacao/953-2011-2357238
+  internal: pt:dre:2357238:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/953-2011-2357238
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/953-2011-2357238
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 29fe50e9b8e446b012f1052a7ba9560bae63c9d9d5a10049e9cdeeed9d1cbb43
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:39:45Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 953/2011
+
+Declaração de rectificação n.º 953/2011
+
+Por ter saído com inexactidão o aviso n.º 15701/2010, referente ao procedimento concursal comum para recrutamento de trabalhador com vista à constituição de relação jurídica de emprego público por tempo indeterminado para o preenchimento de quatro postos de trabalho na carreira e categoria de assistente operacional, no âmbito regional do mapa de pessoal da ARS Lisboa e Vale do Tejo, I. P., publicado no Diário da República, 2.ª série, n.º 152, de 6 de Agosto de 2010, verificando-se a cessação de funções públicas por motivos de aposentação do presidente e do 1.º vogal efectivo do júri do citado procedimento, procede-se à rectificação e republicação integral dos seus membros constitutivos:
+
+«Presidente - Maria da Natividade Jesus Marques Nascimento Gomes, assistente técnica, do ACES Grande Lisboa XI - Cascais.
+
+1.º vogal efectivo - Paulo Luís de Carvalho, assistente técnico, do ACES Grande Lisboa XI - Cascais.
+
+2.º vogal efectivo - Cristina Maria da Silva Fernandes, assistente operacional, do ACES Grande Lisboa XI - Cascais.
+
+1.º vogal suplente - Maria Isabel Pacheco Pequeno Fernandes, assistente técnica, do ACES Grande Lisboa XI - Cascais.
+
+2.º vogal suplente - Maria la Salette Baptista, assistente técnica, do ACES Grande Lisboa XI - Cascais.»
+
+Nos termos da lei, o novo júri dá continuidade e assume integralmente todas as operações do procedimento já efectuadas.
+
+27 de Maio de 2011. - O Presidente do Conselho Directivo, Rui Gentil de Portugal e Vasconcelos Fernandes.
+
+203539996

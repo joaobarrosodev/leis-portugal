@@ -1,0 +1,975 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:183079162:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-183113081",
+ "dre_path": "/dr/detalhe/decreto-lei/31-2022-183079162",
+ "source_lastmod": "2026-09-11",
+ "versions": [
+  {
+   "date": "2022-05-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "183000008",
+    "183000009",
+    "183000010",
+    "183000011",
+    "183000012",
+    "183000013",
+    "183000014",
+    "183000015",
+    "183000016",
+    "183000017",
+    "183000018",
+    "183000020",
+    "183000021",
+    "183000022",
+    "183000023",
+    "183000024",
+    "183000025",
+    "183000026",
+    "183000027",
+    "183000028",
+    "183000029",
+    "183000030",
+    "183000031",
+    "183000032",
+    "183000033",
+    "183000034",
+    "183000035",
+    "183000036",
+    "183000037",
+    "183000038",
+    "183000039",
+    "183000040",
+    "183000041",
+    "183000042",
+    "183000043",
+    "183000044",
+    "183000045",
+    "183000046",
+    "183000047",
+    "183000048",
+    "183000049",
+    "183000050",
+    "183000051",
+    "183000052",
+    "183000053",
+    "183000054",
+    "183000055",
+    "183000056",
+    "183000057",
+    "183000058",
+    "183000059",
+    "183000060",
+    "183000061",
+    "183000062",
+    "183000063",
+    "183000064",
+    "183000065",
+    "183000066",
+    "183000067",
+    "183000068",
+    "183000069",
+    "183000070",
+    "183000071",
+    "183000072",
+    "183000073",
+    "183000074",
+    "183152275",
+    "183152276",
+    "183152277",
+    "183152278",
+    "183152279",
+    "183152280",
+    "183152281",
+    "183152282",
+    "183152283",
+    "183152284",
+    "183152285",
+    "183152286",
+    "183152287",
+    "183152288",
+    "183152289"
+   ]
+  },
+  {
+   "date": "2022-12-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:204552612:por",
+     "title": "Lei n.º 23-A/2022",
+     "published": "2022-12-09",
+     "dre_path": "/dr/detalhe/lei/23-a-2022-204552612"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 47.º"
+   ],
+   "fragments": [
+    "183000008",
+    "183000009",
+    "183000010",
+    "183000011",
+    "183000012",
+    "183000013",
+    "183000014",
+    "183000015",
+    "183000016",
+    "183000017",
+    "183000018",
+    "183000019",
+    "183000020",
+    "183000021",
+    "183000022",
+    "183000023",
+    "183000024",
+    "183000025",
+    "183000026",
+    "183000027",
+    "183000028",
+    "183000029",
+    "183000030",
+    "183000031",
+    "183000032",
+    "183000033",
+    "183000034",
+    "183000035",
+    "183000036",
+    "183000037",
+    "183000038",
+    "183000039",
+    "183000040",
+    "183000041",
+    "183000042",
+    "183000043",
+    "183000044",
+    "183000045",
+    "183000046",
+    "183000047",
+    "183000048",
+    "183000049",
+    "183000050",
+    "183000051",
+    "183000052",
+    "183000053",
+    "183000054",
+    "183000055",
+    "183000056",
+    "183000057",
+    "183000058",
+    "183000059",
+    "183000060",
+    "183000061",
+    "183000062",
+    "183000063",
+    "183000064",
+    "183000065",
+    "183000066",
+    "183000067",
+    "183000068",
+    "183000069",
+    "183000070",
+    "183000071",
+    "183000072",
+    "183000073",
+    "183000074",
+    "183152275",
+    "183152276",
+    "183152277",
+    "183152278",
+    "183152279",
+    "183152280",
+    "183152281",
+    "183152282",
+    "183152283",
+    "183152284",
+    "183152285",
+    "183152286",
+    "183152287",
+    "183152288",
+    "204931688"
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1161839915:por",
+     "title": "Decreto-Lei n.º 171/2026",
+     "published": "2026-08-26",
+     "dre_path": "/dr/detalhe/decreto-lei/171-2026-1161839915"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 30.º-A"
+   ],
+   "fragments": [
+    "183000008",
+    "183000009",
+    "183000010",
+    "183000011",
+    "183000012",
+    "183000013",
+    "183000014",
+    "183000015",
+    "183000016",
+    "183000017",
+    "183000018",
+    "183000019",
+    "183000020",
+    "183000021",
+    "183000022",
+    "183000023",
+    "183000024",
+    "183000025",
+    "183000026",
+    "183000027",
+    "183000028",
+    "183000029",
+    "183000030",
+    "183000031",
+    "183000032",
+    "183000033",
+    "183000034",
+    "183000035",
+    "183000036",
+    "183000037",
+    "183000038",
+    "183000039",
+    "183000040",
+    "183000041",
+    "183000042",
+    "183000043",
+    "183000044",
+    "183000045",
+    "183000046",
+    "183000047",
+    "183000048",
+    "183000049",
+    "183000050",
+    "183000051",
+    "183000052",
+    "183000053",
+    "183000054",
+    "183000055",
+    "183000056",
+    "183000057",
+    "183000058",
+    "183000059",
+    "183000060",
+    "183000061",
+    "183000062",
+    "183000063",
+    "183000064",
+    "183000065",
+    "183000066",
+    "1163086775",
+    "183000067",
+    "183000068",
+    "183000069",
+    "183000070",
+    "183000071",
+    "183000072",
+    "183000073",
+    "183000074",
+    "183152275",
+    "183152276",
+    "183152277",
+    "183152278",
+    "183152279",
+    "183152280",
+    "183152281",
+    "183152282",
+    "183152283",
+    "183152284",
+    "183152285",
+    "183152286",
+    "183152287",
+    "183152288",
+    "204931688"
+   ]
+  }
+ ],
+ "fragments": {
+  "183000008": {
+   "fragment_id": "183113082",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 31/2022\n\nde 6 de maio\n\nSumário: Aprova o Regime Jurídico das Obrigações Cobertas e transpõe a Diretiva (UE) 2019/2162 e a Diretiva (UE) 2021/2261.\n\nA Diretiva (UE) 2019/2162, do Parlamento Europeu e do Conselho, de 27 de novembro de 2019, relativa à emissão de obrigações cobertas e à supervisão pública dessas obrigações, harmoniza os requisitos da emissão e supervisão de obrigações cobertas no âmbito da União Europeia [Diretiva (UE) 2019/2162]. O Regulamento (UE) n.º 2019/2160, do Parlamento Europeu e do Conselho, de 27 de novembro de 2019, que altera o Regulamento (UE) n.º 575/2013, do Parlamento Europeu e do Conselho, de 26 de junho de 2013 [Regulamento (UE) n.º 575/2013], no que diz respeito às posições em risco sob a forma de obrigações cobertas, altera substancialmente o artigo 129.º do referido Regulamento (UE) n.º 575/2013, que prevê o tratamento prudencial das posições em risco sob a forma de obrigações cobertas. Estes dois atos legislativos da União Europeia reveem substancialmente o enquadramento jurídico aplicável às obrigações cobertas.\n\nPara assegurar a respetiva transposição, o presente decreto-lei aprova o regime jurídico das obrigações cobertas. Este novo regime substitui o regime previsto no Decreto-Lei n.º 59/2006, de 20 de março, que regula as obrigações hipotecárias e do setor público. As obrigações hipotecárias são um instrumento financeiro inicialmente regulado no Decreto-Lei n.º 125/90, de 16 de abril, e as obrigações sobre o setor público foram inicialmente previstas no Decreto-Lei n.º 59/2006, de 20 de março. O novo regime simplifica este enquadramento, optando por uma tipologia única de obrigação, independentemente do ativo de cobertura.\n\nAs características das obrigações cobertas conferem-lhes um importante estatuto de fonte de financiamento estável para as instituições de crédito. Os titulares das obrigações cobertas e as contrapartes dos contratos de derivados integrados na garantia global dispõem de um duplo recurso que lhes confere um crédito privilegiado sobre o capital e quaisquer juros vencidos ou vincendos referente aos ativos de cobertura e, simultaneamente, um crédito comum sobre o restante património da massa insolvente da entidade emitente. Além disso, em caso de resolução ou liquidação da instituição de crédito emitente, os seus titulares são igualmente protegidos, garantindo-se que as obrigações de pagamento a elas associadas não são automaticamente antecipadas.\n\nO regime jurídico das obrigações cobertas introduz diversos ajustamentos face ao regime vigente. O catálogo de ativos elegíveis das obrigações cobertas é ajustado no quadro da margem concedida aos Estados-membros. Admite-se a possibilidade de serem utilizadas obrigações cobertas emitidas por uma instituição de crédito pertencente a um grupo, como ativo subjacente, em emissão de obrigações cobertas por uma instituição de crédito pertencente ao mesmo grupo. Poderá ainda optar-se por estruturas de financiamento conjunto, sendo possível que a instituição de crédito adquira e utilize créditos originados por outra instituição de crédito como garantia de emissão de obrigações cobertas. Os programas de obrigações cobertas estão continuamente sujeitos a requisitos de cobertura e de liquidez, prevendo-se a constituição de uma reserva de liquidez para a garantia global que visa mitigar os riscos de liquidez associados aos programas de obrigações cobertas.\n\nO novo regime também contém soluções de continuidade e estabilidade do regime vigente. No essencial, o regime da segregação - que é igualmente requisito da Diretiva (UE) 2019/2162 - é mantido: os ativos afetos à garantia global das obrigações cobertas são segregados da instituição de crédito emitente, através do registo em contas segregadas desta, constituindo, assim, património autónomo, que não responde por quaisquer dívidas da entidade emitente até ao pagamento dos montantes devidos aos titulares. É igualmente mantido o regime da cessão de créditos, bem como o regime da entidade que acompanha a garantia global do programa, o qual foi revisto em linha com o disposto na referida Diretiva (UE) 2019/2162. As instituições de crédito designarão uma entidade que acompanha e verifica a qualidade dos ativos afetos à garantia global, bem como os requisitos aplicáveis às obrigações cobertas.\n\nAs obrigações cobertas que cumpram os requisitos previstos no regime jurídico das obrigações cobertas poderão utilizar a marca «Obrigação Coberta Europeia». As obrigações cobertas que cumpram ainda o disposto no artigo 129.º do Regulamento (UE) n.º 575/2013 poderão utilizar a marca «Obrigação Coberta Europeia (Premium)». A utilização da marca permitirá uniformizar a denominação dada a estes instrumentos financeiros nos vários Estados-membros da União Europeia, e permitirá assegurar aos investidores que os programas cumprem os requisitos harmonizados a nível europeu.\n\nOs programas de obrigações cobertas ficam sujeitos a autorização da Comissão do Mercado de Valores Mobiliários (CMVM), de acordo com o disposto na Diretiva (UE) 2019/2162. As instituições de crédito ficam sujeitas à supervisão da CMVM nesta matéria, independentemente de as obrigações cobertas serem objeto de uma oferta ao público de valores mobiliários, nos termos da legislação da União Europeia relativa ao prospeto.\n\nPor fim, o presente decreto-lei procede à transposição da Diretiva (UE) n.º 2021/2261, do Parlamento Europeu e do Conselho, de 15 de dezembro de 2021, garantindo a equivalência da utilização do documento de informação fundamental elaborado nos termos da legislação da União Europeia relativa a pacotes de produtos de investimento de retalho e de produtos de investimento com base em seguros. Para o efeito, procede-se à alteração do Regime Geral dos Organismos de Investimento Coletivo e a ajustamentos pontuais de redação nesse regime geral.\n\nForam ouvidas a Associação Portuguesa de Bancos, a Associação Portuguesa de Fundos de Investimento, Pensões e Patrimónios e o Conselho Nacional de Supervisores Financeiros.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "183000009": {
+   "fragment_id": "183113083",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei procede à transposição para a ordem jurídica interna:\n\na) Da Diretiva (UE) 2019/2162, do Parlamento Europeu e do Conselho, de 27 de novembro de 2019, relativa à emissão de obrigações cobertas e à supervisão pública dessas obrigações, e que altera as Diretivas 2009/65/CE e 2014/59/UE; e\n\nb) Da Diretiva (UE) 2021/2261, do Parlamento Europeu e do Conselho, de 15 de dezembro de 2021, que altera a Diretiva 2009/65/CE no que respeita à utilização dos documentos de informação fundamental pelas sociedades gestoras de organismos de investimento coletivo em valores mobiliários.\n\n2 - O presente decreto-lei procede ainda à:\n\na) Décima primeira alteração ao Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual;\n\nb) Quinquagésima sétima alteração ao Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, na sua redação atual;\n\nc) Quadragésima segunda alteração ao Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro."
+  },
+  "183000010": {
+   "fragment_id": "183113084",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação do Regime Jurídico das Obrigações Cobertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação do Regime Jurídico das Obrigações Cobertas\n\nÉ aprovado em anexo ao presente decreto-lei e do qual faz parte integrante o Regime Jurídico das Obrigações Cobertas."
+  },
+  "183000011": {
+   "fragment_id": "183113085",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Regime Geral dos Organismos de Investimento Coletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Regime Geral dos Organismos de Investimento Coletivo\n\nOs artigos 110.º-D, 114.º-C, 176.º, 201.º-A, 233.º, 233.º-A e 240.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 110.º-D\n\n[...]\n\n1 - [...].\n\n2 - Caso, na sequência de qualquer alteração referida na alínea a) do número anterior, a gestão do OIA ou a SGOIC deixem de cumprir o disposto no presente Regime Geral, a CMVM opõe-se à alteração prevista e notifica a SGOIC, no prazo de 15 dias úteis a contar da data de receção da comunicação.\n\n3 - [...].\n\n4 - A CMVM toma as medidas necessárias e notifica imediatamente a autoridade competente do Estado membro de acolhimento da SGOIC, caso:\n\na) A SGOIC efetue a alteração referida no n.º 2; ou\n\nb) Ocorra uma alteração imprevista que faça com que a gestão do OIA ou a SGOIC deixem de cumprir o disposto no presente Regime Geral.\n\n5 - (Anterior n.º 4.)\n\nArtigo 114.º-C\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) A entidade gestora efetue uma alteração aos elementos referidos nos números anteriores a que se opôs por a gestão do OIA ou a entidade gestora deixarem de cumprir o disposto na respetiva legislação ou regulamentação aplicável;\n\nb) Ocorra uma alteração imprevista que faça com que a gestão do OIA ou a entidade gestora deixem de cumprir o disposto na legislação ou regulamentação aplicável.\n\n4 - [...].\n\nArtigo 176.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - Os limites referidos na alínea a) do n.º 1 e no n.º 3 são, respetivamente, elevados para 25 % e 80 %, no caso de obrigações cobertas emitidas por instituições de crédito com sede num Estado-membro nos termos da legislação aplicável, incluindo obrigações hipotecárias emitidas até 8 de julho de 2022 nos termos da legislação aplicável a estas obrigações.\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - [...].\n\n13 - [...].\n\n14 - [...].\n\n15 - [...].\n\n16 - [...].\n\n17 - [...].\n\n18 - [...].\n\nArtigo 201.º-A\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - Sem prejuízo da manutenção das suas funções e poderes enquanto autoridade do Estado membro de acolhimento do OICVM, nos termos dos artigos 242.º e 245.º, a partir da data da transmissão referida no n.º 6, a CMVM não pode exigir que a entidade gestora demonstre o cumprimento das disposições nacionais que regem os requisitos de comercialização previstos na legislação da União Europeia.\n\nArtigo 233.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - A autoridade competente do Estado membro de origem da entidade gestora comunica à CMVM:\n\na) A sua oposição à alteração dos elementos referidos nos n.os 1 e 2, se, na sequência desta, a gestão do OIA ou entidade gestora deixem de cumprir o disposto na respetiva legislação ou regulamentação aplicável;\n\nb) De imediato, as medidas adotadas, nomeadamente a proibição da comercialização do OIA, caso:\n\ni) A entidade gestora efetue a alteração na sequência da oposição referida na alínea anterior; ou\n\nii) Ocorra uma alteração imprevista com as consequências referidas na alínea anterior.\n\n6 - [...].\n\n7 - [...].\n\nArtigo 233.º-A\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - Sem prejuízo da manutenção das suas funções e poderes enquanto autoridade do Estado-membro de acolhimento, nos termos dos artigos 246.º e 247.º, a partir da data da transmissão referida no número anterior, a CMVM não pode exigir que a entidade gestora demonstre o cumprimento das disposições nacionais que regem os requisitos de comercialização previstos na legislação da União Europeia.\n\nArtigo 240.º\n\n[...]\n\n1 - [...].\n\n2 - Se, na sequência da alteração referida na comunicação prevista na alínea a) do número anterior, a gestão do OIA ou as entidades gestoras referidas no n.º 1 deixarem de cumprir o disposto no presente Regime Geral, a CMVM:\n\na) [...];\n\nb) [...].\n\n3 - [...]:\n\na) [...]; ou\n\nb) [...];\n\nc) (Revogada.)\n\n4 - [...].\n\n5 - [...].»"
+  },
+  "183000012": {
+   "fragment_id": "183113086",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Regime Geral das Instituições de Crédito e Sociedades Financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Regime Geral das Instituições de Crédito e Sociedades Financeiras\n\nO artigo 2.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 2.º-A\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nk) [...];\n\nl) [...];\n\nm) [...];\n\nn) [...];\n\no) [...];\n\np) [...];\n\nq) [...];\n\nr) [...];\n\ns) [...];\n\nt) [...];\n\nu) [...];\n\nv) [...];\n\nw) [...];\n\nx) [...];\n\ny) [...];\n\nz) [...];\n\naa) [...];\n\nbb) [...];\n\ncc) \"Obrigação coberta\", um valor mobiliário representativo de dívida, incluindo uma obrigação hipotecária, emitido por uma instituição de crédito e que é garantido por ativos de cobertura aos quais os titulares de obrigações têm direito de recurso direto na qualidade de credores privilegiados, nos termos da legislação aplicável;\n\ndd) [...];\n\nee) [...];\n\nff) [...];\n\ngg) [...];\n\nhh) [...];\n\nii) [...];\n\njj) [...];\n\nkk) [...];\n\nll) [...].»"
+  },
+  "183000013": {
+   "fragment_id": "183113087",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Código dos Valores Mobiliários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Código dos Valores Mobiliários\n\nOs artigos 257.º-G e 375.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 257.º-G\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - O reporte referido no n.º 5 é efetuado nos termos definidos na legislação e regulamentação da União Europeia.\n\n8 - [...].\n\n9 - [...].\n\nArtigo 375.º\n\n[...]\n\n1 - [...].\n\n2 - Os acordos que sejam celebrados ao abrigo do disposto no número anterior são publicados no sítio da Internet da CMVM.\n\n3 - [...].»"
+  },
+  "183000014": {
+   "fragment_id": "183113088",
+   "type": 11,
+   "heading": "Artigo 6.º — Aditamento ao Regime Geral dos Organismos de Investimento Coletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aditamento ao Regime Geral dos Organismos de Investimento Coletivo\n\nÉ aditado ao Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual, o artigo 156.º-A, com a seguinte redação:\n\n«Artigo 156.º-A\n\nEquivalência do documento de informação fundamental\n\n1 - A entidade responsável pela gestão que elabore, preste, atualize e traduza um documento de informação fundamental em conformidade com o disposto na legislação da União Europeia relativa a pacotes de produtos de investimento de retalho e de produtos de investimento com base em seguros, para os organismos de investimento coletivo por si geridos, pode utilizar esse documento para efeitos do cumprimento do disposto no presente Regime Geral e da respetiva regulamentação nacional e europeia relativamente ao documento com informações fundamentais destinadas aos investidores.\n\n2 - No caso previsto no número anterior, a CMVM não pode exigir a elaboração do documento com informações fundamentais destinadas aos investidores em conformidade com os requisitos previstos no presente Regime Geral e da respetiva regulamentação nacional e europeia.»"
+  },
+  "183000015": {
+   "fragment_id": "183113089",
+   "type": 11,
+   "heading": "Artigo 7.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Normas transitórias\n\n1 - O Decreto-Lei n.º 59/2006, de 20 de março, continua a aplicar-se às obrigações a que se reporta o número seguinte até ao seu reembolso ou pagamento integral, cabendo à Comissão do Mercado de Valores Mobiliários (CMVM) a supervisão das emissões e programas efetuados ao abrigo do referido regime legal.\n\n2 - As obrigações hipotecárias e sobre o setor público emitidas antes de 8 de julho de 2022 que cumpram os requisitos estabelecidos no n.º 6 do artigo 176.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, conforme aplicável à data da sua emissão, não estão sujeitas ao disposto nos artigos 6.º a 13.º, 15.º a 19.º, 21.º e 22.º do Regime Jurídico das Obrigações Cobertas, podendo ser designadas como obrigações cobertas, nos termos do referido regime, até ao seu vencimento.\n\n3 - A CMVM fiscaliza o cumprimento do disposto no n.º 6 do artigo 176.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, conforme aplicável à data da sua emissão, bem como dos requisitos estabelecidos no Regime Jurídico das Obrigações Cobertas, na medida em que sejam aplicáveis nos termos do número anterior.\n\n4 - O disposto nos números anteriores aplica-se ainda aos incrementos de emissões de obrigações hipotecárias e sobre o setor público com número de identificação nacional dos títulos (ISIN - International Securities Identification Number) atribuído até 8 de julho de 2022, que sejam emitidos no prazo de 24 meses após 8 de julho de 2022, desde que:\n\na) O vencimento da obrigação coberta ocorra até 8 de julho de 2027;\n\nb) O volume total dos incrementos realizados após 8 de julho de 2022 não exceda o dobro do volume total das emissões de obrigações cobertas realizadas e ainda não reeembolsadas nessa data;\n\nc) O volume total das emissões de obrigações cobertas na data de vencimento não exceda (euro) 6 000 000 000,00; e\n\nd) Os ativos de garantia estejam situados em Portugal.\n\n5 - A instituição de crédito emitente pode submeter a autorização da CMVM um programa de obrigações cobertas adotado ao abrigo do disposto no Decreto-Lei n.º 59/2006, de 20 de março, devidamente ajustado, que cumpra os requisitos necessários para a autorização de um programa de obrigações cobertas nos termos do Regime Jurídico das Obrigações Cobertas.\n\n6 - No caso previsto no número anterior, as obrigações emitidas ao abrigo do disposto no Decreto-Lei n.º 59/2006, de 20 de março, ficam sujeitas ao Regime Jurídico das Obrigações Cobertas e ao programa ajustado, a partir da data da autorização da CMVM.\n\n7 - A instituição de crédito emitente divulga aos investidores informação relativa ao disposto no número anterior nos termos da legislação aplicável, incluindo a legislação da União Europeia relativa ao abuso de mercado.\n\n8 - A mesma instituição de crédito emitente pode manter-se como emitente de obrigações abrangidas pelo Decreto-Lei n.º 59/2006, de 20 de março, nos termos dos n.os 1 a 3, e instituir um programa de obrigações cobertas ao abrigo do Regime Jurídico das Obrigações Cobertas.\n\n9 - A regulamentação adotada nos termos do Decreto-Lei n.º 59/2006, de 20 de março, mantém-se em vigor até à sua substituição por regulamentação da CMVM."
+  },
+  "183000016": {
+   "fragment_id": "183113090",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 59/2006, de 20 de março, sem prejuízo do disposto no n.º 1 do artigo anterior;\n\nb) A alínea c) do n.º 3 do artigo 240.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual."
+  },
+  "183000017": {
+   "fragment_id": "183113091",
+   "type": 11,
+   "heading": "Artigo 9.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Referências\n\nAs referências feitas em legislação avulsa a «obrigações hipotecárias» e a «obrigações sobre o setor público» devem entender-se como feitas também a «obrigações cobertas»."
+  },
+  "183000018": {
+   "fragment_id": "183113092",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor no dia 1 de julho de 2022, sem prejuízo do disposto nos números seguintes.\n\n2 - O disposto no artigo 156.º-A do Regime Geral dos Organismos de Investimento Coletivo, na redação introduzida pelo presente decreto-lei, entra em vigor no dia 1 de janeiro de 2023.\n\n3 - O disposto no artigo 44.º do Regime Jurídico das Obrigações Cobertas, aprovado em anexo ao presente decreto-lei, entra em vigor no dia seguinte à publicação do mesmo."
+  },
+  "183000020": {
+   "fragment_id": "183113094",
+   "type": 14,
+   "heading": "ANEXO — Regime Jurídico das Obrigações Cobertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regime Jurídico das Obrigações Cobertas\n\n(a que se refere o artigo 2.º)"
+  },
+  "183000021": {
+   "fragment_id": "183113095",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "183000022": {
+   "fragment_id": "183113096",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regime regula as obrigações cobertas, nomeadamente:\n\na) Os requisitos para emissão;\n\nb) As características estruturais;\n\nc) Os requisitos de divulgação de informação;\n\nd) O regime de supervisão."
+  },
+  "183000023": {
+   "fragment_id": "183113097",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente regime aplica-se às obrigações cobertas emitidas por instituições de crédito estabelecidas em Portugal."
+  },
+  "183000024": {
+   "fragment_id": "183113098",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regime, entende-se por:\n\na) «Administrador especial», a pessoa ou entidade nomeada para administrar um programa de obrigações cobertas em caso de liquidação da instituição de crédito emitente ou, em circunstâncias excecionais, sempre que a Comissão do Mercado de Valores Mobiliários (CMVM) conclua que o bom funcionamento da instituição de crédito emitente em causa está seriamente ameaçado;\n\nb) «Ativos de cobertura», os ativos incluídos na garantia global;\n\nc) «Ativos de garantia», os ativos físicos e os ativos sob a forma de posições em risco que garantem ativos de cobertura;\n\nd) «Ativos de substituição», os ativos de cobertura que contribuem para os requisitos de cobertura e não sejam ativos primários;\n\ne) «Ativos primários», os ativos de cobertura predominantes que determinam a natureza da garantia global;\n\nf) «Garantia global», um conjunto definido de ativos que garantem as obrigações de pagamento associadas às obrigações cobertas e que são segregados de outros ativos detidos pela instituição de crédito que emite as obrigações cobertas;\n\ng) «Grupo», um grupo na aceção da legislação da União Europeia relativa aos requisitos prudenciais das instituições de crédito;\n\nh) «Obrigação coberta», uma obrigação emitida por uma instituição de crédito garantida por ativos de cobertura sobre os quais os titulares gozam de privilégio creditório especial nos termos do presente regime;\n\ni) «Obrigações cobertas com extensão automática do vencimento», uma obrigação coberta que contém um mecanismo que prevê a possibilidade de prorrogar o seu prazo de vencimento previsto durante um período pré-determinado quando se verifiquem os pressupostos para essa extensão;\n\nj) «Obrigações cobertas emitidas externamente», obrigações cobertas adquiridas por uma entidade que não pertence ao mesmo grupo da instituição de crédito emitente;\n\nk) «Obrigações cobertas emitidas internamente», obrigações cobertas emitidas por uma instituição de crédito que integre um grupo afetas à garantia de obrigações cobertas emitidas externamente por outra instituição de crédito pertencente ao mesmo grupo;\n\nl) «Programa de obrigações cobertas», as características estruturais de uma emissão de obrigações cobertas, que são determinadas por disposições legais e por cláusulas contratuais, de acordo com a autorização concedida à instituição de crédito emitente de obrigações cobertas;\n\nm) «Requisitos de financiamento alinhados», as regras que exigem que os fluxos de caixa vincendos entre os passivos e os ativos sejam alinhados ao assegurarem cumulativamente, por meio de cláusulas contratuais, que:\n\ni) Os pagamentos dos mutuários e das contrapartes dos contratos de derivados vençam antes da execução dos pagamentos aos investidores em obrigações cobertas e às contrapartes dos contratos de derivados;\n\nii) Os montantes recebidos dos mutuários e das contrapartes dos contratos de derivados sejam, no mínimo, de valor igual aos dos pagamentos a realizar aos investidores em obrigações cobertas e às contrapartes dos contratos de derivados; e\n\niii) Os montantes recebidos dos mutuários e das contrapartes dos contratos de derivados sejam incluídos na garantia global, até os pagamentos serem devidos aos investidores em obrigações cobertas e às contrapartes dos contratos de derivados;\n\nn) «Resolução», a aplicação de medidas de resolução previstas na legislação nacional ou da União Europeia relativa às instituições de crédito;\n\no) «Saída líquida de liquidez», todos os fluxos de saída de pagamentos devidos num dia, incluindo os reembolsos de capital e juros e os pagamentos ao abrigo de contratos de derivados do programa de obrigações cobertas após dedução de todos os fluxos de entrada de pagamentos devidos no mesmo dia relativamente aos créditos relacionados com os ativos de cobertura;\n\np) «Segregação», as medidas adotadas por uma instituição de crédito emitente de obrigações cobertas para identificar os ativos de cobertura, incluindo juros e reembolsos, de modo a que constituam um património autónomo e não respondam por quaisquer dívidas dessa instituição até ao pagamento integral dos montantes devidos aos titulares das obrigações cobertas e às contrapartes de contratos de derivados relativos a uma emissão ou programa de obrigações cobertas;\n\nq) «Sobrecolateralização», o nível de garantia legal, contratual ou voluntário que excede o requisito legal de cobertura;\n\nr) «Valor de mercado», para efeitos de bens imóveis, o valor de mercado na aceção da legislação da União Europeia relativa aos requisitos prudenciais das instituições de crédito;\n\ns) «Valor do bem hipotecado», para efeitos de bens imóveis, o valor do bem hipotecado na aceção da legislação da União Europeia relativa aos requisitos prudenciais das instituições de crédito;\n\nt) «Vencimento antecipado automático», a situação de automática e imediata exigibilidade do reembolso da obrigação coberta aos seus titulares, após liquidação ou resolução do emitente, em momento anterior à data de vencimento inicial."
+  },
+  "183000025": {
+   "fragment_id": "183113099",
+   "type": 1,
+   "heading": "Capítulo II — Obrigações cobertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Obrigações cobertas"
+  },
+  "183000026": {
+   "fragment_id": "183113100",
+   "type": 8,
+   "heading": "Secção I — Emitentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Emitentes"
+  },
+  "183000027": {
+   "fragment_id": "183113101",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidades emitentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades emitentes\n\nAs obrigações cobertas só podem ser emitidas por instituições de crédito."
+  },
+  "183000028": {
+   "fragment_id": "183113102",
+   "type": 8,
+   "heading": "Secção II — Duplo recurso e proteção em caso de liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Duplo recurso e proteção em caso de liquidação"
+  },
+  "183000029": {
+   "fragment_id": "183113103",
+   "type": 11,
+   "heading": "Artigo 5.º — Duplo recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Duplo recurso\n\n1 - Os titulares de obrigações cobertas e as contrapartes dos contratos de derivados integrados na garantia global têm os seguintes créditos:\n\na) Crédito sobre a instituição de crédito emitente;\n\nb) Em caso de liquidação ou resolução da instituição de crédito emitente, um crédito que beneficia de privilégio creditório especial sobre o capital e quaisquer juros vencidos ou vincendos referentes aos ativos de cobertura;\n\nc) Não sendo possível reembolsar na totalidade o crédito privilegiado a que se refere a alínea anterior, em caso de liquidação da instituição de crédito emitente, um crédito comum sobre o restante património que integra a massa insolvente dessa instituição de crédito.\n\n2 - Os créditos referidos no número anterior limitam-se ao total das obrigações de pagamento associadas às obrigações cobertas.\n\n3 - As hipotecas que garantam os ativos de cobertura das obrigações cobertas prevalecem sobre quaisquer privilégios creditórios imobiliários.\n\n4 - O duplo recurso e o privilégio creditório especial previsto no n.º 1 é aplicável nos casos de extensão do vencimento de obrigações cobertas com extensão automática do vencimento nos termos admitidos pelo presente regime.\n\n5 - O privilégio creditório especial referido no n.º 1 não está sujeito a registo."
+  },
+  "183000030": {
+   "fragment_id": "183113104",
+   "type": 11,
+   "heading": "Artigo 6.º — Proteção em caso de liquidação ou resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Proteção em caso de liquidação ou resolução\n\n1 - As obrigações de pagamento emergentes das obrigações cobertas não podem ser objeto de vencimento antecipado automático em caso de liquidação ou de resolução da instituição de crédito emitente.\n\n2 - Sem prejuízo do disposto nas condições da emissão ou do programa de obrigações cobertas, a assembleia de obrigacionistas pode deliberar o vencimento antecipado das obrigações, por maioria não inferior a dois terços dos votos dos titulares das obrigações cobertas em caso de liquidação da instituição de crédito emitente.\n\n3 - No caso previsto no número anterior, a entidade designada para a gestão dos créditos, nomeadamente o administrador especial designado pela CMVM, procede à liquidação do património afeto às obrigações cobertas, nos termos do presente regime."
+  },
+  "183000031": {
+   "fragment_id": "183113105",
+   "type": 11,
+   "heading": "Artigo 7.º — Segregação dos ativos e proteção em caso de liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Segregação dos ativos e proteção em caso de liquidação\n\n1 - Os ativos de cobertura, incluindo os ativos da reserva de liquidez, o produto de juros, reembolsos e cauções relativas a contratos de derivados:\n\na) Garantem o reembolso das obrigações cobertas, o pagamento de juros e os pagamentos às contrapartes dos contratos de derivados; e\n\nb) Constituem património autónomo, não respondendo por quaisquer dívidas da instituição de crédito emitente até ao pagamento integral dos montantes devidos aos titulares das obrigações cobertas e às contrapartes dos contratos de derivados, mesmo em caso de liquidação da instituição de crédito emitente.\n\n2 - O disposto na alínea b) no número anterior é igualmente aplicável aos montantes recebidos pela instituição de crédito cedente, nos termos do capítulo iv, por conta de ativos de cobertura cedidos à instituição de crédito emitente em momento anterior à liquidação da instituição cedente e que se vençam após a ocorrência da liquidação.\n\n3 - Em caso de liquidação da instituição de crédito emitente, os ativos integrados na garantia global, bem como o produto dos juros, reembolsos e quaisquer cauções relativas a contratos de derivados, são separados da massa insolvente, tendo em vista a sua gestão autónoma até ao pagamento integral dos montantes devidos aos titulares das obrigações cobertas e às contrapartes dos contratos de derivados.\n\n4 - O disposto nos n.os 2 e 3 do artigo anterior e no número anterior não produz quaisquer efeitos sobre o pontual cumprimento da obrigação de pagamento de juros e reembolsos pelos devedores dos ativos de cobertura afetos às obrigações cobertas."
+  },
+  "183000032": {
+   "fragment_id": "183113106",
+   "type": 8,
+   "heading": "Secção III — Garantia global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Garantia global"
+  },
+  "183000033": {
+   "fragment_id": "183113107",
+   "type": 3,
+   "heading": "Subsecção I — Ativos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Ativos elegíveis"
+  },
+  "183000034": {
+   "fragment_id": "183113108",
+   "type": 11,
+   "heading": "Artigo 8.º — Ativos de cobertura elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ativos de cobertura elegíveis\n\n1 - As obrigações cobertas são a todo o momento garantidas por:\n\na) Ativos que observem os requisitos previstos na legislação da União Europeia relativa aos requisitos prudenciais das instituições de crédito em matéria de posições em risco sob a forma de obrigações cobertas;\n\nb) Ativos de cobertura de elevada qualidade que estejam garantidos por uma garantia de primeiro grau sobre bens situados ou registados no espaço económico europeu não abrangidos pela alínea anterior; ou\n\nc) Créditos concedidos a empresas públicas ou por estas garantidos não abrangidos pela alínea a).\n\n2 - Para efeitos do disposto na alínea b) do número anterior:\n\na) Os ativos são créditos vincendos, não sujeitos a condição e não se encontram dados em garantia, nem judicialmente penhorados ou apreendidos;\n\nb) Os créditos têm um valor mínimo determinável a todo o momento;\n\nc) A garantia é válida, pode ser executada e permite recuperar o valor do crédito sem demora indevida; e\n\nd) Os ativos de garantia físicos estão sujeitos a registo público e a normas de valorização adequadas e geralmente aceites.\n\n3 - As instituições de crédito emitentes avaliam a força executória dos direitos de crédito referidos no número anterior e a capacidade de execução dos ativos de garantia antes de os incluírem na garantia global.\n\n4 - Nos casos referidos na alínea b) do n.º 1, os ativos físicos contribuem para a cobertura de responsabilidades emergentes das obrigações cobertas até ao menor dos seguintes valores:\n\na) Valor das garantias em conjunto com eventuais garantias anteriores;\n\nb) 70 % do valor desses ativos físicos.\n\n5 - Para efeitos do disposto nas alíneas a) e b) do n.º 1, podem ser afetos créditos com garantias de grau inferior desde que todos os créditos que beneficiem da garantia de grau superior sejam da titularidade do emitente e estejam afetos à mesma garantia global.\n\n6 - Os créditos referidos na alínea c) do n.º 1 são elegíveis se:\n\na) O nível de sobrecolateralização for, pelo menos, de 10 %;\n\nb) A empresa preste serviços públicos essenciais ao abrigo de um ato de direito público e esteja sujeita a fiscalização pública; e\n\nc) O seu desempenho financeiro, em matéria de receita, for estável, previsível e garanta a respetiva solidez financeira, atendendo a que:\n\ni) Têm autonomia para definir o preço dos seus serviços;\n\nii) Recebem, nos termos da legislação aplicável, transferências públicas em contrapartida pela prestação dos serviços; ou\n\niii) Celebraram um acordo de transferência de resultados com a administração central, regional ou local.\n\n7 - Sem prejuízo da aquisição de novos créditos ou da amortização das obrigações cobertas, o produto do reembolso dos créditos e os respetivos rendimentos apenas podem ser aplicados nos ativos referidos no n.º 1.\n\n8 - A garantia global abrange o produto de juros e reembolsos emergentes dos ativos elegíveis nela integrados."
+  },
+  "183000035": {
+   "fragment_id": "183113109",
+   "type": 11,
+   "heading": "Artigo 9.º — Cobertura do risco dos ativos de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cobertura do risco dos ativos de garantia\n\n1 - A instituição de crédito emitente adota e aplica procedimentos para verificar se os ativos de garantia físicos que garantem ativos de cobertura previstos nas alíneas a) e b) do n.º 1 do artigo anterior estão devidamente segurados contra o risco de perdas ou danos.\n\n2 - O crédito dos seguros referidos no número anterior é segregado nos termos do presente regime."
+  },
+  "183000036": {
+   "fragment_id": "183113110",
+   "type": 11,
+   "heading": "Artigo 10.º — Metodologia e processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Metodologia e processo de avaliação\n\n1 - A metodologia e o processo de avaliação dos ativos de garantia físicos que garantem os ativos de cobertura previstos nas alíneas a) e b) do n.º 1 do artigo 8.º obedecem às seguintes regras:\n\na) No momento da inclusão dos ativos de cobertura na garantia global, os ativos de garantia físicos têm uma avaliação corrente igual ou inferior ao valor de mercado ou ao valor de avaliação para efeitos de concessão do empréstimo hipotecário;\n\nb) A avaliação é efetuada por um avaliador com as qualificações, a competência e a experiência necessárias; e\n\nc) O avaliador é independente do processo de decisão relativo à concessão do crédito, não tem em conta elementos especulativos na avaliação do valor do ativo de garantia físico e dos documentos de garantia, e documenta o valor do ativo de garantia físico de forma transparente e clara.\n\n2 - A instituição de crédito emitente documenta o cumprimento dos requisitos relativos aos ativos de cobertura e à adequação das suas políticas de concessão de crédito com o presente regime."
+  },
+  "183000037": {
+   "fragment_id": "183113111",
+   "type": 11,
+   "heading": "Artigo 11.º — Contratos de derivados incluídos nas garantias globais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contratos de derivados incluídos nas garantias globais\n\nAs instituições de crédito emitentes podem incluir contratos de derivados nas garantias globais quando:\n\na) Visem exclusivamente cobrir risco;\n\nb) O seu volume seja ajustado em caso de redução do risco coberto;\n\nc) Cessem caso o risco coberto deixe de existir;\n\nd) Estejam suficientemente documentados;\n\ne) Sejam objeto de segregação nos termos do presente regime;\n\nf) Não possam ser resolvidos em caso de liquidação ou resolução da instituição de crédito emitente;\n\ng) Sejam negociados num mercado regulamentado ou em sistema de negociação multilateral de um Estado-membro da União Europeia, num mercado reconhecido de um membro de pleno direito da Organização para a Cooperação e Desenvolvimento Económico, ou tenham por contraparte instituições de crédito, situadas no espaço económico europeu, cujas posições em risco sejam elegíveis:\n\ni) Para o grau de qualidade de crédito 1 ou para o grau de qualidade de crédito 2 nos termos da legislação da União Europeia relativa aos requisitos prudenciais das instituições de crédito em matéria de risco de crédito; ou\n\nii) Para o grau de qualidade de crédito 3, se autorizadas pela autoridade competente nos termos da referida legislação em matéria de risco de crédito relativo a obrigações cobertas; e\n\nh) Sejam considerados pelo seu valor de mercado ou, na ausência deste, pelo valor calculado com base em métodos de avaliação adequados."
+  },
+  "183000038": {
+   "fragment_id": "183113112",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição e homogeneidade da garantia global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição e homogeneidade da garantia global\n\n1 - Cada garantia global é composta por uma única classe de ativos primários, por ativos de substituição e por ativos líquidos da reserva de liquidez.\n\n2 - Para efeitos do presente regime:\n\na) São ativos primários os ativos de cobertura previstos no n.º 1 do artigo 8.º; e\n\nb) São ativos de substituição os previstos no n.º 1 do artigo 8.º, quando não sejam considerados ativos primários, e ainda os seguintes ativos:\n\ni) Depósitos, no Banco de Portugal, de moeda ou títulos elegíveis no âmbito das operações de crédito do Eurosistema;\n\nii) Depósitos à ordem ou a prazo, constituídos junto de instituições de crédito situadas no espaço económico europeu que não estejam em relação de domínio ou de grupo com a instituição de crédito emitente;\n\niii) Outros ativos, situados no espaço económico europeu, que preencham simultaneamente requisitos de baixo risco e elevada liquidez.\n\n3 - Consideram-se como uma única classe de ativos primários os créditos hipotecários sobre imóveis destinados à habitação e os créditos hipotecários sobre imóveis para fins comerciais.\n\n4 - No caso previsto no número anterior, a instituição de crédito mantém uma proporção entre os diversos tipos de crédito que não varie significativamente face à proporção inicial, salvo por motivos relativos ao perfil de amortização dos ativos de cobertura."
+  },
+  "183000039": {
+   "fragment_id": "183113113",
+   "type": 11,
+   "heading": "Artigo 13.º — Registo e segregação dos ativos de cobertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Registo e segregação dos ativos de cobertura\n\n1 - Os ativos de cobertura, incluindo os ativos da reserva de liquidez, o produto de juros, reembolsos e cauções relativas a contratos de derivados referidos no artigo 7.º são permanentemente identificáveis através de registo em contas segregadas da instituição de crédito emitente.\n\n2 - Do registo referido no número anterior constam, em relação a cada crédito, designadamente, as seguintes indicações:\n\na) Identificação do mutuário;\n\nb) Montante em dívida;\n\nc) Taxa de juro;\n\nd) Prazo de amortização;\n\ne) Quando esteja em causa um crédito garantido, a identificação da entidade ou pessoa perante quem foi celebrada a respetiva escritura ou que autenticou o documento particular de constituição da garantia;\n\nf) Comprovativo da inscrição definitiva da garantia na conservatória do registo.\n\n3 - Do registo referido no n.º 1 constam, em relação a cada contrato de derivados, designadamente, as seguintes condições:\n\na) Obrigações cobertas objeto de cobertura por esse derivado;\n\nb) Ativo ou ativos subjacentes;\n\nc) Montante nocional do derivado;\n\nd) Identificação da contraparte;\n\ne) Data de início e data de liquidação.\n\n4 - A segregação dos ativos de cobertura é aplicável em caso de liquidação ou de resolução da instituição de crédito emitente."
+  },
+  "183000040": {
+   "fragment_id": "183113114",
+   "type": 11,
+   "heading": "Artigo 14.º — Tutela dos ativos de cobertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tutela dos ativos de cobertura\n\n1 - A afetação de ativos a garantias globais:\n\na) Só pode ser objeto de impugnação pauliana se os interessados provarem a verificação dos requisitos previstos nos artigos 610.º e 612.º do Código Civil, aprovado pelo Decreto-Lei n.º 47344, de 25 de novembro, na sua redação atual, não sendo aplicáveis as presunções legalmente estabelecidas, designadamente no Código da Insolvência e da Recuperação de Empresas, aprovado pelo Decreto-Lei n.º 53/2004, de 18 de março, na sua redação atual;\n\nb) Não pode ser resolvida em benefício da massa insolvente, exceto se os interessados provarem que as partes agiram de má-fé.\n\n2 - O número anterior aplica-se também à cessão de créditos, nos termos do presente regime."
+  },
+  "183000041": {
+   "fragment_id": "183113115",
+   "type": 3,
+   "heading": "Subsecção II — Estruturas intragrupo e financiamento conjunto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Estruturas intragrupo e financiamento conjunto"
+  },
+  "183000042": {
+   "fragment_id": "183113116",
+   "type": 11,
+   "heading": "Artigo 15.º — Estruturas de obrigações cobertas garantidas intragrupo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Estruturas de obrigações cobertas garantidas intragrupo\n\n1 - As obrigações cobertas emitidas internamente podem ser utilizadas como ativos de cobertura para a emissão externa de obrigações cobertas por outra instituição de crédito pertencente ao mesmo grupo da emitente das primeiras quando:\n\na) As obrigações cobertas emitidas internamente sejam vendidas à instituição de crédito que emite as obrigações cobertas emitidas externamente;\n\nb) As obrigações cobertas emitidas internamente sejam utilizadas como ativos de cobertura incluídos na garantia global para as obrigações cobertas emitidas externamente e inscritas no balanço da instituição de crédito emitente destas últimas;\n\nc) A garantia global para as obrigações cobertas emitidas externamente contenha apenas obrigações cobertas emitidas internamente por uma única instituição de crédito do grupo;\n\nd) As obrigações cobertas emitidas externamente sejam colocadas obrigatoriamente junto de investidores que não pertencem ao grupo;\n\ne) As obrigações cobertas emitidas internamente e as obrigações cobertas emitidas externamente sejam, à data de emissão, elegíveis para o grau de qualidade de crédito 1, nos termos da legislação da União Europeia relativa aos requisitos prudenciais das instituições de crédito em matéria de risco de crédito, e sejam garantidas por ativos de cobertura elegíveis;\n\nf) Os ativos de cobertura das obrigações cobertas emitidas internamente cumpram os requisitos de elegibilidade e de cobertura das obrigações cobertas emitidas externamente, no caso de estruturas de obrigações cobertas garantidas intragrupo transfronteiriças.\n\n2 - Caso o grau de qualidade de crédito das obrigações cobertas elegíveis referidas na alínea e) do número anterior se reduza para 2, a CMVM pode autorizar que continuem a integrar uma estrutura de obrigações cobertas garantidas intragrupo, se considerar que essa alteração do grau de qualidade de crédito não resulta de uma violação dos requisitos de autorização.\n\n3 - A CMVM notifica a Autoridade Bancária Europeia da decisão referida no número anterior."
+  },
+  "183000043": {
+   "fragment_id": "183113117",
+   "type": 11,
+   "heading": "Artigo 16.º — Financiamento conjunto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Financiamento conjunto\n\n1 - A instituição de crédito emitente pode utilizar ativos de cobertura elegíveis que tenham sido adquiridos a outra instituição de crédito.\n\n2 - Para efeitos do disposto no número anterior:\n\na) As aquisições são efetuadas nos termos do disposto no capítulo iv;\n\nb) Os ativos adquiridos observam os requisitos de elegibilidade e são segregados nos termos do presente regime."
+  },
+  "183000044": {
+   "fragment_id": "183113118",
+   "type": 3,
+   "heading": "Subsecção III — Controlo da garantia global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Controlo da garantia global"
+  },
+  "183000045": {
+   "fragment_id": "183113119",
+   "type": 11,
+   "heading": "Artigo 17.º — Acompanhamento da garantia global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acompanhamento da garantia global\n\n1 - O órgão de administração da instituição de crédito emitente designa um auditor independente, registado na CMVM, que, na defesa dos interesses dos titulares das obrigações cobertas:\n\na) Verifica continuamente, incluindo em caso de liquidação ou de resolução da instituição de crédito emitente, a qualidade dos ativos que compõem a garantia global e o cumprimento dos requisitos aplicáveis em matéria de elegibilidade dos ativos, incluindo cobertura do risco e derivados, de composição e homogeneidade da garantia global, de segregação, de estruturas intragrupo e financiamento conjunto, de requisitos de cobertura e de liquidez, bem como da informação prestada aos investidores;\n\nb) Elabora um relatório, com uma data de referência máxima de 10 dias úteis antes do estabelecimento do programa de emissão, sobre o cumprimento dos requisitos referidos na alínea anterior;\n\nc) Elabora um relatório anual, com referência a 31 de dezembro, sobre o cumprimento dos requisitos referidos na alínea a), conforme aplicável.\n\n2 - O relatório anual é enviado pelo auditor à instituição de crédito emitente e à CMVM, até ao dia 31 de março do ano seguinte àquele a que diz respeito.\n\n3 - Para efeitos do disposto no n.º 1, considera-se independente o auditor:\n\na) Que não seja o revisor oficial de contas responsável pela revisão legal de contas da instituição de crédito emitente, nos dois anos anteriores ao momento da designação e que com este não esteja relacionado, nem a sua rede ou qualquer pessoa singular em posição de influenciar o resultado da auditoria, por relações financeiras, pessoais, comerciais, de trabalho ou outras;\n\nb) Que não esteja associado a qualquer grupo de interesses específicos na instituição de crédito emitente nem se encontre em alguma circunstância suscetível de afetar a sua isenção de análise ou de decisão, nomeadamente em virtude de ser titular ou atuar em nome ou por conta de titulares de participação qualificada igual ou superior a 5 % do capital social da instituição de crédito emitente ou que não tenha exercido as funções previstas no n.º 1, relativamente à emissão ou programa de obrigações de cobertas, durante 10 anos consecutivos.\n\n4 - A instituição de crédito emitente disponibiliza tempestivamente ao auditor todas as informações necessárias para o desempenho das suas funções.\n\n5 - Se o auditor detetar alguma irregularidade, comunica-a, de imediato e em simultâneo, à instituição de crédito emitente e à CMVM, devendo a instituição de crédito tomar as medidas necessárias para sanar a irregularidade.\n\n6 - O auditor apenas pode ser destituído por justa causa, devendo a sua destituição e respetivo fundamento ser comunicados à CMVM no prazo de 10 dias contados da sua ocorrência.\n\n7 - As funções previstas no n.º 1 podem ser exercidas por uma unidade orgânica da instituição de crédito emitente quando:\n\na) A unidade orgânica não tem funções no processo de decisão de crédito;\n\nb) A função de acompanhamento da garantia global só pode cessar por decisão do órgão de fiscalização; e\n\nc) A unidade orgânica tem acesso direto ao órgão de fiscalização.\n\n8 - Quando elaborados por auditor, os relatórios referidos nas alíneas b) e c) do n.º 1 são emitidos com garantia razoável de fiabilidade."
+  },
+  "183000046": {
+   "fragment_id": "183113120",
+   "type": 8,
+   "heading": "Secção IV — Requisitos de cobertura e liquidez",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Requisitos de cobertura e liquidez"
+  },
+  "183000047": {
+   "fragment_id": "183113121",
+   "type": 11,
+   "heading": "Artigo 18.º — Requisitos de cobertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Requisitos de cobertura\n\n1 - As responsabilidades emergentes das obrigações cobertas estão integralmente garantidas pelos ativos de cobertura.\n\n2 - As responsabilidades referidas no número anterior incluem, nomeadamente:\n\na) As obrigações de pagamento do valor do capital em dívida das obrigações cobertas emitidas;\n\nb) As obrigações de pagamento de quaisquer juros decorrentes das obrigações cobertas em circulação;\n\nc) As obrigações de pagamento decorrentes dos contratos de derivados integrados na garantia global; e\n\nd) Os custos estimados relacionados com a manutenção e administração da liquidação do programa de obrigações cobertas.\n\n3 - O cálculo previsto na alínea d) do número anterior pode ser efetuado sob a forma de um montante fixo.\n\n4 - Os ativos de cobertura referidos no n.º 1 incluem:\n\na) Ativos primários;\n\nb) Ativos de substituição;\n\nc) Ativos líquidos da reserva de liquidez; e\n\nd) Direitos de crédito decorrentes dos contratos de derivados integrados na garantia global, e respetivas cauções, se aplicável.\n\n5 - Os créditos referidos no número anterior que não sejam garantidos e estejam em situação de incumprimento nos termos da legislação da União Europeia relativa aos requisitos prudenciais das instituições de crédito, não contribuem para a cobertura exigida no n.º 1.\n\n6 - Sem prejuízo do disposto no número seguinte ou do nível de sobrecolateralização aplicável, o cálculo do requisito de cobertura exigido no n.º 1 é efetuado de acordo com o princípio nominal, garantindo que o total do capital agregado de todos os ativos de cobertura seja, pelo menos, igual ou superior ao capital agregado das obrigações cobertas por reembolsar.\n\n7 - Exceto se da sua aplicação resultar um rácio de cobertura superior ao calculado de acordo com o princípio nominal, as instituições de crédito podem calculá-lo de acordo com as seguintes metodologias:\n\na) Método do valor atual líquido;\n\nb) Método do valor atual líquido em situação de esforço;\n\nc) Método do valor de mercado prudente.\n\n8 - O cálculo dos ativos e dos passivos baseia-se na mesma metodologia.\n\n9 - Os juros a receber sobre o ativo de cobertura podem ser tidos em consideração para compensar défices de cobertura da obrigação de reembolso do capital associada à obrigação coberta quando exista uma estreita correspondência nos termos da regulamentação da União Europeia e:\n\na) Os pagamentos recebidos durante o período de vida do ativo de cobertura e necessários à cobertura da obrigação de pagamento associada à obrigação coberta correspondente sejam segregados ou incluídos na garantia global sob a forma de ativos de cobertura, até ao vencimento dos pagamentos; e\n\nb) O pagamento antecipado do ativo de cobertura só seja possível através do exercício da opção de entrega, na aceção da regulamentação da União Europeia, ou, caso se trate de uma obrigação coberta resgatável ao valor nominal pela instituição de crédito emitente através do pagamento, pelo mutuário do ativo de cobertura, de um montante pelo menos equivalente ao montante nominal da obrigação coberta resgatada.\n\n10 - Os créditos afetos às garantias globais de obrigações cobertas só podem ser alienados ou onerados observando o disposto no presente regime e nas condições de emissão ou do programa, nomeadamente procedendo à afetação de novos ativos primários ou de substituição, se necessário.\n\n11 - A CMVM regulamenta:\n\na) As regras de avaliação dos contratos de derivados;\n\nb) As regras de cálculo de juros devidos nas obrigações cobertas em circulação e nos ativos de cobertura;\n\nc) O nível do rácio entre o total do capital agregado das obrigações cobertas em circulação e o capital agregado de todos os ativos de cobertura;\n\nd) O eventual nível de sobrecolateralização."
+  },
+  "183000048": {
+   "fragment_id": "183113122",
+   "type": 11,
+   "heading": "Artigo 19.º — Reserva de liquidez",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reserva de liquidez\n\n1 - As garantias globais dispõem permanentemente de uma reserva de liquidez constituída por ativos líquidos disponíveis para cobrir as saídas líquidas de liquidez do programa de obrigações cobertas.\n\n2 - A reserva de liquidez da garantia global cobre as saídas líquidas de liquidez máximas acumuladas nos 180 dias seguintes.\n\n3 - A reserva de liquidez da garantia global é constituída por:\n\na) Ativos elegíveis como ativos de nível 1, nível 2A ou nível 2B, nos termos da regulamentação da União Europeia, avaliados em conformidade com essa regulamentação e não emitidos pela própria instituição de crédito emitente, pela sua empresa-mãe, salvo se for uma entidade do setor público que não seja uma instituição de crédito, por uma sua filial ou outra filial da sua empresa-mãe, ou por uma entidade de titularização com objeto específico com a qual a instituição de crédito mantenha relações estreitas;\n\nb) Posições em risco a curto prazo sobre instituições de crédito que sejam elegíveis para o grau de qualidade de crédito 1 ou 2 ou créditos, incluindo depósitos, a curto prazo a instituições de crédito que sejam elegíveis para o grau de qualidade de crédito 1, 2 ou 3, nos termos da legislação da União Europeia relativa aos requisitos prudenciais das instituições de crédito em matéria de risco de crédito sobre obrigações cobertas.\n\n4 - Os ativos referidos no número anterior são igualmente segregados.\n\n5 - Os créditos não garantidos resultantes de posições em risco consideradas em situação de incumprimento nos termos da legislação da União Europeia relativa aos requisitos prudenciais das instituições de crédito em matéria de risco de crédito não contribuem para a reserva de liquidez da garantia global.\n\n6 - O disposto nos n.os 1 a 4 não se aplica quando a instituição de crédito emitente se encontre abrangida por requisitos de liquidez estabelecidos em legislação ou regulamentação da União Europeia que resultem na sobreposição com a reserva de liquidez da garantia global, durante o período previsto nessa legislação ou regulamentação.\n\n7 - O cálculo do capital relativo às emissões de obrigações cobertas com extensão automática do vencimento é efetuado com referência à data de vencimento final, de acordo com as condições da obrigação coberta.\n\n8 - O disposto no n.º 1 não é aplicável às obrigações cobertas sujeitas a requisitos de financiamento alinhados."
+  },
+  "183000049": {
+   "fragment_id": "183113123",
+   "type": 8,
+   "heading": "Secção V — Regularização de incumprimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Regularização de incumprimentos"
+  },
+  "183000050": {
+   "fragment_id": "183113124",
+   "type": 11,
+   "heading": "Artigo 20.º — Regularização de incumprimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regularização de incumprimentos\n\n1 - Caso os requisitos de homogeneidade, de cobertura ou de reserva de liquidez sejam incumpridos, a instituição de crédito emitente procede imediatamente à:\n\na) Afetação de novos ativos primários ou de substituição, com ou sem substituição dos ativos já afetos às obrigações cobertas;\n\nb) Aquisição de obrigações cobertas em montante suficiente para a regularização; ou\n\nc) Afetação de novos ativos líquidos à reserva de liquidez.\n\n2 - Sem prejuízo do disposto no número anterior, podem permanecer afetos às obrigações cobertas créditos que entrem em incumprimento em momento posterior à respetiva afetação enquanto esse incumprimento não for igual ou superior a 90 dias."
+  },
+  "183000051": {
+   "fragment_id": "183113125",
+   "type": 8,
+   "heading": "Secção VI — Obrigações cobertas com extensão automática do vencimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Obrigações cobertas com extensão automática do vencimento"
+  },
+  "183000052": {
+   "fragment_id": "183113126",
+   "type": 11,
+   "heading": "Artigo 21.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Requisitos\n\n1 - As instituições de crédito podem emitir obrigações cobertas com extensão automática do vencimento quando:\n\na) Os pressupostos não discricionários da extensão sejam especificados nas cláusulas e condições de emissão aplicáveis à obrigação coberta;\n\nb) A informação prestada aos investidores relativa a obrigações cobertas com extensão automática do vencimento seja suficiente para percecionar o respetivo risco, incluindo:\n\ni) Os pressupostos da extensão do prazo de vencimento;\n\nii) As consequências, para a extensão do prazo de vencimento, da liquidação ou da resolução da instituição de crédito emitente;\n\niii) As funções da CMVM no que respeita à extensão do prazo de vencimento;\n\nc) A data de vencimento final da obrigação coberta é determinável a todo o momento; e\n\nd) Em caso de liquidação ou de resolução da instituição de crédito emitente, as extensões dos prazos de vencimento não afetem a graduação dos créditos dos titulares de obrigações cobertas nem alterem a sequência do calendário inicial de vencimento do programa de obrigações cobertas.\n\n2 - O vencimento da obrigação coberta só pode ser estendido com fundamento nos seguintes factos:\n\na) Revogação da autorização da instituição de crédito emitente; ou\n\nb) Falha, previsível ou efetiva, do pagamento de montantes de capital ou de juros da obrigação coberta devidos na data de vencimento inicial, que não seja sanável em prazo estabelecido nas condições da emissão ou do programa, não superior a 10 dias úteis.\n\n3 - A instituição de crédito emitente comunica a extensão do prazo de vencimento da obrigação coberta e respetivo fundamento à CMVM:\n\na) Com 10 dias de antecedência, pelo menos, face à data de produção de efeitos; ou\n\nb) O mais rapidamente possível, quando a ocorrência do fundamento ou o momento do seu conhecimento não permita cumprir o prazo previsto na alínea anterior.\n\n4 - A CMVM opõe-se à extensão do prazo, no prazo de 10 dias contados da receção das comunicações referidas no número anterior, quando considere que não estão cumpridos os requisitos dos n.os 1 e 2."
+  },
+  "183000053": {
+   "fragment_id": "183113127",
+   "type": 1,
+   "heading": "Capítulo III — Programas de obrigações cobertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Programas de obrigações cobertas"
+  },
+  "183000054": {
+   "fragment_id": "183113128",
+   "type": 8,
+   "heading": "Secção I — Autorização do programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Autorização do programa"
+  },
+  "183000055": {
+   "fragment_id": "183113129",
+   "type": 11,
+   "heading": "Artigo 22.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Autorização\n\n1 - O programa de obrigações cobertas é sujeito a autorização prévia da CMVM.\n\n2 - O programa de obrigações cobertas preenche os seguintes requisitos:\n\na) A instituição de crédito emitente dispõe de um programa operacional adequado que define o processo de emissão das obrigações cobertas;\n\nb) A instituição de crédito emitente dispõe de políticas, processos e metodologias adequados de proteção dos investidores no quadro da aprovação, alteração, recondução e refinanciamento dos empréstimos incluídos na garantia global;\n\nc) A instituição de crédito emitente afeta membros da sua administração e outros colaboradores ao programa de obrigações cobertas e estes dispõem de qualificações e conhecimentos adequados em matéria de emissão de obrigações cobertas e de administração de programas de obrigações cobertas; e\n\nd) A instituição de crédito emitente dispõe de uma estrutura para a administração e monitorização da garantia global que cumpre os requisitos aplicáveis previstos no presente regime.\n\n3 - A CMVM pronuncia-se sobre o pedido de autorização no prazo de 90 dias contados da receção do pedido."
+  },
+  "183000056": {
+   "fragment_id": "183113130",
+   "type": 11,
+   "heading": "Artigo 23.º — Cooperação com o Banco de Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cooperação com o Banco de Portugal\n\n1 - A CMVM comunica ao Banco de Portugal, no prazo de dois dias úteis após a respetiva apresentação, o pedido de autorização de programa de obrigações cobertas.\n\n2 - O Banco de Portugal emite o seu parecer no prazo de 10 dias úteis após a receção da comunicação da CMVM, pronunciando-se, designadamente, sobre matérias relativas à instituição de crédito, de que tenha conhecimento por efeito das suas funções de supervisão prudencial, e que possam relevar para efeitos do disposto nas alíneas b) a d) do n.º 2 do artigo anterior."
+  },
+  "183000057": {
+   "fragment_id": "183113131",
+   "type": 11,
+   "heading": "Artigo 24.º — Cumprimento dos requisitos da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cumprimento dos requisitos da autorização\n\n1 - A CMVM pode determinar a proibição de realização de novas emissões ao abrigo do programa quando a instituição de crédito deixe de cumprir os requisitos de concessão da autorização ao programa de obrigações cobertas.\n\n2 - O disposto no número anterior não afeta a continuidade das obrigações cobertas emitidas ao abrigo do programa, nomeadamente em matéria de obrigações da instituição de crédito emitente e de direitos dos titulares das obrigações cobertas."
+  },
+  "183000058": {
+   "fragment_id": "183113132",
+   "type": 8,
+   "heading": "Secção II — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Emissão"
+  },
+  "183000059": {
+   "fragment_id": "183113133",
+   "type": 11,
+   "heading": "Artigo 25.º — Formalidades da emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Formalidades da emissão\n\n1 - O estabelecimento de um programa de obrigações cobertas é objeto de deliberação expressa do órgão de administração da instituição de crédito emitente, que preveja o prazo máximo no qual são emitidas as obrigações ao abrigo do programa.\n\n2 - A emissão de obrigações cobertas é objeto de deliberação expressa do órgão de administração da instituição de crédito emitente, da qual constam as características das obrigações a emitir e as principais condições da emissão."
+  },
+  "183000060": {
+   "fragment_id": "183113134",
+   "type": 11,
+   "heading": "Artigo 26.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regime\n\n1 - Não são aplicáveis à emissão de obrigações cobertas:\n\na) Sem prejuízo do disposto no artigo 28.º, o capítulo iv do título iv do Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de setembro, na sua redação atual (Código das Sociedades Comerciais);\n\nb) A alínea l) do artigo 3.º do Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de dezembro, na sua redação atual.\n\n2 - As obrigações cobertas são equiparadas a instrumentos financeiros admitidos à negociação em mercado regulamentado para efeitos de composição das reservas das instituições de segurança social."
+  },
+  "183000061": {
+   "fragment_id": "183113135",
+   "type": 11,
+   "heading": "Artigo 27.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Modalidades\n\n1 - A emissão de obrigações cobertas pode ser efetuada de forma contínua ou por séries.\n\n2 - O disposto no artigo 169.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, na sua redação atual (Código dos Valores Mobiliários), não é aplicável à emissão de obrigações cobertas."
+  },
+  "183000062": {
+   "fragment_id": "183113136",
+   "type": 11,
+   "heading": "Artigo 28.º — Assembleia de obrigacionistas e representante comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Assembleia de obrigacionistas e representante comum\n\n1 - É aplicável às emissões de obrigações cobertas o disposto nos artigos 355.º a 359.º do Código das Sociedades Comerciais, com exceção do disposto no n.º 2 do artigo 357.º e com as especificidades constantes dos números seguintes.\n\n2 - O representante comum dos obrigacionistas é único para todas as emissões de obrigações cobertas emitidas ao abrigo do mesmo programa.\n\n3 - Os termos da designação prevista nos números anteriores são estabelecidos nas condições do programa, designadamente no que respeita à remuneração do representante comum, aos custos e encargos inerentes ao desenvolvimento das suas funções, às despesas de convocação e realização de assembleias de obrigacionistas, aos limites aplicáveis à responsabilidade do representante comum e aos termos das responsabilidades que perante ele são assumidas pela instituição de crédito emitente e demais intervenientes na emissão em causa.\n\n4 - A remuneração do representante comum, os demais custos e encargos inerentes ao desenvolvimento das suas funções e as despesas de convocação e realização de assembleias de obrigacionistas, quando incorridas com respeito pelas condições da emissão, são encargos do património autónomo correspondente às emissões de obrigações cobertas.\n\n5 - As condições da emissão ou do programa podem estabelecer os poderes de representação dos obrigacionistas conferidos ao representante comum e a forma da sua articulação com a assembleia de obrigacionistas, podendo ser atribuídos ao representante comum poderes para:\n\na) Executar as deliberações da assembleia de obrigacionistas que tenham decretado o vencimento antecipado das obrigações em causa;\n\nb) Exercer, em nome e representação dos obrigacionistas, os direitos que lhes sejam conferidos pelo presente regime ou pelas condições da emissão;\n\nc) Representar os obrigacionistas em juízo, em qualquer tipo de ações."
+  },
+  "183000063": {
+   "fragment_id": "183113137",
+   "type": 8,
+   "heading": "Secção III — Registo e sistemas de documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Registo e sistemas de documentação"
+  },
+  "183000064": {
+   "fragment_id": "183113138",
+   "type": 11,
+   "heading": "Artigo 29.º — Registo de operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Registo de operações\n\nAs instituições de crédito emitentes de obrigações cobertas:\n\na) Detêm sistemas e processos de documentação adequados; e\n\nb) Registam todas as operações relacionadas com o programa de obrigações cobertas."
+  },
+  "183000065": {
+   "fragment_id": "183113139",
+   "type": 8,
+   "heading": "Secção IV — Informação aos investidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Informação aos investidores"
+  },
+  "183000066": {
+   "fragment_id": "183113140",
+   "type": 11,
+   "heading": "Artigo 30.º — Disponibilização de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Disponibilização de informação\n\n1 - A instituição de crédito emitente divulga, disponibiliza e atualiza trimestralmente, no seu sítio na Internet, informação suficientemente pormenorizada para que os investidores possam avaliar o perfil e os riscos do programa de obrigações cobertas, incluindo nomeadamente:\n\na) O valor da garantia global e das obrigações cobertas não reembolsadas;\n\nb) A lista dos números de identificação nacional dos títulos (ISIN - International Securities Identification Number) de todas as emissões de obrigações cobertas realizadas no âmbito de um programa de obrigações cobertas, para as quais tenha sido atribuído um ISIN;\n\nc) Informação sobre a distribuição geográfica e a tipologia de ativos de garantia, a dimensão de empréstimos afetos à garantia global e o método de avaliação desses ativos de garantia;\n\nd) Informação sobre os riscos de mercado, incluindo os riscos de taxa de juro e cambial, e os riscos de crédito e de liquidez;\n\ne) A estrutura de prazos de vencimento dos ativos de cobertura e das obrigações cobertas, incluindo um enquadramento geral dos fatores de prorrogação do prazo de vencimento, se aplicável;\n\nf) Os níveis da cobertura exigida e disponível, bem como os níveis de sobrecolateralização legal, contratual ou voluntária;\n\ng) A percentagem dos empréstimos relativamente à qual se considera que ocorreu um incumprimento nos termos da legislação da União Europeia relativa aos requisitos prudenciais para as instituições de crédito e sempre que se trate de empréstimos vencidos há mais de 90 dias.\n\n2 - No caso de obrigações cobertas emitidas externamente no âmbito de estruturas de obrigações cobertas garantidas intragrupo, o disposto no número anterior é aplicável a todas as obrigações cobertas emitidas internamente.\n\n3 - As informações aos investidores são disponibilizadas, pelo menos, em base agregada."
+  },
+  "183000067": {
+   "fragment_id": "183113141",
+   "type": 8,
+   "heading": "Secção V — Informação à Comissão do Mercado de Valores Mobiliários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Informação à Comissão do Mercado de Valores Mobiliários"
+  },
+  "183000068": {
+   "fragment_id": "183113142",
+   "type": 11,
+   "heading": "Artigo 31.º — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Deveres de informação\n\n1 - As instituições de crédito emitentes enviam periodicamente à CMVM, e sempre que esta o solicite, informação sobre os programas e emissões de obrigações cobertas relativa, pelo menos, aos seguintes elementos:\n\na) A elegibilidade dos ativos e requisitos aplicáveis à garantia global;\n\nb) A segregação dos ativos de cobertura;\n\nc) O cumprimento dos deveres pela entidade que acompanha a garantia global;\n\nd) Os requisitos de cobertura;\n\ne) A reserva de liquidez da garantia global;\n\nf) As condições aplicáveis às obrigações cobertas com extensão automática do vencimento.\n\n2 - Sem prejuízo dos deveres legais e regulamentares aplicáveis às emissões e programas de obrigações cobertas admitidos à negociação, as instituições de crédito emitentes comunicam à CMVM cada emissão de obrigações cobertas, incluindo as respetivas condições estabelecidas, no prazo de 5 dias após a respetiva emissão."
+  },
+  "183000069": {
+   "fragment_id": "183113143",
+   "type": 8,
+   "heading": "Secção VI — Liquidação ou resolução de instituições de crédito emitentes de obrigações cobertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Liquidação ou resolução de instituições de crédito emitentes de obrigações cobertas"
+  },
+  "183000070": {
+   "fragment_id": "183113144",
+   "type": 11,
+   "heading": "Artigo 32.º — Comunicação e cooperação em caso de liquidação ou resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Comunicação e cooperação em caso de liquidação ou resolução\n\n1 - A autoridade de resolução notifica a CMVM, logo que possível, quando aplique uma medida de resolução à instituição de crédito emitente, informando, em concreto, sobre o tratamento das obrigações cobertas na medida de resolução aplicada.\n\n2 - O Banco de Portugal informa imediatamente a CMVM da decisão de revogação da autorização da instituição de crédito emitente.\n\n3 - Em caso de aplicação de uma medida de resolução a uma instituição de crédito emitente, a CMVM coopera com a autoridade de resolução para proteger os direitos e interesses dos titulares de obrigações cobertas, verificando designadamente a continuidade e a boa gestão do programa de operações cobertas na sequência da aplicação da medida de resolução.\n\n4 - A CMVM regulamenta a informação a prestar pelas instituições de crédito emitentes nas situações previstas nos n.os 1 e 2."
+  },
+  "183000071": {
+   "fragment_id": "183113145",
+   "type": 11,
+   "heading": "Artigo 33.º — Administrador especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Administrador especial\n\n1 - Em caso de revogação da autorização e consequente liquidação da instituição de crédito emitente, a CMVM pode nomear um administrador especial, no prazo de 10 dias úteis após a revogação da referida autorização, para assegurar que os direitos e interesses dos titulares de obrigações cobertas são preservados, verificando designadamente a continuidade e a boa gestão do programa de obrigações cobertas durante o tempo necessário.\n\n2 - A CMVM pode destituir o administrador especial, designadamente caso este incumpra as suas funções e responsabilidades.\n\n3 - As funções e responsabilidades do administrador especial incluem:\n\na) A extinção dos passivos associados às obrigações cobertas;\n\nb) A gestão e liquidação dos ativos de cobertura, incluindo a sua transferência para outra instituição de crédito emitente de obrigações cobertas conjuntamente com os passivos associados às obrigações cobertas;\n\nc) A adoção dos atos necessários:\n\ni) À adequada administração da garantia global, à monitorização contínua da cobertura dos passivos associados às obrigações cobertas, à instauração das ações judiciais necessárias para reintegrar os ativos na garantia global e à transferência dos ativos remanescentes, após a extinção de todos os passivos da carteira de cobertura, para a massa insolvente da instituição de crédito emitente;\n\nii) À boa gestão dos créditos e das respetivas garantias, para assegurar o pagamento tempestivo de todos os montantes devidos aos titulares das obrigações cobertas, incluindo vender os créditos, assegurar os serviços de cobrança, os serviços administrativos relativos aos créditos, todas as relações com os respetivos devedores e os atos conservatórios modificativos e extintivos relativos às garantias;\n\nd) O registo atualizado, em contas extrapatrimoniais, dos elementos que integram o património autónomo, nos termos estabelecidos no presente regime.\n\n4 - A retribuição do administrador especial designado é fixada pela CMVM e constitui um encargo do património autónomo.\n\n5 - A CMVM, a autoridade de resolução e, caso tenha sido nomeado, o administrador especial coordenam as suas medidas e trocam a informação necessária ao desempenho das respetivas funções."
+  },
+  "183000072": {
+   "fragment_id": "183113146",
+   "type": 11,
+   "heading": "Artigo 34.º — Dever de informação do administrador especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Dever de informação do administrador especial\n\n1 - O administrador especial elabora, imediatamente após o início do exercício das funções de gestão, em relação ao património autónomo e respetivas obrigações, um balanço de abertura, acompanhado das notas explicativas necessárias.\n\n2 - O administrador especial elabora ainda, em relação ao património autónomo e respetivas obrigações, um relatório e contas anual.\n\n3 - O relatório e contas referido no número anterior é objeto de relatório de auditoria, elaborado por auditor independente nomeado pelo administrador especial.\n\n4 - O administrador especial envia à CMVM, até ao final do trimestre seguinte ao termo do exercício, o relatório e contas previsto no n.º 2, acompanhado do relatório de auditoria."
+  },
+  "183000073": {
+   "fragment_id": "183113147",
+   "type": 1,
+   "heading": "Capítulo IV — Cessão de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Cessão de créditos"
+  },
+  "183000074": {
+   "fragment_id": "183113148",
+   "type": 11,
+   "heading": "Artigo 35.º — Entidades cedentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entidades cedentes\n\nSó instituições de crédito podem ceder créditos para efeitos do presente regime."
+  },
+  "183152275": {
+   "fragment_id": "183113149",
+   "type": 11,
+   "heading": "Artigo 36.º — Créditos suscetíveis de cessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Créditos suscetíveis de cessão\n\nSó podem ser objeto de cessão os créditos cuja transmissibilidade não esteja sujeita a restrições legais ou convencionais."
+  },
+  "183152276": {
+   "fragment_id": "183113150",
+   "type": 11,
+   "heading": "Artigo 37.º — Deliberação da cessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Deliberação da cessão\n\n1 - As cessões de créditos são objeto de deliberação expressa do órgão de administração da instituição de crédito cedente.\n\n2 - As deliberações previstas no número anterior têm a validade de seis meses, caducando no termo desse prazo."
+  },
+  "183152277": {
+   "fragment_id": "183113151",
+   "type": 11,
+   "heading": "Artigo 38.º — Efeitos da cessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Efeitos da cessão\n\n1 - A cessão de créditos produz efeitos em relação aos respetivos devedores quando se tornar eficaz entre o cedente e o cessionário, não dependendo do conhecimento, aceitação ou notificação desses devedores.\n\n2 - Dos meios de defesa que lhes seria lícito invocar contra o cedente, os devedores dos créditos cedidos só podem opor ao cessionário aqueles que provenham de facto anterior ao momento em que a cessão se torne eficaz entre o cedente e o cessionário.\n\n3 - A cessão de créditos respeita sempre as situações jurídicas de que emergem os créditos objeto de cessão e todos os direitos e garantias dos devedores oponíveis ao cedente dos créditos ou o estipulado nos contratos celebrados com os devedores dos créditos, designadamente quanto ao exercício dos respetivos direitos em matéria de reembolso antecipado, cessão da posição contratual e sub-rogação, mantendo estes todas as relações exclusivamente com o cedente.\n\n4 - No caso de cessão de quaisquer créditos hipotecários concedidos ao abrigo de regimes legais de bonificação, as instituições de crédito cessionárias passam, por efeito da cessão, a ter também direito a receber quaisquer subsídios aplicáveis, não sendo os mesmos afetados pela cessão dos créditos em causa."
+  },
+  "183152278": {
+   "fragment_id": "183113152",
+   "type": 11,
+   "heading": "Artigo 39.º — Forma do contrato de cessão de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Forma do contrato de cessão de créditos\n\n1 - O contrato de cessão dos créditos pode ser celebrado por documento particular.\n\n2 - Para efeitos de averbamento ao registo da transmissão dos créditos hipotecários, o documento particular referido no número anterior constitui título bastante desde que contenha o reconhecimento presencial das assinaturas nele apostas ou, se existirem, pelos secretários das sociedades intervenientes."
+  },
+  "183152279": {
+   "fragment_id": "183113153",
+   "type": 11,
+   "heading": "Artigo 40.º — Gestão de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Gestão de créditos\n\n1 - As instituições de crédito cedente e cessionária podem celebrar, simultaneamente com a cessão de créditos, um contrato em que a cedente se encarregue, em nome e em representação da cessionária, de praticar todos os atos que se revelem adequados à boa gestão dos créditos e das respetivas garantias, de assegurar os serviços de cobrança, os serviços administrativos relativos aos créditos, todas as relações com os respetivos devedores e os atos conservatórios, modificativos e extintivos relativos às garantias.\n\n2 - Os montantes que estejam na posse da instituição de crédito gestora dos créditos afetos às obrigações cobertas não podem em caso algum ser penhorados ou de qualquer forma apreendidos, mesmo em caso de liquidação dessa instituição de crédito.\n\n3 - Em caso de revogação da autorização e consequente liquidação da instituição de crédito gestora dos créditos, bem como, quando necessário, no caso de intervenção corretiva, administração provisória ou resolução da mesma, a CMVM determina a sua substituição na gestão dos créditos, mediante contrato a celebrar pela instituição de crédito e entidade habilitada para o efeito, o qual é notificado aos respetivos devedores."
+  },
+  "183152280": {
+   "fragment_id": "183113154",
+   "type": 11,
+   "heading": "Artigo 41.º — Substituição de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Substituição de créditos\n\nDesde que essa possibilidade conste da deliberação de cessão de créditos, o contrato de cessão de créditos pode prever a obrigação de a instituição de crédito cedente substituir os créditos relativamente aos quais se verifique incumprimento por prazo igual ou superior a 90 dias ou relativamente aos quais as demais condições previstas no presente regime não sejam cumpridas, até ao limite estabelecido na deliberação."
+  },
+  "183152281": {
+   "fragment_id": "183113155",
+   "type": 1,
+   "heading": "Capítulo V — Designação e marcas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Designação e marcas"
+  },
+  "183152282": {
+   "fragment_id": "183113156",
+   "type": 11,
+   "heading": "Artigo 42.º — Designações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Designações\n\n1 - A designação «obrigação coberta», bem como a marca «Obrigação Coberta Europeia» e a sua tradução em todas as línguas oficiais da União Europeia só podem ser utilizadas nas emissões de obrigações cobertas que cumpram os requisitos estabelecidos no presente regime.\n\n2 - A marca «Obrigação Coberta Europeia (Premium)» e a sua tradução em todas as línguas oficiais da União Europeia só pode ser utilizada nas emissões de obrigações cobertas que cumpram ainda os requisitos previstos na legislação da União Europeia relativa aos requisitos prudenciais das instituições de crédito em matéria de posições em risco sob a forma de obrigações cobertas."
+  },
+  "183152283": {
+   "fragment_id": "183113157",
+   "type": 1,
+   "heading": "Capítulo VI — Supervisão, regulamentação e cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Supervisão, regulamentação e cooperação"
+  },
+  "183152284": {
+   "fragment_id": "183113158",
+   "type": 11,
+   "heading": "Artigo 43.º — Supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Supervisão\n\n1 - A CMVM supervisiona e fiscaliza o cumprimento do presente regime.\n\n2 - A CMVM exerce, no quadro do presente regime, os poderes e prerrogativas previstos no Código dos Valores Mobiliários e restantes normativos aplicáveis àquela autoridade em matéria de instrumentos financeiros."
+  },
+  "183152285": {
+   "fragment_id": "183113159",
+   "type": 11,
+   "heading": "Artigo 44.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Regulamentação\n\nA CMVM pode regulamentar as obrigações cobertas, incluindo, nomeadamente:\n\na) Os procedimentos aplicáveis à gestão autónoma dos ativos e à liquidação do património afeto às obrigações cobertas;\n\nb) Os requisitos de baixo risco e elevada liquidez de outros ativos elegíveis;\n\nc) As metodologias de avaliação relativas às tipologias de ativos elegíveis;\n\nd) Os requisitos dos contratos de derivados incluídos na garantia global;\n\ne) Os requisitos de homogeneidade da composição da garantia global;\n\nf) As condições de acesso dos titulares das obrigações cobertas, ou do representante comum dos obrigacionistas por conta destes, à lista de ativos que integram a garantia global afeta às obrigações cobertas;\n\ng) O conteúdo e meios de divulgação e reporte do relatório da entidade que acompanha a garantia global;\n\nh) Os requisitos de cobertura das obrigações cobertas;\n\ni) O formato da divulgação de informação aos investidores;\n\nj) Os sistemas e processos de documentação adequados das operações dos programas de obrigações cobertas;\n\nk) Os requisitos dos programas de obrigações cobertas, incluindo requisitos complementares;\n\nl) Os procedimentos relativos à prestação de informação pelas instituições de crédito emitentes de obrigações cobertas em caso de liquidação ou de resolução;\n\nm) Os reportes de informação periódica, bem como outros reportes que considere necessários para o exercício da sua supervisão;\n\nn) Os reportes de informação sobre as emissões de obrigações cobertas, nomeadamente para fins estatísticos, sobre ativos subjacentes e sobre a respetiva gestão dos riscos;\n\no) O reporte de informação em caso de liquidação ou de resolução da instituição de crédito emitente das obrigações cobertas;\n\np) As taxas devidas pela supervisão do presente regime."
+  },
+  "183152286": {
+   "fragment_id": "183113160",
+   "type": 11,
+   "heading": "Artigo 45.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Cooperação\n\n1 - A CMVM coopera estreitamente com o Banco de Portugal, com o Banco Central Europeu, nos termos da legislação da União Europeia relativa ao mecanismo único de supervisão, e, em caso de resolução de uma instituição de crédito emitente, com a autoridade de resolução designada em Portugal ou com o Conselho Único de Resolução.\n\n2 - A CMVM e o Banco de Portugal cooperam estreitamente entre si e trocam as informações que sejam pertinentes para o exercício das respetivas funções de supervisão.\n\n3 - Para efeitos do disposto no número anterior, a CMVM e o Banco de Portugal comunicam:\n\na) Todas as informações relevantes solicitadas entre si; e\n\nb) Por sua própria iniciativa, quaisquer informações essenciais a outras autoridades competentes noutros Estados-membros.\n\n4 - A CMVM coopera com as autoridades congéneres dos demais Estados-membros da União Europeia, com a Autoridade Bancária Europeia, ou, se for caso disso, com a Autoridade Europeia dos Valores Mobiliários e dos Mercados.\n\n5 - Para efeitos do disposto no presente artigo, as informações são consideradas essenciais se puderem influenciar significativamente a avaliação da emissão de obrigações cobertas noutro Estado-membro."
+  },
+  "183152287": {
+   "fragment_id": "183113161",
+   "type": 11,
+   "heading": "Artigo 46.º — Divulgação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Divulgação de informação\n\n1 - A CMVM publica no seu sítio na Internet:\n\na) Os textos das disposições legais, regulamentares e administrativas nacionais e das orientações gerais adotadas relativamente às emissões de obrigações cobertas;\n\nb) A lista das obrigações cobertas que podem utilizar as marcas «Obrigação Coberta Europeia» e «Obrigação Coberta Europeia (Premium)».\n\n2 - O Banco de Portugal publica no seu sítio na Internet a lista das instituições de crédito autorizadas a emitir obrigações cobertas.\n\n3 - As informações publicadas nos termos dos números anteriores são suficientes para permitir uma comparação significativa das abordagens adotadas pelas autoridades competentes dos diferentes Estados-membros.\n\n4 - Estas informações são atualizadas sempre que ocorram alterações.\n\n5 - A CMVM e o Banco de Portugal notificam anualmente à Autoridade Bancária Europeia as listas referidas na alínea b) do n.º 1 e no n.º 2, consoante aplicável."
+  },
+  "183152288": {
+   "fragment_id": "183113162",
+   "type": 1,
+   "heading": "Capítulo VII — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Regime sancionatório"
+  },
+  "183152289": {
+   "fragment_id": "183113163",
+   "type": 11,
+   "heading": "Artigo 47.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Regime sancionatório\n\nAo apuramento da responsabilidade pelos ilícitos de mera ordenação social pela violação dos deveres previstos no presente regime e ao respetivo processamento aplicam-se as disposições constantes do título viii do Código dos Valores Mobiliários.\n\n115286623"
+  },
+  "183000019": {
+   "fragment_id": "183113093",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de abril de 2022. - António Luís Santos da Costa - Paulo Alexandre Nascimento Cafôfo - Fernando Medina Maciel Almeida Correia.\n\nPromulgado em 28 de abril de 2022.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 2 de maio de 2022.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "204931688": {
+   "fragment_id": "183113163",
+   "type": 11,
+   "heading": "Artigo 47.º — Regime sancionatório",
+   "in_force_from": "2022-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10"
+   ],
+   "markdown": "###### Artigo 47.º — Regime sancionatório\n\n1 - As contraordenações previstas no presente regime podem ser qualificadas como:\n\na) Muito graves, puníveis com coima entre 25 000 (euro) e 5 000 000 (euro);\n\nb) Graves, puníveis com coima entre 12 500 (euro) e 2 500 000 (euro);\n\nc) Menos graves, puníveis com coima entre 5000 (euro) e 1 000 000 (euro).\n\n2 - Constitui contraordenação muito grave:\n\na) A violação dos deveres relativos a ativos elegíveis e à garantia global;\n\nb) A inobservância dos requisitos sobre estruturas de obrigações cobertas garantidas intragrupo ou financiamento conjunto;\n\nc) A inobservância dos requisitos prudenciais de cobertura e liquidez;\n\nd) A inobservância dos requisitos relativos à emissão de obrigações cobertas com prorrogação automática do vencimento;\n\ne) A obtenção de autorização para um programa de obrigações cobertas através de declarações falsas ou incompletas, ou outros meios irregulares;\n\nf) A emissão de obrigações cobertas sem autorização devida;\n\ng) O incumprimento das condições subjacentes à concessão da autorização para um programa de obrigações cobertas;\n\nh) A utilização das marcas ou denominações relativas a obrigações cobertas fora das condições legalmente previstas.\n\n3 - Constitui contraordenação grave:\n\na) A violação dos deveres relativos a arquivo e documentação;\n\nb) A violação do dever de regularização de incumprimentos;\n\nc) A omissão de prestação de informação à entidade que acompanha a garantia global;\n\nd) A violação dos deveres relativos à cessão de créditos.\n\n4 - Constitui contraordenação menos grave a violação de deveres não referidos nos números anteriores previstos na legislação da União Europeia ou nacional e respetiva regulamentação relativa à emissão de obrigações cobertas.\n\n5 - O limite máximo da coima aplicável nos termos do disposto nos números anteriores é elevado ao maior dos seguintes valores:\n\na) O triplo do benefício económico obtido, mesmo que total ou parcialmente sob a forma de perdas potencialmente evitadas; ou\n\nb) 10 % do volume de negócios anual total, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração, quando se trate de contraordenações muito graves.\n\n6 - Se a pessoa coletiva for uma empresa-mãe ou uma filial da empresa-mãe obrigada a elaborar contas financeiras consolidadas, o volume de negócios a considerar para efeitos do disposto na alínea b) do número anterior é o volume de negócios anual total ou o tipo de rendimento correspondente, de acordo com as diretivas contabilísticas aplicáveis, nos termos das últimas contas consolidadas disponíveis aprovadas pelo órgão de administração da empresa-mãe de que essa empresa depende em última instância.\n\n7 - Cumulativamente com as coimas previstas nos números anteriores, podem ser aplicadas ao responsável pela prática de qualquer um dos respetivos ilícitos de mera ordenação social as sanções acessórias previstas no artigo 404.º do Código dos Valores Mobiliários.\n\n8 - Se a lei ou o regulamento exigirem que um dever seja cumprido num determinado prazo considera-se que existe incumprimento logo que o prazo fixado tenha sido ultrapassado.\n\n9 - Considera-se como não divulgada a informação cuja divulgação não tenha sido efetuada através dos meios adequados.\n\n10 - Sempre que uma lei ou um regulamento alterar as condições ou termos de cumprimento de um dever constante de lei ou regulamento anterior, aplica-se a lei anterior aos factos ocorridos no âmbito da sua vigência e a lei nova aos factos posteriores, salvo se perante a identidade do facto houver lugar à aplicação do regime concretamente mais favorável.\n\n11 - As decisões que condenem o agente pela prática de uma ou mais contraordenações previstas no presente regime são divulgadas nos termos do artigo 422.º do Código dos Valores Mobiliários.\n\n12 - A CMVM informa a Autoridade Bancária Europeia das decisões condenatórias proferidas, bem como da situação e do resultado dos recursos das mesmas.\n\n13 - (Anterior corpo do artigo.)\n\n14 - O presente regime sancionatório não é aplicável se o facto constituir contraordenação punível ao abrigo do Código dos Valores Mobiliários.\n\n115286623\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 23-A/2022 - Diário da República n.º 236/2022, 3º Suplemento, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/lei/23-a-2022-204552612), em vigor a partir de 2022-12-10"
+  },
+  "1163086775": {
+   "fragment_id": "1163086675",
+   "type": 11,
+   "heading": "Artigo 30.º-A — Acessibilidade da informação no ponto de acesso único europeu",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 171/2026 - Diário da República n.º 165/2026, Série I de 2026-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2026-1161839915), em vigor a partir de 2026-09-01, com efeitos a partir de 2030-01-10."
+   ],
+   "markdown": "###### Artigo 30.º-A — Acessibilidade da informação no ponto de acesso único europeu\n\n1 - As instituições de crédito emitentes, quando divulgam as informações previstas no artigo 30.º no seu sítio na Internet, transmitem-nas simultaneamente à CMVM, para efeitos de as tornar acessíveis no ponto de acesso único europeu (ESAP).\n\n2 - O Banco de Portugal, quando publica as informações previstas no n.º 2 do artigo 46.º, e a CMVM, quando publica as informações previstas no n.º 1 do artigo 46.º e nos n.ºs 11 e 12 do artigo 47.º, asseguram que as mesmas são tornadas acessíveis no ESAP.\n\n3 - As informações previstas no n.º 1 são:\n\na) Transmitidas num formato que permita a extração de dados, na aceção do ponto 3 do artigo 2.º do Regulamento (UE) 2023/2859, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023, ou, quando tal for exigido pelo direito da União Europeia, num formato legível por máquina, na aceção do ponto 4 do artigo 2.º desse regulamento;\n\nb) Acompanhadas dos seguintes metadados:\n\ni) A denominação social da instituição de crédito à qual as informações dizem respeito;\n\nii) O identificador designado por Legal Entity Identifier, conforme definido no Decreto-Lei n.º 202/2015, de 17 de setembro, da instituição de crédito emitente;\n\niii) A dimensão da instituição de crédito emitente por categoria, especificada nos termos da alínea d) do n.º 4 do artigo 7.º do Regulamento (UE) 2023/2859, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023;\n\niv) O tipo de informação, classificado nos termos da alínea c) do n.º 4 do mesmo artigo;\n\nv) A indicação sobre se as informações contêm dados pessoais.\n\n4 - As informações previstas no n.º 2 são:\n\na) Transmitidas num formato que permita a extração de dados, na aceção do ponto 3 do artigo 2.º do Regulamento (UE) 2023/2859, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023;\n\nb) Acompanhadas dos seguintes metadados:\n\ni) A denominação social da instituição de crédito à qual as informações dizem respeito;\n\nii) Se disponível, o identificador designado por Legal Entity Identifier, conforme definido no Decreto-Lei n.º 202/2015, de 17 de setembro, da instituição de crédito;\n\niii) O tipo de informação, classificado nos termos da alínea c) do n.º 4 do artigo 7.º do Regulamento (UE) 2023/2859, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023;\n\niv) A indicação sobre se as informações contêm dados pessoais.\n\n5 - Para efeitos do disposto na subalínea ii) da alínea b) do n.º 3, as instituições de crédito emitentes obtêm o identificador designado por Legal Entity Identifier, conforme definido no Decreto-Lei n.º 202/2015, de 17 de setembro.\n\n6 - Para efeitos do disposto neste artigo, o organismo de recolha, na aceção do ponto 2 do artigo 2.º do Regulamento (UE) 2023/2859, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023, é a CMVM, exceto quanto às informações previstas no n.º 2 do artigo 46.º, caso em que o organismo de recolha é o Banco de Portugal.\n\n> Aditado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 171/2026 - Diário da República n.º 165/2026, Série I de 2026-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2026-1161839915), em vigor a partir de 2026-09-01, com efeitos a partir de 2030-01-10."
+  }
+ }
+}

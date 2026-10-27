@@ -1,0 +1,107 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176320:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1998-946548477",
+ "dre_path": "/dr/detalhe/portaria/256-1998-176320",
+ "source_lastmod": "2025-11-14",
+ "versions": [
+  {
+   "date": "1998-04-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "946548775",
+    "946548777",
+    "946548778",
+    "946548779"
+   ]
+  },
+  {
+   "date": "1998-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:477166:por",
+     "title": "Declaração de Rectificação n.º 11-J/98",
+     "published": "1998-06-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/11-j-1998-477166"
+    }
+   ],
+   "changes": [
+    "Retifica 1.º",
+    "Retifica ANEXO A QUE SE REFERE O N.º 1.º"
+   ],
+   "fragments": [
+    "946548775",
+    "946548784",
+    "946548778",
+    "946548779",
+    "946548780",
+    "946548785"
+   ]
+  }
+ ],
+ "fragments": {
+  "946548775": {
+   "fragment_id": "946548478",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 256/98\n\nde 24 de Abril\n\nA Portaria n.º 768/92, de 7 de Agosto, que fixa os preços a pagar pelos criadores pela concessão de licença e prestação de diversos serviços no âmbito da reprodução e melhoramento animal, não contempla alguns dos serviços actualmente prestados aos criadores, nomeadamente no que se refere à ovulação múltipla e transferência de embriões, ao fornecimento de sémen nacional de reprodutores com índice genético já publicado e ao licenciamento de centros de inseminação artifical das espécies animais com interesse para a aplicação da inseminação artificial.\n\nAcresce, por um lado, que alguns desses serviços passaram a ser prestados pelas organizações de criadores e, por outro, que alguns dos custos considerados se encontram já desajustados face aos custos reais, pelo que se torna necessário proceder à revisão da referida portaria.\n\nTendo em conta o disposto no artigo 9.º do Decreto-Lei n.º 37/75, de 31 de Janeiro, com a redacção dada pelo Decreto-Lei n.º 37/92, de 28 de Março:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  },
+  "946548777": {
+   "fragment_id": "946548480",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nOs preços a pagar pelos criadores pela concessão de licenças e prestação de serviços previstos no artigo 9.º do Decreto-Lei n.º 37/92, de 28 de Março, são os constantes da tabela em anexo a este diploma, do qual faz parte integrante."
+  },
+  "946548778": {
+   "fragment_id": "946548481",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nQuando os serviços referidos no número anterior forem executados por associações de criadores ou outras entidades privadas, os valores constantes da tabela têm carácter meramente indicativo."
+  },
+  "946548779": {
+   "fragment_id": "946548482",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nÉ revogada a Portaria n.º 768/92, de 7 de Agosto."
+  },
+  "946548784": {
+   "fragment_id": "946548480",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "1998-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-J/98 - Diário da República n.º 148/1998, 3º Suplemento, Série I-B de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-j-1998-477166), em vigor a partir de 1998-06-30"
+   ],
+   "markdown": "###### 1.º\n\nOs preços a pagar pelos criadores pela concessão de licenças e prestação de serviços previstos no artigo 9.º do Decreto-Lei n.º 37/75, de 31 de Janeiro, com a redacção dada pelo Decreto-Lei n.º 37/92, de 28 de Março, são os constantes da tabela em anexo a este diploma, do qual faz parte integrante.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-J/98 - Diário da República n.º 148/1998, 3º Suplemento, Série I-B de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-j-1998-477166), em vigor a partir de 1998-06-30"
+  },
+  "946548780": {
+   "fragment_id": "946548483",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 6 de Março de 1998.\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva."
+  },
+  "946548785": {
+   "fragment_id": "946548484",
+   "type": 14,
+   "heading": "ANEXO A QUE SE REFERE O N.º 1.º",
+   "in_force_from": "1998-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-J/98 - Diário da República n.º 148/1998, 3º Suplemento, Série I-B de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-j-1998-477166), em vigor a partir de 1998-06-30"
+   ],
+   "markdown": "## ANEXO A QUE SE REFERE O N.º 1.º\n\n1 - Licença de funcionamento:\n\n1.1 - De centro de inseminação artificial ... 80000$00\n\n1.2 - De subcentro de inseminação artificial ... 50000$00\n\n2 - Licença anual de utilização de reprodutores nos postos de cobrição:\n\n2.1 - Por cada reprodutor das espécies equina, bovina e asinina (ver nota a)\n\n... 4000$00\n\n3 - Colheita e preparação de sémen dos reprodutores bovinos aprovados para inseminação artificial pelos serviços oficiais:\n\n3.1 - Manutenção do reprodutor por cada dia de alojamento em centro de colheita ... 500$00\n\n3.2 - Exame de admissão de reprodutor ... 15000$00\n\n3.3 - Por dose de sémen até 1000 doses (ver nota b) ... 500$00\n\n4 - Conservação e distribuição de doses de sémen:\n\n4.1 - Por cada dose de sémen e por cada período até seis meses (distribuição incluída) ... 50$00\n\n5 - Fornecimento de doses de sémen produzidas nos centros oficiais de inseminação artificial:\n\n5.1 - Custo de cada dose (a fixar anualmente):\n\n5.1.1 - Dose de touro não testado ... 300$00\n\n5.1.2 - Dose de touro com índice genético já publicado ... 400$00\n\n6 - Realização de exames a reprodutores, a pedido dos interessados (capacidade reprodutiva e exames sanitários):\n\n6.1 - Grandes espécies ... 15000$00\n\n6.2 - Pequenas espécies ... 3500$00\n\n7 - Ovulação múltipla e transferência de embriões:\n\n7.1 - Superovulação, recolha e transferência de embriões frescos:\n\n7.1.1 - Superovulação e recolha:\n\n7.1.1.1 - Uma fêmea ... 60000$00\n\n7.1.1.2 - Mais que uma fêmea (por cada fêmea) ... 40000$00\n\n7.1.1.3 - Superovulação negativa (sem recolha) por fêmea - 25000$00\n\n7.1.3 - Por embrião transferido ... 3000$00\n\n7.2 - Congelação e transferência de embriões congelados:\n\n7.2.1 - Programa de congelação de embriões (até 36 embriões) ... 25000$00\n\n7.2.2 - Por embrião transferido ... 5000$00\n\n7.2.3 - Transferência directa (por embrião) ... 3000$00\n\n8 - Realização de exames laboratoriais (por análise):\n\n8.1 - Tipificação sanguínea ... 5000$00\n\n8.2 - Determinação hormonal ... 500$00\n\n(nota a) Quando o posto de cobrição estiver localizado numa zona considerada de interesse para a preservação ou melhoramento de uma raça autóctone, os serviços oficiais (melhoramento animal) poderão dispensar o pagamento desta verba.\n\n(nota b) Para mais de 1000 doses terá de haver um parecer favorável dos serviços oficiais (melhoramento animal).\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-J/98 - Diário da República n.º 148/1998, 3º Suplemento, Série I-B de 1998-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-j-1998-477166), em vigor a partir de 1998-06-30"
+  }
+ }
+}

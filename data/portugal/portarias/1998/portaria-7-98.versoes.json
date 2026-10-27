@@ -1,0 +1,528 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:225184:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1998-124972006",
+ "dre_path": "/dr/detalhe/portaria/7-1998-225184",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-01-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124971906",
+    "124971907",
+    "124971908",
+    "124971909",
+    "124971910",
+    "124971911",
+    "124971912",
+    "124971913",
+    "124971914",
+    "124971915",
+    "124971916",
+    "124971917",
+    "124971918",
+    "124971919",
+    "124971920",
+    "124971921",
+    "124971922",
+    "124971923",
+    "124971924",
+    "124971925",
+    "124971926",
+    "124971927",
+    "124971928"
+   ]
+  },
+  {
+   "date": "2019-09-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124952003:por",
+     "title": "Portaria n.º 329/2019",
+     "published": "2019-09-24",
+     "dre_path": "/dr/detalhe/portaria/329-2019-124952003"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Anexo B",
+    "Revoga Anexo A",
+    "Revoga Anexo C"
+   ],
+   "fragments": [
+    "124971906",
+    "124971907",
+    "124971929",
+    "124971930",
+    "124971931",
+    "124971911",
+    "124971932",
+    "124971933",
+    "124971934",
+    "124971915",
+    "124971916",
+    "124971935",
+    "124971936",
+    "124971937",
+    "124971938",
+    "124971921",
+    "124971922",
+    "124971923",
+    "124971924",
+    "124971939",
+    "124971941",
+    "124971940",
+    "124971942"
+   ]
+  },
+  {
+   "date": "2022-11-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:203898221:por",
+     "title": "Portaria n.º 283/2022",
+     "published": "2022-11-25",
+     "dre_path": "/dr/detalhe/portaria/283-2022-203898221"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Anexo B"
+   ],
+   "fragments": [
+    "124971906",
+    "124971907",
+    "124971929",
+    "124971930",
+    "124971931",
+    "203970862",
+    "203970863",
+    "203970864",
+    "203970865",
+    "203970866",
+    "203970867",
+    "124971916",
+    "124971935",
+    "124971936",
+    "124971937",
+    "124971938",
+    "124971921",
+    "124971922",
+    "124971923",
+    "124971924",
+    "124971939",
+    "124971941",
+    "203970861",
+    "124971942"
+   ]
+  }
+ ],
+ "fragments": {
+  "124971906": {
+   "fragment_id": "124972007",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 7/98\n\nde 7 de Janeiro\n\nO Decreto-Lei n.º 380/97, de 30 de Dezembro, veio estabelecer o novo regime de arrendamento das casas de renda económica do Instituto de Acção Social das Forças Armadas, remetendo para portaria a regulamentação das disposições referentes ao funcionamento dos concursos de atribuição daquelas casas, respectivos programas, formas de classificação, a sua distribuição e o regime da determinação do valor das rendas.\n\nAssim:\n\nManda o Governo, pelo Ministro da Defesa Nacional, ao abrigo do disposto no artigo 5.º do Decreto-Lei n.º 380/97, de 30 de Dezembro, aprovar o Regulamento para a Atribuição das Casas de Renda Económica do Instituto de Acção Social das Forças Armadas, anexo ao presente diploma, do qual faz parte integrante.\n\nMinistério da Defesa Nacional.\n\nAssinada em 10 de Dezembro de 1997.\n\nO Ministro da Defesa Nacional, José Veiga Simão.\n\nRegulamento para a Atribuição das Casas de Renda Económica do Instituto de Acção Social das Forças Armadas"
+  },
+  "124971907": {
+   "fragment_id": "124972008",
+   "type": 1,
+   "heading": "Capítulo I — Concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Concursos"
+  },
+  "124971908": {
+   "fragment_id": "124972009",
+   "type": 11,
+   "heading": "Artigo 1.º — Condições de admissão e de exclusão dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Condições de admissão e de exclusão dos concursos\n\n1 - Nos concursos objecto do presente Regulamento só podem ser admitidos como concorrentes os beneficiários do Instituto de Acção Social das Forças Armadas (IASFA).\n\n2 - Não são admitidos a concurso os beneficiários em relação aos quais se verifique qualquer das seguintes condições:\n\na) Terem beneficiado de empréstimo concedido pelo IASFA para aquisição de habitação própria;\n\nb) Terem incorrido em infracção aos deveres de arrendatário previstos na legislação do arrendamento urbano ou no Decreto-Lei n.º 380/97, de 30 de Dezembro, pela qual tenha lugar rescisão de qualquer contrato de arrendamento celebrado pelo IASFA nos três anos anteriores ao concurso;\n\nc) Possuírem, num raio de 30 km da localidade onde prestem serviço, ou da localidade para que concorrerem, casa própria adequada às necessidades do seu agregado familiar;\n\nd) Estarem impedidos de se inscreverem a concurso nos termos do n.º 5 do artigo 8.º do presente Regulamento.\n\n3 - Excepcionalmente, podem ser admitidos ao concurso os beneficiários que tenham beneficiado de empréstimo para aquisição de habitação própria concedido pelo IASFA quando, por decisão judicial ou partilha subsequente ao divórcio, a casa de morada da família tenha sido atribuída ao seu ex-cônjuge."
+  },
+  "124971909": {
+   "fragment_id": "124972010",
+   "type": 11,
+   "heading": "Artigo 2.º — Abertura e prazo de validade dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Abertura e prazo de validade dos concursos\n\n1 - Os concursos são abertos por deliberação do conselho de direcção do IASFA, com indicação da respectiva modalidade.\n\n2 - A abertura dos concursos é publicitada por aviso publicado no Diário da República, no qual consta a data a partir da qual se pode proceder à entrega dos boletins de inscrição, os meios de consulta dos programas e outros elementos que em cada caso se julguem úteis.\n\n3 - O prazo de validade do concurso é de um ano a contar do dia 1 do mês seguinte ao da publicação no Diário da República das listas de classificação a que se refere o n.º 4 do artigo 11.º do presente diploma."
+  },
+  "124971910": {
+   "fragment_id": "124972011",
+   "type": 11,
+   "heading": "Artigo 3.º — Conteúdo do programa dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conteúdo do programa dos concursos\n\n1 - No programa dos concursos deve constar:\n\na) Modalidade do concurso;\n\nb) Relação dos fogos postos a concurso, quando o mesmo não tenha por objecto os arrendamentos da generalidade das casas a vagar no decorrer do seu período de validade;\n\nc) Prazo em que devem ser feitas as inscrições;\n\nd) Data a que se devem referir os elementos constantes no boletim de inscrição previsto no artigo 7.º deste Regulamento;\n\ne) Locais e horário em que podem ser pedidos esclarecimentos e apresentados os boletins de inscrição.\n\n2 - Por deliberação do conselho de direcção do IASFA não são incluídos na relação prevista na alínea c) do número anterior, ou podem ser dela retirados em qualquer altura, durante o período de validade do concurso, os fogos destinados:\n\na) Ao realojamento temporário dos arrendatários desalojados por motivo de incêndio, derrocada, demolição ou obras demoradas de remodelação dos fogos que habitam;\n\nb) Aos arrendatários que, nos termos do n.º 1 do artigo 12.º do Decreto-Lei n.º 380/97, de 30 de Dezembro, devam ser transferidos para outra casa."
+  },
+  "124971911": {
+   "fragment_id": "124972012",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia dos fogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia dos fogos\n\nA tipologia dos fogos é definida pela letra T seguida de um algarismo, o qual indica o número de quartos de dormir de que o fogo dispõe."
+  },
+  "124971912": {
+   "fragment_id": "124972013",
+   "type": 11,
+   "heading": "Artigo 5.º — Definição de agregado familiar e respectivo rendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Definição de agregado familiar e respectivo rendimento\n\n1 - Para os efeitos consignados no presente Regulamento, o agregado familiar do concorrente é constituído por si próprio e pelos familiares que com ele vivam em economia comum, caracterizada pela comunhão de mesa e habitação.\n\n2 - O rendimento anual do agregado familiar é calculado com base nos rendimentos considerados para efeitos tributários à data prevista no programa do concurso, podendo o IASFA, na fase de verificação das declarações, exigir aos concorrentes a prestação de esclarecimentos e a apresentação de documentos que comprovem as informações constantes do impresso que constitui o anexo A a este Regulamento.\n\n3 - O cálculo referido no número anterior não inclui o abono de família e demais prestações sociais complementares, o abono suplementar de invalidez e as comparticipações financeiras pagas pelo IASFA.\n\n4 - Na determinação do rendimento anual do agregado familiar é considerada a totalidade dos proventos auferidos por todos os seus membros."
+  },
+  "124971913": {
+   "fragment_id": "124972014",
+   "type": 11,
+   "heading": "Artigo 6.º — Relação agregado familiar/tipo de fogo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relação agregado familiar/tipo de fogo\n\n1 - A cada concorrente é atribuída habitação compatível com a composição do respectivo agregado familiar, devendo a relação entre a dimensão do agregado e o tipo de fogo situar-se entre o mínimo e o máximo estipulados na tabela que constitui o anexo C a este Regulamento.\n\n2 - Os arrendatários em situação de subocupação devem habilitar-se aos concursos que incluam fogos melhor dimensionados ao seu agregado familiar.\n\n3 - Os arrendatários que habitam casas sobreocupadas podem habilitar-se aos concursos que incluam fogos melhor dimensionados para o seu agregado familiar.\n\n4 - Os arrendatários que mudem de categoria por motivo de promoção podem habilitar-se aos concursos com vista à atribuição de fogos compatíveis com a sua nova situação, nos termos do artigo 9.º deste Regulamento."
+  },
+  "124971914": {
+   "fragment_id": "124972015",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição dos concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inscrição dos concorrentes\n\n1 - A inscrição dos concorrentes é feita através de um boletim de modelo a aprovar pelo conselho de direcção, onde será indicado, por ordem de preferência, o tipo de fogo pretendido e a respectiva localização.\n\n2 - O boletim de inscrição, depois de devidamente preenchido, deve ser entregue no IASFA ou enviado por carta registada com aviso de recepção, expedida até ao termo do prazo fixado no programa de concurso.\n\n3 - Em caso de entrega directa do boletim de inscrição será passado recibo comprovativo.\n\n4 - A inscrição é feita pelo próprio ou por mandatário com poderes para o efeito."
+  },
+  "124971915": {
+   "fragment_id": "124972016",
+   "type": 11,
+   "heading": "Artigo 8.º — Verificação das declarações dos concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Verificação das declarações dos concorrentes\n\n1 - As declarações constantes do boletim de inscrição ou em posteriores correcções às mesmas são da exclusiva responsabilidade dos concorrentes.\n\n2 - A veracidade das declarações exaradas pelos concorrentes no boletim de inscrição é aferida em relação à data estabelecida no programa do concurso, servindo as mesmas de base para a classificação dos concorrentes.\n\n3 - São excluídos os concorrentes cujos boletins não obedeçam às condições do concurso ou apresentem deficiências que impossibilitem a sua classificação.\n\n4 - São igualmente excluídos do concurso, sem prejuízo de procedimento judicial, os concorrentes que, na sequência de inquérito, se prove terem prestado declarações falsas, incorrectas ou inexactas.\n\n5 - Os concorrentes excluídos do concurso ao abrigo do número anterior ficam impossibilitados de se inscreverem em concursos de atribuição de casas de renda económica por um período de cinco anos."
+  },
+  "124971916": {
+   "fragment_id": "124972017",
+   "type": 1,
+   "heading": "Capítulo II — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Classificação"
+  },
+  "124971917": {
+   "fragment_id": "124972018",
+   "type": 11,
+   "heading": "Artigo 9.º — Lista dos concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Lista dos concorrentes\n\n1 - Terminada a fase referida no artigo anterior, procede-se à organização das listas de concorrentes admitidos, por categorias de beneficiários, localidades e tipos de fogos a que hajam concorrido.\n\n2 - As categorias de beneficiários a considerar nos concursos normais são:\n\na) A de oficiais;\n\nb) A de sargentos;\n\nc) A de praças;\n\nd) A de pessoal militarizado.\n\n3 - Nos concursos extraordinários são considerados os restantes beneficiários titulares e os cônjuges sobrevivos de beneficiários titulares que tenham a qualidade de beneficiários familiares."
+  },
+  "124971918": {
+   "fragment_id": "124972019",
+   "type": 11,
+   "heading": "Artigo 10.º — Factores de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Factores de apreciação\n\nOs factores de apreciação para efeitos de ordenação dos concorrentes constam do impresso que constitui o anexo A a este Regulamento e são os seguintes:\n\na) Situação habitacional;\n\nb) Caracterização do agregado familiar;\n\nc) Situações especiais de saúde."
+  },
+  "124971919": {
+   "fragment_id": "124972020",
+   "type": 11,
+   "heading": "Artigo 11.º — Classificação dos concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Classificação dos concorrentes\n\n1 - A classificação dos concorrentes resulta da aplicação, aos factores mencionados no artigo anterior, da pontuação constante da tabela que constitui o anexo B a este Regulamento.\n\n2 - Para cada categoria os concorrentes são classificados por ordem decrescente do total dos pontos obtidos.\n\n3 - Em caso de igualdade, prevalece o concorrente com o agregado familiar de menor rendimento per capita e, se a igualdade se mantiver, prevalece o concorrente com maior antiguidade como beneficiário.\n\n4 - A aprovação da lista de classificação cabe ao conselho de direcção do IASFA, que determina a sua afixação, para consulta, e dá conhecimento deste facto aos interessados por aviso publicado no Diário da República."
+  },
+  "124971920": {
+   "fragment_id": "124972021",
+   "type": 11,
+   "heading": "Artigo 12.º — Reclamação da lista de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reclamação da lista de classificação\n\n1 - Da lista de classificação cabe reclamação, que deve ser apresentada por escrito, no prazo de 15 dias a contar da data da publicação do aviso referido no artigo anterior.\n\n2 - A reclamação prevista neste artigo tem efeito suspensivo e a decisão que sobre ela incidir será notificada ao interessado por carta registada com aviso de recepção.\n\n3 - Quando da apreciação da reclamação resultar a alteração da lista de classificação, o conselho de direcção do IASFA aprova a lista, procedendo em seguida nos termos previstos no n.º 4 do artigo 11.º do presente Regulamento.\n\n4 - Os concorrentes não podem trocar as posições que ocupam na lista de classificação."
+  },
+  "124971921": {
+   "fragment_id": "124972022",
+   "type": 1,
+   "heading": "Capítulo III — Distribuição dos fogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Distribuição dos fogos"
+  },
+  "124971922": {
+   "fragment_id": "124972023",
+   "type": 11,
+   "heading": "Artigo 13.º — Atribuição dos fogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Atribuição dos fogos\n\n1 - A atribuição dos fogos terá lugar em conformidade com a lista de classificação dos concorrentes.\n\n2 - A atribuição é notificada ao concorrente por carta registada com aviso de recepção, devendo este declarar, por escrito, a aceitação ou a recusa do fogo que lhe foi atribuído no prazo de 15 dias."
+  },
+  "124971923": {
+   "fragment_id": "124972024",
+   "type": 11,
+   "heading": "Artigo 14.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Exclusão\n\nÉ excluído e perde o direito à habitação atribuída o concorrente que:\n\na) Nos termos do n.º 2 do artigo anterior, não apresentar a declaração ou declarar não aceitar o fogo que lhe foi atribuído;\n\nb) O concorrente que, dentro do prazo de validade do concurso, seja abrangido por uma das condições de exclusão das alíneas a) e c) do n.º 2 do artigo 1.º deste Regulamento."
+  },
+  "124971924": {
+   "fragment_id": "124972025",
+   "type": 11,
+   "heading": "Artigo 15.º — Celebração do contrato de arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Celebração do contrato de arrendamento\n\n1 - O contrato de arrendamento é celebrado no prazo de oito dias a contar do recebimento da declaração de aceitação referida no n.º 2 do artigo 13.º deste Regulamento.\n\n2 - A não celebração do contrato de arrendamento dentro do prazo previsto no número anterior por motivo imputável ao concorrente implica a sua exclusão."
+  },
+  "124971925": {
+   "fragment_id": "124972026",
+   "type": 11,
+   "heading": "Artigo 16.º — Fixação de renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fixação de renda\n\n1 - A renda contratual, quer inicial, quer corrigida, é a que resultar da aplicação da taxa de esforço (T) ao valor da renda condicionada do fogo estabelecida nos termos do respectivo regime legal, sem prejuízo do disposto no artigo 14.º do Decreto-Lei n.º 380/97, de 30 de Dezembro.\n\n2 - A taxa de esforço (T) resulta da aplicação da seguinte fórmula:\n\nT = (0,12 Ri)/Smn\n\nem que:\n\nRi = remuneração mensal ilíquida do arrendatário;\n\nSmn = salário mínimo nacional.\n\n3 - Para efeitos do presente Regulamento, considera-se remuneração mensal ilíquida do arrendatário:\n\na) A remuneração base mensal e os abonos considerados para efeito de desconto para a Caixa Geral de Aposentações, no caso de militares do quadro permanente na situação de activo e reserva e de pessoal militarizado ao serviço e na situação de pré-aposentação;\n\nb) As pensões ilíquidas processadas pela Caixa Geral de Aposentações e os complementos de pensão atribuídos pelo Fundo de Pensões dos Militares das Forças Armadas, no caso de militares do quadro permanente na situação de reforma;\n\nc) As pensões ilíquidas processadas pela Caixa Geral de Aposentações, no caso de pessoal militarizado na situação de reforma;\n\nd) A remuneração base mensal e os abonos considerados para efeito de desconto para a Caixa Geral de Aposentações e as pensões ilíquidas, consoante se encontrem no serviço activo ou na situação de aposentação, no caso de beneficiários familiares;\n\ne) Os rendimentos ilíquidos das categorias A, B e H, como tal definidas no Código do Imposto sobre o Rendimento de Pessoas Singulares (CIRS), no caso de cônjuge sobrevivo ou divorciado a quem haja sido transmitido o arrendamento."
+  },
+  "124971926": {
+   "fragment_id": "124972027",
+   "type": 14,
+   "heading": "Anexo A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo A\n\n(ver impresso no documento original)"
+  },
+  "124971927": {
+   "fragment_id": "124972028",
+   "type": 14,
+   "heading": "Anexo B — Tabela de pontuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo B — Tabela de pontuação\n\n(ver tabela no documento original)"
+  },
+  "124971928": {
+   "fragment_id": "124972029",
+   "type": 14,
+   "heading": "Anexo C — Relação agregado familiar/tipo de habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo C — Relação agregado familiar/tipo de habitação\n\n(ver tabela no documento original)"
+  },
+  "124971929": {
+   "fragment_id": "124972009",
+   "type": 11,
+   "heading": "Artigo 1.º — Condições de admissão e de exclusão dos concursos",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 1.º — Condições de admissão e de exclusão dos concursos\n\n1 - Nos concursos objecto do presente Regulamento só podem ser admitidos como concorrentes os beneficiários do Instituto de Acção Social das Forças Armadas (IASFA).\n\n2 - Não são admitidos a concurso os beneficiários em relação aos quais se verifique qualquer das seguintes condições:\n\na) Terem beneficiado de empréstimo concedido pelo IASFA para aquisição de habitação própria;\n\nb) Terem incorrido em infração aos deveres de arrendatário previstos na legislação do arrendamento urbano ou no Decreto-Lei n.º 380/97, de 30 de dezembro, na sua redação atual, pela qual tenha lugar rescisão de qualquer contrato de arrendamento celebrado pelo IASFA nos três anos anteriores ao concurso;\n\nc) Possuírem, num raio de 30 km da localidade onde prestem serviço, ou da localidade para que concorrerem, casa própria adequada às necessidades do seu agregado familiar;\n\nd) Estarem impedidos de se inscreverem a concurso nos termos do n.º 5 do artigo 8.º do presente Regulamento.\n\ne) Terem obrigações financeiras por regularizar com o IASFA até à data da abertura do concurso.\n\n3 - Excepcionalmente, podem ser admitidos ao concurso os beneficiários que tenham beneficiado de empréstimo para aquisição de habitação própria concedido pelo IASFA quando, por decisão judicial ou partilha subsequente ao divórcio, a casa de morada da família tenha sido atribuída ao seu ex-cônjuge.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971930": {
+   "fragment_id": "124972010",
+   "type": 11,
+   "heading": "Artigo 2.º — Abertura e prazo de validade dos concursos",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 2.º — Abertura e prazo de validade dos concursos\n\n1 - Os concursos por inscrição, normais ou extraordinários, são abertos por deliberação do Conselho Diretivo do IASFA, com indicação da respetiva modalidade.\n\n2 - A abertura dos concursos é publicitada por aviso publicado no Diário da República, bem como no respetivo sítio na Internet e ou em área de acesso ou de circulação livre das instalações do IASFA, no qual deve constar informação sobre a listagem, as condições de inscrição na mesma e o resultado da última classificação, se aplicável, com exclusão de qualquer menção a dados pessoais.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971931": {
+   "fragment_id": "124972011",
+   "type": 11,
+   "heading": "Artigo 3.º — Conteúdo do programa dos concursos",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 3.º — Conteúdo do programa dos concursos\n\n1 - No programa dos concursos deve constar:\n\na) Modalidade do concurso;\n\nb) Relação dos fogos postos a concurso, quando o mesmo não tenha por objecto os arrendamentos da generalidade das casas a vagar no decorrer do seu período de validade;\n\nc) Prazo em que devem ser feitas as inscrições;\n\nd) Data a que se devem referir os elementos constantes no boletim de inscrição previsto no artigo 7.º deste Regulamento;\n\ne) Locais e horário em que podem ser pedidos esclarecimentos e apresentados os boletins de inscrição.\n\nf) Os critérios de seleção e de classificação dos concorrentes.\n\n2 - Por deliberação do Conselho Diretivo do IASFA não são incluídos na relação prevista na alínea b) do número anterior, ou podem ser dela retirados em qualquer altura, durante o período de validade do concurso, os fogos destinados:\n\na) Ao realojamento temporário dos arrendatários desalojados por motivo de incêndio, derrocada, demolição ou obras demoradas de remodelação dos fogos que habitam;\n\nb) Aos arrendatários que, nos termos do n.º 1 do artigo 12.º do Decreto-Lei n.º 380/97, de 30 de Dezembro, devam ser transferidos para outra casa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971932": {
+   "fragment_id": "124972013",
+   "type": 11,
+   "heading": "Artigo 5.º — Definição de agregado familiar e respectivo rendimento",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 5.º — Definição de agregado familiar e respectivo rendimento\n\n1 - Para os efeitos consignados no presente Regulamento, o agregado familiar do concorrente é constituído por si próprio e pelos familiares que com ele vivam em economia comum, caracterizada pela comunhão de mesa e habitação.\n\n2 - O rendimento mensal corrigido (RMC) é calculado conforme alínea g) do n.º 1 do artigo 3.º da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual, à data prevista no programa do concurso, podendo o IASFA, na fase de verificação das declarações, exigir aos concorrentes a prestação de esclarecimentos e a apresentação de documentos que comprovem as informações constantes do boletim de inscrição.\n\n3 - (Revogado.)\n\n4 - Na determinação do rendimento mensal corrigido (RMC) do agregado familiar é considerada a totalidade dos rendimentos auferidos por todos os seus membros.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971933": {
+   "fragment_id": "124972014",
+   "type": 11,
+   "heading": "Artigo 6.º — Relação agregado familiar/tipo de fogo",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 6.º — Relação agregado familiar/tipo de fogo\n\n1 - A cada concorrente é atribuída habitação compatível com a composição do respetivo agregado familiar, devendo a relação entre a dimensão do agregado e o tipo de fogo situar-se entre o mínimo e o máximo estipulados na tabela que constitui o anexo II da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual.\n\n2 - (Revogado.)\n\n3 - Os arrendatários que habitam casas sobreocupadas podem habilitar-se aos concursos que incluam fogos melhor dimensionados para o seu agregado familiar.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971934": {
+   "fragment_id": "124972015",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição dos concorrentes",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 7.º — Inscrição dos concorrentes\n\n1 - A inscrição dos concorrentes é feita através de um boletim de modelo a aprovar pelo Conselho Diretivo, onde será indicado, por ordem de preferência, o fogo pretendido.\n\n2 - O boletim de inscrição, depois de devidamente preenchido, deve ser entregue no IASFA ou enviado por carta registada com aviso de recepção, expedida até ao termo do prazo fixado no programa de concurso.\n\n3 - Em caso de entrega directa do boletim de inscrição será passado recibo comprovativo.\n\n4 - A inscrição é feita pelo próprio ou por mandatário com poderes para o efeito.\n\n5 - O prazo de inscrição no concurso é de 30 dias seguidos, a contar do primeiro dia útil após a sua publicação.\n\n6 - O prazo definido no número anterior pode ser reduzido, até ao limite legal definido para os atos a praticar pelos órgãos administrativos, quando o número de casas a concurso for igual ou inferior a 10 unidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971935": {
+   "fragment_id": "124972018",
+   "type": 11,
+   "heading": "Artigo 9.º — Lista dos concorrentes",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 9.º — Lista dos concorrentes\n\n1 - Terminada a fase referida no artigo anterior, procede-se à organização das listas de concorrentes admitidos, por categorias de beneficiários, localidades e tipos de fogos a que hajam concorrido.\n\n2 - As categorias de beneficiários a considerar nos concursos normais são:\n\na) A de oficiais;\n\nb) A de sargentos;\n\nc) A de praças;\n\nd) A de pessoal militarizado.\n\n3 - Nos concursos extraordinários são considerados os beneficiários titulares definidos nos n.os 2 e 3 e os beneficiários familiares definidos no n.º 5 do artigo 1.º do Regulamento dos Beneficiários do Instituto de Ação Social das Forças Armadas, I. P., aprovado pela Portaria n.º 1238/2010, de 14 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971936": {
+   "fragment_id": "124972019",
+   "type": 11,
+   "heading": "Artigo 10.º — Factores de apreciação",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 10.º — Factores de apreciação\n\nOs fatores de apreciação para efeitos de ordenação dos concorrentes constam do boletim de inscrição, a aprovar pelo Conselho Diretivo, e são os seguintes:\n\na) Situação habitacional;\n\nb) Caracterização do agregado familiar;\n\nc) Situações especiais de saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971937": {
+   "fragment_id": "124972020",
+   "type": 11,
+   "heading": "Artigo 11.º — Classificação dos concorrentes",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 11.º — Classificação dos concorrentes\n\n1 - A classificação dos concorrentes resulta da aplicação, aos factores mencionados no artigo anterior, da pontuação constante da tabela que constitui o anexo B a este Regulamento.\n\n2 - Para cada categoria os concorrentes são classificados por ordem decrescente do total dos pontos obtidos.\n\n3 - Em caso de igualdade, prevalece o concorrente com o menor rendimento mensal corrigido e, se a igualdade se mantiver, prevalece o concorrente com maior antiguidade como beneficiário.\n\n4 - A aprovação da lista de classificação cabe ao Conselho Diretivo do IASFA, que determina a sua afixação, para consulta, e dá conhecimento deste facto aos interessados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971938": {
+   "fragment_id": "124972021",
+   "type": 11,
+   "heading": "Artigo 12.º — Reclamação da lista de classificação",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 12.º — Reclamação da lista de classificação\n\n1 - Da lista de classificação cabe reclamação, que deve ser apresentada, por escrito, no prazo de 15 dias a contar da data da publicação da lista referida no artigo anterior.\n\n2 - A reclamação prevista neste artigo tem efeito suspensivo e a decisão que sobre ela incidir será notificada ao interessado por carta registada com aviso de recepção.\n\n3 - Quando da apreciação da reclamação resultar a alteração da lista de classificação, o Conselho Diretivo do IASFA aprova a lista, procedendo em seguida nos termos previstos no n.º 4 do artigo 11.º do presente Regulamento.\n\n4 - Os concorrentes não podem trocar as posições que ocupam na lista de classificação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971939": {
+   "fragment_id": "124972026",
+   "type": 11,
+   "heading": "Artigo 16.º — Fixação de Renda",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 16.º — Fixação de Renda\n\n1 - O valor da renda é determinado, nos termos do disposto nos artigos 21.º, 21.º-A e 22.º da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual, pela aplicação de uma taxa de esforço ao rendimento mensal corrigido do agregado familiar, sendo a taxa de esforço (T) o valor, arredondado à milésima, que resulta da seguinte fórmula:\n\nT = 0,067 x (RMC/IAS)\n\nem que:\n\nT = taxa de esforço;\n\nRMC = rendimento mensal corrigido do agregado familiar;\n\nIAS = indexante dos apoios sociais.\n\n2 - A taxa de esforço máxima não pode ser superior a 23 % do rendimento mensal corrigido do agregado familiar do arrendatário, nos termos do disposto do artigo 21.º-A da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual.\n\n3 - A renda não pode ser de valor inferior a 1 % do indexante dos apoios sociais (IAS) vigente em cada momento, nos termos do disposto do n.º 1 do artigo 22.º da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual.\n\n4 - A renda máxima é a renda máxima aplicável aos contratos de arrendamento para fim habitacional em regime de renda condicionada, nos termos do disposto do n.º 2 do artigo 22.º da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971941": {
+   "fragment_id": "124972027",
+   "type": 14,
+   "heading": "Anexo A",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "## Anexo A\n\n(ver impresso no documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971940": {
+   "fragment_id": "124972028",
+   "type": 14,
+   "heading": "Anexo B — Tabela de pontuação",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "## Anexo B — Tabela de pontuação\n\n<a href=\"https://dre.pt/application/conteudo/124952003\" style=\"color: #0000ff; text-decoration: underline\" target=\"blank\">Ver documento original</a>\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "124971942": {
+   "fragment_id": "124972029",
+   "type": 14,
+   "heading": "Anexo C — Relação agregado familiar/tipo de habitação",
+   "in_force_from": "2019-09-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "## Anexo C — Relação agregado familiar/tipo de habitação\n\n(ver tabela no documento original)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "203970862": {
+   "fragment_id": "203943415",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Definições",
+   "in_force_from": "2022-11-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 283/2022 - Diário da República n.º 228/2022, Série I de 2022-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/283-2022-203898221), em vigor a partir de 2022-11-26"
+   ],
+   "markdown": "###### Artigo 3.º-A — Definições\n\nPara efeitos da presente portaria considera-se:\n\na) 'Casa adequada às necessidades do agregado familiar', a fração ou o prédio destinado a habitação, apta a satisfazer condignamente as necessidades habitacionais de uma pessoa ou de um agregado familiar, tendo em consideração, designadamente, a composição deste, a tipologia da habitação e as condições de habitabilidade e de segurança da mesma;\n\nb) 'Agregado unititulado', o agregado habitacional constituído por um ou mais dependentes e um único adulto não dependente;\n\nc) 'Precariedade', as situações de pessoas sem abrigo, bem como os casos de pessoas sem solução habitacional alternativa ao local que usam como residência permanente, quando têm de o desocupar por causa relacionada com a declaração de insolvência de elementos do agregado, com situações de violência doméstica, com operações urbanísticas de promoção municipal ou com a não renovação de contrato de arrendamento nos casos de agregados unititulados, agregados que integram pessoas com deficiência ou arrendatários com idade superior a 65 anos;\n\nd) 'Insalubridade e insegurança', os casos em que a pessoa ou o agregado vive em local, construído ou não, destituído de condições básicas de salubridade, segurança estrutural, estanquidade e higiene ou por ser uma edificação sem condições mínimas de habitabilidade;\n\ne) 'Sobrelotação', os casos em que, da relação entre a composição do agregado e o número de divisões habitáveis da habitação, esta não dispõe de um número de divisões suficiente, considerando-se suficiente um número correspondente a uma divisão comum e a uma divisão por cada casal, por cada adulto, por cada duas pessoas do mesmo sexo com idades entre os 12 e os 17 anos, por cada pessoa de sexo diferente com idades entre os 12 e os 17 anos e por cada duas pessoas com menos de 12 anos;\n\nf) 'Inadequação', os casos de incompatibilidade das condições da habitação com características específicas de pessoas que nela habitam, como nos casos de pessoas com incapacidade ou deficiência, em especial quando a habitação:\n\ni) Tem barreiras no acesso ao piso em que se situa; ou\n\nii) As medidas dos vãos e áreas interiores impedem uma circulação e uma utilização ajustadas às características específicas das pessoas que nelas residem.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 283/2022 - Diário da República n.º 228/2022, Série I de 2022-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/283-2022-203898221), em vigor a partir de 2022-11-26"
+  },
+  "203970863": {
+   "fragment_id": "124972012",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia dos fogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia dos fogos\n\nA tipologia dos fogos é definida pela letra T seguida de um algarismo, o qual indica o número de quartos de dormir de que o fogo dispõe."
+  },
+  "203970864": {
+   "fragment_id": "124972013",
+   "type": 11,
+   "heading": "Artigo 5.º — Definição de agregado familiar e respectivo rendimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 5.º — Definição de agregado familiar e respectivo rendimento\n\n1 - Para os efeitos consignados no presente Regulamento, o agregado familiar do concorrente é constituído por si próprio e pelos familiares que com ele vivam em economia comum, caracterizada pela comunhão de mesa e habitação.\n\n2 - O rendimento mensal corrigido (RMC) é calculado conforme alínea g) do n.º 1 do artigo 3.º da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual, à data prevista no programa do concurso, podendo o IASFA, na fase de verificação das declarações, exigir aos concorrentes a prestação de esclarecimentos e a apresentação de documentos que comprovem as informações constantes do boletim de inscrição.\n\n3 - (Revogado.)\n\n4 - Na determinação do rendimento mensal corrigido (RMC) do agregado familiar é considerada a totalidade dos rendimentos auferidos por todos os seus membros.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "203970865": {
+   "fragment_id": "124972014",
+   "type": 11,
+   "heading": "Artigo 6.º — Relação agregado familiar/tipo de fogo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 6.º — Relação agregado familiar/tipo de fogo\n\n1 - A cada concorrente é atribuída habitação compatível com a composição do respetivo agregado familiar, devendo a relação entre a dimensão do agregado e o tipo de fogo situar-se entre o mínimo e o máximo estipulados na tabela que constitui o anexo II da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual.\n\n2 - (Revogado.)\n\n3 - Os arrendatários que habitam casas sobreocupadas podem habilitar-se aos concursos que incluam fogos melhor dimensionados para o seu agregado familiar.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "203970866": {
+   "fragment_id": "124972015",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição dos concorrentes",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "###### Artigo 7.º — Inscrição dos concorrentes\n\n1 - A inscrição dos concorrentes é feita através de um boletim de modelo a aprovar pelo Conselho Diretivo, onde será indicado, por ordem de preferência, o fogo pretendido.\n\n2 - O boletim de inscrição, depois de devidamente preenchido, deve ser entregue no IASFA ou enviado por carta registada com aviso de recepção, expedida até ao termo do prazo fixado no programa de concurso.\n\n3 - Em caso de entrega directa do boletim de inscrição será passado recibo comprovativo.\n\n4 - A inscrição é feita pelo próprio ou por mandatário com poderes para o efeito.\n\n5 - O prazo de inscrição no concurso é de 30 dias seguidos, a contar do primeiro dia útil após a sua publicação.\n\n6 - O prazo definido no número anterior pode ser reduzido, até ao limite legal definido para os atos a praticar pelos órgãos administrativos, quando o número de casas a concurso for igual ou inferior a 10 unidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  },
+  "203970867": {
+   "fragment_id": "124972016",
+   "type": 11,
+   "heading": "Artigo 8.º — Verificação das declarações dos concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Verificação das declarações dos concorrentes\n\n1 - As declarações constantes do boletim de inscrição ou em posteriores correcções às mesmas são da exclusiva responsabilidade dos concorrentes.\n\n2 - A veracidade das declarações exaradas pelos concorrentes no boletim de inscrição é aferida em relação à data estabelecida no programa do concurso, servindo as mesmas de base para a classificação dos concorrentes.\n\n3 - São excluídos os concorrentes cujos boletins não obedeçam às condições do concurso ou apresentem deficiências que impossibilitem a sua classificação.\n\n4 - São igualmente excluídos do concurso, sem prejuízo de procedimento judicial, os concorrentes que, na sequência de inquérito, se prove terem prestado declarações falsas, incorrectas ou inexactas.\n\n5 - Os concorrentes excluídos do concurso ao abrigo do número anterior ficam impossibilitados de se inscreverem em concursos de atribuição de casas de renda económica por um período de cinco anos."
+  },
+  "203970861": {
+   "fragment_id": "124972028",
+   "type": 14,
+   "heading": "Anexo B — Tabela de pontuação",
+   "in_force_from": "2022-11-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2022 - Diário da República n.º 228/2022, Série I de 2022-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/283-2022-203898221), em vigor a partir de 2022-11-26",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+   ],
+   "markdown": "## Anexo B — Tabela de pontuação\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 283/2022 - Diário da República n.º 228/2022, Série I de 2022-11-25](https://diariodarepublica.pt/dr/detalhe/portaria/283-2022-203898221), em vigor a partir de 2022-11-26\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 329/2019 - Diário da República n.º 183/2019, Série I de 2019-09-24](https://diariodarepublica.pt/dr/detalhe/portaria/329-2019-124952003), em vigor a partir de 2019-09-25"
+  }
+ }
+}

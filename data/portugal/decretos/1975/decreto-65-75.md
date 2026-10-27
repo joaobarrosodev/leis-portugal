@@ -1,0 +1,221 @@
+---
+schema_version: '1.0'
+id: pt:dre:160298:por
+title: Decreto n.º 65/75
+short_title: null
+summary: Adopta medidas de carácter administrativo relativas aos territórios ultramarinos
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Coordenação Interterritorial - Secretaria de Estado dos Assuntos Económicos - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: 65/75
+official_date: null
+publication_date: '1975-02-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 42/1975, Série I de 1975-02-19
+  number: '42'
+  series: I
+  supplement: null
+  pages: 262 - 263
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/02/04200/02620263.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '160298'
+  dre_path: /dr/detalhe/decreto/65-1975-160298
+  internal: pt:dre:160298:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:39:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 41949d248af1bb4e31ff7dc6da1ee8ecc842ca9527c01db0e377c314a902b12e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assistência Médica
+- Assistência Medicamentosa
+- Comissão de Serviço
+- Formas de Provimento
+- Funcionário Público
+- Funcionário Ultramarino
+- Repatriamento
+- Ultramar
+relationships:
+- type: amended_by
+  target: pt:dre:374239:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:616234:por
+  label: "Substituído o quadro de pessoal constante do mapa I anexo ao Decreto 218/70, de 16 de Maio, na redacção do presente\
+    \ diploma, pela PORT.1100/80.30.12.1980.PCM, DR.IS [300] de 30.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1100-1980-616234
+  date: '1980-12-30'
+- type: amended_by
+  target: pt:dre:374239:por
+  label: "Substituído o quadro de pessoal constante do mapa I anexo ao Dec 218/70, de 16-Mai, na redacção do presente diploma,\
+    \ pela PORT.849/82.07.09.1982.MFP, DR.IS [207] de 07.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/849-1982-374239
+  date: '1982-09-07'
+- type: cites
+  target: pt:dre:142329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685439:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:39:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 65/75
+
+de 19 de Fevereiro
+
+Considerando a necessidade de adoptar medidas que permitam a solução de diversos problemas de ordem administrativa;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei nos territórios ultramarinos, o seguinte:
+
+I
+
+Disposições especiais
+
+A) Angola
+
+Artigo 1.º São ratificados os Decretos Provinciais n.os 57/74 e 63/74, de 6 e 22 de Agosto, respectivamente.
+
+Art. 2.º É ratificada a Portaria Provincial n.º 620/74, de 16 de Agosto.
+
+II
+
+Disposições comuns
+
+Art. 3.º O artigo 27.º do [Decreto-Lei n.º 49367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49367-1969-215774), de 8 de Novembro de 1969, passa a ter a seguinte redacção:
+
+Art. 27.º Os lugares de chefe de secção são providos, mediante despacho do Governador, por promoção dos primeiros-oficiais dos Serviços de Educação do respectivo território, com boas informações na categoria e por ordem de antiguidade na mesma.
+
+Art. 4.º - 1. Aos processos de nomeação em comissão de serviço de funcionários dos quadros dos serviços públicos dos territórios ultramarinos é dispensada a junção das declarações a que se referem as alíneas a) e b) do artigo 4.º do [Decreto n.º 26341](https://diariodarepublica.pt/dr/detalhe/decreto/26341-1936-685439), de 7 de Fevereiro de 1936, com a redacção que lhe foi dada pelo artigo único do [Decreto n.º 26826](https://diariodarepublica.pt/dr/detalhe/decreto/26826-1936-360134), de 25 de Julho do mesmo ano.
+
+2. Do despacho de nomeação e do respectivo diploma de provimento deverá constar a situação em que o nomeado fica relativamente ao cargo de que é titular e, se for caso disso, a qualquer outra função que estivesse eventualmente a exercer.
+
+Art. 5.º Os artigos 1.º, 4.º e 5.º do [Decreto n.º 49089](https://diariodarepublica.pt/dr/detalhe/decreto/49089-1969-200376), de 27 de Junho de 1969, passam a ter a seguinte redacção:
+
+Artigo 1.º - 1. Todas as pessoas que viajem por conta dos territórios ultramarinos têm direito, durante a viagem, a assistência médica e medicamentosa e ao internamento na enfermaria de bordo, nos precisos termos dos artigos 303.º e 304.º do Estatuto do Funcionalismo Ultramarino.
+
+2. A igual assistência têm direito os repatriados que utilizem as passagens fornecidas gratuitamente pela Junta Nacional da Marinha Mercante.
+
+...
+
+Art. 4.º - 1. As companhias de navegação apresentarão na Direcção-Geral de Saúde e Assistência, do Ministério da Coordenação Interterritorial, ou nos Serviços Provinciais de Saúde, conforme o local de destino das viagens, factura com relação das pessoas tratadas, assinada pelo médico de bordo e confirmada pelos assistidos e pelo comandante do barco.
+
+2. Com essas relações serão apresentados elementos que identifiquem os assistidos e os serviços a que pertençam ou devam suportar os encargos, indicação das doenças e ainda se estas se declararam a bordo.
+
+...
+
+Art. 5.º As despesas só serão liquidadas na metrópole ou nos territórios ultramarinos, consoante o local de destino das viagens, depois de a Junta de Saúde do Ultramar ou de as juntas provinciais de saúde haverem emitido parecer favorável, conforme a doença se tenha verificado em viagem para a metrópole ou vice-versa.
+
+Art. 6.º É revogado o artigo 2.º do [Decreto n.º 49089](https://diariodarepublica.pt/dr/detalhe/decreto/49089-1969-200376), de 27 de Junho de 1969.
+
+Art. 7.º É revogado o § único do artigo 441.º do Estatuto do Funcionalismo Ultramarino.
+
+Art. 8.º - 1. O território de Timor fica dispensado de concorrer, no ano de 1975, para a cobertura das despesas que, nos termos legais, devam constituir encargos comuns do ultramar na metrópole.
+
+2. O Estado de S. Tomé e Príncipe fica igualmente dispensado de contribuir para os encargos com o bem-estar e povoamento de Cabo Verde, previstos no Diploma Legislativo Ministerial n.º 2, de 25 de Agosto de 1962.
+
+Art. 9.º Ao mapa IV anexo ao [Decreto n.º 131/70](https://diariodarepublica.pt/dr/detalhe/decreto/131-1970-229120), de 26 de Março, são aditados os seguintes lugares:
+
+6) Serviços gerais:
+
+b) Pessoal contratado:
+
+2 de telefonista de 1.ª classe ... U
+
+Art. 10.º É elevada para 3500000$00 a importância a despender no ano económico de 1974, por conta do fundo a que se refere o artigo 17.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962, com a instalação de serviços e apetrechamento do edifício do Ministério da Coordenação Interterritorial.
+
+Art. 11.º Os contabilistas de 1.ª e 2.ª classes do quadro dos serviços centrais do Gabinete do Plano do Zambeze, a que se refere o mapa I anexo ao [Decreto n.º 218/70](https://diariodarepublica.pt/dr/detalhe/decreto/218-1970-142329), de 16 de Maio, passam a designar-se por técnicos auxiliares contabilistas de 1.ª e 2.ª classes, com as categorias, respectivamente, das letras J e K.
+
+Art. 12.º O artigo 28.º do [Decreto n.º 37050](https://diariodarepublica.pt/dr/detalhe/decreto/37050-1948-372642), de 8 de Setembro de 1948, passa a ter a seguinte redacção:
+
+Art. 28.º Os selos e outros valores postais dos territórios ultramarinos, retirados da circulação, à guarda do serviço de valores postais do Ministério da Coordenação Interterritorial, ou que ali venham a dar entrada, poderão ser vendidos ao público, em condições e normas a regulamentar por portaria.
+
+§ 1.º O serviço de valores postais facultará as listas com os preços de venda ao público dos selos e outros valores postais definidos por despacho ministerial em função do valor filatélico corrente.
+
+§ 2.º O serviço de valores postais fará entrega, à Repartição de Contabilidade da Direcção-Geral de Fazenda, das importâncias provenientes da venda dos selos e outros valores postais, as quais serão depositadas em conta bancária à ordem do Ministro.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos.
+
+Promulgado em 12 de Fevereiro de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.
+
+Para ser publicado nos Boletins Oficiais de todos os territórios ultramarinos. - A. Almeida Santos.

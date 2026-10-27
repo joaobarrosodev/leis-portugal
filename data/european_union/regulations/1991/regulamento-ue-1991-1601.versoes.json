@@ -1,0 +1,561 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991R1601:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R1601-20150328",
+ "dre_path": null,
+ "source_lastmod": "2015-03-28",
+ "versions": [
+  {
+   "date": "1991-06-14",
+   "future": false,
+   "celex": "31991R1601",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01991R1601-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31992R3279:por",
+     "title": "REGULAMENTO (CEE) N.O 3279/92 DO CONSELHO de 9 de Novembro de 1992",
+     "published": null,
+     "celex": "31992R3279"
+    },
+    {
+     "id": "eu:celex:31994R3378:por",
+     "title": "REGULAMENTO (CE) N.O 3378/94 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Dezembro de 1994",
+     "published": null,
+     "celex": "31994R3378"
+    },
+    {
+     "id": "eu:celex:31996R2061:por",
+     "title": "REGULAMENTO (CE) N.O 2061/96 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de Outubro de 1996",
+     "published": null,
+     "celex": "31996R2061"
+    },
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "►A2",
+     "published": null,
+     "celex": "12005S"
+    }
+   ],
+   "changes": [
+    "Adita preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º — Definições subsidiárias",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 10.º A",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita ANEXO I",
+    "Adita Características do álcool etílico referido na alínea d) do artigo 3.º",
+    "Adita ANEXO II",
+    "Adita Bebidas aromatizadas à base de produtos vitivinícolas",
+    "Adita Denominações geográficas",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "ffbdd29fbe9d4ccc",
+    "c9a69dde3b5a395b",
+    "a1ce0386a1480a9f",
+    "54c7f9927a933aaa",
+    "055cf5275239578f",
+    "7a6e715baf345d52",
+    "29e06df6c953f0db",
+    "e3c8161de1c1fe9c",
+    "f3b516a9c6dcdd49",
+    "59eaaa1622f3471a",
+    "a1631d8e7caa5e00",
+    "9a5add33545ef75d",
+    "e57ff9ae088a727c",
+    "f67bdbdc07a589c6",
+    "048586f008e8c3dc",
+    "b979ddc4524e9b93",
+    "99c2ee62a3f5529a",
+    "25833b8388c16e97",
+    "8dd96f4d615028eb",
+    "d664376e2a8dcecd",
+    "abab6ede1f2d6fff",
+    "852174729551523b",
+    "878bfd31746ea6b7",
+    "1c489803eed01537",
+    "fa194225b0f6b603"
+   ]
+  },
+  {
+   "date": "2009-01-20",
+   "future": false,
+   "celex": "01991R1601-20090120",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1334:por",
+     "title": "REGULAMENTO (CE) N. o 1334/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Dezembro de 2008",
+     "published": null,
+     "celex": "32008R1334"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "63e8b98422063d95",
+    "c9a69dde3b5a395b",
+    "1cb6e32c167a0d34",
+    "54c7f9927a933aaa",
+    "b29ea807541f54f8",
+    "7a6e715baf345d52",
+    "29e06df6c953f0db",
+    "e3c8161de1c1fe9c",
+    "f3b516a9c6dcdd49",
+    "59eaaa1622f3471a",
+    "a1631d8e7caa5e00",
+    "9a5add33545ef75d",
+    "e57ff9ae088a727c",
+    "f67bdbdc07a589c6",
+    "ae4162e2c7b821a6",
+    "d9c061ae2472178d",
+    "99c2ee62a3f5529a",
+    "25833b8388c16e97",
+    "8dd96f4d615028eb",
+    "d664376e2a8dcecd",
+    "abab6ede1f2d6fff",
+    "852174729551523b",
+    "878bfd31746ea6b7",
+    "1c489803eed01537",
+    "adbb43c0a8c43bd2"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01991R1601-20130701",
+   "acts": [
+    {
+     "id": null,
+     "title": "►A3",
+     "published": null,
+     "celex": "12012J"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Denominações geográficas",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "f5b21e704bb5e9c9",
+    "c9a69dde3b5a395b",
+    "5b31df0480c29638",
+    "54c7f9927a933aaa",
+    "c67d1d91abab2464",
+    "7a6e715baf345d52",
+    "29e06df6c953f0db",
+    "e3c8161de1c1fe9c",
+    "f3b516a9c6dcdd49",
+    "59eaaa1622f3471a",
+    "a1631d8e7caa5e00",
+    "9a5add33545ef75d",
+    "e57ff9ae088a727c",
+    "f67bdbdc07a589c6",
+    "5e8a85a6f50d889e",
+    "7f4dfed0e3b590fd",
+    "99c2ee62a3f5529a",
+    "25833b8388c16e97",
+    "8dd96f4d615028eb",
+    "d664376e2a8dcecd",
+    "abab6ede1f2d6fff",
+    "852174729551523b",
+    "878bfd31746ea6b7",
+    "d5328d65401f2cd4",
+    "ada265f4ecd0c2b7"
+   ]
+  },
+  {
+   "date": "2015-03-28",
+   "future": false,
+   "celex": "01991R1601-20150328",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º — Definições subsidiárias",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 10.º A",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime ANEXO I",
+    "Suprime Características do álcool etílico referido na alínea d) do artigo 3.º",
+    "Suprime ANEXO II",
+    "Suprime Bebidas aromatizadas à base de produtos vitivinícolas",
+    "Suprime Denominações geográficas",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "f4b80585b562d9ea"
+   ]
+  }
+ ],
+ "fragments": {
+  "ffbdd29fbe9d4ccc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Junho de 1991\n\nque estabelece as regras gerais relativas à definição, designação e apresentação dos vinhos aromatizados, das bebidas aromatizadas à base de vinho e dos *cocktails* aromatizados de produtos vitivinícolas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43.º e 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0003)),\n\nConsiderando que não existe actualmente qualquer disposição comunitária específica relativa aos vinhos aromatizados, às bebidas aromatizadas à base de vinhos e aos *cocktails* aromatizados de produtos vitivinícolas, a seguir denominados «bebidas aromatizadas», nomeadamente no que diz respeito à definição de tais bebidas e às disposições relativas à sua designação e à sua apresentação; que, tendo em conta a importância económica desses produtos, se impõe a adopção de disposições comuns neste domínio, a fim de contribuir para o funcionamento do mercado comum;\n\nConsiderando que as bebidas aromatizadas constituem um mercado importante para a agricultura comunitária; que a existência de tal mercado se deve, em grande parte, à fama que algumas destas bebidas conquistaram na Comunidade e no mercado mundial; que esta fama está relacionada com o nível qualitativo das bebidas tradicionais; que é, portanto, conveniente, para a subsistência de tal mercado, manter um determinado nível qualitativo das bebidas em causa; que o modo adequado de manter esse nível qualitativo é o de definir as bebidas, tendo em conta os costumes tradicionais que estão na base de tal reputação; que, além disso, é conveniente reservar a utilização dos termos assim definidos para as bebidas cujo nível qualitativo corresponda ao das bebidas tradicionais, a fim de evitar que tais termos se desvalorizem;\n\nConsiderando que convém prever um quadro adequado para as bebidas aromatizadas constituídas principalmente por vinho ou por mostos, embora permitindo uma evolução e invocação para tais bebidas; que tal objectivo pode mais facilmente ser atingido através da criação de três categorias de bebidas consoante o respectivo teor em vinho, título alcoométrico e consoante tenham tido ou não uma adição de álcool;\n\nConsiderando que é conveniente que o direito comunitário reserve para certos territórios a utilização de menções geográficas que se lhes refiram, na medida em que de entre as fases do processo de produção, as do estádio da produção do produto acabado, durante o qual este adquire o seu carácter e as suas qualidades definitivas, se tenham desenrolado na zona geográfica em questão;\n\nConsiderando que o meio normal e habitual de informar o consumidor é o de apor no rótulo um certo número de menções; que as bebidas aromatizadas à base de produtos vitivinícolas estão sujeitas, no que diz respeito à rotulagem, às regras gerais estabelecidas pela Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, à apresentação e à publicidade dos géneros alimentícios destinados ao consumidor final ([^4^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0004)), com a última redacção que lhe foi dada pela Directiva 89/395/CEE ([^5^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0005)); que, tendo em conta a natureza dos produtos em causa, é conveniente, de modo a informar melhor o consumidor, adoptar disposições complementares a tais regras gerais;\n\nConsiderando que, no espírito do consumidor, a reputação de determinadas bebidas aromatizadas está intimamente ligada a uma proveniência tradicional; que, a fim de garantir uma informação adequada do consumidor e para ter em conta estas especificidades, convém tornar obrigatória a indicação da proveniência nos casos em que a bebida não provém da região tradicional de produção;\n\nConsiderando que, para permitir uma informação adequada quanto à composição da bebida, convém adoptar determinadas regras de rotulagem relativas à natureza do álcool utilizado;\n\nConsiderando que a Directiva 80/778/CEE do Conselho, de 15 de Julho de 1980, relativa à qualidade das águas destinadas ao consumo humano ([^6^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0006)), e a Directiva 80/777/CEE do Conselho, de 15 de Julho de 1980, com a última redacção que lhe foi dada pela Directiva 81/858/CEE ([^7^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0007)), relativa à aproximação das legislações dos Estados-membros respeitantes à exploração e à comercialização das águas minerais naturais ([^8^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0008)), com a última redacção que lhe foi dada pela Directiva 85/7/CEE ([^9^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0009)), fixam as características das águas que podem ser utilizadas na alimentação; que é conveniente fazer-lhes referência;\n\nConsiderando que a Directiva 88/388/CEE do Conselho, de 22 de Junho de 1988, relativa à aproximação das legislações dos Estados-membros no domínio dos aromas destinados a serem utilizados nos géneros alimentícios e dos materiais de base para a respectiva produção ([^10^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0010)), define os diferentes termos susceptíveis de serem utilizados quando se trate de aromatização; que é conveniente utilizar no presente regulamento a mesma terminologia;\n\nConsiderando que é conveniente adoptar disposições específicas sobre a designação e a apresentação das bebidas aromatizadas, à base de produtos vitivinícolas, importadas, tendo em conta os compromissos da Comunidade nas suas relações com países terceiros;\n\nConsiderando que, para defender a reputação das bebidas aromatizadas comunitárias no mercado mundial, é conveniente tornar extensivas as mesmas regras às bebidas exportadas, salvo disposições em contrário, tendo em conta os hábitos e práticas tradicionais;\n\nConsiderando que, para que as medidas propostas tenham uma aplicação uniforme e simultânea, é preferível actuar pela via regulamentar;\n\nConsiderando que, com o objectivo de simplificar e de acelerar o processo, convém confiar à Comissão a adopção de medidas de aplicação de carácter técnico; que, para o fazer, convém prever um processo que instaure uma estreita cooperação entre os Estados-membros e a Comissão no âmbito de um comité de aplicação;\n\nConsiderando que se afiguram necessárias medidas transitórias para facilitar a passagem ao regime instituído pelo presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c9a69dde3b5a395b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as regras gerais relativas à definição, designação e apresentação dos vinhos aromatizados, das bebidas aromatizadas à base de vinho e dos *cocktails* aromatizados de produtos vitivinícolas."
+  },
+  "a1ce0386a1480a9f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos do presente regulamento, entende-se por:\n\na) Vinho aromatizado:\n\n— obtida a partir de um ou mais dos produtos vinícolas definidos no anexo I, pontos 5 e 12 a 18 do Regulamento (CEE) n.º 822/87 ([^11^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0011)), incluindo os vinhos de qualidade produzidos em regiões determinadas, definidos no n.º 2 do artigo 1.º do Regulamento (CEE) n.º 823/87 ([^12^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0012)), com excepção do vinho de mesa «*retsina*», a que, eventualmente, se adicionaram mostos de uvas e/ou mostos de uvas parcialmente fermentados,\n\n— que foi objecto de adição de álcool tal como definida na alínea d) do ponto 3,\n\n— que tenha sido sujeita a aromatização com utilização de:\n\n— substâncias aromatizantes naturais e/ou de preparados aromatizantes naturais, tal como definidos no n.º 2, alínea b), subalínea i), e alínea c), do artigo 1.º da Directiva 88/388/CEE. Sem prejuízo das disposições mais restritivas constantes do n.º 2 do presente artigo, a utilização de substâncias e preparados idênticos aos naturais, tal como definidos no n.º 2, alínea b), subalínea ii), do artigo 1.º da directiva acima referida, poderá ser autorizada em certos casos e em determinadas condições, em conformidade com o procedimento previsto no artigo 14.º e/ou\n\n— ervas aromáticas e/ou especiarias e/ou géneros alimentícios sápidos,\n\n— que tenha sido globalmente objecto de uma edulcoração e, salvo as excepções previstas no n.º 2, de uma eventual coloração com caramelo,\n\n— com um título alcoométrico volúmico adquirido mínimo igual ou superior a 14,5 % vol e máximo inferior a 22 % vol e um título alcoométrico volúmico total mínimo igual ou superior a 17,5 % vol. Todavia, para os produtos que possuem a menção «seco» ou «extra-seco» em aplicação do n.º 5, o título alcoométrico volúmico total mínimo é fixado em 16 % vol e em 15 % vol, respectivamente.\n\nb) Bebida aromatizada à base de vinho:\n\n— obtida a partir de um ou mais dos vinhos definidos nos pontos 11 a 13 e 15 a 18 do anexo I do Regulamento (CEE) n.º 822/87, incluindo os vinhos de qualidade produzidos em regiões determinadas, definidos no n.º 2 do artigo 1.º do Regulamento (CEE) n.º 823/87, com excepção dos vinhos elaborados com adição de álcool e do vinho de mesa «retsina», a que, eventualmente, se adicionaram mostos de uvas e/ou mostos de uvas parcialmente fermentados,\n\n— que tenha sido sujeita a aromatização com utilização de:\n\n— substâncias aromatizantes e/ou de preparados aromatizantes naturais e/ou idênticos aos naturais, tal como definidos no n.º 2, alínea b), subalíneas i) e ii), e alínea c), do artigo 1.º da Directiva 88/388/CEE. Poderá ser autorizada, em certos casos e em determinadas condições, em conformidade com o procedimento previsto no artigo 14.º a utilização de substâncias artificiais tal como definidas no n.º 2, alínea b), subalínea iii), do artigo 1.º da directiva acima referida e/ou\n\n— ervas aromáticas e/ou especiarias e/ou géneros alimentícios sápidos,\n\n— que tenha sido objecto de eventual edulcoração,\n\n— que não tenha sido objecto de adição de álcool, salvo excepções referidas na definição do produto constante do presente regulamento ou decididas de acordo com o procedimento previsto no artigo 14.º,\n\n— com um título alcoométrico volúmico adquirido igual ou superior a 7 % vol e inferior a 14,5 % vol.\n\nc) *Cocktail* aromatizado de produtos vitivinícolas:\n\n— obtida a partir de vinho e/ou de mostos de uva,\n\n— que tenha sido objecto de uma aromatização à base de:\n\n— substâncias aromatizantes e/ou de preparados aromatizantes naturais e/ou idênticos aos naturais, tal como definidos no n.º 2, alínea b), subalíneas i) e ii), e alínea c), do artigo 1.º da Directiva 88/388/CEE; poderá ser autorizada, em certos casos e em determinadas condições, em conformidade com o procedimento previsto no artigo 14.º a utilização de substâncias artificiais tal como definidas no n.º 2, alínea b), subalínea iii), do artigo 1.º da directiva acima referida e/ou\n\n— ervas aromáticas e/ou especiarias e/ou géneros alimentícios sápidos,\n\n— que tenha sido objecto de eventual edulcoração e de eventual coloração,\n\n— que não tenha sido objecto de adição de álcool,\n\n— com um título alcoométrico volúmico adquirido inferor a 7 % vol.\n\n2. Definições das diferentes categorias dos vinhos aromatizados cuja denominação possa substituir a denominação «vinho aromatizado»:\n\na) *Vermute:*\n\nb) *Vinho aromatizado amargo:*\n\n— «vinho com quinquino», caso a aromatização seja obtida principalmente através do aroma natural de quinquino,\n\n— «*bitter vino*», caso a aromatização seja feita principalmente através do aroma natural da genciana e se a bebida tiver sofrido uma coloração amarela e/ou vermelha por acção de corantes autorizados; a utilização do termo «*bitter*» neste contexto não obsta à utilização do mesmo termo para definir produtos não abrangidos pelo campo de aplicação do presente regulamento,\n\n— «americano» caso a aromatização se deva à presença de substâncias aromatizantes naturais provenientes da artemísia e da genciana e se a bebida tiver sofrido uma coloração amarela e/ou vermelha por acção de corantes autorizados;\n\nc) *Vinho aromatizado à base de ovo:*\n\nd) *Väkevä viiniglögiStarkvinsglögg:*\n\n3. Definições das diferentes categorias de bebidas aromatizadas à base de vinho cuja denominação pode:\n\n— substituir a denominação «bebida aromatizada à base de vinho» no Estado-membro de produção,\n\n— ser utilizada como complemento da denominação «bebida aromatizada à base de vinho» nos outros Estados-membros:\n\na) *Sangria:*\n\n— aromatizada através da adição de extractos ou de essências naturais de citrinos,\n\n— com ou sem sumos desses frutos,\n\n— eventualmente:\n\n— com adição de especiarias,\n\n— edulcorada,\n\n— a que se adicionou CO^2^,\n\nb) *Clarea:*\n\nc) *Zurra:*\n\nd) *Bitter soda:*\n\ne) *Kalte Ente:*\n\nf) *Glühwein:*\n\nf-a) *ViiniglögiVinglögg:*\n\ng) *Maiwein:*\n\nh) *Maitrank:*\n\ni) Pelin: A bebida aromatizada à base de vinho obtida a partir de vinho branco ou tinto, mosto de uvas concentrado, sumo de uva (ou açúcar de beterraba) e determinada tintura de ervas, com um título alcoométrico não inferior a 8,5 % vol, um teor de açúcar expresso em açúcar invertido de 45-50 g/l e uma acidez total não inferior a 3 g/l expressa em ácido tartárico;\n\n[**►A2**](http://publications.europa.eu/resource/celex/12005S) j)**◄** *Outras definições:*\n\n4. Definições das categorias de *cocktails* aromatizados de produtos vitivinícolas cuja denominação pode:\n\n— substituir a denominação «*cocktail* aromatizado de produtos vitivinícolas» no Estado de produção,\n\n— ser utilizada como complemento à denominação «*cocktail* aromatizado de produtos vitivinícolas» nos outros Estados-membros:\n\na) *Cocktail* à base de vinho:\n\n— com uma proporção de mosto de uva concentrado não superior a 10 % do volume total do produto acabado,\n\n— cujo teor de açúcares, expresso em açúcar invertido seja inferior a 80 gramas por litro;\n\nb) *Bebida gaseificada de uva aromatizada:*\n\n— elaborada exclusivamente a partir de mosto de uva,\n\n— cujo título alcoométrico volúmico adquirido seja inferior a 4 % vol,\n\n— que contenha anidrido carbónico resultante exclusivamente da fermentação dos produtos utilizados;\n\nc) *Outras definições:*\n\n5. As denominações referidas no n.º 1, alíneas a) e b), no n.º 2 e no n.º 3 podem ser completadas com as menções seguintes, encontrando-se expresso em açúcar invertido o teor de açúcares indicado no parágrafo correspondente a cada menção:\n\na) Extra-seco: para os produtos cujo teor de açúcares é inferior a 30 gramas por litro;\n\nb) Seco: para os produtos cujo teor de açúcares é inferior a 50 gramas por litro,\n\nc) Meio-seco: para os produtos cujo teor de açúcares se situa entre 50 a 90 gramas por litro,\n\nd) Meio-doce: para os produtos cujo teor de açúcares se situa entre 90 e 130 gramas por litro,\n\ne) Doce: para os produtos cujo teor de açúcares é superior a 130 gramas por litro.\n\nAs menções «meio-doce» e «doce» podem ser substituídas pela indicação do teor de açúcares, expresso em gramas por litro de açúcar invertido.\n\n6. Sempre que a denominação de venda das bebidas aromatizadas à base de vinho inclua a expressão «espumante», a quantidade de vinho espumante utilizada não deve ser inferior a 95 %.\n\n7. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 14.º"
+  },
+  "54c7f9927a933aaa": {
+   "fragment_id": "Artigo 3.º — Definições subsidiárias",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições subsidiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições subsidiárias\n\nPara efeitos do presente regulamento, entende-se por:\n\na) Edulcoração:\n\nb) Aromatização:\n\nc) Coloração:\n\nd) Adição de álcool:\n\n— álcool etílico de origem vitícola,\n\n— álcool de vinho ou de uvas secas,\n\n— álcool etílico de origem agrícola,\n\n— destilado de vinho ou de uvas secas,\n\n— destilado de origem agrícola,\n\n— aguardente de vinho ou aguardente bagaceira,\n\n— aguardente de uvas secas,\n\ne) Título alcoométrico volúmico adquirido:\n\nf) Título alcoométrico volúmico em potência:\n\ng) Título alcoométrico volúmico total:\n\nh) Título alcoométrico volúmico natural:"
+  },
+  "055cf5275239578f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Quanto às bebidas a que se refere o presente regulamento, a lista dos aditivos alimentares autorizados e as regras para a sua utilização, bem como os produtos em causa, serão determinadas de acordo com o procedimento previsto na Directiva 89/107/CEE ([^14^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0014)).\n\n2. Na elaboração dessas bebidas, é autorizada a adição de água, eventualmente destilada ou desmineralizada, desde que a sua qualidade esteja em conformidade com as disposições nacionais adoptadas em aplicação das Directivas 80/777/CEE e 80/778/CEE e que essa adição não altere a natureza da bebida.\n\n3. Quando se utilizar álcool etílico para diluir ou dissolver as matérias corantes, os aromas ou qualquer outro aditivo autorizado, usados na elaboração dos referidos produtos aromatizados, esse álcool etílico só pode ser de origem agrícola utilizado na dose estritamente necessária para diluir ou dissolver as matérias corantes, os aromas ou qualquer outro aditivo autorizado.\n\n4. As regras de execução e, nomeadamente, os métodos de análise dos produtos referidos no presente regulamento serão adoptados de acordo com o procedimento previsto no artigo 13.º"
+  },
+  "7a6e715baf345d52": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os tratamentos e práticas enológicas autorizadas nos termos do Regulamento (CEE) n.º 822/87 são aplicáveis aos vinhos e mostos que entram na composição dos produtos referidos no artigo 1.º\n\n2. Os tratamentos a aplicar aos produtos em curso de elaboração, com o objectivo de obter um dos produtos acabados referidos no presente regulamento, serão determinados nos termos do procedimento previsto no artigo 14.º"
+  },
+  "29e06df6c953f0db": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. As denominações referidas no artigo 2.º e no presente artigo ficam reservadas às bebidas neles definidas, tendo em conta os requisitos previstos nos artigos 2.º e 4.º Estas denominações devem ser utilizadas na Comunidade para designar estas bebidas.\n\nAs bebidas que não corresponderem às especificações adoptadas para as bebidas definidas no artigo 2.º não podem utilizar as denominações deles constantes.\n\na) As denominações geográficas enumeradas na lista constante do anexo II podem substituir as denominações referidas no n.º 1 ou completá-las, formando denominações compostas;\n\nb) Tais denominações geográficas ficam reservadas às bebidas que adquiram as suas características e qualidades definitivas no decurso da fase de produção que teve lugar na zona geográfica invocada, desde que o consumidor não seja induzido em erro quanto à matéria-prima utilizada.\n\n3. As denominações de venda referidas no n.º 1 não podem ser completadas por indicações geográficas a que têm direito os produtos vitivinícolas.\n\n4. No que toca às bebidas referidas no anexo II, os Estados-membros podem aplicar normas nacionais específicas relativas à produção, circulação interna, designação e apresentação destas bebidas obtidas nos seus territórios, desde que tais normas sejam compatíveis com o direito comunitário."
+  },
+  "e3c8161de1c1fe9c": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Na denominação de venda das bebidas aromatizadas que contenham produtos do sector vitivinícola e aromas, com um título alcoométrico de pelo menos 1,2 % vol, que não obedeçam ao disposto no presente regulamento, não é autorizada qualquer referência aos produtos do sector vitivinícola.\n\n2. As bebidas aromatizadas que não obedeçam ao disposto no presente regulamento não podem ser comercializadas para consumo humano sob uma designação que associe a uma das denominações referidas no presente regulamento termos ou expressões como «género», «tipo», «processo», «estilo», «marca», «gosto» ou outras menções análogas.\n\n3. No que respeita às bebidas aromatizadas contendo produtos do sector vitivinícola obtidas por adição de álcool e não abrangidas pelo presente regulamento e obtidas por adição de álcool, a Comissão apresentará ao Conselho, o mais tardar seis meses após a entrada em vigor do presente regulamento, uma proposta adequada.\n\nO uso de denominação descritiva das bebidas qualificadas «wine cooler» é autorizada para essas bebidas até que o Conselho tenha deliberado sobre a proposta acima citada."
+  },
+  "f3b516a9c6dcdd49": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A rotulagem e a apresentação das bebidas referidas no artigo 2.º, bem como a respectiva publicidade, devem estar em conformidade, não só com as normas nacionais adoptadas nos termos da Directiva 79/112/CEE, mas também com o disposto no presente artigo.\n\n2. A denominação de venda dos produtos referidos nos n.^os^ 3 e 4 do artigo 2.º será uma das denominações que lhes estão reservadas por força do artigo 6.º\n\n3. As denominações constantes do artigo 2.º podem ser completadas por uma referência ao aroma principal utilizado.\n\n4. No caso de o álcool utilizado na elaboração das bebidas visadas no presente regulamento provir de uma única matéria-prima (por exemplo, unicamente álcool de vinho, álcool de melaço, álcool de cereais) a natureza do álcool poderá ser mencionada no rótulo.\n\nNo caso de o álcool provir de diversas matérias-primas, nenhuma menção especial relativa à natureza do álcool poderá figurar no rótulo.\n\nO álcool etílico utilizado na elaboração das bebidas referidas no presente regulamento para diluir ou dissolver as matérias corantes, os aromas ou quaisquer outros aditivos autorizados não pode ser considerado como ingrediente.\n\n4A. A partir de 1 de Janeiro de 1993, os produtos abrangidos pelo presente regulamento e que estejam acondicionados em garrafas, apenas podem ser detidos para venda ou colocados em circulação em recipientes fechados com um dispositivo de fecho que não pode ser revestido por uma cápsula ou uma folha fabricadas à base de chumbo. Todavia, o escoamento dos produtos engarrafados e revestidos por uma cápsula ou uma folha dessa natureza antes daquela data fica autorizada até esgotamento das existências.\n\n5. As denominações geográficas enumeradas no anexo II não podem ser traduzidas.\n\n6. As indicações previstas no presente regulamento serão dadas numa ou várias línguas oficiais da Comunidade de modo a que o consumidor final possa compreender facilmente cada uma dessas referências, excepto nos casos em que a informação ao comprador seja assegurada por outros meios.\n\n7. Relativamente às bebidas originárias de países terceiros, admite-se a utilização de uma língua oficial do país terceiro onde se tenha efectuado a elaboração, desde que as indicações previstas no presente regulamento sejam dadas igualmente numa língua oficial da Comunidade de forma a que o consumidor final possa compreender facilmente todas essas referências.\n\n8. Sem prejuízo do disposto no artigo 11.º, para as bebidas originárias da Comunidade destinadas à exportação, as indicações previstas no presente regulamento podem ser repetidas noutra língua, com excepção das denominações referidas no n.º 5.\n\n9. Relativamente às bebidas referidas no artigo 2.º, podem ser determinadas de acordo com o procedimento previsto no artigo 13.º:\n\na) As disposições específicas que devem reger a utilização de termos que se refiram a uma determinada qualidade do produto, tal como o seu historial ou o seu método de elaboração;\n\nb) As regras de rotulagem dos produtos em recipientes não destinados ao consumidor final."
+  },
+  "59eaaa1622f3471a": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-membros tomarão as medidas necessárias para assegurar o cumprimento das disposições comunitárias no sector dos vinhos aromatizados, das bebidas aromatizadas à base de vinho e dos *cocktails* aromatizados de produtos vitivinícolas. Os Estados-membros incumbirão uma ou várias instâncias de controlar o cumprimento de tais disposições.\n\nEm relação às bebidas referidas no anexo II, pode ser decidido, de acordo com o procedimento previsto no artigo 13.º, que esse controlo e essa protecção sejam assegurados, na circulação intracomunitária, por documentos comerciais controlados pela administração e pela manutenção de registos adequados.\n\n2. No que se refere às bebidas enumeradas no anexo II que são exportadas poderá instituir-se um sistema de documentos de autenticação, de acordo com o procedimento previsto no artigo 13.º, de modo a eliminar as fraudes e contrafacções.\n\nNa ausência do sistema referido no primeiro parágrafo, os Estados-membros aplicarão os seus próprios sistemas de autenticação, desde que estes estejam em conformidade com as regras comunitárias.\n\n3. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, adoptará as medidas necessárias para efeitos da aplicação uniforme das disposições comunitárias no sector dos vinhos aromatizados, das bebidas aromatizadas à base de vinho e dos *cocktails* aromatizados de produtos vitivinícolas, nomeadamente no que respeita ao controlo e às relações entre as instâncias competentes dos Estados-membros.\n\n4. Os Estados-membros e a Comissão permutarão os dados necessários à aplicação do presente regulamento. As regras da comunicação e divulgação desses dados serão adoptadas de acordo com o procedimento previsto no artigo 13.º"
+  },
+  "a1631d8e7caa5e00": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nTendo em vista a sua comercialização na Comunidade para consumo humano, as bebidas definidas no presente regulamento, importadas, e designadas mediante uma indicação geográfica, podem beneficiar, sob condição de reciprocidade, do controlo e da protecção referidos no n.º 1, segundo parágrafo, do artigo 9.º\n\nSerá dada execução ao disposto no primeiro parágrafo através de acordos com os países terceiros interessados, a negociar e a celebrar nos termos do artigo 113.º do Tratado.\n\nAs regras de execução, bem como a lista dos produtos referidos no primeiro parágrafo, serão adoptadas de acordo com o procedimento previsto no artigo 14.º"
+  },
+  "9a5add33545ef75d": {
+   "fragment_id": "Artigo 10.º A",
+   "type": "artigo",
+   "heading": "Artigo 10.º A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º A\n\n1. Os Estados-membros tomarão todas as medidas necessárias que permitam aos interessados impedir, nas condições fixadas nos artigos 23.º e 24.º do Acordo sobre aspectos dos direitos de propriedade intelectual relacionados com o comércio, a utilização na Comunidade de uma denominação geográfica que identifique produtos abrangidos pelo presente regulamento, em relação a produtos que não sejam originários do local indicado pela denominação geográfica em questão, mesmo que seja indicada a verdadeira origem do produto ou a denominação geográfica seja utilizada em tradução ou acompanhada de expressões como «género», «tipo», «estilo», «imitação» ou outras.\n\nPara efeito do presente artigo, entende-se por «denominações geográficas» indicações que sirvam para identificar um produto como originário do território de um país terceiro membro da Organização Mundial do Comércio, ou de uma região ou localidade desse território, quando uma qualidade, reputação ou outra característica determinada do produto possa ser atribuída essencialmente a essa origem geográfica.\n\n2. O n.º 1 é aplicável não obstante as disposições do artigo 10.º ou outras disposições da legislação comunitária que estabeleçam normas relativas à designação e à apresentação dos produtos abrangidos pelo presente regulamento.\n\n3. As normas de execução do presente artigo serão adoptadas, caso necessário, nos termos do procedimento previsto no artigo 14.º"
+  },
+  "e57ff9ae088a727c": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSalvo excepções a decidir de acordo com o procedimento previsto no artigo 13.º, os vinhos aromatizados, as bebidas aromatizadas à base de vinho e os *cocktails* aromatizados de produtos vitivinícolas destinados à exportação devem ser conformes com as disposições do presente regulamento."
+  },
+  "f67bdbdc07a589c6": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. É instituído um comité de execução para as bebidas referidas no presente regulamento, a seguir designado por «Comité».\n\n2. O Comité aprovará o seu regulamento interno."
+  },
+  "048586f008e8c3dc": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^15^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0015)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês."
+  },
+  "b979ddc4524e9b93": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^16^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#E0016)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "99c2ee62a3f5529a": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO comité pode examinar qualquer outra questão apresentada pelo seu presidente, quer por iniciativa deste quer a pedido de um representante do um Estado-membro."
+  },
+  "25833b8388c16e97": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Tendo em vista facilitar a transição do actual regime para o instituído pelo presente regulamento, serão adoptadas medidas transitórias de acordo com o procedimento previsto no artigo 13.º\n\n2. Estas medidas transitórias não podem exceder uma duração máxima de dois anos a contar da data de início da aplicação do presente regulamento."
+  },
+  "8dd96f4d615028eb": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 17 de Dezembro de 1991, com excepção dos artigos 12.º a 15.º, que são aplicáveis a partir da data de entrada em vigor do presente regulamento. Todavia, é autorizado o escoamento das bebidas produzidas e rotuladas antes dessa data, até que se esgotem essas existências.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "abab6ede1f2d6fff": {
+   "fragment_id": "Características do álcool etílico referido na alínea d) do artigo 3.º",
+   "type": "divisao",
+   "heading": "Características do álcool etílico referido na alínea d) do artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Características do álcool etílico referido na alínea d) do artigo 3.º\n\n1.Características organolépticas: Não detectável qualquer sabor estranho à matéria-prima\n\n2.Título alcoométrico volúmico mínimo: 96,0 % vol\n\n3.Valores máximos de elementos residuais:\n\n— Acidez total expressa em ácido acético g/hl de álcool a 100 % vol: 1,5\n\n— Ésteres expressos em acetato de etilo g/hl de álcool a 100 % vol: 1,3\n\n— Aldeídos expressos em acetaldeído g/hl de álcool a 100 % vol: 0,5\n\n— Álcoois superiores expressos em metil-2 propanol-1 g/hl de álcool a 100 % vol: 0,5\n\n— Metanol g/hl de álcool a 100 % vol: 50\n\n— Extracto seco g/hl de álcool a 100 % vol: 1,5\n\n— Bases azotadas voláteis expressas em azoto g/hl de álcool: a 100 % vol 0,1\n\n— Furfural: não detectável"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "878bfd31746ea6b7": {
+   "fragment_id": "Bebidas aromatizadas à base de produtos vitivinícolas",
+   "type": "divisao",
+   "heading": "Bebidas aromatizadas à base de produtos vitivinícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bebidas aromatizadas à base de produtos vitivinícolas"
+  },
+  "1c489803eed01537": {
+   "fragment_id": "Denominações geográficas",
+   "type": "divisao",
+   "heading": "Denominações geográficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Denominações geográficas\n\nreferidas no n.º 2 do artigo 6.º\n\nNürnberger Glühwein\n\nThüringer Glühwein\n\nVermouth de Chambéry\n\nVermouth di Torino\n\n---"
+  },
+  "fa194225b0f6b603": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0001)) JO n.º C 269 de 25. 10. 1986, p. 15.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0002)) JO n.º C 127 de 14. 5. 1984, p. 185, e\n\n> JO n.º C 129 de 20. 5. 1991.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0003)) JO n.º C 124 de 9. 5. 1983, p. 16.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0004)) JO n.º L 33 de 8. 2. 1979, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0005)) JO n.º L 186 de 30. 6. 1989, p. 17.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0006)) JO n.º L 229 de 30. 8. 1980, p. 11.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0007)) JO n.º L 319 de 7. 11. 1981, p. 19.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0008)) JO n.º L 229 de 30. 8. 1980, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0009)) JO n.º L 2 de 3. 1. 1985, p. 22.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0010)) JO n.º L 184 de 15. 7. 1988, p. 61.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0011)) JO n.º L 84 de 27. 3. 1987, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1544/95 (JO n.º L 148 de 30. 6. 1995, p. 31).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0012)) JO n.º L 84 de 27. 3. 1987, p. 59. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3011/95 (JO n.º L 314 de 28. 12. 1995, p. 14).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0013)) JO n.º L 160 de 12. 6. 1989, p. 1.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0014)) JO n.º L 40 de 11. 2. 1989, p. 27.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0015)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^16^](http://publications.europa.eu/resource/cellar/15f45d48-c46a-4b0a-ab81-111896f6b460.0018.03/DOC_1#src.E0016)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "63e8b98422063d95": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Junho de 1991\n\nque estabelece as regras gerais relativas à definição, designação e apresentação dos vinhos aromatizados, das bebidas aromatizadas à base de vinho e dos *cocktails* aromatizados de produtos vitivinícolas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43.º e 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0003)),\n\nConsiderando que não existe actualmente qualquer disposição comunitária específica relativa aos vinhos aromatizados, às bebidas aromatizadas à base de vinhos e aos *cocktails* aromatizados de produtos vitivinícolas, a seguir denominados «bebidas aromatizadas», nomeadamente no que diz respeito à definição de tais bebidas e às disposições relativas à sua designação e à sua apresentação; que, tendo em conta a importância económica desses produtos, se impõe a adopção de disposições comuns neste domínio, a fim de contribuir para o funcionamento do mercado comum;\n\nConsiderando que as bebidas aromatizadas constituem um mercado importante para a agricultura comunitária; que a existência de tal mercado se deve, em grande parte, à fama que algumas destas bebidas conquistaram na Comunidade e no mercado mundial; que esta fama está relacionada com o nível qualitativo das bebidas tradicionais; que é, portanto, conveniente, para a subsistência de tal mercado, manter um determinado nível qualitativo das bebidas em causa; que o modo adequado de manter esse nível qualitativo é o de definir as bebidas, tendo em conta os costumes tradicionais que estão na base de tal reputação; que, além disso, é conveniente reservar a utilização dos termos assim definidos para as bebidas cujo nível qualitativo corresponda ao das bebidas tradicionais, a fim de evitar que tais termos se desvalorizem;\n\nConsiderando que convém prever um quadro adequado para as bebidas aromatizadas constituídas principalmente por vinho ou por mostos, embora permitindo uma evolução e invocação para tais bebidas; que tal objectivo pode mais facilmente ser atingido através da criação de três categorias de bebidas consoante o respectivo teor em vinho, título alcoométrico e consoante tenham tido ou não uma adição de álcool;\n\nConsiderando que é conveniente que o direito comunitário reserve para certos territórios a utilização de menções geográficas que se lhes refiram, na medida em que de entre as fases do processo de produção, as do estádio da produção do produto acabado, durante o qual este adquire o seu carácter e as suas qualidades definitivas, se tenham desenrolado na zona geográfica em questão;\n\nConsiderando que o meio normal e habitual de informar o consumidor é o de apor no rótulo um certo número de menções; que as bebidas aromatizadas à base de produtos vitivinícolas estão sujeitas, no que diz respeito à rotulagem, às regras gerais estabelecidas pela Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, à apresentação e à publicidade dos géneros alimentícios destinados ao consumidor final ([^4^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0004)), com a última redacção que lhe foi dada pela Directiva 89/395/CEE ([^5^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0005)); que, tendo em conta a natureza dos produtos em causa, é conveniente, de modo a informar melhor o consumidor, adoptar disposições complementares a tais regras gerais;\n\nConsiderando que, no espírito do consumidor, a reputação de determinadas bebidas aromatizadas está intimamente ligada a uma proveniência tradicional; que, a fim de garantir uma informação adequada do consumidor e para ter em conta estas especificidades, convém tornar obrigatória a indicação da proveniência nos casos em que a bebida não provém da região tradicional de produção;\n\nConsiderando que, para permitir uma informação adequada quanto à composição da bebida, convém adoptar determinadas regras de rotulagem relativas à natureza do álcool utilizado;\n\nConsiderando que a Directiva 80/778/CEE do Conselho, de 15 de Julho de 1980, relativa à qualidade das águas destinadas ao consumo humano ([^6^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0006)), e a Directiva 80/777/CEE do Conselho, de 15 de Julho de 1980, com a última redacção que lhe foi dada pela Directiva 81/858/CEE ([^7^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0007)), relativa à aproximação das legislações dos Estados-membros respeitantes à exploração e à comercialização das águas minerais naturais ([^8^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0008)), com a última redacção que lhe foi dada pela Directiva 85/7/CEE ([^9^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0009)), fixam as características das águas que podem ser utilizadas na alimentação; que é conveniente fazer-lhes referência;\n\nConsiderando que a Directiva 88/388/CEE do Conselho, de 22 de Junho de 1988, relativa à aproximação das legislações dos Estados-membros no domínio dos aromas destinados a serem utilizados nos géneros alimentícios e dos materiais de base para a respectiva produção ([^10^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0010)), define os diferentes termos susceptíveis de serem utilizados quando se trate de aromatização; que é conveniente utilizar no presente regulamento a mesma terminologia;\n\nConsiderando que é conveniente adoptar disposições específicas sobre a designação e a apresentação das bebidas aromatizadas, à base de produtos vitivinícolas, importadas, tendo em conta os compromissos da Comunidade nas suas relações com países terceiros;\n\nConsiderando que, para defender a reputação das bebidas aromatizadas comunitárias no mercado mundial, é conveniente tornar extensivas as mesmas regras às bebidas exportadas, salvo disposições em contrário, tendo em conta os hábitos e práticas tradicionais;\n\nConsiderando que, para que as medidas propostas tenham uma aplicação uniforme e simultânea, é preferível actuar pela via regulamentar;\n\nConsiderando que, com o objectivo de simplificar e de acelerar o processo, convém confiar à Comissão a adopção de medidas de aplicação de carácter técnico; que, para o fazer, convém prever um processo que instaure uma estreita cooperação entre os Estados-membros e a Comissão no âmbito de um comité de aplicação;\n\nConsiderando que se afiguram necessárias medidas transitórias para facilitar a passagem ao regime instituído pelo presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1cb6e32c167a0d34": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos do presente regulamento, entende-se por:\n\na) Vinho aromatizado:\n\n— obtida a partir de um ou mais dos produtos vinícolas definidos no anexo I, pontos 5 e 12 a 18 do Regulamento (CEE) n.º 822/87 ([^11^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0011)), incluindo os vinhos de qualidade produzidos em regiões determinadas, definidos no n.º 2 do artigo 1.º do Regulamento (CEE) n.º 823/87 ([^12^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0012)), com excepção do vinho de mesa «*retsina*», a que, eventualmente, se adicionaram mostos de uvas e/ou mostos de uvas parcialmente fermentados,\n\n— que foi objecto de adição de álcool tal como definida na alínea d) do ponto 3,\n\n— que tenha sido sujeita a aromatização com utilização de:\n\n— substâncias aromatizantes e/ou preparações aromatizantes tal como definidas nas alíneas b) e d) do n.º 2 do artigo 3.º do Regulamento (CE) n.º 1334/2008 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008, relativo aos aromas alimentares e a determinados ingredientes alimentares com propriedades aromatizantes utilizados nos e sobre os géneros alimentícios ([^13^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0013)), e/ou\n\n— ervas aromáticas e/ou especiarias e/ou géneros alimentícios sápidos,\n\n— que tenha sido globalmente objecto de uma edulcoração e, salvo as excepções previstas no n.º 2, de uma eventual coloração com caramelo,\n\n— com um título alcoométrico volúmico adquirido mínimo igual ou superior a 14,5 % vol e máximo inferior a 22 % vol e um título alcoométrico volúmico total mínimo igual ou superior a 17,5 % vol. Todavia, para os produtos que possuem a menção «seco» ou «extra-seco» em aplicação do n.º 5, o título alcoométrico volúmico total mínimo é fixado em 16 % vol e em 15 % vol, respectivamente.\n\nb) Bebida aromatizada à base de vinho:\n\n— obtida a partir de um ou mais dos vinhos definidos nos pontos 11 a 13 e 15 a 18 do anexo I do Regulamento (CEE) n.º 822/87, incluindo os vinhos de qualidade produzidos em regiões determinadas, definidos no n.º 2 do artigo 1.º do Regulamento (CEE) n.º 823/87, com excepção dos vinhos elaborados com adição de álcool e do vinho de mesa «retsina», a que, eventualmente, se adicionaram mostos de uvas e/ou mostos de uvas parcialmente fermentados,\n\n— que tenha sido sujeita a aromatização com utilização de:\n\n— substâncias aromatizantes e/ou preparações aromatizantes tal como definidas nas alíneas b) e d) do n.º 2 do artigo 3.º do Regulamento (CE) n.º 1334/2008, e/ou\n\n— ervas aromáticas e/ou especiarias e/ou géneros alimentícios sápidos,\n\n— que tenha sido objecto de eventual edulcoração,\n\n— que não tenha sido objecto de adição de álcool, salvo excepções referidas na definição do produto constante do presente regulamento ou decididas de acordo com o procedimento previsto no artigo 14.º,\n\n— com um título alcoométrico volúmico adquirido igual ou superior a 7 % vol e inferior a 14,5 % vol.\n\nc) *Cocktail* aromatizado de produtos vitivinícolas:\n\n— obtida a partir de vinho e/ou de mostos de uva,\n\n— que tenha sido objecto de uma aromatização à base de:\n\n— substâncias aromatizantes e/ou preparações aromatizantes tal como definidas nas alíneas b) e d) do n.º 2 do artigo 3.º do Regulamento (CE) n.º 1334/2008, e/ou\n\n— ervas aromáticas e/ou especiarias e/ou géneros alimentícios sápidos,\n\n— que tenha sido objecto de eventual edulcoração e de eventual coloração,\n\n— que não tenha sido objecto de adição de álcool,\n\n— com um título alcoométrico volúmico adquirido inferor a 7 % vol.\n\n2. Definições das diferentes categorias dos vinhos aromatizados cuja denominação possa substituir a denominação «vinho aromatizado»:\n\na) *Vermute:*\n\nb) *Vinho aromatizado amargo:*\n\n— «vinho com quinquino», caso a aromatização seja obtida principalmente através do aroma natural de quinquino,\n\n— «*bitter vino*», caso a aromatização seja feita principalmente através do aroma natural da genciana e se a bebida tiver sofrido uma coloração amarela e/ou vermelha por acção de corantes autorizados; a utilização do termo «*bitter*» neste contexto não obsta à utilização do mesmo termo para definir produtos não abrangidos pelo campo de aplicação do presente regulamento,\n\n— «americano» caso a aromatização se deva à presença de substâncias aromatizantes naturais provenientes da artemísia e da genciana e se a bebida tiver sofrido uma coloração amarela e/ou vermelha por acção de corantes autorizados;\n\nc) *Vinho aromatizado à base de ovo:*\n\nd) *Väkevä viiniglögiStarkvinsglögg:*\n\n3. Definições das diferentes categorias de bebidas aromatizadas à base de vinho cuja denominação pode:\n\n— substituir a denominação «bebida aromatizada à base de vinho» no Estado-membro de produção,\n\n— ser utilizada como complemento da denominação «bebida aromatizada à base de vinho» nos outros Estados-membros:\n\na) *Sangria:*\n\n— aromatizada através da adição de extractos ou de essências naturais de citrinos,\n\n— com ou sem sumos desses frutos,\n\n— eventualmente:\n\n— com adição de especiarias,\n\n— edulcorada,\n\n— a que se adicionou CO^2^,\n\nb) *Clarea:*\n\nc) *Zurra:*\n\nd) *Bitter soda:*\n\ne) *Kalte Ente:*\n\nf) *Glühwein:*\n\nf-a) *ViiniglögiVinglögg:*\n\ng) *Maiwein:*\n\nh) *Maitrank:*\n\ni) Pelin: A bebida aromatizada à base de vinho obtida a partir de vinho branco ou tinto, mosto de uvas concentrado, sumo de uva (ou açúcar de beterraba) e determinada tintura de ervas, com um título alcoométrico não inferior a 8,5 % vol, um teor de açúcar expresso em açúcar invertido de 45-50 g/l e uma acidez total não inferior a 3 g/l expressa em ácido tartárico;\n\n[**►A2**](http://publications.europa.eu/resource/celex/12005S) j)**◄** *Outras definições:*\n\n4. Definições das categorias de *cocktails* aromatizados de produtos vitivinícolas cuja denominação pode:\n\n— substituir a denominação «*cocktail* aromatizado de produtos vitivinícolas» no Estado de produção,\n\n— ser utilizada como complemento à denominação «*cocktail* aromatizado de produtos vitivinícolas» nos outros Estados-membros:\n\na) *Cocktail* à base de vinho:\n\n— com uma proporção de mosto de uva concentrado não superior a 10 % do volume total do produto acabado,\n\n— cujo teor de açúcares, expresso em açúcar invertido seja inferior a 80 gramas por litro;\n\nb) *Bebida gaseificada de uva aromatizada:*\n\n— elaborada exclusivamente a partir de mosto de uva,\n\n— cujo título alcoométrico volúmico adquirido seja inferior a 4 % vol,\n\n— que contenha anidrido carbónico resultante exclusivamente da fermentação dos produtos utilizados;\n\nc) *Outras definições:*\n\n5. As denominações referidas no n.º 1, alíneas a) e b), no n.º 2 e no n.º 3 podem ser completadas com as menções seguintes, encontrando-se expresso em açúcar invertido o teor de açúcares indicado no parágrafo correspondente a cada menção:\n\na) Extra-seco: para os produtos cujo teor de açúcares é inferior a 30 gramas por litro;\n\nb) Seco: para os produtos cujo teor de açúcares é inferior a 50 gramas por litro,\n\nc) Meio-seco: para os produtos cujo teor de açúcares se situa entre 50 a 90 gramas por litro,\n\nd) Meio-doce: para os produtos cujo teor de açúcares se situa entre 90 e 130 gramas por litro,\n\ne) Doce: para os produtos cujo teor de açúcares é superior a 130 gramas por litro.\n\nAs menções «meio-doce» e «doce» podem ser substituídas pela indicação do teor de açúcares, expresso em gramas por litro de açúcar invertido.\n\n6. Sempre que a denominação de venda das bebidas aromatizadas à base de vinho inclua a expressão «espumante», a quantidade de vinho espumante utilizada não deve ser inferior a 95 %.\n\n7. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 14.º"
+  },
+  "b29ea807541f54f8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Quanto às bebidas a que se refere o presente regulamento, a lista dos aditivos alimentares autorizados e as regras para a sua utilização, bem como os produtos em causa, serão determinadas de acordo com o procedimento previsto na Directiva 89/107/CEE ([^15^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0015)).\n\n2. Na elaboração dessas bebidas, é autorizada a adição de água, eventualmente destilada ou desmineralizada, desde que a sua qualidade esteja em conformidade com as disposições nacionais adoptadas em aplicação das Directivas 80/777/CEE e 80/778/CEE e que essa adição não altere a natureza da bebida.\n\n3. Quando se utilizar álcool etílico para diluir ou dissolver as matérias corantes, os aromas ou qualquer outro aditivo autorizado, usados na elaboração dos referidos produtos aromatizados, esse álcool etílico só pode ser de origem agrícola utilizado na dose estritamente necessária para diluir ou dissolver as matérias corantes, os aromas ou qualquer outro aditivo autorizado.\n\n4. As regras de execução e, nomeadamente, os métodos de análise dos produtos referidos no presente regulamento serão adoptados de acordo com o procedimento previsto no artigo 13.º"
+  },
+  "ae4162e2c7b821a6": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^16^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0016)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês."
+  },
+  "d9c061ae2472178d": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^17^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#E0017)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "adbb43c0a8c43bd2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0001)) JO n.º C 269 de 25. 10. 1986, p. 15.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0002)) JO n.º C 127 de 14. 5. 1984, p. 185, e\n\n> JO n.º C 129 de 20. 5. 1991.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0003)) JO n.º C 124 de 9. 5. 1983, p. 16.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0004)) JO n.º L 33 de 8. 2. 1979, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0005)) JO n.º L 186 de 30. 6. 1989, p. 17.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0006)) JO n.º L 229 de 30. 8. 1980, p. 11.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0007)) JO n.º L 319 de 7. 11. 1981, p. 19.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0008)) JO n.º L 229 de 30. 8. 1980, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0009)) JO n.º L 2 de 3. 1. 1985, p. 22.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0010)) JO n.º L 184 de 15. 7. 1988, p. 61.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0011)) JO n.º L 84 de 27. 3. 1987, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1544/95 (JO n.º L 148 de 30. 6. 1995, p. 31).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0012)) JO n.º L 84 de 27. 3. 1987, p. 59. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3011/95 (JO n.º L 314 de 28. 12. 1995, p. 14).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0013)) JO L 354 de 31.12.2008, p. 34.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0014)) JO n.º L 160 de 12. 6. 1989, p. 1.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0015)) JO n.º L 40 de 11. 2. 1989, p. 27.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0016)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^17^](http://publications.europa.eu/resource/cellar/5adcc386-fa74-4ee7-940d-75a9ca89cf7a.0018.03/DOC_1#src.E0017)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "f5b21e704bb5e9c9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Junho de 1991\n\nque estabelece as regras gerais relativas à definição, designação e apresentação dos vinhos aromatizados, das bebidas aromatizadas à base de vinho e dos *cocktails* aromatizados de produtos vitivinícolas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43.º e 100.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0003)),\n\nConsiderando que não existe actualmente qualquer disposição comunitária específica relativa aos vinhos aromatizados, às bebidas aromatizadas à base de vinhos e aos *cocktails* aromatizados de produtos vitivinícolas, a seguir denominados «bebidas aromatizadas», nomeadamente no que diz respeito à definição de tais bebidas e às disposições relativas à sua designação e à sua apresentação; que, tendo em conta a importância económica desses produtos, se impõe a adopção de disposições comuns neste domínio, a fim de contribuir para o funcionamento do mercado comum;\n\nConsiderando que as bebidas aromatizadas constituem um mercado importante para a agricultura comunitária; que a existência de tal mercado se deve, em grande parte, à fama que algumas destas bebidas conquistaram na Comunidade e no mercado mundial; que esta fama está relacionada com o nível qualitativo das bebidas tradicionais; que é, portanto, conveniente, para a subsistência de tal mercado, manter um determinado nível qualitativo das bebidas em causa; que o modo adequado de manter esse nível qualitativo é o de definir as bebidas, tendo em conta os costumes tradicionais que estão na base de tal reputação; que, além disso, é conveniente reservar a utilização dos termos assim definidos para as bebidas cujo nível qualitativo corresponda ao das bebidas tradicionais, a fim de evitar que tais termos se desvalorizem;\n\nConsiderando que convém prever um quadro adequado para as bebidas aromatizadas constituídas principalmente por vinho ou por mostos, embora permitindo uma evolução e invocação para tais bebidas; que tal objectivo pode mais facilmente ser atingido através da criação de três categorias de bebidas consoante o respectivo teor em vinho, título alcoométrico e consoante tenham tido ou não uma adição de álcool;\n\nConsiderando que é conveniente que o direito comunitário reserve para certos territórios a utilização de menções geográficas que se lhes refiram, na medida em que de entre as fases do processo de produção, as do estádio da produção do produto acabado, durante o qual este adquire o seu carácter e as suas qualidades definitivas, se tenham desenrolado na zona geográfica em questão;\n\nConsiderando que o meio normal e habitual de informar o consumidor é o de apor no rótulo um certo número de menções; que as bebidas aromatizadas à base de produtos vitivinícolas estão sujeitas, no que diz respeito à rotulagem, às regras gerais estabelecidas pela Directiva 79/112/CEE do Conselho, de 18 de Dezembro de 1978, relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, à apresentação e à publicidade dos géneros alimentícios destinados ao consumidor final ([^4^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0004)), com a última redacção que lhe foi dada pela Directiva 89/395/CEE ([^5^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0005)); que, tendo em conta a natureza dos produtos em causa, é conveniente, de modo a informar melhor o consumidor, adoptar disposições complementares a tais regras gerais;\n\nConsiderando que, no espírito do consumidor, a reputação de determinadas bebidas aromatizadas está intimamente ligada a uma proveniência tradicional; que, a fim de garantir uma informação adequada do consumidor e para ter em conta estas especificidades, convém tornar obrigatória a indicação da proveniência nos casos em que a bebida não provém da região tradicional de produção;\n\nConsiderando que, para permitir uma informação adequada quanto à composição da bebida, convém adoptar determinadas regras de rotulagem relativas à natureza do álcool utilizado;\n\nConsiderando que a Directiva 80/778/CEE do Conselho, de 15 de Julho de 1980, relativa à qualidade das águas destinadas ao consumo humano ([^6^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0006)), e a Directiva 80/777/CEE do Conselho, de 15 de Julho de 1980, com a última redacção que lhe foi dada pela Directiva 81/858/CEE ([^7^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0007)), relativa à aproximação das legislações dos Estados-membros respeitantes à exploração e à comercialização das águas minerais naturais ([^8^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0008)), com a última redacção que lhe foi dada pela Directiva 85/7/CEE ([^9^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0009)), fixam as características das águas que podem ser utilizadas na alimentação; que é conveniente fazer-lhes referência;\n\nConsiderando que a Directiva 88/388/CEE do Conselho, de 22 de Junho de 1988, relativa à aproximação das legislações dos Estados-membros no domínio dos aromas destinados a serem utilizados nos géneros alimentícios e dos materiais de base para a respectiva produção ([^10^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0010)), define os diferentes termos susceptíveis de serem utilizados quando se trate de aromatização; que é conveniente utilizar no presente regulamento a mesma terminologia;\n\nConsiderando que é conveniente adoptar disposições específicas sobre a designação e a apresentação das bebidas aromatizadas, à base de produtos vitivinícolas, importadas, tendo em conta os compromissos da Comunidade nas suas relações com países terceiros;\n\nConsiderando que, para defender a reputação das bebidas aromatizadas comunitárias no mercado mundial, é conveniente tornar extensivas as mesmas regras às bebidas exportadas, salvo disposições em contrário, tendo em conta os hábitos e práticas tradicionais;\n\nConsiderando que, para que as medidas propostas tenham uma aplicação uniforme e simultânea, é preferível actuar pela via regulamentar;\n\nConsiderando que, com o objectivo de simplificar e de acelerar o processo, convém confiar à Comissão a adopção de medidas de aplicação de carácter técnico; que, para o fazer, convém prever um processo que instaure uma estreita cooperação entre os Estados-membros e a Comissão no âmbito de um comité de aplicação;\n\nConsiderando que se afiguram necessárias medidas transitórias para facilitar a passagem ao regime instituído pelo presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5b31df0480c29638": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos do presente regulamento, entende-se por:\n\na) Vinho aromatizado:\n\n— obtida a partir de um ou mais dos produtos vinícolas definidos no anexo I, pontos 5 e 12 a 18 do Regulamento (CEE) n.º 822/87 ([^11^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0011)), incluindo os vinhos de qualidade produzidos em regiões determinadas, definidos no n.º 2 do artigo 1.º do Regulamento (CEE) n.º 823/87 ([^12^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0012)), com excepção do vinho de mesa «*retsina*», a que, eventualmente, se adicionaram mostos de uvas e/ou mostos de uvas parcialmente fermentados,\n\n— que foi objecto de adição de álcool tal como definida na alínea d) do ponto 3,\n\n— que tenha sido sujeita a aromatização com utilização de:\n\n— substâncias aromatizantes e/ou preparações aromatizantes tal como definidas nas alíneas b) e d) do n.º 2 do artigo 3.º do Regulamento (CE) n.º 1334/2008 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008, relativo aos aromas alimentares e a determinados ingredientes alimentares com propriedades aromatizantes utilizados nos e sobre os géneros alimentícios ([^13^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0013)), e/ou\n\n— ervas aromáticas e/ou especiarias e/ou géneros alimentícios sápidos,\n\n— que tenha sido globalmente objecto de uma edulcoração e, salvo as excepções previstas no n.º 2, de uma eventual coloração com caramelo,\n\n— com um título alcoométrico volúmico adquirido mínimo igual ou superior a 14,5 % vol e máximo inferior a 22 % vol e um título alcoométrico volúmico total mínimo igual ou superior a 17,5 % vol. Todavia, para os produtos que possuem a menção «seco» ou «extra-seco» em aplicação do n.º 5, o título alcoométrico volúmico total mínimo é fixado em 16 % vol e em 15 % vol, respectivamente.\n\nb) Bebida aromatizada à base de vinho:\n\n— obtida a partir de um ou mais dos vinhos definidos nos pontos 11 a 13 e 15 a 18 do anexo I do Regulamento (CEE) n.º 822/87, incluindo os vinhos de qualidade produzidos em regiões determinadas, definidos no n.º 2 do artigo 1.º do Regulamento (CEE) n.º 823/87, com excepção dos vinhos elaborados com adição de álcool e do vinho de mesa «retsina», a que, eventualmente, se adicionaram mostos de uvas e/ou mostos de uvas parcialmente fermentados,\n\n— que tenha sido sujeita a aromatização com utilização de:\n\n— substâncias aromatizantes e/ou preparações aromatizantes tal como definidas nas alíneas b) e d) do n.º 2 do artigo 3.º do Regulamento (CE) n.º 1334/2008, e/ou\n\n— ervas aromáticas e/ou especiarias e/ou géneros alimentícios sápidos,\n\n— que tenha sido objecto de eventual edulcoração,\n\n— que não tenha sido objecto de adição de álcool, salvo excepções referidas na definição do produto constante do presente regulamento ou decididas de acordo com o procedimento previsto no artigo 14.º,\n\n— com um título alcoométrico volúmico adquirido igual ou superior a 7 % vol e inferior a 14,5 % vol.\n\nc) *Cocktail* aromatizado de produtos vitivinícolas:\n\n— obtida a partir de vinho e/ou de mostos de uva,\n\n— que tenha sido objecto de uma aromatização à base de:\n\n— substâncias aromatizantes e/ou preparações aromatizantes tal como definidas nas alíneas b) e d) do n.º 2 do artigo 3.º do Regulamento (CE) n.º 1334/2008, e/ou\n\n— ervas aromáticas e/ou especiarias e/ou géneros alimentícios sápidos,\n\n— que tenha sido objecto de eventual edulcoração e de eventual coloração,\n\n— que não tenha sido objecto de adição de álcool,\n\n— com um título alcoométrico volúmico adquirido inferor a 7 % vol.\n\n2. Definições das diferentes categorias dos vinhos aromatizados cuja denominação possa substituir a denominação «vinho aromatizado»:\n\na) *Vermute:*\n\nb) *Vinho aromatizado amargo:*\n\n— «vinho com quinquino», caso a aromatização seja obtida principalmente através do aroma natural de quinquino,\n\n— «*bitter vino*», caso a aromatização seja feita principalmente através do aroma natural da genciana e se a bebida tiver sofrido uma coloração amarela e/ou vermelha por acção de corantes autorizados; a utilização do termo «*bitter*» neste contexto não obsta à utilização do mesmo termo para definir produtos não abrangidos pelo campo de aplicação do presente regulamento,\n\n— «americano» caso a aromatização se deva à presença de substâncias aromatizantes naturais provenientes da artemísia e da genciana e se a bebida tiver sofrido uma coloração amarela e/ou vermelha por acção de corantes autorizados;\n\nc) *Vinho aromatizado à base de ovo:*\n\nd) *Väkevä viiniglögiStarkvinsglögg*:\n\n3. Definições das diferentes categorias de bebidas aromatizadas à base de vinho cuja denominação pode:\n\n— substituir a denominação «bebida aromatizada à base de vinho» no Estado-membro de produção,\n\n— ser utilizada como complemento da denominação «bebida aromatizada à base de vinho» nos outros Estados-membros:\n\na) *Sangria:*\n\n— aromatizada através da adição de extractos ou de essências naturais de citrinos,\n\n— com ou sem sumos desses frutos,\n\n— eventualmente:\n\n— com adição de especiarias,\n\n— edulcorada,\n\n— a que se adicionou CO^2^,\n\nb) *Clarea:*\n\nc) *Zurra:*\n\nd) *Bitter soda:*\n\ne) *Kalte Ente:*\n\nf) *Glühwein:*\n\nf-a) *ViiniglögiVinglögg:*\n\ng) *Maiwein:*\n\nh) *Maitrank:*\n\ni) Pelin: A bebida aromatizada à base de vinho obtida a partir de vinho branco ou tinto, mosto de uvas concentrado, sumo de uva (ou açúcar de beterraba) e determinada tintura de ervas, com um título alcoométrico não inferior a 8,5 % vol, um teor de açúcar expresso em açúcar invertido de 45-50 g/l e uma acidez total não inferior a 3 g/l expressa em ácido tartárico;\n\n[**►A2**](http://publications.europa.eu/resource/celex/12005S) j)**◄** *Outras definições:*\n\n4. Definições das categorias de *cocktails* aromatizados de produtos vitivinícolas cuja denominação pode:\n\n— substituir a denominação «*cocktail* aromatizado de produtos vitivinícolas» no Estado de produção,\n\n— ser utilizada como complemento à denominação «*cocktail* aromatizado de produtos vitivinícolas» nos outros Estados-membros:\n\na) *Cocktail* à base de vinho:\n\n— com uma proporção de mosto de uva concentrado não superior a 10 % do volume total do produto acabado,\n\n— cujo teor de açúcares, expresso em açúcar invertido seja inferior a 80 gramas por litro;\n\nb) *Bebida gaseificada de uva aromatizada:*\n\n— elaborada exclusivamente a partir de mosto de uva,\n\n— cujo título alcoométrico volúmico adquirido seja inferior a 4 % vol,\n\n— que contenha anidrido carbónico resultante exclusivamente da fermentação dos produtos utilizados;\n\nc) *Outras definições:*\n\n5. As denominações referidas no n.º 1, alíneas a) e b), no n.º 2 e no n.º 3 podem ser completadas com as menções seguintes, encontrando-se expresso em açúcar invertido o teor de açúcares indicado no parágrafo correspondente a cada menção:\n\na) Extra-seco: para os produtos cujo teor de açúcares é inferior a 30 gramas por litro;\n\nb) Seco: para os produtos cujo teor de açúcares é inferior a 50 gramas por litro,\n\nc) Meio-seco: para os produtos cujo teor de açúcares se situa entre 50 a 90 gramas por litro,\n\nd) Meio-doce: para os produtos cujo teor de açúcares se situa entre 90 e 130 gramas por litro,\n\ne) Doce: para os produtos cujo teor de açúcares é superior a 130 gramas por litro.\n\nAs menções «meio-doce» e «doce» podem ser substituídas pela indicação do teor de açúcares, expresso em gramas por litro de açúcar invertido.\n\n6. Sempre que a denominação de venda das bebidas aromatizadas à base de vinho inclua a expressão «espumante», a quantidade de vinho espumante utilizada não deve ser inferior a 95 %.\n\n7. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 14.º"
+  },
+  "c67d1d91abab2464": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Quanto às bebidas a que se refere o presente regulamento, a lista dos aditivos alimentares autorizados e as regras para a sua utilização, bem como os produtos em causa, serão determinadas de acordo com o procedimento previsto na Directiva 89/107/CEE ([^15^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0015)).\n\n2. Na elaboração dessas bebidas, é autorizada a adição de água, eventualmente destilada ou desmineralizada, desde que a sua qualidade esteja em conformidade com as disposições nacionais adoptadas em aplicação das Directivas 80/777/CEE e 80/778/CEE e que essa adição não altere a natureza da bebida.\n\n3. Quando se utilizar álcool etílico para diluir ou dissolver as matérias corantes, os aromas ou qualquer outro aditivo autorizado, usados na elaboração dos referidos produtos aromatizados, esse álcool etílico só pode ser de origem agrícola utilizado na dose estritamente necessária para diluir ou dissolver as matérias corantes, os aromas ou qualquer outro aditivo autorizado.\n\n4. As regras de execução e, nomeadamente, os métodos de análise dos produtos referidos no presente regulamento serão adoptados de acordo com o procedimento previsto no artigo 13.º"
+  },
+  "5e8a85a6f50d889e": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^16^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0016)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês."
+  },
+  "7f4dfed0e3b590fd": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^17^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#E0017)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "d5328d65401f2cd4": {
+   "fragment_id": "Denominações geográficas",
+   "type": "divisao",
+   "heading": "Denominações geográficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Denominações geográficas\n\nreferidas no n.º 2 do artigo 6.º\n\nNürnberger Glühwein\n\nSamoborski bermet\n\nThüringer Glühwein\n\nVermouth de Chambéry\n\nVermouth di Torino\n\n---"
+  },
+  "ada265f4ecd0c2b7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0001)) JO n.º C 269 de 25. 10. 1986, p. 15.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0002)) JO n.º C 127 de 14. 5. 1984, p. 185, e\n\n> JO n.º C 129 de 20. 5. 1991.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0003)) JO n.º C 124 de 9. 5. 1983, p. 16.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0004)) JO n.º L 33 de 8. 2. 1979, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0005)) JO n.º L 186 de 30. 6. 1989, p. 17.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0006)) JO n.º L 229 de 30. 8. 1980, p. 11.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0007)) JO n.º L 319 de 7. 11. 1981, p. 19.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0008)) JO n.º L 229 de 30. 8. 1980, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0009)) JO n.º L 2 de 3. 1. 1985, p. 22.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0010)) JO n.º L 184 de 15. 7. 1988, p. 61.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0011)) JO n.º L 84 de 27. 3. 1987, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1544/95 (JO n.º L 148 de 30. 6. 1995, p. 31).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0012)) JO n.º L 84 de 27. 3. 1987, p. 59. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3011/95 (JO n.º L 314 de 28. 12. 1995, p. 14).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0013)) JO L 354 de 31.12.2008, p. 34.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0014)) JO n.º L 160 de 12. 6. 1989, p. 1.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0015)) JO n.º L 40 de 11. 2. 1989, p. 27.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0016)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n> ([^17^](http://publications.europa.eu/resource/cellar/e825034e-b83e-4f4a-a2b7-cf9884e98607.0018.03/DOC_1#src.E0017)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "f4b80585b562d9ea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991R1601 — PT — 28.03.2015 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991R1601) [REGULAMENTO (CEE) N.º 1601/91 DO CONSELHO](http://publications.europa.eu/resource/celex/31991R1601) [de 10 de Junho de 1991](http://publications.europa.eu/resource/celex/31991R1601) [que estabelece as regras gerais relativas à definição, designação e apresentação dos vinhos aromatizados, das bebidas aromatizadas à base de vinho e dos *cocktails* aromatizados de produtos vitivinícolas](http://publications.europa.eu/resource/celex/31991R1601) (JO L 149, 14.6.1991, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 251/2014 do Parlamento Europeu e do Conselho de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0251) — L 84 — 14 — 20.3.2014"
+  }
+ }
+}

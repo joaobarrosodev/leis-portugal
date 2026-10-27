@@ -1,0 +1,241 @@
+---
+schema_version: '1.0'
+id: pt:dre:302286:por
+title: Portaria n.º 440/2004
+short_title: null
+summary: Altera várias portarias a fim de corrigir as fórmulas de cálculo da remuneração da co-geração
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 440/2004
+official_date: null
+publication_date: '2004-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 102/2004, Série I-B de 2004-04-30
+  number: '102'
+  series: I
+  supplement: null
+  pages: 2697 - 2698
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/04/102b00/26972698.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/440/2004/04/30/p/dre/pt/html
+  oj: null
+  dre: '302286'
+  dre_path: /dr/detalhe/portaria/440-2004-302286
+  internal: pt:dre:302286:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/440-2004-302286
+  metadata_url: https://data.dre.pt/eli/port/440/2004/04/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/440-2004-302286
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:59:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8b9737fee89fb466a2d0794477118aedc675bdee7fae3dd990baeed9e91cae22
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Co-geração
+- Energia Elétrica
+- Energia Renovável
+- Instalação de Co-geração
+- Preço
+- Remuneração
+- Sistema Eléctrico de Serviço Público
+- TAXA de Instalações Eléctricas
+relationships:
+- type: cites
+  target: pt:dre:201849:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/339-c/2001/12/29/p/dre
+- type: cites
+  target: pt:dre:234507:por
+  label: null
+  source: http://data.dre.pt/eli/port/59/2002/01/15/p/dre
+- type: cites
+  target: pt:dre:234508:por
+  label: null
+  source: http://data.dre.pt/eli/port/60/2002/01/15/p/dre
+- type: cites
+  target: pt:dre:234509:por
+  label: null
+  source: http://data.dre.pt/eli/port/58/2002/01/15/p/dre
+- type: cites
+  target: pt:dre:234512:por
+  label: null
+  source: http://data.dre.pt/eli/port/57/2002/01/15/p/dre
+- type: cites
+  target: pt:dre:323075:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/168/1999/05/18/p/dre
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576277:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/313/2001/12/10/p/dre
+- type: cites
+  target: pt:dre:632933:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/538/1999/12/13/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:59:10Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 440/2004
+
+de 30 de Abril
+
+O [Decreto-Lei n.º 538/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1999-632933), de 13 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 313/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-2001-576277), de 10 de Dezembro, que estabeleceu o regime da actividade de co-geração, remeteu, pelos n.os 1 e 2 do seu artigo 10.º, para portarias do Ministro da Economia a aprovação dos tarifários de venda de energia eléctrica pelas instalações de co-geração à rede do Sistema Eléctrico de Serviço Público (SEP).
+
+De acordo com o n.º 2 do referido artigo 10.º, as portarias estabelecem quatro tarifários distintos, aplicáveis a toda a energia eléctrica fornecida pelas respectivas instalações à rede do SEP, consoante:
+
+a) A potência de ligação das instalações de co-geração seja inferior ou igual a 10 MW, utilizando como combustível gás natural, GPL ou combustíveis líquidos, com excepção de fuelóleo;
+
+b) A potência de ligação das instalações de co-geração seja superior a 10 MW, utilizando como combustível gás natural, GPL ou combustíveis líquidos, com excepção de fuelóleo;
+
+c) As instalações de co-geração sejam utilizadoras de energia primária que, em cada ano, seja constituída em mais de 50% por recursos renováveis ou resíduos industriais, agrícolas ou urbanos, independentemente da potência de ligação;
+
+d) As instalações de co-geração utilizem como combustível fuelóleo, independentemente da potência de ligação.
+
+Em sequência, foram aprovadas, respectivamente, as Portarias n.os [58/2002](https://diariodarepublica.pt/dr/detalhe/portaria/58-2002-234509), [57/2002](https://diariodarepublica.pt/dr/detalhe/portaria/57-2002-234512), [60/2002](https://diariodarepublica.pt/dr/detalhe/portaria/60-2002-234508) e [59/2002](https://diariodarepublica.pt/dr/detalhe/portaria/59-2002-234507), todas de 15 de Janeiro.
+
+Entende-se agora ser necessário estabelecer uma relação mais coerente entre o tarifário que foi estabelecido pela referida [Portaria n.º 60/2002](https://diariodarepublica.pt/dr/detalhe/portaria/60-2002-234508), relativa à utilização de recursos renováveis na co-geração, e o tarifário que é aplicável à produção de energia eléctrica a partir de fontes de energia renováveis, estabelecido no anexo II do [Decreto-Lei n.º 189/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1988-374244), de 27 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os [168/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075), de 18 de Maio, e [339-C/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-c-2001-201849), de 29 de Dezembro.
+
+Assim, na [Portaria n.º 60/2002](https://diariodarepublica.pt/dr/detalhe/portaria/60-2002-234508), o valor de PVC (VRD)(índice m), parte da parcela variável correspondente a despesas com combustível, passa a ser calculado com base numa ponderação da energia primária renovável consumida, tornando-o coerente com o valor da correspondente parcela variável estabelecida no referido [Decreto-Lei n.º 189/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1988-374244).
+
+Aproveita-se esta oportunidade para corrigir algumas inexactidões que entretanto foram detectadas nas referidas Portarias n.os [57/2002](https://diariodarepublica.pt/dr/detalhe/portaria/57-2002-234512), [58/2002](https://diariodarepublica.pt/dr/detalhe/portaria/58-2002-234509), [59/2002](https://diariodarepublica.pt/dr/detalhe/portaria/59-2002-234507) e [60/2002](https://diariodarepublica.pt/dr/detalhe/portaria/60-2002-234508), todas de 15 de Janeiro.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Economia, ao abrigo dos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 538/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1999-632933), de 13 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 313/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-2001-576277), de 10 de Dezembro, o seguinte:
+
+1.º O n.º 26.º da [Portaria n.º 57/2002](https://diariodarepublica.pt/dr/detalhe/portaria/57-2002-234512), de 15 de Janeiro, passa a ter a seguinte redacção:
+
+«26.º ...
+
+a) ...
+
+b) (eta)(índice cal,m) = (eta)(índice dec), nos casos em que (eta)(índice dec) - 0,1 (igual ou menor que) (eta)(índice ver,m) (igual ou menor que) (eta)(índice dec).»
+
+2.º O n.º 20.º da [Portaria n.º 58/2002](https://diariodarepublica.pt/dr/detalhe/portaria/58-2002-234509), de 15 de Janeiro, passa a ter a seguinte redacção:
+
+«20.º O valor de PVR(U), previsto no n.º 18.º, é calculado através da fórmula seguinte:
+
+PVR(U) = [13500 - (POT(índice pc,r,m) - 1000)] x PVR(U)(índice ref)/13500»
+
+3.º O n.º 36.º da [Portaria n.º 59/2002](https://diariodarepublica.pt/dr/detalhe/portaria/59-2002-234507), de 15 de Janeiro, passa a ter a seguinte redacção:
+
+«36.º As instalações que, nos termos do n.º 1 do artigo 28.º do [Decreto-Lei n.º 538/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1999-632933), de 13 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 313/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-2001-576277), de 10 de Dezembro, exercerem a opção de passagem ao regime previsto nesse diploma deixam de receber eventuais garantias do Estado a que ainda tivessem direito, sendo o período inicial, nos termos do n.º 34.º, contado a partir da data da primeira ligação à rede.»
+
+4.º Os n.os 11.º, 12.º, 21.º, 27.º e 30.º da [Portaria n.º 60/2002](https://diariodarepublica.pt/dr/detalhe/portaria/60-2002-234508), de 15 de Janeiro, passam a ter a seguinte redacção:
+
+«11.º O valor de PVC (VRD)(índice m), previsto no n.º 9.º, é calculado através da fórmula seguinte:
+
+PVC(VRD)(índice m) = KMHO x {PVC(U)(índice ref) x IPVC(índice m) x EEC(índice m) x (CB - CR)/CB + PV(U)(índice ref) x IPC(índice dez)/IPC(índice dez98) x EEC(índice m) x CR/CB}
+
+12.º ...
+
+a) ...
+
+i) ...
+
+ii) ...
+
+iii) ...
+
+iv) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) CR é a energia primária renovável consumida anualmente pela instalação de co-geração;
+
+f) CB é a energia primária total consumida anualmente pela instalação de co-geração;
+
+g) PV(U)(índice ref) é o valor unitário de referência da parcela variável da remuneração aplicável a centrais que consomem exclusivamente energia primária renovável, que toma o valor de (euro) 0,0249/kWh;
+
+h) IPC(índice dez98) é o índice de preços no consumidor, sem habitação, no continente, referente ao mês de Dezembro de 1998.
+
+21.º...
+
+a) ...
+
+b) POT(índice pc,r,m) é a potência média disponibilizada, para efeitos de cálculo de PVR(U), pela instalação ou instalações de co-geração associadas ao mesmo conjunto de utilizadores de energia térmica, à rede do SEP, durante as horas cheias e de ponta do mês m, expresso em quilovátios, a qual é calculada através das seguintes fórmulas:
+
+i) POT(índice pc,r,m) = 1000 kW, nos casos em que POT(índice pc,m) (menor que) 1000 kW;
+
+ii) POT(índice pc,r,m) = POT(índice pc,m), nos casos em que 1000 kW (igual ou menor que) POT(índice pc,m) (menor que) 10000 kW;
+
+iii) POT(índice pc,r,m) = 10000 kW, nos casos em que 10000 kW (igual ou menor que) POT(índice pc,m) (menor que) 30000 kW;
+
+iv) POT(índice pc,r,m) = 10000 kW + + (POT(índice pc,m) - 30000 kW) x 0,45, nos casos em que 30000 kW (igual ou menor que) POT(índice pc,m) (menor que) 40000 kW;
+
+v) POT(índice pc,r,m) = 14500 kW, nos casos em que POT(índice pc,m) (maior que) 40000 kW.
+
+27.º ...
+
+a) ...
+
+b) ...
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+30.º ...
+
+a) ...
+
+b) (eta)(índice hom) = (eta)(índice ver), quando (eta)(índice hom,v) (menor que) (eta)(índice er) (igual ou menor que) 0,65;
+
+c) (eta)(índice hom) = ((índice hom,v), quando (eta)(índice hom,v) - 0,05 (menor que) (eta)(índice ver) (igual ou menor que) (índice (eta)hom,v);
+
+d) (eta)(índice hom) = (eta)(índice ver), quando (eta)(índice ver) (igual ou menor que) (eta)(índice hom,v) - 0,05.»
+
+O Ministro da Economia, Carlos Manuel Tavares da Silva, em 29 de Março de 2004.

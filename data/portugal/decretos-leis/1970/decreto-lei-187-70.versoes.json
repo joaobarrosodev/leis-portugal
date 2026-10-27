@@ -1,0 +1,231 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:141856:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1970-853867934",
+ "dre_path": "/dr/detalhe/decreto-lei/187-1970-141856",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1970-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "853878997",
+    "853878998",
+    "853878999",
+    "853879000",
+    "853879001",
+    "853879002",
+    "853879003",
+    "853879004",
+    "853879005"
+   ]
+  },
+  {
+   "date": "1980-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:353745:por",
+     "title": "Decreto-Lei n.º 524/79",
+     "published": "1979-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/524-1979-353745"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "853878997",
+    "853878998",
+    "853878999",
+    "853879000",
+    "853879014",
+    "853879015",
+    "853879016",
+    "853879017",
+    "853879018",
+    "853879019",
+    "853879020"
+   ]
+  },
+  {
+   "date": "1987-12-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498541:por",
+     "title": "Decreto-Lei n.º 366/87",
+     "published": "1987-11-27",
+     "dre_path": "/dr/detalhe/decreto-lei/366-1987-498541"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "853878997",
+    "853878998",
+    "853878999",
+    "853879000",
+    "853879021",
+    "853879015",
+    "853879016",
+    "853879017",
+    "853879018",
+    "853879019",
+    "853879020"
+   ]
+  }
+ ],
+ "fragments": {
+  "853878997": {
+   "fragment_id": "853867935",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 187/70\n\nPublicado em 20 de Março de 1925 o Decreto n.º 10634, que compreendia oitenta e um artigos, conserva apenas em vigor os artigos 68.º a 73.º, justamente aqueles que estabelecem o regime de prescrição de certos bens abandonados pelos seus donos a favor do Estado.\n\nSe na sua essência interessa ainda hoje manter o que em tais artigos se contém, há certos aspectos e certas particularidades que importa rever, tanto à luz dos princípios que actualmente informam o Estado, como em face de novas disposições legais de direito público e privado.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "853878998": {
+   "fragment_id": "853867936",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nConsideram-se abandonados em favor do Estado:\n\na) As obrigações, acções e títulos equivalentes, ainda que provisórios, representativos de capital de sociedades anónimas ou em comandita por acções, com sede em território nacional, quando, durante o prazo de vinte anos, os seus titulares ou possuidores não hajam cobrado ou tentado cobrar os respectivos dividendos, juros, amortizações ou outros rendimentos, ou não tenham manifestado por outro modo legítimo e inequívoco o seu direito sobre os títulos;\n\nb) Os dividendos, juros, amortizações e outros rendimentos daqueles títulos, quando, durante o prazo de cinco anos, os seus titulares ou possuidores não hajam praticado qualquer dos factos referidos na alínea anterior;\n\nc) Os bens ou valores de qualquer espécie depositados ou guardados em instituições de crédito ou parabancárias, quando, durante o prazo de quinze anos, não haja sido movimentada a respectiva conta, não tenham sido pagas taxas de custódia ou cobrados ou satisfeitos dividendos, juros ou outras importâncias devidas, ou os titulares não tenham manifestado por qualquer outro modo legítimo e inequívoco o seu direito sobre os bens ou valores."
+  },
+  "853878999": {
+   "fragment_id": "853867937",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs prazos fixados no artigo anterior contam-se:\n\na) Nos casos das alíneas a) e b), a partir do primeiro dia em que, por disposição legal, regulamentar ou estatutária, os rendimentos se devam considerar vencidos ou em pagamento, ainda que não tenham sido observados os requisitos exigidos para o efeito, ou da prática, pelos titulares ou possuidores, do último acto pelo qual tenham manifestado o seu direito;\n\nb) Nos casos da alínea c), a partir da prática, pelos titulares, do último acto pelo qual tenham manifestado o seu direito sobre os bens ou valores."
+  },
+  "853879000": {
+   "fragment_id": "853867938",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs disposições do Código Civil sobre suspensão e interrupção da prescrição são aplicáveis, com as necessárias adaptações, ao abandono previsto no artigo 1.º do presente diploma."
+  },
+  "853879001": {
+   "fragment_id": "853867939",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. À declaração de abandono e adjudicação a favor do Estado, nos termos deste diploma, é aplicável o processo regulado nos artigos 1132.º e 1133.º do Código de Processo Civil.\n\n2. Os bens adjudicados ao Estado serão entregues à Fazenda Pública e terão o destino que for determinado por despacho do Secretário de Estado do Tesouro."
+  },
+  "853879002": {
+   "fragment_id": "853867940",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs sociedades e instituições a que se refere o artigo 1.º, após o quinto ano da sua constituição, devem apresentar na repartição de finanças da respectiva sede, até ao último dia do mês de Fevereiro de cada ano, relação de todos os bens ou valores que, nos termos deste decreto-lei, devam considerar-se abandonados a favor do Estado até 31 de Dezembro do ano anterior, ou, quando não existam bens nessas condições, certificado em que assim se declare."
+  },
+  "853879003": {
+   "fragment_id": "853867941",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A inobservância do disposto no artigo anterior é punida com multa de 2000$00 a 50000$00, aplicada em processo de transgressão, mediante auto de notícia, nos termos do Código de Processo das Contribuições e Impostos.\n\n2. O produto das multas reverte para o Estado e pelo seu pagamento respondem solidàriamente, com a sociedade ou instituição, os respectivos directores, administradores, gerentes, membros do conselho fiscal, empregados com funções de direcção e chefia e quaisquer outras pessoas que tenham praticado, ordenado ou sancionado a infracção.\n\n3. O procedimento judicial e as multas aplicadas prescrevem nos prazos previstos no § único do artigo 115.º do Código de Processo das Contribuições e Impostos."
+  },
+  "853879004": {
+   "fragment_id": "853867942",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO disposto no presente decreto-lei não se aplica aos montepios, caixas económicas e sociedades cooperativas, desde que exerçam a actividade social exclusivamente com os respectivos associados, nem altera o que sobre a mesma matéria esteja regulado em disposições especiais."
+  },
+  "853879005": {
+   "fragment_id": "853867943",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA fiscalização das obrigações impostas por este diploma compete em especial à Direcção-Geral das Contribuições e Impostos, que, para o efeito, poderá ordenar directamente, ou solicitar à Inspecção-Geral de Finanças ou à Inspecção-Geral de Crédito e Seguros, conforme os casos, a realização de exames à escrita das sociedades ou instituições a que se refere o artigo 1.º"
+  },
+  "853879014": {
+   "fragment_id": "853867939",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1980-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/79 - Diário da República n.º 300/1979, Série I de 1979-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1979-353745), em vigor a partir de 1980-01-05"
+   ],
+   "markdown": "###### Artigo 4.º\n\nAs sociedades e instituições a que se refere o artigo 1.º, após o quinto ano da sua constituição, devem apresentar na Repartição de Finanças da respectiva sede, até ao último dia do mês de Fevereiro de cada ano, relação de todos os bens ou valores que, nos termos deste decreto-lei, devam considerar-se abandonados a favor do Estado até 31 de Dezembro do ano anterior, ou, quando não existam bens nessas condições, certificado em que assim se declare.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/79 - Diário da República n.º 300/1979, Série I de 1979-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1979-353745), em vigor a partir de 1980-01-05"
+  },
+  "853879015": {
+   "fragment_id": "853867940",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1980-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/79 - Diário da República n.º 300/1979, Série I de 1979-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1979-353745), em vigor a partir de 1980-01-05"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os bens ou valores a que se refere o artigo precedente serão entregues à Direcção-Geral do Património e terão o destino que for determinado por despacho do Ministro das Finanças.\n\n2 - Quando o titular dos bens ou valores a que se refere o número anterior entender não se verificarem os pressupostos de aquisição pelo Estado, poderá requerer a restituição ao Ministro das Finanças, a qual será por este ordenada se entender fundado o pedido; caso os bens ou valores tenham sido alienados, a alienação é válida, encontrando-se o adquirente de boa fé, devendo ser paga uma indemnização correspondente à importância desses bens ou valores.\n\n3 - Independentemente do disposto no número anterior, o interessado poderá intentar acção judicial, que seguirá os termos do processo sumário ou sumaríssimo, consoante o valor.\n\n4 - O direito a requerer a restituição a que se refere o n.º 2 e o direito de acção mencionado no número anterior extinguem-se decorridos três anos a contar do dia 1 de Março seguinte à apresentação da relação mencionada no artigo precedente e em que os bens ou valores em causa tenham sido incluídos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/79 - Diário da República n.º 300/1979, Série I de 1979-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1979-353745), em vigor a partir de 1980-01-05"
+  },
+  "853879016": {
+   "fragment_id": "853867954",
+   "type": 11,
+   "heading": "Artigo 5.º-A",
+   "in_force_from": "1980-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 524/79 - Diário da República n.º 300/1979, Série I de 1979-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1979-353745), em vigor a partir de 1980-01-05"
+   ],
+   "markdown": "###### Artigo 5.º-A\n\n1 - Da relação mencionada no artigo 4.º constará a última residência conhecida do titular dos bens ou valores que se devem considerar adquiridos pelo Estado, devendo as Repartições de Finanças, nos três meses seguintes à sua recepção, notificá-los, por carta registada, desse facto, informando-os dos meios administrativos e judicias ao seu alcance e prazo do respectivo exercício, estabelecidos no presente diploma; a devolução da carta enviada, designadamente por mudança de residência ou falecimento do destinatário, não produz quaisquer efeitos.\n\n2 - A notificação prevista no número anterior não terá lugar no que concerne a valores cujo montante seja inferior a 1000$00.\n\n3 - Caso a notificação prevista no n.º 1 não tenha sido efectuada no prazo estabelecido, o prazo para a propositura da acção a que se refere o artigo 5.º, n.º 3, contar-se-á do dia em que a carta for enviada.\n\n4 - O disposto no número anterior é aplicável, com as devidas adaptações, caso falte ou seja incompleta ou errada a informação exigida pelo n.º 1.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 524/79 - Diário da República n.º 300/1979, Série I de 1979-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1979-353745), em vigor a partir de 1980-01-05"
+  },
+  "853879017": {
+   "fragment_id": "853867941",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A inobservância do disposto no artigo anterior é punida com multa de 2000$00 a 50000$00, aplicada em processo de transgressão, mediante auto de notícia, nos termos do Código de Processo das Contribuições e Impostos.\n\n2. O produto das multas reverte para o Estado e pelo seu pagamento respondem solidàriamente, com a sociedade ou instituição, os respectivos directores, administradores, gerentes, membros do conselho fiscal, empregados com funções de direcção e chefia e quaisquer outras pessoas que tenham praticado, ordenado ou sancionado a infracção.\n\n3. O procedimento judicial e as multas aplicadas prescrevem nos prazos previstos no § único do artigo 115.º do Código de Processo das Contribuições e Impostos."
+  },
+  "853879018": {
+   "fragment_id": "853867942",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO disposto no presente decreto-lei não se aplica aos montepios, caixas económicas e sociedades cooperativas, desde que exerçam a actividade social exclusivamente com os respectivos associados, nem altera o que sobre a mesma matéria esteja regulado em disposições especiais."
+  },
+  "853879019": {
+   "fragment_id": "853867943",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA fiscalização das obrigações impostas por este diploma compete em especial à Direcção-Geral das Contribuições e Impostos, que, para o efeito, poderá ordenar directamente, ou solicitar à Inspecção-Geral de Finanças ou à Inspecção-Geral de Crédito e Seguros, conforme os casos, a realização de exames à escrita das sociedades ou instituições a que se refere o artigo 1.º"
+  },
+  "853879020": {
+   "fragment_id": "853867944",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 17 de Abril de 1970.\n\nPublique-se.\n\nPresidência da República, 30 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "853879021": {
+   "fragment_id": "853867939",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1987-12-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 366/87 - Diário da República n.º 274/1987, Série I de 1987-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1987-498541), em vigor a partir de 1987-12-02",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/79 - Diário da República n.º 300/1979, Série I de 1979-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1979-353745), em vigor a partir de 1980-01-05"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - As sociedades e instituições a que se refere o artigo 1.º, após o 5.º ano da sua constituição, devem apresentar na repartição de finanças da respectiva sede, até ao último dia do mês de Fevereiro de cada ano, relação de todos os bens ou valores que, nos termos deste decreto-lei, devam considerar-se abandonados a favor do Estado até 31 de Dezembro do ano anterior, ou, quando não existam bens nessas condições, certificado em que assim se declare.\n\n2 - Os emitentes dos títulos a que se refere a alínea a) do artigo 1.º poderão, dando cumprimento ao disposto no n.º 1, apresentar na repartição de finanças respectiva unicamente o valor global dos juros e das amortizações considerados abandonados em favor do Estado, nos termos da alínea b) do artigo 1.º\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 366/87 - Diário da República n.º 274/1987, Série I de 1987-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1987-498541), em vigor a partir de 1987-12-02\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 524/79 - Diário da República n.º 300/1979, Série I de 1979-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1979-353745), em vigor a partir de 1980-01-05"
+  }
+ }
+}

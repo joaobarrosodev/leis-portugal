@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007D0756:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007D0756-20210616",
+ "dre_path": null,
+ "source_lastmod": "2021-06-16",
+ "versions": [
+  {
+   "date": "2021-06-16",
+   "future": false,
+   "celex": "02007D0756-20210616",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9bbff592076a3b1c"
+   ]
+  }
+ ],
+ "fragments": {
+  "9bbff592076a3b1c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02007D0756 — PT — 16.06.2021 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32007D0756) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32007D0756) [de 9 de Novembro de 2007](http://publications.europa.eu/resource/celex/32007D0756) [que adopta especificações comuns do registo nacional de material circulante previsto nos n.^os^ 4 e 5 do artigo 14.º da Directiva 96/48/CE e da Directiva 2001/16/CE](http://publications.europa.eu/resource/celex/32007D0756) [[notificada com o número C(2007) 5357]](http://publications.europa.eu/resource/celex/32007D0756) [(2007/756/CE)](http://publications.europa.eu/resource/celex/32007D0756) (JO L 305, 23.11.2007, p.30)\n\n**Revogada por:**\n\n- [Decisão de Execução (UE) 2018/1614 da Comissão de 25 de outubro de 2018](http://publications.europa.eu/resource/celex/32018D1614) — L 268 — 53 — 26.10.2018"
+  }
+ }
+}

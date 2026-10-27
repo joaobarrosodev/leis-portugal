@@ -1,0 +1,560 @@
+---
+schema_version: '1.0'
+id: pt:dre:114766031:por
+title: Portaria n.º 57/2018
+short_title: null
+summary: Regula o funcionamento e a gestão do portal dos contratos públicos, denominado «Portal BASE», e aprova os modelos
+  de dados a transmitir
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Planeamento e das Infraestruturas
+proposing_entity: null
+official_number: 57/2018
+official_date: null
+publication_date: '2018-02-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 40/2018, Série I de 2018-02-26
+  number: '40'
+  series: I
+  supplement: null
+  pages: 1069 - 1077
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/02/04000/0106901077.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-03-03'
+version_history:
+  file: portaria-57-2018.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2018-02-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-03-03'
+    amending: pt:dre:125874579:por
+    amending_title: Declaração de Retificação n.º 55-A/2019; Portaria n.º 284/2019
+    changes:
+    - Retifica Artigo 4.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Anexo II
+    - Altera Anexo IX
+    - Altera Anexo X
+    - Altera Anexo XIV
+    - Altera Anexo XV
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/57/2018/p/cons/20231025/pt/html
+  oj: null
+  dre: '114766031'
+  dre_path: /dr/detalhe/portaria/57-2018-114766031
+  internal: pt:dre:114766031:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/57-2018-114766031
+  metadata_url: https://data.dre.pt/eli/port/57/2018/p/cons/20231025/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-114946609
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-114946609
+  retrieved_at: '2026-10-22T12:18:01Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3f547a51df98920133192d6e36cde0ccc1fd5488e843b648b646028675bd47f4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:18:01Z'
+  notes: 2 versão(ões); histórico completo em portaria-57-2018.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Aquisição de Bens e Serviços
+- Ficheiro Informático
+- Recolha de Dados
+- Contrato
+- Definição de Competências
+- Base de Dados
+- Portal dos Contratos Públicos
+- Página na Internet
+- Código dos Contratos Públicos
+- Internet
+- Sistema de Informação
+- Relatório
+- Gestor de Dados
+- Instituto dos Mercados Públicos do Imobiliário e da Construção
+- Plataforma Eletrónica
+- Contratação Pública
+relationships:
+- type: amended_by
+  target: pt:dre:114944612:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612
+  date: '2018-03-29'
+- type: amended_by
+  target: pt:dre:124346834:por
+  label: Retifica Artigo 4.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Anexo II; Altera Anexo IX; Altera Anexo X; Altera Anexo
+    XIV; Altera Anexo XV
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834
+  date: '2019-09-02'
+- type: amended_by
+  target: pt:dre:125874579:por
+  label: Retifica Artigo 4.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Anexo II; Altera Anexo IX; Altera Anexo X; Altera Anexo
+    XIV; Altera Anexo XV
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/55-a-2019-125874579
+  date: '2019-10-31'
+- type: cites
+  target: pt:dre:108086621:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/111-b/2017/08/31/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:70025051:por
+  label: null
+  source: http://data.dre.pt/eli/lei/96/2015/08/17/p/dre
+article_structure:
+  article_count: 16
+  section_count: 18
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:18:01Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 57/2018
+
+Portaria n.º 57/2018
+
+de 26 de fevereiro
+
+De acordo com o previsto no artigo 2.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, que alterou e republicou o Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, o portal dos contratos públicos destina-se a divulgar informação pública sobre os contratos sujeitos ao regime do CCP, constituindo ainda o instrumento central de produção de informação estatística sobre a contratação pública nacional, nomeadamente para efeitos de elaboração dos relatórios estatísticos a remeter à Comissão Europeia.
+
+Nos termos do n.º 3 do citado artigo 2.º, as regras de funcionamento e de gestão do portal dos contratos públicos são aprovadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e das obras públicas.
+
+Assim:
+
+Manda o Governo, pelos Ministros das Finanças e do Planeamento e das Infraestruturas, ao abrigo do disposto no n.º 3 do artigo 2.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, e do artigo 38.º da Lei n.º 96/2015, de 17 de agosto, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à regulação do funcionamento e gestão do portal dos contratos públicos, denominado «Portal BASE», previsto no Código dos Contratos Públicos (CCP) e à aprovação dos modelos de dados a transmitir ao Portal BASE, para efeitos do disposto no CCP.
+
+###### Artigo 2.º — Âmbito de funcionamento do Portal BASE
+
+1 - O Portal BASE disponibiliza, publicamente, informação sobre a formação e execução dos contratos públicos sujeitos ao CCP.
+
+2 - O Portal BASE constitui ainda o instrumento central de produção de informação estatística sobre a contratação pública nacional, nomeadamente para efeitos de elaboração dos relatórios anuais da contratação pública e dos relatórios estatísticos a remeter à Comissão Europeia.
+
+###### Artigo 3.º — Gestão do Portal BASE
+
+A gestão do Portal BASE é da responsabilidade do Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P. (IMPIC, I. P.).
+
+###### Artigo 4.º — Conteúdos do Portal BASE
+
+1 - O Portal BASE disponibiliza informação sobre:
+
+a) Os anúncios publicados no Diário da República relativos a procedimentos de formação de contratos públicos;
+
+b) Acesso às peças do procedimento;
+
+c) A formação dos contratos públicos sujeitos à parte II do CCP e à execução dos contratos administrativos sujeitos à parte III do CCP, incluindo:
+
+i) A explicitação precisa e completa dos bens, serviços ou obras objeto do contrato;
+
+ii) O preço contratual;
+
+iii) o número de convidados nos procedimentos de consulta prévia;
+
+iv) A identificação do adjudicatário e dos restantes concorrentes;
+
+v) A identificação de impugnações do procedimento;
+
+vi) A publicitação dos contratos, incluindo anexos e aditamentos, com exceção das informações que se relacionem com segredos de natureza comercial, industrial ou outra e das informações respeitantes a dados pessoais;
+
+d) A disponibilização e alienação de bens móveis;
+
+e) As decisões definitivas de aplicação da sanção de proibição de participação previstas nos artigos 460.º e 464.º-A do CCP, durante o período da respetiva proibição;
+
+f) As modificações objetivas de contratos que representem um valor acumulado superior a 10 % do preço contratual, as quais ficam disponibilizadas até seis meses após a extinção do contrato, nos termos do n.º 1 do artigo 315.º do CCP.
+
+2 - O Portal BASE deve ainda disponibilizar:
+
+a) Base de dados de legislação, regulamentação e jurisprudência, nacional e comunitária, relacionada com contratos públicos;
+
+b) Guias de boas práticas e orientações técnicas sobre contratação pública;
+
+c) Informação estatística, incluindo relatórios anuais e sínteses mensais de contratação pública.
+
+d) Comunicados, notícias e eventos sobre contratação pública;
+
+> Retificado pelo/a [Declaração de Retificação n.º 55-A/2019 - Diário da República n.º 210/2019, 1º Suplemento, Série I de 2019-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/55-a-2019-125874579), em vigor a partir de 2020-03-03
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+###### Artigo 5.º — Recolha de informação estatística de contratos
+
+1- O Portal BASE deve proceder à recolha de informação sobre todos os contratos públicos, incluindo os previstos nos artigos 5.º, 5.º-A, 6.º-A e 128.º do CCP, enquanto sistema de recolha e tratamento de informação estatística sobre a contratação pública nacional, nomeadamente para efeitos de elaboração de relatórios estatísticos a remeter anualmente à Comissão Europeia.
+
+2 - A informação relativa aos ajustes diretos simplificados pode ser recolhida de forma agregada, por entidade, com periodicidade trimestral, de acordo com as regras a fixar mediante regulamento aprovado pelo conselho diretivo do IMPIC, I. P., publicitado no Diário da República Eletrónico e no Portal BASE.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+###### Artigo 6.º — Acesso à informação
+
+1 - Os dados de natureza pública constantes do Portal BASE são passíveis de extração automática, de forma gratuita e em formatos abertos, através do próprio portal e de outros portais públicos, designadamente do portal dados.gov.pt
+
+2 - O IMPIC, I. P., poderá condicionar a extração agregada de dados do Portal BASE quando tal extração, pelo seu volume, possa pôr em causa o próprio funcionamento e a disponibilidade permanente do Portal BASE.
+
+3 - As entidades públicas com funções de auditoria, fiscalização e regulação podem ter acesso direto às bases de dados que suportam o Portal BASE, para o desempenho da respetiva missão, conforme previsto no artigo 454.º-C do CCP, sendo os termos que regulam o referido acesso estabelecidos na sequência de protocolo a celebrar entre o IMPIC, I. P., e cada entidade.
+
+###### Artigo 7.º — Dados a transmitir ao Portal BASE
+
+1 - As entidades adjudicantes transmitem ao Portal BASE os seguintes dados:
+
+a) Anúncio de abertura do procedimento e eventuais anúncios subsequentes, publicados no Diário da República;
+
+b) Perfil da entidade adjudicante (Anexo I);
+
+c) Procedimento (Anexo II);
+
+d) Bloco técnico de dados (Anexo III);
+
+e) Ficha de envio dos convites (Anexo IV);
+
+f) Ficha de abertura das candidaturas (Anexo V);
+
+g) Ficha de abertura das soluções (Anexo VI);
+
+h) Ficha de abertura das propostas (Anexo VII);
+
+i) Ficha de habilitação do adjudicatário (Anexo VIII);
+
+j) Ficha de impugnações (Anexo IX);
+
+k) Relatório de formação do contrato (Anexo X);
+
+l) Relatório de comunicação de não celebração do contrato (Anexo XI);
+
+m) Relatório de modificação contratual (Anexo XII);
+
+n) Relatório sumário anual (Anexo XIII);
+
+o) Relatório de execução (Anexo XIV);
+
+p) Relatório final de obra (Anexo XV);
+
+q) Relatório de disponibilização/alienação de bens móveis (Anexo XVII);
+
+2 - Os modelos aprovados pela presente portaria correspondem a modelos de introdução interativa de dados para efeitos da alimentação dos sistemas de informação sediados no Portal BASE.
+
+3 - Os blocos de dados referidos no n.º 1 são aplicáveis, consoante o tipo de contrato, de acordo com as seguintes regras:
+
+a) No caso de ajustes diretos simplificados e de contratação excluída, os dados incluídos na alínea o);
+
+b) No caso de empreitadas de obras públicas, incluindo as integradas em concessões, todos os dados aí previstos, com exceção dos referidos na alínea r);
+
+c) No caso dos demais tipos de contrato, todos os dados, excetuando os contidos nas alíneas d), n), p) e r);
+
+4 - O bloco de dados previsto na alínea b) do n.º 1 é aplicável independentemente do tipo de procedimento, de tipo de contrato e do preço contratual.
+
+5 - No caso de não celebração do contrato são aplicáveis os blocos de dados referidos na alínea l) do n.º 1.
+
+6 - O relatório de ocorrências previsto na alínea q) do n.º 1 é aplicável apenas para as comunicações obrigatórias a efetuar ao IMPIC, I. P., nos termos do CCP.
+
+7 - A Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), e as entidades gestoras da solução de receção de faturação eletrónica deverão transmitir ao Portal BASE, no bloco de dados referente ao relatório de execução, por mecanismos eletrónicos, os dados essenciais das faturas eletrónicas aceites e pagas no respetivo contrato.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01
+
+###### Artigo 8.º — Momento de transmissão dos blocos de dados ao Portal BASE
+
+Os blocos de dados referidos no artigo dão entrada nos sistemas de informação sediados no Portal BASE em momentos diversos, consoante a fase de desenvolvimento do procedimento de formação do contrato ou da execução, da seguinte forma:
+
+a) Anúncio do procedimento, após a respetiva validação pela Imprensa Nacional-Casa da Moeda, S. A. (INCM), e envio para publicação no Diário da República;
+
+b) Procedimento, no momento da sua criação ou, quando for utilizada uma plataforma eletrónica, no momento em que é nela publicitado, excluindo-se os ajustes diretos simplificados e a contratação excluída;
+
+c) Bloco técnico de dados, na sequência do preenchimento do anúncio para publicação ou, no caso do ajuste direto e consulta prévia, no âmbito do relatório de formação de contrato;
+
+d) Ficha de envio dos convites, em simultâneo com o envio dos convites suportado em plataforma eletrónica;
+
+e) Ficha de abertura das candidaturas, até 10 dias úteis após a disponibilização e abertura das candidaturas na plataforma eletrónica, nos termos do n.º 1 do artigo 73.º da Lei n.º 96/2015, de 17 de agosto;
+
+f) Ficha de abertura das soluções, até 10 dias úteis após a disponibilização e abertura das soluções na plataforma eletrónica, nos termos do preceito referido na alínea anterior;
+
+g) Ficha de abertura das propostas, até 10 dias úteis, após a disponibilização e abertura das propostas na plataforma eletrónica, nos termos do artigo 75.º e do n.º 4 do artigo 76.º ambos da Lei n.º 96/2015, de 17 de agosto;
+
+h) Ficha de habilitação do adjudicatário, em simultâneo com a disponibilização dos documentos de habilitação a que se refere o n.º 2 do artigo 85.º do CCP;
+
+i) Ficha de impugnações, até 10 dias úteis após a interposição da impugnação bem como após a decisão da mesma;
+
+j) Relatório de formação do contrato, até 20 dias úteis após a celebração do contrato escrito ou caso o mesmo não tenha sido outorgado por escrito, 20 dias úteis após o início da sua execução;
+
+k) Relatório de comunicação de não celebração do contrato, até 20 dias úteis após a comunicação da revogação da decisão de contratar ou após a decisão de não disponibilização de bens móveis, ou de não alienação de bens móveis;
+
+l) Relatório de modificação objetiva do contrato, nos termos do artigo 315.º do CCP, até cinco dias após a sua concretização;
+
+m) Relatório sumário anual, até 10 dias úteis após a data que perfaz um ano de execução, para efeitos do n.º 2 do artigo 472.º do CCP;
+
+n) Relatório de execução, até 20 dias úteis após a data do fecho do contrato, entendido como a data do pagamento da última fatura aceite pelo contraente público ou a data da execução material do contrato nas situações de adiantamentos integrais de preço e, no caso de ajustes diretos simplificados com a periodicidade definida no n.º 2 do artigo 5.º da presente Portaria.
+
+o) Relatório final de obra, até 10 dias úteis após a assinatura da conta final da obra ou da respetiva aceitação pelo empreiteiro, nos termos do n.º 1 do artigo 402.º do CCP;
+
+p) Relatório de ocorrências, até 5 dias úteis nos termos previstos no n.º 2 do artigo 386.º e do n.º 2 do artigo 405.º do CCP, 10 dias úteis nos termos previstos no n.º 2 do artigo 464.º-A do CCP e nos restantes casos após o conhecimento da ocorrência;
+
+q) Relatório de disponibilização/alienação de bens móveis, até 10 dias após a disponibilização ou a alienação.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01
+
+###### Artigo 9.º — Fontes de informação
+
+As fontes de informação para o Portal BASE são:
+
+a) No caso do anúncio, o sistema de informação da INCM, usado pelas entidades adjudicantes na introdução de dados para efeitos de publicação no Diário da República e no Jornal Oficial da União Europeia;
+
+b) No caso dos blocos técnicos de dados, as entidades adjudicantes, como segunda fase do processo de introdução de dados para o anúncio, ou, no caso dos ajustes diretos e consultas prévias não tramitados em plataformas, em sede de relatório de formação de contrato;
+
+c) Bloco técnico de dados, na sequência do preenchimento do anúncio para publicação ou, no caso do ajuste direto e consulta prévia, no âmbito do relatório de formação de contrato;
+
+d) As entidades adjudicantes, por acesso direto ao Portal BASE, ou as plataformas eletrónicas, no âmbito da sua intervenção como suporte à formação e execução dos contratos, no caso dos blocos de dados contidos nas alíneas b), c), d), j) a r) do n.º 1 do artigo 7.º
+
+e) No caso dos blocos de dados previstos na alínea a) do n.º 3 do artigo 7.º da presente portaria, os softwares de gestão, no âmbito da sua intervenção como suporte à tramitação administrativa e contabilística dos procedimentos.
+
+f) A Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), e as entidades gestoras da solução de receção de faturação eletrónica, no caso dos blocos de dados referentes à faturação eletrónica contidos no relatório de execução previsto na alínea o) do artigo 7.º
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01
+
+###### Artigo 10.º — Exigências de reporte previstas no Código dos Contratos Públicos
+
+1 - A ficha relativa a um contrato celebrado na sequência de consulta prévia ou de ajuste direto, prevista no n.º 1 do artigo 127.º do CCP, é construída automaticamente no Portal BASE a partir dos dados incluídos no relatório de formação do contrato, bem como os dados relativos ao valor total pago e ao prazo efetivo de duração do contrato, constantes no relatório de execução ou no relatório final de obra.
+
+2 - Os relatórios estatísticos previstos no n.º 1 do artigo 472.º do CCP são construídos automaticamente no Portal BASE, a partir dos dados incluídos nos blocos de dados.
+
+3 - A publicitação das modificações objetivas do contrato, prevista no n.º 1 do artigo 315.º do CCP, é realizada automaticamente no Portal BASE a partir dos dados incluídos no relatório de modificação contratual.
+
+4 - A publicitação dos contratos, prevista no n.º 1 do artigo 465.º do CCP, é realizada automaticamente no Portal BASE a partir dos dados incluídos no relatório de formação do contrato e no relatório de execução do contrato ou de final de obra e relatório sumário anual, caso aplicável.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+###### Artigo 11.º — Aplicabilidade e níveis de pormenorização dos blocos de dados
+
+1 - O preenchimento do bloco técnico de dados, a que se refere a alínea d) do n.º 1 do artigo 7.º, é exigível para contratos de empreitada de obras públicas cujo preço base do procedimento ou preço contratual, no caso da consulta prévia ou do ajuste direto, seja superior a (euro) 200.000.
+
+2 - Os blocos das alíneas c), e) a m) e o) a r) do n.º 1 do artigo 7.º são exigidos em quaisquer tipos de contrato, com qualquer preço contratual, e de acordo com as regras de preenchimento definidas nos anexos à presente Portaria.
+
+3 - O relatório sumário anual, a que se refere a alínea n) do n.º 1 do artigo 7.º, destina-se a empreitadas de obras públicas cujo preço contratual seja superior a (euro) 500.000 e cuja execução se prolongue por mais de um ano.
+
+> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01
+
+###### Artigo 12.º — Responsabilidade pela informação
+
+1 - O preenchimento dos blocos de dados é realizado por um utilizador certificado e reconhecido como representante da entidade adjudicante em causa, diretamente no Portal BASE.
+
+2 - A condição de utilizador mencionado no número anterior, é pessoal e intransmissível.
+
+3 - Os blocos de dados são introduzidos pelo utilizador através do respetivo interface com o Portal BASE, através de um processo de preenchimento interativo.
+
+4 - A finalização do preenchimento por parte do utilizador, após a introdução dos diversos dados e das eventuais revisões e correções que entenda necessárias, ocorre no momento em que o utilizador procede à submissão do documento no Portal BASE.
+
+5 - Sempre que o IMPIC, I. P., verificar a existência de incorreções, incoerências nos dados fornecidos, informará, através de meios eletrónicos, a entidade adjudicante para que proceda à correção dos mesmos no prazo de 10 dias úteis, findo os quais, procederá à comunicação dos factos às entidades fiscalizadoras.
+
+6 - A informação constante do Portal BASE é da exclusiva responsabilidade das entidades adjudicantes, não podendo a entidade gestora do portal substituir-se às mesmas.
+
+7 - É da inteira responsabilidade das entidades adjudicantes o cumprimento das normas nacionais e comunitárias referentes à proteção de dados pessoais.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+###### Artigo 13.º — Correção de bloco de dados anteriormente submetido
+
+1 - Se, em casos excecionais, ocorrer a necessidade de a entidade adjudicante fazer correções depois de ter submetido um determinado bloco de dados, deve aquela apresentar, através da fonte de informação utilizada para a comunicação dos dados de origem, ao Portal BASE, a necessidade de correção através das opções tecnológicas disponibilizadas pelo próprio sistema, fundamentando a solicitação para efetuar a respetiva correção.
+
+2 - Caso a correção referida no número anterior seja autorizada, o sistema de validação e correção de dados instalado no Portal BASE deve permitir a um utilizador certificado e reconhecido como representante da mesma, ou à plataforma eletrónica utilizada para a comunicação dos dados de origem, mediante a autenticação reconhecida, a edição e correção do bloco de dados, dando origem a uma nova versão.
+
+3 - No caso de alterações provenientes de anúncio de prorrogação e anúncio retificativo, nos termos do n.º 1 do artigo 9.º, as mesmas não carecem de aprovação do administrador do sistema do Portal BASE.
+
+4 - São válidas para este preenchimento corretivo as disposições constantes do artigo 12.º
+
+5 - O sistema de informação regista a ocorrência da correção, e publicita as alterações obrigatórias no Portal BASE.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+###### Artigo 14.º — Cessão de posição contratual
+
+1 - Em caso de cessão de posição contratual da entidade pública contratante, deve ser transferida para a entidade cessionária toda a informação anterior necessária para que esta possa preencher posteriormente, sem lacunas, o bloco ou blocos de dados que lhe venham a competir, consoante o estado de desenvolvimento do projeto.
+
+2 - As regras funcionais para a efetivação da cessão da posição contratual serão fixadas mediante regulamento aprovado pelo conselho diretivo do IMPIC, I. P., publicitado no Diário da República e no Portal BASE.
+
+###### Artigo 15.º — Atualização dos dados constantes dos anexos
+
+Os campos dos modelos anexos à presente portaria podem ser atualizados nos termos do regulamento aprovado pelo conselho diretivo do IMPIC, I. P., publicitado no Diário da República e no Portal BASE, não podendo das alterações decorrer alteração substancial dos modelos ora aprovados.
+
+###### Artigo 16.º — Produção de efeitos
+
+A presente portaria produz efeitos à data da entrada em vigor do Decreto-Lei n.º 111-B/2017, de 31 de agosto.
+
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 22 de fevereiro de 2018. - O Ministro do Planeamento e das Infraestruturas, Pedro Manuel Dias de Jesus Marques, em 21 de fevereiro de 2018.
+
+## Anexo S
+
+## Anexo I — Perfil da Entidade adjudicante
+
+[a que se refere a alínea b) do n.º 1 do artigo 7.º]
+
+(ver documento original)
+
+> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01
+
+## Anexo II — Procedimento
+
+[...]
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+## Anexo III — Bloco técnico de dados - Modelo de introdução interativa de dados
+
+[a que se refere a alínea d) do n.º 1 do artigo 7.º]
+
+(ver documento original)
+
+## Anexo IV — Elenco de dados da ficha de envio dos convites
+
+[a que se refere a alínea e) do n.º 1 do artigo 7.º]
+
+(ver documento original)
+
+## Anexo V — Elenco de dados da ficha de abertura de candidaturas
+
+[a que se refere a alínea f) do n.º 1 do artigo 7.º]
+
+Nota. - Nos termos do Código dos Contratos Públicos (artigo 184.º), o júri só propõe a exclusão de candidaturas no âmbito do relatório preliminar de análise das candidaturas assim, a informação relativa à exclusão das candidaturas deve ser atualizada aquando do envio da ficha seguinte no fluxo do procedimento.
+
+(ver documento original)
+
+## Anexo VI — Elenco de dados da ficha de abertura de soluções
+
+[a que se refere a alínea g) do n.º 1 do artigo 7.º]
+
+Nota. - Nos termos do Código dos Contratos Públicos (artigo 212.º), o júri só propõe a exclusão de soluções no âmbito do relatório preliminar respetivo assim, a informação relativa à exclusão das soluções deve ser atualizada aquando do envio da ficha seguinte no fluxo do procedimento
+
+(ver documento original)
+
+## Anexo VII — Elenco de dados da ficha de abertura das propostas
+
+[a que se refere a alínea h) do n.º 1 do artigo 7.º]
+
+Nota. - Nos termos do Código dos Contratos Públicos (artigo 146.º), o júri só propõe a exclusão de propostas no âmbito do relatório preliminar de análise das propostas, assim, a informação relativa à exclusão das soluções deve ser atualizada aquando do envio da ficha seguinte no fluxo do procedimento.
+
+(ver documento original)
+
+## Anexo VIII — Ficha de habilitação do adjudicatário
+
+[a que se refere a alínea i) do n.º 1 do artigo 7.º]
+
+(ver documento original)
+
+## Anexo IX — Ficha de impugnações
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+## Anexo X — Relatório de formação do contrato - Modelo de introdução interativa de dados
+
+[...]
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+## Anexo XI — Relatório de comunicação de não celebração do contrato - Modelo de introdução interativa de dados
+
+[a que se refere a alínea l) do n.º 1 do artigo 7.º]
+
+(ver documento original)
+
+## Anexo XII — Relatório de modificação contratual - Modelo de introdução interativa de dados
+
+[a que se refere a alínea m) do n.º 1 do artigo 7.º]
+
+(ver documento original)
+
+## Anexo XIII — Relatório sumário anual - Modelo de introdução interativa de dados
+
+[a que se refere a alínea n) do n.º 1 do artigo 7.º]
+
+(ver documento original)
+
+## Anexo XIV — Relatório de execução - Modelo de introdução interativa de dados
+
+[...]
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+## Anexo XV — Relatório final de obra - Modelo de introdução interativa de dados
+
+[a que se refere a alínea o) do n.º 1 do artigo 7.º]
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/portaria/284-2019-124346834), em vigor a partir de 2020-03-03
+
+## Anexo XVI — Relatório de Ocorrências - Modelo de introdução interativa de dados
+
+[a que se refere a alínea q) do n.º 1 do artigo 7.º]
+
+(ver documento original)
+
+> Retificado pelo/a [Declaração de Retificação n.º 14/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2018-114944612), em vigor a partir de 2018-03-03, produz efeitos a partir de 2018-01-01
+
+## Anexo XVII — Relatório de Alienação de bens móveis
+
+[a que se refere a alínea r) do n.º 1 do artigo 7.º]
+
+(ver documento original)
+
+111155647

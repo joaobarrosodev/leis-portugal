@@ -1,0 +1,208 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70133815:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-70722464",
+ "dre_path": "/dr/detalhe/decreto-lei/181-2015-70133815",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70730993",
+    "70730994",
+    "70730995",
+    "70730996",
+    "70730997",
+    "70730998",
+    "70730999",
+    "70731000",
+    "70731001",
+    "70731002",
+    "70731003",
+    "70731004",
+    "70731005",
+    "70731006",
+    "70731007",
+    "70731008",
+    "70731009",
+    "70731010",
+    "70731011",
+    "70731012"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:70737911:por",
+     "title": "Declaração de Retificação n.º 47/2015",
+     "published": "2015-10-19",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/47-2015-70737911",
+     "date": "2015-09-28"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "70730993": {
+   "fragment_id": "70722465",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 181/2015\n\nde 28 de agosto\n\nA exploração de resina constitui uma das mais antigas formas de aproveitamento económico dos pinhais autóctones portugueses e de valorização da gestão dos pinhais portugueses, que muito contribuiu para o desenvolvimento de algumas das regiões mais deprimidas do país e para a criação de um setor industrial exportador relevante.\n\nA exploração de resina assume grande interesse para a manutenção e valorização do pinhal, na medida em que aumenta a rentabilidade da silvicultura e permite ao produtor florestal obter rendimentos anuais, facultando condições financeiras para a prática de uma gestão florestal mais ativa. Acresce, ainda, que a exploração da resina proporciona a permanência de mão de obra (resineiros) na mata, o que releva para a criação de emprego nas zonas rurais e para a vigilância de extensas áreas florestais, contra agentes bióticos e abióticos. Por outro lado, o acesso à área e a execução das operações de extração de resina requer o controlo da vegetação espontânea, contribuindo-se, por essa via, para a redução dos materiais combustíveis e para a proteção da floresta.\n\nImporta, assim, assegurar que a exploração dos recursos resineiros adote boas práticas de gestão, promovendo não só a vitalidade do arvoredo e a aplicação das normas de defesa da floresta, mas também o aumento da produção de resina através de ganhos de produtividade, essenciais à sustentabilidade do sector resineiro e à concretização do seu potencial para a produção de riqueza e para o desenvolvimento regional.\n\nNum outro âmbito, o conhecimento que as autoridades e os agentes económicos dispõem sobre a produção de resina e suas dinâmicas é insuficiente, evidenciando a necessidade de melhorar a informação sobre as mesmas. Também o conhecimento dos operadores económicos intervenientes ao longo da cadeia de produção é um fator da maior importância na condução de ações de caráter informativo e preventivo e de acompanhamento e monitorização.\n\nPor outro lado, o quadro legislativo relativo à exploração de resina e à prática da resinagem está disperso e é em grande medida obsoleto, mantendo-se em vigor normas concebidas há muitas décadas, as quais se encontram profundamente desadequadas à atual realidade tecnológica e económica da resinagem e da exploração de resina.\n\nReforça-se, assim, a necessidade de criar um regime jurídico para a resinagem e para a circulação da resina de pinheiro no território do Continente, aplicando os princípios da simplificação e consolidação legislativa e da diminuição dos custos de contexto.\n\nO presente decreto-lei, que vem dar resposta a estas questões, foi submetido a consulta aos agentes económicos do setor, que manifestaram concordância com a necessidade de simplificar e atualizar o quadro legislativo.\n\nCom o regime agora instituído é adotada uma estratégia de simplificação, desburocratização do procedimento e sua desmaterialização, não envolvendo custos de contexto para os cidadãos e as empresas, sendo garantido em simultâneo o reforço da componente de acompanhamento e fiscalização, assim como informação fundamental para o desenvolvimento do setor resineiro.\n\nFoi ouvida a Comissão Nacional de Proteção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "70730994": {
+   "fragment_id": "70722466",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime jurídico da resinagem e da circulação da resina de pinheiro no território do Continente."
+  },
+  "70730995": {
+   "fragment_id": "70722467",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto-lei é aplicável aos operadores envolvidos ao longo do circuito económico da resina de pinheiro, quer na importação, quando aplicável, ou desde a extração da resina até à exportação ou à entrada em estabelecimento para a primeira transformação industrial."
+  },
+  "70730996": {
+   "fragment_id": "70722468",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para os efeitos do presente decreto-lei entende-se por:\n\na) «Fiada», o conjunto contínuo de feridas, sobrepostas no sentido do eixo da árvore;\n\nb) «Ferida», o corte executado na região cortical (casca) da árvore para facilitar a exsudação e o escoamento da resina;\n\nc) «Operador de resina», qualquer pessoa singular ou coletiva, pública ou privada, que prepara e desenvolve as atividades ou operações inerentes à extração de resina de pinheiro, de importação, de exportação, de transporte, armazenamento, ou de primeira transformação ou de colocação de resina no mercado;\n\nd) «Presa», a distância mínima entre fiadas;\n\ne) «Resinagem», o conjunto das operações associadas à extração da resina de pinheiro;\n\nf) «Resinagem à morte», a extração de resina de pinheiro no curto prazo, sendo limitada, em exclusivo, ao período dos quatro anos que antecede o corte da árvore:\n\ng) «Resinagem à vida», a extração de resina de pinheiro realizada no longo prazo, sem qualquer limitação temporal, dependente do momento de corte da árvore;\n\nh) «Riscagem», a operação de marcação de linhas paralelas e orientadas segundo o eixo da árvore, entre as quais se fazem as feridas.\n\n2 - Para efeitos do presente decreto-lei, os baldios, através dos seus órgãos representativos, são equiparados a operador de resina."
+  },
+  "70730997": {
+   "fragment_id": "70722469",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos da resinagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos da resinagem\n\n1 - A resinagem, à vida ou à morte, está, em geral, condicionada ao cumprimento dos seguintes requisitos de execução:\n\na) A marcação prévia das fiadas, mediante riscagem;\n\nb) A profundidade da ferida deve ser inferior ou igual a um centímetro;\n\nc) A recolha dos equipamentos e de todo o material usado na resinagem quanto terminar a sua utilização.\n\n2 - Na modalidade à vida, a resinagem está ainda sujeita ao cumprimento dos seguintes requisitos:\n\na) O tronco dos pinheiros a resinar deve ter perímetro igual ou superior a 63 cm, correspondente a diâmetro de 20 cm, medidos sobre a casca a 1,30 m do solo;\n\nb) Nos troncos com perímetro menor ou igual a 78,50 cm, correspondente a diâmetro de 25 cm, medidos sobre a casca a 1,30 metro do solo, apenas pode ser realizada uma fiada de feridas;\n\nc) A largura da ferida não pode ultrapassar 12 cm no primeiro, segundo e terceiro anos, e 11 cm a partir do quarto ano de exploração da resina;\n\nd) As feridas são iniciadas na base do tronco a uma altura não superior a 20 cm e prolongada nas campanhas futuras, formando uma fiada contínua, na direção do eixo da árvore, até ao máximo de dois metros de altura;\n\ne) A dimensão das presas entre fiadas não pode ser inferior a 10 cm.\n\n3 - Na modalidade à morte não é permitida a exploração simultânea de várias fiadas na mesma árvore quando a dimensão das presas for inferior a oito centímetros.\n\n4 - Para efeitos do disposto na alínea b) do n.º 1 e nos n.os 2 e 3, é admitida uma tolerância até 10 % superior ou inferior aos limites previstos, relativamente ao número total de pinheiros em resinagem na mesma parcela ou parcelas.\n\n5 - No caso de pinheiros com sintomas de declínio por ação de agentes bióticos e ou abióticos nocivos, a resinagem, à vida ou à morte, apenas pode ter lugar quando for compatível com os procedimentos e práticas exigidas para o controlo do agente físico ou do agente patogénico respetivo."
+  },
+  "70730998": {
+   "fragment_id": "70722470",
+   "type": 11,
+   "heading": "Artigo 5.º — Resinagem para fins de investigação científica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Resinagem para fins de investigação científica\n\n1 - Excecionalmente, em casos devidamente fundamentados e mediante o consentimento expresso do proprietário ou outro produtor legítimo, o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), pode autorizar a dispensa do cumprimento de alguns requisitos previstos no artigo anterior, em caso de resinagem abrangida em projetos de investigação científica por entidades reconhecidas para o efeito.\n\n2 - A autorização a que se refere o número anterior define o respetivo prazo de duração e pode ser condicionada a condições específicas, quando justificado."
+  },
+  "70730999": {
+   "fragment_id": "70722471",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicação prévia\n\n1 - A extração de resina de pinheiro, a sua importação e exportação, bem como o transporte, o armazenamento e a entrada em estabelecimento para a primeira transformação industrial, estão sujeitos a comunicação prévia obrigatória ao ICNF, I. P., designada por declaração de resina.\n\n2 - A declaração de resina é submetida por via eletrónica, através do Sistema de Informação da Resina (SiResin), que integra o Sistema Nacional de Informação sobre os Recursos Florestais."
+  },
+  "70731000": {
+   "fragment_id": "70722472",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos da declaração de resina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos da declaração de resina\n\n1 - A declaração de resina integra os seguintes requisitos mínimos de conteúdo:\n\na) O número do registo de operador de resina e a respetiva identificação;\n\nb) A identificação da atividade, podendo consistir, isolada ou simultaneamente, na extração, transporte, armazenamento, transformação, importação ou exportação de resina de pinheiro;\n\nc) A indicação da duração previsional da resinagem;\n\nd) A espécie de pinheiro a resinar, a modalidade de resinagem, e o número de árvores a explorar;\n\ne) Indicação da origem da resina:\n\ni) Em caso de resina de origem nacional, a identificação dos prédios de extração da resina e a sua localização, a área da parcela ou parcelas e a sua localização, bem como a previsão da quantidade de resina a extrair por prédio;\n\nii) Em caso de resina importada, a identificação do país de origem e a quantidade importada;\n\nf) A indicação do destino da resina, nacional ou importada, com identificação do operador de resina recetor e menção da residência ou sede, o número de identificação fiscal e o local ou locais de receção da pinha.\n\n2 - No caso de extração de resina a declaração deve ser apresentada anualmente.\n\n3 - A omissão ou deficiência essencial da declaração de resina quanto a qualquer dos seus requisitos mínimos, equivale à sua falta, sem prejuízo de eventual responsabilidade contraordenacional que ao caso couber."
+  },
+  "70731001": {
+   "fragment_id": "70722473",
+   "type": 11,
+   "heading": "Artigo 8.º — Circulação da resina e obrigações do operador de resina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Circulação da resina e obrigações do operador de resina\n\n1 - A declaração de resina deve obrigatoriamente acompanhar a circulação e a detenção da resina de pinheiro.\n\n2 - Ao longo do circuito económico, desde a importação, quando aplicável, ou desde a extração e até à exportação ou à entrada em estabelecimento para a primeira transformação industrial, os operadores de resina estão obrigados a transmitir ao adquirente sucessivo ou outro detentor legítimo, um exemplar da declaração de resina correspondente, bem como cópias das declarações que comprovam as transmissões antecedentes.\n\n3 - Os operadores de resina que transportam, armazenam, transformam ou exportam resina de pinheiro, devem exigir no ato da sua receção a entrega de um exemplar de todas a declarações emitidas ao longo do circuito económico, sendo obrigados a conservá-las em bom estado pelo período de três anos."
+  },
+  "70731002": {
+   "fragment_id": "70722474",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo de operador de resina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo de operador de resina\n\n1 - Estão obrigados a registo de operador de resina todos os operadores de resina que desenvolvem as atividades ou operações sujeitas a comunicação prévia nos termos do 6.º\n\n2 - O registo de operador de resina é submetido por via eletrónica através do SiResin, previamente à primeira atividade ou operação sujeita a declaração de resina e mantém-se válido até ao seu cancelamento.\n\n3 - Constituem elementos essenciais do pedido de registo, estando sujeitos a declaração do operador de resina, os seguintes:\n\na) A identificação do operador de resina, com menção do nome ou denominação social, residência ou sede, o número de identificação fiscal e os contactos;\n\nb) A descrição da atividade ou atividades a desenvolver no circuito económico da resina.\n\n4 - Os operadores de resina registados estão obrigados a comunicar ao ICNF, I. P., no prazo de 30 dias a contar da sua verificação, qualquer alteração subsequente aos dados contidos no registo.\n\n5 - Compete ao ICNF, I. P., assegurar a manutenção, a atualização e o cancelamento do registo de operador de resina."
+  },
+  "70731003": {
+   "fragment_id": "70748575",
+   "type": 11,
+   "heading": "Artigo 10.º — Sistema de informação da resina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sistema de informação da resina\n\n1 - O SiResin é assegurado através de plataforma eletrónica de dados, acessível no sítio na Internet do ICNF, I. P., e do Balcão do Empreendedor, disponibilizado através do Portal do Cidadão, que permite a apresentação da declaração de resina e do registo de operador de resina, bem como o acesso e o tratamento da informação detida, nos termos do presente decreto-lei.\n\n2 - O SiResin assegura as seguintes funcionalidades:\n\na) A apresentação da declaração de resina;\n\nb) A submissão do pedido de registo de operador de resina;\n\nc) A consulta pelo operador de resina da informação constante do seu registo e das declarações de resina próprias;\n\nd) A comunicação das alterações subsequentes aos dados constantes no registo de operador de resina e o pedido de atualização, de retificação ou de eliminação de dados, nos termos estabelecidos na lei;\n\ne) O registo de utilizadores;\n\nf) A criação de códigos de autenticação únicos de registo de operador de resina, e o envio de mensagens automáticas aos interessados;\n\ng) A disponibilização de manual de apoio ao utilizador e sistema de ajuda;\n\nh) A gestão, a manutenção, a atualização e o cancelamento dos registos de operador de resina;\n\ni) A gestão da base de dados, para criação de relatórios e consultas;\n\nj) O acesso aos dados do registo de operador de resina e de declaração de resina pelas autoridades competentes para a fiscalização da aplicação do presente decreto-lei.\n\n3 - Com a submissão eletrónica do registo de operador de resina é emitido comprovativo, entregue automaticamente pela mesma via, com os demais elementos necessários à ativação do registo.\n\n4 - Ao tratamento, segurança, conservação, acesso e proteção dos dados pessoais constantes do SiResin é diretamente aplicável o disposto na Lei n.º 67/98, de 26 de outubro.\n\n5 - Quando por motivos de indisponibilidade do sistema não for possível a utilização do SiResin, a transmissão da informação é efetuada por correio eletrónico, para o endereço criado especificamente para o efeito e publicitado no sítio na Internet do ICNF, I. P., ou, por qualquer outro meio legalmente admissível.\n\n6 - O SiResin deve permitir o acesso por meios de autenticação segura, através da utilização de nome de utilizador e palavra-chave, de certificado digital, designadamente o constante do cartão do cidadão, ou da chave móvel digital.\n\n7 - Os operadores de resina estão dispensados da apresentação de documentos em posse de qualquer serviço ou organismo da Administração Pública quando derem o seu consentimento para a entidade responsável pela prestação do serviço proceder à sua obtenção, nos termos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio."
+  },
+  "70731004": {
+   "fragment_id": "70748576",
+   "type": 11,
+   "heading": "Artigo 11.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Confidencialidade\n\nA informação constante da declaração de resina e do registo de operador de resina tem natureza confidencial, apenas podendo ser transmitida ao próprio, a terceiros por ele expressamente autorizados e às entidades competentes para a fiscalização da aplicação do presente decreto-lei, exclusivamente para este fim."
+  },
+  "70731005": {
+   "fragment_id": "70748577",
+   "type": 11,
+   "heading": "Artigo 12.º — Produção e divulgação de informação integrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Produção e divulgação de informação integrada\n\nSem prejuízo do disposto no artigo anterior, compete ao ICNF, I. P., a organização, o tratamento, a produção, e a divulgação de informação integrada da resina, a partir dos dados do SiResin."
+  },
+  "70731006": {
+   "fragment_id": "70748578",
+   "type": 11,
+   "heading": "Artigo 13.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima:\n\na) A resinagem em infração ao disposto na alínea a) do n.º 1 e no n.º 3 do artigo 4.º, com coima entre (euro) 50 e (euro) 500;\n\nb) A resinagem em infração ao disposto na alínea b) do n.º 1 e nos n.os 2 e 5 do artigo 4.º, com coima entre (euro) 1 000 e (euro) 3 700;\n\nc) A resinagem em infração ao disposto na alínea c) do n.º 1 do artigo 4.º, com coima entre (euro) 250 e (euro) 2 500;\n\nd) A resinagem para fins de investigação científica fora das condições específicas de execução ou do prazo para que foi autorizada nos termos do artigo 5.º, com coima entre (euro) 1 000 e (euro) 3 700;\n\ne) A falta ou deficiência essencial da declaração de resina, em infração ao disposto no n.º 1 do artigo 6.º e no artigo 7.º, com coima entre (euro) 250 e (euro) 2 500;\n\nf) O não cumprimento das obrigações de operador de resina, bem como a circulação e a detenção de resina de pinheiro não documentadas, em violação do artigo 8.º, com coima entre (euro) 250 e (euro) 2 500;\n\ng) A falta do registo de operador de resina e de comunicação de alterações ao registo, em infração ao artigo 9.º, com coima entre (euro) 50 e (euro) 500.\n\n2 - Excetua-se do disposto nas alíneas a) e b) do número anterior, não sendo passíveis de coima ou outra sanção, as ações praticadas dentro do limiar de tolerância a que se refere o n.º 4 do artigo 4.º\n\n3 - Tratando-se de pessoas coletivas os limites mínimos e máximos das coimas aplicáveis às contraordenações estabelecidas no n.º 1 é elevado ao décuplo, exceto no caso das alíneas b) e d) cujo limite máximo é de (euro) 44 000.\n\n4 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n5 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.\n\n6 - Às contraordenações previstas no presente artigo é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "70731007": {
+   "fragment_id": "70748579",
+   "type": 11,
+   "heading": "Artigo 14.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sanções acessórias\n\n1 - Cumulativamente com a coima podem ser aplicadas às contraordenações previstas nas alíneas b) e d) do n.º 1 do artigo anterior, as seguintes sanções acessórias:\n\na) A perda a favor do Estado dos instrumentos pertencentes ao agente, designadamente maquinaria, veículos ou quaisquer outros objetos que serviram ou estavam destinados a servir para a prática da contraordenação;\n\nb) A perda a favor do Estado dos bens ou produto resultantes da atividade contraordenacional, salvo quando os proprietários em nada tenham contribuído para a prática da contraordenação;\n\nc) A interdição de exercer a profissão ou atividades relacionadas com a contraordenação;\n\nd) Privação da atribuição ao infrator de subsídios ou outros benefícios outorgados ou a outorgar por entidades ou serviços públicos, no âmbito da atividade florestal;\n\ne) A suspensão da autorização a que se refere o artigo 5.º;\n\n2 - As sanções acessórias previstas nas alíneas c), d)\n\ne e) no número anterior têm a duração mínima de 60 dias e máxima de um ano, exceto no caso de o agente tiver sido condenado há menos de três anos por uma ou mais infrações previstas no presente decreto-lei, em que a duração máxima é de dois anos.\n\n3 - Para efeitos da aplicação do disposto na alínea d) do n.º 1, o ICNF, I. P., comunica as sanções acessórias aplicadas às entidades públicas competentes para a concessão de subsídios ou benefícios com recurso a fundos públicos ou da União Europeia, no prazo de cinco dias a contar da data em que a decisão se tornou definitiva."
+  },
+  "70731008": {
+   "fragment_id": "70748580",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência de fiscalização e contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência de fiscalização e contraordenacional\n\n1 - Sem prejuízo das competências atribuídas por lei a outras entidades em razão da matéria ou da área de jurisdição, a fiscalização do disposto no presente decreto-lei compete ao ICNF, I. P., às autoridades de polícia e aos vigilantes da natureza.\n\n2 - As autoridades de polícia, bem como as autoridades aduaneiras relativamente à importação e exportação de resina de pinheiro, têm acesso aos dados do SiResin respeitantes à declaração de resina e ao registo de operador de resina, exclusivamente para efeitos de fiscalização da aplicação do presente decreto-lei.\n\n3 - A instrução dos processos de contraordenação, bem como a aplicação das coimas e das sanções acessórias é da competência do ICNF, I. P."
+  },
+  "70731009": {
+   "fragment_id": "70748581",
+   "type": 11,
+   "heading": "Artigo 16.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Destino das coimas\n\nO produto das coimas aplicadas é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 25 % para o ICNF, I. P.;\n\nc) 15 % para a entidade que levantou o auto."
+  },
+  "70731010": {
+   "fragment_id": "70748582",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma transitória\n\n1 - Até à operacionalização e entrada em funcionamento do SiResin a apresentação da declaração de resina e do pedido de registo de operador de resina, bem como quaisquer atos a praticar no mesmo âmbito, podem ter lugar por qualquer meio de comunicação previsto na lei.\n\n2 - Para efeitos do número anterior compete ao ICNF, I. P., aprovar e disponibilizar no seu sítio da Internet, os modelos de formulário da declaração de resina e do registo de operador da resina, bem como as respetivas instruções de preenchimento."
+  },
+  "70731011": {
+   "fragment_id": "70748583",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nSão revogados:\n\na) Os artigos 11.º e 12.º e a secção III da Lei n.º 30/2006, de 11 de julho;\n\nb) O § único do artigo 6.º do Decreto n.º 13658, de 23 de maio de 1927;\n\nc) O Decreto-Lei n.º 33529, de 15 de fevereiro de 1944;\n\nd) O Decreto-Lei n.º 38273, de 29 de maio de 1951, alterado pelo Decreto-Lei n.º 41033, de 18 de março\n\nde 1957, e pela Lei n.º 30/2006, de 11 de julho;\n\ne) O Decreto-Lei n.º 38630, de 2 de fevereiro de 1952, alterado pelo Decreto-Lei n.º 41033, de 18 de março\n\nde 1957, e pela Lei n.º 30/2006, de 11 de julho;\n\nf) O Decreto-Lei n.º 41033, de 18 de março de 1957, alterado pelo Decreto-Lei n.º 129/88, de 20 de abril;\n\ng) O Decreto-Lei n.º 43464, de 4 de janeiro de 1961;\n\nh) O Decreto-Lei n.º 129/88, de 20 de abril."
+  },
+  "70731012": {
+   "fragment_id": "70748584",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor 30 dias após a sua publicação.\n\n2 - Sem prejuízo do disposto no número anterior, os artigos 6.º a 9.º produzem efeitos a partir do dia 1 de janeiro de 2016."
+  }
+ }
+}

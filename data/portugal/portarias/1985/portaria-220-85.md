@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:324331:por
+title: Portaria n.º 220/85
+short_title: null
+summary: Aprova o modelo de cartões de identidade do pessoal dos Gabinetes do Ministro e dos Secretários de Estado e de outro
+  pessoal do Ministério do Mar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Mar
+proposing_entity: null
+official_number: 220/85
+official_date: null
+publication_date: '1985-04-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 91/1985, Série I de 1985-04-19
+  number: '91'
+  series: I
+  supplement: null
+  pages: 1076 - 1076
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09100/10761076.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '324331'
+  dre_path: /dr/detalhe/portaria/220-1985-324331
+  internal: pt:dre:324331:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/220-1985-324331
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/220-1985-324331
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:21:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a0c2e1267b2271c5fb087d9441c9d0b6dff75a0c682c2ed8e71df73f5e326605
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:21:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cartão de Identificação
+- Ministério do MAR
+- Pessoal de Gabinete
+- Pessoal Dirigente
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:21:15Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 220/85
+
+de 19 de Abril
+
+Considerando a necessidade de dispor de um meio de identificação para o pessoal dos Gabinetes do Ministro e dos Secretários de Estado do Ministério do Mar, bem como para o pessoal dos organismos e serviços da sua dependência que não disponham de cartões de identidade próprios:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Mar, ao abrigo do disposto na alínea c) do artigo 202.º da Constituição, o seguinte:
+
+1.º Aprovar o modelo, anexo a esta portaria, de cartões de identidade para uso do pessoal dos Gabinetes do Ministro e dos Secretários de Estado do Ministério do Mar.
+
+2.º O mesmo cartão de identidade será também usado pelo pessoal dos organismos e serviços dependentes do Ministério que não disponham de modelos próprios.
+
+3.º Os cartões destinados ao pessoal dos Gabinetes constante do n.º 1, bem como ao pessoal dirigente incluído no número anterior, terão, na parte inferior esquerda, a menção «Livre trânsito», a vermelho
+
+4.º O cartão com a menção «Livre trânsito» confere ao seu titular a faculdade de livre circulação em instalações dos serviços, organismos e empresas públicas dependentes ou tutelados pelo Ministério do Mar.
+
+5.º Os cartões serão autenticados com as assinaturas, consoante os casos, dos respectivos membros do Governo ou dos responsáveis pelos organismos ou serviços e com a aposição do selo branco.
+
+6.º Os cartões de identidade serão válidos pelo período correspondente ao exercício das funções que os mesmos comprovam, devendo ser devolvidos pelos seus titulares logo que se verifique alteração da sua situação funcional para adequada substituição ou simples recolha.
+
+7.º Será passada uma segunda via em caso de extravio, destruição ou deterioração, de que se fará referência expressa no cartão, mantendo, no entanto, o mesmo número.
+
+Ministério do Mar.
+
+Assinada em 3 de Abril de 1985.
+
+O Ministro do Mar, José de Almeida Serra.
+
+## ANEXO — Modelo de cartão de identidade
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09100/10761076.pdf)

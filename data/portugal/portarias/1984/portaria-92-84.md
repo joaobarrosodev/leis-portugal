@@ -1,0 +1,708 @@
+---
+schema_version: '1.0'
+id: pt:dre:660563:por
+title: Portaria n.º 92/84
+short_title: null
+summary: Actualiza o preço das análises a efectuar no laboratório da Direcção-Geral das Alfândegas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento
+proposing_entity: null
+official_number: 92/84
+official_date: null
+publication_date: '1984-02-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/1984, Série I de 1984-02-13
+  number: '37'
+  series: I
+  supplement: null
+  pages: 478 - 480
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03700/04780480.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '660563'
+  dre_path: /dr/detalhe/portaria/92-1984-660563
+  internal: pt:dre:660563:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/92-1984-660563
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/92-1984-660563
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:16:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c7c801bb96f805c76179ee97d10997c8aa3bcbe6a79320ae7fb46a48202dc0e1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:16:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Análise Laboratorial
+- Direcção Geral das Alfândegas
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:228434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:16:24Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 92/84
+
+de 13 de Fevereiro
+
+Considerando que no período aproximado de 14 anos em que esteve em vigor a tabela de preços de análises efectuadas no laboratório da Direcção-Geral das Alfândegas os encargos com o pessoal e custos dos materiais foram substancialmente agravados;
+
+Considerando assumir carácter imperativo a actualização da referida tabela, em ordem a repor o necessário equilíbrio entre os preços a cobrar e o custo real das análises:
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, tendo em conta a alínea b) do artigo 18.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, o seguinte:
+
+1.º Que o preço das análises a efectuar no laboratório da Direcção-Geral das Alfândegas seja o constante da tabela anexa a esta portaria.
+
+2.º Que seja revogada a [Portaria n.º 129/70](https://diariodarepublica.pt/dr/detalhe/portaria/129-1970-228434), de 4 de Março.
+
+Ministério das Finanças e do Plano.
+
+Assinada em 24 de Janeiro de 1984.
+
+Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.
+
+Tabela de preços de análises
+
+1 - Metais comuns e suas ligas
+
+1.1 - Metais ferrosos - aços e ferros fundidos
+
+Teor em:
+
+Alumínio ... 1040$00
+
+Arsênio ... 1000$00
+
+Bismuto ... 1040$00
+
+Boro ... 1240$00
+
+Carbono ... 860$00
+
+Chumbo ... 1040$00
+
+Cobalto ... 1080$00
+
+Cobre ... 1040$00
+
+Crómio ... 1100$00
+
+Enxofre ... 1190$00
+
+Estanho ... 1300$00
+
+Fósforo ... 1040$00
+
+Magnésio ... 1200$00
+
+Manganés ... 1040$00
+
+Molibdénio ... 1240$00
+
+Níquel ... 1300$00
+
+Silício ... 950$00
+
+Titânio ... 1100$00
+
+Tungsténio ... 1400$00
+
+Vanádio ... 1100$00
+
+1.2 - Metais não ferrosos - ligas de alumínio, de chumbo, de cobre, de estanho, de níquel e de zinco
+
+Teor em:
+
+Alumínio ... 1200$00
+
+Antimónio ... 1250$00
+
+Arsénio ... 1250$00
+
+Bismuto ... 1040$00
+
+Cádmio ... 1360$00
+
+Carbono ... 860$00
+
+Chumbo ... 1100$00
+
+Cobalto ... 1080$00
+
+Cobre ... 1040$00
+
+Crómio ... 1200$00
+
+Enxofre ... 1190$00
+
+Estanho ... 1600$00
+
+Ferro ... 1040$00
+
+Fósforo ... 1100$00
+
+Magnésio ... 1300$00
+
+Manganés ... 1200$00
+
+Níquel ... 1200$00
+
+Prata ... 1300$00
+
+Silício ... 950$00
+
+Titânio ... 1100$00
+
+Zinco ... 1200$00
+
+2 - Produtos minerais
+
+Areias, argilas, caulinos, baritas, calcários, dolomites, feldspatos e gessos
+
+Perda ao rubro ... 500$00
+
+Perda a 100ºC-105ºC ... 350$00
+
+Matéria solúvel na água ... 500$00
+
+Teor em:
+
+Alumina ... 1040$00
+
+Anidrido fosfórico ... 900$00
+
+Carbonatos ... 1400$00
+
+Óxido de cálcio ... 1040$00
+
+Óxido de ferro ... 1040$00
+
+Óxido de magnésio ... 1100$00
+
+Óxido de manganés ... 1100$00
+
+Óxido de potássio ... 1000$00
+
+Óxido de sódio ... 1000$00
+
+Óxido de titânio ... 1100$00
+
+Sílica ... 950$00
+
+Sulfatos ... 1000$00
+
+3 - Vidros e produtos cerâmicos
+
+Perda ao rubro ... 500$00
+
+Teor em:
+
+Alumina ... 1040$00
+
+Anidrido arsenioso ... 1000$00
+
+Óxido de bário ... 1100$00
+
+Óxido de boro ... 1240$00
+
+Óxido de cálcio ... 1040$00
+
+Óxido de chumbo ... 1000$00
+
+Óxido de ferro ... 1040$00
+
+Óxido de magnésio ... 1100$00
+
+Óxido de manganés ... 1100$00
+
+Óxido de potássio ... 1000$00
+
+Óxido de sódio ... 1000$00
+
+Óxido de titânio ... 1100$00
+
+Óxido de zinco ... 1200$00
+
+Sílica ... 950$00
+
+4 - Adubos
+
+Acidez livre ... 500$00
+
+Azoto amoniacal ... 750$00
+
+Azoto nítrico ... 1000$00
+
+Azoto orgânico ... 1200$00
+
+Azoto total ... 1400$00
+
+Cálcio ... 1040$00
+
+Cinzas ... 500$00
+
+Fósforo solúvel na água ... 1040$00
+
+Fósforo solúvel no ácido cítrico a 2 g/100 cm3 ... 1100$00
+
+Fósforo total ... 1400$00
+
+Humidade ... 350$00
+
+Magnésio ... 1200$00
+
+Potássio ... 2000$00
+
+5 - Sabões e tensoactivos
+
+5.1 - Sabões
+
+Acidez livre ... 600$00
+
+Alcalinidade livre total ... 600$00
+
+Água (método azeotrópico) ... 500$00
+
+Cinzas ... 500$00
+
+Glicerol ... 1200$00
+
+Humidade e matéria volátil ... 450$00
+
+Matéria gorda total ... 1000$00
+
+Matéria insaponificável ... 1500$00
+
+Matéria insaponificada e insaponificável ... 1000$00
+
+Matéria insolúvel na água ... 500$00
+
+Matéria insolúvel no etanol ... 550$00
+
+Resina ... 1200$00
+
+Carbonatos ... 900$00
+
+Cloretos ... 1000$00
+
+Fosfatos ... 900$00
+
+Silicatos ... 950$00
+
+5.2 - Tensoactivos
+
+Acidez ... 600$00
+
+Água ... 500$00
+
+Alcalinidade ... 600$00
+
+Cinzas ... 500$00
+
+Matéria activa ... 1000$00
+
+Matéria inactiva ... 1000$00
+
+Matéria insolúvel ... 550$00
+
+Ph ... 300$00
+
+Perda a 100ºC-105ºC ... 450$00
+
+Pesquisa de azoto, enxofre, fósforo, halogéneos (análise orgânica elementar) ... 600$00
+
+Pesquisa de sabão ... 350$00
+
+Pesquisa de tensoactivo aniónico ... 350$00
+
+Pesquisa de tensoactivo catiónico ... 350$00
+
+Pesquisa de tensoactivo não iónico ... 350$00
+
+Tensão superficial de uma solução aquosa ... 800$00
+
+Carbonatos ... 900$00
+
+Cloretos ... 1000$00
+
+Fosfatos ... 900$00
+
+Silicatos ... 950$00
+
+Sulfatos ... 1000$00
+
+6 - Produtos alimentares
+
+Acidez ... 600$00
+
+Ácido benzóico e benzoatos ... 1600$00
+
+Ácido bórico e boratos ... 800$00
+
+Ácido cítrico ... 800$00
+
+Ácido fórmico e formiatos ... 1000$00
+
+Ácido láctico ... 1500$00
+
+Ácido salicílico e salicilatos ... 1300$00
+
+Ácidos gordos totais insolúveis na água ... 1750$00
+
+Açúcares totais ... 1200$00
+
+Água (método azeotrópico) ... 500$00
+
+Albumina (leite e derivados) ... 800$00
+
+Amido ... 1700$00
+
+Anidrido sulfuroso ... 1100$00
+
+Azoto ... 1200$00
+
+Azoto volátil ... 750$00
+
+Caracteres organolépticos ... 500$00
+
+Açúcares redutores ... 850$00
+
+Caramelo (pesquisa) ... 750$00
+
+Caseína (leite) ... 600$00
+
+Celulose bruta ... 800$00
+
+Cifra diferencial de Bömer ... 3000$00
+
+Cinzas ... 500$00
+
+Cinzas insolúveis no HCl a 10% ... 650$00
+
+Cinzas sulfatadas ... 500$00
+
+Densidade (densímetro) ... 400$00
+
+Densidade (picnómetro) ... 850$00
+
+Extracto aquoso ... 650$00
+
+Extracto etéreo ... 700$00
+
+Extracto seco ... 450$00
+
+Gordura ... 700$00
+
+Grau Brix ... 350$00
+
+Grau sacarimétrico ... 700$00
+
+Índice de acidez ... 600$00
+
+Índice de Bellier ... 800$00
+
+Índice de éster ... 1000$00
+
+Índice de iodo ... 900$00
+
+Índice de neutralização dos ácidos gordos ... 1900$00
+
+Índice de oxidrilo ... 850$00
+
+Índice de peróxido ... 900$00
+
+Índice de refracção ... 350$00
+
+Índice de saponificação ... 750$00
+
+Insaponificável ... 1500$00
+
+Óleo essencial ... 400$00
+
+Osazonas (pesquisa) ... 700$00
+
+Perda a 100ºC-105ºC ... 450$00
+
+Pesquisa de ácidos inorgânicos livres ... 500$00
+
+Pesquisa de álcool etílico ... 500$00
+
+Pesquisa de gorduras ou óleos de origem vegetal em gorduras de origem animal ... 1750$00
+
+Pesquisa de gorduras semi-sicativas ... 500$00
+
+Pesquisa de óleo de algodão ... 550$00
+
+Pesquisa de óleo de gergelim ... 350$00
+
+Pesquisa de óleos minerais ... 750$00
+
+Pesquisa de óleos de resina ... 350$00
+
+Ph ... 300$00
+
+Poder rotatório ... 400$00
+
+Ponto de congelação ... 500$00
+
+Ponto de fusão ... 500$00
+
+Proteína ... 1200$00
+
+Resíduo seco ... 450$00
+
+Sacarose ... 1750$00
+
+Sacarose (método sacarimétrico) ... 700$00
+
+Sólidos insolúveis ... 350$00
+
+Sólidos solúveis ... 450$00
+
+Substância seca isenta de gordura ... 700$00
+
+Teor alcoólico ... 700$00
+
+7 - Determinações diversas
+
+Acidez ... 500$00
+
+Água (método azeotrópico) ... 500$00
+
+Alcalinidade ... 500$00
+
+Análise orgânica elementar (pesquisa de azoto, enxofre, fósforo e halogéneos) ... 600$00
+
+Azoto amoniacal ... 750$00
+
+Azoto orgânico ... 1200$00
+
+Azoto total ... 1400$00
+
+Caracteres organolépticos ... 500$00
+
+Cinzas ... 500$00
+
+Cinzas insolúveis na água ... 650$00
+
+Cinzas insolúveis no HCl a 10% ... 650$00
+
+Densidade (densímetro) ... 440$00
+
+Densidade (picnómetro) ... 850$00
+
+Destilação ASTM ... 850$00
+
+Destilação fraccionada ... 750$00
+
+Destilação simples ... 500$00
+
+Exame microscópico ... 300$00
+
+Extracção no soxhlet ... 700$00
+
+Extracto seco ... 450$00
+
+Humidade ... 350$00
+
+Identificação de um composto num solvente ... 600$00
+
+Índice de oxidrilo ... 950$00
+
+Índice de refracção ... 350$00
+
+Matéria insolúvel na água ... 500$00
+
+Matéria solúvel na água ... 500$00
+
+Perda a 100ºC-105ºC ... 350$00
+
+Perda ao rubro ... 500$00
+
+Pesquisa de sabão ... 350$00
+
+Pesquisa de tensoactivo ... 350$00
+
+Ph ... 300$00
+
+Poder rotatório ... 400$00
+
+Ponto de fusão ... 500$00
+
+Resíduo seco ... 450$00
+
+Sólidos insolúveis ... 350$00
+
+Sólidos solúveis ... 450$00
+
+Temperatura da inflamabilidade ... 750$00
+
+Temperatura de inflamação ... 750$00
+
+Teor em matéria volátil (tintas) ... 450$00
+
+Teor de pigmentos (tintas) ... 750$00
+
+Teor de veículo fixo (tintas) ... 750$00
+
+Viscosidade Engler ... 800$00
+
+8 - Têxteis
+
+Apresto ... 400$00
+
+Humidade ... 300$00
+
+Humidade e apresto ... 500$00
+
+Identificação microscópica da fibra ... 400$00
+
+Identificação química da fibra ... 500$00
+
+Doseamento por separação mecânica (por fibra) ... 350$00
+
+Doseamento químico de misturas binárias (uma das fibras por diferença):
+
+Algodão-lã ... 625$00
+
+Algodão-seda ... 500$00
+
+Algodão-acetato ... 800$00
+
+Algodão-cuproamoniacal ... 650$00
+
+Algodão-viscose ... 650$00
+
+Algodão-acrílica ... 700$00
+
+Algodão-poliamida ... 700$00
+
+Algodão-poliéster ... 750$00
+
+Algodão-vinílica ... 800$00
+
+Lã-seda ... 700$00
+
+Lã-acetato ... 800$00
+
+Lã-cuproamoniacal ... 500$00
+
+Lã-viscose ... 625$00
+
+Lã-acrílica ... 600$00
+
+Lã-poliamida ... 500$00
+
+Lã-poliéster ... 500$00
+
+Lã-vinílica ... 675$00
+
+Seda-acetato ... 800$00
+
+Seda-cuproamoniacal ... 500$00
+
+Seda-viscose ... 500$00
+
+Seda-acrílica ... 600$00
+
+Seda-poliamídica ... 500$00
+
+Seda-poliéster ... 500$00
+
+Seda-vinílica ... 675$00
+
+Acetato-cuproamoniacal ... 800$00
+
+Acetato-viscose ... 800$00
+
+Acetato-acrílica ... 800$00
+
+Acetato-poliamídica ... 800$00
+
+Acetato-poliéster ... 800$00
+
+Acetato-vinílica ... 750$00
+
+Cuproamoniacal-acrílica ... 700$00
+
+Cuproamoniacal-poliamídica ... 700$00
+
+Cuproamoniacal-poliéster ... 750$00
+
+Cuproamoniacal-vinílica ... 800$00
+
+Viscose-acrílica ... 700$00
+
+Viscose-poliamídica ... 700$00
+
+Viscose-poliéster ... 750$00
+
+Viscose-vinílica ... 800$00
+
+Acrílica-poliamídica ... 700$00
+
+Acrílica-vinílica ... 800$00
+
+Poliamídica-poliéster ... 700$00
+
+Poliamídica-vinílica ... 750$00
+
+Poliéster-vinílica ... 800$00
+
+Observações
+
+a) Nos preços indicados não estão incluídos, sempre que seja caso disso, a preparação e o ataque da amostra.
+
+b) O preço das análises ou ensaios não mencionados na presente tabela será estabelecido consoante os encargos por eles ocasionados.

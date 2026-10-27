@@ -1,0 +1,517 @@
+---
+schema_version: '1.0'
+id: pt:dre:67348948:por
+title: Decreto-Lei n.º 95/2015
+short_title: null
+summary: Transpõe a Diretiva n.º 2014/93/UE, da Comissão, de 18 de julho de 2014, que altera a Diretiva n.º 96/98/CE, do Conselho,
+  de 20 de dezembro de 1996, relativa aos equipamentos marítimos a fabricar ou a comercializar em território nacional ou a
+  instalar em embarcações nacionais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura e do Mar
+proposing_entity: null
+official_number: 95/2015
+official_date: null
+publication_date: '2015-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/2015, Série I de 2015-05-29
+  number: '104'
+  series: I
+  supplement: null
+  pages: 3327 - 3365
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/95/2015/05/29/p/dre/pt/html
+  oj: null
+  dre: '67348948'
+  dre_path: /dr/detalhe/decreto-lei/95-2015-67348948
+  internal: pt:dre:67348948:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2015-67348948
+  metadata_url: https://data.dre.pt/eli/dec-lei/95/2015/05/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2015-67348948
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:30:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 806f0253ab4a29ffed3b3c4f65fce979be23ae68350136e45d0341dd4e9bc98d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Certificado de Conformidade
+- Comércio
+- Embarcação
+- Equipamento Marítimo
+- Fabrico Industrial
+- Instalações Radioelétricas
+- Normas de Segurança
+- Poluição Marinha
+- Segurança Marítima
+relationships:
+- type: amended_by
+  target: pt:dre:107495710:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31996L0098
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/98/oj
+- type: cites
+  target: celex:31998L0085
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/85/oj
+- type: cites
+  target: celex:32002L0075
+  label: null
+  source: http://data.europa.eu/eli/dir/2002/75/oj
+- type: cites
+  target: celex:32008L0067
+  label: null
+  source: http://data.europa.eu/eli/dir/2008/67/oj
+- type: cites
+  target: celex:32009L0026
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/26/oj
+- type: cites
+  target: celex:32010L0068
+  label: null
+  source: http://data.europa.eu/eli/dir/2010/68/oj
+- type: cites
+  target: celex:32011L0075
+  label: null
+  source: http://data.europa.eu/eli/dir/2011/75/oj
+- type: cites
+  target: celex:32012L0032
+  label: null
+  source: http://data.europa.eu/eli/dir/2012/32/oj
+- type: cites
+  target: celex:32013L0052
+  label: null
+  source: http://data.europa.eu/eli/dir/2013/52/oj
+- type: cites
+  target: celex:32014L0093
+  label: null
+  source: http://data.europa.eu/eli/dir/2014/93/oj
+- type: cites
+  target: pt:dre:174827:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/207/2012/09/03/p/dre
+- type: cites
+  target: pt:dre:323077:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/167/1999/05/18/p/dre
+- type: cites
+  target: pt:dre:498723:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/104/2013/07/29/p/dre
+- type: cites
+  target: pt:dre:542273:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/53/2012/03/08/p/dre
+- type: cites
+  target: pt:dre:58815312:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/170-c/2014/11/07/p/dre
+- type: cites
+  target: pt:dre:603187:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2009/01/15/p/dre
+- type: cites
+  target: pt:dre:608907:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/24/2004/01/23/p/dre
+- type: cites
+  target: pt:dre:611925:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/17/2010/03/17/p/dre
+- type: repealed_by
+  target: pt:dre:107495710:por
+  label: Revogado o Dec Lei 24/2004, de 23-jan, na redação do presente diploma pelo(a) Decreto-Lei n.º 63/2017 - Diário da
+    República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2017-107495710
+  date: '2017-06-09'
+- type: transposes
+  target: celex:31996L0098
+  label: null
+  source: null
+- type: transposes
+  target: celex:31998L0085
+  label: null
+  source: null
+- type: transposes
+  target: celex:32002L0075
+  label: null
+  source: null
+- type: transposes
+  target: celex:32014L0093
+  label: null
+  source: null
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:30:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 95/2015
+
+de 29 de maio
+
+O [Decreto-Lei n.º 167/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1999-323077), de 18 de maio, alterado pelo [Decreto-Lei n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2004-608907), de 23 de janeiro, procedeu à transposição para a ordem jurídica interna da [Diretiva n.º 96/98/CE](https://data.europa.eu/eli/dir/1996/98/oj?locale=pt), do Conselho, de 20 de dezembro de 1996, alterada pela [Diretiva n.º 98/85/CE](https://data.europa.eu/eli/dir/1998/85/oj?locale=pt), da Comissão, de 11 de novembro de 1998, estabelecendo um conjunto de normas aplicáveis aos equipamentos marítimos a fabricar ou a comercializar em território nacional ou a instalar em embarcações nacionais sujeitas a certificação de segurança, por força do disposto nas convenções internacionais sobre a matéria.
+
+Por sua vez, o referido [Decreto-Lei n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2004-608907), de 23 de janeiro, transpôs para a ordem jurídica interna a [Diretiva n.º 2002/75/CE](https://data.europa.eu/eli/dir/2002/75/oj?locale=pt), da Comissão, de 2 de setembro de 2002, que alterou a já mencionada [Diretiva n.º 96/98/CE](https://data.europa.eu/eli/dir/1996/98/oj?locale=pt), introduzindo alterações ao [Decreto-Lei n.º 167/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1999-323077), de 18 de maio.
+
+As alterações posteriormente introduzidas nas convenções internacionais e nas normas de ensaio aplicáveis determinaram a necessidade de se proceder a novas alterações à [Diretiva n.º 96/98/CE](https://data.europa.eu/eli/dir/1996/98/oj?locale=pt), do Conselho, de 20 de dezembro de 1996, as quais foram concretizadas através das Diretivas n.os [2008/67/CE](https://data.europa.eu/eli/dir/2008/67/oj?locale=pt), da Comissão, de 30 de junho de 2008, [2009/26/CE](https://data.europa.eu/eli/dir/2009/26/oj?locale=pt), da Comissão, de 6 de abril de 2009, [2010/68/UE](https://data.europa.eu/eli/dir/2010/68/oj?locale=pt), da Comissão, de 22 de outubro de 2010, [2011/75/UE](https://data.europa.eu/eli/dir/2011/75/oj?locale=pt), da Comissão, de 2 de setembro de 2011, [2012/32/UE](https://data.europa.eu/eli/dir/2012/32/oj?locale=pt), da Comissão, de 25 de outubro de 2012, e [2013/52/UE](https://data.europa.eu/eli/dir/2013/52/oj?locale=pt), da Comissão, de 30 de outubro de 2013. Estas diferentes diretivas foram transpostas para a ordem jurídica nacional pelos [Decretos-Leis n.os 18/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2009-603187), de 15 de janeiro, [17/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2010-611925), de 17 de março, [53/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2012-542273), de 8 de março, [207/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2012-174827), de 3 de setembro, [104/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2013-498723), de 29 de julho, e [170-C/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-c-2014-58815312), de 7 de novembro, os quais alteraram o [Decreto-Lei n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2004-608907), de 23 de janeiro.
+
+De forma a considerar os desenvolvimentos registados a nível internacional e a atender às normas de ensaio detalhadas para diversos equipamentos marítimos, adotadas pela Organização Marítima Internacional e pelas organizações europeias de normalização, a [Diretiva n.º 2014/93/UE](https://data.europa.eu/eli/dir/2014/93/oj?locale=pt), da Comissão, de 18 de julho de 2014, veio novamente alterar a [Diretiva n.º 96/98/CE](https://data.europa.eu/eli/dir/1996/98/oj?locale=pt), do Conselho, de 20 de dezembro de 1996, estabelecendo um novo anexo.
+
+Importa, portanto, transpor para a ordem jurídica interna a [Diretiva n.º 2014/93/UE](https://data.europa.eu/eli/dir/2014/93/oj?locale=pt), da Comissão, de 18 de julho de 2014, relativa aos equipamentos marítimos, alterando o anexo ao [Decreto-Lei n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2004-608907), de 23 de janeiro, o que se concretiza através do presente decreto-lei. Realce-se que a referida Diretiva permite a comercialização e a instalação a bordo de navios comunitários, durante um período de transição, de alguns equipamentos que tenham sido fabricados antes do termo do prazo de transposição da mesma, adotando-se tal solução também na disposição transitória do presente decreto-lei.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei transpõe para a ordem jurídica interna a [Diretiva n.º 2014/93/UE](https://data.europa.eu/eli/dir/2014/93/oj?locale=pt), da Comissão, de 18 de julho de 2014, que altera a [Diretiva n.º 96/98/CE](https://data.europa.eu/eli/dir/1996/98/oj?locale=pt), do Conselho, de 20 de dezembro de 1996, relativa aos equipamentos marítimos a fabricar ou a comercializar em território nacional ou a instalar em embarcações nacionais.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2004-608907), de 23 de janeiro
+
+O anexo ao [Decreto-Lei n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2004-608907), de 23 de janeiro, passa a ter a redação constante do anexo ao presente decreto-lei e que dele faz parte integrante.
+
+###### Artigo 3.º — Disposição transitória
+
+Os equipamentos enumerados na coluna 1 do anexo A.1 do anexo ao presente decreto-lei com a indicação de terem sido transferidos do anexo A.2, fabricados antes de 14 de agosto de 2015, de acordo com os procedimentos de homologação em vigor nos Estados-Membros antes dessa data, podem ser comercializados e instalados a bordo das embarcações que arvoram a bandeira de um Estado-Membro da União Europeia até 14 de agosto de 2017.
+
+Visto e aprovado em Conselho de Ministros de 2 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Berta Maria Correia de Almeida de Melo Cabral - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+Promulgado em 21 de maio de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 25 de maio de 2015.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — (a que se refere o artigo 2.º)
+
+«ANEXO A
+
+Nota geral aplicável ao anexo A: As regras da Convenção SOLAS referenciadas são as da versão consolidada de 2009
+
+Nota geral aplicável ao anexo A: A coluna 5 indica variantes para determinados itens abrangidos pela mesma designação. Estas variantes são objeto de normas distintas, pelo que, para efeitos de certificação, deve escolher-se apenas a variante que interessa (exemplo: A.1/3.3).
+
+Lista de acrónimos
+
+A.1 - Alteração 1 a documentos normativos não IMO.
+
+A.2 - Alteração 2 a documentos normativos não IMO.
+
+AC - Corrigenda a documentos normativos não IMO.
+
+CAT - Categoria do equipamento de radar, conforme definido na secção 1.3 da norma IEC 62388 (2007).
+
+Circ. - Circular.
+
+COLREG - Convenção sobre o regulamento internacional para evitar abalroamentos no Mar.
+
+COMSAR - subcomité da IMO para as radiocomunicações e a busca e salvamento.
+
+EN - Norma Europeia.
+
+ETSI - Instituto Europeu de Normalização das Telecomunicações.
+
+FSS - Código internacional dos sistemas de proteção contra incêndios.
+
+FTP - Código internacional dos procedimentos para as provas de fogo.
+
+HSC - Código das embarcações de alta velocidade.
+
+IBC - Código internacional de construção e equipamento de navios de transporte de produtos químicos perigosos a granel.
+
+ICAO - Organização da Aviação Civil Internacional.
+
+IEC - Comissão Eletrotécnica Internacional.
+
+IGC - Código internacional de construção e equipamento de navios de transporte de gases liquefeitos a granel.
+
+IMO - Organização Marítima Internacional.
+
+ISO - Organização Internacional de Normalização.
+
+ITU - União Internacional das Telecomunicações.
+
+LSA - Meios de salvação.
+
+MARPOL - Convenção internacional para a prevenção da poluição por navios.
+
+MEPC - Comité para a proteção do meio marinho (IMO).
+
+MSC - Comité de segurança marítima (IMO).
+
+NO(índice x) - Óxidos de azoto.
+
+Sistemas O(índice 2)/HC: Sistemas de determinação do oxigénio e deteção de hidrocarbonetos gasosos.
+
+SOLAS - Convenção internacional para a salvaguarda da vida humana no mar.
+
+SO(índice x) - Óxidos de enxofre.
+
+Reg. - Regra.
+
+Res. - Resolução.
+
+ANEXO A.1
+
+Equipamentos para os quais já existem normas de ensaio pormenorizadas em instrumentos internacionais
+
+Notas aplicáveis à totalidade do anexo A.1
+
+a) Geral: para além das normas de ensaio especificamente mencionadas, figuram nas prescrições aplicáveis das convenções internacionais e nas resoluções e circulares pertinentes da IMO disposições cujo cumprimento deve ser verificado quando do exame do tipo (homologação) especificado nos módulos de avaliação da conformidade constantes do anexo B.
+
+b) Coluna 1: poderá ser aplicável o artigo 2.º da [Diretiva n.º 2012/32/UE](https://data.europa.eu/eli/dir/2012/32/oj?locale=pt), da Comissão, de 25 de outubro de 2012 (8.ª alteração do anexo A da diretiva relativa aos equipamentos marítimos).
+
+c) Coluna 1: poderá ser aplicável o artigo 2.º da [Diretiva n.º 2013/52/UE](https://data.europa.eu/eli/dir/2013/52/oj?locale=pt), da Comissão, de 30 de outubro de 2013 (9.ª alteração do anexo A da diretiva relativa aos equipamentos marítimos).
+
+d) Coluna 5: quando são mencionadas resoluções da IMO, apenas são aplicáveis as normas de ensaio constantes das partes pertinentes dos anexos das resoluções, excluindo as disposições das resoluções propriamente ditas.
+
+e) Coluna 5: as convenções internacionais e as normas de ensaio são aplicáveis na sua versão atualizada. A fim de possibilitar a identificação correta das normas, os relatórios de ensaio e os certificados e declarações de conformidade devem especificar a norma de ensaio aplicada e a respetiva versão.
+
+f) Coluna 5: quando dois conjuntos de normas de ensaio estão separados por «ou», cada conjunto preenche todos os requisitos de ensaio necessários para satisfazer as normas de desempenho da IMO; assim, o ensaio segundo um único desses conjuntos de normas é suficiente para demonstrar a conformidade com as prescrições dos instrumentos internacionais aplicáveis. Quando se utilizam outros separadores (vírgula), são aplicáveis todas as referências enumeradas.
+
+g) As prescrições do presente anexo não prejudicam as prescrições das convenções internacionais relativas ao transporte de equipamento.
+
+1 - Meios de salvação
+
+Coluna 4: Aplica-se a circular IMO MSC/Circular 980, exceto quando substituída pelos instrumentos específicos indicados.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+2 - Prevenção da poluição marinha
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+3 - Equipamento de proteção contra incêndios
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+4 - Equipamento de navegação
+
+Notas aplicáveis à secção 4: Equipamento de navegação
+
+Coluna 5: A referência à série IEC 61162 remete para as seguintes normas de referência aplicáveis a equipamento e sistemas de navegação e radiocomunicação marítimas - interfaces digitais:
+
+a) IEC 61162-1 ed4.0 (2010-11) - Parte 1: Emissor único e múltiplos recetores.
+
+b) IEC 61162-2 ed1.0 (1998-09) - Parte 2: Transmissão de alta velocidade com um só emissor e múltiplos recetores.
+
+c) IEC 61162-3 ed1.1 consol. com alt1 (2010-11) - Parte 3: Instrumentos com rede de dados em série:
+
+d) IEC 61162-3 ed1.0 (2008-05) - Parte 3: Instrumentos com rede de dados em série;
+
+e) IEC 61162-3-alt1 ed1.0 (2010-06) Alteração 1 - Parte 3: Instrumentos com rede de dados em série.
+
+f) IEC 61162-450 ed1.0 (2011-06) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
+
+A série EN 61162 remete para as seguintes normas de referência aplicáveis a equipamento e sistemas de navegação e radiocomunicação marítimas - interfaces digitais:
+
+a) EN 61162-1 (2011) - Parte 1: Emissor único e múltiplos recetores.
+
+b) EN 61162-2 (1998) - Parte 2: Transmissão de alta velocidade com um só emissor e múltiplos recetores.
+
+c) EN 61162-3 (2008) - Parte 3: Instrumentos com rede de dados em série:
+
+- EN 61162-3-alt1 (2010) Alteração 1 - Parte 3: Instrumentos com rede de dados em série.
+
+d) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+5 - Equipamento de radiocomunicações
+
+Notas aplicáveis à secção 5: Equipamento de radiocomunicações.
+
+Coluna 5: Em caso de incompatibilidade entre as prescrições da circular da IMO MSC/Circ.862 e as normas de ensaio do produto, prevalecem as prescrições da circular MSC/Circ.862.
+
+Coluna 5:
+
+A referência à série IEC 61162 remete para as seguintes normas de referência aplicáveis a equipamento e sistemas de navegação e radiocomunicação marítimas - interfaces digitais:
+
+a) IEC 61162-1 ed4.0 (2010-11) - Parte 1: Emissor único e múltiplos recetores.
+
+b) IEC 61162-2 ed1.0 (1998-09) - Parte 2: Transmissão de alta velocidade com um só emissor e múltiplos recetores.
+
+c) IEC 61162-3 ed1.1 consol. com alt1 (2010-11) - Parte 3: Instrumentos com rede de dados em série:
+
+d) IEC 61162-3 ed1.0 (2008-05) - Parte 3: Instrumentos com rede de dados em série;
+
+- IEC 61162-3-alt1 ed1.0 (2010-06) Alteração 1 - Parte 3: Instrumentos com rede de dados em série.
+
+e) IEC 61162-450 ed1.0 (2011-06) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
+
+A série EN 61162 remete para as seguintes normas de referência aplicáveis a equipamento e sistemas de navegação e radiocomunicação marítimas - interfaces digitais:
+
+a) EN 61162-1 (2011) - Parte 1: Emissor único e múltiplos recetores;
+
+b) EN 61162-2 (1998) - Parte 2: Transmissão de alta velocidade com um só emissor e múltiplos recetores;
+
+c) EN 61162-3 (2008) - Parte 3: Instrumentos com rede de dados em série:
+
+d) - EN 61162-3-alt1 (2010) Alteração 1 - Parte 3: Instrumentos com rede de dados em série
+
+e) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+6 - Equipamento prescrito pela COLREG 72
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+7 - Equipamento de segurança para graneleiros
+
+Nenhum item.
+
+8 - Equipamento prescrito no capítulo II-1 da SOLAS, Construção - estrutura, subdivisão e estabilidade, máquinas e instalações elétricas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+ANEXO A.2
+
+Equipamentos para os quais não existem ainda normas de ensaio pormenorizadas
+
+em instrumentos internacionais
+
+1 - Meios de salvação
+
+Coluna 4: É aplicável a circular IMO MSC/Circ. 980, exceto quando substituída pelos instrumentos específicos indicados.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+2 - Prevenção da poluição marinha
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+3 - Equipamento de proteção contra incêndios
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+4 - Equipamento de navegação
+
+Notas aplicáveis à secção 4: Equipamento de navegação.
+
+Colunas 3 e 4: As referências ao capítulo V da SOLAS devem entender-se como referências ao capítulo V da SOLAS 74 conforme alterado pela 73.ª sessão do MSC e que entrou em vigor em 1 de julho de 2002.
+
+Coluna 5:
+
+A referência à série IEC 61162 remete para as seguintes normas de referência aplicáveis a equipamento e sistemas de navegação e radiocomunicação marítimas - interfaces digitais:
+
+a) IEC 61162-1 ed4.0 (2010-11) - Parte 1: Emissor único e múltiplos recetores.
+
+b) IEC 61162-2 ed1.0 (1998-09) - Parte 2: Transmissão de alta velocidade com um só emissor e múltiplos recetores.
+
+c) IEC 61162-3 ed1.1 consol. com alt1 (2010-11) - Parte 3: Instrumentos com rede de dados em série:
+
+- IEC 61162-3 ed1.0 (2008-05) - Parte 3: Instrumentos com rede de dados em série;
+
+- IEC 61162-3-alt1 ed1.0 (2010-06) Alteração 1 - Parte 3: Instrumentos com rede de dados em série.
+
+d) IEC 61162-450 ed1.0 (2011-06) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
+
+A referência à série EN 61162 remete para as seguintes normas de referência aplicáveis a equipamento e sistemas de navegação e radiocomunicação marítimas - interfaces digitais:
+
+a) EN 61162-1 (2011) - Parte 1: Emissor único e múltiplos recetores.
+
+b) EN 61162-2 (1998) - Parte 2: Transmissão de alta velocidade com um só emissor e múltiplos recetores.
+
+c) EN 61162-3 (2008) - Parte 3: Instrumentos com rede de dados em série:
+
+d) - EN 61162-3-alt1 (2010) Alteração 1 - Parte 3: Instrumentos com rede de dados em série
+
+e) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+5 - Equipamento de radiocomunicações
+
+Notas aplicáveis à secção 5: Equipamento de radiocomunicações
+
+Coluna 5:
+
+A referência à série IEC 61162 remete para as seguintes normas de referência aplicáveis a equipamento e sistemas de navegação e radiocomunicação marítimas - interfaces digitais:
+
+a) IEC 61162-1 ed4.0 (2010-11) - Parte 1: Emissor único e múltiplos recetores.
+
+b) IEC 61162-2 ed1.0 (1998-09) - Parte 2: Transmissão de alta velocidade com um só emissor e múltiplos recetores.
+
+c) IEC 61162-3 ed1.1 consol. com alt1 (2010-11) - Parte 3: Instrumentos com rede de dados em série:
+
+- IEC 61162-3 ed1.0 (2008-05) - Parte 3: Instrumentos com rede de dados em série;
+
+- IEC 61162-3-alt1 ed1.0 (2010-06) Alteração 1 - Parte 3: Instrumentos com rede de dados em série.
+
+d) IEC 61162-450 ed1.0 (2011-06) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
+
+A referência à série EN 61162 remete para as seguintes normas de referência aplicáveis a equipamento e sistemas de navegação e radiocomunicação marítimas - interfaces digitais:
+
+a) EN 61162-1 (2011) - Parte 1: Emissor único e múltiplos recetores.
+
+b) EN 61162-2 (1998) - Parte 2: Transmissão de alta velocidade com um só emissor e múltiplos recetores.
+
+c) EN 61162-3 (2008) - Parte 3: Instrumentos com rede de dados em série:
+
+- EN 61162-3-alt1 (2010) Alteração 1 - Parte 3: Instrumentos com rede de dados em série.
+
+d) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+6 - Equipamento prescrito pela COLREG 72
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+7 - Equipamento de segurança para graneleiros
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)
+
+8 - Equipamento prescrito no capítulo II-1 da SOLAS
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10400/0332703365.pdf)

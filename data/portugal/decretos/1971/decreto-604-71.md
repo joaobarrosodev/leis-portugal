@@ -1,0 +1,259 @@
+---
+schema_version: '1.0'
+id: pt:dre:165860:por
+title: Decreto n.º 604/71
+short_title: null
+summary: Transfere verbas dentro dos orçamentos dos Ministérios do Interior e da Educação Nacional e abre créditos destinados
+  a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral do Estado
+  em vigor
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: 604/71
+official_date: null
+publication_date: '1971-12-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 303/1971, Série I de 1971-12-30
+  number: '303'
+  series: I
+  supplement: null
+  pages: 2033 - 2034
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30300/20332034.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '165860'
+  dre_path: /dr/detalhe/decreto/604-1971-165860
+  internal: pt:dre:165860:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/604-1971-165860
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/604-1971-165860
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7c77eac93197ed629db304215227e0908313a49751bee72e3bd0907bdc92ffff
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:20:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 604/71
+
+de 30 de Dezembro
+
+Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diariodarepublica.pt/dr/detalhe/decreto/16670-1929-624998), de 27 de Março de 1929, no artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, nas alíneas b), e) e g) do artigo 35.º do referido [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), no artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, mediante propostas aprovadas pelo Ministro das Finanças, nos termos do n.º 1.º do artigo 9.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933, e nos do mencionado artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659):
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+
+Ministério do Interior
+
+No capítulo 3.º:
+
+Do artigo 45.º, n.º 1) «Pessoal dos quadros ...»: Viana do Castelo ... -3000$00
+
+Para o artigo 47.º, n.º 2), alínea 1 «Subsídios de residência aos governadores civis ...» ... +3000$00
+
+Ministério da Educação Nacional
+
+No capítulo 5.º:
+
+Do artigo 879.º, n.º 3) «Pessoal assalariado» ... -75800$00
+
+Para o artigo 880.º, n.º 1) «Gratificações pela acumulação do serviço de regências» ... +75800$00
+
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 33484531$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+
+Encargos Gerais da Nação
+
+Capítulo 2.º «Presidência do Conselho - Junta Nacional de Investigação Científica e Tecnológica»:
+
+Artigo 77.º, n.º 1) «Para pagamento dos encargos essenciais de qualquer natureza da Junta, ...» ... 2000000$00
+
+Capítulo 10.º «Secretaria de Estado da Aeronáutica - Gabinete do Secretário de Estado»:
+
+Artigo 180.º, n.º 1) «Pagamento de serviços ...», alínea 1 «Adidos aeronáuticos em»:
+
+Rio de Janeiro ... 6250$00
+
+Washington ... 21081$60
+
+... 2027331$60
+
+Ministério do Exército
+
+Capítulo 3.º «Serviços de instrução - Fundo de Instrução do Exército»:
+
+Artigo 193.º, n.º 1) «Participações em cobranças ...», alínea 1 «Encargos de carácter educativo ...» ... 1500000$00
+
+Ministério da Marinha
+
+Capítulo 3.º «Superintendência dos Serviços do Pessoal - Serviço do pessoal - Sargentos e praças do activo»:
+
+Artigo 43.º, n.º 2) «Alimentação», alínea 1 «Rações ...» ... 4000000$00
+
+Capítulo 10.º «Arsenal do Alfeite»:
+
+Artigo 298.º «Material e outras despesas» ... 10000000$00
+
+Capítulo 11.º «Abono de família aos funcionários»:
+
+Artigo 300.º «Despesas com o abono de família aos funcionários ...» ... 600000$00
+
+Capítulo 2.º «Despesas de anos económicos findos»:
+
+Artigo 301.º «Despesas de anos económicos findos» ... 500000$00
+
+... 15100000$00
+
+Ministério da Educação Nacional
+
+Capítulo 2.º «Secretaria-Geral»:
+
+Artigo 23.º, n.º 3) «Pagamento de serviços ...», alínea 1 «Exames e concursos» ... 4000000$00
+
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+
+Estabelecimentos diversos
+
+Instituto Português de Oncologia de Francisco Gentil
+
+Artigo 516.º, n.º 2) «Subsídios a cofres ...»:
+
+Alínea 3 «Centro Anticanceroso de Coimbra» ... 988200$00
+
+Alínea 4 «Reforço do orçamento das receitas próprias» ... 9800000$00
+
+Capítulo 8.º «Serviços do ciclo preparatório do ensino secundário - Escolas preparatórias»:
+
+Artigo 1001.º, n.º 1) «Móveis»:
+
+Escola Preparatória do Prof. Mendes dos Remédios, Nisa ... 5500$00
+
+Artigo 1002.º, n.º 1) «De imóveis», alínea 1 «Prédios urbanos»:
+
+Escola Preparatória de D. Nuno Álvares Pereira, Montalegre ... 48200$00
+
+... 14841900$00
+
+Ministério das Corporações e Previdência Social
+
+Capítulo 6.º «Direcção-Geral do Trabalho e Corporações»:
+
+Inspecção do Trabalho
+
+Artigo 86.º, n.º 1) «Luz, ...» ... 15300$00
+
+... 33484531$60
+
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+
+Orçamento das receitas do Estado
+
+Capítulo 4.º, artigo 91.º «Fundo de Instrução do Exército» ... 1500000$00
+
+Capítulo 7.º, artigo 171.º «Reembolso das importâncias entregues pelo Ministério da Marinha ao Arsenal do Alfeite» ... 10000000$00
+
+Capítulo 7.º, artigo 172.º «Reembolso das despesas com a alimentação dos oficiais, sargentos e praças da Armada» ... 4000000$00
+
+... 15500000$00
+
+Encargos Gerais da Nação
+
+Capítulo 10.º, artigo 183.º, n.º 1) ... 2027331$60
+
+Ministério da Marinha
+
+Capítulo 3.º, artigo 38.º, n.º 1), alínea 1 ... 500000$00
+
+Capítulo 3.º, artigo 41.º, n.º 1) ... 600000$00
+
+... 1100000$00
+
+Ministério da Educação Nacional
+
+Capítulo 6.º, artigo 936.º, n.º 1), alínea 1 ... 14788200$00
+
+Capítulo 8.º, artigo 1002.º, n.º 1), alínea 1 ... 48200$00
+
+Capítulo 8.º, artigo 1007.º, n.º 1) - Escola Preparatória do Prof. Mendes dos Remédios, Nisa ... 5500$00
+
+... 14841900$00
+
+Ministério das Corporações e Previdência Social
+
+Capítulo 4.º, artigo 33.º, n.º 1) ... 15300$00
+
+... 33484531$60
+
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
+
+Marcello Caetano - Horácio José de Sá Viana Rebelo - João Mota Pereira de Campos - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
+
+Promulgado em 22 de Dezembro de 1971.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

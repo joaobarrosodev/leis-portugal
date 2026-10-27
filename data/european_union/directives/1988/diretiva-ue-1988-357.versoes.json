@@ -1,0 +1,416 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31988L0357:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0357-20050611",
+ "dre_path": null,
+ "source_lastmod": "2005-06-11",
+ "versions": [
+  {
+   "date": "2005-06-11",
+   "future": false,
+   "celex": "01988L0357-20050611",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c995c97e7f3fa912",
+    "ffc348f463b781ad",
+    "7fabed8a0a46afb5",
+    "79f2b322a55a4c10",
+    "f200cc32c3110bac",
+    "dd52d4d38a06e477",
+    "5c7d01ead4b4f4a6",
+    "4c8bdeab3d91ec7d",
+    "44fb143d97606e11",
+    "3738209f53a008cc",
+    "f30b7d1cf4be070c",
+    "c80005a18baa4976",
+    "b924a163eb172b3a",
+    "134cd667eb933d1d",
+    "6c7ea333ec15682b",
+    "756664fe7c038d74",
+    "9db704600627e53c",
+    "2a78a057f49d4dec",
+    "902f6ed309f4c762",
+    "6923fffef41ed027",
+    "05afcba6c04a4330",
+    "cc5bfed57f18fe20",
+    "f6c6d374935181b0",
+    "81c48ff1bcdd95b7",
+    "662cf62f00c33127",
+    "32e2879abaf5530e",
+    "594c062bb20e72b5",
+    "4f8efffddfe96470",
+    "bbdde795c58f027f",
+    "5004c903497d9581",
+    "3ae38e1483988817",
+    "ef5ac2c169018a56",
+    "70e61cf202ce5ff4",
+    "0e51aa44ef43eb61",
+    "516d92937179b898",
+    "ef5f069223d811de",
+    "60cb81cfd49201ac",
+    "d664376e2a8dcecd",
+    "1227c1ab00f8d743",
+    "1fa58b7dae6aca87",
+    "499e3a06e278b261",
+    "349816532bd6d3e2",
+    "9e8d7a01a538cfc5",
+    "4d83d7f82d02126d"
+   ]
+  }
+ ],
+ "fragments": {
+  "c995c97e7f3fa912": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Junho de 1988\n\nrelativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro directo não vida, que fixa disposições destinadas a facilitar o exercício da livre prestação de serviços e que altera a Directiva 73/239/CEE\n\n(88/357/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.º 2 do seu artigo 57.º e o seu artigo 66.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#E0003)),\n\nConsiderando que é necessário desenvolver o mercado interno de seguros e que, para atingir esse objectivo, convém facilitar às empresas de seguros que tenham a sua sede social na Comunidade a prestação de serviços nos Estados-membros e, por essa forma, permitir aos tomadores de seguros o recurso, não apenas a seguradores estabelecidos no seu país, mas também a seguradores que tenham a sua sede social na Comunidade e estejam estabelecidos noutros Estados-membros;\n\nConsiderando que, nos termos do Tratado, é proibida, a partir do fim do período transitório, qualquer discriminação em matéria de prestação de serviços baseada no facto de uma empresa não estar estabelecida no Estado-membro onde a prestação é executada; que tal proibição se aplica às prestações de serviços efectuadas a partir de qualquer estabelecimento da Comunidade, quer se trate da sede social de uma empresa, quer de uma agência ou sucursal;\n\nConsiderando que, por razões práticas, convém definir a prestação de serviços, tendo em conta, por um lado, a localização do estabelecimento do segurador e, por outro, o local do risco; que convém portanto adoptar também uma definição de situação de risco; que convém além disso demarcar a actividade exercida por meio de um estabelecimento da actividade exercida em livre prestação de serviços;\n\nConsiderando que convém completar as disposições da Primeira Directiva (73/239/CEE) do Conselho, de 24 de Julho de 1973, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguro directo não vida e ao seu exercício ([^4^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#E0004)), a seguir designada «Primeira Directiva», com a última redacção que lhe foi dada pela Directiva 87/344/CEE ([^5^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#E0005)), em particular a fim de especificar com clareza os poderes e meios de fiscalização das autoridades de controle; que convém, além disso, prever disposições específicas relativas ao acesso, exercício e controle da actividade desenvolvida em livre prestação de serviços;\n\nConsiderando que convém conceder aos tomadores de seguros que, devido à sua qualidade, à sua importância, ou à natureza do risco a segurar, não necessitam de protecção particular no Estado onde o risco se situa, total liberdade para recorrer a um mercado de seguros o mais amplo possível; que convém, por outro lado, garantir um nível adequado de protecção aos outros tomadores de seguros;\n\nConsiderando que a preocupação de proteger os tomadores de seguros e de evitar distorções justifica uma coordenação das regras da congruência prevista pela Primeira Directiva;\n\nConsiderando que persistem divergências entre as disposições em vigor nos Estados-membros no que respeita ao direito do contrato de seguro; que pode ser concedida, em certos casos, segundo regras que tomem em consideração circunstâncis específicas, a liberdade de se escolher como lei aplicável ao contrato uma lei diferente da do Estado onde o risco se situa;\n\nConsiderando que convém incluir no campo de aplicação da presente directiva os seguros obrigatórios, exigindo contudo que o contrato deste tipo de seguros obedeça às disposições específicas relativas a esses seguros previstas pelo Estado-membro que impõe a sua obrigatoriedade;\n\nConsiderando que convém reforçar as disposições da Primeira Directiva relativas à transferência de carteiras e completá-las por meio de disposições que visem especificamente o caso em que a carteira de contratos celebrados em prestação de serviços seja transferida para uma outra empresa;\n\nConsiderando que convém excluir do campo de aplicação das disposições específicas da livre prestação de serviços determinados riscos para os quais as regras especiais adoptadas pelas autoridades dos Estados-membros devido à sua natureza e às suas repercussões sociais tornam desapropriada, nessa medida, a aplicação das referidas disposições; que convém voltar a analisar essas exclusões após um determinado período de aplicação da presente directiva;\n\nConsiderando que, no estado actual da coordenação, a fim de proteger os tomadores de seguros, convém conceder aos Estados-membros a faculdade de limitar o exercício simultâneo da actividade em livre prestação de serviços e da actividade por estabelecimento; que semelhante limitação não pode ser prevista nos casos em que os tomadores de seguros não necessitem de uma tal protecção;\n\nConsiderando que convém submeter o acesso ao exercício da livre prestação de serviços a procedimentos que garantam o respeito por parte da empresa seguradora das disposições relativas tanto às garantias financeiras como às condições de seguro; que tais procedimentos podem ser simplificados na medida em que a actividade em prestação de serviços se destine a tomadores de seguros que, devido à sua qualidade, à sua importância, ou à natureza do risco a segurar, não tenham necessidade de uma protecção particular no Estado onde o risco se situa;\n\nConsiderando que importa prever uma colaboração particular no domínio da livre prestação de serviços entre as competentes autoridades de controlo dos Estados-membros e entre estas autoridades e a Comissão; que convém igualmente prever um regime de sanções aplicáveis sempre que a empresa prestadora de serviços não respeite as disposições do Estado-membro da prestação;\n\nConsiderando que, enquanto se aguarda uma coordenação posterior, convém submeter as disposições de carácter técnico às regras e ao controlo do Estado-membro da prestação sempre que a actividade de prestação de serviços diga respeito a riscos para os quais o Estado destinatário da prestação queira oferecer uma protecção particular aos tomadores; que, em contrapartida, as disposições de carácter técnico ficam submetidas às regras e ao controlo do Estado-membro onde o segurador está estabelecido sempre que este intuito de protecção do tomador não tenha fundamento;\n\nConsiderando que há Estados-membros que não sujeitam as operações de seguros a qualquer tipo de imposto indirecto, enquanto que a maioria aplica taxas específicas e outras formas de tributação, incluindo sobrecargas destinadas a organismos de compensação; que, nos Estados-membros em que essas taxas e contribuições existem, a sua estrutura e valor divergem sensivelmente; que é conveniente evitar que as diferenças existentes se traduzam em distorções de concorrência para os serviços de seguros entre os Estados-membros; que, sob reserva da uma posterior harmonização, a aplicação do regime fiscal e de outras formas de contribuição previstas pelo Estado-membro onde o risco se situa pode remediar tal inconveniente e que compete aos Estados-membros estabelecer as modalidades destinadas a garantir a cobrança dessas taxas e contribuições;\n\nConsiderando que convém evitar que a ausência de coordenação na aplicação da presente directiva e da Directiva 78/473/CEE do Conselho, de 30 de Maio de 1978, relativa à coordenação das disposições legislativas, regulamentares e administrativas em matéria de co-seguro comunitário ([^6^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#E0006)), dê lugar à existência, em cada Estado-membro, de três regimes diferentes; que convém para isso definir os riscos susceptíveis de serem cobertos em co-seguro comunitário pelos mesmos critérios que definem os «grandes riscos» na presente directiva;\n\nConsiderando que, nos termos do artigo 8.ºC do Tratado, convém ter em conta a amplitude do esforço que deve ser feito por algumas economias que apresentam diferenças de desenvolvimento; que convém, portanto, conceder a certos Estados-membros um regime transitório que permita uma aplicação gradual das disposições da presente directiva específicas para a livre prestação de serviços,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "79f2b322a55a4c10": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva tem por objecto:\n\na) Completar a Primeira Directiva 73/239/CEE;\n\nb) Fixar as disposições especiais relativas à livre prestação de serviços para as empresas e ramos de seguros referidos na mencionada directiva."
+  },
+  "f200cc32c3110bac": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) Primeira Directiva:\n\nb) Empresa:\n\n— para efeitos da aplicação dos títulos I e II, qualquer empresa que tenha recebido uma autorização administrativa nos termos do artigo 6.º ou do artigo 23.º da Primeira Directiva,\n\n— para efeitos da aplicação dos títulos III e V, qualquer empresa que tenha recebido uma autorização administrativa nos termos do artigo 6.º da referida directiva;\n\nc) Estabelecimento:\n\nd) Estado-membro onde o risco se situa:\n\n— O Estado-membro onde se encontrem os bens, sempre que o seguro respeite, quer a imóveis, quer a imóveis e ao seu conteúdo, na medida em que este último estiver coberto pela mesma apólice de seguro:\n\n— o Estado-membro de matrícula, sempre que o seguro respeite a veículos de qualquer tipo,\n\n— o Estado-membro em que o tomador tiver subscrito o contrato, no caso de um contrato de duração igual ou inferior a quatro meses relativo a riscos ocorridos durante uma viagem ou férias, qualquer que seja o ramo em questão,\n\n— o Estado-membro onde o tomador tenha a sua residência habitual ou, quando o tomador for uma pessoa colectiva, o Estado-membro onde se situe o estabelecimento da pessoa colectiva a que o contrato se refere, em todos os casos não explicitamente referidos nos travessões anteriores;\n\ne) Estado-membro do estabelecimento:\n\nf) Estado-membro da prestação de serviços:"
+  },
+  "dd52d4d38a06e477": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos da aplicação da Primeira Directiva e da presente directiva, é equiparada a agência ou sucursal qualquer presença permanente de uma empresa no território de um Estado-membro, mesmo que essa presença não tenha assumido a forma de uma sucursal ou agência e se exerça através de um simples escritório gerido por pessoal da própria empresa, ou de uma pessoa independente mas mandatada para agir permanentemente em nome da empresa como o faria uma agência."
+  },
+  "5c7d01ead4b4f4a6": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNa acepção da presente directiva e da Primeira Directiva, as condições gerais e especiais das apólices não incluem as condições particulares destinadas a responder num determinado caso às circunstâncias específicas do risco a cobrir."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "44fb143d97606e11": {
+   "fragment_id": "Disposições complementares à Primeira Directiva",
+   "type": "divisao",
+   "heading": "Disposições complementares à Primeira Directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições complementares à Primeira Directiva"
+  },
+  "3738209f53a008cc": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO artigo 5.º da Primeira Directiva é completado pela alínea seguinte:\n\n«d) Grandes riscos:\n\ni) os riscos classificados nas subdivisões 4, 5, 6, 7, 11 e 12 do ponto A do anexo,\n\nii) os riscos classificados nas subdivisões 14 e 15 do ponto A do anexo sempre que o tomador exerça a título profissional uma actividade industrial, comercial ou liberal e o risco seja relativo a essa actividade,\n\niii) os riscos classificados nas subdivisões 8, 9, 13 e 16 do ponto A do anexo desde que o tomador exceda os valores limite abaixo indicados em, pelos menos, dois dos três critérios seguintes:\n\n— total do balanço: 12,4 milhões de ECUs,\n\n— montante líquido do volume de negócios: 24 milhões de ECUs.\n\n— número médio de empregados durante o exercício: 500.\n\n— total do balanço: 6,2 milhões de ECUs,\n\n— montante líquido do volume de negócios: 12,8 milhões de ECUs,\n\n— número médio de empregados durante o exercício: 250."
+  },
+  "f30b7d1cf4be070c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nPara efeitos da aplicação do n.º 2, primeiro parágrafo, do artigo 15.º e do artigo 24.º da Primeira Directiva, os Estados-membros aplicarão as disposições do Anexo I da presente directiva no que diz respeito às regras de congruência."
+  },
+  "c80005a18baa4976": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A lei aplicável aos contratos de seguro abrangidos pela presente directiva e que cubram riscos situados nos Estados-membros será determinada de acordo com as seguintes disposições:\n\na) Sempre que o tomador do seguro tiver a sua residência habitual ou a sua administração central no território do Estado-membro onde o risco se situa, a lei aplicável ao contrato de seguro é a desse mesmo Estado-membro. Todavia, sempre que a legislação desse Estado o permitir, as partes poderão escolher a lei de outro país;\n\nb) Sempre que o tomador do seguro não tiver a sua residência habitual ou a sua administração central no Estado-membro onde o risco se situa, as partes do contrato de seguro têm o direito de aplicar, quer a lei do Estado-membro onde o risco se situa, quer a lei do país onde o tomador tiver a sua residência habitual ou a sua administração central;\n\nc) Sempre que o tomador do seguro exerça uma actividade comercial, industrial ou liberal e o contrato cubra dois ou mais riscos, relativos a essas actividades e situados em diversos Estados-membros, a liberdade de escolha da lei aplicável ao contrato estende-se às lais desses Estados-membros e do país onde o tomador tiver a sua residência habitual ou a sua administração central;\n\nd) Não obstante as alíneas b) e c), sempre que os Estados-membros referidos nessas alíneas concedam uma maior liberdade de escolha da lei aplicável ao contrato, as partes poderão invocar essa liberdade;\n\ne) Não obstante as alíneas a), b) e c), sempre que os riscos cobertos pelo contrato se circunscrevam a sinistros que possam ocorrer num Estado-membro diferente daquele onde o risco se situa, tal como definido na alínea d) do artigo 2.º, será sempre permitido às partes aplicarem a legislação do primeiro Estado;\n\nf) Relativamente aos riscos referidos na alínea d) do artigo 5.º da Directiva 73/239/CEE, as partes no contrato podem escolher livremente a lei aplicável;\n\ng) Sempre que todos os outros elementos da situação, no momento daquela escolha, se encontrarem localizados num único Estado-membro, a lei escolhida pelas partes nos casos referidos nas alíneas a) ou f) não poderá prejudicar as disposições imperativas desse Estado, ou seja, as disposições que a lei desse Estado não permita que sejam derrogadas por contrato;\n\nh) A escolha referida nas alíneas anteriores deve ser expressa ou resultar inequivocamente das cláusulas do contrato ou das circunstâncias da causa. Se não for esse o caso, ou se não tiver sido feita qualquer escolha, o contrato reger-se-á pela lei do país que com ele apresente maiores afinidades, de entre aqueles países que entrem em linha de conta nos termos das alíneas anteriores. Todavia, se uma parte do contrato puder separar-se do resto do contrato e apresentar uma maior afinidade com outro de entre os países que entrem em linha de conta nos termos das alíneas anteriores, poder-se-á aplicar a essa parte do contrato, a título excepcional, a lei desse outro país. Presume-se que o contrato apresenta maiores afinidades com o Estado-membro onde o risco se situa;\n\ni) Sempre que um Estado integre diversas unidades territoriais e cada uma delas possua as suas próprias regras de direito em matéria de obrigações contratuais, cada unidade é considerada como um país para efeitos da determinação da lei aplicável por força da presente directiva.\n\n2. O presente artigo não pode prejudicar a aplicação da legislação do país do juiz que rege imperativamente a situação, qualquer que seja a lei aplicável ao contrato.\n\nSe a legislação de um Estado-membro o previr, pode ser dada execução às disposições imperativas da lei do Estado-membro onde o risco se situa ou de um Estado-membro que imponha a obrigação de seguro, se e na medida em que, segundo a legislação desses países, essas disposições forem aplicáveis independentemente da lei que rege o contrato.\n\nSempre que o contrato cubra riscos situados em mais do que um Estado-membro, o contrato é considerado, para aplicação do presente número, como representando diversos contratos, em que cada um dirá apenas respeito a um único Estado-membro.\n\n3. Sob reserva dos números anteriores, os Estados-membros aplicarão aos contratos de seguro referidos na presente directiva as respectivas regras gerais de direito internacional privado em matéria de obrigações contratuais."
+  },
+  "b924a163eb172b3a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Nas condições enunciadas no presente artigo, as empresas seguradoras podem propor e celebrar contratos de seguro obrigatório em conformidade com as regras da presente directiva e da Primeira Directiva.\n\n2. Sempre que um Estado-membro imponha a obrigação de subscrever um seguro, o contrato só satisfaz essa obrigação se estiver em conformidade com as disposições específicas relativas a esse seguro que tenham sido previstas por esse Estado-membro.\n\n3. Sempre que, em caso de seguro obrigatório, houver uma contradição entre a lei do Estado-membro onde o risco se situa e a do Estado-membro que impõe a obrigação de subscrever um seguro, prevalece esta última.\n\na) Sem prejuízo da alínea c) do presente número, o n.º 2, terceiro parágrafo, do artigo 7.º aplica-se sempre que o contrato de seguro proporcione cobertura em vários Estados-membros, dos quais pelo menos um imponha a obrigação de subscrição de um seguro;\n\nc) Um Estado-membro pode, em derrogação ao artigo 7.º, determinar que a lei aplicável aos contratos de seguro obrigatório seja a do Estado que impõe a obrigação de seguro;\n\nd) Sempre que, num Estado-membro que imponha a obrigação de seguro, o segurador deva declarar qualquer cessação de garantia às autoridades competentes, esta cessação só será oponível aos terceiros lesados nas condições previstas pela legislação desse Estado.\n\na) Cada Estado-membro comunicará à Comissão os riscos para os quais a sua legislação impõe um seguro obrigatório, assinalando:\n\n— as disposições específicas relativas a este seguro,\n\n— os elementos que deverão constar do certificado que o segurador deverá passar ao segurado, sempre que este Estado exija uma prova de que a obrigação de seguro foi cumprida. Qualquer Estado-membro poderá exigir que de entre esses elementos conste uma declaração do segurador segundo a qual o contrato está conforme com as disposições específicas relativas a esse seguro.\n\nb) A comissão publicará no *Jornal Oficial das Comunidades Europeias* as indicações referidas na alínea a);\n\nc) Todos os Estados-membros aceitarão como prova de que foi cumprida a obrigação de seguro um certificado cujo teor esteja conforme com o disposto no segundo travessão da alínea a)."
+  },
+  "134cd667eb933d1d": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. No artigo 9.º e no n.º 1 do artigo 11.º da Primeira Directiva, o último parágrafo passa a ter a seguinte redacção:\n\n«Contudo, as indicações referidas nas alíneas a) e b) relativas às condições gerais e especiais e às tarifas não são exigidas no caso dos riscos referidos na alínea d) do artigo 5.º»\n\n2. Nos artigos 8.º e 10.º da Primeira Directiva, o n.º 3 passa a ter a seguinte redacção:\n\n«3. A coordenação actual não obsta a que os Estados-membros mantenham ou introduzam disposições legislativas, regulamentares ou administrativas, nomeadamente no que diz respeito à necessidade de uma qualificação técnica dos administradores e à aprovação dos estatutos, das condições gerais e especiais das apólices de seguro, das tarifas e de qualquer outro documento necessário ao exercício normal da fiscalização.\n\nContudo, no que diz respeito aos riscos referidos na alínea d) do artigo 5.º, os Estados-membros não poderão prever disposições que exijam a aprovação ou a comunicação sistemática das condições gerais e especiais das apólices de seguro, das tarifas e dos formulários e outros inpressos que a empresa tencione utilizar nas suas relações com os tomadores. A fim de fiscalizar a observância das disposições legislativas, administrativas ou regulamentares relativas a esses riscos, os Estados-membros apenas podem exigir a comunicação não sistemática dessas condições e desses outros documentos, sem que tal exigência possa constituir para a empresa uma condição prévia para o exercício da sua actividade.\n\nNo que respeita aos riscos referidos na alínea d) do artigo 5.º, os Estados-membros só podem manter ou introduzir a notificação prévia ou a aprovação dos aumentos de tarifas propostos enquanto elementos de um sistema geral de controlo de preços.\n\nA actual coordenação também não impede que os Estados-membros submetam as empresas que solicitem ou que tenham obtido uma autorização para o ramo 18 do ponto A do anexo à fiscalização dos meios directos ou indirectos em pessoal ou material, incluindo a qualificação das equipas médicas e a qualidade do equipamento de que dispõem para fazer face aos compromissos decorrentes desse ramo»"
+  },
+  "6c7ea333ec15682b": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO artigo 19.º da Primeira Directiva é completado pelo seguinte número:\n\n«3. Cada Estado-membro tomará todas as disposições úteis para que as autoridades de fiscalização das empresas de seguros disponham dos poderes e meios necessários ao controlo das actividades das empresas de seguros estabelecidas no seu território, incluindo as actividades exercidas fora do seu território, nos termos das directivas relativas a essas actividades e com vista à sua aplicação.\n\nTais poderes e meios devem, nomeadamente, dar às autoridades de fiscalização a possibilidade de:\n\n— se informarem de modo pormenorizado sobre a situação da empresa e sobre o conjunto das suas actividades, nomeadamente:\n\n— recolhendo informações ou exigindo a apresentação de documentos relativos à actividade seguradora,\n\n— procedendo a verificações *in loco* nas instalações da empresa,\n\n— tomar contra a empresa todas as medidas adequadas e necessárias para assegurar que as suas actividades permaneçam conformes às disposições legislativas, regulamentares e administrativas que a empresa deve observar nos diversos Estados-membros e, nomeadamente, ao programa de actividade, na medida em que este permaneça obrigatório, bem para evitar qualquer irregularidade lesiva dos interesses dos segurados,\n\n— assegurar a aplicação das medidas requeridas pelas autoridades de fiscalização, através de uma execução forçada, se necessário, recorrendo eventualmente às instâncias judiciais.\n\nOs Estados-membros podem igualmente prever a possibilidade de as autoridades de controlo obterem quaisquer informações relativas aos contratos na posse dos intermediários»"
+  },
+  "756664fe7c038d74": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. É suprimido o artigo 21.º da Primeira Directiva."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "2a78a057f49d4dec": {
+   "fragment_id": "Disposições especiais para a livre prestação de serviços",
+   "type": "divisao",
+   "heading": "Disposições especiais para a livre prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições especiais para a livre prestação de serviços"
+  },
+  "902f6ed309f4c762": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Aplica-se o disposto no presente título sempre que, a partir de um estabelecimento situado num Estado-membro, uma empresa cubra um risco situado noutro Estado-membro, na acepção da alínea d) do artigo 2.º; este último é o Estado-membro da prestação de serviços, na acepção do presente título.\n\n2. O disposto no presente título não se aplica às operações e empresas, bem como aos organismos a que não se aplica a Primeira Directiva, nem tão pouco aos riscos a cobrir pelos organismos de direito público a que se refere o artigo 4.º dessa mesma directiva."
+  },
+  "6923fffef41ed027": {
+   "fragment_id": "Artigo 12.ºA",
+   "type": "artigo",
+   "heading": "Artigo 12.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.ºA\n\n1. O presente artigo aplica-se sempre que uma empresa, através de um estabelecimento situado num Estado-membro, cubra um risco, que não a responsabilidade civil do transportador, classificado no ramo 10 do ponto A do anexo da Directiva 73/239/CEE, situado noutro Estado-membro.\n\n2. O Estado-membro de prestação de serviços determinará que a empresa se torne membro do seu serviço nacional e do seu fundo de garantia e participe no seu financiamento.\n\nContudo, não poderá ser exigido à empresa que efectue qualquer pagamento ou contribuição para o serviço nacional ou para o fundo de garantia do Estado-membro de prestação de serviços relativamente a riscos cobertos em regime de prestação de serviços que seja calculado numa base diferente da que é utilizada para as empresas que cubram riscos do ramo 10, com excepção da responsabilidade civil do transportador, por intermédio de um estabelecimento situado nesse Estado-membro, em função das receitas dos prémios desse ramo nesse Estado-membro ou do número de riscos desse ramo cobertos nesse Estado-membro.\n\n3. A presente directiva não obsta a que uma empresa seguradora seja obrigada a respeitar, nos serviços que propõe no Estado-membro de prestação de serviços, as normas em matéria de cobertura de riscos agravados aplicáveis às empresas estabelecidas.\n\n4. O Estado-membro de prestação de serviços determinará que a empresa proceda de modo a que as pessoas que reclamam uma indemnização decorrente de acontecimentos verificados no seu território não sejam colocadas numa situação menos favorável, em resultado do facto de a empresa cobrir um risco do ramo 10, com exclusão da responsabilidade civil do transportador, em regime de prestação de serviços, do que se essa cobertura fosse efectuada por intermédio de um estabelecimento situado nesse Estado-membro.\n\nPara esse efeito, o Estado-membro da prestação de serviços determinará que a empresa nomeie um representante residente ou estabelecido no seu território, que reunirá todas as informações necessárias relacionadas com os processos de indemnização e terá poderes suficientes para representar a empresa junto dos sinistrados que possam reclamar uma indemnização, incluindo o pagamento da indemnização, e para representar a empresa ou, se necessário, para a fazer representar perante os tribunais e autoridades desse Estado-membro no que se refere a esses pedidos de indemnização.\n\nO representante pode igualmente ser chamado a representar a empresa perante as autoridades competentes do Estado de prestação de serviços no que se refere ao controlo da existência e da validade de apólices de seguro de responsabilidade civil automóvel.\n\nO Estado-membro de prestação de serviços não pode exigir que a pessoa nomeada exerça por conta da empresa que a nomeou actividades para além das previstas no parágrafo anterior.[**►M4**](http://publications.europa.eu/resource/celex/32005L0014) —————**◄**\n\nA nomeação do representante não equivale por si só à abertura de uma sucursal ou agência para efeitos do disposto no n.º 2, alínea b), do artigo 6.º da Directiva 73/239/CEE, não sendo o representante definido como estabelecimento na acepção da alínea c) do artigo 2.º da presente directiva.\n\nSe a empresa de seguros não tiver designado um representante, os Estados-Membros podem decidir que o representante para sinistros designado nos termos do artigo 4.º da Directiva 2000/26/CE ([^8^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#E0008)) assuma as funções do representante a designar nos termos do presente número."
+  },
+  "05afcba6c04a4330": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nQualquer empresa que pretenda realizar pela primeira vez, num ou mais Estados-membros, as suas actividades em regime de livre prestação de serviços, deverá informar previamente as autoridades competentes do Estado-membro de origem, indicando a natureza dos riscos que se propõe cobrir."
+  },
+  "cc5bfed57f18fe20": {
+   "fragment_id": "Artigo 16.º:",
+   "type": "artigo",
+   "heading": "Artigo 16.º:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º:\n\n1. As autoridades competentes do Estado-membro de origem comunicarão, no prazo máximo de um mês a contar da data de notificação prevista no artigo 14.º, ao Estado-membro ou aos Estados-membros em cujo território uma empresa pretenda realizar as suas actividades em regime de livre prestação de serviços, os seguintes elementos:\n\na) Uma declaração certificando que a empresa dispõe do mínimo da margem de solvência, calculada em conformidade com os artigos 16.º e 17.º da Directiva 73/239/CEE;\n\nb) Os ramos que a empresa interessada está habilitada a explorar;\n\nc) A natureza dos riscos que a empresa se propõe cobrir no Estado-membro da prestação de serviços.\n\nSimultaneamente, aquelas autoridades notificarão a empresa interessada.\n\nQualquer Estado-membro em cujo território uma empresa pretenda cobrir, em prestação de serviços, os riscos classificados no ramo n.º 10 do ponto A do anexo à Directiva 73/239/CEE, sem incluir a responsabilidade civil do transportador, poderá exigir que a empresa:\n\n— comunique o nome e morada do representante referido no n.º 4 do artigo 12.ºA da presente directiva,\n\n— apresente uma declaração comprovativa de que a empresa se tornou membro do gabinete nacional e do fundo nacional de garantia do Estado-membro da prestação de serviços.\n\n2. Sempre que as autoridades competentes do Estado-membro de origem não comunicarem as informações referidas no n.º 1 no prazo previsto, informarão no mesmo prazo a empresa das razões dessa recusa. Esta recusa deverá poder ser objecto de recurso judicial no Estado-membro de origem.\n\n3. A empresa pode iniciar a sua actividade a partir da data em que for comprovadamente notificada da comunicação prevista no primeiro parágrafo do n.º 1."
+  },
+  "f6c6d374935181b0": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nQualquer alteração que a empresa pretenda introduzir nas indicações referidas no artigo 14.º fica sujeita ao procedimento previsto nos artigos 14.º e 16.º"
+  },
+  "81c48ff1bcdd95b7": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. Os riscos susceptíveis de cobertura em co-seguro comunitário, na acepção da Directiva 78/473/CEE, são os definidos na alínea d) do artigo 5.º da Primeira Directiva.\n\n2. As disposições da presente directiva relativas aos riscos definidos na alínea d) do artigo 5.º da Primeira Directiva são aplicáveis à companhia *leader*."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "32e2879abaf5530e": {
+   "fragment_id": "Disposições transitórias",
+   "type": "divisao",
+   "heading": "Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições transitórias"
+  },
+  "594c062bb20e72b5": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. A Grécia, a Irlanda, a Espanha e Portugal beneficiarão do seguinte regime transitório:\n\ni) Até 31 de Dezembro de 1992, aqueles Estados-membros podem submeter todos os riscos ao regime aplicável aos riscos que não sejam os definidos na alínea d) do artigo 5.º da Primeira Directiva;\n\nii) A partir de 1 de Janeiro de 1993 e até 31 de Dezembro de 1994, o regime dos grandes riscos aplicar-se-á aos riscos definidos na alínea d), subalíneas i) e ii) do artigo 5.º da Primeira Directiva; no que se refere aos riscos definidos na alínea d), subalínea iii) do mesmo artigo, aqueles Estados-membros fixarão os limiares a aplicar;\n\niii) *Espanha*\n\n— a partir de 1 de Janeiro de 1995 e até 31 de Dezembro de 1996, aplicar-se-ão os limiares da primeira fase fixados na alínea d), subalínea iii), do artigo 5.º da Primeira Directiva,\n\n— a partir de 1 de Janeiro de 1997, aplicar-se-ão os limiares da segunda fase.\n\n— a partir de 1 de Janeiro de 1995 e até 31 de Dezembro de 1998, aplicar-se-ão os limiares da primeira fase fixados na alínea d), subalínea iii), do artigo 5.º da Primeira Directiva,\n\n— a partir de 1 de Janeiro de 1999, aplicar-se-ão os limiares da segunda fase.\n\nA derrogação autorizada a partir de 1 de Janeiro de 1995 apenas se aplicará aos contratos de cobertura dos riscos classificados nos ramos 3, 8, 9, 10, 13 e 16 situados exclusivamente num dos quatro Estados-membros que beneficiam do regime transitório.\n\n2. Até 31 de Dezembro de 1994, o n.º 1 do artigo 26.º da presente directiva não se aplicará aos riscos situados nos quatro Estados-membros referidos no presente artigo. Para os períodos transitórios a partir de 1 de Janeiro de 1995, os riscos definidos na alínea d), subalínea iii), do artigo 5.º da Primeira Directiva, situados nesses Estados-membros, e susceptíveis de cobertura em co-seguro comunitário, na acepção da Directiva 78/473/CEE, são os que ultrapassarem os limiares referidos no n.º 1, alínea iii) do presente artigo."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "5004c903497d9581": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nA Comissão e as autoridades competentes dos Estados-membros colaborarão estreitamente com vista a facilitar a fiscalização do seguro directo no interior da Comunidade.\n\nTodos os Estados-membros informarão a Comissão das principais dificuldades resultandes da aplicação da presente directiva, nomeadamente as dificuldades que se coloquem quando um Estado-membro verificar uma transferência anormal da actividade de seguros em prejuízo das empresas estabelecidas no seu território e em benefício de agências e sucursais situadas na periferia deste.\n\nA Comissão e as autoridades competentes dos Estados-membros analisarão tais dificuldades o mais rapidamente possível a fim de encontrar uma solução adequada.\n\nSe necessário, a Comissão apresentará ao Conselho propostas adequadas."
+  },
+  "3ae38e1483988817": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nA Comissão enviará ao Conselho, periodicamente e pela primeira vez em 1 de Julho de 1993, um relatório sobre a evolução do mercado dos seguros efectuados em regime de livre prestação de serviços."
+  },
+  "ef5ac2c169018a56": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nSempre que a presente directiva fizer referência ao ECU, o contravalor em moeda nacional a ser tomado em consideração a partir de 31 de Dezembro de cada ano será o do último dia do mês de Outubro anterior para o qual estejam disponíveis os contravalores do ECU em todas as moedas da Comunidade.\n\nO artigo 2.º da Directiva 76/580/CEE ([^9^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#E0009)) aplicar-se-á apenas aos artigos 3.º, 16.º e 17.º da Primeira Directiva."
+  },
+  "70e61cf202ce5ff4": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nO Conselho, deliberando sob proposta da Comissão, procederá, de cinco em cinco anos, à análise e, se necessário, à revisão de todos os montantes indicados em ECUs na presente directiva, tomando em consideração a evolução da situação económica e monetária verificada na Comunidade."
+  },
+  "0e51aa44ef43eb61": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nOs Estados-membros alterarão as respectivas disposições nacionais de harmonia com o disposto na presente directiva no prazo de dezoito meses a contar da sua notificação ([^10^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#E0010)) e desse facto informarão imediatamente a Comissão.\n\nAs disposições alteradas em conformidade com o primeiro parágrafo serão aplicadas no prazo de vinte e quatro meses a contar da notificação da presente directiva."
+  },
+  "516d92937179b898": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nA partir da notificação da presente directiva, os Estados-membros comunicarão à Comissão o texto das principais disposições legislativas, regulamentares ou administrativas que adoptarem no domínio regulado pela presente directiva."
+  },
+  "ef5f069223d811de": {
+   "fragment_id": "Artigo 34.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nOs anexos fazem parte integrante da presente directiva."
+  },
+  "60cb81cfd49201ac": {
+   "fragment_id": "Artigo 35.º",
+   "type": "artigo",
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "1227c1ab00f8d743": {
+   "fragment_id": "REGRAS DE CONGRUÊNCIA",
+   "type": "divisao",
+   "heading": "REGRAS DE CONGRUÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS DE CONGRUÊNCIA\n\nA moeda na qual os compromissos do segurador são exigíveis é determinada de acordo com as seguintes regras:\n\n1. Sempre que as garantias de um contrato forem expressas numa moeda determinada, os compromissos do segurador são considerados como exigíveis nessa moeda.\n\n2. Sempre que as garantias de um contrato não forem expressas numa moeda, os compromissos do segurador são considerados como exigíveis na moeda do país em que o risco se situa. Contudo, o segurador pode escolher a moeda na qual o prémio é expresso se existirem casos que justifiquem uma tal escolha. Tal poderá acontecer no caso de, uma vez subscrito o contrato, ser previsível que um sinistro irá ser pago, não na moeda do país em que o risco se situa, mas sim na moeda do prémio.\n\n3. Os Estados-membros podem autorizar o segurador a considerar que a moeda na qual deve prestar a sua garantia será, ou a que utilizará de acordo com a experiência adquirida ou, na falta dessa experiência, a moeda do país em que estiver estabelecido: — para os contratos que garantam os riscos classificados nos ramos 4, 5, 6, 7, 11, 12 e 13 (unicamente responsabilidade civil dos produtores), e — para os contratos que garantem os riscos classificados noutros ramos sempre que, segundo a natureza dos riscos, as garantias devam ser prestadas noutra moeda que não a que resultaria da aplicação das regras precedentes.\n\n4. Sempre que um sinistro for declarado ao segurador e as prestações sejam pagáveis numa moeda determinada, que não a resultante da aplicação das regras precedentes, os compromissos do segurador são considerados como exigíveis nessa moeda, nomeadamente naquela em que a indemnização a pagar pelo segurador tiver sido fixada por decisão judicial ou por acordo entre o segurador e o segurado.\n\n5. Sempre que um sinistro for avaliado numa moeda conhecida previamente pelo segurador, mas diferente da resultante da aplicação das regras anteriores, os seguradores podem considerar os seus compromissos como exigíveis nessa moeda.\n\n6. Os Estados-membros podem autorizar as empresas a não representar as suas reservas técnicas por activos congruentes, se, da aplicação das regras precedentes, resultar que a empresa — sede ou sucursal — deveria, para satisfazer o princípio da congruência, possuir elementos do activo numa moeda em valor não superior a 7 % dos elementos do activo existentes noutras moedas. No entanto: a) No que se refere à congruência em dracmas gregas, libras irlandesas e em escudos portugueses, este montante poderá exceder: — 1 milhão de ECUs durante o período transitório que termina em 31 de Dezembro de 1992, — 2 milhões de ECUs para o período compreendido entre 1 de Janeiro de 1993 e 31 de Dezembro de 1998; b) No que se refere à congruência em francos belgas, francos luxemburgueses e em pesetas, este montante não poderá exceder 2 milhões de ECUs durante o período que termina em 31 de Dezembro de 1996. A partir do fim dos períodos transitórios definidos nas alíneas a) e b), aplicar-se-á a essas moedas o regime geral, salvo decisão em contrário do Conselho.\n\n7. Os Estados-membros podem não exigir das empresas — sede social ou sucursal — a aplicação do princípio da congruência quando os compromissos forem exigíveis numa moeda que não a de um dos Estados-membros da Comunidade, se os investimentos nessa moeda forem regulamentados, se essa moeda estiver submetida a restrições de transferência, ou, finalmente, se, por razões análogas, essa moeda não for adequada à representação das reservas técnicas.\n\n8. As empresas de seguros podem deter activos não congruentes para cobrir um montante não superior a 20 % dos seus compromissos numa determinada moeda.\n\n9. Os Estados-membros podem prever que, sempre que, por força das regras anteriores, um compromisso deva ser coberto por activos expressos na moeda de um Estado-membro, esta regra será igualmente considerada respeitada sempre que esses activos forem expressos em ecus."
+  },
+  "1fa58b7dae6aca87": {
+   "fragment_id": "ANEXO IIA",
+   "type": "divisao",
+   "heading": "ANEXO IIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IIA"
+  },
+  "499e3a06e278b261": {
+   "fragment_id": "CONTA DE EXPLORAÇÃO TÉCNICA",
+   "type": "divisao",
+   "heading": "CONTA DE EXPLORAÇÃO TÉCNICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTA DE EXPLORAÇÃO TÉCNICA\n\n1. Total dos prémios brutos adquiridos\n\n2. Encargo total dos sinistros\n\n3. Comissões\n\n4. Resultado técnico bruto"
+  },
+  "349816532bd6d3e2": {
+   "fragment_id": "ANEXO IIB",
+   "type": "divisao",
+   "heading": "ANEXO IIB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IIB"
+  },
+  "9e8d7a01a538cfc5": {
+   "fragment_id": "CONTA DE EXPLORAÇÃO TÉCNICA",
+   "type": "divisao",
+   "heading": "CONTA DE EXPLORAÇÃO TÉCNICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTA DE EXPLORAÇÃO TÉCNICA\n\n1. Prémios brutos do último exercício de subscrição\n\n2. Sinistros brutos do último exercício de subscrição (incluindo a reserva após o fim do exercício de subscrição)\n\n3. Comissões\n\n4. Resultado técnico bruto\n\n---"
+  },
+  "4d83d7f82d02126d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#src.E0001)) JO n.º C 32 de 12. 2. 1976, p. 2.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#src.E0002)) JO n.º C 36 de 13. 2. 1978, p. 14 a JO n.º C 167 de 27. 6. 1988, e decisão de 15 de Junho de 1988 (ainda não publicada no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#src.E0003)) JO n.º C 204 de 30. 8. 1976, p. 13.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#src.E0004)) JO n.º L 228 de 16. 8. 1973, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#src.E0005)) JO n.º L 185 de 4. 7. 1987, p. 77.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#src.E0006)) JO n.º L 151 de 7. 6. 1978, p. 25.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#src.E0007)) JO n.º L 193 de 18. 7. 1983, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#src.E0008)) JO L 181 de 20.7.2000, p. 65 (versão consolidada).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#src.E0009)) JO n.º L 189 de 13. 7. 1976, p. 13.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/0b680f3b-343f-49bf-9c2d-de0ea7ee911f.0018.03/DOC_1#src.E0010)) A presente directiva foi notificada aos Estados-membros em 30 de Junho de 1988."
+  }
+ }
+}

@@ -1,0 +1,371 @@
+---
+schema_version: '1.0'
+id: pt:dre:67374826:por
+title: Portaria n.º 162-A/2015
+short_title: null
+summary: Estabelece as condições de acesso e de exercício da atividade de reconstrução, conservação e preparação de cadáveres,
+  a tanatopraxia
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Justiça, da Economia, da Saúde e da Solidariedade, Emprego e Segurança Social
+proposing_entity: null
+official_number: 162-A/2015
+official_date: null
+publication_date: '2015-06-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 105/2015, 1º Suplemento, Série I de 2015-06-01
+  number: '105'
+  series: I
+  supplement: null
+  pages: 3466-(2) a 3466-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/06/10501/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/162-a/2015/06/01/p/dre/pt/html
+  oj: null
+  dre: '67374826'
+  dre_path: /dr/detalhe/portaria/162-a-2015-67374826
+  internal: pt:dre:67374826:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/162-a-2015-67374826
+  metadata_url: https://data.dre.pt/eli/port/162-a/2015/06/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/162-a-2015-67374826
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:40:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a9ca3bdf533b2ba5ebc90bc8b9d2125f45b3705f6b34abc6aefed123a2f72e55
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:40:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência Funerária
+- Cadáver
+- Catástrofe
+- CE Países
+- Certificação Electrónica
+- Certificação Profissional
+- Comunicações Eletrónicas
+- Controlo Sanitário
+- Cremação de Cadáver
+- Definição de Competências
+- Direção Geral da Saúde
+- Diretor Geral
+- Fiscalização
+- Formação Profissional
+- Instituto Nacional de Medicina Legal e Ciências Forenses
+- Licenciamento
+- Livre Prestação de Serviços
+- Prestação de Serviços
+- Qualificação Profissional
+- Responsabilidade Civil
+- Saúde Pública
+- Seguro
+- União Europeia
+relationships:
+- type: cites
+  target: celex:32006L0123
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: transposes
+  target: celex:32005L0036
+  label: null
+  source: null
+- type: transposes
+  target: celex:32006L0100
+  label: null
+  source: null
+article_structure:
+  article_count: 22
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:40:30Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 162-A/2015
+
+de 1 de junho
+
+O [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, aprovou, em anexo, o regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração (RJACSR).
+
+O RJACSR estabelece e simplifica, entre outros, o regime jurídico de acesso e de exercício da atividade funerária, definindo, igualmente, as atividades que, em seu complemento, podem ser exercidas, entre as quais, a da conservação e preparação de cadáveres denominada tanatopraxia.
+
+O RJACSR prevê na alínea d) do n.º 1 do artigo 111.º que, no âmbito da referida atividade de conservação e preparação de cadáveres, sejam definidos, por portaria conjunta dos membros do Governo responsáveis pelas áreas da Justiça, da Economia e da Saúde, os requisitos necessários para a prática de tanatopraxia, quer no que se refere aos profissionais do setor, quer em relação aos locais de exercício da atividade em causa.
+
+Neste contexto, é necessário regulamentar o acesso e exercício da atividade de tanatopraxia, estabelecendo os respetivos requisitos, quer no que se refere aos profissionais do setor, quer em relação aos locais de exercício dessa atividade, em complemento da sua fiscalização já ínsita no RJACSR.
+
+Acresce a necessidade de adaptar este diploma aos princípios plasmados na [Diretiva n.º 2006/123/CE](https://data.europa.eu/eli/dir/2006/123/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno, transposta para a ordem jurídica interna pelo [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho.
+
+Há, ainda, que ter em consideração a [Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/lei/9-2009-604779), de 4 de março, alterada pelas [Leis n.os 41/2012](https://diariodarepublica.pt/dr/detalhe/lei/41-2012-174571), de 28 de agosto, e [25/2014](https://diariodarepublica.pt/dr/detalhe/lei/25-2014-25343763), de 2 de maio, que transpõe para a ordem jurídica interna a [Diretiva n.º 2005/36/CE](https://data.europa.eu/eli/dir/2005/36/oj?locale=pt), do Parlamento e do Conselho, de 7 de setembro, relativa ao reconhecimento das qualificações profissionais, e a [Diretiva n.º 2006/100/CE](https://data.europa.eu/eli/dir/2006/100/oj?locale=pt), do Conselho, de 20 de setembro, que adapta determinadas diretivas no domínio da livre circulação de pessoas, em virtude da adesão da Bulgária e da Roménia, parcialmente alterada pela [Diretiva n.º 2013/25/EU](https://data.europa.eu/eli/dir/2013/25/oj?locale=pt), do Conselho, de 13 de maio, que adapta determinadas diretivas no domínio do direito de estabelecimento e de livre prestação de serviços, devido à adesão da República da Croácia.
+
+Foram ouvidas as Associações: AAFC - Associação de Agentes Funerários do Centro, AAFP - Associação de Agentes Funerários de Portugal, ANEL - Associação Nacional das Empresas Lutuosas e ASSPPSF - Associação Portuguesa dos Profissionais do Sector Funerário.
+
+Assim:
+
+Manda o Governo, pela Ministra da Justiça e pelos Secretários de Estado Adjunto e da Economia, Adjunto do Ministro da Saúde e do Emprego, ao abrigo do disposto na alínea d) do n.º 1 do artigo 111.º do regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração (RJACSR), aprovado em anexo ao [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria estabelece as condições de acesso e de exercício da atividade de reconstrução, conservação e preparação de cadáveres, a tanatopraxia, nos termos do disposto na alínea d) do n.º 1 do artigo 111.º do RJACSR, aprovado em anexo ao [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro.
+
+2 - Considera-se excluída do âmbito de aplicação do presente diploma qualquer técnica de conservação ou reconstrução de cadáveres que tenham sido objeto de autópsia médico-legal, caso em que só pode ser efetuada com autorização da competente autoridade judiciária.
+
+3 - A atividade de tanatopraxia é compatível com a prática da cremação de cadáveres.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O presente diploma aplica-se às entidades habilitadas a exercer a atividade funerária que prestem serviços de tanatopraxia, e, bem assim, aos profissionais independentes que se dediquem única e exclusivamente à atividade de tanatopraxia.
+
+###### Artigo 3.º — Noção de tanatopraxia
+
+1 - Para efeitos do disposto no presente diploma, entende-se por "tanatopraxia" a atividade exercida, em complemento da atividade funerária, que compreende a reconstrução e conservação temporária de cadáveres, nomeadamente o seu acondicionamento em condições que permitam a sua conservação até ao momento da realização das exéquias fúnebres, e a preparação de cadáveres, que inclui as operações realizadas sobre os cadáveres tendentes à sua reconstrução, conservação e melhoria do seu aspeto exterior, nomeadamente a higienização do cadáver, a aplicação de material conservante, o embalsamento, a restauração facial e a tanatoestética, para embelezamento, através da aplicação de cosméticos.
+
+2 - A prática de atos de tanatopraxia não pode prejudicar a realização de exames médico-legais no cadáver e só pode ter lugar após a realização destes e depois da entrega do cadáver à pessoa que o reclamou, nos termos da lei.
+
+###### Artigo 4.º — Acesso à atividade
+
+1 - A atividade de tanatopraxia só pode ser exercida em território nacional por prestadores aqui estabelecidos que efetuem a mera comunicação prévia nos termos conjugados do disposto na alínea n) do n.º 1 com o n.º 3, ambos do artigo 4.º, e no n.º 2 do artigo 7.º do RJACSR, aprovado em anexo ao [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro.
+
+2 - A atividade de serviços prevista no número anterior pode ainda ser exercida em território nacional de forma ocasional e esporádica, em regime de livre prestação de serviços, por prestadores de serviços legalmente estabelecidos noutro Estado-membro da União Europeia ou do espaço económico europeu.
+
+###### Artigo 5.º — Requisitos e condições para o exercício da atividade
+
+1 - Os profissionais que exercem a atividade de tanatopraxia devem ser detentores de certificado de qualificações obtido através da conclusão com aproveitamento das unidades de formação de curta duração (UFCD) constantes do Catálogo Nacional de Qualificações, integradas nas qualificações da área dos serviços funerários, ou através da certificação das unidades de competência (UC) dos referenciais de reconhecimento, validação e certificação de competências profissionais associados às mesmas qualificações.
+
+2 - O certificado de qualificações referido no número anterior deve ser apresentado à Direção-Geral da Saúde.
+
+3 - Para o exercício da atividade os tanatopratores devem estar registados na Direção-Geral da Saúde.
+
+4 - Para efeito do previsto no número anterior, deve ser dirigido ao Diretor-Geral da Saúde um requerimento com identificação da entidade responsável pela realização da tanatopraxia, respetiva sede social, número de identificação fiscal ou número de identificação de pessoa coletiva, local de realização da atividade, e pessoa responsável na empresa pela mesma atividade.
+
+###### Artigo 6.º — Entidades formadoras
+
+A formação a que se refere o n.º 1 do artigo anterior deve ser ministrada por entidades formadoras certificadas na área de educação e formação que integra os serviços funerários, nos termos do disposto na [Portaria n.º 851/2010](https://diariodarepublica.pt/dr/detalhe/portaria/851-2010-344228), de 6 de setembro, alterada pela [Portaria n.º 208/2013](https://diariodarepublica.pt/dr/detalhe/portaria/208-2013-497404), de 26 de junho.
+
+###### Artigo 7.º — Seguro de responsabilidade civil
+
+1 - Sem prejuízo do disposto no n.º 4, os prestadores de serviços de tanatopraxia, as entidades habilitadas a exercer a atividade funerária que prestem serviços de tanatopraxia, ou os profissionais independentes que se dediquem única e exclusivamente à atividade de tanatopraxia, devem dispor de um seguro de responsabilidade civil válido que cubra quaisquer danos corporais e materiais causados no decurso e em resultado do exercício da sua atividade.
+
+2 - O valor mínimo obrigatório do seguro referido no número anterior é de (euro) 200 000 (duzentos mil euros).
+
+3 - O valor mínimo obrigatório do seguro é atualizado anualmente até 31 de março, mediante a aplicação do índice de preços no consumidor, no continente, sem habitação, publicado pelo Instituto Nacional de Estatística, I. P. (INE, I. P.).
+
+4 - Os prestadores de serviços de tanatopraxia estabelecidos noutro Estado-membro da União Europeia ou do espaço económico europeu podem substituir o seguro referido nos números anteriores por seguro, seguro-caução direta on first demand, garantia financeira ou instrumento equivalente, que cubra, nos termos previstos nos números anteriores, as respetivas atividades a exercer em território nacional, nos termos dos n.os 2 e 3 do artigo 13.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho.
+
+5 - Estão isentos da obrigação referida nos números anteriores os tanatopratores em regime de livre prestação de serviços em Portugal que estejam obrigados, nos termos da legislação do Estado-membro de origem, à contratação de qualquer outro seguro, seguro-caução direta on first demand, garantia financeira ou instrumento equivalente subscrito noutro Estado-membro da União Europeia ou do espaço económico europeu, para a cobertura de quaisquer danos corporais e materiais causados no decurso e em resultado do exercício da sua atividade em território nacional.
+
+6 - Nas situações referidas no número anterior, as informações constantes na alínea m) do n.º 1 do artigo 20.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, referem-se a qualquer outro seguro, garantia financeira ou instrumento equivalente subscrito noutro Estado-membro da União Europeia ou do espaço económico europeu contratados nos termos da legislação do Estado-membro de origem, devendo os tanatopratores identificar a autoridade competente daquele Estado que exerce poder punitivo pela violação do requisito em causa em território nacional, sempre que tal lhe seja solicitado pelo destinatário do serviço ou por autoridade competente.
+
+###### Artigo 8.º — Profissionais com formação na União Europeia ou no Espaço Económico Europeu
+
+Os profissionais que dispõem de formação em tanatopraxia obtida noutro Estado-membro da União Europeia ou do espaço económico europeu podem exercê-la em território nacional em regime de livre prestação de serviços, sujeitas, no entanto, a pedido de reconhecimento à Direção-Geral da Saúde nos termos do artigo 5.º, devendo para o efeito apresentar comprovativos da seguinte documentação:
+
+a) Entidade formadora;
+
+b) Plano do curso, respetiva classificação final e número de horas ministradas.
+
+###### Artigo 9.º — Livre prestação de serviços
+
+1 - As pessoas singulares ou coletivas estabelecidas noutro Estado-membro da União Europeia ou do espaço económico europeu e que aí exerçam legalmente a atividade de tanatopraxia podem, nos termos do disposto no n.º 3 do artigo 4.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, exercê-la livremente em território nacional, de forma ocasional e esporádica, em regime de livre prestação de serviços.
+
+2 - Para efeito do disposto no número anterior, as entidades que pretendam exercer a atividade de tanatopraxia em Portugal devem, antes do início da atividade, apresentar a mera comunicação prévia, nos termos do disposto na alínea n) do n.º 1 do artigo 4.º do RJACSR, à Direção-Geral da Saúde, onde constem os elementos constantes da portaria prevista no n.º 3 do artigo 7.º do mesmo diploma.
+
+3 - A comunicação referida no número anterior serve de declaração prévia relativa aos profissionais em causa, devendo a Direção-Geral da Saúde remetê-la à associação pública profissional competente para a sua receção e tratamento, nos termos dos artigos 5.º e 6.º da [Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/lei/9-2009-604779), de 4 de março, alterada pela [Leis n.os 41/2012](https://diariodarepublica.pt/dr/detalhe/lei/41-2012-174571), de 28 de agosto, e [25/2014](https://diariodarepublica.pt/dr/detalhe/lei/25-2014-25343763), de 2 de maio, dos respetivos estatutos, caso existam, e demais normas aplicáveis.
+
+4 - Os prestadores de serviços referidos no n.º 1 são equiparados, para todos os efeitos legais, a tanatopratores, ficando sujeitos ao cumprimento dos requisitos de exercício da atividade que lhes sejam aplicáveis atenta a natureza ocasional e esporádica da atividade em território nacional, nomeadamente os constantes dos artigos 5.º e 6.º do presente diploma.
+
+5 - Os prestadores de serviços legalmente estabelecidos noutro Estado-membro da União Europeia ou do espaço económico europeu que exerçam a atividade de tanatopraxia podem exercer essa mesma atividade de forma ocasional e esporádica no território nacional, devendo, para o efeito, apresentar declaração prévia à Direção-Geral da Saúde ou à associação pública profissional competente em conformidade com a repartição de competências estabelecida no n.º 2 do artigo 3.º, nos termos do artigo 5.º da [Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/lei/9-2009-604779), de 4 de março, alterada pelas [Leis n.os 41/2012](https://diariodarepublica.pt/dr/detalhe/lei/41-2012-174571), de 28 de agosto, e [25/2014](https://diariodarepublica.pt/dr/detalhe/lei/25-2014-25343763), de 2 de maio.
+
+###### Artigo 10.º — Reconhecimento mútuo
+
+1 - Nos termos da alínea a) do n.º 1 do artigo 11.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, não pode haver duplicação entre as condições exigíveis para o cumprimento dos procedimentos previstos no presente diploma e os requisitos e controlos equivalentes, ou comparáveis quanto à sua finalidade, a que o interessado já tenha sido submetido em Portugal ou noutro Estado-membro da União Europeia ou do espaço económico europeu.
+
+2 - O reconhecimento das qualificações profissionais previstas no presente diploma que sejam adquiridas fora de Portugal, por prestadores de serviços da União Europeia ou do espaço económico europeu, rege-se pela [Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/lei/9-2009-604779), de 4 de março, alterada pelas [Leis n.os 41/2012](https://diariodarepublica.pt/dr/detalhe/lei/41-2012-174571), de 28 de agosto, e [25/2014](https://diariodarepublica.pt/dr/detalhe/lei/25-2014-25343763), de 2 de maio, sendo da competência da Direção-Geral da Saúde e ou da associação pública profissional competente, em conformidade com a referida lei, os respetivos estatutos, caso existam, e demais normas aplicáveis.
+
+###### Artigo 11.º — Instalações e equipamentos
+
+1 - A reconstrução e preparação de cadáveres devem ser efetuadas em salas de tanatopraxia, podendo também ser em hospitais ou centros funerários, desde que obedeçam às condições exigidas nos números seguintes.
+
+2 - As salas de tanatopraxia devem conter dependências de trânsito, permanência e tratamento de cadáveres e garantir um adequado nível de higiene, com especial atenção à prevenção de todo o tipo de doenças transmissíveis.
+
+3 - As salas de tanatopraxia devem obedecer aos seguintes requisitos:
+
+a) Mesa adequada em aço inoxidável ou outro material resistente aos produtos químicos, lavável, e provisionada de escoamento;
+
+b) Pavimento e paredes facilmente desinfetáveis e laváveis, dispondo de escoamento próprio;
+
+c) Lavabos automáticos (não manuais), sanitários com duches e vestiários para o pessoal;
+
+d) Estar equipadas com elementos necessários para a proteção e segurança no trabalho dos seus funcionários, nomeadamente: luvas, máscaras, roupa de uso exclusivo e respetivos meios de desinfeção;
+
+e) Dispor de câmara frigorífica para acondicionamento temporário de cadáveres.
+
+4 - Em caso de utilização de telefone na sala, apenas se permite o uso de telefone automático e de alta voz.
+
+5 - Todos os profissionais que exercem a atividade de tanatopraxia são obrigados, no desempenho da sua atividade profissional, à utilização do material referido na alínea d) do n.º 3.
+
+6 - A prática de tanatoestética não está sujeita às obrigações impostas no presente artigo, com exceção do disposto na alínea d) do n.º 3.
+
+###### Artigo 12.º — Prazo mínimo para a realização da tanatopraxia
+
+Qualquer atividade de tanatopraxia em cadáveres só pode ser realizada após o decurso de um período de 6 (seis) horas após a morte e depois da certificação do óbito nos termos legais.
+
+###### Artigo 13.º — Registo de dados e documentação obrigatória
+
+1 - As operações de preparação de cadáveres, independentemente do local onde são realizadas, implicam necessariamente a organização de um registo com os seguintes elementos:
+
+a) Requerimento escrito por quem tenha legitimidade, nos termos do disposto no artigo 3.º do [Decreto-Lei n.º 411/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1998-286106), de 30 de dezembro, com as alterações introduzidas pelos [Decretos-Leis n.os 5/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), de 29 de janeiro, [138/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2000-319932), de 13 de julho, [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), de 11 de julho, e [Decreto-Lei n.º 109/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), de 14 de outubro, alterado pela [Lei n.º 13/2011](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), de 29 de abril;
+
+b) Identificação do responsável pela execução da tanatopraxia, indicando o modo operatório, o produto utilizado, o local e hora da operação;
+
+c) Identificação da entidade responsável ao serviço da qual é realizada a tanatopraxia, nomeadamente: identificação da sede social, NIF ou NIPC;
+
+d) No caso de a atividade de tanatopraxia ser desenvolvida por outras entidades que não exerçam a atividade funerária, a entidade prestadora do serviço deve dar cumprimento ao estabelecido na alínea anterior.
+
+2 - O registo referido no número anterior fica depositado na entidade responsável pela prática da tanatopraxia realizada no cadáver.
+
+3 - Em caso de encerramento da entidade, os registos deverão ser entregues à Direção-Geral da Saúde, no prazo de 30 (trinta) dias.
+
+###### Artigo 14.º — Risco para a saúde pública e necessidade de vigilância epidemiológica
+
+1 - Os cadáveres que apresentem causa de risco para a saúde pública, designadamente por agente biológico do grupo de risco 4, não podem ser objeto de qualquer atividade de tanatopraxia.
+
+2 - Nas condições previstas no artigo 8.º, n.º 5, do [Decreto-Lei n.º 411/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1998-286106), de 30 de dezembro, com as alterações introduzidas pelos [Decretos-Leis n.os 5/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), de 29 de janeiro, [138/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2000-319932), de 13 de julho, [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), de 11 de julho, e [Decreto-Lei n.º 109/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), de 14 de outubro, alterado pela [Lei n.º 13/2011](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), de 29 de abril, não pode haver lugar à prática da tanatopraxia.
+
+3 - Sempre que exista doença infeciosa, ou outra circunstância suscetível de transmissão por manipulação de cadáver, o médico que regista o certificado de óbito ou a autoridade de saúde deverão fazer constar tal informação no certificado de óbito eletrónico ou em documento a definir por despacho do membro do Governo responsável pela área da saúde, incluindo-se a mesma informação na guia que é entregue ao agente funerário que efetua o primeiro transporte do cadáver.
+
+###### Artigo 15.º — Produtos utilizados na atividade de tanatopraxia
+
+1 - Os produtos utilizados na atividade de tanatopraxia devem satisfazer as condições legalmente determinadas para a classificação, embalagem e rotulagem das substâncias e misturas perigosas, para a saúde humana ou para o ambiente, com vista à sua colocação e utilização no mercado, bem como o Regulamento UE do Parlamento Europeu e do Conselho n.º [528/2012](https://data.europa.eu/eli/reg/2012/528/oj?locale=pt), de 22 de maio de 2012, relativo à disponibilização no mercado e à utilização de produtos biocidas e demais legislação específica consoante o fim a que se destina o produto.
+
+2 - No caso de cadáveres destinados à inumação deve ser colocada no cadáver, de preferência junto ao tornozelo, uma amostra de vidro selada, com um mínimo de 50 (cinquenta) mililitros dos produtos utilizados e com todas as indicações de identificação.
+
+3 - Os resíduos que se geram nas operações de tanatopraxia são tratados de acordo com o estabelecido na legislação vigente sobre resíduos hospitalares.
+
+###### Artigo 16.º — Situações de Emergência
+
+Em caso de catástrofe ou mortes coletivas, devem aplicar-se, excecionalmente, as técnicas de manipulação e conservação que sejam autorizadas pelo Instituto Nacional de Medicina Legal e Ciências Forenses (INMLCF, I. P.).
+
+###### Artigo 17.º — Obrigatoriedade de conservação e preparação de cadáver
+
+1 - A conservação e preparação de um cadáver são obrigatórias nos seguintes casos:
+
+a) Transporte internacional de cadáver para país de destino cuja legislação interna o exija;
+
+b) Sempre que a autoridade de saúde expressamente o determine.
+
+2 - Excetuam-se do disposto no número anterior os cadáveres que se encontrem encerrados em urna metálica hermeticamente fechada.
+
+###### Artigo 18.º — Vacinação obrigatória dos tanatopratores
+
+Todos os tanatopratores em exercício de atividade devem estar vacinados contra a Hepatite B e contra o Tétano.
+
+###### Artigo 19.º — Disposições finais e transitórias
+
+1 - Os profissionais que exercem a atividade de tanatopraxia, à data da entrada em vigor da presente Portaria, devem notificar a Direção-Geral da Saúde dessa situação no prazo de 3 (três) meses e no prazo de 3 (três) anos após esta data devem reunir as condições previstas no n.º 1 do artigo 5.º
+
+2 - As entidades habilitadas a exercer a atividade funerária que prestem serviços de tanatopraxia dispõem de um prazo de 2 (dois) anos para adaptar as suas instalações aos requisitos estabelecidos no artigo 11.º
+
+###### Artigo 20.º — Cooperação administrativa
+
+As autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores já estabelecidos noutro Estado-membro da União Europeia ou do espaço económico europeu, nos termos do disposto no capítulo VI do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, e do n.º 2 do artigo 51.º da [Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/lei/9-2009-604779), de 4 de março, alterada pelas [Leis n.os 41/2012](https://diariodarepublica.pt/dr/detalhe/lei/41-2012-174571), de 28 de agosto, e [25/2014](https://diariodarepublica.pt/dr/detalhe/lei/25-2014-25343763), de 2 de maio, nomeadamente através do Sistema de Informação do Mercado Interno (IMI).
+
+###### Artigo 21.º — Desmaterialização de procedimentos
+
+1 - Todos os requerimentos, comunicações e notificações, bem como a apresentação de documentos ou de informações, no âmbito de procedimentos regulados pelo presente diploma, são realizados por via eletrónica, através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho.
+
+2 - A documentação que os tanatopratores estão obrigados a manter, ao abrigo do presente diploma, deve estar disponível em suporte informático.
+
+3 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no n.º 1, os atos aí referidos podem ser praticados por qualquer outro meio legalmente admissível.
+
+###### Artigo 22.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 29 de maio de 2015. - O Secretário de Estado Adjunto e da Economia, Leonardo Bandeira de Melo Mathias, em 25 de maio de 2015. - O Secretário de Estado Adjunto do Ministro da Saúde, Fernando Serra Leal da Costa, em 25 de maio de 2015. - O Secretário de Estado do Emprego, Octávio Félix de Oliveira, em 28 de maio de 2015.

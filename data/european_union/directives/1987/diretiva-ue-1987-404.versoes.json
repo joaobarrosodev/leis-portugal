@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31987L0404:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01987L0404-20091028",
+ "dre_path": null,
+ "source_lastmod": "2009-10-28",
+ "versions": [
+  {
+   "date": "2009-10-28",
+   "future": false,
+   "celex": "01987L0404-20091028",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8f9e13417cf658bd"
+   ]
+  }
+ ],
+ "fragments": {
+  "8f9e13417cf658bd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1987L0404 — PT — 28.10.2009 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31987L0404) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31987L0404) [de 25 de Junho de 1987](http://publications.europa.eu/resource/celex/31987L0404) [relativa à aproximação das legislações dos Estados-membros respeitantes aos recipientes sob pressão simples](http://publications.europa.eu/resource/celex/31987L0404) [(87/404/CEE)](http://publications.europa.eu/resource/celex/31987L0404) (JO L 220, 8.8.1987, p.48)\n\n**revogado por:**\n\n- [Directiva 2009/105/CE do Parlamento Europeu e do Conselho de 16 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009L0105) — L 264 — 12 — 8.10.2009"
+  }
+ }
+}

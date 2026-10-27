@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:73431767:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-928825111",
+ "dre_path": "/dr/detalhe/portaria/17-2016-73431767",
+ "source_lastmod": "2025-08-13",
+ "versions": [
+  {
+   "date": "2016-02-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "928801527",
+    "928801528",
+    "928801529",
+    "928801530",
+    "928801531",
+    "928801533",
+    "928801534"
+   ]
+  },
+  {
+   "date": "2016-06-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74661195:por",
+     "title": "Portaria n.º 163/2016",
+     "published": "2016-06-09",
+     "dre_path": "/dr/detalhe/portaria/163-2016-74661195"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "928801527",
+    "928801528",
+    "928801540",
+    "928801530",
+    "928801531",
+    "928801532",
+    "928801533",
+    "928801534"
+   ]
+  }
+ ],
+ "fragments": {
+  "928801527": {
+   "fragment_id": "928825112",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 17/2016\n\nde 4 de fevereiro\n\nO Decreto-Lei n.º 382/99, de 22 de setembro, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente, por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de setembro, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e na Portaria n.º 702/2009, de 6 de julho.\n\nNa sequência de um estudo apresentado pela Câmara Municipal de Pampilhosa da Serra, a Agência Portuguesa do Ambiente, I. P., elaborou, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, uma proposta de delimitação e respetivos condicionamentos dos perímetros de proteção para as captações nos polos de captação de «Amoreira Cimeira e Fundeira», «Aradas», «Arranhadouro», «Braçal», «Brejo de Baixo», «Brejo de Cima», «Carvalho», «Catraia do Farropo», «Coelhal», «Covões», «Decabelos», «Ereira», «Esteiro», «Foz do Ribeiro», «Gavião de Cima», «Grota», «Lobatos e Lobatinhos», «Machio de Baixo», «Machio de Cima», «Malhada do Rei», «Malhadas da Serra», «Meãs», «Moninho e Sobral de Cima», «Moradias», «Padrões», «Papão», «Pescanseco Cimeiro e do Meio», «Pescanseco Fundeiro», «Pessegueiro e Carvoeiro», «Póvoa», «Ramalheira», «Ribeiro de Soutelinho e Folgares», «Ribeiro do Indioso», «Safra», «Signo Samo», «Sobral Bendito», «Sobral de Baixo», «Sobral Magro», «Soeirinho», «Souto do Brejo», «Travessa», «Trinhão», «Unhais-o-Velho», «Vale de Carvalho», «Vale de Pereiras», «Vale Derradeiro», «Vale Mosqueiro», «Vidual de Cima», «Vidual de Baixo» e «Vilar» no concelho de Pampilhosa da Serra.\n\nCompete, agora, ao Governo aprovar as referidas zonas de proteção.\n\nAssim:\n\nNos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na redação conferida pelo Decreto-Lei n.º 226-A/2007, de 31 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas pelo Ministro do Ambiente, através da subalínea ii) da alínea d) do n.º 2 do Despacho n.º 489/2016, de 12 de janeiro, publicado no Diário da República, 2.ª série, n.º 7, de 12 de janeiro de 2016, o seguinte:"
+  },
+  "928801528": {
+   "fragment_id": "928825113",
+   "type": 11,
+   "heading": "Artigo 1.º — Delimitação de perímetros de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Delimitação de perímetros de proteção\n\n1 - É aprovada a delimitação dos perímetros de proteção das captações designadas por:\n\na) Furo de Amoreira 1, Furo de Amoreira 2 e Mina de Amoreira do polo de captação de Amoreira Cimeira e Fundeira;\n\nb) Mina de Aradas 1 e Mina de Aradas 2 do polo de captação de Aradas;\n\nc) Mina de Arranhadouro do polo de captação de Arranhadouro;\n\nd) Mina de Braçal do polo de captação de Braçal;\n\ne) Mina de Brejo de Baixo do polo de captação de Brejo de Baixo;\n\nf) Mina de Brejo de Cima do polo de captação de Brejo de Cima;\n\ng) Nascente de Carvalho e Mina de Carvalho do polo de captação de Carvalho;\n\nh) Nascente de Catraia do Farropo do polo de captação de Catraia do Farropo;\n\ni) Mina de Coelhal 1 e Mina de Coelhal 2 do polo de captação de Coelhal;\n\nj) Mina de Covões do polo de captação de Covões;\n\nk) Mina de Decabelos do polo de captação de Decabelos;\n\nl) Furo de Ereira do polo de captação de Ereira;\n\nm) Nascente de Esteiro e Mina de Esteiro do polo de captação de Esteiro;\n\nn) Nascente de Foz do Ribeiro do polo de captação de Foz do Ribeiro;\n\no) Mina de Gavião de Cima do polo de captação de Gavião de Cima;\n\np) Furo de Grota do polo de captação de Grota;\n\nq) Furo de Lobatos e Mina de Lobatos do polo de captação de Lobatos e Lobatinhos;\n\nr) Furo de Machio de Baixo 1, Furo de Machio de Baixo 2 e Nascente de Machio de Baixo do polo de captação de Machio de Baixo;\n\ns) Mina de Machio de Cima do polo de captação de Machio de Cima;\n\nt) Nascente de Malhada do Rei do polo de captação de Malhada do Rei;\n\nu) Mina de Malhadas da Serra do polo de captação de Malhadas da Serra;\n\nv) Mina de Meãs e Nascente de Meãs do polo de captação de Meãs;\n\nw) Mina de Moninho do polo de captação de Moninho e Sobral de Cima;\n\nx) Mina de Moradias do polo de captação de Moradias;\n\ny) Poço de Padrões do polo de captação de Padrões;\n\nz) Mina de Papão do polo de captação de Papão;\n\naa) Mina de Pescanseco do polo de captação de Pescanseco Cimeiro e do Meio;\n\nbb) Mina de Pescanseco Fundeiro do polo de captação de Pescanseco Fundeiro;\n\ncc) Mina de Pessegueiro e Poço de Pessegueiro do polo de captação de Pessegueiro e Carvoeiro;\n\ndd) Mina de Póvoa e Nascente de Póvoa do polo de captação de Póvoa;\n\nee) Mina de Ramalheira do polo de captação de Ramalheira;\n\nff) Furo de Ribeiro de Soutelinho e Mina de Ribeiro de Soutelinho do polo de captação de Ribeiro de Soutelinho e Folgares;\n\ngg) Furo de Ribeiro do Indioso do polo de captação de Ribeiro do Indioso;\n\nhh) Furo de Safra do polo de captação de Safra;\n\nii) Furo de Signo Samo do polo de captação de Signo Samo;\n\njj) Mina de Sobral Bendito do polo de captação de Sobral Bendito;\n\nkk) Furo de Sobral de Baixo do polo de captação de Sobral de Baixo;\n\nll) Furo de Sobral Magro e Mina de Sobral Magro do polo de captação de Sobral Magro;\n\nmm) Mina de Soeirinho do polo de captação de Soeirinho;\n\nnn) Mina de Souto do Brejo do polo de captação de Souto do Brejo;\n\noo) Furo de Travessa do polo de captação de Travessa;\n\npp) Furo de Trinhão, Nascente de Trinhão e Mina de Trinhão do polo de captação de Trinhão;\n\nqq) Mina de Unhais-o-Velho e Nascente de Unhais-o-Velho do polo de captação de Unhais-o-Velho;\n\nrr) Mina de Vale de Carvalho do polo de captação de Vale de Carvalho;\n\nss) Mina de Vale de Pereiras 1 e Mina de Vale de Pereiras 2 do polo de captação de Vale de Pereiras;\n\ntt) Nascente de Vale Derradeiro do polo de captação de Vale Derradeiro;\n\nuu) Mina de Vale Mosqueiro do polo de captação de Vale Mosqueiro;\n\nvv) Mina de Vidual de Cima do polo de captação de Vidual de Cima;\n\nww) Mina de Vidual de Baixo do polo de captação de Vidual de Baixo;\n\nxx) Furo de Vilar, Nascente de Vilar 1 e Nascente de Vilar 2 do polo de captação de Vilar;\n\nlocalizadas no concelho de Pampilhosa da Serra, nos termos dos artigos seguintes.\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo I à presente portaria, que dela faz parte integrante."
+  },
+  "928801529": {
+   "fragment_id": "928825114",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - A zona de proteção imediata respeitante aos perímetros de proteção mencionados no artigo anterior corresponde à área delimitada através de polígonos que resultam da união dos vértices indicados no quadro constante do anexo II à presente portaria, que dela faz parte integrante.\n\n2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro."
+  },
+  "928801530": {
+   "fragment_id": "928825115",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de proteção intermédia e zona de proteção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zona de proteção intermédia e zona de proteção alargada\n\nOs perímetros de proteção das captações identificadas no artigo 1.º não incluem a zona de proteção intermédia e a zona de proteção alargada, nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 382/99, de 22 de setembro."
+  },
+  "928801531": {
+   "fragment_id": "928825116",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "928801533": {
+   "fragment_id": "928825118",
+   "type": 14,
+   "heading": "Anexo I — Coordenadas das captações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Coordenadas das captações\n\n(a que se refere o n.º 2 do artigo 1.º)\n\n(ver documento original)"
+  },
+  "928801534": {
+   "fragment_id": "928825119",
+   "type": 14,
+   "heading": "Anexo II — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Zona de proteção imediata\n\n(a que se refere o n.º 1 do artigo 2.º)\n\nPolo de captação de Amoreira Cimeira e Fundeira\n\nFuro de Amoreira 1\n\n(ver documento original)\n\nFuro de Amoreira 2\n\n(ver documento original)\n\nMina de Amoreira\n\n(ver documento original)\n\nPolo de captação de Aradas\n\nMina de Aradas 1\n\n(ver documento original)\n\nMina de Aradas 2\n\n(ver documento original)\n\nPolo de captação de Arranhadouro\n\nMina de Arranhadouro\n\n(ver documento original)\n\nPolo de captação de Braçal\n\nMina de Braçal\n\n(ver documento original)\n\nPolo de captação de Brejo de Baixo\n\nMina de Brejo de Baixo\n\n(ver documento original)\n\nPolo de captação de Brejo de Cima\n\nMina de Brejo de Cima\n\n(ver documento original)\n\nPolo de captação de Carvalho\n\nNascente de Carvalho\n\n(ver documento original)\n\nMina de Carvalho\n\n(ver documento original)\n\nPolo de captação de Catraia do Farropo\n\nNascente de Catraia do Farropo\n\n(ver documento original)\n\nPolo de captação de Coelhal\n\nMina de Coelhal 1\n\n(ver documento original)\n\nMina de Coelhal 2\n\n(ver documento original)\n\nPolo de captação de Covões\n\nMina de Covões\n\n(ver documento original)\n\nPolo de captação de Decabelos\n\nMina de Decabelos\n\n(ver documento original)\n\nPolo de captação de Ereira\n\nFuro de Ereira\n\n(ver documento original)\n\nPolo de captação de Esteiro\n\nNascente de Esteiro\n\n(ver documento original)\n\nMina de Esteiro\n\n(ver documento original)\n\nPolo de captação de Foz do Ribeiro\n\nNascente de Foz do Ribeiro\n\n(ver documento original)\n\nPolo de captação de Gavião de Cima\n\nMina de Gavião de Cima\n\n(ver documento original)\n\nPolo de captação de Grota\n\nFuro de Grota\n\n(ver documento original)\n\nPolo de captação de Lobatos e Lobatinhos\n\nFuro de Lobatos\n\n(ver documento original)\n\nMina de Lobatos\n\n(ver documento original)\n\nPolo de captação de Machio de Baixo\n\nFuro de Machio de Baixo 1\n\n(ver documento original)\n\nFuro de Machio de Baixo 2\n\n(ver documento original)\n\nNascente de Machio de Baixo\n\n(ver documento original)\n\nPolo de captação de Machio de Cima\n\nMina de Machio de Cima\n\n(ver documento original)\n\nPolo de captação de Malhada do Rei\n\nNascente de Malhada do Rei\n\n(ver documento original)\n\nPolo de captação de Malhadas da Serra\n\nMina de Malhadas da Serra\n\n(ver documento original)\n\nPolo de captação de Meãs\n\nMina de Meãs\n\n(ver documento original)\n\nNascente de Meãs\n\n(ver documento original)\n\nPolo de captação de Moninho e Sobral de Cima\n\nMina de Moninho\n\n(ver documento original)\n\nPolo de captação de Moradias\n\nMina de Moradias\n\n(ver documento original)\n\nPolo de captação de Padrões\n\nPoço de Padrões\n\n(ver documento original)\n\nPolo de captação de Papão\n\nMina de Papão\n\n(ver documento original)\n\nPolo de captação de Pescanseco Cimeiro e do Meio\n\nMina de Pescanseco\n\n(ver documento original)\n\nPolo de captação de Pescanseco Fundeiro\n\nMina de Pescanseco Fundeiro\n\n(ver documento original)\n\nPolo de captação de Pessegueiro e Carvoeiro\n\nMina de Pessegueiro\n\n(ver documento original)\n\nPoço de Pessegueiro\n\n(ver documento original)\n\nPolo de captação de Póvoa\n\nMina de Póvoa\n\n(ver documento original)\n\nNascente de Póvoa\n\n(ver documento original)\n\nPolo de captação de Ramalheira\n\nMina de Ramalheira\n\n(ver documento original)\n\nPolo de captação de Ribeiro de Soutelinho e Folgares\n\nFuro de Ribeiro de Soutelinho\n\n(ver documento original)\n\nMina de Ribeiro de Soutelinho\n\n(ver documento original)\n\nPolo de captação de Ribeiro do Indioso\n\nFuro de Ribeiro do Indioso\n\n(ver documento original)\n\nPolo de captação de Safra\n\nFuro de Safra\n\n(ver documento original)\n\nPolo de captação de Signo Samo\n\nFuro de Signo Samo\n\n(ver documento original)\n\nPolo de captação de Sobral Bendito\n\nMina de Sobral Bendito\n\n(ver documento original)\n\nPolo de captação de Sobral de Baixo\n\nFuro de Sobral de Baixo\n\n(ver documento original)\n\nPolo de captação de Sobral Magro\n\nFuro de Sobral Magro\n\n(ver documento original)\n\nMina de Sobral Magro\n\n(ver documento original)\n\nPolo de captação de Soeirinho\n\nMina de Soeirinho\n\n(ver documento original)\n\nPolo de captação de Souto do Brejo\n\nMina de Souto do Brejo\n\n(ver documento original)\n\nPolo de captação de Trinhão\n\nFuro de Trinhão\n\n(ver documento original)\n\nNascente de Trinhão\n\n(ver documento original)\n\nMina de Trinhão\n\n(ver documento original)\n\nPolo de captação de Unhais-o-Velho\n\nMina de Unhais-o-Velho\n\n(ver documento original)\n\nNascente de Unhais-o-Velho\n\n(ver documento original)\n\nPolo de captação de Vale de Carvalho\n\nMina de Vale de Carvalho\n\n(ver documento original)\n\nPolo de captação de Vale de Pereiras\n\nMina de Vale de Pereiras 1\n\n(ver documento original)\n\nMina de Vale de Pereiras 2\n\n(ver documento original)\n\nPolo de captação de Vale Derradeiro\n\nNascente de Vale Derradeiro\n\n(ver documento original)\n\nPolo de captação de Vale Mosqueiro\n\nMina de Vale Mosqueiro\n\n(ver documento original)\n\nPolo de captação de Vidual de Cima\n\nMina de Vidual de Cima\n\n(ver documento original)\n\nPolo de captação de Vidual de Baixo\n\nMina de Vidual de Baixo\n\n(ver documento original)\n\nPolo de captação de Vilar\n\nFuro de Vilar\n\n(ver documento original)\n\nNascente de Vilar 1\n\n(ver documento original)\n\nNascente de Vilar 2\n\n(ver documento original)\n\nNota: As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central)."
+  },
+  "928801540": {
+   "fragment_id": "928825114",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": "2016-06-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 163/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/163-2016-74661195), em vigor a partir de 2016-06-10"
+   ],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - A zona de proteção imediata respeitante aos perímetros de proteção mencionados no artigo anterior, com exceção do perímetro de proteção a que se refere a alínea oo) do seu n.º 1, corresponde à área delimitada através dos polígonos que resultam da união dos vértices indicados no quadro constante do anexo II à presente portaria, que dela faz parte integrante.\n\n2 - A zona de proteção imediata respeitante ao perímetro de proteção da captação designada por Furo da Travessa do polo de captação de Travessa, a que se refere a alínea oo) do n.º 1 do artigo anterior, corresponde à área de superfície do terreno definida por um círculo de 0,4 m de raio com centro na captação.\n\n3 - É interdita qualquer instalação ou atividade nas zonas de proteção imediata a que se referem os números anteriores, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação, devendo o terreno ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 163/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/163-2016-74661195), em vigor a partir de 2016-06-10"
+  },
+  "928801532": {
+   "fragment_id": "928825117",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ambiente, Carlos Manuel Martins, em 20 de janeiro de 2016."
+  }
+ }
+}

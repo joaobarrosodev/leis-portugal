@@ -1,0 +1,614 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0098:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0098-20090807",
+ "dre_path": null,
+ "source_lastmod": "2009-08-07",
+ "versions": [
+  {
+   "date": "2009-08-07",
+   "future": false,
+   "celex": "02002L0098-20090807",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1e2373056b6aacbb",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "a5df85769ab4ab04",
+    "e53a17ddfe53d6a5",
+    "d2d5602c962fe4b6",
+    "9d3f9766cad5f60a",
+    "f0f8c960bfdbce9b",
+    "b098b5d3e3aba7c2",
+    "54bc217f02df3cd2",
+    "88f0cee7bad7c373",
+    "23b4943812a7177a",
+    "8d75bbe48d0c70ed",
+    "1e7a0903d2eed348",
+    "57347feca136bfe7",
+    "77db8c76ca19ccd3",
+    "b36fb4335ddfa22c",
+    "1ecfc79da3f1ac7f",
+    "37b0c1629c3e7faf",
+    "5e31caf010cbf481",
+    "4094f940846fd001",
+    "a4cf4412d6b09ebf",
+    "40ed6b62e188ac6f",
+    "47a290141fb94fd1",
+    "98e12b1918f1d893",
+    "6b06d1e5bbe1feb8",
+    "b76d202a844f758e",
+    "677db5c62efa3812",
+    "e056f01c18c3a1df",
+    "190c3e3c8188d5e3",
+    "bfd35ff8a6cf49d5",
+    "6d1cab2710db49cf",
+    "fc9a3c1e9a7b5ce9",
+    "a22a5077ade6ffe7",
+    "ffc35d24a126f97b",
+    "30423c6accb3e605",
+    "7fd045ac4f655f13",
+    "748234686b27ad99",
+    "dad045e4019cc8aa",
+    "99973826fcc02605",
+    "bfed2878d4f57726",
+    "6c00d46fdd0fc1a7",
+    "726f2e4ffbc362d9",
+    "df560d4ebd23fc60",
+    "066a8a7b3c446d0b",
+    "eaf16b54d6ae650f",
+    "a066c70f035c1341",
+    "cdac53de674034ef",
+    "f0c8f18617b00263",
+    "63e36e9fa428ed4b",
+    "dde9cf53e9ae6c9a",
+    "0f6523bee95b85e7",
+    "961d4c47a0ce3f46",
+    "03320e81ac8c153d",
+    "e59ba453f15407ae",
+    "d664376e2a8dcecd",
+    "6ade430da06d04b6",
+    "78f24dcd9605fdec",
+    "e51c535d95d5f699",
+    "852174729551523b",
+    "2746a231e028045f",
+    "720af75c92791b10",
+    "894465c4d236555d",
+    "e03a0eb4d5b2eef3",
+    "9431113dd4c25a73",
+    "3034d44efba5ba12"
+   ]
+  }
+ ],
+ "fragments": {
+  "1e2373056b6aacbb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Janeiro de 2003\n\nque estabelece normas de qualidade e segurança em relação à colheita, análise, processamento, armazenamento e distribuição de sangue humano e de componentes sanguíneos e que altera a Directiva 2001/83/CE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, a alínea a) do n.º 4 do seu artigo 152.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0003)),\n\nNos termos do procedimento previsto no artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0004)), e à luz do projecto comum aprovado pelo Comité de Conciliação em 4 de Novembro de 2002,\n\n(1) A amplitude da utilização terapêutica do sangue humano exige que se garanta a qualidade e segurança do sangue total e dos componentes sanguíneos de modo a prevenir, em especial, a transmissão de doenças.\n\n(2) A disponibilidade do sangue e dos componentes sanguíneos utilizados para fins terapêuticos depende em grande medida dos cidadãos da Comunidade que estão dispostos a dar sangue. A fim de proteger a saúde pública e prevenir a transmissão de doenças infecciosas, devem ser tomadas todas as medidas de precaução durante a sua colheita, processamento, distribuição e utilização, fazendo uso adequado dos progressos científicos em matéria de detecção, inactivação e eliminação dos agentes patogénicos transmissíveis por transfusão.\n\n(3) A Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano ([^5^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0005)), fixa os requisitos de qualidade, segurança e eficácia dos medicamentos preparados industrialmente a partir do sangue ou do plasma humano. No entanto, como aquela directiva exclui especificamente do seu âmbito de aplicação o sangue total, o plasma e as células sanguíneas de origem humana, a qualidade e segurança destes produtos não constitui objecto de legislação comunitária vinculativa, na medida em que se destinam à transfusão e não são processados como medicamentos. Por conseguinte, é essencial que as disposições comunitárias assegurem que o sangue e os seus componentes, qualquer que seja a sua finalidade, tenham um nível comparável de qualidade e segurança ao longo de toda a cadeia de transfusão sanguínea em todos os Estados-Membros, no contexto da livre circulação dos cidadãos no território comunitário. O estabelecimento de padrões elevados de qualidade e segurança contribuirá, assim, para tranquilizar o público quanto ao facto do sangue humano e dos componentes sanguíneos resultantes de dádivas provenientes de outro Estado-Membro cumprirem os mesmos requisitos que os do seu próprio país.\n\n(4) No que diz respeito ao sangue ou aos componentes sanguíneos enquanto matéria-prima para o fabrico de medicamentos, a Directiva 2001/83/CE refere as medidas a tomar pelos Estados-Membros para prevenir a transmissão de doenças infecciosas, que incluem a aplicação das monografias da Farmacopeia Europeia e das recomendações do Conselho da Europa e da Organização Mundial de Saúde (OMS), nomeadamente em matéria de selecção e controlo dos dadores de sangue e de plasma. Os Estados-Membros deverão ainda tomar medidas para promover a auto-suficiência da Comunidade em sangue e componentes sanguíneos e para incentivar as dádivas voluntárias e não remuneradas de sangue e de componentes sanguíneos.\n\n(5) A fim de assegurar um nível equivalente de qualidade e segurança dos componentes sanguíneos, qualquer que seja a sua finalidade, a presente directiva deve estabelecer requisitos para a colheita e análise do sangue e componentes sanguíneos, incluindo as matérias-primas para o fabrico de medicamentos. Assim, a Directiva 2001/83/CE deve ser alterada em conformidade.\n\n(6) A comunicação da Comissão, de 21 de Dezembro de 1994, sobre segurança da transfusão e auto-suficiência em sangue na Comunidade Europeia, assinalou a necessidade duma estratégia em matéria de sangue que reforce a confiança na segurança da cadeia de transfusão e promova a auto-suficiência da Comunidade.\n\n(7) O Conselho, na sua resolução de 2 de Junho de 1995 relativa à segurança da transfusão e à auto-suficiência da Comunidade em sangue ([^6^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0006)), convidou a Comissão a apresentar propostas adequadas no âmbito do desenvolvimento de uma estratégia em matéria de sangue.\n\n(8) O Conselho, na sua resolução de 12 de Novembro de 1996, relativa à estratégia de segurança da transfusão e à auto-suficiência da Comunidade Europeia em sangue ([^7^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0007)), convidou a Comissão a apresentar urgentemente propostas com vista a promover o desenvolvimento duma abordagem coordenada em matéria de segurança do sangue e dos produtos sanguíneos.\n\n(9) O Parlamento Europeu, nas suas resoluções de 14 de Setembro de 1993 ([^8^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0008)), 18 de Novembro de 1993 ([^9^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0009)), 14 de Julho de 1995 ([^10^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0010)) e 17 de Abril de 1996 ([^11^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0011)), relativas à segurança e auto-suficiência da Comunidade Europeia em sangue através de dádivas voluntárias e não remuneradas, sublinhou a importância de se garantir o mais alto nível de segurança do sangue e reiterou o seu apoio ao objectivo da auto-suficiência comunitária.\n\n(10) As disposições da presente directiva têm em consideração o parecer do Comité Científico dos Medicamentos e dos Dispositivos Médicos, bem como a experiência internacional neste domínio.\n\n(11) A natureza da transfusão autóloga exige uma atenção especial sobre como e quando se devem aplicar as diversas disposições da presente directiva.\n\n(12) Os serviços de transfusão são unidades que efectuam um número limitado de actividades, a saber, armazenamento, distribuição e testes de compatibilidade. A fim de garantir a preservação da qualidade e segurança do sangue e dos componentes sanguíneos ao longo de toda a cadeia de transfusão, e tendo simultaneamente em conta a natureza e funções específicas dos serviços de transfusão, apenas lhes deverão ser aplicadas as disposições referentes àquelas actividades.\n\n(13) Os Estados-Membros devem garantir a existência de um mecanismo apropriado de designação, autorização, acreditação ou licenciamento que assegure que as actividades dos serviços de sangue são realizadas em conformidade com os requisitos da presente directiva.\n\n(14) Os Estados-Membros devem organizar inspecções e medidas de controlo, a levar a cabo por representantes da autoridade competente, a fim de assegurar o cumprimento do disposto na presente directiva por parte dos serviços de sangue.\n\n(15) O pessoal directamente envolvido na colheita, análise, processamento, armazenamento e distribuição do sangue e seus componentes deve possuir as qualificações adequadas e receber atempadamente formação relevante, sem prejuízo da legislação comunitária existente relativa ao reconhecimento de habilitações profissionais e à protecção dos trabalhadores.\n\n(16) Os serviços de sangue devem criar e manter sistemas de qualidade abrangendo todas as actividades que determinam a política, os objectivos e as responsabilidades em matéria de qualidade e pô-los em prática, designadamente, através do planeamento, controlo, garantia e melhoria da qualidade, no âmbito do sistema de qualidade, tomando em consideração os princípios de boas práticas de fabrico, bem como o sistema CE de avaliação da conformidade.\n\n(17) Deve ser estabelecido um sistema adequado que garanta a rastreabilidade do sangue e dos componentes sanguíneos. A rastreabilidade deve ser assegurada através de procedimentos rigorosos de identificação dos dadores, dos doentes e dos laboratórios, através da conservação de registos e de um sistema adequado de identificação e rotulagem. É desejável estabelecer um sistema que permita uma identificação única e inequívoca das dádivas de sangue e dos componentes sanguíneos na Comunidade. Em relação ao sangue e aos componentes sanguíneos importados de países terceiros, é necessário que os serviços de sangue garantam um nível de rastreabilidade equivalente, nas fases que antecedem a importação na Comunidade. Nas fases posteriores à importação devem ser assegurados os mesmos requisitos de rastreabilidade que se aplicam ao sangue e aos componentes sanguíneos colhidos na Comunidade.\n\n(18) Importa introduzir um conjunto de procedimentos de vigilância organizados para recolher e avaliar informações sobre reacções ou incidentes adversos ou inesperados relacionados com a colheita de sangue ou de componentes sanguíneos, por forma a prevenir a ocorrência de tais incidentes ou reacções, melhorando assim a segurança da transfusão através de medidas adequadas. Nesta perspectiva, deverá ser estabelecido nos Estados-Membros um sistema comum de notificação de reacções e incidentes adversos e graves relacionados com a colheita, análise, processamento, armazenamento e distribuição do sangue e seus componentes.\n\n(19) Sempre que o dador for informado de quaisquer resultados anormais, deve ser-lhe prestado o aconselhamento adequado.\n\n(20) A prática actual em matéria de transfusão sanguínea assenta nos princípios da dádiva voluntária, do anonimato do dador e do receptor, da não remuneração do dador e da ausência de lucro por parte do serviço envolvido na transfusão sanguínea.\n\n(21) Devem ser tomadas todas as medidas necessárias para garantir aos candidatos a dador de sangue ou de componentes sanguíneos a confidencialidade de toda a informação comunicada ao pessoal autorizado relacionada com o seu estado de saúde, com os resultados das análises das suas dádivas, bem como com toda e qualquer rastreabilidade futura da sua dádiva.\n\n(22) Nos termos do n.º 5 do artigo 152.º do Tratado, as disposições da presente directiva não podem afectar as disposições nacionais sobre dádivas de sangue. O n.º 4, alínea a), do artigo 152.º do Tratado dispõe que nada obsta a que os Estados-Membros mantenham ou introduzam medidas de protecção mais estritas no que respeita às normas de qualidade e segurança do sangue e dos componentes sanguíneos.\n\n(23) As dádivas de sangue voluntárias e não remuneradas constituem um factor que pode contribuir para a obtenção de elevados padrões de segurança do sangue e dos componentes sanguíneos e, por conseguinte, para a protecção da saúde humana. Os esforços desenvolvidos pelo Conselho da Europa neste domínio devem ser apoiados e tomadas todas as medidas necessárias para incentivar as dádivas voluntárias e não remuneradas, mediante acções e iniciativas adequadas e através dum maior reconhecimento público dos dadores, aumentando, assim, a auto-suficiência em sangue. A definição de dádiva voluntária e não remunerada do Conselho da Europa deve igualmente ser tida em conta.\n\n(24) O sangue e os componentes sanguíneos utilizados para fins terapêuticos ou em dispositivos médicos devem ser provenientes de indivíduos cujo estado de saúde seja tal que nenhum efeito nocivo possa resultar da dádiva e que o risco de transmissão de doenças infecciosas seja reduzido ao mínimo; todas as dádivas de sangue devem ser analisadas segundo regras que garantam que foram tomadas todas as medidas necessárias para proteger a saúde dos receptores de sangue e componentes sanguíneos.\n\n(25) A Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados ([^12^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0012)), determina que os dados relativos à saúde do indivíduo sejam sujeitos a uma protecção reforçada. No entanto, aquela directiva abrange apenas dados pessoais e não os que se tornaram anónimos. A presente directiva deve assim introduzir garantias adicionais para evitar toda e qualquer alteração não autorizada dos registos de dádivas ou de processamento do sangue, bem como toda a divulgação não autorizada de informações.\n\n(26) Devem ser conferidos poderes à Comissão para estabelecer requisitos técnicos e proceder às necessárias alterações a esses requisitos e aos anexos por forma a ter em conta o progresso técnico e científico.\n\n(27) O estabelecimento de requisitos técnicos e a sua adaptação ao progresso devem ter em conta a recomendação do Conselho, de 29 de Junho de 1998, respeitante à elegibilidade dos dadores de sangue e de plasma e ao rastreio das dádivas de sangue na Comunidade Europeia ([^13^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0013)), as recomendações pertinentes do Conselho da Europa e da OMS, bem como as indicações das instituições e organizações europeias competentes, tais como as monografias da Farmacopeia Europeia.\n\n(28) É necessário que a Comunidade disponha dos melhores pareceres científicos em relação à segurança do sangue e dos componentes sanguíneos, em especial no que se refere à adaptação das disposições da presente directiva ao progresso técnico e científico.\n\n(29) Deverão ser efectuadas análises, em conformidade com os mais recentes procedimentos cientícos e técnicos, que sejam um reflexo das melhores práticas da actualidade, tal como definidas através de um processo adequado de consultas a peritos, processo que deverá também ser utilizado para a respectiva revisão e actualização. O processo de revisão em apreço deverá ainda ter em conta os progressos científicos em matéria de detecção, inactivação e eliminação de agentes patogénicos transmissíveis por transfusão.\n\n(30) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^14^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0014)).\n\n(31) Para promover a aplicação eficaz do disposto na presente directiva, afigura-se adequado prever sanções a aplicar pelos Estados-Membros.\n\n(32) Uma vez que os objectivos da presente directiva, designadamente, contribuir para a confiança tanto na qualidade das dádivas de sangue e de componentes sanguíneos como na protecção da saúde dos dadores, atingir a auto-suficiência ao nível comunitário e aumentar a confiança na segurança da cadeia de transfusão sanguínea entre Estados-Membros, não podem ser suficientemente atingidos pelos Estados-Membros, podendo ser melhor alcançados ao nível comunitário em virtude da sua escala e efeitos, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(33) A responsabilidade pela organização dos serviços de saúde e pela prestação de cuidados médicos deve continuar a ser da competência de cada Estado-Membro,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "a5df85769ab4ab04": {
+   "fragment_id": "Artigo 1.º — Objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nA presente directiva estabelece normas de qualidade e segurança para o sangue humano e para os componentes sanguíneos, por forma a assegurar um elevado nível de protecção da saúde humana."
+  },
+  "e53a17ddfe53d6a5": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. A presente directiva aplica-se à colheita e análise do sangue humano e dos componentes sanguíneos, qualquer que seja a sua finalidade, bem como ao seu processamento, armazenamento e distribuição, quando se destinam à transfusão.\n\n2. Sempre que o sangue e os componentes sanguíneos forem colhidos e analisados única e exclusivamente para efeitos de transfusão autóloga e forem claramente identificados como tal, os requisitos a cumprir a esse respeito são os referidos na alínea g) do artigo 29.º\n\n3. A presente directiva aplica-se sem prejuízo das Directivas 93/42/CEE ([^15^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0015)), 95/46/CE e 98/79/CE ([^16^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0016)).\n\n4. A presente directiva não se aplica às células progenitoras hematopoiéticas."
+  },
+  "d2d5602c962fe4b6": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Sangue», o sangue total colhido de um dador e processado quer para transfusão quer para transformação subsequente;\n\nb) «Componente sanguíneo», um constituinte terapêutico do sangue (glóbulos vermelhos, glóbulos brancos, plaquetas, plasma) que pode ser obtido por vários métodos;\n\nc) «Produto sanguíneo», qualquer produto terapêutico derivado do sangue ou do plasma humano;\n\nd) «Transfusão autóloga», uma transfusão em que o dador e o receptor são a mesma pessoa e em que são utilizados sangue e componentes sanguíneos obtidos por colheita prévia;\n\ne) «Serviço de sangue», uma estrutura ou organismo responsável pelos aspectos da colheita e análise de sangue humano ou de componentes sanguíneos, qualquer que seja a sua finalidade, bem como pelo seu processamento, armazenamento e distribuição quando se destinam à transfusão. Nesta definição não se incluem os serviços de transfusão;\n\nf) «Serviço de transfusão», uma unidade hospitalar que armazena, disponibiliza e pode efectuar testes de compatibilidade com o sangue e componentes sanguíneos, para utilização exclusiva do hospital, incluindo outras actividades de transfusão com suporte hospitalar;\n\ng) «Incidente adverso grave», uma ocorrência nociva durante a colheita, análise, processamento, armazenamento e distribuição de sangue ou de componentes sanguíneos, susceptível de levar à morte ou de pôr a vida em perigo, de conduzir a uma deficiência ou incapacidade, ou de provocar, ou prolongar, a hospitalização ou a morbilidade;\n\nh) «Reacção adversa grave», uma resposta inesperada do dador ou do doente associada à colheita ou à transfusão de sangue ou de componentes sanguíneos, que causa a morte ou põe a vida em perigo, conduz a uma deficiência ou incapacidade, ou que provoca, ou prolonga, a hospitalização ou a morbilidade;\n\ni) «Libertação dum componente sanguíneo», um processo que utiliza sistemas e procedimentos que garantem que o produto final cumpre todos os requisitos exigidos, e que permite que um componente sanguíneo possa ser libertado para utilização;\n\nj) «Exclusão», a suspensão da elegibilidade de um indivíduo para dar sangue ou componentes sanguíneos, suspensão essa, que pode ser permanente ou temporária;\n\nk) «Distribuição», o fornecimento de sangue e de componentes sanguíneos a outros serviços de sangue, serviços de transfusão e fabricantes de produtos derivados do sangue e do plasma. Não inclui a disponibilização de sangue ou de componentes sanguíneos para transfusão;\n\nl) «Hemovigilância», o conjunto de processos organizados de vigilância devidos a graves incidentes ou reacções registadas em dadores ou receptores, bem como o acompanhamento epidemiológico de dadores;\n\nm) «Inspecção», um controlo formal e objectivo, de acordo com padrões aprovados, a fim de aferir do cumprimento do disposto na presente directiva e demais legislação aplicável e identificar problemas."
+  },
+  "9d3f9766cad5f60a": {
+   "fragment_id": "Artigo 4.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação\n\n1. Os Estados-Membros devem designar a autoridade ou autoridades competentes responsáveis pela aplicação dos requisitos constantes da presente directiva.\n\n2. A presente directiva não obsta a que os Estados-Membros mantenham ou adoptem medidas de protecção mais estritas nos respectivos territórios, desde que estejam em conformidade com as disposições do Tratado.\n\nOs Estados-Membros podem, nomeadamente, introduzir requisitos a que devam obedecer as dádivas voluntárias e não remuneradas, incluindo a proibição ou restrição de importações de sangue e de componentes sanguíneos que não satisfaçam esses requisitos, por forma a garantir um elevado nível de protecção da saúde e a alcançar o objectivo previsto no n.º 1 do artigo 20.º, desde que estejam reunidas as condições previstas no Tratado.\n\n3. No desempenho das actividades abrangidas pela presente directiva, a Comissão pode recorrer a assistência técnica e/ou administrativa, para benefício mútuo da Comissão e dos beneficiários, em relação à identificação, preparação, gestão, vigilância, auditoria e controlo, bem como ao apoio financeiro."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "b098b5d3e3aba7c2": {
+   "fragment_id": "DEVERES DAS AUTORIDADES DOS ESTADOS-MEMBROS",
+   "type": "divisao",
+   "heading": "DEVERES DAS AUTORIDADES DOS ESTADOS-MEMBROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEVERES DAS AUTORIDADES DOS ESTADOS-MEMBROS"
+  },
+  "54bc217f02df3cd2": {
+   "fragment_id": "Artigo 5.º — Designação, autorização, acreditação ou licenciamento dos serviços de sangue",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Designação, autorização, acreditação ou licenciamento dos serviços de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Designação, autorização, acreditação ou licenciamento dos serviços de sangue\n\n1. Os Estados-Membros devem garantir que as actividades relacionadas com a colheita e análise do sangue humano e dos componentes sanguíneos, qualquer que seja a sua finalidade, bem como com o seu processamento, armazenamento e distribuição, quando se destinam à transfusão, sejam realizadas exclusivamente pelos serviços de sangue que tenham sido designados, autorizados, acreditados ou licenciados pela autoridade competente para esse fim.\n\n2. Para efeitos do disposto no n.º 1, o serviço de sangue deve comunicar à autoridade competente as informações constantes do anexo I.\n\n3. A autoridade competente, depois de ter verificado que o serviço de sangue cumpre os requisitos estabelecidos na presente directiva, deverá indicar-lhe quais as actividades que pode executar e em que condições.\n\n4. O serviço de sangue não pode efectuar nenhuma alteração substancial das suas actividades, sem autorização prévia por escrito da autoridade competente.\n\n5. A autoridade competente poderá suspender ou revogar a designação, autorização, acreditação ou licença do serviço de sangue se, no decurso da inspecção ou de medidas de controlo, se vier a demonstrar que este não cumpre os requisitos da presente directiva."
+  },
+  "88f0cee7bad7c373": {
+   "fragment_id": "Artigo 6.º — Serviços de transfusão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Serviços de transfusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços de transfusão\n\nOs artigos 7.º e 10.º, o n.º 1 do artigo 11.º, o n.º 1 do artigo 12.º e os artigos 14.º, 15.º, 22.º e 24.º aplicam-se aos serviços de transfusão."
+  },
+  "23b4943812a7177a": {
+   "fragment_id": "Artigo 7.º — Disposições relativas aos serviços de sangue existentes",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Disposições relativas aos serviços de sangue existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições relativas aos serviços de sangue existentes\n\nOs Estados-Membros podem decidir manter as disposições nacionais durante um período de nove meses a partir da data prevista no artigo 32.º, a fim de permitir que os serviços de sangue que já se encontram em actividade ao abrigo da legislação vigente se adaptem aos requisitos da presente directiva."
+  },
+  "8d75bbe48d0c70ed": {
+   "fragment_id": "Artigo 8.º — Inspecção e medidas de controlo",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Inspecção e medidas de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inspecção e medidas de controlo\n\n1. Os Estados-Membros devem assegurar que a autoridade competente organize inspecções e medidas de controlo adequadas nos serviços de sangue por forma a garantir o cumprimento dos requisitos da presente directiva.\n\n2. A autoridade competente deve organizar inspecções e medidas de controlo periodicamente. O intervalo entre duas inspecções e medidas de controlo não deve exceder dois anos.\n\n3. As referidas inspecções e medidas de controlo devem ser efectuadas por representantes da autoridade competente, com poderes para:\n\na) Inspeccionar os serviços de sangue bem como as instalações de terceiros situadas no seu próprio território e a quem o titular da designação, autorização, acreditação ou licença referida no artigo 5.º tenha incumbido de aplicar os procedimentos de avaliação e análise nos termos do artigo 18.º;\n\nb) Recolher amostras para exame e análise;\n\nc) Examinar todos os documentos relacionados com o objecto da inspecção, sem prejuízo das disposições vigentes nos Estados-Membros, à data de entrada em vigor da presente directiva, que restringem os poderes das autoridades competentes em relação à descrição do método de preparação.\n\n4. A autoridade competente deve organizar inspecções e outras medidas de controlo, conforme for mais adequado, em caso de incidentes ou reacções adversas graves, ou de suspeita dos mesmos, em conformidade com o disposto no artigo 15.º"
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "57347feca136bfe7": {
+   "fragment_id": "DISPOSIÇÕES RELATIVAS AOS SERVIÇOS DE SANGUE",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES RELATIVAS AOS SERVIÇOS DE SANGUE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES RELATIVAS AOS SERVIÇOS DE SANGUE"
+  },
+  "77db8c76ca19ccd3": {
+   "fragment_id": "Artigo 9.º — Pessoa responsável",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Pessoa responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pessoa responsável\n\n1. Os serviços de sangue devem designar uma pessoa (a seguir designada «pessoa responsável»), que terá a responsabilidade de:\n\n— assegurar que cada unidade de sangue ou de componentes sanguíneos foi colhida e analisada, qualquer que seja a sua finalidade, e processada, armazenada e distribuída, quando se destina à transfusão, em conformidade com a lei em vigor no respectivo Estado-Membro,\n\n— prestar informações à autoridade competente no processo de designação, autorização, acreditação ou licenciamento, nos termos do artigo 5.º,\n\n— aplicar os requisitos previstos nos artigos 10.º, 11.º, 12.º, 13.º, 14.º e 15.º aos serviços de sangue.\n\n2. A pessoa responsável deverá satisfazer as seguintes condições mínimas de formação:\n\na) Possuir um diploma, certificado ou outro título que sancione um curso de nível universitário, ou um curso reconhecido como equivalente pelo Estado-Membro em causa, na área das ciências médicas ou biológicas;\n\nb) Possuir experiência prática pós-graduada de, pelo menos, dois anos em domínios relevantes, adquirida num ou vários serviços aprovados para desenvolver actividades relacionadas com a colheita e/ou a análise do sangue humano e dos componentes sanguíneos, ou com o seu processamento, armazenamento e distribuição.\n\n3. As funções referidas no n.º 1 podem ser delegadas noutras pessoas, que devem possuir as necessárias qualificações, tanto ao nível da formação como da experiência.\n\n4. Os serviços de sangue devem comunicar à autoridade competente o nome da pessoa responsável mencionada no n.º 1, bem como das outras pessoas referidas no n.º 3, juntamente com informações sobre as funções específicas pelas quais são responsáveis.\n\n5. Em caso de substituição, temporária ou definitiva, da pessoa responsável ou das outras pessoas referidas no n.º 3, o serviço de sangue deve comunicar imediatamente à autoridade competente o nome do novo responsável e a data do seu início de funções."
+  },
+  "b36fb4335ddfa22c": {
+   "fragment_id": "Artigo 10.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pessoal\n\nO pessoal envolvido na colheita, análise, processamento, armazenamento e distribuição de sangue humano e de componentes sanguíneos deve possuir as qualificações necessárias ao desempenho dessas funções e deve receber, atempadamente, uma formação adequada e periodicamente actualizada."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "37b0c1629c3e7faf": {
+   "fragment_id": "GESTÃO DA QUALIDADE",
+   "type": "divisao",
+   "heading": "GESTÃO DA QUALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GESTÃO DA QUALIDADE"
+  },
+  "5e31caf010cbf481": {
+   "fragment_id": "Artigo 11.º — Sistema de qualidade dos serviços de sangue",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Sistema de qualidade dos serviços de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sistema de qualidade dos serviços de sangue\n\n1. Os Estados-Membros devem tomar todas as medidas necessárias para assegurar que cada serviço de sangue crie e mantenha um sistema de qualidade baseado nos princípios de boas práticas.\n\n2. A Comissão deve estabelecer as normas e especificações comunitárias referidas na alínea h) do artigo 29.º para as actividades relativas ao sistema de qualidade, a aplicar pelos serviços de sangue."
+  },
+  "4094f940846fd001": {
+   "fragment_id": "Artigo 12.º — Documentação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Documentação\n\n1. Os Estados-Membros devem tomar todas as medidas necessárias para garantir que os serviços de sangue mantenham actualizada a documentação relativa aos procedimentos operacionais, normas orientadoras, manuais de formação e de referência, bem como aos relatórios.\n\n2. Os Estados-Membros devem tomar todas as medidas necessárias para garantir que os funcionários incumbidos de proceder às inspecções e medidas de controlo referidas no artigo 8.º tenham acesso a esses documentos."
+  },
+  "a4cf4412d6b09ebf": {
+   "fragment_id": "Artigo 13.º — Conservação de registos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Conservação de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conservação de registos\n\n1. Os Estados-Membros devem tomar todas as medidas necessárias para assegurar que os serviços de sangue mantenham registos actualizados das informações requeridas nos anexos II e IV e ao abrigo das alíneas b), c) e d) do artigo 29.º Os registos devem ser conservados durante, pelo menos, 15 anos.\n\n2. A autoridade competente deve conservar os registos referentes aos dados recebidos dos serviços de sangue nos termos dos artigos 5.º, 7.º, 8.º, 9.º e 15.º"
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "47a290141fb94fd1": {
+   "fragment_id": "HEMOVIGILÂNCIA",
+   "type": "divisao",
+   "heading": "HEMOVIGILÂNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### HEMOVIGILÂNCIA"
+  },
+  "98e12b1918f1d893": {
+   "fragment_id": "Artigo 14.º — Rastreabilidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Rastreabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Rastreabilidade\n\n1. Os Estados-Membros devem tomar todas as medidas necessárias para garantir que o sangue e os componentes sanguíneos colhidos, analisados, processados, armazenados, libertados e/ou distribuídos nos respectivos territórios, possam ser rastreados desde o dador até ao receptor e vice-versa.\n\nPara esse efeito, os Estados-Membros devem assegurar que os serviços de sangue apliquem um sistema que permita identificar cada dádiva de sangue e cada unidade de sangue e de componentes sanguíneos proveniente da dádiva, garantindo assim a total rastreabilidade do dador ao receptor, passando pela transfusão. O sistema deve identificar inequivocamente cada dádiva de sangue e cada componente sanguíneo. Tal sistema deve ser estabelecido em conformidade com os requisitos referidos na alínea a) do artigo 29.º\n\nQuanto ao sangue e componentes sanguíneos importados de países terceiros, os Estados-Membros devem assegurar que o sistema de identificação da dádiva a aplicar pelos serviços de sangue garanta um nível de rastreabilidade equivalente.\n\n2. Os Estados-Membros devem tomar todas as medidas necessárias para assegurar que o sistema de rotulagem do sangue e dos componentes sanguíneos colhidos, analisados, processados, armazenados, libertados e/ou distribuídos nos respectivos territórios seja conforme ao sistema de identificação referido no n.º 1 e satisfaça os requisitos de rotulagem constantes do anexo III.\n\n3. Os dados necessários para assegurar a rastreabilidade integral, de acordo com o disposto no presente artigo, serão conservados pelo prazo mínimo de 30 anos."
+  },
+  "6b06d1e5bbe1feb8": {
+   "fragment_id": "Artigo 15.º — Notificação de incidentes e reacções adversas graves",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Notificação de incidentes e reacções adversas graves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Notificação de incidentes e reacções adversas graves\n\n1. Os Estados-Membros devem assegurar que:\n\n— todos os incidentes adversos graves (acidentes e erros) relacionados com a colheita, análise, processamento, armazenamento e distribuição do sangue e dos componentes sanguíneos que possam ter influência na sua qualidade e segurança, bem como todas as reacções adversas graves observadas durante ou após a transfusão e que possam ser atribuídas à qualidade e segurança do sangue e dos seus componentes, sejam notificados à autoridade competente,\n\n— os serviços de sangue disponham dum procedimento que permita retirar de circulação, de modo preciso, eficaz e verificável, o sangue ou os componentes sanguíneos, relacionados com a notificação acima referida.\n\n2. Esses incidentes e reacções adversas graves devem ser notificados em conformidade com o procedimento e o modelo de notificação referidos na alínea i) do artigo 29.º"
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "677db5c62efa3812": {
+   "fragment_id": "DISPOSIÇÕES RELATIVAS À QUALIDADE E SEGURANÇA DO SANGUE E DOS COMPONENTES SANGUÍNEOS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES RELATIVAS À QUALIDADE E SEGURANÇA DO SANGUE E DOS COMPONENTES SANGUÍNEOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES RELATIVAS À QUALIDADE E SEGURANÇA DO SANGUE E DOS COMPONENTES SANGUÍNEOS"
+  },
+  "e056f01c18c3a1df": {
+   "fragment_id": "Artigo 16.º — Informações a prestar aos candidatos a dador",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Informações a prestar aos candidatos a dador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Informações a prestar aos candidatos a dador\n\nOs Estados-Membros devem assegurar a prestação das informações referidas na alínea b) do artigo 29.º a todos os candidatos a dador de sangue ou de componentes sanguíneos na Comunidade."
+  },
+  "190c3e3c8188d5e3": {
+   "fragment_id": "Artigo 17.º — Informações a prestar pelos dadores",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Informações a prestar pelos dadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Informações a prestar pelos dadores\n\nOs Estados-Membros devem tomar todas as medidas necessárias para garantir que todos os dadores da Comunidade, que manifestem a sua vontade de dar sangue ou componentes sanguíneos, prestem aos serviços de sangue as informações referidas na alínea c) do artigo 29.º"
+  },
+  "bfd35ff8a6cf49d5": {
+   "fragment_id": "Artigo 18.º — Elegibilidade dos dadores",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Elegibilidade dos dadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Elegibilidade dos dadores\n\n1. Os serviços de sangue devem assegurar que sejam aplicados procedimentos de avaliação a todos os dadores de sangue e de componentes sanguíneos e que sejam cumpridos os critérios em matéria de dádivas referidos na alínea d) do artigo 29.º\n\n2. Os resultados dos procedimentos de avaliação clínica e das análises efectuadas ao dador devem ser registados, devendo todas as anomalias importantes detectadas ser comunicadas ao dador."
+  },
+  "6d1cab2710db49cf": {
+   "fragment_id": "Artigo 19.º — Exame dos dadores",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Exame dos dadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Exame dos dadores\n\nAntes de cada dádiva de sangue ou de um composto sanguíneo será praticado um exame do dador que inclua um interrogatório. Um profissional de saúde qualificado será responsável, nomeadamente, por fornecer aos dadores, e junto destes recolher, as informações necessárias para aquilatar da sua admissibilidade como dadores, juízo que formulará com base nas referidas informações."
+  },
+  "fc9a3c1e9a7b5ce9": {
+   "fragment_id": "Artigo 20.º — Dádiva de sangue voluntária e não remunerada",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Dádiva de sangue voluntária e não remunerada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Dádiva de sangue voluntária e não remunerada\n\n1. Os Estados-Membros devem incentivar as dádivas de sangue voluntárias e não remuneradas com vista a assegurar que o sangue e os componentes sanguíneos sejam, na medida do possível, obtidos a partir dessas dádivas.\n\n2. Os Estados-Membros devem informar a Comissão das medidas que tomarem nos termos do n.º 1 dois anos após a entrada em vigor da presente directiva, e subsequentemente de três em três anos. Com base nesses relatórios, a Comissão informará o Parlamento Europeu e o Conselho sobre quaisquer medidas complementares necessárias que se proponha tomar a nível comunitário."
+  },
+  "a22a5077ade6ffe7": {
+   "fragment_id": "Artigo 21.º — Análise das dádivas",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Análise das dádivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Análise das dádivas\n\nOs serviços de sangue devem assegurar que todas as dádivas de sangue e de componentes sanguíneos sejam analisadas em conformidade com os requisitos referidos no anexo IV.\n\nOs Estados-Membros devem assegurar que o sangue e os componentes sanguíneos importados para a Comunidade sejam analisados em conformidade com os requisitos enumerados no anexo IV."
+  },
+  "ffc35d24a126f97b": {
+   "fragment_id": "Artigo 22.º — Condições de armazenamento, transporte e distribuição",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Condições de armazenamento, transporte e distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Condições de armazenamento, transporte e distribuição\n\nOs serviços de sangue devem assegurar que as condições de armazenamento, transporte e distribuição do sangue e dos componentes sanguíneos cumpram o disposto na alínea e) do artigo 29.º"
+  },
+  "30423c6accb3e605": {
+   "fragment_id": "Artigo 23.º — Requisitos relativos à qualidade e segurança do sangue e dos componentes sanguíneos",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Requisitos relativos à qualidade e segurança do sangue e dos componentes sanguíneos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Requisitos relativos à qualidade e segurança do sangue e dos componentes sanguíneos\n\nOs serviços de sangue devem assegurar que os requisitos relativos à qualidade e segurança do sangue e dos componentes sanguíneos correspondam a padrões elevados, em conformidade com as disposições referidas na alínea f) do artigo 29.º"
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "748234686b27ad99": {
+   "fragment_id": "PROTECÇÃO DE DADOS",
+   "type": "divisao",
+   "heading": "PROTECÇÃO DE DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROTECÇÃO DE DADOS"
+  },
+  "dad045e4019cc8aa": {
+   "fragment_id": "Artigo 24.º — Protecção de dados e confidencialidade",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Protecção de dados e confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Protecção de dados e confidencialidade\n\nOs Estados-Membros devem tomar todas as medidas necessárias para garantir que todos os dados, incluindo os relativos às informações genéticas, recolhidos em conformidade com a presente directiva e que são acessíveis a terceiros, se tornem anónimos, por forma a que o dador deixe de ser identificável.\n\nPara esse efeito deverão:\n\na) Tomar medidas para garantir a segurança dos dados, para impedir aditamentos, supressões ou alterações não autorizadas dos dados constantes das fichas dos dadores ou dos registos de exclusão, bem como para impedir a transferência não autorizada de informações;\n\nb) Estabelecer procedimentos para solucionar todas as discrepâncias de dados;\n\nc) Impedir a divulgação não autorizada dessas informações, devendo, todavia, garantir a rastreabilidade das dádivas."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "bfed2878d4f57726": {
+   "fragment_id": "INTERCÂMBIO DE INFORMAÇÕES, RELATÓRIOS E SANÇÕES",
+   "type": "divisao",
+   "heading": "INTERCÂMBIO DE INFORMAÇÕES, RELATÓRIOS E SANÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INTERCÂMBIO DE INFORMAÇÕES, RELATÓRIOS E SANÇÕES"
+  },
+  "6c00d46fdd0fc1a7": {
+   "fragment_id": "Artigo 25.º — Intercâmbio de informações",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Intercâmbio de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Intercâmbio de informações\n\nA Comissão deve reunir regularmente com as autoridades competentes designadas pelos Estados-Membros, com delegações de peritos de serviços hematológicos e com outras partes interessadas, para trocar informações sobre a experiência adquirida no que respeita à execução da presente directiva."
+  },
+  "726f2e4ffbc362d9": {
+   "fragment_id": "Artigo 26.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Relatórios\n\n1. Os Estados-Membros devem enviar um relatório à Comissão, pela primeira vez em 31 de Dezembro de 2003 e, daí em diante, de três em três anos, sobre as actividades desenvolvidas em relação às disposições da presente directiva, incluindo uma relação das medidas adoptadas em matéria de inspecção e controlo.\n\n2. A Comissão deve transmitir ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões os relatórios apresentados pelos Estados-Membros sobre a experiência adquirida com a aplicação da presente directiva.\n\n3. A Comissão deve transmitir um relatório ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité das Regiões, pela primeira vez em 1 de Julho de 2004 e, daí em diante, de três em três anos, sobre a aplicação dos requisitos da presente directiva, em particular dos que se referem à inspecção e ao controlo."
+  },
+  "df560d4ebd23fc60": {
+   "fragment_id": "Artigo 27.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Sanções\n\nOs Estados-Membros devem determinar o regime das sanções aplicáveis em caso de infracção às disposições nacionais adoptadas na sequência da presente directiva e devem tomar as medidas necessárias para garantir a sua efectiva execução. As sanções previstas devem ser eficazes, proporcionadas e dissuasivas. Os Estados-Membros devem notificar essas disposições à Comissão, o mais tardar até à data fixada no artigo 32.º, devendo também notificar, de imediato, toda e qualquer alteração posterior de que venham a ser objecto."
+  },
+  "066a8a7b3c446d0b": {
+   "fragment_id": "CAPÍTULO IX",
+   "type": "divisao",
+   "heading": "CAPÍTULO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IX"
+  },
+  "eaf16b54d6ae650f": {
+   "fragment_id": "COMITÉS",
+   "type": "divisao",
+   "heading": "COMITÉS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMITÉS"
+  },
+  "a066c70f035c1341": {
+   "fragment_id": "Artigo 28.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º."
+  },
+  "cdac53de674034ef": {
+   "fragment_id": "Artigo 29.º — Requisitos técnicos e sua adaptação ao progresso técnico e científico",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Requisitos técnicos e sua adaptação ao progresso técnico e científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Requisitos técnicos e sua adaptação ao progresso técnico e científico\n\nA adaptação ao progresso técnico e científico dos requisitos técnicos estabelecidos nos anexos I a IV deve ser efectuada pela Comissão. Estas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 28.º. Por imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 28.º no que diz respeito aos requisitos técnicos constantes dos anexos III e IV.\n\n[**►M1**](http://publications.europa.eu/resource/celex/32009R0596) A aprovação dos requisitos técnicos que se seguem e a sua adaptação ao progresso técnico e científico devem ser efectuadas pela Comissão:**◄**\n\na) Requisitos de rastreabilidade;\n\nb) Informações a prestar aos dadores;\n\nc) Informações que devem ser prestadas pelos dadores, incluindo a identificação, história clínica e assinatura do dador;\n\nd) Requisitos relativos à elegibilidade dos dadores de sangue e de plasma e ao rastreio das dádivas de sangue, incluindo:\n\n— critérios de exclusão permanente e eventuais derrogações,\n\n— critérios de exclusão temporária;\n\ne) Requisitos relativos ao armazenamento, transporte e distribuição;\n\nf) Requisitos relativos à qualidade e segurança do sangue e dos componentes sanguíneos;\n\ng) Requisitos aplicáveis à transfusão autóloga;\n\nh) Normas e especificações comunitárias relativas ao sistema de qualidade nos serviços de sangue;\n\ni) Procedimentos comunitários para a notificação de reacções e incidentes adversos graves e modelo de notificação.\n\nOs requisitos técnicos referidos nas alíneas a) a i) do segundo parágrafo, que constituem medidas que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 28.º.\n\nPor imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 28.º no que diz respeito aos requisitos técnicos referidos nas alíneas b), c), d), f) e g) do segundo parágrafo."
+  },
+  "f0c8f18617b00263": {
+   "fragment_id": "Artigo 30.º — Consulta de comités científicos",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Consulta de comités científicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Consulta de comités científicos\n\nA Comissão pode consultar o ou os comités científicos pertinentes, quando definir os requisitos técnicos referidos no artigo 29.º e quando adaptar os requisitos técnicos constantes dos anexos I a IV ao progresso técnico e científico, em particular, a fim de garantir um nível equivalente de qualidade e segurança do sangue e dos componentes sanguíneos utilizados para transfusão e como matéria-prima para o fabrico de medicamentos."
+  },
+  "63e36e9fa428ed4b": {
+   "fragment_id": "CAPÍTULO X",
+   "type": "divisao",
+   "heading": "CAPÍTULO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO X"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "0f6523bee95b85e7": {
+   "fragment_id": "Artigo 31.º — Alteração da Directiva 2001/83/CE",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Alteração da Directiva 2001/83/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Alteração da Directiva 2001/83/CE\n\nO artigo 109.º da Directiva 2001/83/CE passa a ter a seguinte redacção:\n\nÀ colheita e análise de sangue e plasma humanos aplica-se o disposto na Directiva 2002/98/CE do Parlamento Europeu e do Conselho, de 27 de Janeiro de 2003, que estabelece normas de qualidade e segurança em relação à colheita, análise, processamento, armazenamento e distribuição de sangue humano e de componentes sanguíneos e que altera a Directiva 2001/83/CE ([^17^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#E0017))."
+  },
+  "961d4c47a0ce3f46": {
+   "fragment_id": "Artigo 32.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar até 8 de Fevereiro de 2005. Do facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-Membros devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. O modo da referência é da competência dos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão os textos das disposições de direito interno que tiverem adoptado ou que venham a adoptar no âmbito da presente directiva."
+  },
+  "03320e81ac8c153d": {
+   "fragment_id": "Artigo 33.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "e59ba453f15407ae": {
+   "fragment_id": "Artigo 34.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "6ade430da06d04b6": {
+   "fragment_id": "INFORMAÇÕES QUE OS SERVIÇOS DE SANGUE DEVEM PRESTAR À AUTORIDADE COMPETENTE PARA EFEITOS DE DESIGNAÇÃO, AUTORIZAÇÃO, ACREDITAÇÃO OU LICENCIAMENTO EM CONFORMIDADE COM O N.º 2 DO ARTIGO 5.º",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES QUE OS SERVIÇOS DE SANGUE DEVEM PRESTAR À AUTORIDADE COMPETENTE PARA EFEITOS DE DESIGNAÇÃO, AUTORIZAÇÃO, ACREDITAÇÃO OU LICENCIAMENTO EM CONFORMIDADE COM O N.º 2 DO ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES QUE OS SERVIÇOS DE SANGUE DEVEM PRESTAR À AUTORIDADE COMPETENTE PARA EFEITOS DE DESIGNAÇÃO, AUTORIZAÇÃO, ACREDITAÇÃO OU LICENCIAMENTO EM CONFORMIDADE COM O N.º 2 DO ARTIGO 5.º"
+  },
+  "78f24dcd9605fdec": {
+   "fragment_id": "Parte A: informações gerais:",
+   "type": "divisao",
+   "heading": "Parte A: informações gerais:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: informações gerais:\n\n— identificação do serviço de sangue,\n\n— identificação, qualificações e contactos das pessoas responsáveis,\n\n— lista dos serviços de transfusão de que são fornecedores."
+  },
+  "e51c535d95d5f699": {
+   "fragment_id": "Parte B: Descrição do sistema de qualidade, que deve incluir:",
+   "type": "divisao",
+   "heading": "Parte B: Descrição do sistema de qualidade, que deve incluir:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Descrição do sistema de qualidade, que deve incluir:\n\n— documentação, como por exemplo um organigrama, incluindo as funções das pessoas responsáveis e a estrutura hierárquica\n\n— documentação, como por exemplo uma «planta das instalações» (*Site Master File*) e um manual de qualidade, que descreva o sistema de qualidade em conformidade com o n.º 1 do artigo 11.º,\n\n— número e qualificações do pessoal,\n\n— requisitos em matéria de higiene,\n\n— instalações e equipamentos,\n\n— lista de procedimentos operacionais normalizados para recrutar e seleccionar dadores, avaliar, processar, analisar, distribuir ou retirar da circulação unidades de sangue ou componentes sanguíneos e notificar e registar incidentes e reacções adversos graves."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "2746a231e028045f": {
+   "fragment_id": "RELATÓRIO DE ACTIVIDADES DO ANO ANTERIOR DO SERVIÇO DE SANGUE",
+   "type": "divisao",
+   "heading": "RELATÓRIO DE ACTIVIDADES DO ANO ANTERIOR DO SERVIÇO DE SANGUE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RELATÓRIO DE ACTIVIDADES DO ANO ANTERIOR DO SERVIÇO DE SANGUE\n\nEsse relatório anual deve incluir:\n\n— número total de dadores que deram sangue e componentes sanguíneos,\n\n— número total de dádivas,\n\n— lista actualizada dos serviços de transfusão de que é fornecedor,\n\n— número de dádivas de sangue total não utilizadas,\n\n— número de componentes produzidos e distribuídos (por componente),\n\n— incidência e prevalência de marcadores de doenças infecciosas transmissíveis por transfusão, nos dadores de sangue e de componentes sanguíneos,\n\n— número de produtos retirados de circulação,\n\n— número de incidentes e reacções adversas graves notificadas."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "894465c4d236555d": {
+   "fragment_id": "REQUISITOS EM MATÉRIA DE ROTULAGEM",
+   "type": "divisao",
+   "heading": "REQUISITOS EM MATÉRIA DE ROTULAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS EM MATÉRIA DE ROTULAGEM\n\nO rótulo de cada um dos componentes deve conter as seguintes informações:\n\n— designação oficial do componente,\n\n— volume, peso ou número de células do componente (consoante o caso),\n\n— identificação única, numérica ou alfanumérica, da dádiva,\n\n— nome do serviço de sangue de produção,\n\n— grupo ABO (não necessária para o plasma destinado exclusivamente a fraccionamento),\n\n— grupo Rh D, especificando-se «Rh D positivo» ou «Rh D negativo» (não necessária para o plasma destinado exclusivamente a fraccionamento),\n\n— data ou prazo de validade (consoante o caso),\n\n— temperatura de armazenamento,\n\n— nome, composição e volume do anticoagulante e/ou solução aditiva (caso exista)."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "9431113dd4c25a73": {
+   "fragment_id": "REQUISITOS DE BASE EM MATÉRIA DE ANÁLISE DAS DÁDIVAS DE SANGUE TOTAL E DE COMPONENTES",
+   "type": "divisao",
+   "heading": "REQUISITOS DE BASE EM MATÉRIA DE ANÁLISE DAS DÁDIVAS DE SANGUE TOTAL E DE COMPONENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS DE BASE EM MATÉRIA DE ANÁLISE DAS DÁDIVAS DE SANGUE TOTAL E DE COMPONENTES\n\nDevem ser realizadas as seguintes análises às unidades de sangue total e de aférese, incluindo as unidades para transfusão autóloga obtidas por colheita prévia:\n\n— grupo ABO (não necessária para o plasma destinado exclusivamente a fraccionamento),\n\n— grupo Rh D (não necessária para o plasma destinado exclusivamente a fraccionamento),\n\n— detecção das seguintes infecções nos dadores:\n\n— hepatite B (HBs-Ag),\n\n— hepatite C (Anti-HCV),\n\n— HIV ½ (Anti-HIV ½).\n\nPodem ser necessárias análises adicionais para componentes, dadores ou situações epidemiológicas específicas.\n\n---"
+  },
+  "3034d44efba5ba12": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0001)) JO C 154 E de 29.5.2001, p. 141 e\n\n> JO C 75 E de 26.3.2002, p. 104.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0002)) JO C 221 de 7.8.2001, p. 106.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0003)) JO C 19 de 22.1.2002, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 6 de Setembro de 2001 ( JO C 72 E de 21.3.2002, p. 289), posição comum do Conselho de 14 de Fevereiro de 2002 (JO C 113 E de 14.5.2002, p. 93) e Decisão do Parlamento Europeu de 12 de Junho de 2002 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 18 de Dezembro de 2002 e decisão do Conselho de 16 de Dezembro de 2002.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0005)) JO L 311 de 28.11.2001, p. 67.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0006)) JO C 164 de 30.6.1995, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0007)) JO C 374 de 11.12.1996, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0008)) JO C 268 de 4.10.1993, p. 29.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0009)) JO C 329 de 6.12.1993, p. 268.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0010)) JO C 249 de 25.9.1995, p. 231.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0011)) JO C 141 de 13.5.1996, p. 131.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0012)) JO L 281 de 23.11.1995, p. 31.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0013)) JO L 203 de 21.7.1998, p. 14.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0014)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0015)) Directiva 93/42/CEE do Conselho, de 14 de Junho de 1993, relativa aos dispositivos médicos (JO L 169 de 12.7.1993, p. 1). Directiva com a última redacção que lhe foi dada pela Directiva 2001/104/CE do Parlamento Europeu e do Conselho (JO L 6 de 10.1.2002, p. 50).\n\n> ([^16^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0016)) Directiva 98/79/CE do Parlamento Europeu e do Conselho, de 27 de Outubro de 1998, relativa aos dispositivos médicos de diagnóstico *in vitro* (JO L 331 de 7.12.1998, p. 1).\n\n> ([^17^](http://publications.europa.eu/resource/cellar/32e2c281-0ccf-4af4-a4fe-45a4fbf37988.0018.03/DOC_1#src.E0017)) JO L 33 de 8.2.2003, p. 30.»"
+  }
+ }
+}

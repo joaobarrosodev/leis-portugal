@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:898710465:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso-extrato/2024-1178255475",
+ "dre_path": "/dr/detalhe/aviso-extrato/27066-2024-898710465",
+ "source_lastmod": "2026-10-07",
+ "versions": [
+  {
+   "date": "2024-12-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1178255675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1178255675": {
+   "fragment_id": "1178255575",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso (extrato)  n.º 27066/2024/2\n\nEm conformidade com o disposto na alínea d) do n.º 1 do artigo 4.º da Lei n.º 35/2014 de 20 de junho, conjugado com o n.º 6 do artigo 27.º da Lei n.º 2/2004, de 15 de janeiro na sua atual redação, adaptada à Administração Local pela Lei n.º 49/2012, de 29 de agosto, na sua redação atual, torna-se público que a trabalhadora Alexandra Filomena Silva Daniel, cessou a comissão de serviço, em regime de substituição, no cargo de direção intermédia de 3.º grau - Coordenadora do Gabinete de Controlo Interno, Qualidade e Auditoria, com efeitos a 14 de novembro de 2024."
+  }
+ }
+}

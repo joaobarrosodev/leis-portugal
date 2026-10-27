@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:426929:por
+title: Decreto n.º 388/76
+short_title: null
+summary: Cria a reserva paisagística de Almada
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 388/76
+official_date: null
+publication_date: '1976-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 121/1976, Série I de 1976-05-24
+  number: '121'
+  series: I
+  supplement: null
+  pages: 1162 - 1164
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12100/11621164.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '426929'
+  dre_path: /dr/detalhe/decreto/388-1976-426929
+  internal: pt:dre:426929:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/388-1976-426929
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/388-1976-426929
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:42:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 27223648ffe6ac5a749bb2b8d9ef3acdddf4dd0f082016ddfac6b281f93178a7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:42:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contravenção
+- Expropriação
+- Fiscalização
+- Fundo de Fomento da Habitação
+- Multa
+- Ordenamento do Território
+- Reserva Natural
+- Reserva Paisagística de Almada
+relationships:
+- type: cites
+  target: pt:dre:146730:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:42:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 388/76
+
+de 24 de Maio
+
+A reserva paisagística de Almada criada por este decreto-lei constitui o prolongamento visual para Sul da extensão urbana de Almada-Monte da Caparica, em estudo no Fundo de Fomento da Habitação.
+
+Além disto, os vales que a constituem são importantes na drenagem atmosférica daquela zona e na infiltração e drenagem das águas pluviais, defendendo das enxurradas, por um lado, Almada e Cova da Piedade, por outro, a Trafaria.
+
+A potencialidade dos aluviões do vale para a cultura de regadio, a compartimentação das explorações e a localização e arquitectura de vários agregados rurais de muito interesse justificam ainda a criação desta reserva, cujo valor paisagístico e etnográfico constitui um quadro bem definido que não deve ser adulterado.
+
+No seguimento da declaração de expropriação sistemática publicada no Diário do Governo, de 30 de Outubro de 1974 e usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º Por força do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, é criada a reserva paisagística de Almada.
+
+Art. 2.º - 1. A área englobada na reserva é limitada:
+
+A norte e poente - pela via rápida de Almada-Costa da Caparica.
+
+A nascente - pela Auto-Estrada do Sul.
+
+A sul - pela estrada nacional n.º 10-1, na extensão que vai desde a via rápida de Almada-Costa da Caparica até ao Areeiro, pela estrada que liga o Areeiro à Sobreda e por uma estrada que faz a ligação da Sobreda a Feijó.
+
+2. Os limites da área descrita no número anterior vão demarcados na carta corográfica anexa ao presente decreto e que dele faz parte integrante.
+
+Art. 3.º - 1. O ordenamento da reserva será estabelecido num plano de ordenamento aprovado pelo Secretário de Estado do Ambiente.
+
+2. Fica desde já aprovada, para entrar em vigor com o presente decreto, a carta de zonamento de ele anexa, a qual tem por efeito estabelecer imperativamente a aptidão das diferentes áreas da reserva.
+
+3. As zonas e os edifícios e conjuntos arquitectónicos de interesse cultural marcados na carta de zonamento ficam sujeitos ao seguinte regulamento:
+
+a) Zona agrícola. - Esta zona é exclusivamente destinada à prática da actividade agrícola, admitindo-se no entanto a instalação pontual de alguns equipamentos para uso colectivo ou agrícola;
+
+b) Zona potencialmente edificável. - Nesta zona, com o fim de permitir a expansão de alguns aglomerados habitacionais existentes, é admitida a ocupação edificada até à altura máxima de dois pisos, desde que satisfaça às seguintes condições:
+
+I - As paredes exteriores não devem ter qual-qualquer revestimento (tal como: azulejos, tijoleira, marmorite, etc.), devendo no entanto ser garantido o seu bom acabamento;
+
+II - Se o acabamento das paredes for em reboco pintado, só poderá ser utilizada a cor branca;
+
+c) Edifícios e conjuntos arquitectónicos de interesse cultural. - Nestes edifícios e conjuntos arquitectónicos não poderão ser efectivadas quaisquer obras sem autorização da Secretaria de Estado do Ambiente, sem prejuízo das demais autorizações legalmente exigidas.
+
+Art. 4.º - 1. Fica dependente de autorização da Secretaria de Estado do Ambiente a realização dos seguintes trabalhos ou obras dentro da área da reserva ou quando com ela interfiram:
+
+a) Construção, reconstrução, ampliação ou demolição de edifícios ou outras instalações;
+
+b) Instalação, alteração ou ampliação de estabelecimentos industriais ou comerciais, ou de quaisquer outras implantações fixas ou móveis;
+
+c) Alterações importantes, por meio de aterros ou escavações, à configuração geral dos terrenos;
+
+d) Derrube de árvores em maciço;
+
+e) Abertura de novas vias de comunicação e passagem de linhas eléctricas ou telefónicas;
+
+f) Captação e desvio de águas;
+
+g) A plantação de povoamentos florestais.
+
+2. A autorização a que se refere o número anterior não dispensa quaisquer outros condicionamentos legalmente exigidos.
+
+Art. 5.º - 1. aplicável às obras e trabalhos efectuados com inobservância do preceituado no artigo anterior o disposto no artigo 5.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730).
+
+2. Ficam sujeitas a expropriação todas as parcelas da área regulamentada como agrícola nas quais tenha havido a modificação do uso agrícola, com ou sem plano anteriormente aprovado.
+
+3. A expropriação será promovida pelo Fundo de Fomento da Habitação.
+
+4. Quando se verifique, após o inquérito a realizar, que se acham preenchidos os requisitos suficientes para que aos expropriados seja atribuída habitação social, serão estes realojados pelo Fundo de Fomento da Habitação no plano integrado de Almada-Monte da Caparica.
+
+5. Nos casos previstos no número anterior, os expropriados só serão desalojados quando lhes for assegurado o simultâneo realojamento.
+
+6. São nulas as licenças municipais concedidas com violação do regime instituído neste diploma.
+
+Art. 6.º Constitui contravenção:
+
+a) A realização, total ou parcial, de quaisquer trabalhos, obras ou actividades na área da reserva ou que com ela interfiram, sem as competentes autorizações ou que sejam contrárias ao disposto neste diploma ou demais normas aplicáveis às condições impostas nos actos de autorização ou aos projectos aprovados;
+
+b) A introdução, a circulação e o estabelecimento na área da reserva de pessoas, veículos ou animais com inobservância das proibições ou condicionamentos que forem estabelecidos;
+
+c) A instalação de locais de campismo ou o acampamento na área da reserva fora das zonas especialmente destinadas a esse fim ou com inobservância das condições fixadas;
+
+d) O abandono de detritos fora dos locais especialmente destinados a esse fim;
+
+e) A introdução na reserva de espécies animais em liberdade e espécies vegetais, exóticas, não tradicionais na paisagem local;
+
+f) A destruição de vegetação;
+
+g) O depósito de materiais ou qualquer outra alteração de relevo.
+
+Art. 7.º - 1. As contravenções previstas no artigo anterior são punidas com multas:
+
+a) De 1000$00 a 10000$00, as das alíneas a), b), d), g) e a instalação de locais de campismo prevista na alínea c);
+
+b) De 500$00, o acto de acampamento previsto na alínea c);
+
+c) De 200$00 a 1000$00, as das alíneas e) e f).
+
+2. A aplicação da multa pelas contravenções previstas nas alíneas a) e g) do artigo anterior não prejudica a obrigação de o infractor demolir as obras ou trabalhos efectuados, quando não sejam posteriormente autorizados.
+
+Art. 8.º - 1. As funções de polícia e fiscalização da reserva competem às autoridades com jurisdição na área da reserva.
+
+2. Os autos de notícia por infracção ao disposto no presente decreto serão levantados e processados nos termos dos artigos 166.º e 167.º do Código de Processo Penal.
+
+3. O produto das multas previstas no artigo anterior reverterá em favor da câmara municipal do concelho onde a infracção havia sido praticada.
+
+Art. 9.º Serão aprovados por portaria do Secretário de Estado do Ambiente os sinais indicativos de proibição, permissões e de condicionamento previsto neste decreto, para os quais não existam já modelos legalmente estabelecidos.
+
+Art. 10.º As dúvidas suscitadas pelo presente decreto e pela carta de zonamento anexa serão resolvidas por despacho do Secretário de Estado do Ambiente.
+
+José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - Eduardo Ribeiro Pereira - Artur Eduardo Brochado dos Santos Silva.
+
+Promulgado em 3 de Maio de 1976.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/05/12100/11621164.pdf)
+
+O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.

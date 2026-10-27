@@ -1,0 +1,371 @@
+---
+schema_version: '1.0'
+id: pt:dre:612469:por
+title: Decreto Regulamentar Regional n.º 7/89/M
+short_title: null
+summary: Estabelece a natureza, atribuições, orgânica, funcionamento e pessoal do Gabinete do Secretário Regional da Administração
+  Pública
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 7/89/M
+official_date: null
+publication_date: '1989-02-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/1989, Série I de 1989-02-18
+  number: '41'
+  series: I
+  supplement: null
+  pages: 675 - 679
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04100/06750679.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '612469'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/7-1989-612469
+  internal: pt:dre:612469:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1989-612469
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1989-612469
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:45:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 391e6a19d54a9546da4c96e7e72b5245ff8fcd78a6ad1b92f3a1a985fea0d01b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gabinete do Secretário Regional da Administração Pública
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612468:por
+  label: null
+  source: null
+article_structure:
+  article_count: 18
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:45:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 7/89/M
+
+Estabelece a natureza, atribuições, orgânica, funcionamento e pessoal do Gabinete do Secretário Regional da Administração Pública
+
+A Lei Orgânica da Secretaria Regional da Administração Pública, aprovada pelo [Decreto Legislativo Regional n.º 5/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1989-612468), de 18 de Fevereiro, dedica especial atenção ao Gabinete do Secretário Regional, definindo-o como um organismo a dotar de orgânica própria, a aprovar por decreto regulamentar regional.
+
+Na elaboração do presente diploma segue-se uma metodologia, já tradicional nesta Região Autónoma, baseada no princípio de que as atribuições do Gabinete não se resumem à preparação e canalização das decisões do Secretário Regional, já que lhe compete dar apoio técnico, administrativo e logístico a outros organismos da SRA. Isto por razões de racionalização e economia de meios. Daí que se dote o Gabinete de um conjunto de órgãos e serviços devidamente estruturados e coordenados e de um quadro de pessoal próprio.
+
+Assim:
+
+O Governo Regional da Madeira decreta, nos termos da alínea b) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
+
+### CAPÍTULO I — Natureza e atribuições
+
+###### Artigo 1.º — Natureza
+
+O Gabinete do Secretário Regional da Administração Pública, designado no presente diploma abreviadamente por Gabinete, é o organismo a que se refere a alínea a) do n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 5/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1989-612468), de 18 de Fevereiro, e cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes.
+
+###### Artigo 2.º — Atribuições
+
+1 - São atribuições do Gabinete:
+
+a) Preparar e coordenar todos os assuntos que devam ser submetidos a despacho do Secretário Regional;
+
+b) Emitir os pareceres necessários às tomadas de decisão;
+
+c) Efectuar a gestão do pessoal dos organismos e serviços da SRA não dotados de autonomia administrativa e financeira;
+
+d) Elaborar o plano e orçamento da SRA;
+
+e) Executar o orçamento da SRA;
+
+f) Assegurar os apoios técnico e jurídico aos organismos e serviços da SRA que deles careçam;
+
+g) Assegurar as ligações entre os vários organismos e serviços da SRA e entre estes e o exterior;
+
+h) Organizar e manter permanentemente actualizados arquivos, ficheiros, estatísticas e informações com interesse para a prossecução dos objectivos da SRA.
+
+2 - Para além das enunciadas no número anterior, o Secretário Regional poderá cometer ao Gabinete outras atribuições sempre que as circunstâncias o justifiquem.
+
+###### Artigo 3.º — Competências
+
+1 - O Gabinete é dirigido pelo chefe do Gabinete, na dependência directa do Secretário Regional.
+
+2 - Compete, genericamente, ao chefe do Gabinete;
+
+a) Garantir o funcionamento harmonioso e concertado de todos os órgãos e serviços que integram o Gabinete;
+
+b) Assegurar o expediente do Gabinete;
+
+c) Preparar e coordenar os assuntos a submeter a despacho do Secretário Regional;
+
+d) Manter o controlo interno dos documentos;
+
+e) Exercer as demais funções que lhe forem delegadas pelo Secretário Regional.
+
+3 - O chefe do Gabinete será substituído, nas suas ausências e impedimentos, pelo adjunto do Gabinete.
+
+### CAPÍTULO II — Órgãos e serviços e respectivas atribuições
+
+###### Artigo 4.º — Estrutura
+
+1 - O Gabinete compreende:
+
+a) Direcção de Serviços Administrativos (DSA);
+
+b) Divisão de Estudos, Planeamento e Estatística (DEPE);
+
+c) Assessoria Jurídica (AJ);
+
+d) Serviço de Gestão de Pessoal (SGP);
+
+e) Serviço de Actividades Culturais e Recreativas (SACR).
+
+2 - A DSA é dirigida pelo director de serviços administrativos, ao qual compete assegurar a realização das respectivas atribuições.
+
+3 - A DEPE é dirigida por um chefe de divisão, ao qual compete assegurar a realização das respectivas atribuições.
+
+4 - A AJ é coordenada pelo assessor jurídico, o qual, nas suas ausências e impedimentos, será substituído por técnico com formação jurídica a designar pelo Secretário Regional.
+
+5 - Os serviços referidos nas alíneas d) e e) do n.º 1 deste artigo são coordenados por funcionários ou agentes a designar pelo Secretário Regional.
+
+#### SECÇÃO I — Direcção de Serviços Administrativos (DSA)
+
+###### Artigo 5.º — Natureza
+
+A DSA é um órgão destinado essencialmente a prestar apoio administrativo e logístico ao Gabinete e a todos os organismos e serviços que, no âmbito da SRA, dele careçam.
+
+###### Artigo 6.º — Atribuições
+
+São atribuições da DSA:
+
+a) Assegurar a execução do expediente, registo e arquivo gerais do Gabinete;
+
+b) Elaborar, em conjunto com a DEPE, o orçamento da SRA e respectivas alterações;
+
+c) Assegurar o serviço de recrutamento, movimentação e cadastro do pessoal cuja gestão compete ao Gabinete, instruindo os respectivos processos individuais, bem como todo o expediente inerente à concessão dos benefícios médico-sociais garantidos aos funcionários e seus familiares;
+
+d) Assegurar o apetrechamento dos organismos e serviços da SRA não dotados de autonomia administrativa e ou financeira, efectuando as aquisições necessárias para o seu regular funcionamento e mantendo actualizado o respectivo cadastro patrimonial;
+
+e) Conceder apoio administrativo a toda a estrutura do Gabinete e, quando necessário, a outros organismos e serviços dependentes da SRA;
+
+f) Velar pela segurança e conservação do património;
+
+g) Assegurar a gestão das viaturas ao serviço do Gabinete, com vista ao seu aproveitamento racional;
+
+h) Assegurar a eficiência das redes de comunicação interna e externa tanto do Gabinete como dos organismos e serviços da SRA não dotados de autonomia administrativa e financeira;
+
+i) Emitir certidões de documentos existentes nos arquivos do Gabinete, desde que devidamente autorizadas;
+
+j) Organizar e manter actualizado todo o processo contabilístico do Gabinete;
+
+l) Recolher e proceder à análise e difusão da informação;
+
+m) Organizar e manter em funcionamento a biblioteca do Gabinete;
+
+n) Assegurar a existência de ficheiros completos e actualizados de legislação, doutrina e jurisprudência;
+
+o) Garantir, de uma forma geral, o eficaz funcionamento do Gabinete em tudo que não seja das atribuições específicas dos restantes órgãos e serviços que o integram.
+
+###### Artigo 7.º — Estrutura
+
+1 - A DSA compreende:
+
+a) Repartição de Expediente e Arquivo;
+
+b) Repartição de Pessoal e Contabilidade;
+
+c) Centro de Informação e Documentação;
+
+2 - A Repartição de Expediente e Arquivo integra duas secções:
+
+a) Secção de Expediente e Assuntos Gerais;
+
+b) Secção de Registo e Arquivo.
+
+3 - A Repartição de Pessoal e Contabilidade integra duas secções:
+
+a) Secção de Pessoal;
+
+b) Secção de Contabilidade e Património.
+
+4 - O Centro de Informação e Documentação é, para efeitos de chefia, equiparado a uma secção administrativa.
+
+#### SECÇÃO II
+
+##### Divisão de estudos, planeamento e estatística (DEPE)
+
+###### Artigo 8.º — Natureza
+
+A DEPE é o órgão técnico com atribuições em matérias de estudos, planeamento e estatística nos vários domínios de intervenção da SRA.
+
+###### Artigo 9.º — Atribuições
+
+1 - São atribuições da DEPE:
+
+a) Coordenar, de acordo com as instruções do Secretário Regional, a elaboração dos planos de actividades, programas de acção e orçamento anual da SRA;
+
+b) Elaborar estudos e preparar estatísticas com interesse para a prossecução dos objectivos da SRA, procedendo, através dos meios mais adequados, à recolha e tratamento dos elementos necessários;
+
+c) Emitir pareceres sobre matérias de planeamento e gestão financeira e patrimonial;
+
+d) Apoiar a DSA em matérias relacionadas com a execução do orçamento do Gabinete e dos organismos sem autonomia administrativa e financeira;
+
+e) Coordenar a elaboração dos relatórios de actividades do Gabinete.
+
+2 - Para cumprimento das suas atribuições, a DEPE terá a colaboração e apoio dos restantes organismos e serviços da SRA.
+
+#### SECÇÃO III — Assessoria Jurídica (AJ)
+
+###### Artigo 10.º — Natureza
+
+A AJ é o órgão de consulta e apoio jurídicos do Gabinete.
+
+###### Artigo 11.º — Atribuições
+
+São atribuições da AJ:
+
+a) Emitir parecer sobre assuntos de índole jurídica submetidos à sua apreciação pelo Secretário Regional;
+
+b) Informar e dar apoio técnico aos processos judiciais e ao contencioso administrativo em que a SRA seja parte;
+
+c) Dar parecer sobre questões emergentes da gestão do pessoal da SRA;
+
+d) Instruir processos de sindicância, inquérito e disciplinares, quando superiormente determinados;
+
+e) Prestar apoio na elaboração de projectos de diplomas dimanados da SRA.
+
+#### SECÇÃO IV — Serviço de Gestão de Pessoal (SGP)
+
+###### Artigo 12.º — Natureza
+
+O SGP é o órgão técnico de apoio ao Gabinete em matérias de gestão de pessoal.
+
+###### Artigo 13.º — Atribuições
+
+São atribuições do SGP:
+
+a) Proceder aos estudos relativos aos sistemas integrados de gestão do pessoal da SRA, propondo as medidas necessárias ao seu gradual estabelecimento;
+
+b) Propor formas de orientação e coordenação da acção de todos os serviços com atribuições em matéria de gestão do pessoal da SRA;
+
+c) Dar parecer sobre os processos respeitantes à gestão do pessoal da SRA que devam ser submetidos a despacho do Secretário Regional;
+
+d) Manter permanentemente actualizado um ficheiro de todo o pessoal da SRA;
+
+e) Propor a definição da estrutura dos quados de pessoal da SRA e controlar o seu preenchimento em cooperação, quando necessário, com os serviços interessados;
+
+f) Proceder à verificação dos requisitos legais para integração nos quadros da SRA, acesso nas carreiras e contratação de pessoal além dos quadros;
+
+g) Propor os critérios a observar para efeitos de elaboração de cadastros do pessoal da SRA;
+
+h) Elaborar estatísticas sobre matérias de interesse para uma correcta e eficaz gestão do pessoal da SRA;
+
+i) Dar parecer sobre diplomas legais com incidência em matérias de gestão de pessoal no âmbito da SRA.
+
+#### SECÇÃO V — Serviço de Actividades Culturais e Recreativas (SACR)
+
+###### Artigo 14.º — Natureza
+
+O SACR é o órgão de concepção, apoio e fomento de actividades culturais, desportivas e recreativas destinadas a trabalhadores e suas famílias.
+
+###### Artigo 15.º — Atribuições
+
+São atribuições do SACR:
+
+a) Administrar as áreas afectas à SRA para fins de lazer e desporto, nomeadamente a Zona de Lazer do Montado do Pereiro e o Parque Desportivo dos Trabalhadores, propondo a criação das estruturas necessárias e adequadas ao seu pleno funcionamento e integral aproveitamento;
+
+b) Estudar formas de apoio a conceder pela SRA a organismos vocacionados para o desenvolvimento de actividades de índole desportiva, recreativa e cultural destinadas a trabalhadores;
+
+c) Fomentar e apoiar acções visando o aproveitamento dos tempos livres do pessoal da SRA.
+
+### CAPÍTULO III — Pessoal
+
+###### Artigo 16.º — Quadro
+
+1 - O pessoal do Gabinete é agrupado em:
+
+a) Pessoal dirigente e de chefia;
+
+b) Pessoal técnico superior;
+
+c) Pessoal técnico;
+
+d) Pessoal técnico-profissional;
+
+e) Pessoal administrativo;
+
+f) Pessoal operário;
+
+g) Pessoal auxiliar.
+
+2 - O quadro de pessoal do Gabinete é o constante do mapa anexo ao presente diploma.
+
+3 - O pessoal do Gabinete rege-se pelas normas gerais aplicáveis à administração regional autónoma.
+
+### CAPÍTULO IV — Disposições transitórias e finais
+
+###### Artigo 17.º — Primeiro provimento do pessoal
+
+O primeiro provimento do pessoal do Gabinete processa-se nos termos do disposto no artigo 13.º do [Decreto Legislativo Regional n.º 5/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1989-612468), de 18 de Fevereiro.
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 12 de Janeiro de 1989.
+
+O Presidente do Governo Regional, Alberto João Gonçalves Cardoso Jardim.
+
+Assinado em 3 de Fevereiro de 1989.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04100/06750679.pdf)

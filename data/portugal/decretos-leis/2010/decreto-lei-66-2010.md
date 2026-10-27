@@ -1,0 +1,306 @@
+---
+schema_version: '1.0'
+id: pt:dre:335465:por
+title: Decreto-Lei n.º 66/2010
+short_title: null
+summary: Estabelece o procedimento aplicável à extinção das tarifas reguladas de venda de gás natural a clientes finais, com
+  consumos anuais superiores a 10 000 m3, e procede à primeira alteração ao Decreto-Lei n.º 30/2006, de 15 de Fevereiro, e
+  à segunda alteração ao Decreto-Lei n.º 140/2006, de 26 de Julho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia, da Inovação e do Desenvolvimento
+proposing_entity: null
+official_number: 66/2010
+official_date: null
+publication_date: '2010-06-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 112/2010, Série I de 2010-06-11
+  number: '112'
+  series: I
+  supplement: null
+  pages: 1990 - 1992
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11200/0199001992.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/66/2010/06/11/p/dre/pt/html
+  oj: null
+  dre: '335465'
+  dre_path: /dr/detalhe/decreto-lei/66-2010-335465
+  internal: pt:dre:335465:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465
+  metadata_url: https://data.dre.pt/eli/dec-lei/66/2010/06/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: edc489d252b714a638c24633b05bfb7f6c21ff46d70153659c996e316db546e2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Comércio
+- Contrato
+- Definição de Competências
+- Entidade Reguladora dos Serviços Energéticos
+- Indústria
+- Liberalização do Mercado
+- Licenciamento
+- Mibgas
+- Preço
+- Preço Livre
+- Proteção do Consumidor
+- Publicitação
+- Rede Pública de Gás Natural
+- Serviço Público
+- Sociedade Anónima
+relationships:
+- type: amended_by
+  target: pt:dre:66379753:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:670022:por
+  label: "Alterados, a partir de 21.06.2011, os arts. 40º e 43º do Dec Lei 30/2006, de 15-Fev, na redacção do presente diploma,\
+    \ pelo DEC LEI.77/2011.20.06.2011.MEID, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2011-670022
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:553917:por
+  label: "Alterados os arts. 40.º e 43.º do Dec Lei 30/2006, de 15-fev, na redação do presente diploma, pelo DEC LEI.74/2012.26.03.2012.MEE,\
+    \ DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2012-553917
+  date: '2012-03-26'
+- type: amended_by
+  target: pt:dre:192436:por
+  label: "Alterados os arts. 40º e 43º do Dec Lei 30/2006, de 15-fev, na redação do presente diploma, pelo DEC LEI.230/2012.26.10.2012.MEE,\
+    \ DR.IS [208] de 26.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2012-192436
+  date: '2012-10-26'
+- type: amended_by
+  target: pt:dre:192437:por
+  label: "Alterado, a partir de 25.11.2012, o art. 41º do Dec Lei 140/2006, de 26-jul, na redação do presente diploma, pelo\
+    \ DEC LEI.231/2012.26.10.2012.MEE, DR.IS [208] de 26.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-2012-192437
+  date: '2012-10-26'
+- type: amended_by
+  target: pt:dre:257005:por
+  label: "Alterado o art. 5º do presente diploma, na redação do Dec Lei 77/2011, de 20-jun, e Dec Lei 74/2012, de 26-mar,\
+    \ pelo DEC LEI.15/2013.28.01.2013.MEE, DR.IS [19] de 28.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2013-257005
+  date: '2013-01-28'
+- type: amended_by
+  target: pt:dre:66379753:por
+  label: Dada nova redação ao art. 5.º (alterado pelo Dec Lei 77/2011 de 20-jun, pelo Dec Lei 74/2012 de 26-mar e pelo Dec
+    Lei 15/2013 de 28-jan); e revogados os n.ºs 3 e 5 do referido art. 5.º do presente diploma pelo(a) Decreto-Lei n.º 15/2015
+    - Diário da República n.º 21/2015, Série I de 2015-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2015-66379753
+  date: '2015-01-30'
+- type: cites
+  target: celex:32003L0055
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/55/oj
+- type: cites
+  target: pt:dre:539238:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/140/2006/07/26/p/dre
+- type: cites
+  target: pt:dre:683858:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/30/2006/02/15/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:13:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 66/2010
+
+de 11 de Junho
+
+O Programa do XVIII Governo Constitucional dispõe que um dos objectivos fundamentais para modernizar Portugal passa por promover a concorrência dos mercados da energia e a transparência dos preços, designadamente do gás natural.
+
+A dinamização da concorrência nos mercados grossista e retalhista com vista à redução da sua concentração necessita de ser estimulada. Para tal, o governo preconiza um processo progressivo de eliminação das tarifas reguladas, salvaguardando o interesse dos consumidores mais vulneráveis.
+
+A reorganização do Sistema Nacional de Gás Natural (SNGN), operada em 2006, pelo Decreto-Lei n.º 30/2006, de 15 de Fevereiro, e pelo Decreto-Lei n.º 140/2006, de 26 de Julho, introduziu profundas alterações ao regime de exercício das actividades do sector, das quais se destacam a introdução da figura do comercializador de último recurso e a separação jurídica das actividades de operação das redes e demais infra-estruturas do sistema das restantes actividades do SNGN, designadamente da comercialização.
+
+Da reorganização do sector do gás natural resultou ainda a obrigação da Entidade Reguladora dos Serviços Energéticos (ERSE) aprovar um regulamento tarifário e fixar os preços e as tarifas segundo os princípios tarifários estabelecidos no Decreto-Lei n.º 30/2006, de 15 de Fevereiro, não só as tarifas de acesso às redes e infra-estruturas, mas também as tarifas de venda a todos os clientes finais do gás fornecido pelos comercializadores de último recurso.
+
+Contudo, no quadro da Directiva n.º [2003/55/CE](http://data.europa.eu/eli/dir/2003/55/oj?locale=pt), do Parlamento e do Conselho, de 26 de Junho, relativa às regras comuns para o mercado de gás natural, e no espírito que subjaz ao Decreto-Lei n.º 30/2006, de 15 de Fevereiro, tanto a figura do comercializador de último recurso como a fixação de tarifas reguladas de venda de gás assumem um carácter restrito e provisório, tendo sido consagradas sobretudo a favor dos consumidores domésticos e de pequenas empresas, e, ainda assim, apenas no período em que o mercado não assegurasse em termos competitivos e socialmente razoáveis o fornecimento de gás natural.
+
+Desde a reorganização ocorrida em 2006 o sector tem sofrido uma grande evolução, influenciada pelo calendário previsto para a abertura do mercado, bem como pelas condições favoráveis que entretanto ocorreram.
+
+Assim, desde 1 de Janeiro de 2010 todos os consumidores passaram a poder escolher livremente o seu comercializador de gás natural.
+
+A abertura de mercado, reforçada pela criação do Mercado Ibérico do Gás Natural (MIBGAS), permitiu o aparecimento de novos comercializadores.
+
+Por tudo isto, e em resultado da existência de grandes quantidades de gás natural transaccionadas, actualmente o mercado de gás natural para fornecimentos superiores a 10 000 m3 apresenta grande liquidez, que se traduz na disponibilidade de ofertas de fornecimento em termos competitivos e mais favoráveis para os consumidores.
+
+O desenvolvimento entretanto verificado no mercado do gás natural, a que acresce a necessidade de conformação do conceito de comercializador de último recurso com as exigências da Directiva n.º [2003/55/CE](http://data.europa.eu/eli/dir/2003/55/oj?locale=pt), justificam a extinção das tarifas reguladas de venda a clientes finais de gás natural com consumos anuais superiores a 10 000 m3.
+
+Deste modo, a extinção destas tarifas reguladas afigura-se simultaneamente favorável para os consumidores e para o desenvolvimento do mercado, tornando-o mais aberto e competitivo.
+
+O presente decreto-lei tem por finalidade estabelecer os procedimentos aplicáveis à extinção das tarifas reguladas de venda a clientes finais de gás natural com consumos anuais superiores a 10 000 m3, nos quais se incluem sobretudo clientes industriais, excluindo-se do seu âmbito de aplicação as tarifas reguladas de venda a consumidores e clientes finais com consumos anuais inferiores ou iguais a 10 000 m3. Deste modo, os consumidores domésticos poderão continuar a ser fornecidos pelo comercializador de último recurso, continuando as respectivas tarifas a ser determinadas pela ERSE.
+
+Foi ouvida a Entidade Reguladora dos Serviços Energéticos.
+
+Foi promovida a consulta ao Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o procedimento aplicável à extinção das tarifas reguladas de venda de gás natural a clientes finais com consumos anuais superiores a 10 000 m3.
+
+###### Artigo 2.º — Alteração ao Decreto-Lei n.º 30/2006, de 15 de Fevereiro
+
+Os artigos 40.º, 42.º e 43.º do Decreto-Lei n.º 30/2006, de 15 de Fevereiro, passam a ter a seguinte redacção:
+
+«Artigo 40.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - O comercializador de último recurso fica sujeito à obrigação de fornecimento, garantindo, nas áreas abrangidas pela RPGN, a todos os clientes com consumos anuais inferiores ou iguais a 10 000 m3, que o solicitem, a satisfação das suas necessidades, na observância de legislação aplicável, nomeadamente a relativa à protecção do consumidor.
+
+4 - ...
+
+Artigo 42.º
+
+[...]
+
+1 - O comercializador de último recurso está obrigado a fornecer gás natural aos clientes com consumos anuais inferiores ou iguais a 10 000 m3, que o requisitem, e preencham os requisitos legais definidos para o efeito.
+
+2 - ...
+
+3 - ...
+
+Artigo 43.º
+
+[...]
+
+1 - ...
+
+2 - O comercializador de último recurso é obrigado a fornecer gás natural aos clientes com consumos anuais inferiores ou iguais a 10 000 m3, que o requisitem, de acordo com as características da instalação de consumo, nos termos estabelecidos no Regulamento de Relações Comerciais e com a observância das demais exigências regulamentares.
+
+3 - O comercializador de último recurso deve aplicar tarifas reguladas de venda aos clientes finais referidos no número anterior.»
+
+###### Artigo 3.º — Alteração ao Decreto-Lei n.º 140/2006, de 26 de Julho
+
+Os artigos 41.º e 67.º do Decreto-Lei n.º 140/2006, de 26 de Julho, alterado pelo Decreto-Lei n.º 65/2008, de 9 de Abril, passam a ter a seguinte redacção:
+
+«Artigo 41.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - São, nomeadamente, deveres dos comercializadores de último recurso:
+
+a) Prestar o serviço público de fornecimento de gás natural a todos os clientes abrangidos pela RPGN com consumos anuais inferiores ou iguais a 10 000 m3, que o solicitem, nos termos da regulamentação aplicável;
+
+b) ...
+
+c) ...
+
+d) ...
+
+Artigo 67.º
+
+[...]
+
+1 - ...
+
+2 - São atribuídas a sociedades a constituir em regime de domínio total inicial pelas entidades concessionárias de distribuição regional ou pelas detentoras de licenças de distribuição local com mais de 100 000 clientes, ou às sociedades concessionárias ou detentoras de licenças de distribuição com menos de 100 000 clientes, licenças de comercialização de último recurso a todos os clientes que consumam anualmente quantidades de gás natural inferiores ou iguais a 10 000 m3 e se situem nas áreas das respectivas concessões ou licenças.
+
+3 - ...
+
+4 - ...»
+
+###### Artigo 4.º — Extinção de tarifas reguladas
+
+1 - As tarifas reguladas de venda de gás natural a clientes finais com consumos anuais superiores a 10 000 m3 são extintas a partir do 1.º dia do trimestre subsequente à data de entrada em vigor do presente decreto-lei, ficando a respectiva venda submetida ao regime de preços livres.
+
+2 - Os clientes finais de gás natural com consumos anuais superiores a 10 000 m3 que, à data da entrada em vigor do presente decreto-lei, sejam fornecidos por comercializadores em regime de mercado livre, assim como os novos clientes, deixam de poder ser fornecidos pelos comercializadores de último recurso.
+
+3 - Os clientes finais de gás natural com consumos anuais superiores a 10 000 m3 podem constituir-se como agentes de mercado e proceder à importação de gás natural, mediante a celebração de contratos de acesso às redes e às infra-estruturas do Sistema Nacional de Gás Natural.
+
+###### Artigo 5.º — Disposição transitória
+
+1 - Os comercializadores de último recurso devem, até 31 de Março de 2011, continuar a fornecer gás natural aos clientes finais de gás natural com consumos anuais superiores a 10 000 m3 que não tenham contratado no mercado livre o seu fornecimento.
+
+2 - Na situação referida no número anterior, é aplicada uma tarifa de venda transitória, fixada pela ERSE, e determinada pela soma dos valores das tarifas de acesso às redes e de comercialização em vigor, e de um preço de energia que reflicta o custo médio, previsto para o trimestre em causa, das quantidades de gás natural no âmbito dos contratos de take or pay celebrados antes da entrada em vigor da Directiva n.º [2003/55/CE](http://data.europa.eu/eli/dir/2003/55/oj?locale=pt), do Parlamento e do Conselho, de 26 de Junho.
+
+3 - A tarifa de venda transitória referida no número anterior é agravada trimestralmente em percentagem a determinar pela ERSE.
+
+###### Artigo 6.º — Procedimento para a mudança de comercializador durante o período transitório
+
+1 - A ERSE publica, sem prejuízo da utilização de outros meios complementares de informação que considere necessários, na sua página da Internet, toda a informação necessária para se proceder à mudança de comercializador durante o período transitório, designadamente:
+
+a) A data a partir da qual deixam de ser aplicadas as tarifas de venda a clientes finais de gás natural com consumos anuais superiores a 10 000 m3 aprovadas pela ERSE;
+
+b) A necessidade da mudança para um comercializador em regime de mercado livre e o termo do prazo até ao qual o processo de mudança terá de estar concluído;
+
+c) A lista de todos os comercializadores de gás natural licenciados pela Direcção-Geral da Energia e Geologia.
+
+2 - Até ao 22.º dia a partir da data de entrada em vigor do presente decreto-lei, os comercializadores de último recurso devem, por carta registada, prestar a todos os seus clientes com consumos anuais superiores a 10 000 m3, a informação prevista no número anterior.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - António Augusto da Ascenção Mendonça.
+
+Promulgado em 25 de Maio de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 27 de Maio de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

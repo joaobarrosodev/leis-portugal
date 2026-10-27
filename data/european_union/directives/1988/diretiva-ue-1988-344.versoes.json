@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31988L0344:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0344-20090626",
+ "dre_path": null,
+ "source_lastmod": "2009-06-26",
+ "versions": [
+  {
+   "date": "1988-06-24",
+   "future": false,
+   "celex": "31988L0344",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "73f1e7ea8958ee03",
+    "445d6217787c1531",
+    "7551162e5a85fe9a",
+    "333613d630875373",
+    "d513be65a0e290c8",
+    "93ae68381b571441",
+    "8e2191d7cdc6414f",
+    "3dc4f4f203231a40",
+    "9ca5b3720b8f1b9e",
+    "c7e84f9f3bf36118",
+    "99234adb5575c7b7",
+    "56c3b3da07e7a823",
+    "41f81b15b394e664",
+    "f86764d09599b730",
+    "92914bdb91ca43fd"
+   ]
+  },
+  {
+   "date": "2009-06-26",
+   "future": false,
+   "celex": "01988L0344-20090626",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime ANEXO",
+    "Suprime PARTE I — Solventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos (1)",
+    "Suprime PARTE II — Solventes de extracção cujas condições de utilização são especificadas",
+    "Suprime PARTE III — Solventes de extracção cujas condições de utilização são especificadas"
+   ],
+   "fragments": [
+    "e3b82406634ac2d4"
+   ]
+  }
+ ],
+ "fragments": {
+  "73f1e7ea8958ee03": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 88/344/CEE do Conselho de 13 de Junho de 1988 relativa à aproximação das legislações dos Estados- membros sobre os solventes de extracção utilizados no fabrico de géneros alimentícios e dos respectivos ingredientes** *Jornal Oficial nº L 157 de 24/06/1988 p. 0028 - 0033 Edição especial finlandesa: Capítulo 13 Fascículo 17 p. 0066 Edição especial sueca: Capítulo 13 Fascículo 17 p. 0066*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 13 de Junho de 1988\n\nrelativa à aproximação das legislações dos Estados-membros sobre os solventes de extracção utilizados no fabrico de géneros alimentícios e dos respectivos ingredientes\n\n(88/344/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, as diferenças entre as legislações nacionais sobre solventes de extracção entravam a livre circulação dos géneros alimentícios; que podem originar condições desiguais de concorrência e que têm pois uma incidência directa sobre o estabelecimento ou o funcionamento do mercado comum;\n\nConsiderando que, a aproximação destas legislações é portanto necessária para permitir a livre circulação dos géneros alimentícios;\n\nConsiderando que, as legislações sobre solventes de extracção destinados a ser utilizados em géneros alimentícios devem ter principalmente em conta as normas relativas à saúde humana, e também, dentro dos limites impostos pela protecção da saúde, as necessidades económicas e técnicas;\n\nConsiderando que, uma tal aproximação deve implicar a elaboração de uma lista única de solventes de extracção para preparação de géneros alimentícios ou outros ingredientes alimentares; que convém igualmente especificar os critérios gerais de pureza;\n\nConsiderando que, o emprego de um solvente de extracção em boas condições de fabrico deveria ter como resultado a eliminação da totalidade ou da maior parte dos resíduos de solventes contidos nos géneros alimentícios ou nos seus ingredientes;\n\nConsiderando que, em tais condições, a presença de resíduos ou derivados no produto final do género alimentício ou do ingrediente pode ser involuntária mas tecnicamente inevitável;\n\nConsiderando que, uma limitação específica, embora útil duma maneira geral, não se torna necessária no caso das substâncias indicadas na Parte I do anexo e autorizadas por não atentarem contra a segurança do consumidor se forem empregues em boas condições de fabrico;\n\nConsiderando que é oportuno, na óptica da protecção da saúde pública, determinar as condições de emprego de outros solventes de extracção indicados nas Partes II e III do anexo e de resíduos permitidos nos géneros alimentícios e seus ingredientes;\n\nConsiderando que, enquanto não são adoptadas regras comunitárias relativas aos aromas, os Estados-membros não devem ser impedidos de autorizar tais materiais como solventes de extracção para certos aromas substâncias utilizadas para diluir e dissolver;\n\nConsiderando que, as disposições relativas a certos solventes de extracção devem ser revistas ao fim de um certo tempo em função dos resultados da investigação científica e técnica em curso sobre a aceitabilidade desses solventes e as respectivas condições de utilização;\n\nConsiderando que é conveniente definir critérios específicos de pureza para os solventes de extracção, assim como métodos de análise e de colheita de amostras de solventes de extracção no interior e à superfície dos géneros alimentícios;\n\nConsiderando que, se a utilização de um solvente de extracção previsto na presente directiva parecer, à luz de novas informações, acarretar um risco para a saúde, os Estados-membros devem poder suspendê-lo ou limitar a sua utilização ou ainda reduzir os limites previstos enquanto aguardam uma decisão a nível comunitário;\n\nConsiderando que, a definição dos métodos de amostragem e de análise que permitem a verificação das substâncias enumeradas e das suas normas de pureza constituem medidas de aplicação técnica; que, para simplificar e acelerar a sua adopção e facilitar a sua aplicação, convém assegurar uma cooperação estreita entre os Estados-membros e a Comissão no seio do Comité Permanente dos Géneros Alimentícios instituído pela Decisão 69/414/CEE (1),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "445d6217787c1531": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva aplica-se aos solventes de extracção utilizados ou destinados a ser utilizados no fabrico de géneros alimentícios e dos respectivos ingredientes.\n\nA presente directiva não se aplica aos solventes de extracção utilizados na produção de aditivos alimentares, de vitaminas e de outros aditivos nutricionais, excepto se esses aditivos alimentares, vitaminas e outros aditivos nutricionais figurarem numa das listas que constam no anexo.\n\nContudo, os Estados-membros tomarão as medidas necessárias para que a utilização de aditivos alimentares, de vitaminas e de outros aditivos nutricionais não introduza nos géneros alimentícios resíduos de solventes de extracção em teores perigosos para a saúde humana.\n\n2. A presente directiva não afecta as legislações dos Estados-membros relativas à utilização do metanol, do propanol-1, do propanol-2 e do tricloretileno como solventes de extracção no fabrico dos géneros alimentícios ou dos respectivos ingredientes.\n\n3. Para efeitos da presente directiva, entende-se por:\n\na) « Solvente » toda a substância própria para dissolver um género alimentício ou todo o composto de um género alimentício, incluindo todo o agente contaminador presente neste ou sobre este género alimentício;\n\nb) « Solvente de extracção » um solvente utilizado durante o processo de extracção aquando do tratamento de matérias-primas, de géneros alimentícios, de componentes ou de ingredientes destes produtos, que é eliminado e que pode provocar a presença involuntária mas tecnicamente inevitável de resíduos ou de derivados no género alimentício ou no ingrediente."
+  },
+  "7551162e5a85fe9a": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros autorização a utilização, como solventes de extracção no fabrico dos géneros alimentícios ou dos seus ingredientes, das substâncias e matérias enumeradas no anexo, nas condições de uso e dentro do respeito dos limites máximos de resíduos que aí possam vir referidos.\n\nOs Estados-membros não podem proibir, restringir ou entravar a colocação no mercado de géneros alimentícios ou dos seus ingredientes que correspondam às normas da presente directiva, por motivos relacionados com os solventes de extracção utilizados, ou os seus resíduos.\n\n2. Os Estados-membros proibirão a utilização, como solventes de extracção, de substâncias e matérias que não sejam os solventes de extracção enumerados no anexo, e não podem alargar essas condições de uso e os limites de resíduos admissíveis para além daquilo que está indicado.\n\n3. Enquanto não foram adoptadas disposições comunitárias relativas às substâncias utilizadas para diluir ou dissolver aromas, como solventes para a extracção de aromas provenientes de aromatos.\n\n4. Serão autorizadas com solventes de extracção no fabrico de géneros alimentícios ou dos seus ingredientes, tanto a água, à qual podem ter sido adicionadas substâncias para regular a acidez ou a alcalinidade, como outras substâncias alimentares que possuam propriedades de solventes.\n\n5. No prazo de dois anos a partir da adopção da presente directiva, a Comissão, após consulta do Comité Científico, para a Alimentação Humana, reanalisará as disposições relativas à Parte I do anexo e às substâncias a seguir indicadas e, se necessário, proporá a respectiva alteração de acordo com o procedimento previsto no artigo 100º do Tratado:\n\nButanol-1\n\nButanol-2\n\nMetil-propanol-1\n\nMetil-propanol-2\n\nAcetato de metilo\n\nCiclohexano\n\nDiclorometano\n\nHexano\n\nMetil-etil-cetona\n\nIsobutano\n\nÉter dietílico\n\nNo âmbito dessa alteração o Conselho decidirá se convém classificar os resíduos dos solventes de extracção enumerados na Parte III do anexo como aromas e não como géneros alimentícios.\n\n6. A Comissão, após consulta do Comité Científico para a Alimentação Humana reanalisará a situação no que se refere às substâncias referidas no nº 2 do artigo 1º e submete ao Conselho as propostas adequadas:\n\n- três anos após a adopção da presente directiva, no que se refere ao metanol, ao propanol-1 e ao propanol-2,\n\n- sete anos após a adopção da presente directiva, no que se refere ao tricloroetileno."
+  },
+  "333613d630875373": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros tomarão todas as medidas necessárias para garantir que as substâncias e matérias constantes do anexo como solventes de extracção obedeçam aos critérios de pureza seguintes:\n\na) Não conter qualquer quantidade perigosa do ponto de vista toxicológico, de qualquer elemento ou substância;\n\nb) Sob reserva das derrogações eventualmente previstas para os critérios de pureza específicos referidos em c), não conter mais de 1 mg/kg de arsénico ou mais de 1 mg/kg de chumbo;\n\nc) Corresponder aos critérios específicos de pureza estabelecidos em conformidade com o artigo 4º"
+  },
+  "d513be65a0e290c8": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nSerão determinados de acordo com o procedimento previsto no artigo 6º:\n\na) Os métodos de análise necessários ao controlo da observância dos critérios de pureza gerais e específicos referidos no artigo 3º,\n\nb) O processo de colheita de amostras e os métodos de análise qualitativa e quantitativa dos solventes de extracção referidos no anexo e utilizados nos géneros ou ingredientes;\n\nc) Se tal for necessário, critérios de pureza específicos para os solventes de extracção referidos no anexo e, nomeadamente os teores máximos autorizados em mercúrio e em cádmio desses solventes; esses critérios serão adoptados num prazo de três anos a contar da data de adopção da presente directiva."
+  },
+  "93ae68381b571441": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Se na sequência de novas informações ou de uma reavaliação das informações existentes efectuada após a adopção da presente directiva, um Estado-membro tiver motivos precisos que permitam estabelecer que o uso nos géneros alimentícios de uma das substâncias referidas no anexo ou a presença nessas substâncias de um ou mais componentes referidos no anexo, ou a presença nessas substâncias de um ou mais componentes referidos no artigo 3º, é susceptível de ser nociva para a saúde humana, embora sejam respeitadas as condições previstas na presente directiva, esse Estado-membro pode suspender ou restringir temporariamente no seu território a aplicação das disposições em causa. O mesmo Estado-membro informará imediatamente os outros Estados-membros e a Comissão desse facto, fornecendo os motivos da sua decisão.\n\n2. A Comissão analisará dentro do mais curto prazo os motivos invocados pelo Estado-membro em questão e consultará o Comité Permanente dos Géneros Alimentícios, emitindo imediatamente um parecer a adoptando medidas adequadas que podem substituir as medidas referidas no nº 1.\n\n3. Se a Comissão considerar que são necessárias alterações à presente directiva para solucionar as dificuldades referidas no nº 1 e garantir a protecção da saúde humana, dará início ao procedimento previsto no artigo 6º a fim de adoptar essas alterações; nesse caso, o Estado-membro que adoptou as medidas de salvaguarda pode aplicá-las até à entrada em vigor dessas alterações no seu território."
+  },
+  "8e2191d7cdc6414f": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Sempre que seja feita referência ao procedimento definido no presente artigo, a questão será submetida ao Comité Permanente dos Géneros Alimentícios, pelo seu presidente.\n\n2. O representante da Comissão submete à apreciação do Comité um projecto de medidas a tomar. O Comité emite o seu parecer sobre este projecto num prazo a fixar pelo presidente em função da urgência da questão. O parecer é emitido pela maioria prevista no nº 2 do artigo 148º do Tratado para adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Para a votação no seio do Comité, os votos dos representantes dos Estados-membros serão afectados da ponderação definida no artigo atrás citado. O presidente não participa na votação.\n\n3. a) A Comissão adopta as medidas previstas sempre que estas estejam, em conformidade com o parecer do Comité;\n\nb) Quando as medidas previstas não estejam em conformidade com o parecer do Comité, ou na falta de parecer, a Comissão apresenta imediatamente ao Conselho, uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nc) Se, no termo de um prazo de três meses a contar da data da apresentação ao Conselho, este não tiver adoptado medidas, a Comissão adopta as medidas propostas."
+  },
+  "3dc4f4f203231a40": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os Estados-membros tomarão todas as disposições úteis para assegurar que as substâncias enumeradas no anexo e destinadas, na qualidade de solventes de extracção, para fins alimentares apenas possam ser colocadas no mercado se as respectivas embalagens, recipientes ou rótulos apresentarem as seguintes referências, inscritas por forma a serem facilmente visíveis, claramente legíveis e indeléveis:\n\na) A denominação de venda indicada nos termos do anexo;\n\nb) Uma referência clara que indique que a substância é de qualidade adequada para ser usada na extracção de géneros alimentícios ou dos respectivos ingredientes;\n\nc) Uma referência que permita identificar o lote;\n\nd) O nome ou a razão social e o endereço do fabricante ou do embalador ou de um vendedor estabelecido no interior da Comunidade; e) A quantidade líquida expressa em unidades de volume;\n\nf) Se necessário, as condições especiais de conservação ou de utilização.\n\n2. Em derrogação do nº 1, as referências indicadas no nº 1, alíneas c), d), e) e f) desse número podem constar apenas dos documentos comerciais relativos ao lote a fornecer com ou antes da entrega.\n\n3. O presente artigo não afecta as disposições comunitárias mais precisas ou mais completas relativas à metrologia ou à classificação, bem como ao acondicionamento e à rotulagem de substâncias e preparados perigosos.\n\n4. Os Estados-membros abster-se-ão de especificar regras para a indicação das referências em causa para além das previstas no presente artigo.\n\nTodavia, os Estados-membros assegurarão a proibição no respectivo território da venda ao utilizador de solventes de extracção se as referências previstas no presente artigo não forem apresentadas numa linguagem facilmente compreensível pelos utilizadores, excepto, se a informação dos utilizadores estiver assegurada por outras medidas. Esta disposição não impede que as referências sejam indicadas em várias línguas."
+  },
+  "9ca5b3720b8f1b9e": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. A presente directiva é igualmente aplicável aos solventes de extracção utilizados ou destinados a serem utilizados no fabrico de géneros alimentícios ou de ingredientes importados para a Comunidade.\n\n2. A presente directiva não é aplicável aos solventes de extracção nem aos géneros alimentícios destinados à exportação para fora da Comunidade."
+  },
+  "c7e84f9f3bf36118": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros tomarão todas as medidas necessárias para darem cumprimento à presente directiva num prazo de três anos a contar da respectiva adopção, de modo a autorizar, a partir dessa data, a colocação no mercado e o emprego de solventes de extracção que correspondam a esses disposições. Desse facto informarão imediatamente a Comissão."
+  },
+  "99234adb5575c7b7": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo, em 13 de Junho de 1988.\n\nPelo Conselho\n\nO Presidente\n\nI. KIECHLE\n\n(1) JO nº C 312 de 17. 11. 1983, p. 3, e\n\nJO nº C 77 de 23. 3. 1985, p. 7.\n\n(2) JO nº C 12 de 14. 1. 1985, p. 152, e\n\nJO nº C 68 de 14. 3. 1988, p. 51.\n\n(3) JO nº C 206 de 6. 8. 1984, p. 7.\n\n(1) JO nº L 291 de 19. 11. 1969, p. 9."
+  },
+  "56c3b3da07e7a823": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nSOLVENTES DE EXTRACÇÃO CUJA UTILIZAÇÃO É AUTORIZADA PARA O TRATAMENTO DE MATÉRIAS-PRIMAS, DE GÉNEROS ALIMENTÍCIOS OU DE COMPOSTOS DE GÉNEROS ALIMENTÍCIOS OU DOS RESPECTIVOS INGREDIENTES"
+  },
+  "41f81b15b394e664": {
+   "fragment_id": "PARTE I — Solventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos (1)",
+   "type": "divisao",
+   "heading": "PARTE I — Solventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos (1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE I — Solventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos (1)\n\nNome\n\nPropano\n\nButano\n\nAcetato de butilo\n\nAcetato de etilo\n\nEtanol\n\nAnidrido carbónico\n\nAcetona\n\nProtóxido de azoto\n\n(1) Considera-se que um solvente de extracção é utilizado respeitando as boas práticas de fabrico se o seu emprego levar apenas à presença de resíduos ou de derivados em quantidades tecnicamente inevitáveis e que não representem riscos para a saúde humana."
+  },
+  "f86764d09599b730": {
+   "fragment_id": "PARTE II — Solventes de extracção cujas condições de utilização são especificadas",
+   "type": "divisao",
+   "heading": "PARTE II — Solventes de extracção cujas condições de utilização são especificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE II — Solventes de extracção cujas condições de utilização são especificadas\n\n1.2.3 // // // // Nome // Condições de utilização (Descrição sucinta da extracção) // Resíduos máximos nos géneros alimentícios ou nos ingredientes extraídos // // // // Hexano (1) // Produção ou fraccionamento de gorduras e óleos e produção de manteiga de cacau // 5 mg/kg na gordura ou óleo ou manteiga de cacau // // Preparação de produtos à base de proteínas e de farinhas sem gordura // 10 mg/kg no género alimentício contendo o produto à base de proteínas e nas farinhas sem gordura (1) // // Preparação de gérmens de cereais sem gordura // 5 mg/kg nos gérmens de cereais sem gordura // // Produtos de soja sem gordura // 30 mg/kg no produto de soja tal como é vendido ao consumidor final // Acetato de metilo // Descafeínação ou supressão das matérias irritantes e amargas do café ou do chá // 20 mg/kg no café ou no chá // // Produção de açúcar a partir do melaço // 1 mg/kg no açúcar // Metil-etil-cetona // Fraccionamento de gorduras e óleos // 5 mg/kg na gordura ou no óleo // // Descafeínação ou supressão das matérias irritantes e amargas do café e do chá // 20 mg/kg no café ou no chá // Diclorometano // Descafeínação ou supressão das matérias irritantes e amargas do café e do chá // 10 (2) mg/kg no café torrado e 5 mg/kg no chá // // //\n\n(1) Hexano: produto comercial composto essencialmente de hidrocarbonetos acíclicos saturados contendo 6 átomos de carbono e que destila entre os 64° e os 70°.\n\n(2) Este teor será reduzido para 5 mg/kg (três anos após a adopção da presente directiva)."
+  },
+  "92914bdb91ca43fd": {
+   "fragment_id": "PARTE III — Solventes de extracção cujas condições de utilização são especificadas",
+   "type": "divisao",
+   "heading": "PARTE III — Solventes de extracção cujas condições de utilização são especificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE III — Solventes de extracção cujas condições de utilização são especificadas\n\n1.2 // // // Nome // Teores máximos de resíduos no género alimentício devidos à utilização de solventes de extracção na preparação de aromas a partir de aromatos naturais // // // Eter dietílico // 2 mg/kg // Isobutano // 1 mg/kg // Hexano // 1 mg/kg // Ciclohexano // 1 mg/kg // Acetato de metilo // 1 mg/kg // Butanol-1 // 1 mg/kg // Butanol-2 // 1 mg/kg // Metil-etil-cetona // 1 mg/kg // Diclorometano // 01 mg/kg (1) // Metil-propanol-1 // 1 mg/kg // //\n\n(1) Excepção: 1 mg/kg nos produtos de confeitaria e de pastelaria que contenham aromas que cartacterizem o género alimentício, obtidos a partir de extractos de bebidas alcoolizadas com um teor alcoólico superior a 35°."
+  },
+  "e3b82406634ac2d4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1988L0344 — PT — 26.06.2009 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31988L0344) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31988L0344) [de 13 de Junho de 1988](http://publications.europa.eu/resource/celex/31988L0344) [relativa à aproximação das legislações dos Estados-membros sobre os solventes de extracção utilizados no fabrico de géneros alimentícios e dos respectivos ingredientes](http://publications.europa.eu/resource/celex/31988L0344) [(88/344/CEE)](http://publications.europa.eu/resource/celex/31988L0344) (JO L 157, 24.6.1988, p.28)\n\n**revogado por:**\n\n- [Directiva 2009/32/CE do Parlamento Europeu e do Conselho de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0032) — L 141 — 3 — 6.6.2009"
+  }
+ }
+}

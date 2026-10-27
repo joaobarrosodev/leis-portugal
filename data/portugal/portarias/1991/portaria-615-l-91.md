@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:206061:por
+title: Portaria n.º 615-L/91
+short_title: null
+summary: Sujeita ao regime cinegético especial os prédios rústicos denominados «Herdades da Barrosa», «Barrozinha» e «Panasquita»,
+  sitos na freguesia de Cabrela, concelho de Montemor-o-Novo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 615-L/91
+official_date: null
+publication_date: '1991-07-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 154/1991, 1º Suplemento, Série I-B de 1991-07-08
+  number: '154'
+  series: I
+  supplement: null
+  pages: 3494-(11) a 3494-(12)
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/07/154b01/00110012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/615-l/1991/07/08/p/dre/pt/html
+  oj: null
+  dre: '206061'
+  dre_path: /dr/detalhe/portaria/615-l-1991-206061
+  internal: pt:dre:206061:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-l-1991-206061
+  metadata_url: https://data.dre.pt/eli/port/615-l/1991/07/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-l-1991-206061
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:55:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ffaeef7f38305fb241a9d749794be9128c6e4280dedae86920df9a8d1c833100
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:55:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- Montemor-o-Novo
+- ZONA de CAÇA
+relationships:
+- type: amended_by
+  target: pt:dre:667713:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:157438:por
+  label: "Renovada a concessão da zona de caça associativa pela Port.254-BJ/96.1996.07.15.MADRP, DR.IS-B [162]-Supl\0pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-bj-1996-157438
+  date: '1996-07-15'
+- type: amended_by
+  target: pt:dre:673197:por
+  label: "Suspenso o exercício da caça na zona de caça associativa pela PORT.545-R/2002.2002.05.29.MADRP, DR.IS-B [124]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/545-r-2002-673197
+  date: '2002-05-29'
+- type: amended_by
+  target: pt:dre:197092:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.954/2002.2002.08.02.MADRP DR.IS-B [177]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/954-2002-197092
+  date: '2002-08-02'
+- type: amended_by
+  target: pt:dre:667713:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pelo presente diploma, na redacção da Port 254-Bj/96 de 15-Jul\
+    \ e renovada pela Port 954/2002 de 02-Ago, pela PORT.280/2006.22.03.2006.MADRP, DR.IS-B [58] de 22.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/280-2006-667713
+  date: '2006-03-22'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:55:17Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 615-L/91
+
+de 8 de Julho
+
+Pela [Portaria n.º 746/90](https://diariodarepublica.pt/dr/detalhe/portaria/746-1990-574276), de 28 de Agosto, foi concedida à Associação de Caçadores da Herdade da Barrosa uma zona de caça associativa com uma área de 565,2750 ha, situada no concelho de Montemor-o-Novo.
+
+A concessionária requereu agora a anexação de outros prédios rústicos contíguos com uma área de 292,7250 ha.
+
+Com fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 79.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto;
+
+Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades da Barrosa», «Barrozinha» e «Panasquita», sitos na freguesia de Cabrela, concelho de Montemor-o-Novo, com uma área de 858 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
+
+2.º Pelo presente diploma é concessionada até 31 de Maio de 1996, à Associação de Caçadores da Herdade da Barrosa (registo na Direcção-Geral das Florestas n.º 4.671.90), com sede na Herdade da Barrosa, apartado 31, Vendas Novas, a zona de caça associativa da Herdade da Barrosa e outras (processo n.º 329 da Direcção-Geral das Florestas).
+
+3.º A Associação de Caçadores da Herdade da Barrosa, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+
+4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados da Associação de Caçadores da Herdade da Barrosa, com observância das regras legais e das suas normas estatutárias e regulamentares.
+
+5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
+
+2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.
+
+6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
+
+7.º Esta concessão é renovável nos termos do disposto no artigo 73.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890).
+
+8.º É revogada a [Portaria n.º 746/90](https://diariodarepublica.pt/dr/detalhe/portaria/746-1990-574276), de 28 de Agosto.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+Assinada em 5 de Julho de 1991.
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/154b01/00110012.pdf)

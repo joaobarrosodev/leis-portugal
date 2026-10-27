@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:219115:por
+title: Portaria n.º 462/86
+short_title: null
+summary: Regulamenta as condições de prestação de serviço do pessoal da Polícia de Segurança Pública (PSP) em organismos de
+  interesse público e órgãos e entidades da administração central, regional e local
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 462/86
+official_date: null
+publication_date: '1986-08-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 193/1986, Série I de 1986-08-23
+  number: '193'
+  series: I
+  supplement: null
+  pages: 2136 - 2137
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19300/21362137.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '219115'
+  dre_path: /dr/detalhe/portaria/462-1986-219115
+  internal: pt:dre:219115:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/462-1986-219115
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/462-1986-219115
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8908508f5e69a27c256051b1eb8bd6f85856d77292cf7167dd5941b1c4674050
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:49:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Organismo do Estado
+- Prestação de Serviços
+- PSP
+- Requisição de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:49:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 462/86
+
+de 23 de Agosto
+
+Manda o Governo da República Portuguesa, pelo Ministro da Administração Interna, aprovar, nos termos dos n.os 1 e 2 do artigo 102.º e do artigo 103.º do Estatuto da Polícia de Segurança Pública, aprovado pelo [Decreto-Lei n.º 151/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1985-152342), de 9 de Maio, o seguinte:
+
+1.º A Polícia de Segurança Pública (PSP) poderá, nos termos e condições previstos na presente portaria:
+
+a) Manter pessoal com funções policiais em organismos de interesse público para a prestação de serviços especiais;
+
+b) Destacar pessoal com funções policiais para a prestação de serviços a órgãos e entidades da administração central, regional e local.
+
+2.º Para efeitos do disposto na alínea a) do número anterior, consideram-se organismos de interesse público as entidades que, independentemente da sua natureza, desenvolvam a sua actividade num dos seguintes domínios:
+
+a) Abastecimento de água, sua captação, armazenagem e distribuição;
+
+b) Exploração do serviço de correios e de comunicações telefónicas, telegráficas, radiotelefónicas e radiotelegráficas;
+
+c) Exploração do serviço de transportes terrestres, marítimos, fluviais ou aéreos;
+
+d) Explorações mineiras essenciais à economia nacional;
+
+e) Produção e distribuição de energia eléctrica, bem como exploração, transformação e distribuição de combustíveis;
+
+f) Exploração e serviço dos portos, aeroportos e estações de caminhos de ferro ou de camionagem, especialmente no que respeita à carga e descarga de mercadorias;
+
+g) Sistemas de crédito e de transporte de fundos;
+
+h) Unidades hospitalares.
+
+3.º Por despacho do Ministro da Administração Interna poderão ser considerados de interesse público outros organismos que desenvolvam actividades diversas das previstas no número anterior.
+
+4.º A prestação de serviços prevista na presente portaria só será autorizada nas situações em que, enquadrando-se no âmbito das missões legalmente cometidas à PSP, se justifique, por relevantes razões de interesse público, facultá-la especificamente às entidades requisitantes.
+
+5.º Os organismos de interesse público e os órgãos e entidades da administração central, regional e local que pretendam a prestação dos serviços previstos na presente portaria deverão solicitá-los ao Comando-Geral da PSP, através de requerimento, devidamente fundamentado, de que devem constar, além de outros elementos considerados necessários à apreciação do pedido, a descrição do circunstancialismo justificativo do mesmo, a definição de funções a cometer ao pessoal com funções policiais e o tempo durante o qual essas funções serão exercidas.
+
+6.º A colocação de pessoal com funções policiais depende de autorização do comandante-geral da PSP, não podendo recair sobre pessoal com menos de 5 anos de serviço.
+
+7.º Nos casos em que a colocação tenha por objecto dois ou mais elementos com funções policiais ou tenha uma duração superior a seis meses, a autorização, em condições a acordar caso a caso, é da competência do Ministro da Administração Interna, sob proposta fundamentada do comandante-geral da PSP, ouvido o Conselho Superior de Polícia.
+
+8.º A colocação de pessoal assume a natureza de requisição, regendo-se pelos seguintes princípios:
+
+a) O pessoal requisitado fica na situação de adido ao quadro;
+
+b) O pagamento dos vencimentos e abonos devidos ao pessoal colocado nos termos da presente portaria será suportado pela entidade, organismo ou serviço requisitante, que, além disso, suportará todos os demais encargos ocasionados com esse mesmo pessoal, designadamente assistência médica e medicamentosa;
+
+c) A requisição não prejudica qualquer direito ou regalia do pessoal requisitado inerente ao lugar de origem;
+
+d) Substituição obrigatória de pessoal de dois em dois anos nos casos referidos na alínea a) do n.º 1.º;
+
+e) Substituição obrigatória de pessoal de cinco em cinco anos nos casos referidos na alínea b) do n.º 1.º
+
+9.º O pessoal colocado ao abrigo da presente portaria não pode receber qualquer outra gratificação, complemento de vencimento ou subsídio além dos que aufere como elemento da PSP, nos termos da legislação aplicável à corporação.
+
+10.º O pessoal mantido pela PSP em organismos de interesse público ou em quaisquer entidades da administração central, regional e local nos termos previstos na presente portaria não pode, em caso algum, desempenhar funções diferentes daquelas cujo exercício motivou a requisição.
+
+11.º A inobservância do disposto nos n.os 9.º e 10.º determina a cessação imediata da requisição.
+
+12.º A fiscalização do disposto no n.º 10.º compete à PSP.
+
+13.º A entidade, serviço ou organismo requisitante pode a todo o tempo prescindir do serviço requisitado, desde que o comunique com a antecedência mínima de 30 dias ao Comando-Geral da PSP.
+
+14.º Anualmente, durante o mês de Janeiro, o comandante-geral da PSP deve apresentar ao Ministro da Administração Interna lista nominativa do pessoal em funções policiais que se encontre na situação prevista nos números anteriores.
+
+15.º O pessoal a que se refere a presente portaria está sujeito ao Estatuto e aos regulamentos em vigor na PSP, ficando na dependência operacional e hierárquica do comando distrital da respectiva área, devendo obediência às orientações de serviço da entidade requisitante, desde que canalizadas através daquele comando.
+
+16.º Em situações de catástrofe, calamidade ou emergência, o pessoal a que se refere a presente portaria passa de imediato à dependência integral do comando distrital da PSP com jurisdição na respectiva área.
+
+17.º Os organismos de interesse público ou quaisquer entidades da administração central e local que à data da entrada em vigor da presente portaria tenham ao seu serviço pessoal com funções policiais devem, no prazo de 90 dias, dar cumprimento ao disposto na mesma.
+
+18.º A inobservância do disposto no número anterior ou a não autorização do pedido determinam a cessação da requisição.
+
+Ministério da Administração Interna.
+
+Assinada em 5 de Agosto de 1986.
+
+O Ministro da Administração Interna, Eurico Silva Teixeira de Melo.

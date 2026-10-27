@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:642183:por
+title: Portaria n.º 414/91
+short_title: null
+summary: Define e caracteriza as farinhas compostas, estabelecendo as suas condições de fabrico, rotulagem e acondicionamento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 414/91
+official_date: null
+publication_date: '1991-05-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 112/1991, Série I-B de 1991-05-16
+  number: '112'
+  series: I
+  supplement: null
+  pages: 2619 - 2620
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/05/112b00/26192620.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/414/1991/05/16/p/dre/pt/html
+  oj: null
+  dre: '642183'
+  dre_path: /dr/detalhe/portaria/414-1991-642183
+  internal: pt:dre:642183:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/414-1991-642183
+  metadata_url: https://data.dre.pt/eli/port/414/1991/05/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/414-1991-642183
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:48:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 37c658193036f60798597db21106de870d6e007d8f0f2f274aff258a705306ad
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Embalagem
+- Etiquetagem
+- Farinha
+- Indústria Alimentar
+- Massa Alimentícia
+relationships:
+- type: amended_by
+  target: pt:dre:534051:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:380929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216746:por
+  label: "Revogada pelo DEC LEI.65/92.23.04.1992.MA, DR.IS-A [95] de 23.04.1992, com a entrada em vigor da regulamentação\
+    \ prevista no seu art. 1º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1992-216746
+  date: '1992-04-23'
+- type: repealed_by
+  target: pt:dre:534051:por
+  label: "Revogada pela PORT.996/94.12.11.1994.MA, DR.IS-B [262] de 12.11.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/996-1994-534051
+  date: '1994-11-12'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:48:38Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 414/91
+
+de 16 de Maio
+
+O [Decreto-Lei n.º 288/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929), de 24 de Agosto, ao fixar as características a que devem obedecer as farinhas destinadas à panificação e a outros fins, bem como as características das sêmolas utilizadas no fabrico de massas alimentícias e para usos culinários, pretendeu ser o primeiro passo na criação do novo ordenamento legislativo para o sector dos cereais e derivados.
+
+Neste diploma ficou expressa a intenção de, posterior e periodicamente, outros diplomas de menor força jurídica virem regulamentar mais pormenorizadamente diversos aspectos aí previstos, designadamente o fabrico, características, comercialização e utilização de farinhas compostas.
+
+Com a presente portaria visa-se, pois, preencher o vazio existente no nosso ordenamento jurídico, em relação às designadas farinhas compostas, indo assim ao encontro quer dos interesses dos industriais do sector, quer dos dos consumidores.
+
+Assim, nos termos do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 288/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929), de 24 de Agosto:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+
+1.º
+
+Âmbito
+
+O presente diploma define e caracteriza as farinhas compostas, estabelecendo as suas condições de fabrico, rotulagem e acondicionamento.
+
+2.º
+
+Definição
+
+Para efeitos da presente portaria, entende-se por:
+
+a) Farinha composta - a farinha resultante da mistura de dois ou vários tipos de farinha, definidos e caracterizados nos artigos 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 288/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929), de 24 de Agosto, ou da adição, a um desses tipos de farinha ou à sua mistura, de outros ingredientes, aditivos ou auxiliares tecnológicos, nas condições estabelecidas no presente diploma;
+
+b) Farinha corrigida - a farinha composta resultante da adição de um ou vários dos ingredientes designados na alínea b) do número 4.º deste diploma a um dos tipos de farinha definidos e caracterizados nos artigos 4.º, 5.º, 6.º e 7.º do citado [Decreto-Lei n.º 288/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929).
+
+3.º
+
+Condições de utilização dos ingredientes
+
+1 - Na farinhas compostas os ingredientes devem ser utilizados por forma a assegurarem as características e composição que lhes estão legalmente fixadas, bem como as do produto final a cujo fabrico se destinam.
+
+2 - Os ingredientes das farinhas compostas devem ser misturados em adequadas condições de homogeneidade, não podendo reagir entre si, ou provocar interacções de forma a alterar ou anular as funções que lhes são próprias, até à data de durabilidade mínima.
+
+4.º
+
+Ingredientes admissíveis
+
+São admissíveis como ingredientes das farinhas compostas:
+
+a) As farinhas definidas e caracterizadas nos artigos 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 288/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929), estremes ou misturadas;
+
+b) Os ingredientes utilizados em panificação, pastelaria, fabrico de bolachas e biscoitos, designadamente a farinha de glúten, extracto de malte, farinha de malte, ácido ascórbico, farinha de fava, alfa amilase fúngica, fosfato monocálcico e açúcares, com observância das disposições legais aplicáveis ao produto final a cujo fabrico se destina a farinha composta;
+
+c) Os aditivos e auxiliares tecnológicos que, nos termos das portarias publicadas ao abrigo do [Decreto-Lei n.º 192/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1989-620292), de 8 de Junho, são permitidos para as farinhas compostas para usos culinários destinadas ao consumidor final ou para o produto final a cujo fabrico se destina a farinha composta.
+
+5.º
+
+Rotulagem
+
+1 - Na rotulagem das farinhas compostas para usos culinários e destinadas ao consumidor final são obrigatórias as disposições constantes da legislação em vigor sobre a matéria e ainda as seguintes menções:
+
+a) A denominação de venda, indicada pela expressão «Farinha composta de [...] para usos culinários», com referência ao cereal do tipo de farinha predominante, ou pela expressão «Farinha corrigida de [...] tipo [...] para usos culinários» com referência ao cereal e ao tipo de farinha, consoante os casos;
+
+b) A data dce durabilidade mínima, indicada pela expressão «Consumir de preferência antes do fim de [...], com indicação do mês e do ano.
+
+2 - Na rotulagem das farinhas compostas destinadas a usos industriais é aplicável a legislação geral sobre rotulagem de produtos destinados ao consumidor final, sendo ainda obrigatórias as seguintes menções:
+
+a) A denominação de venda, indicada pela expressão «Farinha composta de [...] para [...]», com referência ao cereal do tipo de farinha predominante e ao fim a que se destina, ou pela expressão «Farinha corrigida de [...], tipo [...] para [...]», com referência ao cereal, ao tipo de farinha e ao fim a que se destina, consoante os casos;
+
+b) A lista de ingredientes para ordem decrescente da sua importância ponderal, incluindo aditivos e auxiliares tecnológicos;
+
+c) A data de acondicionamento;
+
+d) As condições de utilização e de conservação;
+
+e) A quantidade líquida, expressa em unidades de massa;
+
+f) O nome, firma ou denominação social e domicílio ou sede da entidade responsável pelo lançamento do produto no mercado.
+
+6.º
+
+Acondicionamento
+
+1 - As farinhas compostas e corrigidas para usos culinários e destinadas ao consumidor final só podem ser comercializadas pré-embaladas e com as quantidades líquidas fixadas no n.º 1 do artigo 16.º do [Decreto-Lei n.º 288/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929).
+
+2 - As farinhas compostas e corrigidas para usos industriais devem ser pré-embaladas com quantidades líquidas de 10 kg ou de múltiplos superiores de 5 kg.
+
+3 - É permitido o tarnsporte e comercialização a granel de farinhas compostas e de farinhas corrigidas para usos industriais, desde que seja observado o estabelecido na [Portaria n.º 822/84](https://diariodarepublica.pt/dr/detalhe/portaria/822-1984-400228), de 23 de Outubro.
+
+7.º
+
+Regime aplicável
+
+Às farinhas compostas é aplicável subsidiariamente o regime estabelecido no [Decreto-Lei n.º 288/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929).
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+Assinada em 19 de Março de 1991.
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação.

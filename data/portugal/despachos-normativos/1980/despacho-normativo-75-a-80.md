@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:241218:por
+title: Despacho Normativo n.º 75-A/80
+short_title: null
+summary: Confirma as delegações de poderes do Vice-Primeiro-Ministro constantes dos Despachos n.os 18/80, 26/80, 39/80, 54/80
+  e 56/80, publicados no Diário da República, n.os 18, 26, 33 e 42, de 22 e 31 de Janeiro e de 8 e 20 de Fevereiro de 1980,
+  respectivamente, e autoriza a subdelegação das mesmas competências, nos termos da lei geral
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Vice-Primeiro-Ministro
+proposing_entity: null
+official_number: 75-A/80
+official_date: null
+publication_date: '1980-03-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 54/1980, 1º Suplemento, Série I de 1980-03-05
+  number: '54'
+  series: I
+  supplement: null
+  pages: 300-(1) a 300-(1)
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/03/05401/00010001.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '241218'
+  dre_path: /dr/detalhe/despacho-normativo/75-a-1980-241218
+  internal: pt:dre:241218:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/75-a-1980-241218
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/75-a-1980-241218
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:06:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ff790034afb2b9c27b344ff97df7afbc7de529eb7e6fd54d2475b7647eed38e4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:06:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Delegação de Competências
+- Governo VI
+- Primeiro-ministro
+- Vice-primeiro Ministro
+relationships:
+- type: cites
+  target: pt:dre:2031845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:951538:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:677445:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 72/1980, Série I de 1980-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-677445
+  date: '1980-03-26'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:06:40Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 75-A/80
+
+Nos termos e para os efeitos do artigo 5.º do [Decreto-Lei n.º 3/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1980-692986), de 7 de Fevereiro, confirmo ao abrigo deste diploma as minhas delegações de poderes constantes dos Despachos n.os 18/80, [26/80](https://diariodarepublica.pt/dr/detalhe/despacho/26-1980-951538), 39/80, 54/80 e [56/80](https://diariodarepublica.pt/dr/detalhe/despacho/56-1981-2031845), publicados no Diário da República, n.os 18, 26, 33 e 42, de 22 e 31 de Janeiro e de 8 e 20 de Fevereiro de 1980, respectivamente, e autorizo a subdelegação das mesmas competências, nos termos da lei geral.
+
+Presidência do Conselho de Ministros, 28 de Fevereiro de 1980. - O Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.

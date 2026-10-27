@@ -1,0 +1,357 @@
+---
+schema_version: '1.0'
+id: pt:dre:632427:por
+title: Decreto-Lei n.º 266-A/2012
+short_title: null
+summary: Define as competências, a composição e o funcionamento do Conselho Nacional do Desporto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 266-A/2012
+official_date: null
+publication_date: '2012-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31
+  number: '252'
+  series: I
+  supplement: 2º Suplemento
+  pages: 7424-(243) a 7424-(245)
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25202/0024300245.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2013-11-06'
+version_history:
+  file: decreto-lei-266-a-2012.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-11-06'
+    amending: pt:dre:504773:por
+    amending_title: Decreto-Lei n.º 153/2013
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/266-a/2012/p/cons/20131105/pt/html
+  oj: null
+  dre: '632427'
+  dre_path: /dr/detalhe/decreto-lei/266-a-2012-632427
+  internal: pt:dre:632427:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-a-2012-632427
+  metadata_url: https://data.dre.pt/eli/dec-lei/266-a/2012/p/cons/20131105/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-164920213
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-164920213
+  retrieved_at: '2026-10-22T12:42:25Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 6c71d27ab88b7ee294adf0d0118b0a7a1d2a610cdb050a079058fc82d7ec3d63
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:42:25Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-266-a-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Permanente
+- Conselho Nacional do Desporto
+- Instituto Português do Desporto e Juventude
+- Página na Internet
+- Regimento
+relationships:
+- type: amended_by
+  target: pt:dre:504773:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2013-504773
+  date: '2013-11-05'
+- type: cites
+  target: pt:dre:396959:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/1/2009/01/05/p/dre
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: http://data.dre.pt/eli/lei/5/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:642197:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/315/2007/09/18/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:42:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 266-A/2012
+
+Decreto-Lei n.º 266-A/2012
+
+de 31 de dezembro
+
+A Lei n.º 5/2007, de 16 de janeiro, Lei de Bases da Atividade Física e do Desporto, prevê que o Conselho Nacional do Desporto (CND), composto por representantes da Administração Pública e do movimento associativo desportivo, funciona junto do membro do Governo responsável pela área do desporto e que as respetivas competências, composição e funcionamento são definidas na lei.
+
+Com este objetivo, o Decreto-Lei n.º 315/2007, de 18 de setembro, posteriormente alterado pelo Decreto-Lei n.º 1/2009, de 5 de janeiro, veio estabelecer as competências, composição e funcionamento do CND, órgão que funciona em plenário - com duas reuniões ordinárias por ano - e em duas secções - o Conselho para a Ética e Segurança no Desporto e o Conselho para o Sistema Desportivo.
+
+Sem prejuízo da qualidade e da quantidade de trabalho efetuado pelo CND nos moldes desenhados pela referida legislação, constatou-se a necessidade de dotar tal órgão de mecanismos que o tornem mais ágil e funcional.
+
+De igual modo, foi-se progressivamente sentindo a necessidade de, face às mutações que se têm verificado no tecido desportivo, possibilitar que a composição do CND seja a mais ampla e representativa possível.
+
+Foi nesse quadro que o Programa do XIX Governo Constitucional previu a revisão da composição e do funcionamento do CND e que posteriormente submeteu a discussão no seio do próprio CND, obtendo diversos contributos sobre a consensual necessidade de proceder a alterações ao regime legal vigente.
+
+Com o presente decreto-lei, procede-se à alteração do CND, passando o mesmo a ser constituído pelo Plenário - em moldes semelhantes ao que se verificava até ao momento presente, embora prevendo mais uma reunião anual ordinária - e pela Comissão Permanente - com uma nova estrutura que se pretende reduzida e ágil - à qual compete praticar todos os atos necessários à dinamização das atividades do Conselho, passando o Plenário a concentrar-se na missão de aconselhar o Governo em matérias relacionadas com a política nacional para o desporto, sem dificuldades de operacionalização das medidas de aconselhamento que se revelarem adequadas. Em consequência, são suprimidas as atuais secções do CND.
+
+O novo CND agrega novos membros que, representando áreas do desporto que não tinham assento no Conselho atual, dotam-no de um conjunto de entidades do tecido empresarial, da área da investigação e desenvolvimento, de fundações, de instituições e associações relevantes e da comunidade científica com competência na área do desporto ou nas matérias relacionadas com o desporto. Para este efeito, alarga-se a composição do Plenário do CND.
+
+Pretende-se, assim, que a nova estrutura do CND constitua um verdadeiro fórum do desporto nacional, proporcionando a participação das várias entidades públicas e privadas na procura de consensos alargados relativamente à política desportiva, mas que permita igualmente um funcionamento mais flexível e direcionado no aconselhamento efetivo do Governo em matérias relacionadas com a política nacional para o desporto, através da operacionalização prática que a Comissão Permanente permite.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 5/2007, de 16 de janeiro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei define as competências, a composição e o funcionamento do Conselho Nacional do Desporto, doravante designado por Conselho.
+
+###### Artigo 2.º — Missão
+
+O Conselho tem por missão aconselhar o membro do Governo responsável pela área do desporto em matérias relacionadas com a política nacional para o desporto, em particular na definição das áreas e dos setores prioritários no âmbito dessa política.
+
+###### Artigo 3.º — Competências
+
+Sem prejuízo das competências que lhe forem conferidas por lei, compete ao Conselho:
+
+a) Aconselhar o membro do Governo responsável pela área do desporto na conceção das políticas de promoção do desporto em todas as suas vertentes e acompanhar o respetivo desenvolvimento;
+
+b) Pronunciar-se sobre os projetos legislativos relativos a matérias de desporto;
+
+c) Emitir pareceres e recomendações, no âmbito da execução das políticas definidas para o desporto;
+
+d) Pronunciar-se sobre a articulação dos diferentes subsistemas desportivos;
+
+e) Reconhecer o caráter profissional das competições desportivas em cada modalidade.
+
+###### Artigo 4.º — Composição
+
+O Conselho funciona em Plenário e através de uma Comissão Permanente.
+
+###### Artigo 5.º — Plenário
+
+1 - O Plenário do Conselho tem a seguinte composição:
+
+a) O membro do Governo responsável pela área do desporto, que preside;
+
+b) O presidente do Instituto Português do Desporto e Juventude, I.P. (IPDJ, I.P.), que substitui o presidente nas suas faltas, ausências ou impedimentos;
+
+c) Um representante a designar por cada um dos Governos Regionais das Regiões Autónomas;
+
+d) Um representante da Associação Nacional de Municípios Portugueses;
+
+e) O presidente do Comité Olímpico de Portugal (COP);
+
+f) O presidente do Comité Paralímpico de Portugal (CPP);
+
+g) O presidente da Confederação do Desporto de Portugal (CDP);
+
+h) O presidente da Confederação Portuguesa das Coletividades de Cultura, Recreio e Desporto;
+
+i) O presidente da Federação Académica do Desporto Universitário;
+
+j) O presidente de cada uma das federações unidesportivas em que se disputem competições desportivas de natureza profissional, bem como o presidente das respetivas ligas profissionais, constituídas nos termos da lei;
+
+k) O presidente da Comissão de Atletas Olímpicos do Comité Olímpico de Portugal;
+
+l) O presidente da Comissão de Atletas Paralímpicos do Comité Paralímpico de Portugal;
+
+m) O presidente da Academia Olímpica de Portugal;
+
+n) O presidente da Associação de Jogadores de Futebol Não Profissional;
+
+o) O presidente da Confederação Portuguesa das Associações de Treinadores;
+
+p) O presidente da respetiva organização sindical de praticantes desportivos profissionais;
+
+q) O presidente da Confederação das Associações de Juízes e Árbitros de Portugal;
+
+r) O presidente da organização mais representativa de agentes de praticantes desportivos;
+
+s) Um representante das universidades que lecionem cursos no âmbito do desporto, a designar pelo Conselho de Reitores das Universidades Portuguesas;
+
+t) Um representante dos institutos superiores politécnicos que lecionem cursos no âmbito do desporto, a designar pelo Conselho Coordenador dos Institutos Superiores Politécnicos;
+
+u) Um representante da área do desporto militar e das forças de segurança, a designar pelos membros do Governo responsáveis pelas áreas da defesa nacional e da administração interna;
+
+v) Um representante a designar pelo membro do Governo responsável pela área da administração interna;
+
+w) Um representante a designar pelo membro do Governo responsável pela área do turismo;
+
+x) Um representante a designar pelo membro do Governo responsável pela área da saúde;
+
+y) Um representante da área do desporto escolar, a designar pelo membro do Governo responsável pela área da educação;
+
+z) Um representante das empresas de ginásios, a designar pela Associação de Empresas de Ginásios e Academias de Portugal;
+
+aa) O presidente da Fundação do Desporto;
+
+bb) O presidente da Fundação INATEL;
+
+cc) O presidente da Associação Portuguesa de Gestão do Desporto;
+
+dd) O presidente da Associação Portuguesa de Direito Desportivo;
+
+ee) O presidente da Sociedade Portuguesa de Psicologia do Desporto;
+
+ff) O presidente da Sociedade Portuguesa de Educação Física;
+
+gg) O presidente da Sociedade Portuguesa de Medicina Desportiva;
+
+hh) O representante do Colégio da Especialidade de Medicina Desportiva da Ordem dos Médicos;
+
+ii) O presidente do CNID - Associação dos Jornalistas de Desporto;
+
+jj) Nove especialistas, escolhidos de entre personalidades de reconhecido mérito na área do desporto, a designar pelo membro do Governo responsável pela área do desporto.
+
+2 - Sempre que exista mais de uma organização sindical de praticantes desportivos profissionais na mesma modalidade, o representante referido na alínea p) do número anterior é designado pelo Plenário, em regime de rotatividade, de entre as organizações existentes.
+
+3 - O Plenário reúne, ordinariamente, duas vezes por ano, mediante convocatória do seu presidente, e, extraordinariamente, por iniciativa do seu presidente ou a requerimento de, pelo menos, dois terços dos seus membros.
+
+4 - O Plenário apresenta à Comissão Permanente, até 31 de agosto de cada ano, as propostas de orientação estratégica da política nacional do desporto, bem como as propostas de matérias a serem apreciadas pela Comissão Permanente, para e no ano seguinte.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 153/2013 - Diário da República n.º 214/2013, Série I de 2013-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2013-504773), em vigor a partir de 2013-11-06
+
+###### Artigo 6.º — Comissão Permanente
+
+1 - A Comissão Permanente, a quem compete praticar todos os atos necessários à dinamização das atividades do Conselho, tem a seguinte composição:
+
+a) O presidente do Plenário, que preside;
+
+b) O presidente do IPDJ, I.P., que substitui o presidente nas suas faltas, ausências ou impedimentos;
+
+c) Um representante da área do desporto militar e das forças de segurança, a designar pelos membros do Governo responsáveis pelas áreas da defesa nacional e da administração interna;
+
+d) Um representante a designar pelo membro do Governo responsável pela área da administração interna;
+
+e) Um representante a designar pelo membro do Governo responsável pela área do turismo;
+
+f) Um representante a designar pelo membro do Governo responsável pela área da saúde;
+
+g) Um representante da área do desporto escolar, a designar pelo membro do Governo responsável pela área da educação;
+
+h) O presidente do COP;
+
+i) O presidente do CPP;
+
+j) O presidente da CDP;
+
+k) O presidente da Confederação Portuguesa das Coletividades de Cultura, Recreio e Desporto.
+
+2 - A Comissão Permanente cria, sempre que for entendido conveniente, grupos de trabalho constituídos por membros do Plenário e especialistas convidados representativos dos órgãos e dos serviços da Administração Pública, do tecido empresarial, da área da investigação e desenvolvimento, de fundações, de instituições e associações relevantes e da comunidade científica com competência na área do desporto ou nas matérias relacionadas com o desporto, e peritos de reconhecido prestígio e mérito desportivo.
+
+3 - A Comissão Permanente reúne, ordinariamente, cinco vezes por ano, mediante convocatória do seu presidente, e, extraordinariamente, por iniciativa do seu presidente ou a requerimento de, pelo menos, dois terços dos seus membros.
+
+4 - Sempre que for entendido conveniente, podem ser convidadas a participar nas reuniões da Comissão Permanente, sem direito a voto, quaisquer personalidades cuja presença seja considerada necessária para esclarecimento dos assuntos em apreciação.
+
+5 - A Comissão Permanente apresenta ao membro do Governo responsável pela área do desporto, até 15 de setembro de cada ano, propostas de orientação estratégica da política nacional do desporto, bem como propostas de matérias a serem apreciadas pela Comissão Permanente para o ano seguinte, com base nos contributos apresentados pelo Plenário nos termos do n.º 4 do artigo anterior.
+
+6 - A Comissão Permanente, em articulação com o IPDJ, I.P., pode criar um Secretariado Permanente, o qual presta o apoio logístico necessário aos respetivos trabalhos e aos grupos de trabalho que sejam constituídos nos termos do n.º 2.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 153/2013 - Diário da República n.º 214/2013, Série I de 2013-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2013-504773), em vigor a partir de 2013-11-06
+
+###### Artigo 7.º — Funcionamento
+
+1 - Das reuniões do Plenário e da Comissão Permanente é lavrada ata, da qual constam, obrigatoriamente, o local e dia da reunião, a identificação dos membros presentes, o teor das deliberações tomadas, bem como o teor das declarações de voto, quando existam.
+
+2 - As conclusões dos grupos de trabalho constituídos nos termos do n.º 2 do artigo anterior, são apresentadas sobre a forma de relatório.
+
+###### Artigo 8.º — Regimentos
+
+No prazo de 90 dias a contar da data da tomada de posse dos membros que compõem o Plenário e a Comissão Permanente, devem ser elaborados e aprovados os respetivos regimentos.
+
+###### Artigo 9.º — Publicação das deliberações
+
+As deliberações do Conselho são publicadas na página eletrónica do IPDJ, I.P.
+
+###### Artigo 10.º — Faltas dos membros do Conselho
+
+As faltas dadas pelos membros do Conselho, por motivo do exercício efetivo de funções, consideram-se justificadas.
+
+###### Artigo 11.º — Tomada de posse
+
+1 - Os membros do Conselho tomam posse perante o membro do Governo responsável pela área do desporto.
+
+2 - Os presidentes das instituições com representação no Conselho podem indicar substitutos que os representem nas reuniões, mandatados para o efeito, sempre que tal se justifique.
+
+###### Artigo 12.º — Mandato
+
+1 - O mandato dos membros do Conselho inicia-se com a tomada de posse e tem a duração de dois anos, renováveis por iguais períodos, sem prejuízo do disposto nos números seguintes.
+
+2 - O mandato dos membros do Conselho designados em representação de determinado órgão cessa se, entretanto, os mesmos perderem a qualidade que determinou a sua designação.
+
+3 - O mandato dos membros do Conselho em representação de determinado órgão considera-se prorrogado até que seja comunicada, por escrito, no prazo máximo de seis meses, a designação dos respetivos substitutos.
+
+4 - O mandato dos membros do Conselho termina com a cessação do exercício de funções pelo membro do Governo responsável pela área do desporto.
+
+5 - A atividade no âmbito do Conselho não é remunerada.
+
+###### Artigo 13.º — Apoio
+
+Cabe ao IPDJ, I.P., o apoio técnico, logístico e material necessário ao funcionamento do Conselho, nos termos a definir por despacho do membro do Governo responsável pela área do desporto.
+
+###### Artigo 14.º — Norma transitória
+
+Até à entrada em vigor do diploma que altera o regime jurídico do combate à violência, ao racismo, à xenofobia e à intolerância nos espetáculos desportivos, as referências que aí são feitas ao Conselho para a Ética e Segurança no Desporto consideram-se feitas à Comissão Permanente.
+
+###### Artigo 15.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 315/2007, de 18 de setembro, alterado pelo Decreto-Lei n.º 1/2009, de 5 de janeiro.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de novembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Miguel Fernando Cassola de Miranda Relvas - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato.
+
+Promulgado em 21 de dezembro de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 28 de dezembro de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

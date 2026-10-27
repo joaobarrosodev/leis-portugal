@@ -1,0 +1,285 @@
+---
+schema_version: '1.0'
+id: pt:dre:371623:por
+title: Decreto-Lei n.º 221/88
+short_title: null
+summary: Limita a comercialização e a utilização de algumas substâncias perigosas e revoga o Decreto-Lei n.º 378/76, de 20
+  de Maio
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 221/88
+official_date: null
+publication_date: '1988-06-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/1988, Série I de 1988-06-28
+  number: '147'
+  series: I
+  supplement: null
+  pages: 2626 - 2629
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/06/14700/26262629.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '371623'
+  dre_path: /dr/detalhe/decreto-lei/221-1988-371623
+  internal: pt:dre:371623:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1988-371623
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1988-371623
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f0dd0fa02b3ddae0bc527c8756895923502038a08fee776a2fada5df5f7696b9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:39:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embalagem
+- Etiquetagem
+- Proteção do Ambiente
+- Saúde Pública
+relationships:
+- type: amended_by
+  target: pt:dre:352528:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:352528:por
+  label: "Revogado pelo DEC LEI.277/99.1999.07.23.MAM,DR.IS-A [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-1999-352528
+  date: '1999-07-23'
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:39:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 221/88
+
+de 28 de Junho
+
+Os bifenilospoliclorados e os terfenilospoliclorados, conhecidos internacionalmente pela designação de PCB e PCT, respectivamente, constituem um grupo de produtos químicos cuja utilização industrial se desenvolveu e diversificou extraordinariamente, devido sobretudo à sua estabilidade química, baixa volatilidade, elevada constante dieléctrica e propriedades plastificantes.
+
+Porém, as investigações desenvolvidas mostram que os PCB devem ser considerados produtos com características de perigosidade para o homem e para o ambiente.
+
+Consciente destas características e na prossecução do objectivo de preservar e melhorar as condições de vida das populações, o Governo, através do [Decreto-Lei n.º 378/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1976-428230), de 20 de Maio, procedeu à regulamentação do uso dos PCB para fins industriais e comerciais.
+
+Na elaboração desse diploma houve já uma preocupação de aproximação à regulamentação comunitária no respeitante à comercialização de substâncias e preparações perigosas, com o objectivo de salvaguardar a saúde humana e o ambiente.
+
+Decorridos doze anos sobre a data da publicação do [Decreto-Lei n.º 378/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1976-428230), e, sobretudo, após a adesão de Portugal à CEE, torna-se imperativo regular de novo a matéria, no sentido de introduzir as alterações adequadas à sua harmonização com as directivas comunitárias e de acordo com o disposto nos artigos 23.º, 24.º e 26.º da [Lei n.º 11/87](https://diariodarepublica.pt/dr/detalhe/lei/11-1987-666148), de 7 de Abril (Lei de Bases do Ambiente).
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente diploma visa limitar a comercialização e utilização, bem como estabelecer condições de eliminação, das seguintes substâncias e preparações perigosas:
+
+a) Bifenilospoliclorados (PCB), à excepção dos bifenilosmonoclorados e dos bifenilosdiclorados;
+
+b) Terfenilospoliclorados (PCT);
+
+c) Preparações, incluindo óleos usados, cujo teor em PCB ou PCT seja superior a 0,005% em peso.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma, entende-se por:
+
+a) «Substâncias», os elementos químicos e os seus compostos, quer no estado natural quer produzidos industrialmente;
+
+b) «Preparações», as misturas ou soluções compostas por duas ou mais substâncias contendo PCB ou PCT;
+
+c) «Resíduos», PCB, PCT e suas preparações de acordo com o estabelecido no artigo anterior, bem como os equipamentos que os contenham que já não estejam em serviço à data da entrada em vigor deste diploma, ou o venham a estar posteriormente, e ainda outros materiais contaminados com PCB ou PCT com teor superior a 0,005% em peso de que o detentor tenha obrigação de se desfazer, de acordo com o estabelecido neste diploma;
+
+d) «Eliminação», o conjunto dos meios e ou processos utilizados para concretizar o destino final, nos termos do artigo 2.º do regulamento aprovado pela [Portaria n.º 374/87](https://diariodarepublica.pt/dr/detalhe/portaria/374-1987-421225), de 4 de Maio.
+
+###### Artigo 3.º — Proibições e condições derrogatórias
+
+1 - É proibida a comercialização das substâncias e preparações mencionadas no artigo 1.º, quer isoladas quer contidas em equipamentos.
+
+2 - Fica excluída da proibição mencionada no número anterior a comercialização de PCB e PCT e suas preparações quando a finalidade for exclusivamente uma das seguintes:
+
+a) Para eliminação;
+
+b) Para completar níveis em equipamentos já em serviço à data da entrada em vigor do presente diploma, desde que não seja possível, por razões técnicas, o uso de produtos de substituição.
+
+3 - Os equipamentos contendo PCB e PCT em serviço à data da entrada em vigor deste diploma podem permanecer em uso até à sua eliminação ou ao fim do seu período de duração, desde que se encontrem em bom estado de funcionamento e não sejam utilizados em instalações destinadas à produção de produtos para a alimentação humana ou animal ou de produtos farmacêuticos ou veterinários.
+
+4 - Nos casos em que ainda seja permitida a utilização de PCB ou PCT, devem ser instalados os melhores meios técnicos disponíveis com vista a:
+
+a) Prevenir qualquer contaminação do solo ou das águas, especialmente, neste último caso, se destinadas ao consumo humano;
+
+b) Prevenir os riscos de incêndio ou explosão e combater com eficácia qualquer foco de incêndio que venha a declarar-se.
+
+###### Artigo 4.º — Rotulagem
+
+1 - As embalagens, os equipamentos ou quaisquer outros materiais contendo PCB e PCT ou as suas preparações devem ter aposto um rótulo, de acordo com as seguintes indicações:
+
+a) Símbolo de perigo - a cruz de Santo André, em cor preta, sobre fundo amarelo-alaranjado, com a inscrição «NOCIVO», de acordo com o estipulado no anexo II do [Decreto-Lei n.º 280-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1987-409164), de 17 de Julho;
+
+b) Frases de risco e conselhos de prudência, consoante o caso:
+
+«Contém bifenilospoliclorados ou terfenilospoliclorados»;
+
+«Perigo de efeitos cumulativos»;
+
+«Não se desfazer deste produto ou do seu recipiente sem tomar as devidas precauções»;
+
+«Em caso de incêndio e ou explosão, não respirar os fumos»;
+
+c) Outras indicações:
+
+Nome, morada e número de telefone da(s) pessoa(s) a contactar em caso de fugas ou derrames;
+
+«Quando da eliminação, enviar para instalação autorizada para o efeito».
+
+2 - As indicações mencionadas no número anterior devem poder ser lidas na horizontal, quando o material contendo PCB ou PCT esteja colocado na sua posição normal, devendo ainda contrastar nitidamente com a cor do fundo.
+
+###### Artigo 5.º — Inventário
+
+1 - Qualquer pessoa que detenha substâncias ou preparações referidas no artigo 1.º, bem como equipamentos ou outros materiais que as contenham, deve enviar à Direcção-Geral da Qualidade do Ambiente as informações previstas no anexo a este diploma, que dele faz parte integrante, no prazo máximo de um mês após a data da sua entrada em vigor.
+
+2 - Qualquer posterior alteração às informações enviadas nos termos do número anterior deve ser igualmente comunicada logo após a sua ocorrência.
+
+###### Artigo 6.º — Eliminação e transporte
+
+1 - A eliminação dos resíduos deve efectuar-se de acordo com o estipulado no [Decreto-Lei n.º 488/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1985-170315), de 25 de Novembro, por forma a evitar perigo para a saúde humana e para o ambiente.
+
+2 - O detentor de resíduos é obrigado a proceder à respectiva eliminação nas instalações adequadas, devendo entretanto proceder ao seu armazenamento de acordo com as instruções elaboradas pela Direcção-Geral da Qualidade do Ambiente.
+
+3 - O transporte dos resíduos rege-se pelo Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada (RPE), aprovado pelo [Decreto-Lei n.º 210-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-c-1984-625412), de 29 de Junho, e legislação complementar.
+
+###### Artigo 7.º — Estabelecimentos de eliminação
+
+1 - As instalações de eliminação são consideradas estabelecimentos industriais de 1.ª classe, sujeitos a licenciamento de acordo com o definido no Regulamento de Instalação e Laboração dos Estabelecimentos Industriais (RILEI), mediante parecer vinculativo da Direcção-Geral da Qualidade do Ambiente.
+
+2 - Sem prejuízo dos deveres emergentes do princípio geral de poluidor-pagador, decorrente do artigo 1.º do [Decreto-Lei n.º 488/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1985-170315), de 25 de Novembro, serão incentivados os estabelecimentos industriais que procederem à eliminação adequada dos resíduos abrangidos por este diploma, no quadro que a lei instituir, nessa matéria, na área do ambiente.
+
+###### Artigo 8.º — Fiscalização
+
+As funções de fiscalização necessárias a assegurar o cumprimento do presente diploma são exercidas pelos diferentes serviços e organismos, consoante a respectiva competência específica em razão da matéria.
+
+###### Artigo 9.º — Contra-ordenações
+
+1 - Constitui contra-ordenação punível com coima de 50000$00 a 200000$00:
+
+a) A infracção ao disposto nos n.os 1, 3 e 4 do artigo 3.º;
+
+b) A falta da rotulagem a que se refere o artigo 4.º ou a sua deficiência ou erro;
+
+c) A omissão de prestação das informações a que se refere o artigo 5.º ou a sua prestação em termos incompletos ou erróneos;
+
+d) O incumprimento das obrigações constantes do artigo 6.º
+
+2 - Se a contra-ordenação for praticada por uma pessoa colectiva, a coima aplicável é de 300000$00 a 3000000$00, salvo no caso da alínea b) do número anterior, quanto a deficiência ou erro na rotulagem, em que a coima é de 200000$00 a 400000$00.
+
+3 - A negligência é punível, sendo, nesse caso, reduzidos a metade os montantes máximos das coimas previstas nos números anteriores.
+
+###### Artigo 10.º — Sanções acessórias
+
+1 - Como sanção acessória da coima podem ser apreendidos os objectos que serviram para a prática da contra-ordenação ou que foram produzidos durante ou em resultado da mesma.
+
+2 - Os objectos apreendidos nos termos do número anterior são confiados à entidade que procedeu à fiscalização, como fiel depositária, até ao trânsito em julgado da decisão de apreensão, o qual transfere a sua propriedade para o Estado.
+
+###### Artigo 11.º — Competências para a instauração e instrução dos processos
+
+1 - A instauração dos processos de contra-ordenação e aplicação das coimas compete ao director-geral da Qualidade do Ambiente, devendo a ele ser remetidos os autos de notícia, participação ou denúncia.
+
+2 - A instrução dos processos compete ao organismo fiscalizador que detectou a infracção.
+
+###### Artigo 12.º — Produto das coimas
+
+O produto das coimas aplicadas é afectado da forma seguinte:
+
+a) 40% à Direcção-Geral da Qualidade do Ambiente, constituindo receita própria desta;
+
+b) 60% à entidade fiscalizadora que instruiu o processo.
+
+###### Artigo 13.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 378/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1976-428230), de 20 de Maio.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente diploma entra em vigor decorridos 90 dias sobre a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de Maio de 1988. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 9 de Junho de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 16 de Junho de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## ANEXO — Inventário sobre PCB e PCT (artigo 5.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/14700/26262629.pdf)

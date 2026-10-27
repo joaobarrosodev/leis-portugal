@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:182406354:por
+title: Declaração de Retificação n.º 337/2022
+short_title: null
+summary: Retifica o Despacho n.º 560/2022, publicado no Diário da República, 2.ª série, n.º 10, de 14 de janeiro de 2022
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Defesa Nacional - Marinha - Superintendência do Pessoal
+proposing_entity: null
+official_number: 337/2022
+official_date: null
+publication_date: '2022-04-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 79/2022, Série II de 2022-04-22
+  number: '79'
+  series: II
+  supplement: null
+  pages: 60 - 60
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/04/079000000/0006000060.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '182406354'
+  dre_path: /dr/detalhe/declaracao-retificacao/337-2022-182406354
+  internal: pt:dre:182406354:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/337-2022-182406354
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/337-2022-182406354
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:41:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b7e30d388b99dbe546e6179ffc429991e63ac1d51c91a176b4d9418b58fe3493
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:177584974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179595615:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:41:15Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 337/2022
+
+Por ter saído com inexatidão o [Despacho n.º 560/2022](https://diariodarepublica.pt/dr/detalhe/despacho/560-2022-177584974), publicado no Diário da República, 2.ª série, n.º 10, de 14 de janeiro de 2022, a p. 92, retifica-se que onde se lê:
+
+«9316007, Catarina Neto Lopes (no quadro)
+
+9320107, Miguel Almeida Fonseca (no quadro)
+
+que satisfazem as condições gerais e especiais de promoção fixadas, respetivamente, nos artigos 58.º e 251.º do mencionado Estatuto, a contar de 31 de dezembro de 2021, data a partir da qual lhes conta a respetiva antiguidade, de acordo com a alínea b) do n.º 1 do artigo 176.º e para efeitos do n.º 2 do artigo 72.º, ambos daquele Estatuto, em consequência das vacaturas ocorridas nessa data, resultantes da passagem à situação de reserva, do 107487 Cabo CCT Claúdio Manuel Guerreiro Inácio Câmara e do 904489 Cabo CRO Paulo Jorge da Cruz Simões. Estas praças, uma vez promovidas e tal como vão ordenadas, deverão ser colocadas na lista de antiguidade do seu posto e classe à esquerda da 9315706 Cabo C Cátia Alexandra Gonçalves Simão.»
+
+deve ler-se:
+
+«9316007, Catarina Neto Lopes (no quadro)
+
+que satisfaz as condições gerais e especiais de promoção fixadas, respetivamente, nos artigos 58.º e 251.º do mencionado Estatuto, a contar de 17 de dezembro de 2021, data a partir da qual lhe conta a respetiva antiguidade, de acordo com a alínea b) do n.º 1 do artigo 176.º e para efeitos do n.º 2 do artigo 72.º, ambos daquele Estatuto, em consequência da vacatura ocorrida nessa data, resultante da promoção ao posto imediato do 9337495 Cabo CRO Miguel Pais Cabral. Esta praça, uma vez promovida, deverá ser colocada na lista de antiguidade do seu posto e classe à esquerda da 9315706 Cabo C Cátia Alexandra Gonçalves Simão.
+
+9320107, Miguel Almeida Fonseca (no quadro)
+
+que satisfaz as condições gerais e especiais de promoção fixadas, respetivamente, nos artigos 58.º e 251.º do mencionado Estatuto, a contar de 30 de dezembro de 2021, data a partir da qual lhe conta a respetiva antiguidade, de acordo com a alínea b) do n.º 1 do artigo 176.º e para efeitos do n.º 2 do artigo 72.º, ambos daquele Estatuto, em consequência da vacatura ocorrida nessa data, resultante da promoção ao posto imediato do 818295 Cabo CRO Nuno David Silva Martins. Este praça, uma vez promovido, deverá ser colocado na lista de antiguidade do seu posto e classe à esquerda da 9316007 Cabo C Catarina Neto Lopes.»
+
+Com a delegação de competência conferida no ponto xxxvii) da alínea c) do n.º 2 do [Despacho n.º 2403/2022](https://diariodarepublica.pt/dr/detalhe/despacho/2403-2022-179595615), de 17 de fevereiro, do Superintendente do Pessoal, publicado no Diário da República, 2.ª série n.º 39, de 24 de fevereiro de 2022.
+
+12 de abril de 2022. - O Diretor de Pessoal, António José de Jesus Neves Correia, Capitão-de-Mar-e-Guerra.
+
+315226383

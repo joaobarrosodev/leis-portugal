@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007D0412:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007D0412-20070616",
+ "dre_path": null,
+ "source_lastmod": "2007-06-16",
+ "versions": [
+  {
+   "date": "2007-06-15",
+   "future": false,
+   "celex": "32007D0412",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "59da3b0406630aca",
+    "f0c6b8bebfa8f9de",
+    "945710b2615d4f81",
+    "58de22b99ee125af",
+    "10393af8db7a870e"
+   ]
+  }
+ ],
+ "fragments": {
+  "59da3b0406630aca": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Junho de 2007\n\nque altera a Decisão 2002/348/JAI, relativa à segurança por ocasião de jogos de futebol com dimensão internacional\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado da União Europeia, nomeadamente as alíneas a) e b) do n.º 1 do artigo 30.º e a alínea c) do n.º 2 do artigo 34.º,\n\nTendo em conta a iniciativa da República da Áustria [([^1])](http://publications.europa.eu/resource/cellar/cf951751-fc3d-4aa7-801c-cc5a290ebed5.0018.02/DOC_1#ntr1-L_2007155PT.01007601-E0001),\n\nTendo em conta o parecer do Parlamento Europeu [([^2])](http://publications.europa.eu/resource/cellar/cf951751-fc3d-4aa7-801c-cc5a290ebed5.0018.02/DOC_1#ntr2-L_2007155PT.01007601-E0002),\n\nConsiderando o seguinte:\n\n(1) A União Europeia tem como objectivo, nomeadamente, facultar aos cidadãos um elevado nível de protecção num espaço de liberdade, segurança e justiça, mediante a instituição de acções comuns entre os Estados-Membros no domínio da cooperação policial.\n\n(2) Em 25 de Abril de 2002, o Conselho aprovou a Decisão 2002/348/JAI [([^3])](http://publications.europa.eu/resource/cellar/cf951751-fc3d-4aa7-801c-cc5a290ebed5.0018.02/DOC_1#ntr3-L_2007155PT.01007601-E0003), que criou em cada Estado-Membro um ponto nacional de informações sobre futebol encarregado de proceder ao intercâmbio de informações policiais sobre jogos de futebol com dimensão internacional. Nessa decisão são definidas as atribuições a prosseguir e os procedimentos a adoptar por cada ponto nacional de informações sobre futebol.\n\n(3) A decisão 2002/348/JAI deverá ser revista e actualizada à luz da experiência adquirida nos últimos anos, como foi o caso do Campeonato Europeu de Futebol de 2004 e da avaliação da cooperação policial internacional efectuada por peritos no âmbito desse campeonato, bem como da importante cooperação policial estabelecida aquando de jogos internacionais e entre clubes disputados na Europa em geral. Nos últimos anos, o número de adeptos que se deslocam ao estrangeiro para assistir a desafios de futebol continuou a aumentar. É, pois, necessário que os órgãos competentes reforcem a cooperação e profissionalizem o intercâmbio de informações para evitar perturbações da ordem pública e permitir que todos os Estados-Membros façam uma avaliação eficaz do risco. As alterações propostas são o resultado das experiências reunidas por vários pontos nacionais de informações sobre futebol no seu trabalho quotidiano e deverão permitir-lhes actuar de forma mais estruturada e profissional, assegurando um intercâmbio de informações de elevada qualidade.\n\n(4) As alterações não prejudicam as disposições nacionais vigentes, nomeadamente a repartição de responsabilidades entre os diversos serviços e autoridades dos Estados-Membros em questão, nem o exercício das competências conferidas à Comissão pelo Tratado que institui a Comunidade Europeia,\n\nDECIDE:"
+  },
+  "f0c6b8bebfa8f9de": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Decisão 2002/348/JAI é alterada do seguinte modo:\n\n1) O artigo 2.º é alterado nos seguintes termos: a) O n.º 2 passa a ter a seguinte redacção: «2. Em conformidade com as regras nacionais e internacionais aplicáveis, o ponto nacional de informações sobre futebol tem acesso às informações respeitantes a dados de carácter pessoal sobre adeptos de risco.»; b) É aditado o seguinte número: «6. Os pontos nacionais de informações sobre futebol elaboram e comunicam periodicamente aos seus homólogos avaliações genéricas e/ou temáticas sobre distúrbios associados ao futebol a nível nacional.»\n\na) O n.º 2 passa a ter a seguinte redacção: «2. Em conformidade com as regras nacionais e internacionais aplicáveis, o ponto nacional de informações sobre futebol tem acesso às informações respeitantes a dados de carácter pessoal sobre adeptos de risco.»;\n\nb) É aditado o seguinte número: «6. Os pontos nacionais de informações sobre futebol elaboram e comunicam periodicamente aos seus homólogos avaliações genéricas e/ou temáticas sobre distúrbios associados ao futebol a nível nacional.»\n\n2) O artigo 3.º é alterado nos seguintes termos: a) O primeiro período do n.º 3 passa a ter a seguinte redacção: «3. O intercâmbio de dados de carácter pessoal é efectuado em conformidade com as regras nacionais e internacionais aplicáveis, tendo em conta os princípios da Convenção n.º 108 do Conselho da Europa, de 28 de Janeiro de 1981, para a protecção das pessoas relativamente ao tratamento automatizado de dados de carácter pessoal, e, se for caso disso, da Recomendação n.º R (87) 15 do Comité dos Ministros do Conselho da Europa, de 17 de Setembro de 1987, que regulamenta a utilização de dados pessoais no sector da polícia.» b) É aditado o seguinte número: «4. Para o intercâmbio de informações são utilizados os formulários adequados que constam do apêndice do manual com recomendações para a cooperação policial internacional e medidas de prevenção e luta contra a violência e os distúrbios associados aos jogos de futebol com dimensão internacional em que, pelo menos, um Estado-Membro se encontre envolvido. Os pontos nacionais de informações sobre futebol asseguram que as informações por si enviadas sejam completas e conformes com esses formulários.».\n\na) O primeiro período do n.º 3 passa a ter a seguinte redacção: «3. O intercâmbio de dados de carácter pessoal é efectuado em conformidade com as regras nacionais e internacionais aplicáveis, tendo em conta os princípios da Convenção n.º 108 do Conselho da Europa, de 28 de Janeiro de 1981, para a protecção das pessoas relativamente ao tratamento automatizado de dados de carácter pessoal, e, se for caso disso, da Recomendação n.º R (87) 15 do Comité dos Ministros do Conselho da Europa, de 17 de Setembro de 1987, que regulamenta a utilização de dados pessoais no sector da polícia.»\n\nb) É aditado o seguinte número: «4. Para o intercâmbio de informações são utilizados os formulários adequados que constam do apêndice do manual com recomendações para a cooperação policial internacional e medidas de prevenção e luta contra a violência e os distúrbios associados aos jogos de futebol com dimensão internacional em que, pelo menos, um Estado-Membro se encontre envolvido. Os pontos nacionais de informações sobre futebol asseguram que as informações por si enviadas sejam completas e conformes com esses formulários.»."
+  },
+  "945710b2615d4f81": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Conselho deve avaliará a execução da presente decisão até 12 de Junho de 2010."
+  },
+  "58de22b99ee125af": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente decisão produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nFeito no Luxemburgo, em 12 de Junho de 2007.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**W. SCHÄUBLE**\n\n---"
+  },
+  "10393af8db7a870e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/cf951751-fc3d-4aa7-801c-cc5a290ebed5.0018.02/DOC_1#ntc1-L_2007155PT.01007601-E0001) [JO C 164 de 15.7.2006, p. 30](http://publications.europa.eu/resource/oj/JOC_2006_164_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/cf951751-fc3d-4aa7-801c-cc5a290ebed5.0018.02/DOC_1#ntc2-L_2007155PT.01007601-E0002) Parecer emitido em 22 de Março de 2007 (ainda não publicado no Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/cf951751-fc3d-4aa7-801c-cc5a290ebed5.0018.02/DOC_1#ntc3-L_2007155PT.01007601-E0003) [JO L 121 de 8.5.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_121_R_TOC)."
+  }
+ }
+}

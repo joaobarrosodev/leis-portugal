@@ -1,0 +1,197 @@
+---
+schema_version: '1.0'
+id: pt:dre:396559:por
+title: Portaria n.º 801/82
+short_title: null
+summary: Altera os n.os 21.º e 22.º da Portaria n.º 530/82, de 28 de Maio, que regulamenta as condições de candidatura à matrícula
+  e inscrição no ensino superior
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 801/82
+official_date: null
+publication_date: '1982-08-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 195/1982, Série I de 1982-08-24
+  number: '195'
+  series: I
+  supplement: null
+  pages: 2475 - 2477
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/08/19500/24752477.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '396559'
+  dre_path: /dr/detalhe/portaria/801-1982-396559
+  internal: pt:dre:396559:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/801-1982-396559
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/801-1982-396559
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f299de55507eb963fccec0631eb2642b71efb8412d3ecfd985d1c863d92ab4c9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:25:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Ensino Superior
+- Numerus Clausus
+relationships:
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395345:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:25:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 801/82
+
+de 24 de Agosto
+
+Alguns candidatos à matrícula e inscrição no ensino superior no ano lectivo de 1982-1983 são estudantes que concluíram o 12.º ano de escolaridade em 1980-1981 e que se candidataram e não obtiveram colocação para o ano lectivo de 1981-1982.
+
+Reclamam estes estudantes por se considerarem prejudicados pelo facto de, face à nova fórmula de cálculo de C12 (cf. n.º 4 do n.º 21.º da [Portaria n.º 530/82](https://diariodarepublica.pt/dr/detalhe/portaria/530-1982-391982), de 28 de Maio), a sua nota de candidatura para 1982-1983 poder ser inferior à de 1981-1982.
+
+Importa esclarecer a situação e tomar as providências necessárias a corrigi-la se for caso disso.
+
+A candidatura à matrícula e inscrição no ensino superior é um concurso documental anual. Todos os anos os estudantes titulares de habilitação de acesso que pretendem ingressar no ensino superior apresentam-se como opositores a esse concurso. Como em qualquer concurso de natureza documental em que a procura seja superior à oferta, torna-se necessário proceder à seriação dos candidatos. Para tal utiliza-se um conjunto de critérios que, no caso em análise, são de natureza quantitativa.
+
+Esses critérios deverão, claro, ser idênticos para todos os candidatos pelo que a fórmula para cálculo dos valores que servirão de base à seriação deverá ser também igual para todos.
+
+Optou o legislador da [Portaria n.º 530/82](https://diariodarepublica.pt/dr/detalhe/portaria/530-1982-391982), de 28 de Maio, por calcular uma das componentes da fórmula de candidatura (C12), de acordo com a fórmula (2C(índice 1) + 2C(índice 2) + 2C(índice 3))/5 integrando, portanto, no cálculo da mesma todas as disciplinas do curso do 12.º ano (C(índice 1), C(índice 2) e C(índice 3)) com que o estudante se encontra habilitado.
+
+Os estudantes que no ano anterior não foram colocados e a quem a componente C12 da nota de candidatura foi calculada, de acordo com a fórmula (2C(índice 1) + C(índice 2))/3, consideram, como já se afirmou atrás, que se encontram prejudicados por, em muitos casos, a sua nota de candidatura baixar, pelo que solicitam que lhes seja aplicada a mesma fórmula.
+
+Esquecem, porém, que a aplicar-se-lhes esta fórmula a mesma deverá também ser aplicada aos estudantes que concluíram o 12.º ano em 1981-1982 pelo que a situação relativa dos candidatos se manterá.
+
+Conclui-se, deste modo, que a utilização de uma ou outra fórmula para todos os candidatos - única solução justa para o conjunto, pois não se poderá privilegiar os que concluíram em 1980-1981 - conduz em termos gerais, sensivelmente a uma mesma posição relativa dos candidatos.
+
+Argumentam os candidatos com mais duas ordens de razões:
+
+O baixo nível de ensino verificado no ano propedêutico, no ano lectivo de 1980-1981, teria conduzido a classificações mais baixas em relação a 1981-1982. Daí decorreria que os candidatos que houvessem concluído o 12.º ano nesse ano deveriam ser beneficiados pela aplicação de uma fórmula mais favorável.
+
+Não consideraram, porém, que, procurando corrigir tal situação, houve intervenções a 3 níveis: a correcção estatística das classificações de frequência, a compensação por matéria não dada e a bonificação das classificações dos exames. Estas intervenções terão conduzido a classificações sensivelmente ao nível das de um ano decorrido em circunstâncias normais.
+
+Caso houvesse sido dado conhecimento aos candidatos, no início do ano lectivo, de que a classificação da 3.ª disciplina entraria no cálculo de C12, os alunos teriam investido algum esforço na mesma, tendo em vista melhorar a sua preparação e, consequentemente, as respectivas classificações.
+
+É razão que não se pode deixar de ponderar. E, atendendo essencialmente a ela, procede-se à alteração da [Portaria n.º 530/82](https://diariodarepublica.pt/dr/detalhe/portaria/530-1982-391982), no sentido de que C12 seja calculado apenas a partir das classificações das 2 disciplinas melhor classificadas do curso do 12.º ano com que o estudante se candidata.
+
+É, porém, solução que se encara exclusivamente a título transitório e que, a manter-se o mesmo sistema de candidatura, se abandonará para o próximo ano lectivo.
+
+Nestes termos:
+
+Visto o disposto na [Portaria n.º 530/82](https://diariodarepublica.pt/dr/detalhe/portaria/530-1982-391982), de 28 de Maio;
+
+Visto o disposto na [Portaria n.º 640/82](https://diariodarepublica.pt/dr/detalhe/portaria/640-1982-395345), de 26 de Junho:
+
+Ao abrigo do disposto no [Decreto-Lei n.º 397/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1977-285922), de 17 de Setembro:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:
+
+1.º Os n.os 21.º e 22.º da [Portaria n.º 530/82](https://diariodarepublica.pt/dr/detalhe/portaria/530-1982-391982), de 28 de Maio, passam a ter a seguinte redacção:
+
+21.º
+
+(Nota de candidatura)
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Para os candidatos cuja habilitação de acesso é o 12.º ano de escolaridade, C12 é calculado pela aplicação da seguinte fórmula:
+
+(2C(índice 1) + C(índice 2))/3
+
+em que C(índice 1) e C(índice 2) são as classificações das 2 disciplinas melhor classificadas de entre as 3 que constituem o plano de estudos do curso do 12.º ano de escolaridade em que obteve aprovação e com que se candidata sendo C(índice 1) >= C(índice 2).
+
+5 - Para os candidatos cuja habilitação de acesso é o ano propedêutico, C12 é calculado pela aplicação da seguinte fórmula:
+
+(2C(índice 1) + C(índice 2))/3
+
+em que C(índice 1) e C(índice 2) são as classificações das 2 disciplinas melhor classificadas de entre as nucleares e complementares do elenco (ou elencos) do ano propedêutico em que obteve aprovação e com que se candidata, sendo C(índice 1) >= C(índice 2).
+
+6 - ...
+
+7 - ...
+
+22.º
+
+(Regras supletivas para a determinação da nota de candidatura)
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Caso, por ausência total de cobertura docente numa disciplina, o candidato tenha sido aprovado no curso do 12.º ano de escolaridade, com que se candidata apenas com 2 disciplinas, os valores de C(índice 1) e C(índice 2) a que se refere o n.º 4 do n.º 21.º serão os das classificações dessas disciplinas.
+
+2.º O quadro do anexo II no que se refere ao curso de Relações Internacionais da Universidade do Minho passa a ter a seguinte redacção:
+
+## ANEXO II — Habilitação geral de acesso ao ensino superior
+
+Todos os cursos superiores, com excepção dos do ensino superior politécnico
+
+(...)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19500/24752477.pdf)
+
+3.º Às notas ao mapa do anexo II é aditada uma nota (ver nota 12) com a seguinte redacção:
+
+(nota 12) A opção pelos diferentes ramos do curso só se fará em momento adiantado do mesmo, pois aqueles têm um tronco curricular comum; nessa altura a inscrição num ou noutro dos ramos estará condicionada à titularidade da habilitação de acesso respectiva e, se se revelar necessário, a numerus clausus a fixar pela universidade.
+
+Ministério da Educação, 5 de Agosto de 1982. - O Ministro da Educação, João José Fraústo da Silva.

@@ -1,0 +1,161 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66990206:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-70757180",
+ "dre_path": "/dr/detalhe/portaria/108-a-2015-66990206",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-04-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70755025",
+    "70755026",
+    "70755027",
+    "70755028",
+    "70755029",
+    "70755030"
+   ]
+  },
+  {
+   "date": "2016-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70686129:por",
+     "title": "Portaria n.º 359/2015",
+     "published": "2015-10-14",
+     "dre_path": "/dr/detalhe/portaria/359-2015-70686129"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A"
+   ],
+   "fragments": [
+    "70755025",
+    "70755048",
+    "70755027",
+    "70755039",
+    "70755040",
+    "70755044",
+    "70755045",
+    "70755046",
+    "70755047"
+   ]
+  }
+ ],
+ "fragments": {
+  "70755025": {
+   "fragment_id": "70757181",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 108-A/2015\n\nde 14 de abril\n\nO processo de extinção das tarifas reguladas de venda a clientes finais de gás natural iniciou-se com a aprovação do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelos Decretos-Leis n.os 77/2011, de 20 de junho, 74/2012, de 26 de março, 15/2013, de 28 de janeiro, e 15/2015, de 30 de janeiro, que estabelece o procedimento aplicável à extinção das tarifas reguladas de venda de gás natural a clientes finais com consumos anuais superiores a 10 000 m3 e determina, a título transitório, que os comercializadores de último recurso devem continuar a fornecer gás natural aos clientes finais que, até data a definir através de portaria do membro do Governo responsável pela área da energia, não tenham contratado o respetivo fornecimento no mercado livre.\n\nNeste contexto, veio a Portaria n.º 59/2013, de 11 de fevereiro, alterada pelas Portarias n.os 127/2014, de 25 de junho, e 97/2015, de 30 de março, fixar a data prevista no n.º 1 do artigo 5.º do referido decreto-lei, em 31 de dezembro de 2017.\n\nNo mesmo sentido, e em cumprimento dos objetivos de liberalização do mercado interno de gás natural, estabelecidos pela Diretiva n.º 2009/73/CE, do Parlamento Europeu e do Conselho, de 13 de julho de 2009, e pelo Memorando de Entendimento sobre as Condicionalidades de Política Económica, celebrado entre a República Portuguesa e o Banco Central Europeu, a Comissão Europeia e o Fundo Monetário Internacional, no quadro do programa de auxílio financeiro a Portugal, adotou-se, através do Decreto-Lei n.º 74/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, um regime semelhante, destinado a permitir a extinção, de forma gradual, das tarifas reguladas de venda de gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3, que prevê ainda a obrigação, aplicável aos comercializadores de último recurso, de fornecimento de gás natural a estes clientes durante um período transitório, a terminar, nos termos da Portaria n.º 97/2015, de 30 de março, em 31 de dezembro de 2017.\n\nDurante este período, o comercializador de último recurso continua a fornecer gás natural àqueles clientes finais que, independentemente do consumo associado, não exerçam o direito de mudança, mediante a cobrança de tarifas transitórias, fixadas pela Entidade Reguladora dos Serviços Energéticos (\"ERSE\"), determinadas pela soma das tarifas de energia, de acesso às redes e de comercialização, acrescidas de um montante resultante da aplicação de um fator de agravamento.\n\nO mencionado fator de agravamento, não aplicável aos clientes finais economicamente vulneráveis, pretende induzir a adesão gradual daqueles clientes às formas de contratação disponíveis no mercado, repercutindo-se a sua receita a favor dos consumidores de gás natural através da tarifa de uso global do sistema, em termos a regular pela ERSE.\n\nCom a alteração aos Decretos-Leis n.os 66/2010, de 11 de junho, e 74/2012, de 26 de março, operada pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, manteve-se a aplicação da referida tarifa transitória e a respetiva repercussão, remetendo-se para portaria do membro do Governo responsável pela área da energia a definição do mecanismo de determinação do mencionado fator de agravamento.\n\nAfigura-se relevante redefinir o fator de agravamento de forma transitória, com vista a induzir a adesão gradual às formas de contratação oferecidas no mercado e a atender à evolução dos mercados internacionais.\n\nImporta referir, finalmente, que os clientes finais economicamente vulneráveis não estão sujeitos a este fator de agravamento como incentivo à mudança para o mercado livre.\n\nFoi ouvida a Entidade Reguladora dos Serviços Energéticos.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, e no n.º 4 do artigo 5.º do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelos Decretos-Leis n.os 77/2011, de 20 de junho, 74/2012, de 26 de março, 15/2013, de 28 de janeiro, e 15/2015, de 30 de janeiro, manda o Governo, pelo Secretário de Estado da Energia, o seguinte:"
+  },
+  "70755026": {
+   "fragment_id": "70757182",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à definição do mecanismo de determinação do fator de agravamento incluído na tarifa transitória de venda a clientes finais de gás natural, previsto no n.º 3 do artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, e no n.º 4 do artigo 5.º do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelos Decretos-Leis n.os 77/2011, de 20 de junho, 74/2012, de 26 de março, 15/2013, de 28 de janeiro, e 15/2015, de 30 de janeiro."
+  },
+  "70755027": {
+   "fragment_id": "70757183",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de agravamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fator de agravamento\n\n1 - O fator de agravamento para o período t é determinado através da seguinte expressão:\n\n(ver documento original)\n\n2 - A Entidade Reguladora dos Serviços Energéticos (\"ERSE\") deve informar o membro do Governo responsável pela área da energia, até ao início do último mês do período em curso, dos valores estimados para as diferentes componentes da tarifa transitória de venda a clientes finais para o período seguinte, que permitam a determinação do parâmetro (ver documento original) para esse período."
+  },
+  "70755028": {
+   "fragment_id": "70757184",
+   "type": 11,
+   "heading": "Artigo 3.º — Tarifas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tarifas\n\n1 - Se da aplicação da fórmula prevista no artigo anterior não resultar uma variação da tarifa transitória de venda a clientes finais, fixada pela ERSE, de acordo com o n.º 2 do artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, não há lugar à publicação de novas tarifas, por parte da ERSE, para os clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 que não exerçam o direito de mudança para um comercializador de mercado livre.\n\n2 - Se da aplicação da fórmula prevista no artigo anterior não resultar uma variação da tarifa transitória de venda a clientes finais, fixada pela ERSE, de acordo com o n.º 2 do artigo 5.º do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelos Decretos-Leis n.os 77/2011, de 20 de junho, 74/2012, de 26 de março, 15/2013, de 28 de janeiro, e 15/2015, de 30 de janeiro, não há lugar à publicação de novas tarifas, por parte da ERSE, para os clientes finais com consumos anuais superiores a 10 000 m3 que não tenham contratado no mercado livre o seu fornecimento."
+  },
+  "70755029": {
+   "fragment_id": "70757185",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposição transitória\n\n1 - Para efeitos do disposto no n.º 1 do artigo 2.º, o período p = 1 corresponde a um período de dois meses, compreendido entre 1 de maio de 2015 e 30 de junho do mesmo ano.\n\n2 - Para efeitos do disposto no número anterior e no n.º 1 do artigo 2.º, para o período p = 1, (ver documento original) corresponde aos seguintes valores:\n\na) (ver documento original) = - 4,93 (euro)/MWh;\n\nb) (ver documento original) = - 4,76 (euro)/MWh;\n\nc) (ver documento original) = - 3,38 (euro)/MWh.\n\n3 - Para efeitos do disposto no n.º 1 do artigo 2.º, o período p = 2 corresponde a um período de 3 meses, compreendido entre 1 de julho de 2015 e 30 de setembro do mesmo ano.\n\n4 - Para efeitos do disposto no número anterior e no n.º 1 do artigo 2.º, atendendo à informação disponibilizada pela ERSE, para o período p = 2, (ver documento original) corresponde aos seguintes valores:\n\na) (ver documento original) = - 1,08 (euro)/MWh;\n\nb) (ver documento original) = - 1,31 (euro)/MWh;\n\nc) (ver documento original) = - 0,99 (euro)/MWh.\n\n5 - Para efeitos da aplicação da fórmula prevista no n.º 1 do artigo 2.º, considera-se os valores tarifários em vigor e publicados até março do ano da presente portaria, para o período p = 0."
+  },
+  "70755030": {
+   "fragment_id": "70757186",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70755048": {
+   "fragment_id": "70757182",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 359/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/359-2015-70686129), produz efeitos a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1-A presente portaria procede à definição do mecanismo de determinação do fator de agravamento incluído na tarifa transitória de venda a clientes finais de gás natural, previsto no n.º 3 do artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, e no n.º 4 do artigo 5.º do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelos Decretos-Leis n.os 77/2011, de 20 de junho, 74/2012, de 26 de março, 15/2013, de 28 de janeiro, e 15/2015, de 30 de janeiro.\n\n2 - A presente portaria procede ainda à definição do mecanismo referido no número anterior incluído na tarifa transitória de venda a clientes finais de eletricidade, previsto no n.º 3 do artigo 4.º do Decreto-Lei n.º 75/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, e no artigo 6.º do Decreto-Lei n.º 104/2010, de 29 de setembro, alterado pelos Decretos-Leis n.os 75/2012, de 26 de março, 256/2012, de 29 de novembro, e 13/2014, de 22 de janeiro, e 15/2015, de 30 de janeiro.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 359/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/359-2015-70686129), produz efeitos a partir de 2016-01-01"
+  },
+  "70755039": {
+   "fragment_id": "70757196",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Estabilidade tarifária",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 359/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/359-2015-70686129), produz efeitos a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 2.º-A — Estabilidade tarifária\n\n1 - Caso o membro do Governo responsável pela área da energia não publique o despacho referido no n.º 1 do artigo anterior até ao dia 15 do último mês do período em curso, cabe à ERSE definir o parâmetro (gama)(índice i,p).\n\n2 - Se se verificar o disposto no número anterior, a ERSE pode definir o parâmetro (gama)(índice i,p), até ao dia 30 do último mês do período em curso, para o período p seguinte, devendo assegurar que o resultado da fórmula prevista no n.º 1 do artigo 2.º não seja negativo.\n\n3 - Na ausência de definição pela ERSE do parâmetro (gama)(índice i,p), até ao termo do prazo referido no número anterior, este assume o valor zero, sem prejuízo do disposto no número seguinte.\n\n4 - Se da não definição do parâmetro referido dos números anteriores, tanto pelo Governo como pela ERSE, resultar que o resultado da fórmula prevista no n.º 1 do artigo 2.º seja negativo, então o parâmetro (gama)(índice i,p) deve ser igual a (Curg(índice p) - Te'(índice i,p - 1)), aplicando-se o disposto no n.º 2 do artigo anterior.\n\n5 - Sempre que se verifique o disposto no n.º 1, o período p vigora por 2 meses, exceto nos casos em que deva ajustar-se por forma a estar de acordo com as alterações anuais das tarifas de acesso às redes previstas nos regulamentos tarifários.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 359/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/359-2015-70686129), produz efeitos a partir de 2016-01-01"
+  },
+  "70755040": {
+   "fragment_id": "70757184",
+   "type": 11,
+   "heading": "Artigo 3.º — Tarifas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tarifas\n\n1 - Se da aplicação da fórmula prevista no artigo anterior não resultar uma variação da tarifa transitória de venda a clientes finais, fixada pela ERSE, de acordo com o n.º 2 do artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, não há lugar à publicação de novas tarifas, por parte da ERSE, para os clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 que não exerçam o direito de mudança para um comercializador de mercado livre.\n\n2 - Se da aplicação da fórmula prevista no artigo anterior não resultar uma variação da tarifa transitória de venda a clientes finais, fixada pela ERSE, de acordo com o n.º 2 do artigo 5.º do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelos Decretos-Leis n.os 77/2011, de 20 de junho, 74/2012, de 26 de março, 15/2013, de 28 de janeiro, e 15/2015, de 30 de janeiro, não há lugar à publicação de novas tarifas, por parte da ERSE, para os clientes finais com consumos anuais superiores a 10 000 m3 que não tenham contratado no mercado livre o seu fornecimento."
+  },
+  "70755044": {
+   "fragment_id": "70757197",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Aplicação subsidiária ao setor elétrico",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 359/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/359-2015-70686129), em vigor a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Aplicação subsidiária ao setor elétrico\n\nA presente portaria é aplicável ao setor elétrico, com as devidas adaptações.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 359/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/359-2015-70686129), em vigor a partir de 2016-01-01"
+  },
+  "70755045": {
+   "fragment_id": "70757185",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposição transitória\n\n1 - Para efeitos do disposto no n.º 1 do artigo 2.º, o período p = 1 corresponde a um período de dois meses, compreendido entre 1 de maio de 2015 e 30 de junho do mesmo ano.\n\n2 - Para efeitos do disposto no número anterior e no n.º 1 do artigo 2.º, para o período p = 1, (ver documento original) corresponde aos seguintes valores:\n\na) (ver documento original) = - 4,93 (euro)/MWh;\n\nb) (ver documento original) = - 4,76 (euro)/MWh;\n\nc) (ver documento original) = - 3,38 (euro)/MWh.\n\n3 - Para efeitos do disposto no n.º 1 do artigo 2.º, o período p = 2 corresponde a um período de 3 meses, compreendido entre 1 de julho de 2015 e 30 de setembro do mesmo ano.\n\n4 - Para efeitos do disposto no número anterior e no n.º 1 do artigo 2.º, atendendo à informação disponibilizada pela ERSE, para o período p = 2, (ver documento original) corresponde aos seguintes valores:\n\na) (ver documento original) = - 1,08 (euro)/MWh;\n\nb) (ver documento original) = - 1,31 (euro)/MWh;\n\nc) (ver documento original) = - 0,99 (euro)/MWh.\n\n5 - Para efeitos da aplicação da fórmula prevista no n.º 1 do artigo 2.º, considera-se os valores tarifários em vigor e publicados até março do ano da presente portaria, para o período p = 0."
+  },
+  "70755046": {
+   "fragment_id": "70757186",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70755047": {
+   "fragment_id": "70757187",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 14 de abril de 2015."
+  }
+ }
+}

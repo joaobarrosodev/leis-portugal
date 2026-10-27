@@ -1,0 +1,478 @@
+---
+schema_version: '1.0'
+id: pt:dre:141459:por
+title: Decreto n.º 344/70
+short_title: null
+summary: Transfere verbas dentro do orçamento do Ministério da Educação Nacional e abre créditos no Ministério das Finanças
+  destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral
+  do Estado em vigor - Altera uma rubrica do orçamento do Ministério da Educação Nacional - Autoriza a 1.ª Repartição da Direcção-Geral
+  da Contabilidade Pública a ordenar pagamentos a fim de satisfazer encargos respeitantes a anos económicos anteriores
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: 344/70
+official_date: null
+publication_date: '1970-07-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 168/1970, Série I de 1970-07-21
+  number: '168'
+  series: I
+  supplement: null
+  pages: 977 - 980
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/07/16800/09770980.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '141459'
+  dre_path: /dr/detalhe/decreto/344-1970-141459
+  internal: pt:dre:141459:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/344-1970-141459
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/344-1970-141459
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fa6a1a8e50f62dfd734aa98047b4bec316775352d184fe11b4229eb5f99022ed
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:13:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 344/70
+
+Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diariodarepublica.pt/dr/detalhe/decreto/16670-1929-624998), de 27 de Março de 1929, no artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, nas alíneas a), b), c), d), e) e g) do artigo 35.º do referido [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), nos artigos 2.º e seu § único e 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, em execução do [Decreto-Lei n.º 116/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1970-228797), de 18 de Março de 1970, mediante propostas aprovadas pelo Ministro das Finanças, nos termos do n.º 1.º do artigo 9.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933, e nos do mencionado artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659);
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São transferidas as quantias adiante indicadas dentro do orçamento do Ministério da Educação Nacional:
+
+No capítulo 6.º:
+
+Do artigo 925.º, n.º 1) «Móveis»:
+
+Alínea 1 «Direcções dos distritos escolares - Direcção do Distrito Escolar de Évora» ... -8000$00
+
+Para o artigo 927.º «Material de consumo corrente»:
+
+N.º 1) «Impressos»:
+
+Alínea 1 «Direcções dos distritos escolares - Direcção do Distrito Escolar de Évora» ... +4000$00
+
+N.º 2) «Artigos de expediente ...»:
+
+Alínea 1 «Direcções dos distritos escolares - Direcção do Distrito Escolar de Évora» ... +4000$00
+
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 55937999$20, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+
+Encargos Gerais da Nação
+
+Capítulo 2.º «Presidência do Conselho - Secretaria-Geral da Presidência do Conselho»:
+
+Artigo 38.º, n.º 3) «Pessoal assalariado», alínea 1 «Pessoal eventual» ... 1246$00
+
+Artigo 48.º, n.º 1) «Remunerações aos delegados do Governo ...» ... 1500000$00
+
+Capítulo 9.º «Departamento da Defesa Nacional - Gabinete do Ministro»:
+
+Artigo 143.º, n.º 3) «Pessoal assalariado» ... 4724$00
+
+Capítulo 13.º «Despesas de anos económicos findos»:
+
+Artigo 340.º «Despesas de anos económicos findos» ... 6000000$00
+
+... 7505970$00
+
+Ministério das Finanças
+
+Capítulo 2.º «Secretaria-Geral»:
+
+Artigo 17.º, n.º 1) «Remunerações por horas extraordinárias», alínea 1 «Pessoal do serviço telefónico» ... 1500$00
+
+Secretaria de Estado do Tesouro
+
+Capítulo 7.º «Direcção-Geral da Fazenda Pública»:
+
+Artigo 70.º, n.º 2) «Semoventes», alínea 1 «Viaturas com motor» ... 120000$00
+
+Secretaria de Estado do Orçamento
+
+Capítulo 14.º «Direcção-Geral das Contribuições e Impostos»:
+
+Artigo 173.º, n.º 4) «Pagamento de serviços ...» ... 10000000$00
+
+Capítulo 22.º «Despesas de anos económicos findos»:
+
+Artigo 235.º «Despesas de anos económicos findos» ... 2500000$00
+
+Capítulo 24.º «Outros investimentos»:
+
+Artigo 239.º «Para execução do n.º 2.º do artigo 3.º do [Decreto-Lei n.º 47537](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47537-1967-504347), de 16 de Fevereiro de 1967» ... 11000000$00
+
+... 23621500$00
+
+Ministério da Justiça
+
+Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Cadeia Central de Mulheres»:
+
+Artigo 206.º, n.º 1) «Móveis» ... 52750$00
+
+Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores - Escola Profissional de Santo António»:
+
+Artigo 431.º «Remunerações certas ao pessoal em exercício»:
+
+N.º 1) «Pessoal dos quadros aprovados por lei»:
+
+Compensação nos termos do n.º 4.º do artigo 45.º do [Decreto-Lei n.º 38386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38386-1951-522384), de 8 de Agosto de 1951 ... 2880$00
+
+Capítulo 7.º «Serviços médico-legais - Instituto de Medicina Legal do Porto»:
+
+Artigo 485.º, n.º 2) «De móveis» ... 2550$00
+
+Capítulo 10.º «Despesas de anos económicos findos»:
+
+Artigo 501.º «Despesas de anos económicos findos» ... 300000$00
+
+... 358180$00
+
+Ministério das Obras Públicas
+
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+
+Artigo 51.º, n.º 2) «Construções e melhoramentos a efectuar por contrapartida da inscrição de iguais quantias no orçamento das receitas do Estado, incluindo despesas de pessoal»:
+
+Alínea 1 «Edifícios dos correios, telégrafos e telefones» (a) ... 5000000$00
+
+Artigo 53.º, n.º 2) «Despesas de conservação, reparação e melhoramentos de que o Estado será total ou parcialmente reembolsado»:
+
+Alínea 1 «Edifícios dos correios, telégrafos e telefones» ... 7800000$00
+
+Novas instalações para os serviços públicos
+
+Artigo 58.º, n.º 1) «Para pagamento das despesas com os estudos ...»:
+
+Alínea 5 «Pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, para o Palácio de Justiça de Lisboa» ... 2000000$00
+
+Alínea 6 «Pela Junta Nacional da Marinha Mercante em comparticipação com o Tesouro, para a Escola Náutica do Infante D. Henrique» ... 125000$00
+
+Capítulo 11.º «Direcção-Geral das Construções Escolares»:
+
+Artigo 104.º, n.º 2) «Construções e melhoramentos ...», alínea 1 «Residências para estudantes do ensino secundário» ... 2639058$20
+
+... 17564058$20
+
+Ministério da Educação Nacional
+
+Capítulo 1.º «Gabinete do Ministro»:
+
+Artigo 5.º, n.º 2) «Artigos de expediente ...» ... 30000$00
+
+Capítulo 2.º «Secretaria-Geral»:
+
+Artigo 13.º «Remunerações certas ao pessoal em exercício»:
+
+N.º 1) «Pessoal dos quadros aprovados por lei»:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/07/16800/09770980.pdf)
+
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+
+Direcção-Geral
+
+Artigo 55.º, n.º 1) «Correios ...» ... 30000$00
+
+Instrução universitária
+
+Universidade do Porto
+
+Faculdade de Engenharia
+
+Artigo 405.º, n.º 1) «Móveis» ... 155000$00
+
+Artigo 406.º, n.º 2) «De móveis» ... 15000$00
+
+Artigo 407.º «Material de consumo corrente»:
+
+N.º 1) «Matérias-primas ...» ... 10000$00
+
+N.º 3) «Artigos de expediente ...» ... 15000$00
+
+Artigo 408.º, n.º 2) «Luz, ...» ... 20000$00
+
+Artigo 409.º, n.º 2) «Telefones» ... 3000$00
+
+Artigo 411.º, n.º 1) «Força motriz» ... 30000$00
+
+Estabelecimentos diversos
+
+Academia das Ciências de Lisboa
+
+Artigo 484.º «Remunerações acidentais»:
+
+N.º 1) «Remunerações por horas extraordinária» ... 12000$00
+
+Instrução artística
+
+Teatro Nacional de D. Maria II
+
+Artigo 671.º «Despesas de comunicações»:
+
+N.º 2) «Telefone» ... 195$00
+
+Bibliotecas e arquivos
+
+Biblioteca Popular de Lisboa
+
+Artigo 756.º, n.º 1) «Remunerações por horas extraordinárias pelo serviço dominical e nocturno ...» ... 1587$00
+
+Capítulo 4.º «Direcção-Geral do Ensino Liceal»:
+
+Ensino liceal
+
+Liceus
+
+Artigo 784.º, n.º 1) «Móveis»:
+
+Liceu de D. Pedro V, em Lisboa ... 5000$00
+
+Artigo 785.º, n.º 2) «De móveis»:
+
+Liceu de D. Pedro V, em Lisboa ... 2000$00
+
+Artigo 786.º «Material de consumo corrente»:
+
+N.º 1) «Impressos»:
+
+Liceu de D. Pedro V, em Lisboa ... 5000$00
+
+N.º 2) «Artigos de expediente ...»:
+
+Liceu de D. Pedro V, em Lisboa ... 3000$00
+
+Artigo 787.º, n.º 2) «Luz, ...»:
+
+Liceu de D. Pedro V, em Lisboa ... 12000$00
+
+Artigo 788.º «Despesas de comunicações»:
+
+N.º 1) «Correios ...»:
+
+Liceu de D. Pedro V, em Lisboa ... 400$00
+
+N.º 2) «Telefones»:
+
+Liceu de D. Pedro V, em Lisboa ... 6000$00
+
+N.º 3) «Transportes»:
+
+Liceu de D. Pedro V, em Lisboa ... 2000$00
+
+Artigo 791.º «Outros encargos»:
+
+N.º 1) «Prémios e condecorações»:
+
+Alínea 2 «Bolsas de estudo a estagiários pobres» ... 15000$00
+
+N.º 2) «Subsídios a cofres ...»:
+
+Alínea 1 «Excursões e festas escolares»:
+
+Liceu de D. Pedro V, em Lisboa ... 1000$00
+
+Capítulo 7.º «Direcção-Geral da Educação Física, Desportos e Saúde Escolar - Estádio Nacional»:
+
+Artigo 965.º, n.º 3) «Pessoal assalariado» ... 123159$00
+
+... 688291$00
+
+Ministério da Economia
+
+Secretaria de Estado da Agricultura
+
+Capítulo 4.º «Direcção-Geral dos Serviços Agrícolas»:
+
+Centro Nacional de Estudos Vitivinícolas
+
+Artigo 65.º, n.º 1) «Centro Nacional de Estudos Vitivinícolas» ... 3100000$00
+
+Capítulo 6.º «Direcção-Geral dos Serviços Florestais e Aquícolas»:
+
+Artigo 175.º «Outros encargos»:
+
+N.º 12) «Despesas a realizar com a reunião em Lisboa do Colóquio Internacional sobre a Problemática da Industrialização do Eucalipto» ... 100000$00
+
+... 3200000$00
+
+Ministério da Saúde e Assistência
+
+Capítulo 10.º «Outros investimentos»:
+
+Artigo 86.º, n.º 1) «Continuação do reapetrechamento dos hospitais» ... 3000000$00
+
+... 55937999$20
+
+Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+
+Orçamento das receitas do Estado
+
+Capítulo 4.º, artigo 66.º «Diversas receitas não classificadas» ... 52750$00
+
+Capítulo 7.º, artigo 178.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 17564058$20
+
+Capítulo 7.º, artigo 206.º «Reposições não abatidas nos pagamentos» ... 6000000$00
+
+Capítulo 8.º, artigo 219.º «Remunerações aos delegados do Governo» ... 1500000$00
+
+Capítulo 8.º, artigo 266.º «Centro Nacional de Estudos Vitivinícolas» ... 3100000$00
+
+Capítulo 9.º, artigo 288.º-A «Amoedação» ... 3000000$00
+
+Capítulo 9.º, artigo 290.º «Produto da venda de títulos ou de empréstimos» ... 11000000$00
+
+... 42216808$20
+
+Encargos Gerais da Nação
+
+Capítulo 2.º, artigo 24.º, n.º 1) ... 1246$00
+
+Capítulo 9.º, artigo 153.º, n.º 1) ... 4724$00
+
+... 5970$00
+
+Ministério das Finanças
+
+Capítulo 9.º, artigo 126.º, n.º 1) ... 120000$00
+
+Capítulo 14.º, artigo 162.º, n.º 1) ... 10501500$00
+
+Capítulo 16.º, artigo 187.º, n.º 1) ... 1250000$00
+
+Capítulo 17.º, artigo 199.º, n.º 1) ... 750000$00
+
+... 12621500$00
+
+Ministério da Justiça
+
+Capítulo 3.º, artigo 100.º, n.º 1) ... 300000$00
+
+Capítulo 5.º, artigo 341.º, n.º 1) ... 2880$00
+
+Capítulo 7.º, artigo 488.º, n.º 3), alínea 1 ... 2550$00
+
+... 305430$00
+
+Ministério da Educação Nacional
+
+Capítulo 2.º, artigo 13.º, n.º 1) ... 192000$00
+
+Capítulo 2.º, artigo 22.º, n.º 3), alínea 6 ... 347400$00
+
+Capítulo 3.º, artigo 484.º, n.º 1) ... 12000$00
+
+Capítulo 3.º, artigo 668.º, n.º 1) ... 195$00
+
+Capítulo 4.º, artigo 787.º, n.º 2) ... 12000$00
+
+Capítulo 6.º, artigo 933.º, n.º 1) «Pessoal dos quadros ... - Para satisfação dos encargos resultantes da execução do artigo 13.º do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), ...» ... 124696$00
+
+... 688291$00
+
+Ministério da Economia
+
+Capítulo 6.º, artigo 169.º, n.º 1), alínea 6 ... 100000$00
+
+... 55937999$20
+
+Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Educação Nacional:
+
+A quantia aposta à dotação do capítulo 2.º, artigo 23.º-A, n.º 1), é alterada para:
+
+... 192000$00.
+
+Art. 5.º A fim de satisfazer encargos respeitantes a anos económicos anteriores, fica a 1.ª Repartição da Direcção-Geral da Contabilidade Pública autorizada a ordenar pagamentos até ao montante de 4030318$80, em conta da verba do capítulo 13.º, artigo 340.º, do actual orçamento dos Encargos Gerais da Nação, reforçada com a quantia de 6000000$00, através do presente diploma.
+
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
+
+Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
+
+Promulgado em 8 de Julho de 1970.
+
+Publique-se.
+
+Presidência da República, 21 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

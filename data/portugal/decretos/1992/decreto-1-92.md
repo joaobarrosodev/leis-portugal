@@ -1,0 +1,655 @@
+---
+schema_version: '1.0'
+id: pt:dre:568728:por
+title: Decreto n.º 1/92
+short_title: null
+summary: Aprova o Protocolo, assinado em Bruxelas a 28 de Junho de 1987, na sequência da adesão do Reino de Espanha e da República
+  Portuguesa às Comunidades Europeias, pelo qual estes dois Estados aderiram ao Acordo de Cooperação entre a Comunidade Económica
+  Europeia e a República Democrática e Popular da Argélia
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 1/92
+official_date: null
+publication_date: '1992-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 5/1992, Série I-A de 1992-01-07
+  number: '5'
+  series: I
+  supplement: null
+  pages: 22 - 115
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/01/005a00/00220115.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/1/1992/01/07/p/dre/pt/html
+  oj: null
+  dre: '568728'
+  dre_path: /dr/detalhe/decreto/1-1992-568728
+  internal: pt:dre:568728:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-1992-568728
+  metadata_url: https://data.dre.pt/eli/dec/1/1992/01/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/1-1992-568728
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:04:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ebdc0fef957cf5fe8e76a998576e81844bbc37fc674b2d5f3be4b98f7f6e3ed2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adesão à Comunidade Europeia
+- Argélia
+- Bruxelas
+- Convenção
+- Espanha
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:413394:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:413394:por
+  label: "Substituído o Acordo de Cooperação entre a Comunidade Europeia e a República Argelina Democrática e Popular, subscrito\
+    \ por Portugal na sequência de adesão às Comunidades Europeias, através de Protocolo aprovado pelo presente diploma, a\
+    \ partir da entrada em vigor do Acordo aprovado para ratificação pela RES.52-A/2004.06.05.2004.AR, DR.IS-A [169-Supl]\
+    \ de 20.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/52-a-2004-413394
+  date: '2004-05-06'
+- type: cites
+  target: celex:31966R0136
+  label: null
+  source: http://data.europa.eu/eli/reg/1966/136/oj
+- type: cites
+  target: celex:31972R1035
+  label: null
+  source: http://data.europa.eu/eli/reg/1972/1035/oj
+- type: cites
+  target: celex:31975R2727
+  label: null
+  source: http://data.europa.eu/eli/reg/1975/2727/oj
+- type: cites
+  target: celex:31980R3033
+  label: null
+  source: http://data.europa.eu/eli/reg/1980/3033/oj
+- type: cites
+  target: celex:31987R0822
+  label: null
+  source: http://data.europa.eu/eli/reg/1987/822/oj
+article_structure:
+  article_count: 27
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:04:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 1/92
+
+de 7 de Janeiro
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+Artigo único. É aprovado o Protocolo, assinado em Bruxelas, em 28 de Junho de 1987, na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias, pelo qual aqueles dois Estados membros das Comunidades aderiram ao Acordo de Cooperação entre a Comunidade Económica Europeia e a República Democrática e Popular da Argélia, assinado em Argel em 26 de Abril de 1976, cuja versão autêntica, em língua portuguesa, segue em anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
+
+Assinado em 1 de Abril de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 2 de Abril de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+PROTOCOLO AO ACORDO DE COOPERAÇÃO ENTRE A COMUNIDADE ECONÓMICA EUROPEIA E A REPÚBLICA DEMOCRÁTICA E POPULAR ARGELINA NA SEQUÊNCIA DA ADESÃO DO REINO DE ESPANHA E DA REPÚBLICA PORTUGUESA À COMUNIDADE.
+
+Sua Majestade o Rei dos Belgas, Sua Majestade a Rainha da Dinamarca, o Presidente da República Federal da Alemanha, o Presidente da República Helénica, Sua Majestade o Rei de Espanha, o Presidente da República Francesa, o Presidente da Irlanda, o Presidente da República Italiana, Sua Alteza Real o Grão-Duque do Luxemburgo, Sua Majestade a Rainha dos Países Baixos, o Presidente da República Portuguesa, Sua Majestade a Rainha do Reino Unido da Grã-Bretanha e Irlanda do Norte, cujos Estados são Partes Contratantes do Tratado que institui a Comunidade Económica Europeia, e o Conselho das Comunidades Europeias, por um lado, e o Governo da República Democrática e Popular Argelina, por outro:
+
+Tendo em conta o Acordo de Cooperação entre a Comunidade Económica Europeia e a República Democrática e Popular Argelina, assinado em Argel em 26 de Abril de 1976, a seguir denominado «Acordo»;
+
+Considerando que o Reino de Espanha e a República Portuguesa aderiram as Comunidades Europeias em 1 de Janeiro de 1986;
+
+decidiram estabelecer de comum acordo as adaptações e as medidas transitórias a introduzir no Acordo na sequência da adesão do Reino de Espanha e da República Portuguesa à Comunidade Económica Europeia e, para o efeito, designaram como plenipotenciários:
+
+Sua Majestade o Rei dos Belgas:
+
+Paul Noterdaeme, embaixador extraordinário e plenipotenciário;
+
+Sua Majestade a Rainha da Dinamarca:
+
+Jakob Esper Larsen, embaixador extraordinário e plenipotenciário;
+
+O Presidente da República Federal da Alemanha:
+
+Werner Ungerer, embaixador extraordinário e plenipotenciário;
+
+O Presidente da República Helénica:
+
+Constantinos Lyberopoulos, embaixador extraordinário e plenipotenciário;
+
+Sua Majestade o Rei de Espanha:
+
+Carlos Westendorp y Cabeza, embaixador extraordinário e plenipotenciário;
+
+O Presidente da República Francesa:
+
+François Scheer, embaixador extraordinário e plenipotenciário;
+
+O Presidente da Irlanda:
+
+John H. F. Campbell, embaixador extraordinário e plenipotenciário;
+
+O Presidente da República Italiana:
+
+Pietro Calamia, embaixador extraordinário e plenipotenciário;
+
+Sua Alteza Real o Grão-Duque do Luxemburgo:
+
+Joseph Weyland, embaixador extraordinário e plenipotenciário;
+
+Sua Majestade a Rainha dos Países Baixos:
+
+P. C. Nieman, embaixador extraordinário e plenipotenciário;
+
+O Presidente da República Portuguesa:
+
+Leonardo Mathias, embaixador extraordinário e plenipotenciário;
+
+Sua Majestade a Rainha do Reino Unido da Grã-Bretanha e Irlanda do Norte:
+
+David H. A. Hannay KCMG, embaixador extraordinário e plenipotenciário;
+
+O Conselho das Comunidades Europeias:
+
+Paul Noterdaeme, embaixador extraordinário e plenipotenciário, representante permanente da Bélgica, presidente do Comité dos Representantes Permanentes;
+
+Jean Durieux, conselheiro extraordinário na Direcção-Geral das Relações Externas da Comissão;
+
+O Governo da República Democrática e Popular Argelina:
+
+Ahmed Ghozali, embaixador extraordinário e plenipotenciário;
+
+os quais, depois de terem trocado os seus plenos poderes reconhecidos em boa e devida forma, acordaram no seguinte:
+
+###### Artigo 1.º
+
+O Reino de Espanha e a República Portuguesa tornam-se partes no Acordo e nas Declarações anexas à Acta Final assinados em Argel em 26 de Abril de 1976.
+
+## TÍTULO I — Adaptações
+
+###### Artigo 2.º
+
+Os textos do Acordo, incluindo os anexos e protocolos que dele fazem parte integrante, bem como as declarações anexas à Acta Final, estabelecidos em língua espanhola e portuguesa, fazem fé do mesmo modo que os textos originais. O Conselho de Cooperação aprova as versões espanhola e portuguesa.
+
+## TÍTULO II — Medidas transitórias
+
+### CAPÍTULO I — Disposições aplicáveis ao Reino de Espanha
+
+#### SECÇÃO I — Regime geral
+
+###### Artigo 3.º
+
+1 - Com excepção dos produtos referidos no anexo I o Reino de Espanha aplicará, a partir da entrada em vigor do presente Protocolo, aos produtos originário da Argélia, direitos aduaneiros de importação idênticos aos que aplica aos mesmos produtos provenientes da Comunidade, na sua composição em 31 de Dezembro de 1985. Esta medida e aplicável segundo as modalidades previstas nos n.os 2 e 3 e no artigo 4.º
+
+2 - O Reino de Espanha suprimirá progressivamente os direitos aduaneiros de importação aplicáveis aos produtos originários da Argélia, de acordo com o calendário seguinte:
+
+Em 1 de Março de 1986, cada direito será reduzido para 90% do direito de base;
+
+Em 1 de Janeiro de 1987, cada direito será reduzido para 77,5% do direito de base;
+
+Em 1 de Janeiro de 1988, cada direito será reduzido para 62,5% do direito de base;
+
+Em 1 de Janeiro de 1989, cada direito será reduzido para 47,5% do direito de base;
+
+Em 1 de Janeiro de 1990, cada direito será reduzido para 35% do direito de base;
+
+Em 1 de Janeiro de 1991, cada direito será reduzido para 22,5% do direito de base;
+
+Em 1 de Janeiro de 1992, cada direito será reduzido para 10% do direito de base;
+
+A última redução, de 10%, será efectuada em 1 de Janeiro de 1993.
+
+3 - As taxas dos direitos calculadas nos termos do n.º 2 aplicam-se por arredondamento à primeira casa decimal, desprezando-se a segunda casa decimal.
+
+###### Artigo 4.º
+
+1 - O direito de base a partir do qual devem ser efectuadas as reduções sucessivas previstas no n.º 2 do artigo 3.º em relação a cada produto é o direito efectivamente aplicado pelo Reino de Espanha em relação à Comunidade em 1 de Janeiro de 1985.
+
+2 - Em derrogação do n.º 1:
+
+Relativamente aos produtos referidos no anexo I, o direito de base é o aplicado pelo Reino de Espanha em relação à Argélia em 1 de Janeiro de 1985;
+
+Relativamente aos produtos a seguir mencionados, os direitos de base são os indicados em relação a cada um deles:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/005a00/00220115.pdf)
+
+###### Artigo 5.º
+
+Se o Reino de Espanha suspender ou reduzir os direitos aduaneiros de importação aplicáveis aos produtos importados da Comunidade, na sua composição em 31 de Dezembro de 1985, mais rapidamente que o previsto no calendário fixado, suspenderá ou reduzirá igualmente, na mesma percentagem, os direitos aduaneiros aplicáveis a esses mesmos produtos originários da Argélia, com excepção dos enumerados no anexo I.
+
+###### Artigo 6.º
+
+1 - O Reino de Espanha submeterá a restrições quantitativas à importação:
+
+Até 31 de Dezembro de 1988, os produtos originários da Argélia enumerados no anexo II;
+
+Até 31 de Dezembro de 1989, os produtos originários da Argélia enumerados no anexo III.
+
+O Reino de Espanha pode também submeter a restrições quantitativas à importação, até 31 de Dezembro de 1989, os produtos referidos no anexo IV e originários da Argélia, na condição de aplicar medidas da mesma natureza em relação aos países terceiros não preferenciais.
+
+2 - As restrições referidas no n.º 1 consistem na aplicação de contingentes.
+
+3 - Os contingentes iniciais são indicados, respectivamente, nos anexos II, III e IV.
+
+O ritmo do aumento progressivo dos contingentes referidos nos anexos II e IV, bem como dos contingentes n.os 1 a 5 e 10 a 14 referidos no anexo III, é de 25% no início de cada ano, no que respeita aos contingentes expressos em ecus, e de 20% no início de cada ano, no que respeita aos contingentes expressos em volume. O aumento é sempre acrescido a cada contingente e o aumento seguinte calculado sobre o número total obtido.
+
+Para os contingentes n.os 6 a 9 constantes do anexo III, o ritmo anual de aumento progressivo é o seguinte:
+
+Em 1 de Janeiro de 1986 - 13%;
+
+Em 1 de Janeiro de 1987 - 18%;
+
+Em 1 de Janeiro de 1988 - 20%;
+
+Em 1 de Janeiro de 1989 - 20%.
+
+4 - Quando se verificar que as importações em Espanha de um dos produtos referidos nos anexos II, III e IV foram, durante dois anos consecutivos, inferiores a 90% do contingentamento, a importação do produto originário da Argélia será liberalizada a partir do início do ano seguinte a esses dois anos, se o produto em questão estiver liberalizado, nessa altura, relativamente à Comunidade, na sua composição em 31 de Dezembro de 1985.
+
+Se o Reino de Espanha liberalizar as importações de um dos produtos referidos nos anexos II e III provenientes da Comunidade, na sua composição em 31 de Dezembro de 1985, ou se aumentar um contingente, aplicável à Comunidade, na sua composição em 31 de Dezembro de 1985, para além da taxa mínima referida no n.º 3, liberalizará, igualmente, as importações destes produtos originários da Argélia ou aumentará proporcionalmente o contingente.
+
+5 - O Reino de Espanha aplicará, na gestão dos contingentes previstos no n.º 2, as mesmas regras e práticas administrativas que as aplicadas às importações dos produtos originários da Comunidade, na sua composição em 31 de Dezembro de 1985.
+
+###### Artigo 7.º
+
+Para os produtos abrangidos pelo Regulamento (CEE) n.º [3033/80](http://data.europa.eu/eli/reg/1980/3033/oj?locale=pt) originários da Argélia, o Reino de Espanha suprimirá progressivamente os direitos aduaneiros que constituem o elemento fixo da imposição, a partir dos direitos de base indicados no anexo V e segundo o ritmo previsto no n.º 2 do artigo 3.º
+
+#### SECÇÃO II — Produtos constantes do anexo II do Tratado que institui a Comunidade Económica Europeia
+
+###### Artigo 8.º
+
+1 - Em relação aos produtos referidos no anexo II do Tratado que institui a Comunidade Económica Europeia e originários da Argélia, o Reino de Espanha aplicará, sem prejuízo das disposições especiais seguintes, um direito que reduza a diferença entre a taxa do direito de base e a taxa do direito preferencial, de acordo com o calendário seguinte:
+
+Em 1 de Março de 1986, a diferença será reduzida para 90,9% da diferença inicial;
+
+Em 1 de Janeiro de 1987, a diferença será reduzida para 81,8% da diferença inicial;
+
+Em 1 de Janeiro de 1988, a diferença será reduzida para 72,7% da diferença inicial;
+
+Em 1 de Janeiro de 1989, a diferença será reduzida para 63,6% da diferença inicial;
+
+Em 1 de Janeiro de 1990, a diferença será reduzida para 54,5% da diferença inicial;
+
+Em 1 de Janeiro de 1991, a diferença será reduzida para 45,4% da diferença inicial;
+
+Em 1 de Janeiro de 1992, a diferença será reduzida para 36,3% da diferença inicial;
+
+Em 1 de Janeiro de 1993, a diferença será reduzida para 27,2% da diferença inicial;
+
+Em 1 de Janeiro de 1994, a diferença será reduzida para 18,1% da diferença inicial;
+
+Em 1 de Janeiro de 1995, a diferença será reduzida para 9% da diferença inicial.
+
+O Reino de Espanha aplicará integralmente as taxas preferenciais a partir de 1 de Janeiro de 1996.
+
+2 - O Reino de Espanha adiará, até 31 de Dezembro de 1990, a aplicação do regime preferencial nos sectores do azeite e das sementes e frutos oleaginosos que são objecto do Regulamento (CEE) n.º [136/66](http://data.europa.eu/eli/reg/1966/136/oj?locale=pt) e dos produtos seus derivados.
+
+A partir de 1 de Janeiro de 1991, o Reino de Espanha aplicará, em relação a estes produtos, um direito que reduza a diferença entre a taxa do direito efectivamente aplicado em 31 de Dezembro de 1990 e a taxa do direito preferencial, de acordo com o calendário seguinte:
+
+Em 1 de Janeiro de 1991, a diferença será reduzida para 83,3% da diferença inicial;
+
+Em 1 de Janeiro de 1992, a diferença será reduzida para 66,6% da diferença inicial;
+
+Em 1 de Janeiro de 1993, a diferença será reduzida para 49,9% da diferença inicial;
+
+Em 1 de Janeiro de 1994, a diferença será reduzida para 33,2% da diferença inicial;
+
+Em 1 de Janeiro de 1995, a diferença será reduzida para 16,5% da diferença inicial.
+
+O Reino de Espanha aplicará integralmente as taxas preferenciais a partir de 1 de Janeiro de 1996.
+
+3 - O Reino de Espanha adiará, até 31 de Dezembro de 1989, a aplicação do regime preferencial em relação aos frutos e legumes que são objecto do Regulamento (CEE) n.º [1035/72](http://data.europa.eu/eli/reg/1972/1035/oj?locale=pt).
+
+A partir de 1 de Janeiro de 1990, o Reino de Espanha aplicará, em relação a estes produtos, um direito que reduza a diferença entre a taxa do direito efectivamente aplicado em 31 de Dezembro de 1989 e a taxa do direito preferencial, de acordo com o calendário seguinte:
+
+Em 1 de Janeiro de 1990, a diferença será reduzida para 85,7% da diferença inicial;
+
+Em 1 de Janeiro de 1991, a diferença será reduzida para 71,4% da diferença inicial;
+
+Em 1 de Janeiro de 1992, a diferença será reduzida para 57,1% da diferença inicial;
+
+Em 1 de Janeiro de 1993, a diferença será reduzida para 42,8% da diferença inicial;
+
+Em 1 de Janeiro de 1994, a diferença será reduzida para 28,5% da diferença inicial;
+
+Em 1 de Janeiro de 1995, a diferença será reduzida para 14,2% da diferença inicial.
+
+O Reino de Espanha aplicará integralmente as taxas preferenciais a partir de 1 de Janeiro de 1996.
+
+4 - Em relação aos produtos da pesca incluídos nas posições e subposições 03.01, 03.02, 03.03, 16.04, 16.05 e 23.01 B e originários da Argélia, o Reino de Espanha aplicará um direito que reduza a diferença entre a taxa do direito de base e a taxa do direito preferencial, de acordo com o calendário seguinte:
+
+Em 1 de Março de 1986, a diferença será reduzida para 87,5% da diferença inicial;
+
+Em 1 de Janeiro de 1987, a diferença será reduzida para 75% da diferença inicial;
+
+Em 1 de Janeiro de 1988, a diferença será reduzida para 62,5% da diferença inicial;
+
+Em 1 de Janeiro de 1989, a diferença será reduzida para 50% da diferença inicial;
+
+Em 1 de Janeiro de 1990, a diferença será reduzida para 37,5% da diferença inicial;
+
+Em 1 de Janeiro de 1991, a diferença será reduzida para 25% da diferença inicial;
+
+Em 1 de Janeiro de 1992, a diferença será reduzida para 12,5% da diferença inicial.
+
+O Reino de Espanha aplicará integralmente as taxas preferenciais a partir de 1 de Janeiro de 1993.
+
+Todavia, relativamente aos preparados e conservas de sardinhas incluídos na subposição 16.04 A da Pauta Aduaneira Comum, o Reino de Espanha aplicará um direito que reduza a diferença entre a taxa do direito de base e a taxa do direito preferencial de acordo com o calendário previsto no n.º 1.
+
+5 - O direito de base referido nos n.os 1 e 4 é o definido no n.º 1 do artigo 4.º
+
+###### Artigo 9.º
+
+O Reino de Espanha aplicará, em relação aos produtos referidos no n.º 1 do artigo 8.º, a partir da entrada em vigor do presente Protocolo, o regime resultante do Acordo, no que diz respeito às vantagens não pautais e às reduções dos direitos niveladores.
+
+###### Artigo 10.º
+
+1 - Podem ser aplicadas restrições quantitativas à importação em Espanha dos produtos originários da Argélia:
+
+a) Até 31 de Dezembro de 1989, em relação aos produtos constantes do anexo VI;
+
+b) Até 31 de Dezembro de 1995, em relação aos produtos constantes do anexo VII;
+
+c) Até 31 de Dezembro de 1995, em relação aos vinhos de uvas frescas da posição ex 22.05 sujeitos, nos termos do artigo 81.º do Acto de Adesão, ao mecanismo complementar aplicável à importação em Espanha, proveniente da Comunidade, na sua composição em 31 de Dezembro de 1985.
+
+2 - Podem ser mantidas restrições quantitativas, até 31 de Dezembro de 1992, em relação à importação em Espanha dos produtos constantes do anexo VIII e originários da Argélia.
+
+###### Artigo 11.º
+
+Em relação aos produtos referidos no n.º 1 do artigo 8.º que não estejam submetidos, em 1 de Março de 1986, a uma organização comum de mercado, as disposições do Acordo relativas à eliminação dos encargos de efeito equivalente a direitos aduaneiros e à supressão das restrições quantitativas e medidas de efeito equivalente não se aplicam a estes encargos, restrições e medidas, quando façam parte integrante de uma organização nacional de mercado em Espanha à data da adesão.
+
+Esta disposição só é aplicável até à entrada em funcionamento da organização comum de mercado para estes produtos, e o mais tardar até 31 de Dezembro de 1995, e apenas quando tal seja estritamente necessário para assegurar a manutenção da organização nacional.
+
+#### SECÇÃO III — Ilhas Canárias e Ceuta a Melilha
+
+###### Artigo 12.º
+
+1 - Se prejuízo das disposições seguintes, o regime de trocas comerciais das ilhas Canárias e de Ceuta e Melilha com a Argélia é o mesmo que o aplicado nas trocas comerciais entre a Comunidade e a Argélia, na condição de a República Argelina conceder aos produtos originários das ilhas Canárias e de Ceuta e Melilha o mesmo tratamento que concede à Comunidade.
+
+2 - Os direitos aduaneiros aplicados pelas Ilhas Canárias e por Ceuta e Melilha aos produtos diferentes dos referidos no anexo II do Tratado que institui a Comunidade Económica Europeia, bem como o encargo denominado «arbítrio insular - tarifa general» existente nas ilhas Canárias, serão suprimidos progressivamente em relação aos produtos originários da Argélia, segundo o mesmo calendário e nas mesmas condições que os previstos nos artigos 3.º, 4.º e 5.º
+
+3 - Os direitos aduaneiros existentes nas ilhas Canárias e em Ceuta e Melilha para os produtos referidos no anexo II do Tratado que institui a Comunidade Económica Europeia e originários da Argélia serão progressivamente aproximados das taxas preferenciais aplicadas pela Comunidade a esses produtos, sob reserva da possibilidade de estes territórios concederem a esses produtos um tratamento mais favorável que o concedido pela Comunidade.
+
+Todavia, o calendário e as condições das medidas de desmantelamento não podem nunca exceder os calendários e as condições definidos nos artigos 3.º, 4.º e 5.º
+
+4 - O encargo denominado «arbítrio insular - tarifa especial» das ilhas Canárias será suprimido, à data de entrada em vigor do presente Protocolo, em relação aos produtos originários da Argélia.
+
+Todavia, o referido encargo pode ser mantido na importação dos produtos enumerados na lista constante do anexo IX a uma taxa correspondente a 90% da taxa indicada em relação a cada um dos produtos da referida lista, na condição de esta taxa reduzida ser uniformente aplicada a todas as importações dos produto em causa originário da Argélia. O referido encargo será suprimido no mesmo momento em que for suprimido em relação à Comunidade.
+
+Este encargo não pode, em momento algum, ser superior ao nível da pauta aduaneira espanhola, tal como alterada tendo em vista a entrada em funcionamento progressivo da pauta aduaneira comum.
+
+### CAPÍTULO II — Disposições aplicáveis à República Portuguesa
+
+#### SECÇÃO I — Regime Geral
+
+###### Artigo 13.º
+
+1 - A República portugueses suprimirá, a partir da entrada em vigor do presente Protocolo, os direitos aduaneiros de importação dos produtos originários da Argélia.
+
+2 - Em derrogação do n.º 1, a República Portuguesa suprimirá progressivamente os direitos aduaneiros de importação aplicáveis aos produtos referidos no anexo X, originários da Argélia, de acordo com o calendário seguinte:
+
+Em 1 de Março de 1986, cada direito será reduzido para 90% do direito de base;
+
+Em 1 de Janeiro de 1987, cada direito será reduzido para 80% do direito de base;
+
+Em 1 de Janeiro de 1988, cada direito será reduzido para 65% do direito de base;
+
+Em 1 de Janeiro de 1989, cada direito será reduzido para 50% do direito de base;
+
+Em 1 de Janeiro de 1990, cada direito será reduzido para 40% do direito de base;
+
+Em 1 de Janeiro de 1991, cada direito será reduzido para 30% do direito de base;
+
+Em 1 de Janeiro de 1992 e 1 de Janeiro de 1993, serão efectuadas as outras duas reduções, de 15% cada uma.
+
+3 - As taxas dos direitos calculadas nos termos do n.º 2 aplicam-se por arredondamento à primeira casa decimal, desprezando-se a segunda casa decimal.
+
+###### Artigo 14.º
+
+1 - O direito de base a partir do qual devem ser efectuadas as reduções sucessivas previstas no n.º 2 do artigo 13.º em relação a cada produto é o direito efectivamente aplicado pela República Portuguesa em relação à Argélia em 1 de Janeiro de 1985.
+
+3 - Em derrogação do n.º 1, em relação aos produtos constantes do anexo XI, a República Portuguesa eliminará os direitos aduaneiros a partir dos direitos de base indicados no referido anexo para cada produto, na condição de esses direitos serem mais elevados que os direitos aduaneiros efectivamente aplicados pela República Portuguesa relativamente à Argélia em 1 de Janeiro de 1985.
+
+###### Artigo 15.º
+
+Se a República Portuguesa suspender ou reduzir os direitos aduaneiros de importação aplicáveis aos produtos importados da Comunidade, na sua composição em 31 de Dezembro de 1985, mais rapidamente que o previsto no calendário fixado, suspendera ou reduzirá igualmente, na mesma percentagem, os direitos aduaneiros aplicáveis a estes mesmos produtos originários da Argélia, com excepção dos referidos no ponto B do anexo X.
+
+###### Artigo 16.º
+
+1 - O encargos de efeito equivalente a direitos aduaneiros de importação, aplicados pela República Portuguesa aos produtos originários da Argélia, serão suprimidos à data de entrada em vigor do presente Protocolo.
+
+2 - Os encargos seguintes, aplicados pela República Portuguesa nas suas trocas comerciais com a Argélia, serão suprimidos progressivamente, de acordo com o calendário seguinte:
+
+a) O encargo de 0,4% ad valorem aplicado:
+
+Às mercadorias importadas temporariamente;
+
+Às mercadorias reimportadas (com excepção dos contentores);
+
+Às mercadorias importadas em regime de aperfeiçoamento activo caracterizado pela restrituição após a exportação dos produtos obtidos dos direitos cobrados na importação das mercadorias utilizadas (drawback);
+
+será:
+
+Reduzido para 0,2% em 1 de Janeiro de 1987; e
+
+Suprimido em 1 de Janeiro de 1988;
+
+b) O encargo de 0,9% ad valorem aplicado às mercadorias importadas para consumo será:
+
+Reduzido para 0,6% em 1 de Janeiro de 1989;
+
+Reduzido para 0,3% em 1 de Janeiro de 1990; e
+
+Suprimido em 1 de Janeiro de 1991.
+
+###### Artigo 17.º
+
+1 - A República Portuguesa eliminará, a partir da entrada em vigor do presente Protocolo, os direitos aduaneiros de carácter fiscal ou o elemento fiscal dos direitos aduaneiros existentes nessa data sobre as importações de produtos originários da Argélia.
+
+2 - Em relação aos produtos constantes do anexo XII, o direito aduaneiro de carácter fiscal ou o elemento fiscal dos direitos aduaneiros aplicados pela República Portuguesa serão eliminados de acordo com o calendário previsto no n.º 2 do artigo 13.º
+
+3 - No caso de a República Portuguesa utilizar a faculdade de que dispõe, nos termos do n.º 3 do artigo 196.º do Acto de Adesão, de substituir o direito aduaneiro de carácter fiscal ou o elemento fiscal desse direito por uma imposição interna, o elemento eventualmente não coberto pela imposição interna constitui o direito de base a partir do qual a eliminação deve ser efectuada. Este elemento será suprimido nas trocas comerciais com a Argélia de acordo com o calendário previsto no n.º 2 do artigo 13.º
+
+###### Artigo 18.º
+
+A República Portuguesa manterá, até 31 de Dezembro de 1987, restrições quantitativas à importação em relação à Argélia para os veículos automóveis que são objecto do regime especial acordado entre a Comunidade e a República Portuguesa nos termos do Protocolo n.º 18 do Acto de Adesão.
+
+###### Artigo 19.º
+
+Em relação aos produtos que são objecto do Regulamento (CEE) n.º [3033/80](http://data.europa.eu/eli/reg/1980/3033/oj?locale=pt) e originário da Argélia, a República Portuguesa suprimirá os direitos aduaneiros que constituem o elemento fixo da imposição, a partir dos direitos de base indicados no anexo XIII e de acordo com o calendário previsto no n.º 2 do artigo 13.º
+
+#### SECÇÃO II — Produtos constantes do anexo II do Tratado que institui a Comunidade Económica Europa
+
+###### Artigo 20.º
+
+1 - Em relação aos produtos referidos no anexo II do Tratado que institui a Comunidade Económica Europeia e originários da Argélia, a República Portuguesa aplicará, sem prejuízo das disposições especiais seguintes, um direito que reduza a diferença entre a taxa do direito de base e a taxa do direito preferencial, de acordo com o calendário seguinte:
+
+Em 1 de Março de 1986, a diferença será reduzida para 90,9% da diferença inicial;
+
+Em 1 de Janeiro de 1987, a diferença será reduzida para 81,8% da diferença inicial;
+
+Em 1 de Janeiro de 1988, a diferença será reduzida para 72,7% da diferença inicial;
+
+Em 1 de Janeiro de 1989, a diferença será reduzida para 63,6% da diferença inicial;
+
+Em 1 de Janeiro de 1990, a diferença será reduzida para 54,5% da diferença inicial;
+
+Em 1 de Janeiro de 1991, a diferença será reduzida para 45,4% da diferença inicial;
+
+Em 1 de Janeiro de 1992, a diferença será reduzida para 36,3% da diferença inicial;
+
+Em 1 de Janeiro de 1993, a diferença será reduzida para 27,2% da diferença inicial;
+
+Em 1 de Janeiro de 1994, a diferença será reduzida para 18,1% da diferença inicial;
+
+Em 1 de Janeiro de 1995, a diferença será reduzida para 9% da diferença inicial.
+
+A República Portuguesa aplicará integralmente as taxas preferenciais a partir de 1 de Janeiro de 1996.
+
+2 - A República Portuguesa adiará, até 31 de Dezembro de 1990, a aplicação do regime preferencial para os produtos do sector do azeite e das sementes e frutas oleaginosas que são objecto do Regulamento (CEE) n.º [136/66](http://data.europa.eu/eli/reg/1966/136/oj?locale=pt)[136/66/CEE](http://data.europa.eu/eli/reg/1966/136/oj?locale=pt) e dos produtos seus derivados.
+
+A partir de 1 de Janeiro de 1991, a República Portuguesa aplicará, em relação a estes produtos, um direito que reduza a diferença entre a taxa do direito efectivamente aplicado em 31 de Dezembro de 1990 e a taxa do direito preferencial, de acordo com o calendário seguinte:
+
+Em 1 de Janeiro de 1991, a diferença será reduzida para 83,3% da diferença inicial;
+
+Em 1 de Janeiro de 1992, a diferença será reduzida para 66,6% da diferença inicial;
+
+Em 1 de Janeiro de 1993, a diferença será reduzida para 49,9% da diferença inicial;
+
+Em 1 de Janeiro de 1994, a diferença será reduzida para 33,2% da diferença inicial;
+
+Em 1 de Janeiro de 1995, a diferença será reduzida para 16,5% da diferença inicial.
+
+A República Portuguesa aplicará integralmente as taxas preferenciais a partir de 1 de Janeiro de 1996.
+
+3 - A República Portuguesa adiará, até ao início da segunda etapa, tal como definida no artigo 260.º do Acto de Adesão, a aplicação do regime preferencial em relação aos produtos que são objecto dos seguintes actos:
+
+Regulamento (CEE) n.º [1035/72](http://data.europa.eu/eli/reg/1972/1035/oj?locale=pt), que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas;
+
+Regulamento (CEE) n.º [2727/75](http://data.europa.eu/eli/reg/1975/2727/oj?locale=pt), que estabelece a organização comum de mercado no sector dos cereais;
+
+Regulamento (CEE) n.º [822/87](http://data.europa.eu/eli/reg/1987/822/oj?locale=pt), que estabelece a organização comum do mercado vitivinícola.
+
+A República Portuguesa aplicará, em relação a estes produtos, a partir do início da segunda etapa, um direito que reduza a diferença entre a taxa do direito efectivamente aplicado no final da primeira etapa e a taxa do direito preferencial, de acordo com o calendário seguinte:
+
+i) Quando a segunda etapa tiver uma duração de cinco anos:
+
+Em 1 de Janeiro de 1991, a diferença será reduzida para 83,3% da diferença inicial;
+
+Em 1 de Janeiro de 1992, a diferença será reduzida para 66,6% da diferença inicial;
+
+Em 1 de Janeiro de 1993, a diferença será reduzida para 49,9% da diferença inicial;
+
+Em 1 de Janeiro de 1994, a diferença será reduzida para 33,2% da diferença inicial;
+
+Em 1 de Janeiro de 1995, a diferença será reduzida para 16,5% da diferença inicial;
+
+ii) Quando a segunda etapa tiver uma duração de sete anos:
+
+Em 1 de Janeiro de 1989, a diferença será reduzida para 87,5%, da diferença inicial;
+
+Em 1 de Janeiro de 1990, a diferença será reduzida para 75% da diferença salarial;
+
+Em 1 de Janeiro de 1991, a diferença será reduzida para 62,5% da diferença inicial;
+
+Em 1 de Janeiro de 1992, a diferença será reduzida para 50% da diferença inicial;
+
+Em 1 de Janeiro de 1993, a diferença será reduzida para 37,5% da diferença inicial;
+
+Em 1 de Janeiro de 1994, a diferença será reduzida para 25% da diferença inicial;
+
+Em 1 de Janeiro de 1995, a diferença será reduzida para 12,5% da diferença inicial;
+
+iii) A República Portuguesa aplicará as taxas preferenciais a partir de 1 de Janeiro de 1996.
+
+4 - A República Portuguesa aplicará, em relação aos produtos da pesca das posições e subposições 03.01, 03.02, 03.03, 16.04, 16.05 e 23.01 B da Pauta Aduaneira Comum e originários da Argélia, um direito que reduza a diferença entre a taxa do direito de base e a taxa do direito preferencial, de acordo com o calendário seguinte:
+
+Em 1 de Março de 1986, a diferença será reduzida para 87,5% da diferença inicial;
+
+Em 1 de Janeiro de 1987, a diferença será reduzida para 75% da diferença inicial;
+
+Em 1 de Janeiro de 1988, a diferença será reduzida para 62,5% da diferença inicial;
+
+Em 1 de Janeiro de 1989, a diferença será reduzida para 50% da diferença inicial;
+
+Em 1 de Janeiro de 1990, a diferença será reduzida para 37,5% da diferença inicial;
+
+Em 1 de Janeiro de 1991, a diferença será reduzida para 25% da diferença inicial;
+
+Em 1 de Janeiro de 1992, a diferença será reduzida para 12,5% da diferença inicial.
+
+A República Portuguesa aplicará integralmente as taxas preferenciais a partir de 1 de Janeiro de 1993.
+
+Todavia, em relação aos preparados e conservas de sardinhas da subposição 16.04 D da Pauta Aduaneira Comum, a República Portuguesa aplicará um direito que reduza a diferença entre a taxa do direito de base e a taxa do direito preferencial de acordo com o calendário previsto no n.º 1.
+
+5 - O direito de base referido nos n.os 1 e 4 é o definido no n.º 1 do artigo 14.º
+
+###### Artigo 21.º
+
+Em relação aos produtos referidos no n.º 3 do artigo 20.º, a República Portuguesa adiará, até ao início da segunda etapa, tal como definida no artigo 260.º do Acto de Adesão, a aplicação do regime que resulta do Acordo em relação às vantagens não pautais e às reduções dos direitos niveladores.
+
+###### Artigo 22.º
+
+1 - Até 31 de Dezembro de 1992, podem ser aplicadas restrições quantitativas à importação em Portugal dos produtos enumerados no anexo XIV e originários da Argélia.
+
+2 - Até 31 de Dezembro de 1995, podem ser mantidas restrições quantitativas a importação em Portugal dos produtos enumerados no anexo XV e originários da Argélia.
+
+3 - Até 31 de Dezembro de 1990, podem ser mantidas restrições quantitativas à importação em Portugal das azeitonas das subposições 07.03 A e 20.02 F da Pauta Aduaneira Comum e originárias da Argélia.
+
+4 - Até 31 de Dezembro de 1992, podem ser mantidas restrições quantitativas à importação em Portugal dos produtos enumerados no anexo XVI e originários da Argélia.
+
+###### Artigo 23.º
+
+Em relação aos produtos referidos no n.º 1 do artigo 20.º que não estejam submetidos, em 1 de Março de 1986, a uma organização comum de mercado, as disposições do Acordo relativamente à eliminação dos encargos de efeito equivalente a direitos aduaneiros e à supressão das restrições quantitativas e medidas de efeito equivalente não se aplicam a estes encargos, restrições e medidas, quando façam parte integrante de uma organização nacional de mercado em Portugal à data da adesão.
+
+Esta disposição só é aplicável até à entrada em funcionamento da organização comum de mercado para estes produtos, e o mais tardar até 31 de Dezembro de 1995, e apenas quando tal seja estritamente necessário para assegurar a manutenção da organização nacional.
+
+### CAPÍTULO III — Disposições gerais e finais
+
+###### Artigo 24.º
+
+O Conselho de Cooperação introduzirá nas regras de origem as alterações que se tornem necessárias na sequência da adesão do Reino de Espanha e da República Portuguesa às Comunidades Europeias.
+
+###### Artigo 25.º
+
+Os anexos do presente Protocolo fazem dele parte integrante. O presente Protocolo faz parte integrante do Acordo.
+
+###### Artigo 26.º
+
+O presente Protocolo será aprovado pelas Partes Contratantes em conformidade com os seus procedimentos próprios. O presente Protocolo entra em vigor no primeiro dia do segundo mês seguinte à notificação de realização desses procedimentos pelas Partes Contratantes.
+
+São imediatamente aplicáveis, aquando da entrada em vigor do presente Protocolo, as reduções de direitos e os aumentos de contingentes e quaisquer outras medidas nele previstas para o ano no decorrer do qual se verifica essa entrada em vigor.
+
+###### Artigo 27.º
+
+O presente Protocolo é redigido em duplo exemplar, em língua alemã, dinamarquesa, espanhola, francesa, grega, inglesa, italiana, neerlandesa, portuguesa e árabe, fazendo fé qualquer dos textos.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/005a00/00220115.pdf)

@@ -1,0 +1,190 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:902793264:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/diretiva/2025-992212708",
+ "dre_path": "/dr/detalhe/diretiva/1-2025-902793264",
+ "source_lastmod": "2025-12-22",
+ "versions": [
+  {
+   "date": "2025-01-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "992213870",
+    "992213871",
+    "992213872",
+    "992213873",
+    "992213874",
+    "992213475",
+    "992213476",
+    "992213477",
+    "992213478",
+    "992213479",
+    "992213480",
+    "992213481",
+    "992213482",
+    "992213483",
+    "992213484",
+    "992213485",
+    "992213486",
+    "992213487",
+    "992213488"
+   ]
+  }
+ ],
+ "fragments": {
+  "992213870": {
+   "fragment_id": "992212709",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Diretiva n.º 1/2025\n\nTarifas da Entidade Gestora da Rede de Mobilidade Elétrica para 2025\n\nO Decreto-Lei n.º 39/2010, de 26 de abril, na redação vigente, estabelece que a atividade de Gestão de Operações da Rede de Mobilidade Elétrica fica sujeita à regulação da Entidade Reguladora dos Serviços Energéticos (ERSE). O Regulamento da Mobilidade Elétrica (RME) aprovado pelo Regulamento n.º 854/2019, de 4 de novembro, na redação vigente, detalha o processo de determinação dos proveitos e define a estrutura e a metodologia de cálculo das tarifas da Entidade Gestora da Rede de Mobilidade Elétrica (EGME).\n\nA presente Diretiva aprova os proveitos e as tarifas da EGME, as quais são aplicáveis aos Comercializadores de eletricidade para a mobilidade elétrica (CEME) que abastecem os Utilizadores de Veículos Elétricos (UVE), aos Operadores de pontos de carregamento (OPC) e aos Detentores de pontos de carregamento de acesso privativo (DPC), para o período compreendido entre 1 de janeiro e 31 de dezembro de 2025.\n\nPara o ano de 2025, os preços das tarifas da EGME aplicáveis aos CEME, aos OPC e aos DPC apresentam reduções face aos preços de 2024. Esta evolução é explicada, sobretudo, pelo aumento do número de carregamentos previstos para 2025, bem como pela redução dos proveitos. As previsões em que assentam os proveitos permitidos e as tarifas para 2025 têm subjacentes projeções da evolução do contexto económico e financeiro, bem como a análise das previsões da empresa.\n\nO presente exercício tarifário considera a decisão de aprovação de parâmetros para a globalidade do período de regulação que se iniciou em 2022, devidamente justificado em “Tarifas e Proveitos da Entidade Gestora da Rede de Mobilidade Elétrica para 2022 e Parâmetros para o período de regulação 2022-2025”.\n\nDe acordo com os procedimentos estabelecidos no RME, foi submetido pelo Conselho de Administração da ERSE à apreciação do Conselho Tarifário, para emissão de parecer, a «Proposta de tarifas e proveitos da Entidade Gestora da Rede de Mobilidade Elétrica para 2025». Os comentários e recomendações do Conselho Tarifário, a ponderação da ERSE sobre estes, bem como os demais documentos justificativos da decisão de aprovação de tarifas e proveitos da Entidade Gestora da Rede de Mobilidade Elétrica para 2025, são públicos, através da sua disponibilização na página de internet da ERSE.\n\nNestes termos, considerando o parecer do Conselho Tarifário e os comentários recebidos da MOBI.E, S. A., ao abrigo das disposições conjugadas do n.º 7 do artigo 5.º, dos artigos 43.º e 44.º do Decreto-Lei n.º 39/2010, de 26 de abril, na redação vigente, dos artigos 34.º e 40.º do Regulamento da Mobilidade Elétrica, do n.º 3 do artigo 1.º, da alínea y), do n.º 2 do artigo 3.º, da alínea a) do n.º 1 do artigo 11.º e da alínea d) e e) do n.º 2 do artigo 31.º, todos dos Estatutos da ERSE, aprovados pelo Decreto-Lei n.º 97/2002, de 12 de abril, na redação atual, o Conselho de Administração da ERSE aprovou por deliberação de 16 de dezembro de 2024, o seguinte:\n\n> Nota: [Declaração de Retificação n.º 155/2025/2 - Diário da República n.º 30/2025, Série II de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/155-2025-907095396) No sumário, onde se lê: «Aprovas as tarifas da entidade gestora da rede de mobilidade elétrica para 2025.» deve ler-se: «Aprova as tarifas da entidade gestora da rede de mobilidade elétrica para 2025.»"
+  },
+  "992213871": {
+   "fragment_id": "992212710",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "992213872": {
+   "fragment_id": "992212711",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente Diretiva aprova as tarifas da Entidade Gestora da Rede de Mobilidade Elétrica para vigorar em 2025, considerando os parâmetros definidos para o período de regulação 2022-2025, aprovados pela Diretiva n.º 2/2022, de 7 de janeiro, incluindo:\n\na) A Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Comercializadores de eletricidade para a mobilidade elétrica (CEME);\n\nb) A Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Operadores de pontos de carregamento (OPC);\n\nc) A Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Detentores de pontos de carregamento de acesso privativo (DPC);\n\nd) Os valores dos parâmetros para a definição das tarifas a vigorar em 2025."
+  },
+  "992213873": {
+   "fragment_id": "992212712",
+   "type": 1,
+   "heading": "Capítulo II — Tarifas da Entidade Gestora da Mobilidade Elétrica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Tarifas da Entidade Gestora da Mobilidade Elétrica"
+  },
+  "992213874": {
+   "fragment_id": "992212713",
+   "type": 8,
+   "heading": "Secção I — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Comercializadores de eletricidade para a mobilidade elétrica (CEME)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Comercializadores de eletricidade para a mobilidade elétrica (CEME)"
+  },
+  "992213475": {
+   "fragment_id": "992212714",
+   "type": 11,
+   "heading": "Artigo 3.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objeto\n\nOs preços da tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos CEME consideram o previsto nos artigos 39.º, 41.º e 44.º do Regulamento da Mobilidade Elétrica, aprovado pelo Regulamento n.º 854/2019, de 4 de novembro, na redação vigente."
+  },
+  "992213476": {
+   "fragment_id": "992212715",
+   "type": 11,
+   "heading": "Artigo 4.º — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Comercializadores de eletricidade para a mobilidade elétrica (CEME)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Comercializadores de eletricidade para a mobilidade elétrica (CEME)\n\n1 - A tarifa da EGME aplicável aos CEME é composta por um termo tarifário dependente do número de carregamentos, cujo preço é definido em euros por carregamento, nos termos previstos pelo artigo 41.º do RME.\n2 - O preço desta tarifa a aplicar pela EGME aos CEME em 2025 é o seguinte:\n\n| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902793264/902793336.png) |\n| --- |"
+  },
+  "992213477": {
+   "fragment_id": "992212716",
+   "type": 8,
+   "heading": "Secção II — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Operadores de pontos de carregamento (OPC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Operadores de pontos de carregamento (OPC)"
+  },
+  "992213478": {
+   "fragment_id": "992212717",
+   "type": 11,
+   "heading": "Artigo 5.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objeto\n\nOs preços da tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos OPC consideram o previsto nos artigos 39.º, 42.º e 44.º do Regulamento da Mobilidade Elétrica, aprovado pelo Regulamento n.º 854/2019, de 4 de novembro, na redação vigente."
+  },
+  "992213479": {
+   "fragment_id": "992212718",
+   "type": 11,
+   "heading": "Artigo 6.º — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Operadores de pontos de carregamento (OPC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Operadores de pontos de carregamento (OPC)\n\n1 - A tarifa da EGME aplicável aos OPC é composta por um termo tarifário dependente do número de carregamentos, cujo preço é definido em euros por carregamento, nos termos previstos pelo artigo 42.º do RME.\n2 - O preço da tarifa a aplicar pela EGME aos OPC em 2025 é o seguinte:\n\n| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902793264/902793337.png) |\n| --- |"
+  },
+  "992213480": {
+   "fragment_id": "992212719",
+   "type": 8,
+   "heading": "Secção III — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Detentores de pontos de carregamento de acesso privativo (DPC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Detentores de pontos de carregamento de acesso privativo (DPC)"
+  },
+  "992213481": {
+   "fragment_id": "992212720",
+   "type": 11,
+   "heading": "Artigo 7.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objeto\n\nOs preços da tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos DPC consideram o previsto nos artigos 39.º, 43.º e 44.º do Regulamento da Mobilidade Elétrica, aprovado pelo Regulamento n.º 854/2019, de 4 de novembro, na redação vigente."
+  },
+  "992213482": {
+   "fragment_id": "992212721",
+   "type": 11,
+   "heading": "Artigo 8.º — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Detentores de pontos de carregamento de acesso privativo (DPC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tarifa da Entidade Gestora da Rede de Mobilidade Elétrica aplicável aos Detentores de pontos de carregamento de acesso privativo (DPC)\n\n1 - A tarifa da EGME aplicável aos DPC é composta por um termo tarifário fixo, cujo preço é definido em euros por dia nos termos previstos pelo artigo 43.º do RME.\n2 - O preço da tarifa a aplicar pela EGME aos DPC em 2025 é o seguinte:\n\n| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902793264/902793338.png) |\n| --- |"
+  },
+  "992213483": {
+   "fragment_id": "992212722",
+   "type": 1,
+   "heading": "Capítulo III — Parâmetros para a definição das tarifas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Parâmetros para a definição das tarifas"
+  },
+  "992213484": {
+   "fragment_id": "992212723",
+   "type": 11,
+   "heading": "Artigo 9.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Objeto\n\n1 - Os parâmetros a vigorar para o ano 2025 consideram os termos e os fundamentos dos documentos de “Tarifas e proveitos da entidade gestora da rede de mobilidade elétrica para 2025” e de “Parâmetros para o período de regulação 2022-2025”, considerando ainda o parecer do Conselho Tarifário e os comentários recebidos pelas entidades legalmente competentes.\n\n2 - Os parâmetros para a definição das tarifas consideram, ainda, o previsto nos artigos 35.º a 38.º do Regulamento da Mobilidade Elétrica, aprovado pelo Regulamento n.º 854/2019, de 4 de novembro, na redação vigente."
+  },
+  "992213485": {
+   "fragment_id": "992212724",
+   "type": 11,
+   "heading": "Artigo 10.º — Parâmetros a vigorar no ano 2025",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Parâmetros a vigorar no ano 2025\n\nO valor do parâmetro para a definição das tarifas a vigorar em 2025, estabelecido no artigo 38.º RME, é o seguinte:\n\n| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902793264/902793339.png) |\n| --- |"
+  },
+  "992213486": {
+   "fragment_id": "992212725",
+   "type": 11,
+   "heading": "Artigo 11.º — Parâmetros a vigorar no período de regulação de 2022 a 2025",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Parâmetros a vigorar no período de regulação de 2022 a 2025\n\nO valor do parâmetro para a definição das tarifas a vigorar no período de regulação de 2022 a 2025, estabelecido no artigo 38.º RME, é o seguinte:\n\n| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902793264/902793340.png) |\n| --- |"
+  },
+  "992213487": {
+   "fragment_id": "992212726",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "992213488": {
+   "fragment_id": "992212727",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor e Produção de Efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e Produção de Efeitos\n\nA presente Diretiva entra em vigor no dia seguinte à sua publicação no Diário da República, produzindo efeitos desde 1 de janeiro de 2025."
+  }
+ }
+}

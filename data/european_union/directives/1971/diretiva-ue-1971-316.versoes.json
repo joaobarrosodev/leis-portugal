@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31971L0316:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971L0316-20090518",
+ "dre_path": null,
+ "source_lastmod": "2009-05-18",
+ "versions": [
+  {
+   "date": "2009-05-18",
+   "future": false,
+   "celex": "01971L0316-20090518",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "06d082c11b47a849"
+   ]
+  }
+ ],
+ "fragments": {
+  "06d082c11b47a849": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1971L0316 — PT — 18.05.2009 — 012.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31971L0316) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31971L0316) [de 26 de Julho de 1971](http://publications.europa.eu/resource/celex/31971L0316) [relativa à aproximação das legislações dos Estados-membros respeitantes às disposições comuns sobre os instrumentos de medição e os métodos de controlo metrológico](http://publications.europa.eu/resource/celex/31971L0316) [(71/316/CEE)](http://publications.europa.eu/resource/celex/31971L0316) (JO L 202, 6.9.1971, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/34/CE do Parlamento Europeu e do Conselho de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0034) — L 106 — 7 — 28.4.2009"
+  }
+ }
+}

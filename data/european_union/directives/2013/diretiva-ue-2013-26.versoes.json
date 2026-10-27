@@ -1,0 +1,115 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013L0026:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013L0026-20190222",
+ "dre_path": null,
+ "source_lastmod": "2019-02-22",
+ "versions": [
+  {
+   "date": "2013-06-10",
+   "future": false,
+   "celex": "32013L0026",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e0505230db6c47fa",
+    "2e151067d213a636",
+    "ee77dc84fbc5ca58",
+    "d0e5796e311f646b",
+    "5dfbf19b95351684",
+    "47b1ec4f26e6a189"
+   ]
+  },
+  {
+   "date": "2019-02-22",
+   "future": false,
+   "celex": "02013L0026-20190222",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0609:por",
+     "title": "REGULAMENTO (UE) N. o 609/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de junho de 2013",
+     "published": null,
+     "celex": "32013R0609"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Suprime Artigo 1.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "ee881b436bd073b8",
+    "ee77dc84fbc5ca58",
+    "d0e5796e311f646b",
+    "2f5f74d06075f822"
+   ]
+  }
+ ],
+ "fragments": {
+  "e0505230db6c47fa": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de fevereiro de 2013\n\nque adapta determinadas diretivas no domínio da segurança dos alimentos e da política veterinária e fitossanitária, por motivo da adesão da Croácia\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado de Adesão da República da Croácia, nomeadamente o artigo 3.º, n.º 4,\n\nTendo em conta o Ato de Adesão da República da Croácia, nomeadamente o artigo 50.º,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com o artigo 50.º do Ato de Adesão, sempre que os atos das instituições, adotados antes da adesão, devam ser adaptados em virtude da adesão, e as adaptações necessárias não estejam previstas no Ato de Adesão ou nos seus anexos, a Comissão adota os atos necessários para esse efeito, se o ato inicial tiver sido adotado por esta instituição.\n\n(2) A ata final da conferência que elaborou o Tratado de Adesão refere que as Altas Partes Contratantes chegaram a acordo político sobre uma série de adaptações dos atos adotados pelas instituições, necessárias em virtude da adesão, e convidaram o Conselho e a Comissão a adotá-las antes da adesão, completando-as e atualizando-as sempre que necessário para ter em conta a evolução do direito da União.\n\n(3) As Diretivas 1999/21/CE [([^1])](http://publications.europa.eu/resource/cellar/d433fcfa-d1c7-11e2-9b1a-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2013158PT.01037601-E0001) e 2006/141/CE [([^2])](http://publications.europa.eu/resource/cellar/d433fcfa-d1c7-11e2-9b1a-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2013158PT.01037601-E0002) da Comissão devem, por conseguinte, ser alteradas em conformidade,\n\nADOTOU A PRESENTE DIRETIVA:"
+  },
+  "2e151067d213a636": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs Diretivas 1999/21/CE e 2006/141/CE são alteradas em conformidade com o anexo."
+  },
+  "ee77dc84fbc5ca58": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem adotar e publicar, até à data de adesão da República da Croácia à União Europeia, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.\n\nOs Estados-Membros devem aplicar as referidas disposições a partir da data de adesão da República da Croácia à União Europeia.\n\nAs disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros estabelecem o modo como deve ser feita a referência\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "d0e5796e311f646b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente diretiva entra em vigor sob reserva e a partir da data da entrada em vigor do Tratado de Adesão da República da Croácia."
+  },
+  "5dfbf19b95351684": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito em Bruxelas, em 8 de fevereiro de 2013.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "47b1ec4f26e6a189": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d433fcfa-d1c7-11e2-9b1a-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2013158PT.01037601-E0001) [JO L 91 de 7.4.1999, p. 29](http://publications.europa.eu/resource/oj/JOL_1999_091_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/d433fcfa-d1c7-11e2-9b1a-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2013158PT.01037601-E0002) [JO L 401 de 30.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_401_R_TOC)."
+  },
+  "ee881b436bd073b8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de fevereiro de 2013\n\nque adapta determinadas diretivas no domínio da segurança dos alimentos e da política veterinária e fitossanitária, por motivo da adesão da Croácia"
+  },
+  "2f5f74d06075f822": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs destinatários da presente diretiva são os Estados-Membros."
+  }
+ }
+}

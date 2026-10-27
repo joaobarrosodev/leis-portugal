@@ -1,0 +1,822 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006R1967:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1967-20260110",
+ "dre_path": null,
+ "source_lastmod": "2026-01-10",
+ "versions": [
+  {
+   "date": "2019-08-14",
+   "future": false,
+   "celex": "02006R1967-20190814",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6eb8320c736f826d",
+    "226c39ffd0a88dad",
+    "5ab355e9e3267ddf",
+    "32ec656307724bc6",
+    "03a0c3f3c287bb6b",
+    "f0f8c960bfdbce9b",
+    "1c277d5e29bb50bb",
+    "baea59635721a648",
+    "1e7a0903d2eed348",
+    "a0e8905cba0d908f",
+    "f2de12cccf18bc13",
+    "535fd73e55f92cfc",
+    "0d47ca58e5506571",
+    "1ecfc79da3f1ac7f",
+    "2ba1a4c9317ae07a",
+    "536792e7e0587df5",
+    "329b16e5b3e6db1b",
+    "40ed6b62e188ac6f",
+    "b885df7713591130",
+    "e28790cbd0bc5abe",
+    "b76d202a844f758e",
+    "1619c7a8afb1524e",
+    "b8f32dc93910e7c4",
+    "7fd045ac4f655f13",
+    "853dce3a18f61e81",
+    "8de25b3c00f2d82e",
+    "83fd62e30529aff1",
+    "99973826fcc02605",
+    "d8b24293e4d70925",
+    "80cecbe843399768",
+    "553f3cf86d162aa6",
+    "a843fde72c32a265",
+    "11cd1f4e279fb55d",
+    "066a8a7b3c446d0b",
+    "d830ed5e3d247439",
+    "63e36e9fa428ed4b",
+    "9bd76cf09657744c",
+    "6ceac68209090fd3",
+    "29c432991775efe2",
+    "e04eea2e2268a242",
+    "dde9cf53e9ae6c9a",
+    "685c42c707ad4585",
+    "9569fdcee7520d9f",
+    "a7b2fb9a9168af1d",
+    "c8603b064ba0e042",
+    "4a9ad3a16440082c",
+    "d25ba6754593610b",
+    "d664376e2a8dcecd",
+    "09a71770d602e199",
+    "b1dc3c983a092467",
+    "9789163a0af7603b",
+    "bfc8c8466b54eacf",
+    "64610ae29a6cb67c",
+    "186849bf9280351e",
+    "8b1b20394485a976",
+    "9a9e9cea60b6e6d9"
+   ]
+  },
+  {
+   "date": "2026-01-10",
+   "future": false,
+   "celex": "02006R1967-20260110",
+   "acts": [
+    {
+     "id": "eu:celex:32023R2842:por",
+     "title": "REGULAMENTO (UE) 2023/2842 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023",
+     "published": null,
+     "celex": "32023R2842"
+    }
+   ],
+   "changes": [
+    "Altera Notas",
+    "Adita Artigo 1.º — Âmbito de aplicação",
+    "Adita Artigo 2.º — Definições",
+    "Adita Artigo 4.º — Habitats protegidos",
+    "Adita Artigo 5.º — Procedimento de informação para criação de zonas de pesca protegidas",
+    "Adita Artigo 6.º — Zonas de pesca [►M2](http://publications.europa.eu/resource/celex/32015R0812) da União◄ protegidas",
+    "Adita Artigo 7.º — Zonas de pesca nacionais protegidas",
+    "Adita Artigo 13.º — Distâncias e profundidades mínimas para a utilização de artes de pesca",
+    "Adita Artigo 17.º — Pesca de lazer",
+    "Adita Artigo 18.º — Planos de gestão ao nível [►M2](http://publications.europa.eu/resource/celex/32015R0812) da União◄",
+    "Adita Artigo 19.º — Planos de gestão para determinadas pescarias exercidas nas águas territoriais",
+    "Adita Artigo 20.º — Captura de espécies-alvo",
+    "Adita Artigo 22.º — Portos designados",
+    "Adita Artigo 23.º — Controlo das capturas",
+    "Adita Artigo 26.º — Zona de gestão de 25 milhas marítimas em torno de Malta",
+    "Adita Artigo 27.º — Pesca de doirados",
+    "Adita Artigo 28.º — Processo de tomada de decisão",
+    "Adita Artigo 29.º — Regras de execução",
+    "Adita Artigo 30.º — Alterações",
+    "Adita Artigo 31.º — Revogação",
+    "Adita Artigo 32.º — Entrada em vigor",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime Artigo 30.º",
+    "Suprime Artigo 31.º",
+    "Suprime Artigo 32.º"
+   ],
+   "fragments": [
+    "6eb8320c736f826d",
+    "226c39ffd0a88dad",
+    "5ab355e9e3267ddf",
+    "c75356592a424c3f",
+    "6f27d0fe5f4b71c5",
+    "f0f8c960bfdbce9b",
+    "1c277d5e29bb50bb",
+    "dd15430b0cf86207",
+    "1e7a0903d2eed348",
+    "a0e8905cba0d908f",
+    "d1a5e19bd3ebb6b8",
+    "547e8343536cd60d",
+    "e46ac9c6f51d49c5",
+    "1ecfc79da3f1ac7f",
+    "2ba1a4c9317ae07a",
+    "04f3a2273442437a",
+    "329b16e5b3e6db1b",
+    "40ed6b62e188ac6f",
+    "b885df7713591130",
+    "e28790cbd0bc5abe",
+    "b76d202a844f758e",
+    "1619c7a8afb1524e",
+    "d3c6adbaf051eb78",
+    "7fd045ac4f655f13",
+    "853dce3a18f61e81",
+    "b846812389086fc7",
+    "85870a3c4713f8fd",
+    "99973826fcc02605",
+    "d8b24293e4d70925",
+    "0206628970e7bc55",
+    "89b1a092fb51c5c6",
+    "2be56f0d96ba6322",
+    "066a8a7b3c446d0b",
+    "d830ed5e3d247439",
+    "63e36e9fa428ed4b",
+    "9bd76cf09657744c",
+    "43787c163e2f0362",
+    "915c37c28446cc06",
+    "e04eea2e2268a242",
+    "dde9cf53e9ae6c9a",
+    "af4a8feb89cb4d1b",
+    "54c343ffaf846e01",
+    "a7b2fb9a9168af1d",
+    "311355cc1027ca88",
+    "25aed6cf5804b413",
+    "d4b353829b8a9eca",
+    "d664376e2a8dcecd",
+    "09a71770d602e199",
+    "b1dc3c983a092467",
+    "909318bd6d6fcddd",
+    "b859e976cc56fa63",
+    "64610ae29a6cb67c",
+    "186849bf9280351e",
+    "8b1b20394485a976",
+    "a481ba2bedc32b37"
+   ]
+  }
+ ],
+ "fragments": {
+  "6eb8320c736f826d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro de 2006\n\nrelativo a medidas de gestão para a exploração sustentável dos recursos haliêuticos no mar Mediterrâneo, que altera o Regulamento (CEE) n.º 2847/93 e que revoga o Regulamento (CE) n.º 1626/94"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "5ab355e9e3267ddf": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "32ec656307724bc6": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÂmbito de aplicação\n\n1. O presente regulamento é aplicável:\n\na) À conservação, gestão e exploração dos recursos aquáticos vivos, sempre que essas actividades sejam exercidas:\n\ni) Nas águas marítimas do mar Mediterrâneo sob a soberania ou jurisdição dos Estados-Membros, situadas a leste da linha 5º36' W (a seguir designadas por «mar Mediterrâneo»);\n\nii) Por navios de pesca [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** no mar Mediterrâneo fora das águas referidas na subalínea i);\n\niii) Por nacionais dos Estados-Membros, sem prejuízo da responsabilidade primeira do Estado de pavilhão, no mar Mediterrâneo, fora das águas referidas na subalínea i); e\n\nb) À comercialização dos produtos da pesca capturados no mar Mediterrâneo.\n\n2. O presente regulamento não é aplicável às operações de pesca realizadas exclusivamente para efeitos de investigação científica com a autorização e sob a autoridade do Estado-Membro ou dos Estados-Membros em causa."
+  },
+  "03a0c3f3c287bb6b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nDefinições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Artes rebocadas»: qualquer arte de pesca, com exclusão das linhas de corrico, rebocada graças à potência do motor do navio de pesca ou alada por guinchos enquanto o navio de pesca se encontra ancorado ou a deslocar-se lentamente, incluindo nomeadamente redes rebocadas e dragas;\n\na) «Redes rebocadas»: as redes de arrasto, as redes envolventes-arrastantes de alar para bordo e as redes envolventes-arrastantes de alar para a praia;\n\ni) «Redes de arrasto»: as redes rebocadas de forma activa pelo motor principal do navio, constituídas por um corpo cónico ou piramidal (corpo da rede arrasto), fechado na parte terminal por um saco, que pode ser prolongado na abertura por asas ou montado numa estrutura rígida. A abertura horizontal é obtida através de portas de arrasto ou de uma vara ou estrutura com forma e dimensões variadas. Estas redes podem ser rebocadas quer pelo fundo (redes de arrasto pelo fundo), quer entre duas águas (redes de arrasto pelágico);\n\nii) «Redes envolventes-arrastantes de alar para bordo»: redes de cerco e redes envolventes-arrastantes rebocadas, manobradas e aladas por cabos e guinchos a partir de uma embarcação em movimento ou ancorada, e não rebocadas pelo motor principal do navio, constituídas por duas asas laterais e uma bolsa central na forma de uma colher ou terminada por um saco, que podem operar em qualquer nível entre a superfície e o fundo, consoante a espécie-alvo;\n\niii) «Redes envolventes-arrastantes de alar para a praia»: redes de cerco e redes envolventes-arrastantes rebocadas, caladas a partir de uma embarcação e manobradas a partir de terra;\n\nb) «Dragas»: artes quer rebocadas de forma activa pelo motor principal do navio (dragas rebocadas por embarcação), quer aladas por um guincho motorizado a partir de uma embarcação ancorada (dragas mecanizadas) para capturar bivalves, gastrópodes ou esponjas e constituídas por um saco de rede ou um copo de metal montado numa estrutura ou haste rígida com dimensões e formas variadas, que pode ser dotada, na parte inferior, de uma lâmina arredondada, cortante ou com dentes, equipadas ou não com patins e depressores. Algumas dragas são movidas por equipamento hidráulico (dragas hidráulicas). Para efeitos do presente regulamento, não são consideradas artes rebocadas as dragas arrastadas à mão ou por guincho manual para capturar bivalves, gastrópodes ou esponjas com ou sem barco, em águas pouco profundas (dragas de mão).\n\n2. «Zona de pesca protegida»: uma zona marinha delimitada geograficamente em que são proibidas ou limitadas todas ou determinadas actividades de pesca, a título temporário ou permanente, a fim de melhorar a exploração e a conservação dos recursos aquáticos vivos ou a protecção dos ecossistemas marinhos.\n\n3. «Rede de fundo»: um tresmalho, uma rede de emalhar de fundo ou uma rede de fundo mista;\n\na) «Tresmalho»: qualquer rede constituída por um conjunto de dois ou mais panos de rede suspensos paralelamente num único cabo da pana, fixada ou susceptível de ser fixada por qualquer meio no fundo do mar;\n\nb) «Rede de emalhar de fundo», qualquer rede constituída por um único pano de rede mantido verticalmente na água por bóias e lastros, fixada ou que possa ser fixada por qualquer meio no fundo do mar, que mantenha a arte junto ao fundo ou flutue na coluna de água;\n\nc) «Rede de fundo mista»: qualquer rede de emalhar de fundo cuja parte inferior é constituída por um tresmalho.\n\n4. «Redes de cerco»: as redes que capturam o peixe, envolvendo-o pelos lados e por baixo; podem ser ou não equipadas com uma retenida.\n\na) «Redes de cerco com retenida»: qualquer rede de cerco cuja parte inferior é fechada por uma retenida, que passa pelo meio de argolas ligadas à tralha dos chumbos e permite fechar a rede como uma bolsa. As redes de cerco com retenida podem ser utilizadas para capturar pequenas ou grandes espécies pelágicas ou espécies demersais.\n\n5. «Armadilhas»: artes de pesca fixas ao fundo ou aí colocadas que se utilizam para capturar espécies marinhas. Têm a forma de cesto, pote, barril ou gaiola e, na maioria dos casos, são compostas por uma armação rígida ou semi-rígida fabricada em materiais diversos (madeira, vime, hastes ou redes metálicas, etc.), que pode ou não estar coberta de rede. Estão equipadas com uma ou mais alturas ou bocas de extremidades lisas que permitem a entrada das espécies no habitáculo interior. Podem ser utilizadas separadamente ou em grupos. Quando usadas em grupo, da linha madre partem numerosas linhas laterais de comprimento e espaçamento variável em função da espécie-alvo, às quais estão fixadas numerosas armadilhas.\n\n6. «Palangre»: arte de pesca que contém uma linha principal (madre) da qual partem numerosas linhas laterais (estralhos), de comprimento e espaçamento variável em função das espécies-alvo, às quais estão fixados anzóis. Pode ser colocada quer na vertical, quer na horizontal, em relação à superfície do mar; pode ser fixada no fundo ou perto do fundo (palangre de fundo) ou derivar entre duas águas ou próximo da superfície (palangre de superfície).\n\n7. «Anzol»: uma haste de aço afiada e curvada, geralmente dotada de uma barbela. A ponta de um anzol pode ser direita ou estar até invertida e curvada; o comprimento e a forma da haste podem variar e a sua secção transversal pode ser redonda (regular) ou aplanada (anzol forjado). O comprimento total do anzol é o comprimento máximo total da haste medido a partir da ponta do anzol que serve para passar a linha e tem geralmente o formato de um olho até ao ápice da curvatura do anzol; A largura do anzol é a maior distância horizontal medida a partir da parte externa da haste até à parte externa da barbela.\n\n8. «Pesca de lazer»: actividades de pesca que exploram os recursos aquáticos vivos para fins recreativos ou desportivos.\n\n9. «Dispositivos de concentração de peixes»: qualquer equipamento que flutue à superfície do mar e que permita a concentração, por baixo dele, de juvenis ou de espécimes adultos de espécies altamente migradoras.\n\n10. «Cruz de Santo André»: dispositivo que actua como uma tesoura para a apanha do molusco bivalve *Pinna nobilis* ou do coral vermelho no fundo do mar.\n\n11. «Pradaria de ervas marinhas»: zona em que o fundo do mar é caracterizado pela presença dominante de fanerogâmicas ou em que esse tipo de vegetação existiu e necessita de medidas de restauração. A expressão «ervas marinhas» é um termo genérico que abrange as espécies *Posidonia oceanica*, *Cymodocea nodosa*, *Zoostera marina* e *Zoostera noltii*.\n\n12. «*Habitat* coralígeno»: zona em que o fundo do mar é caracterizado pela presença dominante de uma comunidade biológica específica designada por «coralígena» ou em que essa comunidade existiu e necessita de medidas de restauração. O termo «coralígeno» é um termo genérico para uma estrutura biogénica de grande complexidade resultante da deposição contínua, sobre um substrato preexistente rochoso ou duro, de camadas calcárias sucessivas, essencialmente derivadas da actividade de construção de algas vermelhas coralinas calcárias encrustantes e de organismos animais tais como os poríferos, as ascídias, os cnidários (corais córneos, leques do mar, etc.), os briozoários, os serpulídeos, os anelídeos, bem como de outros organismos que fixam o calcário.\n\n13. «Fundo de *mäerl*»: zona em que o fundo do mar é caracterizado pela presença dominante de uma comunidade biológica específica designada por «*mäerl*» ou em que essa comunidade existiu e necessita de medidas de restauração. O termo «*mäerl*» é um termo genérico dado a uma estrutura biogénica composta por diversas espécies de algas vermelhas coralinas (*Corallinacea*) que possuem esqueletos calcários rígidos e crescem sob a forma livre, constituindo talos ramificados arborescentes ou nódulos que formam acumulações nas ondulações dos fundos marinhos lodosos ou arenosos. Os fundos de *mäerl* são geralmente compostos por uma ou várias combinações de algas vermelhas, nomeadamente, *Lithothamnion coralloides* e *Phymatolithon calcareum*.\n\n14. «Repovoamento directo»: a actividade de libertar animais vivos selvagens de espécies seleccionadas em águas em que se encontram naturalmente, a fim de utilizar a produção natural do meio aquático para aumentar o número de indivíduos para efeitos de pesca e/ou para aumentar o recrutamento natural.\n\n15. «Transplantação»: o processo pelo qual uma espécie é intencionalmente transportada e libertada pelo homem em zonas de populações estabelecidas e em que existe um fluxo genético contínuo.\n\n16. «Espécie não indígena»: uma espécie cujo *habitat* natural historicamente conhecido se encontra fora da zona em questão.\n\n17. «Introdução»: o processo pelo qual uma espécie não indígena é mudada intencionalmente e libertada pelo homem em qualquer zona fora do seu *habitat* natural historicamente conhecido.\n\n18. «Capturas involuntárias»: capturas ocasionais de organismos marinhos que, nos termos do artigo 15.º do Regulamento (UE) n.º 1380/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/b63832b1-01c6-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1#E0001)), têm de ser desembarcadas por os organismos marinhos capturados serem de tamanho inferior ao tamanho mínimo de referência de conservação."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "1c277d5e29bb50bb": {
+   "fragment_id": "ESPÉCIES E HABITATS PROTEGIDOS",
+   "type": "divisao",
+   "heading": "ESPÉCIES E HABITATS PROTEGIDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESPÉCIES E HABITATS PROTEGIDOS"
+  },
+  "baea59635721a648": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n*Habitats* protegidos\n\n1. É proibida a pesca com redes de arrasto, dragas, redes de cerco com retenida, redes envolventes-arrastantes de alar para bordo, redes envolventes-arrastantes de alar para a praia ou redes semelhantes nas pradarias de ervas marinhas, nomeadamente de *Posidonia oceanica* ou de outras fanerogâmicas marinhas.\n\nEm derrogação do primeiro parágrafo, pode ser autorizada a utilização de redes de cerco com retenida, redes envolventes-arrastantes de alar para bordo ou redes semelhantes, cuja altura total e funcionamento nas operações de pesca impliquem que a retenida, o cabo de chumbada ou os cabos de alagem não atinjam as pradarias de ervas marinhas, no âmbito dos planos de gestão previstos no artigo 18.º ou no artigo 19.º\n\n2. É proibida a pesca com redes de arrasto, dragas, redes envolventes-arrastantes de alar para a praia ou redes semelhantes nos *habitats* coralígenos e nos fundos de *mäerl*.\n\n4. A proibição prevista no primeiro parágrafo do n.º 1 e no n.º 2 aplica-se, a partir da data de entrada em vigor do presente regulamento, em todos os sítios Natura 2000, todas as zonas especialmente protegidas e todas as zonas especialmente protegidas de importância para o Mediterrâneo (SPAMI) designados para efeitos da conservação desses *habitats* nos termos da Directiva 92/43/CEE ou da Decisão 1999/800/CE.\n\n5. Em derrogação do primeiro parágrafo do n.º 1, a pesca por navios de comprimento fora a fora igual ou inferior a 12 metros e de potência igual ou inferior a 85 kW dotados de redes de arrasto pelo fundo tradicionalmente efectuada em fundos de *Posidonia* pode ser autorizada pela Comissão nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002, desde que as actividades de pesca em causa:\n\ni) Sejam regulamentadas no âmbito dos planos de gestão previstos no artigo 19.º do presente regulamento;\n\nii) Não afectem mais de 33 % da superfície coberta pelos fundos de ervas marinhas *Posidonia oceanica* nas zonas abrangidas pelo plano de gestão;\n\niii) Não afectem mais de 10 % da superfície coberta pelas pradarias de ervas marinhas nas águas territoriais do Estado-Membro em causa.\n\nAs actividades de pesca autorizadas nos termos do presente número devem:\n\na) Cumprir os requisitos da alínea h) do n.º 1 do artigo 8.º, do ponto 2) do n.º 3 do artigo 9.º e do artigo 23.º;\n\nb) Ser regulamentadas por forma a garantir que sejam mínimas as capturas das espécies referidas no anexo III.\n\nNo entanto, não se aplica o ponto 1) do n.º 3 do artigo 9.º\n\nSempre que um navio de pesca que opere ao abrigo do disposto no presente número seja retirado da frota por meio de fundos públicos, a autorização especial de pesca para a realização dessa actividade de pesca será retirada e não voltará a ser emitida.\n\nOs Estados-Membros interessados estabelecem um plano de fiscalização e informam a Comissão de três em três anos, a partir da entrada em vigor do presente regulamento, sobre a situação das pradarias de ervas marinhas *Posidonia oceanica* afectadas pelas actividades das redes de arrasto pelo fundo e enviarão a lista dos navios de pesca autorizados. O primeiro relatório deve ser enviado à Comissão antes de 31 de Julho de 2009.\n\n6. Os Estados-Membros e a Comissão devem tomar medidas adequadas para garantir a recolha das informações científicas pertinentes tendo em vista a identificação científica e a cartografia dos *habitats* a proteger nos termos do presente artigo."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "a0e8905cba0d908f": {
+   "fragment_id": "ZONAS DE PESCA PROTEGIDAS",
+   "type": "divisao",
+   "heading": "ZONAS DE PESCA PROTEGIDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ZONAS DE PESCA PROTEGIDAS"
+  },
+  "f2de12cccf18bc13": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nProcedimento de informação para criação de zonas de pesca protegidas\n\nOs Estados-Membros comunicam à Comissão, pela primeira vez antes de 31 de Dezembro de 2007, as informações pertinentes para a criação de zonas de pesca protegidas e para as possíveis medidas de gestão a aplicar nessas zonas, tanto em águas sob a sua jurisdição como fora dessas águas, quando a protecção das zonas de maternidade, das zonas de reprodução ou do ecossistema marinho contra os efeitos prejudiciais da pesca exija medidas especiais."
+  },
+  "535fd73e55f92cfc": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nZonas de pesca [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** protegidas\n\n1. Com base nas informações fornecidas nos termos do artigo 5.º, assim como noutras informações pertinentes para o mesmo efeito, o Conselho designa, no prazo de dois anos a contar da data de aprovação do presente regulamento, as zonas de pesca protegidas, situadas essencialmente para além dos mares territoriais dos Estados-Membros, relativas aos tipos de actividades de pesca proibidos ou autorizados nessas zonas.\n\n2. O Conselho pode posteriormente designar outras zonas de pesca protegidas, ou alterar a sua delimitação e regras de gestão estabelecidas, com base em novos dados científicos pertinentes.\n\n3. Os Estados-Membros e a Comissão tomam medidas adequadas para garantir a recolha de informações científicas pertinentes tendo em vista a identificação científica e a cartografia das zonas a proteger nos termos do presente artigo."
+  },
+  "0d47ca58e5506571": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nZonas de pesca nacionais protegidas\n\n1. No prazo de dois anos a contar da data de aprovação do presente regulamento e com base nas informações comunicadas em conformidade com o seu artigo 5.º, os Estados-Membros designam outras zonas de pesca protegidas, para além das zonas de pesca protegidas já estabelecidas à data da entrada em vigor do presente regulamento, situadas nas suas águas territoriais, em que poderão ser proibidas ou limitadas as actividades de pesca, a fim de garantir a conservação e gestão dos recursos aquáticos vivos ou de manter ou melhorar o estado de conservação dos ecossistemas marinhos. As autoridades competentes dos Estados-Membros em causa decidem das artes de pesca que podem ser utilizadas nessas zonas protegidas, assim como das regras técnicas adequadas, as quais não devem ser menos estritas do que as previstas pela legislação [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄**.\n\n2. Os Estados-Membros podem posteriormente, com base em novos dados científicos pertinentes, designar outras zonas de pesca protegidas ou alterar as delimitações e regras de gestão estabelecidas nos termos do n.º 1. Os Estados-Membros e a Comissão tomam medidas adequadas para garantir a recolha de informações científicas pertinentes tendo em vista a identificação científica e a cartografia das zonas a proteger nos termos do presente artigo.\n\n3. As medidas referidas nos n.^os^ 1 e 2 são notificadas à Comissão. Ao aplicarem as disposições previstas nos n.^os^ 1 e 2, os Estados-Membros informam a Comissão dos motivos científicos, técnicos e jurídicos que justificam a exigência de medidas especiais.\n\n4. Sempre que uma zona protegida situada nas águas territoriais de um Estado-Membro seja susceptível de afectar os navios de outro Estado-Membro, a sua designação só é feita após consulta da Comissão, do Estado-Membro e do Conselho Consultivo Regional em causa, nos termos dos n.^os^ 3 a 6 do artigo 8.º do Regulamento (CE) n.º 2371/2002.\n\n5. Se considerar que as medidas de gestão das pescas notificadas em conformidade com o n.º 3 não são suficientes para assegurar um elevado nível de protecção dos recursos e do ambiente, a Comissão pode, após consulta do Estado-Membro, pedir-lhe que altere a medida ou propor que o Conselho designe uma zona de pesca protegida ou aprove medidas de gestão das pescas no respeitante às águas em causa."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "2ba1a4c9317ae07a": {
+   "fragment_id": "RESTRIÇÕES APLICÁVEIS ÀS ARTES DE PESCA",
+   "type": "divisao",
+   "heading": "RESTRIÇÕES APLICÁVEIS ÀS ARTES DE PESCA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RESTRIÇÕES APLICÁVEIS ÀS ARTES DE PESCA"
+  },
+  "536792e7e0587df5": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nDistâncias e profundidades mínimas para a utilização de artes de pesca\n\n1. É proibida a utilização de artes rebocadas a menos de 3 milhas marítimas da costa ou na isóbata de 50 metros sempre que essa profundidade seja atingida a menos de 3 milhas marítimas da costa.\n\nEm derrogação do primeiro parágrafo, é autorizada a utilização de dragas até 3 milhas marítimas da costa, em qualquer profundidade, desde que as capturas que não sejam crustáceos e moluscos não excedam 10 % do peso vivo total das capturas.\n\n2. É proibida a utilização de redes de arrasto a menos de 1,5 milhas marítimas da costa. É proibido o uso de dragas rebocadas por embarcação e de dragas hidráulicas a menos de 0,3 milhas marítimas da costa.\n\n3. É proibida a utilização de redes de cerco com retenida a menos de 300 metros da costa ou na isóbata de 50 metros sempre que essa profundidade seja atingida a uma distância inferior da costa.\n\nAs redes de cerco com retenida não devem ser utilizadas em profundidades inferiores a 70 % da altura total da própria rede de cerco com retenida, medida em conformidade com o anexo II ao presente regulamento.\n\n4. É proibida a utilização de dragas para a pesca de esponjas na isóbata de 50 metros e a menos de 0,5 milhas marítimas da costa.\n\n5. A pedido de um Estado-Membro, a Comissão, nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002, autoriza uma derrogação do disposto nos n.^os^ 1, 2 e 3, nos casos em que essa derrogação seja justificada por condicionantes geográficas específicas, [**►C2**](http://publications.europa.eu/resource/celex/32006R1967R%2804%29) como a extensão limitada da plataforma continental ao longo de todo o litoral**◄** de um Estado-Membro ou a extensão limitada dos pesqueiros de arrasto, ou em que as pescas não tenham um impacto significativo no meio marinho e afectem um número limitado de navios, e desde que essas pescas não possam ser realizadas por outra arte de pesca e sejam objecto de um plano de gestão referido no artigo 18.º ou no artigo 19.º Para fundamentar essa derrogação, os Estados-Membros comunicam dados científicos e justificações técnicas actualizadas.\n\n6. Em derrogação do n.º 2, as redes de arrasto podem ser temporariamente utilizadas até 31 de Dezembro de 2007 a uma distância da costa inferior a 1,5 milhas marítimas, desde que a profundidade seja superior à isóbata de 50 metros.\n\n7. Em derrogação do n.º 3, as redes de cerco com retenida podem ser temporariamente utilizadas até 31 de Dezembro de 2007 a uma distância da costa inferior a 300 metros ou a uma profundidade inferior à isóbata de 50 metros mas não inferior à isóbata de 30 metros. As redes de cerco com retenida podem ser utilizadas temporariamente, até 31 de Dezembro de 2007, em profundidades inferiores a 70 % da altura total da própria rede de cerco com retenida, medida em conformidade com o anexo II.\n\n8. Em derrogação do n.º 2, as dragas rebocadas por embarcação e as dragas hidráulicas poderão ser usadas temporariamente até 31 de Dezembro de 2007 a uma distância da costa inferior a 0,3 milhas marítimas.\n\n9. A derrogação referida no n.º 5 aplica-se exclusivamente a actividades de pesca já autorizadas pelos Estados-Membros e a navios com um registo de pesca no pesqueiro de mais de 5 anos e não implica qualquer futuro aumento do esforço de pesca previsto.\n\nDeve ser enviada à Comissão, até 30 de Abril de 2007, uma lista dos navios de pesca autorizados e suas características, devendo conter uma comparação com as características dessa frota em 1 de Janeiro de 2000.\n\nAlém disso, essas actividades de pesca devem:\n\na) Cumprir os requisitos do artigo 4.º, da alínea h) do n.º 1 do artigo 8.º, do ponto 2) do n.º 3 do artigo 9.º e do artigo 23.º;\n\nb) Não interferir com as actividades dos navios que utilizam artes de pesca que não sejam redes de arrasto, redes de cerco ou redes rebocadas similares;\n\nc) Ser regulamentadas por forma a garantir que sejam mínimas as capturas das espécies referidas no anexo III, com excepção dos moluscos bivalves;\n\nd) Não ter por alvo cefalópodes.\n\nOs Estados-Membros interessados devem estabelecer um plano de fiscalização e apresentar relatórios à Comissão de três em três anos a partir da entrada em vigor do presente regulamento. O primeiro relatório deve ser enviado à Comissão até 31 de Julho de 2009. Em função desses relatórios, a Comissão pode adoptar medidas em conformidade com o artigo 18.º ou com o n.º 9 do artigo 19.º\n\n10. São permitidas derrogações dos n.^os^ 1 e 2 para as pescas que beneficiem de uma derrogação ao abrigo do n.º 5 do artigo 4.º do presente regulamento e nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002.\n\n11. Em derrogação do n.º 2, é autorizada a utilização de redes de arrasto a entre 0,7 e 1,5 milhas marítimas da costa nas seguintes condições:\n\n— profundidade do mar não inferior à isóbata de 50 metros;\n\n— condicionantes geográficas específicas, [**►C2**](http://publications.europa.eu/resource/celex/32006R1967R%2804%29) como a extensão limitada da plataforma continental ao longo de todo o litoral**◄** de um Estado-Membro ou a extensão limitada dos pesqueiros de arrasto;\n\n— impacto não significativo no meio marinho;\n\n— observância das alíneas a) e b) do terceiro parágrafo do n.º 9;\n\n— não implicar qualquer aumento do esforço de pesca relativamente ao que já foi autorizado pelos Estados-Membros.\n\nOs Estados-Membros notificam a Comissão, até 30 de Setembro de 2007, das modalidades de aplicação desta derrogação. Essa notificação deve incluir uma lista dos navios de pesca autorizados e das zonas autorizadas, identificadas por coordenadas geográficas tanto em terra como no mar.\n\nOs Estados-Membros em causa devem controlar as actividades de pesca nas zonas em questão e assegurar uma avaliação científica. Os resultados da avaliação científica devem ser comunicados à Comissão de três em três anos a partir da entrada em vigor do presente regulamento. O primeiro relatório deve ser enviado à Comissão até 31 de Julho de 2009.\n\nSe, com base nas notificações apresentadas pelos Estados-Membros nos termos dos segundo e terceiro parágrafos ou em novos pareceres científicos, considerar que não se encontram reunidas as condições para uma derrogação, a Comissão pode, após consulta do Estado-Membro em causa, pedir-lhe que altere essa derrogação, ou propor ao Conselho medidas adequadas para a protecção dos recursos e do ambiente."
+  },
+  "329b16e5b3e6db1b": {
+   "fragment_id": "Artigo 14.º-A — Procedimento para a adoção de medidas técnicas no contexto dos planos de devolução",
+   "type": "artigo",
+   "heading": "Artigo 14.º-A — Procedimento para a adoção de medidas técnicas no contexto dos planos de devolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º-A — Procedimento para a adoção de medidas técnicas no contexto dos planos de devolução\n\nA Comissão fica habilitada a adotar, para efeitos da adoção dos atos referidos no artigo 15.º, n.º 6, do Regulamento (UE) n.º 1380/2013 e durante a sua vigência, disposições específicas para as pescarias ou espécies sujeitas à obrigação de desembarque, consistentes nas medidas técnicas referidas no artigo 7.º, n.º 2, do citado regulamento. Essas medidas são estabelecidas por atos delegados adotados nos termos do artigo 29.º-A do presente regulamento e do artigo 18.º do Regulamento (UE) n.º 1380/2013, a fim de aumentar a seletividade das artes de pesca ou de reduzir ou, tanto quanto possível, de eliminar as capturas indesejadas, podendo esses atos derrogar, se for caso disso, às medidas estabelecidas no presente regulamento."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "b885df7713591130": {
+   "fragment_id": "TAMANHOS MÍNIMOS DOS ORGANISMOS MARINHOS",
+   "type": "divisao",
+   "heading": "TAMANHOS MÍNIMOS DOS ORGANISMOS MARINHOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TAMANHOS MÍNIMOS DOS ORGANISMOS MARINHOS"
+  },
+  "e28790cbd0bc5abe": {
+   "fragment_id": "Artigo 15.º-A — Procedimento para estabelecer os tamanhos mínimos de referência de conservação no contexto dos planos de devolução",
+   "type": "artigo",
+   "heading": "Artigo 15.º-A — Procedimento para estabelecer os tamanhos mínimos de referência de conservação no contexto dos planos de devolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-A — Procedimento para estabelecer os tamanhos mínimos de referência de conservação no contexto dos planos de devolução\n\nA Comissão fica habilitada a estabelecer, para efeitos da adoção dos atos referidos no artigo 15.º, n.º 6, do Regulamento (UE) n.º 1380/2013 e durante a sua vigência, os tamanhos mínimos de referência de conservação para as espécies sujeitas à obrigação de desembarque estabelecida no artigo 15.º do referido regulamento. Estes tamanhos são estabelecidos por atos delegados adotados nos termos do artigo 29.º-A do presente regulamento e do artigo 18.º do Regulamento (UE) n.º 1380/2013, a fim de garantir a proteção dos juvenis de organismos marinhos, podendo esses atos derrogar, se for caso disso, aos tamanhos mínimos de referência de conservação indicados no anexo III do presente regulamento."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "1619c7a8afb1524e": {
+   "fragment_id": "PESCA NÃO COMERCIAL",
+   "type": "divisao",
+   "heading": "PESCA NÃO COMERCIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PESCA NÃO COMERCIAL"
+  },
+  "b8f32dc93910e7c4": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nPesca de lazer\n\n1. É proibida a utilização de redes rebocadas, redes de cerco, redes de cerco com retenida, dragas rebocadas por embarcação, dragas mecanizadas, redes de emalhar, tresmalhos e redes de fundo mistas na pesca de lazer. É igualmente proibida, na pesca de lazer, a utilização de palangres para captura de espécies altamente migradoras.\n\n2. Os Estados-Membros velam por que a pesca de lazer seja exercida de forma compatível com os objectivos e as regras do presente regulamento.\n\n3. Os Estados-Membros velam por que as capturas de organismos marinhos resultantes da pesca de lazer não sejam comercializadas. Não obstante, a título excepcional, poderá autorizar-se a comercialização de espécies capturadas durante competições desportivas, desde que os lucros da sua venda sejam utilizados para fins caritativos.\n\n4. Os Estados-Membros adoptam medidas a fim de assegurar que os dados sobre as capturas resultantes da pesca de lazer sejam registados e recolhidos separadamente no respeitante às espécies altamente migradoras constantes do anexo I do Conselho Regulamento (CE) n.º 973/2001 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/b63832b1-01c6-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1#E0004)) que evoluem no Mediterrâneo.\n\n5. Os Estados-Membros regulamentam a pesca com espingardas submarinas, em especial para dar cumprimento às obrigações estabelecidas no n.º 4 do artigo 8.º\n\n6. Os Estados-Membros informam a Comissão de quaisquer medidas adoptadas em conformidade com o presente artigo."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "853dce3a18f61e81": {
+   "fragment_id": "PLANOS DE GESTÃO",
+   "type": "divisao",
+   "heading": "PLANOS DE GESTÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PLANOS DE GESTÃO"
+  },
+  "8de25b3c00f2d82e": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nPlanos de gestão ao nível [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄**\n\n1. O Conselho pode adoptar planos de gestão para pescarias específicas exercidas no Mediterrâneo, nomeadamente em zonas que se situam total ou parcialmente fora das águas territoriais dos Estados-Membros. Os planos podem, nomeadamente, incluir:\n\na) Medidas de gestão do esforço de pesca;\n\nb) Medidas técnicas específicas, incluindo, se for caso disso, derrogações temporárias às disposições do presente regulamento, sempre que essas derrogações sejam necessárias para o exercício da pesca e desde que a exploração sustentável dos recursos em causa seja assegurada através do plano de gestão;\n\nc) A extensão da utilização obrigatória de sistemas de localização dos navios ou de sistemas similares para os navios de comprimento fora a fora compreendido entre 10 e 15 m;\n\nd) Restrições temporárias ou permanentes relativas a zonas reservadas a determinadas artes de pesca ou a navios que tenham assumido obrigações no âmbito do plano de gestão.\n\nOs planos de gestão devem prever a emissão de autorizações de pesca especiais em conformidade com o Regulamento (CE) n.º 1627/94 ([^3^](http://publications.europa.eu/resource/cellar/b63832b1-01c6-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1#E0005)).\n\nEm derrogação do disposto no n.º 2 do artigo 1.º do Regulamento (CE) n.º 1627/94, pode ser exigida uma autorização de pesca especial aos navios de comprimento de fora a fora inferior a 10 metros.\n\n2. Os Estados-Membros e/ou o Conselho Consultivo Regional para o Mar Mediterrâneo podem apresentar sugestões à Comissão sobre questões relacionadas com o estabelecimento de planos de gestão. A Comissão dá a sua resposta no prazo de três meses a contar da recepção das sugestões.\n\n3. Os Estados-Membros asseguram um acompanhamento científico adequado dos planos de gestão. As medidas de gestão, designadamente as relativas às pescarias que exploram espécies com um curto período de vida, são revistas todos os anos, a fim de atender às possíveis alterações de intensidade do recrutamento."
+  },
+  "83fd62e30529aff1": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nPlanos de gestão para determinadas pescarias exercidas nas águas territoriais\n\n1. Os Estados-Membros aprovam, até 31 de Dezembro de 2007, planos de gestão para as pescarias nas suas águas territoriais com redes de arrasto, redes envolventes-arrastantes de alar para bordo, redes envolventes-arrastantes de alar para a praia, redes de cerco e dragas. Os n.^os^ 2 e 3 e o primeiro parágrafo do n.º 4 do artigo 6.º do Regulamento (CE) n.º 2371/2002 são aplicáveis a esses planos de gestão.\n\n2. Os Estados-Membros podem posteriormente designar outros planos de gestão, com base em novos dados científicos pertinentes.\n\n3. Os Estados-Membros asseguram um acompanhamento científico adequado dos planos de gestão. Os planos de gestão, designadamente os relativos às pescarias que exploram espécies com um curto período de vida, são revistos todos os anos, a fim de atender às possíveis alterações de intensidade do recrutamento.\n\n4. Os planos de gestão podem incluir medidas mais restritivas do que as previstas no presente regulamento, com vista a:\n\na) Aumentar a selectividade das artes de pesca;\n\nb) Reduzir as devoluções;\n\nc) Limitar o esforço de pesca.\n\n5. As medidas a incluir nos planos de gestão devem ser proporcionais aos objectivos e ao calendário previsto e dizer respeito:\n\na) Ao estado de conservação da população ou das populações;\n\nb) Às características biológicas da população ou das populações;\n\nc) Às características das pescarias em que são capturadas as populações;\n\nd) Ao impacto económico das medidas nas pescarias em causa.\n\n6. Os planos de gestão devem prever a emissão de autorizações de pesca especiais em conformidade com o Regulamento (CE) n.º 1627/94.\n\nNão obstante o disposto no n.º 2 do artigo 1.º do Regulamento (CE) n.º 1627/94, pode ser exigida uma autorização de pesca especial aos navios de comprimento de fora a fora inferior a 10 metros.\n\n7. Os planos de gestão referidos no n.º 1 são notificados à Comissão até 30 de Setembro de 2007, por forma a permitir-lhe apresentar as suas observações antes da sua adopção. Os planos de gestão referidos no n.º 2 são notificados à Comissão seis meses antes da data prevista de entrada em vigor. A Comissão comunica os planos aos outros Estados-Membros.\n\n8. Sempre que possam afectar os navios de outro Estado-Membro, os planos de gestão só são aprovados após consulta da Comissão, do Estado-Membro e do Conselho Consultivo Regional em causa, nos termos dos n.^os^ 3 a 6 do artigo 8.º do Regulamento (CE) n.º 2371/2002.\n\n9. Se, com base na notificação referida no n.º 7 ou em novos pareceres científicos, considerar que um plano de gestão aprovado nos termos do n.º 1 ou do n.º 2 não é suficiente para assegurar um elevado nível de protecção dos recursos e do ambiente, a Comissão pode, após consulta do Estado-Membro, pedir-lhe que altere o plano ou propor ao Conselho medidas adequadas para a protecção dos recursos e do ambiente."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "d8b24293e4d70925": {
+   "fragment_id": "MEDIDAS DE CONTROLO",
+   "type": "divisao",
+   "heading": "MEDIDAS DE CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS DE CONTROLO"
+  },
+  "80cecbe843399768": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nCaptura de espécies-alvo\n\n1. As percentagens referidas nos n.^os^ 4 e 6 do artigo 9.º, no n.º 1 do artigo 10.º e no n.º 1 do artigo 13.º devem ser calculadas em termos da proporção em peso vivo de todos os organismos aquáticos vivos a bordo, após separação ou aquando do desembarque. As percentagens podem ser calculadas com base numa ou mais amostras representativas.\n\n2. No caso dos navios de pesca de que tenham sido transbordadas determinadas quantidades de organismos aquáticos vivos, as quantidades transbordadas são tidas em conta no cálculo das percentagens referidas no n.º 1."
+  },
+  "553f3cf86d162aa6": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nTransbordo\n\nSó são autorizados a transbordar organismos aquáticos vivos para outros navios ou a receber transbordos de tais organismos de outros navios, os capitães de navios de pesca que preenchem um diário de bordo em conformidade com o artigo 6.º do Regulamento (CEE) n.º 2847/93."
+  },
+  "a843fde72c32a265": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nPortos designados\n\n1. As capturas efectuadas por arrastões de fundo, arrastões pelágicos, redes de cerco com retenida, palangreiros de superfície, dragas rebocadas por embarcação e dragas hidráulicas só serão desembarcadas e comercializadas pela primeira vez num dos portos designados pelos Estados-Membros.\n\n2. Os Estados-Membros notificam a Comissão da lista dos portos designados até 30 de Abril de 2007. A Comissão transmite a lista aos outros Estados-Membros."
+  },
+  "11cd1f4e279fb55d": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nControlo das capturas\n\nNo n.º 2 do artigo 6.º do Regulamento (CEE) n.º 2847/93, o segundo período passa a ter a seguinte redacção:\n\n«Para as operações de pesca no mar Mediterrâneo, devem ser registadas no diário de bordo todas as quantidades superiores a 15 kg de equivalente peso vivo de qualquer espécie mantida a bordo, indicada numa lista aprovada em conformidade com o n.º 8.\n\nContudo, no caso das espécies altamente migradoras e das pequenas espécies pelágicas, devem ser registadas no diário de bordo todas as quantidades superiores a 50 kg de equivalente peso vivo.»."
+  },
+  "066a8a7b3c446d0b": {
+   "fragment_id": "CAPÍTULO IX",
+   "type": "divisao",
+   "heading": "CAPÍTULO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IX"
+  },
+  "d830ed5e3d247439": {
+   "fragment_id": "MEDIDAS RELATIVAS ÀS ESPÉCIES ALTAMENTE MIGRADORAS",
+   "type": "divisao",
+   "heading": "MEDIDAS RELATIVAS ÀS ESPÉCIES ALTAMENTE MIGRADORAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS RELATIVAS ÀS ESPÉCIES ALTAMENTE MIGRADORAS"
+  },
+  "63e36e9fa428ed4b": {
+   "fragment_id": "CAPÍTULO X",
+   "type": "divisao",
+   "heading": "CAPÍTULO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO X"
+  },
+  "9bd76cf09657744c": {
+   "fragment_id": "MEDIDAS RELATIVAS ÀS ÁGUAS EM TORNO DE MALTA",
+   "type": "divisao",
+   "heading": "MEDIDAS RELATIVAS ÀS ÁGUAS EM TORNO DE MALTA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS RELATIVAS ÀS ÁGUAS EM TORNO DE MALTA"
+  },
+  "6ceac68209090fd3": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nZona de gestão de 25 milhas marítimas em torno de Malta\n\n1. O acesso dos navios [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** às águas e aos recursos na zona das 25 milhas marítimas medidas a partir das linhas de base em torno das ilhas maltesas (a seguir designada «zona de gestão») é sujeito às seguintes regras:\n\na) A pesca na zona de gestão é limitada aos navios de pesca de comprimento fora a fora inferior a 12 metros que não utilizam artes rebocadas;\n\nb) O esforço de pesca total desses navios, expresso em termos de capacidade de pesca global, não pode ser superior ao nível médio observado em 2000-2001, isto é, ao equivalente a 1 950 navios com, no total, uma potência do motor de 83 000 kW e uma arqueação de 4 035 GT, respectivamente.\n\n2. Em derrogação da alínea a) do n.º 1, os arrastões com um comprimento fora a fora não superior a 24 metros são autorizados a pescar em determinadas zonas da zona de gestão, descritas na alínea a) do anexo V, nas seguintes condições:\n\na) A capacidade de pesca global dos arrastões autorizados a operar na zona de gestão não pode ser superior ao limite de 4 800 kW;\n\nb) A capacidade de pesca de qualquer arrastão autorizado a operar a uma profundidade inferior a 200 metros não pode ser superior a 185 kW; a isóbata de 200 metros de profundidade é identificada por uma linha quebrada, cujos pontos de referência constam da alínea b) do anexo V;\n\nc) Os arrastões que pescam na zona de gestão devem possuir uma autorização de pesca especial, em conformidade com o artigo 7.º do Regulamento (CE) n.º 1627/94, e devem ser incluídos numa lista com indicação da sua marcação externa e do seu número comunitário de inscrição no registo de frota (FCF), definidos no anexo I do Regulamento (CE) n.º 26/2004, a comunicar todos os anos à Comissão pelos Estados-Membros em causa;\n\nd) Os limites de capacidade estabelecidos nas alíneas a) e b) são reexaminados periodicamente à luz dos pareceres dos organismos científicos competentes sobre os seus efeitos na conservação das populações de peixes.\n\n3. Sempre que a capacidade global de pesca referida na alínea a) do n.º 2 for superior à capacidade de pesca global dos arrastões com um comprimento de fora a fora igual ou inferior a 24 metros que operaram na zona de gestão no período de referência de 2000-2001 (a seguir designada «capacidade de pesca de referência»), a Comissão, nos termos do artigo 29.º, reparte esse excedente de capacidade de pesca disponível pelos Estados-Membros, atendendo ao interesse dos Estados-Membros que solicitarem uma autorização.\n\nA capacidade de pesca de referência corresponde a 3 600 kW.\n\n4. As autorizações de pesca especiais para o excedente de capacidade de pesca disponível referido no n.º 3 só são emitidas para navios constantes do ficheiro comunitário dos navios de pesca na data de aplicação do presente artigo.\n\n5. Sempre que a capacidade de pesca global dos arrastões autorizados a operar na zona de gestão em conformidade com a alínea c) do n.º 2 ultrapassar o limite fixado na alínea a) do n.º 2, na sequência da redução desse limite após a revisão prevista na alínea d) do n.º 2, a Comissão reparte a capacidade de pesca pelos Estados-Membros com base nos seguintes princípios:\n\na) Em primeiro lugar, é dada prioridade à capacidade de pesca em kW correspondente aos navios que pescaram na área no período de 2000-2001;\n\nb) Em segundo lugar, é dada prioridade à capacidade de pesca em kW correspondente aos navios que pescaram na área durante qualquer outro período;\n\nc) Qualquer capacidade restante a atribuir a outros navios é repartida pelos Estados-Membros, atendendo aos interesses dos Estados-Membros que solicitarem uma autorização.\n\n6. Em derrogação da alínea a) do n.º 1, os navios que pescam com redes de cerco com retenida ou palangres e os navios que pescam doirados em conformidade com o artigo 27.º são autorizados a operar na zona de gestão. Esses navios beneficiam de uma autorização de pesca especial, em conformidade com o artigo 7.º do Regulamento (CE) n.º 1627/94, e são incluídos numa lista com indicação da sua marcação externa e do seu número comunitário de inscrição no registo de frota (FCF), definidos no anexo I do Regulamento (CE) n.º 26/2004, a comunicar à Comissão por cada Estado-Membro. Em qualquer dos casos, o esforço de pesca deve ser controlado para salvaguardar a sustentabilidade destas pescarias na zona.\n\n7. O capitão de qualquer arrastão autorizado a pescar na zona de gestão em conformidade com o n.º 2 que não esteja equipado com VMS deve comunicar cada entrada e saída da zona de gestão às suas autoridades e às autoridades do Estado costeiro."
+  },
+  "29c432991775efe2": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nPesca de doirados\n\n2. O número de navios que participam na pesca de doirados na zona de gestão é limitado a 130.\n\n3. As autoridades maltesas definem as rotas a percorrer pelos navios que pescam com dispositivos de concentração de peixes e atribuem as rotas assim determinadas aos navios de pesca [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** até 30 de Junho de cada ano. Os navios de pesca [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** que arvoram um pavilhão diferente do de Malta não são autorizados a operar no âmbito de uma rota para a pesca com dispositivos de concentração de peixes na zona das 12 milhas marítimas.\n\nA Comissão estabelece, nos termos do artigo 29.º, os critérios a aplicar para a definição e atribuição das rotas a percorrer pelos navios que pescam com dispositivos de concentração de peixes."
+  },
+  "e04eea2e2268a242": {
+   "fragment_id": "CAPÍTULO XI",
+   "type": "divisao",
+   "heading": "CAPÍTULO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO XI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "685c42c707ad4585": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nProcesso de tomada de decisão\n\nSalvo disposição em contrário do presente regulamento, o Conselho age nos termos do artigo 37.º do Tratado."
+  },
+  "9569fdcee7520d9f": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nRegras de execução\n\nAs regras de execução dos artigos 26.º e 27.º do presente regulamento são aprovadas nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "a7b2fb9a9168af1d": {
+   "fragment_id": "Artigo 29.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 29.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar os atos delegados referidos nos artigos 14.º-A e 15.º-A é conferido à Comissão por um prazo de cinco anos a contar de 1 de junho de 2015.\n\n3. A delegação de poderes referida nos artigos 14.º-A e 15.º-A pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos dos artigos 14.º-A e 15.º-A só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "c8603b064ba0e042": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nAlterações\n\nAs alterações dos anexos são aprovadas nos termos do n.º 3 do artigo 30.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "4a9ad3a16440082c": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nRevogação\n\nÉ revogado o Regulamento (CE) n.º 1626/94.\n\nAs remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento e devem ler-se de acordo com o quadro de correspondência constante do anexo VI."
+  },
+  "d25ba6754593610b": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nEntrada em vigor\n\nO presente regulamento entra em vigor no trigésime dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "09a71770d602e199": {
+   "fragment_id": "Condições técnicas em matéria de dispositivos nas redes de arrasto e armamento destas redes",
+   "type": "divisao",
+   "heading": "Condições técnicas em matéria de dispositivos nas redes de arrasto e armamento destas redes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições técnicas em matéria de dispositivos nas redes de arrasto e armamento destas redes"
+  },
+  "b1dc3c983a092467": {
+   "fragment_id": "Definições",
+   "type": "divisao",
+   "heading": "Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definições\n\nPara efeitos do presente anexo, entende-se por:\n\na) «Rede de fio múltiplo»: rede confeccionada com dois ou mais fios, quando estes possam ser separados entre os nós sem que a estrutura constituída pelos fios fique por tal facto alterada;\n\nb) «Rede sem nós»: a rede composta por malhas quadriculares de lados aproximadamente iguais e em que os cantos das malhas são constituídos pelo entrelaçado dos fios de dois lados contíguos da malha;\n\nc) «Rede de malha quadrada»: confecção de rede montada de forma a que, das duas séries de linhas paralelas formadas pelos lados das malhas, uma seja paralela e a outra perpendicular ao eixo longitudinal da rede;\n\nd) «Corpo da rede de arrasto»: secção cónica na parte anterior da rede de arrasto;\n\ne) «Boca»: secção cilíndrica, constituída por um ou mais panos, entre o corpo da rede de arrasto e a cuada;\n\nf) «Cuada»: parte terminal das redes de arrasto, confeccionada com pano da mesma malhagem, de forma cilíndrica ou cónica, cujas secções transversais são quase círculos com o mesmo raio, ou com raio decrescente, respectivamente;\n\ng) «Cuada em balão»: cuada constituída por um ou mais panos adjacentes da mesma malhagem, cujo número de malhas aumenta para a parte terminal da arte, causando a extensão do comprimento transversal em relação ao eixo longitudinal da rede e da circunferência da cuada;\n\nh) «Cuada de tipo bolsa»: qualquer cuada cuja altura vertical diminui em direcção à parte terminal e cujas secções transversais são quase elipses com o mesmo eixo maior ou com eixo maior decrescente. A parte terminal da cuada é constituída quer por um pano único dobrado, quer pelos panos terminais superiores e inferiores ligados transversalmente, em relação ao eixo longitudinal da rede;\n\ni) «Cabo de porfio transversal»: qualquer cabo externo ou interno transversal em relação ao eixo longitudinal da rede, situado na parte terminal da cuada, quer ao longo da junção entre dois panos superiores e dois panos inferiores, quer ao longo da dobra do pano terminal único. Pode tratar-se quer do prolongamento do cabo de porfio lateral, quer de um porfio separado;\n\nj) «Circunferência-perímetro» de qualquer secção da rede de malha em losango de uma rede de arrasto, o número de malhas dessa secção multiplicado pelo comprimento da malha esticada;\n\nk) «Circunferência-perímetro» de qualquer secção da rede de malha quadrada de uma rede de arrasto, o número de malhas dessa secção multiplicado pelo comprimento do lado da malha."
+  },
+  "9789163a0af7603b": {
+   "fragment_id": "A) Dispositivos autorizados nas redes de arrasto",
+   "type": "divisao",
+   "heading": "A) Dispositivos autorizados nas redes de arrasto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A) Dispositivos autorizados nas redes de arrasto\n\n1. Não obstante o disposto no artigo 8.º do Regulamento (CEE) n.º 3440/84, pode ser utilizado um dispositivo mecânico transversal, em relação ao eixo longitudinal da rede, ou longitudinal do tipo fecho de correr para fechar a abertura pela qual é esvaziada a cuada de tipo bolsa.\n\n2. O fecho de correr transversal é fixado a uma distância não superior a 1 metro das últimas malhas da cuada."
+  },
+  "bfc8c8466b54eacf": {
+   "fragment_id": "B) Requisitos em matéria de armamento",
+   "type": "divisao",
+   "heading": "B) Requisitos em matéria de armamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B) Requisitos em matéria de armamento\n\n1. As cuadas em balão são proibidas nas redes de arrasto. Numa dada cuada individual, o número de malhas das mesmas dimensões em qualquer circunferência da cuada não pode aumentar entre a extremidade anterior e a extremidade posterior.\n\n2. A circunferência da parte terminal do corpo da rede de arrasto (a secção cónica) ou da boca (a secção cilíndrica) não deve ser menor do que a circunferência da parte anterior da cuada. No caso de uma cuada de malha quadrada, em especial, a circunferência da parte terminal do corpo da rede de arrasto ou da boca da rede deve ser 2 a 4 vezes a circunferência da extremidade anterior da cuada.\n\n3. Podem ser inseridos panos de malha quadrada em qualquer rede rebocada, que são colocados à frente da boca da rede ou em qualquer ponto situado entre a frente da boca da rede e a parte posterior da cuada. Estes panos não podem ser, de forma alguma, obstruídos por elementos internos ou externos. Devem ser formados por rede sem nós ou por rede feita com nós não deslizantes e devem ser inseridos de modo a que as malhas se mantenham completa e permanentemente abertas durante a pesca. As regras de execução em matéria de especificações técnicas suplementares relativas aos panos de malha quadrada são adoptadas nos termos do artigo 29.º do presente regulamento.\n\n4. Da mesma forma, podem ser autorizados, nos termos do artigo 29.º do presente regulamento, dispositivos técnicos destinados a melhorar a selectividade das redes de arrasto diferentes dos referidos na alínea b) do ponto 3.\n\n5. É proibido manter a bordo ou utilizar qualquer rede rebocada cuja cuada seja confeccionada totalmente ou em parte com qualquer tipo de material de pano constituído por malhas diferentes da malha quadrada ou da malha em losango, salvo autorização nos termos do artigo 29.º do presente regulamento.\n\n6. Os pontos 4 e 5 não são aplicáveis às redes envolventes-arrastantes de alar para bordo cuja cuada tenha uma malhagem inferior a 10 mm.\n\n7. Em alteração do n.º 4 do artigo 6.º do Regulamento (CEE) n.º 3440/84, nas redes de arrasto pelo fundo, a malhagem da cuada de reforço não será inferior a 120 mm se a malhagem da cuada for inferior a 60 mm. Esta disposição só é aplicável no mar Mediterrâneo e não tem efeitos nas outras águas [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄**. Se a malhagem da cuada for igual ou superior a 60 mm, é aplicável o n.º 4 do artigo 6.º do Regulamento (CEE) n.º 3440/84.\n\n8. A cuada de tipo bolso não deve ter mais de uma abertura para o esvaziamento da cuada.\n\n9. O comprimento do cabo de porfio horizontal não deve ser inferior a 20 % da circunferência da cuada.\n\n10. A circunferência da cuada de reforço, definida no artigo 6.º do Regulamento (CE) n.º 3440/84, não deve ser inferior a 1,3 vezes a da cuada nas redes de arrasto de fundo.\n\n11. É proibido manter a bordo ou utilizar qualquer rede rebocada confeccionada, totalmente ou em parte da cuada, com materiais constituídos por fio entrançado simples de espessura superior a 3,0 milímetros.\n\n12. É proibido manter a bordo ou utilizar qualquer rede rebocada confeccionada, totalmente ou em parte da cuada, com materiais constituídos por fios múltiplos.\n\n13. São proibidos em qualquer parte das redes de arrasto pelo fundo os panos de rede com uma espessura de fio superior a 6 mm."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "186849bf9280351e": {
+   "fragment_id": "Zona de gestão das 25 milhas em torno das ilhas maltesas",
+   "type": "divisao",
+   "heading": "Zona de gestão das 25 milhas em torno das ilhas maltesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Zona de gestão das 25 milhas em torno das ilhas maltesas\n\na) Zonas de arrasto autorizadas a proximidade das ilhas maltesas: coordenadas geográficas\n\nZona A Zona H\n\nA1 — 36,0172 ºN, 14,1442 ºE H1 — 35,6739 ºN, 14,6742 ºE\n\nA2 — 36,0289 ºN, 14,1792 ºE H2 — 35,4656 ºN, 14,8459 ºE\n\nA3 — 35,9822 ºN, 14,2742 ºE H3 — 35,4272 ºN, 14,7609 ºE\n\nA4 — 35,8489 ºN, 14,3242 ºE H4 — 35,5106 ºN, 14,6325 ºE\n\nA5 — 35,8106 ºN, 14,2542 ºE H5 — 35,6406 ºN, 14,6025 ºE\n\nA6 — 35,9706 ºN, 14,2459 ºE\n\nZona B Zona I\n\nB1 — 35,7906 ºN, 14,4409 ºE I1 — 36,1489 ºN, 14,3909 ºE\n\nB2 — 35,8039 ºN, 14,4909 ºE I2 — 36,2523 ºN, 14,5092 ºE\n\nB3 — 35,7939 ºN, 14,4959 ºE I3 — 36,2373 ºN, 14,5259 ºE\n\nB4 — 35,7522 ºN, 14,4242 ºE I4 — 36,1372 ºN, 14,4225 ºE\n\nB5 — 35,7606 ºN, 14,4159 ºE\n\nB6 — 35,7706 ºN, 14,4325 ºE\n\nZona C Zona J\n\nC1 — 35,8406 ºN, 14,6192 ºE J1 — 36,2189 ºN, 13,9108 ºE\n\nC2 — 35,8556 ºN, 14,6692 ºE J2 — 36,2689 ºN, 14,0708 ºE\n\nC3 — 35,8322 ºN, 14,6542 ºE J3 — 36,2472 ºN, 14,0708 ºE\n\nC4 — 35,8022 ºN, 14,5775 ºE J4 — 36,1972 ºN, 13,9225 ºE\n\nZona D Zona K\n\nD1 — 36,0422 ºN, 14,3459 ºE K1 — 35,9739 ºN, 14,0242 ºE\n\nD2 — 36,0289 ºN, 14,4625 ºE K2 — 36,0022 ºN, 14,0408 ºE\n\nD3 — 35,9989 ºN, 14,4559 ºE K3 — 36,0656 ºN, 13,9692 ºE\n\nD4 — 36,0289 ºN, 14,3409 ºE K4 — 36,1356 ºN, 13,8575 ºE\n\nK5 — 36,0456 ºN, 13,9242 ºE\n\nZona E Zona L\n\nE1 — 35,9789 ºN, 14,7159 ºE L1 — 35,9856 ºN, 14,1075 ºE\n\nE2 — 36,0072 ºN, 14,8159 ºE L2 — 35,9956 ºN, 14,1158 ºE\n\nE3 — 35,9389 ºN, 14,7575 ºE L3 — 35,9572 ºN, 14,0325 ºE\n\nE4 — 35,8939 ºN, 14,6075 ºE L4 — 35,9622 ºN, 13,9408 ºE\n\nE5 — 35,9056 ºN, 14,5992 ºE\n\nZona F Zona M\n\nF1 — 36,1423 ºN, 14,6725 ºE M1 — 36,4856 ºN,14,3292ºE\n\nF2 — 36,1439 ºN, 14,7892 ºE M2 — 36,4639 ºN,14,4342ºE\n\nF3 — 36,0139 ºN, 14,7892 ºE M3 — 36,3606 ºN,14,4875ºE\n\nF4 — 36,0039 ºN, 14,6142 ºE M4 — 36,3423 ºN,14,4242ºE\n\nM5 — 36,4156 ºN,14,4208ºE\n\nZona G Zona N\n\nG1 — 36,0706 ºN, 14,9375 ºE N1 — 36,1155 ºN, 14,1217 ºE\n\nG2 — 35,9372 ºN, 15,0000 ºE N2 — 36,1079 ºN, 14,0779 ºE\n\nG3 — 35,7956 ºN, 14,9825 ºE N3 — 36,0717 ºN, 14,0264 ºE\n\nG4 — 35,7156 ºN, 14,8792 ºE N4 — 36,0458 ºN, 14,0376 ºE\n\nG5 — 35,8489 ºN, 14,6825 ºE N5 — 36,0516 ºN, 14,0896 ºE\n\nN6 — 36,0989 ºN, 14,1355 ºE\n\nb) Coordenadas geográficas de determinados pontos de referência ao longo da isóbata de 200 m na zona de gestão das 25 milhas marítimas\n\n| ID | Latitude | Longitude |\n| --- | --- | --- |\n| 1 | 36,3673 ºN | 14,5540 ºE |\n| 2 | 36,3159 ºN | 14,5567 ºE |\n| 3 | 36,2735 ºN | 14,5379 ºE |\n| 4 | 36,2357 ºN | 14,4785 ºE |\n| 5 | 36,1699 ºN | 14,4316 ºE |\n| 6 | 36,1307 ºN | 14,3534 ºE |\n| 7 | 36,1117 ºN | 14,2127 ºE |\n| 8 | 36,1003 ºN | 14,1658 ºE |\n| 9 | 36,0859 ºN | 14,152 ºE |\n| 10 | 36,0547 ºN | 14,143 ºE |\n| 11 | 35,9921 ºN | 14,1584 ºE |\n| 12 | 35,9744 ºN | 14,1815 ºE |\n| 13 | 35,9608 ºN | 14,2235 ºE |\n| 14 | 35,9296 ºN | 14,2164 ºE |\n| 15 | 35,8983 ºN | 14,2328 ºE |\n| 16 | 35,867 ºN | 14,4929 ºE |\n| 17 | 35,8358 ºN | 14,2845 ºE |\n| 18 | 35,8191 ºN | 14,2753 ºE |\n| 19 | 35,7863 ºN | 14,3534 ºE |\n| 20 | 35,7542 ºN | 14,4316 ºE |\n| 21 | 35,7355 ºN | 14,4473 ºE |\n| 22 | 35,7225 ºN | 14,5098 ºE |\n| 23 | 35,6951 ºN | 14,5365 ºE |\n| 24 | 35,6325 ºN | 14,536 ºE |\n| 25 | 35,57 ºN | 14,5221 ºE |\n| 26 | 35,5348 ºN | 14,588 ºE |\n| 27 | 35,5037 ºN | 14,6192 ºE |\n| 28 | 35,5128 ºN | 14,6349 ºE |\n| 29 | 35,57 ºN | 14,6717 ºE |\n| 30 | 35,5975 ºN | 14,647 ºE |\n| 31 | 35,5903 ºN | 14,6036 ºE |\n| 32 | 35,6034 ºN | 14,574 ºE |\n| 33 | 35,6532 ºN | 14,5535 ºE |\n| 34 | 35,6726 ºN | 14,5723 ºE |\n| 35 | 35,6668 ºN | 14,5937 ºE |\n| 36 | 35,6618 ºN | 14,6424 ºE |\n| 37 | 35,653 ºN | 14,6661 ºE |\n| 38 | 35,57 ºN | 14,6853 ºE |\n| 39 | 35,5294 ºN | 14,713 ºE |\n| 40 | 35,5071 ºN | 14,7443 ºE |\n| 41 | 35,4878 ºN | 14,7834 ºE |\n| 42 | 35,4929 ºN | 14,8247 ºE |\n| 43 | 35,4762 ºN | 14,8246 ºE |\n| 44 | 36,2077 ºN | 13,947 ºE |\n| 45 | 36,1954 ºN | 13,96 ºE |\n| 46 | 36,1773 ºN | 13,947 ºE |\n| 47 | 36,1848 ºN | 13,9313 ºE |\n| 48 | 36,1954 ºN | 13,925 ºE |\n| 49 | 35,4592 ºN | 14,1815 ºE |\n| 50 | 35,4762 ºN | 14,1895 ºE |\n| 51 | 35,4755 ºN | 14,2127 ºE |\n| 52 | 35,4605 ºN | 14,2199 ºE |\n| 53 | 35,4453 ºN | 14,1971 ºE |"
+  },
+  "8b1b20394485a976": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\nRegulamento (CE) n.º 1626/94 Presente regulamento\n\nN.º 1 do artigo 1.º N.º 1 do artigo 1.º\n\nPrimeiro parágrafo do n.º 2 do artigo 1.º Artigo 7.º, artigo 17.º e artigo 19.º\n\nSegundo parágrafo do n.º 2 do artigo 1.º Artigo 3.º\n\nN.^os^ 1 e 2 do artigo 2.º Artigo 8.º\n\nN.º 3 do artigo 2.º N.º 5 do artigo 13.º, artigo 17.º e artigo 19.º\n\nPrimeiro parágrafo do n.º 1 do artigo 3.º Primeiro parágrafo do n.º 1 e n.º 5 do artigo 13.º\n\nSegundo parágrafo do n.º 1 do artigo 3.º N.º 5 do artigo 13.º, n.^os^ 2 e 3 do artigo 14.º e artigo 19.º\n\nTerceiro parágrafo do n.º 1 do artigo 3.º Artigo 4.º, n.^os^ 9 e 10 do artigo 13.º e artigo 19.º\n\nN.º 2 do artigo 3.º Segundo parágrafo do n.º 1 e n.º 8 do artigo 13.º e artigo 19.º\n\nN.º 3 do artigo 3.º Artigo 4.º, n.º 10 do artigo 13.º e artigo 19.º\n\nN.º 4 do artigo 3.º N.^os^ 3 e 7 do artigo 13.º\n\nArtigo 4.º Artigo 7.º\n\nArtigo 5.º Artigo 12.º e anexo II\n\nPrimeiro parágrafo do n.º 1 e n.º 2 do artigo 6.º N.^os^ 1 e 2 do artigo 9.º\n\nSegundo parágrafo do n.º 1 do artigo 6.º N.º 7 do artigo 9.º e n.^os^ 1 e 2 do artigo 14.º\n\nN.º 3 do artigo 6.º Anexo II Definições\n\nArtigo 7.º Artigo 22.º\n\nN.^os^ 1 e 3 do artigo 8.º Artigo 15.º, anexo III e anexo IV\n\nArtigo 8.ºA Artigo 26.º\n\nArtigo 8.ºB Artigo 27.º\n\nArtigo 9.º N.º 2 do artigo 1.º\n\nArtigo 10.ºC Artigo 29.º\n\nArtigo 11.º Artigo 32.º\n\nAnexo I Artigo 3.º e artigo 4.º\n\nAnexo II Artigo 11.º, anexo I e anexo II\n\nAnexo III N.^os^ 3, 4 e 5 do artigo 9.º\n\nAnexo IV Anexo III\n\nAnexo V, alínea b) Anexo V\n\n---"
+  },
+  "9a9e9cea60b6e6d9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b63832b1-01c6-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Regulamento (UE) n.º 1380/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, relativo à política comum das pescas, que altera os Regulamentos (CE) n.º 1954/2003 e (CE) n.º 1224/2009 do Conselho e revoga os Regulamentos (CE) n.º 2371/2002 e (CE) n.º 639/2004 do Conselho e a Decisão 2004/585/CE do Conselho (JO L 354 de 28.12.2013, p. 22).\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b63832b1-01c6-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1#src.E0004)) JO L 137 de 19.5.2001, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 831/2004 (JO L 127 de 29.4.2004, p. 33).\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b63832b1-01c6-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1#src.E0005)) JO L 171 de 6.7.1994, p. 7."
+  },
+  "c75356592a424c3f": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1.\n\nO presente regulamento é aplicável:\n\na) À conservação, gestão e exploração dos recursos aquáticos vivos, sempre que essas actividades sejam exercidas:\n\ni) Nas águas marítimas do mar Mediterrâneo sob a soberania ou jurisdição dos Estados-Membros, situadas a leste da linha 5º36' W (a seguir designadas por «mar Mediterrâneo»);\n\nii) Por navios de pesca [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** no mar Mediterrâneo fora das águas referidas na subalínea i);\n\niii) Por nacionais dos Estados-Membros, sem prejuízo da responsabilidade primeira do Estado de pavilhão, no mar Mediterrâneo, fora das águas referidas na subalínea i); e\n\nb) À comercialização dos produtos da pesca capturados no mar Mediterrâneo.\n\n2. O presente regulamento não é aplicável às operações de pesca realizadas exclusivamente para efeitos de investigação científica com a autorização e sob a autoridade do Estado-Membro ou dos Estados-Membros em causa."
+  },
+  "6f27d0fe5f4b71c5": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Artes rebocadas»: qualquer arte de pesca, com exclusão das linhas de corrico, rebocada graças à potência do motor do navio de pesca ou alada por guinchos enquanto o navio de pesca se encontra ancorado ou a deslocar-se lentamente, incluindo nomeadamente redes rebocadas e dragas;\n\na) «Redes rebocadas»: as redes de arrasto, as redes envolventes-arrastantes de alar para bordo e as redes envolventes-arrastantes de alar para a praia;\n\ni) «Redes de arrasto»: as redes rebocadas de forma activa pelo motor principal do navio, constituídas por um corpo cónico ou piramidal (corpo da rede arrasto), fechado na parte terminal por um saco, que pode ser prolongado na abertura por asas ou montado numa estrutura rígida. A abertura horizontal é obtida através de portas de arrasto ou de uma vara ou estrutura com forma e dimensões variadas. Estas redes podem ser rebocadas quer pelo fundo (redes de arrasto pelo fundo), quer entre duas águas (redes de arrasto pelágico);\n\nii) «Redes envolventes-arrastantes de alar para bordo»: redes de cerco e redes envolventes-arrastantes rebocadas, manobradas e aladas por cabos e guinchos a partir de uma embarcação em movimento ou ancorada, e não rebocadas pelo motor principal do navio, constituídas por duas asas laterais e uma bolsa central na forma de uma colher ou terminada por um saco, que podem operar em qualquer nível entre a superfície e o fundo, consoante a espécie-alvo;\n\niii) «Redes envolventes-arrastantes de alar para a praia»: redes de cerco e redes envolventes-arrastantes rebocadas, caladas a partir de uma embarcação e manobradas a partir de terra;\n\nb) «Dragas»: artes quer rebocadas de forma activa pelo motor principal do navio (dragas rebocadas por embarcação), quer aladas por um guincho motorizado a partir de uma embarcação ancorada (dragas mecanizadas) para capturar bivalves, gastrópodes ou esponjas e constituídas por um saco de rede ou um copo de metal montado numa estrutura ou haste rígida com dimensões e formas variadas, que pode ser dotada, na parte inferior, de uma lâmina arredondada, cortante ou com dentes, equipadas ou não com patins e depressores. Algumas dragas são movidas por equipamento hidráulico (dragas hidráulicas). Para efeitos do presente regulamento, não são consideradas artes rebocadas as dragas arrastadas à mão ou por guincho manual para capturar bivalves, gastrópodes ou esponjas com ou sem barco, em águas pouco profundas (dragas de mão).\n\n2. «Zona de pesca protegida»: uma zona marinha delimitada geograficamente em que são proibidas ou limitadas todas ou determinadas actividades de pesca, a título temporário ou permanente, a fim de melhorar a exploração e a conservação dos recursos aquáticos vivos ou a protecção dos ecossistemas marinhos.\n\n3. «Rede de fundo»: um tresmalho, uma rede de emalhar de fundo ou uma rede de fundo mista;\n\na) «Tresmalho»: qualquer rede constituída por um conjunto de dois ou mais panos de rede suspensos paralelamente num único cabo da pana, fixada ou susceptível de ser fixada por qualquer meio no fundo do mar;\n\nb) «Rede de emalhar de fundo», qualquer rede constituída por um único pano de rede mantido verticalmente na água por bóias e lastros, fixada ou que possa ser fixada por qualquer meio no fundo do mar, que mantenha a arte junto ao fundo ou flutue na coluna de água;\n\nc) «Rede de fundo mista»: qualquer rede de emalhar de fundo cuja parte inferior é constituída por um tresmalho.\n\n4. «Redes de cerco»: as redes que capturam o peixe, envolvendo-o pelos lados e por baixo; podem ser ou não equipadas com uma retenida.\n\na) «Redes de cerco com retenida»: qualquer rede de cerco cuja parte inferior é fechada por uma retenida, que passa pelo meio de argolas ligadas à tralha dos chumbos e permite fechar a rede como uma bolsa. As redes de cerco com retenida podem ser utilizadas para capturar pequenas ou grandes espécies pelágicas ou espécies demersais.\n\n5. «Armadilhas»: artes de pesca fixas ao fundo ou aí colocadas que se utilizam para capturar espécies marinhas. Têm a forma de cesto, pote, barril ou gaiola e, na maioria dos casos, são compostas por uma armação rígida ou semi-rígida fabricada em materiais diversos (madeira, vime, hastes ou redes metálicas, etc.), que pode ou não estar coberta de rede. Estão equipadas com uma ou mais alturas ou bocas de extremidades lisas que permitem a entrada das espécies no habitáculo interior. Podem ser utilizadas separadamente ou em grupos. Quando usadas em grupo, da linha madre partem numerosas linhas laterais de comprimento e espaçamento variável em função da espécie-alvo, às quais estão fixadas numerosas armadilhas.\n\n6. «Palangre»: arte de pesca que contém uma linha principal (madre) da qual partem numerosas linhas laterais (estralhos), de comprimento e espaçamento variável em função das espécies-alvo, às quais estão fixados anzóis. Pode ser colocada quer na vertical, quer na horizontal, em relação à superfície do mar; pode ser fixada no fundo ou perto do fundo (palangre de fundo) ou derivar entre duas águas ou próximo da superfície (palangre de superfície).\n\n7. «Anzol»: uma haste de aço afiada e curvada, geralmente dotada de uma barbela. A ponta de um anzol pode ser direita ou estar até invertida e curvada; o comprimento e a forma da haste podem variar e a sua secção transversal pode ser redonda (regular) ou aplanada (anzol forjado). O comprimento total do anzol é o comprimento máximo total da haste medido a partir da ponta do anzol que serve para passar a linha e tem geralmente o formato de um olho até ao ápice da curvatura do anzol; A largura do anzol é a maior distância horizontal medida a partir da parte externa da haste até à parte externa da barbela.\n\n8. «Pesca de lazer»: actividades de pesca que exploram os recursos aquáticos vivos para fins recreativos ou desportivos.\n\n9. «Dispositivos de concentração de peixes»: qualquer equipamento que flutue à superfície do mar e que permita a concentração, por baixo dele, de juvenis ou de espécimes adultos de espécies altamente migradoras.\n\n10. «Cruz de Santo André»: dispositivo que actua como uma tesoura para a apanha do molusco bivalve *Pinna nobilis* ou do coral vermelho no fundo do mar.\n\n11. «Pradaria de ervas marinhas»: zona em que o fundo do mar é caracterizado pela presença dominante de fanerogâmicas ou em que esse tipo de vegetação existiu e necessita de medidas de restauração. A expressão «ervas marinhas» é um termo genérico que abrange as espécies *Posidonia oceanica*, *Cymodocea nodosa*, *Zoostera marina* e *Zoostera noltii*.\n\n12. «*Habitat* coralígeno»: zona em que o fundo do mar é caracterizado pela presença dominante de uma comunidade biológica específica designada por «coralígena» ou em que essa comunidade existiu e necessita de medidas de restauração. O termo «coralígeno» é um termo genérico para uma estrutura biogénica de grande complexidade resultante da deposição contínua, sobre um substrato preexistente rochoso ou duro, de camadas calcárias sucessivas, essencialmente derivadas da actividade de construção de algas vermelhas coralinas calcárias encrustantes e de organismos animais tais como os poríferos, as ascídias, os cnidários (corais córneos, leques do mar, etc.), os briozoários, os serpulídeos, os anelídeos, bem como de outros organismos que fixam o calcário.\n\n13. «Fundo de *mäerl*»: zona em que o fundo do mar é caracterizado pela presença dominante de uma comunidade biológica específica designada por «*mäerl*» ou em que essa comunidade existiu e necessita de medidas de restauração. O termo «*mäerl*» é um termo genérico dado a uma estrutura biogénica composta por diversas espécies de algas vermelhas coralinas (*Corallinacea*) que possuem esqueletos calcários rígidos e crescem sob a forma livre, constituindo talos ramificados arborescentes ou nódulos que formam acumulações nas ondulações dos fundos marinhos lodosos ou arenosos. Os fundos de *mäerl* são geralmente compostos por uma ou várias combinações de algas vermelhas, nomeadamente, *Lithothamnion coralloides* e *Phymatolithon calcareum*.\n\n14. «Repovoamento directo»: a actividade de libertar animais vivos selvagens de espécies seleccionadas em águas em que se encontram naturalmente, a fim de utilizar a produção natural do meio aquático para aumentar o número de indivíduos para efeitos de pesca e/ou para aumentar o recrutamento natural.\n\n15. «Transplantação»: o processo pelo qual uma espécie é intencionalmente transportada e libertada pelo homem em zonas de populações estabelecidas e em que existe um fluxo genético contínuo.\n\n16. «Espécie não indígena»: uma espécie cujo *habitat* natural historicamente conhecido se encontra fora da zona em questão.\n\n17. «Introdução»: o processo pelo qual uma espécie não indígena é mudada intencionalmente e libertada pelo homem em qualquer zona fora do seu *habitat* natural historicamente conhecido.\n\n18. «Capturas involuntárias»: capturas ocasionais de organismos marinhos que, nos termos do artigo 15.º do Regulamento (UE) n.º 1380/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/29e99612-0c5a-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0001)), têm de ser desembarcadas por os organismos marinhos capturados serem de tamanho inferior ao tamanho mínimo de referência de conservação."
+  },
+  "dd15430b0cf86207": {
+   "fragment_id": "Artigo 4.º — Habitats protegidos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Habitats protegidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Habitats protegidos\n\n1.\n\nÉ proibida a pesca com redes de arrasto, dragas, redes de cerco com retenida, redes envolventes-arrastantes de alar para bordo, redes envolventes-arrastantes de alar para a praia ou redes semelhantes nas pradarias de ervas marinhas, nomeadamente de *Posidonia oceanica* ou de outras fanerogâmicas marinhas.\n\nEm derrogação do primeiro parágrafo, pode ser autorizada a utilização de redes de cerco com retenida, redes envolventes-arrastantes de alar para bordo ou redes semelhantes, cuja altura total e funcionamento nas operações de pesca impliquem que a retenida, o cabo de chumbada ou os cabos de alagem não atinjam as pradarias de ervas marinhas, no âmbito dos planos de gestão previstos no artigo 18.º ou no artigo 19.º\n\n2. É proibida a pesca com redes de arrasto, dragas, redes envolventes-arrastantes de alar para a praia ou redes semelhantes nos *habitats* coralígenos e nos fundos de *mäerl*.\n\n4. A proibição prevista no primeiro parágrafo do n.º 1 e no n.º 2 aplica-se, a partir da data de entrada em vigor do presente regulamento, em todos os sítios Natura 2000, todas as zonas especialmente protegidas e todas as zonas especialmente protegidas de importância para o Mediterrâneo (SPAMI) designados para efeitos da conservação desses *habitats* nos termos da Directiva 92/43/CEE ou da Decisão 1999/800/CE.\n\n5.\n\nEm derrogação do primeiro parágrafo do n.º 1, a pesca por navios de comprimento fora a fora igual ou inferior a 12 metros e de potência igual ou inferior a 85 kW dotados de redes de arrasto pelo fundo tradicionalmente efectuada em fundos de *Posidonia* pode ser autorizada pela Comissão nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002, desde que as actividades de pesca em causa:\n\ni) Sejam regulamentadas no âmbito dos planos de gestão previstos no artigo 19.º do presente regulamento;\n\nii) Não afectem mais de 33 % da superfície coberta pelos fundos de ervas marinhas *Posidonia oceanica* nas zonas abrangidas pelo plano de gestão;\n\niii) Não afectem mais de 10 % da superfície coberta pelas pradarias de ervas marinhas nas águas territoriais do Estado-Membro em causa.\n\nAs actividades de pesca autorizadas nos termos do presente número devem:\n\na) Cumprir os requisitos da alínea h) do n.º 1 do artigo 8.º, do ponto 2) do n.º 3 do artigo 9.º e do artigo 23.º;\n\nb) Ser regulamentadas por forma a garantir que sejam mínimas as capturas das espécies referidas no anexo III.\n\nNo entanto, não se aplica o ponto 1) do n.º 3 do artigo 9.º\n\nSempre que um navio de pesca que opere ao abrigo do disposto no presente número seja retirado da frota por meio de fundos públicos, a autorização especial de pesca para a realização dessa actividade de pesca será retirada e não voltará a ser emitida.\n\nOs Estados-Membros interessados estabelecem um plano de fiscalização e informam a Comissão de três em três anos, a partir da entrada em vigor do presente regulamento, sobre a situação das pradarias de ervas marinhas *Posidonia oceanica* afectadas pelas actividades das redes de arrasto pelo fundo e enviarão a lista dos navios de pesca autorizados. O primeiro relatório deve ser enviado à Comissão antes de 31 de Julho de 2009.\n\n6. Os Estados-Membros e a Comissão devem tomar medidas adequadas para garantir a recolha das informações científicas pertinentes tendo em vista a identificação científica e a cartografia dos *habitats* a proteger nos termos do presente artigo."
+  },
+  "d1a5e19bd3ebb6b8": {
+   "fragment_id": "Artigo 5.º — Procedimento de informação para criação de zonas de pesca protegidas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento de informação para criação de zonas de pesca protegidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de informação para criação de zonas de pesca protegidas\n\nOs Estados-Membros comunicam à Comissão, pela primeira vez antes de 31 de Dezembro de 2007, as informações pertinentes para a criação de zonas de pesca protegidas e para as possíveis medidas de gestão a aplicar nessas zonas, tanto em águas sob a sua jurisdição como fora dessas águas, quando a protecção das zonas de maternidade, das zonas de reprodução ou do ecossistema marinho contra os efeitos prejudiciais da pesca exija medidas especiais."
+  },
+  "547e8343536cd60d": {
+   "fragment_id": "Artigo 6.º — Zonas de pesca [►M2](http://publications.europa.eu/resource/celex/32015R0812) da União◄ protegidas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Zonas de pesca [►M2](http://publications.europa.eu/resource/celex/32015R0812) da União◄ protegidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Zonas de pesca [►M2](http://publications.europa.eu/resource/celex/32015R0812) da União◄ protegidas\n\n1. Com base nas informações fornecidas nos termos do artigo 5.º, assim como noutras informações pertinentes para o mesmo efeito, o Conselho designa, no prazo de dois anos a contar da data de aprovação do presente regulamento, as zonas de pesca protegidas, situadas essencialmente para além dos mares territoriais dos Estados-Membros, relativas aos tipos de actividades de pesca proibidos ou autorizados nessas zonas.\n\n2. O Conselho pode posteriormente designar outras zonas de pesca protegidas, ou alterar a sua delimitação e regras de gestão estabelecidas, com base em novos dados científicos pertinentes.\n\n3. Os Estados-Membros e a Comissão tomam medidas adequadas para garantir a recolha de informações científicas pertinentes tendo em vista a identificação científica e a cartografia das zonas a proteger nos termos do presente artigo."
+  },
+  "e46ac9c6f51d49c5": {
+   "fragment_id": "Artigo 7.º — Zonas de pesca nacionais protegidas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Zonas de pesca nacionais protegidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Zonas de pesca nacionais protegidas\n\n1. No prazo de dois anos a contar da data de aprovação do presente regulamento e com base nas informações comunicadas em conformidade com o seu artigo 5.º, os Estados-Membros designam outras zonas de pesca protegidas, para além das zonas de pesca protegidas já estabelecidas à data da entrada em vigor do presente regulamento, situadas nas suas águas territoriais, em que poderão ser proibidas ou limitadas as actividades de pesca, a fim de garantir a conservação e gestão dos recursos aquáticos vivos ou de manter ou melhorar o estado de conservação dos ecossistemas marinhos. As autoridades competentes dos Estados-Membros em causa decidem das artes de pesca que podem ser utilizadas nessas zonas protegidas, assim como das regras técnicas adequadas, as quais não devem ser menos estritas do que as previstas pela legislação [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄**.\n\n2. Os Estados-Membros podem posteriormente, com base em novos dados científicos pertinentes, designar outras zonas de pesca protegidas ou alterar as delimitações e regras de gestão estabelecidas nos termos do n.º 1. Os Estados-Membros e a Comissão tomam medidas adequadas para garantir a recolha de informações científicas pertinentes tendo em vista a identificação científica e a cartografia das zonas a proteger nos termos do presente artigo.\n\n3. As medidas referidas nos n.^os^ 1 e 2 são notificadas à Comissão. Ao aplicarem as disposições previstas nos n.^os^ 1 e 2, os Estados-Membros informam a Comissão dos motivos científicos, técnicos e jurídicos que justificam a exigência de medidas especiais.\n\n4. Sempre que uma zona protegida situada nas águas territoriais de um Estado-Membro seja susceptível de afectar os navios de outro Estado-Membro, a sua designação só é feita após consulta da Comissão, do Estado-Membro e do Conselho Consultivo Regional em causa, nos termos dos n.^os^ 3 a 6 do artigo 8.º do Regulamento (CE) n.º 2371/2002.\n\n5. Se considerar que as medidas de gestão das pescas notificadas em conformidade com o n.º 3 não são suficientes para assegurar um elevado nível de protecção dos recursos e do ambiente, a Comissão pode, após consulta do Estado-Membro, pedir-lhe que altere a medida ou propor que o Conselho designe uma zona de pesca protegida ou aprove medidas de gestão das pescas no respeitante às águas em causa."
+  },
+  "04f3a2273442437a": {
+   "fragment_id": "Artigo 13.º — Distâncias e profundidades mínimas para a utilização de artes de pesca",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Distâncias e profundidades mínimas para a utilização de artes de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Distâncias e profundidades mínimas para a utilização de artes de pesca\n\n1.\n\nÉ proibida a utilização de artes rebocadas a menos de 3 milhas marítimas da costa ou na isóbata de 50 metros sempre que essa profundidade seja atingida a menos de 3 milhas marítimas da costa.\n\nEm derrogação do primeiro parágrafo, é autorizada a utilização de dragas até 3 milhas marítimas da costa, em qualquer profundidade, desde que as capturas que não sejam crustáceos e moluscos não excedam 10 % do peso vivo total das capturas.\n\n2. É proibida a utilização de redes de arrasto a menos de 1,5 milhas marítimas da costa. É proibido o uso de dragas rebocadas por embarcação e de dragas hidráulicas a menos de 0,3 milhas marítimas da costa.\n\n3.\n\nÉ proibida a utilização de redes de cerco com retenida a menos de 300 metros da costa ou na isóbata de 50 metros sempre que essa profundidade seja atingida a uma distância inferior da costa.\n\nAs redes de cerco com retenida não devem ser utilizadas em profundidades inferiores a 70 % da altura total da própria rede de cerco com retenida, medida em conformidade com o anexo II ao presente regulamento.\n\n4. É proibida a utilização de dragas para a pesca de esponjas na isóbata de 50 metros e a menos de 0,5 milhas marítimas da costa.\n\n5. A pedido de um Estado-Membro, a Comissão, nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002, autoriza uma derrogação do disposto nos n.^os^ 1, 2 e 3, nos casos em que essa derrogação seja justificada por condicionantes geográficas específicas, [**►C2**](http://publications.europa.eu/resource/celex/32006R1967R%2804%29) como a extensão limitada da plataforma continental ao longo de todo o litoral**◄** de um Estado-Membro ou a extensão limitada dos pesqueiros de arrasto, ou em que as pescas não tenham um impacto significativo no meio marinho e afectem um número limitado de navios, e desde que essas pescas não possam ser realizadas por outra arte de pesca e sejam objecto de um plano de gestão referido no artigo 18.º ou no artigo 19.º Para fundamentar essa derrogação, os Estados-Membros comunicam dados científicos e justificações técnicas actualizadas.\n\n6. Em derrogação do n.º 2, as redes de arrasto podem ser temporariamente utilizadas até 31 de Dezembro de 2007 a uma distância da costa inferior a 1,5 milhas marítimas, desde que a profundidade seja superior à isóbata de 50 metros.\n\n7. Em derrogação do n.º 3, as redes de cerco com retenida podem ser temporariamente utilizadas até 31 de Dezembro de 2007 a uma distância da costa inferior a 300 metros ou a uma profundidade inferior à isóbata de 50 metros mas não inferior à isóbata de 30 metros. As redes de cerco com retenida podem ser utilizadas temporariamente, até 31 de Dezembro de 2007, em profundidades inferiores a 70 % da altura total da própria rede de cerco com retenida, medida em conformidade com o anexo II.\n\n8. Em derrogação do n.º 2, as dragas rebocadas por embarcação e as dragas hidráulicas poderão ser usadas temporariamente até 31 de Dezembro de 2007 a uma distância da costa inferior a 0,3 milhas marítimas.\n\n9.\n\nA derrogação referida no n.º 5 aplica-se exclusivamente a actividades de pesca já autorizadas pelos Estados-Membros e a navios com um registo de pesca no pesqueiro de mais de 5 anos e não implica qualquer futuro aumento do esforço de pesca previsto.\n\nDeve ser enviada à Comissão, até 30 de Abril de 2007, uma lista dos navios de pesca autorizados e suas características, devendo conter uma comparação com as características dessa frota em 1 de Janeiro de 2000.\n\nAlém disso, essas actividades de pesca devem:\n\na) Cumprir os requisitos do artigo 4.º, da alínea h) do n.º 1 do artigo 8.º, do ponto 2) do n.º 3 do artigo 9.º e do artigo 23.º;\n\nb) Não interferir com as actividades dos navios que utilizam artes de pesca que não sejam redes de arrasto, redes de cerco ou redes rebocadas similares;\n\nc) Ser regulamentadas por forma a garantir que sejam mínimas as capturas das espécies referidas no anexo III, com excepção dos moluscos bivalves;\n\nd) Não ter por alvo cefalópodes.\n\nOs Estados-Membros interessados devem estabelecer um plano de fiscalização e apresentar relatórios à Comissão de três em três anos a partir da entrada em vigor do presente regulamento. O primeiro relatório deve ser enviado à Comissão até 31 de Julho de 2009. Em função desses relatórios, a Comissão pode adoptar medidas em conformidade com o artigo 18.º ou com o n.º 9 do artigo 19.º\n\n10. São permitidas derrogações dos n.^os^ 1 e 2 para as pescas que beneficiem de uma derrogação ao abrigo do n.º 5 do artigo 4.º do presente regulamento e nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002.\n\n11.\n\nEm derrogação do n.º 2, é autorizada a utilização de redes de arrasto a entre 0,7 e 1,5 milhas marítimas da costa nas seguintes condições:\n\n— profundidade do mar não inferior à isóbata de 50 metros;\n\n— condicionantes geográficas específicas, [**►C2**](http://publications.europa.eu/resource/celex/32006R1967R%2804%29) como a extensão limitada da plataforma continental ao longo de todo o litoral**◄** de um Estado-Membro ou a extensão limitada dos pesqueiros de arrasto;\n\n— impacto não significativo no meio marinho;\n\n— observância das alíneas a) e b) do terceiro parágrafo do n.º 9;\n\n— não implicar qualquer aumento do esforço de pesca relativamente ao que já foi autorizado pelos Estados-Membros.\n\nOs Estados-Membros notificam a Comissão, até 30 de Setembro de 2007, das modalidades de aplicação desta derrogação. Essa notificação deve incluir uma lista dos navios de pesca autorizados e das zonas autorizadas, identificadas por coordenadas geográficas tanto em terra como no mar.\n\nOs Estados-Membros em causa devem controlar as actividades de pesca nas zonas em questão e assegurar uma avaliação científica. Os resultados da avaliação científica devem ser comunicados à Comissão de três em três anos a partir da entrada em vigor do presente regulamento. O primeiro relatório deve ser enviado à Comissão até 31 de Julho de 2009.\n\nSe, com base nas notificações apresentadas pelos Estados-Membros nos termos dos segundo e terceiro parágrafos ou em novos pareceres científicos, considerar que não se encontram reunidas as condições para uma derrogação, a Comissão pode, após consulta do Estado-Membro em causa, pedir-lhe que altere essa derrogação, ou propor ao Conselho medidas adequadas para a protecção dos recursos e do ambiente."
+  },
+  "d3c6adbaf051eb78": {
+   "fragment_id": "Artigo 17.º — Pesca de lazer",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Pesca de lazer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pesca de lazer\n\n1. É proibida a utilização de redes rebocadas, redes de cerco, redes de cerco com retenida, dragas rebocadas por embarcação, dragas mecanizadas, redes de emalhar, tresmalhos e redes de fundo mistas na pesca de lazer. É igualmente proibida, na pesca de lazer, a utilização de palangres para captura de espécies altamente migradoras.\n\n4. Os Estados-Membros adoptam medidas a fim de assegurar que os dados sobre as capturas resultantes da pesca de lazer sejam registados e recolhidos separadamente no respeitante às espécies altamente migradoras constantes do anexo I do Conselho Regulamento (CE) n.º 973/2001 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/29e99612-0c5a-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0004)) que evoluem no Mediterrâneo."
+  },
+  "b846812389086fc7": {
+   "fragment_id": "Artigo 18.º — Planos de gestão ao nível [►M2](http://publications.europa.eu/resource/celex/32015R0812) da União◄",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Planos de gestão ao nível [►M2](http://publications.europa.eu/resource/celex/32015R0812) da União◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Planos de gestão ao nível [►M2](http://publications.europa.eu/resource/celex/32015R0812) da União◄\n\n1.\n\nO Conselho pode adoptar planos de gestão para pescarias específicas exercidas no Mediterrâneo, nomeadamente em zonas que se situam total ou parcialmente fora das águas territoriais dos Estados-Membros. Os planos podem, nomeadamente, incluir:\n\na) Medidas de gestão do esforço de pesca;\n\nb) Medidas técnicas específicas, incluindo, se for caso disso, derrogações temporárias às disposições do presente regulamento, sempre que essas derrogações sejam necessárias para o exercício da pesca e desde que a exploração sustentável dos recursos em causa seja assegurada através do plano de gestão;\n\nc) A extensão da utilização obrigatória de sistemas de localização dos navios ou de sistemas similares para os navios de comprimento fora a fora compreendido entre 10 e 15 m;\n\nd) Restrições temporárias ou permanentes relativas a zonas reservadas a determinadas artes de pesca ou a navios que tenham assumido obrigações no âmbito do plano de gestão.\n\nOs planos de gestão devem prever a emissão de autorizações de pesca especiais em conformidade com o Regulamento (CE) n.º 1627/94 ([^3^](http://publications.europa.eu/resource/cellar/29e99612-0c5a-11f1-8870-01aa75ed71a1.0019.02/DOC_1#E0005)).\n\nEm derrogação do disposto no n.º 2 do artigo 1.º do Regulamento (CE) n.º 1627/94, pode ser exigida uma autorização de pesca especial aos navios de comprimento de fora a fora inferior a 10 metros.\n\n2. Os Estados-Membros e/ou o Conselho Consultivo Regional para o Mar Mediterrâneo podem apresentar sugestões à Comissão sobre questões relacionadas com o estabelecimento de planos de gestão. A Comissão dá a sua resposta no prazo de três meses a contar da recepção das sugestões.\n\n3. Os Estados-Membros asseguram um acompanhamento científico adequado dos planos de gestão. As medidas de gestão, designadamente as relativas às pescarias que exploram espécies com um curto período de vida, são revistas todos os anos, a fim de atender às possíveis alterações de intensidade do recrutamento."
+  },
+  "85870a3c4713f8fd": {
+   "fragment_id": "Artigo 19.º — Planos de gestão para determinadas pescarias exercidas nas águas territoriais",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Planos de gestão para determinadas pescarias exercidas nas águas territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Planos de gestão para determinadas pescarias exercidas nas águas territoriais\n\n1. Os Estados-Membros aprovam, até 31 de Dezembro de 2007, planos de gestão para as pescarias nas suas águas territoriais com redes de arrasto, redes envolventes-arrastantes de alar para bordo, redes envolventes-arrastantes de alar para a praia, redes de cerco e dragas. Os n.^os^ 2 e 3 e o primeiro parágrafo do n.º 4 do artigo 6.º do Regulamento (CE) n.º 2371/2002 são aplicáveis a esses planos de gestão.\n\n2. Os Estados-Membros podem posteriormente designar outros planos de gestão, com base em novos dados científicos pertinentes.\n\n3. Os Estados-Membros asseguram um acompanhamento científico adequado dos planos de gestão. Os planos de gestão, designadamente os relativos às pescarias que exploram espécies com um curto período de vida, são revistos todos os anos, a fim de atender às possíveis alterações de intensidade do recrutamento.\n\n4.\n\nOs planos de gestão podem incluir medidas mais restritivas do que as previstas no presente regulamento, com vista a:\n\na) Aumentar a selectividade das artes de pesca;\n\nb) Reduzir as devoluções;\n\nc) Limitar o esforço de pesca.\n\n5.\n\nAs medidas a incluir nos planos de gestão devem ser proporcionais aos objectivos e ao calendário previsto e dizer respeito:\n\na) Ao estado de conservação da população ou das populações;\n\nb) Às características biológicas da população ou das populações;\n\nc) Às características das pescarias em que são capturadas as populações;\n\nd) Ao impacto económico das medidas nas pescarias em causa.\n\n6.\n\nOs planos de gestão devem prever a emissão de autorizações de pesca especiais em conformidade com o Regulamento (CE) n.º 1627/94.\n\nNão obstante o disposto no n.º 2 do artigo 1.º do Regulamento (CE) n.º 1627/94, pode ser exigida uma autorização de pesca especial aos navios de comprimento de fora a fora inferior a 10 metros.\n\n7. Os planos de gestão referidos no n.º 1 são notificados à Comissão até 30 de Setembro de 2007, por forma a permitir-lhe apresentar as suas observações antes da sua adopção. Os planos de gestão referidos no n.º 2 são notificados à Comissão seis meses antes da data prevista de entrada em vigor. A Comissão comunica os planos aos outros Estados-Membros.\n\n8. Sempre que possam afectar os navios de outro Estado-Membro, os planos de gestão só são aprovados após consulta da Comissão, do Estado-Membro e do Conselho Consultivo Regional em causa, nos termos dos n.^os^ 3 a 6 do artigo 8.º do Regulamento (CE) n.º 2371/2002.\n\n9. Se, com base na notificação referida no n.º 7 ou em novos pareceres científicos, considerar que um plano de gestão aprovado nos termos do n.º 1 ou do n.º 2 não é suficiente para assegurar um elevado nível de protecção dos recursos e do ambiente, a Comissão pode, após consulta do Estado-Membro, pedir-lhe que altere o plano ou propor ao Conselho medidas adequadas para a protecção dos recursos e do ambiente."
+  },
+  "0206628970e7bc55": {
+   "fragment_id": "Artigo 20.º — Captura de espécies-alvo",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Captura de espécies-alvo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Captura de espécies-alvo\n\n1. As percentagens referidas nos n.^os^ 4 e 6 do artigo 9.º, no n.º 1 do artigo 10.º e no n.º 1 do artigo 13.º devem ser calculadas em termos da proporção em peso vivo de todos os organismos aquáticos vivos a bordo, após separação ou aquando do desembarque. [**►M5**](http://publications.europa.eu/resource/celex/32023R2842) —————**◄**\n\n2. No caso dos navios de pesca de que tenham sido transbordadas determinadas quantidades de organismos aquáticos vivos, as quantidades transbordadas são tidas em conta no cálculo das percentagens referidas no n.º 1."
+  },
+  "89b1a092fb51c5c6": {
+   "fragment_id": "Artigo 22.º — Portos designados",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Portos designados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Portos designados\n\n1. As capturas efectuadas por arrastões de fundo, arrastões pelágicos, redes de cerco com retenida, palangreiros de superfície, dragas rebocadas por embarcação e dragas hidráulicas só serão desembarcadas e comercializadas pela primeira vez num dos portos designados pelos Estados-Membros.\n\n2. Os Estados-Membros notificam a Comissão da lista dos portos designados até 30 de Abril de 2007. A Comissão transmite a lista aos outros Estados-Membros."
+  },
+  "2be56f0d96ba6322": {
+   "fragment_id": "Artigo 23.º — Controlo das capturas",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Controlo das capturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Controlo das capturas\n\nNo n.º 2 do artigo 6.º do Regulamento (CEE) n.º 2847/93, o segundo período passa a ter a seguinte redacção:\n\n«Para as operações de pesca no mar Mediterrâneo, devem ser registadas no diário de bordo todas as quantidades superiores a 15 kg de equivalente peso vivo de qualquer espécie mantida a bordo, indicada numa lista aprovada em conformidade com o n.º 8.\n\nContudo, no caso das espécies altamente migradoras e das pequenas espécies pelágicas, devem ser registadas no diário de bordo todas as quantidades superiores a 50 kg de equivalente peso vivo.»."
+  },
+  "43787c163e2f0362": {
+   "fragment_id": "Artigo 26.º — Zona de gestão de 25 milhas marítimas em torno de Malta",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Zona de gestão de 25 milhas marítimas em torno de Malta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Zona de gestão de 25 milhas marítimas em torno de Malta\n\n1.\n\nO acesso dos navios [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** às águas e aos recursos na zona das 25 milhas marítimas medidas a partir das linhas de base em torno das ilhas maltesas (a seguir designada «zona de gestão») é sujeito às seguintes regras:\n\na) A pesca na zona de gestão é limitada aos navios de pesca de comprimento fora a fora inferior a 12 metros que não utilizam artes rebocadas;\n\nb) O esforço de pesca total desses navios, expresso em termos de capacidade de pesca global, não pode ser superior ao nível médio observado em 2000-2001, isto é, ao equivalente a 1 950 navios com, no total, uma potência do motor de 83 000 kW e uma arqueação de 4 035 GT, respectivamente.\n\n2.\n\nEm derrogação da alínea a) do n.º 1, os arrastões com um comprimento fora a fora não superior a 24 metros são autorizados a pescar em determinadas zonas da zona de gestão, descritas na alínea a) do anexo V, nas seguintes condições:\n\na) A capacidade de pesca global dos arrastões autorizados a operar na zona de gestão não pode ser superior ao limite de 4 800 kW;\n\nb) A capacidade de pesca de qualquer arrastão autorizado a operar a uma profundidade inferior a 200 metros não pode ser superior a 185 kW; a isóbata de 200 metros de profundidade é identificada por uma linha quebrada, cujos pontos de referência constam da alínea b) do anexo V;\n\nc) Os arrastões que pescam na zona de gestão devem possuir uma autorização de pesca especial, em conformidade com o artigo 7.º do Regulamento (CE) n.º 1627/94, e devem ser incluídos numa lista com indicação da sua marcação externa e do seu número comunitário de inscrição no registo de frota (FCF), definidos no anexo I do Regulamento (CE) n.º 26/2004, a comunicar todos os anos à Comissão pelos Estados-Membros em causa;\n\nd) Os limites de capacidade estabelecidos nas alíneas a) e b) são reexaminados periodicamente à luz dos pareceres dos organismos científicos competentes sobre os seus efeitos na conservação das populações de peixes.\n\n3.\n\nSempre que a capacidade global de pesca referida na alínea a) do n.º 2 for superior à capacidade de pesca global dos arrastões com um comprimento de fora a fora igual ou inferior a 24 metros que operaram na zona de gestão no período de referência de 2000-2001 (a seguir designada «capacidade de pesca de referência»), a Comissão, nos termos do artigo 29.º, reparte esse excedente de capacidade de pesca disponível pelos Estados-Membros, atendendo ao interesse dos Estados-Membros que solicitarem uma autorização.\n\nA capacidade de pesca de referência corresponde a 3 600 kW.\n\n4. As autorizações de pesca especiais para o excedente de capacidade de pesca disponível referido no n.º 3 só são emitidas para navios constantes do ficheiro comunitário dos navios de pesca na data de aplicação do presente artigo.\n\n5.\n\nSempre que a capacidade de pesca global dos arrastões autorizados a operar na zona de gestão em conformidade com a alínea c) do n.º 2 ultrapassar o limite fixado na alínea a) do n.º 2, na sequência da redução desse limite após a revisão prevista na alínea d) do n.º 2, a Comissão reparte a capacidade de pesca pelos Estados-Membros com base nos seguintes princípios:\n\na) Em primeiro lugar, é dada prioridade à capacidade de pesca em kW correspondente aos navios que pescaram na área no período de 2000-2001;\n\nb) Em segundo lugar, é dada prioridade à capacidade de pesca em kW correspondente aos navios que pescaram na área durante qualquer outro período;\n\nc) Qualquer capacidade restante a atribuir a outros navios é repartida pelos Estados-Membros, atendendo aos interesses dos Estados-Membros que solicitarem uma autorização.\n\n6. Em derrogação da alínea a) do n.º 1, os navios que pescam com redes de cerco com retenida ou palangres e os navios que pescam doirados em conformidade com o artigo 27.º são autorizados a operar na zona de gestão. Esses navios beneficiam de uma autorização de pesca especial, em conformidade com o artigo 7.º do Regulamento (CE) n.º 1627/94, e são incluídos numa lista com indicação da sua marcação externa e do seu número comunitário de inscrição no registo de frota (FCF), definidos no anexo I do Regulamento (CE) n.º 26/2004, a comunicar à Comissão por cada Estado-Membro. Em qualquer dos casos, o esforço de pesca deve ser controlado para salvaguardar a sustentabilidade destas pescarias na zona.\n\n7. O capitão de qualquer arrastão autorizado a pescar na zona de gestão em conformidade com o n.º 2 que não esteja equipado com VMS deve comunicar cada entrada e saída da zona de gestão às suas autoridades e às autoridades do Estado costeiro."
+  },
+  "915c37c28446cc06": {
+   "fragment_id": "Artigo 27.º — Pesca de doirados",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Pesca de doirados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pesca de doirados\n\n2. O número de navios que participam na pesca de doirados na zona de gestão é limitado a 130.\n\n3.\n\nAs autoridades maltesas definem as rotas a percorrer pelos navios que pescam com dispositivos de concentração de peixes e atribuem as rotas assim determinadas aos navios de pesca [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** até 30 de Junho de cada ano. Os navios de pesca [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** que arvoram um pavilhão diferente do de Malta não são autorizados a operar no âmbito de uma rota para a pesca com dispositivos de concentração de peixes na zona das 12 milhas marítimas.\n\nA Comissão estabelece, nos termos do artigo 29.º, os critérios a aplicar para a definição e atribuição das rotas a percorrer pelos navios que pescam com dispositivos de concentração de peixes."
+  },
+  "af4a8feb89cb4d1b": {
+   "fragment_id": "Artigo 28.º — Processo de tomada de decisão",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Processo de tomada de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Processo de tomada de decisão\n\nSalvo disposição em contrário do presente regulamento, o Conselho age nos termos do artigo 37.º do Tratado."
+  },
+  "54c343ffaf846e01": {
+   "fragment_id": "Artigo 29.º — Regras de execução",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Regras de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regras de execução\n\nAs regras de execução dos artigos 26.º e 27.º do presente regulamento são aprovadas nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "311355cc1027ca88": {
+   "fragment_id": "Artigo 30.º — Alterações",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Alterações\n\nAs alterações dos anexos são aprovadas nos termos do n.º 3 do artigo 30.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "25aed6cf5804b413": {
+   "fragment_id": "Artigo 31.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Revogação\n\nÉ revogado o Regulamento (CE) n.º 1626/94.\n\nAs remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento e devem ler-se de acordo com o quadro de correspondência constante do anexo VI."
+  },
+  "d4b353829b8a9eca": {
+   "fragment_id": "Artigo 32.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente regulamento entra em vigor no trigésime dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "909318bd6d6fcddd": {
+   "fragment_id": "A) Dispositivos autorizados nas redes de arrasto",
+   "type": "divisao",
+   "heading": "A) Dispositivos autorizados nas redes de arrasto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A) Dispositivos autorizados nas redes de arrasto\n\n1. Não obstante o disposto no artigo 8.º do Regulamento (CEE) n.º 3440/84, pode ser utilizado um dispositivo mecânico transversal, em relação ao eixo longitudinal da rede, ou longitudinal do tipo fecho de correr para fechar a abertura pela qual é esvaziada a cuada de tipo bolsa.\n\n2. O fecho de correr transversal é fixado a uma distância não superior a 1 metro das últimas malhas da cuada."
+  },
+  "b859e976cc56fa63": {
+   "fragment_id": "B) Requisitos em matéria de armamento",
+   "type": "divisao",
+   "heading": "B) Requisitos em matéria de armamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### B) Requisitos em matéria de armamento\n\n1. As cuadas em balão são proibidas nas redes de arrasto. Numa dada cuada individual, o número de malhas das mesmas dimensões em qualquer circunferência da cuada não pode aumentar entre a extremidade anterior e a extremidade posterior.\n\n2. A circunferência da parte terminal do corpo da rede de arrasto (a secção cónica) ou da boca (a secção cilíndrica) não deve ser menor do que a circunferência da parte anterior da cuada. No caso de uma cuada de malha quadrada, em especial, a circunferência da parte terminal do corpo da rede de arrasto ou da boca da rede deve ser 2 a 4 vezes a circunferência da extremidade anterior da cuada.\n\n3. Podem ser inseridos panos de malha quadrada em qualquer rede rebocada, que são colocados à frente da boca da rede ou em qualquer ponto situado entre a frente da boca da rede e a parte posterior da cuada. Estes panos não podem ser, de forma alguma, obstruídos por elementos internos ou externos. Devem ser formados por rede sem nós ou por rede feita com nós não deslizantes e devem ser inseridos de modo a que as malhas se mantenham completa e permanentemente abertas durante a pesca. As regras de execução em matéria de especificações técnicas suplementares relativas aos panos de malha quadrada são adoptadas nos termos do artigo 29.º do presente regulamento.\n\n4. Da mesma forma, podem ser autorizados, nos termos do artigo 29.º do presente regulamento, dispositivos técnicos destinados a melhorar a selectividade das redes de arrasto diferentes dos referidos na alínea b) do ponto 3.\n\n5. É proibido manter a bordo ou utilizar qualquer rede rebocada cuja cuada seja confeccionada totalmente ou em parte com qualquer tipo de material de pano constituído por malhas diferentes da malha quadrada ou da malha em losango, salvo autorização nos termos do artigo 29.º do presente regulamento.\n\n6. Os pontos 4 e 5 não são aplicáveis às redes envolventes-arrastantes de alar para bordo cuja cuada tenha uma malhagem inferior a 10 mm.\n\n7. Em alteração do n.º 4 do artigo 6.º do Regulamento (CEE) n.º 3440/84, nas redes de arrasto pelo fundo, a malhagem da cuada de reforço não será inferior a 120 mm se a malhagem da cuada for inferior a 60 mm. Esta disposição só é aplicável no mar Mediterrâneo e não tem efeitos nas outras águas [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄**. Se a malhagem da cuada for igual ou superior a 60 mm, é aplicável o n.º 4 do artigo 6.º do Regulamento (CEE) n.º 3440/84.\n\n8. A cuada de tipo bolso não deve ter mais de uma abertura para o esvaziamento da cuada.\n\n9. O comprimento do cabo de porfio horizontal não deve ser inferior a 20 % da circunferência da cuada.\n\n10. A circunferência da cuada de reforço, definida no artigo 6.º do Regulamento (CE) n.º 3440/84, não deve ser inferior a 1,3 vezes a da cuada nas redes de arrasto de fundo.\n\n11. É proibido manter a bordo ou utilizar qualquer rede rebocada confeccionada, totalmente ou em parte da cuada, com materiais constituídos por fio entrançado simples de espessura superior a 3,0 milímetros.\n\n12. É proibido manter a bordo ou utilizar qualquer rede rebocada confeccionada, totalmente ou em parte da cuada, com materiais constituídos por fios múltiplos.\n\n13. São proibidos em qualquer parte das redes de arrasto pelo fundo os panos de rede com uma espessura de fio superior a 6 mm."
+  },
+  "a481ba2bedc32b37": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/29e99612-0c5a-11f1-8870-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) n.º 1380/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, relativo à política comum das pescas, que altera os Regulamentos (CE) n.º 1954/2003 e (CE) n.º 1224/2009 do Conselho e revoga os Regulamentos (CE) n.º 2371/2002 e (CE) n.º 639/2004 do Conselho e a Decisão 2004/585/CE do Conselho (JO L 354 de 28.12.2013, p. 22).\n\n> ([^1^](http://publications.europa.eu/resource/cellar/29e99612-0c5a-11f1-8870-01aa75ed71a1.0019.02/DOC_1#src.E0004)) JO L 137 de 19.5.2001, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 831/2004 (JO L 127 de 29.4.2004, p. 33).\n\n> ([^1^](http://publications.europa.eu/resource/cellar/29e99612-0c5a-11f1-8870-01aa75ed71a1.0019.02/DOC_1#src.E0005)) JO L 171 de 6.7.1994, p. 7."
+  }
+ }
+}

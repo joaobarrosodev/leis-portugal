@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:670285:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2011-941852964",
+ "dre_path": "/dr/detalhe/lei/36-2011-670285",
+ "source_lastmod": "2025-10-23",
+ "versions": [
+  {
+   "date": "2011-06-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "941852859",
+    "941852860",
+    "941852861",
+    "941852862",
+    "941852863",
+    "941852864",
+    "941852865",
+    "941852866",
+    "941852867",
+    "941852868",
+    "941852869"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116734769:por",
+     "title": "Decreto-Lei n.º 83/2018",
+     "published": "2018-10-19",
+     "dre_path": "/dr/detalhe/decreto-lei/83-2018-116734769"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "941852859",
+    "941852860",
+    "941852871",
+    "941852862",
+    "941852863",
+    "941852864",
+    "941852865",
+    "941852866",
+    "941852867",
+    "941852868",
+    "941852869",
+    "941852870"
+   ]
+  }
+ ],
+ "fragments": {
+  "941852859": {
+   "fragment_id": "941852965",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 36/2011\n\nde 21 de Junho\n\nEstabelece a adopção de normas abertas nos sistemas informáticos do Estado\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "941852860": {
+   "fragment_id": "941852966",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece a adopção de normas abertas para a informação em suporte digital na Administração Pública, promovendo a liberdade tecnológica dos cidadãos e organizações e a interoperabilidade dos sistemas informáticos do Estado."
+  },
+  "941852861": {
+   "fragment_id": "941852967",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nA presente lei aplica-se a:\n\na) Órgãos de soberania;\n\nb) Serviços da administração pública central, incluindo institutos públicos e serviços desconcentrados do Estado;\n\nc) Serviços da administração pública regional;\n\nd) Sector empresarial do Estado.\n\n> Nota: [Artigo 19.º, Decreto-Lei n.º 83/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2018-116734769) A alteração ao presente artigo produz efeitos nos seguintes termos: a) Para os sítios web publicados a partir de 23 de setembro de 2018, inclusive, em 23 de setembro de 2019; b) Para os sítios web publicados antes de 23 de setembro de 2018, em 23 de setembro de 2020; c) Para todas as aplicações móveis, em 23 de junho de 2021."
+  },
+  "941852862": {
+   "fragment_id": "941852968",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos da presente lei, considera-se «norma aberta» a norma técnica destinada à publicação, transmissão e armazenamento de informação em suporte digital que cumpra cumulativamente os seguintes requisitos:\n\na) A sua adopção decorra de um processo de decisão aberto e disponível à participação de todas as partes interessadas;\n\nb) O respectivo documento de especificações tenha sido publicado e livremente disponibilizado, sendo permitida a sua cópia, distribuição e utilização, sem restrições;\n\nc) O respectivo documento de especificações não incida sobre acções ou processos não documentados;\n\nd) Os direitos de propriedade intelectual que lhe sejam aplicáveis, incluindo patentes, tenham sido disponibilizados de forma integral, irrevogável e irreversível ao Estado Português;\n\ne) Não existam restrições à sua implementação.\n\n2 - Para efeitos da presente lei, considera-se «interoperabilidade» a capacidade de dois ou mais sistemas, designadamente computadores, meios de comunicação, redes, software e outros componentes de tecnologia da informação, de interagir e de trocar dados de acordo com um método definido de forma a obter os resultados esperados."
+  },
+  "941852863": {
+   "fragment_id": "941852969",
+   "type": 11,
+   "heading": "Artigo 4.º — Utilização de normas abertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Utilização de normas abertas\n\n1 - Todos os processos de implementação, licenciamento ou evolução de sistemas informáticos na Administração Pública prevêem obrigatoriamente a utilização de normas abertas, de acordo com o regulamento mencionado no artigo seguinte.\n\n2 - É obrigatória a aplicação de normas abertas em todos os documentos de texto em formato digital que sejam objecto de emissão, intercâmbio, arquivo e ou publicação pela Administração Pública.\n\n3 - Nos termos da presente lei, nenhum documento de texto em formato digital, presente por pessoa individual ou colectiva à Administração Pública, pode ser recusado, ignorado ou devolvido com base no facto de ser emitido com recurso a normas abertas."
+  },
+  "941852864": {
+   "fragment_id": "941852970",
+   "type": 11,
+   "heading": "Artigo 5.º — Regulamento Nacional de Interoperabilidade Digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regulamento Nacional de Interoperabilidade Digital\n\n1 - O Regulamento Nacional de Interoperabilidade Digital, doravante designado por Regulamento, define as normas e formatos digitais a adoptar pela Administração Pública.\n\n2 - O Regulamento abrange os seguintes domínios:\n\na) Formatos de dados, incluindo códigos de caracteres, formatos de som e imagens (fixas e animadas), audiovisuais, dados gráficos e de pré-impressão;\n\nb) Formatos de documentos (estruturados e não estruturados) e gestão de conteúdos, incluindo gestão documental;\n\nc) Tecnologias de interface web, incluindo acessibilidade, ergonomia, compatibilidade e integração de serviços;\n\nd) Protocolos de streaming ou transmissão de som e imagens animadas em tempo real, incluindo o transporte e distribuição de conteúdos e os serviços ponto a ponto;\n\ne) Protocolos de correio electrónico, incluindo acesso a conteúdos e extensões e serviços de mensagem instantânea;\n\nf) Sistemas de informação geográfica, incluindo cartografia, cadastro digital, topografia e modelação;\n\ng) Normas e protocolos de comunicação em redes informáticas;\n\nh) Normas de segurança para redes, serviços, aplicações e documentos;\n\ni) Normas e protocolos de integração, troca de dados e orquestração de processos de negócio na integração interorganismos.\n\n3 - Compete à Agência para a Modernização Administrativa a elaboração do Regulamento, com o dever de cooperação dos demais organismos da Administração Pública.\n\n4 - O Regulamento é apresentado no prazo de 90 dias após a entrada em vigor da presente lei e submetido a um processo de discussão pública por um período de 30 dias.\n\n5 - O Regulamento fixa os prazos de aplicação das normas abertas nele previstas.\n\n6 - O Regulamento é aprovado por resolução do Conselho de Ministros e deve ser objecto de revisão com periodicidade não superior a três anos ou sempre que tal se justifique pela evolução das normas abertas."
+  },
+  "941852865": {
+   "fragment_id": "941852971",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de excepção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de excepção\n\n1 - Em caso de impossibilidade da utilização de norma aberta prevista na regulamentação da presente lei, as entidades referidas nas alíneas a) e c) do artigo 2.º devem da mesma dar conhecimento à Presidência do Conselho de Ministros.\n\n2 - Em caso de impossibilidade da utilização de norma aberta prevista na regulamentação da presente lei, as entidades referidas nas alíneas b) e d) do artigo 2.º devem solicitar parecer prévio e vinculativo à Presidência do Conselho de Ministros, fundamentando essa impossibilidade e instruindo o processo com a avaliação da solução defendida.\n\n3 - O parecer previsto no número anterior deve verificar se não existe qualquer formato aberto no tipo de documentos, informações ou dados que se pretendem manusear e ou produzir e avaliar ainda:\n\na) Se existe já um projecto de desenvolvimento avançado de uma solução de tipo aberto; e\n\nb) Se o formato ou protocolo proprietário proposto é baseado numa especificação completamente documentada.\n\n4 - As comunicações e os pareceres referidos nos números anteriores devem ser publicados num portal a criar pelo Governo, devendo constar a modalidade e os motivos da excepção, assim como os riscos associados à utilização do formato escolhido.\n\n5 - As condições de excepção são periodicamente objecto de reapreciação, no âmbito e em função do processo de revisão do Regulamento previsto no artigo anterior."
+  },
+  "941852866": {
+   "fragment_id": "941852972",
+   "type": 11,
+   "heading": "Artigo 7.º — Supervisão e apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Supervisão e apoio técnico\n\n1 - Compete à Agência para a Modernização Administrativa acompanhar, supervisionar e coordenar o apoio técnico para a implementação e cumprimento da presente lei.\n\n2 - Para efeitos do disposto no número anterior, a Agência para a Modernização Administrativa apresenta e publica em formato digital o Relatório Anual da Interoperabilidade Digital."
+  },
+  "941852867": {
+   "fragment_id": "941852973",
+   "type": 11,
+   "heading": "Artigo 8.º — Período de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Período de transição\n\nAs entidades referidas no artigo 2.º devem assegurar o cumprimento dos prazos de adopção das normas abertas previstos na regulamentação da presente lei."
+  },
+  "941852868": {
+   "fragment_id": "941852974",
+   "type": 11,
+   "heading": "Artigo 9.º — Contratação pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contratação pública\n\nÉ nulo e de nenhum efeito todo e qualquer acto de contratação promovido pela Administração Pública que preveja a exclusão de normas abertas, estabelecidas no Regulamento."
+  },
+  "941852869": {
+   "fragment_id": "941993575",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor 90 dias após a sua publicação."
+  },
+  "941852871": {
+   "fragment_id": "941852967",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2018-116734769), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente lei aplica-se às seguintes entidades:\n\na) Estado;\n\nb) Regiões Autónomas;\n\nc) Institutos públicos;\n\nd) Entidades administrativas independentes;\n\ne) Fundações públicas;\n\nf) Associações públicas;\n\ng) Entidades do setor público empresarial.\n\n2 - No que se refere à acessibilidade dos sítios web e das aplicações móveis, a presente lei aplica-se igualmente às seguintes entidades:\n\na) Autarquias locais;\n\nb) Organizações Não Governamentais que prestam serviços essenciais ao público ou que prestam serviços que visam especificamente responder às necessidades das pessoas com deficiência ou que lhes são diretamente dirigidos;\n\nc) Instituições de ensino superior, estabelecimentos de educação pré-escolar e de educação escolar, públicos e privados com financiamento público, no que se refere ao conteúdo relativo a funções administrativas essenciais por via eletrónica.\n\n> Nota: [Artigo 19.º, Decreto-Lei n.º 83/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2018-116734769) A alteração ao presente artigo produz efeitos nos seguintes termos: a) Para os sítios web publicados a partir de 23 de setembro de 2018, inclusive, em 23 de setembro de 2019; b) Para os sítios web publicados antes de 23 de setembro de 2018, em 23 de setembro de 2020; c) Para todas as aplicações móveis, em 23 de junho de 2021.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2018-116734769), em vigor a partir de 2019-01-01"
+  },
+  "941852870": {
+   "fragment_id": "941993576",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 6 de Abril de 2011.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 19 de Maio de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 20 de Maio de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

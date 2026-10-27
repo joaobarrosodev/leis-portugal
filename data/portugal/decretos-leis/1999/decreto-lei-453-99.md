@@ -1,0 +1,2234 @@
+---
+schema_version: '1.0'
+id: pt:dre:693810:por
+title: Decreto-Lei n.º 453/99
+short_title: null
+summary: Estabelece o regime da titularização de créditos e regula a constituição e a actividade dos fundos de titularização
+  de créditos, das respectivas sociedades gestoras e das sociedades de titularização de créditos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 453/99
+official_date: null
+publication_date: '1999-11-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 258/1999, Série I-A de 1999-11-05
+  number: '258'
+  series: I
+  supplement: null
+  pages: 7682 - 7693
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/11/258a00/76827693.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-03-17'
+version_history:
+  file: decreto-lei-453-99.versoes.json
+  count: 10
+  source_lastmod: '2025-03-10'
+  versions:
+  - date: '1999-11-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-04-10'
+    amending: pt:dre:302958:por
+    amending_title: Decreto-Lei n.º 82/2002
+    changes:
+    - Adita Subsecção I
+    - Adita Subsecção II
+    - Adita Subsecção III
+    - Adita Artigo 53.º
+    - Adita Artigo 54.º
+    - Adita Artigo 55.º
+    - Adita Artigo 56.º
+    - Adita Artigo 57.º
+    - Adita Artigo 58.º
+    - Adita Artigo 59.º
+    - Adita Artigo 60.º
+    - Adita Artigo 61.º
+    - Adita Artigo 62.º
+    - Adita Artigo 63.º
+    - Adita Artigo 64.º
+    - Adita Artigo 65.º
+    - Adita Artigo 66.º
+    - Adita Artigo 67.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 34.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+  - date: '2003-12-06'
+    amending: pt:dre:429629:por
+    amending_title: Decreto-Lei n.º 303/2003
+    changes:
+    - Adita Artigo 65.º
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 12.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 48.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+  - date: '2006-03-30'
+    amending: pt:dre:667337:por
+    amending_title: Decreto-Lei n.º 52/2006
+    changes:
+    - Altera Artigo 27.º
+    - Altera Artigo 34.º
+    - Altera Artigo 37.º
+    - Altera Artigo 60.º
+  - date: '2019-08-29'
+    amending: pt:dre:124256706:por
+    amending_title: Lei n.º 69/2019
+    changes:
+    - Adita Artigo 8.º-A
+    - Adita Capítulo IV
+    - Adita Artigo 66.º-A
+    - Adita Artigo 66.º-B
+    - Adita Artigo 66.º-C
+    - Adita Capítulo V
+    - Adita Artigo 66.º-D
+    - Adita Artigo 66.º-E
+    - Adita Artigo 66.º-F
+    - Adita Artigo 66.º-G
+    - Adita Artigo 66.º-H
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 18.º
+    - Altera Artigo 22.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 45.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 66.º
+    - Altera Capítulo IV
+    - Revoga Artigo 23.º
+  - date: '2020-01-01'
+    amending: pt:dre:124917020:por
+    amending_title: Decreto-Lei n.º 144/2019
+    changes:
+    - Adita Artigo 17.º-A
+    - Adita Artigo 17.º-B
+    - Adita Artigo 17.º-C
+    - Adita Artigo 17.º-D
+    - Adita Artigo 17.º-E
+    - Adita Artigo 17.º-F
+    - Adita Artigo 17.º-G
+    - Adita Artigo 17.º-H
+    - Adita Artigo 17.º-I
+    - Adita Artigo 22.º-A
+    - Adita Artigo 22.º-B
+    - Adita Artigo 22.º-C
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 37.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 66.º
+    - Revoga Artigo 48.º
+    - Revoga Artigo 49.º
+    - Revoga Artigo 50.º
+    - Revoga Artigo 51.º
+    - Revoga Artigo 52.º
+    - Revoga Artigo 53.º
+    - Revoga Artigo 54.º
+    - Revoga Artigo 55.º
+    - Revoga Artigo 56.º
+    - Revoga Artigo 57.º
+    - Revoga Artigo 58.º
+    - Revoga Artigo 59.º
+    - Revoga Artigo 67.º
+  - date: '2020-07-08'
+    amending: pt:dre:137350708:por
+    amending_title: Lei n.º 25/2020
+    changes:
+    - Altera Artigo 66.º-D
+  - date: '2025-01-11'
+    amending: pt:dre:902120308:por
+    amending_title: Lei n.º 1/2025
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 66.º-A
+    - Altera Artigo 66.º-D
+    - Altera Artigo 66.º-F
+  - date: '2025-12-10'
+    amending: pt:dre:935004232:por
+    amending_title: Decreto-Lei n.º 103/2025
+    changes:
+    - Adita Artigo 1.º-A
+    - Adita Artigo 6.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º-A
+    - Altera Artigo 12.º
+    - Altera Artigo 45.º
+  - date: '2026-03-17'
+    amending: pt:dre:1071208828:por
+    amending_title: Decreto-Lei n.º 77/2026
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/453/1999/p/cons/20260312/pt/html
+  oj: null
+  dre: '693810'
+  dre_path: /dr/detalhe/decreto-lei/453-1999-693810
+  internal: pt:dre:693810:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1999-693810
+  metadata_url: https://data.dre.pt/eli/dec-lei/453/1999/p/cons/20260312/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-137352202
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-137352202
+  retrieved_at: '2026-10-22T13:24:08Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-03-10T00:00:00Z'
+integrity:
+  source_sha256: cbf08b552302c6f4d89d194dd82134bb1dde761b732cab531862e151ded36999
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:24:08Z'
+  notes: 10 versão(ões); histórico completo em decreto-lei-453-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Falência
+- Valores Mobiliários
+- Auditoria
+- Financiamento
+- Garantia
+- Património
+- Sociedade Anónima
+- Instituição de Crédito
+- Bolsa de Valores
+- Certificação Profissional
+- Código das Sociedades Comerciais
+- Código dos Valores Mobiliários
+- Constituição de Fundo
+- Constituição de Sociedade
+- Contrato
+- Definição de Competências
+- Divisa
+- Fundo de Pensões
+- Banco de Portugal
+- Sociedade Gestora de Fundos de Titularização de Créditos
+- Titularização de Créditos
+- Impugnação
+- Residência
+- Crédito
+- Mercado de Capitais
+- Mercado Inter-bancário
+- Obrigações
+- Pessoa Coletiva
+- Pessoa Colectiva de Direito Público
+- Sociedade Gestora de Fundos de Pensões
+- Cobrança de Dívidas
+- Regime Jurídico
+- Registo de Valores Mobiliários
+- Regulamento de Gestão
+- Companhia de Seguros
+- CMVM
+- Instituição Financeira
+- Sociedade de Titularização de Créditos
+- Empresa Estrangeira
+- TAXA de JURO
+- Fundo de Titularização de Créditos
+- Gestão de Créditos
+relationships:
+- type: amended_by
+  target: pt:dre:302958:por
+  label: Adita Subsecção I; Adita Subsecção II; Adita Subsecção III; Adita Artigo 53.º; Adita Artigo 54.º; Adita Artigo 55.º;
+    Adita Artigo 56.º; Adita Artigo 57.º; Adita Artigo 58.º; Adita Artigo 59.º; Adita Artigo 60.º; Adita Artigo 61.º; Adita
+    Artigo 62.º; Adita Artigo 63.º; Adita Artigo 64.º; Adita Artigo 65.º; Adita Artigo 66.º; Adita Artigo 67.º; Altera Artigo
+    4.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958
+  date: '2002-04-05'
+- type: amended_by
+  target: pt:dre:429629:por
+  label: Adita Artigo 65.º; Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 12.º;
+    Altera Artigo 18.º; Altera Artigo 21.º; Altera Artigo 24.º; Altera Artigo 27.º; Altera Artigo 29.º; Altera Artigo 44.º;
+    Altera Artigo 45.º; Altera Artigo 48.º; Altera Artigo 58.º; Altera Artigo 59.º; Altera Artigo 60.º; Altera Artigo 61.º;
+    Altera Artigo 62.º; Altera Artigo 63.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629
+  date: '2003-12-05'
+- type: amended_by
+  target: pt:dre:667337:por
+  label: Altera Artigo 27.º; Altera Artigo 34.º; Altera Artigo 37.º; Altera Artigo 60.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: amended_by
+  target: pt:dre:124256706:por
+  label: Adita Artigo 8.º-A; Adita Capítulo IV; Adita Artigo 66.º-A; Adita Artigo 66.º-B; Adita Artigo 66.º-C; Adita Capítulo
+    V; Adita Artigo 66.º-D; Adita Artigo 66.º-E; Adita Artigo 66.º-F; Adita Artigo 66.º-G; Adita Artigo 66.º-H; Altera Artigo
+    1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706
+  date: '2019-08-28'
+- type: amended_by
+  target: pt:dre:124917020:por
+  label: Adita Artigo 17.º-A; Adita Artigo 17.º-B; Adita Artigo 17.º-C; Adita Artigo 17.º-D; Adita Artigo 17.º-E; Adita Artigo
+    17.º-F; Adita Artigo 17.º-G; Adita Artigo 17.º-H; Adita Artigo 17.º-I; Adita Artigo 22.º-A; Adita Artigo 22.º-B; Adita
+    Artigo 22.º-C; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 19.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera
+    Artigo 37.º; Altera Artigo 40.º; Altera Artigo 41.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020
+  date: '2019-09-23'
+- type: amended_by
+  target: pt:dre:137350708:por
+  label: Altera Artigo 66.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/lei/25-2020-137350708
+  date: '2020-07-07'
+- type: amended_by
+  target: pt:dre:902120308:por
+  label: Altera Artigo 1.º; Altera Artigo 66.º-A; Altera Artigo 66.º-D; Altera Artigo 66.º-F
+  source: https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308
+  date: '2025-01-06'
+- type: amended_by
+  target: pt:dre:935004232:por
+  label: Adita Artigo 1.º-A; Adita Artigo 6.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 8.º-A; Altera Artigo 12.º; Altera Artigo 45.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232
+  date: '2025-09-11'
+- type: amended_by
+  target: pt:dre:1071208828:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2026-1071208828
+  date: '2026-03-12'
+- type: cites
+  target: celex:32004R0809
+  label: null
+  source: null
+- type: cites
+  target: celex:32012R0648
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R0575
+  label: null
+  source: null
+- type: cites
+  target: celex:32017R1131
+  label: null
+  source: null
+- type: cites
+  target: celex:32017R2402
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288874:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/408/1991/10/17/p/dre
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: transposes
+  target: celex:32021L2167
+  label: null
+  source: null
+article_structure:
+  article_count: 91
+  section_count: 18
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:24:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 453/99
+
+Decreto-Lei n.º 453/99
+
+de 5 de Novembro
+
+O presente decreto-lei estabelece o regime jurídico das operações de transmissão de créditos com vista à subsequente emissão, pelas entidades adquirentes, de valores mobiliários destinados ao financiamento das referidas operações. Regula-se igualmente a constituição e a actividade das duas únicas entidades que poderão proceder à titularização de créditos: os fundos de titularização de créditos e as sociedades de titularização de créditos.
+
+O primeiro dos veículos de titularização mencionados, considerando a natureza de património autónomo que reveste, implica o estabelecimento de regras especiais de funcionamento das respectivas sociedades gestoras.
+
+Introduz-se, assim, no ordenamento jurídico português a figura da titularização de créditos, facultando um relevante instrumento financeiro, largamente difundido - e frequentemente utilizado - nas economias mais desenvolvidas, aos agentes económicos, em geral, e, em particular, ao sistema financeiro. Dota-se a economia de um importante factor de competitividade e o mercado de capitais de um factor de dinamização e diversificação.
+
+A titularização de créditos, usualmente conhecida por securitização, consistindo, no essencial, numa agregação de créditos, sua autonomização, mudança de titularidade e emissão de valores representativos, conheceu os seus primeiros desenvolvimentos nos Estados Unidos, no início da década de 80, tendo sido já objecto de tratamento legislativo na generalidade dos Estados membros da Comunidade Europeia. A sua utilização tem sido reconhecidamente bem sucedida, rapidamente se assumindo como relevante factor de competitividade das economias.
+
+Embora os principais agentes da titularização sejam instituições financeiras, também sociedades comerciais de maior dimensão e entidades públicas têm recorrido, de modo crescente, à titularização de créditos, assim vendo diminuir os seus riscos e custos de obtenção de financiamentos. Os operadores de mercado, por seu lado, encontram nestas operações novas oportunidades de investimento, mediante a colocação de títulos no mercado e a respectiva rentabilização, permitindo aos investidores finais a obtenção de rendimentos indexados ao valor dos créditos.
+
+No novo regime permite-se que procedam à titularização de créditos instituições financeiras, entidades públicas - desde que as regras que lhes sejam especialmente aplicáveis o não impeçam - e outras pessoas colectivas cuja situação financeira seja devidamente acompanhada e reúnam determinadas condições. Relativamente ao sector segurador, atenta a específica natureza da actividade e as soluções adoptadas em outros países, delimita-se o universo de créditos que podem ser objecto de cessão no âmbito de operações de titularização. Impõe-se, no geral, para que possam ser transmitidos para veículos de titularização, que os créditos reúnam um conjunto de requisitos, procurando-se garantir a segurança e transparência das operações, bem como a tutela dos interesses dos devedores, em particular dos consumidores de serviços financeiros, dos investidores e da supervisão das instituições financeiras.
+
+Com efeito, a concretização de operações de titularização fica dependente de um prévio e rigoroso controlo de legalidade, o qual é exercido no momento da emissão dos valores mobiliários, sejam as unidades de titularização de fundos, sejam as obrigações a emitir pelas sociedades de titularização.
+
+Também sujeitos a prévia autorização e a permanente acompanhamento ficam os veículos de titularização - fundos, sociedades gestoras e sociedades de titularização -, tendo-se optado, com essa preocupação, por posicionar os entes societários dentro do sistema financeiro.
+
+Prevêem-se exames mais aprofundados das operações e informação mais detalhada sobre as mesmas caso se destinem à comercialização pública, designadamente com procedimentos de notação de risco e respectiva divulgação.
+
+De um prisma de supervisão das instituições financeiras cedentes, sujeita-se a realização das transmissões a prévia autorização das competentes entidades de supervisão.
+
+Quanto aos legítimos direitos dos devedores, especialmente dos consumidores de serviços financeiros, consagram-se normas que visam a neutralidade da operação perante estes. É o que sucede, nomeadamente, no que respeita à manutenção, pela instituição financeira cedente, de poderes de gestão dos créditos e das respectivas garantias. Com efeito, em relação aos devedores, a titularização dos créditos não implica a diminuição de nenhuma das suas garantias, continuando aqueles, no que ao sector financeiro respeita e não obstante a ausência de notificação da cessão, a manter todos os seus direitos e todo o seu relacionamento com a instituição financeira cedente.
+
+A competitividade do instrumento financeiro à luz da natureza do mesmo - que permite a transferência, em massa, de créditos - e a sua viabilidade estão presentes nas regras sobre os procedimentos formais da cessão e sobre a tutela acrescida dos créditos titularizados.
+
+Não se permite que os créditos sejam retransmitidos pelos veículos de titularização - salvo em casos excepcionais -, permitindo-se apenas a circulação dos mesmos entre sociedades de titularização ou destas para os fundos.
+
+As sociedades de titularização só podem financiar a respectiva actividade por recurso a capitais próprios e a emissões de obrigações, tendo-se criado uma categoria específica de obrigações - as obrigações titularizadas - que permitem obter uma afectação exclusiva de conjuntos de créditos às responsabilidades emergentes da emissão das mesmas, tendo-se igualmente acautelado a modificação da estrutura accionista destas sociedades na pendência de emissões de obrigações, assim se visando acautelar potenciais conflitos de interesses entre accionistas e obrigacionistas.
+
+Julgou-se conveniente não introduzir elementos de rigidez desnecessários na montagem de operações com recurso a fundos, permitindo-se que o regulamento de gestão, com grande amplitude, estabeleça, dentro da moldura legal definida, os direitos a conferir às unidades de titularização, admitindo-se a convivência, numa mesma operação, de unidades de diversas categorias.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Capítulo I — Titularização de créditos
+
+###### Artigo 1.º — Âmbito
+
+1 - O presente decreto-lei estabelece o regime da cessão de créditos e da transferência de riscos para efeitos de titularização e regula a titularização tradicional e sintética, bem como a constituição e o funcionamento dos fundos de titularização de créditos, das sociedades de titularização de créditos e das sociedades gestoras daqueles fundos.
+
+2 - O presente decreto-lei:
+
+a) Executa o Regulamento (UE) 2017/2402, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017 (Regulamento (UE) 2017/2402), que estabelece um regime geral para a titularização e cria um regime específico para a titularização simples, transparente e padronizada (titularização STS) e respetiva regulamentação;
+
+b) Transpõe parcialmente, para a ordem jurídica interna, a Diretiva (UE) 2021/2167, do Parlamento Europeu e do Conselho, de 24 de novembro de 2021, relativa aos gestores de créditos e aos adquirentes de créditos e que altera as Diretivas 2008/48/CE e 2014/17/UE no âmbito da cessão para efeitos de titularização e da equivalência da sua proteção para os devedores.
+
+3 - Para efeitos do disposto no presente decreto-lei, entende-se por titularização uma operação com as características enunciadas na alínea 1) do artigo 2.º do Regulamento (UE) 2017/2402, independentemente de o risco de crédito ser dividido em tranches, que inclui, designadamente:
+
+a) A titularização tradicional, na aceção da alínea 9) do artigo 2.º do Regulamento (UE) 2017/2402, mediante a cessão de créditos;
+
+b) A titularização sintética, na aceção da alínea 10) do artigo 2.º do Regulamento (UE) 2017/2402, mediante a transferência de fluxos financeiros, dos direitos e obrigações ou de riscos, associados a um conjunto de créditos, por intermédio de derivados de crédito ou garantias e sem a consequente cessão dos mesmos, os quais doravante se designam, para efeitos do presente decreto-lei, um património de referência;
+
+c) A titularização STS que preencha os requisitos previstos nos artigos 19.º, 23.º ou 26.º-A do Regulamento (UE) 2017/2402, na sua redação atual;
+
+d) A titularização não STS, compreendendo a transferência de riscos e a cessão de créditos que preencham os requisitos previstos no artigo 4.º do presente decreto-lei.
+
+4 - O disposto no presente decreto-lei aplica-se, com as necessárias adaptações, podendo a Comissão do Mercado de Valores Mobiliários (CMVM) definir, por regulamento, a concretização do respetivo regime:
+
+a) À subscrição ou aquisição, para titularização, incluindo em mercado primário, de obrigações ou outros valores mobiliários representativos de dívida;
+
+b) Às operações de titularização de outros ativos.
+
+5 - Para efeitos do número anterior, qualquer referência no presente decreto-lei a riscos ou créditos é considerada referência aos valores mobiliários subscritos ou adquiridos, e qualquer referência a cedente é considerada referência à sociedade emitente daqueles valores mobiliários.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2026 - Diário da República n.º 50/2026, Série I de 2026-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2026-1071208828), em vigor a partir de 2026-03-17.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), em vigor a partir de 2025-12-10
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+###### Artigo 1.º-A — Cessão de créditos bancários para efeitos de titularização
+
+Em caso de cessão abrangida pelo regime da cessão e da gestão de créditos bancários, que consta do anexo i do Decreto-Lei n.º 103/2025, de 11 de setembro (RCGCB), a cessão de créditos para efeitos de titularização observa ainda, com as necessárias adaptações, o disposto no artigo 6.º, 9.º, 13.º, 27.º, 29.º, 30.º, 34.º e 35.º do referido regime.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 103/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), em vigor a partir de 2025-12-10
+
+###### Artigo 2.º — Intervenientes na titularização
+
+1 - Podem ser intervenientes na titularização, designadamente:
+
+a) Entidades com objeto específico de titularização (EOET): os fundos de titularização de créditos e as sociedades de titularização de créditos;
+
+b) Cedentes: as entidades referidas na alínea 3) do artigo 2.º do Regulamento (UE) 2017/2402, incluindo o Estado e demais pessoas coletivas públicas, as instituições de crédito, as sociedades financeiras, as empresas de investimento, as empresas de seguros, os fundos de pensões e as sociedades gestoras de fundos de pensões;
+
+c) Patrocinadores: uma instituição de crédito, localizada ou não na União Europeia, tal como definida na alínea 1) do n.º 1 do artigo 4.º do Regulamento (UE) 575/2013, do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativo aos requisitos prudenciais para as instituições de crédito e para as empresas de investimento e que altera o Regulamento (UE) n.º 648/2012, ou uma empresa de investimento, prevista no n.º 2 do artigo 293.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, distinta do cedente;
+
+d) Gestores de créditos:
+
+i) Quando não intervenha patrocinador na titularização, as entidades previstas no artigo 5.º do presente decreto-lei;
+
+ii) Quando intervenha patrocinador na titularização, o patrocinador, ou, quando este subcontrate essa função, as sociedades gestoras de organismos de investimento coletivo habilitadas a gerir organismos de investimento coletivo em valores mobiliários (OICVM), as sociedades gestoras de organismos de investimento alternativo de grande dimensão, as instituições de crédito ou as empresas de investimento;
+
+iii) No caso de cessão referida no artigo 1.º-A, intervindo o patrocinador, uma instituição de crédito ou, quando o patrocinador subcontrate essa função, uma entidade habilitada a exercer atividade de gestão de créditos, nos termos do artigo 16.º do regime da cessão e gestão de créditos bancários (RCGCB);
+
+e) Mutuantes iniciais: as entidades que cumpram o disposto na alínea 20) do artigo 2.º do Regulamento (UE) 2017/2402, incluindo o Estado e demais pessoas coletivas públicas, as instituições de crédito, as sociedades financeiras, as empresas de investimento, as empresas de seguros, os fundos de pensões e as sociedades gestoras de fundos de pensões;
+
+f) Entidades independentes: as entidades referidas no n.º 2 do artigo 22.º e no n.º 1 do artigo 26.º do Regulamento (UE) 2017/2402;
+
+g) Terceiros para efeitos do n.º 2 do artigo 27.º do Regulamento (UE) 2017/2402: os terceiros autorizados pela CMVM nos termos do n.º 1 do artigo 28.º do Regulamento (UE) 2017/2402.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2026 - Diário da República n.º 50/2026, Série I de 2026-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2026-1071208828), em vigor a partir de 2026-03-17.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), em vigor a partir de 2025-12-10
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 3.º — Entidades cessionárias
+
+1 - Na titularização tradicional só podem ser cessionários de créditos para titularização:
+
+a) Os fundos de titularização de créditos;
+
+b) As sociedades de titularização de créditos.
+
+2 - O disposto no número anterior é igualmente aplicável no caso de titularização sintética com intervenção de uma EOET.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 4.º — Riscos e créditos suscetíveis de titularização não STS
+
+1 - Sem prejuízo do disposto no número seguinte, só podem ser objeto de transferência ou de cessão para titularização os riscos ou os créditos, vencidos e vincendos, em relação aos quais se verifiquem cumulativamente os seguintes requisitos:
+
+a) A transmissibilidade não se encontrar sujeita a restrições legais ou convencionais;
+
+b) Traduzam fluxos monetários quantificáveis ou previsíveis, designadamente com base em modelos estatísticos;
+
+c) Seja garantida pelo cedente a respetiva existência e exigibilidade;
+
+d) Não serem litigiosos e não se encontrarem dados em garantia nem judicialmente penhorados ou apreendidos.
+
+2 - Sem prejuízo do regime especial aplicável à titularização de créditos tributários, o Estado e a segurança social podem ceder créditos para efeitos de titularização, ainda que esses créditos se encontrem sujeitos a condição ou sejam litigiosos, podendo, neste caso, o cedente não garantir a existência e exigibilidade desses créditos.
+
+3 - Podem ainda ser cedidos ou transferidos para titularização, créditos ou fluxos monetários futuros, respetivamente, desde que emergentes de relações e de montante conhecido ou estimável.
+
+4 - Podem igualmente ser cedidos para titularização créditos hipotecários que tenham sido concedidos ao abrigo de qualquer dos regimes previstos no Decreto-Lei n.º 349/98, de 11 de Novembro.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - Os riscos e créditos suscetíveis de titularização podem ser garantidos por terceiro ou o risco de não cumprimento transferido para empresa de seguros, desde que a entidade que concede garantias ou assume responsabilidades pelo cumprimento não se encontre em relação de domínio ou de grupo com o cedente.
+
+8 - A entidade cedente fica obrigada a revelar ao cessionário os factos relevantes suscetíveis de afetar significativamente o valor global dos créditos que sejam do seu conhecimento à data da produção de efeitos da cessão.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 5.º — Gestão dos créditos quando não intervenha patrocinador
+
+1 - A gestão de créditos objeto de cessão para titularização é assegurada:
+
+a) Por uma entidade habilitada a exercer atividade de gestão de créditos, nos termos do artigo 16.º do RCGCB, contratada por um cessionário nos termos do artigo 11.º do referido regime, quando a titularização abranja créditos referidos no artigo 1.º-A;
+
+b) Pelo cedente, sempre que seja uma empresa de seguros, fundo de pensões ou sociedade gestora de fundos de pensões, mediante a celebração simultânea com a cessão de contrato pelo qual o cedente ou, no caso de fundos de pensões, a respetiva sociedade gestora se obriga a praticar, em representação do cessionário, os atos de gestão de créditos objeto de cessão.
+
+2 - Sem prejuízo do disposto no n.º 4, a gestão dos créditos pode, nas demais situações, ser assegurada pelo cessionário, pelo cedente ou por terceira entidade idónea.
+
+3 - O gestor de créditos em operações de titularização não STS deve ter competências especializadas na gestão de créditos de natureza similar aos titularizados e dispor de políticas, procedimentos e controlos de gestão do risco adequados e devidamente documentados em matéria de gestão dos créditos.
+
+4 - A gestão e cobrança dos créditos tributários objeto de cessão pelo Estado e pela segurança social para efeitos de titularização é assegurada, mediante retribuição, pelo cedente ou pelo Estado através da Autoridade Tributária e Aduaneira.
+
+5 - Em casos devidamente justificados, pode a CMVM autorizar que, nas situações referidas na alínea b) do n.º 1, a gestão dos créditos seja assegurada por entidade diferente do cedente, sem prejuízo do disposto no RCGCB.
+
+6 - Quando o gestor dos créditos não for o cessionário, a oneração e a alienação dos créditos são sempre expressa e individualmente autorizadas por aquele.
+
+7 - A substituição do gestor dos créditos realiza-se nos termos do disposto nos números anteriores.
+
+8 - Sem prejuízo do disposto no artigo 18.º do RCGCB, em caso de insolvência do gestor de créditos, os montantes que estiverem na sua posse decorrentes de pagamentos relativos a créditos cedidos para titularização não integram a massa insolvente.
+
+9 - À gestão do património de referência na titularização sintética é aplicável, com as devidas adaptações, o disposto nos n.ºs 3, 6 e 7.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), em vigor a partir de 2025-12-10
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 6.º — Efeitos da cessão
+
+1 - Sem prejuízo do disposto nos n.os 4 e 9, a eficácia da cessão em relação aos devedores fica dependente de notificação prévia.
+
+2 - A notificação prevista no número anterior pode ser efetuada por carta registada com aviso de receção, considerando-se, para todos os efeitos, a notificação realizada no terceiro dia útil posterior ao do registo da carta, ou, em relação aos devedores que comuniquem previamente o seu consentimento, por correio eletrónico com recibo de leitura, para o endereço constante do contrato do qual emerge o crédito objeto da cessão.
+
+3 - Quando a gestão de créditos não seja efetuada pelo cedente, é objeto de notificação ao devedor, nos termos dos números anteriores:
+
+a) A identificação do gestor de créditos; e
+
+b) A substituição do gestor de créditos.
+
+4 - Quando a entidade cedente seja o Estado, a segurança social, instituição de crédito, sociedade financeira, empresa de seguros, fundo de pensões ou sociedade gestora de fundo de pensões, a cessão de créditos para titularização que não se encontrem em incumprimento produz efeitos em relação aos respetivos devedores no momento em que se tornar eficaz entre o cedente e o cessionário, não dependendo do conhecimento ou notificação desses devedores, desde que a entidade cedente assuma as funções de gestor de créditos.
+
+5 - Em casos devidamente justificados, a CMVM pode autorizar que o disposto no número anterior seja igualmente aplicável quando a entidade que mantém as relações com os devedores, ainda que distinta do cedente, assegure a gestão dos créditos.
+
+6 - Dos meios de defesa que lhes seria lícito invocar contra o cedente, os devedores dos créditos objeto de cessão só podem opor ao cessionário aqueles que provenham de facto anterior ao momento em que a cessão se torne eficaz entre o cedente e o cessionário.
+
+7 - A cessão de créditos para titularização respeita sempre as situações jurídicas de que emergem os créditos objeto de cessão e todos os direitos e garantias dos devedores oponíveis ao cedente dos créditos, designadamente quanto ao exercício dos respetivos direitos em matéria de reembolso antecipado, de renegociação das condições do crédito, cessão da posição contratual e sub-rogação, mantendo estes todas as relações exclusivamente com o cedente caso este seja uma das entidades referidas no n.º 4.
+
+8 - No caso de cessão para titularização de quaisquer créditos hipotecários concedidos ao abrigo de qualquer dos regimes previstos no Decreto-Lei n.º 349/98, de 11 de Novembro, as entidades cessionárias passarão, por efeito da cessão, a ter também direito a receber quaisquer subsídios aplicáveis, não sendo os regimes de crédito previstos naquele decreto-lei de forma alguma afetados pela titularização dos créditos em causa.
+
+9 - Salvo no caso previsto no n.º 4, quando se trate de um crédito referido no artigo 1.º-A, a produção de efeitos da cessão depende:
+
+a) Da contratação prevista na alínea a) do n.º 1 do artigo anterior; e
+
+b) Do envio da notificação prevista no n.º 1 do artigo seguinte.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), em vigor a partir de 2025-12-10
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), produz efeitos a partir de 2008-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 6.º-A — Comunicação em cessão de créditos bancários para efeitos de titularização
+
+1 - A notificação prevista na alínea b) do n.º 9 do artigo anterior é efetuada no prazo de 10 dias após a cessão e, em qualquer caso, antes da primeira cobrança, em papel ou noutro suporte duradouro, redigida em linguagem clara e compreensível para o público em geral e contém, pelo menos, os seguintes elementos:
+
+a) A ocorrência da cessão e a respetiva data;
+
+b) A identificação e os elementos de contacto do cessionário;
+
+c) A identificação e os elementos de contacto da entidade habilitada a exercer a atividade de gestão de créditos, incluindo, quando aplicável, os prestadores de serviços de gestão de créditos subcontratados para a gestão dos mesmos;
+
+d) Os elementos comprovativos da autorização como gestor de créditos, se aplicável;
+
+e) Os dados de contacto, apresentados de modo destacado, do ponto de referência no gestor de créditos ou, quando aplicável, no prestador de serviços de gestão de créditos;
+
+f) Os valores em dívida pelo devedor no momento da comunicação a título de capital, juros, comissões e outros encargos;
+
+g) Uma declaração sobre a manutenção da aplicação da legislação e regulamentação aplicável ao crédito após a cessão, designadamente em matéria contratual, de defesa dos consumidores e dos restantes devedores;
+
+h) O nome, endereço e outros elementos de contacto da autoridade competente do Estado-Membro onde o devedor está domiciliado ou estabelecido e pode apresentar uma reclamação.
+
+2 - O devedor pode solicitar que lhe seja prestada a informação referida no número anterior, em termos atualizados à data do pedido, devendo a mesma ser-lhe disponibilizada no prazo de cinco dias após a solicitação.
+
+3 - Qualquer comunicação subsequente com o devedor contém:
+
+a) Os elementos previstos na alínea e) do n.º 1; e
+
+b) Os elementos previstos nas alíneas c) e d) do n.º 1, no caso da primeira comunicação subsequente à substituição do gestor de créditos que deve ser enviada ao devedor no prazo de cinco dias contados do início das suas funções.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 103/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), em vigor a partir de 2025-12-10
+
+###### Artigo 7.º — Forma do contrato de cessão de créditos ou de transferência de riscos
+
+1 - O contrato de cessão de créditos, ou de transferência dos respetivos riscos, para titularização pode ser celebrado por documento particular, ainda que tenha por objeto ou referência créditos hipotecários.
+
+2 - Para efeitos de averbamento no registo da transmissão dos créditos hipotecários, ou outras garantias sujeitas a registo, o documento particular referido no número anterior constitui título bastante desde que contenha o reconhecimento presencial das assinaturas nele apostas, efetuado por notário ou, se existirem, pelos secretários das sociedades intervenientes.
+
+3 - O disposto nos números anteriores aplica-se igualmente às transmissões efetuadas nos termos das alíneas b) e c) do artigo 11.º, do n.º 5 do artigo 38.º e do artigo 45.º
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), produz efeitos a partir de 2008-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 8.º — Tutela dos ativos
+
+1 - A cessão de créditos para titularização:
+
+a) Só pode ser objeto de impugnação pauliana no caso de os interessados provarem a verificação dos requisitos previstos nos artigos 610.º e 612.º do Código Civil, não sendo aplicáveis as presunções legalmente estabelecidas, designadamente no n.º 4 do artigo 120.º e no artigo 121.º do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Decreto-Lei n.º 53/2004, de 18 de março;
+
+b) Não pode ser resolvida em benefício da massa insolvente, exceto se os interessados provarem que as partes agiram de má-fé.
+
+2 - Não fazem parte da massa insolvente do cedente os montantes pagos no âmbito de créditos cedidos para titularização anteriormente à declaração de insolvência e que apenas se vençam depois dela.
+
+3 - O direito de impugnação referido na alínea a) do n.º 1 caduca ao fim de três anos, contados a partir da data do ato impugnável.
+
+4 - O património de referência no âmbito de operações de titularização sintética:
+
+a) Constitui património segregado e não responde por quaisquer dívidas da entidade cedente até ao pagamento integral dos montantes devidos aos titulares das unidades de titularização ou das obrigações titularizadas e das despesas e encargos relacionadas com a respetiva emissão, devendo o mesmo ser adequadamente registado em contas segregadas na contabilidade daquela entidade e identificado sob forma codificada no contrato de transferência dos respetivos riscos, fluxos financeiros ou direitos e obrigações;
+
+b) Em caso de dissolução e liquidação da entidade cedente, é separado da massa insolvente, tendo em vista a sua gestão autónoma.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 8.º-A — Supervisão
+
+1 - Compete à CMVM a supervisão do cumprimento dos deveres previstos no presente capítulo.
+
+2 - Compete ao Banco de Portugal a supervisão, com os poderes e nos termos do RCGCB, do cumprimento dos deveres previstos no artigo 1.º-A, na subalínea iii) da alínea d) do n.º 1 do artigo 2.º, na alínea a) do n.º 1 do artigo 5.º, no n.º 9 do artigo 6.º e no artigo 6.º-A.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), em vigor a partir de 2025-12-10
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+### Capítulo II — Fundos de titularização de créditos
+
+#### Secção I — Fundos de titularização de créditos
+
+###### Artigo 9.º — Noção
+
+1 - Os fundos de titularização de créditos, adiante designados por fundos, são patrimónios autónomos pertencentes, no regime especial de comunhão regulado no presente decreto-lei, a uma pluralidade de pessoas, singulares ou coletivas, não respondendo, em caso algum, pelas dívidas destas pessoas, das entidades que, nos termos da lei, asseguram a sua gestão e das entidades às quais hajam sido adquiridos os créditos que os integrem.
+
+2 - Os fundos são divididos em parcelas que revestem a forma de valores escriturais com o valor nominal que for previsto no regulamento de gestão do fundo e são designadas por unidades de titularização de créditos, adiante apenas unidades de titularização.
+
+3 - O número de unidades de titularização de cada fundo é determinado no respetivo regulamento de gestão.
+
+4 - A responsabilidade de cada titular de unidades de titularização pelas obrigações do fundo é limitada ao valor das unidades de titularização subscritas.
+
+###### Artigo 10.º — Modalidades de fundos
+
+1 - Os fundos podem ser de património variável ou de património fixo.
+
+2 - São de património variável os fundos cujo regulamento de gestão preveja, cumulativa ou exclusivamente:
+
+a) A aquisição de novos créditos ou a transferência de riscos, direitos e obrigações a eles inerentes, quer quando o fundo detenha créditos ou riscos de prazo inferior ao da sua duração, por substituição destes na data do respetivo vencimento, quer em adição aos créditos ou riscos adquiridos no momento da constituição do fundo;
+
+b) A realização de novas emissões de unidades de titularização.
+
+3 - São de património fixo os fundos em relação aos quais não seja possível, nos termos do número anterior, modificar os respetivos ativos ou passivos.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 11.º — Modificação do ativo dos fundos
+
+1 - Os fundos de património fixo ou de património variável podem sempre adquirir novos créditos desde que o respetivo regulamento de gestão o preveja e se verifique alguma das seguintes situações:
+
+a) Cumprimento antecipado dos créditos detidos pelo fundo;
+
+b) Alteração das características dos créditos que determinaram a sua integração na carteira do fundo, nomeadamente no âmbito da renegociação das respetivas condições entre o devedor e a entidade cedente, caso em que pode o fundo proceder à retransmissão do crédito abrangido ao cedente;
+
+c) Existência de vícios ocultos em relação a créditos detidos pelo fundo.
+
+2 - A CMVM define, por regulamento, as condições e limites para a modificação do ativo dos fundos ao abrigo do disposto na alínea b) do número anterior.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), produz efeitos a partir de 2008-10-12
+
+###### Artigo 12.º — Composição do património dos fundos
+
+1 - Os fundos devem aplicar os seus ativos na aquisição inicial ou subsequente de créditos, nos termos do presente decreto-lei e do respetivo regulamento de gestão, os quais não podem representar menos de 75% do ativo do fundo.
+
+2 - Os fundos podem ainda, a título acessório e na medida adequada para assegurar uma gestão eficiente do fundo, aplicar as respetivas reservas de liquidez em:
+
+a) Depósitos bancários em Euros;
+
+b) Fundos do mercado monetário, na aceção do Regulamento (UE) 2017/1131, do Parlamento Europeu e do Conselho, de 14 de junho de 2017, relativo aos fundos do mercado monetário; ou
+
+c) Títulos de dívida, pública ou privada, de curto prazo, transacionados em mercado regulamentado, com notação de risco mínimo de investimento ou equivalente, atribuído por sociedade de notação registada na Autoridade Europeia dos Valores Mobiliários e dos Mercados (ESMA).
+
+3 - Os ativos adquiridos nos termos do número anterior devem revestir as características necessárias para que a sua detenção pelo fundo não prejudique a notação de risco que tenha sido atribuída às unidades de titularização, podendo a CMVM concretizar em regulamento os ativos que para esse efeito não sejam elegíveis.
+
+4 - O passivo dos fundos pode abranger as responsabilidades emergentes das unidades de titularização, referidas no n.º 1 do artigo 32.º, de contratos de empréstimo, de contratos destinados à cobertura de riscos e das remunerações devidas pelos serviços que lhes sejam prestados, designadamente pela sociedade gestora.
+
+5 - Os créditos do fundo só podem ser objeto de oneração ou de alienação nas seguintes situações:
+
+a) Retransmissão ao cedente e aquisição de novos créditos em substituição, nos termos do disposto nas alíneas b) e c) do n.º 1 do artigo 11.º e no Regulamento (UE) 2017/2402, e respetiva regulamentação e atos delegados;
+
+b) Créditos do fundo dados em garantia, nos termos do disposto no artigo 13.º;
+
+c) Créditos que integram o fundo à data da liquidação, nos termos do disposto no n.º 5 do artigo 38.º;
+
+d) Alienação de créditos pelo fundo a qualquer entidade, se se tratar de créditos em situação de incumprimento;
+
+e) Alienação de créditos em cumprimento a outros fundos de titularização de créditos, a sociedades de titularização de créditos, a instituições de crédito, a sociedades financeiras e organismos de investimento alternativo de créditos.
+
+6 - Os créditos cedidos pelo Estado e pela segurança social para efeitos de titularização não são suscetíveis de posterior cessão pela entidade cessionária a terceiros, salvo para fundos de titularização de créditos ou sociedades de titularização de créditos com o consentimento do Estado ou da segurança social, conforme aplicável.
+
+7 - Os fundos podem ainda integrar imóveis no seu ativo, quando estes sejam adquiridos em resultado de dação em pagamento ou da execução de garantias reais associadas aos ativos detidos, devendo os imóveis ser alienados no prazo máximo de dois anos a contar da data em que tenham integrado o referido património, o qual, havendo motivo fundado, poderá ser prorrogado, nos termos a fixar em regulamento da CMVM.
+
+8 - Os fundos que realizem operações de titularização sintética devem verificar o limite a que se refere o n.º 1 relativamente à exposição proporcionada pelos instrumentos de transferência de riscos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), em vigor a partir de 2025-12-10
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), produz efeitos a partir de 2008-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 13.º — Empréstimos
+
+1 - Para dotar o fundo das necessárias reservas de liquidez, as sociedades gestoras podem contrair empréstimos por conta dos fundos que administrem, desde que o regulamento de gestão o permita.
+
+2 - A CMVM pode estabelecer, por regulamento, as condições e os limites em que, com finalidades distintas da prevista no n.º 1, as sociedades gestoras podem contrair empréstimos por conta dos fundos que administrem, incluindo junto de entidades que tenham transmitido créditos para os fundos, bem como dar em garantia créditos detidos pelos fundos, designadamente estabelecer limites, em relação ao valor global do fundo, os quais poderão variar em função da forma de comercialização das unidades de titularização e da especial qualificação dos investidores que possam deter as referidas unidades de titularização.
+
+###### Artigo 14.º — Cobertura de riscos
+
+1 - As sociedades gestoras podem recorrer, por conta dos fundos que administrem, nos termos e condições previstas no regulamento de gestão, a técnicas e instrumentos de cobertura de risco, designadamente contratos de swap de taxas de juro e de divisas.
+
+2 - A CMVM pode estabelecer, por regulamento, as condições e limites em que as sociedades gestoras podem recorrer a técnicas e instrumentos de cobertura de risco.
+
+#### Secção II — Sociedades gestoras
+
+###### Artigo 15.º — Administração dos fundos
+
+1 - A administração dos fundos deve ser exercida por uma sociedade gestora de fundos de titularização de créditos, adiante designada apenas por sociedade gestora, ou por outras entidades legalmente habilitadas.
+
+2 - As sociedades gestoras devem ter a sua sede e a sua administração efetiva em Portugal.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 16.º — Sociedades gestoras
+
+1 - As sociedades gestoras devem ter por objeto exclusivo a administração, por conta dos detentores das unidades de titularização, de um ou mais fundos.
+
+2 - As sociedades gestoras não podem transferir para terceiros, total ou parcialmente, os poderes de administração dos fundos que lhe são conferidos por lei, sem prejuízo da possibilidade de recorrerem aos serviços de terceiros que se mostrem convenientes para o exercício da sua atividade, designadamente para o efeito da gestão dos créditos detidos pelos fundos e das respetivas garantias, bem como da aplicação de reservas de liquidez.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 17.º — Requisitos gerais
+
+1 - As sociedades gestoras adotam o tipo de sociedade anónima.
+
+2 - O capital inicial mínimo das sociedades gestoras é de (euro) 125 000.
+
+3 - Para efeitos do presente decreto-lei, o conceito de capital inicial é o definido na alínea b) do n.º 1 do artigo 2.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual.
+
+4 - O capital social das sociedades gestoras deve estar integralmente realizado desde o momento da sua constituição e ser representado por ações escriturais e nominativas.
+
+5 - A firma das sociedades gestoras deve incluir a expressão «sociedade gestora de fundos de titularização de créditos» ou a abreviatura SGFTC.
+
+6 - A direção efetiva das sociedades gestoras deve ser assegurada por pelo menos duas pessoas que reúnam as condições previstas no n.º 1 do artigo 17.º-H.
+
+7 - É vedado aos membros dos órgãos de administração das sociedades gestoras e às pessoas que com as mesmas mantiverem contrato de trabalho exercer quaisquer funções em outras sociedades gestoras.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 17.º-A — Autorização
+
+1 - As sociedades gestoras não podem iniciar a sua atividade enquanto não forem autorizadas pela CMVM.
+
+2 - As sociedades gestoras devem satisfazer de forma contínua as condições da autorização.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 17.º-B — Instrução do pedido de autorização
+
+1 - Sem prejuízo do disposto nos números seguintes, o pedido de autorização é instruído com os seguintes elementos:
+
+a) Elementos que permitam comprovar o preenchimento dos requisitos previstos no n.º 2 do artigo 15.º, no n.º 1 do artigo 16.º, nos n.os 1 a 6 do artigo 17.º e no artigo 19.º;
+
+b) Programa de atividades;
+
+c) Estrutura organizacional e meios humanos, técnicos e materiais;
+
+d) Políticas e procedimentos internos;
+
+e) Informação sobre a identidade e adequação dos membros dos órgãos de administração e fiscalização;
+
+f) Informação sobre a estrutura acionista da sociedade gestora e sobre a identidade, a adequação e o montante da participação dos titulares de participações qualificadas, incluindo a identidade do último beneficiário ou beneficiários efetivos;
+
+g) Informação sobre as políticas e as práticas de remuneração previstas no artigo 18.º-B.
+
+2 - A CMVM pode concretizar e desenvolver por regulamento os elementos instrutórios referidos no número anterior.
+
+3 - A CMVM pode solicitar ao requerente esclarecimentos e informações suplementares, sugerir alterações aos documentos referidos no n.º 1, realizar as averiguações que considere necessárias e verificar, através de inspeção presencial, a existência dos meios necessários ao exercício da atividade.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 17.º-C — Prazo de decisão
+
+1 - A CMVM notifica o requerente da sua decisão no prazo de três meses a contar da data da receção do pedido completamente instruído.
+
+2 - Para efeitos do número anterior, considera-se que o pedido está completamente instruído quando forem apresentados à CMVM todos os elementos referidos no artigo anterior.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 17.º-D — Concessão e recusa de autorização
+
+1 - A concessão de autorização depende da verificação das seguintes condições:
+
+a) Cumprimento dos requisitos previstos na alínea a) do n.º 1 do artigo 17.º-B;
+
+b) Cumprimento dos requisitos de adequação previstos nos artigos 17.º-H e 17.º-I.
+
+2 - A CMVM recusa a autorização quando:
+
+a) Não estejam verificadas as condições previstas no número anterior;
+
+b) O conteúdo dos elementos instrutórios seja insuficiente ou não respeite a legislação aplicável.
+
+3 - Concedida a autorização, as sociedades gestoras informam imediatamente a CMVM da data de início de atividade.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 17.º-E — Revogação e suspensão da autorização
+
+1 - A CMVM revoga a autorização se:
+
+a) A autorização tiver sido obtida com recurso a falsas declarações ou a qualquer outro meio irregular;
+
+b) A sociedade gestora deixar de cumprir as condições de concessão da autorização;
+
+c) A sociedade gestora violar grave ou sistematicamente as normas aplicáveis ao exercício da sua atividade;
+
+d) A sociedade gestora não iniciar a atividade no prazo de 12 meses a contar da notificação da concessão da autorização;
+
+e) A sociedade gestora tiver cessado o exercício da atividade há pelo menos seis meses;
+
+f) A sociedade gestora renunciar expressamente à autorização.
+
+2 - Nos casos referidos nas alíneas a) a c) do número anterior, a CMVM pode, em alternativa, se tal se mostrar suficiente e adequado, suspender, total ou parcialmente, os efeitos da autorização até que cesse o fundamento da revogação.
+
+3 - A CMVM pode prorrogar os prazos previstos nas alíneas d) e e) do n.º 1 a requerimento devidamente fundamentado da sociedade gestora.
+
+4 - A revogação da autorização tem as seguintes consequências:
+
+a) Cessa imediatamente a habilitação para a entidade exercer a atividade autorizada;
+
+b) A entidade deve alterar imediatamente a sua firma e objeto e promover o registo com urgência dessa alteração.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 17.º-F — Alterações subsequentes
+
+Às alterações subsequentes das condições iniciais de autorização da sociedade gestora é aplicável, com as devidas adaptações, o disposto nos n.ºs 3 e 4 do artigo 71.º-J do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 17.º-G — Fusão, cisão e dissolução
+
+1 - As operações de fusão e de cisão que envolvam sociedades gestoras estão sujeitas a autorização prévia da CMVM.
+
+2 - A CMVM decide no prazo de 90 dias a contar da receção do pedido completamente instruído.
+
+3 - A CMVM pode concretizar e desenvolver por regulamento os elementos instrutórios que devem acompanhar o pedido de autorização referido no número anterior.
+
+4 - Caso as operações de fusão ou cisão impliquem a constituição de uma nova sociedade gestora, segue-se o procedimento de autorização previsto nos artigos 17.º-A a 17.º-D.
+
+5 - Os acionistas comunicam à CMVM qualquer projeto de dissolução voluntária de uma sociedade gestora, com a antecedência mínima de 90 dias em relação à data da sua efetivação.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 17.º-H — Adequação dos membros dos órgãos de administração e fiscalização
+
+1 - Os membros dos órgãos de administração e fiscalização das sociedades gestoras são pessoas com idoneidade e experiência comprovadas.
+
+2 - À apreciação e supervisão dos critérios de adequação referidos no número anterior é aplicável, com as devidas adaptações, o disposto nos artigos 71.º-T e 71.º-U do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 17.º-I — Adequação dos titulares de participações qualificadas
+
+1 - Os titulares de participações qualificadas em sociedade gestora são pessoas adequadas, considerando a necessidade de garantir uma gestão sã e prudente da sociedade.
+
+2 - Para efeitos do presente decreto-lei, o conceito de participação qualificada é o definido na alínea ff) do n.º 1 do artigo 2.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual.
+
+3 - As sociedades gestoras comunicam imediatamente à CMVM quaisquer alterações relativas à informação sobre participações qualificadas apresentada no momento da autorização.
+
+4 - A comunicação referida no número anterior é instruída com os elementos previstos na alínea f) do n.º 1 do artigo 17.º-B.
+
+5 - À apreciação e supervisão dos critérios de adequação referidos no n.º 1 é aplicável, com as devidas adaptações, o disposto no artigo 71.º-Y do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 18.º — Funções da sociedade gestora
+
+As sociedades gestoras atuam por conta e no interesse exclusivo dos detentores das unidades de titularização do fundo, competindo-lhes praticar todos os atos e operações necessários ou convenientes à boa administração do fundo, de acordo com critérios de elevada diligência e competência profissional, designadamente:
+
+a) Aplicar os ativos do fundo na aquisição de créditos, de acordo com a lei e o regulamento de gestão, proceder, no caso previsto no n.º 1 do artigo 6.º, à notificação da cessão aos respetivos devedores e, quando se trate de créditos hipotecários, promover o averbamento da transmissão no registo predial;
+
+b) Praticar todos os atos e celebrar todos os contratos necessários ou convenientes para a emissão das unidades de titularização;
+
+c) Contrair empréstimos por conta do fundo, nos termos do artigo 13.º, desde que o regulamento de gestão do fundo o permita;
+
+d) Gerir os montantes pagos pelos devedores dos créditos que integrarem o fundo;
+
+e) Calcular e mandar efetuar os pagamentos correspondentes aos rendimentos e reembolsos das unidades de titularização;
+
+f) Pagar as despesas que, nos termos do regulamento de gestão, caiba ao fundo suportar;
+
+g) Manter em ordem a escrita do fundo;
+
+h) Dar cumprimento aos deveres de informação estabelecidos em legislação nacional ou europeia, ou pelo regulamento de gestão;
+
+i) Informar a CMVM, sempre que esta o solicite, sobre as aplicações referidas no n.º 2 do artigo 12.º;
+
+j) (Revogada.)
+
+l) Autorizar a alienação e a oneração de créditos do fundo, nos casos previstos nos n.ºs 5 e 6 do artigo 12.º;
+
+m) Respeitar e assegurar o cumprimento das normas aplicáveis do regulamento de gestão do fundo e dos contratos celebrados no âmbito da atividade do mesmo.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+###### Artigo 19.º — Fundos próprios
+
+Às sociedades gestoras aplica-se o disposto nos n.os 1, 2 e 4 do artigo 71.º-M do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 20.º — Acesso ao mercado interbancário
+
+As sociedades gestoras podem no exercício das respetivas funções ter acesso ao mercado interbancário, nas condições definidas pelo Banco de Portugal.
+
+###### Artigo 21.º — Operações vedadas
+
+Às sociedades gestoras é especialmente vedado:
+
+a) Contrair empréstimos por conta própria;
+
+b) Onerar, por qualquer forma, ou alienar os créditos que integrem o fundo, exceto nos casos previstos nos n.ºs 5 e 6 do artigo 12.º;
+
+c) Adquirir, por conta própria, instrumentos financeiros de qualquer natureza, com exceção dos títulos de dívida pública emitidos por países da zona euro e dos instrumentos do mercado monetário previstos no artigo 169.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual;
+
+d) Conceder crédito, incluindo prestação de garantias, por conta própria ou por conta dos fundos que administrem;
+
+e) Adquirir imóveis além do indispensável à prossecução direta da sua atividade e que excedam o montante dos seus fundos próprios obrigatórios.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+###### Artigo 22.º — Substituição da sociedade gestora
+
+1 - Em casos excecionais, a CMVM pode autorizar a substituição da sociedade gestora, a requerimento desta e desde que sejam acautelados os interesses dos detentores de unidades de titularização do fundo.
+
+2 - Caso seja revogada a autorização da sociedade gestora ou se verifique outra causa de dissolução da sociedade, a CMVM pode determinar a substituição da sociedade gestora.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 22.º-A — Regras de exercício
+
+1 - As sociedades gestoras atuam com profissionalismo e observam, a todo o momento, com as necessárias adaptações, as regras gerais de conduta previstas no artigo 72.º-A do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual.
+
+2 - As sociedades gestoras respondem perante os participantes nos termos do disposto no n.º 3 do artigo 65.º do Regime Geral dos Organismos de Investimento Coletivo aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual, com as necessárias adaptações.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 22.º-B — Regras de organização
+
+1 - As sociedades gestoras dispõem, a todo o tempo, de uma estrutura organizacional e de políticas e procedimentos internos adequados, apropriados e necessários para prestar os seus serviços com respeito pelas regras de atuação referidas no artigo anterior, tendo em conta a natureza, a escala e a complexidade da sua atividade.
+
+2 - Para efeitos do disposto no número anterior, as sociedades gestoras observam, em especial, com as necessárias adaptações, as seguintes regras e requisitos do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual:
+
+a) Os requisitos gerais de organização previstos no artigo 79.º-G;
+
+b) As regras em matéria de organização e de procedimentos internos previstas nos n.os 1, 3 e 4 do artigo 79.º-H;
+
+c) As regras de conservação de registos previstas nos n.os 1 a 4 do artigo 88.º;
+
+d) As regras em matéria de conflitos de interesses previstas nos n.os 1 a 4 do artigo 89.º-A.
+
+3 - No estabelecimento, aplicação e manutenção do seu sistema de controlo interno, as sociedades gestoras devem, em especial:
+
+a) Estabelecer, aplicar e manter políticas e procedimentos adequados em matéria de verificação do cumprimento (compliance) e de gestão de riscos, aplicando-se, com as necessárias adaptações, o n.º 1 do 79.º-L e as alíneas a) a c) do n.º 1 do artigo 78.º-A do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual;
+
+b) Quando apropriado e necessário em função da natureza, escala e complexidade da sua atividade, estabelecer funções permanentes de verificação do cumprimento (compliance), gestão de riscos e de auditoria interna, aplicando-se, nesse caso, com as necessárias adaptações e na medida do necessário, o disposto nos n.os 3 a 5 do artigo 79.º-L, nos n.º 1 do artigo 79.º-M, nos n.os 1 e 2 e na alínea a) do n.º 3 do artigo 79.º-N do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual.
+
+4 - A CMVM pode concretizar e desenvolver por regulamento as regras de organização aplicáveis às sociedades gestoras.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+###### Artigo 22.º-C — Política de remuneração
+
+1 - As sociedades gestoras estabelecem e aplicam políticas de remuneração que sejam consentâneas e promovam uma gestão sólida e eficaz dos riscos e não encorajem a assunção de riscos incompatíveis com os perfis de risco de crédito e os critérios de elegibilidade definidos em cada fundo de titularização de créditos sob gestão, de uma forma e na medida adequadas à sua dimensão e organização interna e à natureza, âmbito e complexidade das suas atividades.
+
+2 - A CMVM pode concretizar e desenvolver por regulamento o disposto no número anterior.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+#### Secção III — Depositário
+
+###### Artigo 23.º — Depósito dos valores dos fundos
+
+1 - Devem ser confiados a um único depositário os valores que integram o fundo, designadamente:
+
+a) Os montantes recebidos a título de pagamento de juros ou de reembolso de capital respeitantes aos créditos que integram o fundo;
+
+b) Os valores mobiliários adquiridos por conta do fundo, nos termos do n.º 2 do artigo 12.º;
+
+c) Os montantes resultantes de empréstimos contraídos pela sociedade gestora por conta do fundo, de acordo com o artigo 13.º, desde que o regulamento de gestão o permita.
+
+2 - Podem ser depositárias as instituições de crédito referidas nas alíneas a) a f) do artigo 3.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, que disponham de fundos próprios não inferiores a (euro) 7500000.
+
+3 - O depositário deve ter a sua sede em Portugal ou, se tiver a sua sede em outro Estado-Membro da Comunidade Europeia, deve estar estabelecido em Portugal através de sucursal.
+
+4 - As relações entre a sociedade gestora e o depositário são regidas por contrato escrito.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 24.º — Funções do depositário
+
+1 - Compete, designadamente, ao depositário:
+
+a) Receber, em depósito, os valores do fundo e guardar todos os documentos e outros meios probatórios relativos aos créditos que integrem o fundo e que não tenham sido conservados pelo respectivo cedente;
+
+b) Receber em depósito ou inscrever em registo os valores mobiliários que, nos termos do n.º 2 do artigo 12.º, integrem o fundo;
+
+c) Efectuar todas as aplicações dos activos do fundo de que a sociedade gestora o incumba, de acordo com as instruções desta;
+
+d) Quando o regulamento de gestão o preveja, cobrar por conta do fundo, e de acordo com as instruções da sociedade gestora, os juros e capital dos créditos que integrem o fundo, bem como praticar todos os demais actos que se revelem adequados à boa administração dos créditos;
+
+e) Pagar aos detentores das unidades de titularização, nos termos das instruções transmitidas pela sociedade gestora, os rendimentos periódicos e proceder ao reembolso daquelas unidades de titularização;
+
+f) Executar todas as demais instruções que lhe sejam transmitidas pela sociedade gestora;
+
+g) No caso de, em relação à sociedade gestora, se verificar alguma das situações previstas no n.º 2 do artigo 22.º, propor à CMVM a sua substituição;
+
+h) Assegurar que nas operações relativas aos valores que integram o fundo a contrapartida lhe seja entregue nos prazos conformes à prática do mercado;
+
+i) Assegurar que os rendimentos do fundo sejam aplicados em conformidade com a lei e o regulamento de gestão;
+
+j) Assumir uma função de vigilância e garantir perante os detentores de unidades de titularização o cumprimento do regulamento de gestão.
+
+2 - O depositário tem o dever de, previamente ao seu cumprimento, verificar a conformidade de todas as instruções recebidas da sociedade gestora com a lei e o regulamento de gestão.
+
+3 - O depositário pode ainda celebrar com a sociedade gestora, actuando por conta do fundo e com observância do disposto no artigo 14.º, contratos de swap, contratos de garantia de taxa de juro ou quaisquer outros destinados a assegurar a cobertura dos riscos do fundo.
+
+4 - O depositário pode adquirir unidades de titularização dos fundos em relação aos quais exerça essas funções.
+
+5 - À substituição do depositário aplica-se o disposto no artigo 22.º, bastando que o pedido de substituição seja apresentado pela sociedade gestora.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+###### Artigo 25.º — Responsabilidade da sociedade gestora
+
+1 - A sociedade gestora responde perante os detentores das unidades de titularização pelo cumprimento das obrigações contraídas nos termos da lei e do regulamento de gestão.
+
+2 - A sociedade gestora é ainda responsável perante os detentores das unidades de titularização pela completude, veracidade, atualidade, clareza, objetividade e licitude da informação contida no regulamento de gestão.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 26.º — Despesas do fundo
+
+O regulamento de gestão deve prever todas as despesas e encargos que devam ser suportados pelo fundo, designadamente as remunerações dos serviços a prestar pela sociedade gestora ou, nos casos em que a lei o permite, por terceiros.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+#### Secção IV — Constituição dos fundos de titularização e regulamento de gestão
+
+###### Artigo 27.º — Registo e comunicação prévia
+
+1 - A constituição de fundos depende de registo prévio na CMVM.
+
+2 - O pedido de registo a apresentar pela sociedade gestora deve ser instruído com os seguintes documentos:
+
+a) Projeto do regulamento de gestão;
+
+b) (Revogada.)
+
+c) Contrato de cessão dos créditos ou de transferência dos respetivos riscos que irão integrar o fundo;
+
+d) Se for caso disso, projeto dos contratos de gestão dos créditos ou de gestão do património de referência, a celebrar nos termos do artigo 5.º;
+
+e) Plano financeiro previsional do fundo, detalhando os fluxos financeiros que se preveem para toda a sua duração e a respetiva afetação aos detentores das unidades de titularização.
+
+3 - Caso as unidades de titularização se destinem a ser emitidas com recurso a subscrição pública, o pedido deve ainda ser instruído com os seguintes documentos:
+
+a) Projeto de prospeto;
+
+b) Contrato de colocação;
+
+c) Relatório elaborado por uma sociedade de notação de risco registada na ESMA.
+
+4 - O relatório de notação de risco a que se refere a alínea c) do número anterior deve conter, pelo menos e sem prejuízo de outros elementos que a CMVM, por regulamento, venha a estabelecer, a apreciação sobre a qualidade do risco associado às unidades de titularização.
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) (Revogada).
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - A CMVM pode solicitar à sociedade gestora os esclarecimentos e as informações complementares que repute adequados, bem como as alterações necessárias aos documentos que instruem o pedido.
+
+8 - A decisão deve ser notificada pela CMVM à requerente no prazo de 30 dias a contar da data de receção do pedido ou das informações complementares ou dos documentos alterados a que se refere o número anterior, mas em caso nenhum depois de decorridos 90 dias sobre a data de apresentação do pedido.
+
+9 - Quando a sociedade gestora requeira que a emissão das unidades de titularização se realize através de oferta pública, a concessão do registo implica a aprovação do respetivo prospeto.
+
+10 - O registo referido no n.º 1 não implica, por parte da CMVM, qualquer garantia quanto ao conteúdo da informação constante dos documentos constitutivos.
+
+11 - Está sujeito a mera comunicação prévia à CMVM a constituição de fundos cujas unidades de titularização não sejam colocadas junto do público e cujos detentores de unidades de titularização sejam apenas investidores profissionais.
+
+12 - A comunicação referida no número anterior deve conter os elementos estabelecidos no n.º 2.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 28.º — Constituição
+
+1 - O fundo considera-se constituído no momento da liquidação financeira da subscrição das unidades de titularização.
+
+2 - O contrato de aquisição dos créditos ou de transferência de riscos produz efeitos na data de constituição do fundo.
+
+3 - No prazo de três dias contados da data de constituição do fundo, a sociedade gestora informa o público sobre esse facto através da divulgação de anúncio em boletim de cotações de mercado regulamentado situado ou a funcionar em território nacional ou no sistema de difusão de informação previsto pelo artigo 367.º do Código dos Valores Mobiliários.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 29.º — Regulamento de gestão
+
+1 - A sociedade gestora deve elaborar um regulamento de gestão para cada fundo que administre.
+
+2 - O regulamento de gestão deve conter, pelo menos, informação sobre os seguintes elementos:
+
+a) Denominação e duração do fundo, bem como identificação da decisão de concessão do registo prévio, se aplicável;
+
+b) Identificação da sociedade gestora;
+
+c) As características dos créditos, ou das categorias homogéneas de créditos, ou, no caso de operações de titularização sintética, dos instrumentos de transferência de riscos, que integram o fundo, assim como o regime da sua gestão, designadamente se estes serviços são prestados pelo fundo, através da sociedade gestora, pelo cedente ou por terceira entidade idónea;
+
+d) Os direitos inerentes a cada categoria de unidades de titularização a emitir pelo fundo, nomeadamente os referidos no artigo 32.º;
+
+e) Regras relativas à ordem de prioridade dos pagamentos a efetuar pelo fundo;
+
+f) Termos e condições de liquidação e partilha do fundo, designadamente sobre a transmissão dos créditos detidos pelo fundo à data de liquidação;
+
+g) Os contratos a celebrar pela sociedade gestora, por conta do fundo, destinados à cobertura de riscos que se preveja que este último possa vir a incorrer, designadamente o risco da insuficiência dos montantes recebidos dos devedores dos créditos do fundo para cumprir as obrigações de pagamento dos rendimentos periódicos e de reembolso das unidades de titularização;
+
+h) Termos e condições dos empréstimos que a sociedade gestora pode contrair por conta do fundo;
+
+i) Remuneração dos serviços da sociedade gestora, respetivos modos de cálculo e condições de cobrança, bem como quaisquer outras despesas e encargos que devam ser suportados pelo fundo;
+
+j) Deveres da sociedade gestora;
+
+l) Termos e condições em que seja admitida a alienação de créditos vencidos.
+
+3 - No caso de fundos de património variável em relação aos quais se encontre prevista, nos termos da alínea a) do n.º 2 do artigo 10.º, a aquisição subsequente de créditos, o regulamento de gestão deve ainda conter informação relativa aos créditos a adquirir em momento posterior ao da constituição do fundo, designadamente sobre:
+
+a) As características dos créditos;
+
+b) O montante máximo dos créditos a adquirir;
+
+c) A calendarização prevista para as aquisições e respetivos montantes;
+
+d) Procedimentos a adotar no caso de, por motivos excecionais, não ser possível concretizar as aquisições previstas.
+
+4 - No caso de fundos de património variável em que se encontre prevista, nos termos da alínea b) do n.º 2 do artigo 10.º, a realização de novas emissões de unidades de titularização, o regulamento de gestão deve ainda conter informação sobre os direitos inerentes às unidades de titularização a emitir, sobre os montantes das emissões, a calendarização prevista para as emissões e sobre as eventuais consequências das novas emissões em relação às unidades de titularização existentes.
+
+5 - Na hipótese de o regulamento de gestão permitir a modificação do ativo do fundo, de acordo com o previsto no artigo 11.º, deve estabelecer os termos e condições em que a mesma se pode realizar.
+
+6 - As informações a prestar sobre as características dos créditos nunca poderão permitir a identificação dos devedores.
+
+7 - As alterações ao regulamento de gestão relativamente às informações previstas nos n.os 2 e 3 são comunicadas previamente à CMVM e tornam-se eficazes no prazo de 15 dias a contar da referida comunicação, desde que a CMVM não se oponha no prazo referido.
+
+8 - As alterações ao regulamento de gestão resultantes da realização de novas emissões de unidades de titularização são comunicadas à CMVM e tornam-se eficazes na data da comunicação, desde que os valores mobiliários a emitir sejam fungíveis com alguma das categorias de valores mobiliários anteriormente emitidos pelo fundo.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+###### Artigo 30.º — Domicílio
+
+Consideram-se domiciliados em Portugal os fundos administrados por sociedade gestora cuja sede esteja situada em território nacional.
+
+#### Secção V — Unidades de titularização
+
+###### Artigo 31.º — Natureza e emissão das unidades de titularização
+
+1 - As unidades de titularização são valores mobiliários, devendo assumir forma escritural.
+
+2 - Ao registo e controlo das unidades de titularização é aplicável o regime dos valores mobiliários escriturais.
+
+3 - As unidades de titularização não podem ser emitidas sem que a importância correspondente ao preço de emissão seja efetivamente integrada no ativo do fundo.
+
+4 - Na data de constituição do fundo, as contas de subscrição das unidades de titularização convertem-se em contas de registo de valores mobiliários, nos termos do Código dos Valores Mobiliários.
+
+5 - A subscrição das unidades de titularização implica a aceitação do regulamento de gestão e confere à sociedade gestora os poderes necessários para que esta administre com autonomia o fundo.
+
+6 - As entidades cedentes podem adquirir unidades de titularização de fundos para os quais hajam transferido créditos ou os respetivos riscos, nomeadamente para cumprimento dos seus deveres de retenção de risco.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 32.º — Direitos inerentes às unidades de titularização
+
+1 - As unidades de titularização conferem aos respetivos detentores, cumulativa ou exclusivamente, os seguintes direitos, nos termos e condições estabelecidos no regulamento de gestão:
+
+a) Direito ao pagamento de rendimentos periódicos;
+
+b) Direito ao reembolso do valor nominal das unidades de titularização;
+
+c) Direito, no termo do processo de liquidação e partilha do fundo, à parte que proporcionalmente lhes competir do montante que remanescer depois de pagos os rendimentos periódicos e todas as demais despesas e encargos do fundo.
+
+2 - Sem prejuízo do direito de exigir o cumprimento do disposto na lei e no regulamento de gestão, os detentores das unidades de titularização não podem dar instruções à sociedade gestora relativamente à administração do fundo.
+
+3 - Desde que o regulamento de gestão o preveja, os fundos podem emitir unidades de titularização de diferentes categorias que confiram direitos iguais entre si mas distintos dos das demais unidades de titularização, designadamente quanto ao grau de preferência no pagamento dos rendimentos periódicos, no reembolso do valor nominal ou no pagamento do saldo de liquidação.
+
+4 - O risco de simples mora ou de incumprimento das obrigações correspondentes aos créditos que integrarem o fundo corre por conta dos titulares das unidades de titularização, não podendo a sociedade gestora ser responsabilizada pela mora ou incumprimento das obrigações referidas no n.º 1 que sejam causados por aquelas circunstâncias, sem prejuízo do disposto nos n.os 1 e 2 do artigo 25.º
+
+###### Artigo 33.º — Reembolso antecipado das unidades de titularização
+
+A sociedade gestora pode, desde que o regulamento de gestão o preveja, proceder, antes da liquidação e partilha do fundo, em uma ou mais vezes, a reembolsos parciais ou integrais das unidades de titularização, contanto que seja assegurada a igualdade de tratamento dos detentores de unidades da mesma categoria.
+
+###### Artigo 34.º — Oferta pública de subscrição de unidades de titularização
+
+1 - A emissão de unidades de titularização pode efetuar-se com recurso a subscrição pública, sendo aplicável à oferta o disposto no Código dos Valores Mobiliários.
+
+2 - O lançamento da oferta pública de subscrição é feito pela sociedade gestora, através da divulgação do prospeto nos termos do Regulamento (CE) n.º 809/2004, da Comissão, de 29 de Abril.
+
+3 - A CMVM define, por regulamento, a informação a constar do prospeto de fundos de titularização de património variável, designadamente:
+
+a) O conteúdo integral do regulamento de gestão;
+
+b) As partes do relatório de notação de risco a que alude a alínea c) do n.º 3 do artigo 27.º que devem ser reproduzidas;
+
+c) Súmula do plano financeiro previsional do fundo;
+
+d) Relatório de auditoria sobre os pressupostos e a consistência do plano previsional do fundo.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 35.º — Negociação
+
+As unidades de titularização de fundos de titularização de créditos podem ser admitidas à negociação em mercado regulamentado ou em sistema de negociação multilateral ou organizado.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+#### Secção VI — Contas do fundo, informação e supervisão
+
+###### Artigo 36.º — Contas dos fundos
+
+1 - A contabilidade dos fundos é organizada de harmonia com as normas emitidas pela CMVM.
+
+2 - As contas dos fundos são encerradas anualmente com referência a 31 de dezembro e devem ser certificadas por auditor que não integre o conselho fiscal da sociedade gestora.
+
+3 - Até 31 de março de cada ano, a sociedade gestora deve colocar à disposição dos interessados, na sua sede, o balanço e a demonstração de resultados de cada fundo que administre, acompanhados de um relatório elaborado pela sociedade gestora e da certificação legal das contas referida no número anterior.
+
+4 - O relatório da sociedade gestora a que alude o número anterior contém uma descrição das atividades do respetivo exercício e as informações relevantes que permitam aos detentores das unidades de titularização apreciar a evolução da atividade do fundo.
+
+5 - As sociedades gestoras são obrigadas a remeter à CMVM, até 31 de Março de cada ano, ou logo que sejam disponibilizados aos interessados, os documentos referidos no n.º 3.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 37.º — Supervisão e prestação de informação
+
+1 - Compete à CMVM a supervisão das sociedades gestoras e dos fundos.
+
+2 - A CMVM pode, por regulamento:
+
+a) Definir o conteúdo mínimo do relatório de notação de risco previsto na alínea c) do n.º 3 do artigo 27.º e os termos em que essa notação deva ser objeto de revisão;
+
+b) Estabelecer as condições em que pode ser concedida a aprovação de prospeto preliminar de uma oferta pública de subscrição de unidades de titularização de fundo em constituição, com base no qual a sociedade gestora pode desenvolver ações de prospeção e sensibilização do mercado, tendo em vista aferir a viabilidade e verificar as condições em que o fundo pode ser constituído e a oferta lançada;
+
+c) Definir a periodicidade, o modo e o conteúdo da informação a prestar à CMVM e ao público;
+
+d) Definir os motivos e demais requisitos para a prorrogação do prazo de alienação de imóveis que integrem o ativo do fundo em resultado de dação em pagamento ou da execução de garantias reais associadas aos ativos detidos;
+
+e) Estabelecer regras relativas à liquidação e partilha dos fundos de titularização de créditos;
+
+f) Estabelecer requisitos prudenciais adicionais;
+
+g) Estabelecer deveres de informação e de reporte aplicáveis para efeitos de supervisão prudencial.
+
+3 - É aplicável, com as devidas adaptações, o disposto nos artigos 71.º-Q e 71.º-R do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+#### Secção VII — Liquidação e partilha dos fundos
+
+###### Artigo 38.º — Liquidação e partilha
+
+1 - Os detentores das unidades de titularização não podem exigir a liquidação e partilha dos fundos.
+
+2 - Os fundos devem ser liquidados e partilhados no termo do prazo da respetiva duração, só podendo ser liquidados e partilhados antes do termo daquele prazo se o respetivo regulamento de gestão o admitir, designadamente em caso de concentração da totalidade das unidades de titularização numa única entidade.
+
+3 - Os fundos podem ainda ser liquidados e partilhados antes do termo do prazo de duração por determinação da CMVM no caso de ser revogada a autorização da sociedade gestora ou de se verificar outra causa de dissolução da sociedade, não sendo esta substituída.
+
+4 - A conta de liquidação do fundo e a aplicação dos montantes apurados deve ser objeto de apreciação por auditor registado na CMVM.
+
+5 - Os créditos que integrem o fundo à data da liquidação devem ser transmitidos nos termos e condições previstos no regulamento de gestão.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+### Capítulo III — Sociedades de titularização de créditos
+
+#### Secção I — Das sociedades de titularização de créditos
+
+##### Subsecção I — Requisitos gerais
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 39.º — Tipo e objeto
+
+As sociedades de titularização de créditos adotam o tipo de sociedade anónima e têm por objeto exclusivo a realização de operações de titularização de créditos ou de riscos, mediante a sua aquisição, gestão e transmissão e a emissão de obrigações titularizadas para pagamento dos créditos ou dos riscos adquiridos.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 40.º — Firma e capital social
+
+1 - A firma das sociedades de titularização de créditos deve incluir a expressão «sociedade de titularização de créditos» ou a abreviatura STC, as quais, ou outras que com elas se confundam, não podem ser usadas por outras entidades.
+
+2 - Em matéria de capital, é aplicável, com as necessárias adaptações, o disposto nos n.os 2 a 4 do artigo 17.º
+
+3 - [Revogado].
+
+4 - As sociedades de titularização de créditos podem ser constituídas por um único acionista.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 41.º — Adequação dos membros dos órgãos de administração e fiscalização
+
+1 - É aplicável, com as devidas adaptações, às sociedades de titularização de créditos, o disposto no artigo 17.º-H.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 42.º — Adequação dos titulares de participações qualificadas
+
+1 - É aplicável, com as devidas adaptações, às sociedades de titularização de créditos, o disposto no artigo 17.º-I.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21-B/2002 - Diário da República n.º 125/2002, 4º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-b-2002-533808), produz efeitos a partir de 2002-04-10
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 43.º — Fundos próprios
+
+1 - Às sociedades de titularização de créditos aplica-se o disposto no artigo 19.º
+
+2 - [Revogado].
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 44.º — Recursos financeiros
+
+1 - Salvo o disposto no número seguinte, as sociedades de titularização de créditos só podem financiar a sua atividade com fundos próprios e através da emissão de obrigações titularizadas de acordo com os artigos 60.º e seguintes.
+
+2 - Para satisfazer necessidades de liquidez para os efeitos de reembolso e de remuneração das obrigações titularizadas, as sociedades de titularização de créditos podem, por conta dos patrimónios a que se refere o artigo 62.º, recorrer a financiamentos junto de terceiros.
+
+3 - Sem prejuízo da aquisição de novos créditos ou da amortização das obrigações titularizadas, nos termos do artigo 61.º, o produto do reembolso dos créditos titularizados e os respetivos rendimentos só podem ser aplicados em instrumentos de baixo risco e elevada liquidez, a definir em regulamento da CMVM.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21-B/2002 - Diário da República n.º 125/2002, 4º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-b-2002-533808), produz efeitos a partir de 2002-04-10
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 45.º — Transmissão de créditos
+
+1 - Sem prejuízo do disposto nos números seguintes, as sociedades de titularização de créditos só podem ceder créditos a fundos de titularização de créditos, a outras sociedades de titularização de créditos, a instituições de crédito, a sociedades financeiras e a organismos de investimento alternativo de créditos.
+
+2 - As sociedades de titularização de créditos podem transmitir créditos a qualquer entidade, no caso de créditos em situação de incumprimento.
+
+3 - As sociedades de titularização de créditos podem ainda transmitir os créditos de que sejam titulares nos seguintes casos:
+
+a) Retransmissão ao cedente e aquisição de novos créditos em substituição:
+
+i) Em caso de alteração das características dos créditos no âmbito da renegociação das respetivas condições entre o devedor e a entidade cedente; e
+
+ii) Nos termos do Regulamento (UE) 2017/2402;
+
+b) Retransmissão ao cedente em caso de revelação de vícios ocultos.
+
+4 - A CMVM define, por regulamento, as condições e limites para a modificação do ativo das sociedades de titularização de créditos ao abrigo do disposto na alínea b) do número anterior.
+
+5 - Os créditos cedidos pelo Estado e pela segurança social para efeitos de titularização não são suscetíveis de posterior cessão pela entidade cessionária a terceiros, salvo para fundos de titularização de créditos ou sociedades de titularização de créditos com o consentimento do Estado ou da segurança social, conforme aplicável.
+
+6 - As sociedades de titularização de créditos podem ainda adquirir e deter imóveis para os patrimónios segregados, quando estes sejam adquiridos em resultado de dação em pagamento ou da execução de garantias reais associadas aos ativos detidos, devendo os imóveis ser alienados no prazo máximo de dois anos a contar da data em que tenham integrado os referidos patrimónios, o qual, havendo motivo fundado, poderá ser prorrogado, nos termos a fixar em regulamento da CMVM.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), em vigor a partir de 2025-12-10
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 211-A/2008 - Diário da República n.º 213/2008, 1º Suplemento, Série I de 2008-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-2008-626446), produz efeitos a partir de 2008-10-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 46.º — Organização e exercício
+
+É aplicável, com as devidas adaptações, às sociedades de titularização de créditos, o disposto nos artigos 22.º-A a 22.º-C.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+##### Subsecção II — Autorização
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 47.º — Autorização
+
+É aplicável, com as devidas adaptações, às sociedades de titularização de créditos, o disposto nos artigos 17.º-A a 17.º-G.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 48.º — Instrução do pedido
+
+1 - O pedido de autorização é instruído com os seguintes elementos:
+
+a) Projecto de contrato de sociedade;
+
+b) Informação sobre o plano de negócios;
+
+c) Identificação dos accionistas fundadores, com especificação do montante de capital a subscrever por cada um;
+
+d) Identificação dos membros dos órgãos de administração e de fiscalização.
+
+2 - São ainda apresentadas as seguintes informações relativas aos accionistas fundadores que sejam pessoas colectivas titulares de participações qualificadas na sociedade de titularização de créditos a constituir:
+
+a) Cópia dos estatutos actualizados e identificação dos membros do órgão de administração;
+
+b) Cópia dos relatórios de gestão e de contas, dos pareceres dos órgãos de fiscalização e da certificação legal de contas respeitantes aos últimos três anos, acompanhados dos respectivos relatórios de auditoria;
+
+c) Identificação dos titulares de participações qualificadas;
+
+d) Relação das sociedades em cujo capital a pessoa colectiva detenha participações qualificadas, bem como exposição ilustrativa da estrutura do grupo a que pertença.
+
+3 - A CMVM estabelece, por regulamento, os elementos e informações necessários para a identificação dos accionistas fundadores que sejam pessoas individuais e dos membros dos órgãos de administração e de fiscalização e para a apreciação dos requisitos de idoneidade, disponibilidade e experiência profissional exigidos nos termos dos artigos 41.º e 42.º
+
+4 - A junção dos documentos pode ser substituída pela indicação de que os mesmos já se encontram, em termos actualizados, em poder da CMVM.
+
+5 - A CMVM pode solicitar aos requerentes informações complementares que sejam necessárias para a apreciação do pedido de autorização.
+
+6 - A CMVM, antes de decidir, solicita informações ao Banco de Portugal e ao Instituto de Seguros de Portugal respeitantes à idoneidade, à disponibilidade e à experiência profissional, se aplicável, dos membros dos órgãos de administração ou de fiscalização e dos titulares de participações qualificadas, devendo aquelas entidades, se for caso disso, prestar as referidas informações no prazo de 10 dias.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 49.º — Decisão
+
+1 - A decisão deve ser notificada ao requerente no prazo de 15 dias a contar:
+
+a) Do decurso do prazo referido no n.º 6 do artigo anterior; ou
+
+b) Da recepção das informações complementares referidas no n.º 5 do artigo anterior, se a mesma ocorrer após a data prevista na alínea a).
+
+2 - A falta de notificação no prazo referido no número anterior constitui indeferimento tácito do pedido.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 50.º — Recusa de autorização
+
+1 - A autorização é recusada quando:
+
+a) O pedido de autorização não estiver instruído com todas as informações e documentos necessários;
+
+b) Algum dos documentos que instruem o respectivo pedido for falso ou não estiver em conformidade com os requisitos legais ou regulamentares;
+
+c) A CMVM não considerar demonstrado que todos os titulares de participações qualificadas ou que todos os membros dos órgãos de administração ou de fiscalização satisfazem os requisitos estabelecidos nos artigos 41.º e 42.º
+
+2 - Antes da recusa, a CMVM deve notificar o requerente para suprir, em prazo razoável, os vícios sanáveis.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 51.º — Caducidade da autorização
+
+1 - A autorização caduca se a sociedade de titularização de créditos não iniciar a actividade no prazo de nove meses a contar da sua notificação.
+
+2 - A CMVM pode, a pedido dos interessados, prorrogar o prazo referido no número anterior por igual período.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 52.º — Revogação da autorização
+
+1 - A CMVM pode revogar a autorização da sociedade de titularização de créditos com os seguintes fundamentos:
+
+a) Se tiver sido obtida por meio de falsas declarações ou outros expedientes ilícitos;
+
+b) Se deixar de se verificar algum dos requisitos de que depende a concessão da autorização;
+
+c) Se a actividade da sociedade de titularização de créditos não corresponder ao objecto legal;
+
+d) Se se verificarem irregularidades graves na administração, na fiscalização ou na organização contabilística da sociedade de titularização de créditos;
+
+e) Se a sociedade de titularização de créditos violar as leis e os regulamentos que disciplinam a sua actividade ou não observar as determinações da CMVM, por modo a pôr em risco os interesses dos titulares das obrigações titularizadas.
+
+2 - A revogação da autorização implica a dissolução e liquidação da sociedade de titularização de créditos.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+##### Subsecção III — Registo
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 53.º — Registo
+
+O início da actividade das sociedades de titularização de créditos depende de registo prévio na CMVM.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 54.º — Elementos sujeitos a registo
+
+O registo das sociedades de titularização de créditos contém os seguintes elementos:
+
+a) Firma;
+
+b) Objecto;
+
+c) Data da constituição;
+
+d) Sede;
+
+e) Capital social;
+
+f) Capital realizado;
+
+g) Identificação dos titulares de participações qualificadas;
+
+h) Percentagem do capital social detido pelos titulares de participações qualificadas;
+
+i) Identificação dos membros dos órgãos de administração e de fiscalização e da mesa da assembleia geral;
+
+j) Identificação dos mandatários da sociedade de titularização de créditos;
+
+k) Data do início de actividade;
+
+l) Acordos parassociais celebrados por titulares de participações qualificadas;
+
+m) Contratos celebrados com terceiros para gestão dos créditos e respectivas garantias e para a prática dos demais actos referidos no n.º 1 do artigo 5.º;
+
+n) Alterações que se verifiquem nos elementos constantes das alíneas anteriores.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 55.º — Processo de registo
+
+1 - O requerimento de registo deve mencionar os elementos a registar e ser instruído com os documentos necessários para o efeito.
+
+2 - O registo só pode ser efectuado após a concessão da autorização prevista no artigo 47.º
+
+3 - A junção dos documentos pode ser substituída pela indicação de que os mesmos já se encontram, em termos actualizados, em poder da CMVM.
+
+4 - Os elementos sujeitos a registo são comunicados à CMVM, salvo disposição legal em contrário, no prazo de 30 dias após a sua verificação, tendo em vista o respectivo registo.
+
+5 - O registo considera-se efectuado se a CMVM não o recusar no prazo de 45 dias a contar da recepção do pedido ou das informações complementares que hajam sido solicitadas.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21-B/2002 - Diário da República n.º 125/2002, 4º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-b-2002-533808), produz efeitos a partir de 2002-04-10
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 56.º — Recusa de registo ou de averbamento
+
+1 - Além de outros fundamentos legalmente previstos, o registo será recusado quando:
+
+a) O pedido de registo não estiver instruído com todos os elementos, as informações e os documentos necessários;
+
+b) Algum dos documentos que instruem o respectivo pedido for falso ou estiver em desconformidade com os requisitos legais ou regulamentares.
+
+2 - Antes da recusa, a CMVM deve notificar o requerente para suprir, em prazo razoável, os vícios sanáveis.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 57.º — Cancelamento do registo
+
+Além de outros fundamentos legalmente previstos, constituem fundamento de cancelamento de registo pela CMVM:
+
+a) A verificação de circunstância que obstaria ao registo, se essa circunstância não tiver sido sanada no prazo fixado pela CMVM;
+
+b) A revogação ou a caducidade da autorização.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 58.º — Registo dos membros dos órgãos de administração e de fiscalização
+
+1 - O registo dos membros dos órgãos de administração e de fiscalização deverá ser solicitado, após a respectiva designação, mediante requerimento da sociedade de titularização de créditos.
+
+2 - A efectivação do registo é condição necessária para o exercício das funções referidas no número anterior.
+
+3 - Em caso de recondução, será esta averbada no registo, a requerimento da sociedade de titularização de créditos.
+
+4 - O requerimento referido no n.º 1 deve ser acompanhado dos elementos e informações estabelecidos por regulamento da CMVM, nos termos do n.º 3 do artigo 48.º
+
+5 - A CMVM, antes de decidir, solicita informações ao Banco de Portugal e ao Instituto de Seguros de Portugal respeitantes à idoneidade, à disponibilidade e à experiência profissional dos membros dos órgãos de administração ou de fiscalização, devendo aquelas entidades, se for caso disso, prestar as referidas informações no prazo de 10 dias.
+
+6 - A falta de idoneidade, de disponibilidade ou de experiência profissional adequada dos membros do órgão de administração ou de fiscalização é fundamento de recusa de registo.
+
+7 - A verificação superveniente da falta de idoneidade dos membros dos órgãos de administração ou de fiscalização determina o cancelamento do registo.
+
+8 - A recusa ou o cancelamento do registo com fundamento nos factos referidos nos n.ºs 6 e 7, respectivamente, são comunicados aos interessados e à sociedade de titularização de créditos, a qual deve tomar as medidas adequadas para que as pessoas a quem não tenham sido reconhecidas aquelas qualidades cessem imediatamente funções.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21-B/2002 - Diário da República n.º 125/2002, 4º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-b-2002-533808), produz efeitos a partir de 2002-04-10
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 59.º — Comunicação e registo de participação qualificada
+
+1 - Quem pretender deter, directa ou indirectamente, participação qualificada em sociedade de titularização de créditos deve comunicar previamente o respectivo projecto à CMVM para os efeitos de apreciação dos requisitos previstos no artigo 42.º
+
+2 - A comunicação referida no número anterior é acompanhada dos elementos e informações estabelecidos em regulamento da CMVM, nos termos do n.º 3 do artigo 48.º
+
+3 - A CMVM, antes de se pronunciar, solicita informações ao Banco de Portugal e ao Instituto de Seguros de Portugal respeitantes à idoneidade dos potenciais titulares de participações qualificadas, devendo aquelas entidades, se for caso disso, prestar as referidas informações no prazo de 10 dias.
+
+4 - No prazo máximo de 15 dias após o decurso do prazo referido no número anterior, a CMVM opor-se-á ao projecto se não considerar demonstrado que a pessoa em causa satisfaz os requisitos estabelecidos no artigo 42.º
+
+5 - No prazo de 15 dias após a aquisição da participação qualificada, deve o respectivo titular solicitar o respectivo registo na CMVM.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21-B/2002 - Diário da República n.º 125/2002, 4º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-b-2002-533808), produz efeitos a partir de 2002-04-10
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+#### Secção II — Emissão de obrigações titularizadas
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 60.º — Requisitos gerais
+
+1 - As obrigações titularizadas podem ser de diferentes categorias, designadamente quanto às garantias estabelecidas a favor dos seus titulares, às taxas de remuneração, que podem ser fixas ou variáveis, e ao seu grau de preferência, e devem ter datas de vencimento adequadas ao prazo dos créditos subjacentes.
+
+2 - As emissões de obrigações titularizadas não estão sujeitas a registo comercial.
+
+3 - A oferta pública e a oferta particular de obrigações titularizadas estão sujeitas ao disposto no título III do Código dos Valores Mobiliários e às disposições que o complementem.
+
+4 - O pedido de aprovação de prospeto de oferta pública de distribuição de obrigações titularizadas deve ser instruído com relatório de notação de risco cujo conteúdo deve observar, com as devidas adaptações, o disposto no n.º 4 do artigo 27.º
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 61.º — Reembolso das obrigações titularizadas e pagamento de despesas com a emissão
+
+1 - O reembolso e a remuneração das obrigações titularizadas emitidas e o pagamento das despesas e encargos relacionados com a sua emissão são garantidos apenas pelos créditos ou riscos que lhes estão exclusivamente afetos, pelo produto do seu reembolso, pelos respetivos rendimentos e por outras garantias ou instrumentos de cobertura de riscos eventualmente contratados no âmbito da sua emissão, não respondendo por aquelas o restante património da sociedade de titularização de créditos emitente das obrigações titularizadas.
+
+2 - As sociedades de titularização de créditos podem proceder, em uma ou mais vezes, a reembolsos antecipados, parciais ou integrais, das obrigações titularizadas, desde que seja assegurada a igualdade de tratamento dos detentores das obrigações da mesma categoria.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 62.º — Princípio da segregação
+
+1 - Os créditos, fluxos financeiros, direitos e obrigações afetos ao reembolso de uma emissão de obrigações titularizadas, bem como o produto do reembolso daqueles e os respetivos rendimentos, constituem um património autónomo, não respondendo por quaisquer dívidas da sociedade de titularização de créditos até ao pagamento integral dos montantes devidos aos titulares das obrigações titularizadas que constituem aquela emissão e das despesas e encargos com esta relacionados.
+
+2 - Os bens que em cada momento integrem o património autónomo afeto à respetiva emissão devem ser adequadamente descritos em contas segregadas da sociedade e identificados sob forma codificada nos documentos da emissão, salvo quando se trate de créditos tributários em que a forma de descrição e identificação daqueles bens é definida de modo a garantir a confidencialidade dos dados pessoais relativos aos contribuintes, mediante portaria conjunta do Ministro das Finanças e do ministro competente em função da titularidade dos créditos objeto de cessão para efeitos de titularização.
+
+3 - Na falta de disposição legal ou convenção em contrário incluída em contrato respeitante à operação de titularização de créditos correspondente, a sociedade de titularização de créditos tem direito ao remanescente do património autónomo afeto ao pagamento de cada emissão de obrigações titularizadas, após o pagamento integral dos montantes devidos aos titulares das obrigações titularizadas que constituem aquela emissão e das despesas e encargos com esta relacionados.
+
+4 - Na execução movida contra a sociedade de titularização de créditos, o credor apenas pode penhorar o direito ao remanescente de cada património separado se provar a insuficiência dos restantes bens da sociedade.
+
+5 - A chave do código a que alude a primeira parte do n.º 2 fica depositada na CMVM, a qual estabelece, por regulamento, as condições em que os titulares de obrigações titularizadas, em caso de incumprimento, podem ter acesso à mesma.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21-B/2002 - Diário da República n.º 125/2002, 4º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-b-2002-533808), produz efeitos a partir de 2002-04-10
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 63.º — Garantia dos credores obrigacionistas e demais credores da emissão
+
+1 - Os titulares de obrigações titularizadas e as entidades que prestem serviços relacionados com a sua emissão gozam de privilégio creditório especial sobre os bens que em cada momento integrem o património autónomo afeto à respetiva emissão, com precedência sobre quaisquer outros credores.
+
+2 - O privilégio referido no número anterior não está sujeito a inscrição em registo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 64.º — Requisitos e limites da emissão
+
+As emissões de obrigações titularizadas não estão sujeitas aos requisitos e limites estabelecidos no n.º 2 do artigo 348.º e no artigo 349.º do Código das Sociedades Comerciais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 65.º — Representante comum dos obrigacionistas
+
+1 - Nas condições de cada emissão de obrigações titularizadas, pode ser identificado um representante comum dos obrigacionistas dessa emissão, devendo para este efeito ser designada uma das entidades indicadas no n.º 2 do artigo 357.º do Código das Sociedades Comerciais ou uma instituição de crédito ou outra entidade autorizada a prestar serviços de representação de investidores em algum Estado membro da União Europeia, as quais não podem encontrar-se constituídas em relação de domínio ou de grupo, conforme definida no artigo 21.º do Código dos Valores Mobiliários, com o cedente ou com a sociedade de titularização de créditos.
+
+2 - Os termos da designação prevista no número anterior são estabelecidos nas condições da emissão de obrigações titularizadas, designadamente no que respeita à remuneração do representante comum, aos custos e encargos inerentes ao desenvolvimento das suas funções, às despesas de convocação e realização de assembleias de obrigacionistas, aos limites aplicáveis à responsabilidade do representante comum e aos termos das responsabilidades que perante ele são assumidas pela sociedade de titularização de créditos e demais intervenientes na emissão em causa.
+
+3 - A assembleia de obrigacionistas delibera sobre a nomeação, remuneração e destituição do representante comum dos obrigacionistas, bem como sobre a alteração das condições iniciais da respetiva designação.
+
+4 - A remuneração do representante comum, os demais custos e encargos inerentes ao desenvolvimento das suas funções, as despesas de convocação e realização de assembleias de obrigacionistas, quando incorridas com respeito pelas condições da emissão, são encargos do património autónomo correspondente a essa emissão, por elas não respondendo o restante património da sociedade de titularização de créditos, e beneficiam do privilégio creditório previsto no n.º 1 do artigo 63.º
+
+5 - As condições da emissão podem estabelecer os poderes de representação dos obrigacionistas conferidos ao representante comum e a forma da sua articulação com a assembleia de obrigacionistas, podendo ser atribuídos ao representante comum poderes para:
+
+a) Executar as deliberações da assembleia de obrigacionistas que tenham decretado o vencimento antecipado das obrigações em causa;
+
+b) Exercer, em representação dos obrigacionistas, os direitos que lhes sejam conferidos pela presente lei ou pelas condições da emissão;
+
+c) Representar os obrigacionistas em juízo, em qualquer tipo de ações.
+
+6 - As condições da emissão podem limitar o exercício isolado de direitos dos obrigacionistas que seja contrário às deliberações da assembleia de obrigacionistas.
+
+7 - São subsidiariamente aplicáveis as disposições respeitantes ao representante comum dos obrigacionistas previstas no Código das Sociedades Comerciais.
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+###### Artigo 66.º — Supervisão e regulamentação
+
+1 - Compete à CMVM a supervisão das sociedades de titularização de créditos.
+
+2 - A CMVM pode estabelecer, por regulamento:
+
+a) Regras prudenciais e de contabilidade das sociedades de titularização de crédito;
+
+b) Deveres de informação à CMVM e ao público;
+
+c) Regras relativas ao processo de autorização;
+
+d) Requisitos relativos à organização;
+
+e) Regras relativas a conflitos de interesses, designadamente sobre percentagens máximas de participação de entidades cedentes dos créditos em sociedade de titularização de créditos;
+
+f) Motivos e demais requisitos para a prorrogação do prazo de alienação de imóveis que integrem o ativo das sociedades de titularização de créditos em resultado de dação em pagamento ou da execução de garantias reais associadas aos ativos detidos.
+
+3 - É aplicável o disposto no n.º 3 do artigo 37.º.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+### Capítulo IV — Autoridades competentes
+
+> Aditado pelo/a Artigo 5.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 66.º-A — Autoridades competentes para efeitos do Regulamento (UE) 2017/2402
+
+1 - A CMVM é a autoridade competente para supervisionar o cumprimento dos deveres estabelecidos:
+
+a) No artigo 3.º do Regulamento (UE) 2017/2402, pelo vendedor de uma posição de titularização;
+
+b) No artigo 5.º do Regulamento (UE) 2017/2402, pelos investidores institucionais, quando estes sejam entidades sujeitas à sua supervisão prudencial, nomeadamente empresas de investimento, organismos de investimento coletivo em valores mobiliários, organismos de investimento alternativo sob forma societária autogeridos e sociedades gestoras, em conformidade com o disposto no n.º 1 do artigo 29.º daquele regulamento;
+
+c) Nos artigos 6.º a 9.º do Regulamento (UE) 2017/2402, pelas empresas de investimento que sejam patrocinadores, em conformidade com o disposto nos n.ºs 5 e 6 do artigo 25.º e no n.º 2 do artigo 29.º daquele regulamento, bem como pelas EOET e pelos cedentes ou mutuantes iniciais quando estes sejam entidades sujeitas à sua supervisão prudencial, nomeadamente empresas de investimento, organismos de investimento coletivo em valores mobiliários, organismos de investimento alternativo sob forma societária autogeridos e sociedades gestoras, bem como companhias financeiras, companhias financeiras de investimento e companhias financeiras mistas com sede na União Europeia sujeitas à sua supervisão prudencial em base consolidada, em conformidade com o disposto no n.º 5 do artigo 25.º e nos n.ºs 3 e 4 do artigo 29.º daquele regulamento;
+
+d) Nos artigos 6.º a 9.º do Regulamento (UE) 2017/2402, pelos cedentes e mutuantes iniciais que não sejam entidades sujeitas à supervisão de outra autoridade nos termos dos n.ºs 2 e 3 do presente artigo, em conformidade com o disposto no n.º 5 do artigo 25.º e no n.º 4 do artigo 29.º daquele regulamento;
+
+e) Nos artigos 18.º a 24.º, nos n.ºs 1, 2 e 7 do artigo 25.º e nos artigos 26.º a 27.º do Regulamento (UE) 2017/2402, pelos cedentes, mutuantes iniciais, patrocinadores e EOET, em conformidade com o disposto no n.º 5 do artigo 29.º daquele regulamento;
+
+f) No artigo 28.º do Regulamento (UE) 2017/2402, pelos terceiros, em conformidade com o disposto no n.º 5 do artigo 29.º daquele regulamento.
+
+2 - O Banco de Portugal é a autoridade competente para supervisionar o cumprimento dos deveres estabelecidos:
+
+a) No artigo 5.º do Regulamento (UE) 2017/2402, pelos investidores institucionais, quando estes sejam entidades sujeitas à sua supervisão prudencial, nomeadamente instituições de crédito, em conformidade com o disposto no n.º 1 do artigo 29.º daquele regulamento;
+
+b) Nos n.ºs 1 e 3 do artigo 5.º do Regulamento (UE) 2017/2402, pelos patrocinadores, em conformidade com o disposto no n.º 4 do artigo 25.º e no n.º 5 do artigo 29.º daquele regulamento;
+
+c) Nos artigos 6.º a 9.º do Regulamento (UE) 2017/2402, pelos patrocinadores, em conformidade com o disposto nos n.os 5 e 6 do artigo 25.º e no n.º 2 do artigo 29.º do Regulamento (UE) 2017/2402, e pelos cedentes e mutuantes iniciais quando estes sejam entidades sujeitas à sua supervisão prudencial, nomeadamente instituições de crédito, sociedades financeiras, instituições de pagamento e instituições de moeda eletrónica, bem como companhias financeiras, companhias financeiras mistas e companhias mistas com sede na União Europeia sujeitas à sua supervisão prudencial em base consolidada, em conformidade com o disposto no n.º 5 do artigo 25.º e nos n.os 3 e 4 do artigo 29.º daquele regulamento.
+
+3 - A ASF é a autoridade competente para supervisionar o cumprimento dos deveres estabelecidos:
+
+a) No artigo 5.º do Regulamento (UE) 2017/2402, pelos investidores institucionais quando estes sejam entidades sujeitas à sua supervisão prudencial, nomeadamente empresas de seguros e de resseguros, fundos de pensões profissionais e respetivas entidades gestoras, em conformidade com o disposto no n.º 1 do artigo 29.º daquele regulamento;
+
+b) Nos artigos 6.º a 9.º do Regulamento (UE) 2017/2402, pelos cedentes e mutuantes iniciais, quando estes sejam entidades sujeitas à sua supervisão prudencial, nomeadamente empresas de seguros e de resseguros, fundos de pensões e respetivas entidades gestoras, em conformidade com o disposto no n.º 5 do artigo 25.º e no n.º 3 do artigo 29.º daquele regulamento.
+
+4 - As autoridades competentes para supervisionar o cumprimento dos deveres referidos nos números anteriores são ainda competentes para averiguar as respetivas infrações, instruir e decidir os processos de contraordenação e aplicar as correspondentes sanções.
+
+5 - As autoridades competentes trocam as informações necessárias para o exercício das respetivas competências ao abrigo do presente regime e asseguram a implementação de mecanismos de cooperação.
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 66.º-B — Autoridade competente para a verificação das condições do patrocinador de um programa de papel comercial garantido por ativos
+
+O Banco de Portugal é a autoridade competente para a verificação das condições do patrocinador de um programa de papel comercial garantido por ativos (programa ABCP), nos termos do disposto no n.º 3 do artigo 25.º do Regulamento (UE) 2017/2402.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 66.º-C — Autoridade competente para a autorização de terceiros
+
+A CMVM é a autoridade competente para a autorização de terceiros, nos termos do disposto no n.º 1 do artigo 28.º do Regulamento (UE) 2017/2402.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+### Capítulo V — Regime sancionatório
+
+> Aditado pelo/a Artigo 5.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 66.º-D — Contraordenações
+
+1 - São puníveis com coima entre 25 000 (euro) a 5 000 000 (euro) as contraordenações previstas nas alíneas seguintes:
+
+a) O incumprimento das regras para a venda de titularização a clientes não profissionais previstas no artigo 3.º do Regulamento (UE) 2017/2402;
+
+b) O incumprimento dos requisitos de diligência devida aplicáveis aos investidores institucionais previstos no artigo 5.º do Regulamento (UE) 2017/2402;
+
+c) O incumprimento dos deveres relativos à retenção do risco previstos no artigo 6.º do Regulamento (UE) 2017/2402;
+
+d) O incumprimento dos requisitos de transparência aplicáveis a cedentes, patrocinadores e EOET previstos no artigo 7.º do Regulamento (UE) 2017/2402;
+
+e) A realização de operações de retitularização em violação do disposto no artigo 8.º do Regulamento (UE) 2017/2402;
+
+f) O incumprimento dos requisitos previstos no artigo 9.º do Regulamento (UE) 2017/2402;
+
+g) A utilização da designação «titularização STS» ou «titularização simples, transparente e padronizada» em incumprimento do disposto no artigo 18.º do Regulamento (UE) 2017/2402;
+
+h) O incumprimento dos requisitos e dos deveres aplicáveis à titularização previstos nos artigos 19.º a 26.º-E do Regulamento (UE) 2017/2402;
+
+i) (Revogada.)
+
+j) A realização de uma "notificação STS" em violação do artigo 27.º do Regulamento (UE) 2017/2402;
+
+k) O incumprimento dos deveres de notificar e de informar previstos no n.º 4 do artigo 27.º do Regulamento (UE) 2017/2402, quando a titularização deixe de preencher os requisitos previstos nos artigos 19.º a 26.º-E daquele regulamento;
+
+l) O incumprimento dos deveres dos terceiros de notificar alterações substanciais das informações prestadas nos termos do n.º 1 do artigo 28.º do Regulamento (UE) 2017/2402 e outras alterações que razoavelmente se considere poderem afetar a avaliação das respetivas autoridades competentes;
+
+m) A realização de transferência de riscos ou cessão de créditos, incluindo a cessão ou transferência de créditos ou fluxos monetários futuros, para titularização em violação do disposto no artigo 4.º do presente decreto-lei;
+
+n) O incumprimento dos deveres relativos à gestão de créditos ou do património de referência previstos no artigo 5.º do presente decreto-lei;
+
+o) A inobservância dos requisitos legais e regulamentares para aquisição de novos créditos para fundos de titularização de créditos previstos no artigo 11.º do presente decreto-lei e respetiva regulamentação;
+
+p) A inobservância do dever de aplicar os ativos do fundo de titularização de créditos de acordo com o disposto no artigo 12.º do presente decreto-lei e respetiva regulamentação e de acordo com o regulamento de gestão do fundo;
+
+q) A integração ou manutenção de imóveis no ativo do fundo de titularização de créditos ou no património segregado em violação do disposto no n.º 7 do artigo 12.º e no n.º 6 do artigo 45.º do presente decreto-lei e respetiva regulamentação;
+
+r) A inobservância do dever de aplicar o produto do reembolso dos créditos titularizados e respetivos rendimentos de acordo com o disposto no n.º 3 do artigo 44.º do presente decreto-lei e respetiva regulamentação;
+
+s) A realização de operações vedadas em violação do artigo 21.º do presente decreto-lei;
+
+t) A transmissão de créditos por parte de sociedades de titularização de créditos em violação do disposto no artigo 45.º do presente decreto-lei e respetiva regulamentação;
+
+u) A inobservância dos limites e condições de endividamento, previstos no artigo 13.º e nos n.os 1 e 2 do artigo 44.º do presente decreto-lei e respetiva regulamentação;
+
+v) A inobservância dos limites e condições de recurso a técnicas e instrumentos de cobertura de risco, previstos no artigo 14.º do presente decreto-lei e respetiva regulamentação;
+
+w) O incumprimento do dever de atuação por conta e no interesse exclusivo dos detentores de unidades de titularização do fundo de titularização de créditos, previsto no artigo 18.º do presente decreto-lei;
+
+x) O incumprimento do dever de praticar todos os atos e operações necessários ou convenientes à boa administração do fundo, de acordo com critérios de elevada diligência e competência profissional, previsto no artigo 18.º do presente decreto-lei;
+
+y) A violação do dever de promover o averbamento da transmissão de crédito hipotecário no registo predial, em caso de cessão a fundos de titularização de créditos, nos termos do disposto na alínea a) do artigo 18.º do presente decreto-lei;
+
+z) O incumprimento do dever de praticar todos os atos e celebrar todos os contratos necessários ou convenientes para a emissão das unidades de titularização, previsto na alínea b) do artigo 18.º do presente decreto-lei;
+
+aa) A violação do dever de gerir os montantes pagos pelos devedores dos créditos que integram o fundo de titularização de créditos, previsto na alínea d) do artigo 18.º do presente decreto-lei;
+
+bb) A violação do dever de calcular e mandar efetuar os pagamentos correspondentes aos rendimentos e reembolsos das unidades de titularização, previsto na alínea e) do artigo 18.º do presente decreto-lei;
+
+cc) A violação do dever de pagar as despesas que, nos termos do regulamento de gestão, caiba ao fundo suportar, previsto na alínea f) do artigo 18.º do presente decreto-lei;
+
+dd) A violação do dever de manter em ordem a escrita do fundo, previsto na alínea g) do artigo 18.º do presente decreto-lei;
+
+ee) A comunicação ou prestação de informação à CMVM ou ao Banco de Portugal, imposta por legislação, nacional ou europeia, respetiva regulamentação ou pelo regulamento de gestão de fundo de titularização de crédito, que não seja verdadeira, completa, objetiva, atual, clara e lícita ou a omissão dessa comunicação ou prestação;
+
+ff) A comunicação ou divulgação de informação ao público, imposta por legislação, nacional ou europeia, respetiva regulamentação ou pelo regulamento de gestão de fundo de titularização de crédito, que não seja verdadeira, completa, objetiva, atual, clara e lícita ou a omissão dessa comunicação ou divulgação;
+
+gg) A comunicação ou divulgação de informação aos detentores de unidades de titularização ou investidores em obrigações titularizadas, imposta por legislação, nacional ou europeia, respetiva regulamentação ou pelo regulamento de gestão de fundo de titularização de crédito, que não seja verdadeira, completa, objetiva, atual, clara e lícita ou a omissão dessa comunicação ou divulgação;
+
+hh) O incumprimento dos deveres previstos no regulamento de gestão do fundo de titularização de créditos;
+
+ii) A inobservância dos níveis de fundos próprios das sociedades gestoras de fundos de titularização de créditos e das sociedades de titularização de crédito, previstos nos artigos 19.º e 43.º do presente decreto-lei e respetiva regulamentação;
+
+jj) A substituição de sociedade gestora de fundos de titularização de créditos em violação do disposto no artigo 22.º do presente decreto-lei;
+
+kk) O exercício de funções de gestão de fundos de titularização de créditos sem o registo devido nos termos do disposto no artigo 27.º do presente decreto-lei;
+
+ll) A realização de alterações ao regulamento de gestão de fundo de titularização de créditos com oposição expressa da CMVM nos termos do disposto no n.º 7 do artigo 29.º do presente decreto-lei;
+
+mm) O reembolso antecipado de unidades de titularização ou de obrigações titularizadas em violação do disposto no artigo 33.º e no n.º 2 do artigo 61.º, respetivamente, do presente decreto-lei;
+
+nn) A liquidação e partilha de fundo de titularização de créditos em violação do disposto no artigo 38.º do presente decreto-lei;
+
+oo) A realização de operações de titularização de créditos ou de riscos, mediante a sua aquisição, gestão e transmissão e a emissão de obrigações titularizadas para pagamento dos créditos ou dos riscos adquiridos sem autorização da CMVM nos termos do disposto na subsecção II da secção I do capítulo III do presente decreto-lei e respetiva regulamentação, ou cuja autorização para o seu exercício tenha caducado, tenha sido revogada ou não tenha sido objeto de notificação, ou sem o registo devido nos termos da subsecção III da secção I do capítulo III do presente decreto-lei e respetiva regulamentação;
+
+pp) O exercício das funções de membro de órgão de administração ou de fiscalização de sociedades gestoras de fundos de titularização de créditos e de sociedades de titularização de créditos em violação dos artigos 17.º-H e 41.º;
+
+qq) (Revogada.)
+
+rr) A aquisição de participação qualificada em sociedade gestora de fundos de titularização de créditos e em sociedade de titularização de créditos em violação do disposto nos artigos 17.º-I e 42.º;
+
+ss) A omissão de comunicação ou a indevida instrução da comunicação de quaisquer alterações à informação sobre participações qualificadas em violação do disposto nos artigos 17.º-I e 42.º;
+
+tt) (Revogada.)
+
+uu) A violação do dever de tratamento igualitário de detentores de obrigações titularizadas da mesma categoria, nos termos do n.º 2 do artigo 61.º do presente decreto-lei;
+
+vv) A violação dos deveres de segregação patrimonial previstos na alínea a) do n.º 4 do artigo 8.º e no artigo 62.º do presente decreto-lei e respetiva regulamentação;
+
+ww) O incumprimento de ordens ou mandados legítimos da CMVM ou de determinações emitidas pelo Banco de Portugal, transmitidas por escrito aos seus destinatários se, após notificação da CMVM ou do Banco de Portugal para o cumprimento da ordem, mandado ou determinação anteriormente emitida, com a indicação expressa de que o incumprimento constitui contraordenação punível com coima entre 25 000 (euro) a 5 000 000 (euro), o destinatário não cumprir a ordem, mandado ou determinação;
+
+xx) A violação do dever de organizar a contabilidade do fundo de titularização de crédito em harmonia com as normas emitidas pela CMVM, nos termos do n.º 1 do artigo 36.º do presente decreto-lei;
+
+yy) A violação do dever de encerrar as contas do fundo de titularização de créditos anualmente com referência a 31 de dezembro e de as sujeitar a certificação por auditor que não integre o conselho fiscal da sociedade gestora, nos termos do n.º 2 do artigo 36.º do presente decreto-lei;
+
+zz) (Revogada.)
+
+aaa) (Revogada.)
+
+bbb) A realização de atos ou o exercício da atividade de gestão de fundos de titularização de créditos em violação do disposto no artigo 22.º-A;
+
+ccc) A realização de alterações estatutárias de sociedade gestora de fundos de titularização de créditos em violação do disposto no artigo 17.º-F;
+
+ddd) A realização de operações de fusão e de cisão que envolvam a sociedade gestora de fundos de titularização de créditos em violação do disposto no artigo 17.º-G;
+
+eee) O incumprimento de medidas corretivas transmitidas por escrito aos seus destinatários.
+
+2 - São puníveis com coima entre 12 500 (euro) a 2 500 000 (euro) as contraordenações previstas nas alíneas seguintes:
+
+a) A violação dos deveres de notificação aos devedores cedidos, nos termos do artigo 6.º do presente decreto-lei;
+
+b) A violação de deveres emergentes de contratos celebrados no âmbito da atividade de gestão do fundo de titularização de créditos que não sejam punidos nos termos do número anterior;
+
+c) A violação de deveres relativos a entidades e atividades relacionadas com a titularização de créditos ou de riscos, que não sejam punidos nos termos no número anterior ou nas alíneas anteriores, previstos em legislação, nacional ou europeia, e sua regulamentação;
+
+d) O incumprimento de ordens ou mandados legítimos da CMVM ou de determinações emitidas pelo Banco de Portugal, transmitidas por escrito aos seus destinatários;
+
+e) O incumprimento do dever de alterar imediatamente a firma e o objeto social da sociedade gestora de fundos de titularização de créditos e de promover com urgência o registo dessa alteração em caso de revogação da autorização, em violação do disposto na alínea b) do n.º 4 do artigo 17.º-E.
+
+3 - O limite máximo da coima aplicável nos termos do disposto nos números anteriores é elevado ao maior dos seguintes valores:
+
+a) O triplo do benefício económico obtido, mesmo que total ou parcialmente sob a forma de perdas potencialmente evitadas; ou
+
+b) 10 % do volume de negócios anual total, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração.
+
+4 - Se a pessoa coletiva for uma empresa-mãe ou uma filial da empresa-mãe obrigada a elaborar contas financeiras consolidadas, o volume de negócios a considerar para efeitos do disposto na alínea b) do número anterior é o volume de negócios anual total ou o tipo de rendimento correspondente, de acordo com as diretivas contabilísticas aplicáveis, nos termos das últimas contas consolidadas disponíveis aprovadas pelo órgão de administração da empresa-mãe de que essa empresa depende em última instância.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 25/2020 - Diário da República n.º 130/2020, Série I de 2020-07-07](https://diariodarepublica.pt/dr/detalhe/lei/25-2020-137350708), em vigor a partir de 2020-07-08
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 66.º-E — Formas da infração
+
+1 - As contraordenações previstas neste decreto-lei são imputadas a título de dolo ou de negligência.
+
+2 - A tentativa é punível.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 66.º-F — Sanções acessórias
+
+1 - Cumulativamente com as coimas previstas no artigo 66.º-D, podem ser aplicadas aos responsáveis por qualquer contraordenação, além das previstas no regime geral do ilícito de mera ordenação social, as seguintes sanções acessórias:
+
+a) Apreensão e perda do objeto da infração, incluindo o produto do benefício obtido pelo infrator através da prática da contraordenação;
+
+b) Interdição temporária do exercício pelo infrator da profissão ou da atividade a que a contraordenação respeita;
+
+c) Inibição do exercício de funções de administração, gestão, direção, chefia ou fiscalização e de representação em entidades sujeitas à supervisão da autoridade competente;
+
+d) Publicação pela autoridade competente para a supervisão, a expensas do infrator e em locais idóneos para o cumprimento das finalidades de prevenção geral do sistema jurídico, da sanção aplicada pela prática da contraordenação;
+
+e) Revogação da autorização ou cancelamento do registo necessários para o exercício da atividade de terceiro autorizado nos termos do artigo 28.º do Regulamento (UE) 2017/2402;
+
+f) Proibição temporária de o cedente e o patrocinador notificarem a Autoridade Europeia dos Valores Mobiliários e dos Mercados que uma titularização cumpre os requisitos previstos nos artigos 19.º a 26.º-E do Regulamento (UE) 2017/2402, na sua redação atual.
+
+2 - As sanções acessórias referidas nas alíneas b), c) e f) do número anterior não podem ter duração superior a cinco anos, contados a partir da decisão condenatória definitiva.
+
+3 - O prazo referido no número anterior é elevado ao dobro, a contar da decisão condenatória definitiva, caso a condenação respeite à prática dolosa de contraordenação e o arguido já tenha sido previamente condenado pela prática de uma infração da mesma natureza.
+
+4 - A publicação referida na alínea d) do n.º 1 pode ser feita na íntegra ou por extrato, conforme for decidido pela autoridade competente.
+
+5 - No caso de aplicação de sanção acessória prevista nas alíneas c) e e) do n.º 1, a autoridade competente comunica a condenação à entidade que concedeu a autorização ou averbou o registo para execução dos efeitos da sanção.
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 66.º-G — Divulgação de decisões
+
+1 - Decorrido o prazo de impugnação judicial, as decisões das autoridades competentes para o processo de contraordenação que condenem o agente pela violação do disposto no artigo 66.º-D são divulgadas publicamente, designadamente nos respetivos sítios eletrónicos na Internet, durante cinco anos após a sua publicação, mesmo que tenha sido requerida a impugnação judicial da decisão, sendo, neste caso, feita expressa menção desse facto.
+
+2 - A divulgação das decisões aplicadas por violação do disposto no presente regime é efetuada imediatamente após o agente ter sido informado da decisão e tem lugar nos termos e prazos a que se refere o n.º 1, contendo, pelo menos, o tipo e a natureza da infração e a identidade da pessoa responsável, coletiva ou singular.
+
+3 - Se a divulgação efetuada nos termos dos números anteriores, nomeadamente a relativa à identidade da pessoa responsável, puder afetar gravemente os mercados financeiros, comprometer uma investigação em curso ou causar prejuízos desproporcionados para as partes interessadas, as autoridades competentes podem:
+
+a) Diferir a divulgação da decisão até ao momento em que deixem de existir as razões para o diferimento;
+
+b) Divulgar a decisão em regime de anonimato;
+
+c) Não publicar a decisão no caso de a autoridade competente considerar que a publicação nos termos das alíneas anteriores é insuficiente para assegurar que não seja comprometida a estabilidade dos mercados financeiros ou a proporcionalidade da divulgação dessas decisões relativamente a medidas consideradas de menor gravidade.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 66.º-H — Direito subsidiário
+
+Às contraordenações previstas no presente decreto-lei, bem como aos termos da divulgação da decisão, são subsidiariamente aplicáveis:
+
+a) No caso dos procedimentos contraordenacionais em que a competência cabe à CMVM, as disposições constantes do título VIII do Código dos Valores Mobiliários;
+
+b) No caso dos procedimentos contraordenacionais em que a competência cabe ao Banco de Portugal, as disposições constantes do título XI do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro;
+
+c) No caso dos procedimentos de contraordenação em que a competência cabe à Autoridade de Supervisão de Seguros e Fundos de Pensões, as disposições constantes, consoante a matéria em causa:
+
+i) Do capítulo II do título VIII do regime jurídico de acesso e exercício da atividade seguradora e resseguradora, aprovado pela Lei n.º 147/2015, de 9 de setembro;
+
+ii) Do capítulo II do título IX do Decreto-Lei n.º 12/2006, de 20 de janeiro, que regula a constituição e o funcionamento dos fundos de pensões e das entidades gestoras de fundos de pensões;
+
+iii) Do regime processual aplicável aos crimes especiais do setor segurador e dos fundos de pensões e às contraordenações cujo processamento compete à Autoridade de Supervisão de Seguros e Fundos de Pensões, aprovado pela Lei n.º 147/2015, de 9 de setembro.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+### Capítulo VI — Disposição final
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+###### Artigo 67.º — Actividade de intermediação em valores mobiliários
+
+A criação e administração de fundos de titularização de créditos considera-se actividade de intermediação financeira quando exercida a título profissional.
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+###### Artigo 68.º — Ilícitos de mera ordenação social
+
+À violação das normas deste diploma e das da sua regulamentação compreendidas na área de competência da CMVM aplica-se o disposto no Código dos Valores Mobiliários para os ilícitos de mera ordenação social.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28](https://diariodarepublica.pt/dr/detalhe/lei/69-2019-124256706), em vigor a partir de 2019-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2003 - Diário da República n.º 281/2003, Série I-A de 2003-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), em vigor a partir de 2003-12-06
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 82/2002 - Diário da República n.º 80/2002, Série I-A de 2002-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2002-302958), em vigor a partir de 2002-04-10
+
+Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Manuel de Matos Fernandes.
+
+Promulgado em 15 de Outubro de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 21 de Outubro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:494186:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2009-34518775",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/10-2009-494186",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-05-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51272875",
+    "49224475",
+    "49224575",
+    "49224675",
+    "49224775",
+    "49224875",
+    "49224975",
+    "49225075",
+    "49225175",
+    "49225275",
+    "49225375",
+    "49225475"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:492752:por",
+     "title": "Declaração de Rectificação n.º 54/2009",
+     "published": "2009-07-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/54-2009-492752",
+     "date": "2009-05-30"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "51272875": {
+   "fragment_id": "35138575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2009-05-30",
+   "changed_by": [],
+   "markdown": "O regime jurídico dos instrumentos de gestão territorial, aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, prevê que a cartografia a utilizar nos instrumentos de gestão territorial, bem como na representação de quaisquer condicionantes, seja estabelecida por decreto regulamentar.\n\nOs instrumentos de gestão territorial são documentos elaborados pelas entidades da Administração Pública que concretizam a política de ordenamento do território e de urbanismo, estabelecendo o quadro de referência para a organização e utilização do território nacional.\n\nA elaboração dos instrumentos de gestão territorial carece de informação georreferenciada actualizada e fidedigna. No universo dessa informação destacam-se a cartografia topográfica, que fornece a base para o reconhecimento do território e para a referenciação, organização e representação de toda a restante informação, e a cartografia temática, que, de forma directa com a base topográfica, fornece informação sobre atributos específicos do território objecto do plano.\n\nA qualidade dos instrumentos de gestão territorial e a sua eficácia no cumprimento das finalidades que justificam a sua elaboração dependem da existência de cartografia topográfica e temática de boa qualidade, estabelecida num sistema de referenciação comum, de modo a facilitar as operações de harmonização e integração.\n\nEsta exigência de qualidade resulta ainda, no caso dos instrumentos de planeamento territorial, do facto de estes serem vinculativos das entidades públicas e dos particulares, servindo directamente de parâmetro para o controlo prévio das operações urbanísticas.\n\nAs sucessivas avaliações dos planos directores municipais em vigor identificam a existência de deficiências da cartografia de base como um dos factores que mais afectam a qualidade desses planos. A análise dos planos de urbanização e de pormenor em vigor revela igualmente problemas graves relacionados com a cartografia topográfica de base, que em alguns casos chegam mesmo a impedir a correcta georreferenciação desses planos.\n\nO País dispõe hoje de melhor informação geográfica de base do que dispunha há uma década e meia e também de melhor capacidade para a sua produção e actualização. Por outro lado, a disseminação dos sistemas de informação geográfica e o uso da Internet no âmbito da administração central e local e pela comunidade técnica nacional são uma realidade.\n\nO aproveitamento destas capacidades e a plena utilização das suas potencialidades permitem agora regulamentar o regime jurídico dos instrumentos de gestão territorial, aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, fixando regras no domínio da cartografia a utilizar nos instrumentos de gestão territorial, visando simultaneamente melhorar a qualidade e eficácia destes instrumentos e promover o bom aproveitamento dos recursos técnicos disponíveis no desenvolvimento de sistemas públicos de informação territorial.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea c) do artigo 199.º da Constituição e ao abrigo do disposto na alínea d) do n.º 2 do artigo 155.º do Decreto-Lei n.º 380/99, de 22 de Setembro, o Governo decreta o seguinte:"
+  },
+  "49224475": {
+   "fragment_id": "35886475",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto regulamentar fixa a cartografia a utilizar nos instrumentos de gestão territorial, bem como na representação de quaisquer condicionantes."
+  },
+  "49224575": {
+   "fragment_id": "35886575",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos de aplicação do presente decreto regulamentar, entende-se por:\n\na) «Actualização» o conjunto de operações necessárias para promover a representação na carta base de objectos ausentes da cartografia de referência, em virtude da evolução do território no intervalo de tempo que mediou desde a produção dessa cartografia;\n\nb) «Carta base» a carta topográfica, obtida a partir da cartografia de referência por selecção dos temas relevantes para a elaboração do plano, que serve de fundo à representação da informação da gestão territorial e à elaboração das peças gráficas que integram os instrumentos de gestão territorial;\n\nc) «Cartografia de referência» a cartografia topográfica, temática de base topográfica ou hidrográfica que serve de referência à preparação da carta base;\n\nd) «Cartografia hidrográfica» a definição constante da alínea c) do n.º 3 do artigo 1.º do Decreto-Lei n.º 193/95, de 28 de Julho;\n\ne) «Cartografia temática de base topográfica» a definição constante da alínea b) do n.º 3 do artigo 1.º do Decreto-Lei n.º 193/95, de 28 de Julho;\n\nf) «Cartografia topográfica» a definição constante da alínea a) do n.º 3 do artigo 1.º do Decreto-Lei n.º 193/95, de 28 de Julho;\n\ng) «Cartografia topográfica de imagem», também designada cartografia de imagem, a cartografia que consiste em imagens digitais do terreno, obtidas a partir da rectificação ou orto-rectificação de imagens métricas captadas por sensores colocados em plataformas aéreas ou espaciais, complementadas por informação oro-hidrográfica tridimensional, redes viária e ferroviária, informação toponímica e quadrícula;\n\nh) «Completamento» o conjunto de operações necessárias para promover a recolha e representação na carta base de objectos específicos indispensáveis às tarefas de elaboração de instrumentos de gestão territorial e que não fazem parte das especificações técnicas de produção da cartografia de referência;\n\ni) «Exactidão posicional» o rigor do posicionamento de um dado objecto geográfico, determinado por meio do erro médio quadrático dos desvios medidos entre as coordenadas da representação cartográfica do objecto e as correspondentes coordenadas determinadas por métodos de posicionamento de rigor superior ao do levantamento cartográfico em causa;\n\nj) «Peças gráficas que integram os instrumentos de gestão territorial» as plantas que fazem parte do conteúdo documental obrigatório dos instrumentos de gestão territorial, nos termos do regime jurídico dos instrumentos de gestão territorial, aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, bem como quaisquer outras plantas que, a título meramente explicativo, indicativo ou ilustrativo, façam parte integrante do respectivo relatório."
+  },
+  "49224675": {
+   "fragment_id": "35886675",
+   "type": 11,
+   "heading": "Artigo 3.º — Cartografia de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cartografia de referência\n\n1 - A cartografia de referência a utilizar na elaboração dos instrumentos de gestão territorial é obrigatoriamente:\n\na) Cartografia topográfica;\n\nb) Cartografia temática de base topográfica ou hidrográfica oficial; ou\n\nc) A cartografia homologada nos termos da legislação em vigor, nas suas versões mais actualizadas.\n\n2 - A cartografia de referência a que se refere o número anterior pode ser cartografia de traço ou cartografia topográfica de imagem.\n\n3 - A cartografia a utilizar para os limites administrativos é a que consta da edição mais recente da Carta Administrativa Oficial de Portugal, publicada pelo Instituto Geográfico Português, disponível à data da deliberação que determina a elaboração, revisão ou alteração do plano.\n\n4 - O disposto nos números anteriores não impede a utilização de edições mais actualizadas da cartografia de referência e da Carta Administrativa Oficial de Portugal que venham a ficar disponíveis no decurso dos trabalhos de elaboração, revisão ou alteração dos instrumentos de gestão territorial.\n\n5 - A informação cadastral a utilizar na elaboração dos instrumentos de gestão territorial é a que consta da cartografia cadastral do cadastro predial, sempre que disponível.\n\n6 - As listas da cartografia oficial ou homologada são publicadas nas páginas da Internet dos organismos responsáveis pela sua produção ou homologação."
+  },
+  "49224775": {
+   "fragment_id": "35886775",
+   "type": 11,
+   "heading": "Artigo 4.º — Carta base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Carta base\n\n1 - As cartas base a utilizar na elaboração dos instrumentos de gestão territorial são preparadas a partir da cartografia de referência mais adequada à finalidade prosseguida por cada plano, atentos o seu conteúdo material e o princípio da tipicidade dos planos.\n\n2 - As cartas base a que se refere o número anterior são preparadas e utilizadas em suporte digital.\n\n3 - Na preparação das cartas base são adoptados procedimentos compatíveis com as características técnicas da cartografia de referência, realizados por técnicos qualificados para o efeito, de forma a garantir a manutenção dessas características, nomeadamente em termos de exactidão posicional e de consistência interna da informação.\n\n4 - As cartas base a utilizar na elaboração dos instrumentos de planeamento territorial devem satisfazer os seguintes requisitos mínimos de exactidão posicional:\n\na) Planos directores municipais - menor ou igual a 5 m em planimetria e altimetria;\n\nb) Planos de urbanização - menor ou igual a 2 m em planimetria e altimetria;\n\nc) Planos de pormenor - menor ou igual a 0,5 m em planimetria e a 0,7 m em altimetria."
+  },
+  "49224875": {
+   "fragment_id": "35886875",
+   "type": 11,
+   "heading": "Artigo 5.º — Actualização e completude da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Actualização e completude da informação\n\n1 - A entidade responsável pela elaboração do instrumento de gestão territorial promove a actualização e o completamento da informação constante da cartografia de referência sempre que tal se revele necessário para as finalidades prosseguidas com a elaboração do plano, inserindo essa informação na carta base.\n\n2 - No caso previsto no número anterior, a entidade responsável pela elaboração do instrumento de gestão territorial deve:\n\na) Adoptar ou mandar adoptar na actualização ou completamento as especificações técnicas de produção da cartografia de referência;\n\nb) Manter registo separado dos dados relativos aos temas e objectos que foram actualizados ou completados;\n\nc) Indicar na legenda das peças gráficas que integram os instrumentos de gestão territorial, junto à identificação da cartografia de referência a que se refere o artigo 7.º, que a mesma foi objecto de actualização ou completamento, bem como a data e a identificação da entidade responsável por esse trabalho.\n\n3 - Os requisitos de exactidão posicional estabelecidos no n.º 4 do artigo 4.º são igualmente aplicáveis à recolha dos dados topográficos ou específicos para actualização e completamento da cartografia de referência utilizada na elaboração dos instrumentos de planeamento territorial.\n\n4 - A actualização e o completamento da cartografia de referência nos termos previstos no presente artigo estão abrangidos pelo disposto nos n.os 1 e 2 do artigo 8.º do Decreto-Lei n.º 193/95, de 28 de Julho, alterado pelos Decretos-Leis n.os 52/96, de 18 de Maio, 59/2002, de 15 de Março, e 202/2007, de 25 de Maio."
+  },
+  "49224975": {
+   "fragment_id": "35886975",
+   "type": 11,
+   "heading": "Artigo 6.º — Elaboração das peças gráficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Elaboração das peças gráficas\n\n1 - A elaboração das peças gráficas que integram os instrumentos de gestão territorial é feita em suporte digital e formato vectorial.\n\n2 - A informação gráfica e alfanumérica que integra o conteúdo dos instrumentos de gestão territorial é, sempre que possível, estruturada em sistema de informação geográfica.\n\n3 - Na elaboração das peças gráficas que integram os instrumentos de gestão territorial são adoptados procedimentos compatíveis com as características técnicas da cartografia de referência, realizados por técnicos qualificados para o efeito, de forma a garantir a manutenção dessas características nos produtos intermédios e finais, nomeadamente em termos de exactidão posicional e de consistência interna da informação.\n\n4 - Na importação e integração de informação cartográfica proveniente de diferentes fontes são adoptados procedimentos técnicos que assegurem o controlo de qualidade do produto final em termos de exactidão posicional e de consistência interna da informação.\n\n5 - As peças gráficas que integram os instrumentos de gestão territorial devem:\n\na) Ser georreferenciadas no sistema de referência oficial em vigor, cujos parâmetros se encontram publicados pelo Instituto Geográfico Português;\n\nb) Conter uma quadrícula com indicação das coordenadas que lhe estão associadas, num dos sistemas de coordenadas utilizado na cartografia topográfica oficial do País.\n\n6 - As peças gráficas que integram os instrumentos de gestão territorial contêm uma legenda com a seguinte informação mínima:\n\na) Indicação do tipo de plano e respectiva designação, em moldes que permitam a sua identificação inequívoca, tendo por referência a tipologia dos instrumentos de gestão territorial estabelecidos na lei;\n\nb) Designação da peça gráfica, em moldes que estabeleçam o seu tipo e conteúdo, tendo por referência o conteúdo documental da figura de plano tal como é estabelecido na lei;\n\nc) Identificação da entidade pública responsável pelo plano;\n\nd) Identificação da cartografia de referência e informação associada, nos termos estabelecidos no n.º 1 do artigo 7.º;\n\ne) Indicação da escala de representação para a reprodução em suporte analógico e da precisão posicional nominal nessa reprodução;\n\nf) Data de edição e número de ordem da peça gráfica no conjunto das peças que integram o plano.\n\n7 - A Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano publicita, devidamente actualizadas, as normas técnicas sobre a estruturação em sistema de informação geográfica da informação que integra os instrumentos de gestão territorial, bem como sobre a simbologia e as convenções gráficas a utilizar na representação do conteúdo regulamentar dos instrumentos de planeamento territorial."
+  },
+  "49225075": {
+   "fragment_id": "35887075",
+   "type": 11,
+   "heading": "Artigo 7.º — Identificação da cartografia de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Identificação da cartografia de referência\n\n1 - As peças gráficas que integram os instrumentos de gestão territorial contêm, na respectiva legenda, a seguinte informação sobre a cartografia de referência utilizada na sua elaboração:\n\na) Identificação da entidade proprietária da cartografia;\n\nb) Identificação da entidade produtora e data de edição;\n\nc) Série cartográfica oficial a que pertence, se aplicável;\n\nd) Data e número de homologação e entidade responsável pela homologação, se aplicável;\n\ne) Sistema de referência, datum (quando aplicável) e projecção cartográfica;\n\nf) Exactidão posicional e temática.\n\n2 - No caso de terem sido realizados trabalhos de actualização ou completamento da cartografia de referência, nos termos previstos no artigo 5.º, a legenda contém também a indicação da respectiva data de realização e a identificação da entidade responsável por esse trabalho.\n\n3 - A informação referida nos números anteriores consta ainda de uma ficha de metadados em suporte informático, que obedece a modelo a definir pela Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano, de acordo com perfil nacional de metadados.\n\n4 - A ficha de metadados referida no número anterior é publicada no sistema nacional de informação territorial e no sistema nacional de informação geográfica, em simultâneo com a disponibilização do conteúdo documental obrigatório do instrumento de gestão territorial no sistema nacional de informação territorial."
+  },
+  "49225175": {
+   "fragment_id": "35887175",
+   "type": 11,
+   "heading": "Artigo 8.º — Reprodução em suporte analógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reprodução em suporte analógico\n\n1 - As peças gráficas que integram os instrumentos de gestão territorial devem permitir a fácil reprodução do seu conteúdo em suporte analógico, incluindo o conteúdo da carta base, com a exactidão posicional e o pormenor cartográfico que lhes são inerentes.\n\n2 - As peças gráficas que integram os instrumentos de planeamento territorial devem permitir a reprodução em suporte analógico às seguintes escalas de representação:\n\na) Plano director municipal - igual ou superior à escala de 1:25 000;\n\nb) Plano de urbanização - igual ou superior à escala de 1:5000 ou, excepcionalmente, à escala de 1:10 000;\n\nc) Plano de pormenor - igual ou superior à escala de 1:2000."
+  },
+  "49225275": {
+   "fragment_id": "35887275",
+   "type": 11,
+   "heading": "Artigo 9.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime transitório\n\n1 - O presente decreto regulamentar aplica-se aos procedimentos já iniciados à data da sua entrada em vigor.\n\n2 - Excepcionam-se do disposto no número anterior:\n\na) Os procedimentos relativos aos planos directores municipais relativamente aos quais a comissão de acompanhamento tenha já emitido o respectivo parecer final;\n\nb) Os procedimentos relativos aos planos de urbanização e planos de pormenor cujas propostas tenham sido apresentadas à comissão de coordenação e desenvolvimento regional territorialmente competente, à data da entrada em vigor do presente decreto regulamentar, para efeitos de realização de conferência de serviços."
+  },
+  "49225375": {
+   "fragment_id": "35887375",
+   "type": 11,
+   "heading": "Artigo 10.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regiões Autónomas\n\nO presente decreto regulamentar aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respectiva autonomia político-administrativa, cabendo a sua execução às respectivas administrações autónomas regionais, sem prejuízo das atribuições das entidades de âmbito nacional."
+  },
+  "49225475": {
+   "fragment_id": "35887475",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

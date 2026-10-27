@@ -1,0 +1,118 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:226874:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-160534666",
+ "dre_path": "/dr/detalhe/decreto-lei/121-1986-226874",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-05-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160630780",
+    "160630775",
+    "160630776",
+    "160630777"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "160630780",
+    "160630781",
+    "160630782",
+    "160630783",
+    "160630784"
+   ]
+  }
+ ],
+ "fragments": {
+  "160630780": {
+   "fragment_id": "160534667",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 121/86\n\nde 28 de Maio\n\nOs objectivos visados no Decreto-Lei n.º 397/77, de 17 de Setembro, têm de ter uma consagração expressa em todo o ensino superior português, sendo, por isso, necessário harmonizar o regime de numerus clausus actualmente vigente nas instituições de ensino superior público com a, em vários casos excessiva, frequência de alunos nos cursos ministrados nos estabelecimentos de ensino superior particular ou cooperativo. Única forma, aliás, de ajustar a oferta de diplomados às previsíveis necessidades nacionais de técnicos qualificados.\n\nDaí que, sendo embora certo que o Decreto-Lei n.º 100-B/85, de 8 de Abril, já prevê a fixação do «número máximo de alunos que cada estabelecimento particular ou cooperativo pode admitir em cada curso» - a estabelecer no despacho ministerial de autorização de criação -, torna-se necessário prever a actualização anual do número máximo de alunos a admitir à matrícula naqueles estabelecimentos.\n\nPor outro lado, a prática aconselha a que sejam introduzidas ligeiras modificações ao citado decreto-lei, mais no sentido de aclarar a sua aplicação do que de alterar o seu comando.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "160630775": {
+   "fragment_id": "160534668",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nTendo em consideração as necessidades nacionais na formação de diplomados nos vários cursos superiores e em face do numerus clausus estabelecido para os estabelecimentos de ensino público, será fixado anualmente, em portaria do Ministro da Educação e Cultura, o numerus clausus para cada um dos cursos autorizados nas instituições de ensino superior particular ou cooperativo, a que se aplica o Decreto-Lei n.º 100-B/85, de 8 de Abril."
+  },
+  "160630776": {
+   "fragment_id": "160534669",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Sempre que seja possível satisfazer todos os requisitos estabelecidos nos artigos 4.º, 5.º e 12.º do Decreto-Lei n.º 100-B/85, de 8 de Abril, sem necessidade do decurso dos prazos fixados nos artigos 3.º e 11.º do mesmo diploma, poderá ser exarada decisão final sobre os respectivos requerimentos por despacho ministerial.\n\n2 - Nos casos previstos no número anterior, o despacho deverá ser fundamentado com as razões que permitam ou aconselhem não satisfazer o estabelecido nos citados artigos 3.º e 11.º"
+  },
+  "160630777": {
+   "fragment_id": "160534670",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA alínea f) do artigo 6.º do Decreto-Lei n.º 100- B/85, de 8 de Abril, passa a ter a seguinte redacção:\n\nf) O número máximo de alunos que pode admitir em cada curso, sem prejuízo dos ajustamentos que anualmente forem fixados em portaria regulamentar do regime de numerus clausus para o ensino particular ou cooperativo."
+  },
+  "160630781": {
+   "fragment_id": "160534668",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 1.º\n\nTendo em consideração as necessidades nacionais na formação de diplomados nos vários cursos superiores e em face do numerus clausus estabelecido para os estabelecimentos de ensino público, será fixado anualmente, em portaria do Ministro da Educação e Cultura, o numerus clausus para cada um dos cursos autorizados nas instituições de ensino superior particular ou cooperativo, a que se aplica o Decreto-Lei n.º 100-B/85, de 8 de Abril.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160630782": {
+   "fragment_id": "160534669",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a [Lei n.º 18/87 - Diário da República n.º 125/1987, Série I de 1987-06-01](https://diariodarepublica.pt/dr/detalhe/lei/18-1987-421864)"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Sempre que seja possível satisfazer todos os requisitos estabelecidos nos artigos 4.º, 5.º e 12.º do Decreto-Lei n.º 100-B/85, de 8 de Abril, sem necessidade do decurso dos prazos fixados nos artigos 3.º e 11.º do mesmo diploma, poderá ser exarada decisão final sobre os respectivos requerimentos por despacho ministerial.\n\n2 - Nos casos previstos no número anterior, o despacho deverá ser fundamentado com as razões que permitam ou aconselhem não satisfazer o estabelecido nos citados artigos 3.º e 11.º\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a [Lei n.º 18/87 - Diário da República n.º 125/1987, Série I de 1987-06-01](https://diariodarepublica.pt/dr/detalhe/lei/18-1987-421864)"
+  },
+  "160630783": {
+   "fragment_id": "160534670",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\nA alínea f) do artigo 6.º do Decreto-Lei n.º 100- B/85, de 8 de Abril, passa a ter a seguinte redacção:\n\nf) O número máximo de alunos que pode admitir em cada curso, sem prejuízo dos ajustamentos que anualmente forem fixados em portaria regulamentar do regime de numerus clausus para o ensino particular ou cooperativo.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160630784": {
+   "fragment_id": "160534671",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Abril de 1986. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 15 de Maio de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 21 de Maio de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

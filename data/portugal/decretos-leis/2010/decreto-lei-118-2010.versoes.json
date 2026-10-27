@@ -1,0 +1,493 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:307651:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-157281131",
+ "dre_path": "/dr/detalhe/decreto-lei/118-2010-307651",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-10-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "157352037",
+    "157352038",
+    "157352039",
+    "157352040",
+    "157352041",
+    "157352042",
+    "157352043",
+    "157352044",
+    "157352045",
+    "157352046",
+    "157352047"
+   ]
+  },
+  {
+   "date": "2013-04-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:588794:por",
+     "title": "Decreto-Lei n.º 2/2013",
+     "published": "2013-01-09",
+     "dre_path": "/dr/detalhe/decreto-lei/2-2013-588794"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "157352037",
+    "157352049",
+    "157352050",
+    "157352051",
+    "157352052",
+    "157352042",
+    "157352043",
+    "157352055",
+    "157352056",
+    "157352057",
+    "157352058",
+    "157352059",
+    "157352060"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "157352037",
+    "157352049",
+    "157352050",
+    "157352051",
+    "157352052",
+    "157352042",
+    "157352061",
+    "157352055",
+    "157352056",
+    "157352062",
+    "157352058",
+    "157352059",
+    "157352060"
+   ]
+  },
+  {
+   "date": "2021-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:170322928:por",
+     "title": "Decreto-Lei n.º 76/2021",
+     "published": "2021-08-27",
+     "dre_path": "/dr/detalhe/decreto-lei/76-2021-170322928"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 3.º-B",
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 6.º-A",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "157352037",
+    "170339997",
+    "170339998",
+    "170340028",
+    "170340003",
+    "170340013",
+    "170340014",
+    "170340015",
+    "170340016",
+    "170340017",
+    "170340018",
+    "170340023",
+    "170340024",
+    "170340025",
+    "170340026",
+    "170340027"
+   ]
+  }
+ ],
+ "fragments": {
+  "157352037": {
+   "fragment_id": "157281132",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 118/2010\n\nde 25 de Outubro\n\nO programa do XVIII Governo estabelece que «melhorar o funcionamento do mercado através da defesa da concorrência, da regulação e da promoção da defesa dos consumidores é um elemento central para a melhoria da competitividade e para relações económicas equilibradas».\n\nO presente diploma estabelece prazos de pagamento obrigatórios para os contratos de compra e venda ou de fornecimento de bens alimentares exclusivamente destinados ao consumo humano, em que seja parte uma micro ou pequena empresa. Estabelece-se que, quando estejam em causa produtos alimentares de carácter perecível destinados exclusivamente ao consumo humano, o pagamento deve ocorrer no prazo de 30 dias após a efectiva entrega dos bens e da respectiva factura. Se as transacções comerciais tiverem por objecto produtos alimentares não perecíveis, o prazo é de 60 dias.\n\nAs obrigações de pagamento nestes prazos aplicam-se a empresas que tenham mais de 50 trabalhadores e cujo volume de negócios anual seja superior a dez milhões de euros.\n\nO incumprimento da obrigação de pagamento do preço nos prazos estabelecidos determina a aplicação de juros e constitui contra-ordenação punível com coima cujo montante mínimo é de (euro) 150 e máximo de (euro) 3740,98 ou mínimo de (euro) 500 e máximo de (euro) 44 891,81 consoante o agente seja pessoa singular ou colectiva.\n\nPretende-se, com este diploma, criar melhores condições económico-financeiras para as micro e pequenas empresas fornecedoras de bens alimentares e promover o equilíbrio nas relações comerciais entre produtores, industriais e distribuidores.\n\nActualmente, os pequenos fornecedores de bens alimentares deparam-se com a necessidade de dispor de liquidez para a sua vida comercial. E esta necessidade não pode nem deve ser suprida através do acesso ao crédito de curto prazo para solver os compromissos mais imediatos. Desta forma, através de prazos de pagamento mais curtos, criam-se melhores condições económicas para que estas empresas continuem a abastecer os mercados com os seus produtos.\n\nPor outro lado, no sector alimentar é especialmente notório o peso negocial desproporcionado que algumas empresas adquiriram, o que lhes permite impor aos fornecedores prazos de pagamento dilatados e dificilmente conciliáveis com as suas necessidades de liquidez a curto prazo, e que estes, investidos numa posição negocial mais frágil, se vêem constrangidos a aceitar. O presente diploma visa, assim, restabelecer o equilíbrio nas relações comerciais entre produtores, industriais e distribuidores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "157352038": {
+   "fragment_id": "157281133",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei define prazos de vencimento máximos, imperativos, para efeitos da obrigação de pagamento do preço nos contratos de compra e venda ou de fornecimento de bens alimentares destinados exclusivamente ao consumo humano, celebrados entre empresas comerciais, singulares ou colectivas, em que a obrigação de pagamento do preço ocorra após a entrega dos bens."
+  },
+  "157352039": {
+   "fragment_id": "157281134",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente decreto-lei aplica-se aos casos em que o credor do preço seja uma micro ou pequena empresa cujo estatuto esteja certificado pelo Instituto de Apoio às Pequenas e Médias Empresas e à Inovação (IAPMEI).\n\n2 - O presente decreto-lei não se aplica:\n\na) Aos casos em que o devedor do preço seja uma micro ou pequena empresa cujo estatuto esteja certificado pelo IAPMEI;\n\nb) Aos contratos celebrados em que uma das partes seja um estabelecimento de restauração e bebidas.\n\n3 - Para comprovar a certificação de micro ou pequena empresa, o titular do certificado deve permitir a sua consulta no sítio da Internet da certificação PME, nos termos do disposto no artigo 11.º do Decreto-Lei n.º 372/2007, de 6 de Novembro."
+  },
+  "157352040": {
+   "fragment_id": "157281135",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazo de vencimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prazo de vencimento\n\n1 - Nas transacções comerciais entre empresas que tenham por objecto produtos alimentares de carácter perecível, frescos e refrigerados, destinados exclusivamente ao consumo humano, o vencimento da obrigação de pagamento do preço ocorre, imperativamente, até 30 dias após a efectiva entrega dos bens e da respectiva factura ao adquirente.\n\n2 - Quando as transacções comerciais tenham por objecto produtos alimentares destinados exclusivamente ao consumo humano, que não estejam incluídos no número anterior, o vencimento da obrigação de pagamento do preço ocorre, imperativamente, até 60 dias após a efectiva entrega dos bens e da respectiva factura ao adquirente.\n\n3 - Nos casos em que é acordada a prática de resumo periódico de facturas entre o fornecedor do bem e o adquirente, com o objectivo de facilitar a gestão dos pagamentos, e desde que tal período não exceda o mês civil, os prazos de vencimento referidos nos números anteriores contam-se a partir do final do período a que o resumo de facturas se reporta.\n\n4 - Para efeitos do disposto no presente decreto-lei consideram-se produtos perecíveis, frescos e refrigerados, os produtos alimentares, em natural ou transformados desses produtos sem perda das suas características naturais mantidos em fresco ou refrigerados, destinados exclusivamente ao consumo humano, que apresentem as características naturais aptas para consumo pelo período máximo de 30 dias.\n\n5 - É aprovada por despacho dos membros do Governo responsáveis pelas áreas do comércio e da agricultura e pescas uma lista dos produtos abrangidos pela definição do número anterior.\n\n6 - As partes podem convencionar prazos de vencimento inferiores."
+  },
+  "157352041": {
+   "fragment_id": "157281136",
+   "type": 11,
+   "heading": "Artigo 4.º — Recepção e interpelação para pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recepção e interpelação para pagamento\n\n1 - A entrega dos bens ao adquirente deve ser comprovada pela competente guia de remessa ou documento equivalente, devidamente assinada pelo fornecedor e pelo adquirente e da qual conste a data da recepção dos produtos e na qual se mencione que o pagamento se sujeita ao regime de vencimento constante do presente decreto-lei.\n\n2 - Para efeitos do disposto no presente decreto-lei a factura deve:\n\na) Conter a menção expressa do prazo de vencimento aplicável e da sua sujeição ao regime constante do presente decreto-lei;\n\nb) Incluir apenas os produtos abrangidos pelo presente decreto-lei;\n\nc) Ser emitida separadamente, consoante se trate de produtos alimentares destinados exclusivamente ao consumo humano perecíveis ou não perecíveis."
+  },
+  "157352042": {
+   "fragment_id": "157281137",
+   "type": 11,
+   "heading": "Artigo 5.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Incumprimento\n\n1 - O incumprimento da obrigação de pagamento do preço no prazo de vencimento referido nos n.os 1, 2 e 3 do artigo 3.º faz acrescer à taxa supletiva de juro moratório fixada nos termos do artigo 102.º do Código Comercial ou à taxa de juro convencionada o montante de 2 %.\n\n2 - Nas transacções comerciais objecto do presente decreto-lei, as partes não podem convencionar juros de mora inferiores à taxa de juro fixada nos termos do artigo 102.º do Código Comercial.\n\n3 - O disposto nos números anteriores não prejudica as sanções compulsórias ou cláusulas penais estipuladas entre as partes."
+  },
+  "157352043": {
+   "fragment_id": "157281138",
+   "type": 11,
+   "heading": "Artigo 6.º — Contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contra-ordenação\n\nO incumprimento da obrigação de pagamento do preço no prazo de vencimento referido nos n.os 1, 2 e 3 do artigo 3.º constitui contra-ordenação punível, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, na sua redacção actual, com coima cujo montante mínimo é de (euro) 150 e máximo de (euro) 3740,98 ou mínimo de (euro) 500 e máximo de (euro) 44 891,81 consoante o agente seja pessoa singular ou colectiva."
+  },
+  "157352044": {
+   "fragment_id": "157281139",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização, instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fiscalização, instrução e decisão\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização da aplicação do presente decreto-lei pelas empresas comerciais, devendo apresentar um relatório anual sobre os controlos especificamente exercidos para verificação do cumprimento dos prazos de pagamento previstos no âmbito do presente decreto-lei.\n\n2 - A elaboração do auto e a instrução dos processos contra-ordenacionais compete à ASAE.\n\n3 - A decisão de aplicação da coima compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP)."
+  },
+  "157352045": {
+   "fragment_id": "157281140",
+   "type": 11,
+   "heading": "Artigo 8.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produto das coimas\n\nO produto das coimas é distribuído do seguinte modo:\n\na) 20 % para a ASAE;\n\nb) 20 % para a CACMEP;\n\nc) 60 % para os cofres do Estado."
+  },
+  "157352046": {
+   "fragment_id": "157281141",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposição transitória\n\nO presente regime aplica-se aos contratos em curso mas apenas às transacções comerciais efectuadas após a data de entrada em vigor do presente decreto-lei."
+  },
+  "157352047": {
+   "fragment_id": "157281142",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 90 dias após a publicação."
+  },
+  "157352049": {
+   "fragment_id": "157281133",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2013-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei define os prazos de vencimento máximos para efeitos da obrigação de pagamento do preço nos contratos de compra e venda ou de fornecimento de bens alimentares celebrados entre empresas comerciais, singulares ou coletivas, em que a obrigação de pagamento do preço ocorra após a entrega dos bens.\n\n2 - Os bens alimentares a que se refere o número anterior compreendem os géneros alimentícios, tal como definidos no artigo 2.º do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro, com exceção das substâncias químicas destinadas a ser incorporadas durante o seu fabrico, preparação ou tratamento, nomeadamente aditivos, aromas, enzimas e sal-gema, bem como daágua não engarrafada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "157352050": {
+   "fragment_id": "157281134",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2013-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente decreto-lei aplica-se aos casos em que o credor da obrigação de pagamento do preço se enquadre num destes tipos de entidades:\n\na) Microou pequenas empresas, cujo estatuto esteja certificado pelo Instituto de Apoio às Pequenas e Médias Empresas e à Inovação (IAPMEI, I.P.);\n\nb) Médias empresas que exerçam a sua atividade principal no setor da produção e transformação de pescado, cujo estatuto esteja certificado pelo IAPMEI, I.P.;\n\nc) Organização de produtores (OP), reconhecida ao abrigo do Despacho Normativo n.º11/2010, de 20 de abril,da Portaria n.º 1266/2008, de 5 de novembro, do Regulamento (CE) n.º 104/2000 do Conselho, de 17 de dezembro de 1999, e do Regulamento (CE) n.º 2318/2001 da Comissão, de 29 de novembro de 2001, alterado pelo Regulamento (CE) n.º 1767/2004 da Comissão, de 13 de outubro de 2004.\n\n2 - O presente decreto-lei não se aplica:\n\na) Aos casos em que o devedor da obrigação de pagamento do preço seja uma micro ou pequena empresa cujo estatuto esteja certificado pelo IAPMEI, I.P.;\n\nb) Aos contratos celebrados em que uma das partes seja um estabelecimento de restauração e bebidas.\n\nc) Às transações comerciais entre as cooperativas constituídas ao abrigo da Lei n.º 51/96, de 7 de setembro,e os seus cooperantes, bem como entre as organizações de produtores reconhecidas ao abrigo do Despacho Normativo n.º11/2010, de 20 de abril,e da Portaria n.º 1266/2008, de 5 de novembro,e os respetivos membros.\n\n3 - Para comprovar a certificação de micro ou pequena empresa, o titular do certificado deve permitir a sua consulta no sítio da Internet da certificação PME, nos termos do disposto no artigo 11.º do Decreto-Lei n.º 372/2007, de 6 de Novembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "157352051": {
+   "fragment_id": "157281135",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazo de vencimento",
+   "in_force_from": "2013-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 3.º — Prazo de vencimento\n\n1 - No caso de inexistência de instrumento de autorregulação aplicável nos termos do artigo 6.º-A, nas transações comerciais entre empresas que tenham por objeto produtos alimentares, o vencimento da obrigação de pagamento do preço ocorre, imperativamente, até 30 dias após a efetiva entrega dos bens e da respetiva fatura ao adquirente.\n\n2 - [Revogado].\n\n3 - Nos casos em que é acordada a prática de resumo periódico de faturas entre o fornecedor do bem e o adquirente, com o objetivo de facilitar a gestão dos pagamentos, e desde que tal período não exceda20 dias, os prazos de vencimento referidos nos números anteriores contam-se a partir do final do período a que o resumo de faturas se reporta.\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - As partes podem convencionar prazos de vencimento inferiores.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "157352052": {
+   "fragment_id": "157281136",
+   "type": 11,
+   "heading": "Artigo 4.º — Recepção e interpelação para pagamento",
+   "in_force_from": "2013-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 4.º — Recepção e interpelação para pagamento\n\n1 - A entrega dos bens ao adquirente deve ser comprovada pela competente guia de remessa ou documento equivalente, devidamente assinada pelo fornecedor e pelo adquirente e da qual conste a data da recepção dos produtos e na qual se mencione que o pagamento se sujeita ao regime de vencimento constante do presente decreto-lei.\n\n2 - Para efeitos do disposto no presente decreto-lei a factura deve:\n\na) Conter a menção expressa do prazo de vencimento aplicável e da sua sujeição ao regime constante do presente decreto-lei;\n\nb) Incluir apenas os produtos abrangidos pelo presente decreto-lei;\n\nc) [Revogada].\n\n3 - A alegação de existência de erro material afeta apenas a parcela em que se verifica, considerando-se cumprido o dever de interpelação para pagamento dos restantes bens e serviços constantes da fatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "157352055": {
+   "fragment_id": "157281146",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Autorregulação",
+   "in_force_from": "2013-04-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 6.º-A — Autorregulação\n\n1 - Podem ser estabelecidos prazos de pagamento superioresaos previstos no presente decreto-lei, desde que tal possibilidade resulte do disposto em instrumento de autorregulação que envolva as estruturas representativas dos intervenientes, designadamente da distribuição, da indústria e da produção, nos termos definidos no regimejurídico aplicável às práticas individuais restritivas do comércio.\n\n2 - Os prazos estabelecidos nos termos do número anterior devem constar de cada contrato de fornecimento, que deve identificar o instrumento de autorregulação aplicável.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "157352056": {
+   "fragment_id": "157281139",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização, instrução e decisão",
+   "in_force_from": "2013-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 7.º — Fiscalização, instrução e decisão\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização da aplicação do presente decreto-lei, devendo apresentar um relatório bianual sobre os controlos especificamente exercidos para verificação do cumprimento dos prazos de pagamento previstos no âmbito do presente decreto-lei.\n\n2 - Compete, igualmente, à ASAE a instrução dos processos contraordenacionais e a respetiva decisão.\n\n3 - A decisão de aplicação da coima compete à ASAE.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "157352057": {
+   "fragment_id": "157281140",
+   "type": 11,
+   "heading": "Artigo 8.º — Produto das coimas",
+   "in_force_from": "2013-04-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 8.º — Produto das coimas\n\nO produto das coimas é distribuído do seguinte modo:\n\na) 40 % para a ASAE;\n\nb) [Revogada];\n\nc) 60 % para os cofres do Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "157352058": {
+   "fragment_id": "157281141",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposição transitória\n\nO presente regime aplica-se aos contratos em curso mas apenas às transacções comerciais efectuadas após a data de entrada em vigor do presente decreto-lei."
+  },
+  "157352059": {
+   "fragment_id": "157281142",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 90 dias após a publicação."
+  },
+  "157352060": {
+   "fragment_id": "157281143",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins - Fernando Medina Maciel Almeida Correia - António Manuel Soares Serrano.\n\nPromulgado em 15 de Outubro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 18 de Outubro de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "157352061": {
+   "fragment_id": "157281138",
+   "type": 11,
+   "heading": "Artigo 6.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Contraordenações\n\nConstitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), o incumprimento da obrigação de pagamento do preço no prazo de vencimento referido nos n.os 1, 2 e 3 do artigo 3.º\n\n> Alterado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157352062": {
+   "fragment_id": "157281140",
+   "type": 11,
+   "heading": "Artigo 8.º — Produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 8.º — Produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "170339997": {
+   "fragment_id": "157281133",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei define os prazos de vencimento máximos para efeitos da obrigação de pagamento do preço nos contratos de compra e venda ou de fornecimento de produtos agrícolas e alimentares e procede à transposição para a ordem jurídica interna a Diretiva (UE) n.º 2019/633, de 17 de abril de 2019, relativa a práticas comerciais desleais nas relações entre empresas na cadeia de abastecimento agrícola e alimentar.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "170339998": {
+   "fragment_id": "157281134",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente decreto-lei é aplicável:\n\na) Aos contratos celebrados com fornecedores singulares ou coletivos do setor agroalimentar cujo volume de negócios anual não exceda os 350 milhões de euros, na aceção do anexo à Recomendação n.º 2003/361/CE, da Comissão Europeia, de 6 de maio de 2003, independentemente do Estado-Membro da União Europeia em que estejam estabelecidos, bem como às organizações de produtores e respetivas associações, reconhecidas nos termos da Portaria n.º 298/2019, de 9 de setembro;\n\nb) A todos os contratos celebrados com compradores singulares ou coletivos de produtos agrícolas e alimentares ou agrupamentos destes, independentemente do Estado-Membro da União Europeia em que se encontrem estabelecidos, ou com compradores que sejam entidades públicas, entendendo-se como tal os serviços e entidades que integram a administração direta, indireta e autónoma do Estado, incluindo os serviços e entidades da administração regional, local e associações públicas sujeitos a um regime de direito público;\n\nc) (Revogada.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "170340028": {
+   "fragment_id": "157281135",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazo de vencimento",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 3.º — Prazo de vencimento\n\n1 - No caso de inexistência de instrumento de autorregulação aplicável nos termos do artigo 6.º-A, nas transações comerciais entre empresas que tenham por objeto produtos alimentares, o vencimento da obrigação de pagamento do preço ocorre, imperativamente, até 30 dias após a efetiva entrega dos bens e da respetiva fatura ao adquirente.\n\n2 - [Revogado].\n\n3 - Nos casos em que é acordada a prática de resumo periódico de faturas entre o fornecedor do bem e o adquirente, com o objetivo de facilitar a gestão dos pagamentos, e desde que tal período não exceda20 dias, os prazos de vencimento referidos nos números anteriores contam-se a partir do final do período a que o resumo de faturas se reporta.\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - As partes podem convencionar prazos de vencimento inferiores.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "170340003": {
+   "fragment_id": "170339898",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Prazos de pagamento de produtos agrícolas e alimentares",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Prazos de pagamento de produtos agrícolas e alimentares\n\n1 - São proibidas as práticas negociais do comprador nas transações comerciais que tenham por objeto produtos agrícolas ou alimentares perecíveis que se traduzam no pagamento do preço após o decurso do prazo de 30 dias nos seguintes casos:\n\na) Fornecedores cujo volume anual de negócios não exceda os (euro) 2 000 000 a compradores cujo volume anual de negócios exceda os (euro) 2 000 000;\n\nb) Fornecedores cujo volume anual de negócios se situe entre os (euro) 2 000 000 e os (euro) 10 000 000 a compradores cujo volume anual de negócios exceda os (euro) 10 000 000;\n\nc) Fornecedores cujo volume anual de negócios se situe entre os (euro) 10 000 000 e os (euro) 50 000 000 a compradores cujo volume anual de negócios exceda os (euro) 50 000 000;\n\nd) Fornecedores cujo volume anual de negócios se situe entre os (euro) 50 000 000 e os (euro) 150 000 000 a compradores cujo volume anual de negócios exceda os (euro) 150 000 000;\n\ne) Fornecedores cujo volume anual de negócios se situe entre os (euro) 150 000 000 e os (euro) 350 000 000 a compradores cujo volume anual de negócios exceda os (euro) 350 000 000.\n\n2 - Entende-se por produtos agrícolas e alimentares perecíveis os produtos agrícolas e alimentares que, pela sua natureza ou devido à sua fase de transformação, são suscetíveis de se tornar impróprios para venda no prazo de 30 dias após a data de colheita, produção ou transformação.\n\n3 - São proibidas as práticas negociais do comprador nas transações comerciais que tenham por objeto produtos agrícolas ou alimentares não perecíveis que se traduzam no pagamento do preço após o decurso do prazo de 30 dias, exceto quando o comprador seja uma empresa do setor da restauração e bebidas, nos casos de:\n\na) Fornecedores cujo volume anual de negócios não exceda os (euro) 2 000 000 a compradores cujo volume anual de negócios exceda os (euro) 2 000 000;\n\nb) Fornecedores cujo volume anual de negócios se situe entre os (euro) 2 000 000 e os (euro) 10 000 000 a compradores cujo volume anual de negócios exceda os (euro) 10 000 000.\n\n4 - São proibidas as práticas negociais do comprador nas transações comerciais que tenham por objeto produtos agrícolas ou alimentares não perecíveis que se traduzam no pagamento do preço após o decurso do prazo de 60 dias, nos casos de:\n\na) Fornecedores cujo volume anual de negócios não exceda os (euro) 2 000 000 a compradores do setor da restauração e bebidas cujo volume anual de negócios exceda os (euro) 2 000 000;\n\nb) Fornecedores cujo volume anual de negócios se situe entre os (euro) 2 000 000 e os (euro) 10 000 000 a compradores do setor da restauração e bebidas cujo volume anual de negócios exceda os (euro) 10 000 000;\n\nc) Fornecedores cujo volume anual de negócios se situe entre os (euro) 10 000 000 e os (euro) 50 000 000 a compradores cujo volume anual de negócios exceda os (euro) 50 000 000;\n\nd) Fornecedores cujo volume anual de negócios se situe entre os (euro) 50 000 000 e os (euro) 150 000 000 a compradores cujo volume anual de negócios exceda os (euro) 150 000 000;\n\ne) Fornecedores cujo volume anual de negócios se situe entre os (euro) 150 000 000 e os (euro) 350 000 000 a compradores cujo volume anual de negócios exceda os (euro) 350 000 000.\n\n5 - Os prazos referidos nos n.os 1, 3 e 4 são contados a partir da entrega efetiva dos bens ou da apresentação da respetiva fatura, na qual devem estar apenas indicados os produtos alimentares, consoante o que ocorrer em momento posterior, ou a contar do final do período a que se reporta o resumo de faturas, caso tenha sido acordada esta prática, e desde que este período não exceda:\n\na) 20 dias nos casos previstos nos n.os 1 e 3;\n\nb) 50 dias nos casos previstos no n.º 4.\n\n6 - Para efeitos dos n.os 1, 3 e 4, o volume anual de negócios dos fornecedores e dos compradores deve ser entendido de acordo com as partes pertinentes do anexo da Recomendação n.º 2003/361/CE, da Comissão Europeia, de 6 de maio de 2003, relativa à definição de micro, pequena e média empresa, em particular, com os seus artigos 3.º, 4.º e 6.º, incluindo as definições de 'empresa autónoma', 'empresa parceira' e 'empresa associada', e outras questões relacionadas com o volume anual de negócios.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "170340013": {
+   "fragment_id": "170339899",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Exceções relativas ao prazo de pagamento no setor agroalimentar",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 3.º-B — Exceções relativas ao prazo de pagamento no setor agroalimentar\n\n1 - O disposto no artigo 3.º-A não prejudica:\n\na) A aplicação do Decreto-Lei n.º 62/2013, de 10 de maio, que estabelece medidas contra os atrasos de pagamento nas transações comerciais, e que se aplica supletivamente ao presente decreto-lei;\n\nb) A possibilidade de as partes acordarem uma cláusula de partilha de valor, na aceção do artigo 172.º-A do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.\n\n2 - O disposto no artigo 3.º-A não é aplicável:\n\na) Aos pagamentos efetuados no âmbito do regime escolar, em conformidade com o artigo 23.º do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nb) Aos contratos celebrados por entidades públicas que prestem cuidados de saúde e estejam devidamente reconhecidas como tal.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "170340014": {
+   "fragment_id": "157281136",
+   "type": 11,
+   "heading": "Artigo 4.º — Recepção e interpelação para pagamento",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 4.º — Recepção e interpelação para pagamento\n\n1 - A entrega dos bens ao adquirente deve ser comprovada pela competente guia de remessa ou documento equivalente, devidamente assinada pelo fornecedor e pelo adquirente e da qual conste a data da recepção dos produtos e na qual se mencione que o pagamento se sujeita ao regime de vencimento constante do presente decreto-lei.\n\n2 - Para efeitos do disposto no presente decreto-lei a factura deve:\n\na) Conter a menção expressa do prazo de vencimento aplicável e da sua sujeição ao regime constante do presente decreto-lei;\n\nb) Incluir apenas os produtos abrangidos pelo presente decreto-lei;\n\nc) [Revogada].\n\n3 - A alegação de existência de erro material afeta apenas a parcela em que se verifica, considerando-se cumprido o dever de interpelação para pagamento dos restantes bens e serviços constantes da fatura.\n\n4 - A documentação necessária para efeitos de prova do cumprimento do disposto no presente decreto-lei, designadamente as guias de remessa ou documentos equivalentes, e as faturas, deve ser mantida em arquivo físico ou digital por um período de três anos e disponibilizada à entidade fiscalizadora mediante solicitação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "170340015": {
+   "fragment_id": "157281137",
+   "type": 11,
+   "heading": "Artigo 5.º — Incumprimento",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 5.º — Incumprimento\n\n1 - O incumprimento da obrigação de pagamento do preço no prazo de vencimento referido no artigo 3.º-A faz acrescer à taxa supletiva de juro moratório fixada nos termos do artigo 102.º do Código Comercial ou à taxa de juro convencionada o montante de 2 %.\n\n2 - Nas transacções comerciais objecto do presente decreto-lei, as partes não podem convencionar juros de mora inferiores à taxa de juro fixada nos termos do artigo 102.º do Código Comercial.\n\n3 - O disposto nos números anteriores não prejudica as sanções compulsórias ou cláusulas penais estipuladas entre as partes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "170340016": {
+   "fragment_id": "157281138",
+   "type": 11,
+   "heading": "Artigo 6.º — Contraordenações",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Alterado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Contraordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A violação do disposto nos n.os 1, 3, 4 e 5 do artigo 3.º-A;\n\nb) A violação do disposto no n.º 4 do artigo 4.º;\n\nc) A não prestação ou a prestação de informações falsas, inexatas ou incompletas, em resposta a pedido da entidade fiscalizadora.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Alterado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "170340017": {
+   "fragment_id": "157281146",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Autorregulação",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 6.º-A — Autorregulação\n\n1 - Podem ser estabelecidos prazos de pagamento superiores aos previstos no presente decreto-lei, desde que tal possibilidade resulte do disposto em instrumento de autorregulação que envolva as estruturas representativas dos intervenientes, designadamente da distribuição, da indústria e da produção, nos termos definidos no regime jurídico aplicável às práticas individuais restritivas do comércio, em conformidade com a Diretiva (UE) 2019/633, do Parlamento Europeu e do Conselho, de 17 de abril de 2019.\n\n2 - Os prazos estabelecidos nos termos do número anterior devem constar de cada contrato de fornecimento, que deve identificar o instrumento de autorregulação aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "170340018": {
+   "fragment_id": "157281139",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização, instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 7.º — Fiscalização, instrução e decisão\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização da aplicação do presente decreto-lei, devendo apresentar um relatório bianual sobre os controlos especificamente exercidos para verificação do cumprimento dos prazos de pagamento previstos no âmbito do presente decreto-lei.\n\n2 - Compete, igualmente, à ASAE a instrução dos processos contraordenacionais e a respetiva decisão.\n\n3 - A decisão de aplicação da coima compete à ASAE.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "170340023": {
+   "fragment_id": "170339900",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Denúncias e avaliação da execução",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Denúncias e avaliação da execução\n\nAo presente decreto-lei são aplicáveis as normas sobre denúncias, investigação e avaliação constantes do artigo 7.º-D e dos artigos 15.º e 18.º do Decreto-Lei n.º 166/2013, de 27 de dezembro, na sua redação atual.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2021-170322928), em vigor a partir de 2021-11-01"
+  },
+  "170340024": {
+   "fragment_id": "157281140",
+   "type": 11,
+   "heading": "Artigo 8.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+   ],
+   "markdown": "###### Artigo 8.º — Produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2013 - Diário da República n.º 6/2013, Série I de 2013-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794), em vigor a partir de 2013-04-09"
+  },
+  "170340025": {
+   "fragment_id": "157281141",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposição transitória\n\nO presente regime aplica-se aos contratos em curso mas apenas às transacções comerciais efectuadas após a data de entrada em vigor do presente decreto-lei."
+  },
+  "170340026": {
+   "fragment_id": "157281142",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 90 dias após a publicação."
+  },
+  "170340027": {
+   "fragment_id": "157281143",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins - Fernando Medina Maciel Almeida Correia - António Manuel Soares Serrano.\n\nPromulgado em 15 de Outubro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 18 de Outubro de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

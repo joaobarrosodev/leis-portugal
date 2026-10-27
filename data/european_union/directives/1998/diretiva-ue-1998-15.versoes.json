@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0015:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0015-19980327",
+ "dre_path": null,
+ "source_lastmod": "1998-03-27",
+ "versions": [
+  {
+   "date": "1998-03-07",
+   "future": false,
+   "celex": "31998L0015",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f170043dea90450f",
+    "05958fb15b6f5629",
+    "7adf215bf3adaa20",
+    "6933a0293a43d060",
+    "8987c75fcbcd333b",
+    "92be8df09cdcd26a"
+   ]
+  }
+ ],
+ "fragments": {
+  "f170043dea90450f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 98/15/CE da Comissão de 27 de Fevereiro de 1998 que altera a Directiva 91/271/CEE no que respeita a determinados requisitos estabelecidos no seu anexo I (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 067 de 07/03/1998 p. 0029 - 0030*\n\nDIRECTIVA 98/15/CE DA COMISSÃO de 27 de Fevereiro de 1998 que altera a Directiva 91/271/CEE no que respeita a determinados requisitos estabelecidos no seu anexo I (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/271/CEE, do Conselho de 21 de Maio de 1991, relativa ao tratamento de águas residuais urbanas (1), e, nomeadamente, o nº 3 do seu artigo 5º,\n\nConsiderando que os requisitos às descargas provenientes de estações de tratamento de águas residuais urbanas efectuadas em zonas sensíveis sujeitas a eutrofização, nomeadamente os requisitos referidos no quadro 2 do anexo I da Directiva 91/271/CEE, suscitaram problemas de interpretação que importa clarificar; que é conveniente alterar o quadro 2 do anexo I da referida directiva;\n\nConsiderando que as medidas previstas na presente directiva são conformes ao parecer do comité previsto no artigo 18º da Directiva 91/271/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "05958fb15b6f5629": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO anexo I da Directiva 91/271/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "7adf215bf3adaa20": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 30 de Setembro de 1998. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem as referidas disposições, estas deverão conter uma referência à presente directiva ou serem acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "6933a0293a43d060": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "8987c75fcbcd333b": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 27 de Fevereiro de 1998.\n\nPela Comissão\n\nRitt BJERREGAARD\n\nMembro da Comissão\n\n(1) JO L 135 de 30. 5. 1991, p. 40."
+  },
+  "92be8df09cdcd26a": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nO quadro 2 do anexo I da Directiva 91/271/CEE é substituído pelo texto seguinte:\n\n«Quadro 2: Requisitos para as descargas de estações de tratamento de águas residuais urbanas em zonas sensíveis sujeitas a eutrofização, tal como identificadas no anexo II, ponto A, alínea a). Podem ser aplicados um dos parâmetros, ou ambos, consoante a situação local. Serão aplicados os valores de concentração ou a percentagem de redução.\n\n>POSIÇÃO NUMA TABELA>"
+  }
+ }
+}

@@ -1,0 +1,273 @@
+---
+schema_version: '1.0'
+id: pt:dre:220896:por
+title: Decreto-Lei n.º 387/86
+short_title: null
+summary: Dá nova redacção aos Decretos-Leis n.os 84/85, de 28 de Março, e 389/85, de 9 de Outubro (regras de distribuição
+  das verbas provenientes do totobola e do totoloto)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Cultura
+proposing_entity: null
+official_number: 387/86
+official_date: null
+publication_date: '1986-11-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 265/1986, Série I de 1986-11-17
+  number: '265'
+  series: I
+  supplement: null
+  pages: 3444 - 3446
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/11/26500/34443446.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '220896'
+  dre_path: /dr/detalhe/decreto-lei/387-1986-220896
+  internal: pt:dre:220896:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:15:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: cafd2ec0ce916a7e78f506545943c17acc3b3d4fcbc7c1570753bcc17b80e097
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:15:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apostas Mútuas Desportivas
+- Totobola
+- Totoloto
+relationships:
+- type: amended_by
+  target: pt:dre:170794638:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:564811:por
+  label: Alterados os arts. 16.º, 17.º-A e 17.º-C do Dec Lei 84/85 de 28-Mar, na redacção do presente diploma, pelo(a) Decreto-Lei
+    n.º 371/90 - Diário da República n.º 274/1990, Série I de 1990-11-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1990-564811
+  date: '1990-11-27'
+- type: amended_by
+  target: pt:dre:658595:por
+  label: "Alterados os arts. 15º, 16º e 17º e os arts. 17º-B e 17º-D do Dec Lei 84/85 de 28-Mar, respectivamente na redacção\
+    \ dada e introduzidas pelo presente diploma, pelo DEC LEI.258/97.1997.09.30.PCM DR.IS-B [226]1\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1997-658595
+  date: '1997-09-30'
+- type: amended_by
+  target: pt:dre:146221:por
+  label: "Alterado o art. 7º do Dec Lei 84/85, de 28-Mar, na redacção do presente diploma, pelo DEC LEI.114/2011.30.11.2011.MAI,\
+    \ DR.IS [230] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2011-146221
+  date: '2011-11-30'
+- type: cites
+  target: pt:dre:178350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546379:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:217703:por
+  label: "Revogado o artigo 17.º-C do Decreto-Lei n.º 84/85, de 28 de Março, na redacção constante do presente diploma, pelo\
+    \ DEC LEI.238/92.29.10.1992.MAI, DR.IS-A [250] de 29.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-1992-217703
+  date: '1992-10-29'
+- type: repealed_by
+  target: pt:dre:230523:por
+  label: "Revogada a al. b) do nº 2 do art. 16º, na redacção dada pelo presente diploma, na parte prejudicada pelo disposto\
+    \ no DEC LEI.64/95.1995.04.07.MESS, DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1995-230523
+  date: '1995-04-07'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:15:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 387/86
+
+de 17 de Novembro
+
+O [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, posteriormente alterado pelo [Decreto-Lei n.º 389/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1985-178350), de 9 de Outubro, estabeleceu as normas relativas à organização e exploração dos concursos de apostas mútuas determinadas «totobola» e «totoloto», determinando também uma forma de distribuição conjunta dos resultados dessa exploração.
+
+A experiência entretanto vivida aconselha a que se alterem as regras vigentes, no sentido de autonomizar a afectação das receitas dos referidos concursos e, consequentemente, a distribuição dos respectivos resultados da exploração pelas entidades beneficiárias, permitindo assim um maior rigor gestionário e uma melhor adequação das verbas arrecadadas às finalidades a que as mesmas se destinam.
+
+São estes, em síntese, os objectivos do presente diploma, que, entretanto, mantêm no essencial a estrutura da exploração dos concursos do totobola e do totoloto.
+
+Importa salientar que dos resultados de exploração do totobola 50% passam a reverter para a Federação Portuguesa de Futebol e clubes das 1.ª, 2.ª e 3.ª Divisões Nacionais, acentuando-se desta forma a ligação entre os resultados dos concursos do totobola e o futebol.
+
+O Governo, ao determinar a distribuição prevista no presente diploma, teve ainda a preocupação de maximizar as verbas atribuídas para finalidades de apoio à população deficiente, cujas graves carências impõem um esforço determinante para a sua mais efectiva protecção.
+
+Pela primeira vez se determina a afectação de uma percentagem dos resultados de exploração do totobola e do totoloto para a prevenção e reparação de situações de calamidade pública.
+
+Pela primeira vez, igualmente se prevê a afectação de uma percentagem destinada a suportar os encargos com o policiamento de espectáculos desportivos.
+
+Também neste diploma se estabelece um reforço das percentagens atribuídas ao Fundo de Fomendo Cultural e ao Fundo de Fomento do Desporto, valorizando assim as verbas destinadas a acções do sector da cultura e do desporto amador.
+
+O diploma prevê, deste modo, alterações na distribuição dos lucros dos concursos em referência, fortalecendo as verbas atribuídas a finalidades de protecção social, cultural e desporto amador, mas mantendo, na quase totalidade dos casos, as entidades beneficiárias e adequando as taxas percentuais que lhes estavam adstritas por forma a não resultar, em geral, diminuição dos montantes previsíveis em relação aos que, em média, lhes vinham sendo atribuídos anteriormente.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os n.os 1 e 2 do artigo 7.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, passam a ter a seguinte redacção:
+
+Art. 7.º - 1 - A superintendência e a fiscalização das operações de microfilmagem das matrizes das apostas, bem como a deliberação sobre a atribuição de prémios, competem a um júri, designado «júri dos concursos», constituído por um representante da mesa da Santa Casa da Misericórdia de Lisboa, que presidirá, por um representante do Governo Civil de Lisboa e por um representante da Inspecção-Geral de Finanças.
+
+2 - Por cada membro do júri haverá um suplente, sendo o do representante da mesa da Santa Casa da Misericórdia de Lisboa o substituto do presidente.
+
+Art. 2.º Os n.os 1 e 2 do artigo 15.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, passam a ter a seguinte redacção:
+
+Art. 15.º - 1 - Das receitas dos concursos do totobola e do totoloto serão deduzidas importâncias correspondentes a 0,5%, até perfazer os montantes máximos, respectivamente, de 15000 contos e 85000 contos, para constituição de dois fundos para pagamento de prémios por reclamações, quando tenha ocorrido acumulação com os prémios do concurso seguinte, nos termos do regulamento geral dos concursos.
+
+2 - Das receitas dos concursos referidos no número anterior deduzir-se-ão igualmente importâncias correspondentes a 1%, até perfazer os montantes de 150000 contos e 850000 contos, respectivamente, destinados à formação de dois fundos para renovação de equipamento e material.
+
+Art. 3.º O artigo 16.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 389/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1985-178350), de 9 de Outubro, passa a ter a seguinte redacção:
+
+Art. 16.º - 1 - Os resultados da exploração dos concursos do totobola e do totoloto serão distribuídos, percentualmente, de acordo com o estabelecido nos n.os 3 e 4 do presente artigo.
+
+2 - Para efeitos da determinação dos resultados de exploração consideram-se:
+
+a) Receitas de exploração - as provenientes dos concursos, acrescidas dos rendimentos dos fundos, nos termos indicados, respectivamente, no n.º 1 do artigo 14.º e na parte final do n.º 3 do artigo 15.º;
+
+b) Despesas de exploração - as especificamente imputáveis a cada um dos concursos, bem como as partes correspondentes das despesas comuns, repartidas na proporção do número anual de bilhetes de apostas movimentados.
+
+3 - A distribuição dos resultados de exploração do totobola é feita de acordo com as seguintes normas:
+
+a) Federação Portuguesa de Futebol e clubes de futebol das 1.ª, 2.ª e 3.ª Divisões Nacionais - 50%;
+
+b) Santa Casa da Misericórdia de Lisboa - 21,5%;
+
+c) Estabelecimentos e instituições que prossigam acções no domínio da prevenção e reabilitação de deficientes e de apoio a deficientes graves e profundos - 7%;
+
+d) Instituto de Gestão Financeira da Segurança Social - 9,5%;
+
+e) Instituições particulares de solidariedade social - 8%;
+
+f) Prevenção e reparação de situações de calamidade pública - 2%;
+
+g) Associações de bombeiros voluntários - 2%.
+
+4 - A distribuição dos resultados de exploração do totoloto é feita de acordo com as seguintes normas:
+
+a) Santa Casa da Misericórdia de Lisboa - 21,5%;
+
+b) Estabelecimentos e instituições que prossigam acções no domínio da prevenção e reabilitação de deficientes e de apoio a deficientes graves e profundos - 12,5%;
+
+c) Instituições particulares de solidariedade social - 8%;
+
+d) Instituto de Gestão Financeira da Segurança Social - 30%;
+
+e) Fundo de Fomendo do Desporto - 16%;
+
+f) Fundo de Fomento Cultural - 4,5%;
+
+g) INATEL - 2,5%;
+
+h) Prevenção e reparação de situações de calamidade pública - 1,5%;
+
+i) Associações de bombeiros voluntários - 2%;
+
+j) Policiamento de espectáculos desportivos - 1,5%.
+
+Art. 4.º O artigo 17.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 389/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1985-178350), de 9 de Outubro, passa a ter a seguinte redacção:
+
+Art. 17.º - 1 - Os montantes correspondentes às percentagens referidas na alínea c) do n.º 3 e na alínea b) do n.º 4 do artigo 16.º serão distribuídos em 40% e 60%, respectivamente, pelos Ministérios do Trabalho e Segurança Social e da Saúde.
+
+2 - Os montantes atribuídos ao Instituto de Gestão Financeira da Segurança Social, correspondentes às percentagens constantes da alínea d) do n.º 3 e da alínea d) do n.º 4 do artigo 16.º, destinam-se à cobertura parcial de despesas efectuadas pelas instituições de segurança social no domínio da acção social.
+
+3 - Os montantes correspondentes às percentagens constantes da alínea g) do n.º 3 e da alínea i) do n.º 4 do artigo 16.º serão distribuídos ao Ministério da Administração Interna, que procederá à sua repartição pelas associações de bombeiros voluntários segundo critérios objectivos, a fixar por portaria, ouvidos os representantes das associações interessadas, sem prejuízo da sua fixação por lei.
+
+4 - Os montantes correspondentes às percentagens constantes da alínea e) do n.º 3 e da alínea c) do n.º 4 do artigo 16.º serão atribuídos ao Ministério do Trabalho e Segurança Social e destinam-se a apoiar as misericórdias e outras instituições particulares de solidariedade social que prossigam modalidades de acção social, em termos a regulamentar.
+
+5 - Os montantes correspondentes às percentagens constantes da alínea f) do n.º 3 e da alínea h) do n.º 4 do artigo 16.º serão transferidos para o Serviço Nacional de Protecção Civil.
+
+Art. 5.º Ao [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, são aditados os artigos 17.º-A, 17.º-B, 17.º-C e 17.º-D, com a seguinte redacção:
+
+Art. 17.º-A - 1 - O montante previsto na alínea a) de n.º 3 do artigo 16.º será entregue à Federação Portuguesa de Futebol, a quem compete efectuar a sua ulterior repartição pelos clubes, de acordo com as regras constantes dos números seguintes.
+
+2 - Da verba referida no número anterior 25% constituem receita própria da Federação Portuguesa de Futebol, 25% são afectos aos clubes de futebol da 1.ª Divisão, 25% são afectos aos clubes de futebol da 2.ª Divisão e os restantes 25% são afectos aos clubes de futebol da 3.ª Divisão.
+
+3 - Da verba que compete aos clubes de futebol da 1.ª Divisão 70% destinar-se-ão, em partes iguais, aos clubes dessa divisão que não sejam concessionários do bingo; os restantes 30% destinar-se-ão aos clubes dessa divisão que sejam concessionários do bingo.
+
+4 - Da verba prevista no número anterior para os clubes de futebol concessionários do bingo 70% destinar-se-ão, em partes iguais, aos clubes concessionários que, no exercício terminado em 31 de Dezembro do ano imediatamente anterior, tiverem tido receitas líquidas da exploração do jogo do bingo inferiores a 9% da receita global referida na alínea a) do n.º 3 do artigo 16.º deste diploma; os restantes 30% destinar-se-ão, em partes iguais, aos clubes concessionários que tiverem tido receitas líquidas no jogo do bingo superiores a esse montante.
+
+5 - Da verba prevista no n.º 2 para os clubes de futebol da 2.ª Divisão será atribuído a cada clube dessa divisão concessionário do bingo um montante igual a um terço do que lhe competiria se lhe fossem aplicadas as regras dos n.os 3 e 4; o remanescente será repartido, em partes iguais, pelos clubes dessa divisão que não sejam concessionários do bingo.
+
+6 - A verba prevista no n.º 2 para os clubes de futebol da 3.ª Divisão suportará os encargos adicionais inerentes à deslocação, nas regiões autónomas ou no continente, das equipas abrangidas pela série que compreende as equipas das regiões autónomas (actual série E), nos termos que forem regulamentados pela Federação Portuguesa de Futebol; o remanescente será repartido, em partes iguais, por todos os clubes de futebol da 3.ª Divisão.
+
+7 - Para os efeitos do disposto neste artigo, a Inspecção-Geral de Jogos fornecerá à Federação Portuguesa de Futebol informação anual sobre os montantes de receita líquida apurados por cada clube de futebol concessionário do bingo.
+
+Art. 17.º-B Da verba prevista na alínea e) do n.º 4 do artigo 16.º o Fundo de Fomento do Desporto reservará um montante, até 10% dessa receita, para suportar os encargos com a deslocação, por via aérea, entre o continente e as regiões autónomas, de equipas de futebol que disputem os campeonatos das três divisões nacionais, a Taça de Portugal, as provas de apuramento e a fase final do Campeonato Nacional de Juniores e com a deslocação das respectivas equipas de arbitragem, sem prejuízo do disposto no artigo 17.º-D; o remanescente desta verba cativada constituirá receita geral do Fundo de Fomento do Desporto.
+
+Art. 17.º-C - 1 - O montante correspondente à percentagem constante da alínea j) do n.º 4 do artigo 16.º suportará os encargos com o policiamento dos espectáculos desportivos compreendidos nos quadros competitivos regulares, nacionais ou distritais, organizados pelas federações e associações desportivas, bem como os resultantes de provas de nível internacional a realizar no País com equipas ao nível da selecção.
+
+2 - O montante referido no número anterior é atribuído ao Ministério da Administração Interna, que procederá à sua gestão e repartição pelas forças de segurança que executam o policiamento, segundo esquemas a regulamentar por diploma adequado.
+
+Art. 17.º-D - 1 - Da verba prevista na alínea e) do n.º 4 do artigo 16.º o Fundo de Fomento do Desporto reservará um montante, até 5% dessa receita, a fim de, para os fins consignados no número seguinte, serem entregues às Regiões Autónomas dos Açores e da Madeira, na proporção de 60% e 40% respectivamente.
+
+2 - Por força das verbas que lhes competem nos termos do número anterior, as regiões autónomas suportarão os encargos com os transportes, via aérea, das respectivas equipas, incluindo as de arbitragem, para o continente, para os efeitos previstos no artigo 17.º-B; os remanescentes dessas verbas serão aplicados no apoio a outras modalidades desportivas, segundo esquemas de comparticipação a definir pelos respectivos governos regionais.
+
+3 - As verbas previstas no n.º 1 anterior serão processadas a favor, respectivamente, do Fundo Regional de Fomento do Desporto dos Açores e da Secretaria Regional da Educação e Cultura da Madeira.
+
+Art. 6.º É revogada a alínea h) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 193/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1973-421995), de 30 de Abril, na redacção que lhe foi dada pelo [Decreto-Lei n.º 389/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1985-178350), de 9 de Outubro.
+
+Art. 7.º O presente diploma entra em vigor no dia 1 de Janeiro de 1987.
+
+Visto e aprovado em Conselho de Ministros de 25 de Setembro de 1986. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - João de Deus Rogado Salvador Pinheiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral.
+
+Promulgado em 29 de Outubro de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 5 de Novembro de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

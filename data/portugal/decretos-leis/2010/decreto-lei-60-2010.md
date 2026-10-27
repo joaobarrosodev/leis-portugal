@@ -1,0 +1,468 @@
+---
+schema_version: '1.0'
+id: pt:dre:332455:por
+title: Decreto-Lei n.º 60/2010
+short_title: null
+summary: Estabelece os princípios a que deve obedecer a fixação dos valores das portagens a cobrar a veículos pesados de mercadorias
+  pela utilização das infra-estruturas rodoviárias, transpondo para a ordem jurídica interna a Directiva n.º 2006/38/CE, do
+  Parlamento Europeu e do Conselho, de 17 de Maio, que altera a Directiva n.º 1999/62/CE, do Parlamento Europeu e do Conselho,
+  de 17 de Junho, relativa à aplicação de imposições aos veículos pesados de mercadorias com um peso máximo autorizado superior
+  a 3,5 t pela utilização de certas infra-estruturas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 60/2010
+official_date: null
+publication_date: '2010-06-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 110/2010, Série I de 2010-06-08
+  number: '110'
+  series: I
+  supplement: null
+  pages: 1936 - 1941
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11000/0193601941.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-30'
+version_history:
+  file: decreto-lei-60-2010.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-06-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Altera Artigo 5.º
+  - date: '2014-10-10'
+    amending: pt:dre:58228087:por
+    amending_title: Decreto-Lei n.º 147/2014
+    changes:
+    - Adita Artigo 2.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Anexo II
+  - date: '2025-03-30'
+    amending: pt:dre:912256340:por
+    amending_title: Decreto-Lei n.º 38/2025
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/60/2010/p/cons/20250325/pt/html
+  oj: null
+  dre: '332455'
+  dre_path: /dr/detalhe/decreto-lei/60-2010-332455
+  internal: pt:dre:332455:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2010-332455
+  metadata_url: https://data.dre.pt/eli/dec-lei/60/2010/p/cons/20250325/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-58600711
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-58600711
+  retrieved_at: '2026-10-22T11:55:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f434af977fe71ff492b3da5d01014fd0adca065a1aa59e81d1ebbdf26f21e573
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:55:47Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-60-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Transporte Rodoviário
+- Veículo
+- Transporte de Mercadorias
+- Portagem
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:58228087:por
+  label: Adita Artigo 2.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2014-58228087
+  date: '2014-10-09'
+- type: amended_by
+  target: pt:dre:912256340:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340
+  date: '2025-03-25'
+- type: cites
+  target: celex:31985R3821
+  label: null
+  source: http://data.europa.eu/eli/reg/1985/3821/oj
+- type: cites
+  target: celex:31996D1692
+  label: null
+  source: http://data.europa.eu/eli/dec/1996/1692/oj
+- type: cites
+  target: celex:31999L0062
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/62/oj
+- type: cites
+  target: celex:32006L0038
+  label: null
+  source: http://data.europa.eu/eli/dir/2006/38/oj
+- type: transposes
+  target: celex:31999L0062
+  label: null
+  source: null
+- type: transposes
+  target: celex:32006L0038
+  label: null
+  source: null
+- type: transposes
+  target: celex:32011L0076
+  label: null
+  source: null
+article_structure:
+  article_count: 6
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:55:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 60/2010
+
+Decreto-Lei n.º 60/2010
+
+de 8 de Junho
+
+O Parlamento Europeu e o Conselho da União Europeia têm vindo a aprovar um conjunto de medidas legislativas destinadas a promover a harmonização das condições de concorrência entre os operadores de transporte de mercadorias dos Estados membros, bem como a estimular a adopção de práticas que contribuam para o desenvolvimento sustentável no sector dos transportes e a evitar as distorções existentes a nível do mercado interno. Essas medidas constam, designadamente, da Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0062" title="Link para Directiva da Comunidade Europeia">1999/62/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Junho, relativa à aplicação de imposições aos veículos pesados de mercadorias pela utilização de certas infra-estruturas, alterada pela Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0038" title="Link para Directiva da Comunidade Europeia">2006/38/CE</a> do Parlamento Europeu e do Conselho, de 17 de Maio, cuja transposição se torna necessária.
+
+Assim, o presente decreto-lei visa transpor para a ordem jurídica nacional o disposto na Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0038" title="Link para Directiva da Comunidade Europeia">2006/38/CE</a>, do Parlamento Europeu e do Conselho, de 17 de Maio, nas matérias relativas aos sistemas de portagens, correspondendo à necessidade de adaptação dos princípios e regras das disposições comunitárias à realidade nacional, sempre no respeito das regras próprias da transposição de tais normas.
+
+Neste particular aspecto, não pode ser ignorada a realidade de que a totalidade das vias integrantes da rede rodoviária transeuropeia é objecto de contratos de concessão ou subconcessão, celebrados com entidades privadas antes de Junho de 2008. Tendo em consideração esta realidade, importa realçar que a configuração das regras destas directivas visam assegurar condições de igualdade concorrencial entre operadores europeus de mercadorias, sem distinção de origem ou nacionalidade.
+
+Consagram-se, portanto, regras claras de aplicação no tempo do presente decreto-lei, que atendem justamente à preexistência de uma intensa rede contratual entre o Estado, a EP - Estradas de Portugal, S. A., e os operadores privados, nos termos, aliás, previstos nas próprias regras comunitárias.
+
+A clareza e simplicidade das regras a transpor permitiu consagrar na lei nacional a generalidade dos preceitos comunitários.
+
+Tendo em atenção a necessidade de respeitar os princípios da transparência e da não discriminação em função da nacionalidade do transportador, do local de registo do veículo ou da origem ou destino da operação de transporte, o cálculo das portagens deve basear-se no princípio da amortização exclusiva dos custos de infra-estruturas, ou seja, na recuperação unicamente dos custos das infra-estruturas.
+
+Procede-se à delimitação do âmbito de aplicação do regime ora proposto aos veículos pesados de mercadorias, entendendo-se como tal os veículos destinados a esse transporte com um peso máximo autorizado superior a 3,5 t, que utilizam as vias nacionais incluídas na rede transeuropeia.
+
+Por outro lado, atenta a necessidade de preservar a estabilidade dos contratos já celebrados, estabelece-se que os princípios aplicáveis ao cálculo de portagens, tendo em conta a amortização dos custos das infra-estruturas rodoviárias, apenas se aplicam a novos sistemas de portagens.
+
+Atendendo ainda ao modelo de concessão subjacente aos sistemas de portagens em território nacional, clarifica-se que o presente decreto-lei não se aplica aos contratos de concessão com sistemas de portagens em vigor em 10 de Junho de 2008, ou em relação aos quais tenham sido recebidas até essa data propostas ou candidaturas no âmbito de um processo de contratação pública, enquanto aqueles estiverem em vigor e não sofrerem alterações substanciais.
+
+Inserida na política comercial dos concessionários da rede de infra-estruturas rodoviárias, é admitida a aplicação de descontos a utilizadores frequentes, no limite máximo de 13 % do montante da portagem em vigor. Estão, ainda, sujeitas a reduções ou isenções determinadas categorias de veículos devidamente especificados.
+
+É, também, aberta a possibilidade de se modularem as portagens em função de objectivos específicos, como seja o combate a danos ambientais, a redução do congestionamento, a minimização dos danos causados à infra-estrutura, a optimização da utilização da infra-estrutura ou a promoção da segurança rodoviária.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente decreto-lei estabelece os princípios a que deve obedecer a fixação dos valores das portagens a cobrar a veículos pesados de mercadorias pela utilização das infraestruturas rodoviárias, transpondo para a ordem jurídica interna a Diretiva n.º 2006/38/CE, do Parlamento Europeu e do Conselho, de 17 de maio de 2006, que altera a Diretiva 1999/62/CE relativa à aplicação de imposições aos veículos pesados de mercadorias pela utilização de certas infraestruturas, alterada pela Diretiva n.º 2011/76/UE, do Parlamento Europeu e do Conselho, de 27 de setembro de 2011.
+
+2 - As infraestruturas rodoviárias abrangidas pelo presente decreto-lei são as constituídas pelas vias nacionais incluídas na rede rodoviária transeuropeia, entendendo-se como tal as vias rodoviárias definidas na secção 2 do anexo I da Decisão n.º 1692/96/CE, do Parlamento Europeu e do Conselho, de 23 de julho de 1996, bem como por toda a restante rede nacional de autoestradas, nos lanços ou sublanços sujeitos a cobrança de portagem.
+
+3 - O presente decreto-lei aplica-se às portagens a cobrar a veículos pesados de mercadorias, entendendo-se como tais os veículos a motor ou conjuntos de veículos articulados utilizados no transporte rodoviário de mercadorias ou a este destinados, com um peso bruto máximo autorizado igual ou superior a 3,5 toneladas.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 38/2025 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340), em vigor a partir de 2025-03-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2014 - Diário da República n.º 195/2014, Série I de 2014-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2014-58228087), em vigor a partir de 2014-10-10
+
+###### Artigo 2.º — Princípios
+
+1 - A aplicação de portagens obedece aos princípios da transparência e da não discriminação em razão da nacionalidade do transportador, do país ou local de estabelecimento do transportador ou de registo do veículo ou da origem ou destino da operação de transporte.
+
+2 - A taxa de portagem é fixada tendo por base a categoria dos veículos e a distância percorrida pelos mesmos numa dada infraestrutura.
+
+3 - A taxa de portagem corresponde à taxa de utilização da infraestrutura, calculada nos termos do disposto no artigo seguinte.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 -(Revogado).
+
+7 - (Revogado).
+
+8 - (Revogado).
+
+9 - (Revogado).
+
+10 -(Revogado).
+
+11 - (Revogado).
+
+12 - (Revogado).
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 38/2025 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340), em vigor a partir de 2025-03-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2014 - Diário da República n.º 195/2014, Série I de 2014-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2014-58228087), em vigor a partir de 2014-10-10
+
+###### Artigo 2.º-A
+
+Taxa de utilização da infraestrutura
+
+1 - A taxa de utilização de infraestrutura visa recuperar, no todo ou em parte, o custo da infraestrutura rodoviária.
+
+2 - A taxa média ponderada de utilização da infraestrutura é a receita total da cobrança da taxa de utilização da infraestrutura num determinado período, dividida pelo número de quilómetros percorridos pelos veículos, durante esse período, nos lanços ou sublanços em que a taxa é aplicada.
+
+3 - A taxa média ponderada de utilização da infraestrutura a que se refere o número anterior tem como referência, nomeadamente, os custos de construção, exploração, manutenção e desenvolvimento da parte da rede de infraestrutura em causa, sem prejuízo de não se recuperar parte ou a totalidade de tais custos.
+
+4 - A taxa média ponderada de utilização da infraestrutura pode incluir uma remuneração de capital ou uma margem de lucro, devidamente quantificadas, tendo em conta as condições de mercado.
+
+5 - Os custos a recuperar, referidos no n.º 3, dizem respeito à parte da rede sobre a qual recai a taxa de utilização da infraestrutura e aos veículos sujeitos à cobrança da mesma.
+
+6 - A imputação dos custos e o cálculo da taxa de utilização da infraestrutura a que se referem os números anteriores seguem os princípios incluídos no anexo II ao presente decreto-lei, do qual faz parte integrante.
+
+7 - Os custos de construção referidos no n.º 3 são os custos relacionados com a construção, incluindo, se for caso disso, os custos de investimento em:
+
+a) Novas infraestruturas ou em melhorias introduzidas nas infraestruturas, incluindo genericamente custos de ciclo de vida da infraestrutura, para o nível de serviço definido, e, em particular, reparações estruturais significativas; ou
+
+b) Infraestruturas ou melhorias introduzidas nas infraestruturas, incluindo reparações estruturais significativas, que tenham sido concluídas, no máximo, 30 anos antes de 10 de junho de 2008, no caso de, nesta última data, se encontrar já em vigor um sistema de cobrança de portagens, ou, no máximo, 30 anos antes da instituição de quaisquer novos sistemas de cobrança de portagens introduzidos após 10 de junho de 2008.
+
+8 - Para efeitos do disposto no número anterior, consideram-se reparações estruturais significativas, as reparações estruturais da via rodoviária, com exclusão das que já não proporcionem qualquer vantagem aos utilizadores, designadamente as obras de reparação que tenham sido substituídas por obras de renovação das camadas de desgaste ou por outras obras de construção.
+
+9 - Os custos das infraestruturas, definidos nos n.os 1 e 2 do anexo II ao presente decreto-lei, do qual faz parte integrante, ou os custos das melhorias introduzidas nas infraestruturas e concluídas antes das datas referidas no n.º 7, podem:
+
+a) Ser considerados custos de construção, caso a construção da infraestrutura em causa dependa do facto de o seu período de vida predefinido, em sede contratual ou outra sede, ser superior a 30 anos, não devendo, neste caso, a proporção dos custos de construção a ter em conta exceder a proporção do atual período de vida predefinido dos componentes da infraestrutura ainda não amortizados à data em que é introduzido o novo sistema de cobrança de portagens; ou
+
+b) Incluir as despesas específicas com infraestruturas que se destinem a reduzir os danos decorrentes do ruído ou a melhorar a segurança rodoviária e os pagamentos efetivamente executados pelo operador da infraestrutura que correspondam a elementos ambientais objetivos, como a proteção contra a contaminação do solo.
+
+10 - Os custos de investimento referidos no n.º 7 incluem os custos de financiamento, incluindo estes últimos os juros sobre os empréstimos contraídos e a remuneração do financiamento por recursos próprios ou pela aquisição de participações por acionistas, bem como outros encargos que incidam sobre os empréstimos contraídos e respetivos juros, ou sobre a remuneração de fundos próprios.
+
+11 - Para efeitos da fixação do valor da taxa de utilização da infraestrutura, a determinação indicativa das classes de veículos é a prevista no anexo III ao presente decreto-lei, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 38/2025 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340), em vigor a partir de 2025-03-30
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 147/2014 - Diário da República n.º 195/2014, Série I de 2014-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2014-58228087), em vigor a partir de 2014-10-10
+
+###### Artigo 3.º — Descontos, reduções ou isenções
+
+1 - Podem ser aplicados descontos nas taxas de portagem para os utilizadores frequentes desde que se cumpram, cumulativamente, as seguintes condições:
+
+a) Sejam respeitados os princípios a que se refere o n.º 1 do artigo 2.º;
+
+b) A estrutura de tarifação daí resultante seja proporcionada, publicada e aplicável em condições idênticas a todos os utilizadores, não implicando para outros utentes custos adicionais sob a forma de portagens mais elevadas;
+
+c) Esses descontos impliquem economias reais em termos de custos administrativos;
+
+d) Os descontos não excedam 13 % da portagem paga por veículos equivalentes não elegíveis para efeitos do desconto.
+
+2 - Podem ainda ser estabelecidas reduções ou isenções nas taxas de portagem, designadamente, para:
+
+a) Veículos isentos da obrigação de instalação e utilização de um aparelho de controlo a bordo, nos termos do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1985&id=385R3821" title="Link para Regulamento da Comunidade Europeia">3821/85</a>, do Conselho, de 20 de Dezembro, relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários;
+
+b) Veículos afectos à defesa nacional, protecção civil, serviços de combate a incêndios e outros serviços de socorro e emergência, forças de segurança, veículos de manutenção das estradas e veículos afectos a demais entidades ou organismos cuja isenção se encontre legalmente prevista.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 38/2025 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340), em vigor a partir de 2025-03-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2014 - Diário da República n.º 195/2014, Série I de 2014-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2014-58228087), em vigor a partir de 2014-10-10
+
+###### Artigo 4.º — Modulação da taxa de utilização da infraestrutura
+
+1 - Sem prejuízo do disposto no artigo 2.º-A, a taxa de utilização da infraestrutura deve ser diferenciada em função das classes de emissão EURO dos veículos, definidas nos termos do anexo I ao presente decreto-lei, do qual faz parte integrante.
+
+2 - A diferenciação em função das classes de emissão EURO, prevista no número anterior, é efetuada na condição de que a taxa máxima não exceda o dobro da taxa mínima aplicável a veículos equivalentes que obedeçam às normas de emissão mais rigorosas.
+
+3 - A obrigação de diferenciação da taxa de utilização da infraestrutura em função das classes de emissão EURO, nos termos previstos no n.º 1, pode ser derrogada, se:
+
+a) Esse requisito prejudicar gravemente a coerência dos sistemas de portagem no território nacional;
+
+b) Não for tecnicamente viável introduzir essa diferenciação no sistema de portagens; ou
+
+c) Esse requisito levar ao desvio do tráfego dos veículos mais poluentes, com impactos negativos na segurança rodoviária e na saúde pública.
+
+4 - Na situação de diferenciação da taxa de utilização da infraestrutura nos termos previstos no n.º 1, se o utilizador, quando solicitado, não fizer prova documental da classe de emissão EURO do veículo, pode ser exigida a taxa de utilização de infraestrutura de valor mais elevado aplicável naquela infraestrutura.
+
+5 - Sem prejuízo do disposto no n.º 1 e no artigo 2.º-A, as taxas de utilização da infraestrutura podem ainda ser diferenciadas a fim de reduzir o congestionamento, minimizar a deterioração da infraestrutura, otimizar a sua utilização ou promover a segurança rodoviária, desde que:
+
+a) A diferenciação seja transparente, publicada e aplicável em condições idênticas a todos os utilizadores;
+
+b) A diferenciação seja aplicada consoante a hora do dia, o tipo de dia (dia da semana, dia útil, feriado) e a estação do ano;
+
+c) Nenhuma taxa de utilização da infraestrutura resultante daquela diferenciação exceda em mais de 175 % o nível máximo da taxa média ponderada de utilização da infraestrutura, entendida nos termos dos n.os 2 a 6 do artigo 2.º-A;
+
+d) Os períodos de ponta, durante os quais são cobradas as taxas mais elevadas de utilização da infraestrutura para efeitos de redução do congestionamento, não excedam as cinco horas diárias;
+
+e) A diferenciação seja concebida e aplicada de forma transparente e neutra do ponto de vista da receita em cada lanço afetado por congestionamento, praticando taxas de utilização reduzidas fora dos períodos de ponta e taxas de utilização agravadas durante os períodos de ponta.
+
+6 - A aplicação das diferenciações previstas no n.º 1 e no número anterior não pode destinar-se a gerar receitas adicionais provenientes das taxas de utilização da infraestrutura, devendo qualquer acréscimo involuntário de receitas ser compensado por alterações da estrutura de diferenciação, a aplicar no prazo de dois anos, a contar do final do ano em que as receitas adicionais tiverem sido geradas.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 38/2025 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340), em vigor a partir de 2025-03-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2014 - Diário da República n.º 195/2014, Série I de 2014-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2014-58228087), em vigor a partir de 2014-10-10
+
+###### Artigo 5.º — Aplicação no tempo
+
+1 - O disposto no artigo 2.º-A não se aplica aos sistemas de portagens em vigor ou previstos em contratos de concessão de obras públicas ou de concessão de serviços, conforme definidos no artigo 407.º do Código dos Contratos Públicos, em vigor em 10 de junho de 2008, ou em relação aos quais tenham sido recebidas, até 10 de junho de 2008, propostas ou candidaturas no âmbito de um procedimento de contratação pública, enquanto aqueles estiverem em vigor e não sofrerem alterações substanciais.
+
+2 - Incluem-se no período de vigência dos sistemas de portagem quaisquer renovações ou prorrogações, ainda que decorram de processo de reposição do equilíbrio económico-financeiro, dos contratos que os prevejam.
+
+3 - Para efeitos do disposto no n.º 2, entende-se por «alterações substanciais» quaisquer transformações significativas dos termos e condições iniciais do sistema de portagens, ou seja, do sistema de cálculo das taxas devidas pela utilização das infra-estruturas rodoviárias, sendo que a modificação da fórmula de actualização tarifária não é considerada como tal.
+
+4 - Estão isentas do requisito da diferenciação da taxa de utilização da infraestrutura em função das classes de emissão EURO, prevista no n.º 1 do artigo anterior, as infraestruturas relativamente às quais estejam em vigor contratos de concessão, até que os mesmos sejam renovados.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 38/2025 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340), em vigor a partir de 2025-03-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 147/2014 - Diário da República n.º 195/2014, Série I de 2014-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2014-58228087), em vigor a partir de 2014-10-10
+
+> Alterado pelo/a Artigo 171.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - António Augusto da Ascenção Mendonça.
+
+Promulgado em 28 de Abril de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 3 de Maio de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 38/2025 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340), em vigor a partir de 2025-03-30
+
+## Anexo I — Limites de emissão
+
+[a que se refere a alínea a) do n.º 2 do artigo 4.º]
+
+1 - Veículo «EURO 0»:
+
+(ver documento original)
+
+2 - Veículos «EURO I/EURO II»:
+
+(ver documento original)
+
+3 - Veículos «EURO III/EURO IV/EURO V/VEA»:
+
+As massas específicas de monóxido de carbono, hidrocarbonetos totais, óxidos de azoto e partículas, determinadas no ensaio ESC, e a opacidade dos fumos, determinada no ensaio ELR, não devem exceder os seguintes valores (1):
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 38/2025 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340), em vigor a partir de 2025-03-30
+
+## Anexo II — Princípios fundamentais de imputação de custos e de cálculo das portagens
+
+(a que se referem os n.os 6 e 9 do artigo 2.º-A)
+
+O presente anexo estabelece os princípios fundamentais de cálculo da taxa média ponderada de utilização da infraestrutura de acordo com o disposto no n.º 3 do artigo 2.º-A.
+
+A obrigação de relacionar a taxa de utilização da infraestrutura com os custos não prejudica a faculdade de, ao abrigo do artigo 2.º-A, se optar pela não recuperação total dos custos por via das receitas provenientes das portagens ou de, ao abrigo do artigo 4.º, se fazer variar, com base no valor médio, o montante de portagens específicas.
+
+1 - Custos das infra-estruturas:
+
+1.1 - Custos de investimento:
+
+Os custos de investimento abrangem os custos de construção e os custos de desenvolvimento da infra-estrutura, e, quando apropriado, acrescidos de uma remuneração do capital investido ou de uma margem de lucro. Também se incluem os custos com a aquisição dos terrenos, planeamento, concepção, supervisão dos contratos de construção e gestão de projectos e investigações arqueológicas e geológicas, bem como outros custos acessórios relevantes.
+
+Os custos de construção são amortizados tendo por base o período de vida previsto da infra-estrutura ou um período (não inferior a 20 anos) que se considere adequado por razões de financiamento através de um contrato de concessão ou de outro modo.
+
+Sem prejuízo do cálculo dos custos de investimento, a amortização dos custos pode:
+
+Ser repartida uniformemente ao longo do período de amortização ou ponderada com base nos primeiros anos, nos anos intermédios ou nos últimos anos, desde que essa ponderação seja efectuada de forma transparente;
+
+Estabelecer a indexação das portagens ao longo do período de amortização.
+
+Todos os custos históricos são baseados nos montantes pagos. Os custos previsionais baseiam-se em estimativas razoáveis.
+
+A taxa de juro a aplicar aos custos históricos será a taxa aplicada aos financiamentos obtidos pelo Estado durante o período correspondente.
+
+A imputação dos custos aos veículos pesados faz-se de forma objectiva e transparente, tendo em conta a proporção do tráfego de veículos pesados na rede e os custos associados. Para o efeito, o número de quilómetros percorridos pelos veículos pesados pode ser ajustado por «coeficientes de equivalência» devidamente justificados, como os estabelecidos no n.º 3.
+
+Os valores de remuneração de capital ou de margem de lucro previstos devem ser razoáveis, tendo em conta as condições de mercado, podendo variar de modo a incentivar o desempenho de terceiros no tocante aos requisitos de qualidade do serviço. A remuneração do capital pode ser avaliada com base em indicadores económicos, como a taxa interna de rentabilidade dos investimentos (TIR), ou o custo médio ponderado do capital.
+
+1.2 - Custos anuais de manutenção e custos de reparação estruturais:
+
+Estes custos incluem os custos anuais de manutenção da rede bem como os custos periódicos respeitantes à reparação, reforço e renovação dos pavimentos, estruturas e demais equipamentos rodoviários, tendo em vista assegurar a manutenção do nível de funcionalidade da rede ao longo do tempo.
+
+Estes custos são repartidos pelos veículos pesados e por outros veículos em função do número de quilómetros, reais e previsionais, por eles percorridos, podendo ser ajustados por coeficientes de equivalência objectivamente justificados, como os estabelecidos no n.º 3.
+
+2 - Custos de exploração, gestão e cobrança de portagens:
+
+Este tipo de custos inclui todos os custos incorridos pelo operador da infra-estrutura que não sejam abrangidos pelo n.º 1 e que digam respeito à implementação, funcionamento e gestão da infra-estrutura e do sistema de portagens, nomeadamente:
+
+Os custos de construção, implantação e manutenção de cabines de pagamento de portagens e outros sistemas de pagamento;
+
+Os custos de exploração, gestão e aplicação dos sistemas de cobrança de portagem;
+
+As taxas e encargos administrativos respeitantes aos contratos de concessão;
+
+Os custos de gestão, administrativos e de serviços relativos à exploração da infra-estrutura.
+
+Os custos podem ainda incluir uma remuneração de capital ou uma margem de lucro que reflicta o nível de risco transferido.
+
+Estes custos são repartidos, de forma equitativa e transparente, entre todas as classes de veículos sujeitas ao sistema de portagens.
+
+3 - Quota de tráfego de mercadorias, coeficientes de equivalência e mecanismos de correcção:
+
+O cálculo das portagens baseia-se no número de quilómetros, real ou previsional, percorridos pelos veículos pesados, ajustado, se assim for decidido, por coeficientes de equivalência que reflictam o acréscimo nos custos de construção e de reparação das infra-estruturas utilizadas pelos veículos pesados.
+
+O quadro seguinte estabelece um conjunto de coeficientes de equivalência indicativos. Sempre que forem fixados coeficientes de equivalência diferentes, estes devem ser calculados com base em critérios objectivamente justificáveis e tornados públicos:
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 38/2025 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340), em vigor a partir de 2025-03-30
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 147/2014 - Diário da República n.º 195/2014, Série I de 2014-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2014-58228087), em vigor a partir de 2014-10-10
+
+## Anexo III — Determinação indicativa das classes de veículos
+
+(a que se refere o n.º 12 do artigo 2.º)
+
+As classes de veículos são definidas no quadro infra.
+
+Os veículos são classificados em subcategorias 0, i, ii, iii, consoante os danos causados ao pavimento rodoviário por ordem crescente (a classe iii é a que mais danos causa às infra-estruturas rodoviárias). Esses danos apresentam um aumento exponencial à medida que aumenta a carga por eixo.
+
+Todos os veículos a motor e conjuntos de veículos com um peso máximo autorizado inferior a 7,5 t fazem parte da classe 0.
+
+Veículos a motor
+
+(ver documento original)
+
+Conjunto de veículos (veículos articulados e conjuntos veículo-reboque)
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 38/2025 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2025-912256340), em vigor a partir de 2025-03-30

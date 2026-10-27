@@ -1,0 +1,460 @@
+---
+schema_version: '1.0'
+id: pt:dre:430025:por
+title: Decreto-Lei n.º 513-T/79
+short_title: null
+summary: Define a rede de estabelecimentos do ensino superior politécnico que anteriormente se designava «ensino superior
+  de curta duração»
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 513-T/79
+official_date: null
+publication_date: '1979-12-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 296/1979, 3º Suplemento, Série I de 1979-12-26
+  number: '296'
+  series: I
+  supplement: null
+  pages: 3350-(60) a 3350-(64)
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29603/00600064.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '430025'
+  dre_path: /dr/detalhe/decreto-lei/513-t-1979-430025
+  internal: pt:dre:430025:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ddcf3eb404ce248c5248851cbab099fc0d52637503dcb4bfc073cd2727f2f3aa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aveiro
+- Beja
+- Bragança
+- Castelo Branco
+- Coimbra
+- Criação de Serviços
+- Denominação de Instituição
+- Educação Especial
+- Ensino Superior de Curta Duração
+- Ensino Superior Politécnico
+- Escola de Regentes Agrícolas
+- Escola Superior Agrária
+- Escola Superior de Educação
+- Escola Superior de Gestão e Contabilidade
+- Escola Superior de Tecnologia
+- Escola Superior de Tecnologia e Gestão
+- Estabelecimento de Ensino
+- Faro
+- Gabinete Coordenador das Actividades do Ensino Superior de Curta Duração
+- Gabinete Coordenador das Actividades do Ensino Superior Politécnico
+- Guarda
+- Instituto Politécnico
+- Instituto Superior de Contabilidade e Administração
+- Leiria
+- Lisboa
+- Portalegre
+- Porto
+- Santarém
+- Setúbal
+- Tomar
+- Viana do Castelo
+- Vila Real
+- Viseu
+relationships:
+- type: amended_by
+  target: pt:dre:505637:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:472089:por
+  label: "Alterado o nº 2 do art. 9º, o art. 20º e revogadas as als. b) e c) do nº 1 do art. 9º, as als. b) e c) do nº 1 e\
+    \ nº 2 do art. 11º, as als. b) e c) do nº 1 e nº 2 do art. 12º, a al. a) do nº 1 e nº 2 do art. 17º, as als. b) e c) do\
+    \ art. 23º, pela LEI.29/80.1980.07.28.AR, DR.IS [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-1980-472089
+  date: '1980-07-28'
+- type: amended_by
+  target: pt:dre:355513:por
+  label: "Alterada a redacção do art. 11º, e a designação da Escola Superior de Jornalismo do Instituto Politécnico de Lisboa,\
+    \ para Escola Superior de Comunicação Social, pelo DEC LEI.333/88.1988.09.27.ME, DR.IS [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1988-355513
+  date: '1988-09-27'
+- type: amended_by
+  target: pt:dre:354169:por
+  label: "Alterado o art. 10º, pelo DEC LEI.373/88.1988.10.17.ME, DR.IS [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-1988-354169
+  date: '1988-10-17'
+- type: amended_by
+  target: pt:dre:217698:por
+  label: "Extinto o Instituto Politécnico de Faro, e transferido o seu património e o pessoal para a Universidade do Algarve,\
+    \ pelo DEC LEI.241/92.1992.10.29.ME, DR.IS-A [250]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-1992-217698
+  date: '1992-10-29'
+- type: amended_by
+  target: pt:dre:571177:por
+  label: "Extinta a Escola Superior de Tecnologia de Tomar, pelo DEC LEI.304/94.1994.12.19.ME, DR.IS-A [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/304-1994-571177
+  date: '1994-12-19'
+- type: cites
+  target: pt:dre:236683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431010:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:505637:por
+  label: "Revogadas a al. d) do nº 1 do art. 11º e a al. d) do nº 1 do art. 12º deste diploma, alterado, por ratificação,\
+    \ pela Lei 29/80 de 28-Dez, pelo DEC LEI.175/2004.21.07.2004.MCES, DR.IS-A [170] de 21.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2004-505637
+  date: '2004-07-21'
+article_structure:
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:24:43Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 513-T/79
+
+de 26 de Dezembro
+
+1 - O ensino superior politécnico - designação por que passa a ser conhecido o ensino superior de curta duração, criado pelo [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, com as alterações introduzidas pela [Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), de 28 de Julho - visa, no essencial, dotar o País com os profissionais de perfil adequado de que este carece para o seu desenvolvimento.
+
+A coexistência do ensino superior politécnico, impregnado de uma tónica vincadamente profissionalizante, com o ensino superior universitário, de características mais conceptuais e teóricas, traduzindo a real diversificação operada no âmbito do sistema do ensino superior, é o resultado de uma opção ditada por razões de eficiência e de adequação daquele sistema à estrutura sócio-económica em que se insere, sem prejuízo, embora, da conveniente articulação entre ambos os referidos tipos de ensino.
+
+O desenvolvimento de todo este programa resultou de estudos cuidadosos, que já se arrastam há cerca de três anos.
+
+2 - Ao ensino superior politécnico, ao qual se pretende conferir uma dignidade idêntica ao universitário, incumbe, em íntima ligação com as actividades produtivas e sociais, formar educadores de infância, professores dos ensinos primário e preparatório e técnicos qualificados nos domínios da tecnologia industrial, da produção agrícola, pecuária e florestal, da saúde e dos serviços, sendo essa formação conferida por escolas superiores de educação e escolas superiores técnicas, respectivamente.
+
+3 - Às escolas superiores de educação cabe ainda desempenhar um papel importante no que concerne à formação em serviço e, bem assim, à actualização e reciclagem de docentes e profissionais de educação.
+
+A formação de professores apresenta, à partida, características específicas, sobretudo tendo em conta que o Ministério da Educação é o principal empregador de quantos obtenham essa formação. Previu-se, por isso, que as escolas superiores de educação (ESE) com capacidade legal para fazerem a formação, tanto inicial (pré-serviço, como em serviço), de educadores de infância e de professores primários, fossem dotadas com capacidade para formarem professores para todo o ensino básico (do 1.º ao 6.º ano de escolaridade, inclusive) e possibilitando, igualmente, a reconversão dos actuais professores. A sua inserção no ensino superior, com a consequente extinção das escolas normais de educadores de infância e escolas do magistério primário, é, naturalmente, coerente com a melhoria que se deseja para o pessoal docente que no futuro próximo será responsável pelas crianças situadas no grupo etário dos 3 aos 12 anos.
+
+A integração na mesma escola da formação dos docentes para os actuais pré-primário, primário e preparatório, justifica-se amplamente como uma medida que tem como objectivo o alargamento efectivo da escolaridade obrigatória, ao mesmo tempo que poderá evitar a brusca passagem do ensino de classe para o ensino por disciplina, que agora se verifica entre o ensino primário e o ensino preparatório, e que resulta de uma excessiva especialização dos professores do preparatório que obtêm a sua formação em cursos universitários, idênticos aos dos professores do ensino secundário. É, no fundo, o primeiro passo para a implementação de um novo esquema de formação de professores, que tanta falta faz ao nosso sistema educativo.
+
+Relativamente ao número de escolas - uma por capital de distrito, com excepção de Aveiro, Braga e Évora -, acentue-se que só as necessidades de educadores para o ensino pré-primário justificam, por si, a rede proposta. No entanto, e tendo em atenção que, devido a impedimentos de ordem financeira e à falta de recursos humanos, não será possível lançar muito rapidamente, e de forma maciça, o ensino pré-primário, as escolas deverão poder, de acordo com as prioridades definidas pelo Ministério da Educação, formar os educadores e os professores que cada região mais necessite, de acordo com o plano nacional de racionalização das necessidades, tanto para a formação inicial, como para a formação em serviço.
+
+As regiões de Braga e Évora deverão vir a ter, à semelhança do que já sucedeu com Aveiro, onde foi criado um centro integrado de formação de professores, uma situação particular, dada a existência de centros universitários.
+
+4 - São também criadas escolas superiores técnicas - cuja designação concreta é função dos domínios de actividade profissional para que estão especialmente vocacionadas - destinadas à formação de técnicos qualificados nos sectores da produção agrícola, pecuária e florestal, da tecnologia dos produtos alimentares e industriais, da gestão e contabilidade, da saúde e do jornalismo.
+
+4.1 - Os cursos de produção poderão cobrir a totalidade do território, tendo em conta as características particulares de cada uma das regiões, justificando-se, qualitativamente - isto é, em termos de diferenciação ecológica, e não quantitativamente, ou seja, apenas com base numa análise das necessidades de mão-de-obra - as seguintes escolas:
+
+A norte do Douro, duas escolas, uma virada para o tipo de agricultura da zona oeste (litoral), de maior pluviosidade, e outra na zona do Nordeste (a Terra Fria), onde se localizam empreendimentos como o do Cachão.
+
+Uma será localizada em Bragança.
+
+Na zona centro, também se verifica uma separação nítida entre o litoral e o interior. Assim, se no litoral as actuais Escolas de Regentes Agrícolas de Coimbra e Santarém (devidamente reestruturadas) dão uma cobertura adequada, no interior, e tendo em vista empreendimentos como o da Cova da Beira e da Campina da Idanha, justifica-se a criação de uma escola, a localizar em Castelo Branco.
+
+O Alentejo, com as suas características próprias, necessita, para além do Instituto Universitário de Évora, onde são leccionados cursos de licenciatura, de uma escola que, articulada com aquele Instituto Universitário, permita fazer a cobertura da região, sendo a localização mais adequada em Beja.
+
+O Algarve (Faro), igualmente atendendo à sua especificidade, justifica manifestamente a existência de cursos de produção nestes domínios.
+
+Para as tecnologias alimentares prevêem-se, para já, cursos nas escolas de Coimbra e Santarém, para os produtos agro-pecuários, e em Faro, para o pescado. Estas implantações resultam da existência de unidades industriais, podendo esta rede ser expandida na medida em que haja necessidade de mão-de-obra que o justifique, noutras regiões.
+
+No sector das tecnologias industriais incluem-se os cursos de mecânica, electrónica e electricidade industriais, instrumentação, etc. As escolas da rede proposta localizam-se em Lisboa, Porto e Coimbra (por reconversão dos actuais Institutos Superiores de Engenharia) e em Setúbal e Faro.
+
+As três primeiras cobrem a zona litoral a norte de Setúbal, que é a zona mais industrializada do País, com ênfase especial para Porto-Braga-Aveiro e Lisboa-Setúbal. Nesta última região, devido às suas proporções e à existência de grandes indústrias com uma apetência natural de técnicos, justifica-se uma escola nova em Setúbal, que está já em fase de projecto e que poderá apoiar os empreendimentos de Sines. Como pólos secundários do desenvolvimento industrial existem os de Covilhã-Seia, Viseu-Nelas e Tomar-Torres Novas-Abrantes, razão pela qual a rede inclui escolas em Viseu e Tomar.
+
+Nas regiões nordeste do Alentejo e do Algarve pensa-se que, apenas nesta última se justifica a existência de cursos neste sector, por considerações de distância à escola mais próxima e de desenvolvimento.
+
+4.2 - No sector de gestão inclui-se a contabilidade, administração, gestão, etc., prevendo-se a existência de escolas em Lisboa, Coimbra, Aveiro, Porto e em Faro.
+
+Note-se que as empresas industriais e os serviços são os que maior necessidade têm de técnicos com esta formação. Assim, é natural que a rede deste sector acompanhe a do sector industrial, complementada pelas zonas onde os serviços têm um peso importante.
+
+Pensa-se, assim, que as escolas propostas cobrem perfeitamente as regiões nas condições indicadas.
+
+4.3 - Quanto ao sector de saúde, o problema é, à partida, interministerial, visto que a formação de saúde (incluindo enfermagem) é actualmente feita predominantemente no âmbito do MAS.
+
+Considerando que para a formação de técnicos de saúde é necessário um núcleo populacional mínimo (segundo recomendação da OMS), que à partida só se encontra nas zonas de Lisboa e Porto, a rede, neste caso, apenas inclui duas escolas.
+
+Não havendo ainda para a enfermagem suficiente informação que permita definir se e quais as escolas a incluir na rede, não se dá para já cumprimento ao estipulado na [Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), sobre a matéria estando, no entanto, a realizar-se estudos para que, em breve, tal se concretize.
+
+5 - Nesta análise não foram consideradas as regiões autónomas, onde a solução a encontrar deverá ser diferente, em virtude da dimensão dos seus mercados de trabalho e devido à existência dos Institutos Universitários dos Açores e da Madeira, que representam um dado importante a ter em conta, que devem vir a ter forçosamente modelos institucionais muito flexíveis dados os meios disponíveis e a insularidade das regiões.
+
+6 - As escolas superiores em cada localidade serão agrupadas em institutos politécnicos com uma função de coordenação entre as escolas e de diálogo com o ME, função esta semelhante à das Universidades em relação às Faculdades e ao ME.
+
+7 - A instalação dos estabelecimentos de ensino superior politécnico ora criados obedece a um calendário que prevê o arranque dos primeiros cursos já no ano de 1980 e dos últimos em 1984 com o seguinte faseamento:
+
+1980:
+
+Escolas Superiores de Educação: Beja, Bragança, Castelo Branco, Faro, Leiria, Porto, Viana do Castelo e Vila Real.
+
+Escolas Superiores Técnicas: Aveiro (Gestão e Contabilidade), Coimbra (Tecnologia, Gestão, Contabilidade e Agrária), Faro (Tecnologia e Gestão), Lisboa (Gestão e Contabilidade e Tecnologia), Porto (Gestão e Contabilidade e Tecnologia) e Santarém (Agrária).
+
+1981:
+
+Escolas Superiores de Educação: Coimbra, Guarda, Lisboa, Portalegre, Santarém e Viseu.
+
+Escolas Superiores Técnicas: Bragança (Agrária) e Castelo Branco (Agrária).
+
+1983:
+
+Escolas Superiores Técnicas: Lisboa (Saúde), Setúbal (Tecnologia) e Tomar (Tecnologia).
+
+1984:
+
+Escola Superior de Educação: Setúbal.
+
+Escolas Superiores Técnicas: Beja (Agrária), Lisboa (Jornalismo), Porto (Saúde) e Viseu (Tecnologia).
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Do ensino superior politécnico
+
+#### SECÇÃO I — Noção e fins
+
+Artigo 1.º O ensino superior politécnico - designação que doravante passa a ser a do ensino superior de curta duração instituído pelo [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, com as alterações decorrentes da [Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), de 28 de Julho - é assegurado por escolas superiores, de educação e técnicas, agrupadas ou não em Institutos Politécnicos.
+
+Art. 2.º Ao ensino superior politécnico cumpre prosseguir as seguintes finalidades:
+
+a) Formar, a nível superior, educadores de infância, professores dos ensinos primário e preparatório e técnicos qualificados em vários domínios de actividade;
+
+b) Promover, dentro do seu âmbito, a investigação e o desenvolvimento experimental, estabelecendo a ligação de ensino com as actividades produtivas e sociais;
+
+c) Apoiar pedagogicamente os organismos de ensino e de educação permanente;
+
+d) Colaborar directamente no desenvolvimento cultural das regiões em que estão inseridos;
+
+e) Prestar serviços à comunidade, como forma de contribuição para a resolução de problemas, sobretudo de carácter regional, nela existentes.
+
+#### SECÇÃO II — Associação e articulação com o ensino superior universitário
+
+Art. 3.º - 1 - Os estabelecimentos de ensino superior politécnico e os de ensino superior universitário poderão estabelecer entre si regimes de associação, segundo normas a aprovar pelo Ministro da Educação, com objectivos de cooperação mútua, coordenação no âmbito nacional e regional e racionalização e optimização dos meios humanos e do equipamento, tanto educacional como de investigação.
+
+2 - Os estabelecimentos de ensino superior politécnico poderão estabelecer acordos com organismos públicos ou privados, segundo normas a aprovar pelo Ministro da Educação e pelo Ministro da tutela do respectivo sector, de modo a contribuir para que os diplomados adquiram uma formação profissional ligada aos problemas reais do desenvolvimento sócio-económico nacional ou regional.
+
+Art. 4.º - 1 - A articulação entre os estudos do ensino superior politécnico e os do ensino superior universitário será aprovada por decreto, precedendo proposta dos estabelecimentos interessados de ambos os ensinos.
+
+2 - Durante o período de instalação dos estabelecimentos de ensino superior politécnico, cujo regime especial é definido em diploma autónomo, a iniciativa da proposta a que se refere o número anterior poderá ser assegurada pela Direcção-Geral do Ensino Superior.
+
+### CAPÍTULO II — Dos estabelecimentos de ensino superior politécnico
+
+Art. 5.º São criados os Institutos Politécnicos de:
+
+a) Beja;
+
+b) Bragança;
+
+c) Castelo Branco;
+
+d) Coimbra;
+
+e) Faro;
+
+f) Lisboa;
+
+g) Porto;
+
+h) Santarém;
+
+i) Setúbal;
+
+j) Viseu.
+
+Art. 6.º O Instituto Politécnico de Beja agrupa os seguintes estabelecimentos de ensino:
+
+a) Escola Superior de Educação;
+
+b) Escola Superior Agrária.
+
+Art. 7.º O Instituto Politécnico de Bragança agrupa os seguintes estabelecimentos de ensino:
+
+a) Escola Superior de Educação;
+
+b) Escola Superior Agrária.
+
+Art. 8.º O Instituto Politécnico de Castelo Branco agrupa os seguintes estabelecimentos de ensino:
+
+a) Escola Superior de Educação;
+
+b) Escola Superior Agrária.
+
+Art. 9.º - 1 - O Instituto Politécnico de Coimbra agrupa os seguintes estabelecimentos de ensino:
+
+a) Escola Superior de Educação;
+
+b) Escola Superior de Gestão e Contabilidade;
+
+c) Escola Superior de Tecnologia;
+
+d) Escola Superior Agrária.
+
+2 - As Escolas Superiores Técnicas a que se referem as alíneas b), c) e d) do número anterior resultarão, respectivamente, da reconversão dos actuais Instituto Superior de Contabilidade e Administração, Instituto Superior de Engenharia e Escola de Regentes Agrícolas, todos de Coimbra.
+
+Art. 10.º O Instituto Politécnico de Faro agrupa os seguintes estabelecimentos de ensino:
+
+a) Escola Superior de Educação:
+
+b) Escola Superior de Tecnologia e Gestão.
+
+Art. 11.º O Instituto Politécnico de Lisboa agrupa os seguintes estabelecimentos de ensino:
+
+a) Escola Superior de Educação;
+
+b) Escola Superior de Gestão e Contabilidade;
+
+c) Escola Superior de Tecnologia;
+
+d) Escola Superior de Saúde;
+
+e) Escola Superior de Jornalismo.
+
+2 - As Escolas Superiores Técnicas a que se referem as alíneas b) e c) do número anterior resultarão, respectivamente, da reconversão dos actuais Instituto Superior de Contabilidade e Administração e Instituto Superior de Engenharia, ambos de Lisboa.
+
+Art. 12.º - 1 - O Instituto Politécnico do Porto agrupa os seguintes estabelecimentos de ensino:
+
+a) Escola Superior de Educação;
+
+b) Escola Superior de Gestão e Contabilidade;
+
+c) Escola Superior de Tecnologia;
+
+d) Escola Superior de Saúde.
+
+2 - As Escolas Superiores Técnicas a que se referem as alíneas b) e c) do número anterior resultarão, respectivamente, da reconversão dos actuais Instituto Superior de Contabilidade e Administração e Instituto Superior de Engenharia, ambos do Porto.
+
+Art. 13.º - 1 - O Instituto Politécnico de Santarém agrupa os seguintes estabelecimentos de ensino:
+
+a) Escola Superior de Educação;
+
+b) Escola Superior Agrária.
+
+2 - A Escola Superior Técnica a que se refere a alínea b) do número anterior resultará da reconversão da actual Escola de Regentes Agrícolas de Santarém.
+
+Art. 14.º O Instituto Politécnico de Setúbal agrupa os seguintes estabelecimentos de ensino:
+
+a) Escola Superior de Educação;
+
+b) Escola Superior de Tecnologia.
+
+Art. 15.º O Instituto Politécnico de Viseu agrupa os seguintes estabelecimentos de ensino:
+
+a) Escola Superior de Educação;
+
+b) Escola Superior de Tecnologia.
+
+Art. 16.º - 1 - Nas Escolas Superiores de Educação de Lisboa e Porto serão ministrados cursos de especialização no domínio do ensino especial.
+
+2 - O curso a professar de acordo com o número anterior, na Escola Superior de Educação de Lisboa, resultará da reconversão do curso de especialização de professores de crianças inadaptadas do Instituto de António Aurélio da Costa Ferreira.
+
+Art. 17.º - 1 - São criadas:
+
+a) A Escola Superior de Gestão e Contabilidade de Aveiro;
+
+b) A Escola Superior de Tecnologia de Tomar.
+
+2 - A Escola Superior a que se refere a alínea a) do número anterior resultará da reconversão do actual Instituto Superior de Contabilidade e Administração de Aveiro.
+
+Art. 18.º São criadas Escolas Superiores de Educação nas seguintes localidades:
+
+a) Guarda;
+
+b) Leiria;
+
+c) Portalegre;
+
+d) Viana do Castelo:
+
+e) Vila Real.
+
+### CAPÍTULO III — Das disposições finais e transitórias
+
+Art. 19.º - 1 - A situação dos cursos professados nas escolas do magistério primário, nas escolas normais de educadores de infância e nas escolas do magistério infantil será contemplada em decreto regulamentar, a aprovar nos noventa dias subsequentes à data da entrada em vigor deste diploma.
+
+2 - O mesmo decreto regulamentar providenciará acerca dos destinos do património e do pessoal afectos aos estabelecimentos de ensino referidos no número anterior.
+
+Art. 20.º A concretização de cada uma das reconversões previstas neste diploma far-se-á por decreto-lei.
+
+Art. 21.º O ensino superior politécnico será igualmente implantado nas Regiões Autónomas dos Açores e da Madeira, uma vez concluídos, com a participação de representantes dos órgãos do Governo dessas Regiões, os estudos específicos para tal necessários.
+
+Art. 22.º O Gabinete Coordenador das Actividades do Ensino Superior de Curta Duração, criado pelo [Decreto-Lei n.º 180/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1978-297624), de 15 de Julho, passa a designar-se Gabinete Coordenador das Actividades do Ensino Superior Politécnico.
+
+Art. 23.º É revogada toda a legislação em contrário, nomeadamente:
+
+a) Os artigos 10.º e 11.º, ambos do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto;
+
+b) O n.º 3 do artigo 2.º do [Decreto-Lei n.º 830/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1974-238223), de 31 de Dezembro;
+
+c) Os n.os 3 e 4 do artigo 2.º do [Decreto-Lei n.º 327/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1976-427801), de 6 de Maio;
+
+d) O artigo 2.º do [Decreto-Lei n.º 649/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1976-431010), de 31 de Julho.
+
+Art. 24.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas, consoante a sua natureza, por despacho do Ministro da Educação ou por despacho conjunto do Ministro das Finanças, do Ministro da Educação e do Secretário de Estado da Administração Pública.
+
+Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.
+
+Promulgado em 20 de Dezembro de 1979.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

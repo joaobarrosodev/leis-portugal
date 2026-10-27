@@ -1,0 +1,315 @@
+---
+schema_version: '1.0'
+id: pt:dre:1068974009:por
+title: Decreto-Lei n.º 76/2026
+short_title: null
+summary: Altera o Decreto-Lei n.º 28-A/2020, de 26 de junho, que estabelece o regime jurídico da reconversão da paisagem.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Agricultura e Mar
+official_number: 76/2026
+official_date: null
+publication_date: '2026-03-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 47/2026, Série I de 2026-03-09
+  number: '47'
+  series: I
+  supplement: null
+  pages: 15 - 19
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/03/04700/0001500019.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/76/2026/03/09/p/dre/pt/html
+  oj: null
+  dre: '1068974009'
+  dre_path: /dr/detalhe/decreto-lei/76-2026-1068974009
+  internal: pt:dre:1068974009:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009
+  metadata_url: https://data.dre.pt/eli/dec-lei/76/2026/03/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d80e4c667ca58f8bc1d49293122c944c17684d2bff849ffc5191bce6c029f3d0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arborização
+- Área Integrada de Gestão da Paisagem
+- Instituto da Conservação da Natureza e das Florestas
+- Operações Integradas de Gestão da Paisagem
+- Ordenamento do Território
+- Ordenamento Florestal
+- Programa de Reordenamento e Gestão da Paisagem
+- Proteção da Floresta
+- Proteção do Ambiente
+relationships:
+- type: amends
+  target: pt:numero:decreto-lei:28-A/2020
+  label: Altera, a partir de 10 de março de 2026, os artigos 2.º, 13.º, 14.º, 15.º, 16.º, 21.º, 22.º e 24.º-A, adita o artigo
+    25.º-A (norma transitória) e revoga o n.º 5 do artigo 13.º e o n.º 3 do artigo 22.º do Decreto-Lei n.º 28-A/2020, de 26
+    de junho, Diário da República n.º 123/2020, 1º Suplemento, Série I
+  source: null
+  date: '2020-06-26'
+- type: cites
+  target: pt:dre:136678483:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/28-a/2020/06/26/p/dre
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: http://data.dre.pt/eli/lei/30/2021/05/21/p/dre
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/96/2013/07/19/p/dre
+- type: cites
+  target: pt:dre:933044064:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/98-a/2025/08/24/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:35:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 76/2026
+
+de 9 de março
+
+As Áreas Integradas de Gestão da Paisagem (AIGP) visam aumentar a dimensão da área florestal gerida e permitir descontinuidades em amplas áreas de elevada carga combustível, bem como alcançar uma escala que promova a resiliência face aos incêndios e a valorização do capital natural, gerando as condições necessárias ao desenvolvimento de Operações Integradas de Gestão da Paisagem (OIGP), que, por sua vez, definem a programação das intervenções, o modelo operativo, os recursos financeiros a afetar e o sistema de gestão e de monitorização.
+
+O Programa do XXV Governo Constitucional prevê a necessidade de desenvolver uma política de ordenamento do território que privilegie a gestão integrada do uso do solo, a recuperação da paisagem e a requalificação de áreas degradadas. Com efeito, revela-se fundamental promover a simplificação dos procedimentos de constituição de AIGP.
+
+Neste sentido, considerando que já foi aprovado um número considerável de OIGP, que as respetivas entidades gestoras iniciaram os procedimentos inerentes às ações aprovadas, que a natureza dos investimentos florestais e agrícolas obedece a ciclos naturais e a condicionamentos meteorológicos, e de forma a dar cumprimento aos prazos fixados no âmbito do Plano de Recuperação e Resiliência, urge, igualmente, conferir uma maior dinâmica à implementação das OIGP, pelo que se prevê que os procedimentos relativos à comunicação prévia das ações de arborização e rearborização possam ser concluídos até ao final da execução do investimento.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à segunda alteração ao [Decreto-Lei n.º 28-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2020-136678483), de 26 de junho, que estabelece o regime jurídico da reconversão da paisagem.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 28-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2020-136678483), de 26 de junho
+
+Os artigos 2.º, 13.º, 14.º, 15.º, 16.º, 21.º, 22.º e 24.º-A do [Decreto-Lei n.º 28-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2020-136678483), de 26 de junho, passam a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - Podem, ainda, ser constituídas AIGP por iniciativa do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), em qualquer área do território continental, às quais não é aplicável o disposto nos números anteriores.
+
+Artigo 13.º
+
+[...]
+
+1 - [...]
+
+2 - A iniciativa de constituição de uma AIGP concretiza-se mediante proposta enviada ao ICNF, I. P., acompanhada dos seguintes elementos:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+3 - No caso previsto no n.º 5 do artigo 2.º, a iniciativa da constituição da AIGP é do ICNF, I. P.
+
+4 - [...]
+
+5 - [Revogado.]
+
+Artigo 14.º
+
+[...]
+
+1 - A AIGP pode ser constituída pela deliberação de aprovação do PRGP ou por despacho do membro do Governo responsável pela área das florestas.
+
+2 - A delimitação da AIGP por despacho, nos termos do número anterior, deve ter por base a proposta de critérios de elegibilidade a apresentar pelo ICNF, I. P.
+
+3 - [...]
+
+4 - A constituição da AIGP é publicada no Diário da República e publicitada mediante anúncio nos sítios na Internet da DGT, do ICNF, I. P., e das autarquias locais das áreas territoriais abrangidas, sendo objeto de afixação por editais nas autarquias locais das áreas territoriais abrangidas.
+
+5 - [...]
+
+Artigo 15.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - Quando não seja indicada no momento de submissão da proposta de AIGP, a entidade gestora da OIGP deve ser designada pela entidade promotora no prazo 30 dias após a assinatura do contrato previsto n.º 3 do artigo 18.º, ouvido o ICNF, I. P.
+
+5 - [...]
+
+6 - As autarquias locais territorialmente competentes podem ser entidades responsáveis pela elaboração e execução da OIGP, nas áreas abrangidas pela intervenção, assumindo a qualidade de entidades gestoras.
+
+Artigo 16.º
+
+[...]
+
+[...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) Monitorizar a execução da OIGP e prestar informação ao ICNF, I. P., nomeadamente sobre o desenvolvimento das ações nela inseridas;
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+Artigo 21.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - A proposta de OIGP é disponibilizada, para consulta e recolha de sugestões, na sede do município da área de circunscrição dos prédios e no sítio na Internet do ICNF, I. P., pelo prazo mínimo de 15 dias.
+
+4 - [...]
+
+5 - [...]
+
+6 - A proposta de OIGP é submetida pela entidade gestora ao ICNF, I. P., que, no prazo de 15 dias emite parecer.
+
+7 - O prazo para a emissão do parecer referido no número anterior fica suspenso, caso a constituição de OIGP dependa de autorização ou parecer prévio de um serviço ou entidade da Administração Pública, os quais devem ser emitidos no prazo de 15 dias.
+
+8 - A não emissão de autorização prévia no prazo devido determina a formação de deferimento tácito.
+
+9 - A não emissão dos pareceres, incluindo o do ICNF, I. P., no prazo devido não obsta à tomada de decisão final do órgão competente.
+
+10 - O ICNF, I. P., submete a proposta de OIGP ao membro do Governo responsável pela área das florestas, acompanhada dos pareceres referidos nos n.os6 e 7, para os efeitos previstos no artigo seguinte.
+
+Artigo 22.º
+
+[...]
+
+1 - A OIGP é aprovada por despacho do membro do Governo responsável pela área das florestas, a publicar no Diário da República.
+
+2 - [...]
+
+3 - [Revogado.]
+
+4 - [...]
+
+Artigo 24.º-A
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - A adesão referida no n.º 1 é formalizada por contrato entre a entidade gestora e o proprietário, definindo as ações a realizar, a sua calendarização e a programação financeira.
+
+4 - [...]»
+
+###### Artigo 3.º — Aditamento ao [Decreto-Lei n.º 28-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2020-136678483), de 26 de junho
+
+É aditado o artigo 25.º-A ao [Decreto-Lei n.º 28-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2020-136678483), de 26 de junho, com a seguinte redação:
+
+«Artigo 25.º-A
+
+Norma transitória
+
+1 - As ações de arborização ou de rearborização a realizar em OIGP aprovadas até 31 de dezembro de 2026, e cuja execução seja financiada pelo Plano de Recuperação e Resiliência (PRR), são sujeitas a comunicação prévia nos termos dos artigos 5.º e 7.º do [Decreto-Lei n.º 96/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2013-498122), de 19 de julho, na sua redação atual, a qual se considera efetuada sem necessidade de ser apresentada com antecedência mínima, com os despachos de aprovação das OIGP e é válida até ao final do prazo contratualizado para a execução do investimento financiado pelo PRR.
+
+2 - O previsto no número anterior não prejudica a necessidade de observar o disposto no artigo 7.º e no artigo 8.º do [Decreto-Lei n.º 96/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2013-498122), de 19 de julho, na sua redação atual, que pode ser concluído até ao final do prazo contratualizado para a execução do investimento financiado pelo PRR.
+
+3 - A realização de ações de arborização ou de rearborização em desconformidade com o disposto no número anterior constitui contraordenação, punível nos termos do artigo 15.º do [Decreto-Lei n.º 96/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2013-498122), de 19 de julho, na sua redação atual.
+
+4 - Para efeitos de execução das OIGP aprovadas até 31 de dezembro de 2026, e cuja execução seja financiada pelo PRR, as entidades gestoras podem recorrer ao regime de simplificação de procedimentos previstos no artigo 7.º da [Lei n.º 30/2021](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), de 21 de maio, ou ao regime previsto no artigo 36.º do [Decreto-Lei n.º 98-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-a-2025-933044064), de 24 de agosto.»
+
+###### Artigo 4.º — Norma revogatória
+
+São revogados o n.º 5 do artigo 13.º e o n.º 3 do artigo 22.º do [Decreto-Lei n.º 28-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2020-136678483), de 26 de junho.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 20 de fevereiro de 2026. - Luís Montenegro - Manuel Castro Almeida - José Manuel Fernandes.
+
+Promulgado em 26 de fevereiro de 2026.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 27 de fevereiro de 2026.
+
+O Primeiro-Ministro, Luís Montenegro.
+
+119947927

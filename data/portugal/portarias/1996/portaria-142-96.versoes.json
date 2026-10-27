@@ -1,0 +1,396 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:469375:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1996-865421437",
+ "dre_path": "/dr/detalhe/portaria/142-1996-469375",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1996-05-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "865531815",
+    "865531779",
+    "865531780",
+    "865531781",
+    "865531782",
+    "865531783",
+    "865531784",
+    "865531785",
+    "865531786",
+    "865531787",
+    "865531788",
+    "865531789",
+    "865531790",
+    "865531791"
+   ]
+  },
+  {
+   "date": "1996-08-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:408520:por",
+     "title": "Portaria n.º 318/96",
+     "published": "1996-07-30",
+     "dre_path": "/dr/detalhe/portaria/318-1996-408520"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "865531778",
+    "865531792",
+    "865531793",
+    "865531779",
+    "865531780",
+    "865531781",
+    "865531782",
+    "865531783",
+    "865531784",
+    "865531785",
+    "865531786",
+    "865531796",
+    "865531788",
+    "865531789",
+    "865531790",
+    "865531791"
+   ]
+  },
+  {
+   "date": "1996-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:584814:por",
+     "title": "Portaria n.º 745-J/96",
+     "published": "1996-12-18",
+     "dre_path": "/dr/detalhe/portaria/745-j-1996-584814"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "865531815",
+    "865531816",
+    "865531817",
+    "865531818",
+    "865531819",
+    "865531820",
+    "865531821",
+    "865531822",
+    "865531823",
+    "865531824",
+    "865531825",
+    "865531826",
+    "865531827",
+    "865531828",
+    "865531829",
+    "865531830"
+   ]
+  }
+ ],
+ "fragments": {
+  "865531815": {
+   "fragment_id": "865421438",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1996-12-23",
+   "changed_by": [],
+   "markdown": "Portaria n.º 142/96\n\nde 4 de Maio\n\nA ocupação saudável dos tempos livres dos jovens constitui um contributo inequívoco para a sua formação e desenvolvimento psicossocial.\n\nO programa agora criado visa estimular o contacto directo dos jovens com a natureza e melhorar o seu conhecimento da realidade onde se inserem, designadamente nas suas vertentes histórica, cultural e social.\n\nAssim, através do Programa OTL, o Governo procura incutir nos jovens os valores da entreajuda e disponibilidade para com os outros, criando deste modo as condições para minorar os riscos a que os jovens estão normalmente sujeitos.\n\nConsiderando as atribuições prosseguidas pelo Instituto Português da Juventude no âmbito da promoção, desenvolvimento e coordenação de programas de ocupação de jovens:\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Juventude, ao abrigo do disposto no n.º 3 do artigo 2.º do Decreto-Lei n.º 333/93, de 29 de Setembro, o seguinte:\n\n1.º É criado o Programa Ocupação de Tempos Livres (OTL).\n\n2.º É aprovado o Regulamento do Programa OTL, que faz parte integrante da presente portaria.\n\n3.º É atribuída a gestão do Programa OTL ao Instituto Português da Juventude."
+  },
+  "865531779": {
+   "fragment_id": "865421439",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO Programa OTL - Ocupação de Tempos Livres visa promover, de forma saudável, a ocupação dos tempos livres dos jovens durante o período compreendido entre 1 de Julho e 15 de Setembro."
+  },
+  "865531780": {
+   "fragment_id": "865421440",
+   "type": 11,
+   "heading": "Artigo 2.º — Áreas de ocupação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Áreas de ocupação\n\n1 - O programa OTL compreende as seguintes áreas de ocupação:\n\na) Ambiente;\n\nb) Apoio a idosos;\n\nc) Apoio à infância;\n\nd) Cultura;\n\ne) Património histórico;\n\nf) Protecção civil;\n\ng) Outras de relevante interesse social e comunitário.\n\n2 - Independentemente da área de ocupação em que se inserirem os projectos, os jovens não poderão desempenhar tarefas de carácter administrativo ou outras que sejam habitualmente exercidas por profissionais que estejam ao serviço da entidade promotora."
+  },
+  "865531781": {
+   "fragment_id": "865421441",
+   "type": 11,
+   "heading": "Artigo 3.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Destinatários\n\nPodem participar no Programa OTL os jovens de idades compreendidas entre os 14 e os 25 anos."
+  },
+  "865531782": {
+   "fragment_id": "865421442",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades promotoras\n\nPodem apresentar projectos ao Programa OTL as seguintes entidades:\n\na) Associações juvenis;\n\nb) Câmaras municipais;\n\nc) Instituições particulares de solidariedade social (IPSS);\n\nd) Juntas de freguesia;\n\ne) Organizações não governamentais."
+  },
+  "865531783": {
+   "fragment_id": "865421443",
+   "type": 11,
+   "heading": "Artigo 5.º — Duração dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Duração dos projectos\n\nOs projectos terão uma duração mínima de dois semanas e uma duração máxima equivalente ao período de vigência deste Programa."
+  },
+  "865531784": {
+   "fragment_id": "865421444",
+   "type": 11,
+   "heading": "Artigo 6.º — Apresentação dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apresentação dos projectos\n\n1 - Os projectos deverão ser apresentados, em formulário próprio, até ao dia 15 de Maio do ano da sua realização, junto dos serviços do Instituto Português da Juventude (IPJ).\n\n2 - Dos projectos a apresentar devem constar, obrigatoriamente, os seguintes elementos:\n\na) Área de ocupação;\n\nb) Duração do projecto;\n\nc) Descrição dos objectivos e das actividades a desenvolver pelos jovens;\n\nd) Número mínimo e máximo de jovens a envolver em cada projecto;\n\ne) Condições gerais de participação oferecidas pela entidade promotora;\n\nf) Estrutura de acompanhamento técnico-pedagógico do projecto."
+  },
+  "865531785": {
+   "fragment_id": "865421445",
+   "type": 11,
+   "heading": "Artigo 7.º — Apreciação dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apreciação dos projectos\n\n1 - A apreciação dos projectos é da competência do IPJ, de acordo com as seguintes prioridades:\n\na) Equilíbrio regional;\n\nb) Equilíbrio pelas áreas de ocupação;\n\nc) Relevância do projecto na comunidade local;\n\nd) Impacte na formação cívica dos jovens;\n\ne) Envolvimento dos jovens no desenvolvimento do projecto;\n\nf) Número de jovens envolvidos.\n\n2 - O IPJ comunicará às entidades promotoras a aprovação ou não do projecto até ao dia 31 de Maio."
+  },
+  "865531786": {
+   "fragment_id": "865421446",
+   "type": 11,
+   "heading": "Artigo 8.º — Inscrições e informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inscrições e informações\n\n1 - O período de inscrição dos jovens candidatos decorre entre 1 e 31 de Maio.\n\n2 - Os jovens candidatos podem inscrever-se no Programa OTL, através do preenchimento de formulário próprio, junto dos serviços do IPJ ou das câmaras municipais que aderirem ao Programa.\n\n3 - O director do Centro de Juventude do IPJ, com a colaboração das entidades promotoras dos projectos aprovados, procederá à selecção dos jovens participantes no Programa OTL de acordo com os seguintes critérios:\n\na) A proximidade da residência dos jovens relativamente ao local de desenvolvimento do projecto;\n\nb) Interesse manifestado pelas áreas de ocupação dos projectos;\n\nc) Data da candidatura.\n\n4 - A lista dos jovens seleccionados para os diversos projectos será afixada, até ao dia 20 de Junho, nos serviços do IPJ e nas câmaras municipais que aderirem ao Programa.\n\n5 - Cada jovem seleccionado receberá, na morada indicada no formulário de inscrição, informação sobre o projecto em que vai participar, período de ocupação e entidade promotora.\n\n6 - O jovem seleccionado deverá confirmar, entre os dias 24 e 27 de Junho, a aceitação da colocação, junto da entidade promotora, sob pena de ser excluído do Programa."
+  },
+  "865531787": {
+   "fragment_id": "865421447",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoios\n\n1 - Cada jovem participante tem direito, durante o período de ocupação no projecto:\n\na) A uma bolsa horária de 200$00, paga pelo IPJ;\n\nb) A um seguro de acidentes pessoais.\n\n2 - A bolsa será paga na totalidade, no prazo máximo de 10 dias úteis após o final da participação do jovem no projecto.\n\n3 - O período diário de participação do jovem no projecto varia de três a cinco horas, sendo a sua definição da responsabilidade da entidade promotora.\n\n4 - Cada jovem só pode participar no Programa OTL por um período máximo de duas semanas."
+  },
+  "865531788": {
+   "fragment_id": "865421448",
+   "type": 11,
+   "heading": "Artigo 10.º — Deveres das entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Deveres das entidades promotoras\n\n1 - Constituem deveres das entidades promotoras:\n\na) Enviar, no final de cada semana, para a delegação distrital do IPJ mapa de assiduidade dos jovens participantes, devidamente preenchido;\n\nb) Zelar pela boa execução do projecto e pelo enquadramento dos jovens participantes;\n\nc) Elaborar e apresentar o relatório final do projecto até 10 dias após a sua conclusão.\n\n2 - As câmaras municipais que aderirem ao Programa OTL deverão fazer entrega, nas delegações distritais do IPJ, até ao dia 3 de Junho (inclusive), de todos os formulários de inscrição, bem como prestar todos os esclarecimentos necessários aos jovens candidatos."
+  },
+  "865531789": {
+   "fragment_id": "865421449",
+   "type": 11,
+   "heading": "Artigo 11.º — Deveres dos jovens participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Deveres dos jovens participantes\n\n1 - Constituem deveres dos jovens participantes no Programa OTL:\n\na) A assiduidade;\n\nb) O cumprimento dos horários e orientações definidos pela entidade promotora no quadro das actividades a desenvolver no projecto;\n\nc) A utilização de um elemento identificativo fornecido pelo IPJ;\n\nd) A aceitação das condições do presente Regulamento.\n\n2 - O não cumprimento da alínea a) do número anterior por um período superior a dois dias seguidos ou três interpolados dará lugar à exclusão do projecto, sem direito a qualquer bolsa.\n\n3 - Em caso de força maior, designadamente doença do jovem participante, o mesmo poderá ser incluído noutro projecto até completar duas semanas de participação no Programa."
+  },
+  "865531790": {
+   "fragment_id": "865421450",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres do Instituto Português da Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Deveres do Instituto Português da Juventude\n\n1 - Constituem deveres do IPJ:\n\na) A divulgação e gestão do Programa OTL;\n\nb) O fornecimento dos formulários previstos no presente Regulamento;\n\nc) A prestação de todas as informações que lhe forem solicitadas;\n\nd) O esclarecimento e interpretação de eventuais dúvidas do presente Regulamento;\n\ne) Efectuar o pagamento das bolsas aos jovens participantes;\n\nf) Emitir o certificado de participação a todos os jovens no final do Programa OTL."
+  },
+  "865531791": {
+   "fragment_id": "865421451",
+   "type": 11,
+   "heading": "Artigo 13.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Financiamento\n\n1 - A aprovação dos projectos apresentados fica condicionada à dotação orçamental para o Programa OTL.\n\n2 - As entidades promotoras podem participar no financiamento de bolsas aos jovens participantes nos seus projectos, em condições a acordar, até ao dia 15 de Junho, com o IPJ."
+  },
+  "865531778": {
+   "fragment_id": "865421438",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 142/96\n\nde 4 de Maio\n\nA ocupação saudável dos tempos livres dos jovens constitui um contributo inequívoco para a sua formação e desenvolvimento psicossocial.\n\nO programa agora criado visa estimular o contacto directo dos jovens com a natureza e melhorar o seu conhecimento da realidade onde se inserem, designadamente nas suas vertentes histórica, cultural e social.\n\nAssim, através do Programa OTL, o Governo procura incutir nos jovens os valores da entreajuda e disponibilidade para com os outros, criando deste modo as condições para minorar os riscos a que os jovens estão normalmente sujeitos.\n\nConsiderando as atribuições prosseguidas pelo Instituto Português da Juventude no âmbito da promoção, desenvolvimento e coordenação de programas de ocupação de jovens:\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Juventude, ao abrigo do disposto no n.º 3 do artigo 2.º do Decreto-Lei n.º 333/93, de 29 de Setembro, o seguinte:\n\n1.º É criado o Programa Ocupação de Tempos Livres (OTL).\n\n2.º É aprovado o Regulamento do Programa OTL, que faz parte integrante da presente portaria.\n\n3.º É atribuída a gestão do Programa OTL ao Instituto Português da Juventude."
+  },
+  "865531792": {
+   "fragment_id": "865421452",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros.\n\nAssinada em 19 de Abril de 1996.\n\nO Secretário de Estado da Juventude, António José Martins Seguro."
+  },
+  "865531793": {
+   "fragment_id": "865421453",
+   "type": 14,
+   "heading": "REGULAMENTO DO PROGRAMA OCUPAÇÃO DE TEMPOS LIVRES (OTL)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## REGULAMENTO DO PROGRAMA OCUPAÇÃO DE TEMPOS LIVRES (OTL)"
+  },
+  "865531796": {
+   "fragment_id": "865421447",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoios",
+   "in_force_from": "1996-08-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 318/96 - Diário da República n.º 175/1996, Série I-B de 1996-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/318-1996-408520), em vigor a partir de 1996-08-04"
+   ],
+   "markdown": "###### Artigo 9.º — Apoios\n\n1 - Cada jovem participante tem direito, durante o período de ocupação no projecto:\n\na) A uma bolsa horária de 200$00, paga pelo IPJ;\n\nb) A um seguro de acidentes pessoais.\n\n2 - A bolsa será paga na totalidade, no prazo máximo de 10 dias úteis após o final da participação do jovem no projecto.\n\n3 - O período diário de participação do jovem no projecto varia de três a cinco horas, sendo a sua definição da responsabilidade da entidade promotora.\n\n4 - Cada jovem só pode participar no Programa OTL por um período máximo de duas semanas.\n\n5 - O pedido de tempo previsto no número anterior poderá excepcionalmente ser alargado até quatro semanas, mediante despacho fundamentado da comissão executiva do Instituto Português da Juventude.\n\n> Alterado pelo/a [Portaria n.º 318/96 - Diário da República n.º 175/1996, Série I-B de 1996-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/318-1996-408520), em vigor a partir de 1996-08-04"
+  },
+  "865531816": {
+   "fragment_id": "865421452",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "Presidência do Conselho de Ministros.\n\nAssinada em 19 de Abril de 1996.\n\nO Secretário de Estado da Juventude, António José Martins Seguro.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531817": {
+   "fragment_id": "865421453",
+   "type": 14,
+   "heading": "REGULAMENTO DO PROGRAMA OCUPAÇÃO DE TEMPOS LIVRES (OTL)",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "## REGULAMENTO DO PROGRAMA OCUPAÇÃO DE TEMPOS LIVRES (OTL)\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531818": {
+   "fragment_id": "865421439",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO Programa OTL - Ocupação de Tempos Livres visa promover, de forma saudável, a ocupação dos tempos livres dos jovens durante o período compreendido entre 1 de Julho e 15 de Setembro.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531819": {
+   "fragment_id": "865421440",
+   "type": 11,
+   "heading": "Artigo 2.º — Áreas de ocupação",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 2.º — Áreas de ocupação\n\n1 - O programa OTL compreende as seguintes áreas de ocupação:\n\na) Ambiente;\n\nb) Apoio a idosos;\n\nc) Apoio à infância;\n\nd) Cultura;\n\ne) Património histórico;\n\nf) Protecção civil;\n\ng) Outras de relevante interesse social e comunitário.\n\n2 - Independentemente da área de ocupação em que se inserirem os projectos, os jovens não poderão desempenhar tarefas de carácter administrativo ou outras que sejam habitualmente exercidas por profissionais que estejam ao serviço da entidade promotora.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531820": {
+   "fragment_id": "865421441",
+   "type": 11,
+   "heading": "Artigo 3.º — Destinatários",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 3.º — Destinatários\n\nPodem participar no Programa OTL os jovens de idades compreendidas entre os 14 e os 25 anos.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531821": {
+   "fragment_id": "865421442",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidades promotoras",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 4.º — Entidades promotoras\n\nPodem apresentar projectos ao Programa OTL as seguintes entidades:\n\na) Associações juvenis;\n\nb) Câmaras municipais;\n\nc) Instituições particulares de solidariedade social (IPSS);\n\nd) Juntas de freguesia;\n\ne) Organizações não governamentais.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531822": {
+   "fragment_id": "865421443",
+   "type": 11,
+   "heading": "Artigo 5.º — Duração dos projectos",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 5.º — Duração dos projectos\n\nOs projectos terão uma duração mínima de dois semanas e uma duração máxima equivalente ao período de vigência deste Programa.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531823": {
+   "fragment_id": "865421444",
+   "type": 11,
+   "heading": "Artigo 6.º — Apresentação dos projectos",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 6.º — Apresentação dos projectos\n\n1 - Os projectos deverão ser apresentados, em formulário próprio, até ao dia 15 de Maio do ano da sua realização, junto dos serviços do Instituto Português da Juventude (IPJ).\n\n2 - Dos projectos a apresentar devem constar, obrigatoriamente, os seguintes elementos:\n\na) Área de ocupação;\n\nb) Duração do projecto;\n\nc) Descrição dos objectivos e das actividades a desenvolver pelos jovens;\n\nd) Número mínimo e máximo de jovens a envolver em cada projecto;\n\ne) Condições gerais de participação oferecidas pela entidade promotora;\n\nf) Estrutura de acompanhamento técnico-pedagógico do projecto.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531824": {
+   "fragment_id": "865421445",
+   "type": 11,
+   "heading": "Artigo 7.º — Apreciação dos projectos",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 7.º — Apreciação dos projectos\n\n1 - A apreciação dos projectos é da competência do IPJ, de acordo com as seguintes prioridades:\n\na) Equilíbrio regional;\n\nb) Equilíbrio pelas áreas de ocupação;\n\nc) Relevância do projecto na comunidade local;\n\nd) Impacte na formação cívica dos jovens;\n\ne) Envolvimento dos jovens no desenvolvimento do projecto;\n\nf) Número de jovens envolvidos.\n\n2 - O IPJ comunicará às entidades promotoras a aprovação ou não do projecto até ao dia 31 de Maio.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531825": {
+   "fragment_id": "865421446",
+   "type": 11,
+   "heading": "Artigo 8.º — Inscrições e informações",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 8.º — Inscrições e informações\n\n1 - O período de inscrição dos jovens candidatos decorre entre 1 e 31 de Maio.\n\n2 - Os jovens candidatos podem inscrever-se no Programa OTL, através do preenchimento de formulário próprio, junto dos serviços do IPJ ou das câmaras municipais que aderirem ao Programa.\n\n3 - O director do Centro de Juventude do IPJ, com a colaboração das entidades promotoras dos projectos aprovados, procederá à selecção dos jovens participantes no Programa OTL de acordo com os seguintes critérios:\n\na) A proximidade da residência dos jovens relativamente ao local de desenvolvimento do projecto;\n\nb) Interesse manifestado pelas áreas de ocupação dos projectos;\n\nc) Data da candidatura.\n\n4 - A lista dos jovens seleccionados para os diversos projectos será afixada, até ao dia 20 de Junho, nos serviços do IPJ e nas câmaras municipais que aderirem ao Programa.\n\n5 - Cada jovem seleccionado receberá, na morada indicada no formulário de inscrição, informação sobre o projecto em que vai participar, período de ocupação e entidade promotora.\n\n6 - O jovem seleccionado deverá confirmar, entre os dias 24 e 27 de Junho, a aceitação da colocação, junto da entidade promotora, sob pena de ser excluído do Programa.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531826": {
+   "fragment_id": "865421447",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoios",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23",
+    "Alterado pelo/a [Portaria n.º 318/96 - Diário da República n.º 175/1996, Série I-B de 1996-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/318-1996-408520), em vigor a partir de 1996-08-04"
+   ],
+   "markdown": "###### Artigo 9.º — Apoios\n\n1 - Cada jovem participante tem direito, durante o período de ocupação no projecto:\n\na) A uma bolsa horária de 200$00, paga pelo IPJ;\n\nb) A um seguro de acidentes pessoais.\n\n2 - A bolsa será paga na totalidade, no prazo máximo de 10 dias úteis após o final da participação do jovem no projecto.\n\n3 - O período diário de participação do jovem no projecto varia de três a cinco horas, sendo a sua definição da responsabilidade da entidade promotora.\n\n4 - Cada jovem só pode participar no Programa OTL por um período máximo de duas semanas.\n\n5 - O pedido de tempo previsto no número anterior poderá excepcionalmente ser alargado até quatro semanas, mediante despacho fundamentado da comissão executiva do Instituto Português da Juventude.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23\n\n> Alterado pelo/a [Portaria n.º 318/96 - Diário da República n.º 175/1996, Série I-B de 1996-07-30](https://diariodarepublica.pt/dr/detalhe/portaria/318-1996-408520), em vigor a partir de 1996-08-04"
+  },
+  "865531827": {
+   "fragment_id": "865421448",
+   "type": 11,
+   "heading": "Artigo 10.º — Deveres das entidades promotoras",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 10.º — Deveres das entidades promotoras\n\n1 - Constituem deveres das entidades promotoras:\n\na) Enviar, no final de cada semana, para a delegação distrital do IPJ mapa de assiduidade dos jovens participantes, devidamente preenchido;\n\nb) Zelar pela boa execução do projecto e pelo enquadramento dos jovens participantes;\n\nc) Elaborar e apresentar o relatório final do projecto até 10 dias após a sua conclusão.\n\n2 - As câmaras municipais que aderirem ao Programa OTL deverão fazer entrega, nas delegações distritais do IPJ, até ao dia 3 de Junho (inclusive), de todos os formulários de inscrição, bem como prestar todos os esclarecimentos necessários aos jovens candidatos.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531828": {
+   "fragment_id": "865421449",
+   "type": 11,
+   "heading": "Artigo 11.º — Deveres dos jovens participantes",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 11.º — Deveres dos jovens participantes\n\n1 - Constituem deveres dos jovens participantes no Programa OTL:\n\na) A assiduidade;\n\nb) O cumprimento dos horários e orientações definidos pela entidade promotora no quadro das actividades a desenvolver no projecto;\n\nc) A utilização de um elemento identificativo fornecido pelo IPJ;\n\nd) A aceitação das condições do presente Regulamento.\n\n2 - O não cumprimento da alínea a) do número anterior por um período superior a dois dias seguidos ou três interpolados dará lugar à exclusão do projecto, sem direito a qualquer bolsa.\n\n3 - Em caso de força maior, designadamente doença do jovem participante, o mesmo poderá ser incluído noutro projecto até completar duas semanas de participação no Programa.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531829": {
+   "fragment_id": "865421450",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres do Instituto Português da Juventude",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 12.º — Deveres do Instituto Português da Juventude\n\n1 - Constituem deveres do IPJ:\n\na) A divulgação e gestão do Programa OTL;\n\nb) O fornecimento dos formulários previstos no presente Regulamento;\n\nc) A prestação de todas as informações que lhe forem solicitadas;\n\nd) O esclarecimento e interpretação de eventuais dúvidas do presente Regulamento;\n\ne) Efectuar o pagamento das bolsas aos jovens participantes;\n\nf) Emitir o certificado de participação a todos os jovens no final do Programa OTL.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  },
+  "865531830": {
+   "fragment_id": "865421451",
+   "type": 11,
+   "heading": "Artigo 13.º — Financiamento",
+   "in_force_from": "1996-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+   ],
+   "markdown": "###### Artigo 13.º — Financiamento\n\n1 - A aprovação dos projectos apresentados fica condicionada à dotação orçamental para o Programa OTL.\n\n2 - As entidades promotoras podem participar no financiamento de bolsas aos jovens participantes nos seus projectos, em condições a acordar, até ao dia 15 de Junho, com o IPJ.\n\n> Revogado pelo/a [Portaria n.º 745-J/96 - Diário da República n.º 292/1996, 2º Suplemento, Série I-B de 1996-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/745-j-1996-584814), em vigor a partir de 1996-12-23"
+  }
+ }
+}

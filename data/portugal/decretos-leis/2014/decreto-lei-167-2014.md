@@ -1,0 +1,312 @@
+---
+schema_version: '1.0'
+id: pt:dre:58763441:por
+title: Decreto-Lei n.º 167/2014
+short_title: null
+summary: Define os termos da extinção dos estabelecimentos fabris do Exército denominados Oficinas Gerais de Fardamento e
+  Equipamento e Oficinas Gerais de Material de Engenharia
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 167/2014
+official_date: null
+publication_date: '2014-11-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 215/2014, Série I de 2014-11-06
+  number: '215'
+  series: I
+  supplement: null
+  pages: 5669 - 5671
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21500/0566905671.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/167/2014/11/06/p/dre/pt/html
+  oj: null
+  dre: '58763441'
+  dre_path: /dr/detalhe/decreto-lei/167-2014-58763441
+  internal: pt:dre:58763441:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2014-58763441
+  metadata_url: https://data.dre.pt/eli/dec-lei/167/2014/11/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2014-58763441
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:24:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0a08ce8ed31e4e99ac0ca7a0ba588425fc473a371534b17592ccfda53fe05bee
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cessação de Actividade
+- Chefe do Estado Maior do Exército
+- Comando da Logística
+- Definição de Competências
+- Direção Geral do Tesouro e Finanças
+- Diretor
+- Domínio Público Militar
+- Estabelecimentos Fabris do Exército
+- Exército
+- Extinção de Serviços
+- Gestão do Património
+- Integração de Serviços
+- Integração de Trabalhadores
+- Lei Geral do Trabalho em Funções Públicas
+- Ministério da Defesa Nacional
+- Ministério das Finanças
+- Mobilidade de Pessoal
+- Oficinas Gerais de Fardamento e Equipamento
+- Oficinas Gerais de Material de Engenharia
+- Orçamento
+- Prazo
+- Prestação de Contas
+- Reintegração de Pessoal
+- Transferência de Competências
+- Transferência de Pessoal
+- Transferência de Verbas
+- Transferência Patrimonial
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:140540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:198754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:310261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489707:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/231/2009/09/15/p/dre
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
+- type: cites
+  target: pt:dre:56384876:por
+  label: null
+  source: http://data.dre.pt/eli/leiorg/5/2014/08/29/p/dre
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
+- type: cites
+  target: pt:dre:689981:por
+  label: null
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:24:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 167/2014
+
+de 6 de novembro
+
+O Programa do XIX Governo Constitucional fixa, como medida destinada a realizar os objetivos estratégicos da defesa nacional, a racionalização da despesa militar, nomeadamente através da melhor articulação entre os ramos das Forças Armadas e uma maior eficiência na utilização de recursos, designadamente desativando unidades, estabelecimentos e sistemas de armas não essenciais.
+
+Os vários estudos realizados ao longo das últimas décadas referem a existência de estabelecimentos fabris que se encontram, há muito, de uma forma geral, a atravessar uma profunda crise, apresentando baixa produtividade, produtos desatualizados, reduzida capacidade competitiva e dotados de modelos de gestão e de cultura empresarial inadequados.
+
+Os constantes e avultados prejuízos, incomportáveis na filosofia de contenção orçamental em que Portugal está empenhado, e o desajustamento produtivo e competitivo dos estabelecimentos fabris, exigem decisões de fundo que permitam tornar o setor mais racionalizado, designadamente ao nível da sua gestão.
+
+Existem, neste quadro, estabelecimentos fabris sobre os quais está comprovadamente adquirida a respetiva inviabilidade industrial, económica e financeira, como é o caso das Oficinas Gerais de Fardamento e Equipamento (OGFE).
+
+As OGFE e as Oficinas Gerais de Material de Engenharia (OGME) são reguladas não só pelo disposto na [Lei n.º 2020](https://diariodarepublica.pt/dr/detalhe/lei/2020-1947-414634), de 19 de março de 1947, no [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de outubro de 1958, alterado, entre outros diplomas, pelo [Decreto-Lei n.º 49188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49188-1969-198754), de 13 de agosto de 1969, no [Decreto-Lei n.º 44322](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44322-1962-140540), de 3 de maio de 1962, que estabelece o quadro orgânico das OGME, que viria a ser alterado pelo [Decreto-Lei n.º 48283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48283-1968-234893), de 21 de março de 1968, na [Portaria n.º 621/72](https://diariodarepublica.pt/dr/detalhe/portaria/621-1972-689981), de 21 de outubro, e no [Decreto-Lei n.º 646/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/646-1975-310261), de 17 de novembro, mas também por legislação dispersa com incidência em diferentes setores da sua atividade.
+
+As OGFE e as OGME, atualmente sujeitas, nos termos da Lei Orgânica do Exército, aprovada pelo [Decreto-Lei n.º 231/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2009-489707), de 15 de setembro, aos poderes de direção e fiscalização do Comando da Logística do Exército, o qual integra os denominados órgãos centrais de administração e direção daquele ramo das Forças Armadas, têm vindo a sofrer ao longo dos anos sucessivas intervenções, na tentativa de as adaptar à evolução verificada no setor e aos novos desígnios da defesa nacional.
+
+O Exército, componente terrestre do sistema de forças nacional, é uma instituição estruturante do Estado Português, devendo ser moderno, adaptado e adaptável às alterações do ambiente político, estratégico e operacional contemporâneo, desperto para a evolução científica e tecnológica, adequado à realidade da profissionalização, em suma, uma instituição de acordo com os recursos humanos e económicos do país, versátil e disponível para a mudança, no contexto mais amplo do definido na Lei da Defesa Nacional, aprovada pela Lei Orgânica n.º 1-B/2009, de 7 de julho, alterada pela [Lei Orgânica n.º 5/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), de 29 de agosto, e na Lei Orgânica do Exército, aprovada pelo [Decreto-Lei n.º 231/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2009-489707), de 15 de setembro.
+
+O quadro jurídico em que assenta a operação de extinção das OGFE e OGME é, num primeiro plano, o da Lei Orgânica do Exército, aprovada pelo [Decreto-Lei n.º 231/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2009-489707), de 15 de setembro, o do [Decreto-Lei n.º 200/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), de 25 de outubro, com as necessárias adaptações, que estabelece o regime geral de extinção, fusão e reestruturação de serviços públicos e de racionalização de efetivos, e, finalmente, ao nível do enquadramento das condições de requalificação dos recursos humanos, pelo vertido na Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, em matéria de reafetação de trabalhadores em caso de reorganização de órgãos ou serviços da Administração Pública.
+
+Foi promovida, a título facultativo, a audição das organizações representativas dos trabalhadores.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei define os termos da extinção dos estabelecimentos fabris do Exército denominados Oficinas Gerais de Fardamento e Equipamento (OGFE) e Oficinas Gerais de Material de Engenharia (OGME).
+
+###### Artigo 2.º — Extinção
+
+1 - São extintas as OGFE.
+
+2 - São extintas, por fusão, as OGME, sendo as suas atribuições e competências integradas no Exército, através do seu Comando da Logística.
+
+### CAPÍTULO I — Extinção das Oficinas Gerais de Fardamento e Equipamento
+
+###### Artigo 3.º — Processo de extinção
+
+1 - O processo de extinção das OGFE decorre no prazo de 40 dias úteis, a contar da data da entrada em vigor do presente decreto-lei, sendo-lhe aplicável o regime previsto no [Decreto-Lei n.º 200/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), de 25 de outubro, com as adaptações constantes do presente diploma.
+
+2 - O processo de extinção referido no número anterior compreende:
+
+a) Todas as operações e decisões necessárias à cessação da atividade das OGFE;
+
+b) A colocação dos trabalhadores das OGFE em situação de requalificação;
+
+c) A reafetação de todos os demais recursos das OGFE.
+
+###### Artigo 4.º — Responsabilidade pelo processo de extinção das Oficinas Gerais de Fardamento e Equipamento
+
+1 - Sem prejuízo do disposto nos artigos seguintes do presente capítulo, o processo de extinção das OGFE decorre sob a responsabilidade do respetivo diretor, sob a supervisão do Chefe do Estado-Maior do Exército.
+
+2 - Até ao termo do processo de extinção, a responsabilidade pela execução orçamental incumbe ao responsável máximo das OGFE que, nos termos da lei, elabora e documenta a prestação de contas.
+
+3 - A prestação de contas é remetida ao Tribunal de Contas, no prazo máximo de 45 dias úteis, a contar da data referida no número anterior.
+
+###### Artigo 5.º — Procedimentos relativos ao pessoal das Oficinas Gerais de Fardamento e Equipamento
+
+Aos trabalhadores das OGFE são aplicáveis as regras relativas ao procedimento de extinção previstas na Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, para a reafetação de trabalhadores em caso de reorganização de órgãos ou serviços da Administração Pública.
+
+###### Artigo 6.º — Passivo e responsabilidades
+
+A assunção de passivos e responsabilidades sobre as OGFE, no contexto da extinção e do correspondente processo de liquidação, é assegurado por dotação orçamental inscrita no capítulo 60 do Ministério das Finanças, nos termos da alínea b) do n.º 1 e do n.º 2 do artigo 120.º da [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, alterada pelas Leis n.os 13/2014, de 14 de março, e [Lei n.º 75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro.
+
+###### Artigo 7.º — Bens imóveis
+
+1 - Os bens imóveis do domínio público militar que se encontrem afetos às OGFE, são reafetados ao Exército/Ministério da Defesa Nacional.
+
+2 - Para efeitos do disposto no número anterior, é elaborada, em articulação com a Direção-Geral do Tesouro e Finanças, uma relação de todos os bens imóveis afetos às OGFE à data de entrada em vigor do presente decreto-lei.
+
+###### Artigo 8.º — Posição processual
+
+O Ministério da Defesa Nacional, através do Exército, assume a posição processual das OGFE nos processos judiciais que subsistam à data da conclusão do processo de extinção.
+
+### CAPÍTULO II — Extinção das Oficinas Gerais de Material de Engenharia
+
+###### Artigo 9.º — Processo de extinção por fusão
+
+1 - O processo de extinção das OGME, por fusão das suas atribuições e competências no Comando da Logística do Exército, decorre no prazo de 40 dias úteis, a contar da data da entrada em vigor do presente decreto-lei, sendo-lhe aplicável o regime previsto no [Decreto-Lei n.º 200/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), de 25 de outubro, com as adaptações constantes do presente diploma.
+
+2 - O processo de extinção referido no número anterior compreende:
+
+a) Todas as operações e decisões necessárias à transferência das atribuições e competências legalmente cometidas às OGME para o Comando da Logística do Exército;
+
+b) A reafetação e colocação dos trabalhadores das OGME em situação de requalificação;
+
+c) A reafetação de todos os demais recursos das OGME.
+
+###### Artigo 10.º — Responsabilidade pelo processo de extinção das Oficinas Gerais de Material de Engenharia
+
+1 - Sem prejuízo do disposto nos artigos seguintes do presente capítulo, o processo de extinção, por fusão, das OGME decorre sob a responsabilidade do Comandante da Logística do Exército, com a colaboração do diretor das OGME.
+
+2 - Até ao termo do processo de extinção, a responsabilidade pela execução orçamental incumbe ao responsável máximo das OGME, que, nos termos da lei, elabora e documenta a prestação de contas.
+
+3 - A prestação de contas é remetida ao Tribunal de Contas, no prazo máximo de 45 dias úteis, a contar da data referida no número anterior.
+
+###### Artigo 11.º — Procedimentos relativos ao pessoal das Oficinas Gerais de Material de Engenharia
+
+1 - Aos trabalhadores das OGME são aplicáveis as regras relativas ao procedimento de fusão previstas na Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, para a reafetação de trabalhadores em caso reorganização de órgãos ou serviços da Administração Pública.
+
+2 - É fixado como critério geral e abstrato de identificação do universo de trabalhadores necessários à prossecução das atribuições e ao exercício das competências transferidas por força do presente decreto-lei, o desempenho de funções nas OGME.
+
+###### Artigo 12.º — Sucessão
+
+O Exército sucede às OGME na totalidade das atribuições e competências, direitos e obrigações que subsistam na titularidade desta, assumindo todas as posições jurídicas de que seja titular, independentemente de quaisquer formalidades.
+
+###### Artigo 13.º — Referências legais
+
+As referências legais às OGME e aos seus órgãos consideram-se feitas ao Exército.
+
+### CAPÍTULO III — Disposições transitórias e finais
+
+###### Artigo 14.º — Norma transitória
+
+O diretor das OGFE mantém, até ao final do processo de extinção previsto no capítulo I do presente decreto-lei, as competências previstas nos diplomas que regulam a atividade deste estabelecimento fabril.
+
+###### Artigo 15.º — Norma revogatória
+
+1 - São revogados:
+
+a) A [Lei n.º 2020](https://diariodarepublica.pt/dr/detalhe/lei/2020-1947-414634), de 19 de março de 1947, na parte respeitante às OGFE e OGME;
+
+b) O [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de outubro de 1958, na parte respeitante às OGFE e OGME;
+
+c) O [Decreto-Lei n.º 44322](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44322-1962-140540), de 3 de maio de 1962, na parte respeitante às OGME;
+
+d) O [Decreto-Lei n.º 48283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48283-1968-234893), de 21 de março de 1968, na parte respeitante às OGME;
+
+e) O [Decreto-Lei n.º 49188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49188-1969-198754), de 13 de agosto de 1969.
+
+2 - São ainda revogados todos os diplomas legais e regulamentares que regulem conteúdos orgânicos e de funcionamento próprios das OGFE e OGME, bem como a demais legislação e regulamentação complementar específica aplicável a estes estabelecimentos fabris.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 11 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco.
+
+Promulgado em 28 de outubro de 2014.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 29 de outubro de 2014.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

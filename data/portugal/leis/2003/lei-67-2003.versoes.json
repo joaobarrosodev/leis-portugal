@@ -1,0 +1,566 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:655969:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2003-213937080",
+ "dre_path": "/dr/detalhe/lei/67-2003-655969",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213936992",
+    "213936993",
+    "213936994",
+    "213936995",
+    "213936996",
+    "213936997",
+    "213936998",
+    "213936999",
+    "213937000",
+    "213937001",
+    "213937002",
+    "213937003",
+    "213937004",
+    "213937005",
+    "213937006",
+    "213937007",
+    "213937008",
+    "213937009",
+    "213937010",
+    "213937011",
+    "213937012",
+    "213937013",
+    "213937014",
+    "213937015",
+    "213937016",
+    "213937017",
+    "213937018",
+    "213937019",
+    "213937020",
+    "213937021",
+    "213937022",
+    "213937023",
+    "213937024",
+    "213937025",
+    "213937026",
+    "213937027",
+    "213937028",
+    "213937029",
+    "213937031"
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213881448:por",
+     "title": "Decreto-Lei n.º 41/2023",
+     "published": "2023-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2023-213881448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "213936992",
+    "213936993",
+    "213936994",
+    "213936995",
+    "213936996",
+    "213936997",
+    "213936998",
+    "213936999",
+    "214103384",
+    "213937001",
+    "213937002",
+    "213937003",
+    "213937004",
+    "214103385",
+    "213937006",
+    "214103386",
+    "213937008",
+    "213937009",
+    "213937010",
+    "213937011",
+    "214103387",
+    "213937013",
+    "213937014",
+    "213937015",
+    "213937016",
+    "213937017",
+    "213937018",
+    "213937019",
+    "213937020",
+    "213937021",
+    "213937022",
+    "213937023",
+    "213937024",
+    "214103388",
+    "213937026",
+    "213937027",
+    "213937028",
+    "213937029",
+    "213937030",
+    "213937032",
+    "213937031"
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:909115437:por",
+     "title": "Lei n.º 20-A/2025",
+     "published": "2025-02-26",
+     "dre_path": "/dr/detalhe/lei/20-a-2025-909115437"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "213936992",
+    "213936993",
+    "213936994",
+    "213936995",
+    "213936996",
+    "213936997",
+    "213936998",
+    "213936999",
+    "214103384",
+    "908983192",
+    "213937002",
+    "213937003",
+    "213937004",
+    "214103385",
+    "213937006",
+    "214103386",
+    "213937008",
+    "213937009",
+    "213937010",
+    "213937011",
+    "214103387",
+    "213937013",
+    "213937014",
+    "213937015",
+    "213937016",
+    "213937017",
+    "213937018",
+    "213937019",
+    "213937020",
+    "213937021",
+    "213937022",
+    "213937023",
+    "213937024",
+    "214103388",
+    "213937026",
+    "213937027",
+    "213937028",
+    "213937029",
+    "213937030",
+    "213937032",
+    "213937031"
+   ]
+  }
+ ],
+ "fragments": {
+  "213936992": {
+   "fragment_id": "213937081",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 67/2003\n\nde 23 de Agosto\n\nTranspõe para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0055\" title=\"Link para Directiva da Comunidade Europeia\">2001/55/CE</a>, do Conselho, de 20 de Julho, relativa a normas mínimas em matéria de concessão de protecção temporária no caso de afluxo maciço de pessoas deslocadas e a medidas tendentes a assegurar uma repartição equilibrada do esforço assumido pelos Estados membros ao acolherem estas pessoas e suportarem as consequências decorrentes desse acolhimento.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "213936993": {
+   "fragment_id": "213937082",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "213936994": {
+   "fragment_id": "213937083",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0055\" title=\"Link para Directiva da Comunidade Europeia\">2001/55/CE</a>, do Conselho, de 20 de Julho, e regula o regime de concessão de protecção temporária no caso de afluxo maciço de pessoas deslocadas de países terceiros, impossibilitadas de regressar em curto prazo ao seu país de origem, estabelecendo os procedimentos de aplicação deste regime."
+  },
+  "213936995": {
+   "fragment_id": "213937084",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceitos\n\nNa acepção da presente lei, entende-se por:\n\na) «Protecção temporária», o procedimento de carácter excepcional que assegure, no caso de ocorrência ou iminência de um afluxo maciço de pessoas deslocadas de países terceiros, impossibilitadas de regressar ao seu país de origem, uma protecção temporária imediata, designadamente se o sistema de asilo não puder responder a este afluxo sem provocar efeitos contrários ao seu correcto funcionamento, no interesse das pessoas em causa e de outras pessoas que solicitem protecção;\n\nb) «Convenção de Genebra», a Convenção relativa ao Estatuto dos Refugiados, de 28 de Julho de 1951, alterada pelo Protocolo de Nova Iorque, de 31 de Janeiro de 1967;\n\nc) «Pessoas deslocadas», os cidadãos de países terceiros à União Europeia ou apátridas que tiveram de deixar o seu país ou região de origem, ou tenham sido evacuados, nomeadamente em resposta a um apelo de organizações internacionais, e cujo regresso seguro e duradouro seja impossível devido à situação ali existente, e que possam, eventualmente, estar abrangidos pelo âmbito de aplicação do artigo 1.º-A da Convenção de Genebra ou de outros instrumentos internacionais ou nacionais de protecção internacional e, em especial:\n\ni) Pessoas que tenham fugido de zonas de conflito armado ou de violência endémica;\n\nii) Pessoas que tenham estado sujeitas a um risco grave ou tenham sido vítimas de violações sistemáticas ou generalizadas dos direitos humanos;\n\nd) «Afluxo maciço», a chegada a território nacional de um número importante de pessoas deslocadas, provenientes de um país ou zona geográfica determinados, por sua espontânea vontade ou através de um programa de evacuação;\n\ne) «Refugiados», os cidadãos de países terceiros à União Europeia ou apátridas na acepção do artigo 1.º-A da Convenção de Genebra;\n\nf) «Menores não acompanhados», os cidadãos de países terceiros à União Europeia ou apátridas, com idade inferior a 18 anos, que entrem em território nacional não acompanhados por um adulto que, nos termos da lei, por eles se responsabilize e enquanto não forem efectivamente tomados a cargo por essa pessoa, ou menores abandonados após a entrada no território nacional;\n\ng) «Título de protecção temporária», o documento emitido pelas autoridades portuguesas que permite às pessoas deslocadas permanecerem em território nacional no âmbito da protecção temporária, de harmonia com o regime consagrado na presente lei;\n\nh) «Reagrupante», o cidadão de país terceiro à União Europeia beneficiário de protecção temporária em território nacional que pretenda que os membros da sua família se lhe venham juntar."
+  },
+  "213936996": {
+   "fragment_id": "213937085",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação da Convenção de Genebra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação da Convenção de Genebra\n\nA protecção temporária não prejudica o reconhecimento do estatuto de refugiado, nos termos da Convenção de Genebra de 1951 e do Protocolo de Nova Iorque de 1967."
+  },
+  "213936997": {
+   "fragment_id": "213937086",
+   "type": 1,
+   "heading": "Capítulo II — Aplicação e duração da protecção temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Aplicação e duração da protecção temporária"
+  },
+  "213936998": {
+   "fragment_id": "213937087",
+   "type": 11,
+   "heading": "Artigo 4.º — Aplicação da protecção temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação da protecção temporária\n\n1 - Uma vez declarada a existência de um afluxo maciço de pessoas, por decisão do Conselho da União Europeia, em processo específico organizado de acordo com a regulamentação comunitária, o Estado Português tomará, através dos Ministérios competentes, as medidas previstas na presente lei para a aplicação daquela decisão.\n\n2 - Compete ao Ministério da Administração Interna presidir à comissão interministerial prevista no artigo 5.º, coordenando a aplicação das medidas referidas no número anterior.\n\n3 - Sem prejuízo do disposto no número anterior, e aplicando, com as necessárias adaptações, as disposições da presente lei, o Estado Português pode conceder protecção temporária mediante resolução do Conselho de Ministros, considerando, em cada situação, os riscos que recaem sobre as pessoas deslocadas, a urgência e necessidade de protecção temporária e as consequências para a ordem pública e segurança nacionais."
+  },
+  "213936999": {
+   "fragment_id": "213937088",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissão interministerial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissão interministerial\n\n1 - Sempre que se preveja a ocorrência de um afluxo maciço de pessoas deslocadas nos termos da presente lei, o Governo determina, através de resolução do Conselho de Ministros, a constituição de uma comissão interministerial, à qual compete:\n\na) Avaliar a capacidade de acolhimento do Estado Português em matéria de protecção temporária;\n\nb) Definir as condições do acolhimento, bem como o modo como serão garantidos os direitos das pessoas deslocadas, previstos no capítulo III da presente lei;\n\nc) Avaliar a possibilidade de acolhimento suplementar, nos termos do artigo 9.º da presente lei;\n\nd) Coordenar as acções decorrentes da aplicação do regime de protecção temporária durante o seu período de duração, bem como propor a adopção das medidas suplementares julgadas pertinentes.\n\n2 - A comissão interministerial deve ouvir, se possível, mulheres representantes das comunidades a receber, tanto no processo de organização do acolhimento como na sua permanência em território português."
+  },
+  "213937000": {
+   "fragment_id": "213937089",
+   "type": 11,
+   "heading": "Artigo 6.º — Exclusão da protecção temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exclusão da protecção temporária\n\n1 - Não podem aceder ao regime de protecção temporária as pessoas:\n\na) Relativamente às quais existam fortes razões para considerar que:\n\ni) Tenham cometido um crime contra a paz, um crime de guerra ou um crime contra a humanidade, tal como definidos na legislação interna e nos instrumentos internacionais sobre a matéria em que Portugal seja parte;\n\nii) Tenham cometido um crime grave de direito comum fora do território português antes de poderem ser admitidas em Portugal como beneficiárias de protecção temporária;\n\niii) Tenham cometido actos contrários aos objectivos e princípios das Nações Unidas;\n\nb) Relativamente às quais existam razões sérias para serem consideradas perigosas para a segurança nacional ou que tenham sido condenadas, por sentença transitada em julgado, por um crime grave de direito comum ou constituam uma séria ameaça para a comunidade nacional.\n\n2 - A aplicação das cláusulas de exclusão referidas no n.º 1 deve basear-se exclusivamente no comportamento pessoal do deslocado, de acordo com critérios de proporcionalidade.\n\n3 - Na avaliação da gravidade do crime enunciado na subalínea ii) da alínea a) do n.º 1, deverá ser tido em consideração que a severidade do subsequente procedimento criminal deve corresponder à natureza da infracção penal de que a pessoa envolvida é suspeita, podendo os actos particularmente cruéis ou desumanos, mesmo os cometidos com objectivos alegadamente políticos, ser classificados como crimes graves de direito comum.\n\n4 - O disposto no número anterior aplica-se também às situações de autoria mediata e incitamento.\n\n5 - Para efeitos do disposto na subalínea ii) da alínea a) e na alínea b) do n.º 1, considera-se crime grave de direito comum o crime punível com pena de prisão superior a 3 anos.\n\n6 - Compete ao Ministro da Administração Interna decidir da exclusão da protecção temporária, após parecer fundamentado do Serviço de Estrangeiros e Fronteiras.\n\n7 - Da decisão proferida nos termos do número anterior cabe recurso nos termos do artigo 28.º"
+  },
+  "213937001": {
+   "fragment_id": "213937090",
+   "type": 11,
+   "heading": "Artigo 7.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Duração\n\n1 - Sem prejuízo do disposto no artigo 8.º, a protecção temporária tem a duração de um ano, podendo ser automaticamente prorrogada por períodos de seis meses, até ao limite máximo de um ano, sem prejuízo de decisão do Conselho da União Europeia que dê por terminada a protecção, nos termos da alínea b) do artigo seguinte.\n\n2 - A prorrogação da protecção temporária para além daqueles limites pode apenas ocorrer por um período máximo de um ano, com fundamento na subsistência das razões que justificam a sua manutenção, reconhecida por decisão do Conselho da União Europeia."
+  },
+  "213937002": {
+   "fragment_id": "213937091",
+   "type": 11,
+   "heading": "Artigo 8.º — Termo da protecção temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Termo da protecção temporária\n\nA protecção temporária termina:\n\na) Quando tiver atingido o período de duração máxima;\n\nb) A todo o tempo, mediante decisão do Conselho da União Europeia, baseada na verificação de que a situação no país de origem permite um regresso seguro e duradouro dos beneficiários da protecção temporária."
+  },
+  "213937003": {
+   "fragment_id": "213937092",
+   "type": 11,
+   "heading": "Artigo 9.º — Categorias suplementares de pessoas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Categorias suplementares de pessoas\n\n1 - Pode ser concedida protecção temporária a categorias suplementares de pessoas para além das abrangidas pela decisão do Conselho da União Europeia, desde que se encontrem deslocadas pelas mesmas razões e sejam provenientes do mesmo país ou região.\n\n2 - Esta protecção é conferida e declarada extinta por resolução do Conselho de Ministros, mediante parecer da comissão interministerial mencionada no artigo 5.º desta lei.\n\n3 - Esta resolução deve ser imediatamente transmitida ao Conselho da União Europeia e à Comissão Europeia."
+  },
+  "213937004": {
+   "fragment_id": "213937093",
+   "type": 1,
+   "heading": "Capítulo III — Condições de permanência dos beneficiários de protecção temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Condições de permanência dos beneficiários de protecção temporária"
+  },
+  "213937005": {
+   "fragment_id": "213937094",
+   "type": 11,
+   "heading": "Artigo 10.º — Título de protecção temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Título de protecção temporária\n\n1 - Aos beneficiários de protecção temporária é emitido um título de protecção temporária, em modelo a aprovar por portaria do Ministro da Administração Interna.\n\n2 - O título de protecção temporária permite a permanência dos beneficiários da protecção temporária em território nacional durante o seu período de vigência.\n\n3 - Caso seja necessário, em função da urgência da situação, o procedimento de obtenção de vistos para as pessoas a admitir em território nacional para efeitos de protecção temporária pode ser acelerado e simplificado, reduzindo-se, designadamente, os prazos das formalidades necessárias e dispensando-se aquelas que, nos termos gerais, puderem ser suprimidas.\n\n4 - Os documentos referidos nos números anteriores são concedidos gratuitamente."
+  },
+  "213937006": {
+   "fragment_id": "213937095",
+   "type": 11,
+   "heading": "Artigo 11.º — Informação aos beneficiários de protecção temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Informação aos beneficiários de protecção temporária\n\nAos beneficiários da protecção temporária é fornecido um documento, redigido em língua susceptível de ser por eles compreendida, com indicação dos direitos e obrigações decorrentes desta protecção."
+  },
+  "213937007": {
+   "fragment_id": "213937096",
+   "type": 11,
+   "heading": "Artigo 12.º — Registo de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Registo de dados pessoais\n\nNo intuito de permitir a efectiva aplicação da decisão do Conselho da União Europeia de reconhecimento de um afluxo maciço de pessoas deslocadas, devem ser registados na base de dados do Serviço de Estrangeiros e Fronteiras os dados pessoais referidos no anexo II desta lei, respeitantes aos beneficiários de protecção temporária em território nacional."
+  },
+  "213937008": {
+   "fragment_id": "213937097",
+   "type": 11,
+   "heading": "Artigo 13.º — Readmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Readmissão\n\nSem prejuízo de acordos bilaterais sobre a matéria, são readmitidas em território nacional as pessoas protegidas em Portugal que no decurso do período de protecção temporária permaneçam irregularmente ou tentem entrar sem autorização no território de outro Estado membro da União Europeia."
+  },
+  "213937009": {
+   "fragment_id": "213937098",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito ao trabalho e à formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direito ao trabalho e à formação\n\n1 - Os beneficiários de protecção temporária em território nacional podem exercer uma actividade assalariada ou independente e participar em actividades de formação profissional por um período que não exceda o da protecção.\n\n2 - O acesso dos beneficiários àquelas actividades não pode, porém, prejudicar a prioridade conferida aos cidadãos nacionais da União Europeia e dos Estados vinculados pelo Acordo sobre o Espaço Económico Europeu e aos estrangeiros residentes em território nacional que beneficiem de subsídio de desemprego."
+  },
+  "213937010": {
+   "fragment_id": "213937099",
+   "type": 11,
+   "heading": "Artigo 15.º — Outros benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Outros benefícios\n\n1 - Aos beneficiários da protecção temporária é proporcionado alojamento adequado.\n\n2 - Quando não disponham de recursos suficientes, deve ser-lhes garantido apoio necessário em matéria de prestações sociais e de meios de subsistência.\n\n3 - As possibilidades de proverem à sua própria subsistência através do exercício de uma actividade profissional são tidas em conta na fixação do nível de ajuda previsto.\n\n4 - Os beneficiários da protecção temporária têm igualmente direito a assistência médica, no que respeita a cuidados de urgência e tratamento básico de doenças.\n\n5 - Sem prejuízo do disposto no número anterior, deve ser prestada assistência médica ou outra aos beneficiários de protecção temporária com necessidades especiais, como os menores não acompanhados ou as pessoas vítimas de torturas, violações ou outras formas graves de violência moral, física ou sexual."
+  },
+  "213937011": {
+   "fragment_id": "213937100",
+   "type": 11,
+   "heading": "Artigo 16.º — Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Educação\n\nAos menores beneficiários de protecção temporária é facultado o acesso ao sistema de ensino público em condições idênticas às dos nacionais."
+  },
+  "213937012": {
+   "fragment_id": "213937101",
+   "type": 11,
+   "heading": "Artigo 17.º — Protecção e reagrupamento familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Protecção e reagrupamento familiar\n\n1 - Para efeitos de reagrupamento familiar e em caso de separação originada por circunstâncias associadas ao afluxo maciço, consideram-se como pertencentes à mesma família as seguintes pessoas:\n\na) O cônjuge do reagrupante;\n\nb) Os filhos menores solteiros do reagrupante ou do seu cônjuge;\n\nc) Outros parentes próximos que vivessem em economia comum, como elementos da unidade familiar na dependência do reagrupante no momento dos acontecimentos que conduziram ao afluxo maciço e que dele dependessem total ou predominantemente.\n\n2 - No caso de membros separados de uma família que beneficiem de protecção temporária em outros Estados da União Europeia, proceder-se-á ao reagrupamento dos membros da família, como tal considerados pelas alíneas a) e b) do número anterior, tendo em conta a sua vontade.\n\n3 - Sempre que o reagrupante beneficiar de protecção temporária em Portugal e a sua família ainda não se encontrar num outro Estado membro, proceder-se-á ao reagrupamento dos membros da família identificados nas alíneas a) e b) do n.º 1, caso estes careçam de protecção.\n\n4 - Poderá proceder-se ao reagrupamento de familiares comprovadamente enquadrados na alínea c) do n.º 1, atendendo, caso a caso, às dificuldades extremas que possam advir da não reunião familiar.\n\n5 - O reagrupamento familiar terá em consideração os interesses das crianças envolvidas.\n\n6 - As decisões relativas ao reagrupamento familiar são da competência do Ministro da Administração Interna, sob proposta da comissão interministerial referida no artigo 5.º\n\n7 - Aos familiares acolhidos em território nacional ao abrigo da protecção temporária serão concedidos títulos de protecção temporária, nos termos da presente lei.\n\n8 - A transferência de cidadãos protegidos para outro Estado de acolhimento, para efeitos de reagrupamento, determina o cancelamento dos títulos de protecção temporária em território nacional emitidos a seu favor e a extinção dos direitos atribuídos às pessoas em causa no âmbito do regime de protecção temporária em Portugal.\n\n9 - A pedido de um Estado membro serão fornecidas as informações relativas aos beneficiários de protecção temporária mencionadas no anexo II da presente lei que se revelem necessárias para o reagrupamento familiar."
+  },
+  "213937013": {
+   "fragment_id": "213937102",
+   "type": 11,
+   "heading": "Artigo 18.º — Menores não acompanhados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Menores não acompanhados\n\n1 - O Estado Português deve providenciar a necessária representação dos menores não acompanhados por um tutor legal ou, se for caso disso, por uma organização responsável pelos cuidados e pelo bem-estar do menor ou outra representação adequada.\n\n2 - Durante o período de protecção temporária os menores não acompanhados deverão ser colocados junto de familiares adultos, em família de acolhimento, em centros de acolhimento com instalações especiais para menores ou noutros locais que disponham de instalações a estes adequadas ou ainda junto da pessoa que cuidou do menor aquando da fuga."
+  },
+  "213937014": {
+   "fragment_id": "213937103",
+   "type": 1,
+   "heading": "Capítulo IV — Acesso aos procedimentos de asilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Acesso aos procedimentos de asilo"
+  },
+  "213937015": {
+   "fragment_id": "213937104",
+   "type": 11,
+   "heading": "Artigo 19.º — Acesso ao asilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acesso ao asilo\n\n1 - No decurso do período de protecção temporária, os seus beneficiários têm a possibilidade de apresentar um pedido de asilo.\n\n2 - A análise de qualquer pedido de asilo cujo tratamento não tenha sido concluído antes do termo do período de protecção temporária sê-lo-á após o termo desse período."
+  },
+  "213937016": {
+   "fragment_id": "213937105",
+   "type": 11,
+   "heading": "Artigo 20.º — Determinação do Estado responsável pela análise do pedido de asilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Determinação do Estado responsável pela análise do pedido de asilo\n\n1 - Sempre que se verifique a apresentação de um pedido de asilo por parte de um beneficiário de protecção temporária, são aplicáveis os critérios e mecanismos de determinação do Estado membro responsável pela análise de um pedido de asilo, em conformidade com a legislação internacional sobre a matéria que vincule Portugal.\n\n2 - Estado membro responsável pela análise de um pedido de asilo apresentado por um beneficiário de protecção temporária é o que aceitou a transferência desse beneficiário para o seu território."
+  },
+  "213937017": {
+   "fragment_id": "213937106",
+   "type": 11,
+   "heading": "Artigo 21.º — Acesso ao estatuto de refugiado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acesso ao estatuto de refugiado\n\n1 - Até ao deferimento do pedido de obtenção do estatuto de refugiado, os beneficiários de protecção temporária detêm a qualidade de pessoas protegidas, nos termos da presente lei.\n\n2 - A denegação de um pedido de asilo ou de qualquer outro tipo de protecção não prejudica o acesso ou a manutenção da protecção temporária, nos termos da presente lei."
+  },
+  "213937018": {
+   "fragment_id": "213937107",
+   "type": 1,
+   "heading": "Capítulo V — Regresso e medidas subsequentes à protecção temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regresso e medidas subsequentes à protecção temporária"
+  },
+  "213937019": {
+   "fragment_id": "213937108",
+   "type": 11,
+   "heading": "Artigo 22.º — Efeitos da cessação da protecção temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Efeitos da cessação da protecção temporária\n\n1 - Sem prejuízo do disposto nos artigos 23.º e 24.º da presente lei, uma vez cessada a protecção temporária, aplica-se aos cidadãos que dela beneficiaram o regime geral de entrada, permanência, saída e afastamento de estrangeiros de território nacional.\n\n2 - Após o termo da protecção temporária, os beneficiários têm o dever de retornar ao seu país."
+  },
+  "213937020": {
+   "fragment_id": "213937109",
+   "type": 11,
+   "heading": "Artigo 23.º — Retorno voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Retorno voluntário\n\n1 - No decurso da protecção temporária, os beneficiários podem regressar voluntariamente ao seu país de origem, devendo facilitar-se este retorno em condições humanamente dignas.\n\n2 - Deve ser assegurado que a decisão de regresso voluntário é tomada de vontade livre e consciente.\n\n3 - Quando for exercido o direito de retorno voluntário para o país de origem, o Estado Português avaliará quaisquer pedidos de regresso ao seu território, considerando as circunstâncias que motivam esses pedidos."
+  },
+  "213937021": {
+   "fragment_id": "213937110",
+   "type": 11,
+   "heading": "Artigo 24.º — Retorno coercivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Retorno coercivo\n\nO afastamento forçado de pessoas cujo período de protecção tenha terminado far-se-á nos termos da lei geral, ponderadas razões humanitárias imperiosas que possam tornar impossível ou pouco razoável o retorno em determinadas situações, devendo ser conduzido com respeito pelo princípio da dignidade humana."
+  },
+  "213937022": {
+   "fragment_id": "213937111",
+   "type": 11,
+   "heading": "Artigo 25.º — Adiamento do retorno ao país de origem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Adiamento do retorno ao país de origem\n\n1 - Findo o período de protecção temporária, e tendo em vista o adiamento do retorno ao país de origem, devem ser consideradas as situações em que o retorno acarrete efeitos gravemente lesivos para a saúde do beneficiário e durante o tempo em que tais situações permaneçam, garantindo-se as suas condições de residência.\n\n2 - As famílias abrangidas pelo regime de protecção temporária cujos filhos menores se encontrem no último período do ano lectivo em curso, podem beneficiar de condições de estada que permitam àqueles a conclusão do ano escolar.\n\n3 - Nestes casos, o retorno deverá ocorrer no termo da situação que justificou o adiamento."
+  },
+  "213937023": {
+   "fragment_id": "213937112",
+   "type": 1,
+   "heading": "Capítulo VI — Solidariedade e cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Solidariedade e cooperação"
+  },
+  "213937024": {
+   "fragment_id": "213937113",
+   "type": 11,
+   "heading": "Artigo 26.º — Transferência de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Transferência de residência\n\n1 - Durante o período de protecção temporária, o Estado Português cooperará com os demais Estados membros na transferência da residência dos beneficiários, sob reserva do consentimento dos interessados nessa transferência.\n\n2 - Quando se efectue uma transferência nos termos do número anterior, deverá informar-se o Estado membro requerente, os outros Estados membros, a Comissão Europeia e o Alto Comissariado das Nações Unidas para os Refugiados.\n\n3 - Mediante solicitação de um Estado membro, serão fornecidas as informações referidas no anexo II da presente lei relativas aos beneficiários de protecção temporária que forem necessárias para efeitos do presente artigo.\n\n4 - Sempre que se realize uma transferência para outro Estado membro, é cancelado o título de protecção temporária em Portugal, cessando as obrigações referentes aos beneficiários associadas à protecção temporária em território nacional.\n\n5 - Às pessoas transferidas de outro Estado membro será concedido o regime de protecção temporária em Portugal.\n\n6 - Para a transferência de residência de pessoas sob protecção temporária é utilizado o modelo de salvo-conduto constante do anexo I da presente lei."
+  },
+  "213937025": {
+   "fragment_id": "213937114",
+   "type": 11,
+   "heading": "Artigo 27.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Cooperação\n\n1 - O Ministro da Administração Interna designará o ponto de contacto nacional que assegura a cooperação administrativa e procede à troca de informações com os demais Estados membros que se revelem necessárias para a aplicação da protecção temporária.\n\n2 - A entidade a designar é comunicada aos Estados membros e à Comissão Europeia, devendo transmitir regularmente, e com a maior celeridade possível, os dados relativos ao número de beneficiários de protecção temporária, bem como todas as informações sobre as disposições legislativas regulamentares e administrativas nacionais de aplicação da protecção temporária."
+  },
+  "213937026": {
+   "fragment_id": "213937115",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições especiais"
+  },
+  "213937027": {
+   "fragment_id": "213937116",
+   "type": 11,
+   "heading": "Artigo 28.º — Direito de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Direito de recurso\n\nA decisão de denegação de protecção temporária, nos termos do artigo 6.º, e de reunificação familiar, pode ser impugnada judicialmente perante os tribunais administrativos, nos termos da lei."
+  },
+  "213937028": {
+   "fragment_id": "213937117",
+   "type": 11,
+   "heading": "Artigo 29.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Revogação\n\nÉ revogado o artigo 9.º da Lei n.º 15/98, de 26 de Março."
+  },
+  "213937029": {
+   "fragment_id": "213937118",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "213937031": {
+   "fragment_id": "213937120",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\nAs informações a que se referem os artigos 12.º, 17.º e 26.º de Lei n.º 67/2003, de 23 de Agosto, incluem, dentro do necessário, um ou mais dos seguintes documentos ou dados:\n\nOs dados pessoais relativos à pessoa em causa (nome, nacionalidade, data e local de nascimento, estado civil, vínculos familiares);\n\nOs documentos de identidade e documentos de viagem da pessoa em causa;\n\nOs documentos relativos à prova da existência de vínculos familiares (certidão de casamento, certidão de nascimento, certidão de adopção);\n\nOutras informações essenciais para estabelecer a identidade da pessoa ou os seus vínculos familiares;\n\nAutorizações de residência, vistos ou decisões de recusa de concessão de autorização de residência e vistos emitidos em relação à pessoa em causa pelo Estado membro e documentos em que se fundamentam essas decisões;\n\nPedidos de autorização de residência apresentados pela pessoa em causa pendentes no Estado membro, bem como o respectivo estado de tramitação processual.\n\nO Estado membro que fornece as informações notificará eventuais informações corrigidas ao Estado membro requerente."
+  },
+  "214103384": {
+   "fragment_id": "213937089",
+   "type": 11,
+   "heading": "Artigo 6.º — Exclusão da protecção temporária",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 6.º — Exclusão da protecção temporária\n\n1 - Não podem aceder ao regime de protecção temporária as pessoas:\n\na) Relativamente às quais existam fortes razões para considerar que:\n\ni) Tenham cometido um crime contra a paz, um crime de guerra ou um crime contra a humanidade, tal como definidos na legislação interna e nos instrumentos internacionais sobre a matéria em que Portugal seja parte;\n\nii) Tenham cometido um crime grave de direito comum fora do território português antes de poderem ser admitidas em Portugal como beneficiárias de protecção temporária;\n\niii) Tenham cometido actos contrários aos objectivos e princípios das Nações Unidas;\n\nb) Relativamente às quais existam razões sérias para serem consideradas perigosas para a segurança nacional ou que tenham sido condenadas, por sentença transitada em julgado, por um crime grave de direito comum ou constituam uma séria ameaça para a comunidade nacional.\n\n2 - A aplicação das cláusulas de exclusão referidas no n.º 1 deve basear-se exclusivamente no comportamento pessoal do deslocado, de acordo com critérios de proporcionalidade.\n\n3 - Na avaliação da gravidade do crime enunciado na subalínea ii) da alínea a) do n.º 1, deverá ser tido em consideração que a severidade do subsequente procedimento criminal deve corresponder à natureza da infracção penal de que a pessoa envolvida é suspeita, podendo os actos particularmente cruéis ou desumanos, mesmo os cometidos com objectivos alegadamente políticos, ser classificados como crimes graves de direito comum.\n\n4 - O disposto no número anterior aplica-se também às situações de autoria mediata e incitamento.\n\n5 - Para efeitos do disposto na subalínea ii) da alínea a) e na alínea b) do n.º 1, considera-se crime grave de direito comum o crime punível com pena de prisão superior a 3 anos.\n\n6 - Compete ao membro do governo responsável pela área das migrações decidir da exclusão da proteção temporária, após parecer fundamentado da Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.)\n\n7 - Da decisão proferida nos termos do número anterior cabe recurso nos termos do artigo 28.º\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "214103385": {
+   "fragment_id": "213937094",
+   "type": 11,
+   "heading": "Artigo 10.º — Título de protecção temporária",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 10.º — Título de protecção temporária\n\n1 - Aos beneficiários de proteção temporária é emitido um título de proteção temporária, em modelo a aprovar por portaria dos membros do Governo responsáveis pelas áreas das migrações e da modernização administrativa.\n\n2 - O título de protecção temporária permite a permanência dos beneficiários da protecção temporária em território nacional durante o seu período de vigência.\n\n3 - Caso seja necessário, em função da urgência da situação, o procedimento de obtenção de vistos para as pessoas a admitir em território nacional para efeitos de protecção temporária pode ser acelerado e simplificado, reduzindo-se, designadamente, os prazos das formalidades necessárias e dispensando-se aquelas que, nos termos gerais, puderem ser suprimidas.\n\n4 - Os documentos referidos nos números anteriores são concedidos gratuitamente.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "214103386": {
+   "fragment_id": "213937096",
+   "type": 11,
+   "heading": "Artigo 12.º — Registo de dados pessoais",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 12.º — Registo de dados pessoais\n\nNo intuito de permitir a efetiva aplicação da decisão do Conselho da União Europeia de reconhecimento de um afluxo maciço de pessoas deslocadas, devem ser registados na base de dados da AIMA, I. P., os dados pessoais referidos no anexo ii desta lei, respeitantes aos beneficiários de proteção temporária em território nacional.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "214103387": {
+   "fragment_id": "213937101",
+   "type": 11,
+   "heading": "Artigo 17.º — Protecção e reagrupamento familiar",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 17.º — Protecção e reagrupamento familiar\n\n1 - Para efeitos de reagrupamento familiar e em caso de separação originada por circunstâncias associadas ao afluxo maciço, consideram-se como pertencentes à mesma família as seguintes pessoas:\n\na) O cônjuge do reagrupante;\n\nb) Os filhos menores solteiros do reagrupante ou do seu cônjuge;\n\nc) Outros parentes próximos que vivessem em economia comum, como elementos da unidade familiar na dependência do reagrupante no momento dos acontecimentos que conduziram ao afluxo maciço e que dele dependessem total ou predominantemente.\n\n2 - No caso de membros separados de uma família que beneficiem de protecção temporária em outros Estados da União Europeia, proceder-se-á ao reagrupamento dos membros da família, como tal considerados pelas alíneas a) e b) do número anterior, tendo em conta a sua vontade.\n\n3 - Sempre que o reagrupante beneficiar de protecção temporária em Portugal e a sua família ainda não se encontrar num outro Estado membro, proceder-se-á ao reagrupamento dos membros da família identificados nas alíneas a) e b) do n.º 1, caso estes careçam de protecção.\n\n4 - Poderá proceder-se ao reagrupamento de familiares comprovadamente enquadrados na alínea c) do n.º 1, atendendo, caso a caso, às dificuldades extremas que possam advir da não reunião familiar.\n\n5 - O reagrupamento familiar terá em consideração os interesses das crianças envolvidas.\n\n6 - As decisões relativas ao reagrupamento familiar são da competência do membro do Governo responsável pela área das migrações, sob proposta da comissão interministerial referida no artigo 5.º\n\n7 - Aos familiares acolhidos em território nacional ao abrigo da protecção temporária serão concedidos títulos de protecção temporária, nos termos da presente lei.\n\n8 - A transferência de cidadãos protegidos para outro Estado de acolhimento, para efeitos de reagrupamento, determina o cancelamento dos títulos de protecção temporária em território nacional emitidos a seu favor e a extinção dos direitos atribuídos às pessoas em causa no âmbito do regime de protecção temporária em Portugal.\n\n9 - A pedido de um Estado membro serão fornecidas as informações relativas aos beneficiários de protecção temporária mencionadas no anexo II da presente lei que se revelem necessárias para o reagrupamento familiar.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "214103388": {
+   "fragment_id": "213937114",
+   "type": 11,
+   "heading": "Artigo 27.º — Cooperação",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 27.º — Cooperação\n\n1 - O membro do governo responsável pela área das migrações designa o ponto de contacto nacional que assegura a cooperação administrativa e procede à troca de informações com os demais Estados membros que se revelem necessárias para a aplicação da proteção temporária.\n\n2 - A entidade a designar é comunicada aos Estados membros e à Comissão Europeia, devendo transmitir regularmente, e com a maior celeridade possível, os dados relativos ao número de beneficiários de protecção temporária, bem como todas as informações sobre as disposições legislativas regulamentares e administrativas nacionais de aplicação da protecção temporária.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213937030": {
+   "fragment_id": "213937119",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 15 de Julho de 2003.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 4 de Agosto de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 8 de Agosto de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "213937032": {
+   "fragment_id": "213937122",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n(ver modelo no documento original)"
+  },
+  "908983192": {
+   "fragment_id": "213937090",
+   "type": 11,
+   "heading": "Artigo 7.º — Duração",
+   "in_force_from": "2025-02-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 20-A/2025 - Diário da República n.º 40/2025, Suplemento, Série I de 2025-02-26](https://diariodarepublica.pt/dr/detalhe/lei/20-a-2025-909115437), em vigor a partir de 2025-02-27"
+   ],
+   "markdown": "###### Artigo 7.º — Duração\n\n1 - Sem prejuízo do disposto no artigo 8.º, a protecção temporária tem a duração de um ano, podendo ser automaticamente prorrogada por períodos de seis meses, até ao limite máximo de um ano, sem prejuízo de decisão do Conselho da União Europeia que dê por terminada a protecção, nos termos da alínea b) do artigo seguinte.\n\n2 - A prorrogação da proteção temporária para além daqueles limites pode ocorrer, com fundamento na subsistência das razões que justificam a sua manutenção, reconhecida por decisão do Conselho da União Europeia e pelo período nesta indicado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 20-A/2025 - Diário da República n.º 40/2025, Suplemento, Série I de 2025-02-26](https://diariodarepublica.pt/dr/detalhe/lei/20-a-2025-909115437), em vigor a partir de 2025-02-27"
+  }
+ }
+}

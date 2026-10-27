@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:277804:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1977-182132077",
+ "dre_path": "/dr/detalhe/decreto-lei/453-1977-277804",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1977-10-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "910329922",
+    "182131001",
+    "182131002",
+    "182131003",
+    "182131004",
+    "182131005",
+    "182131006",
+    "182131007",
+    "182131008",
+    "182131009",
+    "182131010",
+    "182131011"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:281416:por",
+     "title": "Declaração",
+     "published": "1977-11-23",
+     "dre_path": "/dr/detalhe/declaracao/1977-281416",
+     "date": "1977-11-03"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "910329922": {
+   "fragment_id": "182132078",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 453/77\n\nde 29 de Outubro\n\nVerificando-se ser conveniente integrar os Serviços Sociais Universitários no Instituto de Acção Social Escolar, de modo a atribuir a este Instituto a totalidade das tarefas de acção social no âmbito do MEIC;\n\nEntendendo-se, por outro lado, que a Direcção-Geral do Ensino Superior deve ser dotada de meios adequados à execução das tarefas que lhe competem relativamente às actividades culturais e gimnodesportivas a nível do ensino superior:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "182131001": {
+   "fragment_id": "182132079",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ extinto o Gabinete de Acção Social e de Actividades Circum-Escolares a que se refere a alínea f) do artigo 6.º do Decreto-Lei n.º 581/73, de 5 de Novembro."
+  },
+  "182131002": {
+   "fragment_id": "182132080",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ criada no Instituto de Acção Social Escolar a Direcção de Serviços de Acção Social Universitária, que para todos os efeitos se integra no n.º 1 do artigo 9.º do Decreto-Lei n.º 223/73, de 11 de Maio."
+  },
+  "182131003": {
+   "fragment_id": "182132081",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ criado na Direcção-Geral do Ensino Superior o Gabinete de Actividades Culturais e de Desportos Universitários, que para todos os efeitos se integra no artigo 6.º do Decreto-Lei n.º 581/73, de 5 de Novembro."
+  },
+  "182131004": {
+   "fragment_id": "182132082",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Compete à Direcção de Serviços de Acção Social Universitária:\n\na) Cooperar com as reitorias na recolha de elementos necessários à elaboração da política global de acção social;\n\nb) Realizar, em colaboração com os directores dos Serviços Sociais Universitários, os estudos necessários à definição da política global de acção social;\n\nc) Orientar as actividades dos Serviços Sociais Universitários na execução das políticas estabelecidas;\n\nd) Coordenar a ligação entre os Serviços Sociais Universitários e os Serviços Centrais do Ministério da Educação e Investigação Científica.\n\n2 - A Direcção de Serviços prevista no número anterior exercerá as suas funções em coordenação com a Direcção de Serviços de Acção Social para os alunos não universitários, referida no n.º 1 do artigo 11.º do Decreto-Lei n.º 223/73, de 11 de Maio."
+  },
+  "182131005": {
+   "fragment_id": "182132083",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Compete ao Gabinete de Actividades Culturais e de Desportos Universitários:\n\na) Promover, fomentar e coordenar as actividades de extensão cultural no âmbito do ensino superior;\n\nb) Apoiar a realização de exposições, congressos, colóquios e conferências sobre assuntos de natureza científica e pedagógica;\n\nc) Organizar os planos anuais das actividades de educação física e dos desportos no âmbito do ensino superior;\n\nd) Promover, dirigir e regulamentar as relações desportivas a nível nacional entre as Universidades, bem como a participação portuguesa em competições internacionais;\n\ne) Superintender na gestão das instalações gimnodesportivas universitárias.\n\n2 - A Direcção-Geral de Desportos e o Fundo de Apoio aos Organismos Juvenis prestarão à Direcção-Geral do Ensino Superior o apoio técnico necessário à prossecução das competências estabelecidas no número anterior."
+  },
+  "182131006": {
+   "fragment_id": "182132084",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Ao quadro do pessoal dirigente, técnico, administrativo e auxiliar do Instituto de Acção Social Escolar constante do mapa anexo ao Decreto-Lei n.º 223/73, de 11 de Maio, são acrescentados os lugares constantes do mapa n.º 1 anexo a este decreto-lei, que se integram, respectivamente, nos quadros únicos referidos no artigo 26.º do Decreto-Lei n.º 408/71, de 27 de Setembro, e no n.º 3 do artigo 22.º do Decreto-Lei n.º 201/72, de 19 de Junho, conforme se trate de pessoal dirigente e técnico ou de pessoal administrativo e auxiliar.\n\n2 - As normas de recrutamento e o regime de provimento do pessoal referido no número anterior são os estabelecidos pelo Decreto-Lei n.º 201/72, de 19 de Junho, sem prejuízo do disposto nas alíneas b), c) e e) do n.º 1 do artigo 19.º do Decreto-Lei n.º 223/73, de 11 de Maio."
+  },
+  "182131007": {
+   "fragment_id": "182132085",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Ao quadro do pessoal dirigente e técnico constante do mapa n.º 1 anexo ao Decreto-Lei n.º 581/73, de 5 de Novembro, são acrescentados os lugares constantes do mapa n.º 2 anexo a este decreto-lei, que se integram no quadro único a que se refere o artigo 26.º do Decreto-Lei n.º 408/71, de 27 de Setembro.\n\n2 - As normas de recrutamento e o regime de provimento do pessoal referido no número anterior são os estabelecidos pelo Decreto-Lei n.º 201/72, de 19 de Junho, sem prejuízo do disposto nas alíneas b) e d) do n.º 1 do artigo 15.º do Decreto-Lei n.º 581/73, de 5 de Novembro."
+  },
+  "182131008": {
+   "fragment_id": "182132086",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs disponibilidades apuradas nas verbas orçamentadas para o presente ano económico na Direcção-Geral do Ensino Superior para a acção social universitária servirão de contrapartida para inscrições a efectuar no capítulo 18 «Instituto de Acção Social Escolar» de dotações globais para «Outras despesas correntes» e «Outras despesas de capital»."
+  },
+  "182131009": {
+   "fragment_id": "182132087",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs encargos resultantes do presente diploma relativamente a «Remunerações certas e permanentes» serão suportados pelas disponibilidades das respectivas dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Investigação Científica aprovado para o corrente ano económico."
+  },
+  "182131010": {
+   "fragment_id": "182132088",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs dúvidas resultantes da execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto do Ministro da Educação e Investigação Científica e do Ministro das Finanças ou Secretário de Estado da Administração Pública."
+  },
+  "182131011": {
+   "fragment_id": "182132089",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSão revogadas:\n\na) As alíneas m), n), g) e r) do artigo 2.º do Decreto-Lei n.º 581/73, de 5 de Novembro;\n\nb) As alíneas b) e c) do n.º 1 do artigo 3.º do Decreto-Lei n.º 82/73, de 3 de Março, com a redacção que lhes foi introduzida pelo artigo 4.º do Decreto-Lei n.º 694/74, de 5 de Dezembro."
+  }
+ }
+}

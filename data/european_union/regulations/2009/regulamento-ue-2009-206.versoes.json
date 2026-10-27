@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0206:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0206-20191214",
+ "dre_path": null,
+ "source_lastmod": "2019-12-14",
+ "versions": [
+  {
+   "date": "2009-03-24",
+   "future": false,
+   "celex": "32009R0206",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7882274e2563a8ee",
+    "de1a651e6ff6a2b3",
+    "88ed41050ce91d3f",
+    "59f7ca896254f226",
+    "dff2864f7d44ac6b",
+    "79d93ee0431c9902",
+    "e21651a9e7a93d99",
+    "8425be5287b371f1",
+    "38a7f4b7a450ee15",
+    "84a64ff322103f8a",
+    "248cd2436a29a0ab",
+    "d44b5582195481b8",
+    "0e9cc43519d929a9",
+    "46bf7e49643598a2"
+   ]
+  },
+  {
+   "date": "2019-12-14",
+   "future": false,
+   "celex": "02009R0206-20191214",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Regras relativas à introdução na Comunidade de remessas pessoais de produtos de origem animal",
+    "Suprime Artigo 3.º — Informações a facultar pelos Estados-Membros aos viajantes e ao público em geral",
+    "Suprime Artigo 4.º — Informações a facultar pelos operadores de transporte internacional de passageiros e pelos serviços postais aos seus clientes",
+    "Suprime Artigo 5.º — Controlos",
+    "Suprime Artigo 6.º — Sanções",
+    "Suprime Artigo 7.º — Apresentação de relatórios",
+    "Suprime Artigo 8.º — Alteração",
+    "Suprime «Artigo 8.º — Regras específicas para produtos que fazem parte da bagagem dos viajantes ou são enviados como remessas para particulares",
+    "Suprime Notas",
+    "Suprime Artigo 9.º — Revogação",
+    "Suprime Artigo 10.º — Disposições transitórias",
+    "Suprime Artigo 11.º — Entrada em vigor e aplicação"
+   ],
+   "fragments": [
+    "ca55cc514537bc5f"
+   ]
+  }
+ ],
+ "fragments": {
+  "7882274e2563a8ee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Março de 2009\n\nrelativo à introdução na Comunidade de remessas pessoais de produtos de origem animal e que altera o Regulamento (CE) n.º 136/2004\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 97/78/CE do Conselho, de 18 de Dezembro de 1997, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade [([^1])](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntr1-L_2009077PT.01000101-E0001), nomeadamente o n.º 5 do artigo 3.º, o n.º 3 e o n.º 4 do artigo 16.º e o n.º 7 do artigo 17.º,\n\nTendo em conta a Directiva 2002/99/CE do Conselho, de 16 de Dezembro de 2002, que estabelece as regras de polícia sanitária aplicáveis à produção, transformação, distribuição e introdução de produtos de origem animal destinados ao consumo humano [([^2])](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntr2-L_2009077PT.01000101-E0002), nomeadamente o n.º 5, terceiro travessão, do artigo 8.º,\n\nTendo em conta o Regulamento (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas relativas à saúde e ao bem-estar dos animais [([^3])](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntr3-L_2009077PT.01000101-E0003), nomeadamente o n.º 2, alíneas c) e d), do artigo 25.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 97/78/CE prevê a realização de controlos veterinários a remessas de determinados produtos de origem animal introduzidos na Comunidade a partir de países terceiros.\n\n(2) Nos termos do n.º 1 e do n.º 2 do artigo 3.º da mesma directiva, os Estados-Membros devem assegurar que nenhuma remessa proveniente de um país terceiro é introduzida na Comunidade sem ter sido submetida aos devidos controlos veterinários (controlos sistemáticos) e que as remessas são introduzidas na Comunidade através de um posto de inspecção fronteiriço.\n\n(3) Nos termos do artigo 16.º da Directiva 97/78/CE, estes requisitos não são aplicáveis a produtos contidos nas bagagens pessoais dos viajantes e que se destinem a consumo próprio, desde que a quantidade não ultrapasse um valor a definir em conformidade com o procedimento descrito na referida directiva. Os referidos requisitos também não são aplicáveis aos produtos enviados em pequenas embalagens dirigidas a particulares, desde que se trate de importações desprovidas de qualquer natureza comercial e que a quantidade expedida não ultrapasse um valor a definir em conformidade com o procedimento descrito nessa directiva.\n\n(4) A Decisão 2007/275/CE da Comissão, de 17 de Abril de 2007, relativa às listas de animais e produtos que devem ser sujeitos a controlos nos postos de inspecção fronteiriços em conformidade com as Directivas 91/496/CEE e 97/78/CE do Conselho [([^4])](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntr4-L_2009077PT.01000101-E0004), enumera os produtos de origem animal que devem ser sujeitos a controlos veterinários nos postos de inspecção fronteiriços.\n\n(5) O artigo 8.º do Regulamento (CE) n.º 136/2004 da Comissão, de 22 de Janeiro de 2004, que define os procedimentos de controlo veterinário nos postos de inspecção fronteiriços da Comunidade a aplicar a produtos importados de países terceiros [([^5])](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntr5-L_2009077PT.01000101-E0005), estabelece um limite de peso de 1 kg para isentar dos controlos veterinários sistemáticos os produtos destinados ao consumo humano provenientes de países terceiros ou partes de países terceiros aprovados. Esse mesmo artigo também estabelece limites de peso para outros produtos específicos de origem animal introduzidos na Dinamarca a partir, nomeadamente, da Gronelândia e das Ilhas Faroé e para certos peixes introduzidos na Finlândia e na Suécia a partir da Rússia.\n\n(6) O anexo II da Decisão 2007/275/CE enumera os produtos compostos não sujeitos a controlos veterinários. Esses produtos também não devem, por conseguinte, ser sujeitos aos controlos veterinários sistemáticos quando estão contidos nas bagagens pessoais dos viajantes e se destinam ao seu consumo pessoal ou quando são enviados em pequenas embalagens dirigidas a particulares.\n\n(7) Assim, os requisitos e, em particular, os limites de peso para a introdução de remessas de produtos de origem animal para consumo pessoal estão estabelecidos em vários actos legislativos. No entanto, estes requisitos devem ser fáceis de compreender pelas autoridades de controlo, pelos viajantes e pelo público em geral. Por conseguinte, é adequado simplificar e reunir num único regulamento os tipos e as quantidades de produtos de origem animal que podem ser isentados dos controlos veterinários estabelecidos para as importações com carácter comercial.\n\n(8) O possível risco de introdução de doenças animais na Comunidade através da introdução de produtos de origem animal deve ser sempre considerado ao estabelecer as medidas que regulam essas introduções. O nível de risco zoossanitário varia em função de diferente factores, como o tipo de produto, a espécie animal de que os produtos foram obtidos e a probabilidade de o agente patogénico estar presente.\n\n(9) Uma das doenças mais perigosas que pode potencialmente ser introduzida na Comunidade é a febre aftosa (FA). A Autoridade Europeia para a Segurança dos Alimentos (AESA) avaliou o risco de introdução de FA na Comunidade. Essa avaliação mostra claramente que a carne e os produtos à base de carne, bem como o leite e os produtos lácteos, são vias potenciais para a entrada do vírus da FA na Comunidade.\n\n(10) A fim de evitar a introdução de tais doenças, a Comunidade tem aplicado, desde há muitos anos, um conjunto completo de regras que regulam as importações de animais vivos e produtos de origem animal para fins comerciais.\n\n(11) O Regulamento (CE) n.º 745/2004 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntr6-L_2009077PT.01000101-E0006) estabelece medidas relativamente à importação de carne e produtos à base de carne e de leite e produtos lácteos para consumo pessoal. Nos termos desse regulamento, a carne e os produtos à base de carne, bem como o leite e os produtos lácteos, não podem ser introduzidos na Comunidade por viajantes a menos que tais produtos cumpram integralmente as regras de importação comercial comunitárias.\n\n(12) Este princípio deve continuar a ser observado no futuro, a fim de assegurar que a Comunidade mantém o seu estatuto de indemnidade de FA. Assim, a quantidade de carne e produtos à base de carne e de leite e produtos lácteos, transportados por passageiros, a isentar dos controlos veterinários sistemáticos nos postos fronteiriços previstos pela Directiva 97/78/CE dever ser fixada em zero.\n\n(13) As medidas previstas no presente regulamento não devem prejudicar a legislação veterinária comunitária que tem como objectivo o controlo e a erradicação das doenças animais ou relativa a certas medidas de protecção.\n\n(14) As medidas previstas no presente regulamento não devem prejudicar a legislação que dá execução ao Regulamento (CE) n.º 338/97 do Conselho, de 9 de Dezembro de 1996, relativo à protecção de espécies da fauna e da flora selvagens através do controlo do seu comércio [([^7])](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntr7-L_2009077PT.01000101-E0007).\n\n(15) É igualmente adequado assegurar que a informação sobre os controlos veterinários e as regras aplicáveis à introdução de produtos de origem animal seja facultada aos viajantes e ao público em geral.\n\n(16) Determinados países terceiros, devido à sua proximidade geográfica e ao seu estatuto zoossanitário, são considerados como apresentando um risco mínimo para a Comunidade em termos de sanidade animal. Por conseguinte, quantidades limitadas de carne e produtos à base de carne e de leite e produtos lácteos provenientes desses países devem continuar a estar isentas de controlos veterinários sistemáticos.\n\n(17) Além disso, certos países terceiros vizinhos têm acordos específicos com a Comunidade no que se refere a aspectos relevantes da legislação veterinária comunitária.\n\n(18) O Anexo 11 do Acordo entre a Comunidade Europeia e a Confederação Suíça relativo ao comércio de produtos agrícolas [([^8])](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntr8-L_2009077PT.01000101-E0008) foi alterado no que diz respeito ao comércio de produtos agrícolas. Em consequência dessas alterações, deixaram de se efectuar, desde 1 de Janeiro de 2009, controlos veterinários a remessas pertinentes provenientes da Suíça.\n\n(19) Nos termos da Decisão 2007/658/CE do Conselho, de 26 de Setembro de 2007, relativa à celebração de um Acordo Adicional entre a Comunidade Europeia, a Confederação Suíça e o Principado do Liechtenstein que torna extensivo ao Principado do Liechtenstein o Acordo entre a Comunidade Europeia e a Confederação Suíça relativo ao comércio de produtos agrícolas [([^9])](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntr9-L_2009077PT.01000101-E0009), também deixaram de se efectuar, desde 1 de Janeiro de 2009, controlos veterinários a remessas pertinentes provenientes do Liechtenstein.\n\n(20) Assim, as remessas pessoais de produtos de origem animal em quantidades inferiores a um certo limiar provenientes de países terceiros com acordos específicos com a Comunidade, incluindo Andorra, Liechtenstein, Noruega, São Marino e Suíça, devem continuar a ser excluídas do âmbito de aplicação dos controlos veterinários sistemáticos previstos na Directiva 97/78/CE. Para assegurar que os passageiros recebem informações correctas, esses países terceiros devem ser mencionados em todo o material publicitário relevante como países isentos.\n\n(21) Em geral, o estatuto zoossanitário da Croácia pode ser considerado como apresentando um risco mínimo para a Comunidade em termos de sanidade animal. Os produtos de origem animal em quantidades inferiores a um certo limiar, provenientes da Croácia, contidos nas bagagens dos viajantes ou enviados em pequenas embalagens dirigidas a consumidores, não devem ser sujeitos aos controlos veterinários sistemáticos previstos na Directiva 97/78/CE. Para assegurar que os passageiros recebem informações correctas, a Croácia deve ser mencionada em todo o material informativo relevante previsto no presente regulamento como país isento.\n\n(22) No entanto, devido à situação actual na Croácia em termos de peste suína clássica, a carne de suíno e os produtos à base de carne de suíno podem constituir um risco zoossanitário para a UE. Para resolver esta questão, a Croácia aceitou adoptar medidas adequadas para assegurar que tais produtos destinados à Comunidade e transportados por viajantes ou enviados por correio a particulares não saem do seu território, em caso de surto de peste suína clássica.\n\n(23) Além disso, deve esclarecer-se que as disposições aplicáveis a certos produtos de origem animal destinados ao consumo humano devem igualmente aplicar-se a produtos de origem animal destinados à alimentação de animais de companhia, a fim de impedir os viajantes ou os consumidores de contornarem as regras estabelecidas no presente regulamento.\n\n(24) Deve continuar a haver um mecanismo claro de dissuasão para que as remessas de produtos de origem animal de carácter não comercial que não estejam em conformidade com os requisitos sanitários comunitários não entrem na Comunidade sem a aprovação veterinária necessária. Os Estados-Membros devem impor os custos e as sanções que forem necessários, incluindo os custos de eliminação dos produtos, às pessoas consideradas responsáveis por infracções às regras relativas à introdução na Comunidade de produtos de origem animal.\n\n(25) Os Estados-Membros devem continuar a fornecer informações apropriadas à Comissão sobre os mecanismos que criaram para assegurar a execução das regras previstas no presente regulamento. Além disso, a informação fornecida pode ser utilizada para rever as regras previstas no presente regulamento.\n\n(26) Para assegurar que as informações sobre os requisitos relativos à introdução na Comunidade de produtos de origem animal é eficazmente transmitida aos viajantes e ao público em geral, os Estados-Membros e os operadores de transporte internacional de passageiros devem levar estes requisitos ao conhecimento do público e dos passageiros transportados para a Comunidade.\n\n(27) Dadas as dificuldades em reunir as informações relativas aos entrepostos postais, convém dar mais tempo aos Estados-Membros para apresentarem esta informação.\n\n(28) Por razões de coerência e clareza da legislação comunitária, é adequado alterar o artigo 8.º do Regulamento (CE) n.º 136/2004 e revogar o Regulamento (CE) n.º 745/2004.\n\n(29) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "de1a651e6ff6a2b3": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O presente regulamento estabelece as regras relativas à introdução na Comunidade de remessas pessoais de produtos de origem animal com carácter não comercial contidas na bagagem dos viajantes ou que são enviadas em pequenas embalagens dirigidas a particulares, ou que são encomendadas à distância (por exemplo, por correio, por telefone ou através da internet) e entregues ao consumidor.\n\n2. O presente regulamento não é aplicável a remessas pessoais provenientes de Andorra, Liechtenstein, Noruega, São Marino e Suíça. Além disso, não se aplica a remessas pessoais de produtos de pesca provenientes das Ilhas Faroé e da Islândia. Para assegurar que os passageiros disponham de informações correctas, esses países terceiros devem ser indicados em todo o material publicitário pertinente como países isentos.\n\n3. O presente regulamento aplica-se sem prejuízo da legislação veterinária comunitária que tem como objectivo o controlo e erradicação das doenças animais ou relativa a certas medidas de protecção.\n\n4. O presente regulamente aplica-se sem prejuízo das regras pertinentes de certificação previstas na legislação que dá execução ao Regulamento (CE) n.º 338/97, relativo à protecção de espécies da fauna e da flora selvagens através do controlo do seu comércio."
+  },
+  "88ed41050ce91d3f": {
+   "fragment_id": "Artigo 2.º — Regras relativas à introdução na Comunidade de remessas pessoais de produtos de origem animal",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Regras relativas à introdução na Comunidade de remessas pessoais de produtos de origem animal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regras relativas à introdução na Comunidade de remessas pessoais de produtos de origem animal\n\n1. As remessas pessoais de produtos de origem animal, para o consumo humano pessoal, tal como referidas no n.º 1, alíneas a), b) e d), e no n.º 4 do artigo 16.º da Directiva 97/78/CE, não estão sujeitas às regras estabelecidas no capítulo I dessa directiva, desde que pertençam a uma ou mais das seguintes categorias:\n\na) Produtos que constem da parte 1 do anexo I e não sejam abrangidos pelo n.º 1 do artigo 6.º da Decisão 2007/275/CE e cujo peso combinado não seja superior a 0 quilogramas;\n\nb) Produtos que constem da parte 1 do anexo II e cujo peso combinado não seja superior a 2 quilogramas;\n\nc) Produtos da pesca frescos e eviscerado ou preparados, ou produtos da pesca transformados, na acepção dos pontos 3.5, 3.6 ou 7.4 do anexo I do Regulamento (CE) n.º 853/2004 e cujo peso combinado não seja superior a 20 quilogramas ou o peso de um único peixe, conforme o peso que for mais elevado;\n\nd) Produtos que não os referidos nas alíneas a), b) e c), ou no n.º 1 do artigo 6.º da Decisão 2007/275/CE e cujo peso combinado não seja superior a 2 quilogramas.\n\n2. As remessas pessoais de produtos de origem animal destinados à alimentação de animais de companhia não estão sujeitas às regras estabelecidas no capítulo I da Directiva 97/78/CE, desde que pertençam a uma ou mais das seguintes categorias:\n\na) Produtos que constem da parte 2 do anexo I e cujo peso combinado não seja superior a 0 quilogramas;\n\nb) Produtos que constem da parte 2 do anexo II e cujo peso combinado não seja superior a 2 quilogramas.\n\n3. Em derrogação às alíneas a), b) e d) do n.º 1 e ao n.º 2, as remessas pessoais de produtos de origem animal provenientes da Croácia, das Ilhas Faroé, da Gronelândia ou da Islândia não são sujeitas às regras estabelecidas no capítulo I da referida directiva, desde que pertençam a uma ou mais das seguintes categorias:\n\na) Produtos que constem do anexo I e não sejam abrangidos pelo n.º 1 do artigo 6.º da Decisão 2007/275/CE e cujo peso combinado não seja superior a 10 quilogramas;\n\nb) Produtos que constem do anexo II e cujo peso combinado não seja superior a 10 quilogramas;\n\nc) Produtos não referidos na alínea c) do n.º 1 e nas alíneas a) e b) do n.º 3 do presente artigo, bem como no n.º 1 do artigo 6.º da Decisão 2007/275/CE e cujo peso combinado não seja superior a 10 quilogramas."
+  },
+  "59f7ca896254f226": {
+   "fragment_id": "Artigo 3.º — Informações a facultar pelos Estados-Membros aos viajantes e ao público em geral",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Informações a facultar pelos Estados-Membros aos viajantes e ao público em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Informações a facultar pelos Estados-Membros aos viajantes e ao público em geral\n\n1. Os Estados-Membros asseguram que em todos os pontos de entrada na Comunidade, as condições veterinárias aplicáveis às remessas pessoais introduzidas na Comunidade são levadas ao conhecimento dos viajantes que chegam de países terceiros.\n\n2. As informações facultadas aos viajantes nos termos do n.º 1 incluem, pelo menos, os elementos de um dos cartazes previstos no anexo III, em posição de destaque, em avisos afixados em locais facilmente visíveis.\n\n3. Os Estados-Membros podem completar estes avisos com informações adicionais, incluindo:\n\na) As informações indicadas no anexo IV;\n\nb) Informações adequadas às condições locais, bem como com as disposições nacionais adoptadas com base na Directiva 97/78/CE.\n\n4. As informações previstas nos n.^os^ 2 e 3 são redigidas:\n\na) Em pelo menos uma das línguas oficiais do Estado-Membro de introdução na Comunidade;\n\nb) Numa segunda língua considerada conveniente pela autoridade competente; essa segunda língua pode ser a língua utilizada no país vizinho ou, tratando-se de portos ou de aeroportos, a língua provavelmente mais utilizada pelos passageiros que chegam ao terminal.\n\nOs Estados-Membros asseguram que o público em geral é alertado para os requisitos relativos à introdução na Comunidade de produtos de origem animal que são enviados como pequenas embalagens dirigidas a particulares ou encomendados à distância pelos consumidores finais."
+  },
+  "dff2864f7d44ac6b": {
+   "fragment_id": "Artigo 4.º — Informações a facultar pelos operadores de transporte internacional de passageiros e pelos serviços postais aos seus clientes",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Informações a facultar pelos operadores de transporte internacional de passageiros e pelos serviços postais aos seus clientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informações a facultar pelos operadores de transporte internacional de passageiros e pelos serviços postais aos seus clientes\n\nOs operadores de transporte internacional de passageiros, incluindo operadores aeroportuários e portuários e agências de viagens, bem como os serviços postais, chamam a atenção dos seus clientes para as regras estabelecidas no presente regulamento, em particular facultando-lhes as informações indicadas nos anexos III e IV, tal como previsto no artigo 3.º"
+  },
+  "79d93ee0431c9902": {
+   "fragment_id": "Artigo 5.º — Controlos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Controlos\n\n1. A autoridade ou autoridades competentes e quem realiza os controlos oficiais, em colaboração com os operadores aeroportuários e portuários e com os operadores responsáveis por outros pontos de entrada de remessas pessoais de produtos de origem animal, organizam controlos eficazes nos pontos de entrada na Comunidade.\n\n2. Os controlos previstos no n.º 1 visam a detecção da presença de remessas pessoais de produtos de origem animal e a verificação de que são cumpridas as condições estabelecidas no artigo 2.º\n\n3. Os controlos previstos no n.º 1 podem ser organizados utilizando uma abordagem baseada nos riscos, incluindo, se a autoridade competente do Estado-Membro o considerar necessário, a utilização de ajudas de detecção eficazes, tais como equipamento de «scanning» e cães detectores, para examinar grandes volumes de bagagem pessoal para detectar a presença de remessas pessoais de produtos de origem animal."
+  },
+  "e21651a9e7a93d99": {
+   "fragment_id": "Artigo 6.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sanções\n\n1. A autoridade ou autoridades competentes que realizam os controlos oficiais devem:\n\na) Identificar as remessas pessoais que infringem as regras estabelecidas no presente regulamento;\n\nb) Apreender e destruir essas remessas, em conformidade com a legislação nacional.\n\n2. A autoridade ou autoridades competentes que realizam os controlos oficiais podem impor custos ou sanções à pessoa responsável por uma determinada remessa pessoal que infringir as regras estabelecidas no presente regulamento.\n\n3. Os Estados-Membros asseguram que a legislação nacional aplicável à apreensão e destruição das remessas pessoais identifica a pessoa singular ou colectiva responsável pelos custos de destruição de todas as remessas pessoais que são apreendidas."
+  },
+  "8425be5287b371f1": {
+   "fragment_id": "Artigo 7.º — Apresentação de relatórios",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Apresentação de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação de relatórios\n\n1. Os Estados-Membros apresentam anualmente à Comissão um relatório que resume as informações relevantes sobre as medidas adoptadas no sentido de publicitar e de fazer cumprir as regras estabelecidas no presente regulamento e indica os respectivos resultados.\n\n2. O relatório assume a forma de quadro a preencher, tal como indicado no anexo V, e é apresentado até ao dia 1 de Maio do ano imediatamente a seguir ao termo de cada período de referência. O período de referência decorre entre 1 de Janeiro e 31 de Dezembro."
+  },
+  "38a7f4b7a450ee15": {
+   "fragment_id": "Artigo 8.º — Alteração",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração\n\nO artigo 8.º do Regulamento (CE) n.º 136/2004 passa a ter a seguinte redacção:"
+  },
+  "84a64ff322103f8a": {
+   "fragment_id": "«Artigo 8.º — Regras específicas para produtos que fazem parte da bagagem dos viajantes ou são enviados como remessas para particulares",
+   "type": "divisao",
+   "heading": "«Artigo 8.º — Regras específicas para produtos que fazem parte da bagagem dos viajantes ou são enviados como remessas para particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### «Artigo 8.º — Regras específicas para produtos que fazem parte da bagagem dos viajantes ou são enviados como remessas para particulares\n\nOs produtos de origem animal que fazem parte da bagagem dos viajantes ou são enviados como pequenas remessas para particulares obedecem aos requisitos estabelecidos no Regulamento (CE) n.º 206/2009[([^*1])](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntr*1-L_2009077PT.01000101-E0010) da Comissão.\n\n---"
+  },
+  "248cd2436a29a0ab": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^*1^)](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntc*1-L_2009077PT.01000101-E0010) [JO L 77 de 24.3.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_077_R_TOC) ».\""
+  },
+  "d44b5582195481b8": {
+   "fragment_id": "Artigo 9.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revogação\n\nÉ revogado o Regulamento (CE) n.º 745/2004.\n\nAs referências ao regulamento revogado devem entender-se como sendo feitas ao presente regulamento e devem ser lidas de acordo com o quadro de correspondência constante do anexo VII."
+  },
+  "0e9cc43519d929a9": {
+   "fragment_id": "Artigo 10.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições transitórias\n\nOs Estados-Membros podem apresentar à Comissão um quadro preenchido em conformidade com o anexo VI em vez do anexo V, como requerido no artigo 7.º, para os períodos de referência anteriores a 1 de Janeiro de 2011, até ao dia 1 de Maio do ano imediatamente a seguir ao termo de cada período de referência. O período de referência decorre entre 1 de Janeiro e 31 de Dezembro."
+  },
+  "46bf7e49643598a2": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento entra em vigor em 1 de Maio de 2009.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 5 de Março de 2009.\n\n***Pela Comissão***\n\n**Androulla VASSILIOU**\n\n***Membro da Comissão***\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntc1-L_2009077PT.01000101-E0001) [JO L 24 de 30.1.1998, p. 9](http://publications.europa.eu/resource/oj/JOL_1998_024_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntc2-L_2009077PT.01000101-E0002) [JO L 18 de 23.1.2003, p. 11](http://publications.europa.eu/resource/oj/JOL_2003_018_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntc3-L_2009077PT.01000101-E0003) [JO L 165 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_165_R_TOC). Rectificação no [JO L 191 de 28.5.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_191_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntc4-L_2009077PT.01000101-E0004) [JO L 116 de 4.5.2007, p. 9](http://publications.europa.eu/resource/oj/JOL_2007_116_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntc5-L_2009077PT.01000101-E0005) [JO L 21 de 28.1.2004, p. 11](http://publications.europa.eu/resource/oj/JOL_2004_021_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntc6-L_2009077PT.01000101-E0006) [JO L 122 de 26.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_122_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntc7-L_2009077PT.01000101-E0007) [JO L 61 de 3.3.1997, p. 1](http://publications.europa.eu/resource/oj/JOL_1997_061_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntc8-L_2009077PT.01000101-E0008) [JO L 114 de 30.4.2002, p. 132](http://publications.europa.eu/resource/oj/JOL_2002_114_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018.02/DOC_1#ntc9-L_2009077PT.01000101-E0009) [JO L 270 de 13.10.2007, p. 5](http://publications.europa.eu/resource/oj/JOL_2007_270_R_TOC)."
+  },
+  "ca55cc514537bc5f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02009R0206 — PT — 14.12.2019 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009R0206) [REGULAMENTO (CE) N.º 206/2009 DA COMISSÃO](http://publications.europa.eu/resource/celex/32009R0206) [de 5 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0206) [relativo à introdução na Comunidade de remessas pessoais de produtos de origem animal e que altera o Regulamento (CE) n.º 136/2004](http://publications.europa.eu/resource/celex/32009R0206) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009R0206) (JO L 077, 24.3.2009, p.1)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2019/2122 da Comissão de 10 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2122) — L 321 — 45 — 12.12.2019"
+  }
+ }
+}

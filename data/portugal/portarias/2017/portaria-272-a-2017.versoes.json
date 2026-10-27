@@ -1,0 +1,280 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108141749:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-145714456",
+ "dre_path": "/dr/detalhe/portaria/272-a-2017-108141749",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-09-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "145699027",
+    "145699028",
+    "145699029",
+    "145699030",
+    "145699031",
+    "145699032",
+    "145699033",
+    "145699034",
+    "145699035",
+    "145699036",
+    "145699037",
+    "145699038",
+    "145699039"
+   ]
+  },
+  {
+   "date": "2020-10-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:145714413:por",
+     "title": "Declaração de Retificação n.º 40-A/2020",
+     "published": "2020-10-16",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/40-a-2020-145714413"
+    },
+    {
+     "id": "pt:dre:145714385:por",
+     "title": "Portaria n.º 245-A/2020",
+     "published": "2020-10-16",
+     "dre_path": "/dr/detalhe/portaria/245-a-2020-145714385"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 8.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "145699027",
+    "145699028",
+    "145699029",
+    "168462839",
+    "145699031",
+    "145699032",
+    "145699033",
+    "168462840",
+    "168462842",
+    "145699036",
+    "145699037",
+    "145699038",
+    "145699039",
+    "145699040"
+   ]
+  },
+  {
+   "date": "2021-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160534625:por",
+     "title": "Portaria n.º 73-A/2021",
+     "published": "2021-03-30",
+     "dre_path": "/dr/detalhe/portaria/73-a-2021-160534625"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "145699027",
+    "145699028",
+    "145699029",
+    "168462847",
+    "145699031",
+    "145699032",
+    "168462848",
+    "168462849",
+    "168462842",
+    "145699036",
+    "145699037",
+    "145699038",
+    "145699039",
+    "145699040"
+   ]
+  }
+ ],
+ "fragments": {
+  "145699027": {
+   "fragment_id": "145714457",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 272-A/2017\n\nde 13 de setembro\n\nA complexidade do sistema educativo impõe um compromisso com a qualificação e valorização dos recursos humanos que nele participam. O Governo reconhece, nesse contexto, que o pessoal não docente desempenha um papel fundamental, não só do ponto de vista técnico, como também do ponto de vista pedagógico, na formação das crianças e jovens.\n\nReconhecendo a relevância do trabalho desempenhado por estes profissionais para o bom desempenho de todo o sistema educativo, vem a presente portaria regulamentar os critérios de afetação dos assistentes técnicos e assistentes operacionais dos agrupamentos de escolas e das escolas não agrupadas, garantindo, para tal, a necessária adequação entre a satisfação das necessidades e da gestão eficiente dos recursos humanos com as disposições essenciais para a valorização e estabilidade do pessoal não docente, com reflexo direto na melhoria das condições de aprendizagem dos alunos e maior apoio aos docentes e demais agentes da comunidade educativa.\n\nTendo presente garantir melhores condições de apoio, acompanhamento e vigilância às crianças, reforça-se o ratio de assistentes operacionais com a atribuição de um assistente operacional por cada grupo de crianças constituído em sala de educação pré-escolar.\n\nProcede-se ainda à adequação do número de assistentes operacionais em exercício de funções nas escolas em razão das necessidades adicionais de apoio e acompanhamento das crianças e jovens com necessidades educativas especiais.\n\nAdicionalmente, pelas especificidades associadas ao ensino ministrado nos estabelecimentos de ensino artístico especializado da música e da dança, é reforçado o número de assistentes operacionais atribuídos a esses estabelecimentos de ensino.\n\nÉ ainda clarificada a não inclusão no cálculo da dotação dos assistentes operacionais afetos à produção vegetal e ou produção animal, nos estabelecimentos de ensino profissional agrícola, bem como à cozinha, nos estabelecimentos de ensino do 2.º e 3.º ciclos do ensino básico e do ensino secundário com refeitórios de gestão direta.\n\nNeste sentido, são alterados os critérios que integram a fórmula de cálculo da dotação máxima de referência fixados na Portaria n.º 1049-A/2008, de 16 de setembro, alterada pela Portaria n.º 29/2015, de 12 de fevereiro. Esta dotação máxima serve igualmente de referência para efeitos da determinação do valor das transferências do orçamento do Ministério da Educação para os municípios para efeitos do pagamento das remunerações do pessoal não docente, conforme previsto no artigo 4.º do Decreto-Lei n.º 144/2008, de 28 de julho.\n\nAssim, ao abrigo do n.º 1 do artigo 31.º da Lei n.º 42/2016, de 28 de dezembro, e do n.º 3 do artigo 4.º do Decreto-Lei n.º 144/2008, de 28 de julho, manda o Governo, pelo Ministro das Finanças, pelo Secretário de Estado das Autarquias Locais e pela Secretária de Estado Adjunta e da Educação, o seguinte:"
+  },
+  "145699028": {
+   "fragment_id": "145714458",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta os critérios de afetação de pessoal não docente aos agrupamentos de escolas e escolas não agrupadas do Ministério da Educação."
+  },
+  "145699029": {
+   "fragment_id": "145714459",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nSão definidos os critérios e a respetiva fórmula de cálculo para a determinação da dotação máxima de referência do pessoal não docente, por agrupamento de escolas ou escola não agrupada."
+  },
+  "145699030": {
+   "fragment_id": "145714460",
+   "type": 11,
+   "heading": "Artigo 3.º — Dotação máxima dos assistentes operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dotação máxima dos assistentes operacionais\n\nA dotação máxima de referência dos assistentes operacionais para os agrupamentos de escolas e escolas não agrupadas é fixada com base nos seguintes critérios:\n\na) A tipologia dos edifícios escolares;\n\nb) As instalações desportivas;\n\nc) O regime de funcionamento;\n\nd) A prática de contratação de empresas para prestação do serviço de limpeza;\n\ne) O número de alunos;\n\nf) A oferta educativa/formativa;\n\ng) A existência, nos estabelecimentos de ensino, de unidades de ensino estruturado no âmbito da educação especial;\n\nh) A existência, nos estabelecimentos de ensino, de unidades de apoio especializado no âmbito da educação especial."
+  },
+  "145699031": {
+   "fragment_id": "145714461",
+   "type": 11,
+   "heading": "Artigo 4.º — Dotação máxima dos assistentes técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dotação máxima dos assistentes técnicos\n\nA regra geral de dotação máxima de referência dos assistentes técnicos para os agrupamentos de escolas e escolas não agrupadas é determinada pelo número de alunos do 2.º e 3.º ciclos dos ensinos básico e secundário do agrupamento ou escola não agrupada."
+  },
+  "145699032": {
+   "fragment_id": "145714462",
+   "type": 11,
+   "heading": "Artigo 5.º — Fórmula de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fórmula de cálculo\n\nAs dotações referidas nos artigos anteriores são estabelecidas por uma fórmula de cálculo da dotação máxima de referência dos assistentes operacionais e dos assistentes técnicos, dos agrupamentos de escolas e escolas não agrupadas."
+  },
+  "145699033": {
+   "fragment_id": "145714463",
+   "type": 11,
+   "heading": "Artigo 6.º — Fórmula de cálculo dos assistentes técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fórmula de cálculo dos assistentes técnicos\n\nA fórmula de cálculo para os assistentes técnicos, que tem por base o número de alunos do 2.º e 3.º ciclos dos ensinos básico e secundário do agrupamento ou escola não agrupada, é a seguinte:\n\na) Cinco assistentes técnicos, incluindo o coordenador técnico, ou o chefe de serviços de administração escolar integrado em carreira subsistente, para um número de alunos menor ou igual a 300;\n\nb) Se o número de alunos for maior que 300 e menor ou igual a 1100, acresce mais um assistente técnico por cada conjunto adicional de 1 a 200 alunos;\n\nc) Se o número de alunos for maior que 1100, acresce mais um assistente por cada conjunto adicional de 1 a 300 alunos;\n\nd) Os agrupamentos onde esteja sediado um Centro de Formação de Associação de Professores (CFAE) têm o acréscimo de um assistente técnico;\n\ne) Nos agrupamentos de escolas, cuja gestão do pessoal não docente é partilhada entre o Ministério da Educação e a autarquia, por força do Contrato de Execução a que se refere o Decreto-Lei n.º 144/2008, de 28 de julho, o preenchimento das necessidades de assistentes técnicos é da competência de quem possui a gestão da escola sede do agrupamento, tendo em conta as existências de ambos os organismos."
+  },
+  "145699034": {
+   "fragment_id": "145714464",
+   "type": 11,
+   "heading": "Artigo 7.º — Ratio e fórmula de cálculo de assistentes operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ratio e fórmula de cálculo de assistentes operacionais\n\n1 - Na educação pré-escolar o ratio de assistentes operacionais é de um por cada grupo de crianças regularmente constituído em sala, em conformidade com o limite definido em despacho normativo de constituição de turmas.\n\n2 - No 1.º ciclo do ensino básico o ratio de assistentes operacionais é de um por cada conjunto de 21 a 48 alunos, acrescendo:\n\na) Mais um assistente operacional por cada conjunto adicional de 1 a 48 alunos;\n\nb) Mais dois assistentes operacionais no caso de estabelecimentos de ensino com uma sala de unidade de ensino estruturado;\n\nc) Mais dois assistentes operacionais no caso de estabelecimentos de ensino com uma sala de unidade de apoio especializado;\n\nd) Um assistente operacional por cada sala adicional constituída em qualquer das unidades referidas nas alíneas b) e c).\n\n3 - Nos estabelecimentos de ensino do 2.º e 3.º ciclos do ensino básico e do ensino secundário o número de assistentes operacionais calcula-se de acordo com a seguinte fórmula:\n\nN = (AG + Pav + RAO) x (1 + RF + T + L + CP_CEF) + UEE + UAE\n\nem que:\n\nN corresponde ao número de assistentes operacionais;\n\nAG corresponde ao pessoal para apoio geral;\n\nPav corresponde ao ratio de assistentes operacionais por pavilhão gimnodesportivo e ou instalações desportivas com balneários;\n\nRAO corresponde ao ratio de assistentes operacionais por conjunto de alunos;\n\nRF corresponde à ponderação de assistentes operacionais resultante do regime de funcionamento;\n\nT corresponde à ponderação de assistentes operacionais resultante da tipologia do edifício;\n\nL corresponde à ponderação de assistentes operacionais resultante de a limpeza estar a cargo de empresa externa;\n\nCP_CEF corresponde à ponderação de assistentes operacionais resultante da existência no estabelecimento de ensino de cursos profissionais, cursos de educação e formação, vocacionais e percurso curricular alternativo;\n\nUEE corresponde à ponderação de assistentes operacionais resultante da existência no estabelecimento de ensino de unidade de ensino estruturado;\n\nUAE corresponde à ponderação de assistentes operacionais resultante da existência no estabelecimento de ensino de unidades de apoio especializado.\n\n4 - O ratio de assistentes operacionais correspondente a cada parcela ou fator constante da fórmula do número anterior é o seguinte:\n\na) Seis assistentes operacionais como pessoal para apoio geral (AG);\n\nb) Dois assistentes operacionais por pavilhão gimnodesportivo e ou instalações desportivas com balneários (Pav);\n\nc) O ratio de assistentes operacionais por conjunto de alunos (RAO) é calculado da seguinte forma:\n\ni) Um assistente operacional por cada conjunto de 100 alunos, se o número de alunos for menor ou igual a 600;\n\nii) Um assistente operacional por cada conjunto de 120 alunos, se o número de alunos for maior que 600 e menor ou igual a 1000;\n\niii) Um assistente operacional por cada conjunto de 150 alunos, se o número de alunos for maior que 1000;\n\nd) Dependendo do regime de funcionamento (RF) do estabelecimento de ensino acrescem:\n\ni) 25 % de assistentes operacionais, se pelo menos 25 % das turmas funcionarem com mancha horária predominantemente à tarde e com aulas pontualmente de manhã, sempre que, comprovadamente, não existam condições para que cada uma das turmas funcione em regime normal, por questões de espaço ou carga horária; e ou\n\nii) 25 % de assistentes operacionais, se o estabelecimento de ensino funcionar também em regime noturno;\n\ne) Um acréscimo de 25 % de assistentes operacionais se a tipologia do edifício (T) do estabelecimento escolar for em blocos/misto;\n\nf) Um acréscimo de 15 % se no estabelecimento de ensino existir oferta formativa de cursos profissionais, cursos de educação e formação, vocacionais e percurso curricular alternativo (CP_CEF) em número de turmas do ensino diurno superior a 25 % da restante oferta formativa da escola;\n\ng) Uma redução de 25 % de assistentes operacionais se a limpeza (L) do estabelecimento de ensino for efetuada por empresa externa contratada;\n\nh) Dois assistentes operacionais se o estabelecimento de ensino tiver uma sala de unidade de ensino estruturado (UEE), acrescendo mais um assistente operacional por cada sala adicional;\n\ni) Dois assistentes operacionais se o estabelecimento de ensino tiver uma sala de unidade de apoio especializado (UAE), acrescendo mais um assistente operacional por cada sala adicional.\n\n5 - Para efeitos dos números anteriores ter-se-á em consideração o seguinte:\n\na) Nos estabelecimentos de ensino dos 2.º e 3.º ciclos do ensino básico e do ensino secundário com refeitório de gestão direta, os assistentes operacionais afetos à cozinha não serão contabilizados para efeitos de cálculo da dotação;\n\nb) Nos estabelecimentos de ensino de cuja aplicação das subalíneas ii) e iii) da alínea c) do número anterior resulte efeito depreciativo no número de assistentes operacionais, o ratio de assistentes operacionais por conjunto de alunos é sempre o resultante da aplicação da subalínea antecedente;\n\nc) Nos estabelecimentos de ensino profissional agrícola, os assistentes operacionais afetos à produção vegetal e ou produção animal não serão contabilizados para efeitos de cálculo da dotação;\n\nd) Nos estabelecimentos de ensino artístico especializado da música e da dança, o número de alunos do ensino articulado e supletivo é contabilizado a 50 %, para efeitos da fórmula de cálculo, a acrescer à totalidade dos alunos do ensino integrado e os estabelecimentos de ensino que se encontrem a funcionar ao sábado terão o acréscimo de um assistente operacional.\n\n6 - A coordenação dos assistentes operacionais pode ser efetuada por um encarregado operacional em cada agrupamento de escolas ou escola não agrupada, caso exista a necessidade de coordenar pelo menos 10 assistentes operacionais do respetivo setor de atividade."
+  },
+  "145699035": {
+   "fragment_id": "145714465",
+   "type": 11,
+   "heading": "Artigo 8.º — Alunos com necessidades educativas especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alunos com necessidades educativas especiais\n\n1 - Os alunos com necessidades educativas especiais, salvo os inseridos nas unidades de apoio especializado e ensino estruturado, são contabilizados em 1,5 em todos os ciclos de ensino, incluindo a educação pré-escolar para efeitos de apuramento do número total de alunos, por estabelecimento de ensino.\n\n2 - As necessidades adicionais de apoio e acompanhamento das crianças com necessidades educativas, na educação pré-escolar, cujo perfil de funcionalidade apresente acentuadas limitações no domínio cognitivo, associadas a limitações acentuadas no domínio motor, sensorial ou comportamental, necessitando de cuidados de saúde específicos ou de suporte adicional para participação nos contextos sociais e de aprendizagem, são analisadas casuisticamente no início de cada ano escolar, por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da educação."
+  },
+  "145699036": {
+   "fragment_id": "145714466",
+   "type": 11,
+   "heading": "Artigo 9.º — Regras específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regras específicas\n\n1 - Os cálculos resultantes da aplicação das fórmulas dos artigos anteriores são arredondados por excesso.\n\n2 - A fórmula de cálculo do pessoal não docente por escola é igual ao somatório do resultado das fórmulas de cálculo para os assistentes operacionais e para os assistentes técnicos.\n\n3 - A fórmula de cálculo para pessoal não docente por agrupamento é igual ao somatório do resultado das fórmulas de cálculo do pessoal não docente para cada estabelecimento de ensino que o integra, incluindo pré-escolar."
+  },
+  "145699037": {
+   "fragment_id": "145714467",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposição transitória\n\nDurante o ano letivo 2017/2018, a fórmula de cálculo para o ratio de assistentes operacionais na educação pré-escolar é a seguinte:\n\na) Para um número igual ou inferior a 30 crianças, um assistente operacional;\n\nb) A este número acresce mais um assistente operacional por cada conjunto adicional de 1 a 30 crianças."
+  },
+  "145699038": {
+   "fragment_id": "145714468",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1049-A/2008, de 16 de setembro, alterada pela Portaria n.º 29/2015, de 12 de fevereiro."
+  },
+  "145699039": {
+   "fragment_id": "145714469",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "168462839": {
+   "fragment_id": "145714460",
+   "type": 11,
+   "heading": "Artigo 3.º — Dotação máxima dos assistentes operacionais",
+   "in_force_from": "2020-10-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 245-A/2020 - Diário da República n.º 202/2020, 1º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/245-a-2020-145714385), em vigor a partir de 2020-10-17"
+   ],
+   "markdown": "###### Artigo 3.º — Dotação máxima dos assistentes operacionais\n\nA dotação máxima de referência dos assistentes operacionais para os agrupamentos de escolas e escolas não agrupadas é fixada com base nos seguintes critérios:\n\na) A tipologia dos edifícios escolares;\n\nb) As instalações desportivas;\n\nc) O regime de funcionamento;\n\nd) A prática de contratação de empresas para prestação do serviço de limpeza;\n\ne) O número de alunos;\n\nf) A oferta educativa/formativa;\n\ng) O Centro de Apoio à Aprendizagem acolher a valência de ensino estruturado, no âmbito da educação inclusiva;\n\nh) O Centro de Apoio à Aprendizagem acolher a valência de apoio especializado, no âmbito da educação inclusiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 245-A/2020 - Diário da República n.º 202/2020, 1º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/245-a-2020-145714385), em vigor a partir de 2020-10-17"
+  },
+  "168462840": {
+   "fragment_id": "145714464",
+   "type": 11,
+   "heading": "Artigo 7.º — Ratio e fórmula de cálculo de assistentes operacionais",
+   "in_force_from": "2020-10-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 245-A/2020 - Diário da República n.º 202/2020, 1º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/245-a-2020-145714385), em vigor a partir de 2020-10-17"
+   ],
+   "markdown": "###### Artigo 7.º — Ratio e fórmula de cálculo de assistentes operacionais\n\n1 - Na educação pré-escolar o ratio de assistentes operacionais é de um por cada grupo de crianças regularmente constituído em sala, em conformidade com o limite definido em despacho normativo de constituição de turmas.\n\n2 - No 1.º ciclo do ensino básico o ratio de assistentes operacionais é de um por cada conjunto de 18 a 36 alunos, acrescendo:\n\na) Mais um assistente operacional por cada conjunto adicional de 1 a 48 alunos;\n\nb) Mais dois assistentes operacionais no caso de estabelecimentos de ensino com uma sala de unidade de ensino estruturado;\n\nc) Mais dois assistentes operacionais no caso de estabelecimentos de ensino com uma sala de unidade de apoio especializado;\n\nd) Um assistente operacional por cada sala adicional constituída em qualquer das unidades referidas nas alíneas b) e c).\n\n3 - Nos estabelecimentos de ensino do 2.º e 3.º ciclos do ensino básico e do ensino secundário o número de assistentes operacionais calcula-se de acordo com a seguinte fórmula:\n\nN = (AG + Pav + RAO) x (1 + RF + T + L + CP_CEF) + UEE + UAE\n\nem que:\n\nN corresponde ao número de assistentes operacionais;\n\nAG corresponde ao pessoal para apoio geral;\n\nPav corresponde ao ratio de assistentes operacionais por pavilhão gimnodesportivo e ou instalações desportivas com balneários;\n\nRAO corresponde ao ratio de assistentes operacionais por conjunto de alunos;\n\nRF corresponde à ponderação de assistentes operacionais resultante do regime de funcionamento;\n\nT corresponde à ponderação de assistentes operacionais resultante da tipologia do edifício;\n\nL corresponde à ponderação de assistentes operacionais resultante de a limpeza estar a cargo de empresa externa;\n\nCP_CEF corresponde à ponderação de assistentes operacionais resultante da existência no estabelecimento de ensino de cursos profissionais, cursos de educação e formação, vocacionais e percurso curricular alternativo;\n\nUEE corresponde à ponderação de assistentes operacionais resultante da existência no estabelecimento de ensino de unidade de ensino estruturado;\n\nUAE corresponde à ponderação de assistentes operacionais resultante da existência no estabelecimento de ensino de unidades de apoio especializado.\n\n4 - O ratio de assistentes operacionais correspondente a cada parcela ou fator constante da fórmula do número anterior é o seguinte:\n\na) Seis assistentes operacionais como pessoal para apoio geral (AG);\n\nb) Dois assistentes operacionais por pavilhão gimnodesportivo e ou instalações desportivas com balneários (Pav);\n\nc) O ratio de assistentes operacionais por conjunto de alunos (RAO) é calculado da seguinte forma:\n\ni) Um assistente operacional por cada conjunto de 90 alunos, se o número de alunos for menor ou igual a 630;\n\nii) Um assistente operacional por cada conjunto de 100 alunos, se o número de alunos for maior que 630 e menor ou igual a 1000;\n\niii) Um assistente operacional por cada conjunto de 110 alunos, se o número de alunos for maior que 1000 e menor ou igual a 1320;\n\niv) Um assistente operacional por cada conjunto de 120 alunos, se o número de alunos for maior que 1320 e menor ou igual a 1560;\n\nv) Um assistente operacional por cada conjunto de 130 alunos, se o número de alunos for maior que 1560;\n\nd) Dependendo do regime de funcionamento (RF) do estabelecimento de ensino acrescem:\n\ni) 25 % de assistentes operacionais, se pelo menos 25 % das turmas funcionarem com mancha horária predominantemente à tarde e com aulas pontualmente de manhã, sempre que, comprovadamente, não existam condições para que cada uma das turmas funcione em regime normal, por questões de espaço ou carga horária; e ou\n\nii) 25 % de assistentes operacionais, se o estabelecimento de ensino funcionar também em regime noturno;\n\ne) Um acréscimo de 25 % de assistentes operacionais se a tipologia do edifício (T) do estabelecimento escolar for em blocos/misto;\n\nf) Um acréscimo de 15 % se no estabelecimento de ensino existir oferta formativa de cursos profissionais, cursos de educação e formação e percurso curricular alternativo (CP_CEF) em número de turmas do ensino diurno superior a 25 % da restante oferta formativa da escola;\n\ng) Uma redução de 25 % de assistentes operacionais se a limpeza (L) do estabelecimento de ensino for efetuada por empresa externa contratada;\n\nh) Dois assistentes operacionais se o Centro de Apoio à Aprendizagem acolher a valência de ensino estruturado, acrescendo mais um assistente operacional por cada sala adicional;\n\ni) Dois assistentes operacionais se o Centro de Apoio à Aprendizagem acolher a valência de apoio especializado, acrescendo mais um assistente operacional por cada sala adicional.\n\n5 - Para efeitos dos números anteriores ter-se-á em consideração o seguinte:\n\na) Nos estabelecimentos de ensino dos 2.º e 3.º ciclos do ensino básico e do ensino secundário com refeitório de gestão direta, os assistentes operacionais afetos à cozinha não serão contabilizados para efeitos de cálculo da dotação;\n\nb) Nos estabelecimentos de ensino de cuja aplicação das subalíneas ii) e iii) da alínea c) do número anterior resulte efeito depreciativo no número de assistentes operacionais, o ratio de assistentes operacionais por conjunto de alunos é sempre o resultante da aplicação da subalínea antecedente;\n\nc) Nos estabelecimentos de ensino profissional agrícola, os assistentes operacionais afetos à produção vegetal e ou produção animal não serão contabilizados para efeitos de cálculo da dotação;\n\nd) Nos estabelecimentos de ensino artístico especializado da música e da dança, o número de alunos do ensino articulado e supletivo é contabilizado a 50 %, para efeitos da fórmula de cálculo, a acrescer à totalidade dos alunos do ensino integrado e os estabelecimentos de ensino que se encontrem a funcionar ao sábado terão o acréscimo de um assistente operacional.\n\n6 - A coordenação dos assistentes operacionais pode ser efetuada por um encarregado operacional em cada agrupamento de escolas ou escola não agrupada, caso exista a necessidade de coordenar pelo menos 10 assistentes operacionais do respetivo setor de atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 245-A/2020 - Diário da República n.º 202/2020, 1º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/245-a-2020-145714385), em vigor a partir de 2020-10-17"
+  },
+  "168462842": {
+   "fragment_id": "145714465",
+   "type": 11,
+   "heading": "Artigo 8.º — Alunos com necessidades educativas específicas",
+   "in_force_from": "2020-10-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 245-A/2020 - Diário da República n.º 202/2020, 1º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/245-a-2020-145714385), em vigor a partir de 2020-10-17",
+    "Retificado pelo/a [Declaração de Retificação n.º 40-A/2020 - Diário da República n.º 202/2020, 2º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-a-2020-145714413), em vigor a partir de 2020-10-17"
+   ],
+   "markdown": "###### Artigo 8.º — Alunos com necessidades educativas específicas\n\n1 - Os alunos com necessidades educativas específicas, devidamente fundamentadas pelas Equipas Multidisciplinares de Apoio à Educação Inclusiva, salvo os apoiados pelo Centro de Apoio à Aprendizagem no âmbito das valências de apoio especializado e de ensino estruturado, são contabilizados em 2,5 em todos os ciclos de ensino, incluindo a educação pré-escolar, para efeitos de apuramento do número total de alunos, por estabelecimento de ensino.\n\n2 - As necessidades adicionais de apoio e acompanhamento das crianças com necessidades educativas, na educação pré-escolar, cujo perfil de funcionalidade apresente acentuadas limitações no domínio cognitivo, associadas a limitações acentuadas no domínio motor, sensorial ou comportamental, necessitando de cuidados de saúde específicos ou de suporte adicional para participação nos contextos sociais e de aprendizagem, são analisadas casuisticamente no início de cada ano escolar, por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 245-A/2020 - Diário da República n.º 202/2020, 1º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/245-a-2020-145714385), em vigor a partir de 2020-10-17\n\n> Retificado pelo/a [Declaração de Retificação n.º 40-A/2020 - Diário da República n.º 202/2020, 2º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-a-2020-145714413), em vigor a partir de 2020-10-17"
+  },
+  "145699040": {
+   "fragment_id": "145714470",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 13 de setembro de 2017. - O Secretário de Estado das Autarquias Locais, Carlos Manuel Soares Miguel, em 13 de setembro de 2017. - A Secretária de Estado Adjunta e da Educação, Alexandra Ludomila Ribeiro Fernandes Leitão, em 12 de setembro de 2017."
+  },
+  "168462847": {
+   "fragment_id": "145714460",
+   "type": 11,
+   "heading": "Artigo 3.º — Dotação máxima dos assistentes operacionais",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73-A/2021 - Diário da República n.º 62/2021, 1º Suplemento, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-a-2021-160534625), em vigor a partir de 2021-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 245-A/2020 - Diário da República n.º 202/2020, 1º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/245-a-2020-145714385), em vigor a partir de 2020-10-17"
+   ],
+   "markdown": "###### Artigo 3.º — Dotação máxima dos assistentes operacionais\n\nA dotação máxima de referência dos assistentes operacionais para os agrupamentos de escolas e escolas não agrupadas é fixada com base nos seguintes critérios:\n\na) A tipologia dos edifícios escolares;\n\nb) As instalações desportivas;\n\nc) O regime de funcionamento;\n\nd) A prática de contratação de empresas para prestação do serviço de limpeza;\n\ne) O número de alunos;\n\nf) A oferta educativa/formativa;\n\ng) O Centro de Apoio à Aprendizagem acolher a valência de ensino estruturado, no âmbito da educação inclusiva;\n\nh) O Centro de Apoio à Aprendizagem acolher a valência de apoio especializado, no âmbito da educação inclusiva;\n\ni) Os territórios educativos de intervenção prioritária;\n\nj) As residências escolares.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73-A/2021 - Diário da República n.º 62/2021, 1º Suplemento, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-a-2021-160534625), em vigor a partir de 2021-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 245-A/2020 - Diário da República n.º 202/2020, 1º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/245-a-2020-145714385), em vigor a partir de 2020-10-17"
+  },
+  "168462848": {
+   "fragment_id": "145714463",
+   "type": 11,
+   "heading": "Artigo 6.º — Fórmula de cálculo dos assistentes técnicos",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73-A/2021 - Diário da República n.º 62/2021, 1º Suplemento, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-a-2021-160534625), em vigor a partir de 2021-03-31"
+   ],
+   "markdown": "###### Artigo 6.º — Fórmula de cálculo dos assistentes técnicos\n\nA fórmula de cálculo para os assistentes técnicos, que tem por base o número de alunos do 2.º e 3.º ciclos dos ensinos básico e secundário do agrupamento ou escola não agrupada, é a seguinte:\n\na) Seis assistentes técnicos, incluindo o coordenador técnico, ou o chefe de serviços de administração escolar integrado em carreira subsistente, para um número de alunos menor ou igual a 300;\n\nb) Se o número de alunos for maior que 300 e menor ou igual a 1100, acresce mais um assistente técnico por cada conjunto adicional de 1 a 200 alunos;\n\nc) Se o número de alunos for maior que 1100, acresce mais um assistente por cada conjunto adicional de 1 a 300 alunos;\n\nd) Os agrupamentos onde esteja sediado um Centro de Formação de Associação de Professores (CFAE) têm o acréscimo de um assistente técnico;\n\ne) Nos agrupamentos de escolas, cuja gestão do pessoal não docente é partilhada entre o Ministério da Educação e a autarquia, por força do Contrato de Execução a que se refere o Decreto-Lei n.º 144/2008, de 28 de julho, o preenchimento das necessidades de assistentes técnicos é da competência de quem possui a gestão da escola sede do agrupamento, tendo em conta as existências de ambos os organismos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73-A/2021 - Diário da República n.º 62/2021, 1º Suplemento, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-a-2021-160534625), em vigor a partir de 2021-03-31"
+  },
+  "168462849": {
+   "fragment_id": "145714464",
+   "type": 11,
+   "heading": "Artigo 7.º — Ratio e fórmula de cálculo de assistentes operacionais",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73-A/2021 - Diário da República n.º 62/2021, 1º Suplemento, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-a-2021-160534625), em vigor a partir de 2021-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 245-A/2020 - Diário da República n.º 202/2020, 1º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/245-a-2020-145714385), em vigor a partir de 2020-10-17"
+   ],
+   "markdown": "###### Artigo 7.º — Ratio e fórmula de cálculo de assistentes operacionais\n\n1 - Na educação pré-escolar o ratio de assistentes operacionais é de um por cada grupo de crianças regularmente constituído em sala, em conformidade com o limite definido em despacho normativo de constituição de turmas.\n\n2 - No 1.º ciclo do ensino básico o ratio de assistentes operacionais é de um por cada conjunto de 15 a 30 alunos, acrescendo:\n\na) Mais um assistente operacional por cada conjunto adicional de 1 a 44;\n\nb) Mais dois assistentes operacionais no caso de estabelecimentos de ensino com uma sala de unidade de ensino estruturado;\n\nc) Mais dois assistentes operacionais no caso de estabelecimentos de ensino com uma sala de unidade de apoio especializado;\n\nd) Um assistente operacional por cada sala adicional constituída em qualquer das unidades referidas nas alíneas b) e c).\n\n3 - Nos estabelecimentos de ensino do 2.º e 3.º ciclos do ensino básico e do ensino secundário o número de assistentes operacionais calcula-se de acordo com a seguinte fórmula:\n\nN = (AG + Pav + RAO) x (1 + RF + T + L + CP_CEF) + UEE + UAE\n\nem que:\n\nN corresponde ao número de assistentes operacionais;\n\nAG corresponde ao pessoal para apoio geral;\n\nPav corresponde ao ratio de assistentes operacionais por pavilhão gimnodesportivo e ou instalações desportivas com balneários;\n\nRAO corresponde ao ratio de assistentes operacionais por conjunto de alunos;\n\nRF corresponde à ponderação de assistentes operacionais resultante do regime de funcionamento;\n\nT corresponde à ponderação de assistentes operacionais resultante da tipologia do edifício;\n\nL corresponde à ponderação de assistentes operacionais resultante de a limpeza estar a cargo de empresa externa;\n\nCP_CEF corresponde à ponderação de assistentes operacionais resultante da existência no estabelecimento de ensino de cursos profissionais, cursos de educação e formação, vocacionais e percurso curricular alternativo;\n\nUEE corresponde à ponderação de assistentes operacionais resultante da existência no estabelecimento de ensino de unidade de ensino estruturado;\n\nUAE corresponde à ponderação de assistentes operacionais resultante da existência no estabelecimento de ensino de unidades de apoio especializado.\n\n4 - O ratio de assistentes operacionais correspondente a cada parcela ou fator constante da fórmula do número anterior é o seguinte:\n\na) Seis assistentes operacionais como pessoal para apoio geral (AG);\n\nb) Dois assistentes operacionais por pavilhão gimnodesportivo e ou instalações desportivas com balneários (Pav);\n\nc) O ratio de assistentes operacionais por conjunto de alunos (RAO) é calculado da seguinte forma:\n\ni) Um assistente operacional por cada conjunto de 90 alunos, se o número de alunos for menor ou igual a 630;\n\nii) Um assistente operacional por cada conjunto de 100 alunos, se o número de alunos for maior que 630 e menor ou igual a 1000;\n\niii) Um assistente operacional por cada conjunto de 110 alunos, se o número de alunos for maior que 1000 e menor ou igual a 1320;\n\niv) Um assistente operacional por cada conjunto de 120 alunos, se o número de alunos for maior que 1320 e menor ou igual a 1560;\n\nv) Um assistente operacional por cada conjunto de 130 alunos, se o número de alunos for maior que 1560;\n\nd) Dependendo do regime de funcionamento (RF) do estabelecimento de ensino acrescem:\n\ni) 25 % de assistentes operacionais, se pelo menos 25 % das turmas funcionarem com mancha horária predominantemente à tarde e com aulas pontualmente de manhã, sempre que, comprovadamente, não existam condições para que cada uma das turmas funcione em regime normal, por questões de espaço ou carga horária; e ou\n\nii) 17,5 % de assistentes operacionais, se o estabelecimento de ensino funcionar também em regime noturno.\n\ne) Um acréscimo de 25 % de assistentes operacionais se a tipologia do edifício (T) do estabelecimento escolar for em blocos/misto;\n\nf) Um acréscimo de 15 % se no estabelecimento de ensino existir oferta formativa de cursos profissionais, cursos de educação e formação e percurso curricular alternativo (CP_CEF) em número de turmas do ensino diurno superior a 25 % da restante oferta formativa da escola;\n\ng) Uma redução de 25 % de assistentes operacionais se a limpeza (L) do estabelecimento de ensino for efetuada por empresa externa contratada;\n\nh) Dois assistentes operacionais se o Centro de Apoio à Aprendizagem acolher a valência de ensino estruturado, acrescendo mais um assistente operacional por cada sala adicional;\n\ni) Dois assistentes operacionais se o Centro de Apoio à Aprendizagem acolher a valência de apoio especializado, acrescendo mais um assistente operacional por cada sala adicional.\n\n5 - Para efeitos dos números anteriores ter-se-á em consideração o seguinte:\n\na) Nos estabelecimentos de ensino dos 2.º e 3.º ciclos do ensino básico e do ensino secundário com refeitório de gestão direta, os assistentes operacionais afetos à cozinha não serão contabilizados para efeitos de cálculo da dotação;\n\nb) Nos estabelecimentos de ensino de cuja aplicação das subalíneas ii) e iii) da alínea c) do número anterior resulte efeito depreciativo no número de assistentes operacionais, o ratio de assistentes operacionais por conjunto de alunos é sempre o resultante da aplicação da subalínea antecedente;\n\nc) Nos estabelecimentos de ensino profissional agrícola, os assistentes operacionais afetos à produção vegetal e ou produção animal não serão contabilizados para efeitos de cálculo da dotação;\n\nd) Nos estabelecimentos de ensino artístico especializado da música e da dança, o número de alunos do ensino articulado e supletivo é contabilizado a 50 %, para efeitos da fórmula de cálculo, a acrescer à totalidade dos alunos do ensino integrado e os estabelecimentos de ensino que se encontrem a funcionar ao sábado terão o acréscimo de um assistente operacional;\n\ne) As escolas de referência no domínio da visão e as escolas de referência para a educação bilingue têm um acréscimo de um assistente operacional por cada uma destas respostas educativas;\n\nf) Nos estabelecimentos de ensino dos 2.º e 3.º ciclos do ensino básico com utilização de pavilhão gimnodesportivo e ou instalações desportivas, para a prática da disciplina de Educação Física, fora daqueles estabelecimentos, acresce um assistente operacional.\n\n6 - A coordenação dos assistentes operacionais pode ser efetuada por um encarregado operacional em cada agrupamento de escolas ou escola não agrupada, caso exista a necessidade de coordenar pelo menos 10 assistentes operacionais do respetivo setor de atividade;\n\n7 - Os alunos não considerados nos termos do corpo do n.º 2, por serem em número inferior a 15, são contabilizados para efeitos de cálculo do ratio dos assistentes operacionais da escola sede.\n\n8 - Nos agrupamentos de escolas ou escolas não agrupadas que integram territórios educativos de intervenção prioritária acrescem dois assistentes operacionais na escola sede.\n\n9 - Nas residências escolares o ratio de assistentes operacionais é de cinco assistentes operacionais por cada residência, a que acresce um assistente operacional por cada trinta alunos residentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 73-A/2021 - Diário da República n.º 62/2021, 1º Suplemento, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-a-2021-160534625), em vigor a partir de 2021-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 245-A/2020 - Diário da República n.º 202/2020, 1º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/245-a-2020-145714385), em vigor a partir de 2020-10-17"
+  }
+ }
+}

@@ -1,0 +1,793 @@
+---
+schema_version: '1.0'
+id: pt:dre:611341:por
+title: Decreto-Lei n.º 19/2010
+short_title: null
+summary: Cria a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 19/2010
+official_date: null
+publication_date: '2010-03-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 56/2010, Série I de 2010-03-22
+  number: '56'
+  series: I
+  supplement: null
+  pages: 900 - 906
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/03/05600/0090000906.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-09-26'
+version_history:
+  file: decreto-lei-19-2010.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-03-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-11-18'
+    amending: pt:dre:146212:por
+    amending_title: Decreto-Lei n.º 108/2011
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 2.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 21.º
+  - date: '2015-09-26'
+    amending: pt:dre:70386136:por
+    amending_title: Decreto-Lei n.º 209/2015
+    changes:
+    - Adita Artigo 11.º-A
+  - date: '2016-07-03'
+    amending: pt:dre:74811909:por
+    amending_title: Decreto-Lei n.º 32/2016
+    changes:
+    - Altera Artigo 11.º-A
+  - date: '2017-06-17'
+    amending: pt:dre:107522251:por
+    amending_title: Decreto-Lei n.º 69/2017
+    changes:
+    - Altera Artigo 3.º
+  - date: '2018-06-12'
+    amending: pt:dre:115487877:por
+    amending_title: Decreto-Lei n.º 38/2018
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 2.º
+  - date: '2020-09-26'
+    amending: pt:dre:143741480:por
+    amending_title: Decreto-Lei n.º 75/2020
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 19.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/19/2010/p/cons/20200925/pt/html
+  oj: null
+  dre: '611341'
+  dre_path: /dr/detalhe/decreto-lei/19-2010-611341
+  internal: pt:dre:611341:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2010-611341
+  metadata_url: https://data.dre.pt/eli/dec-lei/19/2010/p/cons/20200925/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-115494536
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-115494536
+  retrieved_at: '2026-10-22T12:19:45Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d571419918b364c62d628cf318d7bf997ad0ac2cb4eaf24ce39efc01860bb03b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:19:45Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-19-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- somos Compras
+- Agência Nacional de Compras Públicas
+- Criação de Serviços
+- Estatuto
+- Serviço Nacional de Saúde
+- Gerap
+- Serviços Partilhados do Ministério da Saúde
+- Pessoa Colectiva de Direito Público
+- Ministério da Saúde
+- Serviço de Utilização Comum dos Hospitais
+- Trabalhador
+relationships:
+- type: amended_by
+  target: pt:dre:614848:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2010-614848
+  date: '2010-05-20'
+- type: amended_by
+  target: pt:dre:146212:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 2.º; Revoga Artigo 11.º; Revoga Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2011-146212
+  date: '2011-11-17'
+- type: amended_by
+  target: pt:dre:70386136:por
+  label: Adita Artigo 11.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2015-70386136
+  date: '2015-09-25'
+- type: amended_by
+  target: pt:dre:74811909:por
+  label: Altera Artigo 11.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2016-74811909
+  date: '2016-06-28'
+- type: amended_by
+  target: pt:dre:107522251:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2017-107522251
+  date: '2017-06-16'
+- type: amended_by
+  target: pt:dre:115487877:por
+  label: Altera Artigo 3.º; Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2018-115487877
+  date: '2018-06-11'
+- type: amended_by
+  target: pt:dre:143741480:por
+  label: Altera Artigo 6.º; Altera Artigo 10.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480
+  date: '2020-09-25'
+- type: cites
+  target: pt:dre:452883:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/2008/10/09/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/37/2007/02/19/p/dre
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+article_structure:
+  article_count: 35
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:19:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 19/2010
+
+Decreto-Lei n.º 19/2010
+
+de 22 de Março
+
+O Programa do XVIII Governo Constitucional prevê a continuação da reforma do Serviço Nacional de Saúde (SNS), referindo que o foco desta «é acrescentar valor para o cidadão, tendo por objectivo conseguir bons resultados de forma eficiente e mais equitativa».
+
+O SNS tem como finalidade «a efectivação, por parte do Estado, da responsabilidade que lhe cabe na protecção da saúde individual e colectiva». A forte componente pública do sistema de saúde determina a necessidade de uma gestão eficiente, por via da optimização dos meios existentes, criando-se mais valor com os recursos de que se dispõe.
+
+Estão em curso reformas estratégicas neste sector, designadamente ao nível da reorganização hospitalar, da consolidação da reforma dos cuidados de saúde primários e do desenvolvimento da rede nacional de cuidados continuados integrados. Estas reformas implicam a manutenção de um serviço nacional de saúde sustentável e bem gerido, evitando redundâncias em actividades de suporte e a multiplicação de custos.
+
+Neste contexto, há que assegurar a gestão partilhada de recursos, de modo a garantir que são dadas as respostas adequadas aos desafios actuais e futuros do sistema de saúde, confirmando e assegurando o seu carácter público, bem como a universalidade na acessibilidade aos recursos.
+
+A adopção de serviços partilhados visa assim a promoção de eficácia e eficiência em organizações dos sectores público e privado, permitindo não só elevadas poupanças, criação de sinergias e aumento de produtividade, como também benefícios ao nível da qualidade do serviço prestado e da qualidade e celeridade da informação de gestão produzida.
+
+Deixa de pender sobre o Estado e as instituições e serviços do SNS a responsabilidade pelo fornecimento de serviços que, pela sua natureza e relevância estratégica, podem e devem ser garantidos por um único fornecedor a todas as entidades do sistema de saúde, o que permite a sua libertação para se concentrarem na prossecução das suas actividades nucleares: a prestação de cuidados de saúde aos cidadãos.
+
+A adopção do modelo de serviços partilhados que este decreto-lei concretiza constitui pois um factor de aceleração do ritmo de implementação das reformas que se encontram em curso na área da saúde, assegurando e valorizando, simultaneamente, o carácter público do SNS.
+
+A criação de uma pessoa colectiva de direito público de natureza empresarial, dotada de autonomia administrativa, financeira e patrimonial, que tenha por objecto principal a prestação de serviços em matéria de compras e logística, de serviços financeiros e de recursos humanos, em moldes empresariais, é a solução que melhor pode corresponder à concretização dos objectivos definidos.
+
+O nível de investimento exigido para a implementação e operação de uma entidade capaz de assegurar a execução destes serviços para, no limite, todos os estabelecimentos e instituições do SNS e órgãos e serviços do Ministério da Saúde, a especificidade da dimensão do serviço público de saúde em Portugal, a comunhão subjacente aos serviços partilhados e a inexistência em Portugal de oferta privada adequada à implementação de alternativas equiparadas, justifica ainda a natureza exclusiva, na área da saúde, de que beneficia a entidade pública empresarial a criar.
+
+Em todo o caso, tendo presente que os serviços partilhados promovem ganhos em termos de economia de escala, exige-se a articulação da pessoa colectiva de direito público de natureza empresarial, que agora se cria, com outras da mesma natureza, nomeadamente com a Gestão Partilhada de Recursos da Administração Pública, E. P. E. (GERAP, E. P. E.), e com a Agência Nacional de Compras Públicas, E. P. E. (ANCP, E. P. E.), com vista a assegurar a subsidiariedade da sua actuação face aos fins e competências prosseguidos por estas entidades, assim garantindo a inexistência de duplicações e redundância no exercício de suas atribuições e competências.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei cria a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., adiante abreviadamente designada por SPMS, E. P. E., e aprova os seus Estatutos, constantes do anexo ao presente decreto-lei que dele faz parte integrante.
+
+###### Artigo 2.º — Criação da SPMS, E. P. E., e aprovação dos Estatutos
+
+1 - É criada a SPMS, E. P. E., que tem a natureza de pessoa colectiva de direito público de natureza empresarial, dotada de personalidade jurídica, autonomia administrativa e financeira e de património próprio, nos termos do regime jurídico do sector empresarial do Estado, aprovado pelo Decreto-Lei n.º 558/99, de 17 de Dezembro, estando sujeita à tutela dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+2 - São aprovados os Estatutos da SPMS, E. P. E., constantes do anexo do presente decreto-lei e que dele faz parte integrante.
+
+3 - A SPMS, E. P. E., rege-se pelo regime jurídico aplicável às entidades públicas empresariais, com as especificidades previstas neste decreto-lei e nos seus Estatutos, e pelo respectivo regulamento interno, o qual deve ser aprovado e submetido a homologação do membro do Governo responsável pela área da saúde no prazo de 90 dias a contar da data da entrada em vigor do presente decreto-lei.
+
+4 - O presente decreto-lei constitui título bastante para efeitos de registo junto dos serviços de registo comercial.
+
+###### Artigo 3.º — Atribuições
+
+1 - A SPMS, E. P. E., tem por atribuições a prestação de serviços partilhados específicos da área da saúde em matéria de compras e logística, de serviços financeiros, de recursos humanos e de sistemas e tecnologias de informação e comunicação aos estabelecimentos e serviços do Serviço Nacional de Saúde (SNS), independentemente da sua natureza jurídica, bem como aos órgãos e serviços do Ministério da Saúde e a quaisquer outras entidades, quando executem actividades específicas da área da saúde.
+
+2 - No âmbito dos serviços partilhados de compras e logística, a SPMS, E. P. E., tem por missão centralizar, optimizar e racionalizar a aquisição de bens e serviços e disponibilizar serviços de logística, possuindo atribuições em matéria de estratégia de compras, procedimentos pré-contratuais, contratação pública, logística interna, pagamentos e monitorização de desempenho.
+
+3 - No âmbito dos serviços partilhados financeiros, a SPMS, E. P. E., tem por missão a cooperação, a partilha de conhecimentos e de informação e o desenvolvimento de actividades de prestação de serviços nas áreas de gestão financeira e de contabilidade, possuindo atribuições em matéria de planeamento e preparação de orçamento, controlo orçamental, gestão de contratos, contabilidade analítica, contabilidade geral, pagamentos e cobranças e tesouraria.
+
+4 - No âmbito dos serviços partilhados de recursos humanos, a SPMS, E. P. E., tem por missão a disponibilização de um serviço partilhado de recursos humanos de elevada eficiência e níveis de automatização, possuindo atribuições em matéria de levantamento da informação e diagnóstico, processamento de salários e indicadores de gestão.
+
+5 - No âmbito dos serviços partilhados de sistemas e tecnologias de informação e comunicação, a SPMS, E. P. E., tem por missão a cooperação, a partilha de conhecimentos e informação e o desenvolvimento de actividades de prestação de serviços nas áreas dos sistemas e tecnologias de informação e de comunicação, garantindo a operacionalidade e segurança das infra-estruturas tecnológicas e dos sistemas de informação do Ministério da Saúde e promovendo a definição e utilização de normas, metodologias e requisitos que garantam a interoperabilidade e interconexão dos sistemas de informação da saúde, entre si e com os sistemas de informação transversais à Administração Pública.
+
+6 - A SPMS, E. P. E., pode, acessoriamente, exercer quaisquer actividades, complementares ou subsidiárias do seu objecto principal, que não prejudiquem a prossecução do mesmo.
+
+7 - A SPMS, E. P. E., assegura o funcionamento do Centro de Atendimento do Serviço Nacional de Saúde (CASNS), bem como do Centro de Contacto do Serviço Nacional de Saúde (CCSNS) que sucede àquele e do Centro Nacional de TeleSaúde (CNTS).
+
+8 - Para efeitos do disposto no número anterior, relativamente ao CASNS e ao CCSNS, a Direção-Geral de Saúde (DGS) colabora com a SPMS, E. P. E., realizando auditorias clínicas e de qualidade.
+
+9 - No âmbito dos serviços partilhados de conferência de faturas de medicamentos, de meios complementares de diagnóstico e terapêutica e de outras áreas de prestações de saúde, a SPMS, E. P. E., tem por missão assegurar a atividade e a gestão do Centro de Controlo e Monitorização do SNS (CCMSNS).
+
+10 - Para a realização do seu objecto, a SPMS, E. P. E., pode ainda constituir ou participar noutras empresas públicas ou sociedades, observados os requisitos previstos na lei aplicável e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2018-115487877), em vigor a partir de 2018-06-12, produz efeitos a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2017-107522251), em vigor a partir de 2017-06-17
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2011 - Diário da República n.º 221/2011, Série I de 2011-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2011-146212), em vigor a partir de 2011-11-18
+
+###### Artigo 4.º — Âmbito dos serviços da SPMS, E. P. E.
+
+1 - Sem prejuízo do disposto no n.º 3 e das atribuições da Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E. (GeRAP), e da Agência Nacional de Compras Públicas, E. P. E. (ANCP), em serviços partilhados transversais à Administração Pública, a SPMS, E. P. E., exerce em exclusividade a actividade de disponibilização dos serviços partilhados específicos da área da saúde em matéria de compras e logística, financeiros, recursos humanos e tecnologias de informação e de comunicação aos estabelecimentos e serviços do SNS, independentemente da sua natureza jurídica, bem como aos órgãos e serviços do Ministério da Saúde, nos casos em que estes recorram a uma solução de serviços partilhados para assegurar o exercício daquelas funções, sem prejuízo da utilização das ferramentas de interoperabilidade da Agência para a Modernização Administrativa, I. P.
+
+2 - Para efeitos do disposto no número anterior, a SPMS, E. P. E., tem a obrigação de contratar os bens e serviços de que não disponha e que sejam necessários à prossecução das atribuições estabelecidas no artigo anterior, respeitando as regras de contratação pública e de boa gestão aplicáveis às empresas do sector empresarial do Estado.
+
+3 - Por despacho do membro do Governo responsável pela área da saúde, a utilização dos serviços partilhados disponibilizados pela SPMS, E. P. E., pode ser determinada, com carácter de generalidade, para a totalidade ou parte dos serviços e instituições do SNS ou dos órgãos e serviços do Ministério da Saúde.
+
+4 - Os contratos-programa a celebrar com os hospitais E. P. E. podem estabelecer a forma de articulação entre a SPMS, E. P. E., e essas entidades.
+
+5 - A SPMS, E. P. E., é a central de compras para o sector específico da saúde, sendo-lhe aplicável, em matéria de estrutura e funcionamento, o disposto no Decreto-Lei n.º 200/2008, de 9 de Outubro.
+
+6 - As categorias de bens e serviços a contratar específicos da área da saúde e os termos da contratação pela SPMS, E. P. E., enquanto central de compras, são definidos por portaria do membro do Governo responsável pela área da saúde.
+
+7 - A actividade de central de compras da SPMS, E. P. E., em matéria de bens e serviços específicos para o sector da saúde, pode abranger a negociação e aquisição de bens e serviços mediante contrato de mandato administrativo a celebrar entre esta entidade e as entidades compradoras interessadas.
+
+8 - A SPMS, E. P. E., exerce a função de unidade ministerial de compras (UMC), com as funções previstas no Decreto-Lei n.º 37/2007, de 19 de Fevereiro, relativamente aos bens e serviços das instituições do SNS que se encontrem vinculadas ao Sistema Nacional de Compras Públicas, contratando a aquisição de bens ou de serviços ao abrigo dos acordos quadro da ANCP, e aos bens e serviços da área das tecnologias de informação e comunicação dos serviços e organismos do Ministério da Saúde e instituições do SNS.
+
+9 - As categorias de bens e serviços objecto de acordo quadro da ANCP, cuja contratação passa a ser centralizada pela SPMS, E. P. E., são definidas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+10 - Sem prejuízo do disposto no Decreto-Lei n.º 37/2007, de 19 de Fevereiro, as aquisições a efectuar ao abrigo dos contratos públicos de aprovisionamento celebrados pela SPMS, E. P. E., dos bens e serviços a que se refere o número anterior, podem ser tornadas obrigatórias, por despacho do membro do Governo responsável pela área da saúde, para todos os serviços e estabelecimentos do SNS.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2011 - Diário da República n.º 221/2011, Série I de 2011-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2011-146212), em vigor a partir de 2011-11-18
+
+> Retificado pelo/a [Declaração de Rectificação n.º 15/2010 - Diário da República n.º 98/2010, Série I de 2010-05-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2010-614848), em vigor a partir de 2010-04-01
+
+###### Artigo 5.º — Articulação com outras entidades
+
+1 - O disposto no presente decreto-lei não prejudica o regime do sistema nacional de compras públicas, constante do Decreto-Lei n.º 37/2007, de 19 de Fevereiro, nem o disposto nos diplomas que o regulamentam.
+
+2 - Na prossecução das atribuições previstas nos n.os 2, 3, 4 e 5 do artigo 3.º, a SPMS, E. P. E., actua subsidiariamente face aos fins e competências prosseguidos pela GeRAP e pela ANCP, devendo articular-se com as mesmas para esse efeito.
+
+3 - SPMS, E. P. E., deve articular com a ANCP, E. P. E., a aplicação dos acordos quadro celebrados no âmbito do Sistema Nacional de Compras Públicas (SNCP) às entidades vinculadas do SNS, podendo tal aplicação ser estendida às entidades voluntárias definidas no n.º 3 do artigo 3.º do Decreto-Lei n.º 37/2007, de 19 de Fevereiro.
+
+4 - Para efeitos do disposto nos números anteriores, os termos e condições da articulação entre a SPMS, E. P. E., e a GERAP, E. P. E., são definidos em protocolo a celebrar, entre ambas as entidades, e os da articulação entre a SPMS, E. P. E., e a ANCP, E. P. E., através de contrato de adesão da primeira ao SNCP, devendo ambos os instrumentos contratuais ser celebrados no prazo de 60 dias a contar da entrada em vigor do presente decreto-lei.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 108/2011 - Diário da República n.º 221/2011, Série I de 2011-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2011-146212), em vigor a partir de 2011-11-18
+
+> Retificado pelo/a [Declaração de Rectificação n.º 15/2010 - Diário da República n.º 98/2010, Série I de 2010-05-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2010-614848), em vigor a partir de 2010-04-01
+
+###### Artigo 6.º — Capital estatutário
+
+1 - O capital estatutário da SPMS, E. P. E., é inicialmente de (euro) 6 000 000, detido pelo Estado e realizado em numerário.
+
+2 - O capital estatutário da SPMS, E. P. E., pode ser aumentado, em numerário ou por entradas em espécie, ou reduzido por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde, que constitui título bastante para todos os efeitos legais, incluindo os de registo.
+
+###### Artigo 7.º — Património
+
+Integram o património próprio da SPMS, E. P. E.:
+
+a) Os bens e direitos transmitidos nos termos do artigo 11.º;
+
+b) Os bens e direitos adquiridos no âmbito da sua actividade.
+
+###### Artigo 8.º — Poderes de autoridade
+
+Para o exercício das suas atribuições, a SPMS, E. P. E., detém competências, poderes e obrigações conferidas ao Estado pelas disposições legais e regulamentares nas seguintes matérias:
+
+a) Liquidação e cobrança, voluntária ou coerciva, de taxas e rendimentos provenientes das suas actividades;
+
+b) Execução coerciva das demais decisões de autoridade;
+
+c) Protecção das suas instalações e do seu pessoal;
+
+d) Regulamentação e fiscalização dos serviços prestados no âmbito das suas actividades e à aplicação das correspondentes sanções, nos termos da lei.
+
+###### Artigo 9.º — Regime do pessoal
+
+1 - Os trabalhadores da SPMS, E. P. E., estão sujeitos ao regime do contrato de trabalho, de acordo com o Código do Trabalho e demais legislação laboral.
+
+2 - O regime de protecção social do pessoal da SPMS, E. P. E., é o regime geral da segurança social.
+
+3 - Os trabalhadores com relação jurídica de emprego público podem exercer funções na SPMS, E. P. E., por acordo de cedência de interesse público, nos termos da Lei n.º 12-A/2008, de 27 de Fevereiro.
+
+4 - Para efeitos do Código do Trabalho, a SPMS, E. P. E., constitui uma estrutura organizativa comum dos órgãos e serviços do Ministério da Saúde.
+
+###### Artigo 10.º — Poderes de tutela, de supervisão e de controlo
+
+1 - A tutela económica e financeira da SPMS, E. P. E., é exercida pelos membros do Governo responsáveis pelas áreas das finanças e da saúde e, sem prejuízo do regime jurídico aplicável às entidades públicas empresariais, compreende:
+
+a) O poder de exercer os poderes de tutela integrativa, nos termos do n.º 2;
+
+b) O poder de exigir todas as informações e documentos julgados necessários para acompanhar a actividade da empresa;
+
+c) O poder de determinar inspecções ou inquéritos ao funcionamento da empresa ou a certos aspectos deste, independentemente da existência de indícios de prática de irregularidades;
+
+d) O poder de conceder indemnizações compensatórias.
+
+2 - Estão sujeitos a tutela integrativa os seguintes actos:
+
+a) Aprovar os planos de actividade e contas;
+
+b) Aprovar os subsídios e indemnizações compensatórias;
+
+c) Aprovar os orçamentos anuais de exploração, de investimento e financeiros, bem como as respectivas actualizações que impliquem redução de resultados previsionais, acréscimo de despesas de investimento ou de necessidades de financiamento;
+
+d) Aprovar os documentos relativos à prestação de contas, aplicação de resultados e utilização de reservas;
+
+e) As dotações para capital e outras verbas a conceder pelo Orçamento do Estado e fundos autónomos;
+
+f) A realização de aumentos e reduções do capital estatutário;
+
+g) A constituição ou participação da SPMS, E. P. E., no capital de outras sociedades para a prossecução dos pertinentes objectivos estratégicos;
+
+h) Os demais actos que, nos termos da legislação aplicável, necessitem de autorização ou aprovação tutelar.
+
+3 - A homologação de preços, tarifas, contrapartidas e níveis de serviço a praticar pela SPMS, E. P. E., no âmbito da sua actividade é da competência dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+4 - A supervisão dos níveis de serviços da SPMS, E. P. E., no âmbito da sua actividade é exercida pela Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.).
+
+5 - O membro do Governo responsável pela área da saúde pode emitir orientações e instruções à SPMS, E. P. E., e verificar o seu cumprimento, no âmbito da prestação da sua actividade prevista no artigo 3.º, quanto aos seus objectivos estratégicos, o orçamento, a programação da actividade económica da empresa e outras decisões de importância análoga.
+
+###### Artigo 11.º — Cessão de posições jurídicas
+
+1 - A SPMS, E. P. E., sucede na posição de central de compras do Agrupamento Complementar de Empresas «Somos Compras» nos termos previstos no número seguinte, a extinguir, sendo-lhe aplicável o disposto no n.º 3 do artigo 10.º do Decreto-Lei n.º 200/2008, de 9 de Outubro.
+
+2 - As posições jurídicas dos Agrupamentos Complementares de Empresas «Somos Compras», «Somos Contas» e «Somos Pessoas», bem como das estruturas do SUCH - Serviço de Utilização Comum dos Hospitais para a prossecução das actividades daqueles agrupamentos, devem transmitir-se para a SPMS, E. P. E., no prazo de 60 dias a contar da entrada em vigor do presente decreto-lei, nos termos e condições estabelecidos em acordo a celebrar entre a SPMS, E. P. E., e aquelas entidades, o qual fica sujeito a homologação dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+3 - As posições jurídicas a que se refere o número anterior compreendem a universalidade de bens e direitos detida por cada uma daquelas entidades e afecta ao exercício das actividades em causa, e abrange todo o activo e passivo, património físico e jurídico e posições em contratos em vigor que integram aquelas universalidades.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 108/2011 - Diário da República n.º 221/2011, Série I de 2011-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2011-146212), em vigor a partir de 2011-11-18
+
+> Retificado pelo/a [Declaração de Rectificação n.º 15/2010 - Diário da República n.º 98/2010, Série I de 2010-05-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2010-614848), em vigor a partir de 2010-04-01
+
+###### Artigo 11.º-A — Posições jurídicas
+
+1 - As posições jurídicas do Agrupamento Complementar de Empresa 'Somos Compras', detidas pelo SUCH - Serviço de Utilização Comum dos Hospitais (SUCH), pelo Centro Hospitalar Lisboa Central, E. P. E., pelo Centro Hospitalar Lisboa Ocidental, E. P. E., e pelo Centro Hospitalar de Lisboa Norte, E. P. E., bem como as posições jurídicas dos Agrupamentos Complementares de Empresas 'Somos Contas' e 'Somos Pessoas' detidas pelo SUCH, transmitem-se para a SPMS, E. P. E.
+
+2 - As posições jurídicas a que se refere o número anterior compreendem a universalidade de bens e direitos detidos por cada uma daquelas entidades e afeta ao exercício das atividades em causa, e abrange todo o ativo e passivo, património físico e jurídico e posições em contratos em vigor que integram aquelas universalidades.
+
+3 - O SUCH, o Centro Hospitalar Lisboa Central, E. P. E., o Centro Hospitalar Lisboa Ocidental, E. P. E., e o Centro Hospitalar de Lisboa Norte, E. P. E., não têm direito a ser ressarcidos pela transferência das participações que detêm sobre os Agrupamentos Complementares de Empresas 'Somos Compras', 'Somos Contas' e 'Somos Pessoas', nem por outras despesas incorridas resultantes da sua participação nestes agrupamentos complementares de empresas, considerando-se extintas as dívidas dos mesmos para com as mesmas entidades, nomeadamente o direito de regresso que os Centros Hospitalares de Lisboa Norte, E. P. E., Lisboa Central, E. P. E., e Lisboa Ocidental, E. P. E., e o SUCH adquiriram pela despesa em que incorreram resultante da responsabilidade solidária no Agrupamento Complementar de Empresa 'Somos Compras'.
+
+4 - Para efeitos do disposto no número anterior, consideram-se extintas todas as dívidas do SUCH ao Centro Hospitalar Lisboa Central, E. P. E., ao Centro Hospitalar Lisboa Ocidental, E. P. E., e ao Centro Hospitalar de Lisboa Norte, E. P. E., relativas ao direito de regresso destes Centros Hospitalares sobre o SUCH, decorrente da responsabilidade solidária enquanto entidades do Agrupamento Complementar Empresas Somos Compras, ACE.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2016 - Diário da República n.º 122/2016, Série I de 2016-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2016-74811909), em vigor a partir de 2016-07-03, produz efeitos a partir de 2015-09-26
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 209/2015 - Diário da República n.º 188/2015, Série I de 2015-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2015-70386136), em vigor a partir de 2015-09-26
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge.
+
+Promulgado em 11 de Março de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 12 de Março de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo — (a que se refere o n.º 2 do artigo 2.º)
+
+ESTATUTOS DA SPMS - SERVIÇOS PARTILHADOS DO MINISTÉRIO DA SAÚDE, E. P. E.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 15/2010 - Diário da República n.º 98/2010, Série I de 2010-05-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2010-614848), em vigor a partir de 2010-04-01
+
+### Capítulo I — Natureza, regime aplicável, objecto e património
+
+###### Artigo 1.º — Natureza, sede e duração
+
+1 - A SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., adiante abreviadamente designada por SPMS, E. P. E., é uma pessoa colectiva de direito público de natureza empresarial dotada de personalidade jurídica, autonomia administrativa, financeira e patrimonial, nos termos do disposto no regime jurídico do sector empresarial do Estado, Decreto-Lei n.º 558/99, de 17 de Dezembro, e da legislação aplicável às pessoas colectivas públicas de natureza empresarial, sujeita à tutela e superintendência dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+2 - A SPMS, E. P. E., tem a sua sede no concelho de Lisboa, podendo o conselho de administração deliberar a sua deslocação para qualquer ponto do território nacional.
+
+3 - A SPMS, E. P. E., pode instalar delegações ou serviços em qualquer ponto do território nacional.
+
+4 - A SPMS, E. P. E., é constituída por tempo indeterminado.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 15/2010 - Diário da República n.º 98/2010, Série I de 2010-05-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-2010-614848), em vigor a partir de 2010-04-01
+
+###### Artigo 2.º — Atribuições
+
+1 - A SPMS, E. P. E., tem por atribuições a prestação de serviços partilhados específicos da área da saúde em matéria de compras e logística, de serviços financeiros, de recursos humanos e de sistemas e tecnologias de informação e comunicação aos estabelecimentos e serviços do Serviço Nacional de Saúde (SNS), independentemente da sua natureza jurídica, bem como aos órgãos e serviços do Ministério da Saúde e a quaisquer outras entidades, quando executem atividades específicas da área da saúde, e ainda a gestão e exploração direta do Centro de Controlo e Monitorização do SNS (CCMSNS).
+
+2 - No âmbito dos serviços partilhados de compras e logística, a SPMS, E. P. E., tem por missão centralizar, optimizar e racionalizar a aquisição de bens e serviços e disponibilizar serviços de logística, possuindo competências em matéria de estratégia de compras, procedimentos pré-contratuais, contratação pública, logística interna, pagamentos e monitorização de desempenho.
+
+3 - No âmbito dos serviços partilhados financeiros, a SPMS, E. P. E., tem por missão a cooperação, a partilha de conhecimentos e de informação e o desenvolvimento de actividades de prestação de serviços nas áreas de gestão financeira e de contabilidade, possuindo competências em matéria de planeamento e preparação de orçamento, controlo orçamental, gestão de contratos, contabilidade analítica, contabilidade geral, pagamentos e cobranças e tesouraria.
+
+4 - No âmbito dos serviços partilhados de recursos humanos, a SPMS, E. P. E., tem por missão a disponibilização de um serviço partilhado de recursos humanos de elevada eficiência e níveis de automatização, possuindo competências, nomeadamente em matéria de levantamento da informação e diagnóstico, processamento de salários e indicadores de gestão.
+
+5 - No âmbito dos serviços partilhados de sistemas e tecnologias de informação, a SPMS, E. P. E., tem por missão a cooperação, a partilha de conhecimentos e informação e o desenvolvimento de actividades de prestação de serviços nas áreas dos sistemas e tecnologias de informação e de comunicação, garantindo a operacionalidade e segurança das infra-estruturas tecnológicas e dos sistemas de informação do Ministério da Saúde e promovendo a definição e utilização de normas, metodologias e requisitos que garantam a interoperabilidade e interconexão dos sistemas de informação da saúde entre si e com os sistemas de informação transversais à Administração Pública.
+
+6 - No âmbito dos serviços partilhados de conferência de faturas de medicamentos, de meios complementares de diagnóstico e terapêutica e de outras áreas de prestações de saúde, a SPMS, E. P. E., tem por missão assegurar a atividade e a gestão do CCMSNS.
+
+7 - A SPMS, E. P. E., pode, acessoriamente, exercer quaisquer actividades, complementares ou subsidiárias do seu objecto principal, que não prejudiquem a prossecução do mesmo.
+
+8 - Para a realização do seu objecto, a SPMS, E. P. E., pode ainda constituir ou participar noutras empresas públicas ou sociedades, observados os requisitos previstos na lei aplicável e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2018-115487877), em vigor a partir de 2018-06-12, produz efeitos a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 108/2011 - Diário da República n.º 221/2011, Série I de 2011-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2011-146212), em vigor a partir de 2011-11-18
+
+###### Artigo 3.º — Programa plurianual
+
+A SPMS, E. P. E., desenvolve as actividades compreendidas no seu objecto social, previsto no artigo anterior, com base em programas plurianuais e nos termos e condições constantes do contrato a estabelecer com o Estado, no qual é igualmente prevista a respectiva contrapartida pelo serviço prestado.
+
+###### Artigo 4.º — Capital estatutário
+
+O capital estatutário da SPMS, E. P. E., é inicialmente de (euro) 6 000 000, detido pelo Estado e realizado em numerário.
+
+###### Artigo 5.º — Património
+
+1 - Integram o património próprio da SPMS, E. P. E.:
+
+a) Os bens e direitos transmitidos nos termos do artigo 11.º do decreto-lei que aprova os presentes Estatutos;
+
+b) Os bens e direitos adquiridos no âmbito da sua actividade.
+
+2 - Constituem títulos de aquisição bastante dos bens integrados no património autónomo da SPMS, E. P. E., para todos os efeitos legais, incluindo os de registo, o disposto no presente decreto-lei e os bens e direitos constantes da alínea a) do número anterior.
+
+3 - A SPMS, E. P. E., promove junto das conservatórias e serviços competentes o registo dos bens e direitos sujeitos a registo que constituam o seu património autónomo.
+
+### Capítulo II — Órgãos sociais
+
+Artigo 6.º
+
+Órgãos
+
+São órgãos da SPMS, E. P. E.:
+
+a) O conselho de administração;
+
+b) O fiscal único.
+
+###### Artigo 6.º — Órgãos
+
+São órgãos da SPMS, E. P. E.:
+
+a) O conselho de administração;
+
+b) O conselho fiscal;
+
+c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+#### Secção I — Conselho de administração
+
+###### Artigo 7.º — Composição e mandato
+
+1 - O conselho de administração é composto por três membros, sendo um deles presidente e os restantes vogais.
+
+2 - Os membros do conselho de administração são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, permanecendo aqueles no exercício das suas funções até efectiva substituição.
+
+###### Artigo 8.º — Competências do conselho de administração
+
+Compete ao conselho de administração, para além do exercício de todos os poderes de gestão que não estejam reservados a outros órgãos, em especial:
+
+a) Propor os planos de acção anuais e plurianuais e respectivos orçamentos, bem como os demais instrumentos de gestão previsional legalmente previstos, e assegurar a respectiva execução;
+
+b) Promover a celebração de contratos-programa e outros instrumentos jurídicos que se revelem adequados;
+
+c) Definir a estrutura e organização interna da empresa e o seu funcionamento;
+
+d) Definir as políticas referentes a recursos humanos, incluindo as remunerações dos trabalhadores e dos titulares dos cargos de direcção e chefia;
+
+e) Autorizar a realização de trabalho extraordinário, bem como autorizar o respectivo pagamento;
+
+f) Designar o pessoal para cargos dirigentes;
+
+g) Aprovar o regulamento disciplinar do pessoal e as condições de prestação e disciplina do trabalho;
+
+h) Elaborar o balanço social;
+
+i) Apresentar os documentos de prestação de contas, nos termos definidos na lei;
+
+j) Designar o auditor interno;
+
+l) Aprovar e submeter a homologação do membro do Governo responsável pela área da saúde o regulamento interno e fazer cumprir as disposições legais e regulamentares aplicáveis;
+
+m) Acompanhar e avaliar sistematicamente a actividade desenvolvida pela SPMS, E. P. E.;
+
+n) Tomar conhecimento e determinar as medidas adequadas, se for caso disso, sobre as queixas e reclamações apresentadas pelos utentes;
+
+o) Decidir sobre a admissão e gestão do pessoal;
+
+p) Autorizar a aplicação de todas as modalidades do contrato individual de trabalho;
+
+q) Exercer a competência em matéria disciplinar prevista na lei;
+
+r) Acompanhar a execução do orçamento, aplicando as medidas destinadas a corrigir os desvios em relação às previsões realizadas;
+
+s) Assegurar a regularidade da cobrança das dívidas e autorizar a realização e o pagamento da despesa da SPMS, E. P. E.;
+
+t) Tomar as providências necessárias à conservação do património afecto ao desenvolvimento da sua actividade e autorizar as despesas inerentes, tal como previstas no plano de investimentos;
+
+u) Deliberar sobre a realização de empréstimos ou outras operações financeiras, nos termos do regime jurídico do sector empresarial do Estado;
+
+v) Deliberar sobre a aquisição, alienação ou oneração de bens do seu património autónomo e a realização de investimentos e estabelecer os respectivos termos e condições, quando o respectivo valor não exceda o correspondente a 10 % do capital social;
+
+x) Aceitar doações, heranças ou legados;
+
+z) Constituir mandatários, em juízo e fora dele, incluindo o poder de substabelecer;
+
+aa) Exercer os demais poderes e praticar os actos conferidos ou previstos na lei.
+
+###### Artigo 9.º — Presidente do conselho de administração
+
+1 - O presidente assegura a representação institucional da empresa e, para além dos poderes que lhe cabem como membro deste órgão, exerce as seguintes competências próprias:
+
+a) Coordenar a actividade do conselho de administração e dirigir as respectivas reuniões;
+
+b) Garantir a correcta execução das deliberações do conselho de administração;
+
+c) Submeter a aprovação ou a autorização dos membros do Governo competentes todos os actos que delas careçam;
+
+d) Assegurar o regular funcionamento de todos os serviços;
+
+e) Representar a SPMS, E. P. E., em juízo e fora dele e em convenção arbitral, podendo designar mandatários para o efeito constituídos;
+
+f) Aprovar, de acordo com as deliberações do conselho de administração, as minutas de contratos e outorgar os contratos relativos a pessoal, estudos, obras e fornecimento de materiais, bens ou serviços;
+
+g) Assegurar as relações com os órgãos de tutela e com os demais organismos públicos;
+
+h) Exercer as competências que lhe sejam delegadas.
+
+2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado.
+
+###### Artigo 10.º — Funcionamento do conselho de administração
+
+1 - O conselho de administração reúne, pelo menos, mensalmente e, ainda, sempre que convocado pelo presidente ou por solicitação dos dois vogais ou do órgão de fiscalização, sem prejuízo de fixação, pelo próprio conselho, de calendário de reuniões com maior frequência.
+
+2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno.
+
+3 - As deliberações só são válidas quando se encontrar presente na reunião a maioria dos membros do conselho em exercício, sendo proibido o voto por correspondência ou por procuração.
+
+4 - O presidente do conselho de administração, ou quem o substitua, tem voto de qualidade.
+
+5 - Das reuniões do conselho de administração devem ser lavradas actas assinadas por todos os membros do conselho presentes.
+
+6 - São fixadas em duas o número de faltas a reuniões, seguidas ou interpoladas, sem justificação aceite pelo órgão de administração, as quais conduzem a uma falta definitiva do administrador.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+###### Artigo 11.º — Delegação de poderes
+
+1 - O conselho de administração pode delegar competências, com poderes de subdelegação, no presidente, em qualquer dos seus vogais ou no demais pessoal dirigente, com excepção das previstas nas alíneas a) a l), o), r), u) e v) do artigo 8.º, definindo em acta os limites e condições do seu exercício.
+
+2 - Pode haver atribuição de pelouros especiais aos membros do conselho de administração correspondentes à gestão de um ou mais serviços ou unidades orgânicas da empresa.
+
+###### Artigo 12.º — Vinculação
+
+1 - A SPMS, E. P. E., obriga-se:
+
+a) Pela assinatura, com indicação da qualidade, de dois membros do conselho de administração, ou de quem esteja legitimado para o efeito, nos termos do n.º 1 do artigo anterior;
+
+b) Pela assinatura de um membro do conselho de administração, no âmbito de delegação de poderes;
+
+c) Pela assinatura de mandatários, no âmbito dos poderes que lhes tenham sido conferidos e nos limites das respectivas procurações.
+
+2 - Tratando-se de documentos emitidos em massa, as assinaturas podem ser de chancela.
+
+###### Artigo 13.º — Estatuto dos membros do conselho de administração
+
+1 - Aos membros do conselho de administração aplica-se o Estatuto do Gestor Público.
+
+2 - A remuneração dos membros do conselho de administração da SPMS, E. P. E., é fixada por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde, e varia em função da complexidade de gestão.
+
+3 - É aplicável aos membros do conselho de administração o regime geral da segurança social.
+
+#### Secção II — Fiscal único
+
+###### Artigo 14.º — Conselho fiscal e revisor oficial de contas
+
+1 - A fiscalização e o controlo da legalidade da gestão financeira e patrimonial da SPMS, E. P. E., competem a um conselho fiscal e a um revisor oficial de contas ou uma sociedade de revisores oficiais de contas que não seja membro daquele órgão, a designar obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários.
+
+2 - O conselho fiscal é constituído por três membros efetivos, sendo um deles o presidente do órgão, e por um suplente.
+
+3 - Os membros do conselho fiscal são nomeados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde, que fixa a respetiva remuneração, por um período de três anos, apenas renovável uma vez.
+
+4 - O revisor oficial de contas é nomeado, sob proposta fundamentada do conselho fiscal, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde, que fixa a respetiva remuneração, tendo o mandato a duração de três anos, renovável nos termos da lei.
+
+5 - Cessando o mandato do conselho fiscal e do revisor oficial de contas, mantêm-se os titulares em exercício de funções até à designação dos respetivos substitutos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+###### Artigo 15.º — Competências
+
+1 - O fiscal único tem as competências, os poderes e os deveres estabelecidos na lei e nos presentes Estatutos.
+
+2 - Ao fiscal único compete, especialmente:
+
+a) Fiscalizar a gestão e o cumprimento das normas reguladoras da atividade da empresa, tendo em vista, nomeadamente, a realização dos objetivos fixados nos orçamentos anuais;
+
+b) Apreciar e emitir parecer sobre o relatório anual de gestão e de controlo orçamental, as contas do exercício e os demais instrumentos de prestação de contas;
+
+c) Acompanhar com regularidade a gestão através de balancetes e mapas demonstrativos da execução orçamental;
+
+d) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;
+
+e) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;
+
+f) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira que seja submetido à sua consideração pelo conselho de administração;
+
+g) Dar parecer sobre o Plano de Atividades e Orçamento;
+
+h) Dar parecer prévio à realização de operações de financiamento ou celebração de atos ou negócios jurídicos dos quais resultem obrigações para a SPMS, E. P. E., superiores a 5 % do ativo líquido, salvo nos casos em que os mesmos tenham sido aprovados no plano de atividades e orçamento;
+
+i) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração;
+
+j) Acompanhar e pronunciar-se trimestralmente sobre a execução do contrato-programa e respetivas adendas.
+
+3 - Compete ao revisor oficial de contas o dever de proceder a todos os exames e verificações necessários à revisão e certificação legais das contas, bem como exercer as seguintes funções:
+
+a) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;
+
+b) Verificar, quando o julgue conveniente e pela forma que entenda adequada, a extensão da caixa e as existências de qualquer espécie de bens ou valores pertencentes à empresa ou por ela recebidos em garantia, depósito ou outro título;
+
+c) Verificar a exatidão dos documentos de prestação de contas;
+
+d) Verificar se os critérios valorimétricos adotados pela SPMS, E. P. E., conduzem a uma correta avaliação do património e dos resultados;
+
+e) Elaborar, a pedido do conselho fiscal, revisão limitada das demonstrações financeiras integradas nos relatórios trimestrais e no Plano de Atividades e Orçamento, elaborados e apresentados pelo conselho de administração.
+
+4 - Com base nos relatórios trimestrais elaborados pelo conselho de administração, o conselho fiscal deve emitir um relatório sucinto que reflita os controlos efetuados e as eventuais anomalias detetadas, bem como os eventuais desvios verificados em relação aos orçamentos e a identificação das respetivas causas, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+5 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal deve emitir um relatório e parecer ao mesmo, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+### Capítulo III — Gestão patrimonial e financeira
+
+###### Artigo 16.º — Instrumentos de gestão previsional
+
+A gestão financeira e patrimonial da SPMS, E. P. E., rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
+
+a) Planos plurianuais e anuais de actividades, de investimento e financeiros, com um horizonte de três anos;
+
+b) Orçamento anual de investimento e respectivas fontes de financiamento;
+
+c) Orçamento anual de exploração, desdobrado em orçamento de proveitos e orçamento de custos;
+
+d) Orçamento anual de tesouraria;
+
+e) Balanço previsional;
+
+f) Contratos-programa externos.
+
+###### Artigo 17.º — Reservas e fundos
+
+1 - A SPMS, E. P. E., deve fazer as reservas julgadas necessárias, sem prejuízo da obrigação relativa à existência de:
+
+a) Reserva legal;
+
+b) Reserva para investimentos.
+
+2 - Uma percentagem não inferior a 20 % dos resultados de cada exercício apurado de acordo com as normas contabilísticas vigentes é destinada à constituição da reserva legal.
+
+3 - A reserva legal pode ser utilizada para cobrir eventuais prejuízos de exercício.
+
+4 - Integram a reserva para investimentos, entre outras receitas:
+
+a) A parte dos resultados apurados em cada exercício que lhe for anualmente destinado;
+
+b) As receitas provenientes de comparticipações, dotações, subsídios, subvenções ou quaisquer compensações financeiras de que a SPMS, E. P. E., seja beneficiária e destinadas a esse fim.
+
+5 - Sem prejuízo da constituição das reservas referidas no n.º 1, os resultados de cada exercício têm o destino que venha a ser determinado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+###### Artigo 18.º — Contabilidade
+
+1 - A contabilidade da SPMS, E. P. E., deve corresponder às necessidades da gestão empresarial corrente e permitir um controlo orçamental permanente, bem como a fácil correspondência entre os valores patrimoniais e contabilísticos.
+
+2 - Na organização da sua contabilidade a SPMS, E. P. E., fica sujeita às normas do Sistema de Normalização Contabilística.
+
+###### Artigo 19.º — Documentos de prestação de contas
+
+Os instrumentos de prestação de contas da SPMS, E. P. E., a elaborar anualmente com referência a 31 de Dezembro de cada ano, são, designadamente, os seguintes:
+
+a) Relatório do conselho de administração dando conta da forma como foram atingidos os objectivos da empresa e analisando a eficiência desta nos vários domínios da sua actuação;
+
+b) Proposta de aplicação dos resultados;
+
+c) Relatório sobre a execução anual do plano plurianual de investimentos;
+
+d) Balanço e demonstração de resultados;
+
+e) Demonstração de fluxos de caixa;
+
+f) Relação dos empréstimos contraídos a médio e longo prazos;
+
+g) Certificação legal de contas;
+
+h) Relatório e parecer do conselho fiscal.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 75/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2020-143741480), em vigor a partir de 2020-09-26
+
+###### Artigo 20.º — Receitas
+
+1 - Constituem receitas da SPMS, E. P. E.:
+
+a) Os proveitos resultantes do exercício da sua actividade;
+
+b) Os rendimentos de bens próprios;
+
+c) As comparticipações, dotações, subsídios e compensações financeiras do Estado ou de outras entidades públicas;
+
+d) O produto da alienação de bens próprios e da constituição de direitos sobre eles;
+
+e) O produto de doações, heranças ou legados que lhe sejam destinados;
+
+f) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, devam pertencer-lhe;
+
+g) As cobradas por serviços prestados no âmbito do exercício das suas atribuições;
+
+h) Uma parcela da poupança obtida através da centralização das aquisições de bens e serviços.
+
+2 - No âmbito da gestão do pessoal em situação de mobilidade especial a actividade da SPMS, E. P. E., é remunerada nos termos definidos em contrato-programa a celebrar com a tutela.
+
+###### Artigo 21.º — Empréstimos
+
+A SPMS, E. P. E., pode contrair financiamentos, internos ou externos, a curto, médio ou longo prazo, em moeda nacional ou estrangeira, bem como emitir obrigações e papel comercial, nos termos do regime jurídico do sector empresarial do Estado.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 108/2011 - Diário da República n.º 221/2011, Série I de 2011-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2011-146212), em vigor a partir de 2011-11-18
+
+### Capítulo IV — Do pessoal
+
+###### Artigo 22.º — Regime jurídico do pessoal
+
+1 - O pessoal da SPMS, E. P. E., está sujeito ao regime jurídico do contrato de trabalho.
+
+2 - As condições de prestação e disciplina de trabalho são definidas em regulamento próprio da SPMS, E. P. E., devendo abranger todo o pessoal que desempenhe funções próprias, de natureza transitória ou permanente, sem prejuízo do disposto na lei e nos instrumentos de regulamentação colectiva de trabalho.

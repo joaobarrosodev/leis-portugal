@@ -1,0 +1,284 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:601534:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-152942885",
+ "dre_path": "/dr/detalhe/decreto-lei/34-2009-601534",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-02-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "152942983",
+    "152942984",
+    "152942985",
+    "152942986",
+    "152942987",
+    "152942988",
+    "152942989",
+    "152942990",
+    "152942991",
+    "152942992",
+    "152942993",
+    "152942994",
+    "152942995",
+    "152942997"
+   ]
+  },
+  {
+   "date": "2010-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:612653:por",
+     "title": "Decreto-Lei n.º 29/2010",
+     "published": "2010-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/29-2010-612653"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "152942983",
+    "152943004",
+    "152942985",
+    "152942986",
+    "152942987",
+    "152943006",
+    "152942989",
+    "152942990",
+    "152942991",
+    "152942992",
+    "152942993",
+    "152943005",
+    "152942995",
+    "152942996",
+    "152942997"
+   ]
+  },
+  {
+   "date": "2010-06-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:332747:por",
+     "title": "Resolução da Assembleia da República n.º 52/2010",
+     "published": "2010-06-07",
+     "dre_path": "/dr/detalhe/resolucao-assembleia-republica/52-2010-332747"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "152942983",
+    "152954400",
+    "152942985",
+    "152942986",
+    "152942987",
+    "152954401",
+    "152942989",
+    "152942990",
+    "152942991",
+    "152942992",
+    "152942993",
+    "152954402",
+    "152942995",
+    "152942996",
+    "152942997"
+   ]
+  }
+ ],
+ "fragments": {
+  "152942983": {
+   "fragment_id": "152942886",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 34/2009\n\nde 6 de Fevereiro\n\nA crise económica e financeira que se instalou nos últimos meses assume dimensão mundial, razão por que a União Europeia se concertou com os seus parceiros internacionais com o propósito de a debelar. A cimeira de Washington, de 15 de Novembro de 2008, definiu, por sua iniciativa, um programa de trabalho ambicioso, tendo como objectivos o relançamento concertado da economia mundial, uma regulação mais eficaz dos mercados financeiros, a melhoria do governo mundial e o afastamento do proteccionismo. Este programa deverá ser posto em prática de acordo com o calendário pré-definido.\n\nNa sequência do referido programa, estabeleceu-se, de forma coordenada no quadro europeu, as medidas de urgência necessárias para restabelecer o bom funcionamento do sistema financeiro e a confiança dos agentes económicos, sublinhando o Conselho Europeu a necessidade de os Estados membros ultimarem estas medidas sem demora.\n\nConcretamente, os Estados membros foram convidados a tomar várias medidas de resposta à situação específica de cada um deles, as quais reflectem margens de manobra distintas.\n\nNessa linha, o Conselho Europeu, reunido em Bruxelas, em 11 e 12 de Dezembro de 2008, aprovou um plano de relançamento da economia europeia que, no que diz respeito às medidas que são da competência da União Europeia, decidiu apoiar, em particular, o recurso, em 2009 e 2010, aos procedimentos acelerados previstos nas directivas relativas aos contratos públicos, para a rápida execução dos projectos públicos de grande envergadura.\n\nTambém a Comissão Europeia veio reconhecer que a natureza excepcional da actual situação económica exige que a concretização dos pertinentes investimentos públicos revista um carácter de urgência, sendo, por isso, plenamente justificável a adopção dos procedimentos de contratação pública mais céleres previstos na legislação comunitária, designadamente na Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0018\" title=\"Link para Directiva da Comunidade Europeia\">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços. A Comissão Europeia considera ainda que a aceleração dos procedimentos de adjudicação permitirá aos Estados membros desenvolver iniciativas de fomento da economia, através da rápida execução de grandes projectos de investimento público.\n\nNa sequência do Conselho Europeu atrás referido, o Conselho de Ministros de 13 de Dezembro de 2008 aprovou a «Iniciativa para o Investimento e o Emprego» destinada a minimizar os efeitos da crise financeira e económica internacional e a permitir o relançamento da economia portuguesa através de um plano de investimento público integrando um conjunto de medidas especialmente dirigidas às áreas prioritárias para o desenvolvimento do País e com reflexos especialmente positivos na promoção do emprego.\n\nTendo em consideração a urgência da execução destas medidas e a necessidade de obter efeitos de curto prazo sobre o crescimento e o emprego, o presente decreto-lei vem, no essencial, estabelecer medidas excepcionais de contratação pública que permitem tornar mais ágeis e céleres os procedimentos de formação de contratos nos domínios da modernização do parque escolar, da promoção das energias renováveis, eficiência energética e redes de transporte de energia, da modernização da infra-estrutura tecnológica - Redes Banda Larga de Nova Geração e da reabilitação urbana.\n\nAs medidas previstas no presente decreto-lei serão aplicáveis exclusivamente aos procedimentos de concurso limitado por prévia qualificação e de ajuste directo destinados à formação de contratos de empreitada de obras públicas, de concessão de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços, realizados pelo Estado, pelas Regiões Autónomas ou pelos municípios, que venham a ser adoptados no estrito âmbito dos domínios atrás referidos.\n\nAs medidas a adoptar visam reduzir os prazos previstos para os concursos limitados por prévia de qualificação, bem como prever a possibilidade de adopção do procedimento de ajuste directo, para além dos limiares nacionais, apenas na celebração de contratos destinados à modernização do parque escolar e à melhoria da eficiência energética de edifícios públicos. O regime estabelecido distingue, todavia, a modernização do parque escolar e a melhoria da eficiência energética dos edifícios públicos, estabelecendo, neste último caso, um limiar de contratação pública não superior a (euro) 2 000 000. Com a aplicação desta possibilidade salvaguarda-se, também, a concorrência, na medida em que, quando seja adoptado o procedimento de ajuste directo, se impõe o convite a, pelo menos, três entidades distintas.\n\nA urgência das medidas excepcionais previstas no presente decreto-lei não dispensa o cumprimento das obrigações de transparência necessárias para conferir o adequado grau de publicidade aos contratos públicos a celebrar. Assim, prevê-se a publicitação obrigatória, no portal da Internet dedicado aos contratos públicos, de um conjunto de elementos referentes ao procedimento de ajuste directo, nomeadamente a identificação do adjudicatário, das demais entidades convidadas a apresentar proposta, bem como do preço contratual. Esta publicitação, na linha da disciplina já prevista no artigo 127.º do Código dos Contratos Públicos, é condição de eficácia do contrato celebrado na sequência daquele procedimento.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "152942984": {
+   "fragment_id": "152942887",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei estabelece medidas excepcionais de contratação pública aplicáveis aos procedimentos de concurso limitado por prévia qualificação e de ajuste directo destinados à formação de contratos de empreitada de obras públicas, de concessão de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços, necessários para a concretização de medidas nos seguintes eixos prioritários:\n\na) Modernização do parque escolar;\n\nb) Energias renováveis, eficiência energética e redes de transporte de energia;\n\nc) Modernização da infra-estrutura tecnológica - Redes Banda Larga de Nova Geração;\n\nd) Reabilitação urbana.\n\n2 - O procedimento de ajuste directo apenas pode ser adoptado para a celebração de contratos destinados à modernização do parque escolar ou à melhoria da eficiência energética de edifícios públicos, nos termos do artigo 5.º\n\n3 - Encontram-se abrangidos pelo presente decreto-lei o Estado, as Regiões Autónomas ou os municípios, directamente ou através de institutos públicos ou empresas públicas que sejam consideradas entidades adjudicantes nos termos das alíneas a) e b) do n.º 2 do artigo 2.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro.\n\n4 - Quando a entidade adjudicante integre a administração directa ou indirecta do Estado ou o sector empresarial do Estado, a prioridade referida no n.º 1 é estabelecida, por cada investimento ou por cada conjunto de investimentos similares, por despacho do membro do Governo responsável pela área sectorial respectiva.\n\n5 - Quando a entidade adjudicante seja um município ou uma empresa do sector empresarial local, a prioridade referida no n.º 1 é estabelecida, por cada investimento ou por cada conjunto de investimentos similares, por deliberação da câmara municipal, nos termos legais.\n\n6 - O disposto no n.º 4 é aplicável, com as necessárias adaptações, às Regiões Autónomas.\n\n7 - A adopção do procedimento de ajuste directo referido no n.º 2 deve constar do despacho ou da deliberação a que se referem os números anteriores.\n\n> Nota: [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747) Em virtude da cessação de vigência do Decreto-Lei n.º 29/2010, de 4 de abril, operada pela Resolução da Assembleia da República n.º 52/2010, de 7 de junho, é repristinado o artigo 1.º na redação do Decreto-Lei n.º 34/2009, de 6 de fevereiro."
+  },
+  "152942985": {
+   "fragment_id": "152942888",
+   "type": 11,
+   "heading": "Artigo 2.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transparência\n\n1 - Os despachos ou a deliberação referidos no artigo anterior são publicados, em simultâneo, no Diário da República e no portal da Internet dedicado aos contratos públicos.\n\n2 - A celebração de contratos na sequência de um ajuste directo ao abrigo do presente regime excepcional deve ser publicitada, pela respectiva entidade adjudicante, no portal da Internet dedicado aos contratos públicos, através de uma ficha de publicitação conforme modelo constante do anexo ao presente decreto-lei e do qual faz parte integrante.\n\n3 - A publicitação referida no número anterior é condição de eficácia do respectivo contrato, independentemente da sua redução ou não a escrito, nomeadamente para efeitos de quaisquer pagamentos."
+  },
+  "152942986": {
+   "fragment_id": "152942889",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime do procedimento de concurso limitado por prévia qualificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime do procedimento de concurso limitado por prévia qualificação\n\n1 - Quando seja adoptado um procedimento de concurso limitado por prévia qualificação para a celebração de contratos públicos abrangidos pelo artigo 1.º, e o respectivo anúncio seja publicado no Jornal Oficial da União Europeia, pode ser fixado um prazo para a apresentação das candidaturas não inferior a 15 dias contados da data do envio daquele anúncio ao Serviço de Publicações Oficiais das Comunidades Europeias, salvo se se tratar de uma concessão de obras públicas.\n\n2 - O prazo mínimo previsto no número anterior pode ser de 10 dias, quando o anúncio for preparado e enviado por meios electrónicos, conforme formato e modalidades de transmissão indicados no portal da Internet http://simap.eu.int.\n\n3 - Quando seja adoptado o procedimento a que se refere o presente artigo, pode ser fixado um prazo para apresentação de propostas não inferior a 10 dias contados da data do envio do convite.\n\n4 - O prazo referido no número anterior aplica-se igualmente aos procedimentos de concurso limitado por prévia qualificação para a celebração de contratos de empreitada de obras públicas abrangidos pelo artigo 1.º cujo anúncio não seja publicado no Jornal Oficial da União Europeia.\n\n5 - Sempre que, no âmbito do presente decreto-lei, tal se revele adequado como medida de aceleração dos procedimentos de concurso limitado por prévia qualificação, as entidades adjudicantes podem disponibilizar o caderno de encargos apenas com o envio do convite aos candidatos qualificados.\n\n6 - No caso previsto no número anterior, o programa de concurso deve conter, em anexo, a identificação do objecto do contrato a celebrar e a descrição sumária das prestações a efectuar em execução deste."
+  },
+  "152942987": {
+   "fragment_id": "152942890",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos de negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimentos de negociação\n\nO disposto no artigo anterior aplica-se, com as necessárias adaptações, ao procedimento de negociação."
+  },
+  "152942988": {
+   "fragment_id": "152942891",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime do procedimento de ajuste directo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime do procedimento de ajuste directo\n\n1 - A escolha do ajuste directo nos termos do n.º 2 do artigo 1.º permite a celebração de contratos de empreitada de obras públicas de valor inferior ao referido na alínea c) do artigo 7.º da Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0018\" title=\"Link para Directiva da Comunidade Europeia\">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março, independentemente da natureza da entidade adjudicante.\n\n2 - Sem prejuízo do disposto na alínea a) do artigo 7.º da Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0018\" title=\"Link para Directiva da Comunidade Europeia\">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março, a escolha do ajuste directo nos termos do presente decreto-lei permite a celebração de contratos de locação ou aquisição de bens móveis e de aquisição de serviços de valor inferior ao referido na alínea b) do artigo 7.º da Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0018\" title=\"Link para Directiva da Comunidade Europeia\">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março, incluindo os contratos referidos nas alíneas a) e b) do n.º 2 do artigo 20.º do Código dos Contratos Públicos, independentemente da natureza da entidade adjudicante.\n\n3 - No caso de contratos de empreitada ou de concessão de obras públicas destinados à melhoria da eficiência energética de edifícios públicos, a escolha do ajuste directo só permite a celebração de contratos de valor inferior a (euro) 2 000 000.\n\n4 - Aos procedimentos referidos no n.º 2 não é aplicável o disposto no n.º 4 do artigo 20.º do Código dos Contratos Públicos.\n\n5 - O disposto no presente artigo não prejudica o disposto nos artigos 23.º a 28.º do Código dos Contratos Públicos.\n\n> Nota: [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747) Em virtude da cessação de vigência do Decreto-Lei n.º 29/2010, de 4 de abril, operada pela Resolução da Assembleia da República n.º 52/2010, de 7 de junho, é repristinado o artigo 5.º na redação do Decreto-Lei n.º 34/2009, de 6 de fevereiro."
+  },
+  "152942989": {
+   "fragment_id": "152942892",
+   "type": 11,
+   "heading": "Artigo 6.º — Escolha das entidades convidadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Escolha das entidades convidadas\n\n1 - Para efeitos da aplicação do artigo 112.º do Código dos Contratos Públicos, nos procedimentos de ajuste directo adoptados ao abrigo do regime estabelecido pelo presente decreto-lei, deve a entidade adjudicante convidar, pelo menos, três entidades distintas para apresentação de propostas, as quais são obrigatoriamente mencionadas na ficha de publicitação referida no n.º 2 do artigo 2.º\n\n2 - Aos procedimentos de ajuste directo destinados à modernização do parque escolar não se aplicam as limitações constantes dos n.os 2 a 5 do artigo 113.º do Código dos Contratos Públicos."
+  },
+  "152942990": {
+   "fragment_id": "152942893",
+   "type": 11,
+   "heading": "Artigo 7.º — Audiência prévia dos candidatos e dos concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Audiência prévia dos candidatos e dos concorrentes\n\nOs prazos mínimos para a realização de audiência prévia dos candidatos e dos concorrentes previstos, respectivamente, no artigo 185.º e no artigo 147.º, aplicados por remissão do n.º 1 do artigo 162.º, todos do Código dos Contratos Públicos, são reduzidos, para efeitos de aplicação do presente decreto-lei, para três dias úteis."
+  },
+  "152942991": {
+   "fragment_id": "152942894",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação subsidiária do Código dos Contratos Públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação subsidiária do Código dos Contratos Públicos\n\n1 - Em tudo o que não esteja especialmente previsto no presente decreto-lei, é aplicável subsidiariamente o disposto no Código dos Contratos Públicos.\n\n2 - Sempre que no Código dos Contratos Públicos sejam feitas referências aos valores constantes dos artigos 19.º e 20.º do mesmo Código, deve entender-se, no que respeita aos procedimentos de formação dos contratos públicos referidos no artigo 1.º do presente decreto-lei, que essas remissões são feitas, respectivamente, para os valores referidos nos n.os 1 e 2 do artigo 5.º\n\n3 - As normas do Código dos Contratos Públicos que se referem aos procedimentos de ajuste directo adoptados ao abrigo da alínea a) do artigo 19.º e da alínea a) do n.º 1 do artigo 20.º do Código dos Contratos Públicos são aplicáveis, com as necessárias adaptações, aos procedimentos de ajuste directo celebrados ao abrigo dos n.os 1 e 2 do artigo 5.º do presente decreto-lei, devendo entender-se as remissões feitas para aqueles artigos como sendo feitas, respectivamente, para estes."
+  },
+  "152942992": {
+   "fragment_id": "152942895",
+   "type": 11,
+   "heading": "Artigo 9.º — Sistema Nacional de Compras Públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sistema Nacional de Compras Públicas\n\nPara as entidades vinculadas ao Sistema Nacional de Compras Públicas, o presente decreto-lei não prejudica o disposto no n.º 1 do artigo 4.º da Portaria n.º 772/2008, de 6 de Agosto, e no n.º 3 do artigo 5.º do Decreto-Lei n.º 37/2007, de 19 de Fevereiro."
+  },
+  "152942993": {
+   "fragment_id": "152942896",
+   "type": 11,
+   "heading": "Artigo 10.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regiões Autónomas\n\nO presente decreto-lei aplica-se a todo o território nacional, sem prejuízo de diploma regional que proceda às necessárias adaptações nas Regiões Autónomas dos Açores e da Madeira."
+  },
+  "152942994": {
+   "fragment_id": "152942897",
+   "type": 11,
+   "heading": "Artigo 11.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Duração\n\n1 - Salvaguardado o disposto no número seguinte, o regime excepcional previsto no presente decreto-lei é aplicável aos procedimentos de formação de contratos públicos cuja decisão de contratar seja tomada até 31 de Dezembro de 2010.\n\n2 - O procedimento de ajuste directo previsto no presente decreto-lei é aplicável a procedimentos de formação de contratos públicos cuja decisão de contratar seja tomada até 31 de Dezembro de 2009.\n\n> Nota: [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747) Em virtude da cessação de vigência do Decreto-Lei n.º 29/2010, de 4 de abril, operada pela Resolução da Assembleia da República n.º 52/2010, de 7 de junho, é repristinado o artigo 11.º na redação do Decreto-Lei n.º 34/2009, de 6 de fevereiro."
+  },
+  "152942995": {
+   "fragment_id": "152942898",
+   "type": 11,
+   "heading": "Artigo 12.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos desde 1 de Janeiro de 2009.\n\n2 - O presente decreto-lei não prejudica os procedimentos de formação de contratos adoptados ao abrigo do artigo 11.º do Decreto-Lei n.º 41/2007, de 21 de Fevereiro, com a prorrogação dada pelo Decreto-Lei n.º 25/2008, de 20 de Fevereiro, os quais são aplicáveis até à sua integral conclusão."
+  },
+  "152942997": {
+   "fragment_id": "152942900",
+   "type": 14,
+   "heading": "Anexo — Modelo de ficha de publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Modelo de ficha de publicitação\n\n(a que se refere o n.º 2 do artigo 2.º)\n\nEntidade adjudicante:... (identificação da entidade adjudicante).\n\nAdjudicatário:... (identificação do adjudicatário).\n\nOutras entidades convidadas:... (identificação das entidades que, para além do adjudicatário, tenham sido convidadas a apresentar proposta).\n\nObjecto do contrato:... (descrição sumária).\n\nPreço contratual:... (preço calculado nos termos do disposto no artigo 97.º).\n\nPrazo da execução das principais prestações objecto do contrato:...\n\nLocal da execução das principais prestações objecto do contrato:..."
+  },
+  "152943004": {
+   "fragment_id": "152942887",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2010-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei estabelece medidas excepcionais de contratação pública aplicáveis aos procedimentos de concurso limitado por prévia qualificação e de ajuste directo destinados à formação de contratos de empreitada de obras públicas, de concessão de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços, necessários para a concretização de medidas nos seguintes eixos prioritários:\n\na) Modernização do parque escolar;\n\nb) Energias renováveis, eficiência energética e redes de transporte de energia;\n\nc) Modernização da infra-estrutura tecnológica - Redes Banda Larga de Nova Geração;\n\nd) Reabilitação urbana.\n\n2 - O procedimento de ajuste directo apenas pode ser adoptado para a celebração de contratos destinados à modernização do parque escolar, nos termos do artigo 5.º\n\n3 - Encontram-se abrangidos pelo presente decreto-lei o Estado, as Regiões Autónomas ou os municípios, directamente ou através de institutos públicos ou empresas públicas que sejam consideradas entidades adjudicantes nos termos das alíneas a) e b) do n.º 2 do artigo 2.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro.\n\n4 - Quando a entidade adjudicante integre a administração directa ou indirecta do Estado ou o sector empresarial do Estado, a prioridade referida no n.º 1 é estabelecida, por cada investimento ou por cada conjunto de investimentos similares, por despacho do membro do Governo responsável pela área sectorial respectiva.\n\n5 - Quando a entidade adjudicante seja um município ou uma empresa do sector empresarial local, a prioridade referida no n.º 1 é estabelecida, por cada investimento ou por cada conjunto de investimentos similares, por deliberação da câmara municipal, nos termos legais.\n\n6 - O disposto no n.º 4 é aplicável, com as necessárias adaptações, às Regiões Autónomas.\n\n7 - A adopção do procedimento de ajuste directo referido no n.º 2 deve constar do despacho ou da deliberação a que se referem os números anteriores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+  },
+  "152943006": {
+   "fragment_id": "152942891",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime do procedimento de ajuste directo",
+   "in_force_from": "2010-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Regime do procedimento de ajuste directo\n\n1 - A escolha do ajuste directo nos termos do n.º 2 do artigo 1.º permite a celebração de contratos de empreitada de obras públicas de valor inferior ao referido na alínea c) do artigo 7.º da Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0018\" title=\"Link para Directiva da Comunidade Europeia\">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março, independentemente da natureza da entidade adjudicante.\n\n2 - Sem prejuízo do disposto na alínea a) do artigo 7.º da Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0018\" title=\"Link para Directiva da Comunidade Europeia\">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março, a escolha do ajuste directo nos termos do presente decreto-lei permite a celebração de contratos de locação ou aquisição de bens móveis e de aquisição de serviços de valor inferior ao referido na alínea b) do artigo 7.º da Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0018\" title=\"Link para Directiva da Comunidade Europeia\">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março, incluindo os contratos referidos nas alíneas a) e b) do n.º 2 do artigo 20.º do Código dos Contratos Públicos, independentemente da natureza da entidade adjudicante.\n\n3 - Revogado.\n\n4 - Aos procedimentos referidos no n.º 2 não é aplicável o disposto no n.º 4 do artigo 20.º do Código dos Contratos Públicos.\n\n5 - O disposto no presente artigo não prejudica o disposto nos artigos 23.º a 28.º do Código dos Contratos Públicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+  },
+  "152943005": {
+   "fragment_id": "152942897",
+   "type": 11,
+   "heading": "Artigo 11.º — Duração",
+   "in_force_from": "2010-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Duração\n\n1 - O regime excepcional previsto no presente decreto-lei é aplicável aos procedimentos de formação de contratos públicos cuja decisão de contratar seja tomada até 31 de Dezembro de 2010.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+  },
+  "152942996": {
+   "fragment_id": "152942899",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Gonçalo André Castilho dos Santos - João Manuel Machado Ferrão - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - Maria de Lurdes Reis Rodrigues.\n\nPromulgado em 3 de Fevereiro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 5 de Fevereiro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "152954400": {
+   "fragment_id": "152942887",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2010-06-12",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747), em vigor a partir de 2010-06-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei estabelece medidas excepcionais de contratação pública aplicáveis aos procedimentos de concurso limitado por prévia qualificação e de ajuste directo destinados à formação de contratos de empreitada de obras públicas, de concessão de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços, necessários para a concretização de medidas nos seguintes eixos prioritários:\n\na) Modernização do parque escolar;\n\nb) Energias renováveis, eficiência energética e redes de transporte de energia;\n\nc) Modernização da infra-estrutura tecnológica - Redes Banda Larga de Nova Geração;\n\nd) Reabilitação urbana.\n\n2 - O procedimento de ajuste directo apenas pode ser adoptado para a celebração de contratos destinados à modernização do parque escolar ou à melhoria da eficiência energética de edifícios públicos, nos termos do artigo 5.º\n\n3 - Encontram-se abrangidos pelo presente decreto-lei o Estado, as Regiões Autónomas ou os municípios, directamente ou através de institutos públicos ou empresas públicas que sejam consideradas entidades adjudicantes nos termos das alíneas a) e b) do n.º 2 do artigo 2.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro.\n\n4 - Quando a entidade adjudicante integre a administração directa ou indirecta do Estado ou o sector empresarial do Estado, a prioridade referida no n.º 1 é estabelecida, por cada investimento ou por cada conjunto de investimentos similares, por despacho do membro do Governo responsável pela área sectorial respectiva.\n\n5 - Quando a entidade adjudicante seja um município ou uma empresa do sector empresarial local, a prioridade referida no n.º 1 é estabelecida, por cada investimento ou por cada conjunto de investimentos similares, por deliberação da câmara municipal, nos termos legais.\n\n6 - O disposto no n.º 4 é aplicável, com as necessárias adaptações, às Regiões Autónomas.\n\n7 - A adopção do procedimento de ajuste directo referido no n.º 2 deve constar do despacho ou da deliberação a que se referem os números anteriores.\n\n> Nota: [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747) Em virtude da cessação de vigência do Decreto-Lei n.º 29/2010, de 4 de abril, operada pela Resolução da Assembleia da República n.º 52/2010, de 7 de junho, é repristinado o artigo 1.º na redação do Decreto-Lei n.º 34/2009, de 6 de fevereiro.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747), em vigor a partir de 2010-06-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+  },
+  "152954401": {
+   "fragment_id": "152942891",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime do procedimento de ajuste directo",
+   "in_force_from": "2010-06-12",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747), em vigor a partir de 2010-06-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Regime do procedimento de ajuste directo\n\n1 - A escolha do ajuste directo nos termos do n.º 2 do artigo 1.º permite a celebração de contratos de empreitada de obras públicas de valor inferior ao referido na alínea c) do artigo 7.º da Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0018\" title=\"Link para Directiva da Comunidade Europeia\">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março, independentemente da natureza da entidade adjudicante.\n\n2 - Sem prejuízo do disposto na alínea a) do artigo 7.º da Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0018\" title=\"Link para Directiva da Comunidade Europeia\">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março, a escolha do ajuste directo nos termos do presente decreto-lei permite a celebração de contratos de locação ou aquisição de bens móveis e de aquisição de serviços de valor inferior ao referido na alínea b) do artigo 7.º da Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0018\" title=\"Link para Directiva da Comunidade Europeia\">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março, incluindo os contratos referidos nas alíneas a) e b) do n.º 2 do artigo 20.º do Código dos Contratos Públicos, independentemente da natureza da entidade adjudicante.\n\n3 - No caso de contratos de empreitada ou de concessão de obras públicas destinados à melhoria da eficiência energética de edifícios públicos, a escolha do ajuste directo só permite a celebração de contratos de valor inferior a (euro) 2 000 000.\n\n4 - Aos procedimentos referidos no n.º 2 não é aplicável o disposto no n.º 4 do artigo 20.º do Código dos Contratos Públicos.\n\n5 - O disposto no presente artigo não prejudica o disposto nos artigos 23.º a 28.º do Código dos Contratos Públicos.\n\n> Nota: [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747) Em virtude da cessação de vigência do Decreto-Lei n.º 29/2010, de 4 de abril, operada pela Resolução da Assembleia da República n.º 52/2010, de 7 de junho, é repristinado o artigo 5.º na redação do Decreto-Lei n.º 34/2009, de 6 de fevereiro.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747), em vigor a partir de 2010-06-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+  },
+  "152954402": {
+   "fragment_id": "152942897",
+   "type": 11,
+   "heading": "Artigo 11.º — Duração",
+   "in_force_from": "2010-06-12",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747), em vigor a partir de 2010-06-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Duração\n\n1 - Salvaguardado o disposto no número seguinte, o regime excepcional previsto no presente decreto-lei é aplicável aos procedimentos de formação de contratos públicos cuja decisão de contratar seja tomada até 31 de Dezembro de 2010.\n\n2 - O procedimento de ajuste directo previsto no presente decreto-lei é aplicável a procedimentos de formação de contratos públicos cuja decisão de contratar seja tomada até 31 de Dezembro de 2009.\n\n> Nota: [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747) Em virtude da cessação de vigência do Decreto-Lei n.º 29/2010, de 4 de abril, operada pela Resolução da Assembleia da República n.º 52/2010, de 7 de junho, é repristinado o artigo 11.º na redação do Decreto-Lei n.º 34/2009, de 6 de fevereiro.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 52/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2010-332747), em vigor a partir de 2010-06-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 29/2010 - Diário da República n.º 64/2010, Série I de 2010-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653), em vigor a partir de 2010-04-02, produz efeitos a partir de 2010-01-01"
+  }
+ }
+}

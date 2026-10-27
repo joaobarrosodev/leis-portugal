@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31971D0057:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01971D0057-19950101",
+ "dre_path": null,
+ "source_lastmod": "1995-01-01",
+ "versions": [
+  {
+   "date": "1971-01-20",
+   "future": false,
+   "celex": "31971D0057",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "080b48c7a0572d42",
+    "093a1492cb194921",
+    "c8a0790692a2dc37",
+    "45885c2ab02447de",
+    "07c56dc6112307a3",
+    "131c8c6b4e541d13",
+    "d068bc2e434b0282",
+    "24194812ad301866",
+    "1fabf7faaefe8295",
+    "bf3dd675d842f852",
+    "4c20548e051043d1",
+    "cb2be1b0cfb36574",
+    "df2ab5739dc5950c"
+   ]
+  },
+  {
+   "date": "1995-01-01",
+   "future": false,
+   "celex": "01971D0057-19950101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 12.º",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o"
+   ],
+   "fragments": [
+    "7faafeb9c5f5900e",
+    "59c682a732862c3e",
+    "6c17d3655ee34861",
+    "9f51783cd7a15f4e",
+    "9afd7022031df033",
+    "63cf83e4fccdb29f",
+    "e999f685adb0701c",
+    "05d496ff8e94159e",
+    "c1368b68bfc8112a",
+    "788557dda69d40df",
+    "24b231ef9cc69e62",
+    "bf4c3c469d842b17"
+   ]
+  }
+ ],
+ "fragments": {
+  "080b48c7a0572d42": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**71/57/Euratom: Decisão da Comissão, de 13 de Janeiro de 1971, que reorganiza o Centro Comum de Investigação Nuclear (CCI)** *Jornal Oficial nº L 016 de 20/01/1971 p. 0014 - 0016 Edição especial finlandesa: Capítulo 12 Fascículo 1 p. 0032 Edição especial dinamarquesa: Série II Fascículo V p. 0014 Edição especial sueca: Capítulo 12 Fascículo 1 p. 0032 Edição especial inglesa: Série II Fascículo V p. 0014 Edição especial grega: Capítulo 01 Fascículo 1 p. 0128 Edição especial espanhola: Capítulo 12 Fascículo 1 p. 0150 Edição especial portuguesa: Capítulo 12 Fascículo 1 p. 0150*\n\nDECISÃO DA COMISSÃO de 13 de Janeiro de 1971 que reorganiza o Centro Comum de Investigação Nuclear (CCI)\n\n(71/57/Euratom)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia da Energia Atómica (Euratom) e, nomeadamente, o seu artigo 8o,\n\nTendo em conta o Tratado que institui um Conselho único e uma Comissão única das Comunidades Europeias e, nomeadamente, o seu artigo 16o,\n\nTendo em conta o regulamento interno da Comissão e, nomeadamente, o seu artigo 27o,\n\nTendo em conta o parecer do Comité Científico e Técnico,\n\nConsiderando que é necessário dotar o Centro Comum de Investigação de uma estrutura adaptada à sua missão especial e conferir-lhe a autonomia de gestão necessária à boa execução das suas tarefas,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "093a1492cb194921": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nO Centro Comum de Investigação (CCI) é formado pelos estabelecimentos criados pela Comissão tendo em vista assegurar a execução dos programas de investigação e de ensino da Comunidade bem como os serviços necessários ao seu funcionamento."
+  },
+  "c8a0790692a2dc37": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs órgãos do Centro Comum de Investigação são:\n\n- o Director-Geral,\n\n- o Comité Consultivo Geral,\n\n- o Comité Científico."
+  },
+  "45885c2ab02447de": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nO Centro Comum de Investigação é colocado sob a autoridade de um Director-Geral nomeado pela Comissão, na base de um contrato com uma duração máxima de quatro anos, renovável.\n\nO Director-Geral e os serviços que lhe estão directamente ligados são instalados no estabelecimento de Ispra.\n\nO Director-Geral toma todas as medidas necessárias ao bom funcionamento do CCI no quadro dos regulamentos em vigor e das delegações que lhe são conferidas. Nas condições a seguir definidas:\n\n- prepara e submete à Comissão os projectos de programas do CCI, bem como os elementos financeiros correspondentes,\n\n- negoceia e conclui os contratos de investigação confiados por terceiros, nos limites dos meios globalmente afectados pelo Conselho para este fim, submetendo-se às regras de tarificação fixadas pelo Conselho por proposta da Comissão,\n\n- assegura a execução dos programas e a gestão financeira,\n\n- estabelece a organização interna do CCI tendo especialmente em conta as exigências de um orçamento funcional,\n\n- exerce os poderes conferidos à Autoridade Investida do Poder de Nomeação pelo Estatuto dos Funcionários e pelo Regime Aplicável aos Outros Agentes."
+  },
+  "07c56dc6112307a3": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. É instituído junto do Director-Geral um Comité Consultivo Geral do CCI composto por representantes nomeados pelos governos dos Estados-membros, que exerce as atribuições previstas na presente decisão.\n\nA participação dos Estados-membros é regulada pela Resolução do Conselho de 17 de Dezembro de 1970.\n\nO Comité elege um presidente de entre os seus membros, por um período de dois anos. O Director-Geral do CCI participa nas deliberações sem direito do voto.\n\n2. O Comité Consultivo Geral reúne-se por convocação do seu presidente; deve ser convocado a pedido do Director-Geral do CCI ou de três membros do Comité. As deliberações do Comité só serão válidas se estiverem reunidos pelo menos 2/3 dos seus membros. Os pareceres são emitidos por maioria dos membros presentes.\n\n3. Será redigido, sob a responsabilidade do presidente, um relatório sumário de cada reunião contendo, nomeadamente, os pareceres emitidos e as opiniões expressas em caso de consulta do Comité. O relatório será transmitido à Comissão e ao Conselho."
+  },
+  "131c8c6b4e541d13": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nÉ designado um Comité Científico do CCI junto do Director-Geral.\n\nO Comité Científico é composto em 2/3 pelos principais responsáveis dos departamentos e projectos e em 1/3 pelos representantes do pessoal científico e técnico eleitos pelo pessoal científico e técnico.\n\nO Comité Científico é regularmente consultado pelo Director-Geral sobre todos os problemas de carácter científico e técnico ligados à actividade do CCI. A este título, o Comité participa em especial na elaboração dos projectos de programas."
+  },
+  "d068bc2e434b0282": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A Comissão transmite ao Director-Geral orientações gerais para a elaboração dos programas do CCI, tendo em conta a política geral aprovada eventualmente pelo Conselho.\n\n2. Nesta base, o Director-Geral estabelece, sob a sua responsabilidade e consultando o Comité Consultivo Geral, os projectos de programas para os sectores de actividade do CCI sobre os quais o referido Comité formula o seu parecer.\n\n3. A Comissão, munida dos projectos de programas bem como do parecer do Comité Consultivo Geral, procede ao exame destes textos à luz das políticas gerais da Comunidade e tendo em conta a situação orçamental desta última. Ela aprova as propostas nas condições previstas no Tratado e apresenta-as ao Conselho juntando-lhes os pareceres do Comité Consultivo Geral bem como os projectos originais de programas tenham sido alterados pela Comissão."
+  },
+  "24194812ad301866": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. O Director-Geral será responsável pela boa execução dos programas atribuídos ao CCI. Orienta, pela suas decisões, a acção dos departamentos e serviços, em especial no que diz respeito às opções necessárias à realização dos objectivos do programa.\n\n2. O Director-Geral fornecerá à Comissão todos os elementos necessários com vista a permitir-lhe o estabelecimento da relações previstas nos termos do artigo 11o do Tratado Euratom.\n\n3. O Director-Geral velará, se necessário, tanto na fase de execução dos programas como na da sua elaboração, por que sejam tomadas todas as medidas no sentido de assegurar uma coesão e uma articulação racional entre programas sucessivos, tendo em conta especialmente a infra-estrutura científica e industrial do CCI. O Director-Geral preparará, nomeadamente, o reexame dos programas que tem lugar de dois em dois anos."
+  },
+  "1fabf7faaefe8295": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nO Director-Geral manterá o Comité Consultivo Geral regularmente informado da gestão do Centro Comum de Investigação, nomeadamente no que diz respeito aos principais contratos ou transacções celebrados, à acção conduzida em matéria de gestão do pessoal, à fixação do programa detalhado do Centro e às alterações importantes introduzidas nos programa previamente estabelecidos. Com base nestas informações, o Comité Consultivo Geral pode formular pareceres destinados ao Director-Geral."
+  },
+  "bf3dd675d842f852": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. O Director-Geral estabelecerá todos os anos os elementos financeiros necessários à execução do programa de forma a permitir a elaboração da parte correspondente do anteprojecto de orçamento das Comunidades. Estes elementos incluirão, nomeadamente, previsões de receitas e de despesas referentes à execução pelo CCI de trabalhos por conta de terceiros.\n\nAs disposipões do artigo 6o aplicar-se-ao por analogia ao estabelecimento dos anteprojectos de orçamentos no que diz respeito às actividades de investigação.\n\n2. O Director-Geral autorizará as despesas do CCI; assinará os títulos de pagamento e os títulos de receitas; celebrará contratos e transacções e autorizará a transferência de créditos.\n\n3. O Director-Geral prestará trimestralmente contas da sua gestão financeira à Comissão. Remeter-lhe-à, no final do ano financeiro, o balanço das receitas e das despesas realizadas durante o ano financeiro findo.\n\n4. A Comissão nomeará o agente encarregado do controlo do compromisso e da autorização das despesas, bem como do controlo das receitas.\n\n5. A Comissão nomeará o contabilista encarregado do pagamento das despesas, da fiscalização das receitas, bem como da movimentação dos fundos e dos valores, por cuja conservação ele é responsável."
+  },
+  "4c20548e051043d1": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. O Director-Geral exercerá sobre o pessoal os poderes conferidos à autoridade com poder de nomeação, com excepção dos previstos nos artigos 90o e 91o do Estatuto, que ficarão reservados à Comissão.\n\n2. Todavia, no que diz respeito aos funcionários e agentes dos graus A1 e A2, os poderes previstos nos artigos 29o, 49o, 50o e 51o, bem como no Título VI do Estatuto, serão exercidos pela Comissão por proposta do Director-Geral.\n\n3. O Director-Geral tomará, em nome de Comissão, todas as medidas necessárias para garantir a segurança das pessoas e das instalações colocadas sob a sua responsabilidade."
+  },
+  "cb2be1b0cfb36574": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. A informação recíproca entre os serviços da Comissão e do CCI será assegurada pelo Director-Geral que convocará periodicamente para este efeito:\n\n- os Directores-Gerais ou directores de serviços da Comissão que participam nas actividades do CCI,\n\n- os representantes dos serviços do CCI,\n\n- os representantes do pessoal do CCI.\n\n2. O Director-Geral aprovará o regulamento de organização do CCI após consulta do pessoal do CCI e tendo presente o parecer do Comité Consultivo Geral.\n\n3. Sem prejuízo do disposto no Estatuto do pessoal, o regulamento prevê nomeadamente a criação de órgãos representativos do pessoal a nível do CCI e, se necessário, de cada estabelecimento e regula as condições da participação destes orgãos na definição e na execução da política geral do pessoal do CCI."
+  },
+  "df2ab5739dc5950c": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nA presente decisão será publicada no Jornal Oficial das Comunidades Europeias.\n\nFeito em Bruxelas em 13 de Janeiro de 1971.\n\nPela Comissão\n\nO Presidente\n\nFranco M. MALFATTI"
+  },
+  "7faafeb9c5f5900e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1971D0057 — PT — 01.01.1995 — 006.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971D0057:PT:NOT) [DECISÃO DA COMISSÃO de 13 de Janeiro de 1971 que reorganiza o Centro Comum de Investigação Nuclear (CCI) (71/57/Euratom)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971D0057:PT:NOT) (JO L 016, 20.1.1971, p.14)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31974D0578:PT:NOT) | [Decisão da Comissão de 13 de Novembro de 1974](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31974D0578:PT:NOT) | L 316 | 12 | 26.11.1974 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31975D0241:PT:NOT) | [Decisão da Comissão de 25 de Março de 1975](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31975D0241:PT:NOT) | L 98 | 40 | 19.4.1975 |\n| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982D0755:PT:NOT) | [Decisão da Comissão de 2 de Junho de 1982](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982D0755:PT:NOT) | L 319 | 10 | 16.11.1982 |\n| [►M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31984D0339:PT:NOT) | [Decisão da Comissão de 24 de Maio de 1984](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31984D0339:PT:NOT) | L 177 | 29 | 4.7.1984 |\n\nAlterado por:\n\n| [►A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11985I:PT:NOT) |  | L 302 | 23 | 15.11.1985 |\n| --- | --- | --- | --- | --- |\n| [A2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | [Acto de Adesão da Áustria, da Finlândia e da Suécia](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N:PT:NOT) | C 241 | 21 | 29.8.1994 |\n|  | (adaptado pela Decisão 95/1/CE, Euratom, CECA do Conselho) | L 001 | 1 | .. |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971D0057:PT:NOT)\n\nDECISÃO DA COMISSÃO\n\nde 13 de Janeiro de 1971\n\nque reorganiza o Centro Comum de Investigação Nuclear (CCI)\n\n(71/57/Euratom)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS\n\nTendo em conta o Tratado que institui a Comunidade Europeia da Energia Atómica (Euratom) e, nomeadamente, o seu artigo 8,\n\nTendo em conta o Tratado que institui um Conselho único e uma Comissão única das Comunidades Europeias e, nomeadamente, o seu artigo 16.o,\n\nTendo em conta o regulamento interno da Comissão e, nomeadamente, o seu artigo 27.o,\n\nTendo em conta o parecer do Comité Científico e Técnico,\n\nConsiderando que é necessário dotar o Centro Comum de Investigação de uma estrutura adaptada à sua missão especial e conferir-lhe a autonomia de gestão necessária à boa execução das suas tarefas,\n\nADOPTOU A PRESENTE DECISÃO:\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982D0755:PT:NOT)"
+  },
+  "59c682a732862c3e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNo âmbito da Direcção-Geral da Ciência, da Investigação e do Desenvolvimento, o Centro Comum de Investigação (CCI) é formado pelos estabelecimentos criados pela Comissão tendo em vista assegurar a execução de programas de investigação e de ensino da Comunidade bem como dos serviços necessários ao seu funcionamento.\n\n[▼M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31984D0339:PT:NOT)"
+  },
+  "6c17d3655ee34861": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs órgãos do CCI são:\n\n— o Director-Geral, que desempenha simultaneamente as funções de Director-Geral adjunto na Direcção-Geral da Ciência, da Investigação e do Desenvolvimento,\n\n— O Conselho de Administração,\n\n— o Conselho Científico,\n\n— o Comité Científico.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971D0057:PT:NOT)"
+  },
+  "9f51783cd7a15f4e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Centro Comum de Investigação é colocado sob a autoridade de um Director-Geral nomeado pela Comissão, na base de um contrato com uma duração máxima de quatro anos, renovável.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31974D0578:PT:NOT)\n\nO Director-Geral e os serviços que dele dependem directamente têm por local de trabalho Bruxelas.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971D0057:PT:NOT)\n\nO Director-Geral toma todas as medidas necessárias ao bom funcionamento do CCI no quadro dos regulamentos em vigor e das delegações que lhe são conferidas. Nas condições a seguir definidas:\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982D0755:PT:NOT)\n\n— prepara — de acordo com o Director-Geral da Direcção-Geral da Ciência, da Investigação e do Desenvolvimento — e submete à Comissão os projectos de programas do CCI, bem como os elementos financeiros correspondentes,\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971D0057:PT:NOT)\n\n— negoceia e conclui os contratos de investigação confiados por terceiros, nos limites dos meios globalmente afectados pelo Conselho para este fim, submetendo-se às regras de tarificação fixadas pelo Conselho por proposta da Comissão,\n\n— assegura a execução dos programas e a gestão financeira,\n\n— estabelece a organização interna do CCI tendo especialmente em conta as exigências de um orçamento funcional,\n\n— exerce os poderes conferidos à Autoridade Investida do Poder de Nomeação pelo Estatuto dos Funcionários e pelo Regime Aplicável aos Outros Agentes.\n\n[▼M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31984D0339:PT:NOT)"
+  },
+  "9afd7022031df033": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÉ instituído um Conselho de Administração do CCI. Este Conselho é composto por [►](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N::NOT) [►](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N::NOT) 16 ◄ ◄ membros, da forma seguinte:\n\na) Um representante de alto nível de cada Estado-membro, formalmente nomeado pela Comissão com base numa designação feita pelas autoridades desse Estado;\n\nb) Um Presidente, eleito pelos [►](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N::NOT) [►](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11994N::NOT) 15 ◄ ◄ representantes dos Estados-membros mencionados na alínea a).\n\nTodos os membros são nomeados por um período de três anos renovável.\n\nO Conselho de Administração elaborará o seu regulamento interno, no âmbito da Decisão 84/337/Euratom, CEE do Conselho, de 29 de Junho de 1984, referente aos programas plurianuais de investigação e de ensino a executar pelo Centro Comum de Investigação (CCI) (1) e, nomeadamente, os seus artigos 3.o e 4.o\n\nO Conselho de Administração do CCI assiste e aconselha a Comissão na formulação de decisões estratégicas referentes ao papel do CCI nos peogramas-quadro da Comunidade e tendo em conta a necessidade de desenvolver uma cooperação estreita entre o CCI e os Estados-membros, nomeadamente nos domínios seguintes:\n\n— elaboração de propostas relativas a novos programas e sua integração na estratégia da investigação comunitária,\n\n— elaboração, cada ano, do quadro dos efectivos do CCI e do seu orçamento,\n\n— excução dos programas de investigação e de desenvolvimento,\n\n— adaptação do programa do CCI, em conformidade com os artigos 3.o e 4.o da Decisão 84/337/Euratom, CEE,\n\n— elaboração de um relatório anual de gestão do CCI,\n\n— qualquer outra consulta que a Comissão lhe possa fazer.\n\nO Conselho de Administração do CCI reúne-se geralmente duas vezes por ano.\n\nO CCI assegura o secretariado do Conselho de Administração do CCI. O CCI põe à disposição do Conselho de Administração do CCI todas as informações que lhe sejam necessárias para o cumprimento do sua missão.\n\n[▼M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31984D0339:PT:NOT)\n\nArtigo 4.o A\n\nÉ instituído um Conselho Cientifico do CCI. Este Conselho é composto por [►A1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:11985I::NOT) treze ◄ membros, da forma seguinte:\n\na) Um Presidente nomeado pela Comissão;\n\nb) Uma personalidade científica de alto nível de cada Estado-membro, nomeada pela Comissão com base em pelo menos duas designações feitas pelas autoridades desse Estado.\n\nTodos os membros são nomeados por um período de três anos renovável.\n\nO Conselho Científico do CCI reúne-se geralmente seis vezes por ano.\n\nEste Conselho assiste a Comissão nos domínios seguintes:\n\n— execução dos programas de investigação e de desenvolvimento em curso e afectação dos recursos disponíveis para estes programas,\n\n— elaboração do quadro de efectivos do CCI e da contratação dos agentes nos graus elevados (A 1 e A 2 outras nomeações de importância comparável),\n\n— investimentos principais,\n\n— avaliação interna dos resultados da investigaçoo após execução da primeira metade do programa.\n\nO CCI assegura o secretariado do Conselho Científico. O CCI põe à disposisão do Conselho Científico todas as informações que lhe sejam necessárias para o cumprimento da sua missão.\n\nArtigo 4.o B\n\nO Conselho de Administração e o Conselho Científico podem reunir-se em conjunto, a pedido de um dos dois órgãos ou da Comissão.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971D0057:PT:NOT)"
+  },
+  "63cf83e4fccdb29f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÉ designado um Comité Científico do CCI junto do Director-Geral.\n\nO Comité Científico é composto em 2/3 pelos principais responsáveis dos departamentos e projectos e em 1/3 pelos representantes do pessoal científico e técnico eleitos pelo pessoal científico e técnico.\n\nO Comité Científico é regularmente consultado pelo Director-Geral sobre todos os problemas de carácter científico e técnico ligados à actividade do CCI. A este título, o Comité participa em especial na elaboração dos projectos de programas.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982D0755:PT:NOT)"
+  },
+  "e999f685adb0701c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Tendo em conta a política geral aprovada pelo Conselho e com base nas orientações gerais dadas pela Comissão e pela Direcção-Geral da Ciência, da Investigação e do Desenvolvimento, o Director-Geral do CCI elabora, sob a sua responsabilidade, os projectos de programas para os sectores de actividade do CCI em estreita ligação com a Direcção da Política Científica e Técnica, Coordenação, Cooperação com os países terceiros, COST.\n\n[▼M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31984D0339:PT:NOT)\n\n2. O Conselho Científico do CCI e o Conselho de Administração do CCI são consultados sobre os projectos de programas.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982D0755:PT:NOT)\n\n3. A Comissão, de posse dos projectos de programas, procede ao exame destes textos á luz 'das políticas gerais da Comunidade, tendo em conta a situação orçamental desta última. A Comissão aprova as propostas nas condições previstas no Tratado e submete-as ao Conselho.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971D0057:PT:NOT)"
+  },
+  "05d496ff8e94159e": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O Director-Geral será responsável péla boa execução dos programas atribuídos ao CCI. Orienta, pela suas decisões, a accção dos departamentos e serviços, em especial no que diz respeito às opções necessárias à realização dos objectivos do programa.\n\n2. O Director-Geral fornecerá à Comissão[►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982D0755:PT:NOT) de acordo com o Director-Geral da Ciência, da Investigação e do Desenvolvimento ◄ todos os elementos necessários com vista a permitir-lhe o estabelecimento da relações previstas nos termos do artigo 11.o do Tratado Euratom.\n\n3. O Director-Geral velará, se necessário, tanto na fase de execução dos programas como na da sua elaboração, por que sejam tomadas todas as medidas no sentido de assegurar uma coesão e uma articulação racional entre programas sucessivos, tendo em conta especialmente a infra-estrutura científica e industrial do CCI. O Director-Geral preparará; nomeadamente, o reexame dos programas que tem lugar de dois em dois anos."
+  },
+  "c1368b68bfc8112a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO Director-Geral manterá o [►M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31984D0339:PT:NOT) Conselho Científico do CCI ◄ regularmente informado da gestão do Centro Comum de Investigação, nomeadamente no que diz respeito aos principais contratos ou transacções celebrados, à acção conduzida em matéria de gestão do pessoal; à fixação do programa detalhado do Centro e às alterações importantes introduzidas nos programa previamente estabelecidos. Com base nestas informações, o[►M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31984D0339:PT:NOT) Conselho Científico do CCI ◄ pode formular pareceres destinados ao Director-Geral."
+  },
+  "788557dda69d40df": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O Director-Geral estabelecerá todos os anos os elementos financeiros necessários à execução do programa de forma a permitir a elaboraçjão da parte correspondente do anteprojecto de orçamento das Comunidades. Estes elementos incluirão, nomeadamente, previsões de receitas e de despesas referentes à execução pelo CCI de trabalhos por conta de terceiros.\n\nAs disposipões do artigo 6.o aplicar-se-ão por analogia ao estabelecimento dos anteprojectos de orçamentos no que diz respeito às actividades de investigação.\n\n2. O Director-Geral autorizará as despesas do CCI; assinará os títulos de pagamento e os títulos de receitas; celebrará contratos e transacções e autorizará a transferência de créditos.\n\n3. O Director-Geral prestará trimestralmente contas da sua gestão financeira à Comissão. Remeter-lhe-á, no final do ano financeiro, o balanço das receitas e das despesas realizadas durante o ano financeiro findo.\n\n4. A Comissão nomeará o agente encarregado do controlo do compromisso e da autorização das despesas, bem como do controlo das receitas.\n\n5. A Comissão nomeará o contabilista encarregado do pagamento das despesas, da fiscalização das receitas, bem como da movimentação dos fundos e dos valores, por cuja conservação ele é responsável."
+  },
+  "24b231ef9cc69e62": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. O Director-Geral exercerá sobre o pessoal os poderes conferidos à autoridade com poder de nomeação, com excepção dos previstos nos artigos 90.o e 91.o do Estatuto, que ficarão reservados à Comissão.\n\n2. Todavia, no que diz respeito aos funcionários e agentes dos graus A1 e A2, os poderes previstos nos artigos 29.o, 49.o, 50.o e 51.o, bem como no Título VI do Estatuto, serão exercidos pela Comissão por proposta do Director-Geral.\n\n3. O Director-Geral tomará, em nome de Comissão, todas as medidas necessárias para garantir a segurança das pessoas e das instalações colocadas sob a sua responsabilidade.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31975D0241:PT:NOT)\n\nArtigo 10 bis\n\nO Director-Geral pode delegar nos responsáveis dos estabelecimentos os poderes que lhe são atribuídos pela presente decisão. O Director-Geral manterá a Comissão informada das delegações concedidas nos termos deste artigo.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31982D0755:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31971D0057:PT:NOT)"
+  },
+  "bf4c3c469d842b17": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA presente decisão será publicada no Jornal Oficial das Comunidades Europeias."
+  }
+ }
+}

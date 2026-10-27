@@ -1,0 +1,238 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:493699:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-34518575",
+ "dre_path": "/dr/detalhe/decreto-lei/229-2003-493699",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-09-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47794775",
+    "47794875",
+    "47794975",
+    "47795075",
+    "47795175",
+    "47795275",
+    "47795375",
+    "47795475",
+    "47795575",
+    "47795675",
+    "47795775",
+    "47795875",
+    "47795975",
+    "47796075",
+    "47796175"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "47794775",
+    "47794875",
+    "47794975",
+    "47795075",
+    "47795175",
+    "156432464",
+    "156432465",
+    "47795475",
+    "156432466",
+    "156432467",
+    "47795775",
+    "47795875",
+    "47795975",
+    "47796975",
+    "47796075",
+    "47796175"
+   ]
+  }
+ ],
+ "fragments": {
+  "47794775": {
+   "fragment_id": "35138375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Directiva n.º <a href=\"eurlex.asp?ano=1973&id=373L0241\" title=\"Link para Directiva da Comunidade Europeia\">73/241/CEE</a>, do Conselho, de 24 de Julho, estabeleceu as definições bem como as regras comuns respeitantes à composição, às características de fabrico, ao condicionamento e à rotulagem dos produtos de cacau e de chocolate.\n\nEsta directiva foi transposta para a ordem jurídica nacional através do Decreto-Lei n.º 44/89, de 6 de Fevereiro, posteriormente revogado pelo Decreto-Lei n.º 227/93, de 22 de Junho, que foi regulamentado pela Portaria n.º 671/93, de 17 de Julho, a qual foi alterada pela Portaria n.º 1067/95, de 30 de Agosto.\n\nAs definições e as regras relativas aos produtos de cacau e de chocolate constantes da referida directiva foram, porém, alteradas tendo em consideração o progresso tecnológico, a evolução dos gostos dos consumidores e a necessidade de adaptação à legislação geral relativa aos géneros alimentícios, designadamente à rotulagem, aos edulcorantes e outros aditivos autorizados, às substâncias aromatizantes, aos solventes de extracção e aos métodos de análise.\n\nAlém disso, passou a ser permitida, em todos os Estados membros, a adição aos produtos de chocolate de um máximo de 5% de gorduras vegetais, além da manteiga de cacau, as quais devem ser equivalentes àquela e encontrar-se definidas segundo critérios técnicos e científicos.\n\nNa rotulagem destes produtos, além da lista de ingredientes, deve ser facultada ao consumidor uma informação correcta, neutra e objectiva sobre os mesmos, podendo constar, designadamente, a indicação de que não foram adicionadas outras gorduras vegetais além da manteiga de cacau.\n\nAs normas relativas aos produtos de cacau e de chocolate destinados à alimentação humana constam, actualmente, da Directiva n.º <a href=\"eurlex.asp?ano=2000&id=300L0036\" title=\"Link para Directiva da Comunidade Europeia\">2000/36/CE</a>, do Parlamento Europeu e do Conselho, de 23 de Junho, que ora importa transpor para a ordem jurídica nacional.\n\nEsta, quanto à rotulagem, remete para as regras da Directiva n.º <a href=\"eurlex.asp?ano=1979&id=379L0112\" title=\"Link para Directiva da Comunidade Europeia\">79/112/CEE</a>, do Conselho, de 18 de Dezembro de 1978, a qual se encontra transposta para ordem jurídica nacional através do Decreto-Lei n.º 560/99, de 18 de Dezembro, entretanto alterado pelo Decreto-Lei n.º 183/2002, de 20 de Agosto.\n\nPorém, nos termos do Decreto-Lei n.º 560/99, de 18 de Dezembro, os produtos de cacau e de chocolate não se encontram obrigados a conter na sua rotulagem a indicação quantitativa de ingredientes, consistindo este aspecto numa excepção que não se encontra estabelecida no diploma comunitário transposto.\n\nImporta, assim, eliminar aquela excepção, aproveitando-se o presente diploma para introduzir a referida alteração ao Decreto-Lei n.º 560/99, de 18 de Dezembro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "47794875": {
+   "fragment_id": "35650675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2000&id=300L0036\" title=\"Link para Directiva da Comunidade Europeia\">2000/36/CE</a>, do Parlamento Europeu e do Conselho, de 23 de Junho, relativa aos produtos de cacau e de chocolate destinados à alimentação humana."
+  },
+  "47794975": {
+   "fragment_id": "35650775",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente diploma aplica-se aos produtos de cacau e de chocolate destinados à alimentação humana definidos no anexo I do presente diploma, que dele faz parte integrante."
+  },
+  "47795075": {
+   "fragment_id": "35650875",
+   "type": 11,
+   "heading": "Artigo 3.º — Adição de gorduras vegetais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Adição de gorduras vegetais\n\n1 - Aos produtos de chocolate definidos nos n.os 3, 4, 5, 6, 8 e 9 da parte A do anexo I podem ser adicionadas, além da manteiga de cacau, as gorduras vegetais que se encontram definidas e enumeradas no anexo II do presente diploma e que dele faz parte integrante.\n\n2 - A adição a que se refere o número anterior não pode exceder 5% do produto acabado após dedução da massa total das outras matérias comestíveis eventualmente utilizadas, nos termos da parte B do anexo I, e sem qualquer redução dos teores mínimos de manteiga de cacau ou de matéria seca total de cacau.\n\n3 - Sem prejuízo do disposto no artigo 4.º, a rotulagem dos produtos de chocolate referidos no n.º 1 deve incluir a referência «contém outras gorduras vegetais além da manteiga de cacau», que deve evidenciar-se e ser claramente legível, apresentando-se da seguinte forma:\n\na) No mesmo campo visual da lista de ingredientes, mas distinguindo-se da mesma;\n\nb) Em caracteres a negrito que devem ser pelo menos do mesmo tamanho daqueles que são utilizados na lista de ingredientes;\n\nc) Na proximidade da denominação de venda do produto.\n\n4 - Sem prejuízo do disposto na alínea c) do número anterior, a denominação de venda pode também figurar noutro lugar."
+  },
+  "47795175": {
+   "fragment_id": "35650975",
+   "type": 11,
+   "heading": "Artigo 4.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Rotulagem\n\nAos produtos definidos no anexo I é aplicável o disposto no Decreto-Lei n.º 560/99, de 18 de Dezembro, relativo à rotulagem dos géneros alimentícios, nos termos seguintes:\n\na) As denominações de venda constantes do anexo I são reservadas aos produtos nele referidos e devem ser utilizadas no comércio para os designar mas podem ser utilizadas adicionalmente de acordo com as normas ou as práticas habituais aplicáveis no Estado membro em que se efectua a venda ao consumidor final para designar outros produtos que não possam ser confundidos com aqueles;\n\nb) A denominação de venda dos produtos definidos nos n.os 3, 4, 5, 6, 7 e 10 da parte A do anexo I, quando vendidos em sortidos, pode ser substituída pela denominação «chocolates sortidos» ou «chocolates com recheio sortidos» ou por uma denominação de venda similar e, neste caso, a lista de ingredientes pode ser uma só para o conjunto dos produtos que constituem o sortido;\n\nc) Nos produtos de cacau e de chocolate definidos nas alíneas c) e d) do n.º 2, bem como nos n.os 3, 4, 5, 8 e 9 da parte A do anexo I, o teor de matéria seca total de cacau deve figurar na rotulagem da seguinte forma: «cacau: ...% mínimo»;\n\nd) Nos produtos referidos na alínea b) e no segundo período da alínea d) do n.º 2 da parte A do anexo I, a indicação do teor de manteiga de cacau deve constar da rotulagem;\n\ne) As denominações de venda «chocolate», «chocolate de leite» e «chocolate de cobertura», definidas na parte A do anexo I, podem ser completadas por indicações ou qualificativos que façam referência a critérios de qualidade, desde que os produtos contenham:\n\ni) No caso do chocolate, no mínimo 43% de matéria seca total de cacau, dos quais pelo menos 26% de manteiga de cacau;\n\nii) No caso do chocolate de leite, no mínimo 30% de matéria seca total de cacau e pelo menos 18% de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea, dos quais no mínimo 4,5% de matéria gorda láctea;\n\niii) No caso do chocolate de cobertura, no mínimo 16% de matéria seca de cacau isenta de gordura."
+  },
+  "47795275": {
+   "fragment_id": "35651075",
+   "type": 11,
+   "heading": "Artigo 5.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autoridades competentes\n\nSem prejuízo das competências atribuídas por lei a outras entidades policiais e fiscalizadoras, compete especialmente à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar assegurar a fiscalização das normas constantes do presente diploma."
+  },
+  "47795375": {
+   "fragment_id": "35651175",
+   "type": 11,
+   "heading": "Artigo 6.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima, cujo montante mínimo é de (euro) 500 e máximo de (euro) 3740 ou (euro) 44890, consoante o agente em infracção seja pessoa singular ou colectiva:\n\na) O fabrico ou a comercialização de produtos de cacau e de chocolate cujas características e ingredientes não respeitem o disposto no artigo 3.º, bem como nos anexos I e II;\n\nb) A comercialização de produtos de cacau e de chocolate cuja rotulagem não cumpra o disposto no artigo 4.º, bem como nos anexos I e II.\n\n2 - A tentativa e a negligência são puníveis."
+  },
+  "47795475": {
+   "fragment_id": "35651275",
+   "type": 11,
+   "heading": "Artigo 7.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas cumulativamente com a coima as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos contados a partir do trânsito em julgado da decisão condenatória."
+  },
+  "47795575": {
+   "fragment_id": "35651375",
+   "type": 11,
+   "heading": "Artigo 8.º — Instrução dos processos, aplicação e destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instrução dos processos, aplicação e destino das coimas\n\n1 - O levantamento dos autos de contra-ordenação compete à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar, assim como às entidades policiais e fiscalizadoras.\n\n2 - A instrução dos processos de contra-ordenação compete à entidade que levantar o auto de notícia ou, caso esta não tenha competência para o efeito, à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar.\n\n3 - A aplicação das coimas e sanções acessórias compete ao director-geral de Fiscalização e Controlo da Qualidade Alimentar."
+  },
+  "47795675": {
+   "fragment_id": "35651475",
+   "type": 11,
+   "heading": "Artigo 9.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Afectação do produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para o Estado."
+  },
+  "47795775": {
+   "fragment_id": "35651575",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação, sendo, a partir desta data, proibida a comercialização de produtos de cacau e chocolate que não estejam conformes com o regime ora vigente."
+  },
+  "47795875": {
+   "fragment_id": "35651675",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma transitória\n\nSem prejuízo do disposto no artigo 10.º, os produtos de cacau e de chocolate que tiverem sido rotulados nos termos do Decreto-Lei n.º 227/93, de 22 de Junho, e da Portaria n.º 671/93, de 17 de Julho, com a redacção que lhe foi dada pela Portaria n.º 1067/95, de 30 de Agosto, antes de 3 de Agosto de 2003 podem ser comercializados até ao esgotamento das respectivas existências."
+  },
+  "47795975": {
+   "fragment_id": "35651775",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 227/93, de 22 de Junho;\n\nb) A alínea g) do n.º 2 do artigo 17.º do Decreto-Lei n.º 560/99, de 18 de Dezembro;\n\nc) A Portaria n.º 671/93, de 17 de Julho, com a redacção que lhe foi dada pela Portaria n.º 1067/95, de 30 de Agosto."
+  },
+  "47796075": {
+   "fragment_id": "35651875",
+   "type": 14,
+   "heading": "Anexo I — Denominações de venda, definições e características dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Denominações de venda, definições e características dos produtos\n\nA - Denominações de venda e definições\n\n1 - Manteiga de cacau - designa a matéria gorda obtida a partir de sementes de cacau ou de partes de sementes de cacau, com as seguintes características:\n\nTeor de ácidos gordos livres (expresso em ácido oleico): no máximo 1,75%;\n\nTeor de matérias insaponificáveis (determinado pelo éter de petróleo): no máximo 0,5%, excepto no caso da manteiga de cacau obtida por pressão, em que não poderá exceder 0,35%.\n\n2:\n\na) Cacau em pó, cacau - designa o produto obtido pela transformação em pó das sementes de cacau limpas, descascadas e torradas que contenha no mínimo 20%, em massa, de manteiga de cacau (expresso em relação à matéria seca) e no máximo 9% de humidade;\n\nb) Cacau magro em pó, cacau magro, cacau fortemente desengordurado em pó, cacau fortemente desengordurado - designa o cacau em pó que contenha menos de 20%, em massa, de manteiga de cacau (expresso em relação à matéria seca);\n\nc) Chocolate em pó - designa o produto que consiste numa mistura de cacau em pó e de açúcares que contenha pelo menos 32% de cacau em pó;\n\nd) Chocolate em pó para bebidas, cacau açucarado e cacau em pó açucarado - designa o produto que consiste numa mistura de cacau em pó e de açúcares que contenha pelo menos 25% de cacau em pó; estas denominações serão acompanhadas da indicação «teor reduzido de matéria gorda» se o produto tiver um teor reduzido de matéria gorda como definido na alínea b) supra.\n\n3 - Chocolate:\n\na) Designa o produto obtido a partir de produtos do cacau e de açúcares que, sem prejuízo da alínea b), contém, no mínimo, 35% de matéria seca total de cacau, dos quais pelo menos 18% de manteiga de cacau e no mínimo 14% de matéria seca de cacau isenta de gordura;\n\nb) Se a denominação a que se refere a alínea a) for completada pela expressão:\n\ni) «Em grânulos» ou «em flocos», o produto em questão, apresentado sob a forma de grânulos ou de flocos, deve conter, no mínimo, 32% de matéria seca total de cacau, dos quais pelo menos 12% de manteiga de cacau e no mínimo 14% de matéria seca de cacau isenta de gordura;\n\nii) «De cobertura», o produto em questão deve conter, no mínimo, 35% de matéria seca total de cacau, dos quais pelo menos 31% de manteiga de cacau e no mínimo 2,5% de matéria seca de cacau isenta de gordura;\n\niii) «Gianduja»/«gianduia»: chocolate com frutos de casca rija gianduja/gianduia (ou um dos derivados do termo «gianduja»/«gianduia»), o produto deve ser obtido, em primeiro lugar, a partir de chocolate com um teor mínimo de 32% de matéria seca total de cacau - incluindo um teor mínimo de 8% de matéria seca de cacau isenta de gordura - e, em segundo lugar, a partir de avelãs finamente moídas numa quantidade de 20 g a 40 g de avelãs por 100 g de produto acabado. Podem também ser adicionados os seguintes ingredientes:\n\n1) Leite e ou matéria seca de leite proveniente da evaporação do leite, em tal proporção que o produto acabado não contenha mais de 5% de matéria seca de leite;\n\n2) Amêndoas, avelãs e outras variedades de frutos de casca rija, inteiros ou partidos, em quantidades que, juntamente com as avelãs moídas, não excedam 60% da massa total do produto acabado.\n\n4 - Chocolate de leite:\n\na) Designa o produto obtido a partir de produtos do cacau, de açúcares e de leite ou produtos do leite que, sem prejuízo da alínea b), contém:\n\ni) No mínimo 25% de matéria seca total de cacau;\n\nii) No mínimo 14% de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea;\n\niii) No mínimo 2,5% de matéria seca de cacau isenta de gordura;\n\niv) No mínimo 3,5% de matéria gorda láctea;\n\nv) No mínimo 25% de matéria gorda total (manteiga de cacau e matéria gorda láctea);\n\nb) Se a denominação a que se refere a alínea anterior for completada pela expressão:\n\ni) «Em grânulos» ou «em flocos», o produto em questão, apresentado sob a forma de grânulos ou de flocos, deve conter, no mínimo, 20% de matéria seca total de cacau, pelo menos 12% de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea e, no mínimo, 12% de matéria gorda total (em manteiga de cacau e matéria gorda láctea);\n\nii) «De cobertura», o produto em questão deve conter, no mínimo, 31% de matéria gorda total (em manteiga de cacau e matéria gorda láctea);\n\niii) «Gianduja»/«gianduia»: chocolate de leite com frutos de casca rija gianduja/gianduia (ou um dos derivados do termo «gianduja»/«gianduia»), o produto deve ser obtido, em primeiro lugar, a partir de chocolate de leite com um teor mínimo de 10% de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea e, em segundo lugar, a partir de avelãs finamente moídas numa quantidade de 15 g a 40 g de avelãs por 100 g de produto acabado. Podem também ser adicionadas amêndoas, avelãs e outras variedades de frutos de casca rija, inteiros ou partidos, em quantidades que, juntamente com as avelãs moídas, não excedam 60% da massa total do produto acabado;\n\nc) Se, nesta denominação, a expressão «de leite» for substituída pela expressão:\n\ni) «De nata», o produto em questão deve conter, no mínimo, 5,5% de matéria gorda láctea;\n\nii) «De leite desnatado», o produto em questão não pode conter mais de 1% de matéria gorda láctea;\n\nd) A denominação de venda «milk chocolate», no Reino Unido e na Irlanda, pode ser utilizada para designar também o produto definido no n.º 5, desde que esta denominação seja acompanhada da indicação do teor de matéria seca de leite através da menção «milk solids ...% minimum» mas, no território nacional, a denominação de venda, em língua portuguesa, que deve ser utilizada na comercialização deste produto é «chocolate de leite familiar».\n\n5 - Chocolate de leite familiar - designa o produto obtido a partir de produtos do cacau, de açúcares e de leite ou produtos do leite, que contém:\n\na) No mínimo 20% de matéria seca total de cacau;\n\nb) No mínimo 20% de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea;\n\nc) No mínimo 2,5% de matéria seca de cacau isenta de gordura;\n\nd) No mínimo 5% de matéria gorda láctea;\n\ne) No mínimo 25% de matéria gorda total (em manteiga de cacau e matéria gorda láctea).\n\n6 - Chocolate branco - designa o produto obtido a partir de manteiga de cacau, de leite ou produtos do leite e de açúcares, que contém, no mínimo, 20% de manteiga de cacau e pelo menos 14% de matéria seca de leite proveniente da evaporação parcial ou total de leite inteiro, de leite parcial ou totalmente desnatado, de nata, de nata parcial ou totalmente desidratada, de manteiga ou de matéria gorda láctea, dos quais no mínimo 3,5% de matéria gorda láctea.\n\n7 - Chocolate com recheio - designa o produto com recheio cuja parte exterior é constituída por um dos produtos definidos nos n.os 3, 4, 5 e 6. Esta denominação não se aplica aos produtos cujo interior seja constituído por produtos de padaria, pastelaria, bolacha ou biscoito ou por um gelado alimentar.\n\nA parte exterior de chocolate dos produtos que ostentem esta denominação deverá representar, no mínimo, 25% da massa total do produto.\n\n8 - Chocolate a la taza - designa o produto obtido a partir de produtos do cacau, de açúcares e de farinha ou amido de trigo, de arroz ou de milho que contém, no mínimo, 35% de matéria seca total de cacau (dos quais pelo menos 14% de matéria seca de cacau isenta de gordura e no mínimo 18% de manteiga de cacau) e, no máximo, 8% de farinha ou amido.\n\n9 - Chocolate familiar a la taza - designa o produto obtido a partir de produtos do cacau, de açúcares e de farinha ou amido de trigo, de arroz ou de milho que contém, no mínimo, 30% de matéria seca total de cacau (dos quais pelo menos 12% de matéria seca de cacau isenta de gordura e no mínimo 18% de manteiga de cacau) e, no máximo, 18% de farinha ou amido.\n\n10 - Bombom de chocolate - designa o produto que cabe na boca de uma só vez, constituído por:\n\na) Chocolate com recheio;\n\nb) Um só tipo de chocolate ou uma combinação ou mistura de tipos de chocolate (na acepção das definições constantes dos n.os 3, 4, 5 ou 6) e de outras matérias comestíveis, desde que o chocolate represente pelo menos 25% da massa total do produto.\n\nB - Ingredientes facultativos autorizados\n\nAdição de matérias comestíveis\n\n1 - Sem prejuízo do disposto no artigo 2.º e no n.º 2 da parte B, podem também adicionar-se outras matérias comestíveis aos produtos de chocolate definidos nos n.os 3, 4, 5, 6, 8 e 9 da parte A.\n\nContudo, a adição de:\n\na) Gorduras animais e preparados de gorduras animais que não provenham exclusivamente do leite é proibida;\n\nb) Farinhas, féculas e amidos só é autorizada se for conforme com as definições que constam dos n.os 8 e 9 da parte A.\n\nAs matérias comestíveis adicionadas não devem representar mais de 40% da massa total do produto acabado.\n\n2 - Aos produtos definidos nos n.os 2, 3, 4, 5, 6, 8 e 9 da parte A só podem ser adicionadas substâncias aromatizantes que não lembrem o sabor do chocolate natural ou da matéria gorda do leite.\n\nC - Cálculo dos teores percentuais\n\nOs teores mínimos previstos nos n.os 3, 4, 5, 6, 8 e 9 da parte A são calculados após dedução da massa dos ingredientes previstos na parte B. No caso dos produtos constantes dos n.os 7 e 10 da parte A os teores mínimos são calculados após dedução da massa dos ingredientes previstos na parte B, assim como da massa do recheio.\n\nNo caso dos produtos definidos nos n.os 7 e 10 da parte A, os teores de chocolate são calculados em relação à massa total do produto acabado, incluindo o recheio.\n\nD - Açúcares e edulcorantes\n\nNa acepção do presente diploma, são admitidos no fabrico dos produtos a que se refere a parte A outros açúcares para além dos abrangidos pela legislação vigente sobre os açúcares destinados à alimentação humana.\n\nNo fabrico dos produtos referidos na parte A podem também ser utilizados os edulcorantes previstos na legislação vigente relativa aos mesmos."
+  },
+  "47796175": {
+   "fragment_id": "35651975",
+   "type": 14,
+   "heading": "Anexo II — Gorduras vegetais referidas no n.º 1 do artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Gorduras vegetais referidas no n.º 1 do artigo 3.º\n\nAs gorduras vegetais a que se refere o n.º 1 do artigo 3.º são, estremes ou em mistura, equivalentes à manteiga de cacau e obedecem aos seguintes critérios:\n\na) Serem gorduras vegetais não láuricas, ricas em triglicéridos monoinsaturados simétricos do tipo POP, POSt, StOSt (ver nota 1);\n\nb) Serem miscíveis em qualquer proporção com a manteiga de cacau e compatíveis com as suas propriedades físicas (ponto de fusão e temperatura de cristalização, velocidade de fusão, necessidade de fase de temperagem);\n\nc) Serem obtidas exclusivamente por processos de refinação e ou fraccionamento; está excluída a alteração enzimática da estrutura dos triglicéridos.\n\nDe acordo com estes critérios, podem ser utilizadas as seguintes gorduras vegetais obtidas a partir das plantas enunciadas infra.\n\n(ver tabela no documento original)\n\nAlém disso, a título de derrogação, os Estados membros podem autorizar a utilização de óleo de coco no chocolate usado para o fabrico de gelados e produtos congelados similares.\n\n(nota 1) P (ácido palmítico), O (ácido oleico), St (ácido esteárico)."
+  },
+  "156432464": {
+   "fragment_id": "35651075",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 5.º — Fiscalização\n\nSem prejuízo das competências atribuídas por lei a outras entidades policiais e fiscalizadoras, compete à Autoridade de Segurança Alimentar e Económica (ASAE) assegurar a fiscalização das normas constantes do presente diploma.\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156432465": {
+   "fragment_id": "35651175",
+   "type": 11,
+   "heading": "Artigo 6.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), o fabrico ou a comercialização de produtos de cacau e de chocolate cujas características e ingredientes não respeitem o disposto no artigo 3.º, bem como nos anexos i e ii.\n\n2 - Constitui contraordenação económica leve, punível nos termos do RJCE, a comercialização de produtos de cacau e de chocolate cuja rotulagem não cumpra o disposto no artigo 4.º, bem como nos anexos i e ii.\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156432466": {
+   "fragment_id": "35651375",
+   "type": 11,
+   "heading": "Artigo 8.º — Instrução e decisão",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 8.º — Instrução e decisão\n\n1 - (Revogado.)\n\n2 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.\n\n3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156432467": {
+   "fragment_id": "35651475",
+   "type": 11,
+   "heading": "Artigo 9.º — Afectação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Afectação do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "47796975": {
+   "fragment_id": "35652075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - João Luís Mota de Campos - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.\n\nPromulgado em 5 de Setembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 15 de Setembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

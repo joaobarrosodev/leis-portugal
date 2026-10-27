@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:601113:por
+title: Decreto-Lei n.º 34/82
+short_title: null
+summary: Autoriza a criação, na ilha de Santa Maria, de uma zona franca
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros, Gabinete do Ministro da República para a Região Autónoma dos Açores e Ministério das
+  Finanças e do Plano
+proposing_entity: null
+official_number: 34/82
+official_date: null
+publication_date: '1982-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/1982, Série I de 1982-02-04
+  number: '29'
+  series: I
+  supplement: null
+  pages: 276 - 276
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/02/02900/02760276.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '601113'
+  dre_path: /dr/detalhe/decreto-lei/34-1982-601113
+  internal: pt:dre:601113:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1982-601113
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1982-601113
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:23:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: db20346326998d3657a21c207d7d66656ea33cc40a8b7f8c5f3431a49f252bf7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- ILHA de Santa Maria
+- Zona Tributária Privilegiada
+relationships:
+- type: amended_by
+  target: pt:dre:180310525:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:180310525:por
+  label: Extinta, a partir de 16.03.2022, a Zona Franca de Santa Maria, cuja criação foi autorizada pelo presente diploma,
+    pelo(a) Decreto Regulamentar Regional n.º 5/2022/A - Diário da República n.º 50/2022, Série I de 2022-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2022-180310525
+  date: '2022-03-11'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:23:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 34/82
+
+de 4 de Fevereiro
+
+A situação geográfica do arquipélago dos Açores, entre os grandes mercados consumidores e na rota dos mais importantes fluxos de matérias-primas, confere-lhe uma importância estratégica apreciável no plano das actividades económicas.
+
+Assim, convindo modernizar as estruturas comerciais e industriais da Região, com vista ao melhor aproveitamento dos recursos disponíveis, à penetração em novos mercados e, ao mesmo tempo, dar melhor utilização a importantes infra-estruturas físicas existentes, a instalação de uma zona franca surge como contributo significativo para o desenvolvimento sócio-económico da Região.
+
+Sendo de manter a maioria prudência na procura de uma solução não muito exigente em investimentos, ainda que susceptível de ampliação, opta-se, desde já, pela modalidade de zona franca, cujo conceito é suficientemente flexível para enquadrar juridicamente as iniciativas que venham a concretizar-se.
+
+Considerando a próxima adesão de Portugal às Comunidades Europeias, tanto o regime jurídico-fiscal como a regulamentação da zona franca terão de ser compatíveis com as normas comunitárias aplicáveis.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º É autorizada a criação, na ilha de Santa Maria, Região Autónoma dos Açores, de uma zona franca.
+
+Art. 2.º A zona franca referida no artigo anterior revestirá a natureza industrial, constituindo uma área de livre importação e exportação de mercadorias.
+
+Art. 3.º A definição do regime jurídico-fiscal aplicável às mercadorias, a natureza, âmbito territorial, características da zona franca e regulamentação da actividade industrial nela desenvolvida serão estabelecidos em diplomas emanados do Governo da República ou do Governo Regional conforme o disposto na Constituição da República Portuguesa ou no Estatuto da Região Autónoma dos Açores.
+
+Art. 4.º As mercadorias entradas na zona que sejam objecto de manipulações usuais, complemento de fabrico, transformação ou reparação, bem como as que se encontram no mesmo estado em que nela deram entrada, poderão ser canalizadas para o restante território da República, sendo, neste caso, objecto de importação, com o pagamento de todas as imposições devidas, ou exportadas para terceiros países.
+
+Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 25 de Janeiro de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

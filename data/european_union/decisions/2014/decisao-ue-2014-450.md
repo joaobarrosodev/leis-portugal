@@ -1,0 +1,663 @@
+---
+schema_version: '1.0'
+id: eu:celex:32014D0450:por
+title: Decisão 2014/450/PESC do Conselho, de 10 de julho de 2014
+short_title: null
+summary: Decisão 2014/450/PESC do Conselho, de 10 de julho de 2014 , relativa a medidas restritivas tendo em conta a situação
+  no Sudão e que revoga a Decisão 2011/423/PESC
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2014/450
+official_date: null
+publication_date: '2014-07-11'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 203 de 11.7.2014
+  number: '203'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/15dff02d-08ce-11e4-a7d0-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2014-07-11'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2026-06-22'
+identifiers:
+  celex: 32014D0450
+  eli: http://data.europa.eu/eli/dec/2014/450/oj
+  oj: oj:JOL_2014_203_R_0007
+  dre: null
+  dre_path: null
+  internal: eu:celex:32014D0450:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32014D0450
+  metadata_url: http://publications.europa.eu/resource/cellar/15dff02d-08ce-11e4-a7d0-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/1b6ac5d1-7a15-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014D0450-20260622
+  retrieved_at: '2026-10-26T11:04:32Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-16T07:41:18.742+02:00'
+integrity:
+  source_sha256: f8d177d729c50d42e83d9ad1cb2b6e3cd4753ea7e72f986b154ad49bcc961702
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T11:04:32Z'
+  notes: Texto consolidado 02014D0450-20260622.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Sudão
+- restrição ao comércio
+- sanção económica
+- sanção internacional
+relationships:
+- type: amended_by
+  target: celex:32017D0413
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1570865f-049a-11e7-8a35-01aa75ed71a1
+  date: '2017-03-09'
+- type: amended_by
+  target: celex:32017D1948
+  label: null
+  source: http://publications.europa.eu/resource/cellar/871ddc25-ba15-11e7-a7f8-01aa75ed71a1
+  date: '2017-10-26'
+- type: amended_by
+  target: celex:32018D0516
+  label: null
+  source: http://publications.europa.eu/resource/cellar/45d68e93-3258-11e8-b5fe-01aa75ed71a1
+  date: '2018-03-28'
+- type: amended_by
+  target: celex:32021D0815
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f1399132-b9d0-11eb-8aca-01aa75ed71a1
+  date: '2021-05-21'
+- type: amended_by
+  target: celex:32023D0726
+  label: null
+  source: http://publications.europa.eu/resource/cellar/708e5b5b-d1ef-11ed-a05c-01aa75ed71a1
+  date: '2023-04-03'
+- type: amended_by
+  target: celex:32024D3113
+  label: null
+  source: http://publications.europa.eu/resource/cellar/65d6fe1c-b697-11ef-91ed-01aa75ed71a1
+  date: '2024-12-10'
+- type: amended_by
+  target: celex:32026D0529
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8e07d7ac-188d-11f1-8870-01aa75ed71a1
+  date: '2026-03-05'
+- type: amended_by
+  target: celex:32026D1049
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e185d6c7-4a06-11f1-8095-01aa75ed71a1
+  date: '2026-05-07'
+- type: amended_by
+  target: celex:32026D1390
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cb8f8d1f-6e1f-11f1-ae88-01aa75ed71a1
+  date: '2026-06-22'
+- type: based_on
+  target: celex:12012M029
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e7c83fe6-4e78-4289-933d-19bbeefbb2f4
+  date: '2012-11-09'
+- type: cites
+  target: celex:32004E0031
+  label: null
+  source: http://publications.europa.eu/resource/cellar/abf03e68-d2a4-4e15-b842-cd9a98982be7
+- type: cites
+  target: celex:32005E0411
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c1140f02-ce2b-4d96-a61b-7f8e49eb7ea1
+- type: cites
+  target: celex:32008E0944
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4c74b1ab-9594-4cfa-b1f8-d81469689065
+- type: repeals
+  target: celex:32011D0423
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f5087171-fc88-4118-8cbc-59af3273fd29
+  date: '2011-07-19'
+- type: repeals
+  target: celex:32014D0040
+  label: null
+  source: http://publications.europa.eu/resource/cellar/506041e8-88c4-11e3-9b7d-01aa75ed71a1
+  date: '2014-01-29'
+article_structure:
+  article_count: 11
+  section_count: 20
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T11:04:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decisão 2014/450/PESC do Conselho, de 10 de julho de 2014
+
+> 02014D0450 — PT — 22.06.2026 — 009.001
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterada por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32017D0413) — [DECISÃO DE EXECUÇÃO (PESC) 2017/413 DO CONSELHO de 7 de março de 2017](http://publications.europa.eu/resource/celex/32017D0413) — L 63 — 105 — 9.3.2017
+- [M2](http://publications.europa.eu/resource/celex/32017D1948) — [DECISÃO DE EXECUÇÃO (PESC) 2017/1948 DO CONSELHO de 25 de outubro de 2017](http://publications.europa.eu/resource/celex/32017D1948) — L 276 — 60 — 26.10.2017
+- [►M3](http://publications.europa.eu/resource/celex/32018D0516) — [DECISÃO DE EXECUÇÃO (PESC) 2018/516 DO CONSELHO de 27 de março de 2018](http://publications.europa.eu/resource/celex/32018D0516) — L 84 — 22 — 28.3.2018
+- [►M4](http://publications.europa.eu/resource/celex/32021D0815) — [DECISÃO DE EXECUÇÃO (PESC) 2021/815 DO CONSELHO de 20 de maio de 2021](http://publications.europa.eu/resource/celex/32021D0815) — L 180 — 152 — 21.5.2021
+- [►M5](http://publications.europa.eu/resource/celex/32023D0726) — [DECISÃO (PESC) 2023/726 DO CONSELHO de 31 de março de 2023](http://publications.europa.eu/resource/celex/32023D0726) — L 94 — 48 — 3.4.2023
+- [►M6](http://publications.europa.eu/resource/celex/32024D3113) — [DECISÃO (PESC) 2024/3113 DO CONSELHO de 9 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024D3113) — L 3113 — 1 — 10.12.2024
+- [►M7](http://publications.europa.eu/resource/celex/32026D0529) — [DECISÃO DE EXECUÇÃO (PESC) 2026/529 DO CONSELHO de 5 de março de 2026](http://publications.europa.eu/resource/celex/32026D0529) — L 529 — 1 — 5.3.2026
+- [►M8](http://publications.europa.eu/resource/celex/32026D1049) — [DECISÃO DE EXECUÇÃO (PESC) 2026/1049 DO CONSELHO de 7 de maio de 2026](http://publications.europa.eu/resource/celex/32026D1049) — L 1049 — 1 — 7.5.2026
+- [►M9](http://publications.europa.eu/resource/celex/32026D1390) — [DECISÃO DE EXECUÇÃO (PESC) 2026/1390 DO CONSELHO de 22 de junho de 2026](http://publications.europa.eu/resource/celex/32026D1390) — L 1390 — 1 — 22.6.2026
+
+## DECISÃO 2014/450/PESC DO CONSELHO
+
+de 10 de julho de 2014
+
+relativa a medidas restritivas tendo em conta a situação no Sudão e que revoga a Decisão 2011/423/PESC
+
+###### Artigo 1.º
+
+1. São proibidos a venda, o fornecimento, a transferência ou a exportação para o Sudão, por nacionais dos Estados-Membros ou a partir dos territórios dos Estados-Membros, ou utilizando navios ou aeronaves que arvorem a sua bandeira, de armamento e material conexo de qualquer tipo, incluindo armas e munições, veículos e equipamentos militares, equipamentos paramilitares e respetivas peças sobresselentes, originários ou não daqueles territórios.
+
+2.
+
+É igualmente proibido:
+
+a) Prestar, direta ou indiretamente, assistência técnica, serviços de corretagem ou outros serviços relacionados com os artigos referidos no n.º 1 ou relacionados com o fornecimento, fabrico, manutenção ou utilização desses artigos, a qualquer pessoa singular ou coletiva, entidade ou organismo do Sudão ou para utilização nesse país;
+
+b) Direta ou indiretamente, financiar ou prestar assistência financeira relacionada com os artigos referidos no n.º 1, incluindo em particular subvenções, empréstimos e seguros de crédito à exportação, bem como seguros ou resseguros para qualquer venda, fornecimento, transferência ou exportação desses artigos, ou para a prestação, de assistência técnica, de serviços de corretagem ou outros serviços, a qualquer pessoa singular ou coletiva, entidade ou organismo do Sudão ou para utilização nesse país;
+
+c) Participar, com conhecimento de causa e intencionalmente, em atividades cujo objetivo ou efeito seja contornar as medidas referidas nas alíneas a) ou b).
+
+###### Artigo 2.º
+
+1.
+
+O artigo 1.º não se aplica:
+
+a) À venda, ao fornecimento, à transferência ou à exportação de equipamento militar não letal destinado exclusivamente a ser utilizado para fins humanitários, de controlo do respeito pelos direitos humanos ou de proteção, ou para programas de desenvolvimento institucional das Nações Unidas (ONU), da União Africana (UA), da União Europeia, ou de material destinado a ser utilizado em operações de gestão de crises conduzidas pela União Europeia, pela ONU e pela UA;
+
+b) À venda, ao fornecimento, à transferência ou à exportação de veículos que não sejam de combate, fabricados ou equipados com materiais que confiram proteção balística e exclusivamente destinados à proteção no Sudão do pessoal da União Europeia e dos seus Estados-Membros, ou do pessoal da ONU ou da UA;
+
+c) À prestação de assistência técnica, de serviços de corretagem e outros serviços relacionados com esse equipamento ou com esses programas e operações referidos na alínea a);
+
+d) Ao financiamento e à prestação de assistência financeira relacionados com o referido equipamento ou com os programas e operações referidos na alínea a);
+
+e) À venda, ao fornecimento, à transferência ou à exportação de equipamento ou materiais utilizados para operações de desminagem;
+
+desde que esses envios terem sido previamente aprovados pela autoridade competente do Estado-Membro em questão.
+
+2. O artigo 1.º também não se aplica ao vestuário de proteção, incluindo coletes à prova de bala e capacetes militares, exportado temporariamente para o Sudão pelo pessoal das Nações Unidas, o pessoal da União Europeia, ou dos seus Estados-Membros, os representantes dos media e os trabalhadores das organizações humanitárias e de desenvolvimento, bem como o pessoal a elas associado, exclusivamente para seu uso pessoal.
+
+3. Os Estados-Membros devem apreciar caso a caso as entregas ao abrigo do presente artigo, tendo devidamente em conta os critérios fixados na Posição Comum 2008/944/PESC do Conselho ([^1^](http://publications.europa.eu/resource/cellar/1b6ac5d1-7a15-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1#E0001)). Os Estados-Membros devem exigir salvaguardas adequadas contra a utilização indevida de autorizações concedidas ao abrigo do presente artigo, devendo, quando necessário, tomar medidas para o repatriamento do equipamento.
+
+###### Artigo 3.º
+
+Nos termos da Resolução 1591 (2005) do CSNU, as medidas restritivas que constam do artigo 4.º, n.º 1, e do artigo 5.º, n.º 1, da presente decisão devem ser aplicadas aos indivíduos, designados pelo Comité criado pelo ponto 3 da Resolução 1591 (2005) do CSNU («Comité das Sanções»), que obstruem o processo de paz, ameaçam a estabilidade no Darfur e na região, cometem violações do direito internacional humanitário ou de direitos humanos ou outras atrocidades, violam o embargo à venda de armas e/ou são responsáveis por voos militares ofensivos na e sobre a região do Darfur.
+
+A lista de pessoas relevantes consta do anexo da presente decisão.
+
+###### Artigo 4.º
+
+1. Os Estados-Membros devem tomar as medidas necessárias para impedir a entrada ou o trânsito no respetivo território das pessoas a que se refere o artigo 3.º.
+
+2. O n.º 1 não obriga os Estados-Membros a recusar a entrada dos seus próprios nacionais no respetivo território.
+
+3. O n.º 1 não é aplicável quando o Comité das Sanções determine que a viagem se justifica por razões humanitárias, incluindo obrigações religiosas, ou quando o Comité das Sanções conclua que uma exceção concorreria para os objetivos consagrados nas resoluções relevantes do CSNU, ou seja, para a instauração da paz e da estabilidade no Sudão e na região.
+
+4. Quando, nos termos do n.º 3, um Estado-Membro autorizar a entrada ou o trânsito no seu território de pessoas designadas pelo Comité das Sanções, essa autorização fica limitada à finalidade para que foi concedida e às pessoas a que diga diretamente respeito.
+
+###### Artigo 5.º
+
+1. São congelados todos os fundos, ativos financeiros e recursos económicos pertencentes ou controlados direta ou indiretamente pelas pessoas a que se refere o artigo 3.º ou detidos por entidades direta ou indiretamente pertencentes ou controladas por essas pessoas ou por quaisquer das pessoas identificadas no anexo que atuem em seu nome ou sob as suas instruções.
+
+2. É proibido disponibilizar, direta ou indiretamente, fundos, ativos financeiros ou recursos económicos a essas pessoas ou entidades, ou em benefício das mesmas.
+
+3.
+
+Podem ser previstas exceções relativamente a fundos, outros ativos financeiros e recursos económicos que:
+
+a) Sejam necessários para cobrir despesas de base, incluindo os pagamentos de alimentos, rendas ou empréstimos hipotecários, medicamentos e tratamentos médicos, impostos, apólices de seguro e serviços públicos;
+
+b) Se destinem exclusivamente ao pagamento de honorários profissionais razoáveis e ao reembolso de despesas associadas à prestação de serviços jurídicos;
+
+c) Se destinem exclusivamente ao pagamento de encargos ou taxas de serviço, em conformidade com as legislações nacionais, correspondentes à manutenção ou gestão normal de fundos, outros ativos financeiros e recursos económicos congelados,
+
+d) Sejam necessários para cobrir despesas extraordinárias, após notificação do Estado-Membro interessado ao Comité das Sanções e a aprovação deste último;
+
+e) Sejam objeto de uma decisão ou garantia judicial, administrativa ou arbitral, podendo nesse caso os fundos, os outros ativos financeiros e recursos económicos ser utilizados para satisfazer essa garantia ou cumprir essa decisão, desde que a mesma tenha sido homologada antes da data da Resolução 1591 (2005) do CSNU, e não tenha como beneficiário uma pessoa ou entidade referida no presente artigo, após notificação do Estado-Membro em questão ao Comité das Sanções.
+
+4.
+
+O n.º 2 não é aplicável ao crédito em contas congeladas de:
+
+a) Juros ou outras somas devidas a título dessas contas; ou
+
+b) Pagamentos devidos a título de contratos ou acordos celebrados ou de obrigações contraídas antes da data em que essas contas tiverem ficado sujeitas a medidas restritivas,
+
+desde que os referidos juros, outras somas e pagamentos continuem sujeitos ao disposto no n.º 1.
+
+5.
+
+Os n.^os^ 1 e 2 não se aplicam ao fornecimento, processamento ou pagamento de fundos, outros ativos financeiros ou recursos económicos, nem ao fornecimento de bens e serviços necessários para assegurar a prestação atempada de ajuda humanitária ou para apoiar outras atividades destinadas a suprir as necessidades humanas básicas, se essa ajuda e essas outras atividades forem realizadas:
+
+a) Pelas Nações Unidas, incluindo os seus programas, fundos e outras entidades e órgãos, bem como as suas agências especializadas e organizações conexas;
+
+b) Por organizações internacionais;
+
+c) Por organizações humanitárias com estatuto de observador na Assembleia Geral das Nações Unidas e membros dessas organizações;
+
+d) Por organizações não governamentais financiadas a nível bilateral ou multilateral que participem nos planos de resposta humanitária das Nações Unidas, nos planos de resposta para os refugiados, noutros apelos das Nações Unidas ou nas estruturas humanitárias coordenadas pelo Gabinete de Coordenação dos Assuntos Humanitários das Nações Unidas (OCHA);
+
+e) Pelos trabalhadores, beneficiários, subsidiárias ou parceiros de execução das entidades mencionadas nas alíneas a) a d) enquanto e na medida em que atuem nessa qualidade; ou
+
+f) Por outros intervenientes pertinentes indicados pelo Comité de Sanções.
+
+###### Artigo 6.º
+
+O Conselho estabelece a lista constante do anexo e procede às alterações da mesma com base nas determinações do Comité das Sanções.
+
+###### Artigo 7.º
+
+1. Caso o Conselho de Segurança das Nações Unidas ou o Comité das Sanções inclua na lista uma pessoa ou entidade, o Conselho inclui essa pessoa ou entidade no anexo. O Conselho dá a conhecer a sua decisão, incluindo os motivos que a fundamentam, à pessoa ou entidade em causa, quer diretamente, se o seu endereço for conhecido, quer através da publicação de um anúncio, dando-lhe a oportunidade de apresentar as suas observações.
+
+2. Sendo apresentadas observações ou novos elementos substanciais de prova, o Conselho reaprecia a sua decisão e informa em conformidade a pessoa ou entidade em causa.
+
+###### Artigo 8.º
+
+1. O anexo contém os motivos apresentados pelo Conselho de Segurança das Nações Unidas ou pelo Comité das Sanções para a inclusão das pessoas ou entidades na lista.
+
+2. O anexo contém também, sempre que estejam disponíveis, informações fornecidas pelo Conselho de Segurança das Nações Unidas ou pelo Comité das Sanções que sejam necessárias para identificar as pessoas ou entidades em causa. Tratando-se de pessoas, essas informações podem incluir o nome (incluindo os pseudónimos), a data e o local de nascimento, a nacionalidade, os números de passaporte e de bilhete de identidade, o sexo, o endereço, se for conhecido, bem como a profissão ou as funções exercidas. Tratando-se de entidades, essas informações podem incluir o nome, o local, a data e o número de registo e o local de atividade. O anexo deve igualmente indicar a data da designação pelo Conselho de Segurança das Nações Unidas ou pelo Comité das Sanções.
+
+###### Artigo 9.º
+
+As medidas referidas no artigo 1.º são revistas a intervalos regulares e, pelo menos, de 12 em 12 meses. Tais medidas são revogadas se o Conselho considerar que os seus objetivos foram atingidos.
+
+###### Artigo 10.º
+
+A Decisão 2011/423/PESC é revogada.
+
+###### Artigo 11.º
+
+A presente decisão entra em vigor na data da sua publicação no *Jornal Oficial da União Europeia*.
+
+## ANEXO
+
+### LISTA DAS PESSOAS E ENTIDADES A QUE SE REFEREM OS ARTIGOS 4.º-E 5.º
+
+### 1. ELHASSAN, Gaffar Mohammed
+
+**Outros nomes por que é conhecido**: Gaffar Mohmed Elhassan
+
+**Designação**: Major-General e comandante da Região Militar Ocidental das Forças Armadas do Sudão (SAF)
+
+**N.º de identificação nacional**: Cartão de antigo combatente 4302
+
+**Data de nascimento**: 24 de junho de 1952
+
+**Endereço**: El Waha, Omdurman, Sudão
+
+**Data de designação pela ONU**: 25 de abril de 2006
+
+**Informações suplementares**: Aposentado do Exército sudanês. Hiperligação para o aviso especial da INTERPOL e do Conselho de Segurança das Nações Unidas: https://www.interpol.int/en/notice/search/un/5282254
+
+**Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:**
+
+O Painel de Peritos informa que o Major-General Gaffar Mohammed Elhassan lhe declarou ter tido o comando operacional direto (principalmente o comando tático) de todos os elementos das SAF no Darfur quando era comandante da Região Militar Ocidental. Elhassan ocupou o lugar de comandante da Região Militar Ocidental desde novembro de 2004 (aproximadamente) até princípios de 2006. Segundo a informação à disposição do Painel, Elhassan foi responsável por violações do disposto no ponto 7 da Resolução 1591 do CSNU por ter aproveitado o lugar que ocupava para solicitar (a Cartum) e autorizar (desde 29 de março de 2005) a transferência de equipamento militar para o Darfur sem a aprovação prévia do Comité 1591. O próprio Elhassan reconheceu perante o Painel de Peritos que entre 29 de março de 2005 e dezembro de 2005 tinham sido levados para o Darfur aeronaves, motores de aeronaves e outros equipamentos militares provenientes de outras regiões do Sudão. Informou, por exemplo, o Painel de que entre 18 e 21 de setembro de 2005 tinham sido levados sem autorização para o Darfur 2 helicópteros de combate Mi-24. Existem também motivos razoáveis para crer que Elhassan foi diretamente responsável, na sua qualidade de comandante da Região Militar Ocidental, pela autorização de voos militares de caráter ofensivo na zona em torno de Abu Hamra, em 23-24 de julho de 2005, e na zona de Jebel Moon do Darfur Ocidental, em 19 de novembro de 2005. Os helicópteros de combate Mi-24 estiveram envolvidos em ambas as operações e, segundo consta, abriram fogo nas duas ocasiões. O Painel de Peritos relata que Elhassan lhe comunicou ter ele próprio aprovado, na sua qualidade de comandante da Região Militar Ocidental, pedidos de apoio aéreo e outras operações aéreas. (Ver relatório do Painel de Peritos, S/2006/65, pontos 266-269.) Com estas ações, o Major-General Gaffar Mohammed Elhassan infringiu disposições relevantes da Resolução 1591 do CSNU e preenche, pois, os critérios para ser designado pelo Comité a fim de ficar sujeito a sanções.
+
+### 2. ALNSIEM, Musa Hilal Abdalla
+
+**Outros nomes por que é conhecido**: a) Sheikh Musa Hilal; b) Abd Allah; c) Abdallah; d) AlNasim; e) Al Nasim; f) AlNaseem; g) Al Naseem; h) AlNasseem; i) Al Nasseem
+
+**Designação**: a) antigo membro da Assembleia Nacional do Sudão, do distrito de Al-Waha; b) antigo conselheiro especial junto do Ministério dos Assuntos Federais; c) chefe supremo da tribo Mahamid no Darfur Setentrional
+
+**Data de nascimento**: a) 1 de janeiro de 1964; b) 1959
+
+**Local de nascimento**: Kutum
+
+**Endereço**: a) Kabkabiya, Sudão; b) Kutum, Sudão (reside em Kabkabiya e na cidade de Kutum, no Darfur Setentrional, e residiu em Cartum)
+
+**Nacionalidade**: Sudão
+
+**N.º de passaporte**: a) passaporte diplomático D014433, emitido em 21 de fevereiro de 2013 (caducou em 21 de fevereiro de 2015);
+
+b) passaporte diplomático D009889, emitido em 17 de fevereiro de 2011 (caducou em 17 de fevereiro de 2013)
+
+**N.º de identificação nacional**: certificado de nacionalidade A0680623
+
+**Data de designação pela ONU**: 25 de abril de 2006
+
+**Informações suplementares**: fotografia pronta a incluir no aviso especial da INTERPOL e do Conselho de Segurança das Nações Unidas. Hiperligação para o aviso especial da INTERPOL e do Conselho de Segurança das Nações Unidas: https://www.interpol.int/en/notice/search/un/5795065
+
+***Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:***
+
+Num relatório, a *Human Rights Watch* afirma ter em seu poder uma nota datada de 13 de fevereiro de 2004 e emanada de uma autoridade local do Darfur Setentrional ordenando às «unidades de segurança da localidade» que «permitam a prossecução das atividades dos mujaidines e dos voluntários sob o comando de Sheikh Musa Hilal nas zonas [do Darfur Setentrional] e assegurem as suas necessidades vitais». Em 28 de setembro de 2005, 400 homens da milícia árabe atacaram as aldeias de Aro Sharrow (incluindo um campo de deslocados internos), Acho e Gozmena, no Darfur Ocidental. Cremos também que Musa Hilal estava presente no ataque contra o campo de deslocados de Sharrow: o seu filho tinha sido morto durante o ataque do SLA (Exército de Libertação do Sudão) contra Shareia, pelo que Musa Hilal se envolveu então numa rixa sangrenta de caráter pessoal. Há motivos razoáveis para crer que, na sua qualidade de chefe supremo, teve responsabilidade direta nestas ações e é responsável por violações do direito internacional humanitário e em matéria de direitos humanos e por outras atrocidades.
+
+### 4. MAYU, Jibril Abdulkarim Ibrahim
+
+**Outros nomes por que é conhecido**: a) general Gibril Abdul Kareem Barey; b) «Tek»; c) Gabril Abdul Kareem Badri
+
+**Designação**: comandante operacional do Movimento Nacional para a Reforma e o Desenvolvimento (NMRD)
+
+**Data de nascimento**: 1 de janeiro de 1967
+
+**Local de nascimento**: El-Fasher, Darfur Setentrional
+
+**Nacionalidade**: sudanês por nascimento
+
+**Endereço**: Tine, Sudão (reside em Tine, no lado sudanês da fronteira com o Chade)
+
+**N.º de identificação nacional**: a) 192-3238459- 9; b) certificado de nacionalidade adquirido por nascimento 302581
+
+**Data de designação pela ONU**: 25 de abril de 2006
+
+**Informações suplementares**: fotografia pronta a incluir no aviso especial da INTERPOL e do Conselho de Segurança das Nações Unidas. Hiperligação para o aviso especial da INTERPOL e do Conselho de Segurança das Nações Unidas: https://www.interpol.int/en/notice/search/un/5795071
+
+***Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:***
+
+Mayu é responsável pelo rapto de membros do pessoal da Missão da União Africana no Sudão (AMIS) no Darfur durante o mês de outubro de 2005. Mayu tenta abertamente contrariar a missão AMIS através da intimidação, tendo por exemplo ameaçado alvejar os helicópteros da União Africana na zona de Jebel Moon em novembro de 2005. Com estas ações, Mayu violou claramente o disposto na Resolução 1591 do CSNU ao constituir uma ameaça para a estabilidade no Darfur, pelo que preenche os critérios para ser designado pelo Comité a fim de ficar sujeito a sanções.
+
+### 5. JUMA BARKALLA, Abdel Rahman
+
+**Designação:** major-general das Forças de Apoio Rápido (RSF) e comandante do Darfur Ocidental.
+
+**Data de nascimento:** 1 de janeiro de 1969.
+
+**Local de nascimento:** Bahr Elarab, Darfur Oriental, Sudão.
+
+**Nacionalidade:** Sudão
+
+**Passaporte:** Sudão P07834700.
+
+**N.º de identificação nacional:** Sudão 21052659309.
+
+**Data de designação pela ONU:** 8 de novembro de 2024.
+
+**Justificação para a inclusão na lista:**
+
+Abdel Rahman Juma Barkalla foi incluído na lista em 8 de novembro de 2024, nos termos do ponto 3, alínea c), da Resolução 1591(2005) do Conselho de Segurança das Nações Unidas.
+
+***Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:***
+
+Abdel Rahman Juma Barkalla, major-general da RSF e comandante do Darfur Ocidental, é designado por participar em ações ou políticas que ameaçam a paz, a segurança ou a estabilidade do Darfur, incluindo atos de violência e violações dos direitos humanos. Os ataques da RSF no Darfur puseram em risco centenas de milhares de civis devido aos intensos combates, à falta de acesso humanitário e à violência dirigida a civis e ativistas dos direitos humanos.
+
+Em maio e junho de 2023, a RSF e milícias aliadas ameaçaram especificamente e mataram representantes da sociedade civil em El Geneina, no Darfur Ocidental. Em 4 de agosto de 2023, homens armados com fardas da RSF raptaram e mataram o ativista dos direitos humanos e advogado, Ahmed Mohammed Abdullah, e o seu colega, Adam Omer, em Nyala, no Darfur Meridional.
+
+O governador do Darfur Ocidental, Khamis Abakar, foi morto em 14 de junho de 2023 e foi visto pela última vez na companhia de Abdel Rahman Juma Barkalla (ver S/2024/65, ponto 71). Vídeos nas redes sociais mostram que Khamis Abakar foi forçado a entrar num edifício por soldados da RSF; seguidamente, um segundo vídeo publicado horas mais tarde mostra o seu cadáver rodeado de tropas com fardas da RSF a celebrar.
+
+Entre maio e novembro de 2023, a RSF e as milícias suas aliadas levaram a cabo pelo menos dez ataques contra civis nas cidades de El Geneina e Ardamata, no Darfur Ocidental, matando milhares de pessoas e enterrando-as em mais de 13 valas comuns. As mulheres e as raparigas também foram alegadamente violadas e vítimas de abusos sexuais durante esses ataques.
+
+### 6. HAMID MOHAMED, Osman Mohamed
+
+**Designação:** major-general das Forças de Apoio Rápido (RSF) e comandante do Departamento de Operações da RSF.
+
+**Data de nascimento:** 1 de janeiro de 1966.
+
+**Local de nascimento:** Kadiqali, Darfur Meridional, Sudão.
+
+**Nacionalidade:** Sudão
+
+**N.º de identificação nacional:** Sudão 11540384888.
+
+**Data de designação pela ONU:** 8 de novembro de 2024.
+
+**Justificação para a inclusão na lista:**
+
+Osman Mohamed Hamid Mohamed foi incluído na lista em 8 de novembro de 2024, nos termos do ponto 3, alínea c), da Resolução 1591(2005) do Conselho de Segurança das Nações Unidas.
+
+***Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:***
+
+Osman Mohamed Hamid Mohamed, major-general e comandante do Departamento de Operações da RSF, é designado por participar em ações ou políticas que ameaçam a paz, a segurança ou a estabilidade do Darfur, incluindo atos de violência e violações dos direitos humanos. Fez declarações em nome da RSF após grandes vitórias, e constitui uma parte importante do planeamento operacional da RSF. Os ataques da RSF no Darfur puseram em risco centenas de milhares de civis devido aos intensos combates, à falta de acesso humanitário e à violência dirigida a civis e ativistas dos direitos humanos.
+
+Em maio e junho de 2023, a RSF e milícias aliadas ameaçaram especificamente e mataram representantes da sociedade civil em El Geneina, no Darfur Ocidental. Em 4 de agosto de 2023, homens armados com fardas da RSF raptaram e mataram o ativista dos direitos humanos e advogado, Ahmed Mohammed Abdullah, e o seu colega, Adam Omer, em Nyala, no Darfur Meridional.
+
+Em 14 de junho de 2023, o governador do Darfur Ocidental, Khamis Abakar, foi morto depois de ter sido detido por combatentes da RSF no mesmo dia. Vídeos nas redes sociais mostram que Khamis Abakar foi forçado a entrar num edifício por soldados da RSF; seguidamente, um segundo vídeo publicado horas mais tarde mostra o seu cadáver rodeado de tropas com fardas da RSF a celebrar.
+
+Entre maio e novembro de 2023, a RSF e as milícias suas aliadas levaram a cabo pelo menos dez ataques contra civis nas cidades de El Geneina e Ardamata, no Darfur Ocidental, matando milhares de pessoas e enterrando-as em mais de 13 valas comuns. As mulheres e as raparigas também foram alegadamente violadas e vítimas de abusos sexuais durante esses ataques.
+
+### 7. GEDO Hamdan Ahmed
+
+**Outros nomes por que é conhecido: Abu Nashuk**
+
+**Designação:** comandante da secção do Darfur setentrional das Forças de Apoio Rápido
+
+**Nacionalidade:** Sudão
+
+**Sexo:** masculino
+
+**Data da designação pela ONU:** 24 de fevereiro de 2026
+
+**Justificação para a inclusão na lista:**
+
+Gedo Hamdan Ahmed foi incluído na lista em 24 de fevereiro de 2026, nos termos do ponto 3, alínea c), da Resolução 1591 (2005).
+
+***Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:***
+
+*Gedo Hamdan Ahmed, ou Abu Nashuk, tenente-general e segundo comandante das RSF, é designado por participar em ações ou políticas que ameaçam a paz, a segurança ou a estabilidade do Darfur, incluindo atos de violência e violações dos direitos humanos. Abu Nashuk foi um dos seis generais das RSF que estiveram em El Fasher, no Darfur setentrional, em 26 de outubro de 2025, e foi visto em imagens de vídeo ao lado de Abdul Rahim Hamdan Dagalo, segundo comandante das RSF. Naquela data, as RSF cometeram atrocidades, incluindo assassínios em massa de civis na universidade de El Fasher e no hospital saudita, além de fuzilamentos no noroeste do Darfur. A violência em El Fasher incluiu também execuções entre a comunidade Zaghawa e outros grupos não árabes por motivos étnicos. Há relatos de violência sexual generalizada, incluindo violações coletivas em frente a familiares, e outras formas de violência sexual com base no género. Há relatos de que as tropas das RSF estão a manter profissionais de saúde como reféns com o objetivo de exigirem resgates, tendo raptado quatro médicos, um farmacêutico e um enfermeiro em troca dos quais exigem somas superiores a 150 000 dólares americanos. Os acontecimentos em El Fasher terão obrigado à deslocação de 70 000 pessoas desde 26 de outubro de 2025, com civis a permanecerem encurralados ou desaparecidos, ou detidos pelas RSF dentro da cidade.*
+
+### 8. DAGALO, Abdul Rahim Hamdan
+
+**Designação:** vice-chefe das Forças de Apoio Rápido (RSF)
+
+**Data de nascimento:** 1 de janeiro de 1972
+
+**Local de nascimento:** Cartum, Sudão
+
+**Nacionalidade:** Sudão
+
+**Sexo:** masculino
+
+**Data da designação pela ONU:** 24 de fevereiro de 2026
+
+**Justificação para a inclusão na lista:**
+
+Abdul Rahim Hamdan Dagalo foi incluído na lista em 24 de fevereiro de 2026, nos termos do ponto 3, alínea c), da Resolução 1591 (2005).
+
+***Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:***
+
+*Abdul Rahim Hamdan Dagalo, vice-chefe das RSF e irmão do comandante das RSF Mohamed Hamdan «Hemedti» Dagalo, é designado por participar em ações ou políticas que ameaçam a paz, a segurança ou a estabilidade do Darfur, incluindo atos de violência e violações dos direitos humanos. Dagalo foi identificado como tendo estado presente na base da 6.ª Divisão de Infantaria das SAF em El Fasher, no Darfur setentrional, em 26 de outubro de 2025, e supervisionado as operações no dia da tomada do poder de El Fasher pelas RSF. As imagens que se crê serem de Dagalo mostram-no a dar ordens diretas aos seus combatentes para não fazerem prisioneiros, mas sim para matarem todas as pessoas. Dagalo já foi descrito anteriormente como tendo desempenhado um papel fundamental em muitas das ofensivas levadas a cabo pelas forças militares e pelas RSF nas regiões fronteiriças do Sudão, sendo considerado o comandante que controla as RSF. Em 26 de outubro, as RSF cometeram atrocidades, incluindo assassínios em massa de civis na universidade de El Fasher e no hospital saudita, além de fuzilamentos no noroeste do Darfur. A violência em El Fasher incluiu também execuções entre a comunidade Zaghawa e outros grupos não árabes por motivos étnicos. Há relatos de violência sexual generalizada, incluindo violações coletivas em frente a familiares, e outras formas de violência sexual com base no género. Há relatos de que as tropas das RSF estão a manter profissionais de saúde como reféns com o objetivo de exigirem resgates, tendo raptado quatro médicos, um farmacêutico e um enfermeiro em troca dos quais exigem somas superiores a 150 000 dólares americanos. Os acontecimentos em El Fasher terão obrigado à deslocação de 70 000 pessoas desde 26 de outubro de 2025, com civis a permanecerem encurralados ou desaparecidos, ou detidos pelas RSF dentro da cidade.*
+
+### 9. AL-FATEH, Abdullah Idris
+
+**Outros nomes por que é conhecido: Abu Lulu**
+
+**Designação:** brigadeiro-general das Forças de Apoio Rápido
+
+**Nacionalidade:** Sudão
+
+**Sexo:** masculino
+
+**Data da designação pela ONU:** 24 de fevereiro de 2026
+
+**Justificação para a inclusão na lista:**
+
+Al-Fateh Abdullah Idris foi incluído na lista em 24 de fevereiro de 2026, nos termos do ponto 3, alínea c), da Resolução 1591 (2005).
+
+***Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:***
+
+*Al-Fateh Abdullah Idris, conhecido por Abu Lulu, brigadeiro-general das RSF, é designado por participar em ações ou políticas que ameaçam a paz, a segurança ou a estabilidade do Darfur, incluindo atos de violência e violações dos direitos humanos. Em 26 de outubro, as RSF cometeram atrocidades, incluindo assassínios em massa de civis na universidade de El Fasher e no hospital saudita, além de fuzilamentos no noroeste do Darfur. Abu Lulu é conhecido como «o carniceiro de El Fasher», por ser um dos principais autores da violência em El Fasher, em 26 de outubro. Deu ordens aos seus homens para matarem pessoas inocentes e imagens de vídeo mostram-no a executar civis e a gabar-se de ter assassinado mais de 2 000 pessoas. Alguns vídeos foram filmados e publicados pelas próprias RSF e Abu Lulu filmou-se a sorrir e a matar pessoas enquanto clamavam por misericórdia, e aparece em vídeos em que realiza execuções por motivos étnicos. Imagens mostram-no a disparar contra homens desarmados e a posar entre os cadáveres, exibindo as pessoas que matara. Os acontecimentos em El Fasher terão obrigado à deslocação de 70 000 pessoas desde 26 de outubro de 2025, com civis a permanecerem encurralados ou desaparecidos, ou detidos pelas RSF dentro da cidade.*
+
+### 10. MOHAMED, Tijani Ibrahim Moussa
+
+**Outros nomes por que é conhecido: Al Zeir Salem**
+
+**Designação:** comandante operacional das Forças de Apoio Rápido
+
+**Nacionalidade:** Sudão
+
+**Sexo:** masculino
+
+**Data da designação pela ONU:** 24 de fevereiro de 2026
+
+**Justificação para a inclusão na lista:**
+
+Tijani Ibrahim Moussa Mohamed foi incluído na lista em 24 de fevereiro de 2026, nos termos do ponto 3, alínea c), da Resolução 1591 (2005).
+
+***Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:***
+
+*Tijani Ibrahim Moussa Mohamed (Al Zeir Salem), comandante operacional das RSF, é designado por participar em ações ou políticas que ameaçam a paz, a segurança ou a estabilidade do Darfur, incluindo atos de violência e violações dos direitos humanos. Al Zeir Salem foi identificado como tendo estado presente na base da 6.ª Divisão de Infantaria das SAF em El Fasher, no Darfur setentrional, em 26 de outubro de 2025, no dia da tomada do poder pelas RSF. Também apareceu num vídeo dessa data, no qual pode ser visto a dirigir-se a um grande grupo de pessoas detidas que envergavam roupas civis. Naquela data, as RSF cometeram atrocidades, incluindo assassínios em massa de civis na universidade de El Fasher e no hospital saudita, além de fuzilamentos no noroeste do Darfur. A violência em El Fasher incluiu também execuções entre a comunidade Zaghawa e outros grupos não árabes por motivos étnicos. Há relatos de violência sexual generalizada, incluindo violações coletivas em frente a familiares, e outras formas de violência sexual com base no género. Há relatos de que as tropas das RSF estão a manter profissionais de saúde como reféns com o objetivo de exigirem resgates, tendo raptado quatro médicos, um farmacêutico e um enfermeiro em troca dos quais exigem somas superiores a 150 000 dólares americanos. Os acontecimentos em El Fasher terão obrigado à deslocação de 70 000 pessoas desde 26 de outubro de 2025, com civis a permanecerem encurralados ou desaparecidos, ou detidos pelas RSF dentro da cidade.*
+
+### 11. QUIJANO BECERRA, Alvaro Andres
+
+**Designação:** Fundador da International Services Agency (A4SI).
+
+**Data de nascimento:** 18 de julho de 1967
+
+**Local de nascimento:** Bogotá, Colômbia
+
+**Nacionalidade:** a) Colômbia; b) Itália
+
+**Sexo:** masculino
+
+**Passaporte:** a) Colômbia, n.º AP628498; b) Itália, n.º YB7731256 (válido até 1 de março de 2031).
+
+**N.º de identificação nacional:** Colômbia, cédula n.º 80413253.
+
+**Data da designação pela ONU:** 28 de abril de 2026
+
+#### Justificação para a inclusão na lista:
+
+Alvaro Andres Quijano Becerra foi incluído na lista em 28 de abril de 2026, nos termos do ponto 3, alínea c), da Resolução 1591 (2005).
+
+#### Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:
+
+*Alvaro Andres Quijano Becerra (Quijano) é designado por participar em ações ou políticas que ameaçam a paz, a segurança ou a estabilidade do Darfur.*
+
+*Quijano desempenha um papel central no recrutamento e destacamento de antigos militares colombianos para o Sudão. Provas em vídeo e fotográficas mostram que estes militares fornecem às Forças de Apoio Rápido (RSF) conhecimentos especializados de ordem tática e técnica, atuam como infantes e artilheiros, pilotos de drones, operadores de veículos e instrutores, e alguns até treinam crianças para combaterem nas RSF.*
+
+*Os combatentes colombianos têm participado em numerosas batalhas em todo o Sudão, inclusive na capital, Cartum, bem como em Omdurman, Kordofan e El Fasher.*
+
+*Quijano, um antigo associado do Cartel Notre del Valle, sediado na Colômbia, é apoiado por uma rede de associados e empresas especializadas em recrutar combatentes e em facilitar a circulação de fundos relacionados com o seu destacamento. Quijano cofundou uma agência de emprego, a International Services Agency (A4SI), que é o principal centro de recrutamento, tendo participado em campanhas através do seu sítio Web, conversas de grupo em linha e debates públicos em linha para preencher funções, como operadores de drones, atiradores furtivos e tradutores. Entre 350 e 380 combatentes colombianos, na sua maioria antigos soldados, foram recrutados através de várias empresas de segurança privadas, incluindo a A4SI.*
+
+*Claudia Viviana Oliveros Forero (SDi.013), Mateo Andres Duque Botero (SDi.014).*
+
+### 12. OLIVEROS FORERO, Claudia Viviana
+
+**Designação:** Proprietária e gestora da International Services Agency (A4SI).
+
+**Data de nascimento:** 2 de janeiro de 1973
+
+**Local de nascimento:** Bogotá, Colômbia
+
+**Nacionalidade:** Colômbia
+
+**Sexo:** feminino
+
+**Passaporte:** Colômbia, n.º AZ321704 (válido até 20 de julho de 2032).
+
+**N.º de identificação nacional:** Colômbia, cédula n.º 52252815.
+
+**Data da designação pela ONU:** 28 de abril de 2026
+
+#### Justificação para a inclusão na lista:
+
+Claudia Viviana Oliveros Forero foi incluída na lista em 28 de abril de 2026, nos termos do ponto 3, alínea c), da Resolução 1591 (2005).
+
+#### Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:
+
+*Claudia Viviana Oliveros Forero (Oliveros) é designada por participar em ações ou políticas que ameaçam a paz, a segurança ou a estabilidade do Darfur.*
+
+*Oliveros desempenha um papel central no recrutamento e destacamento de antigos militares colombianos para o Sudão. Provas em vídeo e fotográficas mostram que estes militares fornecem às Forças de Apoio Rápido (RSF) conhecimentos especializados de ordem tática e técnica, atuam como infantes e artilheiros, pilotos de drones, operadores de veículos e instrutores, e alguns até treinam crianças para combaterem nas RSF.*
+
+*Os combatentes colombianos têm participado em numerosas batalhas em todo o Sudão, inclusive na capital, Cartum, bem como em Omdurman, Kordofan e El Fasher. Oliveros é a proprietária e gestora de uma agência de emprego, a International Services Agency (A4SI), que é o principal centro de recrutamento, tendo participado em campanhas através do seu sítio Web, conversas de grupo em linha e debates públicos em linha para preencher funções, como operadores de drones, atiradores furtivos e tradutores. Entre 350 e 380 combatentes colombianos, na sua maioria antigos soldados, foram recrutados através de várias empresas de segurança privadas, incluindo a A4SI.*
+
+*Alvaro Andres Quijano Becerra (SDi.012), Mateo Andres Duque Botero (SDi.014).*
+
+### 13. DUQUE BOTERO, Mateo Andres
+
+**Data de nascimento:** 7 de abril de 1975
+
+**Local de nascimento:** Bogotá, Colômbia
+
+**Endereço:** Calle 77 9 76 APT 302, Bogota, Colombia.
+
+**Nacionalidade:** a) Colômbia; b) Espanha
+
+**Sexo:** masculino
+
+**Passaporte:** a) Colômbia, n.º AS272175 (válido até 31 de março de 2026); b) Espanha, n.º XDD789846; c) Colômbia, n.º BF868819 (válido até 1 de março de 2035).
+
+**N.º de identificação nacional:** Colômbia, cédula n.º 79782423.
+
+**Data da designação pela ONU:** 28 de abril de 2026
+
+#### Justificação para a inclusão na lista:
+
+Mateo Andres Duque Botero foi incluído na lista em 28 de abril de 2026, nos termos do ponto 3, alínea c), da Resolução 1591 (2005).
+
+#### Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:
+
+*Mateo Andres Duque Botero (Duque) é designado por participar em ações ou políticas que ameaçam a paz, a segurança ou a estabilidade do Darfur.*
+
+*Duque desempenha um papel central no financiamento de antigos militares colombianos no Sudão. Gere o Maine Global Corp, que gere e financia a Global Staffing (atualmente Talent Bridge) e a empresa que contrata militares colombianos, com o apoio de empresas sediadas nos EUA associadas a Duque. Tal inclui o processamento dos pagamentos de salários para os combatentes colombianos e a função de corretor cambial, convertendo euros e pesos colombianos em dólares americanos. Em 2024 e 2025, empresas sediadas nos EUA associadas a Duque efetuaram numerosas transferências eletrónicas, num total de vários milhões de dólares americanos, com a Maine Global Corp, a Global Staffing e a empresa que contrata os combatentes colombianos.*
+
+*Provas em vídeo e fotográficas mostram que estes combatentes colombianos fornecem às Forças de Apoio Rápido (RSF) conhecimentos especializados de ordem tática e técnica, atuam como infantes e artilheiros, pilotos de drones, operadores de veículos e instrutores, e alguns até treinam crianças para combaterem nas RSF.*
+
+*Os combatentes colombianos têm participado em numerosas batalhas em todo o Sudão, inclusive na capital, Cartum, bem como em Omdurman, Kordofan e El Fasher.*
+
+*Alvaro Andres Quijano Becerra (SDi.012), Claudia Viviana Oliveros Forero (SDi.013).*
+
+**Outros nomes por que é conhecido:** a) Algoney Hamdan; b) Al-Qoni Hamdan.
+
+**Designação:** diretor das Forças de Apoio Rápido.
+
+**Data de nascimento**: 7 de agosto de 1990.
+
+**Local de nascimento:** norte de Nayala, Sudão.
+
+**Endereço:** Dubai, Emirados Árabes Unidos.
+
+**Nacionalidade**: Sudão.
+
+**Sexo:** masculino.
+
+**Passaporte:** a) Sudão, n.º B00017334; b) Sudão, n.º B00024943 (válido até 27 de setembro de 2031); c) Quénia, n.º AK1586127.
+
+**N.º de identificação nacional**: Emirados Árabes Unidos, 784199014302485.
+
+**Data da designação pela ONU:** 28 de abril de 2026.
+
+**Justificação para a inclusão na lista:**
+
+Al-Goney Hamdan Dagalo foi incluído na lista em 28 de abril de 2026, nos termos do ponto 3, alínea c), da Resolução 1591 (2005).
+
+***Informações provenientes do resumo descritivo dos motivos de inclusão na lista fornecido pelo Comité das Sanções:***
+
+*Al-Goney Hamdan Dagalo (Al-Goney) é designado por participar em ações ou políticas que ameaçam a paz, a segurança ou a estabilidade do Darfur.*
+
+*Al-Goney é diretor de aquisições das Forças de Apoio Rápido (RSF) e irmão de Mohammed Hamdan «Hemedti» Dagalo, chefe das RSF. Al-Goney prolongou esta guerra ao liderar os esforços das RSF para adquirir armas e material militar. Ao armar as RSF, as suas ações contribuíram diretamente para o atual cerco das RSF a El Fasher no Darfur setentrional, uma cidade de quase dois milhões de civis vulneráveis, e para as operações das RSF noutros locais do Sudão.*
+
+*Al-Goney controla a Tradive General Trading, empresa de fachada das RSF que importou veículos para o Sudão em nome das RSF.*
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/1b6ac5d1-7a15-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Posição Comum 2008/944/PESC do Conselho, de 8 de dezembro de 2008, que define regras comuns aplicáveis ao controlo das exportações de tecnologia e equipamento militares (JO L 335 de 13.12.2008, p. 99).

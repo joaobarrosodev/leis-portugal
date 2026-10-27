@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: pt:dre:164619:por
+title: Decreto-Lei n.º 44443
+short_title: null
+summary: Insere disposições destinadas a simplificar e descongestionar os serviços da Direcção-Geral do Ensino Técnico Profissional
+  e a regular a prestação, pelos professores, de serviço extraordinário e o abono das correspondentes gratificações, bem como
+  o recrutamento dos instrutores rurais do ensino complementar agrícola - Dá nova redacção aos artigos 16.º, 24.º e 25.º do
+  Decreto-Lei n.º 41381, que institui no ensino profissional agrícola os cursos complementares de aprendizagem, elementos
+  de aperfeiçoamento e de formação profissional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação Nacional - Direcção-Geral do Ensino Técnico Profissional
+proposing_entity: null
+official_number: '44443'
+official_date: null
+publication_date: '1962-07-02'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 149/1962, Série I de 1962-07-02
+  number: '149'
+  series: I
+  supplement: null
+  pages: 919 - 920
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/07/14900/09190920.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '164619'
+  dre_path: /dr/detalhe/decreto-lei/44443-1962-164619
+  internal: pt:dre:164619:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44443-1962-164619
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44443-1962-164619
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:41:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8a14da2c862109de67132ee9a810cb446b1fc4da306a6dd77f0e984a4654e104
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Colocação de Professores
+- Ensino Agrícola
+- Ensino Profissional
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Gratificação
+- Horas Extraordinárias
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Visto do Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:251611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627230:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:41:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44443
+
+O desenvolvimento do ensino técnico profissional impõe a adopção de providências susceptíveis de simplificar e descongestionar os serviços da Direcção-Geral.
+
+Apesar do seu carácter parcelar, a esse fim se destinam as disposições do presente diploma, aliás integradas na orientação definida pelo [Decreto-Lei n.º 42800](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42800-1960-627230), de 11 de Janeiro de 1960.
+
+Aproveita-se o ensejo para regular em termos que a experiência mostrou serem os mais convenientes não só a prestação, pelos professores, de serviço extraordinário e o abono das correspondentes gratificações, como também o recrutamento dos instrutores rurais do ensino complementar agrícola.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Os provimentos previstos nos artigos 216.º, 225.º e 307.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, nos artigos 94.º e 95.º do [Decreto n.º 38026](https://diariodarepublica.pt/dr/detalhe/decreto/38026-1950-486558), de 2 de Novembro de 1950, bem como nos artigos 64.º e 67.º dos Decretos n.os 38032 e 38231, respectivamente de 4 de Novembro de 1950 e 23 de Abril de 1951, passam a ser feitos, mediante prévia autorização da entidade em cada caso competente para nomear, por alvará do director do estabelecimento de ensino em que o serviço deve ser prestado, mantendo-se, porém, a validade dos actuais diplomas a que seja aplicável o disposto no artigo 4.º do [Decreto-Lei n.º 41176](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41176-1957-279194), de 8 de Julho de 1957.
+
+Art. 2.º Os efeitos dos provimentos a que se refere o artigo anterior extinguem-se no termo do ano escolar a que respeitam, mas podem ser renovados para os anos escolares seguintes, com dispensa de novo diploma, sempre que as necessidades do serviço o justifiquem e o director do instituto ou da escola, ouvido o conselho escolar, assim o proponha e a proposta seja aprovada pela entidade em cada caso competente para nomear.
+
+§ único. O regime previsto no corpo deste artigo é aplicável às nomeações feitas ao abrigo do artigo 222.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414).
+
+Art. 3.º Para efeito de informação de cabimento, os estabelecimentos de ensino enviarão à 10.ª Repartição da Direcção-Geral da Contabilidade Pública, até 15 de Outubro, mapa, em duplicado, discriminativo de todos os abonos mensais a satisfazer, até ao termo do ano escolar, por conta da dotação consignada a «pessoal contratado não pertencente aos quadros» na respectiva tabela orçamental.
+
+§ único. Nos diplomas que hajam de ser submetidos ao visto do Tribunal de Contas, as declarações sobre cabimento em verba, feitas com base na informação referida no corpo deste artigo e da qual se fará expressa referência, serão assinadas pelos professores-secretários ou chefes de secretaria dos estabelecimentos de ensino.
+
+Art. 4.º Os estabelecimentos de ensino enviarão directamente ao Tribunal de Contas, para efeitos de visto, os processos de nomeação a que se refere o artigo 1.º do presente diploma, os quais, depois de cumprida aquela formalidade, serão devolvidos à Direcção-Geral do Ensino Técnico Profissional.
+
+Art. 5.º As disposições do presente decreto-lei são aplicáveis desde já ao recrutamento do pessoal docente eventual para o ano escolar de 1961-1962 e consideram-se regularizadas as nomeações e os abonos efectuados até à presente data ao abrigo do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, relativos a diplomas que não tenham sido visados pelo Tribunal de Contas.
+
+Art. 6.º O serviço docente extraordinário que, além daquele a que são legalmente obrigados, os professores dos estabelecimentos de ensino dependentes da Direcção-Geral do Ensino Técnico Profissional podem ser autorizados a prestar, em acumulação, não excederá, a partir do ano escolar de 1962-1963, dez horas por semana.
+
+§ 1.º As gratificações relativas ao serviço docente prestado em acumulação são abonadas durante os dez meses do ano lectivo.
+
+§ 2.º As faltas dadas ao serviço extraordinário envolvem a perda da correspondente gratificação, salvo se forem dadas por motivo de serviço público a que os professores não possam legalmente eximir-se ou determinado pelo Ministro da Educação Nacional, considerando-se como remuneração de cada hora de serviço um quarto da respectiva gratificação mensal.
+
+Art. 7.º Os artigos 16.º, 24.º e 25.º do [Decreto-Lei n.º 41381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41381-1957-251611), de 21 de Novembro de 1957, passam a ter a seguinte redacção:
+
+Art. 16.º Sempre que tal regime se mostre conveniente, a instrução profissional de cada núcleo será confiada, em regime de acumulação, a regentes escolhidos de entre técnicos dos serviços de assistência e de extensão do Ministério da Economia, dos estabelecimentos de ensino agrícola ou dos organismos corporativos da lavoura, sendo a regência de cada núcleo remunerada com a gratificação mensal de 700$00, acrescida do subsídio para transporte referido no artigo anterior sempre que o curso funcione em localidade situada a mais de 3 km da residência oficial dos nomeados.
+
+...
+
+Art. 24.º As despesas relativas aos cursos complementares de aprendizagem e de aperfeiçoamento serão satisfeitas pelas dotações globais, para esse efeito anualmente autorizadas e inscritas na divisão da Direcção-Geral do Ensino Técnico Profissional do orçamento do Ministério da Educação Nacional, salvo quanto aos cursos que funcionarem em escolas dependentes daquela Direcção-Geral, caso em que serão satisfeitas pelas dotações orçamentais das próprias escolas.
+
+Art. 25.º Na Direcção-Geral do Ensino Técnico Profissional, as despesas serão processadas em folhas, por concelhos, em face dos elementos que lhe forem enviados pelas entidades que tiverem a seu cargo a regência dos cursos.
+
+Art. 8.º O disposto na parte final do artigo 24.º do [Decreto-Lei n.º 41381](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41381-1957-251611) com a redacção fixada pelo presente diploma entra em execução a partir de 1 de Janeiro de 1963.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 2 de Julho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
